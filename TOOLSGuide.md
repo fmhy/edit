@@ -43,7 +43,7 @@
 * [DripDrop](https://www.dripdrop.live/) - Product Drop Countdown
 * [SetAlarmClock](https://setalarmclock.net/) - Online Alarm Clock
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
-* [Dashana](https://dashana.com/), [DataWrapper](https://www.datawrapper.de/), [RAWgraphs](https://app.rawgraphs.io/) / [GitHub](https://github.com/rawgraphs/rawgraphs-app) or [ParaView](https://github.com/Kitware/ParaView) - Data Visualization Tool
+* [Dashana](https://dashana.com/), [Flourish](https://flourish.studio/), [DataWrapper](https://www.datawrapper.de/), [RAWgraphs](https://app.rawgraphs.io/) / [GitHub](https://github.com/rawgraphs/rawgraphs-app) or [ParaView](https://github.com/Kitware/ParaView) - Data Visualization Tools
 * [Grocy](https://grocy.info/) - Grocery / Household Management Tool
 * [Volmarg](https://volmarg.github.io/) - Personal Management Tool
 * [WhoBrings](https://whobrings.com/) - Party Item Management Tool
@@ -525,7 +525,7 @@
 * [Roland 808303.studio](https://808303.studio/) - Online Drum Machine / TB-303 Bass Synth 
 * [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/) or [Hammmerhead](http://www.threechords.com/hammerhead/) - Online Drum Machine
 * [orDrumbox](https://www.ordrumbox.com/) - Drum Machine
-* [Dot Piano](https://dotpiano.com/), [VirtualPiano](https://virtualpiano.net/) or [Piano Online](https://magicode.me/piano-online) - Online Piano
+* [Dot Piano](https://dotpiano.com/), [The 88](https://impactsoundworks.com/product/the-88e/) (enter $0), [VirtualPiano](https://virtualpiano.net/) or [Piano Online](https://magicode.me/piano-online) - Virtual Pianos
 * [Petaporon](https://pixwlk.itch.io/petaporon) - Piano Sequencer / [Editor](https://pixwlk.itch.io/petaporon-editor)
 * [MK-1](https://ericrosenbaum.github.io/MK-1/) - Online Sampling Keyboard
 * [Sampulator](http://sampulator.com/) - Create Music via Keyboard
@@ -777,7 +777,7 @@
 * [Hack.chat](https://hack.chat/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chat 
 * [Cirlos](https://www.cirlos.net/), [Miranda NG](https://www.miranda-ng.org/en/) or [WeeChat](https://weechat.org/) - Chat App
 * [KiwiIRC](https://kiwiirc.com/) or [TheLounge](https://thelounge.chat/) - WebIRC Client
-* [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/), [PeerLinks](https://peerlinks.io/) or [Bitchx](http://bitchx.sourceforge.net/) - IRC Client
+* [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/), [PeerLinks](https://peerlinks.io/), [mIRC](https://www.mirc.com/get.html) or [Bitchx](http://bitchx.sourceforge.net/) - IRC Clients
 * [irc2go](https://en.irc2go.com/) - Browse IRC Chat Rooms
 * [LAN Messenger](https://lanmessenger.github.io/) - FOSS LAN Messenger / [GitHub](https://github.com/lanmessenger/lanmessenger)
 * [Cabal](https://cabal.chat/) - P2P Chat / [GitHub](https://github.com/cabal-club)
@@ -794,7 +794,7 @@
 * [Zoom Escaper](https://zoomescaper.com/) - Self-Sabotage Video Calls to Escape Meetings
 * [Pyrite](https://github.com/garage44/pyrite) - Self-Hosted Video Calls
 * [Live Curtain](https://livecurtain.com/) - Countdown Curtain For Online Meeting
-* [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Nertivia Chat](https://nertivia.net/), [Mumble](https://www.mumble.info/), [Zoiper](https://www.zoiper.com/) or [DogeHouse](https://dogehouse.tv/) / [Discord](https://discord.gg/wCbKBZF9cV) / [Github](https://github.com/benawad/dogehouse) - Voice Chat 
+* [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Nertivia Chat](https://nertivia.net/), [Mumble](https://www.mumble.info/), [Zoiper](https://www.zoiper.com/), [Google Voice](https://voice.google.com/) or [DogeHouse](https://dogehouse.tv/) - Voice Chat 
 * [IMumble](https://www.imumble.nl/), [VoicePacket](https://www.voicepacket.net/) or [Guildbit](https://guildbit.com/) - Voice Chat Servers
 * [Gather](https://gather.town/), [Vircadia](https://vircadia.com/) or [OpenSimulator](http://opensimulator.org/) - Virtual World Server
 * [FireStorm Viewer](https://www.firestormviewer.org/) - Virtual World Viewer
@@ -1060,6 +1060,7 @@
 * [goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Extension](https://chrome.google.com/webstore/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
 * [tny.im](http://tny.im) - `tny.im/rw-`
 * [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
+* [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
 * [offf.to](https://offf.to/) - Short Links via Browser
 * [ThisDay](https://thisday.link/) - Temporary Short Links
 * [Anonymiz](https://anonymiz.com/shorten-url) - Anonymous URLs - `anonymiz.com/vwiq`
@@ -1089,7 +1090,7 @@
 * [Xenu-Link](http://home.snafu.de/tilman/xenulink.html), [Lychee](https://github.com/lycheeverse/lychee), [Cyotek-Webcopy](https://www.cyotek.com/cyotek-webcopy), [Dead Link Checker](https://www.deadlinkchecker.com/) or [Broken Link Checker](https://brokenlinkcheck.com/broken-links.php) - Broken Link Checker
 * [W.A.R. Links Checker Premium](http://usa.x10host.com/mybb/showthread.php?tid=88) - Checks If File Links are Alive or Not
 * [SafeLinking](https://safelinking.net/), [bdwp](https://imwcr.cn/api/bdwp/), [Gdrivez](https://www.gdrivez.xyz/), [UpToLink](https://uptolink1.com/), [TSU.one](https://tsu.one/), [externallink](https://externallink.xyz/), [linkspop](https://linkspop.info/), [BrBushare](https://brbushare.xyz/), [KeepLinks](https://www.keeplinks.org/) or [ShortLinkto](https://shortlinkto.top/) - Link Protectors 
-* [WhoIsRequest](https://whoisrequest.com/) or [Securrity Whoiz](http://www.securrity.ru/whoiz.html) - Domain Information Lookup
+* [WhoIsRequest](https://whoisrequest.com/), [Rankchart](https://rankchart.org/tools/) or [Securrity Whoiz](http://www.securrity.ru/whoiz.html) - Domain Information Lookup
 * [Awesome Piracy Bot](https://github.com/Igglybuff/awesome-piracy-bot) - URL Scraping Tool
 * [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - DNS Information Tool
 * [Site Worth Traffic](https://www.siteworthtraffic.com/) - Calculate Website Worth
@@ -1181,6 +1182,7 @@
 
 ***
 
+* **[Discord3rdParties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)** - Discord Client Index
 * **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client 
 * **[BetterDiscord](http://betterdiscord.app/)** - Modifiable Discord Client / [GitHub](https://github.com/BetterDiscord/BetterDiscord) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)
 * **[Cumcord](https://cumcord.com/)** / [Discord](https://discord.gg/kkmM5U7YAt) or [Velocity](https://velocity-discord.netlify.app/) - Discord Client Mod 
@@ -1248,6 +1250,7 @@
 * [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - Discord Rich Presence Manager
 * [RPC PC Status](https://github.com/Faelayis/RPC-Pc-Status) - PC Status Rich Presence
 * [FetchCord](https://github.com/MrPotatoBobx/FetchCord) - OS Discord Rich Presence
+* [RichPresence for Discord](https://chrome.google.com/webstore/detail/richpresence-for-discord/glpejjlbjjegcemceejaipihnhjkaddf) - Chrome Discord Rich Presence
 * [PlayStationDiscord](https://tustin.dev/PlayStationDiscord/) - PlayStation Discord Rich Presence
 * [Rich Presence U](https://ninstars.itch.io/rpc) - Nintendo Console Rich Presence
 * [Adobe Discord RPC](https://github.com/lolitee/adobe-discord-rpc) - Adobe Rich Presence
@@ -1256,7 +1259,7 @@
 * [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) - MPV Rich Presence 
 * [MPC-DiscordRPC](https://github.com/angeloanan/MPC-DiscordRPC) - MPC Rich Presence
 * [qbittorrent-rp](https://github.com/LockBlock-dev/qbittorrent-rp) - qBittorrent Rich Presence
-* [Discord RPC Client](https://github.com/Metalloriff/discord-rpc-client) or [DiscordRPCMaker](https://drpcm.t1c.dev/) - Create Discord RPCs
+* [Discord RPC Client](https://github.com/Metalloriff/discord-rpc-client), [Discord RPC](https://github.com/discord/discord-rpc) or [DiscordRPCMaker](https://drpcm.t1c.dev/) - Create Discord RPCs
 * [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)
 * [SteamRPC](https://github.com/Crementif/SteamRPC) - Convert Steam Rich Presence to Discord Rich Presence
 * [Discord-Linux](https://discord-linux.com/) - Linux Container Bot 
@@ -1485,7 +1488,7 @@
 ## ▷ Twitch Tools
 
 * **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers)** - Block Ads on Twitch
-* [Twitch Databse](https://twitchdatabase.com/) - Twitch Tools and Analytics
+* [Twitch Databse](https://twitchdatabase.com/) or [SullyGnome](https://sullygnome.com/) - Twitch Tools and Analytics
 * [BetterTTV](https://betterttv.com/) or [FrankerFacez](https://www.frankerfacez.com/) - Twitch Enhancement Extension
 * [Stream Scheme](https://www.streamscheme.com/) - Livestreaming Guides / Resources
 * [Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f) - Twitch Extension Index
@@ -1674,7 +1677,7 @@ Twitch Stream Tracker
 * [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Laptop Deals](https://laptopsdeals.net/our-gaming-laptops-guide-list/), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
 * [r/TechSupport](https://www.reddit.com/r/techsupport/), [Windows 10 Forums](https://www.windowsphoneinfo.com/), [MSFN](https://msfn.org/board/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/), [TechSupportForum](https://www.techsupportforum.com/) or [Notebook Reviews](http://forum.notebookreview.com/) - Tech Support / [Discord](https://discord.gg/2EDwzWa) / [Wiki](https://rtech.support/books/)
 * [GetHuman](http://gethuman.com/) or [ContactFound](https://contactfound.com/) - Tech Support Numbers
-* [Laptop Knowledge Database](https://laptops.miraheze.org/wiki/Main_Page) - Laptop Info Database
+* [Laptop Knowledge Database](https://laptops.miraheze.org/wiki/Main_Page) or [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Databases
 * [Technical City](https://technical.city/) - Hardware Comparisions
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - Mouse Click Latency Chart
@@ -1700,7 +1703,7 @@ Twitch Stream Tracker
 * [WUReset](https://wureset.com/) - Reset Windows Update Components
 * [Wu10Man](https://github.com/WereDev/Wu10Man), [stopupdates10](https://greatis.com/stopupdates10/), [InControl](https://www.grc.com/incontrol.htm) or [windows-update-blocker](https://www.sordum.org/9470/windows-update-blocker-v1-7/) - Enable / Disable Windows 10 Updates
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
-* [XTR Toolbox](https://zeeex.github.io/XTR-Toolbox/) / [GitHub](https://github.com/Zeeex/XTR-Toolbox/), [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [TweakUtility](https://github.com/Craftplacer/TweakUtility), [MagicX Toolbox](https://github.com/Ahsan40/MagicX-Toolbox), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/) or [Cairo](https://cairoshell.com/) - Windows Tweaking Tools
+* [XTR Toolbox](https://zeeex.github.io/XTR-Toolbox/) / [GitHub](https://github.com/Zeeex/XTR-Toolbox/), [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [TweakUtility](https://github.com/Craftplacer/TweakUtility), [MagicX Toolbox](https://github.com/Ahsan40/MagicX-Toolbox), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/), [WinSlap](https://github.com/svenmauch/WinSlap) or [Cairo](https://cairoshell.com/) - Windows Tweaking Tools
 * [Couleur Tweak Tips](http://discord.gg/CTT), [Redwan Tweaks](https://discord.gg/4RhQurkFBZ) or [TweakCentral](https://tweakcentral.net/) - Windows Tweaks & Tips
 * [Redwan's Guide to Guides](https://docs.google.com/document/d/1hZeQkyDe-M9-zNy2eB-Koc3iOpN5-5KxkpvjQaNK60g/edit) - Windows Tweaking Guides
 * [Pastas](https://rentry.org/pastas#guides) - Windows Guides
@@ -1717,6 +1720,7 @@ Twitch Stream Tracker
 * [QuickEmu](https://github.com/wimpysworld/quickemu) or [Dexpot](https://www.dexpot.de/) - Virtual Machine Creator
 * [vBoxSysInfoMod](https://github.com/JayMontana36/vBoxSysInfoMod) - Modify VM System Info
 * [Windows Sandbox](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview) or [Sandboxie Plus](https://sandboxie-plus.com/) - Sandbox Environment
+* [Dockerholics](https://github.com/petersem/dockerholics) - Docker Apps
 * [WebCatalog](https://webcatalog.app/) - Turn Sites into Desktop Apps
 * [Heimdall](https://heimdall.site/) - Application Manager
 * [GParted](https://gparted.org/) or [AOMEI](https://www.diskpart.com/) - Partition Manager
@@ -1862,7 +1866,7 @@ Twitch Stream Tracker
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](http://www.keyefficiency.com/) - System Task Scheduler
 * [Nomad](https://www.nomadproject.io/) - App Deployment Automation / [GitHub](https://github.com/hashicorp/nomad)
 * [cygwin](http://cygwin.com/) - Linux Style Windows Tools
-* [GWSL-Source](https://github.com/Opticos/GWSL-Source) - Run Linux Apps on Windows
+* [GWSL-Source](https://github.com/Opticos/GWSL-Source) or [GWSL](https://opticos.github.io/gwsl/) - Run Linux Apps on Windows
 * [Menu11](https://github.com/prateekmedia/Menu11) - Windows 11 Style Launcher
 * [DreyMaR's](https://dreymar.colemak.org/) - Keyboard Tips and Resources
 * [Keyboard University](https://keyboard.university/) or [KDB](http://xahlee.info/kbd/keyboarding.html) - Mechanical Keyboard Building Guides
@@ -1879,7 +1883,7 @@ Twitch Stream Tracker
 * [InputDirector](http://www.inputdirector.com/), [Synergy](https://symless.com/synergy), [Barrier](https://github.com/debauchee/barrier) or [ShareMouse](https://www.sharemouse.com/) - Share Mouse & Keyboard w/ Multiple Computers
 * [Nebula](https://github.com/slackhq/nebula) - Multi-Computer Networking Tool
 * [TigerVNC](https://tigervnc.org/) - VNC Client
-* [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz) or [AppOnFly](https://app.apponfly.com/trial) - Free VPS
+* [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz), [w-colab](https://github.com/akuhnet/w-colab) or [AppOnFly](https://app.apponfly.com/trial) - Free VPS / Use Throwaway Accounts
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager 
 * [Netmaker](https://gravitl.com/netmaker) - Create Virtual Network
 * [NirLauncher](https://launcher.nirsoft.net/) - All Nirsoft Utilities in One App
@@ -2191,8 +2195,8 @@ Twitch Stream Tracker
 * [File Backup Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_backup_tools) - File / Data Backup Tools
 * [ShadowExplorer](https://www.shadowexplorer.com/) or [ShadowCopyView](https://www.nirsoft.net/utils/shadow_copy_view.html/) - Shadow Copy Explorers
 * [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) or [filebrowser](https://github.com/filebrowser/filebrowser/) - Web File Browser
-* [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/), [iStockFile](http://istockfile.com/ ) or [Securedrop](https://securedrop.org/) - Document File Sharing
-* [OpenPaper](https://openpaper.work/en/), [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) or [DataShare](https://datashare.icij.org/) - Document Manager
+* [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/), [iStockFile](http://istockfile.com/) or [Securedrop](https://securedrop.org/) - Document File Sharing
+* [OpenPaper](https://openpaper.work/en/), [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx), [PaperMerge](https://www.papermerge.com/) or [DataShare](https://datashare.icij.org/) - Document Managers
 * [Browsemonkey](https://github.com/shukriadams/browsemonkey) - Take Snapshots of File Systems
 * [Gdrive Guide-Noob Friendly](https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10) - GDrive Guide 
 * [gDrive-DirectLink](https://github.com/jagrit007/gDrive-DirectLink) or [google-drive-direct-link-generator](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - GDrive File Direct Link Generator
@@ -2234,12 +2238,12 @@ Twitch Stream Tracker
 * [filetree](https://github.com/roboyoshi/datacurator-filetree) - Data Filetree 
 * [Fucking weeb](https://github.com/cosarara/fucking-weeb) - Anime / TV File Library Manager
 * [Random Executor](https://sneakysnail.net/random-executor/) - Random File Executor 
-* [HeavenTools](http://www.heaventools.net/) or [XPEViewer](https://horsicq.github.iohttps://github.com/horsicq/XPEViewer) - PE File Editor
+* [HeavenTools](http://www.heaventools.net/) or [XPEViewer](https://horsicq.github.iohttps://github.com/horsicq/XPEViewer) - PE File Editors
 * [AXEL](https://github.com/axel-download-accelerator/axel) - Lightweight CLI Download Accelerator 
-* [HxD](https://mh-nexus.de/en/hxd/), [Hex Works](https://hex-works.com/eng) or [Hexinator](https://hexinator.com/) - Hex Editor
+* [HxD](https://mh-nexus.de/en/hxd/), [Hex Works](https://hex-works.com/eng) or [Hexinator](https://hexinator.com/) - Hex Editors
 * [webhex.net](https://en.webhex.net/) - Online Hex Viewer
-* [HexEd.it](https://hexed.it/) or [Online Hex Editor](https://www.onlinehexeditor.com/) - Online Hex Editor
-* [infekt](https://infekt.ws/) / [GitHub](https://github.com/syndicodefront/infekt), [nfoview](https://otsaloma.io/nfoview/) / [GitHub](https://github.com/otsaloma/nfoview) or [NFOmation](https://nfomation.net/) - NFO File Viewer
+* [HexEd.it](https://hexed.it/) or [Online Hex Editor](https://www.onlinehexeditor.com/) - Online Hex Editors
+* [infekt](https://infekt.ws/) / [GitHub](https://github.com/syndicodefront/infekt), [nfoview](https://otsaloma.io/nfoview/) / [GitHub](https://github.com/otsaloma/nfoview), [NFOReader](http://www.nforeader.com/) or [NFOmation](https://nfomation.net/) - NFO File Viewers
 * [text2img](https://master.ayra.ch/text2img/) - NFO Files to Image Converter
 * [TrueNAS](https://www.truenas.com/) - Storage System 
 * [Linx Server](https://github.com/andreimarcu/linx-server) or [FileStash](http://www.filestash.app/) - Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)
