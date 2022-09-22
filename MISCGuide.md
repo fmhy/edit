@@ -12,6 +12,7 @@
 # ► Indexes
 
 * **[FMHY Guides](https://fmhy.tk/guides)** or [Mega Rentry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mega_rentry) - List of Guides
+* **[The Index](https://theindex.moe/)** - Japanese Media Index
 * **[/r/PiratedGames Megathread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Gaming Piracy Site Index / [Discord](https://discord.gg/dZWwhUy)
 * **[/r/SoftwarePirates Megathread](https://rentry.org/SoftwarePirates-Megathread)** - Software Piracy Site Index
 * **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** or [/r/Stumbledon](https://www.reddit.com/r/Stumbledon/) - Helpful / Fun Sites
@@ -35,7 +36,7 @@
 * [Neverland](http://www.neverland.ws/index.html) - Piracy Index / [Links](https://rentry.co/oo9ri) 
 * [piracy](https://gitlab.com/piracy/piracy/-/tree/master/docs) - Piracy Index
 * [/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/index), [2](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki), [3](https://raddle.me/f/Piracy), [4](https://www.saidit.net/s/piracy/) - Piracy Index
-* [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/), [TopMillion](http://www.topmillion.net/) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
+* [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/), [TopMillion](http://www.topmillion.net/), [HypeStat](https://hypestat.com/alexa-rank) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
 * [10 Words](https://discover.10words.io/) - App / Tool Discovery
 * [pilssken](https://pilssken.neocities.org/warez/) - Piracy Index 
 * [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - Piracy Index / [Warning](https://i.imgur.com/jtT9GDB.png)
@@ -391,6 +392,7 @@
 * [Do not open the door](http://mexicans.eu/) - Don't you dare...
 * [This Person Does Not Exist](https://www.thispersondoesnotexist.com/) - People That Don't Exist
 * [This City Does Not Exist](https://thiscitydoesnotexist.com/) - Cities That Don't Exist
+* [This Rental Does Not Exist](https://thisrentaldoesnotexist.com/) - Rentals That Don't Exists
 * [This Artwork Does Not Exist](https://thisartworkdoesnotexist.com/) - Art That Doesn't Exist
 * [This Word Does Not Exist](https://www.thisworddoesnotexist.com/) - Words That Don't Exist
 * [These Lyrics Do Not Exist](https://www.theselyricsdonotexist.com/) - Lyrics That Don't Exist
@@ -511,6 +513,7 @@
 * [Google Doodles](https://www.google.com/doodles?q=interactive) - Interactive Google Doodles
 * [MyGrandmothersLingo](https://www.sbs.com.au/mygrandmotherslingo/) - Interactive Story
 * [elgooG](https://elgoog.im/) - Google Easter Egg Archive
+* [Gizoogle](http://www.gizoogle.net/) - Google Shiznit
 * [Internet Map](http://internet-map.net/) - Map of the Internet
 * [Screentoys](https://www.screentoys.com/) - Photo Morphing Toy
 * [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge A.I.
@@ -1258,6 +1261,7 @@
 * [FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/) - Multiple Tab Related Actions
 * [Firefox Download Managers](https://addons.mozilla.org/en-US/firefox/search/?category=download-management&recommended=true&sort=recommended%2Cusers&type=extension) - Download Managers for Firefox
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager
+* [cliget](https://addons.mozilla.org/en-US/firefox/addon/cliget/) - Download Files from Command Line
 * [Clipboard2File](https://addons.mozilla.org/en-US/firefox/addon/clipboard2file/) - Upload Images from Clipboard
 * [ShadowFox](https://overdodactyl.github.io/ShadowFox/) or [Dark Background and Light Text](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text/) - Dark Mode
 * [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - Pick Site that Opens in New Tabs 
