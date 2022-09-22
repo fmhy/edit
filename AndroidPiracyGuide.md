@@ -12,7 +12,7 @@
 
 * **[APK Adblocking Guide](https://redd.it/oyfmr1)**
 * **[AdGuard Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_adguard_premium)** - Adblocking App
-* **[Bromite](https://www.bromite.org/)** or [Monument](https://play.google.com/store/apps/details?id=br.marcelo.monumentbrowser) - Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite)
+* **[Bromite](https://www.bromite.org/)**, [jQuarks](https://f-droid.org/packages/com.oF2pks.jquarks/) or [Monument](https://play.google.com/store/apps/details?id=br.marcelo.monumentbrowser) - Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite)
 * **uBlock Origin** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Yandex](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) & [Kiwi](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) 
 * **[Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)**, [NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid) or [WebApps](https://github.com/tobykurien/WebApps/) - App Containers
 * [Blokada](https://blokada.org/) - Adblocking App
@@ -193,6 +193,7 @@
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - Android Cleanup Tool
 * [Hail](https://github.com/aistra0528/Hail) - Auto-Deactivate Unused Apps
 * [L3MON](https://github.com/D3VL/L3MON) - Remote Android Manager
+* [MouseRemote](https://github.com/Akshayaap/MouseRemote) - Use Android as Mouse
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
 * [Pluma](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader&hl=en) - RSS Reader 
 * [Water Resistance Tester](https://play.google.com/store/apps/details?id=com.ray.waterresistancetester) - Test Phones Water Resistance
@@ -285,6 +286,7 @@
 * [Google Lens](https://lens.google/) - Multiple Camera Tools
 * [Widgetshare](https://play.google.com/store/apps/details?id=com.galew.widgetshare) - Photo Sharing App
 * [PhotoSync](https://www.photosync-app.com/home.html) - Transfer Photos Between Devices
+* [APhotoManager](https://github.com/k3b/APhotoManager/) - Create Photo Map
 * [Pixomatic](https://pixomatic.us/) - Image Editor
 * [PhotoRoom](https://www.photoroom.com/) - Background Remover
 * [Dittoed](https://dittoed.app/) - Improve Image Composition
@@ -562,6 +564,7 @@
 * [Android Games and Apps](https://t.me/Apps_and_Games_Android) - Modded / Telegram
 * [Cracked Apps](https://t.me/crackedapks) - Modded / Telegram 
 * [DroidApks](https://t.me/DroidApks) - Modded / Telegram
+* [ModCombo](https://t.me/modcombo_en) - Modded / Telegram
 * [apkmod_s](https://t.me/apkmod_s) - Modded / Telegram  
 * [Pro App Share](https://t.me/proappshare) - Modded / Telegram   
 * [Kwgt Widgets](https://t.me/Kwgt_widgets) - Modded / Telegram
@@ -822,7 +825,7 @@
 * [RSS Player](https://play.google.com/store/apps/details?id=pis.android.rss.rssplayer&amp;hl=en_US) - KDrama / [Feed](http://allrss.se/dramas ), [2](http://myrss.nu/drama)
 * RSS Player
 * [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [YetAnotherVideoPlayer](https://github.com/shadow578/YetAnotherVideoPlayer), [Nova Video Player](https://github.com/nova-video-player), [Just Player](https://github.com/moneytoo/Player), [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata), [ExoPlayer](https://github.com/google/ExoPlayer) or [MX Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mx_player) / [Codec](https://github.com/USBhost/MX_FFmpeg) - Video Player
-* [Drive Stream](https://github.com/itsZECHS/DriveStream) - GDrive Video Player
+* [Drive Stream](https://github.com/itsZECHS/DriveStream) or [Thunder](https://github.com/anujd64/Thunder/) - GDrive Video Player
 * [SyncPlayer](https://f-droid.org/en/packages/io.github.powerinside.syncplay/) - Video Sync App
 * [LibreTube](https://github.com/libre-tube/libretube) or [Hyperion](https://github.com/zt64/Hyperion) - Youtube Frontend
 * [Float Tube](https://play.google.com/store/apps/details?id=com.xpp.tubeAssistant) - Floating YouTube Player
