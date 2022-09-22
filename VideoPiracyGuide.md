@@ -634,7 +634,7 @@
 * [FZMovies](https://fzmovies.net/) - Movies
 * [FilmDuty](http://filmduty.com/) - Movies / TV / Anime
 * [HugeWarez](http://hugewarez.net/movies/) - Movies / TV
-* [ExtraMovies](https://extramovies.date/) - Movies / TV
+* [ExtraMovies](https://extramovies.loan/) - Movies / TV
 * [KimoiTV](https://www.kimoitv.com/) - Movies / TV / Anime
 * [Movies Counter](https://moviescounter.se/category/english-movies/) - Movies / TV
 * [MeloMovie](https://melomovie.com/) - Movies / TV
@@ -652,7 +652,7 @@
 * [MoviesVerse](https://moviesverse.me/) - Movies / TV / [Telegram](https://t.me/MoviesHomeOFFICIALS)
 * [FreeDriveMovie](https://www.freedrivemovie.com/) - Movies / TV
 * [HDMovieArea](https://hdmoviarea.com/genre/dual-audio/) - Movies / TV
-* [Full4Movies](https://www.full4movies.bar/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)
+* [Full4Movies](https://www.full4movies.digital/category/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)
 * [Movies Mobile](https://mobilemovies.info/index.php?dir=Hollywood%20Movies) - Movies
 * [SeriesVault](https://seriesvault.tk/) - TV
 * [TVShows.today](https://tvshows.today/) - TV
@@ -662,7 +662,7 @@
 * [MoviezAddiction](https://moviezaddiction.work/) - Movies / TV / [Telegram](https://t.me/moviezaddiction3)
 * [WorldFree4u](https://worldfree4u.download/) - Movies
 * [Downloadhub](https://downloadhub.plus/category/hollywood-movies/) - Movies / [Telegram](https://t.me/downloadhubcool1)
-* [SSR Movies](https://www.ssrmovies.city/category/hollywood-movies-hd) - Movies / TV / [Telegram](https://t.me/SSRmovies2022) / [2](https://telegram3.xyz/)
+* [SSR Movies](https://www.ssrmovies.wine/category/hollywood-movies-hd) - Movies / TV / [Telegram](https://t.me/SSRmovies2022) / [2](https://telegram3.xyz/)
 * [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV
 * [MovieLegacy](https://movieslegacy.com/category/hollywood/) - Movies
 * [MoviesYug](http://www.moviesyug.net/cat/hollywood-series-movies-24.html) - Movies
@@ -845,8 +845,9 @@
 * [Vuze](https://www.vuze.com/content/) - Movies / TV 
 * [AnyMovies](https://anymovies.xyz/) - Movies / TV 
 * [ATORRENTS](https://atorrents.com/) - Movies
-* [Full4Movies](https://www.full4movies.bar/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)
+* [Full4Movies](https://www.full4movies.digital/category/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)
 * [TorrentKingNow](https://torrentkingnow.co/) - Movies
+* [TorrentCue](https://torrentcue.co/Hollywood.html) - Movies
 * [Public Domain Movie Torrents](http://www.publicdomaintorrents.info/) - Movies
 * [YTS](https://yts.mx/) - Movies / [Google Buttons](https://github.com/cotnw/muvi) / [Mirrors](https://www.yifystatus.com/) / [Search](https://yify.netlify.app/) / Do [NOT](https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) Make Account
 * [Yify-Torrent](https://yify-torrent.cc/) - Movies
