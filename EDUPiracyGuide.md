@@ -425,7 +425,7 @@ Simulator
 # ► Space
 
 * [/r/Space](https://reddit.com/r/Space) - Space Subreddit
-* [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration Website / [Images](https://images.nasa.gov/) / [Audio](https://www.nasa.gov/connect/sounds/index.html) / [Documents](https://ntrs.nasa.gov/search.jsp)
+* [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration Website / [Images](https://images.nasa.gov/) / [Audio](https://www.nasa.gov/connect/sounds/index.html) / [Documents](https://ntrs.nasa.gov/search.jsp) / [ISS Live](https://www.nasa.gov/multimedia/nasatv/iss_ustream.html)
 * [ESA](https://www.esa.int/) - European Space Agency Website
 * [Space.com](https://www.space.com/) - Space News
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Math and Physics Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_math_and_physics_books) - Astronomy Books
@@ -502,6 +502,7 @@ Simulator
 * **[Awesome-Lang](https://github.com/oyd11/awesome-lang)**, [Many Things](http://www.manythings.org/) or [Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8) - Language Learning Resources 
 * **[Languages & Linguistics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_languages_.26amp.3B_linguistics)** or [EnglishBooks](http://englishbooks.com.tw/primary/) - Language Learning Books
 * [Speechling](https://speechling.com/tools) - Language Learning Tools
+* [BeyondPlayer](https://circleapps.co/) - YouTube Player for English Learners
 * [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [Conversation Exchange](https://www.conversationexchange.com/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - Language Learning Network
 * [E-books_432](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_e-books_432) - Vocabulary & Pronunciation Books
 * [Xuga](https://eng.ichacha.net/mpr/xuga.html) - Word Pronunciation Tool
@@ -694,7 +695,7 @@ Simulator
 * [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
 * [Retrosynthesis](http://retrosynthesis.com/) - Organic Retrosynthesis Engine / [GitHub](https://github.com/sudo-rushil/odachi)
 * [Answers.com](https://www.answers.com/) or [Quora](https://www.quora.com/) / [Bypass](https://github.com/VoidlessVoid7/quora-plus-bypass) / [Frontend](https://github.com/zyachel/quetre) - Q&A Communities
-* [Get Unstuck](https://socratic.org/) or [Brainly](https://brainly.com/) - Homework Help
+* [Get Unstuck](https://socratic.org/), [sarthaks](https://www.sarthaks.com/) or [Brainly](https://brainly.com/) - Homework Help
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
 * [Answers Exchange](https://discord.gg/GFp9Rvr), [Toppr](https://www.toppr.com/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
 * [GradesFixer](https://www.gradesfixer.com/) - Essay Samples
