@@ -1266,6 +1266,7 @@
 
 # ► Helpful Sites / Apps
 
+* **[downloadBookFromIPFS](https://greasyfork.org/en/scripts/428894-downloadbookfromipfs)** - Add Button to Download Books from IPFS
 * **[EBook Converters](https://wiki.mobileread.com/wiki/E-book_conversion)** - List of Ebook Converters
 * **[Kindle Comic Converter](https://kcc.iosphe.re/)** - Convert Ebooks to EPUB
 * [Knock](https://github.com/BentonEdmondson/knock) - Convert ACSM files to DRM-Free EPUB files
@@ -1278,10 +1279,9 @@
 * [Bookfeed.io](https://cran.r-project.org/) - Book RSS Feed
 * [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)
 * [BookCut](https://github.com/costis94/bookcut) - Ebook Download Tool
-* [downloadBookFromIPFS](https://greasyfork.org/en/scripts/428894-downloadbookfromipfs) - Add Button to Download Books from IPFS
 * [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - Google Book Downloader w/ Proxy Support
 * [Borrowing Picture Books](https://redd.it/fm1xpw) - Save Borrowed Picture Books from Archive.org
-* [DocDownloader](https://docdownloader.com/), [SCFull](https://scfull.com/), [DownScribd](https://downscribd.com/), [docdownload](https://docdownload.net/), [guIHelp](https://discord.gg/rgF9jY8CpH) or [ScribdDown](https://scribddown.com/) - [Scribd](https://www.scribd.com/) Document Downloader 
+* [DocDownloader](https://docdownloader.com/), [SCFull](https://scfull.com/), [DownScribd](https://downscribd.com/), [docdownload](https://docdownload.net/), [guIHelp](https://discord.gg/rgF9jY8CpH) or [ScribdDown](https://scribddown.com/) - [Scribd](https://www.scribd.com/) - Document Downloaders 
 * [Scribd Download Guide](https://redd.it/kfv1c6) 
 * [GROBID](https://github.com/kermitt2/grobid) - Extract / Organize Scientific Document Info
 * [Borrow Only DL Script](https://redd.it/ofcqds) or [Archive 1 Hour Download](https://docs.google.com/spreadsheets/u/0/d/1x9JHIVEa6_2cwpmxgUymF5OAoHZbXCO3Qh9gQVAHuR0/htmlview#gid=0) - Download Borrow Only Archive.org Books
