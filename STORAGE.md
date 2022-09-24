@@ -1125,7 +1125,6 @@ Manhua
 **Mirrors**
 
 * https://whereislibgen.now.sh/
-* https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_clones
 * http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down
 * https://sguru.org/libgen-proxy/
 * http://libgen.lc/
