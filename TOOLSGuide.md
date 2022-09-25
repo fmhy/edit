@@ -17,7 +17,7 @@
 * **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)** - Presentation Tools & Templates
 * **[Versus](https://versus.com/)**, [rtings](https://www.rtings.com/), [SocialCompare](https://socialcompare.com/en) or [Diffen](https://www.diffen.com/) - Compare Anything 
 * **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)** - Organize Ideas & Projects
-* **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** - Device Repair Articles
+* **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** or [Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manual_sites) - Repair Articles / Manuals
 * **[TurboTaxSucksAss](http://turbotaxsucksass.net/)** or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free
 * **[BeMyEyes](https://www.bemyeyes.com/)** - Assist the Visually Impaired 
 * [RecoRank](https://recorank.com/) or [NanoReview](https://nanoreview.net/en) - Tech Reviews / Comparisons
