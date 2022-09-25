@@ -207,7 +207,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Audio Plugins 
 
-[OpenAudio](https://github.com/webprofusion/OpenAudio), [/u/BitterApple69 Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2Fu.2Fbitterapple69_plugins), [FreeVSTPlugins](https://freevstplugins.net/), [KVRAudio](https://www.kvraudio.com/plugins/the-newest-plugins/free), [PLUGINS4FREE](https://plugins4free.com/), [dskmusic](https://www.dskmusic.com/), [landr](https://blog.landr.com/best-free-vst-plugins/), [native-instruments](https://www.native-instruments.com/en/specials/free-vst-plugins/), [sparta](https://leomccormack.github.io/sparta-site/), [IEM](https://plugins.iem.at/), [PluginTorrent](https://plugintorrent.com/), [/r/PluggnB/](https://www.reddit.com/r/PluggnB/), [Free VST Spreadsheet](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8#gid=0), [Plugins Cloud](https://t.me/joinchat/eBPFLPGucTU5YjQ9), [PluginsCloudArchive](https://t.me/plugincloudsarchive), [PluginCloudArchive_docs](https://t.me/pluginclouds_docs), [AudiosTorrent](https://audiostorrent.in/), [VSTs & Packs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_vsts_.26amp.3B_packs)
+**[/r/CrackedPluginsX](https://www.reddit.com/r/CrackedPluginsX/)**, [OpenAudio](https://github.com/webprofusion/OpenAudio), [/u/BitterApple69 Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2Fu.2Fbitterapple69_plugins), [FreeVSTPlugins](https://freevstplugins.net/), [KVRAudio](https://www.kvraudio.com/plugins/the-newest-plugins/free), [PLUGINS4FREE](https://plugins4free.com/), [dskmusic](https://www.dskmusic.com/), [landr](https://blog.landr.com/best-free-vst-plugins/), [native-instruments](https://www.native-instruments.com/en/specials/free-vst-plugins/), [sparta](https://leomccormack.github.io/sparta-site/), [IEM](https://plugins.iem.at/), [PluginTorrent](https://plugintorrent.com/), [/r/PluggnB/](https://www.reddit.com/r/PluggnB/), [Free VST Spreadsheet](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8#gid=0), [Plugins Cloud](https://t.me/joinchat/eBPFLPGucTU5YjQ9), [PluginsCloudArchive](https://t.me/plugincloudsarchive), [PluginCloudArchive_docs](https://t.me/pluginclouds_docs), [AudiosTorrent](https://audiostorrent.in/), [VSTs & Packs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_vsts_.26amp.3B_packs)
 
 ***
 
@@ -435,7 +435,7 @@ Manhua
 
 #### Custom Rich Discord Presence
 
-[CustomRP](https://www.customrp.xyz/), [EasyRP](https://github.com/Pizzabelly/EasyRP), [RPCEngine](https://github.com/qoobes/rpcengine), [discord-custom-rich-presence](https://github.com/HyperBeasty/discord-custom-rich-presence), [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC), [Discord-CustomRP](https://github.com/maximmax42/Discord-CustomRP)
+[CustomRP](https://www.customrp.xyz/), [EasyRP](https://github.com/Pizzabelly/EasyRP), [RPCEngine](https://github.com/qoobes/rpcengine), [discord-custom-rich-presence](https://github.com/HyperBeasty/discord-custom-rich-presence), [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC), [Discord-CustomRP](https://github.com/maximmax42/Discord-CustomRP), [Discord RPC Client](https://github.com/Metalloriff/discord-rpc-client), [Discord-Rich-Presence](https://github.com/BlobbyDev/Discord-Rich-Presence), [Discord RPC](https://github.com/discord/discord-rpc), [DiscordRPCMaker](https://drpcm.t1c.dev/)
 
 ***
 
@@ -519,7 +519,7 @@ Manhua
 
 #### Encode / Decode URLs
 
-**[Universal Encoding Tool](https://unenc.com/)**, [Online Tools](https://emn178.github.io/online-tools/index.html), [Dencode](https://dencode.com/), [AES-256](https://secretmessages.online/) / [2](https://encipher.it/), [UTF8](https://onlineutf8tools.com/), [PubKey](https://pubkey.pm/)
+**[Universal Encoding Tool](https://unenc.com/)**, **[Txtmoji](https://txtmoji.com/)**, [Online Tools](https://emn178.github.io/online-tools/index.html), [Dencode](https://dencode.com/), [AES-256](https://secretmessages.online/) / [2](https://encipher.it/), [UTF8](https://onlineutf8tools.com/), [PubKey](https://pubkey.pm/)
 
 **Base 64**
 
@@ -1091,7 +1091,7 @@ Manhua
 
 #### Jigsaw Puzzles
 
-[jigidi](https://www.jigidi.com/), [jigsawonline](https://jigsawonline.net/), [jigsawplanet](https://www.jigsawplanet.com/), [puzzlefactory](https://puzzlefactory.pl/en), [epuzzle](https://www.epuzzle.info/en), [dkmgames](https://dkmgames.com/Jigsaw/), [jigzone](http://www.jigzone.com/), [jigcardgallery](http://www.jigcardgallery.com/), [justjigsawpuzzles](https://justjigsawpuzzles.com/)
+[jigidi](https://www.jigidi.com/), [jigsawonline](https://jigsawonline.net/), [jigsawplanet](https://www.jigsawplanet.com/), [puzzlefactory](https://puzzlefactory.pl/en), [epuzzle](https://www.epuzzle.info/en), [dkmgames](https://dkmgames.com/Jigsaw/), [jigzone](http://www.jigzone.com/), [jigcardgallery](http://www.jigcardgallery.com/), [justjigsawpuzzles](https://justjigsawpuzzles.com/), [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw)
 
 ***
 
@@ -1180,7 +1180,7 @@ Manhua
 
 #### Manga Download Bots
 
-[HakuNeko](https://github.com/manga-download/hakuneko), [Comics Downloader](https://github.com/Girbons/comics-downloader), [FMD](https://sourceforge.net/projects/fmd/), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [Free Manga Downloader](https://sourceforge.net/projects/newfmd/), [mangadownbot](https://t.me/mangadownbot), [MangaBot](http://mangabot.github.io/), [MangaRipper](https://www.softpedia.com/get/Internet/Download-Managers/MangaRipper.shtml), [Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader), [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [mangadesk](https://github.com/darylhjd/mangadesk), [mdownloader](https://github.com/Rudoal/mdownloader), [mangapy](https://pypi.org/project/mangapy/), [manga2mobi](https://github.com/KevCui/manga2mobi), [Akianonymus](https://github.com/Akianonymus/mangadl-bash), [simple-manga-downloader](https://github.com/Kanjirito/simple-manga-downloader), [mangodl](https://github.com/Gyro7/mangodl), [anime-dl](https://github.com/vrienstudios/anime-dl) / [2](https://github.com/vrienstudios/anime-dl), [manga-py](https://github.com/manga-py/manga-py), [mangal](https://github.com/metafates/mangal), [comicMaker](https://github.com/gunjannandy/comicMaker)
+[HakuNeko](https://github.com/manga-download/hakuneko), [Comics Downloader](https://github.com/Girbons/comics-downloader), [FMD](https://sourceforge.net/projects/fmd/), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [Free Manga Downloader](https://sourceforge.net/projects/newfmd/), [mangadownbot](https://t.me/mangadownbot), [MangaBot](http://mangabot.github.io/), [MangaRipper](https://www.softpedia.com/get/Internet/Download-Managers/MangaRipper.shtml), [Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader), [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [mangadesk](https://github.com/darylhjd/mangadesk), [mdownloader](https://github.com/Rudoal/mdownloader), [mangapy](https://pypi.org/project/mangapy/), [manga2mobi](https://github.com/KevCui/manga2mobi), [Akianonymus](https://github.com/Akianonymus/mangadl-bash), [simple-manga-downloader](https://github.com/Kanjirito/simple-manga-downloader), [mangodl](https://github.com/Gyro7/mangodl), [anime-dl](https://github.com/vrienstudios/anime-dl) / [2](https://github.com/vrienstudios/anime-dl), [manga-py](https://github.com/manga-py/manga-py), [mangal](https://github.com/metafates/mangal), [comicMaker](https://github.com/gunjannandy/comicMaker), [LittleWeeb](https://littleweeb.github.io/)
 
 ***
 
@@ -2126,7 +2126,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Skip Redirect 
 
-**[FastForward](https://fastforward.team/)** / **[Discord](https://discord.gg/RSAf7b5njt)**, **[Link Bypasser](https://github.com/TheCaduceus/Link-Bypasser)**, **[bypass.vip](https://bypass.vip/)**, [DL Site Scrubber](https://github.com/PrimePlaya24/dl-site-scrubber), [AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser), [skip-redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/) / [Chrome](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon), [krnl-and-linkvertise-bypasser](https://greasyfork.org/en/scripts/427869-krnl-and-linkvertise-bypasser), [Bypass All Shortlinks](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks), [Linkvertise-Bypasser](https://github.com/venaxyt/Linkvertise-Bypasser), [Linkvertise-Bypass](https://github.com/Lufzys/Linkvertise-Bypass), [TheBypasser](https://thebypasser.com/), [Bypass-Links](https://github.com/amitsingh-007/bypass-links), [Auto link bypasser](https://chrome.google.com/webstore/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh), [Bypasser](https://yuumari.com/bypass/), [short link to direct link](https://t.me/ATBYPASSBOT)
+**[FastForward](https://fastforward.team/)** / **[Discord](https://discord.gg/RSAf7b5njt)**, **[Link Bypasser](https://github.com/TheCaduceus/Link-Bypasser)** / [TG Bot](https://github.com/TheCaduceus/Link-Bypasser-Bot), **[bypass.vip](https://bypass.vip/)**, [DL Site Scrubber](https://github.com/PrimePlaya24/dl-site-scrubber), [AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser), [skip-redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/) / [Chrome](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon), [krnl-and-linkvertise-bypasser](https://greasyfork.org/en/scripts/427869-krnl-and-linkvertise-bypasser), [Bypass All Shortlinks](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks), [Linkvertise-Bypasser](https://github.com/venaxyt/Linkvertise-Bypasser), [Linkvertise-Bypass](https://github.com/Lufzys/Linkvertise-Bypass), [TheBypasser](https://thebypasser.com/), [Bypass-Links](https://github.com/amitsingh-007/bypass-links), [Auto link bypasser](https://chrome.google.com/webstore/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh), [Bypasser](https://yuumari.com/bypass/), [short link to direct link](https://t.me/ATBYPASSBOT)
 
 ***
 
@@ -3029,8 +3029,9 @@ Good for finding classic, obscure & short films.
 * [Phoenix LiteOS](https://phoenixliteos.com/)  - Custom Windows 10
 * [RekOS](https://discord.com/invite/YNFFN4W52y)  - Custom Windows 10
 * [KernelOS](https://discord.gg/GYmNPtfwfs)  - Custom Windows 10
-* [TheWorldofPC](https://nexusliteos.blogspot.com/)  - *Custom Windows 10
+* [TheWorldofPC](https://nexusliteos.blogspot.com/)  - Custom Windows 10
 * [FoxOS](https://discord.gg/A5Y76ymyBY) - Custom Windows 7
+* [EagleOS](https://discord.gg/GCRxX8JE) - Custom Windows 7
 * [OldSchoolOS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISO's
 * [MediaCreationTool.bat](https://gist.github.com/AveYo/c74dc774a8fb81a332b5d65613187b15) - Media Creation Tool Wrapper
 * [Windows 10 Building](https://teamos-hkrg.com/threads/windows-10-building-and-modding-and-custom-os-s.129309/) - How-to Make Custom Windows 10 ISOs
