@@ -651,12 +651,13 @@
 * [Sokoban](https://suppilulemur.neocities.org/) - Box Moving Puzzle Game / Zelda-Themed
 * [BestCrosswords](https://www.bestcrosswords.com/), [USAToday](https://games.usatoday.com/games/uclick-crossword), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
+* [KillerCrossword](https://killercrossword.com/) - No Clue Crosswords
 * [LikeWordle](https://likewordle.com/), [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/), [Wordle Unlimited](https://wordleunlimited.org/), [Huedle](https://huedle.com/), [Chessle](https://jackli.gg/chessle), [BoxOfficeGA](https://boxofficega.me/), [Wordversary](https://wordversary.com/), [Wordle.nyc](https://wordle.nyc/), [Clidle](https://github.com/ajeetdsouza/clidle), [WordleGame](https://wordlegame.org/), [Py-DLE](https://py-dle.herokuapp.com/), [Tweakdle](https://tweakdle.chariz.com/) or [Wordlevs](https://wordlevs.com/) - Wordle Games / [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
 * [ChessGuessr](https://www.chessguessr.com/) - Chess Style Wordle
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles & Quizzes
 * [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - Online Jigsaw Puzzles
 * [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - Solve a Rubix Cube / [Solver](https://rubiksolve.com/), [2](https://bnice.ru/asolver/), [3](https://rubiks-cube-solver.com/)
-* [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer) or [2048](https://play2048.co/) - Play 2048
+* [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer), [Power](https://1024-game.netlify.app/) or [2048](https://play2048.co/) - 2048 Puzzles
 * [Flappy 2048](https://www.flappy-2048.com/) - Flappy Bird Style 2048
 * [JetHolt](https://jetholt.com/hacking/), [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) or [Aramor](http://aramor.epizy.com/fallout-terminal/main) - Fallout Terminal Hacking Game
 * [Vuesweeper](https://vuesweeper.netlify.app/) - Vue Minesweeper
@@ -672,6 +673,7 @@
 * [babble.xyz](https://babbl.xyz/) - Infinite Scrabble
 * [MoreWords](https://www.morewords.com/) or [WordHub](https://wordhub.com/) - Scrabble
 * [Divergent Association Task](https://www.datcreativity.com/task) - Unrelated Word Game
+* [RobinWords](https://www.robinwords.com/) - Word Ladder Game
 * [Oh, My Dots!](https://www.ohmydots.com/) - Connect the Dots Game
 * [eWordChallenge](https://www.ewordchallenge.net/) - Multiplayer Boggle
 * [Click Click Click](https://clickclickclick.click/) - Browser Based Clicking Puzzle
@@ -708,7 +710,8 @@
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
 * [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
 * [WTM](https://whatthemovie.com/) - Movie Guessing Game
-* [Heardle](https://www.heardle.app/) - Song Guessing Game 
+* [Heardle](https://www.heardle.app/) - Song Guessing Game
+* [GuessTheGame](https://guessthe.game/) - Game Guessing Game
 * [LanguageGuesser](https://languageguesser.com/) - Guess Music Video Languages 
 * [Emoji Dingbats](https://emoji-dingbats.herokuapp.com/) - Emoji Dingbat Game
 * [The Higher Lower Game](http://www.higherlowergame.com/) or [GoogleFued](https://googlefeud.com/) - Guess What's Googled More
