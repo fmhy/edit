@@ -160,6 +160,19 @@
 
 * **[Give & Away](https://discord.gg/b4uTmX5PVq)** - Giveaway Server
 * [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
+* [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) or [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Auto-Claim Free Epic Games
+* [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [SteamGifts](https://www.steamgifts.com/), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - Steam Games 
+* [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997) - Steam Mods
+* [Games Free Today](https://gamesfree.today/) - Games
+* [FreeGames.codes](https://freegames.codes/) - Games / [Android](http://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes)
+* [IsThereAnyDeal](https://isthereanydeal.com/#/filter:&price/0/0) - Games
+* [IndieGala](https://freebies.indiegala.com/) - Games
+* [/r/freegames](https://www.reddit.com/r/freegames/) - Games
+* [/r/ClaimFreeGames/](https://www.reddit.com/r/ClaimFreeGames/) - Games
+* [ClaimFreeGames](https://claimfreegames.com/) - Games
+* [Ubisoft Free](https://free.ubisoft.com/) - Games
+* [GrabFreeGames](https://grabfreegames.com/) - Games
+* [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - Games
 * [Giveaway Radar](https://giveawayradar.weebly.com/) - Software
 * [Tick Coupon](https://giveaway.tickcoupon.com/windows-giveaway/) - Software
 * [Techno360](https://www.techno360.in/category/free-stuff/) - Software
@@ -171,22 +184,10 @@
 * [MostIWant](https://www.mostiwant.com/) - Software
 * [ShareWareOnSale](https://sharewareonsale.com/) - Software
 * [sos-windows2 ](https://groups.google.com/g/sos-windows2) - Software
-* [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [SteamGifts](https://www.steamgifts.com/), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - Steam Games 
-* [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997) - Steam Mods
-* [Games Free Today](https://gamesfree.today/) - Games
-* [FreeGames.codes](https://freegames.codes/) - Games / [Android](http://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes)
-* [IsThereAnyDeal](https://isthereanydeal.com/#/filter:&price/0/0) - Games 
-* [IndieGala](https://freebies.indiegala.com/) - Games
-* [/r/freegames](https://www.reddit.com/r/freegames/) - Games
-* [/r/ClaimFreeGames/](https://www.reddit.com/r/ClaimFreeGames/) - Games
-* [ClaimFreeGames](https://claimfreegames.com/) - Games 
-* [Ubisoft Free](https://free.ubisoft.com/) - Games
-* [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - Games
-* [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) or [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Auto-Claim Free Epic Games
 * [/r/googleplaydeals](https://reddit.com/r/googleplaydeals) - APKs
 * [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - APKs
 * [App Sales](https://www.app-sales.net/) - APKs
-* [Android App Sales](https://t.me/androidappsales) - APKs / Telegram 
+* [Android App Sales](https://t.me/androidappsales) - APKs / Telegram
 * [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - APKs
 * [AppsFree](https://play.google.com/store/apps/details?id=com.appsfree.android) - APKs
 * [InstlApp](https://apps.apple.com/us/app/instlapp/id1502777382) - APKs
@@ -246,7 +247,7 @@
 * **[Iceberg Charts](https://icebergcharts.com/)** - Explore Obscure Topics / [/r/IcebergCharts](https://www.reddit.com/r/IcebergCharts/)
 * **[/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/wiki/listofsubreddits/)** - List of Subreddits
 * **[Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** - List of Multireddits
-* **[TheOnion](https://theonion.com/)** - Fake News Articles 
+* **[TheOnion](https://theonion.com/)** or [DailyWrong](https://dailywrong.com/) - Fake News Articles 
 * **[r.sine.com](https://r.sine.com/index)**, [Pretty Flix](https://cvines528.github.io/Pretty-Flix/) or [Cameron.Red](https://cameron.red/imgur/) - Random Images
 * **[sandspiel.club](https://sandspiel.club/)** - Falling Sand Physics Sandbox 
 * **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_conversational_chatbots)** - Chat with AI
@@ -334,7 +335,6 @@
 * [Windows XP Error Worm](https://ybenbihi.github.io/windows-error-worm/) - Click & Drag Windows Errors 
 * [Pixelbay](https://pixelbay.netlify.app/) - Embed Links in Pixels
 * [Our World of Text](https://ourworldoftext.com/) or [Your World of Text](https://www.yourworldoftext.com/) - Infinite grid of text editable by anyone
-* [pixels.land](https://pixels.land/) or [World of Pixels](https://ourworldofpixels.com/) - Infinite Online Pixel Art
 * [Gen-Z AI](https://openai-quickstart-node-1.vercel.app/) - AI Generated Urban Dictionary Definitions
 * [Genetic Cars 2](https://rednuht.org/genetic_cars_2/) - Random 2D Car Generator
 * [cachemonet](http://cachemonet.com/) - Randomly Generated GIFs / Backgrounds 
@@ -772,6 +772,7 @@
 * [Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png) / [2](https://i.imgur.com/KoVAdmA.png)
 * [Baking Calculators](https://bakingcalculators.com/) - Measurement System Conversion Calculators
 * [TasteJury](https://tastejury.com/) - Find Specific Dishes
+* [The Worlds 50 Best Restaurants](https://www.theworlds50best.com/list/1-50) - Top Restaurants List
 * [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - SF Food Truck App
 * [node-ubereats](https://github.com/jzarca01/node-ubereats) - WIP API for Uber Eats
 * [node-deliveroo](https://github.com/jzarca01/node-deliveroo) - API for Deliveroo
@@ -813,7 +814,7 @@
 * [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course 
 * [Kids Health](https://www.kidshealth.org/) - Kids Health Information
 * [openScale](https://f-droid.org/packages/com.health.openscale/) - Weight & Body Metrics Tracker
-* [Simple Science Fitness](https://ss.fitness/calculators) - Fitness Calculators
+* [Simple Science Fitness](https://ss.fitness/calculators) or [SwoleHalla](https://www.swolehalla.com/) - Fitness Calculators
 * [Effective Fitness](https://www.e-fitness.org/) - Fitness Discussion / [Discord](https://discord.gg/fitness)
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE Calculator
 * [Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm) - BMI Calculator
