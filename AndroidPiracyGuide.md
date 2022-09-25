@@ -98,6 +98,7 @@
 * [Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers) - Encrypted Android Messengers
 * [Silence](https://silence.im/) - Encrypt SMS/MMS Messages
 * [Wickr](https://play.google.com/store/apps/details?id=com.wickr.pro&amp;hl=en), [MySudo](https://mysudo.com/), [Jami](https://jami.net/), [Syphon](https://syphon.org/), [Mesibo](https://play.google.com/store/apps/details?id=com.mesibo.mesiboapplication) or [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app) - Encrypted Messaging / Video Calls
+* [SmallTalk](https://github.com/ouchadam/small-talk) - Matrix Client
 * [OVERSEC](https://www.oversec.io/) - Add Text / Image Encryption to any App
 * [Photok](https://github.com/leonlatsch/Photok) - Encrypted Image Storage
 * [DPITunnel](https://github.com/zhenyolka/DPITunnel) - Bypass Deep Packet Inspection 
@@ -311,6 +312,7 @@
 * [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix ) - Combine Emojis
 * [background video recorder](https://play.google.com/store/apps/details?id=com.camera.secretvideorecorder) - Record Videos in Background
 * [Jitsi](https://jitsi.org/) or [IMO](http://imo.im/) - Video Chat
+* [RemoteVideoCam](https://github.com/izivkov/RemoteVideoCam) - Video Lan
 * [Walkie-Talkie](https://walkie-talkie.io/) or [Codec2 Talkie](https://github.com/sh123/codec2_talkie) - Walkie-Talkie Apps
 * [1 Second Everyday](http://1se.co/) - 1 Second Video Diary
 * [EasyWatermark](https://github.com/rosuH/EasyWatermark) - Add Watermark to Images
@@ -416,6 +418,7 @@
 * [LRC Editor](https://play.google.com/store/apps/details?id=com.cg.lrceditor) or [Audoir](https://audoir.com/) - Lyric Text Editor
 * [Reface](https://reface.app/) - Create Face Swap Videos 
 * [PGS](https://www.pgsharp.com/) - Modded Pokémon GO
+* [MiDoze](https://github.com/Keddnyo/MiDoze) - ROMs, Dials & Apps for Xiaomi Wearables
 * [schakal](https://www.schakal.ru/) - Amazfit Bip Watchfaces
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
 * [ChariFree](https://play.google.com/store/apps/details?id=com.charifree) - Donate by Watching Ads
@@ -488,6 +491,7 @@
 * [APKDL](https://apkdl.in/) - Untouched
 * [APKMonk](https://www.apkmonk.com/) - Untouched
 * [APK Fab](https://apkfab.com/) - Untouched
+* [APKCafe](https://apk.cafe/) - Untouched
 * [Dreamsroom](https://dreamsroom.applinzi.com/) - Untouched
 * [Android APK](https://android-apk.org/) - Untouched / Modded 
 * [APKSum](https://www.apksum.com/) - Untouched / Modded 
@@ -532,6 +536,7 @@
 * [ModApk.Cloud](https://modapk.cloud/) - Modded 
 * [Rockmods](https://www.rockmods.net/) - Modded 
 * [APK Swing](https://apkswing.com/) - Modded
+* [APKLoo](https://apkloo.com/) - Modded
 * [ModsOfApk](https://modsofapk.com/) - Modded
 * [GetModsAPK](https://getmodsapk.com/) - Modded
 * [APK Mod](https://apk-mod.net/) - Modded
@@ -546,7 +551,8 @@
 * [ReleaseAPK](https://forum.release-apk.com/) - Modded
 * [ProSmart](https://prosmart.by/) - Modded
 * [King Games](https://ludokinggame.com/) - Modded
-* [ApkMagic](https://apkmagic.com.ar/) - Modded 
+* [ModFavor](https://modfavor.com/) - Modded
+* [ApkMagic](https://apkmagic.com.ar/) - Modded
 * [ProAPK](https://proapk.in/) - Modded
 * [APKResult](https://apkresult.com/en) - Modded
 * [TheTechNisk](https://thetechnisk.in/) - Modded
@@ -980,7 +986,7 @@
 * [Potatso Lite](https://apps.apple.com/us/app/potatso-lite/id1239860606) - Proxy App
 * [Anti-Social](https://apps.apple.com/us/app/faceblock-block-facebook/id1516200820) - Block Social Media Trackers 
 * [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669), [Status](https://status.im/), [Session](https://getsession.org/), [Confide](https://apps.apple.com/ca/app/confide-secret-messenger/id779883419), [Olvid](https://olvid.io/en/) or [chatsecure](https://chatsecure.org/) - Encrypted Messaging 
-* [Syphon](https://syphon.org/) - Privacy Based Matrix Client / [GitHub](https://github.com/syphon-org/syphon)
+* [Syphon](https://syphon.org/) - Matrix Client
 * [Wickr](https://apps.apple.com/us/app/wickr-pro/id1200926568), [Jami](https://jami.net/), [MySudo](https://mysudo.com/) or [Element](https://apps.apple.com/app/vector/id1083446067) - Encrypted Messaging / Video Calls
 * [Bluer](https://apps.apple.com/us/app/bluer-for-facebook-messenger/id1490523710) - Privacy-Based Facebook Client
 * [ProtonMail](https://apps.apple.com/us/app/protonmail-encrypted-email/id979659905) - Encrypted Emailing Service
