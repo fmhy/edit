@@ -687,7 +687,7 @@
 
 ## ▷ Manual Sites
 
-* [Manuals & Schematics](https://redd.it/nlw3er), [Manuzoid](https://manuzoid.com/), [Wedophones](http://wedophones.com/Manuals/), [manualzz](https://manualzz.com/), [SAS](http://www.univertron.com/SAS/manuals/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
+* [Manuals & Schematics](https://redd.it/nlw3er), [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [Wedophones](http://wedophones.com/Manuals/), [manualzz](https://manualzz.com/), [SAS](http://www.univertron.com/SAS/manuals/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
 * [ManualLib](https://www.manuallib.com/) - Manual Search
 * [Floss Manuals](https://www.flossmanuals.net/) - Software Manuals
 * [iFixIt](https://www.ifixit.com/Guide) - Repair Manuals
@@ -913,7 +913,9 @@
 * [MangaBob](https://mangabob.com/)
 * [KumaScans](https://kumascans.com/) 
 * [MangaBat](https://m.mangabat.com/)
+* [ReadOPM](https://ww3.readopm.com/read-manga/)
 * [MangaEffect](https://mangaeffect.com/)
+* [OtakusKindle](https://otakuskindle.wordpress.com/)
 * [Manga347](https://manga347.com/)
 * [Manga Home ](http://www.mangahome.com/)
 * [MangaKik](https://mangakik.net/) 
