@@ -283,6 +283,7 @@
 
 * **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
 * **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
+* **[Puzzle Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_puzzle_games)**
 * [Starfall](https://www.starfall.com/)
 * [ABCya!](https://www.abcya.com/)
 * [Funbrain](https://www.funbrain.com/games)
@@ -321,7 +322,7 @@
 * [PecentageTools](https://percentagetools.com/) - Percentage Calculators
 * [FractionCalc](https://fractionscalc.com/) - Fraction Calculator
 * [Matrix Multiplication](http://matrixmultiplication.xyz/) - Matrix Multiplication Calculator
-* [Unit Conversion](https://conversao.net/eng/), [Quick Convert](https://www.microsoft.com/p/app/9wzdncrdm7gt), [UnitConverters](https://www.unitconverters.net/), [ConvertUnits](https://www.convertunits.com/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converter 
+* [Unit Conversion](https://conversao.net/eng/), [Quick Convert](https://www.microsoft.com/p/app/9wzdncrdm7gt), [UnitConverters](https://www.unitconverters.net/), [ConvertUnits](https://www.convertunits.com/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converter
 * [Derivative Calculator](https://www.derivative-calculator.net/) - Derivative Calculator
 * [Integral Calculator](https://www.integral-calculator.com/) - Integral Calculator
 * [Desmos](https://www.desmos.com/) - Graphing Calculator
@@ -329,18 +330,19 @@
 * [fxSolver](https://www.fxsolver.com/), [Kalker](https://kalker.xyz/) / [GitHub](https://github.com/PaddiM8/kalker) or [The Engineering ToolBox](https://www.engineeringtoolbox.com/) - Engineering & Scientific Calculator
 * [SciDAVis ](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotter
 * [FreeFEM](https://freefem.org/) - Partial Differential Equations Solver
-* [Approach0](https://approach0.xyz/search/) - Math Formula Search 
+* [Approach0](https://approach0.xyz/search/) - Math Formula Search
 * [Online Math Tools](https://onlinemathtools.com/) - Multiple Math Tools
-* [Falstad](http://www.falstad.com/) - Math & Physics Apps / Simulations 
+* [Falstad](http://www.falstad.com/) - Math & Physics Apps / Simulations
 * [3b1b](https://github.com/3b1b/videos) / [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos 
 * [MathOnline](http://mathonline.wikidot.com/) - Math / Courses
-* [Mathigon](https://mathigon.org/) - Math / Courses 
-* [BetterExplained](https://betterexplained.com/) - Math / Guides / Courses 
+* [Mathigon](https://mathigon.org/) - Math / Courses
+* [BetterExplained](https://betterexplained.com/) - Math / Guides / Courses
+* [Countle](https://www.countle.org/) - Daily Math Equations
 * [IXL Learning](https://au.ixl.com/math/) - Math Practice / Quizzes
-* [ParkMath](https://parkmath.github.io/) - Math Guides
-* [FreeMathHelp](https://freemathhelp.com/) - Math Guides
 * [Math Exercises](http://www.math-exercises.com/) or [MathBitsNotebook](http://mathbitsnotebook.com/) - Math Practice
 * [Pauls Online Math Notes](https://tutorial.math.lamar.edu/) - Math Practice / Guides
+* [ParkMath](https://parkmath.github.io/) - Math Guides
+* [FreeMathHelp](https://freemathhelp.com/) - Math Guides
 * [Math2.org](http://math2.org/) - Math Guides
 * [Terence Tao Research](https://terrytao.wordpress.com/) - Mathematical Research
 * [All Math Questions](https://www.docdroid.net/YupQ6Pp/khan-academy-all-math-questions-pdf) - Khan Academy Math Questions
@@ -462,6 +464,7 @@ Simulator
 * [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](http://stellarium.org/) - Virtual Stellarium
 * [Google Sky](http://www.google.com/sky) - View Stars, The Moon & Mars 
 * [ESO Zoomable](https://www.eso.org/public/images/eso1242a/zoomable/) or [Hubble Zoomable](https://esahubble.org/images/archive/zoomable/) - Zoomable Telescope Photos
+* [Webb Compare](https://www.webbcompare.com/) - Webb / Hubble Comparison Images
 * [Space Telescope Live](https://spacetelescopelive.org/) - Live Hubble Image Data
 * [James Webb Space Telescope](https://jwst.nasa.gov/index.html) or [ESAWebb](https://esawebb.org/) - Webb Space Telescope Site
 * [HubbleSite](https://hubblesite.org/) - Hubble Telescope Site
@@ -503,6 +506,7 @@ Simulator
 * **[Languages & Linguistics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_languages_.26amp.3B_linguistics)** or [EnglishBooks](http://englishbooks.com.tw/primary/) - Language Learning Books
 * [Speechling](https://speechling.com/tools) - Language Learning Tools
 * [BeyondPlayer](https://circleapps.co/) - YouTube Player for English Learners
+* [Language Roadmap](https://languageroadmap.com/) - Foreign Language Media Difficulty Guide
 * [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [Conversation Exchange](https://www.conversationexchange.com/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - Language Learning Network
 * [E-books_432](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_e-books_432) - Vocabulary & Pronunciation Books
 * [Xuga](https://eng.ichacha.net/mpr/xuga.html) - Word Pronunciation Tool
