@@ -289,6 +289,7 @@
 * [Skytopia](https://www.skytopia.com/software/) 
 * [Den4b](https://www.den4b.com/)
 * [SavardSoftware](https://www.savardsoftware.com/)
+* [Freeware Symbian](http://www.freeware-symbian.com/)
 * [4-Dots](https://www.4dots-software.com/free-software/)
 * [DonationCoder](https://www.donationcoder.com/) 
 * [AntibodySoftware](https://antibody-software.com/) 
