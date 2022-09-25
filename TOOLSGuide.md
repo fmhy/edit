@@ -162,6 +162,8 @@
 * [EleutherAI](https://6b.eleuther.ai/) or [Essaytyper](http://www.essaytyper.com/) - Text / Story Autocomplete
 * [SongLyricsGenerator](http://www.songlyricsgenerator.com/) or [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) - Generate Fake Song Lyrics
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
+* [Infinite Story](https://infinite-story.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Story Writing
+* [Blackout Poetry](https://blackoutpoetry.glitch.me/) - Blackout Poetry Creator
 * [Idyll](https://idyll-lang.org/editor) - Create Interactive Essays / [GitHub](https://github.com/idyll-lang/idyll)
 * [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](http://writemonkey.com/), [WriteNext](https://www.writenext.io/) or [Writer](https://www.gibney.org/writer) / [GitHub](https://github.com/no-gravity/writer) - Distraction-Free Writing Apps
 * [NovelWriter](https://novelwriter.io/) - Markdown Style Novel Editor
@@ -171,6 +173,7 @@
 * [Lorem Ipsum Generator](https://apps.maximelafarie.com/lig/), [DevLorem](https://github.com/Kovah/DevLorem) or [Lorem Ipsum](https://www.lipsum.com/) - Generate Placeholder Text
 * [text-regenerator](https://github.com/jddunn/text-regenerator) - Replace Words with Synonyms
 * [Typoer](https://github.com/georgetian3/typoer) - Types Text with Typos / Corrections
+* [Typewaiter](https://oisinmoran.com/typewaiter) - Endlessly Moving Typwriter
 * [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - Annotation Tools / Resources
 * [Crow Translate](https://github.com/crow-translate/crow-translate) or [Argos](https://github.com/argosopentech/argos-translate) - Translation App
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
@@ -233,7 +236,6 @@
 * [JMESPath](https://jmespath.org/) - Query Language for JSON / [Tutorial](https://jmespath.org/tutorial.html)
 * [xeuledoc](https://github.com/Malfrats/xeuledoc) - Fetch Information about Public Google Documents
 * [Useless-Translator](https://vcjhwebdev.github.io/useless-translator/) - Morse Code / Binary Translator 
-* [Infinite Story](https://infinite-story.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Story Writing
 * [Podpis](https://podpis-online.ru/) - Signature Generator
 * [Signaturely](https://signaturely.com/) or [SignFree](https://signfree.io/) - Get Documents Digitally Signed
 * [Polona Typo](http://typo.polona.pl/en/) - Create Text out of Book, Poster & Map Letters 
@@ -1229,7 +1231,7 @@
 * [LAN Party VPN](https://github.com/gyf304/lpvpn) - Run VPN on top of Discord
 * [DiscordFS](https://github.com/dhrumilp15/discordfs) - Discord File Search
 * [DeepL](https://github.com/aisuzuki/dd-bot) - Discord Chat Auto Translator
-* [discord-twitter-bot](https://github.com/NNTin/discord-twitter-bot) - Fix Discord Twitter Embeds
+* [FixTweet](https://github.com/dangeredwolf/FixTweet) or [discord-twitter-bot](https://github.com/NNTin/discord-twitter-bot) - Fix Discord Twitter Embeds
 * [Get Discord Token](https://greasyfork.org/en/scripts/395741-get-discord-token) - Retrieve Discord user token
 * [PreMiD](https://premid.app/) - Display internet activity in Discord status / [Github](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.gg/WvfVZ8T) 
 * [Alternatives to MEE6](https://alternativestomee6.com/) - [Discord](https://discord.gg/WrbMdWHfNd) 
@@ -1246,7 +1248,8 @@
 * [Wickbot](https://wickbot.com/) - Discord Security Bot
 * [Modmail](https://github.com/kyb3r/modmail) - Discord Modmail Bot 
 * [CloneCord](https://github.com/Rekulous/CloneCord-bot) - GClone Cloud Storage File Manager in Discord
-* [Custom Rich Discord Presence](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_custom_rich_discord_presence) - Customize Discord Rich Presence 
+* [Discord RPC Index](https://github.com/topics/discord-rich-presence) - Discord Rich Presence Index
+* [Custom Discord RPC](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_custom_rich_discord_presence) - Customize Discord Rich Presence 
 * [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - Discord Rich Presence Manager
 * [RPC PC Status](https://github.com/Faelayis/RPC-Pc-Status) - PC Status Rich Presence
 * [FetchCord](https://github.com/MrPotatoBobx/FetchCord) - OS Discord Rich Presence
@@ -1259,7 +1262,6 @@
 * [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) - MPV Rich Presence 
 * [MPC-DiscordRPC](https://github.com/angeloanan/MPC-DiscordRPC) - MPC Rich Presence
 * [qbittorrent-rp](https://github.com/LockBlock-dev/qbittorrent-rp) - qBittorrent Rich Presence
-* [Discord RPC Client](https://github.com/Metalloriff/discord-rpc-client), [Discord RPC](https://github.com/discord/discord-rpc) or [DiscordRPCMaker](https://drpcm.t1c.dev/) - Create Discord RPCs
 * [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)
 * [SteamRPC](https://github.com/Crementif/SteamRPC) - Convert Steam Rich Presence to Discord Rich Presence
 * [Discord-Linux](https://discord-linux.com/) - Linux Container Bot 
@@ -1342,6 +1344,7 @@
 * [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [gramxly](https://gramxly.com/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html), [TDirectory](https://tdirectory.me/) or [TGStat](https://tgstat.com/search) - Telegram Channel / Bot Search
 * [ShellBot](https://github.com/MannyHackers/ShellBot), [EvaMaria](https://github.com/EvamariaTG/EvaMaria) - Multi-Purpose Telegram Bot
 * [VirusTotalAV_bot](https://t.me/VirusTotalAV_bot) - Telegram File Scanner
+* [TG Bot](https://github.com/TheCaduceus/Link-Bypasser-Bot) - Ad Link Bypass Bot
 * [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots) - Audio Download Bots
 * [GetMediaBot](https://t.me/getmediabot) - Media Download Bot
 * [Telegram-Media-Downloader](https://github.com/fattynoparents/Telegram-Media-Downloader) - Media Download Extension
