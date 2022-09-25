@@ -81,7 +81,7 @@
 * [Image Upscalers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_upscalers) - Upscale Images
 * [Croppola](https://croppola.com/), [Freehand Cropper](https://half-6.github.io/lf-freehand-cropper/), [Bulk Image Crop](https://bulkimagecrop.com/), [CropHere](https://crophere.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tool 
 * [Seopix](https://www.seopix.io/) or [Reduce Images](https://www.reduceimages.com/) - Resize & Compress Images
-* [Simple Image Resizer](http://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [fixpicture](https://www.fixpicture.org/), [PicResize](https://picresize.com/), [resize-image](https://resize-image.net/), [Birme](https://www.birme.net/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - Resize Images
+* [Simple Image Resizer](http://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [fixpicture](https://www.fixpicture.org/), [PicResize](https://picresize.com/), [resize-image](https://resize-image.net/), [Birme](https://www.birme.net/), [ResizeNow](https://www.resizenow.com/en) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - Resize Images
 * [Resize App Icon](https://resizeappicon.com/) - Resize Square Images 
 * [SSizes](https://ssizes.com/) or [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
 * [RIOT](https://riot-optimizer.com/), [imageoptimizer](http://www.imageoptimizer.net/) or [ImageFoo](https://imagefoo.com/) - Image Optimization Tool
@@ -123,7 +123,7 @@
 * [PixelMe](https://xsgames.co/pixelme/) - 8bit Avatar Creator
 * [Random-Face-Generator](https://github.com/adityar224/Random-Face-Generator) - Face Generator
 * [Mirro-Ai](https://mirror-ai.com/) - Get Stickers With Your Face
-* [EmojiMix](https://tikolu.net/emojimix) - Combine Emojis
+* [EmojiMix](https://tikolu.net/emojimix) or [Emoji Kitchen](https://emoji.supply/kitchen/) - Combine Emojis
 * [Emojination](https://www.emojination.io/) or [Ccclaymoji](https://fffuel.co/ccclaymoji/) - Emoji Graphic Generator
 * [imgsli](https://imgsli.com/) - Before & After Slider Generator
 * [DCGAN](http://mattya.github.io/chainer-DCGAN/) - Anime Icon Generator 
@@ -247,6 +247,7 @@
 * [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art
 * [Aggie.io](https://aggie.io/), [Magma](https://magmastudio.io/) or [malmal](https://malmal.io/) - Draw with Friends or Strangers 
 * [World Draw](https://world-draw.appspot.com/draw) - Draw the World Together
+* [pixels.land](https://pixels.land/), [EveryoneDraw](https://everyonedraw.com/) or [World of Pixels](https://ourworldofpixels.com/) - Infinite Online Pixel Art
 * [Monsterland](https://www.monsterland.net/) - Collaborative Monster Drawing 
 * [LizardPaint](https://lizardrive.itch.io/lizardpaint) - Sega / Megadrive Painting
 * [inkscape](https://inkscape.org/), [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q), [Sketch Toy](https://www.sketchtoy.com/), [Sketchbook](https://www.sketchbook.com/), [Webchemy](https://webchemy.org/) / [GitHub](https://github.com/bitbof/webchemy), [tldraw](https://www.tldraw.com/), [Sketchpad](https://sketchpad.app/) / [2](https://sketch.io/sketchpad) or [Excalidraw](https://excalidraw.com/) - Drawing / Sketching Tools
