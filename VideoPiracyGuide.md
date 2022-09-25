@@ -436,6 +436,7 @@
 * **[NBAFullHD](https://nbafullhd.com/)**, [NBAFile](https://nbafile.com/), [NBAHD](https://nbahd.com/) or [NBAHDReplay](https://nbahdreplay.com/) - NBA
 * **[F1 Full Races](https://f1fullraces.com/)** - F1
 * **[AllWrestling](https://www.allwrestling.online/)** - MMA / Wrestling
+* [FootballOrigin](https://www.footballorgin.com/) - Soccer
 * [Sport Video](https://www.sport-video.org.ua/) - Multiple Sports / Torrents 
 * [WatchWrestling24](http://watchwrestling24.net/) - MMA / Wrestling
 * [WatchWrestling.in](https://watchwrestling.in/) - MMA / Wrestling
@@ -563,7 +564,7 @@
 * [Boxing Streams](https://live.boxingstreams.me/) - Boxing
 * [LiveSoccer TV](https://www.livesoccertv.com/) - Soccer
 * [FootEM](https://www.footem.site/) - Soccer
-* [footybite](https://live.footybite.cc/) - Soccer
+* [footybite](https://live6.footybite.cc/) - Soccer
 * [HesGoal](http://www.hesgoal.tv/) - Soccer
 * [Soccer Streams](https://socceronline.me/) - Soccer
 * [Vebo](https://vebotv.top/) - Soccer
@@ -580,6 +581,8 @@
 * [jiotv.cf](https://jiotv.cf/) - Cricket
 * [LiveCricket.is](https://mob.livecricket.is/) - Cricket
 * [TouchCric](https://touchcric.com/) - Cricket
+* [WebCric](https://t20.webcric.com/) - Cricket
+* [PakCric](https://pakcric.net/) - Cricket
 * [Tennis Streams](https://tennisstreams.me/) - Tennis
 * [Rugby Streams](https://rugbystreams.me/) - Rugby
 * [Golf Streams](https://golfstreams.me/) - Golf
@@ -1111,6 +1114,7 @@
 * [Awesome ACG](https://github.com/soruly/awesome-acg) - Anime Tool Index 
 * [Anilinks](https://anilinks.neocities.org/) - Anime Related Site Index
 * [Spoiler Protection 2.0](https://spoilerprotection.wecdev.com/) - Keyword / Spoiler Blocker
+* [Smart TV Piracy](https://redd.it/xa0aya) - Smart TV Piracy Guide
 * [Firestick Tricks](https://www.firesticktricks.com/) - Firestick Jailbreak Guide / [Loader](https://github.com/esc0rtd3w/firestick-loader)
 * [Android TV Mod](https://t.me/androidtvmod) - Android TV / Fire TV / Fire Stick / Mods / Telegram
 * [FLauncher](https://play.google.com/store/apps/details?id=me.efesser.flauncher) - Android TV Launcher / [GitLab](https://gitlab.com/etienn01/flauncher)
