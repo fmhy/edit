@@ -24,7 +24,7 @@
 * **[ScOOter Repacks](https://scooter-repacks.site/)** - [Discord](https://discord.gg/BWKyN8SgvM)
 * **[GoG Games](https://gog-games.com/)**
 * **[FreeToGame](https://www.freetogame.com/games)**, [Free Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff), [Acid Play](https://acid-play.com/) or [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - F2P Games
-* **[FFA](https://discord.gg/QvYwqvdgxc)** / [Telegram](https://t.me/FFAMain) / [Help](https://t.me/FFAHelp) / [Updates](https://t.me/FFA_Feed), [VRPirates](https://t.me/vrpirates), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
+* **[FFA](https://discord.gg/QvYwqvdgxc)** / [Telegram](https://pastebin.com/vZBRiCSS), [VRPirates](https://t.me/vrpirates), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
 * **[Scene Release Trackers](https://www.reddit.com/rFREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers)** - Get Scene Release Updates
 * [DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "games" or "roms"
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.me/) - [Discord](https://discord.gg/693hNBdymb)
