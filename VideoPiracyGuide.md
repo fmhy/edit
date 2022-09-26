@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/et1ZXka.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/nwESZ1A.png)** - For mobile users
 
 ***
 ***
@@ -992,39 +992,6 @@
 * [Internet Movie Cars Database](https://www.imcdb.org/) - Movie Vehicle Database
 * [TVTropes](https://tvtropes.org/) - TV Tropes Wiki
 * [MovieMap](http://www.themoviemap.com/), [ReelStreets](https://www.reelstreets.com/), [Movie-Locations](http://www.movie-locations.com/), [MovieLoci](https://www.movieloci.com/), [AtlasOfWonders](https://www.atlasofwonders.com/), [WhereDidTheyFilmThat](http://www.wheredidtheyfilmthat.co.uk/), [British-Film-Locations](http://www.british-film-locations.com/) - Film Location Maps
-
-***
-
-# ► Request Videos
-
-* **[DirtyWarez](https://forum.dirtywarez.com/categories/download-requests.113/)** - Movies / TV 
-* **[Movie-Forum](https://movie-forum.co/forums/23-Requests)** - Movies
-* **[TopNow](https://discord.gg/marBA97)** - Movies / TV / Anime
-* **[WorldsCinema](http://worldscinema.org/movie-request/)** - Movies 
-* [RareFilmm](http://rarefilmm.com/requests/) - Rare Movies 
-* [Sanet.st](https://sanet.st/community/t/requests) - Movies / TV 
-* [MegaDDL](https://megaddl.co/tv-request/) - TV
-* [pirates-forum](https://pirates-forum.org/Forum-Requests) - Movies / TV  
-* [C1NE](https://c1ne.co/faq-requests/) - Movies / TV 
-* [TehParadox](https://www.tehparadox.net/requests/) - Movies / TV 
-* [SuperNova](https://supernova.to/sn/requests) - Movies / TV / Anime 
-* [WorldSrc](https://t.me/WorldsrcOfficial) - Movies / TV / Telegram
-* [Fmovies](https://fmovies.co/) - Movies / TV / Anime
-* [1movies](https://1movies.life/contact) - Movies / TV / Anime
-* [9Anime](https://9anime.to/) - Anime / Click Request
-* [TheWebFlix](https://docs.google.com/forms/d/e/1FAIpQLSe1-DTmK9yuAtmO6_pLMO4fR5UF2aWf0QbMME41blXfFWSQBA/viewform) - Movies / TV 
-* [anime-sharing](http://www.anime-sharing.com/forum/anime-requests-19/) - Anime
-* [warezforums](https://warezforums.com/Forum-Request-Movies-TV-Shows) - Movies / TV
-* [Psycho Download](http://psychodownloads.com/forumdisplay.php?19-Request-Zone) - Movies / TV
-* [cyberphoenix](http://www.cyberphoenix.org/forum/forum/54-requests/) - Movies / TV
-* [dreamteamdownloads1](https://www.dreamteamdownloads1.com/24/requests-new/) - Movies / TV
-* [Rarefilmsbot](https://t.me/Rarefilmsbot) - Movies / Telegram 
-* [Mobile movies request bot](https://t.me/cc_mmrequestbot) - Movies / Telegram / 480p 
-* [AWMHG](https://t.me/all_world_movies_here_group) - Movies / Telegram 
-* [MoviesX_support](https://t.me/MoviesX_support) - Movies / Telegram 
-* [request_movies_group](https://t.me/request_movies_group) - Movies / Telegram 
-* [KimCartoon.to](https://www.facebook.com/messages/t/kimcartoonfp) - Cartoons
-* [KissAsian.sh](https://kissasian.sh/RequestDrama) - KDrama
 
 ***
 
