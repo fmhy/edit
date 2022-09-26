@@ -1344,7 +1344,7 @@
 * [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [gramxly](https://gramxly.com/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html), [TDirectory](https://tdirectory.me/) or [TGStat](https://tgstat.com/search) - Telegram Channel / Bot Search
 * [ShellBot](https://github.com/MannyHackers/ShellBot), [EvaMaria](https://github.com/EvamariaTG/EvaMaria) - Multi-Purpose Telegram Bot
 * [VirusTotalAV_bot](https://t.me/VirusTotalAV_bot) - Telegram File Scanner
-* [TG Bot](https://github.com/TheCaduceus/Link-Bypasser-Bot) - Ad Link Bypass Bot
+* [TG Bot](https://drlinkbot.t.me/) / [2](https://github.com/TheCaduceus/Link-Bypasser-Bot) - Ad Link Bypass Bot
 * [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots) - Audio Download Bots
 * [GetMediaBot](https://t.me/getmediabot) - Media Download Bot
 * [Telegram-Media-Downloader](https://github.com/fattynoparents/Telegram-Media-Downloader) - Media Download Extension
