@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/irhNLlx.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/p52DeiL.png)** - For mobile users
 
 ***
 ***
@@ -47,6 +47,7 @@
 * [Blinkist Free Daily](https://t.me/blinkistfree) - Self-Help Audiobooks
 * [Audiobooks Unleashed](https://audiobooksunleashed.com/) - Audiobook Codes
 * [/r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
+* [/r/audiobookrequest](https://reddit.com/r/audiobookrequest) - Request Audiobooks
 * [Telegram Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audiobook_downloads) - Telegram Audiobook Channels
 * [audiobook-dl](https://github.com/jo1gi/audiobook-dl) or [Audiobook Downloader](https://github.com/ipriyam26/Audiobook) - Audiobook Download Tool
 * [OverDrive](https://github.com/chbrown/overdrive) - OverDrive Audiobook Download Script
@@ -100,6 +101,7 @@
 * [DPLA](http://dp.la/) - Books
 * [Books'Cool](https://www.bookscool.com/en/index.php) - Books
 * [Dirzon](https://www.dirzon.com/) - Books
+* [VK eBook Sharing Group](https://vk.com/club162811046) - Books
 * [Ebookee](https://www.ebookee.com/) - Books / Magazines
 * [EBooksCart](https://ebookscart.com/) - Books
 * [Index of /Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_index_of_.2Fbooks) - Books
@@ -262,6 +264,7 @@
 * [mr.taco9's library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mr.taco9.27s_library) - Occult / Luciferianism 
 * [The Law of One](https://www.lawofone.info/) - The Law of One Sessions
 * [Esoteric Archive](http://esotericarchives.com/) - Esoterica
+* [/r/alexandria](https://www.reddit.com/r/alexandria/) - Esoteric / Occult
 * [Masonic Library](https://masonicshop.com/masonic-library/) - Esoterica / Freemasonry
 * [Golden Dawn](https://golden-dawn.com/nl/library.aspx) - Alchemy / Esoterica
 * [Darkbooks](https://darkbooks.org/collection/top250.html) - Occult
@@ -1063,7 +1066,8 @@
 * [MTL Novel](https://www.mtlnovel.com/)
 * [NovelFull](https://novelfull.com/)
 * [ExiledRebels](https://exiledrebelsscanlations.com/)
-* [Moon Bunny Cafe](https://moonbunnycafe.com/)  
+* [Moon Bunny Cafe](https://moonbunnycafe.com/)
+* [Light Novel Archive](https://t.me/lightnovelarchive_bot) - Telegram / Bot
 * [Book Smelting Bot](https://t.me/epub_smelter_bot) - Telegram / Bot
 * [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - Novels / Audio Recordings  
 * [NovelReader](https://github.com/Kevin-Umali/NovelReader) - Light Novel Reader
@@ -1184,32 +1188,6 @@
 * [rate.house](https://rate.house/) - Media Tracker
 * [libib](https://www.libib.com/) - Desktop Media Catalog
 * [MythBank](https://mythbank.com/) - Media Timelines / Watch Orders 
-
-***
-
-# ► Request Books
-
-* **[DirtyWarez](https://forum.dirtywarez.com/categories/download-requests.113/)** - Books / Audiobooks 
-* **[Mobilism](https://forum.mobilism.org/viewforum.php?f=20)** - Books / Audiobooks
-* **irc.irchighway.net/ebooks** - eBook IRC / [Request Guide](https://i.imgur.com/GvyDh0B.png)
-* [AudiobookBay](http://audiobookbay.fi/forum/general-requests/) - Audiobooks
-* [/r/audiobookrequest](https://reddit.com/r/audiobookrequest) - Audiobooks
-* [libgen](https://forum.mhut.org/viewtopic.php?f=17&t=6399) - Books / [Request Form](https://libgen.life/bookreq/)
-* [EBooksCart](https://ebookscart.com/request-books/) - Books
-* [pirates-forum](https://pirates-forum.org/Forum-Requests) - Books
-* [The Library](https://discord.gg/cgSVDUwZs9) - Books
-* [AllBooksWorld](https://allbooksworld.com/request-a-book/) - Books
-* [PDF Drive](https://www.pdfdrive.com/request-a-book) - Books
-* [Sanet.st](https://sanet.st/community/t/requests) - Books
-* [ebookdlrequest](https://t.me/ebookdlrequest) - Books
-* [ebookhunter](https://www.ebookhunter.net/request-ebooks/) - Books 
-* [VK eBook Sharing Group](https://vk.com/club162811046) - Books 
-* [Light Novel Archive](https://t.me/lightnovelarchive_bot) - Light Novels
-* [FreeNovelsGroup](https://t.me/FreeNovelsGroup) - Books / Telegram 
-* [/r/alexandria](https://www.reddit.com/r/alexandria/) - Esoteric / Occults Books
-* [/r/textbook_piracy](https://reddit.com/r/textbook_piracy)
-* [/r/Scholar](https://reddit.com/r/Scholar)
-* [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
 
 ***
 
