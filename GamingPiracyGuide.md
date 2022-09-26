@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/6hZjkRg.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/1hVZsuM.png)** - For mobile users
 
 ***
 ***
@@ -783,15 +783,6 @@
 * [Unseen64](https://www.unseen64.net/) - Cancelled / Lost Games
 * [libib](https://www.libib.com/) - Desktop Media Catalog
 * [MediaTracker](https://github.com/bonukai/MediaTracker) - Self Hosted Media Tracker
-
-***
-
-# ► Request Games
-
-* **[DirtyWarez](https://forum.dirtywarez.com/categories/download-requests.113/)**
-* [cyberphoenix](http://www.cyberphoenix.org/forum/forum/54-requests/)
-* [TehParadox](https://www.tehparadox.net/requests/)
-* [pirates-forum](https://pirates-forum.org/Forum-Requests) 
 
 ***
 
