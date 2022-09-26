@@ -10,8 +10,7 @@
 ***
 
 # ► Download Games
-
-* **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)** / **[Bonneteer](https://bonneteer.herokuapp.com/)** / **[Rave Search](https://idleendeavor.github.io/gamesearch/)**, [2](https://ravegamesearch.pages.dev/) - Multi-Site Search
+* **[Rezi Search](https://rezi.one/)** / **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)** / **[Bonneteer](https://bonneteer.herokuapp.com/)** / **[Rave Search](https://idleendeavor.github.io/gamesearch/)**, [2](https://ravegamesearch.pages.dev/) - Multi-Site Search
 * **[/r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Trusted Game Download Sites / [Discord](https://discord.gg/dZWwhUy)
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - [Discord](https://discord.gg/Up3YARe4RW)
 * **[Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/)** - [Discord](https://discord.gg/HP5sQ6c)
