@@ -3,7 +3,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/jx8ypv8.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/FDGMdsN.png)** - For mobile users
 
 ***
 ***
@@ -495,17 +495,6 @@
 * [MediaTracker](https://github.com/bonukai/MediaTracker) - Self Hosted Media Tracker
 * [libib](https://www.libib.com/) - Desktop Media Catalog
 * [Podcatalysts](https://podcatalysts.substack.com/) - Podcast Recommendation Newsletter
-
-***
-
-# ► Request Music
-
-* **[DirtyWarez](https://forum.dirtywarez.com/categories/download-requests.113/)** 
-* [WorldSrc](https://t.me/WorldsrcOfficial)
-* [TehParadox](https://www.tehparadox.net/requests/)
-* [Sanet.st](https://sanet.st/community/t/requests) 
-* [xprm](https://xprm.net/)
-* [pirates-forum](https://pirates-forum.org/Forum-Requests) 
 
 ***
 
