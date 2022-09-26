@@ -2275,10 +2275,8 @@ Add the following commands to a search to manually scrape each site.
 
 * Note that these can and do get deleted
 * https://td.msgsuite.workers.dev/
-* https://azure.starter.workers.dev/
 * https://t.me/MSGuite_SD_Creator_Bot + [Telegram Chat](https://t.me/msgsuitechat)
 * https://bdi-generator.hashhackers.com/ (Code Generator)
-* https://pastelink.net/2zw21 (list)
 
 ***
 
