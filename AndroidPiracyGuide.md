@@ -856,7 +856,6 @@
 * [AnimeXStream](https://github.com/mukul500/AnimeXStream/)
 * [AnimeDLR](https://cyberneticlifeform.wixsite.com/cylonu87/animedlr) - [Discord](https://discord.com/invite/wKxRqKc)
 * [aniryu](https://anime.pokurt.me/)
-* [Kamyroll](https://github.com/hyugogirubato/Kamyroll-Developers)
 * [ZAnime](https://github.com/linkkader/zanime)
 * [Aniyomi](https://github.com/jmir1/aniyomi)
 * [Animebay](https://animebay.tech/)
