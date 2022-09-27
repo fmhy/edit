@@ -22,7 +22,6 @@
 * **[Oligopoly](https://olgply.com/)** - Movies / TV
 * **[Soap2Day](https://soapgate.org/)** - Movies / TV
 * **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
-* **[TheFlix](https://theflix.to/)** - Movies / TV
 * **[Mov.onl](https://www.mov.onl/)** - Movies / TV
 * **[Movies.cf](https://movies.cf/Landing)** - Movies
 * **[FreeTubeSpot](https://www.freetubespot.com/)** - Movies
@@ -79,6 +78,7 @@
 * [Tainio-Mania](https://tainio-mania.online/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Ling.online](https://ling.online/en/videos/films/) - Movies / TV
 * [MKVKing](https://111.90.158.128/) - Movies / TV
+* [TheFlix](https://theflix.to/) - Movies / TV / Requires Signup
 * [Flixtor](https://flixtor.to) or [Filme21](https://filme21.com/) - Movies / TV / Movies Older Than 6 Months For Premium Only
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_google_teamdrives) - Movies / TV / Anime 
 * [Filmzie](https://filmzie.com/) - Movies / TV
