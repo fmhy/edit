@@ -22,9 +22,9 @@
 * **[Oligopoly](https://olgply.com/)** - Movies / TV
 * **[Soap2Day](https://soapgate.org/)** - Movies / TV
 * **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
+* **[TheFlix](https://theflix.to/)** - Movies / TV
 * **[Mov.onl](https://www.mov.onl/)** - Movies / TV
 * **[Movies.cf](https://movies.cf/Landing)** - Movies
-* **[TheFlix](https://theflix.to/)** - Movies / TV
 * **[FreeTubeSpot](https://www.freetubespot.com/)** - Movies
 * **[Ask4movies](https://ask4movie.io/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
 * **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
