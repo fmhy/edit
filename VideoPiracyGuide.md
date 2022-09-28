@@ -19,19 +19,19 @@
 
 ## ▷ Dedicated Hosts
 
-* **[Oligopoly](https://olgply.com/)** - Movies / TV
 * **[Soap2Day](https://soapgate.org/)** - Movies / TV
+* **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
+* **[Oligopoly](https://olgply.com/)** - Movies / TV
 * **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
 * **[Mov.onl](https://www.mov.onl/)** - Movies / TV
 * **[Movies.cf](https://movies.cf/Landing)** - Movies
 * **[FreeTubeSpot](https://www.freetubespot.com/)** - Movies
 * **[Ask4movies](https://ask4movie.io/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
 * **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
-* [M4uFree](https://ww2.m4ufree.com/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
+* [C1NE](https://c1ne.co/) - Movies / TV
 * [HDMovieBox](https://hdmoviebox.org/) - Movies
 * [SockShare](http://sockshare.ac/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones) / Use Adblock
 * [NetU](https://netu.io/view_page.php?pid=4) - Movies / TV / / Anime / [Search](https://i.imgur.com/SiYyosZ.mp4) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)
-* [C1NE](https://c1ne.co/) - Movies / TV
 * [OpenloadMovies](https://openloadmov.net/) or [Yify TV](https://yify.plus/) - Movies / TV
 * [UltraMovies](https://ultramovies.net/) - Movies / TV
 * [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime
