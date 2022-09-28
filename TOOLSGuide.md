@@ -1187,7 +1187,7 @@
 * **[Discord3rdParties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)** - Discord Client Index
 * **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client 
 * **[BetterDiscord](http://betterdiscord.app/)** - Modifiable Discord Client / [GitHub](https://github.com/BetterDiscord/BetterDiscord) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)
-* **[Cumcord](https://cumcord.com/)** / [Discord](https://discord.gg/kkmM5U7YAt) or [Velocity](https://velocity-discord.netlify.app/) - Discord Client Mod 
+* [Velocity](https://velocity-discord.netlify.app/) - Discord Client Mod 
 * [Discord Servers & Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists) - Discover Servers / Bots
 * [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - Discord Tools
 * [Client-Modding-Guide](https://github.com/saintwithataint/Client-Modding-Guide/blob/main/PimpMyClient.md) - Modify Your Discord Client
