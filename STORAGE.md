@@ -2170,7 +2170,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Telegram Bots**
 
-[spotifydl_mp3_bo](https://t.me/spotifydl_mp3_bot), [Spotdlrobot](https://t.me/Spotdlrobot), [Spotify Music Downloader](https://t.me/joinchat/DdR2SUvJPBouSW4QlbJU4g), [pymusicdl](https://github.com/insaiyancvk/pymusicdl), [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl), [Spotify_downloa_bot](https://t.me/Spotify_downloa_bot) 
+[Spotdlrobot](https://t.me/Spotdlrobot), [Spotify Music Downloader](https://t.me/joinchat/DdR2SUvJPBouSW4QlbJU4g), [pymusicdl](https://github.com/insaiyancvk/pymusicdl), [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl), [Spotify_downloa_bot](https://t.me/Spotify_downloa_bot) 
 
 **Recorders** 
 
@@ -2437,7 +2437,6 @@ Add the following commands to a search to manually scrape each site.
 * [vkm_bot](https://t.me/vkm_bot)
 * [Song_downloaderbot](https://t.me/Song_downloaderbot)
 * [songdl_bot](https://t.me/songdl_bot) 
-* [m1hbot](https://t.me/m1hbot) - deezer bots, spotify bots ect.
 * [DeezerMusicBot](https://t.me/DeezerMusicBot) 
 * [DeezloaderAn0n_bot](https://t.me/DeezloaderAn0n_bot)
 * [deezload2bot](https://t.me/deezload2bot)
