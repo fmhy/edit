@@ -2704,7 +2704,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Tracker Lists
 
-[trackerslist](https://trackerslist.com/) /  [2](https://ngosang.github.io/trackerslist/trackers_all.txt) / [3](https://github.com/ngosang/trackerslist), [fossbytes list](https://fossbytes.com/torrent-trackers-list/), [NewTrackOn](https://newtrackon.com/list), [TrackersListCollection](https://github.com/XIU2/TrackersListCollection)
+[ngosang](https://ngosang.github.io/trackerslist/) / [2](https://ngosang.github.io/trackerslist/trackers_all.txt), [trackerslist](https://trackerslist.com/) / [2](https://github.com/XIU2/TrackersListCollection), [fossbytes list](https://fossbytes.com/torrent-trackers-list/), [NewTrackOn](https://newtrackon.com/list)
 
 ***
 
