@@ -2704,7 +2704,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Tracker Lists
 
-[ngosang](https://github.com/ngosang/trackerslist), [OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/), [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/), [hdvinnie (Private)](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/), [awesome-piracy](https://github.com/Igglybuff/awesome-piracy#public-trackers), [trackerslist](https://trackerslist.com/) /  [2](https://ngosang.github.io/trackerslist/trackers_all.txt), [fossbytes list](https://fossbytes.com/torrent-trackers-list/), [NewTrackOn](https://newtrackon.com/list), [torrent-trackers-list](https://fossbytes.com/torrent-trackers-list/), [TrackersListCollection](https://github.com/XIU2/TrackersListCollection), [OpenTrackers](https://opentrackers.org/)
+[OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/) / [2](https://opentrackers.org/), [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/), [hdvinnie (Private)](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/), [awesome-piracy](https://github.com/Igglybuff/awesome-piracy#public-trackers), [trackerslist](https://trackerslist.com/) /  [2](https://ngosang.github.io/trackerslist/trackers_all.txt) / [3](https://github.com/ngosang/trackerslist), [fossbytes list](https://fossbytes.com/torrent-trackers-list/), [NewTrackOn](https://newtrackon.com/list), [TrackersListCollection](https://github.com/XIU2/TrackersListCollection)
 
 ***
 
