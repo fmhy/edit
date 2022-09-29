@@ -215,7 +215,8 @@
 * [XtremeWrestlingTorrents](http://xtremewrestlingtorrents.net/) - Wrestling Private Tracker / Open Registrations
 * [Torrent Invites](http://torrentinvites.org/f37/) - Open Tracker Invites / Forum
 * [TorrentInvites](https://torrentinvites.net/) - Open Tracker Invites / Forum 
-* [InviteHawk](https://www.invitehawk.com/forum/44-open-signup-tracker-updates/) - Open Tracker Invites / Forum 
+* [InviteHawk](https://www.invitehawk.com/forum/44-open-signup-tracker-updates/) - Open Tracker Invites / Forum
+* [hdvinnie](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) - Open Tracker Invites
 * [Open for Signup](https://t.me/opensignup) - Open Signups Private Trackers / Telegram
 * [Bemaniso](https://bemaniso.ws/) - Torrent Tracker / [Auto Transcode / Upload](https://github.com/doggo404/sowsbetter)
 
