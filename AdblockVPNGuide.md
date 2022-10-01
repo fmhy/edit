@@ -114,7 +114,7 @@
 * [Hardentools](https://github.com/securitywithoutborders/hardentools) - Disables Risky Windows Features
 * [Unchecky](https://unchecky.com/) - Clears Software Installation Checkboxes
 * [Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/) or [DrWeb](https://free.drweb.com/) - No Install Required Antivirus
-* [Should I Remove It?](https://www.shouldiremoveit.com/) - Easily Find & Remove Adware, Spyware ect.
+* [Should I Remove It?](https://www.shouldiremoveit.com/) - Easily Find & Remove Adware, Spyware etc.
 * [Rewind](https://github.com/Neo23x0/Rewind) - Immediate Virus Infection Counter Measures
 * [Spybot](https://www.safer-networking.org/products/spybot-free-edition/) or [SUPERAntiSpyware](https://www.superantispyware.com/free-edition.html) - Anti-spyware
 * [VT4Browsers](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions) - Easily Scan Downloads
@@ -286,7 +286,7 @@
 * [CRXcavator](https://crxcavator.io/) - Check Browser Extension Security
 * [File Guard](https://mybrowseraddon.com/file-encryptor.html) - File Encryption / Decryption
 * [Trace](https://absolutedouble.co.uk/trace/) - Privacy Toolkit 
-* [Site Bleacher](https://github.com/wooque/site-bleacher) - Auto Remove Cookies, Local Storages, ect.
+* [Site Bleacher](https://github.com/wooque/site-bleacher) - Auto Remove Cookies, Local Storages, etc.
 * [Invidition](https://codeberg.org/Booteille/Invidition) or [LibreDirect](https://github.com/libredirect/libredirect) - Frontend Redirect
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
 * [catgirl.cloud](https://catgirl.cloud/) - Privacy-Respecting Services
@@ -588,7 +588,6 @@
 
 * **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)** - Lists of Proxies
 * **[Piracy Site Proxies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_piracy_site_proxies)**
-* **[Holy Unblocker](https://www.holyubofficial.net/)** - [Discord](https://discord.gg/hcUUceSCtj) / [Herokuapp](https://holyublocker.herokuapp.com/)
 * [ProxySite](https://www.proxysite.com/)
 * [GenMirror](https://www.genmirror.com/) 
 * [Hide.me](https://hide.me/en/proxy)
