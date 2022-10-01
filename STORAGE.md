@@ -2466,36 +2466,23 @@ Hosters: https://pastebin.com/AUqx5N3X) / [Hosters](https://pastebin.com/AUqx5N3
 
 #### Telegram eBook Download
 
-* https://t.me/joinchat/AAAAAEzJPHplxAzxEO8p-A
-* https://t.me/best_bookshelf
 * https://t.me/Ebooks254
 * https://t.me/BOOK_HOUSE_INTERNATIONAL
 * https://t.me/Ebooks_Encyclopedia27
-* https://t.me/books_every_day
-* https://t.me/booksnow
 * https://t.me/Books_worldd
 * https://t.me/Ebooksenglish
 * https://t.me/free_ebooks_pdfs
 * https://t.me/English_Hindi_Novels_Magazine
-* https://t.me/ebookz
 * https://t.me/BooksThief
 * https://t.me/FreeNovelsGroup
-* https://t.me/ITBooks4U
 * https://t.me/iBooks_Bot
 * https://t.me/booksmania
 * https://t.me/livresdomainepublic
-* https://t.me/eng_books
-* https://t.me/ASM_Books_Bot
 * https://t.me/bkcrushfilesbot
-* https://t.me/BookCornerBot
 * https://t.me/bookdownbot
 * https://t.me/ebooksdlbot
-* https://t.me/eBukBot
 * https://t.me/libsan_bot
-* https://t.me/pdfobot
 * https://t.me/alejandriak
-* https://t.me/PDFArchives
-* https://t.me/s4n1t4t10n
 * https://t.me/yourlibraries
 * https://t.me/TheEbookStop
 * https://t.me/bookclub7
@@ -2504,9 +2491,6 @@ Hosters: https://pastebin.com/AUqx5N3X) / [Hosters](https://pastebin.com/AUqx5N3
 * https://t.me/BooksStreet
 * https://t.me/BookWizardTheNewest
 * https://t.me/Dao_Qigong_Taiji_TCM_ebooks
-* https://t.me/ebooks_house
-* https://t.me/EbookzCollection
-* https://t.me/freebook9
 * https://t.me/lib_of_dos_old_vk
 * https://t.me/LibrariesofTelegram
 * https://t.me/libraryofdos
