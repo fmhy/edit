@@ -317,7 +317,6 @@
 * [Jainism Library of Jain Literature](http://www.atmadharma.com/index.html) - Sacred Texts / Religion / Multi Language
 * [Vedabase](https://vedabase.io/en/) - Bhaktivedanta Swami / Books / Transcripts / Letters 
 * [Sounding Spirit](https://library.soundingspirit.org/) - Religious Songbooks
-* [Gematrinator](https://www.gematrinator.com/calculator/index.php) - Gematria Calculator
 
 ***
 
