@@ -33,6 +33,7 @@
 * [KaOsKrew](https://www.kaoskrew.org/)
 * [Crohasit](https://crohasit.net/)
 * [NexusGames](https://nexusgames.to/) - [Discord](https://discord.gg/8YXGgy4DJj)
+* [Pirated-Games](https://pirated-games.com/) - [Discord](https://discord.com/invite/MsgRj3SUrE)
 * [Game3rb](https://game3rb.com/)
 * [GetGamez](https://getgamez.net/) - [Discord](https://discord.com/invite/tNhPmCU)
 * [Le Fishe Repacks](https://discord.gg/W3MfGDXhAS)
@@ -366,7 +367,7 @@
 * [dhewm3](https://dhewm3.org/) - Doom 3 Source Port
 * [DOOM FX](https://github.com/RandalLinden/DOOM-FX) - Doom SNES Source Code
 * [psdoom-ng](https://github.com/ChrisTitusTech/psdoom-ng) - Close Processes by Killing Demons
-* [Unreal Archive](https://unrealarchive.org/index.html) - Unreal Tournament Mods, Maps, Skins ect.
+* [Unreal Archive](https://unrealarchive.org/index.html) - Unreal Tournament Mods, Maps, Skins etc.
 * [Q1K3](https://js13kgames.com/games/q1k3/index.html) - Quake Inspired Browser Game
 * [rottexpr](https://github.com/LTCHIPS/rottexpr) - Rise of the Triad Source Port
 * [ECWolf](https://maniacsvault.net/ecwolf/) - Wolfenstein 3D, Spear of Destiny &amp; Super 3D Noah's Ark Port
@@ -562,7 +563,7 @@
 
 ## ▷ Multiplayer
 
-* **[EagleCraft](https://eaglercraft.us/)** - Multiplayer Browser Minecraft
+* **[EagleCraft](https://eaglercraft.us/)** - Multiplayer Browser Minecraft / [GitHub](https://github.com/lax1dude/eaglercraft)
 * **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS / [Market Ping](https://yee.how/market-ping/) / [Client](https://client.cuffuffles.dev/) / [Optimal Settings](https://rentry.co/krunkersettings)
 * **[DelugeRPG](https://www.delugerpg.com/)** or [Pokemon Legends](https://www.pokemongods.com/) - Pokemon MMO
 * **[Pokemon Showdown](https://pokemonshowdown.com/)** - Online Pokemon Battles 
@@ -750,25 +751,26 @@
 # ► Tracking / Discovery
 
 * **[IMDb Advanced Search](https://www.imdb.com/search/)**
-* **[Grouvee](https://www.grouvee.com/)** - Video Game Tracker
+* **[Grouvee](https://www.grouvee.com/)** - Game Tracker
 * **[TasteDive](https://tastedive.com/)** - Game Recommendations
 * [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
 * [OpenCritic](https://opencritic.com/) - Critic Game Reviews / Ratings
-* [IMDb](https://www.imdb.com/) - Video Game Database
-* [GiantBomb](https://www.giantbomb.com/games/) - Video Game Database 
-* [GameFAQs](https://gamefaqs.gamespot.com/) - Video Game Database
-* [GG App](https://ggapp.io/) - Video Game Tracker
-* [Gamelib](https://gamelib.app/explore) - Video Game Tracker
-* [Backloggd](https://www.backloggd.com/) - Video Game Database
-* [Games Database](https://www.gamesdatabase.org/) - Video Game Database 
-* [LaunchBox Games Database](https://gamesdb.launchbox-app.com/) - Video Game Database 
-* [IGDB](https://www.igdb.com/) - Video Game Database
-* [We The Players](https://wetheplayers.com/) - Video Game Database
-* [Rawg](https://rawg.io/) - Video Game Database
-* [Moby Games](https://www.mobygames.com/) - Video Game Database 
-* [rate.house](https://rate.house/) - Video Game Database
-* [Backloggery](https://backloggery.com/) - Video Game Database
-* [listal](https://www.listal.com/) - Video Game Database
+* [IMDb](https://www.imdb.com/) - Game Database
+* [GiantBomb](https://www.giantbomb.com/games/) - Game Database 
+* [GameFAQs](https://gamefaqs.gamespot.com/) - Game Database
+* [GG App](https://ggapp.io/) - Game Tracker
+* [Gamelib](https://gamelib.app/explore) - Game Tracker
+* [Backloggd](https://www.backloggd.com/) - Game Database
+* [Games Database](https://www.gamesdatabase.org/) - Game Database 
+* [LaunchBox Games Database](https://gamesdb.launchbox-app.com/) - Game Database 
+* [IGDB](https://www.igdb.com/) - Game Database
+* [We The Players](https://wetheplayers.com/) - Game Database
+* [Steam Games](https://steam-games.org/) - Game Database
+* [Rawg](https://rawg.io/) - Game Database
+* [Moby Games](https://www.mobygames.com/) - Game Database 
+* [rate.house](https://rate.house/) - Game Database
+* [Backloggery](https://backloggery.com/) - Game Database
+* [listal](https://www.listal.com/) - Game Database
 * [RetroShowcase](https://www.retroshowcase.gr/) - Retro Game Database
 * [Co-Optimu](https://www.co-optimus.com/) - Co-Op Game Database
 * [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) or [list of local multiplayer pc games](https://docs.google.com/spreadsheets/d/14f6qS2GJy8C-b40Df3dNH_aZq7WfZ4jMggzEajUrX0w/) - Local Multiplayer Game Database
