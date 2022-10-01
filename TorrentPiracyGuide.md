@@ -172,6 +172,7 @@
 * [Torrentzeta](https://www.torrentzeta.com/) 
 * [Toorgle](http://www.toorgle.com/) 
 * [Veoble](http://veoble.com/torrent/) 
+* [BitCQ](https://bitcq.com/)
 * [TorrentSearchRobot](https://t.me/TorrentSearchRoBot) - Telegram Torrent Search
 * [Torrents.csv](https://torrents-csv.ml/#/) - Torrent CSV Search
 * [BTDigg](https://btdig.com/index.htm) - Torrent DHT Search Engine / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/)
