@@ -90,8 +90,9 @@
 * [VisualGo](https://visualgo.net/) - Data Structures & Algorithm Animations
 * [HTMLDog](https://htmldog.com/) - HTML / CSS / JavaScript Tutorials
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com/) - HTML & CSS Tutorials
-* [VIM Adventures](https://vim-adventures.com/) - VIM Learning Game
-* [VIM University](https://github.com/wincent/vim-university) - VIM Tips
+* [OpenVim](https://www.openvim.com/) - Interactive Vim Tutorial
+* [Vim Adventures](https://vim-adventures.com/) - Vim Learning Game
+* [Vim University](https://github.com/wincent/vim-university) - Vim Tips
 * [Learn C](https://www.learn-c.org/) - C Tutorial
 * [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - C++ Best Practices Guidelines / [Github](https://github.com/isocpp/CppCoreGuidelines)
 * [Learn C++](https://www.learncpp.com/) - Learn C++
@@ -364,6 +365,7 @@
 * [free-website-translation](http://free-website-translation.com/), [transdict](http://transdict.com/meta/website.html) or [conveythis](https://www..com/) - Website Translators
 * [Statically](https://statically.io/) - Load Websites Faster
 * [comepress](https://github.com/NayamAmarshe/comepress) - Optimize Sites Image Files
+* [Magic Drop](https://chrome.google.com/webstore/detail/magic-drop/ogbbepddobacadohbfbpmhjomfjmbken) - Drag & Drop Images to Sites
 * [Rest Test Test](http://resttesttest.com/) - Test REST / CORS Services
 * [HeidiSQL](https://www.heidisql.com/) - SQL Manager
 * [httpbin](https://httpbin.org/) - HTTP Request & Response Service
@@ -521,6 +523,7 @@ Automated Incident Response and Forensics Framework
 * [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
 * [mkcert](https://github.com/FiloSottile/mkcert) - Locally Trusted Development Certificates
 * [OpenSSL](https://www.openssl.org/) - SSL / TLS Toolkit
+* [SSL Config Generator](https://ssl-config.mozilla.org/) - Generate SSL Configurations
 * [MinIO](https://min.io/) or [Filebase](https://filebase.com/) - Cloud Native Object Storage
 * [Traefik](https://traefik.io/) - Cloud Native Stack
 * [Amazon S3](https://aws.amazon.com/s3) - Cloud Object Storage Amazon Simple Service Storage
@@ -668,7 +671,8 @@ Automated Incident Response and Forensics Framework
 * [Python to APK](https://github.com/Spidy20/Python_To_APK) - Convert Python Code to APK
 * [GoNative](https://gonative.io/) - Convert Websites to Mobile Apps
 * [NukeUI](https://github.com/kean/NukeUI) - Lazy Image Loading for Apple Platforms
-* [MobileApp-Pentest-Cheatsheet](https://github.com/fuzz-security/MobileApp-Pentest-Cheatsheet) - Mobile App Penetration Test Index
+* [Kali NetHunter](https://store.nethunter.com/en/) - Penetration Testing / Forensics Apps
+* [MobileApp-Pentest-Cheatsheet](https://github.com/fuzz-security/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
 * [Uiautomator2](https://github.com/openatx/uiautomator2) or [Appium](http://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
 * [MSTG](https://github.com/OWASP/owasp-mstg) - App Security Testing / Reverse Engineering
 * [jadx](https://github.com/skylot/jadx) - Dex to Java Decompiler
@@ -885,7 +889,8 @@ Automated Incident Response and Forensics Framework
 * [GIT Quick Stats](https://git-quick-stats.sh/) - View Git Statistics / [GitHub](https://github.com/arzzen/git-quick-stats)
 * [GitHub Release Downloads](https://github.com/addshore/browser-github-release-downloads) - GitHub Release Download Counter
 * [Git-notify](https://github.com/jevakallio/git-notify) - Embed Announcements into Git Commit Messages
-* [Shields.io](https://shields.io/) - Metadata badges for Github Readmes
+* [Shields.io](https://shields.io/) - Metadata badges for GitHub Readmes
+* [SkillIcons](https://skillicons.dev/) - Skill Badges for GitHub Readmes / Resumes
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - Enable Snake Game on GitHub Readme
 * [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) or [GPRM](https://gprm.itsvg.in/) - Generate Git Profile Readme
 * [GitStalk](https://gitstalk.netlify.app/) - GitHub Profile Info Search
@@ -895,7 +900,8 @@ Automated Incident Response and Forensics Framework
 * [gist.io](https://gist.io/) - Git Blog Platform
 * [Github Action for Rclone](https://github.com/marketplace/actions/github-action-for-rclone) - Rclone GitHub Action Wrapper
 * [gitignore](https://github.com/github/gitignore) - Gitignore Templates
-* [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub), [diohub](https://github.com/NamanShergill/diohub) or [OctoDroid](https://github.com/slapperwan/gh4a) - Android GitHub Client
+* [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub), [diohub](https://github.com/NamanShergill/diohub),[Fasthub-Libre](https://github.com/thermatk/FastHub-Libre, [FastHub-RE](https://github.com/LightDestory/FastHub-RE), [MGit](https://github.com/maks/MGit), [GitNex](https://codeberg.org/gitnex/GitNex/ or [OctoDroid](https://github.com/slapperwan/gh4a) - Android GitHub Clients
+* [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - Track Github User Activity on Android
 * [Gitea](https://gitea.io/), [2](https://gittea.dev/) or [Drift](https://www.drift.lol/) - Self-Hosted Git Service
 
 ***
