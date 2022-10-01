@@ -107,6 +107,7 @@
 * **[FMovies](https://fmovies.name/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * **[Squeezebox](https://movie.squeezebox.dev/)** - Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)
 * **[Movolo](https://movolo.vercel.app/)** - Movies / TV
+* **[xpWatch](https://xpwatch.vercel.app/)** - Movies / TV / Anime
 * **[HiMovies](https://www3.himovies.to/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)
 * **[PtFlixMovies](https://ptflixmovies.xyz/)** - Movies / TV / Anime
 * **[Movie-Forum](https://movie-forum.co/forum.php)** - Movies / TV
@@ -154,7 +155,7 @@
 * [Lovemovie](https://lovemovie.org/) - Movies / TV
 * [OpenCulture](https://www.openculture.com/freemoviesonline) - Movies
 * [CimaClub](https://www.cimaclub.cc/category/%D8%A3%D9%81%D9%84%D8%A7%D9%85-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [MovieFFM](https://www.movieffm.net/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [MovieFFM](https://www.movieffm.net/), [2](https://movieffm.cc/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [EntrePeliculasySeries](https://entrepeliculasyseries.nu/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [moviz-time](https://moviz-time.top/i/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [MovGoTV](https://movgotv.com/) - Movies / TV / Anime
@@ -179,11 +180,13 @@
 * [123Movies](https://123movies.sc/) - Movies / TV
 * [123Chill](https://123chill.to/) - Movies / TV / Anime
 * [123MoviesJR](https://123moviesjr.cc/) - Movies / TV
+* [123Series](https://123series.watch/) - Movies / TV
 * [123Moviesd](https://123moviesd.com/) - Movies / TV
 * [123MoviesFun](https://123moviesfun.is/) - Movies / TV
 * [123MoviesOnline](https://123moviesonline.one/) - Movies / TV
 * [0123movies](https://watch0123movies.org) - Movies / TV
 * [Moviehab](https://moviehab.com/) - Movies / TV
+* [WarezCDN](https://warezcdn.com/) - Movies / TV / Anime / API
 * [2embed](https://www.2embed.to/) - Movies / TV / Anime / API
 * [DBGO](https://dbgo.fun/) - Movies / TV / Anime / [Content List](https://dbgo.fun/list.php) / API
 * [ApiMDB](https://apimdb.net/) - Movies / TV / Anime / API
@@ -1042,9 +1045,10 @@
 # ► Helpful Sites / Tools
 
 * **[Video Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - General Video Tools
-* **[Media Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_servers)** - Servers to Host / Play Media 
+* **[Media Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_servers)** - Servers to Host / Play Media
+* **[TVNamer](https://github.com/dbr/tvnamer)** - Automatic TV Episode File Renamer
 * **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad Free Player w/ subs, Speed Control & More
-* **[WhereYouWatch,](https://whereyouwatch.com/latest-reports/)**, [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates), [Torrent Alert](https://play.google.com/store/apps/details?id=com.torrentalert.app&hl=en&gl=US) or [/r/movieleaks](https://reddit.com/r/movieleaks) - Movie Leak Notifications
+* **[WhereYouWatch](https://whereyouwatch.com/latest-reports/)**, [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates), [Torrent Alert](https://play.google.com/store/apps/details?id=com.torrentalert.app&hl=en&gl=US) or [/r/movieleaks](https://reddit.com/r/movieleaks) - Movie Leak Notifications
 * **[Video Quality & Types of Releases](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)** - Video Quality / Release Type Guide / [Image Guide](https://i.imgur.com/kEOrKJT.png)
 * **[Release Group List](https://github.com/Cloudbox/Community/wiki/Quality-Release-Groups)** - Movie / TV Release Group Index
 * **[/r/animepiracy Wiki](https://wiki.piracy.moe/)** - Anime Piracy Guides / Tutorials
@@ -1056,7 +1060,7 @@
 * [RunPee](https://runpee.com/) - Best Movie Break Times
 * [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - Watch, download and Organize public video URLs
 * [GoGetSpoiled](https://gogetspoiled.com/), [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - Movie Spoilers 
-* [Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Covers for Movies, TV ect.
+* [Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Covers for Movies, TV etc.
 * [IsThisDubbed?](https://isthisdubbed.com/) - Check if an Anime is Dubbed
 * [AnimeFillerList](https://www.animefillerlist.com/) - Anime Filler Guide
 * [trace.moe](https://trace.moe/) - Anime Scene Reverse Image Search
