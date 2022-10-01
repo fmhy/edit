@@ -316,7 +316,8 @@
 * [Vedanta Shastras](https://www.shastras.com/) - Hinduism
 * [Jainism Library of Jain Literature](http://www.atmadharma.com/index.html) - Sacred Texts / Religion / Multi Language
 * [Vedabase](https://vedabase.io/en/) - Bhaktivedanta Swami / Books / Transcripts / Letters 
-* [Sounding Spirit](https://library.soundingspirit.org/) - Religious Songbooks 
+* [Sounding Spirit](https://library.soundingspirit.org/) - Religious Songbooks
+* [Gematrinator](https://www.gematrinator.com/calculator/index.php) - Gematria Calculator
 
 ***
 
@@ -870,7 +871,7 @@
 * [ReadFreeComics](https://readfreecomics.com/)
 * [Manhuaplus](https://manhuaplus.com/) 
 * [Readmng](https://www.readmng.com/) 
-* [MangaSee](https://www.mangasee.net/) 
+* [MangaSee](https://www.mangasee.net/)
 * [MixedManga](https://mixedmanga.com/)
 * [Disaster Scans](https://disasterscans.com/) - [Discord](https://discord.gg/JbcJCpv)
 * [ZinManga](https://zinmanga.com/)
@@ -1071,7 +1072,7 @@
 * [Book Smelting Bot](https://t.me/epub_smelter_bot) - Telegram / Bot
 * [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - Novels / Audio Recordings  
 * [NovelReader](https://github.com/Kevin-Umali/NovelReader) - Light Novel Reader
-* [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [QuickNovel](https://github.com/LagradOst/QuickNovel), [anime-dl](https://github.com/vrienstudios/anime-dl) / [2](https://github.com/vrienstudios/anime-dl) or [Novel-Grabber](https://github.com/Flameish/Novel-Grabber) - Light Novel Downloader
+* [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [novel-downloader](https://greasyfork.org/en/scripts/406070), [QuickNovel](https://github.com/LagradOst/QuickNovel), [anime-dl](https://github.com/vrienstudios/anime-dl) / [2](https://github.com/vrienstudios/anime-dl) or [Novel-Grabber](https://github.com/Flameish/Novel-Grabber) - Light Novel Downloaders
 * [WebToEpub](https://github.com/dteviot/WebToEpub) - Novel to EPUB Converter
 * [LNMTL](https://lnmtl.com/) - Light Novel Translator
 
