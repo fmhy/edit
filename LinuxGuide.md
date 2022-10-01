@@ -154,7 +154,7 @@
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
 * [FlameGApps](https://github.com/flamegapps/flamegapps) - Google Apps Installer
 * [Soulseek](https://www.slsknet.org/SoulseekQt/Linux/SoulseekQt-2018-1-30-64bit-appimage.tgz) - File Sharing App
-* [portal](https://github.com/SpatiumPortae/portal) or  [syncthing](https://syncthing.net/) - File Sync
+* [portal](https://github.com/SpatiumPortae/portal) or [syncthing](https://syncthing.net/) - File Sync
 * [maestral](https://maestral.app/) - Dropbox Client
 * [PeerVPN](https://peervpn.net/) - P2P VPN
 * [GNU Social](https://www.gnusocial.rocks/) / [2](https://gnusocial.network/) - Self-Hosted Social Networking Platform
