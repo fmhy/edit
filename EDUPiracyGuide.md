@@ -9,16 +9,11 @@
 ***
 ***
 
-**[Course Piracy Index](https://github.com/ItIsMeCall911/Course-Piracy-Index)** - Course Piracy Site / Tool Index
-
-***
-
 # ► Streaming
-
-* [CommSpeeches](https://commspeeches.softr.app/) - Famous Graduation Speeches 
 
 ## ▷ Courses
 
+* **[Course Piracy Index](https://github.com/ItIsMeCall911/Course-Piracy-Index)** - Course Piracy Site / Tool Index
 * **[Coursera](https://www.coursera.org/)** - Courses / [Financial Aid](https://github.com/abdelrahmaan/Financial-aid-on-coursera-) / [Download](https://github.com/coursera-dl/coursera-dl)
 * **[edX](https://www.edx.org/)** - Courses
 * **[Future Learn](https://www.futurelearn.com/)** - Courses
@@ -96,6 +91,7 @@
 * [UdemyBot](https://github.com/gautamajay52/UdemyBot) - Udemy Course Bot
 * [GUdemyBot](https://t.me/GUdemyBot) - Udemy Coupon Bot 
 * [Fresh Coupons](https://github.com/KajanM/fresh-coupons) - Automatically Apply Discount Coupons on Udemy Courses / [Chrome](https://chrome.google.com/webstore/detail/fresh-coupons/pbnfeejfjlmmjfgnmmfpalhlpjidlgie)
+* [CommSpeeches](https://commspeeches.softr.app/) - Famous Graduation Speeches 
 
 ***
 
