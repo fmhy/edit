@@ -720,6 +720,8 @@ Simulator
 * [Lucid](https://apps.apple.com/us/app/lucid-learn-visually/id1482780647) - Visual Learning Guides / iOS
 * [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
 * [The SAT: Practice Test 3](https://collegereadiness.collegeboard.org/pdf/sat-practice-test-3.pdf) - SAT Practice Tests
+* [SAT Reading](https://rentry.co/satreading) - Suggested SAT Reading
+* [SAT_Files_discussion](https://t.me/SAT_Files_discussion) - SAT Exam Discussion
 * [Examveda](https://www.examveda.com/) - Exam Practice
 * [MajorTests](https://www.majortests.com/) - Practice Tests 
 * [CrackAP](https://www.crackap.com/) - Practice AP Exams
