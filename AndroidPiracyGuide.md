@@ -20,7 +20,7 @@
 * [ad-free](https://abertschi.github.io/ad-free/landing/) - Adblocking App
 * [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) / [F-Droid](https://f-droid.org/packages/dnsfilter.android), [Rethink](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists), [BhanUpratpys](https://github.com/bhanupratapys/dnswarden), [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), [2](https://jak-linux.org/projects/dns66/) / [GitHub](https://github.com/julian-klode/dns66), [TrustDNS](https://surfshark.com/trust-dns) or [Pi-Droid](https://f-droid.org/en/packages/friimaind.piholedroid/)  - DNS Adblocker 
 * [Daedalus](https://play.google.com/store/apps/details?id=org.itxtech.daedalus), [Smokescreen](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen)- DNS Modifier
-* [Twidere](https://github.com/TwidereProject/Twidere-Android) or [Twidere-X](https://github.com/TwidereProject/TwidereX-Android) - Ad-Free Twitter App
+* [Twidere](https://github.com/TwidereProject/Twidere-Android), [Aerowitter](https://aerowitter.com/) or [Twidere-X](https://github.com/TwidereProject/TwidereX-Android) - Ad-Free Twitter Apps
 * [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - Adblock Filters 
 * [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - Block Spam Calls
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls 
@@ -148,8 +148,10 @@
 * **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client 
 * **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites & Apps
 * [File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools) - Tools to Share / Sync Files
+* [FFShare](https://www.f-droid.org/packages/com.caydey.ffshare/) - Compress Videos / Images
 * [XDA](https://forum.xda-developers.com/) - Android Discussion Forum
 * [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
+* [a107X](https://t.me/a107X) - Galaxy A10 Telegram
 * [W10M Group](https://w10mgroup.github.io/) - Mobile Windows Tech Support
 * [Maemo](https://talk.maemo.org/) - Maemo OS Discussion / [Wiki](https://wiki.maemo.org/) / [Telegram](https://t.me/maemomeego), [2](https://t.me/meegoosinternational)
 * [SymbianOS](https://t.me/symbianos) - Symbian OS Discussion
@@ -174,6 +176,7 @@
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - Note Taking Apps
 * [Serenity Notes](https://www.serenity.re/en/notes) - Collaborative Notes
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
+* [HistoryOfMe](https://github.com/litlifesoftware/HistoryOfMe) - Journal App
 * [Adaptive Controls](https://play.google.com/store/apps/details?id=com.nxet.adaptivecontrols) - Per App Settings
 * [auto-auto-rotate](https://gitlab.com/juanitobananas/auto-auto-rotate) - Per App Rotation Settings
 * [No-frills CPU Control](https://github.com/hrk/no-frills-cpu-classic) - CPU Controller
@@ -284,6 +287,7 @@
 * [SlimTwitter](https://f-droid.org/en/packages/it.rignanese.leo.slimtwitter/) - Twitter Webwrapper
 * [Shitter](https://github.com/nuclearfog/Shitter) or [Harpy](https://play.google.com/store/apps/details?id=com.robertodoering.harpy.free) - Twitter Client
 * [Twiger](https://twiger.launchaco.com/) - Share Any Tweet on Instagram
+* [NGL](https://ngl.link/) - Instagram Secret Sharing App
 * [Google Lens](https://lens.google/) - Multiple Camera Tools
 * [Widgetshare](https://play.google.com/store/apps/details?id=com.galew.widgetshare) - Photo Sharing App
 * [PhotoSync](https://www.photosync-app.com/home.html) - Transfer Photos Between Devices
@@ -342,8 +346,6 @@
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - Article / Link Viewer
 * [Better Open With](https://play.google.com/store/apps/details?id=com.aboutmycode.betteropenwith) - Improved Link Handling
 * [PDF Maker](https://play.google.com/store/apps/details?id=opofficial.pdfmaker) - PDF Creator
-* [Fasthub-Libre](https://github.com/thermatk/FastHub-Libre) or [GitNex](https://codeberg.org/gitnex/GitNex/) - Github Client
-* [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - Track Github User Activity
 * [Lagrange](https://skyjake.github.io/fdroid/repo/) - Gemini Browser
 * [BlueClover](https://github.com/nnuudev/BlueClover) or [Chan](https://github.com/moffatman/chan) - 4Chan Browser
 * [LoliSnatcher Droid](https://github.com/NO-ob/LoliSnatcher_Droid) - Booru Client
@@ -420,6 +422,7 @@
 * [PGS](https://www.pgsharp.com/) - Modded Pokémon GO
 * [MiDoze](https://github.com/Keddnyo/MiDoze) - ROMs, Dials & Apps for Xiaomi Wearables
 * [schakal](https://www.schakal.ru/) - Amazfit Bip Watchfaces
+* [Bangle.js](https://www.f-droid.org/packages/com.espruino.gadgetbridge.banglejs/) - Bridge Android to Bangle.js Smart Watches
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
 * [ChariFree](https://play.google.com/store/apps/details?id=com.charifree) - Donate by Watching Ads
 * [Appetize](https://appetize.io/) - Run Native Mobile Apps in Browser
@@ -432,6 +435,7 @@
 * [OwnTracks](https://owntracks.org/) or [Hauk](https://github.com/bilde2910/Hauk) or [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) - Track Own Location
 * [PhoneAccount Abuse Detector](https://play.google.com/store/apps/details?id=space.linuxct.phoneaccountdetector) - Android Emergency Calling Bug Check
 * [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451), [SkyHawk](https://skyhawkrecovery.github.io/) / [GitHub](https://github.com/SHRP), [PitchBlack](https://pitchblackrecovery.com/) or [OrangeFox](https://wiki.orangefox.tech/en/home) / [GitHub](https://gitlab.com/OrangeFox/misc/appdev/app) - Custom Recovery Firmware
+* [ItzKaguya-RecoveryBuilder](https://github.com/MizuNotCool/ItzKaguya-RecoveryBuilder) - Galaxy A10 Recovery Builder
 * [TWRP Root](https://twrp.me/) - TWRP Recovery Samsung / [Telegram](https://t.me/samsung_twrp_root/78379)
 * [SamFirm A.I.O​](https://forum.xda-developers.com/t/tool-samfirm-a-i-o-tools-firmware-downloader-mtp-bypass-frp.4210103/) or [Firmwareland](https://firmwareland.com/) - Firmware & FRP Bypass
 * [Frida-Mobile-Scripts](https://github.com/m0bilesecurity/Frida-Mobile-Scripts) - FRIDA Mobile Scripts
@@ -484,6 +488,7 @@
 * [Appvn](https://appvn.com/) - Untouched
 * [APKCombo](https://apkcombo.com/) - Untouched
 * [APKHere](https://www.apkhere.com/) - Untouched
+* [APKFollow](https://www.apkfollow.com/) - Untouched
 * [APK Vision](https://apkvision.com/) - Untouched
 * [APKTurbo](https://www.apkturbo.com/) - Untouched
 * [Androidrey](https://androidrey.com/) - Untouched
@@ -558,7 +563,8 @@
 * [TheTechNisk](https://thetechnisk.in/) - Modded
 * [Modyolo](https://modyolo.com/) - Modded
 * [PlayMods](https://m.playmods.net/) - Modded
-* [ApKGod](https://apkgod.net/) - Modded 
+* [ApKGod](https://apkgod.net/) - Modded
+* [APKMD](https://apkmb.com/) - Modded
 * [p30afzar](https://dl.p30afzar.com/Games/) - Modded Games
 * [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
 * [AppValley](https://app.app-valley.vip/) - Modded / Tweaked
@@ -630,7 +636,7 @@
 * [APKTool](https://github.com/iBotPeaches/Apktool) - APK Reverse Engineering Tool
 * [BlackDex](https://github.com/CodingGay/BlackDex) - APK Unpacking Tool
 * [Apk Extractor](https://play.google.com/store/apps/details?id=com.ext.ui) - Extract APKs to SD Card
-* [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) - APK Updater
+* [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) or [Obtainium](https://github.com/ImranR98/Obtainium/) - APK Updater
 * [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) - Install Google Apps into WSA Image
 * [How-to Install Play Store Apps from Other Countries](https://rentry.co/29s6v)
 * [APKAdmin](https://apkadmin.com/) - APK Hosting Site
@@ -969,7 +975,7 @@
 * [Tweebot 6](https://apps.apple.com/us/app/tweetbot-6-for-twitter/id1527500834) - Ad-Free Twitter
 * [Should I Answer?](http://www.shouldianswer.net/) or [Hiya](https://www.hiya.com/) - Block Spam Calls
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls 
-* [Slide](https://apps.apple.com/us/app/slide-for-reddit/id1260626828), [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) or [Apollo](https://apps.apple.com/us/app/apollo-for-reddit/id979274575) - Ad Free Reddit Client 
+* [Slide](https://apps.apple.com/us/app/slide-for-reddit/id1260626828), [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) or [Apollo](https://apps.apple.com/us/app/apollo-for-reddit/id979274575) - Ad Free Reddit Client
 
 ***
 
@@ -1227,6 +1233,7 @@
 * [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962) or [‎Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Player
 * [YT Tweaked](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_yt_tweaked_ipas), [Better Cercube](https://appdb.to/app/cydia/1900000823), [uYou+](https://appdb.to/app/cydia/1900000830) / [Discord](https://discord.gg/yXGVJptcaF) or [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPA / [Reddit Post](https://redd.it/olsxri)
 * [Yattee](https://github.com/yattee/yattee) - YouTube Frontend
+* [Block iPhone YouTube Ads](https://redd.it/xg5jkn) - How-to Block YouTube Ads
 * [Tunity](https://tunity.com/) - Hear Any Muted TV
 * [Pipifier](https://apps.apple.com/us/app/pipifier/id1234771095) - Picture in Picture
 
