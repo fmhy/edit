@@ -669,9 +669,16 @@
 
 # ► Cooking
 
-* [Parsnip](https://www.parsnip.ai/) - Cooking Lessons / Skill Tracking App
-* [Copy Me That](https://www.copymethat.com/), [Reciperr](https://reciperr.com/), [Tandoor Recipes](https://docs.tandoor.dev/) or [Spoonacular](https://spoonacular.com/food-api) - Recipe Manager
-* [Just the Recipe](https://www.justtherecipe.com/), [PlainOldRecipe](https://www.plainoldrecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - Extract Ingredients & Directions from Recipe Pages 
+*  **[Reciperr](https://reciperr.com/)**, [Tandoor Recipes](https://docs.tandoor.dev/) or [Spoonacular](https://spoonacular.com/food-api) - Recipe Managers
+* **[Just the Recipe](https://www.justtherecipe.com/)**, [Copy Me That](https://www.copymethat.com/), [PlainOldRecipe](https://www.plainoldrecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - Extract Ingredients from Recipe Pages
+* **[/m/food](https://www.reddit.com/user/Siryonkee/m/food/)** - Food Multireddit
+* **[TasteJury](https://tastejury.com/)** - Find Specific Dishes
+* **[Sporked](https://sporked.com/)** - Packaged Food Reviews
+* **[Still Tasty](https://www.stilltasty.com/)** or [EatByDate](http://www.eatbydate.com/) - Shelf Life Guides
+* **[Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png)** / [2](https://i.imgur.com/KoVAdmA.png)
+* **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
+* **[HackTheMenu](http://hackthemenu.com/)** - Fast Food Secret Menu Items
+* **[McBroken](https://mcbroken.com/)** - Check if McDonalds Ice Cream Machines are Broken
 * [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - Food Product Ingredient Scanner
 * [cookEbooks](http://cookebooks.info/) - Cookbooks
 * [YudhaCookbook](https://www.yudhacookbook.my.id/) - Cookbooks
@@ -746,41 +753,36 @@
 * [Bakerella](http://www.bakerella.com/) - Baking Recipes
 * [KingArthurBaking](https://www.kingarthurbaking.com/recipes) - Baking Recipes
 * [The Bread Code Manifesto](https://github.com/hendricius/the-bread-code) - Bread Baking Recipes 
+* [Sugarologie](https://www.sugarologie.com/recipes) - Cake Recipes
 * [Pizza Dough](https://github.com/hendricius/pizza-dough) - Pizza Dough Recipes 
 * [Mozzarella](https://github.com/hendricius/mozzarella) - Mozzarella Recipes 
 * [Mac Cookie Recipe Easter Egg](https://i.imgur.com/Jc0WoCg.png) - Cookie Recipe / [How-to](https://pastebin.com/N8AyVfEf)
 * [Honey Ale](https://i.imgur.com/OvuP474.jpg) or [Honey Porter](https://i.imgur.com/6UDr7Fd.png) - The White House Brewing Recipes
 * [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee Making Guides
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes Site Index
+* [Parsnip](https://www.parsnip.ai/) - Cooking Lessons / Skill Tracking App
 * [Chef2Chef](https://www.chef2chef.net/) - Cooking Lessons 
 * [TheCulinaryCook](https://theculinarycook.com/) - Cooking Lessons 
 * [Food Chemistry Course](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter), [2](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matte-2)
-* [auto-soylent](https://github.com/nick/auto-soylent) - Automatic Soylent recipe generator 
+* [auto-soylent](https://github.com/nick/auto-soylent) - Automatic Soylent Recipe Generator 
 * [recipesseo](https://www.recipesseo.com/ingredients) - Common Ingredients in Recipes Analyzer 
-* [Nosh](https://nosh.tech/) - Food Management App
-* [/m/food](https://www.reddit.com/user/Siryonkee/m/food/) - Food Multireddit
 * [/r/Cooking](https://reddit.com/r/Cooking) - Cooking Discussion / Tips
 * [/r/GifRecipes](https://reddit.com/r/GifRecipes) - Recipes in GIF Format
-* [/r/recipes](https://reddit.com/r/recipes) - Share recipes
+* [/r/recipes](https://reddit.com/r/recipes) - Share Recipes
 * [/r/AskCulinary](https://reddit.com/r/AskCulinary) - Get Cooking Advice
 * [/r/IndianFood](https://reddit.com/r/IndianFood) - Indian Food Recipes / Tips
 * [Eat Jamacian](https://eatjamaican.com/recipes.html) - Jamaican Recipes
 * [Jamacian Recipe Rundown](http://worldstogethertravel.com/jamaica/recipe-rundown.htm) - Jamaican Recipes
 * [Portuguese Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_recipes)
+* [Nosh](https://nosh.tech/) - Food Management App
 * [Mealime](https://www.mealime.com/) - Meal Planning App
-* [Still Tasty](https://www.stilltasty.com/) or [EatByDate](http://www.eatbydate.com/) - Shelf Life Guides
-* [Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png) / [2](https://i.imgur.com/KoVAdmA.png)
-* [Baking Calculators](https://bakingcalculators.com/) - Measurement System Conversion Calculators
-* [TasteJury](https://tastejury.com/) - Find Specific Dishes
-* [The Worlds 50 Best Restaurants](https://www.theworlds50best.com/list/1-50) - Top Restaurants List
-* [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - SF Food Truck App
 * [node-ubereats](https://github.com/jzarca01/node-ubereats) - WIP API for Uber Eats
 * [node-deliveroo](https://github.com/jzarca01/node-deliveroo) - API for Deliveroo
 * [PizzaDash](https://github.com/mynamebrody/pizzadash) - Turn Amazon Dash Button into Pizza Delivery Button
-* [is-vegan](https://github.com/hmontazeri/is-vegan) - Vegan Food App
-* [McBroken](https://mcbroken.com/) - Check if McDonalds Ice Cream Machines are Broken
-* [HackTheMenu](http://hackthemenu.com/) - Fast Food Secret Menu Items
+* [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - SF Food Truck App
+* [The Worlds 50 Best Restaurants](https://www.theworlds50best.com/list/1-50) - Top Restaurants List
 * [Awesome Cafe](https://github.com/utilForever/awesome-cafe) - Korean Cafe List / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [is-vegan](https://github.com/hmontazeri/is-vegan) - Vegan Food App
 
 ***
 
@@ -1166,7 +1168,7 @@
 * [GlobalSpeed](https://github.com/polywock/globalSpeed) - Set Default Video / Audio Speed
 * [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - Audio Recorder
 * [Mute Tab](https://mybrowseraddon.com/mute-tab.html) - Easily Mute All Tabs
-* [Web-Scrobbler](https://web-scrobbler.com/) - Scrobble with Last.fm, Libre.fm, ect.
+* [Web-Scrobbler](https://web-scrobbler.com/) - Scrobble with Last.fm, Libre.fm, etc.
 * [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Wii Shop Music on Shopping Sites
 * [Form History Control](https://stephanmahieu.github.io/fhc-home/), [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) or [Simple Form Fill](https://github.com/sblask/webextension-simple-form-fill) - Formfiller Managers
 * [Fake Data](https://www.fakedata.pro/) - Fill Forms With Fake Data
@@ -1234,7 +1236,7 @@
 * [ViewImage](https://github.com/bijij/ViewImage) or [Make GIS Great Again](https://github.com/devunt/make-gis-great-again) - Adds Back "View Image" Button to Google Image Search 
 * [Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search) - Reverse Image Search Extensions / Sites
 * [NooBox](https://ainoob.com/en/project/noobox) - Reverse Image Search, Extract Images, Screenshot & Search 
-* [GoFullPage](https://gofullpage.com/) - Full Page Screenshots
+* [GoFullPage](https://gofullpage.com/) or [FireShot](https://addons.mozilla.org/en-GB/firefox/addon/fireshot/) - Full Page Screenshots
 * [Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders) - Record your Screen
 * [Booru Slideshow](https://github.com/Chirmaya/BooruSlideshow) - Make Slideshows Easier to Navigate
 * [Textmarker](https://github.com/ufb/Textmarker) - Text Highlighter 
@@ -1422,6 +1424,7 @@
 * [Anti-Cookies Consent](https://greasyfork.org/en/scripts/432050-anti-cookies-consent) - Remove Cookie Consent Popups
 * [Google Cleaner](https://greasyfork.org/en/scripts/33313-google-cleaner) - Minimalist Google
 * [altsearch links](https://greasyfork.org/en/scripts/13542-altsearch-links) - Adds General Search Engines to Results
+* [DownloadAllContent](https://greasyfork.org/en/scripts/25068) - Download Content from Pages
 * [Microsoft Store Direct Download](https://greasyfork.org/en/scripts/394420-microsoft-store-direct-download) - Microsoft Store Direct Downloads
 * [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5) 
 * [4chan X](https://greasyfork.org/en/scripts/7750-4chan-x) - Imageboards Features / [Themes](https://github.com/KevinParnell/OneeChan) / [GitHub](https://github.com/ccd0/4chan-x) 
