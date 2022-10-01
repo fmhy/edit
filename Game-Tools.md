@@ -192,7 +192,9 @@
 * [TTs Online](https://redd.it/ie6gi7) - MKW Online Time Trials Mod
 * [BakkesMod](https://bakkesmod.com/) - Rocket League Trainer
 * [Tilted Online](https://github.com/tiltedphoques/TiltedEvolution) - Multiplayer Skyrim & Fallout 4 / [Discord](https://discord.gg/skyrimtogether) / [Setup Guide](https://youtu.be/ytSftFoQQHA)
+* [New Vegas: Multiplayer](https://wiki.nv-mp.com/en/getting-started) - Multiplayer Fallout: New Vegas
 * [csgo-mm-server-picker](https://github.com/Jyben/csgo-mm-server-picker) - CS:GO Server Picker
+* [Simple Radar](https://readtldr.gg/simpleradar) - Improved CS:GO Radar
 * [Northstar](https://northstar.thunderstore.io/), [2](https://northstar.tf/) - Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/releases) / [Guide](https://rentry.org/northstar-guide) / [Discord](https://discord.gg/CEszSguY3A)
 * [Titanfall2HudToggle](https://www.mediafire.com/file/q3tld2cm31znu2z/Titanfall2HudToggle.rar/file) - Toggle Titanfall 2 Hud
 * [CnCNet](https://cncnet.org/) - Multiplayer Command & Conquer 
