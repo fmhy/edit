@@ -59,7 +59,7 @@
 * [DNS Watch](https://dns.watch/) - DNS Adblocking
 * [Quad9](https://quad9.net/) - Malware, Phishing, Spyware & Botnet DNS Protection
 * [Stubby](https://github.com/getdnsapi/stubby) - DNS Stub Resolver
-* [NextDNS](https://nextdns.io) - DNS Adblocking / [Enhancement](https://greasyfork.org/en/scripts/408934-nx-enhanced) / [Leak Warning](https://redd.it/jt28e8) / [Extension](https://chrome.google.com/webstore/detail/nx-enhanced/ljimbekophocjbnphldoaidgkkaojcfo)
+* [NextDNS](https://nextdns.io) - DNS Adblocking / [Leak Warning](https://redd.it/jt28e8) / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Enhancement](https://greasyfork.org/en/scripts/408934-nx-enhanced) /  [Extension](https://chrome.google.com/webstore/detail/nx-enhanced/ljimbekophocjbnphldoaidgkkaojcfo)
 * [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/), [FreeMyIP](https://freemyip.com/) or [Desec](https://desec.io/) - Dynamic DNS Service
 * [Encrypted DNS Resolvers](https://www.privacytools.io/providers/dns/)
 * [DNS Resolver Privacy-First](http://doh.tiar.app/) or [1.1.1.1](https://1.1.1.1/) / [Unlimited Data](https://rentry.co/WarpKeyGen) / [Plus](https://github.com/ALIILAPRO/warp-plus-cloudflare) - DNS Resolver
@@ -347,7 +347,7 @@
 
 * **[Tor Browser](https://www.torproject.org/)** or [Lokinet](https://lokinet.org/) - Onion-Routed Browser
 * **[Tor Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tor_tools)** - Tor Tools / Guides
-* **[ffprofile](https://ffprofile.com/)**, **[arkenfox](https://github.com/arkenfox/user.js)**, [Betterfox](https://github.com/yokoffing/Betterfox), or [pyllyukko](https://github.com/pyllyukko/user.js/) - Privacy Hardened Firefox / [Warning](https://i.imgur.com/ZMQJHwC.png) / [Guide](https://brainfucksec.github.io/firefox-hardening-guide)
+* **[ffprofile](https://ffprofile.com/)**, **[ghacks-user.js](https://github.com/arkenfox/user.js)**, [firefox-debloat](https://github.com/amq/firefox-debloat) or [pyllyukko](https://github.com/pyllyukko/user.js/) - Privacy Hardened Firefox / [Warning](https://i.imgur.com/ZMQJHwC.png) / [Guide](https://brainfucksec.github.io/firefox-hardening-guide)
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - Privacy Focused Browsers
 * **[Vytal.io](https://vytal.io/)**, [everysiteknows](http://everysiteknows.ferrucc.io/) or [What every Browser knows about you](https://webkay.robinlinus.com/) - See What Your Browser Knows About You
 * **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
