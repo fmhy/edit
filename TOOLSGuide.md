@@ -189,6 +189,7 @@
 * [Lonliness Translate](https://loneliness.one/translate) - Re-translate Phrases
 * [InternetSlangTranslator](https://lingojam.com/InternetSlangTranslator2-0) - Translate Text to Slang
 * [The Pirate Translator](https://pirate.monkeyness.com/translate) - Translate Text to Pirate
+* [Gematrinator](https://www.gematrinator.com/calculator/index.php) - Gematria Calculator
 * [SoftMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
 * [Delim](https://delim.co/) - Comma Separating Tool
 * [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - Create Parallel Text Web
@@ -440,6 +441,7 @@
 * [Fresh Stuff For You](https://freshstuff4you.com/) - DAWs / Samples / Presets
 * [Plugin Clouds Archive](https://t.me/plugincloudsarchive) - DAW Plugins
 * [FlsAudio](https://flsaudio.com/en/gb/) - FLStudio Samples / Presets / Plugins
+* [VeryLeaks](https://veryleaks.cz/) - Drumkits
 * [/r/findthepreset](https://www.reddit.com/r/findthepreset) - Find Presets from Songs
 * [MilkyTracker](https://milkytracker.org/) - .MOD & .XM Module Creator
 * [/r/samplesforall](https://www.reddit.com/r/samplesforall/), [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [Baomay01](https://baomay01.info/), [RKHive](https://rkhive.com/), [Sounds MP3](https://allsoundsaround.com/) or [SamplesTorrent](https://samplestorrent.com/) - Audio Samples
@@ -618,6 +620,7 @@
 * [LoopCV](https://www.loopcv.pro/) - Automated Job Search Tool
 * [Toby Tools](https://rentry.co/qnu6x) - Job Search Tools
 * [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) - Successful Resume Samples
+* [SkillIcons](https://skillicons.dev/) - Skill Badges for GitHub Readmes / Resumes
 * [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator 
 * [CoFolios](https://cofolios.com/) - Portfolio Sharing
 * [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - Cover Page Templates
@@ -676,13 +679,14 @@
 * [ConvertMenu](https://convertmenu.com/) or [QR Menu Creator](https://qrmenucreator.com/) - Convert Menu to QR Codes
 * [VCEGuide](https://vceguide.com/) - Tech Certification Practice Tests
 * [9Tut](https://www.9tut.com/) - CCNA Certification Training
-* [Statista](https://statista.com/) - Market Statistic Search 
+* [Statista](https://statista.com/) - Market Statistic Search
 * [GetFreeIMEBooks](https://www.getfreeimebooks.com/) - Digital Marketing Resources
 * [Systeme](https://systeme.io/) - Marketing Tools
 * [HLDMSIYS?](http://howlongdoesmarijuanastayinyoursystem.net/) - Drug Effect Duration / Testing Information
 * [HomeBank](http://homebank.free.fr/), [Money Manager EX](https://www.moneymanagerex.org/), [Ledger](https://www.ledger-cli.org/) or [gnucash](https://www.gnucash.org/) - Financial Accounting Software
 * [financial_advice](https://github.com/emilepetrone/financial_advice) - Financial Lessons
 * [Stocksera](https://stocksera.pythonanywhere.com/) or [Screener](https://www.screener.in/) - Stock Tracker
+* [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) - Send TradingView Alerts to Various Apps / [Index](https://github.com/pAulseperformance/awesome-pinescript)
 * [neostox](https://neostox.com/) - Practice Stock Trading
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
 * [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) or [OpenBB Terminal](https://openbb.co/) - Investment Research CLI
@@ -963,7 +967,7 @@
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - Forum Search Engine 
 * [Blog Search Engine](http://www.blogsearchengine.org/), [Blog-Search](https://www.blog-search.com/), [BlogErnity](http://www.bloggernity.com/), [BlogSurf](https://blogsurf.io/), [Twoggle](https://twoggle.com/) or [SearchBlogspot](https://www.searchblogspot.com/) - Blog Search
 * [4chanSearch](https://4chansearch.com/) - 4chan Search
-* [Git Search Engine](https://zzollo.co/) - Search GitHub, GitLab ect.
+* [Git Search Engine](https://zzollo.co/) - Search GitHub, GitLab etc.
 * [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) or [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - TikTok Search 
 * [tumbex](https://www.tumbex.com/) - Tumblr Search
 * [Mibbit](https://search.mibbit.com/) - IRC Channel Search
@@ -1571,7 +1575,8 @@ Twitch Stream Tracker
 * [Twitter 3D](https://twitter.jeffprod.com/) - View Twitter Connections in 3D
 * [Buhitter](https://buhitter.com/) - Twitter Illustration Search
 * [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [DownloaderBot](https://twitter.com/DownloaderBot), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - Download Twitter Videos 
-* [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/) or [SocialBearing](https://socialbearing.com/) - Analyze Twitter Accounts 
+* [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/) or [SocialBearing](https://socialbearing.com/) - Analyze Twitter Accounts
+* [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
 * [RedBlock](https://github.com/gaeulbyul/RedBlock) - Block Multiple Users on Twitter
 * [TweeterID](https://tweeterid.com/) - Twitter User ID & Username Converter 
 * [Spoonbill](https://spoonbill.io/) - Track Profile Changes of People you Follow 
@@ -1786,7 +1791,7 @@ Twitch Stream Tracker
 * [Keytap2](https://keytap2.ggerganov.com/) - Acoustic Keyboard Eavesdropping
 * [CustomKeyboardLayoutPersistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layout
 * [Awesome Forensics](https://github.com/cugu/awesome-forensics) - System Forensic Tools
-* [BleachBit](https://www.bleachbit.org/) or [GlarySoft](https://www.glarysoft.com/) - Free Cache, Delete Cookies, Clear History, Shred Temp Files, ect.  
+* [BleachBit](https://www.bleachbit.org/) or [GlarySoft](https://www.glarysoft.com/) - Free Cache, Delete Cookies, Clear History, Shred Temp Files, etc.  
 * [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) or [Autostart](https://github.com/snail007/autostart) - Change Startup Programs
 * [Remove Hidden Startup Programs](https://www.youtube.com/watch?v=sUXcMaP6wRQ) - How-to Remove Secret Startup Apps
 * [LaunchLater](https://github.com/jeffcox111/LaunchLater) or [Startup Delayer](https://www.r2.com.au/page/products/show/startup-delayer/) - Delay Automatic App Startups
@@ -2009,7 +2014,7 @@ Twitch Stream Tracker
 * [XDesktopSoft](https://www.xwidget.com/) - Desktop Customization
 * [DesktopMagic](https://github.com/Stone-Red-Code/DesktopMagic) - Desktop Customization
 * [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Community
-* [WindowsCustomization](https://windowscustomization.com/), [VirtualCustoms](https://virtualcustoms.net/), [WinCustomize](https://www.wincustomize.com/), [Win10 DeviantArt](https://www.deviantart.com/tag/windows10), [WinClassic](https://winclassic.boards.net/) or [7Themes](https://7themes.su/) - Desktop Customization / Themes / Wallpapers ect.
+* [WindowsCustomization](https://windowscustomization.com/), [VirtualCustoms](https://virtualcustoms.net/), [WinCustomize](https://www.wincustomize.com/), [Win10 DeviantArt](https://www.deviantart.com/tag/windows10), [WinClassic](https://winclassic.boards.net/) or [7Themes](https://7themes.su/) - Desktop Customization / Themes / Wallpapers etc.
 * [msstyleEditor](https://github.com/nptr/msstyleEditor) - Windows Visual Style Editor
 * [DynaWin](https://github.com/Apollo199999999/DynaWin) or [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Dynamic Desktop Themes
 * [SecuredUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - Ux Theme Patcher
@@ -2235,7 +2240,7 @@ Twitch Stream Tracker
 * [Hasher](https://www.igorware.com/hasher) - Hash Generator
 * [SQLite Viewer](https://inloop.github.io/sqlite-viewer/) - View SQLite Files Online 
 * [Xartifex](http://xartifex.com/) - Word & Excel File Unlocker
-* [CalameoDownload](https://calameodownload.com/) - Download Calameo Docs PDF or Image files
+* [CalameoDownload](https://calameodownload.com/) - Download Calameo Docs PDF or Image Files
 * [DFD](https://dfd.inf.tu-dresden.de/) - Duplicate Document Forensics Test
 * [filetree](https://github.com/roboyoshi/datacurator-filetree) - Data Filetree 
 * [Fucking weeb](https://github.com/cosarara/fucking-weeb) - Anime / TV File Library Manager
