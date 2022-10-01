@@ -253,79 +253,80 @@
 ## ▷ Freeware Sites
 
 * **[Major Geeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html)**
-* **[Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)** - Selfhosted Software Index 
-* **[Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites)** - Software / App Alternatives 
-* [FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - Open-Source Wiki 
-* [OlderGeeks](https://oldergeeks.com/) 
+* **[Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)** - Selfhosted Software Index
+* **[Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites)** - Software / App Alternatives
+* [FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - Open-Source Wiki
+* [OlderGeeks](https://oldergeeks.com/)
 * [Chiefs Big List of Programs](https://github.com/TheChiefMeat/Chiefs-Big-List-of-Programs/)
-* [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) 
-* [SourceForge](https://sourceforge.net/) 
-* [Fossies](https://fossies.org/all.html) 
-* [FossHub](https://www.fosshub.com/) 
-* [Open Source Libs](https://opensourcelibs.com/) 
-* [Simple Tools](https://simpletools.info/doku.php) 
-* [FreshCode](https://freshcode.club/) 
-* [Realityripple](https://realityripple.com/) 
-* [Softpedia](https://www.softpedia.com/) 
-* [Software Informer](https://software.informer.com/) 
-* [FreewareWeb](http://www.freewareweb.com/) 
+* [Free Software Directory](https://directory.fsf.org/wiki/Main_Page)
+* [SourceForge](https://sourceforge.net/)
+* [Fossies](https://fossies.org/all.html)
+* [FossHub](https://www.fosshub.com/)
+* [Open Source Libs](https://opensourcelibs.com/)
+* [Simple Tools](https://simpletools.info/doku.php)
+* [FreshCode](https://freshcode.club/)
+* [Realityripple](https://realityripple.com/)
+* [Softpedia](https://www.softpedia.com/)
+* [Software Informer](https://software.informer.com/)
+* [FreewareWeb](http://www.freewareweb.com/)
 * [Freeware Directory](http://www.freewaredirectory.net/)
-* [FreewareStop](https://www.freewarestop.com/) 
-* [LO4D](https://www.lo4d.com/) 
-* [ListOfFreeWare](https://listoffreeware.com/) 
+* [FreewareStop](https://www.freewarestop.com/)
+* [LO4D](https://www.lo4d.com/)
+* [ListOfFreeWare](https://listoffreeware.com/)
 * [Downloadastro](https://en.downloadastro.com/)
 * [FileGuru](https://www.fileguru.com/)
-* [SnapFiles](https://www.snapfiles.com/freeware/) 
-* [apponic](https://www.apponic.com/) 
+* [SnapFiles](https://www.snapfiles.com/freeware/)
+* [apponic](https://www.apponic.com/)
 * [DownloadCrew](https://www.downloadcrew.com/)
-* [Sordum](https://www.sordum.org/) 
-* [SoftHeap](https://www.softheap.com/) 
+* [Sordum](https://www.sordum.org/)
+* [SoftHeap](https://www.softheap.com/)
 * [Download3k](https://www.download3k.com/)
-* [Soft112](https://www.soft112.com/) 
+* [Soft112](https://www.soft112.com/)
 * [ProgSoft](https://progsoft.net/)
 * [GRC](https://www.grc.com/freepopular.htm)
-* [Techspot](https://www.techspot.com/downloads/) 
-* [Informer](https://www.informer.com/) 
-* [Skytopia](https://www.skytopia.com/software/) 
+* [Techspot](https://www.techspot.com/downloads/)
+* [Informer](https://www.informer.com/)
+* [Skytopia](https://www.skytopia.com/software/)
 * [Den4b](https://www.den4b.com/)
 * [SavardSoftware](https://www.savardsoftware.com/)
 * [Freeware Symbian](http://www.freeware-symbian.com/)
 * [4-Dots](https://www.4dots-software.com/free-software/)
-* [DonationCoder](https://www.donationcoder.com/) 
-* [AntibodySoftware](https://antibody-software.com/) 
+* [MediaFreeware](https://www.mediafreeware.com/)
+* [DonationCoder](https://www.donationcoder.com/)
+* [AntibodySoftware](https://antibody-software.com/)
 * [EnselSoftware](http://enselsoftware.com/download01.html)
-* [3nitySoftware](http://3nitysoftwares.com/index.php/en) 
-* [Antp](http://www.antp.be/) 
+* [3nitySoftware](http://3nitysoftwares.com/index.php/en)
+* [Antp](http://www.antp.be/)
 * [Vovsoft](https://vovsoft.com/)
 * [NCH Software](https://www.nchsoftware.com/)
 * [WDZSoftware](https://wdzsoft.com/)
 * [FileEagle](https://www.fileeagle.com/)
 * [Download.io](https://www.download.io)
-* [ValleySoftware](https://valleysoftware.com.au/) 
-* [IcecreamApps](https://icecreamapps.com/) 
+* [ValleySoftware](https://valleysoftware.com.au/)
+* [IcecreamApps](https://icecreamapps.com/)
 * [PRVSoft](https://www.prvsoft.com/)
 * [WorkinTool](https://www.workintool.com/)
 * [Perkele](https://perkele.cc/software)
 * [OSDN](https://osdn.net/) - Open Source Software
-* [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html) 
+* [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html)
 * [Awesome Free Software](https://github.com/johnjago/awesome-free-software)
-* [OldVersion](http://www.oldversion.com/) - Old Versions of Software 
-* [Nirsoft](https://www.nirsoft.net/) - Windows Software 
-* [Windows-Utilities](https://orga.cat/windows-utilities) - Windows Software  
-* [OS Vault](https://osvault.weebly.com/directory.html) - Windows Software  
+* [OldVersion](http://www.oldversion.com/) - Old Versions of Software
+* [Nirsoft](https://www.nirsoft.net/) - Windows Software
+* [Windows-Utilities](https://orga.cat/windows-utilities) - Windows Software
+* [OS Vault](https://osvault.weebly.com/directory.html) - Windows Software
 * [WinTools](https://www.wintools.info/) - Windows Software
-* [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Windows Software Index 
+* [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Windows Software Index
 * [UWP Community](https://uwpcommunity.com/) - Universal Windows Programs / [Discord](https://discord.gg/eBHZSKG)
 * [RaymondFreeSoftware](https://t.me/raymondfreesoftware) - Telegram / [Index](https://t.me/rfsnotes)
 * [Suckless](https://suckless.org/) - Simple Software Archive
 * [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications) - Python Apps
-* [WinWorldPC](https://winworldpc.com/) - Abandonware / Operating Systems 
+* [WinWorldPC](https://winworldpc.com/) - Abandonware / Operating Systems
 * [VETUSWARE](https://vetusware.com/) - Abandonware / Operating Systems / Games
 * [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Self-Hosted Software Index 
 * [The Vintage Software Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_vintage_software_collection) or [SCiZE's Classic Warez Collection](https://scenelist.org/) - Retro Software
 * [Portable Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portable_apps) - Portable Apps for USB / SD / External Storage
 * [BelowAverage](https://belowaverage.org/) - I.T. Software
-* [Software Giveaway Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) 
+* [Software Giveaway Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 * [Standaloneinstaller](https://standaloneinstaller.com/) - Check Software Safety
 
 ***
