@@ -60,7 +60,7 @@
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - ctrl+f and type "Books / Comics / Magazines"
 * **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - ctrl+f and type "Books / Comics / Magazines"
 * **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics
-* **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools)
+* **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools) / [ACSM Plugin](https://github.com/Leseratte10/acsm-calibre-plugin)
 * **[Library Genesis](http://libgen.rs/)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools)
 * **[Z-Library](https://z-lib.org/)** - Books / Comics / Educational / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_tools) / [Removed Books](https://t.me/firstlibrarybot)
 * **[eBookHunter](https://ebook-hunter.org/)** - Books / Comics
@@ -257,11 +257,26 @@
 * [Esoterica](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_esoterica) - Esoterica / Philosophy / Gnosticism 
 * [Logoi Library](http://logoilibrary.com/) - Gnosticism / Hermeticism 
 * [766 Occult Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_766_occult_books) - Occult 
-* [Messy occult library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_messy_occult_library) - Occult / Esoterica / Gnosticism 
+* [Messy Occult Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_messy_occult_library) - Occult / Esoterica / Gnosticism 
 * [BeyondWeird](https://beyondweird.com/) - Occult / Witchcraft / Esoterica
 * [ObscUrban Legend Wiki](https://obscurban-legend.fandom.com/) - Mythology / Urban Legends
+* [FairyTalez](https://fairytalez.com/) - Mythology / Folklore / Fairy Tales
+* [Encyclopedia Mythica](https://pantheon.org/) - Mythology / Folklore / Religion
+* [Mythology.net](https://mythology.net/) - Mythology / Religion
+* [ABookOfCreatures](https://abookofcreatures.com/), [Demons of the Deep](https://seademons.weebly.com/) or [Bestiary](https://bestiary.ca/beasts.htm) - Mythological Encyclopedias
+* [Theoi](https://www.theoi.com/) - Greek Mythology
+* [Germanic Mythology](https://www.germanicmythology.com/index.html) - Germanic Mythology
+* [Japanese Mythology](https://japanesemythology.wordpress.com/) - Japanese Mythology
+* [The Myths of Mexico](https://archive.org/details/cu31924020419275/) - Mexican Mythology
+* [A Chinese Bestiary](https://archive.org/details/AChineseBestiary/) - Chinese Mythology
+* [Inuit Myths](https://www.inuitmyths.com/index.htm) - Inuit Mythology
+* [Bane Theresa Encyclopedia](https://archive.org/details/BaneTheresaEncyclopediaOfDemonsInWorldReligionsAndCultures/) - Demon Encyclopedia
+* [Encyclopedia of Vampire Myths](https://archive.org/details/EncyclopediaOfVampireMythologypdf) - Vampire Encyclopedia
+* [Encyclopedia of the Undead](https://archive.org/details/EncyclopediaOfUndead/) - Undead Encyclopedia
+* [BlackDrago](https://www.blackdrago.com/) - Dragon Encyclopedia
+* [Encyclopedia Of Fairies](https://archive.org/details/BriggsKatharineMaryAnEncyclopediaOfFairies/) - Fairy Encyclopedia
 * [LeftHandPath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_lefthandpath) - Luciferianism 
-* [mr.taco9's library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mr.taco9.27s_library) - Occult / Luciferianism 
+* [mr.taco9's library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mr.taco9.27s_library) - Occult / Luciferianism
 * [The Law of One](https://www.lawofone.info/) - The Law of One Sessions
 * [Esoteric Archive](http://esotericarchives.com/) - Esoterica
 * [/r/alexandria](https://www.reddit.com/r/alexandria/) - Esoteric / Occult
@@ -273,12 +288,10 @@
 * [Azrk's library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_azrk.27s_library) - Occult / Esoterica / Satanism / Religion / Ect.
 * [Rosicrucian Esotericism Lecture](https://wn.rsarchive.org/GA/GA0109/19090603p01.html) - Rosicrucian Esotericism
 * [Spirituality Megadrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_spirituality_megadrive) 
-* [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals 
-* [Mythology.net](https://mythology.net/) - Mythology / Religion
+* [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals
 * [Beyond Weird](https://www.beyondweird.com/) - Witchcraft / Conspiracies
 * [Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_archive) - Conspiracy / Occult / Metaphysics
 * [Dhushara Research](http://www.dhushara.com/index.htm) - Metaphysics / Conspiracies / Psychedelics
-* [chadnet](https://wiki.chadnet.org/) - Conspiracies
 * [CraftStuff](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_craftstuff) - Witchcraft
 * [Witchcraft Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_witchcraft_library) - Witchcraft / Paganism
 * [Public Witchcraft Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_public_witchcraft_library) - Witchcraft / Paganism / Satanism
@@ -294,7 +307,7 @@
 * [BibleGateway](https://www.biblegateway.com/) or [Bible.com](https://www.bible.com/) - Christian Bible
 * [eSword](https://e-sword.net/) - Christian Bible Desktop App
 * [Bible](https://apps.apple.com/us/app/bible/id282935706) - Christian Bible / iOS
-* [Classics Ethereal Library](https://www.ccel.org/) - Christian
+* [Classics Ethereal Library](https://www.ccel.org/) - Christianity 
 * [TheBrickBible](https://thebrickbible.com/) - The Bible Recreated with Lego
 * [BibleEmoji](http://www.bibleemoji.com/) - Convert Bible Verses to Emojis
 * [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
@@ -311,9 +324,11 @@
 * [84000](https://read.84000.co/) - Buddhism
 * [BuddhaNet](http://www.buddhanet.net/) - Buddhism
 * [dazangthings](https://dazangthings.nz/) - Buddhist Text Analysis Repository
+* [Encyclopedia Of Buddhism](https://archive.org/details/EdwardA.IronsEncyclopediaOfBuddhismEncyclopediaOfWorldReligions/) - Buddhist Encyclopedia
 * [Buddhism Dictionary](http://www.buddhism-dict.net/ddb/) - Buddhist Dictionary
 * [Sankaracharya](http://www.sankaracharya.org/index.php) - Hinduism
 * [Vedanta Shastras](https://www.shastras.com/) - Hinduism
+* [Encyclopedia Of Hinduism](https://archive.org/details/ConstanceA.JonesJamesD.RyanEncyclopediaOfHinduism/) - Hinduism Encyclopedia
 * [Jainism Library of Jain Literature](http://www.atmadharma.com/index.html) - Sacred Texts / Religion / Multi Language
 * [Vedabase](https://vedabase.io/en/) - Bhaktivedanta Swami / Books / Transcripts / Letters 
 * [Sounding Spirit](https://library.soundingspirit.org/) - Religious Songbooks
@@ -323,7 +338,7 @@
 ## ▷ Special Interest
 
 * **[Cookbooks / Recipes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_cooking)** - Cookbook and Recipe Sites
-*  **[Wikiquote](https://en.wikiquote.org)**, [Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [ThinkExist](http://thinkexist.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [BrainyQuote](https://www.brainyquote.com/), [QuoteGarden](https://www.quotegarden.com/) or [Glimbay](https://www.glimbay.com/) - Quotes
+*  **[Wikiquote](https://en.wikiquote.org)**, [Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [ThinkExist](http://thinkexist.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [BrainyQuote](https://www.brainyquote.com/), [QuoteGarden](https://www.quotegarden.com/), [Quote Collections](https://redd.it/dlao3b) or [Glimbay](https://www.glimbay.com/) - Quotes
 * [Short Stories](https://short-stories.co/) or [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
 * [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
 * [Poetry Foundation](https://www.poetryfoundation.org/), [PoemHunter](https://www.poemhunter.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
@@ -349,9 +364,10 @@
 * [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) - Phychonauts Wiki
 * [HerbologyY](https://t.me/HerbologyY) - Herbology / Telegram
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
-* [UFO Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ufo_books) - UFOs
-* [ diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
+* [UFO Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ufo_books) or [Xenology](http://www.xenology.info/Xeno.htm) - UFO / Xenology
+* [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
 * [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
+* [Projectrho](http://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
 * [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG / [Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_trove_archives)
 * [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - TTRPG Rulebooks
 * [Cinema EBooks Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cinema_ebooks_collection) - Cinema Books
@@ -364,6 +380,7 @@
 * [Red Texts](https://redtexts.org/) - Communism
 * [Third World Traveler](https://thirdworldtraveler.com/) - Human Rights / Conspiracies / Anti-War
 * [China-Dictatorship](https://github.com/cirosantilli/china-dictatorship) - Anti-Chinese Authoritarianism
+* [chadnet](https://wiki.chadnet.org/) - Conspiracies
 * [Rookie Road]( https://www.rookieroad.com/) - Sport Guides
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
 
@@ -467,6 +484,11 @@
 * [The Ergonomic Development of Video Game Controllers](https://www.longdom.org/open-access/the-ergonomic-development-of-video-game-controllers-2165-7556-1000209.pdf) 
 * [Bash Academy](https://guide.bash.academy/) - Bash Shell Guide
 * [biorxiv](https://www.biorxiv.org/) - Biology Preprints
+* [Encyclopedia Of Agriculture And Food Systems](https://archive.org/details/Encyclopedia_Of_Agriculture_And_Food_Systems/)
+* [EveryCulture](https://www.everyculture.com/index.html) - World Culture Encyclopedia
+* [Encyclopaedia Iranica](https://www.iranicaonline.org/) - Iranian Culture Encyclopedia
+* [Encyclopedia Of Indo-European Culture](https://archive.org/details/EncyclopediaOfIndoEuropeanCulture/) - Indo-European Culture Encyclopedia
+* [Indigenous Peoples in Brazil](https://pib.socioambiental.org/en/Main_Page) - Brazilian Indigenous Culture Encyclopedia
 * [TheDailyIdea](https://thedailyidea.org/reading-lists), [2](https://thedailyidea.org/philosophy-syllabi-collection/) - Philosophy 
 * [APAOnline](https://www.apaonline.org/) - Philosophy 
 * [Philosophy Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_philosophy_drive) - Philosophy 
@@ -480,7 +502,6 @@
 * [AllTradersLibrary](https://t.me/alltradersLibrary) - Market Trading Books
 * [businessbookmall](http://www.businessbookmall.com/), [2](http://www.textbooksfree.org/) - Accounting, Economics & Business 
 * [Brill](https://brill.com/) - International Law Books
-* [Lee B. Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_lee_b._drive) - Books / Black History / Educational
 * [RationalWiki](https://rationalwiki.org/) - Pseudoscience Refutation Wiki
 * [Snopes](https://www.snopes.com/) - Urban Legends, Folklore, Misinformation & more
 * [Butterick’s Practical Typography](https://practicaltypography.com/) - Typography Guide Book
@@ -511,16 +532,18 @@
 * [Duke University Library](https://repository.duke.edu/catalog?utf8=%E2%9C%93&search_scope=https%3A%2F%2Frepository.duke.edu%2Fcatalog&q=&search_field=all_fields) - Historical Books 
 * [corpus scriptorum latinorum](https://www.forumromanum.org/literature/authors_a.html) - Latin Literature
 * [EarlyModernTexts](http://www.earlymoderntexts.com) - Historical Texts
-* [World History](https://www.worldhistory.org/) - History Encyclopedia
+* [World History](https://www.worldhistory.org/) or [Livius](https://www.livius.org/) - History Encyclopedias
 * [Early English Books](https://quod.lib.umich.edu/e/eebogroup/) - Historical Texts / Books
-* [Making of America](https://quod.lib.umich.edu/m/moa/ ) - American History
+* [Making of America](https://quod.lib.umich.edu/m/moa/) - American History
+* [Encyclopedia Of Ancient Egypt](https://archive.org/details/EncyclopediaOfAncientEgypt_201802/) - Egyptian History Encyclopedia
+* [Encyclopedia Of Ancient Asian Civilizations](https://archive.org/details/EncyclopediaOfAncientAsianCivilizations/) - Asian History Encyclopedia
 * [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) - Classic / Greek / Roman / Arabic / Germanic
 * [Athena](http://athena.unige.ch/athena/) - Greek / History
+* [Encyclopedia Of The Ancient Greek World](https://archive.org/details/EncyclopediaOfTheAncientGreekWorld/) - Ancient Greece Encyclopedia
 * [Sarantakos](https://www.sarantakos.com/keimena.html) - Greek (Modern)
-* [Project Laurens Jz Coster](https://cf.hum.uva.nl/dsp/ljc/) - Classic / Dutch
 * [biblior](https://biblior.net/) - French / English / Geography / History / Tales
 * [In Parenthesis](https://www.yorku.ca/inpar/) - Historic Tales
-* [FairyTalez](https://fairytalez.com/) - Historical Folklore / Fairy Tales
+* [EyewitnesstoHistory](http://www.eyewitnesstohistory.com/index.html) - Historical Eyewitness Testimonies
 * [CELT](https://celt.ucc.ie/) - Irish / History / Literature / Politics
 * [textfiles.com](http://textfiles.com/) - 1980's Text File Index
 * [Digital Archive](https://digitalarchive.wilsoncenter.org/collections) - Historical Documents
@@ -529,9 +552,14 @@
 * [Europeana](https://www.europeana.eu/) - European Historical Documents
 * [The National Archives](https://nationalarchives.gov.uk/) - UK Historical Documents
 * [History Newsboys of 1899](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_history_newsboys_of_1899) - Books / Documents
-* [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive 
-* [The Morgan Library Museum](https://www.themorgan.org/music) or [DIAMM](https://www.diamm.ac.uk/) - Musical Manuscripts 
+* [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive
+* [The Morgan Library Museum](https://www.themorgan.org/music) or [DIAMM](https://www.diamm.ac.uk/) - Musical Manuscripts
+* [Lee B. Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_lee_b._drive) - Black History Books
+* [De Re Militari](https://deremilitari.org/articles/) - Medieval Military History
+* [ByzantineMilitary](https://byzantinemilitary.blogspot.com/) - Byzantine Military History
+* [WarshipsResearch](https://warshipsresearch.blogspot.com/) - Maritime History
 * [Carti](https://enryo.ro/carti/) - Japanese Martial Arts History Books
+* [The History of Maritime Piracy](http://www.cindyvallar.com/pirates.html) - Piracy History Blog
 * [Van Gogh Letters](http://vangoghletters.org/vg/) or [VGGallery](http://vggallery.com/) - Vincent van Gogh Letters
 * [DigitalTransgenderArchive](https://www.digitaltransgenderarchive.net/) - Transgender History Archive 
 
@@ -743,7 +771,7 @@
 * [AcronymFinder](https://www.acronymfinder.com/) - Abbreviations / Acronyms
 * [Chat Words Dictionary](https://chatworddictionary.com/) - Chat Abbreviations
 * [lengusa](https://lengusa.com/) or [Fraze.it](https://fraze.it/) - Sentence Search
-* [Wolfram Alpha](https://www.wolframalpha.com/) - Searchable Knowledgebase / [Pro](https://wolfreealpha.github.io/)
+* [Wolfram Alpha](https://www.wolframalpha.com/) - Searchable Knowledgebase
 * [Dictionary](https://www.dictionary.com/) - Dictionary / Thesaurus
 * [VisualThesaurus](https://www.visualthesaurus.com/) - Thesaurus
 * [DescribingWords](https://www.describingwords.io/) - Adjectives
@@ -1138,7 +1166,6 @@
 * [LA Times](https://latimes.newspapers.com/)
 * [NYTimes-Compose](https://github.com/akshay2211/NYTimes-Compose) - NY Times Top Story App
 * [Europeana Newspapers](https://www.europeana.eu/en/collections/topic/18-newspapers) - European Historical Newspapers
-* [abc-dl](https://github.com/king-millez/abc-dl) - Australian Broadcasting Corporation News Archive
 * [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index) - News Site Indexes 
 * [Newspaper Map](https://newspapermap.com/) - Find / Translate Worldwide Newspapers
 
@@ -1218,7 +1245,6 @@
 * [PDFLite](http://www.pdflite.com/) - PDF Reader / PC
 * [mupdf](https://mupdf.com/) - PDF Reader / PC
 * [PDF Online](https://pdf.online/) - PDF Reader / PC / Android / iOS
-* [gonitro](https://www.gonitro.com/pdf-reader) - PDF Reader / PC
 * [Evince](https://wiki.gnome.org/Apps/Evince) - PDF / DjVu Reader / Linux
 * [PdfPreviewbot](https://t.me/PdfPreviewbot) - Telegram PDF Reader
 * [WinDjView](https://windjview.sourceforge.io/) - DjVu Reader / PC
