@@ -53,7 +53,6 @@
 * [Mp3Deer](https://mp3deer.com/) - Browser Music
 * [Last.fm](https://www.last.fm/) - Browser Music
 * [YesPlayMusic](https://music.qier222.com/) - Browser Music
-* [MP3Paw](https://mp3paw.wiki/) - Browser Music
 * [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
 * [Tancpol](https://tancpol.net/) - Browser Music
 * [Cliggo](https://music.cliggo.com/) - Browser Music
@@ -73,7 +72,7 @@
 * [Khinsider](https://downloads.khinsider.com/), [Cirrus Retro](https://cirrusretro.com/) or [Zophar's](https://www.zophar.net/music) - Video Game Soundtracks
 * [NSF j](http://nsf.nesbbs.com/) - NES Game Music
 * [Exotica](https://www.exotica.org.uk/) - Retro Gaming Music Wiki
-* [MusicDex](https://musicdex.org/) or [OtakuPlay](https://otakuplay.moe/) - Anime Soundtracks / [Discord](https://discord.gg/yCXJkbdCHt)
+* [MusicDex](https://musicdex.org/) - Anime Soundtracks / [Discord](https://discord.gg/yCXJkbdCHt)
 * [Musicmap](https://musicmap.info/) - Genealogy / History of Music Genres
 * [ListenToThis](https://listentothis.nanoshinono.me/) - Random Songs
 * [The Nostalgia Machine](http://thenostalgiamachine.com/) - Random Songs by Year
@@ -184,7 +183,6 @@
 * [Lofi Music](https://lofimusic.app/) - Lo-Fi Radio
 * [Lo-Fi Player](https://lofi-players.netlify.app/) - Lo-Fi Radio
 * [Lofi Club](https://loficlub.vercel.app/) - Lo-Fi Radio
-* [Viberoom](https://viberoom.audio/) - Lo-Fi Hip-Hop Radio
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - Create Room / Lo-Fi Player
 * [Music For Programming](http://musicforprogramming.net/) or [Wisdom Tree](https://github.com/HACKER097/wisdom-tree/) - Music for Focus
 * [Noizio](https://noiz.io/) - Ambient 
@@ -204,7 +202,6 @@
 * [Zen Sounds](https://app.zenflowchart.com/zen-sounds) - Ambient
 * [EcoSounds](http://en.ecosounds.net/) - Ambient
 * [CanvasCycle](http://www.effectgames.com/demos/canvascycle/) - Ambient
-* [MoodTurn](http://moodturn.com/) - Ambient
 * [RelaxFrens](https://www.relaxfrens.com/) - Ambient
 * [Sounds of Maine](https://soundsofmaine.life/) - Ambient Maine Sounds
 * [lofi](https://lofi.co/) - Ambient / Lo-fi
@@ -271,6 +268,7 @@
 
 ## ▷ Download Sites
 
+* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners.
 * **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) - Multi-Site Search
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - ctrl+f and type "audio"
 * **[Free MP3 Download](https://free-mp3-download.net/)** - Search / MP3 / FLAC
@@ -400,7 +398,7 @@
 * [JPFlac](https://jpflac.com/) - Japanese / Korean / MP3 / FLAC
 * [MikuDB](http://mikudb.moe/) - Vocaloid / MP3
 * [El Rincón del Kitsune](https://archive.ph/DLjI6) - Vocaloid / MP3
-* [Все Саундтреки](http://xn--80adhccsnv2afbpk.xn--p1ai/), [DS Soundtrack](https://dsoundtrack.com/), [Soundkino](https://soundkino.biz/), [Download-Soundtracks](http://download-soundtracks.com/), [3ost](https://3ost.ru/), [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) or [tanikal](https://www.tanikal.com/) - Soundtracks 
+* [Все Саундтреки](http://xn--80adhccsnv2afbpk.xn--p1ai/), [Download-Soundtracks](http://download-soundtracks.com/), [3ost](https://3ost.ru/), [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) or [tanikal](https://www.tanikal.com/) - Soundtracks 
 * [GTA Radio Stations Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_gta_radio_stations) - GTA Radio Stations
 * [SittingOnClouds](https://www.sittingonclouds.net/) / [Discord](https://discord.com/invite/x23SFbE) - Anime / Game Soundtracks
 * [AniPlaylist](https://aniplaylist.com/), [OSAnime](https://osanime.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - Anime Soundtracks 
@@ -488,7 +486,6 @@
 * [Every Noise at Once](http://everynoise.com/) - Music Genre Samples
 * [This Is What You Listen To](https://tiwylt.musimap.io/) - Song Genre / Info Analyzer
 * [SpotiFictional](https://spotifictional.com/) - Music from Fictional Artists
-* [Listening Together](https://listeningtogether.atspotify.com/) - Tracks Each Time Two People Play the Same Song
 * [Loudness War](https://dr.loudness-war.info/) - Albums Dynamic Range Database
 * [rate.house](https://rate.house/) - Media Tracker
 * [MediaTracker](https://github.com/bonukai/MediaTracker) - Self Hosted Media Tracker
