@@ -20,7 +20,7 @@
 * **[DyR0t(-_-t)'s Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dyr0t.28-_-t)** 
 * **[CrackHub](https://crackhub.site/)** - [Discord](https://discord.gg/T669D6weqt) / [Divolt](https://cracksupport.divolt.xyz/) / [RSS](https://scene.crackhub.site/category/iso/rss)
 * **[GamesDrive](https://gamesdrive.net/)** - [Discord](https://discord.gg/8J63nvSXpX) / [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
-* **[Ova Games](http://www.ovagames.com/)** - Use Adblock + [FastFoward](https://fastforward.team/)
+* **[Ova Games](http://www.ovagames.com/)** - Use Adblocker + [FastFoward](https://fastforward.team/)
 * **[Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/)** - [Discord](https://discord.gg/HP5sQ6c)
 * **[ScOOter Repacks](https://scooter-repacks.site/)** - [Discord](https://discord.gg/BWKyN8SgvM)
 * **[GoG Games](https://gog-games.com/)**
