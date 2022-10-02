@@ -11,10 +11,7 @@
 
 # ► Download Directories
 
-**Note** - Some Open Directories grab IP's, so use a VPN or Tor when accessing them.
-
-***
-
+* **Note** - Some Open Directories grab IP's, so use a VPN or Tor when accessing them.
 * **[/r/opendirectories](https://www.reddit.com/r/opendirectories/)** - Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / /u/ODScanner
 * **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
 * **[300TB Mega](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_300tb_mega)**
@@ -57,6 +54,7 @@
 
 # ► Download Sites
 
+* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners.
 * **[DownloadHa](https://www.downloadha.com)** - Video / Software / Games / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * **[SoftArchive](https://sanet.st)** or [Sanet.lc](https://sanet.lc/) - Video / Audio / Games / Software / Android / Books / Comics / Newspapers / Magazines / [Status](https://sastatus.com/)
 * **[DirtyWarez](https://forum.dirtywarez.com/)** - Video / Audio / Games / Software / Books / Comics 
@@ -449,7 +447,6 @@
 * [@Transload](https://t.me/transload), [@deltaleechbot](https://t.me/deltaleechbot) or [@GTransLoaderbot](https://t.me/GTransLoaderbot) - Telegram Leech Bots
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Send Premium Files to Leeches
 * [LeecherParadise](https://leechersparadise.com/) - Leech
-* [Newscon](https://www.newscon.net/debrid/) - Leech
 
 ***
 
