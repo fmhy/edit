@@ -152,6 +152,7 @@
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
 * [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn Pentesting
 * [SebastianLague](https://www.youtube.com/c/SebastianLague/playlists?view=50&sort=dd&shelf_id=4) - Game Development Tutorials
+* [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Making Tutorials
 * [LandChad](https://landchad.net/) or [learn.sadgrl.online](https://learn.sadgrl.online/) - Site Development Guides
 * [Full Stack Solana Development Guide](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) - [Examples](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)
 * [The New Boston](https://thenewboston.com/) - Site Development Courses / [Discord](https://discord.com/invite/thenewboston)
@@ -631,12 +632,14 @@ Automated Incident Response and Forensics Framework
 ## ▷ App Development
 
 * **[Tizen](https://www.tizen.org/)** - Android TV App Creator
+* [Heroku-Alt](https://rentry.co/Heroku-Alt) - Heroku Alternatives
 * [SupaBase](https://supabase.com/), [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Dokku](https://dokku.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter), [2](https://github.com/leanflutter/awesome-flutter-desktop) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators
 * [XDA](https://forum.xda-developers.com/) - App Development Forum
 * [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - App Development Platform / [GitHub](https://github.com/xamarin)
 * [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
 * [MemberPrism](http://r.ftqq.com/MemberPrism2/) - Member-Only App Builder
 * [butterfly](https://github.com/GetStream/butterfly) - Android UI Builder
+* [Flutter Login Page Design](https://github.com/afgprogrammer/Flutter-Login-Page-Design) - Login Page Design and Animation
 * [App ideas](https://github.com/florinpop17/app-ideas) - Collection of App Ideas
 * [Docker](https://www.docker.com/) - Build, Manage & Run Apps in Containers / [Images](https://linuxserver.io/)
 * [Dive](https://github.com/wagoodman/dive) - Analyze Docker Images
@@ -724,6 +727,8 @@ Automated Incident Response and Forensics Framework
 * [Designer Toolkit](https://ldtk.io/) or [Ogmo Editor](https://ogmo-editor-3.github.io/) - 2D Level Editor Level
 * [SPARTAN Procedural](https://pnjeffries.itch.io/spartan-procjam-edition) - Procedural Tile Generator
 * [Laigter](https://azagaya.itch.io/laigter) - 2D Texture Map
+* [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/), [Inkarnate](https://inkarnate.com/), [HexHTML](https://hextml.playest.net/), [Inkwellideas](https://inkwellideas.com/free-tools/), [Nat Geo Map Maker](https://mapmaker.nationalgeographic.org/) or [MapTool](https://www.rptools.net/toolbox/maptool/) - Game Map Making Tools
+* [Dungeon Map Doodler](https://dungeonmapdoodler.com/) or [donjon](http://donjon.bin.sh/) - Draw and Build Dungeons 
 * [Doshaven Programming List](http://www.doshaven.eu/programming-tools/) - DOS Game Creator Tools
 * [QB64SourceCode](https://www.qb64sourcecode.com/ ) - QB64 Game Programming Tutorials
 * [Fantasy Consoles / Computers](https://github.com/paladin-t/fantasy) - List of Fantasy Consoles and Computers
