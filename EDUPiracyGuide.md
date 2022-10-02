@@ -124,6 +124,7 @@
 
 ## ▷ Courses
 
+* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners.
 * **[freesoff](https://freesoff.com/)** - Courses
 * **[TutFlix](https://tutflix.org/)** - Courses / Drives 
 * **[OneHack](https://onehack.us/)** - Courses
@@ -468,7 +469,7 @@ Simulator
 * [Clear Dark Sky](https://cleardarksky.com/) - Star Gazing Weather Forecasts
 * [Dark Site Finder](https://darksitefinder.com/), [DarkSkyMap](https://darkskymap.com/) or [GoStarGazing](https://gostargazing.co.uk/) - Star Gazing Site Locators
 * [DeepSkyCamera](https://play.google.com/store/apps/details?id=de.seebi.deepskycamera&gl=US) - Astrophotography App
-* [SpaceEngine](http://spaceengine.org/) - Universe Simulator
+* [SpaceEngine](http://spaceengine.org/) or [Celestia](https://celestia.space/) - Universe Simulators
 * [The Scale of the Universe 2](https://www.htwins.net/scale2/) - Universe Scale Simulator
 * [astro.sfasu](http://astro.sfasu.edu/courses/ast305/homework/) - Astronomy Homework
 * [CDS](https://cds.u-strasbg.fr/) - Astronomical Database
