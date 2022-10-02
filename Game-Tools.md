@@ -19,7 +19,7 @@
 * [TCNO](https://github.com/TcNobo/TcNo-Acc-Switcher) - Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?usp=sharing), [MoreFPS](https://morefps.net/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) or [HoneCtrl](https://github.com/auraside/HoneCtrl) - Latency Reduction / FPS Fixes
-* [Fraps Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_fraps) / [2](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
+* [Fraps Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_fraps) / [2](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/), [FPSMeter](https://darsa.in/fpsmeter/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
 * [Nvidia Overclocking](https://github.com/LunarPSD/NvidiaOverclocking/blob/main/Nvidia%20Overclocking.md) - Nvidia Overclocking Resources
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner), [GPU Tweak lll](https://www.asus.com/campaign/GPU-Tweak-III/index.php) or [EVGA Precision X1](https://www.evga.com/precisionx1/) - Graphics Card Overclocking Tools
 * [MSI Kombustor](https://msikombustor.com/) - GPU Benchmark Test
@@ -90,16 +90,16 @@
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
 * [Score7](https://score7.io/) - Tournament Creator / Manager
 * [KeepTheScore](https://keepthescore.co/) - Leaderboard Creator
-* [5ETools](https://5e.tools/) or [DragonsFoot](https://www.dragonsfoot.org/) - Dungeons & Dragons Tools
+* [Kanka](https://kanka.io/en-US) - Tabletop RPG Manager
+* [5ETools](https://5e.tools/), [Kassoon](https://www.kassoon.com/dnd/) or [DragonsFoot](https://www.dragonsfoot.org/) - Dungeons & Dragons Tools
 * [The Acaeum](https://www.acaeum.com/) - Dungeons & Dragons Database
+* [Web Writer](http://www.web-writer.net/fantasy/days/index.html) or [DnD World Building](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - Fantasy World Building Guides
 * [Archives of Nethys](https://aonprd.com/) - Pathfinder Database
 * [WarGamer](https://www.wargamer.com/) - Tabletop RPG Guides
 * [Roll20](https://roll20.net/), [Rolisteam](https://rolisteam.org/) or [Astral](https://www.astraltabletop.com/) - Tabletop RPG Streaming
 * [Tabletopy](https://tabletopy.com/) - Tabletop RPG Soundboard
 * [Map Generator](https://emptybuttons.itch.io/map-generator) - Tabletop Roleplaying Map Generator
 * [FrontierNav](https://frontiernav.net/) - JRPG Databases & Interactive Maps
-* [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/), [HexHTML](https://hextml.playest.net/), [Nat Geo Map Maker](https://mapmaker.nationalgeographic.org/) or [MapTool](https://www.rptools.net/toolbox/maptool/) - Map Making Tools 
-* [Dungeon Map Doodler](https://dungeonmapdoodler.com/) or [donjon](http://donjon.bin.sh/) - Draw and Build Dungeons 
 * [Ethereal Games](https://wiki.etherealgames.com/) - JRPG Wiki
 * [Adventurer's Codex](https://adventurerscodex.com) - Online D&D 5e Campaign Manager / System
 * [DS4Windows](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [Input Remapper](https://github.com/sezanzeb/input-remapper) or [InputMapper](https://inputmapper.com/) - Gamepad Input Tools
@@ -314,6 +314,7 @@
 * [Wanted-Music-IV](https://github.com/ClonkAndre/Wanted-Music-IV) - GTAV Wanted Music in GTAIV
 * [GTA 5 Grand Roleplay](https://gta5grand.com/) - GTAV Roleplay Server
 * [D.E.P](https://www.definitive-edition-project.com/) - Fix GTA PC Port Bugs
+* [Vice City: Multiplayer](https://vc-mp.org/) - Mutiplayer GTAVC
 * [gta-city-of-lost-heaven](https://github.com/RadValentin/gta-city-of-lost-heaven) - GTAVC Mafia Themed Mod
 * [Vali's City](https://github.com/RadValentin/vali-city) - GTAVC Matrix Themed Mod
 * [skin-switcher](https://github.com/PrographerMan/skin-switcher) - GTAVC Skin Switching Mod
