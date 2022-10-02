@@ -13,14 +13,15 @@
 
 * **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)**, [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa), [Rezi Search](https://rezi.one/), [Bonneteer](https://bonneteer.herokuapp.com/) or [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) - Multi-Site Search
 * **[/r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Trusted Game Download Sites / [Discord](https://discord.gg/dZWwhUy)
-* **[FitGirl Repacks](https://fitgirl-repacks.site/)** - [Discord](https://discord.gg/Up3YARe4RW)
-* **[Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/)** - [Discord](https://discord.gg/HP5sQ6c)
-* **[Steam Underground](https://cs.rin.ru/)** - [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Status](https://csrinstaff.writeas.com/)
 * **[SteamRIP](https://steamrip.com/)** - [Discord](https://discord.gg/hj8dU5BFHE) / pw: 1234
+* **[FitGirl Repacks](https://fitgirl-repacks.site/)** - [Discord](https://discord.gg/Up3YARe4RW)
+* **[DODI](http://dodi-repacks.site/)** - [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
+* **[Steam Underground](https://cs.rin.ru/)** - [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Status](https://csrinstaff.writeas.com/)
+* **[Ova Games](http://www.ovagames.com/)**
 * **[DyR0t(-_-t)'s Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dyr0t.28-_-t)** 
 * **[CrackHub](https://crackhub.site/)** - [Discord](https://discord.gg/T669D6weqt) / [Revolt](https://cracksupport.divolt.xyz/) / [RSS](https://scene.crackhub.site/category/iso/rss)
 * **[GamesDrive](https://gamesdrive.net/)** - [Discord](https://discord.gg/8J63nvSXpX) / [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
-* **[DODI](http://dodi-repacks.site/)** - [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
+* **[Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/)** - [Discord](https://discord.gg/HP5sQ6c)
 * **[ScOOter Repacks](https://scooter-repacks.site/)** - [Discord](https://discord.gg/BWKyN8SgvM)
 * **[GoG Games](https://gog-games.com/)**
 * **[FreeToGame](https://www.freetogame.com/games)**, [Free Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff), [Acid Play](https://acid-play.com/) or [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - F2P Games
@@ -41,7 +42,6 @@
 * [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
 * [-tARA Repacks](https://t4x4.github.io/)
 * [GLoad](https://gload.to/)
-* [Ova Games](http://www.ovagames.com/)
 * [SEHS Games](https://www.sehsgames.com/)
 * [Leeching Hell](http://leechinghell.pw/)
 * [DarkSoftware](https://darksoftware.net/)
@@ -300,7 +300,6 @@
 * [File-Hunter](https://www.file-hunter.com/) - MSX / Amiga Browser Emulator
 * [MSXGamesWorld](https://www.msxgamesworld.com/) - MSX Browser Emulator
 * [C64Online](https://c64online.com/) - C64 Browser Emulator
-* [TGX16](https://tgx16.com/) - Turbo Grafix 16 Emulator
 * [Super Mario Bros](https://supermariobros.io/), [SuperMarioBrosGames](https://supermariobrosgames.com/) or [SMBGames](https://smbgames.be/) - Super Mario Browser Emulators
 * [Mega Man Games](https://www.megamangames.net/) - Mega Man Browser Emulator
 * [OpenBOR](https://github.com/DCurrent/openbor) or [Mugen](https://web.archive.org/web/20150209191723/http://www.elecbyte.com/mugen) - 2D Fighting Game Emulator
@@ -473,7 +472,6 @@
 * [ArcadePrehacks](http://www.arcadeprehacks.com/) - Hacked Games 
 * [Orisinal](http://www.ferryhalim.com/orisinal/), [BillsGames](http://www.billsgames.com/) or [pitStreet](http://www.pitstreet.com/) - Simple Games 
 * [Nick Jr. Games](http://www.nickjr.com/games/), [WBKidsGo](https://www.wbkidsgo.com/) or [PBS Kids Games](https://pbskids.org/games/) - Games for Kids
-* [Surrogate](https://www.surrogate.tv/) - Remote Control Real Life Games 
 * [RobotStreamer](https://robotstreamer.com/) - Live Control Robots 
 * [Free Rider HD](https://www.freeriderhd.com/) - Draw / Race Bike Tracks
 * [Merc.zone](https://merc.zone/) - Browser FPS
