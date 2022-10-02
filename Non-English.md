@@ -141,7 +141,7 @@
 * [jialezi](https://blog.jialezi.net/) - Chinese Tutorials
 * [Kaiheila](https://www.kaiheila.cn/) - Chinese Discord
 * [Diaosi Forum](https://assbbs.com/) or [WangChao](https://www.wangchao.info/) - Piracy Discussion
-* [zimuku](http://zimuku.org/), [assrt](https://assrt.net/), [YYets](https://www.yyets.com/), [SubHD](https://www.subhdtw.com/sub/tv) or [SubHD](https://subhd.tv/) - Subtitles
+* [zimuku](http://zimuku.org/), [assrt](https://assrt.net/), [YYets](https://www.yyets.com/), [SubHD](https://www.subhdtw.com/sub/tv), [YYSub](https://www.yysub.net/) or [SubHD](https://subhd.tv/) - Subtitles
 * [Anti-Ad](https://anti-ad.net/) - Adblock Filters
 * [GameLoop](https://syzs.qq.com/) - Android Emulator
 * [Thanox](https://github.com/Tornaco/Thanox) - Android System Manager
@@ -178,9 +178,8 @@
 * [Impale](https://imaple.co/) - Movies / TV
 * [shinybbs](https://sub.shinybbs.vip/) - TV
 * [3dmgame](https://www.3dmgame.com/) - Games / Geolocked / Baidu Required 
-* [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - Courses / [icourse163](https://www.icourse163.org/)
 * [Hifini](https://www.hifini.com/) - Music
-* [J-pop Music Download](https://jpop.xyz/) - Music / FLAC / MP3 
+* [J-pop Music Download](https://jpop.xyz/) - Music / FLAC / MP3
 * [tlanyan](https://tlanyan.me/) - Linux / Software  
 * [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - Courses / [icourse163](https://www.icourse163.org/)
 * [CatchingNow](https://www.catchingnow.cn/) or [TapTap](https://www.taptap.io/) - Android Apps
@@ -1087,12 +1086,13 @@
 
 ## ▷ Streaming 
 
-* [Zalukaj](https://zalukaj.cc/) - Movies 
-* [Repozytorium ](http://repozytorium.fn.org.pl/?q=pl) - Movies 
-* [cda-hd](https://cda-hd.cc/) - Movies / TV 
-* [filman.cc](https://filman.cc/) - Movies / TV 
+* [Zalukaj](https://zalukaj.cc/) - Movies
+* [Repozytorium ](http://repozytorium.fn.org.pl/?q=pl) - Movies
+* [cda-hd](https://cda-hd.cc/) - Movies / TV
+* [filman.cc](https://filman.cc/) - Movies / TV
 * [Ekino-TV](https://ekino-tv.pl/) - Movies / TV
-* [Anime Odcinki](https://anime-odcinki.pl/) - Anime 
+* [wbijam]( https://wbijam.pl/) - Anime
+* [Anime Odcinki](https://anime-odcinki.pl/) - Anime
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 
 ## ▷ Reading
@@ -1118,13 +1118,14 @@
 * [NONIOBlocker](https://github.com/DevTiagoCruz/NONIOBlocker) - News Site Adblocker
 * [Educa Mais Brasil](https://www.educamaisbrasil.com.br/enem/guia-enem) - ENEM Study Material
 * [Universia](https://www.universia.net/) - Portuguese University Search
-* [Flutterando](https://github.com/Flutterando/roadmap) - Flutter Guides 
+* [Flutterando](https://github.com/Flutterando/roadmap) - Flutter Guides
 * [Uol](https://escolakids.uol.com.br/) - Kids Learning
-* [Portuguese Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_browser_games) 
+* [Portuguese Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_browser_games)
 * [Atari2600](http://www.atari2600.com.br/) - Browser Emulator
 * [Racha Cuca](https://rachacuca.com.br/) - Puzzles & Trivia
 * [cacapalavras](http://www.cacapalavras.com.br/) - Crossword Puzzles
 * [plagiarisma](http://plagiarisma.net/pt/) - Plagiarism Checker
+* [nomesdefantasia](https://www.nomesdefantasia.com/) - Fantasy Name Generator
 * [CatalogoApp](https://catalogoapp.mobi/) - Portuguese Product Catalog
 * [dicionariompb](https://dicionariompb.com.br/) - Top Song Charts
 * [Jogorama](https://jogorama.com.br/) - Game Index / Tips
