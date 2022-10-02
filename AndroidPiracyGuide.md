@@ -179,6 +179,7 @@
 * [HistoryOfMe](https://github.com/litlifesoftware/HistoryOfMe) - Journal App
 * [Adaptive Controls](https://play.google.com/store/apps/details?id=com.nxet.adaptivecontrols) - Per App Settings
 * [auto-auto-rotate](https://gitlab.com/juanitobananas/auto-auto-rotate) - Per App Rotation Settings
+* [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) - Downgrade Apps on Android 12/13
 * [No-frills CPU Control](https://github.com/hrk/no-frills-cpu-classic) - CPU Controller
 * [Plexus](https://plexus.techlore.tech/) - De-googled Device Compatibility List
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/0x192/universal-android-debloater) or [Debloat Samsung Android](https://github.com/khlam/debloat-samsung-android) - Android Debloaters
