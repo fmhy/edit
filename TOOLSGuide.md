@@ -76,7 +76,7 @@
 * [Elevation](https://tikolu.net/elevation/) - Find Current Elevation
 * [BreezoMeter](https://www.breezometer.com/) - Air Quality Reports
 * [RTL-SDR](https://gist.github.com/fasiha/c123a9c6b6c78df7597bb45e0fed808f) - DIY FAA & EASA Satellite Feeds / Transponder
-* [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/), [BestRandoms](https://www.bestrandoms.com/), [Randommer](https://randommer.io/), [GeneratorFun](https://generatorfun.com/) or [Random Lists](https://www.randomlists.com/) - Random Generators
+* [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/), [BestRandoms](https://www.bestrandoms.com/), [Randommer](https://randommer.io/), [GeneratorFun](https://generatorfun.com/), [Springhole](https://www.springhole.net/writing_roleplaying_randomators/index.html) or [Random Lists](https://www.randomlists.com/) - Random Generators
 * [Score Count](https://scorecount.com/) - Online Sports Scoreboards
 * [Wheel Decide](https://wheeldecide.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizer
 * [Poll Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_poll_sites) - Create Polls
@@ -86,7 +86,6 @@
 * [Diff Checker](https://www.diffchecker.com/) - Check Differences in Text, Images, PDFs or Files
 * [Find Your Place](https://where-is-this.com/) - Find Places from Pictures
 * [IRuler](https://iruler.net/) - Turn Device into Ruler
-* [Chaotic Shiny](http://chaoticshiny.com/) - Fantasy Writing Generator
 * [MixedName](https://mixedname.com/) - Find Bilingual Baby Names
 * [GitKraken Timeline](https://timelines.gitkraken.com/), [Timeline Cascade](https://cascade.page/) / [GitHub](https://github.com/kochrt/cascade.page), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Create Timelines
 * [Timeliner](https://github.com/mholt/timeliner) - Create Personal Digital Timeline
@@ -168,8 +167,10 @@
 * [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](http://writemonkey.com/), [WriteNext](https://www.writenext.io/) or [Writer](https://www.gibney.org/writer) / [GitHub](https://github.com/no-gravity/writer) - Distraction-Free Writing Apps
 * [NovelWriter](https://novelwriter.io/) - Markdown Style Novel Editor
 * [Papyrus Author](https://www.papyrusauthor.com/) - Creative Writing Suite
-* [Seventh Sanctum](https://www.seventhsanctum.com/) - Fantasy Writing Generators
+* [Seventh Sanctum](https://www.seventhsanctum.com/), [Notebook.ai](https://www.notebook.ai/), [WorldAnvil](https://www.worldanvil.com/) or [Chaotic Shiny](http://chaoticshiny.com/) - Fantasy Writing Generators
 * [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Fantasy Name Generators
+* [PolyGlot](https://draquet.github.io/PolyGlot/) or [VulgarLang](https://www.vulgarlang.com/) - Spoken Language Construction Tools
+* [Awkwords](http://akana.conlang.org/tools/awkwords/) - Word Generators
 * [Lorem Ipsum Generator](https://apps.maximelafarie.com/lig/), [DevLorem](https://github.com/Kovah/DevLorem) or [Lorem Ipsum](https://www.lipsum.com/) - Generate Placeholder Text
 * [text-regenerator](https://github.com/jddunn/text-regenerator) - Replace Words with Synonyms
 * [Typoer](https://github.com/georgetian3/typoer) - Types Text with Typos / Corrections
@@ -210,11 +211,9 @@
 * [ExtractMailAddress](https://extractemailaddress.com/) - Extract Email's, URLs & Numbers from Text
 * [Scanner](https://simon-knuth.github.io/scanner/index) - Scanner App / [GitHub](https://github.com/simon-knuth/scanner)
 * [MakeSweet](https://makesweet.com/) - Send 3D Messages
-* [Cryptii](https://cryptii.com/) - Modular Conversion, Encoding & Encryption
-* [dCode](https://www.dcode.fr/en) - Message Decoders
 * [StegCloak](https://stegcloak.surge.sh/) - Hide Messages in Text
 * [telescopictext](https://www.telescopictext.org/) - Write Text Within Text
-* [Universal Online Cyrillic Decoder](https://2cyr.com/decode/?lang=en) - Decode / Recover Scrambled Text into Cyrillic
+* [quipqiup](https://www.quipqiup.com/) or [dCode](https://www.dcode.fr/en) - Cryptogram Solvers
 * [AnagramAssistant](https://keitharm.me/projects/anagramAssistant/) - Anagram Tool 
 * [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - Text Tone Detection 
 * [Just Not Sorry](https://chrome.google.com/webstore/detail/just-not-sorry-the-gmail/fmegmibednnlgojepmidhlhpjbppmlci) - Undermining Word Detection
@@ -232,8 +231,6 @@
 * [Text Smileys](https://lenny-face-generator.textsmilies.com/) - Create ASCII Face
 * [ASCII Art Creator](https://github.com/CherryPill/ASCII-art-creator) or [ASCII Today](https://ascii.today/) - ASCII Art Generator
 * [randSeq](http://www.dave-reed.com/Nifty/randSeq.html) - Random Letter Sequence Generator
-* [quipqiup](https://www.quipqiup.com/) - Cryptogram Solver 
-* [Age Online](https://age-online.com/) - Text Encryption Tool
 * [JMESPath](https://jmespath.org/) - Query Language for JSON / [Tutorial](https://jmespath.org/tutorial.html)
 * [xeuledoc](https://github.com/Malfrats/xeuledoc) - Fetch Information about Public Google Documents
 * [Useless-Translator](https://vcjhwebdev.github.io/useless-translator/) - Morse Code / Binary Translator 
@@ -398,7 +395,7 @@
 * [DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Webcam Face Swap Tool
 * [NVIDIA BROADCAST](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) or [Webcamoid](https://webcamoid.github.io/) - Webcam Manager
 * [SimSwap](https://github.com/neuralchen/SimSwap) - Video Face Swap Tool
-* [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - Deepfake Video Creator
+* [DeepFaceLab](https://github.com/iperov/DeepFaceLab) or [Thin-Plate Spline](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - Deepfake Video Creators
 * [deepware](https://scanner.deepware.ai/) - Detect Deepfake Videos
 * [Air Pi Play](https://github.com/rahul-thakoor/air-pi-play) - Rasberry Pi Screen Sharing
 * [4K Media](https://4kmedia.org/) - Free 4K Video Demos
@@ -943,7 +940,7 @@
 * [Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr), [2](https://cse.google.com/cse?cx=89f2dfcea452fc451), [3](https://cse.google.com/cse?cx=aab218d0aa53e3578) - Search Video Download Sites
 * [Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io), [2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) - Search Audio Download Sites
 * [Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8) - Search Anime Download Sites
-* [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg), [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa), [Rezi Search](https://rezi.one/), [Bonneteer](https://bonneteer.herokuapp.com/) or [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) - Search Game Download Sites
+* [Game Download CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_download_cse) - Search Game Download Sites
 * [Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj), [2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) / [librex](https://github.com/hnhx/librex) - Search General Torrent Sites
 * [Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j) - Search Video Torrent Sites
 * [Anime Torrent CSE]( https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz) - Search Anime Torrent Sites
@@ -1716,7 +1713,7 @@ Twitch Stream Tracker
 * [Pastas](https://rentry.org/pastas#guides) - Windows Guides
 * [Awesome Scripts](https://github.com/codePerfectPlus/awesomeScripts), [Batch-Script-Collection](https://github.com/happy05dz/Batch-Script-Collection), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - Useful System Scripts
 * [SmartWindows](https://smartwindows.app/) - Create / Restore Windows Profiles 
-* [VirtualBox](https://www.virtualbox.org/), [Looking Glass](https://looking-glass.io/), [Qemu](http://www.qemu-project.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)
+* [VirtualBox](https://www.virtualbox.org/), [Looking Glass](https://looking-glass.io/), [Qemu](http://www.qemu-project.org/), [Denodo Test](https://www.denodo.com/en/denodo-platform/test-drives?utm_source=homepage&utm_medium=bn) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machined / [Preinstalled VMS](https://www.osboxes.org/)
 * [Virt Machine](https://virt-manager.org/) - Virtual Machine Manager 
 * [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - Windows XP Virtual Machine
 * [windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in Electron
