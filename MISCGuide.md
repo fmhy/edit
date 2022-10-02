@@ -273,6 +273,7 @@
 * [Objection!](https://objection.lol/) - Ace Attorney Objecting on Your Behalf 
 * [Listography](https://listography.com/), [Ranker](https://www.ranker.com/), [TheTopsTens](https://www.thetoptens.com/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
 * [DreamWidth](https://www.dreamwidth.org/) - User-Made Images & Stories
+* [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
 * [Posting.Cool](https://posting.cool/) - Random Topic Forum
 * [4chan](https://4chan.org/), [Afternoon](https://afternoon.dynu.com/), [Crystal.cafe](https://crystal.cafe/) or [Bus Stop](https://bus-stop.net/) - Anonymous Text / Image Boards / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_4chan_tools)
 * [Gossip’s Café](https://gossips.cafe/) - Text / Music Board 
@@ -453,10 +454,11 @@
 * [Fake Text Message](https://ifaketextmessage.com/) - Make Fake Text Conversation 
 * [Tinder for Bananas](https://tinderforbananas.com/) - Tinder for Bananas
 * [FutureTimeline](https://www.futuretimeline.net/) - Timeline of future predictions 
+* [Spec Wiki](https://speculativeevolution.fandom.com/wiki/Main_Page) - Speculative Evolution Wiki
 * [House creep](https://www.housecreep.com/) - Homes With A Curious or Criminal History 
 * [Letters of Note](https://news.lettersofnote.com/) - Historical Letters
 * [Hypochondriapp](http://hypochondriapp.io/) - Get a terrible diagnosis for your symptoms
-* [Cube Rule](https://cuberule.com/) - The Cube Rule of Food 
+* [Cube Rule](https://cuberule.com/) - The Cube Rule of Food
 * [EverySecond](https://everysecond.io/) - Visualize Per Second Data
 * [DeathDate.info](http://deathdate.info/), [DeathDate.org](https://www.deathdate.org/), [Fortunteller Deathdate](https://www.free-fortuneteller.com/deathdate), [DeathClock.com](http://deathclock.com/) or [Death-Clock](https://www.death-clock.org/) - Calculate your day of death 
 * [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](http://trackdollar.com/) - Dollar Tracking 
@@ -599,7 +601,6 @@
 * [isitnight](https://www.isitnight.com/) - Determine if its Night
 * [ThisSiteSaysOtherwise](https://thissaysotherwise.org/) - Otherwise
 * [The Pug in the Rug](https://puginarug.com/) - Watch the Pug be in the Rug
-* [No Code](https://github.com/kelseyhightower/nocode) - Write Nothing, Deploy Nowhere
 * [DownloadMoreRam](https://downloadmoreram.com/) - Download More Ram
 * [Watching Grass Grow](https://www.watching-grass-grow.com/) - Watch Grass Grow
 * [aaaaa](https://github.com/dkter/aaaaa) - "a" only keyboard
@@ -650,6 +651,7 @@
 * [MathURLs](https://mathurls.com/) - Math News
 * [DevURLs](https://devurls.com/) - Developer News
 * [TuxURLs](https://tuxurls.com/) - Linux News
+* [Medievalists](https://www.medievalists.net/category/news/) - Medieval History News
 * [IBM Watson News Explorer](https://news-explorer.mybluemix.net/) - Business News Explorer
 * [FinURLs](https://finurls.com/) - Finance & Business News
 * [Uriminzokkiri](http://www.uriminzokkiri.com/index.php?lang=eng) - Korean News
@@ -681,7 +683,6 @@
 * **[McBroken](https://mcbroken.com/)** - Check if McDonalds Ice Cream Machines are Broken
 * [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - Food Product Ingredient Scanner
 * [cookEbooks](http://cookebooks.info/) - Cookbooks
-* [YudhaCookbook](https://www.yudhacookbook.my.id/) - Cookbooks
 * [DMC Cookbooks](https://archive.lib.msu.edu/DMC/cookbooks/) - Cookbooks
 * [Cook Bookshelf](https://t.me/cook_bookshelf) - Cookbooks / Telegram
 * [Southern Cookbook](https://archive.org/details/southerncookbook00lustrich/) - Cookbook Southern
@@ -754,8 +755,6 @@
 * [KingArthurBaking](https://www.kingarthurbaking.com/recipes) - Baking Recipes
 * [The Bread Code Manifesto](https://github.com/hendricius/the-bread-code) - Bread Baking Recipes 
 * [Sugarologie](https://www.sugarologie.com/recipes) - Cake Recipes
-* [Pizza Dough](https://github.com/hendricius/pizza-dough) - Pizza Dough Recipes 
-* [Mozzarella](https://github.com/hendricius/mozzarella) - Mozzarella Recipes 
 * [Mac Cookie Recipe Easter Egg](https://i.imgur.com/Jc0WoCg.png) - Cookie Recipe / [How-to](https://pastebin.com/N8AyVfEf)
 * [Honey Ale](https://i.imgur.com/OvuP474.jpg) or [Honey Porter](https://i.imgur.com/6UDr7Fd.png) - The White House Brewing Recipes
 * [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee Making Guides
@@ -776,13 +775,13 @@
 * [Portuguese Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_recipes)
 * [Nosh](https://nosh.tech/) - Food Management App
 * [Mealime](https://www.mealime.com/) - Meal Planning App
-* [node-ubereats](https://github.com/jzarca01/node-ubereats) - WIP API for Uber Eats
 * [node-deliveroo](https://github.com/jzarca01/node-deliveroo) - API for Deliveroo
 * [PizzaDash](https://github.com/mynamebrody/pizzadash) - Turn Amazon Dash Button into Pizza Delivery Button
 * [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - SF Food Truck App
 * [The Worlds 50 Best Restaurants](https://www.theworlds50best.com/list/1-50) - Top Restaurants List
 * [Awesome Cafe](https://github.com/utilForever/awesome-cafe) - Korean Cafe List / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [is-vegan](https://github.com/hmontazeri/is-vegan) - Vegan Food App
+* [Food Lab](https://github.com/Singh-Shivani/Food_Lab) - Food Blog App
 
 ***
 
@@ -868,7 +867,7 @@
 * [MediLog](https://gitlab.com/toz12/medilog) or [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds) - Medical Data Log
 * [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - Insomnia Prevention Tips
 * [eXHALeR](https://www.xhalr.com/) - Yoga / Meditation Breathing Tool 
-* [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartintune.org/) - Meditation App
+* [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
 * [PixelThoughts](http://www.pixelthoughts.co/) - 60 Second Relaxation Tool
 * [Relax Online](http://www.relaxonline.me.uk/sa1/index.html) - Stress Analyst Tool
 * [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health) or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Index
@@ -891,6 +890,7 @@
 * **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Index
 * **[Satellite / Street View Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_satellite_.26amp.3B_street_view_maps)**
 * **[OpenStreetMap](https://www.openstreetmap.org/)** / [Search](https://nominatim.openstreetmap.org/ui/search.html), [KartaView](https://kartaview.org/landing), [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor), [Open Infrastructure Map](https://openinframap.org/), [FacilMap](https://facilmap.org/) or [Mapillary](https://www.mapillary.com/) - Street Maps
+* [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
 * [Atlas Obscura](https://www.atlasobscura.com/) - Travel Maps & Guides
 * [Borderless](https://borderless.safetywing.com/) - Travel Restriction Map
 * [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Site Maps
@@ -929,7 +929,7 @@
 * [Cyclocane](https://www.cyclocane.com/) - Cyclone and Hurricane Tracking
 * [Air Now](https://gispub.epa.gov/airnow/) or [Breezometer](https://www.breezometer.com/air-quality-map/) - Air Quality Map
 * [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality Near Ukraine
-* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps) or [ClimateCharts](https://climatecharts.net/) - Climate Maps
+* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Climate Sim](https://space.geometrian.com/calcs/climate-sim.php) or [ClimateCharts](https://climatecharts.net/) - Climate Maps
 * [Global Hyrdo Data](https://www.esri.com/arcgis-blog/products/product/water/global-hydro-data-its-here-here-here/) - Global Hydro Data / Mapping
 * [River Runner](https://river-runner.samlearner.com/) - River Map
 * [Gloric](https://www.hydrosheds.org/page/gloric) - River Type Database / Mapping
@@ -950,10 +950,11 @@
 * [Point Address](https://pointaddress.com/), [mapus](https://github.com/alyssaxuu/mapus) or [Scribble Maps](https://www.scribblemaps.com/create/) - Custom Location Map
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
 * [dgi](http://www.dgi.inpe.br/catalogo/) - Match Satellite Images to Map
+* [How-to Draw a Map](http://www.fantasticmaps.com/2015/02/how-to-draw-a-map/) - Map Drawing Guide
 * [City Roads](https://anvaka.github.io/city-roads/) - Draw City Roads
 * [Mobac](https://mobac.sourceforge.io/) - Mobile Atlas Creator
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
-* [EuraAtlas](https://euratlas.com/),  [GeoGarage](http://rumsey.geogarage.com/index.html) or [Digital Collection Maps](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division) - Historical Maps
+* [EuraAtlas](https://euratlas.com/), [Historical City Maps]( https://redd.it/61fdp6), [GeoGarage](http://rumsey.geogarage.com/index.html) or [Digital Collection Maps](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division) - Historical Maps
 * [Geacron](http://geacron.com/) - World History Timeline Map
 * [Ancestry Images](http://www.ancestryimages.com/) or [Pastvu](https://pastvu.com/) - Historical Photo & Map Archive
 * [Gas Price Map](https://www.gasbuddy.com/gaspricemap) - US Gas Price Map
@@ -970,13 +971,15 @@
 * [NightBlight](https://nightblight.cpre.org.uk/maps/) - England Light Pollution Map
 * [PowerOutage](https://poweroutage.us/) - Power Outage Map
 * [ElectricityMap](https://app.electricitymap.org/) - Electricity CO₂ Emissions Map
-* [City Generator](https://probabletrain.itch.io/city-generator) - City Map Generator 
+* [City Generator](https://probabletrain.itch.io/city-generator) or [CityGenerator](https://oskarstalberg.com/game/CityGenerator/) - City Map Generator
+* [Topps](https://topps.diku.dk/torbenm/maps.msp) - Planet Map Generator
 * [RSOE](http://hisz.rsoe.hu/) or [EDIS](https://rsoe-edis.org/) - Emergency and Disaster Map 
 * [NCEI](https://www.ncei.noaa.gov/maps/hazards/) - Real Time Natural Hazard Map
 * [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Real Time Fires Map
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)
+* [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
 * [LightningMaps](https://lightningmaps.org/) - Lightning Maps
 * [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](http://radarbox24.com/) or [FlightAware](http://flightaware.com/) - Live Flight Tracker 
 * [plane-notify](https://github.com/Jxck-S/plane-notify) - Plane Takeoff Notifications
@@ -1122,7 +1125,7 @@
 
 * **[Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_adblocking_extensions) / [Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_extensions) Extensions**
 * **[add0n](https://add0n.com/) or [MyBrowserAddon](https://mybrowseraddon.com/)** - Open-Source Extension Index
-* **[Buster](https://github.com/dessant/buster)** or [Noptcha](https://github.com/Sqaaakoi/noptcha-patch) - Auto Captcha Solver
+* **[Buster](https://github.com/dessant/buster)** - Auto Captcha Solver
 * **[Privacy Pass](https://privacypass.github.io/)** - Skip Captchas 
 * **[Dark Reader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) or [222](https://github.com/x08d/222) - Dark Mode 
 * [Into The Black Hole](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_into_the_black_hole) - Dark Mode Browser Theme
@@ -1156,7 +1159,7 @@
 * [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - Magnify Webpages
 * [Zoom WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_zoom_we) or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - Improves Zoom Functionality
 * [Print Edit WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_print_edit_we) - Edit Pages to Make them Printable 
-* [Grammarly](https://www.grammarly.com/) - Grammar Checker / [Free Premium](https://redd.it/kfncju)
+* [Grammarly](https://www.grammarly.com/) - Grammar Checker
 * [Mouse Gestures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mouse_gestures) - Control Browser via Gestures
 * [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/) - Merges a Sites "Next" Pages
 * [Redirector](https://einaregilsson.com/redirector/) - Page Redirector
@@ -1172,7 +1175,6 @@
 * [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Wii Shop Music on Shopping Sites
 * [Form History Control](https://stephanmahieu.github.io/fhc-home/), [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) or [Simple Form Fill](https://github.com/sblask/webextension-simple-form-fill) - Formfiller Managers
 * [Fake Data](https://www.fakedata.pro/) - Fill Forms With Fake Data
-* [History Master](https://github.com/jiacai2050/history-master) - Vizualize & Sync Browser History 
 * [xBrowserSync](https://www.xbrowsersync.org/) - Browser Syncing 
 * [Stylus](https://add0n.com/stylus.html), [Stylish](https://userstyles.org/) / [2](https://uso.kkx.one/) or [UserStyles](https://userstyles.world/) - Custom Website Color Schemes  
 * [Stylebot](https://stylebot.dev/) - Modify Webpages
@@ -1196,7 +1198,7 @@
 * [Link Alert](https://www.cwesson.net/projects/LinkAlert/) - Link Type Indicator 
 * [Mitaka](https://github.com/ninoseki/mitaka) - Domain Info Lookup Tool
 * [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Auto Delete Cookies
-* [Cookie Manager](https://github.com/laktak/vanilla-chrome), [Cookie Quick Manager](https://github.com/ysard/cookie-quick-manager), [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - Cookie Manager 
+* [Cookie Quick Manager](https://github.com/ysard/cookie-quick-manager), [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - Cookie Manager 
 * [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - Follow RSS Feeds
 * [Google Unblocked](https://github.com/Ibit-to/google-unlocked) - Uncensored Google Search
 * [Google search link fix](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_search_link_fix) - Prevent Search Pages from Modifying Result Links 
@@ -1363,7 +1365,7 @@
 * [Relative Bookmarks](https://github.com/duiker101/relative_bookmarks) - Add Relative Bookmarks
 * [Remarkable](https://github.com/samueldobbie/remarkable-extension) - Remove Dead Bookmarks / Refresh Icons 
 * [WhoWroteThis](https://whowrotethis.xyz/) - Article / Author Reviews
-* [Mercury Reader](https://mercury.postlight.com/reader/) - Clear Clutter From Articles / [GitHub](https://github.com/postlight/mercury-parser)
+* [Mercury Reader](https://reader.postlight.com/) - Clear Clutter From Articles / [GitHub](https://github.com/postlight/mercury-parser)
 * [OpenDyslexic](https://chrome.google.com/webstore/detail/opendyslexic-for-chrome/cdnapgfjopgaggbmfgbiinmmbdcglnam) - Increase Page Readability
 * [Read Progress](https://chrome.google.com/webstore/detail/website-read-progress/cpmfchlofecflfioofchboebmocaelip) - Display Read Progress on WebPage
 * [Amino](https://aminoeditor.com/) - Customize Webpage CSS
@@ -1396,9 +1398,7 @@
 
 ## ▷ Safari
 
-* [Safari Extensions](https://apps.apple.com/us/story/id1377753262) - Safari Extensions
 * [‎Momentum](https://apps.apple.com/us/app/momentum/id1564329434) - Custom New Tab Page
-* [PrettyWeb](https://apps.apple.com/us/app/prettyweb/id1580269767) - Dark Mode & Custom New Tab Page
 * [Dark Reader](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dark_reader), [NightLight](https://apps.apple.com/us/app/nightlight-for-safari/id1429386865?mt=12), [Night Eye](https://apps.apple.com/us/app/night-eye-for-safari/id1450504903?mt=12), [Dark Reader Script](https://gist.github.com/kfur/266c456dd69072eb7533f457ee5f18a0) or [Dark Mode](https://apps.apple.com/us/app/dark-mode-for-safari/id1397180934?mt=12) - Dark Mode
 * [Tab Space](https://apps.apple.com/us/app/tab-space/id1473726602?mt=12) or [‎StartPage.ai](https://apps.apple.com/us/app/startpage-ai/id1584727895) - Tab Manager
 * [Amerigo](https://apps.apple.com/us/app/amerigo-file-manager/id605569663) - File Download Manager
