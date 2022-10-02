@@ -76,6 +76,7 @@
 * [Tainio-Mania](https://tainio-mania.online/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Ling.online](https://ling.online/en/videos/films/) - Movies / TV
 * [MKVKing](https://111.90.158.128/) - Movies / TV
+* [PrimeMoviesFlix](https://primemoviesflix.com) - Movies / TV / Anime
 * [TheFlix](https://theflix.to/) - Movies / TV / Requires Signup
 * [Flixtor](https://flixtor.to) or [Filme21](https://filme21.com/) - Movies / TV / Movies Older Than 6 Months For Premium Only
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_google_teamdrives) - Movies / TV / Anime 
@@ -334,7 +335,6 @@
 * [Anime OWL](https://animeowl.net/home/) - Sub / Dub
 * [AnimeCruzers](https://animecruzers.me/) - Sub / Dub
 * [AnimeGo](https://animego.se/) - Sub / Dub 
-* [Chia Anime](https://chia-anime.su/) - Sub / Dub
 * [ChiaAnime.cc](https://chia-anime.cc/) - Sub 
 * [AnimeXin](https://animexin.xyz/) - Sub
 * [AnimeTV](https://animetv.cc/) - Sub / Dub
@@ -422,7 +422,6 @@
 * [MyAsianTV](https://myasiantv.cc/) - TV / Movies
 * [NewAsianTV](https://www2.newasiantv.pro/) - TV / Movies
 * [bagikuy](https://bagikuy.com/) - TV / Movies
-* [encoretvb](https://www.encoretvb.com/english) - TV
 * [Kissasian.video](https://kissasian.video/) - TV / Movies
 * [iFlix](https://www.iflix.com/) - TV / Movies
 * [WeTV](https://wetv.vip/) - TV / Movies
@@ -604,6 +603,7 @@
 
 # ► Download Sites
 
+* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners.
 * **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - ctrl+f and type "video"
 * **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - Download videos from streaming sites
@@ -681,7 +681,6 @@
 * [Nine9ja](https://nine9ja.com/) - Movies
 * [Warez Lover](https://warezlover.org/) - Movies / TV 
 * [LatestMovie4U](https://latestmovie4u.com/) - Movies / TV / Anime 
-* [VegaMovies](https://vegamovies.onl/category/english/) - Movies / [Telegram](https://t.me/Vegamoviesgroup2)
 * [Wtfmovies](https://www.wtfmovies.xyz/) - Movies / TV
 * [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - Cartoons 
 * [Bakabt](https://bakabt.me/) - Cartoons / [Signup](http://wiki.bakabt.me/index.php/Sign_up)
@@ -739,6 +738,7 @@
 
 ## ▷ Anime Downloading
 
+* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners.
 * **[/r/AnimePiracy Index](https://piracy.moe/)** or [TG Anime Index](https://telegra.ph/Websites-To-Watch-And-Download-Anime-09-10) - Curated List of Anime Sites / [Discord](https://discord.gg/piracy)
 * **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
 * **[AnimeKaizoku](https://animekaizoku.com/)** - Sub / Dub / [Dual Audio](https://github.com/AnimeKaizoku/KaizokuPatcher)
@@ -764,6 +764,7 @@
 * [DameDesuYo](https://damedesuyo.com/) - Sub
 * [TokyoInsider](https://www.tokyoinsider.com/) - Sub
 * [Chiby](http://www.animechiby.com/) - Sub
+* [Itonaku](https://ddl.itonaku.xyz/) - Sub / Dub / [Discord](https://discord.gg/4mtcZhftYt)
 * [Kainime](https://kainime.com/) - Sub
 * [Anime Senpai4U](https://www.animesenpai4u.com/) - Sub / Dub
 * [Anime Flix](https://animeflix.org.in/) - Sub / Dub / [Telegram](https://t.me/moviesflixnet)
@@ -784,7 +785,7 @@
 * [Anime Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anime_download_apps) - Anime Downloading Tools
 * [manyame](https://github.com/asakura42/manyame/) - IRC Anime Download Script 
 * [Anime DL](https://archive.org/details/animedl4.0_202004) - Stream & Download Anime in VLC
-* [Crunchyroll.dl](https://github.com/Sakurai07/Crunchyroll.dl), [Crunchyroll Downloader NX](https://github.com/anidl/crunchyroll-downloader-nx) or [Crunchyroll Downloader](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - Non-Prem Crunchyroll Downloaders 
+* [Crunchyroll.dl](https://github.com/Sakurai07/Crunchyroll.dl) or [Crunchyroll Downloader](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - Non-Prem Crunchyroll Downloaders 
 
 ***
 
