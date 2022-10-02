@@ -11,7 +11,7 @@
 
 # ► Download Games
 
-* **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)**, [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa), [Rezi Search](https://rezi.one/), [Bonneteer](https://bonneteer.herokuapp.com/) or [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) - Multi-Site Search
+* **[Game Download CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_download_cse)** - Multi-Site Search
 * **[/r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Trusted Game Download Sites / [Discord](https://discord.gg/dZWwhUy)
 * **[SteamRIP](https://steamrip.com/)** - [Discord](https://discord.gg/hj8dU5BFHE) / pw: 1234
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - [Discord](https://discord.gg/Up3YARe4RW)
@@ -24,7 +24,7 @@
 * **[Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/)** - [Discord](https://discord.gg/HP5sQ6c)
 * **[ScOOter Repacks](https://scooter-repacks.site/)** - [Discord](https://discord.gg/BWKyN8SgvM)
 * **[GoG Games](https://gog-games.com/)**
-* **[FreeToGame](https://www.freetogame.com/games)**, [Free Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff), [Acid Play](https://acid-play.com/) or [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games) - F2P Games
+* **[F2P Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_f2p_games)** - Free to Play Games
 * **[FFA](https://discord.gg/QvYwqvdgxc)** / [Telegram](https://pastebin.com/vZBRiCSS), [VRPirates](https://t.me/vrpirates), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
 * **[Scene Release Trackers](https://www.reddit.com/rFREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers)** - Get Scene Release Updates
 * [DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "games" or "roms"
