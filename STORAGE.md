@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/QmrT9JB.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/Qz5ADdf.png)** - For mobile users
 
 ***
 ***
@@ -1791,6 +1791,18 @@ Hosters: https://pastebin.com/AUqx5N3X) / [Hosters](https://pastebin.com/AUqx5N3
 #### Privacy Guides
 
 [Surveillance Self-Defense](https://ssd.eff.org/), [Defensive Computing Checklist](https://defensivecomputingchecklist.com/), [Security In A Box](https://securityinabox.org/en/), [AvoidTheHack](https://avoidthehack.com/), [Eldritch Data](https://eldritchdata.neocities.org/), [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html), [The Hitchhiker’s Guide](https://anonymousplanet-ng.org/guide.html) / [2](https://raw.githubusercontent.com/Anon-Planet/thgtoa/master/guide.md)
+
+***
+
+#### Privacy Hardened Firefox
+
+* **[user.js Warning](https://i.imgur.com/ZMQJHwC.png)**
+* **[ffprofile](https://ffprofile.com/)**
+* **[Betterfox](https://github.com/yokoffing/Betterfox)**
+* [arkenfox](https://github.com/arkenfox/user.js)
+* [pyllyukko](https://github.com/pyllyukko/user.js/)
+* [Narsil](https://git.nixnet.services/Narsil/desktop_user.js)
+* [Setup Guide](https://brainfucksec.github.io/firefox-hardening-guide) / [Video](https://youtu.be/F7-bW2y6lcI)
 
 ***
 
