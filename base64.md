@@ -946,12 +946,6 @@ pass: paluch
 
 *** 
 
-#### Marketing / Trading Courses
-
-`aaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9mb2xkZXIvbDR3OGdjZGNxc3F0dy9Qcm9DcmFja19UZWFtIGh0dHBzOi8vbWVnYS5uei9mb2xkZXIvUk5FUmtDSVMjdzBEY1dnZ0Fhc1l6OHZLbDFqSGtHdw==`
-
-*** 
-
 #### Master Networks & Scanning
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci93b1FGQWFMVCNFcXZhaXAwUi1rWGktbEQ4T0ljaDdn`
