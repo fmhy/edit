@@ -687,7 +687,6 @@
 * [neostox](https://neostox.com/) - Practice Stock Trading
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
 * [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) or [OpenBB Terminal](https://openbb.co/) - Investment Research CLI
-* [Marketing / Trading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_marketing_.2F_trading_courses) - Marketing / Trading Courses
 * [BlockChain](https://www.blockchain.com/explorer) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
 * [protocol-reading-list](https://github.com/bryanhpchiang/protocol-reading-list) - Crypto Protocols
 * [WalletExplorer](https://www.walletexplorer.com/) or [OXT](https://oxt.me/) - Bitcoin Block Explorers
