@@ -347,7 +347,7 @@
 
 * **[Tor Browser](https://www.torproject.org/)** or [Lokinet](https://lokinet.org/) - Onion-Routed Browser
 * **[Tor Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tor_tools)** - Tor Tools / Guides
-* **[ffprofile](https://ffprofile.com/)**, **[Betterfox](https://github.com/yokoffing/Betterfox)**, [arkenfox](https://github.com/arkenfox/user.js), [pyllyukko](https://github.com/pyllyukko/user.js/) or [Narsil](https://git.nixnet.services/Narsil/desktop_user.js) - Privacy Hardened Firefox / [Warning](https://i.imgur.com/ZMQJHwC.png) / [Guide](https://brainfucksec.github.io/firefox-hardening-guide) / [Video](https://youtu.be/F7-bW2y6lcI)
+* **[Privacy Hardened Firefox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_hardened_firefox)** - Firefox Privacy Profiles / Guides
 * **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - Privacy Focused Browsers
 * **[Vytal.io](https://vytal.io/)**, [everysiteknows](http://everysiteknows.ferrucc.io/) or [What every Browser knows about you](https://webkay.robinlinus.com/) - See What Your Browser Knows About You
 * **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
