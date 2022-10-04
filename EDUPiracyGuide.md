@@ -408,9 +408,11 @@ Simulator
 * [Modern / Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps) - Map Resources
 * [Letters of Note](https://news.lettersofnote.com/) - Historical Letters
 * [Shorpy](http://shorpy.com/) - Historical Photos
+* [The First World War](https://www.firstworldwar.amdigital.co.uk/) - WW1 Study Material
 * [Histography](https://histography.io/) - History Timeline
 * [The Food Timeline](https://www.foodtimeline.org/) - Food History Timeline
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes Site Index
+* [Arachne](https://arachne.dainst.org/) - Ancient Sculpture Image Archive
 * [CARI](https://cari.institute/) - Design Aesthetics History
 * [Pol Art Folder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pol_art_folder) - Historic European Art & Paintings
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) - Operating System / Software History / [Discord](https://discord.gg/XPz5Zm42tR)
@@ -817,8 +819,6 @@ Simulator
 * [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - Wood Working Guides & Articles
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots 
 * [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Art cyclopedia](http://www.artcyclopedia.com/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collection
-* [Arachne](https://arachne.dainst.org/) - Ancient Sculpture Image Archive
-* [The First World War](https://www.firstworldwar.amdigital.co.uk/) - WW1 Study Material
 * [Earth 2050](https://2050.earth/) - Future Predictions
 * [Nuclear Risk Calculator](https://app.hex.tech/399c4a29-5b7f-4f70-8b53-afa8da38dd72/app/def94910-d017-4508-847c-e1189d3b6042/latest) - Calculate Risk of Nuclear War 
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
