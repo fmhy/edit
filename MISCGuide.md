@@ -787,20 +787,26 @@
 
 # ►  Health
 
+* **[/r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
+* **[Awesome Health](https://github.com/lalaithan/awesome-health)** - Health Resources Index
 * **[JamanNetwork](https://jamanetwork.com/)**, [medicinenet](https://www.medicinenet.com/), [medpagetoday](https://www.medpagetoday.com/), [everydayhealth](https://www.everydayhealth.com/), [medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/), [webmd](https://www.webmd.com/) - Health News
-* [Awesome Health](https://github.com/lalaithan/awesome-health) - Health Resources Index
+* **[MyPlate](https://www.myplate.gov/)** - Food Pyramid
+* **[Caffeine Calculator](https://caffeineinformer.com/death-by-caffeine)** - Caffeine Calculator
+* **[Dehydration Color Chart](https://i.imgur.com/PpDgo5j.png)** - Urine Color Dehydration Chart
+* **[BMI Chart](https://i.imgur.com/JHJCmDM.png)** - Healthy BMI Graph
+* **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)** - BMI Calculator
+* **[Simple Science Fitness](https://ss.fitness/calculators)** or [SwoleHalla](https://www.swolehalla.com/) - Fitness Calculators
+* **[/u/KNightNox Diagram](https://i.imgur.com/ipBxg5p.jpg)** - Zoomable Exercise Diagram
+* **[Drugs.com](https://www.drugs.com/)** or [DrugBank](https://go.drugbank.com/) - Drug Information & Side Effects
 * [healthgrades](https://www.healthgrades.com/right-care/health-content-a-z), [epocrates](https://online.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
 * [osh](https://www.osh.net/) - Occupational Health and Safety Resources
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
 * [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-based Research
 * [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - Harvard University Health Website
-* [MyPlate](https://www.myplate.gov/) - Food Pyramid
-* [/r/Nutrition](https://www.reddit.com/r/nutrition/) - Nutrition Subreddit
 * [Liam Rosen's Fitness Guide](http://liamrosen.com/fitness.html) - Beginners Health & Fitness Guide
 * [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) - Fitness / Nutrition Info 
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
 * [Google Fit](https://www.google.com/fit/) - Activity Coach
-* [/u/KNightNox Diagram](https://i.imgur.com/ipBxg5p.jpg) - Zoomable Exercise Diagram
 * [No Equipment Ab Exercises](https://i.imgur.com/H9IH3XB.jpg) - Ab Exercise Diagram
 * [fastnfitness](https://github.com/brodeurlv/fastnfitness) - Track Your Exercise Progress
 * [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) - Exercise & Activity Tracker
@@ -815,11 +821,8 @@
 * [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course 
 * [Kids Health](https://www.kidshealth.org/) - Kids Health Information
 * [openScale](https://f-droid.org/packages/com.health.openscale/) - Weight & Body Metrics Tracker
-* [Simple Science Fitness](https://ss.fitness/calculators) or [SwoleHalla](https://www.swolehalla.com/) - Fitness Calculators
 * [Effective Fitness](https://www.e-fitness.org/) - Fitness Discussion / [Discord](https://discord.gg/fitness)
 * [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE Calculator
-* [Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm) - BMI Calculator
-* [BMI Chart](https://i.imgur.com/JHJCmDM.png) - Healthy BMI Graph
 * [/r/BodyweightFitness](https://www.reddit.com/r/BodyweightFitness) - Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)
 * [Start Bodyweight](http://www.startbodyweight.com/) - Bodyweight Training
 * [Bodyweight Fitness Progressions](https://docs.google.com/spreadsheets/d/1a8tlZ-zbF695HA3Lmm20OIYeYYxo1lmUOczUXKLoL4s/)
@@ -853,13 +856,10 @@
 * [Tone-Deafness Test](https://www.themusiclab.org/quizzes/td) - Pitch Perception Test
 * [PainSpot](https://www.painspot.com/) - Pain Cause Identifier
 * [INCIDecoder](https://incidecoder.com/) - Skincare Ingredient Lists
-* [Caffeine Calculator](https://caffeineinformer.com/death-by-caffeine) - Caffeine Calculator
-* [Dehydration Color Chart](https://i.imgur.com/PpDgo5j.png) - Urine Color Dehydration Chart
 * [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - Remedies for Sores on Tongue
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - Interactive Self Care Guide
 * [deskspace](https://npckc.itch.io/deskspace) - Self-Care App
 * [Rimads](https://rimads.ai/) - Health Product Ordering App
-* [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information & Side Effects
 * [DrugFree](https://drugfree.org/) - Drug Abuse Prevention & Recovery Help
 * [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - Mindfulness / Stress Reduction Tips
 * [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
