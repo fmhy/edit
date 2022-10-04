@@ -1091,7 +1091,8 @@
 * [cda-hd](https://cda-hd.cc/) - Movies / TV
 * [filman.cc](https://filman.cc/) - Movies / TV
 * [Ekino-TV](https://ekino-tv.pl/) - Movies / TV
-* [wbijam]( https://wbijam.pl/) - Anime
+* [Shinden](https://shinden.pl/) - Anime / [Discord](https://discord.gg/xyH5uS6)
+* [wbijam](https://wbijam.pl/) - Anime
 * [Anime Odcinki](https://anime-odcinki.pl/) - Anime
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 
