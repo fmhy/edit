@@ -626,6 +626,7 @@
 * [TheConversation](https://theconversation.com/) - News
 * [Reuters](https://www.reuters.com/) - News
 * [Good News Network](https://www.goodnewsnetwork.org/) - Uplifting News
+* [Health News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_health_news) - Health News
 * [Top Stories](https://murmel.social/top) - Top Twitter News  
 * [TXT Radio](http://beta.txtradio.live/) - News Text Radio
 * [PublicAlerts](https://google.org/publicalerts) - Important News / Disaster Alerts
@@ -788,7 +789,7 @@
 # ►  Health
 
 * **[Awesome Health](https://github.com/lalaithan/awesome-health)** - Health Resources Index
-* **[JamanNetwork](https://jamanetwork.com/)**, [medicinenet](https://www.medicinenet.com/), [medpagetoday](https://www.medpagetoday.com/), [everydayhealth](https://www.everydayhealth.com/), [medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/), [webmd](https://www.webmd.com/) - Health News
+* **[Health News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_health_news)** - Health News Sites
 * **[/r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
 * **[MyPlate](https://www.myplate.gov/)** - Food Pyramid
 * **[Caffeine Calculator](https://caffeineinformer.com/death-by-caffeine)** - Caffeine Calculator
