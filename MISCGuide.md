@@ -787,9 +787,9 @@
 
 # ►  Health
 
-* **[/r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
 * **[Awesome Health](https://github.com/lalaithan/awesome-health)** - Health Resources Index
 * **[JamanNetwork](https://jamanetwork.com/)**, [medicinenet](https://www.medicinenet.com/), [medpagetoday](https://www.medpagetoday.com/), [everydayhealth](https://www.everydayhealth.com/), [medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/), [webmd](https://www.webmd.com/) - Health News
+* **[/r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
 * **[MyPlate](https://www.myplate.gov/)** - Food Pyramid
 * **[Caffeine Calculator](https://caffeineinformer.com/death-by-caffeine)** - Caffeine Calculator
 * **[Dehydration Color Chart](https://i.imgur.com/PpDgo5j.png)** - Urine Color Dehydration Chart
