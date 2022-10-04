@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/Qz5ADdf.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/zxmTjo0.png)** - For mobile users
 
 ***
 ***
@@ -875,6 +875,12 @@ Manhua
 #### Graphic Design Tools
 
 **[Canva Pro](https://teletype.in/@blooem/canvapro)**, [Design Cap](https://www.designcap.com/), [Gravit Designer](https://www.designer.io/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Canva](http://canva.com/), [Stencil](https://getstencil.com/), [Design Studio](https://designstudio.smallseotools.com/), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/), [Emaze](https://www.emaze.com/), [ArtBoard](https://artboard.studio/), [Glitterly](https://glitterly.app/), [VistaCreate](https://create.vista.com/), [PosterMyWall](https://www.postermywall.com/), [Pixelied](https://pixelied.com/), [blush]( https://blush.design/)
+
+***
+
+#### Health News
+
+**[JamanNetwork](https://jamanetwork.com/)**, [medicinenet](https://www.medicinenet.com/), [medpagetoday](https://www.medpagetoday.com/), [everydayhealth](https://www.everydayhealth.com/), [medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/), [webmd](https://www.webmd.com/)
 
 ***
 
