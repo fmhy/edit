@@ -1072,11 +1072,11 @@
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Telegram Link Shortener Bot 
 * [suri](https://github.com/jstayton/suri), [urlhum](https://urlhum.com/) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Deployed Link Shortener
 * [shrtcode](https://shrtco.de/tools/) or [cuttly](https://cutt.ly/) - Multiple URL Tools
+* [W.A.R. Links Checker Premium](http://usa.x10host.com/mybb/showthread.php?tid=88) - Checks If File Links are Alive or Not
 * [Open Bulk URL](https://openbulkurl.com/) or [OpenAllURLs](https://www.openallurls.com/) - URL Bulk Opener
 * [ListURLs](https://listurls.com/) - URL List Generator
 * [CheckServer](https://check-host.net/), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - Site Monitoring Tools
 * [CrowdTangle](https://apps.crowdtangle.com/chrome-extension) - Check Where Links Have Been Shared
-* [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MxToolbox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/) or [BillCipher](https://github.com/84KaliPleXon3/BillCipher) - Domain Info Lookup Tool
 * [SpyOffers](https://www.spyoffers.com/) - Affiliate Link Checker
 * [Dereferer](https://dereferer.me/) - Derefer / Anonymize Links
 * [Link-Lock](https://rekulous.github.io/link-lock/) - Encrypt & Decrypt Links with Passwords
@@ -1089,12 +1089,11 @@
 * [QR Code Generator](https://www.qr-code-generator.com/), [2qr](https://2qr.info/) or [link-to-qr](https://link-to-qr.com/) - QR Code Generator For URLs / Text 
 * [AnyImage](https://anyimage.io/) - Create Social Card Links
 * [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - Custom URL Handler
-* [Xenu-Link](http://home.snafu.de/tilman/xenulink.html), [Lychee](https://github.com/lycheeverse/lychee), [Cyotek-Webcopy](https://www.cyotek.com/cyotek-webcopy), [Dead Link Checker](https://www.deadlinkchecker.com/) or [Broken Link Checker](https://brokenlinkcheck.com/broken-links.php) - Broken Link Checker
-* [W.A.R. Links Checker Premium](http://usa.x10host.com/mybb/showthread.php?tid=88) - Checks If File Links are Alive or Not
-* [SafeLinking](https://safelinking.net/), [bdwp](https://imwcr.cn/api/bdwp/), [Gdrivez](https://www.gdrivez.xyz/), [UpToLink](https://uptolink1.com/), [TSU.one](https://tsu.one/), [externallink](https://externallink.xyz/), [linkspop](https://linkspop.info/), [BrBushare](https://brbushare.xyz/), [KeepLinks](https://www.keeplinks.org/) or [ShortLinkto](https://shortlinkto.top/) - Link Protectors 
-* [WhoIsRequest](https://whoisrequest.com/), [Rankchart](https://rankchart.org/tools/) or [Securrity Whoiz](http://www.securrity.ru/whoiz.html) - Domain Information Lookup
-* [Awesome Piracy Bot](https://github.com/Igglybuff/awesome-piracy-bot) - URL Scraping Tool
+* [Broken Link Checkers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_broken_link_checkers) - Check Lists of Links for Dead Sites
+* [Link Protectors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_link_protectors) - Secure / Monitor Links
+* [Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools) - Domain Information Lookup Tools
 * [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - DNS Information Tool
+* [Awesome Piracy Bot](https://github.com/Igglybuff/awesome-piracy-bot) - URL Scraping Tools
 * [Site Worth Traffic](https://www.siteworthtraffic.com/) - Calculate Website Worth
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
 * [CarbonDates](http://carbondate.cs.odu.edu/) - Check Site Creation Date 
