@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/zxmTjo0.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/jcqeUgD.png)** - For mobile users
 
 ***
 ***
@@ -248,6 +248,12 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ***
 
+#### Broken Link Checkers
+
+[Xenu-Link](http://home.snafu.de/tilman/xenulink.html), [Lychee](https://github.com/lycheeverse/lychee), [Cyotek-Webcopy](https://www.cyotek.com/cyotek-webcopy), [Dead Link Checker](https://www.deadlinkchecker.com/), [Broken Link Checker](https://brokenlinkcheck.com/broken-links.php)
+
+***
+
 #### Browser EBook Readers
 
 [fViewer](https://www.fviewer.com/), [Reader View](https://add0n.com/chrome-reader-view.html) / [2](https://mybrowseraddon.com/reader-view.html), [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/), [EpubPress](https://epub.press/), [ePubReader](https://www.epubread.com/en/), [Mercury](https://mercury.postlight.com/), [LoudReader](https://www.loudreader.com/), [ReadWok](https://readwok.com/), [2read](https://2read.net/), [Reader Mode](https://readermode.io/), [ePub Reader Online](https://www.ofoct.com/viewer/epub-reader-online.html), [ebook.web](https://ttu-ebook.web.app/)
@@ -480,6 +486,12 @@ Manhua
 
 ***
 
+#### Domain Info Tools
+
+[WhoIsRequest](https://whoisrequest.com/), [Rankchart](https://rankchart.org/tools/), [Securrity Whoiz](http://www.securrity.ru/whoiz.html), [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MxToolbox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/), [whois.ipip](https://whois.ipip.net/), [BillCipher](https://github.com/84KaliPleXon3/BillCipher)
+
+***
+
 #### DOS Games
 
 [DOSGamesLibrary](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS Haven](http://www.doshaven.eu/), [The Software Library](https://archive.org/details/softwarelibrary_msdos), [Best Old Games](http://www.bestoldgames.net/eng/), [DosGames](https://dosgames.com/), [PlayDOSGames](https://www.playdosgames.com/), [DOS Haven](http://www.doshaven.eu/), [ClassicDOSGames](https://www.classicdosgames.com/), [AbandonwareDOS](https://www.abandonwaredos.com/), [DOSGames](https://www.dosgames.com/), [zczc](https://dos.zczc.cz/) (Chinese)
@@ -602,12 +614,16 @@ Manhua
 
 #### Free DNS Servers
 
+* https://www.publicdns.xyz/
 * https://www.wikileaks.org/wiki/Alternative_DNS
 * https://www.cloudns.net/
 * https://dns.he.net/
 * https://www.dnspod.com/
+* https://acavalin.com/p/free_dns
 * https://www.luadns.com/
 * https://dynu.com/
+* https://blog.uncensoreddns.org/dns-servers/
+* https://wiki.ipfire.org/dns/public-servers
 * https://www.1984.is/product/freedns/
 * https://www.namecheap.com/domains/freedns/
 * https://zilore.com/en/dns
@@ -702,7 +718,7 @@ Manhua
 
 * **[JDownloader](https://jdownloader.org/jdownloader2)** / [Dark Theme](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/), [2](https://redd.it/q3xrgj), [3](https://draculatheme.com/jdownloader2) / [Debloat](https://rentry.org/jdownloader2), [2](https://rentry.org/jdownloader2opt) / [Captcha Solver](https://github.com/cracker0dks/CaptchaSolver)
 * [Motrix](https://www.motrix.app/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/motrixwebextension/) / [Chrome](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix)
-* [IDM](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_idm) / [IDMHelper](https://github.com/unamer/IDMHelper) / [Trial Reset](https://github.com/J2TEAM/idm-trial-reset) / [Fix](https://libredd.it/r/Piracy/comments/fe8l96/idm_trial_reset_not_working_anymore_what_now/fjmxjdk/)
+* [IDM](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_idm) / [IDMHelper](https://github.com/unamer/IDMHelper) / [Trial Reset](https://github.com/J2TEAM/idm-trial-reset)
 * [XDM](https://github.com/subhra74/xdm), [2](https://subhra74.github.io/xdm/)
 * [pyLoad](https://pyload.net/)
 * [wfdownloader](https://www.wfdownloader.xyz/)
@@ -1153,6 +1169,12 @@ Manhua
 * http://libgen.lc/
 * http://libgen.li/
 * https://libgen.fun/
+
+***
+
+#### Link Protectors 
+
+[SafeLinking](https://safelinking.net/), [bdwp](https://imwcr.cn/api/bdwp/), [Gdrivez](https://www.gdrivez.xyz/), [UpToLink](https://uptolink1.com/), [TSU.one](https://tsu.one/), [externallink](https://externallink.xyz/), [linkspop](https://linkspop.info/), [BrBushare](https://brbushare.xyz/), [KeepLinks](https://www.keeplinks.org/), [ShortLinkto](https://shortlinkto.top/)
 
 ***
 
@@ -1856,7 +1878,7 @@ Hosters: https://pastebin.com/AUqx5N3X) / [Hosters](https://pastebin.com/AUqx5N3
 
 **Live Radio** 
 
-[iHeartRadio](https://www.iheart.com/), [Radio.com](https://www.radio.com/stations), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/), [WebSDR](http://www.websdr.org/), [System Bus Radio](https://fulldecent.github.io/system-bus-radio/), [myTuner](https://mytuner-radio.com/), [Radio Browser](https://www.radio-browser.info/), [Deep Web Radio](http://anonyradixhkgh5myfrkarggfnmdzzhhcgoy2v66uf7sml27to5n2tid.onion/), [Zeno](https://zeno.fm/), [TuneYou](https://tuneyou.com/), [Tvradiotuner](https://tvradiotuner.com/), [Instant.audio](https://instant.audio/), [Radiodeck](https://www.radiodeck.com/), [VRadio](http://www.akouradio.com/), [WorldRadioMap](https://worldradiomap.com/), [Streema](https://streema.com/), [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp), [Radio.net](https://www.radio.net/), [TheOneStopRadio](https://theonestopradio.com/), [Radio Guide](https://www.radioguide.fm/)
+[iHeartRadio](https://www.iheart.com/), [Radio.com](https://www.radio.com/stations), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/), [WebSDR](http://www.websdr.org/), [System Bus Radio](https://fulldecent.github.io/system-bus-radio/), [myTuner](https://mytuner-radio.com/), [Radio Browser](https://www.radio-browser.info/), [Deep Web Radio](http://anonyradixhkgh5myfrkarggfnmdzzhhcgoy2v66uf7sml27to5n2tid.onion/), [Zeno](https://zeno.fm/), [TuneYou](https://tuneyou.com/), [Tvradiotuner](https://tvradiotuner.com/), [Instant.audio](https://instant.audio/), [Radiodeck](https://www.radiodeck.com/), [VRadio](http://www.akouradio.com/), [WorldRadioMap](https://worldradiomap.com/), [Streema](https://streema.com/), [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp), [Radio.net](https://www.radio.net/), [TheOneStopRadio](https://theonestopradio.com/), [Radio Guide](https://www.radioguide.fm/), [Xiph](https://dir.xiph.org/)
 
 **Internet Radio** 
 
@@ -1894,7 +1916,7 @@ Hosters: https://pastebin.com/AUqx5N3X) / [Hosters](https://pastebin.com/AUqx5N3
 
 #### Reddit Frontends
 
-[xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [libreddit](https://libredd.it/) / [2](https://github.com/spikecodes/libreddit), [Saturnus](https://saturnusapp.com/), [Inccogsnoo](https://incogsnoo.com/), [teddit](https://teddit.net/) / [2](https://codeberg.org/teddit/teddit), [troddit](https://www.troddit.com/), [kddit](https://kddit.kalli.st/)
+[xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [Saturnus](https://saturnusapp.com/), [Inccogsnoo](https://incogsnoo.com/), [teddit](https://teddit.net/) / [2](https://codeberg.org/teddit/teddit), [troddit](https://www.troddit.com/), [kddit](https://kddit.kalli.st/)
 
 ***
 
