@@ -1599,3 +1599,9 @@ pass: paluch
 #### Parallels
 
 `aHR0cHM6Ly9ub3RhYnVnLm9yZy9zb21lYmFzai9QYXJhbGxlbHNEZXNrdG9wQ3JhY2s=`
+
+***
+
+#### Remini
+
+`IGh0dHBzOi8vZm9ydW0ubW9iaWxpc20ub3JnL3ZpZXd0b3BpYy5waHA/Zj00MjcmdD00OTU4Mzk3`
