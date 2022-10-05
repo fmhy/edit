@@ -1593,3 +1593,9 @@ pass: paluch
 #### 500GB Graphics Collection
 
 `IGh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9maWxlL2QvMWwyenotQm0tNkx4akJzb3NnaHBObERpc2dtUzQwZjVZL3ZpZXc=`
+
+***
+
+#### Parallels
+
+`aHR0cHM6Ly9ub3RhYnVnLm9yZy9zb21lYmFzai9QYXJhbGxlbHNEZXNrdG9wQ3JhY2s=`
