@@ -241,7 +241,6 @@
 * [balenaHub](https://hub.balena.io/) - Raspberry Pi Software 
 * [CSDb](https://csdb.dk/) - Commodore 64 Resources
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - Professional Video, Audio & Adobe Software / Plugins
-* [CyberMania](https://www.cybermania.ws/) - Cracked Windows Software
 * [WLSetup-All](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wlsetup-all) - Windows Live Essentials 2012 Archive
 * [GenP](https://www.reddit.com/r/GenP) - Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)
 * [Adobe CC](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_adobe_cc) - Adobe Creative Cloud Piracy Guide
