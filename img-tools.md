@@ -102,7 +102,8 @@
 * [Color-Dragon](https://www.color-dragon.tk/) - Add more Color to Images
 * [style2paints](https://github.com/lllyasviel/style2paints) or [PaintsChainer](https://github.com/pfnet/PaintsChainer) - Lineart Colorization Tool
 * [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/) - Image Dithering
-* [depixel](https://github.com/jerith/depixel) - De-pixelization Tool 
+* [SmartDeblur](http://smartdeblur.net/index.html) or [Unshake](http://www.zen147963.zen.co.uk/index2.html) - De-blurring / Stabilization Tools
+* [depixel](https://github.com/jerith/depixel) - De-pixelization Tool
 * [Face-Depixelizer](https://github.com/tg-bomze/Face-Depixelizer) - Face De-pixelization Tool 
 * [Deep Nostalgia](http://myheritage.com/deep-nostalgia) - Animate Family Photos
 
@@ -110,7 +111,7 @@
 
 # ► Image Generation
 
-* **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk), [Generative Engine](https://experiments.runwayml.com/generative_engine/), [DALL·E Flow](https://github.com/jina-ai/dalle-flow) / [Colab](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb), [Midjourney](https://www.midjourney.com/), [StabilityAI](https://huggingface.co/spaces/stabilityai/stable-diffusion) or [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot) - AI Image Generators
+* **[AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ai_image_generators)** - Generate Images with AI
 * [hypnogram](https://hypnogram.xyz/), [AI Art Generator](https://neural.love/ai-art-generator), [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent) or [NeuralBlender](https://neuralblender.com/) - AI Art Generators
 * [Random Art](http://www.random-art.org/) - Random Art Generator
 * [Chaos Machine](https://chaosmach.com/) - Random Graphic Generator
@@ -279,7 +280,7 @@
 * [dpixel](https://marcoc2.itch.io/dpixel) - Pixel Art Remastering Tool 
 * [Paint Of Persia](https://dunin.itch.io/ptop) - Rotoscoping Pixel Art Tool
 * [Dither Machine](https://lunarlabs.itch.io/dither-machine) - Pixel Art Dithering Creator
-* [PixelMe](https://pixel-me.tokyo/en/), [Pixelator](https://ronenness.itch.io/pixelator) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - Turn Photos into Pixel Art 
+* [PixelMe](https://pixel-me.tokyo/en/), [Pixel It](https://giventofly.github.io/pixelit/), [Pixelator](https://ronenness.itch.io/pixelator), [Img8Bit](https://img8bit.com/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - Image to Pixelart Converters
 * [Pixelorama](https://orama-interactive.itch.io/pixelorama) - 2D Sprite Editor
 * [Pixelart 3D Painting](https://lampysprites.itch.io/pribambase) - 3D Pixel Art Painting
 * [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) , [Pixel Sprite](https://deep-fold.itch.io/pixel-sprite-generator) or [Creature Mixer](https://kenney.itch.io/creature-mixer) - Sprite Generator
