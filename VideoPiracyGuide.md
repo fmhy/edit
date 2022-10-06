@@ -42,6 +42,7 @@
 * [Gophie](https://gophie.cam/) - Movies / TV
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - Movies / TV / Anime
 * [Tubi](https://tubitv.com) - Movies / TV / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
+* [Archive](https://archive.org/) - Movies / TV
 * [Plex](https://watch.plex.tv/) - Movies / TV
 * [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / Library Card Required
 * [arthemis](https://web.arthemis.xyz/) - Movies / TV / Anime / App / [Discord](https://discord.gg/98HxbfjKQV)
@@ -71,6 +72,7 @@
 * [MoviesJoy](https://moviesjoy.best/) - Movies / TV
 * [VidStore](https://stream.vidzstore.com/) - Movies
 * [MoviesUnlocked](https://moviesunlocked.com/) - Movies
+* [0xDB](https://0xdb.org/) - Movies / [How-to](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies#wiki_method_2_-_streaming)
 * [162.12.215.254](http://162.12.215.254/) - Movies
 * [aflaam](https://aflaam.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Tainio-Mania](https://tainio-mania.online/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -110,7 +112,6 @@
 * **[Movolo](https://movolo.vercel.app/)** - Movies / TV
 * **[xpWatch](https://xpwatch.vercel.app/)** - Movies / TV / Anime
 * **[HiMovies](https://www3.himovies.to/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)
-* **[PtFlixMovies](https://ptflixmovies.xyz/)** - Movies / TV / Anime
 * **[Movie-Forum](https://movie-forum.co/forum.php)** - Movies / TV
 * [IceFilms](https://icefilms.tv/) - Movies / TV
 * [AZMovies](https://azms.to/) - Movies
