@@ -70,7 +70,7 @@
 * [SuperFreezZ](https://superfreezz.gitlab.io/) or [Drowser](https://gitlab.com/juanitobananas/drowser) - Freeze App Background Activities
 * [SnoopSnitch](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/) - Check Mobile Network Security 
 * [SimpleLogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/) - Email Forwarding
-* [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/) - Temp Mail / [GitLab](https://gitlab.com/TheOneWithTheBraid/guerrilla_mail)
+* [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/), [Temp Mail](https://play.google.com/store/apps/details?id=temporary.disposable.mail), [Ten Minute Mail](https://play.google.com/store/apps/details?id=com.tenminutemail) or [‎InstAddr](https://play.google.com/store/apps/details?id=air.kukulive.mailnow) - Temp Mail Clients
 * [Private Location](https://f-droid.org/en/packages/com.wesaphzt.privatelocation/) - Hide Phone Location Permanently
 * [Fake GPS Location](https://play.google.com/store/apps/details?id=com.evezzon.fakegps) or [GPS JoyStick Guide](http://gpsjoystick.theappninjas.com/faq/) - Fake GPS Location 
 * [RadiusLocker](https://www.radiuslocker.co/) - Lock Phone When its not Near You
@@ -217,8 +217,9 @@
 * [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - Audio Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
 * [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistant  
-* [KeyMapper](https://github.com/keymapperorg/KeyMapper) - Key Mapper 
+* [KeyMapper](https://github.com/keymapperorg/KeyMapper) - Key Mapper
 * [openboard](https://github.com/dslul/openboard) - FOSS Keyboard App
+* [UnicodePad](https://github.com/Ryosuke839/UnicodePad) - Emoji / Unicode Manager
 * [KeePassDX](https://www.keepassdx.com/), [AuthPass](https://authpass.app/) or [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - Password Managers
 * [Clipboarded](https://f-droid.org/en/packages/com.trianguloy.clipboardeditor/) - Clipboard Manager
 * [Grammarly](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_grammarly_keyboard_premium) - Grammarly Keyboard Premium 
@@ -294,6 +295,7 @@
 * [PhotoSync](https://www.photosync-app.com/home.html) - Transfer Photos Between Devices
 * [APhotoManager](https://github.com/k3b/APhotoManager/) - Create Photo Map
 * [Pixomatic](https://pixomatic.us/) - Image Editor
+* [VES](https://f-droid.org/packages/com.vincentengelsoftware.vesandroidimagecompare/) - Compare Two Images
 * [PhotoRoom](https://www.photoroom.com/) - Background Remover
 * [Dittoed](https://dittoed.app/) - Improve Image Composition
 * [Pixelify-Google-Photos](https://github.com/BaltiApps/Pixelify-Google-Photos) - Add Google Pixel Features to Google Photos
@@ -301,20 +303,20 @@
 * [ANXCamera](https://camera.aeonax.com/) - Miui Camera Port 
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)
 * [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play) or [Code Scanner](https://github.com/czlucius/code-scanner) - QR / Barcode Scanner
-* [Colorize It](https://play.google.com/store/apps/details?id=com.reaimagine.colorizeit) - Colorize Images
+* [Colorize It](https://play.google.com/store/apps/details?id=com.reaimagine.colorizeit) or [Remini](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_remini) / [2](https://play.google.com/store/apps/details?id=com.photoscan.enhancer.remini.photomyne.colorize.scanner) - Colorize Images
 * [Dream](https://www.wombo.art/) - Dream Artwork Tools
 * [Photo Lab](https://ilixa.com/8bitphotolab.php) - Give Images a Retro Look 8Bit
 * [starryai](https://play.google.com/store/apps/details?id=com.starryai) - Generate Art from Text Prompt
 * [Photo Resizer](https://play.google.com/store/apps/details?id=com.simplemobilephotoresizer&hl=en&gl=US) - Image Resizer
 * [Imagepipe](https://codeberg.org/Starfish/Imagepipe) - Image Size Reducer
-* [Upscaler](https://play.google.com/store/apps/details?id=com.ethanzone.upscaler&hl=en_US&gl=QA) or [Galaxy Enhance-X](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/galaxy-enhance-x/) - Image Upscaler
+* [Upscaler](https://play.google.com/store/apps/details?id=com.ethanzone.upscaler&hl=en_US&gl=QA), [Pixelup](https://play.google.com/store/apps/details?id=com.codeway.pixelup), [MintAI](https://play.google.com/store/apps/details?id=com.mingkun.mintAI) or [Galaxy Enhance-X](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/galaxy-enhance-x/) - Image Upscalers
 * [LosesslessJpgCrop](https://github.com/k3b/LosslessJpgCrop) - Lossless Image Cropper
 * [Image Searcher](https://play.google.com/store/apps/details?id=sansunsen3.imagesearcher) - Image Search App
 * [AppMockUp](https://app-mockup.com/) - Screenshot Builder
 * [ScreenshotFlow](https://screenshotflow.com/) - Create App Diagrams
 * [ScreenshotFramer](https://play.google.com/store/apps/details?id=com.logicui.screenshotframer) or [SnapMod](https://play.google.com/store/apps/details?id=cn.gavinliu.snapmod) - Frame Screenshots
 * [QuiverVision](https://quivervision.com/) - Augmented Reality Coloring
-* [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix ) - Combine Emojis
+* [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix) - Combine Emojis
 * [background video recorder](https://play.google.com/store/apps/details?id=com.camera.secretvideorecorder) - Record Videos in Background
 * [Jitsi](https://jitsi.org/) or [IMO](http://imo.im/) - Video Chat
 * [RemoteVideoCam](https://github.com/izivkov/RemoteVideoCam) - Video Lan
@@ -391,7 +393,7 @@
 * [KONTXT](https://play.google.com/store/apps/details?id=com.realnetworks.kontxt.voice&hl=en&gl=US) - Preview Calls
 * [SimpleMail](https://framagit.org/dystopia-project/simple-email) or [FairCode](https://email.faircode.eu/) - Email App 
 * [BlitzMail](https://github.com/grote/BlitzMail) - One Click Email App
-* [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957) - Disposable Email Client
+* [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957) - Temp Email Client
 * [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) - Multi-Calculator App
 * [Get Unstuck](https://socratic.org/) - Homework Answers / Help 
 * [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - To-Do List Apps
@@ -749,7 +751,8 @@
 * [Soundiiz](https://play.google.com/store/apps/details?id=fr.brickoft.soundiiz) - Transfer Playlists Between Streaming Platforms
 * [MP3 Tagger](https://play.google.com/store/apps/details?id=com.fillobotto.mp3tagger) - Automatic Audio ID3 Tagging
 * [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizer
-* [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) - Headphone Audio Equalizer 
+* [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) - Headphone Audio Equalizer
+* [GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient) - Galaxy Buds Manager
 * [Voleq](https://play.google.com/store/apps/details?id=com.veryclevernamecompany.voleq) - Volume Equalizer
 * [Audify](https://play.google.com/store/apps/details?id=in.codeseed.audify) - Reduce Notification Distractions
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - Identify Playing Songs
