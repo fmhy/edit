@@ -565,7 +565,6 @@
 * [Mkv Cinemas](https://www.mkvcinemas.fi/) - Movies / TV 
 * [9xMovies](https://9xmovies.yoga/), [2](https://9xmovies.horse/) - Movies / TV 
 * [OlaMovies](https://olamovies.lol/) - Movies / TV / [Telegram](https://t.me/olamovies_official_v2) 
-* [VegaMovies](https://m.vegamovies.lol/) - Movies / [Telegram](https://t.me/Vegamoviesgroup2)
 * [MoviesVerse](https://moviezverse.com/) - Movies / TV / [Telegram](https://t.me/moviesflixverse) 
 * [MKV Mad](https://www.mkvmad.shop/) - Movies / TV
 * [WorldFree4U](https://worldfree4u.onl/) - Movies / TV
@@ -589,6 +588,7 @@
 * [PrMovies](https://prmovies.homes/) or [yomovies](https://yomovies.rs/) - Movies / TV / Anime / [Telegram](https://t.me/+VozFopt7yyE4Y2Fl)
 * [Bolly4u](https://bolly4u.onl/) - Movies
 * [9xflix](https://9xflix.skin/) - Movies
+* [vegamovies](https://vegamovies.monster/) - Movies / TV
 * [ExtraMovies](https://extramovies.loan/) - Movies
 * [RemaxHD](https://remaxhd.live/) - Movies / TV
 * [AnimeAcademy](https://animeacademy.in/) - Anime
@@ -1399,6 +1399,7 @@
 * [Kribrum](https://kribrum.io/search) - Social Media Search Engine
 * [topsites](https://topsites.name/) - Russian Site Index
 * [EDA](https://eda.ru/) - Recipes
+* [teksti-pesenok](https://m.teksti-pesenok.pro/) - Lyrics
 * [WASM](https://www.wasm.in/) - Web Assembly Forum
 * [Ok.ru](https://ok.ru/), [VK](http://vk.com/), [MyMail](https://my.mail.ru/), [TenChat](https://tenchat.ru/) or [RUTube](https://rutube.ru/) - Russian Social Networks
 * [GitFlic](https://gitflic.ru/) - Russian Github
@@ -2108,7 +2109,7 @@
 * [ittefaq](https://www.ittefaq.com.bd/), [dainikamadershomoy](https://www.dainikamadershomoy.com/), [kalerkantho](https://www.kalerkantho.com/), [24livenewspaper](https://www.bangla.24livenewspaper.com/), [samakal](https://samakal.com/) or [prothomalo](https://www.prothomalo.com/) - Bangla Newspapers
 * [DJPunjab](https://djpunjab.is/) - Punjabi / Download / MP3
 * [Paper](https://paper.naya.com.np/) - Nepali Text Tools
-* [Ethio Terka](https://t.me/ethio_terka) - Amharic / Books
+* [Ethio Terka](https://t.me/ethio_terka), [amharicbookss](https://t.me/amharicbookss) or [GeezLibraryMembers](https://t.me/GeezLibraryMembers) - Amharic / Books
 * [Redzidzirdilatviju](http://www.redzidzirdilatviju.lv/en/) - Latvian / Documents
 * [Machine Learning ka Chilla](https://www.youtube.com/playlist?list=PL9XvIvvVL50HHzaLPtFBOuikAWa0JdhMW) - Urdu / Machine Learning Course 
 * [WiiDatabase](https://wiidatabase.de/) - Deutsch / Nintendo Homebrew
