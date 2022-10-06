@@ -16,7 +16,8 @@
 * **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Courses / Infinite trial by clearing cookies & making new account
 * **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive [Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_freecodechamp_archive) / [GitHub](https://github.com/freeCodeCamp/freeCodeCamp)
 *  **[Free Courses by Xemu](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_free_courses_by_xemu)** or [Programming Course Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_programming_course_drives) - Programming Course Drives
-* **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - Read / Download Programming Books 
+* **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - Read / Download Programming Books
+* [Git Tutorial](https://4geeksacademy.github.io/git-interactive-tutorial/) - Interactive Git Tutorial
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - Git Learning Game
 * [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Github Cheat Sheet
 * [First Timers Only](https://www.firsttimersonly.com/) - Git Code Contribution Guides
@@ -162,12 +163,15 @@
 * [Agernic](https://www.agernic.com/) - Web Design Courses
 * [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) - Interactive Web Design Tutorial
 * [backendlore](https://github.com/fpereiro/backendlore) - Backend Coding Guide
+* [backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - Backend Challenges
 * [PHP: The Right Way](https://phptherightway.com/) or [PHP Tutorial](https://www.phptutorial.net/) - PHP Guides
 * [UI & Web Design using Adobe Illustrator C](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ui_.26amp.3B_web_design_using_adobe_illustrator_c) - UI & Webdesign Course
 * [Learn UI Design](https://learnui.design/) - UI Design Course
 * [UXTools](https://uxtools.co/) or [UXMovement](https://uxmovement.com/) - Learn UX Design
 * [SitePoint](https://www.sitepoint.com/) - UX Design Courses & Books
-* [FrontEndMentor](https://www.frontendmentor.io/) - UX Design Challenges
+* [FrontEndMentor](https://www.frontendmentor.io/) or [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) - Frontend Design Challenges
+* [Frontend Learning Kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend Learning Index
+* [Frontend Bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop
 * [Design Pattern for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Guide on Design Patterns
 * [Web Skills](https://andreasbm.github.io/web-skills/) or [Encodedna](https://www.encodedna.com/) - Web Development Guides
 * [LearningSEO](https://learningseo.io/) - SEO Guides
@@ -412,7 +416,7 @@
 * [GHH](http://ghh.sourceforge.net/) or [IP Intelligence](http://getipintel.net/) - Malicious Web Traffic Protection
 * [VanwaTech](https://vanwa.tech/cdn) - Smart CDN
 * [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTP Sites Leak Information
-* [DNSDumpster](https://dnsdumpster.com/) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security
+* [DNSDumpster](https://dnsdumpster.com/), [DNS Watch](https://dnswatch.info) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security
 * [WebScarab](https://wiki.owasp.org/index.php/Category:OWASP_WebScarab_Project) - HTTP / HTTPS Protocol Analysis
 * [Plow](https://github.com/six-ddc/plow) - HTTP Benchmarking
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - Front-End Checklist 
