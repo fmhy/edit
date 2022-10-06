@@ -220,7 +220,7 @@
 * [Tails](https://tails.boum.org/) or [Qubes](https://www.qubes-os.org/) - Privacy-Based Operating Systems
 * [Track This]( https://trackthis.link/) - Confuse Personal Advertising by opening 100 tabs 
 * [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) - Cryptography Resources
-* [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete) - Secure File Deletion
+* [Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_drive_formatting_.2F_file_deletion) - Wipe / Overwrite Hard Drive Data 
 * [VeraCrypt](https://www.veracrypt.fr/en/Home.html) or [CryptSetup](https://gitlab.com/cryptsetup/cryptsetup) - Disk Encryption Software
 * [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition 
 * [Cryptomator](https://cryptomator.org/), [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
@@ -243,7 +243,6 @@
 * [Anonymouth](https://github.com/psal/anonymouth) - Document Anonymization Tool 
 * [How-to Buy Bitcoin Anonymously](https://coinsutra.com/buy-bitcoin-with-prepaid-card/)
 * [USBKill](https://github.com/hephaest0s/usbkill) - Anti-Forensic Kill-Switch
-* [Eraser](https://eraser.heidi.ie/) or [Lethe](https://github.com/rafael-santiago/lethe) - Wipe / Overwrite Hard Drive Data 
 * [Free Hide Folder](https://www.cleanersoft.com/hidefolder/free_hide_folder.htm) or [Wise Folder Hider](http://www.wisecleaner.com/wise-folder-hider-free.html) - Hide Folders / Files 
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - Run a Oracle VM on TailsOS
 * [Mastodon](https://joinmastodon.org/), [diaspora](https://diasporafoundation.org/) / [2](https://diasp.org/), [MissKey](https://join.misskey.page/en/), [Pleroma](https://pleroma.social/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendi](https://friendi.ca/) or [Zotlabs](https://zotlabs.org/page/hubzilla/hubzilla-project) - Decentralized Social Networks
