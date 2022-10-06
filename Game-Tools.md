@@ -124,7 +124,7 @@
 * [Playground](https://www.playground.ru/) - Mods, Artbooks, Soundtracks, Cheats & more
 * [Game Currency Conversion Rates](https://docs.google.com/spreadsheets/d/1tcxiGbCIktMDqxGZleHDC5s100tsY7VCTpXUSIkoNFQ/edit) - Convert In-Game Currency to Real Currency
 * [r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/) - Find Games from Screenshot or Description
-* [GameGuides](https://www.gamerguides.com/), [Retro Game Strategy Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_retro_game_strategy_guides), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [GamePressure](https://www.gamepressure.com/) or [Samurai Gamers](https://samurai-gamers.com/) - Strategy Guides & Walkthroughs
+* [GameGuides](https://www.gamerguides.com/), [Retro Game Strategy Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_retro_game_strategy_guides), [Game8](https://game8.co/), [StrategyWiki](https://strategywiki.org/), [GamePressure](https://www.gamepressure.com/), [Beebom](https://beebom.com/), [ItStillWorks](https://itstillworks.com) or [Samurai Gamers](https://samurai-gamers.com/) - Strategy Guides & Walkthroughs
 * [LP Archives](https://lparchive.org/) - Let's Play Archive
 * [TwitchArchive](https://twitcharchive.com/) - Twitch Video Archive
 * [Before I Play](http://www.beforeiplay.com/) - Tips for any Game 
