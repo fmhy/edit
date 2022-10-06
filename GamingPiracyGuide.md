@@ -39,7 +39,7 @@
 * [Game3rb](https://game3rb.com/)
 * [GetGamez](https://getgamez.net/) - [Discord](https://discord.com/invite/tNhPmCU)
 * [Le Fishe Repacks](https://discord.gg/W3MfGDXhAS)
-* [ElAmigos](https://elamigos.site/), [2](https://www.elamigos-games.com/) 
+* [ElAmigos](https://elamigos.site/)
 * [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
 * [-tARA Repacks](https://t4x4.github.io/)
 * [GLoad](https://gload.to/)
@@ -107,7 +107,7 @@
 * **[FitGirl Repacks](https://fitgirl-repacks.site/)** - [Discord](https://discord.gg/Up3YARe4RW)
 * **[DODI](http://dodi-repacks.site/)** - [Discord](https://discord.gg/uE273qJ)
 * **[ScOOter Repacks](https://scooter-repacks.site/)** - [Discord](https://discord.gg/BWKyN8SgvM)
-* **[ElAmigos Games](https://elamigos.site/)**, [2](https://www.elamigos-games.com/) 
+* **[ElAmigos Games](https://elamigos.site/)**
 * **[Xatab Repack](https://b.otxataba.net/)**, [2](https://s1.otxatabanet.ru/), [3](https://m.byxatab.com/)
 * **[RePack.info](https://repack.info/)**
 * **[Tuttop](https://tuttop.com/)** 
@@ -442,6 +442,7 @@
 * [FOG](https://www.freeonlinegames.com/) 
 * [RoundGames](https://www.roundgames.com/)
 * [Radon Games](https://radon-games.glitch.me/)
+* [Snokido](https://www.snokido.com)
 * [2amGames](http://www.2amgames.com/)
 * [Game Game](https://game-game.com/)
 * [ArcadeSpot](https://arcadespot.com/)
@@ -457,6 +458,7 @@
 * [GameKB](https://www.gamekb.com/)
 * [Andkon](http://andkon.com/arcade/) 
 * [DAN-BALL](http://dan-ball.jp/en/)
+* [Play-Games](https://play-games.com)
 * [KBHGames](https://kbhgames.com/)
 * [Unity3DGames](http://www.unity3dgames.net/)
 * [FreeGames](https://freegames.org/) 
