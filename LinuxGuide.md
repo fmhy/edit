@@ -279,7 +279,7 @@
 * [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
 * [Twilio Authy](https://snapcraft.io/authy) - Linux Two-Factor Authentication
 * [Lockigest](https://github.com/elmsec/lockigest) - Screen Locker
-* [Menu Searx](https://github.com/MossyMossMoss/menu-searx) - SearX Search Tool 
+* [Menu Searx](https://github.com/MossyMossMoss/menu-searx) - SearX Search Tool
 * [Mistborn](https://gitlab.com/cyber5k/mistborn) - Manage Cloud Security Apps
 * [OpenSnitch](https://github.com/evilsocket/opensnitch) or [Gufw](http://gufw.org/) - Linux Firewall
 * [Tracee](https://github.com/aquasecurity/tracee) - Runtime Security and Forensics
@@ -290,7 +290,7 @@
 * [Tomb](https://www.dyne.org/software/tomb/) - File Encryption
 * [Collision](https://flathub.org/apps/details/dev.geopjr.Collision) - Check File Hashes
 * [WhoAmI Project](https://whoamiproject.tech/) - Privacy / Anonymity Tool / [GitHub](https://github.com/owerdogan/whoami-project)
-* [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition 
+* [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS Partition
 * [SShuttle](https://github.com/sshuttle/sshuttle) - Proxy Server
 * [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Secure Linux Server Guide
 * [BhanUpratpys](https://github.com/bhanupratapys/dnswarden) - DNS Adblocking
@@ -305,17 +305,17 @@
 
 # ► Linux Software
 
-* **[Open Source Linux Programs](https://i.imgur.com/6pItvB5.png)** 
-* [Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/), [2](https://github.com/inputsh/awesome-linux), [3](https://github.com/crackerica/Awesome-Linux-Software) 
+* **[Open Source Linux Programs](https://i.imgur.com/6pItvB5.png)**
+* [Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/), [2](https://github.com/inputsh/awesome-linux), [3](https://github.com/crackerica/Awesome-Linux-Software)
 * [Flathub](https://flathub.org/)
 * [ArchLinux](https://wiki.archlinux.org/title/List_of_applications)
 * [App Outlet](https://app-outlet.github.io/)
-* [SnapCraft](https://snapcraft.io/store) 
+* [SnapCraft](https://snapcraft.io/store)
 * [tlanyan](https://tlanyan.me/)
 * [yay](https://github.com/Jguer/yay), [paru](https://github.com/morganamilo/paru) or [aura](https://github.com/aurapm/aura) - Arch User Repository Helpers
 * [KDE's Applications](https://apps.kde.org/education)
 * [Pling](https://www.pling.com/)
-* [IzzySoft Apt Repositories](https://apt.izzysoft.de/) 
+* [IzzySoft Apt Repositories](https://apt.izzysoft.de/)
 * [Awesome KDE](https://github.com/francoism90/awesome-kde)
 * [Plan9Port](https://github.com/9fans/plan9port)
 * [apps.gnome](https://apps.gnome.org/en-GB/) - GNOME Apps
@@ -398,7 +398,7 @@
 * [Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) - Spotify Mini Player
 * [Subsonic](https://github.com/twostraws/Subsonic) - SwiftUI Audio Player
 * [LimaVM](https://github.com/lima-vm/lima) - Linux VM on MacOS
-* [CrossOver](https://www.codeweavers.com/crossover) - Run Windows Programs on Mac / Infinite Free Trials
+* [Parallels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_parallels) or [CrossOver](https://www.codeweavers.com/crossover) - Run Windows Programs on Mac
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/) / [Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 * [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/) - Install New macOS on Unsupported Devices
 * [Conky](https://github.com/brndnmtthws/conky) / [Colors](https://github.com/helmuthdu/conky_colors) or [MacFetch](https://github.com/gantoreno/macfetch) - System Info / Resource Monitor
