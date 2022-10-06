@@ -143,7 +143,7 @@
 
 * **[Custom Android Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_operating_systems)**
 * **[Android Debloat Guide](https://rentry.co/debloatandroid)** or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
-* **[Magisk](https://magiskmanager.com/)** or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tool / [Mods](https://t.me/magiskmod_update) / [GitHub](https://github.com/topjohnwu/Magisk) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager) / [SafteyNet Fix](https://github.com/kdrag0n/safetynet-fix)
+* **[Magisk](https://magiskmanager.com/)** or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tool / [Mods](https://t.me/magiskmod_update) / [GitHub](https://github.com/topjohnwu/Magisk) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager) / [SafteyNet Fix](https://github.com/kdrag0n/safetynet-fix) / [Modules](https://www.androidacy.com/magisk-modules-repository/)
 * **[Android Web Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)** 
 * **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client 
 * **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites & Apps
@@ -272,7 +272,7 @@
 * [Adebar](https://codeberg.org/izzy/Adebar), [Swift Backup](https://swiftapps.org/) or [OAndBackupX](https://github.com/machiav3lli/oandbackupx) - Device Backup Tool
 * [Migrate](https://play.google.com/store/apps/details?id=balti.migrate) - Migration Tool / Root Required
 * [Unchained for Android](https://github.com/LivingWithHippos/unchained-android) - App to interact with Real-Debrid API
-* [PowerTube](https://github.com/razar-dev/PowerTube) or [DVD](https://github.com/yausername/dvd) - Video Download Tool 
+* [PowerTube](https://github.com/razar-dev/PowerTube), [VidMate](https://www.vidmate.com/) or [DVD](https://github.com/yausername/dvd) - Video Download Tools
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [Seal](https://github.com/JunkFood02/Seal) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio / Video Downloader
 * [Show Youtube Dislikes](https://github.com/jesperbakhandskemager/view-youtube-dislike) - Return Youtube Dislikes
 * [BBTV](https://github.com/bttv-android/bttv), [Frosty](https://www.frostyapp.io/) or [Orange TV](https://gitlab.com/twitchmod/orange-tv) - Modded Twitch App
@@ -362,7 +362,7 @@
 * [Dumpster](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dumpster) - File Recovery Tool
 * [wsa_pacman](https://github.com/alesimula/wsa_pacman) - Android Package Manager for Windows
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - Download / Torrent Manager 
-* [Vysor](https://www.vysor.io/), [scrcpy](https://github.com/Genymobile/scrcpy) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/), [2](https://github.com/Tomotoes/scrcpy-gui)
+* [Vysor](https://www.vysor.io/), [scrcpy](https://github.com/Genymobile/scrcpy), [WebADB](https://app.webadb.com/) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/), [2](https://github.com/Tomotoes/scrcpy-gui)
 * [Wake on Lan](https://play.google.com/store/apps/details?id=de.florianisme.wakeonlan) - Control Devices via Wake on Lan
 * [BlueLight Filter](https://play.google.com/store/apps/details?id=jp.ne.hardyinfinity.bluelightfilter.free) - Screen Bluelight Filter
 * [FAST](https://play.google.com/store/apps/details?id=com.netflix.Speedtest), [Meteor](https://play.google.com/store/apps/details?id=meteor.test.and.grade.internet.connection.speed) or [FCC Speed Test](https://play.google.com/store/apps/details?id=com.samknows.fcc&hl=en_US&gl=US) - Internet Speed Test
@@ -439,7 +439,7 @@
 * [PhoneAccount Abuse Detector](https://play.google.com/store/apps/details?id=space.linuxct.phoneaccountdetector) - Android Emergency Calling Bug Check
 * [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451), [SkyHawk](https://skyhawkrecovery.github.io/) / [GitHub](https://github.com/SHRP), [PitchBlack](https://pitchblackrecovery.com/) or [OrangeFox](https://wiki.orangefox.tech/en/home) / [GitHub](https://gitlab.com/OrangeFox/misc/appdev/app) - Custom Recovery Firmware
 * [ItzKaguya-RecoveryBuilder](https://github.com/MizuNotCool/ItzKaguya-RecoveryBuilder) - Galaxy A10 Recovery Builder
-* [TWRP Root](https://twrp.me/) - TWRP Recovery Samsung / [Telegram](https://t.me/samsung_twrp_root/78379)
+* [TWRP Root](https://twrp.me/) /  [Telegram](https://t.me/samsung_twrp_root/78379) or [UnofficialTWRP](https://unofficialtwrp.com/) - TWRP Root
 * [SamFirm A.I.O​](https://forum.xda-developers.com/t/tool-samfirm-a-i-o-tools-firmware-downloader-mtp-bypass-frp.4210103/) or [Firmwareland](https://firmwareland.com/) - Firmware & FRP Bypass
 * [Frida-Mobile-Scripts](https://github.com/m0bilesecurity/Frida-Mobile-Scripts) - FRIDA Mobile Scripts
 * [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) - Extract OTP Tokens
@@ -887,7 +887,6 @@
 
 ## ▷ Android Live TV 
 
-* [AOS TV](https://aostv.app/)
 * [OLATV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ola_tv)
 * [Live NetTV](https://www.livenettv.bz/)
 * [SwiftStreams](http://swiftstreamz.com/)
