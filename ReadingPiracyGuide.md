@@ -306,6 +306,7 @@
 * [DigiVatLib](https://digi.vatlib.it/) - Digital Vatican Library
 * [BibleGateway](https://www.biblegateway.com/) or [Bible.com](https://www.bible.com/) - Christian Bible
 * [eSword](https://e-sword.net/) - Christian Bible Desktop App
+* [BibleTheLife](https://gitlab.com/hotlittlewhitedog/BibleTheLife) - Christian Bible / Android
 * [Bible](https://apps.apple.com/us/app/bible/id282935706) - Christian Bible / iOS
 * [Classics Ethereal Library](https://www.ccel.org/) - Christianity 
 * [TheBrickBible](https://thebrickbible.com/) - The Bible Recreated with Lego
@@ -837,6 +838,7 @@
 * [Read Full Comic](https://readfullcomic.com/) / [2](https://read-comic.com/) / [3](https://viewcomiconline.com/)
 * [comicbookpdf](https://www1.comicbookpdf.com/) 
 * [comiconline](https://comiconline.org/)
+* [KidsGen](https://www.kidsgen.com/comics/)
 * [DC Universe Infinite](https://www.dcuniverseinfinite.com/collections/free-to-read-row) - Free DC Comics
 * [Marvel.com](https://www.marvel.com/comics/list/623/get_started_with_free_issues?&options%5Boffset%5D=0&totalcount=76) - Free Marvel Comics
 * [ComicBookPlus](https://comicbookplus.com/) - Golden Age Comics
