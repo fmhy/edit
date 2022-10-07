@@ -2602,7 +2602,8 @@ Hosters: https://pastebin.com/AUqx5N3X) / [Hosters](https://pastebin.com/AUqx5N3
 * [ZwartwitFilms](https://t.me/ZwartwitFilms) - Classic
 * [CartoonLibrary](https://t.me/CartoonLibrary) - Cartoons
 * [Cartoon_Index](https://t.me/Cartoon_Index) - Cartoons
-
+* [iPapkornBot](https://t.me/iPapkornBot)
+* [ProSearch4Bot](https://t.me/ProSearch4Bot)
 ***
 
 #### Text Adventures
