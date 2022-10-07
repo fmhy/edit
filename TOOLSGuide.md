@@ -50,6 +50,7 @@
 * [Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms) - Project Management Tools
 * [GanttProject](https://www.ganttproject.biz/) - Project Scheduling App
 * [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - Calendar & Scheduling Tools
+* [Year In Pixels](https://year-in-pixels.glitch.me/) - Mood Tracking Calendar
 * [wnr](https://getwnr.com/) - Time Management App / [GitHub](https://github.com/RoderickQiu/wnr)
 * [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - To-Do List Apps
 * [Creative Commons](https://creativecommons.org/) - Creative Commons Licenses
@@ -405,6 +406,7 @@
 * [deepware](https://scanner.deepware.ai/) - Detect Deepfake Videos
 * [Air Pi Play](https://github.com/rahul-thakoor/air-pi-play) - Rasberry Pi Screen Sharing
 * [4K Media](https://4kmedia.org/) - Free 4K Video Demos
+* [Widevine Decryption Keys](https://redd.it/xlqk10) - How-to Get Widevine Decryption Keys
 * [L3-WEB-DL-Script](https://github.com/parnexcodes/widevine-L3-WEB-DL-Script) or [uwuwvdl](https://github.com/Ori5000/uwuwvdl) - Widevine L3 DL Script
 * [Video Decrypter](https://github.com/CrackerCat/video_decrypter) - Widevine DRM Decrypter
 * [WV-AMZN-4K-RIPPER](https://github.com/docgonzo2015/widevinedump-1) - Amazon 4k SDR HDR 1080 Download Tool
@@ -520,7 +522,7 @@
 * [MidiKlavar](https://midiklavar.sourceforge.io/) - MIDI File Converter
 * [QueenMusicHall](http://www.queenmusichall.cz/) - Queen MIDIs, Audio, Photos
 * [AmazingMIDI](http://www.pluto.dti.ne.jp/araki/amazingmidi/) - Transcribe WAV to MIDI / [Archive](https://archive.org/details/tucows_327319_AmazingMIDI)
-* [Orca](https://hundredrabbits.itch.io/orca) - Live Coding Audio
+* [Orca](https://hundredrabbits.itch.io/orca) or [Slang](http://slang.kylestetz.com/) - Create Audio with Code
 * [madeon](https://adventuremachine.4thfloorcreative.co.uk/) - Create Music with Madeon Samples
 * [danielx](https://danielx.net/composer/) - Mario Paint Audio Editor
 * [Thirty Dollar Website](https://thirtydollar.website/) - Meme Sound Audio Editor / [Examples](https://youtu.be/8SZZPxERK_8)
@@ -1548,6 +1550,7 @@ Twitch Stream Tracker
 * [BackTweets](http://backtweets.com/), [twXplorer](https://twxplorer.knightlab.com/), [Social Searcher](https://www.social-searcher.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - Search Twitter
 * [Twishort](https://twishort.com/) or [TwitLonger](https://www.twitlonger.com/) - Make Longer Tweets
 * [Screamer](https://chrome.google.com/webstore/detail/screamer-twitter-improvem/mpeifaboppaofofdbmhoaeolnibaljof) - Tweet Only Twitter
+* [Typefully](https://typefully.com/) - Schedule Tweets
 * [Poet.so](https://poet.so/), [Twimage](https://twimage.vercel.app/) / [GitHub](https://github.com/drkPrince/tweet-to-image), [Tweetlet](https://tweetlet.net/), [Tweets Beauty](https://api.tweets.beauty/docs) or [Capture My Tweet](https://capturemytweet.in/) - Create Twitter Post Images
 * [Tweetgen](https://www.tweetgen.com/) or [FakeTweetMaker](https://www.faketweetmaker.com/) - Create Fake Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chrome.google.com/webstore/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
@@ -1758,7 +1761,7 @@ Twitch Stream Tracker
 * [SpeedFan](http://www.almico.com/speedfan.php) or [SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - Hardware Monitor
 * [CoreTemp](https://www.alcpu.com/CoreTemp/) - Processor Temperature Monitor
 * [RunWithAffinity](https://www.majorgeeks.com/files/details/runwithaffinity.html) - Run Programs on Selected Core
-* [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
+* [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [ParkControl](https://bitsum.com/parkcontrol/), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
 * [Project Hydra](https://www.igorslab.de/en/project-hydra-oc-sandbox-for-zen3-cpus-freeware-download/3/) - ZEN3 CPU Optimization Sandbox
 * [perf-book](https://github.com/dendibakh/perf-book) - CPU Performance Analysis and Tuning Book
