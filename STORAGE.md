@@ -2434,7 +2434,7 @@ Hosters: https://pastebin.com/AUqx5N3X) / [Hosters](https://pastebin.com/AUqx5N3
 * https://t.me/AnimeMoviesOtaku
 * https://t.me/AnimeLibrary_Movies
 * https://t.me/animemovies
-
+* https://t.me/Ongoing_animes
 ***
 
 #### Telegram Audiobook Downloads
@@ -2602,7 +2602,7 @@ Hosters: https://pastebin.com/AUqx5N3X) / [Hosters](https://pastebin.com/AUqx5N3
 * [ZwartwitFilms](https://t.me/ZwartwitFilms) - Classic
 * [CartoonLibrary](https://t.me/CartoonLibrary) - Cartoons
 * [Cartoon_Index](https://t.me/Cartoon_Index) - Cartoons
-
+* [Cracked_Movies_Hindi](https://t.me/Cracked_movies)
 ***
 
 #### Text Adventures
