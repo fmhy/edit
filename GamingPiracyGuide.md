@@ -152,6 +152,7 @@
 * [ConsoleROMs](https://www.consoleROMs.com/) - Emulators / ROMs
 * [HexRom](https://hexrom.com/) - Emulators / ROMs
 * [Rom Hustler](https://romhustler.org/) - Emulators / ROMs
+* [Technosagar](https://roms.technosagar.com/) - ROMs
 * [80s](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_80s) - Emulators / ROMs 
 * [ROMsDownload](https://ROMsdownload.net/) - Emulators / ROMs
 * [The Old Computer](https://www.theoldcomputer.com/) - Emulators / ROMs
@@ -165,6 +166,7 @@
 * [ROMs DL](https://romsdl.com/) - Emulators / ROMs
 * [DownloadArea81](https://www.downarea51.com/) - Emulators / ROMs
 * [CoolROMs](https://coolrom.com.au/) - Emulators / ROMs / Use ["Alt DL Link"](https://i.imgur.com/FgHvrPK.png)
+* [KillerROMs](https://freeromsdownload.com/) -  Emulators / ROMs / Use ["More Options"](https://i.imgur.com/DscRWTR.png)
 * [Nostalgialand](https://nostalgialand.net/) - ROMs
 * [All Xbox Game](https://downloadgamexbox.com/) - ROMs
 * [RPGOnly](https://rpgonly.com) - ROMs
