@@ -306,7 +306,7 @@
 * [C64Online](https://c64online.com/) - C64 Browser Emulator
 * [Super Mario Bros](https://supermariobros.io/), [SuperMarioBrosGames](https://supermariobrosgames.com/) or [SMBGames](https://smbgames.be/) - Super Mario Browser Emulators
 * [Mega Man Games](https://www.megamangames.net/) - Mega Man Browser Emulator
-* [OpenBOR](https://github.com/DCurrent/openbor) or [Mugen](https://web.archive.org/web/20150209191723/http://www.elecbyte.com/mugen) - 2D Fighting Game Emulator
+* [OpenBOR](https://github.com/DCurrent/openbor) or [Mugen](https://mugenarchive.com/forums/downloads.php?do=cat&id=39-mugen-builds) - 2D Fighting Game Emulator
 * [Lain Game](https://laingame.net/) - Lain Game Browser Emulator
 
 ***
