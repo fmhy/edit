@@ -383,6 +383,7 @@ Simulator
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
 * [If It Were My Home](https://www.ifitweremyhome.com/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
+* [EverySecond](https://everysecond.io/) - Visualize Per Second Data
 * [Internet Live Stats](https://www.internetlivestats.com/) - Live Internet Statistics
 * [The Federation](https://the-federation.info/) - Fediverse Statistics
 * [US Debt Clock](https://www.usdebtclock.org/) - US Debt Clock
