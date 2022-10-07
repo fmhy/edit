@@ -347,7 +347,8 @@
 
 * [P2PFR](https://forum.p2pfr.com/) - Piracy Discussion
 * [Emuline](http://www.emuline.org/) - Rom / Emulation Discussion
-* [SubSynchro](https://www.subsynchro.com/), [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - French Subtitles 
+* [SubSynchro](https://www.subsynchro.com/), [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - French Subtitles
+* [Tseret](https://tseret.com/) - Game Guides
 * [BonPatron](https://bonpatron.com/) - French Spelling and Grammar Check
 * [GoTo10](https://www.goto10.fr/) - BBS and Minitel Archives
 
@@ -1439,6 +1440,7 @@
 * [KinoMuzic](https://kinomuzic.ucoz.ru/) - Books / Soundtracks
 * [soundkino](https://www.soundkino.biz/) - Soundtracks
 * [androeed](https://www.androeed.ru/) - Android
+* [EZMod](https://ezmod.ru/) - Android
 * [4pda](https://4pda.ru/forum/) - Android / iOS
 * [PDALIFE](https://pdalife.ru/) - Android / iOS / PSP  
 * [Course Hunter](https://coursehunter.net/) - Programming / Courses 
@@ -1628,6 +1630,7 @@
 * [mirandopeliculas](https://mirandopeliculas.com/) - Movies / TV
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
 * [Movies, Series ... in Spanish](https://redd.it/ns0y6c) - Movies / TV
+* [gnula](https://gnula.nu/) - Movies / TV
 * [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram
 * [dyndns](http://fina.dyndns.tv/) - TV
 * [Descarga Cine Clasico](https://descargacineclasico.net/) - Classical Movies
@@ -1647,7 +1650,6 @@
 ## ▷ Torrenting
 
 * [Mejor Torrent](https://www.mejortorrents.net/), [2](https://mejortorrent.one/), [3](https://mejortorrent.nz/) - Video / Audio / Software / Games
-* [DivxTotal](https://www.divxtotal.one/) - Movies / TV / Software
 * [EliteTorrent](https://elitetorrent.com/), [2](https://www.elitetorrent.do/) - Movies / TV / Anime
 * [zonatorrent](https://zonatorrent.tv/) - Movies / TV
 * [PasateaTorrent](https://pasateatorrent.net/) - Movies / TV
@@ -1655,10 +1657,12 @@
 * [Cinetorrent](http://mozatimes.com/) - Movies / TV
 * [Tomadvix](https://tomadivx.net/) - Movies / TV
 * [DIVXTorrent](https://www.divxtorrent.com/) - Movies / TV
-* [DivxTotal](https://www.divxtotal.pm/) - Movies / [Telegram](https://t.me/divxtotal2)
+* [DivxTotal](https://www.divxtotal.pm/), [2](https://www.divxtotal.one/) - Movies / [Telegram](https://t.me/divxtotal2)
 * [Grantorrent](https://grantorrent.nl/), [2](https://grantorrent.ch/) - Movies / TV
 * [EstrenosDTL](https://www.estrenosdtl.nz/) - Movies
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
+* [Frozen Layer](https://www.frozen-layer.com/) - Anime
+* [unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
 
 ## ▷ Streaming 
@@ -1670,10 +1674,12 @@
 * [G Nula](https://gnula.se/) - Movies / TV / Anime
 * [gnula.nu](http://gnula.nu/) - Movies / TV
 * [CineHDPlus](https://cinehdplus.net/) - Movies / TV
+* [Playdede](https://playdede.tv/) - Movies / TV
 * [ennovelas](https://www.ennovelas.com/) - TV
 * [Sololatino](https://sololatino.net/) - Movies / TV / Anime
 * [Repelis24](https://repelis24.co/) - Movies / TV
 * [Cinecalidad](https://cinecalidad2.me/) - Movies / TV
+* [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV
 * [Inkapelis](https://inkapelis.in/) - Movies / TV
 * [pelisflix](https://pelisflix.red/) - Movies / TV
 * [pelisplushd](https://ww2.pelisplushd.nu/) - Movies / TV / Anime
@@ -1724,7 +1730,7 @@
 * [bajaebooksgratis](https://bajaebooksgratis.com/) - Books 
 * [pirateca](https://pirateca.com/) - Books 
 * [Lectulandia](https://www.lectulandia.rocks/) - Books
-* [ePub Gratis](https://wvw.epubgratis.org/) - Books 
+* [ePub Gratis](https://www.epubgratis.vip/) - Books 
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
 * [librosintinta](https://www.librosintinta.in/) - PDF Search
 * [albalearning](https://albalearning.com/) - Audiobooks 
@@ -1734,6 +1740,7 @@
 * [HeavenManga](http://heavenmanga.com/) - Manga 
 * [InManga](https://inmanga.com/) - Manga
 * [manhuako](https://manhuako.com/) - Manga
+* [lexmangas](https://www.lexmangas.com/) - Manga
 * [yugenmangas](https://yugenmangas.com/) - Manga
 * [miauscan](https://miauscan.com/) - Manga
 * [Mangaesp](https://mangaesp.co/) - Manga
