@@ -73,7 +73,6 @@
 * [LinkLonk](https://linklonk.com/) - Link Aggregator & Voting
 * [Simple Tools](https://simpletools.info/doku.php) - Simple Programs Index 
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Hacking / Pentesting Index
-* [Internet Curated](https://internetcurated.com/) - Directory Index
 * [DMOZ](http://www.dmoztools.net/) or [SmartLinks](https://smartlinks.org/index.html) - Website Directory
 * [Archive-It](https://archive-it.org/) - Archive.org Collections
 * [Wikimedia](https://www.wikimedia.org/) - All Wikimedia Sources 
