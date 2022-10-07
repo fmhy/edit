@@ -2434,6 +2434,7 @@ Hosters: https://pastebin.com/AUqx5N3X) / [Hosters](https://pastebin.com/AUqx5N3
 * https://t.me/AnimeMoviesOtaku
 * https://t.me/AnimeLibrary_Movies
 * https://t.me/animemovies
+* https://t.me/Ongoing_animes
 
 ***
 
@@ -2591,10 +2592,13 @@ Hosters: https://pastebin.com/AUqx5N3X) / [Hosters](https://pastebin.com/AUqx5N3
 * [MoviesVerse](https://t.me/MoviesHomeOFFICIALS) - Movies / TV 
 * [SeriesArchiveX](https://t.me/SeriesArchiveX) - Movies / TV
 * [Rarefilmsbot](https://t.me/Rarefilmsbot) - Movies 
+* [Cracked_Movies_Hindi](https://t.me/Cracked_movies) - Movies
 * [Mobile movies request bot](https://t.me/cc_mmrequestbot) - Movies / 480p 
 * [AWMHG](https://t.me/all_world_movies_here_group) - Movies
 * [MoviesX_support](https://t.me/MoviesX_support) - Movies
 * [request_movies_group](https://t.me/request_movies_group) - Movies
+* [iPapkornBot](https://t.me/iPapkornBot) - Movies
+* [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies
 * [ZestFlix](https://t.me/+vxfKtaB4sXtmNjY1) - Movies / TV / [Archives](https://t.me/+iuTSrLAp27c4OTE1)
 * [TVSeriesArchive](https://t.me/TvSeriesArchive) - TV
 * [pre_code](https://t.me/pre_code) - Classic
