@@ -1071,6 +1071,7 @@
 * [fontfabric](https://www.fontfabric.com/free-fonts/)
 * [HighFonts](https://highfonts.com/category/free/)
 * [Fonts4Free](https://www.fonts4free.net/)
+* [paid fonts for free](https://t.me/squaxfonts)
 * [Mr.E-Fonts](https://archive.org/details/Mr.E-Fonts)
 * [TypeType](https://typetype.org/freefonts/) 
 * [SimplyTheBest](https://simplythebest.net/fonts/)
