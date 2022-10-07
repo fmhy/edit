@@ -69,6 +69,7 @@
 * [BIND](https://gitlab.isc.org/isc-projects/bind9) - Portable DNS Protocol
 * [Maza](https://maza-ad-blocking.andros.dev/) - Local DNS Adblocking 
 * [DNS Party](https://encrypted-dns.party/) - DNS Config Profiles for Apple Devices Encrypted 
+* [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Smart TV Ads
 * [ZoneWatcher](https://zonewatcher.com/) - DNS Backup Tool
 * [DNS Redirector](http://dnsredirector.com/) - DNS Redirector
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
@@ -605,6 +606,7 @@
 * [immortalproxy](https://immortalproxy.com/) 
 * [ProxyOf2](https://proxyof2.com/)
 * [Proxy-URLs](https://www.proxy-urls.com/)
+* [HideIP](https://m.hideip.co/)
 * [Sitenable](http://sitenable.in/) 
 * [UnblockSites](https://unblocksites.online/) 
 * [4EverProxy](https://www.4everproxy.com/)
