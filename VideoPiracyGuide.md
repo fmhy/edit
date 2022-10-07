@@ -323,6 +323,7 @@
 * [AnimeLand](https://www.animeland.us/) - Dub 
 * [Kissanime](https://kissanime.dev/) - Sub / Dub
 * [Animeplyx](https://animeplyx.eu/) - Sub
+* [123Anime.to](https://123anime.to/) - Sub / Dub / [Discord](https://discord.gg/z2BSpXheN9)
 * [Simple Anime](http://simple-anime.herokuapp.com/) - Sub
 * [KimAnime](https://kimanime.com/) - Sub / Dub
 * [AnimeTribes](https://animetribes.ru/) - Sub 
@@ -360,7 +361,7 @@
 * [WCO](https://www.wco.tv/)  - Anime / Cartoons / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wco_clones)
 * [Funimation](https://www.funimation.com/shows/free/) - Sub / Dub 
 * [Yuna](https://yuna.moe/) - Anime Streaming App / [GitHub](https://github.com/BeeeQueue/yuna)
-* [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/)
+* [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/) / [Intro Skip](https://github.com/lexesjan/typescript-aniskip-extension)
 * [Crunchyroll iFrame Player](https://greasyfork.org/en/scripts/411391-crunchyroll-iframe-player) - Crunchyroll Premium Bypass Script / [GitHub](https://github.com/Mateus7G/crp-iframe-player)
 * [Kamyroll](https://github.com/hyugogirubato/Kamyroll-Developers) - Sub / Dub / API
 * [Themes.moe](https://themes.moe/), [2](https://staging.animethemes.moe/wiki/) - Anime Opening & Ending Themes
@@ -637,6 +638,7 @@
 * [ExtraMovies](https://extramovies.loan/) - Movies / TV
 * [KimoiTV](https://www.kimoitv.com/) - Movies / TV / Anime
 * [MeloMovie](https://melomovie.com/) - Movies / TV
+* [MKV Cage](https://www.mkvcage.site/) - Movies / TV
 * [Best-Movies](http://best-movies.info/) - Movies / TV
 * [FilmsZilla](https://filmszilla.com/) - Movies / TV
 * [Movies Downloader](https://movie.unlimitdownloads.com/) - Movies / TV
