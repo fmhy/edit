@@ -125,7 +125,7 @@
 * [Random-Face-Generator](https://github.com/adityar224/Random-Face-Generator) - Face Generator
 * [Mirro-Ai](https://mirror-ai.com/) - Get Stickers With Your Face
 * [EmojiMix](https://tikolu.net/emojimix) or [Emoji Kitchen](https://emoji.supply/kitchen/) - Combine Emojis
-* [Emojination](https://www.emojination.io/) or [Ccclaymoji](https://fffuel.co/ccclaymoji/) - Emoji Graphic Generator
+* [Emojination](https://www.emojination.io/), [Emoji Factory](https://codepen.io/oliviale/full/qLYNbE) or [Ccclaymoji](https://fffuel.co/ccclaymoji/) - Emoji Creators
 * [imgsli](https://imgsli.com/) - Before & After Slider Generator
 * [DCGAN](http://mattya.github.io/chainer-DCGAN/) - Anime Icon Generator 
 * [99 Avatars](https://99avatars.com/) - Create Doodle Avatar
@@ -146,7 +146,7 @@
 * [Silk](http://weavesilk.com/) - Create Geometric Silk Art
 * [Inspirograph](https://nathanfriend.io/inspirograph/) - Inspirograph Tool
 * [SpirographN](http://seedcode.com/SpirographN/sgn.html) - Spirograph Tool
-* [myMrLx](https://codepen.io/davidpanik/full/myMrLx/) - Spiral Art Generator 
+* [myMrLx](https://codepen.io/davidpanik/full/myMrLx/) or [MilkyWay](https://yusufcayci.com/milkyway) - Spiral Art Generators
 * [Brown](https://fi-le.net/brown/) - Brownian Motion Tool
 * [Mondrian And Me](https://mondrianandme.com/) - Mondrian Art Creator
 * [Periodicity](https://williamhoza.com/periodicity/) - Harmonic Motion Patterns
@@ -211,6 +211,7 @@
 * [EZGif](https://ezgif.com/), [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFMemes](https://gifmemes.io/), [gifexplosion](https://gifexplosion.com/app.php), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Pixteller](http://pixteller.com/) - GIF Creator / Editor
 * [EatMyArt](https://www.eatmy.art/) - Create GIFs from Drawings
 * [GIF Explode](https://gif-explode.com/) - Split GIFs Into Frames
+* [GIF Reverse](https://gifreverse.com) - Reverse GIFs
 * [gifify](https://github.com/vvo/gifify) - Video to GIF Converter
 * [GifRun](https://gifrun.com/) - Make GIFs from Online Videos
 * [Sergif](https://sergif.ultirequiem.com/) - Make GIFs from Webcam Videos
@@ -238,6 +239,7 @@
 * [Morbotron](https://morbotron.com/) - Futurama Meme Generator 
 * [BreakYourOwnNews](https://www.breakyourownnews.com/) - Breaking News Meme Generator
 * [WashYourLyrics](https://www.washyourlyrics.com/) - Hand Washing Meme Generator
+* [O RLY Cover Generator](https://dev.to/rly) - O RLY Meme Book Cover Generator
 
 ***
 
@@ -254,7 +256,7 @@
 * [inkscape](https://inkscape.org/), [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q), [Sketch Toy](https://www.sketchtoy.com/), [Sketchbook](https://www.sketchbook.com/), [Webchemy](https://webchemy.org/) / [GitHub](https://github.com/bitbof/webchemy), [tldraw](https://www.tldraw.com/), [Sketchpad](https://sketchpad.app/) / [2](https://sketch.io/sketchpad) or [Excalidraw](https://excalidraw.com/) - Drawing / Sketching Tools
 * [Virtual Graph Paper](https://virtual-graph-paper.com/) - Grid Sketch Tool
 * [Noodle](https://hundredrabbits.itch.io/noodle) - 1bit Sketch Tool
-* [AutoDraw](https://www.autodraw.com/) - Machine Learning Drawing Tool 
+* [AutoDraw](https://www.autodraw.com/) or [Magic Sketchpad](https://magic-sketchpad.glitch.me/) - AI Drawing Tools 
 * [MonsterMash](https://monstermash.zone/) - Sketch Based Modeling & Animation Tool
 * [Perfect Freehand](https://perfect-freehand-example.vercel.app/) - Draw Free Hand Lines / [GitHub](https://github.com/steveruizok/perfect-freehand)
 * [minimator](https://minimator.app/) - Create Grid Based Drawings
@@ -276,7 +278,7 @@
 * [Pedro's Pixel Art Tutorials](https://blog.studiominiboss.com/pixelart) or [SLYNYRD](https://www.slynyrd.com/gallery-animated) - Pixel Art Tutorials 
 * [Piskel](https://www.piskelapp.com/), [rx](https://rx.cloudhead.io/), [Pixelated](https://pixelated.vercel.app/), [PaintWith](https://paintwith.webflow.io/), [Aseprite](https://dacap.itch.io/aseprite), [PixelCraft](https://pixelcraft.web.app/) / [GitHub](https://github.com/rgab1508/PixelCraft), [Kleki](https://kleki.com/) or [PixilArt](https://www.pixilart.com/draw) - Pixel Art Editor
 * [Strike](https://amorphous.itch.io/strike) - 1-Bit Pixel Art Editor
-* [Pixel Painter](https://jenniferdewalt.com/pixel_painter.html) - Paint with Pixels
+* [Pixel Painter](https://jenniferdewalt.com/pixel_painter.html) or [Pixel Paint](https://codepen.io/quinlo/full/RvPPKG) - Paint with Pixels
 * [dpixel](https://marcoc2.itch.io/dpixel) - Pixel Art Remastering Tool 
 * [Paint Of Persia](https://dunin.itch.io/ptop) - Rotoscoping Pixel Art Tool
 * [Dither Machine](https://lunarlabs.itch.io/dither-machine) - Pixel Art Dithering Creator
