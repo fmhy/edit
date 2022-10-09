@@ -40,6 +40,8 @@
 * [GradientArt](https://gra.dient.art/) or [TailBlend](https://tailblend.vercel.app/) - Gradient Editor
 * [CanonOutsideOfAuto](http://www.canonoutsideofauto.ca/play/) - Interactive Exposure Test 
 * [distort-grid](https://github.com/snorpey/distort-grid) - Grid Based Image Distortion
+* [Beadifier](https://www.beadifier.com/editor/) - Bead Based Image Distortion
+* [VeoLuz](https://jaredforsyth.com/veoluz/) - Photon Path Art Tool
 * [PaintingLight](https://lllyasviel.github.io/PaintingLight/) - Digital Lighting Effect Generator
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn Simple Art into Photo Realistic Landscapes
 * [AI Gahaku](https://ai-art.tokyo/en/), [Dreamscope](https://dreamscopeapp.com/), [Painting by Numbers](https://painting-by-numbers.co/pages/create-your-own), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/), [InstaPainting](https://www.instapainting.com/assets/) or [Deep Dream Generator](https://deepdreamgenerator.com/) - Turn Photos into Artwork 
@@ -119,7 +121,7 @@
 * [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - Icon Generators
 * [Logo Makr](https://logomakr.com/), [Hatchful](http://hatchful.shopify.com/), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](http://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/), [Free Logo Maker](https://freelogomaker.net/) or [ACME](https://acme.com/labelmaker/) - Logo Creators / [Note](https://i.imgur.com/gXHFqff.png)
 * [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
-* [ArtFlow](http://artflow.ai/), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [react-nice-avatar](https://github.com/chilllab/react-nice-avatar) or [Avataaars](https://getavataaars.com/) - Face / Avatar Creator
+* [ArtFlow](http://artflow.ai/), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [react-nice-avatar](https://github.com/chilllab/react-nice-avatar) or [Avataaars](https://getavataaars.com/) - Face / Avatar Creators
 * [CharacterCreator](https://charactercreator.org/)- Character Generator
 * [PixelMe](https://xsgames.co/pixelme/) - 8bit Avatar Creator
 * [Random-Face-Generator](https://github.com/adityar224/Random-Face-Generator) - Face Generator
@@ -141,7 +143,7 @@
 * [dream](https://app.wombo.art/) - Dream Art Generator
 * [Uji](https://doersino.github.io/uji/) - Minimalist Art Generator
 * [Mosaic](https://github.com/Roman-/mosaic) - Rubik's Cube Mosaic Generator
-* [Tabbied](https://tabbied.com/) - Art Pattern Generator
+* [Tabbied](https://tabbied.com/) or [Slopes](https://tinkersynth.com/slopes/) - Art Pattern Generators
 * [MandalaGaba](https://www.mandalagaba.com/) / [Pro Version](https://pro.mandalagaba.com/), [Mandala App](https://mandala-app.com/) or [DigitalDoily](https://codymoose.github.io/web-applications/DigitalDoily/index.html) - Zen Geometry Tool
 * [Silk](http://weavesilk.com/) - Create Geometric Silk Art
 * [Inspirograph](https://nathanfriend.io/inspirograph/) - Inspirograph Tool
@@ -164,6 +166,7 @@
 * [Flow Field](https://github.com/romellogoodman/flow-field.js) - Flow Field Generator
 * [Trianglify.io](https://trianglify.io/) - Generate low-poly Textures
 * [Stooge](https://stooge.me/) or [MakeBeliefsComix](https://makebeliefscomix.com/) - Comic Creators
+* [Zine Machine](https://zine-machine.glitch.me/) - Create / Print Zines
 * [BannerEasy](https://www.bannereasy.com) or [Bannery](https://bannery.app/) - Create Custom Banners
 * [SocialBanner](https://www.social-banner.live/) or [Mind Your Banners](https://www.mindyourbanners.com/) - Social Media Banner Creator
 * [CoverView](https://coverview.vercel.app/) - Blog Banner Creator
@@ -188,6 +191,7 @@
 * [FakeReceipt](http://www.fakereceipt.us/) - Create Fake Receipts
 * [The Rasterbator](https://rasterbator.net/) - Wall Art Generator
 * [MyPokeCard](https://www.mypokecard.com/en/) - Create Pokemon Cards
+* [Space Invader Generator](https://brigittaforrai.com/space-invaders-generator/) - Generate Space Invader Sprites
 * [Flag Maker](https://flagmaker-print.com/pages/flag-maker) - Flag Creator
 * [MakeCoatOfArms](https://www.allfamilycrests.com/makecoatofarms.htm ) - Coat of Arms Creator
 * [ArmorLab](https://armorlab.org/), [Kandinsky](https://www.kandinsky.io/) or [TextureLab](https://www.texturelab.io/) - Texture Generator / [GitHub](https://github.com/armory3d/armorlab)
@@ -212,6 +216,7 @@
 * [EatMyArt](https://www.eatmy.art/) - Create GIFs from Drawings
 * [GIF Explode](https://gif-explode.com/) - Split GIFs Into Frames
 * [GIF Reverse](https://gifreverse.com) - Reverse GIFs
+* [Kinegram](https://kinegram.app/) - Kinegram GIF Creator
 * [gifify](https://github.com/vvo/gifify) - Video to GIF Converter
 * [GifRun](https://gifrun.com/) - Make GIFs from Online Videos
 * [Sergif](https://sergif.ultirequiem.com/) - Make GIFs from Webcam Videos
@@ -369,7 +374,7 @@
 * [Generated Photos](https://generated.photos/) - AI Generated Model Photos
 * [Blender](https://www.blender.org/) - Open Source 3D Modeler / 2D Animation / Video Editor / [Resources](https://github.com/agmmnn/awesome-blender)
 * [3D Modeling Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_modeling_apps) - Free 3D Modeling Apps 
-* [BLoom3D](https://bloom3d.com/) - Online 3D Modeling Tool
+* [Bloom3D](https://bloom3d.com/) or [Zdog](https://zzz.dog/) - Online 3D Modeling Tools
 * [Figurosity](https://figurosity.com/) - Human 3D Models
 * [Armorpaint](https://armorpaint.org/) - 3D Painting
 * [SculptGL](https://stephaneginier.com/sculptgl/) - 3D Sculpting
@@ -401,6 +406,7 @@
 * [Awesome Colab nNotebooks]( https://github.com/amrzv/awesome-colab-notebooks) - Image Colab Tools
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
+* [GlanceBack](https://glanceback.info/) - Daily Webcam Photo Journal
 * [Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes) - Color Scheme / Palette Tools / [Guide](https://imgur.com/e1rBGLT)
 * [Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers) - Extract Color from Pictures / Webpages
 * [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - Image Color Summarizer
