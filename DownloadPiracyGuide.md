@@ -188,46 +188,46 @@
 * [downloadly](https://downloadly.ir/), [2](https://downloadly.net/) - Software / Courses / Persian VPN Required
 * [PiratePC](https://piratepc.me/) - [Discord](https://discord.gg/QhaKfHwWmV)
 * [SamLab](https://samlab.ws/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [FTUApps](https://ftuapps.dev/) 
-* [AIOWares](https://www.aiowares.com/) 
+* [FTUApps](https://ftuapps.dev/)
+* [AIOWares](https://www.aiowares.com/)
 * [Mr. SzzS](https://www.youtube.com/channel/UCcf3dtQFVb5zfy0jGYNpA0w)
 * [Softlay](https://softlay.net/)
-* [CRACKurl](https://cracksurl.com/) 
-* [Pesktop](https://pesktop.com/en/) 
-* [TheMicroTech](https://programs.themicrotech.net/) 
+* [CRACKurl](https://cracksurl.com/)
+* [Pesktop](https://pesktop.com/en/)
+* [TheMicroTech](https://programs.themicrotech.net/)
 * [TeamOS](https://www.teamos-hkrg.com/)
 * [Cyberspace](https://cyberspace.world/)
-* [4Download](https://www.4download.net/) 
-* [SoftFamous](https://softfamous.com/) 
+* [4Download](https://www.4download.net/)
+* [SoftFamous](https://softfamous.com/)
 * [onHax](https://onhax.io/)
-* [MAZTERIZE](https://www.mazterize.com/) 
+* [MAZTERIZE](https://www.mazterize.com/)
 * [Full Version Download](https://www.fullversiondl.com/)
 * [FileOur](https://www.fileour.com/)
-* [Soft House](https://softhouse.cc/) 
-* [Mirror.una](http://mirror.una.ac.cr/) 
+* [Soft House](https://softhouse.cc/)
+* [Mirror.una](http://mirror.una.ac.cr/)
 * [MySoftwareFree](https://mysoftwarefree.com/)
 * [AllPCWorld](https://allpcworld.com/)
-* [ArmaanPC](https://www.armaanpc.com/) 
-* [File Croco](https://www.filecroco.com/) 
-* [Soft32](https://www.soft32.com/) 
+* [ArmaanPC](https://www.armaanpc.com/)
+* [File Croco](https://www.filecroco.com/)
+* [Soft32](https://www.soft32.com/)
 * [Mutaz.net](https://www.mutaz.net/)
-* [WagnardSoft](https://www.wagnardsoft.com/) 
-* [PC Wonderland](https://pcwonderland.com/) 
-* [SoftProber](https://softprober.com/) 
-* [SCloud](https://scloud.ws/) 
+* [WagnardSoft](https://www.wagnardsoft.com/)
+* [PC Wonderland](https://pcwonderland.com/)
+* [SoftProber](https://softprober.com/)
+* [SCloud](https://scloud.ws/)
 * [AllPCWorlds](https://allpcworlds.com/)
 * [HaxPC](https://haxpc.net/)
 * [Center Software](https://zuketcreation.net/)
-* [MR9Soft](https://mr9soft.com/) 
-* [DoLoad](https://doload.org/) 
-* [CrackHash](https://crackshash.com/)
+* [MR9Soft](https://mr9soft.com/)
+* [DoLoad](https://doload.org/)
 * [Downmienphi](https://downmienphi.com/)
-* [3almalt9nia](https://3almalt9nia.com/) 
+* [3almalt9nia](https://3almalt9nia.com/)
 * [FreeSoftwareFiles](https://www.freesoftwarefiles.com/)
-* [AlbasitSoft](https://albasitsoft.com/) 
+* [AlbasitSoft](https://albasitsoft.com/)
+* [CrackHash](https://crackshash.com/) - Use Adblocker
 * irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ
-* [AIOsetup](https://t.me/aiosetup) - Telegram 
-* [Libreware](https://t.me/Libreware) - Telegram 
+* [AIOsetup](https://t.me/aiosetup) - Telegram
+* [Libreware](https://t.me/Libreware) - Telegram
 * [Computer Softwares](https://t.me/Computer_Softwares_Games_Windows) - Telegram
 * [PC Cracked Software](https://t.me/pc_cracked_softwares) - Telegram
 * [Windows Softwares](https://t.me/Windows_Softwares_Pc_Games), [2](https://t.me/windows_softwares) - Telegram
@@ -236,8 +236,8 @@
 * [PLC4Me](https://plc4me.com/) - Automation Software
 * [civileng_soft](https://t.me/civileng_soft) - Civil Engineering Software
 * [Radixx11](https://radixx11rce3.blogspot.com/), [Izofile](https://izofile.com/), [Soft2Ev](https://www.soft2ev.com/), [Keygen Fortress](https://t.me/keygen_fortress), [SmartSerials](https://smartserials.com/) or [SerialReactor](https://serialreactor.com/) - Software Keys / Patches
-* [Software Heritage](https://www.softwareheritage.org/) - Software Source Code Archive 
-* [balenaHub](https://hub.balena.io/) - Raspberry Pi Software 
+* [Software Heritage](https://www.softwareheritage.org/) - Software Source Code Archive
+* [balenaHub](https://hub.balena.io/) - Raspberry Pi Software
 * [CSDb](https://csdb.dk/) - Commodore 64 Resources
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - Professional Video, Audio & Adobe Software / Plugins
 * [WLSetup-All](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wlsetup-all) - Windows Live Essentials 2012 Archive
