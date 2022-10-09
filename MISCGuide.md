@@ -295,9 +295,12 @@
 * [VentScape](https://www.ventscape.life/) - Speak into a Void
 * [The Nicest Place](https://thenicestplace.net/) - Internet Hugs
 * [Dazzle](https://workingbuild.herokuapp.com/) - Virtual Chat, Video & Drawing World
-* [Omegle](https://www.omegle.com/) or [Chatiw](https://www.chatiw.me/) - Anonymous Chat Rooms
+* [Doodle Place](https://doodle-place.glitch.me/) - Virtual Drawing World
+* [Omegle](https://www.omegle.com/) or [Chatiw](https://www.chatiw.me/) - Random Chat Rooms
+* [ASCII Roulette](https://github.com/dialup-inc/ascii) - Random ASCII Chat Rooms
 * [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
 * [Tapology](https://www.tapology.com/) - Make MMA Fight Picks
+* [March-Madness-ML](https://github.com/adeshpande3/March-Madness-ML) - March Madness Winner Prediction AI
 * [Awesome Lego](https://github.com/ad-si/awesome-lego) - Lego Resource Index 
 * [BrickLink Studio](https://www.bricklink.com/v2/build/studio.page) - Lego Building Software
 * [Brickit](https://brickit.app/) - Scan Lego Collection for Build Ideas
@@ -345,6 +348,7 @@
 * [Tamajoji](https://flixflox.itch.io/tamajoji) - Browser Tamagotchi
 * [Gifypet](https://gifypet.neocities.org/) - Create Your Own Cute Pet 
 * [20Q](http://www.20q.net/) or [Akinator](https://en.akinator.com/) - 20 Questions
+* [DadJokeCLI](https://github.com/Anupya/dadjoke-cli) - Get Dad Jokes in Command Line
 * [Magic Crystal Ball](https://www.oproot.com/ball/) - Get Messages from Beyond
 * [70's TV Simulator](https://www.my70stv.com/), [80's](https://www.my80stv.com/), [90's](https://www.my90stv.com/) or [00's TV Simulator](https://www.my00stv.com/)
 * [Neave.tv](https://neave.tv/) - TV without context
@@ -353,7 +357,6 @@
 * [Skynet](http://pierrepapierciseaux.net/.skynet/?lang=en) - View Websites like they're from the 90's
 * [Toonami Remastered](https://www.toonamiremastered.com/) - Remastered Toonami Content
 * [SongMeanings](https://songmeanings.com/) - Discover Song Meanings
-* [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - Pop Song Recognition Test
 * [Are you the asshole?](https://areyoutheasshole.com/) - Have an AI Judge Your Decisions
 * [Judge My Music](https://pudding.cool/2020/12/judge-my-spotify/) - Have an AI Judge Your Taste in Music
 * [GeekPrank](https://geekprank.com/) - Windows Pranks
@@ -426,10 +429,10 @@
 * [Classic GTA Sites](https://classicgtasites.com/) - Original GTA Site Recreations
 * [BD Stupidity Archive](https://discord.gg/5qgrj9a3NQ) - Archive of BetterDiscord Stupidity
 * [webgbcam](https://maple.pet/webgbcam/) - Gameboy Camera in Browser
-* [The Wolfman Museum of Art ](http://wolfmanmuseum.org/) - Virtual Museum
 * [Either](http://either.io/) or [rrrather](http://rrrather.com/) - Would You Rather 
 * [Cake](http://www.redkid.net/generator/cake/) - Cake Writing Generator
-* [Nightmare Machine](http://nightmare.mit.edu/) - Scary AI generated imagery
+* [Ballooning](https://alexanderperrin.com.au/triangles/ballooning/) - Procedurally Generated Balloon Simulator
+* [Nightmare Machine](http://nightmare.mit.edu/) - Scary AI Generated Imagery
 * [Botnik](https://botnik.org/) - Word Remixer 
 * [Blue Ball Machine 2](https://blueballmachine2.ytmnd.com/) - Full Page Chain Reaction Machine
 * [Library of Babel](https://libraryofbabel.info/) - Every Book of Past, Present, and Future
@@ -440,7 +443,7 @@
 * [DrivingSimulator](https://framesynthesis.com/drivingsimulator/maps/) - 2D Driving Simulator 
 * [cnnix-steership](https://edition.cnn.com/interactive/2021/03/cnnix-steership/) - Steer through the Suez Canal
 * [Moments of Happiness](https://moments.epic.net/) - Animated WebGL Animals
-* [Planet](http://oskarstalberg.com/game/planet/planet.html) - Planet Creator
+* [Generativeplanets](https://zehfernandes.com/generativeplanets/builder) or [Planet](http://oskarstalberg.com/game/planet/planet.html) - Planet Generators
 * [What Happened in my Birthyear](http://whathappenedinmybirthyear.com/) - Find out what happened on your Birth Year 
 * [Pushing Pixels](https://www.pushing-pixels.org/fui/) or [Saji8k](https://www.saji8k.com/kit-fui/) - Imaginary UI from Movies
 * [IsItNormal](https://isitnormal.com/) - Ask if Things are Normal 
@@ -453,21 +456,20 @@
 * [Spec Wiki](https://speculativeevolution.fandom.com/wiki/Main_Page) - Speculative Evolution Wiki
 * [House creep](https://www.housecreep.com/) - Homes With A Curious or Criminal History 
 * [Letters of Note](https://news.lettersofnote.com/) - Historical Letters
-* [Hypochondriapp](http://hypochondriapp.io/) - Get a terrible diagnosis for your symptoms
+* [Hypochondriapp](http://hypochondriapp.io/) - Get a Terrible Diagnosis
 * [Cube Rule](https://cuberule.com/) - The Cube Rule of Food
 * [TheCrowBox](https://thecrowbox.com/) - Help Train Crows
-* [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](http://trackdollar.com/) - Dollar Tracking 
+* [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](http://trackdollar.com/) - Dollar Tracking
 * [ThatsTheFinger](https://thatsthefinger.com/) - Send Someone The Finger
 * [RandomColour](http://www.randomcolour.com/) - Random Color
 * [ColorNames](https://colornames.org/) - Help Name Colors
-* [Fontbutts](https://fontbutts.netlify.app/) - Create Butts with different fonts
-* [User Inyerface](https://userinyerface.com/) - The most annoying website
+* [Fontbutts](https://fontbutts.netlify.app/) - Create Butts with Different Fonts
 * [Storylocks](https://www.storylocks.com/) - Write Stories with different authors/friends
 * [LongestPoemInTheWorld](http://www.longestpoemintheworld.com/) - Matches Tweets to form Rhymes
 * [InspiroBot](https://inspirobot.me/) - Inspirational Quote Generator
+* [The Gyllenhaal Experiment](https://pudding.cool/2019/02/gyllenhaal/) - Common Pop Star Misspellings
 * [D-E-F-I-N-I-T-E-L-Y](https://d-e-f-i-n-i-t-e-l-y.com/) - How to Spell Definitely
-* [RGB](https://www.rrrgggbbb.com/) - RRRGGGBBB 
-* [DogeWeather](http://dogeweather.com/) - Weather with Doge 
+* [RGB](https://www.rrrgggbbb.com/) - RRRGGGBBB
 * [Dial Up Sound](https://www.dialupsound.com/) - Dial Up Sounds
 * [Chris Shier](https://www.csh.bz/) - Canvas Animations / GIFs 
 * [thisvid2 Web Edition](https://projectlounge.pw/thisvid2) - (Funny) Twitter Video Downloader
@@ -578,6 +580,7 @@
 * [ASCIIMATION](http://www.asciimation.co.nz/) - Star Wars ASCII Animation
 * [Vim Cubed](https://github.com/oakes/vim_cubed) - Generate Cube Vim Text Editor
 * [Nestflix](https://nestflix.fun/) - Fictional Media in Media Database
+* [TheFoodPlace](https://thefoodplace.cafe/) - Food / Beverages from The Good Place
 * [Vintage Ad Browser](http://www.vintageadbrowser.com/) - 100,000+ Vintage Advertisements 
 * [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - Japanese Commercial Archive
 * [CameronsWorld](https://www.cameronsworld.net/) - 90's Themed Website
@@ -589,6 +592,7 @@
 * [Terminal Video Player](https://github.com/TheRealOrange/terminalvideoplayer) - Cursed Terminal Video Player
 * [Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator) - Pretend You Have Macbook Pro
 * [ILoveJarJarBinks](https://ilovejarjarbinks.tripod.com/) - Jar Jar Binks Fansite
+* [User Inyerface](https://userinyerface.com/) - Worlds Most Annoying Website
 * [SND](https://s-n-d.si/) - Strange Scrollable Story
 * [Terminal 00](https://angusnicneven.com/) - Turn Back
 * [IdiotProofWebsite](http://idiotproofwebsite.com/)
@@ -946,6 +950,7 @@
 * [Shadowmap](https://app.shadowmap.org/) or [ShadeMap](https://shademap.app/) - Solar Shadow Map
 * [Wikimapia](http://wikimapia.org/) - Online Editable Map
 * [AmCharts](https://www.amcharts.com/svg-maps/) - SVG Maps
+* [MapSCII](https://github.com/rastapasta/mapscii) - Braille & ASCII World Map
 * [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
 * [Point Address](https://pointaddress.com/), [mapus](https://github.com/alyssaxuu/mapus) or [Scribble Maps](https://www.scribblemaps.com/create/) - Custom Location Map
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
@@ -1001,7 +1006,7 @@
 * [Wandermap](http://www.wandermap.net/) or [AllTrails](https://www.alltrails.com/) - Hiking Routes
 * [Runmap](http://www.runmap.net/) - Running Routes
 * [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sound Map
-* [Notable People](https://tjukanovt.github.io/notable-people) - Notable People Map
+* [Notable People](https://tjukanovt.github.io/notable-people) or [People Map](https://pudding.cool/2019/05/people-map/) - Notable People Maps
 * [NUKEMAP](https://nuclearsecrecy.com/nukemap/), [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) or [AsteroidCollision](https://asteroidcollision.herokuapp.com/) - Interactive Damage Effect Maps
 * [convert_lat_long](https://andrew.hedges.name/experiments/convert_lat_long/) - Convert Latitude/Longitude to Decimal 
 * [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - Dialect Map
@@ -1087,6 +1092,7 @@
 * [FontFlipper](https://fontflipper.com/) - Font Finder
 * [enFont](https://enfont.javierarce.com/) - Custom Font Creator
 * [Phase](https://www.eliashanzer.com/phase/) - Variable Fonts Generator
+* [V-Fonts](https://v-fonts.com/) - Variable Fonts Tester
 * [Get Font](https://getfont.herokuapp.com/) - Find Font in Github 
 * [Fontjoy](https://experiments.withgoogle.com/fontjoy) - Generate Font Combinations
 * [FontSprite](https://adamstrange.itch.io/fontsprite) - FonstSprite Editor
