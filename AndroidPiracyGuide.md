@@ -391,7 +391,7 @@
 * [Copyhat](https://copyhat.com/) - AI Writing Tool
 * [Koler](https://github.com/Chooloo/koler) - Dialer App
 * [KONTXT](https://play.google.com/store/apps/details?id=com.realnetworks.kontxt.voice&hl=en&gl=US) - Preview Calls
-* [SimpleMail](https://framagit.org/dystopia-project/simple-email) or [FairCode](https://email.faircode.eu/) - Email App 
+* [SimpleMail](https://framagit.org/dystopia-project/simple-email), [k9mail](https://k9mail.app/) or [FairCode](https://email.faircode.eu/) - Email App 
 * [BlitzMail](https://github.com/grote/BlitzMail) - One Click Email App
 * [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957) - Temp Email Client
 * [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) - Multi-Calculator App
@@ -423,9 +423,6 @@
 * [LRC Editor](https://play.google.com/store/apps/details?id=com.cg.lrceditor) or [Audoir](https://audoir.com/) - Lyric Text Editor
 * [Reface](https://reface.app/) - Create Face Swap Videos 
 * [PGS](https://www.pgsharp.com/) - Modded Pokémon GO
-* [MiDoze](https://github.com/Keddnyo/MiDoze) - ROMs, Dials & Apps for Xiaomi Wearables
-* [schakal](https://www.schakal.ru/) - Amazfit Bip Watchfaces
-* [Bangle.js](https://www.f-droid.org/packages/com.espruino.gadgetbridge.banglejs/) - Bridge Android to Bangle.js Smart Watches
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
 * [ChariFree](https://play.google.com/store/apps/details?id=com.charifree) - Donate by Watching Ads
 * [Appetize](https://appetize.io/) - Run Native Mobile Apps in Browser
@@ -449,6 +446,10 @@
 * [Swappa](https://swappa.com/imei) or [SickW](https://www.sickw.com/) - IMEI, MEID, ESN Checker
 * [SWAP](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_swap) - Create SWAP file without Root
 * [TabletFriend](https://github.com/Martenfur/TabletFriend) - Custom Tablet Toolbars
+* [MiDoze](https://github.com/Keddnyo/MiDoze) - ROMs, Dials & Apps for Xiaomi Watches
+* [CasioGShockSmartSync](https://github.com/izivkov/CasioGShockSmartSync) - Google Services for Casio G-shock Watches
+* [schakal](https://www.schakal.ru/) - Amazfit Bip Watchfaces
+* [Bangle.js](https://www.f-droid.org/packages/com.espruino.gadgetbridge.banglejs/) - Bridge Android to Bangle.js Smart Watches
 
 ***
 
