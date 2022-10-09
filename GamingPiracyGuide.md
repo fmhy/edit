@@ -19,7 +19,7 @@
 * **[DODI](http://dodi-repacks.site/)** - [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
 * **[Steam Underground](https://cs.rin.ru/)** - [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Status](https://csrinstaff.writeas.com/)
 * **[DyR0t(-_-t)'s Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dyr0t.28-_-t)** 
-* **[CrackHub](https://crackhub.site/)** - [Discord](https://discord.gg/T669D6weqt) / [Divolt](https://cracksupport.divolt.xyz/) / [RSS](https://scene.crackhub.site/category/iso/rss)
+* **[CrackHub](https://crackhub.site/)** - [Discord](https://discord.gg/T669D6weqt) / [Divolt](https://divolt.xyz/invite/82nEH5Sp) / [RSS](https://scene.crackhub.site/category/iso/rss)
 * **[GamesDrive](https://gamesdrive.net/)** - [Discord](https://discord.gg/8J63nvSXpX) / [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * **[Ova Games](http://www.ovagames.com/)** - Use Adblocker
 * **[Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/)** - [Discord](https://discord.gg/HP5sQ6c)
@@ -404,6 +404,7 @@
 * [Google Maps Snake](https://snake.googlemaps.com/) - Google Snake
 * [Snake-Game](https://www.onemotion.com/snake-game/) - 3D Snake
 * [SnakeGen](https://projects.victormeunier.com/snakegen/index.html) - Snake Game Generator
+* [QuineSnake](https://github.com/taylorconor/quinesnake) - Quine Source Snake
 * [ProAsm](http://www.proasm.com/) - Retro Game Mods
 * [Muds](https://muds.fandom.com/wiki/) - Text Adventure ROM Wiki
 * [Mudlet](https://www.mudlet.org/) - Text Adventure Game Platform
@@ -639,6 +640,7 @@
 * [AllBad.Cards](https://allbad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - Cards Against Humanity Online 
 * [Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards) - Card Games Index
 * [WorldOfCardGames](https://worldofcardgames.com/), [247Games](https://www.247games.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Card Games
+* [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards with Wikidata
 * [Solitaired](https://solitaired.com/) - Solitaire
 * [Free Spider Solitaire](https://freespidersolitaire.io/) - Spider Solitaire
 * [Mah-Jongg](https://www.mah-jongg.ch/) - Mahjongg Solitaire Games
@@ -714,7 +716,8 @@
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
 * [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
 * [WTM](https://whatthemovie.com/) - Movie Guessing Game
-* [Heardle](https://www.heardle.app/) - Song Guessing Game
+* [Heardle](https://www.heardle.app/) or [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - Song Guessing Games
+* [DanceMusic](http://dancemusic.wtf/) - Electronic Music Genre Guessing Game
 * [GuessTheGame](https://guessthe.game/) - Game Guessing Game
 * [LanguageGuesser](https://languageguesser.com/) - Guess Music Video Languages 
 * [Emoji Dingbats](https://emoji-dingbats.herokuapp.com/) - Emoji Dingbat Game
