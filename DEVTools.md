@@ -125,6 +125,7 @@
 * [ReGeX](https://github.com/phikal/ReGeX) - ReGeX Learning Game / Android
 * [ReFrF](https://refrf.dev/), [Regex.info](http://regex.info/), [RegExr](https://regexr.com/) or [RegexLearn](https://regexlearn.com/) - Learn Regex
 * [Data Science Ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Learn DataScience
+* [CSS Battle](https://cssbattle.dev/) - CSS Practice / Battles
 * [FlexBoxFroggy](https://flexboxfroggy.com/) - CSS Learning Game
 * [Grid Garden](https://cssgridgarden.com/) - CSS Grid Learning Game
 * [LearnCSSGrid](http://learncssgrid.com/) - CSS Grid Guide
@@ -153,6 +154,7 @@
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
 * [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn Pentesting
 * [SebastianLague](https://www.youtube.com/c/SebastianLague/playlists?view=50&sort=dd&shelf_id=4) - Game Development Tutorials
+* [Trig for Games](https://demoman.net/?a=trig-for-games) - Trigonometry Lessons for Games
 * [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Making Tutorials
 * [LandChad](https://landchad.net/) or [learn.sadgrl.online](https://learn.sadgrl.online/) - Site Development Guides
 * [Full Stack Solana Development Guide](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) - [Examples](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)
@@ -167,6 +169,7 @@
 * [PHP: The Right Way](https://phptherightway.com/) or [PHP Tutorial](https://www.phptutorial.net/) - PHP Guides
 * [UI & Web Design using Adobe Illustrator C](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ui_.26amp.3B_web_design_using_adobe_illustrator_c) - UI & Webdesign Course
 * [Learn UI Design](https://learnui.design/) - UI Design Course
+* [Can't Unsee](https://cantunsee.space/) - UI Design Test
 * [UXTools](https://uxtools.co/) or [UXMovement](https://uxmovement.com/) - Learn UX Design
 * [SitePoint](https://www.sitepoint.com/) - UX Design Courses & Books
 * [FrontEndMentor](https://www.frontendmentor.io/) or [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) - Frontend Design Challenges
@@ -276,9 +279,9 @@
 * [Devtron](https://devtron.ai/) - Kubernetes Tool Integration
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - Microservice Architecture Resource Index
 * [LibreLogos](https://www.librelogos.org/) or [LogoTaco](https://www.logotaco.com/) - Project Logos
-* [Lorem.space](https://lorem.space/), [Placeem](https://placem.at/), [PlaceHolder](https://placeholder.pics/), [PicSum](https://picsum.photos/) or [FakeIMG](https://fakeimg.pl/) - Site Placeholder Images
 * [Rejoiner](https://rejoiner.io/) - Uniform GraphQL Schema from gRPC Microservices / [GitHub](https://github.com/google/rejoiner)
 * [CFDocs](https://cfdocs.org/) - CFML Documentation Reference
+* [Input Delay Test](https://input-delay.glitch.me/) - Input Delay Experiment
 * [Asynchronous Messaging](https://github.com/clemensv/messaging) - Asynchronous Messaging Resources
 * [CoreFTP](http://www.coreftp.com/) - FTP Client
 * [Cumcord](https://cumcord.com/) - Discord Developer Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)
@@ -297,6 +300,7 @@
 * [Birdsite](https://birdsite.slashdev.space/) - Twitter to ActivityPub Bridge
 * [rss-to-activitypub](https://portal.0svc.com/convert/) - RSS to ActivityPub Converter
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
+* [Constraints](https://zalo.github.io/blog/constraints/) - Find Minimum Movement Constraint.
 * [XunLei](https://www.xunlei.com/) - Shared Computing / Blockchain
 * [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulator
 * [Tesseract](https://tesseract-ocr.github.io/) - Open Source OCR Engine / [GitHub](https://github.com/tesseract-ocr/tesseract)
@@ -341,6 +345,7 @@
 * [Sympli](https://sympli.io/), [AnimaApp](https://www.animaapp.com/) or [ZeroHeight](https://www.zeroheight.com/) - Developement Collaboration Tool
 * [Grav](https://getgrav.org/) - Flat-File CMS
 * [Flux](https://www.runonflux.io/) - Decentralized Cloud Infrastructure
+* [URLPages](https://github.com/jstrieb/urlpages) - Store Entire Pages in URLs
 * [Package Web](https://github.com/rsc/web) - Basic Site Serving Framework
 * [webdev](https://www.reddit.com/user/Romaixn/m/webdev/) - Web Developer Multireddit
 * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Web Developer Toolbar Extension
@@ -456,7 +461,9 @@
 * [Pattern Monster](https://pattern.monster/) - SVG Pattern Generator
 * [Broider](https://maxbittker.github.io/broider/) - Create Border Designs
 * [ShapeDivider](https://www.shapedivider.app/) or [blobbb ](https://www.blobbb.fun/)- Make SVG Shape Divider
+* [Lorem.space](https://lorem.space/), [Placeem](https://placem.at/), [PlaceHolder](https://placeholder.pics/), [PicSum](https://picsum.photos/) or [FakeIMG](https://fakeimg.pl/) - Site Placeholder Images
 * [MinimalAvatars](https://minimalavatars.com/) - Minimal Site Avatars
+* [JoeSchmoe](https://joeschmoe.io/) - Avatar Placeholders
 * [GalleryProject](http://galleryproject.org/) - Manage / Host Photos on Website 
 * [PublishThisEmail](https://www.publishthis.email/) - Email Based Website Builder
 * [PrivateDaddy](https://www.privatedaddy.com/) - Auto Hide Email Address'
@@ -722,7 +729,7 @@ Automated Incident Response and Forensics Framework
 * [Playerio](https://playerio.com/) - Online Game Engine
 * [RPG Playground](https://rpgplayground.com/) - Simple RPG Creator
 * [Game-Editor](http://game-editor.com/Main_Page), [microStudio](https://microstudio.itch.io/microstudio) or [BuildBox](http://buildbox.com/) - Game Creators
-* [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://pennie.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop) / [2](https://gdevelop.io/), [Bitsy](http://ledoux.io/bitsy/editor.html), [LIKO 12](https://github.com/LIKO-12/LIKO-12), [Script 8](https://script-8.github.io/), [GDPS](https://gdpseditor.com/) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - 2D Game Creators
+* [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://pennie.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop) / [2](https://gdevelop.io/), [Bitsy](http://ledoux.io/bitsy/editor.html), [LIKO 12](https://github.com/LIKO-12/LIKO-12), [Script 8](https://script-8.github.io/), [GDPS](https://gdpseditor.com/), [Figma](https://alyssax.com/x/platformer/) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - 2D Game Creators
 * [3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models) - 3D Models / Tools
 * [Unreal Engine](https://www.unrealengine.com/) - 3D Creation Tool / [Python](https://github.com/20tab/UnrealEnginePython) / [C#](https://gamefromscratch.com/getting-started-with-unrealclr/)
 * [Tommti Systems](http://www.tommti-systems.de/go.html?http://www.tommti-systems.de/main-Dateien/files.html) - 3D Benchmark Tools
@@ -800,26 +807,28 @@ Automated Incident Response and Forensics Framework
 * [Markup Validation Service](https://validator.w3.org/) - Validate Your Markup Language Structure
 * [typeset](https://typeset.lllllllllllllllll.com/) - HTML Typography Pre-Processor
 * [HTMLColorCodes](https://htmlcolorcodes.com/) - HTML Color Codes
-* [Awesome HTML5](https://github.com/diegocard/awesome-html5) - HTML5 resources 
+* [Awesome HTML5](https://github.com/diegocard/awesome-html5) - HTML5 Resources
 * [GDevelop](https://gdevelop-app.com/) - HTML5 Game Creator
-* [Phaser](https://phaser.io/) - Mobile HTML5 Game Framework 
-* [PlayCanvas](https://playcanvas.com/) - Build HTML5 Visualizations / Games 
+* [Phaser](https://phaser.io/) - Mobile HTML5 Game Framework
+* [PlayCanvas](https://playcanvas.com/) - Build HTML5 Visualizations / Games
 * [pup](https://github.com/ericchiang/pup) - HTML Processing CLI
 * [CSS Scan](https://chrome.google.com/webstore/detail/css-scan/gieabiemggnpnminflinemaickipbebg?hl=en) - CSS Editor
-* [CSS Protips](https://github.com/AllThingsSmitty/css-protips) or [CSS Reference](https://cssreference.io/) - CSS Guide 
-* [Awesome CSS](https://github.com/awesome-css-group/awesome-css) - CSS resources 
-* [Cssgr](https://cssgr.id/), [BoxBox](https://seansleblanc.itch.io/boxboxhtml) or [Layoutit Grid](https://grid.layoutit.com/) - CSS Grid Generators
+* [CSS Protips](https://github.com/AllThingsSmitty/css-protips) or [CSS Reference](https://cssreference.io/) - CSS Guide
+* [Awesome CSS](https://github.com/awesome-css-group/awesome-css) - CSS Resources
+* [Cssgr](https://cssgr.id/), [BoxBox](https://seansleblanc.itch.io/boxboxhtml), [CSSGridGenerator](https://cssgrid-generator.netlify.app/) or [Layoutit Grid](https://grid.layoutit.com/) - CSS Grid Generators
 * [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi) - CSS Element Outline Extension
 * [Water.css](https://watercss.kognise.dev/) - CSS Styles Collection
 * [Leon's CSS](https://leonarnott.neocities.org/) or [Wordart](https://codepen.io/kathykato/details/omxPap) - CSS Text Styles
-* [Hover.CSS](https://ianlunn.github.io/Hover/) - CSS Hover Effects 
+* [Hover.CSS](https://ianlunn.github.io/Hover/) - CSS Hover Effects
 * [Clippy](https://bennettfeely.com/clippy/) - CSS Clip Maker
 * [PixelArtCSS](https://www.pixelartcss.com/) - Pixel Art to CSS
 * [Separator Generator](https://wweb.dev/resources/css-separator-generator/) - CSS Separator Generator CSS
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - Organic CSS Shape Generator
 * [BestCSSButtonGenerator](https://www.bestcssbuttongenerator.com/) - CSS Button Generator
 * [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds), [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://gradienta.io/), [GradientMagic](https://www.gradientmagic.com/), [heropatterns](https://heropatterns.com/), [thepatternlibrary](http://thepatternlibrary.com/), [Color Morph](https://www.color-morph.com/), [CSSGradient](https://cssgradient.io/) or [uigradients](https://uigradients.com/) - CSS Patterns / Gradients
+* [CSS Doodle](https://css-doodle.com/) - CSS Pattern Generator
 * [CSSLayout](https://csslayout.io/) - CSS Layouts
+* [CSS3 Transform](https://css-transform.moro.es/) - 2D & 3D CSS Transform Functions Visualizer
 * [Gradient Animator](https://www.gradient-animator.com/) - Animated CSS Gradient Generator
 * [LCH Colour Picker](https://css.land/lch/) - CSS Color Picker
 * [Animista](https://animista.net/), [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) or [Woah.css](https://www.joerezendes.com/projects/Woah.css/) - CSS Animations
@@ -827,8 +836,8 @@ Automated Incident Response and Forensics Framework
 * [css2scss](https://sebastianpontow.de/css2compass/) - CSS to SCSS Converter 
 * [Tableconvert](https://tableconvert.com/) - Markdown / Code Converter
 * [Markdown Link Check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check Markdown Files for Dead Links 
-* [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks), [Bulma](https://bulma.io/), [Tailwind](https://tailwindcss.com/) or [SimpleCSS](https://simplecss.org/) - CSS Framework
-* [DaisyUI](https://daisyui.com/) - Tailwind Component Library / [GitHub](https://github.com/saadeghi/daisyui )
+* [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks), [Terminal CSS](https://terminalcss.xyz/), [Bulma](https://bulma.io/), [Tailwind](https://tailwindcss.com/) or [SimpleCSS](https://simplecss.org/) - CSS Frameworks
+* [DaisyUI](https://daisyui.com/) - Tailwind Component Library / [GitHub](https://github.com/saadeghi/daisyui)
 * [TailBlocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS Blocks
 * [MarkdownGuide](https://www.markdownguide.org/) - Guide for Markdown (.md) 
 * [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/), [Apostrophe](https://github.com/ApostropheEditor/Apostrophe), [Glow](https://github.com/charmbracelet/glow) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editor
@@ -902,6 +911,7 @@ Automated Incident Response and Forensics Framework
 * [Git-notify](https://github.com/jevakallio/git-notify) - Embed Announcements into Git Commit Messages
 * [Shields.io](https://shields.io/) - Metadata badges for GitHub Readmes
 * [SkillIcons](https://skillicons.dev/) - Skill Badges for GitHub Readmes / Resumes
+* [GitHub Spray](https://github.com/Annihil/github-spray) - Draw on Github Contribution Page
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - Enable Snake Game on GitHub Readme
 * [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) or [GPRM](https://gprm.itsvg.in/) - Generate Git Profile Readme
 * [GitStalk](https://gitstalk.netlify.app/) - GitHub Profile Info Search
@@ -1173,8 +1183,8 @@ Automated Incident Response and Forensics Framework
 * [bloop](https://bloop.ai/) - IDE AI Suggestion Extension
 * [glot.io](https://glot.io/) - Pastebin with Runnable Snippets, API & Compiler
 * [Fig](https://fig.io/) - IDE-Style Autocomplete for Terminal
-* [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [IDE One](https://www.ideone.com/),  [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer), [GodBolt](https://godbolt.org/) or [Wandbox](https://wandbox.org/) - Compiler Explorers
-* [DogBolt](https://dogbolt.org/) - Decompiler Explorer
+* [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [IDE One](https://www.ideone.com/), [GodBolt](https://godbolt.org/) or [Wandbox](https://wandbox.org/) - Compiler Explorers
+* [DogBolt](https://dogbolt.org/) or [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorers
 * [Notebooks.azure](https://notebooks.azure.com/) - Access Jupyter Notebooks
 * [Jupyter Server](https://github.com/jupyter-server/jupyter_server) - Jupyter Services / APIs
 * [CoCalc](https://cocalc.com/) - Virtual online workspace
