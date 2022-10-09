@@ -192,6 +192,7 @@
 * [Moodli](https://www.moodil.com/) - Ambient
 * [Moszen](https://www.moszen.com/) - Ambient 
 * [Soundscape](https://soundescape.io/) - Ambient
+* [Generative.fm](https://generative.fm/) - Ambient
 * [Soundrown](http://soundrown.com/) - Ambient 
 * [Relaxing Sounds](https://unifycosmos.com/relaxing-sounds/) - Ambient
 * [Whispr](https://www.whispr.tech/) - Ambient
