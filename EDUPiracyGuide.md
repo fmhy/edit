@@ -434,7 +434,7 @@ Simulator
 * [The Universe Through Time](https://i.imgur.com/A2C6Vpc.jpeg) - Universe Timeline
 * [Space Dashboard](https://spacedashboard.com/) - Space Live Stream Dashboard 
 * [EarthData](https://worldview.earthdata.nasa.gov/) - Daily Satellite Replays
-* [NASA WorldWind](http://sourceforge.net/projects/nasa-exp/) - Virtual NASA Imagery Globe
+* [NASA WorldWind](http://sourceforge.net/projects/nasa-exp/) or [Planet Globe](https://nbremer.github.io/planet-globe/) - Virtual Globes
 * [ISS Sim](https://iss-sim.spacex.com/) - ISS Docking Simulator 
 * [HDEV Payload](https://video.ibm.com/channel/iss-hdev-payload) - Live ISS Stream ISS
 * [SpaceX Media 2015](http://web.archive.org/web/20150328140645/http://www.spacex.com/media) / [2019](http://web.archive.org/web/20191122175115/https://www.spacex.com/media) - SpaceX Media Archive
@@ -457,6 +457,7 @@ Simulator
 * [1 Pixel moon](https://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html), [LightYear](https://www.lightyear.fm/) or [OMG SPACE](http://omgspace.net/) - Solar System Scale Model
 * [3DSolarSystem](https://theskylive.com/3dsolarsystem) or [SpaceInBrowser](https://spaceinbrowser.com/) - Solar System Simulator 
 * [The Planets](https://planets-facts-website.netlify.app/) - Learn About Planets
+* [ExoplanetExplore](https://exoplanetexplore.vercel.app) - Interactive Exoplanet Visualization
 * [Space Object Comparison](https://mr21.github.io/space-object-comparison/) - Compare Sizes Of Celestial Objects
 * [Spy Map Online](https://skymaponline.net/) - Star Map
 * [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive 3D Star Visualization
@@ -540,6 +541,7 @@ Simulator
 * [Nihongo](https://nihongo-e-na.com/eng/), [Jim Breen's Japanese Page](http://nihongo.monash.edu/japanese.html), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/), [AnimeCards](https://animecards.site/), [Gakuu](https://web.archive.org/web/20201113022338/http://gakuu.com/resources/), [Itzazureneko](https://itazuraneko.neocities.org/learn/guide.html) - Japanese Learning Resources
 * [TheMoeWay](https://learnjapanese.moe/) / [Discord](https://discord.gg/nhqjydaR8j), [Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese
 * [Minato](https://minato-jf.jp/) - Japanese Courses
+* [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
 * [Memento](https://github.com/ripose-jp/Memento) - Japanese Learning Video Player
 * [JapaneseWithAnime](https://www.japanesewithanime.com/) - Learn Japanese with Anime
 * [BilingualManga](https://bilingualmanga.net/) - Learn Japanese with Manga
@@ -669,6 +671,7 @@ Simulator
 * [/r/coolguides](https://reddit.com/r/coolguides/), [1001 Tutorials](http://www.fricking.ninja/DIY/index/1001%20Tutorials/), [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials 
 * [LitCharts](https://www.litcharts.com/) - Literature Guides
 * [The Punctuation Guide](https://www.thepunctuationguide.com/) - Punctuation Guide
+* [TypeTerms](https://www.supremo.co.uk/typeterms/) - Typography Cheat Sheet
 * [AWAD Challenge](http://awadchallenge.com/) - Learn a New Word Everyday
 * [Bonsai](https://bonsaibrowser.com/) - Research Web Browser
 * [StringMark](https://www.stringmark.com/) - Save & Mark Research in Browser
@@ -769,6 +772,7 @@ Simulator
 * [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/) or [Map Quiz](https://planemad.github.io/map-quiz/) - Geography Quizzes
 * [Geograph WorldWide](https://www.geograph.org/) - Worldwide Photographs
 * [Flaggr](https://flaggr.me/) - Country Flag Quiz
+* [US Flags](https://usflags.design/) - US Flag Index
 * [The True Size](https://thetruesize.com/) - Compare Country Size 
 * [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
 * [JoinUS World](https://www.joinusworld.org/) - Korean Culture Q&A Site
@@ -789,14 +793,16 @@ Simulator
 * [Interactive 4D Handbook](https://baileysnyder.com/interactive-4d/) - Interactive Fourth Dimension
 * [Início](https://www.desolhar-philo.com/) - Learn about Philosophers / Philosophy
 * [Get Body Smart](https://www.getbodysmart.com/) - Learn about Human Anatomy and Physiology
-* [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) or [Mindat](https://www.mindat.org/) - Mineralogy Database 
+* [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) or [Mindat](https://www.mindat.org/) - Mineralogy Database
+* [WhyDoCatsAndDogs...?](https://whydocatsanddogs.com/) - Pet Q&A Site
 * [Alien](https://alien-project.org/) - Artificial Life Simulator / [GitHub](https://github.com/chrxh/alien) / [Video](https://youtu.be/w9R6zrdl6jM)
 * [OneZoom](http://www.onezoom.org/) - Tree of Life Explorer 
-* [Wikispecies](https://species.wikimedia.org/) or [The Catalogue of Life](https://www.catalogueoflife.org/) - Species Directory 
+* [Wikispecies](https://species.wikimedia.org/) or [The Catalogue of Life](https://www.catalogueoflife.org/) - Species Directory
 * [Lost and Found Nature](https://www.lostandfoundnature.com/) - Re-Discovered Animals & Plants
 * [A-Z Animal](https://a-z-animals.com/) - Animal Encyclopedia
 * [Ocearch](https://www.ocearch.org/?list) - Track Marine Life
 * [The Deep Sea](https://neal.fun/deep-sea/) - Interactive Deep Sea Life Guide
+* [Pattern Radio](https://patternradio.withgoogle.com/) - Listen to Whale Songs
 * [Life Under the Ice](https://lifeundertheice.org/) - View Antarctic Microbes
 * [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
 * [8000ers](https://martin-laxenaire.fr/experiments/8000ers/#/everest) or [Mount Everest 3D](https://mount-everest3d.com/) - Mountain Visualizations & Info
@@ -819,7 +825,7 @@ Simulator
 * [Chess Tempo](https://chesstempo.com/) - Play & Learn Chess
 * [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - Wood Working Guides & Articles
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots 
-* [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Art cyclopedia](http://www.artcyclopedia.com/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collection
+* [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Art cyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](http://wolfmanmuseum.org/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collections
 * [Earth 2050](https://2050.earth/) - Future Predictions
 * [Nuclear Risk Calculator](https://app.hex.tech/399c4a29-5b7f-4f70-8b53-afa8da38dd72/app/def94910-d017-4508-847c-e1189d3b6042/latest) - Calculate Risk of Nuclear War 
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
