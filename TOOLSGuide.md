@@ -43,7 +43,7 @@
 * [DripDrop](https://www.dripdrop.live/) - Product Drop Countdown
 * [SetAlarmClock](https://setalarmclock.net/) - Online Alarm Clock
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
-* [Dashana](https://dashana.com/), [Flourish](https://flourish.studio/), [DataWrapper](https://www.datawrapper.de/), [RAWgraphs](https://app.rawgraphs.io/) / [GitHub](https://github.com/rawgraphs/rawgraphs-app) or [ParaView](https://github.com/Kitware/ParaView) - Data Visualization Tools
+* [Dashana](https://dashana.com/), [Flourish](https://flourish.studio/), [DataWrapper](https://www.datawrapper.de/), [RAWgraphs](https://app.rawgraphs.io/) / [GitHub](https://github.com/rawgraphs/rawgraphs-app), [Chart.xkcd](https://timqian.com/chart.xkcd/) or [ParaView](https://github.com/Kitware/ParaView) - Data Visualization Tools
 * [Grocy](https://grocy.info/) - Grocery / Household Management Tool
 * [Volmarg](https://volmarg.github.io/) - Personal Management Tool
 * [WhoBrings](https://whobrings.com/) - Party Item Management Tool
@@ -175,6 +175,7 @@
 * [PolyGlot](https://draquet.github.io/PolyGlot/) or [VulgarLang](https://www.vulgarlang.com/) - Spoken Language Construction Tools
 * [Awkwords](http://akana.conlang.org/tools/awkwords/) - Word Generators
 * [Lorem Ipsum Generator](https://apps.maximelafarie.com/lig/), [DevLorem](https://github.com/Kovah/DevLorem) or [Lorem Ipsum](https://www.lipsum.com/) - Generate Placeholder Text
+* [JeffSumm](https://jeffsum.com/) - Generate Jeff Goldblum Placeholder Text
 * [text-regenerator](https://github.com/jddunn/text-regenerator) - Replace Words with Synonyms
 * [Typoer](https://github.com/georgetian3/typoer) - Types Text with Typos / Corrections
 * [Typewaiter](https://oisinmoran.com/typewaiter) - Endlessly Moving Typwriter
@@ -512,11 +513,13 @@
 * [WD-1](https://www.worteldrie.com/WD5/), [Citizen DJ](https://citizen-dj.labs.loc.gov/loc-variety-stage/remix/), [YOU.DJ](https://you.dj/) or [Until AM](http://mix.until.am/) - Online DJ / Beat Creator 
 * [RaveDJ](https://rave.dj/) - Easily Mix Songs Together 
 * [EZStems](https://www.ezstems.com/) - Create Audio STEMS
-* [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) - Create Songs with Code 
+* [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) - Create Songs with Code
+* [Viano](https://github.com/isaaclyman/Viano) - Create Songs with Vue
 * [WebSynths](http://www.websynths.com/) or [Roland50](https://roland50.studio/) - Browser-Based Instruments 
 * [JummBox](https://jummbus.bitbucket.io/), [Pata Tracker](https://pixwlk.itch.io/pata-tracker), [JummBus](https://jummbus.bitbucket.io/) or [Klystrack](https://github.com/kometbomb/klystrack) - Chiptune Music Creator
 * [Audovia Music](https://songbase.github.io/) - Classical Music Creator
-* [Melody Generator](https://dopeloop.ai/melody-generator), [Rosegarden](https://rosegardenmusic.com/) or [Ariamaestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html) - MIDI Editor
+* [Melody Generator](https://dopeloop.ai/melody-generator), [Rosegarden](https://rosegardenmusic.com/) or [Ariamaestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html) - MIDI Editors
+* [MIDI City](https://midicity-2000.glitch.me/) - City Style MIDI Editor
 * [MIDI Recorder](https://midi-recorder.web.app/) - MIDI Keyboard Recorder
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- MIDI Files 
 * [MidiKlavar](https://midiklavar.sourceforge.io/) - MIDI File Converter
@@ -544,7 +547,7 @@
 * [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - Pop Song Sample Mixer
 * [Nightcore Maker](https://nightcoremaker.com/) - Create Nightcore Versions of Songs
 * [WubMachine](https://the.wubmachine.com/) - Create DubstepVersions of Songs
-* [Wolfram Tones](https://tones.wolfram.com/) or [Jingle](https://aidn.jp/jingle/) - Song Generators
+* [Wolfram Tones](https://tones.wolfram.com/), [audio visual generator](https://fredericbriolet.com/avg/) or [Jingle](https://aidn.jp/jingle/) - Song Generators
 * [CSound](https://csound.com/) - Music Computing System
 * [GoAudio](https://github.com/DylanMeeus/GoAudio) - Audio Processing Library 
 * [Helio](https://helio.fm/) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
@@ -1413,7 +1416,8 @@
 * [Comment Viewer](https://commentviewer.com/) - Search & Sort Youtube Comments
 * [TubeArchivist](https://www.tubearchivist.com/) - Archival Youtube Media Server / [GitHub](https://github.com/bbilly1/tubearchivist)
 * [Incognitube](https://www.incognitube.com/) or [Petit tube](http://www.petittube.com/) - YouTube Vids with -100 views 
-* [YouTube-Geofind](https://mattw.io/youtube-geofind/location) - Find Geotagged Videos 
+* [YouTube-Geofind](https://mattw.io/youtube-geofind/location) - Find Geotagged Videos
+* [Astronaut](http://astronaut.io/) - Watch Videos with 0 Views
 * [Default Filename](https://default-filename-tv.neocities.org/) - Random Default Filename YouTube Videos
 * [Tubeup](https://github.com/bibanon/tubeup) - Archive Youtube Videos and Playlists to Internet Archive
 * [Unlisted Videos](https://unlistedvideos.com/) - Watch / Submit Unlisted YouTube Videos
@@ -1584,7 +1588,8 @@ Twitch Stream Tracker
 * [Twitual](http://twitual.com/) or [DoesFollow](https://doesfollow.com/) - Follower / Following Analysis 
 * [Twitter Intelligence](https://github.com/batuhaniskr/twitter-intelligence) - Python Twitter Tracking & Analysis Tool
 * [TweetTopicExplorer](http://tweettopicexplorer.neoformix.com/) - See a Users Most Common Words 
-* [Twayback Machine](http://staringispolite.github.io/twayback-machine/) - View a Users Old Tweets 
+* [Twayback Machine](http://staringispolite.github.io/twayback-machine/) - View a Users Old Tweets
+* [FirstTweets](https://firsttweets.glitch.me/) - Views Worlds  First Tweets
 * [Hoaxy](https://hoaxy.osome.iu.edu/) - Twitter Info Spread Data
 * [Tweets Analyzer](https://github.com/x0rz/tweets_analyzer) - Tweet Metadata Scraper 
 * [GeoSocial Footprint](http://geosocialfootprint.com/) or [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint 
@@ -1937,7 +1942,8 @@ Twitch Stream Tracker
 * [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - Change Java Version
 * [gter](https://github.com/raoofha/gter) - Embed a GUI app Inside a Terminal Window
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - Terminal Frameworks, Plugins & Resources 
-* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/) or [MobaXterm](https://mobaxterm.mobatek.net/) - Alternative Terminal 
+* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/) or [MobaXterm](https://mobaxterm.mobatek.net/) - Alternative Terminal
+* [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) - Terminal Dashboard That Cares
 * [Gradient Terminal](https://github.com/aurora-0025/gradient-terminal) - Display Terminal Output as Gradient
 * [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) or [command-line-tools](https://github.com/learn-anything/command-line-tools) - Command Line Apps
 * [ss64](https://ss64.com/) - Command Line Reference Index
