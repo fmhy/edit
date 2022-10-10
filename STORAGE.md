@@ -554,7 +554,7 @@ Manhua
 
 #### Encode / Decode URLs
 
-**[Universal Encoding Tool](https://unenc.com/)**, **[Txtmoji](https://txtmoji.com/)**, [Online Tools](https://emn178.github.io/online-tools/index.html), [Dencode](https://dencode.com/), [AES-256](https://secretmessages.online/) / [2](https://encipher.it/), [UTF8](https://onlineutf8tools.com/), [PubKey](https://pubkey.pm/), [Age Online](https://age-online.com/), [Universal Online Cyrillic Decoder](https://2cyr.com/decode/?lang=en), [Cryptii](https://cryptii.com/)
+**[Universal Encoding Tool](https://unenc.com/)**, **[Txtmoji](https://txtmoji.com/)**, [Online Tools](https://emn178.github.io/online-tools/index.html), [Dencode](https://dencode.com/), [AES-256](https://secretmessages.online/) / [2](https://encipher.it/), [UTF8](https://onlineutf8tools.com/), [PubKey](https://pubkey.pm/), [Age Online](https://age-online.com/), [Universal Online Cyrillic Decoder](https://2cyr.com/decode/?lang=en), [Cryptii](https://cryptii.com/), [Enigma Machine](https://observablehq.com/@tmcw/enigma-machine)
 
 **Base 64**
 
