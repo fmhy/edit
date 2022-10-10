@@ -1609,7 +1609,7 @@ Twitch Stream Tracker
 * [TwitterAudit](https://www.twitteraudit.com/) - Check How Many of your Followers are Real
 * [ReSync](https://revsync.io/) - Sync Newletter Subs to Existing Tool
 * [ListCopy](http://projects.noahliebman.net/listcopy/connect.php) - Copy Twitter Lists 
-* [Twlets](http://twlets.com/) - Export Twitter Data 
+* [ExportData](https://www.exportdata.io/) or [Twlets](http://twlets.com/) - Export Twitter Data 
 * [Twint](https://github.com/twintproject/twint) or [TwitterScraper](https://github.com/taspinar/twitterscraper) - Twitter Scraping / OSINT Tool
 * [QuestionBox](https://peing.net/en/) - Anonymous Twitter Question Tool
 * [EmojiTracker](http://emojitracker.com/) - Real-Time Twitter Emoji Use 
