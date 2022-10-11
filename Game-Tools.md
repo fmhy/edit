@@ -304,6 +304,7 @@
 ## ▷ GTA Tools
 
 * [GTAAll](https://www.gtaall.com/), [GTAInside](https://gtainside.com/), [GameModding](https://gamemodding.com/), [GTAGarage](https://gtagarage.com/) or [LibertyCity](https://libertycity.net/) - GTA Mods, Cheats, Walkthroughs & more
+* [GTA5-Mods](https://www.gta5-mods.com/) - GTAV Mods
 * [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods
 * [FiveM](https://fivem.net/) - Modded GTAV Servers
 * [GTA-V-patcher](https://github.com/NicolasR/GTA-V-patcher) - Automate GTAV Patches
