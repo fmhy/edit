@@ -8,7 +8,7 @@
 
 * Anyone can organize, correct or change anything they feel could be improved.
 
-* If you're adding a new site, please ctrl+f the url [here](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page) to make sure we don't already have it.
+* If you're adding a new site, please ctrl+f the url on this [page](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page) or [engine](https://github.com/Rust1667/a-FMHY-search-engine) to make sure we don't already have it.
 
 * Approved edits will be applied to [reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki) and all [backups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups).
 
