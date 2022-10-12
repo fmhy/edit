@@ -431,7 +431,7 @@
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - Scan & Digitize Documents / iOS
 * [Swapper](https://icons8.com/swapper) - Face Swapper
 * [DeepSort](https://github.com/CorentinB/DeepSort/) or [WiseTagger](https://github.com/0xb8/WiseTagger) - Image Tagger 
-* [Cluttr](https://gitlab.com/bearjaws/cluttr) or [PhotoPrism](https://photoprism.app/) - Automatically Organize & Tag Photos
+* [Cluttr](https://gitlab.com/bearjaws/cluttr) - Automatically Organize & Tag Photos
 * [Photo.net Tutorials](https://www.photo.net/learn/about/tutorials) - Photography Tutorials
 * [Canon Camera Museum](https://global.canon/en/c-museum/camera-series.html) - History of Canon Cameras
 * [Painting Demos](https://paintingdemos.com/) - Painting Demonstrations
