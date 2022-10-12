@@ -1613,6 +1613,7 @@
 * [Diccionario RAE en un clic](https://chrome.google.com/webstore/detail/diccionario-rae-en-un-cli/gejdeepcjkfbepfkcfdgiodgoglakiii) - Dictionary Extension
 * [GermanDeutsch](https://t.me/GermanDeutsch) - Learn German
 * [Bliscop](https://www.bliscop.com/) - Online Payment Software
+* [LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels) - Free(Libre) IPTV channels from Spain
 
 ## ▷ Downloading
 
