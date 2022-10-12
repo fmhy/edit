@@ -1314,7 +1314,7 @@
 * [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - Preview Role Colors Role
 * [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - Encode videos to <8MB
 * [Discord Together](https://github.com/RemyK888/discord-together) - Video Stream Sync / Watch Parties
-* [MangaCord](https://top.gg/bot/751148743901970622?tab=overview) - Read Manga on Discord [Disocrd](https://discord.gg/UtTJcWzCRe)
+* [MangaCord](https://top.gg/bot/751148743901970622?tab=overview) - Read Manga on Discord [Discord](https://discord.gg/UtTJcWzCRe)
 * [DiskCord](https://github.com/5ut/DiskCord) - Host Files on External Sites to share via Discord
 * [discordcompressor](https://github.com/vladaad/discordcompressor) - Video Compressor
 * [Natron](https://natron.fr/) or [Fusion](https://www.blackmagicdesign.com/ca/products/fusion/) - Video Compositing
