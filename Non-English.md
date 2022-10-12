@@ -1653,6 +1653,7 @@
 * [EliteTorrent](https://elitetorrent.com/), [2](https://www.elitetorrent.do/) - Movies / TV / Anime
 * [zonatorrent](https://zonatorrent.tv/) - Movies / TV
 * [Grantorrent.wtf](https://grantorrent.wtf/) - Movies / TV / Documentaries
+* [DonTorrent](https://dontorrent.uno/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent)
 * [PasateaTorrent](https://pasateatorrent.net/) - Movies / TV
 * [Descargas](https://descargas2020.net/) - Movies / TV
 * [Cinetorrent](http://mozatimes.com/) - Movies / TV
