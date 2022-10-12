@@ -216,6 +216,7 @@
 * [Udemy Paid Courses Grabber](https://github.com/AmmeySaini/Udemy-Paid-Courses-Grabber) - Udemy Course Grabber
 * [UdemyCourseGrabber](https://github.com/keethesh/UdemyCourseGrabber) - Find Udemy Course Download Links
 * [Udacimak](https://github.com/udacimak/udacimak) - Udacity Nanodegree / Course Downloader
+* [Traders Video Library - Telegram](https://t.me/+SrWg6eTupAdnoXgY) - Trading courses
 
 ## ▷ Documentaries
 
