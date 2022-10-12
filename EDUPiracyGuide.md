@@ -71,6 +71,7 @@
 * [Open Source Society University](https://github.com/ossu/computer-science) - Computer Science Courses / [GitHub](https://github.com/ossu) / [Discord](https://discord.gg/wuytwK5s9h)
 * [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Computer Science Courses
 * [Learn Computer Science in 1k Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/) - Computer Science Courses
+* [Traders Video Library - Telegram](https://t.me/+SrWg6eTupAdnoXgY) - Trading courses
 * [sha256_project](https://github.com/oconnor663/sha256_project) - Applied Cryptography Course
 * [Sapience Institute](https://learn.sapienceinstitute.org/) - Religious Courses
 * [FreeCourseWebsite](https://freecoursewebsite.com/) - Udemy Courses
