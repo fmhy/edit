@@ -1656,6 +1656,7 @@
 * [PasateaTorrent](https://pasateatorrent.net/) - Movies / TV
 * [Descargas](https://descargas2020.net/) - Movies / TV
 * [Cinetorrent](http://mozatimes.com/) - Movies / TV
+* [DonTorrent](https://dontorrent.uno/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent)
 * [Tomadvix](https://tomadivx.net/) - Movies / TV
 * [DIVXTorrent](https://www.divxtorrent.com/) - Movies / TV
 * [DivxTotal](https://www.divxtotal.pm/), [2](https://www.divxtotal.one/) - Movies / [Telegram](https://t.me/divxtotal2)
@@ -1699,6 +1700,7 @@
 * [asialiveaction](https://asialiveaction.com/) - Asian Drama
 * [doramasyt](https://www.doramasyt.com/) - Asian Drama
 * [doramasmp4](https://doramasmp4.io/) - Asian Drama
+* [LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels) - Live TV / IPTV
 * [TeleBunker](https://www.telebunker.com/) - Live TV
 * [JKAnime](https://jkanime.net/) - Anime 
 * [AnimeFénix](https://animefenix.com/) - Anime
