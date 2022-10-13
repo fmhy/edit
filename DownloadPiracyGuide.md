@@ -177,7 +177,6 @@
 
 # ► Software Sites
 
-* **[Software CSE](https://cse.google.com/cse?cx=ca4c91f63fa53d51c)** / [CSE 2](https://cse.google.com/cse?cx=ec7d33ef358ae1b65) - Multi-Site Search
 * **[FileCR](https://filecr.com/en/)** - Software / Books / [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass)
 * **[Mobilism](https://forum.mobilism.org/)** - Software / Books / [Mobile App](https://forum.mobilism.org/app/)
 * **[soft98](https://soft98.ir/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -243,6 +242,7 @@
 * [WLSetup-All](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wlsetup-all) - Windows Live Essentials 2012 Archive
 * [GenP](https://www.reddit.com/r/GenP) - Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)
 * [Adobe CC](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_adobe_cc) - Adobe Creative Cloud Piracy Guide
+* [Software CSE](https://cse.google.com/cse?cx=ca4c91f63fa53d51c) / [CSE 2](https://cse.google.com/cse?cx=ec7d33ef358ae1b65) - Multi-Site Search
 
 ***
 
