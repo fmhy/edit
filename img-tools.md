@@ -149,6 +149,7 @@
 * [Inspirograph](https://nathanfriend.io/inspirograph/) - Inspirograph Tool
 * [SpirographN](http://seedcode.com/SpirographN/sgn.html) - Spirograph Tool
 * [myMrLx](https://codepen.io/davidpanik/full/myMrLx/) or [MilkyWay](https://yusufcayci.com/milkyway) - Spiral Art Generators
+* [Paper Quilling Art](https://pissang.github.io/paper-quilling-art/) - Paper Quilling Art Generator
 * [Brown](https://fi-le.net/brown/) - Brownian Motion Tool
 * [Mondrian And Me](https://mondrianandme.com/) - Mondrian Art Creator
 * [Periodicity](https://williamhoza.com/periodicity/) - Harmonic Motion Patterns
