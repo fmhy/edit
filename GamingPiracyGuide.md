@@ -90,7 +90,7 @@
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
 * [PokemonRevolution](https://pokemonrevolution.net/) - Pokemon MMO
 * [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_setlists), [2](https://customsongscentral.com/) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing)
-* [StepMania](https://www.stepmania.com/), [Project OutFox](https://projectoutfox.com/), or [NotITG](https://www.noti.tg/) - DDR Clone
+* [StepMania](https://www.stepmania.com/), [Project OutFox](https://projectoutfox.com/) or [NotITG](https://www.noti.tg/) - DDR Clones
 * [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
 * [Unnamed SDVX clone](https://github.com/Drewol/unnamed-sdvx-clone) - Sound Voltex Clone
 * [OpenTaiko](https://github.com/0auBSQ/OpenTaiko) - Taiko no Tatsujin Clone / [Taiko Simulator Guide](https://tjadataba.se/)
@@ -409,6 +409,7 @@
 * [Snake-Game](https://www.onemotion.com/snake-game/) - 3D Snake
 * [SnakeGen](https://projects.victormeunier.com/snakegen/index.html) - Snake Game Generator
 * [QuineSnake](https://github.com/taylorconor/quinesnake) - Quine Source Snake
+* [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
 * [ProAsm](http://www.proasm.com/) - Retro Game Mods
 * [Muds](https://muds.fandom.com/wiki/) - Text Adventure ROM Wiki
 * [Mudlet](https://www.mudlet.org/) - Text Adventure Game Platform
@@ -420,6 +421,7 @@
 
 * **[Ninjakiwi](https://ninjakiwi.com/)** - Browser Games / Bloons / Multiplayer
 * **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
+* **[RPS101](https://rps101.pythonanywhere.com/)** - 101 Gesture Rock-Paper-Scissors
 * **[Cookie Consent Speed.Run](https://cookieconsentspeed.run/)** - Cookie Disabling Game
 * **[AirConsole](https://www.airconsole.com/)** or [AnsStream](https://www.antstream.com/) - Control TV Games with Phone 
 * **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme, turn off adblocker
