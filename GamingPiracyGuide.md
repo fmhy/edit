@@ -77,7 +77,6 @@
 * [RPG Maker Games](https://rpgmaker.net/games/?name_filter=&amp;engine=&amp;status=&amp;rating=&amp;commercial=exclude&amp;sort=&amp;portal=None) - Games made via RPG Maker
 * [VGPErson](https://vgperson.com/games/) - Japanese Translated Freeware Games
 * [Steam Deck Backups](https://t.me/+0T6LcMGCdApkZTg0) - Steam Deck Games
-* [Leggendaria](https://chuchy.neocities.org/leggendaria.altervista.org/archive.htm) - Bemani & Touhou Games
 * [JustEmuTarkov](https://justemutarkov.eu/) - Escape from Tarkov Emulator
 * [CWA](https://www.cwaemu.com/) - Clone Wars Adventures Emulator / [Discord](https://discord.gg/a3Ugb9dzzv)
 * [NR2003](https://wildkustomcars.weebly.com/) - Modded Nascar 2003
@@ -91,7 +90,12 @@
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
 * [PokemonRevolution](https://pokemonrevolution.net/) - Pokemon MMO
 * [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_setlists), [2](https://customsongscentral.com/) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing)
+* [StepMania](https://www.stepmania.com/), [Project OutFox](https://projectoutfox.com/), or [NotITG](https://www.noti.tg/) - DDR Clone
+* [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki)
+* [Unnamed SDVX clone](https://github.com/Drewol/unnamed-sdvx-clone) - Sound Voltex Clone
+* [OpenTaiko](https://github.com/0auBSQ/OpenTaiko) - Taiko no Tatsujin Clone / [Taiko Simulator Guide](https://tjadataba.se/)
 * [Roblox Archive](https://archive.roblonium.com/) - Roblox Client Archive 
+* [Novetus](https://bitl.itch.io/novetus) - Self-hosted Multi-version Roblox Client
 * [GrimReaper's Scene ISO Collection](https://archive.org/details/@waffess) - ISO Collection
 * [Redump Forum](http://forum.redump.org/) - Disc Preservation Project
 * [Flashtro](https://flashtro.com/) - Retro Game Crack Archive
@@ -504,6 +508,7 @@
 * [ConnectTheStars](https://connectthestars.xyz/) - Connect Stars through Movies
 * [Blaseball](https://www.blaseball.com/) - Odd Baseball Simulation Game 
 * [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) or [Bemuse](https://bemuse.ninja/) - Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)
+* [Taiko Web](https://taiko.bui.pm/) - Taiko no Tatsujin Simulator
 * [Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures) - Interactive Text Adventures
 * [Prosperity](http://www.playprosperity.ca/) - Civilization Building RPG
 * [Amazeworld](http://www.amazeworld.com/) - Interactive Webmazes
