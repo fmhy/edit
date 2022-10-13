@@ -437,7 +437,8 @@
 * [Library of Babel](https://libraryofbabel.info/) - Every Book of Past, Present, and Future
 * [xrDinosaurs](https://www.xrdinosaurs.com/) - VR Dino Park
 * [Hubs by Mozzila](https://hubs.mozilla.com/) - VRChat-like hangout room (PC & PCVR) 
-* [Land Lines](https://lines.chromeexperiments.com/) - Explore Google Earth via Gestures 
+* [Land Lines](https://lines.chromeexperiments.com/) - Explore Google Earth via Gestures
+* [Google Gravity](https://mrdoob.com/projects/chromeexperiments/google-gravity/) - Falling Google
 * [April Fools Day On The Web](https://aprilfoolsdayontheweb.com/) - Find April Fools Pranks played by Websites 
 * [DrivingSimulator](https://framesynthesis.com/drivingsimulator/maps/) - 2D Driving Simulator 
 * [cnnix-steership](https://edition.cnn.com/interactive/2021/03/cnnix-steership/) - Steer through the Suez Canal
@@ -448,7 +449,6 @@
 * [IsItNormal](https://isitnormal.com/) - Ask if Things are Normal 
 * [Kittenwar!](http://www.kittenwar.com/) - Rate Kittens
 * [Popcat](https://popcat.click/) - Worldwide Popcat Clicking Competition
-* [RPS101](http://www.umop.com/rps101.htm) - 101 Gesture Rock-Paper-Scissors
 * [Fake Text Message](https://ifaketextmessage.com/) - Make Fake Text Conversation 
 * [Tinder for Bananas](https://tinderforbananas.com/) - Tinder for Bananas
 * [FutureTimeline](https://www.futuretimeline.net/) - Timeline of future predictions 
@@ -463,8 +463,7 @@
 * [RandomColour](http://www.randomcolour.com/) - Random Color
 * [ColorNames](https://colornames.org/) - Help Name Colors
 * [Fontbutts](https://fontbutts.netlify.app/) - Create Butts with Different Fonts
-* [Storylocks](https://www.storylocks.com/) - Write Stories with different authors/friends
-* [LongestPoemInTheWorld](http://www.longestpoemintheworld.com/) - Matches Tweets to form Rhymes
+* [LongestPoemInTheWorld](http://www.longestpoemintheworld.com/) - Form Rhymes from Tweets
 * [InspiroBot](https://inspirobot.me/) - Inspirational Quote Generator
 * [The Gyllenhaal Experiment](https://pudding.cool/2019/02/gyllenhaal/) - Common Pop Star Misspellings
 * [D-E-F-I-N-I-T-E-L-Y](https://d-e-f-i-n-i-t-e-l-y.com/) - How to Spell Definitely
