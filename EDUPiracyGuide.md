@@ -342,6 +342,7 @@
 * [ParkMath](https://parkmath.github.io/) - Math Guides
 * [FreeMathHelp](https://freemathhelp.com/) - Math Guides
 * [Math2.org](http://math2.org/) - Math Guides
+* [Fourier Transform](https://www.jezzamon.com/fourier/index.html) - Interactive Fourier Transform Guide
 * [Terence Tao Research](https://terrytao.wordpress.com/) - Mathematical Research
 * [All Math Questions](https://www.docdroid.net/YupQ6Pp/khan-academy-all-math-questions-pdf) - Khan Academy Math Questions
 * [Math is Fun](https://www.mathsisfun.com/) - Math Tutorials / Puzzles / Games
@@ -448,15 +449,16 @@ Simulator
 * [Space Weather News](https://spaceweathernews.com/) or [SpaceWeather](https://spaceweather.com/) - Space Weather Updates / [Videos](https://www.youtube.com/user/Suspicious0bservers)
 * [Andegraf Rockets](http://rockets.andegraf.com/) - Rocket Diagrams
 * [Interactive Apollo Missions](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - Apollo in Realtime 
-* [Moon.Nasa](https://moon.nasa.gov/) - Explore the Moon 
+* [Moon.Nasa](https://moon.nasa.gov/) - Explore the Moon
 * [Earth and Moon Viewer](http://www.fourmilab.ch/cgi-bin/Earth) - Earth / Moon Latitude & Longitude Viewer
 * [SunCalc](https://www.suncalc.org/), [ShadowCalculator](http://shadowcalculator.eu/), [FindMyShadow](https://www.findmyshadow.com/) or [MoonCalc](https://www.mooncalc.org/) - Sun & Moon Position / Phase Calculators 
 * [SDO Dashboard](https://sdo.gsfc.nasa.gov/data/dashboard/) - Live Sun Feed
+* [Earth and Sun](https://ciechanow.ski/earth-and-sun/) - Interactive Day-Night Cycles Lesson
 * [CelesTrack](https://celestrak.com/) - Earth Orbit Visualization
 * [Mars Now](https://mars.nasa.gov/explore/mars-now/) - Mars Exploration Program Simulator
 * [The Atlas of Moons](https://www.nationalgeographic.com/science/2019/07/the-atlas-of-moons/) - Interactive Index of Moons 
 * [1 Pixel moon](https://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html), [LightYear](https://www.lightyear.fm/) or [OMG SPACE](http://omgspace.net/) - Solar System Scale Model
-* [3DSolarSystem](https://theskylive.com/3dsolarsystem) or [SpaceInBrowser](https://spaceinbrowser.com/) - Solar System Simulator 
+* [3DSolarSystem](https://theskylive.com/3dsolarsystem), [SpaceKit](https://typpo.github.io/spacekit/) or [SpaceInBrowser](https://spaceinbrowser.com/) - Solar System Simulators
 * [The Planets](https://planets-facts-website.netlify.app/) - Learn About Planets
 * [ExoplanetExplore](https://exoplanetexplore.vercel.app) - Interactive Exoplanet Visualization
 * [Space Object Comparison](https://mr21.github.io/space-object-comparison/) - Compare Sizes Of Celestial Objects
@@ -464,7 +466,7 @@ Simulator
 * [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive 3D Star Visualization
 * [Aladin](https://aladin.u-strasbg.fr/) - Astronomical Image Viewer / [Lite Version](https://aladin.u-strasbg.fr/AladinLite/)
 * [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](http://stellarium.org/) - Virtual Stellarium
-* [Google Sky](http://www.google.com/sky) - View Stars, The Moon & Mars 
+* [Google Sky](http://www.google.com/sky) - View Stars, The Moon & Mars
 * [ESO Zoomable](https://www.eso.org/public/images/eso1242a/zoomable/) or [Hubble Zoomable](https://esahubble.org/images/archive/zoomable/) - Zoomable Telescope Photos
 * [Webb Compare](https://www.webbcompare.com/) - Webb / Hubble Comparison Images
 * [Space Telescope Live](https://spacetelescopelive.org/) - Live Hubble Image Data
