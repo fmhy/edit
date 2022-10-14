@@ -60,10 +60,10 @@
 * [Tuts 4 You](https://forum.tuts4you.com/) - Coding / Developer Tutorials
 * [PythonTutor](https://pythontutor.com/) - Coding Tutorials
 * [mimo](https://getmimo.com/) - Coding Tutorial App
-* [LintCode](https://www.lintcode.com/) - Coding Practice 
+* [LintCode](https://www.lintcode.com/) - Coding Practice
 * [Coding Questions](https://platform.stratascratch.com/coding) - Coding Interview Questions 
 * [Code With Mosh Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_code_with_mosh_courses)
-* [picoCTF](https://picoctf.org/) or [CTFlearn](https://ctflearn.com/) - Cyber Security Lessons
+* [picoCTF](https://picoctf.org/) - Cyber Security Lessons
 * [DefendTheWeb](https://defendtheweb.net/) - Cyber Security Challenges
 * [Leetcode](https://leetcode.ca/) - Code Solutions / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/edit) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation)
 * [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/), [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
