@@ -603,6 +603,8 @@
 * [X-Files](https://doc.lagout.org/) - Tech / Programming
 * [#/g/sicp](https://g.sicp.me/books/) - Programming / Computer Science / Tech (35gb Torrent) 
 * [TeachYourselfComputerScience](https://teachyourselfcs.com/) - Computer Science Book Recommendations
+* [picoCTF](https://picoctf.org/) - Free computer security education program 
+* [CTFlearn](https://ctflearn.com/) - Learn to hack
 
 ***
 
