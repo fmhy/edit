@@ -45,7 +45,8 @@
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Software / Tool Index
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - Data Hoarding Tools Index
 * [DirtyWarez Tracker](https://dirtywarez.org/cat/tracker), [OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/) / [2](https://opentrackers.org/), [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) or [awesome-piracy](https://github.com/Igglybuff/awesome-piracy#public-trackers) - Torrent Site Indexes
-* [cata-list](https://cata-list.github.io/) - Site / Tool Index 
+* [cata-list](https://cata-list.github.io/) - Site / Tool Index
+* [Toolbox](https://gitlab.com/toolbox-resources/toolbox) - Site / Tool Index
 * [Prospector](https://www.prospector.cz/) - Site / Tool Index 
 * [The More You Know](https://marckoxx.github.io/) - Site / Tool Index
 * [Yesterlinks](https://links.yesterweb.org/) - Site / Tool Index
@@ -110,7 +111,6 @@
 * [KilledByGoogle](https://killedbygoogle.com/) - Dead Google Project Index
 * [KilledByMicrosoft](https://killedbymicrosoft.info/) - Dead Microsoft Project Index
 * [Awesome Tech for Good](https://github.com/TechforgoodCAST/awesome-techforgood) - Social Impact Tech Index
-* [Toolbox](https://gitlab.com/toolbox-resources/toolbox) - Site / Tool Index
 
 ***
 
