@@ -783,6 +783,7 @@
 * [Awesome Cafe](https://github.com/utilForever/awesome-cafe) - Korean Cafe List / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [is-vegan](https://github.com/hmontazeri/is-vegan) - Vegan Food App
 * [Food Lab](https://github.com/Singh-Shivani/Food_Lab) - Food Blog App
+* [Mealie](https://nightly.mealie.io/) -  A self-hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family / [GitHub](https://github.com/hay-kot/mealie/)
 
 ***
 
