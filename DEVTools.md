@@ -639,7 +639,7 @@ Automated Incident Response and Forensics Framework
 * [aarch64-sysreg-ida](https://github.com/TrungNguyen1909/aarch64-sysreg-ida) - IDA Plugin to View Armv8 MSRs
 * [Kubeorbit](https://github.com/teamcode-inc/kubeorbit) - Application Testing / Debugging
 * [Redis](https://redis.io/) - Key-Value Database
-* [Read the Docs](https://readthedocs.org/) or [MkDocs](https://www.mkdocs.org/) / [GitHub](https://github.com/mkdocs/mkdocs/)- Make Documentation for your Software
+* [Read the Docs](https://readthedocs.org/) or [MkDocs](https://www.mkdocs.org/) or [mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) / [GitHub](https://github.com/mkdocs/mkdocs/)- Make Documentation for your Software / [Theme](https://github.com/squidfunk/mkdocs-material)
 * [Inno Setup](https://jrsoftware.org/isinfo.php), [Fileforums Premade Installers](https://github.com/LeFishe/fileforums-premade-installers), [InstallForge](https://www.installforge.net/) or [ActualInstaller](https://www.actualinstaller.com/) - Create Installation Programs
 * [7.css](https://khang-nd.github.io/7.css/) or [Botox Party](https://botoxparty.github.io/XP.css/) - Create Oldschool Style UI's
 * [Amplication](https://amplication.com/) - Create Node.js Apps
