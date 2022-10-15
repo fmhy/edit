@@ -609,6 +609,8 @@ Automated Incident Response and Forensics Framework
 * [Aether](https://getaether.net/) - P2P Ephemeral Public Communities
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Tracker Hosting
 * [UUID Tools](https://www.uuidtools.com/) - UUID Generator
+* [Outline](https://www.getoutline.com/) - The fastest wiki and knowledge base for growing teams. Beautiful, realtime, feature rich, and markdown compatible / [GitHub](https://github.com/outline/outline)
+* [novu](https://novu.co/) - A fully functional real-time notification center for your web and react apps / [GitHub](https://github.com/novuhq/novu)
 
 ***
 
