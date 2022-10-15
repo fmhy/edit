@@ -884,6 +884,7 @@
 * [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy) or [Homer](https://github.com/bastienwirtz/homer) - Home Server Homepage 
 * [FairGame](https://github.com/Hari-Nagarajan/fairgame) - Automatically Place Orders on Amazon
 * [rickroll-blocker](https://github.com/hitthemoney/rickroll-blocker/) - Rick Roll Blocker 
+* [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container / [GitHub](https://github.com/docker-mailserver/docker-mailserver)
 
 ***
 
