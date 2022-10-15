@@ -205,6 +205,13 @@
 * [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book 
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
+* [SmartHomeBeginner](https://www.smarthomebeginner.com/) - Homelabbing for Beginners
+* [Git-it](https://github.com/jlord/git-it-electron) - (Mac, Win, Linux) Desktop App for Learning Git and GitHub
+* [Google Cloud Developer's Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/) - The Google Cloud Developer's Cheat Sheet / [GitHub](https://github.com/priyankavergadia/google-cloud-4-words)
+* [Virgilio](https://virgili0.github.io/Virgilio/) - Your new Mentor for Data Science E-Learning / [GitHub](https://github.com/virgili0/Virgilio)
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. 
+* [System Design](https://leanpub.com/systemdesign) -  Learn how to design systems at scale and prepare for system design interviews / [GitHub](https://github.com/karanpratapsingh/system-design)
+* [SmartHomeBeginner](http://git.io/sheet) - A collection of cool hidden and not so hidden features of Git and GitHub / [GitHub](https://github.com/tiimgreen/github-cheat-sheet)
 
 ***
 
