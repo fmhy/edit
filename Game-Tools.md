@@ -87,7 +87,7 @@
 * [The Spriters Resource](https://www.spriters-resource.com/) - Video Game Sprites
 * [MiiCharacters](http://www.miicharacters.com/) - Famous Mii Creation Guides
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic The Gathering Card Scans
-* [Random Dice](http://www.dicesimulator.com/) or [Google Dice](https://g.co/kgs/fVJuzq) - Dice Simulator
+* [Random Dice](http://www.dicesimulator.com/), [Desktop Dice](https://girkovarpa.itch.io/desktopdice) or [Google Dice](https://g.co/kgs/fVJuzq) - Dice Simulators
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
 * [Score7](https://score7.io/) - Tournament Creator / Manager
 * [KeepTheScore](https://keepthescore.co/) - Leaderboard Creator
