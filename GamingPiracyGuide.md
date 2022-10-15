@@ -11,7 +11,7 @@
 
 # ► Download Games
 
-* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners.
+* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners
 * **[Game Download CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_download_cse)** - Multi-Site Search
 * **[/r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Trusted Game Download Sites / [Discord](https://discord.gg/dZWwhUy)
 * **[SteamRIP](https://steamrip.com/)** - [Discord](https://discord.gg/hj8dU5BFHE) / pw: 1234
