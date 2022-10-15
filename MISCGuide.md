@@ -73,7 +73,6 @@
 * [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public Domain Resource Index Awesome
 * [LinkLonk](https://linklonk.com/) - Link Aggregator & Voting
 * [Simple Tools](https://simpletools.info/doku.php) - Simple Programs Index 
-* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Hacking / Pentesting Index
 * [DMOZ](http://www.dmoztools.net/) or [SmartLinks](https://smartlinks.org/index.html) - Website Directory
 * [Archive-It](https://archive-it.org/) - Archive.org Collections
 * [Wikimedia](https://www.wikimedia.org/) - All Wikimedia Sources 
@@ -544,7 +543,7 @@
 * [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion), [old.sage](https://old.sage.moe/), [BibAnon](http://vyrd.bibanon.org/), [4Museum](https://4museum.neocities.org/), [Archive.4plebs](https://archive.4plebs.org/), [arch.b4k](https://arch.b4k.co/) or [Sup/tg/](http://suptg.thisisnotatrueending.com/)  - 4Chan Archive
 * [LameBook](https://www.lamebook.com/) - Funny Facebook Status'
 * [ViralPostGenerator](https://viralpostgenerator.com/) - Generate Cringe LinkedIn Post
-* [Zoomquilt](https://www.zoomquilt.org/) / [2](http://zoomquilt2.com/) or [Arkadia](http://arkadia.xyz/) - Infinite Zooming Painting 
+* [Zoomquilt](https://www.zoomquilt.org/) / [2](http://zoomquilt2.com/), [Infinite Zoom](https://infinitezoom.net/) or [Arkadia](http://arkadia.xyz/) - Infinite Zooming Paintings
 * [Mirage Gallery](https://www.miragegallery.ai/) - AI Art Gallery
 * [ArtVote](https://artvote.net/) - Judge Art
 * [Virtual World List](https://virtualworldslist.neocities.org/) - Virtual World List
