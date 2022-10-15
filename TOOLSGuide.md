@@ -537,6 +537,7 @@
 * [Roland 808303.studio](https://808303.studio/) - Online Drum Machine / TB-303 Bass Synth 
 * [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/) or [Hammmerhead](http://www.threechords.com/hammerhead/) - Online Drum Machine
 * [orDrumbox](https://www.ordrumbox.com/) - Drum Machine
+* [React Guitar](https://react-guitar.com/) - Virtual Guitar
 * [Dot Piano](https://dotpiano.com/), [The 88](https://impactsoundworks.com/product/the-88e/) (enter $0), [VirtualPiano](https://virtualpiano.net/) or [Piano Online](https://magicode.me/piano-online) - Virtual Pianos
 * [Petaporon](https://pixwlk.itch.io/petaporon) - Piano Sequencer / [Editor](https://pixwlk.itch.io/petaporon-editor)
 * [MK-1](https://ericrosenbaum.github.io/MK-1/) - Online Sampling Keyboard
@@ -2030,9 +2031,10 @@ Twitch Stream Tracker
 * [LineStep](http://litestep.net/) - Customize Desktop Interface
 * [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script) - Windows Auto Personalization / Debloating Script
 * [OpenRGB](https://openrgb.org/), [SignalRGB](https://www.whirlwindfx.com/pages/signalrgb), [LiquidCTL](https://github.com/liquidctl/liquidctl) or [Aurora](https://github.com/antonpup/Aurora) - System Lighting Control / [GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB)
+* [ShaderGlass](https://github.com/mausimus/ShaderGlass) - Custom Screen Shaders
 * [DiscordChroma](https://github.com/DELUUXE/DiscordChroma) or [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Discord System Lighting Control
 * [KeyboardVisualizer](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer) - Audio Visualizer / FX Engine for Keyboards, Mice & Accessories
-* [Mechvibes](https://mechvibes.com/) or [MechaKeys](https://mechakeys.robolab.io/) - Keyboard Soundpacks
+* [Mechvibes](https://mechvibes.com/), [Rackety](https://girkovarpa.itch.io/rackety) or [MechaKeys](https://mechakeys.robolab.io/) - Keyboard Sound Effects
 * [Darker](https://github.com/angelwzr/darker) - Dark / Light Mode Theme Switcher
 * [ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fix Excel on Themed Windows 
 * [Accent Applicator](https://github.com/mcdenis/AccentApplicator) - Applies Win 10 Accent Color to OS
