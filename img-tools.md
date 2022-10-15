@@ -140,6 +140,7 @@
 * [convert-ascii-to-image](https://onlineasciitools.com/convert-ascii-to-image) - ASCII to Image Generator
 * [ASCII Paint](http://ascii.alienmelon.com/) or [DeepAA](https://github.com/OsciiArt/DeepAA) - ASCII Art Creator
 * [Text-Image](https://www.text-image.com/) - Text Image Generator
+* [NoiseDeck](https://noisedeck.app/) - Art Generator
 * [dream](https://app.wombo.art/) - Dream Art Generator
 * [Uji](https://doersino.github.io/uji/) - Minimalist Art Generator
 * [Mosaic](https://github.com/Roman-/mosaic) - Rubik's Cube Mosaic Generator
@@ -155,7 +156,9 @@
 * [Periodicity](https://williamhoza.com/periodicity/) - Harmonic Motion Patterns
 * [Cubes.io](http://cubes.io/) - Cellular Automata
 * [05x5](https://csh.bz/line/05x5.html) - Rainbow Pattern Generator
+* [overwhale](http://overwhale.com/) - Fractal Image Generators
 * [Flame Reactor](https://flamereactor.com/) - Fractal Flame Collaborative Generator
+* [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
 * [TierMaker](https://tiermaker.com/) - Tier List Image Creator
 * [Hugin](http://hugin.sourceforge.net/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - Panorama Image Generator 
 * [Side It](https://sideit.app/) - Side by Side Image Generator
@@ -389,6 +392,7 @@
 * [FaceMaker](http://facemaker.uvrg.org/) - 3D Face / Avatar Generator
 * [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator
 * [Plantarium](https://plant.jim-fx.com/) - 3D Plant Creator
+* [CSS 3D Clouds](https://spite.github.io/CSS3DClouds/) - 3D Cloud Creator
 * [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - AI Art Generation Guide
 * [vrn](https://cvl-demos.cs.nott.ac.uk/vrn/) - 3D Face Reconstruction 
 * [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
