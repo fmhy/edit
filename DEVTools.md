@@ -19,7 +19,8 @@
 * **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - Read / Download Programming Books
 * [Git Tutorial](https://4geeksacademy.github.io/git-interactive-tutorial/) - Interactive Git Tutorial
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - Git Learning Game
-* [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Github Cheat Sheet
+* [Git-it](https://github.com/jlord/git-it-electron) - Git Desktop Learning App
+* [Github Cheat Sheet](http://git.io/sheet) / [GitHub](https://github.com/tiimgreen/github-cheat-sheet) - Github Cheat Sheet
 * [First Timers Only](https://www.firsttimersonly.com/) - Git Code Contribution Guides
 * [Developer.Mozilla](https://developer.mozilla.org/) - Developer Resources 
 * [Awesome Certificates](https://github.com/PanXProject/awesome-certificates) - Dev Courses with Certificates
@@ -43,6 +44,7 @@
 * [VSCode.one](https://vscode.one/) or [VSCodeCanDoThat](https://www.vscodecandothat.com/) - VS Code Tutorials
 * [Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers), [andrew--r/channels](https://github.com/andrew--r/channels), [Awesome-Youtube-Channels](https://github.com/epoyraz/) or [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - Programming & Development Learning Channels
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - Code Algorithms & Data Structures Tutorials
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) or [System Design](https://leanpub.com/systemdesign) / [GitHub](https://github.com/karanpratapsingh/system-design) - Large Scale System Design Guides
 * [Aquent Gymnasium](https://thegymnasium.com/) - Courses
 * [Graphics Workshop](https://github.com/ekzhang/graphics-workshop) - Learn Computer Graphics
 * [SchoolOfHaskell](https://www.schoolofhaskell.com/) - Haskell Tutorials 
@@ -67,6 +69,7 @@
 * [DefendTheWeb](https://defendtheweb.net/) - Cyber Security Challenges
 * [Leetcode](https://leetcode.ca/) - Code Solutions / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/edit) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation)
 * [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/), [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
+* [Google Cloud Developer's Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/) - Google Cloud Developer Cheat Sheet / [GitHub](https://github.com/priyankavergadia/google-cloud-4-words)
 * [Vim Cheatsheet](https://i.imgur.com/2RsZq6p.png) - Vim Code Editor Cheat Sheet
 * [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) - Programming / Coding Learning Resources
 * [EbookFoundation Interactive Programming Tuts](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md) - Interactive Programming Tutorials 
@@ -125,7 +128,7 @@
 * [Simple Regex](https://simple-regex.com/) - Regex Tutorial
 * [ReGeX](https://github.com/phikal/ReGeX) - ReGeX Learning Game / Android
 * [ReFrF](https://refrf.dev/), [Regex.info](http://regex.info/), [RegExr](https://regexr.com/) or [RegexLearn](https://regexlearn.com/) - Learn Regex
-* [Data Science Ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Learn DataScience
+* [Data Science Ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) or [Virgilio](https://virgili0.github.io/Virgilio/) / [GitHub](https://github.com/virgili0/Virgilio) - Learn DataScience
 * [CSS Battle](https://cssbattle.dev/) - CSS Practice / Battles
 * [FlexBoxFroggy](https://flexboxfroggy.com/) - CSS Learning Game
 * [Grid Garden](https://cssgridgarden.com/) - CSS Grid Learning Game
@@ -509,7 +512,7 @@
 * [Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare) - Cloudflare Resource Index
 * [Bypass Cloudflare](https://github.com/jychp/cloudflare-bypass) - Bypass Coudflare Bot Protection
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
-* [VPN Un-Blocking](https://medium.com/@innovativehazard/vpn-un-blocking-e0374b9c4d35 ) - Unblock Cloudflare Warp VPN Services
+* [VPN Un-Blocking](https://medium.com/@innovativehazard/vpn-un-blocking-e0374b9c4d35) - Unblock Cloudflare Warp VPN Services
 * [wgcf](https://github.com/ViRb3/wgcf) - Generate Cloudflare Warp Wireguard Config
 * [console.watch](https://console.watch/) - Remote Console Polyfill for Cloudflare Workers
 * [LightTPD](http://www.lighttpd.net/) or [Caddy](https://caddyserver.com/) - Web Server
@@ -518,7 +521,7 @@
 * [http-server](https://github.com/http-party/http-server) - No Config HTTP Server
 * [Apache](https://httpd.apache.org/) - HTTP Server
 * [h5ai](https://larsjung.de/h5ai/) - HTTP Web Server Index / [GitHub](https://github.com/lrsjng/h5ai)
-* [SyAgent](https://syagent.com/) - Server Monitor
+* [SyAgent](https://syagent.com/) or [HertzBeat](https://hertzbeat.com/en/) - Server Monitors
 * [CodeMyUI](https://codemyui.com/) - User Interface Code Snippets
 * [Lepton](https://hackjutsu.com/Lepton/) - Code Snippet Manager / [GitHub](https://github.com/hackjutsu/Lepton)
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - Captcha Systems
@@ -531,7 +534,7 @@
 * [Automated Incident Response](https://github.com/awslabs/aws-automated-incident-response-and-forensics) - Automated Incident Response and Forensics Framework
 Automated Incident Response and Forensics Framework
 * [cssbuttons](https://cssbuttons.io/) - CSS Buttons
-* [CBox](https://www.cbox.ws/), [Typebot](https://typebot.io/) or [Tawk](https://www.tawk.to/) - Embedded Chat App
+* [CBox](https://www.cbox.ws/), [Typebot](https://typebot.io/), [Fonoster](https://fonoster.com/) or [Tawk](https://www.tawk.to/) - Embedded Chat App
 * [StackWhats](https://stackwhats.com/) - Add Whatsapp Chat to Your Site
 * [Twitcker](https://twitcker.com/) - Add Twitter Feed Ticker to Site
 * [Error404](https://error404.fun/) - Free 404 Pages
@@ -630,7 +633,7 @@ Automated Incident Response and Forensics Framework
 * [aarch64-sysreg-ida](https://github.com/TrungNguyen1909/aarch64-sysreg-ida) - IDA Plugin to View Armv8 MSRs
 * [Kubeorbit](https://github.com/teamcode-inc/kubeorbit) - Application Testing / Debugging
 * [Redis](https://redis.io/) - Key-Value Database
-* [Read the Docs](https://readthedocs.org/) or [MkDocs](https://www.mkdocs.org/) / [GitHub](https://github.com/mkdocs/mkdocs/)- Make Documentation for your Software
+* [Read the Docs](https://readthedocs.org/), [MkDocs](https://www.mkdocs.org/) or [mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - Make Documentation for Software / [Theme](https://github.com/squidfunk/mkdocs-material)
 * [Inno Setup](https://jrsoftware.org/isinfo.php), [Fileforums Premade Installers](https://github.com/LeFishe/fileforums-premade-installers), [InstallForge](https://www.installforge.net/) or [ActualInstaller](https://www.actualinstaller.com/) - Create Installation Programs
 * [7.css](https://khang-nd.github.io/7.css/) or [Botox Party](https://botoxparty.github.io/XP.css/) - Create Oldschool Style UI's
 * [Amplication](https://amplication.com/) - Create Node.js Apps
@@ -703,6 +706,7 @@ Automated Incident Response and Forensics Framework
 * [React95](https://react95.io/) - Windows 95 React Components
 * [Zorm](https://github.com/esamattis/react-zorm) - ype-safe <form> for React
 * [Million](https://github.com/aidenybai/million) - React Replacement
+* [novu](https://novu.co/) - Real-Time React Notifications / [GitHub](https://github.com/novuhq/novu)
 * [React Use](https://github.com/streamich/react-use) - React Hooks 
 * [React Suite](https://rsuitejs.com/) or [Mantine](https://mantine.dev/) - React Components and Templates
 * [React Query](https://react-query.tanstack.com/) - Fetch, Cache and Update React Data / [GitHub](https://github.com/tannerlinsley/react-query)
