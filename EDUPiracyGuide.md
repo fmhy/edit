@@ -309,6 +309,7 @@
 * **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
 * **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photomath) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/) or [Symbolab](https://www.symbolab.com/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_symbolab_pro) - Math Problem Solver with Steps
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
+* [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
 * [TeX](https://www.microsoft.com/en-us/p/flowtex-preview-beta/9nt79075t86l) - Convert Handwritten Math to LaTeX
 * [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) - Multi-Calculator App / Android
 * [MatrixCalc](https://matrixcalc.org/en/) or [MatrixOP](https://simplx.dev/matrixop/) - Matrix Calculator
