@@ -1706,7 +1706,7 @@ Twitch Stream Tracker
 * [Office License Isn't Genuine](https://web.archive.org/web/20211014003224/https://windowsaddict.ml/office-license-is-not-genuine) - Fix Office Activation Issues
 * [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) - BSD Operating Systems
 * [Medicat USB](https://medicatusb.com/) - USB Toolkit
-* [Rufus](https://rufus.ie/), [AIO Boot](https://www.aioboot.com/), [UUP](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x), [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) or [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) - Create Bootable USB Drives  
+* [Rufus](https://rufus.ie/) / [GitHub](https://github.com/pbatard/rufus), [AIO Boot](https://www.aioboot.com/), [UUP](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x), [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) or [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) - Create Bootable USB Drives  
 * [SARDU](https://www.sarducd.it/) - Create Recovery USB Flash Drive or Disk 
 * [rEFind](http://www.rodsbooks.com/refind/) - Boot Manager
 * [balenaEtcher](https://balena.io/etcher) - Flash OS Image SD / USB
@@ -2016,6 +2016,10 @@ Twitch Stream Tracker
 * [OpenBoardData](https://github.com/inflex/OpenBoardData) - Board Repair Data
 * [OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd Files 
 * [TeslaMotors](https://github.com/teslamotors) - Tesla System Repositories
+* [smartmontools](https://www.smartmontools.org/) - Control and monitor storage systems using the Self-Monitoring, Analysis and Reporting Technology System (SMART)
+* [HertzBeat](https://hertzbeat.com/en/) - A real-time monitoring system with custom-monitor and agentless. Support web service, database, os, middleware and more / [GitHub](https://github.com/dromara/hertzbeat)
+* [MergerFS](https://github.com/trapexit/mergerfs) - A featureful union filesystem
+* [ntop](http://www.ntop.org/) - Web-based Traffic and Security Network Traffic Monitoring / [GitHub](https://github.com/ntop/ntopng)
 
 ***
 
