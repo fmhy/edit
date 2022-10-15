@@ -153,6 +153,7 @@
 * [Devops Exercises](https://github.com/bregman-arie/devops-exercises) - DevOps Exercises
 * [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - Learn DevOps
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
+* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Pentesting / Security Index
 * [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn Pentesting
 * [SebastianLague](https://www.youtube.com/c/SebastianLague/playlists?view=50&sort=dd&shelf_id=4) - Game Development Tutorials
 * [Trig for Games](https://demoman.net/?a=trig-for-games) - Trigonometry Lessons for Games
