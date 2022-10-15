@@ -109,7 +109,7 @@
 * [VToncolab](https://rentry.org/vtoncolab) - How-to Scan Files with Google Colab
 * MSRT - [x64](https://www.microsoft.com/en-us/download/details.aspx?id=9905) / [x86](https://www.microsoft.com/en-us/download/details.aspx?id=16) - Malicious Software Removal Tool
 * [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0), [PeerBlock](https://www.peerblock.com/), [Tinywall](https://tinywall.pados.hu/) or [GlassWire](https://www.glasswire.com/) - Firewall / Network Monitor 
-* [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/), [Rotty](https://github.com/RoseSecurity/Rotty.py) or [Safing](https://safing.io/portmaster/) - Network Monitor
+* [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/), [ntop](http://www.ntop.org/), [Rotty](https://github.com/RoseSecurity/Rotty.py) or [Safing](https://safing.io/portmaster/) - Network Monitors
 * [Waircut](https://sourceforge.net/projects/waircut/) - WPS Network Monitor
 * [Traffic Leaks Detector](https://github.com/AsenOsen/traffic_leaks_detector) - Network Leak Protection
 * [Hardentools](https://github.com/securitywithoutborders/hardentools) - Disables Risky Windows Features
