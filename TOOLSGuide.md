@@ -34,7 +34,7 @@
 * [Compare Sizes](https://comparesizes.com/) - Size Comparison Tool 
 * [hikaku-sitatter](https://hikaku-sitatter.com/en/) or [Mulmetric](https://multmetric.com/) - Height Comparison Tool
 * [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
-* [NST](https://time.gov/), [Qlock](http://www.qlock.com/), [WorldTimeBuddy](https://www.worldtimebuddy.com/), [TheClockApp](https://theclockapp.vercel.app/), [TimeAndDate](https://www.timeanddate.com/) or [EveryTime Zone](https://everytimezone.com/) - World Clock
+* [NST](https://time.gov/), [Qlock](http://www.qlock.com/), [WorldTimeBuddy](https://www.worldtimebuddy.com/), [TheClockApp](https://theclockapp.vercel.app/), [TimeAndDate](https://www.timeanddate.com/) or [EveryTime Zone](https://everytimezone.com/) - World Clocks
 * [FlipClockWeb](https://flipclockweb.netlify.app/), [TheColourClock](http://thecolourclock.com/) or [HexClock](https://www.jacopocolo.com/hexclock/) - Fullscreen Clocks
 * [Epoch Converter](https://www.epochconverter.com/) - Epoch & Unix Timestamp Conversion Tools 
 * [How Many Days Since](http://howmanydayssince.net/), [CalcuDater](https://calcudater.com/) or [How Many Days Until](https://howmanydaysuntil.co/) - Calculate Days Since a Date
@@ -51,7 +51,7 @@
 * [GanttProject](https://www.ganttproject.biz/) - Project Scheduling App
 * [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - Calendar & Scheduling Tools
 * [Year In Pixels](https://year-in-pixels.glitch.me/) - Mood Tracking Calendar
-* [wnr](https://getwnr.com/) - Time Management App / [GitHub](https://github.com/RoderickQiu/wnr)
+* [wnr](https://getwnr.com/) or [Timestrap](https://timestrap.bythewood.me/) - Time Management Apps
 * [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - To-Do List Apps
 * [Creative Commons](https://creativecommons.org/) - Creative Commons Licenses
 * [ievaphone](https://ievaphone.com/), [blacktel](https://www.blacktel.io/), [Citrustel](https://www.citrustel.com/) or [PopTox](https://www.poptox.com/) - Make Free Phone Calls
@@ -670,7 +670,8 @@
 * [HalfBakedIdeas](https://halfbakedideas.vercel.app/feed) - Share Startup Ideas
 * [Failory](https://www.failory.com/graveyard) - Learn Why Startups & Products Failed
 * [AngelLIst](https://angel.co/) - Startup Community
-* [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) or [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - Startup Submission Sites 
+* [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) or [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - Startup Submission Sites
+* [LeanTime](https://leantime.io/) - Project / Delivery Manager
 * [namelix](https://namelix.com/) - Business Name Generator
 * [Business Card Generator](https://business-card-generator.vercel.app/) - Generate Business Cards 
 * [learn-to-cloud](https://learntocloud.guide/) - Cloud Computing Fundamentals / [GitHub](https://github.com/learntocloud/learn-to-cloud)
@@ -681,11 +682,12 @@
 * [Airtable](https://www.airtable.com/) - Build Collaborative Apps
 * [PHPCRM](https://www.phpcrm.com/) - Company Management Software
 * [SplitBee](https://splitbee.io/) - Business Analytics Tool
-* [Invoicely](https://invoiceto.me/) - Invoice Generator
+* [Invoicely](https://invoiceto.me/), [InvoiceNinja](https://invoiceninja.com/), [Akaunting](https://akaunting.com/) or [Crater](https://craterapp.com/) - Invoicing Tools
 * [Kimai](https://www.kimai.org/) - Working Hours Tracker
 * [Dataviz](https://github.com/nalgeon/dataviz) - Design Reports
 * [Zeoob](https://zeoob.com/) - Social Media Digital Marketing Post Simulator
 * [MedusaJS](https://www.medusajs.com/) - Open Source Commerce Store
+* [BTCPay](https://btcpayserver.org/) - Bitcoin Payment Processor
 * [ConvertMenu](https://convertmenu.com/) or [QR Menu Creator](https://qrmenucreator.com/) - Convert Menu to QR Codes
 * [VCEGuide](https://vceguide.com/) - Tech Certification Practice Tests
 * [9Tut](https://www.9tut.com/) - CCNA Certification Training
@@ -693,7 +695,7 @@
 * [GetFreeIMEBooks](https://www.getfreeimebooks.com/) - Digital Marketing Resources
 * [Systeme](https://systeme.io/) - Marketing Tools
 * [HLDMSIYS?](http://howlongdoesmarijuanastayinyoursystem.net/) - Drug Effect Duration / Testing Information
-* [HomeBank](http://homebank.free.fr/), [Money Manager EX](https://www.moneymanagerex.org/), [Ledger](https://www.ledger-cli.org/) or [gnucash](https://www.gnucash.org/) - Financial Accounting Software
+* [HomeBank](http://homebank.free.fr/), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://www.moneymanagerex.org/), [Ledger](https://www.ledger-cli.org/) or [gnucash](https://www.gnucash.org/) - Financial Management Tools
 * [financial_advice](https://github.com/emilepetrone/financial_advice) - Financial Lessons
 * [Stocksera](https://stocksera.pythonanywhere.com/) or [Screener](https://www.screener.in/) - Stock Tracker
 * [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) - Send TradingView Alerts to Various Apps / [Index](https://github.com/pAulseperformance/awesome-pinescript)
@@ -827,7 +829,7 @@
 * [Useplaintext](https://useplaintext.email/) - How-To Use plaintext Email 
 * [Briskine](https://www.briskine.com/) - Email Templates
 * [Signature Maker](https://signature-maker.net/) - Email Signature Creator 
-* [Mail-in a Box](https://mailinabox.email/) - Self Host a Mail Server / [GitHub](https://github.com/mail-in-a-box/mailinabox)
+* [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers 
 * [Yandex Account Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - Create Infinite Yandex Accounts
 * [Gmail Dot Trick Generator](https://thebot.net/api/gmail/) - Generate Unlimited Gmail Accounts via the Dot Trick
 * [Delete Junk Email](https://gist.github.com/viperadnan-git/fcb0ecda32de0b9a27ec03829a7c12e8) - Bulk Gmail Junk Deleter
@@ -875,7 +877,6 @@
 * [PuTTY](https://www.putty.org/), [2](https://www.chiark.greenend.org.uk/~sgtatham/putty/) / [Fork](https://www.9bis.net/kitty/#!index.md), [GitHub](https://github.com/cyd01/KiTTY/) - SSH & Telnet Client / [Keygen](https://www.puttygen.com/)
 * [Server Hunter](https://www.serverhunter.com/) - Search / Compare Servers 
 * [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy) or [Homer](https://github.com/bastienwirtz/homer) - Home Server Homepage 
-* [FairGame](https://github.com/Hari-Nagarajan/fairgame) - Automatically Place Orders on Amazon
 * [rickroll-blocker](https://github.com/hitthemoney/rickroll-blocker/) - Rick Roll Blocker 
 
 ***
@@ -1756,7 +1757,7 @@ Twitch Stream Tracker
 * [Parted Magic](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_parted_magic) - Disk Management Tool
 * [Disk Usage Analyzers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_disk_usage_analyzers) - View & Manage Files on Disk
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - Disk Benchmarking Tool
-* [Scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive Monitor
+* [Scrutiny](https://github.com/AnalogJ/scrutiny) or [smartmontools](https://www.smartmontools.org/) - Hard Drive Monitors
 * [Macrium Reflect](https://www.macrium.com/reflectfree) - System Benchmarking
 * [poclmembench](https://github.com/kruzer/poclmembench) or [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
 * [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking 
@@ -2206,6 +2207,7 @@ Twitch Stream Tracker
 * [RcloneBrowser-Portable](https://github.com/MinorMole/RcloneBrowser-Portable) - Portable Rclone Browser
 * [EasyClone](https://github.com/xd003/easyclone) - Improved RClone Operations Script
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - HTTP File System
+* [mergerfs](https://github.com/trapexit/mergerfs) - Union Filesystem
 * [FolderClone](http://www.folderclone.com/) - Clone / Backup Folders
 * [File Backup Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_backup_tools) - File / Data Backup Tools
 * [ShadowExplorer](https://www.shadowexplorer.com/) or [ShadowCopyView](https://www.nirsoft.net/utils/shadow_copy_view.html/) - Shadow Copy Explorers
