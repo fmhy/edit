@@ -1210,7 +1210,6 @@
 * [LibreFlix](https://libreflix.org/) - Movies / TV
 * [Vizer.tv](https://vizer.tv/) - Movies/ TV / Anime
 * [GoFilmes](https://gofilmes.me/hd/) - Movies / TV 
-* [MaxSeries](https://maxseries.top/) - Movies / TV / Anime
 * [supertela](https://supertela.org/) - Movies / TV / Anime
 * [NetMovies](http://www.netmovies.com.br/) - Movies / TV
 * [querofilmehd](https://querofilmehd.net/) - Movies / TV
