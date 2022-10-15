@@ -705,6 +705,12 @@
 * [protocol-reading-list](https://github.com/bryanhpchiang/protocol-reading-list) - Crypto Protocols
 * [WalletExplorer](https://www.walletexplorer.com/) or [OXT](https://oxt.me/) - Bitcoin Block Explorers
 * [Wasabi](https://wasabiwallet.io/) - FOSS Bitcoin Wallet
+* [Firefly III](https://firefly-iii.org/) - A personal finances manager / [GitHub](https://github.com/firefly-iii/firefly-iii)
+* [Crater](https://craterapp.com/) - Open Source Invoicing Solution for Individuals & Businesses  / [GitHub](https://github.com/crater-invoice/crater)
+* [BTCPay](https://btcpayserver.org/) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor / [GitHub](https://github.com/btcpayserver/btcpayserver)
+* [InvoiceNinja](https://invoiceninja.com/) - Invoices, Expenses and Tasks built with Laravel and Flutter / [GitHub](https://github.com/invoiceninja/invoiceninja)
+* [Akaunting](https://akaunting.com/) - Send invoices and track expenses / [GitHub](https://github.com/akaunting/akaunting)
+* [LeanTime](https://leantime.io/) - Manage your projects from ideation to delivery / [GitHub](https://github.com/Leantime/leantime)
 
 ***
 
