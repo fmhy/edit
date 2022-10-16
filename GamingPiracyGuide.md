@@ -96,7 +96,7 @@
 * [Unnamed SDVX clone](https://github.com/Drewol/unnamed-sdvx-clone) - Sound Voltex Clone
 * [OpenTaiko](https://github.com/0auBSQ/OpenTaiko) - Taiko no Tatsujin Clone / [Taiko Simulator Guide](https://tjadataba.se/)
 * [Etterna](https://etternaonline.com/), [Quaver](https://quavergame.com/), [O2Mania](https://o2mania.info/) - O2Jam Clones / [Online Maps](http://www.flashflashrevolution.com/), [2](https://www.roblox.com/games/4841678118) -
-* [osu!](https://osu.ppy.sh/home), [opsu!](https://itdelatrisu.github.io/opsu/), [McOsu](https://store.steampowered.com/app/607260/McOsu/) - Osu! Tatakae! Ouendan Clone
+* [osu!](https://osu.ppy.sh/home), [opsu!](https://itdelatrisu.github.io/opsu/) or [McOsu](https://store.steampowered.com/app/607260/McOsu/) - Osu! Tatakae! Ouendan Clones
 * [PPD](https://projectdxxx.me/) - Project Diva Clone
 * [Vulnus](https://discord.gg/vulnus) or [Sound Space+](https://chedski.itch.io/sound-space-plus) - Sound Space Clones
 * [Roblox Archive](https://archive.roblonium.com/) - Roblox Client Archive 
