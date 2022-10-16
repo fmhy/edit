@@ -745,25 +745,26 @@
 ## ▷ Streaming
 
 * [Streaming Improved](https://rentry.co/ItalianStreamingImproved), [2](https://rentry.co/t29tz) - Streaming Sites List
-* [Altaefinizione](https://altadefinizione.sh/) - Movies / TV / Anime
+* [Altaefinizione](https://altadefinizione01.skin/) - Movies / TV / Anime
 * [ilgeniodellostreaming](https://ilgeniodellostreaming.quest/) - Movies / TV / Anime
 * [piratestreaming](https://www.piratestreaming.lol/) - Movies / TV / Anime
 * [cinemalibero](https://cinemalibero.cafe/) - Movies / TV / Anime
 * [casacinema](https://www.casacinema.media/) - Movies / TV / Anime
 * [allstreaming](https://allstreaming.online/) - Movies / TV / Anime
 * [StreamingCommunity](https://streamingcommunity.tech/) - Movies / TV / [Telegram](https://t.me/+jlXmmprhtakxYWJh)
-* [TantiFilm](https://www.tantifilm.autos/) - Movies / TV
+* [TantiFilm](https://www.tantifilm.yachts/) - Movies / TV
 * [filmitaliano](https://filmitaliano.online/) - Movies / TV / Anime
 * [cineblog01](https://cineblog01.cx/) - Movies / TV
 * [cinemalibero](https://cinemalibero.cafe/) - Movies / TV
 * [filmsenzalimiti](https://hds.filmsenzalimiti.me/) - Movies / TV
-* [cb01](https://cb01.kaufen/) - Movies
+* [cb01](https://cb01.marketing/) - Movies
 * [cb01.rip](https://cb01.rip/) - Movies / TV
+* [euroStreaming](https://eurostreaming.quest/) - TV
 * [guardaserie](https://guardaserie.onl/) - TV
 * [filmsenzalimiti](https://filmsenzalimiti.name/) - Movies / TV
 * [Arcoiris TV](https://www.arcoiris.tv/) - TV
 * [ToonItalia](https://toonitalia.co/) - Anime / Cartoons
-* [AnimeSaturn](https://www.animesaturn.cc/) - Anime
+* [AnimeSaturn](https://www.animesaturn.in/) - Anime
 * [AnimeForce](https://www.animeforce.it/) - Anime
 * [AnimeWorld](https://www.animeworld.tv/) - Anime
 
