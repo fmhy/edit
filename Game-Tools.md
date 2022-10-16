@@ -153,10 +153,17 @@
 * [AltCtrls](https://altctrls.info/) - Custom Controller Crafting Resources
 * [Gamesoft](http://www.gamesoft.com/) - Gaming News Feed Manager
 * [Doom Wiki](https://doomwiki.org/wiki/Entryway) - Doom Community Project Documentation
+* [Hard Drop](https://harddrop.com/wiki/Tetris_Wiki) or [Tetris.wiki](https://tetris.wiki/) - Tetris Wikis
+* [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
+* [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching
+* [Fumen](https://harddrop.com/fumen/) - Tetris Field Editor
+* [Four-tris](https://github.com/fiorescarlatto/four-tris) - Tetris Training Client
+* [Puyo.gg](https://www.puyo.gg/) - Puyo Puyo Field Editor
+* [Puyo Nexus](https://puyonexus.com/wiki/Main_Page) - Puyo Puyo Wiki
+* [Puyo Puyo Lesson Plan](https://docs.google.com/spreadsheets/d/1A5LMX7Oev_vfaMjL6amQzQ5Z0cnGEAvSogOysjcavBY/htmlview#) - Puyo Puyo Guide
 * [Useful Osu](https://github.com/CarbonUwU/Useful-osu) - Osu! Resources
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Osu! Collection Manager
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - Osu! Trainer
-* [SpinShare](https://spinsha.re/) - Spin Rhythm XD Custom Charts
 * [H1-Mod](https://h1.gg/) - Call of Duty: Modern Warfare Remastered Client
 * [Assist](https://github.com/HeyM1ke/Assist) - Valorant Launcher
 * [ValStretch](https://github.com/lem6ns/valstretch) - Stretched Resolution Valorant Script
@@ -166,6 +173,7 @@
 * [EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore) - Elden Ring Fixes
 * [Peter Jackson's King Kong Fix](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix) - Peter Jackson's King Kong Signature Edition Fix
 * [FtG UI Mod](https://www.nexusmods.com/dragonage/mods/73) - Make Dragon Age Text Readable
+* [SpinShare](https://spinsha.re/) - Spin Rhythm XD Custom Charts
 * [OrignStubDecrypter](https://github.com/PotatoOfDoom/OriginStubDecrypter) - EA Origins Stub Decrypter
 * [Tarac](https://sims.tarac.nl/the-sims-4/sims-4-download-update-repair-add-dlcs/) - Sims 4 Update / Repair Tool
 * [Payday 2 Social Safe](https://www.overkillsoftware.com/payday2-social-safe/) - Free Payday 2 Offers
