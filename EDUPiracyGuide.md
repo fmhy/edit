@@ -651,6 +651,7 @@ Simulator
 * [The ABC Music Project](http://abc.sourceforge.net/) - Plain Text Music Notation / [Editor](https://toadflax.sourceforge.io/), [2](https://runabc.sourceforge.io/), [3](http://easyabc.sourceforge.net/) / [PNG Convert](https://abccairo.sourceforge.io/) / [MIDI Convert](https://abcmidi.sourceforge.io/) / [Webpages](https://netabc.sourceforge.io/) / [Random](https://sourceforge.net/projects/randomabc/)
 * [Audiveris](https://audiveris.github.io/audiveris/), [Oemer](https://github.com/BreezeWhite/oemer) / [Colab](https://colab.research.google.com/github/BreezeWhite/oemer/blob/main/colab.ipynb), [transcription](https://github.com/superfonic/transcription), [omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart), [AutoAudio](https://github.com/EricaNguyen/AutoAudio), [notetrainerpro](https://sourceforge.net/projects/notetrainerpro/) or [Soundslice](https://www.soundslice.com/transcribe/) - Transcribe Music Sheets / [GitHub](https://github.com/Audiveris/audiveris)
 * [Partitura Magica](https://partituramagica.sourceforge.io/) or [SheetMusicScanner](https://sheetmusicscanner.com/) - Display Scanned Music Sheets
+* [ChiffAndFipple](http://forums.chiffandfipple.com/index.php) - Irish Traditional Music Forum
 
 ***
 
