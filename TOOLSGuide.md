@@ -23,8 +23,10 @@
 * [RecoRank](https://recorank.com/) or [NanoReview](https://nanoreview.net/en) - Tech Reviews / Comparisons
 * [Reddit Favorites](https://redditfavorites.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product & Service Reviews
 * [Car.com](https://www.cars.com/research/compare/ ), [Vehicle Rankings](https://cars.usnews.com/cars-trucks/rankings), [Motor1](https://www.motor1.com/reviews/) or [Edmunds](https://www.edmunds.com/car-reviews/) - Vehicle Reviews / Comparisons
+* [carsized](https://www.carsized.com/) - Vehicle Size Comparisons
 * [GiftWhale](https://giftwhale.com/) - Wishlist Creator
-* [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - Open Source Tools
+* [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - Open-Source Tools
+* [Creating Minds](http://creatingminds.org/tools/tools_ideation.htm) - Creativity Tools
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - Mac-Style Dashboard Widget
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - AI Experiments / Tools 
 * [Generative Tools](https://docs.google.com/document/d/1N57oAF7j9SuHcy5zg2VZWhttLwR_uEldeMr-VKzlVIQ/) - Generative Tool Index
@@ -50,6 +52,7 @@
 * [Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms) - Project Management Tools
 * [GanttProject](https://www.ganttproject.biz/) - Project Scheduling App
 * [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - Calendar & Scheduling Tools
+* [Office Holidays](https://www.officeholidays.com/) - Public Holiday Calandar
 * [Year In Pixels](https://year-in-pixels.glitch.me/) - Mood Tracking Calendar
 * [wnr](https://getwnr.com/) or [Timestrap](https://timestrap.bythewood.me/) - Time Management Apps
 * [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - To-Do List Apps
