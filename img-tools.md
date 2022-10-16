@@ -215,6 +215,7 @@
 * **[Awesome GIF](https://github.com/davisonio/awesome-gif)** - GIF Resource Index
 * [Giphy](https://giphy.com/), [gfycat](https://gfycat.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/), [LottieFiles](https://lottiefiles.com/), [reactiongifs](https://www.reactiongifs.us/), [reactiongifs](https://reactiongifs.me/), [gif-finder](https://gif-finder.com/), [reactiongifs](http://www.reactiongifs.com/), [bestanimations](https://bestanimations.com/), [Animations](https://bleuje.github.io/animationsite/), [GIFBin](https://www.gifbin.com/), [ForGIFs](http://forgifs.com/), [gifimage](https://gifimage.net/) or [Animated Images](https://www.animatedimages.org/) - View / Download GIFs 
 * [/r/HighQualityAnimeGifs](https://www.reddit.com/r/HighQualityAnimeGifs/) or [/r/animegifs](https://www.reddit.com/r/animegifs/) -  View / Download Anime GIFs 
+* [Glittereyez](http://ge.silentears.net/) - Glitter GIFs
 * [Online GIF Tools](https://onlinegiftools.com/) - GIF Tools
 * [EZGif](https://ezgif.com/), [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFMemes](https://gifmemes.io/), [gifexplosion](https://gifexplosion.com/app.php), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Pixteller](http://pixteller.com/) - GIF Creator / Editor
 * [EatMyArt](https://www.eatmy.art/) - Create GIFs from Drawings
@@ -323,6 +324,7 @@
 * [OpenMoji](https://openmoji.org/) - Emojis
 * [PimpMyDrawing](https://pimpmydrawing.com/) - Human Silhouettes
 * [OldBookIllustrations](https://www.oldbookillustrations.com/) - Illustrations from Old Books
+* [HyperCard](http://archives.somnolescent.net/web/hypercard/) - Mac HyperCard Art
 * [Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Movie / TV Covers & Posters
 * [Film.ai](https://beta.flim.ai/) - Movie Screenshots
 * [CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](http://www.pngmart.com/), [freepngs](https://www.freepngs.com/), [pngall](http://www.pngall.com/), [pngplay](http://www.pngplay.com/), [pngfly](https://www.pngfly.com/), [freepngimg](https://www.freepngimg.com/), [kisspng](https://www.kisspng.com/), [maxpixel](https://www.maxpixel.net/) or [OpenClipart](https://openclipart.org/) - PNG Images / Clipart 
