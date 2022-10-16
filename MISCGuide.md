@@ -228,7 +228,8 @@
 * [DiaperGrid](https://diapergrid.com/) - Diaper Price Tracker
 * [WorldTaxiMeter](https://www.worldtaximeter.com/) - Taxi Fare Calculator
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
-* [Type Hound](https://typohound.com/) - eBay Typo Search
+* [Search Ebay Sold](https://chrome.google.com/webstore/detail/search-ebay-sold/mhlcjbhhieanjjafbcoeclghpnjhepif) - Ebay Sold Item Search
+* [Type Hound](https://typohound.com/) - Ebay Typo Search
 * [Valuta EX](https://valuta.exchange/) - Currency Converter
 * [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
 
