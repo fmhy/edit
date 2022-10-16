@@ -437,10 +437,10 @@
 
 * **[NBAFullHD](https://nbafullhd.com/)**, [NBAFile](https://nbafile.com/), [NBAHD](https://nbahd.com/) or [NBAHDReplay](https://nbahdreplay.com/) - NBA
 * **[F1 Full Races](https://f1fullraces.com/)** - F1
-* **[AllWrestling](https://www.allwrestling.online/)** - MMA / Wrestling
+* **[WatchWrestling24](http://watchwrestling24.net/)** - MMA / Wrestling
 * [FootballOrigin](https://www.footballorgin.com/) - Soccer
-* [Sport Video](https://www.sport-video.org.ua/) - Multiple Sports / Torrents 
-* [WatchWrestling24](http://watchwrestling24.net/) - MMA / Wrestling
+* [Sport Video](https://www.sport-video.org.ua/) - Multiple Sports / Torrents
+* [AllWrestling](https://www.allwrestling.online/) - MMA / Wrestling
 * [WatchWrestling.in](https://watchwrestling.in/) - MMA / Wrestling
 * [WatchWrestling.la](https://watchwrestling.show/) - MMA / Wrestling 
 * [WatchProWrestling](http://watchprowrestling.live/) - MMA / Wrestling 
