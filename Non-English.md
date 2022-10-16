@@ -1702,6 +1702,7 @@
 * [doramasmp4](https://doramasmp4.io/) - Asian Drama
 * [LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels) - Live TV / IPTV
 * [TeleBunker](https://www.telebunker.com/) - Live TV
+* [LaCasadelTikiTaka](https://www.lacasadeltikitaka.tv/) - Live Soccer / MMA
 * [JKAnime](https://jkanime.net/) - Anime 
 * [AnimeFénix](https://animefenix.com/) - Anime
 * [TioAnime](https://tioanime.com/) - Anime
