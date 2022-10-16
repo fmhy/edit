@@ -156,6 +156,7 @@
 * [Useful Osu](https://github.com/CarbonUwU/Useful-osu) - Osu! Resources
 * [Collection Manager](https://github.com/Piotrekol/CollectionManager) - Osu! Collection Manager
 * [osu trainer](https://github.com/FunOrange/osu-trainer) - Osu! Trainer
+* [SpinShare](https://spinsha.re/) - Spin Rhythm XD Custom Charts
 * [H1-Mod](https://h1.gg/) - Call of Duty: Modern Warfare Remastered Client
 * [Assist](https://github.com/HeyM1ke/Assist) - Valorant Launcher
 * [ValStretch](https://github.com/lem6ns/valstretch) - Stretched Resolution Valorant Script
@@ -510,6 +511,9 @@
 * [StellarisMods](http://stellarismods.net/) - Stellaris Mods
 * [SMods](https://smods.ru/) - Cities: Skylines Mods
 * [Guitar Hero World Tour: Definitive Edition](https://ghwt.de/) - Guitar Hero: World Tour Mod
+* [Audiosurf 2 Community Patch](https://audiosurf2.info/) - Audiosurf 2 Mod
+* [MDMC](https://mdmc.moe/) - Muse Dash Mods
+* [BSMG](https://bsmg.wiki/) - Beat Saber Mods
 * [NFSMods](https://nfsmods.xyz/home) or [Project Unite](https://discord.com/invite/3F6vEyp) - Need for Speed Mods
 * [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)
 * [Project ECLISE & Grind Thousand](https://discord.gg/PtfwpAznUB) - Plants vs. Zombies 2 Rebalance Mods / [YouTube](https://www.youtube.com/c/goodpea2)
