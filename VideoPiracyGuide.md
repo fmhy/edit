@@ -4,18 +4,12 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/nwESZ1A.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/vuoEFgM.png)** - For mobile users
 
 ***
 ***
 
 # ► Streaming Sites
-
-* **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** or [Crocovid](http://crocovid.com/) - Multi-Site Search
-* **[How-to Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - Find Obscure Films
-* [Video Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_search_sites) - Search Video Sites / [CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)
-
-* ***
 
 ## ▷ Dedicated Hosts
 
@@ -107,6 +101,7 @@
 
 ## ▷ Multi Hosts
 
+* **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** or [Crocovid](http://crocovid.com/) - Multi-Site Search
 * **[FMovies](https://fmovies.name/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * **[Squeezebox](https://movie.squeezebox.dev/)** - Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)
 * **[Movolo](https://movolo.vercel.app/)** - Movies / TV
@@ -204,8 +199,56 @@
 
 ***
 
+## ▷ Video Hosts
+
+* **Note** - These are good for finding classic, obscure and short films
+* **[Video Search Sites CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)**, [Moviez.space](https://moviez.space/) or [PeteyVid](https://www.peteyvid.com/) - Multi-Video Site Search
+* **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/) - Lots of NSFW
+* **[OK](https://ok.ru/video)** 
+* **[YouTube](https://www.youtube.com/)** / [Advanced](https://playlists.at/youtube/search/)
+* **[Dailymotion](https://www.dailymotion.com/us)** 
+* **[BiliBili](https://www.bilibili.com/)** / [Client](https://github.com/Richasy/Bili.Uwp)
+* **[nicovideo](https://www.nicovideo.jp/)** 
+* **[Vimeo](https://vimeo.com/)**
+* [PeerTube](https://joinpeertube.org/), [2](https://search.joinpeertube.org/) / [Instances](https://instances.joinpeertube.org/instances)
+* [lbry](https://lbry.tv/) / [Frontend](https://librarian.bcow.xyz/) / [App](https://lbry.com/)
+* [my.mail.ru](https://my.mail.ru/video)
+* [Veoh](https://www.veoh.com/)
+* [Facebook Videos](https://www.facebook.com/watch/search/?query=fmhy)
+* [Ronemo](https://ronemo.com/)
+* [rutube](https://rutube.ru) - Account Required
+* [cda.pl](https://www.cda.pl/)
+* [tilvids](https://tilvids.com/)
+* [bitchute](https://www.bitchute.com/)
+* [V-S Mobi](https://v-s.mobi/) 
+* [Videa](https://videa.hu/)
+* [youku](https://www.youku.com/)
+* [zloekino](https://zloekino.su/)
+* [metacafe](https://www.metacafe.com)
+* [Aparat](https://www.aparat.com/)
+* [NewTube](https://newtube.app/)
+* [tudou](https://www.tudou.com/) 
+* [BitView](https://www.bitview.net/)
+* [Vidlii](https://www.vidlii.com/)
+* [Naver](https://tv.naver.com/)
+* [vdube](https://www.vdube.com/)
+* [ultimedia](https://www.ultimedia.com/)
+* [odysee](https://odysee.com/)
+* [UTreon](https://utreon.com/)
+* [Rumble](https://rumble.com/)
+* [tubidy](https://tubidy.com/) 
+* [Myspace Videos](https://myspace.com/search/videos) 
+* [Google Videos](https://www.google.com/?tbm=vid)
+* [Yandex Videos](https://yandex.ru/video) 
+* [DuckDuckGo Videos](https://duckduckgo.com/?q=freemediaheckyeah&iar=videos&iax=videos&ia=videos)
+* `site:vk.com` (add to search)
+* `site:my.mail.ru` (add to search)
+
+***
+
 ## ▷ Specialty Streaming
 
+* **[How-to Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - Find Obscure Films
 * [RareFilmm](https://rarefilmm.com/) - Rare Movies 
 * [3D Online Films](https://www.documentarymania.org/) - 3D Movies
 * [ElectronicNostalgia1991](https://www.youtube.com/c/ElectronicNostalgia1991/) - Movie Commentaries
@@ -225,6 +268,7 @@
 * [HuntleyArchives](https://www.huntleyarchives.com/) - Rare / Forgotten Short Films 
 * [FootageFarm](https://footagefarm.com/) - Public Domain Films
 * [The Travel Film Archive](https://travelfilmarchive.com/) - Public Domain Stock Footage
+* [commons.wikimedia](https://commons.wikimedia.org/wiki/Category:Videos) - Wiki Commons Video Files
 * [Einthusan](https://einthusan.tv/) - South Asian Film Archive
 * [IndianCine](https://indiancine.ma/) - Indian Film Archive
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animated Film Archive
@@ -606,7 +650,7 @@
 
 # ► Download Sites
 
-* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners.
+* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners
 * **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - ctrl+f and type "video"
 * **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - Download videos from streaming sites
@@ -686,6 +730,7 @@
 * [Warez Lover](https://warezlover.org/) - Movies / TV 
 * [LatestMovie4U](https://latestmovie4u.com/) - Movies / TV / Anime 
 * [Wtfmovies](https://www.wtfmovies.xyz/) - Movies / TV
+* [Uloz](https://ulozto.net/) - Short Films
 * [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - Cartoons 
 * [Bakabt](https://bakabt.me/) - Cartoons / [Signup](http://wiki.bakabt.me/index.php/Sign_up)
 * [FantAsian](https://t.me/FantAsian) - Asian Drama
@@ -742,7 +787,7 @@
 
 ## ▷ Anime Downloading
 
-* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners.
+* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners
 * **[/r/AnimePiracy Index](https://piracy.moe/)** or [TG Anime Index](https://telegra.ph/Websites-To-Watch-And-Download-Anime-09-10) - Curated List of Anime Sites / [Discord](https://discord.gg/piracy)
 * **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
 * **[AnimeKaizoku](https://animekaizoku.com/)** - Sub / Dub / [Dual Audio](https://github.com/AnimeKaizoku/KaizokuPatcher)
