@@ -972,7 +972,7 @@ pass: paluch
 
 #### Windows Piracy Guides
 
-`aHR0cHM6Ly9yZW50cnkuY28vZnd0Cmh0dHBzOi8vcmVudHJ5LmNvL3dpbmRvd3NfZm9yX3JldGFyZHM=`
+`aHR0cHM6Ly9yZW50cnkuY28vZnd0Cmh0dHBzOi8vcmVudHJ5LmNvL3dpbmRvd3NfZm9yX3JldGFyZHMKaHR0cHM6Ly9yZW50cnkub3JnL2luc3RhbGx3aW5kb3dz`
 
 *** 
 
