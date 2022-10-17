@@ -811,7 +811,7 @@
 * [Live Curtain](https://livecurtain.com/) - Countdown Curtain For Online Meeting
 * [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Nertivia Chat](https://nertivia.net/), [Mumble](https://www.mumble.info/), [Zoiper](https://www.zoiper.com/), [Google Voice](https://voice.google.com/) or [DogeHouse](https://dogehouse.tv/) - Voice Chat 
 * [IMumble](https://www.imumble.nl/), [VoicePacket](https://www.voicepacket.net/) or [Guildbit](https://guildbit.com/) - Voice Chat Servers
-* [Gather](https://gather.town/), [Vircadia](https://vircadia.com/) or [OpenSimulator](http://opensimulator.org/) - Virtual World Server
+* [DJ3D](https://dj3d.io/), [Gather](https://gather.town/), [Vircadia](https://vircadia.com/) or [OpenSimulator](http://opensimulator.org/) - Virtual World Server
 * [FireStorm Viewer](https://www.firestormviewer.org/) - Virtual World Viewer
 * [Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_sites) - No Verification Required Email Sites
 * [Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_clients) - Send & Receive Mail
@@ -937,9 +937,9 @@
 
 ## ▷ Search Tools
 
-* **[Alternative Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_search_engines)** or **[Search-Engine](https://start.me/p/wM7y15/search-engine)** - Search Engine Indexes
-* **[Privacy Based Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
-* **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)**, [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) or [awesome-custom-search-engines](https://github.com/davzoku/awesome-custom-search-engines) - Custom Search Engine Index
+* **[Alternative Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_search_engines)**, **[Privacy Focused Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**, [Fagan Finder](https://www.faganfinder.com/), [DirectSearch.Net](http://www.directsearch.net/),[Search Engine Colossus](https://www.searchenginecolossus.com/) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Directories
+* **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)**, [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) or [awesome-custom-search-engines](https://github.com/davzoku/awesome-custom-search-engines) - Custom Search Engine Directories
+* **[Lets Search!](https://letssearch.org/)** - Advanced Search Engine
 * [100 Search Engines](https://www.100searchengines.com/) - Search With 100 Search Engines
 * [pSearch](https://github.com/SerjSX/pSearch/), [Search All](https://www.searchall.net/) or [AIO Search](https://www.aiosearch.com/) - Multi Site Search
 * [Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse) - Search General Streaming Sites
@@ -965,7 +965,6 @@
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0), [Pastebin.ga](https://pastebin.ga/) or [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - Search Pastebins
 * [Software CSE](https://cse.google.com/cse?cx=57b3962509047447e), [2](https://cse.google.com/cse?cx=ec7d33ef358ae1b65) - Search Software Sites
 * [Rom CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac), [2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Search Rom Sites
-* [Fagan Finder](https://www.faganfinder.com/), [DirectSearch.Net](http://www.directsearch.net/) or [Search Engine Colossus](https://www.searchenginecolossus.com/) - Search Engine Directory
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - DuckDuckGo !bang Meta Serarch / [GitHub](https://github.com/MoserMichael/duckduckbang)
 * [Jumps](https://jumps.io/) or [Yubnub](https://yubnub.org/) - Site Quick Search
 * [Soovle](https://soovle.com/), [Keyword.io](http://www.keyword.io/), [SearchEngineReports](https://searchenginereports.net/) or [Keyword Tool](https://keywordtool.io/) - Popular Keyword Search
@@ -1360,6 +1359,7 @@
 * [Bulk download from Telegram](https://zebradil.me/post/2018-04-18-bulk-download-from-telegram/) - Telegram Media Download Method
 * [SnapchatStoriesBot](https://github.com/dishapatel010/SnapchatStoriesBot) - Get Snapchat Stories on Telegram
 * [Now Playing](https://t.me/nowplaybot) - Now Playing Audio Bot
+* [ongaku](https://github.com/gibcheesepuffs/ongaku) - Display Playing Android Audio in Status
 * [Telesco.pe](https://telesco.pe/) - Telegram Round Video Recorder
 * [Video Stream](https://github.com/lntechnical2/videostream) - Telegram Video Player 
 * [YeetMeet](https://github.com/1337w0rm/YeetMeet) - Meeting Auto Join Bot
@@ -1430,7 +1430,8 @@
 * [Hobune](https://hobune.stream/) - Deleted YouTube Video Archive
 * [Recover My Video](https://www.recovermy.video/) - Recover Titles of Deleted / Private YouTube Videos
 * [youtubecrawl](https://archive.org/details/youtubecrawl) - YouTube Video Archive  
-* [TwitchTheater](https://twitchtheater.tv/), [YouTube Multiplier](http://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos 
+* [TwitchTheater](https://twitchtheater.tv/), [YouTube Multiplier](http://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
+* [Campfire](https://campfire.gg), [Walrus](https://joinwalrus.tv/), [SyncTube](https://synctube.xyz/), [Sync-Tube](https://sync-tube.de/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
 * [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer) - Video Web Player
 * [HookTube](https://hooktube.com/) - View YouTube Videos on Lightweight Page / [Redirect Script](https://greasyfork.org/en/scripts/24163-youtube-unblocker) 
 * [myTube](https://github.com/keitharm/mytube) - Bloat Free YouTube Client
@@ -1518,7 +1519,7 @@
 Twitch Stream Tracker
 * [Unwanted Twitch](https://github.com/kwaschny/unwanted-twitch) - Hide Twitch Categories / Channels
 * [Multi](https://multi.raredrop.co/), [Twitchmultivod](https://www.twitchmultivod.com/) or [TwitchTheater](https://twitchtheater.tv/) - Watch Multiple Twitch Streams
-* [Tenami](https://www.tenami.tv/) - Twitch Watch Parties
+* [Tenami](https://www.tenami.tv/) or [Walrus](https://joinwalrus.tv/) - Twitch Watch Parties
 * [TwitchQuotes](https://www.twitchquotes.com/) - Twitch Copypastas
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix Twitch Aspect Ratio
 * [Chatterino](https://chatterino.com/), [Chatsen](https://chatsen.app/), [Chatterino Homies](https://chatterinohomies.com/) or [Chatty](https://chatty.github.io/) - Twitch Chat Client
@@ -1679,7 +1680,7 @@ Twitch Stream Tracker
 * **[Windows Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/pirate-windows)**
 * **[Windows ISO's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - Download Windows
 * **[Windows Activation Guides / Scripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_windows_activation)** - Active Windows
-* **[Optimize-Guide](https://rentry.co/mdl-optimize-guide)** - Optimize Windows / [Video](https://youtu.be/pJTCwSX9Ym8) [Tweaks](https://file.io/purpuxZKaZ7f) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat) / [Resources](https://github.com/BoringBoredom/PC-Optimization-Hub)
+* **[Optimize-Guide](https://rentry.co/mdl-optimize-guide)** - Optimize Windows / [Video](https://youtu.be/pJTCwSX9Ym8) / [Tweaks](https://file.io/purpuxZKaZ7f) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat) / [Resources](https://github.com/BoringBoredom/PC-Optimization-Hub)
 * **[Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png)**, [2](https://i.imgur.com/A36Yd7F.png) / [Course](https://keycombiner.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/) or [CheatKeys](https://cheatkeys.com/CheatSheet) - Keyboard Shortcuts
 * [Espanso](https://espanso.org/) - Typing Shortcuts / [GitHub](https://github.com/federico-terzi/espanso)
 * [TouchCursor](https://sourceforge.net/projects/touchcursor/) - Use Home Keys as Cursor
