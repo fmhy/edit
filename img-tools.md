@@ -499,6 +499,7 @@
 * [PaperFile](http://www.paperfile.net/) or [StructuRise](http://structurise.com/screenshot-ocr/) - Convert Image Text to Text File
 * [svgco](https://svgco.de/) - Image to SVG Converter
 * [AnsiLove](https://www.ansilove.org/downloads.html) - ANSI /ASCII Art to PNG Converter / [GitHub](https://github.com/ansilove/ansilove)
+* [Vector Express](https://vector.express/) - Vector Converter
 * [Vectorizer](https://www.vectorizer.io/) or [AutoTracer](https://www.autotracer.org/) - Image Vectorizer 
 * [text2img](https://master.ayra.ch/text2img/) or [CogView](https://github.com/THUDM/CogView) - Convert Text to Image
 * [Selfie2Anime](https://selfie2anime.com/), [Animate-Me](https://github.com/Aneureka/animate-me) - Convert Selfies to Anime 
