@@ -129,6 +129,7 @@
 * [oSee](https://osee.in) - Movies / TV / Anime
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
 * [YesHD](https://yeshd.net/) - Movies / TV
+* [NovaStream](https://novastream.to/) - Movies / TV / Anime
 * [OnionPlay](https://onionplay.se/) - Movies / TV / [Mirrors](https://onionplay.network/)
 * [Swatchfree](https://swatchfree.in/) - Movies / TV
 * [WatchSeriesHD](https://www4.watchserieshd.tv/) - Movies / TV / Anime 
@@ -800,7 +801,7 @@
 
 * **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
 * **[Stremio](https://www.stremio.com/)** - Torrent Streaming App
-* **Stremio Tools** - [Addons](https://github.com/danamag/stremio-addons-list/blob/main/README.md) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg)
+* **Stremio Tools** - [Addons](https://github.com/danamag/stremio-addons-list/blob/main/README.md) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg) / [IPTV](https://2ecbbd610840-stremio-iptv.baby-beamup.club/) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/)
 * **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents / [Heroku](https://github.com/l3v11/Jackett-heroku)
 * [Powder](https://powder.media/) - Torrent Streaming App
 * [Filminator](http://filminator.net/) - Torrent Streaming App
