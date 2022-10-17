@@ -67,7 +67,7 @@
 * [v2rayNG](https://github.com/2dust/v2rayNG) - Build Privacy Network
 * [vTunnel](https://github.com/net-byte/vTunnel) - VPN Tunnel
 * [Security Addon](https://github.com/huntmix/securityaddon) - Set Triggers & Measures that protect your Phone
-* [SuperFreezZ](https://superfreezz.gitlab.io/) or [Drowser](https://gitlab.com/juanitobananas/drowser) - Freeze App Background Activities
+* [FreezeYou](https://www.freezeyou.net/en-US/), [SuperFreezZ](https://superfreezz.gitlab.io/) or [Drowser](https://gitlab.com/juanitobananas/drowser) - Freeze App Background Activities
 * [SnoopSnitch](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/) - Check Mobile Network Security 
 * [SimpleLogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/) - Email Forwarding
 * [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/), [Temp Mail](https://play.google.com/store/apps/details?id=temporary.disposable.mail), [Ten Minute Mail](https://play.google.com/store/apps/details?id=com.tenminutemail) or [‎InstAddr](https://play.google.com/store/apps/details?id=air.kukulive.mailnow) - Temp Mail Clients
@@ -144,6 +144,7 @@
 * **[Custom Android Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_operating_systems)**
 * **[Android Debloat Guide](https://rentry.co/debloatandroid)** or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
 * **[Magisk](https://github.com/topjohnwu/Magisk)** or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tool / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager) / [SafteyNet Fix](https://github.com/kdrag0n/safetynet-fix) / [Modules](https://www.androidacy.com/magisk-modules-repository/)
+* **[AutumnBox](https://github.com/zsh2401/AutumnBox/releases)** - Android Device Manager / Root Tool / [Features](https://i.imgur.com/59MlFrW.png)
 * **[Android Web Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)** 
 * **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client 
 * **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites & Apps
@@ -174,6 +175,7 @@
 * [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Health App
 * [BatteryChargeLimiter](https://github.com/MuntashirAkon/BatteryChargeLimiter) - Charging Control
 * [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - Save Battery by Turning Off Pixels
+* [AllMyContact](https://allmycontact.info/) - Contact Info QR Codes
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - Note Taking Apps
 * [Serenity Notes](https://www.serenity.re/en/notes) - Collaborative Notes
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
@@ -478,7 +480,6 @@
 * [IzzyOnDroid](https://android.izzysoft.de/applists.php) - App Repository / [F-Droid](https://apt.izzysoft.de/fdroid/index.php) 
 * [Haoict Repository](https://haoict.github.io/cydia/) - App Repository
 * [DivestOS](https://divestos.org/fdroid/official/) - App Repository
-* [CyPwn](https://repo.cypwn.xyz/), [2](https://ipa.cypwn.xyz/) - App Repository / [Discord](https://discord.gg/cypwn)
 * [TeamOS](https://www.teamos-hkrg.com/) - Modded / Forum 
 * [Aurora Store](https://auroraoss.com/), [2](https://f-droid.org/en/packages/com.aurora.store/) or [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) - Alt App Store
 * [Bypass Aurora Hardware & Geo Restricted Limits](https://youtu.be/L5RrtxQUtVE)
@@ -808,7 +809,7 @@
 
 # ► Android Streaming
 
-* **[CloudStream](https://bafybeic2zbste6sxc2fjqf3k45xdenc26worl6jn5p327kvx3gcgsg7mpu.ipfs.dweb.link/)**, [2](https://github.com/LagradOst/CloudStream-2) - Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM) / [Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cloudstream_forks)
+* **[CloudStream](https://bafybeic2zbste6sxc2fjqf3k45xdenc26worl6jn5p327kvx3gcgsg7mpu.ipfs.dweb.link/)**, [2](https://github.com/LagradOst/CloudStream-2) - Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM) / [Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cloudstream_forks) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/)
 * **[HDO Box](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=hdo+box&sf=titleonly)** - Movies / TV
 * **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Addons](https://github.com/danamag/stremio-addons-list/blob/main/README.md) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * **[Kodi](https://kodi.tv/)** - /r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) / [Real-Debrid](https://real-debrid.com/)
@@ -1128,7 +1129,8 @@
 
 # ► iOS Apps
 
-* **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open Source iOS App Index 
+* **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open Source iOS App Index
+* [CyPwn](https://repo.cypwn.xyz/), [2](https://ipa.cypwn.xyz/) - App Repository / [Discord](https://discord.gg/cypwn)
 * [AppDB](https://appdb.to/) - iOS Apps 
 * [AppAddict](https://www.appaddict.org/) - iOS Apps
 * [TrollStore](https://github.com/opa334/TrollStore) - iOS Apps / 15.0 to 15.1.1
