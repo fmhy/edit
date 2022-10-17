@@ -595,7 +595,8 @@
 * [PlayingCards](https://playingcards.io/) 
 * [FlyOrDie](http://www.flyordie.com/) 
 * [JKLM.FUN](https://jklm.fun/) 
-* [JackBox.tv](https://jackbox.tv/) 
+* [JackBox.tv](https://jackbox.tv/)
+* [Gidd.io](https://gidd.io/)
 * [Playok](https://www.playok.com/)
 * [PaperGames](https://papergames.io/)
 * [Venge](https://venge.io/) - PvP FPS
@@ -675,7 +676,7 @@
 * [BestCrosswords](https://www.bestcrosswords.com/), [USAToday](https://games.usatoday.com/games/uclick-crossword), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
 * [KillerCrossword](https://killercrossword.com/) - No Clue Crosswords
-* [LikeWordle](https://likewordle.com/), [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/), [Wordle Unlimited](https://wordleunlimited.org/), [Huedle](https://huedle.com/), [Chessle](https://jackli.gg/chessle), [BoxOfficeGA](https://boxofficega.me/), [Wordversary](https://wordversary.com/), [Wordle.nyc](https://wordle.nyc/), [Clidle](https://github.com/ajeetdsouza/clidle), [WordleGame](https://wordlegame.org/), [Py-DLE](https://py-dle.herokuapp.com/), [Tweakdle](https://tweakdle.chariz.com/) or [Wordlevs](https://wordlevs.com/) - Wordle Games / [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
+* [LikeWordle](https://likewordle.com/), [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/), [Wordle Unlimited](https://wordleunlimited.org/), [Huedle](https://huedle.com/), [Chessle](https://jackli.gg/chessle), [BoxOfficeGA](https://boxofficega.me/), [Wordversary](https://wordversary.com/), [Wordle.nyc](https://wordle.nyc/), [Clidle](https://github.com/ajeetdsouza/clidle), [WordleGame](https://wordlegame.org/), [Squaredle](https://squaredle.app/), [Py-DLE](https://py-dle.herokuapp.com/), [Tweakdle](https://tweakdle.chariz.com/) or [Wordlevs](https://wordlevs.com/) - Wordle Games / [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
 * [ChessGuessr](https://www.chessguessr.com/) - Chess Style Wordle
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles & Quizzes
 * [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - Online Jigsaw Puzzles
