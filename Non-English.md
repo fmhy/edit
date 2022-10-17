@@ -62,6 +62,7 @@
 * [akwam](https://akwam.to/) - Movies / TV
 * [mycima](https://mycima.link/) - Movies / TV / Anime
 * [cima-club](https://cima-club.vip/) - TV / Anime
+* [eshiq](https://eshiq.net/), [2](https://3sk.tv/) - Turkish TV
 * [asia2tv](https://asia2tv.cn/) - Asian Drama
 * [animebdk](https://animebdk.blogspot.com/) - Anime
 * [anime4up](https://www.anime4up.com/) - Anime
@@ -619,7 +620,7 @@
 * [HindiLover](https://hindilover.biz/) - TV
 * [playdesi](https://playdesi.net/) - Movies / TV
 * [desicinemas](https://desicinemas.tv/) - Movies / TV
-* [moviemora](https://moviemora.com/) - Movies / TV
+* [moviemora](https://moviemora.com/), [2](https://111.90.159.132/) - Movies / TV
 * [toroflixhd](https://toroflixhd.ml/) - Movies / TV
 * [hdmovie2](https://hdmovie2.click/) - Movies
 * [hindimoviestv](https://www.hindimoviestv.com/) - Movies
@@ -1839,6 +1840,7 @@
 * [serial4u](https://serial4u.tv/) - Movies / TV
 * [turkish123](https://turkish123.com/) - TV 
 * [yoturkish](https://www.yoturkish.com) - TV
+* [expressdizi](http://www.expressdizi.com/) - TV
 * [HindiLover](https://hindilover.biz/) - TV
 * [TurkAnime](https://www.turkanime.net/), [2](https://www.turkanime.co/) - Anime
 * [anizm](https://anizm.net/) - Anime
