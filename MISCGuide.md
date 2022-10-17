@@ -311,6 +311,7 @@
 * [Matterport](https://matterport.com/gallery) - Explore Real Places Digitally
 * [Heygo](https://www.heygo.com/) - Live Interactive Virtual Tours
 * [stringers.live](https://stringers.live/) - Live Freelance Journalist Streams
+* [ThemeParkWorldwide](https://www.youtube.com/user/ThemeParkWorldwide/) - Full Day Theme Park Vlogs
 * [WindowSwap](https://window-swap.com/window) or [VisualVacation](https://virtualvacation.us/window) - Open Random Windows
 * [BigPixel](http://en.bigpixel.cn/) - Giant Zoomable Photos
 * [larsberg](http://www.larsberg.net/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - Trippy 3D Experiments
@@ -1326,6 +1327,7 @@
 * [CRX Viewer](https://github.com/Rob--W/crxviewer) - View Extension Source Code 
 * [Tabji](https://tabji.link/) or [MarvellousSuspender](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - Tab Suspender
 * [Darkness](https://chrome.google.com/webstore/detail/darkness-beautiful-dark-t/imilbobhamcfahccagbncamhpnbkaenm) or [Dark Mode Chrome](https://chrome.google.com/webstore/detail/dark-mode-chrome/pdhdailechlgicdgnmdbenhnappgobpp) - Dark Mode
+* [PolyMod](https://polymod.dev/) - Site Themes / [Discord](https://discord.com/invite/pacPH8b9gx)
 * [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) - Picture-in-Picture Mode
 * [OVC](https://chrome.google.com/webstore/detail/ovc-one-video-control/analeldnikfgekckpcppegfekineelbb) - Video Controller
 * [Say Play](https://thanesh.dev/say-play) - Video Control Voice Commands
