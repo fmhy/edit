@@ -349,7 +349,7 @@
 * [TopMystery](http://www.topmystery.com/onlinebooks) - Mystery
 * [PublicBookShelf](http://www.publicbookshelf.com/) - Romance
 * [HourWolf](https://www.hourwolf.com/sfbooks/) - Fantasy
-* [Children's Library](http://en.childrenslibrary.org/),  [MagicKeys](http://www.magickeys.com/books/), [byGosh](https://bygosh.com),  [Baldwin Library](https://ufdc.ufl.edu/juv) or [BookDash](https://github.com/bookdash/bookdash-android-app) - Children's 
+* [Children's Library](http://en.childrenslibrary.org/),  [MagicKeys](http://www.magickeys.com/books/), [byGosh](https://bygosh.com), [StoryWhale](https://www.storywhale.com/), [Baldwin Library](https://ufdc.ufl.edu/juv) or [BookDash](https://github.com/bookdash/bookdash-android-app) - Children's 
 * [Damon's Collection of Game Artbooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_damon.27s_collection_of_game_artbooks), [BestArtbooks](https://t.me/BESTARTBOOKS) or [Artbooks.gala](https://artbooks.gala100.net/) - Artbooks
 * [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U), [PimpMyMind](https://pimpmymind.net/), [selfhelpbooklab](https://t.me/selfhelpbooklab), [SelfHelpBooks4U](https://t.me/SelfHelpBooks4U) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - Self-Help
 * [Optimize](https://www.heroic.us/optimize) - Self-Improvement Notes / Lessons
