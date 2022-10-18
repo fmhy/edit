@@ -659,6 +659,7 @@
 * **[Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download)** - Movies / TV / Anime / Single Click DL's
 * [RareLust](https://rarelust.com/) - Rare Movies / NSFW 
 * [My Duck Is Dead](http://www.myduckisdead.org/) - Rare Movies / NSFW 
+* [Uloz](https://ulozto.net/) - Rare Movies / Short Films
 * [MobileTVShows](https://www.mobiletvshows.net/) - TV / Anime
 * [Medeberiyaa](https://medeberiyaa.com/) - Movies / TV / Anime
 * [PSARips](https://psa.pm/) - Movies / TV / [GDrive Telegram](https://t.me/PSAonGdrive) / [Scraper](https://github.com/NandiyaLive/PSALinkGrabber)
@@ -729,7 +730,6 @@
 * [Warez Lover](https://warezlover.org/) - Movies / TV 
 * [LatestMovie4U](https://latestmovie4u.com/) - Movies / TV / Anime 
 * [Wtfmovies](https://www.wtfmovies.xyz/) - Movies / TV
-* [Uloz](https://ulozto.net/) - Short Films
 * [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - Cartoons 
 * [Bakabt](https://bakabt.me/) - Cartoons / [Signup](http://wiki.bakabt.me/index.php/Sign_up)
 * [FantAsian](https://t.me/FantAsian) - Asian Drama
