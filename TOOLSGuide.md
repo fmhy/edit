@@ -52,9 +52,9 @@
 * [Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms) - Project Management Tools
 * [GanttProject](https://www.ganttproject.biz/) - Project Scheduling App
 * [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - Calendar & Scheduling Tools
-* [Office Holidays](https://www.officeholidays.com/) - Public Holiday Calandar
+* [Office Holidays](https://www.officeholidays.com/) - Public Holiday Calendar
 * [Year In Pixels](https://year-in-pixels.glitch.me/) - Mood Tracking Calendar
-* [wnr](https://getwnr.com/) or [Timestrap](https://timestrap.bythewood.me/) - Time Management Apps
+* [wnr](https://getwnr.com/), [Timeblocking](https://timeblocking.atomiclife.app/) or [Timestrap](https://timestrap.bythewood.me/) - Time Management Apps
 * [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - To-Do List Apps
 * [Creative Commons](https://creativecommons.org/) - Creative Commons Licenses
 * [ievaphone](https://ievaphone.com/), [blacktel](https://www.blacktel.io/), [Citrustel](https://www.citrustel.com/) or [PopTox](https://www.poptox.com/) - Make Free Phone Calls
@@ -163,7 +163,7 @@
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
 * [Cliche Finder](http://cliche.theinfo.org/) - Detect Cliches
 * [phraseup](http://www.phraseup.com/) - Autocomplete Common Phrases 
-* [Transformer](https://transformer.huggingface.co/), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en), [TextSynth](https://textsynth.com/playground.html) or [Talk to Transformer](https://app.inferkit.com/demo) - Text Autocomplete 
+* [Transformer](https://transformer.huggingface.co/), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en), [TextSynth](https://textsynth.com/playground.html), [MagicPrompt](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion) or [Talk to Transformer](https://app.inferkit.com/demo) - Text Autocomplete 
 * [EleutherAI](https://6b.eleuther.ai/) or [Essaytyper](http://www.essaytyper.com/) - Text / Story Autocomplete
 * [SongLyricsGenerator](http://www.songlyricsgenerator.com/) or [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) - Generate Fake Song Lyrics
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
@@ -306,7 +306,7 @@
 * [DJV](https://darbyjohnston.github.io/DJV/) - Professional Video Review Player
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - SWF to Video Converter
 * [MotionFactory](https://www.motionfactory.io/) - Video Editing Workflow Manager
-* [ppInk](https://github.com/PubPub-zz/ppInk/), [glnk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/), [Live Draw](https://github.com/antfu/live-draw) or [Pensela](https://github.com/weiameili/Pensela) - Screen Annotation 
+* [ppInk](https://github.com/PubPub-zz/ppInk/), [glnk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/), [Live Draw](https://github.com/antfu/live-draw) or [Pensela](https://github.com/weiameili/Pensela) - Screen Annotation
 * [VidGrid](https://vidgrid.tk.gg/) - View Multiple Streams Simultaneously
 * [Awesome Streaming Tools](https://github.com/juancarlospaco/awesome-streaming-tools) or [OBS Ninja](https://obs.ninja/) - Streaming Tools Indexes
 * [dart_vlc](https://github.com/alexmercerind/dart_vlc) - Video Recording / Streaming
@@ -358,6 +358,7 @@
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
 * [AnimeEffects](http://animeeffects.org/en/), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/) or [Synfig](https://www.synfig.org/) - 2D Animation Tool 
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder) 
+* [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Create Videos using Stable Diffusion
 * [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - Fractal Rendering Software / [3D](https://mb3d.overwhale.com/)
 * [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
 * [LibreSprite](https://libresprite.github.io/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
@@ -943,7 +944,7 @@
 * [100 Search Engines](https://www.100searchengines.com/) - Search With 100 Search Engines
 * [pSearch](https://github.com/SerjSX/pSearch/), [Search All](https://www.searchall.net/) or [AIO Search](https://www.aiosearch.com/) - Multi Site Search
 * [Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse) - Search General Streaming Sites
-* [Video Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0) - Search YouTube-Like Video Sites
+* [Video Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_video_hosts) - Search YouTube-Like Video Sites
 * [Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei), [2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu) - Search Anime Streaming Sites
 * [TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg) - Search TV Streaming Sites
 * [Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z), [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Search Download Sites
@@ -1677,7 +1678,7 @@ Twitch Stream Tracker
 
 # ► System Tools
 
-* **[Windows Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/pirate-windows)**
+* **[Windows Piracy Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_windows_piracy_guides)**
 * **[Windows ISO's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - Download Windows
 * **[Windows Activation Guides / Scripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_windows_activation)** - Active Windows
 * **[Optimize-Guide](https://rentry.co/mdl-optimize-guide)** - Optimize Windows / [Video](https://youtu.be/pJTCwSX9Ym8) / [Tweaks](https://file.io/purpuxZKaZ7f) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat) / [Resources](https://github.com/BoringBoredom/PC-Optimization-Hub)
@@ -1699,7 +1700,10 @@ Twitch Stream Tracker
 * [Technical City](https://technical.city/) - Hardware Comparisions
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - Mouse Click Latency Chart
-* [Sensor.fyi](https://sensor.fyi/info/) - Mouse Guide / Information
+* [Sensor.fyi](https://sensor.fyi/info/) - Mouse Buying Guide
+* [PSU Tier List](https://cultists.network/140/psu-tier-list/) - PSU Buying Guide
+* [NewMaxx's SSD Site](https://ssd.borecraft.com/) - SSD Buying Guide
+* [PC Monitors](https://pcmonitors.info/) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guide
 * [Office License Isn't Genuine](https://web.archive.org/web/20211014003224/https://windowsaddict.ml/office-license-is-not-genuine) - Fix Office Activation Issues
 * [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) - BSD Operating Systems
 * [Medicat USB](https://medicatusb.com/) - USB Toolkit
