@@ -255,7 +255,7 @@
 
 ## ▷ Painting / Drawing
 
-* [Krita](https://krita.org/en/), [MyPaint](http://mypaint.org/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [Tux Paint](https://tuxpaint.org/), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/), [Paintroid](https://github.com/Catrobat/Paintroid), [ProsePainter](https://www.prosepainter.com/) or [MediBang](https://medibangpaint.com/en/) - Painting
+* [Krita](https://krita.org/en/) / [Stable Diffusion](https://github.com/sddebz/stable-diffusion-krita-plugin), [MyPaint](http://mypaint.org/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [Tux Paint](https://tuxpaint.org/), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/), [Paintroid](https://github.com/Catrobat/Paintroid), [ProsePainter](https://www.prosepainter.com/) or [MediBang](https://medibangpaint.com/en/) - Painting
 * [bomomo](https://bomomo.com/) - Multi-Brush Painting
 * [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art
 * [Aggie.io](https://aggie.io/), [Magma](https://magmastudio.io/) or [malmal](https://malmal.io/) - Draw with Friends or Strangers 
@@ -307,6 +307,7 @@
 # ► Download Images
 
 * **[Image Download Site Index](https://start.me/p/jj0JAp/designer)** - Download Images, Illustrations, Icons & more
+* **[Lexica](https://lexica.art/)** or [Krea](https://www.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
 * **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_photo_sites)** - Download Stock Photos / Vectors / Illustrations
 * **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)** - Download Icons
 * **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)** - Search by Image
@@ -314,6 +315,7 @@
 * [Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)
 * [RipMe](https://github.com/RipMeApp/ripme), [ImgDownloader](https://imgdownloader.com/), [gallery-dl](https://github.com/mikf/gallery-dl), [SCrawler](https://github.com/AAndyProgram/SCrawler) or [Image Extractor](https://extract.pics/) - Image Download Tools
 * [picsearch](https://www.picsearch.com/), [Yandex Images](https://yandex.ru/images) or [Google Images](https://images.google.com/) - Image Search
+* [Clip Retrieval](https://rom1504.github.io/clip-retrieval/) - Clip Retrieval System
 * [RootAbout](https://rootabout.com/) - Archive / OpenlLibrary Reverse Image Search 
 * [PicTriev](http://www.pictriev.com/) - Find Look-Alike Images 
 * [PimEyes](https://pimeyes.com/en/) - Reverse Face Image Search 
@@ -378,7 +380,6 @@
 * [Keygen](https://keygen.co/) - 3D Key Model Generator
 * [CC0 Textures](https://cc0textures.com/) - Textures for 3D Models 
 * [Generated Photos](https://generated.photos/) - AI Generated Model Photos
-* [Blender](https://www.blender.org/) - Open Source 3D Modeler / 2D Animation / Video Editor / [Resources](https://github.com/agmmnn/awesome-blender)
 * [3D Modeling Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_modeling_apps) - Free 3D Modeling Apps 
 * [Bloom3D](https://bloom3d.com/) or [Zdog](https://zzz.dog/) - Online 3D Modeling Tools
 * [Figurosity](https://figurosity.com/) - Human 3D Models
