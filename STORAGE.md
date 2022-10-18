@@ -47,17 +47,22 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### AI Image Generators
 
+* **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)** or [SD Akashic](https://github.com/Maks-s/sd-akashic) - AI Image Generation Resources
 * **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) 
 * **Craiyon Tools** - [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk) / [Generative Engine](https://experiments.runwayml.com/generative_engine/)
 * [DALL·E Flow](https://github.com/jina-ai/dalle-flow) / [Colab](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb)
 * [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot)
 * [Midjourney](https://www.midjourney.com/)
+* [Dezgo](https://dezgo.com/)
+* [InPainter](https://inpainter.vercel.app/paint)
+* [Stable Diffusion InPainting](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) / [Guide](https://rentry.org/drfar)
+* [Diffuse The Rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
 * [StabilityAI](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+* [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) / [WebUI](https://github.com/neonsecret/stable-diffusion-webui), [2](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Simplified](https://github.com/pinilpypinilpy/sd-webui-colab-simplified) / [Colab](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb)
 * [Stable Horde](https://stablehorde.net/) / [Client](https://dbzer0.itch.io/stable-horde-client)
-* [stable-diffusion-webui](https://github.com/neonsecret/stable-diffusion-webui)
-* [sd-webui-colab-simplified](https://github.com/pinilpypinilpy/sd-webui-colab-simplified)
 * [InvokeAI](https://github.com/invoke-ai/InvokeAI)
 * [SD GUITard](https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4?usp=sharing)
+* [Voldy](https://rentry.org/voldy), [AyyMD](https://rentry.org/ayymd-stable-diffustion-v1_4-guide), [AMD Guide](https://rentry.org/sdamd), [Textard](https://rentry.org/textard), [Native Isekai Too](https://rentry.org/sd-nativeisekaitoo) or [CPUtard](https://rentry.org/cputard) - Stable Diffusion Guides
 
 ***
 
@@ -301,7 +306,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 #### Calculator Sites
 
 **[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)**, **[WolframAlpha Math](https://www.wolframalpha.com/examples/mathematics)**, **[Omni Calculator](https://www.omnicalculator.com/)**, [RapidTables](https://www.rapidtables.com/),  [Calculator.net](https://www.calculator.net/sitemap.html), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [NumberEmpire](https://www.numberempire.com/), [Easy Calculation](https://www.easycalculation.com/), [Calculatorhut](https://www.calculatorhut.com/), [Calculation Calculators](https://calculationcalculator.com/), [calculator.net](https://www.calculator.net/), [JustFreeTools](https://www.justfreetools.com/en/all-calculators), [Calculat.io](https://calculat.io/), [Keisan](https://keisan.casio.com/), [Calculator.com](https://calculator.com/), [Calculator.net](https://calculator.net/), [Online Calculator](https://www.online-calculator.com/), [calculatort](https://calculatort.com/)
-Manhua
+
 ***
 
 #### Calendars
@@ -1073,7 +1078,7 @@ Manhua
 
 #### Image Upscalers 
 
-[Waifu2x](https://github.com/nagadomi/waifu2x), [Upscayl](https://github.com/upscayl/upscayl), [GigaPixel](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [Resizer](https://resizer.in/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [Upscaler Stockphotos](https://upscaler.stockphotos.com/), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/), [image upscaler](https://image-upscaler.com/), [CupScale](https://github.com/n00mkrad/cupscale), [Upscale Media](https://www.upscale.media/), [Zyro Upscaler](https://zyro.com/tools/image-upscaler), [Nicescaler](https://jangystudio.itch.io/nicescaler), [DFDNet](https://github.com/csxmli2016/DFDNet), [Upscale.media](https://www.upscale.media/), [Nero AI](https://ai.nero.com/image-upscaler)
+[Waifu2x](https://github.com/nagadomi/waifu2x), [Upscayl](https://github.com/upscayl/upscayl), [GigaPixel](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [Resizer](https://resizer.in/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [Upscaler Stockphotos](https://upscaler.stockphotos.com/), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/), [image upscaler](https://image-upscaler.com/), [CupScale](https://github.com/n00mkrad/cupscale), [Upscale Media](https://www.upscale.media/), [Zyro Upscaler](https://zyro.com/tools/image-upscaler), [Nicescaler](https://jangystudio.itch.io/nicescaler), [DFDNet](https://github.com/csxmli2016/DFDNet), [Upscale.media](https://www.upscale.media/), [Nero AI](https://ai.nero.com/image-upscaler), [SDUpscale](https://rentry.org/sdupscale)
 
 **Waifu2x Tools**
 
@@ -1382,7 +1387,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Modded Minecraft Launchers
 
-[Offline Mode](https://github.com/fn2006/PollyMC), **[Lunar Client](https://www.lunarclient.com/)** / [Lite](https://github.com/Nilsen84/lunar-client-qt) / [Colors](https://github.com/couleur-tweak-tips/Moony) / [Socket](https://solarsocket.solartweaks.com/), **[UltimMC](https://github.com/AfoninZ/UltimMC)**, **[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [ATLauncher](https://atlauncher.com/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [PollyMC](https://github.com/fn2006/PollyMC)
+**[Lunar Client](https://www.lunarclient.com/)** / [Lite](https://github.com/Nilsen84/lunar-client-qt) / [Colors](https://github.com/couleur-tweak-tips/Moony) / [Socket](https://solarsocket.solartweaks.com/), **[UltimMC](https://github.com/AfoninZ/UltimMC)**, **[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [ATLauncher](https://atlauncher.com/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [PollyMC](https://github.com/fn2006/PollyMC)
 
 ***
 
