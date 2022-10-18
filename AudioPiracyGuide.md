@@ -15,7 +15,7 @@
 * **[Spotify Client](https://www.spotify.com/us/download/)**, [SpotifyD](https://github.com/Spotifyd/spotifyd), [Lofi Rocks](https://www.lofi.rocks/), [ncspot](https://github.com/hrkfdn/ncspot), [Strix](https://arlo.site/strixmusic/install/) or [SpoTube](https://github.com/KRTirtho/spotube) - Streaming
 * **[Spotify Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - Spotify Tools, Adblockers, Customization & More
 * [YouTube Music Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_music_players) - Streaming
-* [FunkWhale](https://funkwhale.audio/) - Streaming
+* [FunkWhale](https://funkwhale.audio/) - Streaming / [Listening Parties](https://chrome.google.com/webstore/detail/youtube-music-party/cdmmbghbolflmmfecknfkjcflnadaocg)
 * [nuclear](https://nuclear.js.org/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
 * [Cider](https://cider.sh/) - Streaming
