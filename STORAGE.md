@@ -10,7 +10,7 @@
 
 #### 3D Modeling Apps
 
-[Blender](https://www.blender.org/) / [Render](https://github.com/prman-pixar/RenderManForBlender), [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketch.Me](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [Chakoku](https://github.com/itta611/ChokokuCAD), [PovRay](http://www.povray.org/), [FreeCAD](https://www.freecadweb.org/), [PicoCad](https://johanpeitz.itch.io/picocad), [Vectary](https://www.vectary.com/), [LibreCAD](https://librecad.org/), [Art of Illusion](http://aoi.sourceforge.net/), [BRL-CAD](https://brlcad.org/) 
+[Blender](https://www.blender.org/) / [Resources](https://github.com/agmmnn/awesome-blender) / [Textures](https://github.com/carson-katri/dream-textures) / [Render](https://github.com/prman-pixar/RenderManForBlender), [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketch.Me](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [Chakoku](https://github.com/itta611/ChokokuCAD), [PovRay](http://www.povray.org/), [FreeCAD](https://www.freecadweb.org/), [PicoCad](https://johanpeitz.itch.io/picocad), [Vectary](https://www.vectary.com/), [LibreCAD](https://librecad.org/), [Art of Illusion](http://aoi.sourceforge.net/), [BRL-CAD](https://brlcad.org/)
 
 ***
 
@@ -54,11 +54,13 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot)
 * [Midjourney](https://www.midjourney.com/)
 * [Dezgo](https://dezgo.com/)
+* [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/)
 * [InPainter](https://inpainter.vercel.app/paint)
+* [Dreambooth](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion), [2](https://github.com/JoePenna/-Stable-Diffusion)
 * [Stable Diffusion InPainting](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) / [Guide](https://rentry.org/drfar)
 * [Diffuse The Rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
 * [StabilityAI](https://huggingface.co/spaces/stabilityai/stable-diffusion)
-* [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) / [WebUI](https://github.com/neonsecret/stable-diffusion-webui), [2](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Simplified](https://github.com/pinilpypinilpy/sd-webui-colab-simplified) / [Colab](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb)
+* [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) / [WebUI](https://github.com/neonsecret/stable-diffusion-webui), [2](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Simplified](https://github.com/pinilpypinilpy/sd-webui-colab-simplified) / [Colab](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) / [Single Click](https://github.com/cmdr2/stable-diffusion-ui)
 * [Stable Horde](https://stablehorde.net/) / [Client](https://dbzer0.itch.io/stable-horde-client)
 * [InvokeAI](https://github.com/invoke-ai/InvokeAI)
 * [SD GUITard](https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4?usp=sharing)
