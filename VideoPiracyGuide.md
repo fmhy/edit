@@ -14,15 +14,15 @@
 ## ▷ Dedicated Hosts
 
 * **[Soap2Day](https://soapgate.org/)** - Movies / TV
+* **[C1NE](https://c1ne.co/)** - Movies / TV
+* **[Ask4movies](https://ask4movie.mx/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
 * **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * **[Oligopoly](https://olgply.com/)** - Movies / TV
 * **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
 * **[Mov.onl](https://www.mov.onl/)** - Movies / TV
 * **[Movies.cf](https://movies.cf/Landing)** - Movies
 * **[FreeTubeSpot](https://www.freetubespot.com/)** - Movies
-* **[Ask4movies](https://ask4movie.mx/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
 * **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
-* [C1NE](https://c1ne.co/) - Movies / TV
 * [HDMovieBox](https://hdmoviebox.org/) - Movies
 * [SockShare](http://sockshare.ac/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones) / Use Adblock
 * [NetU](https://netu.io/view_page.php?pid=4) - Movies / TV / / Anime / [Search](https://i.imgur.com/SiYyosZ.mp4) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)
@@ -90,7 +90,6 @@
 * [LokLok](https://loklok.com/) - Movies / TV
 * [ARTE](https://www.arte.tv/en) - Movies / TV
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required
-* [YouTube Movie Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies)
 * [Amazon Free w/ Ads](https://www.amazon.com/free-ads/s?k=free+with+ads) - Movies / TV
 * [Free Netflix](https://rentry.co/Free-Netflix) - Free Netflix Method
 * [JustWatch](https://www.justwatch.com/), [Yidio](https://www.yidio.com/movies/filter/free) or [ReelGood](https://reelgood.com/) - Search Legal Streaming Hosts
@@ -202,18 +201,18 @@
 ## ▷ Video Hosts
 
 * **Note** - These are good for finding classic, obscure and short films
-* **[Video Search Sites CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)**, [Moviez.space](https://moviez.space/) or [PeteyVid](https://www.peteyvid.com/) - Multi-Video Site Search
+* **[Video Search CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)**, [Moviez.space](https://moviez.space/) or [PeteyVid](https://www.peteyvid.com/) - Multi-Video Site Search
 * **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/) - Lots of NSFW
 * **[OK](https://ok.ru/video)** 
-* **[YouTube](https://www.youtube.com/)** / [Advanced](https://playlists.at/youtube/search/)
+* **[YouTube](https://www.youtube.com/)** / [Advanced](https://playlists.at/youtube/search/) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_youtube_tools)
 * **[Dailymotion](https://www.dailymotion.com/us)** 
 * **[BiliBili](https://www.bilibili.com/)** / [Client](https://github.com/Richasy/Bili.Uwp)
-* **[nicovideo](https://www.nicovideo.jp/)** 
+* **[Niconico](https://www.nicovideo.jp/)** 
 * **[Vimeo](https://vimeo.com/)**
+* **[Veoh](https://www.veoh.com/)**
 * [PeerTube](https://joinpeertube.org/), [2](https://search.joinpeertube.org/) / [Instances](https://instances.joinpeertube.org/instances)
 * [lbry](https://lbry.tv/) / [Frontend](https://librarian.bcow.xyz/) / [App](https://lbry.com/)
 * [my.mail.ru](https://my.mail.ru/video)
-* [Veoh](https://www.veoh.com/)
 * [Facebook Videos](https://www.facebook.com/watch/search/?query=fmhy)
 * [Ronemo](https://ronemo.com/)
 * [rutube](https://rutube.ru) - Account Required
