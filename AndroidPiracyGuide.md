@@ -906,7 +906,7 @@
 
 # ► iOS Jailbreaking
 
-* **[Complete Jailbreak Chart](https://docs.google.com/spreadsheets/d/11DABHIIqwYQKj1L83AK9ywk_hYMjEkcaxpIg6phbTf0/)** - Jailbreak Tools Index
+* **[Complete Jailbreak Chart](https://appledb.dev/)** - Jailbreak Tools Index
 * [Can I Jailbreak](https://canijailbreak2.com/) - Check if your Phone can be Jailbroken 
 * [PostBox](https://www.postbox.news/) - Jailbreak News App / [Discord](https://discord.gg/maPagQDmnw)
 * [/r/jailbreak](https://reddit.com/r/jailbreak) - Jailbreaking Subreddit
