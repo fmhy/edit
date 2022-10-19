@@ -611,6 +611,7 @@
 * [MiniRoyale](https://miniroyale2.io/) - Battle Royal Game 
 * [TagPro](https://koalabeast.com/) - Capture the Flag
 * [Wings.io](http://wings.io/) - Plane Battles
+* [Gpop.io](http://gpop.io/) - Rhythm Game
 * [Curve Fever](https://curvefever.pro/) - Line Battles
 * [LOLBeans](https://lolbeans.io/) - "Fall guys" like game
 * [Betrayal](https://betrayal.io/) - "Among Us" like game
@@ -643,7 +644,6 @@
 * [AllBad.Cards](https://allbad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - Cards Against Humanity Online 
 * [Poker Now](https://www.pokernow.club/), [LiPoker](https://lipoker.io/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
 * [KDice](http://www.kdice.com/) - Multiplayer Dice War
-* [Gpop.io](http://gpop.io/) - Multiplayer Rhythm Game.
 
 ***
 
