@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/INwFgAS.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/ri8s1vQ.png)** - For mobile users
 
 ***
 ***
@@ -50,6 +50,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)** or [SD Akashic](https://github.com/Maks-s/sd-akashic) - AI Image Generation Resources
 * **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) 
 * **Craiyon Tools** - [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk) / [Generative Engine](https://experiments.runwayml.com/generative_engine/)
+* **[Stable Diffusion](https://discord.com/invite/stablediffusion)** or [Unstable Diffusion](https://discord.com/invite/unstablediffusion) - Discord Servers
 * [DALL·E Flow](https://github.com/jina-ai/dalle-flow) / [Colab](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb)
 * [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot)
 * [Midjourney](https://www.midjourney.com/)
@@ -256,6 +257,12 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 #### Auto Text Expander 
 
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/auto-text-expander/) / [Chrome](https://chrome.google.com/webstore/detail/auto-text-expander-for-go/iibninhmiggehlcdolcilmhacighjamp?hl=en)
+
+***
+
+#### ASCII Art Creators
+
+[taag](http://patorjk.com/software/taag/), [Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator](https://github.com/CherryPill/ASCII-art-creator), [ASCII Today](https://ascii.today/), [rexpaint](https://www.gridsagegames.com/rexpaint/), [PabloDraw](http://picoe.ca/products/pablodraw/), [ASCII Paint](http://ascii.alienmelon.com/), [DeepAA](https://github.com/OsciiArt/DeepAA), [Kakikun](https://github.com/file-acomplaint/kakikun), [Playscii](https://jp.itch.io/playscii) 
 
 ***
 
@@ -637,7 +644,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Fun Indexes
 
-[Neal.fun](https://neal.fun/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](http://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](http://www.thisismywebsitenow.com/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](http://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://www.chromeexperiments.com/), [0x2a](https://0x2a.re/), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/)
+[Neal.fun](https://neal.fun/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](http://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](http://www.thisismywebsitenow.com/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](http://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://www.chromeexperiments.com/), [0x2a](https://0x2a.re/), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [Drunk Men Work Here](http://www.drunkmenworkhere.org/archive)
 
 ***
 
@@ -1389,7 +1396,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Modded Minecraft Launchers
 
-**[Lunar Client](https://www.lunarclient.com/)** / [Lite](https://github.com/Nilsen84/lunar-client-qt) / [Colors](https://github.com/couleur-tweak-tips/Moony) / [Socket](https://solarsocket.solartweaks.com/), **[UltimMC](https://github.com/AfoninZ/UltimMC)**, **[SkLauncher](https://skmedix.pl/sklauncher)**, [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [ATLauncher](https://atlauncher.com/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [PollyMC](https://github.com/fn2006/PollyMC)
+**[Lunar Client](https://www.lunarclient.com/)** / [Lite](https://github.com/Nilsen84/lunar-client-qt) / [Colors](https://github.com/couleur-tweak-tips/Moony) / [Socket](https://solarsocket.solartweaks.com/), **[UltimMC](https://github.com/AfoninZ/UltimMC)**, **[SkLauncher](https://skmedix.pl/sklauncher)**, **[PrismLauncher](https://prismlauncher.org/)** / [GitHub](https://github.com/PrismLauncher/PrismLauncher), [MultiMC](https://multimc.org/), [GDLauncher](https://gdevs.io/), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [ATLauncher](https://atlauncher.com/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [PollyMC](https://github.com/fn2006/PollyMC)
 
 ***
 
