@@ -170,7 +170,6 @@
 * [PhoneDB](https://phonedb.net/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones & Prices 
 * [DXOMARK](https://www.dxomark.com/) - Smartphone Quality Testing
 * [PhoneSized](https://phonesized.com/) - Phone Size Comparisons
-* [Reprice](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno) - Track Amazon Prices
 * [Don’t kill my app!](https://dontkillmyapp.com/) - Manufacturer Battery Life vs. App Functionality
 * [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Health App
 * [BatteryChargeLimiter](https://github.com/MuntashirAkon/BatteryChargeLimiter) - Charging Control
@@ -508,36 +507,38 @@
 * [APK Fab](https://apkfab.com/) - Untouched
 * [APKCafe](https://apk.cafe/) - Untouched
 * [Dreamsroom](https://dreamsroom.applinzi.com/) - Untouched
-* [Android APK](https://android-apk.org/) - Untouched / Modded 
-* [APKSum](https://www.apksum.com/) - Untouched / Modded 
-* [A2Z APK](https://a2zapk.com/) - Untouched / Modded  
-* [RevDl](https://www.revdl.com/) - Modded  
+* [Android APK](https://android-apk.org/) - Untouched / Modded
+* [APKSum](https://www.apksum.com/) - Untouched / Modded
+* [A2Z APK](https://a2zapk.com/) - Untouched / Modded
+* [RevDl](https://www.revdl.com/) - Modded
 * [Sbenny](https://sbenny.com/) - Modded
 * [Apkmodhub](https://apkmodhub.in/) - Modded
-* [AndroidGameMods](https://www.androidgamemods.com/) - Modded 
+* [AndroidGameMods](https://www.androidgamemods.com/) - Modded
 * [farsroid](https://www.farsroid.com/) - Modded
 * [GameDVA](https://gamedva.com/) - Modded
 * [AndroidRepublic](https://androidrepublic.org/) - Modded
 * [APKTops](https://www.apktops.ir/) - Modded
 * [Apk4Free](https://apk4free.org/) - Modded / [Telegram](https://t.me/Apk4Free)
-* [Android1](https://an1.com/) - Modded 
+* [Android1](https://an1.com/) - Modded
 * [HappyMod](https://www.happymod.com/) - Modded
-* [DZAPK](https://dzapk.com/) - Modded 
+* [DZAPK](https://dzapk.com/) - Modded
 * [Apk4All](https://apk4all.com/) - Modded
+* [ModderWeb](https://modderweb.com/) - Modded
 * [RexDL](https://rexdl.com/) - Modded
 * [Androidp1](https://www.androidp1.com/en/) - Modded
+* [Play APK](https://play-apk.net/en/) - Modded
 * [5Play](https://5play.ru/en/) - Modded
-* [iHackedit](http://ihackedit.com/) - Modded 
+* [iHackedit](http://ihackedit.com/) - Modded
 * [Modules Repositor](https://t.me/modulesrepo) - Modded
-* [AndroPalace](https://www.andropalace.org/) - Modded 
+* [AndroPalace](https://www.andropalace.org/) - Modded
 * [HostAPK](https://www.hostapk.com/) - Modded
-* [APK Home](https://apkhome.net/) - Modded 
-* [DlAndroid](https://dlandroid.com/) - Modded 
+* [APK Home](https://apkhome.net/) - Modded
+* [DlAndroid](https://dlandroid.com/) - Modded
 * [TechBigs](https://techbigs.com/) - Modded
 * [AndroidYolo](https://androidyolo.co/) - Modded
-* [APKMody](https://apkmody.io/) - Modded 
-* [AndroideAvanzado](https://androideavanzado.top/) - Modded 
-* [Apkdone](https://apkdone.com/) - Modded 
+* [APKMody](https://apkmody.io/) - Modded
+* [AndroideAvanzado](https://androideavanzado.top/) - Modded
+* [Apkdone](https://apkdone.com/) - Modded
 * [Host Apk](https://www.hostapk.com/) - Modded
 * [APK Google](https://apkgoogle.org/) - Modded
 * [ytricks](https://www.ytricks.net/) - Modded
@@ -548,8 +549,8 @@
 * [Thinkkers](https://thinkkers.com/) - Modded / [Telegram](https://t.me/thinkkers)
 * [DL King](http://dl.king2net.com/soft%20android/) - Modded
 * [APK Bolt](https://apkbolt.com/) - Modded
-* [ModApk.Cloud](https://modapk.cloud/) - Modded 
-* [Rockmods](https://www.rockmods.net/) - Modded 
+* [ModApk.Cloud](https://modapk.cloud/) - Modded
+* [Rockmods](https://www.rockmods.net/) - Modded
 * [APK Swing](https://apkswing.com/) - Modded
 * [APKLoo](https://apkloo.com/) - Modded
 * [ModsOfApk](https://modsofapk.com/) - Modded
