@@ -151,7 +151,8 @@
 * [How To Use Excel](https://www.how-use-excel.com/) - Excel Tutorial
 * [Vertex42](https://www.vertex42.com/) - Excel Templates
 * [Plain Text Table](https://plaintexttools.github.io/plain-text-table/) - Text Tables
-* [EditCSVOnline](https://www.editcsvonline.com/) - Online CSV Editor 
+* [EditCSVOnline](https://www.editcsvonline.com/) - Online CSV Editor
+* [SubjectiveSort](https://wiesenthal.github.io/SubjectiveSort/) - Create Ranked List from CSV
 * [Read File Online](http://www.readfileonline.com/) - Online Large Text File Viewer
 * [Office Search](http://www.enselsoftware.com/product/OfficeSearch.html) - Multi-File Text Search
 * [PDF Keywords Extractor](https://github.com/bendersej/pdf-keywords-extractor) - PDF File Text Search
@@ -238,9 +239,10 @@
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party Parrot Emojis
 * [Pepe Server Archive](https://github.com/Overimagine1/pepe-server-archive) - Pepe Emojis
-* [taag](http://patorjk.com/software/taag/) - ASCII Text Generator
-* [Text Smileys](https://lenny-face-generator.textsmilies.com/) - Create ASCII Face
-* [ASCII Art Creator](https://github.com/CherryPill/ASCII-art-creator) or [ASCII Today](https://ascii.today/) - ASCII Art Generator
+* [MySmiles](http://mysmilies.com/) or [MazeGuy](https://www.mazeguy.net/smilies.html) - Oldschool Smiley's
+* [ASCII Art Creators / Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ascii_art_creators) - Create and Edit ASCII Art
+* [ascii-art-generator](https://www.ascii-art-generator.org/), [ascii-generator](https://ascii-generator.site/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
+* [Love ASCII](http://loveascii.com/), [16colors](https://16colo.rs/) or [RoySAC](http://www.roysac.com/sitemap.html) - Copy ASCII Art
 * [randSeq](http://www.dave-reed.com/Nifty/randSeq.html) - Random Letter Sequence Generator
 * [JMESPath](https://jmespath.org/) - Query Language for JSON / [Tutorial](https://jmespath.org/tutorial.html)
 * [xeuledoc](https://github.com/Malfrats/xeuledoc) - Fetch Information about Public Google Documents
@@ -649,6 +651,7 @@
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - Remote Job Resources
 * [Side Hustle Stack](https://sidehustlestack.co/) - Find Platform Based Side Work 
 * [web3.career](https://web3.career/) or [FindWeb3](https://findweb3.com/) - Web3 Job Offers
+* [WhoPaysWriters](http://whopayswriters.com/) - Freelance Writing Publications
 * [moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - Company / Startup Applications
 * [Nerdy Grads](https://nerdygrads.com/) - Grad School Research Job Search 
 * [MTurk](https://www.mturk.com/) - Online Task Work
@@ -832,7 +835,8 @@
 * [Email Valid](https://ivit.pro/services/email-valid/) or [Ychecker](https://ychecker.com/) - Check Email Validity & Usage
 * [Useplaintext](https://useplaintext.email/) - How-To Use plaintext Email 
 * [Briskine](https://www.briskine.com/) - Email Templates
-* [Signature Maker](https://signature-maker.net/) - Email Signature Creator 
+* [Signature Maker](https://signature-maker.net/) - Email Signature Creator
+* [InternetBumperStickers](https://www.internetbumperstickers.com/) - Images for Signatures
 * [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers 
 * [Yandex Account Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - Create Infinite Yandex Accounts
 * [Gmail Dot Trick Generator](https://thebot.net/api/gmail/) - Generate Unlimited Gmail Accounts via the Dot Trick
@@ -1203,6 +1207,7 @@
 * [Client-Modding-Guide](https://github.com/saintwithataint/Client-Modding-Guide/blob/main/PimpMyClient.md) - Modify Your Discord Client
 * [ArmCord](https://armcord.smartfridge.space/) - Lightweight Discord Client / [GitHub](https://github.com/ArmCord/ArmCord)
 * [Replugged](https://replugged.dev/) - Lightweight Discord Client
+* [Discordo](https://github.com/ayntgl/discordo) - Discord Terminal Client
 * [Dark-Discord](https://github.com/snappercord/Dark-Discord) - Dark Theme for BetterDiscord & Powercord 
 * [Powerconvert](https://convert.creatable.cafe/) - Convert BetterDiscord themes to Powercord
 * [bdCompat](https://github.com/Juby210/bdCompat) - Use BD Plugins in Powercord
