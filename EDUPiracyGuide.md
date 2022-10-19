@@ -151,6 +151,7 @@
 * [TutsNode](https://tutsnode.com/) - Courses
 * [FreeStudyWeb](https://freestudyweb.com/) - Courses 
 * [Google Drive Links](https://googledrivelinks.com/) - Courses
+* [PrimeTechie Forum](https://primetechieforum.com/) - Courses
 * [CryptoTips](https://www.cryptotips.us/) - Courses 
 * [FCS](https://freecoursesites.com/) - Courses
 * [downloadly](https://downloadly.ir/) - Courses
