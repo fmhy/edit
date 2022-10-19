@@ -83,6 +83,7 @@
 * [NR2003](https://wildkustomcars.weebly.com/) - Modded Nascar 2003
 * [CsWarzOnE](https://www.cswarzone.com/) - Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)
 * [Minetest](https://www.minetest.net/) - F2P Minecraft Alternative
+* [BetaCraft](https://betacraft.uk/) - Minecraft Beta Archive
 * [Unciv](https://github.com/yairm210/Unciv) - Civ V Remake
 * [OpenTTD](https://www.openttd.org/) - Transport Tycoon Remake
 * [OpenNox](https://github.com/noxworld-dev/opennox) - Nox Revival Project
@@ -642,6 +643,7 @@
 * [AllBad.Cards](https://allbad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - Cards Against Humanity Online 
 * [Poker Now](https://www.pokernow.club/), [LiPoker](https://lipoker.io/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
 * [KDice](http://www.kdice.com/) - Multiplayer Dice War
+* [Gpop.io](http://gpop.io/) - Multiplayer Rhythm Game.
 
 ***
 
