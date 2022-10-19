@@ -14,11 +14,11 @@
 ## ▷ Dedicated Hosts
 
 * **[Soap2Day](https://soapgate.org/)** - Movies / TV
-* **[C1NE](https://c1ne.co/)** - Movies / TV
-* **[Ask4movies](https://ask4movie.mx/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
 * **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
+* **[Ask4movies](https://ask4movie.mx/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
 * **[Oligopoly](https://olgply.com/)** - Movies / TV
 * **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
+* **[C1NE](https://c1ne.co/)** - Movies / TV
 * **[Mov.onl](https://www.mov.onl/)** - Movies / TV
 * **[Movies.cf](https://movies.cf/Landing)** - Movies
 * **[FreeTubeSpot](https://www.freetubespot.com/)** - Movies
@@ -107,6 +107,7 @@
 * **[xpWatch](https://xpwatch.vercel.app/)** - Movies / TV / Anime
 * **[HiMovies](https://www3.himovies.to/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)
 * **[Movie-Forum](https://movie-forum.co/forum.php)** - Movies / TV
+* [Goku](https://goku.to/) - Movies / TV / Anime
 * [IceFilms](https://icefilms.tv/) - Movies / TV
 * [AZMovies](https://azms.to/) - Movies
 * [KollaFilm](https://kollafilm.com/) - Movies / TV
@@ -129,7 +130,7 @@
 * [WatchSeriesHD](https://www4.watchserieshd.tv/) - Movies / TV / Anime 
 * [Vmovee](https://www.vmovee.watch/) - Movies / TV
 * [StreamMovie](https://streammovie.top/) - Movies / TV
-* [Goku](https://goku.to/) - Movies / TV / Anime
+* [HDPlex](https://hdplex.xyz/) - Movies / TV / [Discord](https://discord.gg/NnnZXFmQUg)
 * [Filmxy](https://www.filmxy.pw/) - Movies
 * [MoviesLair](https://movielair.cc/) - Movies / TV
 * [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime
@@ -392,7 +393,7 @@
 * [tenshi.moe](https://tenshi.moe/) - Sub / Dub
 * [AnimeGuru](https://www.animeguru.net/) - Sub / Dub
 * [AnimeEpisodes](https://ww6.animesepisodes.com/) - Sub / Dub
-* [AnimeFrenzy](https://animefrenzy.org/) - Sub 
+* [AnimeFrenzy](https://animefrenzy.vip/) - Sub 
 * [Crimsonfansubs](https://crimsonfansubs.com/) - Sub
 * [AnimeXin](https://animexin.info/) - Sub
 * [AniWatcher](https://aniwatcher.com/) - Sub / Dub
