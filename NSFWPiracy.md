@@ -2,8 +2,8 @@
 
 ## Site Lists
 
-* [**PornDude**](https://theporndude.com/) / [More Sites](https://theporndude.com/hall-of-fame)
-* **[NSFW Subreddits](http://redditlist.com/nsfw)**, [2](https://www.reddit.com/r/NSFW411/wiki/index), [3](https://frontpagemetrics.com/top-nsfw-subreddits), [4](https://redd.it/brypgf), [5](https://theporndude.com/best-nsfw-reddit-sites), [6](http://electronsoup.net/nsfw_subreddits/) / [Reverse Search](https://www.rarchives.com/)
+* ⭐ **[PornDude](https://theporndude.com/)** / [More Sites](https://theporndude.com/hall-of-fame)
+* ⭐ **[NSFW Subreddits](http://redditlist.com/nsfw)**, [2](https://www.reddit.com/r/NSFW411/wiki/index), [3](https://frontpagemetrics.com/top-nsfw-subreddits), [4](https://redd.it/brypgf), [5](https://theporndude.com/best-nsfw-reddit-sites), [6](http://electronsoup.net/nsfw_subreddits/) / [Reverse Search](https://www.rarchives.com/)
 * [Reddit Doesn't Like This Site](https://www.reddit-doesnt-like-this.site/2021/01/01/list-of-full-length-porn-tube-websites/)
 * [One Porn List](https://onepornlist.com/)
 * [BigPornList](http://bigpornlist.net/)
@@ -116,7 +116,7 @@
 
 ## Download 
 
-* **[FapNationBot](https://discord.gg/MxyvAV22cE)** - Premium Porn Download Bot
+* ⭐ **[FapNationBot](https://discord.gg/MxyvAV22cE)** - Premium Porn Download Bot
 * [Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "nsfw"
 * [PornFactors](http://pornfactors.com/) 
 * [Best-MovieZ](https://www.best-moviez.ws/category/porn-18/) 
@@ -152,7 +152,7 @@
 
 ## Torrent
 
-* **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - ctrl+f and type "nsfw"
+* ⭐ **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - ctrl+f and type "nsfw"
 * [PornLeech](http://pornleech.ch/)
 * [Sexy-Pics](https://www.sexy-pics.us/)
 * [色花堂-98堂](https://www.sehuatang.net/)
@@ -190,11 +190,11 @@
 
 # NSFW Movies
 
-* [**NSFW Movie Site Search**](https://cse.google.com/cse?cx=006516753008110874046:3-svpblbro8)
-* [**Film1k**](https://www.film1k.com/)
-* [**RareLust**](https://rarelust.com/movies-index/)
-* [**Eroti.ga**](https://eroti.ga/)
-* **[My Duck Is Dead](http://www.myduckisdead.org/)**
+* ⭐ **[NSFW Movie Site Search](https://cse.google.com/cse?cx=006516753008110874046:3-svpblbro8)**
+* ⭐ **[Film1k](https://www.film1k.com/)**
+* ⭐ **[RareLust](https://rarelust.com/movies-index/)**
+* ⭐ **[Eroti.ga](https://eroti.ga/)**
+* ⭐ **[My Duck Is Dead](http://www.myduckisdead.org/)**
 * [WIPFilms](https://wipfilms.net/)
 * [EroticMovies](https://eroticmovies.xyz/)
 * [EroGarga](https://www.erogarga.com/) 
@@ -227,7 +227,7 @@
 
 # Hentai
 
-* **[/r/animepiracy Index](https://piracy.moe/)** - Hentai Sites List
+* ⭐ **[/r/animepiracy Index](https://piracy.moe/)** - Hentai Sites List
 * [Best Hentai Sites](https://besthentaisites.github.io/) - Hentai Site List
 * [PornDude Hentai](https://theporndude.com/hentai-streaming-sites) - Heintai Sites List
 * [Hentai Manga Sites](https://theporndude.com/hentai-manga-sites) - Hentai Sites List
@@ -292,7 +292,7 @@
 
 # Tools
 
-* **[Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button)** - Quickly Close All Tabs
+* ⭐ **[Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button)** - Quickly Close All Tabs
 * [Internet Adult Film Database](https://www.iafd.com/) - Adult Film Database / Reviews
 * [Porn-Vault](https://github.com/porn-vault/porn-vault), [Fapflix2.0](https://github.com/EinAeffchen/Fapflix2.0), [StashApp](https://stashapp.cc/) or [Stash](https://github.com/stashapp/stash) - Porn File Manager
 * [UploadingPorn](https://uploadingporn.com/) - NSFW File Host
@@ -323,6 +323,6 @@
 
 # Gay Porn
 
-* **[MyGaySites](https://mygaysites.com/)** - List of Gay Porn Sites
+* ⭐ **[MyGaySites](https://mygaysites.com/)** - List of Gay Porn Sites
 * [Gay-Hotfile](https://gay-hotfile.errio.net/) - Downloads
 * [Yupdates](https://yupdates.neocities.org/) - Gay Porn Artwork / [Drives](https://cat.yupdates.art/) / [Discord](https://discord.com/invite/ECFKuBawQg)
