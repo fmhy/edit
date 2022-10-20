@@ -11,12 +11,12 @@
 
 # ► Learning / Cheat Sheets
 
-* **[StackOverflow](https://stackoverflow.com/)**, [StackAnon](https://stackanon.com/), [DecodingDevOps](https://www.decodingdevops.com/) or [Stack Roboflow](https://stackroboflow.com/) - Developer Q&A
-* **[The Odin Project](https://www.theodinproject.com/)** - Web Dev Tutorials / Courses
-* **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Courses / Infinite trial by clearing cookies & making new account
-* **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive [Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_freecodechamp_archive) / [GitHub](https://github.com/freeCodeCamp/freeCodeCamp)
-*  **[Free Courses by Xemu](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_free_courses_by_xemu)** or [Programming Course Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_programming_course_drives) - Programming Course Drives
-* **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - Read / Download Programming Books
+* ⭐ **[StackOverflow](https://stackoverflow.com/)**, [StackAnon](https://stackanon.com/), [DecodingDevOps](https://www.decodingdevops.com/) or [Stack Roboflow](https://stackroboflow.com/) - Developer Q&A
+* ⭐ **[The Odin Project](https://www.theodinproject.com/)** - Web Dev Tutorials / Courses
+* ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Courses / [Infinite Trial](https://pastebin.com/aJ4v55ae)
+* ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive [Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_freecodechamp_archive) / [GitHub](https://github.com/freeCodeCamp/freeCodeCamp)
+*  ⭐ **[Free Courses by Xemu](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_free_courses_by_xemu)** or [Programming Course Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_programming_course_drives) - Programming Course Drives
+* ⭐ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - Read / Download Programming Books
 * [Git Tutorial](https://4geeksacademy.github.io/git-interactive-tutorial/) - Interactive Git Tutorial
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - Git Learning Game
 * [Git-it](https://github.com/jlord/git-it-electron) - Git Desktop Learning App
@@ -213,8 +213,8 @@
 
 # ► Developer Tools
 
-* **[Developer Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_developer_tools)** - Dev Tool Sites
-* **[List.community](https://list.community/)** - Programming / Development GitHub Lists 
+* ⭐ **[Developer Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_developer_tools)** - Dev Tool Sites
+* ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists 
 * [DevToys](https://github.com/ObuchiYuki/DevToysMac) or [DevUtils](https://devutils.app/) - Mac Dev Tools
 * [Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources) - Design Resource Sites
 * [Image Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools) - Image & Graphic Design Tools
@@ -295,7 +295,7 @@
 * [Cumcord](https://cumcord.com/) - Discord Developer Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)
 * [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - Integrate Services with Discord
 * [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - Discord Code Blocks
-* **[discord.py](https://github.com/Rapptz/discord.py)**, [Kord](https://github.com/kordlib/kord), [Discord4J](https://discord4j.com/), [enhanced-discord.py](https://github.com/iDevision/enhanced-discord.py) - Discord API Wrapper
+* [discord.py](https://github.com/Rapptz/discord.py), [Kord](https://github.com/kordlib/kord), [Discord4J](https://discord4j.com/), [enhanced-discord.py](https://github.com/iDevision/enhanced-discord.py) - Discord API Wrapper
 * [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - Community Libraries for Discord API
 * [Discord-panel](https://github.com/Notavone/discord-panel) - Discord Bot Server Manager
 * [Javacord](https://javacord.org/) - Discord Bot Creation Library
@@ -336,8 +336,8 @@
 
 ## ▷ Site Development 
 
-* **[Website Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_creators)** - Design & Create Websites
-* **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
+* ⭐ **[Website Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_creators)** - Design & Create Websites
+* ⭐ **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
 * [ZeroNet](https://zeronet.io/) or [Federalist](https://github.com/publiusfederalist/federalist) - Uncensorable Sites / [/r/Zeronet](https://www.reddit.com/r/zeronet/)
 * [Awesome Static Generators](https://github.com/myles/awesome-static-generators) - Static Site Resources
 * [Freenet Project](https://freenetproject.org/) - Browse / Publish Freenet Sites
@@ -652,7 +652,7 @@ Automated Incident Response and Forensics Framework
 
 ## ▷ App Development
 
-* **[Tizen](https://www.tizen.org/)** - Android TV App Creator
+* ⭐ **[Tizen](https://www.tizen.org/)** - Android TV App Creator
 * [Heroku-Alt](https://rentry.co/Heroku-Alt) - Heroku Alternatives
 * [SupaBase](https://supabase.com/), [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Dokku](https://dokku.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter), [2](https://github.com/leanflutter/awesome-flutter-desktop) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators
 * [XDA](https://forum.xda-developers.com/) - App Development Forum
@@ -863,7 +863,7 @@ Automated Incident Response and Forensics Framework
 
 ## ▷ Git Tools
 
-* **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [awesome-lis](https://github.com/topics/awesome-list) or [awesome-github](https://github.com/fffaraz/awesome-github) - List Indexes
+* ⭐ **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [awesome-lis](https://github.com/topics/awesome-list) or [awesome-github](https://github.com/fffaraz/awesome-github) - List Indexes
 * [GitLab](https://about.gitlab.com/), [FSFE](https://git.fsfe.org/) or [NotABug](https://notabug.org/) - GitHub Alternatives
 * [GitHubStatus](https://www.githubstatus.com/) - GitHub Outage Status
 * [Git Explorer](https://gitexplorer.com/), [WTG](https://wtg.nezia.xyz/) or [Git Commands](https://gabrieldejesus.github.io/git-commands/), [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists / Search
@@ -960,7 +960,7 @@ Automated Incident Response and Forensics Framework
 
 ## ▷ Color Schemes
 
-* **[Color Palette Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_palette_generators)** - Generate Color Palettes
+* ⭐ **[Color Palette Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_palette_generators)** - Generate Color Palettes
 * [SpyColor](https://www.spycolor.com/) - Color Model Conversions
 * [Colorful](https://github.com/Siddharth11/Colorful) - Curated List of Color Scheme Resources 
 * [ColorsAndFonts](https://www.colorsandfonts.com/) - Quickly Copy Colors & Typography Combinations 
@@ -981,8 +981,8 @@ Automated Incident Response and Forensics Framework
 
 # ► Programming / Coding 
 
-* **[Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_code_editors)** - Code Editing Apps & Sites
-* **[List.community](https://list.community/)** - Programming / Development GitHub Lists 
+* ⭐ **[Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_code_editors)** - Code Editing Apps & Sites
+* ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists 
 * [WebdevHome](https://webdevhome.github.io/), [Charm](https://charm.sh/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - Programming Tool Indexes
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Programming Site Index 
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Web Scraping Tool Index
@@ -1185,8 +1185,8 @@ Automated Incident Response and Forensics Framework
 
 ## ▷ Cloud IDEs / Collab
 
-* **[goormIDE](https://ide.goorm.io/)**, [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [Deta](https://www.deta.sh/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [FireMonkeyX](http://www.firemonkeyx.com/) or [Glitch](https://glitch.com/) / [GitHub](https://github.com/m3o/m3o) - Cloud IDE
-* **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - Cloud IDE / VSCode 
+* ⭐ **[goormIDE](https://ide.goorm.io/)**, [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [Deta](https://www.deta.sh/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [FireMonkeyX](http://www.firemonkeyx.com/) or [Glitch](https://glitch.com/) / [GitHub](https://github.com/m3o/m3o) - Cloud IDE
+* ⭐ **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - Cloud IDE / VSCode 
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
 * [colab alive](https://github.com/sobuj53/colabAlive) - Keep Colab Open
 * [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - Cloud Platform Index
@@ -1210,7 +1210,7 @@ Automated Incident Response and Forensics Framework
 
 ## ▷ IDEs / Code Editors
 
-* **[VSCodium](https://vscodium.com/)** - Code Editor  
-* **[VS Code Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vscode_tools)** - Tools & Themes for VS Code
+* ⭐ **[VSCodium](https://vscodium.com/)** - Code Editor  
+* ⭐ **[VS Code Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vscode_tools)** - Tools & Themes for VS Code
 * [Apache NetBeans](https://netbeans.apache.org/) - Cross Platform IDE  
 * [KDevelop](https://www.kdevelop.org/) - Cross Platform IDE
