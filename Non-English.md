@@ -439,8 +439,8 @@
 
 # ► German
 
-* **[Tarnkappe](https://forum.tarnkappe.info/)** - Piracy Discussion + [Telegram](https://t.me/Tarnkappe_info)
-* **[Awesome German Piracy](https://github.com/SeppPenner/awesome-german-piracy)** - German / Piracy Site Index
+* ⭐ **[Tarnkappe](https://forum.tarnkappe.info/)** - Piracy Discussion + [Telegram](https://t.me/Tarnkappe_info)
+* ⭐ **[Awesome German Piracy](https://github.com/SeppPenner/awesome-german-piracy)** - German / Piracy Site Index
 * [RR.Topliste](https://toplist.raidrush.ws/) - Piracy Site List 
 * [xrel](https://www.xrel.to/) - Scene Release & P2P Tracker 
 * [Boerse](https://boerse.am/) - German Data Sharing Discussion Forum
@@ -731,7 +731,7 @@
 
 # ► Italian
 
-* **[Italian Piracy Sites](https://rentry.co/ItalianPiracySites)** - Italian Piracy Site List
+* ⭐ **[Italian Piracy Sites](https://rentry.co/ItalianPiracySites)** - Italian Piracy Site List
 
 ## ▷ Downloading 
 
@@ -969,7 +969,7 @@
 
 ## ▷ Downloading
 
-* **[downloadha](https://www.downloadha.com/)** - Video / Audio / Software / Games / Android
+* ⭐ **[downloadha](https://www.downloadha.com/)** - Video / Audio / Software / Games / Android
 * [TelFiles_Bot](https://t.me/TelFiles_Bot) - Persian File to Direct Link Telegram Bot
 * [soft98](https://soft98.ir/) - Software / Courses / eBooks
 * [Persian Telegram Courses](https://rentry.co/sn66v)
@@ -1112,8 +1112,8 @@
 
 # ► Portuguese 
 
-* **[Guia de Pirataria para Iniciantes](https://rentry.org/PiracyBG-PTBR)** - Portuguese Beginners Guide to Piracy
-* **[Portuguese Piracy Sites](https://rentry.org/PortuguesePiracySites)** - Portuguese Piracy Sites
+* ⭐ **[Guia de Pirataria para Iniciantes](https://rentry.org/PiracyBG-PTBR)** - Portuguese Beginners Guide to Piracy
+* ⭐ **[Portuguese Piracy Sites](https://rentry.org/PortuguesePiracySites)** - Portuguese Piracy Sites
 * [Invetexto](https://www.invertexto.com/) - Multiple Online Tools
 * [LegendaOfficial](http://legendaoficial.net/), [LegendasDivx](https://www.legendasdivx.pt/), [Legendas.tv](http://legendas.tv/), [Legendas](https://legendas.co/), [Legendei](https://legendei.to/), [Legendas.dev](https://legendas.dev/) or [Leganda-Zone](https://www.legendas-zone.org/) - Subtitles 
 * [legendasbrasil](https://legendasbrasil.org/) - Subtitle Search App
@@ -1389,8 +1389,8 @@
 
 # ► Russian
 
-* **[Russian Internet Blackout Bypass Guide](https://telegra.ph/CHto-delat-pri-otklyuchenii-interneta-02-27), [2](https://www.the-village.ru/situation/howto/otklyuchenie-interneta)**
-* **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_legal_talk](https://t.me/rks_legal_talk) / [rks_org_Bot](https://t.me/rks_org_bot) / [rks_tech_talk](https://t.me/rks_tech_talk) - Piracy Discussion Telegram
+* ⭐ **[Russian Internet Blackout Bypass Guide](https://telegra.ph/CHto-delat-pri-otklyuchenii-interneta-02-27), [2](https://www.the-village.ru/situation/howto/otklyuchenie-interneta)**
+* ⭐ **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_legal_talk](https://t.me/rks_legal_talk) / [rks_org_Bot](https://t.me/rks_org_bot) / [rks_tech_talk](https://t.me/rks_tech_talk) - Piracy Discussion Telegram
 * [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser) - Internet Censorship Circumvention
 * [new-russia-keyboard-flag](https://github.com/ManeFunction/new-russia-keyboard-flag) - JZUKEN Keyboard Layout for macOS
 * [DXP](https://dxp.ru/) - Torrent / Subtitles
@@ -1449,7 +1449,7 @@
 
 ## ▷ Torrenting
 
-* **[RuTracker](https://rutracker.nl/)**, [2](http://rutracker.org), [3](https://rutracker.net/) - Video / Audio / Games / Software / Android / Comics / Magazines
+* ⭐ **[RuTracker](https://rutracker.nl/)**, [2](http://rutracker.org), [3](https://rutracker.net/) - Video / Audio / Games / Software / Android / Comics / Magazines
 * [toptracker](https://toptracker.ru/) - Torrent Site List
 * [UpTracker](https://www.uptracker.ru/) - Torrent Tracker Index
 * [krasfs](https://krasfs.ru/) - Torrent Search 
@@ -1559,9 +1559,9 @@
 
 ## ▷ Reading
 
-* **[CyberLeninka](https://cyberleninka.ru/)** - Articles / Educational / Scientific / Legal  
-* **[Lib.ru](http://lib.ru/)** - Books
-* **[Flibusta](https://flibusta.is/)** - Books / [Onion](http://flibustahezeous3.onion/) / [I2P](http://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) / Requires account
+* ⭐ **[CyberLeninka](https://cyberleninka.ru/)** - Articles / Educational / Scientific / Legal  
+* ⭐ **[Lib.ru](http://lib.ru/)** - Books
+* ⭐ **[Flibusta](https://flibusta.is/)** - Books / [Onion](http://flibustahezeous3.onion/) / [I2P](http://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) / Requires account
 * [VK Book DL Pages](https://redd.it/kne0ba) 
 * [LoveRead.ec](http://loveread.ec/) - Books / NSFW
 * [Twirpx](https://www.twirpx.com/) - Books / Educational 
@@ -1604,7 +1604,7 @@
 
 # ► Spanish
 
-* **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - Telegram Channel Index
+* ⭐ **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - Telegram Channel Index
 * [jogos10](http://www.jogos10.com/) or [Minijuegos](https://www.minijuegos.com/) - Browser Games
 * [Emudesc](https://www.emudesc.com/) - Gaming Forum
 * [EmojiTool](https://emojitool.com/) - Emoji Database
@@ -2060,8 +2060,8 @@
 
 # ► Multi Indian Languages
 
-* **[SkyMoviesHD](https://skymovieshd.news/)** - Movies / TV
-* **[Einthusan](https://einthusan.tv/)** - Streaming / Movies / Music
+* ⭐ **[SkyMoviesHD](https://skymovieshd.news/)** - Movies / TV
+* ⭐ **[Einthusan](https://einthusan.tv/)** - Streaming / Movies / Music
 * [Indian Piracy Index](https://github.com/anymeofu/Indian-Piracy-Index) - Piracy Site / Tool Index
 * [JioTV](https://github.com/avipatilpro/JioTV) - Live TV Streaming Script 
 * [0GoMovies](https://0gomovies.st/) - Streaming / Movies / TV
