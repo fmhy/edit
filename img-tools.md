@@ -11,10 +11,10 @@
 
 # ► Image Editing
 
-* **[Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_editing)** - Image Editing Software & Sites
-* **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_gfx_design_software)** - Download GFX Design Software
-* **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/), [4](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_design_tool_zip) - Design Tool Resource Indexes   
-* **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [GlitchyImage](https://glitchyimage.com/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - Glitch Images
+* ⭐ **[Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_editing)** - Image Editing Software & Sites
+* ⭐ **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_gfx_design_software)** - Download GFX Design Software
+* ⭐ **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [3](https://pilssken.neocities.org/gainz/), [4](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_design_tool_zip) - Design Tool Resource Indexes   
+* ⭐ **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [GlitchyImage](https://glitchyimage.com/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - Glitch Images
 * [Crayon](https://designstripe.com/crayon) - Animate SVGs
 * [Glaxnimate](https://glaxnimate.mattbas.org/) - Animate Vectors
 * [Graphic Design Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_graphic_design_tools) - Online Graphic Design Tools 
@@ -112,7 +112,7 @@
 
 # ► Image Generation
 
-* **[AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ai_image_generators)** - Generate Images with AI
+* ⭐ **[AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ai_image_generators)** - Generate Images with AI
 * [hypnogram](https://hypnogram.xyz/), [AI Art Generator](https://neural.love/ai-art-generator), [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent) or [NeuralBlender](https://neuralblender.com/) - AI Art Generators
 * [Random Art](http://www.random-art.org/) - Random Art Generator
 * [Chaos Machine](https://chaosmach.com/) - Random Graphic Generator
@@ -208,7 +208,7 @@
 
 ## ▷ GIF Tools
 
-* **[Awesome GIF](https://github.com/davisonio/awesome-gif)** - GIF Resource Index
+* ⭐ **[Awesome GIF](https://github.com/davisonio/awesome-gif)** - GIF Resource Index
 * [Giphy](https://giphy.com/), [gfycat](https://gfycat.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://www.gifcities.org/), [LottieFiles](https://lottiefiles.com/), [reactiongifs](https://www.reactiongifs.us/), [reactiongifs](https://reactiongifs.me/), [gif-finder](https://gif-finder.com/), [reactiongifs](http://www.reactiongifs.com/), [bestanimations](https://bestanimations.com/), [Animations](https://bleuje.github.io/animationsite/), [GIFBin](https://www.gifbin.com/), [ForGIFs](http://forgifs.com/), [gifimage](https://gifimage.net/) or [Animated Images](https://www.animatedimages.org/) - View / Download GIFs 
 * [/r/HighQualityAnimeGifs](https://www.reddit.com/r/HighQualityAnimeGifs/) or [/r/animegifs](https://www.reddit.com/r/animegifs/) -  View / Download Anime GIFs 
 * [Glittereyez](http://ge.silentears.net/) - Glitter GIFs
@@ -281,7 +281,7 @@
 
 ## ▷ Pixel Art
 
-* **[Awesome Pixel Art](https://github.com/Siilwyn/awesome-pixel-art)** - Pixel Art Resource Index 
+* ⭐ **[Awesome Pixel Art](https://github.com/Siilwyn/awesome-pixel-art)** - Pixel Art Resource Index 
 * [Pedro's Pixel Art Tutorials](https://blog.studiominiboss.com/pixelart) or [SLYNYRD](https://www.slynyrd.com/gallery-animated) - Pixel Art Tutorials 
 * [Piskel](https://www.piskelapp.com/), [rx](https://rx.cloudhead.io/), [Pixelated](https://pixelated.vercel.app/), [PaintWith](https://paintwith.webflow.io/), [Aseprite](https://dacap.itch.io/aseprite), [PixelCraft](https://pixelcraft.web.app/) / [GitHub](https://github.com/rgab1508/PixelCraft), [Kleki](https://kleki.com/) or [PixilArt](https://www.pixilart.com/draw) - Pixel Art Editor
 * [Strike](https://amorphous.itch.io/strike) - 1-Bit Pixel Art Editor
@@ -303,11 +303,11 @@
 
 # ► Download Images
 
-* **[Image Download Site Index](https://start.me/p/jj0JAp/designer)** - Download Images, Illustrations, Icons & more
-* **[Lexica](https://lexica.art/)**, [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) or [Krea](https://www.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
-* **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_photo_sites)** - Download Stock Photos / Vectors / Illustrations
-* **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)** - Download Icons
-* **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)** - Search by Image
+* ⭐ **[Image Download Site Index](https://start.me/p/jj0JAp/designer)** - Download Images, Illustrations, Icons & more
+* ⭐ **[Lexica](https://lexica.art/)**, [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) or [Krea](https://www.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
+* ⭐ **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_photo_sites)** - Download Stock Photos / Vectors / Illustrations
+* ⭐ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)** - Download Icons
+* ⭐ **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)** - Search by Image
 * [GFX Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources) - Graphic Design Resources
 * [Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)
 * [RipMe](https://github.com/RipMeApp/ripme), [ImgDownloader](https://imgdownloader.com/), [gallery-dl](https://github.com/mikf/gallery-dl), [SCrawler](https://github.com/AAndyProgram/SCrawler) or [Image Extractor](https://extract.pics/) - Image Download Tools
@@ -407,7 +407,7 @@
 
 # ► Image Tools
 
-* **[Multi-Tool Image Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_image_tool_sites)** - Multiple Image Tools
+* ⭐ **[Multi-Tool Image Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_image_tool_sites)** - Multiple Image Tools
 * [Awesome Colab nNotebooks]( https://github.com/amrzv/awesome-colab-notebooks) - Image Colab Tools
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
@@ -449,8 +449,8 @@
 
 ## ▷  Hosting / Viewing 
 
-* **[Image Hosting / Processing Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosting_.2F_processing)** - Host / Process Images
-* **[Image Viewers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_viewers)** - Image Viewing Programs
+* ⭐ **[Image Hosting / Processing Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosting_.2F_processing)** - Host / Process Images
+* ⭐ **[Image Viewers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_viewers)** - Image Viewing Programs
 * [Piwigo](https://piwigo.org/) or [Photonix](https://photonix.org/) - Photo Manager / Viewer
 * [PiGallery2](https://bpatrik.github.io/pigallery2/) - Self-Hosted Image Gallery
 * [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
@@ -469,8 +469,8 @@
 
 ## ▷ Screenshot Tools
 
-* **[ShareX](https://getsharex.com/)** 
-* **ShareX Tools** - [Free Host](https://upload.systems/en-US), [2](https://encrypting.host/), [3](https://sxcu.net/), [4](https://www.sharexhosting.com/) / [Self-Host](https://github.com/tycrek/ass), [SXIE Archive](https://mega.nz/folder/1goUgJBZ#XaqM3dm5nY40luhtoxyzWg) / [Android Upload](https://github.com/tsudoko/xshare)
+* ⭐ **[ShareX](https://getsharex.com/)** 
+* ⭐ **ShareX Tools** - [Free Host](https://upload.systems/en-US), [2](https://encrypting.host/), [3](https://sxcu.net/), [4](https://www.sharexhosting.com/) / [Self-Host](https://github.com/tycrek/ass), [SXIE Archive](https://mega.nz/folder/1goUgJBZ#XaqM3dm5nY40luhtoxyzWg) / [Android Upload](https://github.com/tsudoko/xshare)
 * [Flameshot](https://flameshot.org/)
 * Flameshot Tools - [GitHub](https://github.com/flameshot-org/flameshot) / [Imgur Upload](https://slproweb.com/products/Win32OpenSSL.html)
 * [Greenshot](https://getgreenshot.org/)
@@ -506,7 +506,7 @@
 
 ## ▷ Instagram Tools
 
-* **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)** or [InstaFollowers](https://www.instafollowers.co/instagram-tools) - Multiple Tools 
+* ⭐ **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)** or [InstaFollowers](https://www.instafollowers.co/instagram-tools) - Multiple Tools 
 * [GridsApp](https://gridsapp.net/) - Desktop Client
 * [InstaKiller](https://github.com/InstaKiller/InstaKiller) - Instagram CLI
 * [AeroInsta](https://aeroinsta.com/), [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - Modded Android App
