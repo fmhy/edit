@@ -942,7 +942,7 @@
 
 ## ▷ Search Tools
 
-* ⭐ **[Alternative Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_search_engines)**, **[Privacy Focused Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**, [Fagan Finder](https://www.faganfinder.com/), [DirectSearch.Net](http://www.directsearch.net/),[Search Engine Colossus](https://www.searchenginecolossus.com/) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Directories
+* ⭐ **[Alternative Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_search_engines)**, **[Privacy Focused Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**, [Fagan Finder](https://www.faganfinder.com/), [DirectSearch.Net](http://www.directsearch.net/), [Search Engine Colossus](https://www.searchenginecolossus.com/) or [Search-Engine](https://start.me/p/wM7y15/search-engine) - Search Engine Directories
 * ⭐ **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)**, [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) or [awesome-custom-search-engines](https://github.com/davzoku/awesome-custom-search-engines) - Custom Search Engine Directories
 * ⭐ **[Lets Search!](https://letssearch.org/)** - Advanced Search Engine
 * [100 Search Engines](https://www.100searchengines.com/) - Search With 100 Search Engines
