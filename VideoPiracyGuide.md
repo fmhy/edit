@@ -848,6 +848,8 @@
 * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming App
 * ⭐ **Stremio Tools** - [Addons](https://github.com/danamag/stremio-addons-list/blob/main/README.md) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg) / [IPTV](https://2ecbbd610840-stremio-iptv.baby-beamup.club/) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/)
 * ⭐ **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents / [Heroku](https://github.com/l3v11/Jackett-heroku)
+* ⭐ **[Radarr](https://radarr.video/)** - Autodownload Movie Torrents / [GitHub](https://github.com/Radarr/Radarr)
+* ⭐ **[Sonarr](https://sonarr.tv/)** / [GitHub](https://github.com/Sonarr/Sonarr), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - Autodownload TV Torrents / [Guide](https://wiki.servarr.com/)
 * [Powder](https://powder.media/) - Torrent Streaming App
 * [Filminator](http://filminator.net/) - Torrent Streaming App
 * [Ace Stream](https://acestream.org/) - Torrent Streaming App
@@ -855,8 +857,6 @@
 * [NotFlix](https://github.com/Bugswriter/notflix) - Torrent Streaming Script
 * [Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) - Stream Torrents via Clients
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
-* [Radarr](https://radarr.video/) - Movie Torrent Autodownload / [GitHub](https://github.com/Radarr/Radarr)
-* [Sonarr](https://sonarr.tv/) / [GitHub](https://github.com/Sonarr/Sonarr), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - TV Torrent Autodownload / [Guide](https://wiki.servarr.com/)
 * [Bobarr](https://github.com/iam4x/bobarr) or [Nefarious](https://github.com/lardbit/nefarious) - Movie / TV autodownload / [Discord](https://discord.gg/PFwM4zk)
 * [SickChill](https://sickchill.github.io/) / [GitHub](https://github.com/SickChill/SickChill) or [CouchPotato](https://couchpota.to/) - Automatic Torrent / NZB Searching, Downloading & Processing
 * [Autodownload Tools](https://redd.it/hbwnb2) - All Autodownload Tools
