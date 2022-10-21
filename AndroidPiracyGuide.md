@@ -465,7 +465,6 @@
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Modded / [App](https://forum.mobilism.org/app/)
 * ⭐ **[FileCR](https://filecr.com/android/)** - Modded
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)**
-* ⭐ **[ModdedCentral](https://t.me/ModdedCentral)** or [ModdedPrivate](https://t.me/ModdedPrivate) - Modded / Telegram
 * ⭐ **[APKMirror](https://www.apkmirror.com/)** - Untouched / [Playstore Links](https://pastebin.com/TcsAJib6)
 * ⭐ **[Lucky Patcher](https://www.luckypatchers.com/download/)** - Remove Ads / Free In App Purchases / App Patcher / [Guide](https://flixbox.github.io/lp-compat/docs/intro), [2](https://latestechnews.com/how-to-use-lucky-patcher/) / [Compatibility](https://flixbox.github.io/lp-compat/) / [Subreddit](https://www.reddit.com/r/luckypatcher/) / [Discord](https://discord.com/invite/RS5ddYf7mw)
 * ⭐ **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - Repositories Index
@@ -507,7 +506,6 @@
 * [APK Fab](https://apkfab.com/) - Untouched
 * [APKCafe](https://apk.cafe/) - Untouched
 * [Dreamsroom](https://dreamsroom.applinzi.com/) - Untouched
-* [Android APK](https://android-apk.org/) - Untouched / Modded
 * [APKSum](https://www.apksum.com/) - Untouched / Modded
 * [A2Z APK](https://a2zapk.com/) - Untouched / Modded
 * [RevDl](https://www.revdl.com/) - Modded
