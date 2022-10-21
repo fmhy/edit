@@ -181,7 +181,8 @@
 * ⭐ **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)** - Anonymous Text Verification
 * ⭐ **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support 
 * ⭐ **[Authy](https://authy.com/)** or [WinAuth](https://winauth.github.io/winauth/) - Two-Factor Authentication 
-* ⭐ **[Password Strength Chart](https://i.imgur.com/KSISOPN.png)** 
+* ⭐ **[Password Strength Chart](https://i.imgur.com/KSISOPN.png)**
+* ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
 * [PaP](https://trypap.com/) or [How Secure Is My Password?](https://howsecureismypassword.net/) - Password Strength Check
 * [StrongPasswordGenerator](https://strongpasswordgenerator.com/), [PassSnip](https://passnip.com/), [ExpressVPN PW Generator](https://www.expressvpn.com/password-generator), [MOAC](https://sr.ht/~seirdy/MOAC/), [Clover](https://cloverleaf.app), [passwrd](https://passwrd.in/#/) or [Bitwarden PW Generator](https://bitwarden.com/password-generator/) - Password Generators
 * [Authenticator](https://authenticator.cc/) - Generate Two-Factor QR Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)
@@ -224,7 +225,6 @@
 * [Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_drive_formatting_.2F_file_deletion) - Wipe / Overwrite Hard Drive Data 
 * [VeraCrypt](https://www.veracrypt.fr/en/Home.html) or [CryptSetup](https://gitlab.com/cryptsetup/cryptsetup) - Disk Encryption Software
 * [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition 
-* [Cryptomator](https://cryptomator.org/), [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
 * [Wormhole](https://wormhole.app/), [Vualt.ooo](https://vault.ooo/), [Skytransfer](https://skytransfer.hns.siasky.net) or [upload-vaa](https://upload.vaa.red/) - Encrypted File Hosts 
 * [boom.fyi](https://www.boom.fyi/) - Temporary File Host
