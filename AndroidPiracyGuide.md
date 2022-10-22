@@ -678,7 +678,7 @@
 
 # ► Android Reading
 
-* ⭐ **[Mobilism](https://forum.mobilism.me/viewtopic.php?f=1090&t=214777)** - Modded / [App](https://forum.mobilism.org/app/)
+* ⭐ **[Mobilism](https://forum.mobilism.org/app/)** - Modded
 * ⭐ **[Librera](http://librera.mobi/)**  - Ebook Reader
 * ⭐ **[Tachiyomi](https://tachiyomi.org/)** - Manga / Comic Reader
 * ⭐ **Tachiyomi Tools** - [Github Releases](https://github.com/tachiyomiorg/tachiyomi) / [Forks](https://tachiyomi.org/forks/#forks) / [Discord](https://discord.com/invite/tachiyomi) / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/)
