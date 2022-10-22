@@ -823,7 +823,7 @@
 * [Bouncy](https://github.com/WeeklyProblem/Bouncy) - Movies / TV / Anime / Chromecast
 * [IsraTV](https://isratv.netlify.app/) - Movies / TV / Live TV
 * [MediaBox HD](https://mediaboxhd.net/) - Movies / TV / Chromecast
-* [Modded Hotstar](https://t.me/shooterOfficial1/38308) - Movies / TV
+* [Modded Hotstar](https://apkmody.io/apps/hotstar) - Movies / TV
 * WiWiCenter - [Movies / TV](https://cinema.wiwicenter.com/) / [Anime](https://anime.wiwicenter.com/) - Use Adblocker
 * [Upflix](https://www.upflix.net/) - Movies / TV
 * [Titanium TV](https://aapks.com/apk/titanium-tv-com-wise-tech-titanium/) - Movies / TV / Anime / Chromecast
