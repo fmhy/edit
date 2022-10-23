@@ -444,13 +444,14 @@
 * [WiiU Exploit](https://wiiuexploit.xyz/) or [ModMii](https://modmii.github.io/) - WiiU Homebrew Installer
 * [Switch Homebrew Discord Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_homebrew_discord_servers)
 * [Homebrew Gang](https://thehbg.shop/main.html) - Switch Homebrew Community
+* [Nintendo Homebrew](https://discord.com/invite/C29hYvh) - 3DS / Switch Homebrew Community
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - Switch Homebrew Subreddit
 * [Switch Guide](https://nh-server.github.io/switch-guide/), [Switch.Homebrew](https://switch.homebrew.guide/) or [SWITCHWAY](https://switchway.xyz/) - Switch Homebrew Guide
-* [Nintendo Homebrew](https://discord.com/invite/C29hYvh) - 3DS / Switch Homebrew Community
 * [SDSetup](https://github.com/noahc3/SDSetup) - Nintendo Switch SD Setup
 * [WiiBrew](https://wiibrew.org/), [Wii Softmod Guide](https://sites.google.com/site/completesg) or [Wii Guide](https://wii.guide/) - Wii Homebrew Guides
 * [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
 * [RiiConnect24](https://rc24.xyz/) - WiiConnect24 Replacement
+* [3DS Hacks Guide](https://3ds.hacks.guide/) - 3DS Modding Guide
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - NES, SNES & Playstation Mods
 * [PSX Hax](https://www.psxhax.com/) or [Wololo](https://wololo.net/) - Playstation Modding Guides
 * [TheLeecherMan](https://sites.google.com/site/theleecherman/) - Playstation Modding Tools
