@@ -19,11 +19,10 @@
 * ⭐ **[Oligopoly](https://olgply.com/)** - Movies / TV
 * ⭐ **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
 * ⭐ **[C1NE](https://c1ne.co/)** - Movies / TV
-* ⭐ **[Mov.onl](https://www.mov.onl/)** - Movies / TV
+* ⭐ **[HDMovieBox](https://hdmoviebox.org/)** - Movies
 * ⭐ **[Movies.cf](https://movies.cf/Landing)** - Movies
 * ⭐ **[FreeTubeSpot](https://www.freetubespot.com/)** - Movies
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
-* [HDMovieBox](https://hdmoviebox.org/) - Movies
 * [SockShare](http://sockshare.ac/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones) / Use Adblock
 * [NetU](https://netu.io/view_page.php?pid=4) - Movies / TV / / Anime / [Search](https://i.imgur.com/SiYyosZ.mp4) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)
 * [OpenloadMovies](https://openloadmov.net/) or [Yify TV](https://yify.plus/) - Movies / TV
@@ -35,6 +34,7 @@
 * [DanDanzan](https://www.dandanzan.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Gophie](https://gophie.cam/) - Movies / TV
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - Movies / TV / Anime
+* [Mov.onl](https://www.mov.onl/) - Movies / TV
 * [Tubi](https://tubitv.com) - Movies / TV / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
 * [Archive](https://archive.org/) - Movies / TV
 * [Plex](https://watch.plex.tv/) - Movies / TV
