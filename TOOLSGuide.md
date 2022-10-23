@@ -631,29 +631,30 @@
 
 * ⭐ **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)**, [4DayWeek](https://4dayweek.io/) or [Indeed](https://www.indeed.com/) - Job Search Sites
 * ⭐ **[Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers)** - Create Resumes for Free
+* ⭐ **[Resume / Cover Letter Guide](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)**, [Undergrad](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf) or [Masters](https://hwpi.harvard.edu/files/ocs/files/masters_resume_cover_letters.pdf) - Resume / Cover Letter Guides
+* [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) - Successful Resume Samples
 * [GitHub Résumé](https://github.com/resume/resume.github.com) - Generate Resume from GitHub Activity
 * [AskEdith](https://www.askedith.ai/demo) - Ask AI Job / Business Questions
 * [LoopCV](https://www.loopcv.pro/) - Automated Job Search Tool
 * [Toby Tools](https://rentry.co/qnu6x) - Job Search Tools
-* [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) - Successful Resume Samples
 * [SkillIcons](https://skillicons.dev/) - Skill Badges for GitHub Readmes / Resumes
-* [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator 
+* [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
 * [CoFolios](https://cofolios.com/) - Portfolio Sharing
 * [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - Cover Page Templates
-* [Common Interview Q&A](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) or [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) or [30-seconds-of-interviews](https://30secondsofinterviews.org/) / [GitHub](https://github.com/30-seconds/30-seconds-of-interviews) - Common Interview Questions & Answers
+* [Common Interview Q&A](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) or [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) or [30-seconds-of-interviews](https://30secondsofinterviews.org/) / [GitHub](https://github.com/30-seconds/30-seconds-of-interviews) - Common Interview Q&As
 * [Reverse Interview](https://github.com/viraptor/reverse-interview) or [job-interview-questions-to-ask-companies](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - Questions to ask Potential Employers
 * [LeetFree](https://doocs.github.io/leetcode/#/README_EN), [2](https://github.com/doocs/leetcode/blob/main/README_EN.md) - Leaked Google, Facebook & Amazon Interview Questions
 * [Interviews.school](https://interviews.school/) - Developer Interview Preparation Guide
-* [yangshun](https://github.com/yangshun/tech-interview-handbook) - Tech Interview Handbook 
+* [yangshun](https://github.com/yangshun/tech-interview-handbook) - Tech Interview Handbook
 * [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
 * [Nomad List](https://nomadlist.com/) - Remote Job Listings
 * [RemoteWide](https://remotewide.co/) - Remote Job Notifications
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - Remote Job Resources
-* [Side Hustle Stack](https://sidehustlestack.co/) - Find Platform Based Side Work 
+* [Side Hustle Stack](https://sidehustlestack.co/) - Find Platform Based Side Work
 * [web3.career](https://web3.career/) or [FindWeb3](https://findweb3.com/) - Web3 Job Offers
 * [WhoPaysWriters](http://whopayswriters.com/) - Freelance Writing Publications
 * [moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - Company / Startup Applications
-* [Nerdy Grads](https://nerdygrads.com/) - Grad School Research Job Search 
+* [Nerdy Grads](https://nerdygrads.com/) - Grad School Research Job Search
 * [MTurk](https://www.mturk.com/) - Online Task Work
 * [WFH Companies India](https://github.com/abhagsain/WFH-Companies-India) - Work from Home Job Offerings in India
 * [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - Online Working Subreddit
@@ -862,7 +863,7 @@
 * [IP Location](https://iplocation.net/) - IP Location Check 
 * [IP List](http://magic-cookie.co.uk/iplist.html) - Convert CIDR Notation to UP Range
 * [IP Rotator](https://github.com/Ge0rg3/requests-ip-rotator) - Bypass IP-based Rate-Limits Requests 
-* [open-ports](https://www.yougetsignal.com/tools/open-ports/), [Networkappers](https://networkappers.com/ ), [PortCheckTool](https://www.portchecktool.com/), [PortChecker](https://www.portchecker.co/), [PortCheckers](https://www.portcheckers.com/) or [CanYouSeeMe](https://canyouseeme.org/) - Open Port Checkers
+* [open-ports](https://www.yougetsignal.com/tools/open-ports/), [Networkappers](https://networkappers.com/), [PortCheckTool](https://www.portchecktool.com/), [PortChecker](https://www.portchecker.co/), [PortCheckers](https://www.portcheckers.com/) or [CanYouSeeMe](https://canyouseeme.org/) - Open Port Checkers
 * [DownloadTestr](http://txti.es/downloadtestr) - Download Test Files to Test Download Speed 
 * [NeverSSL](http://neverssl.com/) - Fix Public WiFi Login Pages
 * [WiFi-Password](https://github.com/sdushantha/wifi-password) - Fetch WiFi Password / Generate QR Code
@@ -2134,6 +2135,7 @@ Twitch Stream Tracker
 * [AList](https://github.com/Xhofe/alist) - File Listing Program
 * [Tmp.Ninja](https://tmp.ninja/) or [leteckaposta](http://leteckaposta.cz/) - Temp File Hosts
 * [ProtectedZip](https://protectedzip.com/) - Encrypt Zip Files
+* [objectfixzip](https://www.essentialdatatools.com/products/objectfixzip/) - Repair Zip Files
 * [1fichier-DL](https://github.com/manuGMG/1fichier-dl) - 1Fichier Download Manager
 * [ozzillate](https://www.ozzillate.com/) - Transfer Files via Sound
 * [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
