@@ -3289,7 +3289,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 #### Youtube Android Apps
 
 * ⭐ **[ReVanced Manager](https://github.com/revanced/revanced-manager)** / [2](https://forum.mobilism.org/viewtopic.php?f=429&t=4858677)
-* [Vanced Mirrors](https://mirror.codebucket.de/vanced/api/) / [2](https://vanced.esherloon.com/) / [3](https://github.com/cuynu/ytvanced) / [4](https://github.com/jinoo2005609/VancedManager) / [5](https://github.com/inotia00/VancedManager_v2) / [6](https://github.com/inotia00/VancedManager) / [7](https://t.me/vanced_mod_archive)
+* [Vanced Mirrors](https://www.apkmirror.com/?post_type=app_release&searchtype=apk&s=vanced+manager) / [2](https://vanced.esherloon.com/) / [3](https://github.com/cuynu/ytvanced) / [4](https://github.com/jinoo2005609/VancedManager) / [5](https://github.com/inotia00/VancedManager_v2) / [6](https://github.com/inotia00/VancedManager) / [7](https://t.me/vanced_mod_archive), [8](https://mirror.codebucket.de/vanced/api/)
 * [AfterVanced](https://www.reddit.com/r/AfterVanced/)
 * [NewPipe](https://newpipe.net/)
 * [Newpipe w/ Sponsorblock](https://github.com/polymorphicshade/NewPipe)
