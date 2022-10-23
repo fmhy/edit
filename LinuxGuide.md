@@ -415,23 +415,23 @@
 * [Adobe Packager](https://github.com/Drovosek01/adobe-packager) - Adobe Portable Installer Script
 * [ss64 OSX](https://ss64.com/osx/) - MacOS Bash Commands
 * [Orion](https://browser.kagi.com/downloads/Orion.dmg) - Webkit Browser with Chrome & Firefox extensions / [Discord](https://discord.gg/E9EKaPZR)
-* [Strongbox](https://strongboxsafe.com/) Password Manager
+* [Strongbox](https://strongboxsafe.com/) - Password Manager
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
 * [Drafts](https://getdrafts.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Kyun](https://github.com/file-acomplaint/kyun) or [Voodoopad](http://www.voodoopad.com/) - Text Editors / Notes
-* [Taskpaper](https://www.taskpaper.com/) - To-Do App
+* [Taskpaper](https://www.taskpaper.com/) - To-Do Apps
 * [Stroke](https://stroke.lllllllllllllllll.com/) - Text (You Can't Delete) Editor
 * [BibDesk](https://bibdesk.sourceforge.io/) - Bibliography Manager
-* [ElectronMail](https://github.com/vladimiry/ElectronMail) or [Spark](https://sparkmailapp.com/) - Email Client
-* [Microsoft Mac Downloads](https://macadmins.software/) or [Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Office Suite
+* [ElectronMail](https://github.com/vladimiry/ElectronMail) or [Spark](https://sparkmailapp.com/) - Email Clients
+* [Microsoft Mac Downloads](https://macadmins.software/) or [Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Office Suites
 * [Winfield](http://www.winfield.demon.nl/) - MS Word for Linux / OS X 
-* [kbdlight](https://github.com/WhyNotHugo/kbdlight) - Change MacBook Keyboard Backlight Level 
+* [kbdlight](https://github.com/WhyNotHugo/kbdlight) - Change MacBook Keyboard Backlight Level
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - Connect Mac Keyboard to Mobile Devices
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - Shortcut CheatSheet for Current Application
 * [MonitorControl](https://monitorcontrol.app/) - External Monitor Brightness & Volume Control
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Volume Mixer / Auto-Pause
 * [BatteryBuddy](https://batterybuddy.app/) - Cute Battery Indicator
 * [Bunch](https://bunchapp.co/) - Task Automation
-* [Find You](https://github.com/positive-security/find-you) - Track Bluetooth Devices 
+* [Find You](https://github.com/positive-security/find-you) - Track Bluetooth Devices
 * [Itsycal](https://www.mowglii.com/itsycal/) - Menu Bar Calendar
 * [pock](https://pock.app/) - Touch Bar Widget Manager / [GitHub](https://github.com/pock/pock)
 * [xbar](https://xbarapp.com/) - Manage Menu Bar Items / [GitHub](https://github.com/matryer/xbar)
@@ -439,11 +439,11 @@
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - Menu Bar Toggle Switches
 * [Sloth](https://github.com/sveinbjornt/Sloth) - MacOS Process Manager
 * [pongoOS](https://github.com/checkra1n/pongoOS) - Mac Pre-Boot Executor
-* [Magnet Pro](https://haxmac.cc/?s=magnet+pro) or [Rectangle](https://rectangleapp.com/) - Mac Window Tiling
+* [Magnet Pro](https://haxmac.cc/?s=magnet+pro), [Yabai](https://github.com/koekeishiya/yabai) or [Rectangle](https://rectangleapp.com/) - Window Tiling Apps
 * [Homebrew](https://brew.sh/) - Package Manager
 * [AlDente](https://github.com/davidwernhart/AlDente) - MacOS Charging Manager
 * [Unlocker](https://github.com/paolo-projects/unlocker) - VMware Unlocker
-* [Sosumi](https://github.com/popey/sosumi-snap.git) - Download & Install macOS in a VM 
+* [Sosumi](https://github.com/popey/sosumi-snap.git) - Download & Install macOS in a VM
 * [USBMap](https://github.com/corpnewt/USBMap) - Map MacOS USB Ports
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
 * [iTerm2](https://iterm2.com/) - Replacement for Terminal
@@ -455,7 +455,7 @@
 * [wallpapper](https://github.com/mczachurski/wallpapper) - Dynamic Wallpaper Creator
 * [Plash](https://github.com/sindresorhus/Plash) - Use Website as Wallpaper
 * [100 macOS Screensavers](https://github.com/bjdehang/100-macos-screensavers) - Minimalist Screensavers
-* [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) - Automatically Switch System Theme
+* [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) or [ThemeKit](https://github.com/luckymarmot/ThemeKit) - System Dark Mode Apps
 * [OldSchoolOS](https://www.oldschoolos.com/) - Old MacOS ISOs
 * [Bootcamp Drivers](https://bootcampdrivers.com/) - Mac Bootcamp AMD Drivers
 * [IINA](https://iina.io/) - Video Player
