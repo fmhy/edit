@@ -322,7 +322,7 @@
 * [PecentageTools](https://percentagetools.com/) - Percentage Calculators
 * [FractionCalc](https://fractionscalc.com/) - Fraction Calculator
 * [Matrix Multiplication](http://matrixmultiplication.xyz/) - Matrix Multiplication Calculator
-* [Unit Conversion](https://conversao.net/eng/), [Quick Convert](https://www.microsoft.com/p/app/9wzdncrdm7gt), [UnitConverters](https://www.unitconverters.net/), [ConvertUnits](https://www.convertunits.com/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converter
+* [Unit Conversion](https://conversao.net/eng/), [Quick Convert](https://www.microsoft.com/p/app/9wzdncrdm7gt), [UnitConverters](https://www.unitconverters.net/), [Converter Pro](https://f-droid.org/packages/com.ferrarid.converterpro/), [ConvertUnits](https://www.convertunits.com/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converters
 * [Derivative Calculator](https://www.derivative-calculator.net/) - Derivative Calculator
 * [Integral Calculator](https://www.integral-calculator.com/) - Integral Calculator
 * [Desmos](https://www.desmos.com/) - Graphing Calculator
