@@ -692,6 +692,7 @@
 * [MovieExplit](https://moviexplit.pw/) - Movies / TV / Anime / [Telegram](https://t.me/moviexplit)
 * [MovieFire](https://moviefire.net/) - Movies
 * [SomosMovies](https://somosmovies.com/) - Movies
+* [MovieSeriesTV](https://www.movieseriestv.net/) - Movies / TV
 * [TVSeriesNMovies](https://www.tvseriesnmovies.com/) - Movies / TV
 * [SeriesVault](https://seriesvault.win/) - TV / Anime
 * [o2tvseries](https://o2tvseries.com/) - TV
