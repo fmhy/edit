@@ -527,7 +527,6 @@
 * [MacBed](https://www.macbed.com/) 
 * [AppDB](https://appdb.to/) 
 * [AppsTorrent](https://appstorrent.ru/) 
-* [NXMac](https://nxmac.com/)
 * [Pure Mac](https://www.pure-mac.com/) 
 * [Downloadies](https://www.downloadies.com/) 
 * [Macupdate](https://www.macupdate.com/) 
@@ -542,6 +541,7 @@
 * [WebCatalog](https://webcatalog.io/)
 * [AppleDB](https://appledb.dev/) - Official Apple Software
 * [Awesome macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Open Source Software
+* [XMac](https://xmac.app/)
 
 ***
 
