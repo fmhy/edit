@@ -133,6 +133,7 @@
 * [CroTorrents](https://crotorrents.com/)
 * [GamesTorrents](https://www.gamestorrents.fm/)
 * [GetGamez](https://getgamez.net/) - [Discord](https://discord.com/invite/tNhPmCU)
+* [RaidOfGame](https://raidofgame.com/)
 * [Free GoG PC Games](https://freegogpcgames.com/)
 * [Tiny-Repacks](https://www.tiny-repacks.win)
 * [Rihno Games](https://rihnogames.com/)
