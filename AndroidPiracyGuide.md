@@ -94,7 +94,7 @@
 * [Stingle Photos](https://stingle.org/) or [No See You](https://baixarapk.gratis/en/app/1186829987/photo-vault-noseeyou) - Private Photo / Video Gallery
 * [ConfiBlur](https://play.google.com/store/apps/details?id=com.cooliehat.confiblur) - Blur Private Info in Screenshots
 * [Secure If](https://github.com/iternull/secure-if/) - USB Controller
-* [PrivateBrowser](https://play.google.com/store/apps/details?id=com.prism.download.adblock.privacy.flash.player.incognito.private_browser.browser) - Calculator Disguised Browser
+* [PrivateBrowser](https://play.google.com/store/apps/details?id=com.prism.download.adblock.privacy.flash.player.incognito.private_browser.browser) - Browser Disguised as Calculator
 * [Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers) - Encrypted Android Messengers
 * [Silence](https://silence.im/) - Encrypt SMS/MMS Messages
 * [Wickr](https://play.google.com/store/apps/details?id=com.wickr.pro&amp;hl=en), [MySudo](https://mysudo.com/), [Jami](https://jami.net/), [Syphon](https://syphon.org/), [Mesibo](https://play.google.com/store/apps/details?id=com.mesibo.mesiboapplication) or [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app) - Encrypted Messaging / Video Calls
@@ -166,6 +166,7 @@
 * [MAPS.ME](https://maps.me/) / [GitHub](https://github.com/mapsme/omim) or [OsmAnd](https://osmand.net/) - Offline Maps
 * [Zenly](https://zenly.com/) - Social Map App
 * [EVMap](https://github.com/johan12345/EVMap) - Electronic Vehicle Charging Map
+* [LavSeeker](https://f-droid.org/en/packages/org.woheller69.lavatories/) - Public Toilet Map
 * [AntennaSearch](http://www.antennasearch.com/) - Cell Tower / Antenna Search
 * [PhoneDB](https://phonedb.net/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones & Prices 
 * [DXOMARK](https://www.dxomark.com/) - Smartphone Quality Testing
@@ -213,12 +214,12 @@
 * [InstantBridge](https://instabridge.com/) - Public WiFi Sharing Community
 * [Gnirehtet](https://github.com/Genymobile/gnirehtet) - Reverse Tethering
 * [AndrOBD](https://github.com/fr3ts0n/AndrOBD) - Android Dashboard Diagnostics
-* [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app) - Libgen Mobile App 
-* [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) or [AndrOpen](https://www.andropenoffice.com/) - Office Suite 
+* [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) or [AndrOpen](https://www.andropenoffice.com/) - Office Suite
 * [Papertag](https://www.papertag.app/) - Attach Digital Content on Paper
 * [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - Audio Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
-* [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistant  
+* [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistant
+* [My Expenses](https://f-droid.org/packages/org.totschnig.myexpenses/) - Finance Manager
 * [KeyMapper](https://github.com/keymapperorg/KeyMapper) - Key Mapper
 * [openboard](https://github.com/dslul/openboard) - FOSS Keyboard App
 * [UnicodePad](https://github.com/Ryosuke839/UnicodePad) - Emoji / Unicode Manager
@@ -375,7 +376,7 @@
 * [RClone](https://github.com/x0b/rcx) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Manager
 * [App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers) - Android App Launchers
 * [QuickSwitch](https://github.com/skittles9823/QuickSwitch) - Enable Quickstep in Launchers 
-* [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager) or [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) / [2](https://www.apkmirror.com/apk/aurora-oss/warden/) - App Managers
+* [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager), [AppManager](https://f-droid.org/packages/io.github.muntashirakon.AppManager/) or [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) / [2](https://www.apkmirror.com/apk/aurora-oss/warden/) - App Managers
 * [Uninstaller](https://play.google.com/store/apps/details?id=com.splendapps.shark) - App Uninstaller
 * [Blocker](https://github.com/lihenggui/blocker) - Component Controller
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Android Power Menu Replacement
@@ -399,7 +400,6 @@
 * [SimpleMail](https://framagit.org/dystopia-project/simple-email), [k9mail](https://k9mail.app/) or [FairCode](https://email.faircode.eu/) - Email App 
 * [BlitzMail](https://github.com/grote/BlitzMail) - One Click Email App
 * [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957) - Temp Email Client
-* [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator) - Multi-Calculator App
 * [Get Unstuck](https://socratic.org/) - Homework Answers / Help 
 * [Take Notes](https://github.com/the-rebooted-coder/Take-Notes) - Convert Text to Handwritten Notes
 * [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - To-Do List Apps
@@ -678,7 +678,7 @@
 
 # ► Android Reading
 
-* ⭐ **[Mobilism](https://forum.mobilism.org/app/)** - Modded
+* ⭐ **[Mobilism](https://forum.mobilism.org/app/)** or [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app) - Ebook Site Apps
 * ⭐ **[Librera](http://librera.mobi/)**  - Ebook Reader
 * ⭐ **[Tachiyomi](https://tachiyomi.org/)** - Manga / Comic Reader
 * ⭐ **Tachiyomi Tools** - [Github Releases](https://github.com/tachiyomiorg/tachiyomi) / [Forks](https://tachiyomi.org/forks/#forks) / [Discord](https://discord.com/invite/tachiyomi) / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/)
@@ -826,7 +826,7 @@
 * [Modded Hotstar](https://apkmody.io/apps/hotstar) - Movies / TV
 * WiWiCenter - [Movies / TV](https://cinema.wiwicenter.com/) / [Anime](https://anime.wiwicenter.com/) - Use Adblocker
 * [Upflix](https://www.upflix.net/) - Movies / TV
-* [Titanium TV](https://aapks.com/apk/titanium-tv-com-wise-tech-titanium/) - Movies / TV / Anime / Chromecast
+* [Titanium TV](https://apkcombo.com/zh/titanium-tv/com.titanium.tv4k.movie.app.v2021/) - Movies / TV / Anime / Chromecast
 * [MOTV](http://motv.top/) - Movies / TV / Chromecast
 * [ROTV](https://rotv.xyz/) - Movies / TV
 * [CinemaHD](https://cinemahdapkapp.com/v2-apkd4/) - Movies / TV
@@ -1013,7 +1013,7 @@
 * ⭐ **[Hyperweb](https://hyperweb.app/)** - iOS Safari Improvement + Adblock Extension
 * ⭐ **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites & Apps
 * [Waltr](https://softorino.com/waltr/) - Convert Files to iOS Formats
-* [Filza](http://cydia.saurik.com/package/com.tigisoftware.filza/) - File Manager
+* [Filza](http://cydia.saurik.com/package/com.tigisoftware.filza/) or [Santander](https://github.com/SerenaKit/Santander) - File Managers
 * [Dropbox Premium](https://testflight.apple.com/join/LBZaRq4I) - Cloud Storage
 * [iEmulators](https://iemulators.com/) - Emulator Apps
 * [Infinity](https://github.com/fullpwn/infinity) - Run Android 10(Q) on iPhone
@@ -1161,6 +1161,7 @@
 * [iosninja](https://iosninja.io/ipa-library) or [Jailbreaks.app](https://jailbreaks.app/) - App Sideload Files
 * [TestFlight](https://testflight.apple.com/) - Test Beta Apps / [Links](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/)
 * [bfdecrypt](https://github.com/BishopFox/bfdecrypt) - Decrypt App Store Apps
+* [ExportIPA](https://gist.github.com/rileytestut/5b3ede1cfeaba47cea9e6c1c8c114e4e) - Export Running Apps as IPAs
 
 ***
 
