@@ -74,11 +74,19 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ####  Alternative Search Engines
 
-* ⭐ **https://yandex.com/**
-* ⭐ **https://go.mail.ru/**
-* ⭐ **https://www.baidu.com/** - [PHP Version](https://github.com/yuantuo666/baiduwp-php)
-* ⭐ **https://r0.ru/** 
-* ⭐ **https://www.ecosia.org/** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
+* ⭐ **[Privacy Focused Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
+* ⭐ **[Lets Search!](https://letssearch.org/)** - Advanced Search Engine
+* ⭐ **[Yandex](https://yandex.com/)**
+* ⭐ **[Mail.ru](https://go.mail.ru/)**
+* ⭐ **[Baidu](https://www.baidu.com/)** - [PHP Version](https://github.com/yuantuo666/baiduwp-php)
+* ⭐ **[r0.ru](https://r0.ru/)** 
+* ⭐ **[Ecosia](https://www.ecosia.org/)** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
+* [Fagan Finder](https://www.faganfinder.com/) - Index
+* [DirectSearch.Net](http://www.directsearch.net/) - Index
+* [Search Engine Colossus](https://www.searchenginecolossus.com/) - Index
+* [Search-Engine](https://start.me/p/wM7y15/search-engine) - Index
+* [100 Search Engines](https://www.100searchengines.com/) - Search With 100 Search Engines
+* [pSearch](https://github.com/SerjSX/pSearch/), [Search All](https://www.searchall.net/) or [AIO Search](https://www.aiosearch.com/) - Multi Site Search
 * https://oceanhero.today/
 * https://llarryyllarryy.github.io/Max-Impact-Search/
 * https://www.lycos.com/
@@ -473,8 +481,8 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 #### Compression Programs
 
 * ⭐ **[Conversion Tutorial Index](https://fileforums.com/showthread.php?t=96782)**
-* ⭐ **[7-zip](https://www.7-zip.org/)** / [Fork](https://github.com/M2Team/NanaZip) / [Colab](https://github.com/dropcreations/7zip-in-Google-Colab) / [Dark](https://github.com/huanrenfeng/7zipDarkmode) / [Benchmarks](https://s1.hoffart.de/7zip-bench/)
-* ⭐ **[win-rar](https://www.win-rar.com/)** / [Licenses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_winrar_licenses) / [Remove Popup](http://cooltricksb.blogspot.com/2015/03/how-to-remove-40-days-trial-period.html?m=1)
+* ⭐ **[7-Zip](https://www.7-zip.org/)** / [Fork](https://github.com/M2Team/NanaZip) / [Colab](https://github.com/dropcreations/7zip-in-Google-Colab) / [Dark](https://github.com/huanrenfeng/7zipDarkmode) / [Benchmarks](https://s1.hoffart.de/7zip-bench/)
+* ⭐ **[WinRAR](https://www.win-rar.com/)** / [Licenses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_winrar_licenses) / [Remove Popup](http://cooltricksb.blogspot.com/2015/03/how-to-remove-40-days-trial-period.html?m=1)
 
 [SuperCompression](https://supercompression.ru/), [peazip](https://peazip.github.io/), [hamstersoft](https://hamstersoft.com/), [Unzip Online](https://unzip-online.com/en), [kgbarchiver](https://github.com/RandallFlagg/kgbarchiver), [Pigz](https://zlib.net/pigz/), [GNU Gzip](http://www.gnu.org/software/gzip/), [ezyZip](https://www.ezyzip.com/), [FreeARC](https://sourceforge.net/projects/freearc/) / [FreeARC 0.666](https://www68.zippyshare.com/v/qZUpSdVT/file.html), [UltraARC](https://www.fileforums.com/showpost.php?p=476660&postcount=1135), [p7zip](https://github.com/jinfeihan57/p7zip), [Razorx](https://fileforums.com/showthread.php?t=103577&highlight=Razorx), [DZip](http://speeddemosarchive.com/dzip/), [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer), [bzip2](http://sourceware.org/bzip2/), [bandizip](http://www.bandisoft.com/bandizip/), [tugzip](http://www.tugzip.com/), [Benchmark](https://github.com/powturbo/TurboBench), [7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd), [Unrar.online](https://unrar.online/), [izarc](https://www.izarc.org/), [zipextractor](https://zipextractor.app/), [zipware](https://www.zipware.org/), [winzip](https://www.winzip.com/)
 
@@ -2126,7 +2134,7 @@ Add the following commands to a search to manually scrape each site.
 #### Reverse Image Search
 
 * ⭐ **[Search by Image](https://github.com/dessant/search-by-image)**
-* ⭐ **[TinEye](https://tineye.com/) / [Extension](https://tineye.com/extensions)**
+* ⭐ **[TinEye](https://tineye.com/)** / [Extension](https://tineye.com/extensions)
 
 [Duplichecker](https://www.duplichecker.com/reverse-image-search.php), [Image Raider](https://infringement.report/api/raider-reverse-image-search/), [ascii2d](https://ascii2d.net/), [iqdb](http://iqdb.org/), [Reverse Image Analyser](https://www.osintcombine.com/reverse-image-analyzer), [same.energy](https://same.energy/), [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/), [Yandex Images](https://yandex.com/images/), [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/), [SmartImage](https://github.com/Decimation/SmartImage), [berify](https://www.berify.com/), [Reverse Image Search](https://www.reverse-image-search.org/), [RevEye](https://github.com/steven2358/reveye), [immerse](https://www.immerse.zone/), [ReverseImageSearch](https://www.reverseimagesearch.com/), [MaxURL](https://qsniyg.github.io/maxurl/)
 
