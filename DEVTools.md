@@ -1061,6 +1061,7 @@ Automated Incident Response and Forensics Framework
 * [AutoCode](https://autocode.com/) - Instant Endpoints
 * [typejuice](https://github.com/galvez/typejuice) - Documentation Generator for TypeScript Declaration Files
 * [Boxed](https://github.com/swan-io/boxed) - TypeScript Utility Types / Functions
+* [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guide
 * [Trunk](https://trunk.io/) - Run Linters/Formatters/Checkers Simultaneously
 * [Mega Linter](https://github.com/nvuillam/mega-linter), [TCA](https://github.com/Tencent/CodeAnalysis) or [SonarCloud](https://sonarcloud.io/) - Code Analyzer 
 * [tabnine](https://www.tabnine.com/), [CodeWhisperer](https://aws.amazon.com/codewhisperer/) or [Copilot](https://copilot.github.com/) / [Docs](https://github.com/github/copilot-docs) - AI Assisted Code Completion / Suggestions
