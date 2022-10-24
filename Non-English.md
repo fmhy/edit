@@ -1138,11 +1138,12 @@
 
 * [Brazil Drive](https://discord.gg/5Bmu7AsEEN) - Video / Audio / Software / Games / Books / Anime
 * [ReidOSTorrents](https://reidostorrents.com/) - Video / Audio / Software / Games / Books
-* [Os Reformados](http://osreformados.com/) - Video / Audio / Magazines 
-* [Jogos Torrents](https://jogostorrents.site/) - Games
+* [Os Reformados](http://osreformados.com/) - Video / Audio / Magazines
+* [baixarseriesmp4](https://baixarseriesmp4.xyz/) - Movies / TV / Anime
 * [Series Empire](https://seriesempire.com/) - TV 
 * [Anbient](https://www.anbient.com/) - Anime
 * [LegendasGeek](https://legendasgeek.tv/) - TV
+* [Jogos Torrents](https://jogostorrents.site/) - Games
 * [BiaxarSomGospel](https://www.baixarsomgospel.org/) - Gospel Music
 * [Gendou](http://gendou.com/) - Anime OSTs
 * [Emulador](https://emulador3ds.com/pt/nintendo-3ds/) - 3DS Roms
