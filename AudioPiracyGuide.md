@@ -408,7 +408,8 @@
 * [KDramaOST](https://kdramaost.com/en) - Asian Drama Soundtracks
 * [Doujin Cafe](https://discord.com/invite/doujincafe) or [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Music
 * [Keygen Music](http://www.keygenmusic.org/) - Keygen Music Archive
-* [BitMidi](https://bitmidi.com/), [Geocities Midi's](https://archive.org/details/archiveteam-geocities-midi-collection-2009), [ArtScene](http://artscene.textfiles.com/music/midi/) or [VGMusic](http://www.vgmusic.com/)- MIDI Files 
+* [BitMidi](https://bitmidi.com/), [Geocities Midi's](https://archive.org/details/archiveteam-geocities-midi-collection-2009), [ArtScene](http://artscene.textfiles.com/music/midi/) or [VGMusic](http://www.vgmusic.com/) - MIDI Files
+* [Demozoo](https://discord.io/demozoo) - Demoscene Archive
 * [QueenMusicHall](http://www.queenmusichall.cz/) - Queen MIDIs, Audio, Photos
 * [BurntScarr](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_burntscarr) or [/r/MusicStems](https://www.reddit.com/r/MusicStems/) - STEMS
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games 
