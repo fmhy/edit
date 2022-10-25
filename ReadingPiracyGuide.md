@@ -874,7 +874,7 @@
 * ⭐ **[MangaDex](https://mangadex.org/)** - [Download Script](https://github.com/frozenpandaman/mangadex-dl)
 * ⭐ **[Manga4Life](https://manga4life.com/)**, [2](https://mangasee123.com/) - Official Translations
 * ⭐ **[MangaReader](https://mangareader.to/)**
-* ⭐ **[MangaNelo](https://m.manganelo.com/wwww)** or [Mangakakalot](https://mangakakalot.com/)
+* ⭐ **[MangaNelo](https://m.manganelo.com/wwww)**, [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/)
 * [/r/MangaPiracy](https://reddit.com/r/MangaPiracy) - Manga Piracy Subreddit / [Discord](https://discord.gg/ZgMtAyxFSU)
 * [Manga Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_download_bots) - Bots that Download Manga
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - Anime / Manga Download Forum
@@ -888,7 +888,6 @@
 * [GoIndex](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_goindex)
 * [bato](https://bato.to/), [2](https://battwo.com/) - [Discord](https://discord.gg/7NBwcBsDph)
 * [MangaHere](http://www.mangahere.cc)
-* [Manganato](https://manganato.com/)
 * [Atsumaru](https://atsu.moe/) - [Discord](https://discord.gg/Tj4QmEF4uV)
 * [MangaHub](https://mangahub.io/)
 * [MP4DIRECTS](https://mp4directs.com/) 
