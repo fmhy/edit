@@ -230,6 +230,7 @@
 * [Duboku](https://www.duboku.tv/) - TV / Cartoons
 * [qiqi8](http://qiqi8.net/) - Anime
 * [AGE動漫](https://agefans.tw/) - Anime
+* [agemys](https://www.agemys.net/) - Anime
 * [music.163](https://music.163.com/) - Music
 * [Hifini](https://www.hifini.com/) - Music
 * [Huya](https://www.huya.com/) - Live Streaming
