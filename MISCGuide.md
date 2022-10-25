@@ -12,7 +12,7 @@
 # ► Indexes
 
 * ⭐ **[FMHY Guides](https://fmhy.tk/guides)** or [Mega Rentry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mega_rentry) - List of Guides
-* ⭐ **[The Index](https://theindex.moe/)** - Japanese Media Index
+* ⭐ **[TheIndex](https://theindex.moe)** or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - Japanese Media Indexes / [Discord](https://discord.gg/Snackbox ) / [Wiki](https://thewiki.moe/)
 * ⭐ **[/r/PiratedGames Megathread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Gaming Piracy Site Index / [Discord](https://discord.gg/dZWwhUy)
 * ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** or [/r/Stumbledon](https://www.reddit.com/r/Stumbledon/) - Helpful / Fun Sites
 * ⭐ **[Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)**, [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr), [5](https://rentry.org/verycompletelistofpiratesites), [6](https://github.com/Tosoju/awesome-piracy) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
