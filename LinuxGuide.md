@@ -254,9 +254,8 @@
 * [MPR Packages](https://mpr.hunterwittenborn.com/)
 * [JenV](https://www.jenv.be/) - Java Environment Manager / [GitHub](https://github.com/jenv/jenv)
 * [pacwall](https://github.com/Kharacternyk/pacwall) - Live Wallpaper that shows Dependency Graph & Status of Installed Packages 
-* [picom](https://github.com/yshui/picom) - X11 Compositor
+* [river](https://github.com/riverwm/river/), [kiwmi](https://github.com/buffet/kiwmi), [picom](https://github.com/yshui/picom), [wayfire](https://github.com/WayfireWM/wayfire/) or [sway](https://github.com/swaywm/sway/) - Linux Compositors
 * [Compix](https://github.com/xeome/compix) - Xorg Compositor
-* [river](https://github.com/riverwm/river/), [wayfire](https://github.com/WayfireWM/wayfire/) or [sway](https://github.com/swaywm/sway/) - Wayland Compositors
 * [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
 * [Arronax](https://www.florian-diesch.de/software/arronax/) - .desktop File Editor
 * [ImHex](https://github.com/WerWolv/ImHex) - Hex Editor
@@ -529,7 +528,6 @@
 * [AppsTorrent](https://appstorrent.ru/)
 * [XMac](https://xmac.app/)
 * [Pure Mac](https://www.pure-mac.com/)
-* [Downloadies](https://www.downloadies.com/)
 * [Macupdate](https://www.macupdate.com/)
 * [Mac Torrents](https://www.torrentmac.net/)
 * [MacTorrents](https://mactorrents.io/)
