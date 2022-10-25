@@ -637,6 +637,7 @@
 * [AskEdith](https://www.askedith.ai/demo) - Ask AI Job / Business Questions
 * [LoopCV](https://www.loopcv.pro/) - Automated Job Search Tool
 * [Toby Tools](https://rentry.co/qnu6x) - Job Search Tools
+* [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
 * [SkillIcons](https://skillicons.dev/) - Skill Badges for GitHub Readmes / Resumes
 * [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
 * [CoFolios](https://cofolios.com/) - Portfolio Sharing
@@ -870,14 +871,15 @@
 * [IP2Proxy](https://www.ip2proxy.com/) - Proxy / VPN IP Detector
 * [Slideshow-Deslidefier](http://deslide.clusterfake.net/) - View Slideshows All At Once
 * [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities
-* [tumblr-crawler](https://github.com/ZenulAbidin/tumblr-crawler) - Download tumblr Photos / Videos
+* [tumblr-crawler](https://github.com/ZenulAbidin/tumblr-crawler) - Download Tumblr Photos / Videos
 * [Tumgir](https://www.tumgir.com/) - Tumblr Web Viewer
 * [Awesome ActivityPub](https://github.com/BasixKOR/awesome-activitypub) - List of ActivityPub based projects 
 * [Percollate](https://github.com/danburzo/percollate) - Format Pages for PDF / EPub / HTML
-* [StartOS](https://startos.app/) - 90's Themed Startpage / [Github](https://github.com/Jaredk3nt/startos) 
+* [StartOS](https://startos.app/) - 90's Themed Startpage / [Github](https://github.com/Jaredk3nt/startos)
 * [Gate2Home](https://gate2home.com/) - Keyboard Emulator 
+* [PearPC](https://pearpc.sourceforge.net/) - PowerPC Architecture Emulator / [GitHub](https://github.com/sebastianbiallas/pearpc)
 * [PrintFriendly](https://www.printfriendly.com/) or [PrintWhatYouLike](https://www.printwhatyoulike.com/) - Printer / PDF Version of Webpages
-* [Textise](https://textise.net/) - Remove Everything from a Page Except Text 
+* [Textise](https://textise.net/) - Remove Everything from a Page Except Text
 * [Toptal](https://www.toptal.com/designers/colorfilter) - Colorblind Web Page Filter
 * [FaxZero](https://faxzero.com/) - Free Internet Faxing 
 * [Misc-Download-Scripts](https://github.com/simon987/Misc-Download-Scripts) - Download Scripts for Multiple Sites
@@ -885,8 +887,8 @@
 * [byp4xx](https://github.com/lobuhi/byp4xx) - Bypass "403 Forbidden" Messages 
 * [PuTTY](https://www.putty.org/), [2](https://www.chiark.greenend.org.uk/~sgtatham/putty/) / [Fork](https://www.9bis.net/kitty/#!index.md), [GitHub](https://github.com/cyd01/KiTTY/) - SSH & Telnet Client / [Keygen](https://www.puttygen.com/)
 * [Server Hunter](https://www.serverhunter.com/) - Search / Compare Servers 
-* [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy) or [Homer](https://github.com/bastienwirtz/homer) - Home Server Homepage 
-* [rickroll-blocker](https://github.com/hitthemoney/rickroll-blocker/) - Rick Roll Blocker 
+* [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy) or [Homer](https://github.com/bastienwirtz/homer) - Home Server Homepage
+* [rickroll-blocker](https://github.com/hitthemoney/rickroll-blocker/) - Rick Roll Blocker
 
 ***
 
@@ -2043,7 +2045,7 @@ Twitch Stream Tracker
 * [Awesome Ricing](https://github.com/fosslife/awesome-ricing) or [Windows-Ricing](https://github.com/winthemers/windows-ricing) - Windows Ricing Tools
 * [LineStep](http://litestep.net/) - Customize Desktop Interface
 * [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script) - Windows Auto Personalization / Debloating Script
-* [OpenRGB](https://openrgb.org/), [SignalRGB](https://www.whirlwindfx.com/pages/signalrgb), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/) or [Aurora](https://github.com/antonpup/Aurora) - System Lighting Control / [GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB)
+* [OpenRGB](https://openrgb.org/), [SignalRGB](https://www.signalrgb.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/) or [Aurora](https://github.com/antonpup/Aurora) - System Lighting Control / [GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB)
 * [ShaderGlass](https://github.com/mausimus/ShaderGlass) - Custom Screen Shaders
 * [DiscordChroma](https://github.com/DELUUXE/DiscordChroma) or [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Discord System Lighting Control
 * [KeyboardVisualizer](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer) - Audio Visualizer / FX Engine for Keyboards, Mice & Accessories
