@@ -527,7 +527,7 @@
 ## ▷ History Sites
 
 * ⭐ **[Project Gutenberg](https://www.gutenberg.org/)** - Historical Fiction / Nonfiction / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)
-* [/HIS/STORY Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2Fhis.2Fstory_collection) - Drive 
+* ⭐ **[/HIS/STORY Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2Fhis.2Fstory_collection)** - Drive 
 * [Historical Audiobooks Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_historical_audiobooks_collection) - Audiobooks / Drive
 * [Media History](https://mediahistoryproject.org/) - Books / Magazines
 * [Duke University Library](https://repository.duke.edu/catalog?utf8=%E2%9C%93&search_scope=https%3A%2F%2Frepository.duke.edu%2Fcatalog&q=&search_field=all_fields) - Historical Books 
@@ -744,7 +744,8 @@
 * ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** - Dictionary / Thesaurus
 * ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - Slang Word / Phrase Dictionaries
 * ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary Search
-* ⭐ **[Dictionary Index](https://onelook.com/?d=all_gen)** 
+* ⭐ **[Dictionary Index](https://onelook.com/?d=all_gen)**
+* ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase
 * [Phrases.org](https://phrases.org.uk/) - Phrase Dictionary
 * [NinjaWords](http://ninjawords.com/) - Dictionary
 * [Wordnik](https://www.wordnik.com/) - Dictionary
@@ -772,7 +773,6 @@
 * [AcronymFinder](https://www.acronymfinder.com/) - Abbreviations / Acronyms
 * [Chat Words Dictionary](https://chatworddictionary.com/) - Chat Abbreviations
 * [lengusa](https://lengusa.com/) or [Fraze.it](https://fraze.it/) - Sentence Search
-* [Wolfram Alpha](https://www.wolframalpha.com/) - Searchable Knowledgebase
 * [Dictionary](https://www.dictionary.com/) - Dictionary / Thesaurus
 * [VisualThesaurus](https://www.visualthesaurus.com/) - Thesaurus
 * [DescribingWords](https://www.describingwords.io/) - Adjectives
@@ -786,7 +786,7 @@
 * [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html) - Philosophy Encyclopedia / [Search](https://www.visualizingsep.com/)
 * [Focal](http://www.focal.ie/) - Irish Word Dictionary
 * [TheIdioms](https://www.theidioms.com/) - Idiom Dictionary 
-* [Lexipedia](http://www.lexipedia.com/) - Word Connections
+* [Lexipedia](http://www.lexipedia.com/) or [WordWeb](https://wordwebs.app/) - Word Connections
 * [RhymeZones](https://www.rhymezone.com/), [Rhymer](https://rhymer.com/) or [RhymeIt](https://www.rhymit.com/) - Rhyme Dictionary
 * [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/) - Dictionary of Sorrows 
 * [TheDevilsDictionary](http://www.thedevilsdictionary.com/) - Cynical Dictionary
