@@ -1037,7 +1037,6 @@
 * [iSH Shell](https://apps.apple.com/us/app/ish-shell/id1436902243) - Linux-like iOS Shell
 * [The OldOS Project](https://github.com/zzanehip/The-OldOS-Project) - iOS 4 Recreation
 * [Fantastical](https://apps.apple.com/app/fantastical-2-for-iphone/id718043190?ls=1) - Calendar & Tasks App
-* [3uTools](http://www.3u.com/) - iOS Manager for Windows
 * [NoMoreSmallApps](https://www.sparkdev.me/package/com.spark.nomoresmallapps) - Force App Full Screen / [Discord](https://discord.com/invite/tvvJfbD)
 * [InsightBrowser](https://insightbrowser.com/) - Browser
 * [Kagi](https://apps.apple.com/us/app/kagi/id1484498200) or [Orion](https://testflight.apple.com/join/DeC8ZDnu) - Browser w/ Firefox & Chrome Extension Support
