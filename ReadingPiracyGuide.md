@@ -870,7 +870,7 @@
 ## ▷ Manga Sites
 
 * ⭐ **[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
-* ⭐ **[Manga Site Index](https://piracy.moe/)** - Manga Site List
+* ⭐ **[TheIndex](https://theindex.moe/library/manga)** - Manga Site List
 * ⭐ **[MangaDex](https://mangadex.org/)** - [Download Script](https://github.com/frozenpandaman/mangadex-dl)
 * ⭐ **[Manga4Life](https://manga4life.com/)**, [2](https://mangasee123.com/) - Official Translations
 * ⭐ **[MangaReader](https://mangareader.to/)**
@@ -1018,6 +1018,7 @@
 
 ## ▷ Light Novel Sites
 
+* ⭐ **[TheIndex](https://theindex.moe/library/novels)** - Light Novel Site Index
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)** 
 * ⭐ **[Just Light Novels](https://www.justlightnovels.com/)**
 * ⭐ **[ThatNovelCorner](https://thatnovelcorner.com/)**
