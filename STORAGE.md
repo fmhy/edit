@@ -1038,6 +1038,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### HiMovies Clones
 
+* https://solarmovies.win/
 * https://www2.theshit.me/
 * https://www2.6movies.net/
 * https://www2.movieorca.com/
