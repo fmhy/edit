@@ -821,6 +821,7 @@
 * [FoodStruct](https://foodstruct.com/), [OpenFoodFacts](https://world.openfoodfacts.org/) / [Scanner](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner), [Tellspecopedia](http://www.tellspecopedia.com/), [Nutritionix](https://www.nutritionix.com/) or [NutritionData](https://nutritiondata.self.com/) - Food Nutrition Search
 * [Soosee](https://play.google.com/store/apps/details?id=com.goodsnooze.soosee) - Food Nutrition Scanner
 * [wger](https://wger.de/) - Self-Hosted Workout, Nutrition & Weight App / [GitHub](https://github.com/wger-project/wger)
+* [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
 * [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - Daily Diet Recommendations / Android
 * [EatThisMuch](https://www.eatthismuch.com/), [FitMenCook](https://fitmencook.com/) or [MealPrePro](https://mealpreppro.com/) - Diet Tool / iOS / Android 
 * [Examine.com](https://examine.com/) - Supplement & Nutrition Analysis
