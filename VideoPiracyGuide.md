@@ -1038,7 +1038,7 @@
 * ⭐ **[External Subtitles Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_external_subs_player)** - Play Subs Externally 
 * [Movie-Subtitles](https://github.com/gignupg/Movie-Subtitles) or [Substital](https://substital.com/) - External Subtitle Extension
 * [elSubtitle](http://www.elsubtitle.com/) - Subtitles & Tools 
-* [GSubs](https://cholaware.com/gsubs/) - Subtitle Search Client
+* [GSubs](https://cholaware.com/gsubs/) or [Subsearch](https://github.com/vagabondHustler/subsearch) - Subtitle Search Tools
 * [Subtitle Cat](https://www.subtitlecat.com/) - Subtitles 
 * [Subscene](https://subscene.com/) - Subtitles 
 * [SubDL](https://subdl.com/) - Subtitles 
