@@ -1835,7 +1835,7 @@ Twitch Stream Tracker
 * [MIUIShade](https://www.deviantart.com/jaxoriginals/art/MIUI-Shade-v2-0-885183361) - Windows MIUI Dropdown Menu
 * [All Tasks Toolbar](https://winaero.com/create-all-tasks-god-mode-toolbar-windows-10/) - Create All Tasks God Mode Toolbar in Win 10 
 * [WindowsManager](https://www.eusing.com/WindowManager/WindowManager.htm), [AwesomeWM](https://awesomewm.org/), [LCARS](https://github.com/lcarsde/lcarswm) or [Compiz Fusion](http://www.compiz-fusion.org/) - Windows Managers
-* [AltDrag](https://stefansundin.github.io/altdrag/) - Windows Dragging
+* [AltSnap](https://github.com/RamonUnch/AltSnap) - Windows Dragging
 * [EverythingToolbar](https://github.com/stnkl/EverythingToolbar), [Hyper](https://github.com/hyperts/Hyper), [Awesome](https://github.com/nodgear/Awesome) or [Smart Taskbar](https://github.com/ChanpleCai/SmartTaskbar) - Taskbars
 * [Taskbar Groups](https://github.com/tjackenpacken/taskbar-groups) - Create Groups in Taskbar
 * [uTaskManager](https://www.microsoft.com/en-us/p/utaskmanager/9nhvdhfbxrsv) - Alternative Taskbar
