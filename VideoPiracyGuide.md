@@ -335,7 +335,7 @@
 ## ▷ Anime Streaming
 
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
-* ⭐ **[TheIndex](https://theindex.moe)** or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - Curated List of Anime Sites / [Discord](https://discord.gg/Snackbox ) / [Wiki](https://thewiki.moe/)
+* ⭐ **[The Index](https://theindex.moe)** or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - Curated List of Anime Sites / [Discord](https://discord.gg/Snackbox ) / [Wiki](https://thewiki.moe/)
 * ⭐ **[Zoro](https://zoro.to/)** or [AnimeBee](https://animebee.to/) - Sub / Dub
 * ⭐ **[9Anime](https://www.9anime.to/)** - Sub / Dub / [Mirrors](https://9anime.me/) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher) / [Ad Scripts](https://redd.it/c330dx)
 * ⭐ **[Anime8](https://anime8.ru/)** - Sub / Dub
