@@ -228,7 +228,7 @@
 
 # Hentai
 
-* ⭐ **[TheIndex](https://theindex.moe/library/hentai)** - Hentai Sites List
+* ⭐ **[The Index](https://theindex.moe/library/hentai)** - Hentai Sites List
 * [Best Hentai Sites](https://besthentaisites.github.io/) - Hentai Site List
 * [PornDude Hentai](https://theporndude.com/hentai-streaming-sites) - Heintai Sites List
 * [Hentai Manga Sites](https://theporndude.com/hentai-manga-sites) - Hentai Sites List
