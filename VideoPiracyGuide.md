@@ -512,6 +512,7 @@
 * ⭐ **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - NBA / NFL
 * ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [2](https://github.com/iptv-org/iptv) - IPTV Resources / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
 * [TOTV](http://totv.org/) - TV / Sport
+* [IPTV Web](https://dev-iptv.web.app/) - TV / Sport
 * [Soccer Streams](https://reedit.soccerstreams.net/) - Soccer
 * [123TV](http://123tv.live/) - TV / Sports
 * [WatchNewsLive](https://watchnewslive.tv/) - TV / Sports
@@ -548,11 +549,10 @@
 * [wwiTV](https://wwitv.com/) - TV
 * [WorldCupFootball](http://www.worldcupfootball.me/) - Sports
 * [6stream](http://6stream.xyz/) - Sports
-* [FLS](http://go.freestreams-live1.com/) - Sports / [Discord](https://discord.gg/UKEjyPEaYG)
+* [FLS](http://gw.freestreams-live1.com/) - Sports / [Discord](https://discord.gg/UKEjyPEaYG)
 * [Icelz](https://icelz.newsrade.com/) - Sports
 * [livetv](http://livetv.sx) - Sports
 * [bilaSport](http://bilasport.net/) - Sports
-* [FreeStreams](http://fc.freestreams-live1.com/) - Sports
 * [StreamsGate](https://streamsgate.tv/) - Sports
 * [WatchKobe](http://watchkobe.info/) - Sports
 * [VIP Box Sports](https://www.viprow.nu/) - Sports
@@ -593,7 +593,6 @@
 * [Redditz Soccer Stream](https://redditz.soccerstreamlinks.com/) - Sports
 * [NBAStreams](https://nbastreams.to/), [NFL](https://nflstreams.to/), [NHL](https://nhlstreams.to/), [MLB](https://mlbstreams.to/) - Sports
 * [VIPLeague](https://vipleague.cc/) / [2](https://vipleague.im/) / [3](https://en.vipleague.tv/) or [VIPBox](https://www.vipbox.lc/) - Sports 
-* [FreeStream-Live](http://freestreams-live1.com/) - Sports
 * [MyP2P](https://www.myp2p.at/) - Sports
 * [SoccerStreams](https://new.soccerstreams-100.tv/) - Sports
 * Reddit Streams - [Soccer](https://redi1.soccerstreams.net/), [NFL](https://reddit.nflbite.com/), [NBA](https://scor.nbabite.com/), [NHL](https://nhlbite.com/), [MLB](https://mlbshow.com/), [F1](https://live1.formula1stream.cc/), [MMA](https://live2.mmastreams.cc/), [Cricket](https://live.cricketstreams.cc/)
