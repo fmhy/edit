@@ -86,7 +86,8 @@
 * [animerco](https://animerco.com/) - Anime
 * [xsanime](https://v.xsanime.com/) - Anime
 * [ncv](http://www.ncv.life/) - Anime
-* [fomny](http://fomny.com/Home/index.php) - Live TV 
+* [fomny](http://fomny.com/Home/index.php) - Live TV
+* [qayadat](https://play.qayadat.org/channels) - Live TV
 * [YallAlive](https://yallalive.io/) - Live Soccer
 * [livehd7](https://www.livehd7.top/) - Live Soccer
 
@@ -149,6 +150,7 @@
 * [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
 * [Dianying](https://dianying.fm/) - Hash Search
 * [磁力海](https://cilidog.cc/) - DHT Search
+* [SooPAT](http://www2.soopat.com/) - Patent Search
 * [news_pdf](https://t.me/news_pdf), [TopHub](https://tophub.today/), [Chinadaily](http://cn.chinadaily.com.cn/) or [China Watch](http://www.chinadaily.com.cn/chinawatch_fr/index.html) - News
 * [Fonts Free Chinese](https://www.freechinesefont.com/) or [Fonts.net](https://www.fonts.net.cn/) - Fonts
 * [CatoCR](https://catocr.com/) - Image to Text
@@ -1844,6 +1846,7 @@
 * [yoturkish](https://www.yoturkish.com) - TV
 * [expressdizi](http://www.expressdizi.com/) - TV
 * [HindiLover](https://hindilover.biz/) - TV
+* [makkitv](https://makkitv.co/) - TV
 * [TurkAnime](https://www.turkanime.net/), [2](https://www.turkanime.co/) - Anime
 * [anizm](https://anizm.net/) - Anime
 
@@ -2002,6 +2005,7 @@
 * [Ani4u](http://ani4u.org/) - Anime
 * [AnimeHay](https://animehay.club/) - Anime
 * [AnimeTVN](https://animetvn.com/) - Anime
+* [Anime47](https://anime47.com/) - Anime
 * [VietToons](https://viettoons.tv/) - Cartoons
 * [Tokuvn](https://tokuvn.com/) - Tokusatsu
 * [Mocha](http://mocha.com.vn/) - Video
