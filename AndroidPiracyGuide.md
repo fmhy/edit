@@ -397,6 +397,7 @@
 * [aiTTS](https://www.milmike.com/aitts-google-wavenet-voices-for-android-tts) or [Madhur](https://madhur-ai.com/) - Text to Speech
 * [Microsoft Edge Read Aloud](https://redd.it/l1fdh9) - How to use Microsoft Read Aloud TTS on Android
 * [Copyhat](https://copyhat.com/) - AI Writing Tool
+* [Universal Copy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_universal_copy) - Copy Any Text
 * [Koler](https://github.com/Chooloo/koler) - Dialer App
 * [KONTXT](https://play.google.com/store/apps/details?id=com.realnetworks.kontxt.voice&hl=en&gl=US) - Preview Calls
 * [SimpleMail](https://framagit.org/dystopia-project/simple-email), [k9mail](https://k9mail.app/) or [FairCode](https://email.faircode.eu/) - Email App 
@@ -1174,7 +1175,7 @@
 # ► iOS Audio
 
 * ⭐ **[Spotify++](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_spotify.2B.2B)**, **[Spotilife](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_spotilife)**, [Tweaked Spotify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_tweaked_spotify) or [Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580) - Streaming / [Listening Stats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392)
-* [YTMusilife](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ytmusilife) / [2](https://repo.hackyouriphone.org/ytmusilife) or [YouTube Music Patched](https://appdb.to/app/cydia/1900000831) - Streaming
+* [YTMusilife](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ytmusilife) / [2](https://repo.hackyouriphone.org/ytmusilife), [YTMusicUltimate](https://github.com/ginsudev/YTMusicUltimate) or [YouTube Music Patched](https://appdb.to/app/cydia/1900000831) - Streaming
 * [DeezeLife](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_deezelife) / [2](https://repo.hackyouriphone.org/deezelife) or [Deezer](https://apps.apple.com/app/deezer/id292738169) - Streaming
 * [Trebel](https://home.trebel.io/) - Streaming
 * [SCloudlife](https://repo.hackyouriphone.org/scloudlife) or [Soundcloud](https://apps.apple.com/us/app/soundcloud/id336353151) - Streaming
