@@ -178,11 +178,11 @@
 
 * ⭐ **[FileCR](https://filecr.com/en/)** - Software / Books / [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass)
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - Software / Books / [Mobile App](https://forum.mobilism.org/app/)
-* ⭐ **[soft98](https://soft98.ir/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)**
 * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[AppNee](https://appnee.com/)**
 * ⭐ **[YasDL](https://yasdl.com/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [soft98](https://soft98.ir/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [downloadly](https://downloadly.ir/), [2](https://downloadly.net/) - Software / Courses / Persian VPN Required
 * [PiratePC](https://piratepc.me/) - [Discord](https://discord.gg/QhaKfHwWmV)
 * [SamLab](https://samlab.ws/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
