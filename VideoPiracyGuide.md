@@ -250,12 +250,12 @@
 ## ▷ Specialty Streaming
 
 * ⭐ **[How-to Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - Find Obscure Films
-* [RareFilmm](https://rarefilmm.com/) - Rare Movies 
+* [RareFilmm](https://rarefilmm.com/) - Rare Movies
 * [3D Online Films](https://www.documentarymania.org/) - 3D Movies
 * [ElectronicNostalgia1991](https://www.youtube.com/c/ElectronicNostalgia1991/) - Movie Commentaries
 * [Classic Cinema Online](https://classiccinemaonline.com/), [ClassixApp](https://www.classixapp.com/), [BnWMovies](https://bnwmovies.com/) or [Dumb Classic Movies](http://www.dumb.com/movies/) - Classic Films
 * [TheFilmDetective](https://thefilmdetective.tv/) - Classic Films / TV
-* [RetroVision Media](http://www.retrovisionmedia.com/) - Retro / Classic Films 
+* [RetroVision Media](http://www.retrovisionmedia.com/) - Retro / Classic Films
 * [horror.watch](https://horror.watch/) - Classic Horror Films
 * [Wu Tang Collection](https://www.thewutangcollection.com/) - Martial Arts Films
 * [GizmoPlex](https://www.gizmoplex.com/mst3k) - MST3K Movies
@@ -264,9 +264,9 @@
 * [LIMA](https://www.li-ma.nl/) - Short / Experimental Films
 * [LightCone](https://lightcone.org/en) - Short / Experimental Films
 * [Rohesia Hamilton Metcalfe](http://www.panix.com/~hamiltro/links/) - Experimental Films
-* [The Library of Congress](https://www.loc.gov/film-and-videos/) - Movies / Short Films 
-* [Total Short Films](http://www.totalshortfilms.com/), [Viddsee](https://www.viddsee.com/), [MAFF](https://www.maff.tv/), [Short of the Week](https://www.shortoftheweek.com/), [Argo](https://web.watchargo.com/), [Shortly](https://watch.shortly.film/) or [Audpop](https://audpop.com/) - Short Films 
-* [HuntleyArchives](https://www.huntleyarchives.com/) - Rare / Forgotten Short Films 
+* [The Library of Congress](https://www.loc.gov/film-and-videos/) - Movies / Short Films
+* [Total Short Films](http://www.totalshortfilms.com/), [Viddsee](https://www.viddsee.com/), [MAFF](https://www.maff.tv/), [Short of the Week](https://www.shortoftheweek.com/), [Argo](https://web.watchargo.com/), [Shortly](https://watch.shortly.film/) or [Audpop](https://audpop.com/) - Short Films
+* [HuntleyArchives](https://www.huntleyarchives.com/) - Rare / Forgotten Short Films
 * [FootageFarm](https://footagefarm.com/) - Public Domain Films
 * [The Travel Film Archive](https://travelfilmarchive.com/) - Public Domain Stock Footage
 * [commons.wikimedia](https://commons.wikimedia.org/wiki/Category:Videos) - Wiki Commons Video Files
@@ -274,17 +274,17 @@
 * [IndianCine](https://indiancine.ma/) - Indian Film Archive
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animated Film Archive
 * [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Film Archive
-* [JP-Films](https://jp-films.com/) - Japanese Movies / TV / English Subs 
+* [JP-Films](https://jp-films.com/) - Japanese Movies / TV / English Subs
 * [TexasArchive](https://texasarchive.org/) - Texas Film Archive
 * [Chicago Film Archives](http://www.chicagofilmarchives.org/) - Chicago Film Archive
-* [Eastern European Movies](https://easterneuropeanmovies.com/) - Eastern European Film Archive 
+* [Eastern European Movies](https://easterneuropeanmovies.com/) - Eastern European Film Archive
 * [BFIPlayer](https://player.bfi.org.uk/free) or [BFI National Archive](https://www.bfi.org.uk/bfi-national-archive) - British Film Archive / UK VPN Required
-* [British Pathé](https://www.britishpathe.com/) - British Video Archive  
+* [British Pathé](https://www.britishpathe.com/) - British Video Archive
 * [yfanefa](https://www.yfanefa.com/) - Yorkshire Film Archive
 * [nfb.ca](https://www.nfb.ca/) - Canadian Film Archive
 * [NFSA](https://www.nfsa.gov.au/) - Australian Film Archive
-* [NGA Taonga](https://ngataonga.org.nz/search-landing) or [NZOnScreen](https://www.nzonscreen.com/) - New Zealand Video Archive 
-* [NLS](https://www.nls.uk/), [2](https://movingimage.nls.uk/) - Scottish Film Archive 
+* [NGA Taonga](https://ngataonga.org.nz/search-landing) or [NZOnScreen](https://www.nzonscreen.com/) - New Zealand Video Archive
+* [NLS](https://www.nls.uk/), [2](https://movingimage.nls.uk/) - Scottish Film Archive
 * [Northern Ireland Screen](https://digitalfilmarchive.net/) - Irish Film Archive
 * [Cinematheque](https://www.cinematheque.fr/henri/english/) - Rare French Film Archive
 * [Stiftung imai](https://www.stiftung-imai.de/) - German Video Archive
@@ -297,10 +297,10 @@
 * [StageDork](http://stagedork.com/), [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
 * [GlobalShakespeares](https://globalshakespeares.mit.edu/) - Shakespeare Performance Recordings
 * [Rental Media](https://rentalmedia.neocities.org/index.html) - Free DVD Rentals
-* [SoMuchContent](https://somuchcontent.com/) - Sidemen Content / [Ad Script](https://greasyfork.org/en/scripts/448419-somuchqol) / [App](https://pixeldrain.com/u/PodC9xL2)
+* [SoMuchContent](https://somuchcontent.com/) or [IHaveStreams](https://havenstreams.com/) - Sidemen Content / [Ad Script](https://greasyfork.org/en/scripts/448419-somuchqol) / [App](https://pixeldrain.com/u/PodC9xL2)
 * [Unus Annus](https://archive.org/details/unus-annus) - Unus Annus Archive
 * [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/), [2](https://github.com/joric/bandersnatch) - Interactive player for Black Mirror: Bandersnatch
-* [ListenToAMovie](http://listentoamovie.com/) - Listen to Movies 
+* [ListenToAMovie](http://listentoamovie.com/) - Listen to Movies
 * [Blind User Audio Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_blind_user_audio_drives) or [Audiovault](https://audiovault.net/) - Descriptive Audio for Blind Users 
 
 ***
