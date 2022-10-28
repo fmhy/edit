@@ -159,7 +159,7 @@
 * [Hugin](http://hugin.sourceforge.net/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - Panorama Image Generator 
 * [Side It](https://sideit.app/) - Side by Side Image Generator
 * [SuperDesigner](https://superdesigner.co/) - Background / Pattern Designer
-* [DoodDad](https://doodad.dev/pattern-generator), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [Valentina](https://gitlab.com/smart-pattern/valentina) or [Haikei](https://app.haikei.app/) - Pattern Generator
+* [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [Valentina](https://gitlab.com/smart-pattern/valentina) or [Haikei](https://app.haikei.app/) - Pattern Generator
 * [Noise & Gradient](https://www.noiseandgradient.com/), [BGJar](https://bgjar.com/) or [BGGenerator](https://bggenerator.com/) - Background Generator
 * [stripegenerator](http://www.stripegenerator.com/) - Stripe Generator 
 * [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
