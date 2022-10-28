@@ -341,6 +341,7 @@
 * [mobile-hud](https://github.com/DK22Pac/mobile-hud) - GTASA Mobile HUD Mod
 * [Driver](https://github.com/CT83/Driver) or [GTASA-Driving](https://github.com/ParmuSingh/gtasa-driving) - GTASA A.I. Driving Mod
 * [SA Mission Maker](https://libertycity.net/files/gta-san-andreas/175089-sa-mission-maker-v1-45.html) or [DYOM](https://dyom.gtagames.nl/) - GTASA Mission Creator
+* [Liberty Unleashed](https://liberty-unleashed.co.uk/) or [GTA3MP3](https://gtamp.com/gta3/) - GTA3 Multiplayer Mod
 * [Grand-Theft-Auto-1-Renderware-Edition](https://github.com/wakka387/Grand-Theft-Auto-1-Renderware-Edition) - Port GTA 1 & London 69/61 to GTA III/VC/SA
 
 ***
