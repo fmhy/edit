@@ -894,7 +894,6 @@
 
 ## ▷ Downloading
 
-* [Torrentrank](https://torrentrank.net/) - Warez list
 * [JPFILES](https://jpfiles.eu/) - Video / Audio / Books / NSFW
 * [PDPop](https://www.pdpop.com/) - Video / Games / Books / NSFW
 * [WeDisk](https://www.wedisk.co.kr/) - Movies / TV
@@ -997,7 +996,6 @@
 * [alefmovie](https://alefmovie.website/) - Movies / TV / Iranian VPN Needed
 * [ValaMovie](https://valamovie.club/) - Movies / TV
 * [Tik-Film](https://tik-film.com/) - Movies / TV
-* [NamaDL](http://namadl.ir/) - Movies / TV
 * [GanjDL](http://www.ganjdl.ir/) - Movies / TV
 * [KaranMovie](https://karanmovie.org/) - Movies / TV
 * [Par30Media](https://par30media.com/) - Movies / TV
@@ -1444,7 +1442,6 @@
 * [MDCORE](https://vk.com/mdcore) - Metal / MP3
 * [MDROCK](https://vk.com/mdrock) - Rock / MP3
 * [KinoMuzic](https://kinomuzic.ucoz.ru/) - Books / Soundtracks
-* [soundkino](https://www.soundkino.biz/) - Soundtracks
 * [androeed](https://www.androeed.ru/) - Android
 * [EZMod](https://ezmod.ru/) - Android
 * [4pda](https://4pda.ru/forum/) - Android / iOS
@@ -1466,7 +1463,6 @@
 * [Rus-Media](http://rus-media.org/) - Video / Audio / Software / Games / Roms / Books / Magazines / Android / NSFW
 * [PB.wtf](https://pb.wtf/) - Video / Audio / Software / Games / Books / Comics / Magazines / Android / NSFW 
 * [IvTracker](http://ivtracker.org/) - Video / Audio / Software / Games / Roms / Books / Magazines / Android / NSFW
-* [IV-Torrents](https://iv-torrents.com/) - Video / Audio / Software / Games / Roms / Books / Android / NSFW
 * [Riper.AM](http://riperam.org/) - Video / Audio / Software / Games / Books / Magazines / Android / NSFW
 * [Tapochek](https://tapochek.net/) - Video / Audio / Software / Games / Books 
 * [Korsars](http://korsars.pro/) - Video / Audio / Software / Games / Books 
@@ -1932,7 +1928,7 @@
 * [Random](https://random.com.vn/), [QuaySo](https://quayso.vn/) or [NgauNhien](https://ngaunhien.vn/) - Random Tools
 * [FPT.AI](https://fpt.ai/vi/tts) - Text to Speech
 * [EPhoto360](https://ephoto360.com/), [ThiepMung](https://thiepmung.com/), [HieuUngAnh](https://hieuunganh.com/), [ThiepHay](https://thiephay.com/), [KhungAnh](https://khunganhonline.com/) or [TaoCover](https://taocover.com/) - Photo Effects
-* [KiemTraIP](https://kiemtraip.com/), [IPCuaToi](https://ipcuatoi.com/) or [CheckIP](https://checkip.vip/) - IP Checkers
+* [KiemTraIP](https://kiemtraip.com/), [IPCuaToi](https://ipcuatoi.com/) - IP Checkers
 * [hostsVN](https://bigdargon.github.io/hostsVN/), [iBlockAds](https://iblockads.net/) or [FMSF2](https://nmtrung.com/fmsf-2/) - Vietnamese Adblock Filters
 
 ## ▷ Downloading
