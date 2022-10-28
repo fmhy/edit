@@ -878,8 +878,7 @@
 * [/r/MangaPiracy](https://reddit.com/r/MangaPiracy) - Manga Piracy Subreddit / [Discord](https://discord.gg/ZgMtAyxFSU)
 * [Manga Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_download_bots) - Bots that Download Manga
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - Anime / Manga Download Forum
-* [Scanlation Mega](https://www.reddit.com/r/mangadex/comments/mafhtl/scanlation_sites_megathread/), [Great Discord Links](https://discord.gg/xAsyVb52a9), [Scanlation Sites](https://rentry.co/scanlation/) or [Mangadex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
-* [TheScubaIndex](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_thescubaindex) - User: MP / Pass: grandblue
+* [Great Discord Links](https://discord.gg/xAsyVb52a9) or [Mangadex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [Madokami Manga Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_madokami)
 * [The Manga Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_manga_library)
 * [Mangas.Heoo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mangas.heoo)
