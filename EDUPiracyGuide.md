@@ -326,6 +326,7 @@
 * [Derivative Calculator](https://www.derivative-calculator.net/) - Derivative Calculator
 * [Integral Calculator](https://www.integral-calculator.com/) - Integral Calculator
 * [Desmos](https://www.desmos.com/) - Graphing Calculator
+* [TicCalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
 * [TI-Basic Developer](http://tibasicdev.wikidot.com/) - TI-Basic Info Repository
 * [fxSolver](https://www.fxsolver.com/), [Kalker](https://kalker.xyz/) / [GitHub](https://github.com/PaddiM8/kalker) or [The Engineering ToolBox](https://www.engineeringtoolbox.com/) - Engineering & Scientific Calculator
 * [SciDAVis ](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotter
@@ -714,7 +715,7 @@ Simulator
 * [Answers.com](https://www.answers.com/) or [Quora](https://www.quora.com/) / [Bypass](https://github.com/VoidlessVoid7/quora-plus-bypass) / [Frontend](https://github.com/zyachel/quetre) - Q&A Communities
 * [Get Unstuck](https://socratic.org/), [sarthaks](https://www.sarthaks.com/) or [Brainly](https://brainly.com/) - Homework Help
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
-* [Answers Exchange](https://discord.gg/GFp9Rvr), [Toppr](https://www.toppr.com/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
+* [Answers Exchange](https://discord.gg/GFp9Rvr), [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
 * [GradesFixer](https://www.gradesfixer.com/) - Essay Samples
 * [Chegg Answers](https://www.istaunch.com/how-to-get-chegg-answers-for-free/#2_Free_Chegg_Answers_by_iStaunch), [2](https://creativesavantz.com/how-to-access-chegg-solutions-for-free/), [3](https://litanswers.net/get-free-chegg-answers/), [4](https://techpanga.com/free-chegg-answer/), [5](https://trickswire.com/free-chegg-answers/), [6](https://www.rootupdate.com/free-chegg-answers/) - Chegg Answer Tools
 * [School Cheats](https://schoolcheats.net/) - School Platform Answers 
@@ -726,7 +727,7 @@ Simulator
 * [guIHelp](https://discord.gg/rgF9jY8CpH), [2](https://discord.gg/9s9ZpqwP) - Bartleby, Quizlet, Coursehero & Scribd Bot
 * [Wikiversity](https://www.wikiversity.org/) or [Learnamic](https://www.learnamic.com/) - Learning Resources, Guides, Quizzes, Tools & More
 * [TurtleDiary](https://www.turtlediary.com/) - Quizzes / Lessons / Games
-* [SoftSchools](https://www.softschools.com/) - Worksheets / Games / Quizzes
+* [SoftSchools](https://www.softschools.com/) or [EnchantedLearning](https://www.enchantedlearning.com/) - Worksheets / Games / Quizzes
 * [FactMonster](https://www.factmonster.com/) - Exercises / Flashcards
 * [BrainPOP Jr.](https://jr.brainpop.com/) - Quizzes / Animations
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - 5-Minute Audio Lessons / iOS
@@ -735,7 +736,7 @@ Simulator
 * [The SAT: Practice Test 3](https://collegereadiness.collegeboard.org/pdf/sat-practice-test-3.pdf) - SAT Practice Tests
 * [SAT Reading](https://rentry.co/satreading) - Suggested SAT Reading
 * [SAT_Files_discussion](https://t.me/SAT_Files_discussion) - SAT Exam Discussion
-* [Examveda](https://www.examveda.com/) - Exam Practice
+* [Examveda](https://www.examveda.com/) or [Aglasem](https://aglasem.com/) - Exam Practice
 * [MajorTests](https://www.majortests.com/) - Practice Tests 
 * [CrackAP](https://www.crackap.com/) - Practice AP Exams
 * [/r/ApStudents Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2Fr.2Fapstudents_resources) - Former AP Exams
@@ -827,7 +828,7 @@ Simulator
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/) - Learn about Logical Fallacies
 * [YourBiasIs](https://yourbias.is/) - Learn about Biases
 * [LessWrong](https://www.lesswrong.com/) - Develop Rationality
-* [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
+* [SkillsYouNeed](https://www.skillsyouneed.com/) or [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
 * [VisualizeValue](https://archivve.visualizevalue.com/) - Life Lesson Visualizations
 * [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
 * [50Hacks](https://50hacks.co/) - Productivity Tips
