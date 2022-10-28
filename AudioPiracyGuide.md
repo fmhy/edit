@@ -83,6 +83,7 @@
 * [Wacht](https://wacht.tv/) - Music Video Upvoting
 * [/r/Yedits](https://www.reddit.com/r/Yedits/) - User-Made Remixes
 * [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - User-Made PluggnB Songs
+* [Musico](https://www.musi-co.com/listen/streams) - AI Generated Songs
 * [BitMidi](https://bitmidi.com/) - Stream / Download MIDI Files
 * [RemixPacks](https://remixpacks.club/) - STEMS
 * [KeyGenMusic](http://www.keygenmusic.net/) or [keygenmusic.tk](https://keygenmusic.tk/) - Keygen Music
