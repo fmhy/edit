@@ -1560,12 +1560,6 @@ pass: paluch
 
 ***
 
-#### TheScubaIndex
-
-`aHR0cHM6Ly90aGVzY3ViYWluZGV4LnNjdWJhaW5kZXgud29ya2Vycy5kZXYvP3Jvb3RJZD0wQUYtOXZFZ0dUNlloVWs5UFZB`
-
-***
-
 #### VSTs & Packs
 
 `aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvMXhnajUtVzJmMEVTc1NhWUxQclQ1ZGZiTVFjSk05TlpFYkFHSXZzelRiVHMv`
@@ -1599,3 +1593,9 @@ pass: paluch
 #### Remini
 
 `IGh0dHBzOi8vZm9ydW0ubW9iaWxpc20ub3JnL3ZpZXd0b3BpYy5waHA/Zj00MjcmdD00OTU4Mzk3`
+
+***
+
+#### Universal Copy
+
+`aHR0cHM6Ly9maWxlY3IuY29tLz9zPVVuaXZlcnNhbCtDb3B5JnN1YmNhdF9maWx0ZXI9JmNhdGVnb3J5LXR5cGU9MjM=`
