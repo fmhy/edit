@@ -409,6 +409,7 @@ Simulator
 * [Smithsonian Institution Archives](https://siarchives.si.edu/) - Historical Photos / Documents
 * [Imperial War Museums](https://www.iwm.org.uk/) - Historic War Footage
 * [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour
+* [Wonderous](https://play.google.com/store/apps/details?id=com.gskinner.flutter.wonders) - Learn About Ancient Structures
 * [Persepolis Reimagined](https://persepolis.getty.edu/) - Explore Persepolis Recreation
 * [Modern / Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps) - Map Resources
 * [Letters of Note](https://news.lettersofnote.com/) - Historical Letters
@@ -452,6 +453,7 @@ Simulator
 * [Find Starlink](https://findstarlink.com/) - Starlink Satellite Tracker
 * [Space Weather News](https://spaceweathernews.com/) or [SpaceWeather](https://spaceweather.com/) - Space Weather Updates / [Videos](https://www.youtube.com/user/Suspicious0bservers)
 * [Andegraf Rockets](http://rockets.andegraf.com/) - Rocket Diagrams
+* [nextrocket.space](https://nextrocket.space/) - List of Upcoming Rocket Launches
 * [Interactive Apollo Missions](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - Apollo in Realtime
 * [Moon.Nasa](https://moon.nasa.gov/) - Explore the Moon
 * [Earth and Moon Viewer](http://www.fourmilab.ch/cgi-bin/Earth) - Earth / Moon Latitude & Longitude Viewer
@@ -827,6 +829,7 @@ Simulator
 * [LessWrong](https://www.lesswrong.com/) - Develop Rationality
 * [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
 * [VisualizeValue](https://archivve.visualizevalue.com/) - Life Lesson Visualizations
+* [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
 * [50Hacks](https://50hacks.co/) - Productivity Tips
 * [Social Engineers](https://www.socialengineers.net/) - Social Engineering Guides
 * [TheChessWebsite](https://www.thechesswebsite.com/) - Chess Strategy & Analysis
