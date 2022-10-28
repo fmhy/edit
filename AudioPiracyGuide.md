@@ -214,7 +214,6 @@
 * [Calm](https://app.www.calm.com/) - Meditation / Sleep Music 
 * [Tide.fm](https://tide.fm/) - Meditation / Sleep Sounds 
 * [ChillOuts](http://www.chillouts.com/) - Meditation Aid
-* [Fractal Panda](http://fractalpanda.com/binaural-beats-generator/) - Binaural Beats Generator
 * [August Ambiance](https://augustambience.com/) - Ambient Summer Sounds / Relaxation 
 * [VirtCcean](https://virtocean.com/) - Ambient Ocean Sounds
 * [ASMRion](https://asmrion.com/), [2](https://defonic.com/vibeasmrion.html) - Ambient Noise Generator
@@ -237,7 +236,7 @@
 ## ▷ Download Apps
 
 * ⭐ **[Music Ripping Guide](https://ori5000.github.io/musicripping.html)**
-* ⭐ **[GamesDrive / SlavDoge](https://slavart.divolt.xyz/)** - Deezer, Spotify, Apple Music, YouTube, Qobuz, TIDAL & SoundCloud Download Bot / [Site](https://slavart.gamesdrive.net/), [2](https://gamesdrive.net/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk) / [Upload Backup](https://s3.gamesdrive.net/)
+* ⭐ **[GamesDrive / SlavDoge](https://slavart.divolt.xyz/)** - Deezer, Spotify, Apple Music, YouTube, Qobuz, TIDAL & SoundCloud Download Bot / [Site](https://slavart.gamesdrive.net/), [2](https://gamesdrive.net/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * ⭐ **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Download from Spotify
 * ⭐ **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download from YouTube
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)
@@ -468,7 +467,7 @@
 * [45Cat](http://www.45cat.com/) - Vinyl Ratings / Reviews
 * [TapeFear](https://www.tapefear.com/), [SongsLikeX](https://songslikex.com/) or [Discover Quickly](https://discoverquickly.com/) - Spotify Song Discovery
 * [Spotalike](https://spotalike.com/), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [Discoverify](https://discoverifymusic.com/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generators
-* [DailyPlaylists](https://www.dailyplaylists.com/) or [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
+* [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
 * [MusitcTo](https://www.musicto.com/) - Musician Curated Playlists
 * [Obscurify](https://obscurifymusic.com/) - Compare Music Taste to Others 
 * [Chosic](https://www.chosic.com/) - Song Discovery Tools
