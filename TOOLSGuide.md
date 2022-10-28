@@ -1199,16 +1199,17 @@
 ***
 
 * ⭐ **[Discord3rdParties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)** - Discord Client Index
-* ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client 
+* ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client
 * ⭐ **[BetterDiscord](http://betterdiscord.app/)** - Modifiable Discord Client / [GitHub](https://github.com/BetterDiscord/BetterDiscord) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)
-* [Velocity](https://velocity-discord.netlify.app/) - Discord Client Mod 
+* [Velocity](https://velocity-discord.netlify.app/) - Discord Client Mod
 * [Discord Servers & Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists) - Discover Servers / Bots
 * [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - Discord Tools
 * [Client-Modding-Guide](https://github.com/saintwithataint/Client-Modding-Guide/blob/main/PimpMyClient.md) - Modify Your Discord Client
 * [ArmCord](https://armcord.smartfridge.space/) - Lightweight Discord Client / [GitHub](https://github.com/ArmCord/ArmCord)
 * [Replugged](https://replugged.dev/) - Lightweight Discord Client
 * [Discordo](https://github.com/ayntgl/discordo) - Discord Terminal Client
-* [Dark-Discord](https://github.com/snappercord/Dark-Discord) - Dark Theme for BetterDiscord & Powercord 
+* [Vencord](https://github.com/Vendicated/Vencord) - Modded Discord Client
+* [Dark-Discord](https://github.com/snappercord/Dark-Discord) - Dark Theme for BetterDiscord & Powercord
 * [Powerconvert](https://convert.creatable.cafe/) - Convert BetterDiscord themes to Powercord
 * [bdCompat](https://github.com/Juby210/bdCompat) - Use BD Plugins in Powercord
 * [Revert Rebrand](https://betterdiscord.app/theme/Revert%20Rebrand) - Revert Discord’s Rebrand on BetterDiscord & Powercord / [GitHub](https://github.com/Goose-Nest/GT-RevertRebrand)
