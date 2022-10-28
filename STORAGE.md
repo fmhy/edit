@@ -396,7 +396,6 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Cloudstream Forks
 
-* https://codeberg.org/QzReborn/SunStream/releases
 * https://github.com/Jacekun/csrelease/releases
 * https://github.com/Stormunblessed/CloudStream-3/releases
 * https://github.com/recloudstream/cloudstream
@@ -546,7 +545,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Bots** 
 
-[BotBlock](https://botblock.org/), [Top.gg](https://top.gg/), [Bots on Discord](https://bots.ondiscord.xyz/), [Discord Bots Labs](https://bots.discordlabs.org/), [Discord Bots](https://discord.bots.gg/), [Top Bots](https://s.advaith.io/topbots), [motiondevelopment](https://www.motiondevelopment.top/), [infinitybotlist](https://infinitybotlist.com/), [fateslist](https://fateslist.xyz/), [discordservices](https://discordservices.net/), [discordlist](https://discordlist.space/), [discordbots](https://discordbots.co/), [discordbots](https://discordbots.app/), [discordbotlist](https://discordbotlist.com/), [discord.boats](https://discord.boats/), [discord-botlist](https://discord-botlist.eu/), [carbonitex](https://www.carbonitex.net/), [botlist](https://botlist.me/), [blist](https://blist.xyz/), [bladelist](https://bladelist.gg/), [topcord](https://topcord.xyz/), [yabl](https://yabl.xyz/), [wonderbotlist](https://wonderbotlist.com/), [voidbots](https://voidbots.net/), [void.yt](https://void.yt/)
+[BotBlock](https://botblock.org/), [Top.gg](https://top.gg/), [Bots on Discord](https://bots.ondiscord.xyz/), [Discord Bots Labs](https://bots.discordlabs.org/), [Discord Bots](https://discord.bots.gg/), [Top Bots](https://s.advaith.io/topbots), [motiondevelopment](https://www.motiondevelopment.top/), [infinitybotlist](https://infinitybotlist.com/), [discordservices](https://discordservices.net/), [discordbots](https://discordbots.co/), [discordbots](https://discordbots.app/), [discordbotlist](https://discordbotlist.com/), [discord-botlist](https://discord-botlist.eu/), [carbonitex](https://www.carbonitex.net/), [botlist](https://botlist.me/), [blist](https://blist.xyz/), [bladelist](https://bladelist.gg/), [topcord](https://topcord.xyz/), [yabl](https://yabl.xyz/), [wonderbotlist](https://wonderbotlist.com/), [voidbots](https://voidbots.net/)
 
 ***
 
@@ -1362,7 +1361,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Manga Download Bots
 
-[HakuNeko](https://github.com/manga-download/hakuneko), [Comics Downloader](https://github.com/Girbons/comics-downloader), [FMD](https://sourceforge.net/projects/fmd/), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [Free Manga Downloader](https://sourceforge.net/projects/newfmd/), [mangadownbot](https://t.me/mangadownbot), [MangaBot](http://mangabot.github.io/), [MangaRipper](https://www.softpedia.com/get/Internet/Download-Managers/MangaRipper.shtml), [Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader), [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [mangadesk](https://github.com/darylhjd/mangadesk), [mdownloader](https://github.com/Rudoal/mdownloader), [mangapy](https://pypi.org/project/mangapy/), [manga2mobi](https://github.com/KevCui/manga2mobi), [Akianonymus](https://github.com/Akianonymus/mangadl-bash), [simple-manga-downloader](https://github.com/Kanjirito/simple-manga-downloader), [mangodl](https://github.com/Gyro7/mangodl), [anime-dl](https://github.com/vrienstudios/anime-dl) / [2](https://github.com/vrienstudios/anime-dl), [manga-py](https://github.com/manga-py/manga-py), [mangal](https://github.com/metafates/mangal), [comicMaker](https://github.com/gunjannandy/comicMaker), [LittleWeeb](https://littleweeb.github.io/)
+[HakuNeko](https://github.com/manga-download/hakuneko), [Comics Downloader](https://github.com/Girbons/comics-downloader), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [MangaBot](http://mangabot.github.io/), [Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader), [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [mangadesk](https://github.com/darylhjd/mangadesk), [mdownloader](https://github.com/Rudoal/mdownloader), [mangapy](https://pypi.org/project/mangapy/), [manga2mobi](https://github.com/KevCui/manga2mobi), [Akianonymus](https://github.com/Akianonymus/mangadl-bash), [simple-manga-downloader](https://github.com/Kanjirito/simple-manga-downloader), [mangodl](https://github.com/Gyro7/mangodl), [anime-dl](https://github.com/vrienstudios/anime-dl) / [2](https://github.com/vrienstudios/anime-dl), [manga-py](https://github.com/manga-py/manga-py), [mangal](https://github.com/metafates/mangal), [comicMaker](https://github.com/gunjannandy/comicMaker), [LittleWeeb](https://littleweeb.github.io/)
 
 ***
 
@@ -2415,7 +2414,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Spanish Anime Telegram
 
-[Animes480pFinalizados](https://t.me/Animes480pFinalizados), [Anime480p_Emision](https://t.me/Anime480p_Emision), [AndrossElLegado](https://t.me/AndrossElLegado), [animes_kawais](https://t.me/animes_kawais), [SimplementeAnime](https://t.me/SimplementeAnime), [animesfinalizadoLSHD](https://t.me/animesfinalizadoLSHD), [AnimeDark17](https://t.me/AnimeDark17)
+[Animes480pFinalizados](https://t.me/Animes480pFinalizados), [AndrossElLegado](https://t.me/AndrossElLegado), [animes_kawais](https://t.me/animes_kawais), [SimplementeAnime](https://t.me/SimplementeAnime), [animesfinalizadoLSHD](https://t.me/animesfinalizadoLSHD), [AnimeDark17](https://t.me/AnimeDark17)
 
 ***
 
@@ -2506,7 +2505,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Subreddit Discovery
 
-[/r/DiscoverReddit Index](https://www.reddit.com/r/DiscoverReddit/wiki/index), [/r/Serendipity](https://www.reddit.com/r/Serendipity), [/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/), [/r/mistyfront](https://www.reddit.com/r/mistyfront/), [/r/wowthissubexists](https://www.reddit.com/r/wowthissubexists/), [/r/findareddit](https://www.reddit.com/r/findareddit/), [/r/trendingsubreddits](https://www.reddit.com/r/trendingsubreddits), [/r/TrendingReddits/](https://www.reddit.com/r/TrendingReddits/), [subreddit_map](http://www.jacobsilterra.com/subreddit_map/network/index.html), [SubredditMentionsGraph](https://dmarx.github.io/SubredditMentionsGraph/network/), [redditviz](http://rhiever.github.io/redditviz/clustered/), [Subreddit User-Overlap](https://subredditstats.com/subreddit-user-overlaps/)
+[/r/DiscoverReddit Index](https://www.reddit.com/r/DiscoverReddit/wiki/index), [/r/Serendipity](https://www.reddit.com/r/Serendipity), [/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/), [/r/wowthissubexists](https://www.reddit.com/r/wowthissubexists/), [/r/findareddit](https://www.reddit.com/r/findareddit/), [/r/trendingsubreddits](https://www.reddit.com/r/trendingsubreddits), [/r/TrendingReddits/](https://www.reddit.com/r/TrendingReddits/), [subreddit_map](http://www.jacobsilterra.com/subreddit_map/network/index.html), [SubredditMentionsGraph](https://dmarx.github.io/SubredditMentionsGraph/network/), [redditviz](http://rhiever.github.io/redditviz/clustered/), [Subreddit User-Overlap](https://subredditstats.com/subreddit-user-overlaps/)
 
 ***
 
@@ -2587,11 +2586,8 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/anidlws
 * https://t.me/AnimeCrunch
 * https://t.me/Anime_Library
-* https://t.me/Anime_4u_Geng
 * https://t.me/for_otaku
 * https://t.me/Any_Animebot
-* https://t.me/anime_everywhere
-* https://t.me/AnimeList
 * http://t.me/AUTOxANIME/2
 * https://t.me/AutoAnimeBot
 * https://t.me/AnimeGuardian_bot
@@ -2601,25 +2597,16 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/AnimeIndexOfficial
 * https://t.me/myanimetvbot
 * https://t.me/otakulounge
-* https://t.me/TGanimehaku 
 * https://t.me/animeinc
 * https://t.me/AnimeTeleNS
-* https://t.me/Animewatching
 * https://t.me/anime_a_to_z
-* https://t.me/AnimeSeries
-* https://t.me/Anime4uGeng_List
 * https://t.me/Anime_Flix_Pro
 * https://t.me/Animereq45
 * https://t.me/Anime_1080p_720p_480p
 * https://t.me/Animeworld001
-* https://t.me/AnimeRG
-* https://t.me/AnimeWorldOngoing
-* https://t.me/AnimeFiles
 * https://t.me/soulreaperzone
-* https://t.me/AnimeFiles
 * https://t.me/AnimeKingdomX
 * https://t.me/Kingdomofanimeseries
-* https://t.me/AnimeMoviesOtaku
 * https://t.me/AnimeLibrary_Movies
 * https://t.me/animemovies
 * https://t.me/Ongoing_animes
@@ -2630,26 +2617,14 @@ Add the following commands to a search to manually scrape each site.
 
 * https://t.me/BOOK_HOUSE_INTERNATIONAL
 * https://t.me/AudiobooksArchive
-* https://t.me/eng_audiobooks
-* https://t.me/ebookz
 * https://t.me/Audiobooks_Collection
 * https://t.me/TheBestAudible
-* https://t.me/Audiobookclassic
-* https://t.me/Audiobookclassic
 * https://t.me/audiobookjunkie
 * https://t.me/audiobooks_English
-* https://t.me/Audiobooks_uk
-* https://t.me/blarkhive
 * https://t.me/books_in_english_free
 * https://t.me/Ebooks_AudioBooks
-* https://t.me/eng_audiobooks
 * https://t.me/online_audiobooks
-* https://t.me/TheAudiobookStop
-* https://t.me/UnLibrary 
-* https://t.me/audioboookz
 * https://t.me/Audoroom
-* https://t.me/GroupAudio
-* https://t.me/selfhelpaudiobook
 
 ***
 
@@ -2667,8 +2642,6 @@ Add the following commands to a search to manually scrape each site.
 * [FLAC Album](https://t.me/FLAC_DSD_LOSSLESS_HIRES) - FLAC
 * [Music_Hunters](https://t.me/Music_Hunters)
 * [/Music](https://t.me/music)
-* [FlacStoreBot](https://t.me/FlacStoreBot) - MP3 / FLAC
-* [Musicassistbot](https://t.me/Musicassistbot) - MP3
 * [musicder_bot](https://t.me/musicder_bot) - MP3
 * [musical_freely](https://t.me/musical_freely) - MP3
 * [DeezEmpireBot](https://t.me/DeezEmpireBot) - MP3 / FLAC
@@ -2691,10 +2664,7 @@ Add the following commands to a search to manually scrape each site.
 * [YouTube Audio Download](https://t.me/YoutubeAudioDownloadBot) - YouTube
 * [TidalMusic_DLbot](https://t.me/TidalMusic_DLbot) - Tidal
 * [VK Bot](https://t.me/vkmsaverbot) - VK 
-* [VKM Bot](https://t.me/vkm_bot) - VK 
 * [Meph Bot](https://t.me/mephbot) - VK 
-* [vkm4bot](https://t.me/vkm4bot) - VK f
-* [vkmusic_bot](https://t.me/vkmusic_bot) - VK
 * [yamdbot](https://t.me/yamdbot) - Yandex 
 * [MP3 downloader](https://t.me/TG_mp3downloader_bot) - Multi Site 
 * [scdlbot](https://t.me/scdlbot) - Multi Site 
@@ -2741,7 +2711,6 @@ Add the following commands to a search to manually scrape each site.
 
 #### Telegram eBook Download
 
-* https://t.me/Ebooks254
 * https://t.me/BOOK_HOUSE_INTERNATIONAL
 * https://t.me/Ebooks_Encyclopedia27
 * https://t.me/Books_worldd
@@ -2749,11 +2718,9 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/free_ebooks_pdfs
 * https://t.me/English_Hindi_Novels_Magazine
 * https://t.me/BooksThief
-* https://t.me/FreeNovelsGroup
 * https://t.me/iBooks_Bot
 * https://t.me/booksmania
 * https://t.me/livresdomainepublic
-* https://t.me/bkcrushfilesbot
 * https://t.me/bookdownbot
 * https://t.me/ebooksdlbot
 * https://t.me/libsan_bot
@@ -2778,19 +2745,15 @@ Add the following commands to a search to manually scrape each site.
 * [Remux_2160P](https://t.me/Remux_2160P) - 4K Movies
 * [Rare Films](https://t.me/rarefilms) - Movies 
 * [MoviesVerse](https://t.me/MoviesHomeOFFICIALS) - Movies / TV 
-* [SeriesArchiveX](https://t.me/SeriesArchiveX) - Movies / TV
 * [Rarefilmsbot](https://t.me/Rarefilmsbot) - Movies 
 * [Cracked_Movies_Hindi](https://t.me/Cracked_movies) - Movies
 * [Mobile movies request bot](https://t.me/cc_mmrequestbot) - Movies / 480p 
 * [AWMHG](https://t.me/all_world_movies_here_group) - Movies
-* [MoviesX_support](https://t.me/MoviesX_support) - Movies
-* [request_movies_group](https://t.me/request_movies_group) - Movies
 * [iPapkornBot](https://t.me/iPapkornBot) - Movies
 * [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies
 * [ZestFlix](https://t.me/+vxfKtaB4sXtmNjY1) - Movies / TV / [Archives](https://t.me/+iuTSrLAp27c4OTE1)
 * [TVSeriesArchive](https://t.me/TvSeriesArchive) - TV
 * [pre_code](https://t.me/pre_code) - Classic
-* [StommeFilms](https://t.me/StommeFilms) - Classic
 * [ZwartwitFilms](https://t.me/ZwartwitFilms) - Classic
 * [CartoonLibrary](https://t.me/CartoonLibrary) - Cartoons
 * [Cartoon_Index](https://t.me/Cartoon_Index) - Cartoons
@@ -2927,34 +2890,23 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/TorrentBots (List)
 * https://t.me/kltorrents 
 * https://t.me/torrent_drive_direct_llinks_bot
-* https://t.me/TorrentXbot
 * https://t.me/torrentdrive_bot
-* https://t.me/tgpublicdrive
-* https://t.me/publicdrive
 * https://t.me/torrent_2_drive
 * https://t.me/torrent_drive
-* https://t.me/XtremeCloud 
 * https://t.me/torrentbcloudnew
 * https://t.me/mirrorLeechTelegramBot
-* https://t.me/vipercloud 
 * https://t.me/Punishercloud
 * https://t.me/KS_LeechStore1
 * https://t.me/TorrentLeech_v 
 * https://t.me/torrent_mirror_drive
 * https://t.me/slfilmtv
-* https://t.me/ARTEMiSLeech 
 * https://t.me/torrent_uploader
 * https://t.me/Punisherdiscussion
-* https://t.me/torrent_leech
 * https://t.me/RakaPublicLeech
 * https://t.me/TorrentPadu
 * https://t.me/joinchat/Uq7xK07NNu2v4efS
-* https://t.me/torrentogdrive23
-* https://t.me/torrent_magnet
 * https://t.me/gtorr
 * https://t.me/requestinggroup
-* https://t.me/UniComTorrent 
-* https://t.me/TorrentMir
 * https://github.com/yash-dk/TorToolkit-Telegram
 * https://pythonrepo.com/repo/ayushteke-slam_aria_mirror_bot_HEROKU
 * https://github.com/ogkunald/Torrent-Drive-Telegram-Bot-Using-Colab
@@ -3131,7 +3083,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 **Telegram Wallpaper Channels** 
 
-[wallpapers](https://t.me/wallpapers/), [ull_HD_4K_wallpapers](https://t.me/Full_HD_4K_wallpapers/), [WallpapersGram4K](https://t.me/WallpapersGram4K), [WallpapersGram](https://t.me/WallpapersGram/), [picsart_hd_background](https://t.me/picsart_hd_background), [wallpaper_profilei](https://t.me/wallpaper_profilei/), [Anime_WallpapersHD](https://t.me/Anime_WallpapersHD/), [allwallpaper](https://t.me/allwallpaper), [Wallpaper](https://t.me/Wallpaper), [ZedgeImagesBot](https://t.me/ZedgeImagesBot), [picsart_hd_background](https://t.me/picsart_hd_background), [wallpaperselection](https://t.me/wallpaperselection) [Hk3To](https://t.me/Hk3To) [jianoliuwalls](https://t.me/jianoliuwalls) [G_Walls](https://t.me/G_Walls) [EZwalls](https://t.me/EZwalls), [pengwyn](https://t.me/pengwyn), [Quotes_Wallpapers](https://t.me/Quotes_Wallpapers), [wallpapersite](https://www.wallpapersite.com/)
+[wallpapers](https://t.me/wallpapers/), [ull_HD_4K_wallpapers](https://t.me/Full_HD_4K_wallpapers/), [WallpapersGram](https://t.me/WallpapersGram/), [picsart_hd_background](https://t.me/picsart_hd_background), [Anime_WallpapersHD](https://t.me/Anime_WallpapersHD/), [allwallpaper](https://t.me/allwallpaper), [Wallpaper](https://t.me/Wallpaper), [ZedgeImagesBot](https://t.me/ZedgeImagesBot), [picsart_hd_background](https://t.me/picsart_hd_background), [wallpaperselection](https://t.me/wallpaperselection) [Hk3To](https://t.me/Hk3To) [jianoliuwalls](https://t.me/jianoliuwalls) [G_Walls](https://t.me/G_Walls) [EZwalls](https://t.me/EZwalls), [pengwyn](https://t.me/pengwyn), [Quotes_Wallpapers](https://t.me/Quotes_Wallpapers), [wallpapersite](https://www.wallpapersite.com/)
 
 **Wallpaper Managers**
 
