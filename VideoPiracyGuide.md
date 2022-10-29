@@ -16,7 +16,6 @@
 * ⭐ **[Soap2Day](https://soapgate.org/)** - Movies / TV
 * ⭐ **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * ⭐ **[Ask4movies](https://ask4movie.mx/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
-* ⭐ **[Oligopoly](https://olgply.com/)** - Movies / TV
 * ⭐ **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
 * ⭐ **[C1NE](https://c1ne.co/)** - Movies / TV
 * ⭐ **[HDMovieBox](https://hdmoviebox.org/)** - Movies
@@ -47,6 +46,7 @@
 * [PressPlay](https://www.pressplay.top/) - Movies / TV
 * [StreamLord](http://www.streamlord.com/) - Movies / TV
 * [UniqueStream](https://uniquestream.net/) - Movies / TV
+* [Oligopoly](https://olgply.com/) - Movies / TV
 * [Trailers.to](https://trailers.to/) - Movies / TV / [Bypass Quota](https://openvideofs.github.io/)
 * [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://i.imgur.com/Ij8muns.mp4)
 * [9PM](https://9pm.to/) - Movies / TV
