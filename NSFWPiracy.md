@@ -145,7 +145,6 @@
 * [destructiveaddiction](https://t.me/destructiveaddiction) - Telegram
 * @PornMirror - Telegram
 * [KinkBot](https://kinkbot.me/), [Boob Bot](https://www.boobbot.us/) or [multporn-image-downloader-v2](https://github.com/Official-Husko/multporn-image-downloader-v2) - Porn Image Downloader
-* [NSFWDownloader](https://github.com/h110m/NSFWDownloader) - Porn Downloader
 * [Pornhub DL Script](https://redd.it/ks5sba), [TubeOffline](https://www.tubeoffline.com/download-PornHub-videos.php) or [Savido Pornhub](https://www.savido.net/sites/pornhub) - Pornhub Downloader
 * [FC2 Gather](https://github.com/supsupsuperstar/fc2_gather) - FC2 Image Scraper
 
@@ -262,7 +261,7 @@
 * [TachiyomiSY](https://tachiyomi.org/forks/TachiyomiSY/) - Android Hentai
 * [EhViewer](https://gitlab.com/NekoInverter/EhViewer) - Android Hentai
 * [Violet](https://github.com/project-violet/violet) - Android Hentai/ [Discord](https://discord.com/invite/fqrtRxC)
-* [Hentoid](https://github.com/avluis/Hentoid) or [Hendroid](https://www.f-droid.org/en/packages/org.nonononoki.hendroid/) - Android Hentai
+* [Hentoid](https://github.com/avluis/Hentoid) - Android Hentai
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - Booru Client / [Telegram](https://t.me/Flexbooru/161)
 * [pandaforever](https://gitlab.com/squishydreams/pandaforever), [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) or [Panda Chaika](https://panda.chaika.moe/) [nhentai](https://github.com/RicterZ/nhentai) - Hentai Downloader
 * [/cumg/](https://rentry.co/coom) - Hentai Tools
@@ -307,7 +306,6 @@
 * [Bypass Subreddit Blocks](https://pastebin.com/gAAEQnqn) 
 * [Bypass Age Verification](https://greasyfork.org/en/scripts/393525-bypass-age-verification-deviantart-com) - Bypass Deviantart Age Restriction
 * [Sleazy Fork](https://sleazyfork.org/) - Adult User Scripts
-* [Powrcord Sauce](https://github.com/SammCheese/powercord-sauce) - Powercord Sauce Plugin
 * [asciiplayer](https://gist.github.com/girst/5834f8e8ba92b42c2c61) - PornHub ASCII Player
 * [Awesome-Buttplug](https://github.com/buttplugio/awesome-buttplug) - Buttplug Project Index
 * [Buttplug.io](https://buttplug.io/) - Sex Toy Control Software
