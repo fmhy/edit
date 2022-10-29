@@ -375,7 +375,7 @@
 * [OpenRA](https://openra.net/) - Command & Conquer Recreation 
 * [NolfRevival](http://nolfrevival.tk/) - NOLF, NOLF 2 & Contract Jack
 * [DFWorkshop](https://www.dfworkshop.net/) - Daggerfall Unity Engine Port
-* [OpenMW](https://openmw.org/en/) - Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/openmw-tes3mp/) / [Android](https://github.com/xyzz/openmw-android)
+* [OpenMW](https://openmw.org/en/) - Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/openmw-tes3mp/)
 * [WannabeThesis](https://lerppu.net/wannabethesis/) - Retro Game Ports
 * [NBlood](https://github.com/nukeykt/NBlood) - Reverse-Engineered Ports of Build Games
 * [Classic DOOM](http://classicdoom.com/) - Classic Doom Downloads 
