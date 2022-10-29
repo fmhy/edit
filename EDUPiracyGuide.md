@@ -732,6 +732,7 @@ Simulator
 * [BrainPOP Jr.](https://jr.brainpop.com/) - Quizzes / Animations
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - 5-Minute Audio Lessons / iOS
 * [Lucid](https://apps.apple.com/us/app/lucid-learn-visually/id1482780647) - Visual Learning Guides / iOS
+* [Stuack](https://github.com/isanchop/stuhack) - Premium Study Notes
 * [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
 * [The SAT: Practice Test 3](https://collegereadiness.collegeboard.org/pdf/sat-practice-test-3.pdf) - SAT Practice Tests
 * [SAT Reading](https://rentry.co/satreading) - Suggested SAT Reading
