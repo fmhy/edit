@@ -42,7 +42,6 @@
 * [Directory Lister](https://directorylister.com/) or [OpenDirectoryDownloader](https://open-directory-downloader.herokuapp.com/) - Open Directory Explorer
 * [IRC / XDCC Tutorial](https://www.theloadguru.com/xdcc-irc-beginners-guide/), [2](https://github.com/mayfrost/guides/blob/master/IRC.md), [3](https://libera.chat/guides/)
 * [Awesome IRC](https://github.com/davisonio/awesome-irc) - IRC Resource Index
-* [xdccget](https://github.com/Fantastic-Dave/xdccget) - XDCC IRC Downloader
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - Search Pastebin Directories
 * [Data Horde](https://datahorde.org/) - Data Archivist Group
 * [CD.TextFiles](http://cd.textfiles.com/) - CD Text File Archive
@@ -107,7 +106,6 @@
 * [DLWarez](http://dlwarez.xyz/) or [WarezLover](https://warezlover.xyz/) - Video / Audio / Software / Games / Android / Roms / Books / Magazines 
 * [heroturko.net](https://www.heroturko.net/) - Video / Audio / Software / Games / Books / Magazines / Android 
 * [IRfree](http://irfree.org/) - Video / Audio / Software / Games / Books / NSFW
-* [PirateHub](https://piratedhub.com/) - Software / Android / Books / Games / Courses  
 * [4Shared](https://www.4shared.com/) - Video / Audio / Games / Software / Android
 * [2013Zone](http://www.2013zone.com/) - Video / Audio / Games / Software
 * [TwistyDownload](http://www.twistysdownload.com) - Video / Audio / Games / Software
@@ -142,7 +140,7 @@
 ## ▷ Search Sites
 
 * ⭐ **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Multi-Site Search
-* ⭐ **[ZippyShareSearch](https://zippysharesearch.com/)** or [ZippyShareFinder](https://zippysharefinder.com/) - Search Zippyshare / [DL Script](https://github.com/AvinashReddy3108/zippydl) / [URL Parser](https://github.com/GrowAsguard/zippyshare_url_parser), [2](https://github.com/JrMasterModelBuilder/zs-extract) 
+* ⭐ **[ZippyShareSearch](https://zippysharesearch.com/)** or [ZippyShareFinder](https://zippysharefinder.com/) - Search Zippyshare / [DL Script](https://github.com/AvinashReddy3108/zippydl) / [URL Parser](https://github.com/JrMasterModelBuilder/zs-extract) 
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
 * [FilePursuit](https://filepursuit.com) - [Discord](https://discord.gg/xRfFd8h)
 * [scnlog](https://scnlog.me/)
@@ -348,7 +346,6 @@
 * [Grafixfather](https://www.grafixfather.com/)
 * [Graphicex](https://graphicex.com/)
 * [PSDKeys](https://psdkeys.com/)
-* [GFX-Hub](https://gfx-hub.net/)
 * [GoDownloads](https://godownloads.net/) 
 * [GFXDownload](http://gfxdownload.com/)
 * [Uparchip](https://www.uparchvip.com/category/free-content/)
@@ -387,7 +384,7 @@
 * [eMule](https://www.emule-project.net/) or [eMule Plus](https://sourceforge.net/projects/emuleplus/) - File Sharing App
 * [Shareaza P2P](http://shareaza.sourceforge.net/) - File Sharing App
 * [WinMX](https://patch.winmxconex.com/) - File Sharing App / [Forum](https://forum.winmxworld.com/)
-* [AirDC++](https://www.airdcpp.net/) - File Sharing App / [GUI](https://www.flylinkdc.com/), [2](https://github.com/eiskaltdcpp/eiskaltdcpp)
+* [AirDC++](https://www.airdcpp.net/) - File Sharing App / [GUI](https://github.com/eiskaltdcpp/eiskaltdcpp)
 * [WireShare](https://sourceforge.net/projects/wireshare/) - File Sharing App / LimeWire Fork 
 * [Telegram Download Channels](https://piracy.now.sh/telegram/) - Download files from telegram
 * [TGMoviesBot](https://t.me/TGMoviesBot) - Telegram File Search Bot 
