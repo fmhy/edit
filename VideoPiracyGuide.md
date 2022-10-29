@@ -22,9 +22,11 @@
 * ⭐ **[Movies.cf](https://movies.cf/Landing)** - Movies
 * ⭐ **[FreeTubeSpot](https://www.freetubespot.com/)** - Movies
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
+* ⭐ **[Tubi](https://tubitv.com)** - Movies / TV / Use Adblock / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
 * [SockShare](http://sockshare.ac/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones) / Use Adblock
 * [NetU](https://netu.io/view_page.php?pid=4) - Movies / TV / / Anime / [Search](https://i.imgur.com/SiYyosZ.mp4) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)
 * [OpenloadMovies](https://openloadmov.net/) or [Yify TV](https://yify.plus/) - Movies / TV
+* [Oligopoly](https://olgply.com/) - Movies / TV
 * [UltraMovies](https://ultramovies.net/) - Movies / TV
 * [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime
 * [Vumoo](https://vumoo.to/) - Movies / TV
@@ -34,7 +36,6 @@
 * [Gophie](https://gophie.cam/) - Movies / TV
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - Movies / TV / Anime
 * [Mov.onl](https://www.mov.onl/) - Movies / TV
-* [Tubi](https://tubitv.com) - Movies / TV / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
 * [Archive](https://archive.org/) - Movies / TV
 * [Plex](https://watch.plex.tv/) - Movies / TV
 * [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / Library Card Required
@@ -46,7 +47,6 @@
 * [PressPlay](https://www.pressplay.top/) - Movies / TV
 * [StreamLord](http://www.streamlord.com/) - Movies / TV
 * [UniqueStream](https://uniquestream.net/) - Movies / TV
-* [Oligopoly](https://olgply.com/) - Movies / TV
 * [Trailers.to](https://trailers.to/) - Movies / TV / [Bypass Quota](https://openvideofs.github.io/)
 * [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://i.imgur.com/Ij8muns.mp4)
 * [9PM](https://9pm.to/) - Movies / TV
@@ -151,7 +151,7 @@
 * [Openload Movies](https://openloadmovies.ch/) - Movies
 * [Vexmovies.space](http://vexmovies.space/) - Movies
 * [Lovemovie](https://lovemovie.org/) - Movies / TV
-* [DutaFilm](https://dutafilm.xyz/) - Movies / TV / Anime / Use Adblocker
+* [DutaFilm](https://dutafilm.xyz/) - Movies / TV / Anime / Use Adblock
 * [OpenCulture](https://www.openculture.com/freemoviesonline) - Movies
 * [CimaClub](https://www.cimaclub.cc/category/%D8%A3%D9%81%D9%84%D8%A7%D9%85-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A-%D9%85%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%A7%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [MovieFFM](https://www.movieffm.net/), [2](https://movieffm.cc/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -382,8 +382,9 @@
 * [Animeow.me](https://animeow.me/) - Sub / Dub
 * [Anime OWL](https://animeowl.net/home/) - Sub / Dub
 * [AnimeCruzers](https://animecruzers.me/) - Sub / Dub
-* [AnimeGo](https://animego.se/) - Sub / Dub 
-* [ChiaAnime.cc](https://chia-anime.cc/) - Sub 
+* [AnimeGo](https://animego.se/) - Sub / Dub
+* [ChiaAnime](https://chia-anime.su/) - Sub
+* [ChiaAnime.cc](https://chia-anime.cc/) - Sub
 * [AnimeXin](https://animexin.xyz/) - Sub
 * [AnimeTV](https://animetv.cc/) - Sub / Dub
 * [6ani](https://6ani.me/) - Sub
