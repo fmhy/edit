@@ -521,7 +521,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ⭐ **[Design Resources](https://rentry.co/dt92f)**
 
-[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [ImCreator](http://www.imcreator.com/free), [DesignBundles](https://designbundles.net/free-design-resources), [DesignResources](https://designresourc.es/), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [SketchRepo](https://sketchrepo.com/), [Interfaces](https://interfacer.xyz/), [Freebiesbug](http://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Envato Elements Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_envato_elements_collection), [CreativeFabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/), [Evernote.Design](https://www.evernote.design/), [gfxtra31](https://www.gfxtra31.com/), [xsgames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [uistore](https://www.uistore.design/), [charco](https://www.charco.design/), [craftwork](https://craftwork.design/freebies/), [pixelbuddha](https://pixelbuddha.net/), [Squax](https://t.me/squaxassets), [designlab](https://t.me/designlabb), [All4Designer](https://t.me/all4designer) ,[Kropes editing leak](https://discord.gg/bMmqQdXAhp)
+[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [ImCreator](http://www.imcreator.com/free), [DesignBundles](https://designbundles.net/free-design-resources), [DesignResources](https://designresourc.es/), [UIOnline](https://uionline.io/), [psddd](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [SketchRepo](https://sketchrepo.com/), [Interfaces](https://interfacer.xyz/), [Freebiesbug](http://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Envato Elements Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_envato_elements_collection), [CreativeFabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/), [Evernote.Design](https://www.evernote.design/), [gfxtra31](https://www.gfxtra31.com/), [xsgames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [uistore](https://www.uistore.design/), [charco](https://www.charco.design/), [craftwork](https://craftwork.design/freebies/), [pixelbuddha](https://pixelbuddha.net/), [Squax](https://t.me/squaxassets), [designlab](https://t.me/designlabb), [All4Designer](https://t.me/all4designer), [Kropes editing leak](https://discord.gg/bMmqQdXAhp)
 
 ***
 
@@ -578,7 +578,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * ⭐ **[Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)**
 * ⭐ **[IsItDownRightNow](https://www.isitdownrightnow.com/)**
 
-[IsThisServiceDown](https://istheservicedown.com/), [down.com](https://down.com/), [DownDetector](https://downdetector.com/), [websitedown](http://www.websitedown.info/), [isitup](https://isitup.org/)
+[IsThisServiceDown](https://istheservicedown.com/), [down.com](https://down.com/), [DownDetector](https://downdetector.com/), [websitedown](http://www.websitedown.info/), [isitup](https://isitup.org/), [updownradar](https://updownradar.com/)
 
 ***
 
@@ -964,11 +964,12 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 #### Git Projects
 
 * [/r/coolgitlabprojects](https://reddit.com/r/coolgitlabprojects) - GitLab Project Indexes
-* [git:logs](https://www.gitlogs.com/), [Awesome Made by Russians](https://github.com/igoradamenko/awesome-made-by-russians), [Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians), [awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps), [opensauced](https://hot.opensauced.pizza/), [Awesome Stars](https://githubmemory.com/repo/abhijithvijayan/awesome-stars), [LibHunt](https://www.libhunt.com/), [RepoHunt](https://repo-hunt.signalnerve.workers.dev/), [/r/coolgithubprojects](https://reddit.com/r/coolgithubprojects) - Github Project Indexes
+* [git:logs](https://www.gitlogs.com/), [Awesome Made by Russians](https://github.com/igoradamenko/awesome-made-by-russians), [Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians), [awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps), [opensauced](https://hot.opensauced.pizza/), [Awesome Stars](https://githubmemory.com/repo/abhijithvijayan/awesome-stars), [LibHunt](https://www.libhunt.com/), [RepoHunt](https://repo-hunt.signalnerve.workers.dev/, [freesoft](https://freesoft.dev/), [/r/coolgithubprojects](https://reddit.com/r/coolgithubprojects) - Github Project Indexes
 * [Active Github Forks](https://techgaun.github.io/active-forks/) - List of active github forks
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) - View a Repositories Forks 
-* [Git Search Engine](https://zzollo.co/) - Search GitHub, GitLab etc.
+* [Git Search Engine](https://zzollo.co/) or [GitHub Memory](https://githubmemory.com/) - Search GitHub, GitLab etc.
 * [OSAlternative](http://www.osalternative.com/) - Git Project Search
+* [ReleasEye](https://releaseeye.info/) - Git Project Release Tracker
 
 ***
 
@@ -2105,7 +2106,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Reddit Frontends
 
-[xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [Saturnus](https://saturnusapp.com/), [Inccogsnoo](https://incogsnoo.com/), [teddit](https://teddit.net/) / [2](https://codeberg.org/teddit/teddit), [troddit](https://www.troddit.com/), [kddit](https://kddit.kalli.st/), [ferrit](https://github.com/ferritreader/ferrit)
+[xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [Saturnus](https://saturnusapp.com/), [Inccogsnoo](https://incogsnoo.com/), [teddit](https://teddit.net/) / [2](https://codeberg.org/teddit/teddit), [troddit](https://www.troddit.com/), [kddit](https://kddit.kalli.st/), [ferrit](https://github.com/ferritreader/ferrit), [libreddit](https://rentry.org/libredditclones) / [2](https://reddit.512mb.org/) / [3](https://libreddit.librenesia.com/) / [4](https://libreddit.aosus.org/) / [5](https://lr.mint.lgbt/)
 
 ***
 
@@ -2428,15 +2429,17 @@ Add the following commands to a search to manually scrape each site.
 
 **Legit Downloaders**
 
-[Soggfy](https://github.com/Rafiuth/Soggfy) / [Discord](https://discord.gg/gjqrP5PB8g), [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot), [CLSpotify](https://agent255.github.io/clspotifyweb/) / [GitHub](https://github.com/agent255/clspotify), [spotify_sync](https://github.com/jbh-cloud/spotify_sync), [OnTheSpot](https://github.com/casualsnek/onthespot)
+* ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** / [Discord](https://discord.gg/gjqrP5PB8g)
 
-**Spotify YouTube Downloaders** 
+[Spotify Downloaders](https://github.com/topics/spotify-downloader) / [2](https://www.libhunt.com/r/spotify-downloader) / [3](https://pastebin.com/0KGpnb39), [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot), [CLSpotify](https://agent255.github.io/clspotifyweb/) / [GitHub](https://github.com/agent255/clspotify), [spotify_sync](https://github.com/jbh-cloud/spotify_sync), [OnTheSpot](https://github.com/casualsnek/onthespot), [SPOTYdl](https://github.com/GabiBrawl/SPOTYdl)
 
-[Savify](https://github.com/LaurenceRawlings/savify), [Spotify-DL](https://github.com/SathyaBhat/spotify-dl), [Sidify](https://sidify.com/), [spotDL](https://github.com/spotDL/spotify-downloader), [Syncify](https://github.com/FindMalek/Syncify) (Playlists), [FreyrJS](https://github.com/miraclx/freyr-js), [AllToMP3](https://alltomp3.org/), [Spotifast](https://github.com/seroteunine/Spotifast)
+**Spotify YouTube Downloaders ** 
+
+[Savify](https://github.com/LaurenceRawlings/savify), [Spotify-DL](https://github.com/SathyaBhat/spotify-dl), [Sidify](https://sidify.com/), [spotDL](https://github.com/spotDL/spotify-downloader), [Syncify](https://github.com/FindMalek/Syncify) (Playlists), [FreyrJS](https://github.com/miraclx/freyr-js), [AllToMP3](https://alltomp3.org/), [Spotifast](https://github.com/seroteunine/Spotifast), [Spotify Downloader](https://spotify-downloader.com/), [spotify-downloader](https://github.com/rickyrorton/spotify-downloader)
 
 **Telegram Bots**
 
-[Spotdlrobot](https://t.me/Spotdlrobot), [Spotify Music Downloader](https://t.me/joinchat/DdR2SUvJPBouSW4QlbJU4g), [pymusicdl](https://github.com/insaiyancvk/pymusicdl), [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl), [Spotify_downloa_bot](https://t.me/Spotify_downloa_bot) 
+[Spotdlrobot](https://t.me/Spotdlrobot), [Spotify Music Downloader](https://t.me/joinchat/DdR2SUvJPBouSW4QlbJU4g), [pymusicdl](https://github.com/insaiyancvk/pymusicdl), [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl), [Spotify_downloa_bot](https://t.me/Spotify_downloa_bot), [Music_Downloader_Bot_Spotify](https://t.me/Music_Downloader_Bot_Spotify) 
 
 **Recorders** 
 
@@ -3087,7 +3090,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 **Wallpaper Managers**
 
-[Wallpaper Engine](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wallpaper_engine) / [PKG to Zip](https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip), [SuperDuperWallpaper](https://gitlab.com/sech1p/superduperwallpaper), [ScreenPlay](https://screen-play.app/), [backiee](https://www.microsoft.com/en-in/p/backiee-wallpaper-studio-10/9wzdncrfhzcd?activetab=pivot:overviewtab), [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper), [Daily Bing Wallpaper](https://github.com/sfn101/bing-daily-lively-wallpaper), [Awesome Wallpaper](http://awesome-wallpaper.com/), [tanck.nl](https://tanck.nl/wallpaper/)
+[Wallpaper Engine](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wallpaper_engine) / [PKG to Zip](https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip), [ScreenPlay](https://screen-play.app/), [backiee](https://www.microsoft.com/en-in/p/backiee-wallpaper-studio-10/9wzdncrfhzcd?activetab=pivot:overviewtab), [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper), [Daily Bing Wallpaper](https://github.com/sfn101/bing-daily-lively-wallpaper), [Awesome Wallpaper](http://awesome-wallpaper.com/), [tanck.nl](https://tanck.nl/wallpaper/)
 
 * [Wallery](https://github.com/metafates/Wallery) - Display Wallpapers
 * [Faerber](https://farbenfroh.io/faerber) - Edit Wallpaper to Match Color Scheme
@@ -3267,7 +3270,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 #### YouTube Frontends
 
-[Invidious](https://invidious.io/) / [2](https://tube.cadence.moe/) / [3](https://redirect.invidious.io/) / [4](https://inv.riverside.rocks/feed/popular) / [Instances](https://api.invidious.io/) / [TUI](https://github.com/darkhz/invidtui), [FreeTubeApp](https://freetubeapp.io/), [ViewTube](https://viewtube.io/) / [GitHub](https://github.com/ViewTube/viewtube-vue), [Piped](https://github.com/TeamPiped/Piped), [2](https://piped.kavin.rocks/), [PSTube](https://github.com/prateekmedia/pstube), [Youtube-local](https://github.com/user234683/youtube-local), [tube.cadence](https://tube.cadence.moe/), [invuedious](https://github.com/bocchilorenzo/invuedious), [YTB](https://ytb.trom.tf/), [WebTube](https://webtubeapp.xyz/)
+[Invidious](https://invidious.io/) / [2](https://tube.cadence.moe/) / [3](https://redirect.invidious.io/) / [4](https://inv.riverside.rocks/feed/popular) / [Instances](https://api.invidious.io/), [2](https://invidio.us/) / [TUI](https://github.com/darkhz/invidtui), [FreeTubeApp](https://freetubeapp.io/), [ViewTube](https://viewtube.io/) / [GitHub](https://github.com/ViewTube/viewtube-vue), [Piped](https://github.com/TeamPiped/Piped), [2](https://piped.kavin.rocks/), [PSTube](https://github.com/prateekmedia/pstube), [Youtube-local](https://github.com/user234683/youtube-local), [tube.cadence](https://tube.cadence.moe/), [invuedious](https://github.com/bocchilorenzo/invuedious), [YTB](https://ytb.trom.tf/), [WebTube](https://webtubeapp.xyz/)
 
 ***
 
@@ -3297,7 +3300,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 * ⭐ **[YTMDL](https://ytmdl.deepjyoti30.dev/)** / [GitHub](https://github.com/deepjyoti30/ytmdl)
 * ⭐ **[Ripping Guide](https://redd.it/vv27dy)**
 
-[YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched), [Gramophy](https://github.com/rnayabed/gramophy), [YTMP3](https://ytmp3.ch/), [2](https://ytmp3.cc/), [3](https://ytmp3.eu/), [mps-youtube](https://github.com/mps-youtube/mps-youtube), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [YouTube to MP3 Converter](https://www.mediahuman.com/youtube-to-mp3/22/), [loader](https://loader.to/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [DeURL](http://deturl.com/), [Yout](https://yout.com/), [FLVto](https://www.flvto.biz/en83/), [FreeMake](https://www.freemake.com/free_video_downloader/), [AudioJack](http://blue9.github.io/AudioJack-GUI/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [onlinevideoconverter](https://onlinevideoconverter.pro/), [yt-mp3s](https://www.yt-mp3s.com/), [savemp3](https://savemp3.cc/), [mp3youtubeconverter](https://mp3youtubeconverter.org/), [mp3fy](https://mp3fy.com/en37/), [youtubeplaylist](https://youtubeplaylist.cc/), [musicmp3](https://musicmp3.ru/), [y2mp3](https://www.y2mp3.net/), [mp3quack](https://mp3quack.wiki/), [mpgun](https://mpgun.com/convert-mp3-mp4-compliant), [ymp4](https://www.ymp4.download/), [mp3download](https://mp3download.to), [snappea](https://www.snappea.com/en7/), [ytmp3x](https://ytmp3x.com/), [ytformp3](https://ytformp3.com/), [snappea](https://www.snappea.com/), [mp3.studio](https://mp3.studio/), [y2meta](https://www.y2meta.com/), [okmusi](https://okmusi.com/), [myfreemp3](https://myfreemp3.to/), [topsandtees](https://getx.topsandtees.space/1YZ7z886l5), [mp3download](https://mp3download.one/en3, [ytmp4converter](https://ytmp4converter.com/), [ytm-proxy](https://github.com/harmonoid/ytm-proxy), [c-youtube](https://www.c-youtube.com/), [YT-RED-UI](https://github.com/adanvdo/YT-RED-UI), [tubemp3](https://tubemp3.to/), [dirpy](https://dirpy.com/), [y2mate](https://y2mate.pw/), [YT_Downloaders](https://rentry.co/YT_Downloaders)
+[YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched), [Gramophy](https://github.com/rnayabed/gramophy), [YTMP3](https://ytmp3.ch/), [2](https://ytmp3.cc/), [3](https://ytmp3.eu/), [mps-youtube](https://github.com/mps-youtube/mps-youtube), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [YouTube to MP3 Converter](https://www.mediahuman.com/youtube-to-mp3/22/), [loader](https://loader.to/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [DeURL](http://deturl.com/), [Yout](https://yout.com/), [FLVto](https://www.flvto.biz/en83/), [FreeMake](https://www.freemake.com/free_video_downloader/), [AudioJack](http://blue9.github.io/AudioJack-GUI/), [megaconverter](https://megaconverter.net/), [videovor](https://www.videovor.com/en), [onlinevideoconverter](https://onlinevideoconverter.pro/), [yt-mp3s](https://www.yt-mp3s.com/), [savemp3](https://savemp3.cc/), [mp3youtubeconverter](https://mp3youtubeconverter.org/), [mp3fy](https://mp3fy.com/en37/), [youtubeplaylist](https://youtubeplaylist.cc/), [musicmp3](https://musicmp3.ru/), [y2mp3](https://www.y2mp3.net/), [mp3quack](https://mp3quack.wiki/), [mpgun](https://mpgun.com/convert-mp3-mp4-compliant), [ymp4](https://www.ymp4.download/), [mp3download](https://mp3download.to), [snappea](https://www.snappea.com/en7/), [ytmp3x](https://ytmp3x.com/), [ytformp3](https://ytformp3.com/), [snappea](https://www.snappea.com/), [mp3.studio](https://mp3.studio/), [y2meta](https://www.y2meta.com/), [okmusi](https://okmusi.com/), [myfreemp3](https://myfreemp3.to/), [topsandtees](https://getx.topsandtees.space/1YZ7z886l5), [mp3download](https://mp3download.one/en3, [ytmp4converter](https://ytmp4converter.com/), [ytm-proxy](https://github.com/harmonoid/ytm-proxy), [c-youtube](https://www.c-youtube.com/), [YT-RED-UI](https://github.com/adanvdo/YT-RED-UI), [tubemp3](https://tubemp3.to/), [dirpy](https://dirpy.com/), [y2mate](https://y2mate.pw/), [YT_Downloaders](https://rentry.co/YT_Downloaders), [soundloaders](https://www.soundloaders.com/)
 
 ***
 
