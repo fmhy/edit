@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/tuFZAJK.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/yRB5plO.png)** - For mobile users
 
 ***
 *** 
@@ -209,8 +209,12 @@
 
 ***
 
-# ► Price Tracking
+# ► Shopping
 
+* [RecoRank](https://recorank.com/) or [NanoReview](https://nanoreview.net/en) - Tech Reviews / Comparisons
+* [Reddit Favorites](https://redditfavorites.com/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product & Service Reviews
+* [Car.com](https://www.cars.com/research/compare/ ), [Vehicle Rankings](https://cars.usnews.com/cars-trucks/rankings), [Motor1](https://www.motor1.com/reviews/) or [Edmunds](https://www.edmunds.com/car-reviews/) - Vehicle Reviews / Comparisons
+* [carsized](https://www.carsized.com/) - Vehicle Size Comparisons
 * [CamelCamelCamel](https://camelcamelcamel.com/) - Amazon Price Tracker / [App](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno)
 * [GG.deals](https://gg.deals/) or [PSPrices](https://psprices.com/) - Game Price Trackers
 * [EpicGamesDC](https://epicgamesdb.info/) - Epic Store Price Tracker
@@ -234,6 +238,8 @@
 * [Type Hound](https://typohound.com/) - Ebay Typo Search
 * [Valuta EX](https://valuta.exchange/) - Currency Converter
 * [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
+* [GiftWhale](https://giftwhale.com/) - Wishlist Creator
+* [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Wii Shop Music on Shopping Sites
 
 ***
 
@@ -256,7 +262,7 @@
 * ⭐ **[The GIF Pronunciation Page](http://www.olsenhome.com/gif/)** - How to Pronouce "GIF"
 * ⭐ **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - Realistic-Looking Fake Versions of Things 
 * [GIFs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_gif_tools) - View / Download GIFs
-* [Funnyjunk](https://funnyjunk.com//), [f0ck](https://f0ck.me/), [ImgFlip](https://imgflip.com/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/, [IWasteSoMuchTime](https://www.iwastesomuchtime.com/), [iFunny](https://ifunny.co/), [Imageboard Scraper](https://nik.bot.nu/), [KongouCheats](https://kongoucheats.com/), [RandomWaffle](https://randomwaffle.gbs.fm/) or [Wimp.com](https://www.wimp.com/) - Images, Videos, Memes & GIFs / Some NSFW
+* [Funnyjunk](https://funnyjunk.com//), [f0ck](https://f0ck.me/), [ImgFlip](https://imgflip.com/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/, [IWasteSoMuchTime](https://www.iwastesomuchtime.com/), [iFunny](https://ifunny.co/), [Imageboard Scraper](https://nik.bot.nu/), [KongouCheats](https://kongoucheats.com/), [MemeGenerator](https://memegenerator.net/), [RandomWaffle](https://randomwaffle.gbs.fm/) or [Wimp.com](https://www.wimp.com/) - Images, Videos, Memes & GIFs / Some NSFW
 * [KnowYourMeme](https://knowyourmeme.com/) - Meme Database
 * [Copypasta Text](https://copypastatext.com/) - Copypasta Database
 * [wtf.rentry](https://wtf.rentry.co/) or [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
@@ -352,6 +358,7 @@
 * [Tamajoji](https://flixflox.itch.io/tamajoji) - Browser Tamagotchi
 * [Gifypet](https://gifypet.neocities.org/) - Create Your Own Cute Pet 
 * [20Q](http://www.20q.net/) or [Akinator](https://en.akinator.com/) - 20 Questions
+* [UpJoke](https://upjoke.com/) - Jokes for Any Topic
 * [DadJokeCLI](https://github.com/Anupya/dadjoke-cli) - Get Dad Jokes in Command Line
 * [Magic Crystal Ball](https://www.oproot.com/ball/) - Get Messages from Beyond
 * [70's TV Simulator](https://www.my70stv.com/), [80's](https://www.my80stv.com/), [90's](https://www.my90stv.com/) or [00's TV Simulator](https://www.my00stv.com/)
@@ -875,7 +882,7 @@
 * [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - Mindfulness / Stress Reduction Tips
 * [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
 * [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
-* [MediLog](https://gitlab.com/toz12/medilog) or [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds) - Medical Data Log
+* [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds) - Medical Data Log
 * [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - Insomnia Prevention Tips
 * [eXHALeR](https://www.xhalr.com/) - Yoga / Meditation Breathing Tool 
 * [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
@@ -1167,7 +1174,7 @@
 * [Tab for a Cause](https://tab.gladly.io/) - New Tabs = Charity Donation
 * [Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button) - Quickly Close All Tabs
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - Read Books in Browser
-* [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/), [Linguist Translator](https://github.com/translate-tools/linguist), [S3Translator](http://www.s3blog.org/s3translator.html), [DeepL Translator](https://chrislo.ca/deepl/) or [ImTranslator](https://imtranslator.net/) - Translator 
+* [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/), [Linguist Translator](https://github.com/translate-tools/linguist), [S3Translator](http://www.s3blog.org/s3translator.html), [DeepL Translator](https://chrislo.ca/deepl/), [Mate Translate](https://gikken.co/mate-translate) or [ImTranslator](https://imtranslator.net/) - Translation Extensions 
 * [Dictionaries](https://github.com/pnlpal/dictionaries), [phlinx](https://phlinx.com/) or [Definer](https://lumetrium.com/definer/) - Popup Dictionary 
 * [PantherBar](https://pantherbar-app.com/) or [BigSearch](https://github.com/garywill/BigSearch) - Context Search
 * [HyperSearch](https://github.com/abhinavsharma/hypersearch) - Search Result Sidebar
@@ -1187,7 +1194,6 @@
 * [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - Audio Recorder
 * [Mute Tab](https://mybrowseraddon.com/mute-tab.html) - Easily Mute All Tabs
 * [Web-Scrobbler](https://web-scrobbler.com/) - Scrobble with Last.fm, Libre.fm, etc.
-* [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Wii Shop Music on Shopping Sites
 * [Form History Control](https://stephanmahieu.github.io/fhc-home/), [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) or [Simple Form Fill](https://github.com/sblask/webextension-simple-form-fill) - Formfiller Managers
 * [Fake Data](https://www.fakedata.pro/) - Fill Forms With Fake Data
 * [xBrowserSync](https://www.xbrowsersync.org/) - Browser Syncing 
@@ -1394,7 +1400,6 @@
 * [Vasai](https://chrome.google.com/webstore/detail/vasai-free-screen-recorde/ppbdhdggkcfgcghiaimfknmfemkegleo) - Screen Recorder
 * [SmartShot](https://chrome.google.com/webstore/detail/smartshot/edjbamdongkhmagbpppagfjbcojajeae/related?hl=en) - Take Screenshots
 * [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en) - Color Picker
-* [Mate Translate](https://gikken.co/mate-translate/chrome/) - Translator
 * [SiteScrubber](https://chrome.google.com/webstore/detail/sitescrubber/ffadalgofahhohaciekjchkikcglcpla) - Hide Offensive/Swear Words on Sites
 * [Show Keys](https://chrome.google.com/webstore/detail/show-keys/bkcpmidbgmfbbeanejhepkjakagfaaon) - Show Keys As You Type
 * [Typio Form Recovery](https://typiorecovery.github.io/), [2](https://chrome.google.com/webstore/detail/typio-form-recovery/djkbihbnjhkjahbhjaadbepppbpoedaa) - Autosave Input Data in Forms
