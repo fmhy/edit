@@ -221,7 +221,7 @@
 * [VeraCrypt](https://www.veracrypt.fr/en/Home.html) or [CryptSetup](https://gitlab.com/cryptsetup/cryptsetup) - Disk Encryption Software
 * [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition 
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
-* [Wormhole](https://wormhole.app/), [Vualt.ooo](https://vault.ooo/), [Skytransfer](https://skytransfer.hns.siasky.net) or [upload-vaa](https://upload.vaa.red/) - Encrypted File Hosts 
+* [Wormhole](https://wormhole.app/), [Vualt.ooo](https://vault.ooo/) or [upload-vaa](https://upload.vaa.red/) - Encrypted File Hosts 
 * [boom.fyi](https://www.boom.fyi/) - Temporary File Host
 * [EncFS MP](https://encfsmp.sourceforge.io/index.html), [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/), [GPG4Win](https://www.gpg4win.org/), [Encrypto](https://macpaw.com/encrypto), [FreeCrypt](https://freecrypt.org/), [Vmola](https://vmola.com/), [Kryptor](https://www.kryptor.co.uk/) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - File Encryption Tool 
 * [Filecrypt](https://filecrypt.cc/) - Encrypt File Links
@@ -234,7 +234,7 @@
 * [Pixelfed](https://pixelfed.org/) or [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts 
 * [Cryptee](https://crypt.ee/) - Encrypted Image Storage
 * [PeerTube](https://joinpeertube.org/), [2](https://search.joinpeertube.org/), [3](https://sepiasearch.org/) - Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)
-* [PrivNote](https://privnote.com/), [Burn.Link](https://burn.link/), [Wipenote](https://wipenote.io/), [tlwsd](https://tlwsd.com/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/) or [OneTimeSecret](https://onetimesecret.com/) - Send Self-Destructing Messages 
+* [PrivNote](https://privnote.com/), [Burn.Link](https://burn.link/), [tlwsd](https://tlwsd.com/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/) or [OneTimeSecret](https://onetimesecret.com/) - Send Self-Destructing Messages 
 * [xcodx.ru](https://xcodx.ru/), [Steg Cloak](https://stegcloak.surge.sh/) or [spam mimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
 * [Anonymouth](https://github.com/psal/anonymouth) - Document Anonymization Tool 
 * [How-to Buy Bitcoin Anonymously](https://coinsutra.com/buy-bitcoin-with-prepaid-card/)
@@ -252,7 +252,7 @@
 * [GreyNoise](https://www.greynoise.io/) - Internet Noise Analysis
 * [Terms of Service; Didn't Read](https://tosdr.org/) - TLDR TOS
 * [V2Ray](https://v2ray.com/en/), [V2Fly](https://www.v2fly.org/), [V2RayN](https://github.com/freefq/free) or [v2ray-core](https://github.com/v2fly/v2ray-core) - DIY Privacy Network
-* V2Ray Tools - [GUI](https://qv2ray.net/), [2](https://github.com/2dust/v2rayN), [3](https://github.com/Qv2ray/Qv2ray) / [GeoIP](https://github.com/Loyalsoldier/geoip) / [Free Server](https://fanqiang.network/) / [Tutorial](https://github.com/freefq/tutorials)
+* V2Ray Tools - [GUI](https://github.com/2dust/v2rayN), [2](https://github.com/Qv2ray/Qv2ray) / [GeoIP](https://github.com/Loyalsoldier/geoip) / [Free Server](https://fanqiang.network/) / [Tutorial](https://github.com/freefq/tutorials)
 * [Scout](https://www.scout.tel/phone-number-lookup) - Phone Number Lookup / Safety Check 
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - Get Telephone Carrier Data 
 * [/r/Privacy](https://reddit.com/r/privacy),  [/r/TheHatedOne](https://www.reddit.com/r/thehatedone), [/r/PrivacyToolsIO](https://www.reddit.com/r/privacytoolsIO) or [/r/privatelife/](https://www.reddit.com/r/privatelife/) - Privacy Discussion, News & Tools
@@ -369,7 +369,6 @@
 * [YourAdChoices](https://optout.aboutads.info/?c=2&lang=EN) - Check Your Current IBA Status
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Resource Index](https://github.com/mikalv/awesome-i2p)
 * [I2Pd Browser](https://i2pd.website/) - I2P Browser / [GitHub](https://github.com/PurpleI2P/i2pd)
-* [NotBob](https://www.notbob.i2p/) - I2P Site Index / I2P Browser Required
 * [CookieStatus](https://www.cookiestatus.com/) - Browser Tracking Protection Comparisons
 * [NothingPrivate](https://www.nothingprivate.ml/), [Device Info](https://www.deviceinfo.me/), [Privacy Test](https://privacy.net/analyzer/), [IPX](https://ipx.ac/run) or [Sploit](https://sploit.io/test.php) - Browser Data Leak Test
 * [SSL Labs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html) - SSL/TLS Browser Capabilities Test
@@ -382,7 +381,6 @@
 * [Voidsec](https://ip.voidsec.com/) or [WebRTC Leak Test](https://www.expressvpn.com/webrtc-leak-test) - WebRTC Leak Test
 * [webwormhole](https://github.com/saljam/webwormhole) - Peer Authenticated WebRTC
 * [WhatsMyUA?](https://www.whatsmyua.info/) or [WhatIsMyBrowser](https://www.whatismybrowser.com/detect/what-is-my-user-agent) - User-Agent Detection 
-* [Pribot](https://pribot.org/) - Automated Analysis for Privacy Policies 
 * [Google Takeout](https://takeout.google.com/) - Google Data Request
 * [de-google](https://www.reddit.com/r/privacy/wiki/de-google), [De-google-ify](https://degooglisons-internet.org/en/), [Degoogle](https://github.com/tycrek/degoogle), [Google Alt List](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
 * [no-google](https://github.com/nickspaargaren/no-google) - Block All Google Services 
@@ -397,10 +395,10 @@
 * [Extension Fingerprints](https://github.com/z0ccc/extension-fingerprints) - Extension Fingerprinting Test
 * [dataskydd](https://webbkoll.dataskydd.net/) or [Blacklight](https://themarkup.org/blacklight) - Check what data-protecting measures a site has taken
 * [uBO-Scope](https://github.com/gorhill/uBO-Scope) - Measure 3rd Party Exposure 
-* [Wikiless](https://wikiless.org/) - Wikipedia Frontend / [Source](https://codeberg.org/orenom/Wikiless)
+* [Wikiless](https://wikiless.org/) - Wikipedia Frontend
 * [Nitter](https://nitter.net/) or [NitterDV](https://nitter.usethetools.org/) - Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)
 * [Reddit Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_frontends)
-* [ProxiTok](https://proxitok.herokuapp.com/) - TikTok Frontend / [GitHub](https://github.com/pablouser1/ProxiTok)
+* [ProxiTok](https://proxitok.pabloferreiro.es/) - TikTok Frontend / [GitHub](https://github.com/pablouser1/ProxiTok)
 * [SimpleAmazon](https://amazon.simple-web.org/) - Amazon Frontend
 * [Cusdis](https://cusdis.com/) - Privacy-Focused Comment System / [GitHub](https://github.com/djyde/cusdis)
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Reddit / Twitter Auto Post Delete
@@ -610,6 +608,5 @@
 * [Google Translate](https://translate.google.com/) - [How to use](https://redd.it/fawkjy) 
 * [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - Python Library for Retrieving Free Proxies
 * [Proxy-Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper), [ProxyScraper_v1](https://github.com/WTSTiNy/DeCryPt_ProxyScraper_v1), [What is my Proxy](http://www.whatismyproxy.com/) or [Socker](https://github.com/TheSpeedX/socker) - Proxy Scrapers / Checkers
-* [apiproxyfree](https://apiproxyfree.com/) - Proxy List API
 * [CheckSocks5](https://checksocks5.com/) - Socks5 Proxy Checker
 * [Proxynova](https://www.proxynova.com/proxy-server-list/country-ir/) - Iranian Proxies
