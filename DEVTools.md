@@ -297,7 +297,6 @@
 * [Input Delay Test](https://input-delay.glitch.me/) - Input Delay Experiment
 * [Asynchronous Messaging](https://github.com/clemensv/messaging) - Asynchronous Messaging Resources
 * [CoreFTP](http://www.coreftp.com/) - FTP Client
-* [Cumcord](https://cumcord.com/) - Discord Developer Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)
 * [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - Integrate Services with Discord
 * [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - Discord Code Blocks
 * [discord.py](https://github.com/Rapptz/discord.py), [Kord](https://github.com/kordlib/kord), [Discord4J](https://discord4j.com/), [enhanced-discord.py](https://github.com/iDevision/enhanced-discord.py) - Discord API Wrapper
