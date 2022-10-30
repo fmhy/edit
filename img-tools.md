@@ -138,7 +138,7 @@
 * [Text-Image](https://www.text-image.com/) - Text Image Generator
 * [NoiseDeck](https://noisedeck.app/) - Art Generator
 * [dream](https://app.wombo.art/) - Dream Art Generator
-* [Uji](https://doersino.github.io/uji/) - Minimalist Art Generator
+* [Uji](https://doersino.github.io/uji/) or [Turtletoy](https://turtletoy.net/) - Minimalist Art Generators
 * [Mosaic](https://github.com/Roman-/mosaic) - Rubik's Cube Mosaic Generator
 * [Tabbied](https://tabbied.com/) or [Slopes](https://tinkersynth.com/slopes/) - Art Pattern Generators
 * [MandalaGaba](https://www.mandalagaba.com/) / [Pro Version](https://pro.mandalagaba.com/), [Mandala App](https://mandala-app.com/) or [DigitalDoily](https://codymoose.github.io/web-applications/DigitalDoily/index.html) - Zen Geometry Tool
