@@ -1621,8 +1621,9 @@
 * [identi](https://identi.io/) - Video / Audio / Software / Games
 * [CompucaliTV](https://www.compucalitv.com/) - Video / Software / Games
 * [ZonaLeRoS](https://www.zona-leros.net/) - Video / Games
-* [GamesMega](https://gamesmega.net/) - Games / Roms
+* [GamesMega](https://gamesmega.net/) - Games / ROMs
 * [BajarJuegosPCgratis](https://bajarjuegospcgratis.com/) - Games
+* [gamesgx](https://www.gamesgx.net/) - PS2 ROMs
 * [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - Movies
 * [SomosMovies](https://somosmovies.com/) - Movies
 * [Mega MKV](https://mega-mkv.com/) - Movies
