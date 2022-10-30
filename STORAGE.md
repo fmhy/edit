@@ -302,7 +302,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### BetterDiscord Tools
 
-[Plugins](https://betterdiscord.app/plugins) / [Addons](https://github.com/QbDesu/BetterDiscordAddons) / [Themes](https://www.limeshark.dev/editor), [2](https://bdeditor.dev/) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd), [2](https://discord.gg/sbA3xCJ) / [Animated PFP](https://discord.gg/xzwKqwvQcP) / [Alt DevilBroPlugins](https://github.com/BD-MemorySeal/DevilBro-Alternatives/tree/distribution) / [Discord](https://discord.gg/6hkKNa4MRN) / [Account Switcher](https://github.com/l0c4lh057/AccountSwitcher)
+[Plugins](https://betterdiscord.app/plugins) / [Themes](https://www.limeshark.dev/editor), [2](https://bdeditor.dev/) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd)
 
 ***
 
@@ -1493,13 +1493,13 @@ Add the following commands to a search to manually scrape each site.
 
 #### Modded Minecraft Launchers
 
-* ⭐ **[Lunar Client](https://www.lunarclient.com/)** / [Lite](https://github.com/Nilsen84/lunar-client-qt) / [Colors](https://github.com/couleur-tweak-tips/Moony) / [Socket](https://solarsocket.solartweaks.com/)
+* ⭐ **[Lunar Client](https://www.lunarclient.com/)** / [Web Socket](https://solarsocket.solartweaks.com/) or [Moony](https://github.com/couleur-tweak-tips/Moony)
 * ⭐ **[UltimMC](https://github.com/AfoninZ/UltimMC)**
 * ⭐ **[SkLauncher](https://skmedix.pl/sklauncher)**
 * ⭐ **[GDLauncher](https://gdevs.io/)**
 * ⭐ **[PrismLauncher](https://prismlauncher.org/)** / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
 
-[MultiMC](https://multimc.org/), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [ATLauncher](https://atlauncher.com/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [PollyMC](https://github.com/fn2006/PollyMC)
+[MultiMC](https://multimc.org/), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [ATLauncher](https://atlauncher.com/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/)
 
 ***
 
