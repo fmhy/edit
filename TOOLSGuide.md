@@ -41,7 +41,7 @@
 * [DripDrop](https://www.dripdrop.live/) - Product Drop Countdown
 * [SetAlarmClock](https://setalarmclock.net/) - Online Alarm Clock
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
-* [Dashana](https://dashana.com/), [Flourish](https://flourish.studio/), [DataWrapper](https://www.datawrapper.de/), [RAWgraphs](https://app.rawgraphs.io/) / [GitHub](https://github.com/rawgraphs/rawgraphs-app), [Chart.xkcd](https://timqian.com/chart.xkcd/) or [ParaView](https://github.com/Kitware/ParaView) - Data Visualization Tools
+* [Flourish](https://flourish.studio/), [DataWrapper](https://www.datawrapper.de/), [RAWgraphs](https://app.rawgraphs.io/) / [GitHub](https://github.com/rawgraphs/rawgraphs-app), [Chart.xkcd](https://timqian.com/chart.xkcd/) or [ParaView](https://github.com/Kitware/ParaView) - Data Visualization Tools
 * [Grocy](https://grocy.info/) - Grocery / Household Management Tool
 * [Volmarg](https://volmarg.github.io/) - Personal Management Tool
 * [WhoBrings](https://whobrings.com/) - Party Item Management Tool
@@ -156,7 +156,6 @@
 * [Neble](https://neble.app/summary) - Sunmarize Text
 * [Linguix](https://linguix.com/), [HyperWrite](https://hyperwriteai.com/) or [TextCleanr](https://www.textcleanr.com/) - Writing Assistant
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
-* [Cliche Finder](http://cliche.theinfo.org/) - Detect Cliches
 * [phraseup](http://www.phraseup.com/) - Autocomplete Common Phrases 
 * [Transformer](https://transformer.huggingface.co/), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en), [TextSynth](https://textsynth.com/playground.html), [MagicPrompt](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion) or [Talk to Transformer](https://app.inferkit.com/demo) - Text Autocomplete 
 * [EleutherAI](https://6b.eleuther.ai/) or [Essaytyper](http://www.essaytyper.com/) - Text / Story Autocomplete
@@ -204,10 +203,10 @@
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
 * [Buffered.link](https://buffered.link/) - Share Text Between Devices
 * [Baserow](https://gitlab.com/bramw/baserow), [Framacalc](https://accueil.framacalc.org/en/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheet
-* [TinySheet](https://tinysheet.com/), [Gnumeric](http://www.gnumeric.org/), [EtherCalc](https://ethercalc.net/) or [LuckysheetDocs](https://mengshukeji.github.io/LuckysheetDocs/) - Spreadsheets
+* [TinySheet](https://tinysheet.com/), [Gnumeric](http://www.gnumeric.org/) or [EtherCalc](https://ethercalc.net/) - Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
 * [Diagram.codes](https://www.diagram.codes/) - Convert Text to Diagrams
-* [Watson](https://speech-to-text-demo.ng.bluemix.net/), [Dictation](https://dictation.io/speech), [SpeechTexter](https://www.speechtexter.com/), [ConvertSpeech](https://www.convertspeech.com/), [SpeechNotes](https://speechnotes.co/), [LilySpeech](https://lilyspeech.com/), [VoiceToText](https://voicetotext.org/), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
+* [Dictation](https://dictation.io/speech), [SpeechTexter](https://www.speechtexter.com/), [ConvertSpeech](https://www.convertspeech.com/), [SpeechNotes](https://speechnotes.co/), [LilySpeech](https://lilyspeech.com/), [VoiceToText](https://voicetotext.org/), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
 * [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) or [HandWrittner](https://handwrittner.com/?lang=en) - Text to Handwriting Converter
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - Extract Text From Any Window
 * [ExtractMailAddress](https://extractemailaddress.com/) - Extract Email's, URLs & Numbers from Text
@@ -217,7 +216,6 @@
 * [telescopictext](https://www.telescopictext.org/) - Write Text Within Text
 * [quipqiup](https://www.quipqiup.com/) or [dCode](https://www.dcode.fr/en) - Cryptogram Solvers
 * [AnagramAssistant](https://keitharm.me/projects/anagramAssistant/) - Anagram Tool 
-* [Tone Analyzer](https://tone-analyzer-demo.ng.bluemix.net/) - Text Tone Detection 
 * [Just Not Sorry](https://chrome.google.com/webstore/detail/just-not-sorry-the-gmail/fmegmibednnlgojepmidhlhpjbppmlci) - Undermining Word Detection
 * [Character / Word Counters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_character_.2F_word_counters) - Character / Word Counters
 * [Gramma](https://caderek.github.io/gramma/) - Command Line Grammar Checker
@@ -226,7 +224,7 @@
 * [I or l?](https://iorl.info/) / [2](https://www.iorl.org/) - Is it an uppercase "i", or is it a lowercase "L"?
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursive Search Tool
 * [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/), [Snskey](https://snskeyboard.com/), [Unilist](https://unilist.raphaelbastide.com/) or [Cool Symbol](https://coolsymbol.com/) - Copy & Paste Unicode Characters
-* [Copy-Paste-Space](https://copy-paste-space.com/) or [BlankText](https://blanktext.net/) - Copy / Paste Blank Spaces 
+* [BlankText](https://blanktext.net/) - Copy / Paste Blank Spaces 
 * [Donger List](http://dongerlist.com/) - 600+ Unicode Emoticons 
 * [Japanese emoji copy and paste](https://japaneseemojicopyandpaste.com/) - Lenny Face / Japanese Emoticons
 * [Emotes Everywhere](https://kellphy.com/projects/kee.html), [GenieEmoji](https://github.com/virejdasani/Geniemoji), [winMoji](https://www.winmoji.com/) or [Geniemoji](https://virejdasani.github.io/Geniemoji/) - Emoji Managers
@@ -511,9 +509,8 @@
 * [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/), [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil), [AdventureMachine](https://madeon.fr/adventuremachine/) or [Strofe](https://www.strofe.com/) - Simple Audio Creators
 * [Cycle Plus One](https://cycle-plus-one.sourceforge.io/) - Audio Pattern Generator
 * [Moises](https://moises.ai/) - Live Music Mixer
-* [WD-1](https://www.worteldrie.com/WD5/), [Citizen DJ](https://citizen-dj.labs.loc.gov/loc-variety-stage/remix/), [YOU.DJ](https://you.dj/) or [Until AM](http://mix.until.am/) - Online DJ / Beat Creator 
+* [WD-1](https://www.worteldrie.com/WD5/), [Citizen DJ](https://citizen-dj.labs.loc.gov/loc-variety-stage/remix/) or [YOU.DJ](https://you.dj/) - Online DJ / Beat Creator 
 * [RaveDJ](https://rave.dj/) - Easily Mix Songs Together 
-* [EZStems](https://www.ezstems.com/) - Create Audio STEMS
 * [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) - Create Songs with Code
 * [Viano](https://github.com/isaaclyman/Viano) - Create Songs with Vue
 * [WebSynths](http://www.websynths.com/) or [Roland50](https://roland50.studio/) - Browser-Based Instruments 
@@ -547,14 +544,13 @@
 * [Audio Synthesizers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_synthesizers) - Audio Synthesizer Sites & Apps
 * [Vital](https://vital.audio/) - Spectral Warping Wavetable Synth
 * [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - Pop Song Sample Mixer
-* [Nightcore Maker](https://nightcoremaker.com/) - Create Nightcore Versions of Songs
 * [WubMachine](https://the.wubmachine.com/) - Create DubstepVersions of Songs
 * [Wolfram Tones](https://tones.wolfram.com/), [audio visual generator](https://fredericbriolet.com/avg/) or [Jingle](https://aidn.jp/jingle/) - Song Generators
 * [CSound](https://csound.com/) - Music Computing System
 * [GoAudio](https://github.com/DylanMeeus/GoAudio) - Audio Processing Library 
 * [Helio](https://helio.fm/) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
 * [AudioAlter](https://audioalter.com/preset/8d-audio) - Create '8D' Audio
-* [Karaoke Maker](https://www.edityouraudio.com/karaoke-maker), [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - Create Karaoke Songs
+* [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - Create Karaoke Songs
 * [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Vocaroo](https://www.vocaroo.com/), [VoiceSpice](https://voicespice.com/) or [Reverb Record](https://record.reverb.chat/) - Online Audio Recorder 
 * [MP3Smaller](https://www.mp3smaller.com/) - MP3 Compressor 
 * [MP3Food](https://mp3food.com/) or [AudioTrimmer](https://audiotrimmer.com/) - Online Audio Cutters
@@ -566,7 +562,6 @@
 * [Get Song BPM](https://getsongbpm.com/) or [MusicStax](https://musicstax.com/) - Song Tempo Database
 * [MusicSpeedChanger](https://musicspeedchanger.com/) - Music Speed Changer
 * [beets.io](http://beets.io/) / [2](https://github.com/beetbox/beets), [alto](https://github.com/ItsLychee/alto), [Zortam](https://www.zortam.com/), [MP3Tag](https://www.mp3tag.de/en/), [TagEditor](https://github.com/Martchus/tageditor), [MusicBee](https://getmusicbee.com/) or [MusicBrainz](https://picard.musicbrainz.org/) - Music Metadata Organizer
-* [Mooval](https://www.mooval.de/) - Move Songs to or from Programs / Sites
 * [Croosfade](https://crossfade.io/) - Video and Audio Crossfading
 * [ZzFXM](https://keithclark.github.io/ZzFXM/) - JavaScript Music Renderer 
 * [YADG](https://yadg.cc/) - Scrape / Render Music via Templates / [API](https://yadg.cc/api/)
@@ -766,7 +761,6 @@
 * [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - Check which IPFS Gateways are Online
 * [SocialBlade](https://socialblade.com/) - Social Media Stats
 * [LiveCounts](https://livecounts.io/) - Live Social Media Stats
-* [Post Generator](https://postgenerator.online/) - Convert Article to Social Media Post
 * [Cloaking Company](https://www.cloakingcompany.com/) - Create Alogorith Pleasing Social Media Posts
 * [Abogrow](https://www.abogrow.com/compose) - Preview Social Media Posts
 * [you-get](https://github.com/soimort/you-get) - Download Media Contents from Webpages
@@ -784,7 +778,6 @@
 * [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/webcatalog/) or [web2desk](https://appmaker.xyz/web2desk/) - Turn Sites into Desktop Apps 
 * [Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Multiverse](https://multiverse.plus/), [Letterpad](https://letterpad.app/), [Mataroa](https://mataroa.blog/), [Emanates Docs](https://emanates.deepjyoti30.dev/), [write freely](https://writefreely.org/) or [twtxt](https://github.com/buckket/twtxt) - Blogging Platform
 * [Telescope](https://telescope.ac/) - Publishing Platform
-* [Odie](http://odie.us/) - Publish Google Docs to Web
 * [Hamsket](https://github.com/TheGoddessInari/hamsket), [Ferdi](https://getferdi.com/), [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [matterbride](https://github.com/42wim/matterbridge), [Rambox](https://github.com/ramboxapp/download/releases) or [Franz](https://meetfranz.com/) - Combine Web Apps / Chats
 * [Slapdash](https://slapdash.com/) - Connect Cloud Apps 
 * [Remote Communication](https://libreplanet.org/wiki/Remote_Communication) - Communication Software Index
@@ -811,7 +804,7 @@
 * [Pyrite](https://github.com/garage44/pyrite) - Self-Hosted Video Calls
 * [Live Curtain](https://livecurtain.com/) - Countdown Curtain For Online Meeting
 * [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Nertivia Chat](https://nertivia.net/), [Mumble](https://www.mumble.info/), [Zoiper](https://www.zoiper.com/), [Google Voice](https://voice.google.com/) or [DogeHouse](https://dogehouse.tv/) - Voice Chat 
-* [IMumble](https://www.imumble.nl/), [VoicePacket](https://www.voicepacket.net/) or [Guildbit](https://guildbit.com/) - Voice Chat Servers
+* [IMumble](https://www.imumble.nl/) or [Guildbit](https://guildbit.com/) - Voice Chat Servers
 * [DJ3D](https://dj3d.io/), [Gather](https://gather.town/), [Vircadia](https://vircadia.com/) or [OpenSimulator](http://opensimulator.org/) - Virtual World Server
 * [FireStorm Viewer](https://www.firestormviewer.org/) - Virtual World Viewer
 * [Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_sites) - No Verification Required Email Sites
@@ -841,7 +834,6 @@
 * [Alive](https://greasyfork.org/en/scripts/418770-colab-alive) - Bypass Google Colab Limit Colab
 * [YakYak](https://github.com/yakyak/yakyak) - Google Hangouts Desktop Client 
 * [Indirect](https://www.microsoft.com/en-us/p/indirect/9phw4kj8jvnz) - Instagram Desktop Messenger
-* [SentRanker](https://sentranker.com/) - Social Media Sentiment Scanner
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments 
 * [divr.it](https://dlvrit.com/) - Social Media Automation Tool
 * [EagleEye](https://github.com/ThoughtfulDev/EagleEye) - Find Social Media Profiles From Image
@@ -907,7 +899,6 @@
 * [webbrowser.git](https://git.nuegia.net/webbrowser.git/) - Lightweight Browser 
 * [MinBrowser](https://minbrowser.org/) or [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser) - Minimalist Browser
 * [Vieb](https://vieb.dev/) - Vim Inspired Browser
-* [Netbox](https://netbox.global/) - Blockchain Backed Browser
 * [Ghost Browser](https://ghostbrowser.com/) - Multi-Session Browser
 * [woob](https://woob.tech/) - Use Sites Without a Browser
 * [Gemini Clients](https://gemini.circumlunar.space/clients.html), [Lagrange](https://github.com/skyjake/lagrange) or  [Amfora](https://github.com/makeworld-the-better-one/amfora) - Gemini Browsers
@@ -969,9 +960,9 @@
 * [Jumps](https://jumps.io/) or [Yubnub](https://yubnub.org/) - Site Quick Search
 * [Soovle](https://soovle.com/), [Keyword.io](http://www.keyword.io/), [SearchEngineReports](https://searchenginereports.net/) or [Keyword Tool](https://keywordtool.io/) - Popular Keyword Search
 * [Esteroids](https://esteroids.eth.limo/#) - Decentralized Web Search Engine
-* [Social-Searcher](https://www.social-searcher.com/), [HashFinder](https://www.hashfinder.xyz/), [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap), [Social Media CSE](https://cse.google.com/cse?cx=73dda67fd05b4405f#gsc.tab=1&gsc.sort=) or [Social Mention](http://socialmention.com/) - Social Media Search Engine  
+* [Social-Searcher](https://www.social-searcher.com/), [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap), [Social Media CSE](https://cse.google.com/cse?cx=73dda67fd05b4405f#gsc.tab=1&gsc.sort=) or [Social Mention](http://socialmention.com/) - Social Media Search Engine  
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - Forum Search Engine 
-* [Blog Search Engine](http://www.blogsearchengine.org/), [Blog-Search](https://www.blog-search.com/), [BlogErnity](http://www.bloggernity.com/), [BlogSurf](https://blogsurf.io/), [Twoggle](https://twoggle.com/) or [SearchBlogspot](https://www.searchblogspot.com/) - Blog Search
+* [Blog Search Engine](http://www.blogsearchengine.org/), [Blog-Search](https://www.blog-search.com/), [BlogErnity](http://www.bloggernity.com/), [BlogSurf](https://blogsurf.io/) or [SearchBlogspot](https://www.searchblogspot.com/) - Blog Search
 * [4chanSearch](https://4chansearch.com/) - 4chan Search
 * [Git Search Engine](https://zzollo.co/) - Search GitHub, GitLab etc.
 * [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) or [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - TikTok Search 
@@ -998,7 +989,6 @@
 * [Google Search Guide](https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters) + [Advanced](https://coursebuilder.withgoogle.com/)
 * [sitedorks](https://github.com/Zarcolio/sitedorks), [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list/), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list) or [DorkSearch](https://www.dorksearch.com/) - Google Search Dorks
 * [Yandex Search Operator Cheat Sheets](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/), [3](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
-* [Cyber](https://cyber.page/) - Hash Search
 * [rfc.fyi](https://rfc.fyi/) - RFC Search
 * [CrunchBase](https://www.crunchbase.com/) - Company Info Search
 * [Employees hunter](https://hunter.io/) - Company Employee Email Search
