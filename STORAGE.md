@@ -2435,7 +2435,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Spotify YouTube Downloaders** 
 
-[Spotify Downloaders](https://github.com/topics/spotify-downloader), [Savify](https://github.com/LaurenceRawlings/savify), [Spotify-DL](https://github.com/SathyaBhat/spotify-dl), [Sidify](https://sidify.com/), [spotDL](https://github.com/spotDL/spotify-downloader), [Syncify](https://github.com/FindMalek/Syncify) (Playlists), [FreyrJS](https://github.com/miraclx/freyr-js), [AllToMP3](https://alltomp3.org/), [Spotifast](https://github.com/seroteunine/Spotifast), [Spotify Downloader](https://spotify-downloader.com/), [spotify-downloader](https://github.com/rickyrorton/spotify-downloader), [SPOTYdl](https://github.com/GabiBrawl/SPOTYdl)
+[Spotify Downloaders](https://github.com/topics/spotify-downloader), [Savify](https://github.com/LaurenceRawlings/savify), [Spotify-DL](https://github.com/SathyaBhat/spotify-dl), [spotDL](https://github.com/spotDL/spotify-downloader), [Syncify](https://github.com/FindMalek/Syncify) (Playlists), [FreyrJS](https://github.com/miraclx/freyr-js), [AllToMP3](https://alltomp3.org/), [Spotifast](https://github.com/seroteunine/Spotifast), [Spotify Downloader](https://spotify-downloader.com/), [spotify-downloader](https://github.com/rickyrorton/spotify-downloader), [SPOTYdl](https://github.com/GabiBrawl/SPOTYdl)
 
 **Telegram Bots**
 
