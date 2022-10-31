@@ -316,6 +316,7 @@
 * [Outside Simulator](https://outsidesimulator.com/) - Simulate Being Outside 
 * [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [CityWalks](https://citywalks.live/), [Explordle](https://www.explordle.com/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulator
 * [Matterport](https://matterport.com/gallery) - Explore Real Places Digitally
+* [Zhijianshang](https://www.zhijianshang.com/) - Explore China in 360VR
 * [Heygo](https://www.heygo.com/) - Live Interactive Virtual Tours
 * [stringers.live](https://stringers.live/) - Live Freelance Journalist Streams
 * [ThemeParkWorldwide](https://www.youtube.com/user/ThemeParkWorldwide/) - Full Day Theme Park Vlogs
