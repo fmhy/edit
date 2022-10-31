@@ -1176,7 +1176,9 @@
 # ► Tracking / Discovery
 
 * ⭐ **[GoodReads](https://www.goodreads.com/)** - Books / Comics / Manga / [DL Button](https://github.com/laxyapahuja/bunken)
-* ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga
+* ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels
+* ⭐ **[Anilist](https://anilist.co/home)** - Manga / Light Novels / Manhwa / Manhua
+* ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga (Has Obscure Stuff) 
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comics
 * ⭐ **[TasteDive](https://tastedive.com/)** - Book Recommendations
 * [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Book & Comic Recommendations
@@ -1208,6 +1210,7 @@
 * [/r/DCcomics Recommended](https://www.reddit.com/r/DCcomics/wiki/recommended) - DC Comic Recommendations 
 * [Comic Book Reading Orders](https://comicbookreadingorders.com/) - Comic Book Reading Orders
 * [DC Superhero Era Timeline](https://i.imgur.com/Icojkx1.jpg) / [2](https://i.imgur.com/drSEr0j.jpg)
+* [Kitsu](https://kitsu.io/) - Manga
 * [Mangaki](https://mangaki.fr/) - Manga Recommendations
 * [Anime-Planet](https://anime-planet.com/) - Manga 
 * [kenmei](https://www.kenmei.co/) - Manga
