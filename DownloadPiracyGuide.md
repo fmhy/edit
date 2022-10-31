@@ -144,6 +144,7 @@
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
 * [FilePursuit](https://filepursuit.com) - [Discord](https://discord.gg/xRfFd8h)
 * [scnlog](https://scnlog.me/)
+* [FileNinja](https://fileninja.net/)
 * [filesearch.link](http://filesearch.link/)
 * [Linktury](https://www.linktury.com/) 
 * [Hitfilesearch](https://www.hitfilesearch.com/) - Search HitFile
