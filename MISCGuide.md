@@ -11,7 +11,7 @@
 
 # ► Indexes
 
-* ⭐ **[FMHY Guides](https://fmhy.tk/guides)** or [Mega Rentry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mega_rentry) - List of Guides
+* ⭐ **[FMHY Guides](https://freemediaheckyeah.ml/guides)** / [2](https://fmhy.tk/guides) or [Mega Rentry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mega_rentry) - List of Guides
 * ⭐ **[The Index](https://theindex.moe)** or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - Japanese Media Indexes / [Discord](https://discord.gg/Snackbox ) / [Wiki](https://thewiki.moe/)
 * ⭐ **[/r/PiratedGames Megathread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Gaming Piracy Site Index / [Discord](https://discord.gg/dZWwhUy)
 * ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** or [/r/Stumbledon](https://www.reddit.com/r/Stumbledon/) - Helpful / Fun Sites
