@@ -200,7 +200,6 @@
 * [/r/udemyfreebies](https://reddit.com/r/udemyfreebies) 
 * [/r/FREECoursesEveryday](https://reddit.com/r/FREECoursesEveryday) 
 * [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS)  
-* [/r/Freenookbooks](https://reddit.com/r/Freenookbooks/)
 * [/r/bookdownloads](https://reddit.com/r/bookdownloads/)
 * [/r/KindleFreebies](https://reddit.com/r/KindleFreebies/)
 * [/r/Freegamestuff](https://reddit.com/r/Freegamestuff)
@@ -209,11 +208,11 @@
 
 # ► Shopping
 
+* ⭐ **[GG.deals](https://gg.deals/)** or [PSPrices](https://psprices.com/) - Game Price Trackers
 * [Reddit Favorites](https://redditfavorites.com/), [NanoReview](https://nanoreview.net/en), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product & Service Reviews
 * [Car.com](https://www.cars.com/research/compare/ ), [Vehicle Rankings](https://cars.usnews.com/cars-trucks/rankings), [Motor1](https://www.motor1.com/reviews/) or [Edmunds](https://www.edmunds.com/car-reviews/) - Vehicle Reviews / Comparisons
 * [carsized](https://www.carsized.com/) - Vehicle Size Comparisons
 * [CamelCamelCamel](https://camelcamelcamel.com/) - Amazon Price Tracker / [App](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno)
-* [GG.deals](https://gg.deals/) or [PSPrices](https://psprices.com/) - Game Price Trackers
 * [EpicGamesDC](https://epicgamesdb.info/) - Epic Store Price Tracker
 * [DekuDeals](https://www.dekudeals.com/) or [NTDeals](https://ntdeals.net/) - Switch Game Price Trackers
 * [PS Deals](https://psdeals.net/) - PlayStation Game Price Tracker
