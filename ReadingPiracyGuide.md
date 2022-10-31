@@ -760,6 +760,7 @@
 * [MacmillanDictionary](https://www.macmillandictionary.com/) - Dictionary
 * [Spellorg](http://www.spellorg.com/) - Dictionary / Spell Check
 * [Webopedia](https://www.webopedia.com/) or [TechTerms](https://techterms.com/) - Tech Dictionary
+* [Why The Fluff](https://www.whythefluff.com/) - Common Jargon Dictionary
 * [EtymOnline](https://www.etymonline.com/) - Etymologies
 * [Fandom](https://www.fandom.com/) - Fan Wikis 
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi Language Dictionary Index
@@ -1277,6 +1278,7 @@
 * [txtpaper](https://txtpaper.com/) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to Ebook Converter
 * [CrowBook](https://github.com/lise-henry/crowbook) - Markdown to EPUB Converter
 * [Libby](https://libbyapp.com/) - Library Search
+* [BookInfo](https://lordgnomembe.github.io/BookInfo/) - Get Book Info via ISBN
 * [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - Generate Text & Article Summaries
 * [FiveFilters](https://www.fivefilters.org/) - Multiple Article Accessibility Tools
 * [Ebook-Converter](https://ebook-converter.com/) - Ebook Converter
