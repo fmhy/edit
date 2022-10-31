@@ -125,7 +125,7 @@
 * ⭐ **[Translation Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_translation_sites)** - Online Translators
 * ⭐ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - Grammar Checking Tools
 * ⭐ **[Multiple Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_text_tool_sites)** - Sites with Multiple Text Tools
-* ⭐ **[Emojipedia](https://emojipedia.org/)**, [EmojiBatch](https://www.emojibatch.com/) or [GetEmoji](https://getemoji.com/) - Emoji Indexes
+* ⭐ **[Emojipedia](https://emojipedia.org/)**, [EmojiBatch](https://www.emojibatch.com/), [Words2Emoji](https://www.words2emoji.com/) or [GetEmoji](https://getemoji.com/) - Emoji Indexes
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Pastebin
 * [Scrivener](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_scrivener) - Book Writing App
 * [WriteURL](https://www.writeurl.com/) - Collaborative Text Editor
@@ -447,7 +447,7 @@
 * [Fresh Stuff For You](https://freshstuff4you.com/) - DAWs / Samples / Presets
 * [Plugin Clouds Archive](https://t.me/plugincloudsarchive) - DAW Plugins
 * [FlsAudio](https://flsaudio.com/en/gb/) - FLStudio Samples / Presets / Plugins
-* [VeryLeaks](https://veryleaks.cz/) - Drumkits
+* [VeryLeaks](https://veryleaks.cz/) or [Producerwav](https://producerwav.com/free/) - Drum Kits
 * [/r/findthepreset](https://www.reddit.com/r/findthepreset) - Find Presets from Songs
 * [MilkyTracker](https://milkytracker.org/) - .MOD & .XM Module Creator
 * [/r/samplesforall](https://www.reddit.com/r/samplesforall/), [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [Baomay01](https://baomay01.info/), [RKHive](https://rkhive.com/), [Sounds MP3](https://allsoundsaround.com/) or [SamplesTorrent](https://samplestorrent.com/) - Audio Samples
@@ -620,7 +620,7 @@
 
 ## ▷ Career Tools
 
-* ⭐ **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)**, [4DayWeek](https://4dayweek.io/) or [Indeed](https://www.indeed.com/) - Job Search Sites
+* ⭐ **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)**, [JobsFromLarry](https://www.jobsfromlarry.com/), [4DayWeek](https://4dayweek.io/) or [Indeed](https://www.indeed.com/) - Job Search Sites
 * ⭐ **[Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers)** - Create Resumes for Free
 * ⭐ **[Resume / Cover Letter Guide](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)**, [Undergrad](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf) or [Masters](https://hwpi.harvard.edu/files/ocs/files/masters_resume_cover_letters.pdf) - Resume / Cover Letter Guides
 * [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) - Successful Resume Samples
