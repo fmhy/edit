@@ -806,7 +806,6 @@ Automated Incident Response and Forensics Framework
 ## ▷ Markup Languages
 
 * [markup.rocks](https://markup.rocks/) - Online Markup Editor
-* [HTML Meta Tags](https://gist.github.com/lancejpollard/1978404) - List of Common HTML Meta Tags Complete 
 * [Minifier](https://www.willpeavy.com/tools/minifier/) - Minify HTML, CSS & JS Markup HTML Minifier / [Unminify](https://www.unminify2.com/)
 * [HTML-Minifier](https://kangax.github.io/html-minifier/) - HTML Minifier
 * [HTML.com](https://html.com/) - HTML Guide / Cheat Sheet
