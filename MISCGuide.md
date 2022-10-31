@@ -209,8 +209,7 @@
 
 # ► Shopping
 
-* [RecoRank](https://recorank.com/) or [NanoReview](https://nanoreview.net/en) - Tech Reviews / Comparisons
-* [Reddit Favorites](https://redditfavorites.com/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product & Service Reviews
+* [Reddit Favorites](https://redditfavorites.com/), [NanoReview](https://nanoreview.net/en), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product & Service Reviews
 * [Car.com](https://www.cars.com/research/compare/ ), [Vehicle Rankings](https://cars.usnews.com/cars-trucks/rankings), [Motor1](https://www.motor1.com/reviews/) or [Edmunds](https://www.edmunds.com/car-reviews/) - Vehicle Reviews / Comparisons
 * [carsized](https://www.carsized.com/) - Vehicle Size Comparisons
 * [CamelCamelCamel](https://camelcamelcamel.com/) - Amazon Price Tracker / [App](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno)
