@@ -313,12 +313,9 @@
 * [Tyler](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_tyler) - MP3
 * [MP3 Clan](http://mp3clan.mobi/) - MP3
 * [24naijamuzic](https://www11.24naijamuzic.com/album/) - MP3
-* [FLAC Attack](https://flacattack.net/) - FLAC
-* [Lossless-Music](https://lossless-music.org/) - FLAC
+* [FLAC Attack](https://flacattack.net/) or [Lossless-Music](https://lossless-music.org/) - FLAC
 * [Losslessma](https://losslessma.net/) - FLAC
-* [SearchLossless](https://searchlossless.com/) - FLAC
 * [LosslessNews](https://flac1.hd24bit.com/) - FLAC
-* [/r/losslessrips](https://www.reddit.com/r/losslessrips/) - FLAC
 * [FLAC World](http://flac.world/) - FLAC
 * [FlacMusic](https://www.flacmusic.info/) - FLAC
 * [Music HiRes](https://music-hires.blogspot.com/) - FLAC
