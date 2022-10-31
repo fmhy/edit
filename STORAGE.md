@@ -3181,6 +3181,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 * [Xplorer](https://github.com/kimlimjustin/xplorer)
 * [One Commander](https://www.onecommander.com/)
 * [Free Commander](https://freecommander.com/)
+* [Explorer++](https://explorerplusplus.com/)
 * [ExplorerEx](https://github.com/DearVa/ExplorerEx)
 * [dive](https://github.com/ffaanngg/dive)
 * [fd](https://github.com/sharkdp/fd)
