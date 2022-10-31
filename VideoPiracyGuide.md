@@ -716,8 +716,6 @@
 * [HDFriday](https://hdfriday.com/category/download-hollywood-movies/) - Movies
 * [MegaUploadAgora](https://www.megauploadagora.com.br/) - Movies / TV 
 * [Top100](https://top100.to/) - Movies / TV
-* [Nine9ja](https://nine9ja.com/) - Movies
-* [LatestMovie4U](https://latestmovie4u.com/) - Movies / TV / Anime 
 * [Wtfmovies](https://www.wtfmovies.xyz/) - Movies / TV
 * [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - Cartoons 
 * [Bakabt](https://bakabt.me/) - Cartoons / [Signup](http://wiki.bakabt.me/index.php/Sign_up)
