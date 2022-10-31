@@ -8,12 +8,6 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 
 ***
 
-#### Blind User Audio Drives
-
-`aHR0cDovL3d3dy5jaGVlc2VoZWFkaG9zdGluZy51cy9kb3dubG9hZHMvRGVzY3JpcHRpdmUlMjBWaWRlb3MlMjBGb3IlMjBUaGUlMjBCbGluZC8KCmh0dHA6Ly93d3cuY2hlZXNlaGVhZGhvc3RpbmcudXMvZG93bmxvYWRzLnBocD9saW5rPWRpc2NyaXB0aXZlJTIwdmlkZW9zJTIwZm9yJTIwdGhlJTIwYmxpbmQlMjB2YXVsdCUyMDIKCmh0dHA6Ly93d3cuY2hlZXNlaGVhZGhvc3RpbmcudXMvZG93bmxvYWRzLnBocD9saW5rPWRpc2NyaXB0aXZlJTIwbW92aWVzJTIwZm9yJTIwdGhlJTIwYmxpbmQlMjB2YXVsdCUyMDMlMjAyMDEzJTIwYW5kJTIwbmV3ZXI=`
-
-***
-
 #### Rinzry
 
 `aHR0cHM6Ly9yaW56cnkuc3RyZWFtLw==`
