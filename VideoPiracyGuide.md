@@ -651,8 +651,8 @@
 * ⭐ **[Pahe](https://pahe.li/)** - Movies / TV / Anime / [Discord](https://discord.gg/4AvaCsd2J4) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper)
 * ⭐ **[PSARips](https://psa.pm/)** - Movies / TV / [GDrive TG](https://t.me/PSAonGdrive) / [Scrape](https://github.com/NandiyaLive/PSALinkGrabber)
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / Account Required for 1fichier
-* ⭐ **[Worlds Cinema](http://worldscinema.org/)** - Old / Classic / Cult Films
-* ⭐ **[Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download)** - Movies / TV / Anime / Single Click DL's
+* ⭐ **[Worlds Cinema](http://worldscinema.org/)** - Classic / Cult Films
+* ⭐ **[Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download)** - Movies / TV / Anime / Eng Content / Single Click DL's
 * ⭐ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - Download videos from streaming sites
 * [Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "video"
 * [RareLust](https://rarelust.com/) - Rare Movies / NSFW 
@@ -704,13 +704,11 @@
 * [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV
 * [MovieLegacy](https://movieslegacy.com/category/hollywood/) - Movies
 * [MoviesYug](http://www.moviesyug.net/cat/hollywood-series-movies-24.html) - Movies
-* [Go-Movie](http://go-movie.ru/) - Movies
 * [ULMovies](https://ulmovies.xyz/) - Movies / TV 
 * [SBS](https://3dsbs4u.com/) - Movies / TV
 * [NetNaija](https://netnaija.xyz/) - Movies
 * [Flixiz](https://flixiz.com/) - Movies / TV
 * [nKiri](https://nkiri.com/) - Movies / TV
-* [Moviessss](https://download-moviesss.herokuapp.com/?filter=Hollywood) - Movies
 * [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime
 * [O2TVSeriesz](https://o2tvseriesz.com/) - Movies / TV
 * [Privatemoviez](https://privatemoviez.co/) - Movies / TV
@@ -719,7 +717,6 @@
 * [MegaUploadAgora](https://www.megauploadagora.com.br/) - Movies / TV 
 * [Top100](https://top100.to/) - Movies / TV
 * [Nine9ja](https://nine9ja.com/) - Movies
-* [Warez Lover](https://warezlover.org/) - Movies / TV 
 * [LatestMovie4U](https://latestmovie4u.com/) - Movies / TV / Anime 
 * [Wtfmovies](https://www.wtfmovies.xyz/) - Movies / TV
 * [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - Cartoons 
