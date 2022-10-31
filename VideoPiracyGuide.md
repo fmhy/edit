@@ -109,7 +109,7 @@
 * [AZMovies](https://azms.to/) - Movies
 * [KollaFilm](https://kollafilm.com/) - Movies / TV
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
-* [Series9](https://series9.me/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_goldmovies_clones)
+* [Series9](https://series9.me/) - Movies / TV / Anime
 * [Cloudy](https://cloudy.pk/category/english/) - Movies / TV
 * [Levidia](https://www.levidia.ch/) - Movies / TV / Anime
 * [Movies123](https://www.movies123.email/) or [123movies](https://ww.123movies.club) - Movies / TV / Anime 
@@ -337,6 +337,7 @@
 * ⭐ **[9Anime](https://www.9anime.to/)** - Sub / Dub / [Mirrors](https://9anime.me/) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher) / [Ad Scripts](https://redd.it/c330dx)
 * ⭐ **[Anime8](https://anime8.ru/)** - Sub / Dub
 * ⭐ **[AniMixPlay](https://animixplay.to/)** - Sub / Dub / [Discord](https://discord.gg/X3CPwyefHz)
+* ⭐ **[All Anime](https://allanime.site/)** - Sub / Dub
 * [AnimePahe](https://animepahe.com/) - Sub / [Downloader](https://github.com/charathmathew/animepahe_downloader), [2](https://github.com/ed-archer/animepahe-dlr), [3](https://github.com/notmarek/pyheanime), [4](https://github.com/KevCui/animepahe-dl)
 * [AnimehHub](https://animehub.ac/) - Sub / Dub
 * [123Anime](https://123animes.ru/) - Sub / Dub
@@ -947,7 +948,6 @@
 * [showRSS](https://showrss.info/)  - RSS / TV
 * [AniChart](https://anichart.net) or [LiveChart](https://www.livechart.me/) - Seasonal Anime Charts
 * [Anime-Planet](https://www.anime-planet.com/) - Anime 
-* [All Anime](https://allanime.site/) - Anime
 * [Kitsu](https://kitsu.io/) - Anime
 * [AniDB](https://anidb.net/) - Anime
 * [AniList](https://anilist.co/) - Anime / [Wrapper](https://github.com/butterstroke/Anilist-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
