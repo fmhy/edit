@@ -152,7 +152,6 @@
 * [GrayCity](https://graycity.net/) - Books
 * [CentslessBooks](https://centslessbooks.com/) - Books 
 * [SNEWD](https://snewd.com/) - Books 
-* [doma.crazycz](http://doma.crazycz.net/ebooks/) - Books
 * [Litgu.ru](https://litgu.ru/) - Books
 * [British Library](https://www.bl.uk/) - Books
 * [EbookLobby](http://ebooklobby.com/) - Books
@@ -243,7 +242,6 @@
 * [GodChecker](https://www.godchecker.com/) - Religion / Mythology
 * [Hermetic International](https://www.hermetics.net/) - Religion / Occult / Alchemy / Astrology / Freemasonry / Gnosticism / Hermetic / Kabbalah / Philosophy
 * [Temple of Solomon the King](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_temple_of_solomon_the_king) - Occult / Gnosticism / Esoterica / Drive 
-* [Abundant Hope](https://krishnamurti.abundanthope.org/) - Sacred Texts / Religion / Christianity / Buddhism / Alchemy / Hinduism / Islam / Theosophy / Judaism / Taoism
 * [Hermetics](http://www.hermetics.org/library.html) - Ancient Texts / Mythology / Occult
 * [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - Religion / Esoterica / Occult
 * [Summa Theologiae](http://summa-theologiae.org/) - Religion / Sacred Doctrine / Christianity
@@ -1117,14 +1115,12 @@
 * [Magazines4U](https://t.me/Magazines4U) - Telegram 
 * [newspaper_archive](https://t.me/newspaper_archive) - Telegram
 * [BookCrushNewsstand](https://t.me/BookCrushNewsstand) - Telegram / [Bot](https://t.me/BookCrushNewsstandBot)
-* [WhatsNws](https://t.me/whatsnws) - Telegram
 * [World Mags](https://www.worldmags.net/)
 * [PDF Dude](https://pdfdude.com/) 
 * [World of Magazine](https://www.worldofmagazine.com/)
 * [PDF Magazines Download](https://pdf-magazines-download.com/)
 * [PDF Magaz](https://www.pdfmagaz.in/)
 * [eBook3000](http://www.ebook3000.com/Magazine/index.html)
-* [MagzDB](http://magzdb.org/)
 * [FreePDFMagazine](https://www.freepdfmagazine.com/)
 * [freemagazines](https://freemagazines.top/)
 * [FreeMagazinesPDF](https://freemagazinepdf.com/)
@@ -1151,9 +1147,7 @@
 
 * ⭐ **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)**
 * ⭐ **[Google Newspaper Search](https://news.google.com/newspapers)**
-* ⭐ **[Newspapers Magazines](https://t.me/newspapersmagaziness)** - Telegram 
 * [Burlesco](https://burles.co/en/) - Bypass the paywall on online newspapers
-* [WhatsNws](https://t.me/whatsnws) - Telegram
 * [BookCrushNewsstand](https://t.me/BookCrushNewsstand) - Telegram / [Bot](https://t.me/BookCrushNewsstandBot)
 * [Sanet.st](https://sanet.st/newspapers/)
 * [Elephind](https://www.elephind.com/) - Historical Newspaper Search
