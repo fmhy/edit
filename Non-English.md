@@ -155,7 +155,8 @@
 * [Fonts Free Chinese](https://www.freechinesefont.com/) or [Fonts.net](https://www.fonts.net.cn/) - Fonts
 * [CatoCR](https://catocr.com/) - Image to Text
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - Lift Emby Restrictions
-* [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [gfwlist](https://github.com/gfwlist/gfwlist), [XX-Net](https://github.com/XX-net/XX-Net), [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser), [New Pac](https://github.com/Alvin9999/new-pac) or [OilAndFish](https://www.oilandfish.com/) - Bypass Chinese Firewall  
+* [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [gfwlist](https://github.com/gfwlist/gfwlist), [XX-Net](https://github.com/XX-net/XX-Net), [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser), [New Pac](https://github.com/Alvin9999/new-pac) or [OilAndFish](https://www.oilandfish.com/) - Bypass Chinese Firewall
+* [BlockedInChina](https://www.comparitech.com/privacy-security-tools/blockedinchina/) - Test if Site is Blocked in China
 * [Gitee](https://gitee.com/) - GitHub Alternative
 * [V2Rex](https://v2ex.com/) or [ZongScan](https://www.zongscan.com/) - Programming Forum
 * [BookStack](https://www.bookstack.cn/) - Developer / Programming Guides
@@ -646,7 +647,7 @@
 * [pakbcn](https://www.bollyzone.tv/) - TV 
 * [PakBcn](http://www.pakbcn.live/) - TV / Live
 * [asiankdrama](https://asiankdrama.com/) - Asian Drama
-* [Dead Toons India](https://deadtoonsindia.net/) - Cartoons / Anime 
+* [Dead Toons India](https://www.deadtoons.net/) - Cartoons / Anime 
 * [ToonWorld4All](https://www.toonworld4all.me/) - Cartoons / Anime
 * [Anime World India](https://anime-world.in/) - Cartoons / Anime / [Discord](https://discord.com/invite/c3ete48q8H)
 * [PepCoding](https://www.pepcoding.com/resources/) - C++ & Java Programming Courses
@@ -1680,6 +1681,7 @@
 * [gnula.nu](http://gnula.nu/) - Movies / TV
 * [CineHDPlus](https://cinehdplus.net/) - Movies / TV
 * [Playdede](https://playdede.tv/) - Movies / TV
+* [allcalidad](https://allcalidad.ms/) - Movies / TV
 * [ennovelas](https://www.ennovelas.com/) - TV
 * [Sololatino](https://sololatino.net/) - Movies / TV / Anime
 * [Repelis24](https://repelis24.co/) - Movies / TV
