@@ -32,7 +32,6 @@
 * [Curlie](https://curlie.org/) - Topic Directory
 * [Open Source Intelligence Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_source_intelligence_indexes)
 * [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - Open Source Software Indexes
-* [Index.Normie](https://index.normie.cc/) - Site / Tool Index
 * [Neverland](http://www.neverland.ws/index.html) - Piracy Index / [Links](https://rentry.co/oo9ri) 
 * [piracy](https://gitlab.com/piracy/piracy/-/tree/master/docs) - Piracy Index
 * [/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/index), [2](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki), [3](https://raddle.me/f/Piracy), [4](https://www.saidit.net/s/piracy/) - Piracy Index
@@ -262,7 +261,7 @@
 * ⭐ **[The GIF Pronunciation Page](http://www.olsenhome.com/gif/)** - How to Pronouce "GIF"
 * ⭐ **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - Realistic-Looking Fake Versions of Things 
 * [GIFs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_gif_tools) - View / Download GIFs
-* [Funnyjunk](https://funnyjunk.com//), [f0ck](https://f0ck.me/), [ImgFlip](https://imgflip.com/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/, [IWasteSoMuchTime](https://www.iwastesomuchtime.com/), [iFunny](https://ifunny.co/), [Imageboard Scraper](https://nik.bot.nu/), [KongouCheats](https://kongoucheats.com/), [MemeGenerator](https://memegenerator.net/), [RandomWaffle](https://randomwaffle.gbs.fm/) or [Wimp.com](https://www.wimp.com/) - Images, Videos, Memes & GIFs / Some NSFW
+* [Funnyjunk](https://funnyjunk.com//), [f0ck](https://f0ck.me/), [ImgFlip](https://imgflip.com/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/), [IWasteSoMuchTime](https://www.iwastesomuchtime.com/), [iFunny](https://ifunny.co/), [Imageboard Scraper](https://nik.bot.nu/), [KongouCheats](https://kongoucheats.com/), [MemeGenerator](https://memegenerator.net/), [RandomWaffle](https://randomwaffle.gbs.fm/) or [Wimp.com](https://www.wimp.com/) - Images, Videos, Memes & GIFs / Some NSFW
 * [KnowYourMeme](https://knowyourmeme.com/) - Meme Database
 * [Copypasta Text](https://copypastatext.com/) - Copypasta Database
 * [wtf.rentry](https://wtf.rentry.co/) or [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
@@ -324,6 +323,7 @@
 * [BigPixel](http://en.bigpixel.cn/) - Giant Zoomable Photos
 * [larsberg](http://www.larsberg.net/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - Trippy 3D Experiments
 * [Just Type Stuff ](https://web.archive.org/web/20191229101209/https://justtypestuff.com/) - Type Things into Existence
+* [Unsent Letter](https://unsent-letters.netlify.app/) - Read Random Unsent Letters
 * [WriteAPrisoner](https://writeaprisoner.com/) - Pen Pals for Inmates
 * [PenPal World](https://www.penpalworld.com/) or [GlobalPenFriends](https://www.globalpenfriends.com/) - Pen Pal Community
 * [PostSecret](https://postsecret.com/) - Share Secrets via Postcard
