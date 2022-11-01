@@ -461,6 +461,7 @@
 * [CasioGShockSmartSync](https://github.com/izivkov/CasioGShockSmartSync) - Google Services for Casio G-shock Watches
 * [schakal](https://www.schakal.ru/) - Amazfit Bip Watchfaces
 * [Bangle.js](https://www.f-droid.org/packages/com.espruino.gadgetbridge.banglejs/) - Bridge Android to Bangle.js Smart Watches
+* [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro) - View System Information
 
 ***
 
