@@ -175,6 +175,7 @@
 * [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Health App
 * [BatteryChargeLimiter](https://github.com/MuntashirAkon/BatteryChargeLimiter) - Charging Control
 * [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - Save Battery by Turning Off Pixels
+* [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro) - View System Information
 * [AllMyContact](https://allmycontact.info/) - Contact Info QR Codes
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - Note Taking Apps
 * [Serenity Notes](https://www.serenity.re/en/notes) - Collaborative Notes
@@ -257,6 +258,7 @@
 * [NeonRom3r](https://github.com/Gr3gorywolf/NeonRom3r) - Download Roms 
 * [GameEye](https://play.google.com/store/apps/details?id=com.hairyharri.gameye) - Video Game Tracking App 
 * [OpenMicroWave](https://omw.xyz.is/) - Morrowind for Android
+* [HMCL-PE](https://github.com/Tungstend/HMCL-PE) - Minecraft for Android
 * [SMAPI](https://github.com/ZaneYork/SMAPI-Android-Installer) - Multiplayer Stardew Valley
 * [VMOS](https://www.vmos.com/) or [x8sb](https://x8sb.com/) - Android Virtual Machine
 * [Media Bar](https://play.google.com/store/apps/details?id=apps.ijp.mediabar) - Status Bar Media Controller
@@ -364,7 +366,7 @@
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - Easily Open Links in Text via Share Function
 * [URLApp](https://urlgapp.com/) - Convert Sites to Android Apps
 * [Ponydroid](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ponydroid), [Jdownloader](https://my.jdownloader.org/), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - Download File Manager / [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)
-* [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_solid_explorer), [rcx](https://x0b.github.io/) / [GitHub](https://github.com/x0b/rcx), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/), [AmazeFileManager](https://teamamaze.xyz/) / [GitHub](https://github.com/TeamAmaze/AmazeFileManager), [FileManager](https://github.com/SimpleMobileTools/Simple-File-Manager) or [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager) / [GitHub](https://github.com/SimpleMobileTools/Simple-File-Manager), [AnExplorer](https://github.com/1hakr/AnExplorer) or [IrkFM](https://github.com/lfuelling/lrkFM) - File Explorers / Managers
+* [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_solid_explorer), [rcx](https://x0b.github.io/) / [GitHub](https://github.com/x0b/rcx), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/), [AmazeFileManager](https://teamamaze.xyz/) / [GitHub](https://github.com/TeamAmaze/AmazeFileManager), [FileManager](https://github.com/SimpleMobileTools/Simple-File-Manager) or [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager), [AnExplorer](https://github.com/1hakr/AnExplorer) or [IrkFM](https://github.com/lfuelling/lrkFM) - File Explorers / Managers
 * [Dumpster](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dumpster) - File Recovery Tool
 * [wsa_pacman](https://github.com/alesimula/wsa_pacman) - Android Package Manager for Windows
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - Download / Torrent Manager 
@@ -461,7 +463,6 @@
 * [CasioGShockSmartSync](https://github.com/izivkov/CasioGShockSmartSync) - Google Services for Casio G-shock Watches
 * [schakal](https://www.schakal.ru/) - Amazfit Bip Watchfaces
 * [Bangle.js](https://www.f-droid.org/packages/com.espruino.gadgetbridge.banglejs/) - Bridge Android to Bangle.js Smart Watches
-* [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro) - View System Information
 
 ***
 
@@ -1142,7 +1143,7 @@
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312)
 * [AppValley](https://www.appvalley.vip/) - Tweaked App Store
 * [Tutubox](https://tutubox.io/) - Tweaked Apps Store
-* [TweakBox](https://www.tweakboxapp.com/) - Alt App Store
+* [TweakBox](https://www.tweakboxapp.com/) - App Store
 * [Cydia](https://cydia.saurik.com/) - App Store / [Paid Apps](https://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown) / [Updates](https://t.me/cydiaupdate)
 * [BuildStore](https://builds.io/) - App Store
 * [AppStore](https://t.me/iOSAppsFree) - Tweaked Apps
@@ -1152,14 +1153,14 @@
 * [Repo Updates](https://www.ios-repo-updates.com/) - App Repository Updates
 * [paxcex](https://paxcex.github.io/) - App Repository
 * [sarahh12099](https://sarahh12099-mirror.github.io/repo) - App Repository
-* [CydiaGeek](https://cydiageek.yourepo.com/) - App Repository 
+* [CydiaGeek](https://cydiageek.yourepo.com/) - App Repository
 * [AppHeaven](https://www.appheaven.vip/) - App / Tweak Repository 
 * [iOSGods](https://iosgods.com/) - App Tweaks / Hacks / Mods
 * [iPA Host](https://github.com/ipahost) - App Tweaks / Social Media’s
-* [EonHub](https://app.eonhubapp.com/) - Hacked Apps / Tweaks 
-* [Scarlet](https://usescarlet.com/) - Hacked apps / Tweaks
-* [iPASpot](https://ipaspot.app/) - Hacked / Tweaked iOS Apps 
-* [Zappfree](https://zappfree.com/ipa-library/) - Hacked / Tweaked iOS Apps
+* [EonHub](https://app.eonhubapp.com/) - Hacked / Tweaked Apps
+* [Scarlet](https://usescarlet.com/) - Hacked / Tweaked Apps
+* [iPASpot](https://ipaspot.app/) - Hacked / Tweaked Apps
+* [Zappfree](https://zappfree.com/ipa-library/) - Hacked / Tweaked Apps
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive
 * [LocalAPStore](https://repo.hackyouriphone.org/localiapstore), [Satella](https://paisseon.github.io/) / [2](https://github.com/Paisseon/Satella/) or [My iAP Cracker](https://repo.hackyouriphone.org/myiapcracker) - In-App Purchase Mods
 * [AppSync Unified](https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified) - IPA Installation Tweak
