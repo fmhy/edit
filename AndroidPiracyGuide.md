@@ -1158,6 +1158,7 @@
 * [EonHub](https://app.eonhubapp.com/) - Hacked Apps / Tweaks 
 * [Scarlet](https://usescarlet.com/) - Hacked apps / Tweaks
 * [iPASpot](https://ipaspot.app/) - Hacked / Tweaked iOS Apps 
+* [Zappfree](https://zappfree.com/ipa-library/) - Hacked / Tweaked iOS Apps
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive
 * [LocalAPStore](https://repo.hackyouriphone.org/localiapstore), [Satella](https://paisseon.github.io/) / [2](https://github.com/Paisseon/Satella/) or [My iAP Cracker](https://repo.hackyouriphone.org/myiapcracker) - In-App Purchase Mods
 * [AppSync Unified](https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified) - IPA Installation Tweak
