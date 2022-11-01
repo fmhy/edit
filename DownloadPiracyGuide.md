@@ -339,7 +339,6 @@
 * [All-free-download](https://all-free-download.com/)
 * [Download Pirate](https://www.downloadpirate.com/)
 * [G4D](https://gift4designer.net/)
-* [GFXDomain](https://gfxdomain.co/) 
 * [DesireFX](https://www.desirefx.me/)
 * [GFXMountain](http://gfxmountain.com/)
 * [GFXhome](http://gfxhome.ws/index.php)
