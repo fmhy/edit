@@ -287,7 +287,7 @@
 * [reveddit](https://play.google.com/store/apps/details?id=com.agreenbhm.reveddit) - View Deleted Reddit Posts
 * [Lemmur](https://github.com/krawieck/lemmur) or [Jerboa](https://github.com/dessalines/jerboa) - Lemmy Client
 * [Uploadgram App](https://github.com/pato05/uploadgram-app) - Uploadgram Frontend
-* [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - Modded Instagram Client / [Telegram](https://t.me/instander)
+* [Instander](https://thedise.me/instander/) - Modded Instagram Client / [Telegram](https://t.me/instander)
 * [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) - Feature-rich Facebook Client
 * [Frost](https://f-droid.org/en/packages/com.pitchedapps.frost/) or [SlimFacebook](https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook/) - Facebook Webwrapper
 * [NoFBEventScraper](https://github.com/akaessens/NoFbEventScraper) - Scrape Facebook for Events without Account
