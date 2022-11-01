@@ -2507,7 +2507,6 @@ Add the following commands to a search to manually scrape each site.
 * https://discord.gg/UkwVjft
 * https://discord.gg/MfXkAMwW6Z
 * https://discord.gg/tuT59S2zcv
-* https://discord.gg/dvP2sJu3EA
 * https://discord.gg/VAadvt9KFH
 
 ***
