@@ -29,6 +29,7 @@
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - Listen Online / Select Playlists
 * [AudioBooksBeyond](https://odysee.com/@AudioBooksBeyond:1) - Audiobooks / Listen Online
 * [xAudiobooks](https://xaudiobooks.com/)
+* [Audiobookss](https://audiobookss.com/)
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks) 
 * [Golden Audiobooks](https://goldenaudiobooks.com/)
 * [LoudLit](http://loudlit.org/) 
