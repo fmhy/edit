@@ -371,7 +371,6 @@
 * [1Techno](https://1techno.org/) - Techno / MP3
 * [HardcoreVinylCollection](https://archive.org/details/HardcoreVinylCollection78GB) - Hardcore Techno / MP3
 * [GlobalDJMix](https://globaldjmix.com/) - DJ Mixes / MP3
-* [Vaporwave Library Project](https://vaporwave.ivan.moe/) - Vaporwave
 * [loa2k](https://loa2k.neocities.org/) - Vaporwave
 * [nu guide](https://nuvaporwave.neocities.org/mirrors.html) - Vaporwave
 * [Vaporware.ivan](https://vaporwave.ivan.moe/list/) - Vaporwave
@@ -394,7 +393,7 @@
 * [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 /FLAC
 * [JPFlac](https://jpflac.com/) - Japanese / Korean / MP3 / FLAC
 * [MikuDB](http://mikudb.moe/) - Vocaloid / MP3
-* [El Rincón del Kitsune](https://archive.ph/DLjI6) - Vocaloid / MP3
+* [El Rincón del Kitsune](https://elrincondelkitsune.blogspot.com/) - Vocaloid / MP3
 * [Все Саундтреки](http://xn--80adhccsnv2afbpk.xn--p1ai/), [Download-Soundtracks](http://download-soundtracks.com/), [3ost](https://3ost.ru/), [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) or [tanikal](https://www.tanikal.com/) - Soundtracks 
 * [GTA Radio Stations Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_gta_radio_stations) - GTA Radio Stations
 * [SittingOnClouds](https://www.sittingonclouds.net/) / [Discord](https://discord.com/invite/x23SFbE) - Anime / Game Soundtracks
@@ -405,7 +404,6 @@
 * [Keygen Music](http://www.keygenmusic.org/) - Keygen Music Archive
 * [BitMidi](https://bitmidi.com/), [Geocities Midi's](https://archive.org/details/archiveteam-geocities-midi-collection-2009), [ArtScene](http://artscene.textfiles.com/music/midi/) or [VGMusic](http://www.vgmusic.com/) - MIDI Files
 * [Demozoo](https://discord.io/demozoo) - Demoscene Archive
-* [QueenMusicHall](http://www.queenmusichall.cz/) - Queen MIDIs, Audio, Photos
 * [BurntScarr](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_burntscarr) or [/r/MusicStems](https://www.reddit.com/r/MusicStems/) - STEMS
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games 
 * [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [Incompetech](https://incompetech.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/), [free stock music](https://www.free-stock-music.com/) or [Fugue](https://icons8.com/music) - Royalty Free Music 
