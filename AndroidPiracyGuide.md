@@ -293,7 +293,6 @@
 * [NoFBEventScraper](https://github.com/akaessens/NoFbEventScraper) - Scrape Facebook for Events without Account
 * [SlimTwitter](https://f-droid.org/en/packages/it.rignanese.leo.slimtwitter/) - Twitter Webwrapper
 * [Shitter](https://github.com/nuclearfog/Shitter) or [Harpy](https://github.com/robertodoering/harpy) - Twitter Client
-* [Twiger](https://twiger.launchaco.com/) - Share Any Tweet on Instagram
 * [NGL](https://ngl.link/) - Instagram Secret Sharing App
 * [Google Lens](https://lens.google/) - Multiple Camera Tools
 * [Photok](https://github.com/leonlatsch/Photok), [Stingle Photos](https://stingle.org/), [Ente](https://ente.io/) or [No See You](https://baixarapk.gratis/en/app/1186829987/photo-vault-noseeyou) - Photo / Video Galleries
@@ -332,7 +331,7 @@
 * [EasyWatermark](https://github.com/rosuH/EasyWatermark) - Add Watermark to Images
 * [Video Watermark](https://play.google.com/store/apps/details?id=com.zmobileapps.videowatermark) - Add Watermark to Videos
 * [Green Screens](https://play.google.com/store/search?q=green%20screen&c=apps) - Green Screens for Android
-* [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram](https://github.com/catogram/catogram/), [OwlGram](https://www.owlgram.org/), [Catogram X](https://github.com/CatogramX/CatogramX), [Telegraher](https://github.com/nikitasius/Telegraher/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - Telegram Client
+* [Nekogram X](https://github.com/NekoX-Dev/NekoX), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram X](https://github.com/CatogramX/CatogramX), [Telegraher](https://github.com/nikitasius/Telegraher/) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)  - Telegram Client
 * [Uploadgram](https://github.com/Pato05/uploadgram-app) - Telegram File Upload
 * [Magic ToolFlash](https://www.xda-developers.com/magic-toolflash-magisk-module/) - ZIP Packages from Android
 * [icq](https://icq.com/) - Messaging App
