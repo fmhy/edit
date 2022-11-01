@@ -77,6 +77,7 @@
 * [PopcornFlix](https://www.popcornflix.com/) - Movies / TV
 * [Crackle](https://www.crackle.com/) - Movies / TV
 * [Freevee](https://www.amazon.com/adlp/freevee-about) - Movies / TV
+* [Redbox](https://www.redbox.com/stream-free-movies) - Movies / TV
 * [ShoutFactoryTV](https://www.shoutfactorytv.com/) - Movies / TV 
 * [Roku](https://therokuchannel.roku.com/) - Movies / TV
 * [Pluto](http://pluto.tv/on-demand) - Movies / TV
