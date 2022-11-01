@@ -391,6 +391,8 @@
 * [Direct Links](https://t.me/direct_llinks) - Telegram / Video / Software / Games 
 * [VK Files Bot](https://t.me/VKFiles_Bot) - VK File DL Telegram Bot
 * [Real-Debrid](https://real-debrid.com/) - File Download App / Paid
+* [Cboxera](https://www.cboxera.com/) - File Download App
+* [RapidGrab](https://rapidgrab.pl/) - File Download App
 
 ***
 
