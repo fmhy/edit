@@ -1324,6 +1324,7 @@
 * [Plasma Integration](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/) - Control Browser via Plasma 
 * [Session Sync](https://addons.mozilla.org/en-US/firefox/addon/session-sync/) - Session Manager 
 * [DelayWebpage](https://addons.mozilla.org/en-US/firefox/addon/delaywebpage/) - Set Webpage Loading Delays
+* [FX Cast](https://hensm.github.io/fx_cast/) - Enable Chromecast Support for Casting Web Apps
 
 ## ▷ Chrome
 
