@@ -224,7 +224,7 @@
 * [UpsideDown Text](https://www.upsidedowntext.com/) - Generate Upside Down Text
 * [I or l?](https://iorl.info/) / [2](https://www.iorl.org/) - Is it an uppercase "i", or is it a lowercase "L"?
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursive Search Tool
-* [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/), [Snskey](https://snskeyboard.com/), [Unilist](https://unilist.raphaelbastide.com/) or [Cool Symbol](https://coolsymbol.com/) - Copy & Paste Unicode Characters
+* [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/), [Snskey](https://snskeyboard.com/), [Unilist](https://unilist.raphaelbastide.com/) or [Cool Symbol](https://coolsymbol.com/), [Alt Codes](https://alt-codes.net/) - Copy & Paste Unicode Characters
 * [BlankText](https://blanktext.net/) - Copy / Paste Blank Spaces 
 * [Donger List](http://dongerlist.com/) - 600+ Unicode Emoticons 
 * [Japanese emoji copy and paste](https://japaneseemojicopyandpaste.com/) - Lenny Face / Japanese Emoticons
