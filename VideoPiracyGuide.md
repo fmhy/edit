@@ -812,6 +812,7 @@
 * [ns3309227](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ns3309227) - Sub / Dub
 * [belia](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_belia) - Sub / Dub
 * [AnimeLibr](https://t.me/AnimeLibr) - Sub
+* [Anime Ocean 2.0](https://t.me/Anime_Ocean_Backup) Sub / Dub
 * [CartoonsArea](https://www.cartoonsarea.xyz/) - Sub / Dub
 * [rbx](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rbx)  - Dub
 * [Anime Time Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime_time_drive) - Sub / Dub 
