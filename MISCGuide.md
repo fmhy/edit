@@ -263,7 +263,7 @@
 * [DeviantArt](https://www.deviantart.com/) or [ArtStation](https://www.artstation.com/) - User-Made Art
 * [Different Strokes](https://swsteffes.itch.io/different-strokes) - Online User-Made Art Gallery
 * [SfwChan](http://boards.swfchan.net/) - SFW Archive
-* [SakugaBooru](https://www.sakugabooru.com/) - Image Booru
+* [SakugaBooru](https://www.sakugabooru.com/) - Anime Animation Booru
 * [IndieGameBooru](https://indiegame.booru.org/) - Indie Game Image Booru
 * [Random Screenshot](https://randomscreenshot.com/) or [Random Prnt.sc](https://chrishannah.me/prntsc/) - Random Screenshots
 * [Archillect](https://archillect.com/archive) - Image Posting Bot
