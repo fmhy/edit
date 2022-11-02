@@ -551,10 +551,10 @@
 * [Pic2Map](https://www.pic2map.com/) - Image EXIF data viewer with GPS support
 * [TheExifer](https://www.thexifer.net/index.php) or [Exiv2](https://www.exiv2.org/) - Image EXIF Data Editor 
 * [Nameexif](https://us.digicamsoft.com/softnamexif.html) - Bulk Image EXIF Data Editor
-* [PictureCipher](https://keitharm.me/projects/picturecipher/index.php) - Encrypt / Decrypt Images  
+* [PictureCipher](https://keitharm.me/projects/picturecipher/index.php) or [Base64 Image](https://www.base64-image.de/) - Encrypt / Decrypt Images 
 * [BetaFace](https://www.betaface.com/demo.html) or [Face Recognition](https://github.com/ageitgey/face_recognition) - Facial Recognition 
 * [FALdetector](https://github.com/peterwang512/FALdetector) - Photoshopped Face Detector
-* [Fawkes](http://sandlab.cs.uchicago.edu/fawkes/) - Image Cloaking 
+* [Fawkes](http://sandlab.cs.uchicago.edu/fawkes/) - Image Cloaking
 * [ImgProxify](https://imgproxify.com/) - Image Proxy Generator
 * [Redact.Photo](https://redact.photo/) - Image Redaction Tool
 * [Squoosh](https://squoosh.app/) - Image Codec Comparison
