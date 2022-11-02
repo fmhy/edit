@@ -163,9 +163,7 @@
 * [IsThereAnyDeal](https://isthereanydeal.com/#/filter:&price/0/0) - Games
 * [IndieGala](https://freebies.indiegala.com/) - Games
 * [/r/freegames](https://www.reddit.com/r/freegames/) - Games
-* [/r/ClaimFreeGames/](https://www.reddit.com/r/ClaimFreeGames/) - Games
 * [ClaimFreeGames](https://claimfreegames.com/) - Games
-* [Ubisoft Free](https://free.ubisoft.com/) - Games
 * [GrabFreeGames](https://grabfreegames.com/) - Games
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - Games
 * [Giveaway Radar](https://giveawayradar.weebly.com/) - Software
