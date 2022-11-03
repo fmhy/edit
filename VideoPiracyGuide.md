@@ -52,6 +52,7 @@
 * [Goojara](https://www.goojara.to/) - Movies / TV / Anime
 * [SpaceMov](https://spacemov.site/) - Movies / TV
 * [NYMeriaTV](https://nymeriatv.com/) - Movies / TV
+* [tokuzilla](https://tokuzilla.net/) - Movies / TV
 * [OpenloadTV](https://openloadtv.co/) - Movies
 * [Voody](https://voody-online.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [AllMoviesForYou](https://allmoviesforyou.net/) - Movies / TV
