@@ -52,7 +52,6 @@
 * [Goojara](https://www.goojara.to/) - Movies / TV / Anime
 * [SpaceMov](https://spacemov.site/) - Movies / TV
 * [NYMeriaTV](https://nymeriatv.com/) - Movies / TV
-* [tokuzilla](https://tokuzilla.net/) - Movies / TV
 * [OpenloadTV](https://openloadtv.co/) - Movies
 * [Voody](https://voody-online.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [AllMoviesForYou](https://allmoviesforyou.net/) - Movies / TV
@@ -256,6 +255,7 @@
 * [RetroVision Media](http://www.retrovisionmedia.com/) - Retro / Classic Films
 * [horror.watch](https://horror.watch/) - Classic Horror Films / May Need [OpenVideo](https://openvideofs.github.io)
 * [Wu Tang Collection](https://www.thewutangcollection.com/) - Martial Arts Films
+* [tokuzilla](https://tokuzilla.net/) - Tokuzilla Movies / Shows
 * [GizmoPlex](https://www.gizmoplex.com/mst3k) - MST3K Movies
 * [Rifftrax Twitch](https://www.twitch.tv/rifftrax) or [RiffTrax Pluto](https://pluto.tv/live-tv/rifftrax) - RiffTrax Live Streams
 * [Ubu](https://ubu.com/film/) - Short Films / Avant-Garde
