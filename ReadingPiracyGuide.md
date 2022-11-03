@@ -613,6 +613,7 @@
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - How to bypass article paywalls
 * [Wikisource](https://en.wikisource.org) - Poetry / Text / Documents
 * [Heystacks](https://heystacks.org/) - Public Google Docs
+* [IDEAS](https://ideas.repec.org/) - Economic Research Papers
 * [Alex Catalogue](http://www.infomotions.com/alex/) - English / Philosophy Documents  
 * [FindPDFDoc](http://www.findpdfdoc.com/) - Document Search 
 * [PDFSlide](https://pdfslide.net/) - Document Search 
