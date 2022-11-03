@@ -839,6 +839,7 @@ Automated Incident Response and Forensics Framework
 * [Hover.CSS](https://ianlunn.github.io/Hover/) - CSS Hover Effects
 * [Clippy](https://bennettfeely.com/clippy/) - CSS Clip Creator
 * [Zerodivs](https://zerodivs.com/) - CSS Illustration Creator
+* [Chartscss](https://chartscss.org/) - CSS Data Visualization Framework
 * [PixelArtCSS](https://www.pixelartcss.com/) - Pixel Art to CSS
 * [Separator Generator](https://wweb.dev/resources/css-separator-generator/) - CSS Separator Generator CSS
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - Organic CSS Shape Generator
@@ -1103,6 +1104,7 @@ Automated Incident Response and Forensics Framework
 * [GNU Octave](https://www.gnu.org/software/octave/) - Scientific Programming Language
 * [Rescript](https://rescript-lang.org/) -Javascript Editor / Language
 * [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - Javascript Resources
+* [Vanilla List](https://vanillalist.top/) - Vanilla Javascript Repository
 * [Danfo.js](https://github.com/javascriptdata/danfojs) - Javascript Library
 * [RunKit](https://runkit.com/) - Browser Javascript Sandbox
 * [JBin](https://jsbin.com/) - Collaborative Javascript Debugging
