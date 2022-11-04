@@ -99,10 +99,10 @@
 ## ▷ Multi Hosts
 
 * ⭐ **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** or [Crocovid](http://crocovid.com/) - Multi-Site Search
+* ⭐ **[xpWatch](https://xpwatch.vercel.app/)** - Movies / TV / Anime
 * ⭐ **[FMovies](https://fmovies.name/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[Squeezebox](https://movie.squeezebox.dev/)** - Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)
 * ⭐ **[Movolo](https://movolo.vercel.app/)** - Movies / TV
-* ⭐ **[xpWatch](https://xpwatch.vercel.app/)** - Movies / TV / Anime
 * ⭐ **[HiMovies](https://www3.himovies.to/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)
 * ⭐ **[Movie-Forum](https://movie-forum.co/forum.php)** - Movies / TV
 * [Goku](https://goku.to/) - Movies / TV / Anime
@@ -943,6 +943,7 @@
 * [FFCritic](http://foundfootagecritic.com/hubs/hub-films/) - Found Footage
 * [Spaghetti Western Database](https://www.spaghetti-western.net/index.php/Main_Page) - Spaghetti Western
 * [listal](https://www.listal.com/) - Movies / TV
+* [My Episodes](https://www.myepisodes.com/) - TV
 * [Movieo](https://movieo.me/) - Movies / TV / Anime
 * [AllMovie](https://www.allmovie.com/) - Movies / TV / Anime 
 * [Episode Calender](https://episodecalendar.com/) - TV Calendar
