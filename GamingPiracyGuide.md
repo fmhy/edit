@@ -220,7 +220,7 @@
 * [RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list) - Emulator Tool Index
 * [RomHacking](https://www.romhacking.net/) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Translations & Hacks
 * [SMWCentral](https://smwcentral.net/) - Super Mario World Hacking
-* [PokemonLog](https://pokemonlog.com/) - Hacked Pokemon ROMs
+* [PokemonLog](https://pokemonlog.com/) or [Pokemon Coders](https://www.pokemoncoders.com/) - Hacked Pokemon ROMs
 * [PokeGB](https://github.com/binji/pokegb) - Pokémon Blue Emulator
 * [PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
 * [GameBanana](https://gamebanana.com/mods/games/14783) - Pokémon Brilliant Diamond & Shining Pearl Mods
