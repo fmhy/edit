@@ -119,7 +119,6 @@
 * [TheFreeOnlineNovel](https://thefreeonlinenovel.com/) - Books
 * [ReadOnlineFreeBook](https://readonlinefreebook.com/) - Books
 * [Chest of Books](https://chestofbooks.com/) - Books
-* [The Imperial Library of Trantor](https://trantor.is/) - Books / [.onion](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/)
 * [All Books Hub](https://allbookshub.com/) - Books
 * [8ebooks](https://8ebooks.net/) - Books / Magazines
 * [ebooksz](https://www.ebooksz.net/) - Books
@@ -744,7 +743,7 @@
 * ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - Slang Word / Phrase Dictionaries
 * ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary Search
 * ⭐ **[Dictionary Index](https://onelook.com/?d=all_gen)**
-* ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase
+* ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase / [API Access](https://wolfreealpha.gitlab.io)
 * [Phrases.org](https://phrases.org.uk/) - Phrase Dictionary
 * [NinjaWords](http://ninjawords.com/) - Dictionary
 * [Wordnik](https://www.wordnik.com/) - Dictionary
@@ -1154,6 +1153,7 @@
 * [Elephind](https://www.elephind.com/) - Historical Newspaper Search
 * [EngNewspapers](https://vk.com/engnewspapers) - Telegram
 * [newspaper_archive](https://t.me/newspaper_archive) - Telegram
+* [dailynewspaper88](https://t.me/dailynewspaper88) - Telegram
 * [Chronicling America](https://chroniclingamerica.loc.gov/newspapers/)
 * [Newspapers com](https://newspapers.com/)
 * [ThoughtCo](https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215)
