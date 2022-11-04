@@ -89,7 +89,7 @@
 * [udemyforu](https://t.me/udemyforu) - Udemy Courses / Telegram
 * [CGPERS](https://t.me/CGPERS) - Udemy Courses / Telegram
 * [Udemy Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons) - Udemy Coupon Sites
-* [UdemyBot](https://github.com/gautamajay52/UdemyBot) - Udemy Course Bot
+* [UdemyBot](https://github.com/gautamajay52/UdemyBot) or [UdemyPy](https://github.com/dylannalex/UdemyPy) - Udemy Course Bots
 * [GUdemyBot](https://t.me/GUdemyBot) - Udemy Coupon Bot 
 * [Fresh Coupons](https://github.com/KajanM/fresh-coupons) - Automatically Apply Discount Coupons on Udemy Courses / [Chrome](https://chrome.google.com/webstore/detail/fresh-coupons/pbnfeejfjlmmjfgnmmfpalhlpjidlgie)
 * [CommSpeeches](https://commspeeches.softr.app/) - Famous Graduation Speeches 
@@ -517,6 +517,7 @@ Simulator
 * ⭐ **[Awesome-Lang](https://github.com/oyd11/awesome-lang)**, [Many Things](http://www.manythings.org/) or [Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8) - Language Learning Resources 
 * ⭐ **[Languages & Linguistics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_languages_.26amp.3B_linguistics)** or [EnglishBooks](http://englishbooks.com.tw/primary/) - Language Learning Books
 * [Speechling](https://speechling.com/tools) - Language Learning Tools
+* [Ba Ba Dum](https://babadum.com/) - Language Learning Game
 * [BeyondPlayer](https://circleapps.co/) - YouTube Player for English Learners
 * [Language Roadmap](https://languageroadmap.com/) - Foreign Language Media Difficulty Guide
 * [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [Conversation Exchange](https://www.conversationexchange.com/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - Language Learning Network
@@ -524,8 +525,7 @@ Simulator
 * [Xuga](https://eng.ichacha.net/mpr/xuga.html) - Word Pronunciation Tool
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi-Language Dictionary Index
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary 
-* [SpanishDict](https://www.spanishdict.com/) - Spanish Translation Dictionary
-* [Memrise](https://www.memrise.com/), [InternetPolyglot](https://www.internetpolyglot.com/), [LingoDeer](https://www.lingodeer.com/), [Busuu](https://www.busuu.com/en/) or [Duolingo](https://www.duolingo.com/) - Language Learning Lessons 
+* [Memrise](https://www.memrise.com/), [InternetPolyglot](https://www.internetpolyglot.com/), [LingoDeer](https://www.lingodeer.com/), [Busuu](https://www.busuu.com/en/) or [Duolingo](https://www.duolingo.com/) / [Tips](https://duome.eu/tips) - Language Learning Lessons 
 * [Yojik](https://fsi-languages.yojik.eu/index.html) or [ESOL](https://www.esolcourses.com/) - Language Learning Courses
 * [Language Transfer](https://www.languagetransfer.org/) - Language Learning Courses / Audio
 * [refold.la](https://refold.la/roadmap) - Language Learning Guide 
@@ -545,7 +545,8 @@ Simulator
 * [Sounter](https://sounter.com/) - Learn Language Through Songs
 * [Polyglot](https://polyglotclub.com/) - Offline Language Exchange 
 * [South Asian Languages](https://discord.gg/TrdqTDdMba) - South Asian Language Learning
-* [StudySpanish](https://studyspanish.com/) - Spanish Learning Tutorials
+* [StudySpanish](https://studyspanish.com/) or [LibreLingo](https://librelingo.app/) - Learn Spanish
+* [SpanishDict](https://www.spanishdict.com/) - Spanish Translation Dictionary
 * [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials
 * [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
 * [AnimeLon](https://animelon.com/) - Streaming / Anime / Learn Japanese
@@ -593,6 +594,8 @@ Simulator
 * [YellowBridge](https://www.yellowbridge.com/) - Chinese Learning Tools
 * [Mandarin Chinese](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mandarin_chinese) - Mandarin Chinese Learning Books
 * [Chinese Flashcards](http://www.chineseflashcards.io/) - Chinese Flashcards
+* [Seedlang](https://seedlang.com/) - German Learning App
+* [Linguee](https://www.linguee.de/) or [Dict.cc](https://m.dict.cc/) - German Translation Dictionary
 * [LearningSwedish](https://learningswedish.se/) - Swedish Learning Course
 * [Urdu Resource List](https://docs.google.com/document/d/1GRTK_E0YGybMNYZjFToM40sOHNkR1NJXc_dL8HW2Q_0/) or [UrduNotes](https://urdunotes.com/) - Urdu Learning Resources
 * [Urdupod101](https://www.urdupod101.com/blog/2021/03/18/urdu-grammar-overview/) - Urdu Grammar Overview / [Video](https://youtu.be/X5J_kXigPWE)
@@ -706,6 +709,7 @@ Simulator
 * [cb2bib](https://www.molspaces.com/cb2bib/) - Reference Extractor / Manager
 * [5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk) - Grade School Educational Tools
 * [ScienceTrek](https://sciencetrek.org/) - Teaching Resources
+* [Socrative](https://www.socrative.com/) - Teaching App
 * [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - UPSC Telegram Channels
 * [AuthorStream](http://www.authorstream.com/) or [Slideshare](https://www.slideshare.net/) - Watch / Share Slideshows & Presentations
 * [SlideShare Downloader](https://slideshare.theteacoder.tech/), [2](https://www.slidesharedownloader.com/) - Download Slideshow Presentations
@@ -775,9 +779,10 @@ Simulator
 * [Altium](https://www.altium.com/viewer/) - Schematics Visualizer
 * [OpenLearning](https://www.openelearning.org/) - Create Course Presentations
 * [Quizizz](https://quizizz.com/) - Create Quizzes, Lessons, Flashcards & Presentations
-* [Anki](https://apps.ankiweb.net/), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html), [StudyLib](https://www.studylib.net/) or [Flashcard Machine](https://www.flashcardmachine.com/) - Flash Card Tools
-* [Carden](https://github.com/alyssaxuu/carden) or [Awesome Anki](https://github.com/tianshanghong/awesome-anki) - Flash Card Extensions
-* [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flash Card Mobile App
+* [Anki](https://apps.ankiweb.net/) / [CLI](https://github.com/TBS1996/speki), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html), [StudyLib](https://www.studylib.net/) or [Flashcard Machine](https://www.flashcardmachine.com/) - Flash Card Tools
+* [Carden](https://github.com/alyssaxuu/carden) or [Awesome Anki](https://github.com/tianshanghong/awesome-anki) - Flashcard Extensions
+* [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flashcard Mobile App
+* [Plickers](https://get.plickers.com/) - Q&A Results App
 * [Wolfram Cloud](https://www.wolframcloud.com/) - Computational intelligence
 * [Matthen](https://blog.matthen.com/) - Math & Science Animations
 * [Eylenburg](https://eylenburg.github.io/) - Infographs, Maps & Papers
