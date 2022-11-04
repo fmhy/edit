@@ -63,7 +63,7 @@
 * ⭐ **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools) / [ACSM Plugin](https://github.com/Leseratte10/acsm-calibre-plugin)
 * ⭐ **[Library Genesis](http://libgen.rs/)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools)
-* ⭐ **[Z-Library](https://z-lib.org/)** - Books / Comics / Educational / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_tools) / [Removed Books](https://t.me/firstlibrarybot)
+* ⭐ **[Z-Library](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/)** - Books / Comics / Educational / Account Required / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_tools) / [Removed Books](https://t.me/firstlibrarybot)
 * ⭐ **[eBookHunter](https://ebook-hunter.org/)** - Books / Comics
 * ⭐ **[ebook3000](http://www.ebook3000.com/)** - Books / Audiobooks / Comics / Magazines / Newspapers
 * ⭐ **[Telegram Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - Telegram Book Channels
@@ -618,8 +618,7 @@
 * [FindPDFDoc](http://www.findpdfdoc.com/) - Document Search 
 * [PDFSlide](https://pdfslide.net/) - Document Search 
 * [EDoc](https://edoc.tips/) - Document Search 
-* [IDoc](https://idoc.pub/ ) - Document Search
-* [academic.microsoft](https://academic.microsoft.com/home) - Document Search
+* [IDoc](https://idoc.pub/) - Document Search
 * [lens](https://www.lens.org/) - Document Search
 * [base-search](https://www.base-search.net/) - Document Search
 * [dimensions](https://app.dimensions.ai/discover/publication) - Document Search
