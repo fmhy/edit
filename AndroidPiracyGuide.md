@@ -36,7 +36,7 @@
 * ⭐ **[Awesome Android Security](https://github.com/ashishb/android-security-awesome)** - Android Security Resources 
 * ⭐ **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - Browsers with a focus on Privacy 
 * [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html), [PandaVPN](https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy), [GoatVPN](https://play.google.com/store/apps/details?id=com.secure.proxy.freevpn), [Vpnify](https://vpnifyapp.com/), [YourFreedomVPN](https://apkcombo.com/your-freedom-vpn-client/de.resolution.yf_android/), [VPN Door](https://play.google.com/store/apps/details?id=com.securesoft.vpndoor&hl=en_US&gl=US), [VPNhub](https://www.vpnhub.com/) or [Clash](https://github.com/Kr328/ClashForAndroid/) / [Profiles](https://rentry.co/2q3rn) - Free VPN
-* [Guardian Project](https://guardianproject.info/) / [2](https://guardianproject.info/fdroid/repo), [Divestos Apps](https://divestos.org/index.php?page=recommended_apps), [CookieJarApps](https://cookiejarapps.com/) or [InviZible](https://github.com/Gedsh/InviZible) - Privacy Based Apps / Tools 
+* [Guardian Project](https://guardianproject.info/) / [2](https://guardianproject.info/fdroid/repo), [Divestos Apps](https://divestos.org/index.php?page=recommended_apps) or [InviZible](https://github.com/Gedsh/InviZible) - Privacy Based Apps / Tools 
 * [FOSS Smartphone Hardening](https://lemmy.ml/post/54596), [2](https://www.reddit.com/r/privatelife/comments/rohq46/100_foss_smartphone_hardening_nonroot_guide_40/) - Non-Root Smart Phone Hardening Guide
 * [Hackuna](https://play.google.com/store/apps/details?id=org.cryptors.hackuna002&hl=en&gl=US) - Anti-Hack Tool
 * [Exodify](https://github.com/FacettsOpen/exodify) - Display Tracker Count on Apps in Play Store
@@ -70,7 +70,7 @@
 * [FreezeYou](https://www.freezeyou.net/en-US/), [SuperFreezZ](https://superfreezz.gitlab.io/) or [Drowser](https://gitlab.com/juanitobananas/drowser) - Freeze App Background Activities
 * [SnoopSnitch](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/) - Check Mobile Network Security 
 * [SimpleLogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/) or [Anonaddy](https://gitlab.com/Stjin/anonaddy-android) - Email Forwarding
-* [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/), [Temp Mail](https://play.google.com/store/apps/details?id=temporary.disposable.mail), [Ten Minute Mail](https://play.google.com/store/apps/details?id=com.tenminutemail) or [‎InstAddr](https://play.google.com/store/apps/details?id=air.kukulive.mailnow) - Temp Mail Clients
+* [Temp Email Apps](https://rentry.co/v92q6), [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/), [Temp Mail](https://play.google.com/store/apps/details?id=temporary.disposable.mail), [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957) - Temp Email Client, [Ten Minute Mail](https://play.google.com/store/apps/details?id=com.tenminutemail) or [‎InstAddr](https://play.google.com/store/apps/details?id=air.kukulive.mailnow) - Temp Mail Apps
 * [Private Location](https://f-droid.org/en/packages/com.wesaphzt.privatelocation/) - Hide Phone Location Permanently
 * [Fake GPS Location](https://play.google.com/store/apps/details?id=com.evezzon.fakegps) or [GPS JoyStick Guide](http://gpsjoystick.theappninjas.com/faq/) - Fake GPS Location 
 * [RadiusLocker](https://www.radiuslocker.co/) - Lock Phone When its not Near You
@@ -140,18 +140,17 @@
 # ► Android Tools
 
 * ⭐ **[Custom Android Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_operating_systems)**
-* ⭐ **[Android Debloat Guide](https://rentry.co/debloatandroid)** or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
 * ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)** or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tool / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager) / [SafteyNet Fix](https://github.com/kdrag0n/safetynet-fix) / [Modules](https://www.androidacy.com/magisk-modules-repository/)
 * ⭐ **[AutumnBox](https://github.com/zsh2401/AutumnBox/releases)** - Android Device Manager / Root Tool / [Features](https://i.imgur.com/59MlFrW.png)
 * ⭐ **[Android Web Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)** 
 * ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client 
 * ⭐ **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites & Apps
+* [Android Debloat Guide](https://rentry.co/debloatandroid) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
 * [File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools) - Tools to Share / Sync Files
 * [GearJail](https://gearjail.neocities.org/) - Android Guides / Resources
 * [FFShare](https://www.f-droid.org/packages/com.caydey.ffshare/) - Compress Videos / Images
 * [XDA](https://forum.xda-developers.com/) - Android Discussion Forum
 * [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
-* [a107X](https://t.me/a107X) - Galaxy A10 Telegram
 * [W10M Group](https://w10mgroup.github.io/) - Mobile Windows Tech Support
 * [Maemo](https://talk.maemo.org/) - Maemo OS Discussion / [Wiki](https://wiki.maemo.org/) / [Telegram](https://t.me/maemomeego), [2](https://t.me/meegoosinternational)
 * [SymbianOS](https://t.me/symbianos) - Symbian OS Discussion
@@ -364,7 +363,6 @@
 * [Hacki](https://github.com/Livinglist/Hacki) - Hacker News
 * [ServeIt](https://github.com/many-fac3d-g0d/ServeIt) - Android HTTP Server
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - Easily Open Links in Text via Share Function
-* [URLApp](https://urlgapp.com/) - Convert Sites to Android Apps
 * [Ponydroid](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ponydroid), [Jdownloader](https://my.jdownloader.org/), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - Download File Manager / [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)
 * [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_solid_explorer), [rcx](https://x0b.github.io/) / [GitHub](https://github.com/x0b/rcx), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/), [AmazeFileManager](https://teamamaze.xyz/) / [GitHub](https://github.com/TeamAmaze/AmazeFileManager), [FileManager](https://github.com/SimpleMobileTools/Simple-File-Manager) or [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager), [AnExplorer](https://github.com/1hakr/AnExplorer) or [IrkFM](https://github.com/lfuelling/lrkFM) - File Explorers / Managers
 * [Dumpster](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dumpster) - File Recovery Tool
@@ -405,7 +403,6 @@
 * [KONTXT](https://play.google.com/store/apps/details?id=com.realnetworks.kontxt.voice&hl=en&gl=US) - Preview Calls
 * [SimpleMail](https://framagit.org/dystopia-project/simple-email), [k9mail](https://k9mail.app/) or [FairCode](https://email.faircode.eu/) - Email App 
 * [BlitzMail](https://github.com/grote/BlitzMail) - One Click Email App
-* [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957) - Temp Email Client
 * [Get Unstuck](https://socratic.org/) - Homework Answers / Help 
 * [Take Notes](https://github.com/the-rebooted-coder/Take-Notes) - Convert Text to Handwritten Notes
 * [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - To-Do List Apps
@@ -507,6 +504,7 @@
 * [APK Vision](https://apkvision.com/) - Untouched
 * [APKTurbo](https://www.apkturbo.com/) - Untouched
 * [Androidrey](https://androidrey.com/) - Untouched
+* [Top Androids](https://top-androids.com/) -
 * [APK Award](https://apkaward.com/) - Untouched
 * [9Apps](https://www.9apps.com/) - Untouched
 * [APKDL](https://apkdl.in/) - Untouched
@@ -849,7 +847,6 @@
 * [MrFTV](https://mrftv.com/) - Movies / TV
 * [LokLok](https://loklok.com/download) - Movies / TV
 * [WatchCartoonsOnline App](https://watchcartoononline.bz/watchcartoononline-app-for-android-devices/) - Cartoons / Anime
-* [STBEmu](https://docs.stbemu.com/download/) - Emulate a STB and Watch IPTV
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - YTS Torrents 
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - Chinese Drama 
 * [aDrama](https://adrama.online/) - Asian Drama / [Addons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_adrama_addons)
@@ -885,7 +882,6 @@
 * [Aniyomi](https://github.com/jmir1/aniyomi)
 * [Animebay](https://animebay.tech/)
 * [AnYme](https://github.com/zunjae/anYme) - [GitHub](https://zunjae.github.io/anymeapp.com/) / [Discord](https://discord.com/invite/JUMvDEP)
-* [Kayuri](https://github.com/Killerpac/Kayuri)
 * [Yukino](https://github.com/yukino-app/yukino)
 * [Akiyama](https://github.com/Fmaldonado6/Akiyama)
 * [Saikou](https://github.com/saikou-app/saikou) 
@@ -914,7 +910,6 @@
 # ► iOS Jailbreaking
 
 * ⭐ **[Complete Jailbreak Chart](https://appledb.dev/)** - Jailbreak Tools Index
-* [Can I Jailbreak](https://canijailbreak2.com/) - Check if your Phone can be Jailbroken 
 * [PostBox](https://www.postbox.news/) - Jailbreak News App / [Discord](https://discord.gg/maPagQDmnw)
 * [/r/jailbreak](https://reddit.com/r/jailbreak) - Jailbreaking Subreddit
 * [Sideloading Beginners Guide](https://redd.it/orqzau) or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - Sideloading Guide
@@ -930,16 +925,14 @@
 * [Unc0ver](https://unc0ver.dev/) - 11.0 to 14.8 Jailbreak / [Procursus](https://dark.diatr.us) / [GitHub](https://github.com/pwn20wndstuff/Undecimus)
 * [LiberiOS](https://github.com/LiberiOS/LiberiOS) - 11.0-11.1.2 Jailbreak
 * [Meridian](https://meridian.sparkes.zone/) - 10.0-10.3.3 Jailbreak 
-* [h3lix](https://h3lix.tihmstar.net/) - 10.0 up to 10.3.3 Jailbreak / [Patcher](https://gist.github.com/jakeajames/b44d8db345769a7149e97f5e155b3d46)
 * [sockH3lix](https://github.com/SongXiaoXi/sockH3lix/releases/tag/v1.4) - 10.0.1 up to 10.3.3 Jailbreak
-* [doubleH3lix](https://doubleh3lix.tihmstar.net/) - 10.0 up to 10.3.3 Jailbreak / [GitHub](https://github.com/tihmstar/doubleH3lix)
+* [doubleH3lix](https://github.com/tihmstar/doubleH3lix) - 10.0 up to 10.3.3 Jailbreak
 * [kok3shi](https://dora2ios.web.app/kokeshiJB.html) - 9.3-9.3.5 Semi-tethered Jailbreak
 * [Phoenix](https://phoenixpwn.com/) - 9.3.5-9.3.6 32-bit Jailbreak
 * [p0laris](https://p0laris.dev/) - 9.x Untethered Jailbreak / [GitHub](https://github.com/p0larisdev/app)
 * [Pangu933](https://web.archive.org/web/20170214021020/http://dl.pangu.25pp.com/jb/NvwaStone_1.1.ipa) - 9.2 up to 9.3.3 Jailbreak
 * [HomeDepot](http://wall.supplies/) - 9.1 up to 9.3.4 Jailbreak
 * [Pangu9](https://web.archive.org/web/20170702115349/http://en.9.pangu.io/) - 9.0 to 9.0.2 Jailbreak
-* [EtasonJB](https://etasonjb.tihmstar.net/) - 8.4.1 32-bit Jailbreak
 * [Daibutsu](https://dora2ios.web.app/daibutsu.html) - 8.4.1 Jailbreak
 * [Pangu7](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/41UlRSyS) - 7.1 up to 7.1.2 / [Mac](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/Fo8ihCJa)
 * [Evasi0n7](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/1wc0HZgQ) - 7.0 to 7.0.6 Jailbreak / [5s / 5c](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/MxdDDS4b)
