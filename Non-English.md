@@ -445,36 +445,35 @@
 
 * ⭐ **[Tarnkappe](https://forum.tarnkappe.info/)** - Piracy Discussion + [Telegram](https://t.me/Tarnkappe_info)
 * ⭐ **[Awesome German Piracy](https://github.com/SeppPenner/awesome-german-piracy)** - German / Piracy Site Index
-* [RR.Topliste](https://toplist.raidrush.ws/) - Piracy Site List 
-* [xrel](https://www.xrel.to/) - Scene Release & P2P Tracker 
+* [RR.Topliste](https://toplist.raidrush.ws/) - Piracy Site List
+* [xrel](https://www.xrel.to/) - Scene Release & P2P Tracker
 * [Boerse](https://boerse.am/) - German Data Sharing Discussion Forum
 * [mediathekviewweb](https://mediathekviewweb.de/) - Hacker News
 
 ## ▷ Downloading 
 
 * [Openos](http://www.openos.at/) - Linux Distros
-* [Crawli](https://crawli.net/) - Download Search 
+* [Crawli](https://crawli.net/) - Download Search
 * [Bestoflinks](http://bestoflinks.synology.me/) - Warez / NSFW / List
-* [ArchivX](https://www.archivx.to/) - Warez / List 
+* [ArchivX](https://www.archivx.to/) - Warez / List
 * [LinkR](https://www.linkr.top/index.php) - Warez / List
 * [3DL.TV](https://3dl.tv/) - Video / Audio / Games / Software / Books / Android / NSFW
 * [DarkLight](https://board.darklight.to/) - Video / Audio / Games / ROMs / Software / Books / Magazines / NSFW
 * [Goldesel](https://goldesel.to/), [2](https://blockbuster.to/) - Video / Audio / Software / Games / Android / NSFW
-* [byte.to](https://byte.to/) - Video / Audio / Software / Android / Books / NSFW 
-* [ngb](https://ngb.to/) - Video / Software / Audio / Books / Android 
-* [warez.to](https://warez.to/) - Movies / TV / Games / Software / NSFW 
-* [hd-source](https://hd-source.to/) - Video / NSFW 
-* [MLCBoard](https://mlcboard.com/) - Movies 
-* [German Telegram Movie Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_german_telegram_movie_downloads) - Movies 
+* [byte.to](https://byte.to/) - Video / Audio / Software / Android / Books / NSFW
+* [ngb](https://ngb.to/) - Video / Software / Audio / Books / Android
+* [warez.to](https://warez.to/) - Movies / TV / Games / Software / NSFW
+* [hd-source](https://hd-source.to/) - Video / NSFW
+* [MLCBoard](https://mlcboard.com/) - Movies
+* [German Telegram Movie Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_german_telegram_movie_downloads) - Movies
 * [Boerse](https://myboerse.bz/) - Video / Audio / Software / Android / NSFW
-* [Animes.so](https://www.animes.so/) - Anime 
+* [Animes.so](https://www.animes.so/) - Anime
 * [37.187.112](http://37.187.112.153/) - Anime
 * [serienjunkies](https://serienjunkies.org/) - TV
-* [uu.canna.to](http://uu.canna.to/) - Music / Audiobooks 
+* [uu.canna.to](http://uu.canna.to/) - Music / Audiobooks
 * [ddl-albums](https://ddl-albums.net/) - MP3
 * [CasualGamers](https://casualgamers.club/) - Games
 * [GLOAD](https://gload.to/) - Games
-* [German Book Repository](https://rvdm5wlb3t4qaqkljs4ya545x6mh77wegdhu7t6iz6emh3f47u3sydyd.onion/) - Books
 
 ## ▷ Streaming
 
@@ -1534,7 +1533,7 @@
 * [doram](https://doram.cc/) - Asian TV
 * [turkcinema.cc](https://turkcinema.cc/) - Turkish TV
 * [turkishtv.ru](http://turkishtv.ru/) - Turkish / Indian TV
-* [kinoturk.net](https://kinoturk.net/ ) - Turkish Movies / TV
+* [kinoturk.net](https://kinoturk.net/) - Turkish Movies / TV
 * [turkru.tv](https://turkru.tv/) - Turkish TV
 * [TVRF](https://tvrf.online/) - Live TV
 * [OnTVTime](https://www.ontvtime.ru/) - Live TV
@@ -1563,7 +1562,7 @@
 
 * ⭐ **[CyberLeninka](https://cyberleninka.ru/)** - Articles / Educational / Scientific / Legal  
 * ⭐ **[Lib.ru](http://lib.ru/)** - Books
-* ⭐ **[Flibusta](https://flibusta.is/)** - Books / [Onion](http://flibustahezeous3.onion/) / [I2P](http://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) / Requires account
+* ⭐ **[Flibusta](https://flibusta.is/)** - Books / [I2P](http://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) / Requires account
 * [VK Book DL Pages](https://redd.it/kne0ba) 
 * [LoveRead.ec](http://loveread.ec/) - Books / NSFW
 * [Twirpx](https://www.twirpx.com/) - Books / Educational 
@@ -1575,7 +1574,6 @@
 * [libking](https://libking.ru/) - Books
 * [rulit](https://www.rulit.me/) - Books 
 * [ibookscafe](https://bookscafe.net/) - Books / NSFW
-* [sblib](http://sblib3fk2gryb46d.onion/) - Books / .onion 
 * [KinoMuzic](https://kinomuzic.ucoz.ru/) - Books / Soundtracks
 * [MirKnig.sur ](http://mirknig.su/) - Books / Fiction / Nonfiction 
 * [saitknigi](https://saitknigi.ru/) - Books / Audiobooks
