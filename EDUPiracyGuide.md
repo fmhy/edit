@@ -113,7 +113,6 @@
 * [WatchDocumentaries](https://watchdocumentaries.com/)
 * [Cinetimes](https://cinetimes.org/en/)
 * [Docur](https://docur.co/) 
-* [PBS Frontline](https://www.pbs.org/wgbh/frontline/films/)
 * [ThoughtMaybe](https://thoughtmaybe.com/) 
 * [Folkstreams](https://www.folkstreams.net/) 
 * [Films For Action](https://www.filmsforaction.org/) 
@@ -146,7 +145,6 @@
 * [online-courses](https://online-courses.club/) - Courses
 * [Coursesghar](https://coursesghar.com/) - Courses 
 * [FreeEducationWeb](https://freeeducationweb.com/) - Courses 
-* [DLECourse](https://dlecourse.com/) - Courses 
 * [FreeCourseDL](https://freecoursedl.com/) - Courses 
 * [TutsNode](https://tutsnode.com/) - Courses
 * [FreeStudyWeb](https://freestudyweb.com/) - Courses 
@@ -158,13 +156,10 @@
 * [5G GYAN](https://www.5ggyan.com/) - Courses 
 * [GameOfCourses](https://gameofcourses.com/) - Courses
 * [WSODownloads](https://www.wsodownloads.in/) - Courses
-* [Primetechie](https://forum.primetechie.com/) - Courses
 * [DuForum](https://duforum.in/) - Courses
 * [FreeTutorialsUS](https://www.freetutorialsus.com/course/) - Courses
 * [DL Course](https://dlcourse.org/) - Courses
-* [freecourseslab](https://www.freecourseslab.com/category/course/) - Courses
 * [tut4dl](https://tut4dl.com/) - Courses
-* [galaxytuts](https://galaxytuts.blogspot.com/) - Courses
 * [technet24](https://technet24.ir/category/videos) - Courses
 * [coursedown](https://coursedown.com/) - Courses
 * [cgpersia](https://cgpersia.com/category/download/learning) - Courses
@@ -320,7 +315,6 @@
 * [Giac/Xcas](http://www-fourier.ujf-grenoble.fr/~parisse/giac.html) - Algebra System
 * [Weboasis Convert](https://weboasis.app/convert/) - Conversion Calculators
 * [PecentageTools](https://percentagetools.com/) - Percentage Calculators
-* [FractionCalc](https://fractionscalc.com/) - Fraction Calculator
 * [Matrix Multiplication](http://matrixmultiplication.xyz/) - Matrix Multiplication Calculator
 * [Unit Conversion](https://conversao.net/eng/), [Quick Convert](https://www.microsoft.com/p/app/9wzdncrdm7gt), [UnitConverters](https://www.unitconverters.net/), [Converter Pro](https://f-droid.org/packages/com.ferrarid.converterpro/), [ConvertUnits](https://www.convertunits.com/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converters
 * [Derivative Calculator](https://www.derivative-calculator.net/) - Derivative Calculator
@@ -550,7 +544,7 @@ Simulator
 * [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials
 * [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
 * [AnimeLon](https://animelon.com/) - Streaming / Anime / Learn Japanese
-* [Nihongo](https://nihongo-e-na.com/eng/), [Jim Breen's Japanese Page](http://nihongo.monash.edu/japanese.html), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/), [AnimeCards](https://animecards.site/), [Gakuu](https://web.archive.org/web/20201113022338/http://gakuu.com/resources/), [Itzazureneko](https://itazuraneko.neocities.org/learn/guide.html) - Japanese Learning Resources
+* [Nihongo](https://nihongo-e-na.com/eng/), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/), [AnimeCards](https://animecards.site/), [Gakuu](https://web.archive.org/web/20201113022338/http://gakuu.com/resources/), [Itzazureneko](https://itazuraneko.neocities.org/learn/guide.html) - Japanese Learning Resources
 * [TheMoeWay](https://learnjapanese.moe/) / [Discord](https://discord.gg/nhqjydaR8j), [Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
@@ -635,7 +629,6 @@ Simulator
 * [Music Theory](https://www.musictheory.net/) - Music Theory
 * [Piano Trainer](https://zaneh.itch.io/piano-trainer) - Piano
 * [Pianu](https://pianu.com/) - Piano
-* [HowToPlayPiano](http://howtoplaypiano.ca/) - Piano
 * [PianoCheetah](https://pianocheetah.app) - Piano
 * [JustinGuitar](https://www.justinguitar.com/) - Guitar
 * [FretFlip](https://fretflip.com/guitar-scales) - Guitar
@@ -678,7 +671,7 @@ Simulator
 * [MyAssignmentHelp](https://myassignmenthelp.com/free-tools.php) - Academic Tools
 * [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - Touch Typing Tutorial
 * [Spreeder](https://www.spreeder.com/) - Learn to Read Faster
-* [Fact Directory](https://fact.directory/) or [RDoK](http://rdok.net/) - Fact / Knowledge Databases
+* [Fact Directory](https://fact.directory/) - Fact / Knowledge Databases
 * [Refseek](https://www.refseek.com/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engine
 * [Explorabl.es](https://explorabl.es/) or [MinuteLabs](https://minutelabs.io/) - Interactive Learning / Lessons 
 * [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - Learn With GIFs 
@@ -694,7 +687,7 @@ Simulator
 * [Catma](https://catma.de/) - Research Markup & Analysis Tool
 * [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips) - Latex Research Paper Tips
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
-* [Stublio](https://stublio.com/) or [Studify](https://github.com/cmcodes1/Studify) - Keep Track of what you're Studying 
+* [Studify](https://github.com/cmcodes1/Studify) - Keep Track of what you're Studying 
 * [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - Educational Communication / iOS
 * [Note Taking Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - Note Taking / To-Do Apps
 * [Note Garden](https://notegarden.web.app/), [2](https://notegarden.io/) - Note Taking & Auto Courses
@@ -712,7 +705,7 @@ Simulator
 * [Socrative](https://www.socrative.com/) - Teaching App
 * [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - UPSC Telegram Channels
 * [AuthorStream](http://www.authorstream.com/) or [Slideshare](https://www.slideshare.net/) - Watch / Share Slideshows & Presentations
-* [SlideShare Downloader](https://slideshare.theteacoder.tech/), [2](https://www.slidesharedownloader.com/) - Download Slideshow Presentations
+* [SlideShare Downloader](https://www.slidesharedownloader.com/) - Download Slideshow Presentations
 * [Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables) - Online Periodic Tables / [App](https://jlindemann.se/homepage/atomic/)
 * [ChemicalAid](https://en.intl.chemicalaid.com/) - Chemistry Calculators & Element Tables
 * [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
@@ -865,7 +858,6 @@ Simulator
 * [Reddit-wiki-programming](https://github.com/antariksh17/Reddit-wiki-programming) - Computer Science Learning Resources
 * [CompSciLib](https://www.compscilib.com/) - Computer Science Tools
 * [Niche](https://www.niche.com/) or [Top Universities](https://www.topuniversities.com/) - University & School Rankings
-* [Find Study Now](https://find-study-now.com/) - School Search
 * [BachelorStudies](https://bachelorstudies.com/) - Bachelor Degree Search 
 * [College Map](https://nces.ed.gov/ipeds/collegemap/) - College Information Map
 * [RateMyDorm](https://ratemydorm.com) or [:)](https://docs.google.com/document/d/14Mn1CrA-CV5YZAkOZtrMKTmn2O4oL-2EhIXhzXZbO0A/edit#) - College Dorm Reviews
