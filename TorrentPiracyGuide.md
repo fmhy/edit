@@ -70,7 +70,6 @@
 * [FileStream](https://filestream.me/)
 * [ZBIGZ](https://zbigz.com/)
 * [PeerSM](https://www.peersm.com/)
-* [Torrent Web](https://github.com/mccxiv/torrent-web) 
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
 * [JSTorrent](https://www.jstorrent.com/) - Chrome
 * [BitFord](https://github.com/astro/bitford) - Chrome
@@ -125,14 +124,14 @@
 * [Telegram Torrents](https://duckduckgo.com/?q=site%3At.me+torrent&ia=web) - Telegram Torrent Channels
 * [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/) - [ZeroNet Required](https://zeronet.io/) / Video / Audio / Software / Games
 * [4chan /t/](https://boards.4chan.org/t/) - Torrents / Imageboard / Some NSFW 
-* [8kun /t/](https://8kun.top/t/index.html) - Torrents / Imageboard [.onion](http://jthnx5wyvjvzsxtu.onion/t/)
+* [8kun /t/](https://8kun.top/t/index.html) - Torrents / Imageboard
 * [DirtyWarez Tracker](https://dirtywarez.org/cat/tracker), [OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/) / [2](https://opentrackers.org/) or [awesome-piracy](https://github.com/Igglybuff/awesome-piracy#public-trackers) - Torrent Site Indexes
 
 ***
 
 ## ▷ Aggregators
 
-* ⭐ **[Torrentz2](https://torrentz2eu.me/)** - [Beta](https://torrentzeu.org/beta/) / [Magnet Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrentz2_magnet_links)
+* ⭐ **[Torrentz2](https://torrentz2.pics/)** - [Magnet Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrentz2_magnet_links)
 * ⭐ **[FileListing](https://filelisting.com)** 
 * ⭐ **[snowfl](https://snowfl.com/)** 
 * ⭐ **[Knaben](https://knaben.eu/)**
@@ -141,7 +140,6 @@
 * [Bitsearch](https://bitsearch.to/)
 * [Torrent Finder](https://torrent-finder.com/) 
 * [TorrentDownload](https://www.torrentdownload.info/) 
-* [Torrent Paradise](https://torrent-paradise.ml/) 
 * [Toros2](https://www.toros2.com/)
 * [Dirty Torrents](https://dirtytorrents.com/) 
 * [TorrentQuest](https://torrentquest.com/) 
@@ -223,7 +221,7 @@
 
 # ► Helpful Sites / Apps
 
-* ⭐ **[PreDB](https://predb.ovh/)** / [2](https://predb.me/) / [3](https://predb.de/) / [4](https://www.predb.pw/) / [5](https://predb.xyz/), [PreDB Live](https://predb.live/), [M2V](https://m2v.ru/), [Xrel](https://www.xrel.to/) or [srrDB](https://www.srrdb.com/) - Scene Release Tracker
+* ⭐ **[PreDB](https://predb.ovh/)** / [2](https://predb.me/) / [3](https://predb.de/) / [4](https://predb.xyz/), [PreDB Live](https://predb.live/), [M2V](https://m2v.ru/), [Xrel](https://www.xrel.to/) or [srrDB](https://www.srrdb.com/) - Scene Release Tracker
 * ⭐ **[Tracker Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tracker_lists)** - Updated lists of BitTorrent trackers 
 * ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.com) / [3](https://www.torrentkitty.net/) / [4](https://www.torrentkitty.lol/) / [5](https://torrentkitty.se/) - Torrent to Magnet Converter
 * ⭐ **[Auto Torrent Tools List](https://redd.it/hbwnb2)**, [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
