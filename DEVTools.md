@@ -299,7 +299,6 @@
 * [Telegram Bot API](https://github.com/tdlib/telegram-bot-api) or [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - Telegram Bot API
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
 * [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - C++ Library for Discord
-* [Fetchip](https://www.fetchip.software/) - Chrome Extension Creator
 * [Twitter (un)official Consumer Key](https://gist.github.com/shobotch/5160017) - Twitter Consumer Keys
 * [Birdsite](https://birdsite.slashdev.space/) - Twitter to ActivityPub Bridge
 * [rss-to-activitypub](https://portal.0svc.com/convert/) - RSS to ActivityPub Converter
@@ -608,7 +607,7 @@ Automated Incident Response and Forensics Framework
 
 ## ▷ Software Development
 
-* [Electron](https://www.electronjs.org/), [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [Flet](https://flet.dev/) or [Tauri](https://tauri.studio/) / [Resources](https://github.com/tauri-apps/awesome-tauri) / [GitHub](https://github.com/tauri-apps/tauri) - Desktop App Builders / [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://electron-app-store.ml/) / [Debugger](https://www.electronjs.org/apps/debugtron)
+* [Electron](https://www.electronjs.org/), [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [Flet](https://flet.dev/) or [Tauri](https://tauri.studio/) / [Resources](https://github.com/tauri-apps/awesome-tauri) / [GitHub](https://github.com/tauri-apps/tauri) - Desktop App Builders / [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://www.electronjs.org/apps/) / [Debugger](https://github.com/bytedance/debugtron)
 * [Budibase](https://budibase.com/) - Internal App Builder / [GitHub](https://github.com/Budibase/budibase)
 * [raylib technologie](https://raylibtech.itch.io/), [bookmarks](https://github.com/MorganGeek/bookmarks) or [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - Software Development Tools
 * [Theos](https://theos.dev/) - Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
@@ -720,7 +719,7 @@ Automated Incident Response and Forensics Framework
 * [Redex](https://fbredex.com/) - Android Bytecode Optimizer
 * [Capturable](https://github.com/PatilShreyas/Capturable) - Transform Composable Content to Bitmap Images 
 * [Firetable](https://github.com/Antler-VC/firetable) - View Firebase / Firestore in Excel 
-* [Previewed](https://previewed.app/), [Mokup Frames](https://www.mokupframes.com/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Hishoot2i](https://github.com/hishoot2i/Hishoot2i) / [Templates](https://t.me/hishoot2imaterial), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/) or [LS Graphics](https://www.ls.graphics/) - App & Site Mockups
+* [Previewed](https://previewed.app/), [Mockup World](https://www.mockupworld.co/), [AniMockup](https://animockup.com/), [DeviceShots](https://deviceshots.com/), [DeviceFrames](https://deviceframes.com/), [medialoot](https://medialoot.com/free-mockups/), [MockMagic](https://www.mockmagic.com/), [MockupsForFree](https://mockupsforfree.com/), [zippypixels](https://zippypixels.com/), [Hishoot2i](https://github.com/hishoot2i/Hishoot2i) / [Templates](https://t.me/hishoot2imaterial), [TheMockupClub](https://themockup.club/), [RiseShot](https://www.riseshot.com/), [Upmock](https://www.upmock.io/) or [LS Graphics](https://www.ls.graphics/) - App & Site Mockups
 * [Mockoops](https://github.com/Just-Moh-it/Mockoops) - Animated Mockups
 * [Really Good Emails](https://reallygoodemails.com/) - Product Email Mobile Designs and Templates
 * [UIGarage](https://uigarage.net/), [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui), [UXArchive](https://uxarchive.com/), [Mobbin](https://mobbin.design/), [UISources](https://www.uisources.com/) or [LovelyUI](https://lovelyui.com/) - Mobile UI Designs
@@ -843,7 +842,6 @@ Automated Incident Response and Forensics Framework
 * [LCH Colour Picker](https://css.land/lch/) - CSS Color Picker
 * [Animista](https://animista.net/), [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) or [Woah.css](https://www.joerezendes.com/projects/Woah.css/) - CSS Animations
 * [Glass UI](https://ui.glass/generator/) - Glassmorphism CSS Generator
-* [css2scss](https://sebastianpontow.de/css2compass/) - CSS to SCSS Converter 
 * [Tableconvert](https://tableconvert.com/) - Markdown / Code Converter
 * [Markdown Link Check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check Markdown Files for Dead Links 
 * [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks), [Terminal CSS](https://terminalcss.xyz/), [Bulma](https://bulma.io/), [Tailwind](https://tailwindcss.com/) or [SimpleCSS](https://simplecss.org/) - CSS Frameworks
@@ -864,7 +862,7 @@ Automated Incident Response and Forensics Framework
 * ⭐ **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [awesome-lis](https://github.com/topics/awesome-list) or [awesome-github](https://github.com/fffaraz/awesome-github) - List Indexes
 * [GitLab](https://about.gitlab.com/), [FSFE](https://git.fsfe.org/) or [NotABug](https://notabug.org/) - GitHub Alternatives
 * [GitHubStatus](https://www.githubstatus.com/) - GitHub Outage Status
-* [Git Explorer](https://gitexplorer.com/), [WTG](https://wtg.nezia.xyz/), [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html) or [Git Commands](https://gabrieldejesus.github.io/git-commands/), [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists / Search
+* [Git Explorer](https://gitexplorer.com/), [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html) or [Git Commands](https://gabrieldejesus.github.io/git-commands/), [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists / Search
 * [GitHub Desktop](https://desktop.github.com/) or [Tower](https://www.git-tower.com/) - GitHub Client
 * [GitHub.Dev](https://github.dev/) - GitHub Web App
 * [refined-github](https://github.com/refined-github/refined-github) or [Ungit](https://github.com/FredrikNoren/ungit) - Improved GitHub Interface
@@ -967,7 +965,7 @@ Automated Incident Response and Forensics Framework
 * [Paletton](https://paletton.com/) - Color Scheme Designer
 * [Duo](https://duo.alexpate.uk/) - Color Combinations
 * [PaletteGenerator](https://palettegenerator.com/) or [Alwane](https://alwane.io/) - Color Palette Extractor
-* [Hex Naw](https://hexnaw.com/), [Colorable](https://colorable.jxnblk.com/) / [GitHub](https://github.com/jxnblk/colorable), [accessible-color-matrix](https://toolness.github.io/accessible-color-matrix/) or [Accessible Brand Colors](https://abc.useallfive.com/) - Accessible Color Pallette Builders
+* [Colorable](https://colorable.jxnblk.com/) / [GitHub](https://github.com/jxnblk/colorable), [accessible-color-matrix](https://toolness.github.io/accessible-color-matrix/) or [Accessible Brand Colors](https://abc.useallfive.com/) - Accessible Color Pallette Builders
 * [Simpler Color](https://github.com/arnelenero/simpler-color) - Create Web Color System
 * [ColorZilla](https://www.colorzilla.com/) - Color Picker, Gradient Generator & more
 * [Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers) - Extract Color from Pictures / Webpages
@@ -1111,7 +1109,6 @@ Automated Incident Response and Forensics Framework
 * [JDec](https://jdec.app/) - Online JavaScript Decompiler
 * [anime.js](https://animejs.com/) - JavaScript Animation Library / [GitHub](https://github.com/juliangarnier/anime/)
 * [randomcolor](https://randomcolor.lllllllllllllllll.com/) - Random Javascript Color Generator
-* [recognizer](https://github.com/equiet/recognizer) - Semantic Highlighting for JavaScript Development
 * [Microdiff](https://github.com/AsyncBanana/microdiff) - Object and Array Comparison Library
 * [Adoptium](https://adoptium.net/) - Download OpenJDK Binaries
 * [trzsz](https://github.com/trzsz/trzsz.js) - Make trzsz Compatible with tmux in Terminal
