@@ -54,7 +54,7 @@
 * [Alphagames4u](https://alphagames4u.com/) - [Discord](https://discord.gg/QjrJSs7maj)
 * [DarckRepacks](https://darckrepacks.com/) - [Discord](https://discord.gg/5eRvDvy)
 * [RepackLab](https://repacklab.com/) - [Discord](https://discord.gg/X7sjSxgrfk)
-* [SPiKY Repacks](https://discord.gg/ZHC6pffMz2) - [GamesDrive Uploader](https://gamesdrive.co/)
+* [SPiKY Repacks](https://discord.gg/ZHC6pffMz2)
 * [Game Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_game_drive)
 * [WorldOfPCGames](https://worldofpcgames.co/) - [Discord](https://discord.gg/fYmMD8Bg3p)
 * [AimHaven](https://www.aimhaven.com/) - Use Adblocker 
@@ -190,7 +190,6 @@
 * [RomToHome](https://romtohome.com/) - ROMs
 * [Sundby](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sundby) - ROMs
 * [EdgeEmulation](https://edgeemu.net/) - ROMs
-* [Rom Nation](https://www.romnation.net/) - ROMs
 * [GLoad](https://gload.to/) - ROMs
 * [WowROMs](https://wowROMs.com/en/) - ROMs
 * [ROMsFun](https://ROMsfun.com/) - ROMs
@@ -514,7 +513,6 @@
 * [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
 * [QWOP](http://www.foddy.net/Athletics.html) - Ragdoll Running Game
 * [Checkbox Olympics](https://checkboxolympics.com/) - Checkbox Browser Games
-* [Ping Pong](http://oos.moxiecode.com/js_webgl/ping_pong/) - WebGL Ping Pong
 * [Dino Swords](https://dinoswords.gg/) - Stay Alive by Jumping / Destroying Cacti
 * [The Circle](https://the-circle.app/) - Dodge Circles
 * [PROXX](https://proxx.app/) - A Game of Proximity
