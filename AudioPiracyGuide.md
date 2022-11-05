@@ -15,7 +15,7 @@
 * ⭐ **[Spotify Client](https://www.spotify.com/us/download/)**, [SpotifyD](https://github.com/Spotifyd/spotifyd), [Lofi Rocks](https://www.lofi.rocks/), [ncspot](https://github.com/hrkfdn/ncspot), [Strix](https://arlo.site/strixmusic/install/) or [SpoTube](https://github.com/KRTirtho/spotube) - Streaming
 * ⭐ **[Spotify Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - Spotify Tools, Adblockers, Customization & More
 * [YouTube Music Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_music_players) - Streaming
-* [FunkWhale](https://funkwhale.audio/) - Streaming / [Listening Parties](https://chrome.google.com/webstore/detail/youtube-music-party/cdmmbghbolflmmfecknfkjcflnadaocg)
+* [FunkWhale](https://funkwhale.audio/) - Streaming
 * [nuclear](https://nuclear.js.org/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
 * [Cider](https://cider.sh/) - Streaming
@@ -297,7 +297,6 @@
 * [musify](https://musify.club/) - MP3
 * [Funky Souls](https://forum.funkysouls.org/), [2](https://funkysouls.org/) - MP3
 * [Music for the masses !](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_music_for_the_masses_.21) - MP3
-* [MP4Juice](https://mp4juice.cc/) - MP3
 * [Cliggo](https://music.cliggo.com/) - MP3
 * [rildi](https://rilds.com/) - MP3
 * [RabbitMP3](https://www.rabbitmp3.com/) - MP3
@@ -420,7 +419,6 @@
 * ⭐ **[Redtopia](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_redtopia)** - Redtopia Repository / FLAC
 * ⭐ **[SolidTorrents](https://solidtorrents.to/)** - MP3 / FLAC / [/r/SolidTorrents](https://reddit.com/r/SolidTorrents)
 * ⭐ **[Lidarr](https://github.com/Lidarr/Lidarr)** or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
-* [Flactor](https://flactor.ru/) - FLAC
 * [DimeADozen](http://www.dimeadozen.org/) - MP3 / FLAC
 * [TheAudioScene](https://theaudioscene.net/) - MP3 / FLAC
 * [Metal Tracker](https://en.metal-tracker.com/) - Metal / MP3
