@@ -65,7 +65,6 @@
 * ⭐ **[Library Genesis](http://libgen.rs/)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools)
 * ⭐ **[Z-Library](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/)** - Books / Comics / Educational / Account Required / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_tools) / [Removed Books](https://t.me/firstlibrarybot)
 * ⭐ **[eBookHunter](https://ebook-hunter.org/)** - Books / Comics
-* ⭐ **[ebook3000](http://www.ebook3000.com/)** - Books / Audiobooks / Comics / Magazines / Newspapers
 * ⭐ **[Telegram Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - Telegram Book Channels
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - Books
 * [IRC Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - Download Ebooks from IRC
