@@ -148,7 +148,6 @@
 * [1Lib](https://1lib.limited/) - Books
 * [Avalon Library](https://avalonlibrary.net/) - Books
 * [D-PDF](https://d-pdf.com/) - Books
-* [Read Any Book](https://read-any-book.com/) - Books
 * [GrayCity](https://graycity.net/) - Books
 * [CentslessBooks](https://centslessbooks.com/) - Books 
 * [SNEWD](https://snewd.com/) - Books 
@@ -591,7 +590,7 @@
 * [free-python-books](https://github.com/pamoroso/free-python-books)
 * [ApressOpen](https://www.apress.com/us/apress-open/apressopen-titles) - Computer Science 
 * [Veed](http://mqala.co.za/veed/) - Computer Science
-* [AllITBooks](https://allitbooks.net/) - Computer Science
+* [AllITBooks](https://allitebook.xyz/) - Computer Science
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science / [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Go Books](https://github.com/dariubs/GoBooks) - GoLang Books
 * [JSBooks](https://jsbooks.revolunet.com/) - Javascript Books
@@ -641,7 +640,6 @@
 * [Semantic Scholar](https://www.semanticscholar.org/) - Scientific Paper Search 
 * [Connected Papers](https://www.connectedpapers.com/) or [LitMaps](https://app.litmaps.co/) - Find Connected Academic Papers 
 * [FreeFullPDF](https://freefullpdf.com/) - Science / Articles
-* [CiteSeerX](https://citeseerx.ist.psu.edu/index) - Science / Articles
 * [KUNDOC](https://coek.info/) - Science / Articles
 * [Papers We Love](https://paperswelove.org/) - Science / Articles / [GitHub](https://github.com/papers-we-love/papers-we-love)
 * [Awesome Detection Transformer](https://github.com/IDEACVR/awesome-detection-transformer) - Transformer for Detection and Segmentation Papers
@@ -682,7 +680,6 @@
 * [PsyArXiv](https://psyarxiv.com/) - Articles / Psychological Sciences 
 * [SkillCommons](https://www.skillscommons.org/) - Work Training Documents 
 * [Institute of Education Sciences](https://eric.ed.gov/) - Documents / Texts / Papers 
-* [LAC](https://www.bac-lac.gc.ca/eng/Pages/home.aspx) - Canadian Document Archive
 * [Pandora](http://pandora.nla.gov.au/) - Australian Document Archive
 * [Parliament Archives](https://archives.parliament.uk/) - UK Parliamentary Documents
 * [EThOS](https://ethos.bl.uk/SearchResults.do) - Doctoral Theses 
@@ -1083,7 +1080,6 @@
 * [NovelFull](https://novelfull.me/)
 * [MTL Nation](https://mtlnation.com/)
 * [Novel Hall](https://www.novelhall.com/)
-* [Novel Free](https://mnovelfree.com/)
 * [Rekt Novel Compilations](https://rektnovelcompilations.wordpress.com/)  
 * [VolareNovels](https://www.volarenovels.com/) 
 * [WoopRead](https://woopread.com/)
