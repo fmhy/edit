@@ -438,7 +438,6 @@
 * [Swapper](https://icons8.com/swapper) - Face Swapper
 * [DeepSort](https://github.com/CorentinB/DeepSort/) or [WiseTagger](https://github.com/0xb8/WiseTagger) - Image Tagger 
 * [Cluttr](https://gitlab.com/bearjaws/cluttr) - Automatically Organize & Tag Photos
-* [Photo.net Tutorials](https://www.photo.net/learn/about/tutorials) - Photography Tutorials
 * [Canon Camera Museum](https://global.canon/en/c-museum/camera-series.html) - History of Canon Cameras
 * [Painting Demos](https://paintingdemos.com/) - Painting Demonstrations
 * [3DVKARTS](https://3dvkarts.net/) or [Line of Action](https://line-of-action.com/) - Drawing Tutorials
@@ -518,7 +517,7 @@
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram Analysis
 * [Instagram-Explorer](https://www.osintcombine.com/instagram-explorer) - Explore Pictures by Location 
 * [Save Instagram](https://gist.github.com/g-rohit/f47170c8b3b302bcbe214ba624d636bc) - Enable Right Click / Save on Instagram 
-* [StoriesDown](https://storiesdown.com/), [anon-instastories](https://anon-instastories.online/), [instasaved](https://instasaved.net/en), [insta-stories-viewer](https://insta-stories-viewer.com/) or [StoriesIG](https://storiesig.net/) - Story Downloader
+* [StoriesDown](https://storiesdown.com/), [instasaved](https://instasaved.net/en), [insta-stories-viewer](https://insta-stories-viewer.com/) or [StoriesIG](https://storiesig.net/) - Story Downloader
 * [SaveFromWeb](https://www.savefromweb.com/), [Downloadgram](https://downloadgram.org/) or [Instagram-crawler](https://github.com/hehpollon/Instagram-crawler) - Video / Picture / Story Downloader 
 * [PixWox](https://www.pixwox.com/) or [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper) - Picture / Story Downloader
 * [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [SocialUnblock](https://socialunblock.com/), [Instagram-Scraper](https://github.com/arc298/instagram-scraper), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [igram](https://igram.io/), [InstaLooter](https://github.com/althonos/InstaLooter), [Instaloader](https://github.com/instaloader/instaloader) or [instapick](https://www.instapick.net/) - Picture / Video Downloader
@@ -556,7 +555,6 @@
 * [BetaFace](https://www.betaface.com/demo.html) or [Face Recognition](https://github.com/ageitgey/face_recognition) - Facial Recognition 
 * [FALdetector](https://github.com/peterwang512/FALdetector) - Photoshopped Face Detector
 * [Fawkes](http://sandlab.cs.uchicago.edu/fawkes/) - Image Cloaking
-* [ImgProxify](https://imgproxify.com/) - Image Proxy Generator
 * [Redact.Photo](https://redact.photo/) - Image Redaction Tool
 * [Squoosh](https://squoosh.app/) - Image Codec Comparison
 * [jPhotoDNA](https://github.com/jankais3r/jPhotoDNA) - Image CSAM Identification Algorithm
