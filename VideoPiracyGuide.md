@@ -247,11 +247,11 @@
 ## ▷ Specialty Streaming
 
 * ⭐ **[How-to Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - Find Obscure Films
-* [RareFilmm](https://rarefilmm.com/) - Rare Movies
+* ⭐ **[RareFilmm](https://rarefilmm.com/)** - Rare Movies
 * [3D Online Films](https://www.documentarymania.org/) - 3D Movies
 * [ElectronicNostalgia1991](https://www.youtube.com/c/ElectronicNostalgia1991/) - Movie Commentaries
 * [Classic Cinema Online](https://classiccinemaonline.com/), [ClassixApp](https://www.classixapp.com/), [BnWMovies](https://bnwmovies.com/) or [Dumb Classic Movies](http://www.dumb.com/movies/) - Classic Films
-* [TheFilmDetective](https://thefilmdetective.tv/) - Classic Films / TV
+* [TheFilmDetective](https://www.thefilmdetective.com/) - Classic Films / TV
 * [RetroVision Media](http://www.retrovisionmedia.com/) - Retro / Classic Films
 * [horror.watch](https://horror.watch/) - Classic Horror Films / May Need [OpenVideo](https://openvideofs.github.io)
 * [Wu Tang Collection](https://www.thewutangcollection.com/) - Martial Arts Films
@@ -315,7 +315,6 @@
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - TV / Anime
 * [Teleisodes](https://www1.telepisodes.org/) - TV 
 * [FZTVSeries](https://fztvseries.mobi/), [MobileTVShows](https://www.mobiletvshows.net/) or [TVSeries](https://www.tvseries.in/) - TV / Anime
-* [OnlySeries](https://onlyseries.net/) - TV
 * [Watch-TvSeries](https://www1.watch-tvseries.net/) - TV
 * [MyWatchSeries](https://www5.mywatchseries.stream/) - TV / Anime 
 * [turkish123](https://turkish123.com/) - Turkish TV Shows / Subtitles
@@ -519,11 +518,11 @@
 * [XUMO](https://www.xumo.tv/channels) - TV
 * [JokerLiveStream](https://www.jokerlivestream.life/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
-* [720pStream](http://720pstream.tv/) - Sports 
+* [720pStream](http://720pstream.tv/) - Sports
 * [CrackStreams](https://crackstreams.io/), [2](https://crackstreams.me/) - Sports
-* [ATDHE](http://atdhe.pro/) - Sports 
-* [GiveMeRedditStreams](https://givemeredditstreams.com/) - Sports 
-* [Stream on Sport](https://www.streamonfoot.xyz/), [2](https://www.streamonsport.info/) - Sports / [Telegram](https://t.me/s/streamonsport)
+* [ATDHE](http://atdhe.pro/) - Sports
+* [GiveMeRedditStreams](https://givemeredditstreams.com/) - Sports
+* [Stream on Sport](https://www.streamonfoot.xyz/), [2](https://www.streamonsport77.buzz/) - Sports / [Telegram](https://t.me/s/streamonsport)
 * [SportSala](https://www.sportsala.cc/) or [123Cric](https://www.123cric.com/) - Sports
 * [Pluto](http://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports
 * [Time4TV](http://time4tv.stream/) - TV / Sports
@@ -537,7 +536,7 @@
 * [Stream4Free Live](https://www.stream4free.live/) - TV / Sports
 * [vipotv](http://vipotv.com/) - TV / Sports
 * [SamiTVHD](https://samitvhd.com/) - TV / Sports
-* [uStream](https://www.ustream.to/index.html) - TV / Sports 
+* [uStream](https://www.ustream.to/index.html) - TV / Sports
 * [Stream2Watch](https://hq.stream2watch.sx/), [2](https://stream2watch.at/) - TV / Sports
 * [LiveTV.video](https://livetv.video/) - TV / Sports
 * [LM Shows](https://lmshows.se/) - TV
@@ -580,7 +579,7 @@
 * [DudeStream](http://dudestream.com/) - Sports
 * [CricHD.tv](https://web.crichd.tv/) - Sports
 * [UFCKhabib](http://ufckhabib.com/) - Sports
-* [TotalSportek](https://www.totalsportek.com/) - Sports
+* [TotalSportek](https://totalsportek.pro/) - Sports
 * [6Streams](http://6streams.tv/) - Sports
 * [NodelayTV](http://nodelaytv.pw/) - Sports
 * [Rojadirecta](https://www.rojadirecta.watch/) - Sports
@@ -702,7 +701,6 @@
 * [HDHub4U](https://hdhub4u.bar/category/hollywood-movies/) - Movies / TV
 * [MoviezAddiction](https://moviezaddiction.work/) - Movies / TV / [Telegram](https://t.me/moviezaddiction3)
 * [WorldFree4u](https://worldfree4u.download/) - Movies
-* [Downloadhub](https://downloadhub.plus/category/hollywood-movies/) - Movies / [Telegram](https://t.me/downloadhubcool1)
 * [SSR Movies](https://www.ssrmovies.wine/category/hollywood-movies-hd) - Movies / TV / [Telegram](https://t.me/SSRmovies2022) / [2](https://telegram3.xyz/)
 * [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV
 * [MovieLegacy](https://movieslegacy.com/category/hollywood/) - Movies
@@ -967,7 +965,6 @@
 * [Taste.io](https://www.taste.io/) - Movie Recommendations
 * [Movie-Map](https://www.movie-map.com/) - Movie Recommendations
 * [GNOD](https://www.gnod.com/) - Movie Recommendations
-* [Movies Capstone Project](https://github.com/rounakbanik/movies) - Movie Recommendations 
 * [FilmFish](https://www.film-fish.com/) - Movie & TV Recommendations 
 * [Suggest Me Movie](https://www.suggestmemovie.com/) - Movie Recommendations
 * [agoodmovietowatch](https://agoodmovietowatch.com/) - Movie Recommendations
