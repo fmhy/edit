@@ -509,7 +509,7 @@
 * ⭐ **[Sports Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming)** - Sports
 * ⭐ **[StreamEast](https://www.streameast.xyz/)** - Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)
 * ⭐ **[StreamLinks](https://reddits.soccerstreamlinks.com/)**, [2](https://red.soccerstreams.net/), [3](https://footybite.cc/) - Sports
-* ⭐ **Reddit Streams** - [Soccer](https://redi1.soccerstreams.net/), [NFL](https://reddit.nflbite.com/), [NBA](https://scor.nbabite.com/), [NHL](https://nhlbite.com/), [MLB](https://mlbshow.com/), [F1](https://live1.formula1stream.cc/), [MMA](https://live2.mmastreams.cc/), [Cricket](https://live.cricketstreams.cc/)
+* ⭐ **[Reddit Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_streams)** - Sports
 * ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [2](https://github.com/iptv-org/iptv) - IPTV Resources / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
 * [TOTV](http://totv.org/) - TV / Sport
 * [IPTV Web](https://dev-iptv.web.app/) - TV / Sport
