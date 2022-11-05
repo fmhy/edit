@@ -887,7 +887,7 @@
 * ⭐ **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
 * ⭐ **[Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)**
 * ⭐ **[Nyaa](https://nyaa.si/)**, [2](http://nyaa.iss.one/) - Sub / Dub
-* ⭐ **Nyaa Tools** - [TUI](https://github.com/irevenko/koneko) / [CLI](https://github.com/natanbc/nyaasi) / [Telegram Bot](https://github.com/ejnshtein/nyaasi-bot), [2](https://t.me/meow_in_japanese_bot) / [Python Wrapper](https://github.com/JuanjoSalvador/NyaaPy) / [Torrent Fetch](https://github.com/manintel/nyaabag), [2](https://github.com/Vivek-Kolhe/Nyaa-API) / [Downloader](https://github.com/marcpinet/batch-downloader-nyaa.si/)
+* ⭐ **Nyaa Tools** - [TUI](https://github.com/irevenko/koneko) / [Telegram Bot](https://github.com/ejnshtein/nyaasi-bot), [2](https://t.me/meow_in_japanese_bot) / [Python Wrapper](https://github.com/JuanjoSalvador/NyaaPy) / [Torrent Fetch](https://github.com/manintel/nyaabag), [2](https://github.com/Vivek-Kolhe/Nyaa-API) / [Downloader](https://github.com/marcpinet/batch-downloader-nyaa.si/)
 * ⭐ **[Anidex](https://anidex.info/)** - Sub / Dub
 * ⭐ **[Hi10Anime](https://hi10anime.com/)** - Sub
 * ⭐ **[SubsPlease](https://subsplease.org/)** - Sub
