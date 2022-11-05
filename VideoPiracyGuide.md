@@ -17,7 +17,7 @@
 * ⭐ **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * ⭐ **[Ask4movies](https://ask4movie.mx/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
 * ⭐ **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
-* ⭐ **[C1NE](https://c1ne.co/)** - Movies / TV
+* ⭐ **[C1NE](https://c1ne.co/)** - Movies / TV / [Discord](https://discord.gg/nXUP8TxNSR)
 * ⭐ **[HDMovieBox](https://hdmoviebox.org/)** - Movies
 * ⭐ **[Movies.cf](https://movies.cf/Landing)** - Movies
 * ⭐ **[FreeTubeSpot](https://www.freetubespot.com/)** - Movies
@@ -504,19 +504,19 @@
 * ⭐ **[Sportsurge](https://sportsurge.net/)**, [2](https://sportsurge.club/) - Sports / Stream Locator
 * ⭐ **[Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - TV / Sports
 * ⭐ **[Jackal](https://jackal.surge.sh/)** - TV / Sports
-* ⭐ **[USTVGO](https://ustvgo.tv/)** - TV / Sports
-* ⭐ **[WeakStream](http://weakstreams.com/)** - Sports 
+* ⭐ **[USTVGO](https://ustvgo.tv/)** - TV / 
 * ⭐ **[Sports Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming)** - Sports
 * ⭐ **[StreamEast](https://www.streameast.xyz/)** - Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)
 * ⭐ **[StreamLinks](https://reddits.soccerstreamlinks.com/)**, [2](https://red.soccerstreams.net/), [3](https://footybite.cc/) - Sports
 * ⭐ **[Reddit Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_streams)** - Sports
+* ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
 * ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [2](https://github.com/iptv-org/iptv) - IPTV Resources / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
 * [TOTV](http://totv.org/) - TV / Sport
 * [IPTV Web](https://dev-iptv.web.app/) - TV / Sport
-* [Soccer Streams](https://reedit.soccerstreams.net/) - Soccer
 * [123TV](http://123tv.live/) - TV / Sports
 * [WatchNewsLive](https://watchnewslive.tv/) - TV / Sports
 * [XUMO](https://www.xumo.tv/channels) - TV
+* [WeakStream](http://weakstreams.com/) - Sports 
 * [JokerLiveStream](https://www.jokerlivestream.life/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
 * [720pStream](http://720pstream.tv/) - Sports
@@ -547,7 +547,6 @@
 * [puffer](https://puffer.stanford.edu/) - TV
 * [wwiTV](https://wwitv.com/) - TV
 * [WorldCupFootball](http://www.worldcupfootball.me/) - Sports
-* [6stream](http://6stream.xyz/) - Sports
 * [FLS](http://gw.freestreams-live1.com/) - Sports / [Discord](https://discord.gg/UKEjyPEaYG)
 * [Icelz](https://icelz.newsrade.com/) - Sports
 * [livetv](http://livetv.sx) - Sports
@@ -555,9 +554,9 @@
 * [StreamsGate](https://streamsgate.tv/) - Sports
 * [WatchKobe](http://watchkobe.info/) - Sports
 * [VIP Box Sports](https://www.viprow.nu/) - Sports
-* [SportsHub](https://www.sportshub.stream/) - Sports
-* [BuffStreams](https://buffstreams.tv/) - Sports
-* [SportHD](https://sporthd.live/) - Sports
+* [SportsHub](https://sportshub.stream/) - Sports
+* [BuffStreams](https://buffstreams.sx/) - Sports
+* [SportHD](https://1.livesoccer.sx/) - Sports
 * [Cricfree](https://cricfree.pw/), [2](https://cricfree.io/) - Sports
 * [Crickfree.tv](http://crickfree.be/) - Sports
 * [SportsOnline](https://sportsonline.to/) - Sports
@@ -581,15 +580,10 @@
 * [CricHD.tv](https://web.crichd.tv/) - Sports
 * [UFCKhabib](http://ufckhabib.com/) - Sports
 * [TotalSportek](https://totalsportek.pro/) - Sports
-* [6Streams](http://6streams.tv/) - Sports
 * [NodelayTV](http://nodelaytv.pw/) - Sports
 * [Rojadirecta](https://www.rojadirecta.watch/) - Sports
 * [SportsRP](http://www.sportsrp.com/free-live-streams/) - Sports
 * [CrackStreams.net](https://crackstreams.net/) - Sports
-* [FreeSportsForAll](http://www.freesportsforall.ml/) - Sports
-* [Rugbydirect](https://rugbydirect.me/) - Sports
-* [OlympicStreams](https://olympicstreams.me/) - Sports
-* [USAGoals](https://www.usagoals.video/) - Sports
 * [NBAStreams](https://nbastreams.to/), [NFL](https://nflstreams.to/), [NHL](https://nhlstreams.to/), [MLB](https://mlbstreams.to/) - Sports
 * [VIPLeague](https://vipleague.cc/) / [2](https://vipleague.im/) / [3](https://en.vipleague.tv/) or [VIPBox](https://www.vipbox.lc/) - Sports 
 * [MyP2P](https://www.myp2p.at/) - Sports
@@ -612,9 +606,7 @@
 * [NHLstream](https://www.nhlstream.net/) - NHL
 * [NHL Streams](https://reddit.nhlstream.nu/) - NHL
 * [NHL66](https://nhl66.ir/) - NHL
-* [MyLiveCricket](http://hd1.mylivecricket.live/), [2](http://my3.mylivecricket.cc/) - Cricket
-* [cric7.net ](http://t20.cric7.net/) - Cricket
-* [jiotv.cf](https://jiotv.cf/) - Cricket
+* [MyLiveCricket](http://m.mylivecricket.club/) - Cricket
 * [LiveCricket.is](https://mob.livecricket.is/) - Cricket
 * [TouchCric](https://touchcric.com/) - Cricket
 * [WebCric](https://t20.webcric.com/) - Cricket
