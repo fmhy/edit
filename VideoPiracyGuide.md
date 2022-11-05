@@ -590,7 +590,6 @@
 * [Rugbydirect](https://rugbydirect.me/) - Sports
 * [OlympicStreams](https://olympicstreams.me/) - Sports
 * [USAGoals](https://www.usagoals.video/) - Sports
-* [Redditz Soccer Stream](https://redditz.soccerstreamlinks.com/) - Sports
 * [NBAStreams](https://nbastreams.to/), [NFL](https://nflstreams.to/), [NHL](https://nhlstreams.to/), [MLB](https://mlbstreams.to/) - Sports
 * [VIPLeague](https://vipleague.cc/) / [2](https://vipleague.im/) / [3](https://en.vipleague.tv/) or [VIPBox](https://www.vipbox.lc/) - Sports 
 * [MyP2P](https://www.myp2p.at/) - Sports
@@ -605,9 +604,7 @@
 * [BoxingStreams.cc](https://boxingstreams.cc/) - Boxing
 * [LiveSoccer TV](https://www.livesoccertv.com/) - Soccer
 * [FootEM](https://www.footem.site/) - Soccer
-* [footybite](https://live6.footybite.cc/) - Soccer
 * [HesGoal](http://www.hesgoal.tv/) - Soccer
-* [Soccer Streams](https://socceronline.me/) - Soccer
 * [Vebo](https://vebotv.top/) - Soccer
 * [Egylive](https://egylive.online/) - Soccer / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.tv/) - Soccer / MMA
