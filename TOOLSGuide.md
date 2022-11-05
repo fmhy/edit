@@ -1444,7 +1444,7 @@
 * [Blocked](https://watannetwork.com/tools/blocked/) or [YouTube Region Checker](http://polsy.org.uk/stuff/ytrestrict.cgi) - Youtube Region Restrictions Check
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Shows YouTube File Sizes 
 * [Auto Quality for YouTube](https://chrome.google.com/webstore/detail/auto-quality-for-youtube/iaddfgegjgjelgkanamleadckkpnjpjc?hl=en) - Automatically Switch to desired Quality
-* [h264ify](https://github.com/erkserkserks/h264ify) - Use H.264 on YouTube 
+* [h264ify](https://github.com/alextrv/enhanced-h264ify) - Use H.264 on YouTube 
 * [YTAPI](https://www.ytapi.com/) - Alt YouTube Player
 * [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV 
 * [Disable 60fps](https://greasyfork.org/en/scripts/23329-disable-youtube-60-fps-force-30-fps) - Force 30fps on YouTube
