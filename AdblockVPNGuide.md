@@ -112,7 +112,6 @@
 * [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0), [PeerBlock](https://www.peerblock.com/), [Tinywall](https://tinywall.pados.hu/) or [GlassWire](https://www.glasswire.com/) - Firewall / Network Monitor 
 * [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/), [ntop](http://www.ntop.org/), [Rotty](https://github.com/RoseSecurity/Rotty.py) or [Safing](https://safing.io/portmaster/) - Network Monitors
 * [Waircut](https://sourceforge.net/projects/waircut/) - WPS Network Monitor
-* [Traffic Leaks Detector](https://github.com/AsenOsen/traffic_leaks_detector) - Network Leak Protection
 * [Hardentools](https://github.com/securitywithoutborders/hardentools) - Disables Risky Windows Features
 * [Unchecky](https://unchecky.com/) - Clears Software Installation Checkboxes
 * [Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/) or [DrWeb](https://free.drweb.com/) - No Install Required Antivirus
@@ -130,7 +129,6 @@
 * [SecurityHeaders](https://securityheaders.com/) - Security Header Scan
 * [Penteract Disguised](https://apps.microsoft.com/store/detail/penteract-disguisedkeyboard-detector-2/9P7FV5575G0C?hl=en-in&gl=IN) - Prevent Automatic Keyboard Attacks
 * [Phish.ly](https://phish.ly/) - Scan Suspicious Emails
-* [TokenSniffer](https://tokensniffer.com/) - DEX Trading Scan 
 * [Any.Run](https://any.run/) - Interactive Malware Sandbox
 * [testsafebrowsing](https://testsafebrowsing.appspot.com/) - Safe Browsing Testing Links 
 * [Standaloneinstaller](https://standaloneinstaller.com/) - Check Software Safety
@@ -237,7 +235,6 @@
 * [PeerTube](https://joinpeertube.org/), [2](https://search.joinpeertube.org/), [3](https://sepiasearch.org/) - Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)
 * [PrivNote](https://privnote.com/), [Burn.Link](https://burn.link/), [tlwsd](https://tlwsd.com/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/) or [OneTimeSecret](https://onetimesecret.com/) - Send Self-Destructing Messages 
 * [xcodx.ru](https://xcodx.ru/), [Steg Cloak](https://stegcloak.surge.sh/) or [spam mimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
-* [Anonymouth](https://github.com/psal/anonymouth) - Document Anonymization Tool 
 * [How-to Buy Bitcoin Anonymously](https://coinsutra.com/buy-bitcoin-with-prepaid-card/)
 * [USBKill](https://github.com/hephaest0s/usbkill) - Anti-Forensic Kill-Switch
 * [Free Hide Folder](https://www.cleanersoft.com/hidefolder/free_hide_folder.htm) or [Wise Folder Hider](http://www.wisecleaner.com/wise-folder-hider-free.html) - Hide Folders / Files 
@@ -321,7 +318,7 @@
 * [Secure Password Generator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_secure_password_generator) or [Password Generator](https://github.com/XFox111/PasswordGeneratorExtension) - Password Generator 
 * [Private Bookmarks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password-protected_bookmarks) - Password Protected Bookmarks
 * [Permission Inspector](https://github.com/tsl143/addonManager) - Extension Permissions Inspector 
-* [History-AutoDelete](https://github.com/History-AutoDelete/History-AutoDelete) - Browser History Manager 
+* [History-AutoDelete](https://github.com/naresh97/History-AutoDelete-Rebooted) - Browser History Manager 
 * [eCleaner](https://add0n.com/ecleaner.html) or [History & Cache Cleaner ](https://chrome.google.com/webstore/detail/history-cache-cleaner/oiecpgbfcchalgdchgoplichofjadhmk/related?hl=en) - History & Cache Cleaner
 * [CopyGuard](https://github.com/roedesh/copyguard) - Clipboard Hijacking Notifications
 * [Nuke-Reddit-History](https://github.com/sr33/ares) - Reddit Auto Post Delete
@@ -465,7 +462,6 @@
 * [OpenPGP](https://www.openpgp.org/) - Email Encryption 
 * [MetaClean for Gmail](https://www.adarsus.com/en/remove-metadata-from-gmail-attachments/) - Remove Metadata from Emails
 * [Anon Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_send_anonymous_emails) - Send Anonymous Emails
-* [Scaremail](https://github.com/bengrosser/scaremail) - Disrupt NSA Email Surveillance / [Account Gen](https://bengrosser.com/projects/scaremail/scaremail-generator/)
 * [/r/emailprivacy](https://reddit.com/r/emailprivacy)  - Discussion of Email Privacy / Security / Anonymity 
 * [Block Sender](https://blocksender.io/) - Block Unwanted Emails 
 * [E4ward](http://e4ward.com/) - Spam Email Filter 
