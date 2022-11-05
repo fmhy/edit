@@ -112,7 +112,6 @@
 * [QR Code Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qr_code_generators) - Generate QR Codes
 * [findhelp.org](https://www.findhelp.org/) - Find Assistive Programs
 * [/r/Assistance](https://www.reddit.com/r/Assistance/), [/r/borrow](https://www.reddit.com/r/borrow/), [/r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) or [/r/Homeless](https://www.reddit.com/r/homeless/) - Assistance & Donation Subreddits
-* [Helpmap](https://helpmap.io/) - Nonprofit Donation Map
 
 ***
 
@@ -456,12 +455,11 @@
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - Learn How to Play Music
 * [Jukebox](https://jukebox.today/), [Mu Sync](https://www.mu-sync.com/) or [jqbx](http://jqbx.fm/) - Music Sync / Listening Parties
 * [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyrics Finder for Spotify, Tidal & VLC
-* [Whyp](https://whyp.it/) or [OnlyFiles]( https://onlyfiles.io/) - Audio Host
+* [Whyp](https://whyp.it/) or [OnlyFiles](https://onlyfiles.io/) - Audio Host
 * [Aux](https://aux.app/) - Audio Project Host
 * [Audiocheck](https://www.audiocheck.net/) - Audio Tests 
 * [Online Mic Test](https://onlinemictest.com/), [Mic Tests](https://mictests.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test  
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) - Measure Surrounding Sound Level
-* [Audio-Router](https://github.com/audiorouterdev/audio-router) - Route Audio from Programs to Devices
 * [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch Playback or Recording Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)
 * [Ultimate Realtek HD Audio Driver Mod](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ultimate_realtek_hd_audio_driver_mod) or [Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic) - Realtek Audio Driver
 * [ASIO4ALL](https://www.asio4all.org/) - ASIO Audio Driver
@@ -1095,7 +1093,6 @@
 * [Site Worth Traffic](https://www.siteworthtraffic.com/) - Calculate Website Worth
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
 * [CarbonDates](http://carbondate.cs.odu.edu/) - Check Site Creation Date 
-* [Hosting Checker](https://hostingchecker.com/) - Site Host Check
 * [AtSameIP](https://atsameip.intercode.ca/) - Find All Sites Hosted by Same IP
 * [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Search Console](https://search.google.com/search-console/), [subsurface](https://github.com/CellEight/subsurface) or [SubdomainFinder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains 
 * [pyfuzz](https://github.com/AyoobAli/pyfuzz) - URL Fuzzing Tool 
@@ -1150,11 +1147,9 @@
 * [RedditMetis](https://redditmetis.com/), [Reddit-User-Analyser](https://reddit-user-analyser.netlify.app/), [Redective](https://www.redective.com/) or [redditsfinder](https://github.com/Fitzy1293/redditsfinder) - Reddit Profile Information
 * [Reddit Comment Visualizer](https://roadtolarissa.com/javascript/reddit-comment-visualizer/) - Vizualize a Users Comments
 * [Reddit Comment Search](https://www.redditcommentsearch.com/) - Search Reddit Comments 
-* [Reddit Faster](https://github.com/dimaba/redditfaster) or [/r/](https://chrome.google.com/webstore/detail/r/cnccilamloafialmchgfgmbmojdfhmom) - Open Subreddits Faster
 * [Find on Reddit](https://chrome.google.com/webstore/detail/find-on-reddit/jbcdpeekakanklckgooknpbonojhjncm) - Find Discussions of current URL
 * [RedditRepostSleuth](https://github.com/barrycarey/RedditRepostSleuth) - Repost Detection Bot
 * [DelayForReddit](https://www.delayforreddit.com/) - Reddit Post Scheduler
-* [subreddit-scraper](https://github.com/naftulikay/subreddit-scraper) - Backup Entire Subreddits 
 * [Reddit Desktop Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_desktop_apps) 
 * [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader) - Download Media from Reddit 
 * [Bulk Downloader for Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Reddit Bulk Submission Downloader
@@ -1796,7 +1791,6 @@ Twitch Stream Tracker
 * [RegExp](https://github.com/zodiacon/RegExp) or [Registry-Finder](https://registry-finder.com/) - Improved Registry Explorer
 * [Desktop Management](https://github.com/DeveloperWOW64/deskmgr) - Improved Computer Management
 * [Open Shell](https://open-shell.github.io/Open-Shell-Menu/), [2](https://github.com/Open-Shell/Open-Shell-Menu), [ValliStart](https://github.com/Jax-Core/ValliStart) or [SystemTrayMenu](http://hofknecht.eu/systemtraymenu) / [GitHub](https://github.com/Hofknecht/SystemTrayMenu) - Improved Start Menu 
-* [UltraCopier](http://ultracopier.first-world.info/) - Improved File Copy Dialogs
 * [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - Classic Start Menu 
 * [TilelConfier](https://github.com/Jonno12345/TileIconifier) - Start Menu Icon Tiles
 * [Recoll](https://www.lesbonscomptes.com/recoll/) or [AnyTXT](https://anytxt.net/) - Improved Windows Search / [Site Indexer](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/)
@@ -2093,7 +2087,7 @@ Twitch Stream Tracker
 * [FileInfo](https://fileinfo.com/), [File-Extensions.info](https://file-extensions.info/) or [File-Extensions](https://www.file-extensions.org/) - File Extension Library
 * [download](https://github.com/kevva/download) - File Download Tool / Extractor / [CLI](https://github.com/kevva/download-cli)
 * [XBackBone](https://xbackbone.app/) - File Manager / [GitHub](https://github.com/SergiX44/XBackBone)
-* [DropIt](http://www.dropitproject.com/), [THE-ORGANIZER](https://github.com/mishrabiswajit/THE-ORGANIZER/) or [Organize](https://github.com/tfeldmann/organize) - Automated File Manager
+* [DropIt](http://www.dropitproject.com/) or [Organize](https://github.com/tfeldmann/organize) - Automated File Manager
 * [What](https://github.com/bee-san/pyWhat) - Text & File Analyzer
 * [WhoLeaked](https://github.com/utkusen/wholeaked) - File Leak Tracker
 * [DownloadTimeCalculator](https://downloadtimecalculator.com/) - Calculate Time to Download Files
@@ -2106,7 +2100,6 @@ Twitch Stream Tracker
 * [leteckaposta](http://leteckaposta.cz/) - Temp File Hosts
 * [ProtectedZip](https://protectedzip.com/) - Encrypt Zip Files
 * [objectfixzip](https://www.essentialdatatools.com/products/objectfixzip/) - Repair Zip Files
-* [1fichier-DL](https://github.com/manuGMG/1fichier-dl) - 1Fichier Download Manager
 * [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - How-to Safely Archive Files on Cloud Storage Sites
 * [TCPDF](https://tcpdf.org/) / [Git](https://github.com/tecnickcom/tcpdf) - PDF Creator 
@@ -2237,7 +2230,6 @@ Twitch Stream Tracker
 * [CalameoDownload](https://calameodownload.com/) - Download Calameo Docs PDF or Image Files
 * [DFD](https://dfd.inf.tu-dresden.de/) - Duplicate Document Forensics Test
 * [filetree](https://github.com/roboyoshi/datacurator-filetree) - Data Filetree 
-* [Fucking weeb](https://github.com/cosarara/fucking-weeb) - Anime / TV File Library Manager
 * [Random Executor](https://sneakysnail.net/random-executor/) - Random File Executor 
 * [HeavenTools](http://www.heaventools.net/) or [XPEViewer](https://horsicq.github.iohttps://github.com/horsicq/XPEViewer) - PE File Editors
 * [AXEL](https://github.com/axel-download-accelerator/axel) - Lightweight CLI Download Accelerator 
