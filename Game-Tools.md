@@ -65,7 +65,6 @@
 * [MacroGamer](https://www.itoady.com/) - Game Macro Recorder
 * [Blitz.gg](https://blitz.gg/) - Post Match Performance Analyzer / [Adblocker](https://kandi.openweaver.com/javascript/lulzsun/blitz-app-adblock), [2](https://github.com/lulzsun/blitz-app-adblock)
 * [Valve Archive](https://valvearchive.com/) - Rare Valve Data Archive
-* [Previously on Halo](https://previouslyonhalo.com/) - Halo Franchise History
 * [Map Genie](https://mapgenie.io/), [GameMaps](https://www.gamemaps.com/) or [VGMaps](http://www.vgmaps.com/)  - Game Maps 
 * [noclip](https://noclip.website/) - Explore Game Maps 
 * [bspview](https://devanbuggay.com/bspview/) - Explore Quake & GoldSRC Maps / [Github](https://github.com/sbuggay/bspview) 
@@ -114,7 +113,6 @@
 * [PSN Update Finder](https://pandorah.org/psn/) - PS3 / PS4 Update Finder
 * [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
 * [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes
-* [Lowkey](https://lowkey.gg/) - Record / Screenshot Gameplay 
 * [Moments](https://steelseries.com/gg/moments) - Game Clip Tool
 * [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
 * [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)
@@ -290,7 +288,6 @@
 * [SteamFriendsPatcher](https://github.com/PhantomGamers/SteamFriendsPatcher) - Apply Themes to Steam Friends UI
 * [Center.Steam](https://center.steam.design/) - Center Steam Text
 * [Wishlist Removals](https://steamcommunity.com/sharedfiles/filedetails/?id=1746978201) - Remove Hidden Items from Steam Wishlist
-* [Steam Ninja!](https://chrome.google.com/webstore/detail/steam-ninja/iafjcapblconlangblamhojmlpbdebhn) - Steam Market Enhancement Extension
 * [Steam Popularity Filter](https://chrome.google.com/webstore/detail/steam-popularity-filter/icflgpakhkkjeaefoedcbdbahmjopbdc) - Steam Market Popularity Filter
 * [CheapShark Deal Search](https://chrome.google.com/webstore/detail/cheapshark-deal-search/ahdfdhcljjiogoabcemgldinhgoemmjc) - Steam Market Sales Search
 * [Steam Inventory Helper](https://steaminventoryhelper.com/) - Steam Inventory Enhancement Extension
@@ -423,7 +420,6 @@
 * [TEdit](https://www.binaryconstruct.com/tedit), [terramap](https://terramap.github.io/), [MoreTerra](https://github.com/mike-mo/MoreTerra/releases), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/tag/3.1.5) or [terraria-map-editor](https://www.terraria-map-editor.com/) - Map Viewers / Editors
 * [Terrasavr](https://yal.cc/r/terrasavr/) - Terraria Character Editor
 * [ArmorHelper](https://forums.terraria.org/index.php?threads/armorhelper-sprite-armor-sets-30x-times-faster.68744/) - Terraria Armor Customization Tool
-* [TerrColab](https://github.com/AndreVuillemot160/TerrColab) - Host Collab based Terraria Server / [.ipynb](https://colab.research.google.com/github/AndreVuillemot160/TerrColab/blob/main/TerrColab.ipynb)
 * [TerrariaDepot](https://forums.terraria.org/index.php?threads/terrariadepotdownloader-downgrade-to-any-version.107519/) - Terraria Downgrader
 * [SimpleTerrariaBackup](https://forums.terraria.org/index.php?threads/simpleterrariabackup-saves-etc-backup-tool-for-windows-users.66805/) - Terraria Backup Tools
 * [Quick Wave Bank](https://forums.terraria.org/index.php?threads/quick-wave-bank-an-easy-no-hassle-wave-bank-creator.61813/) - Terraria Wave Bank Creator
@@ -447,7 +443,7 @@
 * [Homebrew Gang](https://thehbg.shop/main.html) - Switch Homebrew Community
 * [Nintendo Homebrew](https://discord.com/invite/C29hYvh) - 3DS / Switch Homebrew Community
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - Switch Homebrew Subreddit
-* [Switch Guide](https://nh-server.github.io/switch-guide/), [Switch.Homebrew](https://switch.homebrew.guide/) or [SWITCHWAY](https://switchway.xyz/) - Switch Homebrew Guide
+* [Switch Guide](https://nh-server.github.io/switch-guide/) or [Switch.Homebrew](https://switch.homebrew.guide/) - Switch Homebrew Guide
 * [SDSetup](https://github.com/noahc3/SDSetup) - Nintendo Switch SD Setup
 * [WiiBrew](https://wiibrew.org/), [Wii Softmod Guide](https://sites.google.com/site/completesg) or [Wii Guide](https://wii.guide/) - Wii Homebrew Guides
 * [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
