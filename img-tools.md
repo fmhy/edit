@@ -346,7 +346,7 @@
 * [AmbientCG](https://ambientcg.com/), [TextureTown](https://textures.neocities.org/), [Lost and Taken](https://lostandtaken.com/), [3D textures](https://icons8.com/l/3d-textures/), [Textureking](https://www.textureking.com/), [Texture Labs](https://texturelabs.org/), [Transparent Textures](https://www.transparenttextures.com/), [Texture Club](https://www.sketchuptextureclub.com/), [TexturesForFree](https://texturesforfree.com/), [fatstrawberry](https://www.fatstrawberry.co.uk/) or [Texture Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_texture_collection) - Download Textures
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) or [Pattern Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pattern_collection) - Download Patterns
 * [Watercolor Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_watercolor_collection) - Download Watercolor Pictures
-* [google-images-download](https://github.com/hardikvasa/google-images-download) - Download Images from Google Images 
+* [google-images-download](https://github.com/Joeclinton1/google-images-download) - Download Images from Google Images 
 * [googleimagerestored](https://github.com/fanfare/googleimagesrestored) - Old Google Image Search 
 * [dzi-dl](https://github.com/ryanfb/dzi-dl) - Deep Zoom Image Downloader 
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YouTube Screenshot](https://www.youtubescreenshot.com/) or [Get YT Thumbnail](http://www.get-youtube-thumbnail.com/) - Grab YouTube Thumbnails 
