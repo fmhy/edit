@@ -24,7 +24,6 @@
 * [Area51](https://area51.to/en/)
 * [QuickiePage](https://quickiepage.com/) 
 * [PaidPornGuide](https://www.paidpornguide.com/) 
-* [SitiPorno](https://sitiporno.org/) 
 * [Boobs](https://boob.sbs/)
 * [FreePornLTD](https://freepornltd.org/) 
 * [ThePornMap](https://thepornmap.com/) 
@@ -43,7 +42,6 @@
 * [Ceporn](https://www.ceporn.net/) 
 * [sxyprn](https://www.sxyprn.com/) 
 * [Palimas](https://palimas.tv/)
-* [PoimRU](https://www.poimru.com/)
 * [Pornkind](https://pornkind.net/)
 * [ViralPorn](https://viralporn.com/) 
 * [vkulak](https://www.vkulak.com/) 
@@ -89,7 +87,6 @@
 * [Kimchi TV](https://kimchi.tv/) - Asian Porn
 * [Size97](https://size977.com/) - Asian Porn
 * [Republic of Korea](https://republic-of-korea.com/) - Asian Porn
-* [JavTap](https://javtap.com/) - Japanese Porn
 * [JavMom](https://javmom.xyz/) - Japanese Porn
 * [ArcJav](https://arcjav.com/) - Japanese Porn
 * [SEGNECK](https://discord.gg/jP5BHAUbeu) - Japanese Porn
@@ -98,7 +95,6 @@
 * [Roshutu-Shuuti](https://roshutu-shuuti.net/) - Japanese Porn
 * [Video.fc2](https://video.fc2.com/a/) - Japanese Porn
 * [JavEnglish](http://javenglish.cc/) - Japanese Porn
-* [kuaishangche](https://kuaishangche.club/) - Chinese Porn
 * [sjhs301](https://sjhs301.github.io/) - Chinese Porn
 * [aagmaals](https://aagmaals.net/) - Indian Porn
 * [sexfullmovies](https://www.sexfullmovies.com/) - Indian Porn
@@ -252,7 +248,6 @@
 * [HentaiWorld](https://hentaiworld.tv/)
 * [Wholesome Hentai](https://wholesomelist.com/)
 * [/r/SixDigits](https://www.reddit.com/r/sixdigits)
-* [ToonKor](https://tkor.dog/) - [Twitter](https://twitter.com/tkor_info)
 * [Anime-Sharing Hentai](http://www.anime-sharing.com/forum/hentai-ovas-36/)
 * [Porndude Hentai](https://theporndude.com/hentai-porn-sites)
 * [Fakku Search Script](https://redd.it/u0fnpf)
@@ -277,7 +272,6 @@
 * [Otomi Games](https://otomi-games.com/)
 * [Puppet Nightmares](https://www.puppetnightmares.com/) 
 * [BetterRepack](https://dl.betterrepack.com/public/) - [Discord](https://discord.gg/pSGZ4uz)
-* [GamePC18](https://gamepc18.net/)
 * [69 Games](https://forum.69games.xxx/)
 * [The Asenheim Project](https://www.asenheim.org/)
 * [LewdList](http://web.archive.org/web/20190515205509/https://www.lewdlist.com/) - Game Index
