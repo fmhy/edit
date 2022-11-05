@@ -201,7 +201,6 @@
 * [Full Version Download](https://www.fullversiondl.com/)
 * [FileOur](https://www.fileour.com/)
 * [Soft House](https://softhouse.cc/)
-* [Mirror.una](http://mirror.una.ac.cr/)
 * [MySoftwareFree](https://mysoftwarefree.com/)
 * [AllPCWorld](https://allpcworld.com/)
 * [ArmaanPC](https://www.armaanpc.com/)
@@ -342,7 +341,6 @@
 * [DesireFX](https://www.desirefx.me/)
 * [GFXMountain](http://gfxmountain.com/)
 * [GFXhome](http://gfxhome.ws/index.php)
-* [GFXDrug](https://gfxdrug.com/)
 * [Grafixfather](https://www.grafixfather.com/)
 * [Graphicex](https://graphicex.com/)
 * [PSDKeys](https://psdkeys.com/)
@@ -379,7 +377,6 @@
 * [Shareaza](http://shareaza.sourceforge.net/) - File Sharing App 
 * [MLDonkey](http://mldonkey.sourceforge.net/Main_Page) - File Sharing App 
 * [Fopnu](https://fopnu.com/) - File Sharing App 
-* [MuWire](https://muwire.com/index-nojs.html) - File Sharing App
 * [DC++](https://dcplusplus.sourceforge.io/index.html) - File Sharing App / [Clients](https://dchublists.com/clients/) / [Hubs](https://dchublists.com/), [2](https://dchublist.org/), [3](https://dchublist.biz/)
 * [eMule](https://www.emule-project.net/) or [eMule Plus](https://sourceforge.net/projects/emuleplus/) - File Sharing App
 * [Shareaza P2P](http://shareaza.sourceforge.net/) - File Sharing App
