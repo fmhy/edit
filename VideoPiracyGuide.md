@@ -506,7 +506,7 @@
 * ⭐ **[Jackal](https://jackal.surge.sh/)** - TV / Sports
 * ⭐ **[USTVGO](https://ustvgo.tv/)** - TV / Sports
 * ⭐ **[WeakStream](http://weakstreams.com/)** - Sports 
-* ⭐ ** Sports Streams - [NFL](https://nflstreams.me/), [NBA](https://nbastreams.me/), [MLB](https://mlbstreams.me/), [NHL](https://nhlstreams.me/), [UFC](https://watch.ufcstream.me/ufc-streams), [Boxing](https://watch.boxingstreams.me/), [Tennis](https://live.tennisstreams.me/), [Football](https://socceronline.me/), [Rugby](https://rugbystreams.me/), [F1](https://hd.f1stream.me/), [MotoGP](https://motogpstream.me/), [Golf](https://golfstreams.me/), [Darts](https://dartsstream.me/), [Cricket](https://watch.cricstream.me/)
+* ⭐ **[Sports Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming)** - Sports
 * ⭐ **[StreamEast](https://www.streameast.xyz/)** - Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)
 * ⭐ **[StreamLinks](https://reddits.soccerstreamlinks.com/)**, [2](https://red.soccerstreams.net/), [3](https://footybite.cc/) - Sports
 * ⭐ **[nbabite](https://nbabite.com/) or [nflbite](https://nflbite.com/)** - NBA / NFL
