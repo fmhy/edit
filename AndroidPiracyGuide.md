@@ -183,7 +183,6 @@
 * [Adaptive Controls](https://play.google.com/store/apps/details?id=com.nxet.adaptivecontrols) - Per App Settings
 * [auto-auto-rotate](https://gitlab.com/juanitobananas/auto-auto-rotate) - Per App Rotation Settings
 * [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) - Downgrade Apps on Android 12/13
-* [No-frills CPU Control](https://github.com/hrk/no-frills-cpu-classic) - CPU Controller
 * [Plexus](https://plexus.techlore.tech/) - De-googled Device Compatibility List
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/0x192/universal-android-debloater) or [Debloat Samsung Android](https://github.com/khlam/debloat-samsung-android) - Android Debloaters
 * [How to Root](https://www.xda-developers.com/root/amp/) - Android Root Guide
@@ -670,10 +669,8 @@
 * [tTorrent](https://play.google.com/store/apps/details?id=hu.tagsoft.ttorrent.lite) - [Screenshot](https://i.imgur.com/S61JgNg.png)
 * [Frostwire](https://play.google.com/store/apps/details?id=com.frostwire.android) - [Screenshot](https://i.imgur.com/EoB3DED.png)
 * [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) - [Screenshot](https://i.imgur.com/rZ2JeCO.png)
-* [WeTorrent](https://apkcombo.com/wetorrent-torrent-downloader/co.we.torrent/) - [Screenshot](https://i.imgur.com/CuvMYGT.png)
 * [Red Torrent](https://sourceforge.net/projects/redtorrent/) - [Screenshot](https://i.imgur.com/uVKVVLg.png)
 * [Android-A](http://android-a.com/) - [Screenshot](https://i.imgur.com/khlurm7.png)
-* [CatTorrent](https://apkcombo.com/cattorrent/com.napolovd.piratecat/) - [Screenshot](https://i.imgur.com/JtdXk9t.png)
 * [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - [Screenshot](https://i.imgur.com/OrK3mLu.png)
 * [BiglyBT](https://android.biglybt.com/) - [Screenshot](https://i.imgur.com/WP7xwYK.png) 
 * [Trireme](https://github.com/teal77/trireme) - Deluge Client
@@ -824,7 +821,6 @@
 * ⭐ **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - Ad-Free YouTube on Android
 * [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) or [TV Bro](https://play.google.com/store/apps/details?id=com.phlox.tvwebbrowser) - Ad-Free Android TV Browsers
 * [Movie HD](https://moviehdapkdownload.com/moviehd-apk/) - Movies / TV / Chromecast
-* [Arthemis](https://app.arthemis.xyz/) - Movies / TV / Anime
 * [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - Movies / TV / Anime 
 * [PopcornTime](http://popcorn-time.ga/) / [2](https://github.com/popcorn-official/popcorn-android) - Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * [BeeTV](https://beetvapp.me/) or [NovaTV](https://novatv.app/) - Movies / TV / Anime / Chromecast
@@ -1074,7 +1070,6 @@
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
 * [Rhino](https://lemamichael.github.io/WhatIsRhino/) - Tweaked Instagram Client
 * [Twitter++](https://iosninja.io/ipa-library/download-twitter-plus-plus-ipa-ios) - Tweaked Twitter App
-* [Twiger](https://twiger.launchaco.com/) - Share Any Tweet on Instagram
 * [TikTok God](https://github.com/haoict/tiktok-god) - Tweaked TikTok App
 * [FCC Speed Test](https://apps.apple.com/us/app/fcc-speed-test/id794322383) or [Iperf 3](https://apps.apple.com/us/app/iperf-3-wifi-speed-test/id1462260546) - Internet Speed Test
 * [Resurfer](https://apps.apple.com/us/app/resurfer/id1489340046), [Orion](https://apps.apple.com/us/app/orion-for-reddit/id1536533779), [Narwhal](https://apps.apple.com/us/app/narwhal-for-reddit/id845422455), [Reno](https://apps.apple.com/us/app/reno-for-reddit/id1489831590#?platform=iphone) or [BaconReader](https://baconreader.com/) - Reddit Client
@@ -1280,7 +1275,6 @@
 * [Atsumaru](https://github.com/TheUndo/Atsumaru) -  Manga Reader
 * [Manga Max](https://apps.apple.com/us/app/apple-store/id1558957618) - Manga Reader
 * [MangaNelo](https://apps.apple.com/us/app/manganelo-rock-manga-pro/id1540527984) - Manga Reader
-* [ComicFlow](https://github.com/swisspol/ComicFlow) - Comic Reader
 * [YACRader](https://www.yacreader.com/) - Comic Reader 
 * [NovelReader](https://github.com/ppraveentr/NovelReader) - Light Novels
 * [NovelLoop](https://apps.apple.com/in/app/novelloop/id1170755867) - Light Novels
