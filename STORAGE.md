@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/FPBSyo5.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/n9oUAho.png)** - For mobile users
 
 ***
 ***
@@ -55,6 +55,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * ⭐ **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) 
 * ⭐ **Craiyon Tools** - [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk) / [Generative Engine](https://experiments.runwayml.com/generative_engine/)
 * ⭐ **[Stable Diffusion](https://discord.com/invite/stablediffusion)** or [Unstable Diffusion](https://discord.com/invite/unstablediffusion) - Discord Servers
+* [Mage](https://www.mage.space/)
 * [DALL·E Flow](https://github.com/jina-ai/dalle-flow) / [Colab](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb)
 * [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot)
 * [Midjourney](https://www.midjourney.com/)
@@ -253,6 +254,12 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * ⭐ **[Audacity](https://github.com/cookiengineer/audacity)**, [2](https://archive.org/details/audacity-2.4.2), [3](https://www.audacityteam.org/), [4](https://github.com/temporary-audacity/audacity), [5](https://tenacityaudio.org/), [6](https://github.com/Audacium/audacium) / [DarkAudacity](http://www.darkaudacity.com/)
 
 [MusE](https://muse-sequencer.github.io/), [Lexis Audio Editor](https://www.lexisaudioeditor.com/), [mp3DirectCut](https://mpesch3.de/), [Ardour](https://ardour.org/), [LMMS](https://lmms.io/), [AudioMass](https://audiomass.co/), [FamiStudio](https://famistudio.org/), [ocenaudio](https://www.ocenaudio.com/en/startpage), [mp3mymp3](https://mp3mymp3.digitalliquid.com/), [Wavosaur](https://www.wavosaur.com/), [Sneedcity](https://github.com/Sneeds-Feed-and-Seed/sneedacity), [Radium](https://users.notam02.no/~kjetism/radium/), [AudioDope](http://www.audiodope.org/index.htm), [FL Studio](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_fl_studio), [OpenMPT](https://openmpt.org/), [Schism](http://schismtracker.org/), [Radium](https://users.notam02.no/~kjetism/radium/index.php), [WaveBots](https://krasse.itch.io/wavebots-editor), [BandLab](https://www.bandlab.com/)
+
+**Online Audio Editors**
+
+⭐ **[Audioalter](https://audioalter.com/)**
+
+[Wavvy](https://wavvy.app/), [AudioStudio](https://www.redcoolmedia.net/web-browser-extension-utilities/audio-editor-audiostudio-chrome-firefox-extension), [Audiotool](https://www.audiotool.com/), [SoundTrap](https://www.soundtrap.com/), [BeepBox](https://www.beepbox.co/), [Efflux](https://www.igorski.nl/application/efflux/), [TwistedWave](https://twistedwave.com/online), [AudioToolSet](https://audiotoolset.com/), [OnlineToneGenerator](https://onlinetonegenerator.com/), [AFreeStudio](https://www.afreestudio.com/), [safeaudiokit](https://safeaudiokit.com/), [Soundation](https://soundation.com/studio-tools)
 
 ***
 
@@ -1211,7 +1218,15 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Internet Speed Test
 
-[fast](https://fast.com/) / [CLI](https://github.com/sindresorhus/fast-cli), [LibreSpeed](https://librespeed.org/), [Xfinity Speed Test](https://speedtest.xfinity.com/), [DLS Reports](http://www.dslreports.com/tools), [Bandwidth Place](https://www.bandwidthplace.com/), [Cloudflare](https://speed.cloudflare.com/), [Speedtest](https://www.speedtest.net/), [wifiman](http://wifiman.com/), [Net Speed Meter](https://www.microsoft.com/en-gb/p/app/9nmbx01pxz4l), [PeerFast](https://diegorbaquero.github.io/PeerFast/) (P2P), [Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker), [GoogleFiber](http://speedtest.googlefiber.net/), [speedtestcustom](https://pcmag.speedtestcustom.com/), [SpeedOf.Me](https://speedof.me/), [BroadbandSpeedChecker](https://broadbandspeedchecker.co.uk/), [speed.io](https://speed.io/), [att](https://www.att.com/support/speedtest/), [speedcheck](https://www.speedcheck.org/), [testmyspeed](https://testmyspeed.onl/), [speedtest](https://speedtest.ph/), [testmy](https://testmy.net/), [Meter](https://www.meter.net/), [CIRA](https://performance.cira.ca/)cadence
+[fast](https://fast.com/) / [CLI](https://github.com/sindresorhus/fast-cli), [LibreSpeed](https://librespeed.org/), [Xfinity Speed Test](https://speedtest.xfinity.com/), [DLS Reports](http://www.dslreports.com/tools), [Bandwidth Place](https://www.bandwidthplace.com/), [Cloudflare](https://speed.cloudflare.com/), [Speedtest](https://www.speedtest.net/), [wifiman](http://wifiman.com/), [Net Speed Meter](https://www.microsoft.com/en-gb/p/app/9nmbx01pxz4l), [PeerFast](https://diegorbaquero.github.io/PeerFast/) (P2P), [Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker), [GoogleFiber](http://speedtest.googlefiber.net/), [speedtestcustom](https://pcmag.speedtestcustom.com/), [SpeedOf.Me](https://speedof.me/), [BroadbandSpeedChecker](https://broadbandspeedchecker.co.uk/), [speed.io](https://speed.io/), [att](https://www.att.com/support/speedtest/), [speedcheck](https://www.speedcheck.org/), [testmyspeed](https://testmyspeed.onl/), [speedtest](https://speedtest.ph/), [testmy](https://testmy.net/), [Meter](https://www.meter.net/), [CIRA](https://performance.cira.ca/), [Speedsmart](https://speedsmart.net/)
+
+**Android Apps**
+
+[FAST](https://play.google.com/store/apps/details?id=com.netflix.Speedtest), [Meteor](https://play.google.com/store/apps/details?id=meteor.test.and.grade.internet.connection.speed), [FCC Speed Test](https://play.google.com/store/apps/details?id=com.samknows.fcc&hl=en_US&gl=US), [Simple Speed](https://play.google.com/store/apps/details?id=com.veeapps.simplespeed), [Speed Test Android](https://play.google.com/store/apps/details?id=pl.speedtest.android), [WiFi Meter](https://play.google.com/store/apps/details?id=com.internet.speedtest.check.wifi.meter)
+
+**iOS Apps**
+
+[FCC Speed Test](https://apps.apple.com/us/app/fcc-speed-test/id794322383), [Iperf 3](https://apps.apple.com/us/app/iperf-3-wifi-speed-test/id1462260546), [Speedsmart](https://apps.apple.com/app/speed-test-speedsmart-wifi/id366593092), [SpeedSpeed](https://apps.apple.com/us/app/v-speed-speed-test/id930377055), [Speed Test Master](https://apps.apple.com/app/apple-store/id994788581), [Meteor](https://apps.apple.com/us/app/speed-test-by-meteor-wifi-4g/id1292709222)
 
 ***
 
@@ -1293,11 +1308,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ***
 
-#### LibGen Tools
-
-[Desktop](https://wiki.mhut.org/software:libgen_desktop) / [Mobile](https://github.com/manuelvargastapia/libgen_mobile_app), [2](https://github.com/FunkyMuse/Aurora) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Python Script](https://github.com/NadalVRoMa/PyLibGen) / [CLI](https://github.com/carterprince/libby) / [Backup](https://redd.it/edwi9b) / [/r/libgen](https://reddit.com/r/libgen)
-
-**Mirrors**
+#### LibGen  Mirrors
 
 * https://whereislibgen.now.sh/
 * http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down
@@ -1305,6 +1316,12 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * http://libgen.lc/
 * http://libgen.li/
 * https://libgen.fun/
+
+***
+
+#### LibGen Tools
+
+[Desktop](https://wiki.mhut.org/software:libgen_desktop) / [Mobile](https://github.com/manuelvargastapia/libgen_mobile_app), [2](https://github.com/FunkyMuse/Aurora) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Python Script](https://github.com/NadalVRoMa/PyLibGen) / [CLI](https://github.com/carterprince/libby) / [Backup](https://redd.it/edwi9b) / [/r/libgen](https://reddit.com/r/libgen)
 
 ***
 
@@ -1566,7 +1583,7 @@ Add the following commands to a search to manually scrape each site.
 
 ⭐ **[Foobar2000](https://www.foobar2000.org/)**
 
-[AIMP](http://www.aimp.ru/?do=lang&lng=en), [Roon](https://rutracker.org/forum/tracker.php?nm=roon), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/) / [2](https://www.majorgeeks.com/files/details/winamp_5_full.html) / [Updates](https://getwacup.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [OvoPlayer](http://ovoplayer.altervista.org/), [Dopamine](http://www.digimezzo.com/software/dopamine/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Amarok](https://amarok.kde.org/), [VOX](https://vox.rocks/windows-music-player), [Hysolid](https://www.hysolid.com/), [aidoru](https://github.com/ffwff/aidoru), [Melodie](https://feugy.github.io/melodie/), [Modular Player](https://www.deviantart.com/jaxoriginals/art/ModularPlayers-v1-3-886577256), [goMP](https://github.com/aditya-K2/goMP), [hyperchroma](https://hyperchroma.app/), [NCurses](https://github.com/ncmpcpp/ncmpcpp), [XMPlay](https://www.un4seen.com/) (Chiptune-Friendly), [guayadeque](https://github.com/anonbeat/guayadeque), [musique](http://flavio.tordini.org/musique), [sonata](https://github.com/multani/sonata), [exaile](http://www.exaile.org/), [quodlibet](https://github.com/quodlibet/quodlibet/), [ario](http://ario-player.sourceforge.net/), [deadbeef](https://deadbeef.sourceforge.io/), [groovebasin](https://github.com/andrewrk/groovebasin), [destroyer](https://github.com/mashaal/destroyer), [Ampache](https://ampache.org/) / [GitHub](https://github.com/ampache/ampache), [Harmanoid](https://harmonoid.com/), [MusikCube](https://musikcube.com/)
+[AIMP](http://www.aimp.ru/?do=lang&lng=en), [Roon](https://rutracker.org/forum/tracker.php?nm=roon), [iTunes](https://www.apple.com/itunes/), [Winamp](https://winamp.com/) / [2](https://www.majorgeeks.com/files/details/winamp_5_full.html) / [Updates](https://getwacup.com/), [MusicBee](https://getmusicbee.com/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [OvoPlayer](http://ovoplayer.altervista.org/), [Dopamine](http://www.digimezzo.com/software/dopamine/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Amarok](https://amarok.kde.org/), [VOX](https://vox.rocks/windows-music-player), [Hysolid](https://www.hysolid.com/), [aidoru](https://github.com/ffwff/aidoru), [Melodie](https://feugy.github.io/melodie/), [Modular Player](https://www.deviantart.com/jaxoriginals/art/ModularPlayers-v1-3-886577256), [goMP](https://github.com/aditya-K2/goMP), [hyperchroma](https://hyperchroma.app/), [NCurses](https://github.com/ncmpcpp/ncmpcpp), [XMPlay](https://www.un4seen.com/) (Chiptune-Friendly), [guayadeque](https://github.com/anonbeat/guayadeque), [musique](http://flavio.tordini.org/musique), [sonata](https://github.com/multani/sonata), [exaile](http://www.exaile.org/), [quodlibet](https://github.com/quodlibet/quodlibet/), [ario](http://ario-player.sourceforge.net/), [deadbeef](https://deadbeef.sourceforge.io/), [groovebasin](https://github.com/andrewrk/groovebasin), [destroyer](https://github.com/mashaal/destroyer), [Ampache](https://ampache.org/) / [GitHub](https://github.com/ampache/ampache), [Harmanoid](https://harmonoid.com/), [MusikCube](https://musikcube.com/), [Volumio](https://volumio.com/en/get-started)
 
 **Self-Hosted**
 
@@ -1688,14 +1705,6 @@ Add the following commands to a search to manually scrape each site.
 * https://freems.1ove.club/ceo/
 * https://ms.jim9527.workers.dev/#form
 * [90 Day Trial](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
-
-***
-
-#### Online Audio Editors
-
-⭐ **[Audioalter](https://audioalter.com/)**
-
-[Wavvy]( https://wavvy.app/), [AudioStudio](https://www.redcoolmedia.net/web-browser-extension-utilities/audio-editor-audiostudio-chrome-firefox-extension), [Audiotool](https://www.audiotool.com/), [SoundTrap](https://www.soundtrap.com/), [BeepBox](https://www.beepbox.co/), [Efflux](https://www.igorski.nl/application/efflux/), [TwistedWave](https://twistedwave.com/online), [AudioToolSet](https://audiotoolset.com/), [OnlineToneGenerator](https://onlinetonegenerator.com/), [AFreeStudio](https://www.afreestudio.com/), [safeaudiokit](https://safeaudiokit.com/)
 
 ***
 
@@ -1969,7 +1978,7 @@ Add the following commands to a search to manually scrape each site.
 
 ⭐ **[PROXY List](https://github.com/TheSpeedX/PROXY-List)**
 
-[Free-Proxy-List](https://free-proxy-list.net/), [Proxy-Daily](https://proxy-daily.com/), [Cool-Proxy](https://www.cool-proxy.net/), [Proxy-List](https://github.com/Volodichev/proxy-list) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://github.com/roosterkid/openproxylist), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hidemy.name/en/proxy-list/), [FreeProxyLists](https://www.freeproxylists.net/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [premproxy](https://www.premproxy.com/list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [web-proxylist](http://free-proxy.cz/en/web-proxylist)
+[Free-Proxy-List](https://free-proxy-list.net/), [Proxy-Daily](https://proxy-daily.com/), [Cool-Proxy](https://www.cool-proxy.net/), [Proxy-List](https://github.com/Volodichev/proxy-list) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://github.com/roosterkid/openproxylist), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hidemy.name/en/proxy-list/), [FreeProxyLists](https://www.freeproxylists.net/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [premproxy](https://www.premproxy.com/list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [web-proxylist](http://free-proxy.cz/en/web-proxylist), [proxystack](https://proxystack.com/), [proxy-spider](https://proxy-spider.com/proxies/), [proxyranker](https://proxyranker.com/), [freeproxyupdate](https://freeproxyupdate.com/), [ditatompel](https://www.ditatompel.com/proxy/), [proxypedia](https://proxypedia.org/free-proxy/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/)
 
 ***
 
@@ -3292,7 +3301,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 #### YouTube Music Players 
 
-[YTMDesktop](https://github.com/JamesParkDev/ytmdesktop-adblock) / [2](https://ytmdesktop.app/), [AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer), [Youtube-Music](https://th-ch.github.io/youtube-music/) / [2](https://github.com/th-ch/youtube-music), [mps-youtube](https://github.com/mps-youtube/mps-youtube), [YMD](https://github.com/MaverickMartyn/youtube-music-desktop), [Vinyl Player](https://vinyl-player-249113.firebaseapp.com/) 
+[YTMDesktop](https://github.com/JamesParkDev/ytmdesktop-adblock) / [2](https://ytmdesktop.app/) / [3](https://github.com/Venipa/ytmdesktop2), [AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer), [Youtube-Music](https://th-ch.github.io/youtube-music/) / [2](https://github.com/th-ch/youtube-music), [mps-youtube](https://github.com/mps-youtube/mps-youtube), [YMD](https://github.com/MaverickMartyn/youtube-music-desktop), [Vinyl Player](https://vinyl-player-249113.firebaseapp.com/) 
 
 ***
 
