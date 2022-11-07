@@ -444,7 +444,7 @@
 * [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Wave Guide](https://www.waveguide.io/), [ReallyGoodUX](https://www.reallygoodux.io/), [Pageflows](https://pageflows.com/) or [h69.design](https://www.h69.design/) - UI Design Ideas
 * [StoryBook](https://storybook.js.org/) - UI Development Tool
 * [BuiltWith](https://builtwith.com/) - Find Out What Sites are Built With
-* [Elements Envato](https://qltien.com/elements/getcode/babiato.html) or [PsdRepo](https://psdrepo.com/) - Templates, Mockups, Logos, Video
+* [PsdRepo](https://psdrepo.com/) - Templates, Mockups, Logos, Video
 * [Screely](https://www.screely.com/) - Create Site Mockups from Screenshots
 * [Daft Page](https://daftpage.com/) - Landing Page Creator
 * [LandingPage](https://landingpage.fyi/index.html) - Landing Page Tool Index
