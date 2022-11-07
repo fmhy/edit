@@ -630,6 +630,7 @@ Simulator
 * [Piano Trainer](https://zaneh.itch.io/piano-trainer) - Piano
 * [Pianu](https://pianu.com/) - Piano
 * [PianoCheetah](https://pianocheetah.app) - Piano
+* [TrueToneGuitar](https://www.truetoneguitar.co.uk/tools/guitar-practice-routine-generator) - Guitar
 * [JustinGuitar](https://www.justinguitar.com/) - Guitar
 * [FretFlip](https://fretflip.com/guitar-scales) - Guitar
 * [ChordBook](https://chordbook.com/) - Guitar
