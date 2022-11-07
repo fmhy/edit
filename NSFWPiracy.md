@@ -311,6 +311,7 @@
 * [movie-parser](https://github.com/dynamite-ready/movie-parser) or [practical-ai-autodetecting-nsfw](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
 * [Brainbuddy](https://www.brainbuddyapp.com/) - Porn Blocker / Android / iOS
+* [EasyPeasy](https://easypeasymethod.org/) - Painlessly Quit Pornography
 
 ***
 
