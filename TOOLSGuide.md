@@ -425,7 +425,6 @@
 * ⭐ **[Tune My Music](https://www.tunemymusic.com/)** - Transfer Music Library Between Services
 * ⭐ **[Audio Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_audio_software)** - Audio Software Downloads
 * ⭐ **[Audio Editors / Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_editors)** - Edit, Record & Create Audio
-* ⭐ **[Online Audio Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_online_audio_editors)** - Edit Audio / Create Music Online
 * ⭐ **[Audio Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_download_apps)** - Download Audio from Various Sites 
 * ⭐ **[Spotify Tools / Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Tools & Downloaders for Spotify
 * ⭐ **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download from YouTube
@@ -558,7 +557,7 @@
 * [ShortApp](https://shortsapp.com/) - Cut Video / Audio into Shorts 
 * [lalal.ai](https://www.lalal.ai/), [MP3CutterPro](https://mp3cutterpro.com/), [Flacon](https://flacon.github.io/) or [SongDonkey](https://songdonkey.ai/) - Audio Track Splitter 
 * [ISSE](http://isse.sourceforge.net/) - Source Separation Editor
-* [BeatMachine](https://beatmachine.branchpanic.me/) - Tempo Editor
+* [BeatMachine](https://beatmachine.branchpanic.me/), [SongSurgeon](https://songsurgeon.com/engine/ssweb/) or [AudioSpeedChanger](https://www.audiospeedchanger.com/) - Audio Tempo Editors
 * [Get Song BPM](https://getsongbpm.com/) or [MusicStax](https://musicstax.com/) - Song Tempo Database
 * [MusicSpeedChanger](https://musicspeedchanger.com/) - Music Speed Changer
 * [beets.io](http://beets.io/) / [2](https://github.com/beetbox/beets), [alto](https://github.com/ItsLychee/alto), [Zortam](https://www.zortam.com/), [MP3Tag](https://www.mp3tag.de/en/), [TagEditor](https://github.com/Martchus/tageditor), [MusicBee](https://getmusicbee.com/) or [MusicBrainz](https://picard.musicbrainz.org/) - Music Metadata Organizer
@@ -576,7 +575,7 @@
 * [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) / [CLI](https://github.com/IniasP/rnnoise-cli) - Noise Suppression Tools
 * [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10)or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixer
 * [NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB) - Singing Voice Enhancer
-* [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [MorphVOX](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_morphvox), [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird), [MyVoiceMod](https://myvoicemod.com/) or [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changer
+* [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [MorphVOX](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_morphvox), [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird), [MyVoiceMod](https://myvoicemod.com/), [FTM Voice Changer](https://lingojam.com/FemaletoMaleVoiceChanger) or [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changer
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) or [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone Voices
 * [Sound Branch](https://soundbran.ch/) - Create / Share / Podcasts / Voice Messages
 * [blamscamp](https://github.com/blackle/blamscamp) - Bandcamp Style Player for Selling Albums on Itch.io
@@ -1397,6 +1396,7 @@
 * [FreshTube](https://porjo.github.io/freshtube/) - Display Latest Video from Subscriptions 
 * [Youtube_Subs_Bot](https://t.me/youtube_subs_bot) - Sub to Channels Without Account 
 * [TubeBuddy](https://www.tubebuddy.com/) - YouTube Channel Tools
+* [Playboard](https://playboard.co) - YouTube Channel Stats
 * [vidIQ](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl) - YouTube Viewership Data
 * [Channel Crawler](https://channelcrawler.com/eng) - YouTube Channel Search
 * [Comment Viewer](https://commentviewer.com/) - Search & Sort Youtube Comments
@@ -1760,7 +1760,7 @@ Twitch Stream Tracker
 * [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
 * [Magic Trace](https://github.com/janestreet/magic-trace) - Diagnose Performance Issues using Intel Processor Trace
 * [Mem Reduct](https://www.henrypp.org/product/memreduct) - Windows System Memory Cleaner / [GitHub](https://github.com/henrypp/memreduct)
-* [CPUid](https://www.cpuid.com/softwares/cpu-z.html), [winfetch](https://github.com/kiedtl/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tool 
+* [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html), [winfetch](https://github.com/kiedtl/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tool 
 * [HWiNFO](https://www.hwinfo.com/) - Hardware Analysis, Monitoring and Reporting
 * [phwmon](https://gitlab.com/o9000/phwmon) - System Tray Hardware Monitor
 * [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
@@ -2233,7 +2233,7 @@ Twitch Stream Tracker
 * [Random Executor](https://sneakysnail.net/random-executor/) - Random File Executor 
 * [HeavenTools](http://www.heaventools.net/) or [XPEViewer](https://horsicq.github.iohttps://github.com/horsicq/XPEViewer) - PE File Editors
 * [AXEL](https://github.com/axel-download-accelerator/axel) - Lightweight CLI Download Accelerator 
-* [HxD](https://mh-nexus.de/en/hxd/), [Hex Works](https://hex-works.com/eng) or [Hexinator](https://hexinator.com/) - Hex Editors
+* [HxD](https://mh-nexus.de/en/hxd/), [Hexyl](https://github.com/sharkdp/hexyl), [Hex Works](https://hex-works.com/eng) or [Hexinator](https://hexinator.com/) - Hex Editors
 * [webhex.net](https://en.webhex.net/) - Online Hex Viewer
 * [HexEd.it](https://hexed.it/) or [Online Hex Editor](https://www.onlinehexeditor.com/) - Online Hex Editors
 * [infekt](https://infekt.ws/) / [GitHub](https://github.com/syndicodefront/infekt), [nfoview](https://otsaloma.io/nfoview/) / [GitHub](https://github.com/otsaloma/nfoview), [NFOReader](http://www.nforeader.com/) or [NFOmation](https://nfomation.net/) - NFO File Viewers
