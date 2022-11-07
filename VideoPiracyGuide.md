@@ -71,7 +71,7 @@
 * [MKVKing](https://111.90.158.128/) - Movies / TV
 * [PrimeMoviesFlix](https://primemoviesflix.com) - Movies / TV / Anime
 * [TheFlix](https://theflix.to/) - Movies / TV / Requires Signup
-* [Flixtor](https://flixtor.to) or [Filme21](https://filme21.com/) - Movies / TV / Movies Older Than 6 Months For Premium Only
+* [Flixtor](https://flixtor.to) - Movies / TV / Movies Older Than 6 Months For Premium Only
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_google_teamdrives) - Movies / TV / Anime 
 * [Filmzie](https://filmzie.com/) - Movies / TV
 * [PopcornFlix](https://www.popcornflix.com/) - Movies / TV
@@ -339,7 +339,7 @@
 * ⭐ **[Anime8](https://anime8.ru/)** - Sub / Dub
 * ⭐ **[AniMixPlay](https://animixplay.to/)** - Sub / Dub / [Discord](https://discord.gg/X3CPwyefHz)
 * ⭐ **[All Anime](https://allanime.site/)** - Sub / Dub
-* [AnimePahe](https://animepahe.com/) - Sub / [Downloader](https://github.com/charathmathew/animepahe_downloader), [2](https://github.com/ed-archer/animepahe-dlr), [3](https://github.com/notmarek/pyheanime), [4](https://github.com/KevCui/animepahe-dl)
+* ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / [Downloader](https://github.com/charathmathew/animepahe_downloader), [2](https://github.com/ed-archer/animepahe-dlr), [3](https://github.com/notmarek/pyheanime), [4](https://github.com/KevCui/animepahe-dl)
 * [AnimehHub](https://animehub.ac/) - Sub / Dub
 * [123Anime](https://123animes.ru/) - Sub / Dub
 * [AnimeLon](https://animelon.com/) - Sub / Learn Japanese
@@ -436,7 +436,7 @@
 
 ## ▷ Drama Streaming
 
-* ⭐ **[DramaCool](https://www5.dramacool.sk/)**, [dramacool9](https://www.dramacool9.co/) or [WatchAsian](https://watchasian.pe/) - TV / Movies
+* ⭐ **[DramaCool](https://www1.dramacool.cr/)**, [2](https://www.dramacool9.co/), [3](https://watchasian.pe/), [4](https://www3.dramacool.cm/), [5](https://www1.dramacool.do/) - TV / Movies
 * [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming) 
 * [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - TV / Movies
 * [KissAsian](https://kissasian.li/), [2](https://kissasian.ac/), [3](https://kissasian.es/), [4](https://kissasian.pe/) - TV
@@ -469,6 +469,7 @@
 * [NewAsianTV](https://www2.newasiantv.pro/) - TV / Movies
 * [bagikuy](https://bagikuy.com/) - TV / Movies
 * [Kissasian.video](https://kissasian.video/) - TV / Movies
+* [Kissasians](https://kissasians.at/) - TV
 * [iFlix](https://www.iflix.com/) - TV / Movies
 * [WeTV](https://wetv.vip/) - TV / Movies
 * [Viu](https://www.viu.com/) - TV / Movies
@@ -658,12 +659,15 @@
 * [Minirlss](https://minirlss.com/) - Movies / TV / Anime
 * [NYMeriaTV](https://nymeriatv.com/) - Movies / TV
 * [FZMovies](https://fzmovies.net/) - Movies
+* [YourSerie](https://www.yourserie.com/) - Movies / TV
 * [FilmDuty](http://filmduty.com/) - Movies / TV / Anime
 * [ExtraMovies](https://extramovies.loan/) - Movies / TV
 * [KimoiTV](https://www.kimoitv.com/) - Movies / TV / Anime
 * [MeloMovie](https://melomovie.com/) - Movies / TV
 * [MKV Cage](https://www.mkvcage.site/) - Movies / TV
 * [Best-Movies](http://best-movies.info/) - Movies / TV
+* [Onkyo4k](https://onkyo4k.com/) - Movies / TV
+* [ShareSpark](https://sharespark.me/) - Movies / TV
 * [FilmsZilla](https://filmszilla.com/) - Movies / TV
 * [Movies Downloader](https://movie.unlimitdownloads.com/) - Movies / TV
 * [StreamCraze](https://streamcraze.com/) - Movies / TV
@@ -672,13 +676,12 @@
 * [SomosMovies](https://somosmovies.com/) - Movies
 * [MovieSeriesTV](https://www.movieseriestv.net/) - Movies / TV
 * [TVSeriesNMovies](https://www.tvseriesnmovies.com/) - Movies / TV
-* [SeriesVault](https://seriesvault.win/) - TV / Anime
+* [SeriesVault](https://seriesvault.tk/), [2](https://seriesvault.win/) - TV / Anime
 * [o2tvseries](https://o2tvseries.com/) - TV
 * [TV Shows](https://tvshows.show/) - TV
 * [HDMovieArea](https://hdmoviarea.com/genre/dual-audio/) - Movies / TV
 * [Full4Movies](https://www.full4movies.digital/category/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)
 * [Movies Mobile](https://mobilemovies.info/index.php?dir=Hollywood%20Movies) - Movies
-* [SeriesVault](https://seriesvault.tk/) - TV
 * [TVShows.today](https://tvshows.today/) - TV
 * [FilmyZilla](https://filmyzilla.directory/category/202/Hollywood-english-movies/default/1.html) - Movies
 * [HDHub4U](https://hdhub4u.bar/category/hollywood-movies/) - Movies / TV
@@ -692,6 +695,7 @@
 * [SBS](https://3dsbs4u.com/) - Movies / TV
 * [NetNaija](https://netnaija.xyz/) - Movies
 * [Flixiz](https://flixiz.com/) - Movies / TV
+* [GdriveMovies](https://gdrivemovies.xyz/) - Movies 
 * [nKiri](https://nkiri.com/) - Movies / TV
 * [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime
 * [O2TVSeriesz](https://o2tvseriesz.com/) - Movies / TV
@@ -870,7 +874,7 @@
 * ⭐ **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
 * ⭐ **[Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)**
 * ⭐ **[Nyaa](https://nyaa.si/)**, [2](http://nyaa.iss.one/) - Sub / Dub
-* ⭐ **Nyaa Tools** - [TUI](https://github.com/irevenko/koneko) / [Telegram Bot](https://github.com/ejnshtein/nyaasi-bot), [2](https://t.me/meow_in_japanese_bot) / [Python Wrapper](https://github.com/JuanjoSalvador/NyaaPy) / [Torrent Fetch](https://github.com/manintel/nyaabag), [2](https://github.com/Vivek-Kolhe/Nyaa-API) / [Downloader](https://github.com/marcpinet/batch-downloader-nyaa.si/)
+* ⭐ **Nyaa Tools** - [TUI](https://github.com/irevenko/koneko) / [CLI](https://github.com/johnvictorfs/nyaa-cli) / [Telegram Bot](https://github.com/ejnshtein/nyaasi-bot), [2](https://t.me/meow_in_japanese_bot) / [Python Wrapper](https://github.com/JuanjoSalvador/NyaaPy) / [Torrent Fetch](https://github.com/manintel/nyaabag), [2](https://github.com/Vivek-Kolhe/Nyaa-API) / [Downloader](https://github.com/marcpinet/batch-downloader-nyaa.si/)
 * ⭐ **[Anidex](https://anidex.info/)** - Sub / Dub
 * ⭐ **[Hi10Anime](https://hi10anime.com/)** - Sub
 * ⭐ **[SubsPlease](https://subsplease.org/)** - Sub
@@ -1033,7 +1037,8 @@
 * [Bazarr](https://www.bazarr.media/) - Auto-Download Subtitles 
 * [HandySub](https://github.com/HandyOrg/HandySub), [SubDownloader](https://subdownloader.net/) or [Subscene-Subtitle-Grabber](https://github.com/RafayGhafoor/Subscene-Subtitle-Grabber) - Subtitle Downloader
 * [Subliminal](https://github.com/Diaoul/subliminal), [SubtitleBOX](https://github.com/sameera-madushan/SubtitleBOX) or [Subtitle-Downloader](https://github.com/manojmj92/subtitle-downloader) - Python Download Script 
-* [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - Plex Subtitles 
+* [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - Plex Subtitles
+* [Adjust Subs Like a Pro](https://graph.org/Adjust-subtitles-in-seconds-like-a-pro-07-17) - Subtitle Syncing Guide
 * [Subshifter](https://subshifter.bitsnbites.eu/), [subsync](https://github.com/sc0ty/subsync), [ffsubsync](https://github.com/smacke/ffsubsync), [autosubsync-mpv](https://github.com/joaquintorres/autosubsync-mpv), [Alass](https://github.com/kaegi/alass), [autosubsync](https://github.com/oseiskar/autosubsync) or [subslider.js](https://github.com/micheleb/subslider.js) / [2](https://micheleb.github.io/subslider.js/) - Sync Subtitles 
 * [SubtitleDLbot](https://t.me/SubtitleDLbot) or [subtitle_dl_bot](https://t.me/subtitle_dl_bot) - Telegram Subtitles Bot 
 * [MuxedBot](https://t.me/MuxedBot) - Merge Subtitles / Telegram
