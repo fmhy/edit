@@ -1413,6 +1413,7 @@
 * [NicoNico SPEENYA](https://github.com/chimerast/niconico-speenya) - Presentation Style Comments
 * [Current Moon Phase](https://chrome.google.com/webstore/detail/current-moon-phase/ippnbhhbamibfpljlfmgogaondodicgi) - Current Moon Phases
 * [Nicosapo](https://github.com/yurafuca/nicosapo) - Add Features to Nico Nico
+* [N-Bot](https://chrome.google.com/webstore/detail/n-bot-google-meet-online/cpcenjbkciljcgglpgcmghcphjcbkffg?hl=en%E2%80%8E) - Bot to Attend Your Meetings / Classes
 * [Zoom Scheduler](https://zoom.us/download#chrome_ext) - Zoom Meeting Scheduler
 * [Typewriter](https://chrome.google.com/webstore/detail/typewriter/jfghikfjnjkjkdpndeecjheealfoabhc) - Typing Typewriter Sounds
 * [Stocks House](https://chrome.google.com/webstore/detail/stocks-house/mpdkicmbmbljbgncgphonhgjebnapfop) - Multi Site Stock Check
