@@ -19,6 +19,7 @@
 
 ***
 
+* ⭐ **[Torrent Client Wiki](https://en.wikipedia.org/wiki/Comparison_of_BitTorrent_clients)** - List of Torrent Clients
 * ⭐ **[qBittorrent](https://www.qbittorrent.org/)** - [Screenshot](https://i.imgur.com/B9KBUXs.png)
 * ⭐ **[qBittorrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)**
 * ⭐ **[Transmission](https://transmissionbt.com/)** - [Screenshot](https://i.imgur.com/BnoGitA.png)
