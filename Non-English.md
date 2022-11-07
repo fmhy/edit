@@ -184,7 +184,7 @@
 * [J-pop Music Download](https://jpop.xyz/) - Music / FLAC / MP3
 * [tlanyan](https://tlanyan.me/) - Linux / Software  
 * [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - Courses / [icourse163](https://www.icourse163.org/)
-* [CatchingNow](https://www.catchingnow.cn/) or [TapTap](https://www.taptap.io/) - Android Apps
+* [CatchingNow](https://www.catchingnow.cn/), [Downkuai](https://www.downkuai.com/) or [TapTap](https://www.taptap.io/) - APKs
 * [Emu999](http://www.emu999.net/) - ROMs
 
 ## ▷ Torrenting
@@ -1055,6 +1055,7 @@
 * [BlueWarez](https://www.bluewarez.pl/) - Video / Audio / Games / Software / Books / Audiobooks / NSFW
 * [pobieramy24](https://pobieramy24.xyz/) - Video / Audio / Software / Games / Android / Books / Audiobooks / NSFW
 * [DarkArea](http://darkarea.pl/) - Video / Audio / Games / Software / Books / Audiobooks
+* [Pijafka](https://pijafka.pl/) - Video / Audio / Software / Games / Books / Comics
 * [Files4You](https://www.files4you.org/) - Video / Audio / Software / Games / Android / Books / Audiobooks / NSFW
 * [Warezik](https://www.warezik.eu/) - Video / Audio / Software / Games / Books
 * [Dark Machine](https://darkmachine.pl/) - Video / Audio / Games / Software / Books / Audiobooks / Android / NSFW
@@ -1603,6 +1604,7 @@
 * [GamesMega](https://gamesmega.net/) - Games / ROMs
 * [BajarJuegosPCgratis](https://bajarjuegospcgratis.com/) - Games
 * [gamesgx](https://www.gamesgx.net/) - PS2 ROMs
+* [Zypeliculashd](https://zypeliculashd.net/) - Movies / TV / Anime
 * [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - Movies
 * [SomosMovies](https://somosmovies.com/) - Movies
 * [Mega MKV](https://mega-mkv.com/) - Movies
