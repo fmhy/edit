@@ -118,7 +118,7 @@
 * [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)
 * [Use ESDF](http://www.use-esdf.org/) - OG FPS Control Combo
 * [Pokemon Typechart](https://pokemondb.net/type) - Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)
-* [PokeList](https://pokemonlist.netlify.app/) - Pokedex / [App](https://github.com/skydoves/Pokedex)
+* [PokeList](https://pokemonlist.netlify.app/) or [PokeAPI](https://pokeapi.co/) - Pokedex / [App](https://github.com/skydoves/Pokedex)
 * [NYCPokeMap](https://nycpokemap.com/) - Real-time Pokémon Go map for NYC
 * [Playground](https://www.playground.ru/) - Mods, Artbooks, Soundtracks, Cheats & more
 * [Game Currency Conversion Rates](https://docs.google.com/spreadsheets/d/1tcxiGbCIktMDqxGZleHDC5s100tsY7VCTpXUSIkoNFQ/edit) - Convert In-Game Currency to Real Currency
