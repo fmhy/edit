@@ -272,6 +272,7 @@
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [The White Circle](https://twc1rcle.com/) - Cybersecurity Community
 * [Advisory Database](https://github.com/github/advisory-database) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
+* [osquery](https://github.com/osquery/osquery) - Security Monitor
 * [Crowdsec](https://crowdsec.net/) - Crowd-Sourced Intrusion Detection / Prevention / [GitHub](https://github.com/crowdsecurity/crowdsec)
 * [The Void](https://www.thevoid.community/) - Software Incident Reports
 * [Fail2Ban](https://www.fail2ban.org/wiki/index.php/Main_Page) - Protect Servers from Brute Force Attacks / [GitHub](https://github.com/fail2ban/fail2ban)
@@ -343,9 +344,10 @@
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
 * [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
 * [GRC DNSBench](https://www.grc.com/dns/benchmark.htm) - DNS Benchmark
+* [dynamic.name](https://dynamic.name/) - Dynamic DNS
 * [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - HTTPS DoH Queries
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
-* [Sympli](https://sympli.io/), [AnimaApp](https://www.animaapp.com/) or [ZeroHeight](https://www.zeroheight.com/) - Developement Collaboration Tool
+* [Sympli](https://sympli.io/), [AnimaApp](https://www.animaapp.com/) or [ZeroHeight](https://www.zeroheight.com/) - Development Collaboration Tool
 * [Grav](https://getgrav.org/) - Flat-File CMS
 * [Flux](https://www.runonflux.io/) - Decentralized Cloud Infrastructure
 * [URLPages](https://github.com/jstrieb/urlpages) - Store Entire Pages in URLs
@@ -356,6 +358,7 @@
 * [Search Engine Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_seo_tools) - SEO Tools
 * [SerPreview](https://serpreviewtool.com/) - Site Search Results Preview
 * [Charles 3](https://www.charlesproxy.com/download/previous-release/) or [ProxyMan](https://proxyman.io/) - Web Debugging Proxy Apps
+* [CORS Proxy](https://corsproxy.github.io/) - Free CORS Proxy
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
 * [Octopus](https://octopus.do/sitemap) - Site Planning Tool
 * [Utom Design](https://utom.design/measure) - Sketch Measure
@@ -381,11 +384,12 @@
 * [Magic Drop](https://chrome.google.com/webstore/detail/magic-drop/ogbbepddobacadohbfbpmhjomfjmbken) - Drag & Drop Images to Sites
 * [Rest Test Test](http://resttesttest.com/) - Test REST / CORS Services
 * [HeidiSQL](https://www.heidisql.com/) - SQL Manager
-* [httpbin](https://httpbin.org/) - HTTP Request & Response Service
+* [httpbin](https://httpbin.org/) or [Requestbin](https://requestbin.com/) - HTTP Request & Response Service
 * [RemoteMySQL](https://www.remotemysql.com/) - Remote MySQL Database
 * [DoIt](https://github.com/dolthub/dolt) - SQL Database
 * [DB4Free](https://db4free.net/) - MySQL Testing
 * [AI2SQL](https://app.ai2sql.io/) - SQL Generator
+* [franchise](https://franchise.cloud/) - SQL Notebook
 * [Illegal Analytics Scanner](https://illegal.analyticsscanner.com/) - Check if your Analytics Break Laws
 * [OceanBase](https://open.oceanbase.com/) - Relational Database / [GitHub](https://github.com/oceanbase/oceanbase)
 * [NocoDB](https://www.nocodb.com/) - Turn Database into Smart Spreadsheet / [GitHub](https://github.com/nocodb/nocodb)
@@ -403,8 +407,9 @@
 * [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
 * [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
 * [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
-* [NetLib.re](http://netlib.re/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains 
+* [NetLib.re](http://netlib.re/), [takingnames](https://takingnames.io/blog/instant-subdomains) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains 
 * [TheDev](https://thedev.id/) or [Dev.page](https://dev.page/) - Free Developer Subdomains
+* [redirect.name](https://redirect.name/) - URL Forwarding
 * [StatPing](https://github.com/statping/statping) or [Better Uptime](https://betteruptime.com/) - Site Uptime Monitor
 * [UseMe](https://useme.org/) - Ping Website
 * [Measure](https://web.dev/measure/) - Site Functionality Test
@@ -533,6 +538,7 @@ Automated Incident Response and Forensics Framework
 * [cssbuttons](https://cssbuttons.io/) - CSS Buttons
 * [CBox](https://www.cbox.ws/), [Typebot](https://typebot.io/), [Fonoster](https://fonoster.com/) or [Tawk](https://www.tawk.to/) - Embedded Chat App
 * [StackWhats](https://stackwhats.com/) - Add Whatsapp Chat to Your Site
+* [Pay 2 Email](https://pay2.email/) - Simple Website Contact Form
 * [Twitcker](https://twitcker.com/) - Add Twitter Feed Ticker to Site
 * [Error404](https://error404.fun/) - Free 404 Pages
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
@@ -695,7 +701,7 @@ Automated Incident Response and Forensics Framework
 * [Kali NetHunter](https://store.nethunter.com/en/) - Penetration Testing / Forensics Apps
 * [MobileApp-Pentest-Cheatsheet](https://github.com/fuzz-security/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
 * [Uiautomator2](https://github.com/openatx/uiautomator2) or [Appium](http://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
-* [MSTG](https://github.com/OWASP/owasp-mstg) - App Security Testing / Reverse Engineering
+* [MSTG](https://github.com/OWASP/owasp-mstg) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
 * [jadx](https://github.com/skylot/jadx) - Dex to Java Decompiler
 * [Privado](https://github.com/Privado-Inc/privado) - Generate App Privacy Reports
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App
@@ -1001,6 +1007,7 @@ Automated Incident Response and Forensics Framework
 * [UMLet](https://www.umlet.com/) - Create UML Diagrams
 * [Vim Latex](http://vim-latex.sourceforge.net/) - Latex Style Vim Editor
 * [CarlosAG](https://www.carlosag.net/) - Coding Tools
+* [Decompiler](https://www.decompiler.com/) - Online Decompiler
 * [core-plot](https://github.com/core-plot/core-plot) - Core Plot Source Code / Apps
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) - Livecoding Resources
 * [Telosys](http://www.telosys.org/) - Code Generator
@@ -1115,11 +1122,11 @@ Automated Incident Response and Forensics Framework
 * [Bundlephobia](https://bundlephobia.com/) - Find Cost of Adding npm Package
 * [Awesome Python](https://github.com/vinta/awesome-python) - Python Resource Index
 * [py-modindex](https://docs.python.org/3/py-modindex.html) - Python Modules List / Tutorials
-* [JSONView](https://jsonview.com/) - JSON Viewer 
 * [JSON Formatter](https://jsonformatter.curiousconcept.com/) or [json-formatter](https://github.com/callumlocke/json-formatter) - JSON Formatter 
-* [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) - JSON Viewer & Editor
+* [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) or [JSONView](https://jsonview.com/) - JSON Viewer & Editor
 * [JMESPath](https://jmespath.org/) - Query Language for JSON / [Tutorial](https://jmespath.org/tutorial.html)
 * [zio-json](https://github.com/zio/zio-json) - JSON Library
+* [JSON Bin](https://jsonbin.io/) -JSON Host
 * [PlantText](https://www.planttext.com/) - UML Editor
 * [glogg](https://glogg.bonnefon.org/) - Log File Explorer
 * [Code::Stats](https://codestats.net/) - Programmer Stat Tracking
@@ -1154,12 +1161,13 @@ Automated Incident Response and Forensics Framework
 * [Strapi](https://strapi.io/) - API Designer 
 * [RapidAPI](https://rapidapi.com/) or [FastAPI](https://github.com/tiangolo/fastapi) - API Framework
 * [tRPC](https://trpc.io/) - Build Typesafe APIs 
+* [Beeceptor](https://beeceptor.com/) - Mock REST APIs
 * [Siesta](https://github.com/bustoutsolutions/siesta) - Write REST API Clients for iOS / macOS
 * [WebAuthn](https://webauthn.io/) - Data Security Authentication API
 * [APIKit](https://github.com/API-Security/APIKit) - API Security Tools
 * [hoppscotch](https://hoppscotch.io/) - API Development Ecosystem / [GitHub](https://github.com/hoppscotch/hoppscotch)
 * [ReDoc](https://github.com/Redocly/redoc) - Generate API Documentation
-* [Mockable](https://www.mockable.io/) or [MockLab](https://get.mocklab.io/) - Mock APIs
+* [Mockable](https://www.mockable.io/), [Mocky](https://www.mocky.io/) or [MockLab](https://get.mocklab.io/) - Mock APIs
 * [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) - Fake APIs
 * [RandomAPI](https://randomapi.com/) - Generate Fake Data for Populating Mockups 
 * [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator 
@@ -1180,6 +1188,7 @@ Automated Incident Response and Forensics Framework
 * [aftership](https://www.aftership.com/) - Shipment Tracking API
 * [ipinfo.io](https://ipinfo.io/) - IP Data API
 * [TheCatAPI]('https://thecatapi.com/) - Cat Rating API
+* [SWAPI](https://pipedream.com/apps/swapi) - Star Wars APIs
 
 ***
 
