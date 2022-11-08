@@ -637,7 +637,8 @@
 * [BiologyOnline](https://www.biologyonline.com/) - Biology Articles
 * [Academia](https://www.academia.edu/) - Academic Papers
 * [Scinapse](https://scinapse.io/) - Academic Paper Search 
-* [Semantic Scholar](https://www.semanticscholar.org/) - Scientific Paper Search 
+* [Semantic Scholar](https://www.semanticscholar.org/) - Scientific Paper Search
+* [Consensus](https://consensus.app/) or [Elicit](https://elicit.org/) - Scientific Paper Consensus Search
 * [Connected Papers](https://www.connectedpapers.com/) or [LitMaps](https://app.litmaps.co/) - Find Connected Academic Papers 
 * [FreeFullPDF](https://freefullpdf.com/) - Science / Articles
 * [KUNDOC](https://coek.info/) - Science / Articles
