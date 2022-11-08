@@ -1599,3 +1599,9 @@ pass: paluch
 #### Perfect Viewer
 
 `aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1wZXJmZWN0K3ZpZXdlciZ0ZXJtcz1hbGwmYXV0aG9yPSZzYz0xJnNmPXRpdGxlb25seSZzcj10b3BpY3Mmc2s9dCZzZD1kJnN0PTAmY2g9MzAwJnQ9MCZzdWJtaXQ9U2VhcmNo`
+
+***
+
+#### DNS Speed Test & Changer
+
+`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1ETlMrU3BlZWQrVGVzdCslMjYrQ2hhbmdlciZzcj10b3BpY3Mmc2Y9dGl0bGVvbmx5`
