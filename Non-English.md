@@ -1638,7 +1638,7 @@
 * [PasateaTorrent](https://pasateatorrent.net/) - Movies / TV
 * [Descargas](https://descargas2020.net/) - Movies / TV
 * [Cinetorrent](http://mozatimes.com/) - Movies / TV
-* [DonTorrent](https://dontorrent.uno/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent)
+* [DonTorrent](https://dontorrent.gs/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent)
 * [Tomadvix](https://tomadivx.net/) - Movies / TV
 * [DIVXTorrent](https://www.divxtorrent.com/) - Movies / TV
 * [DivxTotal](https://www.divxtotal.pm/), [2](https://www.divxtotal.one/) - Movies / [Telegram](https://t.me/divxtotal2)
