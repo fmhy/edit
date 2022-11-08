@@ -232,7 +232,7 @@
 * [Type Hound](https://typohound.com/) - Ebay Typo Search
 * [Valuta EX](https://valuta.exchange/) - Currency Converter
 * [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
-* [GiftWhale](https://giftwhale.com/) - Wishlist Creator
+* [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wishlist Creators
 * [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Wii Shop Music on Shopping Sites
 
 ***
@@ -270,7 +270,7 @@
 * [Random Comic Generator 3.0](https://explosm.net/rcg) - Explosm Random Comic Generator
 * [Talk Obama To Me](http://talkobamato.me/) - Make Obama Say Stuff
 * [Objection!](https://objection.lol/) - Ace Attorney Objecting on Your Behalf 
-* [Listography](https://listography.com/), [Ranker](https://www.ranker.com/), [TheTopsTens](https://www.thetoptens.com/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
+* [Listography](https://listography.com/), [Ranker](https://www.ranker.com/), [FlexLists](https://flexlists.com/), [TheTopsTens](https://www.thetoptens.com/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
 * [DreamWidth](https://www.dreamwidth.org/) - User-Made Images & Stories
 * [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
 * [Posting.Cool](https://posting.cool/) - Random Topic Forum
