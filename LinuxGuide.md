@@ -15,6 +15,7 @@
 * ⭐ **[Linux Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_themes)** - Themes for Linux
 * ⭐ **[Linux Piracy](https://rentry.co/LinuxPiracy)** - Linux Piracy Guide
 * ⭐ **[Archwiki](https://wiki.archlinux.org/)** - Linux Wiki
+* ⭐ **[Awesome TUIs](https://github.com/rothgar/awesome-tuis)** - Linux TUI Index
 * ⭐ **[Bpytop](https://github.com/aristocratos/bpytop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, [CPU-X](https://github.com/X0rg/CPU-X), [vtop](https://github.com/MrRio/vtop), [neofetch](https://github.com/dylanaraps/neofetch) / [Themes](https://github.com/chick2d/neofetch-themes), [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [Stacer](https://github.com/oguzhaninan/Stacer) - System Info / Resource Monitors
 * ⭐ **[Alacritty](https://github.com/alacritty/alacritty)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, [Simple Terminal](https://st.suckless.org/), [yakuake](https://apps.kde.org/yakuake/) or [tabby](https://tabby.sh/) - Terminal Emulator
 * ⭐ **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
@@ -76,7 +77,8 @@
 * [Boxes](https://wiki.gnome.org/Apps/Boxes) - Virtual Machine Manager
 * [Linux-KVM](https://www.linux-kvm.org/page/Downloads) - Kernel-Based Virtual Machine
 * [Darling](https://www.darlinghq.org/) - Run MacOS Programs on Linux
-* [OSX-KVM](https://github.com/kholia/OSX-KVM), [OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - MacOS Virtual Machine
+* [OSX-KVM](https://github.com/kholia/OSX-KVM), [OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - MacOS Virtual 
+* [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - Communicate with iOS Devices
 * [InstantBox](https://github.com/instantbox/instantbox) - Temporary Linux Systems
 * [HowtoForge](https://www.howtoforge.com/), [Erik Dubois](https://www.youtube.com/c/ErikDubois) or [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA) - Linux Tutorials
 * [DotShare](http://dotshare.it/) - Distro Config Index
@@ -402,6 +404,7 @@
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/) / [Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 * [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/) - Install New macOS on Unsupported Devices
 * [Conky](https://github.com/brndnmtthws/conky) / [Colors](https://github.com/helmuthdu/conky_colors) or [MacFetch](https://github.com/gantoreno/macfetch) - System Info / Resource Monitor
+* [TaskExplorer](https://objective-see.org/products/taskexplorer.html) - Task Manager / Viewer
 * [DPCIManager](https://github.com/MuntashirAkon/DPCIManager) - PCI Hardware Info 
 * [Clean-Me](https://kevin-de-koninck.github.io/Clean-Me/) - MacOS System Cleanup
 * [OpenSourceApple](https://opensource.apple.com/) - System Tools
@@ -499,6 +502,7 @@
 
 # ► Mac Adblock / Privacy
 
+* ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
 * [MacOS Security Tools](https://github.com/ashishb/osx-and-ios-security-awesome) - Mac Security Tools
 * [MacOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [Obsidian](https://obsidianapp.io/) - Two-Factor Authentication
@@ -506,15 +510,26 @@
 * [Incoggo](https://incoggo.com/) - Adblocker
 * [Adguard DNS](https://1fichier.com/?ef26ks4abjzct7o1k8os) - Adblocking Profile
 * [Lockdown Privacy](https://lockdownprivacy.com/) - Block Trackers / Ads
+* [SpotifyAdBlocker-macOS](https://github.com/amgxv/SpotifyAdBlocker-macOS), [Spotify Adblock Guide](https://redd.it/y2zt58) or [Mac_Spotify_Adblock](https://github.com/RDE3/Mac_Spotify_Adblock) - Spotify Adblockers
 * [Stronghold](https://github.com/alichtman/stronghold) - Mac Security Settings Terminal
 * [LuLu](https://objective-see.com/products/lulu.html) - Mac Firewall
+* [Mana](https://github.com/manasecurity/mana-security-app) - App Security Monitor
+* [RansomWhere?](https://objective-see.org/products/ransomwhere.html) - Ransomware Blocker
+* [OverSight](https://objective-see.org/products/oversight.html) - Webcam / Mic Monitor
+* [Santa](https://github.com/google/santa) - Binary Authorization System
+* [Masochist](https://github.com/squiffy/Masochist) - XNU Rootkit Framework
+* [DHS](https://objective-see.org/products/dhs.html) - Dylib Hijack Scanner
+* [mac4n6](https://github.com/pstirparo/mac4n6) - Forensic Artifact Locations
+* [What's Your Sign?](https://objective-see.org/products/whatsyoursign.html) - View File Cryptographic Signatures
 * [Tracker Zapper](https://rknight.me/apps/tracker-zapper/) - Remove URL Tracking Elements
+* [LinkLiar](https://halo.github.io/LinkLiar/) - Spoof MAC Address'
 * [FileVault](https://support.apple.com/en-us/HT204837) - Mac Disk Encryption 
 * [Code Signing](https://www.code-signing.app/) - Validate Code Signature
+* [Kextviewr](https://objective-see.com/products/kextviewr.html) - View All Kernel Modules
+* [mac_apt](https://github.com/ydkhatri/mac_apt) - Artifact Parsing Tool
 * [OpenVPN](https://tunnelblick.net/) or [Passepartout](https://passepartoutvpn.app/) - VPN Tunnel
 * [V2rayU](https://github.com/yanue/V2rayU) - DIY Privacy Network
 * [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) - Privacy-Based Email Client
-* [SpotifyAdBlocker-macOS](https://github.com/amgxv/SpotifyAdBlocker-macOS), [Spotify Adblock Guide](https://redd.it/y2zt58) or [Mac_Spotify_Adblock](https://github.com/RDE3/Mac_Spotify_Adblock) - Spotify Adblockers
 
 ***
 
