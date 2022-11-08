@@ -727,7 +727,7 @@
 
 # ► Italian
 
-* ⭐ **[Italian Piracy Sites](https://rentry.co/ItalianPiracySites)** - Italian Piracy Site List
+* ⭐ **[Italian Piracy Resources](https://rentry.co/italian-piracy-resources)** - Italian Piracy Site List
 
 ## ▷ Downloading 
 
