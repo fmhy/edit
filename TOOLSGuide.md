@@ -41,7 +41,7 @@
 * [DripDrop](https://www.dripdrop.live/) - Product Drop Countdown
 * [SetAlarmClock](https://setalarmclock.net/) - Online Alarm Clock
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
-* [Flourish](https://flourish.studio/), [DataWrapper](https://www.datawrapper.de/), [RAWgraphs](https://app.rawgraphs.io/) / [GitHub](https://github.com/rawgraphs/rawgraphs-app), [Chart.xkcd](https://timqian.com/chart.xkcd/) or [ParaView](https://github.com/Kitware/ParaView) - Data Visualization Tools
+* [Flourish](https://flourish.studio/), [DataWrapper](https://www.datawrapper.de/), [RAWgraphs](https://app.rawgraphs.io/) / [GitHub](https://github.com/rawgraphs/rawgraphs-app), [ChartD](http://chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/) or [ParaView](https://github.com/Kitware/ParaView) - Data Visualization Tools
 * [Grocy](https://grocy.info/) - Grocery / Household Management Tool
 * [Volmarg](https://volmarg.github.io/) - Personal Management Tool
 * [WhoBrings](https://whobrings.com/) - Party Item Management Tool
@@ -60,6 +60,7 @@
 * [OpenTable](https://www.opentable.com/) - Restaurant Reservation Search
 * [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Concerts / Music Festival Search
 * [Visa Guide](https://visaguide.world/) - Worldwide Travel Visa Guides
+* [KittySplit](https://www.kittysplit.com/en/) - Group Expense Splitting Calculator
 * [Sleepyti.me](https://sleepyti.me/) or [Sleeptyme](https://sleeptyme.ca/) - Bedtime Calculator 
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - Bra Size Calculator
 * [The Sustainabilitist](https://sustainabilitist.com/) - Sustainability Resource Hub
@@ -148,6 +149,7 @@
 * [Plain Text Table](https://plaintexttools.github.io/plain-text-table/) - Text Tables
 * [EditCSVOnline](https://www.editcsvonline.com/) - Online CSV Editor
 * [SubjectiveSort](https://wiesenthal.github.io/SubjectiveSort/) - Create Ranked List from CSV
+* [VisiData](https://github.com/saulpw/visidata) - Spreadsheet CLI Editor
 * [Read File Online](http://www.readfileonline.com/) - Online Large Text File Viewer
 * [Office Search](http://www.enselsoftware.com/product/OfficeSearch.html) - Multi-File Text Search
 * [PDF Keywords Extractor](https://github.com/bendersej/pdf-keywords-extractor) - PDF File Text Search
@@ -237,7 +239,6 @@
 * [ascii-art-generator](https://www.ascii-art-generator.org/), [ascii-generator](https://ascii-generator.site/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
 * [Love ASCII](http://loveascii.com/), [16colors](https://16colo.rs/) or [RoySAC](http://www.roysac.com/sitemap.html) - Copy ASCII Art
 * [randSeq](http://www.dave-reed.com/Nifty/randSeq.html) - Random Letter Sequence Generator
-* [JMESPath](https://jmespath.org/) - Query Language for JSON / [Tutorial](https://jmespath.org/tutorial.html)
 * [xeuledoc](https://github.com/Malfrats/xeuledoc) - Fetch Information about Public Google Documents
 * [Useless-Translator](https://vcjhwebdev.github.io/useless-translator/) - Morse Code / Binary Translator 
 * [Podpis](https://podpis-online.ru/) - Signature Generator
@@ -473,6 +474,7 @@
 * [Cable](https://vb-audio.com/Cable/) - Virtual Audio Cable
 * [Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Download Album Art
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - Identify Playing Songs
+* [Whisper](https://github.com/openai/whisper) or [Vosk](https://github.com/alphacep/vosk-api) -
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Soundux](https://soundux.rocks/) / [GitHub](https://github.com/Soundux/Soundux) or [Resanance](https://resanance.com/) - Soundboard Program
 * [MyInstants](https://www.myinstants.com/index/us/), [InternetsFun](https://instantsfun.es/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboard
 * [Soundpad](https://www.leppsoft.com/soundpad/) - Voicechat Soundboard
@@ -775,14 +777,14 @@
 * [wallabag](https://wallabag.org/) - Save and Classify Articles
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - Tools / Apps to Run Flash Programs
 * [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/webcatalog/) or [web2desk](https://appmaker.xyz/web2desk/) - Turn Sites into Desktop Apps 
-* [Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Multiverse](https://multiverse.plus/), [Letterpad](https://letterpad.app/), [Mataroa](https://mataroa.blog/), [Emanates Docs](https://emanates.deepjyoti30.dev/), [write freely](https://writefreely.org/) or [twtxt](https://github.com/buckket/twtxt) - Blogging Platform
+* [Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Multiverse](https://multiverse.plus/), [Letterpad](https://letterpad.app/), [Mataroa](https://mataroa.blog/), [Write.as](https://write.as/), [Emanates Docs](https://emanates.deepjyoti30.dev/), [PublicEmails](https://publicemails.com/), [write freely](https://writefreely.org/) or [twtxt](https://github.com/buckket/twtxt) - Blogging Platforms
 * [Telescope](https://telescope.ac/) - Publishing Platform
 * [Hamsket](https://github.com/TheGoddessInari/hamsket), [Ferdi](https://getferdi.com/), [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [matterbride](https://github.com/42wim/matterbridge), [Rambox](https://github.com/ramboxapp/download/releases) or [Franz](https://meetfranz.com/) - Combine Web Apps / Chats
 * [Slapdash](https://slapdash.com/) - Connect Cloud Apps 
 * [Remote Communication](https://libreplanet.org/wiki/Remote_Communication) - Communication Software Index
 * [Discord](https://discordapp.com/), [Guilded](https://www.guilded.gg/) / [Mod](https://github.com/ReGuilded/ReGuilded/) or [Revolt](https://revolt.chat/) / [Bots]( https://rvlt.gg/discover/bots)  / [Resources](https://github.com/insertish/awesome-revolt) - Messaging Platforms
 * [Twist](https://twist.com/) - Collaboration Chat Manager
-* [Hack.chat](https://hack.chat/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chat 
+* [Hack.chat](https://hack.chat/), [Shick](https://shick.me/), [Yap](https://yap.chat/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chats 
 * [Cirlos](https://www.cirlos.net/), [Miranda NG](https://www.miranda-ng.org/en/) or [WeeChat](https://weechat.org/) - Chat App
 * [KiwiIRC](https://kiwiirc.com/) or [TheLounge](https://thelounge.chat/) - WebIRC Client
 * [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/), [PeerLinks](https://peerlinks.io/), [mIRC](https://www.mirc.com/get.html) or [Bitchx](http://bitchx.sourceforge.net/) - IRC Clients
@@ -841,6 +843,7 @@
 * [WikiStalk](https://github.com/altilunium/wistalk) - Analyze Wikipedia User's Activity
 * [InspectContent](https://inspectcontent.com/) - Site Keyword Inspector
 * [Personal Link Hompages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_personal_link_homepages) - Display Your Links / Sites
+* [LocalHost](http://localhost.run/) - Connect Web Apps to Internet
 * [Integrated Inbox](https://integratedinbox.com/) - Gmail Google Web App Integration
 * [EasyMailForGmail](https://easymailforgmail.com/) - Gmail Desktop Client
 * [Namechk](https://namechk.com/), [CheckUserNames](https://knowem.com/), [NameCheckr](https://www.namecheckr.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - Check Username Availability
@@ -1788,7 +1791,7 @@ Twitch Stream Tracker
 * [Remove Hidden Startup Programs](https://www.youtube.com/watch?v=sUXcMaP6wRQ) - How-to Remove Secret Startup Apps
 * [LaunchLater](https://github.com/jeffcox111/LaunchLater) or [Startup Delayer](https://www.r2.com.au/page/products/show/startup-delayer/) - Delay Automatic App Startups
 * [DefaultProgramsEditor](https://defaultprogramseditor.com/) - File Association Editor
-* [RegExp](https://github.com/zodiacon/RegExp) or [Registry-Finder](https://registry-finder.com/) - Improved Registry Explorer
+* [RegExp](https://github.com/zodiacon/RegExp), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Improved Registry Explorers
 * [Desktop Management](https://github.com/DeveloperWOW64/deskmgr) - Improved Computer Management
 * [Open Shell](https://open-shell.github.io/Open-Shell-Menu/), [2](https://github.com/Open-Shell/Open-Shell-Menu), [ValliStart](https://github.com/Jax-Core/ValliStart) or [SystemTrayMenu](http://hofknecht.eu/systemtraymenu) / [GitHub](https://github.com/Hofknecht/SystemTrayMenu) - Improved Start Menu 
 * [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - Classic Start Menu 
@@ -1858,7 +1861,7 @@ Twitch Stream Tracker
 * [AutoHotkey](https://www.autohotkey.com/), [MacroRecorder](https://www.macrorecorder.com/), [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install ) or [AutoIt](https://www.autoitscript.com/) - Task Automation Tools / [Script Gen](https://www.ahkgen.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt), [2](https://github.com/ahkscript/awesome-AutoHotkey)
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](http://www.keyefficiency.com/) - System Task Scheduler
 * [Nomad](https://www.nomadproject.io/) - App Deployment Automation / [GitHub](https://github.com/hashicorp/nomad)
-* [cygwin](http://cygwin.com/) - Linux Style Windows Tools
+* [cygwin](http://cygwin.com/) or [Gow](https://github.com/bmatzelle/gow/) - Linux Style Windows Tools
 * [GWSL-Source](https://github.com/Opticos/GWSL-Source) or [GWSL](https://opticos.github.io/gwsl/) - Run Linux Apps on Windows
 * [Menu11](https://github.com/prateekmedia/Menu11) - Windows 11 Style Launcher
 * [DreyMaR's](https://dreymar.colemak.org/) - Keyboard Tips and Resources
