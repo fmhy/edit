@@ -707,7 +707,6 @@
 * [Wtfmovies](https://www.wtfmovies.xyz/) - Movies / TV
 * [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - Cartoons 
 * [Bakabt](https://bakabt.me/) - Cartoons / [Signup](http://wiki.bakabt.me/index.php/Sign_up)
-* [FantAsian](https://t.me/FantAsian) - Asian Drama
 * [DramaFans](http://www.dramafans.org/) - Asian Drama
 * [DoraMax264](https://doramax264.com/) - Asian Drama
 * [CondensedAudioCatalog](https://condensedaudiocatalog.com/) - Asian Drama
