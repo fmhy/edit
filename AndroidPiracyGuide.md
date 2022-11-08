@@ -97,6 +97,7 @@
 * [PrivateBrowser](https://play.google.com/store/apps/details?id=com.prism.download.adblock.privacy.flash.player.incognito.private_browser.browser) - Browser Disguised as Calculator
 * [Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers) - Encrypted Android Messengers
 * [Silence](https://silence.im/) - Encrypt SMS/MMS Messages
+* [AndroidSMSServer](https://github.com/umer0586/AndroidSMSServer) - Send SMS via Android
 * [Wickr](https://play.google.com/store/apps/details?id=com.wickr.pro&amp;hl=en), [MySudo](https://mysudo.com/), [Jami](https://jami.net/), [Syphon](https://syphon.org/), [Mesibo](https://play.google.com/store/apps/details?id=com.mesibo.mesiboapplication) or [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app) - Encrypted Messaging / Video Calls
 * [SmallTalk](https://github.com/ouchadam/small-talk) - Matrix Client
 * [OVERSEC](https://www.oversec.io/) - Add Text / Image Encryption to any App
@@ -469,7 +470,7 @@
 * ⭐ **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** / [CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) / [CSE 3](https://cse.google.com/cse?cx=a805854b6a196d6a6) - Multi-Site APK Search
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Modded / [App](https://forum.mobilism.org/app/)
 * ⭐ **[FileCR](https://filecr.com/android/)** - Modded
-* ⭐ **[Modded Central](https://t.me/+jztF7-BV9HY0ODhl)** - Modded / Telegram / [Backup](https://t.me/moddedcentralbackup)
+* ⭐ **[Modded Central](https://t.me/+yaL8VGyjS0Q0YTll)** - Modded / Telegram / [Backup](https://t.me/moddedcentralbackup)
 * ⭐ **[APKMirror](https://www.apkmirror.com/)** - Untouched / [Playstore Links](https://pastebin.com/TcsAJib6)
 * ⭐ **[Lucky Patcher](https://www.luckypatchers.com/download/)** - Remove Ads / Free In App Purchases / App Patcher / [Guide](https://flixbox.github.io/lp-compat/docs/intro), [2](https://latestechnews.com/how-to-use-lucky-patcher/) / [Compatibility](https://flixbox.github.io/lp-compat/) / [Subreddit](https://www.reddit.com/r/luckypatcher/) / [Discord](https://discord.com/invite/RS5ddYf7mw)
 * ⭐ **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - Repositories Index
@@ -535,6 +536,7 @@
 * [ModderWeb](https://modderweb.com/) - Modded
 * [RexDL](https://rexdl.com/) - Modded
 * [Androidp1](https://www.androidp1.com/en/) - Modded
+* [AyraProject](https://t.me/AyraProject) - Modded
 * [Play APK](https://play-apk.net/en/) - Modded
 * [PDALife](https://pdalife.com/) - Modded
 * [5Play](https://5play.ru/en/) - Modded
