@@ -43,6 +43,7 @@
 * [ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) - Automated Media Server Setup
 * [Tvheadend](https://tvheadend.org/) - TV Streaming Server / [GitHub](https://github.com/tvheadend/tvheadend)
 * [Docket-Jacket](https://github.com/linuxserver/docker-jackett) - Docker Jacket Container
+* [Redroid](https://github.com/remote-android/redroid-doc) - Android Emulator
 * [Spot](https://github.com/xou816/spot) - Spotify Desktop Client for Gnome
 * [spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify Client
 * [Librespot-Python](https://github.com/kokarare1212/librespot-python) - Spotify TUI
