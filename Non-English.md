@@ -1809,7 +1809,7 @@
 
 ## ▷ Downloading
 
-* ⭐ **[TurkishDrive](https://discord.gg/rkvnDa3qhP)** - Drive Sharing Community
+* [TurkishDrive](https://discord.gg/rkvnDa3qhP) - Drive Sharing Community
 * [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.com/) - Movies / Choose Voltran & press "скачать" for DL's 
 * [MP3 Indir](https://www.mp3indirdur.mobi/) - Music 
 
