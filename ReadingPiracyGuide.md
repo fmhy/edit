@@ -101,7 +101,7 @@
 * [DPLA](http://dp.la/) - Books
 * [Books'Cool](https://www.bookscool.com/en/index.php) - Books
 * [Dirzon](https://www.dirzon.com/) - Books
-* [VK eBook Sharing Group](https://vk.com/club162811046) - Books
+* [VK eBook Sharing Group](https://vk.com/club162811046) - Books / Also try `site:vk.com` in searches
 * [Ebookee](https://www.ebookee.com/) - Books / Magazines
 * [EBooksCart](https://ebookscart.com/) - Books
 * [Index of /Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_index_of_.2Fbooks) - Books
