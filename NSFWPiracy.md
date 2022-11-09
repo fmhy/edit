@@ -39,6 +39,7 @@
 ## Porn Sites
 
 * [Porn App](https://porn-app.com/) - Android Porn App / [Discord](https://discord.com/invite/XRjPBGa)
+* [NsfwBox](https://github.com/Kisspeace/NsfwBox) - Android Porn App
 * [Ceporn](https://www.ceporn.net/) 
 * [sxyprn](https://www.sxyprn.com/) 
 * [Palimas](https://palimas.tv/)
@@ -197,9 +198,10 @@
 * [xHamster](https://xhamster.com/categories/vintage?min-duration=40)
 * [AdultLoad](https://adultload.ws/)
 * [classic-porn](http://classic-porn.cc/)
-* [xVideos](https://www.xvideos.com/tags/d:20min_more/movie) 
+* [xVideos](https://www.xvideos.com/tags/d:20min_more/movie)
 * [xxxBunker](https://xxxbunker.com/search/film?duration=long&sort=duration) 
 * [TubePorn](https://tubepornclassic.com/most-popular/272/?sort_by=video_viewed&duration_from=3000)
+* [56moviehd](https://56moviehd.com/movies/)
 * [EffedUpMovies](https://www.effedupmovies.com/) - Disturbing Horror Movies
 
 ***
