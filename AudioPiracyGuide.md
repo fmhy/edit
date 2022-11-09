@@ -73,7 +73,7 @@
 * [Exotica](https://www.exotica.org.uk/) - Retro Gaming Music Wiki
 * [MusicDex](https://musicdex.org/) - Anime Soundtracks / [Discord](https://discord.gg/yCXJkbdCHt)
 * [Musicmap](https://musicmap.info/) - Genealogy / History of Music Genres
-* [ListenToThis](https://listentothis.nanoshinono.me/) - Random Songs
+* [ListenToThis](https://listentothis.nanoshinono.me/) or [Samplette](https://samplette.io/) - Random Songs
 * [The Nostalgia Machine](http://thenostalgiamachine.com/) - Random Songs by Year
 * [Map of Metal](http://mapofmetal.com/) - Interactive Map of Metal History
 * [The Cultural Borders of Songs](https://pudding.cool/2018/06/music-map/?date=202102) - #1 Songs from 3,000 Countries
