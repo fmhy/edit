@@ -83,6 +83,7 @@
 * [Pluto](http://pluto.tv/on-demand) - Movies / TV
 * Peacock - [Movies](https://www.peacocktv.com/stream/movies) / [TV](https://www.peacocktv.com/stream/tv) / [Kids](https://www.peacocktv.com/stream/kids)
 * [Vudu](https://www.vudu.com/) - Movies / TV
+* [PBS](https://www.pbs.org/video/) - Movies / TV
 * [Playary](https://www.playary.com/) - Movies / TV
 * [Fawesome](https://fawesome.tv/) - Movies / TV
 * [LokLok](https://loklok.com/) - Movies / TV
@@ -712,10 +713,11 @@
 * [CondensedAudioCatalog](https://condensedaudiocatalog.com/) - Asian Drama
 * [Toku.fun](https://toku.fun/) - Japanese Superhero Movies
 * [Jackass Vault](https://discord.gg/ZH5MjcKmJJ) - Jackass Media
-* [TinyMKV](https://tinymkv.xyz/) - Movies / TV
 * [TodayTVSeries](http://www.todaytvseries2.com/) - TV
-* [300MBFilms](https://www.300mbfilms.com/) - Movies / TV
 * [TvShows4Mobile](https://tvshows4mobile.com/) - TV / Anime
+* [TinyMKV](https://tinymkv.xyz/) - Movies / TV
+* [300MBFilms](https://www.300mbfilms.com/) - Movies / TV
+* [300MBUnited](https://www.300mbunited.me/) - Movies / TV
 * [OlaMovies](https://olamovies.pro/) - HD Movies / TV / [Telegram](https://t.me/olamovies_official)
 * [UHDMV](https://uhdmv.org/) - HD Movies / TV
 * [Blu-Ray.world](https://blu-ray.world/) - HD Movies / TV
@@ -740,6 +742,7 @@
 * [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
 * [Media](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_media) - Movies / TV / Anime 
 * [xo.ljt](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_xo.ljt) - Movies / TV
+* [itonaku](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_itonaku) - Movies
 * [188.165.227.112](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_188.165.227.112) - Movies / TV 
 * [162.12.215.254](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_162.12.215.254) - Movies
 * [163.172.97.48](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_163.172.97.48) - Movies / TV
@@ -871,7 +874,7 @@
 
 * ⭐ **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
 * ⭐ **[Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)**
-* ⭐ **[Nyaa](https://nyaa.si/)**, [2](http://nyaa.iss.one/) - Sub / Dub
+* ⭐ **[Nyaa](https://nyaa.si/)**, [2](http://nyaa.iss.one/), [3](https://nyaa.iss.ink/) - Sub / Dub
 * ⭐ **Nyaa Tools** - [TUI](https://github.com/irevenko/koneko) / [CLI](https://github.com/johnvictorfs/nyaa-cli) / [Telegram Bot](https://github.com/ejnshtein/nyaasi-bot), [2](https://t.me/meow_in_japanese_bot) / [Python Wrapper](https://github.com/JuanjoSalvador/NyaaPy) / [Torrent Fetch](https://github.com/manintel/nyaabag), [2](https://github.com/Vivek-Kolhe/Nyaa-API) / [Downloader](https://github.com/marcpinet/batch-downloader-nyaa.si/)
 * ⭐ **[Anidex](https://anidex.info/)** - Sub / Dub
 * ⭐ **[Hi10Anime](https://hi10anime.com/)** - Sub
