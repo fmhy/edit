@@ -105,7 +105,8 @@
 * [2DDL](https://2ddl.it/) - Video / Audio / Software / Games / Books / Comics / Magazines 
 * [SCENE.RLS](http://scene-rls.net/releases/index.php) - Video / Audio / Games / Software / Books / Magazines 
 * [DLWarez](http://dlwarez.xyz/) or [WarezLover](https://warezlover.xyz/) - Video / Audio / Software / Games / Android / ROMs / Books / Magazines 
-* [heroturko.net](https://www.heroturko.net/) - Video / Audio / Software / Games / Books / Magazines / Android 
+* [heroturko.net](https://www.heroturko.net/) - Video / Audio / Software / Games / Books / Magazines / Android
+* [Uploadgig](https://uploadgig.me/) - Video / Audio / Games / Software / Books / Audiobooks / Magazines / Android / NSFW
 * [IRfree](http://irfree.org/) - Video / Audio / Software / Games / Books / NSFW
 * [4Shared](https://www.4shared.com/) - Video / Audio / Games / Software / Android
 * [2013Zone](http://www.2013zone.com/) - Video / Audio / Games / Software
@@ -405,9 +406,12 @@
 * [binsearch](http://binsearch.info/)
 * [abnzb](https://www.abnzb.com/)
 * [nzb.su](https://www.nzb.su/)
-* [NZB Index](https://www.nzbindex.com/) 
+* [NZB Index](https://www.nzbindex.com/)
 * [Newznab](https://www.newznab.com/)
-* [NZBIndex](https://www.nzbindex.nl/) 
+* [NZBIndex](https://www.nzbindex.nl/)
+* [NZBGrabit](https://www.nzbgrabit.xyz/)
+* [DrunkenSlug](https://drunkenslug.com/)
+* [Tabula Rasa](https://www.tabula-rasa.pw/)
 * [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)
 * [NZBKing](http://nzbking.com/)
