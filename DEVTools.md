@@ -512,7 +512,7 @@
 * [squid](http://www.squid-cache.org/) - Caching Proxy / [MSI Installer](http://squid.diladele.com/) / [Site Blocking](http://www.thedumbterminal.co.uk/posts/2005/10/blocking_access_to_sites_when_using_squid.html) 
 * [What Is Googlebot](http://www.googlebot.com/bot.html) - How-to Block Googlebot
 * [Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare) - Cloudflare Resource Index
-* [Bypass Cloudflare](https://github.com/jychp/cloudflare-bypass) - Bypass Coudflare Bot Protection
+* [Bypass Cloudflare](https://github.com/jychp/cloudflare-bypass) - Bypass Cloudflare Bot Protection
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
 * [VPN Un-Blocking](https://medium.com/@innovativehazard/vpn-un-blocking-e0374b9c4d35) - Unblock Cloudflare Warp VPN Services
 * [wgcf](https://github.com/ViRb3/wgcf) - Generate Cloudflare Warp Wireguard Config
