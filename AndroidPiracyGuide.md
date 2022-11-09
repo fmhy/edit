@@ -19,7 +19,9 @@
 * [AdAway](https://adaway.org/) - Adblocking App / [GitHub](https://github.com/AdAway/AdAway)
 * [ad-free](https://abertschi.github.io/ad-free/landing/) - Adblocking App
 * [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) / [F-Droid](https://f-droid.org/packages/dnsfilter.android), [Rethink](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists), [BhanUpratpys](https://github.com/bhanupratapys/dnswarden), [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), [2](https://jak-linux.org/projects/dns66/) / [GitHub](https://github.com/julian-klode/dns66), [TrustDNS](https://surfshark.com/trust-dns) or [Pi-Droid](https://f-droid.org/en/packages/friimaind.piholedroid/)  - DNS Adblocker 
-* [Daedalus](https://play.google.com/store/apps/details?id=org.itxtech.daedalus), [Smokescreen](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen)- DNS Modifier
+* [Daedalus](https://play.google.com/store/apps/details?id=org.itxtech.daedalus) or [Smokescreen](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen)- DNS Modifier
+* [DNS Speed Test & Changer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dns_speed_test_.26amp.3B_changer) - DNS Speed Test
+* [DNS Changer](https://play.google.com/store/apps/details?id=com.technoapps.dnschanger) - DNS Changer
 * [Twidere](https://github.com/TwidereProject/Twidere-Android), [Aerowitter](https://aerowitter.com/) or [Twidere-X](https://github.com/TwidereProject/TwidereX-Android) - Ad-Free Twitter Apps
 * [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - Adblock Filters 
 * [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - Block Spam Calls
@@ -41,7 +43,7 @@
 * [Hackuna](https://play.google.com/store/apps/details?id=org.cryptors.hackuna002&hl=en&gl=US) - Anti-Hack Tool
 * [Exodify](https://github.com/FacettsOpen/exodify) - Display Tracker Count on Apps in Play Store
 * [SelfPrivacy](https://selfprivacy.org/) - Self-Hosted Privacy Based Services
-* [Aegis](https://getaegis.app/), [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) or [andOTP](https://github.com/andOTP/andOTP) - Two-Factor Authentication 
+* [Aegis](https://getaegis.app/), [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro), [Mauth](https://github.com/X1nto/Mauth) or [andOTP](https://github.com/andOTP/andOTP) - Two-Factor Authentication 
 * [FaceAct Notes](https://play.google.com/store/apps/details?id=com.brainekt.faceactnotes) - Face Recognition App
 * [Divestos](https://divestos.org/), [LeoS](https://leos-gsi.de/), [GrapheneOS](https://grapheneos.org/) or [CalyXOS](https://calyxos.org/) - Privacy Based OS
 * [UPX Browser](https://www.upxb.net/) or [ceno-browser](https://censorship.no/en/index.html) / [GitHub](https://github.com/censorship-no/ceno-browser) - Proxy Browser
@@ -148,6 +150,7 @@
 * ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client 
 * ⭐ **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites & Apps
 * [Android Debloat Guide](https://rentry.co/debloatandroid) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
+* [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/0x192/universal-android-debloater), [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) or [Debloat Samsung Android](https://github.com/khlam/debloat-samsung-android) - Android Debloaters
 * [File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools) - Tools to Share / Sync Files
 * [GearJail](https://gearjail.neocities.org/) - Android Guides / Resources
 * [FFShare](https://www.f-droid.org/packages/com.caydey.ffshare/) - Compress Videos / Images
@@ -187,7 +190,6 @@
 * [auto-auto-rotate](https://gitlab.com/juanitobananas/auto-auto-rotate) - Per App Rotation Settings
 * [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) - Downgrade Apps on Android 12/13
 * [Plexus](https://plexus.techlore.tech/) - De-googled Device Compatibility List
-* [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/0x192/universal-android-debloater) or [Debloat Samsung Android](https://github.com/khlam/debloat-samsung-android) - Android Debloaters
 * [How to Root](https://www.xda-developers.com/root/amp/) - Android Root Guide
 * [Root Essentials](https://sites.google.com/view/superthomaslab/root-essentials) - Multiple Root Tools
 * [Root Checker](https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck) - Root Checker
@@ -206,11 +208,12 @@
 * [MouseRemote](https://github.com/Akshayaap/MouseRemote) - Use Android as Mouse
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
 * [RoMote](https://github.com/wseemann/RoMote) - Phone Roku Controller
-* [Pluma](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader&hl=en) - RSS Reader 
+* [Pluma](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader&hl=en) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers 
 * [Water Resistance Tester](https://play.google.com/store/apps/details?id=com.ray.waterresistancetester) - Test Phones Water Resistance
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Make Your Phone Less Distracting
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - Ringtones Directory
 * [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3), [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Manager
+* [Candybar](https://github.com/zixpo/candybar) - Custom App Icons
 * [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons) - App Themed Icons
 * [Arcticons](https://arcticons.onnno.nl/) - Monotone Icon Pack
 * [TxtNet Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - Browse Webpages via SMS
@@ -260,6 +263,7 @@
 * [GameEye](https://play.google.com/store/apps/details?id=com.hairyharri.gameye) - Video Game Tracking App 
 * [OpenMicroWave](https://omw.xyz.is/) - Morrowind for Android
 * [HMCL-PE](https://github.com/Tungstend/HMCL-PE) - Minecraft for Android
+* [MinecraftPE Mods](https://minecraftpe-mods.com/) - Mobile Minecraft Mods
 * [SMAPI](https://github.com/ZaneYork/SMAPI-Android-Installer) - Multiplayer Stardew Valley
 * [VMOS](https://www.vmos.com/) or [x8sb](https://x8sb.com/) - Android Virtual Machine
 * [Media Bar](https://play.google.com/store/apps/details?id=apps.ijp.mediabar) - Status Bar Media Controller
@@ -409,6 +413,7 @@
 * [Take Notes](https://github.com/the-rebooted-coder/Take-Notes) - Convert Text to Handwritten Notes
 * [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - To-Do List Apps
 * [Flutter Clock](https://github.com/afzalali15/flutter_alarm_clock) - Clock / Alarm
+* [QRAlarm](https://github.com/sweakpl/qralarm-android) - Scan QR Code to Turn Off Alarm
 * [Etar](https://github.com/Etar-Group/Etar-Calendar), [digical](https://digibites.nl/digical), [TimeBlocks](https://timeblocks.com/) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendars
 * [ShiftCal](https://gitlab.com/Nulide/ShiftCal) - Shift Calendar
 * [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock) - Daily Planner
@@ -509,6 +514,7 @@
 * [Top Androids](https://top-androids.com/) - Untouched
 * [APK Award](https://apkaward.com/) - Untouched
 * [9Apps](https://www.9apps.com/) - Untouched
+* [APKGit](https://apkgit.co/) - Untouched
 * [APKDL](https://apkdl.in/) - Untouched
 * [APKMonk](https://www.apkmonk.com/) - Untouched
 * [APK Fab](https://apkfab.com/) - Untouched
