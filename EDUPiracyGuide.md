@@ -833,6 +833,7 @@ Simulator
 * [SkillsYouNeed](https://www.skillsyouneed.com/) or [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
 * [VisualizeValue](https://archivve.visualizevalue.com/) - Life Lesson Visualizations
 * [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
+* [The XY Problem](https://xyproblem.info/) - XY Problem Explained
 * [50Hacks](https://50hacks.co/) - Productivity Tips
 * [Social Engineers](https://www.socialengineers.net/) - Social Engineering Guides
 * [TheChessWebsite](https://www.thechesswebsite.com/) - Chess Strategy & Analysis
