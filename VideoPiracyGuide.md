@@ -348,7 +348,6 @@
 * [Simplyaweeb](https://simplyaweeb.to/) - Sub / Dub / [Discord](https://discord.gg/4uGvPUV)
 * [KickAssAnime](https://www2.kickassanime.ro/) - Sub / Dub
 * [Genoanime](https://genoanime.com/) - Sub / Dub 
-* [Just Dubs](http://justdubs.org/) - Dub
 * [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - Sub
 * [GoGoAnime](https://gogoanime.ee/), [2](https://gogoanime.tel/) - Sub / Dub / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime) / [Mirrors](https://gogoanime.news/)
 * [GoGo-Play](https://goload.io/), [2](https://goload.pro/) - Sub
