@@ -502,7 +502,7 @@
 
 ## ▷ Live TV / Sports 
 
-* ⭐ **[Sportsurge](https://sportsurge.net/)**, [2](https://sportsurge.club/) - Sports / Stream Locator
+* ⭐ **[Sportsurge](https://sportsurge.net/)**- Sports / Stream Locator
 * ⭐ **[Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - TV / Sports
 * ⭐ **[Jackal](https://jackal.surge.sh/)** - TV / Sports
 * ⭐ **[USTVGO](https://ustvgo.tv/)** - TV / 
@@ -517,6 +517,7 @@
 * [123TV](http://123tv.live/) - TV / Sports
 * [WatchNewsLive](https://watchnewslive.tv/) - TV / Sports
 * [XUMO](https://www.xumo.tv/channels) - TV
+* [Sportsurge.club](https://sportsurge.club/) - Sports
 * [WeakStream](http://weakstreams.com/) - Sports 
 * [JokerLiveStream](https://www.jokerlivestream.life/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
