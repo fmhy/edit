@@ -231,7 +231,6 @@
 * ⭐ **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
 * [Course Club](https://courseclub.me/) - Courses
 * [FreeCourseSite](http://freecoursesite.com/) - Courses
-* [GetFreeCourses](https://getfreecourses.co/) - Courses
 * [DownloadFreeCourse](https://downloadfreecourse.com/) - Courses
 * [FreeAllCourse](https://freeallcourse.com/) - Courses
 * [TutorialsPlanet](https://tutorialsplanet.net/) - Courses
