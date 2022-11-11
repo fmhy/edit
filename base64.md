@@ -1300,12 +1300,6 @@ pass: paluch
 
 ***
 
-#### Programming Course Drives
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL21vYmlsZS9mb2xkZXJzLzF3djgxRU9lRVlGcVhfSWNkbV9qdmVqVnhRVHFDQTdWZA==`
-
-***
-
 #### Web Dev Courses
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTduT29uZWRfSi1SekFsQ1hhSEVjRXZkUUMzTERPQ0Mw`
