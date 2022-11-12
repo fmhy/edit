@@ -232,6 +232,7 @@
 * [Course Club](https://courseclub.me/) - Courses
 * [FreeCourseSite](http://freecoursesite.com/) - Courses
 * [DownloadFreeCourse](https://downloadfreecourse.com/) - Courses
+* [GetFreeCourses](https://getfreecourses.co/) - Courses
 * [FreeAllCourse](https://freeallcourse.com/) - Courses
 * [TutorialsPlanet](https://tutorialsplanet.net/) - Courses
 * [TutsGalaxy](https://tutsgalaxy.net/) - Udemy Courses
