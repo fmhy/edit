@@ -401,9 +401,6 @@
 * [Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) - Minecraft Bedrock Miner
 * [Outvoted](https://www.curseforge.com/minecraft/mc-mods/outvoted) - Outvoted Minecraft Live Mobs
 * [MCrev](https://github.com/MC874/MCrev) - Windows 10 Minecraft License Bypasser
-* [Classic Minecraft](https://classic.minecraft.net/) - Play Classic Minecraft 
-* [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) - Minecraft Java Edition Launcher / Android / iOS
-* [Minetest](https://www.minetest.net/) - F2P Minecraft Alternative 
 * [Baritone](https://github.com/cabaletta/baritone) - Minecraft Pathfinding System
 * [Sigma-Deleter](https://github.com/XatzClient/Sigma-Deleter) or [Sigma-Wiper](https://github.com/owersite/sigma-wiper) - Remove Sigma Miner
 
