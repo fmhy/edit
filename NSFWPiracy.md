@@ -43,7 +43,6 @@
 * [Ceporn](https://www.ceporn.net/) 
 * [sxyprn](https://www.sxyprn.com/) 
 * [Palimas](https://palimas.tv/)
-* [Pornkind](https://pornkind.net/)
 * [ViralPorn](https://viralporn.com/) 
 * [vkulak](https://www.vkulak.com/) 
 * [Mov18Plus](https://mov18plus.com/) 
