@@ -32,7 +32,6 @@
 * [Scene Release Trackers](https://www.reddit.com/rFREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers) - Get Scene Release Updates
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.me/) - [Discord](https://discord.gg/693hNBdymb)
 * [CPG](https://cpgrepacks.site/) - [Discord](https://discord.gg/dtBSZ9N)
-* [Torrminatorr](https://forum.torrminatorr.com/)
 * [KaOsKrew](https://www.kaoskrew.org/)
 * [Crohasit](https://crohasit.net/)
 * [NexusGames](https://nexusgames.to/) - [Discord](https://discord.gg/8YXGgy4DJj)
