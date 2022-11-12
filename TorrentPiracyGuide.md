@@ -54,7 +54,7 @@
 * [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
 * [Loadbt](https://www.loadbt.com/) - Torrent / Stream to Cloud  
 * [SpreadsheetUI](https://github.com/JohnDoee/spreadsheetui) - Speadsheet Torrent webUI 
-* [flood](https://flood.js.org/) - rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jfurrow/flood)
+* [flood](https://flood.js.org/) - rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jesec/flood)
 * [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client 
 * [SeedCross](https://github.com/ccf-2012/seedcross) - Cross-Seed Utility
 
