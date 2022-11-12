@@ -1199,7 +1199,7 @@
 * [Quarrel](https://github.com/UWPCommunity/Quarrel) - Universal Windows Platform Discord Client
 * [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) or [WebCord](https://github.com/SpacingBat3/WebCord) - Discord Web Client / [Discord](https://discord.gg/Vm4CwZx)
 * [discord-PWA](https://github.com/NeverDecaf/discord-PWA) - Discord PWA Client
-* [Discord Tauri](https://github.com/DiscordTauri/discord-tauri) - Discord Wrapper
+* [Discord Tauri](https://github.com/DiscordTauri/discord-tauri) - Lightweight Discord Wrapper
 * [weechat-discord](https://github.com/terminal-discord/weechat-discord) - WeeChat Discord Plugin
 * [Atlus](https://github.com/amanharwara/altus) - Whatsapp Client
 * [litecord](https://gitlab.com/litecord/litecord) - Reimplementation of Discord's Backend / [Clients](https://gitlab.com/litecord/litecord/-/blob/master/docs/clients.md)
