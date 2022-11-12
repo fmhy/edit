@@ -263,6 +263,7 @@
 * [GameEye](https://play.google.com/store/apps/details?id=com.hairyharri.gameye) - Video Game Tracking App 
 * [OpenMicroWave](https://omw.xyz.is/) - Morrowind for Android
 * [HMCL-PE](https://github.com/Tungstend/HMCL-PE) - Minecraft for Android
+* [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) - Minecraft Java Edition Launcher
 * [MinecraftPE Mods](https://minecraftpe-mods.com/) - Mobile Minecraft Mods
 * [SMAPI](https://github.com/ZaneYork/SMAPI-Android-Installer) - Multiplayer Stardew Valley
 * [VMOS](https://www.vmos.com/) or [x8sb](https://x8sb.com/) - Android Virtual Machine
