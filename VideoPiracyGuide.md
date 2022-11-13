@@ -57,6 +57,7 @@
 * [AllMoviesForYou](https://allmoviesforyou.net/) - Movies / TV
 * [FFilmClub](https://filmsclub.org/) - Movies / TV
 * [1movies](https://1movies.life/), [2](https://real-primewire.club/), [3](https://couchtuner.fashion/), [4](https://ww2.new-primewire.com/) - Movies / TV / Anime
+* [Show Flix](https://showflix.in/lan/movie/English) - Movies / TV / Switch Audio Source in Settings
 * [VHMovies](https://vhmovies.net/) - Movies / TV / Anime
 * [Moviehdkh](https://www.moviehdkh.com/) - Movies 
 * [Flixtor.stream](https://flixtor.stream/) - Movies / TV
@@ -69,6 +70,7 @@
 * [Tainio-Mania](https://tainio-mania.online/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Ling.online](https://ling.online/en/videos/films/) - Movies / TV
 * [MKVKing](https://111.90.158.128/) - Movies / TV
+* [Daily iFlix](https://dailyiflix.com) - Movies / TV
 * [PrimeMoviesFlix](https://primemoviesflix.com) - Movies / TV / Anime
 * [TheFlix](https://theflix.to/) - Movies / TV / Requires Signup
 * [Flixtor](https://flixtor.to) - Movies / TV / Movies Older Than 6 Months For Premium Only
@@ -529,6 +531,7 @@
 * [SportSala](https://www.sportsala.cc/) or [123Cric](https://www.123cric.com/) - Sports
 * [Pluto](http://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports
 * [Time4TV](http://time4tv.stream/) - TV / Sports
+* [StitichSports](https://stitichsports.com/tv/) - TV / Sports
 * [CXtv](http://www.cxtvlive.com/) - TV / Sports
 * [USTV247](https://ustv247.tv/) - TV / Sports
 * [OKLiveTV](http://oklivetv.com/) - TV / Sports
