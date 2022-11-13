@@ -180,7 +180,7 @@
 * ⭐ **[Encrypted Messangers](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers) - Encrypted Messaging Apps
 * ⭐ **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)** - Anonymous Text Verification
 * ⭐ **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support 
-* ⭐ **[Authy](https://authy.com/)** or [WinAuth](https://winauth.github.io/winauth/) - Two-Factor Authentication
+* ⭐ **[Authy](https://authy.com/)**, [WinAuth](https://winauth.github.io/winauth/) or [Tauthy](https://github.com/pwltr/tauthy) - Two-Factor Authentication
 * ⭐ **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
 * ⭐ **[Password Strength Chart](https://i.imgur.com/KSISOPN.png)**
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
