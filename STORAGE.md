@@ -867,6 +867,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 **Cloud Storage** 
 
+* ⭐ **[Cloud Storage Comparisions](https://eylenburg.github.io/cloud_comparison.htm)** - Compare Cloud Storage Polices
 * ⭐ **[GDrive](https://drive.google.com/)**
 * ⭐ **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz)
 
@@ -2150,7 +2151,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Search by Image](https://github.com/dessant/search-by-image)**
 * ⭐ **[TinEye](https://tineye.com/)** / [Extension](https://tineye.com/extensions)
 
-[Duplichecker](https://www.duplichecker.com/reverse-image-search.php), [Image Raider](https://infringement.report/api/raider-reverse-image-search/), [ascii2d](https://ascii2d.net/), [iqdb](http://iqdb.org/), [Reverse Image Analyser](https://www.osintcombine.com/reverse-image-analyzer), [same.energy](https://same.energy/), [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/), [Yandex Images](https://yandex.com/images/), [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/), [SmartImage](https://github.com/Decimation/SmartImage), [berify](https://www.berify.com/), [Reverse Image Search](https://www.reverse-image-search.org/), [RevEye](https://github.com/steven2358/reveye), [immerse](https://www.immerse.zone/), [ReverseImageSearch](https://www.reverseimagesearch.com/), [MaxURL](https://qsniyg.github.io/maxurl/)
+[Duplichecker](https://www.duplichecker.com/reverse-image-search.php), [Image Raider](https://infringement.report/api/raider-reverse-image-search/), [ascii2d](https://ascii2d.net/), [iqdb](http://iqdb.org/), [Reverse Image Analyser](https://www.osintcombine.com/reverse-image-analyzer), [same.energy](https://same.energy/), [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/), [Yandex Images](https://yandex.com/images/), [VISE](https://www.robots.ox.ac.uk/~vgg/software/vise/), [SmartImage](https://github.com/Decimation/SmartImage), [berify](https://www.berify.com/), [Reverse Image Search](https://www.reverse-image-search.org/), [RevEye](https://github.com/steven2358/reveye), [immerse](https://www.immerse.zone/), [ReverseImageSearch](https://www.reverseimagesearch.com/), [MaxURL](https://qsniyg.github.io/maxurl/), [Labnol](https://www.labnol.org/reverse/)
 
 ***
 
@@ -2778,7 +2779,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Text Adventures
 
-[iFiction](https://www.ifiction.org/) (Index), [IFDB](https://ifdb.org/) (Index), [Ifarchive](https://ifarchive.org/if-archive/games/) (drive), [Pac-Txt](http://www.pactxt.com/), [AI Dungeon](https://play.aidungeon.io/main/landing), [A Dark Room](http://adarkroom.doublespeakgames.com/), [Addventure](http://addventure.com/addventure/), [The Never Ending Quest](https://www.sir-toby.com/extend-a-story/story-1/code/read.php), [The Text Adventure](https://kevan.org/wikitext/), [Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Crank](https://faedine.com/games/crank/b39/), [Umbra](https://umbra.avalon-rpg.com/), [Web Adventures](http://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/)
+[iFiction](https://www.ifiction.org/) (Index), [IFDB](https://ifdb.org/) (Index), [Ifarchive](https://ifarchive.org/if-archive/games/) (drive), [Pac-Txt](http://www.pactxt.com/), [AI Dungeon](https://play.aidungeon.io/main/landing), [A Dark Room](http://adarkroom.doublespeakgames.com/), [Addventure](http://addventure.com/addventure/), [The Never Ending Quest](https://www.sir-toby.com/extend-a-story/story-1/code/read.php), [The Text Adventure](https://kevan.org/wikitext/), [Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Crank](https://faedine.com/games/crank/b39/), [Umbra](https://umbra.avalon-rpg.com/), [Web Adventures](http://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/), [MUDII](http://www.mudii.co.uk/)
 
 ***
 
