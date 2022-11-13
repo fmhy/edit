@@ -365,6 +365,7 @@
 * [UFO Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ufo_books) or [Xenology](http://www.xenology.info/Xeno.htm) - UFO / Xenology
 * [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
 * [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
+* [Potions and Snitches](http://www.potionsandsnitches.org/) - Harry Potter Fanfiction
 * [Projectrho](http://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
 * [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG / [Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_trove_archives)
 * [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - TTRPG Rulebooks
@@ -715,7 +716,7 @@
 
 ## ▷ Manual Sites
 
-* [Manuals & Schematics](https://redd.it/nlw3er), [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [Wedophones](http://wedophones.com/Manuals/), [manualzz](https://manualzz.com/), [SAS](http://www.univertron.com/SAS/manuals/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
+* [Manuals & Schematics](https://redd.it/nlw3er), [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [Wedophones](http://wedophones.com/Manuals/), [manualzz](https://manualzz.com/), [SAS](http://www.univertron.com/SAS/manuals/), [ManualsNet](https://manualsnet.com/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
 * [ManualLib](https://www.manuallib.com/) - Manual Search
 * [Floss Manuals](https://www.flossmanuals.net/) - Software Manuals
 * [iFixIt](https://www.ifixit.com/Guide) - Repair Manuals
@@ -990,13 +991,13 @@
 * [PenLab](https://penlab.ink/) - Filipino Manga
 * [WuxiaWorld](https://wuxiaworld.site/) - Manga / Novels 
 * [MANGAen](https://t.me/MANGAen) - Manga / Telegram 
-* [Manhua / Manhwa Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manhua_.2F_manhwa_manga) - Manhua & Manhwa Manga Sites
+* [Manhua / Manhwa Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manhua_.2F_manhwa_manga) - Manhua / Manhwa Manga Sites
 * [Dynasty Scans](https://dynasty-scans.com/) - Yuri
 * [BoysLove](https://boyslove.me/) - Yaoi 
 * [WhereCanIReadManga?](https://wherecanireadmanga.com/) - Legal
 * [OtakuGallery](http://www.otakugallery.com/) - Manga Artbooks
 * [WebToons](https://www.webtoons.com/en/) - Manga Webtoons  
-* [Tachiyomi](https://github.com/Suwayomi) / [Web Client](https://github.com/TachiWeb) / [Desktop Client](https://github.com/Suwayomi/Tachidesk-Server) / [Discord](https://discord.com/invite/tachiyomi), [AllMangasReader](http://allmangasreader.com/), [Houdoku](https://houdoku.org/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [isoComic](https://github.com/isomerase/isocomic-extensions) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - Manga Reader / Manager
+* [Tachiyomi](https://github.com/Suwayomi) / [Web Client](https://github.com/TachiWeb) / [Desktop Client](https://github.com/Suwayomi/Tachidesk-Server) / [Discord](https://discord.com/invite/tachiyomi), [AllMangasReader](http://allmangasreader.com/), [Houdoku](https://houdoku.org/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi), [isoComic](https://github.com/isomerase/isocomic-extensions) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - Manga Reader / Manager
 * [HappyPanda X](https://happypandax.github.io/), [Tenma](https://github.com/Tenma-Server/Tenma), [KavitaReader](https://www.kavitareader.com/), [Mango](https://github.com/hkalexling/Mango), [Tanoshi](https://faldez.github.io/tanoshi/) or [Komga](https://komga.org/) / [GitHub](https://github.com/gotson/komga) / [Discord](https://discord.gg/TdRpkDu) - Self-Hosted Manga Readers / Managers
 * [LANraragi](https://github.com/Difegue/LANraragi) - Manga / Doujin Manager for NAS / [Discord](https://discord.com/invite/aRQxtbg)
 * [MangaManage](https://github.com/Daedren/MangaManage) - Tachiyomi Download Manager
