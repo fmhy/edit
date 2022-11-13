@@ -2068,7 +2068,7 @@
 * [MkvMoviesPoint](https://mkvmoviespoint.one/) - Download / Movies / [Telegram](https://telegram.me/mkvpoint)
 * [Pendujatt](https://www.pendujatt.net/) - Download / Music
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Download / Music
-* [Cinevez](https://cinevez.ws/) - Torrent / Download / Streaming / Movies
+* [Cinevez](https://cinevez.pe/) - Torrent / Download / Streaming / Movies
 * [TamilBlasters](https://tamilblasters.skin/) - Torrent / Movies / [Proxy](https://tamilblasters.unblockit.ist/)
 * [TamilMV](https://www.1tamilmv.hair/) - Torrent / Movies
 * [indianebooks](https://t.me/indianebooks) - Books
