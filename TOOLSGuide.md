@@ -88,6 +88,7 @@
 * [Diff Checker](https://www.diffchecker.com/) - Check Differences in Text, Images, PDFs or Files
 * [Find Your Place](https://where-is-this.com/) - Find Places from Pictures
 * [IRuler](https://iruler.net/) - Turn Device into Ruler
+* [Pronoun Dressing Room](http://www.pronouns.failedslacker.com/) - Test Different Pronouns
 * [RandomNameGenerator](https://randomnamegenerator.info/) - Baby Name Generator
 * [MixedName](https://mixedname.com/) - Find Bilingual Baby Names
 * [GitKraken Timeline](https://timelines.gitkraken.com/), [Timeline Cascade](https://cascade.page/) / [GitHub](https://github.com/kochrt/cascade.page), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Create Timelines
@@ -100,13 +101,13 @@
 * [Delphi](https://delphi.allenai.org/) - Morality Judgement A.I.
 * [ThistoThat](http://www.thistothat.com/) - How to Glue Anything to Anything
 * [My Car Makes Noise](http://mycarmakesnoise.com/) - Diagnose Car Problems via Sounds
-* [CarComplaints](https://www.carcomplaints.com/) - Car Problems, Car Complaints, & Repair
+* [CarComplaints](https://www.carcomplaints.com/) - Car Problems, Car Complaints and Repairs
 * [PlateRecognizer](http://platerecognizer.com/) - License Plate Recognition
-* [Safe Substance](https://safesubstance.com/) - Drug Combination Info / Harm Reduction 
-* [Stolen Camera Finder](https://www.stolencamerafinder.com/) - Find Stolen Cameras 
+* [Safe Substance](https://safesubstance.com/) - Drug Combination Info / Harm Reduction
+* [Stolen Camera Finder](https://www.stolencamerafinder.com/) - Find Stolen Cameras
 * [AFreeSMS](https://www.afreesms.com/freesms/) - Send Free Texts
 * [Parcelsapp](https://parcelsapp.com/en/) or [17Track ](https://www.17track.net/en) - International Package Tracking
-* [Sweet Home 3D](http://www.sweethome3d.com/) - Interior Design App
+* [Sweet Home 3D](http://www.sweethome3d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
 * [Interiorai](https://interiorai.com/) - AI Interior Design Tool
 * [EasyEDA](https://easyeda.com/editor) - Electronic Circuit Design Tool
 * [TemplateMaker](https://www.templatemaker.nl/) - Package & Box Templates
@@ -151,6 +152,7 @@
 * [EditCSVOnline](https://www.editcsvonline.com/) - Online CSV Editor
 * [SubjectiveSort](https://wiesenthal.github.io/SubjectiveSort/) - Create Ranked List from CSV
 * [VisiData](https://github.com/saulpw/visidata) - Spreadsheet CLI Editor
+* [ExcelFormulaBot](https://excelformulabot.com/) - Excel AI Formula Generator
 * [Read File Online](http://www.readfileonline.com/) - Online Large Text File Viewer
 * [Office Search](http://www.enselsoftware.com/product/OfficeSearch.html) - Multi-File Text Search
 * [PDF Keywords Extractor](https://github.com/bendersej/pdf-keywords-extractor) - PDF File Text Search
@@ -161,7 +163,7 @@
 * [Linguix](https://linguix.com/), [HyperWrite](https://hyperwriteai.com/) or [TextCleanr](https://www.textcleanr.com/) - Writing Assistant
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
 * [phraseup](http://www.phraseup.com/) - Autocomplete Common Phrases 
-* [Transformer](https://transformer.huggingface.co/), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en), [TextSynth](https://textsynth.com/playground.html), [MagicPrompt](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion) or [Talk to Transformer](https://app.inferkit.com/demo) - Text Autocomplete 
+* [Transformer](https://transformer.huggingface.co/), [OpenAI](https://beta.openai.com/playground), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en), [TextSynth](https://textsynth.com/playground.html), [MagicPrompt](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion) or [Talk to Transformer](https://app.inferkit.com/demo) - Text Autocomplete
 * [EleutherAI](https://6b.eleuther.ai/) or [Essaytyper](http://www.essaytyper.com/) - Text / Story Autocomplete
 * [SongLyricsGenerator](http://www.songlyricsgenerator.com/) or [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) - Generate Fake Song Lyrics
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
@@ -327,6 +329,7 @@
 * [GifW00t](https://github.com/yaronn/GifW00t) - Javascript Web Recorder
 * [Jupitrr](https://jupitrr.com/) - Create Videos from Voice Recordings
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - Create TV Channels using Plex Library
+* [Loom](https://www.loom.com/) - Send Quick Videos
 * [Greety](https://greety.co/) - Send Video Christmas Cards
 * [Avidemux](http://fixounet.free.fr/avidemux/) - Cut / Filter / Encode
 * [Dovi Tool](https://github.com/quietvoid/dovi_tool) - Dolby Vision Tool
@@ -449,7 +452,7 @@
 * [Fresh Stuff For You](https://freshstuff4you.com/) - DAWs / Samples / Presets
 * [Plugin Clouds Archive](https://t.me/plugincloudsarchive) - DAW Plugins
 * [FlsAudio](https://flsaudio.com/en/gb/) - FLStudio Samples / Presets / Plugins
-* [VeryLeaks](https://veryleaks.cz/) or [Producerwav](https://producerwav.com/free/) - Drum Kits
+* [VeryLeaks](https://veryleaks.cz/), [DKL](https://discord.com/invite/69zpb6XH8f) or [Producerwav](https://producerwav.com/free/) - Drum Kits
 * [/r/findthepreset](https://www.reddit.com/r/findthepreset) - Find Presets from Songs
 * [MilkyTracker](https://milkytracker.org/) - .MOD & .XM Module Creator
 * [/r/samplesforall](https://www.reddit.com/r/samplesforall/), [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [Baomay01](https://baomay01.info/), [RKHive](https://rkhive.com/), [Sounds MP3](https://allsoundsaround.com/) or [SamplesTorrent](https://samplestorrent.com/) - Audio Samples
@@ -570,7 +573,7 @@
 * [YADG](https://yadg.cc/) - Scrape / Render Music via Templates / [API](https://yadg.cc/api/)
 * [Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_to_speech) - Text to Speech Sites / Apps
 * [Clash](https://clash.me/) or [FakeYou](https://fakeyou.com/) - Media Based Text to Speech 
-* [Audiogrep](http://antiboredom.github.io/audiogrep/), [Tune Transcriber](https://www.tunetranscriber.com/) or [mp4grep](https://github.com/o-oconnell/mp4grep) - Audio Transcribing / [GitHub](https://github.com/antiboredom/audiogrep)
+* [Audiogrep](http://antiboredom.github.io/audiogrep/), [Otter](https://otter.ai/), [Tune Transcriber](https://www.tunetranscriber.com/) or [mp4grep](https://github.com/o-oconnell/mp4grep) - Audio Transcribing / [GitHub](https://github.com/antiboredom/audiogrep)
 * [FastHub](https://fasthub.net/) - Text to Speech Translation Tool
 * [Praat](https://www.fon.hum.uva.nl/praat/) - Analyze, Synthesize & Manipulate Speech / [GitHub](https://github.com/praat/praat)
 * [Splitter](https://www.splitter.ai/), [splitmysong](https://www.splitmysong.com/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
@@ -762,6 +765,7 @@
 * [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring), [Sken.io](https://www.sken.io/), [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/) or [FollowThatPage](https://followthatpage.com/) - Page Change Detection / Notification 
 * [CertAlert](https://certalert.net/) - Alerts you when a TLS/SSL Certificate Expires 
 * [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - Check which IPFS Gateways are Online
+* [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
 * [SocialBlade](https://socialblade.com/) - Social Media Stats
 * [LiveCounts](https://livecounts.io/) - Live Social Media Stats
 * [Cloaking Company](https://www.cloakingcompany.com/) - Create Alogorith Pleasing Social Media Posts
@@ -2137,7 +2141,7 @@ Twitch Stream Tracker
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) - Mega to HTTP
 * [Keep Mega Alive](https://github.com/3ncod3/keep-mega-alive) - Mega Account Auto-Login
 * [MegaKeep](https://github.com/xCryptic/MegaKeep) - Login to Multiple Mega Accounts
-* [mega-account-generator](https://github.com/crackhub-dev/mega-account-generator) - Mega Account Generator
+* [mega-account-generator](https://github.com/lem6ns/mega-account-generator), [2](https://github.com/crackhub-dev/mega-account-generator) - Mega Account Generators
 * [Mega Checker](https://github.com/Titoot/mega-checker) - Mega Link Checker
 * [Unlimited Mega Storage](https://redd.it/ffrkf3) - Unlimited Mega Storage Guide
 * [GetMega](http://getmega.net/) - Direct Mega Links 
