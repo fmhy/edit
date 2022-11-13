@@ -402,7 +402,8 @@
 * [HITS](https://hits.seeyoufarm.com/) - Website Traffic Badges
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) or [MetaTags](https://metatags.io/) - Meta Tag Generator
 * [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools) 
-* [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [v3WhoIs](https://www.v3whois.com/), [atlaq](https://atlaq.com/) or [Domainr](https://domainr.com/) - Domain Availability Checkers 
+* [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [v3WhoIs](https://www.v3whois.com/), [atlaq](https://atlaq.com/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
+* [namify](https://namify.tech/) - Domain / Business Name Suggestions
 * [TinyDomain](https://tinydomain.net/) - Short Domain Suggestions
 * [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
 * [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
@@ -465,6 +466,7 @@
 * [HTML5 Temp](https://rentry.co/HTML5Temp) - HTML5 Templates & Themes
 * [CSS Bed](https://www.cssbed.com/), [beercss](https://www.beercss.com/) / [GitHub](https://github.com/beercss/beercss) or [free-css-templates](https://www.free-css.com/free-css-templates) - CSS Themes / Templates
 * [Hydrogen](https://github.com/Shopify/hydrogen) or [Fullstack Next.js E-commerce](https://github.com/olafsulich/fullstack-nextjs-ecommerce) - Online Store Templates
+* [MicroCopy](https://www.microcopy.me) - Copy Common Website Text
 * [VidJet](https://www.vidjet.io/) - Publish Videos to Online Stores
 * [Typewolf](https://www.typewolf.com/) or [Typ.io](https://typ.io/) - Trending Website Fonts
 * [CSSans Pro](https://cssans.pro/) - Colorful CSS Font
@@ -490,18 +492,19 @@
 * [live-chat-youtube](https://github.com/gabrielroriz/live-chat-youtube) - Embed YouTube Live Chat on Site
 * [Visiwig](https://www.visiwig.com/) - Copy / Paste Site Graphics
 * [Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation) - Web Animation Index
-* [WebDesigner](https://webdesigner.withgoogle.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/AriaMinaei/theatre), [Haiku](https://www.haikuanimator.com/), [Greensock](https://greensock.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [Mantra](https://jeremyckahn.github.io/mantra/) or [Animate.css](https://animate.style/) - Create Interactive Motion Graphics
+* [WebDesigner](https://webdesigner.withgoogle.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/AriaMinaei/theatre), [Haiku](https://www.haikuanimator.com/), [Greensock](https://greensock.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [RenderForest](https://www.renderforest.com), [Mantra](https://jeremyckahn.github.io/mantra/) or [Animate.css](https://animate.style/) - Create Interactive Motion Graphics
 * [Paramoji](https://paramoji.org/) - Parametric Emoji 
 * [useAnimations](https://useanimations.com/index.html) - Animated Icon Pack
 * [Curzr](https://github.com/TaylonChan/Curzr) - Animated Cursors
 * [Cursor Effects](https://tholman.com/cursor-effects/) - 90's Style Cursors
+* [RV's Free Effects](https://www.mf2fm.com/rv/) - Site / Cursor Effects
 * [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
 * [Vidlery](http://vidlery.com/) - Animated Webpage Background
 * [Box-Shadow](https://box-shadow.art/) - Box Shadow Generator
 * [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - CSS Shadow Generator
 * [MapBox](https://www.mapbox.com/) - Live Maps, Location Search & More
 * [Maps-Core](https://openmobilemaps.io/) - Mobile Map SDK
-* [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [99Inbound](https://www.99inbound.com/), [Forms.id](https://forms.id/), [Form.taxi](https://form.taxi/) or [Formsend](https://formsend.org/) - Form Creator
+* [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [JotForm](https://www.jotform.com/), [99Inbound](https://www.99inbound.com/), [Forms.id](https://forms.id/), [Form.taxi](https://form.taxi/) or [Formsend](https://formsend.org/) - Form Creators
 * [Loading.io](https://loading.io/) - Customizable Loading SVG
 * [Medusa](https://github.com/medusajs/medusa) - Digital Commerce Development Tool
 * [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)- Penetration Testing Resources
@@ -641,6 +644,7 @@ Automated Incident Response and Forensics Framework
 * [7.css](https://khang-nd.github.io/7.css/) or [Botox Party](https://botoxparty.github.io/XP.css/) - Create Oldschool Style UI's
 * [Amplication](https://amplication.com/) - Create Node.js Apps
 * [Ink](https://github.com/vadimdemedes/ink) - Create Interactive CLI Apps
+* [smenu](https://github.com/p-gen/smenu) - Create CLI Menus
 * [Enquirer](https://github.com/enquirer/enquirer) or [Prompts](https://github.com/terkelg/prompts) - Create CLI Prompts
 * [blessed-contrib](https://github.com/yaronn/blessed-contrib), [BubbleTea](https://github.com/charmbracelet/bubbletea) or [tui-rs](https://github.com/fdehau/tui-rs) - Create Terminal Applications
 * [Etebase](https://www.etebase.com/) - Encrypted App Backend
@@ -783,6 +787,7 @@ Automated Incident Response and Forensics Framework
 * [Engine Simulator](https://www.engine-sim.parts/) - Engine Sound Simulator / [GitHub](https://github.com/ange-yaghi/engine-sim)
 * [Electronic Arts GitHub](https://github.com/electronicarts) - EA GitHub Repos
 * [Game UI Database](https://www.gameuidatabase.com/) - Game UI / UX Database
+* Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - Game GUI Creator
 * [CharPad](https://subchristsoftware.itch.io/charpad-free-edition) - Commodore 64 Graphics Editor
 * [Xelu's Controller Prompts](https://thoseawesomeguys.com/prompts/) - Free Game Prompts / [Video](https://youtu.be/d6GtGbI-now)
 * [Tuesday JS](https://kirill-live.itch.io/tuesday-js) / [GitHub](https://github.com/Kirilllive/tuesday-js) or [RenPy](https://www.renpy.org/) / [GitHub](https://github.com/renpy/renpy) - Visual Novel Editor
