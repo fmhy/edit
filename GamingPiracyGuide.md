@@ -224,7 +224,8 @@
 * [PokemonLog](https://pokemonlog.com/) or [Pokemon Coders](https://www.pokemoncoders.com/) - Hacked Pokemon ROMs
 * [PokeGB](https://github.com/binji/pokegb) - Pokémon Blue Emulator
 * [PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
-* [GameBanana](https://gamebanana.com/mods/games/14783) - Pokémon Brilliant Diamond & Shining Pearl Mods
+* [GameBanana](https://gamebanana.com/mods/games/14783) - Pokémon Brilliant Diamond / Shining Pearl Mods
+* [Universal Pokemon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/) - Randomize Pokemon (works for GBA through 3DS)
 * [Dats.site](https://dats.site/) - ROM .DAT Files
 * [datcheck](https://github.com/pkos/datcheck) - Compare No-Intro / Redump .DAT Files to ROM or Disc Collection
 * [Lunar IPS](https://www.romhacking.net/utilities/240/) - IPS Patching Utility
@@ -244,7 +245,7 @@
 * [RPCS3 Setup Guide](https://docs.google.com/document/d/1gdjNab-CtVS97jH2diPPP5tCrpBeof9-qPIRRB9-BrU/edit) - RPCS3 Emulator Setup Guide
 * [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PSCX Development Emulator
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Manually Updated](http://ps3.aldostools.org/updates.html) - Update PS3 Games
-* [EmuDeck](https://www.emudeck.com/) - Emulator for Steam Deck
+* [EmuDeck](https://www.emudeck.com/) or [GameImage](https://gitlab.com/formigoni/gameimage) - Steam Deck Emulators
 
 ***
 
@@ -592,7 +593,7 @@
 
 ## ▷ Multiplayer
 
-* ⭐ **[EagleCraft](https://g.deev.is/eaglercraft/)** - Multiplayer Browser Minecraft / [GitHub](https://github.com/lax1dude/eaglercraft)
+* ⭐ **[EagleCraft](https://g.deev.is/eaglercraft/)**, [2](https://minecraftforfreex.com/eaglercraft/) - Multiplayer Browser Minecraft / [GitHub](https://github.com/lax1dude/eaglercraft)
 * ⭐ **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS / [Market Ping](https://yee.how/market-ping/) / [Client](https://client.cuffuffles.dev/) / [Optimal Settings](https://rentry.co/krunkersettings)
 * ⭐ **[DelugeRPG](https://www.delugerpg.com/)** or [Pokemon Legends](https://www.pokemongods.com/) - Pokemon MMO
 * ⭐ **[Pokemon Showdown](https://pokemonshowdown.com/)** - Online Pokemon Battles 
@@ -748,7 +749,8 @@
 * [LanguageGuesser](https://languageguesser.com/) - Guess Music Video Languages 
 * [Emoji Dingbats](https://emoji-dingbats.herokuapp.com/) - Emoji Dingbat Game
 * [The Higher Lower Game](http://www.higherlowergame.com/) or [GoogleFued](https://googlefeud.com/) - Guess What's Googled More
-* [Guess The Price](https://guesstheprice.net/) - Price Guessing Game 
+* [Guess The Price](https://guesstheprice.net/) - Price Guessing Game
+* [Guess The Year](https://guess-the-year.davjhan.com/) - Year Guessing Game
 * [Approved, or Not Approved?](https://approvednotapproved.com/) - Approved Advertising Guessing Game
 * [damn.dog](https://damn.dog/) - wikiHow Guessing Game
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First
