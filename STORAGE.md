@@ -16,7 +16,9 @@
 
 #### 3D Models
 
-[CGPersia](https://cgpersia.com/), [Clara](https://clara.io/library), [Sketchfab](https://sketchfab.com/), [GrabCad](https://grabcad.com/), [Daz3D](https://www.3dcu.com/), [3DRU](https://3dru.net/), [CGDownloads](https://cgdownloads.com/), [P3DM](https://p3dm.ru/), [3D-Load](https://3d-load.net/), [CGTrader](https://www.cgtrader.com/free-3d-models), [Free3D](https://free3d.com/), [VRModels](https://vrmodels.store/), [TurboSquid](https://www.turbosquid.com/), [CadNav](https://www.cadnav.com/), [BlendSwap](https://www.blendswap.com/), [3DModelsCC0](https://www.3dmodelscc0.com/), [Blenders-Models](https://www.blender-models.com/), [Render State](https://render-state.to/), [Open3DModel](https://www.open3dmodel.com/), [KiCad](https://kicad.github.io/), [Archive3d](https://archive3d.net/), [TopGFX](http://topgfx.info/index.php), [3DPirate](https://3dpirate.net/), [3dexport](https://3dexport.com/free-3d-models), [shop3dmili](https://shop3dmili.com/free), [archibaseplanet](https://archibaseplanet.com/), [cults3d](https://cults3d.com/), [3dsky](https://3dsky.org/), [turbosquid](https://www.turbosquid.com/Search/3D-Models/free), [3dwarehouse](https://3dwarehouse.sketchup.com/), [BlenderKit](https://www.blenderkit.com/), [3Dmili](https://3dmili.com/), [3DFree](https://www.3dfree.top/), [poly.pizza](https://poly.pizza/), [rigmodels](https://rigmodels.com/)
+⭐ **[Thingiverse](https://www.thingiverse.com/)**
+
+[CGPersia](https://cgpersia.com/), [Clara](https://clara.io/library), [Sketchfab](https://sketchfab.com/), [GrabCad](https://grabcad.com/), [Daz3D](https://www.3dcu.com/), [3DRU](https://3dru.net/), [CGDownloads](https://cgdownloads.com/), [P3DM](https://p3dm.ru/), [3D-Load](https://3d-load.net/), [CGTrader](https://www.cgtrader.com/free-3d-models), [Free3D](https://free3d.com/), [VRModels](https://vrmodels.store/), [TurboSquid](https://www.turbosquid.com/), [CadNav](https://www.cadnav.com/), [BlendSwap](https://www.blendswap.com/), [3DModelsCC0](https://www.3dmodelscc0.com/), [Blenders-Models](https://www.blender-models.com/), [Render State](https://render-state.to/), [Open3DModel](https://www.open3dmodel.com/), [KiCad](https://kicad.github.io/), [Archive3d](https://archive3d.net/), [TopGFX](http://topgfx.info/index.php), [3DPirate](https://3dpirate.net/), [3dexport](https://3dexport.com/free-3d-models), [shop3dmili](https://shop3dmili.com/free), [archibaseplanet](https://archibaseplanet.com/), [cults3d](https://cults3d.com/), [3dsky](https://3dsky.org/), [turbosquid](https://www.turbosquid.com/Search/3D-Models/free), [3dwarehouse](https://3dwarehouse.sketchup.com/), [BlenderKit](https://www.blenderkit.com/), [3Dmili](https://3dmili.com/), [3DFree](https://www.3dfree.top/), [poly.pizza](https://poly.pizza/), [rigmodels](https://rigmodels.com/), [Printables](https://www.printables.com/), [Thangs](https://thangs.com/)
 
 ***
 
@@ -61,6 +63,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * [Midjourney](https://www.midjourney.com/)
 * [Dezgo](https://dezgo.com/)
 * [aiimag.es](https://sunija.itch.io/aiimages)
+* [Pinegraph](https://pinegraph.com/create)
 * [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/)
 * [InPainter](https://inpainter.vercel.app/paint)
 * [Dreambooth](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)
@@ -238,7 +241,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### App Launchers
 
-[Omega Launcher](https://github.com/otakuhqz/omega), [SmartLauncher](https://www.smartlauncher.net/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_smartlauncher_pro), [Lawnchair](https://lawnchair.app/), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [ActivityLauncher](https://github.com/butzist/ActivityLauncher), [Smart Dock](https://github.com/axel358/smartdock), [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher), [Olauncher](https://github.com/jooooscha/Olauncher), [Unlauncher](https://github.com/jkuester/unlauncher), [Ratio](https://blloc.com/), [Edge Card Launcher](https://play.google.com/store/apps/details?id=com.reactivstudios.android.edge4), [Nova 7.0](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/nova-launcher-7-0-57-release/) / [8.0](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/nova-launcher-8-0-1-release/) (Pre-Acquisition), [Stario](https://play.google.com/store/apps/details?id=com.stario.launcher), [Discreet Launcher](https://github.com/falzonv/discreet-launcher), [Taskbar](https://play.google.com/store/apps/details?id=com.farmerbb.taskbar, [Kvaesitso](https://kvaesitso.mm20.de/)
+[Omega Launcher](https://github.com/otakuhqz/omega), [SmartLauncher](https://www.smartlauncher.net/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_smartlauncher_pro), [Lawnchair](https://lawnchair.app/), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [ActivityLauncher](https://github.com/butzist/ActivityLauncher), [Smart Dock](https://github.com/axel358/smartdock), [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher), [Olauncher](https://github.com/jooooscha/Olauncher), [Unlauncher](https://github.com/jkuester/unlauncher), [Ratio](https://blloc.com/), [Edge Card Launcher](https://play.google.com/store/apps/details?id=com.reactivstudios.android.edge4), [Nova 7.0](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/nova-launcher-7-0-57-release/) / [8.0](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/nova-launcher-8-0-1-release/) (Pre-Acquisition), [Stario](https://play.google.com/store/apps/details?id=com.stario.launcher), [Discreet Launcher](https://github.com/falzonv/discreet-launcher), [Taskbar](https://play.google.com/store/apps/details?id=com.farmerbb.taskbar, [Kvaesitso](https://kvaesitso.mm20.de/), [Niagara](https://play.google.com/store/apps/details?id=bitpit.launcher&hl=en&gl=US)
 
 ***
 
@@ -578,7 +581,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Domain Info Tools
 
-[WhoIsRequest](https://whoisrequest.com/), [Rankchart](https://rankchart.org/), [Securrity Whoiz](http://www.securrity.ru/whoiz.html), [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MxToolbox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/), [whois.ipip](https://whois.ipip.net/), [BillCipher](https://github.com/84KaliPleXon3/BillCipher)
+[WhoIsRequest](https://whoisrequest.com/), [Rankchart](https://rankchart.org/), [Securrity Whoiz](http://www.securrity.ru/whoiz.html), [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MxToolbox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/), [whois.ipip](https://whois.ipip.net/), [BillCipher](https://github.com/84KaliPleXon3/BillCipher), [webstatsdomain](https://webstatsdomain.org/)
 
 ***
 
@@ -895,7 +898,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ⭐ **[SyncThing](https://github.com/Catfriend1/syncthing-android)**
 
-[croc](https://f-droid.org/packages/com.github.howeyc.crocgui), [Snapdrop Android](https://github.com/fm-sys/snapdrop-android), [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard), [MyPhoneExplorer](https://www.fjsoft.at/), [Leaf Explorer](https://github.com/Shiv-Shambhu/Leaf-Explorer), [xShare](https://github.com/tsudoko/xshare)
+[croc](https://f-droid.org/packages/com.github.howeyc.crocgui), [Sngapdrop Android](https://github.com/fm-sys/snapdrop-android), [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard), [MyPhoneExplorer](https://www.fjsoft.at/), [Leaf Explorer](https://github.com/Shiv-Shambhu/Leaf-Explorer), [xShare](https://github.com/tsudoko/xshare), [InShare](https://play.google.com/store/apps/details?id=sharefiles.sharemusic.shareapps.filetransfer)
 
 **SkyNet**
 
@@ -1010,12 +1013,17 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://groups.google.com/g/roshanstgbot
 * https://groups.google.com/g/zanime
 * https://groups.google.com/g/rdrivelinks
+* https://groups.google.com/g/mirrordrive-index
+* https://groups.google.com/d/forum/torrentleech-gdrive
+* https://groups.google.com/u/9/g/gdriveit
+* https://groups.google.com/g/monarch-cloud
 
 ***
 
 #### Grammar Check
 
-⭐ **[Scribens](https://www.scribens.com/)**
+* ⭐ **[Scribens](https://www.scribens.com/)**
+* ⭐ **[Jenni](https://jenni.ai/)** / [Free Method](https://i.imgur.com/nOz1LwH.png)
 
 [Wordtune](https://www.wordtune.com/), [HemingwayApp](http://hemingwayapp.com/), [Grammark](https://grammark.org/), [SlickWrite](https://www.slickwrite.com/), [Ginger Software](https://www.gingersoftware.com/grammarcheck), [LanguageTool](https://languagetool.org/), [Grammarly](https://www.grammarly.com/), [Grammica](https://grammica.com/), [Ludwig](https://ludwig.guru/), [Scribbr](https://www.scribbr.com/), [Writer](https://writer.com/), [WordCounter](https://wordcounter.net/), [RewriteTools](https://www.rewritertools.com/), [TextGears](https://textgears.com/check-grammar-online), [PolishMyWriting](https://www.polishmywriting.com/) , [Reverso Spellcheck](https://www.reverso.net/spell-checker/english-spelling-grammar/), [spellcheckplus](https://spellcheckplus.com/), [GrammarCheck](https://www.grammarcheck.net/) 
 
@@ -1100,8 +1108,8 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://www3.watchserieshd.ru/
 * https://flixhd.cc/
 * https://www3.musichq.net/
-* https://www1.zoechip.com/
 * https://zoechip.org/
+* https://www3.zoechip.com/
 * https://www1.attacker.tv/
 * https://quitt.net/
 * https://www1.seeingblind.net/
@@ -1981,7 +1989,7 @@ Add the following commands to a search to manually scrape each site.
 
 ⭐ **[PROXY List](https://github.com/TheSpeedX/PROXY-List)**
 
-[Free-Proxy-List](https://free-proxy-list.net/), [Proxy-Daily](https://proxy-daily.com/), [Cool-Proxy](https://www.cool-proxy.net/), [Proxy-List](https://github.com/Volodichev/proxy-list) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://github.com/roosterkid/openproxylist), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hidemy.name/en/proxy-list/), [FreeProxyLists](https://www.freeproxylists.net/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [premproxy](https://www.premproxy.com/list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [web-proxylist](http://free-proxy.cz/en/web-proxylist), [proxystack](https://proxystack.com/), [proxy-spider](https://proxy-spider.com/proxies/), [proxyranker](https://proxyranker.com/), [freeproxyupdate](https://freeproxyupdate.com/), [ditatompel](https://www.ditatompel.com/proxy/), [proxypedia](https://proxypedia.org/free-proxy/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/)
+[Free-Proxy-List](https://free-proxy-list.net/), [Proxy-Daily](https://proxy-daily.com/), [Cool-Proxy](https://www.cool-proxy.net/), [Proxy-List](https://github.com/Volodichev/proxy-list) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://github.com/roosterkid/openproxylist), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hidemy.name/en/proxy-list/), [FreeProxyLists](https://www.freeproxylists.net/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [premproxy](https://www.premproxy.com/list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [web-proxylist](http://free-proxy.cz/en/web-proxylist), [proxystack](https://proxystack.com/), [proxyranker](https://proxyranker.com/), [freeproxyupdate](https://freeproxyupdate.com/), [ditatompel](https://www.ditatompel.com/proxy/), [proxypedia](https://proxypedia.org/free-proxy/), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/)
 
 ***
 
@@ -2406,7 +2414,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### SMS Verification Sites
 
-[TextNow](https://www.textnow.com/), [Tempophone](https://tempophone.com/), [2ndline](https://www.2ndline.co/), [ReceiveaSMS](https://www.receiveasms.com/), [SMS Receive Free](https://smsreceivefree.com/), [SMS Online](https://sms-online.co/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [SMS Receive](http://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [7Sim](http://7sim.net/), [hs3x](https://hs3x.com/), [receivefreesms](http://receivefreesms.com/), [receivesmsonline](https://receivesmsonline.in/), [receive-sms-online](https://receive-sms-online.com/), [Sellaite](http://sms.sellaite.com/), [Send SMS Now](https://www.sendsmsnow.com/), [Free Online Phone](https://www.freeonlinephone.org/), [SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](http://receivesmsonline.me/), [My Trash Mobile](https://es.mytrashmobile.com/numeros/), [Temp-Mails](https://www.temp-mails.com/), [GlobFone](https://globfone.com/), [receive-sms](https://receive-sms.com/), [freesmsverification](http://freesmsverification.com/), [temp-mails-number](https://www.temp-mails.com/number), [countrycode](https://countrycode.org/), [temp-sms](http://temp-sms.org/), [oksms](https://oksms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [cloakmobile](https://cloakmobile.com/), [pumpsms](http://pumpsms.com/), [spoofbox](https://www.spoofbox.com/en/tool/trash-mobile/number), [onlinesim](http://onlinesim.ru/sms-receive), [smska](https://smska.us/), [receive-sms-online](https://www.receive-sms-online.info/), [smsfinders](https://smsfinders.com/), [receivesms](https://www.receivesms.org/), [numbersfor](http://numbersfor.me/), [mfreesms](https://mfreesms.com/), [phonerator](https://www.martinvigo.com/tools/phonerator/), [fake-sms](https://github.com/Narasimha1997/fake-sms), [yunjisms](https://yunjisms.xyz/), [clearcode](https://clearcode.cn/), [smscodeonline](https://smscodeonline.com/), [lothelper](https://www.lothelper.com/), [xinghai](https://xinghai.party/), [mianfeijiema](https://mianfeijiema.com/, [receivesms](https://www.receivesms.net/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [114sim](http://www.114sim.com/), [Temp Number](https://temp-number.com/), [sms24](https://www.sms24.me/), [receive-smss](https://receive-smss.com)
+[TextNow](https://www.textnow.com/), [Tempophone](https://tempophone.com/), [2ndline](https://www.2ndline.co/), [ReceiveaSMS](https://www.receiveasms.com/), [SMS Receive Free](https://smsreceivefree.com/), [SMS Online](https://sms-online.co/), [GetFreeSMSNUmber](https://getfreesmsnumber.com/), [SMS Receive](http://sms-receive.net/), [Receive SMS Online](https://www.receivesmsonline.net/), [7Sim](http://7sim.net/), [hs3x](https://hs3x.com/), [receivefreesms](http://receivefreesms.com/), [receivesmsonline](https://receivesmsonline.in/), [receive-sms-online](https://receive-sms-online.com/), [Sellaite](http://sms.sellaite.com/), [Send SMS Now](https://www.sendsmsnow.com/), [Free Online Phone](https://www.freeonlinephone.org/), [SMS Get](http://smsget.net/), [1s2u](https://1s2u.com/), [receivesmsonline.me](http://receivesmsonline.me/), [My Trash Mobile](https://es.mytrashmobile.com/numeros/), [Temp-Mails](https://www.temp-mails.com/), [GlobFone](https://globfone.com/), [receive-sms](https://receive-sms.com/), [freesmsverification](http://freesmsverification.com/), [temp-mails-number](https://www.temp-mails.com/number), [countrycode](https://countrycode.org/), [temp-sms](http://temp-sms.org/), [oksms](https://oksms.org/), [temporary-phone-number](https://temporary-phone-number.com/), [cloakmobile](https://cloakmobile.com/), [pumpsms](http://pumpsms.com/), [spoofbox](https://www.spoofbox.com/en/tool/trash-mobile/number), [onlinesim](http://onlinesim.ru/sms-receive), [smska](https://smska.us/), [receive-sms-online](https://www.receive-sms-online.info/), [smsfinders](https://smsfinders.com/), [receivesms](https://www.receivesms.org/), [numbersfor](http://numbersfor.me/), [mfreesms](https://mfreesms.com/), [phonerator](https://www.martinvigo.com/tools/phonerator/), [fake-sms](https://github.com/Narasimha1997/fake-sms), [yunjisms](https://yunjisms.xyz/), [clearcode](https://clearcode.cn/), [smscodeonline](https://smscodeonline.com/), [lothelper](https://www.lothelper.com/), [xinghai](https://xinghai.party/), [mianfeijiema](https://mianfeijiema.com/, [receivesms](https://www.receivesms.net/), [jiemahao](https://jiemahao.com/), [storytrain](https://www.storytrain.info/), [114sim](http://www.114sim.com/), [Temp Number](https://temp-number.com/), [sms24](https://www.sms24.me/), [receive-smss](https://receive-smss.com), [verificationfree](https://verificationfree.com/), [receivesms](https://receivesms.one/), [simpletexting](https://simpletexting.com/), [freesmscenter](https://freesmscenter.com/), [receive-sms](https://receive-sms.cc/), [online-sms](https://online-sms.org/), [grizzlysms](https://grizzlysms.com/), [spytm](https://spytm.com/), [receivesms](https://www.receivesms.co/), [receive-sms-free](https://receive-sms-free.cc/), [receivesms](https://receivesms.cc/), [sms-activation-service](https://sms-activation-service.com/), [burnerapp](https://www.burnerapp.com/), [temp-sms](https://temp-sms.org/), [receivesms](https://receivesms.org/), [temp-number](https://temp-number.org/), [tempsmss](https://tempsmss.com/), [quackr](https://quackr.io/), [mytempsms](https://mytempsms.com/), [sms24](https://sms24.me/), [freephonenum](https://freephonenum.com/), [tempnumberlive](https://tempnumberlive.com/), [temp-phone-number](https://temp-phone-number.com/)
 
 **No CC Required Trial Sites**
 
@@ -3286,7 +3294,10 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 #### YouTube Frontends
 
-[Invidious](https://invidious.io/) / [2](https://tube.cadence.moe/) / [3](https://redirect.invidious.io/) / [4](https://inv.riverside.rocks/feed/popular) / [Instances](https://api.invidious.io/), [2](https://invidio.us/) / [TUI](https://github.com/darkhz/invidtui), [FreeTubeApp](https://freetubeapp.io/), [ViewTube](https://viewtube.io/) / [GitHub](https://github.com/ViewTube/viewtube-vue), [Piped](https://github.com/TeamPiped/Piped), [2](https://piped.kavin.rocks/), [PSTube](https://github.com/prateekmedia/pstube), [Youtube-local](https://github.com/user234683/youtube-local), [tube.cadence](https://tube.cadence.moe/), [invuedious](https://github.com/bocchilorenzo/invuedious), [YTB](https://ytb.trom.tf/), [WebTube](https://webtubeapp.xyz/)
+* ⭐ **[Invidious](https://invidious.io/)** / [2](https://tube.cadence.moe/) / [3](https://redirect.invidious.io/) / [4](https://inv.riverside.rocks/feed/popular)
+* ⭐ **Invidious Tools** - [Instances](https://api.invidious.io/), [2](https://invidio.us/) / [Alt Frontend](https://github.com/bocchilorenzo/invuedious) / [TUI](https://github.com/darkhz/invidtui) / [Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search)
+
+[FreeTubeApp](https://freetubeapp.io/), [ViewTube](https://viewtube.io/) / [GitHub](https://github.com/ViewTube/viewtube-vue), [Piped](https://github.com/TeamPiped/Piped), [2](https://piped.kavin.rocks/), [PSTube](https://github.com/prateekmedia/pstube), [Youtube-local](https://github.com/user234683/youtube-local), [tube.cadence](https://tube.cadence.moe/), [YTB](https://ytb.trom.tf/), [WebTube](https://webtubeapp.xyz/)
 
 ***
 
