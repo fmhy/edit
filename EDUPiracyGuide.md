@@ -785,7 +785,7 @@ Simulator
 * [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/) or [Map Quiz](https://planemad.github.io/map-quiz/) - Geography Quizzes
 * [Geograph WorldWide](https://www.geograph.org/) - Worldwide Photographs
 * [Flaggr](https://flaggr.me/) - Country Flag Quiz
-* [US Flags](https://usflags.design/) - US Flag Index
+* [Flagpedia](https://flagpedia.net/) or [US Flags](https://usflags.design/) - Flag Indexes
 * [The True Size](https://thetruesize.com/) - Compare Country Size 
 * [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
 * [JoinUS World](https://www.joinusworld.org/) - Korean Culture Q&A Site
