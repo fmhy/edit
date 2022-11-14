@@ -359,6 +359,7 @@
 * [OptiFine Alternatives](https://lambdaurora.dev/optifine_alternatives/) - Minecraft OptiFine Alternatives for Fabric
 * [modsman](https://github.com/sargunv/modsman) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Manager
 * [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - Minecraft Utility Mod
+* [Minecraft Performance Flags](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks) - Java Minecraft Benchmarks
 * [No Telemetry](https://modrinth.com/mod/no-telemetry) - Disable Telemetry Data
 * [Data Pack Generators](https://misode.github.io/) - Minecraft Data Pack Generators 
 * [Distant Horizons](https://gitlab.com/jeseibel/minecraft-lod-mod) - Increased Minecraft Render Distance
