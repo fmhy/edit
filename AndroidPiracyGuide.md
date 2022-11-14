@@ -15,14 +15,14 @@
 * ⭐ **[Bromite](https://www.bromite.org/)**, [jQuarks](https://f-droid.org/packages/com.oF2pks.jquarks/) or [Monument](https://play.google.com/store/apps/details?id=br.marcelo.monumentbrowser) - Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite)
 * ⭐ **uBlock Origin** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Yandex](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) & [Kiwi](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) 
 * ⭐ **[Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)**, [NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid) or [WebApps](https://github.com/tobykurien/WebApps/) - App Containers
-* [Blokada](https://blokada.org/) - Adblocking App
+* [Blokada](https://blokada.org/) / [v4](https://go.blokada.org/apk4) - Adblocking App
 * [AdAway](https://adaway.org/) - Adblocking App / [GitHub](https://github.com/AdAway/AdAway)
 * [ad-free](https://abertschi.github.io/ad-free/landing/) - Adblocking App
 * [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) / [F-Droid](https://f-droid.org/packages/dnsfilter.android), [Rethink](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists), [BhanUpratpys](https://github.com/bhanupratapys/dnswarden), [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), [2](https://jak-linux.org/projects/dns66/) / [GitHub](https://github.com/julian-klode/dns66), [TrustDNS](https://surfshark.com/trust-dns) or [Pi-Droid](https://f-droid.org/en/packages/friimaind.piholedroid/)  - DNS Adblocker 
 * [Daedalus](https://play.google.com/store/apps/details?id=org.itxtech.daedalus) or [Smokescreen](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen)- DNS Modifier
 * [DNS Speed Test & Changer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dns_speed_test_.26amp.3B_changer) - DNS Speed Test
 * [DNS Changer](https://play.google.com/store/apps/details?id=com.technoapps.dnschanger) - DNS Changer
-* [Twidere](https://github.com/TwidereProject/Twidere-Android), [Aerowitter](https://aerowitter.com/) or [Twidere-X](https://github.com/TwidereProject/TwidereX-Android) - Ad-Free Twitter Apps
+* [Twidere](https://github.com/TwidereProject/Twidere-Android), [TwiFucker](https://github.com/Dr-TSNG/TwiFucker), [Aerowitter](https://aerowitter.com/) or [Twidere-X](https://github.com/TwidereProject/TwidereX-Android) - Ad-Free Twitter Apps
 * [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - Adblock Filters 
 * [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - Block Spam Calls
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls 
@@ -231,7 +231,7 @@
 * [openboard](https://github.com/dslul/openboard) - FOSS Keyboard App
 * [UnicodePad](https://github.com/Ryosuke839/UnicodePad) - Emoji / Unicode Manager
 * [KeePassDX](https://www.keepassdx.com/), [AuthPass](https://authpass.app/) or [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - Password Managers
-* [Clipboarded](https://f-droid.org/en/packages/com.trianguloy.clipboardeditor/) - Clipboard Manager
+* [Clipboarded](https://f-droid.org/en/packages/com.trianguloy.clipboardeditor/) or [Clipboard History](https://play.google.com/store/apps/details?id=com.rubbishcollector.clipboardhistory) - Clipboard Managers
 * [Grammarly](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_grammarly_keyboard_premium) - Grammarly Keyboard Premium 
 * [WiFiman](https://play.google.com/store/apps/details?id=com.ubnt.usurvey) - Network Scanner
 * [Fing](https://www.fing.com/products/fing-app) - Network Toolkit
@@ -410,6 +410,7 @@
 * [KONTXT](https://play.google.com/store/apps/details?id=com.realnetworks.kontxt.voice&hl=en&gl=US) - Preview Calls
 * [SimpleMail](https://framagit.org/dystopia-project/simple-email), [k9mail](https://k9mail.app/) or [FairCode](https://email.faircode.eu/) - Email App 
 * [BlitzMail](https://github.com/grote/BlitzMail) - One Click Email App
+* [Delta Lab](https://github.com/adbenitez/deltalab-android) - Email Based Messenger
 * [Get Unstuck](https://socratic.org/) - Homework Answers / Help 
 * [Take Notes](https://github.com/the-rebooted-coder/Take-Notes) - Convert Text to Handwritten Notes
 * [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - To-Do List Apps
@@ -715,7 +716,8 @@
 * [MJ PDF Reader](https://play.google.com/store/apps/details?id=com.gitlab.mudlej.MjPdfReader) - PDF Reader
 * [K2pdfopt](https://willus.com/k2pdfopt/) - Optimize PDF/DJVU Files for Mobile E-Readers
 * [Voice](https://f-droid.org/en/packages/de.ph1b.audiobook/) - Audiobook Player 
-* [Simple Audiobook Player](https://play.google.com/store/apps/details?id=mdmt.sabp.free) - Audiobook Player 
+* [Simple Audiobook Player](https://play.google.com/store/apps/details?id=mdmt.sabp.free) - Audiobook Player
+* [Voice Audiobook Player](https://play.google.com/store/apps/details?id=de.ph1b.audiobook) - Audiobook Player
 * [Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) - Audiobook Player  
 * [AudioAnchor](https://f-droid.org/en/packages/com.prangesoftwaresolutions.audioanchor/) - Audiobook Player 
 * [Perfect Viewer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_perfect_viewer) - Manga Reader
@@ -805,6 +807,7 @@
 * [PocketCasts](https://www.pocketcasts.com/) - Podcasts
 * [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict ) - Podcasts 
 * [Tsacdop](https://play.google.com/store/apps/details?id=com.stonegate.tsacdop) - Podcasts
+* [Pocket Casts](https://github.com/Automattic/pocket-casts-android) - Podcasts
 * [RadioDroid](https://f-droid.org/en/packages/net.programmierecke.radiodroid2/) - Radio
 * [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/) - Radio
 * [DisasterRadio](https://f-droid.org/en/packages/tk.giesecke.disaster_radio/) - Radio
