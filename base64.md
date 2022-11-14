@@ -94,7 +94,7 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 
 #### Judas TeamDrive
 
-`aHR0cHM6Ly9ncm91cHMuZ29vZ2xlLmNvbS9kL2ZvcnVtL2p1ZGFzZGRsIA==`
+`aHR0cHM6Ly9ncm91cHMuZ29vZ2xlLmNvbS9kL2ZvcnVtL2p1ZGFzZGRsIApodHRwczovL3JlbnRyeS5jby9qdWRhcy1kZGw=`
 
 ***
 
