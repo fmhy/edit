@@ -52,6 +52,7 @@
 * [/r/audiobookrequest](https://reddit.com/r/audiobookrequest) - Request Audiobooks
 * [audiobook-dl](https://github.com/jo1gi/audiobook-dl) or [Audiobook Downloader](https://github.com/ipriyam26/Audiobook) - Audiobook Download Tool
 * [OverDrive](https://github.com/chbrown/overdrive) - OverDrive Audiobook Download Script
+* [AudiobookShelf](https://www.audiobookshelf.org/) - Self-Hosted Audiobook Server
 
 *** 
 
@@ -364,6 +365,7 @@
 * [EasyPeasy](https://easypeasymethod.org/) - Painlessly Quit Pornography
 * [UFO Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ufo_books) or [Xenology](http://www.xenology.info/Xeno.htm) - UFO / Xenology
 * [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
+* [Real Life Villains](https://reallifevillains.miraheze.org/wiki/Real_Life_Villains_Wiki) - Extreme Criminal Wiki
 * [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
 * [Potions and Snitches](http://www.potionsandsnitches.org/) - Harry Potter Fanfiction
 * [Projectrho](http://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
