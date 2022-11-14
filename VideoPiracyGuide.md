@@ -142,6 +142,7 @@
 * [Pahe.stream](https://pahe.stream/) - Movies / TV
 * [VidCloud](https://membed.net/) - Movies / TV
 * [Rainierland](https://rainierland.to/) - Movies / TV
+* [Movly](https://movly.xyz/) - Movies / TV
 * [MovieHubz](https://moviehubz.com/) - Movies / TV / Anime / [Discord](https://discord.com/invite/UWTgkNCPXp)
 * [Afdah](https://afdah2.com/) - Movies
 * [XMovies](https://ww.xmovies.is/) - Movies / TV / Anime
@@ -184,7 +185,8 @@
 * [123Moviesd](https://123moviesd.com/) - Movies / TV
 * [123MoviesFun](https://123moviesfun.is/) - Movies / TV
 * [123MoviesOnline](https://123moviesonline.one/) - Movies / TV
-* [0123movies](https://watch0123movies.org) - Movies / TV
+* [0123movies](https://0123movies.com/) - Movies / TV
+* [Watch0123movies](https://watch0123movies.org) - Movies / TV
 * [Moviehab](https://moviehab.com/) - Movies / TV
 * [WarezCDN](https://warezcdn.com/) - Movies / TV / Anime / API
 * [2embed](https://www.2embed.to/) - Movies / TV / Anime / API
@@ -683,10 +685,12 @@
 * [SeriesVault](https://seriesvault.tk/), [2](https://seriesvault.win/) - TV / Anime
 * [o2tvseries](https://o2tvseries.com/) - TV
 * [TV Shows](https://tvshows.show/) - TV
+* [SoapTV](https://soaptv.me/) - TV
 * [HDMovieArea](https://hdmoviarea.com/genre/dual-audio/) - Movies / TV
 * [Full4Movies](https://www.full4movies.digital/category/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)
 * [Movies Mobile](https://mobilemovies.info/index.php?dir=Hollywood%20Movies) - Movies
 * [TVShows.today](https://tvshows.today/) - TV
+* [TVSBoy](https://tvsboy.com/) - TV
 * [FilmyZilla](https://filmyzilla.directory/category/202/Hollywood-english-movies/default/1.html) - Movies
 * [HDHub4U](https://hdhub4u.bar/category/hollywood-movies/) - Movies / TV
 * [MoviezAddiction](https://moviezaddiction.work/) - Movies / TV / [Telegram](https://t.me/moviezaddiction3)
@@ -740,22 +744,28 @@
 ## ▷ Drives / Directories 
 
 * ⭐ **[Rinzry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rinzry)** - Movies / TV / Anime
-* ⭐ **[50TB](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_50tb_mega_drive)** - Movies 
+* ⭐ **[50TB](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_50tb_mega_drive)** - Movies
 * ⭐ **[Rek's Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive)** - Movies / Anime
 * [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
-* [Media](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_media) - Movies / TV / Anime 
+* [Media](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_media) - Movies / TV / Anime
 * [xo.ljt](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_xo.ljt) - Movies / TV
 * [itonaku](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_itonaku) - Movies
-* [188.165.227.112](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_188.165.227.112) - Movies / TV 
+* [†M1o8143](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2020m1o8143) - Movies / TV / Anime
+* [Torrent TD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_torrent_td) - Movies / TV / Anime
+* [aryatejprakash72](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_aryatejprakash72) - Movies / TV
+* [teamqbit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_teamqbit) - Movies / TV / Anime
+* [188.165.227.112](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_188.165.227.112) - Movies / TV
 * [162.12.215.254](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_162.12.215.254) - Movies
 * [163.172.97.48](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_163.172.97.48) - Movies / TV
+* [akses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_akses) - Movies
 * [Movies, Series... in English](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_movies.2C_series..._in_english) - Movies / TV
+* [r/moviegod](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_r.2Fmoviegod) - Movies
 * [wenubgang](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wenubgang) - TV / Anime
 * [مسلسلات اجنبية‬‎](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.645.633.644.633.644.627.62A_.627.62C.646.628.64A.629) - TV
 * [Remux Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_17tb_mega_drive) - HD Movies
 * [4K Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_4k_movie_collection) - HD Movies
 * [r/MegaLinks Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_r.2Fmegalinks_backup) / [Search](https://megadb.tweakly.net/)
-* [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_indexes) - Movies / TV
+* [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_google_teamdrives) - Movies / TV
 * [Play Rdp](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_play_rdp) - Korean Drama / [Discord](https://discord.com/invite/fpnvKDw)
 * [Unbeatable Banzuke](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_unbeatable_banzuke) - Unbeatable Banzuke
 * [Guide to finding fanedits](https://redd.it/nd8z20) - How-to Find Fan Edits
