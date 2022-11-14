@@ -574,6 +574,7 @@
 * [1337xHD](https://1337xhd.shop/) - Movies / TV
 * [HDHub4u](https://hdhub4u.onl/) - Movies
 * [HDVogo](https://www.hdvogo.cyou/) - Movies
+* [jsupload](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_jsupload) - Movies
 * [Movies Flix](https://hdmoviesflix.vin/) - Movies / NSFW
 * [Dudefilms](https://dudefilms.cyou/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
 * [The Movies Flix](https://themoviesflix.ac/) - Movies / NSFW / [Telegram](https://t.me/themoviesflixcomco)
