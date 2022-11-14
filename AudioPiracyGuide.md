@@ -329,7 +329,7 @@
 * [Mp3Flac](https://mp3flac.site/) - MP3 / FLAC
 * [Gangster](https://gangster.su/) - MP3 / FLAC  
 * [GetRockMusic](https://getrockmusic.net/) - MP3 / FLAC
-* [Core Radio](https://coreradio.ru/) - MP3 / FLAC 
+* [Core Radio](https://coreradio.online/) - MP3 / FLAC 
 * [AlterPortal](https://alterportal.net/) - MP3 / FLAC
 * [Moe:81](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_moe.3A81) - MP3 / FLAC
 * [Plastinka](http://plastinka.org/) - MP3 / FLAC
