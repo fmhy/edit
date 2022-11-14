@@ -67,7 +67,7 @@
 * [ActivityWatch](https://activitywatch.net/) - Automatically Track Device Activity / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)
 * [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity Booster / [Premium Unlock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cold_turkey_premium)
 * [Tempus](https://tempus.keziahmoselle.fr/), [ProcrastiTracker](https://strlen.com/procrastitracker/), [ManicTime](https://www.manictime.com/), [Clockify](https://clockify.me/), [Pro Modoro](https://pro-modoro.xyz/) / [2](https://pomofocus.io/) or [Super-Productivity](https://github.com/johannesjo/super-productivity) - Productivity Trackers
-* [DogSheep](https://dogsheep.github.io/) - Personal Analytics Tools 
+* [DogSheep](https://dogsheep.github.io/) - Personal Analytics Tools
 * [Stretchly](https://hovancik.net/stretchly), [WorkRave](https://workrave.org/), [Take a Five](http://www.takeafive.com/), [BreakMessage](https://breakmessage.com/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - Break Reminders / Trackers
 * [DoINeedAJacket](https://doineedajacket.com/weather/), [Weather.com](https://weather.com/), [DogeWeather](http://dogeweather.com/), [National Weather Service](https://www.weather.gov/), [ClearOutside](https://clearoutside.com/), [ForcastAdvisor](https://www.forecastadvisor.com/) or [wttr](https://wttr.in/) - Weather Reports
 * [IEMBot](https://weather.im/iembot/) - Weather Bot Monitor
@@ -103,6 +103,7 @@
 * [My Car Makes Noise](http://mycarmakesnoise.com/) - Diagnose Car Problems via Sounds
 * [CarComplaints](https://www.carcomplaints.com/) - Car Problems, Car Complaints and Repairs
 * [PlateRecognizer](http://platerecognizer.com/) - License Plate Recognition
+* [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.net/) - Perfume / Fragrance Databases
 * [Safe Substance](https://safesubstance.com/) - Drug Combination Info / Harm Reduction
 * [Stolen Camera Finder](https://www.stolencamerafinder.com/) - Find Stolen Cameras
 * [AFreeSMS](https://www.afreesms.com/freesms/) - Send Free Texts
@@ -147,6 +148,7 @@
 * [Lyx](https://www.lyx.org/) - LaTeX Editor / [Guide](https://www.learnlatex.org/)
 * [Detexify](http://detexify.kirelabs.org/classify.html) - Handwritten LaTeX Symbol Recognition
 * [How To Use Excel](https://www.how-use-excel.com/) - Excel Tutorial
+* [Excel Macro Mastery](https://excelmacromastery.com/vba-articles/) - Excel VBA Guides
 * [Vertex42](https://www.vertex42.com/) - Excel Templates
 * [Plain Text Table](https://plaintexttools.github.io/plain-text-table/) - Text Tables
 * [EditCSVOnline](https://www.editcsvonline.com/) - Online CSV Editor
@@ -354,6 +356,7 @@
 * [AMV101](https://www.amv101.com/) - Animated Music Video Making Guides
 * [Blaine's Movie Maker Blog](https://movies.blainesville.com/p/wmm-60-on-windows-7.html) - Windows Movie Maker Tutorials
 * [MoonRay](https://openmoonray.org/), [Unreal Engine](https://www.unrealengine.com/), [SketchUp](https://www.sketchup.com/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
+* [Mega Scans](https://quixel.com/megascans) - 3D Scans
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
 * [AnimeEffects](http://animeeffects.org/en/), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/) or [Synfig](https://www.synfig.org/) - 2D Animation Tool 
@@ -748,11 +751,11 @@
 * [SerialPortAssistant](https://github.com/KangLin/SerialPortAssistant) - Serial Port Assistant
 * [.new](https://whats.new/shortcuts) - New Project Shortcuts
 * [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - Follow RSS Feeds
-* [CTRLQ](https://ctrlq.org/rss/) or [RSS.app](https://rss.app/) - RSS Feed Search 
-* [RSS Box](https://rssbox.herokuapp.com/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Creator 
+* [RSS Box](https://rssbox.herokuapp.com/), [MoRSS](https://morss.it/), [FetchRSS](https://fetchrss.com/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
 * [RSSMail](https://git.panda-roux.dev/rssmail/about/) or [FeedButler](https://feedbutler.app/en) - RSS to Email
 * [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - RSS Feed for Sites Missing It
 * [All about RSS](https://github.com/AboutRSS/ALL-about-RSS) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds & Tools
+* [Sift RSS](https://siftrss.com/) - RSS Feed Filters
 * [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - GitHub, Reddit, Hacker News & other Feeds
 * [sheet-posting](https://www.sheet-posting.me/) - Convert Google Spreadsheets into Blogs & RSS Feeds
 * [Kill the Newsletter](https://kill-the-newsletter.com/) - Convert email newsletters into Atom Feeds 
@@ -966,7 +969,7 @@
 * [Rom CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac), [2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Search Rom Sites
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - DuckDuckGo !bang Meta Serarch / [GitHub](https://github.com/MoserMichael/duckduckbang)
 * [Jumps](https://jumps.io/) or [Yubnub](https://yubnub.org/) - Site Quick Search
-* [Soovle](https://soovle.com/), [Keyword.io](http://www.keyword.io/), [SearchEngineReports](https://searchenginereports.net/) or [Keyword Tool](https://keywordtool.io/) - Popular Keyword Search
+* [Soovle](https://soovle.com/), [Keyword.io](http://www.keyword.io/), [SearchEngineReports](https://searchenginereports.net/), [ContentIdeas](https://contentideas.io/) or [Keyword Tool](https://keywordtool.io/) - Popular Keyword Search
 * [Esteroids](https://esteroids.eth.limo/#) - Decentralized Web Search Engine
 * [Social-Searcher](https://www.social-searcher.com/), [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap), [Social Media CSE](https://cse.google.com/cse?cx=73dda67fd05b4405f#gsc.tab=1&gsc.sort=) or [Social Mention](http://socialmention.com/) - Social Media Search Engine  
 * [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - Forum Search Engine 
@@ -976,7 +979,7 @@
 * [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) or [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - TikTok Search 
 * [tumbex](https://www.tumbex.com/) - Tumblr Search
 * [Mibbit](https://search.mibbit.com/) - IRC Channel Search
-* [dato.rss](https://datorss.com/) - RSS Feeds Search Engine
+* [dato.rss](https://datorss.com/), [CTRLQ](https://ctrlq.org/rss/) or [RSS.app](https://rss.app/) - RSS Feeds Search Engines
 * [AlsoAsked](https://alsoasked.com/) - Related Search Tool
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - Search Engine for Lightweight Web Pages
 * [Search My Site](https://searchmysite.net/) - Search Engine for Independent and Personal websites / Open Source
@@ -2168,7 +2171,7 @@ Twitch Stream Tracker
 * [goodls](https://github.com/tanaikech/goodls) - Google Drive Downloader
 * [GDirect](https://www.gdirect.link/), [gdurl](https://gdurl.com/), [GDrive DDL](https://gdl.viperadnan.ga), [publiclinks](https://publiclinks.hashhackers.com/) or [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - Direct GDrive Link Generators
 * [Folder.GDrive](https://folder.gdrive.vip/) - GDrive Folder Link Generator
-* [GDToT](https://gdtot.eu/), [2](https://new1.gdtot.sbs/) - GDrive Manager
+* [GDToT](https://gdtot.eu/), [2](https://new1.gdtot.sbs/) - GDrive Manager / [Proxy](https://gdbot.xyz/)
 * [Backup System](https://github.com/danielpy108/BackUpMySystem) - Backup Google Drive
 * [OneDriveFly](https://github.com/Tai7sy/OneDriveFly) - OneDrive Index
 * [onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - Self-Hosted Directory
