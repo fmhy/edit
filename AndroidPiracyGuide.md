@@ -170,6 +170,7 @@
 * [MAPS.ME](https://maps.me/) / [GitHub](https://github.com/mapsme/omim) or [OsmAnd](https://osmand.net/) - Offline Maps
 * [Zenly](https://zenly.com/) - Social Map App
 * [EVMap](https://github.com/johan12345/EVMap) - Electronic Vehicle Charging Map
+* [EVNotify](https://evnotify.com/) - Electric Vehicle Monitor / Notifications
 * [LavSeeker](https://f-droid.org/en/packages/org.woheller69.lavatories/) - Public Toilet Map
 * [Transportr](https://transportr.app/) - Public Transport Assistant
 * [AntennaSearch](http://www.antennasearch.com/) - Cell Tower / Antenna Search
@@ -303,6 +304,7 @@
 * [Shitter](https://github.com/nuclearfog/Shitter) or [Harpy](https://github.com/robertodoering/harpy) - Twitter Client
 * [NGL](https://ngl.link/) - Instagram Secret Sharing App
 * [Google Lens](https://lens.google/) - Multiple Camera Tools
+* [FreeDcam](https://github.com/KillerInk/FreeDcam) - Enable Hidden Camera Features
 * [Photok](https://github.com/leonlatsch/Photok), [Stingle Photos](https://stingle.org/), [Ente](https://ente.io/) or [No See You](https://baixarapk.gratis/en/app/1186829987/photo-vault-noseeyou) - Photo / Video Galleries
 * [Widgetshare](https://play.google.com/store/apps/details?id=com.galew.widgetshare) - Photo Sharing App
 * [PhotoSync](https://www.photosync-app.com/home.html) - Transfer Photos Between Devices
@@ -367,7 +369,7 @@
 * [BlueClover](https://github.com/nnuudev/BlueClover) or [Chan](https://github.com/moffatman/chan) - 4Chan Browser
 * [LoliSnatcher Droid](https://github.com/NO-ob/LoliSnatcher_Droid) - Booru Client
 * [Flutter News](https://github.com/CoderJava/Flutter-News-App) - News
-* [Hacki](https://github.com/Livinglist/Hacki) - Hacker News
+* [Hacki](https://github.com/Livinglist/Hacki) or [Glider](https://github.com/Mosc/Glider) - Hacker News
 * [ServeIt](https://github.com/many-fac3d-g0d/ServeIt) - Android HTTP Server
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - Easily Open Links in Text via Share Function
 * [Ponydroid](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ponydroid), [Jdownloader](https://my.jdownloader.org/), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - Download File Manager / [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)
@@ -550,6 +552,7 @@
 * [5Play](https://5play.ru/en/) - Modded
 * [iHackedit](http://ihackedit.com/) - Modded
 * [Modules Repositor](https://t.me/modulesrepo) - Modded
+* [APK Boat](https://apkboat.com/en) - Modded
 * [AndroPalace](https://www.andropalace.org/) - Modded
 * [HostAPK](https://www.hostapk.com/) - Modded
 * [APK Home](https://apkhome.net/) - Modded
@@ -870,7 +873,7 @@
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - Chinese Drama 
 * [aDrama](https://adrama.online/) - Asian Drama / [Addons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_adrama_addons)
 * [Amnis](https://play.google.com/store/apps/details?id=com.amnis) - Stream Videos from Torrents
-* [RSS Player](https://play.google.com/store/apps/details?id=pis.android.rss.rssplayer&amp;hl=en_US) - KDrama / [Feed](http://allrss.se/dramas ), [2](http://myrss.nu/drama)
+* [RSS Player](https://play.google.com/store/apps/details?id=pis.android.rss.rssplayer&amp;hl=en_US) - KDrama / [Feed](http://allrss.se/dramas), [2](http://myrss.nu/drama)
 * [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [YetAnotherVideoPlayer](https://github.com/shadow578/YetAnotherVideoPlayer), [Nova Video Player](https://github.com/nova-video-player), [Just Player](https://github.com/moneytoo/Player), [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata), [ExoPlayer](https://github.com/google/ExoPlayer) or [MX Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mx_player) / [Codec](https://github.com/USBhost/MX_FFmpeg) - Video Player
 * [Drive Stream](https://github.com/itsZECHS/DriveStream) or [Thunder](https://github.com/anujd64/Thunder/) - GDrive Video Player
 * [SyncPlayer](https://f-droid.org/en/packages/io.github.powerinside.syncplay/) - Video Sync App
