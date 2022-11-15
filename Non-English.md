@@ -619,6 +619,7 @@
 * [Watch-Movies](https://www.watch-movies.com.pk/) - Movies
 * [HindiLover](https://hindilover.biz/) - TV
 * [playdesi](https://playdesi.net/) - Movies / TV
+* [MovieHDPlus](https://www.moviehdplus.com/) -  Movies / TV
 * [desicinemas](https://desicinemas.tv/) - Movies / TV
 * [moviemora](https://moviemora.com/), [2](https://111.90.159.132/) - Movies / TV
 * [toroflixhd](https://toroflixhd.ml/) - Movies / TV
@@ -1906,7 +1907,7 @@
 * [FBVN](https://chrome.google.com/webstore/detail/hlnhbiajcpmjpgpedgfdigiccejengbi) or [L.O.C](https://chrome.google.com/webstore/detail/eojdckfcadamkapabechhbnkleligand) - Friends Filter for Facebook
 * [123Note](https://123note.net/), [Notepad](https://notepad.vn/), [GhiChu](https://ghichu.vn/) - Notepad Tools
 * [Random](https://random.com.vn/), [QuaySo](https://quayso.vn/) or [NgauNhien](https://ngaunhien.vn/) - Random Tools
-* [FPT.AI](https://fpt.ai/vi/tts) - Text to Speech
+* [FPT.AI](https://fpt.ai/vi/tts) or [vbee](https://www.vbee.vn/) - Text to Speech
 * [EPhoto360](https://ephoto360.com/), [ThiepMung](https://thiepmung.com/), [HieuUngAnh](https://hieuunganh.com/), [ThiepHay](https://thiephay.com/), [KhungAnh](https://khunganhonline.com/) or [TaoCover](https://taocover.com/) - Photo Effects
 * [KiemTraIP](https://kiemtraip.com/), [IPCuaToi](https://ipcuatoi.com/) - IP Checkers
 * [hostsVN](https://bigdargon.github.io/hostsVN/), [iBlockAds](https://iblockads.net/) or [FMSF2](https://nmtrung.com/fmsf-2/) - Vietnamese Adblock Filters
@@ -2064,7 +2065,7 @@
 * [CineVood](https://cinevood.homes/) - Download / Movies
 * [Mallumv](https://mallumv.run/), [2](https://tttttt.me/mallumvoff) - Download / Movies
 * [DVDPlay](https://dvdplay.sbs/) - Download / Movies
-* [Movies Point](https://sdmoviespoint.city/) - Download / Movies
+* [Movies Point](https://sdmoviespoint.fit/) - Download / Movies
 * [SSR Movies](https://www.ssrmovies.wine/) - Download / Movies / [Telegram](https://t.me/SSRmovies2022), [2](https://telegram3.xyz/)
 * [MkvMoviesPoint](https://mkvmoviespoint.one/) - Download / Movies / [Telegram](https://telegram.me/mkvpoint)
 * [Pendujatt](https://www.pendujatt.net/) - Download / Music
