@@ -363,7 +363,7 @@
 * [YugenAnime](https://yugen.to/) - Sub / Dub
 * [Animegg](https://www.animegg.org/) - Sub / Dub
 * [Kawaiifu](https://kawaiifu.com/) - Sub / Dub
-* [AnimeFox](https://animefox.io/) - Sub / Dub / [Discord](https://discord.com/invite/GCEgdpdRTM)
+* [AnimeFox](https://animefox.io/) - Sub / Dub / [Discord](https://discord.com/invite/z2BSpXheN9)
 * [AnimeHeaven](https://animeheaven.ru/) - Sub / Dub 
 * [AnimeDao](https://animedao.to/) - Sub
 * [MasterAni](https://www.masterani.one/) - Sub / Dub
