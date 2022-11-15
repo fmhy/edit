@@ -490,6 +490,7 @@
 * [Encyclopaedia Iranica](https://www.iranicaonline.org/) - Iranian Culture Encyclopedia
 * [Encyclopedia Of Indo-European Culture](https://archive.org/details/EncyclopediaOfIndoEuropeanCulture/) - Indo-European Culture Encyclopedia
 * [Indigenous Peoples in Brazil](https://pib.socioambiental.org/en/Main_Page) - Brazilian Indigenous Culture Encyclopedia
+* [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
 * [TheDailyIdea](https://thedailyidea.org/reading-lists), [2](https://thedailyidea.org/philosophy-syllabi-collection/) - Philosophy 
 * [APAOnline](https://www.apaonline.org/) - Philosophy 
 * [Philosophy Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_philosophy_drive) - Philosophy 
