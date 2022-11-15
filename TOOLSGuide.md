@@ -979,7 +979,7 @@
 * [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) or [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - TikTok Search 
 * [tumbex](https://www.tumbex.com/) - Tumblr Search
 * [Mibbit](https://search.mibbit.com/) - IRC Channel Search
-* [dato.rss](https://datorss.com/), [CTRLQ](https://ctrlq.org/rss/) or [RSS.app](https://rss.app/) - RSS Feeds Search Engines
+* [RSS.app](https://rss.app/) - RSS Feed Search Engine
 * [AlsoAsked](https://alsoasked.com/) - Related Search Tool
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - Search Engine for Lightweight Web Pages
 * [Search My Site](https://searchmysite.net/) - Search Engine for Independent and Personal websites / Open Source
