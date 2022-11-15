@@ -87,7 +87,7 @@
 * [OpenTTD](https://www.openttd.org/) - Transport Tycoon Remake
 * [OpenNox](https://github.com/noxworld-dev/opennox) - Nox Revival Project
 * [London 2038](https://london2038.com/) - London 2038 Multiplayer Revival Project
-* [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Space Cadet Pinball Decompilation
+* [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball), [2](https://github.com/Iscle/SpaceCadetPinball) - Space Cadet Pinball
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
 * [PokemonRevolution](https://pokemonrevolution.net/) - Pokemon MMO
 * [Puyo Puyo VS](https://puyovs.com/) - Puyo Puyo Clone
@@ -362,7 +362,8 @@
 * [LegendsWorld](https://www.legendsworld.net/) - Retro Adventure PC Games
 * [MSXGamesWorld](https://msxgamesworld.com/index.php) or [MSXAbandonware](http://msxabandonware.com/en/home) - MSX Games
 * [ROMs For MAME](https://www.romsformame.com/) - Arcade MAME ROMs
-* [The Outdated Arcade](https://discord.gg/SPZpMpntj9) - Game Preservation Server 
+* [The Outdated Arcade](https://discord.gg/SPZpMpntj9) - Game Preservation Server
+* [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs 
 * [Japanese PC Compendium](http://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
 * [TOSEC](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_tosec) - The Old School Emulation Center
 * [Tiny8bit](https://floooh.github.io/tiny8bit/) or [Piepacker](https://piepacker.com/) - Retro Game Browser Emulators
@@ -465,6 +466,7 @@
 * [Gamepix](https://www.gamepix.com/)
 * [KibaGames](https://www.kibagames.com/)
 * [HTML5 Games](https://html5games.com/) / [Browser](http://html5.thebestarcadescript.com/)
+* [yell0wsuit](https://yell0wsuit.page/html5-games/index.html)
 * [Kizi](https://kizi.com/) 
 * [Gamaverse](https://gamaverse.com/) 
 * [FOG](https://www.freeonlinegames.com/) 
@@ -545,6 +547,7 @@
 * [Clicking Bad](http://clickingbad.nullism.com/) - Clicker Game / Become Walter White 
 * [The Wiki Game](https://www.thewikigame.com/), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) or [WikiRacer](https://wikiracer.io/) - Find the Shortest Path between Wiki Articles / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)
 * [GeoFS](https://www.geo-fs.com/geofs.php) - Plane Simulator
+* [Money Simulator](https://simulator.money) - Money Simulator
 * [Classic Minecraft](https://classic.minecraft.net/) - Play Classic Minecraft 
 * [Marble Blast Gold Web](https://marbleblast.vani.ga/) - Marble Blast Gold in Browser
 * [The Multiverse](https://across-multiverse.com/) - Universe Exploration Game Across
@@ -562,6 +565,7 @@
 * [Kingdom of Loathing](https://www.kingdomofloathing.com/) - Comedy RPG 
 * [Bruno-Simon](https://bruno-simon.com/) - Truck Driving Game
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
+* [SlowRoads](https://slowroads.io/) - Endless Driving Game
 * [A Leaf on the Wind](http://anism.org/lotw/) - Leaf Arcade Game 
 * [Polka Dot Game](https://www.polkadotgame.com/) - Dodge & Eat Dots
 * [Spinner](https://hyperspace-wizard.itch.io/spinner) - Spinner Timing Game
