@@ -135,9 +135,6 @@
 * [testsafebrowsing](https://testsafebrowsing.appspot.com/) - Safe Browsing Testing Links 
 * [Standaloneinstaller](https://standaloneinstaller.com/) - Check Software Safety
 * [Dangerzone](https://dangerzone.rocks/) - Convert dangerous PDF to safe PDF
-* [ThreatMap](https://threatmap.checkpoint.com/) - Live Malware Distribution Map
-* [VirusShare](https://virusshare.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malware Search
-* [X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Security Threat Intelligence Platform
 * [CVE Details](https://www.cvedetails.com/) - CVE Details
 * [Web Of Trust](https://www.mywot.com/), [Talos](https://talosintelligence.com/) or [ScamRate](https://www.scamrate.com/) - Check Website Safety 
 * [ThreatLog](https://www.threatlog.com/) - Malicious Domain Database
