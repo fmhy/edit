@@ -384,6 +384,7 @@ Simulator
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
 * [EverySecond](https://everysecond.io/) - Visualize Per Second Data
 * [Internet Live Stats](https://www.internetlivestats.com/) - Live Internet Statistics
+* [Stat Counter](https://gs.statcounter.com/) - Search Engine, Browser and OS Statistics
 * [The Federation](https://the-federation.info/) - Fediverse Statistics
 * [US Debt Clock](https://www.usdebtclock.org/) - US Debt Clock
 * [Statista](https://www.statista.com/) - Market Statistics
@@ -525,7 +526,7 @@ Simulator
 * [refold.la](https://refold.la/roadmap) - Language Learning Guide 
 * [clozemaster](https://www.clozemaster.com/) - Context Based Language Learning
 * [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - Language Learning Flashcards
-* [Learn English Online](http://www.learn-english-online.org/), [EnglishCentral](https://www.englishcentral.com/), [ESLFast](https://www.eslfast.com/), [TalkEnglish](https://www.talkenglish.com/), [AntiMoon](https://www.antimoon.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons), [Voscreen](http://voscreen.com/), [elllo](https://www.elllo.org/) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - Learn English
+* [Learn English Online](http://www.learn-english-online.org/), [EnglishCentral](https://www.englishcentral.com/), [ESLFast](https://www.eslfast.com/), [TalkEnglish](https://www.talkenglish.com/), [AntiMoon](https://www.antimoon.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons), [Voscreen](http://voscreen.com/), [yell0wsuit](https://yell0wsuit.page/english.html), [elllo](https://www.elllo.org/) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - Learn English
 * [Listening Lab](https://www.esl-lab.com/) - English Listening Practice
 * [Podcasts in English](https://www.podcastsinenglish.com/) - English Learning Podcasts
 * [Free4Talk](https://www.free4talk.com/) or [Speaking24](http://www.speaking24.com/) - English Practice Community
@@ -786,6 +787,7 @@ Simulator
 * [Geograph WorldWide](https://www.geograph.org/) - Worldwide Photographs
 * [Flaggr](https://flaggr.me/) - Country Flag Quiz
 * [Flagpedia](https://flagpedia.net/) or [US Flags](https://usflags.design/) - Flag Indexes
+* [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
 * [The True Size](https://thetruesize.com/) - Compare Country Size 
 * [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
 * [JoinUS World](https://www.joinusworld.org/) - Korean Culture Q&A Site
