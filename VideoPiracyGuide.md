@@ -396,6 +396,7 @@
 * [BestDubbedAnime](https://bestdubbedanime.com/) - Dub
 * [tenshi.moe](https://tenshi.moe/) - Sub / Dub
 * [AnimeGuru](https://www.animeguru.net/) - Sub / Dub
+* [An9where](https://an9where.vercel.app/) - Sub / Dub
 * [AnimeEpisodes](https://ww6.animesepisodes.com/) - Sub / Dub
 * [AnimeFrenzy](https://animefrenzy.vip/) - Sub 
 * [Crimsonfansubs](https://crimsonfansubs.com/) - Sub
@@ -414,7 +415,7 @@
 * [Crunchyroll iFrame Player](https://greasyfork.org/en/scripts/411391-crunchyroll-iframe-player) - Crunchyroll Premium Bypass Script / [GitHub](https://github.com/Mateus7G/crp-iframe-player)
 * [Themes.moe](https://themes.moe/), [2](https://staging.animethemes.moe/wiki/) - Anime Opening & Ending Themes
 * [AnimeMusicVideos](https://www.animemusicvideos.org/) - Fan-Made Anime Music Videos
-* [Clip Tori](https://cliptori.com/) - Anime Clips
+* [Clip Tori](https://cliptori.com/) or [Anime Clips](https://discord.gg/5UXfcJf4Hj) - Anime Clips
 * [Animeflix](https://github.com/chirag-droid/animeflix) - Sub / Dub / Self-Hosted
 
 ***
@@ -515,7 +516,8 @@
 * ⭐ **[StreamLinks](https://reddits.soccerstreamlinks.com/)**, [2](https://red.soccerstreams.net/), [3](https://footybite.cc/) - Sports
 * ⭐ **[Reddit Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_streams)** - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
-* ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [2](https://github.com/iptv-org/iptv) - IPTV Resources / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
+* ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [2](https://github.com/iptv-org/iptv) - IPTV Resources
+* ⭐ **IPTV Tools** - [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/) / [m3u to txt](https://siptv.eu/converter/) / [M3U Editor](https://m3u4u.com/) / [Dummy EPG](https://github.com/yurividal/dummyepgxml)
 * [TOTV](http://totv.org/) - TV / Sport
 * [IPTV Web](https://dev-iptv.web.app/) - TV / Sport
 * [123TV](http://123tv.live/) - TV / Sports
@@ -656,6 +658,7 @@
 * [HDMP4Mania](https://hdmp4mania1.net/showcat.php?catid=2) - Movies
 * [DDLBase](https://ddlbase.net/) - Movies / TV
 * [megaDDL](https://megaddl.co/) - Movies / TV
+* [StarsDDL](https://starsddl.me/) - Movies / TV
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
 * [EE3](https://ee3.me/) - Movies / Invite Code: mpgh
 * [Reqzone](https://reqzone.com/) - Movies / TV
