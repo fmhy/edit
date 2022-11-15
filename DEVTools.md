@@ -18,12 +18,13 @@
 * ⭐ **[Programming / Coding Tutorials](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_coding_tutorials)**
 *  ⭐ **[Free Courses by Xemu](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_free_courses_by_xemu)** - Programming Course Drives
 * ⭐ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - Read / Download Programming Books
+* [GitHub Docs](https://docs.github.com/en) - GitHub Help Documentation
 * [Git Tutorial](https://4geeksacademy.github.io/git-interactive-tutorial/) - Interactive Git Tutorial
 * [Git Exercises](https://gitexercises.fracz.com/) - Git Learning / Practice
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - Git Learning Game
 * [Git-it](https://github.com/jlord/git-it-electron) - Git Desktop Learning App
-* [Github Cheat Sheet](http://git.io/sheet) / [GitHub](https://github.com/tiimgreen/github-cheat-sheet) - Github Cheat Sheet
-* [First Timers Only](https://www.firsttimersonly.com/) - Git Code Contribution Guides
+* [Github Cheat Sheet](http://git.io/sheet) / [GitHub](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
+* [First Timers Only](https://www.firsttimersonly.com/) or [First Contributions](https://firstcontributions.github.io/) - Git Code Contribution Guides
 * [Developer.Mozilla](https://developer.mozilla.org/) - Developer Resources 
 * [Awesome Certificates](https://github.com/PanXProject/awesome-certificates) - Dev Courses with Certificates
 * [DZone](https://dzone.com/) - Developer Tutorials
@@ -62,7 +63,7 @@
 * [LintCode](https://www.lintcode.com/) or [CodeWars](https://www.codewars.com/) - Coding Practice
 * [Coding Questions](https://platform.stratascratch.com/coding) - Coding Interview Questions 
 * [Code With Mosh Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_code_with_mosh_courses)
-* [Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources) - Cybersecurity Learning Resources
+* [Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources) or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources
 * [picoCTF](https://picoctf.org/), [CTFLearn](https://ctflearn.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
 * [DefendTheWeb](https://defendtheweb.net/) - Cybersecurity Challenges
 * [Cyber Talent Kids](https://cybertalentskids.com/) - Learn About Cybersecurity
@@ -274,6 +275,9 @@
 * [Advisory Database](https://github.com/github/advisory-database) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
 * [osquery](https://github.com/osquery/osquery) - Security Monitor
 * [Crowdsec](https://crowdsec.net/) - Crowd-Sourced Intrusion Detection / Prevention / [GitHub](https://github.com/crowdsecurity/crowdsec)
+* [X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Security Threat Intelligence Platform
+* [ThreatMap](https://threatmap.checkpoint.com/) or [CyberMap](https://cybermap.kaspersky.com/) - Live Malware Distribution Maps
+* [VirusShare](https://virusshare.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malware Search
 * [The Void](https://www.thevoid.community/) - Software Incident Reports
 * [Fail2Ban](https://www.fail2ban.org/wiki/index.php/Main_Page) - Protect Servers from Brute Force Attacks / [GitHub](https://github.com/fail2ban/fail2ban)
 * [Pentest Contracts](https://github.com/cure53/Contracts) - Security Contract Templates
@@ -644,6 +648,7 @@ Automated Incident Response and Forensics Framework
 * [Inno Setup](https://jrsoftware.org/isinfo.php), [Fileforums Premade Installers](https://github.com/LeFishe/fileforums-premade-installers), [InstallForge](https://www.installforge.net/) or [ActualInstaller](https://www.actualinstaller.com/) - Create Installation Programs
 * [7.css](https://khang-nd.github.io/7.css/) or [Botox Party](https://botoxparty.github.io/XP.css/) - Create Oldschool Style UI's
 * [Amplication](https://amplication.com/) - Create Node.js Apps
+* [Textualize](https://www.textualize.io/) - Create Text User Interfaces
 * [Ink](https://github.com/vadimdemedes/ink) - Create Interactive CLI Apps
 * [smenu](https://github.com/p-gen/smenu) - Create CLI Menus
 * [Enquirer](https://github.com/enquirer/enquirer) or [Prompts](https://github.com/terkelg/prompts) - Create CLI Prompts
@@ -707,6 +712,7 @@ Automated Incident Response and Forensics Framework
 * [Kali NetHunter](https://store.nethunter.com/en/) - Penetration Testing / Forensics Apps
 * [MobileApp-Pentest-Cheatsheet](https://github.com/fuzz-security/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
 * [Uiautomator2](https://github.com/openatx/uiautomator2) or [Appium](http://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
+* [SigNoz](https://signoz.io/) - Detect App Issues
 * [MSTG](https://github.com/OWASP/owasp-mstg) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
 * [jadx](https://github.com/skylot/jadx) - Dex to Java Decompiler
 * [Privado](https://github.com/Privado-Inc/privado) - Generate App Privacy Reports
@@ -872,6 +878,7 @@ Automated Incident Response and Forensics Framework
 
 ## ▷ Git Tools
 
+* ⭐ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)** 
 * ⭐ **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [awesome-lis](https://github.com/topics/awesome-list) or [awesome-github](https://github.com/fffaraz/awesome-github) - List Indexes
 * [GitLab](https://about.gitlab.com/), [FSFE](https://git.fsfe.org/) or [NotABug](https://notabug.org/) - GitHub Alternatives
 * [GitHubStatus](https://www.githubstatus.com/) - GitHub Outage Status
@@ -902,7 +909,6 @@ Automated Incident Response and Forensics Framework
 * [Gittyup](https://murmele.github.io/Gittyup/) - Git Source Code History
 * [Pew Pew](https://adrianmato.com/pewpew) - Cleanup Unused Repos
 * [git](https://git-scm.com/) - Version Control System
-* [Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects) 
 * [Awesome First PR Oppotunities](https://github.com/MunGell/awesome-for-beginners) - Beginner Friendly FOSS Project Index
 * [Git Extensions](https://gitextensions.github.io/) or [Thermal](https://thermal.codecarrot.net/) - Git Repository Manager
 * [GitZip](https://gitzip.org/) or [DownGit](https://minhaskamal.github.io/DownGit) - Download GitHub Repository Sub-Folders / Files
@@ -1098,8 +1104,7 @@ Automated Incident Response and Forensics Framework
 * [CodeGrepper](https://www.codegrepper.com/) - Code Search Extension
 * [ShortCode](https://shortcode.dev/), [Google Code Archive](https://code.google.com/archive/), [CodeList](https://www.codelist.cc/) or [bl.ocks](https://bl.ocks.org/) - Script / Code Indexes
 * [MoonScript](https://moonscript.org/) - Dynamic Scripting Language
-* [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/), [2](https://carbon.now.sh/) - Source Code Screenshot Tool
-* [ray.so](https://ray.so/), [Chalk](https://chalk.ist/) or [Show Code](https://showcode.app/) - Create Code Images
+* [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/), [2](https://carbon.now.sh/), [ray.so](https://ray.so/), [Chalk](https://chalk.ist/), [CodePNG](https://www.codepng.app/) or [Show Code](https://showcode.app/) - Create Code Images
 * [Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering) - Reverse Engineering Resource Index
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code
 * [thefuck](https://github.com/nvbn/thefuck) - Corrects Previous Console Command
