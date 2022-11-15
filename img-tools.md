@@ -216,7 +216,7 @@
 * [Glittereyez](http://ge.silentears.net/) - Glitter GIFs
 * [Online GIF Tools](https://onlinegiftools.com/) - GIF Tools
 * [EZGif](https://ezgif.com/), [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFMemes](https://gifmemes.io/), [gifexplosion](https://gifexplosion.com/app.php), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Pixteller](http://pixteller.com/) - GIF Creator / Editor
-* [EatMyArt](https://www.eatmy.art/) - Create GIFs from Drawings
+* [EatMyArt](https://www.eatmy.art/) or  [Sketch Machine](https://sketchmachine.net/) - Create GIFs from Drawings
 * [GIF Explode](https://gif-explode.com/) - Split GIFs Into Frames
 * [GIF Reverse](https://gifreverse.com) - Reverse GIFs
 * [Kinegram](https://kinegram.app/) - Kinegram GIF Creator
@@ -296,7 +296,6 @@
 * [Pixelart 3D Painting](https://lampysprites.itch.io/pribambase) - 3D Pixel Art Painting
 * [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) , [Pixel Sprite](https://deep-fold.itch.io/pixel-sprite-generator) or [Creature Mixer](https://kenney.itch.io/creature-mixer) - Sprite Generator
 * [Nasu](https://hundredrabbits.itch.io/nasu) - Spritesheet Editor
-* [LibreSprite](https://libresprite.github.io/), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
 * [Curve](https://iseenbaas.nl/curve/) - Create Pixelated Curve
 * [Petmate](https://nurpax.github.io/petmate/) - C64 PETSCII Image Editor
 * [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - Scale Pixel Art w/o Quality Loss
