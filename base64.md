@@ -406,13 +406,6 @@ pass: paluch
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWlRTWRxNXlLMEVCcWExZmdrbVFUZlc3RVdTZUpXWXZU`
 
-
-***
-
-#### Nikola
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9mbFlRR2J6SSNwMUFGanRNdUNMSFFxb2NKcXhWN3Jn`
-
 ***
 
 #### Novel Library Drive
