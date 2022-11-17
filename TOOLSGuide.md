@@ -996,8 +996,7 @@
 * [FindAGrave](https://findagrave.com/) - Gravestone Search
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - Telegram CSE
 * [ISearchFrom](http://isearchfrom.com/) - Change Location / Device for Google Search
-* [Google Search Operator Cheat Sheets](https://moz.com/learn/seo/search-operators), [2](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [3](https://ahrefs.com/blog/google-advanced-search-operators/), [4](https://l-lists.com/en/lists/m1mdwx.html), [5](https://github.com/BushidoUK/OSINT-SearchOperators)
-* [Google Search Guide](https://moz.com/blog/the-ultimate-guide-to-the-google-search-parameters) + [Advanced](https://coursebuilder.withgoogle.com/)
+* [Google Search Operator Cheat Sheets](https://moz.com/learn/seo/search-operators), [2](https://moz.com/blog/mastering-google-search-operators-in-67-steps), [3](https://ahrefs.com/blog/google-advanced-search-operators/), [4](https://l-lists.com/en/lists/m1mdwx.html), [5](https://github.com/BushidoUK/OSINT-SearchOperators), [6](https://coursebuilder.withgoogle.com/)
 * [sitedorks](https://github.com/Zarcolio/sitedorks), [Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list/), [Google Dork List](https://www.boxpiper.com/posts/google-dork-list) or [DorkSearch](https://www.dorksearch.com/) - Google Search Dorks
 * [Yandex Search Operator Cheat Sheets](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/), [3](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
 * [rfc.fyi](https://rfc.fyi/) - RFC Search
