@@ -97,6 +97,7 @@
 * [WhatDog](https://www.bing.com/visualsearch/Microsoft/WhatDog) - Dog Breed Identification Tool 
 * [tusk](https://tusk.page/) or [AnonReply](https://anonreply.com/) - Give & Receive Anonymous Feedback 
 * [Familypedia](https://familypedia.fandom.com/), [Gramps](https://gramps-project.org/blog/) or [WikiTree](https://wikitree.com/) - Family Trees
+* [Ravelry](https://ravelry.com) - Fiber Artist Tools
 * [DreamForth](http://www.dreamforth.com/) - Dream Interpretations
 * [Delphi](https://delphi.allenai.org/) - Morality Judgement A.I.
 * [ThistoThat](http://www.thistothat.com/) - How to Glue Anything to Anything
@@ -161,12 +162,13 @@
 * [ConvertText](https://converttext.io/) - Text Converter
 * [Text File Splitter](https://textfilesplitter.com/) - Text File Splitter
 * [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - Rephrase / Paraphrase Text
-* [Neble](https://neble.app/summary) - Sunmarize Text
+* [Neble](https://neble.app/summary) - Summarize Text
 * [Linguix](https://linguix.com/), [HyperWrite](https://hyperwriteai.com/) or [TextCleanr](https://www.textcleanr.com/) - Writing Assistant
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
 * [phraseup](http://www.phraseup.com/) - Autocomplete Common Phrases 
 * [Transformer](https://transformer.huggingface.co/), [OpenAI](https://beta.openai.com/playground), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en), [TextSynth](https://textsynth.com/playground.html), [MagicPrompt](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion) or [Talk to Transformer](https://app.inferkit.com/demo) - Text Autocomplete
 * [EleutherAI](https://6b.eleuther.ai/) or [Essaytyper](http://www.essaytyper.com/) - Text / Story Autocomplete
+* [EssayGen](https://github.com/daijro/EssayGen/) - Essay Autocomplete
 * [SongLyricsGenerator](http://www.songlyricsgenerator.com/) or [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) - Generate Fake Song Lyrics
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [Infinite Story](https://infinite-story.com/), [Storylocks](https://www.storylocks.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Story Writing
@@ -231,6 +233,7 @@
 * [UpsideDown Text](https://www.upsidedowntext.com/) - Generate Upside Down Text
 * [I or l?](https://iorl.info/) / [2](https://www.iorl.org/) - Is it an uppercase "i", or is it a lowercase "L"?
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursive Search Tool
+* [Textify](https://ramensoftware.com/textify) - Copy Text from Any Dialog
 * [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/), [Snskey](https://snskeyboard.com/), [Unilist](https://unilist.raphaelbastide.com/), [Alt Codes](https://alt-codes.net/) or [Cool Symbol](https://coolsymbol.com/) - Copy & Paste Unicode Characters
 * [BlankText](https://blanktext.net/) - Copy / Paste Blank Spaces 
 * [Donger List](http://dongerlist.com/) - 600+ Unicode Emoticons 
@@ -302,7 +305,7 @@
 * [Chat-Downloader](https://github.com/xenova/chat-downloader) - Retrieve Chat Messages from Livestreams
 * [PlayPhrase](https://playphrase.me/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/), [2](https://getyarn.io/) - Clip Quote Search Engine
 * [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Video / Audio Recorder, Converter & Streaming
-* FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Builds](https://github.com/BtbN/FFmpeg-Builds) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730) / [Script](https://codeberg.org/Denshi/Scripts/src/branch/master/cvrt)
+* FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Builds](https://github.com/BtbN/FFmpeg-Builds) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial), [2](https://ffmpeg.guide/) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730) / [Script](https://codeberg.org/Denshi/Scripts/src/branch/master/cvrt)
 * [VideoProc](https://www.videoproc.com/) or [Libav](https://www.libav.org/) - Video Processing Software
 * [DJV](https://darbyjohnston.github.io/DJV/) - Professional Video Review Player
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - SWF to Video Converter
@@ -499,7 +502,7 @@
 * [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels 
 * [Deemixrr](https://github.com/TheUltimateC0der/Deemixrr) - Automated Music Manager 
 * [FFmpeg](https://ffmpeg.org/) - Video / Audio Recorder, Converter & Streaming
-* FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom), [3](https://jeanslack.github.io/Videomass/) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite)
+* FFmpeg Tools - [Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Builds](https://github.com/BtbN/FFmpeg-Builds) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial), [2](https://ffmpeg.guide/) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730) / [Script](https://codeberg.org/Denshi/Scripts/src/branch/master/cvrt)
 * [Arduino Audio Tools](https://github.com/pschatzmann/arduino-audio-tools) - Audio Recorder
 * [SonoBus](https://sonobus.net/) - Audio Server for Streaming
 * [Audio Converters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_converters) - Audio Conversion Sites & Programs
@@ -688,6 +691,7 @@
 * [GoodJobsFirst](https://www.goodjobsfirst.org/) - Subsidy Tracker
 * [Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms) - Project Management Tools
 * [Airtable](https://www.airtable.com/) - Build Collaborative Apps
+* [PolyWork](https://www.polywork.com/) - Collaboration Search
 * [PHPCRM](https://www.phpcrm.com/) - Company Management Software
 * [SplitBee](https://splitbee.io/) - Business Analytics Tool
 * [Invoicely](https://invoiceto.me/), [InvoiceNinja](https://invoiceninja.com/), [Akaunting](https://akaunting.com/) or [Crater](https://craterapp.com/) - Invoicing Tools
@@ -800,6 +804,7 @@
 * [irc2go](https://en.irc2go.com/) - Browse IRC Chat Rooms
 * [LAN Messenger](https://lanmessenger.github.io/) - FOSS LAN Messenger / [GitHub](https://github.com/lanmessenger/lanmessenger)
 * [Cabal](https://cabal.chat/) - P2P Chat / [GitHub](https://github.com/cabal-club)
+* [BlueBubbles](https://bluebubbles.app/) - iMessage Client
 * [Slink](https://slink.chat/) - Aim Inspired Chat Client
 * [ARP Chat](https://github.com/kognise/arpchat) - ARP Chat Client
 * [Rocket Chat](https://rocket.chat/) - Self-Hosted Chat Client
@@ -918,7 +923,7 @@
 * [StockBrowser](https://stackbrowser.com/), [Rambox](https://rambox.app/) or [Tangram](https://github.com/sonnyp/Tangram) - Web App Browser
 * [Browserling](https://www.browserling.com/) - Browser Emulators
 * [n.eko](https://neko.m1k1o.net) / [Github](https://github.com/m1k1o/neko) - Self-Hosted Virtual Browser
-* [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chrome without Google
+* [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chrome without Google / [Launcher](https://github.com/henrypp/chrlauncher)
 * [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
 * [Safari Windows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_safari_windows) - Safari for Windows
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) - Prevent Firefox Memory Leaks 
@@ -1218,7 +1223,7 @@
 * [Acrylic](https://github.com/xirreal/Acrylic) - Glass Theme
 * [WinClassic](https://github.com/SlippingGitty/WinClassic) - Classic Windows Theme
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
-* [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - Use Discord Emojis without Nitro 
+* [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) or [ImageClipboard](https://imageclipboard.com/) - Use Discord Emojis without Nitro 
 * [Slackmoji](https://github.com/seanprashad/slackmoji), [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis), [NitroEmoji](https://github.com/D3JF/NitroEmoji) or [emoji.gg](https://emoji.gg/) - Discord Emojis
 * [Emote Manager](https://github.com/EmoteBot/EmoteManager) - Custom Discord Emoji Manager 
 * [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - Discord Emoji Downloaders
@@ -1291,6 +1296,7 @@
 * [DateTimeCord](https://datetimecord.rauf.wtf/) - Discord Date & Time Formatting Tool
 * [Dank.tools](https://dank.tools/) - Time Tag Generator
 * [Discord Text to Emoji](https://jtprince.com/discord/) - Emoji Discord Text
+* [Discord Splitter](https://hoodedice.github.io/discord-splitter/) - Discord Wall of Text Splitter
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - Automod Bot Config
 * [Dyno](https://dyno.gg/) - Change Discord Discriminator w/o Nitro / [How-To](https://i.imgur.com/lHRD42c.png) 
 * [Discord.ID](https://discord.id/) - Lookup a Discord User or Bot ID 
@@ -1423,7 +1429,7 @@
 * [Recover My Video](https://www.recovermy.video/) - Recover Titles of Deleted / Private YouTube Videos
 * [youtubecrawl](https://archive.org/details/youtubecrawl) - YouTube Video Archive  
 * [TwitchTheater](https://twitchtheater.tv/), [YouTube Multiplier](http://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
-* [Campfire](https://campfire.gg), [Walrus](https://joinwalrus.tv/), [SyncTube](https://synctube.xyz/), [Sync-Tube](https://sync-tube.de/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
+* [Campfire](https://campfire.gg), [Walrus](https://joinwalrus.tv/), [Vynchronize](https://vynchronize.herokuapp.com/), [SyncTube](https://synctube.xyz/), [Sync-Tube](https://sync-tube.de/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
 * [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer) - Video Web Player
 * [HookTube](https://hooktube.com/) - View YouTube Videos on Lightweight Page / [Redirect Script](https://greasyfork.org/en/scripts/24163-youtube-unblocker) 
 * [myTube](https://github.com/keitharm/mytube) - Bloat Free YouTube Client
@@ -1754,7 +1760,7 @@ Twitch Stream Tracker
 * [Macrium Reflect](https://www.macrium.com/reflectfree) - System Benchmarking
 * [poclmembench](https://github.com/kruzer/poclmembench) or [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
 * [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking 
-* [Netdata](https://www.netdata.cloud/), [bottom](https://github.com/ClementTsang/bottom), [MangoHud](https://github.com/flightlessmango/MangoHud), [OpenHardwareMonitor](https://openhardwaremonitor.org/) / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor), [btop](https://github.com/aristocratos/btop), [Glances](https://nicolargo.github.io/glances/) or [WinBar](http://www.winbar.nl/) - System Monitor
+* [Netdata](https://www.netdata.cloud/), [bottom](https://github.com/ClementTsang/bottom), [MangoHud](https://github.com/flightlessmango/MangoHud), [OpenHardwareMonitor](https://openhardwaremonitor.org/) / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor), [btop](https://github.com/aristocratos/btop), [Glances](https://nicolargo.github.io/glances/), [Taskbar Stats](https://openhoangnc.github.io/taskbar-stats/) or [WinBar](http://www.winbar.nl/) - System Monitors
 * [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - Windows System Utilities / [Suite](https://www.microsoft.com/EN-US/p/app/9P7KNL5RWT25) 
 * [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](http://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - Process Monitor
 * [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killer
@@ -1810,12 +1816,14 @@ Twitch Stream Tracker
 * [All Tasks Toolbar](https://winaero.com/create-all-tasks-god-mode-toolbar-windows-10/) - Create All Tasks God Mode Toolbar in Win 10 
 * [WindowsManager](https://www.eusing.com/WindowManager/WindowManager.htm), [AwesomeWM](https://awesomewm.org/), [LCARS](https://github.com/lcarsde/lcarswm) or [Compiz Fusion](http://www.compiz-fusion.org/) - Windows Managers
 * [AltSnap](https://github.com/RamonUnch/AltSnap) - Windows Dragging
+* [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features
 * [EverythingToolbar](https://github.com/stnkl/EverythingToolbar), [Hyper](https://github.com/hyperts/Hyper), [Awesome](https://github.com/nodgear/Awesome) or [Smart Taskbar](https://github.com/ChanpleCai/SmartTaskbar) - Taskbars
 * [Taskbar Groups](https://github.com/tjackenpacken/taskbar-groups) - Create Groups in Taskbar
+* [Taskbar Numberer](https://ramensoftware.com/7-taskbar-numberer) - Open App via Numbered Voice Commands
 * [uTaskManager](https://www.microsoft.com/en-us/p/utaskmanager/9nhvdhfbxrsv) - Alternative Taskbar
 * [OGHub](https://github.com/Wivon/OGHub) - Free Up Space in your Taskbar
 * [ButteryTaskbar](https://github.com/CrypticButter/ButteryTaskbar/) - Hide Taskbar When Start Menu is Closed
-* [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - Easily Hide / Show Taskbar
+* [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - Easily Hide / Show 
 * [MediaFlyout](https://github.com/krlvm/MediaFlyout) - Media Control Taskbar
 * [OneLaunch](https://onelaunch.com/) - Customizable Windows Dock
 * [CircleDock](http://circledock.wikidot.com/) - Circular Dock
@@ -2101,6 +2109,7 @@ Twitch Stream Tracker
 * [DownloadTimeCalculator](https://downloadtimecalculator.com/) - Calculate Time to Download Files
 * [Download Proxy](https://download-proxy.zhaofengying.com/) - File Proxy Server Downloader
 * [Files 2 Folder](https://www.dcmembers.com/skwire/download/files-2-folder/) - Create / Copy to Folders Created by File Name
+* [Path Copy Copy](https://pathcopycopy.github.io/) - Copy File Pathes via Context Menu
 * [File-Examples](https://file-examples.com/) - File Examples
 * [MyPhoneExplorer](https://www.fjsoft.at/) - Manage / Sync Your Phone with PC
 * [RollMyFile](https://rollmyfile.com/) - Open Files Online
