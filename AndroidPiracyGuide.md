@@ -27,7 +27,7 @@
 * [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - Block Spam Calls
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls 
 * [Should I Call Back?](https://should-i-call-back.binary-person.dev/) or [Scammer.Info](https://scammer.info/) / [Discord](https://discord.com/invite/nUThJjK) - Scam Numbers Database
-* [Slide](https://github.com/ccrama/Slide) / [2](https://f-droid.org/en/packages/me.ccrama.redditslide/), [Redditoria](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria), [RedReader](https://github.com/QuantumBadger/RedReader), [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit) / [2](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/), [Boost](https://boostforreddit.com/) or [Stealth](https://f-droid.org/packages/com.cosmos.unreddit/) / [2](https://gitlab.com/cosmosapps/stealth) - Ad Free Reddit Client
+* [Slide](https://github.com/ccrama/Slide) / [2](https://f-droid.org/en/packages/me.ccrama.redditslide/), [Redditoria](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria), [RedReader](https://github.com/QuantumBadger/RedReader), [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit) / [2](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/), [Redited](https://github.com/Blatzar/Redited), [Boost](https://boostforreddit.com/) or [Stealth](https://f-droid.org/packages/com.cosmos.unreddit/) / [2](https://gitlab.com/cosmosapps/stealth) - Ad Free Reddit Clients
 * [Xtra](https://github.com/crackededed/Xtra), [TwitchMod](https://t.me/pubTw) or [Twire](https://f-droid.org/packages/com.perflyst.twire/) - Ad Free Twitch App
 * [Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) - Remove Sponsored Telegram Messages
 
@@ -63,7 +63,7 @@
 * [VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps) - File / URL Virus Scanner 
 * [Pithus](https://beta.pithus.org/) - APK Virus Scanner
 * [LibreAV](https://www.projectmatris.tech/) or [Hypatia](https://gitlab.com/divested-mobile/hypatia) - Antivirus
-* [AFWall+](https://github.com/ukanth/afwall/), [Rethink App](https://github.com/celzero/rethink-app) or [NoRoot Firewall](https://play.google.com/store/apps/details?id=app.greyshirts.firewall) - Firewall 
+* [AFWall+](https://github.com/ukanth/afwall/), [Rethink App](https://github.com/celzero/rethink-app), [Karma](https://github.com/nightflame2/karma-firewall) or [NoRoot Firewall](https://play.google.com/store/apps/details?id=app.greyshirts.firewall) - Firewall 
 * [URL Scanner](https://f-droid.org/en/packages/com.trianguloy.urlchecker/) - URL Checker
 * [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - Network Monitor
 * [v2rayNG](https://github.com/2dust/v2rayNG) - Build Privacy Network
@@ -144,7 +144,7 @@
 # ► Android Tools
 
 * ⭐ **[Custom Android Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_operating_systems)**
-* ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)** or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tool / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager) / [SafteyNet Fix](https://github.com/kdrag0n/safetynet-fix) / [Modules](https://www.androidacy.com/magisk-modules-repository/)
+* ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tool / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager) / [SafteyNet Fix](https://github.com/kdrag0n/safetynet-fix) / [Modules](https://www.androidacy.com/magisk-modules-repository/)
 * ⭐ **[AutumnBox](https://github.com/zsh2401/AutumnBox/releases)** - Android Device Manager / Root Tool / [Features](https://i.imgur.com/59MlFrW.png)
 * ⭐ **[Android Web Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)** 
 * ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client / [Rich Presence](https://github.com/dead8309/Kizzy)
@@ -209,11 +209,12 @@
 * [MouseRemote](https://github.com/Akshayaap/MouseRemote) - Use Android as Mouse
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
 * [RoMote](https://github.com/wseemann/RoMote) - Phone Roku Controller
-* [Pluma](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader&hl=en) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers 
+* [Pluma](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader&hl=en), [FeedMe](https://github.com/seazon/FeedMe) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers 
 * [Water Resistance Tester](https://play.google.com/store/apps/details?id=com.ray.waterresistancetester) - Test Phones Water Resistance
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Make Your Phone Less Distracting
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - Ringtones Directory
-* [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3), [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Manager
+* [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3), [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Managers
+* [Substratum Tweaks](https://github.com/luisbocanegra/substratum-tweaks) - System Theme
 * [Candybar](https://github.com/zixpo/candybar) - Custom App Icons
 * [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons) - App Themed Icons
 * [Arcticons](https://arcticons.onnno.nl/) - Monotone Icon Pack
@@ -278,6 +279,7 @@
 * [Warp Plus Cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Unlimited Warp+ GB
 * [MacroDroid](http://macrodroid.com/) or [AutomateIt](https://www.automateitapp.com/) - Android Automation
 * [DoForMe](https://play.google.com/store/apps/details?id=com.aj.dfm) - Location Based Automation
+* [Page Scroll](https://play.google.com/store/apps/details?id=com.phonephreak.pagescroll) - Page Auto-Scroll
 * [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) or [TapTap](https://github.com/KieronQuinn/TapTap) - Android Back Gesture Controls
 * [Quick Cursor](https://play.google.com/store/apps/details?id=com.quickcursor) - Cursor for Large Smartphones
 * [Naptime](https://play.google.com/store/apps/details?id=com.franco.doze) - Accelerates Android Sleep Mode
@@ -311,7 +313,7 @@
 * [APhotoManager](https://github.com/k3b/APhotoManager/) - Create Photo Map
 * [Pixomatic](https://pixomatic.us/) - Image Editor
 * [VES](https://f-droid.org/packages/com.vincentengelsoftware.vesandroidimagecompare/) - Compare Two Images
-* [PhotoRoom](https://www.photoroom.com/) - Background Remover
+* [PhotoRoom](https://www.photoroom.com/) or [AI Background Remover](https://play.google.com/store/apps/details?id=com.utopiatechnologies.aibgremover) - Background Removers
 * [Dittoed](https://dittoed.app/) - Improve Image Composition
 * [Pixelify-Google-Photos](https://github.com/BaltiApps/Pixelify-Google-Photos) - Add Google Pixel Features to Google Photos
 * [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera), [DMGC](https://thedise.me/dmgc/) or [Camator](https://gcamator.com/) - Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/)
@@ -334,6 +336,7 @@
 * [QuiverVision](https://quivervision.com/) - Augmented Reality Coloring
 * [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix) - Combine Emojis
 * [background video recorder](https://play.google.com/store/apps/details?id=com.camera.secretvideorecorder) - Record Videos in Background
+* [Nightsnap](https://t.me/nightsnap_for_android) - Snapchat Dark Mode
 * [Jitsi](https://jitsi.org/) or [IMO](http://imo.im/) - Video Chat
 * [RemoteVideoCam](https://github.com/izivkov/RemoteVideoCam) - Video Lan
 * [Walkie-Talkie](https://walkie-talkie.io/) or [Codec2 Talkie](https://github.com/sh123/codec2_talkie) - Walkie-Talkie Apps
@@ -351,7 +354,7 @@
 * [TextFree](https://www.textfree.us/) - Free Texting App
 * [TextMeUp](http://www.textmeup.com/) - Multi-Number App
 * [TxtEmNow](https://txtemnow.com/) - Send Anonymous Texts
-* [AirMessage](https://github.com/airmessage/airmessage-android) - iMessage for Android
+* [AirMessage](https://github.com/airmessage/airmessage-android) or [BlueBubbles](https://bluebubbles.app/) - iMessage for Android
 * [Kubool](https://www.gdpd.xyz/) - Anonymous Confession App
 * [Encirculo](https://encirculo.org/en/) - Community Safety Network
 * [Nomad](https://www.nomadapp.me/) - Turn Any Location Into Chat
@@ -374,6 +377,7 @@
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - Easily Open Links in Text via Share Function
 * [Ponydroid](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ponydroid), [Jdownloader](https://my.jdownloader.org/), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - Download File Manager / [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)
 * [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_solid_explorer), [rcx](https://x0b.github.io/) / [GitHub](https://github.com/x0b/rcx), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/), [AmazeFileManager](https://teamamaze.xyz/) / [GitHub](https://github.com/TeamAmaze/AmazeFileManager), [FileManager](https://github.com/SimpleMobileTools/Simple-File-Manager) or [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager), [AnExplorer](https://github.com/1hakr/AnExplorer) or [IrkFM](https://github.com/lfuelling/lrkFM) - File Explorers / Managers
+* [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
 * [Dumpster](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dumpster) - File Recovery Tool
 * [wsa_pacman](https://github.com/alesimula/wsa_pacman) - Android Package Manager for Windows
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - Download / Torrent Manager 
@@ -385,8 +389,10 @@
 * [Fix My Speakers](https://fixmyspeakers.com/) - Eject Water from Phones Speakers
 * [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - Fix OLED Images
 * [sh-ort](https://sh-ort.app/) - URL Shortener
+* [UnLim](https://play.google.com/store/apps/details?id=com.kratosle.unlim&gl=US) - Cloud Storage
 * [RClone](https://github.com/x0b/rcx) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Manager
 * [App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers) - Android App Launchers
+* [PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - Enable Features in Stock App Launcher
 * [QuickSwitch](https://github.com/skittles9823/QuickSwitch) - Enable Quickstep in Launchers 
 * [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager), [AppManager](https://f-droid.org/packages/io.github.muntashirakon.AppManager/) or [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) / [2](https://www.apkmirror.com/apk/aurora-oss/warden/) - App Managers
 * [Uninstaller](https://play.google.com/store/apps/details?id=com.splendapps.shark) - App Uninstaller
@@ -402,6 +408,7 @@
 * [AppBrain](https://www.appbrain.com/) - Analyze Android App Changes
 * [Redmi System Manager](https://play.google.com/store/apps/details?id=com.learnpainless.disable_system_apps&hl=en) - Uninstall Redmi System Apps
 * [Clima](https://f-droid.org/en/packages/co.prestosole.clima/), [KWeather](https://invent.kde.org/plasma-mobile/kweather), [The Fucking Weather](https://alcohollick.com/the-fucking-weather), [Flux](https://play.google.com/store/apps/details?id=de.bendix.flux) or [GeometricWeather](https://github.com/geometric-weather-foss/GeometricWeather) - Weather App
+* [WeatherRadar](https://github.com/dh4/WeatherRadar) - Doppler Radar Weather Images
 * [Aftership](https://play.google.com/store/apps/details?id=com.aftership.AfterShip&hl=en&gl=US) - Package Tracker
 * [AIS-catcher for Android](https://github.com/jvde-github/AIS-catcher-for-Android) - AIS Receiver
 * [aiTTS](https://www.milmike.com/aitts-google-wavenet-voices-for-android-tts) or [Madhur](https://madhur-ai.com/) - Text to Speech
@@ -429,7 +436,7 @@
 * [AnyTracker](https://sites.google.com/view/anytracker), [2](https://anytracker.org/) - Track Anything
 * [AllAboutBirds](https://merlin.allaboutbirds.org/) - Bird Identifier
 * [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - Food Product Ingredient Scanner
-* [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html) - Scan & Digitize Documents
+* [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html) or [OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan) - Document Scanners
 * [IRuin](https://iriun.com/), [Reincubate Camo](https://reincubate.com/camo/) or [Dev47Apps](https://www.dev47apps.com/) - Use Android as Webcam 
 * [Deskreen](http://deskreen.com/) - Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen) 
 * [GeorgieLabs](https://georgielabs.net/) - Use Phone as Wireless Speaker / Headphone Port
@@ -789,6 +796,7 @@
 * [GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient) - Galaxy Buds Manager
 * [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizer
 * [Voleq](https://play.google.com/store/apps/details?id=com.veryclevernamecompany.voleq) - Volume Equalizer
+* [audio-analyzer](https://github.com/woheller69/audio-analyzer-for-android) - Audio Spectrum Analyzer
 * [Black Screen](https://play.google.com/store/apps/details?id=io.japp.blackscreen) - Turn Off Display While Audio is Playing
 * [Audify](https://play.google.com/store/apps/details?id=in.codeseed.audify) - Reduce Notification Distractions
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - Identify Playing Songs
@@ -888,8 +896,8 @@
 * [Stick Around](https://play.google.com/store/apps/details?id=com.stickaround.app) - Check for Post Credit Scenes
 * [tv-bro](https://github.com/truefedex/tv-bro) - TV Remote Browser
 * [AllTVApps](https://alltvapps.com/) - Streaming App Index
+* [Codec Info](https://github.com/Parseus/codecinfo) - Android Video Codec Info
 * [How-to Extract Widevine L3 CDM from Android](https://pastebin.com/zhpa3XSD)
-
 
 ***
 
