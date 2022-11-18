@@ -19,7 +19,7 @@
 * ⭐ **[Champagne Wiki](https://rentry.org/champagne_wiki/)** - Piracy Index / [Guides](https://rentry.org/champagne_guides/)
 * ⭐ **[Esoterica Avenue](https://ori5000.github.io/)** - Software & Games Megathread / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * ⭐ **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR)** - Site / Tool Index
-* ⭐ **[WebOas.is](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) - Startpage / Site Index / [Source Code](https://pastebin.com/CczqreS4)
+* ⭐ **[WebOas.is](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) - Startpage / Site Index / [Source Code](https://pastebin.com/CczqreS4) / [Archive](https://rentry.co/e9y6b) / [FAQ](https://bin.disroot.org/?6a50fab15330b762#7VwnxM9Jsvp8wWmW6eFmmxyXppWVjErn4CMgd8wii9pC)
 * ⭐ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)** 
 * [Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - Find Software / App Alternatives 
 * [Similar Sites](https://www.similarsites.com/), [SimilarWeb](https://www.similarweb.com/), [xRanks](https://xranks.com/), [similarsitesearch](https://www.similarsitesearch.com/), [TopSimilarSites](https://www.topsimilarsites.com/), [SuchSites](https://suchsites.com/), [MoreOfIt](http://www.moreofit.com/), [RawRanked](https://rawranked.com/), [Sitelike.org](https://www.sitelike.org/), [SimlarGo](https://similargo.com/) or [SitesLike](https://www.siteslike.com/) - Find Similar Sites
@@ -167,6 +167,7 @@
 * [IsThereAnyDeal](https://isthereanydeal.com/#/filter:&price/0/0) - Games
 * [IndieGala](https://freebies.indiegala.com/) - Games
 * [/r/freegames](https://www.reddit.com/r/freegames/) - Games
+* [/r/RandomActsOfGaming](https://www.reddit.com/r/RandomActsOfGaming/) - Games
 * [ClaimFreeGames](https://claimfreegames.com/) - Games
 * [GrabFreeGames](https://grabfreegames.com/) - Games
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - Games
@@ -210,7 +211,7 @@
 
 # ► Shopping
 
-* ⭐ **[GG.deals](https://gg.deals/)** or [PSPrices](https://psprices.com/) - Game Price Trackers
+* ⭐ **[GG.deals](https://gg.deals/)**, [AllKeyShop](https://www.allkeyshop.com/blog/) or [PSPrices](https://psprices.com/) - Game Price Trackers
 * [Reddit Favorites](https://redditfavorites.com/), [NanoReview](https://nanoreview.net/en), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product & Service Reviews
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
 * [NewMaxx's SSD Site](https://ssd.borecraft.com/) - SSD Buying Guide
@@ -227,6 +228,7 @@
 * [BTOD](https://www.btod.com/blog/category/buying-guides/) - Office Chair Buying Guides / Reviews
 * [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker
 * [PhoneDB](https://phonedb.net/), [PhoneArena](https://www.phonearena.com/phones/compare), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones / Prices
+* [Pepper](https://www.pepper.com/) - Shopping Community
 * [SlyToday](https://slytoday.com/) - Price Comparison Search
 * [FairGame](https://github.com/Hari-Nagarajan/fairgame) - Automatically Place Orders on Amazon
 * [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
@@ -259,7 +261,7 @@
 * ⭐ **[sandspiel.club](https://sandspiel.club/)** - Falling Sand Physics Sandbox 
 * ⭐ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_conversational_chatbots)** - Chat with AI
 * ⭐ **[Live Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)** - Watch Live Webcams
-* ⭐ **[LMGTFY](http://www.lmgtfy.com/)**, [LetMeGoogleThat](https://letmegooglethat.com/) or [GIYBF](http://giybf.com/) - Remind People that Google Exists 
+* ⭐ **[LMGTFY](https://lmgtfy.app/)**, [LetMeGoogleThat](https://letmegooglethat.com/) or [GIYBF](http://giybf.com/) - Remind People that Google Exists 
 * ⭐ **[Fucking Homepage](https://fuckinghomepage.com/)** - Daily Interesting Stuff Homepage
 * ⭐ **[The GIF Pronunciation Page](http://www.olsenhome.com/gif/)** - How to Pronouce "GIF"
 * ⭐ **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - Realistic-Looking Fake Versions of Things 
@@ -375,7 +377,7 @@
 * [Are you the asshole?](https://areyoutheasshole.com/) - Have an AI Judge Your Decisions
 * [Judge My Music](https://pudding.cool/2020/12/judge-my-spotify/) - Have an AI Judge Your Taste in Music
 * [Oracle](https://roadtolarissa.com/oracle/) - Try to Trick an AI
-* [PrankHotline](https://prankhotline.com/) - Phone Pranks
+* [PrankHotline](https://prankhotline.com/) or [Fake All](https://apps.apple.com/us/app/fake-all-call-chat-message/id1518594150) - Phone Pranks
 * [GeekPrank](https://geekprank.com/) - Windows Pranks
 * [Update Faker](https://updatefaker.com/) - Fake System Update Prank
 * [DownloadHardware](https://downloadhardware.com/) - Download Computer Hardware 
@@ -1184,7 +1186,7 @@
 * [Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button) - Quickly Close All Tabs
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - Read Books in Browser
 * [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/), [Linguist Translator](https://github.com/translate-tools/linguist), [S3Translator](http://www.s3blog.org/s3translator.html), [DeepL Translator](https://chrislo.ca/deepl/), [Mate Translate](https://gikken.co/mate-translate) or [ImTranslator](https://imtranslator.net/) - Translation Extensions 
-* [Dictionaries](https://github.com/pnlpal/dictionaries), [phlinx](https://phlinx.com/) or [Definer](https://lumetrium.com/definer/) - Popup Dictionary 
+* [Dictionaries](https://github.com/pnlpal/dictionaries), [Dictionary Anywhere](https://github.com/meetDeveloper/Dictionary-Anywhere), [phlinx](https://phlinx.com/) or [Definer](https://lumetrium.com/definer/) - Popup Dictionary 
 * [PantherBar](https://pantherbar-app.com/) or [BigSearch](https://github.com/garywill/BigSearch) - Context Search
 * [HyperSearch](https://github.com/abhinavsharma/hypersearch) - Search Result Sidebar
 * [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - Magnify Webpages
