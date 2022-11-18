@@ -221,7 +221,7 @@
 * [Marios Alternative](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_hacked_super_mario) - Hacked Super Mario ROMs
 * [SMWCentral](https://smwcentral.net/) - Hacked Super Mario World ROMs
 * [Wario Land Hack Vault](https://wario-land.github.io/HackVault/index.html) - Hacked Wario Land ROMs
-* [PokemonLog](https://pokemonlog.com/) or [Pokemon Coders](https://www.pokemoncoders.com/) - Hacked Pokemon ROMs
+* [PokemonLog](https://pokemonlog.com/), [PokeHarbor](https://www.pokeharbor.com/) or [Pokemon Coders](https://www.pokemoncoders.com/) - Hacked Pokemon ROMs
 * [PokeGB](https://github.com/binji/pokegb) - Pokémon Blue Emulator
 * [PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
 * [GameBanana](https://gamebanana.com/mods/games/14783) - Pokémon Brilliant Diamond / Shining Pearl Mods
@@ -361,7 +361,7 @@
 * [~archive](http://websites.umich.edu/~archive/) - Retro PC / Mac Games
 * [LegendsWorld](https://www.legendsworld.net/) - Retro Adventure PC Games
 * [MSXGamesWorld](https://msxgamesworld.com/index.php) or [MSXAbandonware](http://msxabandonware.com/en/home) - MSX Games
-* [ROMs For MAME](https://www.romsformame.com/) - Arcade MAME ROMs
+* [ROMs For MAME](https://www.romsformame.com/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
 * [The Outdated Arcade](https://discord.gg/SPZpMpntj9) - Game Preservation Server
 * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs 
 * [Japanese PC Compendium](http://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
@@ -418,7 +418,7 @@
 * [wide-snes](https://github.com/VitorVilela7/wide-snes) - Widescreen Super Mario World
 * [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) - Ocarina of Time PC Port
 * [OpenLara](http://xproger.info/projects/OpenLara/) - Classic Tomb Raider in Browser / [GitHub](https://github.com/XProger/OpenLara)
-* [GtkAtlantic](https://gtkatlantic.gradator.net/index.html) or [Monopolie](http://monopolie.sourceforge.net/index.shtml) - Open Source Monopoly
+* [You Have Not Died Of Dysentery](https://woe-industries.itch.io/you-have-not-died-of-dysentery) - Oregon Tail with Alt Dysentery Mechanics
 * [The World's Biggest Pac-Man](https://worldsbiggestpacman.com/) - Giant Pac-Man
 * [Tetris](https://tetris.com/), [Tetr.js](http://farter.cn/tetr.js/), [OpenTetris Classic](https://sourceforge.net/projects/opentetrisclassic/) or [NullpoMino](https://github.com/nullpomino/nullpomino) - Play Tetris
 * [TETR.IO](https://tetr.io/) - Multiplayer Tetris / [Plus](https://gitlab.com/UniQMG/tetrio-plus) / [Skin Database](https://you.have.fail/at/tetrioplus/) / [Stats](https://tetrio.team2xh.net/)
@@ -661,8 +661,8 @@
 
 * ⭐ **[lichess](https://lichess.org/)**, [WebChess](http://chess.delorie.com/) or [Chess.com](https://www.chess.com/) - Chess Platform 
 * [Board Game Online](https://www.boardgame-online.com/), [Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games), [Board Game Arena](https://en.boardgamearena.com/) or [FunNode](https://www.funnode.com/) - Board Games 
-* [The Bafflement Fires](http://www.dpoetry.com/fires/) - 1950's Freemasonic Board Game
 * [Hexxagon](https://hexxagon.com/) - Hexagonal Board Game
+* [GtkAtlantic](https://gtkatlantic.gradator.net/index.html) or [Monopolie](http://monopolie.sourceforge.net/index.shtml) - Open Source Monopoly
 * [Richup](https://richup.io/) - Monopoly-Style Board Game
 * [GameKnot Chess](https://gameknot.com/) - Multiplayer Chess
 * [Chesses](https://pippinbarr.github.io/chesses/) - Multiple Styles of Chess 
@@ -679,6 +679,7 @@
 * [Poker Now](https://www.pokernow.club/), [LiPoker](https://lipoker.io/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
 * [KDice](http://www.kdice.com/) - Multiplayer Dice War
 * [Curlie Yahtzee](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Dice/Yahtzee) - Yahtzee Sites Collection
+* [The Bafflement Fires](http://www.dpoetry.com/fires/) - 1950's Freemasonic Board Game
 
 ***
 
