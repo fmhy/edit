@@ -419,6 +419,7 @@
 * [ss64 OSX](https://ss64.com/osx/) - MacOS Bash Commands
 * [Orion](https://browser.kagi.com/downloads/Orion.dmg) - Webkit Browser with Chrome & Firefox extensions / [Discord](https://discord.gg/E9EKaPZR)
 * [Strongbox](https://strongboxsafe.com/) - Password Manager
+* [Maccy](https://maccy.app/) - Clipboard Manager
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
 * [Drafts](https://getdrafts.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Kyun](https://github.com/file-acomplaint/kyun) or [Voodoopad](http://www.voodoopad.com/) - Text Editors / Notes
 * [Taskpaper](https://www.taskpaper.com/) - To-Do Apps
