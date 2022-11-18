@@ -597,7 +597,7 @@
 
 ## ▷ Multiplayer
 
-* ⭐ **[EagleCraft](https://g.deev.is/eaglercraft/)**, [2](https://minecraftforfreex.com/eaglercraft/) - Multiplayer Browser Minecraft / [GitHub](https://github.com/lax1dude/eaglercraft)
+* ⭐ **[EagleCraft](https://minecraftforfreex.com/eaglercraft/)** - Multiplayer Browser Minecraft / [GitHub](https://github.com/lax1dude/eaglercraft)
 * ⭐ **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS / [Market Ping](https://yee.how/market-ping/) / [Client](https://client.cuffuffles.dev/) / [Optimal Settings](https://rentry.co/krunkersettings)
 * ⭐ **[DelugeRPG](https://www.delugerpg.com/)** or [Pokemon Legends](https://www.pokemongods.com/) - Pokemon MMO
 * ⭐ **[Pokemon Showdown](https://pokemonshowdown.com/)** - Online Pokemon Battles 
