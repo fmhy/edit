@@ -259,6 +259,7 @@
 * [TheFilmDetective](https://www.thefilmdetective.com/) - Classic Films / TV
 * [RetroVision Media](http://www.retrovisionmedia.com/) - Retro / Classic Films
 * [horror.watch](https://horror.watch/) - Classic Horror Films / May Need [OpenVideo](https://openvideofs.github.io)
+* [Silent Hall of Fame](https://silent-hall-of-fame.org/) - Silent Films
 * [Wu Tang Collection](https://www.thewutangcollection.com/) - Martial Arts Films
 * [tokuzilla](https://tokuzilla.net/) - Tokuzilla Movies / Shows
 * [GizmoPlex](https://www.gizmoplex.com/mst3k) - MST3K Movies
@@ -676,6 +677,7 @@
 * [Best-Movies](http://best-movies.info/) - Movies / TV
 * [Onkyo4k](https://onkyo4k.com/) - Movies / TV
 * [ShareSpark](https://sharespark.me/) - Movies / TV
+* [Free Movies](https://free-movies.to/) - Movies / TV
 * [FilmsZilla](https://filmszilla.com/) - Movies / TV
 * [Movies Downloader](https://movie.unlimitdownloads.com/) - Movies / TV
 * [StreamCraze](https://streamcraze.com/) - Movies / TV
@@ -710,7 +712,7 @@
 * [nKiri](https://nkiri.com/) - Movies / TV
 * [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime
 * [O2TVSeriesz](https://o2tvseriesz.com/) - Movies / TV
-* [Privatemoviez](https://privatemoviez.co/) - Movies / TV
+* [Privatemoviez](https://privatemoviez.buzz/) - Movies / TV
 * [SkyMoviesHD](https://skymovieshd.news/category/Hollywood-English-Movies.html) - Movies
 * [HDFriday](https://hdfriday.com/category/download-hollywood-movies/) - Movies
 * [MegaUploadAgora](https://www.megauploadagora.com.br/) - Movies / TV 
@@ -944,6 +946,7 @@
 * [Class Real](https://www.classreal.com/) - Weird / Trippy Movies
 * [FFCritic](http://foundfootagecritic.com/hubs/hub-films/) - Found Footage
 * [Spaghetti Western Database](https://www.spaghetti-western.net/index.php/Main_Page) - Spaghetti Western
+* [HKMDB](https://hkmdb.com/db/index.php) - Hong Kong Movies
 * [listal](https://www.listal.com/) - Movies / TV
 * [My Episodes](https://www.myepisodes.com/) - TV
 * [Movieo](https://movieo.me/) - Movies / TV / Anime
@@ -951,9 +954,10 @@
 * [Episode Calender](https://episodecalendar.com/) - TV Calendar
 * [dunno](https://m-dunno.netlify.app/) - Movies / TV
 * [showRSS](https://showrss.info/)  - RSS / TV
-* [AniChart](https://anichart.net) or [LiveChart](https://www.livechart.me/) - Seasonal Anime Charts
+* [AniChart](https://anichart.net), [Senpai](https://www.senpai.moe/) or [LiveChart](https://www.livechart.me/) - Seasonal Anime Charts
 * [Anime-Planet](https://www.anime-planet.com/) - Anime 
 * [Kitsu](https://kitsu.io/) - Anime
+* [Anisearch](https://www.anisearch.com/) - Anime
 * [AniDB](https://anidb.net/) - Anime
 * [AniList](https://anilist.co/) - Anime / [Wrapper](https://github.com/butterstroke/Anilist-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
 * [Animender](https://discord.gg/h6nTTprMKd), [Mangaki](https://mangaki.fr/) or [AniBrain](https://anibrain.ai/) - Anime Recommendation Tool
