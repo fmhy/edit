@@ -739,7 +739,7 @@
 ## ▷ Reference Sites
 
 * ⭐ **[Wikipedia](https://www.wikipedia.org/)** or [WikiFox](https://wikifox.ml/) - Encyclopedia
-* ⭐ **Wikipedia Tools** - [Improved UI](https://www.wikiwand.com/), [2](https://www.modernwiki.app/) / [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Galaxy View](https://wiki.polyfra.me/) / [Read Only](http://static.wiki/) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener)
+* ⭐ **Wikipedia Tools** - [Improved UI](https://www.wikiwand.com/), [2](https://www.modernwiki.app/) / [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Page Connections](https://hyperleap.com/) / [Galaxy View](https://wiki.polyfra.me/) / [Read Only](http://static.wiki/) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener)
 * ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** - Dictionary / Thesaurus
 * ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - Slang Word / Phrase Dictionaries
 * ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary Search
@@ -1002,6 +1002,7 @@
 * [Tachiyomi](https://github.com/Suwayomi) / [Web Client](https://github.com/TachiWeb) / [Desktop Client](https://github.com/Suwayomi/Tachidesk-Server) / [Discord](https://discord.com/invite/tachiyomi), [AllMangasReader](http://allmangasreader.com/), [Houdoku](https://houdoku.org/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi), [isoComic](https://github.com/isomerase/isocomic-extensions) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - Manga Reader / Manager
 * [HappyPanda X](https://happypandax.github.io/), [Tenma](https://github.com/Tenma-Server/Tenma), [KavitaReader](https://www.kavitareader.com/), [Mango](https://github.com/hkalexling/Mango), [Tanoshi](https://faldez.github.io/tanoshi/) or [Komga](https://komga.org/) / [GitHub](https://github.com/gotson/komga) / [Discord](https://discord.gg/TdRpkDu) - Self-Hosted Manga Readers / Managers
 * [LANraragi](https://github.com/Difegue/LANraragi) - Manga / Doujin Manager for NAS / [Discord](https://discord.com/invite/aRQxtbg)
+* [Kaizoku](https://github.com/oae/kaizoku) -  Self-Hosted Manga Downloader
 * [MangaManage](https://github.com/Daedren/MangaManage) - Tachiyomi Download Manager
 * [Manga APIs](https://rentry.co/manga-apis) - Manga Site API's
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Release Updates  
