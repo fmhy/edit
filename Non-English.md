@@ -1420,6 +1420,7 @@
 * [DIAKOV](https://diakov.net/) - Software 
 * [LRepacks](https://lrepacks.ru/) - Software 
 * [Old-Games](https://www.old-games.ru/) - Retro Games
+* [cybershara](https://cybershara.ru/) - PSP ROMs
 * [AppsTorrent](https://appstorrent.ru/) - Mac Software
 * [Tancpol](https://tancpol.net/) - MP3
 * [z2.fm](https://z2.fm/) - MP3
@@ -1676,7 +1677,6 @@
 * [tekilaz](https://tekilaz.co/) - Movies / TV
 * [Descarga Cine Clasico](https://descargacineclasico.net/) - Classical Movies
 * [Cinemargentino](https://cinemargentino.com/) - Movies / Documentaries
-* [Cuevana](https://cuevana.nz/) - Movies / TV
 * [novelas360](https://novelas360.com/) - TV
 * [HindiLover](https://hindilover.biz/) - TV
 * [Vix](https://www.vix.com/tv/) - TV
