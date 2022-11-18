@@ -354,7 +354,7 @@
 * [TextFree](https://www.textfree.us/) - Free Texting App
 * [TextMeUp](http://www.textmeup.com/) - Multi-Number App
 * [TxtEmNow](https://txtemnow.com/) - Send Anonymous Texts
-* [AirMessage](https://github.com/airmessage/airmessage-android) or [BlueBubbles](https://bluebubbles.app/) - iMessage for Android
+* [AirMessage](https://github.com/airmessage/airmessage-android) - iMessage for Android
 * [Kubool](https://www.gdpd.xyz/) - Anonymous Confession App
 * [Encirculo](https://encirculo.org/en/) - Community Safety Network
 * [Nomad](https://www.nomadapp.me/) - Turn Any Location Into Chat
@@ -371,7 +371,7 @@
 * [Lagrange](https://skyjake.github.io/fdroid/repo/) - Gemini Browser
 * [BlueClover](https://github.com/nnuudev/BlueClover) or [Chan](https://github.com/moffatman/chan) - 4Chan Browser
 * [LoliSnatcher Droid](https://github.com/NO-ob/LoliSnatcher_Droid) - Booru Client
-* [Flutter News](https://github.com/CoderJava/Flutter-News-App) - News
+* [Flutter News](https://github.com/CoderJava/Flutter-News-App) or [Volv](https://play.google.com/store/apps/details?id=com.volvmedia.volvapp) - News Apps
 * [Hacki](https://github.com/Livinglist/Hacki) or [Glider](https://github.com/Mosc/Glider) - Hacker News
 * [ServeIt](https://github.com/many-fac3d-g0d/ServeIt) - Android HTTP Server
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - Easily Open Links in Text via Share Function
@@ -392,7 +392,6 @@
 * [UnLim](https://play.google.com/store/apps/details?id=com.kratosle.unlim&gl=US) - Cloud Storage
 * [RClone](https://github.com/x0b/rcx) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Manager
 * [App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers) - Android App Launchers
-* [PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - Enable Features in Stock App Launcher
 * [QuickSwitch](https://github.com/skittles9823/QuickSwitch) - Enable Quickstep in Launchers 
 * [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager), [AppManager](https://f-droid.org/packages/io.github.muntashirakon.AppManager/) or [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) / [2](https://www.apkmirror.com/apk/aurora-oss/warden/) - App Managers
 * [Uninstaller](https://play.google.com/store/apps/details?id=com.splendapps.shark) - App Uninstaller
