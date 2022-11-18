@@ -64,7 +64,7 @@
 * [Coding Questions](https://platform.stratascratch.com/coding) - Coding Interview Questions 
 * [Code With Mosh Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_code_with_mosh_courses)
 * [Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources) or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources
-* [picoCTF](https://picoctf.org/), [CTFLearn](https://ctflearn.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
+* [picoCTF](https://picoctf.org/), [CTFLearn](https://ctflearn.com/), [HTB](https://academy.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
 * [DefendTheWeb](https://defendtheweb.net/) - Cybersecurity Challenges
 * [Cyber Talent Kids](https://cybertalentskids.com/) - Learn About Cybersecurity
 * [pwn.college](https://pwn.college/) - Cybersecurity Practice
@@ -579,7 +579,7 @@ Automated Incident Response and Forensics Framework
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
 * [LightHouse](https://github.com/GoogleChrome/lighthouse) - Web App Performance Test
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
-* [w3af](http://w3af.org/) - Web App Security Scanner
+* [w3af](http://w3af.org/) or [Burp](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_burp) - Web App Security Testing
 * [egui](https://github.com/emilk/egui) - Rust GUI 
 * [Form To Chatbot](http://formtochatbot.com/) - Convert Google Form to Chatbot
 * [Herosaver](https://github.com/amerrigan/HeroSaver-v2) - Save Site Configuration and STLs
@@ -1114,7 +1114,8 @@ Automated Incident Response and Forensics Framework
 * [Zero Dark Matrix](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - Chrome Devtools Dark Theme 
 * [Tantiny](https://github.com/baygeldin/tantiny) - Full-Text Ruby Search
 * [GNU Octave](https://www.gnu.org/software/octave/) - Scientific Programming Language
-* [Rescript](https://rescript-lang.org/) -Javascript Editor / Language
+* [Recaf](https://www.coley.software/Recaf/) - Java Bytecode Editor
+* [Rescript](https://rescript-lang.org/) - Javascript Editor / Language
 * [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - Javascript Resources
 * [Vanilla List](https://vanillalist.top/) - Vanilla Javascript Repository
 * [Danfo.js](https://github.com/javascriptdata/danfojs) - Javascript Library
@@ -1164,6 +1165,7 @@ Automated Incident Response and Forensics Framework
 * [Winddown](https://github.com/schneefux/vscode-winddown) or [Sandman](https://alexanderepstein.github.io/Sandman/) - Coding Break Reminders
 * [ThemesElection](https://themeselection.com/) - Programming UI Themes
 * [Dev Fonts](https://devfonts.gafi.dev/) - Coding Fonts
+* [Monocraft](https://github.com/IdreesInc/Monocraft) - Minecraft Coding Font
 
 ***
 
@@ -1171,7 +1173,7 @@ Automated Incident Response and Forensics Framework
 
 * [API List](https://apilist.fun/), [APIsList](https://apislist.com/), [Awesome APIs](https://github.com/TonnyL/Awesome_APIs), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - API Indexes
 * [Insomnia](https://insomnia.rest/) - API Client
-* [Strapi](https://strapi.io/) - API Designer 
+* [Strapi](https://strapi.io/) or [Postman](https://www.postman.com/) - API Builders
 * [RapidAPI](https://rapidapi.com/) or [FastAPI](https://github.com/tiangolo/fastapi) - API Framework
 * [tRPC](https://trpc.io/) - Build Typesafe APIs 
 * [Beeceptor](https://beeceptor.com/) - Mock REST APIs
