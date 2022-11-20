@@ -133,7 +133,6 @@
 * [Course Search Engine](https://cse.google.com/cse?cx=a02efb0346a176b46) - Search for Courses
 * [Reks Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive) - Courses
 * [OpenDirectory](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_opendirectory) - Courses
-* [11k+ Courses SpreadSheet](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_11k.2B_courses_spreadsheet) - Courses
 * [Revival](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_revival) - Courses
 * [Christmas Share](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_christmas_share) - Courses
 * [HMDRIVE](https://t.me/HMDRIVE_OFFICIAL) - Courses
