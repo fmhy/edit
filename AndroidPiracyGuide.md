@@ -758,7 +758,7 @@
 
 * ⭐ **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players)** - Music Players / Libraries
 * ⭐ **[Spotify APK](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_modded_spotify_apk)** (No Ads) - Streaming / [Version Manager](https://github.com/xManager-v2/xManager-Spotify) / [Friend Activity](https://spotivity.vercel.app/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://f-droid.org/packages/com.rohit2810.spotit/), [3](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
-* [YouTube Music Apps](https://redd.it/tiqzon/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [YTM Wrapped](https://github.com/4v3ngR/ytm-wrapped), [HoloPlay](https://holoplay.io/), [ViMusic](https://github.com/vfsfitvnm/ViMusic), [Harmonoid](https://harmonoid.com/), [Music](https://github.com/z-huang/music) or [YMusic](https://ymusic.io/) - YouTube Music Players
+* [YouTube Music Apps](https://redd.it/tiqzon/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [YTM Wrapped](https://github.com/4v3ngR/ytm-wrapped), [HoloPlay](https://holoplay.io/), [ViMusic](https://github.com/vfsfitvnm/ViMusic), [Harmonoid](https://harmonoid.com/), [InnerTune](https://github.com/z-huang/InnerTune), [Music](https://github.com/z-huang/music) or [YMusic](https://ymusic.io/) - YouTube Music Players
 * [Spotiflyer](https://f-droid.org/en/packages/com.shabinder.spotiflyer/) / [GitHub](https://github.com/Shabinder/SpotiFlyer/) or [SpotaFree](https://github.com/sheensantoscapadngan/SpotaFree) - Spotify Audio Downloader
 * [Finamp](https://github.com/UnicornsOnLSD/finamp) - Jellyfin Music Player
 * [CloudPlayer](https://www.doubletwist.com/cloudplayer) - Cloud Audio File Player
@@ -794,7 +794,7 @@
 * [Up Tempo](https://play.google.com/store/apps/details?id=com.stonekick.tempo&hl=en&gl=US) - Audio Tempo Editor
 * [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) - Headphone Audio Equalizer
 * [GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient) - Galaxy Buds Manager
-* [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizer
+* [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer), [RootlessJamesDSP](https://github.com/ThePBone/RootlessJamesDSP) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizer
 * [Voleq](https://play.google.com/store/apps/details?id=com.veryclevernamecompany.voleq) - Volume Equalizer
 * [audio-analyzer](https://github.com/woheller69/audio-analyzer-for-android) - Audio Spectrum Analyzer
 * [Black Screen](https://play.google.com/store/apps/details?id=io.japp.blackscreen) - Turn Off Display While Audio is Playing
