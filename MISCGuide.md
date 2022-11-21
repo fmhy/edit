@@ -304,7 +304,7 @@
 * [DriveMeInsane](http://drivemeinsane.com/) - Control a Home Automation System
 * [Earth Reviews](https://neal.fun/earth-reviews/) - Help Improve the Simulation
 * [Status.Cafe](https://status.cafe/) - Share Current Status
-* [LooksLikeYouNeedIceland](https://lookslikeyouneediceland.com/) or [JUST SCREAM!](https://justscream.baby/) - Scream Into the Universe 
+* [LooksLikeYouNeedIceland](https://www.visiticeland.com/) or [JUST SCREAM!](https://justscream.baby/) - Scream Into the Universe 
 * [VentScape](https://www.ventscape.life/) - Speak into a Void
 * [The Nicest Place](https://thenicestplace.net/) - Internet Hugs
 * [Dazzle](https://workingbuild.herokuapp.com/) - Virtual Chat, Video & Drawing World
@@ -313,7 +313,6 @@
 * [ASCII Roulette](https://github.com/dialup-inc/ascii) - Random ASCII Chat Rooms
 * [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
 * [Tapology](https://www.tapology.com/) - Make MMA Fight Picks
-* [March-Madness-ML](https://github.com/adeshpande3/March-Madness-ML) - March Madness Winner Prediction AI
 * [Awesome Lego](https://github.com/ad-si/awesome-lego) - Lego Resource Index 
 * [BrickLink Studio](https://www.bricklink.com/v2/build/studio.page) - Lego Building Software
 * [Brickit](https://brickit.app/) - Scan Lego Collection for Build Ideas
@@ -326,7 +325,6 @@
 * [stringers.live](https://stringers.live/) - Live Freelance Journalist Streams
 * [ThemeParkWorldwide](https://www.youtube.com/user/ThemeParkWorldwide/) - Full Day Theme Park Vlogs
 * [WindowSwap](https://window-swap.com/window) or [VisualVacation](https://virtualvacation.us/window) - Open Random Windows
-* [BigPixel](http://en.bigpixel.cn/) - Giant Zoomable Photos
 * [larsberg](http://www.larsberg.net/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - Trippy 3D Experiments
 * [Just Type Stuff ](https://web.archive.org/web/20191229101209/https://justtypestuff.com/) - Type Things into Existence
 * [Unsent Letter](https://unsent-letters.netlify.app/) - Read Random Unsent Letters
@@ -374,7 +372,6 @@
 * [Skynet](http://pierrepapierciseaux.net/.skynet/?lang=en) - View Websites like they're from the 90's
 * [Toonami Remastered](https://www.toonamiremastered.com/) - Remastered Toonami Content
 * [SongMeanings](https://songmeanings.com/) - Discover Song Meanings
-* [Are you the asshole?](https://areyoutheasshole.com/) - Have an AI Judge Your Decisions
 * [Judge My Music](https://pudding.cool/2020/12/judge-my-spotify/) - Have an AI Judge Your Taste in Music
 * [Oracle](https://roadtolarissa.com/oracle/) - Try to Trick an AI
 * [PrankHotline](https://prankhotline.com/) or [Fake All](https://apps.apple.com/us/app/fake-all-call-chat-message/id1518594150) - Phone Pranks
