@@ -1973,7 +1973,7 @@ Twitch Stream Tracker
 * [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) or [Reinstall Preinstalled](https://pastebin.com/5NnBEqnm) / [Guide](https://youtu.be/EQo53hvWy8Q) - Add Microsoft Store to Windows
 * [Vantage](https://rentry.co/lenbian) - Lenovo Vantage Without MS Store
 * [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage
-* [Edgeuninstaller](https://rentry.org/uninstalledge), [NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge) or [Disable Edge](https://ibb.co/dkJ4Tb4) - Remove Microsoft Edge
+* [NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge) or [Disable Edge](https://ibb.co/dkJ4Tb4) - Remove Microsoft Edge
 * [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Microsoft Edge Browser Redirect
 * [amogOS](https://github.com/jostroOS/amogOS) - Rasberry Pi OS
 * [Pinn](https://github.com/procount/pinn) - Rasberry Pi OS Installer
