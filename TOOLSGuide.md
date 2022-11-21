@@ -1990,7 +1990,6 @@ Twitch Stream Tracker
 * [ElevenClock](https://github.com/martinet101/ElevenClock) - Windows 11 Secondary Monitor Clock
 * [Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - Windows 11 Drag & Drop Fix
 * [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) - Modify Windows 11 Taskbar
-* [RemoveEdgeWin11](https://rentry.co/RemoveEdgeWin11) - Remove Edge on Windows 11
 * [Boot Failure Troubleshooting Chart](https://i.imgur.com/QsxYtB4.jpg) - Boot Failure Troubleshooting Guide
 * [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
 * [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor 
