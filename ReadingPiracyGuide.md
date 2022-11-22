@@ -64,7 +64,7 @@
 * ⭐ **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools) / [ACSM Plugin](https://github.com/Leseratte10/acsm-calibre-plugin)
 * ⭐ **[Library Genesis](http://libgen.rs/)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen__mirrors)
-* ⭐ **[Z-Library](hhttps://annas-archive.org/)** - Books / Comics / Educational / Account Required / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_tools) / [Removed Books](https://t.me/firstlibrarybot) / [Backup](https://redd.it/ymiwzs) / [.Onion](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/)
+* ⭐ **[Z-Library](https://annas-archive.org/)** - Books / Comics / Educational / Account Required / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_z-library_tools) / [Removed Books](https://t.me/firstlibrarybot) / [Backup](https://redd.it/ymiwzs) / [.Onion](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/)
 * ⭐ **[eBookHunter](https://ebook-hunter.org/)** - Books / Comics
 * ⭐ **[Telegram Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - Telegram Book Channels
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - Books
@@ -1238,6 +1238,7 @@
 * [Thorium](https://www.edrlab.org/software/thorium-reader/) - Ebook Reader / PC / Mac / Linux 
 * [CoolReader](https://github.com/buggins/coolreader) - Ebook Reader / PC / Linux
 * [Icecream eBook Reader](https://icecreamapps.com/Ebook-Reader/) - Ebook Reader / PC
+* [Aquile](https://apps.microsoft.com/store/detail/aquile-reader-modern-epub-ebook-reader/9P08T4JLTQNK?hl=en) - Ebook Reader / PC
 * [Eplee](https://github.com/Janglee123/eplee) - Ebook Reader / PC 
 * [Okular](https://okular.kde.org/) - PDF Reader / Linux / PC / Mac
 * [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader / Linux
