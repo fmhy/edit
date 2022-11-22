@@ -324,7 +324,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Bulk File Renamers 
 
-[Advanced Renamer](https://www.advancedrenamer.com/), [theRenamer](http://therenamer.com/), [Hydrus](https://hydrusnetwork.github.io/hydrus/), [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/), [Szyszka](https://github.com/qarmin/szyszka), [MassiveFileRenamer](https://github.com/IvanRF/MassiveFileRenamer), [Massren](https://github.com/laurent22/massren), [Renamer](https://github.com/Craftplacer/Renamer)
+[Advanced Renamer](https://www.advancedrenamer.com/), [theRenamer](http://therenamer.com/), [Hydrus](https://hydrusnetwork.github.io/hydrus/), [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/), [Szyszka](https://github.com/qarmin/szyszka), [MassiveFileRenamer](https://github.com/IvanRF/MassiveFileRenamer), [Massren](https://github.com/laurent22/massren), [Renamer](https://github.com/Craftplacer/Renamer), [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename)
 
 ***
 
