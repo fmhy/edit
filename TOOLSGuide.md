@@ -1394,7 +1394,7 @@
 * ⭐ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)** - Download Videos from YouTube
 * ⭐ **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download Audio from YouTube
 * ⭐ **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)**, [YouTube Dislike Viewer](https://jabrek.net/dislike-en), [youtube-dislike-viewer](https://haeri.github.io/youtube-dislike-viewer/) or [yt dislikes viewer](https://github.com/pgamerx/yt-dislikes-viewer) - View YouTube Dislikes / [Discord](https://discord.com/invite/mYnESY4Md5)
-* ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)
+* ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast) / [Script](https://github.com/mchangrh/sb.js)
 * [YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends) - Ad-Free YouTube Frontends / Clients
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) 
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YouTube-Spammer-Purge) - Delete All YouTube Spam Comments
@@ -2051,9 +2051,9 @@ Twitch Stream Tracker
 * [FolderMarker](https://foldermarker.com/) or [CustomFolder](https://www.gdzsoft.com/) - Custom Folders & Markers
 * [Emoji.ico](https://github.com/davzoku/emoji.ico) - Emoji Folder Icons
 * [Win98Icons](https://win98icons.alexmeub.com/) - Classic Win98 Icons
-* [Cursors 4U](https://www.cursors-4u.com/) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
-* [Windows Sounds](https://winsounds.com/) or [Win11 Sounds](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_win11_sounds) - Windows Sound Schemes
+* [Cursors 4U](https://www.cursors-4u.com/), [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - MacOS Cursors for Windows
+* [Windows Sounds](https://winsounds.com/) or [Win11 Sounds](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_win11_sounds) - Windows Sound Schemes
 * [Win7BootUpdater](https://mega.nz/file/T5ZDmIaK#jdiomK79q1CYzwFcbzkzJ1ceLsWlnAHLvofsjHIq39g) - Customize Windows 7 Boot Animation / [Guide](https://youtu.be/IdwcWIKuVG8)
 * [After Dark CSS](https://www.bryanbraun.com/after-dark-css/) - Browser Screensavers
 * [terminal.sexy](https://terminal.sexy/), [TerminalSplash](https://terminalsplash.com/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Themes
@@ -2113,7 +2113,7 @@ Twitch Stream Tracker
 * [MyPhoneExplorer](https://www.fjsoft.at/) - Manage / Sync Your Phone with PC
 * [RollMyFile](https://rollmyfile.com/) - Open Files Online
 * [AList](https://github.com/Xhofe/alist) - File Listing Program
-* [leteckaposta](http://leteckaposta.cz/) or [LitterBox](https://litterbox.catbox.moe/) - Temp File Hosts
+* [leteckaposta](http://leteckaposta.cz/), [Send](https://send.vis.ee/), [File Send](https://filesend.standardnotes.com/) or [LitterBox](https://litterbox.catbox.moe/) - Temp File Hosts
 * [ProtectedZip](https://protectedzip.com/) - Encrypt Zip Files
 * [objectfixzip](https://www.essentialdatatools.com/products/objectfixzip/) - Repair Zip Files
 * [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
