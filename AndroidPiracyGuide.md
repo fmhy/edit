@@ -73,7 +73,7 @@
 * [FreezeYou](https://www.freezeyou.net/en-US/), [SuperFreezZ](https://superfreezz.gitlab.io/) or [Drowser](https://gitlab.com/juanitobananas/drowser) - Freeze App Background Activities
 * [SnoopSnitch](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/) - Check Mobile Network Security 
 * [SimpleLogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/) or [Anonaddy](https://gitlab.com/Stjin/anonaddy-android) - Email Forwarding
-* [Temp Email Apps](https://rentry.co/v92q6), [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/), [Temp Mail](https://play.google.com/store/apps/details?id=temporary.disposable.mail), [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957) - Temp Email Client, [Ten Minute Mail](https://play.google.com/store/apps/details?id=com.tenminutemail) or [‎InstAddr](https://play.google.com/store/apps/details?id=air.kukulive.mailnow) - Temp Mail Apps
+* [Temp Email Apps](https://rentry.co/v92q6), [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/), [Temp Mail](https://play.google.com/store/apps/details?id=temporary.disposable.mail), [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957), [Ten Minute Mail](https://play.google.com/store/apps/details?id=com.tenminutemail) or [‎InstAddr](https://play.google.com/store/apps/details?id=air.kukulive.mailnow) - Temp Mail Apps
 * [Private Location](https://f-droid.org/en/packages/com.wesaphzt.privatelocation/) - Hide Phone Location Permanently
 * [Fake GPS Location](https://play.google.com/store/apps/details?id=com.evezzon.fakegps) or [GPS JoyStick Guide](http://gpsjoystick.theappninjas.com/faq/) - Fake GPS Location 
 * [RadiusLocker](https://www.radiuslocker.co/) - Lock Phone When its not Near You
@@ -112,6 +112,7 @@
 * [apk-mitm](https://github.com/shroudedcode/apk-mitm) - HTTPS Inspector
 * [JustUseApp](https://justuseapp.com/) - Hide App Payments
 * [Gadget Bridge](https://gadgetbridge.org/) - Connect to Smartwatches without Vendor Apps / Accounts
+* [Extirpater](https://gitlab.com/divested-mobile/extirpater) - Make Deleted Files Irrecoverable
 * [PrivacyBlur](https://privacyblur.app/) - Blur Sensitive Parts of Photos / [GitHub](https://github.com/MATHEMA-GmbH/privacyblur)
 * [Scrambled Exif](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif) - Remove Image Metadata
 
@@ -187,6 +188,7 @@
 * [Serenity Notes](https://www.serenity.re/en/notes) - Collaborative Notes
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
 * [HistoryOfMe](https://github.com/litlifesoftware/HistoryOfMe) - Journal App
+* [Compass QS Tile](https://github.com/WSTxda/Compass-QS-Tile) - Quick Settings Tile
 * [Adaptive Controls](https://play.google.com/store/apps/details?id=com.nxet.adaptivecontrols) - Per App Settings
 * [auto-auto-rotate](https://gitlab.com/juanitobananas/auto-auto-rotate) - Per App Rotation Settings
 * [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) - Downgrade Apps on Android 12/13
@@ -310,7 +312,7 @@
 * [Photok](https://github.com/leonlatsch/Photok), [Stingle Photos](https://stingle.org/), [Ente](https://ente.io/) or [No See You](https://baixarapk.gratis/en/app/1186829987/photo-vault-noseeyou) - Photo / Video Galleries
 * [Widgetshare](https://play.google.com/store/apps/details?id=com.galew.widgetshare) - Photo Sharing App
 * [PhotoSync](https://www.photosync-app.com/home.html) - Transfer Photos Between Devices
-* [APhotoManager](https://github.com/k3b/APhotoManager/) - Create Photo Map
+* [APhotoManager](https://github.com/k3b/APhotoManager/) - Create Photo Maps
 * [Pixomatic](https://pixomatic.us/) - Image Editor
 * [VES](https://f-droid.org/packages/com.vincentengelsoftware.vesandroidimagecompare/) - Compare Two Images
 * [PhotoRoom](https://www.photoroom.com/) or [AI Background Remover](https://play.google.com/store/apps/details?id=com.utopiatechnologies.aibgremover) - Background Removers
@@ -376,7 +378,7 @@
 * [ServeIt](https://github.com/many-fac3d-g0d/ServeIt) - Android HTTP Server
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - Easily Open Links in Text via Share Function
 * [Ponydroid](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ponydroid), [Jdownloader](https://my.jdownloader.org/), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - Download File Manager / [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)
-* [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_solid_explorer), [rcx](https://x0b.github.io/) / [GitHub](https://github.com/x0b/rcx), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/), [AmazeFileManager](https://teamamaze.xyz/) / [GitHub](https://github.com/TeamAmaze/AmazeFileManager), [FileManager](https://github.com/SimpleMobileTools/Simple-File-Manager) or [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager), [AnExplorer](https://github.com/1hakr/AnExplorer) or [IrkFM](https://github.com/lfuelling/lrkFM) - File Explorers / Managers
+* [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_solid_explorer), [rcx](https://x0b.github.io/) / [GitHub](https://github.com/x0b/rcx), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator), [AmazeFileManager](https://teamamaze.xyz/) / [GitHub](https://github.com/TeamAmaze/AmazeFileManager), [FileManager](https://github.com/SimpleMobileTools/Simple-File-Manager) or [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager), [AnExplorer](https://github.com/1hakr/AnExplorer) or [IrkFM](https://github.com/lfuelling/lrkFM) - File Explorers / Managers
 * [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
 * [Dumpster](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dumpster) - File Recovery Tool
 * [wsa_pacman](https://github.com/alesimula/wsa_pacman) - Android Package Manager for Windows
@@ -417,7 +419,7 @@
 * [Universal Copy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_universal_copy) - Copy Any Text
 * [Koler](https://github.com/Chooloo/koler) - Dialer App
 * [KONTXT](https://play.google.com/store/apps/details?id=com.realnetworks.kontxt.voice&hl=en&gl=US) - Preview Calls
-* [SimpleMail](https://framagit.org/dystopia-project/simple-email), [k9mail](https://k9mail.app/) or [FairCode](https://email.faircode.eu/) - Email App 
+* [SimpleMail](https://framagit.org/dystopia-project/simple-email), [Monocles](https://f-droid.org/packages/de.monocles.mail/), [k9mail](https://k9mail.app/) or [FairCode](https://email.faircode.eu/) - Email Clients
 * [BlitzMail](https://github.com/grote/BlitzMail) - One Click Email App
 * [Delta Lab](https://github.com/adbenitez/deltalab-android) - Email Based Messenger
 * [Get Unstuck](https://socratic.org/) - Homework Answers / Help 
@@ -436,7 +438,7 @@
 * [AnyTracker](https://sites.google.com/view/anytracker), [2](https://anytracker.org/) - Track Anything
 * [AllAboutBirds](https://merlin.allaboutbirds.org/) - Bird Identifier
 * [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - Food Product Ingredient Scanner
-* [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html) or [OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan) - Document Scanners
+* [Adobe Scanner](https://www.adobe.com/acrobat/mobile/scanner-app.html), [CleanScan](https://github.com/clean-apps/CleanSCAN), [DocScanner](https://github.com/Aman-zishan/DocScanner) or [OpenScan](https://github.com/Ethereal-Developers-Inc/OpenScan) - Document Scanners
 * [IRuin](https://iriun.com/), [Reincubate Camo](https://reincubate.com/camo/) or [Dev47Apps](https://www.dev47apps.com/) - Use Android as Webcam 
 * [Deskreen](http://deskreen.com/) - Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen) 
 * [GeorgieLabs](https://georgielabs.net/) - Use Phone as Wireless Speaker / Headphone Port
@@ -509,6 +511,7 @@
 * [Accrescent](https://accrescent.app/) - Alt App Store
 * [Fossapps Creator](https://un.pixel-fy.com/) - Fossapps Package Creator / [GitHub](https://github.com/wacko1805/Fossapps-creator)
 * [Android Zone](https://android-zone.ws/) - Forum
+* [Android Ultimate Collection](https://forum.xda-developers.com/t/android-ultimate-collection-guides.4513231/) - Untouched
 * [Android App](https://techy-transistor.notion.site/5359aca6d9494ed893e57823f55499e5?v=4a68e3958c1b443fa61e25c87f96d384) - Untouched
 * [UpToDown](https://en.uptodown.com/) - Untouched
 * [APKGK](https://apkgk.com/) - Untouched
