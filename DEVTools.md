@@ -25,7 +25,7 @@
 * [Git-it](https://github.com/jlord/git-it-electron) - Git Desktop Learning App
 * [Github Cheat Sheet](http://git.io/sheet) / [GitHub](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
 * [First Timers Only](https://www.firsttimersonly.com/) or [First Contributions](https://firstcontributions.github.io/) - Git Code Contribution Guides
-* [Developer.Mozilla](https://developer.mozilla.org/) - Developer Resources 
+* [Developer.Mozilla](https://developer.mozilla.org/) or [Web Dev Resources](https://joshjoshuap-webdevresources.vercel.app/) - Developer Learning Resources 
 * [Awesome Certificates](https://github.com/PanXProject/awesome-certificates) - Dev Courses with Certificates
 * [DZone](https://dzone.com/) - Developer Tutorials
 * [RedHat](https://developers.redhat.com/) - Development Tutorials
@@ -941,6 +941,7 @@ Automated Incident Response and Forensics Framework
 * [Git-notify](https://github.com/jevakallio/git-notify) - Embed Announcements into Git Commit Messages
 * [Shields.io](https://shields.io/) - Metadata badges for GitHub Readmes
 * [SkillIcons](https://skillicons.dev/) - Skill Badges for GitHub Readmes / Resumes
+* [Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk) - Badges for GitHub Projects
 * [GitHub Spray](https://github.com/Annihil/github-spray) - Draw on Github Contribution Page
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - Enable Snake Game on GitHub Readme
 * [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) or [GPRM](https://gprm.itsvg.in/) - Generate Git Profile Readme
