@@ -251,6 +251,7 @@
 * ⭐ **[Major Geeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html)**
 * ⭐ **[Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)** - Selfhosted Software Index
 * ⭐ **[Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites)** - Software / App Alternatives
+* [Windows Ultimate Collection](https://forum.xda-developers.com/t/windows-ultimate-collection-guides.4507867/)
 * [FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - Open-Source Wiki
 * [OlderGeeks](https://oldergeeks.com/)
 * [Chiefs Big List of Programs](https://github.com/TheChiefMeat/Chiefs-Big-List-of-Programs/)
