@@ -265,7 +265,7 @@
 * [ImHex](https://github.com/WerWolv/ImHex) - Hex Editor
 * [Learn the Linux Command-Line](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_learn_the_linux_command_line), [Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [LinuxCommand](https://www.linuxcommand.org/tlcl.php) - Command-Line Lessons
 * [Cheat.sh](https://cheat.sh/) or [how2](https://github.com/santinic/how2) - Command-Line Cheat Sheet
-* [tldr](https://github.com/tldr-pages/tldr/) - Command-Line Tools
+* [tldr](https://github.com/tldr-pages/tldr/) - Command-Line Tools / [Rust](https://github.com/dbrgn/tealdeer)
 * [Gum](https://github.com/charmbracelet/gum) - Shell Script Creator
 * [shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial) - Shell Scripting Tutorial
 * [explainshell.com](https://explainshell.com/) - Match Command-Line Arguments to Help Text
