@@ -63,7 +63,6 @@
 * [brighstorm](https://www.brightstorm.com/) - Test Prep
 * [O'Reilly](https://www.oreilly.com/) - Tech / Programming / infinite free trial by clearing cookies / making new account
 * [pad.ma](https://pad.ma/) - Text-annotated Videos
-* [Tyler DeWitt](https://www.youtube.com/user/tdewitt451) or [TheOrganicChemistryTutor](https://www.youtube.com/c/TheOrganicChemistryTutor) - Chemistry Lessons
 * [Code.org](https://code.org/) - Computer Science Courses 
 * [How to Become a Computer Science Engineer](https://laconicml.com/computer-science-engineer-mit-university/) - Computer Science Courses 
 * [Open Source CS Degree](https://github.com/mvillaloboz/open-source-cs-degree) - Computer Science Courses
@@ -367,6 +366,38 @@
 * [SimScale](https://www.simscale.com/) or [CFDTool](https://www.cfdtool.com/) - Fluid Dynamics & Heat Transfer
 Simulator
 * [Simuwaerm](https://github.com/file-acomplaint/simuwaerm) - Heat Simulator
+
+***
+
+# ► Chemistry 
+
+* ⭐ [**LibreTexts Chemistry**](https://chem.libretexts.org)
+* ⭐ [**Internet Chemistry**](https://www.internetchemistry.com/search.php) - Search Index
+* [Tyler DeWitt](https://www.youtube.com/user/tdewitt451), [TheOrganicChemistryTutor](https://www.youtube.com/c/TheOrganicChemistryTutor), [Allery Chemistry](https://www.youtube.com/channel/UCPtWS4fCi25YHw5SPGdPz0g), [Khan Academy AP Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta), [PeriodicVideos](https://www.youtube.com/@periodicvideos) / [Periodic Table Videos](http://www.periodicvideos.com) - Chemistry Lessons
+* [ChemicalAid](https://en.intl.chemicalaid.com/) - Chemistry Calculators & Element Tables
+* [ChemistrySteps](https://www.chemistrysteps.com/)
+* [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii) - Study Guides
+* [chemguide](https://www.chemguide.co.uk)
+* [ChemistryTalk](https://chemistrytalk.org/) - Tutorials / Experiments / Elements / Reference Articles
+* [Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables) - Online Periodic Tables / [App](https://jlindemann.se/homepage/atomic/)
+* [Sciencenotes](https://sciencenotes.org) - Periodic Tables / Chemistry Projects and Questions
+* [Organic Chemistry](https://www.organic-chemistry.org) - Organic Reactions
+* [CommonOrganicChemistry](https://www.commonorganicchemistry.com) - Common Reactions / Common Reagents
+* [Synarchive Named Reactions](https://www.synarchive.com) - Database of Organic syntheses / Named Reactions
+* [name-reaction](https://www.name-reaction.com) - List of Name Reactions
+* [ChemTube3D](https://www.chemtube3d.com) - Interactive 3D Chemistry Animations
+* [ChemSpider](http://www.chemspider.com/) - Chemical Structures
+* [Merck Index](https://www.rsc.org/Merck-Index/)
+* [Organic Chemistry Data](https://organicchemistrydata.org/)
+* [Colorado Chemistry Simulations](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&type=html%2Cprototype) - Chemistry Animations
+* [Chemical Forums](http://www.chemicalforums.com/)
+* [Springer](http://www.springer.com), [Biomed Central](http://www.biomedcentral.com) - Scientific Publishers
+* [Electronic Journals Library - University of Regensburg](http://ezb.ur.de/ezeit/fl.phtml?bibid=AAAAA&colors=7&lang=en&notation=V), [abc-chemistry](https://abc-chemistry.org/), [arkat-usa](https://www.arkat-usa.org/) - Journals
+* [Martindale's virtual chemistry center](https://martindalecenter.com/calculators3b.html)
+* [Chemexper Chemical Directory](http://www.chemexper.com/)
+* [ChemIDplus Advanced](https://chem.nlm.nih.gov/chemidplus/)
+* [chemhelper](http://chemhelper.com/)
+* [OrgSyn](http://orgsyn.org/Default.aspx)
 
 ***
 
@@ -709,7 +740,6 @@ Simulator
 * [AuthorStream](http://www.authorstream.com/) or [Slideshare](https://www.slideshare.net/) - Watch / Share Slideshows & Presentations
 * [SlideShare Downloader](https://www.slidesharedownloader.com/) - Download Slideshow Presentations
 * [Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables) - Online Periodic Tables / [App](https://jlindemann.se/homepage/atomic/)
-* [ChemicalAid](https://en.intl.chemicalaid.com/) - Chemistry Calculators & Element Tables
 * [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
 * [Retrosynthesis](http://retrosynthesis.com/) - Organic Retrosynthesis Engine / [GitHub](https://github.com/sudo-rushil/odachi)
 * [Answers.com](https://www.answers.com/) or [Quora](https://www.quora.com/) / [Bypass](https://github.com/VoidlessVoid7/quora-plus-bypass) / [Frontend](https://github.com/zyachel/quetre) - Q&A Communities
