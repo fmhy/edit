@@ -371,8 +371,8 @@ Simulator
 
 # ► Chemistry 
 
-* ⭐ [**LibreTexts Chemistry**](https://chem.libretexts.org)
-* ⭐ [**Internet Chemistry**](https://www.internetchemistry.com/search.php) - Search Index
+* ⭐ **[LibreTexts Chemistry](https://chem.libretexts.org)**
+* ⭐ **[Internet Chemistry](https://www.internetchemistry.com/search.php)** - Search Index
 * [Tyler DeWitt](https://www.youtube.com/user/tdewitt451), [TheOrganicChemistryTutor](https://www.youtube.com/c/TheOrganicChemistryTutor), [Allery Chemistry](https://www.youtube.com/channel/UCPtWS4fCi25YHw5SPGdPz0g), [Khan Academy AP Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta), [PeriodicVideos](https://www.youtube.com/@periodicvideos) / [Periodic Table Videos](http://www.periodicvideos.com) - Chemistry Lessons
 * [ChemicalAid](https://en.intl.chemicalaid.com/) - Chemistry Calculators & Element Tables
 * [ChemistrySteps](https://www.chemistrysteps.com/)
