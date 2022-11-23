@@ -163,8 +163,6 @@
 * [Spotify Podcast Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders) - Download Podcasts from Spotify
 * [ListenLater](https://www.listenlater.fm/) - Turn Articles into Podcasts 
 * [ListenBox](https://listenbox.app/) - Turn YouTube Video into Podcasts
-* [Anchor](https://anchor.fm/) - Podcast Creator
-* [Spotify Podcasters](https://podcasters.spotify.com/) - Podcaster Dashboard
 * [Spodcast](https://github.com/Yetangitu/Spodcast) - Spotify Podcast RSS Proxy
 * [JRE Missing](https://www.jremissing.com/) - Tracks Missing JRE Podcasts
 
