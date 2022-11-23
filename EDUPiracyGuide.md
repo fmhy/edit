@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/yIPDO6j.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/nBmArn6.png)** - For mobile users
 
 ***
 ***
