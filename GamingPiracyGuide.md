@@ -161,12 +161,15 @@
 * [EmuCR](https://www.emucr.com/) - Emulators
 * [Retrostic](https://www.retrostic.com/) - Emulators / ROMs
 * [Emulanium](https://emulanium.com/) - Emulators / ROMs
+* [ROM Here](https://romhere.com/) - Emulators / ROMs
 * [ROMsMania](https://romsmania.cc/) - Emulators / ROMs
 * [ROMsUniverse](https://www.ROMsuniverse.com/) - Emulators / ROMs
 * [ROMsie](https://ROMsie.com/) - Emulators / ROMs
+* [Romsever](https://romsever.com) - Emulators / ROMs
 * [ROMs Games](https://www.ROMsgames.net/) - Emulators / ROMs
 * [ConsoleROMs](https://www.consoleROMs.com/) - Emulators / ROMs
 * [HexRom](https://hexrom.com/) - Emulators / ROMs
+* [GameGinie](https://gameginie.com/) - Emulators / ROMs
 * [Rom Hustler](https://romhustler.org/) - Emulators / ROMs
 * [Technosagar](https://roms.technosagar.com/) - ROMs
 * [80s](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_80s) - Emulators / ROMs 
@@ -208,6 +211,7 @@
 * [LegendaryRepacks](https://discord.gg/RUSNHSk)
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - ROMs / Torrent
 * [Switch ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - ROMs / Switch
+* [WiiU ROMs](https://wiiuroms.net/) - ROMs / WiiU
 * [MarioCube](https://mariocube.com/) - ROMs / Wii / Gamecube
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [3DS ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - ROMs / 3DS
