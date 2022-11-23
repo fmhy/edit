@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/nBmArn6.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/RKhI5BL.png)** - For mobile users
 
 ***
 ***
@@ -366,6 +366,24 @@
 * [SimScale](https://www.simscale.com/) or [CFDTool](https://www.cfdtool.com/) - Fluid Dynamics & Heat Transfer
 Simulator
 * [Simuwaerm](https://github.com/file-acomplaint/simuwaerm) - Heat Simulator
+
+***
+
+# ► Biology
+
+* ⭐ **[Wikispecies](https://species.wikimedia.org/)** or [The Catalogue of Life](https://www.catalogueoflife.org/) - Species Directory
+* [OneZoom](http://www.onezoom.org/) - Tree of Life Explorer 
+* [Alien](https://alien-project.org/) - Artificial Life Simulator / [GitHub](https://github.com/chrxh/alien) / [Video](https://youtu.be/w9R6zrdl6jM)
+* [Lost and Found Nature](https://www.lostandfoundnature.com/) - Re-Discovered Animals & Plants
+* [A-Z Animal](https://a-z-animals.com/) - Animal Encyclopedia
+* [Ocearch](https://www.ocearch.org/?list) - Track Marine Life
+* [The Deep Sea](https://neal.fun/deep-sea/) - Interactive Deep Sea Life Guide
+* [Pattern Radio](https://patternradio.withgoogle.com/) - Listen to Whale Songs
+* [Xeno-Canto](https://www.xeno-canto.org/) - Bird Sound Identifier 
+* [Life Under the Ice](https://lifeundertheice.org/) - View Antarctic Microbes
+* [Candide](https://candide.com/GB/identify-plants) or [Pl@ntNet](https://identify.plantnet.org/) - Plant Identifier
+* [WhyDoCatsAndDogs...?](https://whydocatsanddogs.com/) - Pet Q&A Site
+* [Get Body Smart](https://www.getbodysmart.com/) - Learn about Human Anatomy and Physiology
 
 ***
 
@@ -833,23 +851,10 @@ Simulator
 * [Ray Optics Simulation](https://ricktu288.github.io/ray-optics/) - Light Reflection / Refraction Simulator
 * [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) - Light and Shadow Lesson
 * [Interactive 4D Handbook](https://baileysnyder.com/interactive-4d/) - Interactive Fourth Dimension
-* [Início](https://www.desolhar-philo.com/) - Learn about Philosophers / Philosophy
-* [Get Body Smart](https://www.getbodysmart.com/) - Learn about Human Anatomy and Physiology
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) or [Mindat](https://www.mindat.org/) - Mineralogy Database
-* [WhyDoCatsAndDogs...?](https://whydocatsanddogs.com/) - Pet Q&A Site
-* [Alien](https://alien-project.org/) - Artificial Life Simulator / [GitHub](https://github.com/chrxh/alien) / [Video](https://youtu.be/w9R6zrdl6jM)
-* [OneZoom](http://www.onezoom.org/) - Tree of Life Explorer 
-* [Wikispecies](https://species.wikimedia.org/) or [The Catalogue of Life](https://www.catalogueoflife.org/) - Species Directory
-* [Lost and Found Nature](https://www.lostandfoundnature.com/) - Re-Discovered Animals & Plants
-* [A-Z Animal](https://a-z-animals.com/) - Animal Encyclopedia
-* [Ocearch](https://www.ocearch.org/?list) - Track Marine Life
-* [The Deep Sea](https://neal.fun/deep-sea/) - Interactive Deep Sea Life Guide
-* [Pattern Radio](https://patternradio.withgoogle.com/) - Listen to Whale Songs
-* [Life Under the Ice](https://lifeundertheice.org/) - View Antarctic Microbes
+* [Início](https://www.desolhar-philo.com/) - Learn about Philosophers / Philosophy
 * [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
 * [8000ers](https://martin-laxenaire.fr/experiments/8000ers/#/everest) or [Mount Everest 3D](https://mount-everest3d.com/) - Mountain Visualizations & Info
-* [Xeno-Canto](https://www.xeno-canto.org/) - Bird Sound Identifier 
-* [Candide](https://candide.com/GB/identify-plants) or [Pl@ntNet](https://identify.plantnet.org/) - Plant Identifier
 * [nanoHUB](https://nanohub.org/) - Nanotechnology Tool Index
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
 * [NandGame](https://nandgame.com/) - Computer Building Puzzle
