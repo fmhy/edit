@@ -458,7 +458,7 @@ Simulator
 # ► Space
 
 * [/r/Space](https://reddit.com/r/Space) - Space Subreddit
-* [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration Website / [Images](https://images.nasa.gov/) / [Audio](https://www.nasa.gov/connect/sounds/index.html) / [Documents](https://ntrs.nasa.gov/search.jsp) / [ISS Live](https://www.nasa.gov/multimedia/nasatv/iss_ustream.html)
+* [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration Website / [Images](https://images.nasa.gov/) / [Audio](https://www.nasa.gov/connect/sounds/index.html) / [Documents](https://ntrs.nasa.gov/search.jsp)
 * [ESA](https://www.esa.int/) - European Space Agency Website
 * [Space.com](https://www.space.com/) - Space News
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Math and Physics Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_math_and_physics_books) - Astronomy Books
@@ -467,7 +467,7 @@ Simulator
 * [EarthData](https://worldview.earthdata.nasa.gov/) - Daily Satellite Replays
 * [NASA WorldWind](http://sourceforge.net/projects/nasa-exp/) or [Planet Globe](https://nbremer.github.io/planet-globe/) - Virtual Globes
 * [ISS Sim](https://iss-sim.spacex.com/) - ISS Docking Simulator 
-* [HDEV Payload](https://video.ibm.com/channel/iss-hdev-payload) - Live ISS Stream ISS
+* [HDEV Payload](https://video.ibm.com/channel/iss-hdev-payload) or [ISS UStream](https://www.nasa.gov/multimedia/nasatv/iss_ustream.html) - Live ISS Streams
 * [SpaceX Media 2015](http://web.archive.org/web/20150328140645/http://www.spacex.com/media) / [2019](http://web.archive.org/web/20191122175115/https://www.spacex.com/media) - SpaceX Media Archive
 * [Leolabs Space](https://platform.leolabs.space/visualization) - Low Earth Orbit Simulator
 * [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/) - Satellite Imagery
