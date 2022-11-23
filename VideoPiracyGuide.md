@@ -351,17 +351,19 @@
 * [AnimeLon](https://animelon.com/) - Sub / Learn Japanese
 * [because.moe](https://because.moe/) - Legal Anime Sites Search 
 * [Simplyaweeb](https://simplyaweeb.to/) - Sub / Dub / [Discord](https://discord.gg/4uGvPUV)
-* [KickAssAnime](https://www2.kickassanime.ro/) - Sub / Dub
-* [Genoanime](https://genoanime.com/) - Sub / Dub 
+* [KickAssAnime](https://www2.kickassanime.ro/) - Sub / Dub / [Discord](https://discord.com/invite/GEJk5K7)
+* [Genoanime](https://genoanime.com/) - Sub / Dub / [Discord](https://discord.com/invite/TMe9eVs2YY)
 * [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - Sub
-* [GoGoAnime](https://gogoanime.ee/), [2](https://gogoanime.tel/) - Sub / Dub / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime) / [Mirrors](https://gogoanime.news/)
+* [GoGoAnime](https://gogoanime.ee/), [2](https://gogoanime.tel/) - Sub / Dub / [Discord](https://discord.com/invite/gogo) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime) / [Mirrors](https://gogoanime.news/)
 * [GoGo-Play](https://goload.io/), [2](https://goload.pro/) - Sub
 * [AnimeShow](https://www2.animeshow.tv/) - Sub
 * [AnimeNana](https://animenana.com/) - Sub
 * [AnimeRush](https://www.animerush.tv/) - Sub / Dub
+* [AnimeVibe](https://animevibe.se/) - Sub / [Discord](https://discord.com/invite/Vyw8mDv)
+* [AnimeFrenzy](https://animefrenzy.vip/) - Sub / [Discord](https://discord.com/invite/RdxXASy)
 * [KissCartoon.info](https://kisscartoon.info/) - Anime / Cartoons / Sub / Dub
 * [Soul-Anime](http://ww9.soul-anime.us/) - Sub
-* [YugenAnime](https://yugen.to/) - Sub / Dub
+* [YugenAnime](https://yugen.to/) - Sub / Dub / [Discord](https://discord.com/invite/MQqwQREyCz)
 * [Animegg](https://www.animegg.org/) - Sub / Dub
 * [Kawaiifu](https://kawaiifu.com/) - Sub / Dub
 * [AnimeFox](https://animefox.io/) - Sub / Dub / [Discord](https://discord.com/invite/z2BSpXheN9)
@@ -373,17 +375,16 @@
 * [Kissanime](https://kissanime.dev/) - Sub / Dub
 * [Animeplyx](https://animeplyx.eu/) - Sub
 * [123Anime.to](https://123anime.to/) - Sub / Dub / [Discord](https://discord.gg/z2BSpXheN9)
-* [Simple Anime](http://simple-anime.herokuapp.com/) - Sub
-* [KimAnime](https://kimanime.com/) - Sub / Dub
+* [Simple Anime](http://simple-anime.herokuapp.com/) - Sub / [Discord](https://discord.com/invite/Fg6YDAGmVK)
+* [KimAnime](https://kimanime.com/) - Sub / Dub / [Discord](https://discord.com/invite/JdmpSF92N4)
 * [AnimeTribes](https://animetribes.ru/) - Sub 
 * [5Anime](https://5anime.net/) - Sub / Dub
 * [AnimelandTV](https://www.animelandtv.me/) - Dub
 * [AnimeOnsen](https://animeonsen.xyz/) - Sub
 * [Animetake](https://animetake.tv/) - Sub
-* [AnimetTV](https://animet.tv/) - Sub / Dub
-* [AnimeVibe](https://animevibe.se/) - Sub
-* [Animeow.me](https://animeow.me/) - Sub / Dub
-* [Anime OWL](https://animeowl.net/home/) - Sub / Dub
+* [AnimetTV](https://animet.tv/) - Sub / Dub / [Discord](https://discord.com/invite/nNY94AqFtK)
+* [Animeow.me](https://animeow.me/) - Sub / Dub / [Discord](https://discord.com/invite/FT5MnbcDWz)
+* [Anime OWL](https://animeowl.net/home/) - Sub / Dub / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [AnimeCruzers](https://animecruzers.me/) - Sub / Dub
 * [AnimeGo](https://animego.se/) - Sub / Dub
 * [ChiaAnime](https://chia-anime.su/) - Sub
@@ -391,21 +392,20 @@
 * [AnimeXin](https://animexin.xyz/) - Sub
 * [AnimeTV](https://animetv.cc/) - Sub / Dub
 * [6ani](https://6ani.me/) - Sub
-* [MyAnime](https://myanime.live/) - Sub
+* [MyAnime](https://myanime.live/) - Chine Anime Sub
 * [UnliAnime](https://unlianime.to/) - Sub
 * [AnimeSuge](https://animesuge.to/) - Sub / Dub
-* [BestDubbedAnime](https://bestdubbedanime.com/) - Dub
+* [BestDubbedAnime](https://bestdubbedanime.com/) - Dub / [Discord](https://discord.com/invite/f2pHvauUPu)
 * [tenshi.moe](https://tenshi.moe/) - Sub / Dub
 * [AnimeGuru](https://www.animeguru.net/) - Sub / Dub
 * [An9where](https://an9where.vercel.app/) - Sub / Dub
 * [AnimeEpisodes](https://ww6.animesepisodes.com/) - Sub / Dub
-* [AnimeFrenzy](https://animefrenzy.vip/) - Sub 
-* [Crimsonfansubs](https://crimsonfansubs.com/) - Sub
+* [Crimsonfansubs](https://crimsonfansubs.com/) - Sub / [Discord](https://discord.com/invite/wnK38MjB)
 * [AnimeXin](https://animexin.info/) - Sub
 * [AniWatcher](https://aniwatcher.com/) - Sub / Dub
 * [AniWatch](https://aniwatch.pro/) - Sub
 * [Anime5s](https://anime5s.com/) - Sub / Dub
-* [StreamAnimeTV](https://streamanimetv.net/) - Sub / Dub
+* [StreamAnimeTV](https://streamanimetv.net/) - Sub / Dub / [Discord](https://discord.com/invite/C6Xy3Pm)
 * [AnimeFreak](https://www.animefreak.vip/) - Sub / Dub
 * [DubbedAnime](https://dubbedanime.biz/) - Sub / Dub 
 * [9AnimeTV](https://9animetv.su/) - Sub
