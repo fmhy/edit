@@ -313,7 +313,8 @@
 * [Dezgo](https://dezgo.com/)
 * [aiimag.es](https://sunija.itch.io/aiimages)
 * [Pinegraph](https://pinegraph.com/create)
-* [PlaygroundAI](https://playgroundai.com/) -
+* [PlaygroundAI](https://playgroundai.com/)
+* [Artificy](https://artificy.com/)
 * [hypnogram](https://hypnogram.xyz/)
 * [AI Art Generator](https://neural.love/ai-art-generator)
 * [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent)
