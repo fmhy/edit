@@ -535,9 +535,10 @@ Simulator
 
 # ► Virtual Tours
 
-* [Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/) - Online Learning Collections / Tours 
+* ⭐ **[Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/)** - Online Learning Collections / Tours 
 * [Gez.la](https://gez.la/) - Virtual Tours Map
 * [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour
+* [Digital Giza](https://giza.mused.org/) - Great Pyramid Virtual Tours
 * [Persepolis Reimagined](https://persepolis.getty.edu/) - Explore Persepolis Recreation
 * [Spitfire Panorama](https://www.haraldjoergens.com/panoramas/spitfire-td314/files/) - Spitfire Mark IX Cockpit Interactve Panorama
 * [Virtual Vist Tours](https://www.virtualvisittours.com/) - Ireland Virtual Tours 
@@ -545,6 +546,7 @@ Simulator
 * [Matterport](https://matterport.com/gallery) - Explore Real Places Digitally
 * [Outside Simulator](https://outsidesimulator.com/) - Simulate Being Outside 
 * [Heygo](https://www.heygo.com/) - Live Interactive Virtual Tours
+* [Zhijianshang](https://www.zhijianshang.com/) - Explore China in 360VR
 
 ***
 
@@ -816,7 +818,7 @@ Simulator
 * [Data Gif Maker](http://datagifmaker.withgoogle.com/) - Animate Data 
 * [flowchart fun](https://flowchart.fun/) - Generate Flowchart From Text / [GitHub](https://github.com/tone-row/flowchart-fun)
 * [OpenBoard](https://openboard.ch/), [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboard
-* [app.diagrams](https://app.diagrams.net/) / [Git](https://github.com/jgraph/drawio), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [lybniz](https://github.com/thomasfuhringer/lybniz), [LineGraphMaker](https://linegraphmaker.co/) or [Gephi](https://gephi.org/) - Graph / Diagram Creator
+* [Graph / Diagram Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_graph_.2F_diagram_creators)
 * [Altium](https://www.altium.com/viewer/) - Schematics Visualizer
 * [OpenLearning](https://www.openelearning.org/) - Create Course Presentations
 * [Quizizz](https://quizizz.com/) - Create Quizzes, Lessons, Flashcards & Presentations
