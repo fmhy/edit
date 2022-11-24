@@ -149,6 +149,7 @@
 * [Yesterweb Live Radio](https://yesterweb.org/radio) - Independent Music Radio
 * [Radio Garden](https://radio.garden/) - Worldwide Radio
 * [Radiooooo](https://radiooooo.com/) - Radio / Time Machine
+* [Campus FM](https://www.campus-fm.com/) - College Radio
 * [420.moe](https://420.moe/) - 420 Radio 
 * [Listen To The Clouds](http://listentothe.cloud/) or [LiveATC](https://www.liveatc.net/) - Air Traffic Radio Chatter 
 * [Broadcastify](https://www.broadcastify.com/) - Live Emergency, Aircraft & Rail Radio
