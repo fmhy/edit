@@ -326,7 +326,7 @@
 * [NeoGeoFun](http://www.neogeofun.com/) - Neo Geo Browser Emulator
 * [LCD Games](http://bdrgames.nl/lcdgames/) - Retro LCD Game Emulator
 * [File-Hunter](https://www.file-hunter.com/) - MSX / Amiga Browser Emulator
-* [MSXGamesWorld](https://www.msxgamesworld.com/) - MSX Browser Emulator
+* [MSXGamesWorld](https://www.msxgamesworld.com/) or [CheatMSX](https://www.cheatmsx.com/) - MSX Browser Emulators
 * [C64Online](https://c64online.com/) - C64 Browser Emulator
 * [Super Mario Bros](https://supermariobros.io/), [SuperMarioBrosGames](https://supermariobrosgames.com/) or [SMBGames](https://smbgames.be/) - Super Mario Browser Emulators
 * [SMWGames](https://www.smwgames.com/) - Hacked Super Mario World Browser Emulators
@@ -364,7 +364,7 @@
 * [OldPCGaming](http://oldpcgaming.net/) - Retro PC Games
 * [~archive](http://websites.umich.edu/~archive/) - Retro PC / Mac Games
 * [LegendsWorld](https://www.legendsworld.net/) - Retro Adventure PC Games
-* [MSXGamesWorld](https://msxgamesworld.com/index.php) or [MSXAbandonware](http://msxabandonware.com/en/home) - MSX Games
+* [MSXGamesWorld](https://msxgamesworld.com/index.php), [MSX Resource Center](https://www.msx.org/), [Generation MSX](https://www.generation-msx.nl/), [File Hunter](https://www.file-hunter.com/), [download.file-hunter](https://download.file-hunter.com/) or [MSXAbandonware](http://msxabandonware.com/en/home) - MSX Games
 * [ROMs For MAME](https://www.romsformame.com/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
 * [The Outdated Arcade](https://discord.gg/SPZpMpntj9) - Game Preservation Server
 * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs 
