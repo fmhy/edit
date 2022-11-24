@@ -200,7 +200,10 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Anime Download Apps
 
-[Monkey-DL](https://github.com/Oshan96/monkey-dl), [HakuNeko](https://hakuneko.download/) / [2](https://github.com/manga-download/hakuneko), [Anime Downloader](https://github.com/anime-dl/anime-downloader), [Anigrab](https://github.com/ngomile/anigrab), [AnimeDL](https://github.com/justfoolingaround/animdl), [ultimate-batch-anime-downloader](https://github.com/KorigamiK/ultimate-batch-anime-downloader), [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom), [Anime-Downloader](https://github.com/henry-richard7/Anime-Downloader), [Anime-dl](https://github.com/gabelluardo/anime-dl) / [2](https://github.com/vrienstudios/anime-dl) / [3](https://github.com/vrienstudios/anime-dl)
+⭐ **[HakuNeko](https://hakuneko.download/) / [2](https://github.com/manga-download/hakuneko)**
+
+[Monkey-DL](https://github.com/Oshan96/monkey-dl), [Anime Downloader](https://github.com/anime-dl/anime-downloader), [Anigrab](https://github.com/ngomile/anigrab), [AnimeDL](https://github.com/justfoolingaround/animdl), [ultimate-batch-anime-downloader](https://github.com/KorigamiK/ultimate-batch-anime-downloader), [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom), [Anime-Downloader](https://github.com/henry-richard7/Anime-Downloader), [Anime-dl](https://github.com/gabelluardo/anime-dl) / [2](https://github.com/vrienstudios/anime-dl) / [3](https://github.com/vrienstudios/anime-dl)
+
 ***
 
 #### Antivirus
@@ -1378,7 +1381,9 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Manga Download Bots
 
-[HakuNeko](https://github.com/manga-download/hakuneko), [Comics Downloader](https://github.com/Girbons/comics-downloader), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [MangaBot](http://mangabot.github.io/), [Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader), [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [mangadesk](https://github.com/darylhjd/mangadesk), [mdownloader](https://github.com/Rudoal/mdownloader), [mangapy](https://pypi.org/project/mangapy/), [manga2mobi](https://github.com/KevCui/manga2mobi), [Akianonymus](https://github.com/Akianonymus/mangadl-bash), [simple-manga-downloader](https://github.com/Kanjirito/simple-manga-downloader), [mangodl](https://github.com/Gyro7/mangodl), [anime-dl](https://github.com/vrienstudios/anime-dl) / [2](https://github.com/vrienstudios/anime-dl), [manga-py](https://github.com/manga-py/manga-py), [mangal](https://github.com/metafates/mangal), [comicMaker](https://github.com/gunjannandy/comicMaker), [LittleWeeb](https://littleweeb.github.io/)
+⭐ **[HakuNeko](https://hakuneko.download/) / [2](https://github.com/manga-download/hakuneko)**
+
+[Comics Downloader](https://github.com/Girbons/comics-downloader), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [MangaBot](http://mangabot.github.io/), [Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader), [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [mangadesk](https://github.com/darylhjd/mangadesk), [mdownloader](https://github.com/Rudoal/mdownloader), [mangapy](https://pypi.org/project/mangapy/), [manga2mobi](https://github.com/KevCui/manga2mobi), [Akianonymus](https://github.com/Akianonymus/mangadl-bash), [simple-manga-downloader](https://github.com/Kanjirito/simple-manga-downloader), [mangodl](https://github.com/Gyro7/mangodl), [anime-dl](https://github.com/vrienstudios/anime-dl) / [2](https://github.com/vrienstudios/anime-dl), [manga-py](https://github.com/manga-py/manga-py), [mangal](https://github.com/metafates/mangal), [comicMaker](https://github.com/gunjannandy/comicMaker), [LittleWeeb](https://littleweeb.github.io/)
 
 ***
 
