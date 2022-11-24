@@ -143,13 +143,14 @@
 * [MegaGames](https://megagames.com/) or [GTrainers](https://gtrainers.com/) - Fixes / Trainers / Saves
 * [CheatEngine](https://cheatengine.org/) or [WeMod](https://wemod.com/) / [Forum](https://mrantifun.net/) - Cheat Engine
 * [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - Cheat Engine Table
-* [CheatCodes](https://cheatcodes.com/), [SuperCheats](https://www.supercheats.com/), [CheatBook](http://www.cheatbook.de/), [LiveAbout](https://www.liveabout.com/) or [Cheat Happens](https://cheathappens.com/) - Cheat Codes
+* [CheatCodes](https://cheatcodes.com/), [SuperCheats](https://www.supercheats.com/), [CheatBook](http://www.cheatbook.de/), [LiveAbout](https://www.liveabout.com/), [GameHacking](https://gamehacking.org/) or [Cheat Happens](https://cheathappens.com/) - Cheat Codes
 * [AreWeAntiCheatYet?](https://areweanticheatyet.com/) - Check if Games is Anti-Cheat
 * [fuckigg](https://github.com/Pheeeeenom/fuckigg) - Remove IGG DRM
 * [UE4 Console Unlocker](https://framedsc.github.io/GeneralGuides/universal_ue4_consoleunlocker.htm) - Unreal Engine 4 Console Unlocker
 * [How To Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
 * [AltCtrls](https://altctrls.info/) - Custom Controller Crafting Resources
 * [Gamesoft](http://www.gamesoft.com/) - Gaming News Feed Manager
+* [Sega Retro](https://segaretro.org/) - Sega Wiki
 * [Doom Wiki](https://doomwiki.org/wiki/Entryway) - Doom Community Project Documentation
 * [Hard Drop](https://harddrop.com/wiki/Tetris_Wiki) or [Tetris.wiki](https://tetris.wiki/) - Tetris Wikis
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
