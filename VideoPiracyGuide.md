@@ -385,7 +385,6 @@
 * [AnimetTV](https://animet.tv/) - Sub / Dub / [Discord](https://discord.com/invite/nNY94AqFtK)
 * [Animeow.me](https://animeow.me/) - Sub / Dub / [Discord](https://discord.com/invite/FT5MnbcDWz)
 * [Anime OWL](https://animeowl.net/home/) - Sub / Dub / [Discord](https://discord.com/invite/xHYcvdMvZ2)
-* [AnimeCruzers](https://animecruzers.me/) - Sub / Dub
 * [AnimeGo](https://animego.se/) - Sub / Dub
 * [ChiaAnime](https://chia-anime.su/) - Sub
 * [ChiaAnime.cc](https://chia-anime.cc/) - Sub
@@ -398,7 +397,6 @@
 * [BestDubbedAnime](https://bestdubbedanime.com/) - Dub / [Discord](https://discord.com/invite/f2pHvauUPu)
 * [tenshi.moe](https://tenshi.moe/) - Sub / Dub
 * [AnimeGuru](https://www.animeguru.net/) - Sub / Dub
-* [An9where](https://an9where.vercel.app/) - Sub / Dub
 * [AnimeEpisodes](https://ww6.animesepisodes.com/) - Sub / Dub
 * [Crimsonfansubs](https://crimsonfansubs.com/) - Sub / [Discord](https://discord.com/invite/wnK38MjB)
 * [AnimeXin](https://animexin.info/) - Sub
@@ -786,6 +784,7 @@
 * ⭐ **[hi10anime](https://hi10anime.com/)** - Sub
 * ⭐ **[Judas Discord](https://discord.gg/vbJ7RTn)** - Sub / Dub / [TeamDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_judas_teamdrive)
 * ⭐ **[Erai-Raws](https://www.erai-raws.info/)** - Sub / [Discord](https://discord.gg/tEeaXzD4KH)
+* ⭐ **[Anime Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anime_download_apps)** - Anime Downloading Tools
 * ⭐ **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)** - Telegram Anime Download Channels 
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - Sub / Dub / Anime / Manga Download Forum
 * [Animk](https://animk.info/) - Sub / Dub
@@ -822,7 +821,6 @@
 * [Anime Time Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime_time_drive) - Sub / Dub 
 * [nibl](https://nibl.co.uk/) - Sub / Dub / Anime Downloads / XDCC
 * [Bubble' Upscale Project](https://discord.gg/7kqqtJ7ArW) - Upscaled Anime / Requests
-* [Anime Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anime_download_apps) - Anime Downloading Tools
 * [manyame](https://github.com/asakura42/manyame/) - IRC Anime Download Script 
 * [Anime DL](https://archive.org/details/animedl4.0_202004) - Stream & Download Anime in VLC
 * [Crunchyroll.dl](https://github.com/Sakurai07/Crunchyroll.dl) or [Crunchyroll Downloader](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - Non-Prem Crunchyroll Downloaders 
