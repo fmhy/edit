@@ -61,7 +61,7 @@
 * [alt3rnative](https://github.com/machiav3lli/alt3rnative) - Site / Tool Index
 * [Peelopaalu](https://peelopaalu.neocities.org/) - Site / Tool Index
 * [RefDesk](https://www.refdesk.com/facts.html) - Site / Tool Index
-* [/g/'s good sites](https://rentry.co/sites) - Site / Tool Index
+* [/g/'s good sites](https://rentry.co/sites), [2](https://soda.privatevoid.net/num/links/g-good-sites/) - Site / Tool Index
 * [The Scene](https://lkrjangid1.github.io/Awesome-Warez/) - Site / Tool Index 
 * [Product Hunt](https://www.producthunt.com/) - Site / Tool Index
 * [Useful Interweb](https://usefulinterweb.com/) or [Daily Useful Links](https://t.me/DailyUsefulLINKS) - Daily Websites
@@ -72,7 +72,7 @@
 * [itch.io Tools](https://itch.io/tools/free) - Site / Tool Index
 * [Beej's Index](https://www.beej.us/) - Site / Tool Index
 * [Nicelist](https://github.com/alamehan/nice-list) - Site Index
-* [num's link list](https://web.archive.org/web/20210102182957/https://soda.privatevoid.net/num/lists/web/) - Site Index
+* [num's link list](https://soda.privatevoid.net/num/links/) - Site Index
 * [NYPL Best of the Web](https://www.nypl.org/collections/nypl-recommendations/best-of-web) - Site Index
 * [Awesome Lite Websites](https://github.com/mdibaiee/awesome-lite-websites) - Lightweight Site Index
 * [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public Domain Resource Index Awesome
@@ -259,8 +259,9 @@
 * ⭐ **[TheOnion](https://theonion.com/)** or [DailyWrong](https://dailywrong.com/) - Fake News Articles 
 * ⭐ **[r.sine.com](https://r.sine.com/index)**, [Pretty Flix](https://cvines528.github.io/Pretty-Flix/) or [Cameron.Red](https://cameron.red/imgur/) - Random Images
 * ⭐ **[sandspiel.club](https://sandspiel.club/)** - Falling Sand Physics Sandbox 
-* ⭐ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_conversational_chatbots)** - Chat with AI
+* ⭐ **[Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_virtual_tours)** - Virtual Tours / Travel Simulators
 * ⭐ **[Live Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)** - Watch Live Webcams
+* ⭐ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_conversational_chatbots)** - Chat with AI
 * ⭐ **[LMGTFY](https://lmgtfy.app/)**, [LetMeGoogleThat](https://letmegooglethat.com/) or [GIYBF](http://giybf.com/) - Remind People that Google Exists 
 * ⭐ **[Fucking Homepage](https://fuckinghomepage.com/)** - Daily Interesting Stuff Homepage
 * ⭐ **[The GIF Pronunciation Page](http://www.olsenhome.com/gif/)** - How to Pronouce "GIF"
@@ -317,13 +318,8 @@
 * [BrickLink Studio](https://www.bricklink.com/v2/build/studio.page) - Lego Building Software
 * [Brickit](https://brickit.app/) - Scan Lego Collection for Build Ideas
 * [Building Instructions](https://www.lego.com/en-us/service/buildinginstructions) - Download Lego Instructions
-* [Outside Simulator](https://outsidesimulator.com/) - Simulate Being Outside 
-* [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [CityWalks](https://citywalks.live/), [Explordle](https://www.explordle.com/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulator
-* [Matterport](https://matterport.com/gallery) - Explore Real Places Digitally
-* [Zhijianshang](https://www.zhijianshang.com/) - Explore China in 360VR
-* [Heygo](https://www.heygo.com/) - Live Interactive Virtual Tours
+* [Outside Simulator](https://outsidesimulator.com/) - Simulate Being Outside
 * [stringers.live](https://stringers.live/) - Live Freelance Journalist Streams
-* [ThemeParkWorldwide](https://www.youtube.com/user/ThemeParkWorldwide/) - Full Day Theme Park Vlogs
 * [WindowSwap](https://window-swap.com/window) or [VisualVacation](https://virtualvacation.us/window) - Open Random Windows
 * [larsberg](http://www.larsberg.net/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - Trippy 3D Experiments
 * [Just Type Stuff ](https://web.archive.org/web/20191229101209/https://justtypestuff.com/) - Type Things into Existence
@@ -877,6 +873,7 @@
 * [Runmap](http://www.runmap.net/) - Running Routes
 * [Charity Miles](https://charitymiles.org/) - Donate to Charity While Running / Biking
 * [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - Zombie Running Adventure Game
+* [Bone Health Tracker](https://bonehealthtracker.com/) - Track Bone Health
 * [Benefits of Good Posture](https://youtu.be/OyK0oE5rwFY) - Posture Importance Lesson
 * [StuffThatWorks](https://www.stuffthatworks.health/) - Chronic Condition Info / Treatments
 * [Tone-Deafness Test](https://www.themusiclab.org/quizzes/td) - Pitch Perception Test
@@ -922,6 +919,7 @@
 * [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Site Maps
 * [Roadside America](https://www.roadsideamerica.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Maps & Guides
 * [FreeCampSites](https://freecampsites.net/) - Camp Site Map
+* [Traveler Map](https://travelermap.net/) - National Park Map
 * [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
 * [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - Earth Viewer
 * [Snazzy Maps](https://snazzymaps.com/) - Google Maps Themes
