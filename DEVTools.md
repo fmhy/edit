@@ -1090,6 +1090,7 @@ Automated Incident Response and Forensics Framework
 * [pipx](https://pypa.github.io/pipx/) - Execute Python Binaries in Isolated Environments
 * [Scikit Learn](https://github.com/scikit-learn/scikit-learn) - Machine Learning Library for Python
 * [Pytrait](https://github.com/xrudelis/pytrait) - Python Interface Traits
+* [PyPy](https://www.pypy.org/) - Alt Python Implementation
 * [Doppler](https://www.doppler.com/) - Sync Environment Variables
 * [AutoCode](https://autocode.com/) - Instant Endpoints
 * [typejuice](https://github.com/galvez/typejuice) - Documentation Generator for TypeScript Declaration Files
