@@ -423,7 +423,7 @@
 * [L3-WEB-DL-Script](https://github.com/parnexcodes/widevine-L3-WEB-DL-Script) - Widevine L3 DL Script
 * [Video Decrypter](https://github.com/CrackerCat/video_decrypter) - Widevine DRM Decrypter
 * [WV-AMZN-4K-RIPPER](https://github.com/docgonzo2015/widevinedump-1) - Amazon 4k SDR HDR 1080 Download Tool
-* [GetWVKeys](http://getwvkeys.cc/) - Send Widevine Requests 
+* [GetWVKeys](http://getwvkeys.cc/) - Send Widevine Requests / [GitHub](https://github.com/GetWVKeys/)
 * [Custom NVIDIA Shield TV](https://www.reddit.com/r/ShieldAndroidTV/comments/o6o5dz/new_guide_use_a_custom_launcher_shield_tv_with/) - Custom NVIDIA Shield TV Launcher
 
 ***
@@ -779,6 +779,7 @@
 * [LiveCounts](https://livecounts.io/) - Live Social Media Stats
 * [Cloaking Company](https://www.cloakingcompany.com/) - Create Alogorith Pleasing Social Media Posts
 * [Abogrow](https://www.abogrow.com/compose) - Preview Social Media Posts
+* [OPoster](https://github.com/OrienteerBAP/OPoster) - Schedule Social Media Posts
 * [you-get](https://github.com/soimort/you-get) - Download Media Contents from Webpages
 * [Got Your Back](https://github.com/jay0lee/got-your-back) - Backup Gmail Messages
 * [Login Reminder Remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - Remove Login Popup from Sites
@@ -789,6 +790,7 @@
 * [Instapaper](https://www.instapaper.com/) - Bookmarking Tool
 * [Pilgrim](http://pilgrim.are.na/) - Tree Style Path Bookmarking
 * [Bort](https://bort.io/) - Bookmark Manager that Syncs with Dropbox 
+* [Bookmarklets Guide](https://rentry.co/bookmarklets-guide) - Useful Bookmarklets / Guide
 * [wallabag](https://wallabag.org/) - Save and Classify Articles
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - Tools / Apps to Run Flash Programs
 * [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/webcatalog/) or [web2desk](https://appmaker.xyz/web2desk/) - Turn Sites into Desktop Apps 
@@ -872,7 +874,7 @@
 * [IP Rotator](https://github.com/Ge0rg3/requests-ip-rotator) - Bypass IP-based Rate-Limits Requests 
 * [open-ports](https://www.yougetsignal.com/tools/open-ports/), [Networkappers](https://networkappers.com/), [PortCheckTool](https://www.portchecktool.com/), [PortChecker](https://www.portchecker.co/), [PortCheckers](https://www.portcheckers.com/) or [CanYouSeeMe](https://canyouseeme.org/) - Open Port Checkers
 * [DownloadTestr](http://txti.es/downloadtestr) - Download Test Files to Test Download Speed 
-* [NeverSSL](http://neverssl.com/) - Fix Public WiFi Login Pages
+* [NeverSSL](http://neverssl.com/) or [HTTP Forever](http://httpforever.com/) - Fix Public WiFi Login Pages
 * [WiFi-Password](https://github.com/sdushantha/wifi-password) - Fetch WiFi Password / Generate QR Code
 * [IP2Proxy](https://www.ip2proxy.com/) - Proxy / VPN IP Detector
 * [Slideshow-Deslidefier](http://deslide.clusterfake.net/) - View Slideshows All At Once
@@ -1137,7 +1139,7 @@
 * [Reddit Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_alternatives) - Alternative Reddit Style Sites
 * [Simpleddit](http://www.simpleddit.com/), [Legere](https://www.microsoft.com/en-us/p/legere-for-reddit/9phjrvcskvjz), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/) or [Nuxtit](https://nuxtit.netlify.com/) - Alt Browsers / Web Clients
 * [Reddit Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_frontends)
-* [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466), [Unedit](https://github.com/DenverCoder1/Unedit-for-Reddit), [Unddit](https://www.unddit.com/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - View Deleted Reddit Posts
+* [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466), [Unedit](https://github.com/DenverCoder1/Unedit-for-Reddit), [Unddit](https://www.unddit.com/) / [2](https://camas.unddit.com/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - View Deleted Reddit Posts
 * [ReSavr](https://www.resavr.com/) or [Unreddit](https://github.com/pauldraper/unreddit) - View Deleted Reddit Comments 
 * [rareddit](https://www.rareddit.com/), [Archive Reddit](https://www.archivereddit.com/), [PushShift Reddit](http://files.pushshift.io/reddit/) or [Reddit Archive](http://www.redditarchive.com/) - Reddit Post Archive 
 * [Reddit (Au) Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlights New Comments
@@ -1476,6 +1478,7 @@
 * [ProgressBar Preserver](https://greasyfork.org/scripts/394512) - Always Visible Progress Bar YouTube
 * [Equalizer for YouTube](https://mybrowseraddon.com/equalizer-for-youtube.html) - Audio Equalizer
 * [songs-to-youtube](https://github.com/7x11x13/songs-to-youtube) - Upload Audio to Youtube Automatically
+* [Audio Only YouTube](https://chrome.google.com/webstore/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) - Audio Only YouTube
 * [Unhook](https://unhook.app/), [Less Addictive Youtube](https://github.com/AlexisDrain/Less-Addictive-YouTube) or [YourTube](https://github.com/gurrrung/YourTube) - Distraction Free YouTube
 * [YouTube Watch Time Counter](https://chrome.google.com/webstore/detail/youtube-watch-time-counte/fpoooibdndpjcnoodfionoeakeojdjaj) - Track Time Spent on YouTube
 * [BlockTube](https://github.com/amitbl/blocktube) - YouTube Content Blocker
@@ -1485,8 +1488,6 @@
 * [YT Not Interested Button on Hover](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Easily Display Not Interested Button
 * [RapidTags](https://www.rapidtags.io/) - YouTube Tag Generator
 * [LiveTL](https://kentonishi.github.io/LiveTL/) - YouTube Live Stream Translator 
-* [amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - Add Subs to Youtube Videos / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi) / [Chrome](https://chrome.google.com/webstore/detail/subtitles-for-youtube/oanhbddbfkjaphdibnebkklpplclomal)
-* [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - Styled YouTube Subtitles
 * [Youtube Summarizer](https://share.streamlit.io/iamknownstranger/ytsummary/main) - YouTube Transcript Summarizer
 * [YouTube Data Calc](https://dlogic.lk/projects/youtubedatacalc.php) - YouTube Data Usage Calculator
 * [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/) or [ytwrk](https://github.com/terorie/ytwrk) - YouTube Data Extraction 
@@ -1525,7 +1526,7 @@ Twitch Stream Tracker
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
 * [Transparent-Twitch-Chat](https://github.com/chylex/Transparent-Twitch-Chat) or [Transparent Twitch Chat Overlay](https://github.com/baffler/Transparent-Twitch-Chat-Overlay) - Transparent Twitch Chat
 * [Twitch Screen Comment Scroller](https://greasyfork.org/en/scripts/376225-twitch-screen-comment-scroller) - Auto Scroll Twitch Comments
-* [Points Autoclicker](https://github.com/xinitrc-dev/twitch-points-autoclicker) - Auto Claim Twitch Points
+* [Points Autoclicker](https://github.com/xinitrc-dev/twitch-points-autoclicker) or [TTVDropBot](https://github.com/PockySweet/Enhanced-TTVDropBot) - Auto Claim Twitch Points
 * [Twitch Previews](https://github.com/MarkM-dev/Twitch-Previews) - Twitch Video Previews
 * [Featured.chat](https://featured.chat/) - Twitch Chat Manager
 * [JChat](https://www.giambaj.it/twitch/jchat/) - Show Twitch Chat on Screen
@@ -2003,7 +2004,8 @@ Twitch Stream Tracker
 * [Technical Documentation](https://docs.microsoft.com/en-us/documentation/) - Microsoft Technical Documentations
 * [DIY Laptop](https://www.olimex.com/Products/DIY-Laptop/) - Build a Laptop
 * [OpenBoardData](https://github.com/inflex/OpenBoardData) - Board Repair Data
-* [OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd Files 
+* [OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd Files
+* [Optikey](http://www.optikey.org/) - Control Windows via Eyes
 
 ***
 
