@@ -316,6 +316,7 @@
 * [Stable Diffusion Web](https://stablediffusionweb.com/)
 * [PlaygroundAI](https://playgroundai.com/)
 * [Artificy](https://artificy.com/)
+* [Dream Studio](https://beta.dreamstudio.ai/dream)
 * [hypnogram](https://hypnogram.xyz/)
 * [AI Art Generator](https://neural.love/ai-art-generator)
 * [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent)
