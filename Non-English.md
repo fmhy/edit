@@ -820,6 +820,8 @@
 * [share.dmhy](https://share.dmhy.org/) - Video / Audio / Game
 * [Beatrice](https://beatrice-raws.org/) - Anime
 * [Anime-Torrent](https://www.anime-torrent.com/) - Anime
+* [VCB-S](https://vcb-s.com/) - Anime
+
 
 ## ▷ Streaming
 
