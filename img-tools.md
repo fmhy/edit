@@ -313,6 +313,7 @@
 * [Dezgo](https://dezgo.com/)
 * [aiimag.es](https://sunija.itch.io/aiimages)
 * [Pinegraph](https://pinegraph.com/create)
+* [Stable Diffusion Web](https://stablediffusionweb.com/)
 * [PlaygroundAI](https://playgroundai.com/)
 * [Artificy](https://artificy.com/)
 * [hypnogram](https://hypnogram.xyz/)
@@ -542,6 +543,7 @@
 * ⭐ **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)** or [InstaFollowers](https://www.instafollowers.co/instagram-tools) - Multiple Tools 
 * [GridsApp](https://gridsapp.net/) - Desktop Client
 * [InstaKiller](https://github.com/InstaKiller/InstaKiller) - Instagram CLI
+* [Bypass Login](https://greasyfork.org/en/scripts/420604) - Bypass Instagram Login Redirects
 * [AeroInsta](https://aeroinsta.com/), [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - Modded Android App
 * [WhatIsRhino](https://lemamichael.github.io/WhatIsRhino/) - Modded iOS App
 * [imginn](https://imginn.com/), [YooYing](https://www.yooying.com/), [Picuki](https://www.picuki.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer) or [Dumpor](https://dumpor.com/) - Instagram Viewer
