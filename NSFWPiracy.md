@@ -98,6 +98,7 @@
 * [aagmaals](https://aagmaals.net/) - Indian Porn
 * [sexfullmovies](https://www.sexfullmovies.com/) - Indian Porn
 * [Recordbate](https://recordbate.com/) - Chaturbate Recordings
+* [Babes Rater](https://babesrater.com/) - Rate Babes
 * [Boob Critic](http://www.boobcritic.com/) - Rate Tits
 * [ComicsArmy](https://comicsarmy.com/) - Comics
 * [BeNudes](https://benudes.com/) - Erotic Stories
