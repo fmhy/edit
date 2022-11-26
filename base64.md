@@ -1652,3 +1652,10 @@ pass: paluch
 #### Burp
 
 `aHR0cHM6Ly9maWxlY3IuY29tLz9zPUJ1cnArU3VpdGUrUHJvZmVzc2lvbmFs`
+
+
+***
+
+#### Beyond Compare Crack
+
+`aHR0cHM6Ly9wYXN0ZWJpbi5jb20vcmF3L0F6cTA5dHFj`
