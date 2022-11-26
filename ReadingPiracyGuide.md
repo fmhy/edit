@@ -193,12 +193,13 @@
 
 ## ▷ PDF Search
 
-* ⭐ **[PDFDrive](https://pdfdrive.com/)** - Books 
+* ⭐ **[PDFDrive](https://pdfdrive.com/)** - Books
+* [8kun Library](https://8kun.top/pdfs/index.html) - Books
 * [Ocean of PDF](https://oceanofpdf.com/) - Books / Comics
 * [pdfroom](https://pdfroom.com/) - Books / Comics 
 * [Pdfgeni](http://www.pdfgeni.com/) - Books 
 * [PDFGrab](https://pdfgrab.com/) - Books 
-* [Ebook PDF](https://ebookpdf.com/) - Books 
+* [Ebook PDF](https://ebookpdf.com/) - Books
 * [KuPDF](https://kupdf.net/) - Books 
 * [ePDF](https://epdf.pub/) - Books
 * [Moam](https://moam.info/) - Books
@@ -1275,7 +1276,7 @@
 
 # ► Helpful Sites / Apps
 
-* ⭐ **[arch1ve](https://rentry.org/arch1ve)**, [Borrowing Picture Books](https://redd.it/fm1xpw), [Borrow Only DL Script](https://redd.it/ofcqds) or [Archive 1 Hour Download](https://docs.google.com/spreadsheets/u/0/d/1x9JHIVEa6_2cwpmxgUymF5OAoHZbXCO3Qh9gQVAHuR0/htmlview#gid=0) - Download Borrow Only Archive.org Books
+* ⭐ **[arch1ve](https://rentry.org/arch1ve)** or [Borrowing Picture Books](https://redd.it/fm1xpw) - Download Borrow Only Archive.org Books / [Script](https://redd.it/ofcqds)
 * ⭐ **[DownloadBookFromIPFS](https://greasyfork.org/en/scripts/428894-downloadbookfromipfs)** - Add Button to Download Books from IPFS
 * ⭐ **[EBook Converters](https://wiki.mobileread.com/wiki/E-book_conversion)** - List of Ebook Converters
 * ⭐ **[Kindle Comic Converter](https://kcc.iosphe.re/)** - Convert Ebooks to EPUB
@@ -1303,3 +1304,4 @@
 * [xMinutesToRead](https://xminutestoread.xyz/) - Article Time to Read Estimate
 * [RemoveWatermark](https://github.com/ShadonSniper/RemoveWatermark) - IT Ebook Watermark Remover
 * [DeDRM_tools](https://github.com/noDRM/DeDRM_tools) / [2](https://github.com/apprenticeharper/DeDRM_tools) or [Remove Ebook DRM](https://apprenticealf.wordpress.com/) - Ebook DRM Removal Tools / [Guide](https://pastebin.com/KwTBSjrK)
+* [DIY Book Scanner](https://diybookscanner.org/) - How-to Scan Books / [Example](https://i.imgur.com/MgEwWVu.png)
