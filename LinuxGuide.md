@@ -119,7 +119,7 @@
 * [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI
 * [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - Window Closing Effects
 * [Junction](https://github.com/sonnyp/Junction) - Change File Associations 
-* [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) - Noise Cancellation Software
+* [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
 * [Giara](https://aur.archlinux.org/packages/giara/) or [Headlines](https://gitlab.com/caveman250/Headlines) - Reddit Client
 * [reddio](https://gitlab.com/aaronNG/reddio) - Reddit CLI
 * [gettit](https://github.com/Solirs/gettit/) - Reddit CLI Video Downloader
@@ -180,6 +180,7 @@
 * [Drawing](https://github.com/maoschanz/drawing) - Drawing App
 * [YouTube-Viewer](https://github.com/trizen/youtube-viewer) - YouTube Linux Client / [Fork](https://github.com/trizen/pipe-viewer) 
 * [Gnome-Twitch](https://github.com/vinszent/gnome-twitch) - Twitch Desktop Client
+* [HeadsetControl](https://github.com/Sapd/HeadsetControl) - Headset Settings Manager
 * [Qtractor](https://qtractor.org/) - Audio Editor
 * [Ecasound](http://nosignal.fi/ecasound/), [Viper4Linux](https://github.com/Audio4Linux/Viper4Linux) / [GUI](https://github.com/Audio4Linux/Viper4Linux-GUI) or [JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - Audio Processors 
 * [cava](https://github.com/karlstav/cava) - Console Audio Visualizer
