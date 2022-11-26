@@ -576,7 +576,7 @@
 * [HDVogo](https://www.hdvogo.cyou/) - Movies
 * [jsupload](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_jsupload) - Movies
 * [Movies Flix](https://hdmoviesflix.vin/) - Movies / NSFW
-* [Dudefilms](https://dudefilms.cyou/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
+* [Dudefilms](https://dudefilms.ink/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
 * [The Movies Flix](https://themoviesflix.ac/) - Movies / NSFW / [Telegram](https://t.me/themoviesflixcomco)
 * [Bollywood Movie Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bollywood_movie_drive) - Movies
 * [KatMovieHD](https://katmoviehd.rs/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
@@ -1636,7 +1636,7 @@
 
 ## ▷ Torrenting
 
-* [Mejor Torrent](https://www.mejortorrents.net/), [2](https://mejortorrent.one/), [3](https://mejortorrent.nz/) - Video / Audio / Software / Games
+* [Mejor Torrent](https://mejortorrent.one/), [2](https://mejortorrent.nz/) - Video / Audio / Software / Games
 * [EliteTorrent](https://elitetorrent.com/) - Movies / TV / Anime
 * [zonatorrent](https://zonatorrent.tv/) - Movies / TV
 * [Grantorrent.wtf](https://grantorrent.wtf/) - Movies / TV / Documentaries
@@ -1886,7 +1886,7 @@
 * [SapTet](https://www.saptet.com/), [DonTet](http://dontet.online/) - New Year Countdown
 * [LichAm](https://licham.net/), [XemLichAm](https://www.xemlicham.com/), [LichAmHomNay](https://licham.com.vn/), - Lunar Calendar
 * [TraCuuThanSoHoc](https://tracuuthansohoc.com/), [ThanSoHocOnline](http://thansohoconline.com/), [ThanSoVietnam](https://thansovietnam.com/), - Numerology
-* [MayTinhOnline](https://maytinhonline.com/), [2](https://may-tinh.online/), - Calculator
+* [MayTinhOnline](https://maytinhonline.com/), [2](https://may-tinh.online/) - Calculator
 * [BusMap](https://busmap.vn/) - Bus Journey
 * [BeenLoveMemory](https://beenlovememory.app/) - Love Days Counter
 * [CongCuWeb](https://www.congcuweb.net/) or [abProxy](https://proxy.abtech.vn/) - Web Proxy
@@ -2046,7 +2046,8 @@
 * ⭐ **[SkyMoviesHD](https://skymovieshd.news/)** - Movies / TV
 * ⭐ **[Einthusan](https://einthusan.tv/)** - Streaming / Movies / Music
 * [Indian Piracy Index](https://github.com/anymeofu/Indian-Piracy-Index) - Piracy Site / Tool Index
-* [JioTV](https://github.com/avipatilpro/JioTV) - Live TV Streaming Script 
+* [JioTV](https://github.com/avipatilpro/JioTV) - Live TV Streaming Script
+* [SnehIPTV](https://snehiptv.netlify.app/) - Live TV
 * [0GoMovies](https://0gomovies.st/) - Streaming / Movies / TV
 * [gomoviz](https://gomoviz.live/) - Streaming / Movies / TV
 * [tamilgun](https://tamilgun.bio/) -  Streaming / Movies / TV
