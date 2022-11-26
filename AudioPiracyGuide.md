@@ -239,6 +239,7 @@
 * ⭐ **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download from YouTube
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)
 * ⭐ **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - Telegram Audio Download Channels
+* ⭐ **[/r/freedeezerarl](https://www.reddit.com/r/freedeezerarl/)** - Free Deezer ARL
 * [/r/xTrill](https://reddit.com/r/xTrill) - MP3 / FLAC / [Discord Bot](https://discord.gg/xtrill) / [Backup](https://reddit.com/r/xTrillBackup)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer, TIDAL, Qobuz, YouTube, and SoundCloud Downloader / [Colab](https://github.com/taskylizard/rip)
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - Music Ripper
@@ -420,10 +421,13 @@
 * ⭐ **[Lidarr](https://github.com/Lidarr/Lidarr)** or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
 * [DimeADozen](http://www.dimeadozen.org/) - MP3 / FLAC
 * [TheAudioScene](https://theaudioscene.net/) - MP3 / FLAC
+* [BlackTorrent](https://blacktorrent.ru/) - Metal / MP3 / FLAC
 * [Metal Tracker](https://en.metal-tracker.com/) - Metal / MP3
 * [RockBox](https://rawkbawx.rocks/) - Metal / MP3
+* [PunkTorrents](https://www.punktorrents.com/) - Punk / MP3
 * [the /kpg/ torrent](https://kpg.neocities.org/) - 800gb+ K-Pop Torrent File
 * [MixtapeTorrent](http://www.mixtapetorrent.com/) - Mixtapes / MP3
+* [JaneMusic](http://torrent.janemusic.org/) - Neil Finn, Split Enz, Crowded House etc.
 * [PandaCD](https://pandacd.io/) - User-Made Music
 * [SXSW Torrents](http://www.sxswtorrent.com/) - SXSW Music Archive
 * [ZOMB Torrents](http://zombtracker.the-zomb.com/) - Forum
