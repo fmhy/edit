@@ -1233,7 +1233,7 @@
 * ⭐ **[eBoox](https://eboox.ru/en/)** - Ebook Reader / Android / iOS
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader.html)** - PDF Reader
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / Android / iOS
-* [Mobile Read](https://www.mobileread.com/) - EBook / Reader Discussion Forum
+* ⭐ **[Mobile Read](https://www.mobileread.com/)** - Ebook / Reader Discussion Forum
 * [Ubooquity](http://vaemendis.net/ubooquity/) - Manager / Reader / PC / Android / iOS
 * [Librum](https://github.com/Librum-Reader/Librum) - Ebook Reader / PC / Android / iOS / Linux / Mac
 * [KoReader](http://koreader.rocks/) - Ebook Reader / PC / Android
