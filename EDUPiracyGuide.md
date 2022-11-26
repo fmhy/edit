@@ -344,6 +344,8 @@
 * [Math is Fun](https://www.mathsisfun.com/) - Math Tutorials / Puzzles / Games
 * [Project Euler](https://projecteuler.net/) - Math / Programming Problems
 * [MathWords](http://www.mathwords.com/) - Math Term Dictionary
+* [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
+* [ASMHook](https://github.com/jacobly0/asmhook) - Add ASM Functionality to TI Calculators
 
 ***
 
