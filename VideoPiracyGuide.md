@@ -339,7 +339,7 @@
 ## ▷ Anime Streaming
 
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
-* ⭐ **[The Index](https://theindex.moe)** or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - Curated List of Anime Sites / [Discord](https://discord.gg/Snackbox ) / [Wiki](https://thewiki.moe/)
+* ⭐ **[The Index](https://theindex.moe)** or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - Curated List of Anime Sites / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[Zoro](https://zoro.to/)** or [AnimeBee](https://animebee.to/) - Sub / Dub
 * ⭐ **[9Anime](https://www.9anime.to/)** - Sub / Dub / [Mirrors](https://9anime.me/) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher) / [Ad Scripts](https://redd.it/c330dx)
 * ⭐ **[Anime8](https://anime8.ru/)** - Sub / Dub
@@ -373,6 +373,7 @@
 * [LMAnime](https://lmanime.com/) - Sub
 * [AnimeLand](https://www.animeland.us/) - Dub 
 * [Kissanime](https://kissanime.dev/) - Sub / Dub
+* [Hime.to](https://hime.to/) - Sub / Dub
 * [Animeplyx](https://animeplyx.eu/) - Sub
 * [123Anime.to](https://123anime.to/) - Sub / Dub / [Discord](https://discord.gg/z2BSpXheN9)
 * [Simple Anime](http://simple-anime.herokuapp.com/) - Sub / [Discord](https://discord.com/invite/Fg6YDAGmVK)
@@ -490,9 +491,10 @@
 * [FootballOrigin](https://www.footballorgin.com/) - Soccer
 * [Sport Video](https://www.sport-video.org.ua/) - Multiple Sports / Torrents
 * [AllWrestling](https://www.allwrestling.online/) - MMA / Wrestling
-* [WatchWrestling.in](https://watchwrestling.in/) - MMA / Wrestling
-* [WatchWrestling.la](https://watchwrestling.show/) - MMA / Wrestling 
-* [WatchProWrestling](http://watchprowrestling.live/) - MMA / Wrestling 
+* [WatchWrestling.ai](https://watchwrestling.ai/) - MMA / Wrestling
+* [WatchWrestling.bz](https://watchwrestling.bz/) - MMA / Wrestling
+* [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling
+* [WatchProWrestling](https://watchprowrestling.org/) - MMA / Wrestling
 * [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing
 * [SportsReplay](https://discord.com/invite/2r4pj67gCv) - [F1](https://f1full.com/) / [MMA](https://mmafull.com/)
 * [Bellator](https://www.bellator.com/video) - MMA
@@ -550,6 +552,7 @@
 * [LiveTV.video](https://livetv.video/) - TV / Sports
 * [LM Shows](https://lmshows.se/) - TV
 * [WwiTv](https://wwitv.com/) - TV
+* [MHD TV World](https://mhdtvworld.xyz/channel/english/) - TV
 * [SquidTV](https://www.squidtv.net/) - TV
 * [PhotoCall](https://photocall.tv/) - TV
 * [puffer](https://puffer.stanford.edu/) - TV
@@ -604,6 +607,7 @@
 * [MLB66](https://mlb66.ir/) - MLB
 * [MLBStream](https://mlbstream.me/) - MLB
 * [BoxingStreams.cc](https://boxingstreams.cc/) - Boxing
+* [9CoalTV](https://9goaltv.to/) - Soccer
 * [LiveSoccer TV](https://www.livesoccertv.com/) - Soccer
 * [FootEM](https://www.footem.site/) - Soccer
 * [HesGoal](http://www.hesgoal.tv/) - Soccer
@@ -778,7 +782,7 @@
 ## ▷ Anime Downloading
 
 * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners
-* ⭐ **[/r/AnimePiracy Index](https://piracy.moe/)** or [TG Anime Index](https://telegra.ph/Websites-To-Watch-And-Download-Anime-09-10) - Curated List of Anime Sites / [Discord](https://discord.gg/piracy)
+* ⭐ **[/r/AnimePiracy Index](https://piracy.moe/)** or [TG Anime Index](https://telegra.ph/Websites-To-Watch-And-Download-Anime-09-10) - Curated List of Anime Sites / [Discord](https://discord.gg/Snackbox)
 * ⭐ **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
 * ⭐ **[AnimeKaizoku](https://animekaizoku.com/)** - Sub / Dub / [Dual Audio](https://github.com/AnimeKaizoku/KaizokuPatcher)
 * ⭐ **[hi10anime](https://hi10anime.com/)** - Sub
