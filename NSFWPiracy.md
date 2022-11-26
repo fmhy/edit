@@ -82,6 +82,7 @@
 * [fap.bar](https://fap.bar/) - NSFW Reddit Video Browser
 * [nsfw.xxx](https://nsfw.xxx/), [Scroller](https://scrolller.com/), [RedditBetterNSFW](https://redditbetternsfw.com/) or [reddnight](https://reddnight.com/) - NSFW Reddit Image & Video Browser
 * [MrCong](https://mrcong.com/) or [girlsreleased](https://girlsreleased.com/) - Images
+* [Ana Dias Photography](https://www.anadiasphotography.com/) - Playboy Images
 * [Rule34World](https://rule34.world/) - Rule 34 Images
 * [Kimchi TV](https://kimchi.tv/) - Asian Porn
 * [Size97](https://size977.com/) - Asian Porn
@@ -245,7 +246,8 @@
 * [WebToonTop](http://webtoontop.xyz/)
 * [yande.re](https://yande.re/) 
 * [Jraws](http://jraws.net/)
-* [MangaGenki](https://mangagenki.com/) 
+* [MangaGenki](https://mangagenki.com/)
+* [Doujinantena](https://doujinantena.top/)
 * [HentaiWorld](https://hentaiworld.tv/)
 * [Wholesome Hentai](https://wholesomelist.com/)
 * [/r/SixDigits](https://www.reddit.com/r/sixdigits)
@@ -258,6 +260,7 @@
 * [EhViewer](https://gitlab.com/NekoInverter/EhViewer) - Android Hentai
 * [Violet](https://github.com/project-violet/violet) - Android Hentai/ [Discord](https://discord.com/invite/fqrtRxC)
 * [Hentoid](https://github.com/avluis/Hentoid) - Android Hentai
+* [FEhViewer](https://github.com/honjow/FEhViewer) - iOS Hentai
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - Booru Client / [Telegram](https://t.me/Flexbooru/161)
 * [pandaforever](https://gitlab.com/squishydreams/pandaforever), [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) or [Panda Chaika](https://panda.chaika.moe/) [nhentai](https://github.com/RicterZ/nhentai) - Hentai Downloader
 * [/cumg/](https://rentry.co/coom) - Hentai Tools
@@ -290,6 +293,7 @@
 * ⭐ **[Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button)** - Quickly Close All Tabs
 * [Internet Adult Film Database](https://www.iafd.com/) - Adult Film Database / Reviews
 * [Porn-Vault](https://github.com/porn-vault/porn-vault), [Fapflix2.0](https://github.com/EinAeffchen/Fapflix2.0), [StashApp](https://stashapp.cc/) or [Stash](https://github.com/stashapp/stash) - Porn File Manager
+* [DICK](https://github.com/Facinorous-420/dick) - Nudes Manager
 * [UploadingPorn](https://uploadingporn.com/) - NSFW File Host
 * [Javinizer](https://github.com/jvlflame/Javinizer) - JAV File Organizer
 * [DeepMosaics](https://github.com/HypoX64/DeepMosaics) or [DeepCreamPy](https://github.com/styler00dollar/Colab-DeepCreamPy/blob/master/Colab-DeepCreamPy-2.2.ipynb) - Remove Mosaics from Porn
@@ -312,6 +316,7 @@
 * [movie-parser](https://github.com/dynamite-ready/movie-parser) or [practical-ai-autodetecting-nsfw](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
 * [Brainbuddy](https://www.brainbuddyapp.com/) - Porn Blocker / Android / iOS
+* [RARBG Porn Filter](https://greasyfork.org/en/scripts/380386) - Porn Blocker for RARBG
 * [EasyPeasy](https://easypeasymethod.org/) - Painlessly Quit Pornography
 
 ***
