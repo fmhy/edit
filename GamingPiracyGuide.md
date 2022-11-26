@@ -271,6 +271,7 @@
 * [NoPayStation](https://nopaystation.com/) or [PSNDL](https://psndl.net/) - ROMs / Sony Consoles
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
 * [Xbox Fan](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_xbox_fan) - Xbox 360 ROMs / LT Firmware & FREEBOOT / [Telegram](https://t.me/xbox_fan_games)
+* [Xbox Emulation Hub](https://discord.com/invite/7pcAbZzpXj) - Xbox Emulation Discord
 * [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
 * [NSWDB](http://www.nswdb.com) - Switch Release Tracker
 * [HiddenPalace](https://hiddenpalace.org/) - Game Development Media Archive
