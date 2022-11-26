@@ -70,8 +70,8 @@
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - Books
 * [IRC Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - Download Ebooks from IRC
 * IRC Ebook Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/), [2](https://encyclopediadramatica.online/Bookz) - IRC Ebook Guide / [Downloader](https://github.com/aghayes/rusty_book_pirate/), [2](https://github.com/evan-buss/openbooks), [3](https://github.com/Footsiefat/Openbooks-Downloader)
-* [Z-Library](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) - Books / Comics / Educational
-* Z-Lib Tools - [Removed Books](https://t.me/firstlibrarybot) / [Backups](https://redd.it/ymiwzs), [2](http://pilimi.org/) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Amazon Links](https://github.com/annaelmoussa/amazon-zlibrary)
+* [Z-Library](https://singlelogin.me/) - Books / Comics / Educational
+* Z-Lib Tools - [Removed Books](https://t.me/firstlibrarybot) / [Backups](https://redd.it/ymiwzs), [2](http://pilimi.org/) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Amazon Links](https://github.com/annaelmoussa/amazon-zlibrary) / [Subreddit](https://www.reddit.com/r/zlibrary/)
 * [Archive.org](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Borrow Only Bypass](https://i.imgur.com/y7Vl9rd.png)
 * [English-Bookys](https://english-bookys.com/) - Books / Magazines / Newspapers / Comics
 * [The Library](https://discord.gg/mSyFJz9) or [The Great E-Library](https://discord.gg/efBxSuz) - Book Discord Servers 
@@ -95,6 +95,7 @@
 * [Ocean of EPUB](https://oceanofepub.com/) - Books / Manga
 * [PDFGet](http://pdfget.com/) - Books
 * [LetMeRead](https://www.letmeread.net/) - Books
+* [FreeBookSpot](http://www.freebookspot.club/) - Books
 * [BooksToLearn](https://www.booktolearn.com) - Books
 * [NovelLibrary](http://novellibrary.com/) - Books / [Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_novel_library_drive) 
 * [iBookPile](https://ibookpile.net/) - Books
@@ -942,6 +943,7 @@
 * [Tenmanga](https://www.tenmanga.com/)
 * [Tenkoreader](https://tenkoreader.com/)
 * [OniManga](https://onimanga.com)
+* [Anify](https://anify.club/)
 * [Mangadex.tv](https://mangadex.tv)
 * [MangaBob](https://mangabob.com/)
 * [KumaScans](https://kumascans.com/) 
@@ -973,7 +975,7 @@
 * [MyReadingManga](https://myreadingmanga.info/)
 * [MangaGo](https://www.mangago.me/)
 * [MangaPlus](https://mangaplus.shueisha.co.jp/updates)
-* [MangaKomi](https://mangakomi.com/)
+* [MangaKomi](https://mangakomi.io/)
 * [ISekaiScan](https://isekaiscan.com/) 
 * [KomikKid](https://www.komikid.com/)
 * [Hiperdex](https://hiperdex.com/)
@@ -1301,4 +1303,4 @@
 * [Audiobook Speed Calculator](https://asc.pixelofink.com/) - Average Audiobook Listening Times
 * [xMinutesToRead](https://xminutestoread.xyz/) - Article Time to Read Estimate
 * [RemoveWatermark](https://github.com/ShadonSniper/RemoveWatermark) - IT Ebook Watermark Remover
-* [DeDRM_tools](https://github.com/noDRM/DeDRM_tools) / [2](https://github.com/apprenticeharper/DeDRM_tools) or [Remove Ebook DRM](https://apprenticealf.wordpress.com/) - Remove Ebook DRM
+* [DeDRM_tools](https://github.com/noDRM/DeDRM_tools) / [2](https://github.com/apprenticeharper/DeDRM_tools) or [Remove Ebook DRM](https://apprenticealf.wordpress.com/) - Ebook DRM Removal Tools / [Guide](https://pastebin.com/KwTBSjrK)
