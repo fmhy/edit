@@ -86,6 +86,7 @@
 * Peacock - [Movies](https://www.peacocktv.com/stream/movies) / [TV](https://www.peacocktv.com/stream/tv) / [Kids](https://www.peacocktv.com/stream/kids)
 * [Vudu](https://www.vudu.com/) - Movies / TV
 * [PBS](https://www.pbs.org/video/) - Movies / TV
+* [7+](https://7plus.com.au/) - Movies / TV
 * [Playary](https://www.playary.com/) - Movies / TV
 * [Fawesome](https://fawesome.tv/) - Movies / TV
 * [LokLok](https://loklok.com/) - Movies / TV
@@ -489,6 +490,7 @@
 * ⭐ **[F1 Full Races](https://f1fullraces.com/)** - F1
 * ⭐ **[WatchWrestling24](http://watchwrestling24.net/)** - MMA / Wrestling
 * [FootballOrigin](https://www.footballorgin.com/) - Soccer
+* [Footballia](https://footballia.net/) - Soccer
 * [Sport Video](https://www.sport-video.org.ua/) - Multiple Sports / Torrents
 * [AllWrestling](https://www.allwrestling.online/) - MMA / Wrestling
 * [WatchWrestling.ai](https://watchwrestling.ai/) - MMA / Wrestling
@@ -952,8 +954,8 @@
 * [listal](https://www.listal.com/) - Movies / TV
 * [My Episodes](https://www.myepisodes.com/) - TV
 * [Movieo](https://movieo.me/) - Movies / TV / Anime
-* [AllMovie](https://www.allmovie.com/) - Movies / TV / Anime 
-* [Episode Calender](https://episodecalendar.com/) - TV Calendar
+* [AllMovie](https://www.allmovie.com/) - Movies / TV / Anime
+* [Episode Calender](https://episodecalendar.com/) - TV Calendar / [Torrent Links](https://greasyfork.org/en/scripts/27367)
 * [dunno](https://m-dunno.netlify.app/) - Movies / TV
 * [showRSS](https://showrss.info/)  - RSS / TV
 * [AniChart](https://anichart.net), [Senpai](https://www.senpai.moe/) or [LiveChart](https://www.livechart.me/) - Seasonal Anime Charts
@@ -1052,9 +1054,10 @@
 * [TVSubtitles](http://www.tvsubtitles.net/) or [TVSubs](http://www.tvsubs.net/) - TV Subtitles 
 * [kitsuneko](https://kitsunekko.net/) - Anime Subtitles 
 * [DownSub](https://downsub.com/) - Download Subs from Video Sites 
+* [YT Sub Downloader](https://greasyfork.org/en/scripts/5368) - Download Subs from YouTube Videos
 * [amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - Add Subs to Youtube Videos / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi) / [Chrome](https://chrome.google.com/webstore/detail/subtitles-for-youtube/oanhbddbfkjaphdibnebkklpplclomal)
 * [Loadtup](https://loadtup.com/) - YouTube Video Translator
-* [LiveTL](https://kentonishi.github.io/LiveTL/) - YouTube Live Stream Translator
+* [LiveTL](https://kentonishi.github.io/LiveTL/) - YouTube Live Stream 
 * [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - Styled YouTube Subtitles
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - Add Subtitles to Twitch Stream
 * [Bazarr](https://www.bazarr.media/) - Auto-Download Subtitles 
