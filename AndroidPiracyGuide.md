@@ -702,7 +702,9 @@
 * [tTorrent](https://play.google.com/store/apps/details?id=hu.tagsoft.ttorrent.lite) - [Screenshot](https://i.imgur.com/S61JgNg.png)
 * [Frostwire](https://play.google.com/store/apps/details?id=com.frostwire.android) - [Screenshot](https://i.imgur.com/EoB3DED.png)
 * [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) - [Screenshot](https://i.imgur.com/rZ2JeCO.png)
+* [CatTorrent](https://apkcombo.com/cattorrent/com.napolovd.piratecat/) -  [Screenshot](https://i.imgur.com/o44Ij7t.png)
 * [Red Torrent](https://sourceforge.net/projects/redtorrent/) - [Screenshot](https://i.imgur.com/uVKVVLg.png)
+* [WeTorrent](https://apkcombo.com/wetorrent/co.we.torrent/) - [Screenshot](https://i.imgur.com/XXYC3WX.png)
 * [Android-A](http://android-a.com/) - [Screenshot](https://i.imgur.com/khlurm7.png)
 * [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - [Screenshot](https://i.imgur.com/OrK3mLu.png)
 * [BiglyBT](https://android.biglybt.com/) - [Screenshot](https://i.imgur.com/WP7xwYK.png) 
@@ -745,6 +747,7 @@
 * [Neko](https://github.com/CarlosEsco/Neko) - Manga Reader
 * [Manga Tag](https://www.mangatag.com/) - Manga Reader
 * [Meow](https://github.com/neverfelly/Meow) - Manga Reader
+* [AnimeChicken](https://animechicken.app/) - Manga Reader
 * [Kinoko](https://github.com/gsioteam/kinoko) - Manga Reader
 * [Atsumaru](https://github.com/TheUndo/Atsumaru) -  Manga Reader
 * [IsManga Translator](https://ismanga.com/) - Manga Translator 
@@ -775,7 +778,7 @@
 * [Datmusic](https://github.com/alashow/datmusic-android) - Download / MP3
 * [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - Download / MP3 
 * [SMLoadr](https://t.me/SMLoadrNews) - Download / FLAC / MP3
-* [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [Seal](https://github.com/JunkFood02/Seal) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio / Video Downloader
+* [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis), [Seal](https://github.com/JunkFood02/Seal) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio / Video Downloaders
 * [Fildo](https://fildo.net/android/en/) - Streaming
 * [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale-android) - Streaming
 * [Trebel](https://home.trebel.io/) - Streaming
@@ -920,7 +923,8 @@
 * [AnYme](https://github.com/zunjae/anYme) - [GitHub](https://zunjae.github.io/anymeapp.com/) / [Discord](https://discord.com/invite/JUMvDEP)
 * [Yukino](https://github.com/yukino-app/yukino)
 * [Akiyama](https://github.com/Fmaldonado6/Akiyama)
-* [Saikou](https://github.com/saikou-app/saikou) 
+* [Saikou](https://github.com/saikou-app/saikou)
+* [AnimeChicken](https://animechicken.app/)
 * [OtakuWorld](https://github.com/jakepurple13/OtakuWorld)
 * [animity](https://github.com/kl3jvi/animity)
 * [no](https://github.com/deceptions/no)
@@ -1283,6 +1287,7 @@
 ## ▷ iOS Anime 
 
 * [NineAnimator](https://nineanimator.marcuszhou.com/) - [Discord](https://discord.gg/dzTVzeW)
+* [AnimeChicken](https://animechicken.app/)
 * [Tweaked Crunchyroll ++](http://www.iosemulatorspot.com/tweaked-crunchyroll/) - Tweaked Crunchyroll
 * [Katarogu](https://apoorvaaditya.github.io/katarogu/), [MyAnimeList Client](https://apps.apple.com/us/app/myanimelist-official/id1469330778) or [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - MyAnimeList Client
 * [Otraku](https://github.com/lotusgate/otraku) - AniList App
@@ -1310,6 +1315,7 @@
 * ⭐ **[Paperback](https://paperback.moe/)** - Manga Reader / [Discord](https://discord.gg/Ny83JV3)
 * ⭐ **[Aidoku](https://aidoku.app/)** - Manga Reader
 * [EBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers) - List of eBook Readers
+* [AnimeChicken](https://animechicken.app/)
 * [BookPlayer](https://github.com/TortugaPower/BookPlayer) - Audiobook Player
 * [MangaToon](https://apps.apple.com/us/app/mangatoon-manga-reader/id1385287093) - Manga Reader
 * [ZETSU](https://apps.apple.com/us/app/zetsu-by-orion/id1510161371) - Manga Reader
