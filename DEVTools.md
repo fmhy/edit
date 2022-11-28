@@ -175,6 +175,7 @@
 * [FrontEndMentor](https://www.frontendmentor.io/) or [Frontend Challenges](https://github.com/felipefialho/frontend-challenges) - Frontend Design Challenges
 * [Frontend Learning Kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend Learning Index
 * [Frontend Bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop
+* [BitsOfCode](https://bitsofco.de/) - Frontend Dev Articles
 * [Design Pattern for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Guide on Design Patterns
 * [Web Skills](https://andreasbm.github.io/web-skills/) or [Encodedna](https://www.encodedna.com/) - Web Development Guides
 * [LearningSEO](https://learningseo.io/) - SEO Guides
