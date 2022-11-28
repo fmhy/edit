@@ -483,9 +483,8 @@
 * [kinoking](https://kinoking.cc/) - Movies / TV / Anime
 * [serienstream](https://serienstream.io/) - TV / Anime
 * [Megakino](https://megakino.to/) - Movies / TV
-* [StreamCloud](https://streamcloud.cx/) - Movies / TV
 * [BS.TO](https://www.bs.to/) - TV / Anime
-* [StreamCloud](https://www1.streamcloud.club/) - Movies / TV
+* [StreamCloud](https://www1.streamcloud.info/), [2](https://streamcloud.cx/) - Movies / TV
 * [BioskopKaca21](https://62.171.161.107/) - Movies / TV
 * [Kinos](https://www.kinos.to/) - Movies / TV
 * [KinoZ](https://kinoz.to/) - Movies / TV / Anime / NSFW
