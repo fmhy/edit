@@ -574,6 +574,7 @@ Simulator
 * [Yojik](https://fsi-languages.yojik.eu/index.html) or [ESOL](https://www.esolcourses.com/) - Language Learning Courses
 * [Language Transfer](https://www.languagetransfer.org/) - Language Learning Courses / Audio
 * [refold.la](https://refold.la/roadmap) - Language Learning Guide 
+* [NativShark](https://www.nativshark.com/) - Japanese Language Learning App
 * [clozemaster](https://www.clozemaster.com/) - Context Based Language Learning
 * [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - Language Learning Flashcards
 * [Learn English Online](http://www.learn-english-online.org/), [EnglishCentral](https://www.englishcentral.com/), [ESLFast](https://www.eslfast.com/), [TalkEnglish](https://www.talkenglish.com/), [AntiMoon](https://www.antimoon.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons), [Voscreen](http://voscreen.com/), [yell0wsuit](https://yell0wsuit.page/english.html), [elllo](https://www.elllo.org/) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - Learn English
