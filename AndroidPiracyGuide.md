@@ -395,10 +395,9 @@
 * [sh-ort](https://sh-ort.app/) - URL Shortener
 * [UnLim](https://play.google.com/store/apps/details?id=com.kratosle.unlim&gl=US) - Cloud Storage
 * [RClone](https://github.com/x0b/rcx) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Manager
-* [App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers) - Android App Launchers
 * [PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - Enable Features in Stock App Launcher
 * [QuickSwitch](https://github.com/skittles9823/QuickSwitch) - Enable Quickstep in Launchers 
-* [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager), [AppManager](https://f-droid.org/packages/io.github.muntashirakon.AppManager/) or [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) / [2](https://www.apkmirror.com/apk/aurora-oss/warden/) - App Managers
+* [App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers) - Android App Launchers / Managers
 * [Uninstaller](https://play.google.com/store/apps/details?id=com.splendapps.shark) - App Uninstaller
 * [Blocker](https://github.com/lihenggui/blocker) - Component Controller
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Android Power Menu Replacement
@@ -689,6 +688,7 @@
 * [AppAnnie](https://www.appannie.com/en/apps/google-play/top/) - Top App Downloads
 * [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - App Giveaway Sites
 * [APK Generator](https://play.google.com/store/apps/details?id=com.aksapps.apkgenerator) or [APK Saver](https://play.google.com/store/apps/details?id=com.sdkdevelopers.apksaver) - Save APK File for Installed Apps
+* [Kanade](https://github.com/alexrintt/kanade) - APK Extractor
 * [Diggy](https://github.com/s0md3v/Diggy) - Extract APK Endpoints
 * [APKTool](https://github.com/iBotPeaches/Apktool) - APK Reverse Engineering Tool
 * [BlackDex](https://github.com/CodingGay/BlackDex) - APK Unpacking Tool
