@@ -338,7 +338,7 @@
 
 ## ▷ Browser Tools
 
-* ⭐ **[Tor Browser](https://www.torproject.org/)** or [Lokinet](https://lokinet.org/) - Onion-Routed Browser
+* ⭐ **[Tor Browser](https://www.torproject.org/)** or [Lokinet](https://lokinet.org/) / [Directory](https://session.directory/) - Onion-Routed Browser
 * ⭐ **[Tor Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tor_tools)** - Tor Tools / Guides
 * ⭐ **[Privacy Hardened Firefox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_hardened_firefox)** - Firefox Privacy Profiles / Guides
 * ⭐ **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - Privacy Focused Browsers
