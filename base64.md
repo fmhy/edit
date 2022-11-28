@@ -1241,7 +1241,7 @@ pass: paluch
 
 #### IT Courses
 
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9rNEJoVmFCTCNSOGRtOE5fblRQLUpkSTlSVkhjSElnCmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvVERvelZhb0QjMnFLNVlUdHBnNmRta3F5ZTJDMktmZw==`
+`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9yOUUwV0RTSyNnbFBtTjFnNzVWUWlqOEtnR1hzLUhB`
 
 ***
 
@@ -1652,7 +1652,6 @@ pass: paluch
 #### Burp
 
 `aHR0cHM6Ly9maWxlY3IuY29tLz9zPUJ1cnArU3VpdGUrUHJvZmVzc2lvbmFs`
-
 
 ***
 
