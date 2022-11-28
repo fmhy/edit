@@ -13,7 +13,7 @@
 
 * ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** - Multi-Site Audiobook Search
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
-* ⭐ **[Audiobook Bay](http://audiobookbay.fi/)** - Torrents
+* ⭐ **[Audiobook Bay](http://audiobookbay.fi/)**, [2](https://audiobookbay.se/) - Torrents
 * ⭐ **[Tokybook](https://tokybook.com/)** - Listen Online
 * ⭐ **[Top 1000 Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_audiobook_megadrive)** - Audiobooks / Drive
 * [Telegram Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audiobook_downloads) - Telegram Audiobook Channels
