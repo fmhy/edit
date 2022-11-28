@@ -214,6 +214,7 @@
 
 * ⭐ **[GG.deals](https://gg.deals/)**, [AllKeyShop](https://www.allkeyshop.com/blog/) or [PSPrices](https://psprices.com/) - Game Price Trackers
 * [Reddit Favorites](https://redditfavorites.com/), [NanoReview](https://nanoreview.net/en), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product & Service Reviews
+* [Fakespot](https://www.fakespot.com/) - Identifies Fake Reviews / Counterfeits / [Warning](https://rentry.co/88t8z)
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
 * [NewMaxx's SSD Site](https://ssd.borecraft.com/) - SSD Buying Guide
 * [Shucks](https://shucks.top/) - External Drive Price Tracker
