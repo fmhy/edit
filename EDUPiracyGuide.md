@@ -377,7 +377,7 @@ Simulator
 * ⭐ **[Wikispecies](https://species.wikimedia.org/)** or [The Catalogue of Life](https://www.catalogueoflife.org/) - Species Directory
 * [OneZoom](http://www.onezoom.org/) - Tree of Life Explorer 
 * [Alien](https://alien-project.org/) - Artificial Life Simulator / [GitHub](https://github.com/chrxh/alien) / [Video](https://youtu.be/w9R6zrdl6jM)
-* [Lost and Found Nature](https://www.lostandfoundnature.com/) - Re-Discovered Animals & Plants
+* [Lost and Found Nature](https://www.lostandfoundnature.com/) - Re-Discovered Animals / Plants
 * [A-Z Animal](https://a-z-animals.com/) - Animal Encyclopedia
 * [Ocearch](https://www.ocearch.org/?list) - Track Marine Life
 * [The Deep Sea](https://neal.fun/deep-sea/) - Interactive Deep Sea Life Guide
@@ -387,6 +387,7 @@ Simulator
 * [Candide](https://candide.com/GB/identify-plants) or [Pl@ntNet](https://identify.plantnet.org/) - Plant Identifier
 * [WhyDoCatsAndDogs...?](https://whydocatsanddogs.com/) - Pet Q&A Site
 * [Get Body Smart](https://www.getbodysmart.com/) - Learn about Human Anatomy and Physiology
+* [NIH Print](https://3dprint.nih.gov/) - Biomedical Science 3D Models
 
 ***
 
