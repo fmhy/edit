@@ -324,13 +324,14 @@
 * [DiscogC](https://www.discogc.com/) - FLAC
 * [LosslessAlbums](https://losslessalbums.club/) or [HDMusic](https://hdmusic.cc/) - FLAC
 * [Creamusic](https://creamusic.net/) - FLAC / Bypass Limit w/ VPN
-* [ubdn](http://ubdn.me/) - MP3 / FLAC 
-* [IntMusic](https://intmusic.net/) - MP3 / FLAC  
+* [ubdn](http://ubdn.me/) - MP3 / FLAC
+* [IntMusic](https://intmusic.net/) - MP3 / FLAC
 * [Mp3Flac](https://mp3flac.site/) - MP3 / FLAC
-* [Gangster](https://gangster.su/) - MP3 / FLAC  
+* [Gangster](https://gangster.su/) - MP3 / FLAC
 * [GetRockMusic](https://getrockmusic.net/) - MP3 / FLAC
 * [Core Radio](https://coreradio.online/) - MP3 / FLAC 
 * [AlterPortal](https://alterportal.net/) - MP3 / FLAC
+* [#BATCAVE](https://pastebin.com/TzK2G963) - MP3 / FLAC
 * [Moe:81](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_moe.3A81) - MP3 / FLAC
 * [Plastinka](http://plastinka.org/) - MP3 / FLAC
 * [Exystence](http://exystence.net/) - MP3 / FLAC  
