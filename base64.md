@@ -1652,3 +1652,33 @@ pass: paluch
 #### Beyond Compare Crack
 
 `aHR0cHM6Ly9wYXN0ZWJpbi5jb20vcmF3L0F6cTA5dHFj`
+
+***
+
+#### PhotoTune
+
+`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvdmlld3RvcGljLnBocD9mPTQyNyZ0PTUwMjc5NTM=`
+
+***
+
+#### Quran Course 
+
+`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9RUllqd0F4RCNsNmhRSVlia3NfbEZoZl9RR0c1T253`
+
+***
+
+#### Bangla English Course
+
+`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9SQUFsRFN5VCNkdEs5NHJaSHFJWlZ5YXZmRjJTM2Nn`
+
+***
+
+#### Bangla Freelancing
+
+`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9BTmhDbExwSSNuR1lDR21vUV9WY2g3NFJkX2sxd1pB`
+
+***
+
+#### Bangla Excel
+
+`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9OUWcyZ1JoVCNUdnV2XzRDVlpsRmJQbGNnY3d2dzRR`
