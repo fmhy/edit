@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/8Zi6RGz.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/q3E7P1g.png)** - For mobile users
 
 ***
 ***
@@ -109,6 +109,21 @@
 * [hijala](https://hijala.blogspot.com/) - Manga
 * [manga-flix](https://www.manga-flix.com/) - Manga
 * [manhwa-arabic](https://manhwa-arabic.com/) - Manga
+
+***
+
+# ► Bangla 
+
+## ▷ Reading
+
+* [ittefaq](https://www.ittefaq.com.bd/), [dainikamadershomoy](https://www.dainikamadershomoy.com/), [kalerkantho](https://www.kalerkantho.com/), [24livenewspaper](https://www.bangla.24livenewspaper.com/), [samakal](https://samakal.com/) or [prothomalo](https://www.prothomalo.com/) - Bangla Newspapers
+* [Quran Course](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_quran_course)
+
+## ▷ Streaming
+
+* [Bangla English Course](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bangla_english_course)
+* [Bangla Freelancing Course](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bangla_freelancing)
+* [Bangla Excel Course](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bangla_excel)
 
 ***
 
@@ -2101,7 +2116,6 @@
 * [Segoideas](https://segoideas.com/) - Taiwanese / Streaming / TV
 * [lupiteam](https://lupiteam.net/) - Corsican / Manga
 * [animesrbija](https://www.animesrbija.com/) - Serbian / Streaming / Anime
-* [ittefaq](https://www.ittefaq.com.bd/), [dainikamadershomoy](https://www.dainikamadershomoy.com/), [kalerkantho](https://www.kalerkantho.com/), [24livenewspaper](https://www.bangla.24livenewspaper.com/), [samakal](https://samakal.com/) or [prothomalo](https://www.prothomalo.com/) - Bangla Newspapers
 * [DJPunjab](https://djpunjab.is/) - Punjabi / Download / MP3
 * [Paper](https://paper.naya.com.np/) - Nepali Text Tools
 * [Ethio Terka](https://t.me/ethio_terka), [amharicbookss](https://t.me/amharicbookss) or [GeezLibraryMembers](https://t.me/GeezLibraryMembers) - Amharic / Books
