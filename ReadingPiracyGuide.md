@@ -68,6 +68,7 @@
 * ⭐ **[eBookHunter](https://ebook-hunter.org/)** - Books / Comics
 * ⭐ **[Telegram Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - Telegram Book Channels
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - Books
+* [Book Search Guide](https://docs.google.com/document/d/1ZwWs8JOrlkrrqiHwkQSwc4_NM85Zbzc9t9ifQ1rHZgM/mobilebasic) - Guide to Finding Articles / Books
 * [IRC Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - Download Ebooks from IRC
 * IRC Ebook Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/), [2](https://encyclopediadramatica.online/Bookz) - IRC Ebook Guide / [Downloader](https://github.com/aghayes/rusty_book_pirate/), [2](https://github.com/evan-buss/openbooks), [3](https://github.com/Footsiefat/Openbooks-Downloader)
 * [Z-Library](https://singlelogin.me/) - Books / Comics / Educational / [I2P](http://kkd7tiqf5lv3olqfdnkw4znmmmmnjo2xqlxrp5ntthp6juowaiha.b32.i2p) / [.Onion](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/)
@@ -397,6 +398,7 @@
 * ⭐ **[Everything I Know](https://wiki.nikiv.dev/)** - Articles Sorted by Topic
 * ⭐ **[Math Resource Guide](https://free-math-resources.netlify.app/)** - Curated list of math resources by /u/javacoder19
 * ⭐ **[Language Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_language_learning)** - Language Learning Tools, Books & Sites
+* [Institutional Access](https://www.facebook.com/groups/850609558335839) - Request Institutional Access PDFs
 * [Math and Physics Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_math_and_physics_books) - [Discord](https://discord.gg/v23hTtx)
 * [Library Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_library_drive)
 * [Openstax](https://openstax.org/) 
@@ -477,7 +479,8 @@
 * [EngineeringEBooks_civil](https://t.me/EngineeringEBooks_civil) - Civil Engineering
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#free-content) - Artificial Intelligence
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - Electronics 
-* [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - Electronics Schematics & Simulations
+* [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - Electronics Schematics / Simulations
+* [SemiWiki](https://semiwiki.com/) - Semiconductor Wiki
 * [159.69.3.96](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_159.69.3.96) - IT Books
 * [PDFiles](https://www.pdfiles.net/) - IT Books
 * [AllITEBooks](https://allitebook.xyz/) - IT Books
