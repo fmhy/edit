@@ -245,7 +245,7 @@
 * [MySmiles](http://mysmilies.com/) or [MazeGuy](https://www.mazeguy.net/smilies.html) - Oldschool Smiley's
 * [ASCII Art Creators / Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ascii_art_creators) - Create and Edit ASCII Art
 * [ascii-art-generator](https://www.ascii-art-generator.org/), [ascii-generator](https://ascii-generator.site/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image to ASCII Art
-* [Love ASCII](http://loveascii.com/), [16colors](https://16colo.rs/) or [RoySAC](http://www.roysac.com/sitemap.html) - Copy ASCII Art
+* [Love ASCII](http://loveascii.com/), [16colors](https://16colo.rs/), [ascii.co](https://ascii.co.uk/art) or [RoySAC](http://www.roysac.com/sitemap.html) - Copy ASCII Art
 * [randSeq](http://www.dave-reed.com/Nifty/randSeq.html) - Random Letter Sequence Generator
 * [xeuledoc](https://github.com/Malfrats/xeuledoc) - Fetch Information about Public Google Documents
 * [Useless-Translator](https://vcjhwebdev.github.io/useless-translator/) - Morse Code / Binary Translator 
@@ -972,6 +972,7 @@
 * ⭐ **[Comics CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Search Comic Sites
 * ⭐ **[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)**, [2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Search Manga Sites
 * ⭐ **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)**, [2](https://cse.google.com/cse?cx=73948689c2c206528), [3](https://cse.google.com/cse?cx=a805854b6a196d6a6) - Search Android APK Sites
+* ⭐ **[Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102)** - Search Extension Sites
 * ⭐ **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)**, [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) or [awesome-custom-search-engines](https://github.com/davzoku/awesome-custom-search-engines) - Custom Search Engine Directories
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1) - Search File Hosts
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0), [Pastebin.ga](https://pastebin.ga/) or [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - Search Pastebins
@@ -1386,7 +1387,8 @@
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - Telegram CSE
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Link Shortener Bot 
 * [TLG.NAME](https://www.tlg.name/) - Telegram Link Creator
-* [URL2IMGBot](https://t.me/URL2IMGBot) - Take URL Screenshots / Telegram 
+* [URL2IMGBot](https://t.me/URL2IMGBot) - Take URL Screenshots
+* [AiImageBot](https://t.me/AiImageBot) - Text to Image
 * [Stickers Cloud](https://stickers.cloud/en), [Combot Stickers](https://combot.org/telegram/stickers) or [moe_sticker_bot](https://t.me/moe_sticker_bot) - Sticker Packs
 * [ProxyBot](https://t.me/vamproxy_bot), [proxytelebot](https://t.me/proxytelebot), [yadda_proxybot](https://t.me/yadda_proxybot), [tproxies_bot](https://t.me/tproxies_bot), [proxy_socks5_bot](https://t.me/proxy_socks5_bot), [socksy_bot](https://t.me/socksy_bot), [ShadowSocks_bot](https://t.me/ShadowSocks_bot) or [logicpleaseproxybot](https://t.me/logicpleaseproxybot) - Telegram Proxy Bots
 * [TgVPNbot](https://t.me/TgVPNbot), [tgfreebot](https://t.me/tgfreebot) or [FCK_RKN_bot](https://t.me/FCK_RKN_bot) - Telegram VPN Bots
@@ -1743,6 +1745,7 @@ Twitch Stream Tracker
 * [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-P) - Easy GPU Paravirtualization
 * [Gptgen](https://github.com/xorangekiller/gptgen) - MBR Partition Table to GPT Converter
 * [WinCDEmu](https://wincdemu.sysprogs.org/) - CD/DVD/BD Emulator
+* [PC Manger](https://pcmanager-en.microsoft.com/) - Disk Manager / Cleanup
 * [SpeedyFox](https://crystalidea.com/speedyfox) - Optimize Program Performance
 * [CCStopper](https://github.com/E-Soda/CCStopper) - Stop Background Adobe Apps
 * [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Debloat Adobe Apps
