@@ -78,7 +78,6 @@
 * [EBOOKS SET 2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ebooks_set_2) - Books / Drive
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines 
 * [ebook3000.co](https://www.ebook3000.co/) - Books / Magazines / NSFW
-* [29GB Mega Folder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_29gb_mega_folder) - Books 
 * [just a digital library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_just_a_digital_library) - Books
 * [Read Any Book](https://www.readanybook.com/) - Books
 * [openlibrary](https://openlibrary.org/) - Books 
