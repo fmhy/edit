@@ -396,12 +396,6 @@ pass: paluch
 
 ***
 
-#### 29GB Mega Folder
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci94NFZHM0RSTCNscWVjRjRxMnl3b2pHTEUwTzhjdTRB`
-
-***
-
 #### just a digital library
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWlRTWRxNXlLMEVCcWExZmdrbVFUZlc3RVdTZUpXWXZU`
