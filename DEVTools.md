@@ -40,7 +40,7 @@
 * [Python Programming Hub](https://github.com/Tanu-N-Prabhu/Python) - Python Learning Repository
 * [Python4Everyone](https://py4e.com/), [A Byte of Python](https://python.swaroopch.com/), [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/), [Learn Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
 * [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - Python Lessons
-* [Real Python](https://realpython.com/) - Python Tutorials
+* [Real Python](https://realpython.com/) or [AskPython](https://www.askpython.com/) - Python Tutorials
 * [FutureCoder](https://futurecoder.io/), [complete python developer](https://t.me/Udemy_Python_Developer), [Python Full Course](https://youtu.be/XKHEtdqhLK8) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - Python Course
 * [Modern Python 3 Bootcamp Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_modern_python_3_bootcamp_courses)
 * [Tea Press](https://greenteapress.com/wp) - Python Learning Book
@@ -839,7 +839,7 @@ Automated Incident Response and Forensics Framework
 * [HTML.com](https://html.com/) - HTML Guide / Cheat Sheet
 * [HTML Reference](https://htmlreference.io/) - HTML Guide
 * [HTML Compressor](https://htmlcompressor.com/compressor/)
-* [HTML Notepad](https://html-notepad.com/) - HTML Editor
+* [HTML Notepad](https://html-notepad.com/) or [HTML Sandbox](https://apps.apple.com/us/app/html-sandbox-2/id6443393029) - HTML Editors
 * [HTML + CSS Extract](https://chrome.google.com/webstore/detail/html-%20-css-extract/bkahkocegdkgicmmfpkoeipjmjaeohfn) - HTML / CSS Extractor
 * [TryIt HTML](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro), [CodeTester](http://codetester.org/), [HTML-Online](https://html-online.com/editor/), [pell](https://jaredreich.com/pell/), [html.cafe](https://html.cafe/) or [jsTester](https://www.cs.iupui.edu/~ajharris/webprog/jsTester.html) - Online HTML Editors
 * [GrapeJS](https://grapesjs.com/) - HTML Template Editor
@@ -1261,3 +1261,4 @@ Automated Incident Response and Forensics Framework
 * ⭐ **[VS Code Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vscode_tools)** - Tools & Themes for VS Code
 * [Apache NetBeans](https://netbeans.apache.org/) - Cross Platform IDE  
 * [KDevelop](https://www.kdevelop.org/) - Cross Platform IDE
+* [Thonny](https://thonny.org/) - Python IDE
