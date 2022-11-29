@@ -161,7 +161,7 @@
 * ⭐ **[Give & Away](https://discord.gg/b4uTmX5PVq)** - Giveaway Server
 * [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) or [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Auto-Claim Free Epic Games
-* [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [SteamGifts](https://www.steamgifts.com/), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - Steam Games 
+* [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [SteamGifts](https://www.steamgifts.com/) / [Auto Join](https://chrome.google.com/webstore/detail/autojoin-for-steamgifts/bchhlccjhoedhhegglilngpbnldfcidc?hl=en), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - Steam Games 
 * [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997) - Steam Mods
 * [Games Free Today](https://gamesfree.today/) - Games
 * [FreeGames.codes](https://freegames.codes/) - Games / [Android](http://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes)
@@ -214,7 +214,6 @@
 
 * ⭐ **[GG.deals](https://gg.deals/)**, [AllKeyShop](https://www.allkeyshop.com/blog/) or [PSPrices](https://psprices.com/) - Game Price Trackers
 * [Reddit Favorites](https://redditfavorites.com/), [NanoReview](https://nanoreview.net/en), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product & Service Reviews
-* [Fakespot](https://www.fakespot.com/) - Identifies Fake Reviews / Counterfeits / [Warning](https://rentry.co/88t8z)
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
 * [NewMaxx's SSD Site](https://ssd.borecraft.com/) - SSD Buying Guide
 * [Shucks](https://shucks.top/) - External Drive Price Tracker
@@ -245,6 +244,7 @@
 * [Valuta EX](https://valuta.exchange/) - Currency Converter
 * [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
 * [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wishlist Creators
+* [Fakespot](https://www.fakespot.com/) - Identifies Fake Reviews / Counterfeits / [Warning](https://rentry.co/88t8z)
 * [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Wii Shop Music on Shopping Sites
 
 ***
@@ -1153,6 +1153,7 @@
 
 ## ▷ Multi Browser
 
+* ⭐ **[Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102)** - Multi-Site Extension Search
 * ⭐ **[Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_adblocking_extensions) / [Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_extensions) Extensions**
 * ⭐ **[add0n](https://add0n.com/) or [MyBrowserAddon](https://mybrowseraddon.com/)** - Open-Source Extension Index
 * ⭐ **[Buster](https://github.com/dessant/buster)** or [NopeCHA](https://nopecha.com/) - Auto Captcha Solvers
