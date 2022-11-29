@@ -488,6 +488,7 @@
 * [RDRFSR2](https://github.com/RealIndica/RDRFSR2) - RDR2 FidelityFX Super Resolution Mod
 * [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - Unlock Genshin Impact FPS Cap
 * [HedgeModManager](https://github.com/thesupersonic16/HedgeModManager) - Sonic Game Mod Manager
+* [Roblox Performance](https://rentry.co/roblox-performance) - Roblox Optimization Guide
 * [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) - Roblox Bootstrapper
 * [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap
 * [Factorio Mods](https://1488.me/factorio/mods/en) - Factorio Mods Downloader
