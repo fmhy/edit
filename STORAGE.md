@@ -1321,8 +1321,8 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 * http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down
 * https://sguru.org/libgen-proxy/
 * http://libgen.lc/
-* http://libgen.li/
 * https://libgen.fun/
+* http://libgen.li/ (more than just libgen)
 
 ***
 
