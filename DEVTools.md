@@ -11,7 +11,7 @@
 
 # ► Learning / Cheat Sheets
 
-* ⭐ **[StackOverflow](https://stackoverflow.com/)**, [StackAnon](https://stackanon.com/), [DecodingDevOps](https://www.decodingdevops.com/) or [Stack Roboflow](https://stackroboflow.com/) - Developer Q&A
+* ⭐ **[StackOverflow](https://stackoverflow.com/)**, [DecodingDevOps](https://www.decodingdevops.com/) or [Stack Roboflow](https://stackroboflow.com/) - Developer Q&A
 * ⭐ **[The Odin Project](https://www.theodinproject.com/)** - Web Dev Tutorials / Courses
 * ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Courses / [Infinite Trial](https://pastebin.com/aJ4v55ae)
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive [Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_freecodechamp_archive) / [GitHub](https://github.com/freeCodeCamp/freeCodeCamp)
@@ -223,7 +223,7 @@
 * [Awesome DataScience](https://github.com/academic/awesome-datascience) or [Best Data Science Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources) - Data Science Resources
 * [Mage](https://www.mage.ai/) - Data Science Pipelines
 * [SuperNova](https://www.supernova.io/) - Design System Manager
-* [Eco Design System](https://www.eosdesignsystem.com/) or [Interplay](https://interplayapp.com/) - Product Design Tool
+* [Interplay](https://interplayapp.com/) - Product Design Tool
 * [Awesome Bots](https://github.com/DopplerHQ/awesome-bots) - Developer Bot Index
 * [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students 
 * [Libera Chat](https://libera.chat/) - IRC Network for Project Collaboration
@@ -697,7 +697,7 @@ Automated Incident Response and Forensics Framework
 * [Booster](https://github.com/didi/booster) - Mobile App Optimization
 * [Mobbin](https://www.mobbin.design/) - Mobile App Design Reference Library
 * [Hmanager](https://play.google.com/store/apps/details?id=com.chsappz.hmanager) - Manage Your Heroku Accounts
-* [Heroku Duo](https://heroku.viperadnan.gq/duo), [Heroku Switcher](https://hs.hitarashi.in/) or [HerokuDynoSwitcher](https://github.com/tiararosebiezetta/HerokuDynoSwitcher) - Keep Heroku Apps Running
+* [Heroku Duo](https://heroku.viperadnan.gq/duo) or [HerokuDynoSwitcher](https://github.com/tiararosebiezetta/HerokuDynoSwitcher) - Keep Heroku Apps Running
 * [Kaffeine](http://kaffeine.herokuapp.com/) - Heroku Auto Ping
 * [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS App Development Resources
 * [Xcode](https://developer.apple.com/xcode/) - Test and Build iOS / iPadOS Apps
@@ -1058,7 +1058,7 @@ Automated Incident Response and Forensics Framework
 * [I run code](https://github.com/engineer-man/piston-bot) - Evaluate Code Snippets via Discord
 * [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
 * [ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate) - Modifiable Shellcode Template 
-* [Spork](https://spork.sh/) - P2P Sockets CLI / [GitHub](https://github.com/atek-cloud/spork) / [Discord](https://discord.gg/UUCVrFYksv)
+* [Spork](https://github.com/atek-cloud/spork) - P2P Sockets CLI / [Discord](https://discord.gg/UUCVrFYksv)
 * Vim Tools - [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Config](https://github.com/ChristianChiarulli/LunarVim) 
 * [Mitosis](https://github.com/BuilderIO/mitosis) - Auto-Compile Components
 * [Vim Plug](https://github.com/junegunn/vim-plug), [Vim Pathogen](https://github.com/tpope/vim-pathogen), [Vundle](https://github.com/VundleVim/Vundle.vim ), [Dein](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
