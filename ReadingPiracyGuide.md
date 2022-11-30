@@ -125,7 +125,6 @@
 * [ebooksz](https://www.ebooksz.net/) - Books
 * [BBooks](https://bbooks.info/) - Books
 * [eBook777](https://www.ebooks777.net/) - Books
-* [Novels80](https://novels80.com/) - Books
 * [myebooksfree](https://www.myebooksfree.com/) - Books
 * [English E-Reader](https://english-e-reader.net/) - Books
 * [Bibliomania](http://www.bibliomania.com/bibliomania-static/index.html) - Books
@@ -146,7 +145,6 @@
 * [Goodfileshare](https://goodfileshare.com/) - Books
 * [FeedBooks](http://m.feedbooks.com/publicdomain) - Books
 * [eBook Lobby](http://www.ebooklobby.com/) - Books  
-* [1Lib](https://1lib.limited/) - Books
 * [Avalon Library](https://avalonlibrary.net/) - Books
 * [D-PDF](https://d-pdf.com/) - Books
 * [GrayCity](https://graycity.net/) - Books
@@ -257,7 +255,6 @@
 * [Logoi Library](http://logoilibrary.com/) - Gnosticism / Hermeticism 
 * [766 Occult Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_766_occult_books) - Occult 
 * [Messy Occult Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_messy_occult_library) - Occult / Esoterica / Gnosticism 
-* [BeyondWeird](https://beyondweird.com/) - Occult / Witchcraft / Esoterica
 * [ObscUrban Legend Wiki](https://obscurban-legend.fandom.com/) - Mythology / Urban Legends
 * [FairyTalez](https://fairytalez.com/) - Mythology / Folklore / Fairy Tales
 * [Encyclopedia Mythica](https://pantheon.org/) - Mythology / Folklore / Religion
@@ -808,7 +805,6 @@
 * [ASL Dictionary](https://www.signasl.org/) or [HandSpeak](https://www.handspeak.com/) - American Sign Language 
 * [BSL Dictionary](https://www.signbsl.com/) - British Sign Language 
 * [FreeMdict](https://freemdict.com/) - Dictionary Downloads / [Forum](https://forum.freemdict.com/) / [Archive](https://downloads.freemdict.com/)
-* [pdawiki](https://www.pdawiki.com/forum/) - Dictionary Downloads / Use WeChat for invite 
 * [Goldendict](http://www.goldendict.org/) - Dictionary Program
 * [wikipedia_ql](https://github.com/zverok/wikipedia_ql) - Wiki Data Extraction
 
@@ -931,7 +927,6 @@
 * [MangaOwl](https://mangaowl.to/)
 * [MangaReader](https://mangareader.cc/)
 * [MC Reader](https://www.mcreader.net/)
-* [VinLoad](https://vinload.com/)
 * [ManHausKiss](https://manhuakiss.com/)
 * [VyVyManga](https://vyvymanga.com/)
 * [Elarcpage](https://elarcpage.com/)
@@ -956,7 +951,6 @@
 * [OtakusKindle](https://otakuskindle.wordpress.com/)
 * [Manga347](https://manga347.com/)
 * [Manga Home ](http://www.mangahome.com/)
-* [MangaKik](https://mangakik.net/) 
 * [MangaDig](https://mangadig.com/)
 * [Mangaski](https://www.mangasaki.com/)
 * [Manhwafull](https://manhwafull.com/)
@@ -1050,7 +1044,6 @@
 * [Read Light Novel](https://www.readlightnovel.me/)
 * [DaoNovel](https://daonovel.com/)
 * [List Novel](http://www.listnovel.com/)
-* [NovelPassion](https://www.novelpassion.com)
 * [ReadFullNovel](https://readfullnovel.net)
 * [Novel Ringan](https://novelringan.com/)
 * [NovelLMAO](https://novelmao.com/)
@@ -1131,7 +1124,6 @@
 * [eBook3000](http://www.ebook3000.com/Magazine/index.html)
 * [FreePDFMagazine](https://www.freepdfmagazine.com/)
 * [freemagazines](https://freemagazines.top/)
-* [FreeMagazinesPDF](https://freemagazinepdf.com/)
 * [Calameo](https://calameo.com/) 
 * [MagazinesBB](https://magazinesbb.com/)
 * [PDF Magazines Archive](https://pdf-magazines-archive.com/) 
