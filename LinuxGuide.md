@@ -334,7 +334,6 @@
 * ⭐ **[protondb](https://www.protondb.com/)**, **[Lutris](https://lutris.net/)**, [PortWine](https://portwine-linux.ru/portwine-faq/) or [Proton](https://github.com/ValveSoftware/Proton) - Play Windows games on Linux
 * ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games
 * [winesapOS](https://github.com/LukeShortCloud/winesapOS) - Play Games on Storage Devices 
-* [Zamunda](https://zamunda.net/login.php?returnto=%2Fgames.php) - Linux Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [GameHub](https://tkashkin.github.io/projects/gamehub/) or [Steal](https://github.com/AbdelrhmanNile/steal) - Game Managers
 * [Free Linux PC Games](https://freelinuxpcgames.com/) - Linux Games
 * [The KDE Games Center](https://games.kde.org/) - Linux Games
