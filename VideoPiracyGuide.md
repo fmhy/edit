@@ -488,7 +488,7 @@
 
 ## ▷ Sports Streaming
 
-* ⭐ **[NBAFullHD](https://nbafullhd.com/)**, [NBAHD](https://nbahd.com/) or [NBAHDReplay](https://nbahdreplay.com/) - NBA
+* ⭐ **[NBAFullHD](https://nbafullhd.com/)**, [NBATVReplay](https://nbatvreplay.com/), [NBAHD](https://nbahd.com/) or [NBAHDReplay](https://nbahdreplay.com/) - NBA
 * ⭐ **[F1 Full Races](https://f1fullraces.com/)** - F1
 * ⭐ **[WatchWrestling24](http://watchwrestling24.net/)** - MMA / Wrestling
 * [FootballOrigin](https://www.footballorgin.com/) - Soccer
