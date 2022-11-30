@@ -819,12 +819,6 @@ pass: paluch
 
 *** 
 
-#### Christmas Share
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9tcXhpQlJUSiMwYm5TYTM1bmtueFVxT0NyLXhkR1ln`
-
-*** 
-
 #### iTunesU Lectures
 
 `aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL0BreW5kaWdz`
