@@ -1049,7 +1049,7 @@
 
 # ► iOS Privacy
 
-* [Julioverne](https://julio.hackyouriphone.org/) - Privacy Tools 
+* ⭐ **[Julioverne](https://julio.hackyouriphone.org/)** - Privacy Tools 
 * [iOS-Privacy-Guide](https://github.com/paulaime/iOS-Privacy-Guide) - iOS Privacy Guide
 * [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [Raivo OTP](https://raivo-otp.com), [OTP Auth](https://apps.apple.com/ca/app/otp-auth/id659877384), [Sentinel](https://getsentinel.io) or [Tofu](https://www.tofuauth.com/) - Two-factor Authentication  
 * [SecretPhotoAlbum++](https://apps.apple.com/us/app/secret-photo-album/id1459036428), [Private Photo Vault](https://apps.apple.com/us/app/private-photo-vault-pic-safe/id417571834) or [No See You](https://noseeyou.com/) - Private Photo Album
@@ -1184,6 +1184,7 @@
 # ► iOS Apps
 
 * ⭐ **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open Source iOS App Index
+* ⭐ **[ReJail](https://rejail.ru/)** - App / Tweak Repository
 * [CyPwn](https://repo.cypwn.xyz/), [2](https://ipa.cypwn.xyz/) - App Repository / [Discord](https://discord.gg/cypwn)
 * [AppDB](https://appdb.to/) - iOS Apps 
 * [AppAddict](https://www.appaddict.org/) - iOS Apps
@@ -1204,7 +1205,7 @@
 * [paxcex](https://paxcex.github.io/) - App Repository
 * [sarahh12099](https://sarahh12099-mirror.github.io/repo) - App Repository
 * [CydiaGeek](https://cydiageek.yourepo.com/) - App Repository
-* [AppHeaven](https://www.appheaven.vip/) - App / Tweak Repository 
+* [AppHeaven](https://www.appheaven.vip/) - App / Tweak Repository
 * [iOSGods](https://iosgods.com/) - App Tweaks / Hacks / Mods
 * [iPA Host](https://github.com/ipahost) - App Tweaks / Social Media’s
 * [EonHub](https://app.eonhubapp.com/) - Hacked / Tweaked Apps
