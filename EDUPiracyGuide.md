@@ -133,7 +133,6 @@
 * [Reks Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive) - Courses
 * [OpenDirectory](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_opendirectory) - Courses
 * [Revival](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_revival) - Courses
-* [Christmas Share](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_christmas_share) - Courses
 * [HMDRIVE](https://t.me/HMDRIVE_OFFICIAL) - Courses
 * [Iit jee lectures](https://t.me/Iitjeeinveins2) - Lectures / Telegram   
 * [CoursesDaddy](http://coursesdaddy.com/) - Courses 
