@@ -391,7 +391,7 @@
 * [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
 * [Contrast Checker](https://contrast-checker.glitch.me/) - Contrast Checker
 * [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
-* [free-website-translation](http://free-website-translation.com/), [transdict](http://transdict.com/meta/website.html) or [conveythis](https://www..com/) - Website Translators
+* [free-website-translation](http://free-website-translation.com/), [transdict](http://transdict.com/meta/website.html) or [conveythis](https://www.conveythis.com/) - Website Translators
 * [Statically](https://statically.io/) - Load Websites Faster
 * [comepress](https://github.com/NayamAmarshe/comepress) - Optimize Sites Image Files
 * [Magic Drop](https://chrome.google.com/webstore/detail/magic-drop/ogbbepddobacadohbfbpmhjomfjmbken) - Drag & Drop Images to Sites
