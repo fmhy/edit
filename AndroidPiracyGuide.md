@@ -87,7 +87,7 @@
 * [Keyoxide](https://www.f-droid.org/packages/org.keyoxide.keyoxide/) - Verify Decentralized Cryptographic Identities
 * [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&amp;hl=en_US) - Tor Proxy
 * [TorServices](https://f-droid.org/packages/org.torproject.torservices/) - Tor App Proxy / [GitLab](https://gitlab.com/guardianproject/torservices)
-* [Fritter](https://fritter.cc/) - Privacy Based Twitter Client
+* [Fritter](https://fritter.cc/) - Privacy Based Twitter Client / [Redirect](https://github.com/AucT/twitter2nitter)
 * [Intra](https://play.google.com/store/apps/details?id=app.intra&amp;hl=en_US) - System Wide DoH for Android
 * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) / [Git](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - Incognito Keyboard
 * [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android) or [Xandroid](https://github.com/XndroidDev/Xndroid) - Proxy
@@ -284,7 +284,7 @@
 * [Caffeine](https://lab.zhs.moe/caffeine/) - Keep Screen On
 * [FakeStandby](https://fakestandby.jonasbernard.de/) - Turn Off Screen While App is Running
 * [WaveUp](https://gitlab.com/juanitobananas/wave-up) - Turn On Display via Waving
-* [Shelter ](https://cgit.typeblog.net/Shelter/) or [Insular](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps
+* [Shelter](https://cgit.typeblog.net/Shelter/) or [Insular](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps
 * [Warp Plus Cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Unlimited Warp+ GB
 * [MacroDroid](http://macrodroid.com/) or [AutomateIt](https://www.automateitapp.com/) - Android Automation
 * [DoForMe](https://play.google.com/store/apps/details?id=com.aj.dfm) - Location Based Automation
@@ -844,6 +844,7 @@
 * [PocketCasts](https://www.pocketcasts.com/) - Podcasts
 * [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict ) - Podcasts 
 * [Tsacdop](https://play.google.com/store/apps/details?id=com.stonegate.tsacdop) - Podcasts
+* [Stitcher](http://www.stitcher.com/) - Podcasts
 * [Pocket Casts](https://github.com/Automattic/pocket-casts-android) - Podcasts
 * [RadioDroid](https://f-droid.org/en/packages/net.programmierecke.radiodroid2/) - Radio
 * [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/) - Radio
