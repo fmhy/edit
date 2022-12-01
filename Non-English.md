@@ -1161,6 +1161,7 @@
 * [baixarvideo](https://www.baixarvideo.com.br/) - Portuguese Video Downloader
 * [OnlineCursoGatuitos](https://onlinecursosgratuitos.com/) - Courses
 * [escolaeducacao](https://escolaeducacao.com.br/estude-gratis/) - Courses
+* [wreducacional](https://www.wreducacional.com.br/) - Courses
 * [SuporteNinja](https://suporteninja.com/download/) - Courses
 * [Mundo Ubuntu](https://www.mundoubuntu.com.br/) - Courses
 * [Jogatina](https://www.jogatina.com/) - Android Games
