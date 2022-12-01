@@ -412,6 +412,7 @@
 * [Newznab](https://www.newznab.com/)
 * [NZBIndex](https://www.nzbindex.nl/)
 * [NZBGrabit](https://www.nzbgrabit.xyz/)
+* [NZBStars](https://nzbstars.com/)
 * [DrunkenSlug](https://drunkenslug.com/)
 * [Tabula Rasa](https://www.tabula-rasa.pw/)
 * [GingaDaddy](https://www.gingadaddy.com/)
