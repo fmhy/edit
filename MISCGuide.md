@@ -103,7 +103,7 @@
 * [Fediverse](https://fediverse.party/), [Libranet](https://libranet.de/) or [Fediverse Observer](https://mastodon.fediverse.observer/) - Federated Social Networks
 * [Creamy's Homemade List](https://docs.google.com/document/d/1t10VI-sccy1CfAeMZHwmCS_7agIHFo_B5ipMjzsMtTg/edit) / [2](https://web.archive.org/web/20191130224152/https://pastebin.com/3e2RddP5), [ImageBoards](https://imageboards.net/), [Chan List](https://archive.is/Npzwl) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - Imageboard Index
 * [imageboards.json](https://gitgud.io/iblist/imageboards.json) or [textboards.json](https://gitgud.io/iblist/textboards.json) - Image / Textboard .json
-* [DeepAI](https://deepai.org/), [RunawayML](https://runwayml.com/) or [AI Creator Tools](https://library.phygital.plus/) - AI Tool Indexes
+* [DeepAI](https://deepai.org/), [Futurepedia](https://www.futurepedia.io/), [RunawayML](https://runwayml.com/) or [AI Creator Tools](https://library.phygital.plus/) - AI Tool Indexes
 * [Awesome ACG](https://github.com/soruly/awesome-acg) - Anime Tool Index 
 * [Tsuk1ko](https://github.com/Tsuk1ko) - Anime Tool Repositories
 * [Anilinks](https://anilinks.neocities.org/) - Anime Related Site Index 
@@ -686,6 +686,7 @@
 
 * ⭐ **[Reciperr](https://reciperr.com/)**, [Tandoor Recipes](https://docs.tandoor.dev/) or [Spoonacular](https://spoonacular.com/food-api) - Recipe Managers
 * ⭐ **[Grocy](https://grocy.info/)** or [Kitchen Owl](https://f-droid.org/en/packages/com.tombursch.kitchenowl/) / [Backend](https://tombursch.github.io/kitchenowl/get-started/) - Grocery Managers
+* ⭐ **[Superbetize](http://superbetize.com/)** - Categorize your grocery list
 * ⭐ **[Just the Recipe](https://www.justtherecipe.com/)**, [Copy Me That](https://www.copymethat.com/), [PlainOldRecipe](https://www.plainoldrecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - Extract Ingredients from Recipe Pages
 * ⭐ **[/m/food](https://www.reddit.com/user/Siryonkee/m/food/)** - Food Multireddit
 * ⭐ **[TasteJury](https://tastejury.com/)** - Find Specific Dishes
@@ -887,6 +888,7 @@
 * [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - Insomnia Prevention Tips
 * [eXHALeR](https://www.xhalr.com/) - Yoga / Meditation Breathing Tool 
 * [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
+* [Meditation Timer](https://meditation.koti.cloud/) - Meditation Timer / Session Tracker
 * [PixelThoughts](http://www.pixelthoughts.co/) - 60 Second Relaxation Tool
 * [Relax Online](http://www.relaxonline.me.uk/sa1/index.html) - Stress Analyst Tool
 * [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health) or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Index
