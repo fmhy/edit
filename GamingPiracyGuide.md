@@ -567,6 +567,7 @@
 * [Super Auto Pets](https://teamwood.itch.io/super-auto-pets) - Pet Battle Game
 * [Dungeon Crawl](https://crawl.develz.org/ ) - Browser RPG
 * [Forumwarz](http://www.forumwarz.com/) - Browser RPG
+* [CrossCode](http://www.cross-code.com/en/home) - Browser RPG
 * [Kingdom of Loathing](https://www.kingdomofloathing.com/) - Comedy RPG 
 * [Bruno-Simon](https://bruno-simon.com/) - Truck Driving Game
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
@@ -619,7 +620,8 @@
 * [Venge](https://venge.io/) - PvP FPS
 * [LolShot](https://lolshot.io/) - PvP FPS
 * [ShellShock](https://www.shellshock.io/) - PvP FPS
-* [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) - Top Down Battle Royal 
+* [Bruh.io](https://bruh.io/), [2](https://play.bruh.io/) - Top Down Battle Royal
+* [Surviv.io](https://surviv.io/) - Top Down Battle Royal
 * [ZombsRoyale.io](https://zombsroyale.io/) - Zombie Battle Royale 
 * [Yohoho.io](https://www.yohoho.io/) - Pirate Battle Royale
 * [1v1.LOL](https://1v1.lol/) - 1v1 Building / Battle Sim
@@ -651,20 +653,14 @@
 * [Bonk](https://bonk.io/) - Multiplayer Physics Game
 * [GPRO](https://www.gpro.net/gb/gpro.asp) - F1 Manager Game
 * [Miniconomy](https://www.miniconomy.com/) - Economy Game
-* [eWordChallenge](https://www.ewordchallenge.net/) - Boggle
 * [tix.tax](https://tix.tax/) - Ultimate Tic-Tac-Toe
 * [PlayTicTacToe](https://playtictactoe.org/) - Tic-Tac-Toe 
-* [GameKnot Chess](https://gameknot.com/) - Chess
-* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess w/o Turns 
-* [AllBad.Cards](https://allbad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - Cards Against Humanity Online 
-* [Poker Now](https://www.pokernow.club/), [LiPoker](https://lipoker.io/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
-* [KDice](http://www.kdice.com/) - Multiplayer Dice War
 
 ***
 
 ## ▷ Board / Card / Dice
 
-* ⭐ **[lichess](https://lichess.org/)**, [WebChess](http://chess.delorie.com/) or [Chess.com](https://www.chess.com/) - Chess Platform 
+* ⭐ **[lichess](https://lichess.org/)**, [WebChess](http://chess.delorie.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platform 
 * [Board Game Online](https://www.boardgame-online.com/), [Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games), [Board Game Arena](https://en.boardgamearena.com/) or [FunNode](https://www.funnode.com/) - Board Games 
 * [Hexxagon](https://hexxagon.com/) - Hexagonal Board Game
 * [GtkAtlantic](https://gtkatlantic.gradator.net/index.html) or [Monopolie](http://monopolie.sourceforge.net/index.shtml) - Open Source Monopoly
@@ -696,6 +692,7 @@
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
 * [KillerCrossword](https://killercrossword.com/) - No Clue Crosswords
 * [LikeWordle](https://likewordle.com/), [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/), [Wordle Unlimited](https://wordleunlimited.org/), [Huedle](https://huedle.com/), [Chessle](https://jackli.gg/chessle), [BoxOfficeGA](https://boxofficega.me/), [Wordversary](https://wordversary.com/), [Wordle.nyc](https://wordle.nyc/), [Clidle](https://github.com/ajeetdsouza/clidle), [WordleGame](https://wordlegame.org/), [Squaredle](https://squaredle.app/), [Py-DLE](https://py-dle.herokuapp.com/), [Tweakdle](https://tweakdle.chariz.com/) or [Wordlevs](https://wordlevs.com/) - Wordle Games / [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
+* [eWordChallenge](https://www.ewordchallenge.net/) - Boggle
 * [ChessGuessr](https://www.chessguessr.com/) - Chess Style Wordle
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles & Quizzes
 * [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - Online Jigsaw Puzzles
@@ -708,6 +705,7 @@
 * [Rockbasher](https://www.rockbasher.com/) - Retro Style Puzzle Game
 * [Treksit](https://treksit.com/index.html) - Puzzle Game
 * [Game about Squares](http://gameaboutsquares.com/) - Puzzle Game
+* [Orion](https://orion.lukasbach.com/) - Puzzle Game
 * [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
 * [Menneske](https://www.menneske.no/eng/) - Number Puzzles
 * [Emozle](https://emozle.com/) - Emoji Puzzle
