@@ -243,7 +243,6 @@
 * [Valuta EX](https://valuta.exchange/) - Currency Converter
 * [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
 * [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wishlist Creators
-* [Fakespot](https://www.fakespot.com/) - Identifies Fake Reviews / Counterfeits / [Warning](https://rentry.co/88t8z)
 * [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Wii Shop Music on Shopping Sites
 
 ***
