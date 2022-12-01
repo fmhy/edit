@@ -40,7 +40,7 @@
 * [Python Programming Hub](https://github.com/Tanu-N-Prabhu/Python) - Python Learning Repository
 * [Python4Everyone](https://py4e.com/), [A Byte of Python](https://python.swaroopch.com/), [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/), [Learn Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
 * [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - Python Lessons
-* [Real Python](https://realpython.com/) or [AskPython](https://www.askpython.com/) - Python Tutorials
+* [Real Python](https://realpython.com/), [Reeborg](https://reeborg.ca/docs/en/) or [AskPython](https://www.askpython.com/) - Python Tutorials
 * [FutureCoder](https://futurecoder.io/), [complete python developer](https://t.me/Udemy_Python_Developer), [Python Full Course](https://youtu.be/XKHEtdqhLK8) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - Python Course
 * [Modern Python 3 Bootcamp Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_modern_python_3_bootcamp_courses)
 * [Tea Press](https://greenteapress.com/wp) - Python Learning Book
@@ -223,21 +223,22 @@
 * [Awesome DataScience](https://github.com/academic/awesome-datascience) or [Best Data Science Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources) - Data Science Resources
 * [Mage](https://www.mage.ai/) - Data Science Pipelines
 * [SuperNova](https://www.supernova.io/) - Design System Manager
+* [Grafana](https://grafana.com/) - Data Dashboard
 * [Interplay](https://interplayapp.com/) - Product Design Tool
 * [Awesome Bots](https://github.com/DopplerHQ/awesome-bots) - Developer Bot Index
-* [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students 
+* [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
 * [Libera Chat](https://libera.chat/) - IRC Network for Project Collaboration
-* [CodeProject](https://www.codeproject.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/)  - Developer Forum 
+* [CodeProject](https://www.codeproject.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/)  - Developer Forum
 * [Tech-Blogs](https://tech-blogs.dev/) - Blogs for Developers
 * [The Devs Network](https://thedevs.network/) - Developer Chat
 * [StackShare](https://stackshare.io/) - Tech Stack Collaboration
 * [Codever](https://www.codever.land/) - Bookmarks Manager for Developers
 * [sli.dev](https://sli.dev/) - Markdown to Slideshow
 * [Volume](https://www.volumestories.com/) - Create Immersive Reading Experiences
-* [daily.dev](https://daily.dev/) - Replace New Tab Page with Developer Articles 
+* [daily.dev](https://daily.dev/) - Replace New Tab Page with Developer Articles
 * [Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites) - Download Icons for Projects
 * [The Favicon Finder](https://besticon.herokuapp.com/) - Find Favicons on Sites
-* [Favicon Maker](https://formito.com/tools/favicon) or [react favicon](https://react-favicon.com/) - Create Favicons
+* [Favicon Maker](https://formito.com/tools/favicon), [Favicon Generator](https://www.favicon-generator.org/) or [react favicon](https://react-favicon.com/) - Create Favicons
 * [Laws of UX](https://lawsofux.com/) - Maxims / Principles for UI Designers
 * [Dark Patterns](https://www.darkpatterns.org/) - Deceptive User Experience Examples
 * [UI Coach](https://uicoach.io/) - UI Design Challenge Generator
@@ -359,6 +360,7 @@
 * [dynamic.name](https://dynamic.name/) - Dynamic DNS
 * [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - HTTPS DoH Queries
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
+* [CSSMatic](https://www.cssmatic.com/) - CSS Web Design Tools
 * [Sympli](https://sympli.io/), [AnimaApp](https://www.animaapp.com/) or [ZeroHeight](https://www.zeroheight.com/) - Development Collaboration Tool
 * [Grav](https://getgrav.org/) - Flat-File CMS
 * [Flux](https://www.runonflux.io/) - Decentralized Cloud Infrastructure
@@ -370,6 +372,7 @@
 * [ElasticSearch](https://github.com/elastic/elasticsearch) - Search & Analytics Engine
 * [Search Engine Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_seo_tools) - SEO Tools
 * [SerPreview](https://serpreviewtool.com/) - Site Search Results Preview
+* [Schema Markup Testing Tools](https://developers.google.com/search/docs/appearance/structured-data) - Test Sites Google Results
 * [Charles 3](https://www.charlesproxy.com/download/previous-release/) or [ProxyMan](https://proxyman.io/) - Web Debugging Proxy Apps
 * [CORS Proxy](https://corsproxy.github.io/) - Free CORS Proxy
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
@@ -400,7 +403,7 @@
 * [httpbin](https://httpbin.org/) or [Requestbin](https://requestbin.com/) - HTTP Request & Response Service
 * [RemoteMySQL](https://www.remotemysql.com/) - Remote MySQL Database
 * [DoIt](https://github.com/dolthub/dolt) - SQL Database
-* [DB4Free](https://db4free.net/) - MySQL Testing
+* [DB4Free](https://db4free.net/) or [SQLFIddle](http://sqlfiddle.com/) - SQL Testing
 * [AI2SQL](https://app.ai2sql.io/) - SQL Generator
 * [franchise](https://franchise.cloud/) - SQL Notebook
 * [Illegal Analytics Scanner](https://illegal.analyticsscanner.com/) - Check if your Analytics Break Laws
@@ -416,8 +419,9 @@
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) or [MetaTags](https://metatags.io/) - Meta Tag Generator
 * [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools)
 * [Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools) - Domain Information Lookup Tools
-* [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [v3WhoIs](https://www.v3whois.com/), [atlaq](https://atlaq.com/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
+* [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [v3WhoIs](https://www.v3whois.com/), [IWantMyName](https://iwantmyname.com/), [atlaq](https://atlaq.com/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
 * [namify](https://namify.tech/) - Domain / Business Name Suggestions
+* [AcronymCreator](https://acronymcreator.net/) - Business Acronym Generator
 * [TinyDomain](https://tinydomain.net/) - Short Domain Suggestions
 * [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
 * [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
@@ -426,7 +430,7 @@
 * [TheDev](https://thedev.id/) or [Dev.page](https://dev.page/) - Free Developer Subdomains
 * [redirect.name](https://redirect.name/) - URL Forwarding
 * [StatPing](https://github.com/statping/statping) or [Better Uptime](https://betteruptime.com/) - Site Uptime Monitor
-* [UseMe](https://useme.org/) - Ping Website
+* [UseMe](https://useme.org/) or [PingDom](https://tools.pingdom.com) - Ping Website
 * [Measure](https://web.dev/measure/) - Site Functionality Test
 * [Site Inspector](https://www.getsiteinspector.com/) - Check Site for Spelling / Grammatical Errors
 * [UX Check](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) - Site Heuristic Evaluation
@@ -520,7 +524,7 @@
 * [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - CSS Shadow Generator
 * [MapBox](https://www.mapbox.com/) - Live Maps, Location Search & More
 * [Maps-Core](https://openmobilemaps.io/) - Mobile Map SDK
-* [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [JotForm](https://www.jotform.com/), [99Inbound](https://www.99inbound.com/), [Forms.id](https://forms.id/), [Form.taxi](https://form.taxi/) or [Formsend](https://formsend.org/) - Form Creators
+* [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [JotForm](https://www.jotform.com/), [99Inbound](https://www.99inbound.com/), [Forms.id](https://forms.id/), [PHPForm](http://www.phpform.org/), [Form.taxi](https://form.taxi/) or [Formsend](https://formsend.org/) - Form Creators
 * [Loading.io](https://loading.io/) - Customizable Loading SVG
 * [Medusa](https://github.com/medusajs/medusa) - Digital Commerce Development Tool
 * [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)- Penetration Testing Resources
@@ -703,7 +707,8 @@ Automated Incident Response and Forensics Framework
 * [Xcode](https://developer.apple.com/xcode/) - Test and Build iOS / iPadOS Apps
 * [SpreadsheetView](https://github.com/bannzai/SpreadsheetView) - Spreadsheet UI for iOS Apps
 * [Xcodes App](https://github.com/RobotsAndPencils/XcodesApp) - Xcode Manager
-* [IconKitchen](https://icon.kitchen/) or [AppIcon](https://appicon.co/)- App Icon Generator
+* [AndroidAssetStudio](https://romannurik.github.io/AndroidAssetStudio/) - Android App Assets
+* [IconKitchen](https://icon.kitchen/) or [AppIcon](https://appicon.co/) - App Icon Generator
 * [iOS Icon Gallery](https://www.iosicongallery.com/) - iOS Icon Examples
 * [Plank](https://launchpad.net/plank) - Simple Dock / [GitHub](https://github.com/ricotz/plank)
 * [Portainer](https://portainer.io/) - Build / Manage Docker Containers / [Templates](https://github.com/SelfhostedPro/selfhosted_templates) / [GitHub](https://github.com/portainer/portainer)
@@ -858,6 +863,7 @@ Automated Incident Response and Forensics Framework
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips) or [CSS Reference](https://cssreference.io/) - CSS Guide
 * [Awesome CSS](https://github.com/awesome-css-group/awesome-css) - CSS Resources
 * [Cssgr](https://cssgr.id/), [BoxBox](https://seansleblanc.itch.io/boxboxhtml), [CSSGridGenerator](https://cssgrid-generator.netlify.app/) or [Layoutit Grid](https://grid.layoutit.com/) - CSS Grid Generators
+* [AutoPrefixer](https://autoprefixer.github.io/) - CSS Prefixer
 * [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi) - CSS Element Outline Extension
 * [Water.css](https://watercss.kognise.dev/) - CSS Styles
 * [Style Stage](https://stylestage.dev/) - Modern CSS Styles
@@ -882,10 +888,12 @@ Automated Incident Response and Forensics Framework
 * [Tableconvert](https://tableconvert.com/) - Markdown / Code Converter
 * [Markdown Link Check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check Markdown Files for Dead Links 
 * [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks), [Terminal CSS](https://terminalcss.xyz/), [Bulma](https://bulma.io/), [Tailwind](https://tailwindcss.com/) or [SimpleCSS](https://simplecss.org/) - CSS Frameworks
+* [CSS Typeset](http://csstypeset.com/) - CSS Typography Editor
 * [DaisyUI](https://daisyui.com/) - Tailwind Component Library / [GitHub](https://github.com/saadeghi/daisyui)
 * [TailBlocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS Blocks
 * [MarkdownGuide](https://www.markdownguide.org/) - Guide for Markdown (.md) 
-* [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/), [Apostrophe](https://github.com/ApostropheEditor/Apostrophe), [Glow](https://github.com/charmbracelet/glow) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editor
+* [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/), [Apostrophe](https://github.com/ApostropheEditor/Apostrophe), [Glow](https://github.com/charmbracelet/glow), [MarkdownLivePreview](https://markdownlivepreview.com/) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editors
+* [Lyx](https://www.lyx.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors / [Guide](https://www.learnlatex.org/)
 * [Table Magic](https://stevecat.net/table-magic/) or [Markdown Convert](https://markdown-convert.com/) - Table to Markdown Converters
 * [Markdown To HTML](https://markdowntohtml.com/) - Markdown to HTML Converter
 * [AiToHTML](http://ai2html.org/) - Illustrator to HTML Converter
@@ -948,6 +956,7 @@ Automated Incident Response and Forensics Framework
 * [Whats New GitHub](https://github.com/flawyte/whats-new-github) - Repository Change Feed 
 * [Conventional Commits](https://www.conventionalcommits.org/) - Commit Message Specification
 * [Git Cliff](https://github.com/orhun/git-cliff) - Changelog Generator
+* [GitHub Markdown Preview](http://aviaryan.in/javascripts/github.md/) - Preview Markdown
 * [ReadmeGallery](http://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/) - GitHub Remdme Gallery Creator
 * [readme.so](https://readme.so/) - Readme Markdown Editor
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically Generated GitHub Readme Stats 
@@ -1042,6 +1051,7 @@ Automated Incident Response and Forensics Framework
 * [Vim Latex](http://vim-latex.sourceforge.net/) - Latex Style Vim Editor
 * [WAPM](https://wapm.io/) - WebAssembly Apps / Libraries
 * [CarlosAG](https://www.carlosag.net/) - Coding Tools
+* [CodePad](http://codepad.org/) or [CodeChef](https://www.codechef.com/ide) - Online Compilers
 * [Decompiler](https://www.decompiler.com/) - Online Decompiler
 * [core-plot](https://github.com/core-plot/core-plot) - Core Plot Source Code / Apps
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) - Livecoding Resources
@@ -1053,7 +1063,8 @@ Automated Incident Response and Forensics Framework
 * [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - Source Code Converters
 * [OctoLinker](https://octolinker.vercel.app/) - Turn Code Statements into Links / [Github](https://github.com/OctoLinker/OctoLinker)
 * [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - Emacs Packages
-* [WebDen](https://webden.dev/), [Riju](https://riju.codes/ ) or [CodeEval](https://www.codeeval.dev/) - Code Playgrounds
+* [WebDen](https://webden.dev/), [Riju](https://riju.codes/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [CodeEval](https://www.codeeval.dev/) - Code Playgrounds
+* [DartPad](https://dartpad.dartlang.org) - Dart Code Playground
 * [Qovery](https://www.qovery.com/) - AWS Development Platform
 * [I run code](https://github.com/engineer-man/piston-bot) - Evaluate Code Snippets via Discord
 * [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
@@ -1144,12 +1155,14 @@ Automated Incident Response and Forensics Framework
 * [RunKit](https://runkit.com/) - Browser Javascript Sandbox
 * [JBin](https://jsbin.com/) or [Replay](https://www.replay.io/) - Collaborative Debugging
 * [GPU.js](https://gpu.rocks/) - GPU Accelerated JavaScript
-* [JS.ORG](https://js.org/) - Free subdomain for Javascript Developers 
+* [JS.ORG](https://js.org/) - Free subdomain for JavaScript Developers 
 * [1loc](https://1loc.dev/) - 217 Single Line JavaScript Codes 
 * [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data Structures in Javascript
-* [Gummy](https://gummyjs.vercel.app/) - Easily Build Javascript Programs 
-* [Beautifier](https://beautifier.io/) - Online JavaScript Beautifier
+* [Gummy](https://gummyjs.vercel.app/) - Easily Build JavaScript Programs 
+* [Beautifier](https://beautifier.io/) - JavaScript Beautifier
+* [UglifyJS](https://skalman.github.io/UglifyJS-online/) or [JavaScript Compressor](https://javascriptcompressor.com/) - JavaScript Minifier
 * [JDec](https://jdec.app/) - Online JavaScript Decompiler
+* [Regulex](https://jex.im/regulex/) - JavaScript Regular Expression Visualizer
 * [anime.js](https://animejs.com/) - JavaScript Animation Library / [GitHub](https://github.com/juliangarnier/anime/)
 * [randomcolor](https://randomcolor.lllllllllllllllll.com/) - Random Javascript Color Generator
 * [Microdiff](https://github.com/AsyncBanana/microdiff) - Object and Array Comparison Library
@@ -1232,7 +1245,7 @@ Automated Incident Response and Forensics Framework
 
 ## ▷ Cloud IDEs / Collab
 
-* ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [Deta](https://www.deta.sh/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [FireMonkeyX](http://www.firemonkeyx.com/) or [Glitch](https://glitch.com/) / [GitHub](https://github.com/m3o/m3o) - Cloud IDE
+* ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [Deta](https://www.deta.sh/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [FireMonkeyX](http://www.firemonkeyx.com/), [Cloud9](https://aws.amazon.com/cloud9/) or [Glitch](https://glitch.com/) / [GitHub](https://github.com/m3o/m3o) - Cloud IDE
 * ⭐ **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - Cloud IDE / VSCode 
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
 * [colab alive](https://github.com/sobuj53/colabAlive) - Keep Colab Open
@@ -1257,8 +1270,9 @@ Automated Incident Response and Forensics Framework
 
 ## ▷ IDEs / Code Editors
 
-* ⭐ **[VSCodium](https://vscodium.com/)** - Code Editor  
-* ⭐ **[VS Code Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vscode_tools)** - Tools & Themes for VS Code
-* [Apache NetBeans](https://netbeans.apache.org/) - Cross Platform IDE  
+* ⭐ **[VSCodium](https://vscodium.com/)** - Code Editor
+* ⭐ **[VS Code Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vscode_tools)** - Tools / Themes for VS Code
+* [Apache NetBeans](https://netbeans.apache.org/) - Cross Platform IDE
 * [KDevelop](https://www.kdevelop.org/) - Cross Platform IDE
+* [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross Platform IDE
 * [Thonny](https://thonny.org/) - Python IDE
