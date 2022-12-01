@@ -1552,7 +1552,7 @@ Twitch Stream Tracker
 
 ## ▷ Twitter Tools
 
-* ⭐ **[Nitter](https://nitter.net/**) or [NitterDV](https://nitter.usethetools.org/) - Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)
+* ⭐ **[Nitter](https://nitter.net/)** or [NitterDV](https://nitter.usethetools.org/) - Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)
 * ⭐ **[NoFT](https://noft.gg/)** - Automatically Block all NFT Profile Pictures / [GitHub](https://github.com/ottomated/noft)
 * ⭐ **[Eight Dollars](https://github.com/wseagar/eight-dollars)** - Show Twitter Blue vs. Real Verified Users
 * [TwopCharts](https://twopcharts.com/) - Multiple Twitter Tools 
