@@ -320,7 +320,7 @@
 * [Desmos](https://www.desmos.com/) - Graphing Calculator
 * [TicCalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
 * [TI-Basic Developer](http://tibasicdev.wikidot.com/) - TI-Basic Info Repository
-* [fxSolver](https://www.fxsolver.com/), [Calculator++](https://f-droid.org/packages/org.solovyev.android.calculator/), [Kalker](https://kalker.xyz/) / [GitHub](https://github.com/PaddiM8/kalker) or [The Engineering ToolBox](https://www.engineeringtoolbox.com/) - Engineering & Scientific Calculators
+* [fxSolver](https://www.fxsolver.com/), [Calculator++](https://f-droid.org/packages/org.solovyev.android.calculator/), [Kalker](https://kalker.xyz/) / [GitHub](https://github.com/PaddiM8/kalker), [Calculatoria](http://www.calculatoria.com/) or [The Engineering ToolBox](https://www.engineeringtoolbox.com/) - Engineering / Scientific Calculators
 * [SciDAVis ](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotter
 * [FreeFEM](https://freefem.org/) - Partial Differential Equations Solver
 * [Approach0](https://approach0.xyz/search/) - Math Formula Search
@@ -714,7 +714,8 @@ Simulator
 
 * ⭐ **[The Free Learning List](https://freelearninglist.org/)** or  [/sci/ guide](https://sites.google.com/site/scienceandmathguide/) - Free Educational Sites / Tool Index 
 * ⭐ **[LearnAwesome](https://learnawesome.org/)**, [Learn Anything](https://learn-anything.xyz/), [Learning Lab](https://learn.uno/) / [Discord](https://discord.com/invite/FCzYt8u) or [Learney](https://app.learney.me/) - Learning Resources 
-* ⭐ **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [KausalFlow](https://tools.kausalflow.com/), [Zotero](https://www.zotero.org/) or [Scrible](https://www.scrible.com/)  - Research Tools 
+* ⭐ **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [KausalFlow](https://tools.kausalflow.com/), [Zotero](https://www.zotero.org/) or [Scrible](https://www.scrible.com/)  - Research Tools
+* ⭐ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)** - Presentation Tools & Templates
 * ⭐ **[PhET](https://phet.colorado.edu/)** - STEM / Interactive
 * ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Infinite trial by clearing cookies & making new account
 * ⭐ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - Grammar Checking Tools
@@ -757,8 +758,6 @@ Simulator
 * [ScienceTrek](https://sciencetrek.org/) - Teaching Resources
 * [Socrative](https://www.socrative.com/) - Teaching App
 * [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - UPSC Telegram Channels
-* [AuthorStream](http://www.authorstream.com/) or [Slideshare](https://www.slideshare.net/) - Watch / Share Slideshows & Presentations
-* [SlideShare Downloader](https://www.slidesharedownloader.com/) - Download Slideshow Presentations
 * [Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables) - Online Periodic Tables / [App](https://jlindemann.se/homepage/atomic/)
 * [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
 * [Retrosynthesis](http://retrosynthesis.com/) - Organic Retrosynthesis Engine / [GitHub](https://github.com/sudo-rushil/odachi)
@@ -823,7 +822,6 @@ Simulator
 * [OpenBoard](https://openboard.ch/), [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboard
 * [Graph / Diagram Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_graph_.2F_diagram_creators)
 * [Altium](https://www.altium.com/viewer/) - Schematics Visualizer
-* [OpenLearning](https://www.openelearning.org/) - Create Course Presentations
 * [Quizizz](https://quizizz.com/) - Create Quizzes, Lessons, Flashcards & Presentations
 * [Anki](https://apps.ankiweb.net/) / [CLI](https://github.com/TBS1996/speki), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html), [StudyLib](https://www.studylib.net/) or [Flashcard Machine](https://www.flashcardmachine.com/) - Flash Card Tools
 * [Carden](https://github.com/alyssaxuu/carden) or [Awesome Anki](https://github.com/tianshanghong/awesome-anki) - Flashcard Extensions
