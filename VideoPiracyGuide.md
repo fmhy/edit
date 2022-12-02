@@ -74,7 +74,8 @@
 * [PrimeMoviesFlix](https://primemoviesflix.com) - Movies / TV / Anime
 * [TheFlix](https://theflix.to/) - Movies / TV / Requires Signup
 * [Flixtor](https://flixtor.to) - Movies / TV / Movies Older Than 6 Months For Premium Only
-* [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_google_teamdrives) - Movies / TV / Anime 
+* [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_google_teamdrives) - Movies / TV / Anime
+* [English Movies](https://m.vk.com/english_movies) - Movies
 * [Filmzie](https://filmzie.com/) - Movies / TV
 * [PopcornFlix](https://www.popcornflix.com/) - Movies / TV
 * [Crackle](https://www.crackle.com/) - Movies / TV
@@ -1122,7 +1123,7 @@
 * [Firestick Tricks](https://www.firesticktricks.com/) - Firestick Jailbreak Guide / [Loader](https://github.com/esc0rtd3w/firestick-loader)
 * [Android TV Mod](https://t.me/androidtvmod) - Android TV / Fire TV / Fire Stick / Mods / Telegram
 * [FLauncher](https://play.google.com/store/apps/details?id=me.efesser.flauncher) - Android TV Launcher / [GitLab](https://gitlab.com/etienn01/flauncher)
-* [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) - Send Files to Android TV
+* [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) or [AllCast](https://play.google.com/store/apps/details?id=com.koushikdutta.cast) - Send Files to Android TV
 * [Apps2Fire](https://play.google.com/store/apps/details?id=mobi.koni.appstofiretv) - Upload Apps to FireTV
 * [RootMyTV](https://github.com/RootMyTV/RootMyTV.github.io) - LG WebOS TV Root
 * [Blackb0x](https://github.com/NSSpiral/Blackb0x) - Apple TV Jailbreaking
