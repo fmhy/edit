@@ -768,6 +768,7 @@
 * [Fandom](https://www.fandom.com/) - Fan Wikis 
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi Language Dictionary Index
 * [Everpidia](https://everipedia.org/) - Encyclopedia
+* [EverybodyWiki](https://en.everybodywiki.com/) - Encyclopedia
 * [Britannica](https://www.britannica.com/) - Encyclopedia
 * [Encyclopedia](https://www.encyclopedia.com/) - Encyclopedia
 * [Conze.pt](https://conze.pt/) - Encyclopedia
@@ -983,6 +984,7 @@
 * [LHTranslation](https://lhtranslation.net/)
 * [MangaKatana](https://mangakatana.com/) 
 * [Manga.Fanscans](https://manga.fascans.com/)
+* [AquaManga](https://aquamanga.com/)
 * [CMReader](https://www.cmreader.info/)
 * [Manga Weebs](https://mangaweebs.in/)
 * [DragonTea](https://dragontea.ink/)
