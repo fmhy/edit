@@ -62,7 +62,8 @@
 * [Peelopaalu](https://peelopaalu.neocities.org/) - Site / Tool Index
 * [RefDesk](https://www.refdesk.com/facts.html) - Site / Tool Index
 * [/g/'s good sites](https://rentry.co/sites), [2](https://soda.privatevoid.net/num/links/g-good-sites/) - Site / Tool Index
-* [The Scene](https://lkrjangid1.github.io/Awesome-Warez/) - Site / Tool Index 
+* [The Scene](https://lkrjangid1.github.io/Awesome-Warez/) - Site / Tool Index
+* [Cool Stuff I Found](https://rentry.org/cool-stuff-i-found-on-the-internet) - Site / Tool Index
 * [Product Hunt](https://www.producthunt.com/) - Site / Tool Index
 * [Useful Interweb](https://usefulinterweb.com/) or [Daily Useful Links](https://t.me/DailyUsefulLINKS) - Daily Websites
 * [Mostly Free](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) - Site / Tool Index
@@ -240,7 +241,7 @@
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
 * [Search Ebay Sold](https://chrome.google.com/webstore/detail/search-ebay-sold/mhlcjbhhieanjjafbcoeclghpnjhepif) - Ebay Sold Item Search
 * [Type Hound](https://typohound.com/) - Ebay Typo Search
-* [Valuta EX](https://valuta.exchange/) - Currency Converter
+* [Valuta EX](https://valuta.exchange/) - Currency Converter / [Firefox](https://addons.mozilla.org/en-US/firefox/search/?q=currency%20converter&sort=relevance&type=extension) / [Chrome](https://chrome.google.com/webstore/search/currency%20converter?hl=en&_category=extensions)
 * [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
 * [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wishlist Creators
 * [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Wii Shop Music on Shopping Sites
@@ -686,7 +687,7 @@
 
 * ⭐ **[Reciperr](https://reciperr.com/)**, [Tandoor Recipes](https://docs.tandoor.dev/) or [Spoonacular](https://spoonacular.com/food-api) - Recipe Managers
 * ⭐ **[Grocy](https://grocy.info/)** or [Kitchen Owl](https://f-droid.org/en/packages/com.tombursch.kitchenowl/) / [Backend](https://tombursch.github.io/kitchenowl/get-started/) - Grocery Managers
-* ⭐ **[Superbetize](http://superbetize.com/)** - Categorize your grocery list
+* ⭐ **[Superbetize](http://superbetize.com/)** - Auto-Categorize Grocery List
 * ⭐ **[Just the Recipe](https://www.justtherecipe.com/)**, [Copy Me That](https://www.copymethat.com/), [PlainOldRecipe](https://www.plainoldrecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - Extract Ingredients from Recipe Pages
 * ⭐ **[/m/food](https://www.reddit.com/user/Siryonkee/m/food/)** - Food Multireddit
 * ⭐ **[TasteJury](https://tastejury.com/)** - Find Specific Dishes
@@ -807,13 +808,13 @@
 * ⭐ **[Health News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_health_news)** - Health News Sites
 * ⭐ **[/r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
 * ⭐ **[MyPlate](https://www.myplate.gov/)** - Food Pyramid
-* ⭐ **[Caffeine Calculator](https://caffeineinformer.com/death-by-caffeine)** - Caffeine Calculator
-* ⭐ **[Dehydration Color Chart](https://i.imgur.com/PpDgo5j.png)** - Urine Color Dehydration Chart
+* ⭐ **[Caffeine Calculator](https://caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
+* ⭐ **[Dehydration Chart](https://i.imgur.com/PpDgo5j.png)** - Dehydration Color Chart
 * ⭐ **[BMI Chart](https://i.imgur.com/JHJCmDM.png)** - Healthy BMI Graph
 * ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)** - BMI Calculator
 * ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** or [SwoleHalla](https://www.swolehalla.com/) - Fitness Calculators
 * ⭐ **[/u/KNightNox Diagram](https://i.imgur.com/ipBxg5p.jpg)** - Zoomable Exercise Diagram
-* ⭐ **[Drugs.com](https://www.drugs.com/)** or [DrugBank](https://go.drugbank.com/) - Drug Information & Side Effects
+* ⭐ **[Drugs.com](https://www.drugs.com/)** or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
 * [healthgrades](https://www.healthgrades.com/right-care/health-content-a-z), [epocrates](https://online.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
 * [osh](https://www.osh.net/) - Occupational Health and Safety Resources
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
@@ -1285,12 +1286,13 @@
 
 ## ▷ Firefox
 
-* [Firefox Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)
+* ⭐ **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/extensions/)**
+* ⭐ **[Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)** - Separate Firefox Sessions / [Guide](https://www.thechiefmeat.com/guides/containers.html)
+* ⭐ **[FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/)** - Multiple Tab Related Actions
+* ⭐ **[Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/)** - Search Selected Text / Multi Site Search
 * [PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - Install Progressive Web Apps
 * [keyconfig](https://addons.palemoon.org/addon/keyconfig/) - Firefox Key Binds 
-* [Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - Search Selected Text / Multi Site Search
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - Multiple Link Related Actions 
-* [FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/) - Multiple Tab Related Actions
 * [Firefox Download Managers](https://addons.mozilla.org/en-US/firefox/search/?category=download-management&recommended=true&sort=recommended%2Cusers&type=extension) - Download Managers for Firefox
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager
 * [cliget](https://addons.mozilla.org/en-US/firefox/addon/cliget/) - Download Files from Command Line
@@ -1316,7 +1318,6 @@
 * [Profile Switcher](https://addons.mozilla.org/en-US/firefox/addon/profile-switcher/) - Profile Manager
 * [I still don't care about cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Block Cookie Consent Popups / Non-Avast Fork
 * [AutoCookieOptout](https://github.com/CodyMcCodington/AutoCookieOptout) - Auto Delete Cookies
-* [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) - Separate Cookies by Profile / [Guide](https://www.thechiefmeat.com/guides/containers.html) 
 * [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - Easily Switch User-Agent
 * [SoundFixer](https://github.com/myfreeweb/soundfixer) - Fixes Sites that are too Quiet
 * [Mute Sites By Default](https://addons.mozilla.org/en-US/firefox/addon/mute-sites-by-default/) - Mute All Sites by Default 
@@ -1337,7 +1338,7 @@
 
 ## ▷ Chrome
 
-* [Chrome Web Store](https://chrome.google.com/webstore/category/extensions?hl=en)
+* ⭐ **[Chrome Web Store](https://chrome.google.com/webstore/category/extensions?hl=en)**
 * [Crx4Chrome](https://www.crx4chrome.com/) - Alt Google App Store
 * [WebCRX](https://webcrx.io/) - Install Chrome CRX Files
 * [chrome-extensions](https://github.com/learn-anything/chrome-extensions) or [Chrome-Extension](https://github.com/harshita214/Chrome-Extension) - Chrome Extensions 
@@ -1435,7 +1436,6 @@
 * [Amerigo](https://apps.apple.com/us/app/amerigo-file-manager/id605569663) - File Download Manager
 * [Keyword Search](https://apps.apple.com/us/app/keyword-search/id1558453954?mt=12) - Keyword Search Bar
 * [PiPifier](https://apps.apple.com/us/app/pipifier/id1234771095) - Picture in Picture Mode
-* [Ka-Block!](https://apps.apple.com/us/app/ka-block/id1037173557), [BlockBear](https://apps.apple.com/ca/app/blockbear/id1023924541) or [Adblock Plus for iOS](https://gitlab.com/eyeo/adblockplus/adblock-plus-for-safari) - Adblocker
 * [Web Inspector](https://apps.apple.com/us/app/web-inspector/id1584825745) - Inspect Element Tools for Safari
 * [Safari Snippets](https://apps.apple.com/us/app/safari-snippets/id1126048257) - Insert Code into Safari
 
@@ -1457,11 +1457,13 @@
 * [Select All Checkboxes](https://greasyfork.org/en/scripts/22587) - Auto Check All Boxes
 * [Always Remember Me](https://openuserjs.org/scripts/Patabugen/Always_Remember_Me) - Always Tick "Remember Me" 
 * [Anti-Cookies Consent](https://greasyfork.org/en/scripts/432050-anti-cookies-consent) - Remove Cookie Consent Popups
+* [Direct Links Out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Remove "You are Leaving" Site Popups
 * [Sleek YouTube Downloader](https://greasyfork.org/en/scripts/438233) - Add Download Buttons to YouTube
 * [Google Cleaner](https://greasyfork.org/en/scripts/33313-google-cleaner) - Minimalist Google
 * [altsearch links](https://greasyfork.org/en/scripts/13542-altsearch-links) - Adds General Search Engines to Results
 * [DownloadAllContent](https://greasyfork.org/en/scripts/25068) - Download Content from Pages
 * [Microsoft Store Direct Download](https://greasyfork.org/en/scripts/394420-microsoft-store-direct-download) - Microsoft Store Direct Downloads
+* [Maximize Video](https://greasyfork.org/en/scripts/4870) - Maximize Playing Videos via Button
 * [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5) 
 * [4chan X](https://greasyfork.org/en/scripts/7750-4chan-x) - Imageboards Features / [Themes](https://github.com/KevinParnell/OneeChan) / [GitHub](https://github.com/ccd0/4chan-x) 
 * [Extra Flags for 4chan](https://gitlab.com/flagtism/Extra-Flags-for-4chan) - Add More Flags to 4chan
