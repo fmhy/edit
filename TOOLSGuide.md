@@ -282,7 +282,7 @@
 * ⭐ **[VideoHelp](https://www.videohelp.com/software)** - Video Software Archive 
 * ⭐ **[Video File Converters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_converters)** - Video Converters / Encoders 
 * ⭐ **[Video Encoding Guides](https://sometimes-archives-things.github.io/archived-things/)**, [2](https://encoding-guide.neocities.org/) - Learn how to Encode Videos
-* ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** - Learn how to Remux Videos
+* ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** or [fs927](https://rentry.org/fs927) - Learn how to Remux Videos
 * ⭐ **[Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders)** - Record your Screen
 * ⭐ **[Multi-Site Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)**
 * ⭐ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)**
@@ -1092,7 +1092,7 @@
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Telegram Link Shortener Bot 
 * [suri](https://github.com/jstayton/suri), [urlhum](https://urlhum.com/) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Deployed Link Shortener
 * [shrtcode](https://shrtco.de/tools/) or [cuttly](https://cutt.ly/) - Multiple URL Tools
-* [W.A.R. Links Checker Premium](http://usa.x10host.com/mybb/showthread.php?tid=88) - Checks If File Links are Alive or Not
+* [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - Checks If File Links are Alive or Not
 * [Open Bulk URL](https://openbulkurl.com/) or [OpenAllURLs](https://www.openallurls.com/) - URL Bulk Opener
 * [ListURLs](https://listurls.com/) - URL List Generator
 * [CheckServer](https://check-host.net/), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - Site Monitoring Tools
@@ -1197,11 +1197,11 @@
 
 ***
 
+* ⭐ **[Discord Servers & Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists)** - Discover Servers / Bots
 * ⭐ **[Discord3rdParties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)** - Discord Client Index
 * ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client
 * ⭐ **[BetterDiscord](http://betterdiscord.app/)** - Modifiable Discord Client / [GitHub](https://github.com/BetterDiscord/BetterDiscord) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)
 * [Velocity](https://velocity-discord.netlify.app/) - Discord Client Mod
-* [Discord Servers & Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists) - Discover Servers / Bots
 * [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - Discord Tools
 * [Client-Modding-Guide](https://github.com/saintwithataint/Client-Modding-Guide/blob/main/PimpMyClient.md) - Modify Your Discord Client
 * [ArmCord](https://github.com/ArmCord/ArmCord) - Lightweight Discord Client
@@ -1910,7 +1910,8 @@ Twitch Stream Tracker
 * [Netmaker](https://gravitl.com/netmaker) - Create Virtual Network
 * [NirLauncher](https://launcher.nirsoft.net/) - All Nirsoft Utilities in One App
 * [TopGrade](https://github.com/topgrade-rs/topgrade) - Package Manager Update Automation 
-* [Winget](https://github.com/microsoft/winget-cli), [Scoop The Installer](https://github.com/couleur-tweak-tips/the-installer) or [bget](https://github.com/jahwi/bget) - Windows Package Manager / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/), [3](https://winstall.app/), [4](https://github.com/martinet101/WingetUI) / [Tools](https://github.com/jdhitsolutions/WingetTools) 
+* [WinGet](https://github.com/microsoft/winget-cli), [WinInstall](https://winstall.app/), [Scoop The Installer](https://github.com/couleur-tweak-tips/the-installer) or [bget](https://github.com/jahwi/bget) - Windows Package Managers /
+WinGet Tools - [Tools](https://github.com/jdhitsolutions/WingetTools) / [Winget UI](https://github.com/martinet101/WingetUI) /  [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/)
 * [pacaptr](https://github.com/rami3l/pacaptr) - Pac-Man Package Manager Wrapper
 * [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI), [0Install](https://0install.net/) / [GitHub](https://github.com/0install/0install), [Patch My PC](https://patchmypc.com/home-updater) or [Ninite](https://ninite.com/) - Install / Update Multiple Programs at Once
 * [CouleursToolbox](https://github.com/couleurm/couleurstoolbox) - Installs Multiple Programs / Tweaks 
