@@ -1910,9 +1910,9 @@ Twitch Stream Tracker
 * [Netmaker](https://gravitl.com/netmaker) - Create Virtual Network
 * [NirLauncher](https://launcher.nirsoft.net/) - All Nirsoft Utilities in One App
 * [TopGrade](https://github.com/topgrade-rs/topgrade) - Package Manager Update Automation 
-* [Winget](https://github.com/microsoft/winget-cli), [Scoop The Installer](https://github.com/couleur-tweak-tips/the-installer) or [bget](https://github.com/jahwi/bget) - Windows Package Manager / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Tools](https://github.com/jdhitsolutions/WingetTools) 
+* [Winget](https://github.com/microsoft/winget-cli), [Scoop The Installer](https://github.com/couleur-tweak-tips/the-installer) or [bget](https://github.com/jahwi/bget) - Windows Package Manager / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/), [3](https://winstall.app/), [4](https://github.com/martinet101/WingetUI) / [Tools](https://github.com/jdhitsolutions/WingetTools) 
 * [pacaptr](https://github.com/rami3l/pacaptr) - Pac-Man Package Manager Wrapper
-* [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI), [0Install](https://0install.net/) / [GitHub](https://github.com/0install/0install) or [Ninite](https://ninite.com/) - Install / Update Multiple Programs at Once
+* [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI), [0Install](https://0install.net/) / [GitHub](https://github.com/0install/0install), [Patch My PC](https://patchmypc.com/home-updater) or [Ninite](https://ninite.com/) - Install / Update Multiple Programs at Once
 * [CouleursToolbox](https://github.com/couleurm/couleurstoolbox) - Installs Multiple Programs / Tweaks 
 * [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator 
 * [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
