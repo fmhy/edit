@@ -25,7 +25,7 @@
 * ⭐ **[Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/)** - [Discord](https://discord.gg/HP5sQ6c)
 * ⭐ **[ScOOter Repacks](https://scooter-repacks.site/)** - [Discord](https://discord.gg/BWKyN8SgvM)
 * ⭐ **[GoG Games](https://gog-games.com/)**
-* ⭐ **[VRPirates](https://t.me/vrpirates), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
+* ⭐ **[VRPirates](https://t.me/vrpirates)**, [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
 * ⭐ **[Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers)** - F2P Minecraft Clients / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_minecraft_tools) / [Beta Clients](https://betacraft.uk/) / [Bedrock / Java](https://redd.it/xj5w9m)
 * [DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "games" or "roms"
 * [F2P Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_f2p_games) - Free to Play Games
