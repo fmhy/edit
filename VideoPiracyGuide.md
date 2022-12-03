@@ -279,7 +279,6 @@
 * [commons.wikimedia](https://commons.wikimedia.org/wiki/Category:Videos) - Wiki Commons Video Files
 * [Einthusan](https://einthusan.tv/) - South Asian Film Archive
 * [IndianCine](https://indiancine.ma/) - Indian Film Archive
-* [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animated Film Archive
 * [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Film Archive
 * [JP-Films](https://jp-films.com/) - Japanese Movies / TV / English Subs
 * [TexasArchive](https://texasarchive.org/) - Texas Film Archive
@@ -349,6 +348,7 @@
 * ⭐ **[AniMixPlay](https://animixplay.to/)** - Sub / Dub / [Discord](https://discord.com/invite/zsFnwaMUjn), [2](https://discord.gg/FHZ5PPVvru)
 * ⭐ **[All Anime](https://allanime.site/)** - Sub / Dub
 * ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / [Downloader](https://github.com/charathmathew/animepahe_downloader), [2](https://github.com/ed-archer/animepahe-dlr), [3](https://github.com/notmarek/pyheanime), [4](https://github.com/KevCui/animepahe-dl)
+* ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
 * [AnimehHub](https://animehub.ac/) - Sub / Dub
 * [123Anime](https://123animes.ru/) - Sub / Dub
 * [AnimeLon](https://animelon.com/) - Sub / Learn Japanese
