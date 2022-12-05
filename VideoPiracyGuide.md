@@ -394,6 +394,7 @@
 * [ChiaAnime.cc](https://chia-anime.cc/) - Sub
 * [AnimeXin](https://animexin.xyz/) - Sub
 * [AnimeTV](https://animetv.cc/) - Sub / Dub
+* [Animension](https://animension.to/) - Sub / Dub
 * [6ani](https://6ani.me/) - Sub
 * [MyAnime](https://myanime.live/) - Chine Anime Sub
 * [UnliAnime](https://unlianime.to/) - Sub
