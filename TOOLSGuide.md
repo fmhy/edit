@@ -968,7 +968,7 @@
 * ⭐ **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)** - Search Video Torrent Sites
 * ⭐ **[Anime Torrent CSE]( https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)** - Search Anime Torrent Sites
 * ⭐ **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Search Audio Torrent Sites
-* ⭐ **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)**, [Bonneteer](https://bonneteer.herokuapp.com/) or [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) - Search Game Torrent Sites
+* ⭐ **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** or [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) - Search Game Torrent Sites
 * ⭐ **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)**,  [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu), [3](https://cse.google.com/cse?cx=e9657e69c76480cb8), [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [Rave Book Search](https://ravebooksearch.com/) - Search Reading Sites
 * ⭐ **[Audiobooks CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** - Search Audiobook Sites
 * ⭐ **[Comics CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Search Comic Sites
