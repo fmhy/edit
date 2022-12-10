@@ -299,6 +299,7 @@
 * [Grimoire Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_grimoires) - Grimoires
 * [Early Christian Writings](http://www.earlychristianwritings.com/index.html) - Christianity / Gnosticism
 * [HolyBooks](https://holybooks.com/) - Religious Texts 
+* [Sounding Spirit](https://library.soundingspirit.org/) - Religious Songbooks
 * [The Dead Sea Scrolls](https://www.deadseascrolls.org.il/) - Dead Sea Scrolls Archive
 * [DigiVatLib](https://digi.vatlib.it/) - Digital Vatican Library
 * [BibleGateway](https://www.biblegateway.com/) or [Bible.com](https://www.bible.com/) - Christian Bible
@@ -329,7 +330,6 @@
 * [Encyclopedia Of Hinduism](https://archive.org/details/ConstanceA.JonesJamesD.RyanEncyclopediaOfHinduism/) - Hinduism Encyclopedia
 * [Jainism Library of Jain Literature](http://www.atmadharma.com/index.html) - Sacred Texts / Religion / Multi Language
 * [Vedabase](https://vedabase.io/en/) - Bhaktivedanta Swami / Books / Transcripts / Letters 
-* [Sounding Spirit](https://library.soundingspirit.org/) - Religious Songbooks
 
 ***
 
