@@ -82,7 +82,7 @@
 * [CWA](https://www.cwaemu.com/) - Clone Wars Adventures Emulator / [Discord](https://discord.gg/a3Ugb9dzzv)
 * [NR2003](https://wildkustomcars.weebly.com/) - Modded Nascar 2003
 * [CsWarzOnE](https://www.cswarzone.com/) - Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)
-* [Minetest](https://www.minetest.net/) - F2P Minecraft Alternative
+* [Minetest](https://www.minetest.net/) - Open Source Minecraft Alternative
 * [Unciv](https://github.com/yairm210/Unciv) - Civ V Remake
 * [OpenTTD](https://www.openttd.org/) - Transport Tycoon Remake
 * [OpenNox](https://github.com/noxworld-dev/opennox) - Nox Revival Project
