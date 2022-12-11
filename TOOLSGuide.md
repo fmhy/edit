@@ -744,6 +744,7 @@
 * [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
 * [OONI](https://ooni.org/) - Test Site Blocking / Network Speed
 * [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) - OpenSSH Client / Server
+* [Tailscale](https://tailscale.com/) - Build your virtual network
 * [TCP Optimizer](https://www.speedguide.net/downloads.php/) - Network Optimizer
 * [NetLimiter](https://www.netlimiter.com/) or [Netbalancer](https://netbalancer.com/) - Internet Traffic Control / Monitor 
 * [Natlas](https://github.com/natlas/natlas) or [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) - Network Scanner 
