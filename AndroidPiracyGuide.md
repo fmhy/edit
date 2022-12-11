@@ -1221,6 +1221,8 @@
 * [TestFlight](https://testflight.apple.com/) - Test Beta Apps / [Links](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/)
 * [bfdecrypt](https://github.com/BishopFox/bfdecrypt) - Decrypt App Store Apps
 * [ExportIPA](https://gist.github.com/rileytestut/5b3ede1cfeaba47cea9e6c1c8c114e4e) - Export Running Apps as IPAs
+* [Iron](https://github.com/kabouzeid/Iron) - Workout tracker
+* [Asobi](https://github.com/bdashore3/Asobi) - Immersive Web Browser
 
 ***
 
@@ -1310,7 +1312,8 @@
 * [AnimeChicken](https://animechicken.app/)
 * [Tweaked Crunchyroll ++](http://www.iosemulatorspot.com/tweaked-crunchyroll/) - Tweaked Crunchyroll
 * [Katarogu](https://apoorvaaditya.github.io/katarogu/), [MyAnimeList Client](https://apps.apple.com/us/app/myanimelist-official/id1469330778) or [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - MyAnimeList Client
-* [Otraku](https://github.com/lotusgate/otraku) - AniList App
+* [Otraku](https://github.com/lotusgate/otraku) - Unofficial AniList App
+* [AniHyou](https://github.com/axiel7/AniHyou) - Unofficial Anilist App
 
 ***
 
