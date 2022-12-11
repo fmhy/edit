@@ -1312,7 +1312,8 @@
 * [AnimeChicken](https://animechicken.app/)
 * [Tweaked Crunchyroll ++](http://www.iosemulatorspot.com/tweaked-crunchyroll/) - Tweaked Crunchyroll
 * [Katarogu](https://apoorvaaditya.github.io/katarogu/), [MyAnimeList Client](https://apps.apple.com/us/app/myanimelist-official/id1469330778) or [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - MyAnimeList Client
-* [Otraku](https://github.com/lotusgate/otraku) - AniList App
+* [Otraku](https://github.com/lotusgate/otraku) - Unofficial AniList App
+* [AniHyou](https://github.com/axiel7/AniHyou) - Unofficial Anilist App
 
 ***
 
