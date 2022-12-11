@@ -1096,6 +1096,7 @@
 * [Fantastical](https://apps.apple.com/app/fantastical-2-for-iphone/id718043190?ls=1) - Calendar & Tasks App
 * [NoMoreSmallApps](https://www.sparkdev.me/package/com.spark.nomoresmallapps) - Force App Full Screen / [Discord](https://discord.com/invite/tvvJfbD)
 * [InsightBrowser](https://insightbrowser.com/) - Browser
+* [Asobi](https://github.com/bdashore3/Asobi) - Browser
 * [Kagi](https://apps.apple.com/us/app/kagi/id1484498200) or [Orion](https://testflight.apple.com/join/DeC8ZDnu) - Browser w/ Firefox & Chrome Extension Support
 * [iRetro](https://apps.apple.com/us/app/iretro-the-internet-browser/id1015692776) - Browser w/ Wayback Machine
 * [Lights Off](https://testflight.apple.com/join/pj7BWqeJ) - iOS Safari Dark Mode
@@ -1221,8 +1222,6 @@
 * [TestFlight](https://testflight.apple.com/) - Test Beta Apps / [Links](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/)
 * [bfdecrypt](https://github.com/BishopFox/bfdecrypt) - Decrypt App Store Apps
 * [ExportIPA](https://gist.github.com/rileytestut/5b3ede1cfeaba47cea9e6c1c8c114e4e) - Export Running Apps as IPAs
-* [Iron](https://github.com/kabouzeid/Iron) - Workout tracker
-* [Asobi](https://github.com/bdashore3/Asobi) - Immersive Web Browser
 
 ***
 
@@ -1312,8 +1311,7 @@
 * [AnimeChicken](https://animechicken.app/)
 * [Tweaked Crunchyroll ++](http://www.iosemulatorspot.com/tweaked-crunchyroll/) - Tweaked Crunchyroll
 * [Katarogu](https://apoorvaaditya.github.io/katarogu/), [MyAnimeList Client](https://apps.apple.com/us/app/myanimelist-official/id1469330778) or [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - MyAnimeList Client
-* [Otraku](https://github.com/lotusgate/otraku) - Unofficial AniList App
-* [AniHyou](https://github.com/axiel7/AniHyou) - Unofficial Anilist App
+* [Otraku](https://github.com/lotusgate/otraku) or [AniHyou](https://github.com/axiel7/AniHyou) - AniList Apps
 
 ***
 
