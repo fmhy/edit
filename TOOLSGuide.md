@@ -1515,7 +1515,7 @@
 * [Stream Scheme](https://www.streamscheme.com/) - Livestreaming Guides / Resources
 * [Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f) - Twitch Extension Index
 * [Trovo](https://trovo.live/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
-* [TwitchLeecher](https://github.com/Franiac/TwitchLeecher), [twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl), [ClipsGameLab](https://clipsgamelab.github.io/), [Twiclips](https://twiclips.com/) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) - Download Twitch Videos / Clips
+* [twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl), [ClipsGameLab](https://clipsgamelab.github.io/), [Twiclips](https://twiclips.com/) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) - Download Twitch Videos / Clips
 * [TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - Recover, View & Download Twitch Videos
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - Lightweight Twitch Webplayer
 * [Twitchls](https://twitchls.com/) - HTML5 Twitch Stream Player
