@@ -2491,7 +2491,6 @@ Add the following commands to a search to manually scrape each site.
 **Spotify Adblockers**
 
 * ⭐ **[SpotX](https://github.com/amd64fox/SpotX)**
-* [BlockTheSpot](https://github.com/mrpond/BlockTheSpot)
 * [spotify-ad-blocker-ezblocker](https://www.ericzhang.me/projects/spotify-ad-blocker-ezblocker/)
 * [Unspotify](https://git.tcp.direct/dg/Unspotify)
 * [BurntSushi](https://github.com/OpenByteDev/burnt-sushi)
