@@ -950,10 +950,10 @@ Automated Incident Response and Forensics Framework
 * [Nightly.link](https://nightly.link/) - GitHub Sharable Nightly Links
 * [Sourcegraph](https://about.sourcegraph.com/) - GitHub Repository Sourcegraph Editor 
 * [onefetch](https://github.com/o2sh/onefetch) - Git Information Terminal
-* [shot-scraper-template](https://github.com/simonw/shot-scraper-template) -  Take Automated Screenshots of Web Pages
+* [shot-scraper-template](https://github.com/simonw/shot-scraper-template) - Take Automated Screenshots of Web Pages
 * [PR Monitor](https://github.com/fwouts/prmonitor)or [advanced-github-notifier](https://github.com/freaktechnik/advanced-github-notifier) - Pull Request Notifier  
 * [Gidget](https://github.com/GDGVIT/gidget) - Pull Request Notifier / Android
-* [Whats New GitHub](https://github.com/flawyte/whats-new-github) - Repository Change Feed 
+* [Whats New GitHub](https://github.com/flawyte/whats-new-github) or [GithubReleasesBot](https://telegram.me/GithubReleasesBot) - Repository Change Feeds 
 * [Conventional Commits](https://www.conventionalcommits.org/) - Commit Message Specification
 * [Git Cliff](https://github.com/orhun/git-cliff) - Changelog Generator
 * [GitHub Markdown Preview](http://aviaryan.in/javascripts/github.md/) - Preview Markdown
