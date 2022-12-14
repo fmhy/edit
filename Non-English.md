@@ -262,6 +262,7 @@
 * [haodoo](http://haodoo.net/) - Books  
 * [Pilibook](https://www.pilibook.com/) - Books
 * [ixdzs](https://tw.m.ixdzs.com/) - Books
+* [CLibrary](https://clibrary.top/) - Books
 * [ZXCS](http://zxcs.me) - Books
 * [LoreFree](https://lorefree.com/) - Books
 * [zhongwen](http://zhongwen.com/gudian.htm) - Classic Literature
@@ -2080,6 +2081,7 @@
 * [v100v.net](https://www.v100v.net/) - Streaming / Movies
 * [Toroflix](https://freewatchhindimoviesonline.com/) - Streaming / Movies
 * [1jalshamoviez](https://www.1jalshamoviez.info/) - Download / Movies
+* [SadRip](https://sadrip.blogspot.com/) - Movies / TV
 * [Movies Counter](https://moviescounter.hair/) - Download / Movies
 * [FilmyGod](https://filmygod7.in/) - Movies / [Telegram](https://t.me/+TT_cQkr00BnhM2eA)
 * [CineVood](https://cinevood.homes/) - Download / Movies
