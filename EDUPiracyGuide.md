@@ -22,6 +22,7 @@
 * ⭐ **[Khan Academy](https://www.khanacademy.org/)** - Courses / [Downloader](https://github.com/rand-net/khan-dl)
 * ⭐ **[Git.ir](https://git.ir/)** - Courses
 * ⭐ **[PluralSight](https://visualstudio.microsoft.com/dev-essentials/)** - Free for 1 Month / [Decrypter](https://github.com/dhorseman1710/Decrypt-PluralSight-GUI)
+* ⭐ **[Limnology](https://limnology.co/)** - Educational YouTube Channel Index
 * [Awesome CS](https://github.com/prakhar1989/awesome-courses/) - Courses
 * [OpenLearn](https://www.open.edu/openlearn/) - Courses
 * [Alison](https://alison.com/) - Courses
@@ -599,6 +600,7 @@ Simulator
 * [TheMoeWay](https://learnjapanese.moe/) / [Discord](https://discord.gg/nhqjydaR8j), [Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/), [NativShark](https://www.nativshark.com/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
+* [LearnNatively](https://learnnatively.com/) - Learn Japanese with Books
 * [Memento](https://github.com/ripose-jp/Memento) - Japanese Learning Video Player
 * [JapaneseWithAnime](https://www.japanesewithanime.com/) - Learn Japanese with Anime
 * [BilingualManga](https://bilingualmanga.net/) - Learn Japanese with Manga
