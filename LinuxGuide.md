@@ -426,7 +426,7 @@
 * [Taskpaper](https://www.taskpaper.com/) - To-Do Apps
 * [Stroke](https://stroke.lllllllllllllllll.com/) - Text (You Can't Delete) Editor
 * [BibDesk](https://bibdesk.sourceforge.io/) - Bibliography Manager
-* [ElectronMail](https://github.com/vladimiry/ElectronMail) or [Spark](https://sparkmailapp.com/) - Email Clients
+* [ElectronMail](https://github.com/vladimiry/ElectronMail), [MimeStream](https://mimestream.com/) or [Spark](https://sparkmailapp.com/) - Email Clients
 * [Microsoft Mac Downloads](https://macadmins.software/) or [Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Office Suites
 * [Winfield](http://www.winfield.demon.nl/) - MS Word for Linux / OS X 
 * [kbdlight](https://github.com/WhyNotHugo/kbdlight) - Change MacBook Keyboard Backlight Level
