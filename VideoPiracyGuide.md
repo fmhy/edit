@@ -39,6 +39,7 @@
 * [Gophie](https://gophie.cam/) - Movies / TV
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - Movies / TV / Anime
 * [Mov.onl](https://www.mov.onl/) - Movies / TV
+* [Watch A Movie](https://watcha.movie/) - Movies / TV / [Discord](https://discord.gg/PvAg9Rc7kQ)
 * [Archive](https://archive.org/) - Movies / TV
 * [Plex](https://watch.plex.tv/) - Movies / TV
 * [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / Library Card Required
