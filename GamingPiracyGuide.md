@@ -79,6 +79,7 @@
 * [VGPErson](https://vgperson.com/games/) - Japanese Translated Freeware Games
 * [Steam Deck Backups](https://t.me/+0T6LcMGCdApkZTg0) - Steam Deck Games
 * [JustEmuTarkov](https://justemutarkov.eu/) - Escape from Tarkov Emulator
+* [MoriyaShrine](https://moriyashrine.org/) - Touhou Games
 * [CWA](https://www.cwaemu.com/) - Clone Wars Adventures Emulator / [Discord](https://discord.gg/a3Ugb9dzzv)
 * [NR2003](https://wildkustomcars.weebly.com/) - Modded Nascar 2003
 * [CsWarzOnE](https://www.cswarzone.com/) - Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)
