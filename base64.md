@@ -1227,12 +1227,6 @@ pass: paluch
 
 ***
 
-#### IT Courses
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9yOUUwV0RTSyNnbFBtTjFnNzVWUWlqOEtnR1hzLUhB`
-
-***
-
 #### Modern Python 3 Bootcamp Courses
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci96ZkpReUxyVCN1dkdBYVNiN0JzNWJnZ3pYWFdxb3NR`
