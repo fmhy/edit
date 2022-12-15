@@ -723,6 +723,7 @@
 * [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime
 * [O2TVSeriesz](https://o2tvseriesz.com/) - Movies / TV
 * [Privatemoviez](https://privatemoviez.buzz/) - Movies / TV
+* [Nollyverse](https://www.nollyverse.com/) - Movies / TV
 * [SkyMoviesHD](https://skymovieshd.news/category/Hollywood-English-Movies.html) - Movies
 * [HDFriday](https://hdfriday.com/category/download-hollywood-movies/) - Movies
 * [MegaUploadAgora](https://www.megauploadagora.com.br/) - Movies / TV 
