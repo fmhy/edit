@@ -30,7 +30,7 @@
 * [DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "games" or "roms"
 * [F2P Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_f2p_games) - Free to Play Games
 * [Scene Release Trackers](https://www.reddit.com/rFREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers) - Get Scene Release Updates
-* [NexusGames](https://nexus-games.net/) - [Discord](https://discord.gg/8YXGgy4DJj)
+* [Nexus-Games](https://nexus-games.net/) - [Discord](https://discord.gg/8YXGgy4DJj)
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.me/) - [Discord](https://discord.gg/693hNBdymb)
 * [CPG](https://cpgrepacks.site/) - [Discord](https://discord.gg/dtBSZ9N)
 * [KaOsKrew](https://www.kaoskrew.org/)
