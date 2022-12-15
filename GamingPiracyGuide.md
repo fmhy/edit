@@ -96,7 +96,7 @@
 * [StepMania](https://www.stepmania.com/), [Project OutFox](https://projectoutfox.com/) or [NotITG](https://www.noti.tg/) - DDR Clones
 * [StepPrime](https://stepprimeofficial.blogspot.com/) - Pump It Up Clone
 * [Malody](https://m.mugzone.net/) - Rhythm Game
-* [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki) / [IIDX Installation Guide on PC](https://docs.google.com/document/d/1SFfRb9nQK-riCdKChFprocVr97TqUxYra63wSK2fplo/edit?usp=drivesdk)
+* [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki) / [IIDX Install Guide](https://docs.google.com/document/d/1SFfRb9nQK-riCdKChFprocVr97TqUxYra63wSK2fplo/edit?usp=drivesdk)
 * [Unnamed SDVX clone](https://github.com/Drewol/unnamed-sdvx-clone) - Sound Voltex Clone
 * [OpenTaiko](https://github.com/0auBSQ/OpenTaiko) - Taiko no Tatsujin Clone / [Taiko Simulator Guide](https://tjadataba.se/)
 * [Etterna](https://etternaonline.com/), [Quaver](https://quavergame.com/), [O2Mania](https://o2mania.info/) - O2Jam Clones / [Online Maps](http://www.flashflashrevolution.com/), [2](https://www.roblox.com/games/4841678118)
