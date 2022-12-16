@@ -28,7 +28,7 @@
 * [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - Block Spam Calls
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls 
 * [Should I Call Back?](https://should-i-call-back.binary-person.dev/) or [Scammer.Info](https://scammer.info/) / [Discord](https://discord.com/invite/nUThJjK) - Scam Numbers Database
-* [Slide](https://github.com/ccrama/Slide) / [2](https://f-droid.org/en/packages/me.ccrama.redditslide/), [Redditoria](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria), [RedReader](https://github.com/QuantumBadger/RedReader), [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit) / [2](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/), [Redited](https://github.com/Blatzar/Redited), [Boost](https://boostforreddit.com/) or [Stealth](https://f-droid.org/packages/com.cosmos.unreddit/) / [2](https://gitlab.com/cosmosapps/stealth) - Ad Free Reddit Clients
+* [Slide](https://github.com/ccrama/Slide) / [2](https://f-droid.org/en/packages/me.ccrama.redditslide/), [Redditoria](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria), [RIF](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rif), [RedReader](https://github.com/QuantumBadger/RedReader), [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit) / [2](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/), [Redited](https://github.com/Blatzar/Redited), [Boost](https://boostforreddit.com/) or [Stealth](https://f-droid.org/packages/com.cosmos.unreddit/) / [2](https://gitlab.com/cosmosapps/stealth) - Ad Free Reddit Clients
 * [Xtra](https://github.com/crackededed/Xtra), [TwitchMod](https://t.me/pubTw) or [Twire](https://f-droid.org/packages/com.perflyst.twire/) - Ad Free Twitch App
 * [Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) - Remove Sponsored Telegram Messages
 
@@ -205,7 +205,7 @@
 * [PotatoNV](https://github.com/mashed-potatoes/PotatoNV) - Huawei Device Bootloader
 * [Amazing Temp Root](https://forum.xda-developers.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - MediaTek Temp Root
 * [Smali Patcher](https://forum.xda-developers.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
-* [Play Integrity API Checker](https://play.google.com/store/apps/details?id=gr.nikolasspyr.integritycheck) or [Auditor](https://play.google.com/store/apps/details?id=app.attestation.auditor) - Device Integrity Checker
+* [Play Integrity API Checker](https://play.google.com/store/apps/details?id=gr.nikolasspyr.integritycheck) - Device Integrity Checker
 * [DarQ](https://github.com/KieronQuinn/DarQ), [Dark Mode](https://play.google.com/store/apps/details?id=com.dotdat.darkmodeapp) or [Darkmode Guide](https://pastebin.com/cvast4uN) - Universal Dark Mode
 * [Raise To Answer](https://play.google.com/store/apps/details?id=me.hackerchick.raisetoanswer) - Answer Phone by Raising to Ear
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - Android Cleanup Tool
@@ -220,7 +220,7 @@
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - Ringtones Directory
 * [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3), [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Managers
 * [Substratum Tweaks](https://github.com/luisbocanegra/substratum-tweaks) - System Theme
-* [Candybar](https://github.com/zixpo/candybar) or [Iconify](https://github.com/Mahmud0808/Iconify) - Custom App Icons
+* [Candybar](https://github.com/zixpo/candybar) - Custom App Icons
 * [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons) - App Themed Icons
 * [Arcticons](https://arcticons.onnno.nl/) - Monotone Icon Pack
 * [TxtNet Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - Browse Webpages via SMS
@@ -633,7 +633,6 @@
 * [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
 * [APKGrey](https://apkgrey.com/) - Modded Games
 * [AppValley](https://app.app-valley.vip/) - Modded / Tweaked
-* [djjubeemedia](https://www.djjubeemedia.appboxes.co/Apks/) - Modded Index 
 * [PlatinMods](https://platinmods.com/) - Modded / Private Game Servers 
 * [Streamiza](https://t.me/streamiza) - Modded / Telegram / [Discord](https://linktr.ee/Streamiza)
 * [MODZILLA](https://t.me/Modzilla) - Modded / Telegram / [Bot](https://t.me/ModzillaAPKBot)
@@ -687,7 +686,6 @@
 * [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - CLI APK Download Tool
 * [Blackmod](https://blackmod.net/) - Modded Game APKs
 * [How-To Play Free Android Cloud Games](https://rentry.co/66cc9)
-* [KPFireTV](https://www.kpfiretv.com/) - Amazon Fire APKs
 * [Android Auto Apps Downloader](https://github.com/shmykelsa/aaad) - Android Vehicle Apps
 * [PalmDB](https://palmdb.net/) - Palm OS Apps / [Discord](https://discord.gg/YddKPpR)
 * [Maemo5](http://maemo.org/downloads/list/Maemo5/all/) - Maemo OS Apps
@@ -804,7 +802,7 @@
 * [VK X](https://vkx.app/) - Streaming
 * [BlackPlayer](https://rexdl.com/android/blackplayer-ex-apk.html/) - Streaming
 * [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming
-* [AudioTube](https://play.google.com/store/apps/details?id=tech.apps.music), [2](https://invent.kde.org/plasma-mobile/audiotube) - YouTube Audio Player / [GitHub](https://jbbgameich.github.io/kde/2021/03/13/audiotube.html)
+* [AudioTube](https://invent.kde.org/plasma-mobile/audiotube) - YouTube Audio Player / [GitHub](https://jbbgameich.github.io/kde/2021/03/13/audiotube.html)
 * [Cliggo](https://play.google.com/store/apps/details?id=com.cliggo.cliggo_music) - Streaming / Downloading
 * [Otter](https://github.com/apognu/otter) or [humit](https://www.humit.app/) - Music Sharing App
 * [HZP](https://hzplayer.com/) - Solfeggio Frequency Player
@@ -894,9 +892,7 @@
 * WiWiCenter - [Movies / TV](https://cinema.wiwicenter.com/) / [Anime](https://anime.wiwicenter.com/) - Use Adblocker
 * [Upflix](https://www.upflix.net/) - Movies / TV
 * [MOTV](http://motv.top/) - Movies / TV / Chromecast
-* [ROTV](https://rotv.xyz/) - Movies / TV
 * [CinemaHD](https://cinemahdapkapp.com/v2-apkd4/) - Movies / TV
-* [CyroseHD](https://cyrosehd.com/) - Movies / TV
 * [Movies Cave](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_movies_cave_app) - Movies / TV
 * [Tuner Radio](https://www.downloader.world/) - Movies / TV
 * [Syncler](https://syncler.net/) - Movies / TV / [How-To](https://pastebin.com/VsiKV9rm)
