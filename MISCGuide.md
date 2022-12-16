@@ -310,7 +310,6 @@
 * [LooksLikeYouNeedIceland](https://www.visiticeland.com/) or [JUST SCREAM!](https://justscream.baby/) - Scream Into the Universe 
 * [VentScape](https://www.ventscape.life/) - Speak into a Void
 * [The Nicest Place](https://thenicestplace.net/) - Internet Hugs
-* [Dazzle](https://workingbuild.herokuapp.com/) - Virtual Chat, Video & Drawing World
 * [Doodle Place](https://doodle-place.glitch.me/) - Virtual Drawing World
 * [Omegle](https://www.omegle.com/) or [Chatiw](https://www.chatiw.me/) - Random Chat Rooms
 * [ASCII Roulette](https://github.com/dialup-inc/ascii) - Random ASCII Chat Rooms
@@ -394,7 +393,6 @@
 * [Translation Party](https://www.translationparty.com/) - Translation Parties
 * [The Editing Room](https://www.the-editing-room.com/) - Funny abridged movie scripts
 * [Smash The Walls](https://smashthewalls.com/) - Smash Walls
-* [Spider 2 Hammertime](http://oos.moxiecode.com/js_webgl/spiders_2_hammertime/) - Murder Spiders
 * [DuckDuckRoll](http://duckduckroll.ml/) - Spinning Duck
 * [Slap Kirk](https://www.slapkirk.com/) - Slap Captain Kirk
 * [Slap Chris](https://slapchris.com/) - Slap Chris Rock
@@ -425,7 +423,6 @@
 * [Useless Certifications](https://uselesscertifications.com/) - Useless Certifications
 * [You're Getting Old](http://you.regettingold.com/) - Age Perspective 
 * [OnThisDay](https://www.onthisday.com/) - What Happened on Specific Days
-* [openScope](https://www.openscope.co/) - Air Traffic Control Simulator 
 * [Game a-b-street](https://github.com/a-b-street/abstreet) - Traffic Simulation
 * [Quarter Maester](https://quartermaester.info/) - Interactive Game of Thrones Map 
 * [Park My Spaceship](https://parkmyspaceship.com/) - Park Spaceships on Map 
@@ -577,7 +574,6 @@
 * [Cursor Car](https://papercookies.itch.io/cursor-car) - Play with Car Cursor 
 * [Just a Minute](https://jinay.dev/just-a-minute/) - Estimate a Minute
 * [Checkboxes](http://www.jezzamon.com/checkboxes/index.html) - Check Boxes
-* [The Owen Wilson Wow API](https://owen-wilson-wow-api.herokuapp.com/) - Owen Wilsons "wow" API
 * [The Nut Button](https://apps.apple.com/gb/app/the-official-nut-button-meme/id1462124556) - You press the Button, it says Nut
 * [Make-A-Wish Foundation](https://discord.gg/pZZ3STQZ9Y) - 100% Real Make-A-Wish
 * [ChrisMckenzie](https://chrismckenzie.com/) - :D D:
@@ -646,7 +642,7 @@
 * [Riot Archive](https://riotarchive.com/) - Riot / Protest Videos
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
 * [Liliputing](https://liliputing.com/) - Linux Mobile News
-* [BestHackerNews](http://besthackernews.herokuapp.com/), [hckrnws](https://www.hckrnws.com/) or [YCombinator](https://news.ycombinator.com/) / [Mobile](https://hackerwebapp.com/) - Hacker News
+* [hckrnws](https://www.hckrnws.com/) or [YCombinator](https://news.ycombinator.com/) / [Mobile](https://hackerwebapp.com/) - Hacker News
 * [Latest Privacy](https://latestprivacy.org/), [Talos Blog](https://blog.talosintelligence.com/), [IT Security Guru](https://www.itsecurityguru.org/), [ThreatPost](https://threatpost.com/), [Calyx](https://calyxinstitute.org/), [Privacy International](https://www.privacyinternational.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - Privacy / Security News
 * [Netblocks](https://netblocks.org/) - Censorship News
 * [CBM](https://comicbookmovie.com/) - Comic, Movie & TV News
@@ -741,7 +737,6 @@
 * [Food.com](https://www.food.com/recipe) - Recipes
 * [BBC Good Food](https://www.bbcgoodfood.com/recipes) - Recipes
 * [Food Network Recipes](https://www.foodnetwork.com/recipes) - Recipes
-* [1337-Noms-The-Hacker-Cookbook](https://hacker-cookbook.herokuapp.com/) - Recipes 
 * [CookBook](https://github.com/jlinder/cookbook) - Recipes 
 * [Wikibook Cookbooks](https://en.wikibooks.org/wiki/Category:Cookbook) - Recipes
 * [Culinary](http://www.culinary.net/) - Recipes
@@ -1028,7 +1023,7 @@
 * [Runmap](http://www.runmap.net/) - Running Routes
 * [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sound Map
 * [Notable People](https://tjukanovt.github.io/notable-people) or [People Map](https://pudding.cool/2019/05/people-map/) - Notable People Maps
-* [NUKEMAP](https://nuclearsecrecy.com/nukemap/), [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) or [AsteroidCollision](https://asteroidcollision.herokuapp.com/) - Interactive Damage Effect Maps
+* [NUKEMAP](https://nuclearsecrecy.com/nukemap/) or [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Interactive Damage Effect Maps
 * [convert_lat_long](https://andrew.hedges.name/experiments/convert_lat_long/) - Convert Latitude/Longitude to Decimal 
 * [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - Dialect Map
 * [What3Words](https://what3words.com/) - 3 Word Address'
@@ -1095,6 +1090,16 @@
 * [Beautiful Web Type](https://beautifulwebtype.com/)
 * [fontfabric](https://www.fontfabric.com/free-fonts/)
 * [HighFonts](https://highfonts.com/category/free/)
+* [FontsGeek](https://fontsgeek.com/)
+* [FreeFontsDownload](https://freefontsdownload.net/)
+* [CopyFonts](https://copyfonts.com/)
+* [FontPark](https://fontpark.com/)
+* [FFonts](https://www.ffonts.net/)
+* [Fontke](https://eng.fontke.com/font/)
+* [FontRepo](https://www.fontrepo.com/)
+* [Fontlot](https://fontlot.com/)
+* [FreeBestFonts](https://www.freebestfonts.com/)
+* [FontsMarket](https://www.fontsmarket.com/)
 * [Fonts4Free](https://www.fonts4free.net/)
 * [paid fonts for free](https://t.me/squaxfonts)
 * [Mr.E-Fonts](https://archive.org/details/Mr.E-Fonts)
@@ -1113,7 +1118,6 @@
 * [enFont](https://enfont.javierarce.com/) or [Fontstruct](https://fontstruct.com/) - Custom Font Creators
 * [Phase](https://www.eliashanzer.com/phase/) - Variable Fonts Generator
 * [V-Fonts](https://v-fonts.com/) - Variable Fonts Tester
-* [Get Font](https://getfont.herokuapp.com/) - Find Font in Github 
 * [Fontjoy](https://experiments.withgoogle.com/fontjoy) - Generate Font Combinations
 * [FontSprite](https://adamstrange.itch.io/fontsprite) - FonstSprite Editor
 * [Textcraft](https://textcraft.net/) or [TextDrom](https://en.textdrom.com/) - Styled Font Generator
@@ -1420,7 +1424,6 @@
 * [Pip](https://www.getpip.com/pip-extension) - Web3 Payment Extension
 * [Fake Profile Detector](https://chrome.google.com/webstore/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc) - Detect Fake Online Profiles
 * [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - View Extension Source Code 
-* [Google Meet Virtual Backgrounds](https://chrome.google.com/webstore/detail/virtual-backgrounds-for-g/edkljafinkpeoglndilllgfnailhkocn) - Google Meet Backgrounds
 * [NicoNico SPEENYA](https://github.com/chimerast/niconico-speenya) - Presentation Style Comments
 * [Current Moon Phase](https://chrome.google.com/webstore/detail/current-moon-phase/ippnbhhbamibfpljlfmgogaondodicgi) - Current Moon Phases
 * [Nicosapo](https://github.com/yurafuca/nicosapo) - Add Features to Nico Nico
