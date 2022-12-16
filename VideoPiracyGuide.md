@@ -380,7 +380,6 @@
 * [Hime.to](https://hime.to/) - Sub / Dub
 * [Animeplyx](https://animeplyx.eu/) - Sub
 * [123Anime.to](https://123anime.to/) - Sub / Dub / [Discord](https://discord.gg/z2BSpXheN9)
-* [Simple Anime](http://simple-anime.herokuapp.com/) - Sub / [Discord](https://discord.com/invite/Fg6YDAGmVK)
 * [KimAnime](https://kimanime.com/) - Sub / Dub / [Discord](https://discord.com/invite/JdmpSF92N4)
 * [AnimeTribes](https://animetribes.ru/) - Sub 
 * [5Anime](https://5anime.net/) - Sub / Dub
@@ -942,7 +941,7 @@
 * ⭐ **[TasteDive](https://tastedive.com/)** - Recommendations 
 * ⭐ **[FlixMetrix](https://flickmetrix.com/)** - Combines IMDb, Rotten Tomatoes & Letterbox ratings
 * ⭐ **[Letterboxd](https://letterboxd.com/)** - Movies 
-* ⭐ **Letterboxd Tools** - [Multi Tool](http://www.letterboxd.tools/) / [Shortcuts](https://github.com/alandours/letterboxd-shortcuts) / [Recommendations](https://letterboxd-recommendations.herokuapp.com/) / [Watchlist Picker](https://watchlistpicker.com/) / [Collections](https://mrdys.github.io/letterboxd-completionist/)
+* ⭐ **Letterboxd Tools** - [Multi Tool](http://www.letterboxd.tools/) / [Shortcuts](https://github.com/alandours/letterboxd-shortcuts) / [Watchlist Picker](https://watchlistpicker.com/) / [Collections](https://mrdys.github.io/letterboxd-completionist/)
 * ⭐ **[Trakt](https://trakt.tv/)** - TV / Anime / Movies / [Apps](https://trakt.tv/apps) / [Duplicate Remover](https://huere.net/trakt/duplicate_removal/)
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Anime 
 * ⭐ **MAL Tools** - [Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/)
