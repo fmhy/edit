@@ -41,7 +41,6 @@
 * [Le Fishe Repacks](https://discord.gg/W3MfGDXhAS)
 * [ElAmigos](https://elamigos.site/)
 * [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
-* [-tARA Repacks](https://t4x4.github.io/)
 * [GLoad](https://gload.to/)
 * [SEHS Games](https://www.sehsgames.com/)
 * [Leeching Hell](http://leechinghell.pw/)
@@ -181,7 +180,6 @@
 * [Emulator Games](https://www.emulatorgames.net/) - Emulators / ROMs
 * [ROMs Download](https://ROMs-download.com/) - Emulators / ROMs 
 * [ROMsGet](https://www.ROMsget.io/) - Emulators / ROMs
-* [EasyROMs](https://easyROMs.com/) - Emulators / ROMs 
 * [ROMsPURE](https://ROMspure.cc/) - Emulators / ROMs
 * [Romspedia](https://www.romspedia.com/) - Emulators / ROMs
 * [ROMs Games](https://ROMsgames.net/) - Emulators / ROMs
@@ -435,7 +433,6 @@
 * [Play Snake](https://playsnake.org/) - Retro Snake 
 * [Google Maps Snake](https://snake.googlemaps.com/) - Google Snake
 * [Snake-Game](https://www.onemotion.com/snake-game/) - 3D Snake
-* [SnakeGen](https://projects.victormeunier.com/snakegen/index.html) - Snake Game Generator
 * [QuineSnake](https://github.com/taylorconor/quinesnake) - Quine Source Snake
 * [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
 * [ProAsm](http://www.proasm.com/) - Retro Game Mods
@@ -592,7 +589,6 @@
 * [Find the Invisible Cow](http://www.findtheinvisiblecow.com/) - Find an Invisible Cow with Sound
 * [Alternate History Simulator](http://abw.blue/) - Write Alternate History 
 * [NationStates](https://www.nationstates.net/) - Nation Simulation Game 
-* [Football War Room](http://www.footballwarroom.com/) - Football Ownership Simulator
 * [CandyBox](https://candybox2.github.io/) - Candy Eating Game 
 * [BTShip](https://github.com/hairarrow/btship) - Typescript Boat Game
 * [asciicker](https://asciicker.com/) - ASCII Browser Adventure
@@ -694,7 +690,7 @@
 * [BestCrosswords](https://www.bestcrosswords.com/), [USAToday](https://games.usatoday.com/games/uclick-crossword), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
 * [KillerCrossword](https://killercrossword.com/) - No Clue Crosswords
-* [LikeWordle](https://likewordle.com/), [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/), [Wordle Unlimited](https://wordleunlimited.org/), [Huedle](https://huedle.com/), [Chessle](https://jackli.gg/chessle), [BoxOfficeGA](https://boxofficega.me/), [Wordversary](https://wordversary.com/), [Wordle.nyc](https://wordle.nyc/), [Clidle](https://github.com/ajeetdsouza/clidle), [WordleGame](https://wordlegame.org/), [Squaredle](https://squaredle.app/), [Py-DLE](https://py-dle.herokuapp.com/), [Tweakdle](https://tweakdle.chariz.com/) or [Wordlevs](https://wordlevs.com/) - Wordle Games / [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
+* [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/), [Wordle Unlimited](https://wordleunlimited.org/), [Huedle](https://huedle.com/), [Chessle](https://jackli.gg/chessle), [BoxOfficeGA](https://boxofficega.me/), [Wordversary](https://wordversary.com/), [Wordle.nyc](https://wordle.nyc/), [Clidle](https://github.com/ajeetdsouza/clidle), [WordleGame](https://wordlegame.org/), [Squaredle](https://squaredle.app/), [Tweakdle](https://tweakdle.chariz.com/) or [Wordlevs](https://wordlevs.com/) - Wordle Games / [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
 * [eWordChallenge](https://www.ewordchallenge.net/) - Boggle
 * [ChessGuessr](https://www.chessguessr.com/) - Chess Style Wordle
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles & Quizzes
@@ -758,7 +754,6 @@
 * [DanceMusic](http://dancemusic.wtf/) - Electronic Music Genre Guessing Game
 * [GuessTheGame](https://guessthe.game/) - Game Guessing Game
 * [LanguageGuesser](https://languageguesser.com/) - Guess Music Video Languages 
-* [Emoji Dingbats](https://emoji-dingbats.herokuapp.com/) - Emoji Dingbat Game
 * [The Higher Lower Game](http://www.higherlowergame.com/) or [GoogleFued](https://googlefeud.com/) - Guess What's Googled More
 * [Guess The Price](https://guesstheprice.net/) - Price Guessing Game
 * [Guess The Year](https://guess-the-year.davjhan.com/) - Year Guessing Game
