@@ -20,7 +20,6 @@
 * ⭐ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - Read / Download Programming Books
 * [GitHub Docs](https://docs.github.com/en) - GitHub Help Documentation
 * [Git Tutorial](https://4geeksacademy.github.io/git-interactive-tutorial/) - Interactive Git Tutorial
-* [Git Exercises](https://gitexercises.fracz.com/) - Git Learning / Practice
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - Git Learning Game
 * [Git-it](https://github.com/jlord/git-it-electron) - Git Desktop Learning App
 * [Github Cheat Sheet](http://git.io/sheet) / [GitHub](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
@@ -236,7 +235,6 @@
 * [Volume](https://www.volumestories.com/) - Create Immersive Reading Experiences
 * [daily.dev](https://daily.dev/) - Replace New Tab Page with Developer Articles
 * [Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites) - Download Icons for Projects
-* [The Favicon Finder](https://besticon.herokuapp.com/) - Find Favicons on Sites
 * [Favicon Maker](https://formito.com/tools/favicon), [Favicon Generator](https://www.favicon-generator.org/) or [react favicon](https://react-favicon.com/) - Create Favicons
 * [Laws of UX](https://lawsofux.com/) - Maxims / Principles for UI Designers
 * [Dark Patterns](https://www.darkpatterns.org/) - Deceptive User Experience Examples
@@ -356,7 +354,6 @@
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
 * [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
 * [GRC DNSBench](https://www.grc.com/dns/benchmark.htm) - DNS Benchmark
-* [dynamic.name](https://dynamic.name/) - Dynamic DNS
 * [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - HTTPS DoH Queries
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
 * [CSSMatic](https://www.cssmatic.com/) - CSS Web Design Tools
@@ -465,7 +462,6 @@
 * [Bootstrap](https://getbootstrap.com/) - Mobile Site Creator / [Icons](https://github.com/twbs/icons) / [Snippets](https://bootsnipp.com/)
 * [Extension.dev](https://extension.dev/) - Custom Site Browser Extensions
 * [Brython](https://brython.info/) - Python 3 Web Scripting Language
-* [Sketch2Code](https://sketch2code.azurewebsites.net/) - Convert Hand-Drawn Designs into HTML
 * [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Wave Guide](https://www.waveguide.io/), [ReallyGoodUX](https://www.reallygoodux.io/), [Pageflows](https://pageflows.com/) or [h69.design](https://www.h69.design/) - UI Design Ideas
 * [StoryBook](https://storybook.js.org/) - UI Development Tool
 * [BuiltWith](https://builtwith.com/) - Find Out What Sites are Built With
@@ -493,9 +489,8 @@
 * [Pattern Monster](https://pattern.monster/) - SVG Pattern Generator
 * [Broider](https://maxbittker.github.io/broider/) - Create Border Designs
 * [ShapeDivider](https://www.shapedivider.app/) or [blobbb](https://www.blobbb.fun/)- Make SVG Shape Divider
-* [Lorem.space](https://lorem.space/), [Placeem](https://placem.at/), [Placeholdifier](https://github.com/pomber/placeholdifier), [PlaceHolder](https://placeholder.pics/), [PicSum](https://picsum.photos/) or [FakeIMG](https://fakeimg.pl/) - Site Placeholder Images
+* [Lorem.space](https://lorem.space/), [Placeholdifier](https://github.com/pomber/placeholdifier), [PlaceHolder](https://placeholder.pics/), [PicSum](https://picsum.photos/) or [FakeIMG](https://fakeimg.pl/) - Site Placeholder Images
 * [MinimalAvatars](https://minimalavatars.com/) - Minimal Site Avatars
-* [JoeSchmoe](https://joeschmoe.io/) - Avatar Placeholders
 * [GalleryProject](http://galleryproject.org/) - Manage / Host Photos on Website 
 * [PublishThisEmail](https://www.publishthis.email/) - Email Based Website Builder
 * [PrivateDaddy](https://www.privatedaddy.com/) - Auto Hide Email Address'
@@ -529,7 +524,6 @@
 * [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)- Penetration Testing Resources
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
 * [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - Archive, Scrape & Crawl Sites 
-* [Clone Zone](http://clonezone.link/) - Tweak / Clone Webpages 
 * [Appwrite](https://appwrite.io/) - Open-Source Backend Server / [GitHub](https://github.com/appwrite/appwrite)
 * [squid](http://www.squid-cache.org/) - Caching Proxy / [MSI Installer](http://squid.diladele.com/) / [Site Blocking](http://www.thedumbterminal.co.uk/posts/2005/10/blocking_access_to_sites_when_using_squid.html) 
 * [What Is Googlebot](http://www.googlebot.com/bot.html) - How-to Block Googlebot
@@ -607,7 +601,7 @@ Automated Incident Response and Forensics Framework
 * [Vuejs Dev Tools](https://vuejs.org/) - Add Vue 3 Debugging to Browser 
 * [Vue vben admin](https://github.com/vbenjs/vue-vben-admin) - Vue Admin 
 * [Sight](https://github.com/tsenart/sight) - Syntax Highlighter for Chrome 
-* [Inyo](https://inyo.me/inyo-v2-customization-tools) or [mnm](https://mnmnotmail.org/) - Member Messaging Tools
+* [mnm](https://mnmnotmail.org/) - Member Messaging Tools
 * [Sprig](https://sprig.com/) - Product Research Platform
 * [Website Grader](https://website.grader.com/) - Website Grading Tool
 * [awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - Tunneling Software & Services
@@ -699,9 +693,6 @@ Automated Incident Response and Forensics Framework
 * [Percy](https://percy.io/) - Visual App Review Platform
 * [Booster](https://github.com/didi/booster) - Mobile App Optimization
 * [Mobbin](https://www.mobbin.design/) - Mobile App Design Reference Library
-* [Hmanager](https://play.google.com/store/apps/details?id=com.chsappz.hmanager) - Manage Your Heroku Accounts
-* [Heroku Duo](https://heroku.viperadnan.gq/duo) or [HerokuDynoSwitcher](https://github.com/tiararosebiezetta/HerokuDynoSwitcher) - Keep Heroku Apps Running
-* [Kaffeine](http://kaffeine.herokuapp.com/) - Heroku Auto Ping
 * [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS App Development Resources
 * [Xcode](https://developer.apple.com/xcode/) - Test and Build iOS / iPadOS Apps
 * [SpreadsheetView](https://github.com/bannzai/SpreadsheetView) - Spreadsheet UI for iOS Apps
@@ -775,7 +766,7 @@ Automated Incident Response and Forensics Framework
 * [Playerio](https://playerio.com/) - Online Game Engine
 * [RPG Playground](https://rpgplayground.com/) - Simple RPG Creator
 * [Game-Editor](http://game-editor.com/Main_Page), [microStudio](https://microstudio.itch.io/microstudio) or [BuildBox](http://buildbox.com/) - Game Creators
-* [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://pennie.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop) / [2](https://gdevelop.io/), [Bitsy](http://ledoux.io/bitsy/editor.html), [LIKO 12](https://github.com/LIKO-12/LIKO-12), [Script 8](https://script-8.github.io/), [GDPS](https://gdpseditor.com/), [Figma](https://alyssax.com/x/platformer/) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - 2D Game Creators
+* [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://pennie.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop) / [2](https://gdevelop.io/), [Bitsy](http://ledoux.io/bitsy/editor.html), [LIKO 12](https://github.com/LIKO-12/LIKO-12), [Script 8](https://script-8.github.io/), [GDPS](https://gdpseditor.com/) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - 2D Game Creators
 * [3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models) - 3D Models / Tools
 * [Unreal Engine](https://www.unrealengine.com/) - 3D Creation Tool / [Python](https://github.com/20tab/UnrealEnginePython) / [C#](https://gamefromscratch.com/getting-started-with-unrealclr/) / [3D Scans](https://quixel.com/megascans)
 * [Tommti Systems](http://www.tommti-systems.de/go.html?http://www.tommti-systems.de/main-Dateien/files.html) - 3D Benchmark Tools
@@ -923,6 +914,7 @@ Automated Incident Response and Forensics Framework
 * [Snipli](https://www.snipli.xyz/) - Convert Localfiles to Gist
 * [Git / Github Guide](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
 * [GitBook](https://www.gitbook.com/) - Document Collaboration
+* [dotfiles](https://dotfiles.github.io/) - GitHub Dotfiles
 * [Refined GitHub](https://github.com/sindresorhus/refined-github) - Simplifies GitHub Interface & Adds Features 
 * [Octobox](https://octobox.io/) or [Ghostly](https://ghostlyapp.net/) / [GitHub](https://github.com/patriksvensson/ghostly) - GitHub Notifications
 * [Allstar](https://github.com/ossf/allstar) - Git Repository Security App
