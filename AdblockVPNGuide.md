@@ -121,7 +121,6 @@
 * [Rewind](https://github.com/Neo23x0/Rewind) - Immediate Virus Infection Counter Measures
 * [Spybot](https://www.safer-networking.org/products/spybot-free-edition/) or [SUPERAntiSpyware](https://www.superantispyware.com/free-edition.html) - Anti-spyware
 * [VT4Browsers](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions) - Easily Scan Downloads
-* [Any Run](https://app.any.run/), [Malware Initial Assessment](https://www.winitor.com/), [Intezer Analyze](https://analyze.intezer.com/) or [Cuckoo](https://cuckoosandbox.org/) - Malware Analysis Tool 
 * [GetsUsp](https://www.mcafee.com/enterprise/en-us/downloads/free-tools/getsusp.html) or [Wise Anti-Malware](https://www.wisecleaner.com/wise-anti-malware.html) - Malware Detection
 * [Safety Scanner](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download), [Rkill](https://www.bleepingcomputer.com/download/rkill/) or [Power Eraser](https://support.norton.com/sp/static/external/tools/npe.html) - Malware Remover
 * [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) - Anti-Malware Stress Test
