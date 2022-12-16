@@ -1670,3 +1670,9 @@ pass: paluch
 #### Bangla Excel
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9OUWcyZ1JoVCNUdnV2XzRDVlpsRmJQbGNnY3d2dzRR`
+
+***
+
+#### RIF
+
+`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1yaWYraXMrZnVuK2dvbGRlbitwbGF0aW51bStmb3IrUmVkZGl0JnNyPXRvcGljcyZzZj10aXRsZW9ubHk=`
