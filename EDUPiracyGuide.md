@@ -183,7 +183,7 @@
 * [BestWSODownload](https://www.bestwsodownload.com/) - WSO Courses
 * [Udemy Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_udemy_course_drives)
 * [UdemyKing](https://t.me/udemyking1) - Udemy Courses
-* [CourseArray](https://coursearray.xyz/index.html) - Udemy Courses / [Telegram](https://t.me/udemycoursesfree)
+* [CourseArray](https://t.me/udemycoursesfree)
 * [Tutorial Bar](https://www.tutorialbar.com/) - Udemy Courses
 * [Downloadr](https://downloadr.in/) - Udacity & Udemy Courses
 * [Free Udemy Vedantu Courses](https://t.me/Udemy_Courses_Vedantu_Free) - Udemy Courses
@@ -234,7 +234,6 @@
 * [GetFreeCourses](https://getfreecourses.co/) - Courses
 * [FreeAllCourse](https://freeallcourse.com/) - Courses
 * [TutorialsPlanet](https://tutorialsplanet.net/) - Courses
-* [TutsGalaxy](https://tutsgalaxy.net/) - Udemy Courses
 * [UdemyTuts](https://udemytuts.com/) - Udemy Courses 
 * [Paid Courses for Free](https://paidcoursesforfree.com/) - Udemy Courses 
 * [Online Free Course](https://www.onlinefreecourse.net/) - Udemy Courses   
