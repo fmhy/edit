@@ -51,7 +51,6 @@
 * [Myuzi](https://gitlab.com/zehkira/myuzi) - Music Streaming App
 * [Meteo](https://gitlab.com/bitseater/meteo) - Weather App
 * [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - Free Ubuntu VNC
-* [ANoise](http://anoise.tuxfamily.org/) - Ambient Sounds for Ubuntu 
 * [gazee](https://hub.docker.com/r/linuxserver/gazee/) or [Komikku](https://gitlab.com/valos/Komikku) - Manga & Comic Reader / Manager
 * [wikit](https://github.com/KorySchneider/wikit) - Wikipedia Summaries from CLI
 * [Linux Filesystem Chart](https://i.imgur.com/02VycVd.png) - File System Guide
@@ -338,7 +337,7 @@
 * [GameHub](https://tkashkin.github.io/projects/gamehub/) or [Steal](https://github.com/AbdelrhmanNile/steal) - Game Managers
 * [Free Linux PC Games](https://freelinuxpcgames.com/) - Linux Games
 * [The KDE Games Center](https://games.kde.org/) - Linux Games
-* [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/wiki/) - Wiki for Linux Gaming / [Sub Wiki](https://linux-gaming.kwindu.eu/)
+* [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/) - Wiki for Linux Gaming / [Sub Wiki](https://linux-gaming.kwindu.eu/)
 * [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)
 * [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) - Install & Manage Proton-GE for Steam / Wine
 * [Batocera.linux](https://batocera.org/) or [Lakka](https://lakka.tv/) - Retro Gaming Distro
@@ -387,7 +386,6 @@
 * ⭐ **[PDF Expert](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pdf_expert)** - PDF Viewer
 * ⭐ **[Fantastical](https://flexibits.com/fantastical)** - Calendar
 * [DMHY](https://github.com/yaqinking/DMHY) - Anime Torrent Autodownloader 
-* [YTMusic](https://ytmusic.app/) - YouTube Music Client
 * [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) or [Accord](https://github.com/evelyneee/accord) - Discord Clients
 * [gibMacOS](https://github.com/corpnewt/gibMacOS) - Download MacOS
 * [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions MacOS
@@ -415,7 +413,7 @@
 * [AirDrop to Windows](https://redd.it/vthltc) - AirDrop to Windows Guide
 * [maestral](https://maestral.app/) - File Sharing App
 * [Adobe Creative Cloud](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mac_adobe_cc) - Adobe CC Guides
-* [Adobe Zii](https://www.adobezii.com/) or [TNT-Adobe-Zii](https://telegra.ph/TNT-Adobe-Zii-for-MacOS-11-01) - Adobe CC Patcher / [Subreddit](https://www.reddit.com/r/AdobeZii/)
+* [TNT-Adobe-Zii](https://telegra.ph/TNT-Adobe-Zii-for-MacOS-11-01) - Adobe CC Patcher / [Subreddit](https://www.reddit.com/r/AdobeZii/)
 * [Adobe Packager](https://github.com/Drovosek01/adobe-packager) - Adobe Portable Installer Script
 * [ss64 OSX](https://ss64.com/osx/) - MacOS Bash Commands
 * [Orion](https://browser.kagi.com/downloads/Orion.dmg) - Webkit Browser with Chrome & Firefox extensions / [Discord](https://discord.gg/E9EKaPZR)
@@ -469,7 +467,7 @@
 * [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - Image & Video Editor
 * [Kap](https://github.com/wulkano/Kap) - Screen Recorder
 * [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - Audio Editor
-* [The Levelator](https://apps.apple.com/us/app/the-levelator/id1493326487?mt=12) - Automatic Audio Level Adjustments / [Archive](https://archive.org/details/conversationsnetwork_org-levelator)
+* [The Levelator](https://archive.org/details/conversationsnetwork_org-levelator) - Automatic Audio Level Adjustments
 * [CasterSoundboard](https://github.com/JupiterBroadcasting/CasterSoundboard) - Soundboard
 * [XLD](https://sourceforge.net/projects/xld/) - Lossless Audio Transcoder
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Pass Audio to Apps
@@ -494,7 +492,6 @@
 * [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) - Manage Multiple Versions of Xcode 
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - Grayscale Control
 * [MacOSIcons](https://macosicons.com/) - MacOS Icons
-* [Rayon](https://github.com/Lakr233/Rayon) - SSH Machine Manager
 * [equinux](https://equinux.github.io/) - OS X Certificate Fix
 * [Lilu](https://github.com/acidanthera/Lilu) - Kext / Process Patcher
 * [JenV](https://www.jenv.be/) - Java Environment Manager / [GitHub](https://github.com/jenv/jenv)
