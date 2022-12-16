@@ -3040,7 +3040,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 #### VFX Sites
 
-[FootageCrate](https://footagecrate.com/), [MATESFX](https://www.freevideoeffect.com/), [FreeVideoEffect](https://freevideoeffect.com/), [VideoCoPilot](https://www.videocopilot.net/), [IntroHD](https://www.introhd.net/), [VFXmed](https://www.vfxmed.com/), [VFXDownload](https://www.vfxdownload.net/)
+[FootageCrate](https://footagecrate.com/), [MATESFX](https://www.freevideoeffect.com/), [FreeVideoEffect](https://freevideoeffect.com/), [VideoCoPilot](https://www.videocopilot.net/), [IntroHD](https://www.introhd.net/), [VFXmed](https://www.vfxmed.com/)
 
 **After Effects**
 
