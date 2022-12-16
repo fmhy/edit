@@ -185,7 +185,6 @@
 * [/r/bookdownloads](https://reddit.com/r/bookdownloads/)
 * [/r/KindleFreebies](https://reddit.com/r/KindleFreebies/)
 * [WorldCat](https://www.worldcat.org/) or [TRL](https://www.trl.org/) - Search Local Libraries / [Extension](https://www.libraryextension.com/)  
-* [Snippet Tape](http://snippet-tape.herokuapp.com/) - Access Google Books "Missing Pages" / [Article](https://medium.com/@designing/how-i-hacked-google-books-missing-pages-f2d85289ca26)
 * [Nexus Bot](https://t.me/nexus_search/84) - Create your own TG Book Bot / [Guide](https://youtu.be/i9TNgb9pjV8)
 
 ***
@@ -762,6 +761,7 @@
 * [WordSense](https://www.wordsense.eu/) - Dictionary
 * [MacmillanDictionary](https://www.macmillandictionary.com/) - Dictionary
 * [Spellorg](http://www.spellorg.com/) - Dictionary / Spell Check
+* [dict](https://github.com/BetaPictoris/dict) - Dictionary CLI
 * [Webopedia](https://www.webopedia.com/) or [TechTerms](https://techterms.com/) - Tech Dictionary
 * [Why The Fluff](https://www.whythefluff.com/) - Common Jargon Dictionary
 * [EtymOnline](https://www.etymonline.com/) - Etymologies
