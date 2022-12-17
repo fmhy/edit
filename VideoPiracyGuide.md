@@ -555,7 +555,6 @@
 * [SamiTVHD](https://samitvhd.com/) - TV / Sports
 * [uStream](https://www.ustream.to/index.html) - TV / Sports
 * [Stream2Watch](https://hq.stream2watch.sx/), [2](https://stream2watch.at/) - TV / Sports
-* [LiveTV.video](https://livetv.video/) - TV / Sports
 * [LM Shows](https://lmshows.se/) - TV
 * [WwiTv](https://wwitv.com/) - TV
 * [MHD TV World](https://mhdtvworld.xyz/channel/english/) - TV
@@ -862,7 +861,7 @@
 * [SickChill](https://sickchill.github.io/) / [GitHub](https://github.com/SickChill/SickChill) or [CouchPotato](https://couchpota.to/) - Automatic Torrent / NZB Searching, Downloading & Processing
 * [Autodownload Tools](https://redd.it/hbwnb2) - All Autodownload Tools
 * [NZBHydra](https://github.com/theotherp/nzbhydra) - Meta search for NZB indexers
-* [pirateflix](https://github.com/orinocoz/pirateflix), [wt](https://github.com/DegenCoden/wt), [PeerFlix](https://github.com/mafintosh/peerflix) / [Server](https://github.com/asapach/peerflix-server) / [MPV](https://github.com/noctuid/mpv-peerflix-hook) or [Clifix](https://github.com/fabiospampinato/cliflix)  - Torrent Streaming CLI 
+* [pirateflix](https://github.com/orinocoz/pirateflix), [wt](https://github.com/DegenCoden/wt), [PeerFlix](https://github.com/mafintosh/peerflix) / [Server](https://github.com/asapach/peerflix-server) / [MPV](https://github.com/noctuid/mpv-peerflix-hook) - Torrent Streaming CLI 
 * [TorrenTV](https://torrentv.github.io/) - Stream Torrents to Apple TV, Chromecast & Roku
 * [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - Stream Torrents in VLC
 * [webtorrent-mpv-hook](https://github.com/mrxdst/webtorrent-mpv-hook) - Stream Torrents in MPV
