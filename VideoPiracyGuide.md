@@ -530,6 +530,7 @@
 * [123TV](http://123tv.live/) - TV / Sports
 * [WatchNewsLive](https://watchnewslive.tv/) - TV / Sports
 * [XUMO](https://www.xumo.tv/channels) - TV
+* [femboys.live](https://femboys.live/) - Sports
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [WeakStream](http://weakstreams.com/) - Sports 
 * [JokerLiveStream](https://www.jokerlivestream.life/) - Sports
