@@ -1993,7 +1993,7 @@ Twitch Stream Tracker
 * [Windows 11 Fixer](https://github.com/99natmar99/Windows-11-Fixer) - Win 11 Improvement Tool
 * [Bypass Win11 Requirements](https://github.com/osx86-ijb/bypass-windows11-requirements) - How-To Bypass Windows 11 System Requirements
 * [Windows 11 Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 System Requirements Bypasser
-* [Windows 11 Debloater](https://github.com/teeotsa/windows-11-debloat) - Windows 11 Debloater
+* [Windows 11 Debloater](https://github.com/teeotsa/windows-11-debloat) or [XToolbox](https://github.com/xemulat/XToolbox) - Windows 11 Debloaters
 * [Win11DevBypass](https://github.com/rushiranpise/win11devbypass) - Bypass Win 11 Dev Channel Restrictions
 * [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - Windows 11 Powertoys
 * [ElevenClock](https://github.com/martinet101/ElevenClock) - Windows 11 Secondary Monitor Clock
