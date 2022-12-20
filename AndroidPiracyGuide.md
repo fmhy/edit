@@ -1339,7 +1339,6 @@
 * [Atsumaru](https://github.com/TheUndo/Atsumaru) -  Manga Reader
 * [Manga Max](https://apps.apple.com/us/app/apple-store/id1558957618) - Manga Reader
 * [MangaNelo](https://apps.apple.com/us/app/manganelo-rock-manga-pro/id1540527984) - Manga Reader
-* [YACRader](https://www.yacreader.com/) - Comic Reader 
 * [NovelReader](https://github.com/ppraveentr/NovelReader) - Light Novels
 * [NovelLoop](https://apps.apple.com/in/app/novelloop/id1170755867) - Light Novels
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - Borrow Digital Library Books
