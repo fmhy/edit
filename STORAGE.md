@@ -1067,6 +1067,7 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 * https://www2.movieorca.com/
 * https://xmovies8.fun/
 * https://ww22.watchfilm.net/
+* https://hdwatch.org/
 * https://swatchseries.is/
 * https://www1.movierot.com/
 * https://www.actvid.com/
