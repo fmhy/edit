@@ -351,7 +351,7 @@
 * [Falstad](http://www.falstad.com/) - Math & Physics Apps / Simulations 
 * [Mujoco](https://github.com/deepmind/mujoco), [MyPhysicsLabs](https://myphysicslab.com/), [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
 * [PhysicsClassroom](https://www.physicsclassroom.com/) - Physics Lessons
-* [The Feynman Lectures](https://www.feynmanlectures.caltech.edu/) - Physics Lectures
+* [The Feynman Lectures](https://www.feynmanlectures.caltech.edu/) - Physics Lectures
 * [Physics and Maths Tutor](https://www.physicsandmathstutor.com/) - UK High School Notes & Papers
 * [Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php) - Physics Tools
 * [Algodoo](http://www.algodoo.com/) - Interactive Physics Tool
@@ -580,6 +580,7 @@ Simulator
 * [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - Language Learning Flashcards
 * [Learn English Online](http://www.learn-english-online.org/), [EnglishCentral](https://www.englishcentral.com/), [ESLFast](https://www.eslfast.com/), [TalkEnglish](https://www.talkenglish.com/), [AntiMoon](https://www.antimoon.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons), [Voscreen](http://voscreen.com/), [yell0wsuit](https://yell0wsuit.page/english.html), [elllo](https://www.elllo.org/) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - Learn English
 * [Listening Lab](https://www.esl-lab.com/) - English Listening Practice
+* [Ytalki](https://ytalki.com/) - Find Foreign Books Based on Language Level
 * [Podcasts in English](https://www.podcastsinenglish.com/) - English Learning Podcasts
 * [Free4Talk](https://www.free4talk.com/) or [Speaking24](http://www.speaking24.com/) - English Practice Community
 * [English-Test](https://www.english-test.net/) - English Practice Tests
