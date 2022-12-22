@@ -102,7 +102,7 @@
 * [sourcehut](https://sr.ht/) - Public Project Index
 * [PiracyBank](https://piracybank.org/websites) - List of sites tagged for copyright, mostly dead 
 * [Movim](https://movim.eu/) - Decentralized Social Network 
-* [Fediverse](https://fediverse.party/), [Libranet](https://libranet.de/) or [Fediverse Observer](https://mastodon.fediverse.observer/) - Federated Social Networks
+* [Fediverse](https://fediverse.party/), [Libranet](https://libranet.de/) or [Fediverse Observer](https://mastodon.fediverse.observer/) - Federated Social Networks / [Resources](https://github.com/emilebosch/awesome-fediverse)
 * [Creamy's Homemade List](https://docs.google.com/document/d/1t10VI-sccy1CfAeMZHwmCS_7agIHFo_B5ipMjzsMtTg/edit) / [2](https://web.archive.org/web/20191130224152/https://pastebin.com/3e2RddP5), [ImageBoards](https://imageboards.net/), [Chan List](https://archive.is/Npzwl) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - Imageboard Index
 * [imageboards.json](https://gitgud.io/iblist/imageboards.json) or [textboards.json](https://gitgud.io/iblist/textboards.json) - Image / Textboard .json
 * [DeepAI](https://deepai.org/), [Futurepedia](https://www.futurepedia.io/), [RunawayML](https://runwayml.com/) or [AI Creator Tools](https://library.phygital.plus/) - AI Tool Indexes
@@ -1037,7 +1037,7 @@
 
 * ⭐ **[How to Download Fonts](https://redd.it/8tqfg6)**
 * ⭐ **[Font Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_font_collections)** - Font Drives
-* [coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [Getfancy](https://getfancy.io/), [Font Generator](https://www.toulr.com/other-tools/font-generator), [AB Text Generator](https://www.abtextgenerator.com/), [DiscordFonts](https://lingojam.com/DiscordFonts), [MessLetters](https://www.messletters.com/), [letrasdiferentes](https://letrasdiferentes.com.br/), [Fancy Text](https://fancy-text.net/), [TextFancy](https://textfancy.com/), [Font-Generator](https://www.font-generator.com/), [lingojam](https://lingojam.com/WeirdTextGenerator) or [fSymbols](https://fsymbols.com/generators/) - Font Generator
+* ⭐ **[Unicode Font Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_unicode_font_generators)** - Generate Typed Text Fonts
 * [Formito](https://formito.com/tools/logo) - Typography Logo Maker
 * [Font Map](http://fontmap.ideo.com/) - Map of Fonts
 * [DaFont](https://www.dafont.com/)
@@ -1070,6 +1070,10 @@
 * [FontsArena](https://fontsarena.com/)
 * [fonteseletras](https://www.fonteseletras.com/)
 * [LostType](http://www.losttype.com/)
+* [BoldFonts](https://boldfonts.com/)
+* [CoFonts](https://cofonts.com/)
+* [FontReach](https://www.fontreach.com/)
+* [DownloadFonts](https://www.downloadfonts.io/)
 * [UrbanFonts](https://www.urbanfonts.com/)
 * [AbstractFonts](https://www.abstractfonts.com/)
 * [FontGet](https://www.fontget.com/)
@@ -1121,15 +1125,15 @@
 * [Fontjoy](https://experiments.withgoogle.com/fontjoy) - Generate Font Combinations
 * [FontSprite](https://adamstrange.itch.io/fontsprite) - FonstSprite Editor
 * [Textcraft](https://textcraft.net/) or [TextDrom](https://en.textdrom.com/) - Styled Font Generator
-* [Cava's Pixel Resources](https://caveras.net/) - Pixel Fonts 
+* [Cava's Pixel Resources](https://caveras.net/) - Pixel Fonts
 * [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - Oldschool PC Fonts
-* [Make WordArt](https://www.makewordart.com/),  [TextGiraffe](http://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generator
+* [Make WordArt](https://www.makewordart.com/), [MakeText](https://maketext.io/), [TextGiraffe](http://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generator
 * [Textanim](https://textanim.com/) or [Space Type Generator](https://spacetypegenerator.com/) - Animated Text Generator 
 * [3DText2GIF](https://3dtext2gif.com/) or [TextsStudio](https://textstudio.co/) - Animated 3D Text Generator
 * [Batname](https://batname.vercel.app/) - Batman (2022) Font Generator
 * [Codeface](https://github.com/chrissimpkins/codeface) - Fonts for Coding
 * [Metropolis](https://github.com/dw5/Metropolis) - Modern Typeface
-* [FiraCode](https://github.com/tonsky/FiraCode) - Monospace Fonts 
+* [FiraCode](https://github.com/tonsky/FiraCode) - Monospace Fonts
 * [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](http://arcade.photonstorm.com/) - Arcade Font Engine
 * [Glitch](https://glitchtextgenerator.com/) - Glitch Text Generator
 * [Text Color Fader](http://patorjk.com/text-color-fader) - Rainbow Text Generator
