@@ -13,6 +13,7 @@
 
 ## ▷ Dedicated Hosts
 
+* ⭐ **[Soap2Day](https://soapgate.org/)** - Movies / TV
 * ⭐ **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * ⭐ **[Ask4movies](https://ask4movie.mx/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
 * ⭐ **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
