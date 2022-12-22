@@ -14,7 +14,7 @@
 * ⭐ **[Multi-Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_tool_sites)** - Sites with Multiple Tools
 * ⭐ **[MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb)** - Multi-Tool Google Colab
 * ⭐ **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - Multi-Calculator Sites
-* ⭐ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)** - Presentation Tools & Templates
+* ⭐ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)** - Presentation Tools / Templates
 * ⭐ **[Versus](https://versus.com/)**, [rtings](https://www.rtings.com/), [SocialCompare](https://socialcompare.com/en), [DifferenceBetween](http://www.differencebetween.net/) or [Diffen](https://www.diffen.com/) - Compare Anything 
 * ⭐ **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)** - Organize Ideas / Projects
 * ⭐ **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** or [Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manual_sites) - Repair Articles / Manuals
@@ -28,7 +28,7 @@
 * [Generative Tools](https://docs.google.com/document/d/1N57oAF7j9SuHcy5zg2VZWhttLwR_uEldeMr-VKzlVIQ/) - Generative Tool Index
 * [Barcode Reader](https://online-barcode-reader.inliteresearch.com/) or [ZXing Decoder](https://zxing.org/w/decode.jspx) - Online Barcode Reader
 * [Contract-Templates](https://github.com/Oak-Harbor-Kits/Contract-Templates) - Digital Contracts
-* [The Measure Of Things](https://www.bluebulbprojects.com/measureofthings/default.php) - Comparative / Relative Quantity Measurements 
+* [The Measure Of Things](https://www.bluebulbprojects.com/measureofthings/default.php) - Comparative / Relative Quantity Measurements
 * [Compare Sizes](https://comparesizes.com/) - Size Comparison Tool 
 * [hikaku-sitatter](https://hikaku-sitatter.com/en/) or [Mulmetric](https://multmetric.com/) - Height Comparison Tool
 * [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
@@ -42,6 +42,7 @@
 * [SetAlarmClock](https://setalarmclock.net/) or [AlarmDJ](https://alarmdj.com/) - Online Alarm Clocks
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
 * [Flourish](https://flourish.studio/), [DataWrapper](https://www.datawrapper.de/), [RAWgraphs](https://app.rawgraphs.io/) / [GitHub](https://github.com/rawgraphs/rawgraphs-app), [ChartD](http://chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/) or [ParaView](https://github.com/Kitware/ParaView) - Data Visualization Tools
+* [GSlides Maker](https://github.com/vilmacio/gslides-maker) - Turn Wiki Pages into Google Slides
 * [Grocy](https://grocy.info/) - Grocery / Household Management Tool
 * [Volmarg](https://volmarg.github.io/) - Personal Management Tool
 * [WhoBrings](https://whobrings.com/) - Party Item Management Tool
@@ -124,6 +125,7 @@
 
 * ⭐ **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_editors)** - Text Editing Tools
 * ⭐ **[Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps)** - Note Taking / To-Do Apps
+* ⭐ **[AI Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ai_writing_tools)** - AI Writing Assistants
 * ⭐ **[Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars)** - Calendar / Scheduling Tools
 * ⭐ **[Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pastebins)** - Paste / Store Text Online
 * ⭐ **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_office_suites)** - Office Suite Software
@@ -164,10 +166,7 @@
 * [Neble](https://neble.app/summary) - Summarize Text
 * [Linguix](https://linguix.com/), [HyperWrite](https://hyperwriteai.com/) or [TextCleanr](https://www.textcleanr.com/) - Writing Assistant
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
-* [phraseup](http://www.phraseup.com/) - Autocomplete Common Phrases 
-* [Transformer](https://transformer.huggingface.co/), [OpenAI](https://beta.openai.com/playground), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en), [TextSynth](https://textsynth.com/playground.html), [MagicPrompt](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion) or [Talk to Transformer](https://app.inferkit.com/demo) - Text Autocomplete
-* [EleutherAI](https://6b.eleuther.ai/) or [Essaytyper](http://www.essaytyper.com/) - Text / Story Autocomplete
-* [EssayGen](https://github.com/daijro/EssayGen/) - Essay Autocomplete
+* [phraseup](http://www.phraseup.com/) - Autocomplete Common Phrases
 * [SongLyricsGenerator](http://www.songlyricsgenerator.com/) or [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) - Generate Fake Song Lyrics
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [Infinite Story](https://infinite-story.com/), [Storylocks](https://www.storylocks.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Story Writing
@@ -176,6 +175,7 @@
 * [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](http://writemonkey.com/), [WriteNext](https://www.writenext.io/) or [Writer](https://www.gibney.org/writer) / [GitHub](https://github.com/no-gravity/writer) - Distraction-Free Writing Apps
 * [NovelWriter](https://novelwriter.io/) - Markdown Style Novel Editor
 * [Papyrus Author](https://www.papyrusauthor.com/) - Creative Writing Suite
+* [LanguageIsAVirus](https://www.languageisavirus.com/) - Writing Prompts
 * [Seventh Sanctum](https://www.seventhsanctum.com/), [Notebook.ai](https://www.notebook.ai/), [WorldAnvil](https://www.worldanvil.com/) or [Chaotic Shiny](http://chaoticshiny.com/) - Fantasy Writing Generators
 * [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Fantasy Name Generators
 * [PolyGlot](https://draquet.github.io/PolyGlot/) or [VulgarLang](https://www.vulgarlang.com/) - Spoken Language Construction Tools
@@ -235,6 +235,7 @@
 * [I or l?](https://iorl.info/) / [2](https://www.iorl.org/) - Is it an uppercase "i", or is it a lowercase "L"?
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursive Search Tool
 * [Textify](https://ramensoftware.com/textify) - Copy Text from Any Dialog
+* [Unicode Font Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_unicode_font_generators) - Generate Typed Text Fonts
 * [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/), [Snskey](https://snskeyboard.com/), [Unilist](https://unilist.raphaelbastide.com/), [Alt Codes](https://alt-codes.net/) or [Cool Symbol](https://coolsymbol.com/) - Copy & Paste Unicode Characters
 * [BlankText](https://blanktext.net/) - Copy / Paste Blank Spaces 
 * [Donger List](http://dongerlist.com/) - 600+ Unicode Emoticons 
@@ -357,6 +358,7 @@
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
 * [OpenToonz](https://opentoonz.github.io/e/), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - Animation Tools
 * [Animaker](https://www.animaker.com/) - Animated Video Creator
+* [AnimAnon](https://rentry.org/AnimAnon) - AI Drawn Anime Guide
 * [Reaktr](https://reaktr.vercel.app/) - Music Video Creator
 * [AMV101](https://www.amv101.com/) - Animated Music Video Making Guides
 * [Blaine's Movie Maker Blog](https://movies.blainesville.com/p/wmm-60-on-windows-7.html) - Windows Movie Maker Tutorials
@@ -488,6 +490,7 @@
 * [Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Download Album Art
 * [Sunamu](https://github.com/NyaomiDEV/Sunamu) - Now Playing Songs Display
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - Identify Playing Songs
+* [FindMusicByLyrics](https://findmusicbylyrics.com/) - Multi-Site Lyrics Search
 * [Whisper](https://github.com/openai/whisper) or [Vosk](https://github.com/alphacep/vosk-api) - Speech Recognition
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Soundux](https://soundux.rocks/) / [GitHub](https://github.com/Soundux/Soundux) or [Resanance](https://resanance.com/) - Soundboard Program
 * [MyInstants](https://www.myinstants.com/index/us/), [InternetsFun](https://instantsfun.es/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboard
@@ -1051,6 +1054,7 @@
 * ⭐ **[Wiki Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - Wiki URL Shortener
 * ⭐ **[t.ly](https://t.ly/)** - `t.ly/qqH6`
 * ⭐ **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
+* ⭐ **[Reduced](https://reduced.to/)** - `reduced.to/6u38a`
 * [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
 * [gg.gg](http://gg.gg/) - `gg.gg/oggp7`
 * [Teknik](https://shorten.teknik.io/) - `tknk.io/GH5X` 
@@ -1135,7 +1139,7 @@
 * ⭐ **[redditlist](http://redditlist.com/)**, [sayit](https://anvaka.github.io/sayit/), [Vizit](http://redditstuff.github.io/sna/vizit/), [Map of Reddit](https://anvaka.github.io/map-of-reddit), [Subbed](https://www.subbed.org/), [RedditViz](https://rhiever.github.io/redditviz/) or [subreddits](http://subreddits.org/) - Subreddit Indexes
 * [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/) - Related Subreddit Calculator
 * /u/SaveVideo, [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RedditSave](https://www.redditsave.com/), [redv.co](https://redv.co/), [lew.la](https://lew.la/) or [Reddit.tube](https://reddit.tube/) - Download Reddit Videos 
-* [saveddit](https://github.com/p-ranav/saveddit) or [SubredditMediaDownloader](https://github.com/Psycoguana/SubredditMediaDownloader) - Reddit Bulk Media Downloader
+* [saveddit](https://github.com/p-ranav/saveddit), [Gert](https://github.com/mcdallas/gert) or [SubredditMediaDownloader](https://github.com/Psycoguana/SubredditMediaDownloader) - Reddit Bulk Media Downloaders
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown)
 * [Subreddit Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_subreddit_discovery) - Explore & Discover Subreddits
 * [/r/multihub](https://www.reddit.com/r/multihub/top/?sort=top&t=all) - Explore Multireddits
@@ -1493,7 +1497,7 @@
 * [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Remove YouTube Thumbnails / Title Capitalization
 * [RegretsReporter](https://foundation.mozilla.org/en/campaigns/regrets-reporter/) - Report Regrettable YouTube Recommendations 
 * [YT Not Interested Button on Hover](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Easily Display Not Interested Button
-* [RapidTags](https://www.rapidtags.io/) - YouTube Tag Generator
+* [RapidTags](https://www.rapidtags.io/) or [YTubeTool](https://ytubetool.com/) - YouTube Tag Generators
 * [LiveTL](https://kentonishi.github.io/LiveTL/) - YouTube Live Stream Translator 
 * [Youtube Summarizer](https://share.streamlit.io/iamknownstranger/ytsummary/main) - YouTube Transcript Summarizer
 * [YouTube Data Calc](https://dlogic.lk/projects/youtubedatacalc.php) - YouTube Data Usage Calculator
@@ -1986,7 +1990,8 @@ Twitch Stream Tracker
 * [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) or [Reinstall Preinstalled](https://pastebin.com/5NnBEqnm) / [Guide](https://youtu.be/EQo53hvWy8Q) - Add Microsoft Store to Windows
 * [Vantage](https://rentry.co/lenbian) - Lenovo Vantage Without MS Store
 * [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage
-* [NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
+* [NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge), [Edge_Removal.bat](https://github.com/AveYo/fox/blob/main/Edge_Removal.bat) / [2](https://gist.github.com/ishad0w/3b79bf829e9725aa102b2e8446bb5ef8) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
+* [Chrometana](https://github.com/t3dotgg/Chrometana) - Redirect Cortana Searches from Bing
 * [amogOS](https://github.com/jostroOS/amogOS) - Rasberry Pi OS
 * [Pinn](https://github.com/procount/pinn) - Rasberry Pi OS Installer
 * [Raspberry Pi 4 Bootloader USB Mass Storage Boot Guide](https://jamesachambers.com/new-raspberry-pi-4-bootloader-usb-network-boot-guide/) - How-to Boot Raspberry Pi from USB
