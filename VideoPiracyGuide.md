@@ -446,9 +446,10 @@
 ## ▷ Drama Streaming
 
 * ⭐ **[DramaCool](https://www1.dramacool.cr/)**, [2](https://www.dramacool9.co/), [3](https://watchasian.pe/), [4](https://www3.dramacool.cm/), [5](https://www1.dramacool.do/) - TV / Movies
+* ⭐ **[KissAsian](https://kissasian.li/)**, [2](https://kissasian.ac/), [3](https://kissasian.es/), [4](https://kissasian.pe/) - TV
+* ⭐ **[GoPlay](https://goplay.ml)** -  TV / Movies / Join [Discord](https://discord.com/invite/yY2P3DQR8S) for Code
 * [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)
 * [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - TV / Movies
-* [KissAsian](https://kissasian.li/), [2](https://kissasian.ac/), [3](https://kissasian.es/), [4](https://kissasian.pe/) - TV
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
 * [DramaDay](https://dramaday.net/) - TV
 * [icdrama](http://www1.hkdrama.to/) - TV / Movies
