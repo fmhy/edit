@@ -33,9 +33,9 @@
 
 ## ▷ Streaming Sites
 
-* ⭐ **[Spotify](https://open.spotify.com/)** or [Spotify One](https://spotfy.one/)  - Browser Music
+* ⭐ **[Spotify](https://open.spotify.com/)** - Browser Music
 * ⭐ **Spotify Tools** - [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Listen Together](http://jqbx.fm/) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
-* ⭐ **[YouTube Music](https://music.youtube.com/)**, **[YTMP](https://ytmp.itsvg.in/)**, [InfiGroove](https://www.infigroove.com/) or [Beatbump](https://beatbump.ml/home) / [DL Script](https://greasyfork.org/en/scripts/437656) - Browser Music
+* ⭐ **[YouTube Music](https://music.youtube.com/)**, **[YTMP](https://ytmp.itsvg.in/)**, [InfiGroove](https://www.infigroove.com/), [Spotify One](https://spotfy.one/) or [Beatbump](https://beatbump.ml/home) / [DL Script](https://greasyfork.org/en/scripts/437656) - YouTube Browser Music
 * ⭐ **YouTube Music Tools** - [Lag Fix](https://greasyfork.org/en/scripts/432304-youtube-music-fix-performance) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs
