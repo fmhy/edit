@@ -19,19 +19,20 @@
 
 * [FaresCD](https://www.farescd.com/) - Video / Software / Games / Android
 * [DirectApp](https://directapp.net/) - Software / Android / Games
-* [akwam](https://old.akwam.co/) - Video / Audio / Software 
+* [akwam](https://old.akwam.co/) - Video / Audio / Software
 * [Sinbad](https://www.alsindibad.com/) - Software / Android / iOS
 * [Bramj](https://www.bramjfreee.com/) - Software
-* [mycima](https://mycima.video/) - Movies / TV / Anime  
-* [arabseed](https://arabseed.cam/) - Movies / TV 
+* [mycima](https://mycima.video/) - Movies / TV / Anime
+* [arabseed](https://arabseed.cam/) - Movies / TV
 * [dotCima](https://s2.dotcima.com/) - Movies / TV
 * [EgyBest](https://egy.best/) - Movies / TV
 * [cartoon3rbi](https://www.cartoon3rbi.net/) - Cartoons / Anime
-* [Shazam Music](https://t.me/shazam_music_uz) - Music / Telegram 
-* [music_banktel](https://t.me/music_banktel) - Music / Telegram 
+* [Shazam Music](https://t.me/shazam_music_uz) - Music / Telegram
+* [music_banktel](https://t.me/music_banktel) - Music / Telegram
 * [NullNoss](https://www.nullnoss.org/) - Courses
 * [Courses4Arab](https://courses4arab.com/) - Programming Courses
 * [WiFi4Games](https://www.wifi4games.com/) - Games
+* [ArabicFonts](https://arabicfonts.net/) - Fonts
 
 ## ▷ Torrenting 
 
@@ -583,7 +584,7 @@
 * [Mkv Cinemas](https://www.mkvcinemas.fi/) - Movies / TV 
 * [9xMovies](https://9xmovies.yoga/), [2](https://9xmovies.horse/) - Movies / TV 
 * [OlaMovies](https://olamovies.lol/) - Movies / TV / [Telegram](https://t.me/olamovies_official_v2) 
-* [MoviesVerse](https://moviezverse.com/) - Movies / TV / [Telegram](https://t.me/moviesflixverse) 
+* [MoviesMod](https://moviesmod.in/) - Movies / TV / [Telegram](https://t.me/moviesflixverse) 
 * [MKV Mad](https://mkvmad.run/) - Movies / TV
 * [WorldFree4U](https://worldfree4u.wbog.net/) - Movies / TV
 * [atishmkv](https://atishmkv.cyou/) - Movies / TV
