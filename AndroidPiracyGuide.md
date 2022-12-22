@@ -56,6 +56,7 @@
 * [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard&hl=en_US&gl=QA), [AppWarden](https://gitlab.com/AuroraOSS/AppWarden) or [TrackerControl](https://trackercontrol.org/) - App Permissions Tracker
 * [Exodus](https://reports.exodus-privacy.eu.org/en/), [TrackerControl](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) or [HideDroid](https://github.com/Mobile-IoT-Security-Lab/HideDroid) - Android App Tracker & Permission Index / [APK](https://github.com/Exodus-Privacy/exodus-android-app)
 * [OSS Release Tracker](https://github.com/jroddev/android-oss-release-tracker) - Open Source App Update Tracker
+* [Sapio](https://github.com/jonathanklee/Sapio) - Scan Apps for Google Dependency
 * [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard) - Android 12-like Privacy Dashboard / [GitHub](https://github.com/RushikeshKamewar/PrivacyDashboard)
 * [NetGuard](https://www.netguard.me/) - Block Internet Access Per App 
 * [AirGuard](https://github.com/seemoo-lab/AirGuard) - AirTag Tracking Protection
@@ -227,6 +228,7 @@
 * [MobiDevTools](https://addons.mozilla.org/en-US/firefox/addon/mobidevtools/) - Firefox Inspect Element
 * [FreeBrowser](https://freebrowser.org/) - Internet Censorship Circumvention / [Wiki](https://github.com/greatfire/wiki)
 * [InstantBridge](https://instabridge.com/) - Public WiFi Sharing Community
+* [NetShare](https://netshare.app/) - Create Wi-Fi Hotspot
 * [Gnirehtet](https://github.com/Genymobile/gnirehtet) - Reverse Tethering
 * [Gugal](https://gitlab.com/narektor/gugal) - Web Search App
 * [AndrOBD](https://github.com/fr3ts0n/AndrOBD) - Android Dashboard Diagnostics
@@ -357,7 +359,7 @@
 * [Uploadgram](https://github.com/Pato05/uploadgram-app) - Telegram File Upload
 * [Magic ToolFlash](https://www.xda-developers.com/magic-toolflash-magisk-module/) - ZIP Packages from Android
 * [icq](https://icq.com/) - Messaging App
-* [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Husky](https://git.mentality.rip/FWGS/Husky) or [Tusky](https://tusky.app/) - Mastodon Client 
+* [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Megalodon](https://sk22.github.io/megalodon/), [Husky](https://git.mentality.rip/FWGS/Husky) or [Tusky](https://tusky.app/) - Mastodon Clients 
 * [Blabber.im](https://f-droid.org/packages/de.pixart.messenger) - XMPP / Jabber Messenger
 * [IRCCloud](https://github.com/irccloud/android) - IRC Client
 * [TextFree](https://www.textfree.us/) - Free Texting App
