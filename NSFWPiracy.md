@@ -6,7 +6,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 * ⭐ **[PornDude](https://theporndude.com/)** / [More Sites](https://theporndude.com/hall-of-fame)
 * ⭐ **[NSFW Subreddits](http://redditlist.com/nsfw)**, [2](https://www.reddit.com/r/NSFW411/wiki/index), [3](https://frontpagemetrics.com/top-nsfw-subreddits), [4](https://redd.it/brypgf), [5](https://theporndude.com/best-nsfw-reddit-sites), [6](http://electronsoup.net/nsfw_subreddits/) / [Reverse Search](https://www.rarchives.com/)
-* [Reddit Doesn't Like This Site](https://www.reddit-doesnt-like-this.site/2021/01/01/list-of-full-length-porn-tube-websites/) / [Full Length Porn CSE](https://cse.google.com/cse?cx=6c02fb377e50d493c)
+* [Full Length Porn CSE](https://cse.google.com/cse?cx=6c02fb377e50d493c)
 * [One Porn List](https://onepornlist.com/)
 * [BigPornList](http://bigpornlist.net/)
 * [MrPornGeek](https://www.mrporngeek.com/)
