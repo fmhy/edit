@@ -22,15 +22,16 @@
 * ⭐ **[CrackHub](https://crackhub.site/)** - [Discord](https://discord.gg/T669D6weqt) / [Divolt](https://divolt.xyz/invite/82nEH5Sp) / [RSS](https://scene.crackhub.site/category/iso/rss)
 * ⭐ **[GamesDrive](https://gamesdrive.net/)** - [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * ⭐ **[Ova Games](http://www.ovagames.com/)** - Use Adblocker
-* ⭐ **[Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/)** - [Discord](https://discord.gg/HP5sQ6c)
 * ⭐ **[ScOOter Repacks](https://scooter-repacks.site/)** - [Discord](https://discord.gg/BWKyN8SgvM)
 * ⭐ **[GoG Games](https://gog-games.com/)**
 * ⭐ **[VRPirates](https://t.me/vrpirates)**, [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
 * ⭐ **[Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers)** - F2P Minecraft Clients / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_minecraft_tools) / [Beta Clients](https://betacraft.uk/) / [Bedrock / Java](https://redd.it/xj5w9m)
 * [DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "games" or "roms"
+* [Gamdie](https://gamdie.com/) / [Discord](https://discord.gg/hH9sedx4de), [itch.io](https://itch.io/games/new-and-popular/featured/free) / [Downloader](https://github.com/Emersont1/itchio) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
 * [F2P Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_f2p_games) - Free to Play Games
 * [Scene Release Trackers](https://www.reddit.com/rFREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers) - Get Scene Release Updates
 * [Nexus-Games](https://nexus-games.net/) - [Discord](https://discord.gg/8YXGgy4DJj)
+* [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - [Discord](https://discord.gg/HP5sQ6c) / [Archive](https://cloud.gookie.dev/index.php/s/wQmrb9Y23WdzXzZ)
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.me/) - [Discord](https://discord.gg/693hNBdymb)
 * [CPG](https://cpgrepacks.site/) - [Discord](https://discord.gg/dtBSZ9N)
 * [KaOsKrew](https://www.kaoskrew.org/)
@@ -65,9 +66,8 @@
 * [PCGames-Download Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pcgames-download_backup)
 * [IRC Games](https://redd.it/x804wg) - How-to Download Games via IRC
 * [LibreGameWiki](https://libregamewiki.org/List_of_games) - FOSS Games 
-* [itch.io](https://itch.io/games/new-and-popular/featured/free) / [Downloader](https://github.com/Emersont1/itchio) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
-* [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) - Open Source Games
-* [Open Source Game Clones](https://osgameclones.com/) - Open Source Game Clones
+* [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) - Open-Source Games
+* [Open Source Game Clones](https://osgameclones.com/) - Open-Source Game Clones
 * [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes) - Game Remakes
 * [Alpha Beta Gamer](https://alphabetagamer.com/) - Play games in Alpha or Beta Testing
 * [Game Top](https://www.gametop.com/) - Casual PC Games
