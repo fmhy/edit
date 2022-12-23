@@ -2760,7 +2760,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Telegram eBook Download
 
-* https://t.me/libgen_scihub_3_bot
+* https://t.me/libgen_scihub_9_bot
 * https://t.me/BOOK_HOUSE_INTERNATIONAL
 * https://t.me/Ebooks_Encyclopedia27
 * https://t.me/Books_worldd
