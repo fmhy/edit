@@ -770,7 +770,7 @@
 * [IsManga Translator](https://ismanga.com/) - Manga Translator
 * [ComicScreen](https://play.google.com/store/apps/details?id=com.viewer.comicscreen) - Comic Reader
 * [Seeneva](https://seeneva.app/) - Comic Reader
-* [Shosetsu](https://shosetsu.app/) - Light Novels / [GitHub](https://github.com/ShosetsuOrg/android-app) / [Dev Builds](https://github.com/shosetsuorg/shosetsu-preview) / [Discord](https://discord.gg/ttSX7gB) 
+* [Shosetsu](https://shosetsu.app/) - Light Novels / [GitHub](https://gitlab.com/shosetsuorg/shosetsu) / [Dev Builds](https://github.com/shosetsuorg/shosetsu-preview) / [Discord](https://discord.gg/ttSX7gB) 
 * [NovelLibrary](https://github.com/gmathi/NovelLibrary) - Light Novels / [Discord](https://discord.gg/qFZX4vdEdF)
 * [LNReader](https://github.com/LNReader/lnreader) - Light Novels
 * [Baruch](https://github.com/adreeeyan/baruch) - Light Novels
