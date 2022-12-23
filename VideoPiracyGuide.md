@@ -346,7 +346,6 @@
 * ⭐ **[Zoro](https://zoro.to/)** or [AnimeBee](https://animebee.to/) - Sub / Dub
 * ⭐ **[9Anime](https://www.9anime.to/)** - Sub / Dub / [Mirrors](https://9anime.me/) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher) / [Ad Scripts](https://redd.it/c330dx)
 * ⭐ **[Anime8](https://anime8.ru/)** - Sub / Dub
-* ⭐ **[AniMixPlay](https://animixplay.to/)** - Sub / Dub / [Discord](https://discord.com/invite/zsFnwaMUjn), [2](https://discord.gg/FHZ5PPVvru)
 * ⭐ **[All Anime](https://allanime.site/)** - Sub / Dub
 * ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / [Downloader](https://github.com/charathmathew/animepahe_downloader), [2](https://github.com/ed-archer/animepahe-dlr), [3](https://github.com/notmarek/pyheanime), [4](https://github.com/KevCui/animepahe-dl)
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
