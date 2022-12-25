@@ -334,7 +334,7 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 
 #### Bulk File Renamers 
 
-[Advanced Renamer](https://www.advancedrenamer.com/), [theRenamer](http://therenamer.com/), [Hydrus](https://hydrusnetwork.github.io/hydrus/), [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/), [Szyszka](https://github.com/qarmin/szyszka), [MassiveFileRenamer](https://github.com/IvanRF/MassiveFileRenamer), [Massren](https://github.com/laurent22/massren), [Renamer](https://github.com/Craftplacer/Renamer), [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename)
+[Advanced Renamer](https://www.advancedrenamer.com/), [theRenamer](http://therenamer.com/), [Hydrus](https://hydrusnetwork.github.io/hydrus/), [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/), [Szyszka](https://github.com/qarmin/szyszka), [MassiveFileRenamer](https://github.com/IvanRF/MassiveFileRenamer), [Massren](https://github.com/laurent22/massren), [Renamer](https://github.com/Craftplacer/Renamer), [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename), [FileRenamerDiff](https://github.com/soi013/FileRenamerDiff)
 
 ***
 
@@ -859,7 +859,7 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 * ⭐ **[GDrive](https://drive.google.com/)**
 * ⭐ **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz)
 
-[dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [disk.yandex](https://disk.yandex.com/), [TeledriveApp](https://teledriveapp.com/), [mediafire](https://www.mediafire.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/), [internxt](https://internxt.com/), [MrOwl](https://www.mrowl.com/), [storj](https://www.storj.io/), [PCloud](https://www.pcloud.com/), [myDrive](https://mydrive-storage.com/), [KodCloud](https://kodcloud.com/), [UsersCloud](https://userscloud.com/), [File2Share](https://www.file2share.us/), [Infinity Upload](https://infinity-upload.com/), [Blackhole](https://blackhole.run/), [filelu](https://filelu.com/)
+[dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [disk.yandex](https://disk.yandex.com/), [TeledriveApp](https://teledriveapp.com/), [mediafire](https://www.mediafire.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/), [internxt](https://internxt.com/), [MrOwl](https://www.mrowl.com/), [storj](https://www.storj.io/), [PCloud](https://www.pcloud.com/), [myDrive](https://mydrive-storage.com/), [KodCloud](https://kodcloud.com/), [UsersCloud](https://userscloud.com/), [File2Share](https://www.file2share.us/), [Infinity Upload](https://infinity-upload.com/), [Blackhole](https://blackhole.run/), [filelu](https://filelu.com/), [File.love](https://file.love/)
 
 **Multi Host Uploaders**
 
@@ -2909,7 +2909,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### TikTok Video Downloaders
 
-[SnapTik](https://snaptik.app/), [RipTok](https://github.com/adamsatyr/RipTok), [TikMate](https://www.tikmate.online/), [TokDer](https://tokder.org/), [tikmate](https://tikmate.app/), [tikfast](https://tikfast.net/), [SaveTT](https://savett.cc/), [ssstikvideo](https://www.ssstikvideo.com/)
+[SnapTik](https://snaptik.app/), [RipTok](https://github.com/adamsatyr/RipTok), [TikMate](https://www.tikmate.online/), [TokDer](https://tokder.org/), [tikmate](https://tikmate.app/), [tikfast](https://tikfast.net/), [SaveTT](https://savett.cc/), [ssstikvideo](https://www.ssstikvideo.com/), [TikInsta](https://tikinsta.net/), [TTDown](https://ttdown.org/)
 
 ***
 
@@ -2941,7 +2941,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Telegram Bots**
 
-* https://t.me/TorrentBots (List)
+* https://github.com/junedkh/jmdkh-mltb / [2](https://github.com/anasty17/mirror-leech-telegram-bot)
 * https://t.me/kltorrents 
 * https://t.me/torrent_drive_direct_llinks_bot
 * https://t.me/torrentdrive_bot
@@ -2964,7 +2964,7 @@ Add the following commands to a search to manually scrape each site.
 * https://github.com/yash-dk/TorToolkit-Telegram
 * https://pythonrepo.com/repo/ayushteke-slam_aria_mirror_bot_HEROKU
 * https://github.com/ogkunald/Torrent-Drive-Telegram-Bot-Using-Colab
-* https://t.me/TorrentBots (list)
+* https://t.me/TorrentBots (List)
 * https://t.me/TorrentLeechingGroup (list)
 * https://t.me/MirrorBots (list) 
 
@@ -3147,7 +3147,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 **Wallpaper Managers**
 
-[Wallpaper Engine](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wallpaper_engine) / [PKG to Zip](https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip), [ScreenPlay](https://screen-play.app/), [backiee](https://www.microsoft.com/en-in/p/backiee-wallpaper-studio-10/9wzdncrfhzcd?activetab=pivot:overviewtab), [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper), [Daily Bing Wallpaper](https://github.com/sfn101/bing-daily-lively-wallpaper), [Awesome Wallpaper](http://awesome-wallpaper.com/), [tanck.nl](https://tanck.nl/wallpaper/)
+[Wallpaper Engine](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wallpaper_engine) / [PKG to Zip](https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip), [ScreenPlay](https://screen-play.app/), [backiee](https://www.microsoft.com/en-in/p/backiee-wallpaper-studio-10/9wzdncrfhzcd?activetab=pivot:overviewtab), [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper), [Daily Bing Wallpaper](https://github.com/sfn101/bing-daily-lively-wallpaper), [Awesome Wallpaper](http://awesome-wallpaper.com/), [tanck.nl](https://tanck.nl/wallpaper/, [SuperPaper](https://github.com/hhannine/superpaper)
 
 * [Wallery](https://github.com/metafates/Wallery) - Display Wallpapers
 * [Faerber](https://farbenfroh.io/faerber) - Edit Wallpaper to Match Color Scheme
@@ -3233,6 +3233,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 * [Total Commander](https://www.ghisler.com/)
 * [OldNewExplorer](https://m.majorgeeks.com/files/details/oldnewexplorer.html)
 * [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir)
+* [dnGrep](https://dngrep.github.io/)
 * [Sigma](https://github.com/aleksey-hoffman/sigma-file-manager)
 * [Quick Access Popup](https://www.quickaccesspopup.com/)
 * [Xplorer](https://github.com/kimlimjustin/xplorer)
