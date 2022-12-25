@@ -1232,7 +1232,7 @@
 * [Text Link](https://piro.sakura.ne.jp/xul/textlink/index.html.en) - Make Non-Hyperlinked URL's Clickable 
 * [Link Alert](https://www.cwesson.net/projects/LinkAlert/) - Link Type Indicator 
 * [Mitaka](https://github.com/ninoseki/mitaka) - Domain Info Lookup Tool
-* [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Auto Delete Cookies
+* [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) or [I Don't Care About Cookies](https://github.com/Darthagnon/idontcareaboutcookies-backup) (Pre-Avast) - Auto Delete Cookies
 * [Cookie Quick Manager](https://github.com/ysard/cookie-quick-manager), [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - Cookie Manager 
 * [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - Follow RSS Feeds
 * [Google Unblocked](https://github.com/Ibit-to/google-unlocked) - Uncensored Google Search
