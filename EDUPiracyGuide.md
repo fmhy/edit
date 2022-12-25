@@ -396,9 +396,9 @@ Simulator
 * ⭐ **[LibreTexts Chemistry](https://chem.libretexts.org)** - Chemistry Texts
 * ⭐ **[Internet Chemistry](https://www.internetchemistry.com/search.php)** or [ChemIDplus Advanced](https://chem.nlm.nih.gov/chemidplus/) - Search Index
 * [Tyler DeWitt](https://www.youtube.com/user/tdewitt451), [TheOrganicChemistryTutor](https://www.youtube.com/c/TheOrganicChemistryTutor), [Allery Chemistry](https://www.youtube.com/channel/UCPtWS4fCi25YHw5SPGdPz0g), [Khan Academy AP Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta), [PeriodicVideos](https://www.youtube.com/@periodicvideos) / [Periodic Table Videos](http://www.periodicvideos.com) - Chemistry Lessons
-* [ChemicalAid](https://en.intl.chemicalaid.com/) - Chemistry Calculators & Element Tables
-* [ChemgaPedia](https://www.chemgapedia.de/vsengine/en/index.html) - Chemistry Wiki
-* [ChemistrySteps](https://www.chemistrysteps.com/) - Chemistry Practice / Guides
+* [ChemicalAid](https://en.intl.chemicalaid.com/) - Chemistry Calculators / Element Tables
+* [ChemgaPedia](https://www.chemgapedia.de/vsengine/en/index.html), [MOTM](http://www.chm.bris.ac.uk/motm/motm.htm), [NIST](https://webbook.nist.gov/chemistry/) or [EssentialChemicalIndustry](https://www.essentialchemicalindustry.org/) - Chemistry Wikis
+* [ChemistrySteps](https://www.chemistrysteps.com/) or [DocBrown](https://docbrown.info/) - Chemistry Practice / Guides
 * [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii), [chemhelper](http://chemhelper.com/) or [chemguide](https://www.chemguide.co.uk) - Study Guides
 * [ChemistryTalk](https://chemistrytalk.org/) - Tutorials / Experiments / Elements / Reference Articles
 * [Sciencenotes](https://sciencenotes.org) - Periodic Tables / Chemistry Projects and Questions
@@ -780,6 +780,7 @@ Simulator
 * [Oak National Academy](https://teachers.thenational.academy/), [OLI](https://oli.cmu.edu/independent-learner-courses/) or [Runestone Interactive](https://runestone.academy/) - Lessons
 * [Quizlet](https://quizlet.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872) / [Explanations](https://greasyfork.org/en/scripts/434972), [2](https://greasyfork.org/en/scripts/438663)
 * [guIHelp](https://discord.gg/rgF9jY8CpH) - Bartleby, Quizlet, Coursehero & Scribd Bot
+* [HeroGenerator](https://discord.gg/ggBX8qqASC) - Courshero Document Generator / [Telegram](https://t.me/HeroGeneratorPure)
 * [Wikiversity](https://www.wikiversity.org/) or [Learnamic](https://www.learnamic.com/) - Learning Resources, Guides, Quizzes, Tools & More
 * [TurtleDiary](https://www.turtlediary.com/) - Quizzes / Lessons / Games
 * [SoftSchools](https://www.softschools.com/) or [EnchantedLearning](https://www.enchantedlearning.com/) - Worksheets / Games / Quizzes
@@ -799,7 +800,7 @@ Simulator
 * [/r/ApStudents Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2Fr.2Fapstudents_resources) - Former AP Exams
 * [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
 * [/r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
-* [AQA GCSE 2019](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_aqa_gcse_2019) - AQA 2019 GCSE Exams
+* [AQA GCSE 2019](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_aqa_gcse_2019) or [Revisely](https://www.revisely.co.uk/) - GCSE Exams
 * [Future Vision BIE](https://hemanthrajhemu.github.io/) - VTU Study Material
 * [CrackJee](https://www.crackjee.xyz/) - JEE & NEET Study Material + Answers
 * [JEEBOOKS](https://www.jeebooks.in/) - JEE, NEET, KVPY & CBSE Study Material
@@ -903,7 +904,7 @@ Simulator
 * [CollegeComendium](https://collegecompendium.goldin.io/) - Free Computer Science Classes
 * [Reddit-wiki-programming](https://github.com/antariksh17/Reddit-wiki-programming) - Computer Science Learning Resources
 * [CompSciLib](https://www.compscilib.com/) - Computer Science Tools
-* [Niche](https://www.niche.com/) or [Top Universities](https://www.topuniversities.com/) - University & School Rankings
+* [Niche](https://www.niche.com/), [TheUniGuide](https://www.theuniguide.co.uk/) or [Top Universities](https://www.topuniversities.com/) - University / School Comparisons 
 * [BachelorStudies](https://bachelorstudies.com/) - Bachelor Degree Search 
 * [College Map](https://nces.ed.gov/ipeds/collegemap/) - College Information Map
 * [RateMyDorm](https://ratemydorm.com) or [:)](https://docs.google.com/document/d/14Mn1CrA-CV5YZAkOZtrMKTmn2O4oL-2EhIXhzXZbO0A/edit#) - College Dorm Reviews
