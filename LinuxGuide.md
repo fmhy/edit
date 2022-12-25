@@ -157,6 +157,7 @@
 * [DidYouMean](https://github.com/hisbaan/didyoumean) - Grammar Check
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
 * [FlameGApps](https://github.com/flamegapps/flamegapps) - Google Apps Installer
+* [Sharing](https://github.com/parvardegr/sharing) - Transfer Files to Phone
 * [Soulseek](https://www.slsknet.org/SoulseekQt/Linux/SoulseekQt-2018-1-30-64bit-appimage.tgz) - File Sharing App
 * [maestral](https://maestral.app/) - Dropbox Client
 * [PeerVPN](https://peervpn.net/) - P2P VPN
