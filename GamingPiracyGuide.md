@@ -122,7 +122,6 @@
 * ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - [Discord](https://discord.gg/Up3YARe4RW)
 * ⭐ **[DODI](http://dodi-repacks.site/)** - [Discord](https://discord.gg/uE273qJ)
 * ⭐ **[ScOOter Repacks](https://scooter-repacks.site/)** - [Discord](https://discord.gg/BWKyN8SgvM)
-* ⭐ **[ElAmigos Games](https://elamigos.site/)**
 * ⭐ **[Xatab Repack](https://b.otxataba.net/)**, [2](https://s1.otxatabanet.ru/), [3](https://m.byxatab.com/)
 * ⭐ **[RePack.info](https://repack.info/)**
 * ⭐ **[Tuttop](https://tuttop.com/)** 
