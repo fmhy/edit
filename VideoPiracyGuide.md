@@ -22,7 +22,6 @@
 * ⭐ **[UniqueStream](https://uniquestream.net/)** - Movies / TV
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV
 * ⭐ **[Movies.cf](https://movies.cf/Landing)** - Movies
-* ⭐ **[123MoviesGoTo](https://123moviesgoto.com/)** -  Movies / TV
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
 * [Tubi](https://tubitv.com) - Movies / TV / Use Adblock / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
 * [SockShare](http://sockshare.ac/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones) / Use Adblock
@@ -45,6 +44,7 @@
 * [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / Library Card Required
 * [GoStream](https://gostream.site/) or [VexMovies](http://vexmovies.org/) - Movies / TV
 * [KissKH](https://kisskh.me/Explore?type=4) - Movies / TV / Anime
+* [123MoviesGoTo](https://123moviesgoto.com/) -  Movies / TV
 * [123MoviesFree](https://ww1.123moviesfree.net/) - Movies / TV / Anime
 * [StreamLord](http://www.streamlord.com/) - Movies / TV
 * [Trailers.to](https://trailers.to/) - Movies / TV / [Bypass Quota](https://openvideofs.github.io/)
