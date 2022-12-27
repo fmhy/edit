@@ -2943,7 +2943,6 @@ Add the following commands to a search to manually scrape each site.
 
 * https://github.com/junedkh/jmdkh-mltb / [2](https://github.com/anasty17/mirror-leech-telegram-bot)
 * https://t.me/kltorrents 
-* https://t.me/torrent_drive_direct_llinks_bot
 * https://t.me/torrentdrive_bot
 * https://t.me/torrent_2_drive
 * https://t.me/torrent_drive
