@@ -539,7 +539,7 @@
 
 ## ▷ Instagram Tools
 
-* ⭐ **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)** or [InstaFollowers](https://www.instafollowers.co/instagram-tools) - Multiple Tools 
+* [Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/) or [InstaFollowers](https://www.instafollowers.co/instagram-tools) - Multiple Tools 
 * [GridsApp](https://gridsapp.net/) - Desktop Client
 * [InstaKiller](https://github.com/InstaKiller/InstaKiller) - Instagram CLI
 * [Bypass Login](https://greasyfork.org/en/scripts/420604) - Bypass Instagram Login Redirects
