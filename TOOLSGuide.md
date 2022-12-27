@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/KSQAUFG.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/UgHvzNX.png)** - For mobile users
 
 ***
 *** 
@@ -1682,6 +1682,10 @@ Twitch Stream Tracker
 * [Birthday Calendar Exporter](https://github.com/zagushka/birthday-calendar-extractor) - Birthday Calendar Extractor for Facebook
 * [FriendFilter](https://friendfilter.io/) - Friend Filter for Facebook
 * [Lookup ID](https://lookup-id.com/) - Find Facebook ID
+
+***
+
+## ▷ [Instagram Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_instagram_tools)
 
 ***
 
