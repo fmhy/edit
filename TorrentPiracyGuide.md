@@ -108,7 +108,7 @@
 * [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Software / Games / Books
 * [YourBittorrent](https://yourbittorrent.com/), [2](https://yourbittorrent2.com/) - Video / Audio / Software / Games / Books / NSFW
 * [ProStyleX](https://prostylex.org/) - Video / Audio / Books / Games / Software / NSFW  
-* [IsoHunt](http://isohunt.ee/), [IsoHunts](https://isohunts.to/) or [IsoHunt.nz](https://isohunt.nz/) - Video / Audio / Games / Software / Books
+* [IsoHunt](https://isohunts.to/) or [IsoHunt.nz](https://isohunt.nz/) - Video / Audio / Games / Software / Books
 * [ExT](https://ext.to/), [2](https://site.extto.com/) - Video / Audio / Games / Software / Books
 * [rutor.info](http://rutor.info) or [rutor.is](http://rutor.is/) - Video / Audio / Games / Software / Books / Roms / Magazines
 * [NNM-Club](https://nnmclub.to/) - Video / Audio / Software / Games / [Note](https://i.imgur.com/m42r0jU.png)
@@ -122,7 +122,6 @@
 * [Fost.ws](https://fost.ws/) - Software / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [AudioNews](https://audionews.org/) - Audio Software 
 * [m0nkrus](http://w14.monkrus.ws/) - Adobe Software archive
-* [upawg](https://upawg.ca) - Index of Audio Products
 * [Telegram Torrents](https://duckduckgo.com/?q=site%3At.me+torrent&ia=web) - Telegram Torrent Channels
 * [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/) - [ZeroNet Required](https://zeronet.io/) / Video / Audio / Software / Games
 * [4chan /t/](https://boards.4chan.org/t/) - Torrents / Imageboard / Some NSFW 
@@ -137,7 +136,6 @@
 * ⭐ **[FileListing](https://filelisting.com)** 
 * ⭐ **[snowfl](https://snowfl.com/)** 
 * ⭐ **[Knaben](https://knaben.eu/)**
-* [Zooqle](https://zooqle.com/) 
 * [iDope](https://idope.se) 
 * [Bitsearch](https://bitsearch.to/)
 * [Torrent Finder](https://torrent-finder.com/) 
@@ -155,7 +153,6 @@
 * [ExtraTorrent](https://extratorrent.unblockit.kim/) 
 * [Torrent Download](http://www.torentdownloads.narod.ru/) 
 * [TorrentMag](https://www.torrentmag.net/) 
-* [Torrent.nz](https://torrent.nz/) 
 * [Torrenteer](http://torrenteer.ddns.net/)
 * [TorrentProject2](https://torrentproject2.com/), [2](https://torrentproject2.net/) / [Script](https://gist.github.com/byzantium225/7cd2287548c81f00dcca923617dcc69e) (click "Raw" to install)
 * [ciligou0](http://ciligou0.com/) 
@@ -223,7 +220,7 @@
 
 # ► Helpful Sites / Apps
 
-* ⭐ **[PreDB](https://predb.me/)** / [2](https://predb.de/) / [3](https://predb.xyz/), [PreDB Live](https://predb.live/), [M2V](https://m2v.ru/), [Xrel](https://www.xrel.to/) or [srrDB](https://www.srrdb.com/) - Scene Release Tracker
+* ⭐ **[PreDB](https://predb.me/)** / [2](https://predb.de/), [PreDB Live](https://predb.live/), [M2V](https://m2v.ru/), [Xrel](https://www.xrel.to/) or [srrDB](https://www.srrdb.com/) - Scene Release Tracker
 * ⭐ **[Tracker Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tracker_lists)** - Updated lists of BitTorrent trackers 
 * ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](https://www.torrentkitty.com) / [3](https://www.torrentkitty.net/) / [4](https://www.torrentkitty.lol/) / [5](https://torrentkitty.se/) - Torrent to Magnet Converter
 * ⭐ **[Auto Torrent Tools List](https://redd.it/hbwnb2)**, [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
