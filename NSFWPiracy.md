@@ -224,13 +224,11 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [SimpCity](https://simpcity.su/) - OnlyFans / Patreon
 * [NsfwLeak](https://nsfwleak.com/) - OnlyFans
 * [LeakedNudes](https://leakednudes.co/) - OnlyFans
-* [PremiumModels](http://reddit.com/r/PremiumModels) - OnlyFans
 * [Haven Explicit](https://t.me/+jUBOyDju3zQ0OWY0) - OnlyFans
 * [OF-Models](http://of-model.com/) - OnlyFans
 * [BadGirlsArchive](https://badgirlsarchive.site/) - OnlyFans / Patreon
 * [PornLeaks](https://pornleaks.in/) - OnlyFans / Patreon
 * [Memory Hole](https://memoryhole.cc/) - OnlyFans / Patreon
-* [Pornlyfans](https://ufile.io/d6jdix9i) - OnlyFans
 * [thotupload](https://thotupload.com/) - OnlyFans
 * Add `site:cyberdrop.me` to search onlyfans leaks
 
