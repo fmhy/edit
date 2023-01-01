@@ -554,9 +554,10 @@
 * ⭐ **[Psiphon](https://psiphon.ca/)** - [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png)
 * ⭐ **[Lantern](https://lantern.io/en_US/index.html)** 
 * [Acrylic](http://mayakron.altervista.org/)
-* [Tsunami](https://github.com/FogNetwork/Tsunami) 
+* [Tsunami](https://github.com/FogNetwork/Tsunami)
 * [Shadowsocks](https://shadowsocks.org/) - [Free Servers](https://github.com/ruanfei/ShadowsocksRRShare), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows)
 * [FilterBypass](https://www.filterbypass.me/) 
+* [Proxifier](https://www.proxifier.com/) - [Keys](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_proxifier_keys)
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy)
 * [Hysteria](https://github.com/HyNetwork/hysteria)
 * [Xray](https://github.com/XTLS/Xray-core) - [Telegram](https://t.me/projectXray)
