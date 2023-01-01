@@ -580,10 +580,10 @@
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - Blur Images / Scrub Metadata
 * [Adversarial](https://adversarial.io/) - Make Images Machine-Unreadable 
 * [BetterCensorship](https://bc.betterrepack.com/) - Censor and De-censor Images
-* [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi), [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - EXIF / Metadata Viewer 
-* [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [MGOnline](https://www.imgonline.com.ua/delete-exif.php), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data 
+* [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi), [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/), [ExifLooter](https://github.com/aydinnyunus/exifLooter) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - EXIF / Metadata Viewers
+* [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [MAT2](https://matweb.info/), [EXIFRemove](https://www.exifremove.com/), [MGOnline](https://www.imgonline.com.ua/delete-exif.php), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data 
 * [Pic2Map](https://www.pic2map.com/) - Image EXIF data viewer with GPS support
-* [TheExifer](https://www.thexifer.net/index.php) or [Exiv2](https://www.exiv2.org/) - Image EXIF Data Editor 
+* [TheExifer](https://www.thexifer.net/index.php) or [Exiv2](https://www.exiv2.org/) - Image EXIF Data Editors 
 * [Nameexif](https://us.digicamsoft.com/softnamexif.html) - Bulk Image EXIF Data Editor
 * [PictureCipher](https://keitharm.me/projects/picturecipher/index.php) or [Base64 Image](https://www.base64-image.de/) - Encrypt / Decrypt Images 
 * [BetaFace](https://www.betaface.com/demo.html) or [Face Recognition](https://github.com/ageitgey/face_recognition) - Facial Recognition 
