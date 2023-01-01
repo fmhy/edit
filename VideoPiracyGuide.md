@@ -73,6 +73,7 @@
 * [MKVKing](https://111.90.158.128/) - Movies / TV
 * [Daily iFlix](https://dailyiflix.com) - Movies / TV
 * [PrimeMoviesFlix](https://primemoviesflix.com) - Movies / TV / Anime
+* [Afdah.live](https://afdah.live/) - Movies / TV
 * [TheFlix](https://theflix.to/) - Movies / TV / Requires Signup
 * [Flixtor](https://flixtor.to) - Movies / TV / Movies Older Than 6 Months For Premium Only
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_google_teamdrives) - Movies / TV / Anime
@@ -494,6 +495,7 @@
 * ⭐ **[WatchWrestling24](http://watchwrestling24.net/)** - MMA / Wrestling
 * [FootballOrigin](https://www.footballorgin.com/) - Soccer
 * [Footballia](https://footballia.net/) - Soccer
+* [Footyfull](https://footyfull.com/) - Soccer
 * [Sport Video](https://www.sport-video.org.ua/) - Multiple Sports / Torrents
 * [AllWrestling](https://www.allwrestling.online/) - MMA / Wrestling
 * [WatchWrestling.ai](https://watchwrestling.ai/) - MMA / Wrestling
@@ -943,6 +945,7 @@
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Anime 
 * ⭐ **MAL Tools** - [Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/)
 * ⭐ **[ICheckMovies](https://www.icheckmovies.com/)** - Movies / List Database / [Enhanced](https://greasyfork.org/en/scripts/11541-icheckmovies-enhanced)
+* [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Movie / TV / Anime Recommendation Guides
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - Movies / TV
 * [IMDb](https://www.imdb.com/) or [TMDb](https://www.themoviedb.org/) - Movies / TV / Anime
 * [IMDb Tomatoes](https://greasyfork.org/en/scripts/15222-imdb-tomatoes) - Rotten Tomatoes Ratings on IMDb
