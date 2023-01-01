@@ -582,7 +582,6 @@
 
 ## ▷ Downloading
 
-* [Mkv Cinemas](https://www.mkvcinemas.fi/) - Movies / TV 
 * [9xMovies](https://9xmovies.yoga/), [2](https://9xmovies.horse/) - Movies / TV 
 * [OlaMovies](https://olamovies.lol/) - Movies / TV / [Telegram](https://t.me/olamovies_official_v2) 
 * [MoviesMod](https://moviesmod.in/) - Movies / TV / [Telegram](https://t.me/moviesflixverse) 
