@@ -45,7 +45,7 @@
 * [Docket-Jacket](https://github.com/linuxserver/docker-jackett) - Docker Jacket Container
 * [Redroid](https://github.com/remote-android/redroid-doc) - Android Emulator
 * [Spot](https://github.com/xou816/spot) - Spotify Desktop Client for Gnome
-* [spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify Client
+* [spotify-qt](https://github.com/kraxarn/spotify-qt) or [SpotifyD](https://github.com/Spotifyd/spotifyd) - Spotify Clients
 * [Librespot-Python](https://github.com/kokarare1212/librespot-python) - Spotify TUI
 * [Deezer Linux](https://github.com/aunetx/deezer-linux) - Deezer Client
 * [Myuzi](https://gitlab.com/zehkira/myuzi) - Music Streaming App
@@ -163,6 +163,7 @@
 * [PeerVPN](https://peervpn.net/) - P2P VPN
 * [GNU Social](https://www.gnusocial.rocks/) / [2](https://gnusocial.network/) - Self-Hosted Social Networking Platform
 * [Hexchat](https://hexchat.github.io/), [Adium](https://adium.im/), [Polari](https://wiki.gnome.org/Apps/Polari), [Irssi](https://github.com/irssi/irssi), [KVIrc](http://www.kvirc.net/) or [Weechat](https://weechat.org/) - IRC Clients
+* [gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Client
 * [Ghetto Skype](https://github.com/stanfieldr/ghetto-skype) - Video / Chat Client
 * [Whatsdesk](https://zerkc.gitlab.io/whatsdesk/) or [ZapZap](https://github.com/rafatosta/zapzap) - WhatsApp Client
 * [Linux-dash](https://github.com/afaqurk/linux-dash) - Web-based System Dashboard
