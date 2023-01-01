@@ -228,12 +228,12 @@
 * [Computer Softwares](https://t.me/Computer_Softwares_Games_Windows) - Telegram
 * [PC Cracked Software](https://t.me/pc_cracked_softwares) - Telegram
 * [Windows Softwares](https://t.me/Windows_Softwares_Pc_Games), [2](https://t.me/windows_softwares) - Telegram
-* [raymondfreesoftware](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g)
+* [raymondfreesoftware](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g) - Telegram
 * [Rarewares](https://www.rarewares.org/) - Rare Software
 * [store.rg](https://store.rg-adguard.net/) - Paid Microsoft Store Link Generator / [Guide](https://rentry.co/paidAppsMsStore)
 * [PLC4Me](https://plc4me.com/) - Automation Software
 * [civileng_soft](https://t.me/civileng_soft) - Civil Engineering Software
-* [Radixx11](https://radixx11rce3.blogspot.com/), [Izofile](https://izofile.com/), [Soft2Ev](https://www.soft2ev.com/), [Keygen Fortress](https://t.me/keygen_fortress), [SmartSerials](https://smartserials.com/) or [SerialReactor](https://serialreactor.com/) - Software Keys / Patches
+* [Radixx11](https://radixx11rce3.blogspot.com/) or [SmartSerials](https://smartserials.com/) - Software Keys / Patches
 * [Software Heritage](https://www.softwareheritage.org/) - Software Source Code Archive
 * [balenaHub](https://hub.balena.io/) - Raspberry Pi Software
 * [CSDb](https://csdb.dk/) - Commodore 64 Resources
