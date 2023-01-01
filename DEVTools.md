@@ -60,7 +60,7 @@
 * [RoboMind](https://www.robomind.net/) or [Checki0](https://checkio.org/) - Code Learning Games
 * [mimo](https://getmimo.com/) - Coding Tutorial App
 * [LintCode](https://www.lintcode.com/) or [CodeWars](https://www.codewars.com/) - Coding Practice
-* [Coding Questions](https://platform.stratascratch.com/coding) - Coding Interview Questions 
+* [Coding Questions](https://platform.stratascratch.com/coding) - Coding Interview Questions
 * [Code With Mosh Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_code_with_mosh_courses)
 * [Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources) or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources
 * [picoCTF](https://picoctf.org/), [CTFLearn](https://ctflearn.com/), [HTB](https://academy.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
@@ -541,7 +541,7 @@
 * [http-server](https://github.com/http-party/http-server) - No Config HTTP Server
 * [Apache](https://httpd.apache.org/) - HTTP Server
 * [h5ai](https://larsjung.de/h5ai/) - HTTP Web Server Index / [GitHub](https://github.com/lrsjng/h5ai)
-* [SyAgent](https://syagent.com/) or [HertzBeat](https://hertzbeat.com/en/) - Server Monitors
+* [SyAgent](https://syagent.com/), [TA Vivo](https://github.com/ta-vivo/ta-vivo) or [HertzBeat](https://hertzbeat.com/en/) - Server Monitors
 * [UI Design Daily](https://www.uidesigndaily.com/) - Free UI Design Resources
 * [Open UI](https://open-ui.org/) - Open Standard UI
 * [CodeMyUI](https://codemyui.com/) or [Semantic UI](https://semantic-ui.com/) - User Interface Code Snippets
@@ -931,6 +931,7 @@ Automated Incident Response and Forensics Framework
 * [Awesome First PR Oppotunities](https://github.com/MunGell/awesome-for-beginners) - Beginner Friendly FOSS Project Index
 * [Git Extensions](https://gitextensions.github.io/) or [Thermal](https://thermal.codecarrot.net/) - Git Repository Manager
 * [GitZip](https://gitzip.org/) or [DownGit](https://minhaskamal.github.io/DownGit) - Download GitHub Repository Sub-Folders / Files
+* [Install from GitHub](https://github.com/MaxGyver83/install-from-github) - Install Packages / Binaries Directly from GitHub 
 * [GitHub Wiki Search](https://github.com/linyows/github-wiki-search) - Search GitHub Repository Wikis
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - GitHub Fork Search 
 * [Active-Forks](https://techgaun.github.io/active-forks/index.html) - Find Active GitHub Forks / [GitHub](https://github.com/techgaun/active-forks)
@@ -939,7 +940,7 @@ Automated Incident Response and Forensics Framework
 * [OctoLinker](https://octolinker.now.sh/) - Make GitHub Code References Clickable 
 * [Ugit](https://github.com/Bhupesh-V/ugit) - Undo Git Commands
 * [Octotree](https://www.octotree.io/) - GitHub Repo File Tree View 
-* [Onefetch](https://github.com/o2sh/onefetch) - Git Repo Simmary in Terminal
+* [Onefetch](https://github.com/o2sh/onefetch) - Git Repo Summary in Terminal
 * [Nightly.link](https://nightly.link/) - GitHub Sharable Nightly Links
 * [Sourcegraph](https://about.sourcegraph.com/) - GitHub Repository Sourcegraph Editor 
 * [onefetch](https://github.com/o2sh/onefetch) - Git Information Terminal
@@ -948,6 +949,7 @@ Automated Incident Response and Forensics Framework
 * [Gidget](https://github.com/GDGVIT/gidget) - Pull Request Notifier / Android
 * [Whats New GitHub](https://github.com/flawyte/whats-new-github) or [GithubReleasesBot](https://telegram.me/GithubReleasesBot) - Repository Change Feeds 
 * [Conventional Commits](https://www.conventionalcommits.org/) - Commit Message Specification
+* [lastversion](https://github.com/dvershinin/lastversion) or [ghrel](https://github.com/jreisinger/ghrel) - Download / View Latest Stable Repos
 * [Git Cliff](https://github.com/orhun/git-cliff) - Changelog Generator
 * [GitHub Markdown Preview](http://aviaryan.in/javascripts/github.md/) - Preview Markdown
 * [ReadmeGallery](http://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/) - GitHub Remdme Gallery Creator
