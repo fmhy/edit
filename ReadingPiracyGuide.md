@@ -1011,12 +1011,13 @@
 * [MangaManage](https://github.com/Daedren/MangaManage) - Tachiyomi Download Manager
 * [Manga APIs](https://rentry.co/manga-apis) - Manga Site API's
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Release Updates  
-* [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress & Keyboard Support
+* [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
 * [MangaOnlineViewer](https://github.com/TagoDR/MangaOnlineViewer) - Load Pages into One Viewer
 * [MangaEditor](https://moeka.me/mangaEditor/) - Online Manga Editor
 * [CBZ-Manga-Creator](https://github.com/PonyLucky/CBZ-Manga-Creator) - Image to CBZ Converter
 * [MangaCord](https://top.gg/bot/751148743901970622?tab=overview) - Read Manga on Discord [Disocrd](https://discord.gg/UtTJcWzCRe)
 * [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en), [manga-translator](https://github.com/cameronkinsella/manga-translator) or [Scanlate](https://scanlate.io/) - Manga Translator
+* [TheJadedNetwork](http://thejadednetwork.com/sfx/) - Japanese SFX Translations / [PDF](https://drive.google.com/file/d/1ean3beoWJmz__yu67OqNa8CKNMlrvCSd/)
 * [Manga-Tagger](https://github.com/inpacchi/manga-tagger) - Manga Metadata
 
 ***
@@ -1180,7 +1181,8 @@
 * ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga (Has Obscure Stuff) 
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comics
 * ⭐ **[TasteDive](https://tastedive.com/)** - Book Recommendations
-* [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Book & Comic Recommendations
+* [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Books / Comics / Manga Recommendation Guides
+* [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Book / Comic Recommendations
 * [BookHype](https://bookhype.com/) - Books
 * [Oku](https://oku.club/) - Books
 * [StoryGraph](https://www.thestorygraph.com/) - Books
