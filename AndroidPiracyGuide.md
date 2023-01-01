@@ -237,7 +237,6 @@
 * [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - Audio Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
 * [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistant
-* [My Expenses](https://f-droid.org/packages/org.totschnig.myexpenses/) - Finance Manager
 * [KeyMapper](https://github.com/keymapperorg/KeyMapper) - Key Mapper
 * [openboard](https://github.com/dslul/openboard) - FOSS Keyboard App
 * [UnicodePad](https://github.com/Ryosuke839/UnicodePad) - Emoji / Unicode Manager
@@ -969,6 +968,7 @@
 
 # ► iOS Jailbreaking
 
+* ⭐ **[iOS Jailbreak Guide](https://ios.cfw.guide/)** - Jailbreaking Guide
 * ⭐ **[Complete Jailbreak Chart](https://appledb.dev/)** - Jailbreak Tools Index
 * [PostBox](https://www.postbox.news/) - Jailbreak News App / [Discord](https://discord.gg/maPagQDmnw)
 * [/r/jailbreak](https://reddit.com/r/jailbreak) - Jailbreaking Subreddit
@@ -983,7 +983,6 @@
 * [Odyssey](https://theodyssey.dev/) - 13.0 to 13.7 Semi-tethered Jailbreak / [Discord](https://discord.gg/sileo) 
 * [Chimera](https://chimera.coolstar.org/) - 12.0 to 12.5.5 Jailbreak
 * [Unc0ver](https://unc0ver.dev/) - 11.0 to 14.8 Jailbreak / [Procursus](https://dark.diatr.us) / [GitHub](https://github.com/pwn20wndstuff/Undecimus)
-* [LiberiOS](https://github.com/LiberiOS/LiberiOS) - 11.0-11.1.2 Jailbreak
 * [Meridian](https://meridian.sparkes.zone/) - 10.0-10.3.3 Jailbreak 
 * [sockH3lix](https://github.com/SongXiaoXi/sockH3lix/releases/tag/v1.4) - 10.0.1 up to 10.3.3 Jailbreak
 * [doubleH3lix](https://github.com/tihmstar/doubleH3lix) - 10.0 up to 10.3.3 Jailbreak
@@ -1005,7 +1004,6 @@
 * [redsn0w](https://sites.google.com/a/iphone-dev.com/files/home/) - 3.0 to 3.1 Jailbreak
 * [IPA Apps](https://ipa-apps.me/) - Jailbreak Tools & Apps
 * [IPACandy](https://ipacandy.com/) - Jailbreaking Tools
-* [checkn1x](https://github.com/asineth0/checkn1x) - Jailbreaking Tool
 * [Fugu](https://github.com/LinusHenze/Fugu) - Jailbreaking Tool
 * [ipwndfu](https://github.com/axi0mX/ipwndfu) - Jailbreaking Tool
 * [n1ghtshade](https://github.com/synackuk/n1ghtshade/releases) - 32bit Jailbreaking Tool
@@ -1025,7 +1023,6 @@
 * [TSSChecker](https://github.com/tihmstar/tsschecker) - Check TSS Signing Status
 * [FutureRestore](https://github.com/tihmstar/futurerestore) - Restore to Unsigned Firmware / [GUI](https://github.com/CoocooFroggy/FutureRestore-GUI/)
 * [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app), [AppTapp Installer](https://apptapp.me/repo) / [Discord](https://discordapp.com/invite/kkwKTB8), [Saily](https://github.com/SailyTeam/Saily) or [Zebra](https://getzbra.com/) - APT Package Manager / [Website](https://getsileo.app/)
-* [Icy](https://github.com/ArtikusHG/IcyInstaller3) - DPKG Installer
 
 ***
 
@@ -1188,7 +1185,7 @@
 
 * ⭐ **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open Source iOS App Index
 * ⭐ **[ReJail](https://rejail.ru/)** - App / Tweak Repository
-* [CyPwn](https://repo.cypwn.xyz/), [2](https://ipa.cypwn.xyz/) - App Repository / [Discord](https://discord.gg/cypwn)
+* ⭐ **[CyPwn](https://repo.cypwn.xyz/)**, [2](https://ipa.cypwn.xyz/) - App Repository / [Discord](https://discord.gg/cypwn)
 * [AppDB](https://appdb.to/) - iOS Apps 
 * [AppAddict](https://www.appaddict.org/) - iOS Apps
 * [TrollStore](https://github.com/opa334/TrollStore) - iOS Apps / 15.0 to 15.1.1
