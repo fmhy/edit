@@ -55,6 +55,7 @@
 * [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - To-Do List Apps
 * [Creative Commons](https://creativecommons.org/) - Creative Commons Licenses
 * [ievaphone](https://ievaphone.com/), [blacktel](https://www.blacktel.io/), [Citrustel](https://www.citrustel.com/) or [PopTox](https://www.poptox.com/) - Make Free Phone Calls
+* [MyPhone](https://github.com/BestOwl/MyPhone) - Make Calls via Desktop
 * [Free-lookup](https://www.free-lookup.net/) - Phone # Lookup
 * [tuxi](https://github.com/Bugswriter/tuxi) - Question & Answer CLI
 * [Carbon Independent](https://www.carbonindependent.org/) - Carbon Footprint Calculator
@@ -219,8 +220,9 @@
 * [Dictation](https://dictation.io/speech), [SpeechTexter](https://www.speechtexter.com/), [ConvertSpeech](https://www.convertspeech.com/), [SpeechNotes](https://speechnotes.co/), [LilySpeech](https://lilyspeech.com/), [VoiceToText](https://voicetotext.org/), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
 * [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) or [HandWrittner](https://handwrittner.com/?lang=en) - Text to Handwriting Converter
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - Extract Text From Any Window
-* [ExtractMailAddress](https://extractemailaddress.com/) - Extract Email's, URLs & Numbers from Text
-* [Scanner](https://simon-knuth.github.io/scanner/index) - Scanner App / [GitHub](https://github.com/simon-knuth/scanner)
+* [ExtractMailAddress](https://extractemailaddress.com/) - Extract Email's, URLs and Numbers from Text
+* [Content Parser](https://content-parser.com/) - Extract Markdown, HTML and Text from Sites
+* [Scanner](https://simon-knuth.github.io/scanner/index) or [NAPS2](https://www.naps2.com/) - Scanner App / [GitHub](https://github.com/simon-knuth/scanner)
 * [MakeSweet](https://makesweet.com/) - Send 3D Messages
 * [StegCloak](https://stegcloak.surge.sh/) - Hide Messages in Text
 * [telescopictext](https://www.telescopictext.org/) - Write Text Within Text
@@ -453,12 +455,12 @@
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - Professional Video, Audio & Adobe Software / Plugins
 * [Free-Codecs](https://www.free-codecs.com/) - Codec Packs & Multimedia Tools
 * [Audio Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_plugins) or [LoopTorrent](https://looptorrent.net/) - VST Plugins 
-* [Free Sound Effects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sfx_.2F_loops) - SFX & Loops
+* [Free Sound Effects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sfx_.2F_loops) - SFX / Loops
 * [Thirtydollar.website](https://thirtydollar.website/) - Meme Sound Maker
 * [SNES Soundfonts](https://www.williamkage.com/snes_soundfonts/) - SNES Soundfonts
 * [Songwhip](https://songwhip.com/) - Find / Share Your Music on All Platforms
 * [rFXGen](https://raylibtech.itch.io/rfxgen), [Bfxr](https://iznaut.itch.io/bfxr), [ChipTone](https://sfbgames.itch.io/chiptone) or [SFXR](https://sfxr.me/) - Sounds Effects Creator
-* [Fresh Stuff For You](https://freshstuff4you.com/) - DAWs / Samples / Presets
+* [Fresh Stuff For You](https://freshstuff4you.com/) or [PresetShare](https://presetshare.com/) - DAWs / Samples / Presets
 * [Plugin Clouds Archive](https://t.me/plugincloudsarchive) - DAW Plugins
 * [FlsAudio](https://flsaudio.com/en/gb/) - FLStudio Samples / Presets / Plugins
 * [VeryLeaks](https://veryleaks.cz/), [DKL](https://discord.com/invite/69zpb6XH8f) or [Producerwav](https://producerwav.com/free/) - Drum Kits
@@ -653,7 +655,7 @@
 * [Common Interview Q&A](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) or [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) or [30-seconds-of-interviews](https://30secondsofinterviews.org/) / [GitHub](https://github.com/30-seconds/30-seconds-of-interviews) - Common Interview Q&As
 * [Reverse Interview](https://github.com/viraptor/reverse-interview) or [job-interview-questions-to-ask-companies](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - Questions to ask Potential Employers
 * [LeetFree](https://doocs.github.io/leetcode/#/README_EN), [2](https://github.com/doocs/leetcode/blob/main/README_EN.md) - Leaked Google, Facebook & Amazon Interview Questions
-* [Interviews.school](https://interviews.school/) - Developer Interview Preparation Guide
+* [Interviews.school](https://interviews.school/) or [InterviewThis](https://github.com/Twipped/InterviewThis) - Developer Interview Preparation Guides
 * [yangshun](https://github.com/yangshun/tech-interview-handbook) - Tech Interview Handbook
 * [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
 * [Nomad List](https://nomadlist.com/) - Remote Job Listings
@@ -711,7 +713,7 @@
 * [GetFreeIMEBooks](https://www.getfreeimebooks.com/) - Digital Marketing Resources
 * [Systeme](https://systeme.io/) - Marketing Tools
 * [HLDMSIYS?](http://howlongdoesmarijuanastayinyoursystem.net/) - Drug Effect Duration / Testing Information
-* [HomeBank](http://homebank.free.fr/), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://www.moneymanagerex.org/), [Ledger](https://www.ledger-cli.org/) or [gnucash](https://www.gnucash.org/) - Financial Management Tools
+* [HomeBank](http://homebank.free.fr/), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://www.moneymanagerex.org/), [Ledger](https://www.ledger-cli.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa), [My Expenses](https://f-droid.org/packages/org.totschnig.myexpenses/), [Sushi](https://github.com/jerameel/sushi) or [gnucash](https://www.gnucash.org/) - Finance Managers
 * [financial_advice](https://github.com/emilepetrone/financial_advice) - Financial Lessons
 * [Stocksera](https://stocksera.pythonanywhere.com/) or [Screener](https://www.screener.in/) - Stock Tracker
 * [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) - Send TradingView Alerts to Various Apps / [Index](https://github.com/pAulseperformance/awesome-pinescript)
@@ -1091,7 +1093,7 @@
 * [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
 * [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
 * [offf.to](https://offf.to/) - Short Links via Browser
-* [ThisDay](https://thisday.link/) - Temporary Short Links
+* [ThisDay](https://thisday.link/) or [BR3F](https://www.br3f.com/) - Temporary Short Links
 * [Anonymiz](https://anonymiz.com/shorten-url) - Anonymous URLs - `anonymiz.com/vwiq`
 * [Anon.to](https://anon.to/) - Anonymous URLs - `anon.to/7SWqpG`
 * [Thinfi](https://thinfi.com/) - Password protect a short URL - `thinfi.com/q8aw`
@@ -1384,6 +1386,7 @@
 * [Callmebot](https://www.callmebot.com/) - Trigger Voice Calls or Chats
 * [Skeddy](https://skeddy.me/) - Telegram Reminder Bot
 * [clonebot](https://github.com/m4mallu/clonebot) - Clone Media from Chats
+* [Telegram Stat](https://github.com/orsinium-labs/telegram-stat) - Extract Telegram Channel Stats
 * [ChecklyBot](https://t.me/checklybot) - Checklist Telegram Bot
 * [Reddit2Telegram](https://github.com/Fillll/reddit2telegram) - Reddit Post Bot
 * [Shieldy Bot](https://t.me/shieldy_bot) - Spam Protection Bot / [GitHub](https://github.com/1inch/shieldy)
@@ -1826,6 +1829,7 @@ Twitch Stream Tracker
 * [DefaultProgramsEditor](https://defaultprogramseditor.com/) - File Association Editor
 * [RegExp](https://github.com/zodiacon/RegExp), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Improved Registry Explorers
 * [Desktop Management](https://github.com/DeveloperWOW64/deskmgr) - Improved Computer Management
+* [Flake](https://github.com/jordanm88/flame-dashboard) - Self-Hosted Desktop Startpage
 * [Open Shell](https://open-shell.github.io/Open-Shell-Menu/), [2](https://github.com/Open-Shell/Open-Shell-Menu), [ValliStart](https://github.com/Jax-Core/ValliStart) or [SystemTrayMenu](http://hofknecht.eu/systemtraymenu) / [GitHub](https://github.com/Hofknecht/SystemTrayMenu) - Improved Start Menu 
 * [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - Classic Start Menu 
 * [TilelConfier](https://github.com/Jonno12345/TileIconifier) - Start Menu Icon Tiles
@@ -2054,8 +2058,9 @@ Twitch Stream Tracker
 * [ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fix Excel on Themed Windows 
 * [Accent Applicator](https://github.com/mcdenis/AccentApplicator) - Applies Win 10 Accent Color to OS
 * [ModernWinver](https://github.com/torchgm/NewModernWinver) - Modernize the About Windows Screen
-* [pyWinContext](https://github.com/VodBox/pyWinContext) or [WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - Custom Context Menu Manager 
-* [Modern Flyouts](https://www.microsoft.com/en-gb/p/modernflyouts-preview/9mt60qv066rp?activetab=pivot:overviewtab) - Modern & Fluent Flyouts for Windows / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
+* [pyWinContext](https://github.com/VodBox/pyWinContext) or [WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - Custom Context Menu Manager
+* [TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Translucent Context Menus
+* [Modern Flyouts](https://www.microsoft.com/en-gb/p/modernflyouts-preview/9mt60qv066rp?activetab=pivot:overviewtab) - Modern Context Menus / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
 * [WindowFX](https://www.stardock.com/products/windowfx/) - System Animation Effects / [Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_windowfx_premium)
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10 Search Appearance Tweaker
 * [Windows 11 for Windows 10](https://www.deviantart.com/niivu/art/Windows-11-for-Windows-10-882819383) - Windows 11 Theme / [Icons](https://www.deviantart.com/niivu/art/Windows-11-Icon-Themes-874289797)
