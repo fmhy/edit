@@ -795,6 +795,7 @@
 * ⭐ **[Grouvee](https://www.grouvee.com/)** - Game Tracker
 * ⭐ **[TasteDive](https://tastedive.com/)** - Game Recommendations
 * [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
+* [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Game Recommendation Guides
 * [OpenCritic](https://opencritic.com/) - Critic Game Reviews / Ratings
 * [IMDb](https://www.imdb.com/) - Game Database
 * [GiantBomb](https://www.giantbomb.com/games/) - Game Database 
