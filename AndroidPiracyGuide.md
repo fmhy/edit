@@ -971,7 +971,7 @@
 * ⭐ **[iOS Jailbreak Guide](https://ios.cfw.guide/)** - Jailbreaking Guide
 * ⭐ **[Complete Jailbreak Chart](https://appledb.dev/)** - Jailbreak Tools Index
 * [PostBox](https://www.postbox.news/) - Jailbreak News App / [Discord](https://discord.gg/maPagQDmnw)
-* [/r/jailbreak](https://reddit.com/r/jailbreak) - Jailbreaking Subreddit
+* [/r/jailbreak](https://reddit.com/r/jailbreak) - Jailbreaking Subreddit / [Wiki](https://www.reddit.com/r/jailbreak/wiki/index)
 * [Sideloading Beginners Guide](https://redd.it/orqzau) or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - Sideloading Guide
 * [/r/sideloaded](https://reddit.com/r/sideloaded) - Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)
 * [Sideloadly](https://sideloadly.io/) or [SignTools](https://github.com/SignTools/SignTools) - Sideloading Tool
@@ -1206,7 +1206,6 @@
 * [sarahh12099](https://sarahh12099-mirror.github.io/repo) - App Repository
 * [CydiaGeek](https://cydiageek.yourepo.com/) - App Repository
 * [AppHeaven](https://www.appheaven.vip/) - App / Tweak Repository
-* [iOSGods](https://iosgods.com/) - App Tweaks / Hacks / Mods
 * [iPA Host](https://github.com/ipahost) - App Tweaks / Social Media’s
 * [EonHub](https://app.eonhubapp.com/) - Hacked / Tweaked Apps
 * [Scarlet](https://usescarlet.com/) - Hacked / Tweaked Apps
