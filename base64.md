@@ -561,7 +561,7 @@ pass: paluch
 
 #### Math and Physics Books
 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVozMC05RU82QjBvRXVGSFlNS1V6enpFTzZwODItZFlVCg==`
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVozMC05RU82QjBvRXVGSFlNS1V6enpFTzZwODItZFlVCmh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzFqa0ZuVm83MlI4MUJTNUxabVZTMUpBem1mdzFRcEpBNg==`
 
 ***
 
@@ -1676,3 +1676,9 @@ pass: paluch
 #### RIF
 
 `aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1yaWYraXMrZnVuK2dvbGRlbitwbGF0aW51bStmb3IrUmVkZGl0JnNyPXRvcGljcyZzZj10aXRsZW9ubHk=`
+
+***
+
+#### Proxifier Keys
+
+`aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vZjByMzRjaGIzdDQvYTRmNTcyMzlkNzZjMjc4MjkwNjZlYWU4N2ZlM2E4Yjk=`
