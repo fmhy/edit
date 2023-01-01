@@ -185,7 +185,6 @@
 * [taioan](https://ji.taioan.org/) - Chinese Spell Check
 * [Baidu Library to Word](https://greasyfork.org/en/scripts/405373-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E8%BD%AC-word-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD%E5%99%A8) - aidu Library to Word Converter
 * [ICIBA](http://www.iciba.com/), [Fanyi](https://fanyi.qq.com/) or [YouDao](https://fanyi.youdao.com/) - Translator / [Client](http://cp.iciba.com/)
-* [Shufazidian](http://www.shufazidian.com/) - Chinese Calligraphy Dictionary
 * [itaigi](https://itaigi.tw/) - Chinese to Taiwanese Translator
 * [Flash.cn](https://www.flash.cn/) - Chinese Flash Player
 
@@ -291,6 +290,8 @@
 * [TTS PDF](https://github.com/cnlinxi/book-text-to-speech/blob/main/text_to_speech.pdf) - Text to Speech Book
 * [Moedict](https://www.moedict.tw/), [dict.cn](https://dict.cn/), [CantoDict](http://www.cantonese.sheik.co.uk/dictionary/) or [ZDic](https://www.zdic.net/) - Chinese Dictionary
 * [kangxizidian](https://kangxizidian.com/) - Chinese Kangxi Dictionary
+* [Shufazidian](http://www.shufazidian.com/) - Chinese Calligraphy Dictionary
+* [jikipedia](https://jikipedia.com/) - Chinese Urban Dictionary
 * [CCams](http://www.ccamc.co/) - Chinese Character Search
 * [CBeta](http://www.cbeta.org/) - Chinese Buddhist Scriptures
 * [21dzk](https://21dzk.l.u-tokyo.ac.jp/SAT/index.html) - Chinese Buddhist Scriptures
@@ -607,7 +608,6 @@
 * [PrMovies](https://prmovies.homes/) or [yomovies](https://yomovies.rs/) - Movies / TV / Anime / [Telegram](https://t.me/+VozFopt7yyE4Y2Fl)
 * [Bolly4u](https://bolly4u.onl/) - Movies
 * [9xflix](https://9xflix.skin/) - Movies
-* [vegamovies](https://m.vegamovies.de/) - Movies / TV
 * [ExtraMovies](https://extramovies.loan/) - Movies
 * [RemaxHD](https://remaxhd.live/) - Movies / TV
 * [AnimeAcademy](https://animeacademy.in/) - Anime
@@ -892,7 +892,8 @@
 * [watanoc](http://watanoc.com/), [yourei](https://yourei.jp/), [n-lab](http://www.n-lab.org/library/mondai/) or [国語文法](http://xn--vcs415akpfnn7a.com/) - Learn / Practice Japanese 
 * [kakijun](https://kakijun.jp/) - Learn Japanese Writing
 * [Nihongo Monash](http://nihongo.monash.edu/onlinejdic.html), [jitenon](https://jitenon.jp/), [kotobank](https://kotobank.jp/), [aozorasearch](https://github.com/myokoym/aozorasearch) or [Weblio](https://www.weblio.jp/) - Dictionaries
-* [Zokugo](http://zokugo-dict.com/) - Slang Dictionary
+* [dictionary.goo](https://dictionary.goo.ne.jp/idiom/) - Japanese Idiom Dictionary
+* [Zokugo](http://zokugo-dict.com/) or [Nico Nico Pedia](https://dic.nicovideo.jp/) - Slang Dictionaries
 * [accent.u-biq](https://accent.u-biq.org/) - Accent Dictionary
 
 ***
