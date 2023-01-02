@@ -959,7 +959,6 @@
 * [OLATV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ola_tv)
 * [Live NetTV](https://www.livenettv.bz/)
 * [SwiftStreams](http://swiftstreamz.com/)
-* [HD STREAMZ](https://hdstreamz.app/)
 * [SonyLiv (Modded)](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sonyliv)
 * [hifi2007reviews](https://hifi2007reviews.com/) - IPTV / Firestick APKs
 * [OTTRun](https://www.ottrun.com/) or [Xstream Player](https://play.google.com/store/apps/details?id=com.devcoder.iptvxtreamplayer) - IPTV Players
