@@ -2092,7 +2092,7 @@ Twitch Stream Tracker
 * [MyDockFinder](https://www.mydockfinder.com/) - MacOS Theme for Windows 10
 * [Taskbar11](https://github.com/jetspiking/Taskbar11) - Change Windows 11 Taskbar Position & Size
 * [MicaForEveryone](https://github.com/minusium/MicaForEveryone) - Enable Titlebar Backdrop Effect on Windows 11
-* [Win11DisableRoundedCorners](https://github.com/valinet/Win11DisableRoundedCorners) - Disable Win11 Rounder Corners
+* [Win11DisableRoundedCorners](https://github.com/oberrich/win11-toggle-rounded-corners) - Disable Win11 Rounder Corners
 * [Macdows11](https://redd.it/pd5ha6) - Windows 11 Mac Theme Guide
 * [StartAllBack](https://www.startallback.com/) - Restore Classic Start Menu in Windows 11
 
