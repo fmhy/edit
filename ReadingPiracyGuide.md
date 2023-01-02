@@ -194,20 +194,19 @@
 * ⭐ **[PDFDrive](https://pdfdrive.com/)** - Books
 * [8kun Library](https://8kun.top/pdfs/index.html) - Books
 * [Ocean of PDF](https://oceanofpdf.com/) - Books / Comics
-* [pdfroom](https://pdfroom.com/) - Books / Comics 
-* [Pdfgeni](http://www.pdfgeni.com/) - Books 
-* [PDFGrab](https://pdfgrab.com/) - Books 
+* [pdfroom](https://pdfroom.com/) - Books / Comics
+* [Pdfgeni](http://www.pdfgeni.com/) - Books
+* [PDFGrab](https://pdfgrab.com/) - Books
 * [Ebook PDF](https://ebookpdf.com/) - Books
-* [KuPDF](https://kupdf.net/) - Books 
+* [KuPDF](https://kupdf.net/) - Books
 * [ePDF](https://epdf.pub/) - Books
 * [Moam](https://moam.info/) - Books
 * [PDFCookie](https://pdfcookie.com/) - Books
 * [PDFSearches](https://pdfsearches.com/) - Books
 * [OiiPDF](https://oiipdf.com/) - Books
-* [PDFSlide](https://pdfslide.net/) - Books 
+* [PDFSlide](https://pdfslide.net/) - Books
 * [EDoc](https://www.edoc.site/) - Books
-* [PDFDuck](https://pdfduck.com/) - Books 
-* [pdforigin](https://www.pdforigin.info/) - Books 
+* [PDFDuck](https://pdfduck.com/) - Books
 * [PDF Stop](https://pdfstop.com/) - Books
 * [freepdfbook](http://www.freepdfbook.com/) - Books 
 * [Amazonaws](https://www.google.com/search?q=site%3As3.amazonaws.com+%3CSearch+term%3E+filetype%3Apdf) - Amazon PDF Search 
