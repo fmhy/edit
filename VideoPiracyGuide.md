@@ -143,7 +143,7 @@
 * [TamilRockerMovies](https://www.tamilrockermovies.cf/search/label/Hollywood) - Movies
 * [ConTV](https://www.contv.com/browse-movie/146/free/) - Movies
 * [Pahe.stream](https://pahe.stream/) - Movies / TV
-* [VidCloud](https://membed.net/) - Movies / TV
+* [VidCloud](https://vidcloud9.me/), [2](https://membed.net/) - Movies / TV
 * [Rainierland](https://rainierland.to/) - Movies / TV
 * [Movly](https://movly.xyz/) - Movies / TV
 * [MovieHubz](https://moviehubz.com/) - Movies / TV / Anime / [Discord](https://discord.com/invite/UWTgkNCPXp)
