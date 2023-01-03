@@ -1095,7 +1095,6 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 * https://www6.f2movies.to/
 * https://putlockers.llc/
 * https://2kmovie.cc/
-* https://himovies.top/
 * https://www.sflix.pro/
 * https://sflix.to/
 * https://cineb.net/
