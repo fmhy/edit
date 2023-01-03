@@ -280,6 +280,7 @@
 
 # ► Linux Adblock / Privacy
 
+* **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** or [SShuttle](https://github.com/sshuttle/sshuttle) - Proxies
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) or [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) - Linux Privacy Guide
 * [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
 * [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
@@ -297,7 +298,6 @@
 * [Collision](https://flathub.org/apps/details/dev.geopjr.Collision) - Check File Hashes
 * [WhoAmI Project](https://whoamiproject.tech/) - Privacy / Anonymity Tool / [GitHub](https://github.com/owerdogan/whoami-project)
 * [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS Partition
-* [SShuttle](https://github.com/sshuttle/sshuttle) - Proxy Server
 * [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Secure Linux Server Guide
 * [BhanUpratpys](https://github.com/bhanupratapys/dnswarden) - DNS Adblocking
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Arch Linux base with Deluge, Privoxy & OpenVPN
