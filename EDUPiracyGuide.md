@@ -13,7 +13,6 @@
 
 ## ▷ Courses
 
-* ⭐ **[Course Piracy Index](https://github.com/ItIsMeCall911/Course-Piracy-Index)** - Course Piracy Site / Tool Index
 * ⭐ **[Coursera](https://www.coursera.org/)** - Courses / [Financial Aid](https://github.com/abdelrahmaan/Financial-aid-on-coursera-) / [Download](https://github.com/coursera-dl/coursera-dl)
 * ⭐ **[edX](https://www.edx.org/)** - Courses
 * ⭐ **[Future Learn](https://www.futurelearn.com/)** - Courses
@@ -23,6 +22,7 @@
 * ⭐ **[Git.ir](https://git.ir/)** - Courses
 * ⭐ **[PluralSight](https://visualstudio.microsoft.com/dev-essentials/)** - Free for 1 Month / [Decrypter](https://github.com/dhorseman1710/Decrypt-PluralSight-GUI)
 * ⭐ **[Limnology](https://limnology.co/)** - Educational YouTube Channel Index
+* [Course Piracy Index](https://github.com/ItIsMeCall911/Course-Piracy-Index) - Course Piracy Site / Tool Index
 * [Awesome CS](https://github.com/prakhar1989/awesome-courses/) - Courses
 * [OpenLearn](https://www.open.edu/openlearn/) - Courses
 * [Alison](https://alison.com/) - Courses
