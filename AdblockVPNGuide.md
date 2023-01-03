@@ -418,7 +418,6 @@
 * [SecLists](https://seclists.org/) - Security Mailing List Archive 
 * [OpenPhish](https://openphish.com/) - Phishing Threat Data 
 * [Panopticlick](https://coveryourtracks.eff.org/) - Test if your Browser Blocks Tracking 
-* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) - Bypass Site Blocking DPI
 * [Am I FLoCed?](https://amifloced.org/) or [FLoC Demo](https://floc.glitch.me/) - Check if Chrome Ad-Targeting is Enabled
 * [Yggdrasil](https://yggdrasil-network.github.io/), [2](https://github.com/yggdrasil-network) - IPv6 Network / [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go/)
 * [anoNet](http://www.anonet.org/) - Anonymous IP Network
@@ -553,6 +552,7 @@
 
 * ⭐ **[Psiphon](https://psiphon.ca/)** - [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png)
 * ⭐ **[Lantern](https://lantern.io/en_US/index.html)** 
+* ⭐ **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** - Local Proxy
 * [Acrylic](http://mayakron.altervista.org/)
 * [Tsunami](https://github.com/FogNetwork/Tsunami)
 * [Shadowsocks](https://shadowsocks.org/) - [Free Servers](https://github.com/ruanfei/ShadowsocksRRShare), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows)
