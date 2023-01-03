@@ -125,16 +125,12 @@
 * [Fmovies.black](https://fmovies.black/) - Movies / TV / Anime
 * [eSubMovies](https://www.esubmovie.com/) - Movies
 * [Sauflix](https://www.sauflix.com/) - Movies / TV
-* [oSee](https://osee.in) - Movies / TV / Anime
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
 * [YesHD](https://yeshd.net/) - Movies / TV
 * [NovaStream](https://novastream.to/) - Movies / TV / Anime
 * [OnionPlay](https://onionplay.se/) - Movies / TV / [Mirrors](https://onionplay.network/)
 * [Swatchfree](https://swatchfree.in/) - Movies / TV
-* [WatchSeriesHD](https://www4.watchserieshd.tv/) - Movies / TV / Anime 
-* [Vmovee](https://www.vmovee.watch/) - Movies / TV
 * [StreamMovie](https://streammovie.top/) - Movies / TV
-* [HDPlex](https://hdplex.xyz/) - Movies / TV / [Discord](https://discord.gg/NnnZXFmQUg)
 * [Filmxy](https://www.filmxy.pw/) - Movies
 * [MoviesLair](https://movielair.cc/) - Movies / TV
 * [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime
@@ -187,7 +183,6 @@
 * [123Series](https://123series.watch/) - Movies / TV
 * [123Moviesd](https://123moviesd.com/) - Movies / TV
 * [123MoviesFun](https://123moviesfun.is/) - Movies / TV
-* [123MoviesOnline](https://123moviesonline.one/) - Movies / TV
 * [0123movies](https://0123movies.com/) - Movies / TV
 * [Watch0123movies](https://watch0123movies.org) - Movies / TV
 * [Moviehab](https://moviehab.com/) - Movies / TV
@@ -317,13 +312,12 @@
 
 * ⭐ **[TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)**
 * ⭐ **[CouchTuner](https://www.couchtuner.show/)** - TV / Anime
-* ⭐ **[Best Series](https://bstsrs.one/)**, [2](https://srsone.click/) - TV / Anime
+* ⭐ **[Best Series](https://bstsrs.one/)** - TV / Anime
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - TV / Anime
 * [Teleisodes](https://www1.telepisodes.org/) - TV 
 * [FZTVSeries](https://fztvseries.mobi/), [MobileTVShows](https://www.mobiletvshows.net/) or [TVSeries](https://www.tvseries.in/) - TV / Anime
 * [Watch-TvSeries](https://www1.watch-tvseries.net/) - TV
 * [MyWatchSeries](https://www5.mywatchseries.stream/) - TV / Anime 
-* [turkish123](https://turkish123.com/) - Turkish TV Shows / Subtitles
 * [Adult Swim](https://www.adultswim.com/videos/) - Full Adult Swim Episodes
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - Bay Area TV Archive  
 * [Ninja Warrior](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ninja_warrior) - Sasuke Episodes
@@ -659,7 +653,6 @@
 * [Uloz](https://ulozto.net/) - Rare Movies / Short Films
 * [MobileTVShows](https://www.mobiletvshows.net/) - TV / Anime
 * [Medeberiyaa](https://medeberiyaa.com/) - Movies / TV / Anime
-* [JalshamoviezHD](https://www.jalshamoviezhd.stream/category/33/hollywood-movies/default/1.html) - Movies
 * [My9JARocks](https://my9jarocks.com/category/videodownload/hollywood-movie) - Movies / TV
 * [HDMP4Mania](https://hdmp4mania1.net/showcat.php?catid=2) - Movies
 * [DDLBase](https://ddlbase.net/) - Movies / TV
@@ -669,7 +662,6 @@
 * [EE3](https://ee3.me/) - Movies / Invite Code: mpgh
 * [Reqzone](https://reqzone.com/) - Movies / TV
 * [KatMovieHD](https://katmoviehd.rs/category/hollywood-eng/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
-* [MKVBee](https://mkvbee.com/) - Movies / TV
 * [Minirlss](https://minirlss.com/) - Movies / TV / Anime
 * [NYMeriaTV](https://nymeriatv.com/) - Movies / TV
 * [FZMovies](https://fzmovies.net/) - Movies
