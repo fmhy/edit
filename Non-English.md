@@ -1637,7 +1637,6 @@
 * [DescargasDD](https://descargasdd.net/) - Movies / TV
 * [mirandopeliculas](https://mirandopeliculas.com/) - Movies / TV
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
-* [Movies, Series ... in Spanish](https://redd.it/ns0y6c) - Movies / TV
 * [gnula](https://gnula.nu/) - Movies / TV
 * [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram
 * [dyndns](http://fina.dyndns.tv/) - TV
@@ -1662,11 +1661,10 @@
 * [Grantorrent.wtf](https://grantorrent.wtf/) - Movies / TV / Documentaries
 * [PasateaTorrent](https://pasateatorrent.net/) - Movies / TV
 * [Descargas](https://descargas2020.net/) - Movies / TV
-* [Cinetorrent](http://mozatimes.com/) - Movies / TV
 * [DonTorrent](https://dontorrent.gs/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent)
 * [Tomadvix](https://tomadivx.net/) - Movies / TV
 * [DIVXTorrent](https://www.divxtorrent.com/) - Movies / TV
-* [DivxTotal](https://www.divxtotal.pm/), [2](https://www.divxtotal.one/) - Movies / [Telegram](https://t.me/divxtotal2)
+* [DivxTotal](https://www.divxtotal.pm/), [2](https://www.divxtotal.pl/) - Movies / [Telegram](https://t.me/divxtotal2)
 * [Grantorrent](https://grantorrent.nl/), [2](https://grantorrent.ch/) - Movies / TV
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
 * [Frozen Layer](https://www.frozen-layer.com/) - Anime
