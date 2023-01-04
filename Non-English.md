@@ -595,20 +595,16 @@
 * [Movies Flix](https://hdmoviesflix.vin/) - Movies / NSFW
 * [Dudefilms](https://dudefilms.ink/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
 * [The Movies Flix](https://themoviesflix.ac/) - Movies / NSFW / [Telegram](https://t.me/themoviesflixcomco)
-* [Bollywood Movie Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bollywood_movie_drive) - Movies
 * [KatMovieHD](https://katmoviehd.rs/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [MoviesRush](https://moviesrush.quest/) - Movies
 * [MoviezAddiction](https://moviezaddiction.lol/) - Movies / TV / [Telegram](https://t.me/moviezaddiction3)
 * [MKVHub](https://www.mkvhub.town/) - Movies / TV
 * [Full4Movies](https://www.full4movies.digital/) - Movies / TV / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
 * [SouthFreak](https://southfreak.click/) - Movies
-* [Watch Online Movies](https://www.movies-watch.com.pk/) - Movies
 * [UncutHD](https://www.uncuthd.guru/) - Movies
 * [PrMovies](https://prmovies.homes/) or [yomovies](https://yomovies.rs/) - Movies / TV / Anime / [Telegram](https://t.me/+VozFopt7yyE4Y2Fl)
 * [Bolly4u](https://bolly4u.onl/) - Movies
 * [9xflix](https://9xflix.skin/) - Movies
-* [ExtraMovies](https://extramovies.loan/) - Movies
-* [RemaxHD](https://remaxhd.live/) - Movies / TV
 * [AnimeAcademy](https://animeacademy.in/) - Anime
 * [ToonWorld4All](https://www.toonworld4all.me/) - Cartoons / Anime
 * [TVToonsIndia](https://tvtoonsindia.com/) - Cartoons / Anime
@@ -629,11 +625,10 @@
 * [IndianCine](https://indiancine.ma/) - 62k Indian Films / Short Films 
 * [mxplayer](https://www.mxplayer.in) - Movies
 * [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - Movies 
-* [HHDMovies](https://hhdmovies.org/) - Movies / TV
+* [HHDMovies](https://hhdmovies.lol/) - Movies / TV
 * [OKJatt](https://okjatt.autos/) - Movies / TV
 * [111.90.159.132](https://111.90.159.132/) - Movies
-* [Watch-Movies](https://www.watch-movies.com.pk/) - Movies
-* [HindiLover](https://hindilover.biz/) - TV
+* [HindiLover](https://namasteserials.com/) - TV
 * [playdesi](https://playdesi.net/) - Movies / TV
 * [MovieHDPlus](https://www.moviehdplus.com/) -  Movies / TV
 * [desicinemas](https://desicinemas.tv/) - Movies / TV
@@ -641,12 +636,8 @@
 * [toroflixhd](https://toroflixhd.ml/) - Movies / TV
 * [hdmovie2](https://hdmovie2.rent/) - Movies
 * [hindimoviestv](https://www.hindimoviestv.com/) - Movies
-* [WatchOnlineMovies88](https://watchonlinemovies88.com.pk/) - Movies
-* [Watch Movies Online](https://www.watchonlinemovies15.com.pk/) - Movies
 * [Desi Serials](https://www.desiserials.tv/) - Movies / TV / Live
-* [WatchOnlineMovies](https://wwv10.watchmoviesonlinepk.com/) - Movies / TV
 * [HindiLinks4u](https://hindilinks4u.io/) - Movies / TV
-* [Movies4](https://www.movies4.com.pk/) - Movies / TV
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies
 * [SkymoviesHD](https://skymovieshd.name/) - Movies / TV / WWE
 * [FilmyBro](https://filmybro.top/) - Movies
@@ -656,7 +647,6 @@
 * [Freewatchserialonline](https://freewatchserialonline.com/) - TV
 * [pakbcn](https://www.bollyzone.tv/) - TV 
 * [PakBcn](http://www.pakbcn.one/) - TV / Live
-* [asiankdrama](https://asiankdrama.com/) - Asian Drama
 * [Dead Toons India](https://www.deadtoons.net/) - Cartoons / Anime 
 * [ToonWorld4All](https://www.toonworld4all.me/) - Cartoons / Anime
 * [Anime World India](https://anime-world.in/) - Cartoons / Anime / [Discord](https://discord.com/invite/c3ete48q8H)
@@ -796,7 +786,7 @@
 * [Poipiku](https://poipiku.com/) - User-Made Images
 * [Marshmallow](https://marshmallow-qa.com/) - Send & Receive Positive Messages
 * [Annict](https://annict.com/) - Anime Tracker
-* [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) or [jpsubbers](http://jpsubbers.xyz/) - Anime Subtitles
+* [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Anime Subtitles
 * [Japan Reference](https://jref.com/) - Japanese Culture Forum
 * [OnlyNeat](http://onlyneat.com/) - Tech Guides
 * [fuseji](http://fuseji.net/) - Hidden Character Search
@@ -810,7 +800,6 @@
 * [jpddl](https://jpddl.com/) - Manga / Anime / Music / Drama  
 * [JPLearner](http://www.jplearner.to/) - Video / Manga / Magazines
 * [JapanEncodings](https://japanencodings.blogspot.com/) - Movies
-* [剧集](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.5267.96C6) - Anime / Drive 
 * [AnimeTime](https://www.animetime.pw/) - Anime 
 * [bia2anime](https://bia2anime.site/) - Anime
 * [arearaw](http://arearaw.com/) - Anime / Use Tor 
@@ -820,7 +809,6 @@
 * [jpop80ss](https://jpop80ss2.blogspot.com/)- Music / MP3
 * [JPopSingles](https://www.jpopsingles.eu/) - Music / MP3 / FLAC
 * [9tensu](http://www.9tensu.com/) - Music / MP3
-* [Hikarinoakariost](https://www.hikarinoakariost.info/) - Music / MP3
 * [DoujinStyle.com](https://doujinstyle.com/) - Music / MP3 
 * [Doujin Cafe](https://discord.gg/doujincafe) - Music / MP3
 * [Music Fusion World](https://fusion-world-30.blogspot.com/) - Music / MP3
@@ -842,7 +830,6 @@
 ## ▷ Streaming
 
 * [Drama Sites](https://saidit.net/s/freemediaheckyeah/wiki/storage#wiki_asian_drama_sites)
-* [muryoueigadrama](https://muryoueigadrama.com/) - Movies / TV / Anime 
 * [momotheater](https://momotheater.com/) - Movies / Anime
 * [yume551](https://yume551.com/) - Movies / Anime / NSFW
 * [JP-Films](https://jp-films.com/) - Movies / TV 
