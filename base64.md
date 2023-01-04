@@ -1149,18 +1149,6 @@ pass: paluch
 
 ***
 
-#### Bollywood Movie Drive
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWRmdjBTSU13UUdmTGxZMS1HUVkxckFfY1hFb2VrSVJI`
-
-***
-
-#### 剧集
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU91SkpnX3pyNHBHM0VXMlNZRnlWNENhQnhseXlwWkFR`
-
-***
-
 #### GameCenter CX Archives
 
 `aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL0BnYW1lY2VudGVyY3g=`
@@ -1239,12 +1227,6 @@ pass: paluch
 
 ***
 
-#### UI & Web Design using Adobe Illustrator C
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9EaWhpSFlZSiNxd0RwNTZ0d0ttd1BkRE1xR1Jfa0xB`
-
-***
-
 #### MongoDB Beginners Guide
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9GNVF3eEpRYSNydU5oejA4Q2w1OTlNQ2hPQmJRZUdB`
@@ -1266,12 +1248,6 @@ pass: paluch
 #### Java Beginners
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUFLZ2E1RjZVekhGaHZ1TVBsOXpXZjZNR3hKWmZiaGFj`
-
-***
-
-#### Web Dev Courses
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTduT29uZWRfSi1SekFsQ1hhSEVjRXZkUUMzTERPQ0Mw`
 
 ***
 
@@ -1532,12 +1508,6 @@ pass: paluch
 #### Xbox Fan
 
 `aHR0cHM6Ly9zaXRlcy5nb29nbGUuY29tL3ZpZXcveGJveC1mYW4tMzYwLyVEMCVCMyVEMCVCQiVEMCVCMCVEMCVCMiVEMCVCRCVEMCVCMCVEMSU4Ri0lRDElODElRDElODIlRDElODAlRDAlQjAlRDAlQkQlRDAlQjglRDElODYlRDAlQjA/YXV0aHVzZXI9MA==`
-
-***
-
-#### 500GB Graphics Collection
-
-`IGh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9maWxlL2QvMWwyenotQm0tNkx4akJzb3NnaHBObERpc2dtUzQwZjVZL3ZpZXc=`
 
 ***
 
