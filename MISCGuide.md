@@ -1206,7 +1206,7 @@
 * [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - Audio Recorder
 * [Mute Tab](https://mybrowseraddon.com/mute-tab.html) - Easily Mute All Tabs
 * [Web-Scrobbler](https://web-scrobbler.com/) - Scrobble with Last.fm, Libre.fm, etc.
-* [Form History Control](https://stephanmahieu.github.io/fhc-home/), [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) or [Simple Form Fill](https://github.com/sblask/webextension-simple-form-fill) - Formfiller Managers
+* [Form History Control](https://stephanmahieu.github.io/fhc-home/) or [Simple Form Fill](https://github.com/sblask/webextension-simple-form-fill) - Formfiller Managers
 * [Fake Data](https://www.fakedata.pro/) - Fill Forms With Fake Data
 * [xBrowserSync](https://www.xbrowsersync.org/) - Browser Syncing 
 * [Stylus](https://add0n.com/stylus.html), [Stylish](https://userstyles.org/) / [2](https://uso.kkx.one/) or [UserStyles](https://userstyles.world/) - Custom Website Color Schemes  
@@ -1323,7 +1323,7 @@
 * [hide-scrollbars](https://addons.mozilla.org/en-US/firefox/addon/hide-scrollbars/) - Hide Browser Scrollbar
 * [AutoPagerize Advanced](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - Merge Multiple Pages
 * [Profile Switcher](https://addons.mozilla.org/en-US/firefox/addon/profile-switcher/) - Profile Manager
-* [I still don't care about cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Block Cookie Consent Popups / Non-Avast Fork
+* [I still don't care about cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) or [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Block Cookie Consent Popups / Non-Avast Fork
 * [AutoCookieOptout](https://github.com/CodyMcCodington/AutoCookieOptout) - Auto Delete Cookies
 * [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - Easily Switch User-Agent
 * [SoundFixer](https://github.com/myfreeweb/soundfixer) - Fixes Sites that are too Quiet
