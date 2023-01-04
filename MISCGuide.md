@@ -173,7 +173,6 @@
 * [ClaimFreeGames](https://claimfreegames.com/) - Games
 * [GrabFreeGames](https://grabfreegames.com/) - Games
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - Games
-* [Giveaway Radar](https://giveawayradar.weebly.com/) - Software
 * [Tick Coupon](https://giveaway.tickcoupon.com/windows-giveaway/) - Software
 * [Techno360](https://www.techno360.in/category/free-stuff/) - Software
 * [AppDoze](https://www.appdoze.com/) - Software
@@ -200,7 +199,6 @@
 * [N1Stock](https://n1stock.site/forums/giveaway.6/)
 * [/r/FREE](https://reddit.com/r/FREE/)
 * [/r/eFreebies](https://reddit.com/r/eFreebies)
-* [/r/TheFreebieGuys](https://www.reddit.com/r/TheFreebieGuys/)
 * [/r/FreeGameFindings](https://reddit.com/r/FreeGameFindings) 
 * [/r/udemyfreebies](https://reddit.com/r/udemyfreebies) 
 * [/r/FREECoursesEveryday](https://reddit.com/r/FREECoursesEveryday) 
