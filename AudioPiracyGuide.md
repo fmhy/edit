@@ -94,7 +94,7 @@
 * [The Eternal Jukebox](https://eternalbox.dev/) - Never-Ending Versions of Songs
 * [Battle of the Bits](https://battleofthebits.org/) - User-Made Music Competitions
 * [Openwhyd](https://openwhyd.org/) - Music Sharing Community / [Chrome](https://chrome.google.com/webstore/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)
-* [Session](https://sessionslive.com/) or [Volume](https://volume.com/) - Live Cam Concerts
+* [Volume](https://volume.com/) - Live Cam Concerts
 * [Bandcamp New Tab](https://chrome.google.com/webstore/detail/bandcamp-new-tab/nbabnnemlofbllcflfjpjgkgmcdbeemc) - Random Bandcamp Songs on New Tabs
 
 ***
