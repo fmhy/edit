@@ -548,15 +548,12 @@
 * [SamiTVHD](https://samitvhd.com/) - TV / Sports
 * [uStream](https://www.ustream.to/index.html) - TV / Sports
 * [Stream2Watch](https://hq.stream2watch.sx/), [2](https://stream2watch.at/) - TV / Sports
-* [LM Shows](https://lmshows.se/) - TV
 * [WwiTv](https://wwitv.com/) - TV
 * [MHD TV World](https://mhdtvworld.xyz/channel/english/) - TV
 * [SquidTV](https://www.squidtv.net/) - TV
 * [PhotoCall](https://photocall.tv/) - TV
 * [puffer](https://puffer.stanford.edu/) - TV
-* [wwiTV](https://wwitv.com/) - TV
 * [WorldCupFootball](http://www.worldcupfootball.me/) - Sports
-* [FLS](http://gw.freestreams-live1.com/) - Sports / [Discord](https://discord.gg/UKEjyPEaYG)
 * [Icelz](https://icelz.newsrade.com/) - Sports
 * [livetv](http://livetv.sx) - Sports
 * [bilaSport](http://bilasport.net/) - Sports
@@ -574,13 +571,11 @@
 * [TheHomeSports](https://thehomesport.com/) - Sports
 * [CricHD](https://fc5.crichd.com/) - Sports
 * [MamaHD](https://mamahd.best/) - Sports
-* [Touchcric](https://mob.touchcric.com/) - Sports
 * [WorldStreams](https://en.worldstreams.net/) - Sports
 * [fromHOT](http://www.fromhots.com/) - Sports
 * [Volokit](https://community.volokit.com/) - Sports
 * [StreamOnFoot](https://streamonfoot.xyz/) - Sports
 * [StrikeOut](https://ko.strikeout.cc/) - Sports
-* [TheCrackStreams](https://thecrackstreams.live/) - Sports
 * [4stream](https://4stream.gg/portal.html) - Sports
 * [BestSolaris](http://bestsolaris.com/) - Sports
 * [Strumyk](http://strumyk.tv/) - Sports
@@ -594,18 +589,12 @@
 * [Rojadirecta](https://www.rojadirecta.watch/) - Sports
 * [SportsRP](http://www.sportsrp.com/free-live-streams/) - Sports
 * [CrackStreams.net](https://crackstreams.net/) - Sports
-* [NBAStreams](https://nbastreams.to/), [NFL](https://nflstreams.to/), [NHL](https://nhlstreams.to/), [MLB](https://mlbstreams.to/) - Sports
 * [VIPLeague](https://vipleague.cc/) / [2](https://vipleague.im/) / [3](https://en.vipleague.tv/) or [VIPBox](https://www.vipbox.lc/) - Sports 
 * [MyP2P](https://www.myp2p.at/) - Sports
 * [BoxingStreams100](https://reddits.boxingstreams100.com/) - Boxing
 * [NBA Streams](https://reddit.nbastream.nu/) - NBA
 * [NBA3000](https://nba3000.ir/) - NBA
-* [9Live](https://www.9live.club/) - NFL
-* [NFLStream](https://reddit.nflstream.io/) - NFL
 * [MLB66](https://mlb66.ir/) - MLB
-* [MLBStream](https://mlbstream.me/) - MLB
-* [BoxingStreams.cc](https://boxingstreams.cc/) - Boxing
-* [9CoalTV](https://9goaltv.to/) - Soccer
 * [LiveSoccer TV](https://www.livesoccertv.com/) - Soccer
 * [FootEM](https://www.footem.site/) - Soccer
 * [Vebo](https://vebotv.top/) - Soccer
@@ -613,12 +602,9 @@
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.tv/) - Soccer / MMA
 * [Cyfo Streams](http://www.cyfostreams.com/) - Soccer / Cycling
 * [NHLstream](https://www.nhlstream.net/) - NHL
-* [NHL Streams](https://reddit.nhlstream.nu/) - NHL
 * [NHL66](https://nhl66.ir/) - NHL
 * [MyLiveCricket](http://m.mylivecricket.club/) - Cricket
 * [LiveCricket.is](https://mob.livecricket.is/) - Cricket
-* [TouchCric](https://touchcric.com/) - Cricket
-* [WebCric](https://t20.webcric.com/) - Cricket
 * [PakCric](https://pakcric.net/) - Cricket
 * [Sports Streaming Subreddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming_subs)
 * [BestSportsStreamingSites](https://bestsportstreamingsites.com/) - Live Sports Sites List
@@ -667,7 +653,6 @@
 * [FZMovies](https://fzmovies.net/) - Movies
 * [YourSerie](https://www.yourserie.com/) - Movies / TV
 * [FilmDuty](http://filmduty.com/) - Movies / TV / Anime
-* [ExtraMovies](https://extramovies.loan/) - Movies / TV
 * [KimoiTV](https://www.kimoitv.com/) - Movies / TV / Anime
 * [MeloMovie](https://melomovie.com/) - Movies / TV
 * [MKV Cage](https://www.mkvcage.site/) - Movies / TV
@@ -689,15 +674,15 @@
 * [SoapTV](https://soaptv.me/) - TV
 * [HDMovieArea](https://hdmoviarea.com/genre/dual-audio/) - Movies / TV
 * [Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download) - Movies / TV / Anime / Eng Content / Single Click DL's
-* [Full4Movies](https://www.full4movies.digital/category/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)
+* [Full4Movies](https://www.full4movies.digital/category/hollywood-movies/) - Movies / TV
 * [Movies Mobile](https://mobilemovies.info/index.php?dir=Hollywood%20Movies) - Movies
 * [TVShows.today](https://tvshows.today/) - TV
 * [TVSBoy](https://tvsboy.com/) - TV
 * [FilmyZilla](https://filmyzilla.directory/category/202/Hollywood-english-movies/default/1.html) - Movies
 * [HDHub4U](https://hdhub4u.bar/category/hollywood-movies/) - Movies / TV
-* [MoviezAddiction](https://moviezaddiction.work/) - Movies / TV / [Telegram](https://t.me/moviezaddiction3)
+* [MoviezAddiction](https://moviezaddiction.bloginguru.info/) - Movies / TV / [Telegram](https://tttttt.me/moviezaddiction4/)
 * [WorldFree4u](https://worldfree4u.download/) - Movies
-* [SSR Movies](https://www.ssrmovies.wine/category/hollywood-movies-hd) - Movies / TV / [Telegram](https://t.me/SSRmovies2022) / [2](https://telegram3.xyz/)
+* [SSR Movies](https://www.ssrmovies.wine/category/hollywood-movies-hd) - Movies / TV / [Telegram](https://t.me/SSRmovies2022)
 * [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV
 * [MovieLegacy](https://movieslegacy.com/category/hollywood/) - Movies
 * [MoviesYug](http://www.moviesyug.net/cat/hollywood-series-movies-24.html) - Movies
@@ -873,7 +858,6 @@
 * [Baby Torrent](https://babytorrent.fun/) - Movies / TV
 * [Vuze](https://www.vuze.com/content/) - Movies / TV 
 * [ATORRENTS](https://atorrents.com/) - Movies
-* [Full4Movies](https://www.full4movies.digital/category/hollywood-movies/) - Movies / TV / [Telegram](https://t.me/joinchat/05XgU1g25eA0NzM0)
 * [TorrentKingNow](https://torrentkingnow.co/) - Movies
 * [TorrentCue](https://torrentcue.co/Hollywood.html) - Movies
 * [Public Domain Movie Torrents](http://www.publicdomaintorrents.info/) - Movies
