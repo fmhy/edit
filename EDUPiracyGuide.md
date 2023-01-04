@@ -840,8 +840,7 @@ Simulator
 * [GeoNames](https://www.geonames.org/) - Geography Name Database
 * [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/) or [Map Quiz](https://planemad.github.io/map-quiz/) - Geography Quizzes
 * [Geograph WorldWide](https://www.geograph.org/) - Worldwide Photographs
-* [Flag Guesser](https://flagguesser.com/) - Country Flags, Country Coat of Arms, and US State Flags Quizzes
-* [Flaggr](https://flaggr.me/) - Country Flag Quiz
+* [Flaggr](https://flaggr.me/) or [Flag Guesser](https://flagguesser.com/) - Flag Quizzes
 * [Flagpedia](https://flagpedia.net/) or [US Flags](https://usflags.design/) - Flag Indexes
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
 * [The True Size](https://thetruesize.com/) - Compare Country Size 
