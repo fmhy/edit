@@ -906,7 +906,6 @@
 
 # ► Tracking / Discovery
 
-* ⭐ **[TrailerPunk](https://trailerpunk.com/)** - Newest Movie Trailers
 * ⭐ **[Movie Recs](https://rentry.co/MovieRecs)** - Movie Recommendation Sites / Tools
 * ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Movie, TV & Anime Recommendations
 * ⭐ **[IMDb Advanced Search](https://www.imdb.com/search/)** or [pyMDB](https://pymdb.mloesch.it/) - Search Engine
@@ -918,6 +917,7 @@
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Anime 
 * ⭐ **MAL Tools** - [Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/)
 * ⭐ **[ICheckMovies](https://www.icheckmovies.com/)** - Movies / List Database / [Enhanced](https://greasyfork.org/en/scripts/11541-icheckmovies-enhanced)
+* [TrailerPunk](https://trailerpunk.com/) - Newest Movie Trailers
 * [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Movie / TV / Anime Recommendation Guides
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - Movies / TV
 * [IMDb](https://www.imdb.com/) or [TMDb](https://www.themoviedb.org/) - Movies / TV / Anime
