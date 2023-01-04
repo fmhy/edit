@@ -164,7 +164,7 @@
 * [WebGL and GLSL Workshop](https://mattdesl.github.io/workshop-webgl-glsl/) - Interactive WebGL / GLSL Tutorial
 * [PHP: The Right Way](https://phptherightway.com/) or [PHP Tutorial](https://www.phptutorial.net/) - PHP Guides
 * [design.tips](https://www.designer.tips/) - Design Tips
-* [UI & Web Design using Adobe Illustrator C](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ui_.26amp.3B_web_design_using_adobe_illustrator_c), [HackDesign](https://hackdesign.org/) or [Sky Design](https://github.com/joeygoksu/sky-design) - UI / Webdesign Courses
+* [HackDesign](https://hackdesign.org/) or [Sky Design](https://github.com/joeygoksu/sky-design) - UI / Webdesign Courses
 * [Learn UI Design](https://learnui.design/) - UI Design Course
 * [50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf) - UI Design Book
 * [Can't Unsee](https://cantunsee.space/) - UI Design Test
