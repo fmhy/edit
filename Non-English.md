@@ -61,6 +61,7 @@
 * [egydead](https://w3.egydead.live) - Movies / TV / Anime
 * [movizland](https://new.movizland.cyou/), [2](https://movizland.info/) - Movies / TV / Anime
 * [akwam](https://akwam.to/) - Movies / TV
+* [cima4film](https://cima4film.biz) - Movies / TV
 * [mycima](https://mycima.link/) - Movies / TV / Anime
 * [cima-club](https://cima-club.cam/) - TV / Anime
 * [eshiq](https://eshiq.net/), [2](https://3sk.tv/) - Turkish TV
@@ -600,6 +601,8 @@
 * [MoviezAddiction](https://moviezaddiction.lol/) - Movies / TV / [Telegram](https://t.me/moviezaddiction3)
 * [MKVHub](https://www.mkvhub.town/) - Movies / TV
 * [Full4Movies](https://www.full4movies.digital/) - Movies / TV / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
+* [filmymeet](https://filmyzilla.filmymeet.co/) - Movies / TV
+* [moviehunt](https://moviehunt.us) - Movies / TV
 * [SouthFreak](https://southfreak.click/) - Movies
 * [UncutHD](https://www.uncuthd.guru/) - Movies
 * [PrMovies](https://prmovies.homes/) or [yomovies](https://yomovies.rs/) - Movies / TV / Anime / [Telegram](https://t.me/+VozFopt7yyE4Y2Fl)
@@ -642,8 +645,10 @@
 * [SkymoviesHD](https://skymovieshd.name/) - Movies / TV / WWE
 * [FilmyBro](https://filmybro.top/) - Movies
 * [cinemakick](https://www.cinemakick.com/) - Movies
+* [movieapne](https://movieapne.co) - Movies
+* [serialbaba](https://serialbaba.co/) - TV
 * [DesiTVBox](https://www.desitellybox.me/) - TV
-* [SerialGhar](https://serialghar.net/) - TV
+* [SerialGhar](https://serialghar.net/) - TV or [SerialGhar](https://serialghar.me/)
 * [Freewatchserialonline](https://freewatchserialonline.com/) - TV
 * [pakbcn](https://www.bollyzone.tv/) - TV 
 * [PakBcn](http://www.pakbcn.one/) - TV / Live
