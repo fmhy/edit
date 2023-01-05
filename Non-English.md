@@ -648,7 +648,7 @@
 * [movieapne](https://movieapne.co) - Movies
 * [serialbaba](https://serialbaba.co/) - TV
 * [DesiTVBox](https://www.desitellybox.me/) - TV
-* [SerialGhar](https://serialghar.net/) - TV or [SerialGhar](https://serialghar.me/)
+* [SerialGhar](https://serialghar.net/), [2](https://serialghar.me/) - TV
 * [Freewatchserialonline](https://freewatchserialonline.com/) - TV
 * [pakbcn](https://www.bollyzone.tv/) - TV 
 * [PakBcn](http://www.pakbcn.one/) - TV / Live
