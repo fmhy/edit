@@ -319,7 +319,7 @@
 * [LYR9C](https://lyr9c.weebly.com/gba-games.html) - GBA Browser Emulator
 * [LetsPlayGB](https://www.letsplaygb.com/) - Game Boy Browser Emulator
 * [SNESFun](http://www.snesfun.com/) - SNES Browser Emulator
-* [8bbit](http://www.8bbit.com/) - NES Browser Emulator
+* [8bbit](http://www.8bbit.com/) or [Play NES](https://www.playnesonline.com/) - NES Browser Emulators
 * [QAOP](http://torinak.com/qaop/games) - Arcade Games
 * [SSega](https://www.ssega.com/) - Sega Browser Emulator
 * [Let's Play Sega](https://www.letsplaysega.com/) - Sega Genesis Browser Emulator
