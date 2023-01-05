@@ -187,6 +187,7 @@
 * [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - Save Battery by Turning Off Pixels
 * [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro) - View System Information
 * [AllMyContact](https://allmycontact.info/) - Contact Info QR Codes
+* [OpenCalc](https://github.com/Darkempire78/OpenCalc) - Calculator
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - Note Taking Apps
 * [Serenity Notes](https://www.serenity.re/en/notes) - Collaborative Notes
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
@@ -237,7 +238,7 @@
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
 * [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistant
 * [KeyMapper](https://github.com/keymapperorg/KeyMapper) - Key Mapper
-* [openboard](https://github.com/dslul/openboard) - FOSS Keyboard App
+* [openboard](https://github.com/dslul/openboard) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
 * [UnicodePad](https://github.com/Ryosuke839/UnicodePad) - Emoji / Unicode Manager
 * [KeePassDX](https://www.keepassdx.com/), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - Password Managers
 * [Clipboarded](https://f-droid.org/en/packages/com.trianguloy.clipboardeditor/) or [Clipboard History](https://play.google.com/store/apps/details?id=com.rubbishcollector.clipboardhistory) - Clipboard Managers
