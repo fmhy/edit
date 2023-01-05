@@ -33,6 +33,7 @@
 * [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - CPU Speed & Power Optimization Automation
 * [Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome) - GNOME Distro Resources
 * [Enlightment](https://www.enlightenment.org/), [worm](https://github.com/codic12/worm), [qpwm](https://github.com/ssleert/qpwm) or [dwm](https://dwm.suckless.org/) - Window Manager
+* [bluetuith](https://github.com/darkhz/bluetuith) - Bluetooth Manager
 * [swizzin](https://swizzin.ltd/) - Seedbox for Ubuntu / Debian
 * [rtinst](https://github.com/arakasi72/rtinst) - Seedbox Installation Script for Ubuntu / Debian
 * [anime-terminal](https://github.com/YogeshLamichhane/anime-terminal) or [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal for Linux
@@ -153,7 +154,7 @@
 * [Zathura](https://git.pwmt.org/pwmt) - Document Viewer
 * [Winfield](http://www.winfield.demon.nl/) - MS Word for Linux / OS X
 * [TextPieces](https://github.com/liferooter/textpieces) - Quick Text Transformations
-* [Got](https://github.com/fedeztk/got) - Translator
+* [Got](https://github.com/fedeztk/got) or [tl](https://github.com/rilysh/tl) - Translators
 * [DidYouMean](https://github.com/hisbaan/didyoumean) - Grammar Check
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
 * [FlameGApps](https://github.com/flamegapps/flamegapps) - Google Apps Installer
