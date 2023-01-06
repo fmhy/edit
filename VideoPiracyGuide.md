@@ -204,7 +204,7 @@
 
 * **Note** - These are good for finding classic, obscure and short films
 * ⭐ **[Video Search CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)**, [Moviez.space](https://moviez.space/) or [PeteyVid](https://www.peteyvid.com/) - Multi-Site Video Search
-* ⭐ **[OK](https://ok.ru/video)** 
+* ⭐ **[OK](https://ok.ru/video)**
 * ⭐ **[VK](https://vk.com/video)**
 * ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced](https://playlists.at/youtube/search/) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_youtube_tools)
 * ⭐ **[Dailymotion](https://www.dailymotion.com/us)** 
@@ -212,6 +212,7 @@
 * ⭐ **[Niconico](https://www.nicovideo.jp/)** 
 * ⭐ **[Vimeo](https://vimeo.com/)**
 * ⭐ **[Veoh](https://www.veoh.com/)**
+* ⭐ `site:noodlemagazine.com` (add to search)
 * [PeerTube](https://joinpeertube.org/), [2](https://search.joinpeertube.org/) / [Instances](https://instances.joinpeertube.org/instances)
 * [lbry](https://lbry.tv/) / [Frontend](https://librarian.bcow.xyz/) / [App](https://lbry.com/)
 * [my.mail.ru](https://my.mail.ru/video)
