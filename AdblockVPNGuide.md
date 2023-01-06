@@ -180,6 +180,7 @@
 * ⭐ **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
 * ⭐ **[Password Strength Chart](https://i.imgur.com/KSISOPN.png)**
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
+* [Windows 10 Antispy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_antispy_tools)
 * [PaP](https://trypap.com/) or [How Secure Is My Password?](https://howsecureismypassword.net/) - Password Strength Check
 * [StrongPasswordGenerator](https://strongpasswordgenerator.com/), [PassSnip](https://passnip.com/), [ExpressVPN PW Generator](https://www.expressvpn.com/password-generator), [MOAC](https://sr.ht/~seirdy/MOAC/), [Clover](https://cloverleaf.app), [passwrd](https://passwrd.in/#/) or [Bitwarden PW Generator](https://bitwarden.com/password-generator/) - Password Generators
 * [Authenticator](https://authenticator.cc/) - Generate Two-Factor QR Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)
@@ -198,8 +199,6 @@
 * [Adamant](https://adamant.im/) - Decentralized Messenger
 * [Hexchat](https://hexchat.github.io/) - Private IRC Client 
 * [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH / [Info](https://shazow.net/posts/ssh-how-does-it-even/)
-* [Windows 10 Antispy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_antispy_tools)
-* [Privatezilla](https://github.com/builtbybel/privatezilla) - Find and fix Windows 10 Privacy / Security Issues 
 * [simplewall](https://www.henrypp.org/product/simplewall) - Configure Windows Filtering Platform / [GitHub](https://github.com/henrypp/simplewall)
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources 
 * [Blur](https://dnt.abine.com/) - Protect Passwords & Personal Information 
@@ -230,7 +229,7 @@
 * [Cryptee](https://crypt.ee/) - Encrypted Image Storage
 * [PeerTube](https://joinpeertube.org/), [2](https://search.joinpeertube.org/), [3](https://sepiasearch.org/) - Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)
 * [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/), [self-destruct-notes](https://github.com/dustinmoris/self-destruct-notes), [Burn.Link](https://burn.link/), [tlwsd](https://tlwsd.com/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/) or [OneTimeSecret](https://onetimesecret.com/) - Send Self-Destructing Messages 
-* [xcodx.ru](https://xcodx.ru/), [Steg Cloak](https://stegcloak.surge.sh/) or [spam mimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
+* [xcodx.ru](https://xcodx.ru/), [Duckist](https://duckist.com/), [Steg Cloak](https://stegcloak.surge.sh/) or [spam mimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
 * [Pasteburn](https://github.com/pasteburn/pasteburn) - Self-Hosted Encrypted Pastebin
 * [How-to Buy Bitcoin Anonymously](https://coinsutra.com/buy-bitcoin-with-prepaid-card/)
 * [USBKill](https://github.com/hephaest0s/usbkill) - Anti-Forensic Kill-Switch
@@ -360,6 +359,7 @@
 * [TrackingTheTrackers](https://trackingthetrackers.com/) - Check if Site is Disguising Trackers
 * [LMT Anti-Logger](https://leminhthanh.me/antilogger/) - Anti-Loggers (e.g. Keyloggers)
 * [QFX KeyScrambler](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_qfx_keyscrambler) - Scramble Keyboard Inputs
+* [logknife](https://github.com/natesales/logknife) - Remove Sensitive Data from Log Files
 * [WhoTracksMe](https://whotracks.me/) or [Trackography](https://trackography.org/) - Site Tracking Info  
 * [YourAdChoices](https://optout.aboutads.info/?c=2&lang=EN) - Check Your Current IBA Status
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Resource Index](https://github.com/mikalv/awesome-i2p)
@@ -387,7 +387,7 @@
 * [whoer](https://whoer.net/), [encrypted-sni](https://www.cloudflare.com/ssl/encrypted-sni/) or [f.vision](http://www.f.vision/) - Check Network / Browser Security
 * [browserrecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [PixelScan](https://pixelscan.net/), [Unique Machine](https://uniquemachine.org/) or [AmIUnique](https://amiunique.org/) / [Timeline](https://amiunique.org/timeline) - Browser Fingerprinting Test
 * [fluxfonts](https://github.com/da2x/fluxfonts) - Hide Unique Font Fingerprint
-* [Extension Fingerprints](https://github.com/z0ccc/extension-fingerprints) - Extension Fingerprinting Test
+* [Extension Fingerprints](https://github.com/z0ccc/extension-fingerprints) - Extension Fingerprinting Tests
 * [dataskydd](https://webbkoll.dataskydd.net/) or [Blacklight](https://themarkup.org/blacklight) - Check what data-protecting measures a site has taken
 * [uBO-Scope](https://github.com/gorhill/uBO-Scope) - Measure 3rd Party Exposure 
 * [Wikiless](https://wikiless.org/) - Wikipedia Frontend
