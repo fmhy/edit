@@ -119,7 +119,7 @@
 * [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)
 * [Use ESDF](http://www.use-esdf.org/) - OG FPS Control Combo
 * [Pokemon Typechart](https://pokemondb.net/type) - Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)
-* [PokeList](https://pokemonlist.netlify.app/) or [PokeAPI](https://pokeapi.co/) - Pokedex / [App](https://github.com/skydoves/Pokedex)
+* [PokeList](https://pokemonlist.netlify.app/), [Pokedex](https://github.com/skydoves/Pokedex) or [PokeAPI](https://pokeapi.co/) - Pokedex
 * [NYCPokeMap](https://nycpokemap.com/) - Real-time Pokémon Go map for NYC
 * [Playground](https://www.playground.ru/) - Mods, Artbooks, Soundtracks, Cheats & more
 * [Game Currency Conversion Rates](https://docs.google.com/spreadsheets/d/1tcxiGbCIktMDqxGZleHDC5s100tsY7VCTpXUSIkoNFQ/edit) - Convert In-Game Currency to Real Currency
@@ -189,8 +189,8 @@
 
 ## ▷ Multiplayer 
 
-* [find-PlayDate](https://www.find-playdate.com/) - Find People to Play Games With 
-* [Online Fix](https://online-fix.me/) / [Discord](https://discord.gg/yExgFYncMD), [GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/), [FreeLan](https://www.freelan.org/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/), [XTag](https://www.teamxlink.co.uk/), [P2P Lan Server](https://github.com/kangol11/p2p-online-lan-play/wiki/p2p-lan-server---client-play-lan-games-online-with-anyone), [Blu-Games](https://blu-games.tk/) or [softether](https://www.softether.org/) - Play Pirated Multiplayer Games
+* ⭐ **[Multiplayer Fixes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multiplayer_fixes)** - Play Pirated Multiplayer Games Online
+* ⭐ **[Find-PlayDate](https://www.find-playdate.com/)** - Find People to Play Games With 
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
 * [Ping Enhancer](https://www.wowinterface.com/downloads/info16336-PingEnhancer.html), [ExitLag](https://github.com/Borisizdabezt/exitlag-hwid-spoofer) / [Guide](https://youtu.be/Ga0z5xwZyUA) or [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) - Decrease Ping
 * [Server.pro](https://server.pro/) or [Orcs](http://orcs.biz/) - Game Server Hosting
