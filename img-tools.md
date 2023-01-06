@@ -68,6 +68,7 @@
 * [Image Splitter](https://ruyili.ca/image-splitter/), [2](http://www.htmlkit.com/services/is/) - Split Images into Tiles
 * [ComicCompiler](https://github.com/bajuwa/ComicCompiler/) - Combine / Splice Webtoons
 * [Needs More JPEG](http://needsmorejpeg.com/) - Blur / Pixelize Images
+* [Repixel](https://github.com/codforc/Repixel) - RGB Pixel Filter
 * [Color Transfer](https://www.dustfreesolutions.com/CT/CT.html) - Transfer Color Between Images
 * [PicFont](https://picfont.com/) - Add Text to Images
 * [Labellmg](https://github.com/tzutalin/labelImg) or [Acme Annotator](https://acme.com/annotator/) - Image Annotation 
@@ -222,8 +223,8 @@
 * [UnFREEz](http://www.whitsoftdev.com/unfreez/) - Make GIFs From Images
 * [Viphy](https://viphy.typestudio.co/) - Generate GIF From Text
 * [ScreenToGif](https://www.screentogif.com/) or [Peek](https://github.com/phw/peek) - GIF Recorder
-* [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - Turn Screencasts into GIFs
-* [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - Turn YouTube Videos into GIFs 
+* [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - Screencasts to GIF Converters
+* [GIFit](https://github.com/Fauntleroy/GIFit), [Youtube to GIF](https://youtube-to-gif.com/) or [gif-machine](https://github.com/lelandbatey/gif-machine) - YouTube to GIF Converters
 * [petpet](https://benisland.neocities.org/petpet/) / [2](https://zoomerok.app/petpet/) - Headpatting GIF Maker
 * [FlagWaver](https://krikienoid.github.io/flagwaver/) - Create Moving Flag GIFs
 * [Gifski](https://gif.ski/) - GIF Encoder
@@ -510,6 +511,7 @@
 * [Gyazo](https://gyazo.com/)
 * [KSnip](https://github.com/ksnip/ksnip)
 * [LightShot](https://app.prntscr.com/en/index.html)
+* [ScreenRaptor](https://github.com/GirkovArpa/screenraptor)
 * [Nimbus Capture](https://nimbusweb.me/screenshot.php) 
 * [Pika](https://pika.rishimohan.me/) / [GitHub](https://github.com/rishimohan/pika), [FabPic](https://www.fabpic.app/) or [OnPaste](https://onpaste.com/) - Screenshot Editor
 * [Screenshot Guru](https://screenshot.guru/), [CleanShot](https://cleanshot.vercel.app/) or [Site-Shot](https://www.site-shot.com/) - Online Screenshot Tool 
@@ -581,7 +583,7 @@
 * [Adversarial](https://adversarial.io/) - Make Images Machine-Unreadable 
 * [BetterCensorship](https://bc.betterrepack.com/) - Censor and De-censor Images
 * [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi), [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/), [ExifLooter](https://github.com/aydinnyunus/exifLooter) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - EXIF / Metadata Viewers
-* [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [MAT2](https://matweb.info/), [EXIFRemove](https://www.exifremove.com/), [MGOnline](https://www.imgonline.com.ua/delete-exif.php), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data 
+* [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [MAT2](https://matweb.info/), [EXIFRemove](https://www.exifremove.com/), [MGOnline](https://www.imgonline.com.ua/delete-exif.php), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [Metadata-Remover](https://github.com/Anish-M-code/Metadata-Remover), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data 
 * [Pic2Map](https://www.pic2map.com/) - Image EXIF data viewer with GPS support
 * [TheExifer](https://www.thexifer.net/index.php) or [Exiv2](https://www.exiv2.org/) - Image EXIF Data Editors 
 * [Nameexif](https://us.digicamsoft.com/softnamexif.html) - Bulk Image EXIF Data Editor
