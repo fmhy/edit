@@ -226,6 +226,7 @@
 * [Awesome Bots](https://github.com/DopplerHQ/awesome-bots) - Developer Bot Index
 * [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
 * [Libera Chat](https://libera.chat/) - IRC Network for Project Collaboration
+* [DevDeals](https://www.devdeals.org/) - Free Tools / Promotions for Developers
 * [CodeProject](https://www.codeproject.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/)  - Developer Forum
 * [Tech-Blogs](https://tech-blogs.dev/) - Blogs for Developers
 * [The Devs Network](https://thedevs.network/) - Developer Chat
@@ -307,7 +308,6 @@
 * [Discord-panel](https://github.com/Notavone/discord-panel) - Discord Bot Server Manager
 * [Javacord](https://javacord.org/) - Discord Bot Creation Library
 * [Pylon](https://pylon.bot/) or [Bot Designer for Discord](https://apps.apple.com/us/app/bot-designer-for-discord/id1495536477) (Mac) - Discord Bot Builder
-* [Telegram Bot API](https://github.com/tdlib/telegram-bot-api) or [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - Telegram Bot API
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
 * [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - C++ Library for Discord
 * [Twitter (un)official Consumer Key](https://gist.github.com/shobotch/5160017) - Twitter Consumer Keys
@@ -397,6 +397,7 @@
 * [comepress](https://github.com/NayamAmarshe/comepress) - Optimize Sites Image Files
 * [Magic Drop](https://chrome.google.com/webstore/detail/magic-drop/ogbbepddobacadohbfbpmhjomfjmbken) - Drag & Drop Images to Sites
 * [Rest Test Test](http://resttesttest.com/) - Test REST / CORS Services
+* [Dagu](https://github.com/yohamta/dagu) - WebUI Job Manager
 * [HeidiSQL](https://www.heidisql.com/) - SQL Manager
 * [httpbin](https://httpbin.org/) or [Requestbin](https://requestbin.com/) - HTTP Request & Response Service
 * [RemoteMySQL](https://www.remotemysql.com/) - Remote MySQL Database
@@ -885,6 +886,7 @@ Automated Incident Response and Forensics Framework
 * [TailBlocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS Blocks
 * [MarkdownGuide](https://www.markdownguide.org/) - Guide for Markdown (.md) 
 * [HedgeDoc](https://hedgedoc.envs.net/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/), [Apostrophe](https://github.com/ApostropheEditor/Apostrophe), [Glow](https://github.com/charmbracelet/glow), [MarkdownLivePreview](https://markdownlivepreview.com/) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editors
+* [ShowMD](https://github.com/UtilityHotbar/showmd) - Beautify Markdown
 * [Lyx](https://www.lyx.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors / [Guide](https://www.learnlatex.org/)
 * [Table Magic](https://stevecat.net/table-magic/) or [Markdown Convert](https://markdown-convert.com/) - Table to Markdown Converters
 * [Markdown To HTML](https://markdowntohtml.com/) - Markdown to HTML Converter
@@ -900,7 +902,7 @@ Automated Incident Response and Forensics Framework
 * ⭐ **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [awesome-lis](https://github.com/topics/awesome-list) or [awesome-github](https://github.com/fffaraz/awesome-github) - List Indexes
 * [GitLab](https://about.gitlab.com/), [FSFE](https://git.fsfe.org/) or [NotABug](https://notabug.org/) - GitHub Alternatives
 * [GitHubStatus](https://www.githubstatus.com/) - GitHub Outage Status
-* [Git Explorer](https://gitexplorer.com/), [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html) or [Git Commands](https://gabrieldejesus.github.io/git-commands/), [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists / Search
+* [Git Explorer](https://gitexplorer.com/), [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html), [git-cheatsheet](https://hackprogramming.com/notes/git-cheatsheet) or [Git Commands](https://gabrieldejesus.github.io/git-commands/) / [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists / Search
 * [GitHub Desktop](https://desktop.github.com/) or [Tower](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_tower) - Git Clients
 * [GitHub.Dev](https://github.dev/) - GitHub Web App
 * [refined-github](https://github.com/refined-github/refined-github) or [Ungit](https://github.com/FredrikNoren/ungit) - Improved GitHub Interface
@@ -916,6 +918,7 @@ Automated Incident Response and Forensics Framework
 * [Snipli](https://www.snipli.xyz/) - Convert Localfiles to Gist
 * [Git / Github Guide](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
 * [GitBook](https://www.gitbook.com/) - Document Collaboration
+* [Forge Comparison](https://git.sdf.org/humanacollaborator/humanacollabora/src/branch/master/forge_comparison.md) - Git Colab Tool Comparison
 * [dotfiles](https://dotfiles.github.io/) - GitHub Dotfiles
 * [Refined GitHub](https://github.com/sindresorhus/refined-github) - Simplifies GitHub Interface & Adds Features 
 * [Octobox](https://octobox.io/) or [Ghostly](https://ghostlyapp.net/) / [GitHub](https://github.com/patriksvensson/ghostly) - GitHub Notifications
@@ -924,12 +927,12 @@ Automated Incident Response and Forensics Framework
 * [Tara](https://tara.ai/) - Git Project Manager
 * [Serctl](https://d.serctl.com/) - Backup GitHub Projects
 * [GitList](https://gitlist.org/) - Elegant Git Repository Viewer / [GitHub](https://github.com/klaussilveira/gitlist)
-* [Railway](https://railway.app/) - Code Repository Manager
 * [Gittyup](https://murmele.github.io/Gittyup/) - Git Source Code History
 * [Pew Pew](https://adrianmato.com/pewpew) - Cleanup Unused Repos
 * [git](https://git-scm.com/) - Version Control System
 * [Awesome First PR Oppotunities](https://github.com/MunGell/awesome-for-beginners) - Beginner Friendly FOSS Project Index
-* [Git Extensions](https://gitextensions.github.io/) or [Thermal](https://thermal.codecarrot.net/) - Git Repository Manager
+* [multi-gitter](https://github.com/lindell/multi-gitter) - Bulk Repository Updater
+* [Git Extensions](https://gitextensions.github.io/), [Railway](https://railway.app/) or [Thermal](https://thermal.codecarrot.net/) - Git Repository Managers
 * [GitZip](https://gitzip.org/) or [DownGit](https://minhaskamal.github.io/DownGit) - Download GitHub Repository Sub-Folders / Files
 * [Install from GitHub](https://github.com/MaxGyver83/install-from-github) - Install Packages / Binaries Directly from GitHub 
 * [GitHub Wiki Search](https://github.com/linyows/github-wiki-search) - Search GitHub Repository Wikis
@@ -1051,6 +1054,7 @@ Automated Incident Response and Forensics Framework
 * [core-plot](https://github.com/core-plot/core-plot) - Core Plot Source Code / Apps
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) - Livecoding Resources
 * [Telosys](http://www.telosys.org/) - Code Generator
+* [tuc](https://github.com/riquito/tuc) - Improved Code Cut
 * [snowbin](https://paste.fmhy.cf/) / [2](https://paste.bignutty.xyz/) / [3](https://paste.taskyy.cf/), [Mystb.in](https://mystb.in/) or [snippet.host](https://snippet.host/) - Code Pastebins
 * [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
 * [Autosaved](https://github.com/nikochiko/autosaved) - Autosave Code / [GitHub](https://github.com/tkellogg/dura)
@@ -1201,7 +1205,7 @@ Automated Incident Response and Forensics Framework
 
 ## ▷ API Tools
 
-* [API List](https://apilist.fun/), [APIsList](https://apislist.com/), [Awesome APIs](https://github.com/TonnyL/Awesome_APIs), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - API Indexes
+* [API List](https://apilist.fun/), [APIsList](https://apislist.com/), [API House](https://apihouse.vercel.app/), [Awesome APIs](https://github.com/TonnyL/Awesome_APIs), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - API Indexes
 * [Insomnia](https://insomnia.rest/) - API Client
 * [Strapi](https://strapi.io/) or [Postman](https://www.postman.com/) - API Builders
 * [Directus](https://directus.io/) - SQL to API Platform
@@ -1226,6 +1230,8 @@ Automated Incident Response and Forensics Framework
 * [Shizuku](https://github.com/RikkaApps/Shizuku) - Use System APIs Directly with ABD / Root 
 * [Algolia](https://www.algolia.com/), [TypeSense](https://typesense.org/), [StorkSearch](https://stork-search.net/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/), [Sphinx](http://sphinxsearch.com/) or [FusionBot](https://www.fusionbot.com/) - Search API
 * [Reacher](https://reacher.email/) - Email Verification API
+* [Telegram Bot API](https://github.com/tdlib/telegram-bot-api) or [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - Telegram Bot API
+* [mqtt2telegram](https://zjor.github.io/mqtt2telegram/) - Telegram Messaging API
 * [instagrapi](https://github.com/adw0rd/instagrapi) - Unofficial Instagram API for Python
 * [TextNow API](https://github.com/leogomezz4t/PyTextNow_API) - Python Texting API 
 * [Perspective API](https://www.perspectiveapi.com/) - Toxicity Reduction API
