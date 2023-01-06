@@ -21,15 +21,15 @@
 * ⭐ **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
 * ⭐ **[mpv](https://mpv.io/)** - Video Player / [Frontend](https://github.com/celluloid-player/celluloid)
 * ⭐ **[syncthing](https://syncthing.net/)** or [portal](https://github.com/SpatiumPortae/portal) - File Sync
-* ⭐ **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)**, **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](http://bitflu.workaround.ch/), [Torrentor](https://github.com/Prodito/Torrentor) or [kTorrent](https://apps.kde.org/en/ktorrent) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Client 
-* [qBittorrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools) 
+* ⭐ **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)**, **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](http://bitflu.workaround.ch/), [Torrentor](https://github.com/Prodito/Torrentor) or [kTorrent](https://apps.kde.org/en/ktorrent) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Clients 
+* ⭐ **[qBittorrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)** 
 * rTorrent Tools - [Extended](https://github.com/pyroscope/rtorrent-ps) / [Tools](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [All Seeders Column](https://github.com/AkdM/rutorrent-all-seeders) / [Docker Build](https://github.com/binhex/arch-rtorrentvpn)
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - RTorrent Web Frontend / [Themes](https://github.com/InAnimaTe/rutorrent-themes), [2](https://github.com/artyuum/3rd-party-ruTorrent-Themes)
 * [Linux x Technology](https://linuxdiscord.com/), [Ezlinux](https://ezlinux.net/), [Linux.Chat](https://discord.gg/linuxchat) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discussion / Forums
 * [Linux Journey](https://linuxjourney.com/) - Learn Linux
 * [Linux Difficulty Chart](https://i.imgur.com/H8sw3L4.png) - Distros Ranked by Difficulty
 * [BusyBox](https://frippery.org/busybox/) - Unix Tools
-* [Awesome-shell](https://github.com/alebcay/awesome-shell) - List of CLI Tools
+* [Awesome-shell](https://github.com/alebcay/awesome-shell) or [LinuxTools](https://github.com/naddurkostia/LinuxTools) - Linux CLI Tools
 * [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - CPU Speed & Power Optimization Automation
 * [Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome) - GNOME Distro Resources
 * [Enlightment](https://www.enlightenment.org/), [worm](https://github.com/codic12/worm), [qpwm](https://github.com/ssleert/qpwm) or [dwm](https://dwm.suckless.org/) - Window Manager
@@ -148,7 +148,7 @@
 * [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
 * [easy-google-drive-downloader](https://github.com/mzramna/easy-google-drive-downloader) or [GDown](https://github.com/wkentaro/gdown) - Google Drive Downloader
 * [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - Mount GDrive on Linux
-* [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [xplr](https://xplr.dev/) / [GitHub](https://github.com/sayanarijit/xplr) / [Discord](https://discord.com/invite/JmasSPCcz3), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
+* [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [CatCLI](https://github.com/deadc0de6/catcli), [xplr](https://xplr.dev/) / [GitHub](https://github.com/sayanarijit/xplr) / [Discord](https://discord.com/invite/JmasSPCcz3), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - PDF Editor
 * [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://flathub.org/apps/details/com.github.dail8859.NotepadNext), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - Text Editor
 * [Zathura](https://git.pwmt.org/pwmt) - Document Viewer
@@ -180,6 +180,7 @@
 * [lsix](https://github.com/hackerb9/lsix) - View Images in Terminal
 * [MkPosters](https://github.com/patrick-kidger/mkposters) - Turn Markdown Files into Posters
 * [Rapid](https://damonlynch.net/rapid/) - Quick Linux Photo Importer
+* [QR Scan](https://github.com/sayanarijit/qrscan) - QR Code Scanner
 * [Drawing](https://github.com/maoschanz/drawing) - Drawing App
 * [YouTube-Viewer](https://github.com/trizen/youtube-viewer) - YouTube Linux Client / [Fork](https://github.com/trizen/pipe-viewer) 
 * [Gnome-Twitch](https://github.com/vinszent/gnome-twitch) - Twitch Desktop Client
@@ -213,6 +214,7 @@
 * [todo](https://github.com/sioodmy/todo/) or [pls-cli](https://github.com/guedesfelipe/pls-cli) - To-Do Apps
 * [aerc](https://aerc-mail.org/), [ElectronMail](https://github.com/vladimiry/ElectronMail) or [dodo](https://github.com/akissinger/dodo) - Email Client
 * [Link Unshortener](https://underpassapp.com/LinkUnshortener/) - Unshorten Links
+* [lnkr](https://github.com/naelxd/lnkr) - Link Saving CLI
 * [sttr](https://github.com/abhimanyu003/sttr) - Base64 Encryption / Decryption CLI
 * [KTouch](https://apps.kde.org/en/ktouch), [typer](https://github.com/maaslalani/typer) or [Toipe](https://github.com/Samyak2/toipe) - Typing Practice
 * [wslu](https://github.com/wslutilities/wslu) - Utilities for Windows 10 Linux Subsystem 
