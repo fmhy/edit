@@ -492,6 +492,7 @@
 * [Sunamu](https://github.com/NyaomiDEV/Sunamu) - Now Playing Songs Display
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - Identify Playing Songs
 * [FindMusicByLyrics](https://findmusicbylyrics.com/) - Multi-Site Lyrics Search
+* [dumb](https://github.com/rramiachraf/dumb) - Genius Lyrics Frontend
 * [Whisper](https://github.com/openai/whisper) or [Vosk](https://github.com/alphacep/vosk-api) - Speech Recognition
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Soundux](https://soundux.rocks/) / [GitHub](https://github.com/Soundux/Soundux) or [Resanance](https://resanance.com/) - Soundboard Program
 * [MyInstants](https://www.myinstants.com/index/us/), [InternetsFun](https://instantsfun.es/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboard
@@ -763,11 +764,12 @@
 * [SerialPortAssistant](https://github.com/KangLin/SerialPortAssistant) - Serial Port Assistant
 * [.new](https://whats.new/shortcuts) - New Project Shortcuts
 * [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - Follow RSS Feeds
-* [MoRSS](https://morss.it/), [FetchRSS](https://fetchrss.com/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
+* [MoRSS](https://morss.it/), [rsspls](https://github.com/wezm/rsspls), [FetchRSS](https://fetchrss.com/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
 * [RSSMail](https://git.panda-roux.dev/rssmail/about/) or [FeedButler](https://feedbutler.app/en) - RSS to Email
 * [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - RSS Feed for Sites Missing It
-* [All about RSS](https://github.com/AboutRSS/ALL-about-RSS) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds & Tools
+* [All about RSS](https://github.com/AboutRSS/ALL-about-RSS) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
 * [Sift RSS](https://siftrss.com/) - RSS Feed Filters
+* [Feed Visualizer](https://github.com/code2k13/feed-visualizer) - RSS Feed Visualizer
 * [hacker-feeds-cli](https://github.com/Mayandev/hacker-feeds-cli) - GitHub, Reddit, Hacker News & other Feeds
 * [sheet-posting](https://www.sheet-posting.me/) - Convert Google Spreadsheets into Blogs & RSS Feeds
 * [Kill the Newsletter](https://kill-the-newsletter.com/) - Convert email newsletters into Atom Feeds 
@@ -776,6 +778,7 @@
 * [Rescan](https://rescan.io/) - Find Out Technologies Used to Build Any Site
 * [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - Archive, Scrape & Crawl Sites
 * [OutWit](https://www.outwit.com/) - Scrape / Organize Website Data
+* [WaybackShot](https://github.com/sam5epi0l/waybackshot) - Retrieve Site Screenshots via Wayback Machine 
 * [WebMailExtractor](https://www.webemailextractor.com/#trynow) - Extract Emails / Phone #s from Webpages
 * [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring), [Sken.io](https://www.sken.io/), [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/) or [FollowThatPage](https://followthatpage.com/) - Page Change Detection / Notification 
 * [CertAlert](https://certalert.net/) - Alerts you when a TLS/SSL Certificate Expires 
@@ -876,7 +879,7 @@
 * [IP Location](https://iplocation.net/) - Check IP Location
 * [IP List](http://magic-cookie.co.uk/iplist.html) - Convert CIDR Notation to UP Range
 * [IP Rotator](https://github.com/Ge0rg3/requests-ip-rotator) - Bypass IP-based Rate-Limits Requests 
-* [open-ports](https://www.yougetsignal.com/tools/open-ports/), [Networkappers](https://networkappers.com/), [PortCheckTool](https://www.portchecktool.com/), [PortChecker](https://www.portchecker.co/), [PortCheckers](https://www.portcheckers.com/) or [CanYouSeeMe](https://canyouseeme.org/) - Open Port Checkers
+* [open-ports](https://www.yougetsignal.com/tools/open-ports/), [Masscan-ng](https://github.com/bi-zone/masscan-ng), [Networkappers](https://networkappers.com/), [PortCheckTool](https://www.portchecktool.com/), [PortChecker](https://www.portchecker.co/), [PortCheckers](https://www.portcheckers.com/) or [CanYouSeeMe](https://canyouseeme.org/) - Open Port Checkers
 * [DownloadTestr](http://txti.es/downloadtestr) - Download Test Files to Test Download Speed 
 * [NeverSSL](http://neverssl.com/) or [HTTP Forever](http://httpforever.com/) - Fix Public WiFi Login Pages
 * [WiFi-Password](https://github.com/sdushantha/wifi-password) - Fetch WiFi Password / Generate QR Code
@@ -980,7 +983,7 @@
 * ⭐ **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)**, [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) or [awesome-custom-search-engines](https://github.com/davzoku/awesome-custom-search-engines) - Custom Search Engine Directories
 * [Metaphor](https://metaphor.systems/) - Descriptive AI Search Engine / [Discord](https://discord.com/invite/jvz7GS9W8Y)
 * [100 Search Engines](https://www.100searchengines.com/) - Search With 100 Search Engines
-* [pSearch](https://serjsx.github.io/wpSearch/), [Search All](https://www.searchall.net/) or [AIO Search](https://www.aiosearch.com/) - Multi Site Search
+* [pSearch](https://serjsx.github.io/wpSearch/), [Search All](https://www.searchall.net/), [CombinedSearch](https://combinedsearch.io/) or [AIO Search](https://www.aiosearch.com/) - Multi-Site Search
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1) - Search File Hosts
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0), [Pastebin.ga](https://pastebin.ga/) or [Paste Skimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) - Search Pastebins
 * [Software CSE](https://cse.google.com/cse?cx=57b3962509047447e), [2](https://cse.google.com/cse?cx=ec7d33ef358ae1b65) - Search Software Sites
@@ -1181,7 +1184,7 @@
 * [RedditRepostSleuth](https://github.com/barrycarey/RedditRepostSleuth) - Repost Detection Bot
 * [DelayForReddit](https://www.delayforreddit.com/) - Reddit Post Scheduler
 * [Reddit Desktop Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_desktop_apps) 
-* [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader) - Download Media from Reddit 
+* [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader) or [ReScrapper](https://github.com/psantheus/ReScrapper) - Download Media from Reddit 
 * [Bulk Downloader for Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Reddit Bulk Submission Downloader
 * [Pushshift.io](https://pushshift.io/) or [SocialGrep](https://socialgrep.com/) - Reddit Statistics
 * [Upvote Stats](https://www.upvotestats.com/) - Upvote Stats
@@ -1246,14 +1249,15 @@
 * [Discord Sticker Viewer](https://sticker-view.vercel.app/) - View Discord Stickers
 * [Discord Image Downloader Go](https://github.com/Seklfreak/discord-image-downloader-go) - Discord Image Downloader
 * [Tiktok-Auto-Embed](https://github.com/dumax315/Tiktok-Auto-Embed) - Discord TikTok Embed Downloader
+* [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
 * [LAN Party VPN](https://github.com/gyf304/lpvpn) - Run VPN on top of Discord
+* [discord-neofetch](https://github.com/savioxavier/discord-neofetch) - Neofetch Style Discord Info
 * [DiscordFS](https://github.com/dhrumilp15/discordfs) - Discord File Search
 * [DeepL](https://github.com/aisuzuki/dd-bot) - Discord Chat Auto Translator
 * [FixTweet](https://github.com/dangeredwolf/FixTweet) or [discord-twitter-bot](https://github.com/NNTin/discord-twitter-bot) - Fix Discord Twitter Embeds
 * [PreMiD](https://premid.app/) - Display internet activity in Discord status / [Github](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.gg/WvfVZ8T) 
 * [Alternatives to MEE6](https://alternativestomee6.com/) - [Discord](https://discord.gg/WrbMdWHfNd) 
-* [Titan Embeds](https://titanembeds.com/) - Create Discord Chat Embeds
 * [Divider Generator](https://jsfiddle.net/Davri/wf49xnob/159/) - Create Discord Role Dividers Discord Role
 * [MonitoRSS](https://monitorss.xyz/), [2](https://github.com/synzen/MonitoRSS-Clone) - RSS Discord Bot
 * [MovieNightBot](https://github.com/Chopknee/MovieNightBot) - Movie Night Voting Bot
@@ -1586,8 +1590,9 @@ Twitch Stream Tracker
 * [Twitter Linker](https://twitterlinker.vercel.app/) or [Twitter Images](https://twitter-images.vercel.app/) - Generate Twitter Card for Your Links
 * [OneMillionTweetMap](https://onemilliontweetmap.com/) or [TwitterNano](https://www.twitternano.com/) - Real-Time Tweet Map 
 * [Twitter Matrix](https://konard.github.io/twittermatrix/messages.html) - Live Tweet Matrix Animation
-* [All My Tweets](https://www.allmytweets.net/connect/) - View tweets, likes, followers or timeline on one page 
-* [TwikTwok](https://twiktwok.github.io/) - Swipe through Twitter videos
+* [All My Tweets](https://www.allmytweets.net/connect/) - View All Tweets
+* [BirdFeeder](https://getbirdfeeder.com/) - Twitter Bookmark Manager
+* [TwikTwok](https://twiktwok.github.io/) - Swipe Through Twitter Videos
 * [Klear](https://klear.com/free-tools/find-twitter-influencers) - Find Influencers 
 * [Twiangulate](http://twiangulate.com/search/) - Compare Twitter User Followers 
 * [FollowerWonk](https://followerwonk.com/) - Find, Analyze & Optimize Followers
@@ -2140,6 +2145,7 @@ Twitch Stream Tracker
 * [RollMyFile](https://rollmyfile.com/) - Open Files Online
 * [AList](https://github.com/Xhofe/alist) - File Listing Program
 * [leteckaposta](http://leteckaposta.cz/), [Send](https://send.vis.ee/), [File Send](https://filesend.standardnotes.com/) or [LitterBox](https://litterbox.catbox.moe/) - Temp File Hosts
+* [unzip-http](https://github.com/saulpw/unzip-http) - Unzip via HTTP Without Downloading
 * [ProtectedZip](https://protectedzip.com/) - Encrypt Zip Files
 * [objectfixzip](https://www.essentialdatatools.com/products/objectfixzip/) - Repair Zip Files
 * [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
