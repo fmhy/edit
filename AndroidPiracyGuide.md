@@ -51,11 +51,13 @@
 * [UPX Browser](https://www.upxb.net/) or [ceno-browser](https://censorship.no/en/index.html) / [GitHub](https://github.com/censorship-no/ceno-browser) - Proxy Browser
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - App Isolation
 * [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - Encrypted File Explorer
+* [Wasted](https://github.com/x13a/Wasted) - Emergency Data Wipe
 * [UntrackMe](https://fedilab.app/wiki/untrackme/) - Frontend Redirect / Link Unshorten / URL Cleanup
 * [Stealth](https://gitlab.com/cosmosapps/stealth) - Privacy-Based Reddit Frontend
 * [XPrivacyLua](https://lua.xprivacy.eu/) / [GitHub](https://github.com/M66B/XPrivacyLua/) - Privacy Manager 
 * [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard&hl=en_US&gl=QA), [AppWarden](https://gitlab.com/AuroraOSS/AppWarden) or [TrackerControl](https://trackercontrol.org/) - App Permissions Tracker
-* [Exodus](https://reports.exodus-privacy.eu.org/en/), [TrackerControl](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) or [HideDroid](https://github.com/Mobile-IoT-Security-Lab/HideDroid) - Android App Tracker & Permission Index / [APK](https://github.com/Exodus-Privacy/exodus-android-app)
+* [Exodus](https://reports.exodus-privacy.eu.org/en/), [TrackerControl](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) or [HideDroid](https://github.com/Mobile-IoT-Security-Lab/HideDroid) - Android App Tracker / Permission Index / [APK](https://github.com/Exodus-Privacy/exodus-android-app)
+* [LibChecker](https://github.com/zhaobozhen/LibChecker) - View App Third-Party Libraries
 * [OSS Release Tracker](https://github.com/jroddev/android-oss-release-tracker) - Open Source App Update Tracker
 * [Sapio](https://github.com/jonathanklee/Sapio) - Scan Apps for Google Dependency
 * [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard) - Android 12-like Privacy Dashboard / [GitHub](https://github.com/RushikeshKamewar/PrivacyDashboard)
@@ -211,6 +213,7 @@
 * [Raise To Answer](https://play.google.com/store/apps/details?id=me.hackerchick.raisetoanswer) - Answer Phone by Raising to Ear
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - Android Cleanup Tool
 * [Hail](https://github.com/aistra0528/Hail) - Auto-Deactivate Unused Apps
+* [Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27) - How-to Run Docker on Android
 * [L3MON](https://github.com/D3VL/L3MON) - Remote Android Manager
 * [MouseRemote](https://github.com/Akshayaap/MouseRemote) - Use Android as Mouse
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
@@ -265,8 +268,8 @@
 * [Codo Dodo](http://www.codododo.com/) - Navigation Bar Customization
 * [Custom Volume Panel](https://play.google.com/store/apps/details?id=com.codingbatch.volumepanelcustomizer) - Customize Volume Bar
 * [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - Dictionary App
-* [AutomaTag](http://automatag.com/) - Metadata Organizer
 * [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - Auto Clicker
+* [AutomaTag](http://automatag.com/) - Metadata Organizer
 * [Aves](https://github.com/deckerst/aves) - Metadata Explorer
 * [GameGuardian](https://gameguardian.net/) - Game Hack / Alteration Tool
 * [Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - PokemonGO Resources
