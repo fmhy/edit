@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/6PunOC2.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/CZzUwT1.png)** - For mobile users
 
 ***
 
@@ -519,6 +519,18 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 
 ***
 
+#### Decentralized Social Networks
+
+⭐ **[Mastodon](https://joinmastodon.org/)**
+
+[diaspora](https://diasporafoundation.org/) / [2](https://diasp.org/), [MissKey](https://join.misskey.page/en/), [Pleroma](https://pleroma.social/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendi](https://friendi.ca/), [Zotlabs](https://zotlabs.org/page/hubzilla/hubzilla-project)
+
+**Mastodon Tools**
+
+[Instances](https://instances.social/) / [Web Client](https://pinafore.social/) / [2](https://mastodon.social/) / [Desktop Client](https://flathub.org/apps/details/com.github.bleakgrey.tootle), [2](https://github.com/h3poteto/whalebird-desktop) / [Account Link](https://moa.party/) / [Crosspost](https://crossposter.masto.donte.com.br/) / [Schedule](https://scheduler.mastodon.tools/), [2](https://plan.fedilab.app/) / [Embedded Feeds](https://www.mastofeed.com/) / [Timelines](https://mastovue.glitch.me/)
+
+***
+
 #### Design Resources 
 
 ⭐ **[Design Resources](https://rentry.co/dt92f)**
@@ -679,7 +691,7 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 
 #### FFmpeg Tools
 
-[Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Builds](https://github.com/BtbN/FFmpeg-Builds) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial), [2](https://ffmpeg.guide/) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730) / [Script](https://codeberg.org/Denshi/Scripts/src/branch/master/cvrt) / [Command Generator](https://alfg.dev/ffmpeg-commander/)
+[Frontend](https://github.com/llamaret/MystiQ) / [GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Builds](https://github.com/BtbN/FFmpeg-Builds) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial), [2](https://ffmpeg.guide/) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730) / [Script](https://codeberg.org/Denshi/Scripts/src/branch/master/cvrt) / [Command Generator](https://alfg.dev/ffmpeg-commander/), [2](https://evanhahn.github.io/ffmpeg-buddy/)
 
 ***
 
@@ -1278,7 +1290,7 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 
 **DNS Leak Tests**
 
-[DNS Leak Test](https://www.dnsleaktest.com/), [tenta](https://tenta.com/test/), [Bash DNS Test](https://bash.ws/dnsleak) 
+[DNS Leak Test](https://www.dnsleaktest.com/), [tenta](https://tenta.com/test/), [Bash DNS Test](https://bash.ws/dnsleak), [DNS Check](https://dnscheck.tools)
 
 ***
 
@@ -2116,7 +2128,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Random Sites
 
-[StumblingOn](https://stumblingon.com/), [Stumbled](https://stumbled.to/), [BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/) / [2](https://theuselessweb.site/), [JumpStick](https://jumpstick.app/), [OpenBulkURL](https://openbulkurl.com/random/), [The Forest](https://theforest.link/), [WhatsMYIP](http://random.whatsmyip.org/), [takeuselesswebsite](http://www.takeuselesswebsite.com/), [Random-Website](https://random-website.com/), [Wilderness Land](https://wilderness.land/)
+[Stumbled](https://stumbled.to/), [BoredButton](https://www.boredbutton.com/), [Sharkle!](https://sharkle.com/), [The Useless Web](https://theuselessweb.com/) / [2](https://theuselessweb.site/), [JumpStick](https://jumpstick.app/), [OpenBulkURL](https://openbulkurl.com/random/), [The Forest](https://theforest.link/), [WhatsMYIP](http://random.whatsmyip.org/), [takeuselesswebsite](http://www.takeuselesswebsite.com/), [Random-Website](https://random-website.com/), [Wilderness Land](https://wilderness.land/)
 
 ***
 
@@ -2628,6 +2640,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[smailpro](https://smailpro.com/)** (gmail)
 * ⭐ **[Emailnator](https://www.emailnator.com/)** (gmail)
+* ⭐ **[Temp Gmail](https://tempmail.dev/en/Gmail)** (gmail)
 
 [getnada](https://getnada.com/), [10 Minute Mail](https://temp-mail.org/en/10minutemail), [Temp Mail](https://temp-mail.org/), [cs.email](https://www.cs.email/), [maildrop](https://maildrop.cc/), [mailinator](https://www.mailinator.com/), [mailnesia](https://mailnesia.com/), [10minutemail](https://10minutemail.com/), [spamgourmet](https://www.spamgourmet.com/), [tempmail.ninja](https://tempmail.ninja/), [disposable](https://github.com/0x19/disposable), [anonbox](https://anonbox.net/), [youdabomb](https://tempmail.youdabomb.social/), [Generator.email](https://generator.email/), [kuku](https://m.kuku.lu/), [Email on Deck](https://www.emailondeck.com/), [temp-mails](https://www.temp-mails.com/), [Mohmal](https://www.mohmal.com/en), [Mohmal](https://www.mohmal.com/en), [tempmail](https://github.com/sdushantha/tmpmail) (terminal), [Temp Mail](https://rapidapi.com/Privatix/api/temp-mail) (api), [xkx](https://xkx.me/), [33mail](https://33mail.com/), [Guerillamail](https://www.guerrillamail.com/), [edumail](https://edumail.icu/), [cs.email](https://cs.email/), [Mail.tm](https://mail.tm/en), [temporarymail](https://temporarymail.com/), [FakeMailGenerator](http://www.fakemailgenerator.com/), [emailfake](https://emailfake.com/), [tempmailo](https://tempmailo.com/), [10minutesemail](https://10minutesemail.net/), [emailondeck](http://emailondeck.com/), [tempm](https://tempm.com/), [tempail](https://tempail.com/), [tempmailaddress](https://www.tempmailaddress.com/), [eyepaste](http://www.eyepaste.com/), [mintemail](http://www.mintemail.com/), [mytemp](https://mytemp.email/), [sharklasers](https://www.sharklasers.com/), [yopmail](http://www.yopmail.com/en/), [mail.td](https://mail.td/), [dropmail](https://dropmail.me/en/), [cryptogmail](https://cryptogmail.com/), [inboxkitten](https://inboxkitten.com/), [anonymmail](https://anonymmail.net/), [tmailweb](https://tmailweb.com/), [one-off](https://one-off.email/), [another-temp-mail](https://www.another-temp-mail.com/), [tempr](https://tempr.email/en/), [eTempMail](https://etempmail.net/), [fakemail](https://www.fakemail.net/), [throwawaymail](https://www.throwawaymail.com/), [hour](https://www.hour.email/), [harakirimail](https://harakirimail.com/), [33mail](https://www.33mail.com/), [hottempmail](https://hottempmail.com/), [dispomail](https://dispomail.xyz/), [tempmail](https://tempmail.dev/), [email-generator](https://yopmail.com/en/email-generator), [moakt](https://www.moakt.com/), [24mail](http://24mail.chacuo.net/), [linshi-email](https://www.linshi-email.com/), [mail1s](https://en.mail1s.com/), [nolog](https://nolog.email/), [mailmenot](https://www.mailmenot.io/), [gmailcity](https://gmailcity.com/), [haribu](https://haribu.net/), [disposablemail](https://www.disposablemail.com/), [trashmail](https://trashmail.ws/), [emailsensei](http://emailsensei.com/), [emailtemporanee](https://emailtemporanee.com/), [fakermail](https://fakermail.com/), [tempmail-online](https://www.tempmail-online.com/), [abandonmail](https://www.abandonmail.com/), [10minutesmail](http://10minutesmail.com/), [mailtemp](https://mailtemp.top/), [itsmdaily](https://www.itsmdaily.com/10-minute-email-temporary-mail-address/), [rsolution](http://rsolution.be/free-temporary-disposable-email.RSolution), [temporary-email](https://temporary-email.com/), [/tempmail.plus](https://tempmail.plus/en/), [mail-temp](https://mail-temp.com/), [temp-mail](https://temp-mail.us/), [20minutemail](https://www.20minutemail.com/), [easytrashmail](https://www.easytrashmail.com/), [1secmail](https://www.1secmail.com/), [10minutemail](https://www.lite14.us/10minutemail/), [fex](https://fex.plus/en/), [sneya](https://jooko.info/sneya), [email-fake](https://email-fake.com/), [mintemail](https://www.mintemail.com/), [temporary-mail](https://www.temporary-mail.net/), [luxusmail](https://luxusmail.org/), [trashinbox](https://trashinbox.net/), [tempmail](https://tempmail.zone/), [obagg](https://od.obagg.com/), [spambox](https://spambox.xyz/), [mailet](https://mailet.in/), [tempmails](https://tempmails.net/), [receivemail](https://www.receivemail.org/), [rainmail](https://rainmail.xyz/), [tempemail](https://tempemail.co/), [burner](https://burner.kiwi/), [mailpoof](https://mailpoof.com/), [tempmail.altmails](https://tempmail.altmails.com/), [instant-email](https://instant-email.org/), [temp-mail.io](https://temp-mail.io/), [temp-inbox](https://temp-inbox.com/), [minutemailbox](https://www.minutemailbox.com/), [tempmaili](https://tempmaili.com/), [minuteinbox](https://minuteinbox.com/), [emailhippo](https://tools.emailhippo.com/), [emailtemp](https://emailtemp.org/), [hour.emai](https://hour.email/), [tempmailid](https://tempmailid.com/), [t-mail](https://t-mail.org/), [emaildrop](https://www.emaildrop.io/)
 
@@ -2884,7 +2897,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Text Rephrashing
 
-[QuillBot AI](https://quillbot.com/) / [Premium Unlock](https://github.com/blueagler/QuillBot-Premium-Crack) / [2](https://github.com/razoo-choudhary/quillbot-premium) / [Token](https://pastebin.com/ezkjxWd1) / [Script](https://pastebin.com/GWMizUhq), [Rewrite Tool](https://www.rewritetool.net/), [Paraphraz](https://paraphraz.it/), [Rewriter](https://rewriter.tools/), [Spinbot](https://spinbot.com/), [Paraphrasing Tool](https://paraphrasetool.com/), [ArticleReword](https://www.articlereword.com/rewriter/), [Rephrasely](https://rephrasely.com/), [Paraphraser](https://www.paraphraser.io/), [SmartArticleWriter](https://smartarticlerewriter.com/), [Paraphrase-Online](https://paraphrase-online.com/), [articlerewritertool](https://articlerewritertool.com/), [Trubo Spinner](http://script4.prothemes.biz/), [rephraser](https://www.rephraser.net/rewording-tool/), [summarizetool](https://www.summarizetool.com/), [caligonia](http://caligonia.com/a2/rewrite.php), [paraphrasing-tool](http://paraphrasing-tool.com/), [freearticlespinning](http://www.freearticlespinning.com/), [article-spinner](http://free-article-spinner.com/)
+[QuillBot AI](https://quillbot.com/) / [Premium Unlock](https://github.com/blueagler/QuillBot-Premium-Crack) / [Token](https://pastebin.com/ezkjxWd1) / [Script](https://pastebin.com/GWMizUhq), [Rewrite Tool](https://www.rewritetool.net/), [Paraphraz](https://paraphraz.it/), [Rewriter](https://rewriter.tools/), [Spinbot](https://spinbot.com/), [Paraphrasing Tool](https://paraphrasetool.com/), [ArticleReword](https://www.articlereword.com/rewriter/), [Rephrasely](https://rephrasely.com/), [Paraphraser](https://www.paraphraser.io/), [SmartArticleWriter](https://smartarticlerewriter.com/), [Paraphrase-Online](https://paraphrase-online.com/), [articlerewritertool](https://articlerewritertool.com/), [Trubo Spinner](http://script4.prothemes.biz/), [rephraser](https://www.rephraser.net/rewording-tool/), [summarizetool](https://www.summarizetool.com/), [caligonia](http://caligonia.com/a2/rewrite.php), [paraphrasing-tool](http://paraphrasing-tool.com/), [freearticlespinning](http://www.freearticlespinning.com/), [article-spinner](http://free-article-spinner.com/)
 
 ***
 
