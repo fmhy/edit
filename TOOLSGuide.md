@@ -740,11 +740,12 @@
 * ⭐ **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_managers)** - Manage / Save Passwords
 * ⭐ **[Encrypted Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_services)** - Email Sites with a Focus on Privacy
 * ⭐ **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - Create Temporary Email Addresses
-* ⭐ **[Site Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_site_development)** - Site Development & Hosting Tools
+* ⭐ **[Site Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_site_development)** - Site Development / Hosting Tools
 * [Yandex Disk](https://disk.yandex.com/), [VK WorkSpace](https://biz.mail.ru/) or [OpenDesktop](https://www.opendesktop.org/) - Multiple Cloud Services 
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
 * [Nativefier](https://github.com/nativefier/nativefier) - Turn Sites into Desktop Apps
 * [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - Test Internet Speed
+* [Packet Loss Test](https://packetlosstest.com/) - Packet Loss Test
 * [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) or [WLan10](https://github.com/afit/wlan10) - Network Manager
 * [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
 * [OONI](https://ooni.org/) - Test Site Blocking / Network Speed
@@ -1564,6 +1565,7 @@ Twitch Stream Tracker
 * ⭐ **[Nitter](https://nitter.net/)** or [NitterDV](https://nitter.usethetools.org/) - Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)
 * ⭐ **[NoFT](https://noft.gg/)** - Automatically Block all NFT Profile Pictures / [GitHub](https://github.com/ottomated/noft)
 * ⭐ **[Eight Dollars](https://github.com/wseagar/eight-dollars)** - Show Twitter Blue vs. Real Verified Users
+* ⭐ **[Decentralized Social Networks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_decentralized_social_networks)** - Twitter / Facebook Alternatives
 * [TwopCharts](https://twopcharts.com/) - Multiple Twitter Tools 
 * [/r/Twitter](https://reddit.com/r/Twitter) - Twitter Subreddit
 * [Awesome Twitter Bots](https://github.com/amandeepmittal/awesome-twitter-bots) - Twitter Bot Index
@@ -1662,6 +1664,7 @@ Twitch Stream Tracker
 
 ## ▷ Facebook Tools
 
+* ⭐ **[Decentralized Social Networks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_decentralized_social_networks)** - Twitter / Facebook Alternatives
 * [Facebook CSE](https://cse.google.com/cse?cx=65eb7b6b8baf5a5cb) - Search Facebook
 * [FBPurity](https://www.fbpurity.com/) or [Social Fixer](https://socialfixer.com/) - Facebook Enhancement Extension
 * [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) - Hide All Facebook Metrics
@@ -1943,6 +1946,7 @@ Twitch Stream Tracker
 * [NotMyFault](https://docs.microsoft.com/en-us/sysinternals/downloads/notmyfault) - Driver & Hardware Problem Identification Tool
 * [Scoop](https://scoop.sh/) - Command-Line Installer / [GitHub](https://github.com/ScoopInstaller/Scoop)
 * [Device Cleanup Tool](https://m.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
+* [Redists](https://git.io/redists), [2](https://chse.dev/redists) - Install All Redist Files (direct x, visual c++ etc.)
 * [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
 * [DLL Downloader](http://www.dlldownloader.com/), [dll-hub](https://dll-hub.com/), [dlldump](https://dlldump.com/), [dllfile](https://dllfile.net/), [dll4free](https://dll4free.com/), [dllme](https://dllme.com/dll/files/steam_api32_dll.html) or [DLL-Files](https://www.dll-files.com/) - Windows DLL Files
 * [OcxDump](https://ocxdump.com/) - .ocx Files
@@ -2148,6 +2152,7 @@ Twitch Stream Tracker
 * [unzip-http](https://github.com/saulpw/unzip-http) - Unzip via HTTP Without Downloading
 * [ProtectedZip](https://protectedzip.com/) - Encrypt Zip Files
 * [objectfixzip](https://www.essentialdatatools.com/products/objectfixzip/) - Repair Zip Files
+* [ZipFly](https://github.com/sandes/zipfly) - Zip Archive Generator
 * [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - How-to Safely Archive Files on Cloud Storage Sites
 * [TCPDF](https://tcpdf.org/) / [Git](https://github.com/tecnickcom/tcpdf) - PDF Creator 
