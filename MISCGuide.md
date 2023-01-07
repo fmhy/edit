@@ -1452,7 +1452,7 @@
 * ⭐ **[Userscripts Guide](https://rentry.co/userscript-guide)**
 * ⭐ **[Greasy Fork](https://greasyfork.org/en)**, [OpenUserJS](https://openuserjs.org/) or [Userscripts](https://userscripts-mirror.org/) or  - Install Userscripts / [Git Install](https://greasyfork.org/en/scripts/6456)
 * ⭐ **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/431584) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Remove Crap](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336) / [Dark Theme](https://greasyfork.org/en/scripts/404443)
-* [Awesome Userscripts](https://github.com/bvolpato/awesome-userscripts, [loopvid](https://github.com/XIU2/UserScript)[Scripts](https://gitlab.com/loopvid/scripts) or [Userscript.zone](https://www.userscript.zone/) - Userscript Indexes
+* [Awesome Userscripts](https://github.com/bvolpato/awesome-userscripts), [loopvid](https://github.com/XIU2/UserScript)[Scripts](https://gitlab.com/loopvid/scripts) or [Userscript.zone](https://www.userscript.zone/) - Userscript Indexes
 * [darkmode.js](https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c) - Dark Mode Script
 * [SB.js](https://github.com/mchangrh/sb.js) - SponsorBlock Userscript
 * [2ch-captcha-solver](https://gitgud.io/IeatMonkeysLOL/2ch-captcha-solver-plugin/-/tree/master/) - 2CH Captcha Solver
