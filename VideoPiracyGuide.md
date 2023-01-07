@@ -112,6 +112,7 @@
 * ⭐ **[KollaFilm](https://kollafilm.com/)** - Movies / TV
 * ⭐ **[HiMovies](https://www3.himovies.to/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)
 * ⭐ **[Movie-Forum](https://movie-forum.co/forum.php)** - Movies / TV
+* ⭐ **[CloudStream](https://cloudstream.cf/)** - Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM) / [Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cloudstream_forks) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/) / Use [Android Emulator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)
 * [Goku](https://goku.to/) - Movies / TV / Anime
 * [IceFilms](https://icefilms.tv/) - Movies / TV
 * [AZMovies](https://azms.to/) - Movies
