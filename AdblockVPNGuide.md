@@ -180,6 +180,7 @@
 * ⭐ **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
 * ⭐ **[Password Strength Chart](https://i.imgur.com/KSISOPN.png)**
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
+* ⭐ **[Decentralized Social Networks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_decentralized_social_networks)** - Twitter / Facebook Alternatives
 * [Windows 10 Antispy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_antispy_tools)
 * [PaP](https://trypap.com/) or [How Secure Is My Password?](https://howsecureismypassword.net/) - Password Strength Check
 * [StrongPasswordGenerator](https://strongpasswordgenerator.com/), [PassSnip](https://passnip.com/), [ExpressVPN PW Generator](https://www.expressvpn.com/password-generator), [MOAC](https://sr.ht/~seirdy/MOAC/), [Clover](https://cloverleaf.app), [passwrd](https://passwrd.in/#/) or [Bitwarden PW Generator](https://bitwarden.com/password-generator/) - Password Generators
@@ -198,7 +199,7 @@
 * [PGPgram](https://github.com/tallero/PGPgram) - GPG Encrypted Telegram Backups
 * [Adamant](https://adamant.im/) - Decentralized Messenger
 * [Hexchat](https://hexchat.github.io/) - Private IRC Client 
-* [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH / [Info](https://shazow.net/posts/ssh-how-does-it-even/)
+* [ssh-chat](https://github.com/shazow/ssh-chat) or [Devzat](https://github.com/quackduck/devzat) - SSH Chat / [Info](https://shazow.net/posts/ssh-how-does-it-even/)
 * [simplewall](https://www.henrypp.org/product/simplewall) - Configure Windows Filtering Platform / [GitHub](https://github.com/henrypp/simplewall)
 * [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - List of Data Broker Opt-Out Resources 
 * [Blur](https://dnt.abine.com/) - Protect Passwords & Personal Information 
@@ -235,8 +236,6 @@
 * [USBKill](https://github.com/hephaest0s/usbkill) - Anti-Forensic Kill-Switch
 * [Free Hide Folder](https://www.cleanersoft.com/hidefolder/free_hide_folder.htm) or [Wise Folder Hider](http://www.wisecleaner.com/wise-folder-hider-free.html) - Hide Folders / Files 
 * [HiddenVM](https://github.com/aforensics/HiddenVM) - Run a Oracle VM on TailsOS
-* [Mastodon](https://joinmastodon.org/), [diaspora](https://diasporafoundation.org/) / [2](https://diasp.org/), [MissKey](https://join.misskey.page/en/), [Pleroma](https://pleroma.social/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendi](https://friendi.ca/) or [Zotlabs](https://zotlabs.org/page/hubzilla/hubzilla-project) - Decentralized Social Networks
-* Mastodon Tools - [Instances](https://instances.social/) / [Web Client](https://pinafore.social/) / [2](https://mastodon.social/) / [Desktop Client](https://flathub.org/apps/details/com.github.bleakgrey.tootle), [2](https://github.com/h3poteto/whalebird-desktop) / [Account Link](https://moa.party/) / [Crosspost](https://crossposter.masto.donte.com.br/) / [Schedule](https://scheduler.mastodon.tools/), [2](https://plan.fedilab.app/) / [Embedded Feeds](https://www.mastofeed.com/) / [Timelines](https://mastovue.glitch.me/)
 * [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/) - Stop Telemetry Data Leaks
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - Track Torrent Download Leaks
 * [Safing](https://safing.io/) - Monitor Network / Block Trackers / [GitHub](https://github.com/Safing/portmaster)
@@ -561,6 +560,7 @@
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy)
 * [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel)
 * [Hysteria](https://github.com/HyNetwork/hysteria)
+* [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt)
 * [Xray](https://github.com/XTLS/Xray-core) - [Telegram](https://t.me/projectXray)
 * [Privoxy](http://www.privoxy.org/) - [Docker Build](https://github.com/binhex/arch-privoxyvpn)
 * [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - HTTPS Proxy
