@@ -213,6 +213,7 @@
 * [Switch ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - ROMs / Switch
 * [WiiU ROMs](https://wiiuroms.net/) - ROMs / WiiU
 * [MarioCube](https://mariocube.com/) - ROMs / Wii / Gamecube
+* [All N64 ROMs](https://alln64roms.blogspot.com/) - ROMs / N64
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [3DS ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - ROMs / 3DS
 * [Gameboy ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gameboy_roms) - ROMs / Gameboy
