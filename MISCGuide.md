@@ -19,6 +19,7 @@
 * ⭐ **[Champagne Wiki](https://rentry.org/champagne_wiki/)** - Piracy Index / [Guides](https://rentry.org/champagne_guides/)
 * ⭐ **[Esoterica Avenue](https://ori5000.github.io/)** - Software & Games Megathread / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * ⭐ **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR)** - Site / Tool Index
+* ⭐ **[PiratezParty](https://github.com/SpamVerse/Piratezparty)** - Piracy Index / [Telegram](https://t.me/piratezparty)
 * ⭐ **[WebOas.is](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) - Startpage / Site Index / [Source Code](https://pastebin.com/CczqreS4) / [Archive](https://rentry.co/e9y6b) / [FAQ](https://bin.disroot.org/?6a50fab15330b762#7VwnxM9Jsvp8wWmW6eFmmxyXppWVjErn4CMgd8wii9pC)
 * ⭐ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)** 
 * [Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - Find Software / App Alternatives 
@@ -45,7 +46,6 @@
 * [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - Piracy Index / [Warning](https://i.imgur.com/jtT9GDB.png)
 * [Ripped Guide](https://ripped.guide/) - Piracy Index
 * [The Pirate List](https://thepiratelist.com/) - Piracy Index
-* [PiratezParty](https://github.com/SpamVerse/Piratezparty) - Piracy Index / [Telegram](https://t.me/piratezparty)
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Software / Tool Index
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - Data Hoarding Tools Index
 * [DirtyWarez Tracker](https://dirtywarez.org/cat/tracker), [OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/) / [2](https://opentrackers.org/), [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) or [awesome-piracy](https://github.com/Igglybuff/awesome-piracy#public-trackers) - Torrent Site Indexes
