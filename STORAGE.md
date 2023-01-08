@@ -2177,7 +2177,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Reddit Streams
 
-[Soccer](https://redi1.soccerstreams.net/), [NFL](https://reddit.nflbite.com/), [NBA](https://scor.nbabite.com/), [NHL](https://nhlbite.com/), [MLB](https://mlbshow.com/), [F1](https://live1.formula1stream.cc/), [MMA](https://live2.mmastreams.cc/), [Cricket](https://live.cricketstreams.cc/)
+[NFL](https://reddit.nflbite.com/), [NBA](https://scor.nbabite.com/), [NHL](https://nhlbite.com/), [MLB](https://mlbshow.com/), [F1](https://live1.formula1stream.cc/), [MMA](https://live2.mmastreams.cc/), [Cricket](https://live.cricketstreams.cc/)
 
 ***
 
