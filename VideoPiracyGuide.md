@@ -697,7 +697,6 @@
 * [O2TVSeriesz](https://o2tvseriesz.com/) - Movies / TV
 * [Privatemoviez](https://privatemoviez.buzz/) - Movies / TV
 * [Nollyverse](https://www.nollyverse.com/) - Movies / TV
-* [SkyMoviesHD](https://skymovieshd.news/category/Hollywood-English-Movies.html) - Movies
 * [HDFriday](https://hdfriday.com/category/download-hollywood-movies/) - Movies
 * [MegaUploadAgora](https://www.megauploadagora.com.br/) - Movies / TV 
 * [Top100](https://top100.to/) - Movies / TV
