@@ -537,6 +537,7 @@
 * [Blaseball](https://www.blaseball.com/) - Odd Baseball Simulation Game
 * [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) or [Bemuse](https://bemuse.ninja/) - Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)
 * [Taiko Web](https://taiko.bui.pm/) - Taiko no Tatsujin Simulator
+* [Pulsus](https://www.pulsus.cc/play/) - 3x3 Tile Board Rhythm Game
 * [Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures) - Interactive Text Adventures
 * [Prosperity](http://www.playprosperity.ca/) - Civilization Building RPG
 * [Amazeworld](http://www.amazeworld.com/) - Interactive Webmazes
