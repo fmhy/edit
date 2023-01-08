@@ -352,7 +352,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * ⭐ **[Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button)** - Quickly Close All Tabs
 * [Internet Adult Film Database](https://www.iafd.com/) or [MyPornStarBook](https://www.mypornstarbook.net/) - Adult Film Databases / Reviews
 * [Porn-Vault](https://github.com/porn-vault/porn-vault), [Fapflix2.0](https://github.com/EinAeffchen/Fapflix2.0), [StashApp](https://stashapp.cc/) or [Stash](https://github.com/stashapp/stash) - Porn File Manager
-* [DICK](https://github.com/Facinorous-420/dick) - Nudes Manager
 * [UploadingPorn](https://uploadingporn.com/) - NSFW File Host
 * [Javinizer](https://github.com/jvlflame/Javinizer) - JAV File Organizer
 * [DeepMosaics](https://github.com/HypoX64/DeepMosaics) or [DeepCreamPy](https://github.com/styler00dollar/Colab-DeepCreamPy/blob/master/Colab-DeepCreamPy-2.2.ipynb) - Remove Mosaics from Porn
