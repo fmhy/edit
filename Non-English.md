@@ -2053,13 +2053,10 @@
 
 # ► Multi Indian Languages
 
-* ⭐ **[SkyMoviesHD](https://skymovieshd.news/)** - Movies / TV
 * ⭐ **[Einthusan](https://einthusan.tv/)** - Streaming / Movies / Music
 * [Indian Piracy Index](https://github.com/anymeofu/Indian-Piracy-Index) - Piracy Site / Tool Index
 * [JioTV](https://github.com/avipatilpro/JioTV) - Live TV Streaming Script
-* [SnehIPTV](https://snehiptv.netlify.app/) - Live TV
 * [0GoMovies](https://0gomovies.st/) - Streaming / Movies / TV
-* [gomoviz](https://gomoviz.live/) - Streaming / Movies / TV
 * [tamilgun](https://tamilgun.bio/) -  Streaming / Movies / TV
 * [uWatchFree](https://uwatchfree.be/) - Streaming / Movies / TV
 * [streamblasters](https://streamblasters.live/) - Streaming / Movies
@@ -2067,15 +2064,11 @@
 * [khatrimazafull](https://khatrimazaful.cc/) - Streaming / Download / Movies
 * [7MovieRulz.es](https://7movierulz.es/) - Stream / Torrent / Movies / [Telegram](https://t.me/movierulztv)
 * [Movierulz](https://ww5.movierulzhd.biz/) - Streaming / Movies / TV / [Telegram](https://t.me/movierulz28)
-* [MovieRulz.art](https://movierulzlink.art/) - Streaming / Movies
 * [TamilRockers](https://www.tamilrockermovies.org/), [2](https://www.tamilrockermovies.ca/) - Streaming / Torrent / Movies
-* [HiidudeMoviez](https://ww1.4hiidude.me/) - Streaming / Torrent / Movies / [Telegram](https://telegram.me/hiidudemoviez)
 * [v100v.net](https://www.v100v.net/) - Streaming / Movies
 * [Toroflix](https://freewatchhindimoviesonline.com/) - Streaming / Movies
-* [1jalshamoviez](https://www.1jalshamoviez.info/) - Download / Movies
 * [SadRip](https://sadrip.blogspot.com/) - Movies / TV
 * [Movies Counter](https://moviescounter.hair/) - Download / Movies
-* [FilmyGod](https://filmygod7.in/) - Movies / [Telegram](https://t.me/+TT_cQkr00BnhM2eA)
 * [CineVood](https://cinevood.homes/) - Download / Movies
 * [Mallumv](https://mallumv.run/), [2](https://tttttt.me/mallumvoff) - Download / Movies
 * [DVDPlay](https://dvdplay.sbs/) - Download / Movies
@@ -2084,7 +2077,6 @@
 * [MkvMoviesPoint](https://mkvmoviespoint.one/) - Download / Movies / [Telegram](https://telegram.me/mkvpoint)
 * [Pendujatt](https://www.pendujatt.net/) - Download / Music
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Download / Music
-* [Cinevez](https://cinevez.pe/) - Torrent / Download / Streaming / Movies
 * [TamilBlasters](https://tamilblasters.skin/) - Torrent / Movies / [Proxy](https://tamilblasters.unblockit.ist/)
 * [TamilMV](https://www.1tamilmv.hair/) - Torrent / Movies
 * [indianebooks](https://t.me/indianebooks) - Books
