@@ -28,7 +28,6 @@
 * [SockShare](http://sockshare.ac/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones) / Use Adblock
 * [NetU](https://netu.io/view_page.php?pid=4) - Movies / TV / / Anime / [Search](https://i.imgur.com/SiYyosZ.mp4) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)
 * [OpenloadMovies](https://openloadmov.net/) or [Yify TV](https://yify.plus/) - Movies / TV
-* [Oligopoly](https://olgply.com/) - Movies / TV
 * [FreeTubeSpot](https://www.freetubespot.com/) - Movies
 * [UltraMovies](https://ultramovies.net/) - Movies / TV
 * [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime
