@@ -574,4 +574,4 @@ Software
 * [MacTorrents](https://mactorrents.io/)
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Epic Games Launcher
 * [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - Gamecube iso.dec to ISO Converter
-* [rbxfpsunlocker](https://github.com/lanylow/rbxfpsunlocker-osx) - Roblox FPS Unlocker
+* [rbxfpsunlocker-osx](https://github.com/lanylow/rbxfpsunlocker-osx) - Roblox FPS Unlocker

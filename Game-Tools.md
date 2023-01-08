@@ -244,8 +244,11 @@
 * [Among Us Free Chat Unlocker](https://github.com/Vili1/Among-us-Free-Chat-unlocker/releases/) - Among Us Chat Unlocker
 * [CrewLink](https://github.com/ottomated/CrewLink) - Among Us Proximity Chat
 * [Impostor](https://impostor.github.io/Impostor/) - Among Us Private Server
-* [RoPro](https://ropro.io/), [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040) or [RoGold](https://discord.gg/XMHn9zV3UA - Enhance Roblox Website
+* [RoPro](https://ropro.io/), [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040) or [RoGold](https://discord.gg/XMHn9zV3UA) - Enhance Roblox Website
 * [ROBLOX Low Ping Finder](http://low-ping.dino.icu/) - Find Low Ping Roblox Servers
+* [rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker) - Roblox FPS Unlocker
+* [Roblox Account Manager](https://github.com/ic3w0lf22/Roblox-Account-Manager) - Roblox Account Manager
+* [Cosmic Values](https://petsimulatorvalues.com/) - Pet Simulator X Value List / [Search Engine](https://cse.google.com/cse?cx=832df8e976bee460a#gsc.tab=0)
 
 ***
 
