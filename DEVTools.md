@@ -22,6 +22,7 @@
 * [Git Tutorial](https://4geeksacademy.github.io/git-interactive-tutorial/) - Interactive Git Tutorial
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - Git Learning Game
 * [Git-it](https://github.com/jlord/git-it-electron) - Git Desktop Learning App
+* [Git Time](https://git.bradwoods.io/) - Git Version Control System Learning Game
 * [Github Cheat Sheet](http://git.io/sheet) / [GitHub](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
 * [First Timers Only](https://www.firsttimersonly.com/) or [First Contributions](https://firstcontributions.github.io/) - Git Code Contribution Guides
 * [Developer.Mozilla](https://developer.mozilla.org/) or [Web Dev Resources](https://joshjoshuap-webdevresources.vercel.app/) - Developer Learning Resources 
@@ -428,7 +429,7 @@
 * [NetLib.re](http://netlib.re/), [takingnames](https://takingnames.io/blog/instant-subdomains) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains 
 * [TheDev](https://thedev.id/) or [Dev.page](https://dev.page/) - Free Developer Subdomains
 * [redirect.name](https://redirect.name/) - URL Forwarding
-* [StatPing](https://github.com/statping/statping), [checkthe.website](https://checkthe.website/) or [Better Uptime](https://betteruptime.com/) - Site Uptime Monitors
+* [StatPing](https://github.com/statping/statping), [checkthe.website](https://checkthe.website/), [Better Uptime](https://betteruptime.com/), [CheckServer](https://check-host.net/), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - Site Uptime Monitors
 * [UseMe](https://useme.org/) or [PingDom](https://tools.pingdom.com) - Ping Website
 * [Measure](https://web.dev/measure/) - Site Functionality Test
 * [Site Inspector](https://www.getsiteinspector.com/) - Check Site for Spelling / Grammatical Errors
@@ -891,6 +892,7 @@ Automated Incident Response and Forensics Framework
 * [Table Magic](https://stevecat.net/table-magic/) or [Markdown Convert](https://markdown-convert.com/) - Table to Markdown Converters
 * [Markdown To HTML](https://markdowntohtml.com/) - Markdown to HTML Converter
 * [AiToHTML](http://ai2html.org/) - Illustrator to HTML Converter
+* [gd2md-html](https://github.com/evbacher/gd2md-html) - Google Doc to Markdown / HTML Converter
 * [Obsidian](https://obsidian.md/) - Markdown File Organizer / [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) 
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Pastebin
 
@@ -929,12 +931,13 @@ Automated Incident Response and Forensics Framework
 * [GitList](https://gitlist.org/) - Elegant Git Repository Viewer / [GitHub](https://github.com/klaussilveira/gitlist)
 * [Gittyup](https://murmele.github.io/Gittyup/) - Git Source Code History
 * [Pew Pew](https://adrianmato.com/pewpew) - Cleanup Unused Repos
+* [No Secrets](https://github.com/sourcegraph-community/no-secrets) - Cleanup Sensitive Files in Repos
 * [git](https://git-scm.com/) - Version Control System
 * [Awesome First PR Oppotunities](https://github.com/MunGell/awesome-for-beginners) - Beginner Friendly FOSS Project Index
 * [multi-gitter](https://github.com/lindell/multi-gitter) - Bulk Repository Updater
 * [Git Extensions](https://gitextensions.github.io/), [Railway](https://railway.app/) or [Thermal](https://thermal.codecarrot.net/) - Git Repository Managers
 * [GitZip](https://gitzip.org/) or [DownGit](https://minhaskamal.github.io/DownGit) - Download GitHub Repository Sub-Folders / Files
-* [Install from GitHub](https://github.com/MaxGyver83/install-from-github) - Install Packages / Binaries Directly from GitHub 
+* [Install from GitHub](https://github.com/MaxGyver83/install-from-github) or [Eget](https://github.com/zyedidia/eget) - Install Packages / Binaries Directly from GitHub 
 * [GitHub Wiki Search](https://github.com/linyows/github-wiki-search) - Search GitHub Repository Wikis
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - GitHub Fork Search 
 * [Active-Forks](https://techgaun.github.io/active-forks/index.html) - Find Active GitHub Forks / [GitHub](https://github.com/techgaun/active-forks)
@@ -1231,6 +1234,7 @@ Automated Incident Response and Forensics Framework
 * [Algolia](https://www.algolia.com/), [TypeSense](https://typesense.org/), [StorkSearch](https://stork-search.net/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/), [Sphinx](http://sphinxsearch.com/) or [FusionBot](https://www.fusionbot.com/) - Search API
 * [Reacher](https://reacher.email/) - Email Verification API
 * [Telegram Bot API](https://github.com/tdlib/telegram-bot-api) or [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - Telegram Bot API
+* [cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) - Serverless Telegram Bot
 * [mqtt2telegram](https://zjor.github.io/mqtt2telegram/) - Telegram Messaging API
 * [instagrapi](https://github.com/adw0rd/instagrapi) - Unofficial Instagram API for Python
 * [TextNow API](https://github.com/leogomezz4t/PyTextNow_API) - Python Texting API 
