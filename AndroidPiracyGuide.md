@@ -39,7 +39,7 @@
 * ⭐ **[Awesome Android Security](https://github.com/ashishb/android-security-awesome)** - Android Security Resources 
 * ⭐ **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - Browsers with a focus on Privacy 
 * ⭐ **[DPITunnel](https://github.com/zhenyolka/DPITunnel)**, [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android) or [Xandroid](https://github.com/XndroidDev/Xndroid) - Proxy - Proxies
-* [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html), [PandaVPN](https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy), [GoatVPN](https://play.google.com/store/apps/details?id=com.secure.proxy.freevpn), [Vpnify](https://vpnifyapp.com/), [YourFreedomVPN](https://apkcombo.com/your-freedom-vpn-client/de.resolution.yf_android/), [GoFLy](https://play.google.com/store/apps/details?id=com.ambrose.overwall), [VPN Door](https://play.google.com/store/apps/details?id=com.securesoft.vpndoor&hl=en_US&gl=US), [VPNhub](https://www.vpnhub.com/) or [Clash](https://github.com/Kr328/ClashForAndroid/) / [Profiles](https://rentry.co/2q3rn) - Free VPNs
+* [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html), [PandaVPN](https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy), [GoatVPN](https://play.google.com/store/apps/details?id=com.secure.proxy.freevpn), [Vpnify](https://vpnifyapp.com/), [YourFreedomVPN](https://apkcombo.com/your-freedom-vpn-client/de.resolution.yf_android/), [GoFLy](https://play.google.com/store/apps/details?id=com.ambrose.overwall), [TempoVPN](https://play.google.com/store/apps/details?id=com.waves.tempovpn&gl=US), [VPN Door](https://play.google.com/store/apps/details?id=com.securesoft.vpndoor&hl=en_US&gl=US), [VPNhub](https://www.vpnhub.com/) or [Clash](https://github.com/Kr328/ClashForAndroid/) / [Profiles](https://rentry.co/2q3rn) - Free VPNs
 * [Guardian Project](https://guardianproject.info/) / [2](https://guardianproject.info/fdroid/repo), [Divestos Apps](https://divestos.org/index.php?page=recommended_apps) or [InviZible](https://github.com/Gedsh/InviZible) - Privacy Based Apps / Tools 
 * [FOSS Smartphone Hardening](https://lemmy.ml/post/54596), [2](https://www.reddit.com/r/privatelife/comments/rohq46/100_foss_smartphone_hardening_nonroot_guide_40/) - Non-Root Smart Phone Hardening Guide
 * [Hackuna](https://play.google.com/store/apps/details?id=org.cryptors.hackuna002&hl=en&gl=US) - Anti-Hack Tool
@@ -96,7 +96,7 @@
 * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) / [Git](https://github.com/AnySoftKeyboard/AnySoftKeyboard) or [Florisboard](https://github.com/florisboard/florisboard) - Incognito Keyboard
 * [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - Shadowsocks Proxy Client
 * [Sagernet](https://sagernet.org/) or [Matsuri](https://github.com/MatsuriDayo/Matsuri) / [2](https://f-droid.org/packages/moe.matsuri.lite/) - Proxy Toolchains
-* [Privacy Indicator](https://f-droid.org/packages/com.nitish.privacyindicator/), [2](https://play.google.com/store/apps/details?id=com.nitish.privacyindicator), [AntiStalker](https://www.mallocprivacy.com/), [Vigilante](https://f-droid.org/en/packages/com.crazylegend.vigilante/) or [Access Dots](https://play.google.com/store/apps/details?id=you.in.spark.access.dots) - Camera / Mic Access Indicator
+* [Privacy Indicator](https://f-droid.org/packages/com.nitish.privacyindicator/), [2](https://play.google.com/store/apps/details?id=com.nitish.privacyindicator), [AntiStalker](https://www.mallocprivacy.com/), [Vigilante](https://f-droid.org/en/packages/com.crazylegend.vigilante/), [Privacy Indicator App](https://github.com/NitishGadangi/Privacy-Indicator-App) or [Access Dots](https://play.google.com/store/apps/details?id=you.in.spark.access.dots) - Camera / Mic Access Indicator
 * [CamWings](https://schiffer.tech/camwings-mobile.html) - Camera Protection
 * [PubPhoto](https://github.com/stuartlangridge/pubphoto) - Share Photos without Sharing Number
 * [ScreenWings](https://schiffer.tech/screenwings-mobile.html) - Screen Protection
@@ -261,8 +261,8 @@
 * [QuickTiles](https://f-droid.org/en/packages/com.asdoi.quicktiles/) - Quick Setting Tiles
 * [Pinnit](https://github.com/msasikanth/pinnit) - Notification History / Pinning
 * [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2), [ntfy.sh](https://ntfy.sh/) or [BuzzKill](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_buzzkill) - Custom Push Notifications
-* [aodNotify](https://play.google.com/store/apps/details?id=com.jamworks.alwaysondisplay) - Notification LED
 * [TidyPanel](https://play.google.com/store/apps/details?id=com.dharmapoudel.tidypanel) - Notification Blocker
+* [aodNotify](https://play.google.com/store/apps/details?id=com.jamworks.alwaysondisplay) - Notification LED
 * [AlwaysOnEdge](http://www.aoeapps.com/) - Android Customization App
 * [VirtualXposed](https://virtualxposed.com/) - Rootless Xposed Framework
 * [Palette](https://play.google.com/store/apps/details?id=com.ald.devs47.sam.beckman.palettesetups) - Custom Home Screens
@@ -378,6 +378,7 @@
 * [Whatsapp Groups](https://whatsaplinks.com/) - Whatsapp Group Links
 * [Whatsapp Backup Reader](https://whatsappbr.netlify.app/) - Read Exported Whatsapp Chats
 * [FakeWhats](https://www.fakewhats.com/) - Fake WhatsApp Messages
+* [WhatSticker](https://github.com/deven96/whatsticker) - Convert Images, Videos and GIFs to WhatsApp Stickers
 * [Watomatic](https://watomatic.app/) / [Git](https://github.com/adeekshith/watomatic) or [AutoResponder](https://play.google.com/store/apps/collection/cluster?clp=igM4ChkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDEhkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDGAA=:S:ANO1ljKlL8g&gsr=CjuKAzgKGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMSGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMYAA==:S:ANO1ljLE-Ks) - Chat App Auto-Responders
 * [LinkBox](https://linkbox.ronald.loyko.me/) - Bookmark Manager
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - Article / Link Viewer
@@ -537,6 +538,7 @@
 * [Appvn](https://appvn.com/) - Untouched
 * [APKCombo](https://apkcombo.com/) - Untouched
 * [APKHere](https://www.apkhere.com/) - Untouched
+* [MobileAPKFree](https://www.mobileapkfree.com/) - Untouched
 * [APKFollow](https://www.apkfollow.com/) - Untouched
 * [APK Vision](https://apkvision.com/) - Untouched
 * [APKTurbo](https://www.apkturbo.com/) - Untouched
@@ -614,6 +616,9 @@
 * [APKDownload](https://apkdownload.cc/) - Modded
 * [APKMos](https://apkmos.com/) - Modded
 * [DivyaNet](https://divyanet.com/) - Modded
+* [LeeAPK](https://leeapk.com/) - Modded
+* [APK2Me](https://apk2me.com/) - Modded
+* [uAPK](https://uapk.pro/) - Modded
 * [APKLoop](https://apkloop.com/) - Modded
 * [APK About](https://apkabout.com/) - Modded
 * [ReleaseAPK](https://forum.release-apk.com/) - Modded
