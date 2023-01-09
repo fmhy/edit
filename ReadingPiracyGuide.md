@@ -514,7 +514,6 @@
 * [HowStuffWorks](https://www.howstuffworks.com/) - Learn How Things Work
 * [masterWiki](https://masterwiki.how/) - MasterClass Classes Republished as wikiHow Articles 
 * [Critical Thinking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_critical_thinking) - Books / Guides / Pictures 
-* [lolmythesis](https://lolmythesis.com/) - Summarized Thesis'
 * [/r/textbook_piracy](https://reddit.com/r/textbook_piracy)
 * [/r/textbookrequest](https://reddit.com/r/textbookrequest)
 * [/r/textbookfinder](https://reddit.com/r/textbookfinder)
@@ -691,8 +690,10 @@
 * [Parliament Archives](https://archives.parliament.uk/) - UK Parliamentary Documents
 * [EThOS](https://ethos.bl.uk/SearchResults.do) - Doctoral Theses 
 * [ndltd](http://search.ndltd.org/) - Search theses and dissertations 
-* [UBIRA eTheses](https://etheses.bham.ac.uk/) - Theses 
-* [oatd](https://oatd.org/) - Theses / Dissertations 
+* [UBIRA eTheses](https://etheses.bham.ac.uk/) - Theses
+* [oatd](https://oatd.org/) - Theses / Dissertations
+* [Shodhganga](https://shodhganga.inflibnet.ac.in/) - Indian Theses / Dissertations
+* [lolmythesis](https://lolmythesis.com/) - Summarized Theses
 * [CIRES](https://cires.colorado.edu/) - Environmental Research Data
 * [WorldBank](https://www.worldbank.org/en/home) - Poverty Solution Research Data
 * [Einstein Papers](https://einsteinpapers.press.princeton.edu/) - Albert Einsteins Collected Papers Archive 
@@ -779,6 +780,7 @@
 * [Chat Words Dictionary](https://chatworddictionary.com/) - Chat Abbreviations
 * [lengusa](https://lengusa.com/) or [Fraze.it](https://fraze.it/) - Sentence Search
 * [Dictionary](https://www.dictionary.com/) - Dictionary / Thesaurus
+* [Thesaurus.com](https://www.thesaurus.com/) - Thesaurus / [Frontend](https://github.com/sigaloid/vocrab)
 * [VisualThesaurus](https://www.visualthesaurus.com/) - Thesaurus
 * [DescribingWords](https://www.describingwords.io/) or [Lose The Very](https://www.losethevery.com/) - Adjectives
 * [Thsrs](http://www.ironicsans.com/thsrs/) - Synonyms
