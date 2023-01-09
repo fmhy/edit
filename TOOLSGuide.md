@@ -2120,7 +2120,6 @@ Twitch Stream Tracker
 * ⭐ **[SaveLocation](https://savelocation.net/)** - Find Software / Game Save Locations
 * ⭐ **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser
 * ⭐ **[TeamDrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_generators)** - Create Google TeamDrives
-* ⭐ **[Onedrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_onedrive_generators)** - Generate Microsoft 1tb OneDrives / Free Office 365 
 * ⭐ **[UDS](https://github.com/stewartmcgown/uds)** - Unlimited Google Drive Storage
 * ⭐ **[PDF Editors / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pdf_editors_.2F_toolkits)**
 * [downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site Downloaders
