@@ -60,6 +60,7 @@
 * [Apodio](http://www.apodio.org/doku.php) or [io GNU/Linux](http://io.gnu.linux.free.fr/) - Linux Distro w/ Preinstalled Apps
 * [OldSchoolOS](https://www.oldschoolos.com/) - Old Linux Distro Archive
 * [Vivek9Patel](https://vivek9patel.github.io/) - Run Ubuntu on Browser / [GitHub](https://github.com/vivek9patel/vivek9patel.github.io)
+* [Distrobox](https://github.com/89luca89/distrobox) - Use Linux Distros via Terminal
 * [Kvantum](https://github.com/tsujan/Kvantum) - Linux QT / KDE Theme Engine
 * [susOS](https://github.com/Villagerjj/sus-os) - Among Us Themed Distro
 * [Linux x Technology](https://linuxdiscord.com/) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Chat Communities
@@ -462,6 +463,7 @@
 * [Manila](https://github.com/neilsardesai/Manila) - Change Folder Colors
 * [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - MacOS Dynamic Wallpaper App
 * [wallpapper](https://github.com/mczachurski/wallpapper) - Dynamic Wallpaper Creator
+* [Earthview Desktop](https://github.com/ryan-mooore/earthview-desktop) - Dynamic Earth Wallpapers
 * [Plash](https://github.com/sindresorhus/Plash) - Use Website as Wallpaper
 * [100 macOS Screensavers](https://github.com/bjdehang/100-macos-screensavers) - Minimalist Screensavers
 * [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) or [ThemeKit](https://github.com/luckymarmot/ThemeKit) - System Dark Mode Apps
