@@ -121,7 +121,7 @@
 * [Spybot](https://www.safer-networking.org/products/spybot-free-edition/) or [SUPERAntiSpyware](https://www.superantispyware.com/free-edition.html) - Anti-spyware
 * [VT4Browsers](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions) - Easily Scan Downloads
 * [GetsUsp](https://www.mcafee.com/enterprise/en-us/downloads/free-tools/getsusp.html) or [Wise Anti-Malware](https://www.wisecleaner.com/wise-anti-malware.html) - Malware Detection
-* [Safety Scanner](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download), [Rkill](https://www.bleepingcomputer.com/download/rkill/) or [Power Eraser](https://support.norton.com/sp/static/external/tools/npe.html) - Malware Remover
+* [Safety Scanner](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download) or [Power Eraser](https://support.norton.com/sp/static/external/tools/npe.html) - Malware Remover
 * [Al-Khaser](https://github.com/LordNoteworthy/al-khaser) - Anti-Malware Stress Test
 * [WireShark](https://www.wireshark.org/) - Network Protocol Analyzer 
 * [PacketTotal](https://packettotal.com/) - PCAP / Network Analysis 
@@ -440,8 +440,8 @@
 * [neeva](https://neeva.com/)
 * [Kagi](https://kagi.com/) 
 * [ekoru](https://ekoru.org/)
-* [Gibiru](https://gibiru.com/) 
-* [Whoogle](https://github.com/benbusby/whoogle-search) - Easy to self-host SE with Google results 
+* [Gibiru](https://gibiru.com/)
+* [Whoogle](https://github.com/benbusby/whoogle-search) or [librengine](https://github.com/liameno/librengine) - Self-Hosted Encrypted Search Engines
 
 ***
 
