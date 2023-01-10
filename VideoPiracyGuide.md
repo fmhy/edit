@@ -122,7 +122,7 @@
 * [TopEuroPix](https://topeuropix.site/) or [europixHD](https://europixhd.pro/) - Movies / TV / Anime
 * [MovieSee](https://moviesee.live/) - Movies / TV
 * [Dogeflix](https://dogeflix.net/) - Movies / TV
-* [Fmovies.black](https://fmovies.black/) - Movies / TV / Anime
+* [FlixHQ](https://flixhq.click/) - Movies / TV / Anime
 * [eSubMovies](https://www.esubmovie.com/) - Movies
 * [Sauflix](https://www.sauflix.com/) - Movies / TV
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
