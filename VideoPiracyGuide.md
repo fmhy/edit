@@ -20,7 +20,7 @@
 * ⭐ **[C1NE](https://c1ne.co/)** - Movies / TV / [Discord](https://discord.gg/nXUP8TxNSR)
 * ⭐ **[HDMovieBox](https://hdmoviebox.org/)** - Movies
 * ⭐ **[UniqueStream](https://uniquestream.net/)** - Movies / TV
-* ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV
+* ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / [Discord](https://discord.gg/r4QrghF4B9)
 * ⭐ **[Movies.cf](https://movies.cf/Landing)** - Movies
 * ⭐ **[Watch A Movie](https://watcha.movie/)** - Movies / TV / [Discord](https://discord.gg/PvAg9Rc7kQ)
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
