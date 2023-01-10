@@ -373,7 +373,7 @@
 * [123Anime.to](https://123anime.to/) - Sub / Dub / [Discord](https://discord.gg/z2BSpXheN9)
 * [KimAnime](https://kimanime.com/) - Sub / Dub / [Discord](https://discord.com/invite/JdmpSF92N4)
 * [AnimeTribes](https://animetribes.ru/) - Sub 
-* [5Anime](https://5anime.net/) - Sub / Dub
+* [5Anime](https://5anime.ro/) - Sub / Dub
 * [AnimelandTV](https://www.animelandtv.me/) - Dub
 * [AnimeOnsen](https://animeonsen.xyz/) - Sub
 * [Animetake](https://animetake.tv/) - Sub
@@ -821,7 +821,7 @@
 
 * ⭐ **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
 * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming App
-* ⭐ **Stremio Tools** - [Addons](https://github.com/danamag/stremio-addons-list/blob/main/README.md) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg) / [IPTV](https://2ecbbd610840-stremio-iptv.baby-beamup.club/) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/)
+* ⭐ **Stremio Tools** - [Guide](https://rentry.co/privatestremio), [Addons](https://github.com/danamag/stremio-addons-list/blob/main/README.md) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg) / [IPTV](https://2ecbbd610840-stremio-iptv.baby-beamup.club/) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/)
 * ⭐ **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents / [Heroku](https://github.com/l3v11/Jackett-heroku)
 * ⭐ **[Radarr](https://radarr.video/)** - Autodownload Movie Torrents / [GitHub](https://github.com/Radarr/Radarr)
 * ⭐ **[Sonarr](https://sonarr.tv/)** / [GitHub](https://github.com/Sonarr/Sonarr), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - Autodownload TV Torrents / [Guide](https://wiki.servarr.com/)
