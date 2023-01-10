@@ -1222,7 +1222,6 @@
 * [Absolute Enable Right Click](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_absolute_enable_right_click) or [Allow Right Click](https://add0n.com/allow-right-click.html) / [GitHub](https://github.com/lunu-bounir/allow-right-click.html/) - Force Enable Right Click
 * [Copycat](https://github.com/BlackGlory/Copycat) - Copy Content in Multiple Formats & Markdowns 
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - Copy Text as Markdown 
-* [Copy Selected Links](https://gitlab.com/Marnes/copy-selected-links) - Copy Links from Selected Text 
 * [CopyFish](https://ocr.space/copyfish) or [Image Reader](https://mybrowseraddon.com/image-reader.html) - Grab Text from Images 
 * [BLCKBX](https://www.blckbx.ai/landingPage) - Grab Text from Images / Videos
 * [Text to Image](https://mybrowseraddon.com/text-to-image.html) - Format & Save Text as a Image
