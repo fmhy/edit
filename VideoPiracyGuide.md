@@ -482,6 +482,7 @@
 
 ## ▷ Sports Streaming
 
+* ⭐ **[FullMatchTV](https://fullmatchtv.com/)** - Sports
 * ⭐ **[NBAFullHD](https://nbafullhd.com/)**, [NBATVReplay](https://nbatvreplay.com/), [NBAHD](https://nbahd.com/) or [NBAHDReplay](https://nbahdreplay.com/) - NBA
 * ⭐ **[F1 Full Races](https://f1fullraces.com/)** - F1
 * ⭐ **[WatchWrestling24](http://watchwrestling24.net/)** - MMA / Wrestling
@@ -502,7 +503,6 @@
 * [BoxingBoxingvideoideo](https://boxingvideo.org/) - Boxing
 * [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / K1
 * [Racing HD](http://www.racinghd.net/) or [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports
-* [FullMatchTV](https://fullmatchtv.com/) - NBA / NFL / NHL / MLB / F1
 
 ***
 
