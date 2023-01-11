@@ -68,7 +68,7 @@
 * [DefendTheWeb](https://defendtheweb.net/) - Cybersecurity Challenges
 * [Cyber Talent Kids](https://cybertalentskids.com/) - Learn About Cybersecurity
 * [pwn.college](https://pwn.college/) - Cybersecurity Practice
-* [Leetcode](https://leetcode.ca/) - Code Solutions / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/edit) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/prius/leetcode-anki)
+* [Leetcode](https://leetcode.ca/) - Code Solutions / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/edit) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/prius/leetcode-anki), [3](https://github.com/fishercoder1534/Leetcode) - Youtube Videos
 * [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/), [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
 * [Google Cloud Developer's Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/) - Google Cloud Developer Cheat Sheet / [GitHub](https://github.com/priyankavergadia/google-cloud-4-words)
 * [Vim Cheatsheet](https://i.imgur.com/2RsZq6p.png) - Vim Code Editor Cheat Sheet
