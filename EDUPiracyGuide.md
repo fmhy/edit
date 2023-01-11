@@ -685,7 +685,6 @@ Simulator
 * [LightNote](https://www.lightnote.co/) - Music Theory
 * [Music Theory](https://www.musictheory.net/) - Music Theory
 * [Piano Trainer](https://zaneh.itch.io/piano-trainer) - Piano
-* [Pianu](https://pianu.com/) - Piano
 * [PianoCheetah](https://pianocheetah.app) - Piano
 * [TrueToneGuitar](https://www.truetoneguitar.co.uk/tools/guitar-practice-routine-generator) - Guitar
 * [JustinGuitar](https://www.justinguitar.com/) - Guitar
