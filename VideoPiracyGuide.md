@@ -112,6 +112,7 @@
 * ⭐ **[HiMovies](https://www3.himovies.to/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/freemediaheckyeah/wiki/storage#wiki_himovies_clones)
 * ⭐ **[Movie-Forum](https://movie-forum.co/forum.php)** - Movies / TV
 * ⭐ **[CloudStream](https://cloudstream.cf/)** - Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM) / [Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cloudstream_forks) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/) / [Sora Extension](https://cdn.discordapp.com/attachments/1055438609643221012/1055438631214518282/howtoinstallsora.mp4)
+* [FlixHQ](https://flixhq.click/) - Movies / TV / Anime
 * [Goku](https://goku.to/) - Movies / TV / Anime
 * [IceFilms](https://icefilms.tv/) - Movies / TV
 * [AZMovies](https://azms.to/) - Movies
@@ -122,7 +123,6 @@
 * [TopEuroPix](https://topeuropix.site/) or [europixHD](https://europixhd.pro/) - Movies / TV / Anime
 * [MovieSee](https://moviesee.live/) - Movies / TV
 * [Dogeflix](https://dogeflix.net/) - Movies / TV
-* [FlixHQ](https://flixhq.click/) - Movies / TV / Anime
 * [eSubMovies](https://www.esubmovie.com/) - Movies
 * [Sauflix](https://www.sauflix.com/) - Movies / TV
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
