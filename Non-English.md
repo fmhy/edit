@@ -507,7 +507,9 @@
 * [StreamCloud](https://www1.streamcloud.info/), [2](https://streamcloud.cx/) - Movies / TV
 * [BioskopKaca21](https://62.171.161.107/) - Movies / TV
 * [Kinos](https://www.kinos.to/) - Movies / TV
+* [https://xcine.info](https://xcine.info/) - Movies / TV
 * [KinoZ](https://kinoz.to/) - Movies / TV / Anime / NSFW
+* [moviedream](https://moviedream.co/) - Movies / TV
 * [S.TO](https://s.to/) - TV / Anime
 * [SRF.CH](https://www.srf.ch/) - TV / Sports / Live
 * [Anime-Loads](https://www.anime-loads.org/) - Anime
@@ -643,6 +645,7 @@
 * [HindiLinks4u](https://hindilinks4u.io/) - Movies / TV
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies
 * [SkymoviesHD](https://skymovieshd.name/) - Movies / TV / WWE
+* [Moovana](https://www.moovana.net/) - Movies / TV
 * [FilmyBro](https://filmybro.top/) - Movies
 * [cinemakick](https://www.cinemakick.com/) - Movies
 * [movieapne](https://movieapne.co) - Movies
@@ -1038,6 +1041,7 @@
 * [FarsiLand](https://farsiland.com/) - Movies / TV 
 * [Nostalgik](https://nostalgiktv.org/) - Movies / TV
 * [IMVBox](https://www.imvbox.com/) - Movies
+* [naabmovie](https://naabmovie.ir/) - Movies / TV
 * [LiveFarsi](https://www.livefarsi.com/live-tv.html) - Movies / TV / Live
 * [Anten.ir](https://www.anten.ir/) - Live / TV / Sports 
 * [PersianTVLive](http://www.persiantvlive.com/) - Live TV
@@ -1554,6 +1558,7 @@
 * [OpenEDU](https://openedu.ru/) - Courses
 * [Teach.in](https://teach-in.ru/) - Lectures
 * [Notalone](https://notalone.tv/) - Video Sync / Watch Parties
+* [filmix](https://filmix.ac/) - Movies / TV
 
 ## ▷ Reading
 
@@ -1840,6 +1845,7 @@
 * [makkitv](https://makkitv.co/) - TV
 * [TurkAnime](https://www.turkanime.net/), [2](https://www.turkanime.co/) - Anime
 * [anizm](https://anizm.net/) - Anime
+* [tafdi2](https://www.tafdi2.com) - Movies
 
 ## ▷ Reading
 
