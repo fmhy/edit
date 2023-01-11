@@ -90,6 +90,7 @@
 * [ncv](http://www.ncv.life/) - Anime
 * [fomny](http://fomny.com/Home/index.php) - Live TV
 * [qayadat](https://play.qayadat.org/channels) - Live TV
+* [elahmad](http://www.elahmad.com/tv/arabic-channel.php) - Live TV
 * [YallAlive](https://yallalive.org/) - Live Soccer
 * [livehd7](https://www.livehd7.top/) - Live Soccer
 
@@ -603,10 +604,13 @@
 * [MoviezAddiction](https://moviezaddiction.lol/) - Movies / TV / [Telegram](https://t.me/moviezaddiction3)
 * [MKVHub](https://www.mkvhub.town/) - Movies / TV
 * [Full4Movies](https://www.full4movies.digital/) - Movies / TV / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
-* [filmymeet](https://filmyzilla.filmymeet.co/) - Movies / TV
-* [moviehunt](https://moviehunt.us) - Movies / TV
+* [Filmymeet](https://filmyzilla.filmymeet.co/) - Movies / TV
+* [Moviehunt](https://moviehunt.us) - Movies / TV
+* [Roshiya](https://roshiya.me/) - Movies / TV
+* [MoviesJet](https://moviesjet.one/) - Movies / TV
 * [SouthFreak](https://southfreak.click/) - Movies
 * [UncutHD](https://www.uncuthd.guru/) - Movies
+* [Foumovies](https://www.foumovies.pw/) - Movies
 * [PrMovies](https://prmovies.homes/) or [yomovies](https://yomovies.rs/) - Movies / TV / Anime / [Telegram](https://t.me/+VozFopt7yyE4Y2Fl)
 * [Bolly4u](https://bolly4u.onl/) - Movies
 * [9xflix](https://9xflix.skin/) - Movies
@@ -649,6 +653,7 @@
 * [FilmyBro](https://filmybro.top/) - Movies
 * [cinemakick](https://www.cinemakick.com/) - Movies
 * [movieapne](https://movieapne.co) - Movies
+* [MoviesCounter](https://moviescounter.boats/) - Movies
 * [serialbaba](https://serialbaba.co/) - TV
 * [DesiTVBox](https://www.desitellybox.me/) - TV
 * [SerialGhar](https://serialghar.net/), [2](https://serialghar.me/) - TV
