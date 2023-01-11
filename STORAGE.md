@@ -2467,7 +2467,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Sports Streaming
 
-[NFL](https://nflstreams.me/), [NBA](https://nbastreams.me/), [MLB](https://mlbstreams.me/), [NHL](https://nhlstreams.me/), [UFC](https://watch.ufcstream.me/ufc-streams), [Boxing](https://watch.boxingstreams.me/), [Tennis](https://live.tennisstreams.me/), [Football](https://socceronline.me/), [Rugby](https://rugbystreams.me/), [F1](https://hd.f1stream.me/), [MotoGP](https://motogpstream.me/), [Golf](https://golfstreams.me/), [Darts](https://dartsstream.me/), [Cricket](https://watch.cricstream.me/)
+[NFL](https://nflstreams.me/), [NBA](https://nbastreams.me/), [MLB](https://mlbstreams.me/), [NHL](https://nhlstreams.me/), [UFC](https://watch.ufcstream.me/ufc-streams), [Boxing](https://watch.boxingstreams.me/), [Tennis](https://live.tennisstreams.me/), [Football](https://socceronline.me/), [Rugby](https://rugbystreams.me/), [F1](https://hd.f1stream.me/), [MotoGP](https://motogpstream.me/), [Golf](https://golfstreams.me/), [Darts](https://dartsstream.me/), [Cricket](https://watch.cricstream.me/), [FullMatchTV](https://fullmatchtv.com/)
 
 ***
 
