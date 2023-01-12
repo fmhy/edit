@@ -498,6 +498,7 @@
 * [KBHGames](https://kbhgames.com/)
 * [Unity3DGames](http://www.unity3dgames.net/)
 * [FreeGames](https://freegames.org/)
+* [PrimaryGames](https://www.primarygames.com/)
 * [MSM Games](https://zone.msn.com/en-us/home)
 * [CAMLBOY](https://linoscope.github.io/CAMLBOY/)
 * [itch.io](https://graebor.itch.io/), [2](https://grey2scale.itch.io/), [3](https://ncase.itch.io/), [4](https://capsquared.itch.io/), [5](https://evilobjective.itch.io/)
@@ -546,6 +547,7 @@
 * [Raptjs](http://www.raptjs.com/) - Puzzle Platformer
 * [Synesthesia in Space](http://synesthesiagame.com/) - Puzzle Platformer
 * [Tales of Dorime](https://dorime.udany.net/) - 2D Platformer
+* [PrinceJS](https://princejs.com/) - Prince of Persia
 * [3rd World Farmer](https://3rdworldfarmer.org/) - Farm Sim
 * [Sim CB](https://benoitessiambre.com/macro.html) - Central Bank Sim
 * [Operius](https://mors-games.itch.io/operius) - Space Shooter
