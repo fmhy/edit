@@ -1683,7 +1683,6 @@ Twitch Stream Tracker
 * [FBvidzBot](https://telegram.me/FBvidzBot) - Telegram Facebook Video Downloader
 * [Story Saver](https://chrome.google.com/webstore/detail/story-saver/mafcolokinicfdmlidhaebadidhdehpk) - Facebook Story Downloader
 * [Caprine](https://sindresorhus.com/caprine/) - Facebook Desktop Messenger / [GitHub](https://github.com/sindresorhus/caprine)
-* [ChatSilo](https://chatsilo.com/) - Mini Facebook Messenger CRM
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - Facebook Search Formulas 
 * [Graph.tips](https://graph.tips/beta/) - Advanced Facebook Search Tool
 * [WhoPostedWhat](https://whopostedwhat.com/) - Facebook Post Search
