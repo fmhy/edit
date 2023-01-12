@@ -399,7 +399,7 @@ Simulator
 * [ChemicalAid](https://en.intl.chemicalaid.com/) - Chemistry Calculators / Element Tables
 * [ChemgaPedia](https://www.chemgapedia.de/vsengine/en/index.html), [MOTM](http://www.chm.bris.ac.uk/motm/motm.htm), [NIST](https://webbook.nist.gov/chemistry/) or [EssentialChemicalIndustry](https://www.essentialchemicalindustry.org/) - Chemistry Wikis
 * [ChemistrySteps](https://www.chemistrysteps.com/) or [DocBrown](https://docbrown.info/) - Chemistry Practice / Guides
-* [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii), [chemhelper](http://chemhelper.com/) or [chemguide](https://www.chemguide.co.uk) - Study Guides
+* [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii), [Chem Wiki](https://wiki.ch.ic.ac.uk/wiki/), [chemhelper](http://chemhelper.com/) or [chemguide](https://www.chemguide.co.uk) - Study Guides
 * [ChemistryTalk](https://chemistrytalk.org/) - Tutorials / Experiments / Elements / Reference Articles
 * [Sciencenotes](https://sciencenotes.org) - Periodic Tables / Chemistry Projects and Questions
 * [Organic Chemistry](https://www.organic-chemistry.org) - Organic Reactions
@@ -705,9 +705,10 @@ Simulator
 * [Nutkus](https://sourceforge.net/projects/nutkus/) - Notation Learning Game
 * [A-Complete-UTAU-Tutorial-For-Beginners](https://www.quotev.com/story/9299060/A-Complete-UTAU-Tutorial-For-Beginners) - UTAU Tutorial
 * [MusicStaff](https://musicstaff.com/) - Music Teacher Search
-* [NoteFlight](https://noteflight.com/), [Lets Compose](https://lets-compose.sourceforge.io/), [MCMusicEditor](https://www.mcmusiceditor.com/), [Flat](https://flat.io/), [FinaleMusic](https://www.finalemusic.com/products/notepad/), [Score Perfect Professional](https://archive.org/details/score-perfect-professional-lite-5.1/), [MuseScore](https://musescore.org/en/download), [canorus](https://github.com/canorusmusic/canorus), [MusicWorks](https://www.tierramedia.com/), [Notasi Angka](https://notasi-angka.sourceforge.io/) or [Trinket](https://trinket.io/) - Create & Share Music Scores
+* [Piascore](https://apps.apple.com/us/app/piascore-hd/id406141702) - Music Score Viewer
+* [NoteFlight](https://noteflight.com/), [Lets Compose](https://lets-compose.sourceforge.io/), [MCMusicEditor](https://www.mcmusiceditor.com/), [Flat](https://flat.io/), [FinaleMusic](https://www.finalemusic.com/products/notepad/), [Score Perfect Professional](https://archive.org/details/score-perfect-professional-lite-5.1/), [MuseScore](https://musescore.org/en/download), [canorus](https://github.com/canorusmusic/canorus), [MusicWorks](https://www.tierramedia.com/), [Notasi Angka](https://notasi-angka.sourceforge.io/) or [Trinket](https://trinket.io/) - Create / Share Music Scores
 * [Qin](https://qin.sourceforge.io/) - Create Qin Music Scores
-* [Access Music](http://accessmusic.sourceforge.net/) - Create Music Score for Blind Users
+* [Access Music](http://accessmusic.sourceforge.net/) - Create Music Scores for Blind Users
 * [The ABC Music Project](http://abc.sourceforge.net/) - Plain Text Music Notation / [Editor](https://toadflax.sourceforge.io/), [2](https://runabc.sourceforge.io/), [3](http://easyabc.sourceforge.net/) / [PNG Convert](https://abccairo.sourceforge.io/) / [MIDI Convert](https://abcmidi.sourceforge.io/) / [Webpages](https://netabc.sourceforge.io/) / [Random](https://sourceforge.net/projects/randomabc/)
 * [Audiveris](https://audiveris.github.io/audiveris/), [Oemer](https://github.com/BreezeWhite/oemer) / [Colab](https://colab.research.google.com/github/BreezeWhite/oemer/blob/main/colab.ipynb), [transcription](https://github.com/superfonic/transcription), [omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart), [AutoAudio](https://github.com/EricaNguyen/AutoAudio), [notetrainerpro](https://sourceforge.net/projects/notetrainerpro/) or [Soundslice](https://www.soundslice.com/transcribe/) - Transcribe Music Sheets / [GitHub](https://github.com/Audiveris/audiveris)
 * [Partitura Magica](https://partituramagica.sourceforge.io/) or [SheetMusicScanner](https://sheetmusicscanner.com/) - Display Scanned Music Sheets
@@ -751,6 +752,7 @@ Simulator
 * [Note Taking Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - Note Taking / To-Do Apps
 * [Note Garden](https://notegarden.web.app/), [2](https://notegarden.io/) - Note Taking & Auto Courses
 * [Mochi Cards](https://mochi.cards/) or [MidTerm](https://midterm.app/) - Note Taking / Study Tool
+* [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool
 * [BookStack](https://www.bookstackapp.com/) - Self-Hosted Information Manager
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
 * [Wordwall](https://wordwall.net/) - Lesson Creator
