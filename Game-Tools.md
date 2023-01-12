@@ -298,6 +298,7 @@
 * [ArchiFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - Farm Steam Trading Cards
 * [Steam Deck Mods](https://docs.google.com/document/d/1TWhN9nCorKxut5O7UbPQPDhXLb-8C-CIoesB01yfhmY/) - Steam Deck Mods / [Discord](https://discord.com/invite/SteamDeck) / [Discord Bot](https://github.com/SteamDeckMods/sdm_discord_bot)
 * [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) - Steam Deck Plugin Loader
+* [Steam Deck Tools](https://github.com/ayufan/steam-deck-tools) - Fan Overlay, Power Control and Steam Controller
 * [HoloISO](https://github.com/theVakhovskeIsTaken/holoiso) - SteamOS 3 (Holo) Archiso Config
 
 ***
