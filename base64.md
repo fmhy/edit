@@ -1652,3 +1652,9 @@ pass: paluch
 #### Proxifier Keys
 
 `aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vZjByMzRjaGIzdDQvYTRmNTcyMzlkNzZjMjc4MjkwNjZlYWU4N2ZlM2E4Yjk=`
+
+***
+
+#### Android TV Spotify
+
+`aHR0cHM6Ly9mb3J1bS54ZGEtZGV2ZWxvcGVycy5jb20vdC9hcGstbW9kLXNwb3RpZnktYW5kcm9pZC10di1hZC1mcmVlLjM5NDg2NTYv`
