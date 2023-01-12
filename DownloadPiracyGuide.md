@@ -390,7 +390,7 @@
 * [TGMoviesBot](https://t.me/TGMoviesBot) - Telegram File Search Bot 
 * [Direct Links](https://t.me/direct_llinks) - Telegram / Video / Software / Games 
 * [VK Files Bot](https://t.me/VKFiles_Bot) - VK File DL Telegram Bot
-* [Real-Debrid](https://real-debrid.com/) - File Download App / Paid
+* [Real-Debrid](https://real-debrid.com/) - File Download App / Paid / [Torrent Client](https://github.com/rogerfar/rdt-client)
 
 ***
 
@@ -417,7 +417,7 @@
 * [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)
 * [NZBKing](http://nzbking.com/)
-* [althub](https://althub.co.za) - Unlimited free trials
+* [althub](https://althub.co.za) - Unlimited Free Trials
 * [nZEDb](https://github.com/nZEDb/nZEDb) - Self-Hosted
 * [Spotweb](https://github.com/spotweb/spotweb) - Spotnet Client
 * [/r/usenet](https://reddit.com/r/usenet) 
