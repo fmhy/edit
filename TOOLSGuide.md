@@ -54,7 +54,6 @@
 * [wnr](https://getwnr.com/), [Timeblocking](https://timeblocking.atomiclife.app/) or [Timestrap](https://timestrap.bythewood.me/) - Time Management Apps
 * [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - To-Do List Apps
 * [Creative Commons](https://creativecommons.org/) - Creative Commons Licenses
-* [ievaphone](https://ievaphone.com/), [blacktel](https://www.blacktel.io/), [Citrustel](https://www.citrustel.com/) or [PopTox](https://www.poptox.com/) - Make Free Phone Calls
 * [MyPhone](https://github.com/BestOwl/MyPhone) - Make Calls via Desktop
 * [Free-lookup](https://www.free-lookup.net/) - Phone # Lookup
 * [tuxi](https://github.com/Bugswriter/tuxi) - Question & Answer CLI
@@ -108,6 +107,7 @@
 * [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.net/) - Perfume / Fragrance Databases
 * [Safe Substance](https://safesubstance.com/) - Drug Combination Info / Harm Reduction
 * [Stolen Camera Finder](https://www.stolencamerafinder.com/) - Find Stolen Cameras
+* [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
 * [AFreeSMS](https://www.afreesms.com/freesms/) - Send Free Texts
 * [Parcelsapp](https://parcelsapp.com/en/) or [17Track ](https://www.17track.net/en) - International Package Tracking
 * [Sweet Home 3D](http://www.sweethome3d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
@@ -146,7 +146,7 @@
 * [docz](https://www.docz.site/) - Write and Publish Interactive Documentation
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
 * [Calculist](https://calculist.io/) - Note Taking for Problem Solving
-* [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [App linked](https://uselinked.com/) / [GitHub](https://github.com/lostdesign/linked), [Gemlog](https://gemlog.blue/), [jrnl.sh](https://jrnl.sh/) or [journal-cli](https://v1.journalcli.app/) - Journal App
+* [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [App linked](https://uselinked.com/) / [GitHub](https://github.com/lostdesign/linked), [Jotterbit](https://jotterbit.com/), [Gemlog](https://gemlog.blue/), [jrnl.sh](https://jrnl.sh/) or [journal-cli](https://v1.journalcli.app/) - Journal Apps
 * [Here and Now](https://here-and-now.glitch.me/) - Daily Reflections Journal
 * [Detexify](http://detexify.kirelabs.org/classify.html) - Handwritten LaTeX Symbol Recognition
 * [How To Use Excel](https://www.how-use-excel.com/) - Excel Tutorial
@@ -882,15 +882,15 @@
 * [IP List](http://magic-cookie.co.uk/iplist.html) - Convert CIDR Notation to UP Range
 * [IP Rotator](https://github.com/Ge0rg3/requests-ip-rotator) - Bypass IP-based Rate-Limits Requests 
 * [open-ports](https://www.yougetsignal.com/tools/open-ports/), [Masscan-ng](https://github.com/bi-zone/masscan-ng), [Networkappers](https://networkappers.com/), [PortCheckTool](https://www.portchecktool.com/), [PortChecker](https://www.portchecker.co/), [PortCheckers](https://www.portcheckers.com/) or [CanYouSeeMe](https://canyouseeme.org/) - Open Port Checkers
-* [DownloadTestr](http://txti.es/downloadtestr) - Download Test Files to Test Download Speed 
+* [DownloadTestr](http://txti.es/downloadtestr) - Download Test Files to Test Download Speed
 * [NeverSSL](http://neverssl.com/) or [HTTP Forever](http://httpforever.com/) - Fix Public WiFi Login Pages
 * [WiFi-Password](https://github.com/sdushantha/wifi-password) - Fetch WiFi Password / Generate QR Code
 * [IP2Proxy](https://www.ip2proxy.com/) - Proxy / VPN IP Detector
 * [Slideshow-Deslidefier](http://deslide.clusterfake.net/) - View Slideshows All At Once
 * [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities
 * [tumblr-crawler](https://github.com/ZenulAbidin/tumblr-crawler) - Download Tumblr Photos / Videos
-* [Tumgir](https://www.tumgir.com/) - Tumblr Web Viewer
-* [Awesome ActivityPub](https://github.com/BasixKOR/awesome-activitypub) - List of ActivityPub based projects 
+* [Tumgir](https://www.tumgir.com/) or [Tumpik](https://www.tumpik.com/) - Tumblr Web Viewers
+* [Awesome ActivityPub](https://github.com/BasixKOR/awesome-activitypub) - ActivityPub Project List
 * [Percollate](https://github.com/danburzo/percollate) - Format Pages for PDF / EPub / HTML
 * [StartOS](https://startos.app/) - 90's Themed Startpage / [Github](https://github.com/Jaredk3nt/startos)
 * [Gate2Home](https://gate2home.com/) - Keyboard Emulator 
@@ -1183,7 +1183,7 @@
 * [Reddit Comment Visualizer](https://roadtolarissa.com/javascript/reddit-comment-visualizer/) - Vizualize a Users Comments
 * [Reddit Comment Search](https://www.redditcommentsearch.com/) - Search Reddit Comments 
 * [Find on Reddit](https://chrome.google.com/webstore/detail/find-on-reddit/jbcdpeekakanklckgooknpbonojhjncm) - Find Discussions of current URL
-* [RedditRepostSleuth](https://github.com/barrycarey/RedditRepostSleuth) - Repost Detection Bot
+* [Reddit Check](https://chrome.google.com/webstore/detail/reddit-check/mllceaiaedaingchlgolnfiibippgkmj) or [RedditRepostSleuth](https://github.com/barrycarey/RedditRepostSleuth) - Check for Reposts
 * [DelayForReddit](https://www.delayforreddit.com/) - Reddit Post Scheduler
 * [Reddit Desktop Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_desktop_apps) 
 * [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader) or [ReScrapper](https://github.com/psantheus/ReScrapper) - Download Media from Reddit 
@@ -1249,7 +1249,8 @@
 * [6gk Turtles](https://github.com/6gk/turtles) - Discord Turtle Emojis
 * [Distok](http://distok.top/stickers/), [DiscordFreeStickers](https://github.com/An00nymushun/DiscordFreeStickers), [Stickers.gg](https://stickers.gg) or [FreeCommunityStickers](https://github.com/discord-stickers/FreeCommunityStickers)  - Free Discord Stickers 
 * [Discord Sticker Viewer](https://sticker-view.vercel.app/) - View Discord Stickers
-* [Discord Image Downloader Go](https://github.com/Seklfreak/discord-image-downloader-go) - Discord Image Downloader
+* [Discord Downloader Go](https://github.com/get-got/discord-downloader-go) - Discord File Downloaders
+* [Discord Image Downloader Go](https://github.com/Seklfreak/discord-image-downloader-go) or [Discord-Image-Scraper](https://github.com/17teen/Discord-Image-Scraper) - Discord Image Downloaders
 * [Tiktok-Auto-Embed](https://github.com/dumax315/Tiktok-Auto-Embed) - Discord TikTok Embed Downloader
 * [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
@@ -1294,13 +1295,14 @@
 * [Chuu](https://github.com/ishwi/Chuu) or [FMcord](https://discord.bots.gg/bots/521041865999515650) - Last.fm Discord Bot
 * [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling
 * [Craig](https://craig.chat/) - Voice Channel Recorder / [Backup](https://craig.chat/home/giarc)
-* [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter), [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker), [discord-archiver](https://github.com/nektro/discord-archiver) or [Discord-Channel-Scraper](https://github.com/simon987/Discord-Channel-scraper) - Archive / Export Discord Chats 
+* [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) / [Python](https://github.com/mahtoid/DiscordChatExporterPy), [discard2](https://github.com/Sanqui/discard2), [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker), [discord-archiver](https://github.com/nektro/discord-archiver) or [Discord-Channel-Scraper](https://github.com/simon987/Discord-Channel-scraper) - Archive / Export Discord Chats
+* [Discord URL Extractor](https://github.com/TheTechRobo/discord-urls-extractor) - Extract URLs from Discord Chats
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) or [Phish Grabber](https://phishgrabber.dis.tf/) - Discord Anti Phishing Bot
 * [pullcord](https://github.com/tsudoko/pullcord) - Discord Archiver
 * [discord2sheet-bot](https://github.com/hugonun/discord2sheet-bot) - Store Messages to Google Sheets
 * [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion), [discord-delete](https://github.com/adversarialtools/discord-delete) or [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages) - Delete Discord Messages / [Warning](https://i.imgur.com/Kt8G430.png) 
 * [ansi-colors-discord.md](https://gist.github.com/kkrypt0nn/a02506f3712ff2d1c8ca7c9e0aed7c06) - Discord Colored Messages 
-* [Discord Style](https://www.discord.style/) - Discord Server Templates
+* [Discord Style](https://www.discord.style/) or [Discord Templates](https://discordtemplates.me/) - Discord Server Templates
 * [Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/)
 * [Discord Embed Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_embed_generators) - Generate Embeds via Webhooks
 * [Discord-Webhook-Delete](https://github.com/fknMega/Discord-Webhook-Delete) - Webhook Remover
@@ -1320,7 +1322,9 @@
 * [Dyno](https://dyno.gg/) - Change Discord Discriminator w/o Nitro / [How-To](https://i.imgur.com/lHRD42c.png) 
 * [Discord.ID](https://discord.id/) - Lookup a Discord User or Bot ID 
 * [Discord Markdown Cheatsheet](https://pbs.twimg.com/media/EhCUbVnWAAE5tHx?format=png&name=900x900), [2](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-), [3](https://c.r74n.com/discord/formatting) - Discord Markdown Guide
-* [Discord Avatar Maker](https://discord-avatar-maker.app/) - Make Discord Avatars  
+* [Discord-Avatar](https://discord-avatar.com/) or [Toolscord](https://toolscord.com/) - Download Discord Avatars
+* [Discord Avatar Maker](https://discord-avatar-maker.app/) - Make Discord Avatars
+* [Better Default Discord](https://better-default-discord.netlify.app/) - Default Discord Avatars
 * [usrbg](https://github.com/Discord-Custom-Covers/usrbg) or [Pfps.gg](https://pfps.gg/) - Discord Custom Profile Backgrounds / [Discord](https://discord.gg/2YcxDChxS5) 
 * [Discord Icon](https://icon.en-zo.dev/) - Create Custom Discord Role Icons
 * [Auto Creative](https://auto.creavite.co/icons) - Animated Icon & Banner Generator
@@ -1927,7 +1931,7 @@ Twitch Stream Tracker
 * [InputDirector](http://www.inputdirector.com/), [Synergy](https://symless.com/synergy), [Barrier](https://github.com/debauchee/barrier) or [ShareMouse](https://www.sharemouse.com/) - Share Mouse & Keyboard w/ Multiple Computers
 * [Nebula](https://github.com/slackhq/nebula) - Multi-Computer Networking Tool
 * [TigerVNC](https://tigervnc.org/) - VNC Client
-* [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz), [w-colab](https://github.com/akuhnet/w-colab) or [AppOnFly](https://app.apponfly.com/trial) - Free VPS / Use Throwaway Accounts
+* [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz), [w-colab](https://github.com/akuhnet/w-colab), [FreeVPS](https://rentry.co/freevps) or [AppOnFly](https://app.apponfly.com/trial) - Free VPS / Use Throwaway Accounts
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager 
 * [Netmaker](https://gravitl.com/netmaker) - Create Virtual Network
 * [NirLauncher](https://launcher.nirsoft.net/) - All Nirsoft Utilities in One App
