@@ -46,6 +46,7 @@
 * [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - Piracy Index / [Warning](https://i.imgur.com/jtT9GDB.png)
 * [Ripped Guide](https://ripped.guide/) - Piracy Index
 * [The Pirate List](https://thepiratelist.com/) - Piracy Index
+* [Leaf Guides](https://leafguides.xyz/) - Piracy Index
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Software / Tool Index
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - Data Hoarding Tools Index
 * [DirtyWarez Tracker](https://dirtywarez.org/cat/tracker), [OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/) / [2](https://opentrackers.org/), [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) or [awesome-piracy](https://github.com/Igglybuff/awesome-piracy#public-trackers) - Torrent Site Indexes
@@ -431,6 +432,7 @@
 * [Paper Plotter](https://felixboiii.github.io/paper-plotter/) - Create 3D plots out of paper 
 * [Instructables](https://www.instructables.com/) - Free Projects / Crafts 
 * [Toys from Trash](http://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys 
+* [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
 * [Roadside America](https://www.roadsideamerica.com/) - Roadside Attraction Index
 * [deardiary](https://deardiary.wtf/) - Machine Learning Diary / [Concept Video](https://youtu.be/Zc3qayGmYZQ) 
 * [Bad Licenses](https://github.com/ErikMcClure/bad-licenses) - Funny Open Source Licenses Index
