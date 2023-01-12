@@ -325,7 +325,7 @@
 * [MyRM](https://myrunningman.com/) - My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)
 * [No-Laughing Batsu Game List](https://redd.it/2fgm9p) 
 * [cytube](https://cytu.be/) - TV / Chat
-* [ScrubTV](https://reboot.tube/) - TV / Chat
+* [ScrubTV](https://dizz.tube/) - TV / Chat
 * [VaughnLive](https://vaughn.live/browse/misc) - TV / Chat
 * [Baked](http://baked.live/) - TV / Chat
 
