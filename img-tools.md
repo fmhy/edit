@@ -81,9 +81,9 @@
 ## ▷ Resize / Compress
 
 * [Image Upscalers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_upscalers) - Upscale Images
-* [Croppola](https://croppola.com/), [Freehand Cropper](https://half-6.github.io/lf-freehand-cropper/), [Bulk Image Crop](https://bulkimagecrop.com/), [CropHere](https://crophere.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tool 
-* [Seopix](https://www.seopix.io/) or [Reduce Images](https://www.reduceimages.com/) - Resize & Compress Images
-* [Simple Image Resizer](http://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [fixpicture](https://www.fixpicture.org/), [PicResize](https://picresize.com/), [resize-image](https://resize-image.net/), [Birme](https://www.birme.net/), [ImageResizeOnline](https://www.imageresizeonline.com/), [ResizeNow](https://www.resizenow.com/en) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - Resize Images
+* [Croppola](https://croppola.com/), [Freehand Cropper](https://half-6.github.io/lf-freehand-cropper/), [Bulk Image Crop](https://bulkimagecrop.com/), [CropHere](https://crophere.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tool
+* [Seopix](https://www.seopix.io/) or [Reduce Images](https://www.reduceimages.com/) - Resize / Compress Images
+* [Simple Image Resizer](http://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [fixpicture](https://www.fixpicture.org/), [PicResize](https://picresize.com/), [resize-image](https://resize-image.net/), [Birme](https://www.birme.net/), [ImageResizeOnline](https://www.imageresizeonline.com/), [OnlineResizeImage](https://www.onlineresizeimage.com/), [ResizeNow](https://www.resizenow.com/en) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - Resize Images
 * [Resize App Icon](https://resizeappicon.com/) - Resize Square Images 
 * [SSizes](https://ssizes.com/) or [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
 * [RIOT](https://riot-optimizer.com/), [imageoptimizer](http://www.imageoptimizer.net/) or [ImageFoo](https://imagefoo.com/) - Image Optimization Tool
@@ -304,7 +304,8 @@
 * ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [AI Creation Tool Mega](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) or [SD Akashic](https://github.com/Maks-s/sd-akashic) - AI Image Generation Resources
 * ⭐ **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) 
 * ⭐ **Craiyon Tools** - [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk) / [Generative Engine](https://experiments.runwayml.com/generative_engine/)
-* ⭐ **[Stable Diffusion](https://discord.com/invite/stablediffusion)** or [Unstable Diffusion](https://discord.com/invite/unstablediffusion) - Discord Servers
+* ⭐ **[Stable Diffusion](https://github.com/Stability-AI/stablediffusion)** - [Discord](https://discord.com/invite/stablediffusion)
+* [Unstable Diffusion](https://discord.com/invite/unstablediffusion)
 * [Mage](https://www.mage.space/)
 * [DALL·E Flow](https://github.com/jina-ai/dalle-flow) / [Colab](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb)
 * [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot)
@@ -322,6 +323,7 @@
 * [NeuralBlender](https://neuralblender.com/)
 * [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/)
 * [InPainter](https://inpainter.vercel.app/paint)
+* [Stable Dreamfusion)](https://github.com/ashawkey/stable-dreamfusion)
 * [Dreambooth](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)
 * [Stable Diffusion InPainting](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) / [Guide](https://rentry.org/drfar)
 * [Diffuse The Rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
@@ -360,7 +362,7 @@
 * [HyperCard](http://archives.somnolescent.net/web/hypercard/) - Mac HyperCard Art
 * [Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Movie / TV Covers & Posters
 * [Film.ai](https://beta.flim.ai/) - Movie Screenshots
-* [CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](http://www.pngmart.com/), [freepngs](https://www.freepngs.com/), [pngall](http://www.pngall.com/), [pngplay](http://www.pngplay.com/), [pngfly](https://www.pngfly.com/), [freepngimg](https://www.freepngimg.com/), [kisspng](https://www.kisspng.com/), [maxpixel](https://www.maxpixel.net/), [PNGHut](https://pnghut.com/) or [OpenClipart](https://openclipart.org/) - PNG Images / Clipart 
+* [CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](http://www.pngmart.com/), [freepngs](https://www.freepngs.com/), [pngall](http://www.pngall.com/), [pngplay](http://www.pngplay.com/), [pngfly](https://www.pngfly.com/), [freepngimg](https://www.freepngimg.com/), [kisspng](https://www.kisspng.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com), [maxpixel](https://www.maxpixel.net/), [PNGHut](https://pnghut.com/) or [OpenClipart](https://openclipart.org/) - PNG Images / Clipart
 * [Sankaku](https://sankaku.app/), [Anime Pictures](https://anime-pictures.net/), [Pixiviz](https://pixiviz.pwp.app/) or [ZeroChan](https://zerochan.net/) - Anime Images / Some NSFW / [Chrome](https://github.com/Disrc/SankakuComplexAddon)
 * [Buhitter](https://buhitter.com/) - Twitter Illustration Search
 * [Footyrenders](https://www.footyrenders.com/) - Football Related Images
@@ -492,9 +494,8 @@
 * [Pinry](https://docs.getpinry.com/) - Image Tiling Board
 * [Lychee](https://lycheeorg.github.io/), [PicoShare](https://github.com/mtlynch/picoshare), [Up1](https://github.com/Upload/Up1) or [Chevereto](https://chevereto.com/) - Self-Hosted Image Host 
 * [Pixiv](https://www.pixiv.net/en/) - User-Made Image Host / [Downloader](https://chrome.google.com/webstore/detail/pixiv-toolkit/ajlcnbbeidbackfknkgknjefhmbngdnj?hl=en), [2](https://github.com/Nandaka/PixivUtil2)
-* [Pixelfed](https://pixelfed.org/) - Open Source Instagram Alternative
 * [Librephotos](https://github.com/LibrePhotos/librephotos), [Photoprism](https://github.com/photoprism/photoprism), [Photoview](https://github.com/photoview/photoview) or [Ownphotos](https://github.com/hooram/ownphotos/) - Self-Hosted Google Photo Manager 
-* [Pixelfed](https://pixelfed.org/) or [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts 
+* [Pixelfed](https://pixelfed.org/) or [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid), [2](https://www.f-droid.org/packages/org.pixeldroid.app/)
 * [Cryptee](https://crypt.ee/) - Encrypted Image Storage
 * [CacheMonkey](https://www.cachemonkey.app/) - Browse / Clear Cached Images
 * [Google Photos Takeout Helper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Cleanup a Google Photos Takeout
@@ -590,6 +591,7 @@
 * [PictureCipher](https://keitharm.me/projects/picturecipher/index.php) or [Base64 Image](https://www.base64-image.de/) - Encrypt / Decrypt Images 
 * [BetaFace](https://www.betaface.com/demo.html) or [Face Recognition](https://github.com/ageitgey/face_recognition) - Facial Recognition 
 * [FALdetector](https://github.com/peterwang512/FALdetector) - Photoshopped Face Detector
+* [Shoop](https://colab.research.google.com/drive/1AQ0XSKWjzJBhGXXJ0XrA4DckFdv6Ul5N) - Detect if Image is Photoshopped
 * [Fawkes](http://sandlab.cs.uchicago.edu/fawkes/) - Image Cloaking
 * [Redact.Photo](https://redact.photo/) - Image Redaction Tool
 * [Squoosh](https://squoosh.app/) - Image Codec Comparison
