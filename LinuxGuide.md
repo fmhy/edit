@@ -14,7 +14,7 @@
 * ⭐ **[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_distros)** - Download Linux Distros 
 * ⭐ **[Linux Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_themes)** - Themes for Linux
 * ⭐ **[Linux Piracy](https://rentry.co/LinuxPiracy)** - Linux Piracy Guide
-* ⭐ **[Archwiki](https://wiki.archlinux.org/)** - Linux Wiki
+* ⭐ **[Archwiki](https://wiki.archlinux.org/)** - Arch Linux Wiki / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
 * ⭐ **[Awesome TUIs](https://github.com/rothgar/awesome-tuis)** - Linux TUI Index
 * ⭐ **[Bpytop](https://github.com/aristocratos/bpytop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, [CPU-X](https://github.com/X0rg/CPU-X), [vtop](https://github.com/MrRio/vtop), [neofetch](https://github.com/dylanaraps/neofetch) / [Themes](https://github.com/chick2d/neofetch-themes), [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [Stacer](https://github.com/oguzhaninan/Stacer) - System Info / Resource Monitors
 * ⭐ **[Alacritty](https://github.com/alacritty/alacritty)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, [Simple Terminal](https://st.suckless.org/), [yakuake](https://apps.kde.org/yakuake/) or [tabby](https://tabby.sh/) - Terminal Emulator
@@ -29,7 +29,7 @@
 * [Linux Journey](https://linuxjourney.com/) - Learn Linux
 * [Linux Difficulty Chart](https://i.imgur.com/H8sw3L4.png) - Distros Ranked by Difficulty
 * [BusyBox](https://frippery.org/busybox/) - Unix Tools
-* [Awesome-shell](https://github.com/alebcay/awesome-shell) or [LinuxTools](https://github.com/naddurkostia/LinuxTools) - Linux CLI Tools
+* [Awesome-shell](https://github.com/alebcay/awesome-shell), [AltBox](https://altbox.dev/) or [LinuxTools](https://github.com/naddurkostia/LinuxTools) - Linux CLI Tools
 * [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - CPU Speed & Power Optimization Automation
 * [Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome) - GNOME Distro Resources
 * [Enlightment](https://www.enlightenment.org/), [worm](https://github.com/codic12/worm), [qpwm](https://github.com/ssleert/qpwm) or [dwm](https://dwm.suckless.org/) - Window Manager
@@ -49,7 +49,7 @@
 * [spotify-qt](https://github.com/kraxarn/spotify-qt) or [SpotifyD](https://github.com/Spotifyd/spotifyd) - Spotify Clients
 * [Librespot-Python](https://github.com/kokarare1212/librespot-python) - Spotify TUI
 * [Deezer Linux](https://github.com/aunetx/deezer-linux) - Deezer Client
-* [Myuzi](https://gitlab.com/zehkira/myuzi) - Music Streaming App
+* [Myuzi](https://gitlab.com/zehkira/myuzi) or [Harmony Music](https://github.com/ZingyTomato/Harmony-Music) - Music Streaming Apps
 * [Meteo](https://gitlab.com/bitseater/meteo) - Weather App
 * [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - Free Ubuntu VNC
 * [gazee](https://hub.docker.com/r/linuxserver/gazee/) or [Komikku](https://gitlab.com/valos/Komikku) - Manga & Comic Reader / Manager
