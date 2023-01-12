@@ -12,11 +12,11 @@
 
 ## ▷ Streaming Apps
 
-* ⭐ **[Spotify Client](https://www.spotify.com/us/download/)**, [Lofi Rocks](https://www.lofi.rocks/), [ncspot](https://github.com/hrkfdn/ncspot), [Strix](https://arlo.site/strixmusic/install/) or [SpoTube](https://github.com/KRTirtho/spotube) - Streaming
-* ⭐ **[Spotify Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - Spotify Tools, Adblockers, Customization & More
-* [YouTube Music Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_music_players) - Streaming
-* [FunkWhale](https://funkwhale.audio/) - Streaming
+* ⭐ **[Spotify Client](https://www.spotify.com/us/download/)**, [Lofi Rocks](https://www.lofi.rocks/), [ncspot](https://github.com/hrkfdn/ncspot), [Strix](https://arlo.site/strixmusic/install/) or [SpoTube](https://github.com/KRTirtho/spotube) - Spotify Clients / [Android TV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_android_tv_spotify)
+* ⭐ **[Spotify Tools / Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - Spotify Tools, Adblockers and Customization 
+* [YouTube Music Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_music_players)
 * [nuclear](https://nuclear.js.org/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
+* [FunkWhale](https://funkwhale.audio/) - Streaming
 * [MP3Jam](https://www.mp3jam.org/) - Streaming
 * [Cider](https://cider.sh/) - Streaming
 * [Resso](https://www.resso.com/in/) - Streaming
@@ -34,7 +34,7 @@
 ## ▷ Streaming Sites
 
 * ⭐ **[Spotify](https://open.spotify.com/)** - Browser Music
-* ⭐ **Spotify Tools** - [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Listen Together](http://jqbx.fm/) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
+* ⭐ **Spotify Browser Tools** - [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Listen Together](http://jqbx.fm/) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
 * ⭐ **[YouTube Music](https://music.youtube.com/)**, **[YTMP](https://ytmp.itsvg.in/)**, [Hyperpipe](https://hyperpipe.surge.sh), [InfiGroove](https://www.infigroove.com/), [Spotify One](https://spotfy.one/) or [Beatbump](https://beatbump.ml/home) / [DL Script](https://greasyfork.org/en/scripts/437656) - YouTube Browser Music
 * ⭐ **YouTube Music Tools** - [Lag Fix](https://greasyfork.org/en/scripts/432304-youtube-music-fix-performance) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
@@ -101,9 +101,9 @@
 
 ## ▷ Podcasts / Radio
 
-* ⭐ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcasts & Radio
-* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/timdorr/spotifeed)
-* [Radio Streaming Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_radio_streaming_sites) - Radio Sites
+* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/timdorr/spotifeed), [2](https://github.com/Yetangitu/Spodcast) / [Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)
+* ⭐ **[Radio Streaming Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_radio_streaming_sites)** - Radio Sites
+* ⭐ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
 * [Podchaser](https://podchaser.com/) or [Listen Notes](https://www.listennotes.com/) - Podcast Databases / Trackers
 * [iHeartRadio](https://www.iheart.com/) - Podcasts / Radio
 * [Mixcloud](https://www.mixcloud.com/) - Podcasts / Radio
@@ -161,10 +161,8 @@
 * [Audioburst](https://search.audioburst.com/) - Podcast Clip Search
 * [castero](https://github.com/xgi/castero) - TUI Terminal Podcast Client
 * [Grover](https://www.microsoft.com/store/productId/9NBLGGH6C4BC) or [GPodder](http://gpodder.org/) - Podcast Client
-* [Spotify Podcast Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders) - Download Podcasts from Spotify
 * [ListenLater](https://www.listenlater.fm/) - Turn Articles into Podcasts 
 * [ListenBox](https://listenbox.app/) - Turn YouTube Video into Podcasts
-* [Spodcast](https://github.com/Yetangitu/Spodcast) - Spotify Podcast RSS Proxy
 * [JRE Missing](https://www.jremissing.com/) - Tracks Missing JRE Podcasts
 
 ***
