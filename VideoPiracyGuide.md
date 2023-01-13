@@ -382,7 +382,7 @@
 * [UnliAnime](https://unlianime.to/) - Sub
 * [AnimeSuge](https://animesuge.to/) - Sub / Dub
 * [BestDubbedAnime](https://bestdubbedanime.com/) - Dub / [Discord](https://discord.com/invite/f2pHvauUPu)
-* [tenshi.moe](https://tenshi.moe/) - Sub / Dub
+* [marin.moe](https://marin.moe) - Sub / Dub
 * [AnimeEpisodes](https://ww6.animesepisodes.com/) - Sub / Dub
 * [Crimsonfansubs](https://crimsonfansubs.com/) - Sub / [Discord](https://discord.com/invite/wnK38MjB)
 * [AnimeXin](https://animexin.info/) - Sub
