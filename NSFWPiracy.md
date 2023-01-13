@@ -235,7 +235,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * ⭐ **[Eroti.ga](https://eroti.ga/)**
 * ⭐ **[My Duck Is Dead](http://www.myduckisdead.org/)**
 * [WIPFilms](https://wipfilms.net/)
-* [EroticMovies](https://eroticmovies.xyz/)
 * [EroGarga](https://www.erogarga.com/) 
 * [EroticAge](https://www.eroticage.net/) 
 * [paradisehill](https://en.paradisehill.cc/)
@@ -250,7 +249,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [openload](https://xopenload.me/)
 * [xHamster](https://xhamster.com/categories/vintage?min-duration=40)
 * [AdultLoad](https://adultload.ws/)
-* [classic-porn](http://classic-porn.cc/)
 * [xVideos](https://www.xvideos.com/tags/d:20min_more/movie)
 * [xxxBunker](https://xxxbunker.com/search/film?duration=long&sort=duration) 
 * [TubePorn](https://tubepornclassic.com/most-popular/272/?sort_by=video_viewed&duration_from=3000)
