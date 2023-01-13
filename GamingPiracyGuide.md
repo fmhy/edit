@@ -52,7 +52,6 @@
 * [silentycrying's Game Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_silentycrying.27s_game_drive) 
 * [DLFox](https://www.dlfox.com/)
 * [Alphagames4u](https://alphagames4u.com/) - [Discord](https://discord.gg/QjrJSs7maj)
-* [DarckRepacks](https://darckrepacks.com/) - [Discord](https://discord.gg/5eRvDvy)
 * [RepackLab](https://repacklab.com/) - [Discord](https://discord.gg/X7sjSxgrfk)
 * [SPiKY Repacks](https://discord.gg/ZHC6pffMz2)
 * [Game Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_game_drive)
