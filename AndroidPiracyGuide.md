@@ -261,8 +261,9 @@
 * [QuickTiles](https://f-droid.org/en/packages/com.asdoi.quicktiles/) - Quick Setting Tiles
 * [Pinnit](https://github.com/msasikanth/pinnit) - Notification History / Pinning
 * [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2), [ntfy.sh](https://ntfy.sh/) or [BuzzKill](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_buzzkill) - Custom Push Notifications
-* [TidyPanel](https://play.google.com/store/apps/details?id=com.dharmapoudel.tidypanel) - Notification Blocker
 * [aodNotify](https://play.google.com/store/apps/details?id=com.jamworks.alwaysondisplay) - Notification LED
+* [TidyPanel](https://play.google.com/store/apps/details?id=com.dharmapoudel.tidypanel) - Notification Blocker
+* [App Blocker](https://play.google.com/store/apps/details?id=com.mobteq.appblocker) - Block Apps
 * [AlwaysOnEdge](http://www.aoeapps.com/) - Android Customization App
 * [VirtualXposed](https://virtualxposed.com/) - Rootless Xposed Framework
 * [Palette](https://play.google.com/store/apps/details?id=com.ald.devs47.sam.beckman.palettesetups) - Custom Home Screens
@@ -294,6 +295,7 @@
 * [MacroDroid](http://macrodroid.com/) or [AutomateIt](https://www.automateitapp.com/) - Android Automation
 * [DoForMe](https://play.google.com/store/apps/details?id=com.aj.dfm) - Location Based Automation
 * [Page Scroll](https://play.google.com/store/apps/details?id=com.phonephreak.pagescroll) - Page Auto-Scroll
+* [Auto Scroll](https://play.google.com/store/apps/details?id=com.moumen.autoPlay) - TikTok Auto Scroll
 * [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) or [TapTap](https://github.com/KieronQuinn/TapTap) - Android Back Gesture Controls
 * [Quick Cursor](https://play.google.com/store/apps/details?id=com.quickcursor) - Cursor for Large Smartphones
 * [Naptime](https://play.google.com/store/apps/details?id=com.franco.doze) - Accelerates Android Sleep Mode
@@ -322,7 +324,7 @@
 * [NGL](https://ngl.link/) - Instagram Secret Sharing App
 * [Google Lens](https://lens.google/) - Multiple Camera Tools
 * [FreeDcam](https://github.com/KillerInk/FreeDcam) - Enable Hidden Camera Features
-* [Photok](https://github.com/leonlatsch/Photok), [Stingle Photos](https://stingle.org/), [Ente](https://ente.io/) or [No See You](https://baixarapk.gratis/en/app/1186829987/photo-vault-noseeyou) - Photo / Video Galleries
+* [Photok](https://github.com/leonlatsch/Photok), [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/), [Stingle Photos](https://stingle.org/), [Ente](https://ente.io/) or [No See You](https://baixarapk.gratis/en/app/1186829987/photo-vault-noseeyou) - Photo / Video Galleries
 * [Widgetshare](https://play.google.com/store/apps/details?id=com.galew.widgetshare) - Photo Sharing App
 * [PhotoSync](https://www.photosync-app.com/home.html) - Transfer Photos Between Devices
 * [APhotoManager](https://github.com/k3b/APhotoManager/) - Create Photo Maps
@@ -380,6 +382,7 @@
 * [FakeWhats](https://www.fakewhats.com/) - Fake WhatsApp Messages
 * [WhatSticker](https://github.com/deven96/whatsticker) - Convert Images, Videos and GIFs to WhatsApp Stickers
 * [Watomatic](https://watomatic.app/) / [Git](https://github.com/adeekshith/watomatic) or [AutoResponder](https://play.google.com/store/apps/collection/cluster?clp=igM4ChkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDEhkKEzc4NTcyODA2NDMzMTQxNzI4NTQQCBgDGAA=:S:ANO1ljKlL8g&gsr=CjuKAzgKGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMSGQoTNzg1NzI4MDY0MzMxNDE3Mjg1NBAIGAMYAA==:S:ANO1ljLE-Ks) - Chat App Auto-Responders
+* [Open App Scheduler](https://play.google.com/store/apps/details?id=com.argonremote.openappscheduler) - Set Apps to Open Automatically
 * [LinkBox](https://linkbox.ronald.loyko.me/) - Bookmark Manager
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - Article / Link Viewer
 * [Better Open With](https://play.google.com/store/apps/details?id=com.aboutmycode.betteropenwith) - Improved Link Handling
@@ -411,7 +414,7 @@
 * [PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - Enable Features in Stock App Launcher
 * [QuickSwitch](https://github.com/skittles9823/QuickSwitch) - Enable Quickstep in Launchers 
 * [App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers) - Android App Launchers / Managers
-* [Uninstaller](https://play.google.com/store/apps/details?id=com.splendapps.shark) - App Uninstaller
+* [Uninstaller](https://play.google.com/store/apps/details?id=com.splendapps.shark) or [Bulk Uninstall](https://play.google.com/store/apps/details?id=com.bulk.uninstall) - App Uninstallers
 * [Blocker](https://github.com/lihenggui/blocker) - Component Controller
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Android Power Menu Replacement
 * [iFont](https://play.google.com/store/apps/details?id=com.kapp.ifont) - Android Font Installer
@@ -442,6 +445,7 @@
 * [Flutter Clock](https://github.com/afzalali15/flutter_alarm_clock) - Clock / Alarm
 * [QRAlarm](https://github.com/sweakpl/qralarm-android) - Scan QR Code to Turn Off Alarm
 * [Etar](https://github.com/Etar-Group/Etar-Calendar), [digical](https://digibites.nl/digical), [TimeBlocks](https://timeblocks.com/) or [TimeTreeApp](https://timetreeapp.com/intl/en/) - Calendars
+* [Calendar Notifications](https://play.google.com/store/apps/details?id=com.tuogol.calendar.notification) - View Calendar as Notifications
 * [ShiftCal](https://gitlab.com/Nulide/ShiftCal) - Shift Calendar
 * [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock) - Daily Planner
 * [SuntimesWidget](https://github.com/forrestguice/SuntimesWidget) - Sun / Moon Light Time App
@@ -449,7 +453,7 @@
 * [Listy](https://listy.is/) - Create Lists of Anything
 * [Sunny Side / TiseRise](https://www.tobianoapps.com/) - UV Index / Minimal Hourglass
 * [Libra](https://github.com/markusfisch/Libra) - Pros v Cons App
-* [unhabits](https://github.com/iSoron/uhabits) or [MiindLeak](https://www.mindleak.app/) - Bad Habit Tracker
+* [unhabits](https://github.com/iSoron/uhabits), [Goals](https://play.google.com/store/apps/details?id=io.rosenpin.goals) or [MiindLeak](https://www.mindleak.app/) - Bad Habit Trackers
 * [Forest](https://forestapp.cc/), [Time Cop](https://timecop.app/), [minimalist phone](https://www.minimalistphone.com/), [Success](https://eveningkid.com/success/) or [Mind Leak](https://play.google.com/store/apps/details?id=de.mdiener.android.mindleak) - Productivity Booster
 * [AnyTracker](https://sites.google.com/view/anytracker), [2](https://anytracker.org/) - Track Anything
 * [AllAboutBirds](https://merlin.allaboutbirds.org/) - Bird Identifier
@@ -607,7 +611,6 @@
 * [APKem](https://apkem.com/) - Modded
 * [APK Swing](https://apkswing.com/) - Modded
 * [APKLoo](https://apkloo.com/) - Modded
-* [ModsOfApk](https://modsofapk.com/) - Modded
 * [GetModsAPK](https://getmodsapk.com/) - Modded / [Telegram](https://t.me/GETMODSAPK_COM)
 * [APK Mod](https://apk-mod.net/) - Modded
 * [MobApks](https://mobapks.com/) - Modded
