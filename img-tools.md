@@ -333,7 +333,7 @@
 * [NovelAI](https://rentry.org/sdg_FAQ)
 * [InvokeAI](https://github.com/invoke-ai/InvokeAI)
 * [SD GUITard](https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4?usp=sharing)
-* [Voldy](https://rentry.org/voldy), [AyyMD](https://rentry.org/ayymd-stable-diffustion-v1_4-guide), [AMD Guide](https://rentry.org/sdamd), [Textard](https://rentry.org/textard), [Native Isekai Too](https://rentry.org/sd-nativeisekaitoo), [Quickstart](https://redd.it/xvhavo) or [CPUtard](https://rentry.org/cputard) - Stable Diffusion Guides
+* [Voldy](https://rentry.org/voldy), [Colab Install](https://youtu.be/l3JjTDvyVdw), [AyyMD](https://rentry.org/ayymd-stable-diffustion-v1_4-guide), [AMD Guide](https://rentry.org/sdamd), [Textard](https://rentry.org/textard), [Native Isekai Too](https://rentry.org/sd-nativeisekaitoo), [Quickstart](https://redd.it/xvhavo) or [CPUtard](https://rentry.org/cputard) - Stable Diffusion Guides
 
 ***
 
