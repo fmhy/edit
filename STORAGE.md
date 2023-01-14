@@ -344,7 +344,7 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 * ⭐ **[WolframAlpha Math](https://www.wolframalpha.com/examples/mathematics)**
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)**
 
-[RapidTables](https://www.rapidtables.com/),  [Calculator.net](https://www.calculator.net/sitemap.html), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [NumberEmpire](https://www.numberempire.com/), [Easy Calculation](https://www.easycalculation.com/), [Calculatorhut](https://www.calculatorhut.com/), [Calculation Calculators](https://calculationcalculator.com/), [calculator.net](https://www.calculator.net/), [JustFreeTools](https://www.justfreetools.com/en/all-calculators), [Calculat.io](https://calculat.io/), [Keisan](https://keisan.casio.com/), [Calculator.com](https://calculator.com/), [Calculator.net](https://calculator.net/), [Online Calculator](https://www.online-calculator.com/), [calculatort](https://calculatort.com/)
+[RapidTables](https://www.rapidtables.com/),  [Calculator.net](https://www.calculator.net/sitemap.html), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [NumberEmpire](https://www.numberempire.com/), [Easy Calculation](https://www.easycalculation.com/), [Calculatorhut](https://www.calculatorhut.com/), [Calculation Calculators](https://calculationcalculator.com/), [calculator.net](https://www.calculator.net/), [JustFreeTools](https://www.justfreetools.com/en/all-calculators), [Calculat.io](https://calculat.io/), [Keisan](https://keisan.casio.com/), [Calculator.com](https://calculator.com/), [Calculator.net](https://calculator.net/), [Online Calculator](https://www.online-calculator.com/), [calculatort](https://calculatort.com/), [Ultra Calculator](https://www.ultracalculator.net/), [Calculator Online](https://calculator-online.net/)
 
 ***
 
@@ -1901,7 +1901,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Portable Apps
 
-[Portapps](https://portapps.io/), [FC Portables](https://www.fcportables.com/), [Portable Freeware](https://www.portablefreeware.com/), [TheHouseOfPortable](https://thehouseofportable.com/), [Windows Portable Apps](https://windowsportableapps.blogspot.com/), [PortableApps](https://portableapps.com/), [Aurelitec](https://www.aurelitec.com/), [Portable4PC](https://portable4pc.com/), [PortableAppZ](https://portableappz.blogspot.com/)
+[Portapps](https://portapps.io/), [FC Portables](https://www.fcportables.com/), [Portable Freeware](https://www.portablefreeware.com/), [TheHouseOfPortable](https://thehouseofportable.com/), [Windows Portable Apps](https://windowsportableapps.blogspot.com/), [PortableApps](https://portableapps.com/), [Aurelitec](https://www.aurelitec.com/), [PortableAppZ](https://portableappz.blogspot.com/)
 
 ***
 
@@ -3097,7 +3097,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 **Online Editors**
 
-[Clideo](https://clideo.com/), [Kapwing](https://www.kapwing.com/), [InVideo](https://invideo.io/), [Biteable](https://biteable.com/), [Mastershot](https://mastershot.app/), [Panzoid](https://panzoid.com/), [KeepVid](https://keepvid.com/), [KeepChangeIt](https://keepchangeit.com/), [Flexclip](https://www.flexclip.com/), [veed.io](https://www.veed.io/tools/video-editor), [FastReel](https://www.fastreel.com/), [Convert2Video](https://convert2video.com/), [Video Cutter](https://video-cutter-js.com/), [FlexClip](https://www.flexclip.com/), [Vididoo](https://vididoo.vercel.app/), [VideoToolbox](http://www.videotoolbox.com/), [VideoCandy](https://videocandy.com/), [Animoto](https://animoto.com/), [Flixier](https://editor.flixier.com/), [LayerHub](https://editor.layerhub.io/)
+[Clideo](https://clideo.com/), [Kapwing](https://www.kapwing.com/), [InVideo](https://invideo.io/), [Biteable](https://biteable.com/), [Mastershot](https://mastershot.app/), [Panzoid](https://panzoid.com/), [KeepVid](https://keepvid.com/), [KeepChangeIt](https://keepchangeit.com/), [veed.io](https://www.veed.io/tools/video-editor), [FastReel](https://www.fastreel.com/), [Convert2Video](https://convert2video.com/), [Video Cutter](https://video-cutter-js.com/), [FlexClip](https://www.flexclip.com/), [Vididoo](https://vididoo.vercel.app/), [VideoToolbox](http://www.videotoolbox.com/), [VideoCandy](https://videocandy.com/), [Animoto](https://animoto.com/), [Flixier](https://editor.flixier.com/), [LayerHub](https://editor.layerhub.io/), [Deus](https://deus.video/editor/)
 
 ***
 
