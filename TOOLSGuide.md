@@ -385,7 +385,7 @@
 * [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/) - MKVExtract GUI 
 * [MKV-Optimizer](https://www.videohelp.com/software/MKV-Optimizer) - Remove Audio Tracks from MKV Files 
 * [MakeMKV](https://www.makemkv.com/) - Create MKV From Blu-Ray / DVD 
-* [ImgBurn](https://www.imgburn.com/), [DeepBurner](http://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
+* [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [DeepBurner](http://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
 * [VidCoder](https://vidcoder.net/) or [DVDDecrypter](http://dvddecrypter.org.uk/) - DVD / Blu-Ray Ripping
 * [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-Ray Ripping
 * [DVDFab](https://www.dvdfab.cn/free.htm) - Free DVD Related Programs 
