@@ -27,7 +27,7 @@
 * [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - Adblock Filters 
 * [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - Block Spam Calls
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls 
-* [Should I Call Back?](https://should-i-call-back.binary-person.dev/) or [Scammer.Info](https://scammer.info/) / [Discord](https://discord.com/invite/nUThJjK) - Scam Numbers Database
+* [Should I Call Back?](https://should-i-call-back.binary-person.dev/), [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) or [Scammer.Info](https://scammer.info/) / [Discord](https://discord.com/invite/nUThJjK) - Scam Numbers Database
 * [Slide](https://github.com/ccrama/Slide) / [2](https://f-droid.org/en/packages/me.ccrama.redditslide/), [Redditoria](https://play.google.com/store/apps/details?id=com.kirkbushman.redditoria), [RIF](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rif), [RedReader](https://github.com/QuantumBadger/RedReader), [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit) / [2](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/), [Redited](https://github.com/Blatzar/Redited), [Boost](https://boostforreddit.com/) or [Stealth](https://f-droid.org/packages/com.cosmos.unreddit/) / [2](https://gitlab.com/cosmosapps/stealth) - Ad Free Reddit Clients
 * [Xtra](https://github.com/crackededed/Xtra), [TwitchMod](https://t.me/pubTw) or [Twire](https://f-droid.org/packages/com.perflyst.twire/) - Ad Free Twitch App
 * [Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) - Remove Sponsored Telegram Messages
@@ -598,7 +598,6 @@
 * [APK Google](https://apkgoogle.org/) - Modded
 * [ytricks](https://www.ytricks.net/) - Modded
 * [APKModule](https://apkmodule.com/) - Modded
-* [CyberMania](https://www.cybermania.ws/) - Modded
 * [APKMaza](https://apkmaza.org/) - Modded
 * [LetsCrackOn](https://letscrackon.org/downloads/) - Modded
 * [APK Folks](https://apkfolks.com/) - Modded
