@@ -30,7 +30,6 @@
 * [Tixati](https://tixati.com/) - [Screenshot](https://i.imgur.com/joYQzTw.png) 
 * [Motrix](https://motrix.app/) - [Screenshot](https://i.imgur.com/Zrw6l8q.png) / [GitHub](https://github.com/agalwood/Motrix)
 * [Picotorrent](https://picotorrent.org/) - [Screenshot](https://i.imgur.com/46oF1iD.png)
-* [FrostWire](https://www.frostwire.com/) - [Screenshot](https://i.imgur.com/3wJSJmg.png)
 * [BiglyBT](https://www.biglybt.com/) - [Screenshot](https://i.imgur.com/Gopf4tZ.png) 
 * [NeoLoader](https://neoloader.com/) - [Screenshot](https://neoloader.com/neo/image1.jpg)
 * [LIII](https://codecpack.co/download/LIII-BitTorrent-Client.html) - [Screenshot](https://i.imgur.com/8zZHjKq.png)
