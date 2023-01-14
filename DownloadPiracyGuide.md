@@ -220,7 +220,6 @@
 * [3almalt9nia](https://3almalt9nia.com/)
 * [FreeSoftwareFiles](https://www.freesoftwarefiles.com/)
 * [AlbasitSoft](https://albasitsoft.com/)
-* [CrackHash](https://crackshash.com/) - Use Adblocker
 * irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ
 * [AIOsetup](https://t.me/aiosetup) - Telegram
 * [Libreware](https://t.me/Libreware) - Telegram
