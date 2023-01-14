@@ -150,7 +150,6 @@
 * [PrimeTechie Forum](https://primetechieforum.com/) - Courses
 * [CryptoTips](https://www.cryptotips.us/) - Courses 
 * [FCS](https://freecoursesites.com/) - Courses
-* [downloadly](https://downloadly.ir/) - Courses
 * [5G GYAN](https://www.5ggyan.com/) - Courses 
 * [GameOfCourses](https://gameofcourses.com/) - Courses
 * [WSODownloads](https://www.wsodownloads.in/) - Courses
@@ -410,6 +409,7 @@ Simulator
 * [ChemSpider](http://www.chemspider.com/) - Chemical Structures
 * [Merck Index](https://www.rsc.org/Merck-Index/) - Online Merck Index
 * [Organic Chemistry Data](https://organicchemistrydata.org/) - Organic Chemistry Data
+* [IGOC](https://www.chem.ucla.edu/~harding/IGOC/IGOC.html) - Illustrated Glossary of Organic Chemistry
 * [Colorado Chemistry Simulations](https://phet.colorado.edu/en/simulations/filter?subjects=chemistry&type=html%2Cprototype) - Chemistry Animations
 * [Chemical Forums](http://www.chemicalforums.com/) - Chemistry Forums
 * [Springer](http://www.springer.com), [Biomed Central](http://www.biomedcentral.com) - Scientific Publishers
