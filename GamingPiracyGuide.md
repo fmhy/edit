@@ -56,9 +56,6 @@
 * [SPiKY Repacks](https://discord.gg/ZHC6pffMz2)
 * [Game Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_game_drive)
 * [WorldOfPCGames](https://worldofpcgames.co/) - [Discord](https://discord.gg/fYmMD8Bg3p)
-* [AimHaven](https://www.aimhaven.com/) - Use Adblocker 
-* [AGFY](https://agfy.co/) - Use Adblocker / [Discord](https://discord.gg/WMtHAVEsY3)
-* [SteamUnlocked](https://steamunlocked.net/) - Use Adblocker / [IGG Warning](https://pastebin.com/s8dBLc4k) / [Poll Results](https://web.archive.org/web/20220329205507/https://www.reddit.com/poll/tp6695) / [Release Tracker](https://github.com/N-O-E-D/Steamunlocked)
 * [pc_game_down](https://t.me/pc_game_down) - Telegram
 * [g4u](https://g4u.to/) - Password: 404
 * [GoodOldDownloads Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_goodolddownloads_backup)
@@ -231,8 +228,8 @@
 * [PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
 * [GameBanana](https://gamebanana.com/mods/games/14783) - Pokémon Brilliant Diamond / Shining Pearl Mods
 * [Universal Pokemon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/) - Randomize Pokemon (works for GBA through 3DS)
-* [Dats.site](https://dats.site/) - ROM .DAT Files
-* [datcheck](https://github.com/pkos/datcheck) - Compare No-Intro / Redump .DAT Files to ROM or Disc Collection
+* [Dats.site](https://dats.site/) or [No Intro](https://no-intro.org/) - ROM .dat Files
+* [datcheck](https://github.com/pkos/datcheck) - Compare No-Intro / Redump .dat Files to ROM or Disc Collection
 * [Lunar IPS](https://www.romhacking.net/utilities/240/) - IPS Patching Utility
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
 * [WBFStoISO](http://www.wbfstoiso.com/) - WBFS to ISO Converter
