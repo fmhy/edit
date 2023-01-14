@@ -1658,3 +1658,9 @@ pass: paluch
 #### Android TV Spotify
 
 `aHR0cHM6Ly9mb3J1bS54ZGEtZGV2ZWxvcGVycy5jb20vdC9hcGstbW9kLXNwb3RpZnktYW5kcm9pZC10di1hZC1mcmVlLjM5NDg2NTYv`
+
+***
+
+#### Marketing Courses
+
+`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci82SnBUVUtZUSNEMmM1dDF1QnZ5aGVkM2loZnI2amlR`
