@@ -183,7 +183,6 @@
 * [2embed](https://www.2embed.to/) - Movies / TV / Anime / API
 * [DBGO](https://dbgo.fun/) - Movies / TV / Anime / [Content List](https://dbgo.fun/list.php) / API
 * [123movies](https://api.123movie.cc/) - Movies / TV / Anime / API
-* [SuperEmbed](https://www.superembed.stream/) - Movies / TV / Anime / [Search](https://pastebin.com/ExB4ksvT) / API
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [VidSrc](https://vidsrc.me/) - Movies / TV / Anime / API
 * [Kodi](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kodi) - Streaming App
