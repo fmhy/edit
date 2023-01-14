@@ -37,7 +37,6 @@
 * [KaOsKrew](https://www.kaoskrew.org/)
 * [Crohasit](https://crohasit.net/)
 * [Pirated-Games](https://pirated-games.com/) - [Discord](https://discord.com/invite/MsgRj3SUrE)
-* [Game3rb](https://game3rb.com/)
 * [GetGamez](https://getgamez.net/) - [Discord](https://discord.com/invite/tNhPmCU)
 * [Le Fishe Repacks](https://discord.gg/W3MfGDXhAS)
 * [ElAmigos](https://elamigos.site/)
