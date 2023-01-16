@@ -33,6 +33,7 @@
 * [Nexus-Games](https://nexus-games.net/) - [Discord](https://discord.gg/8YXGgy4DJj)
 * [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - [Discord](https://discord.gg/HP5sQ6c) / [Archive](https://cloud.gookie.dev/index.php/s/wQmrb9Y23WdzXzZ)
 * [Crohasit](https://crohasit.net/)
+* [Steam Repacks](https://steam-repacks.com/) - [Discord](https://discord.gg/PaZ64RKJaP)
 * [WorldOfPCGames](https://worldofpcgames.co/) - [Discord](https://discord.gg/fYmMD8Bg3p)
 * [Game3rb](https://game3rb.com/) 
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.me/) - [Discord](https://discord.gg/693hNBdymb)
