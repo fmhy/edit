@@ -155,6 +155,7 @@
 * [Zathura](https://git.pwmt.org/pwmt) - Document Viewer
 * [Winfield](http://www.winfield.demon.nl/) - MS Word for Linux / OS X
 * [TextPieces](https://github.com/liferooter/textpieces) - Quick Text Transformations
+* [emoj](https://www.npmjs.com/package/emoj), [Rofimoji](https://github.com/fdw/rofimoji), [EmojiCherryPick](https://github.com/thingsiplay/emojicherrypick), [Shmoji](https://github.com/biox/shmoji) or [emoji-cli](https://github.com/b4b4r07/emoji-cli) - Emoji CLI's
 * [Got](https://github.com/fedeztk/got) or [tl](https://github.com/rilysh/tl) - Translators
 * [DidYouMean](https://github.com/hisbaan/didyoumean) - Grammar Check
 * [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
