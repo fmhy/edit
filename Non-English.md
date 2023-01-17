@@ -588,7 +588,7 @@
 
 * [9xMovies](https://9xmovies.yoga/), [2](https://9xmovies.horse/) - Movies / TV 
 * [OlaMovies](https://olamovies.lol/) - Movies / TV / [Telegram](https://t.me/olamovies_official_v2) 
-* [MoviesMod](https://moviesmod.in/) - Movies / TV / [Telegram](https://t.me/moviesflixverse) 
+* [MoviesMod](https://moviesmod.net/) - Movies / TV / [Telegram](https://t.me/moviesflixverse) 
 * [MKV Mad](https://mkvmad.run/) - Movies / TV
 * [WorldFree4U](https://worldfree4u.wbog.net/) - Movies / TV
 * [atishmkv](https://atishmkv.cyou/) - Movies / TV
