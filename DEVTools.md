@@ -989,7 +989,7 @@ Automated Incident Response and Forensics Framework
 ## ▷ CLI Tools
 
 * [HTTPie](https://httpie.io/) - Command-Line HTTP Client 
-* [cURL](https://github.com/curl/curl) - Transfer Data with URLs 
+* [cURL](https://github.com/curl/curl) - Transfer Data with URLs / [Converter](https://curlconverter.com/)
 * [WNIX](https://gitlab.com/gokhanettin/wnix) - UNIX-like Windows Development Environment
 * [Sift](https://sift-tool.org/) - grep Alternative
 * [Edbrowse](http://edbrowse.org/) - Command Line Editor / Browser / Mail Client
