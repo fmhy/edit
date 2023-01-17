@@ -230,7 +230,7 @@
 
 ## ▷ Download Apps
 
-* ⭐ **[Music Ripping Guide](https://ori5000.github.io/musicripping.html)**
+* ⭐ **[Music Ripping Guide](https://ori5000.github.io/musicripping.html)** / [2](https://rentry.org/florinsmusicrippingguide)
 * ⭐ **[Slavart](https://slavart.divolt.xyz)** - Deezer, Spotify, Apple Music, YouTube, Qobuz, TIDAL & SoundCloud Download Bot / [Site](https://slavart.gamesdrive.net/), [2](https://gamesdrive.net/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * ⭐ **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Download from Spotify
 * ⭐ **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download from YouTube
@@ -478,9 +478,10 @@
 * [generasia](https://www.generasia.com/) - Asian Music Wiki
 * [dbkpop](https://dbkpop.com/) - K-Pop Database
 * [Stage48](http://stage48.net/wiki/index.php) - Stage48 Idol Group Database
-* [Music.ishkur](http://music.ishkur.com/) - Electronic Music Guide 
+* [Music.ishkur](http://music.ishkur.com/) - Electronic Music Guide
 * [Every Noise at Once](http://everynoise.com/) - Music Genre Samples
 * [This Is What You Listen To](https://tiwylt.musimap.io/) - Song Genre / Info Analyzer
+* [Identifying Music Genres]https://chunisama.github.io/Identifying-Music-Genres/) - Compare Music Genres
 * [SpotiFictional](https://spotifictional.com/) - Music from Fictional Artists
 * [Loudness War](https://dr.loudness-war.info/) - Albums Dynamic Range Database
 * [rate.house](https://rate.house/) - Media Tracker
