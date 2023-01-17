@@ -855,7 +855,7 @@
 * [Email Valid](https://ivit.pro/services/email-valid/) or [Ychecker](https://ychecker.com/) - Check Email Validity & Usage
 * [Useplaintext](https://useplaintext.email/) - How-To Use plaintext Email 
 * [Briskine](https://www.briskine.com/) - Email Templates
-* [Signature Maker](https://signature-maker.net/) - Email Signature Creator
+* [Signature Maker](https://signature-maker.net/) or [SignatureHound](https://signaturehound.com/) - Email Signature Creators
 * [InternetBumperStickers](https://www.internetbumperstickers.com/) - Images for Signatures
 * [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers 
 * [Yandex Account Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - Create Infinite Yandex Accounts
@@ -1600,6 +1600,7 @@ Twitch Stream Tracker
 * [Twitter Matrix](https://konard.github.io/twittermatrix/messages.html) - Live Tweet Matrix Animation
 * [All My Tweets](https://www.allmytweets.net/connect/) - View All Tweets
 * [BirdFeeder](https://getbirdfeeder.com/) - Twitter Bookmark Manager
+* [Twitter Bookmark Archiver](https://github.com/nornagon/twitter-bookmark-archiver) - Download Twitter Bookmarks
 * [TwikTwok](https://twiktwok.github.io/) - Swipe Through Twitter Videos
 * [Klear](https://klear.com/free-tools/find-twitter-influencers) - Find Influencers 
 * [Twiangulate](http://twiangulate.com/search/) - Compare Twitter User Followers 
@@ -1613,6 +1614,7 @@ Twitch Stream Tracker
 * [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - Download Twitter Videos 
 * [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/) or [SocialBearing](https://socialbearing.com/) - Analyze Twitter Accounts
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
+* [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) - View / Archive Tweets
 * [RedBlock](https://github.com/gaeulbyul/RedBlock) - Block Multiple Users on Twitter
 * [TweeterID](https://tweeterid.com/) - Twitter User ID & Username Converter 
 * [Spoonbill](https://spoonbill.io/) - Track Profile Changes of People you Follow 
@@ -1632,7 +1634,7 @@ Twitch Stream Tracker
 * [MegaBlock](https://megablock.xyz/) - Easily Block Twitter Users & Tweets
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites 
 * [Unfavinator](http://unfavinator.com/) - Delete Twitter Favorites
-* [TweetDelete](https://tweetdelete.net/) or [TweetEraser](https://www.tweeteraser.com/) - Delete Twitter Posts in Bulk 
+* [TweetDelete](https://tweetdelete.net/), [Twitter Cleaner](https://github.com/caarlos0/twitter-cleaner) or [TweetEraser](https://www.tweeteraser.com/) - Delete Twitter Posts in Bulk
 * [Tokimeki Unfollow](https://tokimeki-unfollow.glitch.me/), [Who.Unfollowed](https://who.unfollowed.me/) or [Unfollow All](https://chrome.google.com/webstore/detail/twitter-unfollow-all/mgehkbclkipppdjiemnhmnledicalkld) - Twitter Unfollower
 * [Unfollow Monkey](https://unfollow-monkey.com/) - Unfollower Notifications
 * [Fix Twitter Links](https://openuserjs.org/scripts/lucio-martinez/Fix_Twitter_links) - Unshorten Twitter Feed URLs 
@@ -2203,7 +2205,7 @@ Twitch Stream Tracker
 * [GDrive Guides](https://t.me/gdriveguides) - GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)
 * [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - DDL to GDrive Tool
 * [DriveUploader](https://driveuploader.com/) - Receive Files via GDrive
-* [GDriveCLI](https://github.com/prasmussen/gdrive) - GDrive CLI
+* [GDriveCLI](https://github.com/prasmussen/gdrive) or [ODrive](https://liberodark.github.io/ODrive/) - GDrive CLI
 * [gogdl-ng](https://github.com/gogdl-ng/gogdl-ng) - Google Drive Bulk Downloader
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
 * [Recursive GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) or [GoIndex-Downloader](https://github.com/piyush2947/) - GoIndex to GDrive Downloader
@@ -2243,6 +2245,7 @@ Twitch Stream Tracker
 * [AutoRclone](https://github.com/Rekulous/AutoRClone-Colab), [2](https://colab.research.google.com/github/Rekulous/AutoRClone-Colab/blob/main/AutoRClone.ipynb) - Create Google Service Accounts for RClone / [GitHub](https://github.com/xyou365/AutoRclone)
 * [RcloneBrowser-Portable](https://github.com/MinorMole/RcloneBrowser-Portable) - Portable Rclone Browser
 * [EasyClone](https://github.com/xd003/easyclone) - Improved RClone Operations Script
+* [WinFsp](https://winfsp.dev/) - Windows File System Proxy
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - HTTP File System
 * [mergerfs](https://github.com/trapexit/mergerfs) - Union Filesystem
 * [FolderClone](http://www.folderclone.com/) - Clone / Backup Folders
