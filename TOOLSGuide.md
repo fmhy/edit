@@ -2219,7 +2219,6 @@ Twitch Stream Tracker
 * [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive 
 * [CloneBot](https://github.com/MsGsuite/CloneBot_Heroku) - Copy GDrive to TeamDrive
 * [Copy Google Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_copy_google_drives) - Make GDrive Copies 
-* [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive 
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
 * [goodls](https://github.com/tanaikech/goodls) - Google Drive Downloader
 * [GDirect](https://www.gdirect.link/), [gdurl](https://gdurl.com/), [GDrive DDL](https://gdl.viperadnan.ga), [publiclinks](https://publiclinks.hashhackers.com/) or [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - Direct GDrive Link Generators
