@@ -1057,7 +1057,7 @@
 * ⭐ **[TVNamer](https://github.com/dbr/tvnamer)** - Automatic TV Episode File Renamer
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad Free Player w/ subs, Speed Control & More
 * ⭐ **[WhereYouWatch](https://whereyouwatch.com/latest-reports/)**, [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates), [Torrent Alert](https://play.google.com/store/apps/details?id=com.torrentalert.app&hl=en&gl=US) or [/r/movieleaks](https://reddit.com/r/movieleaks) - Movie Leak Notifications
-* ⭐ **[Video Quality & Types of Releases](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)** - Video Quality / Release Type Guide / [Image Guide](https://i.imgur.com/kEOrKJT.png)
+* ⭐ **[Quality / Release Type Guide](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)** - Video Quality / Release Type Guide / [Image Guide](https://i.imgur.com/kEOrKJT.png) / [Streaming Site Guide](https://redd.it/yykvnv)
 * ⭐ **[Release Group List](https://github.com/Cloudbox/Community/wiki/Quality-Release-Groups)** - Movie / TV Release Group Index
 * ⭐ **[/r/animepiracy Wiki](https://wiki.piracy.moe/)** - Anime Piracy Guides / Tutorials
 * [Media Stack DIY](http://tennojim.xyz/article/media_stack_diy) - High Quality Streaming Guide
