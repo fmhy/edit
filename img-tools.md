@@ -250,6 +250,7 @@
 
 ## ▷ Painting / Drawing
 
+* ⭐ **[PuccaNoodles’ Resource Sheet](https://docs.google.com/spreadsheets/d/1-8OKuEvRR038Uno--Vi9tQRe4eFCSfQTPov7nXgiJ3w/)** - Painting / Drawing Resources
 * [SmoothDraw](http://www.smoothdraw.com/), [Sumopaint](https://www.sumopaint.com/), [Krita](https://krita.org/en/) / [Stable Diffusion](https://github.com/sddebz/stable-diffusion-krita-plugin), [MyPaint](http://mypaint.org/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [Tux Paint](https://tuxpaint.org/), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/), [Paintroid](https://github.com/Catrobat/Paintroid), [ProsePainter](https://www.prosepainter.com/), [SpeedPaint](https://www.speedpaint.info/), [YouiDraw](https://site.youidraw.com/) or [MediBang](https://medibangpaint.com/en/) - Painting
 * [bomomo](https://bomomo.com/) - Multi-Brush Painting
 * [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art
