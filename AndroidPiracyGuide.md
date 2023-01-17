@@ -291,7 +291,7 @@
 * [FakeStandby](https://fakestandby.jonasbernard.de/) - Turn Off Screen While App is Running
 * [WaveUp](https://gitlab.com/juanitobananas/wave-up) - Turn On Display via Waving
 * [Shelter](https://cgit.typeblog.net/Shelter/) or [Insular](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps
-* [Warp Plus Cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Unlimited Warp+ GB
+* [Warp Plus Cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) or [warp-plus](https://github.com/navaneethkm004/warp-plus) - Unlimited Warp+ GB / [Guide](https://redd.it/zalgyb)
 * [MacroDroid](http://macrodroid.com/) or [AutomateIt](https://www.automateitapp.com/) - Android Automation
 * [DoForMe](https://play.google.com/store/apps/details?id=com.aj.dfm) - Location Based Automation
 * [Page Scroll](https://play.google.com/store/apps/details?id=com.phonephreak.pagescroll) - Page Auto-Scroll
@@ -922,6 +922,7 @@
 * [RSS Player](https://play.google.com/store/apps/details?id=pis.android.rss.rssplayer&amp;hl=en_US) - KDrama / [Feed](http://allrss.se/dramas), [2](http://myrss.nu/drama)
 * [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [YetAnotherVideoPlayer](https://github.com/shadow578/YetAnotherVideoPlayer), [Nova Video Player](https://github.com/nova-video-player), [Just Player](https://github.com/moneytoo/Player), [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata), [ExoPlayer](https://github.com/google/ExoPlayer) or [MX Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mx_player) / [Codec](https://github.com/USBhost/MX_FFmpeg) - Video Player
 * [Drive Stream](https://github.com/itsZECHS/DriveStream) or [Thunder](https://github.com/anujd64/Thunder/) - GDrive Video Player
+* [DMS](https://github.com/anacrolix/dms), [Macast](https://github.com/xfangfang/Macast) or [Cinema Box](https://www.cinema-box.co.uk/) - Media Servers / Chromecast
 * [SyncPlayer](https://f-droid.org/en/packages/io.github.powerinside.syncplay/) - Video Sync App
 * [LibreTube](https://github.com/libre-tube/libretube) or [Hyperion](https://github.com/zt64/Hyperion) - Youtube Frontend
 * [Float Tube](https://play.google.com/store/apps/details?id=com.xpp.tubeAssistant) - Floating YouTube Player
@@ -1183,6 +1184,7 @@
 * [PictureThis](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129) - Plant Identifier
 * [Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id375589283) or [Aftership](https://apps.apple.com/kg/app/aftership-package-tracker/id507014023) - Delivery Tracker
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - Connect Mac Keyboard to Mobile Devices
+* [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream Media from Phone to Smart TV
 * [Zank Remote](https://apps.apple.com/kr/app/zank-remote-for-android-tv-box/id1567602430?1=en) - Control Android TV Box with iPhone
 * [Swappa](https://swappa.com/imei) or [SickW](https://www.sickw.com/) - IMEI, MEID, ESN Checker
 * [FutureStore](https://github.com/tihmstar/futurerestore) - SEC & Baseband Restoring Wrapper
