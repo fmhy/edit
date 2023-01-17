@@ -201,7 +201,7 @@
 * [Top Linux Interview Questions & Answers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_top_linux_interview_q.26amp.3Ba.27s) - Linux Interview Q&A
 * [Photoshop Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photoshop_courses) - Photoshop Course Drive
 * [Coursera-dl](https://github.com/coursera-dl/coursera-dl) - Download videos from Coursera 
-* [Skillshare DL Guide](https://i.imgur.com/AIENK0K.png) - Download videos from Skillshare
+* [Skillshare DL Guide](https://i.imgur.com/AIENK0K.png) or [HeckerNoHecking](https://skillshare.heckernohecking.repl.co/) - Skillshare Video Downloaders
 * [skillsharefree](https://t.me/skillsharefree) - Skillshare Courses / Telegram 
 * [avdshare](https://www.avdshare.com/udemy-downloader) - Download videos from Udemy
 * [Udemy Paid Courses Grabber](https://github.com/AmmeySaini/Udemy-Paid-Courses-Grabber) - Udemy Course Grabber
