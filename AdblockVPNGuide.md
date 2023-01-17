@@ -398,7 +398,7 @@
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Reddit / Twitter Auto Post Delete
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites 
 * [Unfavinator](http://unfavinator.com/) - Delete Twitter Favorites
-* [TweetDelete](https://tweetdelete.net/) or [TweetEraser](https://www.tweeteraser.com/) - Delete Twitter Posts in Bulk 
+* [TweetDelete](https://tweetdelete.net/), [Twitter Cleaner](https://github.com/caarlos0/twitter-cleaner) or [TweetEraser](https://www.tweeteraser.com/) - Delete Twitter Posts in Bulk
 * [GeoSocial Footprint](http://geosocialfootprint.com/) or [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint 
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [Mine](https://saymineapp.com/) - View / Manage Digital Footprint
