@@ -544,9 +544,10 @@
 * [AmazingMIDI](http://www.pluto.dti.ne.jp/araki/amazingmidi/) - Transcribe WAV to MIDI / [Archive](https://archive.org/details/tucows_327319_AmazingMIDI)
 * [Orca](https://hundredrabbits.itch.io/orca) or [Slang](http://slang.kylestetz.com/) - Create Audio with Code
 * [madeon](https://adventuremachine.4thfloorcreative.co.uk/) - Create Music with Madeon Samples
-* [danielx](https://danielx.net/composer/) - Mario Paint Audio Editor
+* [danielx](https://danielx.net/composer/), [Super Mario Paint](https://github.com/DC37/Super-Mario-Paint) or [AMS](https://flyx.org/ams/) - Mario Paint Audio Composers / [Archive](https://archive.org/details/mariopaintcomposer_201609)
+* [Fortress Paint Composer](https://gamejolt.com/games/FPC/377035) - Team Fortress Audio Composer
 * [Thirty Dollar Website](https://thirtydollar.website/) - Meme Sound Audio Editor / [Examples](https://youtu.be/8SZZPxERK_8)
-* [FamiTracker](http://www.famitracker.com/) or [Famistudio](https://bleubleu.itch.io/famistudio) - NES / Famicon Audio Editor
+* [FamiTracker](http://www.famitracker.com/) or [Famistudio](https://bleubleu.itch.io/famistudio) - NES / Famicon Audio Composers
 * [LittleSoundDJ](https://www.littlesounddj.com/lsd/index.php) - Gameboy Audio Editor
 * [Open Note Block Studio](https://opennbs.org/) - Minecraft Note Block Song Editor
 * [Acid Machine 2](http://errozero.co.uk/acid-machine/) - Acid Techno Machine
@@ -1785,12 +1786,11 @@ Twitch Stream Tracker
 * [AATU](https://amdaputuningutility.com/) or [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Ryzen Laptop GPU Controllers
 * [NBFC](https://github.com/hirschmann/nbfc) - Laptop Fan Control
 * [FanControl](https://github.com/Rem0o/FanControl.Releases) - Fan Control
-* [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - Manage & Control NVIDIA Cards
-* [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify & View Hidden NVIDIA Settings / [Guide](https://youtu.be/XncmeD8khKY)
-* [NVIDIA Control Panel](https://rentry.co/gaydia) - NVIDIA Control Panel Without MS Store
-* [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) or [NVSlimmer](https://majorgeeks.com/files/details/nvslimmer.html) - Customize NVIDIA Driver Packages
-* [Nvidia-Patch](https://github.com/keylase/nvidia-patch) - NVENC & NvFBC Patches
+* [NVCleanInstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) or [NVSlimmer](https://majorgeeks.com/files/details/nvslimmer.html) - NVIDIA Driver Packages / [Install Guide](https://rentry.co/NVCleanInstall)
 * [NVIDIAOptimize](https://rentry.co/NVIDIAOptimize) - Debloat NVIDIA Drivers
+* [GreenWithEnvy](https://gitlab.com/leinardi/gwe) or [NVIDIA Control Panel](https://rentry.co/gaydia) - Manage / Control NVIDIA Cards
+* [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify / View Hidden NVIDIA Settings / [Guide](https://youtu.be/XncmeD8khKY)
+* [Nvidia-Patch](https://github.com/keylase/nvidia-patch) - NVENC & NvFBC Patches
 * [Amernime Zone](https://amernimezone.com/) - 3rd Party AMD Drivers
 * [AMDDebloat](https://rentry.co/AMDDebloat) or [RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Debloat AMD GPU Drivers
 * [Parted Magic](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_parted_magic) - Disk Management Tool
@@ -2220,6 +2220,7 @@ Twitch Stream Tracker
 * [CloneBot](https://github.com/MsGsuite/CloneBot_Heroku) - Copy GDrive to TeamDrive
 * [Copy Google Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_copy_google_drives) - Make GDrive Copies 
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
+* [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive 
 * [goodls](https://github.com/tanaikech/goodls) - Google Drive Downloader
 * [GDirect](https://www.gdirect.link/), [gdurl](https://gdurl.com/), [GDrive DDL](https://gdl.viperadnan.ga), [publiclinks](https://publiclinks.hashhackers.com/) or [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - Direct GDrive Link Generators
 * [Folder.GDrive](https://folder.gdrive.vip/) - GDrive Folder Link Generator
