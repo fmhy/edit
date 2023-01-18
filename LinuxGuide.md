@@ -256,6 +256,7 @@
 * [dust](https://github.com/bootandy/dust) - Intuitive Version of du
 * [Timeshift](https://github.com/teejee2008/timeshift) - Create System Snapshots / Restore Points
 * [AppImageHub](https://appimage.github.io/) or [get-appimate](https://g.srev.in/get-appimage/) - Download AppImages / [CLI](https://zap.srev.in/)
+* [Repology](https://repology.org/) - Package Repository Tracker
 * [Homebrew](https://brew.sh/) or [NixOS](https://nixos.org/) / [Manager](https://github.com/nix-community/home-manager) - Package Manager
 * [Basher](https://www.basher.it/) - Bash Script Package Manager
 * [yay](https://github.com/Jguer/yay) - AUR Helper / Package Manager
@@ -323,6 +324,7 @@
 * [ArchLinux](https://wiki.archlinux.org/title/List_of_applications)
 * [App Outlet](https://app-outlet.github.io/)
 * [SnapCraft](https://snapcraft.io/store)
+* [Linux Apps](https://www.linux-apps.com/)
 * [tlanyan](https://tlanyan.me/)
 * [yay](https://github.com/Jguer/yay), [paru](https://github.com/morganamilo/paru) or [aura](https://github.com/aurapm/aura) - Arch User Repository Helpers
 * [KDE's Applications](https://apps.kde.org/education)
@@ -408,7 +410,7 @@
 * [Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) - Spotify Mini Player
 * [Subsonic](https://github.com/twostraws/Subsonic) - SwiftUI Audio Player
 * [LimaVM](https://github.com/lima-vm/lima) - Linux VM on MacOS
-* [Parallels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_parallels) or [CrossOver](https://www.codeweavers.com/crossover) - Run Windows Programs on Mac
+* [Parallels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_parallels), [PortingKit](https://www.portingkit.com/), [PlayOnMac](https://www.playonmac.com/en/) or [CrossOver](https://www.codeweavers.com/crossover) - Run Windows Games / Programs on Mac
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/) / [Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 * [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/) - Install New macOS on Unsupported Devices
 * [Conky](https://github.com/brndnmtthws/conky) / [Colors](https://github.com/helmuthdu/conky_colors) or [MacFetch](https://github.com/gantoreno/macfetch) - System Info / Resource Monitor
