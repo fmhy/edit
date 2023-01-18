@@ -45,7 +45,7 @@
 
 ## ▷ DNS Adblocking
 
-* ⭐ **[DNS Providers](https://kb.adguard.com/en/general/dns-providers)** - DNS Provider Index
+* ⭐ **[DNS Providers](https://adguard-dns.io/kb/general/dns-providers/)** - DNS Provider Index
 * ⭐ **[DNS Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dns_filters)** - DNS Host File Blocking
 * ⭐ **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - DNS Adblocking / Self-Hosted / [Setup](https://github.com/klutchell/balena-adguard) / [Family Filter](https://ammnt.app/) / [Filters](https://github.com/hl2guide/AdGuard-Home-Whitelist)
 * ⭐ **[ahadns](https://ahadns.com/)** - DNS Adblocking
