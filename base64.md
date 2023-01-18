@@ -1097,7 +1097,7 @@ pass: paluch
 
 #### Spotilife
 
-`aHR0cHM6Ly9yZW50cnkuY28vU3BvdGlsaWZlR3VpZGUK`
+`aHR0cHM6Ly9yZW50cnkuY28vU3BvdGlsaWZlR3VpZGUKaHR0cHM6Ly9naXRodWIuY29tL1Nwb3RDb21waWxlZC9TcG90aWxpZmVD`
 
 ***
 
