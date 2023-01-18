@@ -519,6 +519,7 @@
 * [JokerLiveStream](https://www.jokerlivestream.life/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
 * [720pStream](http://720pstream.tv/) - Sports
+* [FreeStreams](http://freestreams-live1.tv/) - Sports
 * [CrackStreams](https://crackstreams.io/), [2](https://crackstreams.me/) - Sports
 * [ATDHE](http://atdhe.pro/) - Sports
 * [Stream on Sport](https://www.streamonfoot.xyz/), [2](https://www.streamonsport77.buzz/) - Sports / [Telegram](https://t.me/s/streamonsport)
