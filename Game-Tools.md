@@ -17,6 +17,10 @@
 * ⭐ **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)**, [Game Debate](https://game-debate.com/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Test
 * ⭐ **[Game Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_guides)** or [Kirklands Manual Labor](https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version) - Strategy Guides / Walkthroughs
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
+* [Koalageddon](https://github.com/acidicoala/Koalageddon/) - DLC Unlocker for Steam, Epic, Origin, EA & Uplay
+* [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin & EA
+* [DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?t=104412) - DLC Unlocker for EA & Origin
+* [DLC Unlocker Payday2](https://github.com/8fn/DLC-Unlocker-PD2) - DLC Unlocker for Payday 2
 * [TCNO](https://github.com/TcNobo/TcNo-Acc-Switcher) - Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)
 * [humble-cli](https://github.com/smbl64/humble-cli) - Humble Bundle CLI
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?usp=sharing), [MoreFPS](https://morefps.net/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
@@ -52,10 +56,6 @@
 * [Save Game World](http://www.savegameworld.com/), [savegamedownload](https://www.savegamedownload.com/), [yoursavegames](https://www.yoursavegames.com/), [savesforgames](https://savesforgames.com/), [savegamefiles](https://www.savegamefiles.com/), [savegame-download](https://savegame-download.com/) or [savegame](https://savegame.pro/) - PC Game Save Downloads
 * [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
 * [CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - Cyberpunk 2077 Save Editor
-* [Koalageddon](https://github.com/acidicoala/Koalageddon/) - DLC Unlocker for Steam, Epic, Origin, EA & Uplay
-* [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin & EA
-* [DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?t=104412) - DLC Unlocker for EA & Origin
-* [DLC Unlocker Payday2](https://github.com/8fn/DLC-Unlocker-PD2) - DLC Unlocker for Payday 2
 * [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - Controller Connectivity Testers
 * [Momentum](https://momentum-mod.org/) - Movement Training
 * [Aim Lab](https://aimlab.gg/), [AimBooster](http://www.aimbooster.com/), [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://www.3daimtrainer.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training Tools & Games
@@ -84,6 +84,7 @@
 * [The Textures Resource](https://www.textures-resource.com/) - Game Textures
 * [The Sounds Resource](https://www.sounds-resource.com/) - Game Sounds
 * [The Halo Archive](https://discord.gg/feB7RgAHBh) or [405th](https://www.405th.com/) - Halo Assets Archive
+* [Mario Mayhem](https://www.mariomayhem.com/) - Mario Fansite
 * [The Spriters Resource](https://www.spriters-resource.com/) - Video Game Sprites
 * [MiiCharacters](http://www.miicharacters.com/) - Famous Mii Creation Guides
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic The Gathering Card Scans
@@ -255,6 +256,9 @@
 
 * ⭐ **[Andy's Steam Crack Guide](https://rentry.org/steamcrackguidebyanddy)** / [2](https://redd.it/pmim9t) - How-to Add Cracked Games to Steam / [Client](https://mega.nz/file/mpdAXKTZ#3CVjRZG1i8K_Zn8b9IIARbIZZE73KdzazVHMDcaWZJc)
 * ⭐ **[A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)** or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tools Index
+* [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Steam DLC Unlocker / [Auto Setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521) / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
+* [Koalageddon](https://github.com/acidicoala/Koalageddon/) - DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay
+* [Get DLC from SteamDB](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837)
 * [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Steam Library Organizer
 * [SteamDB](https://steamdb.info/) - Steam Insights Tool
 * [GetDLCInfoFromSteamDB](https://github.com/Sak32009/GetDLCInfoFromSteamDB) - Find SteamDB DLC Data
@@ -269,9 +273,6 @@
 * [Steamless](https://github.com/atom0s/Steamless) - DRM Remover
 * [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8 )
 * [Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack) - Auto Apply Goldberg & Steamless
-* [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Steam DLC Unlocker / [Auto Setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521) / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
-* [Koalageddon](https://github.com/acidicoala/Koalageddon/) - DLC Unlocker for Steam, Epic, Origin, EA Desktop & Uplay
-* [Get DLC from SteamDB](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837)
 * [Steamworkshop.download](http://steamworkshop.download/), [steam-workshop-downloader.com](https://steam-workshop-downloader.com/), [steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader), [ggntw](https://ggntw.com/steam), [Workshop Downloader](https://4hub.info/workshop-downloader/), [WorkshopDL](https://github.com/VovoloGames/WorkshopDL) / [Discord](https://discord.com/invite/75cavYcnvv), [NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) / [Disocrd](https://discord.com/invite/bs9TMxMJk9), [ggntw](https://ggntw.com/steam) or [steam-workshop-downloader](https://gramvio.com/steam-workshop-downloader/) - Steam Workshop File Downloaders / [Script](https://greasyfork.org/en/scripts/449046)
 * [DepotDownloader](https://github.com/SteamRE/DepotDownloader) or [SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) - Steam Depot Downloaders
 * [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop Implementation of Steam's Mobile Authenticator 
@@ -452,6 +453,7 @@
 * [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
 * [RiiConnect24](https://rc24.xyz/) - WiiConnect24 Replacement
 * [3DS Hacks Guide](https://3ds.hacks.guide/) - 3DS Modding Guide
+* [Universal DB](https://db.universal-team.net/) - 3DS / DS Homebrew Apps
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - NES, SNES & Playstation Mods
 * [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Guides
 * [TheLeecherMan](https://sites.google.com/site/theleecherman/) - Playstation Modding Tools
