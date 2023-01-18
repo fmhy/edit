@@ -1240,10 +1240,11 @@ Automated Incident Response and Forensics Framework
 * [TextNow API](https://github.com/leogomezz4t/PyTextNow_API) - Python Texting API 
 * [Perspective API](https://www.perspectiveapi.com/) - Toxicity Reduction API
 * [Plaid](https://plaid.com/) - Financial Account API / [GitHub](https://github.com/plaid)
-* [MxPlayer-RestApi](https://github.com/KapilYadav-dev/MxPlayer-RestApi) - MxPlayer API 
+* [MxPlayer-RestApi](https://github.com/KapilYadav-dev/MxPlayer-RestApi) - MxPlayer API
+* [PDF Bot](https://github.com/esbenp/pdf-bot) -  A Node queue API for generating PDFs
 * [aftership](https://www.aftership.com/) - Shipment Tracking API
 * [ipinfo.io](https://ipinfo.io/) - IP Data API
-* [TheCatAPI]('https://thecatapi.com/) - Cat Rating API
+* [TheCatAPI](https://thecatapi.com/) - Cat Rating API
 * [SWAPI](https://pipedream.com/apps/swapi) - Star Wars APIs
 
 ***
