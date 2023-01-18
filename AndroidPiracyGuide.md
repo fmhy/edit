@@ -52,7 +52,8 @@
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - App Isolation
 * [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - Encrypted File Explorer
 * [Wasted](https://github.com/x13a/Wasted) - Emergency Data Wipe
-* [UntrackMe](https://fedilab.app/wiki/untrackme/) - Frontend Redirect / Link Unshorten / URL Cleanup
+* [UntrackMe](https://fedilab.app/wiki/untrackme/)  - Frontend Redirect / Unshorten Links / Cleanup URLs 
+* [Leon](https://f-droid.org/packages/com.svenjacobs.app.leon/) - Remove URL Tracking / [GitHub](https://github.com/svenjacobs/leon)
 * [Stealth](https://gitlab.com/cosmosapps/stealth) - Privacy-Based Reddit Frontend
 * [XPrivacyLua](https://lua.xprivacy.eu/) / [GitHub](https://github.com/M66B/XPrivacyLua/) - Privacy Manager 
 * [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard&hl=en_US&gl=QA), [AppWarden](https://gitlab.com/AuroraOSS/AppWarden) or [TrackerControl](https://trackercontrol.org/) - App Permissions Tracker
@@ -64,7 +65,6 @@
 * [NetGuard](https://www.netguard.me/) - Block Internet Access Per App 
 * [AirGuard](https://github.com/seemoo-lab/AirGuard) - AirTag Tracking Protection
 * [Fake Contacts](https://github.com/BillDietrich/fake_contacts) - Generate Fake Contacts
-* [leon](https://github.com/svenjacobs/leon) - Remove URL Tracking Parameters
 * [MaxLock](https://github.com/Maxr1998/MaxLock) - Lock Apps Behind Passwords
 * [VirusTotal](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-apps) - File / URL Virus Scanner 
 * [Pithus](https://beta.pithus.org/) - APK Virus Scanner
@@ -125,7 +125,7 @@
 
 # ► Android Emulators 
 
-* ⭐ **[Nox](https://www.bignox.com/)** - [Screenshot](https://i.imgur.com/VuFLWbW.jpg) / [Debloater](https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29)
+* ⭐ **[Nox](https://www.bignox.com/)** - [Screenshot](https://i.imgur.com/VuFLWbW.jpg) / [Debloat Guide](https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/) / [Video](https://youtu.be/IjI_-pQUOhQ)
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
 * ⭐ **[Anbox](https://anbox.io/)**, **[WayDroid](https://waydro.id/)** / [Git](https://github.com/waydroid) or  [Andronix](https://andronix.app/) / [Git](https://github.com/AndronixApp) - Android Linux Emulator
 * [GameLoop](https://www.gameloop.com/) - [Screenshot](https://i.imgur.com/dLrEXCJ.png)
