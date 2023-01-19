@@ -28,6 +28,7 @@
 * [SockShare](http://sockshare.ac/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones) / Use Adblock
 * [NetU](https://netu.io/view_page.php?pid=4) - Movies / TV / / Anime / [Search](https://i.imgur.com/SiYyosZ.mp4) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_netu_hosts)
 * [OpenloadMovies](https://openloadmov.net/) or [Yify TV](https://yify.plus/) - Movies / TV
+* [Streaminal-TV](https://streaminal-tv.vercel.app/) - Movies / TV / / Anime
 * [FreeTubeSpot](https://www.freetubespot.com/) - Movies
 * [SmashyStream](https://embed.smashystream.com/) - Movies / TV / Anime / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
 * [UltraMovies](https://ultramovies.net/) - Movies / TV
@@ -538,7 +539,7 @@
 * [vipotv](http://vipotv.com/) - TV / Sports
 * [SamiTVHD](https://samitvhd.com/) - TV / Sports
 * [uStream](https://www.ustream.to/index.html) - TV / Sports
-* [Stream2Watch](https://hq.stream2watch.sx/), [2](https://stream2watch.at/) - TV / Sports
+* [Stream2Watch](https://www.istream2watch.org/) - TV / Sports
 * [WwiTv](https://wwitv.com/) - TV
 * [MHD TV World](https://mhdtvworld.xyz/channel/english/) - TV
 * [SquidTV](https://www.squidtv.net/) - TV
@@ -706,6 +707,7 @@
 * [FilmFans](https://filmfans.org/) - HD Movies
 * [3D HD]( https://3d-hd.club/) - 3D Movie ISOs
 * [IRC Movie Channels](https://pastebin.com/2AeYizZK)
+* [StreamFab](https://pastebin.com/Kgui74wd) - Premium Streaming Site Video Downloader / [Screenshot](https://i.imgur.com/cH0XLZs.png)
 * [Gophie](https://github.com/Go-phie/gophie) or [Movies-and-Series-Scraper](https://github.com/yousefkotp/Movies-and-Series-Scraper) - Streaming Site Download CLI
 * [BaoXinh](https://tool.baoxinh.com/) - FEmbed / Mixdrop Downloader
 * [123MoviesRipper](https://github.com/Xonshiz/123MoviesRIpper) - 123Movies Downloader
