@@ -860,8 +860,7 @@
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comics-DL](https://github.com/The-Eye-Team/Comics-DL), [Comic-DL](https://github.com/Xonshiz/comic-dl), [comicMaker](https://github.com/gunjannandy/comicMaker) or [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md) - Comic Downloaders
 * [Tapastic Comic Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - Tapas Comics Downloader
 *  [xkcd](https://xkcd.com/) or [findxkcd](https://xkcd-search.typesense.org/) - Browse xkcd Comics
-* [Cover](http://www.frenchfrysoftware.com/cover/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Reader / Manager
-* [MComix](https://sourceforge.net/p/mcomix/wiki/Home/) - Reader
+* [Cover](http://www.frenchfrysoftware.com/cover/), [gazee](https://hub.docker.com/r/linuxserver/gazee/), [Komikku](https://gitlab.com/valos/Komikku), [MComix](https://sourceforge.net/p/mcomix/wiki/Home/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Readers / Managers
 * [Free Dark Horse Digital Comics](https://digital.darkhorse.com/pages/free) / [Downloader](https://github.com/GrowAsguard/Dark-Horse-Comics-Converter)
 * [ComicFury](https://comicfury.com/) or [StripCreator](http://www.stripcreator.com/) - User-Made Comics
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Web Comic Reader
@@ -1006,7 +1005,7 @@
 * [OtakuGallery](http://www.otakugallery.com/) - Manga Artbooks
 * [WebToons](https://www.webtoons.com/en/) - Manga Webtoons  
 * [Tachiyomi](https://github.com/Suwayomi) / [Web Client](https://github.com/TachiWeb) / [Desktop Client](https://github.com/Suwayomi/Tachidesk-Server) / [Discord](https://discord.com/invite/tachiyomi), [AllMangasReader](http://allmangasreader.com/), [Houdoku](https://houdoku.org/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi), [isoComic](https://github.com/isomerase/isocomic-extensions) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - Manga Reader / Manager
-* [HappyPanda X](https://happypandax.github.io/), [Tenma](https://github.com/Tenma-Server/Tenma), [KavitaReader](https://www.kavitareader.com/), [Mango](https://github.com/hkalexling/Mango), [Tanoshi](https://faldez.github.io/tanoshi/) or [Komga](https://komga.org/) / [GitHub](https://github.com/gotson/komga) / [Discord](https://discord.gg/TdRpkDu) - Self-Hosted Manga Readers / Managers
+* [HappyPanda X](https://happypandax.github.io/), [Tenma](https://github.com/Tenma-Server/Tenma), [KavitaReader](https://www.kavitareader.com/), [gazee](https://hub.docker.com/r/linuxserver/gazee/), [Komikku](https://gitlab.com/valos/Komikku), [Mango](https://github.com/hkalexling/Mango), [Tanoshi](https://faldez.github.io/tanoshi/) or [Komga](https://komga.org/) / [GitHub](https://github.com/gotson/komga) / [Discord](https://discord.gg/TdRpkDu) - Self-Hosted Manga Readers / Managers
 * [LANraragi](https://github.com/Difegue/LANraragi) - Manga / Doujin Manager for NAS / [Discord](https://discord.com/invite/aRQxtbg)
 * [Kaizoku](https://github.com/oae/kaizoku) -  Self-Hosted Manga Downloader
 * [MangaManage](https://github.com/Daedren/MangaManage) - Tachiyomi Download Manager
@@ -1258,7 +1257,7 @@
 * [WinDjView](https://windjview.sourceforge.io/) - DjVu Reader / PC
 * [DjVuLibr](http://djvu.sourceforge.net/) - DjVu Reader / PC
 * [bookworm](https://github.com/babluboy/bookworm) - Elementary OS Ebook Reader
-* [AnyfFip](https://anyflip.com/) - Interactive Flipbook Reader 
+* [AnyFlip](https://anyflip.com/) - Interactive Flipbook Reader 
 * [All My Books](https://www.bolidesoft.com/allmybooks.html) - Book Catalog 
 * [Open Media Library](https://openmedialibrary.com/) - Online Book Manager
 * [Raven Reader](https://ravenreader.app/) - Article Reader / Manager 
@@ -1277,6 +1276,7 @@
 
 # ► Helpful Sites / Apps
 
+* ⭐ **[AccelaReader](https://accelareader.com/)** or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
 * ⭐ **[arch1ve](https://rentry.org/arch1ve)** or [Borrowing Picture Books](https://redd.it/fm1xpw) - Download Borrow Only Archive.org Books / [Script](https://redd.it/ofcqds)
 * ⭐ **[DownloadBookFromIPFS](https://greasyfork.org/en/scripts/428894-downloadbookfromipfs)** - Add Button to Download Books from IPFS
 * ⭐ **[EBook Converters](https://wiki.mobileread.com/wiki/E-book_conversion)** - List of Ebook Converters
@@ -1286,7 +1286,7 @@
 * [CrowBook](https://github.com/lise-henry/crowbook) - Markdown to EPUB Converter
 * [Libby](https://libbyapp.com/) - Library Search
 * [BookInfo](https://lordgnomembe.github.io/BookInfo/) - Get Book Info via ISBN
-* [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - Generate Text & Article Summaries
+* [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - Generate Text / Article Summaries
 * [FiveFilters](https://www.fivefilters.org/) - Multiple Article Accessibility Tools
 * [Ebook-Converter](https://ebook-converter.com/) - Ebook Converter
 * [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)
