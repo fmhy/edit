@@ -483,6 +483,8 @@
 
 # ► VPN
 
+* **WARNING** - If you're torrenting it's recommended to use a paid rather than free VPN. Free VPNs are only really good for things like viewing sites blocked by your ISP / country.
+
 * ⭐ **[VPN Comparison Chart](https://web.archive.org/web/20221029202548/https://privacymelon.com/stealth-vpn-guide/vpn-comparison-table/)** - Compare VPN Privacy Polices
 * ⭐ **[How-to Bind VPN to Client](https://redd.it/ssy8vv)** - Bind VPN to Client to Avoid ISP Letters
 * ⭐ **[Mullvad](https://mullvad.net/)** - [Pricing](https://i.imgur.com/LfjZ9G3.png) / [NetNS](https://github.com/chutz/mullvad-netns)
