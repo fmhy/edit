@@ -686,6 +686,7 @@
 * ⭐ **[Grocy](https://grocy.info/)** or [Kitchen Owl](https://f-droid.org/en/packages/com.tombursch.kitchenowl/) / [Backend](https://tombursch.github.io/kitchenowl/get-started/) - Grocery Managers
 * ⭐ **[Superbetize](http://superbetize.com/)** - Auto-Categorize Grocery List
 * ⭐ **[Just the Recipe](https://www.justtherecipe.com/)**, [Copy Me That](https://www.copymethat.com/), [PlainOldRecipe](https://www.plainoldrecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - Extract Ingredients from Recipe Pages
+* ⭐ **[Food Nutrition / Ingredients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nutrition_.2F_ingredients)** - Search / Scan Food for its Ingredients
 * ⭐ **[/m/food](https://www.reddit.com/user/Siryonkee/m/food/)** - Food Multireddit
 * ⭐ **[TasteJury](https://tastejury.com/)** - Find Specific Dishes
 * ⭐ **[Sporked](https://sporked.com/)** - Packaged Food Reviews
@@ -694,7 +695,6 @@
 * ⭐ **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
 * ⭐ **[HackTheMenu](http://hackthemenu.com/)** - Fast Food Secret Menu Items
 * ⭐ **[McBroken](https://mcbroken.com/)** - Check if McDonalds Ice Cream Machines are Broken
-* [Open Food Facts](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner) - Food Product Ingredient Scanner
 * [cookEbooks](http://cookebooks.info/) - Cookbooks
 * [DMC Cookbooks](https://archive.lib.msu.edu/DMC/cookbooks/) - Cookbooks
 * [Cook Bookshelf](https://t.me/cook_bookshelf) - Cookbooks / Telegram
@@ -804,6 +804,7 @@
 * ⭐ **[Health News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_health_news)** - Health News Sites
 * ⭐ **[/r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
 * ⭐ **[MyPlate](https://www.myplate.gov/)** - Food Pyramid
+* ⭐ **[Food Nutrition / Ingredients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nutrition_.2F_ingredients)** - Search / Scan Food for its Ingredients
 * ⭐ **[Caffeine Calculator](https://caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
 * ⭐ **[Dehydration Chart](https://i.imgur.com/PpDgo5j.png)** - Dehydration Color Chart
 * ⭐ **[BMI Chart](https://i.imgur.com/JHJCmDM.png)** - Healthy BMI Graph
@@ -825,10 +826,8 @@
 * [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) - Exercise & Activity Tracker
 * [ExRx.net](https://exrx.net/) - Exercise Resources
 * [Cronometer](https://cronometer.com/) - Track Nutrition & Calories
-* [FoodStruct](https://foodstruct.com/), [OpenFoodFacts](https://world.openfoodfacts.org/) / [Scanner](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner), [Tellspecopedia](http://www.tellspecopedia.com/), [Nutritionix](https://www.nutritionix.com/) or [NutritionData](https://nutritiondata.self.com/) - Food Nutrition Search
-* [Soosee](https://play.google.com/store/apps/details?id=com.goodsnooze.soosee) - Food Nutrition Scanner
 * [MyFoodData](https://www.myfooddata.com) - Food Nutrition Tools
-* [wger](https://wger.de/) - Self-Hosted Workout, Nutrition & Weight App / [GitHub](https://github.com/wger-project/wger)
+* [wger](https://wger.de/) - Self-Hosted Workout, Nutrition / Weight App / [GitHub](https://github.com/wger-project/wger)
 * [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
 * [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - Daily Diet Recommendations / Android
 * [EatThisMuch](https://www.eatthismuch.com/), [FitMenCook](https://fitmencook.com/) or [MealPrePro](https://mealpreppro.com/) - Diet Tool / iOS / Android 
@@ -1162,7 +1161,7 @@
 * ⭐ **[Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102)** - Multi-Site Extension Search
 * ⭐ **[Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_adblocking_extensions) / [Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_extensions) Extensions**
 * ⭐ **[add0n](https://add0n.com/) or [MyBrowserAddon](https://mybrowseraddon.com/)** - Open-Source Extension Index
-* ⭐ **[Buster](https://github.com/dessant/buster)** or [NopeCHA](https://nopecha.com/) - Auto Captcha Solvers
+* ⭐ **[Buster](https://github.com/dessant/buster)** - Auto Captcha Solver
 * ⭐ **[Privacy Pass](https://privacypass.github.io/)** - Skip Captchas 
 * ⭐ **[Dark Reader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) or [222](https://github.com/x08d/222) - Dark Mode 
 * [Into The Black Hole](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_into_the_black_hole) - Dark Mode Browser Theme
