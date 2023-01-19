@@ -483,7 +483,7 @@
 
 # ► VPN
 
-* **WARNING** - If you're torrenting it's recommended to use a paid rather than free VPN. Free VPNs are only really good for things like viewing sites blocked by your ISP / country.
+* **WARNING** - For torrenting it's recommended to use a paid rather than free VPN. Free VPNs are only really useful for things like viewing sites blocked by your ISP / country.
 
 ***
 
