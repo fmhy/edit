@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/XozUPqE.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/LZghcCq.png)** - For mobile users
 
 ***
 
@@ -252,7 +252,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * ⭐ **[/r/CrackedPluginsX](https://www.reddit.com/r/CrackedPluginsX/)**
 * ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - [VK](https://vk.com/pluggsupply) / [Discord](https://discord.gg/2R2X6yF)
 
-[OpenAudio](https://github.com/webprofusion/OpenAudio), [/u/BitterApple69 Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2Fu.2Fbitterapple69_plugins), [FreeVSTPlugins](https://freevstplugins.net/), [KVRAudio](https://www.kvraudio.com/plugins/the-newest-plugins/free), [PLUGINS4FREE](https://plugins4free.com/), [dskmusic](https://www.dskmusic.com/), [landr](https://blog.landr.com/best-free-vst-plugins/), [native-instruments](https://www.native-instruments.com/en/specials/free-vst-plugins/), [sparta](https://leomccormack.github.io/sparta-site/), [IEM](https://plugins.iem.at/), [PluginTorrent](https://plugintorrent.com/), [/r/PluggnB/](https://www.reddit.com/r/PluggnB/), [Free VST Spreadsheet](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8#gid=0), [Plugins Cloud](https://t.me/joinchat/eBPFLPGucTU5YjQ9), [PluginsCloudArchive](https://t.me/plugincloudsarchive), [PluginCloudArchive_docs](https://t.me/pluginclouds_docs), [VSTs & Packs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_vsts_.26amp.3B_packs), [CC PLUG](https://discord.gg/Shs95gv2CJ)
+[Producer Plug Sheet](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_producer_plug_sheet), [OpenAudio](https://github.com/webprofusion/OpenAudio), [/u/BitterApple69 Plugins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2Fu.2Fbitterapple69_plugins), [FreeVSTPlugins](https://freevstplugins.net/), [KVRAudio](https://www.kvraudio.com/plugins/the-newest-plugins/free), [PLUGINS4FREE](https://plugins4free.com/), [dskmusic](https://www.dskmusic.com/), [landr](https://blog.landr.com/best-free-vst-plugins/), [native-instruments](https://www.native-instruments.com/en/specials/free-vst-plugins/), [sparta](https://leomccormack.github.io/sparta-site/), [IEM](https://plugins.iem.at/), [PluginTorrent](https://plugintorrent.com/), [/r/PluggnB/](https://www.reddit.com/r/PluggnB/), [Free VST Spreadsheet](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8#gid=0), [Plugins Cloud](https://t.me/joinchat/eBPFLPGucTU5YjQ9), [PluginsCloudArchive](https://t.me/plugincloudsarchive), [PluginCloudArchive_docs](https://t.me/pluginclouds_docs), [VSTs & Packs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_vsts_.26amp.3B_packs), [CC PLUG](https://discord.gg/Shs95gv2CJ)
 
 ***
 
@@ -385,7 +385,7 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 
 #### ChatGPT Tools
 
-[Resources](https://github.com/humanloop/awesome-chatgpt) / [Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop) / [CLI](https://github.com/diciaup/assistant-cli), [2](https://github.com/PopDaddyGames/ChatGPT-Terminal) / [Prompts](https://prompts.chat/) / [Matrix Theme](https://github.com/lvwzhen/ChatGPT-Matrix-Style)
+[Resources](https://github.com/humanloop/awesome-chatgpt) / [Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop) / [CLI](https://github.com/diciaup/assistant-cli), [2](https://github.com/PopDaddyGames/ChatGPT-Terminal) / [Prompts](https://prompts.chat/) / [Matrix Theme](https://github.com/lvwzhen/ChatGPT-Matrix-Style) / [AI Detection](https://huggingface.co/openai-detector/) 
 
 ***
 
@@ -1321,6 +1321,12 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 
 ***
 
+#### IPTV Tools
+
+[Forum](https://iptv.community/) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/) / [m3u to txt](https://siptv.eu/converter/) / [M3U Editor](https://m3u4u.com/) / [M3U Downloader](https://github.com/nilaoda/N_m3u8DL-RE) / [Dummy EPG](https://github.com/yurividal/dummyepgxml) / [HLS Downloader](https://github.com/puemos/hls-downloader), [CLI](https://github.com/nilaoda/N_m3u8DL-CLI)
+
+***
+
 #### IRC Book Sites
 
 * irc://irc.undernet.org/bookz
@@ -1607,7 +1613,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Air Explorer](https://airexplorer.net/en/)**
 * ⭐ **[RaiDrive](https://www.raidrive.com/)**
 * ⭐ **[RClone](https://rclone.org/)** - [Heroku](https://github.com/The-Antrax/heroku-buildpack-rclone-mod) / [WebUI](https://github.com/rclone/rclone-webui-react) / [GUI](https://github.com/kapitainsky/RcloneBrowser) / [Colab](https://colab.research.google.com/github/szyha/RcloneLabArchive/blob/master/RcloneLab.ipynb) / [Telegram](https://t.me/rclonexbot) / [Mirror Manager](https://github.com/Syzygianinfern0/RClone-Mirror-Manager) / [Transfer Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool)
-* ⭐ **[gclone](https://github.com/donwa/gclone)**, [2](https://github.com/dogbutcat/gclone) / [Guide](https://telegra.ph/Gclone-Guide-for-Windows-07-20) / [Telegram](https://github.com/wrenfairbank/telegram_gcloner) / [Bot](https://github.com/MsGsuite/CloneBot) / [Discord Bot](https://github.com/Rekulous/CloneCord-bot) / [Colab](https://github.com/Rekulous/GCloneLab), [2](https://colab.research.google.com/github/Rekulous/GCloneLab/blob/main/GCloneLab.ipynb)
+* ⭐ **[gclone](https://github.com/dogbutcat/gclone)**, [2](https://github.com/l3v11/gclone) / [Guide](https://telegra.ph/Gclone-Guide-for-Windows-07-20) / [Telegram](https://github.com/wrenfairbank/telegram_gcloner) / [Bot](https://github.com/MsGsuite/CloneBot) / [Discord Bot](https://github.com/Rekulous/CloneCord-bot) / [Colab](https://github.com/Rekulous/GCloneLab), [2](https://colab.research.google.com/github/Rekulous/GCloneLab/blob/main/GCloneLab.ipynb)
 * [Koofr](https://koofr.eu/) 
 * [SpaceDrive](https://www.spacedrive.com/)
 * [CarotDAV](http://rei.to/carotdav_en.html)
@@ -3149,7 +3155,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 ####  Video Stream Sync
 
-[Giggl](https://giggl.app/), [neko](https://neko.m1k1o.net/) / [GitHub](https://github.com/m1k1o/neko), [SyncPlay](https://syncplay.pl/), [CyTube](https://cytu.be/), [HyperBeam](https://hyperbeam.com/), [Kast](https://kast.gg/), [twoseven](https://twoseven.xyz/), [Metastream](https://getmetastream.com/), [Trast](https://trast.live/), [Watch2Gether](https://w2g.tv/), [Kosmi](https://kosmi.io/), [Invited.tv](https://invited.tv/), [Caracal Club](https://caracal.club/), [baked.live](http://baked.live/), [Surge](https://surge.live/), [Screen Share Party](https://ba.net/screen/), [WatchParty](https://www.watchparty.me/), [Stream New](https://stream.new/) / [GitHub](https://github.com/muxinc/stream.new), [bear.cat](https://bear.cat/), [TurtleTV](https://turtletv.app/), [OpenTogetherTube](https://opentogethertube.com/), [WatchPubs](https://watchpubs.com/), [MovieNight](https://github.com/zorchenhimer/MovieNight), [SyncWatch](https://github.com/Semro/syncwatch)
+[Giggl](https://giggl.app/), [neko](https://neko.m1k1o.net/) / [GitHub](https://github.com/m1k1o/neko), [SyncPlay](https://syncplay.pl/), [CyTube](https://cytu.be/), [HyperBeam](https://hyperbeam.com/), [Kast](https://kast.gg/), [twoseven](https://twoseven.xyz/), [Metastream](https://getmetastream.com/), [Trast](https://trast.live/), [Watch2Gether](https://w2g.tv/), [Kosmi](https://kosmi.io/), [Invited.tv](https://invited.tv/), [Caracal Club](https://caracal.club/), [baked.live](http://baked.live/), [Surge](https://surge.live/), [Screen Share Party](https://ba.net/screen/), [WatchParty](https://www.watchparty.me/), [Stream New](https://stream.new/) / [GitHub](https://github.com/muxinc/stream.new), [bear.cat](https://bear.cat/), [TurtleTV](https://turtletv.app/), [OpenTogetherTube](https://opentogethertube.com/), [WatchPubs](https://watchpubs.com/), [MovieNight](https://github.com/zorchenhimer/MovieNight), [SyncWatch](https://github.com/Semro/syncwatch), [discord-together](https://github.com/RemyK888/discord-together)
 
 ***
 
