@@ -52,7 +52,6 @@
 * [Myuzi](https://gitlab.com/zehkira/myuzi) or [Harmony Music](https://github.com/ZingyTomato/Harmony-Music) - Music Streaming Apps
 * [Meteo](https://gitlab.com/bitseater/meteo) - Weather App
 * [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - Free Ubuntu VNC
-* [gazee](https://hub.docker.com/r/linuxserver/gazee/) or [Komikku](https://gitlab.com/valos/Komikku) - Manga & Comic Reader / Manager
 * [wikit](https://github.com/KorySchneider/wikit) - Wikipedia Summaries from CLI
 * [Linux Filesystem Chart](https://i.imgur.com/02VycVd.png) - File System Guide
 * [Wget_Linux_Guide](https://web.archive.org/web/20210225201811/https1://the-eye.eu/public/Wget_Linux_Guide.pdf) - Wget Guide
@@ -64,7 +63,7 @@
 * [Kvantum](https://github.com/tsujan/Kvantum) - Linux QT / KDE Theme Engine
 * [susOS](https://github.com/Villagerjj/sus-os) - Among Us Themed Distro
 * [Linux x Technology](https://linuxdiscord.com/) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Chat Communities
-* [Discover](https://github.com/trigg/Discover) - Discord Linux Overlay
+* [Discover](https://github.com/trigg/Discover) or [Nextcord](https://github.com/nextcord/nextcord) - Discord Wrappers
 * [dvm](https://github.com/diced/dvm) - Discord Version Manager
 * [Discord RPM](https://github.com/RPM-Outpost/discord ) - Automated Discord Update Script
 * [Polybar](https://github.com/jaagr/polybar) or [lemonbar](https://github.com/LemonBoy/bar) - Customizable Status Bar
@@ -196,12 +195,13 @@
 * [utils](https://github.com/Loupeznik/utils) or [UsefulLinuxShellScripts](https://github.com/jackrabbit335/UsefulLinuxShellScripts) - Linux Shell Tool Scripts
 * [hush](https://github.com/hush-shell/hush) - Unix Shell
 * [Mayfrost Guides](https://github.com/mayfrost/guides) - Linux / Computing Guides
-* [winapps](https://github.com/Fmstrat/winapps), [Cassowary](https://github.com/casualsnek/cassowary), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - Run Windows Apps in Linux 
+* [winapps](https://github.com/Fmstrat/winapps), [Cassowary](https://github.com/casualsnek/cassowary), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - Run Windows Apps in Linux
 * [Ulauncher](https://ulauncher.io/) - Application Launcher
-* [DeskCut](https://github.com/NayamAmarshe/DeskCut) - Desktop Shortcuts App 
+* [DeskCut](https://github.com/NayamAmarshe/DeskCut) - Desktop Shortcuts App
 * [Q4Wine](https://sourceforge.net/projects/q4wine/) - Wine GUI
 * [WineHQ](https://appdb.winehq.org/) - Wine Compatibility Database
-* [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor & Log System Activity
+* [nativefier_tauri](https://github.com/hamza72x/nativefier_tauri) - Turn Webpages into Desktop Apps
+* [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
 * [FSLint](http://www.pixelbeat.org/fslint/) or [FCClones](https://github.com/pkolaczk/fclones) - Duplicate File Finder
 * [CoreELEC](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) - Kodi-Based Operating System
@@ -476,7 +476,7 @@
 * [IINA](https://iina.io/) - Video Player
 * [Meeter](https://trymeeter.com/) - Video Meeting Manager
 * [Gifski](https://sindresorhus.com/gifski) - Image to GIF Converter / [GitHub](https://github.com/sindresorhus/Gifski)
-* [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - Image & Video Editor
+* [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - Image / Video Editor
 * [Kap](https://github.com/wulkano/Kap) - Screen Recorder
 * [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - Audio Editor
 * [The Levelator](https://archive.org/details/conversationsnetwork_org-levelator) - Automatic Audio Level Adjustments
@@ -486,6 +486,7 @@
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - Image Editor 
 * [ImageOptim](https://imageoptim.com/mac) - Image Optimization
 * [Perspec](https://github.com/feramhq/Perspec) - Correct Perspective of Images
+* [SD Buddy](https://github.com/breadthe/sd-buddy) - Stable Diffusion GUI
 * [ColorSlurp](https://colorslurp.com/) or [Material-Colors-native](https://github.com/BafS/Material-Colors-native) - Color Picker
 * [Use Contrast](https://usecontrast.com/) - Check Color Contrast Ratios
 * [Sim Daltoinism](https://michelf.ca/projects/sim-daltonism/) - Color Blindness Simulator
