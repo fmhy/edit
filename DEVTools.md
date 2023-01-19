@@ -330,6 +330,7 @@
 * [data-dockerfiles](https://github.com/irbigdata/data-dockerfiles) - Docker Compose Files for Data Engineering
 * [Auto-Portforward](https://github.com/ruoshan/autoportforward) - Auto Port-Forwarding for Docker, Podman & Kubernetes
 * [Watchtower](https://github.com/containrrr/watchtower) - Automate Docker Container Image Updates
+* [CLIP-as-service](https://github.com/jina-ai/clip-as-service) - Embed Images / Sentences via CLIP Models 
 * [OpenML](https://www.openml.org/) or [Hugging Face](https://huggingface.co/) - Machine Learning Datasets
 * [Kobra](https://kobra.dev/) - Visual Programming Language for Machine Learning
 * [DVC](https://dvc.org/) - Machine Learning Version Control
@@ -555,7 +556,6 @@
 * [DaButtonFactory](http://dabuttonfactory.com/) or [ButtonOptimizer](http://buttonoptimizer.com/) - Button Generator
 * [GetButton](https://getbutton.io/) - Get free 'Message Us' Button for your Site
 * [Automated Incident Response](https://github.com/awslabs/aws-automated-incident-response-and-forensics) - Automated Incident Response and Forensics Framework
-Automated Incident Response and Forensics Framework
 * [cssbuttons](https://cssbuttons.io/) - CSS Buttons
 * [CBox](https://www.cbox.ws/), [Typebot](https://typebot.io/), [Fonoster](https://fonoster.com/) or [Tawk](https://www.tawk.to/) - Embedded Chat App
 * [StackWhats](https://stackwhats.com/) - Add Whatsapp Chat to Your Site
@@ -635,7 +635,8 @@ Automated Incident Response and Forensics Framework
 
 ## ▷ Software Development
 
-* [Electron](https://www.electronjs.org/), [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [PowerPage](https://github.com/casualwriter/powerpage), [Flet](https://flet.dev/) or [Tauri](https://tauri.studio/) / [Resources](https://github.com/tauri-apps/awesome-tauri) / [GitHub](https://github.com/tauri-apps/tauri) - Desktop App Builders / [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://www.electronjs.org/apps/) / [Debugger](https://github.com/bytedance/debugtron)
+* [Electron](https://www.electronjs.org/), [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [PowerPage](https://github.com/casualwriter/powerpage), [Flet](https://flet.dev/) or [Tauri](https://tauri.studio/) / [Resources](https://github.com/tauri-apps/awesome-tauri) - Desktop App Builders
+* Electron Tools - [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://www.electronjs.org/apps/) / [Debugger](https://github.com/bytedance/debugtron) / [Mod Loader](https://kernel.fish/)
 * [Budibase](https://budibase.com/) or [AppSmith](https://github.com/appsmithorg/appsmith) - Internal App Builders
 * [raylib technologie](https://raylibtech.itch.io/), [bookmarks](https://github.com/MorganGeek/bookmarks) or [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - Software Development Tools
 * [Theos](https://theos.dev/) - Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
@@ -681,7 +682,7 @@ Automated Incident Response and Forensics Framework
 
 * ⭐ **[Tizen](https://www.tizen.org/)** - Android TV App Creator
 * [Heroku-Alt](https://rentry.co/Heroku-Alt) - Heroku Alternatives
-* [SupaBase](https://supabase.com/), [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Dokku](https://dokku.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter), [2](https://github.com/leanflutter/awesome-flutter-desktop) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators
+* [SupaBase](https://supabase.com/), [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Dokku](https://dokku.com/), [AndroidIDE](https://androidide.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter), [2](https://github.com/leanflutter/awesome-flutter-desktop) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators
 * [XDA](https://forum.xda-developers.com/) - App Development Forum
 * [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - App Development Platform / [GitHub](https://github.com/xamarin)
 * [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
@@ -925,7 +926,8 @@ Automated Incident Response and Forensics Framework
 * [Refined GitHub](https://github.com/sindresorhus/refined-github) - Simplifies GitHub Interface & Adds Features 
 * [Octobox](https://octobox.io/) or [Ghostly](https://ghostlyapp.net/) / [GitHub](https://github.com/patriksvensson/ghostly) - GitHub Notifications
 * [Allstar](https://github.com/ossf/allstar) - Git Repository Security App
-* [github1s](https://github1s.com/) - GitHub Code Viewer / GUI: do `gitk` in Repo Folder 
+* [github1s](https://github1s.com/) - GitHub Code Viewer / GUI: do `gitk` in Repo Folder
+* [KeyManager](https://github.com/Yash-Garg/KeyManager) - GitHub SSH / GPG Key Manager
 * [Tara](https://tara.ai/) - Git Project Manager
 * [Serctl](https://d.serctl.com/) - Backup GitHub Projects
 * [GitList](https://gitlist.org/) - Elegant Git Repository Viewer / [GitHub](https://github.com/klaussilveira/gitlist)
