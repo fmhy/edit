@@ -311,7 +311,7 @@
 * [Weboasis Convert](https://weboasis.app/convert/) - Conversion Calculators
 * [PecentageTools](https://percentagetools.com/) - Percentage Calculators
 * [Matrix Multiplication](http://matrixmultiplication.xyz/) - Matrix Multiplication Calculator
-* [Unit Conversion](https://conversao.net/eng/), [Quick Convert](https://www.microsoft.com/p/app/9wzdncrdm7gt), [UnitConverters](https://www.unitconverters.net/), [Converter Pro](https://f-droid.org/packages/com.ferrarid.converterpro/), [ConvertUnits](https://www.convertunits.com/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converters
+* [Unit Conversion](https://conversao.net/eng/), [CoolConversion](https://coolconversion.com/), [Quick Convert](https://www.microsoft.com/p/app/9wzdncrdm7gt), [UnitConverters](https://www.unitconverters.net/), [Converter Pro](https://f-droid.org/packages/com.ferrarid.converterpro/), [ConvertUnits](https://www.convertunits.com/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converters
 * [Derivative Calculator](https://www.derivative-calculator.net/) - Derivative Calculator
 * [Integral Calculator](https://www.integral-calculator.com/) - Integral Calculator
 * [Desmos](https://www.desmos.com/) - Graphing Calculator
@@ -780,7 +780,7 @@ Simulator
 * [PXTrez](https://pxtrez.com/) - Kahoot Answers Tool
 * [ITExamAnswers.net](https://www.itexamanswers.net/) - IT Exam Answers
 * [Oak National Academy](https://teachers.thenational.academy/), [OLI](https://oli.cmu.edu/independent-learner-courses/) or [Runestone Interactive](https://runestone.academy/) - Lessons
-* [Quizlet](https://quizlet.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872) / [Explanations](https://greasyfork.org/en/scripts/434972), [2](https://greasyfork.org/en/scripts/438663)
+* [Quizlet](https://quizlet.com/) / [Paywall Bypass](https://github.com/rospino74/Quizlet-Bypass) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872) / [Explanations](https://greasyfork.org/en/scripts/434972), [2](https://greasyfork.org/en/scripts/438663)
 * [guIHelp](https://discord.gg/rgF9jY8CpH) - Bartleby, Quizlet, Coursehero & Scribd Bot
 * [HeroGenerator](https://discord.gg/ggBX8qqASC) - Courshero Document Generator / [Telegram](https://t.me/HeroGeneratorPure)
 * [Wikiversity](https://www.wikiversity.org/) or [Learnamic](https://www.learnamic.com/) - Learning Resources, Guides, Quizzes, Tools & More
