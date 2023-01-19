@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/CZzUwT1.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/XozUPqE.png)** - For mobile users
 
 ***
 
@@ -52,7 +52,8 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### AI Writing Tools
 
-⭐ **[ChatGPT](https://chat.openai.com/)** / [Resources](https://github.com/humanloop/awesome-chatgpt) / [Prompts](https://prompts.chat/)
+⭐ **[ChatGPT](https://chat.openai.com/)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chatgpt_tools)
+
 
 [Transformer](https://transformer.huggingface.co/), [OpenAI](https://beta.openai.com/playground), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en), [TextSynth](https://textsynth.com/playground.html), [MagicPrompt](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion), [Talk to Transformer](https://app.inferkit.com/demo), [InkForAll](https://app.inkforall.com/tools), [EleutherAI](https://6b.eleuther.ai/), [Essaytyper](http://www.essaytyper.com/), [EssayGen](https://github.com/daijro/EssayGen/)
 
@@ -382,6 +383,12 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 
 ***
 
+#### ChatGPT Tools
+
+[Resources](https://github.com/humanloop/awesome-chatgpt) / [Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop) / [CLI](https://github.com/diciaup/assistant-cli), [2](https://github.com/PopDaddyGames/ChatGPT-Terminal) / [Prompts](https://prompts.chat/) / [Matrix Theme](https://github.com/lvwzhen/ChatGPT-Matrix-Style)
+
+***
+
 #### Clipboard Managers
 
 [ArsClip](http://www.joejoesoft.com/vcms/97/), [Ditto Clipboard Manager](https://ditto-cp.sourceforge.io/), [clipboardmemo](https://gitlab.com/fabrom/clipboardmemo), [CopyQ](https://hluk.github.io/CopyQ/), [Free Clipboard Viewer](https://freeclipboardviewer.com/), [Clip Angel](https://sourceforge.net/projects/clip-angel/), [xClipper](https://github.com/KaustubhPatange/XClipper), [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots), [Clipboard Canvas](https://github.com/d2dyno1/ClipboardCanvas), [Xtra Clipboard](https://xtra-clipboard.com/), [Control V](https://ctrl.vi/), [Clipper](https://github.com/AkashRajpurohit/clipper)
@@ -458,7 +465,7 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 
 #### Conversational Chatbots
 
-⭐ **[ChatGPT](https://chat.openai.com/)**
+⭐ **[ChatGPT](https://chat.openai.com/)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chatgpt_tools)
 
 [Replika](https://replika.ai/), [Mitsuku](https://www.pandorabots.com/mitsuku/), [cleverbot](https://www.cleverbot.com/), [eviebot](https://www.eviebot.com/en/), [Kajiwoto](https://kajiwoto.com/) (ai builder), [Talk-Bot](http://www.frontiernet.net/~wcowart/index.shtml), [Madam Zena](http://www.madamzena.com/)
 
@@ -910,6 +917,12 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 [Skynet](https://skydrain.net/), [2](https://siasky.net/)
 
 *** 
+
+#### Nutrition / Ingredients
+
+[FoodStruct](https://foodstruct.com/), [OpenFoodFacts](https://world.openfoodfacts.org/) / [Scanner](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner), [Tellspecopedia](http://www.tellspecopedia.com/), [Nutritionix](https://www.nutritionix.com/), [NutritionData](https://nutritiondata.self.com/), [Soosee](https://play.google.com/store/apps/details?id=com.goodsnooze.soosee), [Yuka](https://play.google.com/store/apps/details?id=io.yuka.android)
+
+***
 
 #### FMovies Clones
 
