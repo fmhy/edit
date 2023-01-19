@@ -19,7 +19,7 @@
 * ⭐ **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)** - Organize Ideas / Projects
 * ⭐ **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** or [Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manual_sites) - Repair Articles / Manuals
 * ⭐ **[Shopping Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)** - Shopping / Price Tracking
-* ⭐ **[TurboTaxSucksAss](http://turbotaxsucksass.net/)** or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free
+* ⭐ **[TurboTaxSucksAss](http://turbotaxsucksass.net/)**, [US Taxes](https://ustaxes.org/) or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free
 * ⭐ **[BeMyEyes](https://www.bemyeyes.com/)** - Assist the Visually Impaired
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - Open-Source Tools
 * [Creating Minds](http://creatingminds.org/tools/tools_ideation.htm) - Creativity Tools
@@ -124,8 +124,8 @@
 ## ▷ Text Tools
 
 * ⭐ **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_editors)** - Text Editing Tools
-* ⭐ **[Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps)** - Note Taking / To-Do Apps
 * ⭐ **[AI Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ai_writing_tools)** - AI Writing Assistants
+* ⭐ **[Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps)** - Note Taking / To-Do Apps
 * ⭐ **[Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars)** - Calendar / Scheduling Tools
 * ⭐ **[Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pastebins)** - Paste / Store Text Online
 * ⭐ **[Office Suites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_office_suites)** - Office Suite Software
@@ -353,6 +353,7 @@
 * [Webm Generator](https://github.com/dfaker/WebmGenerator) - Webm Editor
 * [MergeMP4](https://maple3142.github.io/mergemp4/) - Merge MP4 Video & Audio
 * [VidLouder](https://www.videolouder.com/) - Increase Video Volume
+* [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md) - AI Video Toolbox
 * [Video Cleaner](https://videocleaner.com/) or [Video Enhance AI](https://www.topazlabs.com/video-enhance-ai) - Video Enhancement Tool 
 * [Flowframes](https://nmkd.itch.io/flowframes) or [SVP](https://www.svp-team.com/) - Video Interpolation
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
@@ -563,6 +564,7 @@
 * [Theremin](https://femurdesign.com/theremin/) - Online Synth / Theremin 
 * [Audio Synthesizers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_synthesizers) - Audio Synthesizer Sites & Apps
 * [Vital](https://vital.audio/) - Spectral Warping Wavetable Synth
+* [SampleBrain](https://gitlab.com/then-try-this/samplebrain) - Sample Mixer
 * [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - Pop Song Sample Mixer
 * [WubMachine](https://the.wubmachine.com/) - Create DubstepVersions of Songs
 * [Wolfram Tones](https://tones.wolfram.com/), [audio visual generator](https://fredericbriolet.com/avg/) or [Jingle](https://aidn.jp/jingle/) - Song Generators
@@ -746,7 +748,7 @@
 * ⭐ **[Site Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_site_development)** - Site Development / Hosting Tools
 * [Yandex Disk](https://disk.yandex.com/), [VK WorkSpace](https://biz.mail.ru/) or [OpenDesktop](https://www.opendesktop.org/) - Multiple Cloud Services 
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
-* [Nativefier](https://github.com/nativefier/nativefier) - Turn Sites into Desktop Apps
+* [Nativefier](https://github.com/nativefier/nativefier) or [Pake](https://github.com/tw93/Pake) - Turn Webpages into Desktop Apps
 * [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - Test Internet Speed
 * [Packet Loss Test](https://packetlosstest.com/) - Packet Loss Test
 * [Pinging](https://www.pinging.net/) - Internet Uptime Monitor
@@ -1329,7 +1331,7 @@
 * [Discord Avatar Maker](https://discord-avatar-maker.app/) - Make Discord Avatars
 * [Better Default Discord](https://better-default-discord.netlify.app/) - Default Discord Avatars
 * [usrbg](https://github.com/Discord-Custom-Covers/usrbg) or [Pfps.gg](https://pfps.gg/) - Discord Custom Profile Backgrounds / [Discord](https://discord.gg/2YcxDChxS5)
-* [Discord Developer Badges](https://pastebin.com/JzrckCix) - Unlock Discord Dev Badges
+* [Discord Dev Badges](https://pastebin.com/JzrckCix) or [GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Unlock Discord Dev Badges / [Script](https://gist.github.com/Raraph84/cff3ff908a1f2692b9a8452d2f49c2bf)
 * [Discord Icon](https://icon.en-zo.dev/) - Create Custom Discord Role Icons
 * [Auto Creative](https://auto.creavite.co/icons) - Animated Icon / Banner Generator
 * [DiscordBannerTester](https://dav1312.github.io/BD/DiscordBannerTester/) - Test Discord Banners
@@ -1395,6 +1397,7 @@
 * [TeleWebGram](https://telewebgram.com/) - Online Telegram Channel Viewer
 * [Rose](https://t.me/MissRose_bot) - Telegram Group Manager
 * [TGCF](https://github.com/aahnik/tgcf) - Telegram Message Forwarding
+* [WatgBridge](https://github.com/akshettrj/watgbridge) - Telegram to WhatsApp Bridge
 * [GoriThemes](https://t.me/GoriThemes) - Telegram Themes
 * [Callmebot](https://www.callmebot.com/) - Trigger Voice Calls or Chats
 * [Skeddy](https://skeddy.me/) - Telegram Reminder Bot
@@ -1440,7 +1443,7 @@
 * [YTUnblock](https://ytunblock.weebly.com/) - Bypass YouTube Geo-Restrictions
 * [YouTube RSS Finder](https://github.com/teddy-gustiaux/youtube-rss-finder) - Create YouTube RSS Feeds 
 * [Create YouTube RSS](https://www.ghacks.net/2022/08/01/how-to-subscribe-to-youtube-rss-feeds-without-third-party-services/) - How-to Create YouTube Channel / Playlist RSS Feeds
-* [PocketTube](https://yousub.info/) - YouTube Subscription Manager / Organizer 
+* [PocketTube](https://yousub.info/) or [Kadium](https://kadium.kasper.space/) - YouTube Subscription Manager / Organizer 
 * [FreshTube](https://porjo.github.io/freshtube/) - Display Latest Video from Subscriptions 
 * [Youtube_Subs_Bot](https://t.me/youtube_subs_bot) - Sub to Channels Without Account 
 * [TubeBuddy](https://www.tubebuddy.com/) - YouTube Channel Tools
@@ -1727,7 +1730,7 @@ Twitch Stream Tracker
 * [/r/SuggestAPC](https://reddit.com/r/SuggestAPC)  - PC Suggestion Community
 * [/r/PCMasterrace Wiki](https://www.reddit.com/r/pcmasterrace/wiki/builds/), [/r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [Logical Increments](https://www.logicalincrements.com/) - PC Building Guides / [Video](https://youtu.be/BL4DCEp7blY)
 * [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Laptop Deals](https://laptopsdeals.net/our-gaming-laptops-guide-list/), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
-* [r/TechSupport](https://www.reddit.com/r/techsupport/), [Windows 10 Forums](https://www.windowsphoneinfo.com/), [MSFN](https://msfn.org/board/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/), [TechSupportForum](https://www.techsupportforum.com/) or [Notebook Reviews](http://forum.notebookreview.com/) - Tech Support / [Discord](https://discord.gg/2EDwzWa)
+* [r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/), [Windows 10 Forums](https://www.windowsphoneinfo.com/), [MSFN](https://msfn.org/board/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/), [TechSupportForum](https://www.techsupportforum.com/) or [Notebook Reviews](http://forum.notebookreview.com/) - Tech Support / [Discord](https://discord.gg/2EDwzWa)
 * [GetHuman](http://gethuman.com/), [DialAHuman](https://www.dialahuman.com/) or [ContactFound](https://contactfound.com/) - Tech Support Numbers
 * [Laptop Knowledge Database](https://laptops.miraheze.org/wiki/Main_Page) or [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Databases
 * [Technical City](https://technical.city/) - Hardware Comparisions
@@ -2219,7 +2222,7 @@ Twitch Stream Tracker
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
 * [Extract_Zip](https://colab.research.google.com/drive/1L74g3bsV0YEMbDSUj4Kxrwi26mgjxVpp?usp=sharing) - Extract Zip Files in GDrive
 * [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive 
-* [CloneBot](https://github.com/MsGsuite/CloneBot_Heroku) - Copy GDrive to TeamDrive
+* [CloneBot](https://github.com/MsGsuite/CloneBot_Heroku) or [drive-folder-copier](https://github.com/SingularReza/drive-folder-copier) - Copy GDrive to TeamDrive
 * [Copy Google Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_copy_google_drives) - Make GDrive Copies 
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
 * [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive 
