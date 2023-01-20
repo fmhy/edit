@@ -142,6 +142,7 @@
 * [rcm](https://github.com/thoughtbot/rcm) - Manage Dotfiles
 * [Curlew](https://curlew.sourceforge.io/) - Linux File Converter
 * [Dolphin](https://userbase.kde.org/Dolphin) or [ranger](https://github.com/ranger/ranger) - File Manager
+* [Krename](https://apps.kde.org/en-gb/krename/) - Bulk File Renamer
 * [nnn](https://github.com/jarun/nnn), [clifm](https://github.com/leo-arch/clifm), [fm](https://github.com/knipferrc/fm), [Joshuto](https://github.com/kamiyaa/joshuto), [gdu](https://github.com/dundee/gdu) or [NCDU](https://github.com/rofl0r/ncdu) - Terminal File Manager / Disk Usage Analyzer
 * [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Tiling Windows Manager / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
 * [Material Shell](https://material-shell.com/) or [Forge](https://github.com/jmmaranan/forge) - GNOME Tiling Extension
