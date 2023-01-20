@@ -92,6 +92,7 @@
 * [HowIStart C++](https://howistart.org/posts/cpp/1/) - C++ Setup Guide
 * [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) or [cppreference](https://en.cppreference.com/w/) - C++ Cheatsheets
 * [modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) - C++ Tips
+* [Makefile Tutorial](https://makefiletutorial.com/) - Makefile Tutorial
 * [Quick-R](https://www.statmethods.net/index.html) - R Tutorials
 * [Advanced R](https://adv-r.hadley.nz/) - R Guide / [Solutions](https://advanced-r-solutions.rbind.io/)
 * [R Packages](https://r-pkgs.org/) - R Packages Guide
@@ -257,7 +258,7 @@
 * [Console](https://console.substack.com/) - Subscribe to a List of Open Source Projects
 * [Copy.ai](https://www.copy.ai/) - Marketing Description Generator
 * [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform
-* [Mysterium Network](https://www.mysterium.network/) - Open Web Protocol
+* [Mysterium Network](https://www.mysterium.network/) or [Webdav](http://www.webdav.org/) - Open Web Protocols
 * [Webhook.site](https://webhook.site/) - Webhook Tool
 * [Scoop](https://www.scoop.it/) - Content Curation Tool
 * [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Draw Sequence Diagrams 
@@ -1224,7 +1225,8 @@
 * [ReDoc](https://github.com/Redocly/redoc) - Generate API Documentation
 * [Mockable](https://www.mockable.io/), [Mocky](https://www.mocky.io/) or [MockLab](https://get.mocklab.io/) - Mock APIs
 * [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) - Fake APIs
-* [RandomAPI](https://randomapi.com/) - Generate Fake Data for Populating Mockups 
+* [RandomAPI](https://randomapi.com/) - Generate Fake Data for Populating Mockups
+* [AIMG SRC](https://www.aimgsrc.com/) - Image Return API
 * [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator 
 * [Pipedream](https://pipedream.com/) - Connect APIs / [Tutorial](https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b)
 * [Shizuku](https://shizuku.rikka.app/) - Connect Apps to APIs
