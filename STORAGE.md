@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/LZghcCq.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/DJYyiK4.png)** - For mobile users
 
 ***
 
@@ -335,7 +335,7 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 
 #### Bulk File Renamers 
 
-[Advanced Renamer](https://www.advancedrenamer.com/), [theRenamer](http://therenamer.com/), [Hydrus](https://hydrusnetwork.github.io/hydrus/), [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/), [Szyszka](https://github.com/qarmin/szyszka), [MassiveFileRenamer](https://github.com/IvanRF/MassiveFileRenamer), [Massren](https://github.com/laurent22/massren), [Renamer](https://github.com/Craftplacer/Renamer), [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename), [FileRenamerDiff](https://github.com/soi013/FileRenamerDiff)
+[Advanced Renamer](https://www.advancedrenamer.com/), [theRenamer](http://therenamer.com/), [Hydrus](https://hydrusnetwork.github.io/hydrus/), [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/), [Szyszka](https://github.com/qarmin/szyszka), [MassiveFileRenamer](https://github.com/IvanRF/MassiveFileRenamer), [Massren](https://github.com/laurent22/massren), [Renamer](https://github.com/Craftplacer/Renamer), [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename), [FileRenamerDiff](https://github.com/soi013/FileRenamerDiff), [renamer](https://www.antp.be/software/renamer)
 
 ***
 
@@ -1494,6 +1494,15 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
+#### Media File Data Automation
+
+[MediaMonkey](https://www.mediamonkey.com/), [mnamer](https://github.com/jkwill87/mnamer), [MediaInfo](https://mediaarea.net/en/MediaInfo), [tinyMediaManager](https://www.tinymediamanager.org/), [Bruji](https://www.bruji.com/), [MediaInfoOnline](https://mediaarea.net/MediaInfoOnline), [FileBot](https://www.filebot.net/) 
+
+* [TVNamer](https://github.com/dbr/tvnamer), [TVRename](https://www.tvrename.com/) - TV File Data Automation
+* [Shoko](https://github.com/shokoanime) - Anime File Data Automation
+
+***
+
 #### Media Servers
 
 * ⭐ **[Plex](https://www.plex.tv/)** 
@@ -2130,6 +2139,12 @@ Add the following commands to a search to manually scrape each site.
 **Internet Radio** 
 
 [CoreRadio](https://coreradio.ru/listen), [CMD](https://cmd.to/fm), [lainchan](https://lainchan.org/radio), [JetSetRadio](https://jetsetradio.live/), [LivexLive](https://www.livexlive.com/), [RadioParadise](https://radioparadise.com/), [IndieSHuffle](https://www.indieshuffle.com/), [UpBeat](https://upbeat.pw/), [You42](https://www.you42.com/), [Jango](https://www.jango.com/), [RadioTunes](https://www.radiotunes.com/), [Live365](https://live365.com/), [AccuraRadio](https://www.accuradio.com/), [Radio.dubbeh](https://radio.dubbeh.net/), [lainon.life](https://lainon.life/), [Tilderadio](https://tilderadio.org/), [AnonRadio](https://anonradio.net/), [UpBeat](https://upbeatradio.net/v3/UpBeat.Home) / [Discord](https://upbeat.pw/discord), [Radios.yt](https://radios.yt/), [SomaFM](https://somafm.com/), [ShoutCast](https://directory.shoutcast.com/), [Internet-Radio](https://internet-radio.com/) 
+
+***
+
+#### Random Image Sites
+
+[r.sine.com](https://r.sine.com/index), [Pretty Flix](https://cvines528.github.io/Pretty-Flix/), [Cameron.Red](https://cameron.red/imgur/), [Funnyjunk](https://funnyjunk.com//), [f0ck](https://f0ck.me/), [ImgFlip](https://imgflip.com/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/), [IWasteSoMuchTime](https://www.iwastesomuchtime.com/), [iFunny](https://ifunny.co/), [Imageboard Scraper](https://nik.bot.nu/), [KongouCheats](https://kongoucheats.com/), [MemeGenerator](https://memegenerator.net/), [RandomWaffle](https://randomwaffle.gbs.fm/), [Wimp.com](https://www.wimp.com/) 
 
 ***
 
