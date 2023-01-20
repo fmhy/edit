@@ -67,6 +67,7 @@
 * [/g/'s good sites](https://rentry.co/sites), [2](https://soda.privatevoid.net/num/links/g-good-sites/) - Site / Tool Index
 * [The Scene](https://lkrjangid1.github.io/Awesome-Warez/) - Site / Tool Index
 * [Cool Stuff I Found](https://rentry.org/cool-stuff-i-found-on-the-internet) - Site / Tool Index
+* [Cool Websites](https://rentry.co/cool_websites) - Site / Tool Index
 * [Product Hunt](https://www.producthunt.com/) - Site / Tool Index
 * [Useful Interweb](https://usefulinterweb.com/) or [Daily Useful Links](https://t.me/DailyUsefulLINKS) - Daily Websites
 * [Mostly Free](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) - Site / Tool Index
@@ -215,6 +216,7 @@
 
 * ⭐ **[GG.deals](https://gg.deals/)**, [AllKeyShop](https://www.allkeyshop.com/blog/) or [PSPrices](https://psprices.com/) - Game Price Trackers
 * [Reddit Favorites](https://redditfavorites.com/), [NanoReview](https://nanoreview.net/en), [Kit.co](https://kit.co/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product / Service Reviews
+* [Chipscribe](https://chipscribe.com/) - Split Service Subscription Costs Anonymously 
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
 * [NewMaxx's SSD Site](https://ssd.borecraft.com/) - SSD Buying Guide
 * [Shucks](https://shucks.top/) - External Drive Price Tracker
@@ -253,26 +255,25 @@
 
 * ⭐ **[Fun Stuff Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fun_indexes)** - Toy, Game & Experiment Indexes
 * ⭐ **[Random Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_sites)** - Random Site Generators
+* ⭐ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_image_sites)** - Random Image Sites / Some NSFW
+* ⭐ **[KnowYourMeme](https://knowyourmeme.com/)** or [FndThatMeme](https://findthatmeme.com/) - Meme Databases
 * ⭐ **[Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_browser_games)** - Browser Game Sites
 * ⭐ **[Painting / Drawing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_painting_.2F_drawing)** - Painting / Drawing Tools
 * ⭐ **[Iceberg Charts](https://icebergcharts.com/)** - Explore Obscure Topics / [/r/IcebergCharts](https://www.reddit.com/r/IcebergCharts/)
 * ⭐ **[/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/wiki/listofsubreddits/)** - List of Subreddits
 * ⭐ **[Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** - List of Multireddits
 * ⭐ **[TheOnion](https://theonion.com/)** or [DailyWrong](https://dailywrong.com/) - Fake News Articles 
-* ⭐ **[r.sine.com](https://r.sine.com/index)**, [Pretty Flix](https://cvines528.github.io/Pretty-Flix/) or [Cameron.Red](https://cameron.red/imgur/) - Random Images
 * ⭐ **[sandspiel.club](https://sandspiel.club/)** - Falling Sand Physics Sandbox 
 * ⭐ **[Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_virtual_tours)** - Virtual Tours / Travel Simulators
 * ⭐ **[Live Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)** - Watch Live Webcams
 * ⭐ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_conversational_chatbots)** - Chat with AI
-* ⭐ **[LetMeGoogleThat](https://letmegooglethat.com/)** or [GIYBF](http://giybf.com/) - Remind People that Google Exists 
-* ⭐ **[Fucking Homepage](https://fuckinghomepage.com/)** - Daily Interesting Stuff Homepage
+* ⭐ **[LetMeGoogleThat](https://letmegooglethat.com/)** or [GIYBF](http://giybf.com/) - Remind People that Google Exists
 * ⭐ **[The GIF Pronunciation Page](http://www.olsenhome.com/gif/)** - How to Pronouce "GIF"
-* ⭐ **[ThisXDoesNotExist](https://thisxdoesnotexist.com/)** - Realistic-Looking Fake Versions of Things 
 * [GIFs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_gif_tools) - View / Download GIFs
-* [Funnyjunk](https://funnyjunk.com//), [f0ck](https://f0ck.me/), [ImgFlip](https://imgflip.com/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/), [IWasteSoMuchTime](https://www.iwastesomuchtime.com/), [iFunny](https://ifunny.co/), [Imageboard Scraper](https://nik.bot.nu/), [KongouCheats](https://kongoucheats.com/), [MemeGenerator](https://memegenerator.net/), [RandomWaffle](https://randomwaffle.gbs.fm/) or [Wimp.com](https://www.wimp.com/) - Images, Videos, Memes & GIFs / Some NSFW
-* [KnowYourMeme](https://knowyourmeme.com/) - Meme Database
-* [Copypasta Text](https://copypastatext.com/) - Copypasta Database
 * [wtf.rentry](https://wtf.rentry.co/) or [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
+* [ThisXDoesNotExist](https://thisxdoesnotexist.com/) - Realistic-Looking Fake Versions of Things
+* [Fucking Homepage](https://fuckinghomepage.com/) - Daily Interesting Stuff Homepage
+* [Copypasta Text](https://copypastatext.com/) - Copypasta Database
 * [DeviantArt](https://www.deviantart.com/) or [ArtStation](https://www.artstation.com/) - User-Made Art
 * [Different Strokes](https://swsteffes.itch.io/different-strokes) - Online User-Made Art Gallery
 * [SfwChan](http://boards.swfchan.net/) - SFW Archive
