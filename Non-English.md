@@ -1658,7 +1658,7 @@
 
 ## ▷ Torrenting
 
-* [Mejor Torrent](https://mejortorrent.one/), [2](https://mejortorrent.nz/) - Video / Audio / Software / Games
+* [Mejor Torrent](https://mejortorrent.se/) - Video / Audio / Software / Games
 * [EliteTorrent](https://elitetorrent.com/) - Movies / TV / Anime
 * [zonatorrent](https://zonatorrent.tv/) - Movies / TV
 * [Grantorrent.wtf](https://grantorrent.wtf/) - Movies / TV / Documentaries
