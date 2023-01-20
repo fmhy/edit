@@ -507,11 +507,10 @@
 * ⭐ **[StreamLinks](https://reddits.soccerstreamlinks.com/)** - Sports
 * ⭐ **[Reddit Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_streams)** - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
-* ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [2](https://github.com/iptv-org/iptv) - IPTV Resources
-* ⭐ **IPTV Tools** - [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/) / [m3u to txt](https://siptv.eu/converter/) / [M3U Editor](https://m3u4u.com/) / [Dummy EPG](https://github.com/yurividal/dummyepgxml) / [HLS Downloader](https://github.com/puemos/hls-downloader)
+* ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) or [IPTV-org](https://github.com/iptv-org/iptv) - IPTV Resources
 * [TOTV](http://totv.org/) - TV / Sport
 * [IPTV Web](https://dev-iptv.web.app/) - TV / Sport
-* [123TV](http://123tv.live/) - TV / Sports
+* [123TV](http://123tv.live/), [2](http://123tvnow.com/) - TV / Sports
 * [WatchNewsLive](https://watchnewslive.tv/) - TV / Sports
 * [XUMO](https://www.xumo.tv/channels) - TV
 * [femboys.live](https://femboys.live/) - Sports
@@ -522,6 +521,7 @@
 * [720pStream](http://720pstream.tv/) - Sports
 * [FreeStreams](http://freestreams-live1.tv/) - Sports
 * [CrackStreams](https://crackstreams.io/), [2](https://crackstreams.me/) - Sports
+* [BuffStream](https://buffstream.io/i) - Sports
 * [ATDHE](http://atdhe.pro/) - Sports
 * [Stream on Sport](https://www.streamonfoot.xyz/), [2](https://www.streamonsport77.buzz/) - Sports / [Telegram](https://t.me/s/streamonsport)
 * [SportSala](https://www.sportsala.cc/) or [123Cric](https://www.123cric.com/) - Sports
@@ -553,7 +553,6 @@
 * [WatchKobe](http://watchkobe.info/) - Sports
 * [VIP Box Sports](https://www.viprow.nu/) - Sports
 * [SportsHub](https://sportshub.stream/) - Sports
-* [BuffStreams](https://buffstreams.sx/) - Sports
 * [SportHD](https://1.livesoccer.sx/) - Sports
 * [Cricfree](https://cricfree.pw/), [2](https://cricfree.io/) - Sports
 * [Crickfree.tv](http://crickfree.be/) - Sports
@@ -700,6 +699,7 @@
 * [300MBFilms](https://www.300mbfilms.com/) - Movies / TV
 * [300MBUnited](https://www.300mbunited.me/) - Movies / TV
 * [OlaMovies](https://olamovies.pro/) - HD Movies / TV / [Telegram](https://t.me/olamovies_official)
+* [UHDMovies](https://uhdmovies.org.in/) - HD Movies
 * [Blu-Ray.world](https://blu-ray.world/) - HD Movies / TV
 * [4K HDR](https://4k-hdr.org/) - HD Movies / TV
 * [4K Movies](https://4kmovies.co/) - HD Movies / TV
@@ -728,6 +728,8 @@
 * [Torrent TD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_torrent_td) - Movies / TV / Anime
 * [aryatejprakash72](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_aryatejprakash72) - Movies / TV
 * [teamqbit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_teamqbit) - Movies / TV / Anime
+* [mooo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mooo) - Movies / TV
+* [Chill](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_chill) - TV
 * [188.165.227.112](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_188.165.227.112) - Movies / TV
 * [162.12.215.254](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_162.12.215.254) - Movies
 * [163.172.97.48](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_163.172.97.48) - Movies / TV
@@ -821,7 +823,6 @@
 * [Autodownload Tools](https://redd.it/hbwnb2) - All Autodownload Tools
 * [NZBHydra](https://github.com/theotherp/nzbhydra) - Meta search for NZB indexers
 * [pirateflix](https://github.com/orinocoz/pirateflix), [wt](https://github.com/DegenCoden/wt), [GMDB](https://github.com/Dentrax/GMDB), [PeerFlix](https://github.com/mafintosh/peerflix) / [Server](https://github.com/asapach/peerflix-server) / [MPV](https://github.com/noctuid/mpv-peerflix-hook) - Torrent Streaming CLIs
-* [TorrenTV](https://torrentv.github.io/) - Stream Torrents to Apple TV, Chromecast & Roku
 * [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - Stream Torrents in VLC
 * [webtorrent-mpv-hook](https://github.com/mrxdst/webtorrent-mpv-hook) - Stream Torrents in MPV
 * [Discord Movies Bot](https://github.com/gilmaimon/Discord-Movies-Bot) or [PepperTorrent](https://github.com/husnuljahneer/PepperTorrent) - Discord Torrent Download Bots
@@ -1057,7 +1058,8 @@
 
 * ⭐ **[Video Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - General Video Tools
 * ⭐ **[Media Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_servers)** - Servers to Host / Play Media
-* ⭐ **[TVNamer](https://github.com/dbr/tvnamer)** - Automatic TV Episode File Renamer
+* ⭐ **[Video Stream Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_stream_sync)** - Video Streaming Sync / Watch Parties
+* ⭐ **[Media Data Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_file_data_automation)** - Find Media File Data Automatically
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad Free Player w/ subs, Speed Control & More
 * ⭐ **[WhereYouWatch](https://whereyouwatch.com/latest-reports/)**, [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates), [Torrent Alert](https://play.google.com/store/apps/details?id=com.torrentalert.app&hl=en&gl=US) or [/r/movieleaks](https://reddit.com/r/movieleaks) - Movie Leak Notifications
 * ⭐ **[Quality / Release Type Guide](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)** - Video Quality / Release Type Guide / [Image Guide](https://i.imgur.com/kEOrKJT.png) / [Streaming Site Guide](https://redd.it/yykvnv)
