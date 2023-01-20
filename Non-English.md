@@ -369,11 +369,12 @@
 # ► French
 
 * [P2PFR](https://forum.p2pfr.com/) - Piracy Discussion
-* [Emuline](http://www.emuline.org/) - Rom / Emulation Discussion
-* [SubSynchro](https://www.subsynchro.com/), [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - French Subtitles
+* [Emuline](http://www.emuline.org/) - ROM / Emulation Discussion
+* [SubSynchro](https://www.subsynchro.com/), [Sous-Titres](https://www.sous-titres.eu/) or [SubFactory](https://subfactory.fr/) - Subtitles
 * [Tseret](https://tseret.com/) - Game Guides
-* [BonPatron](https://bonpatron.com/) - French Spelling and Grammar Check
+* [BonPatron](https://bonpatron.com/) - Spelling and Grammar Check
 * [GoTo10](https://www.goto10.fr/) - BBS and Minitel Archives
+* [DropReference](https://dropreference.com/) - PC Building Site
 
 ## ▷ Downloading
 
@@ -1687,7 +1688,7 @@
 * [ennovelas](https://www.ennovelas.com/) - TV
 * [Sololatino](https://sololatino.net/) - Movies / TV / Anime
 * [Repelis24](https://repelis24.co/) - Movies / TV
-* [Cinecalidad](https://cinecalidad2.me/) - Movies / TV
+* [Cinecalidad](https://cinecalidad.run/) - Movies / TV
 * [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV
 * [Inkapelis](https://inkapelis.in/) - Movies / TV
 * [pelisflix](https://pelisflix.red/) - Movies / TV
