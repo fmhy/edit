@@ -33,7 +33,7 @@
 * [hikaku-sitatter](https://hikaku-sitatter.com/en/) or [Mulmetric](https://multmetric.com/) - Height Comparison Tool
 * [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
 * [NST](https://time.gov/), [Qlock](http://www.qlock.com/), [WorldTimeBuddy](https://www.worldtimebuddy.com/), [TheClockApp](https://theclockapp.vercel.app/), [TimeAndDate](https://www.timeanddate.com/) or [EveryTime Zone](https://everytimezone.com/) - World Clocks
-* [FlipClockWeb](https://flipclockweb.netlify.app/), [TheColourClock](http://thecolourclock.com/) or [HexClock](https://www.jacopocolo.com/hexclock/) - Fullscreen Clocks
+* [FlipClockWeb](https://flipclockweb.netlify.app/), [TheColourClock](http://thecolourclock.com/), [FlipClocker](https://flipclocker.com/) or [HexClock](https://www.jacopocolo.com/hexclock/) - Fullscreen Clocks
 * [Epoch Converter](https://www.epochconverter.com/) - Epoch & Unix Timestamp Conversion Tools 
 * [How Many Days Since](http://howmanydayssince.net/), [DateTimeCalculator](https://datetimecalculator.net/calculators), [CalcuDater](https://calcudater.com/) or [How Many Days Until](https://howmanydaysuntil.co/) - Time / Date Calculators
 * [e.gg Timer](https://e.ggtimer.com/) or [Juicy Timer](https://juicytimer.com/) - Timer
@@ -156,7 +156,7 @@
 * [EditCSVOnline](https://www.editcsvonline.com/) - Online CSV Editor
 * [SubjectiveSort](https://wiesenthal.github.io/SubjectiveSort/) - Create Ranked List from CSV
 * [VisiData](https://github.com/saulpw/visidata) - Spreadsheet CLI Editor
-* [ExcelFormulaBot](https://excelformulabot.com/) - Excel AI Formula Generator
+* [SheetPlus](https://sheetplus.ai/) or [ExcelFormulaBot](https://excelformulabot.com/) - Excel AI Tools
 * [Read File Online](http://www.readfileonline.com/) - Online Large Text File Viewer
 * [Office Search](http://www.enselsoftware.com/product/OfficeSearch.html) - Multi-File Text Search
 * [PDF Keywords Extractor](https://github.com/bendersej/pdf-keywords-extractor) - PDF File Text Search
@@ -683,6 +683,7 @@
 * [TryHackMe](https://tryhackme.com/), [AWS Training](https://www.aws.training/), [Comptia](https://www.comptia.org/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html), [UI.com](https://www.ui.com/training/), [CryptoHack](https://cryptohack.org/) - IT Training & Courses
 * [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - IT Certification Courses
 * [Marketing / Business Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_marketing_courses)
+* [Traders Video Library - Telegram](https://t.me/+SrWg6eTupAdnoXgY) - Trading Courses
 * [Data.gov Resources](https://resources.data.gov/) - Data Management Tools & Training
 * [NIST](https://www.nist.gov/nice/apprenticeship-finder) - NICE Apprenticeship Program Finder
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - Cloud Career Training
@@ -1719,7 +1720,8 @@ Twitch Stream Tracker
 * ⭐ **[Windows Activation Guides / Scripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_windows_activation)** - Active Windows
 * ⭐ **[Optimize-Guide](https://rentry.co/mdl-optimize-guide)** - Optimize Windows / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat) / [Resources](https://github.com/BoringBoredom/PC-Optimization-Hub)
 * ⭐ **[Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png)**, [2](https://i.imgur.com/A36Yd7F.png) / [Course](https://keycombiner.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/) or [CheatKeys](https://cheatkeys.com/CheatSheet) - Keyboard Shortcuts
-* ⭐ **[PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/)** / [GitHub](https://github.com/microsoft/PowerToys), [CWCodes](http://cwcodes.net/), [Progress Tools](https://www.progress-tools.x10.mx/), [Guru3D](https://www.guru3d.com/files-categories), [JaxCore](https://jax-core.github.io/) or [JoeWare](https://www.joeware.net/freetools/index.htm) - System Tools 
+* ⭐ **[PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/)** / [GitHub](https://github.com/microsoft/PowerToys), [CWCodes](http://cwcodes.net/), [Progress Tools](https://www.progress-tools.x10.mx/), [Guru3D](https://www.guru3d.com/files-categories), [JaxCore](https://jax-core.github.io/) or [JoeWare](https://www.joeware.net/freetools/index.htm) - System Tools
+* [Windows Repair Toolbox](https://windows-repair-toolbox.com/) - Windows Multi-Tool App
 * [Espanso](https://espanso.org/) - Typing Shortcuts / [GitHub](https://github.com/federico-terzi/espanso)
 * [TouchCursor](https://sourceforge.net/projects/touchcursor/) - Use Home Keys as Cursor
 * [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - CLI Commands Cheatsheet
@@ -2218,7 +2220,7 @@ Twitch Stream Tracker
 * [gd-utils](https://github.com/roshanconnor123/gd-utils) / [2](https://nenokkadine.github.io/GD-Utils/) or [Bypass-GDrive](https://yuudrive.me/tools/bypass-gdrive) - Google Drive Limit Bypass
 * [Google Service Accounts](https://github.com/TheCaduceus/CloneBot_V2#-service-accounts), [2](https://teletype.in/@blooem/sa) - How-to Create Google Service Accounts
 * [Generate-Service-Accounts](https://github.com/Telestosatt/Generate-Service-Accounts) - Google Service Account Generator
-* [G-Index](https://github.com/LeeluPradhan/G-Index), [Zyndex](https://zyndex.tk/), [goindex](https://github.com/alx-xlx/goindex) / [Extended](https://github.com/cheems/goindex-extended) / [Themes](https://install.kenci.workers.dev/), [GDI](https://github.com/anymeofu/GDI), [GDIndex](https://github.com/maple3142/GDIndex) or [libDrive](https://github.com/libDrive/heroku) - Google Drive Index
+* [G-Index](https://github.com/LeeluPradhan/G-Index), [Zyndex](https://zyndex.tk/), [goindex](https://github.com/alx-xlx/goindex) / [Extended](https://github.com/cheems/goindex-extended) / [Themes](https://install.kenci.workers.dev/), [GDI](https://github.com/anymeofu/GDI), [GDIndex](https://github.com/maple3142/GDIndex), [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) or [libDrive](https://github.com/libDrive/heroku) - Google Drive Indexers
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
 * [Extract_Zip](https://colab.research.google.com/drive/1L74g3bsV0YEMbDSUj4Kxrwi26mgjxVpp?usp=sharing) - Extract Zip Files in GDrive
 * [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive 
@@ -2268,10 +2270,9 @@ Twitch Stream Tracker
 * [Duplicate File Finder](https://www.auslogics.com/en/software/duplicate-file-finder/), [Fast-Duplicate-File-Finder](https://www.mindgems.com/products/Fast-Duplicate-File-Finder/Fast-Duplicate-File-Finder-About.htm), [ashisoft](https://www.ashisoft.com/), [dupscout](https://www.dupscout.com/dupscout_search_duplicate_files.html), [wisecleaner](https://www.wisecleaner.com/wise-duplicate-finder.html), [clonespy](https://www.clonespy.com/), [AllDup](http://www.alldup.info/) or [dupeGuru](https://dupeguru.voltaicideas.net/) - Duplicate File Finder 
 * [TMSU](https://github.com/oniony/TMSU), [Tagging for Windows](https://tagging.connectpaste.com/) or [SuperTag](https://github.com/amoffat/supertag) - Tag-Based Filesystem 
 * [Bulk File Renamers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bulk_file_renamers) - Easily Rename Multiple Files
-* [MediaMonkey](https://www.mediamonkey.com/), [mnamer](https://github.com/jkwill87/mnamer), [tinyMediaManager](https://www.tinymediamanager.org/), [Bruji](https://www.bruji.com/), [MediaInfoOnline](https://mediaarea.net/MediaInfoOnline) or [MediaInfo](https://mediaarea.net/en/MediaInfo) - Get Media Info for Video & Audio Files
+* [Media Data Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_file_data_automation) - Find Media File Data Automatically
 * [Filext](https://filext.com/) - Online File Viewer
 * [File Juggler](https://www.filejuggler.com/) - Organize Files Automatically
-* [Shoko](https://github.com/shokoanime) - Anime Catalog Automation 
 * [Phockup](https://github.com/ivandokov/phockup) - Organize Photo / Video Files by Date 
 * [WeCompress](https://www.wecompress.com/), [Compress2Go](https://www.compress2go.com/), [Compress.com](https://www.compresss.com/), [Cloudpresso](https://cloudpresso.com/), [Compress-Online](https://compress-online.com/) or [YouCompress](https://www.youcompress.com/) - Online File Compressors
 * [czkawka](https://github.com/qarmin/czkawka) - Remove Unnecessary Files 
