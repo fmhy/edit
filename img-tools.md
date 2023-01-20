@@ -318,6 +318,9 @@
 * [PlaygroundAI](https://playgroundai.com/)
 * [Artificy](https://artificy.com/)
 * [Dream Studio](https://beta.dreamstudio.ai/dream)
+* [Dream.a](https://dream.ai/)
+* [DreamLike](https://dreamlike.art)
+* [Gaugan2](http://imaginaire.cc/gaugan2/) / [Tutorial](https://youtu.be/r5P9-zOfWyE)
 * [hypnogram](https://hypnogram.xyz/)
 * [AI Art Generator](https://neural.love/ai-art-generator)
 * [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent)
@@ -341,6 +344,7 @@
 # ► Download Images
 
 * ⭐ **[Image Download Site Index](https://start.me/p/jj0JAp/designer)** - Download Images, Illustrations, Icons & more
+* ⭐ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_image_sites)** - Random Image Sites / Some NSFW
 * ⭐ **[gallery-dl](https://github.com/mikf/gallery-dl)**, [RipMe](https://github.com/RipMeApp/ripme), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) or [Image Extractor](https://extract.pics/) - Image Download Tools
 * ⭐ **[Lexica](https://lexica.art/)**, [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) or [Krea](https://www.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
 * ⭐ **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_photo_sites)** - Download Stock Photos / Vectors / Illustrations
@@ -537,7 +541,7 @@
 * [AnsiLove](https://www.ansilove.org/downloads.html) or [convert-ascii-to-image](https://onlineasciitools.com/convert-ascii-to-image) - ANSI / ASCII Art to PNG Converters
 * [Vector Express](https://vector.express/) - Vector Converter
 * [Vectorizer](https://www.vectorizer.io/) or [AutoTracer](https://www.autotracer.org/) - Image Vectorizer 
-* [text2img](https://master.ayra.ch/text2img/) or [CogView](https://github.com/THUDM/CogView) - Convert Text to Image
+* [text2img](https://master.ayra.ch/text2img/) or [CogView](https://github.com/THUDM/CogView) - Convert Text Screenshots to Images
 * [Selfie2Anime](https://selfie2anime.com/), [Animate-Me](https://github.com/Aneureka/animate-me) - Convert Selfies to Anime 
 
 ***
