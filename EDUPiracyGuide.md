@@ -71,7 +71,7 @@
 * [Open Source Society University](https://github.com/ossu/computer-science) - Computer Science Courses / [GitHub](https://github.com/ossu) / [Discord](https://discord.gg/wuytwK5s9h)
 * [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Computer Science Courses
 * [Learn Computer Science in 1k Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/) - Computer Science Courses
-* [Traders Video Library - Telegram](https://t.me/+SrWg6eTupAdnoXgY) - Trading courses
+* [Bioinformatics](https://github.com/ossu/bioinformatics) - Bioinformatics Courses
 * [sha256_project](https://github.com/oconnor663/sha256_project) - Applied Cryptography Course
 * [Sapience Institute](https://learn.sapienceinstitute.org/) - Religious Courses
 * [FreeCourseWebsite](https://freecoursewebsite.com/) - Udemy Courses
@@ -591,7 +591,7 @@ Simulator
 * [Vocatra](https://esite.ch/vocatra/) - Vocabulary Trainer
 * [EnglishAccentMap](https://www.englishaccentsmap.com/) - English Accent Videos / Map 
 * [Readlang](https://readlang.com/) - Learn a Language While Web Browsing 
-* [Sounter](https://sounter.com/) - Learn Language Through Songs
+* [Sounter](https://sounter.com/) or [LyricFluent](https://lyricfluent.com/) - Learn Languages via Music
 * [Polyglot](https://polyglotclub.com/) - Offline Language Exchange 
 * [South Asian Languages](https://discord.gg/TrdqTDdMba) - South Asian Language Learning
 * [StudySpanish](https://studyspanish.com/) or [LibreLingo](https://librelingo.app/) - Learn Spanish
@@ -770,7 +770,7 @@ Simulator
 * [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
 * [Retrosynthesis](http://retrosynthesis.com/) - Organic Retrosynthesis Engine / [GitHub](https://github.com/sudo-rushil/odachi)
 * [Answers.com](https://www.answers.com/) or [Quora](https://www.quora.com/) / [Bypass](https://github.com/VoidlessVoid7/quora-plus-bypass), [2](https://redd.it/ywml2b) / [Frontend](https://github.com/zyachel/quetre) - Q&A Communities
-* [Get Unstuck](https://socratic.org/), [sarthaks](https://www.sarthaks.com/) or [Brainly](https://brainly.com/) - Homework Help
+* [Edgibot](https://www.edgibot.com/), [Get Unstuck](https://socratic.org/), [sarthaks](https://www.sarthaks.com/) or [Brainly](https://brainly.com/) - Homework Help
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
 * [Answers Exchange](https://discord.gg/GFp9Rvr), [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
 * [GradesFixer](https://www.gradesfixer.com/) - Essay Samples
