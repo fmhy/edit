@@ -1458,6 +1458,7 @@
 * [EZMod](https://ezmod.ru/) - Android
 * [4pda](https://4pda.ru/forum/) - Android / iOS
 * [PDALIFE](https://pdalife.ru/) - Android / iOS / PSP  
+* [NashStore](https://nashstore.ru/) - App Store
 * [Course Hunter](https://coursehunter.net/) - Programming / Courses 
 * [prowebber](https://prowebber.ru/) - Nulled Webmaster Scripts
 
@@ -1653,7 +1654,6 @@
 * [ProgramsVirtualePC](https://www.programasvirtualespc.net/) - Software
 * [MuchosPortables](https://www.muchosportables.com/) - Portable Software
 * [exploradoresp2p](http://exploradoresp2p.com/) - ED2K Links
-* [NashStore](https://nashstore.ru/) - App Store
 * [VictorRaulRR](https://victorraulrr.info/) - Modded APKs
 
 ## ▷ Torrenting
