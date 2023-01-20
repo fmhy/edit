@@ -87,7 +87,7 @@
 
 # ► Torrent Sites
 
-**Note** - It's best to avoid sites that allow anyone to upload without consequence (like thepiratebay) when getting both software and games.
+**Note** - It's best to avoid sites that allow anyone to upload without consequence (like TPB) when getting both software and games.
 
 ***
 
@@ -130,6 +130,10 @@
 ***
 
 ## ▷ Aggregators
+
+* **Note** - Some aggregators still include TPB, so it's best to avoid using them for software and games.
+
+***
 
 * ⭐ **[Torrentz2](https://torrentz2.pics/)**, [2](https://torrentz2.nz/) - [Magnet Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrentz2_magnet_links)
 * ⭐ **[FileListing](https://filelisting.com)** 
