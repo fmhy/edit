@@ -29,7 +29,7 @@
 * [DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "games" or "roms"
 * [Gamdie](https://gamdie.com/) / [Discord](https://discord.gg/hH9sedx4de), [itch.io](https://itch.io/games/new-and-popular/featured/free) / [Downloader](https://github.com/Emersont1/itchio) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
 * [F2P Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_f2p_games) - Free to Play Games
-* [Scene Release Trackers](https://www.reddit.com/rFREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers) - Get Scene Release Updates
+* [Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers) - Get Scene Release Updates
 * [Nexus-Games](https://nexus-games.net/) - [Discord](https://discord.gg/8YXGgy4DJj)
 * [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - [Discord](https://discord.gg/HP5sQ6c) / [Archive](https://cloud.gookie.dev/index.php/s/wQmrb9Y23WdzXzZ)
 * [Crohasit](https://crohasit.net/)
