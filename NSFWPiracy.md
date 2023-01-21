@@ -374,8 +374,9 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [PornHub Plus](https://sleazyfork.org/en/scripts/380711) - Add PornHub Features
 * [movie-parser](https://github.com/dynamite-ready/movie-parser) or [practical-ai-autodetecting-nsfw](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
-* [Brainbuddy](https://www.brainbuddyapp.com/) - Porn Blocker / Android / iOS
+* [ChadGuard](https://github.com/LaGuerrePiece/ChadGuard) - Porn Blocking Extension
 * [RARBG Porn Filter](https://greasyfork.org/en/scripts/380386) - Porn Blocker for RARBG
+* [Brainbuddy](https://www.brainbuddyapp.com/) - Porn Blocker / Android / iOS
 * [EasyPeasy](https://easypeasymethod.org/) - Painlessly Quit Pornography
 
 ***
