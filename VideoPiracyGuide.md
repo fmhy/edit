@@ -507,7 +507,7 @@
 * ⭐ **[StreamLinks](https://reddits.soccerstreamlinks.com/)** - Sports
 * ⭐ **[Reddit Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_streams)** - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
-* ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) or [IPTV-org](https://github.com/iptv-org/iptv) - IPTV Resources / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
+* ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)** or [IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) or [IPTV-org](https://github.com/iptv-org/iptv) - IPTV Resources / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
 * [TOTV](http://totv.org/) - TV / Sport
 * [IPTV Web](https://dev-iptv.web.app/) - TV / Sport
 * [123TV](http://123tv.live/), [2](http://123tvnow.com/) - TV / Sports
