@@ -139,7 +139,6 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://www.goo.ne.jp/
 * http://www.najdi.si/
 * https://www.naver.com/
-* https://www.onet.pl/
 * https://www.orange.fr/portail
 * http://www.parseek.com/
 * https://www.sapo.pt/
