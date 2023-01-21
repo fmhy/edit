@@ -637,7 +637,6 @@
 * [TheTechNisk](https://thetechnisk.in/) - Modded
 * [Modyolo](https://modyolo.com/) - Modded
 * [TechzAPK](https://techzapk.com/) - Modded
-* [PlayMods](https://m.playmods.net/) - Modded
 * [AndroidTop](https://androidtop.net/en/) - Modded
 * [ApKGod](https://apkgod.net/) - Modded
 * [APKMD](https://apkmb.com/) - Modded
