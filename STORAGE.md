@@ -3177,7 +3177,17 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 ####  Video Stream Sync
 
-[Giggl](https://giggl.app/), [neko](https://neko.m1k1o.net/) / [GitHub](https://github.com/m1k1o/neko), [SyncPlay](https://syncplay.pl/), [CyTube](https://cytu.be/), [HyperBeam](https://hyperbeam.com/), [Kast](https://kast.gg/), [twoseven](https://twoseven.xyz/), [Metastream](https://getmetastream.com/), [Trast](https://trast.live/), [Watch2Gether](https://w2g.tv/), [Kosmi](https://kosmi.io/), [Invited.tv](https://invited.tv/), [Caracal Club](https://caracal.club/), [baked.live](http://baked.live/), [Surge](https://surge.live/), [Screen Share Party](https://ba.net/screen/), [WatchParty](https://www.watchparty.me/), [bear.cat](https://bear.cat/), [TurtleTV](https://turtletv.app/), [OpenTogetherTube](https://opentogethertube.com/), [WatchPubs](https://watchpubs.com/), [MovieNight](https://github.com/zorchenhimer/MovieNight), [SyncWatch](https://github.com/Semro/syncwatch), [discord-together](https://github.com/RemyK888/discord-together)
+* ⭐ [**SyncPlay**](https://syncplay.pl/)
+* ⭐ [**Watch2Gether**](https://w2g.tv/)
+* ⭐ [**SyncWatch**](https://github.com/Semro/syncwatch)
+
+[CyTube](https://cytu.be/), [baked.live](http://baked.live/), [ScrubTV](https://dizz.tube/), [twoseven](https://twoseven.xyz/), [WatchPubs](https://watchpubs.com/), [MovieNight](https://github.com/zorchenhimer/MovieNight), [WatchParty](https://www.watchparty.me/), [Kast](https://kast.gg/), [Surge](https://surge.live/), [Screen Share Party](https://ba.net/screen/), [TurtleTV](https://turtletv.app/), [OpenTogetherTube](https://opentogethertube.com/)
+
+**Browser-Sharing** 
+* ⭐ [**Kosmi**](https://kosmi.io/) (videos, games, music, and other apps)
+* ⭐ [**neko**](https://neko.m1k1o.net/) / [GitHub](https://github.com/m1k1o/neko) (Self-Hosting)
+
+[Giggl](https://giggl.app/), [HyperBeam](https://hyperbeam.com/), [Invited.tv](https://invited.tv/), [Trast](https://trast.live/), [bear.cat](https://bear.cat/), [Metastream](https://getmetastream.com/), [Caracal Club](https://caracal.club/)
 
 ***
 
