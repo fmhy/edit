@@ -1,3 +1,5 @@
+#### How-to Decode Links
+
 Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls)** or **[Script](https://pastebin.com/raw/HVAWhmG5)** / [2](https://openuserjs.org/scripts/DanielBlaze/Reddit_Base64_Decoder) to view these links. If it won't let you copy on mobile try **[troddit](https://www.troddit.com/r/FREEMEDIAHECKYEAH/wiki/base64)**.
 
 ***
@@ -1682,3 +1684,9 @@ pass: paluch
 #### mooo
 
 `aHR0cHM6Ly9wbHhhcmNodmVuYS5tb29vLmNvbS8=`
+
+***
+
+#### Shiba
+
+`aHR0cHM6Ly9zaGliYXVwbG9hZHMueHl6Lw==`
