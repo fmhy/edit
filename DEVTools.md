@@ -181,6 +181,7 @@
 * [LearningSEO](https://learningseo.io/) - SEO Guides
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Collection of Project-Based Tutorials
 * [Mobile Design Resources](https://github.com/joeygoksu/mobile-design-resources) - App Design Learning Resources
+* [CocoaDevCentral](http://cocoadevcentral.com/) - Legacy OS X / Cocoa Programming Tutorials
 * [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn Swift and build iOS App Building
 * [SwiftDump](https://github.com/neil-wu/SwiftDump) - Retrieve Swift Object info from Mach-O file
 * [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git Branching Guide
@@ -724,6 +725,7 @@
 * [Python to APK](https://github.com/Spidy20/Python_To_APK) - Convert Python Code to APK
 * [GoNative](https://gonative.io/) - Convert Websites to Mobile Apps
 * [Flutter Smooth](https://github.com/fzyzcjy/flutter_smooth) - Achieve Smooth Scrolling on Any App
+* [Media Kit](https://github.com/alexmercerind/media_kit) - Video / Audio Library for Flutter and Dart
 * [NukeUI](https://github.com/kean/NukeUI) - Lazy Image Loading for Apple Platforms
 * [Kali NetHunter](https://store.nethunter.com/en/) - Penetration Testing / Forensics Apps
 * [MobileApp-Pentest-Cheatsheet](https://github.com/fuzz-security/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
@@ -892,6 +894,7 @@
 * [ShowMD](https://github.com/UtilityHotbar/showmd) - Beautify Markdown
 * [Lyx](https://www.lyx.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors / [Guide](https://www.learnlatex.org/)
 * [Table Magic](https://stevecat.net/table-magic/) or [Markdown Convert](https://markdown-convert.com/) - Table to Markdown Converters
+* [Clipboard2Markdown](https://euangoddard.github.io/clipboard2markdown/) - Text to Markdown Converter
 * [Markdown To HTML](https://markdowntohtml.com/) - Markdown to HTML Converter
 * [AiToHTML](http://ai2html.org/) - Illustrator to HTML Converter
 * [gd2md-html](https://github.com/evbacher/gd2md-html) - Google Doc to Markdown / HTML Converter
@@ -1142,7 +1145,7 @@
 * [CodeGrepper](https://www.codegrepper.com/) - Code Search Extension
 * [ShortCode](https://shortcode.dev/), [Google Code Archive](https://code.google.com/archive/), [CodeList](https://www.codelist.cc/) or [bl.ocks](https://bl.ocks.org/) - Script / Code Indexes
 * [MoonScript](https://moonscript.org/) - Dynamic Scripting Language
-* [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/), [2](https://carbon.now.sh/), [ray.so](https://ray.so/), [Chalk](https://chalk.ist/), [CodePNG](https://www.codepng.app/) or [Show Code](https://showcode.app/) - Create Code Images
+* [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/) / [2](https://carbon.now.sh/), [CodeImage](https://codeimage.dev/), [ray.so](https://ray.so/), [Chalk](https://chalk.ist/), [CodePNG](https://www.codepng.app/) or [Show Code](https://showcode.app/) - Create Code Screenshots
 * [Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering) - Reverse Engineering Resource Index
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code
 * [thefuck](https://github.com/nvbn/thefuck) - Corrects Previous Console Command
