@@ -130,7 +130,7 @@
 * ⭐ **[OneHack](https://onehack.us/)** - Courses
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
 * ⭐ **[Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_course_megadrives)** or **[Large Collection of Useful Mega DL's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_large_collection_of_useful_mega_dl.27s)**  - Courses / Drives
-* [Course Search Engine](https://cse.google.com/cse?cx=a02efb0346a176b46) - Search for Courses
+* [Course Download CSE](https://cse.google.com/cse?cx=a02efb0346a176b46) - Multi-Site Course Search
 * [Reks Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive) - Courses
 * [OpenDirectory](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_opendirectory) - Courses
 * [Revival](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_revival) - Courses
@@ -224,6 +224,7 @@
 ## ▷ Courses
 
 * ⭐ **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
+* [Course Torrent / DDL CSE](https://cse.google.com/cse?cx=37dfc1f1ac9ef45e7) - Multi-Site Course Search
 * [Course Club](https://courseclub.me/) - Courses
 * [FreeCourseSite](http://freecoursesite.com/) - Courses
 * [DownloadFreeCourse](https://downloadfreecourse.com/) - Courses
