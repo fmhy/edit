@@ -233,7 +233,8 @@
 * [datcheck](https://github.com/pkos/datcheck) - Compare No-Intro / Redump .dat Files to ROM or Disc Collection
 * [Lunar IPS](https://www.romhacking.net/utilities/240/) - IPS Patching Utility
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
-* [WBFStoISO](http://www.wbfstoiso.com/) - WBFS to ISO Converter
+* [WBFStoISO](http://www.wbfstoiso.com/) - WBFS to ISO 
+* [CHDMAN](https://archive.org/details/chdman) - Convert File to CHD Converter / [Frontend](https://github.com/umageddon/namDHC)
 * [Batch CIA 3DS Decryptor](https://gbatemp.net/threads/batch-cia-3ds-decryptor-a-simple-batch-file-to-decrypt-cia-3ds.512385/) - Decrypt 3DS Files
 * [Cemu Guide](https://cemu.cfw.guide/) or [/r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - Cemu / BOTW Optimization Guides
 * [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
