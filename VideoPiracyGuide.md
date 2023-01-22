@@ -59,7 +59,7 @@
 * [1movies](https://1movies.life/), [2](https://real-primewire.club/), [3](https://couchtuner.fashion/), [4](https://ww2.new-primewire.com/) - Movies / TV / Anime
 * [Show Flix](https://showflix.in/lan/movie/English) - Movies / TV / Switch Audio Source in Settings
 * [VHMovies](https://vhmovies.net/) - Movies / TV / Anime
-* [Moviehdkh](https://www.moviehdkh.com/) - Movies 
+* [Moviehdkh](https://www.moviehdkh.com/) - Movies
 * [Flixtor.stream](https://flixtor.stream/) - Movies / TV
 * [MoviesJoy](https://moviesjoy.best/) - Movies / TV
 * [VidStore](https://stream.vidzstore.com/) - Movies
@@ -68,6 +68,7 @@
 * [162.12.215.254](http://162.12.215.254/) - Movies
 * [aflaam](https://aflaam.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Tainio-Mania](https://tainio-mania.online/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [Filma24](http://filma24.ch/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Ling.online](https://ling.online/en/videos/films/) - Movies / TV
 * [Daily iFlix](https://dailyiflix.com) - Movies / TV
 * [PrimeMoviesFlix](https://primemoviesflix.com) - Movies / TV / Anime
@@ -501,13 +502,12 @@
 * ⭐ **[Sportsurge](https://sportsurge.net/)**- Sports / Stream Locator
 * ⭐ **[Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - TV / Sports
 * ⭐ **[Jackal](https://jackal.surge.sh/)** - TV / Sports
-* ⭐ **[USTVGO](https://ustvgo.tv/)** - TV / Sports
 * ⭐ **[Sports Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming)** - Sports
 * ⭐ **[StreamEast](https://www.streameast.xyz/)** - Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)
 * ⭐ **[StreamLinks](https://reddits.soccerstreamlinks.com/)** - Sports
 * ⭐ **[Reddit Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_streams)** - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
-* ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) or [IPTV-org](https://github.com/iptv-org/iptv) - IPTV Resources / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
+* ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) or [IPTV-org](https://github.com/iptv-org/iptv) - IPTV Resources / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
 * [TOTV](http://totv.org/) - TV / Sport
 * [IPTV Web](https://dev-iptv.web.app/) - TV / Sport
 * [123TV](http://123tv.live/), [2](http://123tvnow.com/) - TV / Sports
@@ -546,6 +546,7 @@
 * [PhotoCall](https://photocall.tv/) - TV
 * [puffer](https://puffer.stanford.edu/) - TV
 * [WorldCupFootball](http://www.worldcupfootball.me/) - Sports
+* [SoccerWorldCup](https://soccerworldcup.me/) - Sports
 * [Icelz](https://icelz.newsrade.com/) - Sports
 * [livetv](http://livetv.sx) - Sports
 * [bilaSport](http://bilasport.net/) - Sports
@@ -565,7 +566,7 @@
 * [WorldStreams](https://en.worldstreams.net/) - Sports
 * [fromHOT](http://www.fromhots.com/) - Sports
 * [Volokit](https://community.volokit.com/) - Sports
-* [StrikeOut](https://ko.strikeout.cc/) - Sports
+* [StrikeOut](https://strikeout.ws/) - Sports
 * [4stream](https://4stream.gg/portal.html) - Sports
 * [BestSolaris](http://bestsolaris.com/) - Sports
 * [Strumyk](http://strumyk.tv/) - Sports
@@ -578,7 +579,6 @@
 * [NodelayTV](http://nodelaytv.pw/) - Sports
 * [Rojadirecta](https://www.rojadirecta.watch/) - Sports
 * [SportsRP](http://www.sportsrp.com/free-live-streams/) - Sports
-* [VIPLeague](https://vipleague.cc/) / [2](https://vipleague.im/) / [3](https://en.vipleague.tv/) or [VIPBox](https://www.vipbox.lc/) - Sports 
 * [MyP2P](https://www.myp2p.at/) - Sports
 * [BoxingStreams100](https://reddits.boxingstreams100.com/) - Boxing
 * [NBA Streams](https://reddit.nbastream.nu/) - NBA
