@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/DJYyiK4.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/qyBPSbV.png)** - For mobile users
 
 ***
 
@@ -54,8 +54,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ⭐ **[ChatGPT](https://chat.openai.com/)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chatgpt_tools)
 
-
-[Transformer](https://transformer.huggingface.co/), [OpenAI](https://beta.openai.com/playground), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en), [TextSynth](https://textsynth.com/playground.html), [MagicPrompt](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion), [Talk to Transformer](https://app.inferkit.com/demo), [InkForAll](https://app.inkforall.com/tools), [EleutherAI](https://6b.eleuther.ai/), [Essaytyper](http://www.essaytyper.com/), [EssayGen](https://github.com/daijro/EssayGen/)
+[Transformer](https://transformer.huggingface.co/), [OpenAI](https://beta.openai.com/playground), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en), [TextSynth](https://textsynth.com/playground.html), [MagicPrompt](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion), [Talk to Transformer](https://app.inferkit.com/demo), [InkForAll](https://app.inkforall.com/tools), [EleutherAI](https://6b.eleuther.ai/), [Essaytyper](http://www.essaytyper.com/), [EssayGen](https://github.com/daijro/EssayGen/), [WriteSonic](https://writesonic.com/chat)
 
 ***
 
@@ -384,7 +383,7 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 
 #### ChatGPT Tools
 
-[Resources](https://github.com/humanloop/awesome-chatgpt) / [Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop) / [CLI](https://github.com/diciaup/assistant-cli), [2](https://github.com/PopDaddyGames/ChatGPT-Terminal) / [Prompts](https://prompts.chat/) / [Matrix Theme](https://github.com/lvwzhen/ChatGPT-Matrix-Style) / [AI Detection](https://huggingface.co/openai-detector/) 
+[Resources](https://github.com/humanloop/awesome-chatgpt) / [Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop) / [CLI](https://github.com/diciaup/assistant-cli), [2](https://github.com/PopDaddyGames/ChatGPT-Terminal) / [Prompts](https://prompts.chat/) / [Save Chats / Share Prompts](https://github.com/benf2004/ChatGPT-History) / [Matrix Theme](https://github.com/lvwzhen/ChatGPT-Matrix-Style) / [AI Detection](https://huggingface.co/openai-detector/) 
 
 ***
 
@@ -404,7 +403,7 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 
 #### Code Editors 
 
-[SpaceVim](https://spacevim.org/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/) / [Frontend](https://github.com/rohit-px2/nvui) / [Motions](https://github.com/ggandor/lightspeed.nvim), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/) / [Docs](https://www.emacsdocs.org/), [Lite XL](https://lite-xl.github.io/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro Editor](https://micro-editor.github.io/index.html), [OpenOffice](http://bluefish.openoffice.nl/index.html) / [Templates](https://templates.openoffice.org/en), [KomodoEdit](https://github.com/Komodo/KomodoEdit), [TextAdept](https://foicica.com/textadept), [SpaceMacs](http://spacemacs.org/), [Notepad2](https://www.flos-freeware.ch/notepad2.html), [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), [CudaText](https://cudatext.github.io/) / [Git](https://github.com/Alexey-T/CudaText), [Light Table](http://lighttable.com/), [4coder](https://4coder.itch.io/4coder), [lapce](https://lapce.dev/) / [GitHub](https://github.com/lapce/lapce), [Warp](https://www.warp.dev/), [AvaloniaUI](https://avaloniaui.net/), [MassCode](https://masscode.io/), [libvim](https://github.com/onivim/libvim), [amp](https://github.com/jmacdonald/amp)
+[SpaceVim](https://spacevim.org/), [Pulsar](https://pulsar-edit.dev/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/) / [Frontend](https://github.com/rohit-px2/nvui) / [Motions](https://github.com/ggandor/lightspeed.nvim), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/) / [Docs](https://www.emacsdocs.org/), [Lite XL](https://lite-xl.github.io/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro Editor](https://micro-editor.github.io/index.html), [OpenOffice](http://bluefish.openoffice.nl/index.html) / [Templates](https://templates.openoffice.org/en), [KomodoEdit](https://github.com/Komodo/KomodoEdit), [TextAdept](https://foicica.com/textadept), [SpaceMacs](http://spacemacs.org/), [Notepad2](https://www.flos-freeware.ch/notepad2.html), [Sublime Text](https://www.sublimetext.com/), [CudaText](https://cudatext.github.io/) / [Git](https://github.com/Alexey-T/CudaText), [Light Table](http://lighttable.com/), [4coder](https://4coder.itch.io/4coder), [lapce](https://lapce.dev/) / [GitHub](https://github.com/lapce/lapce), [Warp](https://www.warp.dev/), [AvaloniaUI](https://avaloniaui.net/), [MassCode](https://masscode.io/), [libvim](https://github.com/onivim/libvim), [amp](https://github.com/jmacdonald/amp)
 
 **Mac Code Editors**
 
@@ -466,7 +465,7 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 
 ⭐ **[ChatGPT](https://chat.openai.com/)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chatgpt_tools)
 
-[Replika](https://replika.ai/), [Mitsuku](https://www.pandorabots.com/mitsuku/), [cleverbot](https://www.cleverbot.com/), [eviebot](https://www.eviebot.com/en/), [Kajiwoto](https://kajiwoto.com/) (ai builder), [Talk-Bot](http://www.frontiernet.net/~wcowart/index.shtml), [Madam Zena](http://www.madamzena.com/)
+[Replika](https://replika.ai/), [Mitsuku](https://www.pandorabots.com/mitsuku/), [cleverbot](https://www.cleverbot.com/), [eviebot](https://www.eviebot.com/en/), [Kajiwoto](https://kajiwoto.com/) (ai builder), [Talk-Bot](http://www.frontiernet.net/~wcowart/index.shtml), [Madam Zena](http://www.madamzena.com/), [WriteSonic](https://writesonic.com/chat)
 
 ***
 
@@ -821,7 +820,7 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 
 #### File Backup Tools
 
-[Cloning Tools](https://github.com/SpamVerse/Piratezparty/blob/main/Cloning-Tools.md), [BackupPC](https://backuppc.github.io/backuppc/), [TeraCopy](https://www.codesector.com/teracopy), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [DeltaCopy](http://www.aboutmyip.com/AboutMyXApp/DeltaCopy.jsp), [restic](https://restic.net/) / [GitHub](https://github.com/restic/restic), [UrBackup](https://www.urbackup.org/), [BlobBackup](https://github.com/BlobBackup/BlobBackup), [Paragon](https://www.paragon-software.com/free/br-free/), [ZPaq](http://mattmahoney.net/dc/zpaq.html), [SafeCopy](https://www.elwinsoft.com/safecopy-free.html), [FastCopy](http://fastcopy.jp/), [OCCT](https://www.ocbase.com/), [Aomei](https://www.ubackup.com/), [Veeam](https://www.veeam.com/), [Duplicati](https://www.duplicati.com/), [Borg](https://www.borgbackup.org/), [USBImager](https://bztsrc.gitlab.io/usbimager/)
+[Cloning Tools](https://github.com/SpamVerse/Piratezparty/blob/main/Cloning-Tools.md), [BackupPC](https://backuppc.github.io/backuppc/), [TeraCopy](https://www.codesector.com/teracopy), [Ashampoo Backup 202](https://www.ashampoo.com/en/usd/lpa/VNR-1759), [DeltaCopy](http://www.aboutmyip.com/AboutMyXApp/DeltaCopy.jsp), [restic](https://restic.net/) / [GitHub](https://github.com/restic/restic), [UrBackup](https://www.urbackup.org/), [BlobBackup](https://github.com/BlobBackup/BlobBackup), [Paragon](https://www.paragon-software.com/free/br-free/), [ZPaq](http://mattmahoney.net/dc/zpaq.html), [SafeCopy](https://www.elwinsoft.com/safecopy-free.html), [FastCopy](http://fastcopy.jp/), [OCCT](https://www.ocbase.com/), [Aomei](https://www.ubackup.com/), [Veeam](https://www.veeam.com/), [Duplicati](https://www.duplicati.com/), [Borg](https://www.borgbackup.org/), [USBImager](https://bztsrc.gitlab.io/usbimager/), [Toucan](https://github.com/PortableApps/Toucan)
 
 ***
 
@@ -903,7 +902,7 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 * ⭐ **[SyncThing](https://syncthing.net/)**
 * ⭐ **[aQRoss](https://aqross.app/)** - Share Files via QR Codes
 
-[dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [keybase](https://book.keybase.io/docs/files), [file.pizza](https://file.pizza/), [Transfernow](https://www.transfernow.net/en), [onionshare](https://onionshare.org/), [OwnCloud](https://owncloud.com/), [MLDonkey](https://github.com/ygrek/mldonkey), [Slate](https://slate.host/), [etesync](https://www.etesync.com/), [WinSCP](https://winscp.net/eng/index.php), [freefilesync](https://freefilesync.org/), [allwaysync](https://allwaysync.com/), [sharik](https://github.com/marchellodev/sharik), [Simple.Savr](https://www.ssavr.com/), [FileBrowser](https://filebrowser.org/), [Snapdrop](https://snapdrop.net/), [KDEConnect](https://kdeconnect.kde.org/), [Resilio](https://www.resilio.com/individuals/), [croc](https://f-droid.org/packages/com.github.howeyc.crocgui), [Ziggs](https://ziggs.io/), [dsynchronize](http://www.dimio.altervista.org/eng/dsynchronize/dsynchronize.html), [landrop](https://landrop.app/), [uploadtransfer](https://uploadtransfer.com/), [Surge](https://getsurge.io/), [odin](https://github.com/odinapp/odin), [brig](https://github.com/sahib/brig), [saladroom](https://saladroom.net/), [passfile](https://passfile.me/), [blymp.io](https://blymp.io/) / [GitHub](https://github.com/vantezzen/blymp-io), [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop-web), [sendfiles](https://sendfiles.online/), [Blaze](https://blaze.vercel.app/) / [GitHub](https://github.com/blenderskool/blaze), [XD-Torrent](https://xd-torrent.github.io/), [lightning](https://lightning-share.vercel.app/), [croc](https://github.com/schollz/croc), [Simple-Storage](https://github.com/ducheng0/Simple-Storage), [RDrop](https://rdrop.link/), [webdrop](https://webdrop.space/), [MyAirBridge](https://www.myairbridge.com/), [Sprend](https://sprend.com/), [JumboMail](https://www.jumbomail.me/), [PlusTransfer](https://www.plustransfer.com/), [SmartFTP](https://www.smartftp.com/), [Wing FTP](https://www.wftpserver.com/), [Xlight](https://xlightftpd.com/), [uschovna](https://www.uschovna.cz/), [posilej](https://posilej.cz/), [filetransfer](https://filetransfer.kpn.com/), [febbox](https://www.febbox.com/), [Diode](https://diode.io/), [WebWormhole](https://webwormhole.io/), [Destiny](https://github.com/LeastAuthority/destiny), [filepress](https://filepress.click/)
+[dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [keybase](https://book.keybase.io/docs/files), [file.pizza](https://file.pizza/), [Transfernow](https://www.transfernow.net/en), [onionshare](https://onionshare.org/), [OwnCloud](https://owncloud.com/), [MLDonkey](https://github.com/ygrek/mldonkey), [Slate](https://slate.host/), [etesync](https://www.etesync.com/), [WinSCP](https://winscp.net/eng/index.php), [freefilesync](https://freefilesync.org/), [allwaysync](https://allwaysync.com/), [sharik](https://github.com/marchellodev/sharik), [Simple.Savr](https://www.ssavr.com/), [FileBrowser](https://filebrowser.org/), [Snapdrop](https://snapdrop.net/), [KDEConnect](https://kdeconnect.kde.org/), [Resilio](https://www.resilio.com/individuals/), [croc](https://f-droid.org/packages/com.github.howeyc.crocgui), [Ziggs](https://ziggs.io/), [dsynchronize](http://www.dimio.altervista.org/eng/dsynchronize/dsynchronize.html), [landrop](https://landrop.app/), [uploadtransfer](https://uploadtransfer.com/), [Surge](https://getsurge.io/), [odin](https://github.com/odinapp/odin), [brig](https://github.com/sahib/brig), [saladroom](https://saladroom.net/), [passfile](https://passfile.me/), [blymp.io](https://blymp.io/) / [GitHub](https://github.com/vantezzen/blymp-io), [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop-web), [sendfiles](https://sendfiles.online/), [Blaze](https://blaze.vercel.app/) / [GitHub](https://github.com/blenderskool/blaze), [XD-Torrent](https://xd-torrent.github.io/), [lightning](https://lightning-share.vercel.app/), [croc](https://github.com/schollz/croc), [Simple-Storage](https://github.com/ducheng0/Simple-Storage), [RDrop](https://rdrop.link/), [webdrop](https://webdrop.space/), [MyAirBridge](https://www.myairbridge.com/), [Sprend](https://sprend.com/), [JumboMail](https://www.jumbomail.me/), [PlusTransfer](https://www.plustransfer.com/), [SmartFTP](https://www.smartftp.com/), [Wing FTP](https://www.wftpserver.com/), [Xlight](https://xlightftpd.com/), [uschovna](https://www.uschovna.cz/), [posilej](https://posilej.cz/), [filetransfer](https://filetransfer.kpn.com/), [febbox](https://www.febbox.com/), [Diode](https://diode.io/), [WebWormhole](https://webwormhole.io/), [Destiny](https://github.com/LeastAuthority/destiny), [filepress](https://filepress.click/), [Send.cm](https://send.cm/)
 
 **Android File Sync**
 
@@ -1300,7 +1299,7 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 
 **IP Leak Tests**
 
-[BrowserLeaks](https://browserleaks.com/), [Astrill](https://rentry.co/astrill), [Comparitech](https://www.comparitech.com/privacy-security-tools/dns-leak-test/), [Netease](https://nstool.netease.com/), [Do I leak?](https://www.doileak.com/), [IPLeak](https://ipleak.org/), [IPLeak.com](https://ipleak.com/)
+[BrowserLeaks](https://browserleaks.com/), [Astrill](https://rentry.co/astrill), [Comparitech](https://www.comparitech.com/privacy-security-tools/dns-leak-test/), [Netease](https://nstool.netease.com/), [Do I leak?](https://www.doileak.com/), [IPLeak](https://ipleak.org/) / [2](https://ipleak.com/) / [3](https://ipleak.net)
 
 **DNS Leak Tests**
 
@@ -1413,7 +1412,7 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 
 ⭐ **[Best Player](https://www.microsoft.com/store/productId/9WZDNCRDPQSX)** / [Unlock](https://rentry.co/paidAppsMsStore)
 
-[hlsplayer](https://www.hlsplayer.net/), [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV), [ustvgo-iptv](https://github.com/interlark/ustvgo-iptv)
+[hlsplayer](https://www.hlsplayer.net/), [PlaylistEditorTV](https://github.com/Isayso/PlaylistEditorTV), [ustvgo-iptv](https://github.com/interlark/ustvgo-iptv), [LivePush](https://livepush.io/hls-player/index.html)
 
 ***
 
@@ -1495,7 +1494,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Media File Data Automation
 
-[MediaMonkey](https://www.mediamonkey.com/), [mnamer](https://github.com/jkwill87/mnamer), [MediaInfo](https://mediaarea.net/en/MediaInfo), [tinyMediaManager](https://www.tinymediamanager.org/), [Bruji](https://www.bruji.com/), [MediaInfoOnline](https://mediaarea.net/MediaInfoOnline), [FileBot](https://www.filebot.net/) 
+[MediaMonkey](https://www.mediamonkey.com/), [mnamer](https://github.com/jkwill87/mnamer), [MediaInfo](https://mediaarea.net/en/MediaInfo) / [Online](https://mediaarea.net/MediaInfoOnline), [tinyMediaManager](https://www.tinymediamanager.org/), [Bruji](https://www.bruji.com/), [FileBot](https://www.filebot.net/) 
 
 * [TVNamer](https://github.com/dbr/tvnamer), [TVRename](https://www.tvrename.com/) - TV File Data Automation
 * [Shoko](https://github.com/shokoanime) - Anime File Data Automation
@@ -1861,7 +1860,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Dr.Graph](https://drgraph.cf/)** / [API](https://drgraph.cf/api)
 * ⭐ **[disroot](https://bin.disroot.org/)** or [RIN Privatebin](https://privatebin.rinuploads.org/)
 
-[TextBin](https://textbin.xyz/), [PrivateBin](https://privatebin.info/directory/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [pst.moe](https://pst.moe/), [Hastebin](https://hastebin.com/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [bin.idrix](https://bin.idrix.fr/),  [teknik](https://paste.teknik.io/), [ghostbin](https://ghostbin.com/), [cryptobin](https://cryptobin.co/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [cyberdrop bin](https://bin.cyberdrop.me/), [fssquad](https://share.fssquad.com/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [katb](https://katb.in/), [paaster](https://paaster.io/), [nopaste](https://nopaste.ml/), [pastery](https://www.pastery.net/), [privatebin](https://privatebin.net/), [pastebin.pl](https://pastebin.pl/, [paste.gg](https://paste.gg/), [bpa](https://bpa.st/), [0bin](https://0bin.net/), [Spectre](https://pst.klgrth.io/), [pastehub](https://pastehub.net/), [bin](https://bin.gy/), [paste.fo](https://paste.fo/), [sprunge](http://sprunge.us/), [clbin](https://clbin.com/), [nekobin](https://nekobin.com/), [hasbin](https://hashb.in), [Defuse](https://defuse.ca/pastebin.htm), [gocatgo](https://github.com/vaaleyard/gocatgo)
+[TextBin](https://textbin.xyz/), [PrivateBin](https://privatebin.info/directory/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [pst.moe](https://pst.moe/), [Hastebin](https://hastebin.com/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [bin.idrix](https://bin.idrix.fr/),  [teknik](https://paste.teknik.io/), [ghostbin](https://ghostbin.me/), [cryptobin](https://cryptobin.co/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [cyberdrop bin](https://bin.cyberdrop.me/), [fssquad](https://share.fssquad.com/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [katb](https://katb.in/), [paaster](https://paaster.io/), [nopaste](https://nopaste.ml/), [pastery](https://www.pastery.net/), [privatebin](https://privatebin.net/), [pastebin.pl](https://pastebin.pl/, [paste.gg](https://paste.gg/), [bpa](https://bpa.st/), [0bin](https://0bin.net/), [Spectre](https://pst.klgrth.io/), [pastehub](https://pastehub.net/), [bin](https://bin.gy/), [paste.fo](https://paste.fo/), [sprunge](http://sprunge.us/), [clbin](https://clbin.com/), [nekobin](https://nekobin.com/), [hasbin](https://hashb.in), [Defuse](https://defuse.ca/pastebin.htm), [gocatgo](https://github.com/vaaleyard/gocatgo)
 
 ***
 
@@ -1913,7 +1912,7 @@ Add the following commands to a search to manually scrape each site.
 
 ⭐ **[Unblockit](https://unblockit.bet/)** / [2](https://unblockit.pages.dev/) / [3](https://unblock_it.gitlab.io/site/) / [4](https://unblockit.how/) / [5](https://unblockit.llc/) / [6](https://unblockit.how/) / [7](https://unblockit.blue/) / [8](https://unblockit.dev/) / [9](https://unblockit.page/) / [/r/Unblockit](https://www.reddit.com/r/Unblockit/)
 
-[Knaben's Proxy List](https://knaben.info/), [TorrentMirror](https://www.torrentmirror.net/#proxy-list-container), [unblockninja](https://unblockninja.com/), [uProxy](https://uproxy.to/), [unblocktorrent](https://unblocktorrent.com/), [TorrentBay](https://torrentbay.to/), [unblock.soy](https://unblock.soy/) / [2](https://en-proxy.com/) / [3](https://unb.how/) / [4](https://unblockedscene.com/), [piracyproxy](https://piracyproxy.page/), [unblockedfor](https://unblockedfor.me/), [unblocksource](https://unblocksource.net/), [dirproxy](https://dirproxy.cc/), [unblockproject](https://unblockproject.org/, [ProxyNinja](https://proxyninja.org/), [ABCProxy](https://abcproxy.org/), [nocensor](https://nocensor.lol/)
+[Knaben's Proxy List](https://knaben.info/), [TorrentMirror](https://www.torrentmirror.net/#proxy-list-container), [unblockninja](https://unblockninja.com/), [uProxy](https://uproxy.to/), [unblocktorrent](https://unblocktorrent.com/), [TorrentBay](https://torrentbay.to/), [unblock.soy](https://unblock.soy/) / [2](https://en-proxy.com/) / [3](https://unb.how/) / [4](https://unblockedscene.com/), [piracyproxy](https://piracyproxy.page/), [unblockedfor](https://unblockedfor.me/), [unblocksource](https://unblocksource.net/), [dirproxy](https://dirproxy.cc/), [unblockproject](https://unblockproject.org/, [ProxyNinja](https://proxyninja.org/), [ABCProxy](https://abcproxy.org/)
 
 ***
 
@@ -2337,7 +2336,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### SFX / Loops
 
-[Adobe Audition Downloads](https://offers.adobe.com/en/na/audition/offers/audition_dlc.html), [Free-Loops](http://free-loops.com/), [FreeSOundEffects](https://www.freesoundeffects.com/), [Freesound](http://freesound.org/), [soundbible](https://soundbible.com/), [flashkit](http://www.flashkit.com/soundfx), [ZapsPlat](https://www.zapsplat.com/), [OrangeFreeSounds](https://orangefreesounds.com/), [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) / [Downloader](https://github.com/FThompson/BBCSoundDownloader), [looperman](https://www.looperman.com/loops), [sonniss2019](http://ftpmirror.your.org/pub/misc/sonniss2019/), [storyblocks](https://www.storyblocks.com/), [LabChirp](http://labbed.net/software/labchirp/), [Bfxr](https://www.bfxr.net/), [Noizable](https://noizable.media/), [sampleswap](https://sampleswap.org/), [samplefocus](https://samplefocus.com/), [soundpacks](https://soundpacks.com/), [Soundfishing](https://www.soundfishing.eu/), [SampleScope](https://samplescope.app/), [splice](https://splice.com/), [MeowPad](https://meowpad.me/), [/r/LoopKits](https://www.reddit.com/r/loopkits/)
+[Adobe Audition Downloads](https://offers.adobe.com/en/na/audition/offers/audition_dlc.html), [Free-Loops](http://free-loops.com/), [FreeSOundEffects](https://www.freesoundeffects.com/), [Freesound](http://freesound.org/), [soundbible](https://soundbible.com/), [flashkit](http://www.flashkit.com/soundfx), [ZapsPlat](https://www.zapsplat.com/), [OrangeFreeSounds](https://orangefreesounds.com/), [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) / [Downloader](https://github.com/FThompson/BBCSoundDownloader), [looperman](https://www.looperman.com/loops), [sonniss2019](http://ftpmirror.your.org/pub/misc/sonniss2019/), [storyblocks](https://www.storyblocks.com/), [LabChirp](http://labbed.net/software/labchirp/), [Bfxr](https://www.bfxr.net/), [Noizable](https://noizable.media/), [sampleswap](https://sampleswap.org/), [samplefocus](https://samplefocus.com/), [soundpacks](https://soundpacks.com/), [Soundfishing](https://www.soundfishing.eu/), [SampleScope](https://samplescope.app/), [splice](https://splice.com/), [MeowPad](https://meowpad.me/), [/r/LoopKits](https://www.reddit.com/r/loopkits/), [DripChord](https://dripchord.com/)
 
 ***
 
@@ -2394,6 +2393,12 @@ Add the following commands to a search to manually scrape each site.
 * [publicdomainsherpa](http://www.publicdomainsherpa.com/free-sheet-music.html)
 * [musescore](https://musescore.org/en) + [Downloader](https://github.com/Xmader/musescore-downloader) 
 * [JMSheetMusic](https://t.me/JMSheetMusic) (Jewish Music)
+
+***
+
+#### Similar Site Indexes
+
+[Similar Sites](https://www.similarsites.com/), [SimilarWeb](https://www.similarweb.com/), [xRanks](https://xranks.com/), [similarsitesearch](https://www.similarsitesearch.com/), [TopSimilarSites](https://www.topsimilarsites.com/), [SuchSites](https://suchsites.com/), [MoreOfIt](http://www.moreofit.com/), [odir.us](https://odir.us/), [RawRanked](https://rawranked.com/), [Sitelike.org](https://www.sitelike.org/), [SitesLike](https://www.siteslike.com/) 
 
 ***
 
@@ -2603,7 +2608,9 @@ Add the following commands to a search to manually scrape each site.
 
 #### Subreddit Discovery
 
-[/r/DiscoverReddit Index](https://www.reddit.com/r/DiscoverReddit/wiki/index), [/r/Serendipity](https://www.reddit.com/r/Serendipity), [/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/), [/r/wowthissubexists](https://www.reddit.com/r/wowthissubexists/), [/r/findareddit](https://www.reddit.com/r/findareddit/), [/r/trendingsubreddits](https://www.reddit.com/r/trendingsubreddits), [/r/TrendingReddits/](https://www.reddit.com/r/TrendingReddits/), [subreddit_map](http://www.jacobsilterra.com/subreddit_map/network/index.html), [SubredditMentionsGraph](https://dmarx.github.io/SubredditMentionsGraph/network/), [redditviz](http://rhiever.github.io/redditviz/clustered/), [Subreddit User-Overlap](https://subredditstats.com/subreddit-user-overlaps/)
+⭐ **[redditlist](http://redditlist.com/)**
+
+[sayit](https://anvaka.github.io/sayit/), [Vizit](http://redditstuff.github.io/sna/vizit/), [Map of Reddit](https://anvaka.github.io/map-of-reddit), [Subbed](https://www.subbed.org/), [RedditViz](https://rhiever.github.io/redditviz/), [subreddits](http://subreddits.org/), [/r/DiscoverReddit Index](https://www.reddit.com/r/DiscoverReddit/wiki/index), [/r/Serendipity](https://www.reddit.com/r/Serendipity), [/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/), [/r/wowthissubexists](https://www.reddit.com/r/wowthissubexists/), [/r/findareddit](https://www.reddit.com/r/findareddit/), [/r/trendingsubreddits](https://www.reddit.com/r/trendingsubreddits), [/r/TrendingReddits/](https://www.reddit.com/r/TrendingReddits/), [subreddit_map](http://www.jacobsilterra.com/subreddit_map/network/index.html), [SubredditMentionsGraph](https://dmarx.github.io/SubredditMentionsGraph/network/), [redditviz](http://rhiever.github.io/redditviz/clustered/), [Subreddit User-Overlap](https://subredditstats.com/subreddit-user-overlaps/), [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/), [redsim](https://anvaka.github.io/redsim/)
 
 ***
 
@@ -2795,6 +2802,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[DrFileStreamBot](https://t.me/DrFileStreamBot)**, [UploadBots](https://t.me/UploadBots), [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot), [Uploadgram](https://uploadgram.me/) / [Bot](https://t.me/uploadgrammebot), [LinkToFileTGBot](https://t.me/LinkToFileTGBot, [TelegramCloud](https://github.com/iw4p/telegram-cloud), [UploadURL](https://t.me/UploadsRobot), [easy_share_bot](https://t.me/easy_share_bot), [UploadBot](https://t.me/uploadbot) or [UploadDxbot](https://t.me/UploadDxbot) - Upload Files to Telegram
 * [GdriveXbot](https://t.me/GdriveXbot), [google-drive-telegram-bot](https://github.com/viperadnan-git/), [HK_upload_bot](https://t.me/HK_driveupload_bot), [gdrive_upload_bot](https://t.me/gdrive_upload_bot), [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot), [driveuploadbot](https://t.me/driveuploadbot) or [gdriveupme_bot](https://t.me/gdriveupme_bot) - Google Drive Telegram upload bots 
+* [DrClonerBot](https://t.me/DrClonerBot) - GDrive Clone Bot
 * [Google Drive Bot](https://t.me/Gdriveit_bot) - Google Drive Client in Telegram
 * [SearchX](https://github.com/iamLiquidX/SearchX) - Telegram GDrive Search Bot
 * [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot
