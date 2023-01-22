@@ -136,6 +136,8 @@
 ***
 
 * ⭐ **[Torrentz2](https://torrentz2.pics/)**, [2](https://torrentz2.nz/) - [Magnet Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrentz2_magnet_links)
+* ⭐ **[BTDigg](https://btdig.com/index.htm)** - [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/) / [i2p](http://btdigg.i2p/)
+* ⭐ **[BT4G](https://bt4g.org/)**
 * ⭐ **[FileListing](https://filelisting.com)** 
 * ⭐ **[snowfl](https://snowfl.com/)** 
 * ⭐ **[Knaben](https://knaben.eu/)**
@@ -152,7 +154,6 @@
 * [BTDB](https://btdb.eu/)
 * [TNTBack](https://tntback.github.io/)
 * [BTMET](https://btmet.com/) 
-* [BT4G](https://bt4g.org/)
 * [ExtraTorrent](https://extratorrent.unblockit.kim/) 
 * [Torrent Download](http://www.torentdownloads.narod.ru/) 
 * [TorrentMag](https://www.torrentmag.net/) 
@@ -175,7 +176,6 @@
 * [BitCQ](https://bitcq.com/)
 * [TorrentSearchRobot](https://t.me/TorrentSearchRoBot) - Telegram Torrent Search
 * [Torrents.csv](https://torrents-csv.ml/#/) - Torrent CSV Search
-* [BTDigg](https://btdig.com/index.htm) - Torrent DHT Search Engine / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/) / [i2p](http://btdigg.i2p/)
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Magnet Web App Search
 * [Torrentinim](https://github.com/sergiotapia/torrentinim) - Self-Hosted Torrent Search Engine
 * [torrentsearcher_bot](https://t.me/torrentsearcher_bot), [torrenthuntbot](https://t.me/torrenthuntbot) or [FDTorrentSearchBot](https://t.me/FDTorrentSearchBot) - Telegram Torrent Search Bot 
