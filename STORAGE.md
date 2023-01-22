@@ -3183,8 +3183,6 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 [CyTube](https://cytu.be/), [baked.live](http://baked.live/), [ScrubTV](https://dizz.tube/), [twoseven](https://twoseven.xyz/), [WatchPubs](https://watchpubs.com/), [MovieNight](https://github.com/zorchenhimer/MovieNight), [WatchParty](https://www.watchparty.me/), [Kast](https://kast.gg/), [Surge](https://surge.live/), [Screen Share Party](https://ba.net/screen/), [TurtleTV](https://turtletv.app/), [OpenTogetherTube](https://opentogethertube.com/)
 
-[Stream New](https://stream.new/) / [GitHub](https://github.com/muxinc/stream.new) (nice but idt its supposed to be here?)
-
 **Browser-Sharing** 
 * ⭐ [**Kosmi**](https://kosmi.io/) (videos, games, music, and other apps)
 * ⭐ [**neko**](https://neko.m1k1o.net/) / [GitHub](https://github.com/m1k1o/neko) (Self-Hosting)
