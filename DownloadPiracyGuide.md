@@ -23,6 +23,7 @@
 * [Manny Hackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_manny_hackers)
 * [Public Drive Bot](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_public_drive_bot)
 * [blacklistedbois](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_blacklistedbois)
+* [Shiba](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_shiba)
 * [HB4All](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_happyboy)
 * [BlinkDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_blinkdrive) 
 * [Mark41stark](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mark41stark)
@@ -368,6 +369,7 @@
 * [Audio.Tools](https://audio.tools/) 
 * [AudioLove](https://audiolove.club/) 
 * [jbouchat](http://jbouchat.ucoz.com/)
+* [Audioz](https://audioz.download/)
 
 ***
 
