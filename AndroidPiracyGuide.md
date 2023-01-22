@@ -88,6 +88,7 @@
 * [Intruder Detector](https://play.google.com/store/apps/details?id=com.evezzon.intruderdetector) - Takes Photo of Phone Intruders
 * [XSCamera](https://play.google.com/store/apps/details?id=me.jagar.xscamera) - Hidden Camera Recorder
 * [Invizible](https://invizible.net/en/) - Unblock Sites and Encrypt Traffic
+* [TrustDevice-Android](https://github.com/trustdecision/trustdevice-android) - Create Device Identifiers
 * [Keyoxide](https://www.f-droid.org/packages/org.keyoxide.keyoxide/) - Verify Decentralized Cryptographic Identities
 * [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&amp;hl=en_US) - Tor Proxy
 * [TorServices](https://f-droid.org/packages/org.torproject.torservices/) - Tor App Proxy / [GitLab](https://gitlab.com/guardianproject/torservices)
@@ -675,7 +676,6 @@
 * [marioworlds4u](https://t.me/marioworlds4u) - Modded / Telegram
 * [ProAppz](https://t.me/ProAppz) - Modded / Telegram
 * [EasyAPK](https://t.me/EasyAPK) - Modded / Telegram
-* [APKmi](https://t.me/APKmi) - Modded / Telegram
 * [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re) - Modded / Telegram
 * [dumpmods](https://t.me/dumpmods) - Modded / Telegram
 * [faloojein](https://t.me/faloojein) - Modded / Telegram
