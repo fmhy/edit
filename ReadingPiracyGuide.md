@@ -742,7 +742,7 @@
 ## ▷ Reference Sites
 
 * ⭐ **[Wikipedia](https://www.wikipedia.org/)**, [WikiWand](https://www.wikiwand.com/), [Metastem](https://wiki.metastem.su/), [ModernWiki](https://www.modernwiki.app/) or [WikiFox](https://wikifox.ml/) - Encyclopedia
-* ⭐ **Wikipedia Tools** - [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Page Connections](https://hyperleap.com/) / [Galaxy View](https://wiki.polyfra.me/) / [Read Only](http://static.wiki/) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener)
+* ⭐ **Wikipedia Tools** - [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Page Connections](https://hyperleap.com/) / [Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) / [Galaxy View](https://wiki.polyfra.me/) / [Read Only](http://static.wiki/) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener)
 * ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** - Dictionary / Thesaurus
 * ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - Slang Word / Phrase Dictionaries
 * ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary Search
