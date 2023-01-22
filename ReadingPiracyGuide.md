@@ -1291,7 +1291,7 @@
 * [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)
 * [BookCut](https://github.com/costis94/bookcut) - Ebook Download Tool
 * [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - Google Book Downloader w/ Proxy Support
-* [DocDownloader](https://docdownloader.com/), [SCFull](https://scfull.com/), [docdownload](https://docdownload.net/), [scribd.vpdfs](https://scribd.vpdfs.com/) or [guIHelp](https://discord.gg/rgF9jY8CpH) - [Scribd](https://www.scribd.com/) - Document Downloaders 
+* [DocDownloader](https://docdownloader.com/), [SCFull](https://scfull.com/), [scribd.vpdfs](https://scribd.vpdfs.com/) or [guIHelp](https://discord.gg/rgF9jY8CpH) - [Scribd](https://www.scribd.com/) - Document Downloaders 
 * [Scribd Download Guide](https://redd.it/kfv1c6) 
 * [GROBID](https://github.com/kermitt2/grobid) - Extract / Organize Scientific Document Info
 * [FicHub](https://fichub.net/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - Fanfiction Downloader 
