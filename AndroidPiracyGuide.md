@@ -411,7 +411,7 @@
 * [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - Fix OLED Images
 * [sh-ort](https://sh-ort.app/) - URL Shortener
 * [UnLim](https://play.google.com/store/apps/details?id=com.kratosle.unlim&gl=US) - Cloud Storage
-* [RClone](https://github.com/x0b/rcx) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Manager
+* [RClone](https://github.com/x0b/rcx), [extRact](https://github.com/newhinton/extRact) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Managers
 * [PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - Enable Features in Stock App Launcher
 * [QuickSwitch](https://github.com/skittles9823/QuickSwitch) - Enable Quickstep in Launchers 
 * [App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers) - Android App Launchers / Managers
@@ -679,7 +679,6 @@
 * [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re) - Modded / Telegram
 * [dumpmods](https://t.me/dumpmods) - Modded / Telegram
 * [faloojein](https://t.me/faloojein) - Modded / Telegram
-* [aroratricksmod](https://t.me/aroratricksmod) - Modded / Telegram
 * [arvmobiles](https://t.me/arvmobiles) - Modded / Telegram
 * [IC_Mods](https://t.me/IC_Mods) - Modded / Telegram
 * [ElectraMods](https://t.me/ElectraMods) - Modded / Telegram
