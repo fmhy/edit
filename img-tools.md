@@ -347,7 +347,7 @@
 * ⭐ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_image_sites)** - Random Image Sites / Some NSFW
 * ⭐ **[gallery-dl](https://github.com/mikf/gallery-dl)**, [RipMe](https://github.com/RipMeApp/ripme), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) or [Image Extractor](https://extract.pics/) - Image Download Tools
 * ⭐ **[Lexica](https://lexica.art/)**, [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) or [Krea](https://www.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
-* ⭐ **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_photo_sites)** - Download Stock Photos / Vectors / Illustrations
+* ⭐ **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_photo_sites)** - Download Stock Photos / Vectors / Illustrations / [Multi-Site Search](https://chrome.google.com/webstore/detail/stocks-house/mpdkicmbmbljbgncgphonhgjebnapfop)
 * ⭐ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)** - Download Icons
 * ⭐ **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)** - Search by Image
 * [GFX Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources) - Graphic Design Resources
@@ -554,7 +554,7 @@
 * [Bypass Login](https://greasyfork.org/en/scripts/420604) - Bypass Instagram Login Redirects
 * [AeroInsta](https://aeroinsta.com/), [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - Modded Android App
 * [WhatIsRhino](https://lemamichael.github.io/WhatIsRhino/) - Modded iOS App
-* [imginn](https://imginn.com/), [YooYing](https://www.yooying.com/), [Picuki](https://www.picuki.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer) or [Dumpor](https://dumpor.com/) - Instagram Viewer
+* [imginn](https://imginn.com/), [YooYing](https://www.yooying.com/), [Picuki](https://www.picuki.com/), [InstaNavigation](https://instanavigation.com/), [Iganony](https://iganony.com/), [Instafreeview](https://instafreeview.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer) or [Dumpor](https://dumpor.com/) - Instagram Viewers
 * [FeedInABox](https://t.me/FeedinboxBot) - Telegram Bot
 * [Instagram Search Tool](https://www.aware-online.com/en/osint-tools/instagram-search-tool/) - Search Tool 
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram Analysis
