@@ -130,7 +130,7 @@
 
 ***
 
-* ⭐ **[WayDroid](https://waydro.id/)** / [Git](https://github.com/waydroid), [Anbox](https://anbox.io/) or [Andronix](https://andronix.app/) / [Git](https://github.com/AndronixApp) - Linux Android Subsystems
+* ⭐ **[WayDroid](https://waydro.id/)** / [Git](https://github.com/waydroid) or [Anbox](https://github.com/anbox/anbox) - Linux Android Subsystems
 * ⭐ **[WSA](https://rentry.co/wsa)** - Windows Android Subsystems / [GUI](https://github.com/alesimula/wsa_pacman) / [Win11](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) / [Google Apps](https://github.com/ADeltaX/WSAGAScript)
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
 * [Nox](https://www.bignox.com/) - [Screenshot](https://i.imgur.com/VuFLWbW.jpg) / [Debloat Guide](https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/) / [Video](https://youtu.be/IjI_-pQUOhQ)
@@ -425,7 +425,7 @@
 * [Eruda](https://pastebin.com/7qSZXjDS) - Mobile Browser Console / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [Github](https://github.com/liriliri/eruda)
 * [Andure](https://github.com/leohku/andure) - Android Chrome Dev Tools
 * [LADB Builds](https://github.com/neoteche/ladb-builds) or [aShell](https://gitlab.com/sunilpaulmathew/ashell) - ADB Shell
-* [Termux](https://termux.com/) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulator / Linux Environment
+*  [Andronix](https://andronix.app/) / [Git](https://github.com/AndronixApp), [Termux](https://termux.com/) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulator / Linux Environments
 * Termux Tools - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/tareksander/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
 * [Shelter](https://github.com/PeterCxy/Shelter) - App Sandbox
 * [AppBrain](https://www.appbrain.com/) - Analyze Android App Changes
