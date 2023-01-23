@@ -138,6 +138,7 @@
 * [BlissOS](https://blissos.org/) - Android Desktop OS / [Git](https://github.com/blissroms-x86)
 * [PhoenixOS - BR](https://discord.gg/BQ4td84) - Android Desktop OS
 * [PhoenixOS Darkmatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)
+* [AOPC](https://aopc.dev/) - Android Desktop OS Forums
 * [Nox](https://www.bignox.com/) - [Screenshot](https://i.imgur.com/VuFLWbW.jpg) / [Debloat Guide](https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/) / [Video](https://youtu.be/IjI_-pQUOhQ)
 * [GameLoop](https://www.gameloop.com/) - [Screenshot](https://i.imgur.com/dLrEXCJ.png)
 * [MuMu](https://www.mumuglobal.com/) - [Screenshot](https://i.imgur.com/D8BBerb.png)
@@ -148,7 +149,6 @@
 * [Wakuoo](https://wakuoo.com) - [Screenshot](https://i.imgur.com/WnuitUI.png) 
 * [ApkOnline](https://www.apkonline.net/) - Online Android Emulator / [Extension](https://chrome.google.com/webstore/detail/apkonline/lnhnebkkgjmlgomfkkmkoaefbknopmja)
 * [BlueStacks X](https://x.bluestacks.com/) - Cloud-Based Android Gaming
-* [AOPC](https://aopc.dev/) - Android Emulator Forums
 
 ***
 
