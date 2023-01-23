@@ -126,7 +126,7 @@
 
 # ► Android Emulators 
 
-**WARNING** - Android emulators contain intrusive ads and trackers, so it's better to use subsystems like WayDroid or WSA.
+**WARNING** - Closed-source emulators contain intrusive ads and trackers, so it's best to use open-source options, or android subsystems.
 
 ***
 
