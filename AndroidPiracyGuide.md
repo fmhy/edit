@@ -130,10 +130,8 @@
 
 ***
 
-* ⭐ **[WayDroid](https://waydro.id/)** / **[Git](https://github.com/waydroid)** or [Anbox](https://anbox.io/) / [Git](https://github.com/anbox/anbox) - Linux Android Subsystems
 * ⭐ **[WSA](https://rentry.co/wsa)** - Windows Android Subsystems / [GUI](https://github.com/alesimula/wsa_pacman) / [Win11](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) / [Google Apps](https://github.com/ADeltaX/WSAGAScript)
-* ⭐ **[Android x86](https://www.android-x86.org/)** - Android Desktop OS / [Installer](https://supreme-gamers.com/r/advanced-android-x86-installer-for-windows.61/) / [Source](https://www.android-x86.org/source.html)
-* ⭐ **[BlissOS](https://blissos.org/)** - Android Desktop OS
+* ⭐ **[WayDroid](https://waydro.id/)** / **[Git](https://github.com/waydroid)** or [Anbox](https://anbox.io/) / [Git](https://github.com/anbox/anbox) - Linux Android Subsystems
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
 * [Nox](https://www.bignox.com/) - [Screenshot](https://i.imgur.com/VuFLWbW.jpg) / [Debloat Guide](https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/) / [Video](https://youtu.be/IjI_-pQUOhQ)
 * [GameLoop](https://www.gameloop.com/) - [Screenshot](https://i.imgur.com/dLrEXCJ.png)
@@ -141,8 +139,10 @@
 * [MeMu](https://www.memuplay.com/) - [Screenshot](https://i.imgur.com/1aZLVvi.png) / [Debloater](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
 * [LDPlayer](https://www.ldplayer.net/) - [Screenshot](https://i.imgur.com/URAJXJ6.png)
 * [Genymotion](https://www.genymotion.com/fun-zone/) - [Screenshot](https://i.imgur.com/rIoiob7.jpg) 
-* [Leapdroid](https://leapdroid.en.softonic.com/) - [Screenshot](https://i.imgur.com/4RKnNqJ.png) 
+* [Leapdroid](https://leapdroid.en.softonic.com/) - [Screenshot](https://i.imgur.com/4RKnNqJ.png)
 * [Wakuoo](https://wakuoo.com) - [Screenshot](https://i.imgur.com/WnuitUI.png) 
+* [Android x86](https://www.android-x86.org/) - Android Desktop OS / [Installer](https://supreme-gamers.com/r/advanced-android-x86-installer-for-windows.61/) / [Source](https://www.android-x86.org/source.html)
+* [BlissOS](https://blissos.org/) - Android Desktop OS / [Git](https://github.com/blissroms-x86)
 * [PhoenixOS - BR](https://discord.gg/BQ4td84) - Android Desktop OS
 * [PhoenixOS Darkmatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)
 * [ApkOnline](https://www.apkonline.net/) - Online Android Emulator / [Extension](https://chrome.google.com/webstore/detail/apkonline/lnhnebkkgjmlgomfkkmkoaefbknopmja)
