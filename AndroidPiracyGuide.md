@@ -130,7 +130,7 @@
 
 ***
 
-* ⭐ **[Android Emulator Wiki](https://emulation.gametechwiki.com/index.php/Android_emulators)** - Android Emulator Index
+* ⭐ **[Emulator Wiki](https://emulation.gametechwiki.com/index.php/Android_emulators)** - Android Emulator Index
 * ⭐ **[WSA](https://rentry.co/wsa)** - Windows Android Subsystems / [GUI](https://github.com/alesimula/wsa_pacman) / [Win11](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) / [Google Apps](https://github.com/ADeltaX/WSAGAScript)
 * ⭐ **[WayDroid](https://waydro.id/)** / **[Git](https://github.com/waydroid)** or [Anbox](https://anbox.io/) / [Git](https://github.com/anbox/anbox) - Linux Android Subsystems
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
