@@ -126,9 +126,14 @@
 
 # ► Android Emulators 
 
-* ⭐ **[Nox](https://www.bignox.com/)** - [Screenshot](https://i.imgur.com/VuFLWbW.jpg) / [Debloat Guide](https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/) / [Video](https://youtu.be/IjI_-pQUOhQ)
+**WARNING** - Android emulators contain intrusive ads and trackers, so it's better to use subsystems like WayDroid or WSA.
+
+***
+
+* ⭐ **[WayDroid](https://waydro.id/)** / [Git](https://github.com/waydroid), [Anbox](https://anbox.io/) or [Andronix](https://andronix.app/) / [Git](https://github.com/AndronixApp) - Linux Android Subsystems
+* ⭐ **[WSA](https://rentry.co/wsa)** - Windows Android Subsystems / [GUI](https://github.com/alesimula/wsa_pacman) / [Win11](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) / [Google Apps](https://github.com/ADeltaX/WSAGAScript)
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
-* ⭐ **[Anbox](https://anbox.io/)**, **[WayDroid](https://waydro.id/)** / [Git](https://github.com/waydroid) or  [Andronix](https://andronix.app/) / [Git](https://github.com/AndronixApp) - Android Linux Emulator
+* [Nox](https://www.bignox.com/) - [Screenshot](https://i.imgur.com/VuFLWbW.jpg) / [Debloat Guide](https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/) / [Video](https://youtu.be/IjI_-pQUOhQ)
 * [GameLoop](https://www.gameloop.com/) - [Screenshot](https://i.imgur.com/dLrEXCJ.png)
 * [MuMu](https://www.mumuglobal.com/) - [Screenshot](https://i.imgur.com/D8BBerb.png)
 * [MeMu](https://www.memuplay.com/) - [Screenshot](https://i.imgur.com/1aZLVvi.png) / [Debloater](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
@@ -156,7 +161,6 @@
 * ⭐ **[Android Web Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)** 
 * ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client / [Rich Presence](https://github.com/dead8309/Kizzy)
 * ⭐ **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites & Apps
-* [WSA](https://rentry.co/wsa) - Windows Subsystem for Android
 * [Android Debloat Guide](https://rentry.co/debloatandroid), [debloat-android](https://christitus.com/debloat-android/) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/0x192/universal-android-debloater), [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) or [Debloat Samsung Android](https://github.com/khlam/debloat-samsung-android) - Android Debloaters
 * [File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools) - Tools to Share / Sync Files
@@ -399,7 +403,6 @@
 * [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_solid_explorer), [rcx](https://x0b.github.io/) / [GitHub](https://github.com/x0b/rcx), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator), [AmazeFileManager](https://teamamaze.xyz/) / [GitHub](https://github.com/TeamAmaze/AmazeFileManager), [FileManager](https://github.com/SimpleMobileTools/Simple-File-Manager) or [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager), [AnExplorer](https://github.com/1hakr/AnExplorer) or [IrkFM](https://github.com/lfuelling/lrkFM) - File Explorers / Managers
 * [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
 * [Dumpster](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dumpster) - File Recovery Tool
-* [wsa_pacman](https://github.com/alesimula/wsa_pacman) - Android Package Manager for Windows
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - Download / Torrent Manager 
 * [Vysor](https://www.vysor.io/), [scrcpy](https://github.com/Genymobile/scrcpy), [WebADB](https://app.webadb.com/) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/), [2](https://github.com/Tomotoes/scrcpy-gui)
 * [AVNC](https://github.com/gujjwal00/avnc) - Remote Desktop Client for Android
@@ -712,11 +715,10 @@
 * [BlackDex](https://github.com/CodingGay/BlackDex) - APK Unpacking Tool
 * [Apk Extractor](https://play.google.com/store/apps/details?id=com.ext.ui) - Extract APKs to SD Card
 * [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) or [Obtainium](https://github.com/ImranR98/Obtainium/) - APK Updater
-* [WSAGAScript](https://github.com/ADeltaX/WSAGAScript) - Install Google Apps into WSA Image
 * [How-to Install Play Store Apps from Other Countries](https://rentry.co/29s6v)
 * [APKAdmin](https://apkadmin.com/) - APK Hosting Site
 * [Widgets for Samsung](https://drive.google.com/file/d/1LzBKUDuC7t3-k6aOtlZc765ZLBD437pC/view) - Samsung Widgets
-* [WSATools](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) - Windows 11's Subsystem APK Installer
+
 
 ***
 
