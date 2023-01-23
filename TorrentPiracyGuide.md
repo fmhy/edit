@@ -137,7 +137,6 @@
 
 * ⭐ **[Torrentz2](https://torrentz2.pics/)**, [2](https://torrentz2.nz/) - [Magnet Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrentz2_magnet_links)
 * ⭐ **[BTDigg](https://btdig.com/index.htm)** - [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/) / [i2p](http://btdigg.i2p/)
-* ⭐ **[BT4G](https://bt4g.org/)**
 * ⭐ **[FileListing](https://filelisting.com)** 
 * ⭐ **[snowfl](https://snowfl.com/)** 
 * ⭐ **[Knaben](https://knaben.eu/)**
@@ -161,6 +160,7 @@
 * [TorrentProject2](https://torrentproject2.com/), [2](https://torrentproject2.net/) / [Script](https://gist.github.com/byzantium225/7cd2287548c81f00dcca923617dcc69e) (click "Raw" to install)
 * [ciligou0](http://ciligou0.com/) 
 * [TorrentDB](https://torrentdb.li/)
+* [BT4G](https://bt4g.org/)
 * [0Mag](https://www.0mag.net/), [2](https://9mag.net/), [3](https://3mag.net/) 
 * [TorrentDownloads](https://www.torrentdownloads.pro/) 
 * [Torlock](https://www.torlock.com/), [2](https://www.torlock2.com/) 
