@@ -126,7 +126,7 @@
 
 # ► Android Emulators 
 
-**WARNING** - Closed-source emulators contain intrusive ads and trackers, so it's best to use open-source options, or android subsystems.
+**WARNING** - Closed-source emulators (like Nox) contain intrusive ads and trackers, so it's best to use open-source options or android subsystems (like WSA or WayDroid).
 
 ***
 
