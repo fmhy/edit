@@ -148,7 +148,6 @@
 * [Leapdroid](https://leapdroid.en.softonic.com/) - [Screenshot](https://i.imgur.com/4RKnNqJ.png)
 * [Wakuoo](https://wakuoo.com) - [Screenshot](https://i.imgur.com/WnuitUI.png) 
 * [ApkOnline](https://www.apkonline.net/) - Online Android Emulator / [Extension](https://chrome.google.com/webstore/detail/apkonline/lnhnebkkgjmlgomfkkmkoaefbknopmja)
-* [BlueStacks X](https://x.bluestacks.com/) - Cloud-Based Android Gaming
 
 ***
 
