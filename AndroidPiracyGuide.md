@@ -464,7 +464,6 @@
 * [Mematic](https://www.mematic.net/) - Meme Creator 
 * [LRC Editor](https://play.google.com/store/apps/details?id=com.cg.lrceditor) or [Audoir](https://audoir.com/) - Lyric Text Editor
 * [Reface](https://reface.app/) - Create Face Swap Videos 
-* [PGS](https://www.pgsharp.com/) - Modded Pokémon GO
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
 * [ChariFree](https://play.google.com/store/apps/details?id=com.charifree) - Donate by Watching Ads
 * [Appetize](https://appetize.io/) - Run Native Mobile Apps in Browser
@@ -708,7 +707,8 @@
 * [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
 * [APKGrey](https://apkgrey.com/) - Modded Games
 * [DedoMil](http://dedomil.net/) - Java Mobile Games
-* [PlatinMods](https://platinmods.com/) - Modded / Private Game Servers 
+* [PlatinMods](https://platinmods.com/) - Modded / Private Game Servers
+* [PGS](https://www.pgsharp.com/) - Modded Pokémon GO
 * [Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - PokemonGO Resources
 * [NeonRom3r](https://github.com/Gr3gorywolf/NeonRom3r) - Download ROMs
 * [GameEye](https://play.google.com/store/apps/details?id=com.hairyharri.gameye) - Video Game Tracking App
