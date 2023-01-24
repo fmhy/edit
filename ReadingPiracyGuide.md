@@ -153,7 +153,6 @@
 * [British Library](https://www.bl.uk/) - Books
 * [EbookLobby](http://ebooklobby.com/) - Books
 * [BookFrom.net](https://www.bookfrom.net/) - Books
-* [Ebook-dl](https://ebook-dl.com/) - Books / [Request](https://t.me/ebookdlrequest)
 * [FreeEditorial](https://www.freeditorial.com/) - Books
 * [Zoboko](https://zoboko.com/) - Books
 * [Standard EBooks](https://standardebooks.org/) - Books
