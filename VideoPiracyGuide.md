@@ -529,7 +529,6 @@
 * [Time4TV](http://time4tv.stream/) - TV / Sports
 * [StitichSports](https://stitichsports.com/tv/) - TV / Sports
 * [CXtv](http://www.cxtvlive.com/) - TV / Sports
-* [USTV247](https://ustv247.tv/) - TV / Sports
 * [OKLiveTV](http://oklivetv.com/) - TV / Sports
 * [ProLive](https://prolive.tv/) - TV / Sports
 * [TV247](http://tv247.us/) - TV / Sports
