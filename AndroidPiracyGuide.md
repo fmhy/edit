@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/rmFqFQs.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/rNmiLul.png)** - For mobile users
 
 ***
 
@@ -169,6 +169,7 @@
 * [W10M Group](https://w10mgroup.github.io/) - Mobile Windows Tech Support
 * [Maemo](https://talk.maemo.org/) - Maemo OS Discussion / [Wiki](https://wiki.maemo.org/) / [Telegram](https://t.me/maemomeego), [2](https://t.me/meegoosinternational)
 * [SymbianOS](https://t.me/symbianos) - Symbian OS Discussion
+* [VMOS](https://www.vmos.com/) or [x8sb](https://x8sb.com/) - Android on Android Virtual MachineS
 * [Will My Phone Work?](https://willmyphonework.net/) or [FrequencyCheck](https://www.frequencycheck.com/) - Phone Carrier Support Index
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
 * [MobileSpectrum](https://mobilespectrum.org/) - Mobile Network Spectrum by Country
@@ -275,17 +276,6 @@
 * [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - Auto Clicker
 * [AutomaTag](http://automatag.com/) - Metadata Organizer
 * [Aves](https://github.com/deckerst/aves) - Metadata Explorer
-* [GameGuardian](https://gameguardian.net/) - Game Hack / Alteration Tool
-* [Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - PokemonGO Resources
-* [NeonRom3r](https://github.com/Gr3gorywolf/NeonRom3r) - Download Roms 
-* [GameEye](https://play.google.com/store/apps/details?id=com.hairyharri.gameye) - Video Game Tracking App 
-* [OpenMicroWave](https://omw.xyz.is/) - Morrowind for Android
-* [HMCL-PE](https://github.com/Tungstend/HMCL-PE) - Minecraft for Android
-* [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) - Minecraft Java Edition Launcher
-* [MinecraftPE Mods](https://minecraftpe-mods.com/) - Mobile Minecraft Mods
-* [SMAPI](https://github.com/ZaneYork/SMAPI-Android-Installer) - Multiplayer Stardew Valley
-* [VMOS](https://www.vmos.com/) or [x8sb](https://x8sb.com/) - Android Virtual Machine
-* [Pinball for Android](https://github.com/fexed/Pinball-on-Android) - Space Cadet Pinball
 * [Media Bar](https://play.google.com/store/apps/details?id=apps.ijp.mediabar) - Status Bar Media Controller
 * [Statusbar Icon Hider](https://play.google.com/store/apps/details?id=com.cooliehat.statusbariconhider) - Hide Status Bar Items 
 * [Red Moon](https://github.com/LibreShift/red-moon) or [NightOwl](https://play.google.com/store/apps/details?id=com.evezzon.nightowl) - Screen Brightness Control
@@ -564,9 +554,7 @@
 * [RevDl](https://www.revdl.com/) - Modded
 * [Sbenny](https://sbenny.com/) - Modded
 * [Apkmodhub](https://apkmodhub.in/) - Modded
-* [AndroidGameMods](https://www.androidgamemods.com/) - Modded
 * [farsroid](https://www.farsroid.com/) - Modded
-* [GameDVA](https://gamedva.com/) - Modded
 * [AndroidRepublic](https://androidrepublic.org/) - Modded
 * [APKTops](https://www.apktops.ir/) - Modded
 * [Apk4Free](https://apk4free.org/) - Modded / [Telegram](https://t.me/Apk4Free)
@@ -625,7 +613,6 @@
 * [APK About](https://apkabout.com/) - Modded
 * [ReleaseAPK](https://forum.release-apk.com/) - Modded
 * [ProSmart](https://prosmart.by/) - Modded
-* [King Games](https://ludokinggame.com/) - Modded
 * [ModFavor](https://modfavor.com/) - Modded
 * [APKFolder](https://apkfolder.net/) - Modded
 * [ApkMagic](https://apkmagic.com.ar/) - Modded
@@ -642,11 +629,7 @@
 * [ApKGod](https://apkgod.net/) - Modded
 * [APKMD](https://apkmb.com/) - Modded
 * [AKMods](https://www.akmods.in/) - Modded
-* [p30afzar](https://dl.p30afzar.com/Games/) - Modded Games
-* [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
-* [APKGrey](https://apkgrey.com/) - Modded Games
 * [AppValley](https://app.app-valley.vip/) - Modded / Tweaked
-* [PlatinMods](https://platinmods.com/) - Modded / Private Game Servers 
 * [Streamiza](https://t.me/streamiza) - Modded / Telegram / [Discord](https://linktr.ee/Streamiza)
 * [MODZILLA](https://t.me/Modzilla) - Modded / Telegram / [Bot](https://t.me/ModzillaAPKBot)
 * [MixRoot Mods](https://t.me/Mixrootmods) - Modded / Telegram
@@ -689,14 +672,11 @@
 * [Rikka Apps](https://rikka.app/) - Free Apps
 * [Paget96 Project](https://www.paget96projects.com/) - Free Apps
 * [FossDroid](https://fossdroid.com/) - Open Source Apps / [/r/fossdroid](https://reddit.com/r/fossdroid)
-* [Moderse](https://t.me/Moderse) - Android Apk Telegram Channel by well known modder - Stabiron
-* [DedoMil](http://dedomil.net/) - Java Mobile Games
+* [Moderse](https://t.me/Moderse) - Modded / Telegram
 * [evozi](https://apps.evozi.com/apk-downloader), [GPlayCLI](https://github.com/matlink/gplaycli) or [APK Downloader](https://apk.support/apk-downloader) - Download Google Play APKs
 * [Sai](https://f-droid.org/packages/com.aefyr.sai.fdroid/), [2](https://play.google.com/store/apps/details?id=com.aefyr.sai) or [APK Installer](https://play.google.com/store/apps/details?id=com.uptodown.installer&hl=en&gl=US) - APK Installers
 * [Raccoon](https://raccoon.onyxbits.de/) - Private APK Downloader
 * [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - CLI APK Download Tool
-* [Blackmod](https://blackmod.net/) - Modded Game APKs
-* [How-To Play Free Android Cloud Games](https://rentry.co/66cc9)
 * [Android Auto Apps Downloader](https://github.com/shmykelsa/aaad) - Android Vehicle Apps
 * [PalmDB](https://palmdb.net/) - Palm OS Apps / [Discord](https://discord.gg/YddKPpR)
 * [Maemo5](http://maemo.org/downloads/list/Maemo5/all/) - Maemo OS Apps
@@ -716,6 +696,29 @@
 * [APKAdmin](https://apkadmin.com/) - APK Hosting Site
 * [Widgets for Samsung](https://drive.google.com/file/d/1LzBKUDuC7t3-k6aOtlZc765ZLBD437pC/view) - Samsung Widgets
 
+***
+
+# ► Android Gaming
+
+* [King Games](https://ludokinggame.com/) - Modded Games
+* [AndroidGameMods](https://www.androidgamemods.com/) - Modded Games
+* [GameDVA](https://gamedva.com/) - Modded Games
+* [Blackmod](https://blackmod.net/) - Modded Games
+* [p30afzar](https://dl.p30afzar.com/Games/) - Modded Games
+* [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
+* [APKGrey](https://apkgrey.com/) - Modded Games
+* [DedoMil](http://dedomil.net/) - Java Mobile Games
+* [PlatinMods](https://platinmods.com/) - Modded / Private Game Servers 
+* [GameGuardian](https://gameguardian.net/) - Game Hack / Alteration Tool
+* [Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - PokemonGO Resources
+* [NeonRom3r](https://github.com/Gr3gorywolf/NeonRom3r) - Download ROMs
+* [GameEye](https://play.google.com/store/apps/details?id=com.hairyharri.gameye) - Video Game Tracking App
+* [OpenMicroWave](https://omw.xyz.is/) - Morrowind for Android
+* [HMCL-PE](https://github.com/Tungstend/HMCL-PE) - Minecraft for Android
+* [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) - Minecraft Java Edition Launcher
+* [MinecraftPE Mods](https://minecraftpe-mods.com/) - Mobile Minecraft Mods
+* [SMAPI](https://github.com/ZaneYork/SMAPI-Android-Installer) - Multiplayer Stardew Valley
+* [Pinball for Android](https://github.com/fexed/Pinball-on-Android) - Space Cadet Pinball
 
 ***
 
@@ -799,7 +802,7 @@
 * [Finamp](https://github.com/UnicornsOnLSD/finamp) - Jellyfin Music Player
 * [CloudPlayer](https://www.doubletwist.com/cloudplayer) - Cloud Audio File Player
 * [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - Subsonic Client
-* [Soundcloud](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - Streaming
+* [Sound1](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - Streaming
 * [Modded Tidal](https://forum.mobilism.org/viewtopic.php?f=1332&t=4594722) - Steaming / Download
 * [Seeker](https://github.com/jackBonadies/SeekerAndroid) - Download / MP3
 * [Datmusic](https://github.com/alashow/datmusic-android) - Download / MP3
@@ -1083,11 +1086,11 @@
 * [Filza](http://cydia.saurik.com/package/com.tigisoftware.filza/) or [Santander](https://github.com/SerenaKit/Santander) - File Managers
 * [Dropbox Premium](https://testflight.apple.com/join/LBZaRq4I) - Cloud Storage
 * [iEmulators](https://iemulators.com/) - Emulator Apps
+* [HappyChick](http://www.happychick.hk/download.html) or [8090Games](https://apps.apple.com/us/app/8090games/id1514980629) - Game Emulators
+* [iSSB Play](https://iosninja.io/ipa-library/download-issb-ipa-ios) - Super Smash. Bros on iOS / [GitHub](https://github.com/lufinkey/iSSB)
 * [Infinity](https://github.com/fullpwn/infinity) - Run Android 10(Q) on iPhone
-* [HappyChick](http://www.happychick.hk/download.html) or [8090Games](https://apps.apple.com/us/app/8090games/id1514980629) - Game Emulator
 * [Downgrade Apps](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy/) - How-to Downgrade Apps
 * [iDOS](https://iosninja.io/ipa-library/download-idos-ipa-ios) - DOS Emulator / [GitHub](https://github.com/litchie/dospad)
-* [iSSB Play](https://iosninja.io/ipa-library/download-issb-ipa-ios) - Super Smash. Bros on iOS / [GitHub](https://github.com/lufinkey/iSSB)
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - Office Suite 
 * [Drafts](https://getdrafts.com/) or [Bear](https://apps.apple.com/us/app/bear/id1016366447) - Note Taking App
 * [Serenity Notes](https://www.serenity.re/en/notes) - Collaborative Notes
