@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/qyBPSbV.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/o8vDXQp.png)** - For mobile users
 
 ***
 
@@ -3027,12 +3027,6 @@ Add the following commands to a search to manually scrape each site.
 
 *** 
 
-#### Torrentz2 Magnet Links
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/torrentz2-magnet-links/), [Chrome](https://chrome.google.com/webstore/detail/magnet-links-for-torrentz/hkobljcmoojndbempmmgagaphocpmkni), [Userscript](https://greasyfork.org/en/scripts/21547-torrentz2-magnet)
-
-***
-
 #### Tracker Lists
 
 [ngosang](https://ngosang.github.io/trackerslist/) / [2](https://ngosang.github.io/trackerslist/trackers_all.txt), [trackerslist](https://trackerslist.com/) / [2](https://github.com/XIU2/TrackersListCollection), [fossbytes list](https://fossbytes.com/torrent-trackers-list/), [NewTrackOn](https://newtrackon.com/list)
@@ -3402,7 +3396,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 **Revanced App Builders**
 
-[Revanced Creator](https://github.com/XDream8/revanced-creator), [Revanced Builder](https://mega.nz/file/Omxn2T6L#PAJJ5V_ricfBt78CSqg21rL6rt-hP9RIUWbSyspEqQk), [revanced-build-template](https://github.com/n0k0m3/revanced-build-template), [RVX Builder](https://github.com/inotia00/rvx-builder), [Revanced Repo](https://github.com/Lyceris-chan/revanced-repo), [Docker-Py-ReVanced](https://github.com/nikhilbadyal/docker-py-revanced)
+[Revanced Creator](https://github.com/XDream8/revanced-creator), [Revanced Builder](https://mega.nz/file/Omxn2T6L#PAJJ5V_ricfBt78CSqg21rL6rt-hP9RIUWbSyspEqQk), [revanced-build-template](https://github.com/n0k0m3/revanced-build-template), [RVX Builder](https://github.com/inotia00/rvx-builder), [Revanced Repo](https://github.com/Lyceris-chan/revanced-repo), [Docker-Py-ReVanced](https://github.com/nikhilbadyal/docker-py-revanced), [YT-AT](https://github.com/kakathic/YT-AT)
 
 ***
 
