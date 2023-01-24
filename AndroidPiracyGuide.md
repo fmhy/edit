@@ -146,7 +146,7 @@
 * [LDPlayer](https://www.ldplayer.net/) - [Screenshot](https://i.imgur.com/URAJXJ6.png)
 * [Genymotion](https://www.genymotion.com/fun-zone/) - [Screenshot](https://i.imgur.com/rIoiob7.jpg) 
 * [Leapdroid](https://leapdroid.en.softonic.com/) - [Screenshot](https://i.imgur.com/4RKnNqJ.png)
-* [Wakuoo](https://wakuoo.com) - [Screenshot](https://i.imgur.com/WnuitUI.png) 
+* [Wakuoo](https://wakuoo.com) - [Screenshot](https://i.imgur.com/WnuitUI.png)
 
 ***
 
