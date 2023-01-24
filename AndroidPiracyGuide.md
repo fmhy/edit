@@ -709,7 +709,6 @@
 * [APKGrey](https://apkgrey.com/) - Modded Games
 * [DedoMil](http://dedomil.net/) - Java Mobile Games
 * [PlatinMods](https://platinmods.com/) - Modded / Private Game Servers 
-* [GameGuardian](https://gameguardian.net/) - Game Hack / Alteration Tool
 * [Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - PokemonGO Resources
 * [NeonRom3r](https://github.com/Gr3gorywolf/NeonRom3r) - Download ROMs
 * [GameEye](https://play.google.com/store/apps/details?id=com.hairyharri.gameye) - Video Game Tracking App
