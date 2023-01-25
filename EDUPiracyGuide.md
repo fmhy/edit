@@ -74,7 +74,6 @@
 * [Bioinformatics](https://github.com/ossu/bioinformatics) - Bioinformatics Courses
 * [sha256_project](https://github.com/oconnor663/sha256_project) - Applied Cryptography Course
 * [Sapience Institute](https://learn.sapienceinstitute.org/) - Religious Courses
-* [FreeCourseWebsite](https://freecoursewebsite.com/) - Udemy Courses
 * [UdemyFreeCourses](https://udemyfreecourses.org/) - Udemy Courses
 * [FreeCoursesOnline](https://www.freecoursesonline.me/) - Udemy Courses
 * [Study Bullet](https://studybullet.com/) - Udemy Courses / [Telegram](https://telegram.me/joinchat/AAAAAFdxBDqPv7ZzVoUASw)
@@ -288,7 +287,6 @@
 * [Math is Fun](https://www.mathsisfun.com/games/index.html) - Math Games
 * [Hooda Math](https://www.hoodamath.com/) - Math Games
 * [The Problem Site](https://www.theproblemsite.com/) - Problems / Puzzles/ Games
-* [PuzzlaMaker](http://www.vtaide.com/png/puzzles.htm) - Educational Puzzles
 * [iCivics](https://www.icivics.org/games) - U.S. Law Learning Games
 
 ***
@@ -732,7 +730,6 @@ Simulator
 * [MyAssignmentHelp](https://myassignmenthelp.com/free-tools.php) - Academic Tools
 * [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - Touch Typing Tutorial
 * [Spreeder](https://www.spreeder.com/) - Learn to Read Faster
-* [Fact Directory](https://fact.directory/) - Fact / Knowledge Databases
 * [Refseek](https://www.refseek.com/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engine
 * [Explorabl.es](https://explorabl.es/) or [MinuteLabs](https://minutelabs.io/) - Interactive Learning / Lessons 
 * [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - Learn With GIFs 
@@ -769,7 +766,6 @@ Simulator
 * [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - UPSC Telegram Channels
 * [Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables) - Online Periodic Tables / [App](https://jlindemann.se/homepage/atomic/)
 * [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
-* [Retrosynthesis](http://retrosynthesis.com/) - Organic Retrosynthesis Engine / [GitHub](https://github.com/sudo-rushil/odachi)
 * [Answers.com](https://www.answers.com/) or [Quora](https://www.quora.com/) / [Bypass](https://github.com/VoidlessVoid7/quora-plus-bypass), [2](https://redd.it/ywml2b) / [Frontend](https://github.com/zyachel/quetre) - Q&A Communities
 * [Edgibot](https://www.edgibot.com/), [Get Unstuck](https://socratic.org/), [sarthaks](https://www.sarthaks.com/) or [Brainly](https://brainly.com/) - Homework Help
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
