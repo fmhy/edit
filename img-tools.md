@@ -47,7 +47,7 @@
 * [Tinter](https://tinter.uxie.io/) - Image Hue Editor
 * [WeGreyScale](https://www.wegrayscale.com/) - Greyscale Videos / Images
 * [DuoTones](https://duotones.co/) - Dual Tone Effect Generator
-* [ImageGoNord](https://ign.schrodinger-hat.it/) - Convert Images to NordTheme Palette / [Dracula](https://github.com/bigpick/ImageGoNord-dracula) / [GitHub](https://github.com/Schrodinger-Hat/ImageGoNord)
+* [ImageGoNord](https://ign.schrodinger-hat.it/) - Convert Images to NordTheme Palette / [GitHub](https://github.com/Schrodinger-Hat/ImageGoNord)
 * [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization), [Image Transformer](https://transformerapp.aifinancials.net/), [Image To Cartoon](https://imagetocartoon.com/) or [Cartoonize](https://cartoonize-lkqov62dia-de.a.run.app/cartoonize) - Turn Photos into Cartoons
 * [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) / [2](https://github.com/TachibanaYoshino/AnimeGANv2) / [3](https://github.com/TachibanaYoshino/AnimeGANv3) - Turn Photos into Anime
 * [AIDraw](https://ai-draw.tokyo/en/) or [ArtLine](https://github.com/vijishmadhavan/ArtLine) - Turn Photos into Line Art
@@ -224,11 +224,11 @@
 * [Viphy](https://viphy.typestudio.co/) - Generate GIF From Text
 * [ScreenToGif](https://www.screentogif.com/) or [Peek](https://github.com/phw/peek) - GIF Recorder
 * [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - Screencasts to GIF Converters
-* [GIFit](https://github.com/Fauntleroy/GIFit), [Youtube to GIF](https://youtube-to-gif.com/) or [gif-machine](https://github.com/lelandbatey/gif-machine) - YouTube to GIF Converters
+* [GIFit](https://github.com/Fauntleroy/GIFit), [Youtube to GIF](https://youtube-to-gif.com/) - YouTube to GIF Converters
 * [petpet](https://benisland.neocities.org/petpet/) / [2](https://zoomerok.app/petpet/) - Headpatting GIF Maker
 * [FlagWaver](https://krikienoid.github.io/flagwaver/) - Create Moving Flag GIFs
 * [Gifski](https://gif.ski/) - GIF Encoder
-* [Among-Us-Dumpy-Gif-Maker](https://dumpy.t1c.dev/) - Make Dumpy Among us GIFs / [GitHub](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)
+* [Among-Us-Dumpy-Gif-Maker](https://dumpy.t1c.dev/) - Make Dumpy Among us GIFs
 * [Crisp GIF Guide](https://imgur.com/gallery/02aYs) - How-To Make 60 FPS GIFs
 
 ***
