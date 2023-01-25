@@ -886,7 +886,7 @@
 
 # ► Android Streaming
 
-* ⭐ **[CloudStream](https://cloudstream.cf/)** - Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM) / [Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cloudstream_forks) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/) / [Sora Extension](https://cdn.discordapp.com/attachments/1055438609643221012/1055438631214518282/howtoinstallsora.mp4)
+* ⭐ **[CloudStream](https://cloudstream.cf/)** - Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM) / [Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cloudstream_forks) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/) / [Sora Extension](https://youtu.be/yDuXGAnFQuI)
 * ⭐ **[HDO Box](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=hdo+box&sf=titleonly)** - Movies / TV
 * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Addons](https://github.com/danamag/stremio-addons-list/blob/main/README.md) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * ⭐ **[Kodi](https://kodi.tv/)** - /r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) / [Real-Debrid](https://real-debrid.com/)
