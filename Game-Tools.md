@@ -25,13 +25,13 @@
 * [humble-cli](https://github.com/smbl64/humble-cli) - Humble Bundle CLI
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?usp=sharing), [MoreFPS](https://morefps.net/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) or [HoneCtrl](https://github.com/auraside/HoneCtrl) - Latency Reduction / FPS Fixes
-* [Fraps Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_fraps) / [2](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/), [FPSMeter](https://darsa.in/fpsmeter/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
+* [Fraps Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_fraps) / [2](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
 * [Nvidia Overclocking](https://github.com/LunarPSD/NvidiaOverclocking/blob/main/Nvidia%20Overclocking.md) - Nvidia Overclocking Resources
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner), [GPU Tweak lll](https://www.asus.com/campaign/GPU-Tweak-III/index.php) or [EVGA Precision X1](https://www.evga.com/precisionx1/) - Graphics Card Overclocking Tools
 * [MSI Kombustor](https://msikombustor.com/) - GPU Benchmark Test
 * [Overclock](https://www.overclock.net/) - Overclocking Forum
 * [Ryzen Master Utility](https://www.amd.com/en/technologies/ryzen-master) - Overclocking Control for Ryzen Desktop CPU
-* [Ryzen Controller](https://ryzencontroller.com/) - Overclocking Software for Ryzen Laptop CPU / [AMD APU Tuning](https://github.com/JamesCJ60/AMD-APU-Tuning-Utility)
+* [AMD-APU-Tuning-Utility)](https://github.com/JamesCJ60/AMD-APU-Tuning-Utility) - AMD APU Tuning
 * [NTCore's 4GB Patch](https://ntcore.com/?page_id=371) - x86 Executable Memory Patcher
 * [ISLC](https://www.wagnardsoft.com/ISLCw) - Remove Windows 10 RAM Stutters / [Tutorial](https://www.reddit.com/r/GlobalOffensive/comments/fca7lw/if_you_have_stutter_ingame_you_can_try_this_tool/fj9yx3h/)
 * [Sunshine](https://github.com/loki-47-6F-64/sunshine) - GPU Streaming Client
@@ -74,7 +74,7 @@
 * [Forgehub](https://www.forgehub.com/) - Halo Maps
 * [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - Breath of The Wild Map
 * [Hallownest](https://www.hallownest.net/) - Hollow Knight Map
-* [Hoyolab Teyvat Interactive Map] (https://act.hoyolab.com/ys/app/interactive-map/index.html), [Map Of Genshin] (https://mapofgenshin.com/), [Mapgenie Teyvat Interactive Map] (https://mapgenie.io/genshin-impact) or [Genshin Impact Map] (https://genshin-impact-map.appsample.com/) - Genshin Impact Interactive Maps
+* [Hoyolab Teyvat Interactive Map] (https://act.hoyolab.com/ys/app/interactive-map/index.html), [Mapgenie Teyvat Interactive Map] (https://mapgenie.io/genshin-impact) or [Genshin Impact Map] (https://genshin-impact-map.appsample.com/) - Genshin Impact Interactive Maps
 * [Daedalus](http://www.astrolog.org/labyrnth/daedalus.htm) or [Amaze](https://sourceforge.net/projects/qtamaze/files/) - Maze Generators
 * [Library of Codexes](http://libraryofcodexes.com/) - Game Codex Library
 * [Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Covers for Games 
@@ -217,7 +217,6 @@
 * [Overwolf](https://www.overwolf.com/) - Create In-Game Overlay Apps
 * [FaceItFinder](https://faceitfinder.com/) - FaceIt Stats Search
 * [BF2142 Reclamation](https://battlefield2142.co/) - BF2142 Multiplayer Project / [Discord](https://discord.gg/MEwBW9U)
-* [BFStatus](https://www.bfstatus.com/) - Battlefield Game Server Statuses
 * [Mobalytics](https://mobalytics.gg/) - Game Performance & Stats Analyzer
 * [StatsVerse](http://statsverse.com/) - Battlefield Leaderboards
 * [Sym.gg](https://sym.gg/) - Battlefield Info & Weapon Stats
@@ -391,7 +390,7 @@
 * [Forge](https://files.minecraftforge.net/), [Quilt](https://quiltmc.org/) or [Fabric](https://fabricmc.net/) / [Discord](https://discord.gg/VDGnGsFeuy) - Minecraft Modding API 
 * [PVPRP](https://pvprp.com/) - Minecraft Texture Packs
 * [IrisShader](https://www.curseforge.com/minecraft/mc-mods/irisshaders) - Fabric Shadermod for Minecraft
-* [Nova Skin](https://minecraft.novaskin.me/), [NeedCoolShoes](https://www.needcoolshoes.com/) or [Blockbench](https://www.blockbench.net/)- Minecraft Skin Editor
+* [Nova Skin](https://minecraft.novaskin.me/) or [Blockbench](https://www.blockbench.net/)- Minecraft Skin Editor
 * [MinecraftCapes](https://minecraftcapes.net/) or [Capes](https://modrinth.com/mod/capes) - Minecraft Capes
 * [VoxelSphereGenerator](http://oranj.io/blog/VoxelSphereGenerator) or [Minecraft Shapes](https://minecraftshapes.com/) - Minecraft Shape Tools
 * [ChunkBase](https://www.chunkbase.com/apps/) - Minecraft Map Tools
