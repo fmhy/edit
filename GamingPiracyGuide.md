@@ -84,6 +84,7 @@
 * [OpenTTD](https://www.openttd.org/) - Transport Tycoon Remake
 * [OpenNox](https://github.com/noxworld-dev/opennox) - Nox Revival Project
 * [London 2038](https://london2038.com/) - London 2038 Multiplayer Revival Project
+* [Pixel Gun X](https://discord.com/invite/xfjR3MJrD2) - Pixel Gun 3D Revival Project
 * [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball), [2](https://github.com/Iscle/SpaceCadetPinball) - Space Cadet Pinball
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
 * [PokemonRevolution](https://pokemonrevolution.net/) - Pokemon MMO
@@ -95,10 +96,10 @@
 * [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki) / [IIDX Install Guide](https://docs.google.com/document/d/1SFfRb9nQK-riCdKChFprocVr97TqUxYra63wSK2fplo/edit?usp=drivesdk)
 * [Unnamed SDVX clone](https://github.com/Drewol/unnamed-sdvx-clone) - Sound Voltex Clone
 * [OpenTaiko](https://github.com/0auBSQ/OpenTaiko) - Taiko no Tatsujin Clone / [Taiko Simulator Guide](https://guide.tjadataba.se/) / [Custom Charts](https://tjadataba.se/)
-* [Etterna](https://etternaonline.com/), [Quaver](https://quavergame.com/), [O2Mania](https://o2mania.info/) - O2Jam Clones / [Online Maps](http://www.flashflashrevolution.com/), [2](https://www.roblox.com/games/4841678118)
+* [Etterna](https://etternaonline.com/), [Quaver](https://quavergame.com/), [O2Mania](https://o2mania.info/) - O2Jam Clones / [Online Maps](http://www.flashflashrevolution.com/), [2](https://www.roblox.com/games/4841678118), [3](https://www.roblox.com/games/6447798030/XMAS-Event-Funky-Friday)
 * [osu!](https://osu.ppy.sh/home), [opsu!](https://itdelatrisu.github.io/opsu/), [osu!droid](https://osudroid.moe/) or [McOsu](https://store.steampowered.com/app/607260/McOsu/) - Osu! Tatakae! Ouendan Clones
 * [PPD](https://projectdxxx.me/) - Project Diva Clone
-* [Vulnus](https://discord.gg/vulnus) or [Sound Space+](https://chedski.itch.io/sound-space-plus) - Sound Space Clones
+* [Sound Space Plus](https://discord.gg/ssp) or [Vulnus Archive](https://discord.gg/vulnus) - Sound Space Clones
 * [Cytoid](https://cytoid.io/) - Cytus Clone
 * [DTXManiaNX](https://github.com/limyz/DTXmaniaNX) - GITADORA Clone
 * [SweetPotato](https://wiki-en.purplepalette.net/home) - Project Sekai Clone
