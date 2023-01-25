@@ -31,7 +31,7 @@
 * [F2P Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_f2p_games) - Free to Play Games
 * [Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers) - Get Scene Release Updates
 * [Nexus-Games](https://nexus-games.net/) - [Discord](https://discord.gg/8YXGgy4DJj)
-* [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - [Discord](https://discord.gg/HP5sQ6c) / [Archive](https://cloud.gookie.dev/index.php/s/wQmrb9Y23WdzXzZ)
+* [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - [Discord](https://discord.gg/HP5sQ6c)
 * [Crohasit](https://crohasit.net/)
 * [Steam Repacks](https://steam-repacks.com/) - [Discord](https://discord.gg/PaZ64RKJaP)
 * [WorldOfPCGames](https://worldofpcgames.co/) - [Discord](https://discord.gg/fYmMD8Bg3p)
@@ -289,7 +289,6 @@
 * ⭐ **[retrogames.cc](https://www.retrogames.cc/)** - [Download Guide](https://i.imgur.com/jSAsSb6.png)
 * [ClassicReload](https://classicreload.com/)
 * [Retro Games Bot](https://retrogamesbot.com/)
-* [EmuBrowser](https://emubrowser.com/)
 * [AtariMania](http://www.atarimania.com/index.html)
 * [Vizzed](https://www.vizzed.com/)
 * [Free80sArcade](http://www.free80sarcade.com/)
