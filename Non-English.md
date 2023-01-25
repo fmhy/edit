@@ -998,7 +998,6 @@
 * [dlfars](https://dlfars.pw/) - Movies / TV / Anime
 * [RooDL](https://roozdl.com/) - Movies / TV / Anime
 * [Movibox](https://movibox.in/) - Movies / Geo Restricted
-* [PlayStop](https://playstop.ir/) - Movies / TV
 * [ZarFilm](https://zarfilm.com/) - Movies / TV
 * [SalamDL](https://salamdl.me/) - Movies / TV
 * [AvaMovie](http://avamovie.in/) - Movies / TV
