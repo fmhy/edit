@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/o8vDXQp.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/wv9wqAf.png)** - For mobile users
 
 ***
 
@@ -1090,85 +1090,6 @@ Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator
 **Scripts**
 
 [yt-anti-shorts](https://github.com/YukisCoffee/yt-anti-shorts) or [youtube-shorts](https://letsblock.it/filters/youtube-shorts)
-
-***
-
-#### HiMovies Clones
-
-* https://solarmovies.win/
-* https://www2.theshit.me/
-* https://www2.6movies.net/
-* https://www2.movieorca.com/
-* https://xmovies8.fun/
-* https://ww22.watchfilm.net/
-* https://hdwatch.org/
-* https://swatchseries.is/
-* https://www1.movierot.com/
-* https://www.actvid.com/
-* https://hdtoday.tv/ 
-* https://www.tikmovies.com/
-* https://moviesjoy.plus/
-* https://dopebox.to/
-* https://fboxtv.com/
-* https://movies2watch.cc/ 
-* https://movies2watch.tv/
-* https://watchseriestv.top/
-* https://moviestowatch.tv/
-* https://favhd.net/
-* https://www3.hdseries.cc/ 
-* https://fmoviesgo.to/
-* https://hdtoday.cc/
-* https://tinyzonetv.to/
-* https://www4.musichq.net/
-* https://www6.f2movies.to/
-* https://putlockers.llc/
-* https://2kmovie.cc/
-* https://www.sflix.pro/
-* https://sflix.to/
-* https://cineb.net/
-* https://bingewatch.to/
-* https://www.divicast.com/
-* https://kk01.net/
-* https://www1.moviecrumbs.net/
-* https://flixtor.gg/
-* https://theflixer.tv/
-* https://myflixer.link/
-* https://myflixer.to/
-* https://myflixer.pw/
-* https://myflixer.com/
-* https://myflixertv.to/
-* https://myflixer.it/
-* https://ainiesta.com/
-* https://www3.f2movies.to/
-* https://www1.bemovies.to/
-* https://ev01.to/
-* https://flixhd.cc/
-* https://www3.musichq.net/
-* https://zoechip.org/
-* https://www3.zoechip.com/
-* https://www1.attacker.tv/
-* https://quitt.net/
-* https://www1.seeingblind.net/
-* https://www6.123moviesgo.tv/
-* https://123moviestv.net/
-* https://moviecracker.net/
-* https://fmovieshd.vip/
-* https://moviesjoy.to/
-* https://www.redbeltmovie.com/
-* https://fullmoviehd4k.com/
-* https://cataz.net/ 
-* https://tinyzonetv.to/
-* https://tinyzonetv.cc/
-* https://tinyzonetv.to/
-* https://www.showboxmovies.net/
-* https://www.watch4freemovies.com/
-* https://www2.filmlicious.net/
-* https://www.fullmoviefilm.org/
-* https://www.moviekids.tv/
-* https://www.freemovies360.com/
-* https://yesmovies.mn/
-* https://fmovie.ws/
-* https://fmovies.hn/ 
 
 ***
 
@@ -2325,6 +2246,85 @@ Add the following commands to a search to manually scrape each site.
 **Extensions**
 
 [SEO Minion](https://chrome.google.com/webstore/detail/seo-minion/giihipjfimkajhlcilipnjeohabimjhi?utm_source=chrome-ntp-icon) or [ubersuggest](https://chrome.google.com/webstore/detail/ubersuggest-seo-and-keywo/nmpgaoofmjlimabncmnmnopjabbflegf)
+
+***
+
+#### SFlix Clones
+
+* https://www3.himovies.to/
+* https://solarmovies.win/
+* https://www2.theshit.me/
+* https://www2.6movies.net/
+* https://www2.movieorca.com/
+* https://xmovies8.fun/
+* https://ww22.watchfilm.net/
+* https://hdwatch.org/
+* https://swatchseries.is/
+* https://www1.movierot.com/
+* https://www.actvid.com/
+* https://hdtoday.tv/ 
+* https://www.tikmovies.com/
+* https://moviesjoy.plus/
+* https://dopebox.to/
+* https://fboxtv.com/
+* https://movies2watch.cc/ 
+* https://movies2watch.tv/
+* https://watchseriestv.top/
+* https://moviestowatch.tv/
+* https://favhd.net/
+* https://www3.hdseries.cc/ 
+* https://fmoviesgo.to/
+* https://hdtoday.cc/
+* https://tinyzonetv.to/
+* https://www4.musichq.net/
+* https://www6.f2movies.to/
+* https://putlockers.llc/
+* https://2kmovie.cc/
+* https://www.sflix.pro/
+* https://cineb.net/
+* https://bingewatch.to/
+* https://www.divicast.com/
+* https://kk01.net/
+* https://www1.moviecrumbs.net/
+* https://flixtor.gg/
+* https://theflixer.tv/
+* https://myflixer.link/
+* https://myflixer.to/
+* https://myflixer.pw/
+* https://myflixer.com/
+* https://myflixertv.to/
+* https://myflixer.it/
+* https://ainiesta.com/
+* https://www3.f2movies.to/
+* https://www1.bemovies.to/
+* https://ev01.to/
+* https://flixhd.cc/
+* https://www3.musichq.net/
+* https://zoechip.org/
+* https://www3.zoechip.com/
+* https://www1.attacker.tv/
+* https://quitt.net/
+* https://www1.seeingblind.net/
+* https://www6.123moviesgo.tv/
+* https://123moviestv.net/
+* https://moviecracker.net/
+* https://fmovieshd.vip/
+* https://moviesjoy.to/
+* https://www.redbeltmovie.com/
+* https://fullmoviehd4k.com/
+* https://cataz.net/ 
+* https://tinyzonetv.to/
+* https://tinyzonetv.cc/
+* https://tinyzonetv.to/
+* https://www.showboxmovies.net/
+* https://www.watch4freemovies.com/
+* https://www2.filmlicious.net/
+* https://www.fullmoviefilm.org/
+* https://www.moviekids.tv/
+* https://www.freemovies360.com/
+* https://yesmovies.mn/
+* https://fmovie.ws/
+* https://fmovies.hn/ 
 
 ***
 
