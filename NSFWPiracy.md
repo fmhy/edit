@@ -5,7 +5,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 ## Site Lists
 
 * ⭐ **[PornDude](https://theporndude.com/)** / [More Sites](https://theporndude.com/hall-of-fame)
-* ⭐ **[NSFW Subreddits](http://redditlist.com/nsfw)**, [2](https://www.reddit.com/r/NSFW411/wiki/index), [3](https://frontpagemetrics.com/top-nsfw-subreddits), [4](https://redd.it/brypgf), [5](https://theporndude.com/best-nsfw-reddit-sites), [6](http://electronsoup.net/nsfw_subreddits/), [7](https://bin.disroot.org/?81af22c09e92865d#FYLXmjaKbaojaELwAv1szcfy7rahuA77ntnFu2HBEBGf) / [Reverse Search](https://www.rarchives.com/)
+* ⭐ **[NSFW Subreddits](http://redditlist.com/nsfw)**, [2](https://www.reddit.com/r/NSFW411/wiki/index), [3](https://bin.disroot.org/?81af22c09e92865d#FYLXmjaKbaojaELwAv1szcfy7rahuA77ntnFu2HBEBGf), [4](https://redd.it/brypgf), [5](https://theporndude.com/best-nsfw-reddit-sites), [6](http://electronsoup.net/nsfw_subreddits/) / [Reverse Search](https://www.rarchives.com/)
 * [Full Length Porn CSE](https://cse.google.com/cse?cx=6c02fb377e50d493c)
 * [One Porn List](https://onepornlist.com/)
 * [BigPornList](http://bigpornlist.net/)
@@ -26,13 +26,12 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Area51](https://area51.to/en/)
 * [QuickiePage](https://quickiepage.com/) 
 * [PaidPornGuide](https://www.paidpornguide.com/) 
-* [Boobs](https://boob.sbs/)
 * [FreePornLTD](https://freepornltd.org/) 
 * [ThePornMap](https://thepornmap.com/) 
 * [PornBox](http://pornbox.org/)
 * [PrimePornList](https://www.primepornlist.com/)
 * [Porn Sites Banned in India](https://www.scribd.com/doc/273372869/List-of-porn-websites-banned-in-India#fullscreen&from_embed) 
-* [look1](https://look1.club/), [2](https://like3.co/), [3](https://that8.xyz/), [4](https://lady3.info/) - Chinese Site Index
+* [look1](https://look1.club/), [2](https://that8.xyz/), [3](https://lady3.info/) - Chinese Site Index
 * [Excel Today](https://t.me/excel_today) - NSFW Telegram List
 * [DirtyWarez Adult](https://dirtywarez.org/cat/adult) - Alexa Adult Site Rankings
 
@@ -115,9 +114,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Ana Dias Photography](https://www.anadiasphotography.com/) or [PmateHunter](https://pmatehunter.com/) - Playboy Images
 * [Rule34World](https://rule34.world/) - Rule 34 Images
 * [Kimchi TV](https://kimchi.tv/) - Asian Porn
-* [Size97](https://size977.com/) - Asian Porn
 * [Republic of Korea](https://republic-of-korea.com/) - Asian Porn
-* [JavMom](https://javmom.xyz/) - Japanese Porn
 * [ArcJav](https://arcjav.com/) - Japanese Porn
 * [missav](https://missav.com/en) - Japanese Porn
 * [SEGNECK](https://discord.gg/jP5BHAUbeu) - Japanese Porn
@@ -145,7 +142,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [PhoenixAdult](https://github.com/DirtyRacer1337/Jellyfin.Plugin.PhoenixAdult) - Jellyfin Porn Plugin
 * [xHubApp](http://xhubapp.com/) - AIO Premium Porn Services App
 * [Pornsearch](https://github.com/LucasLeandro1204/Pornsearch) - Porn Search Script
-* [PornInvidious](https://simple-web.org/projects/porninvidious.html), [2](https://porninvidious.esmailelbob.xyz/) - xVideos Frontend / [.onion](http://porninvidious.lqs5fjmajyp7rvp4qvyubwofzi6d4imua7vs237rkc4m5qogitqwrgyd.onion/)
+* [PornInvidious](https://simple-web.org/projects/porninvidious.html), [2](https://porninvidious.esmailelbob.xyz/) - xVideos Frontend
 
 ***
 
@@ -157,7 +154,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [PornFactors](http://pornfactors.com/) 
 * [Best-MovieZ](https://www.best-moviez.ws/category/porn-18/) 
 * [HugeWarez](http://hugewarez.net/xxx-full-movies/) 
-* [Uploadgig](https://ugmovies.org/porn-movies/) 
 * [PornFile](https://pornfile.cz/) 
 * [0xxx](https://0xxx.ws/) 
 * [Pornoslon](http://pornoslon.me/) 
@@ -167,7 +163,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [SweetPorn](https://sweetporn.org/)
 * [RemaxHD](https://remaxhd.live/)
 * [xxxFile.org](https://xxxfile.org/) 
-* [ArtsErotica](https://artserotica.com/videos/)
 * [CamVault](https://camvault.xyz/) - DL Chaturbate, MyFreeCams & CAM4 Recordings
 * [jdc](https://discord.gg/jdc) - Asian Porn Discord
 * [XXXTelegramBot](https://t.me/XXXTelegramBot) - Telegram
@@ -280,7 +275,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Best Hentai Sites](https://besthentaisites.github.io/) - Hentai Site List
 * [PornDude Hentai](https://theporndude.com/hentai-streaming-sites) - Hentai Sites List
 * [Hentai Manga Sites](https://theporndude.com/hentai-manga-sites) - Hentai Sites List
-* [kemono.party](https://kemono.party/) - Porn / Hentai / [Attachments](https://kemono.party/attachments/) / Use Adblock
+* [kemono.party](https://kemono.party/) - Porn / Hentai / Use Adblock
 * [Hentai.tv](https://hentai.tv/)
 * [Nyaa Sukebei](https://sukebei.nyaa.si/) 
 * [Haho](https://haho.moe/)
