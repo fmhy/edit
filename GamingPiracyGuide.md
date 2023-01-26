@@ -593,7 +593,7 @@
 * [CandyBox](https://candybox2.github.io/) - Candy Eating Game 
 * [BTShip](https://github.com/hairarrow/btship) - Typescript Boat Game
 * [asciicker](https://asciicker.com/) - ASCII Browser Adventure
-* [Maze](https://www.epgsoft.com/maze/) - Maze Generator
+* [Maze](https://www.epgsoft.com/maze/), [Daedalus](http://www.astrolog.org/labyrnth/daedalus.htm), [Amaze](https://sourceforge.net/projects/qtamaze/files/) or [MazeGenerator](https://www.mazegenerator.net/) - Maze Generators
 * [BrantSteele](http://brantsteele.net/) or [Simublast](https://www.simublast.com/) - Game Show Simulators
 * [Shooty Ship Pumpkin Smash](https://www.thepointless.com/apps/shooty-ship-pumpkin-smash/index.html) - Shoot Pumpkins
 * [Educational Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_games)
