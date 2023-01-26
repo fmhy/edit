@@ -1229,12 +1229,6 @@ pass: paluch
 
 ***
 
-#### MongoDB Beginners Guide
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9GNVF3eEpRYSNydU5oejA4Q2w1OTlNQ2hPQmJRZUdB`
-
-***
-
 #### Elementor Kit
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9tRWtEQlNZSSNXWlZFOHB0UjkwWkgwMG5Cem1ESU93`
