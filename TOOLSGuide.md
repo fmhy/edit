@@ -745,7 +745,7 @@
 * ⭐ **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_managers)** - Manage / Save Passwords
 * ⭐ **[Encrypted Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_services)** - Email Sites with a Focus on Privacy
 * ⭐ **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - Create Temporary Email Addresses
-* ⭐ **[nosms](https://rentry.co/nosms)** - How-to Create Throwaway Gmail Accounts
+* ⭐ **[nosms](https://rentry.co/nosms)** - How-to Create Throwaway Gmail Accounts / [Dot Trick](https://thebot.net/api/gmail/)
 * ⭐ **[Site Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_site_development)** - Site Development / Hosting Tools
 * [Yandex Disk](https://disk.yandex.com/), [VK WorkSpace](https://biz.mail.ru/) or [OpenDesktop](https://www.opendesktop.org/) - Multiple Cloud Services 
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
@@ -798,7 +798,6 @@
 * [Abogrow](https://www.abogrow.com/compose) - Preview Social Media Posts
 * [OPoster](https://github.com/OrienteerBAP/OPoster) - Schedule Social Media Posts
 * [you-get](https://github.com/soimort/you-get) - Download Media Contents from Webpages
-* [Got Your Back](https://github.com/jay0lee/got-your-back) - Backup Gmail Messages
 * [Login Reminder Remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - Remove Login Popup from Sites
 * [BugMeNot](http://bugmenot.com/), [Parolja](http://en.parolja.net/), [Login2.me](https://login2.me/), [FreeAccount](https://freeaccount.biz/) or [Password Login](http://password-login.com/) - Access & Share Throwaway Accounts
 * [Voice Dictation](https://dictation.io/) - Type with Voice
@@ -849,7 +848,7 @@
 * [BeFree](https://beefree.io/templates/free/) - Email Templates
 * [FreeMail](https://extrassl.actalis.it/portal/uapub/freemail?lang=en) - Free Mail Certificate
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://www.nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - Scheduled Email Sending & Reminders 
-* [Email Tracker](https://snov.io/email-tracker), [GetNotify](https://www.getnotify.com/) or [Mailtrack](https://mailtrack.io/) - Email Engagement Tracker
+* [Email Tracker](https://snov.io/email-tracker), [GetNotify](https://www.getnotify.com/) or [Mailtrack](https://mailtrack.io/) - Email Engagement 
 * [Cleanfox](https://www.cleanfox.io/) - Easily Clean Email Inbox 
 * [Unroll](https://unroll.me/) or [UnsubScan](https://github.com/LGUG2Z/unsubscan) - Easily Unsubscribe from Emails
 * [Epieos](https://tools.epieos.com/) - Retrieve Info Linked to Email Address
@@ -863,7 +862,9 @@
 * [InternetBumperStickers](https://www.internetbumperstickers.com/) - Images for Signatures
 * [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers 
 * [Yandex Account Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator) - Create Infinite Yandex Accounts
-* [Gmail Dot Trick Generator](https://thebot.net/api/gmail/) - Generate Unlimited Gmail Accounts via the Dot Trick
+* [Gmail Desktop](https://github.com/timche/gmail-desktop) - Gmail Desktop Client
+* [Got Your Back](https://github.com/jay0lee/got-your-back) - Backup Gmail Messages
+* [Integrated Inbox](https://integratedinbox.com/) - Gmail Google Web App Integration
 * [Delete Junk Email](https://gist.github.com/viperadnan-git/fcb0ecda32de0b9a27ec03829a7c12e8) - Bulk Gmail Junk Deleter
 * [Alive](https://greasyfork.org/en/scripts/418770-colab-alive) - Bypass Google Colab Limit Colab
 * [YakYak](https://github.com/yakyak/yakyak) - Google Hangouts Desktop Client 
@@ -877,7 +878,6 @@
 * [InspectContent](https://inspectcontent.com/) - Site Keyword Inspector
 * [Personal Link Hompages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_personal_link_homepages) - Display Your Links / Sites
 * [LocalHost](http://localhost.run/) - Connect Web Apps to Internet
-* [Integrated Inbox](https://integratedinbox.com/) - Gmail Google Web App Integration
 * [Namechk](https://namechk.com/), [CheckUserNames](https://knowem.com/), [NameCheckr](https://www.namecheckr.com/), [NameCheckup](https://namecheckup.com/) or [IUS](https://instantusername.com/) - Check Username Availability
 * [HostsDock](https://eshengsky.github.io/HostsDock/) - Manage & Switch Hosts 
 * [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools) 
@@ -907,7 +907,7 @@
 * [Misc-Download-Scripts](https://github.com/simon987/Misc-Download-Scripts) - Download Scripts for Multiple Sites
 * [Hosts Files ghosts](https://github.com/StevenBlack/ghosts) - Evaluate, Compare & Format
 * [byp4xx](https://github.com/lobuhi/byp4xx) - Bypass "403 Forbidden" Messages 
-* [PuTTY](https://www.putty.org/), [2](https://www.chiark.greenend.org.uk/~sgtatham/putty/) / [Fork](https://www.9bis.net/kitty/#!index.md), [GitHub](https://github.com/cyd01/KiTTY/) - SSH & Telnet Client / [Keygen](https://www.puttygen.com/)
+* [PuTTY](https://www.putty.org/), [2](https://www.chiark.greenend.org.uk/~sgtatham/putty/) - SSH & Telnet Client / [Keygen](https://www.puttygen.com/) / [Multi-Tab](https://ttyplus.com/) /  [Fork](https://www.9bis.net/kitty/#!index.md) / [GitHub](https://github.com/cyd01/KiTTY/)
 * [Server Hunter](https://www.serverhunter.com/) - Search / Compare Servers 
 * [Dashy](https://dashy.to/) / [GitHub](https://github.com/lissy93/dashy) or [Homer](https://github.com/bastienwirtz/homer) - Home Server Homepage
 * [rickroll-blocker](https://github.com/hitthemoney/rickroll-blocker/) - Rick Roll Blocker
@@ -1213,7 +1213,6 @@
 
 * ⭐ **[Discord Servers & Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists)** - Discover Servers / Bots
 * ⭐ **[Discord3rdParties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)** - Discord Client Index
-* ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client
 * ⭐ **[BetterDiscord](http://betterdiscord.app/)** - Modifiable Discord Client / [GitHub](https://github.com/BetterDiscord/BetterDiscord) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)
 * ⭐ **[Revolt](https://revolt.chat/)** or [Guilded](https://www.guilded.gg/) / [Mod](https://github.com/ReGuilded/ReGuilded/) - Discord Alternatives
 * ⭐ **Revolt Tools** - [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) / [Divolt Resources](https://github.com/ggtylerr/awesome-divolt)
@@ -1431,7 +1430,7 @@
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast) / [Script](https://github.com/mchangrh/sb.js)
 * [YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends) - Ad-Free YouTube Frontends / Clients
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) 
-* [YouTube Spammer Purge](https://github.com/ThioJoe/YouTube-Spammer-Purge) - Delete All YouTube Spam Comments
+* [YouTube Spammer Purge](https://github.com/ThioJoe/YouTube-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
 * [YouTube Encoding Guide](https://support.google.com/youtube/answer/1722171) - Recommended YouTube Encoding Settings
 * [TubeSync](https://github.com/meeb/tubesync) - Sync YouTube Channels / Playlists to a Media Server
 * [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube), [ImprovedTube](http://improvedtube.com/), [Iridium](https://github.com/ParticleCore/Iridium), [Improve YouTube!](https://github.com/code-for-charity/YouTube-Extension), [Nova YouTube](https://greasyfork.org/en/scripts/433360) or [Magic Actions for YouTube](https://www.mycinema.pro/) - YouTube Enhancement Addons 
@@ -1663,10 +1662,11 @@ Twitch Stream Tracker
 
 ## ▷ 4chan Tools
 
+* ⭐ **[Anon Image Boards](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anonymous_image_boards)** - Anonymous Image / Text Boards
+* ⭐ **[4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_4chan_archives)** - Browse / Search 4Chan Archives
 * [Lurka](https://github.com/AdamSalma/Lurka) - 4chan Desktop Client
 * [SpookyX](https://github.com/Fiddlekins/SpookyX), [4chan X](https://greasyfork.org/en/scripts/7750-4chan-x) / [Themes](https://github.com/KevinParnell/OneeChan) or [Dollchan](https://dollchan.net/) - Adds Features to Imageboards
 * [ChanThreadWatch](https://github.com/SuperGouge/ChanThreadWatch) - Imageboard Thread Watcher
-* [4chanSearch](https://4chansearch.com/) - 4chan Search
 * [4stats](https://4stats.io/) - 4chan Board & Thread Stats
 * [4chan Mass Reply](https://github.com/HamletDuFromage/4chan-mass-reply) - Mass Reply on 4chan
 * [4Chan GhostPostMixer](https://github.com/g-gundam/4chan-ghostpostmixer) - Interleave Deleted Posts from Archives
@@ -1768,7 +1768,7 @@ Twitch Stream Tracker
 * [Awesome Scripts](https://github.com/codePerfectPlus/awesomeScripts), [Batch-Script-Collection](https://github.com/happy05dz/Batch-Script-Collection), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - Useful System Scripts
 * [SmartWindows](https://smartwindows.app/) - Create / Restore Windows Profiles 
 * [VirtualBox](https://www.virtualbox.org/), [Looking Glass](https://looking-glass.io/), [Qemu](http://www.qemu-project.org/), [Denodo Test](https://www.denodo.com/en/denodo-platform/test-drives?utm_source=homepage&utm_medium=bn) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machined / [Preinstalled VMS](https://www.osboxes.org/)
-* [Virt Machine](https://virt-manager.org/) - Virtual Machine Manager 
+* [Virt Machine](https://virt-manager.org/) or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers 
 * [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - Windows XP Virtual Machine
 * [windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in Electron
 * [Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) or [OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines / [Guide](https://github.com/dortania/macOS-VMware-Guide)
@@ -1988,7 +1988,7 @@ Twitch Stream Tracker
 * [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - Change Java Version
 * [gter](https://github.com/raoofha/gter) - Embed a GUI app Inside a Terminal Window
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - Terminal Frameworks, Plugins & Resources 
-* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/) or [MobaXterm](https://mobaxterm.mobatek.net/) - Alternative Terminal
+* [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [ConEmu](https://github.com/Maximus5/ConEmu), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/), [console 2](https://github.com/cbucher/console) or [MobaXterm](https://mobaxterm.mobatek.net/) - Windows Terminals
 * [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) - Terminal Dashboard That Cares
 * [Gradient Terminal](https://github.com/aurora-0025/gradient-terminal) - Display Terminal Output as Gradient
 * [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) or [command-line-tools](https://github.com/learn-anything/command-line-tools) - Command Line Apps
@@ -1996,7 +1996,7 @@ Twitch Stream Tracker
 * [Command Challenge](https://cmdchallenge.com/) - Command Line Learning
 * [ZimTools](https://zimtools.xyz/) - Command Line Tool Configs
 * [Terminal Icons](https://github.com/devblackops/Terminal-Icons) - File and Folder Icons in Terminal
-* [Alacritty](https://github.com/alacritty/alacritty), [yakuake](https://apps.kde.org/yakuake/), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://eugeny.github.io/tabby/), [Wives](https://github.com/KRTirtho/wives) or [Terminus](https://github.com/Eugeny/terminus) - Terminal Emulator
+* [Alacritty](https://github.com/alacritty/alacritty), [yakuake](https://apps.kde.org/yakuake/), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://eugeny.github.io/tabby/), [Wives](https://github.com/KRTirtho/wives), [ExtraTerm](https://extraterm.org/) or [Terminus](https://github.com/Eugeny/terminus) - Terminal Emulators
 * [XTerm](https://invisible-island.net/xterm/) - X Window System Terminal Emulator
 * [Mintty](http://mintty.github.io/) - Cygwin Terminal Emulator 
 * [eDEX-UI](https://github.com/GitSquared/edex-ui) - Sci-Fi Terminal Emulator / System Monitor
