@@ -55,6 +55,7 @@
 * UC Berkeley Webcast project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://lbry.tv/@UCBerkeley:d?) - Lectures
 * [iTunes U](https://wiki.archiveteam.org/index.php/ITunes_U) - Lectures
 * [Ted Talks](https://www.ted.com/) or [Adobe 99U](https://99u.adobe.com/talks) - Inspiring and Educational Talks
+* [Curated Conversations](https://conversations.aawadia.dev/) - Educational Podcasts / Interviews
 * [WatchKnowLearn](http://www.watchknowlearn.org/) - Educational Videos
 * [FreeMedTube](https://freemedtube.net/) - Medical Courses
 * [Mathispower4u](http://www.mathispower4u.com/), [PatrickJMT](http://patrickjmt.com/), [SchoolYourself](http://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/), [mathonline](http://mathonline.wikidot.com/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Tutorials
@@ -71,6 +72,8 @@
 * [Open Source Society University](https://github.com/ossu/computer-science) - Computer Science Courses / [GitHub](https://github.com/ossu) / [Discord](https://discord.gg/wuytwK5s9h)
 * [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Computer Science Courses
 * [Learn Computer Science in 1k Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/) - Computer Science Courses
+* [CollegeComendium](https://collegecompendium.goldin.io/) - Computer Science Courses
+* [CSDIY](https://csdiy.wiki/en/) - Computer Science Learning Guide
 * [Bioinformatics](https://github.com/ossu/bioinformatics) - Bioinformatics Courses
 * [sha256_project](https://github.com/oconnor663/sha256_project) - Applied Cryptography Course
 * [Sapience Institute](https://learn.sapienceinstitute.org/) - Religious Courses
@@ -178,20 +181,20 @@
 * [BestWSODownload](https://www.bestwsodownload.com/) - WSO Courses
 * [Udemy Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_udemy_course_drives)
 * [UdemyKing](https://t.me/udemyking1) - Udemy Courses
-* [CourseArray](https://t.me/udemycoursesfree)
+* [CourseArray](https://t.me/udemycoursesfree) - Udemy Courses
 * [Tutorial Bar](https://www.tutorialbar.com/) - Udemy Courses
 * [Downloadr](https://downloadr.in/) - Udacity & Udemy Courses
 * [Free Udemy Vedantu Courses](https://t.me/Udemy_Courses_Vedantu_Free) - Udemy Courses
 * [UFC Gdrive Factory!](https://telegram.me/joinchat/SSWKbEf8mVNBvgam) - Udemy Courses
 * [EZdemy](https://t.me/ezudemy) - Udemy Courses
-* [Giga Course](https://gigacourse.com/) - Udemy Courses 
-* [Udemy 24](https://udemy24.com/) - Udemy Courses 
-* [FreeCourseWeb](http://freecourseweb.com/) - Udemy Courses 
+* [Giga Course](https://gigacourse.com/) - Udemy Courses
+* [Udemy 24](https://udemy24.com/) - Udemy Courses
+* [FreeCourseWeb](http://freecourseweb.com/) - Udemy Courses
 * [CoursesForFree](https://courseforfree.net/) - Udemy Courses
 * [FreeTutorialsHub](https://www.freetutorialshub.com/) - Udemy Courses
-* [FreeCourseUdemy](https://freecourseudemy.com/) - Udemy Courses  
-* [CourseForFree](https://courseforfree.com/) - Udemy Courses  
-* [Download Online Tutorials Free](https://download.howtofree.org/) - Udemy Courses 
+* [FreeCourseUdemy](https://freecourseudemy.com/) - Udemy Courses
+* [CourseForFree](https://courseforfree.com/) - Udemy Courses
+* [Download Online Tutorials Free](https://download.howtofree.org/) - Udemy Courses
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
 * [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) - [Discord](https://discord.gg/tMzrSxQ)
 * [Cyber Security Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cyber_security_courses) or [Skills for All](https://skillsforall.com/) - Cyber Security Courses
@@ -493,8 +496,7 @@ Simulator
 * [Transit Finder](https://transit-finder.com/) - ISS Transit Finder
 * [SpaceX Media 2015](http://web.archive.org/web/20150328140645/http://www.spacex.com/media) / [2019](http://web.archive.org/web/20191122175115/https://www.spacex.com/media) - SpaceX Media Archive
 * [Leolabs Space](https://platform.leolabs.space/visualization) - Low Earth Orbit Simulator
-* [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/) - Satellite Imagery
-* [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery API
+* [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/), [SpaceEye](https://spaceeye.app/) or [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
 * [Open Access Hub](https://scihub.copernicus.eu/) - Copernicus Satellite Data Copernicus
 * [Satellite Map](https://satellitemap.space/) - Satellite Orbit Map
 * [Find Starlink](https://findstarlink.com/) or [Look4Sat](https://github.com/rt-bishop/Look4Sat) - Satellite Trackers
@@ -900,7 +902,6 @@ Simulator
 * [The Chomsky Index](https://github.com/jasons-gh/the-chomsky-index) - Noam Chomsky Content Index Tool
 * [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project
 * [P2PU](https://www.p2pu.org/) - Join Learning Groups Using Free Courses
-* [CollegeComendium](https://collegecompendium.goldin.io/) - Free Computer Science Classes
 * [Reddit-wiki-programming](https://github.com/antariksh17/Reddit-wiki-programming) - Computer Science Learning Resources
 * [CompSciLib](https://www.compscilib.com/) - Computer Science Tools
 * [Niche](https://www.niche.com/), [TheUniGuide](https://www.theuniguide.co.uk/) or [Top Universities](https://www.topuniversities.com/) - University / School Comparisons 
