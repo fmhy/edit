@@ -235,7 +235,7 @@
 
 ## ▷  Meme Makers
 
-* [ImgFlip](https://imgflip.com/memegenerator), [RocketMeme](https://www.rocketmeme.com/create), [Meme Town](https://meme.town/), [DrMemes](https://www.drmemes.com/), [MemeBetter](https://memebetter.com/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Creators
+* [ImgFlip](https://imgflip.com/memegenerator), [RocketMeme](https://www.rocketmeme.com/create), [Meme Town](https://meme.town/), [DrMemes](https://www.drmemes.com/), [MemeBetter](https://memebetter.com/), [meme-generator](https://newfastuff.com/meme-generator/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Creators
 * [MemeAtlas](https://www.memeatlas.com/) - Meme Database
 * [Memegine](https://memegine.com/) - Meme Search Engine
 * [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh) - Meme Templates
@@ -491,10 +491,9 @@
 
 ## ▷  Hosting / Viewing 
 
-* ⭐ **[Image Hosting / Processing Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosting_.2F_processing)** - Host / Process Images
+* ⭐ **[Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosts)** - Image Hosting Sites
 * ⭐ **[Image Viewers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_viewers)** - Image Viewing Programs
-* [Piwigo](https://piwigo.org/) or [Photonix](https://photonix.org/) - Photo Manager / Viewer
-* [PiGallery2](https://bpatrik.github.io/pigallery2/) or [Immich](https://github.com/immich-app/immich) - Self-Hosted Image Gallery
+* ⭐ **[Image Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_galleries)** - Image Galleries / Managers
 * [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
 * [FEMBOY](https://github.com/k1rak1ra/FEMBOY) - Anime Image Manager
 * [Pinry](https://docs.getpinry.com/) - Image Tiling Board
