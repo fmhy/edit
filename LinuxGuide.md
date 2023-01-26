@@ -36,7 +36,7 @@
 * [bluetuith](https://github.com/darkhz/bluetuith) - Bluetooth Manager
 * [swizzin](https://swizzin.ltd/) - Seedbox for Ubuntu / Debian
 * [rtinst](https://github.com/arakasi72/rtinst) - Seedbox Installation Script for Ubuntu / Debian
-* [anime-terminal](https://github.com/YogeshLamichhane/anime-terminal) or [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal for Linux
+* [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal
 * [Trackma](https://github.com/z411/trackma/) - Anime Tracking App
 * [Netflix Proxy](https://github.com/ab77/netflix-proxy/) - Streaming Service Proxy
 * [fmedia](https://github.com/stsaz/fmedia) - Media Player and Converter
@@ -213,7 +213,7 @@
 * [Dijo](https://github.com/NerdyPepper/dijo) - Activity Tracker
 * [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
 * [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
-* [Client Evolution](https://help.gnome.org/users/evolution/stable/) or [When](https://github.com/bcrowell/when) - Calendar
+* [Client Evolution](https://help.gnome.org/users/evolution/stable/) - Calendar
 * [todo](https://github.com/sioodmy/todo/) or [pls-cli](https://github.com/guedesfelipe/pls-cli) - To-Do Apps
 * [aerc](https://aerc-mail.org/), [ElectronMail](https://github.com/vladimiry/ElectronMail) or [dodo](https://github.com/akissinger/dodo) - Email Client
 * [Link Unshortener](https://underpassapp.com/LinkUnshortener/) - Unshorten Links
@@ -237,7 +237,7 @@
 * [Crontab Generator](https://crontab-generator.org/) - Generate Crontab Syntax
 * [create-autorun](https://github.com/OneCDOnly/create-autorun) - Create QNAP NAS Autorun Environment
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
-* [Ghostwriter](http://wereturtle.github.io/ghostwriter/) or [Remarkable](http://remarkableapp.github.io/) - Markdown Editor
+* [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](http://remarkableapp.github.io/) - Markdown Editor
 * [Whatever](https://github.com/CellarD0-0r/whatever) - Evernote Client
 * [Tmux](https://github.com/tmux/tmux) - Terminal Multiplexer
 * [asciinema](https://asciinema.org/) - Terminal Recorder
@@ -428,6 +428,7 @@
 * [TNT-Adobe-Zii](https://telegra.ph/TNT-Adobe-Zii-for-MacOS-11-01) - Adobe CC Patcher / [Subreddit](https://www.reddit.com/r/AdobeZii/)
 * [Adobe Packager](https://github.com/Drovosek01/adobe-packager) - Adobe Portable Installer Script
 * [ss64 OSX](https://ss64.com/osx/) - MacOS Bash Commands
+* [Browserosaurus](https://github.com/will-stone/browserosaurus) - Browser Prompter
 * [Orion](https://browser.kagi.com/downloads/Orion.dmg) - Webkit Browser with Chrome & Firefox extensions / [Discord](https://discord.gg/E9EKaPZR)
 * [Strongbox](https://strongboxsafe.com/) - Password Manager
 * [Maccy](https://maccy.app/) - Clipboard Manager
