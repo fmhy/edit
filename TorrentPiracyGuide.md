@@ -26,7 +26,7 @@
 * ⭐ **[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)** - Download Torrents to Google Drive
 * ⭐ **[from-torrent](https://multiup.org/en/upload/from-torrent)** - Torrent to DDL Sites / [Bypass 10GB Limit](https://i.imgur.com/ChMcdq8.png)
 * [Deluge](https://www.deluge-torrent.org/) - [Screenshot](https://i.imgur.com/RbQUHpF.png)
-* Deluge Tools - [Plugins](https://dev.deluge-torrent.org/wiki/Plugins) / [Auto-Remove](https://github.com/omaralvarez/deluge-autoremoveplus) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
+* Deluge Tools - [Plugins](https://dev.deluge-torrent.org/wiki/Plugins) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
 * [Tixati](https://tixati.com/) - [Screenshot](https://i.imgur.com/joYQzTw.png) 
 * [Motrix](https://motrix.app/) - [Screenshot](https://i.imgur.com/Zrw6l8q.png) / [GitHub](https://github.com/agalwood/Motrix)
 * [Picotorrent](https://picotorrent.org/) - [Screenshot](https://i.imgur.com/46oF1iD.png)
@@ -114,7 +114,6 @@
 * [NNM-Club](https://nnmclub.to/) - Video / Audio / Software / Games / [Note](https://i.imgur.com/m42r0jU.png)
 * [Torrentz2k](https://torrentz2k.xyz/) - Video / Audio / Software / Games / NSFW
 * [Torrenting](https://www.torrenting.com/) - Video / Audio / Games / Software / Books / NSFW
-* [Legit Torrents](http://www.legittorrents.info/) - Video / Audio / Software / Books 
 * [FOSSTorrents](https://fosstorrents.com/) - FOSS Software / Games
 * [BitLord Power Search](http://85.143.175.243/) - BitLord Browser Search 
 * [Tigole](https://infogalactic.com/info/Tigole#Getting_Tigole_torrents) - Torrent Index
@@ -156,7 +155,7 @@
 * [ExtraTorrent](https://extratorrent.unblockit.kim/)
 * [Torrent Download](http://www.torentdownloads.narod.ru/)
 * [Torrenteer](http://torrenteer.ddns.net/)
-* [TorrentProject2](https://torrentproject2.com/), [2](https://torrentproject2.net/) / [Script](https://gist.github.com/byzantium225/7cd2287548c81f00dcca923617dcc69e) (click "Raw" to install)
+* [TorrentProject2](https://torrentproject2.com/), [2](https://torrentproject2.net/)
 * [ciligou0](http://ciligou0.com/)
 * [TorrentDB](https://torrentdb.li/)
 * [BT4G](https://bt4g.org/)
