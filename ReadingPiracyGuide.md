@@ -18,7 +18,6 @@
 * ⭐ **[Top 1000 Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_audiobook_megadrive)** - Audiobooks / Drive
 * [Telegram Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audiobook_downloads) - Telegram Audiobook Channels
 * [HotAudiobooks](https://hotaudiobooks.com) - Listen Online 
-* [Audiobooks For Soul](https://audiobookforsoul.net/) - Listen Online
 * [HDAudiobooks](https://hdaudiobooks.com/) - Listen Online
 * [BigAudiobooks](https://bigaudiobooks.com/) - Listen Online
 * [BookAudiobook](https://bookaudiobook.com/) - Listen Online
@@ -98,7 +97,6 @@
 * [BooksToLearn](https://www.booktolearn.com) - Books
 * [NovelLibrary](http://novellibrary.com/) - Books / [Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_novel_library_drive) 
 * [iBookPile](https://ibookpile.net/) - Books
-* [DownLoadBooks](https://downloadbooks.unblockit.dev/) - Books
 * [DPLA](http://dp.la/) - Books
 * [Books'Cool](https://www.bookscool.com/en/index.php) - Books
 * [Dirzon](https://www.dirzon.com/) - Books
@@ -740,8 +738,8 @@
 
 ## ▷ Reference Sites
 
-* ⭐ **[Wikipedia](https://www.wikipedia.org/)**, [WikiWand](https://www.wikiwand.com/), [Metastem](https://wiki.metastem.su/), [ModernWiki](https://www.modernwiki.app/) or [WikiFox](https://wikifox.ml/) - Encyclopedia
-* ⭐ **Wikipedia Tools** - [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Page Connections](https://hyperleap.com/) / [Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) / [Galaxy View](https://wiki.polyfra.me/) / [Read Only](http://static.wiki/) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener)
+* ⭐ **[Wikipedia](https://www.wikipedia.org/)**, [WikiWand](https://www.wikiwand.com/) or [Metastem](https://wiki.metastem.su/), [ModernWiki](https://www.modernwiki.app/) - Encyclopedia
+* ⭐ **Wikipedia Tools** - [Search](http://densephrases.korea.ac.kr/) / [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Page Connections](https://hyperleap.com/) / [Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) / [Galaxy View](https://wiki.polyfra.me/) / [Read Only](http://static.wiki/) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener)
 * ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** - Dictionary / Thesaurus
 * ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - Slang Word / Phrase Dictionaries
 * ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary Search
@@ -1038,9 +1036,7 @@
 * [Web Novel](https://www.webnovel.com/)
 * [Shin Translations](https://shintranslations.com/)
 * [Henkan Epubs](https://henkanepubs.wordpress.com/)
-* [Novel Ebooks](https://novel-ebook.com/)
 * [LNWNCentral](https://lnwncentral.wordpress.com/)
-* [NovelGreat](https://novelgreat.net/)
 * [Octiopii](https://octopii.co/)
 * [LightNovelPDF](https://lightnovelpdf.com/)
 * [AsianHobbyist](https://www.asianhobbyist.com/)
@@ -1245,6 +1241,7 @@
 * [Eplee](https://github.com/Janglee123/eplee) - Ebook Reader / PC 
 * [Okular](https://okular.kde.org/) - PDF Reader / Linux / PC / Mac
 * [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader / Linux
+* [Buka](https://github.com/oguzhaninan/Buka) - Ebook Reader / Linux
 * [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) - PDF Reader / PC
 * [qPDFview](https://launchpad.net/qpdfview) - PDF Reader / PC
 * [PDFLite](http://www.pdflite.com/) - PDF Reader / PC
@@ -1263,7 +1260,7 @@
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - Read Books in Browser
 * [dotepub](https://dotepub.com/) - Convert Webpages to EBooks
 * [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
-* [Ebook Sender](https://telegram.me/to_kindle_bot), [SendEpubToKindle](https://www.sendepubtokindle.com/), [Kobo ](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - Send Ebooks to Kindle
+* [Ebook Sender](https://telegram.me/to_kindle_bot), [SendEpubToKindle](https://www.sendepubtokindle.com/), [Kobo](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - Send Ebooks to Kindle
 * [Kindle Server](https://github.com/edgartaor/kindleServer) - Send HTML to Kindle
 * [md2mobi](https://md2mobi.lapw.at/) - HTML to Kindle Converter
 * [Kindle Software Jailbreak](https://www.mobileread.com/forums/showthread.php?t=346037&highlight=Jailbreak) - Jailbreak Kindle
@@ -1279,7 +1276,6 @@
 * ⭐ **[DownloadBookFromIPFS](https://greasyfork.org/en/scripts/428894-downloadbookfromipfs)** - Add Button to Download Books from IPFS
 * ⭐ **[EBook Converters](https://wiki.mobileread.com/wiki/E-book_conversion)** - List of Ebook Converters
 * ⭐ **[Kindle Comic Converter](https://kcc.iosphe.re/)** - Convert Ebooks to EPUB
-* [Knock](https://github.com/BentonEdmondson/knock) - Convert ACSM files to DRM-Free EPUB files
 * [txtpaper](https://txtpaper.com/) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to Ebook Converter
 * [CrowBook](https://github.com/lise-henry/crowbook) - Markdown to EPUB Converter
 * [Libby](https://libbyapp.com/) - Library Search
