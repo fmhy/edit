@@ -116,7 +116,7 @@
 * [Series9](https://series9.me/) - Movies / TV / Anime
 * [Cloudy](https://cloudy.pk/category/english/) - Movies / TV
 * [Levidia](https://www.levidia.ch/) - Movies / TV / Anime
-* [TopEuroPix](https://topeuropix.site/) or [europixHD](https://europixhd.pro/) - Movies / TV / Anime
+* [TopEuroPix](https://topeuropix.site/), [123EuroPix](https://123europix.pro/) or [europixHD](https://europixhd.pro/) - Movies / TV / Anime
 * [MovieSee](https://moviesee.live/) - Movies / TV
 * [Dogeflix](https://dogeflix.net/) - Movies / TV
 * [eSubMovies](https://www.esubmovie.com/) - Movies
@@ -807,6 +807,7 @@
 * ⭐ **[Sonarr](https://sonarr.tv/)** / [GitHub](https://github.com/Sonarr/Sonarr), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - Autodownload TV Torrents / [Guide](https://wiki.servarr.com/)
 * [Powder](https://powder.media/) - Torrent Streaming App
 * [Ace Stream](https://acestream.org/) - Torrent Streaming App
+* [WebTorrenthttps://webtorrent.io/) - Torrent Streaming App
 * [PopcornTime](http://popcorn-time.ga/) / [2](https://github.com/popcorn-official/popcorn-desktop) -  Torrent Streaming App / [Fix](https://youtu.be/OMoAwNW-DDo)
 * [NotFlix](https://github.com/Bugswriter/notflix) - Torrent Streaming Script
 * [Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) - Stream Torrents via Clients
@@ -962,12 +963,13 @@
 * [Ant Movie](https://www.antp.be/software/moviecatalog) or [libib](https://www.libib.com/) - Desktop Video Media Catalog
 * [MediaTracker](https://github.com/bonukai/MediaTracker) or [Flox](https://github.com/devfake/flox) - Self-Hosted Media Catalogs
 * [AniTrakt](https://anitrakt.huere.net/) - Trakt / MyAnimeList Sync
-* [cringeMDb](https://cringemdb.com/) - Find Movies Safe to Watch with Parents 
+* [cringeMDb](https://cringemdb.com/) - Find Movies Safe to Watch with Parents
 * [Age Rating JuJu](https://www.ageratingjuju.com/) - Media Age Ratings
 * [CommonSenseMedia](https://www.commonsensemedia.org/) - Age-Based Media Reviews
-* [BingeClock](https://www.bingeclock.com/) or [tiii.me](http://tiii.me/) - TV Show Length Calculator 
-* [MyDramaList](https://mydramalist.com/) - Asian Drama Tracker 
-* [MythBank](https://mythbank.com/) - Media Timelines / Watch Orders 
+* [BingeClock](https://www.bingeclock.com/) or [tiii.me](http://tiii.me/) - TV Show Length Calculator
+* [DramaWiki](https://wiki.d-addicts.com/) - Asian Drama Wiki
+* [MyDramaList](https://mydramalist.com/) - Asian Drama Tracker
+* [MythBank](https://mythbank.com/) - Media Timelines / Watch Orders
 * [MCU Precise Chronological Order](https://i.imgur.com/tczG4iI.jpg)
 * [watch_order](https://www.reddit.com/r/anime/wiki/watch_order) - Anime Watch Orders [/r/anime](https://reddit.com/r/anime)
 * [Anime Notifier](https://notify.moe/) - Anime List, Tracker, Database & Notifier 
@@ -1031,6 +1033,7 @@
 * [CCaptioner](https://github.com/gorhill/ccaptioner) - Add Subtitles to Videos / Extension 
 * [subtitle.js](https://github.com/gsantiago/subtitle.js) - Parse and manipulate SRT (SubRip)
 * [TranslatesSubtitles](https://translatesubtitles.com/) or [SubtitleTranslate](https://github.com/mepeichun/SubtitleTranslate) - Translate Subtitles
+* [Auto Synced & Translated Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Create Translated Dubs
 * [subtitle_tonemap](https://github.com/quietvoid/subtitle_tonemap) - Map PGS Subs to Different Color / Brightness
 * [DualSub](https://github.com/bonigarcia/dualsub) - Bilingual Subtitles Maker
 * [asbplayer](https://killergerbah.github.io/asbplayer/) - Subtitle Sentence Mining
