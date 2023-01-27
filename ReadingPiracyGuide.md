@@ -634,6 +634,7 @@
 * [DOAJ](https://doaj.org/) - Journals / Articles
 * [ResearchGate](https://www.researchgate.net/) - Science Articles
 * [SciLit](https://www.scilit.net/) - Science Articles
+* [ScienceDirect](https://www.sciencedirect.com/) - Science Articles
 * [MyScienceWork](https://www.mysciencework.com/) - Science Articles
 * [BiologyOnline](https://www.biologyonline.com/) - Biology Articles
 * [Academia](https://www.academia.edu/) - Academic Papers
