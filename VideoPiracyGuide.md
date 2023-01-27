@@ -470,7 +470,8 @@
 ## ▷ Sports Streaming
 
 * ⭐ **[FullMatchTV](https://fullmatchtv.com/)** - Sports
-* ⭐ **[NBAFullHD](https://nbafullhd.com/)**, [NBATVReplay](https://nbatvreplay.com/), [NBAHD](https://nbahd.com/) or [NBAHDReplay](https://nbahdreplay.com/) - NBA
+* ⭐ **[NBAFullHD](https://nbafullhd.com/)**, [NBATVReplay](https://nbatvreplay.com/), [NBAHD](https://nbahd.com/) or [NBAHDReplay](https://nbahdreplay.com/) - Basketball
+* ⭐ **[NFL Replay](https://nflreplay.net/)** - Football
 * ⭐ **[F1 Full Races](https://f1fullraces.com/)** - F1
 * ⭐ **[WatchWrestling24](http://watchwrestling24.net/)** - MMA / Wrestling
 * [FootballOrigin](https://www.footballorgin.com/) - Soccer
@@ -577,6 +578,7 @@
 * [BoxingStreams100](https://reddits.boxingstreams100.com/) - Boxing
 * [NBA Streams](https://reddit.nbastream.nu/) - NBA
 * [NBA3000](https://nba3000.ir/) - NBA
+* [NFL Streams](https://nflstreams.me/) - NFL
 * [MLB66](https://mlb66.ir/) - MLB
 * [LiveSoccer TV](https://www.livesoccertv.com/) - Soccer
 * [FootEM](https://www.footem.site/) - Soccer
