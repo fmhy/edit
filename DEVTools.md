@@ -1230,6 +1230,7 @@
 * [ReDoc](https://github.com/Redocly/redoc) - Generate API Documentation
 * [Mockable](https://www.mockable.io/), [Mocky](https://www.mocky.io/) or [MockLab](https://get.mocklab.io/) - Mock APIs
 * [{JSON} Placeholder](https://jsonplaceholder.typicode.com/) - Fake APIs
+* [Symmetric Encryption](https://graph.org/Symmetric-Encryption-API-12-25) - Symmetric Encryption API
 * [RandomAPI](https://randomapi.com/) - Generate Fake Data for Populating Mockups
 * [AIMG SRC](https://www.aimgsrc.com/) - Image Return API
 * [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator 
