@@ -394,6 +394,7 @@ Simulator
 
 # ► Chemistry 
 
+* ⭐ **[Lab Safety Guide / Intro](https://www.labmode.co.uk/lab-safety/introduction-to-lab-safety)**
 * ⭐ **[Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables)** - Online Periodic Tables / [App](https://jlindemann.se/homepage/atomic/)
 * ⭐ **[LibreTexts Chemistry](https://chem.libretexts.org)** - Chemistry Texts
 * ⭐ **[Internet Chemistry](https://www.internetchemistry.com/search.php)** or [ChemIDplus Advanced](https://chem.nlm.nih.gov/chemidplus/) - Search Index
