@@ -332,7 +332,7 @@
 * [avatarify-python](https://github.com/alievk/avatarify-python) or [veadotube](https://olmewe.itch.io/veadotube-mini) - Video Call Avatars
 * [screengif](https://github.com/dergachev/screengif), [gifcap](https://gifcap.dev/) / [GitHub](https://github.com/joaomoreno/gifcap) or [licecap](https://www.cockos.com/licecap/) - Turn Screencasts into GIFs
 * [Stream Recorder](https://www.hlsloader.com/) - Streaming Video Recorder
-* [tldv](https://tldv.io/) - Record Google Meets & Zoom
+* [tldv](https://tldv.io/), [ZoomRec](https://github.com/kastldratza/zoomrec) or [ZoomDL](https://github.com/Battleman/zoomdl) - Record Google Meets / Zoom Calls
 * [GifW00t](https://github.com/yaronn/GifW00t) - Javascript Web Recorder
 * [Jupitrr](https://jupitrr.com/) - Create Videos from Voice Recordings
 * [PseudoTV](https://github.com/DEFENDORe/pseudotv) - Create TV Channels using Plex Library
@@ -552,6 +552,7 @@
 * [Open Note Block Studio](https://opennbs.org/) - Minecraft Note Block Song Editor
 * [Acid Machine 2](http://errozero.co.uk/acid-machine/) - Acid Techno Machine
 * [AGS](https://audio-file.org/2020/11/25/ags-advanced-gtk-sequencer/) - Audio Sequencer
+* [Sequencer](https://sequencer.henryfellerhoff.com/) - Scale Sequencer
 * [Roland 808303.studio](https://808303.studio/) - Online Drum Machine / TB-303 Bass Synth 
 * [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/) or [Hammmerhead](http://www.threechords.com/hammerhead/) - Online Drum Machine
 * [orDrumbox](https://www.ordrumbox.com/) - Drum Machine
