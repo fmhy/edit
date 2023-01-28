@@ -2745,7 +2745,6 @@ Add the following commands to a search to manually scrape each site.
 #### Telegram Audio Download
 
 * [Music Downloader](https://t.me/MusicDownloaderRobot) - FLAC 
-* [Joey](https://t.me/joeymusicbot) - FLAC 
 * [flacmusics](https://t.me/flacmusics/) - FLAC 
 * [flacmusicalbumfree](https://t.me/flacmusicalbumfree/) - FLAC 
 * [FLACSong](https://t.me/FLACSong) - FLAC 
