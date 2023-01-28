@@ -177,7 +177,7 @@
 
 # ► Software Sites
 
-* ⭐ **[FileCR](https://filecr.com/en/)** - Software / Books / [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass)
+* ⭐ **[FileCR](https://filecr.com/en/)** - Software / Books / [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass) / [Search Fix](https://greasyfork.org/en/scripts/459020-filecr-search-fix)
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - Software / Books / [Mobile App](https://forum.mobilism.org/app/)
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)**
 * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
