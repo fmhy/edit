@@ -1410,6 +1410,7 @@
 * [nemo-crack](https://nemo-crack.org/) - Video / Audio / Software / Games / Roms / Books  
 * [cwer](http://cwer.ru/) - Video / Audio / Software / Games / Android  
 * [rsload](https://rsload.net/) - Software / Android / Games
+* [alpha-ag](https://www.alpha-ag.ru/) - Software / Android / Games
 * [2BakSa](http://2baksa.ws/) - Video / Audio / Games / Software / Books 
 * [Kinogo](https://kinogo.la/), [2](https://kinogo.biz/), [3](https://kinogo-net.org/) - Movies / TV / Anime / [Telegram](https://t.me/kinogoby)
 * [allmults](https://allmults.org/) - Movies  
@@ -1538,6 +1539,7 @@
 * [Teach.in](https://teach-in.ru/) - Lectures
 * [Notalone](https://notalone.tv/) - Video Sync / Watch Parties
 * [filmix](https://filmix.ac/) - Movies / TV
+* [Yohoho](https://yohoho.cc/) - Movies
 
 ## ▷ Reading
 
