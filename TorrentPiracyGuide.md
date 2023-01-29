@@ -147,6 +147,7 @@
 * [Dirty Torrents](https://dirtytorrents.com/)
 * [TorrentQuest](https://torrentquest.com/)
 * [TorrentHound](http://torrenthound.ee/)
+* [LibTor](https://libtor.ch/)
 * [Torrends](https://torrends.to/)
 * [CloudTorrents](https://cloudtorrents.com/)
 * [BTDB](https://btdb.eu/)
