@@ -770,11 +770,11 @@ Simulator
 * [Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables) - Online Periodic Tables / [App](https://jlindemann.se/homepage/atomic/)
 * [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
 * [Answers.com](https://www.answers.com/) or [Quora](https://www.quora.com/) / [Bypass](https://github.com/VoidlessVoid7/quora-plus-bypass), [2](https://redd.it/ywml2b) / [Frontend](https://github.com/zyachel/quetre) - Q&A Communities
-* [Edgibot](https://www.edgibot.com/), [Get Unstuck](https://socratic.org/), [sarthaks](https://www.sarthaks.com/) or [Brainly](https://brainly.com/) - Homework Help
+* [Edgibot](https://www.edgibot.com/), [Caktus](https://www.caktus.ai/), [Answers Exchange](https://discord.gg/GFp9Rvr), [Get Unstuck](https://socratic.org/), [sarthaks](https://www.sarthaks.com/) or [Brainly](https://brainly.com/) - Homework Help Bots / Communities
+* [Chegg Answers](https://www.istaunch.com/how-to-get-chegg-answers-for-free/#2_Free_Chegg_Answers_by_iStaunch), [2](https://creativesavantz.com/how-to-access-chegg-solutions-for-free/), [3](https://litanswers.net/get-free-chegg-answers/), [4](https://techpanga.com/free-chegg-answer/), [5](https://trickswire.com/free-chegg-answers/), [6](https://www.rootupdate.com/free-chegg-answers/), [7](https://homeworkify.net/) - Chegg Answers
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
-* [Answers Exchange](https://discord.gg/GFp9Rvr), [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
+* [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
 * [GradesFixer](https://www.gradesfixer.com/) - Essay Samples
-* [Chegg Answers](https://www.istaunch.com/how-to-get-chegg-answers-for-free/#2_Free_Chegg_Answers_by_iStaunch), [2](https://creativesavantz.com/how-to-access-chegg-solutions-for-free/), [3](https://litanswers.net/get-free-chegg-answers/), [4](https://techpanga.com/free-chegg-answer/), [5](https://trickswire.com/free-chegg-answers/), [6](https://www.rootupdate.com/free-chegg-answers/), [7](https://homeworkify.net/) - Homework Answer Tools
 * [School Cheats](https://schoolcheats.net/) - School Platform Answers 
 * [Quizizz Cheat](https://github.com/gbaranski/quizizz-cheat) - Quizizz Answers Tool
 * [PXTrez](https://pxtrez.com/) - Kahoot Answers Tool
