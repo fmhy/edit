@@ -173,6 +173,7 @@
 * [IndieGala](https://freebies.indiegala.com/) - Games
 * [/r/freegames](https://www.reddit.com/r/freegames/) - Games
 * [/r/RandomActsOfGaming](https://www.reddit.com/r/RandomActsOfGaming/) - Games
+* [TemporarilyFreeGames](https://t.me/temporarilyfreegames) - Games
 * [ClaimFreeGames](https://claimfreegames.com/) - Games
 * [GrabFreeGames](https://grabfreegames.com/) - Games
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - Games
@@ -1457,14 +1458,14 @@
 * ⭐ **[Userscript Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_userscript_managers)**
 * ⭐ **[Userscripts Guide](https://rentry.co/userscript-guide)**
 * ⭐ **[Greasy Fork](https://greasyfork.org/en)**, [OpenUserJS](https://openuserjs.org/) or [Userscripts](https://userscripts-mirror.org/) or  - Install Userscripts / [Git Install](https://greasyfork.org/en/scripts/6456)
-* ⭐ **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/431584) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Remove Crap](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336) / [Dark Theme](https://greasyfork.org/en/scripts/404443)
+* ⭐ **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/431584) / [Helper](https://greasyfork.org/en/scripts/393396) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Cleanup Script](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336) / [Dark Theme](https://greasyfork.org/en/scripts/404443)
 * [Awesome Userscripts](https://github.com/bvolpato/awesome-userscripts), [loopvid](https://github.com/XIU2/UserScript)[Scripts](https://gitlab.com/loopvid/scripts) or [Userscript.zone](https://www.userscript.zone/) - Userscript Indexes
 * [darkmode.js](https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c) - Dark Mode Script
 * [SB.js](https://github.com/mchangrh/sb.js) - SponsorBlock Userscript
 * [2ch-captcha-solver](https://gitgud.io/IeatMonkeysLOL/2ch-captcha-solver-plugin/-/tree/master/) - 2CH Captcha Solver
 * [Solved Media Plus](https://greasyfork.org/en/scripts/422074-solved-media-plus) - Image Captcha Solver
 * [Bypass Google Sorry](https://greasyfork.org/en/scripts/447130) - Redirect Google reCAPTCHA
-* [Remove Web Limits](https://greasyfork.org/en/scripts/28497-remove-web-limits-modified), [2](https://greasyfork.org/en/scripts/386908-remove-web-limits-re-modified) - Force Enable Right Click
+* [Remove Web Limits](https://greasyfork.org/en/scripts/28497), [2](https://greasyfork.org/en/scripts/386908), [3](https://greasyfork.org/en/scripts/14146) - Force Enable Right Click
 * [anti-anti-copy](https://greasyfork.org/en/scripts/7197) - Copy Text from Any Site
 * [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Select Text Inside Links
 * [Select All Checkboxes](https://greasyfork.org/en/scripts/22587) - Auto Check All Boxes
@@ -1473,13 +1474,13 @@
 * [Direct Links Out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Remove "You are Leaving" Site Popups
 * [Sleek YouTube Downloader](https://greasyfork.org/en/scripts/438233) - Add Download Buttons to YouTube
 * [Google Cleaner](https://greasyfork.org/en/scripts/33313-google-cleaner) - Minimalist Google
+* [Google Hit Hider](https://greasyfork.org/en/scripts/1682) - Hide Sites in Search Results
 * [altsearch links](https://greasyfork.org/en/scripts/13542-altsearch-links) - Adds General Search Engines to Results
 * [DownloadAllContent](https://greasyfork.org/en/scripts/25068) - Download Content from Pages
 * [Microsoft Store Direct Download](https://greasyfork.org/en/scripts/394420-microsoft-store-direct-download) - Microsoft Store Direct Downloads
 * [Maximize Video](https://greasyfork.org/en/scripts/4870) - Maximize Playing Videos via Button
-* [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5) 
-* [4chan X](https://greasyfork.org/en/scripts/7750-4chan-x) - Imageboards Features / [Themes](https://github.com/KevinParnell/OneeChan) / [GitHub](https://github.com/ccd0/4chan-x) 
-* [Extra Flags for 4chan](https://gitlab.com/flagtism/Extra-Flags-for-4chan) - Add More Flags to 4chan
+* [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5)
+* [Picviewer CE+](https://greasyfork.org/en/scripts/24204) - Image Viewing Tool
 * [Show Image Dimensions](https://greasyfork.org/scripts/401432) - Add Image Dimensions to Google
 * [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - Google Search Endless Scrolling 
 * [Extra Search Buttons](https://greasyfork.org/en/scripts/7543-google-search-extra-buttons) - Extra Google Search Buttons
