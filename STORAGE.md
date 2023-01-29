@@ -3395,10 +3395,9 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 * ⭐ **[ReVanced Manager](https://github.com/revanced/revanced-manager)**, [2](https://revanced.app/) / [Script](https://github.com/decipher3114/Revancify)
 * ⭐ **[ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module)**
+* ⭐ **[NewPipe](https://newpipe.net/)** / [Sponsorblock](https://github.com/polymorphicshade/NewPipe)
 * [Vanced Mirrors](https://www.apkmirror.com/?post_type=app_release&searchtype=apk&s=vanced+manager) / [2](https://vanced.esherloon.com/) / [3](https://github.com/cuynu/ytvanced) / [4](https://github.com/jinoo2005609/VancedManager) / [5](https://mirror.codebucket.de/vanced/api/) / [6](https://t.me/vanced_mod_archive)
 * [AfterVanced](https://www.reddit.com/r/AfterVanced/)
-* [NewPipe](https://newpipe.net/)
-* [Newpipe w/ Sponsorblock](https://github.com/polymorphicshade/NewPipe)
 * [VueTube](https://vuetube.app/) / [GitHub](https://github.com/VueTubeApp/VueTube)
 * [uYouPlus](https://github.com/qnblackcat/uYouPlus)
 * [WebTube](https://webtubeapp.xyz/)
