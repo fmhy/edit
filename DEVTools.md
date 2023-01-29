@@ -56,7 +56,7 @@
 * [QuickRef.ME](https://quickref.me/), [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
 * [Programming Challenges](https://i.imgur.com/FPwNgOK.png), [HackTheEarth](https://www.hackerearth.com/challenges/), [EMKC](https://emkc.org/challenges) or [Code Golf](https://codegolf.stackexchange.com/) - Programming Challenges
 * [30 Seconds of Code](https://www.30secondsofcode.org/) - Javascript / CSS/ React / Python / Website-building / [GitHub](https://github.com/30-seconds)
-* [Codexplainer AI](https://chrome.google.com/webstore/detail/codexplainer-ai-beta/mekadgeckpcgideipfhbcapmenbadejp) - Code Explanations
+* [Codexplainer AI](https://chrome.google.com/webstore/detail/codexplainer-ai-beta/mekadgeckpcgideipfhbcapmenbadejp) or [Denigma](https://denigma.app/#demo) - Code Explanations
 * [Coding Problems](https://github.com/MTrajK/coding-problems) - Solutions for Coding Problems
 * [RoboMind](https://www.robomind.net/) or [Checki0](https://checkio.org/) - Code Learning Games
 * [mimo](https://getmimo.com/) - Coding Tutorial App
@@ -432,7 +432,7 @@
 * [NetLib.re](http://netlib.re/), [takingnames](https://takingnames.io/blog/instant-subdomains) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains 
 * [TheDev](https://thedev.id/) or [Dev.page](https://dev.page/) - Free Developer Subdomains
 * [redirect.name](https://redirect.name/) - URL Forwarding
-* [StatPing](https://github.com/statping/statping), [checkthe.website](https://checkthe.website/), [Better Uptime](https://betteruptime.com/), [CheckServer](https://check-host.net/), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - Site Uptime Monitors
+* [StatPing](https://github.com/statping/statping), [checkthe.website](https://checkthe.website/), [Better Uptime](https://betteruptime.com/), [CheckServer](https://check-host.net/), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - Site Uptime Monitors
 * [UseMe](https://useme.org/) or [PingDom](https://tools.pingdom.com) - Ping Website
 * [Measure](https://web.dev/measure/) - Site Functionality Test
 * [Site Inspector](https://www.getsiteinspector.com/) - Check Site for Spelling / Grammatical Errors
@@ -652,7 +652,7 @@
 * [Dotnet Releaser](https://github.com/xoofx/dotnet-releaser) - Automate Release of .NET Applications
 * [Pencil](http://pencil.evolus.vn/) - Software Mockup Tool / [GitHub](https://github.com/evolus/pencil)
 * [GNUnet](https://gnunet.org/en/) - Software Framework
-* [Slint](https://github.com/slint-ui/slint) - GUI Development Tool
+* [Slint](https://github.com/slint-ui/slint or [QT Designer](https://build-system.fman.io/qt-designer-download) - GUI Development Tools
 * [Kuker](https://github.com/krasimir/kuker) - Debug Applications
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - HTTP Proxy
 * [BugSnag](https://www.bugsnag.com/) - Application Stability Monitor
@@ -682,10 +682,10 @@
 
 ## ▷ App Development
 
+* ⭐ **[Heroku-Alt](https://rentry.co/Heroku-Alt)** or [heroku-free-alternatives](https://github.com/Engagespot/heroku-free-alternatives) - Heroku Alternatives
 * ⭐ **[AndroidRepo](https://androidrepo.com/)** - Android App Development Resources
 * ⭐ **[Awesome iOS](https://github.com/vsouza/awesome-ios)** - iOS App Development Resources
 * ⭐ **[Tizen](https://www.tizen.org/)** - Android TV App Creator
-* [Heroku-Alt](https://rentry.co/Heroku-Alt) - Heroku Alternatives
 * [SupaBase](https://supabase.com/), [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Dokku](https://dokku.com/), [AndroidIDE](https://androidide.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter), [2](https://github.com/leanflutter/awesome-flutter-desktop) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators
 * [XDA](https://forum.xda-developers.com/) - App Development Forum
 * [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - App Development Platform / [GitHub](https://github.com/xamarin)
@@ -961,6 +961,7 @@
 * [Sourcegraph](https://about.sourcegraph.com/) - GitHub Repository Sourcegraph Editor 
 * [onefetch](https://github.com/o2sh/onefetch) - Git Information Terminal
 * [shot-scraper-template](https://github.com/simonw/shot-scraper-template) - Take Automated Screenshots of Web Pages
+* [Star History](https://star-history.com/) - Repository Star History Graph
 * [Whats New GitHub](https://github.com/flawyte/whats-new-github) or [GithubReleasesBot](https://telegram.me/GithubReleasesBot) - Repository Change Feeds 
 * [Conventional Commits](https://www.conventionalcommits.org/) - Commit Message Specification
 * [lastversion](https://github.com/dvershinin/lastversion) or [ghrel](https://github.com/jreisinger/ghrel) - Download / View Latest Stable Repos
@@ -973,6 +974,7 @@
 * [Github Readme Quotes](https://github.com/shravan20/github-readme-quotes) - GitHub Readme Quote Generator
 * [Awesome README](https://github.com/matiassingers/awesome-readme) - GitHub Readme Examples
 * [GIT Quick Stats](https://git-quick-stats.sh/) - View Git Statistics / [GitHub](https://github.com/arzzen/git-quick-stats)
+* [YourYearInCode](https://www.youryearincode.com/) - Yearly Git Statistics
 * [GitHub Release Downloads](https://github.com/addshore/browser-github-release-downloads) - GitHub Release Download Counter
 * [Shields.io](https://shields.io/) - Metadata badges for GitHub Readmes
 * [SkillIcons](https://skillicons.dev/) - Skill Badges for GitHub Readmes / Resumes
@@ -989,6 +991,7 @@
 * [gitignore](https://github.com/github/gitignore) - Gitignore Templates
 * [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub), [diohub](https://github.com/NamanShergill/diohub),[Fasthub-Libre](https://github.com/thermatk/FastHub-Libre, [FastHub-RE](https://github.com/LightDestory/FastHub-RE), [MGit](https://github.com/maks/MGit), [GitNex](https://codeberg.org/gitnex/GitNex/ or [OctoDroid](https://github.com/slapperwan/gh4a) - Android GitHub Clients
 * [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - Track Github User Activity on Android
+* [commits.top](https://commits.top/) - Most Active GitHub Users
 * [Gitea](https://gitea.io/), [2](https://gittea.dev/) or [Drift](https://www.drift.lol/) - Self-Hosted Git Service
 
 ***
@@ -1216,7 +1219,7 @@
 
 ## ▷ API Tools
 
-* [API List](https://apilist.fun/), [APIsList](https://apislist.com/), [API House](https://apihouse.vercel.app/), [Awesome APIs](https://github.com/TonnyL/Awesome_APIs), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - API Indexes
+* [API List](https://apilist.fun/), [Public APIs](https://publicapis.dev/), [APIsList](https://apislist.com/), [API House](https://apihouse.vercel.app/), [Awesome APIs](https://github.com/TonnyL/Awesome_APIs), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - API Indexes
 * [Insomnia](https://insomnia.rest/) - API Client
 * [Strapi](https://strapi.io/) or [Postman](https://www.postman.com/) - API Builders
 * [Directus](https://directus.io/) - SQL to API Platform
