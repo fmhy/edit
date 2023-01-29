@@ -1442,31 +1442,32 @@
 * [UpTracker](https://www.uptracker.ru/) - Torrent Tracker Index
 * [krasfs](https://krasfs.ru/) - Torrent Search 
 * [torrent.by](http://torrent.by/) - Torrent Search 
-* [rutracker.ru](http://rutracker.ru/) - Video / Audio / Games / Books / Software / Android / NSFW 
+* [rutracker.ru](http://rutracker.ru/) - Video / Audio / Games / Books / Software / Android / NSFW
 * [rutor](http://rutor.info/) - Video / Audio / Games / Software / Books / Roms / Magazines
-* [NNTT](http://www.nntt.org/) - Video / Audio / Software / Games / Books / Magazines / Android 
+* [NNTT](http://www.nntt.org/) - Video / Audio / Software / Games / Books / Magazines / Android
 * [Rus-Media](http://rus-media.org/) - Video / Audio / Software / Games / Roms / Books / Magazines / Android / NSFW
-* [PB.wtf](https://pb.wtf/) - Video / Audio / Software / Games / Books / Comics / Magazines / Android / NSFW 
+* [PB.wtf](https://pb.wtf/) - Video / Audio / Software / Games / Books / Comics / Magazines / Android / NSFW
 * [Riper.AM](http://riperam.org/) - Video / Audio / Software / Games / Books / Magazines / Android / NSFW
-* [Tapochek](https://tapochek.net/) - Video / Audio / Software / Games / Books 
-* [Korsars](http://korsars.pro/) - Video / Audio / Software / Games / Books 
-* [nionDHT](http://uniondht.org/) - Video / Audio / Software / Games / Books / NSFW 
-* [SeedOff](https://seedoff.zannn.top/) - Video / Audio / Software / Games / Books 
-* [rustorka](http://rustorka.com/forum/index.php) - Games / Roms / Audio / Books / Magazines / Software / Android / Video 
-* [NNM-Club](https://nnmclub.to/) - Video / Audio / Software / Games 
+* [Tapochek](https://tapochek.net/) - Video / Audio / Software / Games / Books
+* [Korsars](http://korsars.pro/) - Video / Audio / Software / Games / Books
+* [nionDHT](http://uniondht.org/) - Video / Audio / Software / Games / Books / NSFW
+* [SeedOff](https://seedoff.zannn.top/) - Video / Audio / Software / Games / Books
+* [rustorka](http://rustorka.com/forum/index.php) - Games / Roms / Audio / Books / Magazines / Software / Android / Video
+* [NNM-Club](https://nnmclub.to/) - Video / Audio / Software / Games
 * [Spaider](http://spaider.net/) - Video / Audio / Software / Games / Roms
 * [DDGroupClub](http://ddgroupclub.win/) - Video / Audio / Software / Games / Roms / Books
 * [GTorrent](http://gtorrent.pro/) - Video / Audio / Software / Games
 * [Utor.pp](http://utor.pp.ua/) - Video / Audio / Software / Games / Roms / Books
-* [Fast torrent](http://fast-torrent.ru/) - Movies / TV / Anime 
+* [Fast torrent](http://fast-torrent.ru/) - Movies / TV / Anime
 * [FireBit](http://firebit.org/) - Video / Audio / Software / Games / Books
-* [BigFanGroup](https://bigfangroup.org/) - Movies / TV / Anime 
+* [BigFanGroup](https://bigfangroup.org/) - Movies / TV / Anime
 * [ByTorent](http://bytorent.ru/) - Video / Audio / Software
 * [Animelayer](http://animelayer.ru/) - Anime 
 * [Torrent.Northnet](http://torrent.northnet.ru/) - Movies / TV
 * [kinozal](http://kinozal.tv/) - Movies 
 * [Underver](https://underver.se/) - Movies / TV
 * [androidkino](https://androidkino.net/) - Movies / TV 
+* [RIPS](https://rips.club/) - Movies / TV / Concerts
 * [bitru](https://bitru.org/) - Movies 
 * [Selezen](https://selezen.net/) - Movies
 * [DarkLibria](https://darklibria.it/) - Anime
