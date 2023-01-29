@@ -82,7 +82,7 @@
 * [OSX-KVM](https://github.com/kholia/OSX-KVM), [OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - MacOS Virtual 
 * [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - Communicate with iOS Devices
 * [InstantBox](https://github.com/instantbox/instantbox) - Temporary Linux Systems
-* [HowtoForge](https://www.howtoforge.com/), [Erik Dubois](https://www.youtube.com/c/ErikDubois) or [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA) - Linux Tutorials
+* [HowtoForge](https://www.howtoforge.com/), [Sindresorhus Guides](https://github.com/sindresorhus/guides), [Erik Dubois](https://www.youtube.com/c/ErikDubois) or [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA) - Linux Guides / Tutorials
 * [DotShare](http://dotshare.it/) - Distro Config Index
 * [Linux Live Kit](https://www.linux-live.org/) - Live Linux Distro Creator
 * [ArchLinuxGUI](https://archlinuxgui.in/download.html), [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - Arch Linux Installer
@@ -287,7 +287,7 @@
 
 # ► Linux Adblock / Privacy
 
-* **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** or [SShuttle](https://github.com/sshuttle/sshuttle) - Proxies
+* ⭐ **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** or [SShuttle](https://github.com/sshuttle/sshuttle) - Proxies
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) or [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) - Linux Privacy Guide
 * [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
 * [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
@@ -403,7 +403,7 @@
 * [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions MacOS
 * [ravynOS](https://airyx.org/) - FreeBSD style MacOS
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
-* [Boot Camp](https://support.apple.com/boot-camp) - Windows Bootloader 
+* [Boot Camp](https://support.apple.com/boot-camp) - Windows Bootloader / [DL Script](https://github.com/timsutton/brigadier)
 * [Docker OSX](https://github.com/sickcodes/Docker-OSX) - Mac VM in Docker
 * [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - MacOS Virtualbox Installer
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - Windows 11 Desktop Client for macOS
