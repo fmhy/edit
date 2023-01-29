@@ -16,7 +16,7 @@
 * ⭐ **[Soap2Day](https://soapgate.org/)** - Movies / TV
 * ⭐ **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * ⭐ **[Ask4movies](https://ask4movie.mx/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
-* ⭐ **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
+* ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / Invite Code: mpgh or 1hack
 * ⭐ **[C1NE](https://c1ne.co/)** - Movies / TV / [Discord](https://discord.gg/nXUP8TxNSR)
 * ⭐ **[HDMovieBox](https://hdmoviebox.org/)** - Movies
 * ⭐ **[UniqueStream](https://uniquestream.net/)** - Movies / TV
@@ -43,8 +43,6 @@
 * [Plex](https://watch.plex.tv/) - Movies / TV
 * [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / Library Card Required
 * [KissKH](https://kisskh.me/Explore?type=4) - Movies / TV / Anime
-* [123MoviesGoTo](https://123moviesgoto.com/) -  Movies / TV
-* [123MoviesFree](https://ww1.123moviesfree.net/) - Movies / TV / Anime
 * [StreamLord](http://www.streamlord.com/) - Movies / TV
 * [Trailers.to](https://trailers.to/) - Movies / TV / [Bypass Quota](https://openvideofs.github.io/)
 * [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://i.imgur.com/Ij8muns.mp4)
@@ -56,12 +54,15 @@
 * [AllMoviesForYou](https://allmoviesforyou.net/) - Movies / TV
 * [FFilmClub](https://filmsclub.org/) - Movies / TV
 * [1movies](https://1movies.life/), [2](https://real-primewire.club/), [3](https://couchtuner.fashion/), [4](https://ww2.new-primewire.com/) - Movies / TV / Anime
+* [123MoviesGoTo](https://123moviesgoto.com/) -  Movies / TV
+* [123MoviesFree](https://ww1.123moviesfree.net/) - Movies / TV / Anime
+* [123Moviess](https://123moviess.net/) - Movies / TV
 * [Show Flix](https://showflix.in/lan/movie/English) - Movies / TV / Switch Audio Source in Settings
 * [VHMovies](https://vhmovies.net/) - Movies / TV / Anime
 * [Moviehdkh](https://www.moviehdkh.com/) - Movies
-* [Flixtor.stream](https://flixtor.stream/) - Movies / TV
 * [MoviesJoy](https://moviesjoy.best/) - Movies / TV
 * [VidStore](https://stream.vidzstore.com/) - Movies
+* [HDWatched](https://www.hdwatched.me/) - Movies / TV
 * [0xDB](https://0xdb.org/) - Movies / [How-to](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies#wiki_method_2_-_streaming)
 * [162.12.215.254](http://162.12.215.254/) - Movies
 * [aflaam](https://aflaam.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -72,6 +73,7 @@
 * [PrimeMoviesFlix](https://primemoviesflix.com) - Movies / TV / Anime
 * [Afdah.live](https://afdah.live/) - Movies / TV
 * [Flixtor](https://flixtor.to) - Movies / TV / Movies Older Than 6 Months For Premium Only
+* [GotyTV](https://gotytv.com/) - Movies / TV / Requires Signup
 * [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_google_teamdrives) - Movies / TV / Anime
 * [English Movies](https://m.vk.com/english_movies) - Movies
 * [Filmzie](https://filmzie.com/) - Movies / TV
@@ -106,8 +108,9 @@
 * ⭐ **[FMovies](https://fmovies.name/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
 * ⭐ **[movie-web](https://movie.squeezebox.dev/)** - Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)
-* ⭐ **[Movie-Forum](https://movie-forum.co/forum.php)** - Movies / TV
-* ⭐ **[CloudStream](https://cloudstream.cf/)** - Movies / TV / Anime / Chromecast / [Discord](https://discord.gg/5Hus6fM) / [Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cloudstream_forks) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/) / [Sora Extension](https://youtu.be/yDuXGAnFQuI) / [Use Emulator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)
+* ⭐ **[Kodi](https://kodi.tv/)** - Media Server / Streaming App / [Addons / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kodi_tools)
+* ⭐ **[CloudStream](https://cloudstream.cf/)** - Movies / TV / Anime / [Use Emulator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)
+* ⭐ **CloudStream Tools** - [Discord](https://discord.gg/5Hus6fM) / [Downloads](https://rentry.org/cs3/) / [Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cloudstream_forks) / [Trakt Addon](https://2ecbbd610840-trakt.baby-beamup.club/) / [Sora Addon](https://youtu.be/yDuXGAnFQuI) 
 * [FlixHQ](https://flixhq.click/) - Movies / TV / Anime
 * [Goku](https://goku.to/) - Movies / TV / Anime
 * [IceFilms](https://icefilms.tv/) - Movies / TV
@@ -184,7 +187,6 @@
 * [123movies](https://api.123movie.cc/) - Movies / TV / Anime / API
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [VidSrc](https://vidsrc.me/) - Movies / TV / Anime / API
-* [Kodi](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kodi) - Streaming App
 * [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) or [FileStreamBot](https://github.com/adarsh-goel/filestreambot) - Telegram File Streaming
 * [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) or [Stream IMDb](https://github.com/4L00/TemperMonkey-Scripts/) - Add Stream Search Buttons to IMDb
 * [Letmewatch](https://letmewatch.app/) - Movies / TV / Extension / [GitHub](https://github.com/AdvithGopinath/LetMeWatch)
@@ -485,6 +487,7 @@
 * [WatchProWrestling](https://watchprowrestling.org/) - MMA / Wrestling
 * [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing
 * [SportsReplay](https://discord.com/invite/2r4pj67gCv) - [F1](https://f1full.com/) / [MMA](https://mmafull.com/)
+* [Hula8](https://www.hula8.net/) - MMA
 * [Bellator](https://www.bellator.com/video) - MMA
 * [/r/MMAFights](https://www.reddit.com/r/mmafights/) - MMA
 * [MMACore](https://www.mma-core.com/videos/home) - MMA
@@ -629,7 +632,7 @@
 * [megaDDL](https://megaddl.co/) - Movies / TV
 * [StarsDDL](https://starsddl.me/) - Movies / TV
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
-* [EE3](https://ee3.me/) - Movies / Invite Code: mpgh
+* [EE3](https://ee3.me/) or [RIPS](https://rips.cc/) - Movies / Invite Code: mpgh or 1hack
 * [Reqzone](https://reqzone.com/) - Movies / TV
 * [KatMovieHD](https://katmoviehd.rs/category/hollywood-eng/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [Minirlss](https://minirlss.com/) - Movies / TV / Anime
@@ -641,6 +644,7 @@
 * [MeloMovie](https://melomovie.com/) - Movies / TV
 * [MKV Cage](https://www.mkvcage.site/) - Movies / TV
 * [Best-Movies](http://best-movies.info/) - Movies / TV
+* [WatchingForLinks](https://watchingforlinks.com/) - Movies / TV
 * [Onkyo4k](https://onkyo4k.com/) - Movies / TV
 * [ShareSpark](https://sharespark.me/) - Movies / TV
 * [Free Movies](https://free-movies.to/) - Movies / TV
