@@ -22,7 +22,7 @@
 * [Resso](https://www.resso.com/in/) - Streaming
 * [Musify](https://github.com/gokadzev/Musify) - Streaming
 * [Muffon](https://github.com/staniel359/muffon) - Streaming
-* [Deezer](https://www.deezer.com/) - Streaming
+* [Deezer](https://www.deezer.com/) - Streaming / [Full Songs](https://git.uhwot.cf/uhwot/dzunlock.git)
 * [OdesliBot](https://t.me/odesli_bot) - Audio Stream Search Bot
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
 * [JukeboxStar](https://jukeboxstar.com/) - Collaborative Playlist Streaming
@@ -101,7 +101,7 @@
 
 ## ▷ Podcasts / Radio
 
-* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)
+* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders) / [Video Download](https://redd.it/zzvc0t)
 * ⭐ **[Radio Streaming Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_radio_streaming_sites)** - Radio Sites
 * ⭐ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
 * [Podchaser](https://podchaser.com/) or [Listen Notes](https://www.listennotes.com/) - Podcast Databases / Trackers
@@ -194,6 +194,7 @@
 * [Relaxing Sounds](https://unifycosmos.com/relaxing-sounds/) - Ambient
 * [Whispr](https://www.whispr.tech/) - Ambient
 * [Noises Online](https://noises.online/) - Ambient
+* [Relaxing Sounds](https://www.shuteye.ai/relaxing-sounds/) - Ambient
 * [A Soft Murmur](https://asoftmurmur.com/) - Ambient 
 * [Nature Mixer](https://naturemixer.com/) - Ambient
 * [Moszen](https://www.moszen.com/) - Ambient
@@ -242,13 +243,13 @@
 * [streamrip](https://github.com/nathom/streamrip) - Deezer, TIDAL, Qobuz, YouTube, and SoundCloud Downloader / [Colab](https://github.com/taskylizard/rip)
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - Music Ripper
 * [FreyrJS](https://github.com/miraclx/freyr-js) - Spotify, Deezer and Apple Music Downloader
-* [deemix](https://deemix.app/), [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - Deezer Downloaders
+* [deemix](https://deemix.app/), [orpheusdl-deezer](https://github.com/uhwot/orpheusdl-deezer), [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - Deezer Downloaders
 * [OFFMP3](https://offmp3.com/), [Anything2MP3](https://anything2mp3.cc/) or [conversormp3](https://conversormp3.com.br/) - Video to MP3 Converter
 * [SMLoadr](https://t.me/SMLoadrNews) - FLAC / MP3 / [Desktop GUI](https://github.com/thelucifermorningstar/SMLoadr-AUX/releases)
 * [Musify](https://github.com/gokadzev/Musify) - MP3
 * [Music Kraken](https://pypi.org/project/music-kraken/) - MP3
 * [MP3Jam](https://www.mp3jam.org/) - MP3
-* [RedSea](https://github.com/Dniel97/RedSea) - Tidal Music Downloader 
+* [RedSea](https://github.com/Dniel97/RedSea), [Tidal Media Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) / [Pro](https://github.com/yaronzz/Tidal-Media-Downloader-PRO), [orpheusdl-tida](https://github.com/Dniel97/orpheusdl-tidal) or [Tidal-DL](https://yaronzz.com/post/tidal_dl_installation) - Tidal Music Downloaders
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - FLAC / MP3
 * [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots)
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - Music Download Tool 
@@ -257,7 +258,9 @@
 * [KeepTube](https://jaymoulin.me/me/keeptune/) - Soundcloud & Bandcamp Downloader
 * [GetFVid](https://www.getfvid.com/) - Facebook Video / Audio Downloader 
 * [Musescore-downloader](https://github.com/Xmader/musescore-downloader) - Musescore Downloader
+* [Orpheus Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz) or [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz Downloaders
 * [jiosaavn-downloader](https://github.com/GrayGalaxy/jiosaavn-downloader) / [2](https://github.com/kx3ez1/jiosaavn-downloader) or [music-dl](https://github.com/vishaltelangre/music-dl) - JioSaavn Downloaders
+* [orpheusdl-napster](https://github.com/yarrm80s/orpheusdl-napster) - Napster Downloader
 * [gaana-downloader-extension)](https://github.com/tuhinpal/gaana-downloader-extension) - Gaana Downloader
 * [you-get](https://you-get.org/) or [irs](https://github.com/cooperhammond/irs) - Audio Command Line Download Tool
 * [music-downloader](https://github.com/Dayhawk007/music-downloader) - Python Music Download Script
@@ -483,7 +486,7 @@
 * [Music.ishkur](http://music.ishkur.com/) - Electronic Music Guide
 * [Every Noise at Once](http://everynoise.com/) - Music Genre Samples
 * [This Is What You Listen To](https://tiwylt.musimap.io/) - Song Genre / Info Analyzer
-* [Identifying Music Genres]https://chunisama.github.io/Identifying-Music-Genres/) - Compare Music Genres
+* [Identifying Music Genres](https://chunisama.github.io/Identifying-Music-Genres/) - Compare Music Genres
 * [SpotiFictional](https://spotifictional.com/) - Music from Fictional Artists
 * [Loudness War](https://dr.loudness-war.info/) - Albums Dynamic Range Database
 * [rate.house](https://rate.house/) - Media Tracker
