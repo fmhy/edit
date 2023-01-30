@@ -592,7 +592,6 @@
 * [APKMaza](https://apkmaza.org/) - Modded
 * [LetsCrackOn](https://letscrackon.org/downloads/) - Modded
 * [APK Folks](https://apkfolks.com/) - Modded
-* [Thinkkers](https://thinkkers.com/) - Modded / [Telegram](https://t.me/thinkkers)
 * [DL King](http://dl.king2net.com/soft%20android/) - Modded
 * [APK Bolt](https://apkbolt.com/) - Modded
 * [ModApk.Cloud](https://modapk.cloud/) - Modded
