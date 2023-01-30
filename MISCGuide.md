@@ -60,7 +60,6 @@
 * [/u/fullnumberofcharacte's Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/g37lwb/megapiracywiki/g1lnle5/) - Site / Tool Index
 * [pomfcrawl](https://pomfcrawl.pythonanywhere.com/) - Site / Tool Index
 * [5000 Best](http://5000best.com/websites/) - Site / [Tool](http://5000best.com/tools/) Index
-* [Internet Redirections](https://techy-transistor.notion.site/techy-transistor/Internet-redirections-38a61405197a46ba8672c75d402a3225#58bffba979224bc3af93f0b1b8838806) - Site / Tool Index
 * [alt3rnative](https://github.com/machiav3lli/alt3rnative) - Site / Tool Index
 * [Peelopaalu](https://peelopaalu.neocities.org/) - Site / Tool Index
 * [RefDesk](https://www.refdesk.com/facts.html) - Site / Tool Index
