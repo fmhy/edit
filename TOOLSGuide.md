@@ -62,7 +62,7 @@
 * [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Concerts / Music Festival Search
 * [Visa Guide](https://visaguide.world/) - Worldwide Travel Visa Guides
 * [KittySplit](https://www.kittysplit.com/en/) - Group Expense Splitting Calculator
-* [Sleepyti.me](https://sleepyti.me/) or [Sleeptyme](https://sleeptyme.ca/) - Bedtime Calculator
+* [Sleepyti.me](https://sleepopolis.com/calculators/sleep/) - Bedtime Calculator
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - Bra Size Calculator
 * [The Sustainabilitist](https://sustainabilitist.com/) - Sustainability Resource Hub
 * [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity Booster / [Premium Unlock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cold_turkey_premium)
@@ -1589,7 +1589,7 @@ Twitch Stream Tracker
 * [TwopCharts](https://twopcharts.com/) - Multiple Twitter Tools 
 * [/r/Twitter](https://reddit.com/r/Twitter) - Twitter Subreddit
 * [Awesome Twitter Bots](https://github.com/amandeepmittal/awesome-twitter-bots) - Twitter Bot Index
-* [TumblThree](https://github.com/TumblThreeApp/TumblThree) - Twitter / Tumbl Backup Tool
+* [TumblThree](https://github.com/TumblThreeApp/TumblThree) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumbl Backup Tools
 * [Minimal Twitter](https://www.wang.sh/minimal-twitter) - Minimal Twitter Themes
 * [Tweak New Twitter](https://github.com/insin/tweak-new-twitter) or [twttr](https://github.com/sreechar/twttr) - Twitter Enhancement Extension
 * [Twitonomy](https://www.twitonomy.com/) or [Affinitweet](https://affinitweet.com/) - Twitter Dashboard / Analytics 
@@ -1845,7 +1845,7 @@ Twitch Stream Tracker
 * [OllyDbg](https://www.ollydbg.de/) - Binary Code Analysis Tool
 * [WhoCrashed](https://www.resplendence.com/whocrashed) - Windows Crash Analyzer
 * [PSU Calculator](https://www.newegg.com/tools/power-supply-calculator/) or [Power Supply Calculator](https://outervision.com/power-supply-calculator) - Find Compatible Power Supplies
-* [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
+* [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) or [PowerSwitcher](https://github.com/petrroll/PowerSwitcher) - Quickly Change Power Schemes
 * [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - AMD Processor Power Management
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
 * [Keyboard Testers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_keyboard_testers) - Test Keyboard Buttons
@@ -1912,7 +1912,6 @@ Twitch Stream Tracker
 * [Übersicht](https://tracesof.net/uebersicht/) - System Command Widgets
 * [Command Not Found](https://command-not-found.com/) - Install Missing Commands
 * [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Windows API Tricks
-* [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Windows 10 Auto Dark Mode
 * [f.lux](https://justgetflux.com/), [LightBulb](https://github.com/Tyrrrz/LightBulb) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - Adjust Display Color / Temperature
 * [Twinkle Tray](https://twinkletray.com/) - System Tray Brightness Slider
 * [Dimmer](https://www.nelsonpires.com/software/dimmer) - Multi-Monitor Brightness Control
@@ -2068,7 +2067,7 @@ Twitch Stream Tracker
 
 * ⭐ **[Wallpaper Sites / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Download Wallpapers
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter), [2](https://visualskins.com/) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals) 
-* ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9), [Aura Theme](https://github.com/daltonmenezes/aura-theme) or [theme.park](https://theme-park.dev/) - Custom App Themes
+* ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9), [Catppuccin](https://catppuccin.com/) / [Discord](https://discord.gg/r6Mdz5dpFc), [Aura Theme](https://github.com/daltonmenezes/aura-theme) or [theme.park](https://theme-park.dev/) - Custom App Themes
 * [PCDesktops](http://pcdesktops.emuunlim.com/applinks.shtml) - Windows Customization Apps
 * [ScreenStyler](https://screenstyler.com/) -  Desktop Customization / [Discord](https://discord.gg/u3thTMp9Cd)
 * [XDesktopSoft](https://www.xwidget.com/) - Desktop Customization
@@ -2083,6 +2082,7 @@ Twitch Stream Tracker
 * [Awesome Ricing](https://github.com/fosslife/awesome-ricing) or [Windows-Ricing](https://github.com/winthemers/windows-ricing) - Windows Ricing Tools
 * [LineStep](http://litestep.net/) - Customize Desktop Interface
 * [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script) - Windows Auto Personalization / Debloating Script
+* [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) or [Luna](https://github.com/adrianmteo/Luna) - Windows 10 Auto Dark Mode
 * [OpenRGB](https://openrgb.org/), [SignalRGB](https://www.signalrgb.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/) or [Aurora](https://github.com/antonpup/Aurora) - System Lighting Control / [GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB)
 * [ShaderGlass](https://github.com/mausimus/ShaderGlass) - Custom Screen Shaders
 * [DiscordChroma](https://github.com/DELUUXE/DiscordChroma) or [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Discord System Lighting Control
