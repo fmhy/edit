@@ -813,7 +813,7 @@
 * ⭐ **[Sonarr](https://sonarr.tv/)** / [GitHub](https://github.com/Sonarr/Sonarr), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - Autodownload TV Torrents / [Guide](https://wiki.servarr.com/)
 * [Powder](https://powder.media/) - Torrent Streaming App
 * [Ace Stream](https://acestream.org/) - Torrent Streaming App
-* [WebTorrenthttps://webtorrent.io/) - Torrent Streaming App
+* [WebTorrent](https://webtorrent.io/) - Torrent Streaming App
 * [PopcornTime](http://popcorn-time.ga/) / [2](https://github.com/popcorn-official/popcorn-desktop) -  Torrent Streaming App / [Fix](https://youtu.be/OMoAwNW-DDo)
 * [NotFlix](https://github.com/Bugswriter/notflix) - Torrent Streaming Script
 * [Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) - Stream Torrents via Clients
