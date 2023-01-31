@@ -64,13 +64,11 @@
 * [VidStore](https://stream.vidzstore.com/) - Movies
 * [HDWatched](https://www.hdwatched.me/) - Movies / TV
 * [0xDB](https://0xdb.org/) - Movies / [How-to](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies#wiki_method_2_-_streaming)
-* [162.12.215.254](http://162.12.215.254/) - Movies
 * [aflaam](https://aflaam.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Tainio-Mania](https://tainio-mania.online/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Filma24](http://filma24.ch/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Ling.online](https://ling.online/en/videos/films/) - Movies / TV
 * [Daily iFlix](https://dailyiflix.com) - Movies / TV
-* [PrimeMoviesFlix](https://primemoviesflix.com) - Movies / TV / Anime
 * [Afdah.live](https://afdah.live/) - Movies / TV
 * [Flixtor](https://flixtor.to) - Movies / TV / Movies Older Than 6 Months For Premium Only
 * [GotyTV](https://gotytv.com/) - Movies / TV / Requires Signup
@@ -137,7 +135,6 @@
 * [KissMovies](https://www.kissmovies.io/) - Movies / TV
 * [TamilRockerMovies](https://www.tamilrockermovies.cf/search/label/Hollywood) - Movies
 * [ConTV](https://www.contv.com/browse-movie/146/free/) - Movies
-* [Pahe.stream](https://pahe.stream/) - Movies / TV
 * [VidCloud](https://vidcloud9.me/), [2](https://membed.net/) - Movies / TV
 * [Rainierland](https://rainierland.to/) - Movies / TV
 * [Movly](https://movly.xyz/) - Movies / TV
@@ -177,7 +174,6 @@
 * [123MoviesJR](https://123moviesjr.cc/) - Movies / TV
 * [123Series](https://123series.watch/) - Movies / TV
 * [123Moviesd](https://123moviesd.com/) - Movies / TV
-* [123MoviesFun](https://123moviesfun.is/) - Movies / TV
 * [0123movies](https://0123movies.com/) - Movies / TV
 * [Watch0123movies](https://watch0123movies.org) - Movies / TV
 * [Moviehab](https://moviehab.com/) - Movies / TV
@@ -291,7 +287,7 @@
 * [StageDork](http://stagedork.com/), [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
 * [GlobalShakespeares](https://globalshakespeares.mit.edu/) - Shakespeare Performance Recordings
 * [Rental Media](https://rentalmedia.neocities.org/index.html) - Free DVD Rentals
-* [SidePlusLeaks](https://sideplusleaks.com/), [Titan The Pirate](https://titan-the-pirate.com/) or [FreeSidePlus](https://freesideplus.com/) - Sidemen Content  / [App](https://pixeldrain.com/u/PodC9xL2)
+* [SidePlusLeaks](https://sideplusleaks.com/), [Titan The Pirate](https://titan-the-pirate.com/) - Sidemen Content  / [App](https://pixeldrain.com/u/PodC9xL2)
 * [Unus Annus](https://archive.org/details/unus-annus) - Unus Annus Archive
 * [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/), [2](https://github.com/joric/bandersnatch) - Interactive player for Black Mirror: Bandersnatch
 * [ListenToAMovie](http://listentoamovie.com/) - Listen to Movies
@@ -365,7 +361,6 @@
 * [Animeplyx](https://animeplyx.eu/) - Sub
 * [123Anime.to](https://123anime.to/) - Sub / Dub / [Discord](https://discord.gg/z2BSpXheN9)
 * [KimAnime](https://kimanime.com/) - Sub / Dub / [Discord](https://discord.com/invite/JdmpSF92N4)
-* [AnimeTribes](https://animetribes.ru/) - Sub 
 * [5Anime](https://5anime.ro/) - Sub / Dub
 * [AnimelandTV](https://www.animelandtv.me/) - Dub
 * [AnimeOnsen](https://animeonsen.xyz/) - Sub
@@ -378,7 +373,6 @@
 * [ChiaAnime.cc](https://chia-anime.cc/) - Sub
 * [AnimeXin](https://animexin.xyz/) - Sub
 * [Animension](https://animension.to/) - Sub / Dub
-* [6ani](https://6ani.me/) - Sub
 * [MyAnime](https://myanime.live/) - Chine Anime Sub
 * [UnliAnime](https://unlianime.to/) - Sub
 * [AnimeSuge](https://animesuge.to/) - Sub / Dub
@@ -392,7 +386,6 @@
 * [StreamAnimeTV](https://streamanimetv.net/) - Sub / Dub / [Discord](https://discord.com/invite/C6Xy3Pm)
 * [AnimeFreak](https://www.animefreak.vip/) - Sub / Dub
 * [DubbedAnime](https://dubbedanime.biz/) - Sub / Dub 
-* [9AnimeTV](https://9animetv.su/) - Sub
 * [WCO](https://www.wco.tv/)  - Anime / Cartoons / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wco_clones)
 * [Funimation](https://www.funimation.com/shows/free/) - Sub / Dub 
 * [Yuna](https://yuna.moe/) - Anime Streaming App / [GitHub](https://github.com/BeeeQueue/yuna)
@@ -522,7 +515,6 @@
 * [CrackStreams](https://crackstreams.io/), [2](https://crackstreams.me/) - Sports
 * [BuffStream](https://buffstream.io/) - Sports
 * [ATDHE](http://atdhe.pro/) - Sports
-* [Stream on Sport](https://www.streamonfoot.xyz/) - Sports / [Telegram](https://t.me/s/streamonsport)
 * [SportSala](https://www.sportsala.cc/) or [123Cric](https://www.123cric.com/) - Sports
 * [Pluto](http://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports
 * [Time4TV](http://time4tv.stream/) - TV / Sports
@@ -537,9 +529,7 @@
 * [vipotv](http://vipotv.com/) - TV / Sports
 * [SamiTVHD](https://samitvhd.com/) - TV / Sports
 * [uStream](https://www.ustream.to/index.html) - TV / Sports
-* [Stream2Watch](https://www.istream2watch.org/) - TV / Sports
 * [WwiTv](https://wwitv.com/) - TV
-* [MHD TV World](https://mhdtvworld.xyz/channel/english/) - TV
 * [SquidTV](https://www.squidtv.net/) - TV
 * [PhotoCall](https://photocall.tv/) - TV
 * [puffer](https://puffer.stanford.edu/) - TV
@@ -591,7 +581,6 @@
 * [Cyfo Streams](http://www.cyfostreams.com/) - Soccer / Cycling
 * [NHLstream](https://www.nhlstream.net/) - NHL
 * [NHL66](https://nhl66.ir/) - NHL
-* [LiveCricket.is](https://mob.livecricket.is/) - Cricket
 * [PakCric](https://pakcric.net/) - Cricket
 * [Sports Streaming Subreddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming_subs)
 * [BestSportsStreamingSites](https://bestsportstreamingsites.com/) - Live Sports Sites List
@@ -662,7 +651,6 @@
 * [HDMovieArea](https://hdmoviarea.com/genre/dual-audio/) - Movies / TV
 * [Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download) - Movies / TV / Anime / Eng Content / Single Click DL's
 * [Full4Movies](https://www.full4movies.digital/category/hollywood-movies/) - Movies / TV
-* [Movies Mobile](https://mobilemovies.info/index.php?dir=Hollywood%20Movies) - Movies
 * [TVShows.today](https://tvshows.today/) - TV
 * [TVSBoy](https://tvsboy.com/) - TV
 * [FilmyZilla](https://filmyzilla.directory/category/202/Hollywood-english-movies/default/1.html) - Movies
@@ -675,14 +663,12 @@
 * [ULMovies](https://ulmovies.xyz/) - Movies / TV 
 * [SBS](https://3dsbs4u.com/) - Movies / TV
 * [NetNaija](https://netnaija.xyz/) - Movies
-* [Flixiz](https://flixiz.com/) - Movies / TV
 * [GdriveMovies](https://gdrivemovies.xyz/) - Movies 
 * [nKiri](https://nkiri.com/) - Movies / TV
 * [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime
 * [O2TVSeriesz](https://o2tvseriesz.com/) - Movies / TV
 * [Privatemoviez](https://privatemoviez.buzz/) - Movies / TV
 * [Nollyverse](https://www.nollyverse.com/) - Movies / TV
-* [HDFriday](https://hdfriday.com/category/download-hollywood-movies/) - Movies
 * [MegaUploadAgora](https://www.megauploadagora.com.br/) - Movies / TV 
 * [Top100](https://top100.to/) - Movies / TV
 * [Wtfmovies](https://www.wtfmovies.xyz/) - Movies / TV
@@ -763,7 +749,6 @@
 * [Animk](https://animk.info/) - Sub / Dub
 * [AnimeOut](https://www.animeout.xyz/) - Sub
 * [Anime2Enjoy](https://www.anime2enjoy.com/) - Sub / [Discord](https://discord.gg/PxSmumS)
-* [Soulreaperzone](https://www.soulreaperzone.com/) - Sub / Dub
 * [AniDL](https://anidl.org/) - Sub / Dub
 * [AnimeLand](https://www.animeland.us/) - Dub
 * [DarkLegends](https://darklegends60mb.org/) - Sub
@@ -827,7 +812,6 @@
 * [webtorrent-mpv-hook](https://github.com/mrxdst/webtorrent-mpv-hook) - Stream Torrents in MPV
 * [PepperTorrent](https://github.com/husnuljahneer/PepperTorrent) - Discord Torrent Download Bots
 * [Iceetime](https://github.com/diericx/iceetime) or [RapidBay](https://github.com/hauxir/rapidbay) - Self-Hosted Torrent Streaming 
-* [DuckieTV](http://duckietv.github.io/DuckieTV/) - TV Tracker / Torrent Downloader 
 
 ***
 
@@ -951,7 +935,7 @@
 * [Cinetrii](https://cinetrii.com/) - Discover Movies with Similar Themes 
 * [DateNightMovies](https://datenightmovies.com/) - Get Recommendations Based on 2 Movies 
 * [Random Movies / Series Bookmark Script](https://pastebin.com/PDsm2SSC) - Find Random Movies / Shows
-* [imdb-compare-shows](https://daumann.github.io/imdb-compare-shows/) or [Series Rating Chart](https://www.neetcoder.com/app/) - Compare TV Shows by Ratings
+* [Series Rating Chart](https://www.neetcoder.com/app/) - Compare TV Shows by Ratings
 * [MRQE](https://www.mrqe.com/) - Movie Review Search Engine
 * [RatingsGraph](https://www.ratingraph.com/) - Movie / TV Ratings Graphs
 * [TV Chart](https://tvchart.benmiz.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode Rating Graphs
