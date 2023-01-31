@@ -1074,6 +1074,7 @@
 * [LostType](http://www.losttype.com/)
 * [BoldFonts](https://boldfonts.com/)
 * [CoFonts](https://cofonts.com/)
+* [FontsFree](https://fontsfree.net) 
 * [FontReach](https://www.fontreach.com/)
 * [DownloadFonts](https://www.downloadfonts.io/)
 * [UrbanFonts](https://www.urbanfonts.com/)
