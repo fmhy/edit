@@ -21,6 +21,7 @@
 * ⭐ **[Shopping Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)** - Shopping / Price Tracking
 * ⭐ **[TurboTaxSucksAss](https://turbotaxsucksass.org/)**, [US Taxes](https://ustaxes.org/) or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free
 * ⭐ **[BeMyEyes](https://www.bemyeyes.com/)** - Assist the Visually Impaired
+* ⭐ **[MrFreeTools](https://mrfreetools.com/) - 500+ Categories of tools
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - Open-Source Tools
 * [Creating Minds](http://creatingminds.org/tools/tools_ideation.htm) - Creativity Tools
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - Mac-Style Dashboard Widget
@@ -62,7 +63,7 @@
 * [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Concerts / Music Festival Search
 * [Visa Guide](https://visaguide.world/) - Worldwide Travel Visa Guides
 * [KittySplit](https://www.kittysplit.com/en/) - Group Expense Splitting Calculator
-* [Sleepyti.me](https://sleepyti.me/) or [Sleeptyme](https://sleeptyme.ca/) - Bedtime Calculator
+* [Sleepopolis](https://sleepopolis.com/calculators/sleep/) - Bedtime Calculator
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - Bra Size Calculator
 * [The Sustainabilitist](https://sustainabilitist.com/) - Sustainability Resource Hub
 * [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity Booster / [Premium Unlock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cold_turkey_premium)
@@ -1061,6 +1062,8 @@
 * [MyCroftProject](https://mycroftproject.com/) - Search Engine Plugins
 * [Google Trends](https://trends.google.com/trends/) - Google Search Trends
 * [The Search Engine Map](https://www.searchenginemap.com/) - View Search Engine Connections
+* [SearchifyX](https://github.com/daijro/SearchifyX) - Search Flashcards
+* [Instant Domain Search](https://instantdomainsearch.com/) - Search Domain Names
 
 ***
 
@@ -1665,6 +1668,8 @@ Twitch Stream Tracker
 * [Cheap Bots, Done Quick](https://cheapbotsdonequick.com/) - Create Twitter Bots
 * [Botometer](https://botometer.osome.iu.edu/) or [BotSlayer](https://osome.iu.edu/tools/botslayer) - Twitter Bot Check
 * [BlackMagic](https://blackmagic.so/) - Twitter Growth Tool
+* [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Create Local Copy of Twitter Threads
+
 
 ***
 
@@ -1753,6 +1758,8 @@ Twitch Stream Tracker
 * [SARDU](https://www.sarducd.it/) - Create Recovery USB Flash Drive or Disk
 * [MTPDrive](https://www.mtpdrive.com/index.html) - MPT Device Drive Mapping
 * [rEFind](http://www.rodsbooks.com/refind/) - Boot Manager
+* [Luna](https://github.com/adrianmteo/Luna) - Automatic Dark Mode for Windows 10
+* [PowerSwitcher](https://github.com/petrroll/PowerSwitcher) - Power Plan Switcher for Windows 10
 * [balenaEtcher](https://balena.io/etcher) - Flash OS Image SD / USB
 * [InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB) - Install Windows without USB
 * [NTLite](https://www.ntlite.com/), [WinReducer](https://www.winreducer.net/) or [MSMG Toolkit](https://msmgtoolkit.in/?i=1) - Custom ISO Creator
@@ -2068,7 +2075,7 @@ Twitch Stream Tracker
 
 * ⭐ **[Wallpaper Sites / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Download Wallpapers
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter), [2](https://visualskins.com/) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals) 
-* ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9), [Aura Theme](https://github.com/daltonmenezes/aura-theme) or [theme.park](https://theme-park.dev/) - Custom App Themes
+* ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9), [Catppuccin](https://catppuccin.com/) / [Discord](https://discord.gg/r6Mdz5dpFc), [Aura Theme](https://github.com/daltonmenezes/aura-theme) or [theme.park](https://theme-park.dev/) - Custom App Themes
 * [PCDesktops](http://pcdesktops.emuunlim.com/applinks.shtml) - Windows Customization Apps
 * [ScreenStyler](https://screenstyler.com/) -  Desktop Customization / [Discord](https://discord.gg/u3thTMp9Cd)
 * [XDesktopSoft](https://www.xwidget.com/) - Desktop Customization
