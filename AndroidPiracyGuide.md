@@ -1321,6 +1321,7 @@
 
 ## ▷ iOS Anime 
 
+* [AnimeNow](https://github.com/AnimeNow-Team/AnimeNow)
 * [NineAnimator](https://nineanimator.marcuszhou.com/) - [Discord](https://discord.gg/dzTVzeW)
 * [AnimeChicken](https://animechicken.app/)
 * [Tweaked Crunchyroll ++](http://www.iosemulatorspot.com/tweaked-crunchyroll/) - Tweaked Crunchyroll
