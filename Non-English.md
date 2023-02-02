@@ -39,9 +39,9 @@
 
 ## ▷ Streaming 
 
+* ⭐ **[FaselHD](https://www.faselhd.club/)** - Movies / TV / Anime
 * [Cima4U](https://cima4u.cloud/) - Movies / TV / Changes Domains Monthly
 * [cimaclub](https://www.cimaclub.in/) - Movies / TV / Anime
-* [FaselHD](https://www.faselhd.life/) - Movies / TV / Anime
 * [shahed4u](https://shahed4u.mx/) - Movies / TV / Anime
 * [cima4up](https://w.cima4up.link/) - Movies / TV / Anime
 * [moviz-time](https://moviz-time.top/i/) - Movies / TV / Anime
@@ -984,6 +984,7 @@
 * [ZarFilm](https://zarfilm.com/) - Movies / TV
 * [SalamDL](https://salamdl.me/) - Movies / TV
 * [AvaMovie](http://avamovie.in/) - Movies / TV
+* [iranianfilmarch](https://t.me/iranianfilmarch) - Movies / Telegram
 * [FilmBan](https://filmban.top/) - Movies / TV / Anime
 * [9movie](https://9movie.cloud/) - Movies / TV / Anime / Iranian VPN Needed
 * [alefmovie](https://alefmovie.website/) - Movies / TV / Iranian VPN Needed
@@ -1662,6 +1663,7 @@
 * [ennovelas](https://www.ennovelas.com/) - TV
 * [Sololatino](https://sololatino.net/) - Movies / TV / Anime
 * [Repelis24](https://repelis24.co/) - Movies / TV
+* [Argentine Cinema](https://www.youtube.com/@argentinecinemawithenglish4476/) - Argentine Movies
 * [Cinecalidad](https://cinecalidad.run/) - Movies / TV
 * [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV
 * [Inkapelis](https://inkapelis.in/) - Movies / TV
