@@ -499,9 +499,11 @@
 * [Medical_Book_Bot](https://t.me/Medical_Book_Bot) - Medical / Telegram
 * [medrxiv](https://www.medrxiv.org/) - Medicine Preprints
 * [AllTradersLibrary](https://t.me/alltradersLibrary) - Market Trading Books
-* [businessbookmall](http://www.businessbookmall.com/), [2](http://www.textbooksfree.org/) - Accounting, Economics & Business 
+* [businessbookmall](http://www.businessbookmall.com/), [2](http://www.textbooksfree.org/) - Accounting, Economics & Business
+* [Micronations Wiki](https://micronations.wiki/) - Micronations Wiki
 * [Brill](https://brill.com/) - International Law Books
-* [RationalWiki](https://rationalwiki.org/) - Pseudoscience Refutation Wiki
+* [Camopedia](https://www.camopedia.org/) - Camouflage Wiki
+* [RationalWiki](https://rationalwiki.o rg/) - Pseudoscience Refutation Wiki
 * [Snopes](https://www.snopes.com/) - Urban Legends, Folklore, Misinformation & more
 * [Butterick’s Practical Typography](https://practicaltypography.com/) - Typography Guide Book
 * [Cro-Wood](https://www.cro-wood.com/) - Woodworking Forum
@@ -1183,7 +1185,7 @@
 * [Oku](https://oku.club/) - Books
 * [StoryGraph](https://www.thestorygraph.com/) - Books
 * [Literal](https://literal.club/) - Books
-* [BookWyrm](https://joinbookwyrm.com/) - Books
+* [BookWyrm](https://bookwyrm.social/) - Books
 * [LibraryThings](https://www.librarything.com/) - Books
 * [CandlApp](https://www.candlapp.com/) - Books
 * [Anobii](https://www.anobii.com/) - Books
@@ -1209,6 +1211,7 @@
 * [DC Superhero Era Timeline](https://i.imgur.com/Icojkx1.jpg) / [2](https://i.imgur.com/drSEr0j.jpg)
 * [Kitsu](https://kitsu.io/) - Manga
 * [Mangaki](https://mangaki.fr/) - Manga Recommendations
+* [spin.moe](https://spin.moe/) - Find Random Manga
 * [Anime-Planet](https://anime-planet.com/) - Manga 
 * [kenmei](https://www.kenmei.co/) - Manga
 * [All Anime](https://allanime.site/) - Manga
