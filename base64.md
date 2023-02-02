@@ -1349,12 +1349,6 @@ pass: paluch
 
 ***
 
-#### xo.ljt
-
-`aHR0cHM6Ly94by5sanQuY2Mv`
-
-***
-
 #### Game Drive
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL3UvMC9mb2xkZXJzLzFWWjUzbF9HM1BwUXJpRDh4dnFIMjZnTDBoMG9IUTA4Zg== `
