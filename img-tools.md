@@ -156,7 +156,8 @@
 * [Flame Reactor](https://flamereactor.com/) - Fractal Flame Collaborative Generator
 * [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
 * [TierMaker](https://tiermaker.com/) - Tier List Image Creator
-* [Hugin](http://hugin.sourceforge.net/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - Panorama Image Generator 
+* [Hugin](http://hugin.sourceforge.net/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - Panorama Image Generator
+* [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator
 * [Side It](https://sideit.app/) - Side by Side Image Generator
 * [SuperDesigner](https://superdesigner.co/) - Background / Pattern Designer
 * [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [Valentina](https://gitlab.com/smart-pattern/valentina) or [Haikei](https://app.haikei.app/) - Pattern Generator
@@ -366,7 +367,7 @@
 * [OldBookIllustrations](https://www.oldbookillustrations.com/) - Illustrations from Old Books
 * [HyperCard](http://archives.somnolescent.net/web/hypercard/) - Mac HyperCard Art
 * [Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Movie / TV Covers & Posters
-* [Film.ai](https://beta.flim.ai/) - Movie Screenshots
+* [Film.ai](https://beta.flim.ai/) or [Film Grab](https://film-grab.com/) - Movie Screenshots
 * [CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](http://www.pngmart.com/), [freepngs](https://www.freepngs.com/), [pngall](http://www.pngall.com/), [pngplay](http://www.pngplay.com/), [pngfly](https://www.pngfly.com/), [freepngimg](https://www.freepngimg.com/), [kisspng](https://www.kisspng.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com), [maxpixel](https://www.maxpixel.net/), [PNGHut](https://pnghut.com/) or [OpenClipart](https://openclipart.org/) - PNG Images / Clipart
 * [Sankaku](https://sankaku.app/), [Anime Pictures](https://anime-pictures.net/), [Pixiviz](https://pixiviz.pwp.app/) or [ZeroChan](https://zerochan.net/) - Anime Images / Some NSFW / [Chrome](https://github.com/Disrc/SankakuComplexAddon)
 * [Buhitter](https://buhitter.com/) - Twitter Illustration Search
