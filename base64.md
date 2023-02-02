@@ -1327,9 +1327,7 @@ pass: paluch
 
 #### Acrobat Pro
 
-`aHR0cHM6Ly9maWxlY3IuY29tLz9zPUFkb2JlK0Fjcm9iYXQrUFJPK0RD`
-
-
+`aHR0cHM6Ly93MTQubW9ua3J1cy53cy9zZWFyY2gvbGFiZWwvQWNyb2JhdApodHRwczovL2ZpbGVjci5jb20vP3M9QWRvYmUrQWNyb2JhdCtQUk8rREM=`
 
 ***
 
