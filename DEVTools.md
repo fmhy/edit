@@ -141,9 +141,10 @@
 * [High Assurance Rust](https://highassurance.rs/) - Software Development Guide
 * [The Linux Kernel](https://www.kernel.org/doc/html/latest/) - Linux Kernel Development Guides / [Archives](https://kernel.org/)
 * [Workbench](https://github.com/sonnyp/Workbench) - Learn / Experiment with Gnome
-* [Katacoda](https://www.katacoda.com/) - Software Engineer Tutorials 
+* [pointers-for-software-engineers](https://github.com/vicoyeh/pointers-for-software-engineers) or [Interview University](https://github.com/jwasham/coding-interview-university) - Software Engineer Study Guides
+* [Katacoda](https://www.katacoda.com/) - Software Engineer Tutorials
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Podcasts for Software Engineers
-* [Interview University](https://github.com/jwasham/coding-interview-university) - Software Engineer Study Guide Coding
+* [soft-eng-interview-prep](https://github.com/orrsella/soft-eng-interview-prep) - Software Engineer Interview Preparation
 * [Devops Exercises](https://github.com/bregman-arie/devops-exercises) - DevOps Exercises
 * [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - Learn DevOps
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
