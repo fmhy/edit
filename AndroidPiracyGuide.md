@@ -132,7 +132,7 @@
 ***
 
 * ⭐ **[Emulator Wiki](https://emulation.gametechwiki.com/index.php/Android_emulators)** - Android Emulator Index
-* ⭐ **[WSA](https://rentry.co/wsa)** - Windows Android Subsystem / [GUI](https://github.com/alesimula/wsa_pacman) / [Win11](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) / [Google Apps](https://github.com/ADeltaX/WSAGAScript)
+* ⭐ **[WSA](https://rentry.co/wsa)** - Windows Android Subsystem / [GUI](https://github.com/alesimula/wsa_pacman) / [Win10](https://github.com/cinit/WSAPatch) / [Win11](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) / [Google Apps](https://github.com/ADeltaX/WSAGAScript)
 * ⭐ **[WayDroid](https://waydro.id/)** / **[Git](https://github.com/waydroid)** or [Anbox](https://anbox.io/) / [Git](https://github.com/anbox/anbox) - Linux Android Subsystems
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
 * [Android x86](https://www.android-x86.org/) - Android Desktop OS / [Installer](https://supreme-gamers.com/r/advanced-android-x86-installer-for-windows.61/) / [Source](https://www.android-x86.org/source.html)
@@ -154,11 +154,14 @@
 # ► Android Tools
 
 * ⭐ **[Custom Android Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_operating_systems)**
-* ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tool / [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager) / [SafteyNet Fix](https://github.com/kdrag0n/safetynet-fix) / [Modules](https://www.androidacy.com/magisk-modules-repository/)
+* ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
+* ⭐ **Magisk Tools** - [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager), [2](https://github.com/ya0211/MRepo) / [SafteyNet Fix](https://github.com/kdrag0n/safetynet-fix) / [Modules](https://www.androidacy.com/magisk-modules-repository/)
 * ⭐ **[AutumnBox](https://github.com/zsh2401/AutumnBox/releases)** - Android Device Manager / Root Tool / [Features](https://i.imgur.com/59MlFrW.png)
 * ⭐ **[Android Web Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)** 
 * ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client / [Rich Presence](https://github.com/dead8309/Kizzy) / [Nitro Emojis](https://nitroless.app/)
-* ⭐ **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites & Apps
+* ⭐ **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites / Apps
+* ⭐ **[Termux](https://termux.com/)**, [Andronix](https://andronix.app/) / [Git](https://github.com/AndronixApp) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulator / Linux Environments
+* ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/tareksander/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
 * [Android Debloat Guide](https://rentry.co/debloatandroid), [debloat-android](https://christitus.com/debloat-android/) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/0x192/universal-android-debloater), [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) or [Debloat Samsung Android](https://github.com/khlam/debloat-samsung-android) - Android Debloaters
 * [File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools) - Tools to Share / Sync Files
@@ -394,6 +397,7 @@
 * [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_solid_explorer), [rcx](https://x0b.github.io/) / [GitHub](https://github.com/x0b/rcx), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator), [AmazeFileManager](https://teamamaze.xyz/) / [GitHub](https://github.com/TeamAmaze/AmazeFileManager), [FileManager](https://github.com/SimpleMobileTools/Simple-File-Manager) or [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager), [AnExplorer](https://github.com/1hakr/AnExplorer) or [IrkFM](https://github.com/lfuelling/lrkFM) - File Explorers / Managers
 * [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
 * [Dumpster](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dumpster) - File Recovery Tool
+* [Aethersx2](https://www.aethersx2.com/archive/) - File Directory Lister
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - Download / Torrent Manager 
 * [Vysor](https://www.vysor.io/), [scrcpy](https://github.com/Genymobile/scrcpy), [WebADB](https://app.webadb.com/) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/), [2](https://github.com/Tomotoes/scrcpy-gui)
 * [AVNC](https://github.com/gujjwal00/avnc) - Remote Desktop Client for Android
@@ -416,8 +420,6 @@
 * [Eruda](https://pastebin.com/7qSZXjDS) - Mobile Browser Console / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [Github](https://github.com/liriliri/eruda)
 * [Andure](https://github.com/leohku/andure) - Android Chrome Dev Tools
 * [LADB Builds](https://github.com/neoteche/ladb-builds) or [aShell](https://gitlab.com/sunilpaulmathew/ashell) - ADB Shell
-*  [Andronix](https://andronix.app/) / [Git](https://github.com/AndronixApp), [Termux](https://termux.com/) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulator / Linux Environments
-* Termux Tools - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/tareksander/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
 * [Shelter](https://github.com/PeterCxy/Shelter) - App Sandbox
 * [AppBrain](https://www.appbrain.com/) - Analyze Android App Changes
 * [Redmi System Manager](https://play.google.com/store/apps/details?id=com.learnpainless.disable_system_apps&hl=en) - Uninstall Redmi System Apps
@@ -548,9 +550,11 @@
 * [APKMonk](https://www.apkmonk.com/) - Untouched
 * [APK Fab](https://apkfab.com/) - Untouched
 * [APKCafe](https://apk.cafe/) - Untouched
+* [AppsDrop](https://www.appsdrop.com/) - Untouched
 * [APKAngry](https://apkangry.com/en) - Untouched
 * [APKToy](https://www.apktoy.com/) - Untouched
 * [Dreamsroom](https://dreamsroom.applinzi.com/) - Untouched
+* [APKamp](https://apkamp.com/) - Untouched
 * [APKSum](https://www.apksum.com/) - Untouched / Modded
 * [A2Z APK](https://a2zapk.com/) - Untouched / Modded
 * [nsane.down](https://www.nsaneforums.com/) - Modded
@@ -622,6 +626,7 @@
 * [APKBigs](https://apkbigs.com/) - Modded
 * [APKResult](https://apkresult.com/en) - Modded
 * [APKFun](https://apkfun.com/) - Modded
+* [OfflineModAPK](https://offlinemodapk.com/) - Modded
 * [Modded-1](https://modded-1.com/) - Modded
 * [360ModDownload](https://www.360moddownload.com/) - Modded
 * [TheTechNisk](https://thetechnisk.in/) - Modded
@@ -631,6 +636,8 @@
 * [ApKGod](https://apkgod.net/) - Modded
 * [APKMD](https://apkmb.com/) - Modded
 * [AKMods](https://www.akmods.in/) - Modded
+* [Andropalace.co](https://andropalace.co/) - Modded
+* [Thinkkers](https://thinkkers.com/) - Modded
 * [AppValley](https://app.app-valley.vip/) - Modded / Tweaked
 * [Streamiza](https://t.me/streamiza) - Modded / Telegram / [Discord](https://linktr.ee/Streamiza)
 * [MODZILLA](https://t.me/Modzilla) - Modded / Telegram / [Bot](https://t.me/ModzillaAPKBot)
@@ -749,7 +756,7 @@
 
 # ► Android Reading
 
-* ⭐ **[Mobilism](https://forum.mobilism.org/app/)** or [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app) - Ebook Site Apps
+* ⭐ **[Mobilism](https://forum.mobilism.org/app/)**, [Project Gutenberg](https://github.com/Pool-Of-Tears/Myne) or [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app) - Ebook Site Apps
 * ⭐ **[Librera](http://librera.mobi/)**  - Ebook Reader
 * ⭐ **[Tachiyomi](https://tachiyomi.org/)** - Manga / Comic Reader
 * ⭐ **Tachiyomi Tools** - [Github Releases](https://github.com/tachiyomiorg/tachiyomi) / [Forks](https://tachiyomi.org/forks/#forks) / [Discord](https://discord.com/invite/tachiyomi) / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/)
@@ -758,6 +765,7 @@
 * [CoolReader](https://apt.izzysoft.de/fdroid/index/apk/org.coolreader) - Ebook Reader
 * [BookReader](https://f-droid.org/en/packages/com.github.axet.bookreader/) - Ebook Reader
 * [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Reader
+* [Omnivore](https://omnivore.app/) - Ebook Reader
 * [android-book-reader](https://gitlab.com/axet/android-book-reader/) - Ebook Reader
 * [eBookit](https://play.google.com/store/apps/details?id=ch.ebookit.reader) - Ebook Reader
 * [PDF Viewer](https://f-droid.org/packages/com.gsnathan.pdfviewer) - PDF Reader
@@ -974,7 +982,7 @@
 ## ▷ Android Live TV 
 
 * [OLATV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ola_tv)
-* [Live NetTV](https://www.livenettv.bz/)
+* [Live NetTV](https://www.livenettv.bz/) - [Ad Free](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_no_ads_live_nettv)
 * [SwiftStreams](http://swiftstreamz.com/)
 * [SonyLiv (Modded)](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sonyliv)
 * [hifi2007reviews](https://hifi2007reviews.com/) - IPTV / Firestick APKs
@@ -1146,6 +1154,7 @@
 * [Iterm](https://github.com/kaneki07/iterm) - Terminal Emulator
 * [Universal Control](https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879) - Universal Remote
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
+* [Bacon](https://github.com/jerameel/bacon) - Bluetooth Controller
 * [Rhino](https://lemamichael.github.io/WhatIsRhino/) - Tweaked Instagram Client
 * [Twitter++](https://iosninja.io/ipa-library/download-twitter-plus-plus-ipa-ios) - Tweaked Twitter App
 * [TikTok God](https://github.com/haoict/tiktok-god) - Tweaked TikTok App
@@ -1351,8 +1360,9 @@
 * ⭐ **[Paperback](https://paperback.moe/)** - Manga Reader / [Discord](https://discord.gg/Ny83JV3)
 * ⭐ **[Aidoku](https://aidoku.app/)** - Manga Reader
 * [EBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers) - List of eBook Readers
-* [AnimeChicken](https://animechicken.app/)
+* [Omnivore](https://omnivore.app/) - Ebook Reader
 * [BookPlayer](https://github.com/TortugaPower/BookPlayer) - Audiobook Player
+* [AnimeChicken](https://animechicken.app/) - Manga Reader
 * [MangaToon](https://apps.apple.com/us/app/mangatoon-manga-reader/id1385287093) - Manga Reader
 * [ZETSU](https://apps.apple.com/us/app/zetsu-by-orion/id1510161371) - Manga Reader
 * [Atsumaru](https://github.com/TheUndo/Atsumaru) -  Manga Reader
