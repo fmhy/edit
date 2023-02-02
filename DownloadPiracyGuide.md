@@ -88,14 +88,14 @@
 * [Cracked Resources](https://crackedresources.com/) - Video / Audio / Books / Audiobooks / Games / Software / NSFW 
 * [AllYouLike](https://allyoulike.org/) - Video / Audio Books / Magazines / Games / ROMs / Software / Android / Comics / NSFW
 * [ReleaseHive](https://www.releasehive.com/) - Video / Audio / Software / Games / Books / NSFW 
-* [rlsbb](http://rlsbb.ru/), [2](https://rlsbb.to/) - Video / Audio / Games / Software / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker) / [Proxy](https://www.proxybb.com/)
+* [rlsbb](http://rlsbb.ru/), [2](https://rlsbb.to/), [3](https://comment.rlsbb.cc/) - Video / Audio / Games / Software / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker) / [Proxy](https://www.proxybb.com/)
 * [0dayhome](https://0dayhome.net/) - Video / Audio / Games / Software / Books / Magazines
 * [DownDuck](http://www.downduck.com/) - Video / Audio / Software / Games / Books / Magazines
 * [0DayDDL](https://0dayddl.com/) - Video / Audio / Games / Software / Books / Magazines
 * [MaxRelease](http://max-rls.com/) - Video / Audio / Software / Games / Magazines
 * [BoltBB](https://boltbb.me/) - Video / Software / Games / Books / NSFW
 * [WorldSRC](https://www.worldsrc.net/) - Video / Audio / Games / Software / Android / [Donate](https://www.worldsrc.net/service_end)
-* [Team OS](https://www.teamos-hkrg.com/) - Software / Games / Books / Android
+* [Team OS](https://www.teamos.xyz/) - Software / Games / Books / Android
 * [WarezBook](https://www.warezbook.org/) - Video / Audio / Software / Games / Books 
 * [Warez-World](https://warez-world.org/) - Video / Audio / Games / Software / Android / Books / Magazines / NSFW
 * [FreshWAP](https://www.freshwap.us/), [2](https://freshwap.cc/) - Video / Audio / Software / Games / Android / Books / Magazines  
@@ -193,7 +193,6 @@
 * [CRACKurl](https://cracksurl.com/)
 * [Pesktop](https://pesktop.com/en/)
 * [TheMicroTech](https://programs.themicrotech.net/)
-* [TeamOS](https://www.teamos-hkrg.com/)
 * [Cyberspace](https://cyberspace.world/)
 * [4Download](https://www.4download.net/)
 * [SoftFamous](https://softfamous.com/)
