@@ -383,7 +383,8 @@ Simulator
 * [Ocearch](https://www.ocearch.org/?list) - Track Marine Life
 * [The Deep Sea](https://neal.fun/deep-sea/) - Interactive Deep Sea Life Guide
 * [Pattern Radio](https://patternradio.withgoogle.com/) - Listen to Whale Songs
-* [Xeno-Canto](https://www.xeno-canto.org/) - Bird Sound Identifier 
+* [Xeno-Canto](https://www.xeno-canto.org/) - Bird Sound Identifier
+* [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
 * [Life Under the Ice](https://lifeundertheice.org/) - View Antarctic Microbes
 * [Candide](https://candide.com/GB/identify-plants) or [Pl@ntNet](https://identify.plantnet.org/) - Plant Identifier
 * [WhyDoCatsAndDogs...?](https://whydocatsanddogs.com/) - Pet Q&A Site
@@ -400,7 +401,7 @@ Simulator
 * ⭐ **[Internet Chemistry](https://www.internetchemistry.com/search.php)** or [ChemIDplus Advanced](https://chem.nlm.nih.gov/chemidplus/) - Search Index
 * [Tyler DeWitt](https://www.youtube.com/user/tdewitt451), [TheOrganicChemistryTutor](https://www.youtube.com/c/TheOrganicChemistryTutor), [Allery Chemistry](https://www.youtube.com/channel/UCPtWS4fCi25YHw5SPGdPz0g), [Khan Academy AP Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta), [Organic Chemistry etext](https://www.chem.ucalgary.ca/courses/351/Carey5th/Carey.html), [ChemistryScore](https://chemistryscore.com/), [PeriodicVideos](https://www.youtube.com/@periodicvideos) / [Periodic Table Videos](http://www.periodicvideos.com) - Chemistry Lessons
 * [ChemicalAid](https://en.intl.chemicalaid.com/) - Chemistry Calculators / Element Tables
-* [ChemgaPedia](https://www.chemgapedia.de/vsengine/en/index.html), [MOTM](http://www.chm.bris.ac.uk/motm/motm.htm), [NIST](https://webbook.nist.gov/chemistry/) or [EssentialChemicalIndustry](https://www.essentialchemicalindustry.org/) - Chemistry Wikis
+* [ChemgaPedia](https://www.chemgapedia.de/vsengine/en/index.html), [PubChem](https://pubchem.ncbi.nlm.nih.gov/), [MOTM](http://www.chm.bris.ac.uk/motm/motm.htm), [NIST](https://webbook.nist.gov/chemistry/) or [EssentialChemicalIndustry](https://www.essentialchemicalindustry.org/) - Chemistry Wikis
 * [ChemistrySteps](https://www.chemistrysteps.com/) or [DocBrown](https://docbrown.info/) - Chemistry Practice / Guides
 * [Cliffnotes Chemistry](https://www.cliffsnotes.com/study-guides/chemistry/chemistry/elements/discovery-and-similarity) / [Organic Chemistry I](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-i) / [Organic Chemistry II](https://www.cliffsnotes.com/study-guides/chemistry/organic-chemistry-ii), [Chem Wiki](https://wiki.ch.ic.ac.uk/wiki/), [chemhelper](http://chemhelper.com/) or [chemguide](https://www.chemguide.co.uk) - Study Guides
 * [ChemistryTalk](https://chemistrytalk.org/) - Tutorials / Experiments / Elements / Reference Articles
@@ -465,6 +466,7 @@ Simulator
 * [Letters of Note](https://news.lettersofnote.com/) - Historical Letters
 * [Shorpy](http://shorpy.com/) - Historical Photos
 * [Histography](https://histography.io/) or [Oldest](https://www.oldest.org/) - History Timelines
+* [Sciphilos](http://sciphilos.info/) - Historical Discovery Timeline
 * [The First World War](https://www.firstworldwar.amdigital.co.uk/) - WW1 Study Material
 * [911 Realtime](https://911realtime.org/) - 9/11 in Realtime
 * [The Food Timeline](https://www.foodtimeline.org/) - Food History Timeline
@@ -521,14 +523,16 @@ Simulator
 * [Spy Map Online](https://skymaponline.net/) - Star Map
 * [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive 3D Star Visualization
 * [Aladin](https://aladin.u-strasbg.fr/) - Astronomical Image Viewer / [Lite Version](https://aladin.u-strasbg.fr/AladinLite/)
-* [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](http://stellarium.org/) - Virtual Stellarium
+* [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](http://stellarium.org/) - Virtual Stellariums
 * [Google Sky](http://www.google.com/sky) - View Stars, The Moon & Mars
+* [WorldwideTelescope](https://worldwidetelescope.org/) - Interactive Telescope Data
 * [ESO Zoomable](https://www.eso.org/public/images/eso1242a/zoomable/) or [Hubble Zoomable](https://esahubble.org/images/archive/zoomable/) - Zoomable Telescope Photos
 * [Webb Compare](https://www.webbcompare.com/) - Webb / Hubble Comparison Images
 * [Space Telescope Live](https://spacetelescopelive.org/) - Live Hubble Image Data
 * [James Webb Space Telescope](https://jwst.nasa.gov/index.html) or [ESAWebb](https://esawebb.org/) - Webb Space Telescope Site
 * [HubbleSite](https://hubblesite.org/) - Hubble Telescope Site
-* [APOD](https://apod.nasa.gov/) - Daily NASA Astronomy Pictures
+* [APOD](https://apod.nasa.gov/) - Daily NASA Astronomy Images
+* [Astrometry](https://nova.astrometry.net/) - View / Share Astronomy Images
 * [Clear Dark Sky](https://cleardarksky.com/) - Star Gazing Weather Forecasts
 * [Dark Site Finder](https://darksitefinder.com/), [DarkSkyMap](https://darkskymap.com/) or [GoStarGazing](https://gostargazing.co.uk/) - Star Gazing Site Locators
 * [DeepSkyCamera](https://play.google.com/store/apps/details?id=de.seebi.deepskycamera&gl=US) - Astrophotography App
@@ -692,6 +696,7 @@ Simulator
 * [TrueToneGuitar](https://www.truetoneguitar.co.uk/tools/guitar-practice-routine-generator) - Guitar
 * [JustinGuitar](https://www.justinguitar.com/) - Guitar
 * [FretFlip](https://fretflip.com/guitar-scales) - Guitar
+* [GuitarScale](https://www.guitarscale.org/) - Guitar
 * [ChordBook](https://chordbook.com/) - Guitar
 * [Songsterr](https://www.songsterr.com/) - Guitar
 * [FAChords](https://www.fachords.com/) - Guitar
@@ -742,6 +747,7 @@ Simulator
 * [The Punctuation Guide](https://www.thepunctuationguide.com/) - Punctuation Guide
 * [TypeTerms](https://www.supremo.co.uk/typeterms/) - Typography Cheat Sheet
 * [AWAD Challenge](http://awadchallenge.com/) - Learn a New Word Everyday
+* [Zooniverse](https://www.zooniverse.org/) - Crowdsourced Research
 * [Bonsai](https://bonsaibrowser.com/) - Research Web Browser
 * [StringMark](https://www.stringmark.com/) - Save & Mark Research in Browser
 * [Lurnby](https://github.com/Roznoshchik/Lurnby) - Improved Browser Readability / Highlighting
@@ -780,7 +786,7 @@ Simulator
 * [PXTrez](https://pxtrez.com/) - Kahoot Answers Tool
 * [ITExamAnswers.net](https://www.itexamanswers.net/) - IT Exam Answers
 * [Oak National Academy](https://teachers.thenational.academy/), [OLI](https://oli.cmu.edu/independent-learner-courses/) or [Runestone Interactive](https://runestone.academy/) - Lessons
-* [Quizlet](https://quizlet.com/) / [Paywall Bypass](https://github.com/rospino74/Quizlet-Bypass) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872) / [Explanations](https://greasyfork.org/en/scripts/434972), [2](https://greasyfork.org/en/scripts/438663)
+* [Quizlet](https://quizlet.com/) / [Paywall Bypass](https://github.com/rospino74/Quizlet-Bypass), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872) / [Explanations](https://greasyfork.org/en/scripts/434972), [2](https://greasyfork.org/en/scripts/438663)
 * [guIHelp](https://discord.gg/rgF9jY8CpH) - Bartleby, Quizlet, Coursehero & Scribd Bot
 * [HeroGenerator](https://discord.gg/ggBX8qqASC) - Courshero Document Generator / [Telegram](https://t.me/HeroGeneratorPure)
 * [Wikiversity](https://www.wikiversity.org/) or [Learnamic](https://www.learnamic.com/) - Learning Resources, Guides, Quizzes, Tools & More
@@ -904,7 +910,8 @@ Simulator
 * [The Chomsky Index](https://github.com/jasons-gh/the-chomsky-index) - Noam Chomsky Content Index Tool
 * [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project
 * [P2PU](https://www.p2pu.org/) - Join Learning Groups Using Free Courses
-* [Reddit-wiki-programming](https://github.com/antariksh17/Reddit-wiki-programming) - Computer Science Learning Resources
+* [Lecture Links for Placement Preparation in Computer Science](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
+* [Reddit-wiki-programming](https://github.com/antariksh17/Reddit-wiki-programming) or [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - Computer Science Learning Resources
 * [CompSciLib](https://www.compscilib.com/) - Computer Science Tools
 * [Niche](https://www.niche.com/), [TheUniGuide](https://www.theuniguide.co.uk/) or [Top Universities](https://www.topuniversities.com/) - University / School Comparisons 
 * [BachelorStudies](https://bachelorstudies.com/) - Bachelor Degree Search 
