@@ -572,7 +572,7 @@
 * [Kingdom of Loathing](https://www.kingdomofloathing.com/) - Comedy RPG 
 * [Bruno-Simon](https://bruno-simon.com/) - Truck Driving Game
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
-* [SlowRoads](https://slowroads.io/) - Endless Driving Game
+* [JoeDangerTheGame](https://joedangerthegame.com/) - Trials Inspired Game
 * [A Leaf on the Wind](http://anism.org/lotw/) - Leaf Arcade Game 
 * [Polka Dot Game](https://www.polkadotgame.com/) - Dodge & Eat Dots
 * [Spinner](https://hyperspace-wizard.itch.io/spinner) - Spinner Timing Game
@@ -609,7 +609,7 @@
 * ⭐ **[Pokemon Showdown](https://pokemonshowdown.com/)** - Online Pokemon Battles 
 * ⭐ **[GarticPhone](https://garticphone.com/)** - Telephone Game
 * [Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - PokemonGO Resources
-* [skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
+* [skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * [PlayingCards](https://playingcards.io/) 
 * [FlyOrDie](http://www.flyordie.com/) 
 * [JKLM.FUN](https://jklm.fun/) 
@@ -747,7 +747,7 @@
 
 ## ▷ Guessing Games
 
-* [skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
+* [skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * [GuessMe!](https://cer0zz.itch.io/guessme) - Guess Answers
 * [GeoGuessr](https://www.geoguessr.com/), [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - Location Guessing Game / [Guide](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) / [Twitch Chat Bot](https://chatguessr.com/)
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
