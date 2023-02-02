@@ -249,7 +249,7 @@
 * [Musify](https://github.com/gokadzev/Musify) - MP3
 * [Music Kraken](https://pypi.org/project/music-kraken/) - MP3
 * [MP3Jam](https://www.mp3jam.org/) - MP3
-* [RedSea](https://github.com/Dniel97/RedSea), [Tidal Media Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) / [Pro](https://github.com/yaronzz/Tidal-Media-Downloader-PRO), [orpheusdl-tida](https://github.com/Dniel97/orpheusdl-tidal) or [Tidal-DL](https://yaronzz.com/post/tidal_dl_installation) - Tidal Music Downloaders
+* [RedSea](https://github.com/Dniel97/RedSea), [Tidal Media Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) / [Pro](https://github.com/yaronzz/Tidal-Media-Downloader-PRO), [orpheusdl-tidal](https://github.com/Dniel97/orpheusdl-tidal) or [Tidal-DL](https://yaronzz.com/post/tidal_dl_installation) - Tidal Music Downloaders
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - FLAC / MP3
 * [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots)
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - Music Download Tool 
