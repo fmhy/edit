@@ -1696,3 +1696,9 @@ pass: paluch
 #### Win 10 ROG
 
 `aHR0cHM6Ly9maWxlY3IuY29tLz9zPXdpbmRvd3MrMTArcm9n`
+
+***
+
+#### Zorin OS Pro
+
+`aHR0cHM6Ly9maWxlY3IuY29tLz9zPXdpbmRvd3MrMTArcm9n`
