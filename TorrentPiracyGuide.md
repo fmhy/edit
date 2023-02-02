@@ -99,7 +99,7 @@
 * ⭐ **[RuTracker](http://rutracker.org)**, [2](https://rutracker.nl/), [3](https://rutracker.net/) - Video / Audio / Games / Software / Android / Comics / Magazines
 * ⭐ **RuTracker Tools** - [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/) / [Search API](https://github.com/nikityy/rutracker-api)
 * ⭐ **[TorrentGalaxy](https://torrentgalaxy.to/)** - Video / Audio / Games / Software / NSFW / [Mirrors](https://proxygalaxy.me/)
-* ⭐ **[m0nkrus](http://w14.monkrus.ws/)** - Adobe Software archive
+* ⭐ **[m0nkrus](http://w14.monkrus.ws/)** - Adobe Software Archive / How-to](https://rentry.co/adobesoftware)
 * [Demonoid](https://www.demonoid.is/), [2](https://www.dnoid.to/) - Video / Audio / Software / Games / Books / Comics
 * [Pirateiro](http://pirateiro.com) - Video / Audio / Games / Roms / Software / Android / Books / Comics / NSFW
 * [GloTorrents](https://glodls.to) - Video / Audio / Games / Books / Software / Android / NSFW
@@ -153,6 +153,7 @@
 * [BTDB](https://btdb.eu/)
 * [TNTBack](https://tntback.github.io/)
 * [BTMET](https://btmet.com/)
+* [FreshMeat](https://freshmeat.io/)
 * [ExtraTorrent](https://extratorrent.unblockit.kim/)
 * [Torrent Download](http://www.torentdownloads.narod.ru/)
 * [Torrenteer](http://torrenteer.ddns.net/)
@@ -166,6 +167,7 @@
 * [TorrentFunk](https://www.torrentfunk.com/), [2](https://www.torrentfunk2.com/)
 * [concen](https://www.concen.org/torrents)
 * [BTSearch](https://www.btsearch.ml/)
+* [EXT Torrents](https://extranet.torrentbay.to/)
 * [SolidTorrents](https://solidtorrents.to/) - [/r/SolidTorrents](https://reddit.com/r/SolidTorrents)
 * [TorrentSeeker](https://torrentseeker.com)
 * [Torrentzeta](https://www.torrentzeta.com/)
