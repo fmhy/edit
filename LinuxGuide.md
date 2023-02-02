@@ -299,6 +299,7 @@
 * [Mofolinux](https://mofolinux.com/), [Tails](https://tails.boum.org/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - Privacy-Based Linux Operating System
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - VPN Tunnel
 * [Openconnect VPN Server](http://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
+* [zapret](https://github.com/bol-van/zapret) - DPI Circumvention Tool
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
 * [Tomb](https://www.dyne.org/software/tomb/) - File Encryption
 * [Collision](https://flathub.org/apps/details/dev.geopjr.Collision) - Check File Hashes
@@ -384,6 +385,7 @@
 
 # ► Mac Tools / Apps
 
+* ⭐ **[Team OS](https://www.teamos.xyz/)** or [gibMacOS](https://github.com/corpnewt/gibMacOS) - Download MacOS
 * ⭐ **[Dropzone](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dropzone)** or [Readdle](https://readdle.com/documents) - Multipurpose File Tool
 * ⭐ **[The Unarchiver](https://theunarchiver.com/)**, [unxip](https://github.com/saagarjha/unxip) or [Keka](https://www.keka.io/) - File Archiver / Unzipper
 * ⭐ **[qBittorrent](https://www.qbittorrent.org/)** - Torrent Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)
@@ -399,7 +401,6 @@
 * [AnimeNow](https://github.com/AnimeNow-Team/AnimeNow) - Anime Streaming App
 * [DMHY](https://github.com/yaqinking/DMHY) - Anime Torrent Autodownloader 
 * [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) or [Accord](https://github.com/evelyneee/accord) - Discord Clients
-* [gibMacOS](https://github.com/corpnewt/gibMacOS) - Download MacOS
 * [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions MacOS
 * [ravynOS](https://airyx.org/) - FreeBSD style MacOS
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
