@@ -411,6 +411,7 @@
 * [TopCartoons](https://www.topcartoons.tv/)
 * [WatchCartoonOnline](https://watchcartoononline.bz/)
 * [KissCartoon.info](https://kisscartoon.info/) - Anime / Cartoons
+* [Kimcartoon.si](https://kimcartoon.si/) - Anime / Cartoons
 * [Anime World India](https://anime-world.in/) - Anime / Cartoons / [Discord](https://discord.com/invite/c3ete48q8H)
 * [Supercartoons](https://www.supercartoons.net/)
 * [FunnierMoments](https://www.funniermoments.net/)
@@ -695,6 +696,7 @@
 * [4K Movies](https://4kmovies.co/) - HD Movies / TV
 * [4k-hd.club](https://4k-hd.club/) - HD Movies
 * [FilmFans](https://filmfans.org/) - HD Movies
+* [ShowBox](https://www.showbox.media/) - HD Movies / TV / [How-to](https://pastebin.com/raw/jtwMfCcq)
 * [3D HD]( https://3d-hd.club/) - 3D Movie ISOs
 * [IRC Movie Channels](https://pastebin.com/2AeYizZK)
 * [StreamFab](https://pastebin.com/Kgui74wd) - Premium Streaming Site Video Downloader / [Screenshot](https://i.imgur.com/cH0XLZs.png)
@@ -940,6 +942,7 @@
 * [Cinetrii](https://cinetrii.com/) - Discover Movies with Similar Themes 
 * [DateNightMovies](https://datenightmovies.com/) - Get Recommendations Based on 2 Movies 
 * [Random Movies / Series Bookmark Script](https://pastebin.com/PDsm2SSC) - Find Random Movies / Shows
+* [spin.moe](https://spin.moe/) - Find Random Anime
 * [Series Rating Chart](https://www.neetcoder.com/app/) - Compare TV Shows by Ratings
 * [MRQE](https://www.mrqe.com/) - Movie Review Search Engine
 * [RatingsGraph](https://www.ratingraph.com/) - Movie / TV Ratings Graphs
@@ -954,7 +957,7 @@
 * [Horror Sub-Genre Guide](https://i.stack.imgur.com/lAEV1.png) - List of Horror Genres
 * [Based on the Book](https://www.mymcpl.org/books-movies-music/read/based-on-the-book) - List of Movies Based on Books
 * [What is My Movie?](https://www.whatismymovie.com/) - Find Movie Based on Description
-* [Find Movie](https://find-movie.info/) - Find Movie With Quotes
+* [Find Movie](https://find-movie.info/) or [QuoDB](https://www.quodb.com/) - Find Movie With Quotes
 * [Ant Movie](https://www.antp.be/software/moviecatalog) or [libib](https://www.libib.com/) - Desktop Video Media Catalog
 * [MediaTracker](https://github.com/bonukai/MediaTracker) or [Flox](https://github.com/devfake/flox) - Self-Hosted Media Catalogs
 * [AniTrakt](https://anitrakt.huere.net/) - Trakt / MyAnimeList Sync
@@ -986,15 +989,15 @@
 * ⭐ **[Subtitle Edit](https://www.nikse.dk/SubtitleEdit/Online)**, [DST](https://www.syedgakbar.com/projects/dst), [Aegisub](https://ftp.wangqr.tk/aegisub/), [Subtitle Workshop](https://www.uruworks.net/), [Jubler Subtitle](https://www.jubler.org/), [DivXLand Subtitler](https://www.andreszsogon.com/divxland-media-subtitler/) or [Subtitld](https://subtitld.jonata.org/) - Subtitle Editor
 * ⭐ **[External Subtitles Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_external_subs_player)** - Play Subs Externally 
 * [Movie-Subtitles](https://github.com/gignupg/Movie-Subtitles) or [Substital](https://substital.com/) - External Subtitle Extension
-* [elSubtitle](http://www.elsubtitle.com/) - Subtitles & Tools 
+* [elSubtitle](http://www.elsubtitle.com/) - Subtitles & Tools
 * [GSubs](https://cholaware.com/gsubs/) or [Subsearch](https://github.com/vagabondHustler/subsearch) - Subtitle Search Tools
-* [Subtitle Cat](https://www.subtitlecat.com/) - Subtitles 
-* [Subscene](https://subscene.com/) - Subtitles 
-* [SubDL](https://subdl.com/) - Subtitles 
-* [Addic7ed](https://www.addic7ed.com/) - Subtitles 
-* [Podnapisi](https://www.podnapisi.net/) - Subtitles 
+* [Subtitle Cat](https://www.subtitlecat.com/) - Subtitles
+* [Subscene](https://subscene.com/) - Subtitles
+* [SubDL](https://subdl.com/) - Subtitles
+* [Addic7ed](https://www.addic7ed.com/) - Subtitles
+* [Podnapisi](https://www.podnapisi.net/) - Subtitles
 * [Subsplease](https://subsplease.org/) - Subtitles 
-* [opensubtitles.com](https://www.opensubtitles.com/) - Subtitles 
+* [opensubtitles.com](https://www.opensubtitles.com/) - Subtitles
 * [Subs4Free](https://www.subs4free.info/) - Subtitles 
 * [English-Subtitles](https://english-subtitles.org/) - Subtitles 
 * [SubAsk](https://subask.com/) - Subtitles
@@ -1002,39 +1005,40 @@
 * [MovieSubtitles](http://www.moviesubtitles.net/) - Subtitles
 * [SubtitleSeeker](https://www.subtitleseeker.in/) - Subtitles
 * [SubEntitle](https://subentitle.com/) - Subtitles
-* [Subtitlist](https://subtitlist.com/) - Subtitles 
+* [Subtitlist](https://subtitlist.com/) - Subtitles
 * [English-Subtitles](https://www.english-subtitles.me/) - Subtitles
 * [TVSubtitles](http://www.tvsubtitles.net/) or [TVSubs](http://www.tvsubs.net/) - TV Subtitles 
-* [kitsuneko](https://kitsunekko.net/) - Anime Subtitles 
-* [DownSub](https://downsub.com/) - Download Subs from Video Sites 
+* [kitsuneko](https://kitsunekko.net/) - Anime Subtitles
+* [DownSub](https://downsub.com/) - Download Subs from Video Sites
 * [YT Sub Downloader](https://greasyfork.org/en/scripts/5368) - Download Subs from YouTube Videos
 * [amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - Add Subs to Youtube Videos / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi) / [Chrome](https://chrome.google.com/webstore/detail/subtitles-for-youtube/oanhbddbfkjaphdibnebkklpplclomal)
 * [Loadtup](https://loadtup.com/) - YouTube Video Translator
-* [LiveTL](https://kentonishi.github.io/LiveTL/) - YouTube Live Stream 
+* [LiveTL](https://kentonishi.github.io/LiveTL/) - YouTube Live Stream
 * [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - Styled YouTube Subtitles
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - Add Subtitles to Twitch Stream
 * [Bazarr](https://www.bazarr.media/) - Auto-Download Subtitles 
 * [HandySub](https://github.com/HandyOrg/HandySub), [SubDownloader](https://subdownloader.net/) or [Subscene-Subtitle-Grabber](https://github.com/RafayGhafoor/Subscene-Subtitle-Grabber) - Subtitle Downloader
-* [Subliminal](https://github.com/Diaoul/subliminal), [SubtitleBOX](https://github.com/sameera-madushan/SubtitleBOX) or [Subtitle-Downloader](https://github.com/manojmj92/subtitle-downloader) - Python Download Script 
+* [Subliminal](https://github.com/Diaoul/subliminal), [SubtitleBOX](https://github.com/sameera-madushan/SubtitleBOX) or [Subtitle-Downloader](https://github.com/manojmj92/subtitle-downloader) - Python Download Script
 * [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - Plex Subtitles
 * [Adjust Subs Like a Pro](https://graph.org/Adjust-subtitles-in-seconds-like-a-pro-07-17) - Subtitle Syncing Guide
 * [Subshifter](https://subshifter.bitsnbites.eu/), [subsync](https://github.com/sc0ty/subsync), [ffsubsync](https://github.com/smacke/ffsubsync), [autosubsync-mpv](https://github.com/joaquintorres/autosubsync-mpv), [Alass](https://github.com/kaegi/alass), [autosubsync](https://github.com/oseiskar/autosubsync) or [subslider.js](https://github.com/micheleb/subslider.js) / [2](https://micheleb.github.io/subslider.js/) - Sync Subtitles 
 * [SubtitleDLbot](https://t.me/SubtitleDLbot) or [subtitle_dl_bot](https://t.me/subtitle_dl_bot) - Telegram Subtitles Bot 
 * [MuxedBot](https://t.me/MuxedBot) - Merge Subtitles / Telegram
-* [vlsub](https://github.com/exebetche/vlsub) - VLC Subtitle Download 
-* [asstosrt-wasm](https://sorz.github.io/asstosrt-wasm/) - ASS / SSA to SRT Subtitles Converter 
-* [RenameThemSubs](https://github.com/Eshaan7/RenameThemSubs) - Rename Sub Files to match Video 
-* [pyTranscriber](https://pytranscriber.github.io/), [Auto-Subtitle](https://www.veed.io/auto-subtitle) or [autosub](https://github.com/agermanidis/autosub), [2](https://github.com/BingLingGroup/autosub) - Subtitle Generator 
-* [CCaptioner](https://github.com/gorhill/ccaptioner) - Add Subtitles to Videos / Extension 
+* [vlsub](https://github.com/exebetche/vlsub) - VLC Subtitle Download
+* [SRT2PRXML](https://srt2prxml.chdo.xyz/) - SRT to Premiere Pro XML Converter
+* [asstosrt-wasm](https://sorz.github.io/asstosrt-wasm/) - ASS / SSA to SRT Subtitles Converter
+* [RenameThemSubs](https://github.com/Eshaan7/RenameThemSubs) - Rename Sub Files to match Video
+* [pyTranscriber](https://pytranscriber.github.io/), [Auto-Subtitle](https://www.veed.io/auto-subtitle) or [autosub](https://github.com/agermanidis/autosub), [2](https://github.com/BingLingGroup/autosub) - Subtitle Generator
+* [CCaptioner](https://github.com/gorhill/ccaptioner) - Add Subtitles to Videos / Extension
 * [subtitle.js](https://github.com/gsantiago/subtitle.js) - Parse and manipulate SRT (SubRip)
 * [TranslatesSubtitles](https://translatesubtitles.com/) or [SubtitleTranslate](https://github.com/mepeichun/SubtitleTranslate) - Translate Subtitles
 * [Auto Synced & Translated Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Create Translated Dubs
 * [subtitle_tonemap](https://github.com/quietvoid/subtitle_tonemap) - Map PGS Subs to Different Color / Brightness
 * [DualSub](https://github.com/bonigarcia/dualsub) - Bilingual Subtitles Maker
 * [asbplayer](https://killergerbah.github.io/asbplayer/) - Subtitle Sentence Mining
-* [SaveSubs](https://www.savesubs.com/) - Extract Subtitles from Online Videos 
+* [SaveSubs](https://www.savesubs.com/) - Extract Subtitles from Online Videos
 * [PlayPhrase](https://github.com/kelciour/playphrase) - Subtitle Phrase Search
-* [Sushi](https://github.com/tp7/Sushi) - Automatic Subtitle Shifter Based on Audio 
+* [Sushi](https://github.com/tp7/Sushi) - Automatic Subtitle Shifter Based on Audio
 * [movies2anki](https://github.com/kelciour/movies2anki) - Convert Movies with Subs to Anki
 * [mkv-extract](https://qgustavor.github.io/mkv-extract/) - Extract Subtitles from MKV Files
 * [VideoSubFinder](https://sourceforge.net/projects/videosubfinder/) - Hardcoded Subtitle Extractor
