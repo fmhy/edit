@@ -423,6 +423,7 @@
 * ⭐ **[Lidarr](https://github.com/Lidarr/Lidarr)** or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
 * [DimeADozen](http://www.dimeadozen.org/) - MP3 / FLAC
 * [TheAudioScene](https://theaudioscene.net/) - MP3 / FLAC
+* [HQMusic](http://hqmusic.info/) - FLAC / Signup Required
 * [BlackTorrent](https://blacktorrent.ru/) - Metal / MP3 / FLAC
 * [Metal Tracker](https://en.metal-tracker.com/) - Metal / MP3
 * [RockBox](https://rawkbawx.rocks/) - Metal / MP3
