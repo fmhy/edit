@@ -714,7 +714,6 @@
 * ⭐ **[Rek's Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive)** - Movies / Anime
 * [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
 * [Media](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_media) - Movies / TV / Anime
-* [xo.ljt](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_xo.ljt) - Movies / TV
 * [itonaku](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_itonaku) - Movies
 * [†M1o8143](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2020m1o8143) - Movies / TV / Anime
 * [Torrent TD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_torrent_td) - Movies / TV / Anime
