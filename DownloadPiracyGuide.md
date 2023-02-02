@@ -186,7 +186,6 @@
 * [soft98](https://soft98.ir/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [PiratePC](https://piratepc.me/) - [Discord](https://discord.gg/QhaKfHwWmV)
 * [SamLab](https://samlab.ws/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [FTUApps](https://ftuapps.dev/)
 * [AIOWares](https://www.aiowares.com/)
 * [Mr. SzzS](https://www.youtube.com/channel/UCcf3dtQFVb5zfy0jGYNpA0w)
 * [Softlay](https://softlay.net/)
