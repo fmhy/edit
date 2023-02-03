@@ -145,7 +145,7 @@
 * [Turtle](https://play.google.com/store/apps/details?id=com.amrdeveloper.turtle) - Create Shapes 
 * [Inspirograph](https://nathanfriend.io/inspirograph/) - Inspirograph Tool
 * [SpirographN](http://seedcode.com/SpirographN/sgn.html) - Spirograph Tool
-* [myMrLx](https://codepen.io/davidpanik/full/myMrLx/) or [MilkyWay](https://yusufcayci.com/milkyway) - Spiral Art Generators
+* [myMrLx](https://codepen.io/davidpanik/full/myMrLx/) - Spiral Art Generators
 * [Paper Quilling Art](https://pissang.github.io/paper-quilling-art/) - Paper Quilling Art Generator
 * [Brown](https://fi-le.net/brown/) - Brownian Motion Tool
 * [Mondrian And Me](https://mondrianandme.com/) - Mondrian Art Creator
@@ -433,10 +433,8 @@
 * [PoseManiacs](https://www.posemaniacs.com/) - Pose References
 * [FaceMaker](http://facemaker.uvrg.org/) - 3D Face / Avatar Generator
 * [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator
-* [Plantarium](https://plant.jim-fx.com/) - 3D Plant Creator
 * [CSS 3D Clouds](https://spite.github.io/CSS3DClouds/) - 3D Cloud Creator
 * [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - AI Art Generation Guide
-* [vrn](https://cvl-demos.cs.nott.ac.uk/vrn/) - 3D Face Reconstruction 
 * [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
 * [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) - 3D Printing Software
 * [Ameede](https://www.ameede.com/) - CNC / Laser Design Vectors
