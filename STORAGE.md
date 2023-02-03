@@ -2409,6 +2409,7 @@ Add the following commands to a search to manually scrape each site.
 * [publicdomainsherpa](http://www.publicdomainsherpa.com/free-sheet-music.html)
 * [musescore](https://musescore.org/en) + [Downloader](https://github.com/Xmader/musescore-downloader) 
 * [JMSheetMusic](https://t.me/JMSheetMusic) (Jewish Music)
+* [VGLeadSheets](https://www.vgleadsheets.com/) (Video Game Music)
 
 ***
 
