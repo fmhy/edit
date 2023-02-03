@@ -191,6 +191,7 @@
 * [Softlay](https://softlay.net/)
 * [CRACKurl](https://cracksurl.com/)
 * [Pesktop](https://pesktop.com/en/)
+* [FTUAPps](https://ftuapps.dev/)
 * [TheMicroTech](https://programs.themicrotech.net/)
 * [Cyberspace](https://cyberspace.world/)
 * [4Download](https://www.4download.net/)
