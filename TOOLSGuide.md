@@ -62,7 +62,7 @@
 * [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Concerts / Music Festival Search
 * [Visa Guide](https://visaguide.world/) - Worldwide Travel Visa Guides
 * [KittySplit](https://www.kittysplit.com/en/) - Group Expense Splitting Calculator
-* [Sleepyti.me](https://sleepopolis.com/calculators/sleep/) - Bedtime Calculator
+* [SleepyTime](https://sleepytime.cc/) - Bedtime Calculator
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - Bra Size Calculator
 * [The Sustainabilitist](https://sustainabilitist.com/) - Sustainability Resource Hub
 * [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity Booster / [Premium Unlock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cold_turkey_premium)
