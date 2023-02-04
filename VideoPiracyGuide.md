@@ -115,6 +115,7 @@
 * [AZMovies](https://azms.to/) - Movies
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
 * [Series9](https://series9.me/) - Movies / TV / Anime
+* [WatchSeries 2.0](https://watchmovie.ac/) - Movies / TV / Anime
 * [Cloudy](https://cloudy.pk/category/english/) - Movies / TV
 * [Levidia](https://www.levidia.ch/) - Movies / TV / Anime
 * [TopEuroPix](https://topeuropix.site/), [123EuroPix](https://123europix.pro/) or [europixHD](https://europixhd.pro/) - Movies / TV / Anime
@@ -643,6 +644,7 @@
 * [Onkyo4k](https://onkyo4k.com/) - Movies / TV
 * [ShareSpark](https://sharespark.me/) - Movies / TV
 * [Free Movies](https://free-movies.to/) - Movies / TV
+* [MovieHub](https://www.movie-hub.xyz/) - Movies
 * [FilmsZilla](https://filmszilla.com/) - Movies / TV
 * [StreamCraze](https://streamcraze.com/) - Movies / TV
 * [MovieExplit](https://moviexplit.pw/) - Movies / TV / Anime / [Telegram](https://t.me/moviexplit)
@@ -728,6 +730,7 @@
 * [Movies, Series... in English](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_movies.2C_series..._in_english) - Movies / TV
 * [r/moviegod](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_r.2Fmoviegod) - Movies
 * [wenubgang](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wenubgang) - TV / Anime
+* [papaonwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_papaonwork) - Movies / TV / Anime
 * [مسلسلات اجنبية‬‎](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.645.633.644.633.644.627.62A_.627.62C.646.628.64A.629) - TV
 * [Remux Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_17tb_mega_drive) - HD Movies
 * [4K Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_4k_movie_collection) - HD Movies
@@ -798,7 +801,7 @@
 
 * ⭐ **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
 * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming App
-* ⭐ **Stremio Tools** - [Guide](https://rentry.co/privatestremio), [Addons](https://github.com/danamag/stremio-addons-list/blob/main/README.md) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/)
+* ⭐ **Stremio Tools** - [Guide](https://rentry.co/privatestremio), [Addons](https://stremio-addons.netlify.app/) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/) / [GDrive Fetch](https://github.com/ShuvamJaswal/Gdrive-Stremio-Update)
 * ⭐ **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents
 * ⭐ **[Radarr](https://radarr.video/)** - Autodownload Movie Torrents / [GitHub](https://github.com/Radarr/Radarr)
 * ⭐ **[Sonarr](https://sonarr.tv/)** / [GitHub](https://github.com/Sonarr/Sonarr), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - Autodownload TV Torrents / [Guide](https://wiki.servarr.com/)
