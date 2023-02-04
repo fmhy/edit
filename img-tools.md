@@ -294,6 +294,7 @@
 * [Pixelorama](https://orama-interactive.itch.io/pixelorama) - 2D Sprite Editor
 * [Pixelart 3D Painting](https://lampysprites.itch.io/pribambase) - 3D Pixel Art Painting
 * [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) , [Pixel Sprite](https://deep-fold.itch.io/pixel-sprite-generator) or [Creature Mixer](https://kenney.itch.io/creature-mixer) - Sprite Generator
+* [Pixelicious](https://www.pixelicious.xyz/) - Image to Pixel Art Converter
 * [Nasu](https://hundredrabbits.itch.io/nasu) - Spritesheet Editor
 * [Curve](https://iseenbaas.nl/curve/) - Create Pixelated Curve
 * [Petmate](https://nurpax.github.io/petmate/) - C64 PETSCII Image Editor
