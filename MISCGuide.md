@@ -80,6 +80,7 @@
 * [num's link list](https://soda.privatevoid.net/num/links/) - Site Index
 * [NYPL Best of the Web](https://www.nypl.org/collections/nypl-recommendations/best-of-web) - Site Index
 * [Awesome Lite Websites](https://github.com/mdibaiee/awesome-lite-websites) - Lightweight Site Index
+* [Onion Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_onion_directories) - .onion Directories
 * [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public Domain Resource Index Awesome
 * [LinkLonk](https://linklonk.com/) - Link Aggregator & Voting
 * [Simple Tools](https://simpletools.info/doku.php) - Simple Programs Index 
@@ -97,7 +98,6 @@
 * [Websites From Hell](https://websitesfromhell.net/) - Shitty Website Index
 * [National Archives](http://www.nationalarchives.gov.uk/webarchive/) - UK Government Site Archive
 * [UKWA](https://www.webarchive.org.uk/ukwa/) - UK Site Archive
-* [DeepWebLinks](https://deepweblinks.net/directories/), [dark.fail](https://dark.fail/), [Official Hidden Wiki](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/), [DeepOnionWeb](https://www.deeponionweb.com/), [DarkWebWiki](https://darkwebwiki.org/), [DarkWebTalk](https://www.darkwebtalk.com/), [Tor.Taxi](https://tor.taxi/) or [Real World Onion Sites](https://github.com/alecmuffett/real-world-onion-sites) - .Onion Directories
 * [The Hive Index](https://thehiveindex.com/) - Online Communities Index
 * [NetSplit](https://netsplit.de/) - IRC Channel Index
 * [API List](https://apilist.fun/) or [Public APIs](https://github.com/public-apis/public-apis) - API index 
@@ -232,7 +232,7 @@
 * [PS Deals](https://psdeals.net/) - PlayStation Game Price Tracker
 * [BTOD](https://www.btod.com/blog/category/buying-guides/) - Office Chair Buying Guides / Reviews
 * [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker
-* [PhoneDB](https://phonedb.net/), [PhoneArena](https://www.phonearena.com/phones/compare), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones / Prices
+* [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones / Prices
 * [Pepper](https://www.pepper.com/) - Shopping Community
 * [SlyToday](https://slytoday.com/) - Price Comparison Search
 * [FairGame](https://github.com/Hari-Nagarajan/fairgame) - Automatically Place Orders on Amazon
@@ -1285,7 +1285,8 @@
 * [Booru Slideshow](https://github.com/Chirmaya/BooruSlideshow) - Make Slideshows Easier to Navigate
 * [Textmarker](https://github.com/ufb/Textmarker) - Text Highlighter 
 * [Bulk URL Opener](https://bulkurlopener.com/) or [Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs/) - Open Multiple URL's in One Click 
-* [Forecastfox](http://www.s3blog.org/forecastfox.html) - Weather Addon 
+* [Forecastfox](http://www.s3blog.org/forecastfox.html) - Weather Addon
+* [PronounDB](https://pronoundb.org/) - Pronoun Addon
 * [Timer](https://eccorem.com/apps/timer.html) - Timer, Alarm & Stopwatch 
 * [Dollchan](https://dollchan.net/) - Imageboard Features
 * [XKit](https://github.com/new-xkit/XKit) - Make Tumblr More Usable
