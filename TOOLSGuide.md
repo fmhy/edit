@@ -95,7 +95,6 @@
 * [GitKraken Timeline](https://timelines.gitkraken.com/), [Timeline Cascade](https://cascade.page/) / [GitHub](https://github.com/kochrt/cascade.page), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Create Timelines
 * [Timeliner](https://github.com/mholt/timeliner) - Create Personal Digital Timeline
 * [Graph / Diagram Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_graph_.2F_diagram_creators)
-* [WhatDog](https://www.bing.com/visualsearch/Microsoft/WhatDog) - Dog Breed Identification Tool 
 * [tusk](https://tusk.page/) or [AnonReply](https://anonreply.com/) - Give & Receive Anonymous Feedback 
 * [Familypedia](https://familypedia.fandom.com/), [Gramps](https://gramps-project.org/blog/) or [WikiTree](https://wikitree.com/) - Family Trees
 * [Ravelry](https://ravelry.com) - Fiber Artist Tools
@@ -216,7 +215,6 @@
 * [Count Wordsworth](http://countwordsworth.com/) - Count Words in a List
 * [OfficeDocs](https://www.offidocs.com/) - Runs Desktop / Mobile Apps Online
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
-* [Buffered.link](https://buffered.link/) - Share Text Between Devices
 * [Baserow](https://gitlab.com/bramw/baserow), [Framacalc](https://accueil.framacalc.org/en/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheet
 * [TinySheet](https://tinysheet.com/), [Gnumeric](http://www.gnumeric.org/) or [EtherCalc](https://ethercalc.net/) - Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
@@ -304,7 +302,6 @@
 * [youtube-cld](https://github.com/anatolykopyl/youtube-cdl) - Bulk YouTube Channel Downloader
 * [DMVideo](https://dmvideo.download/) - DailyMotion Video Downloader 
 * [Pincase](https://pincase.xyz/) - Pinterest Video Downloader 
-* [VLive Downloads](https://home.soshistagram.com/naver_v/) - VLive Video Downloader
 * [kmttg](https://www.videohelp.com/software/kmttg) - TivoToGo Download Manager
 * [TikTok Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tiktok_video_downloaders) - Download TikTok Videos
 * [myfaveTT](https://myfavett.com/) - Download Your Liked TikTok Videos
@@ -442,9 +439,11 @@
 * ⭐ **[Hitsquad](http://www.hitsquad.com/smm/)** - Audio Tools / Software Index 
 * ⭐ **[Audio Players / Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)** - Organize & Play Audio Files
 * ⭐ **[Audio Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_servers)** - Host & Play Audio Files via Server
+* ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream PC Audio to Phone
 * ⭐ **[Tune My Music](https://www.tunemymusic.com/)** - Transfer Music Library Between Services
 * ⭐ **[Audio Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_audio_software)** - Audio Software Downloads
 * ⭐ **[Audio Editors / Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_editors)** - Edit, Record & Create Audio
+* ⭐ **[Moises](https://moises.ai/)** - Live Music Mixer
 * ⭐ **[Audio Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_download_apps)** - Download Audio from Various Sites 
 * ⭐ **[Spotify Tools / Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Tools & Downloaders for Spotify
 * ⭐ **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download from YouTube
@@ -500,7 +499,6 @@
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Soundux](https://soundux.rocks/) / [GitHub](https://github.com/Soundux/Soundux) or [Resanance](https://resanance.com/) - Soundboard Program
 * [MyInstants](https://www.myinstants.com/index/us/), [InternetsFun](https://instantsfun.es/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboard
 * [Soundpad](https://www.leppsoft.com/soundpad/) - Voicechat Soundboard
-* [AudioRelay](https://audiorelay.net/) - Stream PC Audio to Phone 
 * [TimeStetch](https://29a.ch/timestretch/) - Web Music Player
 * [iPod.js](https://tannerv.com/ipod/) - iPod Themed Web Music Player
 * [Gelli](https://github.com/dkanada/gelli) - Jellyfin Music Player 
@@ -521,7 +519,6 @@
 * [CUETools](http://cue.tools/wiki/CUETools) - Lossless Audio / CUE Sheet Converter
 * [FLAC Frontend](http://flacfrontend.sourceforge.net/) - FLAC Tools 
 * [FLStudio Skins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_flstudio_skins) - Skins for FLStudio
-* [Ambientbg](https://www.ambientbg.xyz/) - Create Ambient Background in FL Studio
 * [Webamp](https://webamp.org/) - Winamp in Browser 
 * [Winamp Skin Museum](https://skins.webamp.org/) - Skins for Winamp / Webamp 
 * [WACUP](https://getwacup.com/) - Winamp update project 
@@ -531,7 +528,6 @@
 * [MP3Louder](https://mp3louder.com/) - Increase MP3 Volume
 * [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/), [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil), [AdventureMachine](https://madeon.fr/adventuremachine/) or [Strofe](https://www.strofe.com/) - Simple Audio Creators
 * [Cycle Plus One](https://cycle-plus-one.sourceforge.io/) - Audio Pattern Generator
-* [Moises](https://moises.ai/) - Live Music Mixer
 * [WD-1](https://www.worteldrie.com/WD5/), [Citizen DJ](https://citizen-dj.labs.loc.gov/loc-variety-stage/remix/), [Until AM](http://mix.until.am/) or [YOU.DJ](https://you.dj/) - Online DJ / Beat Creator 
 * [RaveDJ](https://rave.dj/) - Easily Mix Songs Together 
 * [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) - Create Songs with Code
@@ -557,8 +553,8 @@
 * [Acid Machine 2](http://errozero.co.uk/acid-machine/) - Acid Techno Machine
 * [AGS](https://audio-file.org/2020/11/25/ags-advanced-gtk-sequencer/) - Audio Sequencer
 * [Sequencer](https://sequencer.henryfellerhoff.com/) - Scale Sequencer
-* [Roland 808303.studio](https://808303.studio/) - Online Drum Machine / TB-303 Bass Synth 
-* [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/) or [Hammmerhead](http://www.threechords.com/hammerhead/) - Online Drum Machine
+* [Roland 808303.studio](https://808303.studio/) - Online Drum Machine / TB-303 Bass Synth
+* [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/), [Drummy](https://drummy.io/) or [Hammmerhead](http://www.threechords.com/hammerhead/) - Online Drum Machines
 * [orDrumbox](https://www.ordrumbox.com/) - Drum Machine
 * [React Guitar](https://react-guitar.com/) - Virtual Guitar
 * [Dot Piano](https://dotpiano.com/), [The 88](https://impactsoundworks.com/product/the-88e/) (enter $0), [VirtualPiano](https://virtualpiano.net/) or [Piano Online](https://magicode.me/piano-online) - Virtual Pianos
@@ -719,7 +715,7 @@
 * [MedusaJS](https://www.medusajs.com/) - Open Source Commerce Store
 * [BTCPay](https://btcpayserver.org/) - Bitcoin Payment Processor
 * [KYCNOT.ME](https://kycnot.me/) - Non-KYC Exchanges / Services
-* [ConvertMenu](https://convertmenu.com/) or [QR Menu Creator](https://qrmenucreator.com/) - Convert Menu to QR Codes
+* [QR Menu Creator](https://qrmenucreator.com/) - Convert Menu to QR Codes
 * [VCEGuide](https://vceguide.com/) - Tech Certification Practice Tests
 * [9Tut](https://www.9tut.com/) - CCNA Certification Training
 * [Statista](https://statista.com/) - Market Statistic Search
@@ -1169,11 +1165,12 @@
 * [Legere](https://www.microsoft.com/en-us/p/legere-for-reddit/9phjrvcskvjz), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/) or [Nuxtit](https://nuxtit.netlify.com/) - Alt Browsers / Web Clients
 * [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466), [Unedit](https://github.com/DenverCoder1/Unedit-for-Reddit), [Unddit](https://www.unddit.com/) / [2](https://camas.unddit.com/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - View Deleted Reddit Posts
 * [ReSavr](https://www.resavr.com/) or [Unreddit](https://github.com/pauldraper/unreddit) - View Deleted Reddit Comments 
-* [rareddit](https://www.rareddit.com/), [Archive Reddit](https://www.archivereddit.com/), [PushShift Reddit](http://files.pushshift.io/reddit/) or [Reddit Archive](http://www.redditarchive.com/) - Reddit Post Archive 
+* [rareddit](https://www.rareddit.com/), [PushShift Reddit](http://files.pushshift.io/reddit/), [Expanse](https://github.com/jc9108/expanse) or [Reddit Archive](http://www.redditarchive.com/) - Reddit Post Archive Tools 
 * [Reddit (Au) Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlights New Comments
 * [rComments](https://github.com/iampueroo/rComments) - Explore Comments & Replies without Clicking a Post 
 * [rAger](https://chrome.google.com/webstore/detail/rager/fohlpjahcdbkpcckapphhpahbiajccmj) - Display Account Age & Karma of Users
 * [MassTagger](https://www.masstagger.com/) - Reddit User Tagger
+* [RedditCake](https://github.com/tudorikas/RedditCake_ChromeExtension) - Display User Cake Days Automatically
 * [Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Always Load Old Reddit Design
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
 * [custom-top-sort-for-reddit](https://github.com/arvidsandin/custom-top-sort-for-reddit) - Scroll to Top of Reddit
@@ -1199,7 +1196,7 @@
 * [Reddit Check](https://chrome.google.com/webstore/detail/reddit-check/mllceaiaedaingchlgolnfiibippgkmj) or [RedditRepostSleuth](https://github.com/barrycarey/RedditRepostSleuth) - Check for Reposts
 * [DelayForReddit](https://www.delayforreddit.com/) - Reddit Post Scheduler
 * [Reddit Desktop Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_desktop_apps) 
-* [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader) or [ReScrapper](https://github.com/psantheus/ReScrapper) - Download Media from Reddit 
+* [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader), [DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) or [ReScrapper](https://github.com/psantheus/ReScrapper) - Reddit Media Downloader
 * [Bulk Downloader for Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Reddit Bulk Submission Downloader
 * [Pushshift.io](https://pushshift.io/) or [SocialGrep](https://socialgrep.com/) - Reddit Statistics
 * [Upvote Stats](https://www.upvotestats.com/) - Upvote Stats
@@ -1467,7 +1464,7 @@
 * [YouTube-Geofind](https://mattw.io/youtube-geofind/location) - Find Geotagged Videos
 * [Astronaut](http://astronaut.io/) - Watch Videos with 0 Views
 * [Default Filename](https://default-filename-tv.neocities.org/) - Random Default Filename YouTube Videos
-* [Tubeup](https://github.com/bibanon/tubeup) - Archive Youtube Videos and Playlists to Internet Archive
+* [Tubeup](https://github.com/bibanon/tubeup) or [yark](https://github.com/Owez/yark) - Archive Youtube Videos and Playlists
 * [YT Trends](https://ytrends.xyz) - Trending YouTube Videos
 * [Unlisted Videos](https://unlistedvideos.com/) - Watch / Submit Unlisted YouTube Videos
 * [QuiteAPlaylist](https://quiteaplaylist.com/) - Find Deleted YouTube Videos
@@ -1548,14 +1545,16 @@
 * [Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f) - Twitch Extension Index
 * [Trovo](https://trovo.live/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
 * [twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl), [ClipsGameLab](https://clipsgamelab.github.io/), [Twiclips](https://twiclips.com/) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) - Download Twitch Videos / Clips
-* [TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - Recover, View & Download Twitch Videos
+* [TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - Recover, View and Download Twitch Videos
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - Lightweight Twitch Webplayer
 * [Twitchls](https://twitchls.com/) - HTML5 Twitch Stream Player
 * [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - Alt Twitch Player
 * [Orion](https://alamminsalo.github.io/orion/) or [Tress](https://gitlab.com/Ignamarte/tress) - Twitch Desktop Client
 * [S0undTV](https://github.com/S0und/S0undTV) - Android TV Twitch Player
+* [Twitch DVR](https://github.com/caeleel/twitch-dvr) - Enable DVR on Twitch
 * [Twitch Now](https://addons.mozilla.org/en-US/firefox/addon/twitch-now_/) or [Gumbo](https://github.com/seldszar/gumbo) - 
 Twitch Stream Tracker
+* [Twitch Lurker](https://github.com/mikeyaworski/Twitch-Lurker) - Twitch Stream Auto-Open
 * [Unwanted Twitch](https://github.com/kwaschny/unwanted-twitch) - Hide Twitch Categories / Channels
 * [Multi](https://multi.raredrop.co/), [Twitchmultivod](https://www.twitchmultivod.com/) or [TwitchTheater](https://twitchtheater.tv/) - Watch Multiple Twitch Streams
 * [Tenami](https://www.tenami.tv/) or [Walrus](https://joinwalrus.tv/) - Twitch Watch Parties
@@ -1565,12 +1564,14 @@ Twitch Stream Tracker
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
 * [Transparent-Twitch-Chat](https://github.com/chylex/Transparent-Twitch-Chat) or [Transparent Twitch Chat Overlay](https://github.com/baffler/Transparent-Twitch-Chat-Overlay) - Transparent Twitch Chat
 * [Twitch Screen Comment Scroller](https://greasyfork.org/en/scripts/376225-twitch-screen-comment-scroller) - Auto Scroll Twitch Comments
-* [Points Autoclicker](https://github.com/xinitrc-dev/twitch-points-autoclicker) or [TTVDropBot](https://github.com/PockySweet/Enhanced-TTVDropBot) - Auto Claim Twitch Points
-* [Twitch Previews](https://github.com/MarkM-dev/Twitch-Previews) - Twitch Video Previews
+* [Points Autoclicker](https://github.com/xinitrc-dev/twitch-points-autoclicker), [Auto-Claim-Twitch-Channel-Points](https://github.com/mikeyaworski/Auto-Claim-Twitch-Channel-Points) or [TTVDropBot](https://github.com/PockySweet/Enhanced-TTVDropBot) - Auto Claim Twitch Points
+* [Twitch Previews](https://github.com/MarkM-dev/Twitch-Previews) or [Previews](https://previews-app.com/) - Twitch Video Previews
 * [Featured.chat](https://featured.chat/) - Twitch Chat Manager
 * [JChat](https://www.giambaj.it/twitch/jchat/) - Show Twitch Chat on Screen
+* [Hide-Twitch-Chat-Users](https://github.com/mikeyaworski/Hide-Twitch-Chat-Users) - Hide Twitch Chat Users
 * [TwitchRSS](https://twitchrss.appspot.com/) - Twitch RSS Generator
-* [7TV](https://7tv.app/ ) - Twitch Emotes Extension
+* [7TV](https://7tv.app/) - Twitch Emotes Extension
+* [TTV Favorites](https://github.com/jc9108/ttv-favorites) - Add Channel Favorites
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - Twitch Browser for Streamlink
 * [get stream](https://pwn.sh/tools/getstream.html) - Extract Twitch URLs
 * [nobody.live](https://nobody.live/) or [Twitch Roulette](https://twitchroulette.net/) - Random Stream Roulette
@@ -1601,7 +1602,7 @@ Twitch Stream Tracker
 * [Twishort](https://twishort.com/) or [TwitLonger](https://www.twitlonger.com/) - Make Longer Tweets
 * [Screamer](https://chrome.google.com/webstore/detail/screamer-twitter-improvem/mpeifaboppaofofdbmhoaeolnibaljof) - Tweet Only Twitter
 * [Typefully](https://typefully.com/) - Schedule Tweets
-* [Poet.so](https://poet.so/), [Twimage](https://twimage.vercel.app/) / [GitHub](https://github.com/drkPrince/tweet-to-image), [Tweetlet](https://tweetlet.net/), [Tweets Beauty](https://api.tweets.beauty/docs) or [Capture My Tweet](https://capturemytweet.in/) - Create Twitter Post Images
+* [Poet.so](https://poet.so/), [Twimage](https://twimage.vercel.app/) / [GitHub](https://github.com/drkPrince/tweet-to-image), [Tweetlet](https://tweetlet.net/) or [Tweets Beauty](https://api.tweets.beauty/docs) - Create Twitter Post Images
 * [Tall Tweets](https://talltweets.com/) - Turn Presentations into Twitter GIFs
 * [Tweetgen](https://www.tweetgen.com/) or [FakeTweetMaker](https://www.faketweetmaker.com/) - Create Fake Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chrome.google.com/webstore/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
@@ -1677,13 +1678,14 @@ Twitch Stream Tracker
 * ⭐ **[4chan X](https://www.4chan-x.net/)** / [Themes](https://github.com/KevinParnell/OneeChan), [SpookyX](https://github.com/Fiddlekins/SpookyX) or [Dollchan](https://dollchan.net/) - Adds Features to Imageboards
 * [Lurka](https://github.com/AdamSalma/Lurka) - 4chan Desktop Client
 * [ChanThreadWatch](https://github.com/SuperGouge/ChanThreadWatch) - Imageboard Thread Watcher
-* [4stats](https://4stats.io/) - 4chan Board & Thread Stats
+* [4stats](https://4stats.io/) - 4chan Board / Thread Stats
 * [4chan Mass Reply](https://github.com/HamletDuFromage/4chan-mass-reply) - Mass Reply on 4chan
+* [Anon Files Names](https://greasyfork.org/en/scripts/435220) - Anonymizes File Names
 * [4Chan GhostPostMixer](https://github.com/g-gundam/4chan-ghostpostmixer) - Interleave Deleted Posts from Archives
 * [Tripgen](https://orph.link/tripgen) - Imageboard Trip Code Generator 
 * [FlagHunter](https://gitlab.com/flagtism/flaghunter) - Find Rare Imageboard Flags
 * [Extra Flags for 4chan](https://gitlab.com/flagtism/Extra-Flags-for-4chan) or [Bant Flags](https://github.com/bantflags/bantflags) - Add More Flags to 4chan
-* [ss21](https://github.com/saxamaphone69/ss21) - 4Chan Userstyle
+* [ss21](https://github.com/saxamaphone69/ss21) o[4cheddit](https://greasyfork.org/en/scripts/16672) - 4chan Themes
 
 ***
 
@@ -1787,7 +1789,7 @@ Twitch Stream Tracker
 * [VMWare](https://gist.github.com/rkennesson/2c4595bf062aaab387dccf1210accf98) - Hide Virtual Machine
 * [QuickEmu](https://github.com/wimpysworld/quickemu) or [Dexpot](https://www.dexpot.de/) - Virtual Machine Creator
 * [vBoxSysInfoMod](https://github.com/JayMontana36/vBoxSysInfoMod) - Modify VM System Info
-* [Windows Sandbox](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview) or [Sandboxie Plus](https://sandboxie-plus.com/) - Sandbox Environment
+* [Windows Sandbox](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview) or [Sandboxie Plus](https://sandboxie-plus.com/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sandboxie_pro) - Sandbox Environment
 * [Dockerholics](https://github.com/petersem/dockerholics) - Docker Apps
 * [WebCatalog](https://webcatalog.app/) - Turn Sites into Desktop Apps
 * [Heimdall](https://heimdall.site/) - Application Manager
@@ -1848,7 +1850,7 @@ Twitch Stream Tracker
 * [OllyDbg](https://www.ollydbg.de/) - Binary Code Analysis Tool
 * [WhoCrashed](https://www.resplendence.com/whocrashed) - Windows Crash Analyzer
 * [PSU Calculator](https://www.newegg.com/tools/power-supply-calculator/) or [Power Supply Calculator](https://outervision.com/power-supply-calculator) - Find Compatible Power Supplies
-* [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) or [PowerSwitcher](https://github.com/petrroll/PowerSwitcher) - Quickly Change Power Schemes
+* [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
 * [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - AMD Processor Power Management
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
 * [Keyboard Testers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_keyboard_testers) - Test Keyboard Buttons
@@ -2185,7 +2187,8 @@ Twitch Stream Tracker
 * [ZipFly](https://github.com/sandes/zipfly) - Zip Archive Generator
 * [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
 * [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - How-to Safely Archive Files on Cloud Storage Sites
-* [TCPDF](https://tcpdf.org/) / [Git](https://github.com/tecnickcom/tcpdf) - PDF Creator 
+* [TCPDF](https://tcpdf.org/) / [Git](https://github.com/tecnickcom/tcpdf) - PDF Creator
+* [Dark Mode PDF](https://dark-mode-pdf.portals.sh/) - Convert PDFs to Darkmode
 * [PDF Host](https://pdfhost.io/) - Upload, Store and Share PDF Files 
 * [PDFx](https://www.metachris.com/pdfx/) or [Tabula](https://tabula.technology/) - Extract Info / URLs from PDF 
 * [online2pdf](https://online2pdf.com/), [ToPDF](https://topdf.org/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
@@ -2244,7 +2247,6 @@ Twitch Stream Tracker
 * [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive 
 * [goodls](https://github.com/tanaikech/goodls) - Google Drive Downloader
 * [GDirect](https://www.gdirect.link/), [gdurl](https://gdurl.com/), [publiclinks](https://publiclinks.hashhackers.com/) or [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - Direct GDrive Link Generators
-* [Folder.GDrive](https://folder.gdrive.vip/) - GDrive Folder Link Generator
 * [GDrive File Sharing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gdrive_file_sharing) - GDrive File Sharing Tools
 * [Backup System](https://github.com/danielpy108/BackUpMySystem) - Backup Google Drive
 * [OneDriveFly](https://github.com/Tai7sy/OneDriveFly) - OneDrive Index
