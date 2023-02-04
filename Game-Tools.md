@@ -220,9 +220,10 @@
 * [Mobalytics](https://mobalytics.gg/) - Game Performance & Stats Analyzer
 * [StatsVerse](http://statsverse.com/) - Battlefield Leaderboards
 * [Sym.gg](https://sym.gg/) - Battlefield Info & Weapon Stats
-* [Tracker.gg](https://tracker.gg/) - Game Leaderboards & Stats
+* [Tracker.gg](https://tracker.gg/) - Game Leaderboards / Stats
 * [TrueGameData](https://truegamedata.com/) - COD Leaderboards
 * [Warzone Loadout](https://warzoneloadout.games/) - Warzone Loadouts and Builds
+* [DMZ Calculator](https://sebranly.github.io/dmz/) - DMZ Currency to Cooldown Converter
 * [u.gg](https://u.gg/), [MobaFire](https://www.mobafire.com/), [ProBuilds](https://www.probuilds.net/) or [LoLalytics](https://lolalytics.com/) - League of Legends Build Guides & Tiers
 * [LoL Math](https://lolmath.net/) - League of Legends Build Calculator
 * [League of Graphs](https://www.leagueofgraphs.com/) - Champion Rankings
@@ -287,6 +288,7 @@
 * [Steam Account Manager](https://www.unknowncheats.me/forum/pc-software/117141-steam-account-manager.html) - Steam Account Switcher / Manager
 * [Steam Customizer](https://community.steamcustomizer.com/) or [SteamSkins](http://steamskins.org/) - Steam Skins
 * [SteamDarkMode](https://github.com/SleepDaemon/SteamDarkMode) - Steam Dark Mode Skin
+* [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) - Steam GNOME Skin
 * [Backgrounds.Gallery](https://backgrounds.gallery/) - Steam Backgrounds
 * [Steam.Design](https://steam.design/) - Steam Background Cropper
 * [SteamFriendsPatcher](https://github.com/PhantomGamers/SteamFriendsPatcher) - Apply Themes to Steam Friends UI
@@ -462,6 +464,7 @@
 * [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - PS3 Homebrew Subreddit
 * [PSXDev](https://www.psxdev.net/) - PS1 Development
 * [MemcardRex](http://shendosoft.blogspot.com/2014/01/memcardrex-18-released.html?m=1) - PS1 Save Transfer Tools / [Archive](https://archive.org/details/MemcardRex1.8)
+* [Brewology](https://psp.brewology.com/) - PSP Homebrew Resources
 * [Awesome PlayStation Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita) - PS Vita Resources
 * [Vita Volume](https://gitlab.com/sinful-butterfly/vita-volume) - Set PS Vita Volume without Buttons
 * [Tinfoil](https://tinfoil.io/) - Switch Title Manager / File Browser 
