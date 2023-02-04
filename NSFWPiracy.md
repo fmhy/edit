@@ -32,6 +32,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [PrimePornList](https://www.primepornlist.com/)
 * [Porn Sites Banned in India](https://www.scribd.com/doc/273372869/List-of-porn-websites-banned-in-India#fullscreen&from_embed) 
 * [look1](https://look1.club/), [2](https://that8.xyz/), [3](https://lady3.info/) - Chinese Site Index
+* [Excel Today](https://t.me/excel_today) - NSFW Telegram List
 * [DirtyWarez Adult](https://dirtywarez.org/cat/adult) - Alexa Adult Site Rankings
 
 ***
