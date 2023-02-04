@@ -107,7 +107,7 @@
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) - Rust Programming  Guidebook
 * [JavaScript.info](https://javascript.info/) - JavaScript Guide 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Javascript Learning Books
-* [EloquentJavascript](https://eloquentjavascript.net/), [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript), [FunJavascript](https://fun-javascript-projects.com/), [Java5cript](https://www.java5cript.com/) or [Grasshopper](https://grasshopper.app/) - Learn Javascript
+* [EloquentJavascript](https://eloquentjavascript.net/), [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript), [FunJavascript](https://fun-javascript-projects.com/), [LearnCS](https://www.learncs.online/lessons), [Java5cript](https://www.java5cript.com/) or [Grasshopper](https://grasshopper.app/) - Learn Javascript
 * [JavaScriptQuiz](https://javascriptquiz.com/) - JavaScript Quiz
 * [Javascript Questions](https://github.com/lydiahallie/javascript-questions) - Javascript Questions for Practice
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - Useful JavaScript Concepts
@@ -260,7 +260,7 @@
 * [Copy.ai](https://www.copy.ai/) - Marketing Description Generator
 * [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform
 * [Mysterium Network](https://www.mysterium.network/) or [Webdav](http://www.webdav.org/) - Open Web Protocols
-* [Webhook.site](https://webhook.site/) - Webhook Tool
+* [Webhook.site](https://webhook.site/) or [HookDeck](https://hookdeck.com/) - Webhook Tools
 * [Scoop](https://www.scoop.it/) - Content Curation Tool
 * [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Draw Sequence Diagrams 
 * [ASCII Flow](https://asciiflow.com/) - Draw ASCII Diagrams
@@ -422,6 +422,7 @@
 * [HITS](https://hits.seeyoufarm.com/) - Website Traffic Badges
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) or [MetaTags](https://metatags.io/) - Meta Tag Generator
 * [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools)
+* [Offshore Hosting](https://pornwebmasters.com/adult-offshore-hosting-sites) / [Domain Registars](https://pornwebmasters.com/offshore-domain-registrars) - Offshore Hosting Sites / Domain Registars that Ignore DMCA
 * [Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools) - Domain Information Lookup Tools
 * [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [v3WhoIs](https://www.v3whois.com/), [IWantMyName](https://iwantmyname.com/), [atlaq](https://atlaq.com/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
 * [namify](https://namify.tech/) - Domain / Business Name Suggestions
@@ -1228,6 +1229,7 @@
 * [tRPC](https://trpc.io/) - Build Typesafe APIs 
 * [Beeceptor](https://beeceptor.com/) - Mock REST APIs
 * [Siesta](https://github.com/bustoutsolutions/siesta) - Write REST API Clients for iOS / macOS
+* [Poll2Hook](https://poll2hook.com/) - REST API to Webhooks
 * [WebAuthn](https://webauthn.io/) - Data Security Authentication API
 * [APIKit](https://github.com/API-Security/APIKit) - API Security Tools
 * [hoppscotch](https://hoppscotch.io/) - API Development Ecosystem / [GitHub](https://github.com/hoppscotch/hoppscotch)
