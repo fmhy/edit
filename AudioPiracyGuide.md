@@ -21,6 +21,7 @@
 * [Cider](https://cider.sh/) - Streaming
 * [Resso](https://www.resso.com/in/) - Streaming
 * [Musify](https://github.com/gokadzev/Musify) - Streaming
+* [MellowPlayer](https://colinduquesnoy.gitlab.io/MellowPlayer/) - Streaming
 * [Muffon](https://github.com/staniel359/muffon) - Streaming
 * [Deezer](https://www.deezer.com/) - Streaming / [Full Songs](https://git.uhwot.cf/uhwot/dzunlock.git)
 * [OdesliBot](https://t.me/odesli_bot) - Audio Stream Search Bot
@@ -209,7 +210,8 @@
 * [tree.fm](https://www.tree.fm/) - Ambient Forest Sounds
 * [VibeOcean](https://defonic.com/vibeocean.html) - Ambient Ocean Sounds
 * [Calm](https://app.www.calm.com/) - Meditation / Sleep Music 
-* [Tide.fm](https://tide.fm/) - Meditation / Sleep Sounds 
+* [Tide.fm](https://tide.fm/) - Meditation / Sleep Sounds
+* [WhiteNoiseFan](https://www.whitenoisefan.com/) - White Noise Generator
 * [ChillOuts](http://www.chillouts.com/) - Meditation Aid
 * [August Ambiance](https://augustambience.com/) - Ambient Summer Sounds / Relaxation 
 * [VirtCcean](https://virtocean.com/) - Ambient Ocean Sounds
