@@ -585,7 +585,7 @@ Simulator
 * [refold.la](https://refold.la/roadmap) - Language Learning Guide 
 * [clozemaster](https://www.clozemaster.com/) - Context Based Language Learning
 * [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - Language Learning Flashcards
-* [Learn English Online](http://www.learn-english-online.org/), [EnglishCentral](https://www.englishcentral.com/), [ESLFast](https://www.eslfast.com/), [TalkEnglish](https://www.talkenglish.com/), [AntiMoon](https://www.antimoon.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons), [Voscreen](http://voscreen.com/), [yell0wsuit](https://yell0wsuit.page/english.html), [elllo](https://www.elllo.org/) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - Learn English
+* [Learn English Online](http://www.learn-english-online.org/), [EnglishCentral](https://www.englishcentral.com/), [ESLFast](https://www.eslfast.com/), [TalkEnglish](https://www.talkenglish.com/), [AntiMoon](https://www.antimoon.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons), [Elsaspeak](https://elsaspeak.com/en/), [Voscreen](http://voscreen.com/), [yell0wsuit](https://yell0wsuit.page/english.html), [elllo](https://www.elllo.org/) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - Learn English
 * [Listening Lab](https://www.esl-lab.com/) - English Listening Practice
 * [Ytalki](https://ytalki.com/) - Find Foreign Books Based on Language Level
 * [Podcasts in English](https://www.podcastsinenglish.com/) - English Learning Podcasts
@@ -822,6 +822,7 @@ Simulator
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
 * [LateralPuzzles](http://www.lateralpuzzles.com/) - Lateral Thinking Puzzles
 * [Highbrow](https://gohighbrow.com/) - Daily Lessons
+* [WTF Fun Fact](https://wtffunfact.com/) - Daily Facts
 * [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - The Trolley Problem
 * [GCFGlobal](https://edu.gcfglobal.org/) - Tech Tutorials
 * [CS 182 Deep learning](https://cs182sp21.github.io/) - Deep Neural Network Lesson Slides
