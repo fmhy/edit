@@ -159,7 +159,6 @@
 * [CMovies](https://cmovies.so/) - Movies / TV / Anime
 * [5Movies.pw](https://5movies.pw/) - Movies / TV / Anime
 * [FilarMovies](https://filarmovies.com/) - Movies / TV
-* [Put-Locker](https://ww1.put-locker.com/) - Movies / TV / Anime 
 * [Cinehub](https://cinehub.wtf/) - Movies / TV / [Discord](https://discord.com/invite/ZqHsfSEkBE)
 * [HDFull](https://hdfull.lv/) - Movies / TV / Anime
 * [MovieStars](https://moviestars.to/) or [WinNoise](https://winnoise.com) - Movies / TV / Anime
