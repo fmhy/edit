@@ -300,7 +300,7 @@
 * ⭐ **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)** - List of Interactive Math Sites
 * ⭐ **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - Sites with Multiple Calculators 
 * ⭐ **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
-* ⭐ **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photomath) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/), [Math Solver](https://mathsolver.microsoft.com/en) or [Symbolab](https://www.symbolab.com/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_symbolab_pro) - Math Problem Solvers
+* ⭐ **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photomath) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/), [EverydayCalculation](https://answers.everydaycalculation.com/), [Math Solver](https://mathsolver.microsoft.com/en) or [Symbolab](https://www.symbolab.com/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_symbolab_pro) - Math Problem Solvers
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
 * [TeX](https://www.microsoft.com/en-us/p/flowtex-preview-beta/9nt79075t86l) - Convert Handwritten Math to LaTeX
@@ -746,7 +746,6 @@ Simulator
 * [LitCharts](https://www.litcharts.com/) - Literature Guides
 * [The Punctuation Guide](https://www.thepunctuationguide.com/) - Punctuation Guide
 * [TypeTerms](https://www.supremo.co.uk/typeterms/) - Typography Cheat Sheet
-* [AWAD Challenge](http://awadchallenge.com/) - Learn a New Word Everyday
 * [Zooniverse](https://www.zooniverse.org/) - Crowdsourced Research
 * [Bonsai](https://bonsaibrowser.com/) - Research Web Browser
 * [StringMark](https://www.stringmark.com/) - Save & Mark Research in Browser
@@ -763,6 +762,7 @@ Simulator
 * [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool
 * [BookStack](https://www.bookstackapp.com/) - Self-Hosted Information Manager
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
+* [Course-Notes](https://course-notes.org/) - Course Notes
 * [Wordwall](https://wordwall.net/) - Lesson Creator
 * [ClassroomScreen](https://www.classroomscreen.com/) - Digital Teaching Widgets
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
@@ -823,6 +823,7 @@ Simulator
 * [LateralPuzzles](http://www.lateralpuzzles.com/) - Lateral Thinking Puzzles
 * [Highbrow](https://gohighbrow.com/) - Daily Lessons
 * [WTF Fun Fact](https://wtffunfact.com/) - Daily Facts
+* [AWAD Challenge](http://awadchallenge.com/) or [Word Smith](https://wordsmith.org/) - Learn New Words Daily
 * [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - The Trolley Problem
 * [GCFGlobal](https://edu.gcfglobal.org/) - Tech Tutorials
 * [CS 182 Deep learning](https://cs182sp21.github.io/) - Deep Neural Network Lesson Slides
