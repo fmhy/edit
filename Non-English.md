@@ -40,6 +40,7 @@
 ## ▷ Streaming 
 
 * ⭐ **[FaselHD](https://www.faselhd.club/)** - Movies / TV / Anime
+* ⭐ **[64kLive](https://64k.live/)** - Anime
 * [Cima4U](https://cima4u.cloud/) - Movies / TV / Changes Domains Monthly
 * [cimaclub](https://www.cimaclub.in/) - Movies / TV / Anime
 * [shahed4u](https://shahed4u.mx/) - Movies / TV / Anime
