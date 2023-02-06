@@ -300,7 +300,7 @@
 * ⭐ **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)** - List of Interactive Math Sites
 * ⭐ **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - Sites with Multiple Calculators 
 * ⭐ **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
-* ⭐ **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photomath) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/), [EverydayCalculation](https://answers.everydaycalculation.com/), [Math Solver](https://mathsolver.microsoft.com/en) or [Symbolab](https://www.symbolab.com/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_symbolab_pro) - Math Problem Solvers
+* ⭐ **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photomath) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/), [EverydayCalculation](https://answers.everydaycalculation.com/), [Math Solver](https://mathsolver.microsoft.com/en) or [Symbolab](https://www.symbolab.com/) - Math Problem Solvers
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
 * [QwikTape](https://github.com/4silvertooth/QwikTape) - Note Style Calculator
 * [TeX](https://www.microsoft.com/en-us/p/flowtex-preview-beta/9nt79075t86l) - Convert Handwritten Math to LaTeX
