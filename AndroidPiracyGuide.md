@@ -164,6 +164,7 @@
 * ⭐ **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites / Apps
 * ⭐ **[Termux](https://termux.com/)**, [Andronix](https://andronix.app/) / [Git](https://github.com/AndronixApp) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulator / Linux Environments
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/tareksander/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
+* ⭐ **[Chat GPT](https://play.google.com/store/search?q=chatgpt&c=apps)** - AI Writing Assistant / Chat
 * [Android Debloat Guide](https://rentry.co/debloatandroid), [debloat-android](https://christitus.com/debloat-android/) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/0x192/universal-android-debloater), [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) or [Debloat Samsung Android](https://github.com/khlam/debloat-samsung-android) - Android Debloaters
 * [File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools) - Tools to Share / Sync Files
@@ -583,6 +584,7 @@
 * [HostAPK](https://www.hostapk.com/) - Modded
 * [APK Home](https://apkhome.net/) - Modded
 * [DlAndroid](https://dlandroid.com/) - Modded
+* [Modded PRO](https://modded.pro/) - Modded
 * [TechBigs](https://techbigs.com/) - Modded
 * [AndroidYolo](https://androidyolo.co/) - Modded
 * [APKMody](https://apkmody.io/) - Modded
@@ -797,6 +799,7 @@
 * [NovelLibrary](https://github.com/gmathi/NovelLibrary) - Light Novels / [Discord](https://discord.gg/qFZX4vdEdF)
 * [LNReader](https://github.com/LNReader/lnreader) - Light Novels
 * [Baruch](https://github.com/adreeeyan/baruch) - Light Novels
+* [Ranobe](https://github.com/ranobe-org/ranobe) - Light Novels
 * [IReader](https://github.com/IReaderorg/IReader) - Light Novels
 * [QuickNovel](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.quicknovel) - Light Novels
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - Borrow Digital Library Books
@@ -916,6 +919,7 @@
 * [BeeTV](https://beetvapp.me/) or [NovaTV](https://novatv.app/) - Movies / TV / Anime / Chromecast
 * [VivaTV](https://www.vivatv.io/) or [TeaTV](https://teatv.net/) - Movies / TV / Anime / Chromecast
 * [Bouncy](https://github.com/WeeklyProblem/Bouncy) - Movies / TV / Anime / Chromecast
+* [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) - Movies / TV / Anime
 * [IsraTV](https://isratv.netlify.app/) - Movies / TV / Live TV
 * [MediaBox HD](https://mediaboxhd.net/) - Movies / TV / Chromecast
 * [Modded Hotstar](https://apkmody.io/apps/hotstar) - Movies / TV
