@@ -310,7 +310,8 @@
 * [Watch-TvSeries](https://www1.watch-tvseries.net/) - TV
 * [MyWatchSeries](https://www5.mywatchseries.stream/) - TV / Anime 
 * [Adult Swim](https://www.adultswim.com/videos/) - Full Adult Swim Episodes
-* [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - Bay Area TV Archive  
+* [Homestar Runner](https://homestarrunner.com/) - Web-Series / Games
+* [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - Bay Area TV Archive 
 * [Ninja Warrior](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ninja_warrior) - Sasuke Episodes
 * [MyRM](https://myrunningman.com/) - My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)
 * [No-Laughing Batsu Game List](https://redd.it/2fgm9p) 
@@ -1078,6 +1079,7 @@
 * [Firestick Tricks](https://www.firesticktricks.com/) - Firestick Jailbreak Guide / [Loader](https://github.com/esc0rtd3w/firestick-loader)
 * [Android TV Mod](https://t.me/androidtvmod) - Android TV / Fire TV / Fire Stick / Mods / Telegram
 * [FLauncher](https://play.google.com/store/apps/details?id=me.efesser.flauncher) - Android TV Launcher / [GitLab](https://gitlab.com/etienn01/flauncher)
+* [Go2TV](https://github.com/alexballas/go2tv) - Cast to UPnP/DLNA Renderers / Smart TVs
 * [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) or [AllCast](https://play.google.com/store/apps/details?id=com.koushikdutta.cast) - Send Files to Android TV
 * [Apps2Fire](https://play.google.com/store/apps/details?id=mobi.koni.appstofiretv) - Upload Apps to FireTV
 * [RootMyTV](https://github.com/RootMyTV/RootMyTV.github.io) - LG WebOS TV Root
