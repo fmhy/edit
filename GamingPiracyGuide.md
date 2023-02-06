@@ -283,6 +283,7 @@
 
 ## ▷ Browser Emulators
 
+* ⭐ **[Browser Emulator Index](https://emulation.gametechwiki.com/index.php/Emulators_on_browsers)** - List of Browser Emulators
 * ⭐ **[My Abandonware](https://www.myabandonware.com/)**
 * ⭐ **[RetroGames](https://www.retrogames.cz/)**
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)**
@@ -298,6 +299,7 @@
 * [ClassicGames](https://www.classicgames.me/)
 * [Emulator.Games](https://emulator.games/)
 * [GamulatoR](https://www.gamulator.com/ROMs)
+* [AfterPlay](https://afterplay.io/)
 * [Aurora](https://skitty.xyz/aurora/)
 * [Emulator.online](http://emulator.online/)
 * [Online.OldGames](https://online.oldgames.sk/)
