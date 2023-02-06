@@ -365,7 +365,7 @@
 * [UpJoke](https://upjoke.com/) - Jokes for Any Topic
 * [DadJokeCLI](https://github.com/Anupya/dadjoke-cli) - Get Dad Jokes in Command Line
 * [Magic Crystal Ball](https://www.oproot.com/ball/) - Get Messages from Beyond
-* [70's TV Simulator](https://www.my70stv.com/), [80's](https://www.my80stv.com/), [90's](https://www.my90stv.com/) or [00's TV Simulator](https://www.my00stv.com/)
+* [60's TV Simulator](https://www.my60stv.com), [70's](https://www.my70stv.com/), [80's](https://www.my80stv.com/), [90's](https://www.my90stv.com/), [00's](https://www.my00stv.com/)
 * [Neave.tv](https://neave.tv/) - TV without context
 * [The Office Stare Machine](http://theofficestaremachine.com/) - The Office Video Emotions 
 * [Endless Summer Times](https://times.endlessvmmer.com/) - Retro Summer Vibe News Archive
