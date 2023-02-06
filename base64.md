@@ -1031,12 +1031,6 @@ pass: paluch
 
 *** 
 
-####  Symbolab Pro
-
-`aHR0cHM6Ly9wYXN0ZWJpbi5jb20vd0EzUVFrQ2o=`
-
-*** 
-
 #### Languages & Linguistics
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9rUUJYSEt3QSMtb3NXUkxOQ1hBc2Q2MmxuOHdLYTh3`
