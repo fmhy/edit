@@ -233,8 +233,8 @@
 * [mgnet](http://mgnet.me/) or [MagLit](https://maglit.me/) - Magnet Link Shortener
 * [RSSFeedz](https://t.me/rssfeedz) - Torrent RSS Feed
 * [OpenWebTorrent](https://openwebtorrent.com/) - Free Webtorrent Tracker
-* [AutoDL-Irssi](https://autodl-community.github.io/autodl-irssi/) - IRC Channel Monitor / Autodownload / [Slack Notifications](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b) 
-* [PrivTracker](https://privtracker.tk/) - Private BitTorrent Tracker Generator / [GitHub](https://github.com/meehow/privtracker) 
+* [AutoDL-Irssi](https://autodl-community.github.io/autodl-irssi/) - IRC Channel Monitor / Autodownload / [Slack Notifications](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b)
+* [PrivTracker](https://privtracker.com/) - Private BitTorrent Tracker Generator / [GitHub](https://github.com/meehow/privtracker) 
 * [AnonSeed](https://www.anonseed.com/) - Anonymous Torrent Sharing 
 * [Torrent-Creator](https://github.com/Kimbatt/torrent-creator) - Browser Torrent Creator
 * [Torrent Editor](http://torrenteditor.com/) or [Torrent Parts](https://torrent.parts/) - Edit Torrents Files
