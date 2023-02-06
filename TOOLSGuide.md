@@ -239,7 +239,7 @@
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursive Search Tool
 * [Textify](https://ramensoftware.com/textify) - Copy Text from Any Dialog
 * [Unicode Font Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_unicode_font_generators) - Generate Typed Text Fonts
-* [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/), [Snskey](https://snskeyboard.com/), [Unilist](https://unilist.raphaelbastide.com/), [Alt Codes](https://alt-codes.net/) or [Cool Symbol](https://coolsymbol.com/) - Copy & Paste Unicode Characters
+* [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/), [Snskey](https://snskeyboard.com/), [Unilist](https://unilist.raphaelbastide.com/), [Character Map](https://github.com/character-map-uwp/Character-Map-UWP), [Alt Codes](https://alt-codes.net/) or [Cool Symbol](https://coolsymbol.com/) - Copy & Paste Unicode Characters
 * [BlankText](https://blanktext.net/) - Copy / Paste Blank Spaces 
 * [Donger List](http://dongerlist.com/) or [FastEmoji](https://www.fastemoji.com/) - 600+ Unicode Emojis
 * [Japanese emoji copy and paste](https://japaneseemojicopyandpaste.com/) - Lenny Face / Japanese Emoticons
@@ -374,7 +374,7 @@
 * [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
 * [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/), [Rive](https://rive.app/) or [Toonator](https://toonator.com) - Online Animation Tools
 * [LibreSprite](https://libresprite.github.io/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
-* [Mixamo](https://www.mixamo.com/) - 3D Character Animation Tool
+* [Mixamo](https://www.mixamo.com/) or [Cascadeur](https://cascadeur.com/) - 3D Character Animation Tools
 * [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) - 3D Human Model Creator
 * [Vinci](https://vinci.surreal-ai.com/home/free-talking-avatar) - Create Talking AI
 * [Video Ascii Art](http://www.kickjs.org/example/video_ascii_art/Video_Ascii_Art.html) - Video to Ascii Art
@@ -386,7 +386,7 @@
 * [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/) - MKVExtract GUI 
 * [MKV-Optimizer](https://www.videohelp.com/software/MKV-Optimizer) - Remove Audio Tracks from MKV Files 
 * [MakeMKV](https://www.makemkv.com/) - Create MKV From Blu-Ray / DVD 
-* [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [DeepBurner](http://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
+* [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](http://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
 * [VidCoder](https://vidcoder.net/) or [DVDDecrypter](http://dvddecrypter.org.uk/) - DVD / Blu-Ray Ripping
 * [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-Ray Ripping
 * [DVDFab](https://www.dvdfab.cn/free.htm) - Free DVD Related Programs 
@@ -416,7 +416,7 @@
 * [VideoMail](https://www.videomail.io/) - Webcam to Email Tool
 * [VCam](https://www.xsplit.com/vcam) - Remove Webcam Background
 * [DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Webcam Face Swap Tool
-* [NVIDIA BROADCAST](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) or [Webcamoid](https://webcamoid.github.io/) - Webcam Manager
+* [NVIDIA BROADCAST](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/), [Mini Video Me](https://github.com/maykbrito/mini-video-me) or [Webcamoid](https://webcamoid.github.io/) - Webcam Manager
 * [SimSwap](https://github.com/neuralchen/SimSwap) - Video Face Swap Tool
 * [DeepFaceLab](https://github.com/iperov/DeepFaceLab) or [Thin-Plate Spline](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - Deepfake Video Creators
 * [deepware](https://scanner.deepware.ai/) - Detect Deepfake Videos
@@ -680,13 +680,13 @@
 * [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Design Job Subreddit
 * [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - Career Guidance Subreddit
 * [ReallyConfused](https://reallyconfused.co/) or [WTF should I do with my life?](https://www.wtfshouldidowithmylife.com/) - Career Roadmaps
-* [The Dots](https://the-dots.com/events/search) - Online Workshops, Courses & Meetups
+* [The Dots](https://the-dots.com/events/search) - Online Workshops, Courses and Meetups
 * [Levels.fyi](https://www.levels.fyi/) - Tech Career Salaries
 * [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide 
 * [TryHackMe](https://tryhackme.com/), [AWS Training](https://www.aws.training/), [Comptia](https://www.comptia.org/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html), [UI.com](https://www.ui.com/training/), [CryptoHack](https://cryptohack.org/) - IT Training & Courses
 * [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - IT Certification Courses
 * [Marketing / Business Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_marketing_courses)
-* [Traders Video Library - Telegram](https://t.me/+SrWg6eTupAdnoXgY) - Trading Courses
+* [Traders Video Library](https://t.me/+SrWg6eTupAdnoXgY) - Trading Courses / [Mirror](https://t.me/TradersVideo_Library)
 * [Data.gov Resources](https://resources.data.gov/) - Data Management Tools & Training
 * [NIST](https://www.nist.gov/nice/apprenticeship-finder) - NICE Apprenticeship Program Finder
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - Cloud Career Training
@@ -1677,6 +1677,7 @@ Twitch Stream Tracker
 * ⭐ **[4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_4chan_archives)** - Browse / Search 4Chan Archives
 * ⭐ **[4chan X](https://www.4chan-x.net/)** / [Themes](https://github.com/KevinParnell/OneeChan), [SpookyX](https://github.com/Fiddlekins/SpookyX) or [Dollchan](https://dollchan.net/) - Adds Features to Imageboards
 * [Lurka](https://github.com/AdamSalma/Lurka) - 4chan Desktop Client
+* [RedditChan](https://reddit-chan.vercel.app/) - Reddit Style 4chan Browser
 * [ChanThreadWatch](https://github.com/SuperGouge/ChanThreadWatch) - Imageboard Thread Watcher
 * [4stats](https://4stats.io/) - 4chan Board / Thread Stats
 * [4chan Mass Reply](https://github.com/HamletDuFromage/4chan-mass-reply) - Mass Reply on 4chan
@@ -1685,7 +1686,7 @@ Twitch Stream Tracker
 * [Tripgen](https://orph.link/tripgen) - Imageboard Trip Code Generator 
 * [FlagHunter](https://gitlab.com/flagtism/flaghunter) - Find Rare Imageboard Flags
 * [Extra Flags for 4chan](https://gitlab.com/flagtism/Extra-Flags-for-4chan) or [Bant Flags](https://github.com/bantflags/bantflags) - Add More Flags to 4chan
-* [ss21](https://github.com/saxamaphone69/ss21) o[4cheddit](https://greasyfork.org/en/scripts/16672) - 4chan Themes
+* [ss21](https://github.com/saxamaphone69/ss21) or [4cheddit](https://greasyfork.org/en/scripts/16672) - 4chan Themes
 
 ***
 
@@ -1797,7 +1798,7 @@ Twitch Stream Tracker
 * [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-P) - Easy GPU Paravirtualization
 * [Gptgen](https://github.com/xorangekiller/gptgen) - MBR Partition Table to GPT Converter
 * [WinCDEmu](https://wincdemu.sysprogs.org/) - CD/DVD/BD Emulator
-* [PC Manger](https://pcmanager-en.microsoft.com/) - Disk Manager / Cleanup
+* [PC Manger](https://pcmanager-en.microsoft.com/) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Manager / Cleanup
 * [SpeedyFox](https://crystalidea.com/speedyfox) - Optimize Program Performance
 * [CCStopper](https://github.com/E-Soda/CCStopper) - Stop Background Adobe Apps
 * [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Debloat Adobe Apps
@@ -1892,6 +1893,7 @@ Twitch Stream Tracker
 * [KeyViz](https://github.com/mulaRahul/keyviz) - Keystroke Visualizer
 * [Closemul](https://www.lustark.com/closemul) - Multi-Purpose Program Frontend
 * [rofi](https://github.com/davatorium/rofi) - Window Switcher & App Launcher
+* [Control UWP](https://github.com/builtbybel/control-uwp) - Simplified Control Panel
 * [Clipboard Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_clipboard_managers) - Manage Copied Text
 * [clip](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/clip) - Redirects Command Output from Command Line to Clipboard
 * [QRClip](https://github.com/Louise-h-aa/qrclip) - Transfer Clipboard Text to Phone
@@ -1970,7 +1972,7 @@ Twitch Stream Tracker
 * [Update Notifier](http://cleansofts.org/view/update-notifier.html) - Scan Computer for Software Updates 
 * [Nemesis](https://forums.guru3d.com/threads/3rd-party-driver-amernime-zone-radeon-release-nemesis-22-6-1-whql-driverpack.436611/) - Custom Drivers for Discontinued GPUs
 * [SnappyDrivers](https://www.snappy-driver-installer.org/) - Update / Install Missing Drivers 
-* [Drivers Collection](https://driverscollection.com/) - Device Drivers / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [Drivers Collection](https://driverscollection.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Device Drivers / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Display Driver Removal Tool / [GitHub](https://github.com/Wagnard/display-drivers-uninstaller)
 * [NotMyFault](https://docs.microsoft.com/en-us/sysinternals/downloads/notmyfault) - Driver & Hardware Problem Identification Tool
 * [Scoop](https://scoop.sh/) - Command-Line Installer / [GitHub](https://github.com/ScoopInstaller/Scoop)
@@ -2168,7 +2170,6 @@ Twitch Stream Tracker
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - DataHoarding Tools Index
 * [FileInfo](https://fileinfo.com/), [File-Extensions.info](https://file-extensions.info/) or [File-Extensions](https://www.file-extensions.org/) - File Extension Library
 * [download](https://github.com/kevva/download) - File Download Tool / Extractor / [CLI](https://github.com/kevva/download-cli)
-* [XBackBone](https://xbackbone.app/) - File Manager / [GitHub](https://github.com/SergiX44/XBackBone)
 * [DropIt](http://www.dropitproject.com/) or [Organize](https://github.com/tfeldmann/organize) - Automated File Manager
 * [What](https://github.com/bee-san/pyWhat) - Text & File Analyzer
 * [WhoLeaked](https://github.com/utkusen/wholeaked) - File Leak Tracker
@@ -2265,9 +2266,6 @@ Twitch Stream Tracker
 * [Awesome-IPFS](https://github.com/ipfs/awesome-ipfs) - IPFS Resource Index
 * [IPFS Desktop](https://github.com/ipfs/ipfs-desktop) or [Orion](https://orion.qm64.tech/) - IPFS Desktop Client
 * [IPFS Cluster](https://cluster.ipfs.io/) - Automated data availability and redundancy on IPFS
-* [AutoRclone](https://github.com/Rekulous/AutoRClone-Colab), [2](https://colab.research.google.com/github/Rekulous/AutoRClone-Colab/blob/main/AutoRClone.ipynb) - Create Google Service Accounts for RClone / [GitHub](https://github.com/xyou365/AutoRclone)
-* [RcloneBrowser-Portable](https://github.com/MinorMole/RcloneBrowser-Portable) - Portable Rclone Browser
-* [EasyClone](https://github.com/xd003/easyclone) - Improved RClone Operations Script
 * [WinFsp](https://winfsp.dev/) - Windows File System Proxy
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - HTTP File System
 * [mergerfs](https://github.com/trapexit/mergerfs) - Union Filesystem
@@ -2286,6 +2284,7 @@ Twitch Stream Tracker
 * [TMSU](https://github.com/oniony/TMSU), [Tagging for Windows](https://tagging.connectpaste.com/) or [SuperTag](https://github.com/amoffat/supertag) - Tag-Based Filesystem 
 * [Bulk File Renamers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bulk_file_renamers) - Easily Rename Multiple Files
 * [Media Data Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_file_data_automation) - Find Media File Data Automatically
+* [mediarepo](https://mediarepo.trivernis.dev/) - Media File Manager
 * [Filext](https://filext.com/) - Online File Viewer
 * [File Juggler](https://www.filejuggler.com/) - Organize Files Automatically
 * [Phockup](https://github.com/ivandokov/phockup) - Organize Photo / Video Files by Date 
