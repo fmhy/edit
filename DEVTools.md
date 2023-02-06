@@ -73,9 +73,9 @@
 * [Google Cloud Developer's Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/) - Google Cloud Developer Cheat Sheet / [GitHub](https://github.com/priyankavergadia/google-cloud-4-words)
 * [Vim Cheatsheet](https://i.imgur.com/2RsZq6p.png) - Vim Code Editor Cheat Sheet
 * [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app) - React Typescript Cheatsheet
-* [Tackling TS](https://exploringjs.com/tackling-ts/toc.html) - Typescript Guide
+* [Tackling TS](https://exploringjs.com/tackling-ts/toc.html) or [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
 * [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming / Coding Learning Resources
-* [Exercism](https://exercism.org/) - Programming Lessons
+* [Exercism](https://exercism.org/) or [CS Circles](https://cscircles.cemc.uwaterloo.ca/) - Programming Lessons
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - Programming Courses
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - Programming Courses
 * [FreeCourses](https://freecourses.github.io/) - Programming Courses
@@ -121,6 +121,7 @@
 * [CSS Battle](https://cssbattle.dev/) - CSS Practice / Battles
 * [DefensiveCSS](https://defensivecss.dev/) - CSS Tips
 * [FlexBoxFroggy](https://flexboxfroggy.com/) - CSS Learning Game
+* [Flexbox Froggy](https://codepip.com/games/flexbox-froggy/) - CSS Flexbox Learning Game
 * [Grid Garden](https://cssgridgarden.com/) - CSS Grid Learning Game
 * [LearnCSSGrid](http://learncssgrid.com/) - CSS Grid Guide
 * [CSS Speedrun](https://css-speedrun.netlify.app/) - Test Your CSS Skills
@@ -240,6 +241,7 @@
 * [daily.dev](https://daily.dev/) - Replace New Tab Page with Developer Articles
 * [Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites) - Download Icons for Projects
 * [Favicon Maker](https://formito.com/tools/favicon), [Favicon Generator](https://www.favicon-generator.org/) or [react favicon](https://react-favicon.com/) - Create Favicons
+* [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - 
 * [Laws of UX](https://lawsofux.com/) - Maxims / Principles for UI Designers
 * [Dark Patterns](https://www.darkpatterns.org/) - Deceptive User Experience Examples
 * [UI Coach](https://uicoach.io/) - UI Design Challenge Generator
@@ -1105,6 +1107,8 @@
 * [awesome-kotlin](https://kotlin.link/) - Kotlin Resource Index / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
 * [Go Recipes](https://github.com/nikolaydubina/go-recipes) - Go Project Tools
 * [lo](https://github.com/samber/lo) - Go Library
+* [Awesome Python](https://github.com/vinta/awesome-python) - Python Resource Index
+* [py-modindex](https://docs.python.org/3/py-modindex.html) - Python Modules List / Tutorials
 * [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Visual Studio Code Python Language Extension / [Performant Language](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
 * [Python Mini Projects](https://github.com/Python-World/python-mini-projects) - Python Scripts
 * [Pysnake Blog](https://pysnakeblog.blogspot.com/) - Python Projects
@@ -1113,6 +1117,7 @@
 * [pointers.py](https://github.com/ZeroIntensity/pointers.py) - Python Pointers
 * [Pyright](https://github.com/microsoft/pyright) or [mypy](https://github.com/python/mypy) - Python Static Type Checker
 * [PyRegex](http://www.pyregex.com/) - Python Regex Test
+* [Clean Code Python](https://github.com/zedr/clean-code-python) - Clean Code for Python
 * [JSPyBride](https://github.com/extremeheat/JSPyBridge) - Interoperate Node.js and Python
 * [adb_shell](https://github.com/JeffLIrion/adb_shell) - Python ADB + Fastboot Implementation
 * [pipx](https://pypa.github.io/pipx/) - Execute Python Binaries in Isolated Environments
@@ -1123,9 +1128,9 @@
 * [AutoCode](https://autocode.com/) - Instant Endpoints
 * [typejuice](https://github.com/galvez/typejuice) - Documentation Generator for TypeScript Declaration Files
 * [Boxed](https://github.com/swan-io/boxed) - TypeScript Utility Types / Functions
-* [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guide
+* [Clean Code TypeScripts](https://github.com/labs42io/clean-code-typescript) - Clean Code for TypeScript
 * [Trunk](https://trunk.io/) - Run Linters/Formatters/Checkers Simultaneously
-* [Mega Linter](https://github.com/nvuillam/mega-linter), [TCA](https://github.com/Tencent/CodeAnalysis) or [SonarCloud](https://sonarcloud.io/) - Code Analyzer 
+* [Mega Linter](https://github.com/nvuillam/mega-linter), [TCA](https://github.com/Tencent/CodeAnalysis) or [SonarCloud](https://sonarcloud.io/) - Code Analyzer
 * [tabnine](https://www.tabnine.com/), [CodeWhisperer](https://aws.amazon.com/codewhisperer/) or [Copilot](https://copilot.github.com/) / [Docs](https://github.com/github/copilot-docs) - AI Assisted Code Completion / Suggestions
 * [FauxPilot](https://github.com/moyix/fauxpilot) - Self-Hosted Copilot Server
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Check for Edge Case Inputs
@@ -1165,6 +1170,7 @@
 * [Recaf](https://www.coley.software/Recaf/) - Java Bytecode Editor
 * [Rescript](https://rescript-lang.org/) - Javascript Editor / Language
 * [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - Javascript Resources
+* [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code for Javascript
 * [Vanilla List](https://vanillalist.top/) - Vanilla Javascript Repository
 * [Danfo.js](https://github.com/javascriptdata/danfojs) - Javascript Library
 * [RunKit](https://runkit.com/) - Browser Javascript Sandbox
@@ -1184,8 +1190,6 @@
 * [Adoptium](https://adoptium.net/) - Download OpenJDK Binaries
 * [trzsz](https://github.com/trzsz/trzsz.js) - Make trzsz Compatible with tmux in Terminal
 * [Bundlephobia](https://bundlephobia.com/) - Find Cost of Adding npm Package
-* [Awesome Python](https://github.com/vinta/awesome-python) - Python Resource Index
-* [py-modindex](https://docs.python.org/3/py-modindex.html) - Python Modules List / Tutorials
 * [JSON Formatter](https://jsonformatter.curiousconcept.com/) or [json-formatter](https://github.com/callumlocke/json-formatter) - JSON Formatter 
 * [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) or [JSONView](https://jsonview.com/) - JSON Viewer & Editor
 * [JMESPath](https://jmespath.org/) - Query Language for JSON / [Tutorial](https://jmespath.org/tutorial.html)
@@ -1210,8 +1214,9 @@
 * [Awesome PHP](https://github.com/ziadoz/awesome-php) - PHP Resources
 * [PHP Decoder](http://ddecode.com/phpdecoder/) or [UnPHP](https://www.unphp.net/) - PHP Decoder
 * [PHP Beautifier](http://phpbeautifier.com/) - PHP Formatter
+* [Clean Code PHP](https://github.com/jupeter/clean-code-php) - Clean Code for PHP
 * [Valinor](https://github.com/CuyZ/Valinor) - PHP Object Mapper
-* [Spatie](https://github.com/spatie/fork) or [3v4l](https://3v4l.org) - Run PHP Concurrently 
+* [Spatie](https://github.com/spatie/fork) or [3v4l](https://3v4l.org) - Run PHP Concurrently
 * [Winddown](https://github.com/schneefux/vscode-winddown) or [Sandman](https://alexanderepstein.github.io/Sandman/) - Coding Break Reminders
 * [ThemesElection](https://themeselection.com/) - Programming UI Themes
 * [Dev Fonts](https://devfonts.gafi.dev/) - Coding Fonts
