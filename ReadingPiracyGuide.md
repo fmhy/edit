@@ -1305,3 +1305,4 @@
 * [RemoveWatermark](https://github.com/ShadonSniper/RemoveWatermark) - IT Ebook Watermark Remover
 * [DeDRM_tools](https://github.com/noDRM/DeDRM_tools) / [2](https://github.com/apprenticeharper/DeDRM_tools) or [Remove Ebook DRM](https://apprenticealf.wordpress.com/) - Ebook DRM Removal Tools / [Guide](https://pastebin.com/KwTBSjrK)
 * [DIY Book Scanner](https://diybookscanner.org/) - How-to Scan Books / [Example](https://i.imgur.com/MgEwWVu.png)
+* [The Submission Grinder](https://thegrinder.diabolicalplots.com/) - Find a Publisher
