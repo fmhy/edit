@@ -119,7 +119,7 @@
 * [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - Icon Generators
 * [Logo Makr](https://logomakr.com/), [Hatchful](http://hatchful.shopify.com/), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](http://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/), [OnlineLogoMaker](https://www.onlinelogomaker.com/), [Free Logo Maker](https://freelogomaker.net/) or [ACME](https://acme.com/labelmaker/) - Logo Creators / [Note](https://i.imgur.com/gXHFqff.png)
 * [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
-* [ArtFlow](http://artflow.ai/), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [react-nice-avatar](https://github.com/chilllab/react-nice-avatar) or [Avataaars](https://getavataaars.com/) - Face / Avatar Creators
+* [ArtFlow](http://artflow.ai/), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [Personas](https://personas.draftbit.com/), [react-nice-avatar](https://github.com/chilllab/react-nice-avatar) or [Avataaars](https://getavataaars.com/) - Face / Avatar Creators
 * [CharacterCreator](https://charactercreator.org/)- Character Generator
 * [PixelMe](https://xsgames.co/pixelme/) - 8bit Avatar Creator
 * [Random-Face-Generator](https://github.com/adityar224/Random-Face-Generator) - Face Generator
@@ -254,8 +254,9 @@
 * ⭐ **[PuccaNoodles’ Resource Sheet](https://docs.google.com/spreadsheets/d/1-8OKuEvRR038Uno--Vi9tQRe4eFCSfQTPov7nXgiJ3w/)** - Painting / Drawing Resources
 * [SmoothDraw](http://www.smoothdraw.com/), [Sumopaint](https://www.sumopaint.com/), [Krita](https://krita.org/en/) / [Stable Diffusion](https://github.com/sddebz/stable-diffusion-krita-plugin), [MyPaint](http://mypaint.org/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [Tux Paint](https://tuxpaint.org/), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/), [Paintroid](https://github.com/Catrobat/Paintroid), [ProsePainter](https://www.prosepainter.com/), [SpeedPaint](https://www.speedpaint.info/), [YouiDraw](https://site.youidraw.com/), [LazPaint](https://github.com/bgrabitmap/lazpaint/) or [MediBang](https://medibangpaint.com/en/) - Painting
 * [bomomo](https://bomomo.com/) - Multi-Brush Painting
+* [Milton](https://www.miltonpaint.com/) - Infinite Canvas Painting
 * [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art
-* [Aggie.io](https://aggie.io/), [Magma](https://magmastudio.io/) or [malmal](https://malmal.io/) - Draw with Friends or Strangers 
+* [Aggie.io](https://aggie.io/), [Magma](https://magmastudio.io/), [DrawPile](https://drawpile.net/), [WBO](https://wbo.ophir.dev/) or [malmal](https://malmal.io/) - Draw with Friends or Strangers 
 * [World Draw](https://world-draw.appspot.com/draw) - Draw the World Together
 * [pixels.land](https://pixels.land/), [EveryoneDraw](https://everyonedraw.com/) or [World of Pixels](https://ourworldofpixels.com/) - Infinite Online Pixel Art
 * [Monsterland](https://www.monsterland.net/) - Collaborative Monster Drawing
@@ -395,6 +396,7 @@
 * [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Booru Image Downloader / [Viewer](https://github.com/loadletter/grabber-viewer) 
 * [Flicker-Download](https://github.com/beaufour/flickr-download) - Flickr Scraper 
 * [iPack Builder](https://www.deviantart.com/mr-blade/art/iPack-Builder-v2-2-Tool-for-icon-customization-473088895), [2](https://mrbladedesigns.com/ipack-builder/) - Create Icon Pack Installers
+* [Block Posters](https://www.blockposters.com/) - Create Printable Posters
 * [IndieKids](https://www.indiekids.io/) - Printable Coloring Pages
 
 ***
@@ -481,11 +483,13 @@
 * [DeepSort](https://github.com/CorentinB/DeepSort/) or [WiseTagger](https://github.com/0xb8/WiseTagger) - Image Tagger 
 * [Cluttr](https://gitlab.com/bearjaws/cluttr) - Automatically Organize & Tag Photos
 * [Canon Camera Museum](https://global.canon/en/c-museum/camera-series.html) - History of Canon Cameras
+* [Draw Mix Paint](https://www.drawmixpaint.com/) - Painting Lessons
 * [Painting Demos](https://paintingdemos.com/) - Painting Demonstrations
 * [3DVKARTS](https://3dvkarts.net/) or [Line of Action](https://line-of-action.com/) - Drawing Tutorials
 * [anidraw](https://www.anidraw.net/?m=1) - Anime Drawing Tutorials
 * [TryDraw](https://www.trydraw.com/) - Improve Drawing Skills
-* [3D printed mirror array](https://github.com/bencbartlett/3D-printed-mirror-array) - Sunlight Pattern Mirror Array
+* [Something to Draw](https://something-to-draw.com/) - Find Thing to Draw
+* [3D Printed Mirror Array](https://github.com/bencbartlett/3D-printed-mirror-array) - Sunlight Pattern Mirror Array
 
 ***
 
@@ -510,7 +514,7 @@
 ## ▷ Screenshot Tools
 
 * ⭐ **[ShareX](https://getsharex.com/)** 
-* ⭐ **ShareX Tools** - [Free Host](https://upload.systems/en-US), [2](https://encrypting.host/), [3](https://sxcu.net/), [4](https://www.sharexhosting.com/) / [Self-Host](https://github.com/tycrek/ass), [SXIE Archive](https://mega.nz/folder/1goUgJBZ#XaqM3dm5nY40luhtoxyzWg) / [Android Upload](https://github.com/tsudoko/xshare)
+* ⭐ **ShareX Tools** - [Free Host](https://upload.systems/en-US), [2](https://encrypting.host/), [3](https://sxcu.net/), [4](https://www.sharexhosting.com/) / [Self-Host](https://github.com/tycrek/ass), [SXIE Archive](https://mega.nz/folder/1goUgJBZ#XaqM3dm5nY40luhtoxyzWg) / [Android Upload](https://github.com/tsudoko/xshare) / [File Manager](https://xbackbone.app/)
 * [Flameshot](https://flameshot.org/)
 * Flameshot Tools - [GitHub](https://github.com/flameshot-org/flameshot) / [Imgur Upload](https://slproweb.com/products/Win32OpenSSL.html)
 * [Greenshot](https://getgreenshot.org/)
