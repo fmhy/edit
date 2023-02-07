@@ -2502,7 +2502,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Skip Redirect 
 
-* ⭐ **[FastForward](https://fastforward.team/)** / [Discord](https://discord.gg/RSAf7b5njt)
+* ⭐ **[FastForward](https://fastforward.team/)** / [Discord](https://discord.gg/RSAf7b5njt) / [Custom Bypass](https://github.com/FastForwardTeam/FastForward/wiki/Adding-the-Linkvertise-Custom-Bypass)
 * ⭐ **[Link Bypasser](https://github.com/TheCaduceus/Link-Bypasser)** / [TG Bot](https://drlinkbot.t.me/) / [2](https://github.com/TheCaduceus/Link-Bypasser-Bot) 
 * ⭐ **[bypass.vip](https://bypass.vip/)**
 
