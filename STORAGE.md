@@ -2549,12 +2549,13 @@ Add the following commands to a search to manually scrape each site.
 **Legit Downloaders**
 
 * ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** / [Discord](https://discord.gg/gjqrP5PB8g)
+* ⭐ **[DoubleDouble](https://doubledouble.top/)**
 
 [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot), [CLSpotify](https://agent255.github.io/clspotifyweb/) / [GitHub](https://github.com/agent255/clspotify), [spotify_sync](https://github.com/jbh-cloud/spotify_sync), [OnTheSpot](https://github.com/casualsnek/onthespot), [Zotify](https://zotify.xyz/zotify/zotify), [Deezer Method](https://i.imgur.com/cszNECK.png)
 
 **Spotify YouTube Downloaders** 
 
-[Spotify Downloaders](https://github.com/topics/spotify-downloader), [Savify](https://github.com/LaurenceRawlings/savify), [Spotify-DL](https://github.com/SathyaBhat/spotify-dl), [spotDL](https://github.com/spotDL/spotify-downloader), [Syncify](https://github.com/FindMalek/Syncify) (Playlists), [FreyrJS](https://github.com/miraclx/freyr-js), [AllToMP3](https://alltomp3.org/), [Spotifast](https://github.com/seroteunine/Spotifast), [Spotify Downloader](https://spotify-downloader.com/), [spotify-downloader](https://github.com/rickyrorton/spotify-downloader), [SPOTYdl](https://github.com/GabiBrawl/SPOTYdl), [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer), [SPDownloader](https://github.com/rickystar04/SPDownloader) (Playlists), [DoubleDouble](https://doubledouble.top/)
+[Spotify Downloaders](https://github.com/topics/spotify-downloader), [Savify](https://github.com/LaurenceRawlings/savify), [Spotify-DL](https://github.com/SathyaBhat/spotify-dl), [spotDL](https://github.com/spotDL/spotify-downloader), [Syncify](https://github.com/FindMalek/Syncify) (Playlists), [FreyrJS](https://github.com/miraclx/freyr-js), [AllToMP3](https://alltomp3.org/), [Spotifast](https://github.com/seroteunine/Spotifast), [Spotify Downloader](https://spotify-downloader.com/), [spotify-downloader](https://github.com/rickyrorton/spotify-downloader), [SPOTYdl](https://github.com/GabiBrawl/SPOTYdl), [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer), [SPDownloader](https://github.com/rickystar04/SPDownloader) (Playlists)
 
 **Telegram Bots**
 
@@ -3320,6 +3321,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 * [Quick Access Popup](https://www.quickaccesspopup.com/)
 * [Xplorer](https://github.com/kimlimjustin/xplorer)
 * [One Commander](https://www.onecommander.com/)
+* [FileExplorer](https://github.com/omeryanar/FileExplorer)
 * [Free Commander](https://freecommander.com/)
 * [Explorer++](https://explorerplusplus.com/)
 * [FluentSearch](https://fluentsearch.net/)
