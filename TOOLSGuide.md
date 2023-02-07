@@ -829,6 +829,7 @@
 * [BlueBubbles](https://bluebubbles.app/) - iMessage Client
 * [Slink](https://slink.chat/) - Aim Inspired Chat Client
 * [ARP Chat](https://github.com/kognise/arpchat) - ARP Chat Client
+* [Atlus](https://github.com/amanharwara/altus) - Whatsapp Client
 * [Rocket Chat](https://rocket.chat/) - Self-Hosted Chat Client
 * [Delta Chat](https://delta.chat/en/) - Email Based Messenger 
 * [PingMe](https://github.com/kha7iq/pingme) - Multi-App Notifications
@@ -1241,7 +1242,6 @@
 * [discord-PWA](https://github.com/NeverDecaf/discord-PWA) - Discord PWA Client
 * [Discord Tauri](https://github.com/DiscordTauri/discord-tauri) - Lightweight Discord Wrapper
 * [weechat-discord](https://github.com/terminal-discord/weechat-discord) - WeeChat Discord Plugin
-* [Atlus](https://github.com/amanharwara/altus) - Whatsapp Client
 * [litecord](https://gitlab.com/litecord/litecord) - Reimplementation of Discord's Backend / [Clients](https://gitlab.com/litecord/litecord/-/blob/master/docs/clients.md)
 * [Discord-Sandbox](https://github.com/khlam/discord-sandboxed) - Sandbox Discord Client
 * [Overlayed](https://overlayed.dev/) - Alternate Discord Overlay / [Github](https://github.com/Hacksore/overlayed)
