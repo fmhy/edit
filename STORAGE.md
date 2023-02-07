@@ -2548,8 +2548,8 @@ Add the following commands to a search to manually scrape each site.
 
 **Legit Downloaders**
 
-* ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** / [Discord](https://discord.gg/gjqrP5PB8g)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)**
+* ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** / [Discord](https://discord.gg/gjqrP5PB8g)
 
 [DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot), [CLSpotify](https://agent255.github.io/clspotifyweb/) / [GitHub](https://github.com/agent255/clspotify), [spotify_sync](https://github.com/jbh-cloud/spotify_sync), [OnTheSpot](https://github.com/casualsnek/onthespot), [Zotify](https://zotify.xyz/zotify/zotify), [Deezer Method](https://i.imgur.com/cszNECK.png)
 
