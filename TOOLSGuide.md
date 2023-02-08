@@ -103,6 +103,7 @@
 * [ThistoThat](http://www.thistothat.com/) - How to Glue Anything to Anything
 * [My Car Makes Noise](http://mycarmakesnoise.com/) - Diagnose Car Problems via Sounds
 * [CarComplaints](https://www.carcomplaints.com/) - Car Problems, Car Complaints and Repairs
+* [/r/CarHacking](https://www.reddit.com/r/CarHacking/) - Car Hacking Community
 * [PlateRecognizer](http://platerecognizer.com/) - License Plate Recognition
 * [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.net/) - Perfume / Fragrance Databases
 * [Safe Substance](https://safesubstance.com/) - Drug Combination Info / Harm Reduction
