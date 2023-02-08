@@ -601,11 +601,35 @@
 ***
 
 # ► Art Education
-
+* ⭐ **[Ctrl+paint](https://www.ctrlpaint.com/library)** - huge library of free short tutorials covering all the aspects of digital art
+* ⭐ **[Drawabox](https://drawabox.com/)** - set of free exercise-based lessons that focus on the fundamentals of drawing
+* ⭐ **[Proko](https://www.youtube.com/user/ProkoTV/videos)** - best collection of tutorials on figure drawing and anatomy on the internet
+* ⭐ **[PaintingTube](https://painting.tube)** - a human-curated collection of art, painting, and drawing videos. (9000 Videos)
+* [Circle Line Art](https://www.youtube.com/user/circlelinemedia/videos)- youtube channel focused on teaching the fundamentals of drawing 
+* [Art Fundamentals Playlist](https://www.youtube.com/playlist?list=PLVgLT-e3jXPDgeED0pD0BPq8kY1VAZAGa) - great playlist that walks you through the basic principles of drawing and painting
+* [Sycra](https://www.youtube.com/user/Sycra/videos) - well known youtube channel filled with useful step-by-step tutorials about digital painting, drawing, design, and general art tips.
+* [Alphonso Dunn](https://www.youtube.com/c/ALPHONSODUNN/videos?view=0&sort=p&flow=grid) - channel focused on teaching the concepts & tutorials on traditional art
+* [Feng Zhu FZD](https://www.youtube.com/user/FZDSCHOOL/videos) - one of the best youtube channels for learning to create environments and concept art
+* [Curriculum for the Solo Artist by u/RadioRunner](https://reddit.com/r/learnart/comments/dapk62/from_the_guy_who_made_the_most_comprehensive_list/) - A full curriculum for the self-taught Artist / [PDF Version](https://mega.nz/file/sU0AxThb#m96_xISlS-5wtpSrauWFdh8mjhed7EitknQn_XIBaQc)/[Gallery Version](https://imgur.com/a/EZPc28m)
+* [Humaans](https://www.humaaans.com/) - free illustrations of people with a design library 
+* [Line of Action](https://line-of-action.com/) - Figure drawing and other reference photos for drawing and sketching practice.
+* [The Dimensions Of Colour](http://www.huevaluechroma.com/) - comprehensive explanations of colour theory for both traditional and digital media
+* [Bill Martin's Guide to Drawing](https://www.guidetodrawing.com/) - Drawing lessons from artist Bill Martin
+* [Draw Mix Paint](http://www.drawmixpaint.com/)- Educational site with videos and articles for learning to oil paint
+* [Daily Life Drawing Sessions (NSFW)](https://www.youtube.com/playlist?list=PL7EWYwaF6E-Exv72kVT4yYJM2lX-Xf66I) - Daily life timed models for figure drawing
+* [Timed Figure Poses](https://www.youtube.com/playlist?list=PL7EWYwaF6E-FZ8JiBlz2tF1DQUCw-GCmn) - For figure drawing & reference 
+* [Timed Figure Poses (Nude)](https://www.youtube.com/playlist?list=PL7EWYwaF6E-H65W-hXeKvvO_xNA_kIs5w) -For figure drawing & reference 
+* [LoveLifeDrawing](https://www.lovelifedrawing.com/) - Figure drawing guides, tutorials & references
+* [Drawing Starter Pack Playlist](https://www.youtube.com/playlist?list=PL7KO8uN5A9PJsQIJzecnohhKjtMnSuFtR) - short beginner starter pack for getting into drawing
+* [Drawingbooks.org](https://www.drawingbooks.org/) - Old Drawing Books 
+* [Croquis Cafe](https://croquis.cafe/) - Comprehensive figure drawing reference - NSFW
+* [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/) - Generate random faces for portraits 
+* [Artist Reference](https://artist-reference.com) - Wide range of Photo Reference for Artist - NSFW
+* [ArtWithFlo](https://artwithflo.com/) - Free Procreate tutorials, procreate brushes & more 
+* [Paintable](https://paintable.cc/blog-home-bootcamp/) - Free digital art tutorials 
 * [Pedro's Pixel Art Tutorials](https://blog.studiominiboss.com/pixelart) or [SLYNYRD](https://www.slynyrd.com/gallery-animated) - Pixel Art Tutorials 
-* [Draw Mix Paint](https://www.drawmixpaint.com/) - Painting Lessons
 * [Painting Demos](https://paintingdemos.com/) - Painting Demonstrations
-* [3DVKARTS](https://3dvkarts.net/) or [Line of Action](https://line-of-action.com/) - Drawing Tutorials
+* [3DVKARTS](https://3dvkarts.net/) - Drawing Tutorials
 * [anidraw](https://www.anidraw.net/?m=1) - Anime Drawing Tutorials
 * [TryDraw](https://www.trydraw.com/) - Improve Drawing Skills
 * [Photoshop Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photoshop_courses) - Photoshop Course Drive
