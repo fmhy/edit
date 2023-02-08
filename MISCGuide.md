@@ -685,7 +685,7 @@
 
 # ► Cooking
 
-* ⭐ **[Reciperr](https://reciperr.com/)**, [Tandoor Recipes](https://docs.tandoor.dev/) or [Spoonacular](https://spoonacular.com/food-api) - Recipe Managers
+* ⭐ **[Reciperr](https://reciperr.com/)**, [Whisk](https://whisk.com/), [Tandoor Recipes](https://docs.tandoor.dev/) or [Spoonacular](https://spoonacular.com/food-api) - Recipe Managers
 * ⭐ **[Grocy](https://grocy.info/)** or [Kitchen Owl](https://f-droid.org/en/packages/com.tombursch.kitchenowl/) / [Backend](https://tombursch.github.io/kitchenowl/get-started/) - Grocery Managers
 * ⭐ **[Superbetize](http://superbetize.com/)** - Auto-Categorize Grocery List
 * ⭐ **[Just the Recipe](https://www.justtherecipe.com/)**, [Copy Me That](https://www.copymethat.com/), [PlainOldRecipe](https://www.plainoldrecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - Extract Ingredients from Recipe Pages
@@ -826,7 +826,7 @@
 * [Google Fit](https://www.google.com/fit/) - Activity Coach
 * [No Equipment Ab Exercises](https://i.imgur.com/H9IH3XB.jpg) - Ab Exercise Diagram
 * [fastnfitness](https://github.com/brodeurlv/fastnfitness) - Track Your Exercise Progress
-* [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) - Exercise & Activity Tracker
+* [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) or [PFCTE](https://github.com/SecUSo/privacy-friendly-circuit-training-exercises) - Exercise & Activity Tracker
 * [ExRx.net](https://exrx.net/) - Exercise Resources
 * [Cronometer](https://cronometer.com/) - Track Nutrition & Calories
 * [MyFoodData](https://www.myfooddata.com) - Food Nutrition Tools
