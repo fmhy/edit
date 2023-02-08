@@ -227,7 +227,7 @@
 * [Bash Crawl](https://gitlab.com/slackermedia/bashcrawl) - Linux Command Learning Game
 * [ss64 Bash](https://ss64.com/bash/) or [Bash Oneliner](https://github.com/onceupon/Bash-Oneliner) - Linux Bash Commands
 * [zx](https://github.com/google/zx) - Javascript Bash
-* [Helmanual](https://helpmanual.io/) or [awesome-for-oneliner](https://github.com/sheepla/awesome-for-oneliner) - Unix Commands
+* [Helmanual](https://helpmanual.io/), [Linux Command Library](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcommandbibliotheca) or [awesome-for-oneliner](https://github.com/sheepla/awesome-for-oneliner) - Unix Commands
 * [bashrcgenerator](http://bashrcgenerator.com/) - .bashrc Generator
 * [bash_loading_animations](https://github.com/Silejonu/bash_loading_animations) - Bash Loading Animations
 * [Bashly](https://bashly.dannyb.co/) - Bash CLI Framework
@@ -444,13 +444,14 @@
 * [kbdlight](https://github.com/WhyNotHugo/kbdlight) - Change MacBook Keyboard Backlight Level
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - Connect Mac Keyboard to Mobile Devices
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - Shortcut CheatSheet for Current Application
-* [MonitorControl](https://monitorcontrol.app/) - External Monitor Brightness & Volume Control
+* [MonitorControl](https://monitorcontrol.app/) - External Monitor Brightness / Volume Control
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Volume Mixer / Auto-Pause
 * [BatteryBuddy](https://batterybuddy.app/) - Cute Battery Indicator
 * [Bunch](https://bunchapp.co/) - Task Automation
 * [Find You](https://github.com/positive-security/find-you) - Track Bluetooth Devices
-* [Itsycal](https://www.mowglii.com/itsycal/) - Menu Bar Calendar
+* [Touché](https://redsweater.com/touche/) - Touch Bar Simulator
 * [pock](https://pock.app/) - Touch Bar Widget Manager / [GitHub](https://github.com/pock/pock)
+* [Itsycal](https://www.mowglii.com/itsycal/) - Menu Bar Calendar
 * [xbar](https://xbarapp.com/) - Manage Menu Bar Items / [GitHub](https://github.com/matryer/xbar)
 * [MacLaunch](http://github.com/hazcod/maclaunch) - Manage Startup Items
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - Menu Bar Toggle Switches
