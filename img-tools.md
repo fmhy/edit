@@ -23,9 +23,6 @@
 * [IRA Design](https://iradesign.io/) - Illustration Creator
 * [Method](https://editor.method.ac/) - SVG Editor
 * [Scribus](http://www.scribus.net/) - Page Layout & Typesetting Program
-* [Photoshop Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photoshop_courses) - Photoshop Course Drive
-* [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - Photoshop Tutorials
-* [DomDesigns](https://www.youtube.com/c/DomDesigns/) - Illustrator Tutorials
 * [PhotoFunia](https://photofunia.com/), [AIBlockchainArt](https://aiblockchain.art/) or [Designify](http://designify.com/) - Photo Effects / Filters
 * [MagicaVoxel](https://ephtracy.github.io/) - Voxel Art Editor / Interactive Path Tracing Renderer
 * [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Text Driven Image Manipulation / [Video](https://youtu.be/5icI0NgALnQ)
@@ -74,7 +71,7 @@
 * [Labellmg](https://github.com/tzutalin/labelImg) or [Acme Annotator](https://acme.com/annotator/) - Image Annotation 
 * [Face Merging](https://www.faceplusplus.com/face-merging/) or [MorphThing](https://www.morphthing.com/) - Face Merging Tool 
 * [WebcamToy](https://webcamtoy.com/) or [HDBooth](https://www.hdbooth.net/) - Webcam Effects
-* [Latent Diffusion](https://github.com/CompVis/latent-diffusion) - Image Synthesis with Latent Diffusion Models
+* [Latent Diffusion](https://github.com/CompVis/latent-diffusion), [2](https://github.com/pesser/stable-diffusion) - Image Synthesis with Latent Diffusion Models
 
 ***
 
@@ -100,7 +97,7 @@
 * [Fenophoto](https://www.fenophoto.com/) - Automatic Photo Enhancer
 * [Colorize Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_colorization) - Image Colorization Tools
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime Image Colorization
-* [GPEN-Colab](https://github.com/bycloudai/GPEN-colab) or [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Restoration / Colorization Tool
+* [GPEN-Colab](https://github.com/bycloudai/GPEN-colab), [Photo Face Restorer](https://www.restorephotos.io/) or [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Restoration / Colorization Tool
 * [Color-Dragon](https://www.color-dragon.tk/) - Add more Color to Images
 * [style2paints](https://github.com/lllyasviel/style2paints) or [PaintsChainer](https://github.com/pfnet/PaintsChainer) - Lineart Colorization Tool
 * [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/) - Image Dithering
@@ -277,14 +274,12 @@
 * [brush-photoshop](https://www.brush-photoshop.fr/), [wowbrushes](http://wowbrushes.com/), [chezplumeau](https://www.chezplumeau.com/), [getbrushes](http://getbrushes.com/), [gfxfever](http://gfxfever.com/photoshop-brushes), [fbrushes](https://fbrushes.com/), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/) - Digital Art Brushes
 * [HotGlue](https://hotglue.me/) or [Remoji](https://remoji.com/) - Emoji Painting
 * [PanosFX](https://www.panosfx.com/) or [Fix the Photo](https://fixthephoto.com/free-photoshop-actions) - Photoshop Actions
-* [paint.wtf](https://paint.wtf/) - Have an AI Judge your Art
 
 *** 
 
 ## ▷ Pixel Art
 
 * ⭐ **[Awesome Pixel Art](https://github.com/Siilwyn/awesome-pixel-art)** - Pixel Art Resource Index 
-* [Pedro's Pixel Art Tutorials](https://blog.studiominiboss.com/pixelart) or [SLYNYRD](https://www.slynyrd.com/gallery-animated) - Pixel Art Tutorials 
 * [Piskel](https://www.piskelapp.com/), [rx](https://rx.cloudhead.io/), [Pixelated](https://pixelated.vercel.app/), [PaintWith](https://paintwith.webflow.io/), [Aseprite](https://dacap.itch.io/aseprite), [PixelCraft](https://pixelcraft.web.app/) / [GitHub](https://github.com/rgab1508/PixelCraft), [Kleki](https://kleki.com/), [CSprite](https://csprite.github.io/) or [PixilArt](https://www.pixilart.com/draw) - Pixel Art Editors
 * [Strike](https://amorphous.itch.io/strike) - 1-Bit Pixel Art Editor
 * [Pixel Painter](https://jenniferdewalt.com/pixel_painter.html) or [Pixel Paint](https://codepen.io/quinlo/full/RvPPKG) - Paint with Pixels
@@ -308,7 +303,7 @@
 * ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [AI Creation Tool Mega](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) or [SD Akashic](https://github.com/Maks-s/sd-akashic) - AI Image Generation Resources
 * ⭐ **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) 
 * ⭐ **Craiyon Tools** - [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk) / [Generative Engine](https://experiments.runwayml.com/generative_engine/)
-* ⭐ **[Stable Diffusion](https://github.com/Stability-AI/stablediffusion)** - [Discord](https://discord.com/invite/stablediffusion)
+* ⭐ **[Stable Diffusion](https://github.com/Stability-AI/stablediffusion)** - [Discord](https://discord.com/invite/stablediffusion) / [Variations](https://github.com/justinpinkney/stable-diffusion)
 * [Unstable Diffusion](https://discord.com/invite/unstablediffusion)
 * [Mage](https://www.mage.space/)
 * [DALL·E Flow](https://github.com/jina-ai/dalle-flow) / [Colab](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb)
@@ -318,8 +313,10 @@
 * [aiimag.es](https://sunija.itch.io/aiimages)
 * [Pinegraph](https://pinegraph.com/create)
 * [Stable Diffusion Web](https://stablediffusionweb.com/)
+* [GetIMG.ai](https://getimg.ai/)
 * [PlaygroundAI](https://playgroundai.com/)
 * [Artificy](https://artificy.com/)
+* [AIImageGenerator](https://www.aiimagegenerator.org/)
 * [Dream Studio](https://beta.dreamstudio.ai/dream)
 * [Dream.a](https://dream.ai/)
 * [DreamLike](https://dreamlike.art)
@@ -483,12 +480,7 @@
 * [DeepSort](https://github.com/CorentinB/DeepSort/) or [WiseTagger](https://github.com/0xb8/WiseTagger) - Image Tagger 
 * [Cluttr](https://gitlab.com/bearjaws/cluttr) - Automatically Organize & Tag Photos
 * [Canon Camera Museum](https://global.canon/en/c-museum/camera-series.html) - History of Canon Cameras
-* [Draw Mix Paint](https://www.drawmixpaint.com/) - Painting Lessons
-* [Painting Demos](https://paintingdemos.com/) - Painting Demonstrations
-* [3DVKARTS](https://3dvkarts.net/) or [Line of Action](https://line-of-action.com/) - Drawing Tutorials
-* [anidraw](https://www.anidraw.net/?m=1) - Anime Drawing Tutorials
-* [TryDraw](https://www.trydraw.com/) - Improve Drawing Skills
-* [Something to Draw](https://something-to-draw.com/) - Find Thing to Draw
+* [Something to Draw](https://something-to-draw.com/) - Find Things to Draw
 * [3D Printed Mirror Array](https://github.com/bencbartlett/3D-printed-mirror-array) - Sunlight Pattern Mirror Array
 
 ***
@@ -605,3 +597,18 @@
 * [Redact.Photo](https://redact.photo/) - Image Redaction Tool
 * [Squoosh](https://squoosh.app/) - Image Codec Comparison
 * [jPhotoDNA](https://github.com/jankais3r/jPhotoDNA) - Image CSAM Identification Algorithm
+
+***
+
+# ► Art Education
+
+* [Pedro's Pixel Art Tutorials](https://blog.studiominiboss.com/pixelart) or [SLYNYRD](https://www.slynyrd.com/gallery-animated) - Pixel Art Tutorials 
+* [Draw Mix Paint](https://www.drawmixpaint.com/) - Painting Lessons
+* [Painting Demos](https://paintingdemos.com/) - Painting Demonstrations
+* [3DVKARTS](https://3dvkarts.net/) or [Line of Action](https://line-of-action.com/) - Drawing Tutorials
+* [anidraw](https://www.anidraw.net/?m=1) - Anime Drawing Tutorials
+* [TryDraw](https://www.trydraw.com/) - Improve Drawing Skills
+* [Photoshop Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photoshop_courses) - Photoshop Course Drive
+* [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - Photoshop Tutorials
+* [DomDesigns](https://www.youtube.com/c/DomDesigns/) - Illustrator Tutorials
+* [paint.wtf](https://paint.wtf/) - Have an AI Judge your Art
