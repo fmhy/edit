@@ -348,7 +348,7 @@
 * [Optimize](https://www.heroic.us/optimize) - Self-Improvement Notes / Lessons
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
 * [Survivor Library](http://www.survivorlibrary.com/), [PrepperCollective](https://t.me/PrepperCollective) / [Index](https://t.me/PrepperCollectiveIndex), [OffGridDownload](https://t.me/offgriddownload), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - Survival
-* [SurvivalManual](https://ligi.de/) - Offline Survival Guide / [GitHub](https://github.com/ligi/SurvivalManual)
+* [SurvivalManual](https://ligi.de/) or [The Preparedness Encyclopedia](https://redd.it/muc9ff) - Survival Guides / [GitHub](https://github.com/ligi/SurvivalManual)
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - Auto Brochures
 * [QSL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_qsl) - Ham Radio & Antenna Books
 * [FoodTimeLine](https://www.foodtimeline.org/) - Food History
