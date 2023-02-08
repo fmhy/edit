@@ -68,12 +68,13 @@
 * [DefendTheWeb](https://defendtheweb.net/) - Cybersecurity Challenges
 * [Cyber Talent Kids](https://cybertalentskids.com/) - Learn About Cybersecurity
 * [pwn.college](https://pwn.college/) - Cybersecurity Practice
-* [Leetcode](https://leetcode.com/), [2](https://leetcode.ca/) - Code Solutions / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/edit) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/prius/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode)
 * [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/), [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
 * [Google Cloud Developer's Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/) - Google Cloud Developer Cheat Sheet / [GitHub](https://github.com/priyankavergadia/google-cloud-4-words)
 * [Vim Cheatsheet](https://i.imgur.com/2RsZq6p.png) - Vim Code Editor Cheat Sheet
 * [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app) - React Typescript Cheatsheet
 * [Tackling TS](https://exploringjs.com/tackling-ts/toc.html) or [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
+* [Leetcode](https://leetcode.com/), [2](https://leetcode.ca/) - Learn Coding
+* Leetcode Tools - [Solutions](https://walkccc.me/LeetCode/) / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/edit) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/prius/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode)
 * [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming / Coding Learning Resources
 * [Exercism](https://exercism.org/) or [CS Circles](https://cscircles.cemc.uwaterloo.ca/) - Programming Lessons
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - Programming Courses
@@ -104,7 +105,7 @@
 * [GoLang.org](https://golang.org/doc/tutorial/getting-started) - Go Tutorial
 * [HowIStart Go](https://howistart.org/posts/go/1/) - Go Setup Guide
 * [Next](https://hendrixer.github.io/nextjs-course/) - Learn Next.js
-* [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) - Rust Programming  Guidebook
+* [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) - Rust Programming Guidebook
 * [JavaScript.info](https://javascript.info/) - JavaScript Guide 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Javascript Learning Books
 * [EloquentJavascript](https://eloquentjavascript.net/), [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript), [FunJavascript](https://fun-javascript-projects.com/), [LearnCS](https://www.learncs.online/lessons), [Java5cript](https://www.java5cript.com/) or [Grasshopper](https://grasshopper.app/) - Learn Javascript
@@ -338,6 +339,7 @@
 * [OpenML](https://www.openml.org/) or [Hugging Face](https://huggingface.co/) - Machine Learning Datasets
 * [Kobra](https://kobra.dev/) - Visual Programming Language for Machine Learning
 * [DVC](https://dvc.org/) - Machine Learning Version Control
+* [DialoGPT](https://github.com/microsoft/DialoGPT) - Dialogue Machine Learning Model
 * [MMDeploy](https://github.com/open-mmlab/mmdeploy) - Deep Learning Model Deployment Toolset 
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep Learning Optimization Library
 * [Netron](https://github.com/lutzroeder/netron) -  Visualizer for Neural Network, Deep Learning, and Machine Learning Models 
@@ -505,6 +507,7 @@
 * [PublishThisEmail](https://www.publishthis.email/) - Email Based Website Builder
 * [PrivateDaddy](https://www.privatedaddy.com/) - Auto Hide Email Address'
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - Mobile Friendly Page Test
+* [epub.js](https://github.com/futurepress/epub.js) - Render ePub Documents in Browser
 * [Shaka Player](https://github.com/shaka-project/shaka-player) - JavaScript Library for Adaptive Media
 * [hlsflow](https://github.com/hlsflow/hlsflow) - Host Video in HLS Stream
 * [OneLinePlayer](https://onelineplayer.com/) - Vimeo / Dropbox Video Player
@@ -1290,7 +1293,7 @@
 * [CoCalc](https://cocalc.com/) - Virtual online workspace
 * [CodePen](https://codepen.io/), [Microsoft 365 E5](https://rentry.co/E5Register), [Web Maker](https://webmaker.app/) or [Liveweave](https://liveweave.com/) - Code Sandbox
 * [Platform.uno](https://platform.uno/) - App Framework
-* [tio.run](https://tio.run/) - Programming Language Interpreters 
+* [tio.run](https://tio.run/) - Programming Language Interpreters
 * [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
 
 ***
