@@ -840,7 +840,6 @@
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animated Film Archive
 * [National Film Archive of Japan](https://meiji.filmarchives.jp/) - Japanese Film Archive
 * [AQ Stream](https://aqstream.com/) - Live TV 
-* [GameCenter CX](https://www.twitch.tv/gemcentacxx) - GameCenter CX Stream
 * [kuukunen](https://touhou.kuukunen.net/) - Music
 
 ## ▷ Reading 
