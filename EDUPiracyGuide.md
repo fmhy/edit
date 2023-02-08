@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/RKhI5BL.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/4k1P4Ip.png)** - For mobile users
 
 ***
 ***
@@ -46,6 +46,7 @@
 * [CourseF](https://www.coursef.com/) - Courses
 * [Study is wonderful](https://github.com/xioacd99/study-is-wonderful) - Courses
 * [Open HPI](https://open.hpi.de/) - Courses
+* [Free MOOCs](https://freemoocs.com/) - Courses
 * [FindAndSolve](https://www.findandsolve.com/) or [CourseBuffet](https://www.coursebuffet.com/) - Search Engine
 * [LearnOutLoud](https://www.learnoutloud.com/) - Documentaries / Courses
 * [Class Central](https://www.classcentral.com/) - Search for Courses
@@ -58,7 +59,7 @@
 * [Curated Conversations](https://conversations.aawadia.dev/) - Educational Podcasts / Interviews
 * [WatchKnowLearn](http://www.watchknowlearn.org/) - Educational Videos
 * [FreeMedTube](https://freemedtube.net/) - Medical Courses
-* [Mathispower4u](http://www.mathispower4u.com/), [PatrickJMT](http://patrickjmt.com/), [SchoolYourself](http://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/), [mathonline](http://mathonline.wikidot.com/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Tutorials
+* [Mathispower4u](http://www.mathispower4u.com/), [PatrickJMT](http://patrickjmt.com/), [SchoolYourself](http://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/), [mathonline](http://mathonline.wikidot.com/), [MathGoodies](https://www.mathgoodies.com/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
 * [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) or [MisterWootube](https://www.youtube.com/c/misterwootube) - YouTube Math Lessons 
 * [NYU-DLSP21](https://atcold.github.io/NYU-DLSP21/) - Deep Learning Course
 * [BillNye](https://billnye.com/) - Bill Nye Science Videos
@@ -542,6 +543,9 @@ Simulator
 * [CDS](https://cds.u-strasbg.fr/) - Astronomical Database
 * [UFO Discovery](https://app.polymersearch.com/polymerexamples/UFO_Sightings) - UFO Sightings Tracker
 * [UFO Sighting Chart](https://i.redd.it/0l9ugv9kz4091.jpg) - Common UFO Sighting Locations
+
+***
+# ► [Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_art_education)
 
 ***
 
