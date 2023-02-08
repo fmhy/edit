@@ -180,6 +180,7 @@
 * ⭐ **[Authy](https://authy.com/)**, [WinAuth](https://winauth.github.io/winauth/), [Yubioath](https://developers.yubico.com/yubioath-flutter/), [AuthMe](https://github.com/Levminer/authme), [Protecc](https://github.com/FireCubeStudios/Protecc), [2FAuth](https://github.com/Bubka/2FAuth) or [Tauthy](https://github.com/pwltr/tauthy) - Two-Factor Authentication
 * ⭐ **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
 * ⭐ **[Password Strength Chart](https://i.imgur.com/KSISOPN.png)**
+* ⭐ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_encryption_tools)** - File Encryption Apps / Tools
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
 * ⭐ **[Decentralized Social Networks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_decentralized_social_networks)** - Twitter / Facebook Alternatives
 * [Windows 10 Antispy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_antispy_tools)
@@ -217,9 +218,6 @@
 * [VeraCrypt](https://www.veracrypt.fr/en/Home.html) or [CryptSetup](https://gitlab.com/cryptsetup/cryptsetup) - Disk Encryption Software
 * [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition 
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
-* [Wormhole](https://wormhole.app/), [Vualt.ooo](https://vault.ooo/) or [upload-vaa](https://upload.vaa.red/) - Encrypted File Hosts 
-* [boom.fyi](https://www.boom.fyi/) - Temporary File Host
-* [EncFS MP](https://encfsmp.sourceforge.io/index.html), [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/), [GPG4Win](https://www.gpg4win.org/), [Encrypto](https://macpaw.com/encrypto), [FreeCrypt](https://freecrypt.org/), [Vmola](https://vmola.com/), [Kryptor](https://www.kryptor.co.uk/), [wdcrypt](https://github.com/stefins/wdcrypt) or [Picocrypt](https://github.com/HACKERALERT/Picocrypt) - File Encryption Tools 
 * [Filecrypt](https://filecrypt.cc/) - Encrypt File Links
 * [ProtectedZip](https://protectedzip.com/) - Encrypt Zip Files
 * [PDFEncrypt](https://pdfencrypt.net/) - PDF File Encryption
