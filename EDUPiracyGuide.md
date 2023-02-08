@@ -118,7 +118,8 @@
 * [ThoughtMaybe](https://thoughtmaybe.com/) 
 * [Folkstreams](https://www.folkstreams.net/) 
 * [Films For Action](https://www.filmsforaction.org/) 
-* [/r/Documentaries](https://reddit.com/r/Documentaries) 
+* [/r/Documentaries](https://reddit.com/r/Documentaries)
+* [Smithsonian Channel](https://www.smithsonianchannel.com/) - Each Series' First Episode is Free
 
 ***
 
