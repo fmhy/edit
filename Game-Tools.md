@@ -206,6 +206,7 @@
 * [New Vegas: Multiplayer](https://wiki.nv-mp.com/en/getting-started) - Multiplayer Fallout: New Vegas
 * [csgo-mm-server-picker](https://github.com/Jyben/csgo-mm-server-picker) - CS:GO Server Picker
 * [Simple Radar](https://readtldr.gg/simpleradar) - Improved CS:GO Radar
+* [CSGO Trader](https://csgotrader.app/) - CS:GO Trading Enhancements
 * [Northstar](https://northstar.thunderstore.io/), [2](https://northstar.tf/) - Titanfall 2 Server Hosting & Modding / [GitHub](https://github.com/R2Northstar/Northstar/releases) / [Guide](https://rentry.org/northstar-guide) / [Discord](https://discord.gg/CEszSguY3A)
 * [Titanfall2HudToggle](https://www.mediafire.com/file/q3tld2cm31znu2z/Titanfall2HudToggle.rar/file) - Toggle Titanfall 2 Hud
 * [CnCNet](https://cncnet.org/) - Multiplayer Command & Conquer 
@@ -301,6 +302,7 @@
 * [Steam Deck Mods](https://docs.google.com/document/d/1TWhN9nCorKxut5O7UbPQPDhXLb-8C-CIoesB01yfhmY/) - Steam Deck Mods / [Discord](https://discord.com/invite/SteamDeck) / [Discord Bot](https://github.com/SteamDeckMods/sdm_discord_bot)
 * [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) - Steam Deck Plugin Loader
 * [Steam Deck Tools](https://github.com/ayufan/steam-deck-tools) - Fan Overlay, Power Control and Steam Controller
+* [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
 * [HoloISO](https://github.com/theVakhovskeIsTaken/holoiso) - SteamOS 3 (Holo) Archiso Config
 
 ***
