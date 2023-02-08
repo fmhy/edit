@@ -181,6 +181,7 @@
 * [Romspedia](https://www.romspedia.com/) - Emulators / ROMs
 * [ROMs Games](https://ROMsgames.net/) - Emulators / ROMs
 * [ROMs DL](https://romsdl.com/) - Emulators / ROMs
+* [HappyROMs](https://happyroms.com/) - Emulators / ROMs
 * [DownloadArea81](https://www.downarea51.com/) - Emulators / ROMs
 * [ROMs Planet](https://romsplanet.com/) - Emulators / ROMs
 * [CoolROMs](https://coolrom.com.au/) - Emulators / ROMs / Use ["Alt DL Link"](https://i.imgur.com/FgHvrPK.png)
