@@ -156,15 +156,15 @@
 
 * ⭐ **[Custom Android Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_operating_systems)**
 * ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
-* ⭐ **Magisk Tools** - [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager), [2](https://github.com/ya0211/MRepo) / [SafteyNet Fix](https://github.com/kdrag0n/safetynet-fix) / [Modules](https://www.androidacy.com/magisk-modules-repository/)
+* ⭐ **Magisk Tools** - [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager), [2](https://github.com/ya0211/MRepo) / [SafteyNet Fix](https://github.com/kdrag0n/safetynet-fix) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
 * ⭐ **[AutumnBox](https://github.com/zsh2401/AutumnBox/releases)** - Android Device Manager / Root Tool / [Features](https://i.imgur.com/59MlFrW.png)
 * ⭐ **[Android Web Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)**
 * ⭐ **[ntfy](https://ntfy.sh/)**, [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2) or [BuzzKill](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_buzzkill) - Custom Push Notifications
 * ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client / [Rich Presence](https://github.com/dead8309/Kizzy) / [Nitro Emojis](https://nitroless.app/)
 * ⭐ **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites / Apps
-* ⭐ **[Termux](https://termux.com/)**, [Andronix](https://andronix.app/) / [Git](https://github.com/AndronixApp) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulator / Linux Environments
+* ⭐ **[Termux](https://termux.com/)**, [Limbo](https://github.com/limboemu/limbo), [Andronix](https://andronix.app/) / [Git](https://github.com/AndronixApp) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulators / OS Environments
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/tareksander/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
-* ⭐ **[Chat GPT](https://play.google.com/store/search?q=chatgpt&c=apps)** - AI Writing Assistant / Chat
+* ⭐ **[ChatGPT](https://play.google.com/store/search?q=chatgpt&c=apps)** or [chatgpt-android](https://github.com/skydoves/chatgpt-android) - AI Writing Assistant / Chat
 * [Android Debloat Guide](https://rentry.co/debloatandroid), [debloat-android](https://christitus.com/debloat-android/) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/0x192/universal-android-debloater), [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) or [Debloat Samsung Android](https://github.com/khlam/debloat-samsung-android) - Android Debloaters
 * [File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools) - Tools to Share / Sync Files
@@ -235,7 +235,7 @@
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - Ringtones Directory
 * [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3), [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Managers
 * [Substratum Tweaks](https://github.com/luisbocanegra/substratum-tweaks) - System Theme
-* [Candybar](https://github.com/zixpo/candybar) - Custom App Icons
+* [Candybar](https://github.com/zixpo/candybar) or [Iconify](https://github.com/Mahmud0808/Iconify) - Custom App Icons
 * [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons) - App Themed Icons
 * [Arcticons](https://arcticons.onnno.nl/) - Monotone Icon Pack
 * [IconRequest](https://github.com/Kaiserdragon2/IconRequest) - Find Missing Icons
@@ -275,7 +275,7 @@
 * [TidyPanel](https://play.google.com/store/apps/details?id=com.dharmapoudel.tidypanel) - Notification Blocker
 * [App Blocker](https://play.google.com/store/apps/details?id=com.mobteq.appblocker) - Block Apps
 * [AlwaysOnEdge](http://www.aoeapps.com/) - Android Customization App
-* [VirtualXposed](https://virtualxposed.com/) - Rootless Xposed Framework
+* [VirtualXposed](https://virtualxposed.com/) or [LSPosed](https://github.com/LSPosed/LSPosed) - Xposed Frameworks
 * [Palette](https://play.google.com/store/apps/details?id=com.ald.devs47.sam.beckman.palettesetups) - Custom Home Screens
 * [Codo Dodo](http://www.codododo.com/) - Navigation Bar Customization
 * [Custom Volume Panel](https://play.google.com/store/apps/details?id=com.codingbatch.volumepanelcustomizer) - Customize Volume Bar
@@ -291,6 +291,7 @@
 * [Caffeine](https://lab.zhs.moe/caffeine/) - Keep Screen On
 * [FakeStandby](https://fakestandby.jonasbernard.de/) - Turn Off Screen While App is Running
 * [WaveUp](https://gitlab.com/juanitobananas/wave-up) - Turn On Display via Waving
+* [Pineapple Lock Screen](https://github.com/BLumia/pineapple-lock-screen) - Turn Off Display without Power Button
 * [Shelter](https://cgit.typeblog.net/Shelter/) or [Insular](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps
 * [MacroDroid](http://macrodroid.com/) or [AutomateIt](https://www.automateitapp.com/) - Android Automation
 * [DoForMe](https://play.google.com/store/apps/details?id=com.aj.dfm) - Location Based Automation
@@ -548,13 +549,13 @@
 * [APKGit](https://apkgit.co/) - Untouched
 * [APKDL](https://apkdl.in/) - Untouched
 * [APKMonk](https://www.apkmonk.com/) - Untouched
-* [APK Fab](https://apkfab.com/) - Untouched
-* [APKCafe](https://apk.cafe/) - Untouched
+* [APK Fab](https://apkfab.com, [2](https://apkcafe.vn/) - Untouched
 * [AppsDrop](https://www.appsdrop.com/) - Untouched
 * [APKAngry](https://apkangry.com/en) - Untouched
 * [APKToy](https://www.apktoy.com/) - Untouched
 * [Dreamsroom](https://dreamsroom.applinzi.com/) - Untouched
 * [APKamp](https://apkamp.com/) - Untouched
+* [APK App Gallery](https://apkapp.gallery/) - Untouched
 * [APKSum](https://www.apksum.com/) - Untouched / Modded
 * [A2Z APK](https://a2zapk.com/) - Untouched / Modded
 * [nsane.down](https://www.nsaneforums.com/) - Modded
@@ -612,6 +613,8 @@
 * [MHKTricks](https://mhktricks.org/) - Modded
 * [APKDownload](https://apkdownload.cc/) - Modded
 * [APKMos](https://apkmos.com/) - Modded
+* [CyanogenMods](https://cyanogenmods.org/) - Modded
+* [APK Key](https://apkkey.com/) - Modded
 * [DivyaNet](https://divyanet.com/) - Modded
 * [LeeAPK](https://leeapk.com/) - Modded
 * [APK2Me](https://apk2me.com/) - Modded
@@ -903,7 +906,7 @@
 # ► Android Streaming
 
 * ⭐ **[CloudStream](https://cloudstream.cf/)** - Movies / TV / Anime / Chromecast
-* ⭐ **CloudStream Tools** - [Discord](https://discord.gg/5Hus6fM) / [Downloads](https://rentry.org/cs3/) / [Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cloudstream_forks) / [Trakt Addon](https://2ecbbd610840-trakt.baby-beamup.club/) / [Sora Addon](https://youtu.be/yDuXGAnFQuI)
+* ⭐ **CloudStream Tools** - [Guide](https://cs3docs.pages.dev/) / [Discord](https://discord.gg/5Hus6fM) / [Downloads](https://rentry.org/cs3/) / [Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cloudstream_forks) / [Trakt Addon](https://2ecbbd610840-trakt.baby-beamup.club/) / [Sora Addon](https://youtu.be/yDuXGAnFQuI)
 * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Addons](https://stremio-addons.netlify.app/) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * ⭐ **[HDO Box](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=hdo+box&sf=titleonly)** - Movies / TV
 * ⭐ **[Syncler](https://syncler.net/)** - Movies / TV / [How-To](https://pastebin.com/VsiKV9rm)
@@ -1312,6 +1315,7 @@
 # ► iOS Streaming
 
 * [Kodi](https://kodi.tv/) - /r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
+* [Stremio](https://pastebin.com/Gy5xZny2) - Movies / TV / Anime / Use VPN / [Alt Method](https://imgur.com/JKxCR4s)
 * [Video Lite](https://apps.apple.com/sa/app/video-lite-no-ads/id1598997500) - Video Browser w/Adblock
 * [MovieByImage](https://apps.apple.com/us/app/movie-finder-movie-by-image/id1560301878) - Movies / Code: 777
 * [MediaBox](https://mediaboxhd.net/) - Movies / TV
