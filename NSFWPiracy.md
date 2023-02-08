@@ -362,11 +362,12 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Awesome-Buttplug](https://github.com/buttplugio/awesome-buttplug) - Buttplug Project Index
 * [Buttplug.io](https://buttplug.io/) - Sex Toy Control Software
 * [VaMSync](https://github.com/intiface/VaMSync) - VAM Plugin for Strokers & Vibrators
-* [MoanMyIP](https://www.moanmyip.com/) - Sexy Girls Moaning Your IP
-* [electric.smut](https://nsfwai.com/) or [PornPen](https://pornpen.ai/) - NSFW Image Generators
 * [Thunder's Place](https://thunders.place/) - Penis Enlargement Discussion & Safety
 * [PornHub Repos](https://github.com/topics/pornhub) - Pornhub Repositories
 * [PornHub Plus](https://sleazyfork.org/en/scripts/380711) - Add PornHub Features
+* [electric.smut](https://nsfwai.com/) or [PornPen](https://pornpen.ai/) - NSFW Image Generators
+* [MoanMyIP](https://www.moanmyip.com/) - Sexy Girls Moaning Your IP
+* [AdultOpenAI](http://adultopenai.pythonanywhere.com/) - Uncensored ChatGPT
 * [movie-parser](https://github.com/dynamite-ready/movie-parser) or [practical-ai-autodetecting-nsfw](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
 * [ChadGuard](https://github.com/LaGuerrePiece/ChadGuard) - Porn Blocking Extension
