@@ -19,6 +19,7 @@
 * ⭐ **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)** - Organize Ideas / Projects
 * ⭐ **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** or [Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manual_sites) - Repair Articles / Manuals
 * ⭐ **[Shopping Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)** - Shopping / Price Tracking
+* ⭐ **[USPS Shipping Supplies](https://store.usps.com/store/results/free-shipping-supplies/_/N-alnx4j)** - Free Shipping Supplies
 * ⭐ **[TurboTaxSucksAss](https://turbotaxsucksass.org/)**, [US Taxes](https://ustaxes.org/) or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free / [Get IP Pin](https://youtu.be/iPw8I-cZ1eY)
 * ⭐ **[BeMyEyes](https://www.bemyeyes.com/)** - Assist the Visually Impaired
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - Open-Source Tools
@@ -168,9 +169,10 @@
 * [Text File Splitter](https://textfilesplitter.com/) - Text File Splitter
 * [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - Rephrase / Paraphrase Text
 * [Neble](https://neble.app/summary) - Summarize Text
-* [Linguix](https://linguix.com/), [HyperWrite](https://hyperwriteai.com/) or [TextCleanr](https://www.textcleanr.com/) - Writing Assistant
+* [Linguix](https://linguix.com/), [HyperWrite](https://hyperwriteai.com/) or [TextCleanr](https://www.textcleanr.com/) - Writing Assistants
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
-* [](http://cliche.theinfo.org/) - Detect Cliché's
+* [GLTR](http://gltr.io/dist/index.html) or [openai-detector](https://huggingface.co/openai-detector/) - Detect AI Written Text
+* [Cliche Info](http://cliche.theinfo.org/) - Detect Cliché's
 * [phraseup](http://www.phraseup.com/) - Autocomplete Common Phrases
 * [SongLyricsGenerator](http://www.songlyricsgenerator.com/) or [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) - Generate Fake Song Lyrics
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
@@ -207,7 +209,7 @@
 * [The Pirate Translator](https://pirate.monkeyness.com/translate) - Translate Text to Pirate
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
 * [typ3r](https://typ3r.aavi.me/) - tRaNSlAtE tEXT lik3 THiS
-* [Gematrinator](https://www.gematrinator.com/calculator/index.php) - Gematria Calculator
+* [Gematrinator](https://www.gematrinator.com/calculator/index.php) or [Gematrix](https://www.gematrix.org/) - Gematria Calculators
 * [SoftMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
 * [Delim](https://delim.co/) - Comma Separating Tool
 * [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - Create Parallel Text Web
@@ -293,7 +295,7 @@
 * ⭐ **[Multi-Site Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)**
 * ⭐ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)**
 * ⭐ **[OBS](https://obsproject.com/)**, [Streamlabs-OBS](https://github.com/stream-labs/streamlabs-obs), [SteamLabs](https://streamlabs.com/), [Restream](https://restream.io/), [Twitch Studio](https://www.twitch.tv/broadcast/studio) or [TwitchChat](https://twitchat.fr/) - Live Stream Managers
-* ⭐ **OBS Tools** - [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT) / [Effects](https://github.com/Xaymar/obs-StreamFX) 
+* ⭐ **OBS Tools** - [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT) / [Effects](https://github.com/Xaymar/obs-StreamFX) / [Phone Controller](https://github.com/Kounex/obs_blade)
 * ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Video / Audio Recorder, Converter & Streaming / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ffmpeg_tools)
 * [VideoTuts](http://videotuts.ru/) - Video Design Tutorials / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - Professional Video, Audio & Adobe Software / Plugins
@@ -699,7 +701,7 @@
 * [AngelLIst](https://angel.co/) - Startup Community
 * [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) or [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - Startup Submission Sites
 * [LeanTime](https://leantime.io/) - Project / Delivery Manager
-* [namelix](https://namelix.com/) - Business Name Generator
+* [namelix](https://namelix.com/) or [looka](https://looka.com/business-name-generator) - Business Name Generator
 * [Business Card Generator](https://business-card-generator.vercel.app/) - Generate Business Cards 
 * [learn-to-cloud](https://learntocloud.guide/) - Cloud Computing Fundamentals / [GitHub](https://github.com/learntocloud/learn-to-cloud)
 * [Cyberseek](https://www.cyberseek.org/index.html) - Cybersecurity Job Market Info
@@ -730,6 +732,7 @@
 * [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) - Send TradingView Alerts to Various Apps / [Index](https://github.com/pAulseperformance/awesome-pinescript)
 * [neostox](https://neostox.com/) - Practice Stock Trading
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
+* [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) - Determine Compund Interest Money Growth
 * [GamestonkTerminal](https://github.com/GamestonkTerminal/GamestonkTerminal) or [OpenBB Terminal](https://openbb.co/) - Investment Research CLI
 * [Crypto Ecosystem 2021](https://docs.google.com/document/d/1RM7AoUKbXEqZ2qATTxGYLMexu3Jxrf3oYiwbsrXOXUQ) - Beginner's Guide to Crypto Ecosystem
 * [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - Crypto Learning Resources
@@ -1042,7 +1045,6 @@
 * [Yandex Search Operator Cheat Sheets](https://yandex.com/support/direct/keywords/symbols-and-operators.html), [2](https://seosly.com/yandex-search-operators/), [3](https://seranking.ru/blog/seo/operatory-poiska-yandex/)
 * [rfc.fyi](https://rfc.fyi/) - RFC Search
 * [CrunchBase](https://www.crunchbase.com/) - Company Info Search
-* [Employees hunter](https://hunter.io/) - Company Employee Email Search
 * [judyrecords](https://www.judyrecords.com/) - US Court Case Search
 * [Is it big?](https://isitbig.org/) - Brand Corporation Connection Search
 * [Matrix](https://matrix.itasoftware.com/) - Airfare Search
@@ -1334,6 +1336,7 @@
 * [Discord Text to Emoji](https://jtprince.com/discord/) - Emoji Discord Text
 * [Discord Splitter](https://hoodedice.github.io/discord-splitter/) - Discord Wall of Text Splitter
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - Automod Bot Config
+* [Multi-Accounts 1 Email](https://rentry.co/altmethod) - How-to Create Multiple Accounts on One Email
 * [Dyno](https://dyno.gg/) - Change Discord Discriminator w/o Nitro / [How-To](https://i.imgur.com/lHRD42c.png) 
 * [Discord.ID](https://discord.id/) - Lookup a Discord User or Bot ID 
 * [Discord Markdown Cheatsheet](https://pbs.twimg.com/media/EhCUbVnWAAE5tHx?format=png&name=900x900), [2](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-), [3](https://c.r74n.com/discord/formatting) - Discord Markdown Guide
@@ -1364,7 +1367,7 @@
 * [Discordia-Development Wiki](https://github.com/Discordia-Development/wiki) - Discord Moderation Wiki
 * [Discord Moderator Academy](https://discord.com/moderation) - Discord Moderator Guide
 * [Hammertime](https://hammertime.djdavid98.art/), [Discord Timestamps](https://r.3v.fi/discord-timestamps/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Generate Timestamps
-* [SnowStamp](https://pixelatomy.com/snow-stamp/) - Convert Discord Snowflakes to Timestamps
+* [SnowStamp](https://snowsta.mp/) - Convert Discord Snowflakes to Timestamps
 * [ddpe](https://ddpe.androz2091.fr/) - Discord Data Package Explorer / [GitHub](https://github.com/Androz2091/discord-data-package-explorer)
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Datamining Discord changes from the JS files
 * [Discord Previews](https://discord.gg/QMw7gQGMHj) - New Discord Builds / Changes
@@ -1547,7 +1550,7 @@
 * [BetterTTV](https://betterttv.com/) or [FrankerFacez](https://www.frankerfacez.com/) - Twitch Enhancement Extension
 * [Stream Scheme](https://www.streamscheme.com/) - Livestreaming Guides / Resources
 * [Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f) - Twitch Extension Index
-* [Trovo](https://trovo.live/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
+* [Trovo](https://trovo.live/), [Glimesh](https://glimesh.tv/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
 * [twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl), [ClipsGameLab](https://clipsgamelab.github.io/), [Clipr](https://clipr.xyz/), [Twiclips](https://twiclips.com/) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) - Download Twitch Videos / Clips
 * [TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - Recover, View and Download Twitch Videos
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - Lightweight Twitch Webplayer
@@ -1598,7 +1601,7 @@ Twitch Stream Tracker
 * [Awesome Twitter Bots](https://github.com/amandeepmittal/awesome-twitter-bots) - Twitter Bot Index
 * [TumblThree](https://github.com/TumblThreeApp/TumblThree) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumbl Backup Tools
 * [Minimal Twitter](https://www.wang.sh/minimal-twitter) - Minimal Twitter Themes
-* [Tweak New Twitter](https://github.com/insin/tweak-new-twitter) or [twttr](https://github.com/sreechar/twttr) - Twitter Enhancement Extension
+* [Tweak New Twitter](https://github.com/insin/tweak-new-twitter, [Control Panel](https://github.com/insin/control-panel-for-twitter) or [twttr](https://github.com/sreechar/twttr) - Twitter Enhancement Extensions
 * [Twitonomy](https://www.twitonomy.com/) or [Affinitweet](https://affinitweet.com/) - Twitter Dashboard / Analytics 
 * [TweetDeck](https://tweetdeck.twitter.com/) / [Enhance](https://better.tw/) or [Tweeten](https://tweetenapp.com/) - Twitter Dashboard
 * [TweetDuck](https://github.com/chylex/TweetDuck) - Twitter Desktop Client
@@ -1740,6 +1743,7 @@ Twitch Stream Tracker
 * ⭐ **[Windows Optimization](https://rentry.co/mdl-optimize-guide)** - Windows Optimization Guide / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat) / [Resources](https://github.com/BoringBoredom/PC-Optimization-Hub)
 * ⭐ **[Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png)**, [2](https://i.imgur.com/A36Yd7F.png) / [Course](https://keycombiner.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/) or [CheatKeys](https://cheatkeys.com/CheatSheet) - Keyboard Shortcuts
 * ⭐ **[PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/)** / [GitHub](https://github.com/microsoft/PowerToys), [CWCodes](http://cwcodes.net/), [Progress Tools](https://www.progress-tools.x10.mx/), [Guru3D](https://www.guru3d.com/files-categories), [JaxCore](https://jax-core.github.io/) or [JoeWare](https://www.joeware.net/freetools/index.htm) - System Tools
+* ⭐ **[Hackintosh](https://hackintosh.com/)** or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines / [Guide](https://github.com/dortania/macOS-VMware-Guide), [2](https://www.tonymacx86.com/) /  [Installer](https://github.com/huangyz0918/Hackintosh-Installer-University) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) 
 * [Windows Repair Toolbox](https://windows-repair-toolbox.com/) - Windows Multi-Tool App
 * [Espanso](https://espanso.org/) - Typing Shortcuts / [GitHub](https://github.com/federico-terzi/espanso)
 * [TouchCursor](https://sourceforge.net/projects/touchcursor/) - Use Home Keys as Cursor
@@ -1789,9 +1793,6 @@ Twitch Stream Tracker
 * [Virt Machine](https://virt-manager.org/) or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers 
 * [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - Windows XP Virtual Machine
 * [windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in Electron
-* [Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) or [OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines / [Guide](https://github.com/dortania/macOS-VMware-Guide)
-* [Ryzen Hackintosh](https://github.com/mikigal/ryzen-hackintosh) - MacOS VM for Ryzen
-* [XiaoMi NoteBook Pro Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - MacOS VM for XiaoMi NoteBooks
 * [VMWare](https://gist.github.com/rkennesson/2c4595bf062aaab387dccf1210accf98) - Hide Virtual Machine
 * [QuickEmu](https://github.com/wimpysworld/quickemu) or [Dexpot](https://www.dexpot.de/) - Virtual Machine Creator
 * [vBoxSysInfoMod](https://github.com/JayMontana36/vBoxSysInfoMod) - Modify VM System Info
@@ -1799,7 +1800,7 @@ Twitch Stream Tracker
 * [Dockerholics](https://github.com/petersem/dockerholics) - Docker Apps
 * [WebCatalog](https://webcatalog.app/) - Turn Sites into Desktop Apps
 * [Heimdall](https://heimdall.site/) - Application Manager
-* [GParted](https://gparted.org/) or [AOMEI](https://www.diskpart.com/) - Partition Manager
+* [GParted](https://gparted.org/), [CloneZilla](https://clonezilla.org/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
 * [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-P) - Easy GPU Paravirtualization
 * [Gptgen](https://github.com/xorangekiller/gptgen) - MBR Partition Table to GPT Converter
 * [WinCDEmu](https://wincdemu.sysprogs.org/) - CD/DVD/BD Emulator
@@ -1845,7 +1846,7 @@ Twitch Stream Tracker
 * [HWiNFO](https://www.hwinfo.com/) - Hardware Analysis, Monitoring and Reporting
 * [phwmon](https://gitlab.com/o9000/phwmon) - System Tray Hardware Monitor
 * [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
-* [MinimizeToTray](https://github.com/sandwichdoge/MinimizeToTray) - Hide Any Windows to Tray
+* [MinimizeToTray](https://github.com/sandwichdoge/MinimizeToTray), [RBTray](https://github.com/benbuck/rbtray) or [minimize-to-tray](https://sourceforge.net/projects/minimize-to-tray/) - Minimize Any Window to Tray
 * [QDirStat](https://github.com/shundhammer/qdirstat) - Directory Statistics
 * [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) - SMBIOS Generator
 * [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit) - Intel BIOS Settings Explanation
@@ -1987,7 +1988,8 @@ Twitch Stream Tracker
 * [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
 * [DLL Downloader](http://www.dlldownloader.com/), [dll-hub](https://dll-hub.com/), [dlldump](https://dlldump.com/), [dllfile](https://dllfile.net/), [dll4free](https://dll4free.com/), [dllme](https://dllme.com/dll/files/steam_api32_dll.html) or [DLL-Files](https://www.dll-files.com/) - Windows DLL Files
 * [OcxDump](https://ocxdump.com/) - .ocx Files
-* [sven dpi](https://www.sven.de/dpi/) - DPI Calculator 
+* [sven dpi](https://www.sven.de/dpi/) - DPI Calculator
+* [CenterOfMyScreen](https://centerofmyscreen.com/) - Find Center of Monitor
 * [Screen Sizes](https://screensiz.es/) - Screen Size Database
 * [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test
 * [JScreenFix](https://www.jscreenfix.com/) or [UDPixel](http://udpix.free.fr/) - Repair Stuck Pixels
@@ -2177,7 +2179,7 @@ Twitch Stream Tracker
 * [FileInfo](https://fileinfo.com/), [File-Extensions.info](https://file-extensions.info/) or [File-Extensions](https://www.file-extensions.org/) - File Extension Library
 * [download](https://github.com/kevva/download) - File Download Tool / Extractor / [CLI](https://github.com/kevva/download-cli)
 * [DropIt](http://www.dropitproject.com/) or [Organize](https://github.com/tfeldmann/organize) - Automated File Manager
-* [What](https://github.com/bee-san/pyWhat) - Text & File Analyzer
+* [What](https://github.com/bee-san/pyWhat) - Text / File Analyzer
 * [WhoLeaked](https://github.com/utkusen/wholeaked) - File Leak Tracker
 * [DownloadTimeCalculator](https://downloadtimecalculator.com/) - Calculate Time to Download Files
 * [Download Proxy](https://download-proxy.zhaofengying.com/) - File Proxy Server Downloader
@@ -2276,6 +2278,7 @@ Twitch Stream Tracker
 * [HTTPDirfs](https://github.com/fangfufu/httpdirfs) - HTTP File System
 * [mergerfs](https://github.com/trapexit/mergerfs) - Union Filesystem
 * [FolderClone](http://www.folderclone.com/) - Clone / Backup Folders
+* [MultiPar](https://github.com/Yutaka-Sawada/MultiPar) - Prevent File Corruption / [Guide](https://youtu.be/5TsExiAsCXA)
 * [ShadowExplorer](https://www.shadowexplorer.com/) or [ShadowCopyView](https://www.nirsoft.net/utils/shadow_copy_view.html/) - Shadow Copy Explorers
 * [WebFileBrowser](http://cgdave.github.io/webfilebrowser/) or [filebrowser](https://github.com/filebrowser/filebrowser/) - Web File Browser
 * [DocDroid](https://www.docdroid.net/), [DLScrib](https://dlscrib.com/), [iStockFile](http://istockfile.com/) or [Securedrop](https://securedrop.org/) - Document File Sharing
@@ -2332,7 +2335,7 @@ Twitch Stream Tracker
 * [text2img](https://master.ayra.ch/text2img/) - NFO Files to Image Converter
 * [TrueNAS](https://www.truenas.com/) - Storage System
 * [bookmarkfs](https://github.com/CoolElectronics/bookmarkfs) - Exploit Chrome's Profile Sync for Free Cloud Storage
-* [Linx Server](https://github.com/andreimarcu/linx-server) or [FileStash](http://www.filestash.app/) - Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)
+* [Linx Server](https://github.com/andreimarcu/linx-server), [SeaFile](https://www.seafile.com/en/home/) or [FileStash](http://www.filestash.app/) - Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)
 * [Linux Reader](https://www.diskinternals.com/linux-reader/) - Access Linux Files on Windows
 
 ***
