@@ -257,6 +257,7 @@
 
 ## ▷ ROM Archives
 
+* ⭐ **[Myrient](https://myrient.erista.me/)** - ROMs
 * ⭐ **[No-Intro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_no-intro)** - ROMs
 * ⭐ **[AlvRo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_alvro)** - ROMs / pw: ByAlvRo
 * ⭐ **[RomCenter](https://r-ROMs.github.io/)**, [2](https://pastelink.net/24dhn) - ROMs / [Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_romcenter)
