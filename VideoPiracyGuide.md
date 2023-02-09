@@ -43,6 +43,7 @@
 * [Plex](https://watch.plex.tv/) - Movies / TV
 * [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / Library Card Required
 * [KissKH](https://kisskh.me/Explore?type=4) - Movies / TV / Anime
+* [NetFilm](https://net-film.vercel.app/) - Movies / TV / Anime
 * [StreamLord](http://www.streamlord.com/) - Movies / TV
 * [Trailers.to](https://trailers.to/) - Movies / TV / [Bypass Quota](https://openvideofs.github.io/)
 * [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://i.imgur.com/Ij8muns.mp4)
@@ -205,7 +206,7 @@
 * ⭐ **[Veoh](https://www.veoh.com/)**
 * ⭐ `site:noodlemagazine.com` (add to search)
 * [PeerTube](https://joinpeertube.org/), [2](https://search.joinpeertube.org/) / [Instances](https://instances.joinpeertube.org/instances)
-* [lbry](https://lbry.tv/) / [App](https://lbry.com/)
+* [lbry](https://lbry.tv/) / [App](https://lbry.com/) / [Frontend](https://codeberg.org/librarian/librarian), [2](https://librarian.pussthecat.org/)
 * [my.mail.ru](https://my.mail.ru/video)
 * [Facebook Videos](https://www.facebook.com/watch/search/?query=fmhy)
 * [Ronemo](https://ronemo.com/)
@@ -903,7 +904,7 @@
 * [TrailerPunk](https://trailerpunk.com/) - Newest Movie Trailers
 * [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Movie / TV / Anime Recommendation Guides
 * [Rotten Tomatoes](https://www.rottentomatoes.com/) - Movies / TV
-* [IMDb](https://www.imdb.com/) or [TMDb](https://www.themoviedb.org/) - Movies / TV / Anime
+* [IMDb](https://www.imdb.com/) / [Frontend](https://libremdb.iket.me/) or [TMDb](https://www.themoviedb.org/) - Movies / TV / Anime
 * [IMDb Tomatoes](https://greasyfork.org/en/scripts/15222-imdb-tomatoes) - Rotten Tomatoes Ratings on IMDb
 * [5000 Best](http://5000best.com/) - 5000 Best Movies
 * [TVDb](https://www.thetvdb.com/) - TV / Anime
