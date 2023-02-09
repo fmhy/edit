@@ -76,7 +76,7 @@
 * [Leetcode](https://leetcode.com/), [2](https://leetcode.ca/) - Learn Coding
 * Leetcode Tools - [Solutions](https://walkccc.me/LeetCode/) / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/edit) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/prius/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode)
 * [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming / Coding Learning Resources
-* [Exercism](https://exercism.org/) or [CS Circles](https://cscircles.cemc.uwaterloo.ca/) - Programming Lessons
+* [Exercism](https://exercism.org/), [HackerRank](https://www.hackerrank.com/) or [CS Circles](https://cscircles.cemc.uwaterloo.ca/) - Programming Lessons
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - Programming Courses
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - Programming Courses
 * [FreeCourses](https://freecourses.github.io/) - Programming Courses
@@ -251,6 +251,7 @@
 * [SREWorks](https://github.com/alibaba/SREWorks) - Operation & Maintenance Platform
 * [the component gallery](https://component.gallery/) - Design Components Gallery
 * [Media Chrome](https://www.media-chrome.org/) - Media Player Elements / [GitHub](https://github.com/muxinc/media-chrome)
+* [Releasenote.ai](https://releasenote.ai/) - Create Release Notes via AI
 * [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - README Template 
 * [codex-readme](https://github.com/tom-doerr/codex-readme) - Generate README with AI
 * [Read the Docs](https://readthedocs.org/), [MkDocs](https://www.mkdocs.org/), [Mintlify](https://mintlify.com/) or [mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - Documentation Creators / [Theme](https://github.com/squidfunk/mkdocs-material)
@@ -1073,7 +1074,7 @@
 * [Decompiler](https://www.decompiler.com/) - Online Decompiler
 * [core-plot](https://github.com/core-plot/core-plot) - Core Plot Source Code / Apps
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) - Livecoding Resources
-* [Telosys](http://www.telosys.org/) - Code Generator
+* [Telosys](http://www.telosys.org/) or [AIAC](https://github.com/gofireflyio/aiac) - Code Generators
 * [tuc](https://github.com/riquito/tuc) - Improved Code Cut
 * [snowbin](https://paste.fmhy.cf/) / [2](https://paste.bignutty.xyz/) / [3](https://paste.taskyy.cf/), [Mystb.in](https://mystb.in/) or [snippet.host](https://snippet.host/) - Code Pastebins
 * [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
