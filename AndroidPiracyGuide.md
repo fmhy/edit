@@ -56,12 +56,11 @@
 * [Leon](https://f-droid.org/packages/com.svenjacobs.app.leon/) - Remove URL Tracking / [GitHub](https://github.com/svenjacobs/leon)
 * [Stealth](https://gitlab.com/cosmosapps/stealth) - Privacy-Based Reddit Frontend
 * [XPrivacyLua](https://lua.xprivacy.eu/) / [GitHub](https://github.com/M66B/XPrivacyLua/) - Privacy Manager
-* [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard&hl=en_US&gl=QA), [AppWarden](https://gitlab.com/AuroraOSS/AppWarden) or [TrackerControl](https://trackercontrol.org/) - App Permissions Tracker
+* [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard), [AppWarden](https://gitlab.com/AuroraOSS/AppWarden) or [TrackerControl](https://trackercontrol.org/) - App Permissions Tracker
 * [Exodus](https://reports.exodus-privacy.eu.org/en/), [TrackerControl](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) or [HideDroid](https://github.com/Mobile-IoT-Security-Lab/HideDroid) - Android App Tracker / Permission Index / [APK](https://github.com/Exodus-Privacy/exodus-android-app)
 * [LibChecker](https://github.com/zhaobozhen/LibChecker) - View App Third-Party Libraries
 * [OSS Release Tracker](https://github.com/jroddev/android-oss-release-tracker) - Open Source App Update Tracker
 * [Sapio](https://github.com/jonathanklee/Sapio) - Scan Apps for Google Dependency
-* [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard) - Android 12-like Privacy Dashboard / [GitHub](https://github.com/RushikeshKamewar/PrivacyDashboard)
 * [NetGuard](https://www.netguard.me/) - Block Internet Access Per App 
 * [AirGuard](https://github.com/seemoo-lab/AirGuard) - AirTag Tracking Protection
 * [Fake Contacts](https://github.com/BillDietrich/fake_contacts) - Generate Fake Contacts
@@ -140,6 +139,7 @@
 * [PhoenixOS - BR](https://discord.gg/BQ4td84) - Android Desktop OS
 * [PhoenixOS Darkmatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)
 * [AOPC](https://aopc.dev/) - Android Desktop OS Forums
+* [Docker Android](https://github.com/budtmo/docker-android) - Android in Docker
 * [Nox](https://www.bignox.com/) - [Screenshot](https://i.imgur.com/VuFLWbW.jpg) / [Debloat Guide](https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/) / [Video](https://youtu.be/IjI_-pQUOhQ)
 * [GameLoop](https://www.gameloop.com/) - [Screenshot](https://i.imgur.com/dLrEXCJ.png)
 * [MuMu](https://www.mumuglobal.com/) - [Screenshot](https://i.imgur.com/D8BBerb.png)
@@ -240,6 +240,7 @@
 * [Arcticons](https://arcticons.onnno.nl/) - Monotone Icon Pack
 * [IconRequest](https://github.com/Kaiserdragon2/IconRequest) - Find Missing Icons
 * [TxtNet Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - Browse Webpages via SMS
+* [Free Basics](https://play.google.com/store/apps/details?id=com.freebasics) - Use Apps via SMS
 * [MobiDevTools](https://addons.mozilla.org/en-US/firefox/addon/mobidevtools/) - Firefox Inspect Element
 * [FreeBrowser](https://freebrowser.org/) - Internet Censorship Circumvention / [Wiki](https://github.com/greatfire/wiki)
 * [InstantBridge](https://instabridge.com/) - Public WiFi Sharing Community
@@ -312,17 +313,18 @@
 * [BBTV](https://github.com/bttv-android/bttv), [Frosty](https://www.frostyapp.io/) or [Orange TV](https://gitlab.com/twitchmod/orange-tv) - Modded Twitch App
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - Reddit Video Downloader
-* [Boost](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_boost), [Joey](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_joey), [Dawn](https://github.com/Tunous/Dawn), [Flex](https://play.google.com/store/apps/details?id=ai.brownian.flex4reddit), [BaconReader](https://baconreader.com/) or [Relay](https://relayforreddit.com/index.html) - Reddit Client
+* [Boost](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_boost), [Joey](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_joey), [Dawn](https://github.com/Tunous/Dawn), [Flex](https://play.google.com/store/apps/details?id=ai.brownian.flex4reddit), [BaconReader](https://baconreader.com/) or [Relay](https://relayforreddit.com/index.html) - Reddit Clients
+* [Offline Reddit](https://play.google.com/store/apps/details?id=yy.offlinereader) - Offline Reddit Client
 * [reveddit](https://play.google.com/store/apps/details?id=com.agreenbhm.reveddit) - View Deleted Reddit Posts
 * [Lemmur](https://github.com/krawieck/lemmur) or [Jerboa](https://github.com/dessalines/jerboa) - Lemmy Client
 * [Uploadgram App](https://github.com/pato05/uploadgram-app) - Uploadgram Frontend
-* [Instander](https://thedise.me/instander/) - Modded Instagram Client / [Telegram](https://t.me/instander)
+* [Instander](https://thedise.me/instander/) - Modded Instagram Client / [Telegram](https://t.me/instander) / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android) / [Secrets](https://ngl.link/) 
 * [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) - Feature-rich Facebook Client
 * [Frost](https://f-droid.org/en/packages/com.pitchedapps.frost/) or [SlimFacebook](https://f-droid.org/en/packages/it.rignanese.leo.slimfacebook/) - Facebook Webwrapper
 * [NoFBEventScraper](https://github.com/akaessens/NoFbEventScraper) - Scrape Facebook for Events without Account
 * [SlimTwitter](https://f-droid.org/en/packages/it.rignanese.leo.slimtwitter/) - Twitter Webwrapper
 * [Shitter](https://github.com/nuclearfog/Shitter) or [Harpy](https://github.com/robertodoering/harpy) - Twitter Client
-* [NGL](https://ngl.link/) - Instagram Secret Sharing App
+* [Creator Studio](https://play.google.com/store/apps/details?id=com.facebook.creatorstudio) - Social Media Manager
 * [Google Lens](https://lens.google/) - Multiple Camera Tools
 * [FreeDcam](https://github.com/KillerInk/FreeDcam) - Enable Hidden Camera Features
 * [Photok](https://github.com/leonlatsch/Photok), [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/), [Stingle Photos](https://stingle.org/), [Ente](https://ente.io/) or [No See You](https://baixarapk.gratis/en/app/1186829987/photo-vault-noseeyou) - Photo / Video Galleries
@@ -334,7 +336,7 @@
 * [PhotoRoom](https://www.photoroom.com/) or [AI Background Remover](https://play.google.com/store/apps/details?id=com.utopiatechnologies.aibgremover) - Background Removers
 * [Dittoed](https://dittoed.app/) - Improve Image Composition
 * [Pixelify-Google-Photos](https://github.com/BaltiApps/Pixelify-Google-Photos) - Add Google Pixel Features to Google Photos
-* [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera), [DMGC](https://thedise.me/dmgc/) or [Camator](https://gcamator.com/) - Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/)
+* [SGCam](https://t.me/googlecameramodbyshamimdg), [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera), [DMGC](https://thedise.me/dmgc/) or [Camator](https://gcamator.com/) - Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/) / [XML Configs](https://t.me/xmlshamimmod)
 * [Libre Camera](https://github.com/iakmds/librecamera) - FOSS Camera App
 * [ANXCamera](https://camera.aeonax.com/) - Miui Camera Port 
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)
@@ -342,7 +344,7 @@
 * [Colorize It](https://play.google.com/store/apps/details?id=com.reaimagine.colorizeit), [Phototune](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_phototune) or [Remini](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_remini) / [2](https://play.google.com/store/apps/details?id=com.photoscan.enhancer.remini.photomyne.colorize.scanner) - Colorize Images
 * [Dream](https://www.wombo.art/) - Dream Artwork Tools
 * [Photo Lab](https://ilixa.com/8bitphotolab.php) - Give Images a Retro Look 8Bit
-* [starryai](https://play.google.com/store/apps/details?id=com.starryai) - Generate Art from Text Prompt
+* [starryai](https://starryai.com/) - Generate Art from Text Prompt
 * [Photo Resizer](https://play.google.com/store/apps/details?id=com.simplemobilephotoresizer&hl=en&gl=US) - Image Resizer
 * [Imagepipe](https://codeberg.org/Starfish/Imagepipe) - Image Size Reducer
 * [Upscaler](https://play.google.com/store/apps/details?id=com.ethanzone.upscaler&hl=en_US&gl=QA), [Pixelup](https://play.google.com/store/apps/details?id=com.codeway.pixelup), [MintAI](https://play.google.com/store/apps/details?id=com.mingkun.mintAI) or [Galaxy Enhance-X](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/galaxy-enhance-x/) - Image Upscalers
@@ -373,7 +375,7 @@
 * [TextMeUp](http://www.textmeup.com/) - Multi-Number App
 * [TxtEmNow](https://txtemnow.com/) - Send Anonymous Texts
 * [AirMessage](https://github.com/airmessage/airmessage-android) or [BlueBubbles](https://bluebubbles.app/) - iMessage for Android
-* [Kubool](https://www.gdpd.xyz/) - Anonymous Confession App
+* [Kubool](https://www.gdpd.xyz/) - Anonymous Confession App / [Snapchat](https://play.google.com/store/apps/details?id=com.ignates.snapreply)
 * [Encirculo](https://encirculo.org/en/) - Community Safety Network
 * [Nomad](https://www.nomadapp.me/) - Turn Any Location Into Chat
 * [OpenInWA](https://github.com/SubhamTyagi/openinwa) or [Tellurium](https://play.google.com/store/apps/details?id=com.quadren.tellurium) - Number Free WhatsApp Chat
@@ -544,6 +546,7 @@
 * [APKTurbo](https://www.apkturbo.com/) - Untouched
 * [Androidrey](https://androidrey.com/) - Untouched
 * [Top Androids](https://top-androids.com/) - Untouched
+* [APK Thing](https://www.apkthing.com/) - Untouched
 * [APK Award](https://apkaward.com/) - Untouched
 * [9Apps](https://www.9apps.com/) - Untouched
 * [APKGit](https://apkgit.co/) - Untouched
@@ -569,6 +572,7 @@
 * [ApkModsApp](https://apkmodsapp.com/) - Modded
 * [Android1](https://an1.com/) - Modded
 * [HappyMod](https://www.happymod.com/) - Modded
+* [ModAndroidAPK](https://modandroidapk.com/) - Modded
 * [DZAPK](https://dzapk.com/) - Modded
 * [Apk4All](https://apk4all.com/) - Modded
 * [ModderWeb](https://modderweb.com/) - Modded
@@ -580,6 +584,7 @@
 * [5Play](https://5play.ru/en/) - Modded
 * [iHackedit](http://ihackedit.com/) - Modded
 * [Modules Repositor](https://t.me/modulesrepo) - Modded
+* [APKsDoz](https://apksdoz.com/) - Modded
 * [APK Boat](https://apkboat.com/en) - Modded
 * [AndroPalace](https://www.andropalace.org/) - Modded
 * [HostAPK](https://www.hostapk.com/) - Modded
@@ -599,6 +604,7 @@
 * [LetsCrackOn](https://letscrackon.org/downloads/) - Modded
 * [APK Folks](https://apkfolks.com/) - Modded
 * [DL King](http://dl.king2net.com/soft%20android/) - Modded
+* [RioAPK](https://rioapk.com/) - Modded
 * [APK Bolt](https://apkbolt.com/) - Modded
 * [ModApk.Cloud](https://modapk.cloud/) - Modded
 * [Rockmods](https://www.rockmods.net/) - Modded
@@ -626,6 +632,7 @@
 * [ProSmart](https://prosmart.by/) - Modded
 * [ModFavor](https://modfavor.com/) - Modded
 * [APKFolder](https://apkfolder.net/) - Modded
+* [APK Out](https://apkout.com/) - Modded
 * [ApkMagic](https://apkmagic.com.ar/) - Modded
 * [ProAPK](https://proapk.in/) - Modded
 * [APKBigs](https://apkbigs.com/) - Modded
@@ -762,11 +769,12 @@
 
 # ► Android Reading
 
+* ⭐ **[Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers)** - List of Multi-Platform eBook Readers
 * ⭐ **[Mobilism](https://forum.mobilism.org/app/)**, [Project Gutenberg](https://github.com/Pool-Of-Tears/Myne) or [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app) - Ebook Site Apps
 * ⭐ **[Librera](http://librera.mobi/)**  - Ebook Reader
 * ⭐ **[Tachiyomi](https://tachiyomi.org/)** - Manga / Comic Reader
 * ⭐ **Tachiyomi Tools** - [Github Releases](https://github.com/tachiyomiorg/tachiyomi) / [Forks](https://tachiyomi.org/forks/#forks) / [Discord](https://discord.com/invite/tachiyomi) / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/)
-* [EBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers) - List of eBook Readers
+* [Openreads](https://f-droid.org/en/packages/software.mdev.bookstracker/) or [Basmo](https://basmo.app/) - Book Managers / Trackers
 * [MoonDownload](http://www.moondownload.com/) - Ebook Reader
 * [CoolReader](https://apt.izzysoft.de/fdroid/index/apk/org.coolreader) - Ebook Reader
 * [BookReader](https://f-droid.org/en/packages/com.github.axet.bookreader/) - Ebook Reader
@@ -806,7 +814,6 @@
 * [IReader](https://github.com/IReaderorg/IReader) - Light Novels
 * [QuickNovel](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.quicknovel) - Light Novels
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - Borrow Digital Library Books
-* [Openreads](https://f-droid.org/en/packages/software.mdev.bookstracker/) - Book Manager / Tracker
 
 ***
 
@@ -995,7 +1002,7 @@
 * [SwiftStreams](http://swiftstreamz.com/)
 * [SonyLiv (Modded)](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sonyliv)
 * [hifi2007reviews](https://hifi2007reviews.com/) - IPTV / Firestick APKs
-* [OTTRun](https://www.ottrun.com/) or [Xstream Player](https://play.google.com/store/apps/details?id=com.devcoder.iptvxtreamplayer) - IPTV Players
+* [OTTRun](https://www.ottrun.com/), [Tiwee](https://github.com/neffex97/Tiwee) or [Xstream Player](https://play.google.com/store/apps/details?id=com.devcoder.iptvxtreamplayer) - IPTV Players
 
 ***
 
@@ -1102,7 +1109,7 @@
 # ► iOS Tools
 
 * ⭐ **[Hyperweb](https://hyperweb.app/)** - iOS Safari Improvement + Adblock Extension
-* ⭐ **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites & Apps
+* ⭐ **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites / Apps
 * [Waltr](https://softorino.com/waltr/) - Convert Files to iOS Formats
 * [Filza](http://cydia.saurik.com/package/com.tigisoftware.filza/) or [Santander](https://github.com/SerenaKit/Santander) - File Managers
 * [Dropbox Premium](https://testflight.apple.com/join/LBZaRq4I) - Cloud Storage
@@ -1159,6 +1166,7 @@
 * [Tailor](http://www.trytailor.com/) - Automatic Screenshot Stitching
 * [ToonMe](https://toonme.com/) - Turn Photos into Cartoons
 * [Fimo](https://apps.apple.com/us/app/fimo-analog-camera/id1454219307) - Vintage Image Filters
+* [Luma AI](https://lumalabs.ai/) - Capture 3D Images
 * [Alderis](https://github.com/hbang/Alderis) - iOS Color Picker
 * [Iterm](https://github.com/kaneki07/iterm) - Terminal Emulator
 * [Universal Control](https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879) - Universal Remote
@@ -1194,6 +1202,7 @@
 * [magicplan](https://apps.apple.com/us/app/magicplan/id427424432) - AR & LiDAR Scanning
 * [Polycam](https://poly.cam/) - 3D Capture Tool
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - Scan & Digitize Documents
+* [ILPDFKit](https://github.com/derekblair/ILPDFKit) - PDF Form Fill Toolkit
 * [Ringtones](https://apps.apple.com/us/app/ringtones-for-iphone-ringtune/id1036141497) - Custom Ringtone Creator
 * [Project Sandcastle](https://projectsandcastle.org/) - Android for the iPhone 
 * [Imgur](https://testflight.apple.com/join/Qd42y5Pw) - Meme & GIF Maker
@@ -1264,19 +1273,20 @@
 * [DeezeLife](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_deezelife) / [2](https://repo.hackyouriphone.org/deezelife) or [Deezer](https://apps.apple.com/app/deezer/id292738169) - Streaming
 * [Trebel](https://home.trebel.io/) - Streaming
 * [SCloudlife](https://repo.hackyouriphone.org/scloudlife) or [Soundcloud](https://apps.apple.com/us/app/soundcloud/id336353151) - Streaming
-* [Musi](https://apps.apple.com/us/app/musi-simple-music-streaming/id591560124) - Streaming / [Music Videos](https://apps.apple.com/us/app/musi-offline-music-videos/id1566988849) 
-* [eSound](https://apps.apple.com/ca/app/esound-music-player-app-mp3/id1224933860) - Streaming 
+* [Musi](https://apps.apple.com/us/app/musi-simple-music-streaming/id591560124) - Streaming / [Music Videos](https://apps.apple.com/us/app/musi-offline-music-videos/id1566988849)
+* [eSound](https://apps.apple.com/ca/app/esound-music-player-app-mp3/id1224933860) - Streaming
 * [Pandolife](https://repo.hackyouriphone.org/pandolife) - Streaming / Modded Pandora
+* [Musi](https://feelthemusi.com/) - Streaming
 * [iMusic](https://apps.apple.com/us/app/imusic-offline-music-player/id1535124961) - Streaming
-* [Audiomack](https://apps.apple.com/ca/app/audiomack-download-new-music/id921765888) - Streaming 
-* [Quorus](https://quorus.net/) - Collaborative Playlists 
+* [Audiomack](https://apps.apple.com/ca/app/audiomack-download-new-music/id921765888) - Streaming
+* [Quorus](https://quorus.net/) - Collaborative Playlists
 * [SongShift](https://songshift.com/) - Playlist Sync
 * [humit](https://www.humit.app/) - Music Sharing App
 * [Qello](https://apps.apple.com/us/app/qello-concerts-live-music/id491069819) - Concerts & Live Music Streaming
 * [‎TuneStalgia](https://apps.apple.com/us/app/tunestalgia/id1561719773) - Music Nostalgia App
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - Download / FLAC / MP3
 * [MP3 Converter](https://apps.apple.com/us/app/mp3-converter-audio-extractor/id1305099161) or [MyMP3](https://apps.apple.com/us/app/mymp3-convert-videos-to-mp3-and-best-music-player/id834818663) - Video to MP3 Converter
-* [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar) - Spotify Release Tracker / Metrics 
+* [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar) - Spotify Release Tracker / Metrics
 * [Boom](https://apps.apple.com/us/app/boom-bass-booster-equalizer/id1065511007) - Audio Equalizer
 * [VOX](https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494) or [Melodista](https://apps.apple.com/us/app/melodista-music-offline-player/id1293175325) - Audio Player
 * [iRetro](https://apps.apple.com/us/app/iretro/id1557178995) or [ClassicPlayer](https://github.com/guillermo-moran/ClassicPlayer) / [2](https://cydia.saurik.com/package/org.thebigboss.classicplayer/)- iPod Classic Audio Player
