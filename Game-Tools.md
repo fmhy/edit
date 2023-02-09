@@ -42,12 +42,17 @@
 * [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
 * [GamingSmart](https://gamingsmart.com/) - Game Sensitivity Converters
 * [hidusbf](https://github.com/LordOfMice/hidusbf) - Mice Overclocking Software
+* [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html) or [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - System Gaming Tweak Guides
+* [ProSettings](https://prosettings.net/) - In-Game Settings Optimization Guides
+* [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/), [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) or [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - Gaming Optimization Guides
+* [Low Specs Experience](https://ragnotechpowered.com/) - Game Optimization Program / [Free Code](https://redd.it/o3eteo)
+* [LinkRunner](https://github.com/romjacket/rj_linkrunner) - Per-Game Settings Manager
+* [DisplayMagician](https://github.com/terrymacdonald/DisplayMagician) - Per-Game Display Profiles
+* [D3 Overrider](https://community.pcgamingwiki.com/files/file/84-d3doverrider/) - Force V-Sync / Triple Buffer
 * [WindowedBorderlessGaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming), [Borderless-Gaming-Tool](https://github.com/r57zone/Borderless-Gaming-Tool) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games
 * [Lossless Scaling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_lossless_scaling) - Windowed Game Scaling
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window
 * [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) / [GitHub](https://github.com/ThirteenAG/WidescreenFixesPack), [Widescreen Fixer v3.4](https://community.pcgamingwiki.com/files/file/1754-widescreen-fixer-v34-r737/) or [Flawless Widescreen](http://www.flawlesswidescreen.org/) - Widescreen Fixes
-* [DisplayMagician](https://github.com/terrymacdonald/DisplayMagician) - Per-Game Display Profiles
-* [LinkRunner](https://github.com/romjacket/rj_linkrunner) - Per-Game Settings Manager
 * [GameCopyWorld](https://www.gamecopyworld.com/games/index.php) - Game Fixes and Patches
 * [GameBurnWorld](http://www.gameburnworld.com/) - No-CD/No-DVD Patches, Game Fixes, Trainers, Cheats 
 * [ogg-winmm](https://github.com/bangstk/ogg-winmm) - CD Audio Emulator
@@ -103,7 +108,7 @@
 * [FrontierNav](https://frontiernav.net/) - JRPG Databases & Interactive Maps
 * [Ethereal Games](https://wiki.etherealgames.com/) - JRPG Wiki
 * [Adventurer's Codex](https://adventurerscodex.com) - Online D&D 5e Campaign Manager / System
-* [DS4Windows](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [Input Remapper](https://github.com/sezanzeb/input-remapper) or [InputMapper](https://inputmapper.com/) - Gamepad Input Tools
+* [DS4Windows](https://github.com/Ryochan7/DS4Windows) / [2](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [Input Remapper](https://github.com/sezanzeb/input-remapper) or [InputMapper](https://inputmapper.com/) - Gamepad Input Tools
 * [ViGEmBus](https://github.com/ViGEm/ViGEmBus) or [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
 * [Xbox for Python](https://github.com/r4dian/Xbox-Controller-for-Python) - Xbox Controller Xinput Module
 * [DsHidMini](https://github.com/ViGEm/DsHidMini) - Use PS3 Controllers on Windows [Guide](https://vigem.org/projects/DsHidMini/How-to-Install/)
@@ -129,10 +134,6 @@
 * [TwitchArchive](https://twitcharchive.com/) - Twitch Video Archive
 * [Before I Play](http://www.beforeiplay.com/) - Tips for any Game 
 * [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - MKW Techniques, Glitches, & Exploits
-* [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html) or [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - System Gaming Tweak Guides
-* [ProSettings](https://prosettings.net/) - In-Game Settings Optimization Guides
-* [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/), [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) or [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - Gaming Optimization Guides
-* [Low Specs Experience](https://ragnotechpowered.com/) - Game Optimization Program / [Free Code](https://redd.it/o3eteo)
 * [Magpie](https://github.com/Blinue/Magpie) - Enable AMD FSR on Any Game / [Tutorial](https://youtu.be/gac7llDa18k)
 * [Moonlight Stream](https://moonlight-stream.org/) or [Rainway](https://rainway.com/gaming) - PC Remote Play Client / [GitHub](https://github.com/moonlight-stream)
 * [Medal](https://medal.tv/) - Nvidia Shadowplay for non Nicosia cards
@@ -173,6 +174,7 @@
 * [GMOD Textures Fix](https://fragboss.com/gmod-textures-fix-css-textures/) - Fix Garry's Mod Textures
 * [EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore) - Elden Ring Fixes
 * [Peter Jackson's King Kong Fix](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix) - Peter Jackson's King Kong Signature Edition Fix
+* [Textractor](https://github.com/Artikash/Textractor) - Extract Text from Games / Visual Novels
 * [FtG UI Mod](https://www.nexusmods.com/dragonage/mods/73) - Make Dragon Age Text Readable
 * [SpinShare](https://spinsha.re/) - Spin Rhythm XD Custom Charts
 * [OrignStubDecrypter](https://github.com/PotatoOfDoom/OriginStubDecrypter) - EA Origins Stub Decrypter
