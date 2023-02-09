@@ -74,6 +74,7 @@
 * [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Computer Science Courses
 * [Learn Computer Science in 1k Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/) - Computer Science Courses
 * [CollegeComendium](https://collegecompendium.goldin.io/) - Computer Science Courses
+* [Computerphile](https://www.youtube.com/@Computerphile/) or [t v nagaraju Technical](https://www.youtube.com/@tvnagarajutechnical9978) - Computer Science YouTube Channels
 * [CSDIY](https://csdiy.wiki/en/) - Computer Science Learning Guide
 * [Bioinformatics](https://github.com/ossu/bioinformatics) - Bioinformatics Courses
 * [sha256_project](https://github.com/oconnor663/sha256_project) - Applied Cryptography Course
@@ -401,6 +402,7 @@ Simulator
 * ⭐ **[Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables)** - Online Periodic Tables / [App](https://jlindemann.se/homepage/atomic/)
 * ⭐ **[LibreTexts Chemistry](https://chem.libretexts.org)** - Chemistry Texts
 * ⭐ **[Internet Chemistry](https://www.internetchemistry.com/search.php)** or [ChemIDplus Advanced](https://chem.nlm.nih.gov/chemidplus/) - Search Index
+* [Chemistry Basics](https://saylordotorg.github.io/text_the-basics-of-general-organic-and-biological-chemistry/index.html) - Basics of General, Organic, and Biological Chemistry
 * [Tyler DeWitt](https://www.youtube.com/user/tdewitt451), [TheOrganicChemistryTutor](https://www.youtube.com/c/TheOrganicChemistryTutor), [Allery Chemistry](https://www.youtube.com/channel/UCPtWS4fCi25YHw5SPGdPz0g), [Khan Academy AP Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta), [Organic Chemistry etext](https://www.chem.ucalgary.ca/courses/351/Carey5th/Carey.html), [ChemistryScore](https://chemistryscore.com/), [PeriodicVideos](https://www.youtube.com/@periodicvideos) / [Periodic Table Videos](http://www.periodicvideos.com) - Chemistry Lessons
 * [ChemicalAid](https://en.intl.chemicalaid.com/) - Chemistry Calculators / Element Tables
 * [ChemgaPedia](https://www.chemgapedia.de/vsengine/en/index.html), [PubChem](https://pubchem.ncbi.nlm.nih.gov/), [MOTM](http://www.chm.bris.ac.uk/motm/motm.htm), [NIST](https://webbook.nist.gov/chemistry/) or [EssentialChemicalIndustry](https://www.essentialchemicalindustry.org/) - Chemistry Wikis
@@ -510,8 +512,8 @@ Simulator
 * [nextrocket.space](https://nextrocket.space/) - List of Upcoming Rocket Launches
 * [Interactive Apollo Missions](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - Apollo in Realtime
 * [Moon.Nasa](https://moon.nasa.gov/) - Explore the Moon
-* [Earth and Moon Viewer](http://www.fourmilab.ch/cgi-bin/Earth) - Earth / Moon Latitude & Longitude Viewer
-* [SunCalc](https://www.suncalc.org/), [ShadowCalculator](http://shadowcalculator.eu/), [FindMyShadow](https://www.findmyshadow.com/) or [MoonCalc](https://www.mooncalc.org/) - Sun & Moon Position / Phase Calculators
+* [Earth and Moon Viewer](http://www.fourmilab.ch/cgi-bin/Earth) - Earth / Moon Latitude and Longitude Viewer
+* [Sun / Moon Position Calculators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sun_.2F_moon_position) - Sun / Moon Position and Phase Calculators
 * [SDO Dashboard](https://sdo.gsfc.nasa.gov/data/dashboard/) - Live Sun Feed
 * [Earth and Sun](https://ciechanow.ski/earth-and-sun/) - Interactive Day-Night Cycles Lesson
 * [CelesTrack](https://celestrak.com/) - Earth Orbit Visualization
@@ -781,7 +783,7 @@ Simulator
 * [Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables) - Online Periodic Tables / [App](https://jlindemann.se/homepage/atomic/)
 * [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
 * [Answers.com](https://www.answers.com/) or [Quora](https://www.quora.com/) / [Bypass](https://github.com/VoidlessVoid7/quora-plus-bypass), [2](https://redd.it/ywml2b) / [Frontend](https://github.com/zyachel/quetre) - Q&A Communities
-* [Edgibot](https://www.edgibot.com/), [Caktus](https://www.caktus.ai/), [Answers Exchange](https://discord.gg/GFp9Rvr), [Get Unstuck](https://socratic.org/), [sarthaks](https://www.sarthaks.com/) or [Brainly](https://brainly.com/) - Homework Help Bots / Communities
+* [Edgibot](https://www.edgibot.com/), [Tutorly](https://tutorly.ai), [Caktus](https://www.caktus.ai/), [Answers Exchange](https://discord.gg/GFp9Rvr), [Get Unstuck](https://socratic.org/), [sarthaks](https://www.sarthaks.com/) or [Brainly](https://brainly.com/) - Homework Help Bots / Communities
 * [Chegg Answers](https://www.istaunch.com/how-to-get-chegg-answers-for-free/#2_Free_Chegg_Answers_by_iStaunch), [2](https://creativesavantz.com/how-to-access-chegg-solutions-for-free/), [3](https://litanswers.net/get-free-chegg-answers/), [4](https://techpanga.com/free-chegg-answer/), [5](https://trickswire.com/free-chegg-answers/), [6](https://www.rootupdate.com/free-chegg-answers/), [7](https://homeworkify.net/) - Chegg Answers
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
 * [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
@@ -803,7 +805,8 @@ Simulator
 * [Lucid](https://apps.apple.com/us/app/lucid-learn-visually/id1482780647) - Visual Learning Guides / iOS
 * [Stuack](https://github.com/isanchop/stuhack) - Premium Study Notes
 * [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
-* [The SAT: Practice Tests](https://satsuite.collegeboard.org/sat/practice-preparation/practice-tests) - SAT Practice Tests
+* [SAT Curriculums](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sat_curriculum) - Previous SAT Curriculums
+* [The SAT: Practice Tests](https://satsuite.collegeboard.org/sat/practice-preparation/practice-tests) - SAT Practice Exams
 * [SAT Reading](https://rentry.co/satreading) - Suggested SAT Reading
 * [SAT_Files_discussion](https://t.me/SAT_Files_discussion) - SAT Exam Discussion
 * [Examveda](https://www.examveda.com/) or [Aglasem](https://aglasem.com/) - Exam Practice
@@ -893,11 +896,12 @@ Simulator
 * [SkillsYouNeed](https://www.skillsyouneed.com/) or [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
 * [VisualizeValue](https://archivve.visualizevalue.com/) - Life Lesson Visualizations
 * [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
+* [/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/), [explainlikeimfive.io](https://explainlikeimfive.io/) or [ELI5 Club](https://eli5.club/) - Have Anything Explained Very Simply
 * [The XY Problem](https://xyproblem.info/) - XY Problem Explained
 * [50Hacks](https://50hacks.co/) - Productivity Tips
 * [Social Engineers](https://www.socialengineers.net/) - Social Engineering Guides
-* [TheChessWebsite](https://www.thechesswebsite.com/) - Chess Strategy & Analysis
-* [Chess Tempo](https://chesstempo.com/) - Play & Learn Chess
+* [TheChessWebsite](https://www.thechesswebsite.com/) - Chess Strategy / Analysis
+* [Chess Tempo](https://chesstempo.com/) - Play / Learn Chess
 * [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - Wood Working Guides & Articles
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots 
 * [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Art cyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](http://wolfmanmuseum.org/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collections
