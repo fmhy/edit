@@ -104,8 +104,6 @@
 * [Cyberlife](https://cyberpunk-life.neocities.org/) - Cyberpunk-Related Content / Sites Index 
 * [sourcehut](https://sr.ht/) - Public Project Index
 * [PiracyBank](https://piracybank.org/websites) - List of sites tagged for copyright, mostly dead 
-* [Movim](https://movim.eu/) - Decentralized Social Network 
-* [Fediverse](https://fediverse.party/), [Libranet](https://libranet.de/) or [Fediverse Observer](https://mastodon.fediverse.observer/) - Federated Social Networks / [Resources](https://github.com/emilebosch/awesome-fediverse)
 * [Creamy's Homemade List](https://docs.google.com/document/d/1t10VI-sccy1CfAeMZHwmCS_7agIHFo_B5ipMjzsMtTg/edit) / [2](https://web.archive.org/web/20191130224152/https://pastebin.com/3e2RddP5), [ImageBoards](https://imageboards.net/), [Chan List](https://archive.is/Npzwl) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - Imageboard Index
 * [imageboards.json](https://gitgud.io/iblist/imageboards.json) or [textboards.json](https://gitgud.io/iblist/textboards.json) - Image / Textboard .json
 * [DeepAI](https://deepai.org/), [Futurepedia](https://www.futurepedia.io/), [RunawayML](https://runwayml.com/) or [AI Creator Tools](https://library.phygital.plus/) - AI Tool Indexes
@@ -227,6 +225,9 @@
 * [Car.com](https://www.cars.com/research/compare/ ), [Vehicle Rankings](https://cars.usnews.com/cars-trucks/rankings), [Motor1](https://www.motor1.com/reviews/) or [Edmunds](https://www.edmunds.com/car-reviews/) - Vehicle Reviews / Comparisons
 * [carsized](https://www.carsized.com/) - Vehicle Size Comparisons
 * [CamelCamelCamel](https://camelcamelcamel.com/) or [Keepa](https://keepa.com/) - Amazon Price Tracker / [App](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno)
+* [Randomicle](https://randomicle.com/) - Random Amazon Products
+* [FairGame](https://github.com/Hari-Nagarajan/fairgame) - Automatically Place Orders on Amazon
+* [Facebook Ad Library](https://www.facebook.com/ads/library/) - Find Deals via Facebook Ad Search
 * [EpicGamesDC](https://epicgamesdb.info/) - Epic Store Price Tracker
 * [DekuDeals](https://www.dekudeals.com/) or [NTDeals](https://ntdeals.net/) - Switch Game Price Trackers
 * [PS Deals](https://psdeals.net/) - PlayStation Game Price Tracker
@@ -235,7 +236,6 @@
 * [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones / Prices
 * [Pepper](https://www.pepper.com/) - Shopping Community
 * [SlyToday](https://slytoday.com/) - Price Comparison Search
-* [FairGame](https://github.com/Hari-Nagarajan/fairgame) - Automatically Place Orders on Amazon
 * [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
 * [GPUDrops](https://gpudrops.com/) / [Discord](https://discord.gg/gpudrops), [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
 * [Craftie](https://www.craftle.app/) - Furniture Price Calculator
@@ -318,7 +318,9 @@
 * [ASCII Roulette](https://github.com/dialup-inc/ascii) - Random ASCII Chat Rooms
 * [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
 * [Tapology](https://www.tapology.com/) - Make MMA Fight Picks
-* [Awesome Lego](https://github.com/ad-si/awesome-lego) - Lego Resource Index 
+* [Roadside America](https://www.roadsideamerica.com/) - Roadside Attraction Index
+* [Roller Coaster Database](https://rcdb.com/) - World Roller Coaster Index
+* [Awesome Lego](https://github.com/ad-si/awesome-lego) - Lego Resource Index
 * [BrickLink Studio](https://www.bricklink.com/v2/build/studio.page) - Lego Building Software
 * [Brickit](https://brickit.app/) - Scan Lego Collection for Build Ideas
 * [Building Instructions](https://www.lego.com/en-us/service/buildinginstructions) - Download Lego Instructions
@@ -332,7 +334,7 @@
 * [PenPal World](https://www.penpalworld.com/) or [GlobalPenFriends](https://www.globalpenfriends.com/) - Pen Pal Community
 * [PostSecret](https://postsecret.com/) - Share Secrets via Postcard
 * [This Is Sand](https://thisissand.com/) - Make Sand Art 
-* [Orb.Farm](https://orb.farm/) - Virtual Aquatic Ecosystem 
+* [Orb.Farm](https://orb.farm/) - Virtual Aquatic Ecosystem
 * [Bouncy Balls](https://bouncyballs.org/) or [Balls Simulation](http://ricktu288.github.io/balls-simulation/) - Ball Physics Simulator
 * [Fluid Simulation WebGL](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) or [WebGL Fluid Experiment](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/) - Fluid Simulation
 * [WebGL Water](http://madebyevan.com/webgl-water/) - Water Simulation 
@@ -380,7 +382,8 @@
 * [DownloadHardware](https://downloadhardware.com/) - Download Computer Hardware 
 * [The Restart Page](http://www.therestartpage.com/) - Vintage Operating System Reboots
 * [Hair on Screen](https://chrome.google.com/webstore/detail/hair-on-screen/egkikapjpndmjflbjjoondbihalgdjco) - Fake Hair on Screen Prank
-* [Hacktyper](https://hackertyper.net/), [Hoacks](https://hoacks.com/) or [Geektyper](https://geektyper.com/) - Fake Hacking Screen 
+* [Hacktyper](https://hackertyper.net/), [Hoacks](https://hoacks.com/) or [Geektyper](https://geektyper.com/) - Fake Hacking Screen
+* [OpenScope](https://www.openscope.co/) - Air Traffic Control Simulator
 * [Busy Simulator](https://busysimulator.com/) - Pretend You're Busy
 * [Peter Answers](https://www.peteranswers.com/) - Create Fake Questions & Answers / [Tutorial](https://peteranswers.info/peter-answers-hack) 
 * [Deep Fried Web](https://deepfriedweb.mschfmag.com/) - Deep Fry Web Pages
@@ -437,7 +440,6 @@
 * [Instructables](https://www.instructables.com/) - Free Projects / Crafts 
 * [Toys from Trash](http://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys 
 * [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
-* [Roadside America](https://www.roadsideamerica.com/) - Roadside Attraction Index
 * [deardiary](https://deardiary.wtf/) - Machine Learning Diary / [Concept Video](https://youtu.be/Zc3qayGmYZQ) 
 * [Bad Licenses](https://github.com/ErikMcClure/bad-licenses) - Funny Open Source Licenses Index
 * [Classic GTA Sites](https://classicgtasites.com/) - Original GTA Site Recreations
@@ -897,9 +899,11 @@
 * [Online Psych Services](https://redd.it/nryig4) - Centers Offering Free Online Psych Services
 * [babycenter](https://www.babycenter.com/) - Pregnancy and Parenting Resources
 * [Pregnancy Calculatorhttps://americanpregnancy.org/resources/pregnancy-calculator/) - Due Date Calculator
+* [DoItRight](https://doitright.ph/) or [Scarleteen](https://www.scarleteen.com/) - Sex Education Resources
 * [Euki](https://eukiapp.com/) - Sexual / Reproductive Health App
-* [Abortion Resources](https://redd.it/phrcrn) / [2](https://redd.it/vm56bs) - Abortion Resource Indexes
+* [Abortion Resources](https://redd.it/phrcrn) / [2](https://redd.it/vm56bs), [PlannedParenthood](https://www.plannedparenthood.org/) or [Safe2Choose](https://safe2choose.org/) - Abortion Resources
 * [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics
+* [WomenOnWeb](https://www.womenonweb.org/) - Free Abortion Pills
 * [AS Resources](https://www.everydaybattle.com/resources/) - Ankylosing Spondylitis Resources
 * [Drip](https://bloodyhealth.gitlab.io) - Open Source E2EE Period Tracking App
 * [What Dogs Can Eat](https://www.pawmenow.com/what-dogs-can-eat/) - Search Safe Human Food for Dogs
@@ -965,8 +969,7 @@
 * [AbandonedRails](https://www.abandonedrails.com/) - Abandoned Railway Map
 * [Earth](https://earth.nullschool.net/) - Global Map of Wind, Weather, Ocean & Pollution Conditions
 * [Blitzortung](https://www.blitzortung.org/en/live_lightning_maps.php) - Thunderstorm and Lightning Maps
-* [SunCalc](https://www.suncalc.org/) or [MoonCalc](https://www.mooncalc.org/) - Sun & Moon Position / Phase Calculators 
-* [Shadowmap](https://app.shadowmap.org/) or [ShadeMap](https://shademap.app/) - Solar Shadow Map
+* [Sun / Moon Position Calculators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sun_.2F_moon_position) - Sun / Moon Position and Phase Calculators
 * [Wikimapia](http://wikimapia.org/) - Online Editable Map
 * [AmCharts](https://www.amcharts.com/svg-maps/) - SVG Maps
 * [MapSCII](https://github.com/rastapasta/mapscii) - Braille & ASCII World Map
@@ -1029,7 +1032,7 @@
 * [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sound Map
 * [Notable People](https://tjukanovt.github.io/notable-people) or [People Map](https://pudding.cool/2019/05/people-map/) - Notable People Maps
 * [NUKEMAP](https://nuclearsecrecy.com/nukemap/) or [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Interactive Damage Effect Maps
-* [convert_lat_long](https://andrew.hedges.name/experiments/convert_lat_long/) - Convert Latitude/Longitude to Decimal 
+* [convert_lat_long](https://andrew.hedges.name/experiments/convert_lat_long/) - Convert Latitude/Longitude to Decimal
 * [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - Dialect Map
 * [What3Words](https://what3words.com/) - 3 Word Address'
 * [Hate Map](http://splcenter.org/hate-map) - Hate Group Map
@@ -1170,6 +1173,7 @@
 * ⭐ **[Privacy Pass](https://privacypass.github.io/)** - Skip Captchas 
 * ⭐ **[Dark Reader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) or [222](https://github.com/x08d/222) - Dark Mode 
 * [Into The Black Hole](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_into_the_black_hole) - Dark Mode Browser Theme
+* [Browser Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - Browser Automation Extensions
 * [Buster](https://github.com/dessant/buster) or [NopeCHA](https://nopecha.com/) - Auto Captcha Solvers
 * [Omni](https://github.com/alyssaxuu/omni) - Bookmark, Tab & History Manager
 * [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [VimC](https://github.com/1995eaton/chromium-vim), [Web Search Navigator](https://github.com/infokiller/web-search-navigator) or [Vimium C](https://github.com/gdh1995/vimium-c) - Keyboard Shortcuts 
@@ -1265,7 +1269,6 @@
 * [Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)
 * [Favicon Detector](https://github.com/BlackGlory/favicon-detector) - Detect Website Favicons
 * [behind!](https://github.com/kubuzetto/behind) - View Background Images
-* [Automa](https://www.automa.site/) - Browser Task Automation
 * [UI.Vision RPA](https://ui.vision/) - Workflow Automation  
 * [AugmentedSteam](https://augmentedsteam.com/) - Steam Enhancement suite 
 * [Steam Database](https://steamdb.info/extension/) - Adds Steam Database Link to Steam Community & Store 
@@ -1397,7 +1400,6 @@
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - Smooth Key Scrolling
 * [Wheel Smooth Scroller](https://chrome.google.com/webstore/detail/chromium-wheel-smooth-scr/khpcanbeojalbkpgpmjpdkjnkfcgfkhb?hl=en) - Smooth Scrolling
 * [Get RSS Feed URL](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn) - RSS Feed Generator
-* [Headless-Recorder](https://github.com/checkly/headless-recorder) or [automa](https://github.com/kholid060/automa) - Browser Automation
 * [NudgeWare](https://nudgeware.io/), [ProductivityBlocker](https://www.productivityblocker.com/), [Minto](https://chrome.google.com/webstore/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chrome.google.com/webstore/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia) or [HabitLab](https://habitlab.stanford.edu/) - Productivity Managers / Site Blockers
 * [Web Activity Time Tracker](https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm?hl=en) - Track Browser Activity
 * [Simple Todo](https://chrome.google.com/webstore/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf) or [Todoist](https://chrome.google.com/webstore/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh?hl=en) - To-Do List
