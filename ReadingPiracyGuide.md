@@ -13,7 +13,7 @@
 
 * ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** - Multi-Site Audiobook Search
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
-* ⭐ **[Audiobook Bay](http://audiobookbay.fi/)**, [2](https://audiobookbay.se/) - Torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.imgur.com/tr0tbos.png)
+* ⭐ **[Audiobook Bay](https://audiobookbay.li/)**, [2](https://audiobookbay.se/) - Torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.imgur.com/tr0tbos.png)
 * ⭐ **[Tokybook](https://tokybook.com/)** - Listen Online
 * ⭐ **[Top 1000 Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_audiobook_megadrive)** - Audiobooks / Drive
 * [Telegram Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audiobook_downloads) - Telegram Audiobook Channels
@@ -96,9 +96,10 @@
 * [LetMeRead](https://www.letmeread.net/) - Books
 * [FreeBookSpot](http://www.freebookspot.club/) - Books
 * [BooksToLearn](https://www.booktolearn.com) - Books
-* [NovelLibrary](http://novellibrary.com/) - Books / [Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_novel_library_drive) 
+* [NovelLibrary](http://novellibrary.com/) - Books / [Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_novel_library_drive)
 * [iBookPile](https://ibookpile.net/) - Books
 * [DPLA](http://dp.la/) - Books
+* [OpenLibra](https://openlibra.com/en/) - Books
 * [Books'Cool](https://www.bookscool.com/en/index.php) - Books
 * [Dirzon](https://www.dirzon.com/) - Books
 * [VK eBook Sharing Group](https://vk.com/club162811046) - Books / Also try `site:vk.com` in searches
@@ -125,6 +126,7 @@
 * [eBook777](https://www.ebooks777.net/) - Books
 * [myebooksfree](https://www.myebooksfree.com/) - Books
 * [English E-Reader](https://english-e-reader.net/) - Books
+* [Chapter1](https://chapter1.us/) - Books
 * [Bibliomania](http://www.bibliomania.com/bibliomania-static/index.html) - Books
 * [ReadCentral](https://www.readcentral.com/) - Books
 * [Authorama](http://www.authorama.com/) - Books
@@ -1193,7 +1195,8 @@
 * [What Should I Read Next?](https://www.whatshouldireadnext.com/) - Book Recommendations
 * [GNOD](https://www.gnod.com/) - Book Recommendations
 * [RecommendMeABook](https://recommendmeabook.com/) - Book Recommendations
-* [WhichBook](https://www.whichbook.net/) - Book Recommendations 
+* [WhichBook](https://www.whichbook.net/) - Book Recommendations
+* [Readow](https://readow.ai/) - Book Recommendations
 * [Readgeek](https://www.readgeek.com/) - Book Recommendations
 * [Shepherd](https://shepherd.com/) - Book Recommendations
 * [Literature-Map](https://www.literature-map.com/) - Book Recommendations
