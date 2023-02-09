@@ -661,7 +661,7 @@
 * [gaana](https://gaana.com/) - Music
 * [hungama](https://www.hungama.com/music/) - Music
 * [jiosaavn](https://www.jiosaavn.com/) - Music / [API](https://github.com/cyberboysumanjay/JioSaavnAPI)
-* [PhysicsWallah](https://www.youtube.com/c/PhysicsWallah/) - Physics Lessons
+* [PhysicsWallah](https://www.youtube.com/c/PhysicsWallah/) - Physics Lessons / [Website](https://physicswallah.live/)
 
 ## ▷ Reading
 
@@ -1431,6 +1431,7 @@
 * [KinoMuzic](https://kinomuzic.ucoz.ru/) - Books / Soundtracks
 * [androeed](https://www.androeed.ru/) - Android
 * [EZMod](https://ezmod.ru/) - Android
+* [Top-Android](https://top-androidd.ru/) - Android
 * [4pda](https://4pda.ru/forum/) - Android / iOS
 * [PDALIFE](https://pdalife.ru/) - Android / iOS / PSP  
 * [NashStore](https://nashstore.ru/) - App Store
@@ -1711,16 +1712,17 @@
 
 ## ▷ Reading
 
-* [epublibre](https://www.epublibre.org/) - Books  
-* [ebiblioteca](https://ebiblioteca.org/) - Books 
+* ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** - Multi-Site Book Search
+* [epublibre](https://www.epublibre.org/) - Books
+* [ebiblioteca](https://ebiblioteca.org/) - Books
 * [Ebookelo](https://www.ebookelo.com/) - Books
-* [bajaebooksgratis](https://bajaebooksgratis.com/) - Books 
-* [pirateca](https://pirateca.com/) - Books 
+* [bajaebooksgratis](https://bajaebooksgratis.com/) - Books
+* [pirateca](https://pirateca.com/) - Books
 * [Lectulandia](https://www.lectulandia.rocks/) - Books
-* [ePub Gratis](https://www.epubgratis.vip/) - Books 
+* [ePub Gratis](https://www.epubgratis.vip/) - Books
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
 * [librosintinta](https://www.librosintinta.in/) - PDF Search
-* [albalearning](https://albalearning.com/) - Audiobooks 
+* [albalearning](https://albalearning.com/) - Audiobooks
 * [mangadoor](http://mangadoor.com/) - Manga
 * [TuMangaOnline ](https://lectortmo.com/) - Manga
 * [Manga en Español](https://t.me/manga_es) - Manga
