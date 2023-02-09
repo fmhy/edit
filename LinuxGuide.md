@@ -35,14 +35,15 @@
 * [bluetuith](https://github.com/darkhz/bluetuith) - Bluetooth Manager
 * [swizzin](https://swizzin.ltd/) - Seedbox for Ubuntu / Debian
 * [rtinst](https://github.com/arakasi72/rtinst) - Seedbox Installation Script for Ubuntu / Debian
-* [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal
-* [Trackma](https://github.com/z411/trackma/) - Anime Tracking App
+* [TorrFlix](https://github.com/infinity-plus/TorrFlix) - Torrent Streaming CLI
 * [Netflix Proxy](https://github.com/ab77/netflix-proxy/) - Streaming Service Proxy
 * [fmedia](https://github.com/stsaz/fmedia) - Media Player and Converter
 * [Knapsu](https://knapsu.eu/plex/) or [Cloudbox](https://cloudbox.works/) - Media Server
 * [ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker) - Automated Media Server Setup
 * [Tvheadend](https://tvheadend.org/) - TV Streaming Server / [GitHub](https://github.com/tvheadend/tvheadend)
 * [Docket-Jacket](https://github.com/linuxserver/docker-jackett) - Docker Jacket Container
+* [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal
+* [Trackma](https://github.com/z411/trackma/) - Anime Tracking App
 * [Redroid](https://github.com/remote-android/redroid-doc) - Android Emulator
 * [Spot](https://github.com/xou816/spot) - Spotify Desktop Client for Gnome
 * [spotify-qt](https://github.com/kraxarn/spotify-qt) or [SpotifyD](https://github.com/Spotifyd/spotifyd) - Spotify Clients
