@@ -11,7 +11,7 @@
 
 # ► Indexes
 
-* ⭐ **[FMHY Guides](https://www.fmhy.ml/guides)** / [2](https://fmhy.tk/guides) / [3](https://freemediaheckyeah.ml/guides) or [Mega Rentry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mega_rentry) - List of Guides
+* ⭐ **[FMHY Guides](https://www.fmhy.ml/guides)**, [2](https://fmhy.tk/guides), [3](https://freemediaheckyeah.ml/guides) or [Mega Rentry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mega_rentry) - List of Guides
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
 * ⭐ **[PiratezParty](https://github.com/SpamVerse/Piratezparty)** - Piracy Index / [Telegram](https://t.me/piratezparty)
 * ⭐ **[Champagne Wiki](https://champagne.surge.sh/)**, [2](https://rentry.org/champagne_wiki/) - Piracy Index / [Guides](https://rentry.org/champagne_guides/)
