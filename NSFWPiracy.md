@@ -148,7 +148,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 ## Download 
 
-* ⭐ **[FapNationBot](https://discord.gg/MxyvAV22cE)** - Premium Porn Download Bot / [Free Bot](https://cutt.ly/4CnMP8x) / [Guide](https://rentry.co/seremfreeharem)
+* ⭐ **[FapNationBot](https://discord.gg/d39hJGxwvX)** - Premium Porn Download Bot / [Free Bot](https://cutt.ly/4CnMP8x) / [Guide](https://rentry.co/seremfreeharem)
 * [Search4Porn](https://search4porn.net/) - NSFW File Search
 * [Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "nsfw"
 * [PornFactors](http://pornfactors.com/) 
@@ -359,6 +359,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Bypass Age Verification](https://greasyfork.org/en/scripts/393525-bypass-age-verification-deviantart-com) - Bypass Deviantart Age Restriction
 * [Sleazy Fork](https://sleazyfork.org/) - Adult User Scripts
 * [asciiplayer](https://gist.github.com/girst/5834f8e8ba92b42c2c61) - PornHub ASCII Player
+* [O School](https://www.o.school/) - Shop for Sex Toys
 * [Awesome-Buttplug](https://github.com/buttplugio/awesome-buttplug) - Buttplug Project Index
 * [Buttplug.io](https://buttplug.io/) - Sex Toy Control Software
 * [VaMSync](https://github.com/intiface/VaMSync) - VAM Plugin for Strokers & Vibrators
