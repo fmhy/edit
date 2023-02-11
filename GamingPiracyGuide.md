@@ -21,7 +21,7 @@
 * ⭐ **[Nexus-Games](https://nexus-games.net/)** - [Discord](https://discord.gg/8YXGgy4DJj)
 * ⭐ **[DyR0t(-_-t)'s Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dyr0t.28-_-t)** 
 * ⭐ **[CrackHub](https://crackhub.site/)** - [Discord](https://discord.gg/T669D6weqt) / [Divolt](https://divolt.xyz/invite/82nEH5Sp) / [RSS](https://scene.crackhub.site/category/iso/rss)
-* ⭐ **[GamesDrive](https://gamesdrive.net/)** - [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
+* ⭐ **[GamesDrive](https://gamesdrive.net/)** - [Discord](https://discord.gg/rXFNEMSa) / [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * ⭐ **[Ova Games](http://www.ovagames.com/)** - Use Adblocker
 * ⭐ **[ScOOter Repacks](https://scooter-repacks.site/)** - [Discord](https://discord.gg/BWKyN8SgvM)
 * ⭐ **[GoG Games](https://gog-games.com/)**
