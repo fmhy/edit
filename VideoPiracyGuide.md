@@ -488,6 +488,7 @@
 * [WatchWrestling.ai](https://watchwrestling.ai/) - MMA / Wrestling
 * [WatchWrestling.bz](https://watchwrestling.bz/) - MMA / Wrestling
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling
+* [WatchWrestlingUp](https://watchwrestlingup.live/) - MMA / Wrestling
 * [WatchProWrestling](https://watchprowrestling.org/) - MMA / Wrestling
 * [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing
 * [SportsReplay](https://discord.com/invite/2r4pj67gCv) - [F1](https://f1full.com/) / [MMA](https://mmafull.com/)
