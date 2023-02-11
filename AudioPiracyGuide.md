@@ -235,7 +235,7 @@
 ## ▷ Download Apps
 
 * ⭐ **[Music Ripping Guide](https://ori5000.github.io/musicripping.html)** / [2](https://rentry.org/florinsmusicrippingguide)
-* ⭐ **[Slavart](https://slavart.divolt.xyz)** - Deezer, Spotify, Apple Music, YouTube, Qobuz, TIDAL & SoundCloud Download Bot / [Site](https://slavart.gamesdrive.net/), [2](https://gamesdrive.net/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
+* ⭐ **[Slavart](https://discord.gg/Ekz4xYqrZR)** - Deezer, Spotify, Apple Music, YouTube, Qobuz, TIDAL & SoundCloud Download Bot / [Site](https://slavart.gamesdrive.net/), [2](https://gamesdrive.net/) / [Divolt](https://slavart.divolt.xyz) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * ⭐ **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Download from Spotify
 * ⭐ **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download from YouTube
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)
@@ -468,7 +468,7 @@
 * [Music-Map](https://www.music-map.com/), [Panther](http://panther.audio/), [Musicroamer](https://www.musicroamer.com/), [Gnoosic](https://www.gnoosic.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [GNOD](https://www.gnod.com/) or [What The Fuck Should I Listen To Right Now?](https://www.whatthefuckshouldilistentorightnow.com/) - Artist Discovery Tools
 * [45Cat](http://www.45cat.com/) - Vinyl Ratings / Reviews
 * [TapeFear](https://www.tapefear.com/), [SongsLikeX](https://songslikex.com/) or [Discover Quickly](https://discoverquickly.com/) - Spotify Song Discovery
-* [Spotalike](https://spotalike.com/), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [Discoverify](https://discoverifymusic.com/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generators
+* [Spotalike](https://spotalike.com/), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [Discoverify](https://discoverifymusic.com/), [Highlights2SPotify](https://highlights2spotify.com/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generators
 * [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
 * [MusitcTo](https://www.musicto.com/) - Musician Curated Playlists
 * [Obscurify](https://obscurifymusic.com/) - Compare Music Taste to Others 
