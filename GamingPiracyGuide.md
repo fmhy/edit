@@ -161,7 +161,6 @@
 * [Retrostic](https://www.retrostic.com/) - Emulators / ROMs
 * [Emulanium](https://emulanium.com/) - Emulators / ROMs
 * [ROM Here](https://romhere.com/) - Emulators / ROMs
-* [ROMsMania](https://romsmania.cc/) - Emulators / ROMs
 * [ROMsUniverse](https://www.ROMsuniverse.com/) - Emulators / ROMs
 * [ROMsie](https://ROMsie.com/) - Emulators / ROMs
 * [Romsever](https://romsever.com) - Emulators / ROMs
@@ -184,7 +183,7 @@
 * [HappyROMs](https://happyroms.com/) - Emulators / ROMs
 * [DownloadArea81](https://www.downarea51.com/) - Emulators / ROMs
 * [ROMs Planet](https://romsplanet.com/) - Emulators / ROMs
-* [CoolROMs](https://coolrom.com.au/) - Emulators / ROMs / Use ["Alt DL Link"](https://i.imgur.com/FgHvrPK.png)
+* [CoolROMs](https://coolrom.com.au/) - Emulators / ROMs 
 * [KillerROMs](https://freeromsdownload.com/) -  Emulators / ROMs / Use ["More Options"](https://i.imgur.com/DscRWTR.png)
 * [Nostalgialand](https://nostalgialand.net/) - ROMs
 * [All Xbox Game](https://downloadgamexbox.com/) - ROMs
