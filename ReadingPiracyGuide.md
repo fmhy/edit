@@ -454,8 +454,7 @@
 * [JEEBooksPDF](https://m.youtube.com/c/JEEBooksPDF) - JEE Material / [Telegram](https://telegram.me/jeebookspdf) / DL's in Descriptions
 * [ck12](https://www.ck12.org/)- Interactive CK-12
 * [premium_ebooks](https://t.me/premium_ebooks) - Exam Books
-* [MetPublications](https://www.metmuseum.org/art/metpublications/titles-with-full-text-online) - Art Books
-* [Oxford Bookworms](https://t.me/OxfordBookworms) - Books / Audiobooks / telegram  
+* [Oxford Bookworms](https://t.me/OxfordBookworms) - Books / Audiobooks / Telegram
 * [Digital Libraries / Archives](https://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/) - Online university libraries
 * [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) - Academic Repository Search  
 * [Quantum Web Directory](https://qntm2017.github.io/qntm/OV.html) - Science / Tech / Math / Physics 
@@ -508,6 +507,7 @@
 * [RationalWiki](https://rationalwiki.o rg/) - Pseudoscience Refutation Wiki
 * [Snopes](https://www.snopes.com/) - Urban Legends, Folklore, Misinformation & more
 * [Butterick’s Practical Typography](https://practicaltypography.com/) - Typography Guide Book
+* [Sewing8](https://t.me/sewing8) - Sewing / Pattern Making Books
 * [Cro-Wood](https://www.cro-wood.com/) - Woodworking Forum
 * [Alt Law Forum](https://altlawforum.org/) - Alternative Law Forum
 * [Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/) - Online Learning Collections 
@@ -1240,9 +1240,10 @@
 * ⭐ **[Mobile Read](https://www.mobileread.com/)** - Ebook / Reader Discussion Forum
 * [Ubooquity](http://vaemendis.net/ubooquity/) - Manager / Reader / PC / Android / iOS
 * [Librum](https://github.com/Librum-Reader/Librum) - Ebook Reader / PC / Android / iOS / Linux / Mac
+* [EBook Reader](https://epub-reader.online/) - Ebook Reader / PC / Android / iOS / Mac
 * [KoReader](http://koreader.rocks/) - Ebook Reader / PC / Android
-* [FBReader](https://fbreader.org/) - Ebook Reader / PC / Android / iOS 
-* [Thorium](https://www.edrlab.org/software/thorium-reader/) - Ebook Reader / PC / Mac / Linux 
+* [FBReader](https://fbreader.org/) - Ebook Reader / PC / Android / iOS
+* [Thorium](https://www.edrlab.org/software/thorium-reader/) - Ebook Reader / PC / Mac / Linux
 * [CoolReader](https://github.com/buggins/coolreader) - Ebook Reader / PC / Linux
 * [Icecream eBook Reader](https://icecreamapps.com/Ebook-Reader/) - Ebook Reader / PC
 * [Aquile](https://apps.microsoft.com/store/detail/aquile-reader-modern-epub-ebook-reader/9P08T4JLTQNK?hl=en) - Ebook Reader / PC
