@@ -1237,8 +1237,6 @@
 * [App Cake](https://www.iphonecake.com/) - Cracked Apps / [Discord](https://discord.com/invite/TgY2Qmb)
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312)
 * [fnd](https://fnd.io/) - App Store Search
-* [AppValley](https://www.appvalley.vip/) - Tweaked App Store
-* [Tutubox](https://tutubox.io/) - Tweaked Apps Store
 * [TweakBox](https://www.tweakboxapp.com/) - App Store
 * [Cydia](https://cydia.saurik.com/) - App Store / [Paid Apps](https://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown) / [Updates](https://t.me/cydiaupdate)
 * [BuildStore](https://builds.io/) - App Store
