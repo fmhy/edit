@@ -132,7 +132,7 @@
 
 * ⭐ **[Emulator Wiki](https://emulation.gametechwiki.com/index.php/Android_emulators)** - Android Emulator Index
 * ⭐ **[WSA](https://rentry.co/wsa)** - Windows Android Subsystem / [GUI](https://github.com/alesimula/wsa_pacman) / [Win10](https://github.com/cinit/WSAPatch) / [Win11](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) / [Google Apps](https://github.com/ADeltaX/WSAGAScript)
-* ⭐ **[WayDroid](https://waydro.id/)** / **[Git](https://github.com/waydroid)** or [Anbox](https://anbox.io/) / [Git](https://github.com/anbox/anbox) - Linux Android Subsystems
+* ⭐ **[WayDroid](https://waydro.id/)** / **[Git](https://github.com/waydroid)**, [Ubuntu on Android](https://github.com/RandomCoderOrg/ubuntu-on-android) or [Anbox](https://anbox.io/) / [Git](https://github.com/anbox/anbox) - Linux Android Subsystems
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
 * [Android x86](https://www.android-x86.org/) - Android Desktop OS / [Installer](https://supreme-gamers.com/r/advanced-android-x86-installer-for-windows.61/) / [Source](https://www.android-x86.org/source.html)
 * [BlissOS](https://blissos.org/) - Android Desktop OS / [Git](https://github.com/blissroms-x86)
@@ -159,6 +159,7 @@
 * ⭐ **Magisk Tools** - [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager), [2](https://github.com/ya0211/MRepo) / [SafteyNet Fix](https://github.com/kdrag0n/safetynet-fix) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
 * ⭐ **[AutumnBox](https://github.com/zsh2401/AutumnBox/releases)** - Android Device Manager / Root Tool / [Features](https://i.imgur.com/59MlFrW.png)
 * ⭐ **[Android Web Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)**
+* ⭐ **[File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)** - Tools to Share / Sync Files
 * ⭐ **[ntfy](https://ntfy.sh/)**, [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2) or [BuzzKill](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_buzzkill) - Custom Push Notifications
 * ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client / [Rich Presence](https://github.com/dead8309/Kizzy) / [Nitro Emojis](https://nitroless.app/)
 * ⭐ **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites / Apps
@@ -167,7 +168,6 @@
 * ⭐ **[ChatGPT](https://play.google.com/store/search?q=chatgpt&c=apps)** or [chatgpt-android](https://github.com/skydoves/chatgpt-android) - AI Writing Assistant / Chat
 * [Android Debloat Guide](https://rentry.co/debloatandroid), [debloat-android](https://christitus.com/debloat-android/) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/0x192/universal-android-debloater), [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) or [Debloat Samsung Android](https://github.com/khlam/debloat-samsung-android) - Android Debloaters
-* [File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools) - Tools to Share / Sync Files
 * [GearJail](https://gearjail.neocities.org/) - Android Guides / Resources
 * [FFShare](https://www.f-droid.org/packages/com.caydey.ffshare/) - Compress Videos / Images
 * [XDA](https://forum.xda-developers.com/) - Android Discussion Forum
