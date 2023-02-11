@@ -229,6 +229,8 @@
 * [Windows Softwares](https://t.me/Windows_Softwares_Pc_Games), [2](https://t.me/windows_softwares) - Telegram
 * [raymondfreesoftware](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g) - Telegram
 * [Rarewares](https://www.rarewares.org/) - Rare Software
+* [FluentStore](https://github.com/yoshiask/FluentStore) - Microsoft Store Frontend
+* [Alt App Installer](https://github.com/m-jishnu/alt-app-installer) - Install Microsoft Store Apps
 * [store.rg](https://store.rg-adguard.net/) - Paid Microsoft Store Link Generator / [Guide](https://rentry.co/paidAppsMsStore)
 * [PLC4Me](https://plc4me.com/) - Automation Software
 * [civileng_soft](https://t.me/civileng_soft) - Civil Engineering Software
@@ -421,8 +423,9 @@
 * [althub](https://althub.co.za) - Unlimited Free Trials
 * [nZEDb](https://github.com/nZEDb/nZEDb) - Self-Hosted
 * [Spotweb](https://github.com/spotweb/spotweb) - Spotnet Client
+* [TeleHack](https://telehack.com/) - File Explorer / [Wiki](https://en.wikipedia.org/wiki/Telehack)
 * [/r/usenet](https://reddit.com/r/usenet) 
-* [/r/UsenetInvites](https://reddit.com/r/UsenetInvites) 
+* [/r/UsenetInvites](https://reddit.com/r/UsenetInvites)
 
 ## ▷ Providers
 
