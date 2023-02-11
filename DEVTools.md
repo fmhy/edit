@@ -62,6 +62,7 @@
 * [mimo](https://getmimo.com/) - Coding Tutorial App
 * [LintCode](https://www.lintcode.com/) or [CodeWars](https://www.codewars.com/) - Coding Practice
 * [Coding Questions](https://platform.stratascratch.com/coding) - Coding Interview Questions
+* [NeetCode](https://neetcode.io/) - Coding Interview Practice
 * [Code With Mosh Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_code_with_mosh_courses)
 * [Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources) or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources
 * [picoCTF](https://picoctf.org/), [CTFLearn](https://ctflearn.com/), [HTB](https://academy.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
@@ -226,7 +227,7 @@
 * [Awesome DataScience](https://github.com/academic/awesome-datascience) or [Best Data Science Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources) - Data Science Resources
 * [Mage](https://www.mage.ai/) - Data Science Pipelines
 * [SuperNova](https://www.supernova.io/) - Design System Manager
-* [Grafana](https://grafana.com/) - Data Dashboard
+* [Grafana](https://grafana.com/) or [MongoDB](https://www.mongodb.com/) - Dev Data Dashboards
 * [Interplay](https://interplayapp.com/) - Product Design Tool
 * [Awesome Bots](https://github.com/DopplerHQ/awesome-bots) - Developer Bot Index
 * [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
@@ -274,7 +275,6 @@
 * Generate Fake Data - [Ruby](https://github.com/faker-ruby/faker) / [Swift](https://github.com/vadymmarkov/Fakery)
 * [Awesome Big Data](https://github.com/0xnr/awesome-bigdata) - Big Data Resource Index
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
-* [ToolJet](https://tooljet.com/) - Internal Tool Framework / Deployment / [GitHub](https://github.com/ToolJet/ToolJet)
 * [Deps.dev](https://deps.dev/) - Open Source Package Search
 * [Packagedna](https://github.com/TelefonicaTC2Tech/packagedna) - Package Analyzing Software
 * [PackageCloud](https://packagecloud.io/) or [pnpm](http://pnpm.io/) - Package Manager / Deployment
@@ -297,7 +297,8 @@
 * [Pentest Contracts](https://github.com/cure53/Contracts) - Security Contract Templates
 * [Earthly](https://earthly.dev/) - CD/CD Framework Pipeline
 * [CI/CD Security](https://github.com/myugan/awesome-cicd-security) - CI/CD Security Resources Awesome 
-* [OpenSCA-CLI](https://github.com/XmirrorSecurity/OpenSCA-cli) - Composition Analysis for Third Party Components 
+* [OpenSCA-CLI](https://github.com/XmirrorSecurity/OpenSCA-cli) - Composition Analysis for Third Party Components
+* [Unblob](https://unblob.org/) - Extraction Suite
 * [Kubescape](https://github.com/armosec/kubescape) - Kubernetes Tool
 * [Kubespray](https://github.com/kubernetes-sigs/kubespray) - Kubernetes Cluster
 * [Devtron](https://devtron.ai/) - Kubernetes Tool Integration
@@ -394,7 +395,8 @@
 * [Contraste](https://contrasteapp.com/) - Test Text for Accessibility
 * [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
 * [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) - Site Accessibility Guidelines
-* [CookieMetrix](https://www.cookiemetrix.com/) - EU Cookie Law Test
+* [CookieMetrix](https://www.cookiemetrix.com/) - EU Cookie Violation Test
+* [Violating GDPR](https://www.violating-gdpr.com/) - GDPR Violation Test
 * [Color Oracle](https://colororacle.org/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Test
 * [Am I Responsive](http://ami.responsivedesign.is/) - Responsive Design Checker
 * [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) - Compare Website Performance
@@ -554,7 +556,7 @@
 * [Apache](https://httpd.apache.org/) - HTTP Server
 * [h5ai](https://larsjung.de/h5ai/) - HTTP Web Server Index / [GitHub](https://github.com/lrsjng/h5ai)
 * [SyAgent](https://syagent.com/), [TA Vivo](https://github.com/ta-vivo/ta-vivo) or [HertzBeat](https://hertzbeat.com/en/) - Server Monitors
-* [UI Design Daily](https://www.uidesigndaily.com/) - Free UI Design Resources
+* [UI Design Daily](https://www.uidesigndaily.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
 * [Open UI](https://open-ui.org/) - Open Standard UI
 * [CodeMyUI](https://codemyui.com/) or [Semantic UI](https://semantic-ui.com/) - User Interface Code Snippets
 * [Lepton](https://hackjutsu.com/Lepton/) - Code Snippet Manager / [GitHub](https://github.com/hackjutsu/Lepton)
@@ -570,6 +572,7 @@
 * [CBox](https://www.cbox.ws/), [Typebot](https://typebot.io/), [Fonoster](https://fonoster.com/) or [Tawk](https://www.tawk.to/) - Embedded Chat App
 * [StackWhats](https://stackwhats.com/) - Add Whatsapp Chat to Your Site
 * [Pay 2 Email](https://pay2.email/) - Simple Website Contact Form
+* [Buff](https://github.com/getbuff/Buff) - AI Customer Support Chat
 * [Twitcker](https://twitcker.com/) - Add Twitter Feed Ticker to Site
 * [Error404](https://error404.fun/) - Free 404 Pages
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
@@ -647,7 +650,7 @@
 
 * [Electron](https://www.electronjs.org/), [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [PowerPage](https://github.com/casualwriter/powerpage), [Flet](https://flet.dev/) or [Tauri](https://tauri.studio/) / [Resources](https://github.com/tauri-apps/awesome-tauri) - Desktop App Builders
 * Electron Tools - [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://www.electronjs.org/apps/) / [Debugger](https://github.com/bytedance/debugtron) / [Mod Loader](https://kernel.fish/) / [Builder](https://www.electron.build/)
-* [Budibase](https://budibase.com/) or [AppSmith](https://github.com/appsmithorg/appsmith) - Internal App Builders
+* [Budibase](https://budibase.com/), [ToolJet](https://tooljet.com/), [retool](https://retool.com/) or [AppSmith](https://github.com/appsmithorg/appsmith) - Internal Tool Builders
 * [raylib technologie](https://raylibtech.itch.io/), [bookmarks](https://github.com/MorganGeek/bookmarks) or [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - Software Development Tools
 * [Theos](https://theos.dev/) - Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
 * [New Software](https://github.com/ardalis/new-software-project-checklist) - Project Decision Checklist
@@ -660,6 +663,7 @@
 * [Dotnet Releaser](https://github.com/xoofx/dotnet-releaser) - Automate Release of .NET Applications
 * [Pencil](http://pencil.evolus.vn/) - Software Mockup Tool / [GitHub](https://github.com/evolus/pencil)
 * [GNUnet](https://gnunet.org/en/) - Software Framework
+* [shadcn](https://ui.shadcn.com/) - Software Components
 * [Slint](https://github.com/slint-ui/slint or [QT Designer](https://build-system.fman.io/qt-designer-download) - GUI Development Tools
 * [Kuker](https://github.com/krasimir/kuker) - Debug Applications
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - HTTP Proxy
@@ -824,7 +828,7 @@
 * [Engine Simulator](https://www.engine-sim.parts/) - Engine Sound Simulator / [GitHub](https://github.com/ange-yaghi/engine-sim)
 * [Electronic Arts GitHub](https://github.com/electronicarts) - EA GitHub Repos
 * [Game UI Database](https://www.gameuidatabase.com/) or [HUDSxGUIS](https://www.hudsandguis.com/) - Game HUDs / GUIs
-* Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - Game GUI Creator
+* [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - Game GUI Creator
 * [CharPad](https://subchristsoftware.itch.io/charpad-free-edition) - Commodore 64 Graphics Editor
 * [Xelu's Controller Prompts](https://thoseawesomeguys.com/prompts/) - Free Game Prompts / [Video](https://youtu.be/d6GtGbI-now)
 * [Tuesday JS](https://kirill-live.itch.io/tuesday-js) / [GitHub](https://github.com/Kirilllive/tuesday-js) or [RenPy](https://www.renpy.org/) / [GitHub](https://github.com/renpy/renpy) - Visual Novel Editor
@@ -919,7 +923,7 @@
 * [GitLab](https://about.gitlab.com/), [FSFE](https://git.fsfe.org/) or [NotABug](https://notabug.org/) - GitHub Alternatives
 * [GitHubStatus](https://www.githubstatus.com/) - GitHub Outage Status
 * [Git Explorer](https://gitexplorer.com/), [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html), [git-cheatsheet](https://hackprogramming.com/notes/git-cheatsheet) or [Git Commands](https://gabrieldejesus.github.io/git-commands/) / [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists / Search
-* [GitHub Desktop](https://desktop.github.com/), [Git-Fork](https://git-fork.com/) or [Tower](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_tower) - Git Clients
+* [GitHub Desktop](https://desktop.github.com/) / [Linux](https://github.com/shiftkey/desktop), [Git-Fork](https://git-fork.com/) or [Tower](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_tower) - Git Clients
 * [GitHub.Dev](https://github.dev/) - GitHub Web App
 * [refined-github](https://github.com/refined-github/refined-github) or [Ungit](https://github.com/FredrikNoren/ungit) - Improved GitHub Interface
 * [Stefan Buck](https://stefanbuck.com/awesome-browser-extensions-for-github) - GitHub Browser Extensions / [GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github/)
@@ -1178,7 +1182,8 @@
 * [Vanilla List](https://vanillalist.top/) - Vanilla Javascript Repository
 * [Danfo.js](https://github.com/javascriptdata/danfojs) - Javascript Library
 * [RunKit](https://runkit.com/) - Browser Javascript Sandbox
-* [JBin](https://jsbin.com/) or [Replay](https://www.replay.io/) - Collaborative Debugging
+* [Adrenaline](https://useadrenaline.com/) - Code Debugging
+* [JBin](https://jsbin.com/) or [Replay](https://www.replay.io/) - Collaborative Code Debugging
 * [GPU.js](https://gpu.rocks/) - GPU Accelerated JavaScript
 * [JS.ORG](https://js.org/) - Free subdomain for JavaScript Developers 
 * [1loc](https://1loc.dev/) - 217 Single Line JavaScript Codes 
