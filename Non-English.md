@@ -1623,7 +1623,6 @@
 * [Descarga Cine Clasico](https://descargacineclasico.net/) - Classical Movies
 * [Anime-ESP](https://anime-esp.com/) - Anime
 * [ddl.ice](https://ddl.ice-blue.workers.dev/0:/) - Anime
-* [DownloadsMega](https://t.me/DownloadsMega) - Video / Audio / Telegram
 * [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)
 * [Tododescargas](https://tododescargas.net/) - Software
 * [Artistapirata](https://www.artistapirata.com/) - Software
