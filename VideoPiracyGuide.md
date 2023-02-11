@@ -199,14 +199,14 @@
 * ⭐ **[VK](https://vk.com/video)**
 * ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced](https://playlists.at/youtube/search/) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_youtube_tools)
 * ⭐ **[Archive](https://archive.org/)** - Movies / TV
-* ⭐ **[Dailymotion](https://www.dailymotion.com/us)** 
+* ⭐ **[Dailymotion](https://www.dailymotion.com/us)**
 * ⭐ **[BiliBili](https://www.bilibili.com/)** / [Client](https://github.com/Richasy/Bili.Uwp)
-* ⭐ **[Niconico](https://www.nicovideo.jp/)** 
+* ⭐ **[Niconico](https://www.nicovideo.jp/)**
 * ⭐ **[Vimeo](https://vimeo.com/)**
 * ⭐ **[Veoh](https://www.veoh.com/)**
 * ⭐ `site:noodlemagazine.com` (add to search)
 * [PeerTube](https://joinpeertube.org/), [2](https://search.joinpeertube.org/) / [Instances](https://instances.joinpeertube.org/instances)
-* [lbry](https://lbry.tv/) / [App](https://lbry.com/) / [Frontend](https://codeberg.org/librarian/librarian), [2](https://librarian.pussthecat.org/)
+* [LBRY](https://lbry.tv/) / [App](https://lbry.com/) / [Frontends](https://codeberg.org/librarian/librarian), [2](https://librarian.pussthecat.org/), [3](https://librarian.codeberg.page/)
 * [my.mail.ru](https://my.mail.ru/video)
 * [Facebook Videos](https://www.facebook.com/watch/search/?query=fmhy)
 * [Ronemo](https://ronemo.com/)
@@ -214,13 +214,13 @@
 * [cda.pl](https://www.cda.pl/)
 * [tilvids](https://tilvids.com/)
 * [bitchute](https://www.bitchute.com/)
-* [V-S Mobi](https://v-s.mobi/) 
+* [V-S Mobi](https://v-s.mobi/)
 * [Videa](https://videa.hu/)
 * [youku](https://www.youku.com/)
 * [zloekino](https://zloekino.su/)
 * [Aparat](https://www.aparat.com/)
 * [NewTube](https://newtube.app/)
-* [tudou](https://www.tudou.com/) 
+* [tudou](https://www.tudou.com/)
 * [BitView](https://www.bitview.net/)
 * [Vidlii](https://www.vidlii.com/)
 * [Naver](https://tv.naver.com/)
@@ -232,7 +232,7 @@
 * [tubidy](https://tubidy.com/) 
 * [Myspace Videos](https://myspace.com/search/videos) 
 * [Google Videos](https://www.google.com/?tbm=vid)
-* [Yandex Videos](https://yandex.ru/video) 
+* [Yandex Videos](https://yandex.ru/video)
 * [DuckDuckGo Videos](https://duckduckgo.com/?q=freemediaheckyeah&iar=videos&iax=videos&ia=videos)
 * `site:my.mail.ru` (add to search)
 
@@ -307,16 +307,17 @@
 * ⭐ **[CouchTuner](https://www.couchtuner.show/)** - TV / Anime
 * ⭐ **[Best Series](https://bstsrs.one/)** - TV / Anime
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - TV / Anime
-* [Teleisodes](https://www1.telepisodes.org/) - TV 
+* [OnlyTVShows](https://onlytvshows.cc/) - TV / Anime
+* [Teleisodes](https://www1.telepisodes.org/) - TV
 * [FZTVSeries](https://fztvseries.mobi/), [MobileTVShows](https://www.mobiletvshows.net/) or [TVSeries](https://www.tvseries.in/) - TV / Anime
 * [Watch-TvSeries](https://www1.watch-tvseries.net/) - TV
-* [MyWatchSeries](https://www5.mywatchseries.stream/) - TV / Anime 
+* [MyWatchSeries](https://www5.mywatchseries.stream/) - TV / Anime
 * [Adult Swim](https://www.adultswim.com/videos/) - Full Adult Swim Episodes
 * [Homestar Runner](https://homestarrunner.com/) - Web-Series / Games
-* [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - Bay Area TV Archive 
+* [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - Bay Area TV Archive
 * [Ninja Warrior](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ninja_warrior) - Sasuke Episodes
 * [MyRM](https://myrunningman.com/) - My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)
-* [No-Laughing Batsu Game List](https://redd.it/2fgm9p) 
+* [No-Laughing Batsu Game List](https://redd.it/2fgm9p)
 * [cytube](https://cytu.be/) - TV / Chat
 * [ScrubTV](https://dizz.tube/) - TV / Chat
 * [VaughnLive](https://vaughn.live/browse/misc) - TV / Chat
@@ -479,8 +480,6 @@
 * ⭐ **[NFL Replay](https://nflreplay.net/)** - Football
 * ⭐ **[F1 Full Races](https://f1fullraces.com/)** - F1
 * ⭐ **[WatchWrestling24](http://watchwrestling24.net/)** - MMA / Wrestling
-* [RBTV](https://www.rbtv77.com/) - Live Sports / [Telegram](https://t.me/+5nwRHlKhydwzNGRl)
-* [s365](https://www.s365.live/) -Live Sports
 * [FootballOrigin](https://www.footballorgin.com/) - Soccer
 * [Footballia](https://footballia.net/) - Soccer
 * [Footyfull](https://footyfull.com/) - Soccer
@@ -499,7 +498,6 @@
 * [BoxingBoxingvideoideo](https://boxingvideo.org/) - Boxing
 * [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / K1
 * [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports
-* [VIPLeague](https://www.vipleague.online/) - Live Sports
 
 ***
 
@@ -520,6 +518,8 @@
 * [XUMO](https://www.xumo.tv/channels) - TV
 * [femboys.live](https://femboys.live/) - Sports
 * [Sportsurge.club](https://sportsurge.club/) - Sports
+* [RBTV](https://www.rbtv77.com/) - Sports / [Telegram](https://t.me/+5nwRHlKhydwzNGRl)
+* [s365](https://www.s365.live/) - Sports
 * [WeakStream](http://weakstreams.com/) - Sports 
 * [JokerLiveStream](https://www.jokerlivestream.life/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
