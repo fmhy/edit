@@ -651,7 +651,6 @@
 * [AKMods](https://www.akmods.in/) - Modded
 * [Andropalace.co](https://andropalace.co/) - Modded
 * [Thinkkers](https://thinkkers.com/) - Modded
-* [AppValley](https://app.app-valley.vip/) - Modded / Tweaked
 * [Streamiza](https://t.me/streamiza) - Modded / Telegram / [Discord](https://linktr.ee/Streamiza)
 * [MODZILLA](https://t.me/Modzilla) - Modded / Telegram / [Bot](https://t.me/ModzillaAPKBot)
 * [MixRoot Mods](https://t.me/Mixrootmods) - Modded / Telegram
