@@ -15,6 +15,7 @@
 * ⭐ **[MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb)** - Multi-Tool Google Colab
 * ⭐ **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - Multi-Calculator Sites
 * ⭐ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)** - Presentation Tools / Templates
+* ⭐ **[Data Visualization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)** - Create Chart / Visualize Data 
 * ⭐ **[Versus](https://versus.com/)**, [rtings](https://www.rtings.com/), [SocialCompare](https://socialcompare.com/en), [DifferenceBetween](http://www.differencebetween.net/) or [Diffen](https://www.diffen.com/) - Compare Anything 
 * ⭐ **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)** - Organize Ideas / Projects
 * ⭐ **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** or [Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manual_sites) - Repair Articles / Manuals
@@ -42,7 +43,6 @@
 * [DripDrop](https://www.dripdrop.live/) - Product Drop Countdown
 * [SetAlarmClock](https://setalarmclock.net/) or [AlarmDJ](https://alarmdj.com/) - Online Alarm Clocks
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
-* [Flourish](https://flourish.studio/), [DataWrapper](https://www.datawrapper.de/), [RAWgraphs](https://app.rawgraphs.io/) / [GitHub](https://github.com/rawgraphs/rawgraphs-app), [ChartD](http://chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/) or [ParaView](https://github.com/Kitware/ParaView) - Data Visualization Tools
 * [GSlides Maker](https://github.com/vilmacio/gslides-maker) - Turn Wiki Pages into Google Slides
 * [Grocy](https://grocy.info/) - Grocery / Household Management Tool
 * [Volmarg](https://volmarg.github.io/) - Personal Management Tool
@@ -171,10 +171,11 @@
 * [Neble](https://neble.app/summary) - Summarize Text
 * [Linguix](https://linguix.com/), [HyperWrite](https://hyperwriteai.com/) or [TextCleanr](https://www.textcleanr.com/) - Writing Assistants
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
-* [GLTR](http://gltr.io/dist/index.html) or [openai-detector](https://huggingface.co/openai-detector/) - Detect AI Written Text
+* [GLTR](http://gltr.io/dist/index.html), [DetectGPT](https://detectgpt.com/) or [openai-detector](https://huggingface.co/openai-detector/), [2](https://openai-openai-detector.hf.space/) - Detect AI Written Text
 * [Cliche Info](http://cliche.theinfo.org/) - Detect Cliché's
 * [phraseup](http://www.phraseup.com/) - Autocomplete Common Phrases
-* [SongLyricsGenerator](http://www.songlyricsgenerator.com/) or [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) - Generate Fake Song Lyrics
+* [SongLyricsGenerator](http://www.songlyricsgenerator.com/) or [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) - Lyrics Generator
+* [Random Poem](https://random-poem.com/) - Poem Generator
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [Infinite Story](https://infinite-story.com/), [Storylocks](https://www.storylocks.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Story Writing
 * [Blackout Poetry](https://blackoutpoetry.glitch.me/) - Blackout Poetry Creator
@@ -367,6 +368,7 @@
 * [Reaktr](https://reaktr.vercel.app/) - Music Video Creator
 * [AMV101](https://www.amv101.com/) - Animated Music Video Making Guides
 * [Blaine's Movie Maker Blog](https://movies.blainesville.com/p/wmm-60-on-windows-7.html) - Windows Movie Maker Tutorials
+* [Kurku](https://app.kurku.tech/) - Body Motion Tracking
 * [MoonRay](https://openmoonray.org/), [Unreal Engine](https://www.unrealengine.com/), [SketchUp](https://www.sketchup.com/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
 * [Mega Scans](https://quixel.com/megascans) - 3D Scans
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
@@ -605,7 +607,7 @@
 * [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) / [CLI](https://github.com/IniasP/rnnoise-cli) - Noise Suppression Tools
 * [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10)or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixer
 * [NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB) - Singing Voice Enhancer
-* [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [MorphVOX](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_morphvox), [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird), [MyVoiceMod](https://myvoicemod.com/), [FTM Voice Changer](https://lingojam.com/FemaletoMaleVoiceChanger) or [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changer
+* [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [MorphVOX](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_morphvox), [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird), [MyVoiceMod](https://myvoicemod.com/), [Voice.ai](https://voice.ai/voice-changer), [FTM Voice Changer](https://lingojam.com/FemaletoMaleVoiceChanger) or [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changers
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) or [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone Voices
 * [Anchor](https://anchor.fm/), [Sound Branch](https://soundbran.ch/) or [ZenCastr](https://zencastr.com/) - Podcast Creators
 * [Spotify Podcasters](https://podcasters.spotify.com/) - Podcaster Dashboard
@@ -651,7 +653,7 @@
 * ⭐ **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)**, [JobsFromLarry](https://www.jobsfromlarry.com/), [4DayWeek](https://4dayweek.io/) or [Indeed](https://www.indeed.com/) - Job Search Sites
 * ⭐ **[Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers)** - Create Resumes for Free
 * ⭐ **[Resume / Cover Letter Guide](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)**, [Undergrad](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf) or [Masters](https://hwpi.harvard.edu/files/ocs/files/masters_resume_cover_letters.pdf) - Resume / Cover Letter Guides
-* [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) - Successful Resume Samples
+* [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
 * [GitHub Résumé](https://github.com/resume/resume.github.com) - Generate Resume from GitHub Activity
 * [AskEdith](https://www.askedith.ai/demo) - Ask AI Job / Business Questions
 * [LoopCV](https://www.loopcv.pro/) - Automated Job Search Tool
@@ -820,7 +822,7 @@
 * [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/webcatalog/) or [web2desk](https://appmaker.xyz/web2desk/) - Turn Sites into Desktop Apps 
 * [Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Multiverse](https://multiverse.plus/), [Letterpad](https://letterpad.app/), [Mataroa](https://mataroa.blog/), [Write.as](https://write.as/) / [Reader](https://tiny.write.as/), [Emanates Docs](https://emanates.deepjyoti30.dev/), [PublicEmails](https://publicemails.com/), [write freely](https://writefreely.org/), [OffPress](https://offpress.app/), [You Don't Need WP](https://www.youdontneedwp.com/) or [twtxt](https://github.com/buckket/twtxt) - Blogging Platforms
 * [Telescope](https://telescope.ac/) - Publishing Platform
-* [Hamsket](https://github.com/TheGoddessInari/hamsket), [Ferdi](https://getferdi.com/), [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [matterbride](https://github.com/42wim/matterbridge), [Rambox](https://github.com/ramboxapp/download/releases) or [Franz](https://meetfranz.com/) - Combine Web Apps / Chats
+* [Hamsket](https://github.com/TheGoddessInari/hamsket), [Ferdi](https://getferdi.com/), [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [matterbride](https://github.com/42wim/matterbridge), [Ferdium](https://ferdium.org/) or [Franz](https://meetfranz.com/) - Combine Web Apps / Chats
 * [Slapdash](https://slapdash.com/) - Connect Cloud Apps 
 * [Remote Communication](https://libreplanet.org/wiki/Remote_Communication) - Communication Software Index
 * [Twist](https://twist.com/) - Collaboration Chat Manager
@@ -842,6 +844,7 @@
 * [Snapchat Data Extractor](https://gist.github.com/programminghoch10/fa37e0da8b2efc5cb8077e59d000771d) - Extract Snapchat Photo / Video Details
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - Export Skype Chat Data to Readable Text
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
+* [GoldFish](https://goldfish.social/) - Open-Source TikTok Alternative
 * [Video Chat Apps / Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_chat) - Video Calls
 * [Zoom Escaper](https://zoomescaper.com/) - Self-Sabotage Video Calls to Escape Meetings
 * [Pyrite](https://github.com/garage44/pyrite) - Self-Hosted Video Calls
@@ -960,6 +963,7 @@
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) - Prevent Firefox Memory Leaks 
 * [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) or [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Firefox Hidden Settings
 * [Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - Firefox UI Enhancements
+* [Firefox Onebar](https://codeberg.org/Freeplay/Firefox-Onebar) - Single Bar UI
 * [Firefox Access](https://www.accessfirefox.org/) - Firefox Accessibility Tools for the Visually Impaired
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - Firefox Themes List
 * [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - Firefox CSS Guides
@@ -1016,7 +1020,7 @@
 * [KeywordSheeter](https://keywordsheeter.com/) - Keyword Research Tool
 * [Esteroids](https://esteroids.eth.limo/#) - Decentralized Web Search Engine
 * [Social-Searcher](https://www.social-searcher.com/), [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap), [Social Media CSE](https://cse.google.com/cse?cx=73dda67fd05b4405f#gsc.tab=1&gsc.sort=) or [Social Mention](http://socialmention.com/) - Social Media Search Engine  
-* [BoardReader](https://boardreader.com/) or [FindAForum](https://www.findaforum.net/Home/Search/) - Forum Search Engine 
+* [BoardReader](https://boardreader.com/), [CrowdView](https://crowdview.ai/) or [FindAForum](https://www.findaforum.net/Home/Search/) - Forum Search Engine 
 * [Blog Search Engine](http://www.blogsearchengine.org/), [Blog-Search](https://www.blog-search.com/), [BlogErnity](http://www.bloggernity.com/), [BlogSurf](https://blogsurf.io/) or [SearchBlogspot](https://www.searchblogspot.com/) - Blog Search
 * [4chanSearch](https://4chansearch.com/) - 4chan Search
 * [Git Search Engine](https://zzollo.co/) - Search GitHub, GitLab etc.
@@ -1375,7 +1379,6 @@
 * [discord-mutual-friends](https://github.com/fr3fou/discord-mutual-friends) - Visualize Mutual Discord Friends
 * [TagMap](https://tagmap.io/) - Meet People with Similar Interests
 * [discasset](https://github.com/Commandtechno/discasset), [2](https://gitlab.com/derpystuff/discasset) - Discord Asset Grabber
-* [BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - Bot Messaging Panel
 * [Figma](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI) - Discord Resources
 * [Mon2Cam](https://github.com/ShayBox/Mon2Cam) - Multi-Monitor Discord Screenshare Fix
 * [OpenAsar](https://openasar.dev/) - Improved app.asar / [GitHub](https://github.com/GooseMod/OpenAsar)
@@ -1467,6 +1470,7 @@
 * [YouTube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) - YouTube Comment Download Script
 * [Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/), [YCS](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa?hl=en) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
 * [Upvote Anywhere](https://github.com/z0ccc/Upvote-Anywhere) or [Karamel](https://chrome.google.com/webstore/detail/karamel-view-reddit-comme/halllmdjninjohpckldgkaolbhgkfnpe?hl=en) - Replace YouTube Comments with Reddit Comments
+* [TabView YouTube](https://greasyfork.org/en/scripts/428651) - View Comments / Info in Tab View
 * [Petit tube](http://www.petittube.com/) - YouTube Vids with -100 views 
 * [YouTube-Geofind](https://mattw.io/youtube-geofind/location) - Find Geotagged Videos
 * [Astronaut](http://astronaut.io/) - Watch Videos with 0 Views
@@ -1481,7 +1485,8 @@
 * [TwitchTheater](https://twitchtheater.tv/), [YouTube Multiplier](http://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
 * [Campfire](https://campfire.gg), [Walrus](https://joinwalrus.tv/), [SyncTube](https://synctube.xyz/), [Sync-Tube](https://sync-tube.de/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
 * [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer) - Video Web Player
-* [HookTube](https://hooktube.com/) - View YouTube Videos on Lightweight Page / [Redirect Script](https://greasyfork.org/en/scripts/24163-youtube-unblocker) 
+* [HookTube](https://hooktube.com/) - View YouTube Videos on Lightweight Page / [Redirect Script](https://greasyfork.org/en/scripts/24163-youtube-unblocker)
+* [YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802) - Speed Up YouTube
 * [myTube](https://github.com/keitharm/mytube) - Bloat Free YouTube Client
 * [Ytfzf](https://github.com/pystardust/ytfzf) or [YewTube](https://github.com/iamtalhaasghar/yewtube) - Terminal YouTube Players
 * [SmartTubeNext](https://smartyoutubetv.github.io/) - Ad Free Android TV YouTube Player / [GitHub](https://github.com/yuliskov/SmartTubeNext)
@@ -1800,9 +1805,10 @@ Twitch Stream Tracker
 * [Dockerholics](https://github.com/petersem/dockerholics) - Docker Apps
 * [WebCatalog](https://webcatalog.app/) - Turn Sites into Desktop Apps
 * [Heimdall](https://heimdall.site/) - Application Manager
-* [GParted](https://gparted.org/), [CloneZilla](https://clonezilla.org/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
+* [GParted](https://gparted.org/), [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
 * [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-P) - Easy GPU Paravirtualization
 * [Gptgen](https://github.com/xorangekiller/gptgen) - MBR Partition Table to GPT Converter
+* [Ext3Fsd](https://github.com/matt-wu/Ext3Fsd) - Ext2/3/4 File System Driver
 * [WinCDEmu](https://wincdemu.sysprogs.org/) - CD/DVD/BD Emulator
 * [PC Manger](https://pcmanager-en.microsoft.com/) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Manager / Cleanup
 * [SpeedyFox](https://crystalidea.com/speedyfox) - Optimize Program Performance
@@ -2042,7 +2048,6 @@ Twitch Stream Tracker
 * [ngrep](https://github.com/jpr5/ngrep) - Specify Expressions to match against Data Payloads of Packets 
 * [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) or [LogDissect](https://github.com/dogoncouch/logdissect/) - Log Analyzation Utility
 * [DependecyWalker](https://www.dependencywalker.com/) or [Dependencies](https://github.com/lucasg/Dependencies) - View Application Dependencies 
-* [FluentStore](https://github.com/yoshiask/FluentStore) - Microsoft Store Frontend
 * [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) or [Reinstall Preinstalled](https://pastebin.com/5NnBEqnm) / [Guide](https://youtu.be/EQo53hvWy8Q) - Add Microsoft Store to Windows
 * [Vantage](https://rentry.co/lenbian) - Lenovo Vantage Without MS Store
 * [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage
@@ -2151,7 +2156,8 @@ Twitch Stream Tracker
 ## ▷ File Tools
 
 * ⭐ **[File Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_download_managers)**, **[2](https://en.wikipedia.org/wiki/Comparison_of_download_managers)** - Programs to Help Manage Downloads
-* ⭐ **[File Hosting / Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)** - Share, Store & Sync Files
+* ⭐ **[File Hosting / Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)** - Share, Store and Sync Files
+* ⭐ **[Warpinator](https://github.com/slowscript/warpinator-windows)** / [Android](https://github.com/slowscript/warpinator-android), [QRServ](https://github.com/uintdev/qrserv) or [MyPhoneExplorer](https://www.fjsoft.at/) - Sync Files Between Phone / Desktop
 * ⭐ **[Multi-Site Cloud Storage Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_cloud_storage_managers)** - Manage Cloud Files on Multiple Sites
 * ⭐ **[Windows File Explorers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_file_explorers)** - Improved Windows File Explorers
 * ⭐ **[File Backup Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_backup_tools)** - File / Data Backup Tools
@@ -2186,7 +2192,6 @@ Twitch Stream Tracker
 * [Files 2 Folder](https://www.dcmembers.com/skwire/download/files-2-folder/) - Create / Copy to Folders Created by File Name
 * [Path Copy Copy](https://pathcopycopy.github.io/) - Copy File Pathes via Context Menu
 * [File-Examples](https://file-examples.com/) - File Examples
-* [MyPhoneExplorer](https://www.fjsoft.at/) - Manage / Sync Your Phone with PC
 * [RollMyFile](https://rollmyfile.com/) - Open Files Online
 * [AList](https://github.com/Xhofe/alist) - File Listing Program
 * [leteckaposta](http://leteckaposta.cz/), [Send](https://send.vis.ee/), [File Send](https://filesend.standardnotes.com/) or [LitterBox](https://litterbox.catbox.moe/) - Temp File Hosts
