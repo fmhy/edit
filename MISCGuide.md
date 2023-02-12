@@ -704,6 +704,7 @@
 * [DMC Cookbooks](https://archive.lib.msu.edu/DMC/cookbooks/) - Cookbooks
 * [Cook Bookshelf](https://t.me/cook_bookshelf) - Cookbooks / Telegram
 * [Southern Cookbook](https://archive.org/details/southerncookbook00lustrich/) - Cookbook Southern
+* [ChefGPT](https://www.chefgpt.xyz/) - AI Recipe Generator
 * [Search-22](https://search-22.com/recipe-search-tools) - Multi-Site Recipe Search
 * [SuperCook](https://www.supercook.com/) - Recipe Search
 * [MyFridgeFood](https://www.myfridgefood.com/) - Recipe Search
