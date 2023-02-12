@@ -1645,6 +1645,7 @@
 * [DivxTotal](https://www.divxtotal.pm/), [2](https://www.divxtotal.pl/) - Movies / [Telegram](https://t.me/divxtotal2)
 * [Grantorrent](https://grantorrent.nl/), [2](https://grantorrent.ch/) - Movies / TV
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
+* [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries
 * [Frozen Layer](https://www.frozen-layer.com/) - Anime
 * [unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
@@ -1719,6 +1720,8 @@
 * [pirateca](https://pirateca.com/) - Books
 * [Lectulandia](https://www.lectulandia.rocks/) - Books
 * [ePub Gratis](https://www.epubgratis.vip/) - Books
+* [Espaebook](https://espaebook.mobi/) - Books
+* [Espaebook2](https://www.espaebook2.com/) - Books
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
 * [librosintinta](https://www.librosintinta.in/) - PDF Search
 * [albalearning](https://albalearning.com/) - Audiobooks
@@ -1745,6 +1748,8 @@
 * [olympusscan](https://olympusscan.top/) - Manga
 * [shayami](https://shayami.com/) - Manga
 * [legionasia](https://legionasia.com/) - Manga
+* [Nova](https://novelasligeras.net/) - Manga / Light Novels
+* [Izicomics](https://www.izicomics.com/) - Manga / Comics
 * [MangasEnPdf](https://t.me/MangasEnPdf) - Manga / Telegram 
 * [tupropiaaventura_bot](https://t.me/tupropiaaventura_bot) - Books / Telegram 
 * [Recetas Vegetarianas](https://recetasvegetarianas.netlify.app/) -  Vegan Recipes
