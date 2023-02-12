@@ -18,6 +18,7 @@
 * ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - [Discord](https://discord.gg/Up3YARe4RW)
 * ⭐ **[DODI](http://dodi-repacks.site/)** - [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
 * ⭐ **[Steam Underground](https://cs.rin.ru/)** - [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Status](https://csrinstaff.writeas.com/)
+* ⭐ **[KaOsKrew](https://www.kaoskrew.org/)**
 * ⭐ **[Nexus-Games](https://nexus-games.net/)** - [Discord](https://discord.gg/8YXGgy4DJj)
 * ⭐ **[DyR0t(-_-t)'s Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dyr0t.28-_-t)** 
 * ⭐ **[CrackHub](https://crackhub.site/)** - [Discord](https://discord.gg/T669D6weqt) / [Divolt](https://divolt.xyz/invite/82nEH5Sp) / [RSS](https://scene.crackhub.site/category/iso/rss)
@@ -38,7 +39,6 @@
 * [Game3rb](https://game3rb.com/) 
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.me/) - [Discord](https://discord.gg/693hNBdymb)
 * [CPG](https://cpgrepacks.site/) - [Discord](https://discord.gg/dtBSZ9N)
-* [KaOsKrew](https://www.kaoskrew.org/)
 * [Pirated-Games](https://pirated-games.com/) - [Discord](https://discord.com/invite/MsgRj3SUrE)
 * [GetGamez](https://getgamez.net/) - [Discord](https://discord.com/invite/tNhPmCU)
 * [Le Fishe Repacks](https://discord.gg/W3MfGDXhAS)
