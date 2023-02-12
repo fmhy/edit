@@ -1720,7 +1720,6 @@
 * [pirateca](https://pirateca.com/) - Books
 * [Lectulandia](https://www.lectulandia.rocks/) - Books
 * [ePub Gratis](https://www.epubgratis.vip/) - Books
-* [Espaebook](https://espaebook.mobi/) - Books
 * [Espaebook2](https://www.espaebook2.com/) - Books
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
 * [librosintinta](https://www.librosintinta.in/) - PDF Search
