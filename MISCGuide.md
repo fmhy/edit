@@ -15,12 +15,12 @@
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
 * ⭐ **[PiratezParty](https://github.com/SpamVerse/Piratezparty)** - Piracy Index / [Telegram](https://t.me/piratezparty)
 * ⭐ **[Champagne Wiki](https://champagne.surge.sh/)**, [2](https://rentry.org/champagne_wiki/) - Piracy Index / [Guides](https://rentry.org/champagne_guides/)
+* ⭐ **[Esoterica Avenue](https://ori5000.github.io/)** - Software & Games Megathread / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * ⭐ **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR)** - Site / Tool Index
 * ⭐ **[The Index](https://theindex.moe)** or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - Japanese Media Indexes / [Discord](https://discord.gg/Snackbox ) / [Wiki](https://thewiki.moe/)
 * ⭐ **[/r/PiratedGames Megathread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Gaming Piracy Site Index / [Discord](https://discord.gg/dZWwhUy)
 * ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** or [/r/Stumbledon](https://www.reddit.com/r/Stumbledon/) - Helpful / Fun Sites
 * ⭐ **[Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)**, [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr), [5](https://rentry.org/verycompletelistofpiratesites), [6](https://github.com/Tosoju/awesome-piracy), [7](https://github.com/Shakil-Shahadat/awesome-piracy) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
-* ⭐ **[Esoterica Avenue](https://ori5000.github.io/)** - Software & Games Megathread / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * ⭐ **[WebOas.is](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) - Startpage / Site Index / [Source Code](https://pastebin.com/CczqreS4) / [Archive](https://rentry.co/e9y6b) / [FAQ](https://bin.disroot.org/?6a50fab15330b762#7VwnxM9Jsvp8wWmW6eFmmxyXppWVjErn4CMgd8wii9pC)
 * ⭐ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)** 
 * [Alternative Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - Find Software / App Alternatives 
