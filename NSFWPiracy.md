@@ -60,7 +60,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [LustFlix](https://lustflix.in/)
 * [suj](https://suj.nu/)
 * [tubegalore](https://www.tubegalore.com/)
-* [PornXP](https://pornxp.com/)
 * [thesextube](https://thesextube.net/)
 * [PornGO](https://www.porngo.com/) 
 * [PornTrex](https://www.porntrex.com/)
