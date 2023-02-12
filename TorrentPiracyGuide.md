@@ -24,7 +24,7 @@
 * ⭐ **[qBittorrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)**
 * ⭐ **[Transmission](https://transmissionbt.com/)** - [Screenshot](https://i.imgur.com/BnoGitA.png)
 * ⭐ **[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)** - Download Torrents to Google Drive
-* ⭐ **[from-torrent](https://multiup.org/en/upload/from-torrent)** - Torrent to DDL Sites / [Bypass 10GB Limit](https://i.imgur.com/ChMcdq8.png)
+* ⭐ **[from-torrent](https://multiup.org/en/upload/from-torrent)** - Torrent to DDL Sites / [Bypass 10GB Limit](https://pastebin.com/raw/QLGLLZ9d)
 * [Deluge](https://www.deluge-torrent.org/) - [Screenshot](https://i.imgur.com/RbQUHpF.png)
 * Deluge Tools - [Plugins](https://dev.deluge-torrent.org/wiki/Plugins) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
 * [Tixati](https://tixati.com/) - [Screenshot](https://i.imgur.com/joYQzTw.png) 
