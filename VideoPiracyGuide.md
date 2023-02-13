@@ -68,6 +68,7 @@
 * [aflaam](https://aflaam.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Tainio-Mania](https://tainio-mania.online/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Filma24](http://filma24.ch/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [MediaPlex](http://ftp.mfi.com.bd/movies?category=Hollywood) - Movies / TV / Anime
 * [Ling.online](https://ling.online/en/videos/films/) - Movies / TV
 * [Daily iFlix](https://dailyiflix.com) - Movies / TV
 * [Afdah.live](https://afdah.live/) - Movies / TV
