@@ -215,13 +215,6 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 
 ***
 
-#### DyR0t(-_-t
-
-`aHR0cHM6Ly92YWxoYWxsYS5keXJvLm1lLwo=`
-
-
-***
-
 #### SohaibXtreme
 
 `aHR0cHM6Ly93d3cuc29oYWlieHRyZW1lLm5ldC9GREwvc2V0dXAvZ2FtZXMv`
