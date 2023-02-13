@@ -33,7 +33,6 @@
 * [Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers) - Get Scene Release Updates
 * [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - [Discord](https://discord.gg/HP5sQ6c)
 * [Crohasit](https://crohasit.net/)
-* [Steam Repacks](https://steam-repacks.com/) - [Discord](https://discord.gg/PaZ64RKJaP)
 * [Game3rb](https://game3rb.com/) 
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.me/) - [Discord](https://discord.gg/693hNBdymb)
 * [CPG](https://cpgrepacks.site/) - [Discord](https://discord.gg/dtBSZ9N)
