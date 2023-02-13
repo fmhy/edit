@@ -9,30 +9,49 @@
 ***
 ***
 
+* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners
+* ⭐ **[/r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Trusted Game Download Sites / [Discord](https://discord.gg/dZWwhUy)
+* ⭐ **[Game Download CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_download_cse)** - Multi-Site Search
+* ⭐ **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)**, [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) - Multi-Site Search
+* ⭐ **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
+
+
 # ► Download Games
 
-* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners
-* ⭐ **[Game Download CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_download_cse)** - Multi-Site Search
-* ⭐ **[/r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Trusted Game Download Sites / [Discord](https://discord.gg/dZWwhUy)
-* ⭐ **[SteamRIP](https://steamrip.com/)** - [Discord](https://discord.gg/hj8dU5BFHE) / pw: 1234
-* ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - [Discord](https://discord.gg/Up3YARe4RW) / [Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_silentycrying.27s_game_drive)
-* ⭐ **[DODI](http://dodi-repacks.site/)** - [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
-* ⭐ **[Steam Underground](https://cs.rin.ru/)** - [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Status](https://csrinstaff.writeas.com/)
-* ⭐ **[KaOsKrew](https://www.kaoskrew.org/)**
-* ⭐ **[CrackHub](https://crackhub.site/)** - [Discord](https://discord.gg/T669D6weqt) / [Divolt](https://divolt.xyz/invite/82nEH5Sp) / [RSS](https://scene.crackhub.site/category/iso/rss)
-* ⭐ **[GamesDrive](https://gamesdrive.net/)** - [Discord](https://discord.gg/rXFNEMSa) / [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
-* ⭐ **[Ova Games](http://www.ovagames.com/)** - Use Adblocker
-* ⭐ **[ScOOter Repacks](https://scooter-repacks.site/)** - [Discord](https://discord.gg/BWKyN8SgvM)
-* ⭐ **[GoG Games](https://gog-games.com/)**
+* ⭐ **[Steam Underground](https://cs.rin.ru/)** - DDL | [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Status](https://csrinstaff.writeas.com/)
+* ⭐ **[CrackHub](https://crackhub.site/)** - Torrent & DDL | [Discord](https://discord.gg/T669D6weqt) / [Divolt](https://divolt.xyz/invite/82nEH5Sp) / [RSS](https://scene.crackhub.site/category/iso/rss)
+* ⭐ **[GamesDrive](https://gamesdrive.net/)** - Torrent & DDL | [Discord](https://discord.gg/rXFNEMSa) / [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
+* ⭐ **[Ova Games](http://www.ovagames.com/)** - DDL | Use Adblocker
+* ⭐ **[GoG Games](https://gog-games.com/)** - DDL | gog.com Game Rips
+* ⭐ **[Mobilism](https://forum.mobilism.org)** - Android Games
 * ⭐ **[VRPirates](https://t.me/vrpirates)** / [Wiki](https://wiki.vrpirates.club/), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
 * ⭐ **[Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers)** - F2P Minecraft Clients / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_minecraft_tools) / [Beta Clients](https://betacraft.uk/) / [Bedrock / Java](https://redd.it/xj5w9m)
-* [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - [Discord](https://discord.gg/HP5sQ6c)
-* [M4CKD0GE Repacks](https://m4ckd0ge-repacks.me/) - [Discord](https://discord.gg/693hNBdymb)
-* [CPG](https://cpgrepacks.site/) - [Discord](https://discord.gg/dtBSZ9N)
+* [Seven Gamers](https://www.seven-gamers.com/) - DDL & Torrent
 * [GLoad](https://gload.to/)
+* [SteamRIP](https://steamrip.com/) - [Discord](https://discord.gg/hj8dU5BFHE) / pw: 1234
 * [g4u](https://g4u.to/) - Password: 404
 * [IRC Games](https://redd.it/x804wg) - How-to Download Games via IRC
 * [Gamdie](https://gamdie.com/) / [Discord](https://discord.gg/hH9sedx4de), [itch.io](https://itch.io/games/new-and-popular/featured/free) / [Downloader](https://github.com/Emersont1/itchio) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
+* [Leeching Hell](http://www.leechinghell.pw/)
+
+# ► Repacks 
+Repacks are compressed versions of games for less download size in exchange for install time for people with low bandwidth or for those who want to download as less as possible. After installation, preinstalled and repack sizes are identical.
+
+* ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Torrent & DDL / [Discord](https://discord.gg/Up3YARe4RW) / [Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_silentycrying.27s_game_drive)
+* ⭐ **[DODI Repacks](http://dodi-repacks.site/)** - Torrent & DDL / [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
+* ⭐ **[KaOsKrew](https://www.kaoskrew.org/)** - Torrent & DDL
+* [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - Torrent & DDL / [Discord](https://discord.gg/HP5sQ6c)
+* [Xatab Repacks](https://b.otxataba.net/), [2](https://s1.otxatabanet.ru/), [3](https://m.byxatab.com/)
+* [M4CKD0GE Repacks](https://m4ckd0ge-repacks.me/) - [Discord](https://discord.gg/693hNBdymb)
+* [ScOOter Repacks](https://scooter-repacks.site/) - [Discord](https://discord.gg/BWKyN8SgvM)
+* [CPG Repacks](https://cpgrepacks.site/) - [Discord](https://discord.gg/dtBSZ9N)
+* [Darck Repacks](https://darckrepacks.com/)
+* [RePack.info](https://repack.info/)
+* [Tiny-Repacks](https://www.tiny-repacks.win)
+***
+
+# ► Other Game Downloads
+
 * [F2P Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_f2p_games) - Free to Play Games
 * [Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers) - Get Scene Release Updates
 * [LibreGameWiki](https://libregamewiki.org/List_of_games) - FOSS Games 
@@ -81,21 +100,6 @@
 * [Redump Forum](http://forum.redump.org/) - Disc Preservation Project
 * [Flashtro](https://flashtro.com/) - Retro Game Crack Archive
 * [How The Warez Scene Works](https://www.reddit.com/r/CrackWatch/comments/92uz49/the_warez_scene_how_it_works/) 
-
-***
-
-# ► Torrent Games
-
-* ⭐ **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
-* ⭐ **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)**, [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/) - Multi-Site Search
-* ⭐ **[/r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Trusted Game Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)
-* ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - [Discord](https://discord.gg/Up3YARe4RW)
-* ⭐ **[DODI](http://dodi-repacks.site/)** - [Discord](https://discord.gg/uE273qJ)
-* ⭐ **[KaOsKrew](https://www.kaoskrew.org/)**
-* ⭐ **[ScOOter Repacks](https://scooter-repacks.site/)** - [Discord](https://discord.gg/BWKyN8SgvM)
-* ⭐ **[Xatab Repacks](https://b.otxataba.net/)**, [2](https://s1.otxatabanet.ru/), [3](https://m.byxatab.com/)
-* [RePack.info](https://repack.info/)
-* [Tiny-Repacks](https://www.tiny-repacks.win)
 
 ***
 
@@ -246,8 +250,10 @@
 * ⭐ **[Browser Emulator Index](https://emulation.gametechwiki.com/index.php/Emulators_on_browsers)** - List of Browser Emulators
 * ⭐ **[My Abandonware](https://www.myabandonware.com/)**
 * ⭐ **[RetroGames](https://www.retrogames.cz/)**
+* ⭐ **[Magipack](https://www.magipack.games)**
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)**
 * ⭐ **[retrogames.cc](https://www.retrogames.cc/)** - [Download Guide](https://i.imgur.com/jSAsSb6.png)
+* [ClassicPCGames](https://archive.org/details/classicpcgames)
 * [ClassicReload](https://classicreload.com/)
 * [Retro Games Bot](https://retrogamesbot.com/)
 * [AtariMania](http://www.atarimania.com/index.html)
