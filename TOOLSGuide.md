@@ -171,7 +171,7 @@
 * [Neble](https://neble.app/summary) - Summarize Text
 * [Linguix](https://linguix.com/), [HyperWrite](https://hyperwriteai.com/) or [TextCleanr](https://www.textcleanr.com/) - Writing Assistants
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
-* [GLTR](http://gltr.io/dist/index.html), [DetectGPT](https://detectgpt.com/) or [openai-detector](https://huggingface.co/openai-detector/), [2](https://openai-openai-detector.hf.space/) - Detect AI Written Text
+* [GLTR](http://gltr.io/dist/index.html), [ZeroGPT](https://www.zerogpt.com/), [DetectGPT](https://detectgpt.com/) or [openai-detector](https://huggingface.co/openai-detector/), [2](https://openai-openai-detector.hf.space/) - Detect AI Written Text
 * [Cliche Info](http://cliche.theinfo.org/) - Detect Cliché's
 * [phraseup](http://www.phraseup.com/) - Autocomplete Common Phrases
 * [SongLyricsGenerator](http://www.songlyricsgenerator.com/) or [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) - Lyrics Generator
@@ -197,6 +197,7 @@
 * [Crow Translate](https://github.com/crow-translate/crow-translate) or [Argos](https://github.com/argosopentech/argos-translate) - Translation App
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
+* [LegaleseDecoder](https://legalesedecoder.com/free-legal-document-to-plain-english-translator/) - Legal Document Translator
 * [LyricsTranslate](https://lyricstranslate.com/) - Lyric Translator
 * [LingoJam](https://lingojam.com/) - Create Translator
 * [Translator++](https://dreamsavior.net/translator-the-introduction/) - Automatic Translator / Editor
@@ -215,7 +216,7 @@
 * [Delim](https://delim.co/) - Comma Separating Tool
 * [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - Create Parallel Text Web
 * [TextRepeater](https://textrepeater.com/) - Repeat Text
-* [Count Duplicates](https://www.somacon.com/p568.php) or [MyNikko](http://www.mynikko.com/tools/tool_duplicateremover.html) - Count / Remove Duplicates in a List
+* [Count Duplicates](https://www.somacon.com/p568.php), [DuplicateWord](https://duplicateword.com/) or [MyNikko](http://www.mynikko.com/tools/tool_duplicateremover.html) - Count / Remove Duplicates in a List
 * [TextCompare](https://www.textcompare.org/) or [DiffNow](https://www.diffnow.com/) - Compare Text
 * [Count Wordsworth](http://countwordsworth.com/) - Count Words in a List
 * [OfficeDocs](https://www.offidocs.com/) - Runs Desktop / Mobile Apps Online
@@ -957,6 +958,7 @@
 * [Browserling](https://www.browserling.com/) - Browser Emulators
 * [n.eko](https://neko.m1k1o.net) / [Github](https://github.com/m1k1o/neko) - Self-Hosted Virtual Browser
 * [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chrome without Google / [Launcher](https://github.com/henrypp/chrlauncher)
+* [Carbonyl](https://github.com/fathyb/carbonyl) - Chromium in Terminal
 * [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
 * [Safari Windows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_safari_windows) - Safari for Windows
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) - Prevent Firefox Memory Leaks 
@@ -1534,7 +1536,8 @@
 * [RegretsReporter](https://foundation.mozilla.org/en/campaigns/regrets-reporter/) - Report Regrettable YouTube Recommendations 
 * [YT Not Interested Button on Hover](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Easily Display Not Interested Button
 * [RapidTags](https://www.rapidtags.io/) or [YTubeTool](https://ytubetool.com/) - YouTube Tag Generators
-* [LiveTL](https://kentonishi.github.io/LiveTL/) - YouTube Live Stream Translator 
+* [ChatReplay](https://chatreplay.stream/) - YouTube Live Stream Chat Replay
+* [LiveTL](https://kentonishi.github.io/LiveTL/) - YouTube Live Stream Translator
 * [Youtube Summarizer](https://share.streamlit.io/iamknownstranger/ytsummary/main) or [SkipVid](https://skipvid.herokuapp.com/) - YouTube Transcript Summarizers
 * [YouTube Data Calc](https://dlogic.lk/projects/youtubedatacalc.php) - YouTube Data Usage Calculator
 * [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/) or [ytwrk](https://github.com/terorie/ytwrk) - YouTube Data Extraction 
@@ -1554,7 +1557,7 @@
 * [BetterTTV](https://betterttv.com/) or [FrankerFacez](https://www.frankerfacez.com/) - Twitch Enhancement Extension
 * [Stream Scheme](https://www.streamscheme.com/) - Livestreaming Guides / Resources
 * [Twitch Extensions](https://dashboard.twitch.tv/extensions/categories/43f48606-8b91-4149-94e6-02def012c79f) - Twitch Extension Index
-* [Trovo](https://trovo.live/), [Glimesh](https://glimesh.tv/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
+* [Trovo](https://trovo.live/), [Glimesh](https://glimesh.tv/), [Kick](https://kick.com/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
 * [twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl), [ClipsGameLab](https://clipsgamelab.github.io/), [Clipr](https://clipr.xyz/), [Twiclips](https://twiclips.com/) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) - Download Twitch Videos / Clips
 * [TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - Recover, View and Download Twitch Videos
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - Lightweight Twitch Webplayer
@@ -1746,7 +1749,7 @@ Twitch Stream Tracker
 * ⭐ **[Windows Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)** - Windows 10 Debloating Tools
 * ⭐ **[Windows Optimization](https://rentry.co/mdl-optimize-guide)** - Windows Optimization Guide / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat) / [Resources](https://github.com/BoringBoredom/PC-Optimization-Hub)
 * ⭐ **[Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png)**, [2](https://i.imgur.com/A36Yd7F.png) / [Course](https://keycombiner.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/) or [CheatKeys](https://cheatkeys.com/CheatSheet) - Keyboard Shortcuts
-* ⭐ **[PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/)** / [GitHub](https://github.com/microsoft/PowerToys), [CWCodes](http://cwcodes.net/), [Progress Tools](https://www.progress-tools.x10.mx/), [Guru3D](https://www.guru3d.com/files-categories), [JaxCore](https://jax-core.github.io/) or [JoeWare](https://www.joeware.net/freetools/index.htm) - System Tools
+* ⭐ **[PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/)** / [GitHub](https://github.com/microsoft/PowerToys), [CWCodes](http://cwcodes.net/), [Progress Tools](https://www.progress-tools.x10.mx/), [Guru3D](https://www.guru3d.com/files-categories), [JaxCore](https://jaxcore.app/) or [JoeWare](https://www.joeware.net/freetools/index.htm) - System Tools
 * ⭐ **[Hackintosh](https://hackintosh.com/)** or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines / [Guide](https://github.com/dortania/macOS-VMware-Guide), [2](https://www.tonymacx86.com/) /  [Installer](https://github.com/huangyz0918/Hackintosh-Installer-University) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) 
 * [Windows Repair Toolbox](https://windows-repair-toolbox.com/) - Windows Multi-Tool App
 * [Espanso](https://espanso.org/) - Typing Shortcuts / [GitHub](https://github.com/federico-terzi/espanso)
@@ -2061,7 +2064,7 @@ Twitch Stream Tracker
 * [Windows 11 Fixer](https://github.com/99natmar99/Windows-11-Fixer) - Win 11 Improvement Tool
 * [Bypass Win11 Requirements](https://github.com/osx86-ijb/bypass-windows11-requirements) - How-To Bypass Windows 11 System Requirements
 * [Windows 11 Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 System Requirements Bypasser
-* [Windows 11 Debloater](https://github.com/teeotsa/windows-11-debloat), [win11SetupScript](https://github.com/fedoz13/win11SetupScript), [debloat-windows11](https://github.com/kdpuvvadi/debloat-windows11) or [XToolbox](https://github.com/xemulat/XToolbox) - Windows 11 Debloaters
+* [Windows 11 Debloater](https://github.com/teeotsa/windows-11-debloat), [win11SetupScript](https://github.com/fedoz13/win11SetupScript), [debloat-windows11](https://github.com/kdpuvvadi/debloat-windows11), [Debloos](https://github.com/builtbybel/Debloos) or [XToolbox](https://github.com/xemulat/XToolbox) - Windows 11 Debloaters
 * [Win11DevBypass](https://github.com/rushiranpise/win11devbypass) - Bypass Win 11 Dev Channel Restrictions
 * [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - Windows 11 Powertoys
 * [ElevenClock](https://github.com/martinet101/ElevenClock) - Windows 11 Secondary Monitor Clock
@@ -2156,7 +2159,7 @@ Twitch Stream Tracker
 
 * ⭐ **[File Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_download_managers)**, **[2](https://en.wikipedia.org/wiki/Comparison_of_download_managers)** - Programs to Help Manage Downloads
 * ⭐ **[File Hosting / Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)** - Share, Store and Sync Files
-* ⭐ **[Warpinator](https://github.com/slowscript/warpinator-windows)** / [Android](https://github.com/slowscript/warpinator-android), [QRServ](https://github.com/uintdev/qrserv) or [MyPhoneExplorer](https://www.fjsoft.at/) - Sync Files Between Phone / Desktop
+* ⭐ **[Warpinator](https://github.com/slowscript/warpinator-windows)** / [Android](https://github.com/slowscript/warpinator-android), [QRServ](https://github.com/uintdev/qrserv), [LocalSend](https://localsend.org/) or [MyPhoneExplorer](https://www.fjsoft.at/) - Sync Files Between Phone / Desktop
 * ⭐ **[Multi-Site Cloud Storage Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_cloud_storage_managers)** - Manage Cloud Files on Multiple Sites
 * ⭐ **[Windows File Explorers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_file_explorers)** - Improved Windows File Explorers
 * ⭐ **[File Backup Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_backup_tools)** - File / Data Backup Tools
