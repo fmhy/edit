@@ -25,7 +25,8 @@
 * [blacklistedbois](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_blacklistedbois)
 * [Shiba](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_shiba)
 * [HB4All](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_happyboy)
-* [BlinkDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_blinkdrive) 
+* [BlinkDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_blinkdrive)
+* [GDrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_game_drive)
 * [Mark41stark](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mark41stark)
 * [KL Teamdrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_kl-teamdrive)
 * [Cloud Eleventh Hour](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cloud_eleventh_hour)
@@ -96,6 +97,7 @@
 * [BoltBB](https://boltbb.me/) - Video / Software / Games / Books / NSFW
 * [WorldSRC](https://www.worldsrc.net/) - Video / Audio / Games / Software / Android / [Donate](https://www.worldsrc.net/service_end)
 * [Team OS](https://www.teamos.xyz/) - Software / Games / Books / Android
+* [DarkSoftware](https://darksoftware.net/) - Video / Audio / Games / ROMs
 * [WarezBook](https://www.warezbook.org/) - Video / Audio / Software / Games / Books 
 * [Warez-World](https://warez-world.org/) - Video / Audio / Games / Software / Android / Books / Magazines / NSFW
 * [FreshWAP](https://www.freshwap.us/), [2](https://freshwap.cc/) - Video / Audio / Software / Games / Android / Books / Magazines  
