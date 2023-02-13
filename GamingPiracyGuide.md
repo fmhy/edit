@@ -15,11 +15,10 @@
 * ⭐ **[Game Download CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_download_cse)** - Multi-Site Search
 * ⭐ **[/r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Trusted Game Download Sites / [Discord](https://discord.gg/dZWwhUy)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - [Discord](https://discord.gg/hj8dU5BFHE) / pw: 1234
-* ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - [Discord](https://discord.gg/Up3YARe4RW)
+* ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - [Discord](https://discord.gg/Up3YARe4RW) / [Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_silentycrying.27s_game_drive)
 * ⭐ **[DODI](http://dodi-repacks.site/)** - [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
 * ⭐ **[Steam Underground](https://cs.rin.ru/)** - [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Status](https://csrinstaff.writeas.com/)
 * ⭐ **[KaOsKrew](https://www.kaoskrew.org/)**
-* ⭐ **[DyR0t(-_-t)'s Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dyr0t.28-_-t)** 
 * ⭐ **[CrackHub](https://crackhub.site/)** - [Discord](https://discord.gg/T669D6weqt) / [Divolt](https://divolt.xyz/invite/82nEH5Sp) / [RSS](https://scene.crackhub.site/category/iso/rss)
 * ⭐ **[GamesDrive](https://gamesdrive.net/)** - [Discord](https://discord.gg/rXFNEMSa) / [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * ⭐ **[Ova Games](http://www.ovagames.com/)** - Use Adblocker
@@ -27,38 +26,15 @@
 * ⭐ **[GoG Games](https://gog-games.com/)**
 * ⭐ **[VRPirates](https://t.me/vrpirates)** / [Wiki](https://wiki.vrpirates.club/), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
 * ⭐ **[Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers)** - F2P Minecraft Clients / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_minecraft_tools) / [Beta Clients](https://betacraft.uk/) / [Bedrock / Java](https://redd.it/xj5w9m)
-* [DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "games" or "roms"
+* [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - [Discord](https://discord.gg/HP5sQ6c)
+* [M4CKD0GE Repacks](https://m4ckd0ge-repacks.me/) - [Discord](https://discord.gg/693hNBdymb)
+* [CPG](https://cpgrepacks.site/) - [Discord](https://discord.gg/dtBSZ9N)
+* [GLoad](https://gload.to/)
+* [g4u](https://g4u.to/) - Password: 404
+* [IRC Games](https://redd.it/x804wg) - How-to Download Games via IRC
 * [Gamdie](https://gamdie.com/) / [Discord](https://discord.gg/hH9sedx4de), [itch.io](https://itch.io/games/new-and-popular/featured/free) / [Downloader](https://github.com/Emersont1/itchio) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
 * [F2P Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_f2p_games) - Free to Play Games
 * [Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers) - Get Scene Release Updates
-* [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - [Discord](https://discord.gg/HP5sQ6c)
-* [Crohasit](https://crohasit.net/)
-* [Game3rb](https://game3rb.com/) 
-* [M4CKD0GE Repacks](https://m4ckd0ge-repacks.me/) - [Discord](https://discord.gg/693hNBdymb)
-* [CPG](https://cpgrepacks.site/) - [Discord](https://discord.gg/dtBSZ9N)
-* [Pirated-Games](https://pirated-games.com/) - [Discord](https://discord.com/invite/MsgRj3SUrE)
-* [GetGamez](https://getgamez.net/) - [Discord](https://discord.com/invite/tNhPmCU)
-* [Le Fishe Repacks](https://discord.gg/W3MfGDXhAS)
-* [ElAmigos](https://elamigos.site/)
-* [MineRocker Repacks](https://discord.gg/T3kqPaPWvR)
-* [GLoad](https://gload.to/)
-* [SEHS Games](https://www.sehsgames.com/)
-* [Leeching Hell](http://leechinghell.pw/)
-* [DarkSoftware](https://darksoftware.net/)
-* [SohaibXtreme](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sohaibxtreme) 
-* [LegendaryRepacks](https://discord.gg/RUSNHSk) - Universal Bypass Required
-* [LiGHT Repack Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_light_repack_archive)
-* [silentycrying's Game Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_silentycrying.27s_game_drive) 
-* [DLFox](https://www.dlfox.com/)
-* [Alphagames4u](https://alphagames4u.com/) - [Discord](https://discord.gg/QjrJSs7maj)
-* [RepackLab](https://repacklab.com/) - [Discord](https://discord.gg/X7sjSxgrfk)
-* [SPiKY Repacks](https://discord.gg/ZHC6pffMz2)
-* [Game Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_game_drive)
-* [pc_game_down](https://t.me/pc_game_down) - Telegram
-* [g4u](https://g4u.to/) - Password: 404
-* [GoodOldDownloads Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_goodolddownloads_backup)
-* [PCGames-Download Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pcgames-download_backup)
-* [IRC Games](https://redd.it/x804wg) - How-to Download Games via IRC
 * [LibreGameWiki](https://libregamewiki.org/List_of_games) - FOSS Games 
 * [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) - Open-Source Games
 * [Open Source Game Clones](https://osgameclones.com/) - Open-Source Game Clones
