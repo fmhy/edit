@@ -153,6 +153,7 @@
 * [How To Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
 * [AltCtrls](https://altctrls.info/) - Custom Controller Crafting Resources
 * [Gamesoft](http://www.gamesoft.com/) - Gaming News Feed Manager
+* [Shmuplations](https://shmuplations.com/) - Japanese Developer Interviews
 * [Sega Retro](https://segaretro.org/) - Sega Wiki
 * [Doom Wiki](https://doomwiki.org/wiki/Entryway) - Doom Community Project Documentation
 * [Hard Drop](https://harddrop.com/wiki/Tetris_Wiki) or [Tetris.wiki](https://tetris.wiki/) - Tetris Wikis
