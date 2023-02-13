@@ -91,24 +91,11 @@
 * ⭐ **[/r/PiratedGames Mega Thread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Trusted Game Torrent Sites / [Discord](https://discord.gg/5AsChT2WCd)
 * ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - [Discord](https://discord.gg/Up3YARe4RW)
 * ⭐ **[DODI](http://dodi-repacks.site/)** - [Discord](https://discord.gg/uE273qJ)
+* ⭐ **[KaOsKrew](https://www.kaoskrew.org/)**
 * ⭐ **[ScOOter Repacks](https://scooter-repacks.site/)** - [Discord](https://discord.gg/BWKyN8SgvM)
-* ⭐ **[Xatab Repack](https://b.otxataba.net/)**, [2](https://s1.otxatabanet.ru/), [3](https://m.byxatab.com/)
+* ⭐ **[Xatab Repacks](https://b.otxataba.net/)**, [2](https://s1.otxatabanet.ru/), [3](https://m.byxatab.com/)
 * ⭐ **[RePack.info](https://repack.info/)**
-* ⭐ **[Tuttop](https://tuttop.com/)** 
-* [Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f and type "games" or "roms"
-* [KaOsKrew](https://www.kaoskrew.org/)
-* [RobGamers](https://robgamers.net/)
-* [GameTrex](https://gametrex.com/)
-* [Seven Gamers](https://www.seven-gamers.com/) - [Discord](https://discord.gg/bzJkrxXXR2)
-* [CroTorrents](https://crotorrents.com/)
-* [GamesTorrents](https://www.gamestorrents.fm/)
-* [GetGamez](https://getgamez.net/) - [Discord](https://discord.com/invite/tNhPmCU)
-* [RaidOfGame](https://raidofgame.com/)
-* [Free GoG PC Games](https://freegogpcgames.com/)
 * [Tiny-Repacks](https://www.tiny-repacks.win)
-* [Rihno Games](https://rihnogames.com/)
-* [Gtorr](https://gtorr.net/) 
-* [Ali213](https://www.ali213.net/) - [How-To](https://i.imgur.com/qoZOx3b.png)
 
 ***
 
