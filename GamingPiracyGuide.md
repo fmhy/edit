@@ -30,7 +30,10 @@
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.me/) - [Discord](https://discord.gg/693hNBdymb)
 * [CPG](https://cpgrepacks.site/) - [Discord](https://discord.gg/dtBSZ9N)
 * [GLoad](https://gload.to/)
+* [Seven Gamers](https://www.seven-gamers.com/)
+* [Darck Repacks](https://darckrepacks.com/)
 * [g4u](https://g4u.to/) - Password: 404
+* [Leeching Hell](http://www.leechinghell.pw/)
 * [IRC Games](https://redd.it/x804wg) - How-to Download Games via IRC
 * [Gamdie](https://gamdie.com/) / [Discord](https://discord.gg/hH9sedx4de), [itch.io](https://itch.io/games/new-and-popular/featured/free) / [Downloader](https://github.com/Emersont1/itchio) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
 * [F2P Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_f2p_games) - Free to Play Games
@@ -301,6 +304,7 @@
 
 ## ▷ Arcade / Retro
 
+* ⭐ **[Magipack](https://www.magipack.games)** - Retro PC Games
 * ⭐ **[My Abandonware](https://www.myabandonware.com/)** - ROMs
 * ⭐ **[GamesNostalgia](https://gamesnostalgia.com/)** - ROMs / Amiga
 * ⭐ **[DOS Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dos_games)** - DOS Game Sites
@@ -324,6 +328,7 @@
 * [/1CC/](https://8kun.top/1cc/index.html) - Retro Games / [Discord](https://discord.com/invite/Y4dSzbXNau)
 * [Zombs-Lair](https://www.zombs-lair.com/) - Retro Games
 * [RetroSpec](http://retrospec.sgn.net/) - Retro Games
+* [ClassicPCGames](https://archive.org/details/classicpcgames) - Retro PC Games
 * [OldPCGaming](http://oldpcgaming.net/) - Retro PC Games
 * [~archive](http://websites.umich.edu/~archive/) - Retro PC / Mac Games
 * [LegendsWorld](https://www.legendsworld.net/) - Retro Adventure PC Games
