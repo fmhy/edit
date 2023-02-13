@@ -337,7 +337,8 @@
 * [data-dockerfiles](https://github.com/irbigdata/data-dockerfiles) - Docker Compose Files for Data Engineering
 * [Auto-Portforward](https://github.com/ruoshan/autoportforward) - Auto Port-Forwarding for Docker, Podman & Kubernetes
 * [Watchtower](https://github.com/containrrr/watchtower) - Automate Docker Container Image Updates
-* [CLIP-as-service](https://github.com/jina-ai/clip-as-service) - Embed Images / Sentences via CLIP Models 
+* [CLIP-as-service](https://github.com/jina-ai/clip-as-service) - Embed Images / Sentences via CLIP Models
+* [Catalyzex](https://www.catalyzex.com/) - Search Machine Learning Models / Papers
 * [OpenML](https://www.openml.org/) or [Hugging Face](https://huggingface.co/) - Machine Learning Datasets
 * [Kobra](https://kobra.dev/) - Visual Programming Language for Machine Learning
 * [DVC](https://dvc.org/) - Machine Learning Version Control
@@ -524,7 +525,7 @@
 * [Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation) - Web Animation Index
 * [WebDesigner](https://webdesigner.withgoogle.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/AriaMinaei/theatre), [Haiku](https://www.haikuanimator.com/), [Greensock](https://greensock.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [RenderForest](https://www.renderforest.com), [Mantra](https://jeremyckahn.github.io/mantra/) or [Animate.css](https://animate.style/) - Create Interactive Motion Graphics
 * [Paramoji](https://paramoji.org/) - Parametric Emoji 
-* [useAnimations](https://useanimations.com/index.html) or [LordIcon](https://lordicon.com/) - Animated Icons
+* [useAnimations](https://useanimations.com/index.html), [Creattie](https://creattie.com/lottie-animated-icons/free) or [LordIcon](https://lordicon.com/) - Animated Icons
 * [Curzr](https://github.com/TaylonChan/Curzr) - Animated Cursors
 * [Cursor Effects](https://tholman.com/cursor-effects/) - 90's Style Cursors
 * [RV's Free Effects](https://www.mf2fm.com/rv/) - Site / Cursor Effects
@@ -600,6 +601,7 @@
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites 
 * [Bubble](https://bubble.io/), [WeWeb](https://www.weweb.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/), [Symfony](https://symfony.com/) / [CLI](https://github.com/symfony-cli/symfony-cli), [Create-react-app](https://github.com/facebook/create-react-app), [Lowdefy](https://lowdefy.com/) or [Sktch.io](https://sktch.io/) - Web App Creators
 * [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) - Web App UI Creators
+* [OffBase](https://offbase.org/) - Offline Web App Creator
 * [Laravel](https://laravel.com/) or [Lona](https://lona-web.org/1.x/) - Web App Framework
 * [Sandstorm](https://sandstorm.io/) or [CloudRon](https://www.cloudron.io/) - Web App Hosts
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
@@ -1092,6 +1094,7 @@
 * [Qovery](https://www.qovery.com/) - AWS Development Platform
 * [I run code](https://github.com/engineer-man/piston-bot) - Evaluate Code Snippets via Discord
 * [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
+* [BrickHub](https://brickhub.dev/) - Share Code Brick Templates
 * [ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate) - Modifiable Shellcode Template 
 * [Spork](https://github.com/atek-cloud/spork) - P2P Sockets CLI / [Discord](https://discord.gg/UUCVrFYksv)
 * Vim Tools - [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Config](https://github.com/ChristianChiarulli/LunarVim) 
