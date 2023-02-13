@@ -528,6 +528,7 @@
 * [AC-Market](https://ac-market.org/) - Alt App Store
 * [Skydroid](https://github.com/redsolver/skydroid) - Alt App Store
 * [Accrescent](https://accrescent.app/) - Alt App Store
+* [AppTeka](https://appteka.store/) - Alt App Store
 * [Fossapps Creator](https://un.pixel-fy.com/) - Fossapps Package Creator / [GitHub](https://github.com/wacko1805/Fossapps-creator)
 * [Android Zone](https://android-zone.ws/) - Forum
 * [Android Ultimate Collection](https://forum.xda-developers.com/t/android-ultimate-collection-guides.4513231/) - Untouched
@@ -1227,9 +1228,10 @@
 
 # ► iOS Apps
 
-* ⭐ **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open Source iOS App Index
 * ⭐ **[ReJail](https://rejail.ru/)** - App / Tweak Repository
 * ⭐ **[CyPwn](https://repo.cypwn.xyz/)**, [2](https://ipa.cypwn.xyz/) - App Repository / [Discord](https://discord.gg/cypwn)
+* ⭐ **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open Source App Index
+* ⭐ **[A.I. Apps](https://appraven.net/collection.php?listId=63b5eef1904afd2a981cead0)** - AI App Index
 * [AppDB](https://appdb.to/) or [AppAddict](https://www.appaddict.org/) - iOS Apps
 * [TrollStore](https://github.com/opa334/TrollStore) - iOS Apps / 15.0 to 15.1.1
 * [Streamiza](https://t.me/streamiza) - Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)
