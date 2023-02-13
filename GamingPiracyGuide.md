@@ -94,7 +94,7 @@
 * ⭐ **[KaOsKrew](https://www.kaoskrew.org/)**
 * ⭐ **[ScOOter Repacks](https://scooter-repacks.site/)** - [Discord](https://discord.gg/BWKyN8SgvM)
 * ⭐ **[Xatab Repacks](https://b.otxataba.net/)**, [2](https://s1.otxatabanet.ru/), [3](https://m.byxatab.com/)
-* ⭐ **[RePack.info](https://repack.info/)**
+* [RePack.info](https://repack.info/)
 * [Tiny-Repacks](https://www.tiny-repacks.win)
 
 ***
