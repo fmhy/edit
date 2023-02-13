@@ -19,7 +19,6 @@
 * ⭐ **[DODI](http://dodi-repacks.site/)** - [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
 * ⭐ **[Steam Underground](https://cs.rin.ru/)** - [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Status](https://csrinstaff.writeas.com/)
 * ⭐ **[KaOsKrew](https://www.kaoskrew.org/)**
-* ⭐ **[Nexus-Games](https://nexus-games.net/)** - [Discord](https://discord.gg/8YXGgy4DJj)
 * ⭐ **[DyR0t(-_-t)'s Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dyr0t.28-_-t)** 
 * ⭐ **[CrackHub](https://crackhub.site/)** - [Discord](https://discord.gg/T669D6weqt) / [Divolt](https://divolt.xyz/invite/82nEH5Sp) / [RSS](https://scene.crackhub.site/category/iso/rss)
 * ⭐ **[GamesDrive](https://gamesdrive.net/)** - [Discord](https://discord.gg/rXFNEMSa) / [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
@@ -270,7 +269,7 @@
 * [Many Dumped Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_many_dumped_games) - ROMs
 * [nwifiresticks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_nwifiresticks) - ROMs
 * [Rom Pack](https://www.ROMspack.com/) - ROMs
-* [NoPayStation](https://nopaystation.com/) or [PSNDL](https://psndl.net/) - ROMs / Sony Consoles
+* [NoPayStation](https://nopaystation.com/), [SafeROMs](https://www.saferoms.com/) or [PSNDL](https://psndl.net/) - ROMs / Playstation Consoles
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
 * [Xbox Fan](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_xbox_fan) - Xbox 360 ROMs / LT Firmware & FREEBOOT / [Telegram](https://t.me/xbox_fan_games)
 * [Xbox Emulation Hub](https://discord.com/invite/7pcAbZzpXj) - Xbox Emulation Discord
