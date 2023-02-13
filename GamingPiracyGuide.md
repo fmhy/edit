@@ -40,7 +40,6 @@
 * [Open Source Game Clones](https://osgameclones.com/) - Open-Source Game Clones
 * [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes) - Game Remakes
 * [Alpha Beta Gamer](https://alphabetagamer.com/) - Play games in Alpha or Beta Testing
-* [Game Top](https://www.gametop.com/) - Casual PC Games
 * [TeknoParrot](https://teknoparrot.com/) - Modern Arcade Client / [Games](http://teknoparrot.link.free.fr/), [2](https://www.retroROMs.info/forum/topic/Teknoparrot-games.htm)
 * [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Games
 * [awesome-ttygames](https://ligurio.github.io/awesome-ttygames/) - ASCII Terminal Games
