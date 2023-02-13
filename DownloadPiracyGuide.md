@@ -65,6 +65,7 @@
 * [Archive.org](https://archive.org/) - Video / Audio / Magazines / Newspapers / ROMs / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader)
 * [WarezForums](https://warezforums.com/) - Video / Audio / Games / ROMs / Software / Books / Comics / Android / [Account Application](https://t.me/joinchat/AAAAAFRH5fns4IiE-T2TcA)
 * [Releaselog](http://www.rlslog.net/) - Video / Games / ROMs / Software / Books / Comics / Magazines / Android
+* [OneDDL](https://oneddl.org/) - Video / Audio / Software / Games / Books
 * [FilmSofts](https://www.filmsofts.com/) - Video / Audio / Games / ROMs / Software / Books / Comics / NSFW
 * [Warez-Serbia](https://www.warez-serbia.com/) - Video / Audio / Games / Software / Android / Books / Magazines / NSFW 
 * [DownArchive](http://downarchive.org/) - Video / Audio / Software / Games / ROMs / Android / Books / Magazines
@@ -115,7 +116,6 @@
 * [TwistyDownload](http://www.twistysdownload.com) - Video / Audio / Games / Software
 * [ddlspot](https://www.ddlspot.com/) - Video / Audio / Games / Software
 * [Download For All](https://dl4all.org/), [2](https://dl4all.biz/) - Video / Audio / Software / Games / Books / Magazines
-* [OneDDL](https://oneddl.org/) - Video / Audio / Software / Games / Books
 * [SoftDDL](http://softddl.org/) - Video / Audio / Software
 * [Download.ir](https://download.ir/) - Software / Video / Android / Games / ROMs
 * [yasdl](https://www.yasdl.com/) - Software / Games / Audio / Video
