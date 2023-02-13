@@ -163,7 +163,6 @@
 * [stripegenerator](http://www.stripegenerator.com/) - Stripe Generator 
 * [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
 * [Flow Field](https://github.com/romellogoodman/flow-field.js) - Flow Field Generator
-* [Trianglify.io](https://trianglify.io/) - Generate low-poly Textures
 * [Stooge](https://stooge.me/) or [MakeBeliefsComix](https://makebeliefscomix.com/) - Comic Creators
 * [Zine Machine](https://zine-machine.glitch.me/) or [Electric Zine Maker](http://unicornycopia.com/ezm/) - Create / Print Zines
 * [BannerEasy](https://www.bannereasy.com) or [Bannery](https://bannery.app/) - Create Custom Banners
@@ -194,7 +193,9 @@
 * [Flag Maker](https://flagmaker-print.com/pages/flag-maker) - Flag Creator
 * [MakeCoatOfArms](https://www.allfamilycrests.com/makecoatofarms.htm ) - Coat of Arms Creator
 * [ArmorLab](https://armorlab.org/), [Kandinsky](https://www.kandinsky.io/) or [TextureLab](https://www.texturelab.io/) - Texture Generator / [GitHub](https://github.com/armory3d/armorlab)
+* [Trianglify.io](https://trianglify.io/) - Low-Poly Texture Generator
 * [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) - Texture Editor
+* [Materialize](https://boundingboxsoftware.com/materialize/getkey.php) - Material Generator
 * [NormalMap Online](https://cpetry.github.io/NormalMap-Online/) - Online NormalMap Generator
 * [PlantStudio](https://www.kurtz-fernhout.com/summary_plantstudio.html) - Plant Model / Illustration Creator 
 * [Dummy Image](https://dummyimage.com/) - Dynamic Dummy Image Generator 
@@ -423,6 +424,7 @@
 * [Generated Photos](https://generated.photos/) - AI Generated Model Photos
 * [3D Modeling Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_modeling_apps) - Free 3D Modeling Apps 
 * [Bloom3D](https://bloom3d.com/) or [Zdog](https://zzz.dog/) - Online 3D Modeling Tools
+* [AliceVision](https://alicevision.org/) - 3D Reconstruction / Camera Tracking
 * [Figurosity](https://figurosity.com/) - Human 3D Models
 * [Armorpaint](https://armorpaint.org/) - 3D Painting
 * [SculptGL](https://stephaneginier.com/sculptgl/) - 3D Sculpting
