@@ -221,28 +221,9 @@ Use a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage
 
 ***
 
-#### LiGHT Repack Archive
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXE0bFJVbndWaE1RdWFrbDF5TThPSDFKZTlfOTJMcFhF`
-
-***
-
 #### silentycrying's Game Drive
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL3UvMC9mb2xkZXJzLzFLMUZkTmJFdTktX3d5OHZuOXNFNzY4Vm9qWHF1NkZucA==`
-
-***
-
-#### GoodOldDownloads Backup
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xN01CMGdDY0NNcjNRcUVfQ2dKa2F4bWRYdFprNjFUZFovdmlldw==`
-
-
-***
-
-#### PCGames-Download Backup
-
-`aHR0cHM6Ly8xZmljaGllci5jb20vP2h5N2xzYmVwNmJxdHU0bG95MWo2`
 
 ***
 
