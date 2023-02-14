@@ -1640,6 +1640,8 @@
 * [dyndns](http://fina.dyndns.tv/) - TV
 * [Descarga Cine Clasico](https://descargacineclasico.net/) - Classical Movies
 * [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV
+* [RetroCanal](https://retrocanal.net/) - Classical Movies / TV
+* [Descargar videos de la tele](https://eljaviero.com/descargarvideosdelatele/) - TV
 * [Anime-ESP](https://anime-esp.com/) - Anime
 * [ddl.ice](https://ddl.ice-blue.workers.dev/0:/) - Anime
 * [N+2](https://nmasmas2.blogspot.com/) - Animated Movies / Cartoons
@@ -1653,13 +1655,14 @@
 
 ## ▷ Torrenting
 
-* [Mejor Torrent](https://mejortorrent.se/) - Video / Audio / Software / Games
+* [MejorTorrent.wtf](https://mejortorrent.wtf/) - Movies / TV / Documentaries / [Telegram](https://t.me/s/MejorTorrentAp)
+* [MejorTorrent.se](https://mejortorrent.se/) - Video / Audio / Software / Games / [Telegram](https://t.me/s/mejortorrentcom)
 * [EliteTorrent](https://elitetorrent.com/) - Movies / TV / Anime
 * [zonatorrent](https://zonatorrent.tv/) - Movies / TV
 * [Grantorrent.wtf](https://grantorrent.wtf/) - Movies / TV / Documentaries
 * [PasateaTorrent](https://pasateatorrent.net/) - Movies / TV
 * [Descargas](https://descargas2020.net/) - Movies / TV
-* [DonTorrent](https://dontorrent.gs/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent)
+* [DonTorrent](https://dontorrent.casa/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent)
 * [Tomadvix](https://tomadivx.net/) - Movies / TV
 * [DIVXTorrent](https://www.divxtorrent.com/) - Movies / TV
 * [DivxTotal](https://www.divxtotal.pm/), [2](https://www.divxtotal.pl/) - Movies / [Telegram](https://t.me/divxtotal2)
@@ -1712,6 +1715,7 @@
 * [asialiveaction](https://asialiveaction.com/) - Asian Drama
 * [doramasyt](https://www.doramasyt.com/) - Asian Drama
 * [doramasmp4](https://doramasmp4.io/) - Asian Drama
+* [DoramasFlix](https://doramasflixs.com/) - Asian Drama
 * [LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels) - Live TV / IPTV
 * [TeleBunker](https://www.telebunker.com/) - Live TV
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.tv/) - Live Soccer / MMA
