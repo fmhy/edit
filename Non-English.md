@@ -56,6 +56,7 @@
 * [LODYNET](https://ww.lodynet.cam/) - Movies / TV
 * [Fushaar](https://www.fushaar.com/), [2](https://fushaar.info/) - Movies / TV
 * [mycima](https://mycima.video/) - Movies / TV 
+* [Cima4Film](https://cima4flm.buzz/main1/) - Movies / TV
 * [aflamclub](https://aflamclub.com/) - Movies / TV / Anime
 * [egydead](https://w3.egydead.live) - Movies / TV / Anime
 * [movizland](https://new.movizland.cyou/), [2](https://movizland.info/) - Movies / TV / Anime
@@ -486,6 +487,7 @@
 * [warez.to](https://warez.to/) - Movies / TV / Games / Software / NSFW
 * [hd-source](https://hd-source.to/) - Video / NSFW
 * [MLCBoard](https://mlcboard.com/) - Movies
+* [Nima4k](https://nima4k.org/) - Movies / TV / Documentaries / Music
 * [German Telegram Movie Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_german_telegram_movie_downloads) - Movies
 * [Boerse](https://myboerse.bz/) - Video / Audio / Software / Android / NSFW
 * [Animes.so](https://www.animes.so/) - Anime
@@ -495,6 +497,7 @@
 * [ddl-albums](https://ddl-albums.net/) - MP3
 * [CasualGamers](https://casualgamers.club/) - Games
 * [GLOAD](https://gload.to/) - Games
+* [Androidliste](https://www.androidliste.de/) - Modded APKs
 
 ## ▷ Streaming
 
@@ -1652,6 +1655,8 @@
 * [MuchosPortables](https://www.muchosportables.com/) - Portable Software
 * [exploradoresp2p](http://exploradoresp2p.com/) - ED2K Links
 * [VictorRaulRR](https://victorraulrr.info/) - Modded APKs
+* [Androidlista](https://www.androidlista.com/) - Modded APKs
+* [APKilimitado](https://apkilimitado.com/) - Modded APKs
 
 ## ▷ Torrenting
 
@@ -1759,6 +1764,7 @@
 * [LectuEpubGratis](https://lectuepubgratis2.com/) - Books
 * [MundoEpubGratis](https://mundoepubgratis2.com/) - Books
 * [DebeLeer](https://www.debeleer.com/) - Books
+* [Todolibros](https://todolibros.net/) - Books
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
 * [librosintinta](https://www.librosintinta.in/) - PDF Search
 * [albalearning](https://albalearning.com/) - Audiobooks
@@ -1855,6 +1861,7 @@
 * [TurkishDrive](https://discord.gg/rkvnDa3qhP) - Drive Sharing Community
 * [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.com/) - Movies / Choose Voltran & press "скачать" for DL's 
 * [MP3 Indir](https://www.mp3indirdur.mobi/) - Music 
+* [HappyMod](https://www.happymodapkindir.com/) - Modded APKs
 
 ## ▷ Streaming
 
@@ -1891,6 +1898,9 @@
 ***
 
 # ► Ukrainian 
+
+## ▷ Torrenting
+* [Mazepa](https://mazepa.to/) - Video / Audio / Books
 
 ## ▷ Reading
 
