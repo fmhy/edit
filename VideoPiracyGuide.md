@@ -622,11 +622,11 @@
 * ⭐ **[Pahe](https://pahe.li/)**, [2](https://pahe.me/) - Movies / TV / Anime / [Discord](https://discord.gg/4AvaCsd2J4) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper)
 * ⭐ **[PSARips](https://psa.pm/)** - Movies / TV / [GDrive TG](https://t.me/PSAonGdrive) / [Scrape](https://github.com/NandiyaLive/PSALinkGrabber)
 * ⭐ **[Worlds Cinema](http://worldscinema.org/)** - Classic / Cult Films
+* ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / Account Required for 1ficher links / [DM](https://www.reddit.com/message/compose?to=nbatman) email for invite
 * ⭐ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - Download videos from streaming sites
 * [Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "video"
 * [RareLust](https://rarelust.com/) - Rare Movies / NSFW 
 * [My Duck Is Dead](http://www.myduckisdead.org/) - Rare Movies / NSFW
-* [MovieParadise](https://movieparadise.org/) - Movies / TV / Account Required for 1ficher links / [DM](https://www.reddit.com/message/compose?to=nbatman) email for invite
 * [Uloz](https://ulozto.net/) - Rare Movies / Short Films
 * [MobileTVShows](https://www.mobiletvshows.net/) - TV / Anime
 * [Medeberiyaa](https://medeberiyaa.com/) - Movies / TV / Anime
