@@ -626,7 +626,7 @@
 * [Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "video"
 * [RareLust](https://rarelust.com/) - Rare Movies / NSFW 
 * [My Duck Is Dead](http://www.myduckisdead.org/) - Rare Movies / NSFW
-* [MovieParadise](https://movieparadise.org/) - Movies / TV / [DM](https://www.reddit.com/message/compose?to=nbatman) email for invite
+* [MovieParadise](https://movieparadise.org/) - Movies / TV / Account Required for 1ficher links / [DM](https://www.reddit.com/message/compose?to=nbatman) email for invite
 * [Uloz](https://ulozto.net/) - Rare Movies / Short Films
 * [MobileTVShows](https://www.mobiletvshows.net/) - TV / Anime
 * [Medeberiyaa](https://medeberiyaa.com/) - Movies / TV / Anime
