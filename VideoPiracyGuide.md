@@ -488,6 +488,7 @@
 * [AllWrestling](https://www.allwrestling.online/) - MMA / Wrestling
 * [WatchWrestling.ai](https://watchwrestling.ai/) - MMA / Wrestling
 * [WatchWrestling.bz](https://watchwrestling.bz/) - MMA / Wrestling
+* [watchwrestlingonline.net](https://watchwrestlingonline.net/) - MMA / Wrestling / indies / puroresu
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling
 * [WatchWrestlingUp](https://watchwrestlingup.live/) - MMA / Wrestling
 * [WatchProWrestling](https://watchprowrestling.org/) - MMA / Wrestling
