@@ -1658,7 +1658,7 @@
 * [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)
 * [Tododescargas](https://tododescargas.net/) - Software
 * [Artistapirata](https://www.artistapirata.com/) - Software
-* [ProgramsVirtualesPC](https://www.programasvirtualespc.net/) - Software / Movies / TV
+* [ProgramasVirtualesPC](https://www.programasvirtualespc.net/) - Software / Movies / TV
 * [MuchosPortables](https://www.muchosportables.com/) - Portable Software
 * [exploradoresp2p](http://exploradoresp2p.com/) - Movies / TV / Documentaries / ED2K Links
 * [VictorRaulRR](https://victorraulrr.info/) - Modded APKs
