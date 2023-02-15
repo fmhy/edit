@@ -1621,7 +1621,7 @@
 
 ## ▷ Downloading
 
-* [identi](https://identi.io/) - Video / Audio / Software / Games
+* [identi](https://identi.io/) - Video / Audio / Reading / Software / Games
 * [ForoWarez](https://forowarez.info/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
 * [BladeMaster666](https://blademaster666.com/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
 * [LuchoEdu](https://www.luchoedu.org/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
@@ -1639,7 +1639,7 @@
 * [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - Movies
 * [SomosMovies](https://somosmovies.com/) - Movies
 * [Mega MKV](https://mega-mkv.com/) - Movies
-* [DLShared](https://dlshareds.blogspot.com/?m=1) - Movies
+* [DLShared](https://dlshareds.blogspot.com/?m=1) - Movies / Music
 * [DescargasDD](https://descargasdd.net/) - Movies / TV
 * [mirandopeliculas](https://mirandopeliculas.com/) - Movies / TV
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
@@ -1656,9 +1656,9 @@
 * [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)
 * [Tododescargas](https://tododescargas.net/) - Software
 * [Artistapirata](https://www.artistapirata.com/) - Software
-* [ProgramsVirtualePC](https://www.programasvirtualespc.net/) - Software
+* [ProgramsVirtualesPC](https://www.programasvirtualespc.net/) - Software / Movies / TV
 * [MuchosPortables](https://www.muchosportables.com/) - Portable Software
-* [exploradoresp2p](http://exploradoresp2p.com/) - ED2K Links
+* [exploradoresp2p](http://exploradoresp2p.com/) - Movies / TV / Documentaries / ED2K Links
 * [VictorRaulRR](https://victorraulrr.info/) - Modded APKs
 * [Androidlista](https://www.androidlista.com/) - Modded APKs
 * [APKilimitado](https://apkilimitado.com/) - Modded APKs
