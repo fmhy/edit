@@ -16,7 +16,7 @@
 * ⭐ **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - Multi-Calculator Sites
 * ⭐ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)** - Presentation Tools / Templates
 * ⭐ **[Data Visualization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)** - Create Chart / Visualize Data 
-* ⭐ **[Versus](https://versus.com/)**, [rtings](https://www.rtings.com/), [SocialCompare](https://socialcompare.com/en), [DifferenceBetween](http://www.differencebetween.net/) or [Diffen](https://www.diffen.com/) - Compare Anything 
+* ⭐ **[Versus](https://versus.com/)**, [SocialCompare](https://socialcompare.com/en), [DifferenceBetween](http://www.differencebetween.net/) or [Diffen](https://www.diffen.com/) - Compare Anything 
 * ⭐ **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)** - Organize Ideas / Projects
 * ⭐ **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** or [Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manual_sites) - Repair Articles / Manuals
 * ⭐ **[Shopping Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)** - Shopping / Price Tracking
@@ -1262,7 +1262,7 @@
 * [Acrylic](https://github.com/xirreal/Acrylic) - Glass Theme
 * [WinClassic](https://github.com/SlippingGitty/WinClassic) - Classic Windows Theme
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
-* [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis), [Nitroless](https://nitroless.app/) or [ImageClipboard](https://imageclipboard.com/) - Free Discord Nitro Emojis
+* [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) or [ImageClipboard](https://imageclipboard.com/) - Free Discord Nitro Emojis
 * [Slackmoji](https://github.com/seanprashad/slackmoji), [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis), [NitroEmoji](https://github.com/D3JF/NitroEmoji) or [emoji.gg](https://emoji.gg/) - Discord Emojis
 * [Emote Manager](https://github.com/EmoteBot/EmoteManager) - Custom Discord Emoji Manager 
 * [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - Discord Emoji Downloaders
