@@ -3053,6 +3053,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Telegram Bots**
 
+* https://t.me/+qkrAOiq7k7ozNzRk
 * https://github.com/junedkh/jmdkh-mltb / [2](https://github.com/anasty17/mirror-leech-telegram-bot)
 * https://t.me/torrentdrive_bot
 * https://t.me/torrent_2_drive
