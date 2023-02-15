@@ -1623,7 +1623,6 @@
 
 * [identi](https://identi.io/) - Video / Audio / Software / Games
 * [ForoWarez](https://forowarez.info/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
-* [IntercambiosVirtuales](https://www.intercambiosvirtuales.org/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
 * [BladeMaster666](https://blademaster666.com/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
 * [LuchoEdu](https://www.luchoedu.org/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
 * [Fiuxy](https://fiuxy2.com/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
