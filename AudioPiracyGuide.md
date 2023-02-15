@@ -85,8 +85,7 @@
 * [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - User-Made PluggnB Songs
 * [Musico](https://www.musi-co.com/listen/streams) - AI Generated Songs
 * [BitMidi](https://bitmidi.com/) - Stream / Download MIDI Files
-* [RemixPacks](https://remixpacks.club/) - STEMS
-* [KeyGenMusic](http://www.keygenmusic.net/) or [keygenmusic.tk](https://keygenmusic.tk/) - Keygen Music
+* [keygenmusic.tk](https://keygenmusic.tk/) - Keygen Music
 * [Tasso Music](https://www.tassomusic.org/) - Early Modern Music
 * [Measuring Polyphony](https://measuringpolyphony.org/) - Digital Encoding of Late Medeival Music
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games
@@ -141,7 +140,6 @@
 * [Openings Moe](https://openings.moe/) - Anime Theme Radio
 * [Ongaku](https://ongaku.js.org/) - Anime Radio
 * [Pool Suite](https://poolsuite.net/) - Summer Radio
-* [latestation](http://radio.late.city/) - Late-Night Radio
 * [LISTEN.moe](https://listen.moe/)  - K-Pop Radio / [Client](https://github.com/LISTEN-moe/windows-app)
 * [Fountain of Dreams](https://fountainofdreams.net/) - Japanese 80's Radio 
 * [BakaRadio](https://www.bakaradio.net/app-bakaradio-player/) - Anime Radio
@@ -191,7 +189,6 @@
 * [Moodli](https://www.moodil.com/) - Ambient
 * [Soundscape](https://soundescape.io/) - Ambient
 * [Generative.fm](https://generative.fm/) - Ambient
-* [Soundrown](http://soundrown.com/) - Ambient 
 * [Relaxing Sounds](https://unifycosmos.com/relaxing-sounds/) - Ambient
 * [Whispr](https://www.whispr.tech/) - Ambient
 * [Noises Online](https://noises.online/) - Ambient
@@ -308,7 +305,6 @@
 * [Freemp3cloud](https://freemp3cloud.com/en/) - MP3
 * [Mp3Deer](https://mp3deer.com/) - MP3
 * [MartinRadio](https://www.martinradio.com/) - MP3
-* [sixousixmusix](https://www.sixousixmusix.org/) - MP3
 * [Mixupload](https://mixupload.com/) - MP3
 * [Slider](https://slider.kz/) - MP3
 * [My Free MP3](https://www.my-free-mp3.cc/) - MP3
