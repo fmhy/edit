@@ -1626,7 +1626,6 @@
 * [BladeMaster666](https://blademaster666.com/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
 * [LuchoEdu](https://www.luchoedu.org/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
 * [Fiuxy](https://fiuxy2.com/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
-* [Worldescargas](https://worldescargas.com/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
 * [CulturaParaTodos](https://culturaparatodos.eu/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
 * [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
 * [CompucaliTV](https://www.compucalitv.com/) - Video / Software / Games
