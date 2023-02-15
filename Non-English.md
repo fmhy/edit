@@ -1649,6 +1649,8 @@
 * [Descarga Cine Clasico](https://descargacineclasico.net/) - Classical Movies
 * [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV
 * [RetroCanal](https://retrocanal.net/) - Classical Movies / TV
+* [DCC](https://cineclasicodcc.com/) - Classical Movies / TV
+* [El desván del verdugo](https://eldesvandelverdugo.blogspot.com/) - Classical Movies
 * [Descargar videos de la tele](https://eljaviero.com/descargarvideosdelatele/) - TV
 * [Anime-ESP](https://anime-esp.com/) - Anime
 * [ddl.ice](https://ddl.ice-blue.workers.dev/0:/) - Anime
