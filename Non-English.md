@@ -1622,6 +1622,14 @@
 ## ▷ Downloading
 
 * [identi](https://identi.io/) - Video / Audio / Software / Games
+* [ForoWarez](https://forowarez.info/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
+* [IntercambiosVirtuales](https://www.intercambiosvirtuales.org/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
+* [BladeMaster666](https://blademaster666.com/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
+* [LuchoEdu](https://www.luchoedu.org/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
+* [Fiuxy](https://fiuxy2.com/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
+* [Worldescargas](https://worldescargas.com/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
+* [CulturaParaTodos](https://culturaparatodos.eu/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
+* [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
 * [CompucaliTV](https://www.compucalitv.com/) - Video / Software / Games
 * [ZonaLeRoS](https://www.zona-leros.net/) - Video / Games
 * [GamesMega](https://gamesmega.net/) - Games / ROMs
