@@ -73,7 +73,7 @@
 * [Valve Archive](https://valvearchive.com/) - Rare Valve Data Archive
 * [Map Genie](https://mapgenie.io/), [GameMaps](https://www.gamemaps.com/) or [VGMaps](http://www.vgmaps.com/)  - Game Maps 
 * [noclip](https://noclip.website/) - Explore Game Maps 
-* [bspview](https://devanbuggay.com/bspview/) - Explore Quake & GoldSRC Maps / [Github](https://github.com/sbuggay/bspview) 
+* [bspview](https://github.com/sbuggay/bspview) - Explore Quake & GoldSRC Maps
 * [NES Maps](https://www.nesmaps.com/) - NES Game Maps 
 * [SNES Maps](https://www.snesmaps.com/) - SNES Game Maps
 * [Forgehub](https://www.forgehub.com/) - Halo Maps
