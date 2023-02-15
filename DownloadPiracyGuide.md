@@ -71,7 +71,7 @@
 * [DownArchive](http://downarchive.org/) - Video / Audio / Software / Games / ROMs / Android / Books / Magazines
 * [AsanDL](http://asandl.com/) - Video / Audio / Games / Software / Books / Magazines / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [SceneP2P](https://www.scenep2p.com) - Video / Audio / Games / ROMs / Software / Android / Books / Magazines
-* [WarezMagazine](https://warezmagazine.us/) or [WarezJungle](https://warezjungle.com/) - Video / Audio / Software / Games / Android / Books / Magazines / NSFW
+* [WarezMagazine](https://warezmagazine.us/) - Video / Audio / Software / Games / Android / Books / Magazines / NSFW
 * [Adit-HD](https://www.adit-hd.com/) - Video / Audio / Games / Books 
 * [Novanon](https://novanon.net/) - Video / Audio / Software / Games / Magazines / Comics / Android / Books / Courses
 * [psychodownloads](http://psychodownloads.com/forum.php) - Video / Audio / Software / Android / Games / ROMs / Books / Magazines / NSFW
@@ -107,7 +107,7 @@
 * [WawaCity](https://www.wawacity.video/) - Video / Audio / Books / Magazines / Software / Android / Use AdBlocker
 * [2DDL](https://2ddl.it/) - Video / Audio / Software / Games / Books / Comics / Magazines 
 * [SCENE.RLS](http://scene-rls.net/releases/index.php) - Video / Audio / Games / Software / Books / Magazines 
-* [DLWarez](http://dlwarez.xyz/) or [WarezLover](https://warezlover.xyz/) - Video / Audio / Software / Games / Android / ROMs / Books / Magazines 
+* [WarezLover](https://warezlover.xyz/) - Video / Audio / Software / Games / Android / ROMs / Books / Magazines 
 * [heroturko.net](https://www.heroturko.net/) - Video / Audio / Software / Games / Books / Magazines / Android
 * [Uploadgig](https://uploadgig.me/) - Video / Audio / Games / Software / Books / Audiobooks / Magazines / Android / NSFW
 * [IRfree](http://irfree.org/) - Video / Audio / Software / Games / Books / NSFW
@@ -144,7 +144,7 @@
 ## ▷ Search Sites
 
 * ⭐ **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Multi-Site Search
-* ⭐ **[ZippyShareSearch](https://zippysharesearch.com/)** or [ZippyShareFinder](https://zippysharefinder.com/) - Search Zippyshare / [DL Script](https://github.com/AvinashReddy3108/zippydl) / [URL Parser](https://github.com/JrMasterModelBuilder/zs-extract) 
+* ⭐ **[ZippyShareSearch](https://zippysharesearch.com/)** - Search Zippyshare / [DL Script](https://github.com/AvinashReddy3108/zippydl) / [URL Parser](https://github.com/JrMasterModelBuilder/zs-extract) 
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
 * [FilePursuit](https://filepursuit.com) - [Discord](https://discord.gg/xRfFd8h)
 * [scnlog](https://scnlog.me/)
@@ -261,7 +261,6 @@
 * [SourceForge](https://sourceforge.net/)
 * [Fossies](https://fossies.org/all.html)
 * [FossHub](https://www.fosshub.com/)
-* [Open Source Libs](https://opensourcelibs.com/)
 * [Simple Tools](https://simpletools.info/doku.php)
 * [FreshCode](https://freshcode.club/)
 * [Realityripple](https://realityripple.com/)
@@ -391,7 +390,6 @@
 * [WinMX](https://patch.winmxconex.com/) - File Sharing App / [Forum](https://forum.winmxworld.com/)
 * [AirDC++](https://www.airdcpp.net/) - File Sharing App / [GUI](https://github.com/eiskaltdcpp/eiskaltdcpp)
 * [WireShare](https://sourceforge.net/projects/wireshare/) - File Sharing App / LimeWire Fork 
-* [Telegram Download Channels](https://piracy.now.sh/telegram/) - Download files from telegram
 * [TGMoviesBot](https://t.me/TGMoviesBot) - Telegram File Search Bot 
 * [Direct Links](https://t.me/direct_llinks) - Telegram / Video / Software / Games 
 * [VK Files Bot](https://t.me/VKFiles_Bot) - VK File DL Telegram Bot
