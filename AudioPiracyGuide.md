@@ -301,7 +301,6 @@
 * [Music for the masses !](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_music_for_the_masses_.21) - MP3
 * [Cliggo](https://music.cliggo.com/) - MP3
 * [rildi](https://rilds.com/) - MP3
-* [RabbitMP3](https://www.rabbitmp3.com/) - MP3
 * [Freemp3cloud](https://freemp3cloud.com/en/) - MP3
 * [Mp3Deer](https://mp3deer.com/) - MP3
 * [MartinRadio](https://www.martinradio.com/) - MP3
