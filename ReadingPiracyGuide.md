@@ -59,7 +59,7 @@
 
 * ⭐ **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [5](https://ravebooksearch.com/) - Multi-Site Book Search
 * ⭐ **[Z-Library](https://singlelogin.me/)** - Books / Comics / Educational / [I2P](http://kkd7tiqf5lv3olqfdnkw4znmmmmnjo2xqlxrp5ntthp6juowaiha.b32.i2p) / [.Onion](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/)
-* ⭐ **Z-Lib Tools** - [Removed Books](https://t.me/firstlibrarybot) / [Backups](https://redd.it/ymiwzs), [2](http://pilimi.org/) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Amazon Links](https://github.com/annaelmoussa/amazon-zlibrary) / [Subreddit](https://www.reddit.com/r/zlibrary/)
+* ⭐ **Z-Lib Tools** - [Megathread](https://redd.it/zx6z62) / [Removed Books](https://t.me/firstlibrarybot) / [Backup](http://pilimi.org/) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Amazon Links](https://github.com/annaelmoussa/amazon-zlibrary) / [Subreddit](https://www.reddit.com/r/zlibrary/)
 * ⭐ **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools) / [ACSM Plugin](https://github.com/Leseratte10/acsm-calibre-plugin)
 * ⭐ **[Library Genesis](http://libgen.rs/)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen__mirrors)
@@ -83,7 +83,6 @@
 * [openlibrary](https://openlibrary.org/) - Books 
 * [standardebooks](https://standardebooks.org) - Books 
 * [Manybooks](https://manybooks.net/)  - Books
-* [BooksVooks](https://booksvooks.com/) - Books
 * [dpgroup](https://www.dpgroup.org/) - Books / Magazines
 * [eBookBB](https://ebookbb.com/)  - Books
 * [2020ok](http://2020ok.com/)  - Books / Comics
@@ -450,7 +449,6 @@
 * [Pearson](https://redd.it/smm6ib) - Pearson Textbook Download Guide
 * [PowerInBooks](https://powerinbooks.xyz/temp/) - Textbook Solutions
 * [LearnCreative](https://learncreative.net/) - IIT, JEE, NEET & AIIMS Material
-* [JEENEETBooks](https://www.jeeneetbooks.in/) - IIT, JEE & NEET Material
 * [JEEBooksPDF](https://m.youtube.com/c/JEEBooksPDF) - JEE Material / [Telegram](https://telegram.me/jeebookspdf) / DL's in Descriptions
 * [ck12](https://www.ck12.org/)- Interactive CK-12
 * [premium_ebooks](https://t.me/premium_ebooks) - Exam Books
@@ -504,7 +502,7 @@
 * [Micronations Wiki](https://micronations.wiki/) - Micronations Wiki
 * [Brill](https://brill.com/) - International Law Books
 * [Camopedia](https://www.camopedia.org/) - Camouflage Wiki
-* [RationalWiki](https://rationalwiki.o rg/) - Pseudoscience Refutation Wiki
+* [RationalWiki](https://rationalwiki.org/) - Pseudoscience Refutation Wiki
 * [Snopes](https://www.snopes.com/) - Urban Legends, Folklore, Misinformation & more
 * [Butterick’s Practical Typography](https://practicaltypography.com/) - Typography Guide Book
 * [Sewing8](https://t.me/sewing8) - Sewing / Pattern Making Books
@@ -745,7 +743,7 @@
 ## ▷ Reference Sites
 
 * ⭐ **[Wikipedia](https://www.wikipedia.org/)**, [WikiWand](https://www.wikiwand.com/) or [Metastem](https://wiki.metastem.su/), [ModernWiki](https://www.modernwiki.app/) - Encyclopedia
-* ⭐ **Wikipedia Tools** - [Search](http://densephrases.korea.ac.kr/) / [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Page Connections](https://hyperleap.com/) / [Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) / [Galaxy View](https://wiki.polyfra.me/) / [Read Only](http://static.wiki/) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener)
+* ⭐ **Wikipedia Tools** - [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Page Connections](https://hyperleap.com/) / [Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) / [Galaxy View](https://wiki.polyfra.me/) / [Read Only](http://static.wiki/) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener)
 * ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** or [TheSage](https://www.sequencepublishing.com/) - Dictionary / Thesaurus
 * ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - Slang Word / Phrase Dictionaries
 * ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary Search
@@ -933,7 +931,6 @@
 * [MangaReader](https://mangareader.cc/)
 * [MC Reader](https://www.mcreader.net/)
 * [ManHausKiss](https://manhuakiss.com/)
-* [VyVyManga](https://vyvymanga.com/)
 * [Elarcpage](https://elarcpage.com/)
 * [ReadMangaFree](https://readmangafree.net/)
 * [Batotoo](https://batotoo.com/)
@@ -953,7 +950,6 @@
 * [MangaBat](https://m.mangabat.com/)
 * [ReadOPM](https://ww3.readopm.com/read-manga/)
 * [MangaEffect](https://mangaeffect.com/)
-* [OtakusKindle](https://otakuskindle.wordpress.com/)
 * [Manga347](https://manga347.com/)
 * [Manga Home ](http://www.mangahome.com/)
 * [MangaDig](https://mangadig.com/)
