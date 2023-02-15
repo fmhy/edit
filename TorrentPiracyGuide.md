@@ -69,7 +69,6 @@
 * [TorrentSafe](https://www.torrentsafe.com/)
 * [TorrentCheap](https://my.torrentcheap.com/)
 * [ZBIGZ](https://zbigz.com/)
-* [PeerSM](https://www.peersm.com/)
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
 * [JSTorrent](https://www.jstorrent.com/) - Chrome
 * [BitFord](https://github.com/astro/bitford) - Chrome
