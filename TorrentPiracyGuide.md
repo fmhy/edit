@@ -68,7 +68,6 @@
 * [Bitport](https://bitport.io/welcome) 
 * [TorrentSafe](https://www.torrentsafe.com/)
 * [TorrentCheap](https://my.torrentcheap.com/)
-* [FileStream](https://filestream.me/)
 * [ZBIGZ](https://zbigz.com/)
 * [PeerSM](https://www.peersm.com/)
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
