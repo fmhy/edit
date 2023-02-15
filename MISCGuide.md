@@ -215,7 +215,7 @@
 # ► Shopping
 
 * ⭐ **[GG.deals](https://gg.deals/)**, [AllKeyShop](https://www.allkeyshop.com/blog/) or [PSPrices](https://psprices.com/) - Game Price Trackers
-* [Reddit Favorites](https://redditfavorites.com/), [NanoReview](https://nanoreview.net/en), [Kit.co](https://kit.co/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product / Service Reviews
+* [Reddit Favorites](https://redditfavorites.com/), [NanoReview](https://nanoreview.net/en), [rtings](https://www.rtings.com/), [Kit.co](https://kit.co/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product / Service Reviews
 * [Chipscribe](https://chipscribe.com/) - Split Service Subscription Costs Anonymously 
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
 * [NewMaxx's SSD Site](https://ssd.borecraft.com/) - SSD Buying Guide
