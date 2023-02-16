@@ -46,6 +46,10 @@
 * [TrayTorrent](https://traytorrent.ru/) - Torrent Tray Client
 * [CloudTorrent](https://github.com/tofuliang/Google-Colab-CloudTorrent) - Google Colab Torrent Client
 * [BitSwarm](https://github.com/SuRGeoNix/BitSwarm/) - Bittorrent Client Library
+* [Instant.io](https://instant.io/)
+* [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
+* [JSTorrent](https://www.jstorrent.com/) - Chrome
+* [BitFord](https://github.com/astro/bitford) - Chrome
 * [exatorrent](https://github.com/varbhat/exatorrent) - Self-Hosted Client
 * [Rats Search](https://github.com/DEgITx/rats-search) - Torrent Search Client / [Screenshot](https://github.com/DEgITx/rats-search#screenshots) 
 * [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
@@ -63,15 +67,11 @@
 * ⭐ **[from-torrent](https://multiup.org/en/upload/from-torrent)** - Torrent to DDL Sites / [Bypass 10GB Limit](https://pastebin.com/raw/QLGLLZ9d)
 * ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI)
 * ⭐ **[webtor](https://webtor.io/)**
-* [Instant.io](https://instant.io/)
 * [BTorrent](https://btorrent.xyz/)
 * [Bitport](https://bitport.io/welcome) 
 * [TorrentSafe](https://www.torrentsafe.com/)
 * [TorrentCheap](https://my.torrentcheap.com/)
 * [ZBIGZ](https://zbigz.com/)
-* [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
-* [JSTorrent](https://www.jstorrent.com/) - Chrome
-* [BitFord](https://github.com/astro/bitford) - Chrome
 
 ***
 
