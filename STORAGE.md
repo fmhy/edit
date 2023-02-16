@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/qP08xzO.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/urmkLgu.png)** - For mobile users
 
 ***
 
@@ -1405,8 +1405,36 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 ***
 
-#### Manhua / Manhwa Manga
+#### Manhua / Manhwa / Webtoons
 
+* https://1stkissmanga.com/ / [2](https://1stkissmanga.io/), [3](https://1stkissmanga.love/)
+* https://manga3s.com/ - [Discord](https://discord.gg/c3ydbYdYjb)
+* https://www.webtoons.com/
+* https://wuxiaworld.site/
+* https://readfreecomics.com/
+* https://manhuaplus.com/
+* https://www.readmng.com/
+* https://zinmanga.com/
+* https://www.mangasy.com/
+* https://mangatoon.mobi/
+* https://novelmic.com
+* https://mangatx.com/
+* https://manhuakiss.com/
+* https://elarcpage.com/
+* https://coffeemanga.io/
+* https://pianmanga.me/
+* https://mangabob.com/
+* https://manga347.com/
+* https://247manga.com/
+* https://toomics.com/
+* https://readmanhua.net/
+* https://tapas.io/
+* https://www.bilibilicomics.com/
+* https://mangakomi.io/
+* https://aquamanga.com/
+* https://mangaweebs.in/
+* https://dragontea.ink/
+* https://niadd.com/
 * https://toonily.com/
 * https://manhwa18.net/
 * https://manhuafast.com/
