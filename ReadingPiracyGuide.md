@@ -943,7 +943,6 @@
 * [MangaJar](https://mangajar.com/)
 * [LilyManga](https://lilymanga.com/) 
 * [NineManga](http://www.ninemanga.com)
-* [Muc Tau](https://muctau.com/)
 * [MangaYeh](https://mangayeh.com)
 * [MyReadingManga](https://myreadingmanga.info/)
 * [MangaGo](https://www.mangago.me/)
