@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/p52DeiL.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/azjdDWd.png)** - For mobile users
 
 ***
 ***
@@ -980,6 +980,62 @@
 * [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en), [manga-translator](https://github.com/cameronkinsella/manga-translator) or [Scanlate](https://scanlate.io/) - Manga Translator
 * [TheJadedNetwork](http://thejadednetwork.com/sfx/) - Japanese SFX Translations / [PDF](https://drive.google.com/file/d/1ean3beoWJmz__yu67OqNa8CKNMlrvCSd/)
 * [Manga-Tagger](https://github.com/inpacchi/manga-tagger) - Manga Metadata
+
+***
+
+## ▷ Manhua / Manhwa
+
+* ⭐ **[Webtoon](https://www.webtoons.com/)**
+* ⭐ **[Toonily](https://toonily.com/)**
+* [1st Kiss Manga](https://1stkissmanga.com/) / [2](https://1stkissmanga.io/) / [3](https://1stkissmanga.love/)
+* [Manga3S](https://manga3s.com/) - [Discord](https://discord.gg/c3ydbYdYjb)
+* [Wuxia World](https://wuxiaworld.site/)
+* [Read Free Comics](https://readfreecomics.com/)
+* [Manhua Plus](https://manhuaplus.com/)
+* [Read mng](https://www.readmng.com/)
+* [Zinmanga](https://zinmanga.com/)
+* [Manga SY](https://www.mangasy.com/)
+* [Mangatoon](https://mangatoon.mobi/)
+* [Novelmic](https://novelmic.com)
+* [Bibi Manga](https://bibimanga.com/)
+* [Mangatx](https://mangatx.com/)
+* [Manhuakiss](https://manhuakiss.com/)
+* [Elarc Page](https://elarcpage.com/)
+* [Coffee Manga](https://coffeemanga.io/)
+* [Pian Manga](https://pianmanga.me/)
+* [Mangabob](https://mangabob.com/)
+* [Manga347](https://manga347.com/)
+* [247Manga](https://247manga.com/)
+* [Toomics](https://toomics.com/)
+* [ReadManhua](https://readmanhua.net/)
+* [Tapas](https://tapas.io/)
+* [Bilibili Comics](https://www.bilibilicomics.com/)
+* [MangaKomi](https://mangakomi.io/)
+* [Aqua Manga](https://aquamanga.com/)
+* [MangaWeebs](https://mangaweebs.in/)
+* [Dragon Tea](https://dragontea.ink/)
+* [Niadd](https://niadd.com/)
+* [Manhwa18](https://manhwa18.net/)
+* [Manhuafast](https://manhuafast.com/)
+* [ManhwaKool](https://manhwakool.com/)
+* [ManhuaScan](https://manhuascan.io/)
+* [Manhwatop](https://manhwatop.com/)
+* [Instamanhwa](https://www.instamanhwa.com/)
+* [Manhwa68](https://manhwa68.com/)
+* [Manhwa World](https://manhwaworld.com/)
+* [Comic Kiba](https://comickiba.com)
+* [Read Manhwa ](https://readmanhwa.com/)
+* [ManhwaZ](https://manhwaz.com/)
+* [Manhwafull](https://manhwafull.com/)
+* [Top Manhua](https://www.topmanhua.com/)
+* [Manhuas](https://manhuas.net/)
+* [Manhau ES](https://manhuaes.com/)
+* [Manhuadragon](https://manhuadragon.com/)
+* [ManhuaHot](https://manhuahot.com/)
+* [Todamic](https://todaymic.com)
+* [Manhua Zone](https://manhuazone.com/)
+* [Manhuaga](https://manhuaga.com/)
+* [Teenmanhua](https://teenmanhua.com/)
 
 ***
 
