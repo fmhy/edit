@@ -105,7 +105,6 @@
 * [PrivateBrowser](https://play.google.com/store/apps/details?id=com.prism.download.adblock.privacy.flash.player.incognito.private_browser.browser) - Browser Disguised as Calculator
 * [Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers) - Encrypted Android Messengers
 * [Silence](https://silence.im/) - Encrypt SMS/MMS Messages
-* [AndroidSMSServer](https://github.com/umer0586/AndroidSMSServer) - Send SMS via Android
 * [Wickr](https://play.google.com/store/apps/details?id=com.wickr.pro&amp;hl=en), [MySudo](https://mysudo.com/), [Jami](https://jami.net/), [Syphon](https://syphon.org/), [Mesibo](https://play.google.com/store/apps/details?id=com.mesibo.mesiboapplication) or [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app) - Encrypted Messaging / Video Calls
 * [SmallTalk](https://github.com/ouchadam/small-talk) - Matrix Client
 * [OVERSEC](https://www.oversec.io/) - Add Text / Image Encryption to any App
@@ -117,7 +116,7 @@
 * [apk-mitm](https://github.com/shroudedcode/apk-mitm) - HTTPS Inspector
 * [JustUseApp](https://justuseapp.com/) - Hide App Payments
 * [Gadget Bridge](https://gadgetbridge.org/) - Connect to Smartwatches without Vendor Apps / Accounts
-* [Amarok Hider](https://github.com/deltazefiro/Amarok-Hider/blob/main/README.en.md) - Hide Files / Apps
+* [Amarok Hider](https://github.com/deltazefiro/Amarok-Hider/blob/main/README.md) - Hide Files / Apps
 * [Extirpater](https://gitlab.com/divested-mobile/extirpater) - Make Deleted Files Irrecoverable
 * [PrivacyBlur](https://privacyblur.app/) - Blur Sensitive Parts of Photos / [GitHub](https://github.com/MATHEMA-GmbH/privacyblur)
 * [Scrambled Exif](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif) - Remove Image Metadata
@@ -225,7 +224,6 @@
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - Android Cleanup Tool
 * [Hail](https://github.com/aistra0528/Hail) - Auto-Deactivate Unused Apps
 * [Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27) - How-to Run Docker on Android
-* [L3MON](https://github.com/D3VL/L3MON) - Remote Android Manager
 * [MouseRemote](https://github.com/Akshayaap/MouseRemote) - Use Android as Mouse
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
 * [RoMote](https://github.com/wseemann/RoMote) - Phone Roku Controller
@@ -410,7 +408,6 @@
 * [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - Use Google Cam Without Google Play 
 * [Fix My Speakers](https://fixmyspeakers.com/) - Eject Water from Phones Speakers
 * [OLEDBuddy](https://play.google.com/store/apps/details?id=me.mikecroall.oledbuddy) - Fix OLED Images
-* [sh-ort](https://sh-ort.app/) - URL Shortener
 * [UnLim](https://play.google.com/store/apps/details?id=com.kratosle.unlim&gl=US) - Cloud Storage
 * [RClone](https://github.com/x0b/rcx), [extRact](https://github.com/newhinton/extRact) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Managers
 * [PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - Enable Features in Stock App Launcher
@@ -485,7 +482,6 @@
 * [OwnTracks](https://owntracks.org/) or [Hauk](https://github.com/bilde2910/Hauk), [GPSCockpit](https://github.com/woheller69/gpscockpit) or [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) - Track Own Location
 * [PhoneAccount Abuse Detector](https://play.google.com/store/apps/details?id=space.linuxct.phoneaccountdetector) - Android Emergency Calling Bug Check
 * [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451), [SkyHawk](https://skyhawkrecovery.github.io/) / [GitHub](https://github.com/SHRP), [PitchBlack](https://pitchblackrecovery.com/) or [OrangeFox](https://wiki.orangefox.tech/en/home) / [GitHub](https://gitlab.com/OrangeFox/misc/appdev/app) - Custom Recovery Firmware
-* [ItzKaguya-RecoveryBuilder](https://github.com/MizuNotCool/ItzKaguya-RecoveryBuilder) - Galaxy A10 Recovery Builder
 * [TWRP Root](https://twrp.me/) /  [Telegram](https://t.me/samsung_twrp_root/78379) or [UnofficialTWRP](https://unofficialtwrp.com/) - TWRP Root
 * [SamFirm A.I.O​](https://forum.xda-developers.com/t/tool-samfirm-a-i-o-tools-firmware-downloader-mtp-bypass-frp.4210103/) or [Firmwareland](https://firmwareland.com/) - Firmware & FRP Bypass
 * [Frida-Mobile-Scripts](https://github.com/m0bilesecurity/Frida-Mobile-Scripts) - FRIDA Mobile Scripts
@@ -611,7 +607,6 @@
 * [Rockmods](https://www.rockmods.net/) - Modded
 * [Fely.online](https://fely.online/) - Modded
 * [APKem](https://apkem.com/) - Modded
-* [APK Swing](https://apkswing.com/) - Modded
 * [APKLoo](https://apkloo.com/) - Modded
 * [GetModsAPK](https://getmodsapk.com/) - Modded / [Telegram](https://t.me/GETMODSAPK_COM)
 * [APK Mod](https://apk-mod.net/) - Modded
@@ -1126,7 +1121,6 @@
 * [Decisions](https://github.com/markusfisch/Libra) - Decision Making App
 * [BatteryBuddy](https://github.com/schneelittchen/BatteryBuddy) - Cute Battery Life Indicator
 * [Powercuff](https://rpetri.ch/cydia/powercuff/) - Throttle iOS to Increase Battery Life
-* [The Fucking Weather](https://alcohollick.com/the-fucking-weather) - Weather App
 * [CocaoTop](https://github.com/D0m0/CocoaTop) - iOS Process Viewer
 * [iSH Shell](https://apps.apple.com/us/app/ish-shell/id1436902243) - Linux-like iOS Shell
 * [The OldOS Project](https://github.com/zzanehip/The-OldOS-Project) - iOS 4 Recreation
