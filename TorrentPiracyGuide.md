@@ -47,6 +47,7 @@
 * [CloudTorrent](https://github.com/tofuliang/Google-Colab-CloudTorrent) - Google Colab Torrent Client
 * [BitSwarm](https://github.com/SuRGeoNix/BitSwarm/) - Bittorrent Client Library
 * [Instant.io](https://instant.io/)
+* [BTorrent](https://btorrent.xyz/)
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
 * [JSTorrent](https://www.jstorrent.com/) - Chrome
 * [BitFord](https://github.com/astro/bitford) - Chrome
@@ -67,7 +68,6 @@
 * ⭐ **[from-torrent](https://multiup.org/en/upload/from-torrent)** - Torrent to DDL Sites / [Bypass 10GB Limit](https://pastebin.com/raw/QLGLLZ9d)
 * ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI)
 * ⭐ **[webtor](https://webtor.io/)**
-* [BTorrent](https://btorrent.xyz/)
 * [Bitport](https://bitport.io/welcome) 
 * [TorrentSafe](https://www.torrentsafe.com/)
 * [TorrentCheap](https://my.torrentcheap.com/)
