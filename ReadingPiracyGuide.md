@@ -877,13 +877,14 @@
 * ⭐ **[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
 * ⭐ **[The Index](https://theindex.moe/library/manga)** - Manga Site List
 * ⭐ **[MangaDex](https://mangadex.org/)** - [Downloader](https://github.com/mansuf/mangadex-downloader) / [Script](https://github.com/frozenpandaman/mangadex-dl) 
+* ⭐ **[Manga4Life](https://manga4life.com/)**, [2](https://mangasee123.com/) - Official Translations
+* ⭐ **[ComicK](https://comick.fun/)**
 * ⭐ **[MangaReader](https://mangareader.to/)**
 * ⭐ **[MangaNelo](https://m.manganelo.com/wwww)**, [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/)
-* ⭐ **[Manga4Life](https://manga4life.com/)**, [2](https://mangasee123.com/) - Official Translations
 * ⭐ **[Manga Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_download_bots)** - Bots that Download Manga
-* [Manhua / Manhwa / Webtoons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manhua_.2F_manhwa_.2F_webtoons) - Manhua / Manhwa / Webtoon Sites
 * [MangaPiracy](https://discord.gg/ZgMtAyxFSU) - Manga Piracy Server / [Subreddit](https://reddit.com/r/MangaPiracy)
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - Anime / Manga Download Forum
+* [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [Mangadex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [Madokami Manga Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_madokami)
 * [The Manga Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_manga_library)
@@ -895,7 +896,6 @@
 * [BATO.TO](https://bato.to/), [2](https://battwo.com/) - [Discord](https://discord.gg/7NBwcBsDph) / [Proxy](https://batotoo.com/)
 * [Atsumaru](https://atsu.moe/) - [Discord](https://discord.gg/Tj4QmEF4uV)
 * [MangaHub](https://mangahub.io/)
-* [MP4DIRECTS](https://mp4directs.com/) 
 * [MangaList](https://mangalist.com/) 
 * [Manga Park](https://mangapark.net/)
 * [MangaTown](https://www.mangatown.com/)
@@ -919,7 +919,6 @@
 * [MangaReader](https://mangareader.cc/)
 * [MC Reader](https://www.mcreader.net/)
 * [ReadMangaFree](https://readmangafree.net/)
-* [Batotoo](https://batotoo.com/)
 * [Mangarolls](https://mangarolls.com/)
 * [Mangarok](https://www.mangarok.mobi/)
 * [Mangabtt](https://mangabtt.com/)
@@ -950,7 +949,6 @@
 * [KomikKid](https://www.komikid.com/)
 * [Hiperdex](https://hiperdex.com/)
 * [MangaFox](https://fanfox.net/)
-* [ComicK](https://comick.fun/)
 * [ReadM](https://readm.org/)
 * [LHTranslation](https://lhtranslation.net/)
 * [MangaKatana](https://mangakatana.com/) 
@@ -971,8 +969,7 @@
 * [LANraragi](https://github.com/Difegue/LANraragi) - Manga / Doujin Manager for NAS / [Discord](https://discord.com/invite/aRQxtbg)
 * [Kaizoku](https://github.com/oae/kaizoku) -  Self-Hosted Manga Downloader
 * [MangaManage](https://github.com/Daedren/MangaManage) - Tachiyomi Download Manager
-* [Manga APIs](https://rentry.co/manga-apis) - Manga Site API's
-* [MangaUpdates](https://www.mangaupdates.com/) - Manga Release Updates  
+* [Manga APIs](https://rentry.co/manga-apis) - Manga Site API's  
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
 * [MangaOnlineViewer](https://github.com/TagoDR/MangaOnlineViewer) - Load Pages into One Viewer
 * [MangaEditor](https://moeka.me/mangaEditor/) - Online Manga Editor
@@ -992,7 +989,6 @@
 * [Wuxia World](https://wuxiaworld.site/)
 * [Read Free Comics](https://readfreecomics.com/)
 * [Manhua Plus](https://manhuaplus.com/)
-* [Read mng](https://www.readmng.com/)
 * [Zinmanga](https://zinmanga.com/)
 * [Manga SY](https://www.mangasy.com/)
 * [Mangatoon](https://mangatoon.mobi/)
