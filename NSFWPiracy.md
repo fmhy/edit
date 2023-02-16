@@ -284,6 +284,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [MyReadingManga](https://myreadingmanga.info/)
 * [Ryuugames](https://ryuugames.com/) 
 * [WebHentai](https://webhentai.net/)
+* [Panda Chaika](https://panda.chaika.moe/)
 * [EAHentai](https://eahentai.com/)
 * [HAnime](https://hanime.tv/) / [Downloader](https://github.com/afroshyi/hanime-generator/)
 * [NewToki69](https://newtoki96.com/)
