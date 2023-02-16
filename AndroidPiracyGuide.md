@@ -602,7 +602,6 @@
 * [APK Folks](https://apkfolks.com/) - Modded
 * [DL King](http://dl.king2net.com/soft%20android/) - Modded
 * [RioAPK](https://rioapk.com/) - Modded
-* [APK Bolt](https://apkbolt.com/) - Modded
 * [ModApk.Cloud](https://modapk.cloud/) - Modded
 * [Rockmods](https://www.rockmods.net/) - Modded
 * [Fely.online](https://fely.online/) - Modded
