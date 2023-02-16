@@ -938,7 +938,6 @@
 * [Mangaski](https://www.mangasaki.com/)
 * [Manhwafull](https://manhwafull.com/)
 * [DeathTollScans](https://www.deathtollscans.net/)
-* [MotoKare](https://motokare.xyz/reader/)
 * [Tritinia](https://tritinia.com/)
 * [AsuraScans](https://asurascans.com/) - [Discord](https://discord.com/invite/asurascans1)
 * [MangaJar](https://mangajar.com/)
@@ -948,7 +947,6 @@
 * [MangaYeh](https://mangayeh.com)
 * [MyReadingManga](https://myreadingmanga.info/)
 * [MangaGo](https://www.mangago.me/)
-* [MangaPlus](https://mangaplus.shueisha.co.jp/updates)
 * [ISekaiScan](https://isekaiscan.com/) 
 * [KomikKid](https://www.komikid.com/)
 * [Hiperdex](https://hiperdex.com/)
@@ -980,7 +978,6 @@
 * [MangaOnlineViewer](https://github.com/TagoDR/MangaOnlineViewer) - Load Pages into One Viewer
 * [MangaEditor](https://moeka.me/mangaEditor/) - Online Manga Editor
 * [CBZ-Manga-Creator](https://github.com/PonyLucky/CBZ-Manga-Creator) - Image to CBZ Converter
-* [MangaCord](https://top.gg/bot/751148743901970622?tab=overview) - Read Manga on Discord [Disocrd](https://discord.gg/UtTJcWzCRe)
 * [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en), [manga-translator](https://github.com/cameronkinsella/manga-translator) or [Scanlate](https://scanlate.io/) - Manga Translator
 * [TheJadedNetwork](http://thejadednetwork.com/sfx/) - Japanese SFX Translations / [PDF](https://drive.google.com/file/d/1ean3beoWJmz__yu67OqNa8CKNMlrvCSd/)
 * [Manga-Tagger](https://github.com/inpacchi/manga-tagger) - Manga Metadata
