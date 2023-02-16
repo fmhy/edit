@@ -1418,6 +1418,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * https://www.mangasy.com/
 * https://mangatoon.mobi/
 * https://novelmic.com
+* https://bibimanga.com/
 * https://mangatx.com/
 * https://manhuakiss.com/
 * https://elarcpage.com/
