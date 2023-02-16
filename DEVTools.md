@@ -202,7 +202,6 @@
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
 * [Learn to Make Netflix Clone](https://github.com/kubowania/netflix-clone-graphql-datastax)
 * [Discord.js Guide](https://discordjs.guide/) - Discord.js Bot Guide
-* [vcokltfre](https://vcokltfre.dev/) - Discord.py Bot Guide
 * [free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - AI Learning Resources
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - Machine Learning Coding Lessons 
 * [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
@@ -242,7 +241,7 @@
 * [Volume](https://www.volumestories.com/) - Create Immersive Reading Experiences
 * [daily.dev](https://daily.dev/) - Replace New Tab Page with Developer Articles
 * [Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites) - Download Icons for Projects
-* [Favicon Maker](https://formito.com/tools/favicon), [Favicon Generator](https://www.favicon-generator.org/) or [react favicon](https://react-favicon.com/) - Create Favicons
+* [Favicon Maker](https://formito.com/tools/favicon) or [Favicon Generator](https://www.favicon-generator.org/) - Create Favicons
 * [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - 
 * [Laws of UX](https://lawsofux.com/) - Maxims / Principles for UI Designers
 * [Dark Patterns](https://www.darkpatterns.org/) - Deceptive User Experience Examples
@@ -304,7 +303,7 @@
 * [Devtron](https://devtron.ai/) - Kubernetes Tool Integration
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - Microservice Architecture Resource Index
 * [LibreLogos](https://www.librelogos.org/) or [LogoTaco](https://www.logotaco.com/) - Project Logos
-* [Rejoiner](https://rejoiner.io/) - Uniform GraphQL Schema from gRPC Microservices / [GitHub](https://github.com/google/rejoiner)
+* [Rejoiner](https://github.com/google/rejoiner) - Uniform GraphQL Schema from gRPC Microservices
 * [CFDocs](https://cfdocs.org/) - CFML Documentation Reference
 * [Input Delay Test](https://input-delay.glitch.me/) - Input Delay Experiment
 * [Asynchronous Messaging](https://github.com/clemensv/messaging) - Asynchronous Messaging Resources
@@ -477,7 +476,6 @@
 * [WebDesignMuseum](https://www.webdesignmuseum.org/) - Website Designs Over Time
 * [CSS Zen Garden](http://www.csszengarden.com/) - CSS Site Examples
 * [Bootstrap](https://getbootstrap.com/) - Mobile Site Creator / [Icons](https://github.com/twbs/icons) / [Snippets](https://bootsnipp.com/)
-* [Extension.dev](https://extension.dev/) - Custom Site Browser Extensions
 * [Brython](https://brython.info/) - Python 3 Web Scripting Language
 * [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Wave Guide](https://www.waveguide.io/), [ReallyGoodUX](https://www.reallygoodux.io/), [Pageflows](https://pageflows.com/) or [h69.design](https://www.h69.design/) - UI Design Ideas
 * [StoryBook](https://storybook.js.org/) - UI Development Tool
@@ -936,7 +934,7 @@
 * [ActionServerless](https://github.com/gitx-io/ActionServerless) - Create Serverless Service
 * [GitKraken](https://www.gitkraken.com/) or [Sourcetree](https://www.sourcetreeapp.com/) - Git GUI
 * [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - Git TUI
-* [Codeberg](https://codeberg.org/), [git.sr.ht](https://git.sr.ht/), [Giters](https://www.giters.com/) or [GitGud](https://gitgud.io/) - Git Hosting
+* [Codeberg](https://codeberg.org/), [git.sr.ht](https://git.sr.ht/) or [GitGud](https://gitgud.io/) - Git Hosting
 * [Snipli](https://www.snipli.xyz/) - Convert Localfiles to Gist
 * [Git / Github Guide](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
 * [GitBook](https://www.gitbook.com/) - Document Collaboration
@@ -1082,7 +1080,7 @@
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) - Livecoding Resources
 * [Telosys](http://www.telosys.org/) or [AIAC](https://github.com/gofireflyio/aiac) - Code Generators
 * [tuc](https://github.com/riquito/tuc) - Improved Code Cut
-* [snowbin](https://paste.fmhy.cf/) / [2](https://paste.bignutty.xyz/) / [3](https://paste.taskyy.cf/), [Mystb.in](https://mystb.in/) or [snippet.host](https://snippet.host/) - Code Pastebins
+* [snowbin](https://paste.bignutty.xyz/) / [2](https://paste.taskyy.cf/), [Mystb.in](https://mystb.in/) or [snippet.host](https://snippet.host/) - Code Pastebins
 * [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
 * [Autosaved](https://github.com/nikochiko/autosaved) - Autosave Code / [GitHub](https://github.com/tkellogg/dura)
 * [Tasuku](https://github.com/privatenumber/tasuku) - Node.js Task Runner
@@ -1238,7 +1236,7 @@
 
 ## ▷ API Tools
 
-* [API List](https://apilist.fun/), [Public APIs](https://publicapis.dev/), [APIsList](https://apislist.com/), [API House](https://apihouse.vercel.app/), [Awesome APIs](https://github.com/TonnyL/Awesome_APIs), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) / [2](https://www.public-apis.ml/) - API Indexes
+* [API List](https://apilist.fun/), [Public APIs](https://publicapis.dev/), [APIsList](https://apislist.com/), [API House](https://apihouse.vercel.app/), [Awesome APIs](https://github.com/TonnyL/Awesome_APIs), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) - API Indexes
 * [Insomnia](https://insomnia.rest/) - API Client
 * [Strapi](https://strapi.io/) or [Postman](https://www.postman.com/) - API Builders
 * [Directus](https://directus.io/) - SQL to API Platform
