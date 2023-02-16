@@ -1407,59 +1407,57 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 #### Manhua / Manhwa / Webtoons
 
-* https://1stkissmanga.com/ / [2](https://1stkissmanga.io/), [3](https://1stkissmanga.love/)
-* https://manga3s.com/ - [Discord](https://discord.gg/c3ydbYdYjb)
-* https://www.webtoons.com/
-* https://wuxiaworld.site/
-* https://readfreecomics.com/
-* https://manhuaplus.com/
-* https://www.readmng.com/
-* https://zinmanga.com/
-* https://www.mangasy.com/
-* https://mangatoon.mobi/
-* https://novelmic.com
-* https://bibimanga.com/
-* https://mangatx.com/
-* https://manhuakiss.com/
-* https://elarcpage.com/
-* https://coffeemanga.io/
-* https://pianmanga.me/
-* https://mangabob.com/
-* https://manga347.com/
-* https://247manga.com/
-* https://toomics.com/
-* https://readmanhua.net/
-* https://tapas.io/
-* https://www.bilibilicomics.com/
-* https://mangakomi.io/
-* https://aquamanga.com/
-* https://mangaweebs.in/
-* https://dragontea.ink/
-* https://niadd.com/
-* https://toonily.com/
-* https://manhwa18.net/
-* https://manhuafast.com/
-* https://manhwakool.com/
-* https://manhuascan.io/
-* https://manhwatop.com/
-* https://www.instamanhwa.com/
-* https://manhwa68.com/
-* https://zinmanga.com/
-* https://manhwaworld.com/
-* https://manhwatop.com/
-* https://comickiba.com
-* https://readmanhwa.com/en/
-* https://manhwaz.com/
-* https://manhwafull.com/
-* https://www.topmanhua.com/
-* https://manhuas.net/
-* https://manhuaes.com/
-* https://manhuadragon.com/
-* https://manhuahot.com/
-* https://todaymic.com
-* https://manhuazone.com/
-* https://manhuaga.com/
-* https://teenmanhua.com/
+* ⭐ **[Webtoon](https://www.webtoons.com/)**
+* ⭐ **[Toonily](https://toonily.com/)**
+* [1st Kiss Manga](https://1stkissmanga.com/) / [2](https://1stkissmanga.io/) / [3](https://1stkissmanga.love/)
+* [Manga3S](https://manga3s.com/) - [Discord](https://discord.gg/c3ydbYdYjb)
+* [Wuxia World](https://wuxiaworld.site/)
+* [Read Free Comics](https://readfreecomics.com/)
+* [Manhua Plus](https://manhuaplus.com/)
+* [Read mng](https://www.readmng.com/)
+* [Zinmanga](https://zinmanga.com/)
+* [Manga SY](https://www.mangasy.com/)
+* [Mangatoon](https://mangatoon.mobi/)
+* [Novelmic](https://novelmic.com)
+* [Bibi Manga](https://bibimanga.com/)
+* [Mangatx](https://mangatx.com/)
+* [Manhuakiss](https://manhuakiss.com/)
+* [Elarc Page](https://elarcpage.com/)
+* [Coffee Manga](https://coffeemanga.io/)
+* [Pian Manga](https://pianmanga.me/)
+* [Mangabob](https://mangabob.com/)
+* [Manga347](https://manga347.com/)
+* [247Manga](https://247manga.com/)
+* [Toomics](https://toomics.com/)
+* [ReadManhua](https://readmanhua.net/)
+* [Tapas](https://tapas.io/)
+* [Bilibili Comics](https://www.bilibilicomics.com/)
+* [MangaKomi](https://mangakomi.io/)
+* [Aqua Manga](https://aquamanga.com/)
+* [MangaWeebs](https://mangaweebs.in/)
+* [Dragon Tea](https://dragontea.ink/)
+* [Niadd](https://niadd.com/)
+* [Manhwa18](https://manhwa18.net/)
+* [Manhuafast](https://manhuafast.com/)
+* [ManhwaKool](https://manhwakool.com/)
+* [ManhuaScan](https://manhuascan.io/)
+* [Manhwatop](https://manhwatop.com/)
+* [Instamanhwa](https://www.instamanhwa.com/)
+* [Manhwa68](https://manhwa68.com/)
+* [Manhwa World](https://manhwaworld.com/)
+* [Comic Kiba](https://comickiba.com)
+* [Read Manhwa ](https://readmanhwa.com/)
+* [ManhwaZ](https://manhwaz.com/)
+* [Manhwafull](https://manhwafull.com/)
+* [Top Manhua](https://www.topmanhua.com/)
+* [Manhuas](https://manhuas.net/)
+* [Manhau ES](https://manhuaes.com/)
+* [Manhuadragon](https://manhuadragon.com/)
+* [ManhuaHot](https://manhuahot.com/)
+* [Todamic](https://todaymic.com)
+* [Manhua Zone](https://manhuazone.com/)
+* [Manhuaga](https://manhuaga.com/)
+* [Teenmanhua](https://teenmanhua.com/)
 
 ***
 
