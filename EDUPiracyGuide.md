@@ -194,7 +194,6 @@
 * [FreeCourseWeb](http://freecourseweb.com/) - Udemy Courses
 * [CoursesForFree](https://courseforfree.net/) - Udemy Courses
 * [FreeTutorialsHub](https://www.freetutorialshub.com/) - Udemy Courses
-* [FreeCourseUdemy](https://freecourseudemy.com/) - Udemy Courses
 * [CourseForFree](https://courseforfree.com/) - Udemy Courses
 * [Download Online Tutorials Free](https://download.howtofree.org/) - Udemy Courses
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
