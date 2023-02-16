@@ -900,7 +900,6 @@
 * [MangaTown](https://www.mangatown.com/)
 * [FunManga](https://funmanga.com/) 
 * [ReaperScans](https://reaperscans.com/) 
-* [Panda Chaika](https://panda.chaika.moe/)
 * [ReadFreeComics](https://readfreecomics.com/)
 * [Manhuaplus](https://manhuaplus.com/) 
 * [Readmng](https://www.readmng.com/) 
