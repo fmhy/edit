@@ -154,7 +154,6 @@
 * [PDF Mix](https://scarpetta.eu/pdfmixtool/) - PDF Editor
 * [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://flathub.org/apps/details/com.github.dail8859.NotepadNext), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - Text Editor
 * [Zathura](https://git.pwmt.org/pwmt) - Document Viewer
-* [Winfield](http://www.winfield.demon.nl/) - MS Word for Linux / OS X
 * [TextPieces](https://github.com/liferooter/textpieces) - Quick Text Transformations
 * [emoj](https://www.npmjs.com/package/emoj), [Rofimoji](https://github.com/fdw/rofimoji), [EmojiCherryPick](https://github.com/thingsiplay/emojicherrypick), [Shmoji](https://github.com/biox/shmoji) or [emoji-cli](https://github.com/b4b4r07/emoji-cli) - Emoji CLI's
 * [Got](https://github.com/fedeztk/got) or [tl](https://github.com/rilysh/tl) - Translators
@@ -304,7 +303,7 @@
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
 * [Tomb](https://www.dyne.org/software/tomb/) - File Encryption
 * [Collision](https://flathub.org/apps/details/dev.geopjr.Collision) - Check File Hashes
-* [WhoAmI Project](https://whoamiproject.tech/) - Privacy / Anonymity Tool / [GitHub](https://github.com/owerdogan/whoami-project)
+* [WhoAmI Project](https://github.com/owerdogan/whoami-project) - Privacy / Anonymity Tool
 * [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS Partition
 * [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Secure Linux Server Guide
 * [BhanUpratpys](https://github.com/bhanupratapys/dnswarden) - DNS Adblocking
@@ -555,7 +554,6 @@
 * ⭐ **[FileCR](https://filecr.com/macos/)**
 * [Macintosh Garden](http://macintoshgarden.org/)
 * [nMac](https://nmac.to/)
-* [Cmacked](https://apps.cmacked.com/)
 * [MacBed](https://www.macbed.com/)
 * [AppDB](https://appdb.to/)
 * [AppsTorrent](https://appstorrent.ru/)
