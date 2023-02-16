@@ -341,7 +341,6 @@
 * [123Anime](https://123animes.ru/) - Sub / Dub
 * [AnimeLon](https://animelon.com/) - Sub / Learn Japanese
 * [because.moe](https://because.moe/) - Legal Anime Sites Search 
-* [Simplyaweeb](https://simplyaweeb.to/) - Sub / Dub / [Discord](https://discord.gg/4uGvPUV)
 * [KickAssAnime](https://www2.kickassanime.ro/) - Sub / Dub / [Discord](https://discord.com/invite/GEJk5K7)
 * [Genoanime](https://genoanime.com/) - Sub / Dub / [Discord](https://discord.com/invite/TMe9eVs2YY)
 * [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - Sub
