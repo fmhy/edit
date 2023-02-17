@@ -30,7 +30,6 @@
 * [Mark41stark](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mark41stark)
 * [KL Teamdrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_kl-teamdrive)
 * [Cloud Eleventh Hour](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cloud_eleventh_hour)
-* [Black Pirate](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_black_pirate)
 * [Lightz Cloud](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_lightz_cloud)
 * [Xtremecloud](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_xtremecloud)
 * [smolOD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_smolod) - Small Open Directories
