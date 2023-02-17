@@ -657,12 +657,6 @@ pass: paluch
 
 *** 
 
-#### Mangas.Heoo
-
-`aHR0cHM6Ly9tYW5nYXMuaGVvby53b3JrZXJzLmRldi8wOi8=`
-
-*** 
-
 #### Magazine Rack
 
 `aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL21hZ2F6aW5lX3JhY2s=`
@@ -732,12 +726,6 @@ pass: paluch
 #### KL-Teamdrive
 
 `aHR0cHM6Ly9ncm91cHMuZ29vZ2xlLmNvbS9nL2tsLXRlYW1kcml2ZQ==`
-
-*** 
-
-#### Black Pirate
-
-`aHR0cHM6Ly9uc2Z3LmJsYWNrcGlyYXRlLndvcmtlcnMuZGV2LzA6Lw==`
 
 *** 
 
