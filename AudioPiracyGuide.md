@@ -50,7 +50,6 @@
 * [Jamendo](https://www.jamendo.com/) - Browser Music
 * [Flowful](https://flowful.app/) - Browser Music
 * [Kainet](https://kainet.rocks/) - Browser Music
-* [Mp3Deer](https://mp3deer.com/) - Browser Music
 * [Last.fm](https://www.last.fm/) - Browser Music
 * [YesPlayMusic](https://music.qier222.com/) - Browser Music
 * [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
