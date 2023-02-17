@@ -16,7 +16,6 @@
 * ⭐ **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
 * ⭐ **[mega.archive](https://discord.gg/R3zEZUPp3Q)** / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
 * [EyeDex](https://www.eyedex.org/), [ODCrawler](https://odcrawler.xyz/), [OpenSho](https://opendirindex.opensho.com/), [ODS](https://sites.google.com/view/l33tech/tools/ods) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engines
-* [Alive Data Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_alive_data_indexes)
 * [Google TeamDrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_google_teamdrives) 
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28) 
 * [index-of](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_index-of) 
