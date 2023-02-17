@@ -105,7 +105,6 @@
 * [YggTorrent](https://ww3.yggtorrent.si/) - Video / Audio / Roms / Software / Books / Android / Comics
 * [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Software / Games / Books
 * [YourBittorrent](https://yourbittorrent.com/), [2](https://yourbittorrent2.com/) - Video / Audio / Software / Games / Books / NSFW
-* [ProStyleX](https://prostylex.org/) - Video / Audio / Books / Games / Software / NSFW  
 * [IsoHunt](https://isohunts.to/) or [IsoHunt.nz](https://isohunt.nz/) - Video / Audio / Games / Software / Books
 * [ExT](https://ext.to/), [2](https://site.extto.com/) - Video / Audio / Games / Software / Books
 * [rutor.info](http://rutor.info) or [rutor.is](http://rutor.is/) - Video / Audio / Games / Software / Books / Roms / Magazines
@@ -121,7 +120,6 @@
 * [Telegram Torrents](https://duckduckgo.com/?q=site%3At.me+torrent&ia=web) - Telegram Torrent Channels
 * [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/) - [ZeroNet Required](https://zeronet.io/) / Video / Audio / Software / Games
 * [4chan /t/](https://boards.4chan.org/t/) - Torrents / Imageboard / Some NSFW 
-* [8kun /t/](https://8kun.top/t/index.html) - Torrents / Imageboard
 * [DirtyWarez Tracker](https://dirtywarez.org/cat/tracker), [OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/) / [2](https://opentrackers.org/) or [awesome-piracy](https://github.com/Igglybuff/awesome-piracy#public-trackers) - Torrent Site Indexes
 
 ***
@@ -148,7 +146,6 @@
 * [LibTor](https://libtor.ch/)
 * [Torrends](https://torrends.to/)
 * [CloudTorrents](https://cloudtorrents.com/)
-* [BTDB](https://btdb.eu/)
 * [TNTBack](https://tntback.github.io/)
 * [BTMET](https://btmet.com/)
 * [FreshMeat](https://freshmeat.io/)
@@ -158,7 +155,6 @@
 * [TorrentProject2](https://torrentproject2.com/), [2](https://torrentproject2.net/)
 * [ciligou0](http://ciligou0.com/)
 * [TorrentDB](https://torrentdb.li/)
-* [BT4G](https://bt4g.org/)
 * [0Mag](https://www.0mag.net/), [2](https://9mag.net/), [3](https://3mag.net/)
 * [TorrentDownloads](https://www.torrentdownloads.pro/)
 * [Torlock](https://www.torlock.com/), [2](https://www.torlock2.com/)
@@ -228,7 +224,7 @@
 * [WarezBot](https://github.com/enzobes/WarezBot) - Discord Scene Release Tracker
 * [btcache](https://btcache.me/), [iTorrents](https://itorrents.org) or [Torrage](https://torrage.info/) - Torrent Storage Cache
 * [WebTorrent Checker](https://checker.openwebtorrent.com/) - Check Health of a Torrent
-* [mgnet](http://mgnet.me/) or [MagLit](https://maglit.me/) - Magnet Link Shortener
+* [MagLit](https://maglit.me/) - Magnet Link Shortener
 * [RSSFeedz](https://t.me/rssfeedz) - Torrent RSS Feed
 * [OpenWebTorrent](https://openwebtorrent.com/) - Free Webtorrent Tracker
 * [AutoDL-Irssi](https://autodl-community.github.io/autodl-irssi/) - IRC Channel Monitor / Autodownload / [Slack Notifications](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b)
