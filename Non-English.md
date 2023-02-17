@@ -1677,8 +1677,8 @@
 * [DonTorrent](https://dontorrent.casa/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent)
 * [Tomadvix](https://tomadivx.net/) - Movies / TV
 * [DIVXTorrent](https://www.divxtorrent.com/) - Movies / TV
-* [DivxTotal](https://www.divxtotal.pm/), [2](https://www.divxtotal.pl/) - Movies / [Telegram](https://t.me/divxtotal2)
-* [Grantorrent](https://grantorrent.nl/), [2](https://grantorrent.ch/) - Movies / TV
+* [DivxTotal](https://www.divxtotal.pl/) - Movies / [Telegram](https://t.me/s/divxtotal2)
+* [Grantorrent.fi](https://grantorrent.fi/), [2](https://grantorrent.ac/) - Movies / TV / Telegram[https://t.me/s/grantorrent1]
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
 * [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries
 * [Frozen Layer](https://www.frozen-layer.com/) - Anime
