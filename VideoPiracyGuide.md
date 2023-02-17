@@ -143,7 +143,6 @@
 * [Movly](https://movly.xyz/) - Movies / TV
 * [MovieHubz](https://moviehubz.com/) - Movies / TV / Anime / [Discord](https://discord.com/invite/UWTgkNCPXp)
 * [Afdah](https://afdah2.com/) - Movies
-* [XMovies](https://ww.xmovies.is/) - Movies / TV / Anime
 * [XXIKU](https://xxiku.com/) - Movies
 * [Yesmovies.show](https://ww3.yesmovies.show/) - Movies / TV / Anime
 * [DailyFlix](https://main.dailyflix.stream/) - Movies
@@ -162,7 +161,6 @@
 * [CMovies](https://cmovies.so/) - Movies / TV / Anime
 * [5Movies.pw](https://5movies.pw/) - Movies / TV / Anime
 * [FilarMovies](https://filarmovies.com/) - Movies / TV
-* [Cinehub](https://cinehub.wtf/) - Movies / TV / [Discord](https://discord.com/invite/ZqHsfSEkBE)
 * [HDFull](https://hdfull.lv/) - Movies / TV / Anime
 * [MovieStars](https://moviestars.to/) or [WinNoise](https://winnoise.com) - Movies / TV / Anime
 * [VidEmbed](https://vidembed.cc/) - Movies / TV / Anime
@@ -404,7 +402,6 @@
 * [Themes.moe](https://themes.moe/), [2](https://staging.animethemes.moe/wiki/) - Anime Opening & Ending Themes
 * [AnimeMusicVideos](https://www.animemusicvideos.org/) - Fan-Made Anime Music Videos
 * [Anime Clips](https://discord.gg/5UXfcJf4Hj) - Anime Clips
-* [Animeflix](https://github.com/chirag-droid/animeflix) - Sub / Dub / Self-Hosted
 
 ***
 
@@ -618,7 +615,7 @@
 
 * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
-* ⭐ **[Pahe](https://pahe.li/)**, [2](https://pahe.me/) - Movies / TV / Anime / [Discord](https://discord.gg/4AvaCsd2J4) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper)
+* ⭐ **[Pahe](https://pahe.li/)** - Movies / TV / Anime / [Discord](https://discord.gg/4AvaCsd2J4) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper)
 * ⭐ **[PSARips](https://psa.pm/)** - Movies / TV / [GDrive TG](https://t.me/PSAonGdrive) / [Scrape](https://github.com/NandiyaLive/PSALinkGrabber)
 * ⭐ **[Worlds Cinema](http://worldscinema.org/)** - Classic / Cult Films
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / Account Required for 1ficher links / [DM](https://www.reddit.com/message/compose?to=nbatman) email for invite
@@ -632,7 +629,6 @@
 * [My9JARocks](https://my9jarocks.com/category/videodownload/hollywood-movie) - Movies / TV
 * [HDMP4Mania](https://hdmp4mania1.net/showcat.php?catid=2) - Movies
 * [DDLBase](https://ddlbase.net/) - Movies / TV
-* [megaDDL](https://megaddl.co/) - Movies / TV
 * [StarsDDL](https://starsddl.me/) - Movies / TV
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
 * [EE3](https://ee3.me/) or [RIPS](https://rips.cc/) - Movies / Invite Code: mpgh or 1hack
@@ -647,7 +643,6 @@
 * [MeloMovie](https://melomovie.com/) - Movies / TV
 * [MKV Cage](https://www.mkvcage.site/) - Movies / TV
 * [Best-Movies](http://best-movies.info/) - Movies / TV
-* [WatchingForLinks](https://watchingforlinks.com/) - Movies / TV
 * [Onkyo4k](https://onkyo4k.com/) - Movies / TV
 * [ShareSpark](https://sharespark.me/) - Movies / TV
 * [Free Movies](https://free-movies.to/) - Movies / TV
