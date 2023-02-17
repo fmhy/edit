@@ -315,7 +315,7 @@
 * [How to Rip Videos from Disney+](https://redd.it/ncyxzx), [2](https://web.archive.org/web/20210516014412/https://old.reddit.com/r/Piracy/comments/ncyxzx/tutorial_how_to_rip_moviesshows_from_disney_plus/)
 * [Chat-Downloader](https://github.com/xenova/chat-downloader) - Retrieve Chat Messages from Livestreams
 * [PlayPhrase](https://playphrase.me/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/), [2](https://getyarn.io/) - Clip Quote Search Engine
-* [VideoProc](https://www.videoproc.com/) or [Libav](https://www.libav.org/) - Video Processing Software
+* [VideoProc](https://www.videoproc.com/) - Video Processing Software
 * [DJV](https://darbyjohnston.github.io/DJV/) - Professional Video Review Player
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - SWF to Video Converter
 * [MotionFactory](https://www.motionfactory.io/) - Video Editing Workflow Manager
@@ -581,7 +581,7 @@
 * [Musicara](https://www.musicara.ml/) or [X-Minus](https://x-minus.pro/) - Create Karaoke Songs
 * [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Vocaroo](https://www.vocaroo.com/), [VoiceSpice](https://voicespice.com/) or [Reverb Record](https://record.reverb.chat/) - Online Audio Recorder 
 * [MP3Smaller](https://www.mp3smaller.com/) - MP3 Compressor 
-* [MP3Food](https://mp3food.com/) or [AudioTrimmer](https://audiotrimmer.com/) - Online Audio Cutters
+* [AudioTrimmer](https://audiotrimmer.com/) - Online Audio Cutters
 * [The Trimmer Bot](https://t.me/The_Trimmer_bot) - Video Trimmer Telegram Bot
 * [ShortApp](https://shortsapp.com/) - Cut Video / Audio into Shorts 
 * [MP3CutterPro](https://mp3cutterpro.com/), [Flacon](https://flacon.github.io/) or [SongDonkey](https://songdonkey.ai/) - Audio Track Splitter 
@@ -696,7 +696,7 @@
 * [Data.gov Resources](https://resources.data.gov/) - Data Management Tools & Training
 * [NIST](https://www.nist.gov/nice/apprenticeship-finder) - NICE Apprenticeship Program Finder
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - Cloud Career Training
-* [awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list), [StartupLibrary](https://startuplibrary.co/) or [500+ Free Tools For Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Tools
+* [awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list) or [500+ Free Tools For Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Tools
 * [BetaList](https://betalist.com/) - Get Startup Ideas
 * [HalfBakedIdeas](https://halfbakedideas.vercel.app/feed) - Share Startup Ideas
 * [Failory](https://www.failory.com/graveyard) - Learn Why Startups & Products Failed
@@ -728,7 +728,7 @@
 * [GetFreeIMEBooks](https://www.getfreeimebooks.com/) - Digital Marketing Resources
 * [Systeme](https://systeme.io/) - Marketing Tools
 * [HLDMSIYS?](http://howlongdoesmarijuanastayinyoursystem.net/) - Drug Effect Duration / Testing Information
-* [HomeBank](http://homebank.free.fr/), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://www.moneymanagerex.org/), [Ledger](https://www.ledger-cli.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa), [My Expenses](https://f-droid.org/packages/org.totschnig.myexpenses/), [Sushi](https://github.com/jerameel/sushi) or [gnucash](https://www.gnucash.org/) - Finance Managers
+* [HomeBank](http://homebank.free.fr/), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://www.moneymanagerex.org/), [Ledger](https://www.ledger-cli.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa), [My Expenses](https://f-droid.org/packages/org.totschnig.myexpenses/) or [Sushi](https://github.com/jerameel/sushi)- Finance Managers
 * [financial_advice](https://github.com/emilepetrone/financial_advice) - Financial Lessons
 * [Stocksera](https://stocksera.pythonanywhere.com/) or [Screener](https://www.screener.in/) - Stock Tracker
 * [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) - Send TradingView Alerts to Various Apps / [Index](https://github.com/pAulseperformance/awesome-pinescript)
@@ -1429,7 +1429,6 @@
 * [rss2tg_bot ](https://t.me/rss2tg_bot) - RSS Feed Bot
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - Telegram CSE
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Link Shortener Bot 
-* [TLG.NAME](https://www.tlg.name/) - Telegram Link Creator
 * [URL2IMGBot](https://t.me/URL2IMGBot) - Take URL Screenshots
 * [AiImageBot](https://t.me/AiImageBot) - Text to Image
 * [Stickers Cloud](https://stickers.cloud/en), [Combot Stickers](https://combot.org/telegram/stickers) or [moe_sticker_bot](https://t.me/moe_sticker_bot) - Sticker Packs
@@ -2095,7 +2094,7 @@ Twitch Stream Tracker
 * [XDesktopSoft](https://www.xwidget.com/) - Desktop Customization
 * [DesktopMagic](https://github.com/Stone-Red-Code/DesktopMagic) - Desktop Customization
 * [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Community
-* [WindowsCustomization](https://windowscustomization.com/), [VirtualCustoms](https://virtualcustoms.net/), [WinCustomize](https://www.wincustomize.com/), [Win10 DeviantArt](https://www.deviantart.com/tag/windows10), [WinClassic](https://winclassic.boards.net/) or [7Themes](https://7themes.su/) - Desktop Customization / Themes / Wallpapers etc.
+* [WindowsCustomization](https://windowscustomization.com/), [WinCustomize](https://www.wincustomize.com/), [Win10 DeviantArt](https://www.deviantart.com/tag/windows10), [WinClassic](https://winclassic.boards.net/) or [7Themes](https://7themes.su/) - Desktop Customization / Themes / Wallpapers etc.
 * [msstyleEditor](https://github.com/nptr/msstyleEditor) - Windows Visual Style Editor
 * [DynaWin](https://github.com/Apollo199999999/DynaWin) or [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Dynamic Desktop Themes
 * [SecuredUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - Ux Theme Patcher
@@ -2335,7 +2334,7 @@ Twitch Stream Tracker
 * [pe_tree](https://github.com/blackberry/pe_tree) - PE File Tree View
 * [PEDump](https://pedump.me/) - PE File Dump
 * [AXEL](https://github.com/axel-download-accelerator/axel) - Lightweight CLI Download Accelerator
-* [HxD](https://mh-nexus.de/en/hxd/), [Hexyl](https://github.com/sharkdp/hexyl), [Hex Works](https://hex-works.com/eng) or [Hexinator](https://hexinator.com/) - Hex Editors
+* [HxD](https://mh-nexus.de/en/hxd/), [Hexyl](https://github.com/sharkdp/hexyl) or [Hexinator](https://hexinator.com/) - Hex Editors
 * [webhex.net](https://en.webhex.net/) - Online Hex Viewer
 * [HexEd.it](https://hexed.it/) or [Online Hex Editor](https://www.onlinehexeditor.com/) - Online Hex Editors
 * [infekt](https://infekt.ws/) / [GitHub](https://github.com/syndicodefront/infekt), [nfoview](https://otsaloma.io/nfoview/) / [GitHub](https://github.com/otsaloma/nfoview), [NFOReader](http://www.nforeader.com/) or [NFOmation](https://nfomation.net/) - NFO File Viewers
