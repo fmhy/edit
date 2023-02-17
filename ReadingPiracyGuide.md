@@ -888,7 +888,6 @@
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [Mangadex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [Madokami Manga Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_madokami)
 * [The Manga Library](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_manga_library)
-* [Mangas.Heoo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mangas.heoo)
 * [BookDL Comic & Manga](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_booksdl)
 * [pptenshi](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pptenshi)
 * [GoIndex](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_goindex)
@@ -950,18 +949,13 @@
 * [Hiperdex](https://hiperdex.com/)
 * [MangaFox](https://fanfox.net/)
 * [ReadM](https://readm.org/)
-* [LHTranslation](https://lhtranslation.net/)
 * [MangaKatana](https://mangakatana.com/) 
-* [Manga.Fanscans](https://manga.fascans.com/)
 * [CMReader](https://www.cmreader.info/)
 * [mangapill](https://mangapill.com/) 
 * [projectsuki](https://projectsuki.com/) 
 * [ReadMng](https://www.readmng.com/) or [MngDoom](https://www.mngdoom.com/)
 * [NineAnime](https://www.nineanime.com/category/)
 * [PenLab](https://penlab.ink/) - Filipino Manga
-* [MANGAen](https://t.me/MANGAen) - Manga / Telegram 
-* [Dynasty Scans](https://dynasty-scans.com/) - Yuri
-* [BoysLove](https://boyslove.me/) - Yaoi 
 * [WhereCanIReadManga?](https://wherecanireadmanga.com/) - Legal
 * [OtakuGallery](http://www.otakugallery.com/) - Manga Artbooks
 * [Tachiyomi](https://github.com/Suwayomi) / [Web Client](https://github.com/TachiWeb) / [Desktop Client](https://github.com/Suwayomi/Tachidesk-Server) / [Discord](https://discord.com/invite/tachiyomi), [AllMangasReader](http://allmangasreader.com/), [Houdoku](https://houdoku.org/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi), [isoComic](https://github.com/isomerase/isocomic-extensions) or [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer) - Manga Reader / Manager
