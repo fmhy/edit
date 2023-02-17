@@ -30,7 +30,6 @@
 * [music_banktel](https://t.me/music_banktel) - Music / Telegram
 * [NullNoss](https://www.nullnoss.org/) - Courses
 * [Courses4Arab](https://courses4arab.com/) - Programming Courses
-* [WiFi4Games](https://www.wifi4games.com/) - Games
 * [ArabicFonts](https://arabicfonts.net/) - Fonts
 
 ## ▷ Torrenting 
