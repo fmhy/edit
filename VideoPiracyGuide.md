@@ -331,7 +331,6 @@
 * ⭐ **[Zoro](https://zoro.to/)** - Sub / Dub
 * ⭐ **[9Anime](https://www.9anime.to/)** - Sub / Dub / [Mirrors](https://9anime.me/) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher) / [Ad Scripts](https://redd.it/c330dx)
 * ⭐ **[Anime8](https://anime8.ru/)** - Sub / Dub
-* ⭐ **[All Anime](https://allanime.site/)** - Sub / Dub
 * ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / [Downloader](https://github.com/ed-archer/animepahe-dlr), [2](https://github.com/KevCui/animepahe-dl)
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
 * [AnimehHub](https://animehub.ac/) - Sub / Dub
