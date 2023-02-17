@@ -1637,15 +1637,15 @@
 * [gamesgx](https://www.gamesgx.net/) - PS2 ROMs
 * [Zypeliculashd](https://zypeliculashd.net/) - Movies / TV / Anime
 * [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - Movies
-* [SomosMovies](https://somosmovies.com/) - Movies
+* [SomosMovies](https://somosmovies.com/) - Movies / TV
 * [Mega MKV](https://mega-mkv.com/) - Movies
 * [DLShared](https://dlshareds.blogspot.com/?m=1) - Movies / Music
-* [DescargasDD](https://descargasdd.net/) - Movies / TV
+* [DescargasDD](https://descargasdd.org/) - Video / Audio / Software / Games / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
 * [mirandopeliculas](https://mirandopeliculas.com/) - Movies / TV
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
 * [gnula](https://gnula.nu/) - Movies / TV
 * [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram
-* [dyndns](http://fina.dyndns.tv/) - TV
+* [dyndns](http://fina.dyndns.tv/) - Movies / TV
 * [Descarga Cine Clasico](https://descargacineclasico.net/) - Classical Movies
 * [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV
 * [RetroCanal](https://retrocanal.net/) - Classical Movies / TV
@@ -1672,13 +1672,13 @@
 * [EliteTorrent](https://elitetorrent.com/) - Movies / TV / Anime
 * [zonatorrent](https://zonatorrent.tv/) - Movies / TV
 * [Grantorrent.wtf](https://grantorrent.wtf/) - Movies / TV / Documentaries
+* [Grantorrent.fi](https://grantorrent.fi/), [2](https://grantorrent.ac/) - Movies / TV / Telegram[https://t.me/s/grantorrent1]
 * [PasateaTorrent](https://pasateatorrent.net/) - Movies / TV
 * [Descargas](https://descargas2020.net/) - Movies / TV
 * [DonTorrent](https://dontorrent.casa/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent)
 * [Tomadvix](https://tomadivx.net/) - Movies / TV
 * [DIVXTorrent](https://www.divxtorrent.com/) - Movies / TV
-* [DivxTotal](https://www.divxtotal.pm/), [2](https://www.divxtotal.pl/) - Movies / [Telegram](https://t.me/divxtotal2)
-* [Grantorrent](https://grantorrent.nl/), [2](https://grantorrent.ch/) - Movies / TV
+* [DivxTotal](https://www.divxtotal.pl/) - Movies / [Telegram](https://t.me/s/divxtotal2)
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
 * [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries
 * [Frozen Layer](https://www.frozen-layer.com/) - Anime
