@@ -64,7 +64,6 @@
 * [WarezForums](https://warezforums.com/) - Video / Audio / Games / ROMs / Software / Books / Comics / Android / [Account Application](https://t.me/joinchat/AAAAAFRH5fns4IiE-T2TcA)
 * [Releaselog](http://www.rlslog.net/) - Video / Games / ROMs / Software / Books / Comics / Magazines / Android
 * [OneDDL](https://oneddl.org/) - Video / Audio / Software / Games / Books
-* [FilmSofts](https://www.filmsofts.com/) - Video / Audio / Games / ROMs / Software / Books / Comics / NSFW
 * [Warez-Serbia](https://www.warez-serbia.com/) - Video / Audio / Games / Software / Android / Books / Magazines / NSFW 
 * [DownArchive](http://downarchive.org/) - Video / Audio / Software / Games / ROMs / Android / Books / Magazines
 * [AsanDL](http://asandl.com/) - Video / Audio / Games / Software / Books / Magazines / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -270,7 +269,6 @@
 * [LO4D](https://www.lo4d.com/)
 * [ListOfFreeWare](https://listoffreeware.com/)
 * [Downloadastro](https://en.downloadastro.com/)
-* [FileGuru](https://www.fileguru.com/)
 * [SnapFiles](https://www.snapfiles.com/freeware/)
 * [apponic](https://www.apponic.com/)
 * [DownloadCrew](https://www.downloadcrew.com/)
@@ -370,7 +368,6 @@
 * [MagesyPro](https://www.magesypro.com/) 
 * [Music-Create](https://music-create.org/) 
 * [Audio.Tools](https://audio.tools/) 
-* [AudioLove](https://audiolove.club/) 
 * [jbouchat](http://jbouchat.ucoz.com/)
 * [Audioz](https://audioz.download/)
 
