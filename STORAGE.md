@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/ZXqthNs.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/ZA83eD9.png)** - For mobile users
 
 ***
 
@@ -1732,6 +1732,12 @@ Add the following commands to a search to manually scrape each site.
 #### Open Directory Search String Builder
 
 [strixx](https://strixx.now.sh/), [lendx](http://lendx.org/), [eyeofjustice](https://www.eyeofjustice.com/od/), [lumpysoft](https://lumpysoft.com/), [opendirsearch](https://opendirsearch.abifog.com/), [Ewasion](https://ewasion.github.io/opendirectory-finder/), [Palined](http://palined.com/search/), [doyouneedmorehdd](https://doyou.needmorehdd.space/#), [FonetAsk](http://www.fonetask.com/), [Reecemercer](https://open-directories.reecemercer.dev/), [giitit](http://www.giitit.com/), [odfinder](https://odfinder.github.io/), [thuvien](https://thuvien.com/)
+
+#### Open Source APKs
+
+⭐ **[Android FOSS](https://github.com/offa/android-foss)**
+
+[FossDroid](https://fossdroid.com/) / [/r/fossdroid](https://reddit.com/r/fossdroid), [Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md), [Open-Source Android Apps](https://github.com/pcqpcq/open-source-android-apps), [/r/u_Jackie7610](https://redd.it/jhtvn4), [AAA](https://github.com/Psyhackological/AAA), [Cool FOSS](https://albertomosconi.github.io/foss-apps/) / [GitHub](https://github.com/albertomosconi/foss-apps)
 
 ***
 
