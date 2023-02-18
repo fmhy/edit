@@ -338,13 +338,6 @@ Use a our sites **[Built-In Decoder](https://www.fmhy.ml/base64)**, a **[Base64 
 
 ***
 
-#### Flash Games Collection
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVU4dEpmSnJfM0NnLVBYTDdQUXNoWk9wMnVrdlZpcHBt`
-
-
-***
-
 #### ClassicGames.rar
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xeWxIazQ2dmRWMWRaY2ZVVVNOREFUN0YyUlZvaThGRlMv`
