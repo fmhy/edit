@@ -760,7 +760,7 @@
 * ⭐ **[Site Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_site_development)** - Site Development / Hosting Tools
 * [Yandex Disk](https://disk.yandex.com/), [VK WorkSpace](https://biz.mail.ru/) or [OpenDesktop](https://www.opendesktop.org/) - Multiple Cloud Services 
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
-* [Nativefier](https://github.com/nativefier/nativefier) or [Pake](https://github.com/tw93/Pake) - Turn Webpages into Desktop Apps
+* [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/webcatalog/), [web2desk](https://appmaker.xyz/web2desk/) or [Pake](https://github.com/tw93/Pake) - Turn Webpages into Desktop Apps
 * [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - Test Internet Speed
 * [Packet Loss Test](https://packetlosstest.com/) - Packet Loss Test
 * [Pinging](https://www.pinging.net/) - Internet Uptime Monitor
@@ -819,7 +819,6 @@
 * [Bookmarklets Guide](https://rentry.co/bookmarklets-guide) - Useful Bookmarklets / Guide
 * [wallabag](https://wallabag.org/) - Save and Classify Articles
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - Tools / Apps to Run Flash Programs
-* [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/webcatalog/) or [web2desk](https://appmaker.xyz/web2desk/) - Turn Sites into Desktop Apps 
 * [Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Multiverse](https://multiverse.plus/), [Letterpad](https://letterpad.app/), [Mataroa](https://mataroa.blog/), [Write.as](https://write.as/) / [Reader](https://tiny.write.as/), [Emanates Docs](https://emanates.deepjyoti30.dev/), [PublicEmails](https://publicemails.com/), [write freely](https://writefreely.org/), [OffPress](https://offpress.app/), [You Don't Need WP](https://www.youdontneedwp.com/) or [twtxt](https://github.com/buckket/twtxt) - Blogging Platforms
 * [Telescope](https://telescope.ac/) - Publishing Platform
 * [Hamsket](https://github.com/TheGoddessInari/hamsket), [Ferdi](https://getferdi.com/), [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [matterbride](https://github.com/42wim/matterbridge), [Ferdium](https://ferdium.org/) or [Franz](https://meetfranz.com/) - Combine Web Apps / Chats
