@@ -1637,7 +1637,6 @@
 * [Zypeliculashd](https://zypeliculashd.net/) - Movies / TV / Anime
 * [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - Movies
 * [SomosMovies](https://somosmovies.com/) - Movies / TV
-* [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / TV
 * [Mega MKV](https://mega-mkv.com/) - Movies
 * [DLShared](https://dlshareds.blogspot.com/?m=1) - Movies / Music
 * [DescargasDD](https://descargasdd.org/) - Video / Audio / Software / Games / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
@@ -1646,6 +1645,7 @@
 * [gnula](https://gnula.nu/) - Movies / TV
 * [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram
 * [dyndns](http://fina.dyndns.tv/) - Movies / TV
+* [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation
 * [Descarga Cine Clasico](https://descargacineclasico.net/) - Classical Movies
 * [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV
 * [RetroCanal](https://retrocanal.net/) - Classical Movies / TV
