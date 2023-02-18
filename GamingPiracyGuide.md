@@ -44,7 +44,6 @@
 * [Steam Deck Backups](https://t.me/+0T6LcMGCdApkZTg0) - Steam Deck Games
 * [GrimReaper's Scene ISO Collection](https://archive.org/details/@waffess) - ISO Collection
 * [Redump Forum](http://forum.redump.org/) - Disc Preservation Project
-* [Flashtro](https://flashtro.com/) - Retro Game Crack Archive
 * [How The Warez Scene Works](https://www.reddit.com/r/CrackWatch/comments/92uz49/the_warez_scene_how_it_works/) 
 
 ***
@@ -324,6 +323,7 @@
 * [lemon64](https://www.lemon64.com/), [whdload](https://www.whdload.de/), [lemonamiga](https://www.lemonamiga.com/), [exotica](http://www.exotica.org.uk/) or [hol abime](https://hol.abime.net/) - Amiga / Commodore64 ROMs
 * [AtariMania](http://www.atarimania.com/index.html) - ROMs / Emulators  / Atari Consoles
 * [World of Spectrum](https://worldofspectrum.org/) - ROMs / Emulators / Sinclair ZX Spectrum
+* [Flashtro](https://flashtro.com/) - Retro Games
 * [MagiPack](https://www.magipack.games/) - Retro Games 
 * [/1CC/](https://8kun.top/1cc/index.html) - Retro Games / [Discord](https://discord.com/invite/Y4dSzbXNau)
 * [Zombs-Lair](https://www.zombs-lair.com/) - Retro Games
