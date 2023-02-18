@@ -47,7 +47,7 @@
 
 * ⭐ **[DNS Providers](https://adguard-dns.io/kb/general/dns-providers/)** - DNS Provider Index
 * ⭐ **[DNS Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dns_filters)** - DNS Host File Blocking
-* ⭐ **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - DNS Adblocking / Self-Hosted / [Setup](https://github.com/klutchell/balena-adguard) / [Family Filter](https://ammnt.app/) / [Filters](https://github.com/hl2guide/AdGuard-Home-Whitelist)
+* ⭐ **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - DNS Adblocking / Self-Hosted / [Setup](https://github.com/klutchell/balena-adguard) / [Filters](https://github.com/hl2guide/AdGuard-Home-Whitelist)
 * ⭐ **[ahadns](https://ahadns.com/)** - DNS Adblocking
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking
 * ⭐ **[YogaDNS](https://yogadns.com/)** - DNS Adblocking
@@ -272,13 +272,11 @@
 * ⭐ **[LocalCDN](https://www.localcdn.org/)**, [WhatCampaign](https://addons.mozilla.org/en-US/firefox/addon/whatcampaign/), [Decentraleyes](https://decentraleyes.org/), [Ping Blocker](https://github.com/dessant/ping-blocker), [OptMeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) or [TrackMeNot](http://trackmenot.io/) - Tracking Protection
 * [CRXcavator](https://crxcavator.io/) - Check Browser Extension Security
 * [File Guard](https://mybrowseraddon.com/file-encryptor.html) - File Encryption / Decryption
-* [Trace](https://absolutedouble.co.uk/trace/) - Privacy Toolkit 
 * [Site Bleacher](https://github.com/wooque/site-bleacher) - Auto Remove Cookies, Local Storages, etc.
 * [Invidition](https://codeberg.org/Booteille/Invidition) or [LibreDirect](https://github.com/libredirect/libredirect) - Frontend Redirect
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
 * [catgirl.cloud](https://catgirl.cloud/) - Privacy-Respecting Services
 * [Anti-Grabify](https://github.com/Konnor88/anti-grabify) - Block IP Grabbers
-* [Anti-Fp](https://www.cydecplatform.com/antifp.html) - Disrupt Fingerprint Targeting
 * [CanvasBlocker](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_canvasblocker) or [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/) - Prevent Canvas Fingerprinting
 * [Refer Deez Nuts](https://addons.mozilla.org/en-US/firefox/addon/refer-deez-nuts/) - Hide Referral Code Clicks
 * [GNU LibreJS](https://www.gnu.org/software/librejs/) - Block Trivial Javascript
@@ -435,7 +433,6 @@
 * [Mojeek](https://www.mojeek.com/)
 * [SKYN3T](https://skyn3t.in/)
 * [Brave Search](https://search.brave.com/)
-* [Snopyta](https://search.snopyta.org/)
 * [peekier](https://peekier.com/)
 * [neeva](https://neeva.com/)
 * [Kagi](https://kagi.com/) 
@@ -543,7 +540,6 @@
 * [raspberrypiwireguard](https://github.com/adrianmihalko/raspberrypiwireguard) - Install WireGuard on Raspberry Pi
 * [Killswitch](https://github.com/nologs-vpn/killswitch) or [KillSwitch](https://github.com/nerfirelia123/KillSwitch) - Custom VPN Killswitch
 * [/r/VPN](https://reddit.com/r/VPN) - VPN Help and Discussion 
-* [OilAndFish](https://www.oilandfish.com/) - Firewall Bypass Guide
 * [Opera "VPN" is a Proxy, Not VPN](https://gist.github.com/spaze/558b7c4cd81afa7c857381254ae7bd10)
 
 ***
@@ -608,7 +604,6 @@
 * [Proxy Site](https://proxysite.cloud/)
 * [TorProxy](https://torproxy.org/)
 * [AtozProxy](https://www.atozproxy.com/)
-* [Open Proxy Space](https://openproxy.space/)
 * [Cloudflare Workers Proxy](https://rentry.org/champagne_guides/#how-to-proxy-any-website-using-cloudflare-workers) - How-to Use Cloudflare Workers as a Proxy
 * [Google Translate](https://translate.google.com/) - [How to use](https://redd.it/fawkjy) 
 * [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - Python Library for Retrieving Free Proxies
