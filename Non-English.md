@@ -1972,7 +1972,6 @@
 
 * [Fshare](https://timfshare.com/) - Video / Audio / Software / Games
 * [TaiWebs](https://taiwebs.com/) - Software / Android / Games
-* [Softonic](https://www.softonic.vn/) - Software / Android / Games
 * [SoftBuzz](https://softbuzz.net/) - Software / Games
 * [KhiPhach](https://khiphach.vn/) - Software / Android / Games
 * [Downvn](https://down.vn/) - Software / Android / Games
