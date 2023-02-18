@@ -742,7 +742,6 @@
 * ⭐ **[Software Library: Flash](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_software_library.3A_flash)** - Archive 
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - Tools / Apps to Run Flash Programs
 * [Rek's Flash Game Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_flash_game_collection) - Archive 
-* [Flash Games Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_flash_games_collection) - Archive 
 * [ClassicGames.rar](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_classicgames.rar) - Archive / pw:paluch
 * [Flash by Night](http://flashbynight.com/) - Browser Games
 * [FlashGamesArchive](http://www.flashgamearchive.com/playable/) - Browser Games
