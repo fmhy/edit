@@ -1,10 +1,13 @@
 Note - This list only contains sites / tools not found on [PornDude](https://theporndude.com/).
 
+***
+
 # Porn
 
 ## Site Lists
 
 * ⭐ **[PornDude](https://theporndude.com/)** / [More Sites](https://theporndude.com/hall-of-fame)
+* ⭐ **[Reddit Doesn't Like This Site](https://www.reddit-doesnt-like-this.site/)**
 * ⭐ **[NSFW Subreddits](http://redditlist.com/nsfw)**, [2](https://www.reddit.com/r/NSFW411/wiki/index), [3](https://bin.disroot.org/?81af22c09e92865d#FYLXmjaKbaojaELwAv1szcfy7rahuA77ntnFu2HBEBGf), [4](https://redd.it/brypgf), [5](https://theporndude.com/best-nsfw-reddit-sites), [6](http://electronsoup.net/nsfw_subreddits/) / [Reverse Search](https://www.rarchives.com/)
 * [Full Length Porn CSE](https://cse.google.com/cse?cx=6c02fb377e50d493c)
 * [One Porn List](https://onepornlist.com/)
@@ -16,6 +19,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [JennyList](https://jennylist.xyz/) 
 * [ThePornBin](https://thepornbin.com/)
 * [PinkWorld](https://pinkworld.com/) 
+* [MegaPornList](https://megapornlist.com/)
 * [PornList18](https://pornlist18.com/) 
 * [TopXXXList](https://www.topxxxlist.net/) 
 * [IndianPornList](https://indianpornlist.com/) 
@@ -53,9 +57,10 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [24xxx](https://www.24xxx.me/)
 * [mega-porno](http://mega-porno.me/last/)
 * [cumlouder](https://www.cumlouder.com/)
-* [goodporn](https://goodporn.to/)
+* [goodporn](https://goodporn.to/), [2](https://goodporn.se/)
 * [pornktube](https://www.pornktube.tv/)
 * [streamporn](https://streamporn.pw/)
+* [PornAMinute](https://porninaminute.org/)
 * [Mov18Plus](https://mov18plus.com/) 
 * [LustFlix](https://lustflix.in/)
 * [suj](https://suj.nu/)
@@ -107,11 +112,13 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [GalleryCherry](https://github.com/RobbWatershed/GalleryCherry) - Gallery Archiving Android App
 * [fap.bar](https://fap.bar/) - NSFW Reddit Video Browser
 * [nsfw.xxx](https://nsfw.xxx/), [Scroller](https://scrolller.com/), [RedditBetterNSFW](https://redditbetternsfw.com/) or [reddnight](https://reddnight.com/) - NSFW Reddit Image & Video Browser
-* [MrCong](https://mrcong.com/), [babes.gallery](https://babes.gallery/), [sxypix](https://sxypix.com/), [traht](https://traht.org/), [Babepedia](https://www.babepedia.com/) or [girlsreleased](https://girlsreleased.com/) - Images
+* [MrCong](https://mrcong.com/), [babes.gallery](https://babes.gallery/), [sxypix](https://sxypix.com/), [Porn Images](https://porn-images-xxx.com/), [traht](https://traht.org/), [Babepedia](https://www.babepedia.com/), [realbooru](https://realbooru.com/) or [girlsreleased](https://girlsreleased.com/) - Images
 * [Ana Dias Photography](https://www.anadiasphotography.com/) or [PmateHunter](https://pmatehunter.com/) - Playboy Images
+* [Simple-Costplay](https://www.simply-cosplay.com/) or [Hentai Costplays](https://hentai-cosplays.com) - Cosplay Images
 * [Rule34World](https://rule34.world/) - Rule 34 Images
 * [Kimchi TV](https://kimchi.tv/) - Asian Porn
 * [Republic of Korea](https://republic-of-korea.com/) - Asian Porn
+* [yadongkorea](https://yadongkorea.net/) - Asian Porn
 * [ArcJav](https://arcjav.com/) - Japanese Porn
 * [missav](https://missav.com/en) - Japanese Porn
 * [SEGNECK](https://discord.gg/jP5BHAUbeu) - Japanese Porn
@@ -124,11 +131,13 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [JavEnglish](http://javenglish.cc/) - Japanese Porn
 * [chinababe](https://ww1.chinababe.net/site/mitaoav/) - Chinese Porn
 * [sjhs301](https://sjhs301.github.io/) - Chinese Porn
+* [](https://pinayflix.tv/) - Filipino Porn
 * [aagmaals](https://aagmaals.net/) - Indian Porn
 * [sexfullmovies](https://www.sexfullmovies.com/) - Indian Porn
 * [onlyindianporn](https://onlyindianporn.me/) - Indian Porn
 * [NudeBase](https://nudebase.com/), [FappeningBook](https://fappeningbook.com/), [CelebGate](https://celeb.gate.cc/) or [CelebsNudeWorld](https://celebsnudeworld.com/) - NSFW Celebs
 * [Recordbate](https://recordbate.com/) or [webpussi](https://www.webpussi.com/) - Chaturbate Recordings
+* [nobodyhome](https://nobodyhome.tv/forum-2.html) - Request Private Camwhores.tv Videos
 * [Babes Rater](https://babesrater.com/) - Rate Babes
 * [Boob Critic](http://www.boobcritic.com/) - Rate Tits
 * [ComicsArmy](https://comicsarmy.com/) - Comics
@@ -172,7 +181,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [aesthetic_dvite](https://t.me/aesthetic_dvite) - Telegram
 * [destructiveaddiction](https://t.me/destructiveaddiction) - Telegram
 * @PornMirror - Telegram
-* [KinkBot](https://kinkbot.me/), [Boob Bot](https://www.boobbot.us/) or [multporn-image-downloader-v2](https://github.com/Official-Husko/multporn-image-downloader-v2) - Porn Image Downloader
+* [KinkBot](https://kinkbot.me/), [Boob Bot](https://www.boobbot.us/), [CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) or [multporn-image-downloader-v2](https://github.com/Official-Husko/multporn-image-downloader-v2) - Porn Image Downloaders
 * [Pornhub DL Script](https://redd.it/ks5sba), [TubeOffline](https://www.tubeoffline.com/download-PornHub-videos.php) or [Savido Pornhub](https://www.savido.net/sites/pornhub) - Pornhub Downloader
 * [FC2 Gather](https://github.com/supsupsuperstar/fc2_gather) - FC2 Image Scraper
 
@@ -231,6 +240,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [EroticAge](https://www.eroticage.net/) 
 * [paradisehill](https://en.paradisehill.cc/)
 * [WatchMovies](https://watchomovies.xyz/)
+* [Cat3Movies](https://cat3movie.org/)
 * [freeomovie.info](https://freeomovie.info/)
 * [freeomovie.to](https://www.freeomovie.to/)
 * [yourdailypornmovies](https://yourdailypornmovies.ws/)
@@ -281,11 +291,15 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46) 
 * [sakuracircle](https://sakuracircle.com/) 
 * [HBrowse](http://95.211.228.39:321/)
+* [toonily](https://toonily.me/)
 * [MyReadingManga](https://myreadingmanga.info/)
 * [Ryuugames](https://ryuugames.com/) 
 * [WebHentai](https://webhentai.net/)
+* [manhwas.men](https://manhwas.men/)
+* [Hentai Upscales](https://t.me/+4zMgLbnhiF5hZGRk)
 * [Panda Chaika](https://panda.chaika.moe/)
 * [EAHentai](https://eahentai.com/)
+* [manhwa18](https://manhwa18.com/)
 * [HAnime](https://hanime.tv/) / [Downloader](https://github.com/afroshyi/hanime-generator/)
 * [NewToki69](https://newtoki96.com/)
 * [Anix.moe](https://www.anix.moe/)
@@ -295,6 +309,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [tumanhwas](https://tumanhwas.club/)
 * [Jraws](http://jraws.net/)
 * [ComicBox](https://www.comicbox.xyz/)
+* [hentai-img](https://hentai-img.com/)
 * [Mangadass](https://mangadass.com/)
 * [manhwaland](https://manhwaland.guru/)
 * [shikotch](https://shikotch.net/)
@@ -353,11 +368,13 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [NameThatPorn](https://namethatporn.com/) - Porn Identification Tool
 * [ThePornDB](https://metadataapi.net/) - Porn Metadata
 * [ZENRA](https://www.zenra.net/free-jav-reverse-image-search) - Reverse JAV Image Search
+* [FapInstructor](https://fapinstructor.com/) - Fap Instructor Tool
 * [Chaturbate Enhanced](https://openuserjs.org/scripts/stixmaster/Chaturbate_Enhanced) or [Chaturbate Clean](https://openuserjs.org/scripts/ladroop/Chaturbate_Clean) - Improve Chaturbate Functionality
 * [Bypass Subreddit Blocks](https://pastebin.com/gAAEQnqn) 
 * [Bypass Age Verification](https://greasyfork.org/en/scripts/393525-bypass-age-verification-deviantart-com) - Bypass Deviantart Age Restriction
 * [Sleazy Fork](https://sleazyfork.org/) - Adult User Scripts
 * [asciiplayer](https://gist.github.com/girst/5834f8e8ba92b42c2c61) - PornHub ASCII Player
+* [Anal Sex Guide](https://github.com/regdude/anal) - Anal Sex Guide / Safety
 * [O School](https://www.o.school/) - Shop for Sex Toys
 * [Awesome-Buttplug](https://github.com/buttplugio/awesome-buttplug) - Buttplug Project Index
 * [Buttplug.io](https://buttplug.io/) - Sex Toy Control Software
@@ -368,12 +385,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [electric.smut](https://nsfwai.com/) or [PornPen](https://pornpen.ai/) - NSFW Image Generators
 * [MoanMyIP](https://www.moanmyip.com/) - Sexy Girls Moaning Your IP
 * [AdultOpenAI](http://adultopenai.pythonanywhere.com/) - Uncensored ChatGPT
-* [movie-parser](https://github.com/dynamite-ready/movie-parser) or [practical-ai-autodetecting-nsfw](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies
-* [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
-* [ChadGuard](https://github.com/LaGuerrePiece/ChadGuard) - Porn Blocking Extension
-* [RARBG Porn Filter](https://greasyfork.org/en/scripts/380386) - Porn Blocker for RARBG
-* [Brainbuddy](https://www.brainbuddyapp.com/) - Porn Blocker / Android / iOS
-* [EasyPeasy](https://easypeasymethod.org/) - Painlessly Quit Pornography
 
 ***
 
@@ -382,3 +393,17 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * ⭐ **[MyGaySites](https://mygaysites.com/)** - List of Gay Porn Sites
 * [Gay-Hotfile](https://gay-hotfile.errio.net/) - Downloads
 * [Yupdates](https://yupdates.neocities.org/) - Gay Porn Artwork / [Drives](https://cat.yupdates.art/) / [Discord](https://discord.com/invite/ECFKuBawQg)
+* [PBC](https://pbc.xxx/) - Game Porn Encyclopedia
+
+***
+
+
+# NoFap
+
+* ⭐ **[EasyPeasy](https://easypeasymethod.org/)** - Painlessly Quit Pornography
+* [ChadGuard](https://github.com/LaGuerrePiece/ChadGuard), [beta-censoring](https://github.com/silveredgold/beta-censoring), [beta-protection](https://github.com/silveredgold/beta-protection), [Web Cleaner](https://github.com/Web-Cleaner/Web_Cleaner/), [Wingman](https://github.com/wingman-jr-addon/wingman_jr) or [NSFW Filters](https://nsfw-filter.com/) - Porn Blocking Extensions
+* [RARBG Porn Filter](https://greasyfork.org/en/scripts/380386) - Porn Blocker for RARBG
+* [Brainbuddy](https://www.brainbuddyapp.com/) - Porn Blocker / Android / iOS
+* [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
+* [movie-parser](https://github.com/dynamite-ready/movie-parser) or [practical-ai-autodetecting-nsfw](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies
+* [Puri.fy](https://pury.fi/) - Censor NSFW Images
