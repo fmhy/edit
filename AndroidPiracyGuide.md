@@ -145,7 +145,6 @@
 * [MeMu](https://www.memuplay.com/) - [Screenshot](https://i.imgur.com/1aZLVvi.png) / [Debloater](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
 * [LDPlayer](https://www.ldplayer.net/) - [Screenshot](https://i.imgur.com/URAJXJ6.png)
 * [Genymotion](https://www.genymotion.com/fun-zone/) - [Screenshot](https://i.imgur.com/rIoiob7.jpg) 
-* [Leapdroid](https://leapdroid.en.softonic.com/) - [Screenshot](https://i.imgur.com/4RKnNqJ.png)
 * [Wakuoo](https://wakuoo.com) - [Screenshot](https://i.imgur.com/WnuitUI.png)
 * [APKOnline](https://www.apkonline.net/runapk/start-androidapk.html) - Online Android Emulator
 
