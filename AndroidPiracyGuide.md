@@ -504,7 +504,7 @@
 * ⭐ **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** / [CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) / [CSE 3](https://cse.google.com/cse?cx=a805854b6a196d6a6) or [ShowAppsLike](https://showappslike.com/) - APK Search Engines
 * ⭐ **[Modded APKs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_apks)** - Modded APK Sites
 * ⭐ **[Untouched APKs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_untouched_apks)** - Unmodified APK Sites
-* ⭐ **[Android FOSS](https://github.com/offa/android-foss)** [FossDroid](https://fossdroid.com/) / [/r/fossdroid](https://reddit.com/r/fossdroid), [Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md), [Open-Source Android Apps](https://github.com/pcqpcq/open-source-android-apps), [/r/u_Jackie7610](https://redd.it/jhtvn4), [AAA](https://github.com/Psyhackological/AAA) or [Cool FOSS](https://albertomosconi.github.io/foss-apps/) / [GitHub](https://github.com/albertomosconi/foss-apps) - Open-Source APKs / [Package Creator](https://un.pixel-fy.com/)
+* ⭐ **[FOSS APKs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_source_apks)** - Open Source APK Sites
 * ⭐ **[Lucky Patcher](https://www.luckypatchers.com/download/)** - Remove Ads / Free In App Purchases / App Patcher / [Guide](https://flixbox.github.io/lp-compat/docs/intro), [2](https://latestechnews.com/how-to-use-lucky-patcher/) / [Compatibility](https://flixbox.github.io/lp-compat/) / [Subreddit](https://www.reddit.com/r/luckypatcher/) / [Discord](https://discord.com/invite/RS5ddYf7mw)
 * ⭐ **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - APK Repositories
 * ⭐ **[F-Droid](https://f-droid.org/)** or [Simple Mobile Tools](https://simplemobiletools.com/) - FOSS App Repository / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status) / [F-Droid Repos](https://t.me/fdroidrepos)
@@ -539,6 +539,7 @@
 * [Diggy](https://github.com/s0md3v/Diggy) - Extract APK Endpoints
 * [APKTool](https://github.com/iBotPeaches/Apktool) - APK Reverse Engineering Tool
 * [BlackDex](https://github.com/CodingGay/BlackDex) - APK Unpacking Tool
+[FOSS Package Creator](https://un.pixel-fy.com/) - Create Open Source APK Packages
 * [Apk Extractor](https://play.google.com/store/apps/details?id=com.ext.ui) - Extract APKs to SD Card
 * [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) or [Obtainium](https://github.com/ImranR98/Obtainium/) - APK Updater
 * [How-to Install Play Store Apps from Other Countries](https://rentry.co/29s6v)
