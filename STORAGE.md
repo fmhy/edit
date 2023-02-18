@@ -1733,6 +1733,8 @@ Add the following commands to a search to manually scrape each site.
 
 [strixx](https://strixx.now.sh/), [lendx](http://lendx.org/), [eyeofjustice](https://www.eyeofjustice.com/od/), [lumpysoft](https://lumpysoft.com/), [opendirsearch](https://opendirsearch.abifog.com/), [Ewasion](https://ewasion.github.io/opendirectory-finder/), [Palined](http://palined.com/search/), [doyouneedmorehdd](https://doyou.needmorehdd.space/#), [FonetAsk](http://www.fonetask.com/), [Reecemercer](https://open-directories.reecemercer.dev/), [giitit](http://www.giitit.com/), [odfinder](https://odfinder.github.io/), [thuvien](https://thuvien.com/)
 
+***
+
 #### Open Source APKs
 
 ⭐ **[Android FOSS](https://github.com/offa/android-foss)**
