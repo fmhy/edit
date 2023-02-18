@@ -400,7 +400,7 @@ Simulator
 * ⭐ **[Lab Safety Guide / Intro](https://www.labmode.co.uk/lab-safety/introduction-to-lab-safety)**
 * ⭐ **[Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables)** - Online Periodic Tables / [App](https://jlindemann.se/homepage/atomic/)
 * ⭐ **[LibreTexts Chemistry](https://chem.libretexts.org)** - Chemistry Texts
-* ⭐ **[Internet Chemistry](https://www.internetchemistry.com/search.php)** or [ChemIDplus Advanced](https://chem.nlm.nih.gov/chemidplus/) - Search Index
+* ⭐ **[Internet Chemistry](https://www.internetchemistry.com/search.php)** - Search Index
 * [Chemistry Basics](https://saylordotorg.github.io/text_the-basics-of-general-organic-and-biological-chemistry/index.html) - Basics of General, Organic, and Biological Chemistry
 * [Tyler DeWitt](https://www.youtube.com/user/tdewitt451), [TheOrganicChemistryTutor](https://www.youtube.com/c/TheOrganicChemistryTutor), [Allery Chemistry](https://www.youtube.com/channel/UCPtWS4fCi25YHw5SPGdPz0g), [Khan Academy AP Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta), [Organic Chemistry etext](https://www.chem.ucalgary.ca/courses/351/Carey5th/Carey.html), [ChemistryScore](https://chemistryscore.com/), [PeriodicVideos](https://www.youtube.com/@periodicvideos) / [Periodic Table Videos](http://www.periodicvideos.com) - Chemistry Lessons
 * [ChemicalAid](https://en.intl.chemicalaid.com/) - Chemistry Calculators / Element Tables
