@@ -1677,7 +1677,6 @@
 * [Descargas](https://descargas2020.net/) - Movies / TV
 * [DonTorrent](https://dontorrent.casa/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent)
 * [Tomadvix](https://tomadivx.net/) - Movies / TV
-* [DIVXTorrent](https://www.divxtorrent.com/) - Movies / TV
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
 * [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries
 * [Frozen Layer](https://www.frozen-layer.com/) - Anime
