@@ -1645,6 +1645,7 @@
 * [gnula](https://gnula.nu/) - Movies / TV
 * [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram
 * [dyndns](http://fina.dyndns.tv/) - Movies / TV
+* [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation
 * [Descarga Cine Clasico](https://descargacineclasico.net/) - Classical Movies
 * [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV
 * [RetroCanal](https://retrocanal.net/) - Classical Movies / TV
@@ -1689,10 +1690,10 @@
 * [PelisPlus.so](https://pelisplus.so/) - Movies / TV
 * [Pelispedia](https://www.pelispedia.de/) - Movies / TV
 * [Pelispedia 2](https://www.pelispedia2.vip/) - Movies / TV
-* [G Nula](https://gnula.se/) - Movies / TV / Anime
-* [gnula.nu](http://gnula.nu/) - Movies / TV
+* [Gnula.se](https://gnula.se/) - Movies / TV / Anime
+* [Gnula.nu](https://gnula.nu/) - Movies / TV
 * [CineHDPlus](https://cinehdplus.net/) - Movies / TV
-* [Playdede](https://playdede.nu/) - Movies / TV
+* [Playdede](https://playdede.nu/) - Movies / TV / Anime / [Telegram](https://t.me/playdedetelegram)
 * [allcalidad](https://allcalidad.ms/) - Movies / TV
 * [ennovelas](https://www.ennovelas.com/) - TV
 * [Sololatino](https://sololatino.net/) - Movies / TV / Anime
