@@ -49,6 +49,10 @@
 
 ## ▷ Game Repacks
 
+* **Note** - Repacks are compressed versions of games that exchange smaller downloads for a longer installation times. Good if you have low bandwidth or data limits.
+
+***
+
 * ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/Up3YARe4RW) / [Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_silentycrying.27s_game_drive)
 * ⭐ **[DODI Repacks](http://dodi-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
 * ⭐ **[KaOsKrew](https://www.kaoskrew.org/)** - Download / Torrent
