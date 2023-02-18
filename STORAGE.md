@@ -1941,6 +1941,7 @@ Add the following commands to a search to manually scrape each site.
 #### Portuguese Dictionaries / Thesaurus
 
 * https://dicionario.priberam.org/
+* https://www.infopedia.pt/
 * https://michaelis.uol.com.br/
 * https://aulete.com.br/
 * https://www.lexico.pt/
