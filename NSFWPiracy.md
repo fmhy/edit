@@ -321,6 +321,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 # Games
 
+* [CPG Repacks](https://cpgrepacks.site/) - [Discord](https://discord.gg/dtBSZ9N)
 * [PornDude Games](https://theporndude.com/best-porn-games), [2](https://theporndude.com/free-sex-games)
 * [Nyaa Sukebei](https://sukebei.nyaa.si/)
 * [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46) 
