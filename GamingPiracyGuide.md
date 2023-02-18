@@ -21,7 +21,6 @@
 * ⭐ **[Ova Games](http://www.ovagames.com/)** - Use Adblocker
 * ⭐ **[GoG Games](https://gog-games.com/)**
 * ⭐ **[VRPirates](https://t.me/vrpirates)** / [Wiki](https://wiki.vrpirates.club/), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
-* ⭐ **[Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers)** - F2P Minecraft Clients / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_minecraft_tools) / [Beta Clients](https://betacraft.uk/) / [Bedrock / Java](https://redd.it/xj5w9m)
 * [GLoad](https://gload.to/)
 * [Seven Gamers](https://www.seven-gamers.com/)
 * [Leeching Hell](http://www.leechinghell.pw/)
@@ -65,6 +64,7 @@
 
 ## ▷ Single Games
 
+* ⭐ **[Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers)** - F2P Minecraft Clients / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_minecraft_tools) / [Beta Clients](https://betacraft.uk/) / [Bedrock / Java](https://redd.it/xj5w9m)
 * [JustEmuTarkov](https://justemutarkov.eu/) - Escape from Tarkov Emulator
 * [MoriyaShrine](https://moriyashrine.org/) - Touhou Games
 * [CWA](https://www.cwaemu.com/) - Clone Wars Adventures Emulator / [Discord](https://discord.gg/a3Ugb9dzzv)
