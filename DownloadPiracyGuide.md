@@ -197,7 +197,6 @@
 * [4Download](https://www.4download.net/)
 * [SoftFamous](https://softfamous.com/)
 * [onHax](https://onhax.io/)
-* [MAZTERIZE](https://www.mazterize.com/)
 * [Full Version Download](https://www.fullversiondl.com/)
 * [FileOur](https://www.fileour.com/)
 * [Soft House](https://softhouse.cc/)
