@@ -49,7 +49,7 @@
 
 ## ▷ Game Repacks
 
-* **Note** - Repacks are compressed versions of games that exchange smaller downloads for a longer installation times. Good if you have low bandwidth or data limits.
+* **Note** - Repacks are compressed versions of games that exchange smaller downloads for longer installation times. Good if you have low bandwidth or data limits.
 
 ***
 
