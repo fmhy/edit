@@ -46,8 +46,8 @@
 * [TrayTorrent](https://traytorrent.ru/) - Torrent Tray Client
 * [CloudTorrent](https://github.com/tofuliang/Google-Colab-CloudTorrent) - Google Colab Torrent Client
 * [BitSwarm](https://github.com/SuRGeoNix/BitSwarm/) - Bittorrent Client Library
-* [Instant.io](https://instant.io/)
-* [BTorrent](https://btorrent.xyz/)
+* [Instant.io](https://instant.io/) - Stream Torrents in Browser
+* [BTorrent](https://btorrent.xyz/) - Stream Torrents in Browser
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
 * [JSTorrent](https://www.jstorrent.com/) - Chrome
 * [BitFord](https://github.com/astro/bitford) - Chrome
@@ -65,13 +65,13 @@
 
 * ⭐ **[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)** - Download Torrents to Google Drive
 * ⭐ **[from-torrent](https://multiup.org/en/upload/from-torrent)** - Torrent to DDL Sites / [Bypass 10GB Limit](https://pastebin.com/raw/QLGLLZ9d)
-* ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI)
-* ⭐ **[webtor](https://webtor.io/)**
-* [Bitport](https://bitport.io/welcome) 
-* [TorrentSafe](https://www.torrentsafe.com/)
-* [TorrentCheap](https://my.torrentcheap.com/)
-* [ZBIGZ](https://zbigz.com/)
-* [Loadbt](https://www.loadbt.com/) - Torrent / Stream to Cloud
+* ⭐ **[Seedr](https://www.seedr.cc/)** - [Telegram Bot](https://t.me/TorrentSeedrBot) / [API Wrapper](https://github.com/theabbie/seedr-api), [2](https://github.com/AnjanaMadu/SeedrAPI) - Torrent to Cloud and Stream
+* ⭐ **[webtor](https://webtor.io/)** - Torrent to Cloud and Stream
+* [Bitport](https://bitport.io/welcome) - Torrent to Cloud and Stream
+* [TorrentSafe](https://www.torrentsafe.com/) - Torrent to Cloud and Stream
+* [TorrentCheap](https://my.torrentcheap.com/) - Torrent to Cloud and Stream
+* [ZBIGZ](https://zbigz.com/) - Torrent to Cloud and Stream
+* [Loadbt](https://www.loadbt.com/) - Torrent to Cloud and Stream
 
 ***
 
