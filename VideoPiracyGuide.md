@@ -344,7 +344,6 @@
 * [GoGoAnime](https://gogoanime.ee/), [2](https://gogoanime.tel/) - Sub / Dub / [Discord](https://discord.com/invite/gogo) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime) / [Mirrors](https://gogoanime.news/)
 * [GoGo-Play](https://goload.io/), [2](https://goload.pro/) - Sub
 * [AnimeShow](https://www2.animeshow.tv/) - Sub
-* [PlataAnime](https://plataanime.me/) - Sub
 * [Haikei](https://haikei.xyz/) - Sub
 * [AnimeNana](https://animenana.com/) - Sub
 * [Anify](https://anify.tv/) - Sub
@@ -565,7 +564,6 @@
 * [fromHOT](http://www.fromhots.com/) - Sports
 * [Volokit](https://community.volokit.com/) - Sports
 * [StrikeOut](https://strikeout.ws/) - Sports
-* [4stream](https://4stream.gg/portal.html) - Sports
 * [BestSolaris](http://bestsolaris.com/) - Sports
 * [Strumyk](http://strumyk.tv/) - Sports
 * [SportsBay](https://www.sportsbay.global/) - Sports
