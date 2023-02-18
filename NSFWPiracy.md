@@ -39,12 +39,12 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 ## Porn Sites
 
+* ⭐ **[sxyprn](https://www.sxyprn.com/)** 
 * ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/)
 * [Porn App](https://porn-app.com/) - Android Porn App / [Discord](https://discord.com/invite/XRjPBGa)
 * [NsfwBox](https://github.com/Kisspeace/NsfwBox) - Android Porn App
 * [PornMD](https://pornmd.com/)
 * [Ceporn](https://www.ceporn.net/) 
-* [sxyprn](https://www.sxyprn.com/) 
 * [Palimas](https://palimas.tv/)
 * [ViralPorn](https://viralporn.com/) 
 * [vkulak](https://www.vkulak.com/) 
@@ -147,7 +147,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 * ⭐ **[FapNationBot](https://discord.gg/d39hJGxwvX)** - Premium Porn Download Bot / [Free Bot](https://cutt.ly/4CnMP8x) / [Guide](https://rentry.co/seremfreeharem)
 * [Search4Porn](https://search4porn.net/) - NSFW File Search
-* [Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "nsfw"
 * [PornFactors](http://pornfactors.com/) 
 * [Best-MovieZ](https://www.best-moviez.ws/category/porn-18/) 
 * [HugeWarez](http://hugewarez.net/xxx-full-movies/) 
@@ -160,6 +159,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [SweetPorn](https://sweetporn.org/)
 * [RemaxHD](https://remaxhd.live/)
 * [xxxFile.org](https://xxxfile.org/) 
+* [Download Piracy Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "nsfw"
 * [CamVault](https://camvault.xyz/) - DL Chaturbate, MyFreeCams & CAM4 Recordings
 * [jdc](https://discord.gg/jdc) - Asian Porn Discord
 * [XXXTelegramBot](https://t.me/XXXTelegramBot) - Telegram
@@ -180,7 +180,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 ## Torrent
 
-* ⭐ **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - ctrl+f and type "nsfw"
 * [PornLeech](http://pornleech.ch/)
 * [Sexy-Pics](https://www.sexy-pics.us/)
 * [色花堂-98堂](https://www.sehuatang.net/)
@@ -190,6 +189,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [JavBus](https://www.javbus.com/en) - Japanese
 * [141Jav](https://www.141jav.com/) - Japanese
 * [Tokyo Tosho](https://tokyo-tosho.net/) - Japanese
+* [Torrent Piracy Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)- ctrl+f and type "nsfw"
 * [Cheggit](http://www.cheggit.me/register.php), [BitSexy](https://bitsexy.org/signup.php) or [HappyFappy](https://www.happyfappy.org/users/register) - Private Trackers / Open-Signups
 * [srrXXX](https://www.srrxxx.com/) - Scene Release Tracker
 * [torrodle](https://github.com/tnychn/torrodle) - Porn Torrent Scraper
