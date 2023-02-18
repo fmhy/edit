@@ -162,7 +162,6 @@
 * [lesatkins](http://www.lesatkins.com/books/epubfiles/) - Books
 * [Flibusta](https://flibusta.is/) - Books / [I2P](http://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) / Requires account
 * [The Free Book Library](http://ebooks.i2p/) - Books / I2P Required
-* [DailyLit](https://dailylit.com/) - Books  
 * [Ebooks Searcher](https://ebook-searcher.com/) - Multi-Site Book Search 
 * [Weird Old Book Finder](https://weird-old-book-finder.glitch.me/) - Find Old Books
 * [FreeBooksSifter](https://www.freebooksifter.com/) - Free Amazon E-Book 
