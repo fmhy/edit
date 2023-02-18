@@ -28,22 +28,21 @@
 * [GLoad](https://gload.to/) - Download 
 * [Seven Gamers](https://www.seven-gamers.com/) - Download / Torrent
 * [Leeching Hell](http://www.leechinghell.pw/) - Download
-* [IRC Games](https://redd.it/x804wg) - How-to Download Games via IRC
-* [Gamdie](https://gamdie.com/) / [Discord](https://discord.gg/hH9sedx4de), [itch.io](https://itch.io/games/new-and-popular/featured/free) / [Downloader](https://github.com/Emersont1/itchio) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
+* [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [F2P Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_f2p_games) - Free to Play Games
-* [Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers) - Get Scene Release Updates
-* [LibreGameWiki](https://libregamewiki.org/List_of_games) - FOSS Games
-* [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) - Open-Source Games
+* [VGPErson](https://vgperson.com/games/) - Japanese Translated Freeware Games
+* [Gamdie](https://gamdie.com/) / [Discord](https://discord.gg/hH9sedx4de), [itch.io](https://itch.io/games/new-and-popular/featured/free) / [Downloader](https://github.com/Emersont1/itchio) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
+* [LibreGameWiki](https://libregamewiki.org/List_of_games) or [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games) - Open-Source Games
 * [Open Source Game Clones](https://osgameclones.com/) - Open-Source Game Clones
-* [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes) - Game Remakes
 * [Alpha Beta Gamer](https://alphabetagamer.com/) - Play games in Alpha or Beta Testing
-* [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Games
+* [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes) - Game Remakes
 * [awesome-ttygames](https://ligurio.github.io/awesome-ttygames/) - ASCII Terminal Games
 * [RPG Maker Games](https://rpgmaker.net/games/?name_filter=&amp;engine=&amp;status=&amp;rating=&amp;commercial=exclude&amp;sort=&amp;portal=None) - Games made via RPG Maker
-* [VGPErson](https://vgperson.com/games/) - Japanese Translated Freeware Games
 * [Steam Deck Backups](https://t.me/+0T6LcMGCdApkZTg0) - Steam Deck Games
+* [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Games
 * [GrimReaper's Scene ISO Collection](https://archive.org/details/@waffess) - ISO Collection
 * [Redump Forum](http://forum.redump.org/) - Disc Preservation Project
+* [Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers) - Get Scene Release Updates
 * [How The Warez Scene Works](https://www.reddit.com/r/CrackWatch/comments/92uz49/the_warez_scene_how_it_works/) 
 
 ***
