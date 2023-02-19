@@ -2097,7 +2097,6 @@
 * [streamblasters](https://streamblasters.live/) - Streaming / Movies
 * [5movierulz](https://5movierulz.ms/) - Streaming / Movies
 * [khatrimazafull](https://khatrimazaful.cc/) - Streaming / Download / Movies
-* [7MovieRulz.es](https://7movierulz.es/) - Stream / Torrent / Movies / [Telegram](https://t.me/movierulztv)
 * [Movierulz](https://ww5.movierulzhd.biz/) - Streaming / Movies / TV / [Telegram](https://t.me/movierulz28)
 * [TamilRockers](https://www.tamilrockermovies.org/), [2](https://www.tamilrockermovies.ca/) - Streaming / Torrent / Movies
 * [v100v.net](https://www.v100v.net/) - Streaming / Movies
