@@ -550,7 +550,7 @@
 
 * ⭐ **[Psiphon](https://psiphon.ca/)** - [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png)
 * ⭐ **[Lantern](https://lantern.io/en_US/index.html)** 
-* ⭐ **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** - Local Proxy
+* ⭐ **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)**, [PowerTunnel](https://github.com/krlvm/PowerTunnel), [PowerTunnel for Android](https://github.com/krlvm/PowerTunnel-Android) - Local Proxies
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/bypass-some-isp-blocks-with-just-firefox)** - Bypass ISP censorship with Firefox
 * [Acrylic](http://mayakron.altervista.org/)
 * [Tsunami](https://github.com/FogNetwork/Tsunami)
