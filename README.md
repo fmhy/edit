@@ -8,7 +8,7 @@
 
 * Anyone can organize, correct or change anything they feel could be improved.
 
-* If you're adding a new site, please [search](https://rentry.co/FMHY-Search) first to make sure we don't already have it.
+* If you're adding a new site, please [search](https://redd.it/105xraz) first to make sure we don't already have it.
 
 * Approved edits will be applied to [reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki) and all [backups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups).
 
