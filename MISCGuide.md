@@ -21,7 +21,7 @@
 * ⭐ **[The Index](https://theindex.moe)** or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - Japanese Media Indexes / [Discord](https://discord.gg/Snackbox ) / [Wiki](https://thewiki.moe/)
 * ⭐ **[/r/PiratedGames Megathread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Gaming Piracy Site Index / [Discord](https://discord.gg/dZWwhUy)
 * ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** or [/r/Stumbledon](https://www.reddit.com/r/Stumbledon/) - Helpful / Fun Sites
-* ⭐ **[Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)**, [2](https://official-awesome-piracy.vercel.app/), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr), [5](https://rentry.org/verycompletelistofpiratesites), [6](https://github.com/Tosoju/awesome-piracy), [7](https://github.com/Shakil-Shahadat/awesome-piracy) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
+* ⭐ **[Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)**, [2](https://github.com/Shakil-Shahadat/awesome-piracy), [3](https://github.com/tanaybhardwaj24/awesome-piracy), [4](https://archive.is/Z1tTr), [5](https://rentry.org/verycompletelistofpiratesites), [6](https://github.com/Tosoju/awesome-piracy) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
 * ⭐ **[WebOas.is](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) - Startpage / Site Index / [Source Code](https://pastebin.com/CczqreS4) / [Archive](https://rentry.co/e9y6b) / [FAQ](https://bin.disroot.org/?6a50fab15330b762#7VwnxM9Jsvp8wWmW6eFmmxyXppWVjErn4CMgd8wii9pC)
 * ⭐ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
 * [DeepAI](https://deepai.org/), [Favird](https://favird.com/), [FutureTools](https://www.futuretools.io/?pricing-model=free), [Futurepedia](https://www.futurepedia.io/), [RunawayML](https://runwayml.com/) or [AI Creator Tools](https://library.phygital.plus/) - AI Tool Indexes
@@ -40,7 +40,7 @@
 * [Open Source Intelligence Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_source_intelligence_indexes)
 * [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - Open Source Software Indexes
 * [No-Signup Tools](https://www.nosignup.tools/) - No-Signup Tool Index
-* [Neverland](http://www.neverland.ws/index.html) - Piracy Index / [Links](https://rentry.co/oo9ri)
+* [Neverland](https://rentry.co/oo9ri) - Piracy Index
 * [piracy](https://gitlab.com/piracy/piracy/-/tree/master/docs) - Piracy Index
 * [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/), [TopMillion](http://www.topmillion.net/), [HypeStat](https://hypestat.com/alexa-rank) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
 * [10 Words](https://discover.10words.io/) - App / Tool Discovery
@@ -91,7 +91,6 @@
 * [Wikimedia](https://www.wikimedia.org/) - All Wikimedia Sources 
 * [Clone Wars](https://gourav.io/clone-wars) - Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars) 
 * [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps), [Awesome oss alternatives](https://github.com/RunaCapital/awesome-oss-alternatives), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Index
-* [CloudTrip](http://cloudtrip.com/) - Cloud App Index
 * [State of the DApps](https://www.stateofthedapps.com/) - Blockchain App Index 
 * [Open Sustainable Technology](https://opensustain.tech/) - Sustainable Tech Project Index
 * [List of Lists](https://l-lists.com/en/) - List Index
@@ -408,7 +407,7 @@
 * [Slide Ventura](https://slideventura.com/) - Ace Ventura Sliding Door Simulator
 * [Fake Doors](http://faykdoors.com/) - Its Fake Doors
 * [Do not open the door](http://mexicans.eu/) - Don't you dare...
-* [This Person Does Not Exist](https://www.thispersondoesnotexist.com/) - People That Don't Exist
+* [This Person Does Not Exist](https://thispersondoesnotexist.xyz/) - People That Don't Exist
 * [This City Does Not Exist](https://thiscitydoesnotexist.com/) - Cities That Don't Exist
 * [This Rental Does Not Exist](https://thisrentaldoesnotexist.com/) - Rentals That Don't Exists
 * [This Artwork Does Not Exist](https://thisartworkdoesnotexist.com/) - Art That Doesn't Exist
@@ -952,7 +951,7 @@
 * [License Plates Map](https://i.redd.it/ue2r7cdb2s861.png) - License Plate Map
 * [European License Plate Map](https://i.redd.it/wcazzhjir8941.png) - European License Plate Map
 * [aprs.fi](https://aprs.fi/) - Google Maps APRS
-* [DarkSky](https://maps.darksky.net/), [satellite-map.gosur](https://satellite-map.gosur.com/), [MSN Weather Map](http://www.msn.com/en-us/weather/maps) or [Ventusky](https://www.ventusky.com/) - Weather Maps
+* [satellite-map.gosur](https://satellite-map.gosur.com/), [MSN Weather Map](http://www.msn.com/en-us/weather/maps) or [Ventusky](https://www.ventusky.com/) - Weather Maps
 * [Windy](https://www.windy.com/) or [WebGL-Wind](https://mapbox.github.io/webgl-wind/demo/) - Wind Map 
 * [Jetstream](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
 * [Cyclocane](https://www.cyclocane.com/) - Cyclone and Hurricane Tracking
