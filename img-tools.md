@@ -94,7 +94,6 @@
 ## ▷ Restoration
 
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms
-* [Fenophoto](https://www.fenophoto.com/) - Automatic Photo Enhancer
 * [Colorize Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_colorization) - Image Colorization Tools
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime Image Colorization
 * [GPEN-Colab](https://github.com/bycloudai/GPEN-colab), [Photo Face Restorer](https://www.restorephotos.io/) or [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Restoration / Colorization Tool
@@ -151,7 +150,6 @@
 * [Cubes.io](http://cubes.io/) - Cellular Automata
 * [05x5](https://csh.bz/line/05x5.html) - Rainbow Pattern Generator
 * [overwhale](http://overwhale.com/) - Fractal Image Generators
-* [Flame Reactor](https://flamereactor.com/) - Fractal Flame Collaborative Generator
 * [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
 * [TierMaker](https://tiermaker.com/) - Tier List Image Creator
 * [Hugin](http://hugin.sourceforge.net/) or [Ice](https://www.microsoft.com/en-us/research/product/computational-photography-applications/image-composite-editor/) - Panorama Image Generator
@@ -170,7 +168,6 @@
 * [CoverView](https://coverview.vercel.app/) - Blog Banner Creator
 * [Thumbnail.ai](https://thumbnail.ai/) - Create Social Media Images from Blog Posts
 * [Postr](https://postr.me/) - Create Images from Social Media Posts
-* [Promoshot](https://promoshot.io/) - Create Images of Products
 * [3D Book](https://3dbook.xyz/) - 3D Book Image
 * [ImageFu](https://www.imagefu.com/) - Button / Badge Creator
 * [Get Waves](https://getwaves.io/), [Wavelry](https://wavelry.vercel.app/), [SVGWave](https://svgwave.in/) / [GitHub](https://github.com/anup-a/svgwave) or [SVG Wave](https://www.softr.io/tools/svg-wave-generator) - Wave Generator
@@ -189,7 +186,6 @@
 * [FakeReceipt](http://www.fakereceipt.us/) - Create Fake Receipts
 * [The Rasterbator](https://rasterbator.net/) - Wall Art Generator
 * [MyPokeCard](https://www.mypokecard.com/en/) - Create Pokemon Cards
-* [Space Invader Generator](https://brigittaforrai.com/space-invaders-generator/) - Generate Space Invader Sprites
 * [Flag Maker](https://flagmaker-print.com/pages/flag-maker) - Flag Creator
 * [MakeCoatOfArms](https://www.allfamilycrests.com/makecoatofarms.htm ) - Coat of Arms Creator
 * [ArmorLab](https://armorlab.org/), [Kandinsky](https://www.kandinsky.io/) or [TextureLab](https://www.texturelab.io/) - Texture Generator / [GitHub](https://github.com/armory3d/armorlab)
@@ -220,7 +216,6 @@
 * [gifify](https://github.com/vvo/gifify) - Video to GIF Converter
 * [GifRun](https://gifrun.com/) - Make GIFs from Online Videos
 * [Sergif](https://sergif.ultirequiem.com/) - Make GIFs from Webcam Videos
-* [UnFREEz](http://www.whitsoftdev.com/unfreez/) - Make GIFs From Images
 * [Viphy](https://viphy.typestudio.co/) - Generate GIF From Text
 * [ScreenToGif](https://www.screentogif.com/) or [Peek](https://github.com/phw/peek) - GIF Recorder
 * [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - Screencasts to GIF Converters
@@ -251,7 +246,7 @@
 ## ▷ Painting / Drawing
 
 * ⭐ **[PuccaNoodles’ Resource Sheet](https://docs.google.com/spreadsheets/d/1-8OKuEvRR038Uno--Vi9tQRe4eFCSfQTPov7nXgiJ3w/)** - Painting / Drawing Resources
-* [SmoothDraw](http://www.smoothdraw.com/), [Sumopaint](https://www.sumopaint.com/), [Krita](https://krita.org/en/) / [Stable Diffusion](https://github.com/sddebz/stable-diffusion-krita-plugin), [MyPaint](http://mypaint.org/), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [Tux Paint](https://tuxpaint.org/), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/), [Paintroid](https://github.com/Catrobat/Paintroid), [ProsePainter](https://www.prosepainter.com/), [SpeedPaint](https://www.speedpaint.info/), [YouiDraw](https://site.youidraw.com/), [LazPaint](https://github.com/bgrabitmap/lazpaint/), [Tegaki](https://desuwa.github.io/tegaki.html) or [MediBang](https://medibangpaint.com/en/) - Painting
+* [SmoothDraw](https://qrli.github.io/smoothdraw/), [Krita](https://krita.org/en/) / [Stable Diffusion](https://github.com/sddebz/stable-diffusion-krita-plugin), [MyPaint](https://github.com/mypaint/mypaint), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [Tux Paint](https://tuxpaint.org/), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/), [Paintroid](https://github.com/Catrobat/Paintroid), [ProsePainter](https://www.prosepainter.com/), [SpeedPaint](https://www.speedpaint.info/), [YouiDraw](https://site.youidraw.com/), [LazPaint](https://github.com/bgrabitmap/lazpaint/), [Tegaki](https://desuwa.github.io/tegaki.html) or [MediBang](https://medibangpaint.com/en/) - Painting
 * [bomomo](https://bomomo.com/) - Multi-Brush Painting
 * [Milton](https://www.miltonpaint.com/) - Infinite Canvas Painting
 * [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art
@@ -521,7 +516,7 @@
 * [Nimbus Capture](https://nimbusweb.me/screenshot.php) 
 * [Pika](https://pika.rishimohan.me/) / [GitHub](https://github.com/rishimohan/pika), [FabPic](https://www.fabpic.app/) or [OnPaste](https://onpaste.com/) - Screenshot Editor
 * [Screenshot Guru](https://screenshot.guru/), [CleanShot](https://cleanshot.vercel.app/) or [Site-Shot](https://www.site-shot.com/) - Online Screenshot Tool 
-* [OnlineScreenshot](https://onlinescreenshot.com/), [Screenshot Rocks](https://screenshot.rocks/) / [GitHub](https://github.com/daveearley/screenshot.rocks), [screenshots.cloud](https://screenshots.cloud/), [screenshot.guru](https://screenshot.guru/), [shrinktheweb](https://shrinktheweb.com/ ) or [Pikwy](https://pikwy.com/) - Site Screenshot Tool
+* [Screenshot Rocks](https://screenshot.rocks/) / [GitHub](https://github.com/daveearley/screenshot.rocks), [screenshots.cloud](https://screenshots.cloud/), [screenshot.guru](https://screenshot.guru/), [shrinktheweb](https://shrinktheweb.com/ ) or [Pikwy](https://pikwy.com/) - Site Screenshot Tool
 * [puush](https://puush.me/) - Easily Share Screenshots
 * [Screenstab](http://screenstab.com/) - Create Graphics from Screenshots
 * [Limus](https://limus.netlify.app/) or [Screenstab](https://www.screenstab.com/editor/) - Change Screenshot Angles
@@ -562,7 +557,7 @@
 * [StoriesDown](https://storiesdown.com/), [instasaved](https://instasaved.net/en), [insta-stories-viewer](https://insta-stories-viewer.com/) or [StoriesIG](https://storiesig.net/) - Story Downloader
 * [SaveFromWeb](https://www.savefromweb.com/), [Downloadgram](https://downloadgram.org/) or [Instagram-crawler](https://github.com/hehpollon/Instagram-crawler) - Video / Picture / Story Downloader 
 * [PixWox](https://www.pixwox.com/) or [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper) - Picture / Story Downloader
-* [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [SocialUnblock](https://socialunblock.com/), [Instagram-Scraper](https://github.com/arc298/instagram-scraper) / [GUI](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [igram](https://igram.io/), [InstaLooter](https://github.com/althonos/InstaLooter), [Instaloader](https://github.com/instaloader/instaloader) or [instapick](https://www.instapick.net/) - Picture / Video Downloader
+* [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [SocialUnblock](https://socialunblock.com/), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [igram](https://igram.io/), [InstaLooter](https://github.com/althonos/InstaLooter), [Instaloader](https://github.com/instaloader/instaloader) or [instapick](https://www.instapick.net/) - Picture / Video Downloader
 * [4K Stogram](https://www.4kdownload.com/products/product-stogram) or [InstaLoader](https://instaloader.github.io/) - Picture Downloader
 * [Photo Map](https://levionsoftware.com/) - Interactive Map For Your Photos
 * [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) - Video Downloader
