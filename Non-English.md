@@ -1764,6 +1764,7 @@
 * [LectuEpubGratis](https://lectuepubgratis2.com/) - Books
 * [MundoEpubGratis](https://mundoepubgratis2.com/) - Books
 * [DebeLeer](https://www.debeleer.com/) - Books
+* [Elejandría](https://www.elejandria.com/) - Books
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
 * [librosintinta](https://www.librosintinta.in/) - PDF Search
 * [albalearning](https://albalearning.com/) - Audiobooks
