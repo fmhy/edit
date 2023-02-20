@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/vuoEFgM.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/xTRnuSU.png)** - For mobile users
 
 ***
 ***
@@ -104,10 +104,10 @@
 ## ▷ Multi Hosts
 
 * ⭐ **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** or [Crocovid](http://crocovid.com/) - Multi-Site Search
+* ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)
 * ⭐ **[xpWatch](https://xpwatch.vercel.app/)** - Movies / TV / Anime
 * ⭐ **[FMovies](https://fmovies.name/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
-* ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)
 * ⭐ **[Kodi](https://kodi.tv/)** - Media Server / Streaming App / [Addons / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kodi_tools)
 * ⭐ **[CloudStream](https://cloudstream.cf/)** - Movies / TV / Anime / [Use Emulator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)
 * ⭐ **CloudStream Tools** - [Guide](https://docs.cloudstream.cf/) / [Discord](https://discord.gg/5Hus6fM) / [Downloads](https://rentry.org/cs3/) / [Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cloudstream_forks) / [Trakt Addon](https://2ecbbd610840-trakt.baby-beamup.club/) / [Sora Addon](https://youtu.be/yDuXGAnFQuI) 
@@ -697,7 +697,7 @@
 * [4K Movies](https://4kmovies.co/) - HD Movies / TV
 * [4k-hd.club](https://4k-hd.club/) - HD Movies
 * [FilmFans](https://filmfans.org/) - HD Movies
-* [ShowBox](https://www.showbox.media/) - HD Movies / TV / [How-to](https://pastebin.com/raw/jtwMfCcq)
+* [ShowBox](https://www.showbox.media/) - HD Movies / TV / [How-to](https://rentry.co/febbox)
 * [3D HD]( https://3d-hd.club/) - 3D Movie ISOs
 * [IRC Movie Channels](https://pastebin.com/2AeYizZK)
 * [StreamFab](https://pastebin.com/Kgui74wd) - Premium Streaming Site Video Downloader / [Screenshot](https://i.imgur.com/cH0XLZs.png)
@@ -715,7 +715,6 @@
 * ⭐ **[Rek's Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive)** - Movies / Anime
 * [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
 * [Media](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_media) - Movies / TV / Anime
-* [itonaku](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_itonaku) - Movies
 * [†M1o8143](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2020m1o8143) - Movies / TV / Anime
 * [Torrent TD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_torrent_td) - Movies / TV / Anime
 * [aryatejprakash72](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_aryatejprakash72) - Movies / TV
@@ -753,7 +752,8 @@
 * ⭐ **[Judas Discord](https://discord.gg/vbJ7RTn)** - Sub / Dub / [TeamDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_judas_teamdrive)
 * ⭐ **[Erai-Raws](https://www.erai-raws.info/)** - Sub / [Discord](https://discord.gg/tEeaXzD4KH)
 * ⭐ **[Anime Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anime_download_apps)** - Anime Downloading Tools
-* ⭐ **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)** - Telegram Anime Download Channels 
+* ⭐ **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)** - Telegram Anime Download Channels
+* [itonaku](https://itonaku.xyz/) - Sub / [Discord](https://discord.gg/4mtcZhftYt)
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - Sub / Dub / Anime / Manga Download Forum
 * [Animk](https://animk.info/) - Sub / Dub
 * [AnimeOut](https://www.animeout.xyz/) - Sub
@@ -769,7 +769,6 @@
 * [DameDesuYo](https://damedesuyo.com/) - Sub
 * [TokyoInsider](https://www.tokyoinsider.com/) - Sub
 * [Chiby](http://www.animechiby.com/) - Sub
-* [Itonaku](https://ddl.itonaku.xyz/) - Sub / Dub / [Discord](https://discord.gg/4mtcZhftYt)
 * [Kainime](https://kainime.com/) - Sub
 * [Anime Senpai4U](https://www.animesenpai4u.com/) - Sub / Dub
 * [Anime Flix](https://animeflix.org.in/) - Sub / Dub / [Telegram](https://t.me/moviesflixnet)
@@ -800,7 +799,7 @@
 # ► Torrent Apps
 
 * ⭐ **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
-* ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming App
+* ⭐ **[Stremio](https://www.stremio.com/)** / [Enhanced](https://github.com/REVENGE977/stremio-enhanced-community) - Torrent Streaming App
 * ⭐ **Stremio Tools** - [Guide](https://rentry.co/privatestremio), [Addons](https://stremio-addons.netlify.app/) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/) / [GDrive Fetch](https://github.com/ShuvamJaswal/Gdrive-Stremio-Update)
 * ⭐ **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents
 * ⭐ **[Radarr](https://radarr.video/)** - Autodownload Movie Torrents / [GitHub](https://github.com/Radarr/Radarr)
@@ -880,6 +879,31 @@
 ***
 
 ## ▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_torrenting)
+
+***
+
+# ► Smart TV / Firestick
+
+* ⭐ **[Smart TV Piracy](https://redd.it/xa0aya)** - Smart TV Piracy Guide
+* [Firestick Tricks](https://www.firesticktricks.com/) - Firestick Jailbreak Guide / [Loader](https://github.com/esc0rtd3w/firestick-loader)
+* [Android TV Mod](https://t.me/androidtvmod) - Android TV / Fire TV / Fire Stick / Mods / Telegram
+* [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Smart TV Ads
+* [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) or [TV Bro](https://play.google.com/store/apps/details?id=com.phlox.tvwebbrowser) - Ad Free Android TV Browsers
+* [SmartTubeNext](https://smartyoutubetv.github.io/) - Ad Free Android TV YouTube Player / [GitHub](https://github.com/yuliskov/SmartTubeNext)
+* [Android TV Spotify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_android_tv_spotify) - Android TV Spotify Client
+* [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV
+* [S0undTV](https://github.com/S0und/S0undTV) - Android TV Twitch Player
+* [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - Smart TV Twitch Player
+* [Go2TV](https://github.com/alexballas/go2tv) - Cast to UPnP/DLNA Renderers / Smart TVs
+* [hifi2007reviews](https://hifi2007reviews.com/) - IPTV / Firestick APKs
+* [Smart IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) - IPTV Players for Smart TVs
+* [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) or [AllCast](https://play.google.com/store/apps/details?id=com.koushikdutta.cast) - Send Files to Android TV
+* [Apps2Fire](https://play.google.com/store/apps/details?id=mobi.koni.appstofiretv) - Upload Apps to FireTV
+* [FLauncher](https://play.google.com/store/apps/details?id=me.efesser.flauncher) - Android TV Launcher / [GitLab](https://gitlab.com/etienn01/flauncher)
+* [RootMyTV](https://github.com/RootMyTV/RootMyTV.github.io) - LG WebOS TV Root
+* [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream Media from iOS to Smart TV
+* [Zank Remote](https://apps.apple.com/kr/app/zank-remote-for-android-tv-box/id1567602430?1=en) - Control Android TV via iOS
+* [Blackb0x](https://github.com/NSSpiral/Blackb0x) - Apple TV Jailbreaking
 
 ***
 
@@ -1075,12 +1099,3 @@
 * [Awesome ACG](https://github.com/soruly/awesome-acg) - Anime Tool Index 
 * [Anilinks](https://anilinks.neocities.org/) - Anime Related Site Index
 * [Spoiler Protection 2.0](https://spoilerprotection.wecdev.com/) - Keyword / Spoiler Blocker
-* [Smart TV Piracy](https://redd.it/xa0aya) - Smart TV Piracy Guide
-* [Firestick Tricks](https://www.firesticktricks.com/) - Firestick Jailbreak Guide / [Loader](https://github.com/esc0rtd3w/firestick-loader)
-* [Android TV Mod](https://t.me/androidtvmod) - Android TV / Fire TV / Fire Stick / Mods / Telegram
-* [FLauncher](https://play.google.com/store/apps/details?id=me.efesser.flauncher) - Android TV Launcher / [GitLab](https://gitlab.com/etienn01/flauncher)
-* [Go2TV](https://github.com/alexballas/go2tv) - Cast to UPnP/DLNA Renderers / Smart TVs
-* [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) or [AllCast](https://play.google.com/store/apps/details?id=com.koushikdutta.cast) - Send Files to Android TV
-* [Apps2Fire](https://play.google.com/store/apps/details?id=mobi.koni.appstofiretv) - Upload Apps to FireTV
-* [RootMyTV](https://github.com/RootMyTV/RootMyTV.github.io) - LG WebOS TV Root
-* [Blackb0x](https://github.com/NSSpiral/Blackb0x) - Apple TV Jailbreaking
