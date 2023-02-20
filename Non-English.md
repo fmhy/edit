@@ -1761,7 +1761,7 @@
 * [bajaebooksgratis](https://bajaebooksgratis.com/) - Books
 * [pirateca](https://pirateca.com/) - Books
 * [Lectulandia](https://ww2.lectulandia.com/) - Books
-* [ePub Gratis](https://www.epubgratis.vip/) - Books
+* [ePub Gratis](https://www.epubgratis.info/) - Books
 * [Espaebook2](https://www.espaebook2.com/) - Books
 * [Todolibros](https://todolibros.net/) - Books
 * [BibliotecaEpub](https://bibliotecaepub.com/) - Books
