@@ -389,9 +389,10 @@ Simulator
 * [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
 * [Life Under the Ice](https://lifeundertheice.org/) - View Antarctic Microbes
 * [Candide](https://candide.com/GB/identify-plants) or [Pl@ntNet](https://identify.plantnet.org/) - Plant Identifier
-* [WhyDoCatsAndDogs...?](https://whydocatsanddogs.com/) - Pet Q&A Site
 * [Get Body Smart](https://www.getbodysmart.com/) - Learn about Human Anatomy and Physiology
 * [NIH Print](https://3dprint.nih.gov/) - Biomedical Science 3D Models
+* [WhyDoCatsAndDogs...?](https://whydocatsanddogs.com/) - Pet Q&A Site
+* [Backyard Chickens](https://www.backyardchickens.com/) - Chicken Raising Forum
 
 ***
 
