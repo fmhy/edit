@@ -110,7 +110,7 @@
 * ⭐ **[movie-web](https://movie.squeezebox.dev/)** - Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)
 * ⭐ **[Kodi](https://kodi.tv/)** - Media Server / Streaming App / [Addons / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kodi_tools)
 * ⭐ **[CloudStream](https://cloudstream.cf/)** - Movies / TV / Anime / [Use Emulator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)
-* ⭐ **CloudStream Tools** - [Guide](https://cs3docs.pages.dev/) / [Discord](https://discord.gg/5Hus6fM) / [Downloads](https://rentry.org/cs3/) / [Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cloudstream_forks) / [Trakt Addon](https://2ecbbd610840-trakt.baby-beamup.club/) / [Sora Addon](https://youtu.be/yDuXGAnFQuI) 
+* ⭐ **CloudStream Tools** - [Guide]https://docs.cloudstream.cf/) / [Discord](https://discord.gg/5Hus6fM) / [Downloads](https://rentry.org/cs3/) / [Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cloudstream_forks) / [Trakt Addon](https://2ecbbd610840-trakt.baby-beamup.club/) / [Sora Addon](https://youtu.be/yDuXGAnFQuI) 
 * [FlixHQ](https://flixhq.click/) - Movies / TV / Anime
 * [Goku](https://goku.to/) - Movies / TV / Anime
 * [IceFilms](https://icefilms.tv/) - Movies / TV
