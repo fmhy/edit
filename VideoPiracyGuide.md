@@ -107,7 +107,7 @@
 * ⭐ **[xpWatch](https://xpwatch.vercel.app/)** - Movies / TV / Anime
 * ⭐ **[FMovies](https://fmovies.name/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
-* ⭐ **[movie-web](https://movie.squeezebox.dev/)** - Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)
+* ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)
 * ⭐ **[Kodi](https://kodi.tv/)** - Media Server / Streaming App / [Addons / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kodi_tools)
 * ⭐ **[CloudStream](https://cloudstream.cf/)** - Movies / TV / Anime / [Use Emulator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)
 * ⭐ **CloudStream Tools** - [Guide](https://docs.cloudstream.cf/) / [Discord](https://discord.gg/5Hus6fM) / [Downloads](https://rentry.org/cs3/) / [Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cloudstream_forks) / [Trakt Addon](https://2ecbbd610840-trakt.baby-beamup.club/) / [Sora Addon](https://youtu.be/yDuXGAnFQuI) 
