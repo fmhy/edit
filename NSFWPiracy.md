@@ -322,7 +322,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Porndude Hentai](https://theporndude.com/hentai-porn-sites)
 * [Fakku Search Script](https://redd.it/u0fnpf)
 * [Manhwas](https://www.manhwas.net/) - Spanish
-* [HentaiLA](https://www3.hentaila.com/el-index) - Spanish
+* [HentaiLA](https://www3.hentaila.com/) - Spanish
 * [TMOHentai](https://tmohentai.com/) - Spanish
 * [NClientV2](https://github.com/Dar9586/NClientV2) - Android NHentai
 * [TachiyomiSY](https://tachiyomi.org/forks/TachiyomiSY/) - Android Hentai
