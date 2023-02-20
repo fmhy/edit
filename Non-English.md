@@ -52,7 +52,7 @@
 * [shahidlek](https://shahidlek.com/) - Movies / TV
 * [dotCima](https://s2.dotcima.com/) - Movies / TV
 * [cinemana](https://cinemana.co/main/) - Movies / TV
-* [LODYNET](https://ww.lodynet.cam/) - Movies / TV
+* [LODYNET](https://www.lodynet.cam/) - Movies / TV
 * [Fushaar](https://www.fushaar.com/), [2](https://fushaar.info/) - Movies / TV
 * [mycima](https://mycima.video/) - Movies / TV 
 * [Cima4Film](https://cima4flm.buzz/main1/) - Movies / TV
