@@ -153,7 +153,6 @@
 * [Here and Now](https://here-and-now.glitch.me/) - Daily Reflections Journal
 * [YearCompass](https://yearcompass.com/) - New Years Resolution Booklet
 * [Detexify](http://detexify.kirelabs.org/classify.html) - Handwritten LaTeX Symbol Recognition
-* [How To Use Excel](https://www.how-use-excel.com/) - Excel Tutorial
 * [Excel Macro Mastery](https://excelmacromastery.com/vba-articles/) - Excel VBA Guides
 * [Vertex42](https://www.vertex42.com/) - Excel Templates
 * [Plain Text Table](https://plaintexttools.github.io/plain-text-table/) - Text Tables
@@ -300,7 +299,6 @@
 * ⭐ **OBS Tools** - [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT) / [Effects](https://github.com/Xaymar/obs-StreamFX) / [Phone Controller](https://github.com/Kounex/obs_blade)
 * ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Video / Audio Recorder, Converter & Streaming / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ffmpeg_tools)
 * [VideoTuts](http://videotuts.ru/) - Video Design Tutorials / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
-* [Team V.R releases](https://codec.kiev.ua/releases.html) - Professional Video, Audio & Adobe Software / Plugins
 * [VFX Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vfx_sites) - Download Video Effects
 * [Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers) - Video Codecs and Containers Guide
 * [Free-Codecs](https://www.free-codecs.com/) - Codec Packs & Multimedia Tools
@@ -757,7 +755,7 @@
 * ⭐ **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_managers)** - Manage / Save Passwords
 * ⭐ **[Encrypted Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_services)** - Email Sites with a Focus on Privacy
 * ⭐ **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - Create Temporary Email Addresses
-* ⭐ **[nosms](https://rentry.co/nosms)** - How-to Create Throwaway Gmail Accounts / [Dot Trick](https://thebot.net/api/gmail/)
+* ⭐ **[nosms](https://rentry.co/nosms)** - How-to Create Throwaway Gmail Accounts
 * ⭐ **[Site Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_site_development)** - Site Development / Hosting Tools
 * [Yandex Disk](https://disk.yandex.com/), [VK WorkSpace](https://biz.mail.ru/) or [OpenDesktop](https://www.opendesktop.org/) - Multiple Cloud Services 
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
@@ -1100,7 +1098,6 @@
 * [shrtcode](https://app.shrtco.de/) - `shrtco.de/lsoWP`
 * [bom.so](https://bom.so/) - `bom.so/VevMJv`
 * [by.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
-* [Poda Me](https://poda.me/) - `poda.me/e3129e`
 * [sum.vn](https://sum.vn/) - `sum.vn/DTrXk`
 * [ref.vn](https://ref.vn/) - `ref.vn/czuqfm`
 * [jii.li](https://jii.li/) - `jii.li/hNFXP`
@@ -1324,10 +1321,9 @@
 * [discord2sheet-bot](https://github.com/hugonun/discord2sheet-bot) - Store Messages to Google Sheets
 * [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion), [discord-delete](https://github.com/adversarialtools/discord-delete) or [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages) - Delete Discord Messages / [Warning](https://i.imgur.com/Kt8G430.png) 
 * [ansi-colors-discord.md](https://gist.github.com/kkrypt0nn/a02506f3712ff2d1c8ca7c9e0aed7c06) - Discord Colored Messages 
-* [Discord Style](https://www.discord.style/) or [Discord Templates](https://discordtemplates.me/) - Discord Server Templates
+* [Discord Templates](https://discordtemplates.me/) - Discord Server Templates
 * [Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/)
 * [Discord Embed Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_embed_generators) - Generate Embeds via Webhooks
-* [Discord-Webhook-Delete](https://github.com/fknMega/Discord-Webhook-Delete) - Webhook Remover
 * [Embed Visualizer](https://embed.discord.website/) - Embed Visualization Tool 
 * [Chimera](https://github.com/CedArctic/Chimera) - System Remote Control 
 * [The Cleaner](https://cleanerbot.xyz/) - Remove Spam / Phishing Links
@@ -1612,7 +1608,7 @@ Twitch Stream Tracker
 * [TweetDeck](https://tweetdeck.twitter.com/) / [Enhance](https://better.tw/) or [Tweeten](https://tweetenapp.com/) - Twitter Dashboard
 * [TweetDuck](https://github.com/chylex/TweetDuck) - Twitter Desktop Client
 * [BackTweets](http://backtweets.com/), [twXplorer](https://twxplorer.knightlab.com/), [Social Searcher](https://www.social-searcher.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - Search Twitter
-* [Twishort](https://twishort.com/) or [TwitLonger](https://www.twitlonger.com/) - Make Longer Tweets
+* [TwitLonger](https://www.twitlonger.com/) - Make Longer Tweets
 * [Screamer](https://chrome.google.com/webstore/detail/screamer-twitter-improvem/mpeifaboppaofofdbmhoaeolnibaljof) - Tweet Only Twitter
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [Poet.so](https://poet.so/), [Twimage](https://twimage.vercel.app/) / [GitHub](https://github.com/drkPrince/tweet-to-image), [Tweetlet](https://tweetlet.net/) or [Tweets Beauty](https://api.tweets.beauty/docs) - Create Twitter Post Images
@@ -1639,7 +1635,6 @@ Twitch Stream Tracker
 * [audiense](https://audiense.com/) - Identify Relevant Audiences 
 * [HashTagStack](https://www.hashtagstack.com/) or [Hashtagify](https://hashtagify.me/) - Hashtag Engagement Tracker
 * [Hashait](https://www.hashatit.com/) - Hashtag Search
-* [Twitter 3D](https://twitter.jeffprod.com/) - View Twitter Connections in 3D
 * [Buhitter](https://buhitter.com/) - Twitter Illustration Search
 * [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - Download Twitter Videos 
 * [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/) or [SocialBearing](https://socialbearing.com/) - Analyze Twitter Accounts
@@ -1649,7 +1644,7 @@ Twitch Stream Tracker
 * [TweeterID](https://tweeterid.com/) - Twitter User ID & Username Converter 
 * [Spoonbill](https://spoonbill.io/) - Track Profile Changes of People you Follow 
 * [SocialRank](https://socialrank.com/) - Find Your Most Valuable Followers 
-* [Twitual](http://twitual.com/) or [DoesFollow](https://doesfollow.com/) - Follower / Following Analysis 
+* [Twitual](http://twitual.com/) - Follower / Following Analysis 
 * [Twitter Intelligence](https://github.com/batuhaniskr/twitter-intelligence) - Python Twitter Tracking & Analysis Tool
 * [TweetTopicExplorer](http://tweettopicexplorer.neoformix.com/) - See a Users Most Common Words 
 * [Twayback Machine](http://staringispolite.github.io/twayback-machine/) - View a Users Old Tweets
@@ -1888,7 +1883,7 @@ Twitch Stream Tracker
 * [DLL-Hijack-Search-Order-BOF](https://github.com/EspressoCake/DLL-Hijack-Search-Order-BOF) - DLL File Search
 * [Killer](https://github.com/ntaraujo/killer) or [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Task Managers / [Discord](https://discord.gg/MKG6qgJ964)
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - System Menus
-* [Nsudo](https://nsudo.m2team.org/en-us/) - System Admin Tools / [GitHub](https://github.com/M2Team/NSudo)
+* [Nsudo](https://github.com/M2Team/NSudo) - System Admin Tools
 * [All Tasks Toolbar](https://winaero.com/create-all-tasks-god-mode-toolbar-windows-10/) - Create All Tasks God Mode Toolbar in Win 10 
 * [WindowsManager](https://www.eusing.com/WindowManager/WindowManager.htm), [AwesomeWM](https://awesomewm.org/), [LCARS](https://github.com/lcarsde/lcarswm) or [Compiz Fusion](http://www.compiz-fusion.org/) - Windows Managers
 * [AltSnap](https://github.com/RamonUnch/AltSnap) - Windows Dragging
