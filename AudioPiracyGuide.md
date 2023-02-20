@@ -390,6 +390,7 @@
 * [JPFlac](https://jpflac.com/) - Japanese / Korean / MP3 / FLAC
 * [MikuDB](http://mikudb.moe/) - Vocaloid / MP3
 * [El Rincón del Kitsune](https://elrincondelkitsune.blogspot.com/) - Vocaloid / MP3
+* [Guitars101](https://www.guitars101.com/) - Live Audio / Video
 * [Download-Soundtracks](http://download-soundtracks.com/), [3ost](https://3ost.ru/), [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) or [tanikal](https://www.tanikal.com/) - Soundtracks 
 * [GTA Radio Stations Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_gta_radio_stations) - GTA Radio Stations
 * [SittingOnClouds](https://www.sittingonclouds.net/) / [Discord](https://discord.com/invite/x23SFbE) - Anime / Game Soundtracks
@@ -420,6 +421,7 @@
 * [TheAudioScene](https://theaudioscene.net/) - MP3 / FLAC
 * [HQMusic](http://hqmusic.info/) - FLAC / Signup Required
 * [BlackTorrent](https://blacktorrent.ru/) - Metal / MP3 / FLAC
+* [TheTradersDen](http://www.thetradersden.org/) - FLAC
 * [Metal Tracker](https://en.metal-tracker.com/) - Metal / MP3
 * [RockBox](https://rawkbawx.rocks/) - Metal / MP3
 * [PunkTorrents](https://www.punktorrents.com/) - Punk / MP3
