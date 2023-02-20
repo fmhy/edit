@@ -70,11 +70,11 @@
 ## ▷ Single Games
 
 * ⭐ **[Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers)** - F2P Minecraft Clients / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_minecraft_tools) / [Beta Clients](https://betacraft.uk/) / [Bedrock / Java](https://redd.it/xj5w9m)
+* [Minetest](https://www.minetest.net/) - Open Source Minecraft Alternative
 * [JustEmuTarkov](https://justemutarkov.eu/) - Escape from Tarkov Emulator
 * [CWA](https://www.cwaemu.com/) - Clone Wars Adventures Emulator / [Discord](https://discord.gg/a3Ugb9dzzv)
 * [NR2003](https://wildkustomcars.weebly.com/) - Modded Nascar 2003
 * [CsWarzOnE](https://www.cswarzone.com/) - Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)
-* [Minetest](https://www.minetest.net/) - Open Source Minecraft Alternative
 * [Unciv](https://github.com/yairm210/Unciv) - Civ V Remake
 * [OpenTTD](https://www.openttd.org/) - Transport Tycoon Remake
 * [OpenNox](https://github.com/noxworld-dev/opennox) - Nox Revival Project
@@ -368,6 +368,7 @@
 * [dhewm3](https://dhewm3.org/) - Doom 3 Source Port
 * [DOOM FX](https://github.com/RandalLinden/DOOM-FX) - Doom SNES Source Code
 * [psdoom-ng](https://github.com/ChrisTitusTech/psdoom-ng) - Close Processes by Killing Demons
+* [Old School RuneScape](https://oldschool.runescape.com/) - Classic Runescape
 * [Unreal Archive](https://unrealarchive.org/index.html) - Unreal Tournament Mods, Maps, Skins etc.
 * [Q1K3](https://js13kgames.com/games/q1k3/index.html) - Quake Inspired Browser Game
 * [rottexpr](https://github.com/LTCHIPS/rottexpr) - Rise of the Triad Source Port
