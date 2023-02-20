@@ -23,7 +23,7 @@
 * [Musify](https://github.com/gokadzev/Musify) - Streaming
 * [MellowPlayer](https://colinduquesnoy.gitlab.io/MellowPlayer/) - Streaming
 * [Muffon](https://github.com/staniel359/muffon) - Streaming
-* [Deezer](https://www.deezer.com/) - Streaming / [Full Songs](https://git.uhwot.cf/uhwot/dzunlock.git)
+* [Deezer](https://www.deezer.com/) - Streaming / [Full Songs](https://git.uhwot.cf/uhwot/dzunlock.git) / [FLAC Proxy](https://rentry.co/dzunlock-nutz)
 * [OdesliBot](https://t.me/odesli_bot) - Audio Stream Search Bot
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
 * [JukeboxStar](https://jukeboxstar.com/) - Collaborative Playlist Streaming
@@ -78,6 +78,7 @@
 * [The Cultural Borders of Songs](https://pudding.cool/2018/06/music-map/?date=202102) - #1 Songs from 3,000 Countries
 * [LostMyspace](http://lostmyspace.com/) - Lost Myspace Songs
 * [Unreleased Goa Project](https://goatrance.xyz/) - Rare / Unreleased Trance
+* [Mideastunes](https://mideastunes.com/) - Underground Music
 * [Wacht](https://wacht.tv/) - Music Video Upvoting
 * [/r/Yedits](https://www.reddit.com/r/Yedits/) - User-Made Remixes
 * [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - User-Made PluggnB Songs
@@ -272,7 +273,7 @@
 * ⭐ **[Free MP3 Download](https://free-mp3-download.net/)** - Search / MP3 / FLAC
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Download Spotify Soundcloud, Qobuz, Deezer and Tidal Audio
 * ⭐ **[Mudome](https://mudome.org/)** - MP3 / FLAC
-* ⭐ **[Damon's Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_damon.27s_game_soundtracks)**, [Squid-Board](https://www.squid-board.ru/) / [2](https://www.squid-board.org/), [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://codeberg.org/sun/VGMLoader) / [2](https://github.com/obskyr/khinsider) / [3](https://github.com/weespin/KhinsiderDownloader), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - Video Game Soundtracks
+* ⭐ **[Damon's Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_damon.27s_game_soundtracks)**, [Squid-Board](https://www.squid-board.org/), [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://codeberg.org/sun/VGMLoader) / [2](https://github.com/obskyr/khinsider) / [3](https://github.com/weespin/KhinsiderDownloader), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/) or [Zophar's](https://www.zophar.net/music) - Video Game Soundtracks
 * [The Last Disaster](https://thelastdisaster.vip/), [2](https://thelastdisaster.org/) - MP3 / FLAC
 * [SongsLover](https://songslover.vip/) - MP3
 * [VKMusic](https://denr01.com/vkm/) - MP3 / User: anon / pass: 12345
