@@ -301,7 +301,7 @@
 * [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - Turn Screen into Strobe / Mood Light
 * [Marijuana Subs](https://www.reddit.com/r/trees/wiki/entreddits_social) - Marijuana Related Subreddits
 * [Drinking Game Zone](https://drinkinggamezone.com/) - Drinking Games Encyclopedia 
-* [MakeMyCocktail](http://makemycocktail.com/) - Create Custom Cocktails
+* [MakeMyCocktail](http://makemycocktail.com/), [DrinNnation](https://www.drinknation.com/bar), [CocktailBuilder](https://www.cocktailbuilder.com/), [CocktailsAndShots](https://cocktailsandshots.com/cocktail-builder/) or [MyBar](https://makemeacocktail.com/mybar/) - Cocktail Builders
 * [Drinkify](http://drinkify.org/) - Picks Drinks Based on Songs
 * [Things to Do](https://randomthingstodo.com/), [TheZen](https://thezen.zone/) or [bored.solutions](https://bored.solutions/) - Activity Suggestions
 * [Human Benchmark](https://humanbenchmark.com/) - Brain Games & Cognitive Tests
@@ -662,7 +662,7 @@
 * [MFA](https://www.mfa.gov.cn/eng/) - Ministry of Foreign Affairs of the People's Republic of China
 * [Legislation.gov](https://www.legislation.gov.uk/) - British Law News
 * [RT News](https://t.me/rtnews) - Russian News
-* [SciURLs](https://sciurls.com/), [NewScientist](https://www.newscientist.com/), [Nature.com](https://www.nature.com/), [Science.org](https://www.science.org/), [PopSci](https://www.popsci.com/), [Useful Science](https://usefulscience.org/), [ScienceDaily](https://www.sciencedaily.com/) or [LiveScience](https://livescience.com/) - Science News
+* [SciURLs](https://sciurls.com/), [NewScientist](https://www.newscientist.com/), [Nature.com](https://www.nature.com/), [Science.org](https://www.science.org/), [PopSci](https://www.popsci.com/), [Useful Science](https://usefulscience.org/), [ScienceDaily](https://www.sciencedaily.com/), [EurekAlert](https://www.eurekalert.org/) or [LiveScience](https://livescience.com/) - Science News
 * [MathURLs](https://mathurls.com/) - Math News
 * [DevURLs](https://devurls.com/) - Developer News
 * [TuxURLs](https://tuxurls.com/) - Linux News
@@ -899,7 +899,7 @@
 * [BlahTherapy](https://blahtherapy.com/) - Vent to Strangers
 * [Online Psych Services](https://redd.it/nryig4) - Centers Offering Free Online Psych Services
 * [babycenter](https://www.babycenter.com/) - Pregnancy and Parenting Resources
-* [Pregnancy Calculatorhttps://americanpregnancy.org/resources/pregnancy-calculator/) - Due Date Calculator
+* [Pregnancy Calculator](https://americanpregnancy.org/resources/pregnancy-calculator/) - Due Date Calculator
 * [DoItRight](https://doitright.ph/) or [Scarleteen](https://www.scarleteen.com/) - Sex Education Resources
 * [Euki](https://eukiapp.com/) - Sexual / Reproductive Health App
 * [Abortion Resources](https://redd.it/phrcrn) / [2](https://redd.it/vm56bs), [PlannedParenthood](https://www.plannedparenthood.org/) or [Safe2Choose](https://safe2choose.org/) - Abortion Resources
@@ -1402,7 +1402,7 @@
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - Smooth Key Scrolling
 * [Wheel Smooth Scroller](https://chrome.google.com/webstore/detail/chromium-wheel-smooth-scr/khpcanbeojalbkpgpmjpdkjnkfcgfkhb?hl=en) - Smooth Scrolling
 * [Get RSS Feed URL](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn) - RSS Feed Generator
-* [NudgeWare](https://nudgeware.io/), [ProductivityBlocker](https://www.productivityblocker.com/), [Minto](https://chrome.google.com/webstore/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chrome.google.com/webstore/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia) or [HabitLab](https://habitlab.stanford.edu/) - Productivity Managers / Site Blockers
+* [NudgeWare](https://nudgeware.io/), [ProductivityBlocker](https://www.productivityblocker.com/), [Minto](https://chrome.google.com/webstore/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chrome.google.com/webstore/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia), [Manganum](https://manganum.app/) or [HabitLab](https://habitlab.stanford.edu/) - Productivity Managers / Site Blockers
 * [Web Activity Time Tracker](https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm?hl=en) - Track Browser Activity
 * [Simple Todo](https://chrome.google.com/webstore/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf) or [Todoist](https://chrome.google.com/webstore/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh?hl=en) - To-Do List
 * [Blueticks](https://chrome.google.com/webstore/detail/blueticks/adgnjhngogijkkppficiiepmjebijinl) - WhatsApp Scheduler
