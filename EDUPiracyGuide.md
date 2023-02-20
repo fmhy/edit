@@ -472,6 +472,7 @@ Simulator
 * [Histography](https://histography.io/) or [Oldest](https://www.oldest.org/) - History Timelines
 * [Sciphilos](http://sciphilos.info/) - Historical Discovery Timeline
 * [The First World War](https://www.firstworldwar.amdigital.co.uk/) - WW1 Study Material
+* [NuclearWeaponArchive](https://nuclearweaponarchive.org/) - Nuclear Weapons History
 * [911 Realtime](https://911realtime.org/) - 9/11 in Realtime
 * [The Food Timeline](https://www.foodtimeline.org/) - Food History Timeline
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes Site Index
@@ -482,6 +483,7 @@ Simulator
 * [InfoMesh](http://infomesh.org/) - Web History / Info
 * [Old Computer Museum](http://oldcomputers.net/) - Computer History / Info
 * [The HP 9845 Project](https://www.hp9845.net/) - HP 9845 Computer History
+* [Folklore](https://www.folklore.org) - Apple Computer History
 * [House creep](https://www.housecreep.com/) - Homes With A Curious or Criminal History 
 * [World Weather Online](https://www.worldweatheronline.com/) - Historical Weather Reports
 
@@ -709,6 +711,7 @@ Simulator
 * [FAChords](https://www.fachords.com/) - Guitar
 * [Guitarsix](https://guitarsix.com/) - Guitar
 * [Finger Style](https://finger-style.ru/category/lessons) - Guitar
+* [Chorder](https://www.chorder.com/guitar-chords/) - C Major Guitar Chord
 * [coop3rdrumm3r](https://www.drumeo.com/coop3rdrumm3r/) - Drums
 * [FreeDrumLessons](https://www.youtube.com/c/freedrumlessons) - Drums
 * [911tabs](https://www.911tabs.com/) - Tab
