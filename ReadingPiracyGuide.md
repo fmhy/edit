@@ -505,7 +505,6 @@
 * [Snopes](https://www.snopes.com/) - Urban Legends, Folklore, Misinformation
 * [Butterick’s Practical Typography](https://practicaltypography.com/) - Typography Guide Book
 * [Sewing8](https://t.me/sewing8) - Sewing / Pattern Making Books
-* [Backyard Chickens](https://www.backyardchickens.com/) - Chicken Raising Forum
 * [Robot Shop](https://community.robotshop.com/) - Robotics Forum
 * [Cro-Wood](https://www.cro-wood.com/) - Woodworking Forum
 * [Alt Law Forum](https://altlawforum.org/) - Alternative Law Forum
