@@ -1685,7 +1685,7 @@
 
 ## ▷ Streaming 
 
-* [HDFull](https://hdfull.org/), [2](https://hdfull.life/), [3](https://dominioshdfull.com/) - Movies / TV / Anime / Discord[https://discord.gg/BRKCXEe]
+* [HDFull](https://hdfull.org/), [2](https://hdfull.life/), [3](https://dominioshdfull.com/) - Movies / TV / Anime / [Discord](https://discord.gg/BRKCXEe)
 * [PelisPlus.so](https://pelisplus.so/) - Movies / TV
 * [Pelispedia](https://www.pelispedia.de/) - Movies / TV
 * [Pelispedia 2](https://www.pelispedia2.vip/) - Movies / TV
