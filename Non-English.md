@@ -1727,18 +1727,15 @@
 * [doramasmp4](https://doramasmp4.io/) - Asian Drama
 * [DoramasFlix](https://doramasflixs.com/) - Asian Drama
 * [LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels) - Live TV / IPTV
-* [TeleBunker](https://www.telebunker.com/) - Live TV
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.tv/) - Live Soccer / MMA
 * [JKAnime](https://jkanime.net/) - Anime 
 * [AnimeFénix](https://animefenix.com/) - Anime
 * [TioAnime](https://tioanime.com/) - Anime
 * [HenaoJara](https://henaojara.com/) - Anime 
-* [Animadas](https://seriesanimadas.org/) - Anime
 * [Animeflv](https://www3.animeflv.net/) - Anime
 * [mundodonghua](https://www.mundodonghua.com/) - Anime
 * [animeonline](https://www1.animeonline.ninja/) - Anime
 * [ytanime](https://ytanime.tv/) - Anime
-* [puray](https://puray.moe/) - Anime
 * [AnimeID](https://www.animeid.tv/) - Anime
 * [animeyt](https://animeyt.es/) - Anime
 * [Anitube](https://www.anitube.site/) - Anime
@@ -1749,7 +1746,6 @@
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
 * [Eventoshq](https://www.eventoshq.me/) - WWE
 * [LegalMentegratis](http://legalmentegratis.com/) - YouTube Movies
-* [UKIKU](https://ukiku.ga/) - Anime APK
 * [Edutin Academy](https://edutin.com/) - Courses
 
 ## ▷ Reading
@@ -1758,7 +1754,6 @@
 * [epublibre](https://www.epublibre.org/) - Books
 * [ebiblioteca](https://ebiblioteca.org/) - Books
 * [Ebookelo](https://www.ebookelo.com/) - Books
-* [bajaebooksgratis](https://bajaebooksgratis.com/) - Books
 * [pirateca](https://lapirateca.com/) - Books
 * [Lectulandia](https://ww2.lectulandia.com/) - Books
 * [ePub Gratis](https://www.epubgratis.info/) - Books
@@ -1793,7 +1788,6 @@
 * [inarimanga](https://inarimanga.com/) - Manga
 * [mangatigre](https://www.mangatigre.net/) - Manga
 * [olympusscan](https://olympusscan.top/) - Manga
-* [shayami](https://shayami.com/) - Manga
 * [legionasia](https://legionasia.com/) - Manga
 * [Nova](https://novelasligeras.net/) - Manga / Light Novels
 * [Izicomics](https://www.izicomics.com/) - Manga / Comics
@@ -1876,7 +1870,6 @@
 * [turkish123](https://turkish123.com/) - TV 
 * [yoturkish](https://www.yoturkish.com) - TV
 * [expressdizi](http://www.expressdizi.com/) - TV
-* [HindiLover](https://hindilover.biz/) - TV
 * [makkitv](https://makkitv.co/) - TV
 * [TurkAnime](https://www.turkanime.net/), [2](https://www.turkanime.co/) - Anime
 * [anizm](https://anizm.net/) - Anime
