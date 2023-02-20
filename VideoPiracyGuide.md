@@ -805,7 +805,7 @@
 * ⭐ **[Radarr](https://radarr.video/)** - Autodownload Movie Torrents / [GitHub](https://github.com/Radarr/Radarr)
 * ⭐ **[Sonarr](https://sonarr.tv/)** / [GitHub](https://github.com/Sonarr/Sonarr), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - Autodownload TV Torrents / [Guide](https://wiki.servarr.com/)
 * [Powder](https://powder.media/) - Torrent Streaming App
-* [Ace Stream](https://acestream.org/) - Torrent Streaming App / [Live Search](https://acestreamsearch.net/en/)
+* [Ace Stream](https://acestream.org/) - Torrent Streaming App / [Live Search](https://acestreamsearch.net/en/), [2](https://acestreamid.com/)
 * [WebTorrent](https://webtorrent.io/) - Torrent Streaming App
 * [PopcornTime](http://popcorn-time.ga/) / [2](https://github.com/popcorn-official/popcorn-desktop) -  Torrent Streaming App / [Fix](https://youtu.be/OMoAwNW-DDo)
 * [NotFlix](https://github.com/Bugswriter/notflix) - Torrent Streaming Script
