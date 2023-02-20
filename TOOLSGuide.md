@@ -70,6 +70,7 @@
 * [Tempus](https://tempus.keziahmoselle.fr/), [ActivityWatch](https://activitywatch.net/) / [Extensions](https://github.com/ActivityWatch/aw-watcher-web), [ProcrastiTracker](https://strlen.com/procrastitracker/), [ManicTime](https://www.manictime.com/), [Clockify](https://clockify.me/), [Furtherance](https://github.com/lakoliu/Furtherance), [Pro Modoro](https://pro-modoro.xyz/) / [2](https://pomofocus.io/), [Bytetrack](https://bytetrack-app.bytebeacon.com/), [Virtual Cottage](https://dui.itch.io/virtual-cottage) or [Super-Productivity](https://github.com/johannesjo/super-productivity) - Productivity  / Activity Trackers
 * [DogSheep](https://dogsheep.github.io/) - Personal Analytics Tools
 * [Stretchly](https://hovancik.net/stretchly), [WorkRave](https://workrave.org/), [Take a Five](http://www.takeafive.com/), [BreakMessage](https://breakmessage.com/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - Break Reminders / Trackers
+* [FigureRealm](https://www.figurerealm.com/) - Track Action Figure Collection
 * [DoINeedAJacket](https://doineedajacket.com/weather/), [Weather.com](https://weather.com/), [DogeWeather](http://dogeweather.com/), [National Weather Service](https://www.weather.gov/), [ClearOutside](https://clearoutside.com/), [ForcastAdvisor](https://www.forecastadvisor.com/) or [wttr](https://wttr.in/) - Weather Reports
 * [IEMBot](https://weather.im/iembot/) - Weather Bot Monitor
 * [World Weather Online](https://www.worldweatheronline.com/) - Historical Weather Reports
@@ -140,10 +141,11 @@
 * [Scrivener](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_scrivener) - Book Writing App
 * [WriteURL](https://www.writeurl.com/) - Collaborative Text Editor
 * [GhostText](https://ghosttext.fregante.com/) - Use Text Editor in Browser
+* [Sticky Notes](https://fdossena.com/?p=stickynotes/i.frag) - Desktop Sticky Notes
 * [ChecklistGenerator](https://checklistgenerator.co/) - Checklist Generator
 * [Wonder](https://wonder-bot.com/) - Remember Things Easily
 * [Scrapbox](https://scrapbox.io/) - Write & link Notes, Docs & Pages
-* [Manuskript](https://www.theologeek.ch/manuskript/) - Writing Organizer & Planner
+* [Manuskript](https://www.theologeek.ch/manuskript/) - Writing Organizer / Planner
 * [WorkFlowy](https://workflowy.com/) - Work Organizer
 * [KiloDoc](https://www.kilodoc.com/), [Edit-Document](https://edit-document.com/) or [GroupDocs](https://products.groupdocs.app/viewer/total) - Online Document Editors
 * [docz](https://www.docz.site/) - Write and Publish Interactive Documentation
@@ -307,6 +309,7 @@
 * [DMVideo](https://dmvideo.download/) - DailyMotion Video Downloader 
 * [Pincase](https://pincase.xyz/) - Pinterest Video Downloader 
 * [kmttg](https://www.videohelp.com/software/kmttg) - TivoToGo Download Manager
+* [Weeverse](https://home.soshistagram.com/wv/) - WeChat Video Downloader
 * [TikTok Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tiktok_video_downloaders) - Download TikTok Videos
 * [myfaveTT](https://myfavett.com/) - Download Your Liked TikTok Videos
 * [How-to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/)
@@ -708,7 +711,7 @@
 * [Candor](https://candor.co/hiring-freezes/) - Hiring Freezes
 * [GoodJobsFirst](https://www.goodjobsfirst.org/) - Subsidy Tracker
 * [Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms) - Project Management Tools
-* [Airtable](https://www.airtable.com/) - Build Collaborative Apps
+* [Airtable](https://www.airtable.com/) or [API Table](https://apitable.com/) - Build Collaborative Apps
 * [PolyWork](https://www.polywork.com/) - Collaboration Search
 * [PHPCRM](https://www.phpcrm.com/) - Company Management Software
 * [SplitBee](https://splitbee.io/) - Business Analytics Tool
@@ -967,6 +970,7 @@
 * [FirefoxCSS Store](https://firefoxcss-store.github.io/) - Firefox Themes List
 * [/r/FirefoxCSS](https://reddit.com/r/FirefoxCSS) - Firefox CSS Guides
 * [NightFox](https://github.com/snthcy/nightfox) - Firefox Mac Theme
+* [FirefoxGX](https://github.com/Godiesc/firefox-gx) - Firefox Opera Theme
 * [Firefox UWP Style](https://github.com/Guerra24/Firefox-UWP-Style) - Firefox UWP Theme
 * [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme
 * [BrowserParrot](https://www.browserparrot.com/) - Browser History Search Engine
@@ -1189,10 +1193,12 @@
 * [rrip](https://github.com/mahesh-hegde/rrip) - Reddit Bulk Image Downloader
 * [ScrollDit](http://www.scrolldit.com/) - Alt Reddit View
 * [3D for Reddit](https://3dforreddit.com/) - 3D Reddit Browser 
-* [MSOutlookit](https://pcottle.github.io/MSOutlookit/) or [Routlookit](https://routlookit.com/) - Outlook-Style Reddit Viewer
-* [RDDDeck](https://rdddeck.com/) - Twitter-Style Reddit Viewer 
-* [Reddium](https://reddium.vercel.app/) - Medium-Style Reddit Viewer 
-* [Unim.Press](https://unim.press/) - Newspapers-Style Reddit Viewer
+* [MSOutlookit](https://pcottle.github.io/MSOutlookit/) or [Routlookit](https://routlookit.com/) - Outlook Style Viewer
+* [CodeReddit](http://codereddit.com/) - Code Style Viewer
+* [RDDDeck](https://rdddeck.com/) - Twitter Style Viewer 
+* [Reddium](https://reddium.vercel.app/) - Medium Style Viewer
+* [SO Reddit](https://dutzi.github.io/so-reddit/) - Stack Overflow Style Viewer
+* [Unim.Press](https://unim.press/) - Newspapers Style Viewer
 * [Unreadit](https://app.mailbrew.com/unreadit) - Reddit Newsletters
 * [reddit shell](https://redditshell.com/) - Linux shell emulator for Reddit
 * [Random Reddit](https://old.reddit.com/random) or [Random Reddit Post](https://randomredditpost.netlify.app/) - Get Random Reddit Threads / Possibly NSFW
@@ -1485,7 +1491,6 @@
 * [YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802) - Speed Up YouTube
 * [myTube](https://github.com/keitharm/mytube) - Bloat Free YouTube Client
 * [Ytfzf](https://github.com/pystardust/ytfzf) or [YewTube](https://github.com/iamtalhaasghar/yewtube) - Terminal YouTube Players
-* [SmartTubeNext](https://smartyoutubetv.github.io/) - Ad Free Android TV YouTube Player / [GitHub](https://github.com/yuliskov/SmartTubeNext)
 * [YouTube_RSS](https://github.com/SimonDaNinja/youtube_rss) - YouTube RSS Client
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
 * [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - YouTube to GIF
@@ -1512,7 +1517,6 @@
 * [Auto Quality for YouTube](https://chrome.google.com/webstore/detail/auto-quality-for-youtube/iaddfgegjgjelgkanamleadckkpnjpjc?hl=en) - Automatically Switch to desired Quality
 * [h264ify](https://github.com/alextrv/enhanced-h264ify) - Use H.264 on YouTube 
 * [YTAPI](https://www.ytapi.com/) - Alt YouTube Player
-* [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV 
 * [Disable 60fps](https://greasyfork.org/en/scripts/23329-disable-youtube-60-fps-force-30-fps) - Force 30fps on YouTube
 * [YouTube CPU Tamer](https://greasyfork.org/en/scripts/431573), [2](https://greasyfork.org/en/scripts/418283) - YouTube CPU Optimization
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix YouTube Aspect Ratio
@@ -1559,7 +1563,6 @@
 * [Twitchls](https://twitchls.com/) - HTML5 Twitch Stream Player
 * [Alternate Player for Twitch.tv](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_twitch_player) - Alt Twitch Player
 * [Orion](https://alamminsalo.github.io/orion/) or [Tress](https://gitlab.com/Ignamarte/tress) - Twitch Desktop Client
-* [S0undTV](https://github.com/S0und/S0undTV) - Android TV Twitch Player
 * [Twitch DVR](https://github.com/caeleel/twitch-dvr) - Enable DVR on Twitch
 * [Twitch Now](https://addons.mozilla.org/en-US/firefox/addon/twitch-now_/) or [Gumbo](https://github.com/seldszar/gumbo) - 
 Twitch Stream Tracker
@@ -1584,7 +1587,6 @@ Twitch Stream Tracker
 * [Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui) - Twitch Browser for Streamlink
 * [get stream](https://pwn.sh/tools/getstream.html) - Extract Twitch URLs
 * [nobody.live](https://nobody.live/) or [Twitch Roulette](https://twitchroulette.net/) - Random Stream Roulette
-* [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - Smart TV Twitch Client
 * [Twitch-Chat-Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader) - Download Twitch Chat Messages
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - Add Subtitles to Twitch Stream
 * [StreamLadder](https://streamladder.com/) - Social Media Templates for Twitch Clips
@@ -1776,7 +1778,7 @@ Twitch Stream Tracker
 * [zfsBootMenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS Bootloader
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - Preinstallation Environment
 * [goldBoot](https://github.com/fossable/goldboot) - Create Immutable Infrastructure
-* [Microsoft Downloads Dump](https://www.heidoc.net/php/myvsdump.php) - Verify ISO Legitimacy
+* [MSDN Files](https://msdn.rg-adguard.net/) or [Microsoft Downloads Dump](https://www.heidoc.net/php/myvsdump.php) - Verify ISO Legitimacy
 * [CD Key Reader](http://www.cathonian.com/software/cd-keyreader/) - Find Key used to Install Windows
 * [WinXP Service Pack 4](https://www.majorgeeks.com/files/details/windows_xp_service_pack_4_unofficial.html) - Windows XP Unofficial Service Pack 4 / [Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_winxp_service_pack_4)
 * [ChangeWindows](https://www.changewindows.org/timeline) - Latest Windows Update Info
@@ -2052,7 +2054,7 @@ Twitch Stream Tracker
 * [Windows 11 Fixer](https://github.com/99natmar99/Windows-11-Fixer) - Win 11 Improvement Tool
 * [Bypass Win11 Requirements](https://github.com/osx86-ijb/bypass-windows11-requirements) - How-To Bypass Windows 11 System Requirements
 * [Windows 11 Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 System Requirements Bypasser
-* [Windows 11 Debloater](https://github.com/teeotsa/windows-11-debloat), [win11SetupScript](https://github.com/fedoz13/win11SetupScript), [debloat-windows11](https://github.com/kdpuvvadi/debloat-windows11), [Debloos](https://github.com/builtbybel/Debloos) or [XToolbox](https://github.com/xemulat/XToolbox) - Windows 11 Debloaters
+* [Windows 11 Debloater](https://github.com/teeotsa/windows-11-debloat), [win11SetupScript](https://github.com/fedoz13/win11SetupScript), [debloat-windows11](https://github.com/kdpuvvadi/debloat-windows11), [Win11-Debloat--Guide](https://github.com/TheWorldOfPC/Windows11-Debloat-Privacy-Guide), [Debloos](https://github.com/builtbybel/Debloos) or [XToolbox](https://github.com/xemulat/XToolbox) - Windows 11 Debloaters
 * [Win11DevBypass](https://github.com/rushiranpise/win11devbypass) - Bypass Win 11 Dev Channel Restrictions
 * [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - Windows 11 Powertoys
 * [ElevenClock](https://github.com/martinet101/ElevenClock) - Windows 11 Secondary Monitor Clock
@@ -2233,6 +2235,7 @@ Twitch Stream Tracker
 * [GDrive Guides](https://t.me/gdriveguides) - GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)
 * [Any File to GDrive](https://github.com/cheems/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarsha2003/Bhadoo-Cloud-Drive) - DDL to GDrive Tool
 * [DriveUploader](https://driveuploader.com/) - Receive Files via GDrive
+* [rcrypt](https://rentry.co/rcrypt) - File to GDrive Encrypted Backup Guide
 * [GDriveCLI](https://github.com/prasmussen/gdrive) or [ODrive](https://liberodark.github.io/ODrive/) - GDrive CLI
 * [gogdl-ng](https://github.com/gogdl-ng/gogdl-ng) - Google Drive Bulk Downloader
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
