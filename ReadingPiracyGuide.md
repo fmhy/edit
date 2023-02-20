@@ -164,12 +164,13 @@
 * [The Free Book Library](http://ebooks.i2p/) - Books / I2P Required
 * [Ebooks Searcher](https://ebook-searcher.com/) - Multi-Site Book Search 
 * [Weird Old Book Finder](https://weird-old-book-finder.glitch.me/) - Find Old Books
-* [FreeBooksSifter](https://www.freebooksifter.com/) - Free Amazon E-Book 
+* [FreeBooksSifter](https://www.freebooksifter.com/) - Free Amazon Books
 * [HundredZeros](http://hundredzeros.com/) or [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Books 
 * [Wikibooks](https://www.wikibooks.org/) - Wikimedia community
 * [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - ZeroNet Required
 * [Avxhm](https://avxhm.se/), [2](https://avxhm.is/) - [Leech Required](https://leechall.com/)
 * [AvaxHome](https://www.avaxhome.co/) 
+* [FileStore](http://filestore.orgfree.com/) - Emule Book Collections
 * [Just Another Library](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/) - Tor Required / NSFW
 * [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
 * [Rivetedlit](https://rivetedlit.com/) - Books
@@ -362,7 +363,7 @@
 * [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
 * [Potions and Snitches](http://www.potionsandsnitches.org/) - Harry Potter Fanfiction
 * [Projectrho](http://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
-* [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG / [Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_trove_archives)
+* [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG / [Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_trove_archives) / [/r/TheTroveIPFS](https://www.reddit.com/r/TheTroveIPFS/)
 * [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - TTRPG Rulebooks
 * [Cinema EBooks Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cinema_ebooks_collection) - Cinema Books
 * [SimplyScripts](https://www.simplyscripts.com/) or [SubsLikeScript](https://subslikescript.com/) - Movie / TV Scripts 
@@ -499,10 +500,13 @@
 * [Micronations Wiki](https://micronations.wiki/) - Micronations Wiki
 * [Brill](https://brill.com/) - International Law Books
 * [Camopedia](https://www.camopedia.org/) - Camouflage Wiki
+* [AirVectors](http://www.airvectors.net/) - Aircraft Wiki
 * [RationalWiki](https://rationalwiki.org/) - Pseudoscience Refutation Wiki
-* [Snopes](https://www.snopes.com/) - Urban Legends, Folklore, Misinformation & more
+* [Snopes](https://www.snopes.com/) - Urban Legends, Folklore, Misinformation
 * [Butterick’s Practical Typography](https://practicaltypography.com/) - Typography Guide Book
 * [Sewing8](https://t.me/sewing8) - Sewing / Pattern Making Books
+* [Backyard Chickens](https://www.backyardchickens.com/) - Chicken Raising Forum
+* [Robot Shop](https://community.robotshop.com/) - Robotics Forum
 * [Cro-Wood](https://www.cro-wood.com/) - Woodworking Forum
 * [Alt Law Forum](https://altlawforum.org/) - Alternative Law Forum
 * [Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/) - Online Learning Collections 
@@ -759,7 +763,7 @@
 * [dict](https://github.com/BetaPictoris/dict) - Dictionary CLI
 * [Webopedia](https://www.webopedia.com/) or [TechTerms](https://techterms.com/) - Tech Dictionary
 * [Why The Fluff](https://www.whythefluff.com/) - Common Jargon Dictionary
-* [EtymOnline](https://www.etymonline.com/) - Etymologies
+* [EtymOnline](https://www.etymonline.com/) or [The Tower of Babel](https://starlingdb.org/) - Etymologies
 * [Fandom](https://www.fandom.com/) - Fan Wikis 
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi Language Dictionary Index
 * [Everpidia](https://everipedia.org/) - Encyclopedia
@@ -784,7 +788,7 @@
 * [ReverseDictionary](https://reversedictionary.org/) or [OneLook Reverse](https://onelook.com/reverse-dictionary.shtml) - Search for Words Using Their Meanings 
 * [DoesNotTranslate](https://doesnottranslate.com/) - Words with No Translation
 * [Tip of my Tounge](https://chir.ag/projects/tip-of-my-tongue/) - Find Words you Can't Remember
-* [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html) - Philosophy Encyclopedia / [Search](https://www.visualizingsep.com/)
+* [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html), [IEP](https://iep.utm.edu/) or [nLab](https://ncatlab.org/) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
 * [Focal](http://www.focal.ie/) - Irish Word Dictionary
 * [TheIdioms](https://www.theidioms.com/) - Idiom Dictionary 
 * [Lexipedia](http://www.lexipedia.com/) or [WordWeb](https://wordwebs.app/) - Word Connections
