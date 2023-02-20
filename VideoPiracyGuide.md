@@ -500,6 +500,7 @@
 ## ▷ Live TV / Sports 
 
 * ⭐ **[Sportsurge](https://sportsurge.net/)**- Sports / Stream Locator
+* ⭐ **[IPTV Web](https://dev-iptv.web.app/)** - TV / Sport
 * ⭐ **[Easy Web TV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - TV / Sports
 * ⭐ **[Jackal](https://jackal.surge.sh/)** - TV / Sports
 * ⭐ **[Sports Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming)** - Sports
@@ -509,7 +510,6 @@
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
 * ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)**, [IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) or [IPTV-org](https://github.com/iptv-org/iptv) - IPTV Resources / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
 * [TOTV](http://totv.org/) - TV / Sport
-* [IPTV Web](https://dev-iptv.web.app/) - TV / Sport
 * [123TV](http://123tv.live/), [2](http://123tvnow.com/) - TV / Sports
 * [XUMO](https://www.xumo.tv/channels) - TV
 * [femboys.live](https://femboys.live/) - Sports
