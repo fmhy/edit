@@ -1609,7 +1609,6 @@
 
 * ⭐ **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - Telegram Channel Index
 * [jogos10](http://www.jogos10.com/) or [Minijuegos](https://www.minijuegos.com/) - Browser Games
-* [Emudesc](https://www.emudesc.com/) - Gaming Forum
 * [EmojiTool](https://emojitool.com/) - Emoji Database
 * [Catflix](https://www.championcat.cl/catflix/) - Cats!
 * [Aprender Gratis](https://aprendergratis.es/) - File Tools
