@@ -1625,6 +1625,7 @@
 * [LuchoEdu](https://www.luchoedu.org/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
 * [Fiuxy](https://fiuxy2.com/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
 * [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
+* [Guns's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Games / [Warning](https://rentry.co/48fo5)
 * [CompucaliTV](https://www.compucalitv.com/) - Video / Software / Games
 * [ZonaLeRoS](https://www.zona-leros.net/) - Video / Games
 * [GamesMega](https://gamesmega.net/) - Games / ROMs
@@ -1634,6 +1635,7 @@
 * [BajarJuegosPCgratis](https://bajarjuegospcgratis.com/) - Games
 * [gamesgx](https://www.gamesgx.net/) - PS2 ROMs
 * [Zypeliculashd](https://zypeliculashd.net/) - Movies / TV / Anime
+* [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation
 * [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - Movies
 * [SomosMovies](https://somosmovies.com/) - Movies / TV
 * [Mega MKV](https://mega-mkv.com/) - Movies
