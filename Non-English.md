@@ -1637,7 +1637,7 @@
 * [Zypeliculashd](https://zypeliculashd.net/) - Movies / TV / Anime
 * [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - Movies
 * [SomosMovies](https://somosmovies.com/) - Movies / TV
-* [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV
+* [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation
 * [Mega MKV](https://mega-mkv.com/) - Movies
 * [DLShared](https://dlshareds.blogspot.com/?m=1) - Movies / Music
 * [DescargasDD](https://descargasdd.org/) - Video / Audio / Software / Games / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
