@@ -771,7 +771,7 @@ Simulator
 * [Note Taking Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - Note Taking / To-Do Apps
 * [Note Garden](https://notegarden.web.app/), [2](https://notegarden.io/) - Note Taking & Auto Courses
 * [Mochi Cards](https://mochi.cards/) or [MidTerm](https://midterm.app/) - Note Taking / Study Tool
-* [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool
+* [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
 * [BookStack](https://www.bookstackapp.com/) - Self-Hosted Information Manager
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
 * [Course-Notes](https://course-notes.org/) - Course Notes
