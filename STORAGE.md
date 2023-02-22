@@ -934,7 +934,6 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 * ⭐ **[1fichier](https://1fichier.com/)**
 * ⭐ **[Zippyshare](https://www.zippyshare.com/)**
 * ⭐ **[LetsUpload](https://letsupload.io/)** / [1CloudFile](https://1cloudfile.com/)
-* ⭐ **[ToffeeShare](https://toffeeshare.com/)**
 * ⭐ **[mediafire](https://www.mediafire.com/)**
 * ⭐ **[bowfile](https://bowfile.com/)**
 * ⭐ **[krakenfiles](https://krakenfiles.com/)**
@@ -956,6 +955,7 @@ Simple Allow - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-a
 
 * ⭐ **[SyncThing](https://syncthing.net/)**
 * ⭐ **[Snapdrop](https://snapdrop.net/)**
+* ⭐ **[ToffeeShare](https://toffeeshare.com/)**
 * ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
 * ⭐ **[aQRoss](https://aqross.app/)** - Share Files via QR Codes
 
