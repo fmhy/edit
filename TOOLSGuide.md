@@ -362,7 +362,7 @@
 * [VidLouder](https://www.videolouder.com/) - Increase Video Volume
 * [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md) - AI Video Toolbox
 * [Video Cleaner](https://videocleaner.com/) or [Video Enhance AI](https://www.topazlabs.com/video-enhance-ai) - Video Enhancement Tool 
-* [Flowframes](https://nmkd.itch.io/flowframes) or [SVP](https://www.svp-team.com/) - Video Interpolation
+* [Flowframes](https://nmkd.itch.io/flowframes), [fpska](https://github.com/andreiyv/fpska) or [SVP](https://www.svp-team.com/) - Video Interpolation / Increase FPS
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
 * [OpenToonz](https://opentoonz.github.io/e/), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - Animation Tools
 * [Animaker](https://www.animaker.com/) - Animated Video Creator
@@ -1817,7 +1817,6 @@ Twitch Stream Tracker
 * [AATU](https://amdaputuningutility.com/) or [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Ryzen Laptop GPU Controllers
 * [NBFC](https://github.com/hirschmann/nbfc) - Laptop Fan Control
 * [FanControl](https://github.com/Rem0o/FanControl.Releases) - Fan Control
-* [Sh1mmer](https://sh1mmer.me/) - Unenroll Enterprise-Managed Chromebooks
 * [NVCleanInstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) or [NVSlimmer](https://majorgeeks.com/files/details/nvslimmer.html) - NVIDIA Driver Packages / [Install Guide](https://rentry.co/NVCleanInstall)
 * [NVIDIAOptimize](https://rentry.co/NVIDIAOptimize) - Debloat NVIDIA Drivers
 * [GreenWithEnvy](https://gitlab.com/leinardi/gwe) or [NVIDIA Control Panel](https://rentry.co/gaydia) - Manage / Control NVIDIA Cards
