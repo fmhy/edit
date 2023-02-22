@@ -94,9 +94,10 @@
 * [Rang3r](https://github.com/floriankunushevci/rang3r) - IP / Port Scanner
 * [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
 * [Brunch](https://github.com/sebanc/brunch) or [Chromefy](https://github.com/imperador/chromefy) - ChromeOS Installer
-* [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/) / [Guide](https://support.google.com/chromeosflex/answer/11552529?hl=en), [FydeOS](https://fydeos.io/download), [NeverWare](https://www.neverware.com/) or [WayneOS](https://wayne-os.com/) - ChromeOS Based OS
+* [MrChromeBox](https://mrchromebox.tech/), [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/) / [Guide](https://support.google.com/chromeosflex/answer/11552529?hl=en), [FydeOS](https://fydeos.io/download), [NeverWare](https://www.neverware.com/) or [WayneOS](https://wayne-os.com/) - ChromeOS Based OS
 * [Chromebrew](https://github.com/skycocker/chromebrew) - Package Manager for ChromeOS
 * [Chrome100](https://chrome100.dev/) - ChromeOS Recovery Images
+* [Sh1mmer](https://sh1mmer.me/) - Unenroll Enterprise-Managed Chromebooks
 * [Crouton](https://github.com/dnschneid/crouton) - Chromebook Linux OS
 * [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
 * [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - One-Click Remote Desktop
