@@ -236,6 +236,7 @@
 * [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones / Prices
 * [Pepper](https://www.pepper.com/) - Shopping Community
 * [SlyToday](https://slytoday.com/) - Price Comparison Search
+* [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
 * [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
 * [GPUDrops](https://gpudrops.com/) / [Discord](https://discord.gg/gpudrops), [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
 * [Craftie](https://www.craftle.app/) - Furniture Price Calculator
