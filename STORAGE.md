@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/ZA83eD9.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/XtdHHih.png)** - For mobile users
 
 ***
 
@@ -3381,6 +3381,23 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 * ⭐ **[QuickBoost](https://github.com/SanGraphic/QuickBoost)**
 
 [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/) / [DL](https://www.reddit.com/r/TronScript/wiki/downloads), [win10script](https://github.com/ChrisTitusTech/winutil) / [2](https://christitus.com/debloat-windows-10-2020/), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [Ninjutsu](https://www.teamos-hkrg.com/threads/window-10-ninjutsu-v1-0-x64.128178/), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [Windows-Decrapifier](https://github.com/n1snt/Windows-Decrapifier), [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script), [Remove-Windows10-Bloat](https://gist.github.com/matthewjberger/2f4295887d6cb5738fa34e597f457b7f), [Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10), [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat), [SophiApp](https://github.com/Sophia-Community/SophiApp), [WinRice](https://github.com/pratyakshm/WinRice), [TweakList](https://github.com/couleur-tweak-tips/TweakList), [Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins), [BRU](https://github.com/arcadesdude/BRU), [Windows-Bloatware-Removal](https://github.com/BallisticTurtle/Windows-Bloatware-Removal/blob/master/Remove%20Windows%20Bloatware.bat), [optimizer](https://github.com/hellzerg/optimizer/), [Ultimate Windows Utility](https://christitus.com/windows-tool/), [XToolbox](https://github.com/xemulat/XToolbox), [Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools), [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover), [Win10Debloat](https://github.com/Raphire/Win10Debloat) 
+
+***
+
+#### Windows Activation
+
+* ⭐ **[Windows 10 Activation Guide](https://rentry.co/ActivateWin10)**, [2](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation) / [Discord](https://discord.gg/nWWfBMtBSk)
+* ⭐ **[Microsoft-Activation-Script](https://github.com/massgravel/Microsoft-Activation-Scripts/)**
+* ⭐ **[KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
+* [KMS VL ALL](https://github.com/kkkgo/KMS_VL_ALL)
+* [hwid.kms38.gen.mk6](https://web.archive.org/web/20210328020828/https://www.saidit.net/s/sjain_guides) / [2](https://archive.md/8pdfC)
+* [MyDigitalLife](https://forums.mydigitallife.net/)
+* [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition)
+* [HEU_KMS](https://github.com/zbezj/HEU_KMS_Activator) 
+* [winactivate](https://github.com/luzeadev/winactivate)
+* [onlyhwid](https://github.com/kashtechtips/onlyhwid)
+* [KMS-Auto](https://kms-auto.site/)
+* [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC) (Vista/7/Server 2008)
 
 ***
 
