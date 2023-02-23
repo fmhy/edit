@@ -1610,6 +1610,7 @@
 * [Fiuxy](https://fiuxy2.com/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
 * [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
 * [Guns's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Games / [Warning](https://rentry.co/48fo5)
+* [SeriesTV](https://www.seriestv.in/foro.php) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
 * [CompucaliTV](https://www.compucalitv.com/) - Video / Software / Games
 * [ZonaLeRoS](https://www.zona-leros.net/) - Video / Games
 * [GamesMega](https://gamesmega.net/) - Games / ROMs
@@ -1632,10 +1633,13 @@
 * [dyndns](http://fina.dyndns.tv/) - Movies / TV
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation
 * [Descarga Cine Clasico](https://descargacineclasico.net/) - Classical Movies
-* [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV
 * [RetroCanal](https://retrocanal.net/) - Classical Movies / TV
 * [DCC](https://cineclasicodcc.com/) - Classical Movies / TV
 * [El desván del verdugo](https://eldesvandelverdugo.blogspot.com/) - Classical Movies
+* [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV / ED2K Links
+* [RebeldeMule](https://www.rebeldemule.org/) - Movies / Classics / TV / Documentaries / Reading / ED2K Links / [Telegram](https://telegram.me/rebeldemule)
+* [exploradoresp2p](http://exploradoresp2p.com/) - Movies / Classics / TV / Documentaries / ED2K Links
+* [Hispashare](https://www.hispashare.club/) - Movies / Classics / TV / Documentaries / ED2K Links
 * [Descargar videos de la tele](https://eljaviero.com/descargarvideosdelatele/) - TV
 * [Anime-ESP](https://anime-esp.com/) - Anime
 * [ddl.ice](https://ddl.ice-blue.workers.dev/0:/) - Anime
@@ -1645,7 +1649,6 @@
 * [Artistapirata](https://www.artistapirata.com/) - Software
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/) - Software / Movies / TV
 * [MuchosPortables](https://www.muchosportables.com/) - Portable Software
-* [exploradoresp2p](http://exploradoresp2p.com/) - Movies / TV / Documentaries / ED2K Links
 * [VictorRaulRR](https://victorraulrr.info/) - Modded APKs
 * [Androidlista](https://www.androidlista.com/) - Modded APKs
 * [APKilimitado](https://apkilimitado.com/) - Modded APKs
@@ -1661,7 +1664,8 @@
 * [PasateaTorrent](https://pasateatorrent.net/) - Movies / TV
 * [Descargas](https://descargas2020.net/) - Movies / TV
 * [DonTorrent](https://dontorrent.casa/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent)
-* [Tomadvix](https://tomadivx.net/) - Movies / TV
+* [Tomadivx](https://tomadivx.net/) - Movies / TV / Documentaries / Games
+* [DivxTotal](https://www.divxtotal.bz/) - Movies / TV / Software
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
 * [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries
 * [Frozen Layer](https://www.frozen-layer.com/) - Anime
@@ -1752,6 +1756,7 @@
 * [Elejandría](https://www.elejandria.com/) - Books
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
 * [librosintinta](https://www.librosintinta.in/) - PDF Search
+* [booksmedicos](https://booksmedicos.org/) - Medical Textbooks
 * [albalearning](https://albalearning.com/) - Audiobooks
 * [mangadoor](http://mangadoor.com/) - Manga
 * [TuMangaOnline ](https://lectortmo.com/) - Manga
