@@ -333,6 +333,7 @@
 * ⭐ **[Anime8](https://anime8.ru/)** - Sub / Dub
 * ⭐ **[AllAnime](https://allanime.to/)** - Sub / Dub
 * ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / [Downloader](https://github.com/ed-archer/animepahe-dlr), [2](https://github.com/KevCui/animepahe-dl)
+* ⭐ **[marin.moe](https://marin.moe)** - Sub / Dub
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
 * [AnimehHub](https://animehub.ac/) - Sub / Dub
 * [Animixplay](https://animixplay.tube/) - Sub / Dub
@@ -383,7 +384,6 @@
 * [UnliAnime](https://unlianime.to/) - Sub
 * [AnimeSuge](https://animesuge.to/) - Sub / Dub
 * [BestDubbedAnime](https://bestdubbedanime.com/) - Dub / [Discord](https://discord.com/invite/f2pHvauUPu)
-* [marin.moe](https://marin.moe) - Sub / Dub
 * [AnimeEpisodes](https://ww6.animesepisodes.com/) - Sub / Dub
 * [Crimsonfansubs](https://crimsonfansubs.com/) - Sub / [Discord](https://discord.com/invite/wnK38MjB)
 * [AnimeXin](https://animexin.info/) - Sub
