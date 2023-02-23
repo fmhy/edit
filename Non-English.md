@@ -1771,7 +1771,7 @@
 * [Elejandría](https://www.elejandria.com/) - Books
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
 * [librosintinta](https://www.librosintinta.in/) - PDF Search
-* [booksmedicos](https://booksmedicos.org) - Medical Textbooks
+* [booksmedicos](https://booksmedicos.org/) - Medical Textbooks
 * [albalearning](https://albalearning.com/) - Audiobooks
 * [mangadoor](http://mangadoor.com/) - Manga
 * [TuMangaOnline ](https://lectortmo.com/) - Manga
