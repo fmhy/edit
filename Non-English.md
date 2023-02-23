@@ -1653,7 +1653,7 @@
 * [El desván del verdugo](https://eldesvandelverdugo.blogspot.com/) - Classical Movies
 * [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV / ED2K Links
 * [RebeldeMule](https://www.rebeldemule.org/) - Movies / Classics / TV / Documentaries / Reading / ED2K Links / [Telegram](https://telegram.me/rebeldemule)
-* [exploradoresp2p](http://exploradoresp2p.com/) - Movies / TV / Documentaries / ED2K Links
+* [exploradoresp2p](http://exploradoresp2p.com/) - Movies / Classics / TV / Documentaries / ED2K Links
 * [Hispashare](https://www.hispashare.club/) - Movies / Classics / TV / Documentaries / ED2K Links
 * [Descargar videos de la tele](https://eljaviero.com/descargarvideosdelatele/) - TV
 * [Anime-ESP](https://anime-esp.com/) - Anime
