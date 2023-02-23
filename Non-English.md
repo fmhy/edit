@@ -1661,6 +1661,7 @@
 * [Artistapirata](https://www.artistapirata.com/) - Software
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/) - Software / Movies / TV
 * [MuchosPortables](https://www.muchosportables.com/) - Portable Software
+* [RebeldeMule](https://www.rebeldemule.org/) - Movies / Classics / TV / Documentaries / Reading / ED2K Links / [Telegram](https://telegram.me/rebeldemule)
 * [exploradoresp2p](http://exploradoresp2p.com/) - Movies / TV / Documentaries / ED2K Links
 * [VictorRaulRR](https://victorraulrr.info/) - Modded APKs
 * [Androidlista](https://www.androidlista.com/) - Modded APKs
