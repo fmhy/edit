@@ -1677,7 +1677,8 @@
 * [PasateaTorrent](https://pasateatorrent.net/) - Movies / TV
 * [Descargas](https://descargas2020.net/) - Movies / TV
 * [DonTorrent](https://dontorrent.casa/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent)
-* [Tomadvix](https://tomadivx.net/) - Movies / TV
+* [Tomadivx](https://tomadivx.net/) - Movies / TV
+* [DivxTotal](https://www.divxtotal.bz/) - Movies / TV / Software
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
 * [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries
 * [Frozen Layer](https://www.frozen-layer.com/) - Anime
