@@ -1648,7 +1648,7 @@
 * [dyndns](http://fina.dyndns.tv/) - Movies / TV
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation
 * [Descarga Cine Clasico](https://descargacineclasico.net/) - Classical Movies
-* [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV
+* [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV / ED2K Links
 * [RetroCanal](https://retrocanal.net/) - Classical Movies / TV
 * [DCC](https://cineclasicodcc.com/) - Classical Movies / TV
 * [El desván del verdugo](https://eldesvandelverdugo.blogspot.com/) - Classical Movies
