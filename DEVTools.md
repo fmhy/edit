@@ -1097,7 +1097,7 @@
 * [Spork](https://github.com/atek-cloud/spork) - P2P Sockets CLI / [Discord](https://discord.gg/UUCVrFYksv)
 * Vim Tools - [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Config](https://github.com/ChristianChiarulli/LunarVim) 
 * [Mitosis](https://github.com/BuilderIO/mitosis) - Auto-Compile Components
-* [Vim Plug](https://github.com/junegunn/vim-plug), [Vim Pathogen](https://github.com/tpope/vim-pathogen), [Vundle](https://github.com/VundleVim/Vundle.vim ), [Dein](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
+* [Vim Plug](https://github.com/junegunn/vim-plug), [Vim Pathogen](https://github.com/tpope/vim-pathogen), [Dein](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
 * [vim-markdown](https://github.com/plasticboy/vim-markdown) - Vim Markdown Plugin
 * [VimAwesome](https://vimawesome.com/) - Vim Plugins
 * [NeovimCraft](https://neovimcraft.com/) - Neovim Plugins
