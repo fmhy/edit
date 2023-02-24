@@ -71,7 +71,7 @@
 * [DogSheep](https://dogsheep.github.io/) - Personal Analytics Tools
 * [Stretchly](https://hovancik.net/stretchly), [WorkRave](https://workrave.org/), [Take a Five](http://www.takeafive.com/), [BreakMessage](https://breakmessage.com/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - Break Reminders / Trackers
 * [FigureRealm](https://www.figurerealm.com/) - Track Action Figure Collection
-* [DoINeedAJacket](https://doineedajacket.com/weather/), [Weather.com](https://weather.com/), [DogeWeather](http://dogeweather.com/), [National Weather Service](https://www.weather.gov/), [ClearOutside](https://clearoutside.com/), [ForcastAdvisor](https://www.forecastadvisor.com/) or [wttr](https://wttr.in/) - Weather Reports
+* [DoINeedAJacket](https://doineedajacket.com/weather/), [Weather.com](https://weather.com/), [DogeWeather](http://dogeweather.com/), [National Weather Service](https://www.weather.gov/), [ClearOutside](https://clearoutside.com/), [ForcastAdvisor](https://www.forecastadvisor.com/), [Weather Underground](https://www.wunderground.com/) or [wttr](https://wttr.in/) - Weather Reports
 * [IEMBot](https://weather.im/iembot/) - Weather Bot Monitor
 * [World Weather Online](https://www.worldweatheronline.com/) - Historical Weather Reports
 * [Cricket Convert](https://www.weather.gov/epz/wxcalc_cricketconvert) - Estimate Temperature via Cricket Chirps
@@ -79,7 +79,7 @@
 * [Elevation](https://tikolu.net/elevation/) - Find Current Elevation
 * [BreezoMeter](https://www.breezometer.com/) - Air Quality Reports
 * [RTL-SDR](https://gist.github.com/fasiha/c123a9c6b6c78df7597bb45e0fed808f) - DIY FAA & EASA Satellite Feeds / Transponder
-* [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/), [BestRandoms](https://www.bestrandoms.com/), [Randommer](https://randommer.io/), [GeneratorFun](https://generatorfun.com/), [Springhole](https://www.springhole.net/writing_roleplaying_randomators/index.html), [Wiizard Generator](https://wiizard-generator.neocities.org/) or [Random Lists](https://www.randomlists.com/) - Random Generators
+* [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/), [BestRandoms](https://www.bestrandoms.com/), [Randommer](https://randommer.io/), [GeneratorFun](https://generatorfun.com/), [Springhole](https://www.springhole.net/writing_roleplaying_randomators/index.html), [Wiizard Generator](https://wiizard-generator.neocities.org/), [randomix](https://github.com/m-i-n-a-r/randomix) or [Random Lists](https://www.randomlists.com/) - Random Generators
 * [Score Count](https://scorecount.com/) - Online Sports Scoreboards
 * [Wheel Decide](https://wheeldecide.com/), [PickerWheel](https://pickerwheel.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers
 * [Poll Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_poll_sites) - Poll Creators
@@ -120,8 +120,9 @@
 * [WebQR](https://www.webqr.com/) - QR Code Scanner
 * [QR Code Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qr_code_generators) - Generate QR Codes
 * [findhelp.org](https://www.findhelp.org/) - Find Assistive Programs
-* [/r/Assistance](https://www.reddit.com/r/Assistance/), [/r/borrow](https://www.reddit.com/r/borrow/), [/r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) or [/r/Homeless](https://www.reddit.com/r/homeless/) - Assistance & Donation Subreddits
-* [CharityNavigator](https://www.charitynavigator.org/) - Charity Ratings and Donor Resources
+* [/r/Assistance](https://www.reddit.com/r/Assistance/), [/r/borrow](https://www.reddit.com/r/borrow/), [/r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) or [/r/Homeless](https://www.reddit.com/r/homeless/) - Assistance / Donation Subreddits
+* [CharityNavigator](https://www.charitynavigator.org/) or [GiveWell](https://www.givewell.org) - Charity Ratings and Donor Resources
+* [TinyKitten](https://tinykittens.com/) - Kitten Rescue / Donation
 
 ***
 
@@ -151,7 +152,7 @@
 * [docz](https://www.docz.site/) - Write and Publish Interactive Documentation
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
 * [Calculist](https://calculist.io/) - Note Taking for Problem Solving
-* [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [App linked](https://uselinked.com/) / [GitHub](https://github.com/lostdesign/linked), [Jotterbit](https://jotterbit.com/), [Gemlog](https://gemlog.blue/), [jrnl.sh](https://jrnl.sh/) or [journal-cli](https://v1.journalcli.app/) - Journal Apps
+* [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [App linked](https://uselinked.com/) / [GitHub](https://github.com/lostdesign/linked), [Jotterbit](https://jotterbit.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Gemlog](https://gemlog.blue/), [jrnl.sh](https://jrnl.sh/) or [journal-cli](https://v1.journalcli.app/) - Journal Apps
 * [Here and Now](https://here-and-now.glitch.me/) - Daily Reflections Journal
 * [YearCompass](https://yearcompass.com/) - New Years Resolution Booklet
 * [Detexify](http://detexify.kirelabs.org/classify.html) - Handwritten LaTeX Symbol Recognition
@@ -239,6 +240,7 @@
 * [AnagramAssistant](https://keitharm.me/projects/anagramAssistant/) - Anagram Tool 
 * [Just Not Sorry](https://chrome.google.com/webstore/detail/just-not-sorry-the-gmail/fmegmibednnlgojepmidhlhpjbppmlci) - Undermining Word Detection
 * [Character / Word Counters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_character_.2F_word_counters) - Character / Word Counters
+* [Chinese Text Analyzer](https://dimusic.github.io/chinese-text-analyzer/) - Chinese Character / Word Counter
 * [Gramma](https://caderek.github.io/gramma/) - Command Line Grammar Checker
 * [R2bEEaton's Phonetic Reverser](https://spea.cc/backwards/) or [TextReverse](https://www.textreverse.com/) - Reverse Text 
 * [UpsideDown Text](https://www.upsidedowntext.com/) - Generate Upside Down Text
@@ -246,10 +248,10 @@
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursive Search Tool
 * [Textify](https://ramensoftware.com/textify) - Copy Text from Any Dialog
 * [Unicode Font Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_unicode_font_generators) - Generate Typed Text Fonts
-* [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/), [Snskey](https://snskeyboard.com/), [Unilist](https://unilist.raphaelbastide.com/), [Character Map](https://github.com/character-map-uwp/Character-Map-UWP), [Alt Codes](https://alt-codes.net/) or [Cool Symbol](https://coolsymbol.com/) - Copy & Paste Unicode Characters
+* [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/), [Snskey](https://snskeyboard.com/), [Unilist](https://unilist.raphaelbastide.com/), [Character Map](https://github.com/character-map-uwp/Character-Map-UWP), [Alt Codes](https://alt-codes.net/), [Unifoundry](http://unifoundry.com/) or [Cool Symbol](https://coolsymbol.com/) - Copy & Paste Unicode Characters
 * [BlankText](https://blanktext.net/) - Copy / Paste Blank Spaces 
 * [Donger List](http://dongerlist.com/) or [FastEmoji](https://www.fastemoji.com/) - 600+ Unicode Emojis
-* [Japanese emoji copy and paste](https://japaneseemojicopyandpaste.com/) - Lenny Face / Japanese Emoticons
+* [Japanese emoji copy and paste](https://japaneseemojicopyandpaste.com/) or [Kaomoji](http://kaomoji.online/en/) - Lenny Face / Japanese Emoticons
 * [Emotes Everywhere](https://kellphy.com/projects/kee.html), [GenieEmoji](https://github.com/virejdasani/Geniemoji), [winMoji](https://www.winmoji.com/) or [Geniemoji](https://virejdasani.github.io/Geniemoji/) - Emoji Managers
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party Parrot Emojis
@@ -349,8 +351,7 @@
 * [Avidemux](http://fixounet.free.fr/avidemux/) - Cut / Filter / Encode
 * [Dovi Tool](https://github.com/quietvoid/dovi_tool) - Dolby Vision Tool
 * [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
-* [vidcutter](https://github.com/ozmartian/vidcutter) - Cut Videos 
-* [ShortApp](https://shortsapp.com/) - Cut Video / Audio into Shorts
+* [ShortApp](https://shortsapp.com/), [mpv-cut](https://github.com/f0e/mpv-cut), [vidcutter](https://github.com/ozmartian/vidcutter), [The Trimmer Bot](https://t.me/The_Trimmer_bot) - Cut / Trim Videos 
 * [Crop Video](https://crop-video.com/) - Crop Videos
 * [WeGreyScale](https://www.wegrayscale.com/) - Greyscale Videos / Images
 * [Gyroflow](https://gyroflow.xyz/) - Video Stabilization / [GitHub](https://github.com/gyroflow/gyroflow)
@@ -574,7 +575,7 @@
 * [SampleBrain](https://gitlab.com/then-try-this/samplebrain) - Sample Mixer
 * [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - Pop Song Sample Mixer
 * [WubMachine](https://the.wubmachine.com/) - Create DubstepVersions of Songs
-* [Wolfram Tones](https://tones.wolfram.com/), [audio visual generator](https://fredericbriolet.com/avg/) or [Jingle](https://aidn.jp/jingle/) - Song Generators
+* [Wolfram Tones](https://tones.wolfram.com/), [audio visual generator](https://fredericbriolet.com/avg/), [Fake Music Generator](https://www.fakemusicgenerator.com/), [Jingle](https://aidn.jp/jingle/) or [Riffusion](https://www.riffusion.com/) - Computer Generated Music
 * [CSound](https://csound.com/) - Music Computing System
 * [GoAudio](https://github.com/DylanMeeus/GoAudio) - Audio Processing Library 
 * [Helio](https://helio.fm/) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
@@ -583,7 +584,6 @@
 * [Clyp](https://clyp.it/), [Audio Recording](https://codepen.io/eddch/full/ZMOjPL), [Vocaroo](https://vocaroo.com/) or [Vocaroo](https://www.vocaroo.com/), [VoiceSpice](https://voicespice.com/) or [Reverb Record](https://record.reverb.chat/) - Online Audio Recorder 
 * [MP3Smaller](https://www.mp3smaller.com/) - MP3 Compressor 
 * [AudioTrimmer](https://audiotrimmer.com/) - Online Audio Cutters
-* [The Trimmer Bot](https://t.me/The_Trimmer_bot) - Video Trimmer Telegram Bot
 * [ShortApp](https://shortsapp.com/) - Cut Video / Audio into Shorts 
 * [MP3CutterPro](https://mp3cutterpro.com/), [Flacon](https://flacon.github.io/) or [SongDonkey](https://songdonkey.ai/) - Audio Track Splitter 
 * [ISSE](http://isse.sourceforge.net/) - Source Separation Editor
@@ -706,6 +706,7 @@
 * [LeanTime](https://leantime.io/) - Project / Delivery Manager
 * [namelix](https://namelix.com/) or [looka](https://looka.com/business-name-generator) - Business Name Generator
 * [Business Card Generator](https://business-card-generator.vercel.app/) - Generate Business Cards 
+* [BS Generator](https://www.atrixnet.com/bs-generator.html) - Corporate Phrase Generator
 * [learn-to-cloud](https://learntocloud.guide/) - Cloud Computing Fundamentals / [GitHub](https://github.com/learntocloud/learn-to-cloud)
 * [Cyberseek](https://www.cyberseek.org/index.html) - Cybersecurity Job Market Info
 * [Candor](https://candor.co/hiring-freezes/) - Hiring Freezes
@@ -727,7 +728,7 @@
 * [9Tut](https://www.9tut.com/) - CCNA Certification Training
 * [Statista](https://statista.com/) - Market Statistic Search
 * [GetFreeIMEBooks](https://www.getfreeimebooks.com/) - Digital Marketing Resources
-* [Systeme](https://systeme.io/) - Marketing Tools
+* [Systeme](https://systeme.io/) or [SendPulse](https://sendpulse.com/) - Marketing Tools
 * [HLDMSIYS?](http://howlongdoesmarijuanastayinyoursystem.net/) - Drug Effect Duration / Testing Information
 * [Anti Money Laundering Toolbox](https://bin.disroot.org/?ed25a979891da67b#BffjWKHJNYTA1JdrWz9jpy5opjzncubeKFc1pBuptxdW) - Prevent Money Laundering / [AML Laws](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
 * [HomeBank](http://homebank.free.fr/), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://www.moneymanagerex.org/), [Ledger](https://www.ledger-cli.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa), [My Expenses](https://f-droid.org/packages/org.totschnig.myexpenses/) or [Sushi](https://github.com/jerameel/sushi) - Finance Managers
@@ -799,9 +800,10 @@
 * [Rescan](https://rescan.io/) - Find Out Technologies Used to Build Any Site
 * [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - Archive, Scrape & Crawl Sites
 * [OutWit](https://www.outwit.com/) - Scrape / Organize Website Data
+* [Irchiver](https://irchiver.com/) - Automatic Web Browser Screenshots
 * [WaybackShot](https://github.com/sam5epi0l/waybackshot) - Retrieve Site Screenshots via Wayback Machine 
 * [WebMailExtractor](https://www.webemailextractor.com/#trynow) - Extract Emails / Phone #s from Webpages
-* [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring), [Sken.io](https://www.sken.io/), [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/) or [FollowThatPage](https://followthatpage.com/) - Page Change Detection / Notification 
+* [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring), [Sken.io](https://www.sken.io/), [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [obzrv](https://obzrv.it/) or [FollowThatPage](https://followthatpage.com/) - Page Change Detection / Notification 
 * [CertAlert](https://certalert.net/) - Alerts you when a TLS/SSL Certificate Expires 
 * [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - Check which IPFS Gateways are Online
 * [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
@@ -932,7 +934,7 @@
 
 ## ▷ Browsers
 
-* ⭐ **[Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers) - Normal Web Browsers
+* ⭐ **[Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers), [3](https://avoidthehack.com/util/browser-comparison) - Normal Web Browsers
 * ⭐ **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - Privacy Focused Browsers 
 * ⭐ **[Lightweight Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_lightweight_web_browsers)** - Lightweight Web Browsers
 * ⭐ **[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_extensions) / [UserScripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_userscripts)** 
@@ -1121,6 +1123,7 @@
 * [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
 * [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
 * [offf.to](https://offf.to/) - Short Links via Browser
+* [ShortShare](https://shortshare.app/) - Short Link App
 * [ThisDay](https://thisday.link/) or [BR3F](https://www.br3f.com/) - Temporary Short Links
 * [Anonymiz](https://anonymiz.com/shorten-url) - Anonymous URLs - `anonymiz.com/vwiq`
 * [Anon.to](https://anon.to/) - Anonymous URLs - `anon.to/7SWqpG`
@@ -1623,7 +1626,8 @@ Twitch Stream Tracker
 * [Trends Map](https://www.trendsmap.com/), [Trends24](https://trends24.live/) or [Twitter Trends](https://twitter-trends.vercel.app/) - Trending Twitter Hashtags / Topics
 * [Tweeplers](https://www.tweeplers.com/) - Trending Twitter Users
 * [TweetMap](https://www.omnisci.com/demos/tweetmap) - Trending Tweet Map
-* [Twitter Linker](https://twitterlinker.vercel.app/) or [Twitter Images](https://twitter-images.vercel.app/) - Generate Twitter Card for Your Links
+* [Twitter Linker](https://twitterlinker.vercel.app/) or [Twitter Images](https://twitter-images.vercel.app/) - Generate Twitter Card for Your 
+* [Relink](https://www.relink.page/) - Fix Twitter Link Images
 * [OneMillionTweetMap](https://onemilliontweetmap.com/) or [TwitterNano](https://www.twitternano.com/) - Real-Time Tweet Map 
 * [Twitter Matrix](https://konard.github.io/twittermatrix/messages.html) - Live Tweet Matrix Animation
 * [All My Tweets](https://www.allmytweets.net/connect/) - View All Tweets
@@ -1770,7 +1774,7 @@ Twitch Stream Tracker
 * [SARDU](https://www.sarducd.it/) - Create Recovery USB Flash Drive or Disk
 * [MTPDrive](https://www.mtpdrive.com/index.html) - MPT Device Drive Mapping
 * [rEFind](http://www.rodsbooks.com/refind/) - Boot Manager
-* [balenaEtcher](https://balena.io/etcher) - Flash OS Image SD / USB
+* [balenaEtcher](https://balena.io/etcher) - Flash OS Image SD / USB / [Mobile](https://etchdroid.depau.eu/) 
 * [InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB) - Install Windows without USB
 * [NTLite](https://www.ntlite.com/), [WinReducer](https://www.winreducer.net/) or [MSMG Toolkit](https://msmgtoolkit.in/?i=1) - Custom ISO Creator
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloader / [Config](https://mackie100projects.altervista.org/)
@@ -1910,6 +1914,7 @@ Twitch Stream Tracker
 * [The Printliminator](https://github.com/CSS-Tricks/The-Printliminator) - Print Formatting Tool
 * [Cronos](https://crono.app/) - Desktop Mobile Notifications
 * [BurntToast](https://github.com/Windos/BurntToast) - Create and display Toast Notifications
+* [Leon](https://getleon.ai/) - AI Assistant
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) or [Sepia](https://sepia-framework.github.io/) - Voice Assistant
 * [Jarvis](https://acwtechnologies.co.uk/software/jarvis-lite) - Voice Commands
 * [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client), [Mycroft](https://mycroft.ai/) or [Home Assistant](https://www.home-assistant.io/) - Home Assistant Client
@@ -2239,7 +2244,7 @@ Twitch Stream Tracker
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
 * [Recursive GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) or [GoIndex-Downloader](https://github.com/piyush2947/) - GoIndex to GDrive Downloader
 * [GDriveSearcherBot](https://github.com/TheHamkerCat/GdriveSearcherBot) - GDrive Search Bot
-* [gd-utils](https://github.com/roshanconnor123/gd-utils) / [2](https://nenokkadine.github.io/GD-Utils/) or [Bypass-GDrive](https://yuudrive.me/tools/bypass-gdrive) - Google Drive Limit Bypass
+* [gd-utils](https://github.com/roshanconnor123/gd-utils) / [2](https://nenokkadine.github.io/GD-Utils/) - Google Drive Limit Bypass
 * [Google Service Accounts](https://github.com/TheCaduceus/CloneBot_V2#-service-accounts), [2](https://teletype.in/@blooem/sa) - How-to Create Google Service Accounts
 * [Generate-Service-Accounts](https://github.com/Telestosatt/Generate-Service-Accounts) - Google Service Account Generator
 * [G-Index](https://github.com/LeeluPradhan/G-Index), [Zyndex](https://zyndex.tk/), [goindex](https://github.com/alx-xlx/goindex) / [Extended](https://github.com/cheems/goindex-extended) / [Themes](https://install.kenci.workers.dev/), [GDI](https://github.com/anymeofu/GDI), [GDIndex](https://github.com/maple3142/GDIndex), [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) or [libDrive](https://github.com/libDrive/heroku) - Google Drive Indexers
