@@ -56,9 +56,9 @@
 * [Leon](https://f-droid.org/packages/com.svenjacobs.app.leon/) - Remove URL Tracking / [GitHub](https://github.com/svenjacobs/leon)
 * [Stealth](https://gitlab.com/cosmosapps/stealth) - Privacy-Based Reddit Frontend
 * [XPrivacyLua](https://lua.xprivacy.eu/) / [GitHub](https://github.com/M66B/XPrivacyLua/) - Privacy Manager
-* [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard), [AppWarden](https://gitlab.com/AuroraOSS/AppWarden) or [TrackerControl](https://trackercontrol.org/) - App Permissions Tracker
+* [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard), [AppWarden](https://gitlab.com/AuroraOSS/AppWarden), [Permission Pilot](https://github.com/d4rken-org/permission-pilot) or [TrackerControl](https://trackercontrol.org/) - App Permission Managers
 * [Exodus](https://reports.exodus-privacy.eu.org/en/), [TrackerControl](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) or [HideDroid](https://github.com/Mobile-IoT-Security-Lab/HideDroid) - Android App Tracker / Permission Index / [APK](https://github.com/Exodus-Privacy/exodus-android-app)
-* [LibChecker](https://github.com/zhaobozhen/LibChecker) - View App Third-Party Libraries
+* [LibChecker](https://github.com/LibChecker/LibChecker) - View App Third-Party Libraries
 * [OSS Release Tracker](https://github.com/jroddev/android-oss-release-tracker) - Open Source App Update Tracker
 * [Sapio](https://github.com/jonathanklee/Sapio) - Scan Apps for Google Dependency
 * [NetGuard](https://www.netguard.me/) - Block Internet Access Per App 
@@ -119,7 +119,7 @@
 * [Amarok Hider](https://github.com/deltazefiro/Amarok-Hider/blob/main/README.md) - Hide Files / Apps
 * [Extirpater](https://gitlab.com/divested-mobile/extirpater) - Make Deleted Files Irrecoverable
 * [PrivacyBlur](https://privacyblur.app/) - Blur Sensitive Parts of Photos / [GitHub](https://github.com/MATHEMA-GmbH/privacyblur)
-* [Scrambled Exif](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif) - Remove Image Metadata
+* [Scrambled Exif](https://f-droid.org/packages/com.jarsilio.android.scrambledeggsif) or [exif-eraser](https://github.com/Tommy-Geenexus/exif-eraser) - Remove Image Metadata
 
 ***
 
@@ -174,7 +174,8 @@
 * [W10M Group](https://w10mgroup.github.io/) - Mobile Windows Tech Support
 * [Maemo](https://talk.maemo.org/) - Maemo OS Discussion / [Wiki](https://wiki.maemo.org/) / [Telegram](https://t.me/maemomeego), [2](https://t.me/meegoosinternational)
 * [SymbianOS](https://t.me/symbianos) - Symbian OS Discussion
-* [VMOS](https://www.vmos.com/) or [x8sb](https://x8sb.com/) - Android on Android Virtual MachineS
+* [VMOS](https://www.vmos.com/) or [x8sb](https://x8sb.com/) - Android on Android Virtual Machines
+* [EtchDroid](https://etchdroid.depau.eu/) - Write OS Images to USB Drive
 * [Will My Phone Work?](https://willmyphonework.net/) or [FrequencyCheck](https://www.frequencycheck.com/) - Phone Carrier Support Index
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
 * [MobileSpectrum](https://mobilespectrum.org/) - Mobile Network Spectrum by Country
@@ -247,12 +248,13 @@
 * [AndrOBD](https://github.com/fr3ts0n/AndrOBD) - Android Dashboard Diagnostics
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) or [AndrOpen](https://www.andropenoffice.com/) - Office Suite
 * [Papertag](https://www.papertag.app/) - Attach Digital Content on Paper
+* [SubX](https://play.google.com/store/apps/details?id=com.alkapps.subx) or [SubscriptionManager](https://play.google.com/store/apps/details?id=de.simolation.subscriptionmanager) - Track Subscription Services
 * [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - Audio Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
 * [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistant
 * [KeyMapper](https://github.com/keymapperorg/KeyMapper) - Key Mapper
 * [openboard](https://github.com/dslul/openboard) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
-* [UnicodePad](https://github.com/Ryosuke839/UnicodePad) - Emoji / Unicode Manager
+* [UnicodePad](https://github.com/Ryosuke839/UnicodePad) or [Kaomoji](https://play.google.com/store/apps/details?id=ru.kaomoji.kaomojiapp) - Emoji / Unicode Manager
 * [KeePassDX](https://www.keepassdx.com/), [Keyspace](https://keyspace.cloud/), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - Password Managers
 * [Clipboarded](https://f-droid.org/en/packages/com.trianguloy.clipboardeditor/) or [Clipboard History](https://play.google.com/store/apps/details?id=com.rubbishcollector.clipboardhistory) - Clipboard Managers
 * [Grammarly](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_grammarly_keyboard_premium) - Grammarly Keyboard Premium 
@@ -353,6 +355,7 @@
 * [QuiverVision](https://quivervision.com/) - Augmented Reality Coloring
 * [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix) - Combine Emojis
 * [background video recorder](https://play.google.com/store/apps/details?id=com.camera.secretvideorecorder) - Record Videos in Background
+* [SmoothAction](https://play.google.com/store/apps/details?id=com.danielkorgel.SmoothActionCamSlowmo) - Slow Motion Video Recorder
 * [Nightsnap](https://t.me/nightsnap_for_android) - Snapchat Dark Mode
 * [Jitsi](https://jitsi.org/) or [IMO](http://imo.im/) - Video Chat
 * [RemoteVideoCam](https://github.com/izivkov/RemoteVideoCam) - Video Lan
@@ -388,7 +391,7 @@
 * [Better Open With](https://play.google.com/store/apps/details?id=com.aboutmycode.betteropenwith) - Improved Link Handling
 * [PDF Maker](https://play.google.com/store/apps/details?id=opofficial.pdfmaker) - PDF Creator
 * [Lagrange](https://skyjake.github.io/fdroid/repo/) or [Buran](https://github.com/Corewala/Buran) - Gemini Browsers
-* [BlueClover](https://github.com/nnuudev/BlueClover) or [Chan](https://github.com/moffatman/chan) - 4Chan Apps
+* [BlueClover](https://github.com/nnuudev/BlueClover), [Kuroba](https://github.com/K1rakishou/Kuroba-Experimental) or [Chan](https://github.com/moffatman/chan) - 4Chan Apps
 * [Flutter News](https://github.com/CoderJava/Flutter-News-App) or [Volv](https://play.google.com/store/apps/details?id=com.volvmedia.volvapp) - News Apps
 * [Hacki](https://github.com/Livinglist/Hacki) or [Glider](https://github.com/Mosc/Glider) - Hacker News
 * [ServeIt](https://github.com/many-fac3d-g0d/ServeIt) - Android HTTP Server
@@ -482,7 +485,7 @@
 * [PhoneAccount Abuse Detector](https://play.google.com/store/apps/details?id=space.linuxct.phoneaccountdetector) - Android Emergency Calling Bug Check
 * [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451), [SkyHawk](https://skyhawkrecovery.github.io/) / [GitHub](https://github.com/SHRP), [PitchBlack](https://pitchblackrecovery.com/) or [OrangeFox](https://wiki.orangefox.tech/en/home) / [GitHub](https://gitlab.com/OrangeFox/misc/appdev/app) - Custom Recovery Firmware
 * [TWRP Root](https://twrp.me/) /  [Telegram](https://t.me/samsung_twrp_root/78379) or [UnofficialTWRP](https://unofficialtwrp.com/) - TWRP Root
-* [SamFirm A.I.O​](https://forum.xda-developers.com/t/tool-samfirm-a-i-o-tools-firmware-downloader-mtp-bypass-frp.4210103/) or [Firmwareland](https://firmwareland.com/) - Firmware & FRP Bypass
+* [SamFirm A.I.O​](https://forum.xda-developers.com/t/tool-samfirm-a-i-o-tools-firmware-downloader-mtp-bypass-frp.4210103/), [samsung-frp-bypass-project](https://github.com/pubuduprasad/samsung-frp-bypass-project-) or [Firmwareland](https://firmwareland.com/) - Firmware / FRP Bypass
 * [Frida-Mobile-Scripts](https://github.com/m0bilesecurity/Frida-Mobile-Scripts) - FRIDA Mobile Scripts
 * [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) - Extract OTP Tokens
 * [Hash Droid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid) - File Hash Calculator
@@ -573,6 +576,7 @@
 # ► Android Torrenting
 
 * ⭐ **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
+* ⭐ **[Aria2App](https://github.com/devgianlu/Aria2App)** - [Screenshot](https://i.imgur.com/zA2SKAd.png)
 * ⭐ **[LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)** - [Screenshot](https://i.imgur.com/HbQZ8Hd.png)
 * ⭐ **[Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)** - [Screenshot](https://i.imgur.com/8caBvYO.png)
 * [tTorrent](https://play.google.com/store/apps/details?id=hu.tagsoft.ttorrent.lite) - [Screenshot](https://i.imgur.com/S61JgNg.png)
@@ -729,7 +733,7 @@
 
 * [Rainy Mood](https://play.google.com/store/apps/details?id=com.TailoredMusic.RainyMood), [Raining.fm](https://play.google.com/store/apps/details?id=fm.raining.rainingfm&amp;hl=en), [Rain Sounds](https://sleeprelaxapps.github.io/rainsounds/) or [RainySounds](https://rainysounds.online/) - Ambient Rain
 * [Noizio](https://play.google.com/store/apps/details?id=com.noizio&amp;hl=en_US) - Nature Sounds / Relaxation 
-* [A Soft Murmur](https://play.google.com/store/apps/details?id=com.gabemart.asoftmurmur) - Mix Ambient Sounds
+* [A Soft Murmur](https://play.google.com/store/apps/details?id=com.gabemart.asoftmurmur) or [SoundAura](https://github.com/CliffracerMerchant/SoundAura) - Mix Ambient Sounds
 * [Tide.fm](https://pics.tide.moreless.io/site/tide.apk) - Meditation / Sleep Sounds 
 * [myNoise](https://play.google.com/store/apps/details?id=com.mynoise.mynoise&amp;hl=en) - Background Noises & Interactive Soundscapes
 * [Chroma Doze](https://github.com/pmarks-net/chromadoze) - White Noise Generator
@@ -1021,6 +1025,7 @@
 * [Selvy PenScript](https://apps.apple.com/us/app/selvy-penscript/id1027637212) - Handwriting to Text Keyboard
 * [VoxRec](https://apps.apple.com/us/app/voxrec-voice-to-text-dictation/id1366603987) - Voice to Text
 * [Audoir](https://audoir.com/) - Lyric Text Editor
+* [Group Transcribe](https://apps.apple.com/us/app/group-transcribe/id1527145885) - Real Time Transcribing
 * [TranslatedLabs](https://translatedlabs.com/) - Translation Apps
 * [Scan Thing](https://apps.apple.com/us/app/scan-thing-scan-anything/id1542730895) - Scan & Digitize Anything
 * [magicplan](https://apps.apple.com/us/app/magicplan/id427424432) - AR & LiDAR Scanning
