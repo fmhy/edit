@@ -136,6 +136,7 @@
 * ⭐ **[Course Megadrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_course_megadrives)** or **[Large Collection of Useful Mega DL's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_large_collection_of_useful_mega_dl.27s)**  - Courses / Drives
 * [Course Download CSE](https://cse.google.com/cse?cx=a02efb0346a176b46) - Multi-Site Course Search
 * [Reks Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive) - Courses
+* [CourseDL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_coursedl) - Courses
 * [OpenDirectory](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_opendirectory) - Courses
 * [Revival](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_revival) - Courses
 * [HMDRIVE](https://t.me/HMDRIVE_OFFICIAL) - Courses
@@ -391,6 +392,7 @@ Simulator
 * [Candide](https://candide.com/GB/identify-plants) or [Pl@ntNet](https://identify.plantnet.org/) - Plant Identifier
 * [Get Body Smart](https://www.getbodysmart.com/) - Learn about Human Anatomy and Physiology
 * [NIH Print](https://3dprint.nih.gov/) - Biomedical Science 3D Models
+* [Glass AI](https://glass.health/ai) - Medical Diagnoses' Training AI
 * [WhyDoCatsAndDogs...?](https://whydocatsanddogs.com/) - Pet Q&A Site
 * [Backyard Chickens](https://www.backyardchickens.com/) - Chicken Raising Forum
 
@@ -451,6 +453,7 @@ Simulator
 * [Netblocks](https://netblocks.org/cost/) - Find Impact of Internet Shutdown on Economy
 * [LittleSis](https://littlesis.org/) - Business / Government Connections Data 
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
+* [Pixel Wealth](https://mkorostoff.github.io/1-pixel-wealth/) - Wealth Inequality Visualization
 * [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Information Database
 * [us_hate_crimes](https://github.com/dessalines/essays/blob/master/us_hate_crimes.md) - US Hate Crime Databsase
@@ -482,6 +485,7 @@ Simulator
 * [Pol Art Folder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pol_art_folder) - Historic European Art / Paintings
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) - Operating System / Software History / [Discord](https://discord.gg/XPz5Zm42tR)
 * [InfoMesh](http://infomesh.org/) - Web History / Info
+* [VersionMuseum](https://www.versionmuseum.com/) - Website History / Info
 * [Old Computer Museum](http://oldcomputers.net/) - Computer History / Info
 * [The HP 9845 Project](https://www.hp9845.net/) - HP 9845 Computer History
 * [Folklore](https://www.folklore.org) - Apple Computer History
@@ -788,6 +792,8 @@ Simulator
 * [Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables) - Online Periodic Tables / [App](https://jlindemann.se/homepage/atomic/)
 * [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
 * [Answers.com](https://www.answers.com/) or [Quora](https://www.quora.com/) / [Bypass](https://github.com/VoidlessVoid7/quora-plus-bypass), [2](https://redd.it/ywml2b) / [Frontend](https://github.com/zyachel/quetre) - Q&A Communities
+* [Plickers](https://get.plickers.com/) - Q&A Results App
+* [Perplexity](https://www.perplexity.ai/) - Q&A AI
 * [Edgibot](https://www.edgibot.com/), [Tutorly](https://tutorly.ai), [Caktus](https://www.caktus.ai/), [Answers Exchange](https://discord.gg/GFp9Rvr), [Get Unstuck](https://socratic.org/), [sarthaks](https://www.sarthaks.com/) or [Brainly](https://brainly.com/) - Homework Help Bots / Communities
 * [Chegg Answers](https://www.istaunch.com/how-to-get-chegg-answers-for-free/#2_Free_Chegg_Answers_by_iStaunch), [2](https://creativesavantz.com/how-to-access-chegg-solutions-for-free/), [3](https://litanswers.net/get-free-chegg-answers/), [4](https://techpanga.com/free-chegg-answer/), [5](https://trickswire.com/free-chegg-answers/), [6](https://www.rootupdate.com/free-chegg-answers/), [7](https://homeworkify.net/) - Chegg Answers
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
@@ -814,7 +820,7 @@ Simulator
 * [The SAT: Practice Tests](https://satsuite.collegeboard.org/sat/practice-preparation/practice-tests) - SAT Practice Exams
 * [SAT Reading](https://rentry.co/satreading) - Suggested SAT Reading
 * [SAT_Files_discussion](https://t.me/SAT_Files_discussion) - SAT Exam Discussion
-* [Examveda](https://www.examveda.com/) or [Aglasem](https://aglasem.com/) - Exam Practice
+* [Examveda](https://www.examveda.com/), [SaveMyExams](https://www.savemyexams.co.uk/) or [Aglasem](https://aglasem.com/) - Exam Practice
 * [MajorTests](https://www.majortests.com/) - Practice Tests
 * [CrackAP](https://www.crackap.com/) - Practice AP Exams
 * [IndiaBIX](https://www.indiabix.com/) - Aptitude Tests
@@ -855,7 +861,6 @@ Simulator
 * [Carden](https://github.com/alyssaxuu/carden) or [Awesome Anki](https://github.com/tianshanghong/awesome-anki) - Flashcard Extensions
 * [SearchifyX](https://github.com/daijro/SearchifyX) - Search Flashcards
 * [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flashcard Mobile App
-* [Plickers](https://get.plickers.com/) - Q&A Results App
 * [Wolfram Cloud](https://www.wolframcloud.com/) - Computational intelligence
 * [Matthen](https://blog.matthen.com/) - Math & Science Animations
 * [Eylenburg](https://eylenburg.github.io/) - Infographs, Maps & Papers
@@ -894,6 +899,7 @@ Simulator
 * [Kialo](https://www.kialo.com/) or [Level Point](https://levelpoint.app/) - Debates / Discussion
 * [Tabby Cat](https://github.com/TabbycatDebate/tabbycat) - Debate Tournament Tabulation Software
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/) - Learn about Logical Fallacies
+* [Debunking Skeptics](https://www.debunkingskeptics.com/) - Pseudo-Skeptical Fallacies
 * [YourBiasIs](https://yourbias.is/) - Learn about Biases
 * [LessWrong](https://www.lesswrong.com/) - Develop Rationality
 * [SkillsYouNeed](https://www.skillsyouneed.com/) or [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
@@ -906,7 +912,8 @@ Simulator
 * [TheChessWebsite](https://www.thechesswebsite.com/) - Chess Strategy / Analysis
 * [Chess Tempo](https://chesstempo.com/) - Play / Learn Chess
 * [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - Wood Working Guides & Articles
-* [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots 
+* [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
+* [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
 * [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Art cyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](http://wolfmanmuseum.org/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collections
 * [Earth 2050](https://2050.earth/) - Future Predictions
 * [Nuclear Risk Calculator](https://app.hex.tech/399c4a29-5b7f-4f70-8b53-afa8da38dd72/app/def94910-d017-4508-847c-e1189d3b6042/latest) - Calculate Risk of Nuclear War 
