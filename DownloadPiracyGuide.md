@@ -267,7 +267,6 @@
 * [FreewareStop](https://www.freewarestop.com/)
 * [LO4D](https://www.lo4d.com/)
 * [ListOfFreeWare](https://listoffreeware.com/)
-* [Downloadastro](https://en.downloadastro.com/)
 * [SnapFiles](https://www.snapfiles.com/freeware/)
 * [apponic](https://www.apponic.com/)
 * [DownloadCrew](https://www.downloadcrew.com/)
@@ -317,6 +316,7 @@
 * [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications) - Python Apps
 * [WinWorldPC](https://winworldpc.com/) - Abandonware / Operating Systems
 * [VETUSWARE](https://vetusware.com/) - Abandonware / Operating Systems / Games
+* [MS-DOS Index](http://www.lanet.lv/simtel.net/msdos/index-msdos.html) - MS-DOS Software
 * [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Self-Hosted Software Index 
 * [The Vintage Software Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_vintage_software_collection) or [SCiZE's Classic Warez Collection](https://scenelist.org/) - Retro Software
 * [Portable Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portable_apps) - Portable Apps for USB / SD / External Storage
@@ -414,6 +414,7 @@
 * [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)
 * [NZBKing](http://nzbking.com/)
+* [UsenetArchives](https://usenetarchives.com/)
 * [althub](https://althub.co.za) - Unlimited Free Trials
 * [nZEDb](https://github.com/nZEDb/nZEDb) - Self-Hosted
 * [Spotweb](https://github.com/spotweb/spotweb) - Spotnet Client
