@@ -157,7 +157,7 @@
 * [Side It](https://sideit.app/) - Side by Side Image Generator
 * [SuperDesigner](https://superdesigner.co/) - Background / Pattern Designer
 * [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [Valentina](https://gitlab.com/smart-pattern/valentina) or [Haikei](https://app.haikei.app/) - Pattern Generator
-* [Noise & Gradient](https://www.noiseandgradient.com/), [BGJar](https://bgjar.com/) or [BGGenerator](https://bggenerator.com/) - Background Generator
+* [Noise & Gradient](https://www.noiseandgradient.com/), [BGJar](https://bgjar.com/), [MeshGradient](https://meshgradient.in/) or [BGGenerator](https://bggenerator.com/) - Background / Gradient Generators
 * [stripegenerator](http://www.stripegenerator.com/) - Stripe Generator 
 * [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
 * [Flow Field](https://github.com/romellogoodman/flow-field.js) - Flow Field Generator
@@ -297,10 +297,12 @@
 
 ## ▷ Stable Diffusion
 
-* ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [AI Creation Tool Mega](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) or [SD Akashic](https://github.com/Maks-s/sd-akashic) - AI Image Generation Resources
+* ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [SD Goldmine](https://rentry.org/sdgoldmine), [AI Creation Tool Mega](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) or [SD Akashic](https://github.com/Maks-s/sd-akashic) - Stable Diffusion  Resources
 * ⭐ **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) 
 * ⭐ **Craiyon Tools** - [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk) / [Generative Engine](https://experiments.runwayml.com/generative_engine/)
 * ⭐ **[Stable Diffusion](https://github.com/Stability-AI/stablediffusion)** - [Discord](https://discord.com/invite/stablediffusion) / [Variations](https://github.com/justinpinkney/stable-diffusion)
+* [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
+* [MagicBrush](https://www.magicbru.sh/) - Transform Images
 * [Unstable Diffusion](https://discord.com/invite/unstablediffusion)
 * [Mage](https://www.mage.space/)
 * [DALL·E Flow](https://github.com/jina-ai/dalle-flow) / [Colab](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb)
@@ -308,11 +310,13 @@
 * [Midjourney](https://www.midjourney.com/)
 * [Dezgo](https://dezgo.com/)
 * [aiimag.es](https://sunija.itch.io/aiimages)
+* [CR8](https://cr8.art/)
 * [Pinegraph](https://pinegraph.com/create)
 * [Stable Diffusion Web](https://stablediffusionweb.com/)
 * [GetIMG.ai](https://getimg.ai/)
 * [PlaygroundAI](https://playgroundai.com/)
 * [StableCog](https://stablecog.com/)
+* [Uranus AI](https://uranus.ai/)
 * [Artificy](https://artificy.com/)
 * [AIImageGenerator](https://www.aiimagegenerator.org/)
 * [Dream Studio](https://beta.dreamstudio.ai/dream)
@@ -325,7 +329,7 @@
 * [NeuralBlender](https://neuralblender.com/)
 * [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/)
 * [InPainter](https://inpainter.vercel.app/paint)
-* [Stable Dreamfusion)](https://github.com/ashawkey/stable-dreamfusion)
+* [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion)
 * [Dreambooth](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)
 * [Stable Diffusion InPainting](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) / [Guide](https://rentry.org/drfar)
 * [Diffuse The Rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
