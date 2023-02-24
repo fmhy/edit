@@ -41,6 +41,7 @@
 * [Audiobooks For Soul](https://audiobooks4soul.com/)
 * [AppAudiobooks](https://appaudiobooks.com/)
 * [Litgu.ru](https://litgu.ru/)
+* [dir_dsh](https://l.cloudstream.cf/dir_dsh) - Audiobook App for [CloudStream](https://cloudstream.cf/)
 * [ListentoEnglishStory](https://www.youtube.com/c/ListentoEnglishStoryandLearnEnglishQuickly/) 
 * [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - Classic Audiobooks
 * [Storynory](https://www.storynory.com/) - Children Audio Stories
@@ -306,7 +307,7 @@
 * [TheBrickBible](https://thebrickbible.com/) - The Bible Recreated with Lego
 * [BibleEmoji](http://www.bibleemoji.com/) - Convert Bible Verses to Emojis
 * [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
-* [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) / [2](https://beta.quran.com/en) - Quran Translation
+* [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) / [2](https://beta.quran.com/en) - Quran Translation / [Mobile](https://github.com/quran/quran_android)
 * [TheIslam360](https://theislam360.com/) - Islamic Research App 
 * [English Torah](http://englishtorah.com/) - Torah Translation
 * [Halakhah](https://www.halakhah.com/) - Talmud Translation
@@ -601,6 +602,7 @@
 * [X-Files](https://doc.lagout.org/) - Tech / Programming
 * [#/g/sicp](https://g.sicp.me/books/) - Programming / Computer Science / Tech (35gb Torrent) 
 * [TeachYourselfComputerScience](https://teachyourselfcs.com/) - Computer Science Book Recommendations
+* [ChessProgramming](https://www.chessprogramming.org/) - Chess Programming Wiki
 
 ***
 
@@ -671,6 +673,7 @@
 * [OpenMD](https://openmd.com/) - Medical Journals
 * [Free Medical Journals](http://www.freemedicaljournals.com/) - Medical Journals
 * [Bioline](http://www.bioline.org.br/) - Bioscience Journals
+* [AI Reading List](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/) - AI Research Papers
 * [SSRN](https://www.ssrn.com/) - Early Stage Research Papers 
 * [Open Knowledge Maps](https://openknowledgemaps.org/) - Research Papers 
 * [Internet Archive Scholar](https://scholar.archive.org/) - Research Papers
