@@ -43,6 +43,7 @@
 * [FutureCoder](https://futurecoder.io/), [complete python developer](https://t.me/Udemy_Python_Developer), [Python Full Course](https://youtu.be/XKHEtdqhLK8) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - Python Course
 * [Modern Python 3 Bootcamp Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_modern_python_3_bootcamp_courses)
 * [Tea Press](https://greenteapress.com/wp) - Python Learning Book
+* [python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) - Python Learning Picture
 * [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) or [SpeedSheet](https://speedsheet.io/) - Python Cheat Sheet
 * [Automate The Boring Stuff](https://automatetheboringstuff.com/) - Python Automation Book
 * [VSCode.one](https://vscode.one/) or [VSCodeCanDoThat](https://www.vscodecandothat.com/) - VS Code Tutorials
@@ -218,6 +219,8 @@
 * [DevToys](https://github.com/ObuchiYuki/DevToysMac) or [DevUtils](https://devutils.app/) - Mac Dev Tools
 * [Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources) or [Open Source Design](https://opensourcedesign.net/) - Design Resource Sites
 * [Image Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools) - Image & Graphic Design Tools
+* [is-a.dev](https://www.is-a.dev/) - Developer Homepages
+* [IntroAI](https://www.introai.me/) - Generate Developer Intros
 * [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - Brand Design Tools
 * [ReverseEagle](https://forge.tedomum.net/groups/ReverseEagle/-/archived), [2](https://web.archive.org/web/20210116205638/https://developers.reverseeagle.org/) - Privacy Focused Developer Software
 * [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - Open Source Development Software
@@ -242,7 +245,7 @@
 * [daily.dev](https://daily.dev/) - Replace New Tab Page with Developer Articles
 * [Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites) - Download Icons for Projects
 * [Favicon Maker](https://formito.com/tools/favicon) or [Favicon Generator](https://www.favicon-generator.org/) - Create Favicons
-* [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - 
+* [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 * [Laws of UX](https://lawsofux.com/) - Maxims / Principles for UI Designers
 * [Dark Patterns](https://www.darkpatterns.org/) - Deceptive User Experience Examples
 * [UI Coach](https://uicoach.io/) - UI Design Challenge Generator
@@ -347,7 +350,6 @@
 * [Netron](https://github.com/lutzroeder/netron) -  Visualizer for Neural Network, Deep Learning, and Machine Learning Models 
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
 * [devSwag](https://devswag.io/) - Developer Giveaways
-* [is-a.dev](https://www.is-a.dev/) - Developer Homepages
 
 ***
 
@@ -661,6 +663,7 @@
 * [Pakkly](https://pakkly.com/) - Desktop App Deployment
 * [Dotnet Content Creators](https://github.com/matthiasjost/dotnet-content-creators) - .NET Content Creators Index
 * [Dotnet Releaser](https://github.com/xoofx/dotnet-releaser) - Automate Release of .NET Applications
+* [Cron AI](https://cron-ai.vercel.app/) - Words to Cron Expression
 * [Pencil](http://pencil.evolus.vn/) - Software Mockup Tool / [GitHub](https://github.com/evolus/pencil)
 * [GNUnet](https://gnunet.org/en/) - Software Framework
 * [shadcn](https://ui.shadcn.com/) - Software Components
