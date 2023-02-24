@@ -896,12 +896,6 @@ pass: paluch
 
 *** 
 
-#### Windows Activation
-
-`aHR0cHM6Ly9yZW50cnkuY28vV2luLUFjdGl2YXRl`
-
-*** 
-
 #### Soft Organizer
 
 `aHR0cHM6Ly93d3cuZHJvcGJveC5jb20vcy81azVwbTVmMnh3Yms3Z2Ivc29mdC1vcmdhbml6ZXItNzQ2LXNldHVwLmV4ZQ==`
@@ -1472,12 +1466,6 @@ pass: paluch
 
 ***
 
-#### itonaku
-
-`aHR0cHM6Ly9kZGwuaXRvbmFrdS54eXovMDovTW92aWVzLw==`
-
-***
-
 #### Hacked Super Mario
 
 `aHR0cDovL3d3dy5tdXNlbzhiaXRzLmVzL25lcy9ST01TL1NJTiUyMFJFUEVUSVIvTWFyaW9zJTIwQWx0ZXJuYXRpdmUv`
@@ -1662,3 +1650,9 @@ pass: paluch
 #### SAT Curriculum
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU55cmQzU1B3UUZGdTJRLWMxbDF2NmNyTGRtc1YzVGtz`
+
+***
+
+#### CourseDL
+
+`aHR0cHM6Ly93d3cuY291cnNlZGwub3JnLw==`
