@@ -102,13 +102,14 @@
 * ⭐ **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - Malware Analysis Tools / Resources
 * ⭐ **[How to Avoid Malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)** - Malware Avoidance Guide
 * ⭐ **[How to Remove Malware](https://redd.it/33evdi)** - Malware Removal Guide
-* ⭐ **[Antivirus Programs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_antivirus)** - Virus Protection & Scanning
+* ⭐ **[Guide4VirusTotal](https://rentry.org/Guide4VirusTotal)** - Virus Scan Results Guide / [Source](https://www.reddit.com/r/Piracy/comments/n62da6/comment/gx4whhz/)
+* ⭐ **[VToncolab](https://rentry.org/vtoncolab)** - Scan Files Without Downloading Them
+* ⭐ **[Antivirus Programs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_antivirus)** - Virus Protection / Scanning
+* ⭐ **[Virus File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scan_files)** - Individual File Scanners
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** or [Ultra Adware Killer](https://www.carifred.com/ultra_adware_killer/) - Anti-Adware
-* ⭐ **[Virus File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scan_files)** - Scan Files
-* ⭐ **[Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check)** - URL Scanners
+* [Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check) - URL Scanners
 * [RevealQR](https://revealqr.app/) - Scan QR Codes
 * [Security / Antivirus Multireddit](https://old.reddit.com/user/goretsky/m/security/)
-* [VToncolab](https://rentry.org/vtoncolab) - How-to Scan Files with Google Colab
 * MSRT - [x64](https://www.microsoft.com/en-us/download/details.aspx?id=9905) / [x86](https://www.microsoft.com/en-us/download/details.aspx?id=16) - Malicious Software Removal Tool
 * [WFC](https://www.binisoft.org/wfc.php), [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0), [PeerBlock](https://www.peerblock.com/), [Tinywall](https://tinywall.pados.hu/) or [GlassWire](https://www.glasswire.com/) - Firewall / Network Monitor
 * [Multi Program Block](https://sites.google.com/site/mytools4000/home/allow-block-multiple-programs-through-windows-7-firewall) - Block Multiple Programs via Windows Firewall
