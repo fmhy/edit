@@ -208,6 +208,7 @@
 * [Switch Army Knife](https://github.com/dezem/SAK) - Switch Emulator Multi-Tool
 * [Switch Mods](https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods) - Switch Game Mods
 * [EeveeSaves](https://discord.io/eeveesaves) - Switch Saves
+* [Dolphin Guide](https://github.com/shiiion/dolphin/wiki/Performance-Guide) - Dolphin Performance Guide
 * [UniversalDynamicInput]( https://github.com/Venomalia/UniversalDynamicInput) - Custom Dolphin Button Pack
 * [RPCS3 Setup Guide](https://docs.google.com/document/d/1gdjNab-CtVS97jH2diPPP5tCrpBeof9-qPIRRB9-BrU/edit) - RPCS3 Emulator Setup Guide
 * [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PSCX Development Emulator
@@ -733,6 +734,7 @@
 * [damn.dog](https://damn.dog/) - wikiHow Guessing Game
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First
 * [Gearoid Pokemon](https://gearoid.me/pokemon/) - Pokemon Guessing Game
+* [SusAI](https://susai.io/) - AI vs Real Art Guessing Game
 
 ***
 
