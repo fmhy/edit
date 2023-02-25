@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/xTRnuSU.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/ATbZd5O.png)** - For mobile users
 
 ***
 ***
@@ -288,7 +288,7 @@
 * [StageDork](http://stagedork.com/), [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
 * [GlobalShakespeares](https://globalshakespeares.mit.edu/) - Shakespeare Performance Recordings
 * [Rental Media](https://rentalmedia.neocities.org/index.html) - Free DVD Rentals
-* [SidePlusLeaks](https://sideplusleaks.com/), [Titan The Pirate](https://titan-the-pirate.com/) - Sidemen Content  / [App](https://pixeldrain.com/u/PodC9xL2)
+* [SidePlusLeaks](https://sideplusleaks.com/) or [Titan The Pirate](https://titan-the-pirate.com/) - Sidemen Content  / [App](https://pixeldrain.com/u/PodC9xL2)
 * [Unus Annus](https://archive.org/details/unus-annus) - Unus Annus Archive
 * [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/), [2](https://github.com/joric/bandersnatch) - Interactive player for Black Mirror: Bandersnatch
 * [ListenToAMovie](http://listentoamovie.com/) - Listen to Movies
@@ -600,6 +600,32 @@
 
 ***
 
+## ▷ Smart TV / Firestick
+
+* ⭐ **[Smart TV Guide](https://redd.it/xa0aya)** - Smart TV Piracy Guide
+* ⭐ **[Android TV Guide](https://www.androidtv-guide.com/)** - Android TV Piracy Guide / [Spreadsheet](https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/)
+* ⭐ **[Firestick Tricks](https://www.firesticktricks.com/)** - Firestick Jailbreak Guide / [Loader](https://github.com/esc0rtd3w/firestick-loader)
+* [Android TV Mod](https://t.me/androidtvmod) - Android TV / Fire TV / Fire Stick / Mods / Telegram
+* [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Smart TV Ads
+* [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) or [TV Bro](https://play.google.com/store/apps/details?id=com.phlox.tvwebbrowser) - Ad Free Android TV Browsers
+* [SmartTubeNext](https://smartyoutubetv.github.io/) - Ad Free Android TV YouTube Player / [GitHub](https://github.com/yuliskov/SmartTubeNext)
+* [Android TV Spotify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_android_tv_spotify) - Android TV Spotify Client
+* [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV
+* [S0undTV](https://github.com/S0und/S0undTV) - Android TV Twitch Player
+* [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - Smart TV Twitch Player
+* [Go2TV](https://github.com/alexballas/go2tv) - Cast to UPnP/DLNA Renderers / Smart TVs
+* [hifi2007reviews](https://hifi2007reviews.com/) - IPTV / Firestick APKs
+* [Smart IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) - IPTV Players for Smart TVs
+* [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) or [AllCast](https://play.google.com/store/apps/details?id=com.koushikdutta.cast) - Send Files to Android TV
+* [Apps2Fire](https://play.google.com/store/apps/details?id=mobi.koni.appstofiretv) - Upload Apps to FireTV
+* [FLauncher](https://play.google.com/store/apps/details?id=me.efesser.flauncher) - Android TV Launcher / [GitLab](https://gitlab.com/etienn01/flauncher)
+* [RootMyTV](https://github.com/RootMyTV/RootMyTV.github.io) - LG WebOS TV Root
+* [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream Media from iOS to Smart TV
+* [Zank Remote](https://apps.apple.com/kr/app/zank-remote-for-android-tv-box/id1567602430?1=en) - Control Android TV via iOS
+* [Blackb0x](https://github.com/NSSpiral/Blackb0x) - Apple TV Jailbreaking
+
+***
+
 # ► [Android Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_streaming)
 
 ***
@@ -879,31 +905,6 @@
 ***
 
 ## ▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_torrenting)
-
-***
-
-# ► Smart TV / Firestick
-
-* ⭐ **[Smart TV Piracy](https://redd.it/xa0aya)** - Smart TV Piracy Guide
-* [Firestick Tricks](https://www.firesticktricks.com/) - Firestick Jailbreak Guide / [Loader](https://github.com/esc0rtd3w/firestick-loader)
-* [Android TV Mod](https://t.me/androidtvmod) - Android TV / Fire TV / Fire Stick / Mods / Telegram
-* [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Smart TV Ads
-* [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) or [TV Bro](https://play.google.com/store/apps/details?id=com.phlox.tvwebbrowser) - Ad Free Android TV Browsers
-* [SmartTubeNext](https://smartyoutubetv.github.io/) - Ad Free Android TV YouTube Player / [GitHub](https://github.com/yuliskov/SmartTubeNext)
-* [Android TV Spotify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_android_tv_spotify) - Android TV Spotify Client
-* [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV
-* [S0undTV](https://github.com/S0und/S0undTV) - Android TV Twitch Player
-* [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - Smart TV Twitch Player
-* [Go2TV](https://github.com/alexballas/go2tv) - Cast to UPnP/DLNA Renderers / Smart TVs
-* [hifi2007reviews](https://hifi2007reviews.com/) - IPTV / Firestick APKs
-* [Smart IPTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) - IPTV Players for Smart TVs
-* [Send Files to TV](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) or [AllCast](https://play.google.com/store/apps/details?id=com.koushikdutta.cast) - Send Files to Android TV
-* [Apps2Fire](https://play.google.com/store/apps/details?id=mobi.koni.appstofiretv) - Upload Apps to FireTV
-* [FLauncher](https://play.google.com/store/apps/details?id=me.efesser.flauncher) - Android TV Launcher / [GitLab](https://gitlab.com/etienn01/flauncher)
-* [RootMyTV](https://github.com/RootMyTV/RootMyTV.github.io) - LG WebOS TV Root
-* [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream Media from iOS to Smart TV
-* [Zank Remote](https://apps.apple.com/kr/app/zank-remote-for-android-tv-box/id1567602430?1=en) - Control Android TV via iOS
-* [Blackb0x](https://github.com/NSSpiral/Blackb0x) - Apple TV Jailbreaking
 
 ***
 
