@@ -488,7 +488,7 @@ Simulator
 * [VersionMuseum](https://www.versionmuseum.com/) - Website History / Info
 * [Old Computer Museum](http://oldcomputers.net/) - Computer History / Info
 * [The HP 9845 Project](https://www.hp9845.net/) - HP 9845 Computer History
-* [Folklore](https://www.folklore.org) - Apple Computer History
+* [Folklore](https://www.folklore.org) or [TheAppleWiki](https://theapplewiki.com/) - Apple Computer History
 * [House creep](https://www.housecreep.com/) - Homes With A Curious or Criminal History 
 * [World Weather Online](https://www.worldweatheronline.com/) - Historical Weather Reports
 
@@ -912,6 +912,7 @@ Simulator
 * [TheChessWebsite](https://www.thechesswebsite.com/) - Chess Strategy / Analysis
 * [Chess Tempo](https://chesstempo.com/) - Play / Learn Chess
 * [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - Wood Working Guides & Articles
+* [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
 * [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Art cyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](http://wolfmanmuseum.org/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collections
@@ -919,7 +920,7 @@ Simulator
 * [Nuclear Risk Calculator](https://app.hex.tech/399c4a29-5b7f-4f70-8b53-afa8da38dd72/app/def94910-d017-4508-847c-e1189d3b6042/latest) - Calculate Risk of Nuclear War 
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
 * [Economics of The Office](http://economicsoftheoffice.com/) - Learn Economics via The Office
-* [Morse Typing Trainer](https://morse.withgoogle.com/learn/) - Morse Code Trainer 
+* [Morse Typing Trainer](https://morse.withgoogle.com/learn/), [Seiuchy](https://seiuchy.macache.com/) or [ICWO](https://lcwo.net/) - Learn / Practice Morse Code
 * [RSOE](http://hisz.rsoe.hu/) - Emergency and Disaster Information Service 
 * [Awful-A.I.](https://github.com/daviddao/awful-ai) - Negative A.I. Usage Examples
 * [M-Journal](https://m-journal.org/) - Turn Wikipedia into a Citeable Academic Paper
