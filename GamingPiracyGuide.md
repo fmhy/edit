@@ -107,7 +107,7 @@
 * ⭐ **[Recommended Emulator Specs](https://emulation.gametechwiki.com/index.php/Computer_specs)**
 * ⭐ **[Emulator Index](https://emulation.gametechwiki.com/)** or [The Emulator Zone](https://www.emulator-zone.com/)
 * ⭐ **[ROM Site Index](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)**
-* ⭐ **[Emuparadise](https://www.emuparadise.me/)** - Emulators / ROMs / [DL Script](https://gist.github.com/byzantium225/484101c7846ce18e514b7b10bf4815c2) (click "Raw" to install) / [Forum](https://www.epforums.org/)
+* ⭐ **[Emuparadise](https://www.emuparadise.me/)** - Emulators / ROMs / [Forum](https://www.epforums.org/)
 * ⭐ **[Vimms Lair](https://vimm.net/)** - Emulators / ROMs
 * ⭐ **[CrocDB](https://crocdb.net/)** - Emulators / ROMs
 * [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Multi-Site ROM Search
@@ -527,7 +527,6 @@
 * [Classic Minecraft](https://classic.minecraft.net/) - Play Classic Minecraft 
 * [Marble Blast Gold Web](https://marbleblast.vani.ga/) - Marble Blast Gold in Browser
 * [The Multiverse](https://across-multiverse.com/) - Universe Exploration Game Across
-* [Flavour Machine](https://flavourmachine.com/) - Twists to well known games
 * [The Thorp of Woodstock](https://cheerfulghost.github.io/civ-clicker/index.html) - Build a Civilization
 * [Badger Kingdom](http://www.badgerkingdom.pantomimepony.co.uk/) - Manage a group of badgers, help them survive  
 * [FSHistory](https://s-macke.github.io/FSHistory/) - Play Classic Flight Simulator 
@@ -573,7 +572,7 @@
 
 ## ▷ Multiplayer
 
-* ⭐ **[EagleCraft](https://minecraftforfreex.com/eaglercraft/)** - Multiplayer Browser Minecraft / [GitHub](https://github.com/lax1dude/eaglercraft)
+* ⭐ **[EagleCraft](https://minecraftforfreex.com/eaglercraft/)** - Multiplayer Browser Minecraft / [GitHub](https://github.com/lax1dude/eaglercraftx-1.8)
 * ⭐ **[Krunker.io](https://krunker.io/)**, [2](https://browserfps.com/) - PvP FPS / [Market Ping](https://yee.how/market-ping/) / [Client](https://client.cuffuffles.dev/) / [Optimal Settings](https://rentry.co/krunkersettings)
 * ⭐ **[DelugeRPG](https://www.delugerpg.com/)** or [Pokemon Legends](https://www.pokemongods.com/) - Pokemon MMO
 * ⭐ **[Pokemon Showdown](https://pokemonshowdown.com/)** - Online Pokemon Battles 
