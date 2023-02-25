@@ -350,6 +350,7 @@
 * [Netron](https://github.com/lutzroeder/netron) -  Visualizer for Neural Network, Deep Learning, and Machine Learning Models 
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
 * [devSwag](https://devswag.io/) - Developer Giveaways
+* [CyberChef](https://gchq.github.io/CyberChef/) - Web app for encryption, encoding, compression and data analysis
 
 ***
 
