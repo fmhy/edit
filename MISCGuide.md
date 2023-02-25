@@ -366,6 +366,7 @@
 * [Gifypet](https://gifypet.neocities.org/) - Create Your Own Cute Pet 
 * [20Q](http://www.20q.net/) or [Akinator](https://en.akinator.com/) - 20 Questions
 * [UpJoke](https://upjoke.com/) - Jokes for Any Topic
+* [BilingualJokes](https://bilingualjokes.com/) - Multi-Language Jokes
 * [DadJokeCLI](https://github.com/Anupya/dadjoke-cli) - Get Dad Jokes in Command Line
 * [Magic Crystal Ball](https://www.oproot.com/ball/) - Get Messages from Beyond
 * [60's TV Simulator](https://www.my60stv.com), [70's](https://www.my70stv.com/), [80's](https://www.my80stv.com/), [90's](https://www.my90stv.com/), [00's](https://www.my00stv.com/)
@@ -716,6 +717,7 @@
 * [SuperCook](https://supercook.com/) - Recipe Search
 * [Yummly](https://www.yummly.com/) - Recipe Search
 * [Recipeeper](https://www.recipeeper.com/) - Dietary Based Recipes
+* [Glorious Recipes](https://ck.booru.org/) - Vertical Image Recipes
 * [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - Food Image to Recipe Tool
 * [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
 * [Cooking YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cooking_youtube_channels)
@@ -996,6 +998,7 @@
 * [4G LTE Coverage](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b) - 4G LTE Coverage Map
 * [Wigle](https://wigle.net/) - 802.11 Wireless Network Map
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
+* [KCG2](https://prop.kc2g.com/) - Ionospheric Conditions Map
 * [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/) - Vegetation and Moisture Map
 * [Waqi.info](http://waqi.info/) - Air Pollution Map
 * [Light Pollution Map](https://lightpollutionmap.info/) - Light Pollution Map
