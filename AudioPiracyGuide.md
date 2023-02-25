@@ -39,7 +39,7 @@
 * ⭐ **[YouTube Music](https://music.youtube.com/)**, **[YTMP](https://ytmp.itsvg.in/)**, [Hyperpipe](https://hyperpipe.surge.sh), [InfiGroove](https://www.infigroove.com/), [Spotify One](https://spotfy.one/) or [Beatbump](https://beatbump.ml/home) / [DL Script](https://greasyfork.org/en/scripts/437656) - YouTube Browser Music
 * ⭐ **YouTube Music Tools** - [Lag Fix](https://greasyfork.org/en/scripts/432304-youtube-music-fix-performance) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
-* ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs
+* ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs / [Spotify Theme](https://userstyles.world/style/5470/soundfy-v3)
 * [ccMixter](http://ccmixter.org/) or [dig ccMixter](http://dig.ccmixter.org/dig) - Browser Music
 * [Audiomack](https://audiomack.com/) - Browser Music
 * [Slider](https://slider.kz/) or [My Free MP3](https://myfreemp3juices.cc/) - Browser Music
@@ -151,7 +151,7 @@
 * [Listen To The Clouds](http://listentothe.cloud/) or [LiveATC](https://www.liveatc.net/) - Air Traffic Radio Chatter 
 * [Broadcastify](https://www.broadcastify.com/) - Live Emergency, Aircraft & Rail Radio
 * [OpenMHz](https://openmhz.com/) - Live Police Radio
-* [morsecode.me](http://morsecode.me/) - Morse Code Radio / Communication
+* [RadioReference](https://www.radioreference.com/) or [morsecode.me](http://morsecode.me/) - Morse Code Radio / Communication
 * [Worldwide Radio](http://forums.mozillazine.org/viewtopic.php?t=3039738) - Radio Extension
 * [CaribouLite](https://github.com/cariboulabs/cariboulite) - Raspberry-Pi Tx/Rx 6GHz SDR
 * [SiriusXM](https://redd.it/txqtsx) - Free SiriusXM Guide / [Activator](https://parker-stephens.github.io/siriusxm-activator/)
@@ -251,7 +251,7 @@
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - Music Download Tool 
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Free BandCamp Downloader](https://github.com/7x11x13/free-bandcamp-downloader), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - Bandcamp Downloader
 * [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders) - Soundcloud Download Tools
-* [KeepTube](https://jaymoulin.me/me/keeptune/) - Soundcloud & Bandcamp Downloader
+* [KeepTube](https://jaymoulin.me/me/keeptune/) - Soundcloud / Bandcamp Downloader
 * [GetFVid](https://www.getfvid.com/) - Facebook Video / Audio Downloader 
 * [Musescore-downloader](https://github.com/Xmader/musescore-downloader) - Musescore Downloader
 * [Orpheus Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz) or [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz Downloaders
