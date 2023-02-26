@@ -39,12 +39,12 @@
 * [Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes) - Game Remakes
 * [awesome-ttygames](https://ligurio.github.io/awesome-ttygames/) - ASCII Terminal Games
 * [RPG Maker Games](https://rpgmaker.net/games/?name_filter=&amp;engine=&amp;status=&amp;rating=&amp;commercial=exclude&amp;sort=&amp;portal=None) - Games made via RPG Maker
-* [Steam Deck Backups](https://t.me/+0T6LcMGCdApkZTg0) - Steam Deck Games
 * [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Games
 * [MoriyaShrine](https://moriyashrine.org/) - Touhou Games
 * [GrimReaper's Scene ISO Collection](https://archive.org/details/@waffess) - ISO Collection
 * [Redump Forum](http://forum.redump.org/) - Disc Preservation Project
 * [Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers) - Get Scene Release Updates
+* [Multiplayer Fixes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_multiplayer) - Multiplayer Tools / Fixes
 
 ***
 
@@ -67,14 +67,27 @@
 
 ***
 
+## ▷ DLC Unlockers
+
+* ⭐ **[CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576)** - Steam DLC Unlocker / [Auto Setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521) / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
+* [Koalageddon](https://github.com/acidicoala/Koalageddon/) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
+* [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin and EA
+* [DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?t=104412) - DLC Unlocker for EA and Origin
+* [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker 
+* [PD2 DLC Unlocker](https://github.com/8fn/DLC-Unlocker-PD2) - DLC Unlocker for Payday 2
+* [Steam DLC Data](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837) - Find SteamDB DLC Data / [GitHub](https://github.com/Sak32009/GetDLCInfoFromSteamDB)
+
+***
+
 ## ▷ Single Games
 
 * ⭐ **[Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers)** - F2P Minecraft Clients / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_minecraft_tools) / [Beta Clients](https://betacraft.uk/) / [Bedrock / Java](https://redd.it/xj5w9m)
+* ⭐ **[CsWarzOnE](https://www.cswarzone.com/)** - Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)
+* ⭐ **[Project Era](https://erafn.glitch.me/#downloads)** or [Fortnite-Builds](https://github.com/notsamicc/Fortnite-Builds) - Previous Fortnite Seasons
 * [Minetest](https://www.minetest.net/) - Open Source Minecraft Alternative
 * [JustEmuTarkov](https://justemutarkov.eu/) - Escape from Tarkov Emulator
 * [CWA](https://www.cwaemu.com/) - Clone Wars Adventures Emulator / [Discord](https://discord.gg/a3Ugb9dzzv)
 * [NR2003](https://wildkustomcars.weebly.com/) - Modded Nascar 2003
-* [CsWarzOnE](https://www.cswarzone.com/) - Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)
 * [Unciv](https://github.com/yairm210/Unciv) - Civ V Remake
 * [OpenTTD](https://www.openttd.org/) - Transport Tycoon Remake
 * [OpenNox](https://github.com/noxworld-dev/opennox) - Nox Revival Project
@@ -171,6 +184,7 @@
 * [ROM World](http://www.romworldonline.com/) - ROMs / [How-to](https://i.imgur.com/Mqab82O.png)
 * [LegendaryRepacks](https://discord.gg/RUSNHSk) - ROMs
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - ROMs / Torrent
+* [DDL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) / [Torrent](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f ROMs
 * [Switch ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - ROMs / Switch
 * [WiiU ROMs](https://wiiuroms.net/) - ROMs / WiiU
 * [MarioCube](https://mariocube.com/) - ROMs / Wii / Gamecube
@@ -811,3 +825,5 @@
 ***
 
 # ► [Gaming Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools)
+
+Tools, Multiplayer Fixes, Game Mods, Homebrew and more
