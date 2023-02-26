@@ -960,6 +960,7 @@
 * [Taste.io](https://www.taste.io/) - Movie Recommendations
 * [Movie-Map](https://www.movie-map.com/) - Movie Recommendations
 * [GNOD](https://www.gnod.com/) - Movie Recommendations
+* [WatchNowAI](https://www.watchnowai.com/) - Movie Recommendations
 * [FilmFish](https://www.film-fish.com/) - Movie & TV Recommendations 
 * [Suggest Me Movie](https://www.suggestmemovie.com/) - Movie Recommendations
 * [agoodmovietowatch](https://agoodmovietowatch.com/) - Movie Recommendations
