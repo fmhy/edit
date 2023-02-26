@@ -251,7 +251,7 @@
 * [SubX](https://play.google.com/store/apps/details?id=com.alkapps.subx), [Billbot](https://play.google.com/store/apps/details?id=com.billbot) or [SubscriptionManager](https://play.google.com/store/apps/details?id=de.simolation.subscriptionmanager) - Track Subscription Services
 * [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - Audio Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
-* [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistant
+* [VoiceGPT](https://voicegpt.net/) or [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistants
 * [KeyMapper](https://github.com/keymapperorg/KeyMapper) - Key Mapper
 * [openboard](https://github.com/dslul/openboard) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
 * [UnicodePad](https://github.com/Ryosuke839/UnicodePad) or [Kaomoji](https://play.google.com/store/apps/details?id=ru.kaomoji.kaomojiapp) - Emoji / Unicode Manager
@@ -570,6 +570,7 @@
 * [MinecraftPE Mods](https://minecraftpe-mods.com/) - Mobile Minecraft Mods
 * [SMAPI](https://github.com/ZaneYork/SMAPI-Android-Installer) - Multiplayer Stardew Valley
 * [Pinball for Android](https://github.com/fexed/Pinball-on-Android) - Space Cadet Pinball
+* [ExitLag](https://play.google.com/store/apps/details?id=com.exitlag.gamebooster&hl=en&gl=US) - Decrease Ping
 
 ***
 
@@ -761,6 +762,7 @@
 * [VivaTV](https://www.vivatv.io/) or [TeaTV](https://teatv.net/) - Movies / TV / Anime / Chromecast
 * [Bouncy](https://github.com/WeeklyProblem/Bouncy) - Movies / TV / Anime / Chromecast
 * [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) - Movies / TV / Anime
+* [FilmPlus](https://filmplus.app/) - Movies / TV
 * [IsraTV](https://isratv.netlify.app/) - Movies / TV / Live TV
 * [MediaBox HD](https://mediaboxhd.net/) - Movies / TV / Chromecast
 * [Modded Hotstar](https://apkmody.io/apps/hotstar) - Movies / TV
