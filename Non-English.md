@@ -116,6 +116,12 @@
 * [ittefaq](https://www.ittefaq.com.bd/), [dainikamadershomoy](https://www.dainikamadershomoy.com/), [kalerkantho](https://www.kalerkantho.com/), [24livenewspaper](https://www.bangla.24livenewspaper.com/), [samakal](https://samakal.com/) or [prothomalo](https://www.prothomalo.com/) - Bangla Newspapers
 * [Quran Course](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_quran_course)
 * [IQGAW](https://t.me/IQGamer_PDFStore) - PDF library for BD HSC candidates
+* [BengaliEbooks](https://www.bengaliboi.com/) - Books
+* [GoBanglaBooks](https://www.gobanglabooks.com/) - Books
+* [FussilatBD](https://www.fussilatbd.com/) - Books / Educational
+* [AmarBooks](https://www.amarbooks.org/) - Books
+* [BanglaBooks](https://banglabooks4free.blogspot.com/) - Books
+* [BengaliEbook](https://www.worldmets.com/) - Books
 
 ## ▷ Streaming
 
