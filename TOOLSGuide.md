@@ -141,7 +141,7 @@
 * ⭐ **[Emojipedia](https://emojipedia.org/)**, [EmojiBatch](https://www.emojibatch.com/), [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/), [Words2Emoji](https://www.words2emoji.com/) or [GetEmoji](https://getemoji.com/) - Emoji Indexes
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Pastebin
 * [Scrivener](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_scrivener) - Book Writing App
-* [WriteURL](https://www.writeurl.com/) - Collaborative Text Editor
+* [WriteURL](https://www.writeurl.com/) or [Kludd](https://kludd.co/) - Collaborative Text Editors
 * [GhostText](https://ghosttext.fregante.com/) - Use Text Editor in Browser
 * [Sticky Notes](https://fdossena.com/?p=stickynotes/i.frag) - Desktop Sticky Notes
 * [ChecklistGenerator](https://checklistgenerator.co/) - Checklist Generator
@@ -202,6 +202,7 @@
 * [Translate Shell](https://www.soimort.org/translate-shell/) - Translation CLI / [GitHub](https://github.com/soimort/translate-shell)
 * [OnlineDocTranslator](https://www.onlinedoctranslator.com/en/) - Document Translator
 * [LegaleseDecoder](https://legalesedecoder.com/free-legal-document-to-plain-english-translator/) - Legal Document Translator
+* [japReader](https://github.com/marisukukise/japReader) - Japanese Text Translator
 * [LyricsTranslate](https://lyricstranslate.com/) - Lyric Translator
 * [LingoJam](https://lingojam.com/) - Create Translator
 * [Translator++](https://dreamsavior.net/translator-the-introduction/) - Automatic Translator / Editor
@@ -369,14 +370,16 @@
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
 * [OpenToonz](https://opentoonz.github.io/e/), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - Animation Tools
 * [Animaker](https://www.animaker.com/) - Animated Video Creator
+* [cg_tuts](https://t.me/cg_tuts) - CG Tutorials
 * [AnimAnon](https://rentry.org/AnimAnon) - AI Drawn Anime Guide
 * [AMV101](https://www.amv101.com/) - Animated Music Video Making Guides
 * [Blaine's Movie Maker Blog](https://movies.blainesville.com/p/wmm-60-on-windows-7.html) - Windows Movie Maker Tutorials
 * [Kurku](https://app.kurku.tech/) - Body Motion Tracking
-* [MoonRay](https://openmoonray.org/), [Unreal Engine](https://www.unrealengine.com/), [SketchUp](https://www.sketchup.com/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
+* [MoonRay](https://openmoonray.org/), [Unreal Engine](https://www.unrealengine.com/), [cgsoftbox](https://t.me/cgsoftbox), [SketchUp](https://www.sketchup.com/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
 * [Mega Scans](https://quixel.com/megascans) - 3D Scans
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
+* [cgplugdump](https://t.me/cgplugdump) - CG Software Plugins
 * [AnimeEffects](http://animeeffects.org/en/), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/), [Cavalry](https://cavalry.scenegroup.co/) or [Synfig](https://www.synfig.org/) - 2D Animation Tools
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder) 
 * [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Create Videos using Stable Diffusion
@@ -1180,6 +1183,7 @@
 * [Busca](https://github.com/afk-mcz/busca) or [Mostly Harmless](https://kerrick.github.io/Mostly-Harmless/) - Search / Post Current Tab on Reddit
 * [KarmaDecay](http://karmadecay.com/) - Reddit Reverse Image Search 
 * [Legere](https://www.microsoft.com/en-us/p/legere-for-reddit/9phjrvcskvjz), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/) or [Nuxtit](https://nuxtit.netlify.com/) - Alt Browsers / Web Clients
+* [dappradar](https://reddit.dappradar.com/) - Popular Reddit Post Tracker
 * [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466), [Unedit](https://github.com/DenverCoder1/Unedit-for-Reddit), [Unddit](https://www.unddit.com/) / [2](https://camas.unddit.com/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - View Deleted Reddit Posts
 * [ReSavr](https://www.resavr.com/) or [Unreddit](https://github.com/pauldraper/unreddit) - View Deleted Reddit Comments 
 * [rareddit](https://www.rareddit.com/), [PushShift Reddit](http://files.pushshift.io/reddit/), [Expanse](https://github.com/jc9108/expanse) or [Reddit Archive](http://www.redditarchive.com/) - Reddit Post Archive Tools 
@@ -1888,13 +1892,10 @@ Twitch Stream Tracker
 * [TilelConfier](https://github.com/Jonno12345/TileIconifier) - Start Menu Icon Tiles
 * [Recoll](https://www.lesbonscomptes.com/recoll/) or [AnyTXT](https://anytxt.net/) - Improved Windows Search / [Site Indexer](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/)
 * [Run](https://docs.microsoft.com/en-us/windows/powertoys/run) - Windows Spotlight Search
-* [DLL-Hijack-Search-Order-BOF](https://github.com/EspressoCake/DLL-Hijack-Search-Order-BOF) - DLL File Search
 * [Killer](https://github.com/ntaraujo/killer) or [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Task Managers / [Discord](https://discord.gg/MKG6qgJ964)
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - System Menus
 * [Nsudo](https://github.com/M2Team/NSudo) - System Admin Tools
 * [All Tasks Toolbar](https://winaero.com/create-all-tasks-god-mode-toolbar-windows-10/) - Create All Tasks God Mode Toolbar in Win 10 
-* [WindowsManager](https://www.eusing.com/WindowManager/WindowManager.htm), [AwesomeWM](https://awesomewm.org/), [LCARS](https://github.com/lcarsde/lcarswm) or [Compiz Fusion](http://www.compiz-fusion.org/) - Windows Managers
-* [AltSnap](https://github.com/RamonUnch/AltSnap) - Windows Dragging
 * [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features
 * [EverythingToolbar](https://github.com/stnkl/EverythingToolbar), [Hyper](https://github.com/hyperts/Hyper), [Awesome](https://github.com/nodgear/Awesome) or [Smart Taskbar](https://github.com/ChanpleCai/SmartTaskbar) - Taskbars
 * [Taskbar Groups](https://github.com/tjackenpacken/taskbar-groups) - Create Groups in Taskbar
@@ -1944,10 +1945,12 @@ Twitch Stream Tracker
 * [DisplayFusion](https://www.displayfusion.com/) or [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - Dual Monitor Tools
 * [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - Show Desktop For Only One Monitor
 * [ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - Desktop Program, Video & Webpage Pins / Program Wallpapers
-* [Window Grid / Tiling Programs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_window_tiling_programs) - Window Managers
-* [WindowTop](https://windowtop.info/) - Window Manager
-* [Windows Sizer](http://www.brianapps.net/sizer4/) - Resize & Reposition
-* [DeskPins](https://efotinis.neocities.org/deskpins/) - Always on Top Windows
+* [Window Grid / Tiling Programs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_window_tiling_programs)
+* [WindowsManager](https://www.eusing.com/WindowManager/WindowManager.htm), [AwesomeWM](https://awesomewm.org/), [LCARS](https://github.com/lcarsde/lcarswm) or [Compiz Fusion](http://www.compiz-fusion.org/) - Windows Managers
+* [United Sets](https://apps.microsoft.com/store/detail/united-sets-preview-beta/9N7CWZ3L5RWL) - Combine Apps into Single Window
+* [AltSnap](https://github.com/RamonUnch/AltSnap) - Windows Dragging
+* [Windows Sizer](http://www.brianapps.net/sizer4/) - Resize / Reposition Windows
+* [DeskPins](https://efotinis.neocities.org/deskpins/) or [WindowTop](https://windowtop.info/) - Always on Top Windows
 * [WinThumbsPreloader](https://github.com/bruhov/WinThumbsPreloader/) - Preload Thumbnails in Windows Explorer
 * [Klotures](https://gitlab.com/jkushmaul/klotures) - Desktop Icon Organizer / [Demo](https://gitlab.com/jkushmaul/klotures/raw/master/docs/KloturesDemo.webm)
 * [Windows 10's icons dedicated .dll files location](https://pastebin.com/tMiSV6WT)
@@ -1991,6 +1994,7 @@ Twitch Stream Tracker
 * [Redists](https://git.io/redists), [2](https://chse.dev/redists) - Install All Redist Files (direct x, visual c++ etc.)
 * [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
 * [DLL Downloader](http://www.dlldownloader.com/), [dll-hub](https://dll-hub.com/), [dlldump](https://dlldump.com/), [dllfile](https://dllfile.net/), [dll4free](https://dll4free.com/), [dllme](https://dllme.com/dll/files/steam_api32_dll.html) or [DLL-Files](https://www.dll-files.com/) - Windows DLL Files
+* [DLL-Hijack-Search-Order-BOF](https://github.com/EspressoCake/DLL-Hijack-Search-Order-BOF) - DLL File Search
 * [OcxDump](https://ocxdump.com/) - .ocx Files
 * [sven dpi](https://www.sven.de/dpi/) - DPI Calculator
 * [CenterOfMyScreen](https://centerofmyscreen.com/) - Find Center of Monitor
@@ -2101,7 +2105,7 @@ Twitch Stream Tracker
 * [LineStep](http://litestep.net/) - Customize Desktop Interface
 * [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script) - Windows Auto Personalization / Debloating Script
 * [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) or [Luna](https://github.com/adrianmteo/Luna) - Windows 10 Auto Dark Mode
-* [OpenRGB](https://openrgb.org/), [SignalRGB](https://www.signalrgb.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/) or [Aurora](https://github.com/antonpup/Aurora) - System Lighting Control / [GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB)
+* [OpenRGB](https://openrgb.org/), [SignalRGB](https://www.signalrgb.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/), [FireLight](https://github.com/nicolasdeory/firelight) or [Aurora](https://github.com/antonpup/Aurora) - System Lighting Control / [GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB)
 * [ShaderGlass](https://github.com/mausimus/ShaderGlass) - Custom Screen Shaders
 * [DiscordChroma](https://github.com/DELUUXE/DiscordChroma) or [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Discord System Lighting Control
 * [KeyboardVisualizer](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer) - Audio Visualizer / FX Engine for Keyboards, Mice & Accessories
@@ -2266,7 +2270,6 @@ Twitch Stream Tracker
 * [onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - Self-Hosted Directory
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4gb
 * [mf-dl](https://gitgud.io/Pyxia/mf-dl/) - Mediafire Bulk File Downloader
-* [Baidu Bypass](https://baidu.crackhub.site/) - Bypass Baidu Links / [Guide](https://baidu.crackhub.site/help)
 * [InfiniDrive](https://github.com/nicomda/InfiniDrive) - Unlimited Cloud Drive using Amazon Prime Photos
 * [Nextcloud](https://nextcloud.com/) - Safe data storage / [Unofficial Providers](https://nextcloud.com/signup/)
 * [Shared Drives Creator Website](https://github.com/MsGsuite/Shared-Drives-Creator-Website) - Create & host a Shared Drive Generator Website
