@@ -174,6 +174,7 @@
 * [CourseInDrive](https://t.me/CourseInDrive) - Courses / Telegram 
 * [Udemy_Courses_Free_Daily](https://t.me/Udemy_Courses_Free_Daily) - Courses / Telegram
 * [RedBlueHit](https://t.me/RedBlueHit) - Courses / Telegram
+* [Moneiac Course](https://t.me/moneiac_course) - Courses / Telegram
 * [learningDL](https://learningdl.net/) - Courses / Leech required 
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - Courses / Tutorials 
 * [Course Code Drive](https://ddpanda.net/code/) - Courses
