@@ -216,6 +216,7 @@
 * [Reddit Favorites](https://redditfavorites.com/), [NanoReview](https://nanoreview.net/en), [rtings](https://www.rtings.com/), [Kit.co](https://kit.co/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product / Service Reviews
 * [Chipscribe](https://chipscribe.com/) - Split Service Subscription Costs Anonymously
 * [Giftasic](https://giftastic.ai/) - Gift Idea AI
+* [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones / Prices
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
 * [NewMaxx's SSD Site](https://ssd.borecraft.com/) - SSD Buying Guide
 * [Shucks](https://shucks.top/) - External Drive Price Tracker
@@ -233,7 +234,6 @@
 * [PS Deals](https://psdeals.net/) - PlayStation Game Price Tracker
 * [BTOD](https://www.btod.com/blog/category/buying-guides/) - Office Chair Buying Guides / Reviews
 * [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker
-* [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones / Prices
 * [Pepper](https://www.pepper.com/) - Shopping Community
 * [SlyToday](https://slytoday.com/) - Price Comparison Search
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
@@ -246,7 +246,7 @@
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
 * [Search Ebay Sold](https://chrome.google.com/webstore/detail/search-ebay-sold/mhlcjbhhieanjjafbcoeclghpnjhepif) - Ebay Sold Item Search
 * [Type Hound](https://typohound.com/) - Ebay Typo Search
-* [Valuta EX](https://valuta.exchange/) - Currency Converter / [Firefox](https://addons.mozilla.org/en-US/firefox/search/?q=currency%20converter&sort=relevance&type=extension) / [Chrome](https://chrome.google.com/webstore/search/currency%20converter?hl=en&_category=extensions)
+* [Valuta EX](https://valuta.exchange/)  or [Currency World](https://currency.world/)- Currency Converters / [Firefox](https://addons.mozilla.org/en-US/firefox/search/?q=currency%20converter&sort=relevance&type=extension) / [Chrome](https://chrome.google.com/webstore/search/currency%20converter?hl=en&_category=extensions)
 * [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
 * [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wishlist Creators
 * [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Wii Shop Music on Shopping Sites
@@ -1132,6 +1132,7 @@
 * [MaisFontes](https://en.maisfontes.com/) 
 * [World of Fonts](https://w.itch.io/world-of-fonts)
 * [BestFonts](https://bestfonts.pro/)
+* [psd_fonts](https://vk.com/psd_fonts)
 * [1001 Fonts](https://www.1001fonts.com/)
 * [1001 Free Fonts](https://www.1001freefonts.com/)
 * [FontFlipper](https://fontflipper.com/) - Font Finder
@@ -1450,7 +1451,8 @@
 * [IPvFoo](https://github.com/pmarks-net/ipvfoo) - View Site IP Address
 * [Pip](https://www.getpip.com/pip-extension) - Web3 Payment Extension
 * [Fake Profile Detector](https://chrome.google.com/webstore/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc) - Detect Fake Online Profiles
-* [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - View Extension Source Code 
+* [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - View Extension Source Code
+* [EveryComment](https://everycomment.top/) - Add Comments to All Sites
 * [NicoNico SPEENYA](https://github.com/chimerast/niconico-speenya) - Presentation Style Comments
 * [Current Moon Phase](https://chrome.google.com/webstore/detail/current-moon-phase/ippnbhhbamibfpljlfmgogaondodicgi) - Current Moon Phases
 * [Nicosapo](https://github.com/yurafuca/nicosapo) - Add Features to Nico Nico
