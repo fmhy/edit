@@ -79,10 +79,7 @@
 * [Hoyolab Teyvat Interactive Map] (https://act.hoyolab.com/ys/app/interactive-map/index.html), [Mapgenie Teyvat Interactive Map] (https://mapgenie.io/genshin-impact) or [Genshin Impact Map] (https://genshin-impact-map.appsample.com/) - Genshin Impact Interactive Maps
 * [Library of Codexes](http://libraryofcodexes.com/) - Game Codex Library
 * [Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Covers for Games 
-* [SreamGridDB](https://www.steamgriddb.com/) - Custom Video Game Assets / [Discord](https://discord.com/invite/bnSVJrz)
-* [Open Game Art](https://opengameart.org/) - Game Assets / Images 
 * [The Models Resource](https://www.models-resource.com/) - Game Models
-* [The Textures Resource](https://www.textures-resource.com/) - Game Textures
 * [The Sounds Resource](https://www.sounds-resource.com/) - Game Sounds
 * [The Halo Archive](https://discord.gg/feB7RgAHBh) or [405th](https://www.405th.com/) - Halo Assets Archive
 * [Mario Mayhem](https://www.mariomayhem.com/) - Mario Fansite
@@ -185,6 +182,7 @@
 * [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
 * [Hip Tracking](https://getaughip.com/) - Augmented Hip Virtual
 * [Defacto](https://defacto2.net/) - Retro NFOs
+* [Whitescent Engine](https://apt.izzysoft.de/fdroid/index/apk/com.github.whitescent.engine) - Use Phone as Joy Stick / [GitHub](https://github.com/whitescent/Engine)
 * [Arcade Controls](http://arcadecontrols.com/arcade.htm) or [JoyStick](https://slagcoin.com/joystick.html) - DIY Arcade Controls
 
 ***
