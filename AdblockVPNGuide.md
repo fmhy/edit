@@ -231,6 +231,7 @@
 * [PeerTube](https://joinpeertube.org/), [2](https://search.joinpeertube.org/), [3](https://sepiasearch.org/) - Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)
 * [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/), [self-destruct-notes](https://github.com/dustinmoris/self-destruct-notes), [Burn.Link](https://burn.link/), [tlwsd](https://tlwsd.com/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/) or [OneTimeSecret](https://onetimesecret.com/) - Send Self-Destructing Messages
 * [xcodx.ru](https://xcodx.ru/), [Duckist](https://duckist.com/), [Steg Cloak](https://stegcloak.surge.sh/) or [spam mimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
+* [Paper Age](https://github.com/matiaskorhonen/paper-age) - Create Paper Backups of Secrets
 * [Pasteburn](https://github.com/pasteburn/pasteburn) - Self-Hosted Encrypted Pastebin
 * [How-to Buy Bitcoin Anonymously](https://coinsutra.com/buy-bitcoin-with-prepaid-card/)
 * [USBKill](https://github.com/hephaest0s/usbkill) - Anti-Forensic Kill-Switch
