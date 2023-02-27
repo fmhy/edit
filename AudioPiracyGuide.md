@@ -122,6 +122,8 @@
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Podcasts for Software Engineers
 * [CPod](https://github.com/z-------------/CPod) - Podcast App
 * [Odesli](https://odesli.co/) - Podcast Search
+* [PodText](https://podtext.ai/) - Podcast Transcript Search
+* [OpenPodcast](https://openpodcast.dev) - Podcast Analytics
 * [Drive & Listen](https://driveandlisten.herokuapp.com/) or [DrivenListen](https://drivenlisten.com/) - Radio Driving Simulator 
 * [Archive.org](https://archive.org/details/audio?&sort=-downloads&page=1) - News / Classic Radio / Podcasts
 * [Dumb Old Time Radio](http://www.dumb.com/oldtimeradio/) or [Old Time Radio](https://oldtime.radio/) - Classic Radio
@@ -178,6 +180,7 @@
 * [Lofi Music](https://lofimusic.app/) - Lo-Fi Radio
 * [Lo-Fi Player](https://lofi-players.netlify.app/) - Lo-Fi Radio
 * [Lofi Club](https://loficlub.vercel.app/) - Lo-Fi Radio
+* [Lofi Limo](http://lofi.limo/) - Lo-Fi Radio
 * [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - Create Room / Lo-Fi Player
 * [Music For Programming](http://musicforprogramming.net/) or [Wisdom Tree](https://github.com/HACKER097/wisdom-tree/) - Music for Focus
 * [Noizio](https://noiz.io/) - Ambient 
