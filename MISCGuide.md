@@ -302,7 +302,6 @@
 * [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - Turn Screen into Strobe / Mood Light
 * [Marijuana Subs](https://www.reddit.com/r/trees/wiki/entreddits_social) - Marijuana Related Subreddits
 * [Drinking Game Zone](https://drinkinggamezone.com/) - Drinking Games Encyclopedia 
-* [MakeMyCocktail](http://makemycocktail.com/), [DrinNnation](https://www.drinknation.com/bar), [CocktailBuilder](https://www.cocktailbuilder.com/), [CocktailsAndShots](https://cocktailsandshots.com/cocktail-builder/) or [MyBar](https://makemeacocktail.com/mybar/) - Cocktail Builders
 * [Drinkify](http://drinkify.org/) - Picks Drinks Based on Songs
 * [Things to Do](https://randomthingstodo.com/), [TheZen](https://thezen.zone/) or [bored.solutions](https://bored.solutions/) - Activity Suggestions
 * [Human Benchmark](https://humanbenchmark.com/) - Brain Games & Cognitive Tests
@@ -705,7 +704,7 @@
 * [DMC Cookbooks](https://archive.lib.msu.edu/DMC/cookbooks/) - Cookbooks
 * [Cook Bookshelf](https://t.me/cook_bookshelf) - Cookbooks / Telegram
 * [Southern Cookbook](https://archive.org/details/southerncookbook00lustrich/) - Cookbook Southern
-* [ChefGPT](https://www.chefgpt.xyz/) - AI Recipe Generator
+* [ChefGPT](https://www.chefgpt.xyz/) or [MeHungry](https://mehungry.app/) - AI Recipe Generators
 * [Search-22](https://search-22.com/recipe-search-tools) - Multi-Site Recipe Search
 * [SuperCook](https://www.supercook.com/) - Recipe Search
 * [MyFridgeFood](https://www.myfridgefood.com/) - Recipe Search
@@ -778,6 +777,7 @@
 * [Mac Cookie Recipe Easter Egg](https://i.imgur.com/Jc0WoCg.png) - Cookie Recipe / [How-to](https://pastebin.com/N8AyVfEf)
 * [Honey Ale](https://i.imgur.com/OvuP474.jpg) or [Honey Porter](https://i.imgur.com/6UDr7Fd.png) - The White House Brewing Recipes
 * [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee Making Guides
+* [MakeMyCocktail](http://makemycocktail.com/), [DrinNnation](https://www.drinknation.com/bar), [CocktailBuilder](https://www.cocktailbuilder.com/), [CocktailsAndShots](https://cocktailsandshots.com/cocktail-builder/) or [MyBar](https://makemeacocktail.com/mybar/) - Cocktail Builders
 * [Drinkable](https://github.com/MOIMOB/drinkable) - Create Cocktails from Home Ingredients
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes Site Index
 * [Parsnip](https://www.parsnip.ai/) - Cooking Lessons / Skill Tracking App
