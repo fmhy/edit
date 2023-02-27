@@ -355,6 +355,7 @@
 * [How Many Plants](https://howmanyplants.com/) - House Plant Information
 * [Erowid](https://www.erowid.org/) - Psychoactive Information
 * [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) - Phychonauts Wiki
+* [Shroomery](https://www.shroomery.org/) - Magic Mushroom Forum
 * [HerbologyY](https://t.me/HerbologyY) - Herbology / Telegram
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
 * [EasyPeasy](https://easypeasymethod.org/) - Painlessly Quit Pornography
@@ -504,6 +505,7 @@
 * [AirVectors](http://www.airvectors.net/) - Aircraft Wiki
 * [RationalWiki](https://rationalwiki.org/) - Pseudoscience Refutation Wiki
 * [Snopes](https://www.snopes.com/) - Urban Legends, Folklore, Misinformation
+* [STORY](https://archive.org/details/RobertMcKeeStorypdf/) - Screenwriting Principles
 * [Butterick’s Practical Typography](https://practicaltypography.com/) - Typography Guide Book
 * [Sewing8](https://t.me/sewing8) - Sewing / Pattern Making Books
 * [Robot Shop](https://community.robotshop.com/) - Robotics Forum
@@ -630,6 +632,7 @@
 * [DocDroid](https://www.google.com/search?q=site%3Adocdroid.net) - Document Search 
 * [Higher Intellect](https://preterhuman.net/) - Document Search 
 * [qDoc](https://qdoc.tips/) - Document Search
+* [Doc Search](https://parksdigital.com/doc-search/) - Document Search
 * [ReadSomethingGreat](https://www.readsomethinggreat.com/) - Internet Articles 
 * [Google Scholar](https://scholar.google.com/) - Articles
 * [Mendeley](https://www.mendeley.com/) - Articles / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/)
@@ -688,9 +691,10 @@
 * [Institute of Education Sciences](https://eric.ed.gov/) - Documents / Texts / Papers 
 * [Pandora](http://pandora.nla.gov.au/) - Australian Document Archive
 * [Parliament Archives](https://archives.parliament.uk/) - UK Parliamentary Documents
-* [EThOS](https://ethos.bl.uk/SearchResults.do) - Doctoral Theses 
-* [ndltd](http://search.ndltd.org/) - Search theses and dissertations 
+* [EThOS](https://ethos.bl.uk/SearchResults.do) - Doctoral Theses
+* [ndltd](http://search.ndltd.org/) - Search Theses and Dissertations 
 * [UBIRA eTheses](https://etheses.bham.ac.uk/) - Theses
+* [Theses.fr](https://www.theses.fr/en/accueil.jsp) - Theses
 * [oatd](https://oatd.org/) - Theses / Dissertations
 * [Shodhganga](https://shodhganga.inflibnet.ac.in/) - Indian Theses / Dissertations
 * [lolmythesis](https://lolmythesis.com/) - Summarized Theses
