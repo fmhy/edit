@@ -771,7 +771,6 @@
 * [cinemalibero](https://cinemalibero.cafe/) - Movies / TV
 * [filmsenzalimiti](https://hds.filmsenzalimiti.me/) - Movies / TV
 * [cb01](https://cb01.marketing/) - Movies
-* [cb01.rip](https://cb01.rip/) - Movies / TV
 * [euroStreaming](https://eurostreaming.quest/) - TV
 * [guardaserie](https://guardaserie.onl/) - TV
 * [filmsenzalimiti](https://filmsenzalimiti.name/) - Movies / TV
@@ -1170,7 +1169,7 @@
 * [TorrentToon](https://torrentoon.org/) - Movies / TV
 * [torrentpirata](https://torrentpirata.com/) - Movies / TV
 * [AmigosTorrents](https://amigostorrents.com/) - Movies / TV
-* [FilmesTorrentMax](https://filmestorrentmax.com.br/) - Movies / TV
+* [FilmesTorrentMax](https://filmestorrentmax.com/) - Movies / TV
 * [Legende](https://legendei.net/) - Movies / TV
 * [VacaTorrent ](https://vacatorrent.com/) - Movies / TV
 * [Torrentool](https://torrentool.org/) - Movies / TV
@@ -1199,7 +1198,6 @@
 * [RomGamesTorrent](https://romsgamestorrent.blogspot.com/) - Games
 * [MusicaTorrents](http://musicatorrents.com/) - MP3
 * [SuaMusica](https://www.suamusica.com.br/) - MP3
-* [CursoTorrent](https://www.cursostorrent.com/) - Courses
 * [Download Cursos](https://downloadcursos.top/) - Courses
 * [timaterial](https://timaterial.blogspot.com/) - Courses
 
@@ -1320,7 +1318,6 @@
 * [NeoxScans](https://neoxscans.net/) - Manga
 * [meusmangas](https://meusmangas.net/) - Manga
 * [mangazim](https://mangazim.com/) - Manga
-* [fayscans](https://fayscans.com.br/) - Manga
 * [mangasoverall](https://mangasoverall.com/) - Manga
 * [rainbowfairyscan](https://rainbowfairyscan.com/) - Manga
 * [instintomangaka](https://www.instintomangaka.com/baixar-mangas/) - Manga
@@ -1936,7 +1933,7 @@
 * [NguoiLa](https://nguoila.io/) or [CVNL](https://cvnl.app/) - Random Chat
 * [PhuDeViet](http://phudeviet.org/) - Subtitles
 * [XaBuon](https://xabuon.com/), [Xem](https://xem.vn/) - Meme
-* [GameVui](https://gamevui.vn/), [Game24h](https://game24h.vn/), [ChoiGame24](https://choigame24.com/) or [Game247](https://game247.vn/) - Browser Games
+* [GameVui](https://gamevui.vn/), [Game24h](https://game24h.vn/) or [ChoiGame24](https://choigame24.com/) - Browser Games
 * [KiTuHay](https://kituhay.com/), [Symbols](https://symbols.vn/), [KTDB](https://ktdb.vn/) or [KiTuAz](https://kituaz.com/) - Special Characters
 * [Run](https://run.vn/) or [IconFB](https://iconfb.net/) - Emojis
 * [Dafontvn](https://www.dafontvn.com/) or [FontChu](http://fontchu.com/) - Fonts
