@@ -109,7 +109,6 @@
 * [JoyToKey](https://joytokey.net/) - Controller Emulator
 * [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
 * [Mobile Gamepad](https://play.google.com/store/apps/details?id=com.mmh.mobilegamepad&hl=en&gl=US), [Ultimate Gamepad](https://m.apkpure.com/ultimate-gamepad/com.negusoft.ugamepad), [PC Remote](https://play.google.com/store/apps/details?id=com.monect.portable), [Max Joypad](http://maxjoypad.com/) or [BT Controller](https://play.google.com/store/apps/details?id=softigloo.btcontroller&hl=en&gl=US) - Use Phone as Controller
-* [PSN Update Finder](https://pandorah.org/psn/) - PS3 / PS4 Update Finder
 * [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
 * [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes
 * [Moments](https://steelseries.com/gg/moments) - Game Clip Tool
