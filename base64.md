@@ -1156,7 +1156,7 @@ pass: paluch
 
 #### Winrar Licenses
 
-`aHR0cHM6Ly9yZW50cnkuY28veDMtUmF3cg==`
+`aHR0cHM6Ly9yZW50cnkuY28veDMtUmF3cgpodHRwczovL2dpdGh1Yi5jb20vQW5lcXVpdC93aW5yYXItYWN0aXZhdG9y`
 
 ***
 
