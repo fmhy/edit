@@ -355,7 +355,7 @@
 
 * [Math and Physics Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_math_and_physics_books)
 * [Falstad](http://www.falstad.com/) - Math & Physics Apps / Simulations 
-* [Mujoco](https://github.com/deepmind/mujoco), [MyPhysicsLabs](https://myphysicslab.com/), [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
+* [Mujoco](https://github.com/deepmind/mujoco), [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
 * [PhysicsClassroom](https://www.physicsclassroom.com/) - Physics Lessons
 * [The Feynman Lectures](https://www.feynmanlectures.caltech.edu/) - Physics Lectures
 * [Physics and Maths Tutor](https://www.physicsandmathstutor.com/) - UK High School Notes & Papers
@@ -372,6 +372,7 @@
 * [SimScale](https://www.simscale.com/) or [CFDTool](https://www.cfdtool.com/) - Fluid Dynamics & Heat Transfer
 Simulator
 * [LAMMPS]https://www.lammps.org/) - Molecular Dynamics (MD) Code
+* [avogadro](https://sourceforge.net/projects/avogadro/) - Molecular Editor
 * [Simuwaerm](https://github.com/file-acomplaint/simuwaerm) - Heat Simulator
 
 ***
@@ -459,6 +460,7 @@ Simulator
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Information Database
 * [us_hate_crimes](https://github.com/dessalines/essays/blob/master/us_hate_crimes.md) - US Hate Crime Databsase
 * [myworld.vote](https://myworld.vote/) - Anonymous Topic Voting Platform
+* [Political Simulator](http://filteries.com/politics) - Politics / Economics Simulator
 
 ***
 
@@ -866,7 +868,7 @@ Simulator
 * [Matthen](https://blog.matthen.com/) - Math & Science Animations
 * [Eylenburg](https://eylenburg.github.io/) - Infographs, Maps & Papers
 * [GeoNames](https://www.geonames.org/) - Geography Name Database
-* [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/) or [Map Quiz](https://planemad.github.io/map-quiz/) - Geography Quizzes
+* [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/), [GeoQuest](https://geoquest.gg/) or [Map Quiz](https://planemad.github.io/map-quiz/) - Geography Quizzes
 * [Geograph WorldWide](https://www.geograph.org/) - Worldwide Photographs
 * [Flaggr](https://flaggr.me/) or [Flag Guesser](https://flagguesser.com/) - Flag Quizzes
 * [Flagpedia](https://flagpedia.net/) or [US Flags](https://usflags.design/) - Flag Indexes
