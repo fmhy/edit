@@ -40,6 +40,7 @@
 * [PaintingLight](https://lllyasviel.github.io/PaintingLight/) - Digital Lighting Effect Generator
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn Simple Art into Photo Realistic Landscapes
 * [AI Gahaku](https://ai-art.tokyo/en/), [Dreamscope](https://dreamscopeapp.com/), [Painting by Numbers](https://painting-by-numbers.co/pages/create-your-own), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/), [InstaPainting](https://www.instapainting.com/assets/) or [Deep Dream Generator](https://deepdreamgenerator.com/) - Turn Photos into Artwork
+* [Pet AI](https://petai.art/) - Turn Pet Photos into Artwork
 * [Picmunge](https://picmunge.cvservant.com/) - Image Transformer
 * [Tinter](https://tinter.uxie.io/) - Image Hue Editor
 * [WeGreyScale](https://www.wegrayscale.com/) - Greyscale Videos / Images
@@ -265,7 +266,7 @@
 * [minimator](https://minimator.app/) - Create Grid Based Drawings
 * [JacksonPollock](https://www.jacksonpollock.org/) - Splatter Painting / Click to Change Color
 * [Picrew](https://picrew.me/) - Animated Character Maker
-* [Animated Drawings](https://sketch.metademolab.com/) or [Scratch](https://scratch.mit.edu/) - Animate Drawings
+* [Animated Drawings](https://sketch.metademolab.com/), [MotorPen](https://motorpen.com/) or [Scratch](https://scratch.mit.edu/) - Animate Drawings
 * [Tiny Sketchbook](https://www.tinysketchbook.com/) - Create and Share Doodle Art
 * [Ink Workspace](https://www.microsoft.com/store/productId/9P0RP342JZMN) - Pen App Launcher
 * [brush-photoshop](https://www.brush-photoshop.fr/), [wowbrushes](http://wowbrushes.com/), [chezplumeau](https://www.chezplumeau.com/), [getbrushes](http://getbrushes.com/), [gfxfever](http://gfxfever.com/photoshop-brushes), [fbrushes](https://fbrushes.com/), [brushes_and_patterns](https://t.me/brushes_and_patterns), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/) or [tala](https://t.me/tala_photoshop_brushes) - Digital Art Brushes
@@ -492,10 +493,9 @@
 
 * ⭐ **[Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosts)** - Image Hosting Sites
 * ⭐ **[Image Viewers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_viewers)** - Image Viewing Programs
-* ⭐ **[Image Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_galleries)** - Image Galleries / Managers
 * [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
 * [FEMBOY](https://github.com/k1rak1ra/FEMBOY) - Anime Image Manager
-* [Pinry](https://docs.getpinry.com/) - Image Tiling Board
+* [Pinry](https://docs.getpinry.com/) or [Bookmarkd](https://github.com/ferrufinob/Bookmarkd_Frontend) - Image Tiling / Pinterest Alternatives
 * [Lychee](https://lycheeorg.github.io/), [PicoShare](https://github.com/mtlynch/picoshare), [Up1](https://github.com/Upload/Up1) or [Chevereto](https://chevereto.com/) - Self-Hosted Image Host 
 * [Pixiv](https://www.pixiv.net/en/) - User-Made Image Host / [Downloader](https://chrome.google.com/webstore/detail/pixiv-toolkit/ajlcnbbeidbackfknkgknjefhmbngdnj?hl=en), [2](https://github.com/Nandaka/PixivUtil2) / [Mobile App](https://github.com/alphasp/pxview)
 * [Librephotos](https://github.com/LibrePhotos/librephotos), [Photoprism](https://github.com/photoprism/photoprism), [Photoview](https://github.com/photoview/photoview) or [Ownphotos](https://github.com/hooram/ownphotos/) - Self-Hosted Google Photo Manager 
@@ -606,13 +606,18 @@
 
 # ► Art Education
 
+* ⭐ **[Art Study Guide](https://drive.google.com/file/d/1cK9q7oeFRE58MVaSgUql662iGqCXC8Ah/)** or [Improvement Overview](https://drive.google.com/file/d/0Bz_mE9a29gsEd09TemJMNTJMWGs/) - Art Study Guides / Tips
 * ⭐ **[Ctrl+paint](https://www.ctrlpaint.com/library)** - Digital Art Learning Resources
 * ⭐ **[Drawabox](https://drawabox.com/)**, [3DVKARTS](https://3dvkarts.net/), [Croquis Cafe](https://croquis.cafe/), [Drawing Starter Pack Playlist](https://www.youtube.com/playlist?list=PL7KO8uN5A9PJsQIJzecnohhKjtMnSuFtR), [FarsiTuts](https://t.me/farsituts) or [Bill Martin's Guide to Drawing](https://www.guidetodrawing.com/)  - Drawing Lessons
 * ⭐ **[Proko](https://www.youtube.com/user/ProkoTV/videos)** - Humanoid Figure Drawing Lesson
-* ⭐ **[PaintingTube](https://painting.tube)**, [Alphonso Dunn](https://www.youtube.com/c/ALPHONSODUNN/videos?view=0&sort=p&flow=grid), [Feng Zhu FZD](https://www.youtube.com/user/FZDSCHOOL/videos) , [Sycra](https://www.youtube.com/user/Sycra/videos),  [Art Fundamentals](https://www.youtube.com/playlist?list=PLVgLT-e3jXPDgeED0pD0BPq8kY1VAZAGa) or [Circle Line Art](https://www.youtube.com/user/circlelinemedia/videos) - Art Video Tutorials
+* ⭐ **[PaintingTube](https://painting.tube)**, [MarcoBucci](https://www.youtube.com/@marcobucci), [Alphonso Dunn](https://www.youtube.com/c/ALPHONSODUNN/videos?view=0&sort=p&flow=grid), [Feng Zhu FZD](https://www.youtube.com/user/FZDSCHOOL/videos) , [Sycra](https://www.youtube.com/user/Sycra/videos),  [Art Fundamentals](https://www.youtube.com/playlist?list=PLVgLT-e3jXPDgeED0pD0BPq8kY1VAZAGa) or [Circle Line Art](https://www.youtube.com/user/circlelinemedia/videos) - Art Video Tutorials
 * [Curriculum for the Solo Artists](https://reddit.com/r/learnart/comments/dapk62/from_the_guy_who_made_the_most_comprehensive_list/) - Self-Taught Artist Curriculum / [PDF Version](https://mega.nz/file/sU0AxThb#m96_xISlS-5wtpSrauWFdh8mjhed7EitknQn_XIBaQc) / [Gallery Version](https://imgur.com/a/EZPc28m)
 * [TryDraw](https://www.trydraw.com/) - Improve Drawing Skills
+* [DoArtDaily](https://dad.gallery) - Daily Art Challenges
+* [MangaMaterials](https://www.youtube.com/channel/UCnx8zKs3c3yeFPYQ2QzMqLA/), [animesijyuku](https://www.youtube.com/@animesijyuku/) or [DoKiDoKiDrawing](https://www.youtube.com/@DoKiDoKiDrawing/) - Manga Video Tutorials / [Twitter](https://twitter.com/mangamaterials2) / [Pixiv](https://www.pixiv.net/en/users/16776564)
+* [NaoKiurasawa](https://www.naokiurasawa.com/)- Mangaka Creation Process Interviews / [YouTube](https://www.youtube.com/channel/UCkIFOAoFm47XOAlJwTa6Ieg/videos) / [DailyMotion](https://www.dailymotion.com/HabaneroScans/videos) 
 * [anidraw](https://www.anidraw.net/?m=1) - Anime Drawing Tutorials
+* [Settei Dreams](https://setteidreams.net/) - Anime Production Materials
 * [Photoshop Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photoshop_courses) - Photoshop Course Drive
 * [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - Photoshop Tutorials
 * [DomDesigns](https://www.youtube.com/c/DomDesigns/) - Illustrator Tutorials
