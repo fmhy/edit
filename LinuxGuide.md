@@ -122,7 +122,6 @@
 * [Polychromatic](https://polychromatic.app/) - Linux System Light Control
 * [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI
 * [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - Window Closing Effects
-* [Junction](https://github.com/sonnyp/Junction) - Change File Associations 
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
 * [Giara](https://aur.archlinux.org/packages/giara/) or [Headlines](https://gitlab.com/caveman250/Headlines) - Reddit Client
 * [reddio](https://gitlab.com/aaronNG/reddio) - Reddit CLI
@@ -145,6 +144,8 @@
 * [rcm](https://github.com/thoughtbot/rcm) - Manage Dotfiles
 * [Curlew](https://curlew.sourceforge.io/) - Linux File Converter
 * [Dolphin](https://userbase.kde.org/Dolphin) or [ranger](https://github.com/ranger/ranger) - File Manager
+* [Boxxy](https://github.com/queer/boxxy) - Contain Files / Directories 
+* [Junction](https://github.com/sonnyp/Junction) - Change File Associations 
 * [Krename](https://apps.kde.org/en-gb/krename/) - Bulk File Renamer
 * [nnn](https://github.com/jarun/nnn), [clifm](https://github.com/leo-arch/clifm), [fm](https://github.com/knipferrc/fm), [Joshuto](https://github.com/kamiyaa/joshuto), [gdu](https://github.com/dundee/gdu) or [NCDU](https://github.com/rofl0r/ncdu) - Terminal File Manager / Disk Usage Analyzer
 * [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Tiling Windows Manager / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
@@ -303,6 +304,7 @@
 * [Openconnect VPN Server](http://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
 * [zapret](https://github.com/bol-van/zapret) - DPI Circumvention Tool
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
+* [ShuffleStacks](https://shufflecake.net/) - Create Hidden Volumes
 * [Tomb](https://www.dyne.org/software/tomb/) - File Encryption
 * [Collision](https://flathub.org/apps/details/dev.geopjr.Collision) - Check File Hashes
 * [WhoAmI Project](https://github.com/owerdogan/whoami-project) - Privacy / Anonymity Tool
@@ -442,9 +444,10 @@
 * [BibDesk](https://bibdesk.sourceforge.io/) - Bibliography Manager
 * [ElectronMail](https://github.com/vladimiry/ElectronMail), [MimeStream](https://mimestream.com/) or [Spark](https://sparkmailapp.com/) - Email Clients
 * [Microsoft Mac Downloads](https://macadmins.software/) or [Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Office Suites
-* [Winfield](http://www.winfield.demon.nl/) - MS Word for Linux / OS X 
+* [Winfield](http://www.winfield.demon.nl/) - MS Word for Linux / OS X
 * [kbdlight](https://github.com/WhyNotHugo/kbdlight) - Change MacBook Keyboard Backlight Level
 * [KeyPad](https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442) - Connect Mac Keyboard to Mobile Devices
+* [Pinch](https://github.com/danqing/Pinch) - Trackpad Pinch to Zoom Gesture
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - Shortcut CheatSheet for Current Application
 * [MonitorControl](https://monitorcontrol.app/) - External Monitor Brightness / Volume Control
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Volume Mixer / Auto-Pause
