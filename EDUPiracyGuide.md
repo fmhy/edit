@@ -492,7 +492,8 @@ Simulator
 * [Old Computer Museum](http://oldcomputers.net/) - Computer History / Info
 * [The HP 9845 Project](https://www.hp9845.net/) - HP 9845 Computer History
 * [Folklore](https://www.folklore.org) or [TheAppleWiki](https://theapplewiki.com/) - Apple Computer History
-* [House creep](https://www.housecreep.com/) - Homes With A Curious or Criminal History 
+* [VGA Museum](http://www.vgamuseum.info/) - Graphic Cards History / Info
+* [House Creep](https://www.housecreep.com/) - Homes With A Curious or Criminal History 
 * [World Weather Online](https://www.worldweatheronline.com/) - Historical Weather Reports
 
 ***
@@ -589,6 +590,7 @@ Simulator
 * ⭐ **[Languages & Linguistics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_languages_.26amp.3B_linguistics)** or [EnglishBooks](http://englishbooks.com.tw/primary/) - Language Learning Books
 * [Speechling](https://speechling.com/tools) - Language Learning Tools
 * [Ba Ba Dum](https://babadum.com/) - Language Learning Game
+* [ListLang](https://www.listlang.com/) - Most Used Words in Any Language
 * [BeyondPlayer](https://circleapps.co/) - YouTube Player for English Learners
 * [Language Roadmap](https://languageroadmap.com/) - Foreign Language Media Difficulty Guide
 * [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [Conversation Exchange](https://www.conversationexchange.com/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - Language Learning Network
@@ -918,7 +920,7 @@ Simulator
 * [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
-* [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Art cyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](http://wolfmanmuseum.org/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collections
+* [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Art cyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](http://wolfmanmuseum.org/), [Arts and Culture](https://artsandculture.google.com/), [WGA](https://www.wga.hu/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collections
 * [Earth 2050](https://2050.earth/) - Future Predictions
 * [Nuclear Risk Calculator](https://app.hex.tech/399c4a29-5b7f-4f70-8b53-afa8da38dd72/app/def94910-d017-4508-847c-e1189d3b6042/latest) - Calculate Risk of Nuclear War 
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
