@@ -1408,7 +1408,6 @@
 * [Ovd-info](https://t.me/ovdinfolive) - Protestor Prosecution News / [Telegram](https://t.me/ovdinfo)
 * [government_rus](https://t.me/government_rus) - Official Russian Government Telegram
 * [zakupki_time](https://t.me/zakupki_time) -  Government Procurement Watch
-* [zakonrf](https://www.zakonrf.info/) - Russian Laws
 
 ## ▷ Downloading 
 
