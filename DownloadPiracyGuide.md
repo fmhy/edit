@@ -395,7 +395,7 @@
 # ► Usenet
 
 * ⭐ **[Usenet Guide / Automation Setup](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic)** / [2](https://redd.it/4x2mc9)
-* ⭐ **[Usenet Tools & Services Index](https://curlie.org/en/Computers/Usenet)** or [UsenetTools](http://www.usenettools.net/)
+* ⭐ **[Usenet Tools / Services](https://curlie.org/en/Computers/Usenet)** or [UsenetTools](http://www.usenettools.net/)
 
 ## ▷ Indexers
 
@@ -415,7 +415,7 @@
 * [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)
 * [NZBKing](http://nzbking.com/)
-* [UsenetArchives](https://usenetarchives.com/)
+* [UsenetArchives](https://usenetarchives.com/) or [OldUSe](https://article.olduse.net/) - Search Usenet Articles
 * [althub](https://althub.co.za) - Unlimited Free Trials
 * [nZEDb](https://github.com/nZEDb/nZEDb) - Self-Hosted
 * [Spotweb](https://github.com/spotweb/spotweb) - Spotnet Client
@@ -436,6 +436,7 @@
 
 * ⭐ **[sabnzbd](https://sabnzbd.org/)**
 * [nzbget](https://nzbget.net/)
+* [Usenet File Hashes](https://gist.github.com/4chenz/de3a3490aff19fd72e4fdd9b7dafc8f4) - Link File Hashes
 
 ***
 
