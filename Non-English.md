@@ -82,6 +82,7 @@
 * [animerco](https://animerco.com/) - Anime
 * [xsanime](https://v.xsanime.com/) - Anime
 * [ncv](http://www.ncv.life/) - Anime
+* [Arabsama](https://arabsama.net/) - Anime
 * [fomny](http://fomny.com/Home/index.php) - Live TV
 * [qayadat](https://play.qayadat.org/channels) - Live TV
 * [elahmad](http://www.elahmad.com/tv/arabic-channel.php) - Live TV
@@ -770,11 +771,12 @@
 * [cineblog01](https://cineblog01.cx/) - Movies / TV
 * [cinemalibero](https://cinemalibero.cafe/) - Movies / TV
 * [filmsenzalimiti](https://hds.filmsenzalimiti.me/) - Movies / TV
-* [cb01](https://cb01.marketing/) - Movies
+* [cb01](https://cb01.repair/) - Movies / TV
 * [euroStreaming](https://eurostreaming.quest/) - TV
 * [guardaserie](https://guardaserie.onl/) - TV
 * [filmsenzalimiti](https://filmsenzalimiti.name/) - Movies / TV
 * [Arcoiris TV](https://www.arcoiris.tv/) - TV
+* [SerieHD](https://www.seriehd.sbs/) - TV
 * [ToonItalia](https://toonitalia.co/) - Anime / Cartoons
 * [AnimeSaturn](https://www.animesaturn.in/) - Anime
 * [AnimeForce](https://www.animeforce.it/) - Anime
@@ -1369,8 +1371,16 @@
 
 * [FSOline](http://www.filmeserialeonline.org/) - Movies / TV
 * [Namaste Serials](https://namasteserials.com/) - Movies / TV
+* [VeziOnline](https://vezionline.net/) - Movies / TV
 * [VeziSeriale](https://veziseriale.org) - Movies / TV / Anime
 * [ClickSub](https://clicksud.biz) - Movies / TV
+* [SubtiratRomana](https://subtitratromana.org/) - Movies / TV
+* [eFilm](https://efilme.net/) - Movies
+* [Topfilmenoi](https://topfilmenoi.net/) - Movies / TV
+* [TopFilmeOnline](https://topfilmeonline.biz/) - Movies
+* [FilmeOnline.st](https://filmeonline.st/) - Movies / TV
+* [VoxFilmeOnline](https://voxfilmeonline.biz/) - Movies
+* [FilmeOnline.biz](https://www.filmeonline.biz/) - Movies
 * [Animeazu](https://www.animeazu.net/) - Anime
 * [DozaAnimată](https://www.dozaanimata.ro) - Cartoons / Anime / Movies / TV
 * [AnimeGoFansub](https://deseneanime.ro) - Anime / Manga
@@ -1408,6 +1418,9 @@
 * [Ovd-info](https://t.me/ovdinfolive) - Protestor Prosecution News / [Telegram](https://t.me/ovdinfo)
 * [government_rus](https://t.me/government_rus) - Official Russian Government Telegram
 * [zakupki_time](https://t.me/zakupki_time) -  Government Procurement Watch
+* [ШрифтыПаттерныКисти](https://t.me/+Ax8cZJCY19k3NDRi) - Fonts / Patterns / Brushes
+* [Што за шрифт?](https://t.me/+lZD1qlHA3sFhMzQy) - Fonts
+* [3DArchive](https://t.me/ArchiveStl) - 3D Models
 
 ## ▷ Downloading 
 
@@ -2115,6 +2128,7 @@
 * [Einthusan](https://einthusan.tv/intro/) - South Asian Films Archive
 * [Jainism Library of Jain Literature](http://www.atmadharma.com/index.html) - Sacred Texts / Religion / Multi Language
 * [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Software / Games / Books / Comics
+* [AnimeBalkan](https://animebalkan.org/) - Croatian / Anime
 * [wlext](https://wlext.is/) - Turkish / Filipino / Thai / Streaming / Movies
 * [tagalogdubbed](https://tagalogdubbed.com/) - Tagalog / Streaming / Movies / TV
 * [Segoideas](https://segoideas.com/) - Taiwanese / Streaming / TV
