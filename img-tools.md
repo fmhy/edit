@@ -247,11 +247,11 @@
 ## ▷ Painting / Drawing
 
 * ⭐ **[PuccaNoodles’ Resource Sheet](https://docs.google.com/spreadsheets/d/1-8OKuEvRR038Uno--Vi9tQRe4eFCSfQTPov7nXgiJ3w/)** - Painting / Drawing Resources
-* [SmoothDraw](https://qrli.github.io/smoothdraw/), [Krita](https://krita.org/en/) / [Stable Diffusion](https://github.com/sddebz/stable-diffusion-krita-plugin), [MyPaint](https://github.com/mypaint/mypaint), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [Tux Paint](https://tuxpaint.org/), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/), [Paintroid](https://github.com/Catrobat/Paintroid), [ProsePainter](https://www.prosepainter.com/), [SpeedPaint](https://www.speedpaint.info/), [YouiDraw](https://site.youidraw.com/), [LazPaint](https://github.com/bgrabitmap/lazpaint/), [Tegaki](https://desuwa.github.io/tegaki.html) or [MediBang](https://medibangpaint.com/en/) - Painting
+* [SmoothDraw](https://qrli.github.io/smoothdraw/), [Krita](https://krita.org/en/) / [Stable Diffusion](https://github.com/sddebz/stable-diffusion-krita-plugin), [MyPaint](https://github.com/mypaint/mypaint), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [Tux Paint](https://tuxpaint.org/), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/), [Paintroid](https://github.com/Catrobat/Paintroid), [ProsePainter](https://www.prosepainter.com/), [SpeedPaint](https://www.speedpaint.info/), [YouiDraw](https://site.youidraw.com/), [LazPaint](https://github.com/bgrabitmap/lazpaint/), [JSPaint](https://github.com/crisdosyago/jspaint.exe), [Tegaki](https://desuwa.github.io/tegaki.html), [SpeedyPainter](https://speedypainter.altervista.org/) or [MediBang](https://medibangpaint.com/en/) - Painting
 * [bomomo](https://bomomo.com/) - Multi-Brush Painting
 * [Milton](https://www.miltonpaint.com/) - Infinite Canvas Painting
 * [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art
-* [Aggie.io](https://aggie.io/), [Magma](https://magmastudio.io/), [DrawPile](https://drawpile.net/), [WBO](https://wbo.ophir.dev/) or [malmal](https://malmal.io/) - Draw with Friends or Strangers 
+* [Aggie.io](https://aggie.io/), [Magma](https://magmastudio.io/), [HelloPaint](https://hellopaint.io/), [DrawPile](https://drawpile.net/), [WBO](https://wbo.ophir.dev/), [LockDraw](https://www.skycow.us/) or [malmal](https://malmal.io/) - Collaborative Drawing / Painting
 * [World Draw](https://world-draw.appspot.com/draw) - Draw the World Together
 * [pixels.land](https://pixels.land/), [EveryoneDraw](https://everyonedraw.com/) or [World of Pixels](https://ourworldofpixels.com/) - Infinite Online Pixel Art
 * [Monsterland](https://www.monsterland.net/) - Collaborative Monster Drawing
@@ -281,7 +281,7 @@
 * [Piskel](https://www.piskelapp.com/), [rx](https://rx.cloudhead.io/), [Pixelated](https://pixelated.vercel.app/), [PaintWith](https://paintwith.webflow.io/), [Aseprite](https://dacap.itch.io/aseprite), [PixelCraft](https://pixelcraft.web.app/) / [GitHub](https://github.com/rgab1508/PixelCraft), [Kleki](https://kleki.com/), [CSprite](https://csprite.github.io/) or [PixilArt](https://www.pixilart.com/draw) - Pixel Art Editors
 * [Strike](https://amorphous.itch.io/strike) - 1-Bit Pixel Art Editor
 * [Pixel Painter](https://jenniferdewalt.com/pixel_painter.html) or [Pixel Paint](https://codepen.io/quinlo/full/RvPPKG) - Paint with Pixels
-* [dpixel](https://marcoc2.itch.io/dpixel) - Pixel Art Remastering Tool 
+* [dpixel](https://marcoc2.itch.io/dpixel) - Pixel Art Remastering Tool
 * [Paint Of Persia](https://dunin.itch.io/ptop) - Rotoscoping Pixel Art Tool
 * [Dither Machine](https://lunarlabs.itch.io/dither-machine) - Pixel Art Dithering Creator
 * [PixelMe](https://pixel-me.tokyo/en/), [Pixel It](https://giventofly.github.io/pixelit/), [Pixelator](https://ronenness.itch.io/pixelator), [Img8Bit](https://img8bit.com/) or [Pixelart Converter](https://app.monopro.org/pixel/?lang=en) - Image to Pixelart Converters
@@ -365,6 +365,7 @@
 * [icon_finder](https://codeberg.org/cauf/icon_finder) - Search for Icons via Patterns
 * [pfps.gg](https://pfps.gg/) - Profile Picture Index
 * [OpenMoji](https://openmoji.org/) - Emojis
+* [PixelJoint](https://pixeljoint.com/) - Pixel Art
 * [PimpMyDrawing](https://pimpmydrawing.com/) - Human Silhouettes
 * [OldBookIllustrations](https://www.oldbookillustrations.com/) - Illustrations from Old Books
 * [HyperCard](http://archives.somnolescent.net/web/hypercard/) - Mac HyperCard Art
@@ -434,7 +435,7 @@
 * [CadHub](https://cadhub.xyz/) - Community Hub for CAD Projects
 * [MakeHuman](http://www.makehumancommunity.org/) - 3D Humanoid Modeler
 * [posemy](https://app.posemy.art/), [quickposes](https://quickposes.com/en) or [justsketch](https://app.justsketch.me/) - Posing Tools
-* [PoseManiacs](https://www.posemaniacs.com/) - Pose References
+* [PoseManiacs](https://www.posemaniacs.com/) or [Anatomy360](https://anatomy360.info/anatomy-scan-reference-dump/) - Pose References
 * [FaceMaker](http://facemaker.uvrg.org/) - 3D Face / Avatar Generator
 * [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator
 * [CSS 3D Clouds](https://spite.github.io/CSS3DClouds/) - 3D Cloud Creator
@@ -457,6 +458,7 @@
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
 * [GlanceBack](https://glanceback.info/) - Daily Webcam Photo Journal
+* [DataFilm](http://datafilm.io/) - Notebook for Film Photographers
 * [Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes) - Color Scheme / Palette Tools / [Guide](https://imgur.com/e1rBGLT)
 * [Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers) - Extract Color from Pictures / Webpages
 * [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - Image Color Summarizer
