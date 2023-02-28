@@ -2129,7 +2129,7 @@
 * [Einthusan](https://einthusan.tv/intro/) - South Asian Films Archive
 * [Jainism Library of Jain Literature](http://www.atmadharma.com/index.html) - Sacred Texts / Religion / Multi Language
 * [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Software / Games / Books / Comics
-* [AnimeBalkan](https://animebalkan.org/) - Crotian / Anime
+* [AnimeBalkan](https://animebalkan.org/) - Croatian / Anime
 * [wlext](https://wlext.is/) - Turkish / Filipino / Thai / Streaming / Movies
 * [tagalogdubbed](https://tagalogdubbed.com/) - Tagalog / Streaming / Movies / TV
 * [Segoideas](https://segoideas.com/) - Taiwanese / Streaming / TV
