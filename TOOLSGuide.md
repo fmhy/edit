@@ -21,12 +21,12 @@
 * ⭐ **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** or [Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manual_sites) - Repair Articles / Manuals
 * ⭐ **[Shopping Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)** - Shopping / Price Tracking
 * ⭐ **[USPS Shipping Supplies](https://store.usps.com/store/results/free-shipping-supplies/_/N-alnx4j)** - Free Shipping Supplies
-* ⭐ **[TurboTaxSucksAss](https://turbotaxsucksass.org/)**, [US Taxes](https://ustaxes.org/) or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free / [Get IP Pin](https://youtu.be/iPw8I-cZ1eY)
+* ⭐ **[TurboTaxSucksAss](https://turbotaxsucksass.org/)**, [US Taxes](https://ustaxes.org/) or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free / [Get IP Pin](https://youtu.be/iPw8I-cZ1eY) / [Form Calculator](https://opentaxsolver.sourceforge.net/)
 * ⭐ **[BeMyEyes](https://www.bemyeyes.com/)** - Assist the Visually Impaired
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - Open-Source Tools
 * [Creating Minds](http://creatingminds.org/tools/tools_ideation.htm) - Creativity Tools
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - Mac-Style Dashboard Widget
-* [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - AI Experiments / Tools 
+* [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - AI Experiments / Tools
 * [Generative Tools](https://docs.google.com/document/d/1N57oAF7j9SuHcy5zg2VZWhttLwR_uEldeMr-VKzlVIQ/) - Generative Tool Index
 * [Barcode Reader](https://online-barcode-reader.inliteresearch.com/) or [ZXing Decoder](https://zxing.org/w/decode.jspx) - Online Barcode Reader
 * [Contract-Templates](https://github.com/Oak-Harbor-Kits/Contract-Templates) - Digital Contracts
@@ -356,6 +356,7 @@
 * [DDVT](https://forum.doom9.org/showthread.php?t=183479) - Dolby Vision RPU Demuxing / Injecting / Editing
 * [ShortApp](https://shortsapp.com/), [mpv-cut](https://github.com/f0e/mpv-cut), [vidcutter](https://github.com/ozmartian/vidcutter), [The Trimmer Bot](https://t.me/The_Trimmer_bot) - Cut / Trim Videos 
 * [Crop Video](https://crop-video.com/) - Crop Videos
+* [LoopVid](https://loopvid.kastden.org/) - Loop Videos
 * [WeGreyScale](https://www.wegrayscale.com/) - Greyscale Videos / Images
 * [Gyroflow](https://gyroflow.xyz/) - Video Stabilization / [GitHub](https://github.com/gyroflow/gyroflow)
 * [Croosfade](https://crossfade.io/) - Video and Audio Crossfading
@@ -510,7 +511,7 @@
 * [dumb](https://github.com/rramiachraf/dumb) - Genius Lyrics Frontend
 * [Whisper](https://github.com/openai/whisper) or [Vosk](https://github.com/alphacep/vosk-api) - Speech Recognition
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Soundux](https://soundux.rocks/) / [GitHub](https://github.com/Soundux/Soundux) or [Resanance](https://resanance.com/) - Soundboard Program
-* [MyInstants](https://www.myinstants.com/index/us/), [InternetsFun](https://instantsfun.es/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboard
+* [MyInstants](https://www.myinstants.com/index/us/), [InternetsFun](https://instantsfun.es/), [101soundboards](https://www.101soundboards.com/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboards
 * [Soundpad](https://www.leppsoft.com/soundpad/) - Voicechat Soundboard
 * [TimeStetch](https://29a.ch/timestretch/) - Web Music Player
 * [iPod.js](https://tannerv.com/ipod/) - iPod Themed Web Music Player
@@ -1498,26 +1499,27 @@
 * [Campfire](https://campfire.gg), [Walrus](https://joinwalrus.tv/), [SyncTube](https://synctube.xyz/), [Sync-Tube](https://sync-tube.de/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
 * [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer) - Video Web Player
 * [HookTube](https://hooktube.com/) - View YouTube Videos on Lightweight Page / [Redirect Script](https://greasyfork.org/en/scripts/24163-youtube-unblocker)
-* [YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802) - Speed Up YouTube
 * [myTube](https://github.com/keitharm/mytube) - Bloat Free YouTube Client
+* [YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802) - Speed Up YouTube
 * [Ytfzf](https://github.com/pystardust/ytfzf) or [YewTube](https://github.com/iamtalhaasghar/yewtube) - Terminal YouTube Players
 * [YouTube_RSS](https://github.com/SimonDaNinja/youtube_rss) - YouTube RSS Client
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
 * [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - YouTube to GIF
 * [VideoGlancer](https://videoglancer.com/) - YouTube to PDF
-* [ytcropper](https://ytcropper.com/) or [YTCutter.com](https://ytcutter.com/) - YouTube Video Cropper
+* [ytcropper](https://ytcropper.com/) or [YTCutter.com](https://ytcutter.com/) - Crop YouTube Videos
+* [Rotate YouTube Video](https://addons.mozilla.org/en-US/firefox/addon/rotate-youtube-video/) - Rotate YouTube Videos
 * [Vid Repeat](https://vidrepeat.com/) - Loop YouTube Videos
 * [AnnotationsRestored](https://github.com/isaackd/AnnotationsRestored) or [YouTube Annotations](https://archive.org/details/youtubeannotations) - Restore YouTube Annotations
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - YouTube Note Taking Tool
 * [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels 
-* [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Fix Youtube Search & Declutter Homepage 
+* [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Fix Youtube Search / Declutter Homepage 
 * [youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Video Like / Dislike Hotkeys
 * [YouTube Chronological Order](https://github.com/SleekPanther/youtube-chronological-order) - Watch YouTube Videos in Chronological Order 
 * [YouTube Upload Time](https://chrome.google.com/webstore/detail/youtube-upload-time/nenoecmaibjcahoahnmeinahlapheblg) - Check YouTube Upload Date
-* [YTStamps](https://ytstamps.netlify.app/) - Create Custom Start & End Times
+* [YTStamps](https://ytstamps.netlify.app/) - Create Custom Start / End Times
 * [Video Speed Controller](https://github.com/codebicycle/videospeed), [YouTube Speed Control](https://github.com/avi12/youtube-speed-control) or [TimerHooker](https://timer.palerock.cn/en/) - Control Speed of YouTube Videos 
 * [Watch Frame by Frame](http://www.watchframebyframe.com/) - Watch Videos Frame by Frame 
-* [Anilyzer](http://anilyzer.com/) - Watch YouTube Videos in Slow Motion & Frame by Frame 
+* [Anilyzer](http://anilyzer.com/) - Watch YouTube Videos in Slow Motion / Frame by Frame 
 * [YouTube Playlist Search](https://greasyfork.org/en/scripts/14370-youtube-playlist-search) - Quickly Search YouTube Playlists
 * [Playlist Creator for YouTube](https://chrome.google.com/webstore/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) or [Playlists at YouTube](https://playlists.at/youtube/) - Easily Create Playlists
 * [ytcc](https://github.com/woefe/ytcc) - Playlist Manager
@@ -1651,6 +1653,7 @@ Twitch Stream Tracker
 * [Hashait](https://www.hashatit.com/) - Hashtag Search
 * [Buhitter](https://buhitter.com/) - Twitter Illustration Search
 * [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - Download Twitter Videos 
+* [twMediaDownloader](https://github.com/furyutei/twMediaDownloader) - Download Twitter Images
 * [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/) or [SocialBearing](https://socialbearing.com/) - Analyze Twitter Accounts
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
 * [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) - View / Archive Tweets
@@ -1987,6 +1990,7 @@ Twitch Stream Tracker
 * [O&O App Buster](https://www.oo-software.com/en/ooappbuster) or [PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Remove Pre-Installed Microsoft Apps
 * [Update Notifier](http://cleansofts.org/view/update-notifier.html) - Scan Computer for Software Updates 
 * [Nemesis](https://forums.guru3d.com/threads/3rd-party-driver-amernime-zone-radeon-release-nemesis-22-6-1-whql-driverpack.436611/) - Custom Drivers for Discontinued GPUs
+* [Vintage3D](https://vintage3d.org/driver.php) - First Gen 3D Drivers
 * [SnappyDrivers](https://www.snappy-driver-installer.org/) - Update / Install Missing Drivers 
 * [Drivers Collection](https://driverscollection.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Device Drivers / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Display Driver Removal Tool / [GitHub](https://github.com/Wagnard/display-drivers-uninstaller)
