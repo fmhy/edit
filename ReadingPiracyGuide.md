@@ -827,6 +827,7 @@
 * ⭐ **[GetComics](https://getcomics.info/)** - Downloads / Read Online
 * ⭐ **[ComicExtra](https://www.comicextra.com/)** or [Comic Online Free](https://comiconlinefree.net/) 
 * ⭐ **[XOXO Comics](https://xoxocomics.com/)** / [2](https://xoxocomics.net)
+* ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
 * [View-Comic](https://view-comic.com/)
 * [View Comics](https://viewcomics.me/)
 * [Read Comics Online](https://readcomicsonline.ru/) 
@@ -849,7 +850,6 @@
 * [KidsGen](https://www.kidsgen.com/comics/)
 * [DC Universe Infinite](https://www.dcuniverseinfinite.com/collections/free-to-read-row) - Free DC Comics
 * [Marvel.com](https://www.marvel.com/comics/list/623/get_started_with_free_issues?&options%5Boffset%5D=0&totalcount=76) - Free Marvel Comics
-* [ComicBookPlus](https://comicbookplus.com/) - Golden Age Comics
 * [Comic Museum](https://digitalcomicmuseum.com/index.php) - Golden Age Comics
 * [GoComics](https://www.gocomics.com/) - Comics Strips
 * [Comics Kingdom](https://comicskingdom.com/) - Comics Strips
