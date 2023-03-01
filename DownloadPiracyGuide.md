@@ -344,7 +344,6 @@
 * [DesireFX](https://www.desirefx.me/)
 * [GFXMountain](http://gfxmountain.com/)
 * [GFXhome](http://gfxhome.ws/index.php)
-* [Grafixfather](https://www.grafixfather.com/)
 * [Graphicex](https://graphicex.com/)
 * [PSDKeys](https://psdkeys.com/)
 * [GoDownloads](https://godownloads.net/) 
