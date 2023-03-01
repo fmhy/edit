@@ -2938,7 +2938,6 @@ Add the following commands to a search to manually scrape each site.
 
 * [Remux_2160P](https://t.me/Remux_2160P) - 4K Movies
 * [Rare Films](https://t.me/rarefilms) - Movies 
-* [MoviesVerse](https://t.me/MoviesHomeOFFICIALS) - Movies / TV 
 * [Rarefilmsbot](https://t.me/Rarefilmsbot) - Movies 
 * [Cracked_Movies_Hindi](https://t.me/Cracked_movies) - Movies
 * [Mobile movies request bot](https://t.me/cc_mmrequestbot) - Movies / 480p 
