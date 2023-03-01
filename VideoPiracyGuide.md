@@ -748,8 +748,6 @@
 * [Torrent TD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_torrent_td) - Movies / TV / Anime
 * [aryatejprakash72](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_aryatejprakash72) - Movies / TV
 * [teamqbit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_teamqbit) - Movies / TV / Anime
-* [mooo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mooo) - Movies / TV
-* [Chill](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_chill) - TV
 * [188.165.227.112](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_188.165.227.112) - Movies / TV
 * [162.12.215.254](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_162.12.215.254) - Movies
 * [163.172.97.48](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_163.172.97.48) - Movies / TV
