@@ -489,7 +489,6 @@
 * [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
 * [TheDailyIdea](https://thedailyidea.org/reading-lists), [2](https://thedailyidea.org/philosophy-syllabi-collection/) - Philosophy 
 * [APAOnline](https://www.apaonline.org/) - Philosophy 
-* [Philosophy Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_philosophy_drive) - Philosophy 
 * [Access Medicine](https://accessmedicine.mhmedical.com/books.aspx?view=library) - Medical
 * [Am Medicine](https://am-medicine.com/) - Medical
 * [PickPDF](https://pickpdfs.com/) - Medical 
