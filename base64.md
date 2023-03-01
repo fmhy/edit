@@ -596,12 +596,6 @@ pass: paluch
 
 *** 
 
-#### Philosophy Drive
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9NUUJSSEJKQSNMX29uM2gtWFVydGJjNzE5VWFNeWd3`
-
-*** 
-
 #### Lee B. Drive
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL3UvMC9tb2JpbGUvZm9sZGVycy8xODN0ZjhQbVFid2dWQzdIcnhPWjVXUVB1bFZkLVVvbWk=`
@@ -1589,18 +1583,6 @@ pass: paluch
 #### Producer Plug Sheet
 
 `aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvMXljbjZHNmhpLS04OS0xZUVJQmJsMkxnbTRuSHozT055NUJJNFJJSWdkcUkv`
-
-***
-
-#### Chill
-
-`aHR0cHM6Ly9jaGlsbC5haWNpcm91LndvcmtlcnMuZGV2LzA6LwpodHRwczovL2NoaWxsLmFpY2lyb3Uud29ya2Vycy5kZXYvMTov`
-
-***
-
-#### mooo
-
-`aHR0cHM6Ly9lZHl0amVkaGdtZGhtLmFiZmhhcXJoYm5mLndvcmtlcnMuZGV2Lw==`
 
 ***
 
