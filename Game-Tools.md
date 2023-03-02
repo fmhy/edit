@@ -13,7 +13,7 @@
 
 * ⭐ **[Game Libraries / Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_libraries_.2F_launcher)** - Manage & Launch Games
 * ⭐ **[Game Tracking / Discovery](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_tracking_.2F_discovery)** - Track Games & Discover New Ones
-* ⭐ **[PCGamingWiki](https://www.pcgamingwiki.com/)** or [AppleGamingWiki](https://applegamingwiki.com/) - Game Info, Bug Fixes & Improvements
+* ⭐ **[PCGamingWiki](https://www.pcgamingwiki.com/)** - Game Info, Bug Fixes & Improvements
 * ⭐ **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)**, [Game Debate](https://game-debate.com/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Test
 * ⭐ **[Game Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_guides)** or [Kirklands Manual Labor](https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version) - Strategy Guides / Walkthroughs
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
@@ -182,6 +182,7 @@
 * [Hip Tracking](https://getaughip.com/) - Augmented Hip Virtual
 * [Defacto](https://defacto2.net/) - Retro NFOs
 * [Whitescent Engine](https://apt.izzysoft.de/fdroid/index/apk/com.github.whitescent.engine) - Use Phone as Joy Stick / [GitHub](https://github.com/whitescent/Engine)
+* [JoystickGremlin](http://whitemagic.github.io/JoystickGremlin/) - Remap Joystick Devices
 * [Arcade Controls](http://arcadecontrols.com/arcade.htm) or [JoyStick](https://slagcoin.com/joystick.html) - DIY Arcade Controls
 
 ***
