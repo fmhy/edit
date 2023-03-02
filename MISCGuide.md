@@ -176,7 +176,6 @@
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - Games
 * [Tick Coupon](https://giveaway.tickcoupon.com/windows-giveaway/) - Software
 * [Techno360](https://www.techno360.in/category/free-stuff/) - Software
-* [AppDoze](https://www.appdoze.com/) - Software
 * [WinningPC](https://winningpc.com/) - Software
 * [Malwaretips Giveaways](https://malwaretips.com/forums/giveaways-promotions-and-contests.75/) - Software
 * [Net-Load](https://net-load.com/) - Software
