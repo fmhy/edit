@@ -1379,6 +1379,7 @@
 * [Поиск](https://poshukach.com/) - Search Engine
 * [Kribrum](https://kribrum.io/search) - Social Media Search Engine
 * [topsites](https://topsites.name/) - Russian Site Index
+* [tgstat](https://tgstat.ru/) - Russian Telegram Channel Stats
 * [EDA](https://eda.ru/) - Recipes
 * [teksti-pesenok](https://m.teksti-pesenok.pro/) - Lyrics
 * [WASM](https://www.wasm.in/) - Web Assembly Forum
