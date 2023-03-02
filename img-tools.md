@@ -42,6 +42,7 @@
 * [AI Gahaku](https://ai-art.tokyo/en/), [Dreamscope](https://dreamscopeapp.com/), [Painting by Numbers](https://painting-by-numbers.co/pages/create-your-own), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/), [InstaPainting](https://www.instapainting.com/assets/) or [Deep Dream Generator](https://deepdreamgenerator.com/) - Turn Photos into Artwork
 * [Pet AI](https://petai.art/) - Turn Pet Photos into Artwork
 * [Picmunge](https://picmunge.cvservant.com/) - Image Transformer
+* [Controlnet Pose](https://replicate.com/jagilley/controlnet-pose) - Modify Human Pose Position
 * [Tinter](https://tinter.uxie.io/) - Image Hue Editor
 * [WeGreyScale](https://www.wegrayscale.com/) - Greyscale Videos / Images
 * [DuoTones](https://duotones.co/) - Dual Tone Effect Generator
@@ -94,6 +95,7 @@
 
 ## ▷ Restoration
 
+* [FenoPhoto](https://www.fenophoto.com/) - Image Restoration App
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms
 * [Colorize Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_colorization) - Image Colorization Tools
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime Image Colorization
@@ -123,7 +125,7 @@
 * [Random-Face-Generator](https://github.com/adityar224/Random-Face-Generator) - Face Generator
 * [Mirro-Ai](https://mirror-ai.com/) - Get Stickers With Your Face
 * [EmojiMix](https://tikolu.net/emojimix) or [Emoji Kitchen](https://emoji.supply/kitchen/) - Combine Emojis
-* [Emojination](https://www.emojination.io/), [Emoji Factory](https://codepen.io/oliviale/full/qLYNbE) or [Ccclaymoji](https://fffuel.co/ccclaymoji/) - Emoji Creators
+* [Emojination](https://www.emojination.io/), [EmoteStud](https://emotestud.io/), [Emoji Factory](https://codepen.io/oliviale/full/qLYNbE) or [Ccclaymoji](https://fffuel.co/ccclaymoji/) - Emoji Creators
 * [imgsli](https://imgsli.com/) - Before & After Slider Generator
 * [DCGAN](http://mattya.github.io/chainer-DCGAN/) - Anime Icon Generator 
 * [99 Avatars](https://99avatars.com/) - Create Doodle Avatar
@@ -260,7 +262,8 @@
 * [inkscape](https://inkscape.org/), [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q), [Sketch Toy](https://www.sketchtoy.com/), [Sketchbook](https://www.sketchbook.com/), [Webchemy](https://webchemy.org/) / [GitHub](https://github.com/bitbof/webchemy), [tldraw](https://www.tldraw.com/), [Ok! So](https://okso.app/), [Sketchpad](https://sketchpad.app/) / [2](https://sketch.io/sketchpad) or [Excalidraw](https://excalidraw.com/) - Drawing / Sketching Tools
 * [Virtual Graph Paper](https://virtual-graph-paper.com/) - Grid Sketch Tool
 * [Noodle](https://hundredrabbits.itch.io/noodle) - 1bit Sketch Tool
-* [AutoDraw](https://www.autodraw.com/) or [Magic Sketchpad](https://magic-sketchpad.glitch.me/) - AI Drawing Tools 
+* [AutoDraw](https://www.autodraw.com/) or [Magic Sketchpad](https://magic-sketchpad.glitch.me/) - AI Drawing Tools
+* [ScribbleDiffusion](https://scribblediffusion.com/) - Turn Doodles into Artwork
 * [MonsterMash](https://monstermash.zone/) - Sketch Based Modeling & Animation Tool
 * [Perfect Freehand](https://perfect-freehand-example.vercel.app/) - Draw Free Hand Lines / [GitHub](https://github.com/steveruizok/perfect-freehand)
 * [minimator](https://minimator.app/) - Create Grid Based Drawings
@@ -302,13 +305,14 @@
 * ⭐ **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) 
 * ⭐ **Craiyon Tools** - [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk) / [Generative Engine](https://experiments.runwayml.com/generative_engine/)
 * ⭐ **[Stable Diffusion](https://github.com/Stability-AI/stablediffusion)** - [Discord](https://discord.com/invite/stablediffusion) / [Variations](https://github.com/justinpinkney/stable-diffusion)
+* [CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator) - Determine Likely Used Image Prompts
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
-* [MagicBrush](https://www.magicbru.sh/) - Transform Images
+* [MagicBrush](https://www.magicbru.sh/), [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - Transform Images
 * [Unstable Diffusion](https://discord.com/invite/unstablediffusion)
 * [Mage](https://www.mage.space/)
 * [DALL·E Flow](https://github.com/jina-ai/dalle-flow) / [Colab](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb)
 * [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot)
-* [Midjourney](https://www.midjourney.com/)
+* [Midjourney](https://www.midjourney.com/) / [Guide](https://marigoldguide.notion.site/marigoldguide/Visual-Guide-to-Midjourney-settings-using-mostly-Astronauts-2ae1d8bb125f46e2be9886119c36ecf0)
 * [Dezgo](https://dezgo.com/)
 * [aiimag.es](https://sunija.itch.io/aiimages)
 * [CR8](https://cr8.art/)
@@ -393,9 +397,9 @@
 * [google-images-download](https://github.com/Joeclinton1/google-images-download) - Download Images from Google Images 
 * [googleimagerestored](https://github.com/fanfare/googleimagesrestored) - Old Google Image Search 
 * [dzi-dl](https://github.com/ryanfb/dzi-dl) - Deep Zoom Image Downloader 
-* [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YouTube Screenshot](https://www.youtubescreenshot.com/) or [Get YT Thumbnail](http://www.get-youtube-thumbnail.com/) - Grab YouTube Thumbnails 
 * [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Booru Image Downloader / [Viewer](https://github.com/loadletter/grabber-viewer) 
-* [Flicker-Download](https://github.com/beaufour/flickr-download) - Flickr Scraper 
+* [Flicker-Download](https://github.com/beaufour/flickr-download) - Flickr Image Downloader
+* [tistore](https://github.com/Kagami/tistore) - Tistory Image Downloader
 * [iPack Builder](https://www.deviantart.com/mr-blade/art/iPack-Builder-v2-2-Tool-for-icon-customization-473088895), [2](https://mrbladedesigns.com/ipack-builder/) - Create Icon Pack Installers
 * [Block Posters](https://www.blockposters.com/) - Create Printable Posters
 * [IndieKids](https://www.indiekids.io/) - Printable Coloring Pages
