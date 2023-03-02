@@ -763,6 +763,7 @@
 * [Flash by Night](http://flashbynight.com/) - Browser Games
 * [FlashGamesArchive](http://www.flashgamearchive.com/playable/) - Browser Games
 * [Flash Arch](https://flasharch.com/en) - Browser Games
+* [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Browser Games
 * [The Flash Emulation Repair Shop](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_flash_emulation_repair_shop) - Flash Games Under Repair
 * [Arcade Prehacks](http://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
 * [How-to Play Flash Games](https://rentry.co/oc4wc) - Browser Flash Game Tutorial
