@@ -152,6 +152,7 @@
 
 # ► Android Tools
 
+* ⭐ **[Phone Comparison Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)** - Compare / Buy Phones
 * ⭐ **[Custom Android Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_operating_systems)**
 * ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
 * ⭐ **Magisk Tools** - [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager), [2](https://github.com/ya0211/MRepo) / [SafteyNet Fix](https://github.com/kdrag0n/safetynet-fix) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
@@ -190,10 +191,6 @@
 * [LavSeeker](https://f-droid.org/en/packages/org.woheller69.lavatories/) - Public Toilet Map
 * [Transportr](https://transportr.app/) - Public Transport Assistant
 * [AntennaSearch](http://www.antennasearch.com/) - Cell Tower / Antenna Search
-* [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones / Prices 
-* [DXOMARK](https://www.dxomark.com/) - Smartphone Quality Testing
-* [PhoneSized](https://phonesized.com/) - Phone Size Comparisons
-* [Don’t kill my app!](https://dontkillmyapp.com/) - Manufacturer Battery Life vs. App Functionality
 * [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Health App
 * [BatteryChargeLimiter](https://github.com/MuntashirAkon/BatteryChargeLimiter) - Charging Control
 * [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - Save Battery by Turning Off Pixels
@@ -220,6 +217,7 @@
 * [Smali Patcher](https://forum.xda-developers.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
 * [Play Integrity API Checker](https://play.google.com/store/apps/details?id=gr.nikolasspyr.integritycheck) - Device Integrity Checker
 * [DarQ](https://github.com/KieronQuinn/DarQ), [Dark Mode](https://play.google.com/store/apps/details?id=com.dotdat.darkmodeapp) or [Darkmode Guide](https://pastebin.com/cvast4uN) - Universal Dark Mode
+* [shouko](https://github.com/ivaniskandar/shouko) - Add Features to Android
 * [Raise To Answer](https://play.google.com/store/apps/details?id=me.hackerchick.raisetoanswer) - Answer Phone by Raising to Ear
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - Android Cleanup Tool
 * [Hail](https://github.com/aistra0528/Hail) - Auto-Deactivate Unused Apps
@@ -297,6 +295,7 @@
 * [DoForMe](https://play.google.com/store/apps/details?id=com.aj.dfm) - Location Based Automation
 * [Page Scroll](https://play.google.com/store/apps/details?id=com.phonephreak.pagescroll) - Page Auto-Scroll
 * [Auto Scroll](https://play.google.com/store/apps/details?id=com.moumen.autoPlay) - TikTok Auto Scroll
+* [Gesture Suite](https://play.google.com/store/apps/details?id=com.gesture.suite) - Android Gestures
 * [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) or [TapTap](https://github.com/KieronQuinn/TapTap) - Android Back Gesture Controls
 * [Quick Cursor](https://play.google.com/store/apps/details?id=com.quickcursor) - Cursor for Large Smartphones
 * [Naptime](https://play.google.com/store/apps/details?id=com.franco.doze) - Accelerates Android Sleep Mode
@@ -1008,7 +1007,8 @@
 * [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - Test Internet Speed
 * [Resurfer](https://apps.apple.com/us/app/resurfer/id1489340046), [Orion](https://apps.apple.com/us/app/orion-for-reddit/id1536533779), [Narwhal](https://apps.apple.com/us/app/narwhal-for-reddit/id845422455), [Reno](https://apps.apple.com/us/app/reno-for-reddit/id1489831590#?platform=iphone) or [BaconReader](https://baconreader.com/) - Reddit Client
 * [Remmel](https://apps.apple.com/us/app/remmel-for-lemmy/id1547988171) - Lemmy Client
-* [Jitsi](https://jitsi.org/) - Video Chat 
+* [Jitsi](https://jitsi.org/) - Video Chat
+* [Meshenger](https://github.com/meshenger-app/meshenger-android) - P2P Voice Chat
 * [WO Mic](https://wolicheng.com/womic/) - Use Phone as Mic
 * [Walkie-Talkie](https://walkie-talkie.io/) - Walkie-Talkie App
 * [ZX81](https://apps.apple.com/us/app/zx81/id1180117434) - Sinclair ZX81 Emulator
