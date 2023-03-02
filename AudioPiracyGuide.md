@@ -239,20 +239,19 @@
 * ⭐ **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Download from Spotify
 * ⭐ **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download from YouTube
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)
-* ⭐ **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - Telegram Audio Download Channels
+* ⭐ **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - Telegram Audio Download Channels / [Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots)
 * ⭐ **[/r/freedeezerarl](https://www.reddit.com/r/freedeezerarl/)** - Free Deezer ARL
 * [/r/xTrill](https://reddit.com/r/xTrill) - MP3 / FLAC / [Backup](https://reddit.com/r/xTrillBackup)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer, TIDAL, Qobuz, YouTube, and SoundCloud Downloader / [Colab](https://github.com/taskylizard/rip)
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - Music Ripper
 * [FreyrJS](https://github.com/miraclx/freyr-js) - Spotify, Deezer and Apple Music Downloader
-* [deemix](https://deemix.app/), [orpheusdl-deezer](https://github.com/uhwot/orpheusdl-deezer), [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - Deezer Downloaders
+* [GamDL](https://github.com/glomatico/gamdl) - Apple Music Downloader
+* [deemix](https://deemix.app/), [orpheusdl-deezer](https://github.com/uhwot/orpheusdl-deezer), [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - Deezer Downloaders / [Telegram Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots)
 * [OFFMP3](https://offmp3.com/), [Anything2MP3](https://anything2mp3.cc/) or [conversormp3](https://conversormp3.com.br/) - Video to MP3 Converter
 * [Musify](https://github.com/gokadzev/Musify) - MP3
 * [Music Kraken](https://pypi.org/project/music-kraken/) - MP3
 * [MP3Jam](https://www.mp3jam.org/) - MP3
 * [RedSea](https://github.com/Dniel97/RedSea), [Tidal Media Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) / [Pro](https://github.com/yaronzz/Tidal-Media-Downloader-PRO), [orpheusdl-tidal](https://github.com/Dniel97/orpheusdl-tidal) or [Tidal-DL](https://yaronzz.com/post/tidal_dl_installation) - Tidal Music Downloaders
-* [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - FLAC / MP3
-* [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots)
 * [Chimera](https://yadi.sk/d/9H37O67t9XKsnA) - Music Download Tool 
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Free BandCamp Downloader](https://github.com/7x11x13/free-bandcamp-downloader), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - Bandcamp Downloader
 * [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders) - Soundcloud Download Tools
@@ -393,6 +392,7 @@
 * [HipHopa](https://hiphopa.net/) - Hip Hop / MP3
 * [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 /FLAC
 * [JPFlac](https://jpflac.com/) - Japanese / Korean / MP3 / FLAC
+* [KPopMusicDownload](https://kpopdownloadscmm.blogspot.com/) - K-Pop / MP3
 * [MikuDB](http://mikudb.moe/) - Vocaloid / MP3
 * [El Rincón del Kitsune](https://elrincondelkitsune.blogspot.com/) - Vocaloid / MP3
 * [Guitars101](https://www.guitars101.com/) - Live Audio / Video
