@@ -512,6 +512,7 @@
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
 * ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)** or [IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) - IPTV Resources / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
 * [TOTV](http://totv.org/) - TV / Sport
+* [DaddyLive](https://daddylivehd.sx/) - TV / Sport
 * [123TV](http://123tv.live/), [2](http://123tvnow.com/) - TV / Sports
 * [XUMO](https://www.xumo.tv/channels) - TV
 * [femboys.live](https://femboys.live/) - Sports
@@ -751,6 +752,7 @@
 * [188.165.227.112](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_188.165.227.112) - Movies / TV
 * [162.12.215.254](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_162.12.215.254) - Movies
 * [163.172.97.48](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_163.172.97.48) - Movies / TV
+* [GamesDrivex8](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_gamesdrivex8) - Movies / TV / Anime
 * [akses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_akses) - Movies
 * [Movies, Series... in English](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_movies.2C_series..._in_english) - Movies / TV
 * [Extreme Mirror](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_extreme_mirror) - Movies / TV / Anime
@@ -788,6 +790,7 @@
 * [AniDL](https://anidl.org/) - Sub / Dub
 * [AnimeLand](https://www.animeland.us/) - Dub
 * [DarkLegends](https://darklegends60mb.org/) - Sub
+* [Ripcrabbyanime](https://ripcrabbyanime.in/) - Sub / Dub
 * [Kayoanime](https://kayoanime.com/) - Sub / Dub / [Telegram](https://t.me/Kayoanime)
 * [Animesp](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_animesp) - Sub
 * [Mix Bag of Anime](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mix_bag_of_anime) - Sub / Dub
