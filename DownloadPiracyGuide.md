@@ -227,6 +227,7 @@
 * [Windows Softwares](https://t.me/Windows_Softwares_Pc_Games), [2](https://t.me/windows_softwares) - Telegram
 * [raymondfreesoftware](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g) - Telegram
 * [Rarewares](https://www.rarewares.org/) - Rare Software
+* [Software Recommendation Thread](https://redd.it/plgy48)
 * [FluentStore](https://github.com/yoshiask/FluentStore) - Microsoft Store Frontend
 * [Alt App Installer](https://github.com/m-jishnu/alt-app-installer) - Install Microsoft Store Apps
 * [store.rg](https://store.rg-adguard.net/) - Paid Microsoft Store Link Generator / [Guide](https://rentry.co/paidAppsMsStore)
