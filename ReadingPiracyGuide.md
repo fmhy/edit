@@ -361,7 +361,6 @@
 * [EasyPeasy](https://easypeasymethod.org/) - Painlessly Quit Pornography
 * [UFO Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ufo_books) or [Xenology](http://www.xenology.info/Xeno.htm) - UFO / Xenology
 * [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
-* [Real Life Villains](https://reallifevillains.miraheze.org/wiki/Real_Life_Villains_Wiki) - Extreme Criminal Wiki
 * [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
 * [Potions and Snitches](http://www.potionsandsnitches.org/) - Harry Potter Fanfiction
 * [Projectrho](http://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
@@ -904,10 +903,11 @@
 * [MangaSee](https://www.mangasee.net/)
 * [MixedManga](https://mixedmanga.com/)
 * [Disaster Scans](https://disasterscans.com/) - [Discord](https://discord.gg/JbcJCpv)
-* [MangaDoom](https://mngdoom.com/) 
+* [MangaDoom](https://mngdoom.com/)
 * [MangaSail](https://www.mangasail.co/)
 * [Taadd](http://www.taadd.com/)
 * [BilingualManga](https://bilingualmanga.net/)
+* [MangaFire](https://mangafire.to/)
 * [MangaFreak](https://w12.mangafreak.net/)
 * [Manga-Raw](https://www.manga-raw.club/)
 * [MangaInn](https://mangainn.net/) 
@@ -1314,6 +1314,6 @@
 * [Audiobook Speed Calculator](https://asc.pixelofink.com/) - Average Audiobook Listening Times
 * [xMinutesToRead](https://xminutestoread.xyz/) - Article Time to Read Estimate
 * [RemoveWatermark](https://github.com/ShadonSniper/RemoveWatermark) - IT Ebook Watermark Remover
-* [DeDRM_tools](https://github.com/noDRM/DeDRM_tools) / [2](https://github.com/apprenticeharper/DeDRM_tools), [PDF DRM](https://drive.google.com/file/d/1IeFsmgAbzC_JnRkUQPR0xdzy7NKbHjJq/view), or [Remove Ebook DRM](https://apprenticealf.wordpress.com/) - Ebook DRM Removal Tools / [Guide](https://pastebin.com/KwTBSjrK)
+* [DeDRM_tools](https://github.com/noDRM/DeDRM_tools), [PDF DRM](https://drive.google.com/file/d/1IeFsmgAbzC_JnRkUQPR0xdzy7NKbHjJq/view), or [Remove Ebook DRM](https://apprenticealf.wordpress.com/) - Ebook DRM Removal Tools / [Guide](https://pastebin.com/KwTBSjrK)
 * [DIY Book Scanner](https://diybookscanner.org/) - How-to Scan Books / [Example](https://i.imgur.com/MgEwWVu.png)
 * [The Submission Grinder](https://thegrinder.diabolicalplots.com/) - Find a Publisher
