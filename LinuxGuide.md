@@ -574,6 +574,7 @@
 * [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 * [WebCatalog](https://webcatalog.io/)
+* [Mac Menu Bar](https://macmenubar.com/) - Menu Bar Apps
 * [AppleDB](https://appledb.dev/) - Official Apple Software
 * [Awesome macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Open Source
 Software
@@ -582,6 +583,7 @@ Software
 
 # ► Mac Gaming
 
+* [AppleGamingWiki](https://applegamingwiki.com/) - Mac Game Fixes / Compatibility
 * [SCNLOG](https://scnlog.me/)
 * [Macgamefiles](http://www.macgamefiles.com/)
 * [NXMac](https://nxmac.com/)
