@@ -917,6 +917,7 @@
 * ⭐ **[Movie Recs](https://rentry.co/MovieRecs)** - Movie Recommendation Sites / Tools
 * ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Movie, TV & Anime Recommendations
 * ⭐ **[IMDb Advanced Search](https://www.imdb.com/search/)** or [pyMDB](https://pymdb.mloesch.it/) - Search Engine
+* ⭐ **[Simkl](https://simkl.com/)** - TV / Anime / Movies / [Apps](https://simkl.com/apps/) / [Import Tools](https://simkl.com/apps/import/)
 * ⭐ **[TasteDive](https://tastedive.com/)** - Recommendations 
 * ⭐ **[FlixMetrix](https://flickmetrix.com/)** - Combines IMDb, Rotten Tomatoes & Letterbox ratings
 * ⭐ **[Letterboxd](https://letterboxd.com/)** - Movies
