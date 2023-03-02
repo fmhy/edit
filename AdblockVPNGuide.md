@@ -230,7 +230,7 @@
 * [Cryptee](https://crypt.ee/) - Encrypted Image Storage
 * [PeerTube](https://joinpeertube.org/), [2](https://search.joinpeertube.org/), [3](https://sepiasearch.org/) - Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)
 * [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/), [self-destruct-notes](https://github.com/dustinmoris/self-destruct-notes), [Burn.Link](https://burn.link/), [tlwsd](https://tlwsd.com/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/) or [OneTimeSecret](https://onetimesecret.com/) - Send Self-Destructing Messages
-* [xcodx.ru](https://xcodx.ru/), [Duckist](https://duckist.com/), [Steg Cloak](https://stegcloak.surge.sh/) or [spam mimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
+* [xcodx.ru](https://xcodx.ru/), [Duckist](https://duckist.com/), [chausies encrypt](https://chausies.xyz/encrypt), [Steg Cloak](https://stegcloak.surge.sh/) or [spam mimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
 * [Paper Age](https://github.com/matiaskorhonen/paper-age) - Create Paper Backups of Secrets
 * [Pasteburn](https://github.com/pasteburn/pasteburn) - Self-Hosted Encrypted Pastebin
 * [How-to Buy Bitcoin Anonymously](https://coinsutra.com/buy-bitcoin-with-prepaid-card/)
@@ -361,7 +361,7 @@
 * [logknife](https://github.com/natesales/logknife) - Remove Sensitive Data from Log Files
 * [WhoTracksMe](https://whotracks.me/) or [Trackography](https://trackography.org/) - Site Tracking Info  
 * [YourAdChoices](https://optout.aboutads.info/?c=2&lang=EN) - Check Your Current IBA Status
-* [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Resource Index](https://github.com/mikalv/awesome-i2p)
+* [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Resource Index](https://github.com/mikalv/awesome-i2p) / [Guide](https://rentry.co/CBGI2P)
 * [I2Pd Browser](https://i2pd.website/) - I2P Browser / [GitHub](https://github.com/PurpleI2P/i2pd)
 * [CookieStatus](https://www.cookiestatus.com/) - Browser Tracking Protection Comparisons
 * [NothingPrivate](https://www.nothingprivate.ml/), [Device Info](https://www.deviceinfo.me/), [Privacy Test](https://privacy.net/analyzer/), [IPX](https://ipx.ac/run) or [Sploit](https://sploit.io/test.php) - Browser Data Leak Test
