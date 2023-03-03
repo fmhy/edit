@@ -73,7 +73,6 @@
 * [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin and EA
 * [DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?t=104412) - DLC Unlocker for EA and Origin
 * [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker 
-* [PD2 DLC Unlocker](https://github.com/8fn/DLC-Unlocker-PD2) - DLC Unlocker for Payday 2
 * [Steam DLC Data](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837) - Find SteamDB DLC Data / [GitHub](https://github.com/Sak32009/GetDLCInfoFromSteamDB)
 
 ***
