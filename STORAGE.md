@@ -61,7 +61,7 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 ⭐ **[AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR)**
 
-[DeepAI](https://deepai.org/), [Favird](https://favird.com/), [FutureTools](https://www.futuretools.io/?pricing-model=free), [Futurepedia](https://www.futurepedia.io/), [RunawayML](https://runwayml.com/), [AISearchTool](https://www.aisearchtool.com/), [ToolScoutAI](https://toolscout.ai/), [AI Creator Tools](https://library.phygital.plus/), [AIcyclopedia](https://www.aicyclopedia.com/free-ai-tools), [topai](https://topai.tools/)
+[DeepAI](https://deepai.org/), [Favird](https://favird.com/), [FutureTools](https://www.futuretools.io/?pricing-model=free), [Futurepedia](https://www.futurepedia.io/), [RunawayML](https://runwayml.com/), [AISearchTool](https://www.aisearchtool.com/), [ToolScoutAI](https://toolscout.ai/), [AI Creator Tools](https://library.phygital.plus/), [AIcyclopedia](https://www.aicyclopedia.com/free-ai-tools), [topai](https://topai.tools/), [AI-Infinity](https://github.com/meetpateltech/AI-Infinity)
 
 ***
 
@@ -206,7 +206,8 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 #### Android Operating Systems
 
-⭐ **[Android Rom List](https://github.com/musabcel/android_rom_list)**
+* ⭐ **[Android Rom List](https://github.com/musabcel/android_rom_list)** 
+* ⭐ **[OpenAndroidInstaller](https://openandroidinstaller.org/)** - Install Android Operating Systems
 
 [LineageOS](https://www.lineageos.org/), [Replicant](https://www.replicant.us/), [potatoproject](https://potatoproject.co/), [ArrowOS](https://arrowos.net/download), [CDroid](https://crdroid.net/), [HavocOS](https://sourceforge.net/projects/havoc-os/), [Corvusrom](https://www.corvusrom.com/), [BlissRoms](https://downloads.blissroms.org/), [ParanoidAndroid](https://paranoidandroid.co/), [PixelExperience](https://download.pixelexperience.org/), [Evolution-x](https://evolution-x.org/), [e.foundation](https://e.foundation/), [BeyondROM_S20](https://t.me/BeyondROM_S20), [ProtonAOSP](https://protonaosp.org/) / [GitHub](https://github.com/ProtonAOSP), [Anarchy-Droid](https://anarchy-droid.com/) / [Github](https://github.com/amo13/Anarchy-Droid), [Evolution X](https://evolution-x.org/), [ProjectBlaze](https://github.com/ProjectBlaze)
 
@@ -416,7 +417,7 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 **Prompts**
 
-[prompts.chat](https://prompts.chat/), [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts), [botprompts](https://botprompts.net/), [aisherpa](https://aisherpa.super.site/), [quickref](https://quickref.me/chatgpt),[ChatGPT-History](https://github.com/benf2004/ChatGPT-History), [flowgpt](https://flowgpt.com/)
+[prompts.chat](https://prompts.chat/), [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts), [botprompts](https://botprompts.net/), [aisherpa](https://aisherpa.super.site/), [quickref](https://quickref.me/chatgpt),[ChatGPT-History](https://github.com/benf2004/ChatGPT-History), [flowgpt](https://flowgpt.com/), [jailbreakchat](https://www.jailbreakchat.com/)
 
 ***
 
@@ -498,7 +499,7 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 ⭐ **[ChatGPT](https://chat.openai.com/)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chatgpt_tools)
 
-[Mitsuku](https://www.pandorabots.com/mitsuku/), [cleverbot](https://www.cleverbot.com/), [eviebot](https://www.eviebot.com/en/), [Kajiwoto](https://kajiwoto.com/) (ai builder), [Talk-Bot](http://www.frontiernet.net/~wcowart/index.shtml), [Madam Zena](http://www.madamzena.com/), [WriteSonic](https://writesonic.com/chat), [gpt3](https://gpt3.ethio-tech.com/), [replika](https://replika.com/), [Character AI](https://beta.character.ai/), [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain), [InWorld](https://www.inworld.ai/), [Chai](https://chai.ml/), [PygmalionAI](https://www.reddit.com/r/PygmalionAI/comments/10kr5zk/helpful_links/), [AnimaAI](https://myanima.ai/), [bing-chat](https://github.com/transitive-bullshit/bing-chat), [hellohistory](https://www.hellohistory.ai/)
+[Mitsuku](https://www.pandorabots.com/mitsuku/), [cleverbot](https://www.cleverbot.com/), [eviebot](https://www.eviebot.com/en/), [Kajiwoto](https://kajiwoto.com/) (ai builder), [Talk-Bot](http://www.frontiernet.net/~wcowart/index.shtml), [Madam Zena](http://www.madamzena.com/), [WriteSonic](https://writesonic.com/chat), [gpt3](https://gpt3.ethio-tech.com/), [replika](https://replika.com/), [Character AI](https://beta.character.ai/), [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain), [InWorld](https://www.inworld.ai/), [Chai](https://chai.ml/), [PygmalionAI](https://www.reddit.com/r/PygmalionAI/comments/10kr5zk/helpful_links/), [AnimaAI](https://myanima.ai/), [bing-chat](https://github.com/transitive-bullshit/bing-chat), [hellohistory](https://www.hellohistory.ai/), [2Dumb2Destroy](https://2dumb2destroy.com/)
 
 ***
 
@@ -1220,7 +1221,7 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 #### Image Upscalers 
 
-[Waifu2x](https://github.com/nagadomi/waifu2x), [Upscayl](https://github.com/upscayl/upscayl), [GigaPixel](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [Resizer](https://resizer.in/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [Upscaler Stockphotos](https://upscaler.stockphotos.com/), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/), [image upscaler](https://image-upscaler.com/), [CupScale](https://github.com/n00mkrad/cupscale), [Upscale Media](https://www.upscale.media/), [Zyro Upscaler](https://zyro.com/tools/image-upscaler), [Nicescaler](https://jangystudio.itch.io/nicescaler), [DFDNet](https://github.com/csxmli2016/DFDNet), [Nero AI](https://ai.nero.com/image-upscaler), [SDUpscale](https://rentry.org/sdupscale), [JPEG Quantsmooth](https://github.com/ilyakurdyukov/jpeg-quantsmooth), [imgupscaler](https://imgupscaler.com/)
+[Waifu2x](https://github.com/nagadomi/waifu2x), [Upscayl](https://github.com/upscayl/upscayl), [GigaPixel](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [Resizer](https://resizer.in/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [Upscaler Stockphotos](https://upscaler.stockphotos.com/), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/), [image upscaler](https://image-upscaler.com/), [CupScale](https://github.com/n00mkrad/cupscale), [Upscale Media](https://www.upscale.media/), [Zyro Upscaler](https://zyro.com/tools/image-upscaler), [Nicescaler](https://jangystudio.itch.io/nicescaler), [DFDNet](https://github.com/csxmli2016/DFDNet), [Nero AI](https://ai.nero.com/image-upscaler), [SDUpscale](https://rentry.org/sdupscale), [JPEG Quantsmooth](https://github.com/ilyakurdyukov/jpeg-quantsmooth), [imgupscaler](https://imgupscaler.com/), [chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
 
 **Waifu2x Tools**
 
@@ -1306,7 +1307,7 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 #### IPTV Playlists
 
-[awesome-iptv-free](https://github.com/iptv-org/awesome-iptv#free), [HLS Cat](https://hlscat.com/), [IPTVCat](https://iptvcat.net/), [AllIPTV](https://www.alliptvlinks.com/), [TVLab](https://t.me/tvlab), [IPTV_Sport](https://t.me/iptv_sport), [Leaksat](https://leaksat.com/category/free-iptv/), [iptvmate](https://iptvmate.net/), [dailym3uiptv](https://dailym3uiptv.com/), [iptv-gratuits](https://iptv-gratuits.com/), [iptvsat](https://iptvsat.info/), [eja.tv](https://eja.tv/), [iptv4sat](https://www.iptv4sat.com/), [iptv-work](https://iptv-work.at.ua/), [xtemus](https://xtemus.com/), [Hacxx-Free-IPTV](http://bit.ly/Hacxx-Free-IPTV), [best.freeiptv](https://best.freeiptv.life/), [index.m3u](https://iptv-org.github.io/), [IPTVList](https://iptvlist.ml/), [Free-TV](https://github.com/Free-TV/IPTV)
+[awesome-iptv-free](https://github.com/iptv-org/awesome-iptv#free), [HLS Cat](https://hlscat.com/), [IPTVCat](https://iptvcat.net/), [AllIPTV](https://www.alliptvlinks.com/), [TVLab](https://t.me/tvlab), [IPTV_Sport](https://t.me/iptv_sport), [Leaksat](https://leaksat.com/category/free-iptv/), [iptvmate](https://iptvmate.net/), [dailym3uiptv](https://dailym3uiptv.com/), [iptv-gratuits](https://iptv-gratuits.com/), [iptvsat](https://iptvsat.info/), [eja.tv](https://eja.tv/), [iptv4sat](https://www.iptv4sat.com/), [iptv-work](https://iptv-work.at.ua/), [xtemus](https://xtemus.com/), [Hacxx-Free-IPTV](http://bit.ly/Hacxx-Free-IPTV), [best.freeiptv](https://best.freeiptv.life/), [index.m3u](https://iptv-org.github.io/), [IPTVList](https://iptvlist.ml/), [Free-TV](https://github.com/Free-TV/IPTV), [IPTV Screwed](https://discord.gg/aukabqv325)
 
 ***
 
@@ -2027,7 +2028,10 @@ Add the following commands to a search to manually scrape each site.
 
 #### Presentation Tools
 
-[ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Carnac](http://code52.org/carnac/), [Presen](https://presen-vid.com/), [mentimeter](https://www.mentimeter.com/), [beautiful.ai](https://www.beautiful.ai/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Deckdeckgo](https://deckdeckgo.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [Desk](https://www.animaker.com/deck), [Slides](https://slides.com/), [FreeShow](https://freeshow.app/), [Presenta](https://play.presenta.cc/), [OpenLearning](https://www.openelearning.org/), [Slideshare](https://www.slideshare.net/) / [Gif Convert](https://gifdeck.in/), [ScreenRec](https://screenrec.com/), [Slides](http://maaslalani.com/slides/) / [GitHub](https://github.com/maaslalani/slides), [SlidesAI](https://www.slidesai.io/) 
+[ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Carnac](http://code52.org/carnac/), [Presen](https://presen-vid.com/), [mentimeter](https://www.mentimeter.com/), [beautiful.ai](https://www.beautiful.ai/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Deckdeckgo](https://deckdeckgo.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [Desk](https://www.animaker.com/deck), [Slides](https://slides.com/), [FreeShow](https://freeshow.app/), [Presenta](https://play.presenta.cc/), [OpenLearning](https://www.openelearning.org/), [Slideshare](https://www.slideshare.net/) / [Gif Convert](https://gifdeck.in/), [ScreenRec](https://screenrec.com/), [Slides](http://maaslalani.com/slides/) / [GitHub](https://github.com/maaslalani/slides)
+
+* [GPTForSlides](https://www.gptforslides.app/) or [SlidesAI](https://www.slidesai.io/) - Create Presentations via AI
+* [GSlides Maker](https://github.com/vilmacio/gslides-maker) - Turn Wiki Pages into Google Slides
 
 **Presentation Templates**
 
@@ -2880,7 +2884,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Telegram File Tools
 
-* ⭐ **[DrFileStreamBot](https://t.me/DrFileStreamBot)**, [UploadBots](https://t.me/UploadBots), [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot), [Uploadgram](https://uploadgram.me/) / [Bot](https://t.me/uploadgrammebot), [LinkToFileTGBot](https://t.me/LinkToFileTGBot), [eliteflix](https://t.me/eliteflix_file_to_link_bot), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [UploadURL](https://t.me/UploadsRobot), [easy_share_bot](https://t.me/easy_share_bot), [JMDKH Mirror](https://t.me/joinchat/VNLumNnovC45YTg1), [UploadBot](https://t.me/uploadbot) or [UploadDxbot](https://t.me/UploadDxbot) - Upload Files to Telegram
+* ⭐ **[DrFileStreamBot](https://t.me/DrFileStreamBot)**, [UploadBots](https://t.me/UploadBots), [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot), [Uploadgram](https://uploadgram.me/) / [Bot](https://t.me/uploadgrammebot), [LinkToFileTGBot](https://t.me/LinkToFileTGBot), [eliteflix](https://t.me/eliteflix_file_to_link_bot), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [UploadURL](https://t.me/UploadsRobot), [easy_share_bot](https://t.me/easy_share_bot), [JMDKH Mirror](https://t.me/joinchat/VNLumNnovC45YTg1), [ArchiveTGFilezBot](https://t.me/ArchiveTGFilezBot), [UploadBot](https://t.me/uploadbot) or [UploadDxbot](https://t.me/UploadDxbot) - Upload Files to Telegram
 * [GdriveXbot](https://t.me/GdriveXbot), [google-drive-telegram-bot](https://github.com/viperadnan-git/), [HK_upload_bot](https://t.me/HK_driveupload_bot), [gdrive_upload_bot](https://t.me/gdrive_upload_bot), [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot), [driveuploadbot](https://t.me/driveuploadbot) or [gdriveupme_bot](https://t.me/gdriveupme_bot) - Google Drive Telegram upload bots 
 * [DrClonerBot](https://t.me/DrClonerBot) - GDrive Clone Bot
 * [Google Drive Bot](https://t.me/Gdriveit_bot) - Google Drive Client in Telegram
@@ -3403,6 +3407,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 * [onlyhwid](https://github.com/kashtechtips/onlyhwid)
 * [KMS-Auto](https://kms-auto.site/)
 * [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC) (Vista/7/Server 2008)
+* [Office Activation Fix](https://web.archive.org/web/20211014003224/https://windowsaddict.ml/office-license-is-not-genuine)
 
 ***
 
