@@ -43,7 +43,6 @@
 * [DripDrop](https://www.dripdrop.live/) - Product Drop Countdown
 * [SetAlarmClock](https://setalarmclock.net/) or [AlarmDJ](https://alarmdj.com/) - Online Alarm Clocks
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
-* [GSlides Maker](https://github.com/vilmacio/gslides-maker) - Turn Wiki Pages into Google Slides
 * [Grocy](https://grocy.info/) - Grocery / Household Management Tool
 * [Volmarg](https://volmarg.github.io/) - Personal Management Tool
 * [WhoBrings](https://whobrings.com/) - Party Item Management Tool
@@ -174,7 +173,7 @@
 * [Neble](https://neble.app/summary) - Summarize Text
 * [Linguix](https://linguix.com/), [HyperWrite](https://hyperwriteai.com/) or [TextCleanr](https://www.textcleanr.com/) - Writing Assistants
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
-* [GLTR](http://gltr.io/dist/index.html), [ZeroGPT](https://www.zerogpt.com/), [DetectGPT](https://detectgpt.com/) or [openai-detector](https://huggingface.co/openai-detector/), [2](https://openai-openai-detector.hf.space/) - Detect AI Written Text
+* [GLTR](http://gltr.io/dist/index.html), [ZeroGPT](https://www.zerogpt.com/), [DetectGPT](https://detectgpt.com/), [chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection), [ai-content-detector](https://contentatscale.ai/ai-content-detector/) or [openai-detector](https://huggingface.co/openai-detector/) / [2](https://openai-openai-detector.hf.space/) - Detect AI Written Text
 * [Cliche Info](http://cliche.theinfo.org/) - Detect Cliché's
 * [phraseup](http://www.phraseup.com/) - Autocomplete Common Phrases
 * [SongLyricsGenerator](http://www.songlyricsgenerator.com/) or [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) - Lyrics Generator
@@ -1777,7 +1776,7 @@ Twitch Stream Tracker
 * [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - CLI Commands Cheatsheet
 * [Operating System Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_os_emulators) - Emulate Alternate OS
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
-* [Office License Isn't Genuine](https://web.archive.org/web/20211014003224/https://windowsaddict.ml/office-license-is-not-genuine) - Fix Office Activation Issues
+* [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) - Remove Ghosted Devices
 * [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) - BSD Operating Systems
 * [Medicat USB](https://medicatusb.com/) - USB Toolkit
 * [Rufus](https://rufus.ie/), [AIO Boot](https://www.aioboot.com/), [UUP](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x), [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) or [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) - Create Bootable USB Drives  
