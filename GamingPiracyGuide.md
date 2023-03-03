@@ -29,7 +29,6 @@
 * [Seven Gamers](https://www.seven-gamers.com/) - Download / Torrent
 * [Leeching Hell](http://www.leechinghell.pw/) - Download
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
-* [DDL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) / [Torrent](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f games
 * [F2P Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_f2p_games) - Free to Play Games
 * [VGPErson](https://vgperson.com/games/) - Japanese Translated Freeware Games
 * [Gamdie](https://gamdie.com/) / [Discord](https://discord.gg/hH9sedx4de), [itch.io](https://itch.io/games/new-and-popular/featured/free) / [Downloader](https://github.com/Emersont1/itchio) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
