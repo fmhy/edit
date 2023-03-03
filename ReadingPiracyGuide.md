@@ -308,7 +308,8 @@
 * [BibleEmoji](http://www.bibleemoji.com/) - Convert Bible Verses to Emojis
 * [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
 * [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) / [2](https://beta.quran.com/en) - Quran Translation / [Mobile](https://github.com/quran/quran_android)
-* [TheIslam360](https://theislam360.com/) - Islamic Research App 
+* [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
+* [TheIslam360](https://theislam360.com/) - Islamic Research App
 * [English Torah](http://englishtorah.com/) - Torah Translation
 * [Halakhah](https://www.halakhah.com/) - Talmud Translation
 * [Targum](http://targum.info/targumic-texts/) - Targum Translation
