@@ -1473,7 +1473,7 @@
 ## ▷ Streaming 
 
 * [rezka](https://rezka.ag/) - Movies / TV / Anime
-* [Yohoho](https://yohoho.cc/), [2](https://4h0y.gitlab.io/) - Movies, Anime
+* [Yohoho](https://yohoho.cc/), [2](https://4h0y.gitlab.io/) - Movies / Anime
 * [baskino](http://baskino.me/) - Movies
 * [Kinogo](https://kinogo.la/), [2](https://kinogo-net.org/) - Movies / TV / Anime / [Telegram](https://t.me/kinogoby)
 * [Kinotochka](https://kinotochka.co/) - Movies / TV / Anime
