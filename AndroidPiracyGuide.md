@@ -295,7 +295,7 @@
 * [DoForMe](https://play.google.com/store/apps/details?id=com.aj.dfm) - Location Based Automation
 * [Page Scroll](https://play.google.com/store/apps/details?id=com.phonephreak.pagescroll) - Page Auto-Scroll
 * [Auto Scroll](https://play.google.com/store/apps/details?id=com.moumen.autoPlay) - TikTok Auto Scroll
-* [Gesture Suite](https://play.google.com/store/apps/details?id=com.gesture.suite) - Android Gestures
+* [Gesture Suite](https://play.google.com/store/apps/details?id=com.gesture.suite) or [Fluid Gestures](https://play.google.com/store/apps/details?id=com.fb.fluid) - Android Gestures
 * [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) or [TapTap](https://github.com/KieronQuinn/TapTap) - Android Back Gesture Controls
 * [Quick Cursor](https://play.google.com/store/apps/details?id=com.quickcursor) - Cursor for Large Smartphones
 * [Naptime](https://play.google.com/store/apps/details?id=com.franco.doze) - Accelerates Android Sleep Mode
@@ -1013,7 +1013,8 @@
 * [Walkie-Talkie](https://walkie-talkie.io/) - Walkie-Talkie App
 * [ZX81](https://apps.apple.com/us/app/zx81/id1180117434) - Sinclair ZX81 Emulator
 * [My6809](https://apps.apple.com/us/app/my6809/id1233655601) - Motorola 6809 Emulator
-* [Guardic](https://apps.apple.com/us/app/guardic-msx/id905921949) or [ZanacMSX](https://apps.apple.com/us/app/zanac-msx/id834098690 ) - MSX Emulator
+* [Guardic](https://apps.apple.com/us/app/guardic-msx/id905921949) or [ZanacMSX](https://apps.apple.com/us/app/zanac-msx/id834098690) - MSX Emulator
+* [iMessage Exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage Chats
 * [Nicegram](https://nicegram.app/) - Telegram App
 * [TheChan](https://github.com/TheChanDev/TheChan) - 4Chan App
 * [Conversations](https://f-droid.org/en/packages/eu.siacs.conversations/) - XMPP Client
