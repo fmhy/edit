@@ -731,7 +731,7 @@
 * [3D HD]( https://3d-hd.club/) - 3D Movie ISOs
 * [IRC Movie Channels](https://pastebin.com/2AeYizZK)
 * [StreamFab](https://pastebin.com/Kgui74wd) - Premium Streaming Site Video Downloader / [Screenshot](https://i.imgur.com/cH0XLZs.png)
-* [Gophie](https://github.com/Go-phie/gophie) or [Movies-and-Series-Scraper](https://github.com/yousefkotp/Movies-and-Series-Scraper) - Streaming Site Download CLI
+* [Gophie](https://github.com/Go-phie/gophie), [Movie CLI](https://github.com/mov-cli/mov-cli) or [Movies-and-Series-Scraper](https://github.com/yousefkotp/Movies-and-Series-Scraper) - Streaming Site Download CLI
 * [BaoXinh](https://tool.baoxinh.com/) - FEmbed / Mixdrop Downloader
 * [123MoviesRipper](https://github.com/Xonshiz/123MoviesRIpper) - 123Movies Downloader
 * [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - Add Download Site Results to IMDb
@@ -830,7 +830,7 @@
 
 * ⭐ **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
 * ⭐ **[Stremio](https://www.stremio.com/)** / [Enhanced](https://github.com/REVENGE977/stremio-enhanced-community) - Torrent Streaming App
-* ⭐ **Stremio Tools** - [Guide](https://rentry.co/privatestremio) / [Addons](https://stremio-addons.netlify.app/) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/) / [GDrive Fetch](https://github.com/ShuvamJaswal/Gdrive-Stremio-Update)
+* ⭐ **Stremio Tools** - [Guide](https://rentry.co/privatestremio) / [Addons](https://stremio-addons.netlify.app/) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/) / [GDrive Fetch](https://github.com/ShuvamJaswal/Gdrive-Stremio-Update) / [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure)
 * ⭐ **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents
 * ⭐ **[Radarr](https://radarr.video/)** - Autodownload Movie Torrents / [GitHub](https://github.com/Radarr/Radarr)
 * ⭐ **[Sonarr](https://sonarr.tv/)** / [GitHub](https://github.com/Sonarr/Sonarr), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - Autodownload TV Torrents / [Guide](https://wiki.servarr.com/)
