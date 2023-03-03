@@ -351,11 +351,11 @@
 * [Charm](https://svenhjol.github.io/Charm/), [Essential](https://essential.gg/), [Vanillatweaks](https://www.vanillatweaks.net/) or [Quark](https://quarkmod.net/) - Mincraft Quality of Life Mods
 * [Minecraft QOL Mods](https://rentry.co/mc-qol) or [sk1er.club](https://sk1er.club/) - Minecraft Quality of Life Mod List
 * [MCPEDL](https://mcpedl.com/) - Minecraft PE/Bedrock Mods, Maps & Resources
+* [modsman](https://github.com/sargunv/modsman), [Pax](https://github.com/froehlichA/pax) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
 * [Minecraft Command Science](https://minecraftcommand.science/) - Minecraft Command Generator
 * [DigiMinecraft](https://www.digminecraft.com/) - Minecraft Guides
-* [Couleur Tweak Tips](http://discord.gg/CTT) - Minecraft Tweaks & Tips
+* [Couleur Tweak Tips](http://discord.gg/CTT) - Minecraft Tweaks / Tips
 * [OptiFine Alternatives](https://lambdaurora.dev/optifine_alternatives/) - Minecraft OptiFine Alternatives for Fabric
-* [modsman](https://github.com/sargunv/modsman) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Manager
 * [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - Minecraft Utility Mod
 * [Minecraft Performance Flags](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks) - Java Minecraft Benchmarks
 * [No Telemetry](https://modrinth.com/mod/no-telemetry) - Disable Telemetry Data
