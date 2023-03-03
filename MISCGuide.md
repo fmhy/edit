@@ -250,6 +250,7 @@
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
 * [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
 * [GPUDrops](https://gpudrops.com/) / [Discord](https://discord.gg/gpudrops), [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
+* [Blahaj Quest](https://blahaj.quest/) - Blåhaj Tracking Map
 * [BitRefill](https://www.bitrefill.com/) - Buy Gift Cards via Crypto
 * [Craftie](https://www.craftle.app/) - Furniture Price Calculator
 * [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
@@ -296,6 +297,7 @@
 * [Random Screenshot](https://randomscreenshot.com/) or [Random Prnt.sc](https://chrishannah.me/prntsc/) - Random Screenshots
 * [Archillect](https://archillect.com/archive) - Image Posting Bot
 * [Random Comic Generator 3.0](https://explosm.net/rcg) - Explosm Random Comic Generator
+* [blhaj-nra.art](https://xn--blhaj-nra.art/) - Blåhaj Images
 * [Talk Obama To Me](http://talkobamato.me/) - Make Obama Say Stuff
 * [Objection!](https://objection.lol/) - Ace Attorney Objecting on Your Behalf 
 * [Listography](https://listography.com/), [Ranker](https://www.ranker.com/), [FlexLists](https://flexlists.com/), [TheTopsTens](https://www.thetoptens.com/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
