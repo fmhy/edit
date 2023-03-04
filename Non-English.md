@@ -782,7 +782,6 @@
 * [Annict](https://annict.com/) - Anime Tracker
 * [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Anime Subtitles
 * [Japan Reference](https://jref.com/) - Japanese Culture Forum
-* [OnlyNeat](http://onlyneat.com/) - Tech Guides
 * [fuseji](http://fuseji.net/) - Hidden Character Search
 
 ## ▷ Downloading
