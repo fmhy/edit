@@ -897,6 +897,7 @@
 * [MangaList](https://mangalist.com/) 
 * [Manga Park](https://mangapark.net/)
 * [MangaTown](https://www.mangatown.com/)
+* [MangaFire](https://mangafire.to/home)
 * [FunManga](https://funmanga.com/) 
 * [MangaSee](https://www.mangasee.net/)
 * [MixedManga](https://mixedmanga.com/)
