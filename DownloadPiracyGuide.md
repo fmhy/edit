@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/dxiGLuY.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/BECAcQP.png)** - For mobile users
 
 ***
 ***
@@ -333,43 +333,6 @@
 ***
 
 ## ▷ [Mac Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_software)
-
-***
-
-## ▷ GFX Design Software
-
-* Note - Some of these also host editing courses
-* [All-free-download](https://all-free-download.com/)
-* [Download Pirate](https://www.downloadpirate.com/)
-* [G4D](https://gift4designer.net/)
-* [DesireFX](https://www.desirefx.me/)
-* [GFXMountain](http://gfxmountain.com/)
-* [GFXhome](http://gfxhome.ws/index.php)
-* [Graphicex](https://graphicex.com/)
-* [PSDKeys](https://psdkeys.com/)
-* [GoDownloads](https://godownloads.net/) 
-* [GFXDownload](http://gfxdownload.com/)
-* [Uparchip](https://www.uparchvip.com/category/free-content/)
-* [AwesomeVFX](https://gitlab.com/tds-anonymous/awesome-vfx) 
-* [Vidigraph](https://t.me/vidigraph) 
-
-***
-
-## ▷ Audio Software
-
-* [GoAudio](https://goaudio.info/) 
-* [VSTHouse](http://vsthouse.ru/) 
-* [Audio Plugin](https://audioplugin.net/)
-* [VST-Platinum](https://vst-platinum.com/) 
-* [SamplesHome](https://sampleshome.com/) 
-* [VSTBase](https://www.vstbase.org/) 
-* [Magesy](https://magesy.blog/) 
-* [VSTCrackWeb](https://vstcrackweb.com/) 
-* [MagesyPro](https://www.magesypro.com/) 
-* [Music-Create](https://music-create.org/) 
-* [Audio.Tools](https://audio.tools/) 
-* [jbouchat](http://jbouchat.ucoz.com/)
-* [Audioz](https://audioz.download/)
 
 ***
 
