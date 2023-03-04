@@ -12,7 +12,7 @@
 
 ## ▷ Streaming Apps
 
-* ⭐ **[Spotify Client](https://www.spotify.com/us/download/)**, [Lofi Rocks](https://www.lofi.rocks/), [ncspot](https://github.com/hrkfdn/ncspot), [Strix](https://arlo.site/strixmusic/install/) or [SpoTube](https://github.com/KRTirtho/spotube) - Spotify Clients / [Android TV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_android_tv_spotify)
+* ⭐ **[Spotify Client](https://www.spotify.com/us/download/)**, [Lofi Rocks](https://www.lofi.rocks/), [ncspot](https://github.com/hrkfdn/ncspot), [Strix](https://www.strixmusic.com/) or [SpoTube](https://github.com/KRTirtho/spotube) - Spotify Clients / [Android TV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_android_tv_spotify)
 * ⭐ **[Spotify Tools / Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - Spotify Tools, Adblockers and Customization 
 * [YouTube Music Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_music_players)
 * [nuclear](https://nuclear.js.org/) - Streaming / [GitHub](https://github.com/nukeop/nuclear) / [Discord](https://discord.com/invite/JqPjKxE)
