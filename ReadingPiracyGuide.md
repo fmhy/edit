@@ -74,7 +74,6 @@
 * [Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f and type "Books / Comics / Magazines"
 * [IRC Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - Download Ebooks from IRC / [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/), [2](https://encyclopediadramatica.online/Bookz) / [mIRC](https://redd.it/znprct) / [Downloader](https://github.com/aghayes/rusty_book_pirate/), [2](https://github.com/evan-buss/openbooks), [3](https://github.com/Footsiefat/Openbooks-Downloader)
 * [Archive.org](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers
-* [English-Bookys](https://english-bookys.com/) - Books / Magazines / Newspapers / Comics
 * [The Library](https://discord.gg/mSyFJz9) or [The Great E-Library](https://discord.gg/efBxSuz) - Book Discord Servers 
 * [EBOOKS SET 2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ebooks_set_2) - Books / Drive
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines 
@@ -149,7 +148,6 @@
 * [D-PDF](https://d-pdf.com/) - Books
 * [GrayCity](https://graycity.net/) - Books
 * [CentslessBooks](https://centslessbooks.com/) - Books 
-* [SNEWD](https://snewd.com/) - Books 
 * [Litgu.ru](https://litgu.ru/) - Books
 * [British Library](https://www.bl.uk/) - Books
 * [EbookLobby](http://ebooklobby.com/) - Books
@@ -334,7 +332,7 @@
 ## ▷ Special Interest
 
 * ⭐ **[Cookbooks / Recipes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_cooking)** - Cookbook and Recipe Sites
-* ⭐ **[Wikiquote](https://en.wikiquote.org)**, [Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [ThinkExist](http://thinkexist.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [BrainyQuote](https://www.brainyquote.com/), [QuoteGarden](https://www.quotegarden.com/) or [Glimbay](https://www.glimbay.com/) - Quotes
+* ⭐ **[Wikiquote](https://en.wikiquote.org)**, [Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [ThinkExist](http://thinkexist.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [BrainyQuote](https://www.brainyquote.com/), [Quote Collections](https://redd.it/dlao3b) or [QuoteGarden](https://www.quotegarden.com/) - Quotes
 * ⭐ **[do_k_ument](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_do_k_ument)** - Survival, Forging, Smithing, Weapons Training, Field Manuals
 * [Short Stories](https://short-stories.co/) or [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
 * [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
@@ -845,7 +843,6 @@
 * [ReadAllComics](http://readallcomics.com/)
 * [Read Full Comic](https://readfullcomic.com/) / [2](https://read-comic.com/) / [3](https://viewcomiconline.com/)
 * [comicbookpdf](https://www1.comicbookpdf.com/) 
-* [comiconline](https://comiconline.org/)
 * [KidsGen](https://www.kidsgen.com/comics/)
 * [DC Universe Infinite](https://www.dcuniverseinfinite.com/collections/free-to-read-row) - Free DC Comics
 * [Marvel.com](https://www.marvel.com/comics/list/623/get_started_with_free_issues?&options%5Boffset%5D=0&totalcount=76) - Free Marvel Comics
@@ -916,7 +913,6 @@
 * [MangaBuddy](https://mangabuddy.com)
 * [ReadKomik](https://readkomik.com/)
 * [DogManga](https://dogemanga.com/)
-* [KissManga](https://kissmanga.org/)
 * [MangaOwl](https://mangaowl.to/)
 * [MangaReader](https://mangareader.cc/)
 * [MC Reader](https://www.mcreader.net/)
@@ -928,7 +924,6 @@
 * [Tenmanga](https://www.tenmanga.com/)
 * [Tenkoreader](https://tenkoreader.com/)
 * [OniManga](https://onimanga.com)
-* [Anify](https://anify.club/)
 * [Mangadex.tv](https://mangadex.tv)
 * [KumaScans](https://kumascans.com/) 
 * [MangaBat](https://m.mangabat.com/)
@@ -947,7 +942,6 @@
 * [MangaYeh](https://mangayeh.com)
 * [MyReadingManga](https://myreadingmanga.info/)
 * [MangaGo](https://www.mangago.me/)
-* [ISekaiScan](https://isekaiscan.com/) 
 * [KomikKid](https://www.komikid.com/)
 * [Hiperdex](https://hiperdex.com/)
 * [MangaFox](https://fanfox.net/)
@@ -991,7 +985,6 @@
 * [Novelmic](https://novelmic.com)
 * [Bibi Manga](https://bibimanga.com/)
 * [Mangatx](https://mangatx.com/)
-* [Manhuakiss](https://manhuakiss.com/)
 * [Elarc Page](https://elarcpage.com/)
 * [Coffee Manga](https://coffeemanga.io/)
 * [Pian Manga](https://pianmanga.me/)
@@ -1083,7 +1076,6 @@
 * [NeoSekaiTranslations](https://www.neosekaitranslations.com/)
 * [Wuxia Blog](https://www.wuxia.blog)
 * [Wuxia Here](https://www.wuxiahere.com/)
-* [WuxiaWorldSite](https://wuxiaworldsite.co)
 * [Novel Translations](https://lightnovelstranslations.com/)
 * [WebNovelOnline](https://webnovelonline.com/)
 * [Novelsala](https://novelsala.com/)
