@@ -346,7 +346,6 @@
 * [xprm](https://xprm.net/) - MP3 / DL / Stream / Requests
 * [Jimmy R](http://www.jimmyr.com/mp3_search.php) or [Musgle](http://www.musgle.com/) - Google Directory Search / MP3
 * [The Noise-Arch Archive](https://archive.org/details/noise-arch) - Underground Cassette Tapes
-* [Unreleased Disco](https://unreleased.me/) - MP3 / Unreleased Singles / [Subreddit](https://reddit.com/r/UnreleasedDisco)
 * [Take Metal](http://takemetal.org/) - Metal / MP3
 * [GetMetal Club](https://getmetal.club/) - Metal / MP3 / FLAC 
 * [Me-4U](https://me-4u.com/index.php) - Metal / MP3
@@ -424,7 +423,6 @@
 * ⭐ **[SolidTorrents](https://solidtorrents.to/)** - MP3 / FLAC / [/r/SolidTorrents](https://reddit.com/r/SolidTorrents)
 * ⭐ **[Lidarr](https://github.com/Lidarr/Lidarr)** or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
 * [DimeADozen](http://www.dimeadozen.org/) - MP3 / FLAC
-* [TheAudioScene](https://theaudioscene.net/) - MP3 / FLAC
 * [HQMusic](http://hqmusic.info/) - FLAC / Signup Required
 * [BlackTorrent](https://blacktorrent.ru/) - Metal / MP3 / FLAC
 * [TheTradersDen](http://www.thetradersden.org/) - FLAC
