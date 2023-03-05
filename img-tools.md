@@ -311,6 +311,7 @@
 * [Unstable Diffusion](https://discord.com/invite/unstablediffusion)
 * [Mage](https://www.mage.space/)
 * [DALL·E Flow](https://github.com/jina-ai/dalle-flow) / [Colab](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb)
+* [DalleCli](https://github.com/raiyanyahya/dallecli)
 * [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot)
 * [Midjourney](https://www.midjourney.com/) / [Guide](https://marigoldguide.notion.site/marigoldguide/Visual-Guide-to-Midjourney-settings-using-mostly-Astronauts-2ae1d8bb125f46e2be9886119c36ecf0)
 * [Dezgo](https://dezgo.com/)
