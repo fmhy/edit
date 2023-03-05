@@ -53,6 +53,8 @@
 * [movizland](https://new.movizland.cyou/), [2](https://movizland.info/) - Movies / TV / Anime
 * [akwam](https://akwam.to/) - Movies / TV
 * [Egybist](https://egybist.fun/) - Movies / TV
+* [YallaDrama](https://k.yalladrama.co/) - Movies / TV
+* [ShahidToday](https://o.shahid2day.com/) - Movies / TV
 * [mycima](https://mycima.link/) - Movies / TV / Anime
 * [cima-club](https://cima-club.cam/) - TV / Anime
 * [eshiq](https://eshiq.net/), [2](https://3sk.tv/) - Turkish TV
@@ -604,6 +606,7 @@
 * [Bolly4u](https://bolly4u.onl/) - Movies
 * [9xflix](https://9xflix.skin/) - Movies
 * [Filmymeet](https://www40.filmymeet.co/) - Hindi Dub Movies / TV
+* [MkvCinemas](https://ww1.mkvcinemas.lat/) - Movies / TV / Anime [Telegram](https://t.me/+QzypxAlB1MGvVXFG)
 * [AnimeAcademy](https://animeacademy.in/) - Anime
 * [ToonWorld4All](https://www.toonworld4all.me/) - Cartoons / Anime
 * [TVToonsIndia](https://tvtoonsindia.com/) - Cartoons / Anime
@@ -1836,6 +1839,9 @@
 * [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.com/) - Movies / Choose Voltran & press "скачать" for DL's 
 * [JetFilmizle](https://jetfilmizle.live/) - Movies / TV 
 * [hdfilmcehennemi](https://www.hdfilmcehennemi.net/) - Movies / TV
+* [ElzemFilm](https://www.elzemfilmhdizle.com/) - Movies
+* [FilmIzle](https://filmizle2022.info/) - Movies
+* [FilmMom](https://www.filmmom1.com/) - Movies
 * [turkish123](https://turkish123.com/) - TV 
 * [yoturkish](https://www.yoturkish.com) - TV
 * [expressdizi](http://www.expressdizi.com/) - TV
