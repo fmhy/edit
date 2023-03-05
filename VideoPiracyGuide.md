@@ -16,8 +16,8 @@
 * ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)
 * ⭐ **[Soap2Day](https://soapgate.org/)** - Movies / TV
 * ⭐ **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
-* ⭐ **[Ask4movies](https://ask4movie.mx/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/N58Vbyhw)
-* ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / Invite Code: mpgh or 1hack / [Script](https://pastebin.com/dsh3SRus)
+* ⭐ **[Ask4movies](https://ask4movie.mx/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
+* ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / Invite Code: mpgh or 1hack
 * ⭐ **[C1NE](https://c1ne.co/)** - Movies / TV / [Discord](https://discord.gg/nXUP8TxNSR)
 * ⭐ **[HDMovieBox](https://hdmoviebox.org/)** - Movies
 * ⭐ **[UniqueStream](https://uniquestream.net/)** - Movies / TV
