@@ -744,6 +744,7 @@
 * [BHG](https://www.bhg.com/recipes/) - Recipes
 * [TheCookingGinn](http://www.thecookinginn.com/) - Recipes
 * [Bon Appétit](https://www.bonappetit.com/) - Recipes
+* [PunchFork](https://www.punchfork.com/) - Recipes
 * [FoodGawker](https://foodgawker.com/) - Recipes
 * [Tasty](https://tasty.co/) - Recipes
 * [101Cookbooks](https://www.101cookbooks.com/) - Recipes
