@@ -50,7 +50,7 @@
 * [spotify-qt](https://github.com/kraxarn/spotify-qt) or [SpotifyD](https://github.com/Spotifyd/spotifyd) - Spotify Clients
 * [Librespot-Python](https://github.com/kokarare1212/librespot-python) - Spotify TUI
 * [Deezer Linux](https://github.com/aunetx/deezer-linux) - Deezer Client
-* [Myuzi](https://gitlab.com/zehkira/myuzi) or [Harmony Music](https://github.com/ZingyTomato/Harmony-Music) - Music Streaming Apps
+* [Myuzi](https://gitlab.com/albanobattistella/myuzi) or [Harmony Music](https://github.com/ZingyTomato/Harmony-Music) - Music Streaming Apps
 * [Meteo](https://gitlab.com/bitseater/meteo) - Weather App
 * [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - Free Ubuntu VNC
 * [wikit](https://github.com/KorySchneider/wikit) - Wikipedia Summaries from CLI
