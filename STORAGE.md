@@ -566,9 +566,10 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 #### Decentralized Social Networks
 
-⭐ **[Mastodon](https://joinmastodon.org/)**
+* ⭐ **[Mastodon](https://joinmastodon.org/)**
+* ⭐ **[Pleroma](https://pleroma.social/)**
 
-[diaspora](https://diasporafoundation.org/) / [2](https://diasp.org/), [MissKey](https://join.misskey.page/en/), [Pleroma](https://pleroma.social/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendi](https://friendi.ca/), [Zotlabs](https://zotlabs.org/page/hubzilla/hubzilla-project), [Movim](https://movim.eu/)
+[diaspora](https://diasporafoundation.org/) / [2](https://diasp.org/), [MissKey](https://join.misskey.page/en/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendi](https://friendi.ca/), [Zotlabs](https://zotlabs.org/page/hubzilla/hubzilla-project), [Movim](https://movim.eu/)
 
 **Mastodon Tools**
 
