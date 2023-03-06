@@ -427,14 +427,6 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 ***
 
-#### Cloudstream Forks
-
-* https://github.com/Jacekun/csrelease/releases
-* https://github.com/Stormunblessed/CloudStream-3/releases
-* https://github.com/recloudstream/cloudstream
-
-***
-
 #### Code Editors 
 
 [SpaceVim](https://spacevim.org/), [Pulsar](https://pulsar-edit.dev/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/) / [Frontend](https://github.com/rohit-px2/nvui) / [Motions](https://github.com/ggandor/lightspeed.nvim), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/) / [Docs](https://www.emacsdocs.org/), [Lite XL](https://lite-xl.github.io/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro Editor](https://micro-editor.github.io/index.html), [OpenOffice](http://bluefish.openoffice.nl/index.html) / [Templates](https://templates.openoffice.org/en), [KomodoEdit](https://github.com/Komodo/KomodoEdit), [TextAdept](https://foicica.com/textadept), [SpaceMacs](http://spacemacs.org/), [Notepad2](https://www.flos-freeware.ch/notepad2.html), [Sublime Text](https://www.sublimetext.com/), [CudaText](https://cudatext.github.io/) / [Git](https://github.com/Alexey-T/CudaText), [Light Table](http://lighttable.com/), [4coder](https://4coder.itch.io/4coder), [lapce](https://lapce.dev/) / [GitHub](https://github.com/lapce/lapce), [Warp](https://www.warp.dev/), [AvaloniaUI](https://avaloniaui.net/), [MassCode](https://masscode.io/), [libvim](https://github.com/onivim/libvim), [amp](https://github.com/jmacdonald/amp), [Visual Studio](https://code.visualstudio.com/), [Graviton](https://graviton.netlify.app/), [BBEdit](http://www.barebones.com/)
