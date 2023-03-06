@@ -152,7 +152,7 @@
 * [docz](https://www.docz.site/) - Write and Publish Interactive Documentation
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
 * [Calculist](https://calculist.io/) - Note Taking for Problem Solving
-* [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [App linked](https://uselinked.com/) / [GitHub](https://github.com/lostdesign/linked), [Jotterbit](https://jotterbit.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Gemlog](https://gemlog.blue/), [jrnl.sh](https://jrnl.sh/) or [journal-cli](https://v1.journalcli.app/) - Journal Apps
+* [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [App linked](https://uselinked.com/) / [GitHub](https://github.com/lostdesign/linked), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Gemlog](https://gemlog.blue/), [jrnl.sh](https://jrnl.sh/) or [journal-cli](https://v1.journalcli.app/) - Journal Apps
 * [Here and Now](https://here-and-now.glitch.me/) - Daily Reflections Journal
 * [YearCompass](https://yearcompass.com/) - New Years Resolution Booklet
 * [Detexify](http://detexify.kirelabs.org/classify.html) - Handwritten LaTeX Symbol Recognition
@@ -246,14 +246,14 @@
 * [Gramma](https://caderek.github.io/gramma/) - Command Line Grammar Checker
 * [R2bEEaton's Phonetic Reverser](https://spea.cc/backwards/) or [TextReverse](https://www.textreverse.com/) - Reverse Text 
 * [UpsideDown Text](https://www.upsidedowntext.com/) - Generate Upside Down Text
-* [I or l?](https://iorl.info/) / [2](https://www.iorl.org/) - Is it an uppercase "i", or is it a lowercase "L"?
+* [I or l?](https://iorl.info/) - Is it an uppercase "i", or is it a lowercase "L"?
 * [ripgrep](https://github.com/BurntSushi/ripgrep) - Recursive Search Tool
 * [Textify](https://ramensoftware.com/textify) - Copy Text from Any Dialog
 * [Unicode Font Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_unicode_font_generators) - Generate Typed Text Fonts
 * [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/), [Snskey](https://snskeyboard.com/), [Unilist](https://unilist.raphaelbastide.com/), [Character Map](https://github.com/character-map-uwp/Character-Map-UWP), [Alt Codes](https://alt-codes.net/), [Unifoundry](http://unifoundry.com/) or [Cool Symbol](https://coolsymbol.com/) - Copy & Paste Unicode Characters
 * [BlankText](https://blanktext.net/) - Copy / Paste Blank Spaces 
-* [Donger List](http://dongerlist.com/) or [FastEmoji](https://www.fastemoji.com/) - 600+ Unicode Emojis
-* [Japanese emoji copy and paste](https://japaneseemojicopyandpaste.com/) or [Kaomoji](http://kaomoji.online/en/) - Lenny Face / Japanese Emoticons
+* [FastEmoji](https://www.fastemoji.com/) - 600+ Unicode Emojis
+* [Kaomoji](http://kaomoji.online/en/) - Lenny Face / Japanese Emoticons
 * [Emotes Everywhere](https://kellphy.com/projects/kee.html), [GenieEmoji](https://github.com/virejdasani/Geniemoji), [winMoji](https://www.winmoji.com/) or [Geniemoji](https://virejdasani.github.io/Geniemoji/) - Emoji Managers
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party Parrot Emojis
@@ -386,7 +386,7 @@
 * [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Create Videos using Stable Diffusion
 * [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - Fractal Rendering Software / [3D](https://mb3d.overwhale.com/)
 * [JWildfire](https://jwildfire.overwhale.com/), [IFSRenderer](https://github.com/bezo97/IFSRenderer) or [Fractorium](http://fractorium.com/) - Flame Fractal Rendering Software
-* [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/), [Rive](https://rive.app/) or [Toonator](https://toonator.com) - Online Animation Tools
+* [BestSnip](https://bestsnip.com/animation/), [Sketch Machine](https://sketchmachine.net/), [Plask](https://plask.ai/) or [Rive](https://rive.app/) - Online Animation Tools
 * [LibreSprite](https://libresprite.github.io/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
 * [Mixamo](https://www.mixamo.com/) or [Cascadeur](https://cascadeur.com/) - 3D Character Animation Tools
 * [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) - 3D Human Model Creator
@@ -488,7 +488,7 @@
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - Learn How to Play Music
 * [Jukebox](https://jukebox.today/), [Mu Sync](https://www.mu-sync.com/) or [jqbx](http://jqbx.fm/) - Music Sync / Listening Parties
 * [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyrics Finder for Spotify, Tidal & VLC
-* [Whyp](https://whyp.it/) or [OnlyFiles](https://onlyfiles.io/) - Audio Host
+* [Whyp](https://whyp.it/) - Audio Host
 * [Aux](https://aux.app/) - Audio Project Host
 * [Audiocheck](https://www.audiocheck.net/) - Audio Tests 
 * [Online Mic Test](https://onlinemictest.com/), [Mic Tests](https://mictests.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test  
@@ -890,7 +890,6 @@
 * [Delete Junk Email](https://gist.github.com/viperadnan-git/fcb0ecda32de0b9a27ec03829a7c12e8) - Bulk Gmail Junk Deleter
 * [Alive](https://greasyfork.org/en/scripts/418770-colab-alive) - Bypass Google Colab Limit Colab
 * [YakYak](https://github.com/yakyak/yakyak) - Google Hangouts Desktop Client 
-* [Kaiteki](https://craftplacer.moe/projects/kaiteki/) - Fediverse Client
 * [Indirect](https://www.microsoft.com/en-us/p/indirect/9phw4kj8jvnz) - Instagram Desktop Messenger
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments 
 * [divr.it](https://dlvrit.com/) - Social Media Automation Tool
@@ -1033,7 +1032,7 @@
 * [Esteroids](https://esteroids.eth.limo/#) - Decentralized Web Search Engine
 * [Social-Searcher](https://www.social-searcher.com/), [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap), [Social Media CSE](https://cse.google.com/cse?cx=73dda67fd05b4405f#gsc.tab=1&gsc.sort=) or [Social Mention](http://socialmention.com/) - Social Media Search Engine  
 * [BoardReader](https://boardreader.com/), [CrowdView](https://crowdview.ai/) or [FindAForum](https://www.findaforum.net/Home/Search/) - Forum Search Engine 
-* [Blog Search Engine](http://www.blogsearchengine.org/), [Blog-Search](https://www.blog-search.com/), [BlogErnity](http://www.bloggernity.com/), [BlogSurf](https://blogsurf.io/) or [SearchBlogspot](https://www.searchblogspot.com/) - Blog Search
+* [Blog Search Engine](http://www.blogsearchengine.org/), [Blog-Search](https://www.blog-search.com/), [BlogErnity](http://www.bloggernity.com/) or [SearchBlogspot](https://www.searchblogspot.com/) - Blog Search
 * [4chanSearch](https://4chansearch.com/) - 4chan Search
 * [Git Search Engine](https://zzollo.co/) - Search GitHub, GitLab etc.
 * [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) or [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - TikTok Search 
@@ -1102,7 +1101,6 @@
 * [TinyUrl](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://i.imgur.com/DklVFU7.png)
 * [id](https://home.s.id/) - `s.id/EQBsg`
 * [v.ht](https://v.ht/) - `v.ht/rM7Q`
-* [3c5](https://3c5.com/) - `3c5.com/jWscV`
 * [Tiny.cc](https://tiny.cc/) - `tiny.cc/akl1mz`
 * [Paup](http://paup.ml/) - `paup.ml/H9-R2`
 * [Scur](https://scur.link/) - `scur.link/pLyF`
@@ -1123,7 +1121,6 @@
 * [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
 * [wal.ee](https://wal.ee/) - `wal.ee/zluqo`
 * [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
-* [hoo.gl](http://hoo.gl/) - `hoo.gl/p7YP`
 * [xy2.eu](http://xy2.eu/) - `xy2.eu/p7YP`
 * [goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Extension](https://chrome.google.com/webstore/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
 * [tny.im](http://tny.im) - `tny.im/rw-`
@@ -1131,7 +1128,7 @@
 * [SmartLinks](https://smartlnks.com/) - `smartlnks.com/Vjr0m`
 * [offf.to](https://offf.to/) - Short Links via Browser
 * [ShortShare](https://shortshare.app/) - Short Link App
-* [ThisDay](https://thisday.link/) or [BR3F](https://www.br3f.com/) - Temporary Short Links
+* [BR3F](https://www.br3f.com/) - Temporary Short Links
 * [Anonymiz](https://anonymiz.com/shorten-url) - Anonymous URLs - `anonymiz.com/vwiq`
 * [Anon.to](https://anon.to/) - Anonymous URLs - `anon.to/7SWqpG`
 * [Thinfi](https://thinfi.com/) - Password protect a short URL - `thinfi.com/q8aw`
@@ -1255,7 +1252,6 @@
 * [Discordo](https://github.com/ayntgl/discordo) - Discord Terminal Client
 * [Vencord](https://github.com/Vendicated/Vencord) - Modded Discord Client
 * [Dark-Discord](https://github.com/snappercord/Dark-Discord) - Dark Theme for BetterDiscord & Powercord
-* [Powerconvert](https://convert.creatable.cafe/) - Convert BetterDiscord themes to Powercord
 * [bdCompat](https://github.com/Juby210/bdCompat) - Use BD Plugins in Powercord
 * [Revert Rebrand](https://betterdiscord.app/theme/Revert%20Rebrand) - Revert Discord’s Rebrand on BetterDiscord & Powercord / [GitHub](https://github.com/Goose-Nest/GT-RevertRebrand)
 * [Discord Portable](https://portapps.io/app/discord-portable/) - Portable Discord Stable & [PTB PortApps](https://portapps.io/app/discord-ptb-portable/)
@@ -1769,7 +1765,7 @@ Twitch Stream Tracker
 * ⭐ **[Hackintosh](https://hackintosh.com/)** or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines / [Guide](https://github.com/dortania/macOS-VMware-Guide), [2](https://www.tonymacx86.com/) /  [Installer](https://github.com/huangyz0918/Hackintosh-Installer-University) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) 
 * ⭐ **[RDP / VNC Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remote_desktop_clients)** - Control Desktop Remotely
 * [r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) / [Discord](https://discord.gg/2EDwzWa), [Windows 10 Forums](https://www.windowsphoneinfo.com/), [MSFN](https://msfn.org/board/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/), [TechSupportForum](https://www.techsupportforum.com/) or [Notebook Reviews](http://forum.notebookreview.com/) - Tech Support
-* [GetHuman](http://gethuman.com/), [DialAHuman](https://www.dialahuman.com/) or [ContactFound](https://contactfound.com/) - Tech Support Numbers
+* [GetHuman](http://gethuman.com/) or [ContactFound](https://contactfound.com/) - Tech Support Numbers
 * [Windows Repair Toolbox](https://windows-repair-toolbox.com/) - Windows Multi-Tool App
 * [Espanso](https://espanso.org/) - Typing Shortcuts / [GitHub](https://github.com/federico-terzi/espanso)
 * [TouchCursor](https://sourceforge.net/projects/touchcursor/) - Use Home Keys as Cursor
@@ -1791,7 +1787,6 @@ Twitch Stream Tracker
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - Preinstallation Environment
 * [goldBoot](https://github.com/fossable/goldboot) - Create Immutable Infrastructure
 * [MSDN Files](https://msdn.rg-adguard.net/) or [Microsoft Downloads Dump](https://www.heidoc.net/php/myvsdump.php) - Verify ISO Legitimacy
-* [CD Key Reader](http://www.cathonian.com/software/cd-keyreader/) - Find Key used to Install Windows
 * [WinXP Service Pack 4](https://www.majorgeeks.com/files/details/windows_xp_service_pack_4_unofficial.html) - Windows XP Unofficial Service Pack 4 / [Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_winxp_service_pack_4)
 * [ChangeWindows](https://www.changewindows.org/timeline) - Latest Windows Update Info
 * [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) or [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - Extended Windows 7 Updates
@@ -2094,7 +2089,6 @@ Twitch Stream Tracker
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter), [2](https://visualskins.com/) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals) 
 * ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9), [Catppuccin](https://catppuccin.com/) / [Discord](https://discord.gg/r6Mdz5dpFc), [Aura Theme](https://github.com/daltonmenezes/aura-theme) or [theme.park](https://theme-park.dev/) - Custom App Themes
 * [PCDesktops](http://pcdesktops.emuunlim.com/applinks.shtml) - Windows Customization Apps
-* [ScreenStyler](https://screenstyler.com/) -  Desktop Customization / [Discord](https://discord.gg/u3thTMp9Cd)
 * [XDesktopSoft](https://www.xwidget.com/) - Desktop Customization
 * [DesktopMagic](https://github.com/Stone-Red-Code/DesktopMagic) - Desktop Customization
 * [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Community
@@ -2303,7 +2297,6 @@ Twitch Stream Tracker
 * [TMSU](https://github.com/oniony/TMSU), [Tagging for Windows](https://tagging.connectpaste.com/) or [SuperTag](https://github.com/amoffat/supertag) - Tag-Based Filesystem 
 * [Bulk File Renamers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bulk_file_renamers) - Easily Rename Multiple Files
 * [Media Data Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_file_data_automation) - Find Media File Data Automatically
-* [mediarepo](https://mediarepo.trivernis.dev/) - Media File Manager
 * [Filext](https://filext.com/) - Online File Viewer
 * [File Juggler](https://www.filejuggler.com/) - Organize Files Automatically
 * [Phockup](https://github.com/ivandokov/phockup) - Organize Photo / Video Files by Date 
