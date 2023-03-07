@@ -1029,6 +1029,8 @@
 * [yoctocolors](https://github.com/sindresorhus/yoctocolors) - Command Line Coloring Package
 * [open](https://github.com/sindresorhus/open) - Open URLs, Files, Executables in CLI or Scripts
 * [Hopa](https://github.com/krasimir/hopa) - Zero config CLI for running JavaScript / TypeScript
+* [AutoPWN Suite](https://github.com/GamehunterKaan/AutoPWN-Suite) - CLI for automatically scanning vulnerabilities / exploiting systems
+* [Norfair](https://github.com/tryolabs/norfair) - Python library for real-time multi-object tracking
 
 ***
 
