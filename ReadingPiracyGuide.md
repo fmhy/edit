@@ -11,7 +11,7 @@
 
 # ► Audiobook Sites
 
-* ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** - Multi-Site Audiobook Search
+* ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** or **[Rave Search](https://ravebooksearch.com/index-audiobooks)** - Multi-Site Audiobook Search
 * ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
 * ⭐ **[Audiobook Bay](https://audiobookbay.li/)**, [2](https://audiobookbay.se/) - Torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.imgur.com/tr0tbos.png)
 * ⭐ **[Tokybook](https://tokybook.com/)** - Listen Online
