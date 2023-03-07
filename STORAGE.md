@@ -26,7 +26,6 @@
 
 #### 3DS Roms
 
-* [CIA-3DS](https://www.cia-3ds.com/)
 * [3DSROMS](https://3dsroms.org)
 * [ciaspara3ds](https://ciaspara3ds.blogspot.com/)
 * [HShop](https://hshop.erista.me/)
