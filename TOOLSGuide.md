@@ -112,7 +112,8 @@
 * [Stolen Drone](https://stolendrone.info/) - Stolen Drone Info
 * [AFreeSMS](https://www.afreesms.com/freesms/) - Send Free Texts
 * [Morse Code](https://morsecode.me/) or [Woozle](https://vail.woozle.org/) - Create Morse Code Audio
-* [Parcelsapp](https://parcelsapp.com/en/) or [17Track ](https://www.17track.net/en) - International Package Tracking
+* [Parcelsapp](https://parcelsapp.com/en/) or [17Track](https://www.17track.net/en) - International Package Tracking
+* [NoFair](https://github.com/tryolabs/norfair) - Real-Time Object Tracking
 * [Sweet Home 3D](http://www.sweethome3d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
 * [Interiorai](https://interiorai.com/) - AI Interior Design Tool
 * [EasyEDA](https://easyeda.com/editor) - Electronic Circuit Design Tool
