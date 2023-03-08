@@ -158,7 +158,6 @@
 * [5G GYAN](https://www.5ggyan.com/) - Courses 
 * [GameOfCourses](https://gameofcourses.com/) - Courses
 * [WSODownloads](https://www.wsodownloads.in/) - Courses
-* [DuForum](https://duforum.in/) - Courses
 * [FreeTutorialsUS](https://www.freetutorialsus.com/course/) - Courses
 * [DL Course](https://dlcourse.org/) - Courses
 * [tut4dl](https://tut4dl.com/) - Courses
@@ -384,7 +383,6 @@ Simulator
 * [Alien](https://alien-project.org/) - Artificial Life Simulator / [GitHub](https://github.com/chrxh/alien) / [Video](https://youtu.be/w9R6zrdl6jM)
 * [Lost and Found Nature](https://www.lostandfoundnature.com/) - Re-Discovered Animals / Plants
 * [A-Z Animal](https://a-z-animals.com/) - Animal Encyclopedia
-* [Macroinvertebrates](https://www.macroinvertebrates.org/) - Aquatic Insect Encyclopedia
 * [Ocearch](https://www.ocearch.org/?list) - Track Marine Life
 * [The Deep Sea](https://neal.fun/deep-sea/) - Interactive Deep Sea Life Guide
 * [Pattern Radio](https://patternradio.withgoogle.com/) - Listen to Whale Songs
@@ -609,7 +607,6 @@ Simulator
 * [Ytalki](https://ytalki.com/) - Find Foreign Books Based on Language Level
 * [Podcasts in English](https://www.podcastsinenglish.com/) - English Learning Podcasts
 * [Free4Talk](https://www.free4talk.com/) or [Speaking24](http://www.speaking24.com/) - English Practice Community
-* [English-Test](https://www.english-test.net/) - English Practice Tests
 * [EnglishBanana](https://www.englishbanana.com/) - English Learning Worksheets
 * [EnglishForums](https://www.englishforums.com/) - English Learning Forums
 * [MyLanguages](http://mylanguages.org/) or [Langeek](https://langeek.co/) - Grammar / Vocabulary Language Learning
@@ -901,7 +898,6 @@ Simulator
 * [nanoHUB](https://nanohub.org/) - Nanotechnology Tool Index
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
 * [NandGame](https://nandgame.com/) - Computer Building Puzzle
-* [Vocabulary.ugent](http://vocabulary.ugent.be/) - Vocabulary Test 
 * [Kialo](https://www.kialo.com/) or [Level Point](https://levelpoint.app/) - Debates / Discussion
 * [Tabby Cat](https://github.com/TabbycatDebate/tabbycat) - Debate Tournament Tabulation Software
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/) - Learn about Logical Fallacies
