@@ -314,7 +314,6 @@
 * [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - Turn Screen into Strobe / Mood Light
 * [Marijuana Subs](https://www.reddit.com/r/trees/wiki/entreddits_social) - Marijuana Related Subreddits
 * [Drinking Game Zone](https://drinkinggamezone.com/) - Drinking Games Encyclopedia 
-* [Drinkify](http://drinkify.org/) - Picks Drinks Based on Songs
 * [Things to Do](https://randomthingstodo.com/), [TheZen](https://thezen.zone/) or [bored.solutions](https://bored.solutions/) - Activity Suggestions
 * [Human Benchmark](https://humanbenchmark.com/) - Brain Games & Cognitive Tests
 * [HeyFromTheFuture](https://heyfromthefuture.com/) - What People Wish they knew at your Age
@@ -361,7 +360,6 @@
 * [MakeAWordSearch](http://www.makeawordsearch.net/) - Word Search Creator
 * [JamisBuck](https://www.jamisbuck.org/mazes/) - Maze Algorithms
 * [Windows XP Error Worm](https://ybenbihi.github.io/windows-error-worm/) - Click & Drag Windows Errors 
-* [Pixelbay](https://pixelbay.netlify.app/) - Embed Links in Pixels
 * [Our World of Text](https://ourworldoftext.com/) or [Your World of Text](https://www.yourworldoftext.com/) - Infinite grid of text editable by anyone
 * [Gen-Z AI](https://openai-quickstart-node-1.vercel.app/) - AI Generated Urban Dictionary Definitions
 * [Genetic Cars 2](https://rednuht.org/genetic_cars_2/) - Random 2D Car Generator
