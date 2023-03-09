@@ -2072,7 +2072,6 @@
 * [khatrimazafull](https://khatrimazaful.cc/) - Streaming / Download / Movies
 * [Movierulz](https://ww5.movierulzhd.biz/) - Streaming / Movies / TV / [Telegram](https://t.me/movierulz28)
 * [TamilRockers](https://www.tamilrockermovies.org/), [2](https://www.tamilrockermovies.ca/) - Streaming / Torrent / Movies
-* [v100v.net](https://www.v100v.net/) - Streaming / Movies
 * [Toroflix](https://freewatchhindimoviesonline.com/) - Streaming / Movies
 * [SadRip](https://sadrip.blogspot.com/) - Movies / TV
 * [Movies Counter](https://moviescounter.hair/) - Download / Movies
@@ -2117,6 +2116,5 @@
 * [Redzidzirdilatviju](http://www.redzidzirdilatviju.lv/en/) - Latvian / Documents
 * [Machine Learning ka Chilla](https://www.youtube.com/playlist?list=PL9XvIvvVL50HHzaLPtFBOuikAWa0JdhMW) - Urdu / Machine Learning Course 
 * [WiiDatabase](https://wiidatabase.de/) - Deutsch / Nintendo Homebrew
-* [PDFlibrary](https://t.me/PDFlibrary) - Malayalam / Books / Telegram
 * [zoom.lk](https://zoom.lk/) - Sinhalese / Subtitles
 * [Steamcito](https://emilianog94.github.io/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos/landing/index.html) - Converts Steam Prices to Argentine Pesos
