@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/yRB5plO.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/EbRHwIh.png)** - For mobile users
 
 ***
 *** 
@@ -694,7 +694,7 @@
 
 ***
 
-# ► Cooking
+# ► Food
 
 * ⭐ **[Reciperr](https://reciperr.com/)**, [Whisk](https://whisk.com/), [Tandoor Recipes](https://docs.tandoor.dev/) or [Spoonacular](https://spoonacular.com/food-api) - Recipe Managers
 * ⭐ **[Grocy](https://grocy.info/)** or [Kitchen Owl](https://f-droid.org/en/packages/com.tombursch.kitchenowl/) / [Backend](https://tombursch.github.io/kitchenowl/get-started/) - Grocery Managers
