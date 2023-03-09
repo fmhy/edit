@@ -204,6 +204,7 @@
 * [/r/bookdownloads](https://reddit.com/r/bookdownloads/)
 * [/r/KindleFreebies](https://reddit.com/r/KindleFreebies/)
 * [/r/Freegamestuff](https://reddit.com/r/Freegamestuff)
+* [How To Easily Subscribe For Unlimited Free Trials](How To Easily Subscribe For Unlimited Free Trials)
 
 ***
 
