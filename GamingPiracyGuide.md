@@ -746,7 +746,7 @@
 * [damn.dog](https://damn.dog/) - wikiHow Guessing Game
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First
 * [Gearoid Pokemon](https://gearoid.me/pokemon/) - Pokemon Guessing Game
-* [SusAI](https://susai.io/) - AI vs Real Art Guessing Game
+* [SusAI](https://susai.io/) or [AI Bingo](https://ai-bingo.lipsumar.io/) - AI Art Guessing Games
 
 ***
 
