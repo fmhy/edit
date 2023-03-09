@@ -87,6 +87,7 @@
 * [DotShare](http://dotshare.it/) - Distro Config Index
 * [Linux Live Kit](https://www.linux-live.org/) - Live Linux Distro Creator
 * [ArchLinuxGUI](https://archlinuxgui.in/download.html), [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - Arch Linux Installer
+* [EasyPanel](https://easypanel.io/) - Server Control Panel
 * [/r/linuxupskillchallenge](https://www.reddit.com/r/linuxupskillchallenge/) - How-to Sysadmin a Remote Server 
 * [Free Cloud Linux Server](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_free_cloud_linux_server) - Free Cloud Server Guide
 * [yet another bench script](https://github.com/masonr/yet-another-bench-script) - Server Performance Script
