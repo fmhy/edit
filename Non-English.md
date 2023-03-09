@@ -1696,6 +1696,8 @@
 * [Cinemargentino](https://cinemargentino.com/) - Movies / Documentaries
 * [Rincon Cinefilo](https://www.rinconcinefilo.com/) - Movies / Documentaries
 * [Naranjas de Hiroshima](https://www.naranjasdehiroshima.com/) - Documentaries / Archives
+* [DocumaniaTV](https://www.documaniatv.com/) - Documentaries
+* [Area Documental](https://www.area-documental.com/) - Documentaries
 * [novelas360](https://novelas360.com/) - TV
 * [HindiLover](https://hindilover.biz/) - TV
 * [Vix](https://www.vix.com/tv/) - TV
