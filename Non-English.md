@@ -2073,7 +2073,7 @@
 * [Mallumv](https://mallumv.run/), [2](https://tttttt.me/mallumvoff) - Download / Movies
 * [Movies Point](https://sdmoviespoint.fit/) - Download / Movies
 * [SSR Movies](https://www.ssrmovies.wine/) - Download / Movies / [Telegram](https://t.me/SSRmovies2022), [2](https://telegram3.xyz/)
-* [MkvMoviesPoint](https://mkvmoviespoint.one/) - Download / Movies / [Telegram](https://telegram.me/mkvpoint)
+* [MkvMoviesPoint](https://mkvmoviespoint.one/) - Download / Movies / [Telegram](https://telegram.me/mkvpoint1)
 * [Pendujatt](https://www.pendujatt.net/) - Download / Music
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Download / Music
 * [TamilBlasters](https://tamilblasters.skin/) - Torrent / Movies / [Proxy](https://tamilblasters.unblockit.ist/)
