@@ -2077,7 +2077,6 @@
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Download / Music
 * [TamilBlasters](https://tamilblasters.skin/) - Torrent / Movies / [Proxy](https://tamilblasters.unblockit.ist/)
 * [TamilMV](https://www.1tamilmv.hair/) - Torrent / Movies
-* [indianebooks](https://t.me/indianebooks) - Books
 * [Digital Library of India](https://dli.sanskritdictionary.com) - Books
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - Radio
 * [BotAllen](https://botallen.com/) - Kodi Repo
