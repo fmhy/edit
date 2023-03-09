@@ -1599,6 +1599,7 @@
 * [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
 * [Guns's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Games / [Warning](https://rentry.co/48fo5)
 * [SeriesTV](https://www.seriestv.in/foro.php) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
+* [Flipax2](https://flipax2.me/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
 * [CompucaliTV](https://www.compucalitv.com/) - Video / Software / Games
 * [ZonaLeRoS](https://www.zona-leros.net/) - Video / Games
 * [GamesMega](https://gamesmega.net/) - Games / ROMs
@@ -1746,6 +1747,7 @@
 * [librosintinta](https://www.librosintinta.in/) - PDF Search
 * [booksmedicos](https://booksmedicos.org/) - Medical Textbooks
 * [albalearning](https://albalearning.com/) - Audiobooks
+* [Audioteka](https://t.me/+S3ssdd7ny9oyM2M0) - Audiobooks
 * [mangadoor](http://mangadoor.com/) - Manga
 * [TuMangaOnline ](https://lectortmo.com/) - Manga
 * [Manga en Español](https://t.me/manga_es) - Manga
