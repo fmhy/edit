@@ -504,7 +504,7 @@
 * [BS.TO](https://www.bs.to/) - TV / Anime
 * [StreamCloud](https://www1.streamcloud.info/), [2](https://streamcloud.cx/) - Movies / TV
 * [BioskopKaca21](https://62.171.161.107/) - Movies / TV
-* [Kinos](https://www.kinos.to/) - Movies / TV
+* [Kinos](https://www.kinos.to/), [2](https://www.kino.ws/) - Movies / TV
 * [https://xcine.info](https://xcine.info/) - Movies / TV
 * [KinoZ](https://kinoz.to/) - Movies / TV / Anime / NSFW
 * [moviedream](https://moviedream.co/) - Movies / TV
@@ -526,7 +526,6 @@
 * [hoerspielprojekt](https://www.hoerspielprojekt.de/) - Radio Plays  
 * [ProxerAndroid](https://github.com/proxer/ProxerAndroid) - Android / Anime
 * [Teapod](https://f-droid.org/packages/org.mosad.teapod) - Android / Anime
-* [Kino](https://www.kino.ws/) - Streaming / Movies / TV 
 
 ## ▷ Reading
 
