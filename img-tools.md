@@ -200,8 +200,7 @@
 * [Dummy Image](https://dummyimage.com/) - Dynamic Dummy Image Generator 
 * [instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant Neural Graphics Primitives 
 * [CLIP-GLaSS](https://colab.research.google.com/drive/1fWka_U56NhCegbbrQPt4PWpHPtNRdU49?usp=sharing#scrollTo=zvZFRZtcv8Mp) - Image Generation Tool 
-* [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) - Chimera Generator
-* [InstantArt](https://instantart.io/) - AI Image Generator (Stable Diffusion)
+* [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) - Chimera Generator 
 
 ***
 
@@ -323,6 +322,7 @@
 * [PlaygroundAI](https://playgroundai.com/)
 * [StableCog](https://stablecog.com/)
 * [Uranus AI](https://uranus.ai/)
+* [InstantArt](https://instantart.io/)
 * [Artificy](https://artificy.com/)
 * [AIImageGenerator](https://www.aiimagegenerator.org/)
 * [Dream Studio](https://beta.dreamstudio.ai/dream)
