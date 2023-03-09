@@ -1875,6 +1875,7 @@
 
 ## ▷ Torrenting
 * [Mazepa](https://mazepa.to/) - Video / Audio / Books
+* [Toloka](https://toloka.to/) - Torrent Tracker
 
 ## ▷ Reading
 
@@ -2083,6 +2084,7 @@
 * [PCPriceTracker](https://pcpricetracker.in/) - Track PC Component Rupee Prices
 * [TDIL](https://tdil-dc.in/eocr/index.html) - Indian Languages OCR
 * [Indic-Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indian Language Android Keyboard
+* [TamilVaathi](https://tamilvaathi.in) - Streaming / Movies / TV
 
 ***
 
