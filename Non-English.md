@@ -48,6 +48,7 @@
 * [dotCima](https://s2.dotcima.com/) - Movies / TV
 * [cinemana](https://cinemana.co/main/) - Movies / TV
 * [LODYNET](https://www.lodynet.cam/) - Movies / TV
+* [ShahidOnline](https://shahidonline.org/) - Movies / TV
 * [Fushaar](https://www.fushaar.com/), [2](https://fushaar.info/) - Movies / TV
 * [egydead](https://w3.egydead.live) - Movies / TV / Anime
 * [movizland](https://new.movizland.cyou/), [2](https://movizland.info/) - Movies / TV / Anime
@@ -717,6 +718,7 @@
 * [otakudesu](https://otakudesu.watch/) - Anime
 * [anoBoy](https://anoboy.lol/) - Anime
 * [kuramanime](https://kuramanime.com/) - Anime
+* [Akashinime](https://akashinime.pro/) - Anime
 
 ## ▷ Reading
 
@@ -1588,6 +1590,7 @@
 * [Diccionario RAE en un clic](https://chrome.google.com/webstore/detail/diccionario-rae-en-un-cli/gejdeepcjkfbepfkcfdgiodgoglakiii) - Dictionary Extension
 * [GermanDeutsch](https://t.me/GermanDeutsch) - Learn German
 * [Bliscop](https://www.bliscop.com/) - Online Payment Software
+* [El Museo de los 8 bits](http://www.museo8bits.es/) / [2](https://museo8bits.com/) - History of Computing
 
 ## ▷ Downloading
 
@@ -1604,6 +1607,7 @@
 * [ZonaLeRoS](https://www.zona-leros.net/) - Video / Games
 * [GamesMega](https://gamesmega.net/) - Games / ROMs
 * [Emu Games](https://emu-games.com/) - Emulators / ROMs
+* [KillerROMs](https://roms-descargar.com/) - Emulators / ROMs
 * [Romsjuegos](https://romsjuegos.com/) - ROMs
 * [Roms en Español](https://romsespanol.com/) - ROMs
 * [BajarJuegosPCgratis](https://bajarjuegospcgratis.com/) - Games
@@ -1837,6 +1841,7 @@
 * [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.com/) - Movies / Choose Voltran & press "скачать" for DL's 
 * [MP3 Indir](https://www.mp3indirdur.mobi/) - Music 
 * [HappyMod](https://www.happymodapkindir.com/) - Modded APKs
+* [AndroidOyunClub](https://androidoyun.club/apks) - Modded APKs
 
 ## ▷ Streaming
 
