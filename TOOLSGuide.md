@@ -124,6 +124,7 @@
 * [/r/Assistance](https://www.reddit.com/r/Assistance/), [/r/borrow](https://www.reddit.com/r/borrow/), [/r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) or [/r/Homeless](https://www.reddit.com/r/homeless/) - Assistance / Donation Subreddits
 * [CharityNavigator](https://www.charitynavigator.org/) or [GiveWell](https://www.givewell.org) - Charity Ratings and Donor Resources
 * [TinyKitten](https://tinykittens.com/) - Kitten Rescue / Donation
+* [RepeatGPT](https://repeatgpt.com/) - Lets you schedule recurring ChatGPT executions and sends you the result via email.
 
 ***
 
