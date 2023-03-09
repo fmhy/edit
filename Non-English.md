@@ -173,7 +173,7 @@
 * [CatoCR](https://catocr.com/) - Image to Text
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - Lift Emby Restrictions
 * [China Firewall Bypass Guide](https://github.com/vpncn/vpncn.github.io), [gfwlist](https://github.com/gfwlist/gfwlist), [XX-Net](https://github.com/XX-net/XX-Net), [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser) or [New Pac](https://github.com/Alvin9999/new-pac) - Bypass Chinese Firewall
-* [BlockedInChina](https://www.comparitech.com/privacy-security-tools/blockedinchina/) - Test if Site is Blocked in China
+* [BlockedInChina](https://www.comparitech.com/privacy-security-tools/blockedinchina/), [China Firewall Test](http://www.chinafirewalltest.com/) - Test if Site is Blocked in China
 * [Gitee](https://gitee.com/) - GitHub Alternative
 * [V2EX](https://v2ex.com/) or [ZongScan](https://www.zongscan.com/) - Programming Forum
 * [BookStack](https://www.bookstack.cn/) - Developer / Programming Guides
