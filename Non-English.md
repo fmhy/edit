@@ -526,6 +526,7 @@
 * [hoerspielprojekt](https://www.hoerspielprojekt.de/) - Radio Plays  
 * [ProxerAndroid](https://github.com/proxer/ProxerAndroid) - Android / Anime
 * [Teapod](https://f-droid.org/packages/org.mosad.teapod) - Android / Anime
+* [Kino](https://www.kino.ws/) - Streaming / Movies / TV 
 
 ## ▷ Reading
 
