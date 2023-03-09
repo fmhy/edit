@@ -580,8 +580,8 @@
 * [Vital](https://vital.audio/) - Spectral Warping Wavetable Synth
 * [SampleBrain](https://gitlab.com/then-try-this/samplebrain) - Sample Mixer
 * [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - Pop Song Sample Mixer
-* [WubMachine](https://the.wubmachine.com/) - Create DubstepVersions of Songs
-* [Wolfram Tones](https://tones.wolfram.com/), [audio visual generator](https://fredericbriolet.com/avg/), [Fake Music Generator](https://www.fakemusicgenerator.com/), [Jingle](https://aidn.jp/jingle/) or [Riffusion](https://www.riffusion.com/) - Computer Generated Music
+* [WubMachine](https://the.wubmachine.com/) - Create Dubstep Versions of Songs
+* [Wolfram Tones](https://tones.wolfram.com/), [audio visual generator](https://fredericbriolet.com/avg/), [Fake Music Generator](https://www.fakemusicgenerator.com/), [Jingle](https://aidn.jp/jingle/), [SoundDraw](https://soundraw.io/), [Aiva](https://aiva.ai/) or [Riffusion](https://www.riffusion.com/) - AI Song Generators
 * [CSound](https://csound.com/) - Music Computing System
 * [GoAudio](https://github.com/DylanMeeus/GoAudio) - Audio Processing Library 
 * [Helio](https://helio.fm/) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
