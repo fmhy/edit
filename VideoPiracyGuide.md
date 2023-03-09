@@ -366,6 +366,7 @@
 * [LMAnime](https://lmanime.com/) - Sub
 * [AnimeLand](https://www.animeland.us/) - Dub
 * [anime.cat](https://anime.cat/) - Sub / Dub
+* [Animixplay.site](https://www.animixplay.site/) - Sub
 * [Hime.to](https://hime.to/) - Sub / Dub
 * [Animeplyx](https://animeplyx.eu/) - Sub
 * [123Anime.to](https://123anime.to/) - Sub / Dub / [Discord](https://discord.gg/z2BSpXheN9)
@@ -747,6 +748,7 @@
 * [Media](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_media) - Movies / TV / Anime
 * [†M1o8143](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2020m1o8143) - Movies / TV / Anime
 * [Torrent TD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_torrent_td) - Movies / TV / Anime
+* [moo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_moo) - Movies / TV
 * [aryatejprakash72](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_aryatejprakash72) - Movies / TV
 * [teamqbit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_teamqbit) - Movies / TV / Anime
 * [188.165.227.112](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_188.165.227.112) - Movies / TV
