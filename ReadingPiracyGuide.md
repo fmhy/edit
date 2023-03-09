@@ -331,7 +331,7 @@
 
 ## ▷ Special Interest
 
-* ⭐ **[Cookbooks / Recipes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_cooking)** - Cookbook and Recipe Sites
+* ⭐ **[Cookbooks / Recipes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_food)** - Cookbook and Recipe Sites
 * ⭐ **[Wikiquote](https://en.wikiquote.org)**, [Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [ThinkExist](http://thinkexist.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [BrainyQuote](https://www.brainyquote.com/) or [QuoteGarden](https://www.quotegarden.com/) - Quotes
 * ⭐ **[do_k_ument](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_do_k_ument)** - Survival, Forging, Smithing, Weapons Training, Field Manuals
 * [Short Stories](https://short-stories.co/) or [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
