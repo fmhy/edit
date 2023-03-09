@@ -693,6 +693,7 @@
 * [Scribe](https://scribe.bus-hit.me/) - Medium Frontend
 * [prompt.press](https://prompt.press/) - AI Art Inspired by News
 * [Jayto's Newsletter List](https://rentry.co/newsletters) - List of Newsletters
+* [Read Something Interesting](https://readsomethinginteresting.com/) - Random Articles & Blog Posts
 
 ***
 
