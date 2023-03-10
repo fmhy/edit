@@ -1763,7 +1763,8 @@
 * [albalearning](https://albalearning.com/) - Audiobooks
 * [Audioteka](https://t.me/+S3ssdd7ny9oyM2M0) - Audiobooks
 * [mangadoor](http://mangadoor.com/) - Manga
-* [TuMangaOnline ](https://lectortmo.com/) - Manga
+* [TuMangaOnline](https://lectortmo.com/) - Manga
+* [Lector TMO](https://lectortmo.org/) - Manga
 * [Manga en Español](https://t.me/manga_es) - Manga
 * [HeavenManga](http://heavenmanga.com/) - Manga 
 * [InManga](https://inmanga.com/) - Manga
