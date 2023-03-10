@@ -1657,7 +1657,7 @@
 
 ## ▷ Torrenting
 
-* [MejorTorrent.wtf](https://mejortorrent.wtf/) - Movies / TV / Documentaries / [Telegram](https://t.me/s/MejorTorrentAp)
+* [MejorTorrent](https://www1.mejortorrent.rip/) - Movies / TV / Documentaries / [Telegram](https://t.me/s/MejorTorrentAp)
 * [MejorTorrent.se](https://mejortorrent.se/) - Video / Audio / Software / Games / [Telegram](https://t.me/s/mejortorrentcom)
 * [Elitetorrent](https://www.elitetorrent.wf/) - Movies / TV / Anime
 * [Zonatorrent](https://zonatorrent.in/) - Movies / TV
