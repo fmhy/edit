@@ -1637,6 +1637,11 @@
 * [Anime-ESP](https://anime-esp.com/) - Anime
 * [ddl.ice](https://ddl.ice-blue.workers.dev/0:/) - Anime
 * [Ninjin Anime](https://ninjinanime.com/) - Anime
+* [Animegafirex](https://www.animegafirex.com/) - Anime
+* [SphinxAnime](https://sphinxanime.com/) - Anime
+* [Anime4Mega](https://anime4mega.net/) - Anime
+* [Japan Paw!](https://japan-paw.net/) - Anime
+* [ivanime](https://www.ivanime.com/) - Anime
 * [N+2](https://nmasmas2.blogspot.com/) - Animated Movies / Cartoons
 * [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)
 * [Tododescargas](https://tododescargas.net/) - Software
