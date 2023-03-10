@@ -1644,6 +1644,7 @@
 * [ivanime](https://www.ivanime.com/) - Anime
 * [Fukou-Da!](https://fukou-da.net/) - Anime / Light Novels
 * [Dw-anime](https://dw-anime.net/) - Anime
+* [animesgd](https://animesgd.net/) - Anime / Cartoons
 * [N+2](https://nmasmas2.blogspot.com/) - Animated Movies / Cartoons
 * [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)
 * [Tododescargas](https://tododescargas.net/) - Software
