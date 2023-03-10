@@ -1618,7 +1618,7 @@ Add the following commands to a search to manually scrape each site.
 
 ⭐ **[Download Helper](http://www.downloadhelper.net/)**
 
-[Video Downloader](https://provd.net/), [AddonCrop](https://addoncrop.com/en-3/?uid=36515318), [Cococut](https://cococut.net/), [skyload](http://skyload.io/), [SVD](https://chrome.google.com/webstore/detail/svd-video-downloader/jbialncfijnjojchcmhfmjgjggbbdghb/related?hl=en), [Video Downloader Professional](https://chrome.google.com/webstore/detail/video-downloader-professi/dlpiaeofjhnjeckpjcbhmnifdejoikpa), [Easy Video Downloader](https://add0n.com/easy-video-downloader.html), [Unlimited_downloader](https://greasyfork.org/en/scripts/445751)
+[Video Downloader](https://provd.net/), [AddonCrop](https://addoncrop.com/en-3/?uid=36515318), [Cococut](https://cococut.net/), [skyload](http://skyload.io/), [SVD](https://chrome.google.com/webstore/detail/svd-video-downloader/jbialncfijnjojchcmhfmjgjggbbdghb/related?hl=en), [Video Downloader Professional](https://chrome.google.com/webstore/detail/video-downloader-professi/dlpiaeofjhnjeckpjcbhmnifdejoikpa), [Easy Video Downloader](https://add0n.com/easy-video-downloader.html), [Unlimited_downloader](https://greasyfork.org/en/scripts/445751), [y2monkey](https://github.com/jijirae/y2monkey)
 
 ***
 
