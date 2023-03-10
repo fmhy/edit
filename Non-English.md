@@ -1642,6 +1642,7 @@
 * [Anime4Mega](https://anime4mega.net/) - Anime
 * [Japan Paw!](https://japan-paw.net/) - Anime
 * [ivanime](https://www.ivanime.com/) - Anime
+* [Fukou-Da!](https://fukou-da.net/) - Anime / Light Novels
 * [N+2](https://nmasmas2.blogspot.com/) - Animated Movies / Cartoons
 * [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)
 * [Tododescargas](https://tododescargas.net/) - Software
