@@ -96,6 +96,7 @@
 * [books-library](https://books-library.online/) - Books 
 * [kutub](https://www.kutub-pdf.net/) - Books 
 * [EbookSar](https://www.ebooksar.com/) - Books
+* [Abjjad](https://www.abjjad.com/) - Books
 * [Manga Plus](https://t.me/Manga_Plus_Ar) - Manga
 * [manganoon](https://manganoon.com/) - Manga
 * [mangarabic](https://mangarabic.com/) - Manga
@@ -107,6 +108,7 @@
 * [hijala](https://hijala.blogspot.com/) - Manga
 * [manga-flix](https://www.manga-flix.com/) - Manga
 * [manhwa-arabic](https://manhwa-arabic.com/) - Manga
+* [Aldiwan](https://www.aldiwan.net/) - Poems
 
 ***
 
@@ -1003,6 +1005,12 @@
 * [pop-music](https://pop-music.ir/) - MP3
 * [Just Music](https://just-music.ir/) - MP3
 * [MusicDagh](https://www.musicdagh.ir/) - MP3
+* [Musico](https://musico.ir/) - MP3
+* [GolsarMusic](https://golsarmusic.ir/) - MP3
+* [Download1Music](https://download1music.ir/) - MP3
+* [Music-fa](https://music-fa.com/) - MP3
+* [UpMusics](https://upmusics.com/) - MP3
+* [SevilMusic](https://sevilmusic.com/) - MP3
 * [MusicGeek](https://musicgeek.ir/) - MP3 / FLAC
 * [SongSara](https://songsara.net/) - MP3 / FLAC
 * [FLACColdSong](https://t.me/flacoldsong) - FLAC
@@ -1082,6 +1090,11 @@
 * [Ekino-TV](https://ekino-tv.pl/) - Movies / TV
 * [Zerion.cc](https://zerion.cc/) - Movies / TV
 * [Vizjer](https://vizjer.pl/) - Movies / TV
+* [Filser](https://filser.cc/) - Movies / TV
+* [Filmeria](https://filmeria.co) - Movies / TV
+* [Bajeczki](https://bajeczki.org/) - Movies / TV / Cartoons
+* [iiTV](https://iitv.info/) - TV / Cartoons
+* [OpenClip](http://openclip.info/) - Movies / TV / Anime
 * [Shinden](https://shinden.pl/) - Anime / [Discord](https://discord.gg/xyH5uS6)
 * [wbijam](https://wbijam.pl/) - Anime
 * [Anime Odcinki](https://anime-odcinki.pl/) - Anime
@@ -2112,13 +2125,14 @@
 * [Einthusan](https://einthusan.tv/intro/) - South Asian Films Archive
 * [Jainism Library of Jain Literature](http://www.atmadharma.com/index.html) - Sacred Texts / Religion / Multi Language
 * [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Software / Games / Books / Comics
-* [AnimeBalkan](https://animebalkan.org/) - Croatian / Anime
+* [AnimeBalkan](https://animebalkan.org/) - Croatian / Streaming / Anime
 * [wlext](https://wlext.is/) - Turkish / Filipino / Thai / Streaming / Movies
 * [tagalogdubbed](https://tagalogdubbed.com/) - Tagalog / Streaming / Movies / TV
 * [Segoideas](https://segoideas.com/) - Taiwanese / Streaming / TV
 * [lupiteam](https://lupiteam.net/) - Corsican / Manga
 * [animesrbija](https://www.animesrbija.com/) - Serbian / Streaming / Anime
 * [Filma24](http://filma24.ch/) - Albanian / Streaming / Movies / TV
+* [Asenshu](https://asenshu.com/) - Albanian / Streaming / Anime
 * [DJPunjab](https://djpunjab.is/) - Punjabi / Download / MP3
 * [Paper](https://paper.naya.com.np/) - Nepali Text Tools
 * [Ethio Terka](https://t.me/ethio_terka), [amharicbookss](https://t.me/amharicbookss) or [GeezLibraryMembers](https://t.me/GeezLibraryMembers) - Amharic / Books
