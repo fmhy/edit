@@ -1521,3 +1521,4 @@
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - Shows Images & Videos Behind Links & Thumbnails
 * [DisableAMP](https://github.com/AdguardTeam/DisableAMP) - Disable Google AMP Links
+* [y2monkey](https://github.com/jijirae/y2monkey) - Download YouTube videos by pressing "SHIFT+D"
