@@ -1636,6 +1636,7 @@
 * [Descargar videos de la tele](https://eljaviero.com/descargarvideosdelatele/) - TV
 * [Anime-ESP](https://anime-esp.com/) - Anime
 * [ddl.ice](https://ddl.ice-blue.workers.dev/0:/) - Anime
+* [Ninjin Anime](https://ninjinanime.com/) - Anime
 * [N+2](https://nmasmas2.blogspot.com/) - Animated Movies / Cartoons
 * [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)
 * [Tododescargas](https://tododescargas.net/) - Software
