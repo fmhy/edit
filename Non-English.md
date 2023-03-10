@@ -1657,7 +1657,7 @@
 
 ## ▷ Torrenting
 
-* [DonTorrent](https://dontorrent.cloud/) / [2](https://donproxies.com/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
+* [DonTorrent](https://dontorrent.cloud/), [2](https://donproxies.com/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
 * [MejorTorrent](https://www1.mejortorrent.rip/) - Movies / TV / Documentaries / [Telegram](https://t.me/s/MejorTorrentAp)
 * [MejorTorrent.se](https://mejortorrent.se/) - Video / Audio / Software / Games / [Telegram](https://t.me/s/mejortorrentcom)
 * [Elitetorrent](https://www.elitetorrent.wf/) - Movies / TV / Anime
