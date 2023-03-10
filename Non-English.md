@@ -1660,7 +1660,7 @@
 * [MejorTorrent.wtf](https://mejortorrent.wtf/) - Movies / TV / Documentaries / [Telegram](https://t.me/s/MejorTorrentAp)
 * [MejorTorrent.se](https://mejortorrent.se/) - Video / Audio / Software / Games / [Telegram](https://t.me/s/mejortorrentcom)
 * [Elitetorrent](https://www.elitetorrent.wf/) - Movies / TV / Anime
-* [zonatorrent](https://zonatorrent.tv/) - Movies / TV
+* [Zonatorrent](https://zonatorrent.in/) - Movies / TV
 * [Grantorrent.wtf](https://grantorrent.wtf/) - Movies / TV / Documentaries
 * [Grantorrent.fi](https://grantorrent.fi/), [2](https://grantorrent.ac/) - Movies / TV / [Telegram](https://t.me/s/grantorrent1)
 * [PasateaTorrent](https://pasateatorrent.net/) - Movies / TV
