@@ -1636,6 +1636,15 @@
 * [Descargar videos de la tele](https://eljaviero.com/descargarvideosdelatele/) - TV
 * [Anime-ESP](https://anime-esp.com/) - Anime
 * [ddl.ice](https://ddl.ice-blue.workers.dev/0:/) - Anime
+* [Ninjin Anime](https://ninjinanime.com/) - Anime
+* [Animegafirex](https://www.animegafirex.com/) - Anime
+* [SphinxAnime](https://sphinxanime.com/) - Anime
+* [Anime4Mega](https://anime4mega.net/) - Anime
+* [Japan Paw!](https://japan-paw.net/) - Anime
+* [ivanime](https://www.ivanime.com/) - Anime
+* [Fukou-Da!](https://fukou-da.net/) - Anime / Light Novels
+* [Dw-anime](https://dw-anime.net/) - Anime
+* [animesgd](https://animesgd.net/) - Anime / Cartoons
 * [N+2](https://nmasmas2.blogspot.com/) - Animated Movies / Cartoons
 * [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)
 * [Tododescargas](https://tododescargas.net/) - Software
@@ -1648,16 +1657,15 @@
 
 ## ▷ Torrenting
 
-* [MejorTorrent.wtf](https://mejortorrent.wtf/) - Movies / TV / Documentaries / [Telegram](https://t.me/s/MejorTorrentAp)
+* [DonTorrent](https://dontorrent.cloud/) / [2](https://donproxies.com/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
+* [MejorTorrent](https://www1.mejortorrent.rip/) - Movies / TV / Documentaries / [Telegram](https://t.me/s/MejorTorrentAp)
 * [MejorTorrent.se](https://mejortorrent.se/) - Video / Audio / Software / Games / [Telegram](https://t.me/s/mejortorrentcom)
-* [EliteTorrent](https://elitetorrent.com/) - Movies / TV / Anime
-* [zonatorrent](https://zonatorrent.tv/) - Movies / TV
+* [Elitetorrent](https://www.elitetorrent.wf/) - Movies / TV / Anime
+* [Zonatorrent](https://zonatorrent.in/) - Movies / TV
 * [Grantorrent.wtf](https://grantorrent.wtf/) - Movies / TV / Documentaries
 * [Grantorrent.fi](https://grantorrent.fi/), [2](https://grantorrent.ac/) - Movies / TV / [Telegram](https://t.me/s/grantorrent1)
-* [PasateaTorrent](https://pasateatorrent.net/) - Movies / TV
+* [PasateaTorrent](https://pasateatorrent.org/) - Movies / TV
 * [Descargas](https://descargas2020.net/) - Movies / TV
-* [DonTorrent](https://dontorrent.casa/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent)
-* [Tomadivx](https://tomadivx.net/) - Movies / TV / Documentaries / Games
 * [DivxTotal](https://www.divxtotal.bz/) - Movies / TV / Software
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
 * [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries
@@ -1755,7 +1763,8 @@
 * [albalearning](https://albalearning.com/) - Audiobooks
 * [Audioteka](https://t.me/+S3ssdd7ny9oyM2M0) - Audiobooks
 * [mangadoor](http://mangadoor.com/) - Manga
-* [TuMangaOnline ](https://lectortmo.com/) - Manga
+* [TuMangaOnline](https://lectortmo.com/) - Manga
+* [Lector TMO](https://lectortmo.org/) - Manga
 * [Manga en Español](https://t.me/manga_es) - Manga
 * [HeavenManga](http://heavenmanga.com/) - Manga 
 * [InManga](https://inmanga.com/) - Manga
