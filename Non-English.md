@@ -1657,7 +1657,7 @@
 
 ## ▷ Torrenting
 
-* [DonTorrent](https://dontorrent.cloud/) / [2](https://donproxies.com/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
+* [DonTorrent](https://dontorrent.cloud/), [2](https://donproxies.com/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
 * [MejorTorrent](https://www1.mejortorrent.rip/) - Movies / TV / Documentaries / [Telegram](https://t.me/s/MejorTorrentAp)
 * [MejorTorrent.se](https://mejortorrent.se/) - Video / Audio / Software / Games / [Telegram](https://t.me/s/mejortorrentcom)
 * [Elitetorrent](https://www.elitetorrent.wf/) - Movies / TV / Anime
@@ -1669,6 +1669,9 @@
 * [DivxTotal](https://www.divxtotal.bz/) - Movies / TV / Software
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
 * [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries
+* [PediaTorrent](https://pediatorrent.com/) - Movies / TV / Documentaries
+* [Cinecalidad](https://cinecalidad.one/) - Movies / TV
+* [VivaTorrents](https://www.vivatorrents.org/) - Movies / TV
 * [Frozen Layer](https://www.frozen-layer.com/) - Anime
 * [unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
@@ -1742,7 +1745,7 @@
 
 ## ▷ Reading
 
-* ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** - Multi-Site Book Search
+* ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** / [SMAGX](https://smagx.com/) - Multi-Site Book Search
 * [epublibre](https://www.epublibre.org/) - Books
 * [ebiblioteca](https://ebiblioteca.org/) - Books
 * [Ebookelo](https://www.ebookelo.com/) - Books
@@ -1759,6 +1762,7 @@
 * [Elejandría](https://www.elejandria.com/) - Books
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
 * [librosintinta](https://www.librosintinta.in/) - PDF Search
+* [FreeLibros](https://www.freelibros.net/) - Textbooks / Books / Audiobooks / Magazines / Courses / Documentaries
 * [booksmedicos](https://booksmedicos.org/) - Medical Textbooks
 * [albalearning](https://albalearning.com/) - Audiobooks
 * [Audioteka](https://t.me/+S3ssdd7ny9oyM2M0) - Audiobooks
