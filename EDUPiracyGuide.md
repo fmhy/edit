@@ -426,10 +426,11 @@ Simulator
 * [Springer](http://www.springer.com), [Biomed Central](http://www.biomedcentral.com) - Scientific Publishers
 * [Electronic Journals Library - University of Regensburg](http://ezb.ur.de/ezeit/fl.phtml?bibid=AAAAA&colors=7&lang=en&notation=V), [abc-chemistry](https://abc-chemistry.org/), [arkat-usa](https://www.arkat-usa.org/) - Journals
 * [Martindale's Virtual Chemistry Center](https://martindalecenter.com/calculators3b.html) - Calculators
-* [Chemexper Chemical Directory](http://www.chemexper.com/) - Chemical Directory
-* [OrgSyn](http://orgsyn.org/Default.aspx) - Chemistry Prep Guides
 * [WebQC Balance Calculator](https://webqc.org/balance.php) - Chemical Equation Balance Calculator
 * [Wolfram Alpha Chemistry](https://wolframalpha.com/examples/science-and-technology/chemistry) - Chemistry Calculators and Tools
+* [Chemexper Chemical Directory](http://www.chemexper.com/) - Chemical Directory
+* [OrgSyn](http://orgsyn.org/Default.aspx) - Chemistry Prep Guides
+
 ***
 
 # ► World Data
