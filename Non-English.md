@@ -1669,6 +1669,9 @@
 * [DivxTotal](https://www.divxtotal.bz/) - Movies / TV / Software
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
 * [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries
+* [PediaTorrent](https://pediatorrent.com/) - Movies / TV / Documentaries
+* [Cinecalidad](https://cinecalidad.one/) - Movies / TV
+* [VivaTorrents](https://www.vivatorrents.org/) - Movies / TV
 * [Frozen Layer](https://www.frozen-layer.com/) - Anime
 * [unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
