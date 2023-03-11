@@ -428,7 +428,8 @@ Simulator
 * [Martindale's Virtual Chemistry Center](https://martindalecenter.com/calculators3b.html) - Calculators
 * [Chemexper Chemical Directory](http://www.chemexper.com/) - Chemical Directory
 * [OrgSyn](http://orgsyn.org/Default.aspx) - Chemistry Prep Guides
-
+* [WebQC Balance Calculator](https://webqc.org/balance.php) - Chemical Equation Balance Calculator
+* [Wolfram Alpha Chemistry](https://wolframalpha.com/examples/science-and-technology/chemistry) - Chemistry Calculators and Tools
 ***
 
 # ► World Data
