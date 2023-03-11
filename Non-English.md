@@ -268,6 +268,7 @@
 * [CLibrary](https://clibrary.top/) - Books
 * [ZXCS](http://zxcs.me) - Books
 * [LoreFree](https://lorefree.com/) - Books
+* [52shuku](https://www.52shuku.vip/) - Books / Light Novels
 * [zhongwen](http://zhongwen.com/gudian.htm) - Classic Literature
 * [AC.QQ](https://ac.qq.com/) - Manga
 * [BiliBili](https://manga.bilibili.com/) - Manga
@@ -709,6 +710,8 @@
 * [AnimeBatchs](https://animebatchs.net/) - Anime 
 * [AniBatch](https://anibatch.anibatch.moe/) - Anime
 * [Drivenime](https://drivenime.com/) - Anime
+* [IndonesiaEbook](https://ebook.twointomedia.com/) - Books
+* [NovelTerjemahan](https://novelterjemahan.com/) - Books
 
 ## ▷ Streaming
 
@@ -1140,6 +1143,7 @@
 * [wreducacional](https://www.wreducacional.com.br/) - Courses
 * [Mundo Ubuntu](https://www.mundoubuntu.com.br/) - Courses
 * [Jogatina](https://www.jogatina.com/) - Android Games
+* [Wrapk.net](https://www.wrapk.net/) - Modded APKs
 
 ## ▷ Torrenting
 
@@ -1654,6 +1658,7 @@
 * [VictorRaulRR](https://victorraulrr.info/) - Modded APKs
 * [Androidlista](https://www.androidlista.com/) - Modded APKs
 * [APKilimitado](https://apkilimitado.com/) - Modded APKs
+* [EspacioAPK](https://espacioapk.com/) - Modded APKs
 
 ## ▷ Torrenting
 
