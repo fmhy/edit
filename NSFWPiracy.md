@@ -311,7 +311,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Doujinantena](https://doujinantena.top/)
 * [HentaiWorld](https://hentaiworld.tv/)
 * [Wholesome Hentai](https://wholesomelist.com/)
-* [/r/SixDigits](https://www.reddit.com/r/sixdigits)
 * [Anime-Sharing Hentai](http://www.anime-sharing.com/forum/hentai-ovas-36/)
 * [Porndude Hentai](https://theporndude.com/hentai-porn-sites)
 * [Fakku Search Script](https://redd.it/u0fnpf)
