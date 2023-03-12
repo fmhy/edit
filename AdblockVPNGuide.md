@@ -493,14 +493,15 @@
 * ⭐ **[OVPN](https://www.ovpn.com/)** - [Pricing](https://i.imgur.com/ALOfSxn.png)
 * ⭐ **[Proton](https://protonvpn.com)** - [Pricing](https://i.imgur.com/hkhZGg1.png) / No Torrenting w/ Free Version
 * ⭐ **[Windscribe](https://windscribe.com)** - [Pricing](https://i.imgur.com/D7015rq.png) / Free Version Available / [Improved App](https://github.com/Windscribe/desktop-v2)
+* ⭐ **[AirVPN](https://airvpn.org/)** - [Pricing](https://i.imgur.com/TMU1Qtt.png)
+* ⭐ **[Perfect Privacy](https://www.perfect-privacy.com/)** - [Pricing](https://i.imgur.com/Rtfwu2t.png)
+* ⭐ **[IVPN](https://www.ivpn.net/)** - [Pricing](https://i.imgur.com/Iq92wOO.png) / [Free Trial](https://redd.it/nzjmqa)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN 
 * ⭐ **[Softether](https://www.softether.org/)** - Free VPN / [VPN Gate](https://www.vpngate.net/en/download.aspx) / [Note](https://pastebin.com/TrSw7EpF)
 * ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Manager](https://github.com/perara/wg-manager) / [WebUI](https://hub.docker.com/r/weejewel/wg-easy)
-* [Perfect Privacy](https://www.perfect-privacy.com/) - [Pricing](https://i.imgur.com/Rtfwu2t.png)
-* [IVPN](https://www.ivpn.net/) - [Pricing](https://i.imgur.com/Iq92wOO.png) / [Free Trial](https://redd.it/nzjmqa)
+* [CryptoStorm](https://cryptostorm.is/) - [Pricing](https://i.imgur.com/irrf8RV.png)
 * [Surfshark](https://surfshark.com/) - [Pricing](https://i.imgur.com/YaiKjpX.png)
 * [Trust.Zone](https://trust.zone/) - [Pricing](https://i.imgur.com/PsRa8GD.png)
-* [AirVPN](https://airvpn.org/) - [Pricing](https://i.imgur.com/TMU1Qtt.png)
 * [VPNSecure](https://www.vpnsecure.me/) - [Pricing](https://i.imgur.com/BnuqpBS.png)
 * [MysteriumVPN](https://www.mysteriumvpn.com/) - [Pricing](https://i.imgur.com/2un0hjM.png)
 * [Tailscale](https://tailscale.com/) - [Pricing](https://i.imgur.com/6lMwcSQ.png) / [Discord](https://discord.com/invite/n3vtSwc)
