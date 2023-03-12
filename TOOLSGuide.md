@@ -1550,7 +1550,6 @@
 * [LiveTL](https://kentonishi.github.io/LiveTL/) - YouTube Live Stream Translator
 * [YoutubeLiveChatFlusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - Bullet Chatting (Danmaku) for YouTube Live
 * [Youtube Summarizer](https://share.streamlit.io/iamknownstranger/ytsummary/main) or [SkipVid](https://skipvid.herokuapp.com/) - YouTube Transcript Summarizers
-* [YouTube Data Calc](https://dlogic.lk/projects/youtubedatacalc.php) - YouTube Data Usage Calculator
 * [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/) or [ytwrk](https://github.com/terorie/ytwrk) - YouTube Data Extraction 
 * [Youtube DataViewer](https://citizenevidence.amnestyusa.org/) or [YouTube-MA](https://github.com/CorentinB/YouTube-MA) - YouTube Video Data Viewer 
 * [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer) - Restore Deleted YouTube Video Titles in Playlists
@@ -1932,7 +1931,7 @@ Twitch Stream Tracker
 * [SharpKeys](https://github.com/randyrants/sharpkeys/) -  Re-Map Keyboard Buttons
 * [Mouseable](https://github.com/wirekang/mouseable) - Replace Mouse with Keyboard
 * [Revertservice](http://revertservice.com/) - Default configurations of Windows services
-* [Win10 Widgets](https://win10widgets.com/), [BeWidgets](https://www.microsoft.com/en-us/p/bewidgets/9nq07fg50h2q), [Eww](https://github.com/elkowar/eww) or [Gadgets Revived](https://gadgetsrevived.com/) - Widgets for Windows 
+* [Win10 Widgets](https://win10widgets.com/), [BeWidgets](https://www.microsoft.com/en-us/p/bewidgets/9nq07fg50h2q) or [Eww](https://github.com/elkowar/eww) - Widgets for Windows 
 * [Übersicht](https://tracesof.net/uebersicht/) - System Command Widgets
 * [Command Not Found](https://command-not-found.com/) - Install Missing Commands
 * [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Windows API Tricks
@@ -2135,7 +2134,7 @@ Twitch Stream Tracker
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
 * [Cursors 4U](https://www.cursors-4u.com/), [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor), [Cursors Pastebin](https://pastebin.com/BrAbMy4n) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - MacOS Cursors for Windows
-* [Windows Sounds](https://winsounds.com/) or [Win11 Sounds](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_win11_sounds) - Windows Sound Schemes
+* [Win11 Sounds](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_win11_sounds) - Windows Sound Schemes
 * [Win7BootUpdater](https://mega.nz/file/T5ZDmIaK#jdiomK79q1CYzwFcbzkzJ1ceLsWlnAHLvofsjHIq39g) - Customize Windows 7 Boot Animation / [Guide](https://youtu.be/IdwcWIKuVG8)
 * [After Dark CSS](https://www.bryanbraun.com/after-dark-css/) - Browser Screensavers
 * [terminal.sexy](https://terminal.sexy/), [TerminalSplash](https://terminalsplash.com/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Themes
@@ -2205,7 +2204,7 @@ Twitch Stream Tracker
 * [Dark Mode PDF](https://dark-mode-pdf.portals.sh/) - Convert PDFs to Darkmode
 * [PDF Host](https://pdfhost.io/) - Upload, Store and Share PDF Files 
 * [PDFx](https://www.metachris.com/pdfx/) or [Tabula](https://tabula.technology/) - Extract Info / URLs from PDF 
-* [online2pdf](https://online2pdf.com/), [ToPDF](https://topdf.org/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
+* [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
 * [PDFConverter](https://www.pdfconverter.com/) or [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Convters 
 * [Adobe Compress PDF](https://www.adobe.com/acrobat/online/compress-pdf.html) - PDF Compressor
 * [PDF Mergy](https://pdfmerge.w69b.com/) - Merge PDF Files
