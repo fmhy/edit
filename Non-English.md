@@ -1656,6 +1656,7 @@
 * [animesgd](https://animesgd.net/) - Anime / Cartoons
 * [N+2](https://nmasmas2.blogspot.com/) - Animated Movies / Cartoons
 * [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)
+* [Niroqui](https://niroqui.com/) - Courses
 * [Tododescargas](https://tododescargas.net/) - Software
 * [Artistapirata](https://www.artistapirata.com/) - Software
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/) - Software / Movies / TV
