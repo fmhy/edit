@@ -1795,6 +1795,7 @@
 * [librosintinta](https://www.librosintinta.in/) - PDF Search
 * [FreeLibros](https://www.freelibros.net/) - Textbooks / Books / Audiobooks / Magazines / Courses / Documentaries
 * [El Solucionario](https://www.elsolucionario.org/) - Textbooks
+* [Librotecarios](https://librotecarios.blogspot.com/) - Textbooks
 * [Libros de la Nube](https://librosdelanube.blogspot.com/) - Textbooks
 * [booksmedicos](https://booksmedicos.org/) - Medical Textbooks
 * [albalearning](https://albalearning.com/) - Audiobooks
