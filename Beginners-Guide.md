@@ -29,7 +29,7 @@
 
 ### Browsers
 
-**[Firefox](https://www.mozilla.org/en-US/firefox/new/)** / **[Browser Comparisons](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**
+**[Firefox](https://www.mozilla.org/en-US/firefox/new/)** / **[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / **[Browser Comparisons](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**
 **[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_extensions)** - Add features & functionality to browser
 **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_managers)** - Save multiple passwords
 **[Dark Reader](https://darkreader.org/)** - Dark mode for all sites
@@ -158,7 +158,7 @@
 **[/r/ApkApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** - Updated list of modded APKs / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)
 **[APKMirror](https://www.apkmirror.com/) / [F-Droid](https://f-droid.org/)** - Untouched APKs
 **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8) / [2](https://cse.google.com/cse?cx=73948689c2c206528) / [3](https://cse.google.com/cse?cx=a805854b6a196d6a6)**  - Multi-site APK search
-**[Stremio](https://www.stremio.com/) / [CloudStream](https://cloudstream.cf/) / [CinemaHD](https://github.com/TeruSetephen/cinemaapk)** - Video streaming apps / Use VPN for Stremio
+**[Stremio](https://www.stremio.com/) / [CloudStream](https://cloudstream.cf/) - Video streaming apps / Use VPN for Stremio
 **[Kodi](https://kodi.tv/)** - iOS / Android TV compatible streaming app / [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 **[ReVanced Manager](https://github.com/revanced/revanced-manager)** - Ad free YouTube
 **[Spotify Mod](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_modded_spotify_apk) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_spotify.2B.2B), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_spotilife)** - Ad free Spotify
