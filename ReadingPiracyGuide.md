@@ -891,6 +891,7 @@
 * [pptenshi](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pptenshi)
 * [GoIndex](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_goindex)
 * [MangaHere](http://www.mangahere.cc)
+* [MangaFire](https://mangafire.to/)
 * [BATO.TO](https://bato.to/), [2](https://battwo.com/) - [Discord](https://discord.gg/7NBwcBsDph) / [Proxy](https://batotoo.com/)
 * [Atsumaru](https://atsu.moe/) - [Discord](https://discord.gg/Tj4QmEF4uV)
 * [MangaHub](https://mangahub.io/)
@@ -905,7 +906,6 @@
 * [MangaSail](https://www.mangasail.co/)
 * [Taadd](http://www.taadd.com/)
 * [BilingualManga](https://bilingualmanga.net/)
-* [MangaFire](https://mangafire.to/)
 * [MangaFreak](https://w12.mangafreak.net/)
 * [Manga-Raw](https://www.manga-raw.club/)
 * [MangaInn](https://mangainn.net/) 
@@ -1233,7 +1233,6 @@
 * ⭐ **[Google Play Books](https://play.google.com/books)** - Store Pirated Books / Get Meta Data Automatically
 * ⭐ **[Foxit](https://www.foxitsoftware.com/pdf-reader/)** - PDF Reader / PC / Android / iOS / Linux / Mac
 * ⭐ **[Koodo](https://koodo.960960.xyz/)** - Ebook Reader / PC / Mac / Linux / [GitHub](https://github.com/troyeguo/koodo-reader)
-* ⭐ **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - Ebook Reader / Android
 * ⭐ **[eBoox](https://eboox.ru/en/)** - Ebook Reader / Android / iOS
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader.html)** - PDF Reader
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / Android / iOS
