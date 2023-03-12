@@ -313,6 +313,7 @@
 * [EquatIO](https://chrome.google.com/webstore/detail/equatio-math-made-digital/hjngolefdpdnooamgdldlkjgmdcmcjnc) - Math Equation Creator
 * [SequenceDB](http://sequencedb.net/) - Sequence Machine
 * [Giac/Xcas](http://www-fourier.ujf-grenoble.fr/~parisse/giac.html) - Algebra System
+* [Algebra Rules](http://algebrarules.com/) - Learn Algebra Rules
 * [Weboasis Convert](https://weboasis.app/convert/) - Conversion Calculators
 * [PecentageTools](https://percentagetools.com/) - Percentage Calculators
 * [Matrix Multiplication](http://matrixmultiplication.xyz/) - Matrix Multiplication Calculator
@@ -776,8 +777,8 @@ Simulator
 * [Coursicle](https://www.coursicle.com/) - Class Schedule Tracker
 * [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - Educational Communication / iOS
 * [Note Taking Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - Note Taking / To-Do Apps
-* [Note Garden](https://notegarden.web.app/), [2](https://notegarden.io/) - Note Taking & Auto Courses
-* [Mochi Cards](https://mochi.cards/) or [MidTerm](https://midterm.app/) - Note Taking / Study Tool
+* [Note Garden](https://notegarden.web.app/), [2](https://notegarden.io/) - Note Taking / Auto Courses
+* [Mochi Cards](https://mochi.cards/), [Silicon](https://github.com/cu/silicon) or [MidTerm](https://midterm.app/) - Note Taking / Study Tool
 * [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
 * [BookStack](https://www.bookstackapp.com/) - Self-Hosted Information Manager
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
