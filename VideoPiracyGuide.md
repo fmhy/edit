@@ -316,6 +316,7 @@
 * [Adult Swim](https://www.adultswim.com/videos/) - Full Adult Swim Episodes
 * [Homestar Runner](https://homestarrunner.com/) - Web-Series / Games
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - Bay Area TV Archive
+* [Taskmaster](https://www.youtube.com/@Taskmaster/playlists?view=50&sort=dd&shelf_id=1) - Taskmaster Episodes
 * [Ninja Warrior](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ninja_warrior) - Sasuke Episodes
 * [MyRM](https://myrunningman.com/) - My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)
 * [No-Laughing Batsu Game List](https://redd.it/2fgm9p)
