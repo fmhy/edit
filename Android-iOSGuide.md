@@ -225,7 +225,7 @@
 * [MouseRemote](https://github.com/Akshayaap/MouseRemote) - Use Android as Mouse
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
 * [RoMote](https://github.com/wseemann/RoMote) - Phone Roku Controller
-* [Pluma](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader&hl=en), [FeedMe](https://github.com/seazon/FeedMe) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers 
+* [Pluma](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader&hl=en), [Feeder](https://gitlab.com/spacecowboy/Feeder), [FeedMe](https://github.com/seazon/FeedMe) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers 
 * [Water Resistance Tester](https://play.google.com/store/apps/details?id=com.ray.waterresistancetester) - Test Phones Water Resistance
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Make Your Phone Less Distracting
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - Ringtones Directory
@@ -247,7 +247,7 @@
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) or [AndrOpen](https://www.andropenoffice.com/) - Office Suite
 * [Papertag](https://www.papertag.app/) - Attach Digital Content on Paper
 * [SubX](https://play.google.com/store/apps/details?id=com.alkapps.subx), [Billbot](https://play.google.com/store/apps/details?id=com.billbot) or [SubscriptionManager](https://play.google.com/store/apps/details?id=de.simolation.subscriptionmanager) - Track Subscription Services
-* [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - Audio Recorder
+* [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/), [android-audio-recorder](https://gitlab.com/axet/android-audio-recorder) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - Audio Recorders
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
 * [VoiceGPT](https://voicegpt.net/) or [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistants
 * [KeyMapper](https://github.com/keymapperorg/KeyMapper) - Key Mapper
@@ -314,6 +314,7 @@
 * [Boost](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_boost), [Joey](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_joey), [Dawn](https://github.com/Tunous/Dawn), [Flex](https://play.google.com/store/apps/details?id=ai.brownian.flex4reddit), [BaconReader](https://baconreader.com/) or [Relay](https://relayforreddit.com/index.html) - Reddit Clients
 * [Offline Reddit](https://play.google.com/store/apps/details?id=yy.offlinereader) - Offline Reddit Client
 * [reveddit](https://play.google.com/store/apps/details?id=com.agreenbhm.reveddit) - View Deleted Reddit Posts
+* [Updoot](https://updoot.app/) - Reddit Saved Post / Comment Manager
 * [Lemmur](https://github.com/krawieck/lemmur) or [Jerboa](https://github.com/dessalines/jerboa) - Lemmy Client
 * [Uploadgram App](https://github.com/pato05/uploadgram-app) - Uploadgram Frontend
 * [Instander](https://thedise.me/instander/) - Modded Instagram Client / [Telegram](https://t.me/instander) / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android) / [Secrets](https://ngl.link/) 
@@ -390,7 +391,7 @@
 * [Better Open With](https://play.google.com/store/apps/details?id=com.aboutmycode.betteropenwith) - Improved Link Handling
 * [PDF Maker](https://play.google.com/store/apps/details?id=opofficial.pdfmaker) - PDF Creator
 * [Lagrange](https://skyjake.github.io/fdroid/repo/) or [Buran](https://github.com/Corewala/Buran) - Gemini Browsers
-* [BlueClover](https://github.com/nnuudev/BlueClover), [Kuroba](https://github.com/K1rakishou/Kuroba-Experimental) or [Chan](https://github.com/moffatman/chan) - 4Chan Apps
+* [BlueClover](https://github.com/nnuudev/BlueClover), [MobiChan](https://github.com/Rukkaitto/mobichan), [Kuroba](https://github.com/K1rakishou/Kuroba-Experimental) or [Chan](https://github.com/moffatman/chan) - 4Chan Apps
 * [Flutter News](https://github.com/CoderJava/Flutter-News-App) or [Volv](https://play.google.com/store/apps/details?id=com.volvmedia.volvapp) - News Apps
 * [Hacki](https://github.com/Livinglist/Hacki) or [Glider](https://github.com/Mosc/Glider) - Hacker News
 * [ServeIt](https://github.com/many-fac3d-g0d/ServeIt) - Android HTTP Server
@@ -479,8 +480,8 @@
 * [How to Install a Custom ROM](https://www.xda-developers.com/how-to-install-custom-rom-android/amp/) - Custom ROM Installation Guide
 * [Odin](https://www.odindownload.com/) or [IVTheme](https://www.ivtheme.com/) - ROM Flashing Tools
 * [UniPatcher](https://github.com/btimofeev/UniPatcher) or [ROM Patcher](https://apkcombo.com/rom-patcher/com.xperia64.rompatcher/) - ROM Patcher
-* [FindMyDevice](https://gitlab.com/Nulide/findmydevice) or [AutoWhatsAppTriggers](https://play.google.com/store/apps/details?id=om.roitman.autowhatsapptriggers) - Device Tracker
-* [OwnTracks](https://owntracks.org/) or [Hauk](https://github.com/bilde2910/Hauk), [GPSCockpit](https://github.com/woheller69/gpscockpit) or [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) - Track Own Location
+* [FindMyDevice](https://gitlab.com/Nulide/findmydevice), [phonetrack](https://gitlab.com/eneiluj/phonetrack-oc) / [2](https://gitlab.com/eneiluj/phonetrack-android) or [AutoWhatsAppTriggers](https://play.google.com/store/apps/details?id=om.roitman.autowhatsapptriggers) - Track Phones Location
+* [OwnTracks](https://owntracks.org/), [Hauk](https://github.com/bilde2910/Hauk), [GPSCockpit](https://github.com/woheller69/gpscockpit) or [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) - Track Own Location
 * [PhoneAccount Abuse Detector](https://play.google.com/store/apps/details?id=space.linuxct.phoneaccountdetector) - Android Emergency Calling Bug Check
 * [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451), [SkyHawk](https://skyhawkrecovery.github.io/) / [GitHub](https://github.com/SHRP), [PitchBlack](https://pitchblackrecovery.com/) or [OrangeFox](https://wiki.orangefox.tech/en/home) / [GitHub](https://gitlab.com/OrangeFox/misc/appdev/app) - Custom Recovery Firmware
 * [TWRP Root](https://twrp.me/) /  [Telegram](https://t.me/samsung_twrp_root/78379) or [UnofficialTWRP](https://unofficialtwrp.com/) - TWRP Root
@@ -603,6 +604,7 @@
 * ⭐ **[Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers)** - List of Multi-Platform eBook Readers
 * ⭐ **[Mobilism](https://forum.mobilism.org/app/)**, [Project Gutenberg](https://github.com/Pool-Of-Tears/Myne) or [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app) - Ebook Site Apps
 * ⭐ **[Librera](http://librera.mobi/)**  - Ebook Reader
+* ⭐ **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - Ebook Reader
 * ⭐ **[Tachiyomi](https://tachiyomi.org/)** - Manga / Comic Reader
 * ⭐ **Tachiyomi Tools** - [Github Releases](https://github.com/tachiyomiorg/tachiyomi) / [Forks](https://tachiyomi.org/forks/#forks) / [Discord](https://discord.com/invite/tachiyomi) / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/)
 * [Openreads](https://f-droid.org/en/packages/software.mdev.bookstracker/) or [Basmo](https://basmo.app/) - Book Managers / Trackers
