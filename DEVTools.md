@@ -11,7 +11,7 @@
 
 # ► Learning / Cheat Sheets
 
-* ⭐ **[StackOverflow](https://stackoverflow.com/)**, [DecodingDevOps](https://www.decodingdevops.com/) or [Stack Roboflow](https://stackroboflow.com/) - Developer Q&A / [ChatGPT Addon](https://stackoverflow.gg/)
+* ⭐ **[StackOverflow](https://stackoverflow.com/)**, [DecodingDevOps](https://www.decodingdevops.com/) or [Stack Roboflow](https://stackroboflow.com/) - Developer Q&A
 * ⭐ **[The Odin Project](https://www.theodinproject.com/)** - Web Dev Tutorials / Courses
 * ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Courses / [Infinite Trial](https://pastebin.com/aJ4v55ae)
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive [Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_freecodechamp_archive) / [GitHub](https://github.com/freeCodeCamp/freeCodeCamp)
@@ -255,7 +255,6 @@
 * [SREWorks](https://github.com/alibaba/SREWorks) - Operation & Maintenance Platform
 * [the component gallery](https://component.gallery/) - Design Components Gallery
 * [Media Chrome](https://www.media-chrome.org/) - Media Player Elements / [GitHub](https://github.com/muxinc/media-chrome)
-* [Releasenote.ai](https://releasenote.ai/) - Create Release Notes via AI
 * [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - README Template 
 * [codex-readme](https://github.com/tom-doerr/codex-readme) - Generate README with AI
 * [Read the Docs](https://readthedocs.org/), [MkDocs](https://www.mkdocs.org/), [Mintlify](https://mintlify.com/) or [mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - Documentation Creators / [Theme](https://github.com/squidfunk/mkdocs-material)
@@ -321,7 +320,6 @@
 * [Pylon](https://pylon.bot/) or [Bot Designer for Discord](https://apps.apple.com/us/app/bot-designer-for-discord/id1495536477) (Mac) - Discord Bot Builder
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
 * [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - C++ Library for Discord
-* [Twitter (un)official Consumer Key](https://gist.github.com/shobotch/5160017) - Twitter Consumer Keys
 * [Birdsite](https://birdsite.slashdev.space/) - Twitter to ActivityPub Bridge
 * [rss-to-activitypub](https://portal.0svc.com/convert/) - RSS to ActivityPub Converter
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
@@ -855,7 +853,6 @@
 ## ▷ Markup Languages
 
 * [markup.rocks](https://markup.rocks/) - Online Markup Editor
-* [Minifier](https://www.willpeavy.com/tools/minifier/) - Minify HTML, CSS & JS Markup HTML Minifier / [Unminify](https://www.unminify2.com/)
 * [HTML-Minifier](https://kangax.github.io/html-minifier/) - HTML Minifier
 * [HTML.com](https://html.com/) - HTML Guide / Cheat Sheet
 * [HTML Reference](https://htmlreference.io/) - HTML Guide
@@ -864,7 +861,6 @@
 * [HTML + CSS Extract](https://chrome.google.com/webstore/detail/html-%20-css-extract/bkahkocegdkgicmmfpkoeipjmjaeohfn) - HTML / CSS Extractor
 * [TryIt HTML](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro), [CodeTester](http://codetester.org/), [HTML-Online](https://html-online.com/editor/), [pell](https://jaredreich.com/pell/), [html.cafe](https://html.cafe/) or [jsTester](https://www.cs.iupui.edu/~ajharris/webprog/jsTester.html) - Online HTML Editors
 * [GrapeJS](https://grapesjs.com/) - HTML Template Editor
-* [meml.ink](https://meml.ink/) - HTML Pastebin
 * [Broken Link Checker](https://github.com/stevenvachon/broken-link-checker) - Find Broken Links in HTML
 * [Markup Validation Service](https://validator.w3.org/) - Validate Your Markup Language Structure
 * [typeset](https://typeset.lllllllllllllllll.com/) - HTML Typography Pre-Processor
@@ -1221,7 +1217,6 @@
 * [V](https://vlang.io/) - Programming Language
 * [Melody](https://yoav-lavi.github.io/melody/book/) - Programming Language / [GitHub](https://github.com/yoav-lavi/melody)
 * [Emojicode](https://www.emojicode.org/) - Emoji Based Programming Language
-* [CrystalShards](https://crystalshards.org/) - Crystal Programming Shards
 * [Crystalline](https://github.com/elbywan/crystalline) - Crystal Language Server
 * [scry](https://github.com/crystal-lang-tools/scry) - Crystal Code Analysis Server
 * [icr](https://github.com/crystal-community/icr) - REPL for Crystal
