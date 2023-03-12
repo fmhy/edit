@@ -493,12 +493,12 @@
 * ⭐ **[OVPN](https://www.ovpn.com/)** - [Pricing](https://i.imgur.com/ALOfSxn.png)
 * ⭐ **[Proton](https://protonvpn.com)** - [Pricing](https://i.imgur.com/hkhZGg1.png) / No Torrenting w/ Free Version
 * ⭐ **[Windscribe](https://windscribe.com)** - [Pricing](https://i.imgur.com/D7015rq.png) / Free Version Available / [Improved App](https://github.com/Windscribe/desktop-v2)
-* ⭐ **[Surfshark](https://surfshark.com/)** - [Pricing](https://i.imgur.com/YaiKjpX.png)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN 
 * ⭐ **[Softether](https://www.softether.org/)** - Free VPN / [VPN Gate](https://www.vpngate.net/en/download.aspx) / [Note](https://pastebin.com/TrSw7EpF)
 * ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Manager](https://github.com/perara/wg-manager) / [WebUI](https://hub.docker.com/r/weejewel/wg-easy)
 * [Perfect Privacy](https://www.perfect-privacy.com/) - [Pricing](https://i.imgur.com/Rtfwu2t.png)
 * [IVPN](https://www.ivpn.net/) - [Pricing](https://i.imgur.com/Iq92wOO.png) / [Free Trial](https://redd.it/nzjmqa)
+* [Surfshark](https://surfshark.com/) - [Pricing](https://i.imgur.com/YaiKjpX.png)
 * [Trust.Zone](https://trust.zone/) - [Pricing](https://i.imgur.com/PsRa8GD.png)
 * [AirVPN](https://airvpn.org/) - [Pricing](https://i.imgur.com/TMU1Qtt.png)
 * [VPNSecure](https://www.vpnsecure.me/) - [Pricing](https://i.imgur.com/BnuqpBS.png)
@@ -508,6 +508,7 @@
 * [WeVPN](https://wevpn.com/) - [Pricing](https://i.imgur.com/a6XWraf.png)
 * [PandaVPN](https://pandavpnpro.com/) - [Pricing](https://i.imgur.com/nm2CVhX.png)
 * [Hidemy.name](https://hidemy.name/en/) - [Pricing](https://i.imgur.com/wE4WonU.png)
+* [TitaniumNetwork VPN](https://tnvpn.com/) - [Pricing](https://i.imgur.com/7QwV9bD.png)
 * [Malwarebytes VPN](https://malwarebytes.com/vpn) - [Pricing](https://i.imgur.com/wgt7gE0.png)
 * [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - VPN Extension / 3GB Free / [Pricing](https://i.imgur.com/ZdDexDa.png)
 * [Mozilla FPN](https://fpn.firefox.com/) - VPN Extension / [Pricing](https://i.imgur.com/wW5rVO2.png) / Mullvad Servers
