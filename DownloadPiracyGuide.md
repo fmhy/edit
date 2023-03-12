@@ -259,6 +259,7 @@
 * [Fossies](https://fossies.org/all.html)
 * [FossHub](https://www.fosshub.com/)
 * [Simple Tools](https://simpletools.info/doku.php)
+* [Handmade Network](https://handmade.network/)
 * [FreshCode](https://freshcode.club/)
 * [Realityripple](https://realityripple.com/)
 * [Softpedia](https://www.softpedia.com/)
