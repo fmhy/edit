@@ -98,6 +98,7 @@
 * [books-library](https://books-library.online/) - Books 
 * [kutub](https://www.kutub-pdf.net/) - Books 
 * [EbookSar](https://www.ebooksar.com/) - Books
+* [Abjjad](https://www.abjjad.com/) - Books
 * [Manga Plus](https://t.me/Manga_Plus_Ar) - Manga
 * [manganoon](https://manganoon.com/) - Manga
 * [mangarabic](https://mangarabic.com/) - Manga
@@ -109,6 +110,7 @@
 * [hijala](https://hijala.blogspot.com/) - Manga
 * [manga-flix](https://www.manga-flix.com/) - Manga
 * [manhwa-arabic](https://manhwa-arabic.com/) - Manga
+* [Aldiwan](https://www.aldiwan.net/) - Poems
 
 ***
 
@@ -192,6 +194,7 @@
 * [ICIBA](http://www.iciba.com/), [Fanyi](https://fanyi.qq.com/) or [YouDao](https://fanyi.youdao.com/) - Translator / [Client](http://cp.iciba.com/)
 * [itaigi](https://itaigi.tw/) - Chinese to Taiwanese Translator
 * [Flash.cn](https://www.flash.cn/) - Chinese Flash Player
+* [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
 
 ## ▷ Downloading
 
@@ -271,6 +274,8 @@
 * [ZXCS](http://zxcs.me) - Books
 * [LoreFree](https://lorefree.com/) - Books
 * [52shuku](https://www.52shuku.vip/) - Books / Light Novels
+* [qqszz](https://www.qqszz.com/) - Books / Light-Novels
+* [Huangdizhijia](https://www.huangdizhijia.com/index.html) - Books / Light-Novels
 * [zhongwen](http://zhongwen.com/gudian.htm) - Classic Literature
 * [AC.QQ](https://ac.qq.com/) - Manga
 * [BiliBili](https://manga.bilibili.com/) - Manga
@@ -282,6 +287,7 @@
 * [uukanshu](https://www.uukanshu.com/) - Light-Novels
 * [linovelib](https://www.linovelib.com/) - Light-Novels
 * [lightnovel.us](https://www.lightnovel.us/) - Light-Novels
+* [txt900](https://www.txt990.org/) - Light-Novels
 * [Baozimh](https://www.baozimh.com/) - Webtoons
 * [Doujin Fiction Network](https://www.trxs.org/) or [Readfine](https://t.me/Readfine) / [Discussion](https://t.me/ReadfineChat) - FanFiction
 * [ishare.iask](https://ishare.iask.sina.com.cn/) - Documents
@@ -389,6 +395,7 @@
 * [FRDownMags](https://fr.downmagaz.net/) - Magazines
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
 * [GameTronik](http://www.gametronik.com/site/index.php) - Abandonware / Emulators
+* [Emurom](https://www.emurom.net/) - Emulators / ROMs
 * [TousLeDrivers](https://www.touslesdrivers.com/) - Drivers
 
 ## ▷ Torrenting
@@ -397,8 +404,7 @@
 * [Cpasbien](https://www.cpasbien.tw/) - Video / Audio / Books / Software / Games / ROMs
 * [Zetorrents](https://www.zetorrents.ch/) - Video / Audio / Software / Games / ROMs / Books
 * [Torrent411](https://www.torrent411.to/) - Video / Audio / Software / Games / ROMs / Books
-* [oxtorrents](https://www.oxtorrent.be/) - Video / Audio / Software / Games / Roms / Books NSFW
-* French / General Torrent Tracker 
+* [OxTorrent](https://oxtorrent.tk/) - Video / Audio / Software / Games / ROMs / Books / NSFW
 
 ## ▷ Streaming
 
@@ -1009,6 +1015,12 @@
 * [pop-music](https://pop-music.ir/) - MP3
 * [Just Music](https://just-music.ir/) - MP3
 * [MusicDagh](https://www.musicdagh.ir/) - MP3
+* [Musico](https://musico.ir/) - MP3
+* [GolsarMusic](https://golsarmusic.ir/) - MP3
+* [Download1Music](https://download1music.ir/) - MP3
+* [Music-fa](https://music-fa.com/) - MP3
+* [UpMusics](https://upmusics.com/) - MP3
+* [SevilMusic](https://sevilmusic.com/) - MP3
 * [MusicGeek](https://musicgeek.ir/) - MP3 / FLAC
 * [SongSara](https://songsara.net/) - MP3 / FLAC
 * [FLACColdSong](https://t.me/flacoldsong) - FLAC
@@ -1090,6 +1102,11 @@
 * [Vizjer](https://vizjer.pl/) - Movies / TV
 * [Zerknij](https://zerknij.tv/) - Movies / TV
 * [Kinomoc](https://kinomoc.com/) - Movies / TV
+* [Filser](https://filser.cc/) - Movies / TV
+* [Filmeria](https://filmeria.co) - Movies / TV
+* [Bajeczki](https://bajeczki.org/) - Movies / TV / Cartoons
+* [iiTV](https://iitv.info/) - TV / Cartoons
+* [OpenClip](http://openclip.info/) - Movies / TV / Anime
 * [Shinden](https://shinden.pl/) - Anime / [Discord](https://discord.gg/xyH5uS6)
 * [wbijam](https://wbijam.pl/) - Anime
 * [Anime Odcinki](https://anime-odcinki.pl/) - Anime
@@ -2131,13 +2148,14 @@
 * [Einthusan](https://einthusan.tv/intro/) - South Asian Films Archive
 * [Jainism Library of Jain Literature](http://www.atmadharma.com/index.html) - Sacred Texts / Religion / Multi Language
 * [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Software / Games / Books / Comics
-* [AnimeBalkan](https://animebalkan.org/) - Croatian / Anime
+* [AnimeBalkan](https://animebalkan.org/) - Croatian / Streaming / Anime
 * [wlext](https://wlext.is/) - Turkish / Filipino / Thai / Streaming / Movies
 * [tagalogdubbed](https://tagalogdubbed.com/) - Tagalog / Streaming / Movies / TV
 * [Segoideas](https://segoideas.com/) - Taiwanese / Streaming / TV
 * [lupiteam](https://lupiteam.net/) - Corsican / Manga
 * [animesrbija](https://www.animesrbija.com/) - Serbian / Streaming / Anime
 * [Filma24](http://filma24.ch/) - Albanian / Streaming / Movies / TV
+* [Asenshu](https://asenshu.com/) - Albanian / Streaming / Anime
 * [DJPunjab](https://djpunjab.is/) - Punjabi / Download / MP3
 * [Paper](https://paper.naya.com.np/) - Nepali Text Tools
 * [Ethio Terka](https://t.me/ethio_terka), [amharicbookss](https://t.me/amharicbookss) or [GeezLibraryMembers](https://t.me/GeezLibraryMembers) - Amharic / Books
