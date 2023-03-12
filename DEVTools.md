@@ -285,6 +285,7 @@
 * [Balena](https://www.balena.io/) - Build / Manage  IoT Groups
 * [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty), [Awesome Bug Bounty Builder](https://github.com/0xJin/awesome-bugbounty-builder) or [Bug Bounty](https://github.com/sehno/Bug-bounty) - Bug Bounty Resources
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - CTF Resources
+* [Authorizer](https://github.com/authorizerdev/authorizer) - Developer Authentication App
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/), [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources), [Infosec Resources](https://github.com/stong/infosec-resources) or [Anon Security](https://t.me/anon_server) - Cybersecurity Resources
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [The White Circle](https://twc1rcle.com/) - Cybersecurity Community
@@ -701,6 +702,7 @@
 * ⭐ **[Awesome iOS](https://github.com/vsouza/awesome-ios)** - iOS App Development Resources
 * ⭐ **[Tizen](https://www.tizen.org/)** - Android TV App Creator
 * [SupaBase](https://supabase.com/), [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Dokku](https://dokku.com/), [AndroidIDE](https://androidide.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter), [2](https://github.com/leanflutter/awesome-flutter-desktop) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators
+* [StreamLit](https://streamlit.io/) - Data Science App Creator
 * [XDA](https://forum.xda-developers.com/) - App Development Forum
 * [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - App Development Platform / [GitHub](https://github.com/xamarin)
 * [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
@@ -1083,6 +1085,7 @@
 * [Telosys](http://www.telosys.org/) or [AIAC](https://github.com/gofireflyio/aiac) - Code Generators
 * [tuc](https://github.com/riquito/tuc) - Improved Code Cut
 * [snowbin](https://paste.bignutty.xyz/) / [2](https://paste.taskyy.cf/), [Mystb.in](https://mystb.in/) or [snippet.host](https://snippet.host/) - Code Pastebins
+* [0xacab](https://about.0xacab.org/) - Code Host
 * [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
 * [Autosaved](https://github.com/nikochiko/autosaved) - Autosave Code / [GitHub](https://github.com/tkellogg/dura)
 * [Tasuku](https://github.com/privatenumber/tasuku) - Node.js Task Runner
@@ -1206,7 +1209,7 @@
 * [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) or [JSONView](https://jsonview.com/) - JSON Viewer & Editor
 * [JMESPath](https://jmespath.org/) - Query Language for JSON / [Tutorial](https://jmespath.org/tutorial.html)
 * [zio-json](https://github.com/zio/zio-json) - JSON Library
-* [JSON Bin](https://jsonbin.io/) -JSON Host
+* [JSON Bin](https://jsonbin.io/) - JSON Host
 * [PlantText](https://www.planttext.com/) - UML Editor
 * [glogg](https://glogg.bonnefon.org/) - Log File Explorer
 * [Code::Stats](https://codestats.net/) - Programmer Stat Tracking
