@@ -1014,6 +1014,7 @@
 * [Internet Movie Cars Database](https://www.imcdb.org/) - Movie Vehicle Database
 * [TVTropes](https://tvtropes.org/) - TV Tropes Wiki
 * [MovieMap](http://www.themoviemap.com/), [Movie-Locations](http://www.movie-locations.com/), [MovieLoci](https://www.movieloci.com/), [AtlasOfWonders](https://www.atlasofwonders.com/), [WhereDidTheyFilmThat](http://www.wheredidtheyfilmthat.co.uk/), [British-Film-Locations](http://www.british-film-locations.com/) - Film Location Maps
+* [KoreanDramaLand](https://koreandramaland.com/) - Korean Drama Filming Location Map
 
 ***
 
