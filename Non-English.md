@@ -1594,6 +1594,7 @@
 * [jogos10](http://www.jogos10.com/) or [Minijuegos](https://www.minijuegos.com/) - Browser Games
 * [EmojiTool](https://emojitool.com/) - Emoji Database
 * [Catflix](https://www.championcat.cl/catflix/) - Cats!
+* [AIfindy](https://aifindy.com/) - AI Tools Index
 * [Aprender Gratis](https://aprendergratis.es/) - File Tools
 * [ElHacker](https://wiki.elhacker.net/) - Security Guides
 * [Diccionario RAE en un clic](https://chrome.google.com/webstore/detail/diccionario-rae-en-un-cli/gejdeepcjkfbepfkcfdgiodgoglakiii) - Dictionary Extension
