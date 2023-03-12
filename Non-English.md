@@ -1637,6 +1637,7 @@
 * [KillerROMs](https://roms-descargar.com/) - Emulators / ROMs
 * [Romsjuegos](https://romsjuegos.com/) - ROMs
 * [Roms en Español](https://romsespanol.com/) - ROMs
+* [RPGarchive](https://rpgarchive.net/) - ROMs
 * [BajarJuegosPCgratis](https://bajarjuegospcgratis.com/) - Games
 * [gamesgx](https://www.gamesgx.net/) - PS2 ROMs
 * [Zypeliculashd](https://zypeliculashd.net/) - Movies / TV / Anime
@@ -1787,11 +1788,14 @@
 * [Lectuepub](https://lectuepub2.com/) - Books
 * [LectuEpubGratis](https://lectuepubgratis2.com/) - Books
 * [MundoEpubGratis](https://mundoepubgratis2.com/) - Books
+* [libronube](https://www.libronube.com/) - Books
 * [DebeLeer](https://www.debeleer.com/) - Books
 * [Elejandría](https://www.elejandria.com/) - Books
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
 * [librosintinta](https://www.librosintinta.in/) - PDF Search
 * [FreeLibros](https://www.freelibros.net/) - Textbooks / Books / Audiobooks / Magazines / Courses / Documentaries
+* [El Solucionario](https://www.elsolucionario.org/) - Textbooks
+* [Libros de la Nube](https://librosdelanube.blogspot.com/) - Textbooks
 * [booksmedicos](https://booksmedicos.org/) - Medical Textbooks
 * [albalearning](https://albalearning.com/) - Audiobooks
 * [Audioteka](https://t.me/+S3ssdd7ny9oyM2M0) - Audiobooks
