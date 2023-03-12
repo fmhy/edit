@@ -588,8 +588,8 @@
 ## ▷ Downloading
 
 * [9xMovies](https://9xmovies.yoga/), [2](https://9xmovies.horse/) - Movies / TV 
-* [OlaMovies](https://olamovies.lol/) - Movies / TV / [Telegram](https://t.me/olamovies_official_v2) 
-* [MoviesMod](https://moviesmod.net/) - Movies / TV / [Telegram](https://t.me/moviesflixverse) 
+* [OlaMovies](https://olamovies.lol/) - Movies / TV / [Telegram](https://t.me/olamovies_official_v3) 
+* [MoviesMod](https://moviesmod.net/) - Movies / TV / [Telegram](https://telegram.dog/moviesmodcom) 
 * [MKV Mad](https://mkvmad.run/) - Movies / TV
 * [WorldFree4U](https://worldfree4u.wbog.net/) - Movies / TV
 * [1337xHD](https://1337xhd.shop/) - Movies / TV
@@ -598,7 +598,7 @@
 * [jsupload](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_jsupload) - Movies
 * [Movies Flix](https://hdmoviesflix.vin/) - Movies / NSFW
 * [Dudefilms](https://dudefilms.ink/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
-* [The Movies Flix](https://themoviesflix.ac/) - Movies / NSFW / [Telegram](https://t.me/themoviesflixcomco)
+* [The Movies Flix](https://themoviesflix.ac/) - Movies / NSFW / [Telegram](https://t.me/themoviezflixac)
 * [KatMovieHD](https://katmoviehd.rs/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [MKVHub](https://www.mkvhub.town/) - Movies / TV
 * [Full4Movies](https://www.full4movies.digital/) - Movies / TV / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
@@ -607,7 +607,7 @@
 * [MoviesJet](https://moviesjet.one/) - Movies / TV
 * [UncutHD](https://www.uncuthd.guru/) - Movies
 * [Foumovies](https://www.foumovies.pw/) - Movies
-* [PrMovies](https://prmovies.homes/) or [yomovies](https://yomovies.rs/) - Movies / TV / Anime / [Telegram](https://t.me/+VozFopt7yyE4Y2Fl)
+* [PrMovies](https://prmovies.homes/) or [yomovies](https://yomovies.rs/) - Movies / TV / Anime
 * [Bolly4u](https://bolly4u.onl/) - Movies
 * [9xflix](https://9xflix.skin/) - Movies
 * [Filmymeet](https://www40.filmymeet.co/) - Hindi Dub Movies / TV
