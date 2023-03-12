@@ -1625,7 +1625,8 @@
 * [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation
 * [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - Movies
 * [SomosMovies](https://somosmovies.com/) - Movies / TV
-* [Mega MKV](https://mega-mkv.com/) - Movies
+* [SeiresHD](https://serieslandia.com/), [2](https://seireshd.com/) - Movies / TV / Animation / [Telegram](https://t.me/joinchat/XOpQX51f2-tmOTBh)
+* [Mega1080](https://www.mega1080.com/) - Movies / Documentaries
 * [DLShared](https://dlshareds.blogspot.com/?m=1) - Movies / Music
 * [DescargasDD](https://descargasdd.org/) - Video / Audio / Software / Games / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
 * [mirandopeliculas](https://mirandopeliculas.com/) - Movies / TV
@@ -1644,7 +1645,6 @@
 * [Hispashare](https://www.hispashare.club/) - Movies / Classics / TV / Documentaries / ED2K Links
 * [Descargar videos de la tele](https://eljaviero.com/descargarvideosdelatele/) - TV
 * [Anime-ESP](https://anime-esp.com/) - Anime
-* [ddl.ice](https://ddl.ice-blue.workers.dev/0:/) - Anime
 * [Ninjin Anime](https://ninjinanime.com/) - Anime
 * [Animegafirex](https://www.animegafirex.com/) - Anime
 * [SphinxAnime](https://sphinxanime.com/) - Anime
@@ -1656,6 +1656,7 @@
 * [animesgd](https://animesgd.net/) - Anime / Cartoons
 * [N+2](https://nmasmas2.blogspot.com/) - Animated Movies / Cartoons
 * [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)
+* [Niroqui](https://niroqui.com/) - Courses
 * [Tododescargas](https://tododescargas.net/) - Software
 * [Artistapirata](https://www.artistapirata.com/) - Software
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/) - Software / Movies / TV
