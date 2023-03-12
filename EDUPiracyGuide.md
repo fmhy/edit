@@ -688,7 +688,6 @@ Simulator
 * [Interactive IPA Chart](https://www.ipachart.com/) - Learn Phonetic Alphabet Symbols
 * [Asian Script Differentiation Guide](https://i.imgur.com/yJPGS97.png) 
 * [Omniglot](https://omniglot.com/) - Writing System & Language Encyclopedia
-* [nimi mute](https://tp.lcp.su/nimi/) - Toki Pona Dictionary
 * [LexCity](http://lexicity.com/) - Ancient Language Learning Tools & Resources
 
 ***
