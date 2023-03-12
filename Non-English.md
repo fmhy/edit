@@ -1645,7 +1645,6 @@
 * [Hispashare](https://www.hispashare.club/) - Movies / Classics / TV / Documentaries / ED2K Links
 * [Descargar videos de la tele](https://eljaviero.com/descargarvideosdelatele/) - TV
 * [Anime-ESP](https://anime-esp.com/) - Anime
-* [ddl.ice](https://ddl.ice-blue.workers.dev/0:/) - Anime
 * [Ninjin Anime](https://ninjinanime.com/) - Anime
 * [Animegafirex](https://www.animegafirex.com/) - Anime
 * [SphinxAnime](https://sphinxanime.com/) - Anime
