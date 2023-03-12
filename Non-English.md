@@ -1626,6 +1626,7 @@
 * [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - Movies
 * [SomosMovies](https://somosmovies.com/) - Movies / TV
 * [Mega MKV](https://mega-mkv.com/) - Movies
+* [Mega1080](https://www.mega1080.com/) - Movies / Documentaries
 * [DLShared](https://dlshareds.blogspot.com/?m=1) - Movies / Music
 * [DescargasDD](https://descargasdd.org/) - Video / Audio / Software / Games / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
 * [mirandopeliculas](https://mirandopeliculas.com/) - Movies / TV
