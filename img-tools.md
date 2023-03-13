@@ -39,7 +39,7 @@
 * [VeoLuz](https://jaredforsyth.com/veoluz/) - Photon Path Art Tool
 * [PaintingLight](https://lllyasviel.github.io/PaintingLight/) - Digital Lighting Effect Generator
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn Simple Art into Photo Realistic Landscapes
-* [AI Gahaku](https://ai-art.tokyo/en/), [Dreamscope](https://dreamscopeapp.com/), [Painting by Numbers](https://painting-by-numbers.co/pages/create-your-own), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/), [InstaPainting](https://www.instapainting.com/assets/) or [Deep Dream Generator](https://deepdreamgenerator.com/) - Turn Photos into Artwork
+* [AI Gahaku](https://ai-art.tokyo/en/), [Painting by Numbers](https://painting-by-numbers.co/pages/create-your-own), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/), [InstaPainting](https://www.instapainting.com/assets/) or [Deep Dream Generator](https://deepdreamgenerator.com/) - Turn Photos into Artwork
 * [Pet AI](https://petai.art/) - Turn Pet Photos into Artwork
 * [Picmunge](https://picmunge.cvservant.com/) - Image Transformer
 * [Controlnet Pose](https://replicate.com/jagilley/controlnet-pose) - Modify Human Pose Position
