@@ -1700,6 +1700,7 @@
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
 * [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries
 * [PediaTorrent](https://pediatorrent.com/) - Movies / TV / Documentaries
+* [DiXvA](https://www.dixvto.com/), [2](https://www.dixva.com/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
 * [Cinecalidad](https://cinecalidad.one/) - Movies / TV
 * [VivaTorrents](https://www.vivatorrents.org/) - Movies / TV
 * [Frozen Layer](https://www.frozen-layer.com/) - Anime
