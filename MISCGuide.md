@@ -254,7 +254,6 @@
 * [Craftie](https://www.craftle.app/) - Furniture Price Calculator
 * [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
 * [DiaperGrid](https://diapergrid.com/) - Diaper Price Tracker
-* [WorldTaxiMeter](https://www.worldtaximeter.com/) - Taxi Fare Calculator
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
 * [Search Ebay Sold](https://chrome.google.com/webstore/detail/search-ebay-sold/mhlcjbhhieanjjafbcoeclghpnjhepif) - Ebay Sold Item Search
 * [Type Hound](https://typohound.com/) - Ebay Typo Search
@@ -758,7 +757,6 @@
 * [Food Network Recipes](https://www.foodnetwork.com/recipes) - Recipes
 * [CookBook](https://github.com/jlinder/cookbook) - Recipes 
 * [Wikibook Cookbooks](https://en.wikibooks.org/wiki/Category:Cookbook) - Recipes
-* [Culinary](http://www.culinary.net/) - Recipes
 * [Cookpad](https://cookpad.com/us) - Recipes
 * [FoodGeeks](https://foodgeeks.com/) - Recipes
 * [MyRecipeMagic](https://www.myrecipemagic.com/) - Recipes
@@ -1170,7 +1168,6 @@
 * [Text Color Fader](http://patorjk.com/text-color-fader) - Rainbow Text Generator
 * [Handwrite](https://github.com/cod-ed/handwrite) - Generate Font from Handwriting
 * [JoyPixels](https://www.joypixels.com/) - Emoji Font Generator
-* [MeeshDesigns](http://www.meeshdesigns.com/Western%20Fonts/) - Font Index 
 * [MacType](https://github.com/snowie2000/mactype/releases) - Use Mac fonts on Windows
 * [Picas](https://picas.vercel.app/) - Google Font Logo Generator
 * [Bitfontmaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitFont Creator
@@ -1317,7 +1314,6 @@
 * [Dollchan](https://dollchan.net/) - Imageboard Features
 * [XKit](https://github.com/new-xkit/XKit) - Make Tumblr More Usable
 * [Breeze Duo for KDE Plasma](https://github.com/vfrico/firefox-breeze-duo) - Breeze Theme for better KDE Integration 
-* [WhatRuns](https://www.whatruns.com/) - Discover what makes a site run 
 * [Tab Session Manager](https://tab-session-manager.sienori.com/) or [Session Buddy](https://sessionbuddy.com/) - Session Manager 
 * [User-Agent Switcher](https://mybrowseraddon.com/useragent-switcher.html) - Easily Switch User-Agent
 * [SimpleModifyHeaders](https://github.com/didierfred/SimpleModifyHeaders) - Modify Headers
