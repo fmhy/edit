@@ -236,7 +236,6 @@
 * [FreeAllCourse](https://freeallcourse.com/) - Courses
 * [TutorialsPlanet](https://tutorialsplanet.net/) - Courses
 * [FreeCoursesOnline](https://freecoursesonline.me/) - Courses
-* [UdemyTuts](https://udemytuts.com/) - Udemy Courses 
 * [Paid Courses for Free](https://paidcoursesforfree.com/) - Udemy Courses 
 * [Online Free Course](https://www.onlinefreecourse.net/) - Udemy Courses   
 * [Giga Course](https://gigacourse.com/) - Udemy Courses 
