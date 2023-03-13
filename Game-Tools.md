@@ -373,7 +373,6 @@
 * [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - Minecraft Server Info
 * [MCStalker](https://discord.gg/CB78nDfBeQ) - Minecraft Whitelist Enforcement Tool
 * [NameMC](https://namemc.com/) - Minecraft Name Availability Tracker
-* [GeyserConnect](https://www.geyserconnect.net/) - Connect Minecraft Bedrock to Java Servers
 * [2Bored2Wait](https://github.com/themoonisacheese/2bored2wait) - 2B2T Queue Proxy
 * [paper-optimization](https://eternity.community/index.php/paper-optimization/) or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Minecraft Server Optimization Guides
 * [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
