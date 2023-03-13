@@ -393,7 +393,6 @@
 * [StreamAnimeTV](https://streamanimetv.net/) - Sub / Dub / [Discord](https://discord.com/invite/C6Xy3Pm)
 * [AnimeFreak](https://www.animefreak.vip/) - Sub / Dub
 * [DubbedAnime](https://dubbedanime.biz/) - Sub / Dub
-* [WCO](https://www.wco.tv/)  - Anime / Cartoons / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wco_clones)
 * [Funimation](https://www.funimation.com/shows/free/) - Sub / Dub
 * [Anipy](https://github.com/sdaqo/anipy-cli) - Anime Streaming CLI
 * [Yuna](https://yuna.moe/) - Anime Streaming App / [GitHub](https://github.com/BeeeQueue/yuna)
@@ -409,7 +408,6 @@
 
 * ⭐ **[KimCartoon](https://kimcartoon.li/)**
 * ⭐ **[KissCartoon](https://kisscartoon.help/)**
-* ⭐ **[WCO](https://www.wco.tv/)**  - Anime / Cartoons / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wco_clones)
 * [TopCartoons](https://www.topcartoons.tv/)
 * [WatchCartoonOnline](https://watchcartoononline.bz/)
 * [KissCartoon.info](https://kisscartoon.info/) - Anime / Cartoons
