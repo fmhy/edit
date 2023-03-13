@@ -1677,9 +1677,9 @@
 * [MejorTorrent](https://www1.mejortorrent.rip/) - Movies / TV / Documentaries / [Telegram](https://t.me/s/MejorTorrentAp)
 * [MejorTorrent.se](https://mejortorrent.se/) - Video / Audio / Software / Games / [Telegram](https://t.me/s/mejortorrentcom)
 * [Grantorrent.fi](https://grantorrent.fi/), [2](https://grantorrent.ac/) - Movies / TV / [Telegram](https://t.me/s/grantorrent1)
-* [Elitetorrent](https://www.elitetorrent.wf/) - Movies / TV / Anime
 * [Grantorrent.wtf](https://grantorrent.wtf/) - Movies / TV / Documentaries
-* [Descargas](https://descargas2020.net/) - Movies / TV
+* [Elitetorrent](https://www.elitetorrent.wf/) - Movies / TV / Anime
+* [Descargas2020](https://descargas2020.net/) - Movies / TV
 * [DivxTotal](https://www.divxtotal.bz/) - Movies / TV / Software
 * [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries
 * [PediaTorrent](https://pediatorrent.com/) - Movies / TV / Documentaries
