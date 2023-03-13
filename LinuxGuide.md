@@ -114,7 +114,7 @@
 * [MacBuntu Transformation Pack](https://www.noobslab.com/2018/08/macbuntu-1804-transformation-pack-ready.html), [2](https://www.noobslab.com/2017/06/macbuntu-transformation-pack-ready-for.html) - Mac Theme
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme), [Moka](https://snwh.org/moka), [Numix](https://github.com/numixproject/numix-icon-theme) or [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Linux Icon Themes
 * [xScreensaver](https://www.jwz.org/xscreensaver/) - Linux Screensavers
-* [Ricepedia](https://rizonrice.club/Main_Page) or [ThatNixGuy Ricing](https://thatnixguy.github.io/posts/ricing/) - Linux Ricing Tools
+* [Ricepedia](https://rizonrice.club/Main_Page) - Linux Ricing Tools
 * [ricemood](https://github.com/fhadiel/ricemood) or [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
 * [Akira](https://github.com/akiraux/Akira) - UI/UX Customization
 * [Windows-10](https://github.com/B00merang-Project/Windows-10) - Linux Windows 10 Theme
