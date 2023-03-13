@@ -1204,7 +1204,7 @@ pass: paluch
 
 #### Malwarebytes Premium 
 
-`aHR0cHM6Ly9yZW50cnkuY28vbWFsd2FyZS1wcmVtIAoKaHR0cHM6Ly9yZW50cnkuY28vbWJ0cmlhbA==`
+`aHR0cHM6Ly9yZW50cnkuY28vbWFsd2FyZS1wcmVtIAoKaHR0cHM6Ly9yZW50cnkuY28vbWJmb3JldmVy`
 
 ***
 
