@@ -176,7 +176,7 @@
 * [CDRomance](https://cdromance.com/) - ROMs
 * [NGR](https://www.nextgenroms.com/) - ROMs
 * [LoveROMs](https://www.loveROMs.online/) - ROMs
-* [PSXForever](https://psxforever.com/), [2](https://pspgamesland.com/), [3](https://gameboxadvance.com/), [4](https://legendsROMs.com/), [5](https://worldcia3ds.com/), [6](https://akamigames.net/), [7](https://fullgamesnx.com/) - ROMs
+* [pspgamesland](https://pspgamesland.com/), [2](https://akamigames.net/)- ROMs
 * [FantasyAnime](https://fantasyanime.com/) - ROMs
 * [NesGM](https://nesgm.net/) - ROMs / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [ROM World](http://www.romworldonline.com/) - ROMs / [How-to](https://i.imgur.com/Mqab82O.png)
