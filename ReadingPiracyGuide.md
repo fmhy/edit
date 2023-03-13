@@ -33,7 +33,6 @@
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks) 
 * [Golden Audiobooks](https://goldenaudiobooks.com/)
 * [LoudLit](http://loudlit.org/) 
-* [celz](https://celz.ru/)
 * [Read For Me](https://www.readsforme.com/) 
 * [DigitalBook](https://www.digitalbook.io/) 
 * [Librivox](https://librivox.org/)  
@@ -663,7 +662,6 @@
 * [DBpedia](https://www.dbpedia.org/) - Datasets 
 * [mdpi](https://www.mdpi.com/) - Articles 
 * [longdom](https://www.longdom.org/) - Articles
-* [Scholarpedia](http://www.scholarpedia.org/) - Articles
 * [DOAJ](https://www.doaj.org/) - Journals / Articles
 * [Typewriter](https://tetw.org/) - Educational Articles & Essays The Electric
 * [Docracy](https://www.docracy.com/ ) - Legal Documents
