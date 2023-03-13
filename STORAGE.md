@@ -3,7 +3,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/x241nsd.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/RF0ZxTc.png)** - For mobile users
 
 ***
 
@@ -3323,18 +3323,6 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 * [Dynamic Wallpaper](https://play.google.com/store/apps/details?id=rk.android.app.dynamic.wallpaper) - Wallpapers that Change Based on Battery
 * [koncius](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Android Video to Wallpaper
 * [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - iOS Wallpaper App
-
-***
-
-#### WCO Clones
-
-* https://www.thewatchcartoononline.tv/
-* https://www.wcostream.com/
-* https://www.wcoforever.com/
-* https://www.wcoanimesub.tv/
-* https://www.wcoanimedub.tv/
-* https://www.wcofun.net/
-* https://www.wcoforever.net/ 
 
 *** 
 
