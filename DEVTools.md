@@ -511,7 +511,6 @@
 * [Lorem.space](https://lorem.space/), [Placeholdifier](https://github.com/pomber/placeholdifier), [PlaceHolder](https://placeholder.pics/), [PicSum](https://picsum.photos/) or [FakeIMG](https://fakeimg.pl/) - Site Placeholder Images
 * [MinimalAvatars](https://minimalavatars.com/) - Minimal Site Avatars
 * [GalleryProject](http://galleryproject.org/) - Manage / Host Photos on Website 
-* [PublishThisEmail](https://www.publishthis.email/) - Email Based Website Builder
 * [PrivateDaddy](https://www.privatedaddy.com/) - Auto Hide Email Address'
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - Mobile Friendly Page Test
 * [epub.js](https://github.com/futurepress/epub.js) - Render ePub Documents in Browser
