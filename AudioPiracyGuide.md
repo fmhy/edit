@@ -143,7 +143,7 @@
 * [Pool Suite](https://poolsuite.net/) - Summer Radio
 * [LISTEN.moe](https://listen.moe/)  - K-Pop Radio / [Client](https://github.com/LISTEN-moe/windows-app)
 * [BakaRadio](https://www.bakaradio.net/app-bakaradio-player/) - Anime Radio
-* [Rainwave](https://rainwave.cc/), [Squid Radio](https://www.squid-radio.net/), [RPGGamers Radio](http://www.rpgamers.net/radio/), [VGMRadio](https://vgmradio.com/), [VGM](https://vgm.mmosvc.com/) or [Sitting On Clouds Radio](https://www.sittingonclouds.ru/) - Video Game Music Radio
+* [Rainwave](https://rainwave.cc/), [Squid Radio](https://www.squid-radio.net/), [RPGGamers Radio](http://www.rpgamers.net/radio/), [VGMRadio](https://vgmradio.com/) or [VGM](https://vgm.mmosvc.com/) - Video Game Music Radio
 * [Nectarine](https://www.scenestream.net/demovibes/streams/) - Demo Scene Music Radio
 * [Yesterweb Live Radio](https://yesterweb.org/radio) - Independent Music Radio
 * [Radio Garden](https://radio.garden/) - Worldwide Radio
