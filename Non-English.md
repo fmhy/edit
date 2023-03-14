@@ -57,6 +57,7 @@
 * [ShahidToday](https://o.shahid2day.com/) - Movies / TV
 * [mycima](https://mycima.link/) - Movies / TV / Anime
 * [Shafilm](https://shafilm.vip/) - Movies / TV / Anime / Cartoons
+* [Wecima](https://wecima.tube/) - Movies / TV / Anime / Cartoons / Wrestling
 * [cima-club](https://cima-club.cam/) - TV / Anime
 * [eshiq](https://eshiq.net/), [2](https://3sk.tv/) - Turkish TV
 * [asia2tv](https://asia2tv.cn/) - Asian Drama
@@ -378,6 +379,7 @@
 * [BonPatron](https://bonpatron.com/) - Spelling and Grammar Check
 * [GoTo10](https://www.goto10.fr/) - BBS and Minitel Archives
 * [DropReference](https://dropreference.com/) - PC Building Site
+* [TrustScam](https://trustscam.fr/) - Website Security Analysis
 
 ## ▷ Downloading
 
@@ -443,16 +445,16 @@
 ## ▷ Reading
 
 * [BookDDL](http://www.bookddl.com/) - Books / Magazines / Newspapers / Audiobooks
-* [french-bookys](https://french-bookys.org/) - Books / Magazines
 * [1001ebooks](https://go.1001ebooks.com/accueil/) - Books 
 * [pdf-ebookys](https://www.pdf-ebookys.com/) - Books / Magazines 
 * [1001Ebooks](https://1001ebooks.club/) - Books
-* [bookys](https://ww2.bookys-ebooks.com/) - Books
+* [Bookys](https://ww8.bookys-ebooks.com/) - Books / Comics / Magazines / Newspapers / NSFW
 * [1001ebooks](https://pdf.1001ebooks.com/) - Books
 * [Planet-DB](https://planete-bd.org/) - Comics / Manga
 * [Audiocite](https://www.audiocite.net/) - Audiobooks 
 * [zone-ebook.com](https://zone-ebook.com/) - Magazines / Newspapers / Books / Audiobooks / Comics   
 * [nooSFere](https://www.noosfere.org/) - Science Fiction
+* [Rigines](https://mangas-origines.fr/) - Manga / Manhwa / Manhua / NSFW
 * [japscan](https://www.japscan.ws/) - Manga
 * [scantrad](https://scantrad.net/) - Manga 
 * [scan-fr](https://www.scan-fr.cc/) - Manga
@@ -473,6 +475,7 @@
 * [xrel](https://www.xrel.to/) - Scene Release & P2P Tracker
 * [Boerse](https://boerse.am/) - German Data Sharing Discussion Forum
 * [mediathekviewweb](https://mediathekviewweb.de/) - Hacker News
+* [TrustScam](https://trustscam.de/) - Website Security Analysis
 
 ## ▷ Downloading 
 
@@ -484,7 +487,7 @@
 * [Goldesel](https://goldesel.to/) - Video / Audio / Software / Games / Android / NSFW
 * [byte.to](https://byte.to/) - Video / Audio / Software / Android / Books / NSFW
 * [ngb](https://ngb.to/) - Video / Software / Audio / Books / Android
-* [warez.to](https://warez.to/) - Movies / TV / Games / Software / NSFW
+* [Warez-World](https://warez-world.org/) - Video / Audio / Games / Books / Magazines / NSFW
 * [hd-source](https://hd-source.to/) - Video / NSFW
 * [MLCBoard](https://mlcboard.com/) - Movies
 * [Nima4k](https://nima4k.org/) - Movies / TV / Documentaries / Music
@@ -510,7 +513,7 @@
 * [kinoking](https://kinoking.cc/) - Movies / TV / Anime
 * [serienstream](https://serienstream.io/) - TV / Anime
 * [Megakino](https://megakino.to/) - Movies / TV
-* [BS.TO](https://www.bs.to/) - TV / Anime
+* [BS.TO](https://www.bs.to/), [2](https://burningseries.tw/) - TV / Anime / Cartoons
 * [StreamCloud](https://www1.streamcloud.info/), [2](https://streamcloud.cx/) - Movies / TV
 * [BioskopKaca21](https://62.171.161.107/) - Movies / TV
 * [Kinos](https://www.kinos.to/), [2](https://www.kino.ws/) - Movies / TV
@@ -726,6 +729,7 @@
 * [anoBoy](https://anoboy.lol/) - Anime
 * [kuramanime](https://kuramanime.com/) - Anime
 * [Akashinime](https://akashinime.pro/) - Anime
+* [ANIsub](https://anisubid.me/) - Anime
 
 ## ▷ Reading
 
@@ -1605,6 +1609,7 @@
 * [GermanDeutsch](https://t.me/GermanDeutsch) - Learn German
 * [Bliscop](https://www.bliscop.com/) - Online Payment Software
 * [El Museo de los 8 bits](http://www.museo8bits.es/) / [2](https://museo8bits.com/) - History of Computing
+* [TrustScam](https://trustscam.es/) - Website Security Analysis
 
 ## ▷ Downloading
 
