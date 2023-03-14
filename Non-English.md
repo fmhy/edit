@@ -218,6 +218,7 @@
 * [VGMUpdate](http://www.vgmupdate.com/) - Video / Games / Manga / NSFW
 * [XiaZai001](https://www.xiazai001.com/) - Video / Audio / Software
 * [dytt8](https://dytt8.net/), [dy2018](https://dy2018.com/), [ygdy8](https://ygdy8.com/index.html) or [dydytt](https://www.dydytt.net) - Movies / TV / Anime
+* [GBTGame](http://gbtgame.ysepan.com/dlzy.aspx?ym=0&dlmc=gbtgame&url=http://gbtgame.ysepan.com/default.aspx) - Games
 * [ygdy8](https://www.ygdy8.net/) - Movies / TV / Anime 
 * [Mini4k](https://www.mini4k.com/) - Movies / TV
 * [DoMP4](https://www.domp4.cc/) - Movies / TV
@@ -287,6 +288,7 @@
 * [linovelib](https://www.linovelib.com/) - Light-Novels
 * [lightnovel.us](https://www.lightnovel.us/) - Light-Novels
 * [txt900](https://www.txt990.org/) - Light-Novels
+* [Zongheng](https://www.zongheng.com/) - Light-Novels
 * [Baozimh](https://www.baozimh.com/) - Webtoons
 * [Doujin Fiction Network](https://www.trxs.org/) or [Readfine](https://t.me/Readfine) / [Discussion](https://t.me/ReadfineChat) - FanFiction
 * [ishare.iask](https://ishare.iask.sina.com.cn/) - Documents
@@ -380,6 +382,7 @@
 * [GoTo10](https://www.goto10.fr/) - BBS and Minitel Archives
 * [DropReference](https://dropreference.com/) - PC Building Site
 * [TrustScam](https://trustscam.fr/) - Website Security Analysis
+* [RedacBox](https://www.redacbox.fr/) - News / Guides for Writers and Entrepreneurs
 
 ## ▷ Downloading
 
@@ -394,7 +397,7 @@
 * [DBFree](http://dbfree.me/) - Books
 * [FRDownMags](https://fr.downmagaz.net/) - Magazines
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
-* [GameTronik](http://www.gametronik.com/site/index.php) - Abandonware / Emulators
+* [GameTronik](https://www.gametronik.com/site/index.php) - Abandonware / Emulators
 * [Emurom](https://www.emurom.net/) - Emulators / ROMs
 * [TousLeDrivers](https://www.touslesdrivers.com/) - Drivers
 
@@ -489,6 +492,7 @@
 * [ngb](https://ngb.to/) - Video / Software / Audio / Books / Android
 * [Warez-World](https://warez-world.org/) - Video / Audio / Games / Books / Magazines / NSFW
 * [hd-source](https://hd-source.to/) - Video / NSFW
+* [DDL-Deaf](https://ddl-deaf.info/) - Movies / NSFW
 * [MLCBoard](https://mlcboard.com/) - Movies
 * [Nima4k](https://nima4k.org/) - Movies / TV / Documentaries / Music
 * [German Telegram Movie Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_german_telegram_movie_downloads) - Movies
@@ -648,7 +652,6 @@
 * [desicinemas](https://desicinemas.tv/) - Movies / TV
 * [moviemora](https://111.90.159.132/) - Movies / TV
 * [hdmovie2](https://hdmovie2.rent/) - Movies
-* [hindimoviestv](https://www.hindimoviestv.com/) - Movies
 * [Desi Serials](https://www.desiserials.tv/) - Movies / TV / Live
 * [HindiLinks4u](https://hindilinks4u.io/) - Movies / TV
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies
@@ -657,6 +660,7 @@
 * [cinemakick](https://www.cinemakick.com/) - Movies
 * [movieapne](https://movieapne.co) - Movies
 * [MoviesCounter](https://moviescounter.boats/) - Movies
+* [HindiMovie](https://m.vk.com/hindimovie) - Movies
 * [serialbaba](https://serialbaba.co/) - TV
 * [DesiTVBox](https://www.desitellybox.me/) - TV
 * [SerialGhar](https://serialghar.net/), [2](https://serialghar.me/) - TV
@@ -880,6 +884,7 @@
 * [welovemanga](https://welovemanga.one/) - Manga
 * [manga1000](https://manga1000.top/) - Manga
 * [mangaraw](https://mangaraw.lol/) - Manga
+* [Manga-1001](https://manga1001.vip/) - Manga
 * [shobonnexus](https://shobonnexus.com/) - Novels / Magazines  
 * [watanoc](http://watanoc.com/), [yourei](https://yourei.jp/), [n-lab](http://www.n-lab.org/library/mondai/) or [国語文法](http://xn--vcs415akpfnn7a.com/) - Learn / Practice Japanese 
 * [kakijun](https://kakijun.jp/) - Learn Japanese Writing
@@ -991,6 +996,7 @@
 * [ZarFilm](https://zarfilm.com/) - Movies / TV
 * [SalamDL](https://salamdl.me/) - Movies / TV
 * [AvaMovie](http://avamovie.in/) - Movies / TV
+* [Film2Media](https://www.f2m.top/) - Movies / TV
 * [iranianfilmarch](https://t.me/iranianfilmarch) - Movies / Telegram
 * [9movie](https://9movie.cloud/) - Movies / TV / Anime / Iranian VPN Needed
 * [alefmovie](https://alefmovie.website/) - Movies / TV / Iranian VPN Needed
@@ -1438,7 +1444,8 @@
 * [Tancpol](https://tancpol.net/) - MP3
 * [z2.fm](https://z2.fm/) - MP3
 * [kinosoundtrack](https://www.kinosoundtrack.com/) - MP3
-* [Shazam Music](https://t.me/shazam_music_uz) - MP3 
+* [Shazam Music](https://t.me/shazam_music_uz) - MP3
+* [Musify](https://musify.club/) - MP3
 * [MetalArea](https://metalarea.org/) - Metal / MP3  
 * [MDCORE](https://vk.com/mdcore) - Metal / MP3
 * [MDROCK](https://vk.com/mdrock) - Rock / MP3
@@ -1856,6 +1863,7 @@
 
 * [doomovie-hd](https://www.doomovie-hd.com/) - Movies / TV
 * [moviehdfree]( https://moviehdfree.net/) - Movies / TV
+* [ThaiMovies&Shows](https://m.vk.com/thaimovies) - Movies / TV
 * [037hdmovie](https://www.037hdmovie.com/) - Movies
 * [movie11](https://movie11.com/) - Movies
 
@@ -2114,6 +2122,7 @@
 * [MLWBD](https://mlwbd.autos/) - Download / Movies / TV / Anime
 * [DesireMovies](https://desiremovies.network/) - Download / Movies / TV
 * [DotMovies](https://dotmovies.cam/) - Download / Movies / TV / Cartoons
+* [FullyMaza](https://fullymaza.life/) - Download / Movies / TV / Cartoons
 * [CineVood](https://cinevood.homes/) - Download / Movies
 * [Mallumv](https://mallumv.run/), [2](https://tttttt.me/mallumvoff) - Download / Movies
 * [Movies Point](https://sdmoviespoint.fit/) - Download / Movies
