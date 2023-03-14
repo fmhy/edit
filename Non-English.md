@@ -1676,20 +1676,20 @@
 * [DonTorrent](https://dontorrent.cloud/), [2](https://donproxies.com/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
 * [MejorTorrent](https://www1.mejortorrent.rip/) - Movies / TV / Documentaries / [Telegram](https://t.me/s/MejorTorrentAp)
 * [MejorTorrent.se](https://mejortorrent.se/) - Video / Audio / Software / Games / [Telegram](https://t.me/s/mejortorrentcom)
-* [Elitetorrent](https://www.elitetorrent.wf/) - Movies / TV / Anime
-* [Zonatorrent](https://zonatorrent.in/) - Movies / TV
-* [Grantorrent.wtf](https://grantorrent.wtf/) - Movies / TV / Documentaries
 * [Grantorrent.fi](https://grantorrent.fi/), [2](https://grantorrent.ac/) - Movies / TV / [Telegram](https://t.me/s/grantorrent1)
-* [PasateaTorrent](https://pasateatorrent.org/) - Movies / TV
-* [Descargas](https://descargas2020.net/) - Movies / TV
+* [Grantorrent.wtf](https://grantorrent.wtf/) - Movies / TV / Documentaries
+* [Elitetorrent](https://www.elitetorrent.wf/) - Movies / TV / Anime
+* [Descargas2020](https://descargas2020.net/) - Movies / TV
 * [DivxTotal](https://www.divxtotal.bz/) - Movies / TV / Software
-* [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
 * [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries
 * [PediaTorrent](https://pediatorrent.com/) - Movies / TV / Documentaries
+* [VivaTorrents](https://www.vivatorrents.org/) - Movies / TV
+* [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
+* [Zonatorrent](https://zonatorrent.in/) - Movies / TV
+* [PasateaTorrent](https://pasateatorrent.org/) - Movies / TV
+* [Cinecalidad](https://cinecalidad.one/) - Movies / TV
 * [SomosTorrent](https://somostorrent.com/) - Movies / TV / [Telegram](https://t.me/s/pelistorrentoficial)
 * [DiXvA](https://www.dixvto.com/), [2](https://www.dixva.com/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
-* [Cinecalidad](https://cinecalidad.one/) - Movies / TV
-* [VivaTorrents](https://www.vivatorrents.org/) - Movies / TV
 * [Frozen Layer](https://www.frozen-layer.com/) - Anime
 * [unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
