@@ -793,7 +793,6 @@
 * [Anime Senpai4U](https://www.animesenpai4u.com/) - Sub / Dub
 * [Anime Flix](https://animeflix.org.in/) - Sub / Dub / [Telegram](https://t.me/moviesflixnet)
 * [IndiAnime](https://indianime.com/) - Sub / Dub
-* [Anipakku](https://anipakku.blogspot.com/) - Sub / Dub / [Discord](https://discord.com/invite/ekwtwjwHey)
 * [anime7.download](http://anime7.download/) - Sub
 * [37.187.6.206](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_37.187.6.206) - Sub
 * [176.36.86.211](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_176.36.86.211) - Sub / Dub
