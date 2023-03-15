@@ -196,6 +196,7 @@
 * [Ebook PDF](https://ebookpdf.com/) - Books
 * [KuPDF](https://kupdf.net/) - Books
 * [ePDF](https://epdf.pub/) - Books
+* [PDFCoffee](https://pdfcoffee.com) - Books
 * [Moam](https://moam.info/) - Books
 * [PDFCookie](https://pdfcookie.com/) - Books
 * [PDFSearches](https://pdfsearches.com/) - Books
