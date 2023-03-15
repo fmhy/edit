@@ -465,7 +465,6 @@
 * [scan-fr](https://www.scan-fr.cc/) - Manga
 * [mangascan](https://mangascan.cc/), [2](https://scansmangas.xyz/), [3](https://scanmanga-vf.cc/) - Manga
 * [mangadraft](https://www.mangadraft.com/) - Manga
-* [flamescans](https://flamescans.fr/) - Manga
 * [raijinscans](https://raijinscans.com/) - Manga
 * [sushiscan](https://sushiscan.su/) - Manga
 * [mangacollec](https://www.mangacollec.com/) - Manga Manager
@@ -972,7 +971,6 @@
 
 * [Wudooh](https://wudooh.app/) - Make Persian Text Clearer
 * [Awesome AI channels](https://github.com/AminTaheri23/Awesome-AI-telegram-gp-and-channel) - Persian Telegram Bot Index 
-* [iranzirnevis](https://iranzirnevis.com/) - Subtitles
 * [Free VPN Telegram Channels](https://bin.disroot.org/?85b66e37980b245e#DRbHouuNMfXGRdqPs68y6nGLULhHdvdXzuPdDmBxsyi2) - Free VPN / Telegram
 * [Targoman](http://targoman.ir/) - Translator / [GitHub](https://github.com/targoman)
 * [Wiki Censorship](https://wikicensorship.github.io/) - Internet Censorship Encyclopedia
@@ -1525,7 +1523,6 @@
 * [kinoflux.org](https://kinoflux.org/) - Movies / TV
 * [CCCP Film](https://cccp-film.ru/ ) - Movies / TV
 * [Telik](http://telik.live/) - TV
-* [Kino-Dom](http://kino-dom.org/) - TV
 * [bigserial.net](http://bigserial.net/) - TV
 * [AniLabX](https://github.com/CrazyXacker/anilabx) - Anime / Cartoons / Drama
 * [Shiza Project](https://shiza-project.com/) - Anime
@@ -1750,7 +1747,6 @@
 * [DocumaniaTV](https://www.documaniatv.com/) - Documentaries
 * [Area Documental](https://www.area-documental.com/) - Documentaries
 * [novelas360](https://novelas360.com/) - TV
-* [HindiLover](https://hindilover.biz/) - TV
 * [Vix](https://www.vix.com/tv/) - TV
 * [Dilo](https://www.dilo.nu/) - TV / Anime
 * [asialiveaction](https://asialiveaction.com/) - Asian Drama
@@ -2068,7 +2064,6 @@
 * [HPlus](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV Show
 * [THVL](https://www.thvli.vn/), - Live TV / TV Show
 * [VTC](https://portal.vtc.gov.vn/live), - Live TV
-* [ChiaSeNhac](https://chiasenhac.vn/) - Music
 * [ZingMP3](https://zingmp3.vn/) - Music
 * [NhacCuaTui](https://www.nhaccuatui.com/) - Music
 * [Muvi](https://muvi.vn/) - Music
