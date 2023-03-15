@@ -16,7 +16,8 @@
 * ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Courses / [Infinite Trial](https://pastebin.com/aJ4v55ae)
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive [Archive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_freecodechamp_archive) / [GitHub](https://github.com/freeCodeCamp/freeCodeCamp)
 * ⭐ **[Programming / Coding Tutorials](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_coding_tutorials)**
-*  ⭐ **[Free Courses by Xemu](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_free_courses_by_xemu)** - Programming Course Drives
+* ⭐ **[Free Courses by Xemu](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_free_courses_by_xemu)** - Programming Course Drives
+* ⭐ **[Phind](https://www.phind.com/)** - Developer Q&A AI
 * ⭐ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - Read / Download Programming Books
 * [GitHub Docs](https://docs.github.com/en) - GitHub Help Documentation
 * [Git Tutorial](https://4geeksacademy.github.io/git-interactive-tutorial/) - Interactive Git Tutorial
@@ -188,7 +189,7 @@
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Collection of Project-Based Tutorials
 * [Mobile Design Resources](https://github.com/joeygoksu/mobile-design-resources) - App Design Learning Resources
 * [CocoaDevCentral](http://cocoadevcentral.com/) - Legacy OS X / Cocoa Programming Tutorials
-* [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn Swift and build iOS App Building
+* [Swift Playgrounds](https://developer.apple.com/tutorials/swiftui) - Learn Swift UI / [Samples](https://developer.apple.com/tutorials/sample-apps)
 * [SwiftDump](https://github.com/neil-wu/SwiftDump) - Retrieve Swift Object info from Mach-O file
 * [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git Branching Guide
 * [Awesome Microservices DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - .Net Microservice Guides
@@ -349,6 +350,7 @@
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep Learning Optimization Library
 * [Netron](https://github.com/lutzroeder/netron) -  Visualizer for Neural Network, Deep Learning, and Machine Learning Models 
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
+* [OS Dev](https://wiki.osdev.org/) - Operation System Development Wiki
 * [devSwag](https://devswag.io/) - Developer Giveaways
 
 ***
@@ -558,7 +560,7 @@
 * [http-server](https://github.com/http-party/http-server) - No Config HTTP Server
 * [Apache](https://httpd.apache.org/) - HTTP Server
 * [h5ai](https://larsjung.de/h5ai/) - HTTP Web Server Index / [GitHub](https://github.com/lrsjng/h5ai)
-* [SyAgent](https://syagent.com/), [TA Vivo](https://github.com/ta-vivo/ta-vivo) or [HertzBeat](https://hertzbeat.com/en/) - Server Monitors
+* [SyAgent](https://syagent.com/), [TA Vivo](https://github.com/ta-vivo/ta-vivo) or [HertzBeat](https://hertzbeat.com/) - Server Monitors
 * [Lepton](https://hackjutsu.com/Lepton/) - Code Snippet Manager / [GitHub](https://github.com/hackjutsu/Lepton)
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - Captcha Systems
 * [Democaptcha](http://democaptcha.com/demo-form-eng/hcaptcha.html) or [ReCAPTCHA Demo](https://www.google.com/recaptcha/api2/demo) / [GitHub](https://patrickhlauke.github.io/recaptcha/) - Captcha Demo's
@@ -649,7 +651,7 @@
 
 ## ▷ Software Development
 
-* [Electron](https://www.electronjs.org/), [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [PowerPage](https://github.com/casualwriter/powerpage), [Flet](https://flet.dev/) or [Tauri](https://tauri.studio/) / [Resources](https://github.com/tauri-apps/awesome-tauri) - Desktop App Builders
+* [Electron](https://www.electronjs.org/), [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [PowerPage](https://github.com/casualwriter/powerpage), [Flet](https://flet.dev/), [Felvin](https://www.felvin.com/) or [Tauri](https://tauri.studio/) / [Resources](https://github.com/tauri-apps/awesome-tauri) - Desktop App Builders
 * Electron Tools - [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://www.electronjs.org/apps/) / [Debugger](https://github.com/bytedance/debugtron) / [Mod Loader](https://kernel.fish/) / [Builder](https://www.electron.build/)
 * [Budibase](https://budibase.com/), [ToolJet](https://tooljet.com/), [retool](https://retool.com/) or [AppSmith](https://github.com/appsmithorg/appsmith) - Internal Tool Builders
 * [raylib technologie](https://raylibtech.itch.io/), [bookmarks](https://github.com/MorganGeek/bookmarks) or [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - Software Development Tools
