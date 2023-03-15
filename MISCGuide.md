@@ -22,7 +22,7 @@
 * ⭐ **[Esoterica Avenue](https://ori5000.github.io/)** - Piracy Index / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * ⭐ **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR)** - Site / Tool Index
 * ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** or [/r/Stumbledon](https://www.reddit.com/r/Stumbledon/) - Helpful / Fun Sites
-* ⭐ **[Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)**, [2](https://github.com/Shakil-Shahadat/awesome-piracy), [3](https://archive.is/Z1tTr), [4](https://rentry.org/verycompletelistofpiratesites), [5](https://github.com/Tosoju/awesome-piracy) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
+* ⭐ **[Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)**, [2](https://github.com/Igglybuff/awesome-piracy), [3](https://archive.is/Z1tTr), [4](https://rentry.org/verycompletelistofpiratesites), [5](https://github.com/Tosoju/awesome-piracy) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
 * ⭐ **[WebOas.is](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) - Startpage / Site Index / [Source Code](https://pastebin.com/CczqreS4) / [Archive](https://rentry.co/e9y6b) / [FAQ](https://bin.disroot.org/?6a50fab15330b762#7VwnxM9Jsvp8wWmW6eFmmxyXppWVjErn4CMgd8wii9pC)
 * ⭐ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
 * ⭐ **[AI Tool Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ai_tool_indexes)** - Artificial Intelligence Tools
@@ -100,7 +100,8 @@
 * [UKWA](https://www.webarchive.org.uk/ukwa/) - UK Site Archive
 * [The Hive Index](https://thehiveindex.com/) - Online Communities Index
 * [NetSplit](https://netsplit.de/) - IRC Channel Index
-* [Cyberlife](https://cyberpunk-life.neocities.org/) - Cyberpunk-Related Content / Sites Index 
+* [Cyberlife](https://cyberpunk-life.neocities.org/) - Cyberpunk-Related Content / Sites Index
+* [Off-Grid](https://off-grid.net/links-directory/) - Off Grid Site Index
 * [sourcehut](https://sr.ht/) - Public Project Index
 * [PiracyBank](https://piracybank.org/websites) - List of sites tagged for copyright, mostly dead 
 * [Creamy's Homemade List](https://docs.google.com/document/d/1t10VI-sccy1CfAeMZHwmCS_7agIHFo_B5ipMjzsMtTg/edit) / [2](https://web.archive.org/web/20191130224152/https://pastebin.com/3e2RddP5), [ImageBoards](https://imageboards.net/), [Chan List](https://archive.is/Npzwl) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - Imageboard Index
@@ -225,6 +226,7 @@
 * [Shucks](https://shucks.top/) - External Drive Price Tracker
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - Mouse Click Latency Chart
 * [Chipscribe](https://chipscribe.com/) - Split Service Subscription Costs Anonymously
+* [ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/) or [Didn't Know I Wanted That](https://www.didntknowiwantedthat.com/) - Gift Ideas
 * [Giftasic](https://giftastic.ai/) - Gift Idea AI
 * [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones / Prices
 * [DXOMARK](https://www.dxomark.com/) - Smartphone Quality Testing
@@ -233,7 +235,7 @@
 * [PSU Tier List](https://cultists.network/140/psu-tier-list/) - PSU Buying Guide
 * [Sensor.fyi](https://sensor.fyi/info/) or [/r/MouseReview Wiki](https://www.reddit.com/r/MouseReview/wiki/index/) - Mouse Buying Guides
 * [PC Monitors](https://pcmonitors.info/), [Monitor Spreadsheet](https://docs.google.com/spreadsheets/d/1wBV0U3a1XuP1yFLvs_Ald3FE1y45bVxtS2zBXixsGLs/) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
-* [Car.com](https://www.cars.com/research/compare/ ), [Vehicle Rankings](https://cars.usnews.com/cars-trucks/rankings), [Motor1](https://www.motor1.com/reviews/) or [Edmunds](https://www.edmunds.com/car-reviews/) - Vehicle Reviews / Comparisons
+* [Cars.com](https://www.cars.com/research/compare/ ), [Vehicle Rankings](https://cars.usnews.com/cars-trucks/rankings), [Motor1](https://www.motor1.com/reviews/) or [Edmunds](https://www.edmunds.com/car-reviews/) - Vehicle Reviews / Comparisons
 * [carsized](https://www.carsized.com/) - Vehicle Size Comparisons
 * [CamelCamelCamel](https://camelcamelcamel.com/) or [Keepa](https://keepa.com/) - Amazon Price Tracker / [App](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno)
 * [Randomicle](https://randomicle.com/) - Random Amazon Products
@@ -445,7 +447,7 @@
 * [Wikiverse](http://wikiverse.io/) - 3D Wiki Visualizer
 * [DeletedCity](http://deletedcity.net/) - Geocities Visualizer 
 * [Judgey](http://playjudgey.com/) - Judge A Book By Its Cover 
-* [Didn't Know I Wanted That](https://www.didntknowiwantedthat.com/) - Things you didn't know you wanted
+* [TheRPF](https://www.therpf.com/forums/) - Movie Costume / Prop Forum
 * [Paper Plotter](https://felixboiii.github.io/paper-plotter/) - Create 3D plots out of paper 
 * [Instructables](https://www.instructables.com/) - Free Projects / Crafts 
 * [Toys from Trash](http://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys 
@@ -646,10 +648,6 @@
 * [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index) - News Site Indexes 
 * [Google Alerts](https://www.google.com/alerts) - News Alerts by Topics
 * [Slower News](https://www.slowernews.com/) - Breaking News
-* [RIPE](https://www.ripe.net/publications/news/latest-news) - News
-* [ICANN](https://www.icann.org/) - News
-* [TheConversation](https://theconversation.com/) - News
-* [Reuters](https://www.reuters.com/) - News
 * [Good News Network](https://www.goodnewsnetwork.org/) - Uplifting News
 * [Health News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_health_news) - Health News
 * [Top Stories](https://murmel.social/top) - Top Twitter News  
@@ -730,6 +728,7 @@
 * [Glorious Recipes](https://ck.booru.org/) - Vertical Image Recipes
 * [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - Food Image to Recipe Tool
 * [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
+* [PakistAnatlas](https://pakistanatlas.com/) - Pakistani Traditional Food Map
 * [Cooking YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cooking_youtube_channels)
 * [GrowStuff](https://www.growstuff.org/) - Food Growing Info / Tools
 * [Awesome Food](https://github.com/jzarca01/awesome-food) - Cooking Tools Index
@@ -836,6 +835,7 @@
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
 * [BreakFree](https://breakfree-2c089.web.app/) - Break Smoking Habits
 * [ZeroPercent](https://zeropercent.club/) - Break Drinking Habits
+* [Sobriety](https://github.com/KiARC/Sobriety) - Sobriety Tracker
 * [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-based Research
 * [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - Harvard University Health Website
 * [Liam Rosen's Fitness Guide](http://liamrosen.com/fitness.html) - Beginners Health & Fitness Guide
@@ -879,15 +879,16 @@
 * [DAREBEE](https://darebee.com/) - Fitness Plans / Workouts
 * [Hevy](https://www.hevyapp.com/), [Iron](https://github.com/kabouzeid/Iron), [Massive](https://gitea.presley.nz/brandon.presley/Massive), [Advagym](https://advagymsolutions.com/user-app/) or [FitHero](https://fithero.app/) - Workout Trackers
 * [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
-* [GoldenCheetah](https://www.goldencheetah.org/) - Biking Tracker
+* [GoldenCheetah](https://www.goldencheetah.org/) or [BikeComputer](https://f-droid.org/packages/de.nulide.bikecomputer/) - Biking Tracker
 * [Wandermap](http://www.wandermap.net/) or [AllTrails](https://www.alltrails.com/) - Hiking Routes
 * [HikerHerd](https://www.hikerherd.com/) - Hiking Gear Weight Manager
 * [MapMyWalk](https://www.mapmywalk.com/) - Walking Tracker
-* [RunnerUp](https://github.com/jonasoreland/runnerup) - Run Tracker
+* [RunnerUp](https://github.com/jonasoreland/runnerup) or [Strava](https://www.strava.com/) - Run Trackers
 * [Runmap](http://www.runmap.net/) - Running Routes
 * [Charity Miles](https://charitymiles.org/) - Donate to Charity While Running / Biking
 * [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - Zombie Running Adventure Game
 * [Bone Health Tracker](https://bonehealthtracker.com/) - Track Bone Health
+* [Plees Tracker](https://github.com/vmiklos/plees-tracker) - Sleep Tracker
 * [Benefits of Good Posture](https://youtu.be/OyK0oE5rwFY) - Posture Importance Lesson
 * [StuffThatWorks](https://www.stuffthatworks.health/) - Chronic Condition Info / Treatments
 * [Tone-Deafness Test](https://www.themusiclab.org/quizzes/td) - Pitch Perception Test
@@ -902,6 +903,7 @@
 * [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
 * [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
 * [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds) - Medical Data Log
+* [Simpill](https://gitlab.com/simpilldev/simpill) - Medication Reminders
 * [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - Insomnia Prevention Tips
 * [eXHALeR](https://www.xhalr.com/) - Yoga / Meditation Breathing Tool 
 * [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
@@ -930,7 +932,7 @@
 
 * ⭐ **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Index
 * ⭐ **[Satellite / Street View Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_satellite_.26amp.3B_street_view_maps)**
-* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** / [Search](https://nominatim.openstreetmap.org/ui/search.html), [KartaView](https://kartaview.org/landing), [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor), [Open Infrastructure Map](https://openinframap.org/), [FacilMap](https://facilmap.org/) or [Mapillary](https://www.mapillary.com/) - Street Maps
+* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** / [Search](https://nominatim.openstreetmap.org/ui/search.html), [KartaView](https://kartaview.org/landing), [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor), [Open Infrastructure Map](https://openinframap.org/), [FacilMap](https://facilmap.org/), [OutdoorMaps](https://outdoormaps.eu/) or [Mapillary](https://www.mapillary.com/) - Street Maps
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
 * [Atlas Obscura](https://www.atlasobscura.com/) or [TravelTips](https://www.traveltip.org/world_maps.php) - Travel Maps / Guides
 * [Borderless](https://borderless.safetywing.com/) - Travel Restriction Map
@@ -1210,7 +1212,7 @@
 * [WebMemex](https://blog.webmemex.org/) - Organize & Store Webpages 
 * [Bandwidth Hero](https://bandwidth-hero.com/) - Reduce Browsing Data Usage
 * [Save-Data: On](https://www.daniel.priv.no/web-extensions/save-data.html) - Auto-Enable Data Savings Mode
-* [Auto Tab Discard](https://add0n.com/tab-discard.html), [Tab Wrangler](https://github.com/tabwrangler/tabwrangler), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs), [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) or [The Great Suspender](https://github.com/aciidic/thegreatsuspender-notrack) - Discard Inactive Tabs to Reduce Memory / CPU Usage
+* [Auto Tab Discard](https://add0n.com/tab-discard.html), [Tab Wrangler](https://github.com/tabwrangler/tabwrangler), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs) or [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) - Discard Inactive Tabs to Reduce Memory / CPU Usage
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
 * [Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers) - Group & Manage Browser Tabs
 * [AutoRefresh](https://autorefresh.io/) or [Tab Auto Refresh](https://mybrowseraddon.com/tab-auto-refresh.html) - Refresh Tabs
@@ -1294,6 +1296,7 @@
 * [Steam Database](https://steamdb.info/extension/) - Adds Steam Database Link to Steam Community & Store 
 * [Gmail Labels as Tabs](https://tuladhar.github.io/gmail-labels-as-tabs/) - Organize Labels as Gmail Tabs
 * [Streak](https://www.streak.com/) - Email Engagement Tracker
+* [ReplyPal](https://lolgames.net/) - AI Email Replies
 * [Native HLS](https://github.com/Palethorn/native-adaptive-streaming/) - Allows HLS & MPEG-Dash native playback 
 * [The Stream Detector](https://github.com/rowrawer/stream-detector/) - Detects Playlists & Subtitles used by HLS/DASH/HDS/MSS Streams 
 * [Happydia](https://github.com/Ademking/happydia) - Clean Sad / Annoying Media from Social Sites 
@@ -1415,6 +1418,7 @@
 * [Multimedia Search](https://multimediasearchapp.com/) - Browser File Search
 * [Suggesty](https://chrome.google.com/webstore/detail/suggesty/hbiphmiliockggpepniplkkfmnhdihjh) - Human Like Search Results
 * [Query Side-By-Side](https://chrome.google.com/webstore/detail/double-shot-search-query/kddlkbpbepnaepdleclhdnfdpdogdhop) - Search Google & Bing at the Same Time
+* [Bing Unchained](https://chrome.google.com/webstore/detail/bing-unchained-use-new-bi/laldfnbbeocphnilnofhedhcjcnchbld) - Use New Bing in Chrome
 * [SessionBox](https://chrome.google.com/webstore/detail/sessionbox-multi-login-to/megbklhjamjbcafknkgmokldgolkdfig?hl=en) - Multi-Account Login for any Site
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - Force Enable Right Click on Videos
 * [Selectable](https://chrome.google.com/webstore/detail/selectable-for-fanfiction/jcidlhgdoojamkbpmhbpgldmajnobefd?ucbcb=1) - Force Enable Select Text
