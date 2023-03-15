@@ -62,7 +62,6 @@
 * [DDLValley](https://www.ddlvalley.me/) - Video / Audio / Games / ROMs / Software / Android / Books / Comics / Magazines
 * [Archive.org](https://archive.org/) - Video / Audio / Magazines / Newspapers / ROMs / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader)
 * [WarezForums](https://warezforums.com/) - Video / Audio / Games / ROMs / Software / Books / Comics / Android / [Account Application](https://t.me/joinchat/AAAAAFRH5fns4IiE-T2TcA)
-* [Releaselog](http://www.rlslog.net/) - Video / Games / ROMs / Software / Books / Comics / Magazines / Android
 * [OneDDL](https://oneddl.org/) - Video / Audio / Software / Games / Books
 * [Warez-Serbia](https://www.warez-serbia.com/) - Video / Audio / Games / Software / Android / Books / Magazines / NSFW 
 * [DownArchive](http://downarchive.org/) - Video / Audio / Software / Games / ROMs / Android / Books / Magazines
@@ -74,7 +73,8 @@
 * [psychodownloads](http://psychodownloads.com/forum.php) - Video / Audio / Software / Android / Games / ROMs / Books / Magazines / NSFW
 * [Merlin Warez](https://merlinwz.com/) - Video / Audio / Games / Software / Books / Audiobooks / Comics / Magazines 
 * [Warez Heaven](https://www.warezheaven.com/index.php) - Video / Audio / Software / Games / ROMs / Books / NSFW
-* [MegaDDL](http://megaddl.net/) - Video / Audio / Software / Games / Books 
+* [MegaDDL](http://megaddl.net/) - Video / Audio / Software / Games / Books
+* [SceneSource](https://www.scnsrc.me/), [2](https://www.scenesource.me/) - Video / Audio / Software / Games / ROMs / Books
 * [wJungle](https://wjungle.net/) - Video / Audio / Books / Games / Android / NSFW
 * [Sbenny's Forum](https://forum.sbenny.com/) - Video / Audio / Software / ROMs / Books / Android / [Discord](https://discord.gg/kf9FKQx)
 * [Amader Forum](http://amaderforum.us/) - Video / Games / Software / Android / Books / NSFW
@@ -280,12 +280,14 @@
 * [FilesBear](https://filesbear.com/)
 * [GRC](https://www.grc.com/freepopular.htm)
 * [Techspot](https://www.techspot.com/downloads/)
+* [TinyApps](https://tinyapps.org/)
 * [Informer](https://www.informer.com/)
 * [Skytopia](https://www.skytopia.com/software/)
 * [Den4b](https://www.den4b.com/)
 * [SavardSoftware](https://www.savardsoftware.com/)
 * [Freeware Symbian](http://www.freeware-symbian.com/)
 * [FileSoul](https://www.filesoul.com/)
+* [Muzychenko](https://software.muzychenko.net/en/index.htm)
 * [4-Dots](https://www.4dots-software.com/free-software/)
 * [MediaFreeware](https://www.mediafreeware.com/)
 * [DonationCoder](https://www.donationcoder.com/)
