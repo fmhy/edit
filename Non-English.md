@@ -257,6 +257,9 @@
 * [qiqi8](http://qiqi8.net/) - Anime
 * [AGE動漫](https://agefans.tw/) - Anime
 * [agemys](https://www.agemys.net/) - Anime
+* [yhdmp](https://www.yhdmp.net/) - Anime
+* [dmd85](http://www.dmd85.com), [2](http://www.dmd8.com/) - Anime
+* [bimiacg4](https://www.bimiacg4.net/) - Anime
 * [music.163](https://music.163.com/) - Music
 * [Hifini](https://www.hifini.com/) - Music
 * [Huya](https://www.huya.com/) - Live Streaming
@@ -275,7 +278,11 @@
 * [ZXCS](http://zxcs.me) - Books
 * [LoreFree](https://lorefree.com/) - Books
 * [shuhai](https://www.shuhai.vip/) - Books
-* [52shuku](https://www.52shuku.vip/) - Books / Light Novels
+* [biqiugexx](https://www.biqiugexx.com) - Books
+* [xxbiqudu](https://www.xxbiqudu.com) - Books
+* [lingjingxingzhe](https://lingjingxingzhe.com/) - Books
+* [52shuku](https://www.52shuku.vip/) - Books / Light-Novels
+* [ttkan](https://www.ttkan.co) - Books / Light-Novels
 * [qqszz](https://www.qqszz.com/) - Books / Light-Novels
 * [Huangdizhijia](https://www.huangdizhijia.com/index.html) - Books / Light-Novels
 * [zhongwen](http://zhongwen.com/gudian.htm) - Classic Literature
