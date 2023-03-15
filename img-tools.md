@@ -30,7 +30,6 @@
 * [JPEG Sandbox](https://github.com/OmarShehata/jpeg-sandbox) - DCT Coefficient Editor
 * [Images.weserv.nl](https://images.weserv.nl/) - Image Editing Server
 * [darktable](https://www.darktable.org/) - Virtual Lighttable & Darkroom
-* [FreePSDvn](https://freepsdvn.com/) - Photoshop Presets, Mockups, Templates & more
 * [Craft](https://www.invisionapp.com/craft) - Photoshop / Sketch Plugins
 * [Preset.id](https://preset.id/) or [FreePreset](https://freepreset.net/) - Adobe Lightroom Presets
 * [GradientArt](https://gra.dient.art/) or [TailBlend](https://tailblend.vercel.app/) - Gradient Editor
@@ -114,7 +113,6 @@
 
 * [more.graphics](https://more.graphics/) - Graphic Generators
 * [Random Art](http://www.random-art.org/) - Random Art Generator
-* [Chaos Machine](https://chaosmach.com/) - Random Graphic Generator
 * [Rough.js](https://roughjs.com/) - Hand Drawn Graphic Generator
 * [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - Icon Generators
 * [Logo Makr](https://logomakr.com/), [Hatchful](http://hatchful.shopify.com/), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](http://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/), [OnlineLogoMaker](https://www.onlinelogomaker.com/), [Free Logo Maker](https://freelogomaker.net/) or [ACME](https://acme.com/labelmaker/) - Logo Creators / [Note](https://i.imgur.com/gXHFqff.png)
@@ -214,14 +212,13 @@
 * [EZGif](https://ezgif.com/), [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFMemes](https://gifmemes.io/), [gifexplosion](https://gifexplosion.com/app.php), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Pixteller](http://pixteller.com/) - GIF Creator / Editor
 * [EatMyArt](https://www.eatmy.art/), [DrawIsland](https://drawisland.com/) or  [Sketch Machine](https://sketchmachine.net/) - Create GIFs from Drawings
 * [GIF Explode](https://gif-explode.com/) - Split GIFs Into Frames
-* [GIF Reverse](https://gifreverse.com) - Reverse GIFs
 * [Kinegram](https://kinegram.app/) - Kinegram GIF Creator
 * [gifify](https://github.com/vvo/gifify) - Video to GIF Converter
 * [GifRun](https://gifrun.com/) - Make GIFs from Online Videos
 * [Sergif](https://sergif.ultirequiem.com/) - Make GIFs from Webcam Videos
 * [Viphy](https://viphy.typestudio.co/) - Generate GIF From Text
 * [ScreenToGif](https://www.screentogif.com/) or [Peek](https://github.com/phw/peek) - GIF Recorder
-* [screengif](https://github.com/dergachev/screengif) or [licecap](https://www.cockos.com/licecap/) - Screencasts to GIF Converters
+* [screengif](https://github.com/dergachev/screengif), [ugiffer](https://iobureau.com/ugiffer/) or [licecap](https://www.cockos.com/licecap/) - Create GIFs via Screencasts
 * [GIFit](https://github.com/Fauntleroy/GIFit), [Youtube to GIF](https://youtube-to-gif.com/) - YouTube to GIF Converters
 * [petpet](https://benisland.neocities.org/petpet/) / [2](https://zoomerok.app/petpet/) - Headpatting GIF Maker
 * [FlagWaver](https://krikienoid.github.io/flagwaver/) - Create Moving Flag GIFs
@@ -626,6 +623,7 @@
 * [NaoKiurasawa](https://www.naokiurasawa.com/)- Mangaka Creation Process Interviews / [YouTube](https://www.youtube.com/channel/UCkIFOAoFm47XOAlJwTa6Ieg/videos) / [DailyMotion](https://www.dailymotion.com/HabaneroScans/videos) 
 * [anidraw](https://www.anidraw.net/?m=1) - Anime Drawing Tutorials
 * [Settei Dreams](https://setteidreams.net/) - Anime Production Materials
+* [Anime Study General](https://discord.gg/3bwdfRk) - Anime Production Community
 * [Photoshop Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photoshop_courses) - Photoshop Course Drive
 * [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - Photoshop Tutorials
 * [DomDesigns](https://www.youtube.com/c/DomDesigns/) - Illustrator Tutorials
