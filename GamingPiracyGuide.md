@@ -777,8 +777,6 @@
 
 # ► [Android Gaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_gaming)
 
-
-
 ***
 
 # ► Tracking / Discovery
@@ -795,7 +793,6 @@
 * [GG App](https://ggapp.io/) - Game Tracker
 * [Gamelib](https://gamelib.app/explore) - Game Tracker
 * [Backloggd](https://www.backloggd.com/) - Game Database
-* [Games Database](https://www.gamesdatabase.org/) - Game Database 
 * [LaunchBox Games Database](https://gamesdb.launchbox-app.com/) - Game Database 
 * [IGDB](https://www.igdb.com/) - Game Database
 * [We The Players](https://wetheplayers.com/) - Game Database
