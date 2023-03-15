@@ -334,13 +334,14 @@
 * ⭐ **[AllAnime](https://allanime.to/)** - Sub / Dub
 * ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / [Downloader](https://github.com/ed-archer/animepahe-dlr), [2](https://github.com/KevCui/animepahe-dl)
 * ⭐ **[marin.moe](https://marin.moe)** - Sub / Dub
+* ⭐ **[KickAssAnime](https://www2.kickassanime.ro/)** - Sub / Dub / [Discord](https://discord.com/invite/GEJk5K7)
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
 * [AnimehHub](https://animehub.ac/) - Sub / Dub
 * [Animixplay](https://animixplay.tube/) - Sub / Dub
 * [123Anime](https://123animes.ru/) - Sub / Dub
 * [AnimeLon](https://animelon.com/) - Sub / Learn Japanese
 * [because.moe](https://because.moe/) - Legal Anime Sites Search 
-* [KickAssAnime](https://www2.kickassanime.ro/) - Sub / Dub / [Discord](https://discord.com/invite/GEJk5K7)
+* [YugenAnime](https://yugenanime.ro/) - Sub / Dub / [Discord](https://discord.com/invite/MQqwQREyCz)
 * [Genoanime](https://genoanime.com/) - Sub / Dub / [Discord](https://discord.com/invite/TMe9eVs2YY)
 * [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - Sub
 * [GoGoAnime](https://gogoanime.ee/), [2](https://gogoanime.tel/) - Sub / Dub / [Discord](https://discord.com/invite/gogo) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime) / [Mirrors](https://gogoanime.news/)
@@ -353,7 +354,6 @@
 * [AnimeVibe](https://animevibe.se/) - Sub / [Discord](https://discord.com/invite/Vyw8mDv)
 * [AnimeFrenzy](https://animefrenzy.vip/) - Sub / [Discord](https://discord.com/invite/RdxXASy)
 * [KissCartoon.info](https://kisscartoon.info/) - Anime / Cartoons / Sub / Dub
-* [YugenAnime](https://yugen.to/) - Sub / Dub / [Discord](https://discord.com/invite/MQqwQREyCz)
 * [Animegg](https://www.animegg.org/) - Sub / Dub
 * [Kawaiifu](https://kawaiifu.com/) - Sub / Dub
 * [AnimeFox](https://animefox.io/) - Sub / Dub / [Discord](https://discord.com/invite/z2BSpXheN9)
@@ -789,7 +789,6 @@
 * [DameDesuYo](https://damedesuyo.com/) - Sub
 * [TokyoInsider](https://www.tokyoinsider.com/) - Sub
 * [Chiby](http://www.animechiby.com/) - Sub
-* [Kainime](https://kainime.com/) - Sub
 * [Anime Senpai4U](https://www.animesenpai4u.com/) - Sub / Dub
 * [Anime Flix](https://animeflix.org.in/) - Sub / Dub / [Telegram](https://t.me/moviesflixnet)
 * [IndiAnime](https://indianime.com/) - Sub / Dub
@@ -805,7 +804,6 @@
 * [Anime Time Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime_time_drive) - Sub / Dub 
 * [nibl](https://nibl.co.uk/) - Sub / Dub / Anime Downloads / XDCC
 * [Bubble' Upscale Project](https://discord.gg/7kqqtJ7ArW) - Upscaled Anime / Requests
-* [manyame](https://github.com/asakura42/manyame/) - IRC Anime Download Script 
 * [Anime DL](https://archive.org/details/animedl4.0_202004) - Stream & Download Anime in VLC
 * [Crunchyroll.dl](https://github.com/Sakurai07/Crunchyroll.dl) or [Crunchyroll Downloader](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - Non-Prem Crunchyroll Downloaders 
 
@@ -859,6 +857,7 @@
 * [YTS](https://yts.mx/) or [YifyMovies](https://yifymovies.xyz/) - Movies / [Google Buttons](https://github.com/cotnw/muvi) / [Mirrors](https://www.yifystatus.com/) / [Search](https://yify.netlify.app/) / Do [NOT](https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) Make Account
 * [Yify-Torrent](https://yify-torrent.cc/) - Movies
 * [ButchIxanh](https://butchixanh.com/) - Asian Drama
+* [JapaneseTorrents](https://japanesetorrents.wordpress.com/) - Asian Drama
 * [IMDb Link em All](https://greasyfork.org/en/scripts/17154-imdb-link-em-all), [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout), [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod), [IMDb Torrent Search](https://github.com/Crecket/imdb-torrent-search) or [TMDB-Torrent-Movie-Database](https://github.com/singhkumarpratik/TMDB-Torrent-Movie-Database) - Torrent Site Results on IMDb
 * [IMDB to RARBG](https://greasyfork.org/en/scripts/376793-imdb-to-rarbg-torrent-search) - RARBG Torrent / Magnet Links on IMDB 
 * [srrextra](https://github.com/srrDB/srrextra) - Scene Release Tracker on IMDb
@@ -1037,6 +1036,7 @@
 * [Loadtup](https://loadtup.com/) - YouTube Video Translator
 * [LiveTL](https://kentonishi.github.io/LiveTL/) - YouTube Live Stream
 * [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - Styled YouTube Subtitles
+* [Filmot](https://filmot.com/) - Search Within YouTube Subtitles
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - Add Subtitles to Twitch Stream
 * [Bazarr](https://www.bazarr.media/) - Auto-Download Subtitles 
 * [HandySub](https://github.com/HandyOrg/HandySub), [SubDownloader](https://subdownloader.net/) or [Subscene-Subtitle-Grabber](https://github.com/RafayGhafoor/Subscene-Subtitle-Grabber) - Subtitle Downloader
