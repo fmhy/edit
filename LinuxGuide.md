@@ -183,6 +183,7 @@
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) or [Frog](https://tenderowl.com/work/frog/) - Image to Text
 * [Feh](https://feh.finalrewind.org/) or [NSXIV](https://github.com/nsxiv/nsxiv) - Image Viewer
 * [lsix](https://github.com/hackerb9/lsix) - View Images in Terminal
+* [Upscaler](https://gitlab.com/TheEvilSkeleton/Upscaler) - Image Upscaler
 * [MkPosters](https://github.com/patrick-kidger/mkposters) - Turn Markdown Files into Posters
 * [Rapid](https://damonlynch.net/rapid/) - Quick Linux Photo Importer
 * [QR Scan](https://github.com/sayanarijit/qrscan) - QR Code Scanner
@@ -415,6 +416,7 @@
 * [SwiftUI Win11](https://jinxiansen.github.io/Windows11/) - Windows 11 Desktop Client for macOS
 * [Psst](https://github.com/jpochyla/psst) - Spotify Client
 * [Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) - Spotify Mini Player
+* [Nuage](https://github.com/lbrndnr/nuage-macos) - Soundcloud Client
 * [Subsonic](https://github.com/twostraws/Subsonic) - SwiftUI Audio Player
 * [LimaVM](https://github.com/lima-vm/lima) - Linux VM on MacOS
 * [Parallels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_parallels), [PortingKit](https://www.portingkit.com/), [PlayOnMac](https://www.playonmac.com/en/) or [CrossOver](https://www.codeweavers.com/crossover) - Run Windows Games / Programs on Mac
@@ -438,6 +440,7 @@
 * [Orion](https://browser.kagi.com/downloads/Orion.dmg) - Webkit Browser with Chrome & Firefox extensions / [Discord](https://discord.gg/E9EKaPZR)
 * [Strongbox](https://strongboxsafe.com/) - Password Manager
 * [Maccy](https://maccy.app/) - Clipboard Manager
+* [MacBing](https://goodsnooze.gumroad.com/l/macbing) - Bing Chat
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
 * [Drafts](https://getdrafts.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Kyun](https://github.com/file-acomplaint/kyun) or [Voodoopad](http://www.voodoopad.com/) - Text Editors / Notes
 * [Taskpaper](https://www.taskpaper.com/) - To-Do Apps
