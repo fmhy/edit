@@ -59,7 +59,6 @@
 * [AlternateDNS](https://alternate-dns.com/index.php) - DNS Adblocking
 * [LibreDNS](https://libredns.gr/) - DNS Adblocking
 * [Diversion](https://diversion.ch/) - DNS Adblocking
-* [DNS Watch](https://dns.watch/) - DNS Adblocking
 * [dog](https://dns.lookup.dog/) - DNS CLI
 * [Quad9](https://quad9.net/) - Malware, Phishing, Spyware & Botnet DNS Protection
 * [Stubby](https://github.com/getdnsapi/stubby) - DNS Stub Resolver
@@ -121,7 +120,8 @@
 * [Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/) or [DrWeb](https://free.drweb.com/) - No Install Required Antivirus
 * [Should I Remove It?](https://www.shouldiremoveit.com/) - Easily Find & Remove Adware, Spyware etc.
 * [Rewind](https://github.com/Neo23x0/Rewind) - Immediate Virus Infection Counter Measures
-* [Spybot](https://www.safer-networking.org/products/spybot-free-edition/) or [SUPERAntiSpyware](https://www.superantispyware.com/free-edition.html) - Anti-spyware
+* [Spybot](https://www.safer-networking.org/products/spybot-free-edition/) or [SUPERAntiSpyware](https://www.superantispyware.com/free-edition.html) - Spyware Scanners
+* [RK Hunter](https://sourceforge.net/projects/rkhunter/) - Rootkit Scanner
 * [VT4Browsers](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions) - Easily Scan Downloads
 * [GetsUsp](https://www.mcafee.com/enterprise/en-us/downloads/free-tools/getsusp.html) or [Wise Anti-Malware](https://www.wisecleaner.com/wise-anti-malware.html) - Malware Detection
 * [Safety Scanner](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download) or [Power Eraser](https://support.norton.com/sp/static/external/tools/npe.html) - Malware Remover
