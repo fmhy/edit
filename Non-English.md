@@ -1156,6 +1156,7 @@
 * [ReidOSTorrents](https://reidostorrents.com/) - Video / Audio / Software / Games / Books
 * [Os Reformados](http://osreformados.com/) - Video / Audio / Magazines
 * [baixarseriesmp4](https://baixarseriesmp4.xyz/) - Movies / TV / Anime
+* [Anipakku](https://anipakku.blogspot.com/) - Anime / [Discord](https://discord.com/invite/Whu6RV9Gad)
 * [Series Empire](https://seriesempire.com/) - TV 
 * [Jogos Torrents](https://jogostorrents.site/) - Games
 * [BiaxarSomGospel](https://www.baixarsomgospel.org/) - Gospel Music
