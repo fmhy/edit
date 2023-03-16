@@ -41,7 +41,7 @@
 * ⭐ **YouTube Music Tools** - [Lag Fix](https://greasyfork.org/en/scripts/432304-youtube-music-fix-performance) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs / [Spotify Theme](https://userstyles.world/style/5470/soundfy-v3) / [Dark Theme](https://github.com/huds0nx/soundcloud-luna)
-* [ccMixter](http://ccmixter.org/) or [dig ccMixter](http://dig.ccmixter.org/dig) - Browser Music
+* [ccMixter](http://ccmixter.org/) or [dig ccMixter](http://dig.ccmixter.org/) - Browser Music
 * [Audiomack](https://audiomack.com/) - Browser Music
 * [Slider](https://slider.kz/) or [My Free MP3](https://myfreemp3juices.cc/) - Browser Music
 * [xprm](https://xprm.net/) - Browser Music
@@ -289,7 +289,7 @@
 * [z1.fm](https://z1.fm/) - MP3
 * [PandaCD](https://pandacd.io/) - MP3
 * [Tancpol](https://tancpol.net/) - MP3
-* [ccMixter](http://ccmixter.org/) or [dig ccMixter](http://dig.ccmixter.org/dig) - DL / Stream / MP3 
+* [ccMixter](http://ccmixter.org/) or [dig ccMixter](http://dig.ccmixter.org/) - DL / Stream / MP3 
 * [MP3Juices](https://www.mp3juices.cc/) or [MP3Juice](https://mp3juice.buzz/) - DL / Stream / MP3 
 * [Digital Meltd0wn](http://digitalmeltd0wn.blogspot.com/) - MP3
 * [Music Blogtrotter](https://musicblogtrotter.blogspot.com/) - MP3
