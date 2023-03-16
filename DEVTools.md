@@ -271,7 +271,7 @@
 * [Webhook.site](https://webhook.site/) or [HookDeck](https://hookdeck.com/) - Webhook Tools
 * [Scoop](https://www.scoop.it/) - Content Curation Tool
 * [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Draw Sequence Diagrams 
-* [ASCII Flow](https://asciiflow.com/) - Draw ASCII Diagrams
+* [ASCII Flow](https://asciiflow.com/) or [Tree](https://tree.nathanfriend.io/) - Create ASCII Diagrams
 * [Ainize](https://ainize.ai/) - Launchpad for Open-Source AI projects
 * [DBeaver](https://dbeaver.io/) - Universal Database Tool
 * [Egui Node Graph](https://github.com/setzer22/egui_node_graph) - Build Node Graph Apps in Rust
@@ -416,6 +416,7 @@
 * [Dagu](https://github.com/yohamta/dagu) - WebUI Job Manager
 * [HeidiSQL](https://www.heidisql.com/) - SQL Manager
 * [httpbin](https://httpbin.org/) or [Requestbin](https://requestbin.com/) - HTTP Request & Response Service
+* [Adminer](https://www.adminer.org/) - Database Manager
 * [RemoteMySQL](https://www.remotemysql.com/) - Remote MySQL Database
 * [DoIt](https://github.com/dolthub/dolt) - SQL Database
 * [DB4Free](https://db4free.net/) or [SQLFIddle](http://sqlfiddle.com/) - SQL Testing
@@ -1144,6 +1145,7 @@
 * [typejuice](https://github.com/galvez/typejuice) - Documentation Generator for TypeScript Declaration Files
 * [Boxed](https://github.com/swan-io/boxed) - TypeScript Utility Types / Functions
 * [Clean Code TypeScripts](https://github.com/labs42io/clean-code-typescript) - Clean Code for TypeScript
+* [Ruff](https://github.com/charliermarsh/ruff) - Python Linter
 * [Trunk](https://trunk.io/) - Run Linters/Formatters/Checkers Simultaneously
 * [Mega Linter](https://github.com/nvuillam/mega-linter), [TCA](https://github.com/Tencent/CodeAnalysis) or [SonarCloud](https://sonarcloud.io/) - Code Analyzer
 * [tabnine](https://www.tabnine.com/), [CodeWhisperer](https://aws.amazon.com/codewhisperer/) or [Copilot](https://copilot.github.com/) / [Docs](https://github.com/github/copilot-docs) - AI Assisted Code Completion / Suggestions
