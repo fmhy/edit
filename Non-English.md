@@ -232,6 +232,7 @@
 * [shinybbs](https://sub.shinybbs.vip/) - TV 
 * [ACG.rip](https://acg.rip/) - Anime / Music 
 * [Snow-Raws](https://snow-raws.com/) - Anime / [Official Tracker](https://www.skyey2.com/)
+* [mikanani](https://mikanani.me/) - Anime
 * [AnimeTrackerList](https://github.com/DeSireFire/animeTrackerList) - Anime Tracker List
 
 ## ▷ Streaming
@@ -257,6 +258,9 @@
 * [qiqi8](http://qiqi8.net/) - Anime
 * [AGE動漫](https://agefans.tw/) - Anime
 * [agemys](https://www.agemys.net/) - Anime
+* [yhdmp](https://www.yhdmp.net/) - Anime
+* [dmd85](http://www.dmd85.com), [2](http://www.dmd8.com/) - Anime
+* [bimiacg4](https://www.bimiacg4.net/) - Anime
 * [music.163](https://music.163.com/) - Music
 * [Hifini](https://www.hifini.com/) - Music
 * [Huya](https://www.huya.com/) - Live Streaming
@@ -275,9 +279,15 @@
 * [ZXCS](http://zxcs.me) - Books
 * [LoreFree](https://lorefree.com/) - Books
 * [shuhai](https://www.shuhai.vip/) - Books
-* [52shuku](https://www.52shuku.vip/) - Books / Light Novels
+* [biqiugexx](https://www.biqiugexx.com) - Books
+* [xxbiqudu](https://www.xxbiqudu.com) - Books
+* [lingjingxingzhe](https://lingjingxingzhe.com/) - Books
+* [52shuku](https://www.52shuku.vip/) - Books / Light-Novels
+* [ttkan](https://www.ttkan.co) - Books / Light-Novels
 * [qqszz](https://www.qqszz.com/) - Books / Light-Novels
 * [Huangdizhijia](https://www.huangdizhijia.com/index.html) - Books / Light-Novels
+* [118book](https://www.118book.com/) - Books / Light-Novels
+* [ptwxz](https://www.ptwxz.com/) - Books / Light-Novels
 * [zhongwen](http://zhongwen.com/gudian.htm) - Classic Literature
 * [AC.QQ](https://ac.qq.com/) - Manga
 * [BiliBili](https://manga.bilibili.com/) - Manga
@@ -1161,6 +1171,7 @@
 * [ReidOSTorrents](https://reidostorrents.com/) - Video / Audio / Software / Games / Books
 * [Os Reformados](http://osreformados.com/) - Video / Audio / Magazines
 * [baixarseriesmp4](https://baixarseriesmp4.xyz/) - Movies / TV / Anime
+* [animestotais](https://www.animestotais.xyz/) - Movies / TV / Anime
 * [Anipakku](https://anipakku.blogspot.com/) - Anime / [Discord](https://discord.com/invite/Whu6RV9Gad)
 * [Series Empire](https://seriesempire.com/) - TV 
 * [Jogos Torrents](https://jogostorrents.site/) - Games
@@ -1230,6 +1241,7 @@
 * [NetMovies](http://www.netmovies.com.br/) - Movies / TV
 * [querofilmehd](https://querofilmehd.net/) - Movies / TV
 * [SuperFlix](https://superflix.do/) - Movies / TV
+* [TopFlix](https://topflix.vc) - Movies / TV / Requires Login
 * [AnimeFire](https://animefire.net/) - Anime
 * [AnimeLog](https://animeslog.com/) - Anime
 * [AnimesOnline](https://animesonline.vip/) - Anime
@@ -1707,6 +1719,7 @@
 * [Zonatorrent](https://zonatorrent.in/) - Movies / TV
 * [PasateaTorrent](https://pasateatorrent.org/) - Movies / TV
 * [Cinecalidad](https://cinecalidad.one/) - Movies / TV
+* [alt-torrent](https://alt-torrent.com) - Movies / TV
 * [SomosTorrent](https://somostorrent.com/) - Movies / TV / [Telegram](https://t.me/s/pelistorrentoficial)
 * [DiXvA](https://www.dixvto.com/), [2](https://www.dixva.com/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
 * [Frozen Layer](https://www.frozen-layer.com/) - Anime
@@ -1742,7 +1755,7 @@
 * [Cuevana](https://ccuevana.day/) - Movies / TV
 * [Cuevana 3](https://cuevana3.name/) - Movies / TV
 * [EntrePeliculasySeries](https://entrepeliculasyseries.pro/) - Movies / TV
-* [Repelis](https://a1.repelis.uno/) - Movies / TV
+* [Repelis](https://a1.repelis.uno/), [2](https://repelis.uno/) - Movies / TV
 * [SeriesYonkis](https://seriesyonkis.cx/) - Movies / TV
 * [Descarga Cine Clasico](https://descargacineclasico.net/) - Classical Movies
 * [Cinemargentino](https://cinemargentino.com/) - Movies / Documentaries
