@@ -58,6 +58,7 @@
 * ⭐ **[DODI Repacks](http://dodi-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
 * ⭐ **[M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)** - Download / [Discord](https://discord.gg/693hNBdymb)
 * [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - Download / Torrent / [Discord](https://discord.gg/HP5sQ6c)
+* [Elamigos](https://elamigos.site/) - Download
 * [ScOOter Repacks](https://scooter-repacks.site/) - Download / Torrent / [Discord](https://discord.gg/BWKyN8SgvM)
 * [Xatab Repacks](https://b.otxataba.net/), [2](https://s1.otxatabanet.ru/), [3](https://m.byxatab.com/) - Download / Torrent
 * [Darck Repacks](https://darckrepacks.com/) - Download
@@ -69,7 +70,7 @@
 ## ▷ DLC Unlockers
 
 * ⭐ **[CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576)** - Steam DLC Unlocker / [Auto Setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521) / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
-* [Koalageddon](https://github.com/acidicoala/Koalageddon/) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
+* [Koalageddon](https://github.com/acidicoala/Koalageddon/) / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
 * [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin and EA
 * [DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?t=104412) - DLC Unlocker for EA and Origin
 * [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker 
@@ -430,6 +431,7 @@
 
 * ⭐ **[Ninjakiwi](https://ninjakiwi.com/)** - Browser Games / Bloons / Multiplayer
 * ⭐ **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
+* ⭐ **[Play-CS](https://play-cs.com/)** - Browser Counter-Strike 1.6
 * ⭐ **[RPS101](https://rps101.pythonanywhere.com/)** - 101 Gesture Rock-Paper-Scissors
 * ⭐ **[Cookie Consent Speed.Run](https://cookieconsentspeed.run/)** - Cookie Disabling Game
 * ⭐ **[AirConsole](https://www.airconsole.com/)** or [AnsStream](https://www.antstream.com/) - Control TV Games with Phone 
@@ -708,7 +710,7 @@
 
 ## ▷ Incremental / Idle
 
-* ⭐ **[/r/Incremental_Games](https://www.reddit.com/r/incremental_games/wiki/list_of_incremental_games)**, [Incremental Games Plaza](https://plaza.dsolver.ca/) or [Almost Idle](http://almostidle.com/) - Incremental Games Index
+* ⭐ **[/r/Incremental_Games](https://www.reddit.com/r/incremental_games/wiki/list_of_incremental_games)**, [Incremental Games Plaza](https://plaza.dsolver.ca/) or [Almost Idle](http://almostidle.com/) - Incremental Games Indexes
 * ⭐ **[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) / [2](http://orteil.dashnet.org/experiments/cookie/)** - Incremental Cookie Game
 * ⭐ **Cookie Clicker Tools** - [Multiple Tools](https://github.com/CookieMonsterTeam/CookieMonster) / [Calculator](https://coderpatsy.bitbucket.io/cookies/cookies.html) / [Mod](https://redd.it/7ogf45)
 * [The Monolith](http://monolith.greenpixel.ca/) - Incremental RPG
