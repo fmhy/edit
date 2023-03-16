@@ -364,7 +364,7 @@
 
 ## ▷ Indexers
 
-* ⭐ **[Nero's Black Book](https://nerosbb.com/)** or [Indexer List](https://www.reddit.com/r/usenet/wiki/indexers#wiki_free_membership_sites) - Indexer List
+* ⭐ **[Nero's Black Book](https://nerosbb.com/index.php)** or [Indexer List](https://www.reddit.com/r/usenet/wiki/indexers#wiki_free_membership_sites) - Indexer List
 * [nzbplanet](https://nzbplanet.net/)
 * [orionoid](https://orionoid.com/)
 * [binsearch](http://binsearch.info/)
@@ -390,7 +390,7 @@
 
 ## ▷ Providers
 
-* ⭐ **[Nero's Black Book](https://nerosbb.com/)** or [/r/usenet Providers](https://www.reddit.com/r/usenet/wiki/providers) - Provider Lists
+* ⭐ **[Nero's Black Book](https://nerosbb.com/index.php)** or [/r/usenet Providers](https://www.reddit.com/r/usenet/wiki/providers) - Provider Lists
 * [usenetmax](https://www.usenetmax.com/)
 * [xsusenet](https://xsusenet.com/)
 * [usenet.farm](https://usenet.farm/#trial)
