@@ -730,7 +730,7 @@
 * [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
 * [PakistAnatlas](https://pakistanatlas.com/) - Pakistani Traditional Food Map
 * [Cooking YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cooking_youtube_channels)
-* [GrowStuff](https://www.growstuff.org/) - Food Growing Info / Tools
+* [GrowStuff](https://www.growstuff.org/) or [GrowVeg](https://www.growveg.com/) - Food Growing / Gardening
 * [Awesome Food](https://github.com/jzarca01/awesome-food) - Cooking Tools Index
 * [CookingForEngineers](http://www.cookingforengineers.com/) - Recipes / Cooking Tests
 * [ReluctantGourmet](https://www.reluctantgourmet.com/) - Recipes / Tutorials
@@ -1019,6 +1019,7 @@
 * [PowerOutage](https://poweroutage.us/) - Power Outage Map
 * [ElectricityMap](https://app.electricitymap.org/) - Electricity CO₂ Emissions Map
 * [City Generator](https://probabletrain.itch.io/city-generator) or [CityGenerator](https://oskarstalberg.com/game/CityGenerator/) - City Map Generator
+* [Plant Maps](https://www.plantmaps.com/) - Native Tree Maps
 * [Topps](https://topps.diku.dk/torbenm/maps.msp) - Planet Map Generator
 * [RSOE](http://hisz.rsoe.hu/) or [EDIS](https://rsoe-edis.org/) - Emergency and Disaster Map 
 * [NCEI](https://www.ncei.noaa.gov/maps/hazards/) - Real Time Natural Hazard Map
@@ -1038,6 +1039,7 @@
 * [MarineTraffic](https://www.marinetraffic.com/) or [VesselFinder](http://vesselfinder.com/) - Live Ship Tracker
 * [Fishing Watch](https://globalfishingwatch.org/map) - Fishing Activity Map
 * [Ocearch](https://www.ocearch.org/tracker/) - Shark Tracker
+* [IKnowWhereYourCatLives](https://iknowwhereyourcatlives.com/) - Cat Tracker
 * [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
 * [Speed Limits Map](https://somerandomstuff1.files.wordpress.com/2019/02/highest-speed-limits-around-the-world.png) - Max Speed Limits
 * [Left vs. Right Side Driving Map](https://somerandomstuff1.files.wordpress.com/2019/02/left-or-right-side.png) - Left vs. Right Side Driving by Country
@@ -1220,7 +1222,8 @@
 * [Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button) - Quickly Close All Tabs
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - Read Books in Browser
 * [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/), [Linguist Translator](https://github.com/translate-tools/linguist), [S3Translator](http://www.s3blog.org/s3translator.html), [DeepL Translator](https://chrislo.ca/deepl/), [Mate Translate](https://gikken.co/mate-translate) or [ImTranslator](https://imtranslator.net/) - Translation Extensions 
-* [Dictionaries](https://github.com/pnlpal/dictionaries), [Dictionary Anywhere](https://github.com/meetDeveloper/Dictionary-Anywhere), [phlinx](https://phlinx.com/) or [Definer](https://lumetrium.com/definer/) - Popup Dictionary 
+* [Dictionaries](https://github.com/pnlpal/dictionaries), [Dictionary Anywhere](https://github.com/meetDeveloper/Dictionary-Anywhere), [phlinx](https://phlinx.com/) or [Definer](https://lumetrium.com/definer/) - Popup Dictionary
+* [CustomRightClickMenu](https://github.com/SanderRonde/CustomRightClickMenu) - Custom Right Click Menu
 * [PantherBar](https://pantherbar-app.com/) or [BigSearch](https://github.com/garywill/BigSearch) - Context Search
 * [HyperSearch](https://github.com/abhinavsharma/hypersearch) - Search Result Sidebar
 * [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - Magnify Webpages
@@ -1235,6 +1238,7 @@
 * [Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - Video Download Managers
 * [Vimeomate](https://vimeomate.com/) - Vimeo Video Downloader
 * [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - Play Videos in Theater Mode
+* [Zoom Redirector](https://github.com/arkadiyt/zoom-redirector) - Redirect Zoom Links to Web Client 
 * [GlobalSpeed](https://github.com/polywock/globalSpeed) - Set Default Video / Audio Speed
 * [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - Audio Recorder
 * [Mute Tab](https://mybrowseraddon.com/mute-tab.html) - Easily Mute All Tabs
@@ -1263,7 +1267,7 @@
 * [Text Link](https://piro.sakura.ne.jp/xul/textlink/index.html.en) - Make Non-Hyperlinked URL's Clickable 
 * [Link Alert](https://www.cwesson.net/projects/LinkAlert/) - Link Type Indicator 
 * [Mitaka](https://github.com/ninoseki/mitaka) - Domain Info Lookup Tool
-* [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) or [I Don't Care About Cookies](https://github.com/Darthagnon/idontcareaboutcookies-backup) (Pre-Avast) - Auto Delete Cookies
+* [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete), [Consentomatic](https://consentomatic.au.dk/) or [I Don't Care About Cookies](https://github.com/Darthagnon/idontcareaboutcookies-backup) (Pre-Avast) - Auto Delete Cookies
 * [Cookie Quick Manager](https://github.com/ysard/cookie-quick-manager), [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - Cookie Manager 
 * [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - Follow RSS Feeds
 * [Google Unblocked](https://github.com/Ibit-to/google-unlocked) - Uncensored Google Search
@@ -1372,7 +1376,6 @@
 * [Firefox Voice](https://commonvoice.mozilla.org/en) - Use Firefox with your Voice 
 * [Canvas](https://addons.mozilla.org/en-US/firefox/addon/canvas-google-images/) - View & Edit Google Images 
 * [Sitemod](https://sitemod.io/) - Inspect Element Changes to a Website
-* [Zoom Redirector](https://addons.mozilla.org/en-US/firefox/addon/zoom-redirector/) - Redirect Zoom Links to Web Client 
 * [Plasma Integration](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/) - Control Browser via Plasma 
 * [Session Sync](https://addons.mozilla.org/en-US/firefox/addon/session-sync/) - Session Manager 
 * [DelayWebpage](https://addons.mozilla.org/en-US/firefox/addon/delaywebpage/) - Set Webpage Loading Delays
@@ -1436,7 +1439,7 @@
 * [Text to Image](https://chrome.google.com/webstore/detail/text-to-image/nkljaohokglebeljcgchmehnhdieakda) - Text to Image
 * [A+ Font Size Changer](https://chrome.google.com/webstore/detail/a%20-fontsize-changer-lite/ckihgechpahhpompcinglebkgcdgpkil) - Change Browser Font Size & Color
 * [Sticky Notes](https://www.getstickynotes.com/) - Browser Sticky Notes
-* [Toby](https://www.gettoby.com/), [Prune](https://chrome.google.com/webstore/detail/prune/gblddboefgbljpngfhgekbpoigikbenh), [Freezetab](https://freezetab.com/) or [Tabs Outliner](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - Tab Manager
+* [Toby](https://www.gettoby.com/), [Prune](https://chrome.google.com/webstore/detail/prune/gblddboefgbljpngfhgekbpoigikbenh), [Freezetab](https://freezetab.com/), [Tab Modifier](https://github.com/sylouuu/chrome-tab-modifier) or [Tabs Outliner](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - Tab Managers
 * [Dualless](https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd) or [Tab Resize](https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc) - Split Browser Window 
 * [Rearrange Tabs](https://chrome.google.com/webstore/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbga?hl=en) - Rearrange Tabs
 * [chromewm](https://gitlab.com/EduCampi/chromewm) - Tile Windows / Emulate Workspaces
@@ -1518,6 +1521,7 @@
 * [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5)
 * [Picviewer CE+](https://greasyfork.org/en/scripts/24204) - Image Viewing Tool
 * [Show Image Dimensions](https://greasyfork.org/scripts/401432) - Add Image Dimensions to Google
+* [Google DWIMages](https://greasyfork.org/en/scripts/29420) - Add Direct Image Links
 * [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - Google Search Endless Scrolling 
 * [Extra Search Buttons](https://greasyfork.org/en/scripts/7543-google-search-extra-buttons) - Extra Google Search Buttons
 * [Google Bangs](https://greasyfork.org/en/scripts/424160) - DDG !bangs in Google
