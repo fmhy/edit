@@ -291,6 +291,8 @@
 * [lightnovel.us](https://www.lightnovel.us/) - Light-Novels
 * [txt900](https://www.txt990.org/) - Light-Novels
 * [Zongheng](https://www.zongheng.com/) - Light-Novels
+* [118book](https://www.118book.com/) - Light-Novels
+* [Piaotian](https://www.ptwxz.com/) - Light-Novels
 * [Baozimh](https://www.baozimh.com/) - Webtoons
 * [Doujin Fiction Network](https://www.trxs.org/) or [Readfine](https://t.me/Readfine) / [Discussion](https://t.me/ReadfineChat) - FanFiction
 * [ishare.iask](https://ishare.iask.sina.com.cn/) - Documents
@@ -597,6 +599,7 @@
 # ► Hindi 
 
 * [WFH Companies India](https://github.com/abhagsain/WFH-Companies-India) - Work from Home Job Offerings in India
+* [New Hindi Animes](https://t.me/New_Hindi_Animes) - Anime Release Announcements
 
 ## ▷ Downloading
 
@@ -694,6 +697,7 @@
 # ► Hungarian
 
 * [TorrentEmpire](https://torrent-empire.me/) - Torrent Discussion
+* [Turistautak](https://turistautak.hu/) - Hungarian Maps
 
 ## ▷ Streaming 
 
