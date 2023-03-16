@@ -1041,6 +1041,7 @@
 * [Tensai Translations](https://tensaitranslations.wordpress.com/)
 * [Web Novel](https://www.webnovel.com/)
 * [Shin Translations](https://shintranslations.com/)
+* [wuxiaworld](https://www.wuxiaworld.com/)
 * [Henkan Epubs](https://henkanepubs.wordpress.com/)
 * [LNWNCentral](https://lnwncentral.wordpress.com/)
 * [Octiopii](https://octopii.co/)
