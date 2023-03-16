@@ -199,6 +199,7 @@
 * [Relaxing Sounds](https://www.shuteye.ai/relaxing-sounds/) - Ambient
 * [A Soft Murmur](https://asoftmurmur.com/) - Ambient 
 * [Nature Mixer](https://naturemixer.com/) - Ambient
+* [Click Relax](https://click-relax.com/) - Ambient
 * [Moszen](https://www.moszen.com/) - Ambient
 * [Eart.fm](https://earth.fm/) - Ambient
 * [Zen Sounds](https://app.zenflowchart.com/zen-sounds) - Ambient
