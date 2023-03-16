@@ -68,7 +68,7 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 ⭐ **[ChatGPT](https://chat.openai.com/)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chatgpt_tools)
 
-[Transformer](https://transformer.huggingface.co/), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en), [TextSynth](https://textsynth.com/playground.html), [MagicPrompt](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion), [Talk to Transformer](https://app.inferkit.com/demo), [InkForAll](https://app.inkforall.com/tools), [EleutherAI](https://6b.eleuther.ai/), [Essaytyper](http://www.essaytyper.com/), [EssayGen](https://github.com/daijro/EssayGen/), [WriteSonic](https://writesonic.com/chat), [Writer](https://writer.com), [gpt3](https://gpt3.ethio-tech.com/), [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/), [papertyper](https://papertyper.net/), [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain), [NovelAI](https://novelai.net/) / [Limit Bypass](https://pastebin.com/JDyvqZcz), [Writerly](https://writerly.ai/), [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client), [Dreamily](https://dreamily.ai/), [GodAI](https://awk.itch.io/godai), [bing-chat](https://github.com/transitive-bullshit/bing-chat) / [API](https://github.com/acheong08/EdgeGPT), [Marmof](https://marmof.com/), [writier.io](https://writier.io/), [EasyPeasy](https://easy-peasy.ai/), [BlogNLP](https://www.blognlp.com/), [botowski](https://www.botowski.com/)
+[Transformer](https://transformer.huggingface.co/), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en), [TextSynth](https://textsynth.com/playground.html), [MagicPrompt](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion), [Talk to Transformer](https://app.inferkit.com/demo), [InkForAll](https://app.inkforall.com/tools), [EleutherAI](https://6b.eleuther.ai/), [Essaytyper](http://www.essaytyper.com/), [EssayGen](https://github.com/daijro/EssayGen/), [WriteSonic](https://writesonic.com/chat), [Writer](https://writer.com), [gpt3](https://gpt3.ethio-tech.com/), [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/), [papertyper](https://papertyper.net/), [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain), [NovelAI](https://novelai.net/) / [Limit Bypass](https://pastebin.com/JDyvqZcz), [Writerly](https://writerly.ai/), [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client), [Dreamily](https://dreamily.ai/), [GodAI](https://awk.itch.io/godai), [bing-chat](https://github.com/transitive-bullshit/bing-chat) / [API](https://github.com/acheong08/EdgeGPT), [Marmof](https://marmof.com/), [writier.io](https://writier.io/), [EasyPeasy](https://easy-peasy.ai/), [BlogNLP](https://www.blognlp.com/), [botowski](https://www.botowski.com/), [Poe](https://poe.com/)
 
 ***
 
@@ -422,7 +422,7 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 **Prompts**
 
-[prompts.chat](https://prompts.chat/), [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts), [botprompts](https://botprompts.net/), [aisherpa](https://aisherpa.super.site/), [quickref](https://quickref.me/chatgpt),[ChatGPT-History](https://github.com/benf2004/ChatGPT-History), [flowgpt](https://flowgpt.com/), [jailbreakchat](https://www.jailbreakchat.com/), [Learm Prompting](https://learnprompting.org/)
+[prompts.chat](https://prompts.chat/), [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts), [botprompts](https://botprompts.net/), [aisherpa](https://aisherpa.super.site/), [quickref](https://quickref.me/chatgpt),[ChatGPT-History](https://github.com/benf2004/ChatGPT-History), [flowgpt](https://flowgpt.com/), [jailbreakchat](https://www.jailbreakchat.com/), [Learm Prompting](https://learnprompting.org/), [jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)
 
 ***
 
@@ -973,7 +973,7 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 ⭐ **[SyncThing](https://github.com/Catfriend1/syncthing-android)**
 
-[dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) / [croc](https://f-droid.org/packages/com.github.howeyc.crocgui), [Snapdrop Android](https://github.com/fm-sys/snapdrop-android), [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard), [Leaf Explorer](https://github.com/Shiv-Shambhu/Leaf-Explorer), [xShare](https://github.com/tsudoko/xshare), [InShare](https://play.google.com/store/apps/details?id=sharefiles.sharemusic.shareapps.filetransfer), [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc), [MagicCopy](https://magiccopy.app/), [syncopoli](https://gitlab.com/fengshaun/syncopoli)
+[dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) / [croc](https://f-droid.org/packages/com.github.howeyc.crocgui), [Snapdrop Android](https://github.com/fm-sys/snapdrop-android), [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard), [Leaf Explorer](https://github.com/Shiv-Shambhu/Leaf-Explorer), [xShare](https://github.com/tsudoko/xshare), [InShare](https://play.google.com/store/apps/details?id=sharefiles.sharemusic.shareapps.filetransfer), [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc), [MagicCopy](https://magiccopy.app/), [syncopoli](https://gitlab.com/fengshaun/syncopoli), [ShareX](https://github.com/akanshSirohi/ShareX)
 
 **SkyNet**
 
@@ -1183,7 +1183,7 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 #### Image Download Extensions
 
-[Download all Images](https://add0n.com/save-images.html), [Cute Save Button](https://github.com/Dezaimasu/cute-button), [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en), [Cute Save Button](https://github.com/Dezaimasu/cute-button), [Download all Images](https://add0n.com/save-images.html), [Save Images](https://github.com/belaviyo/save-images/), [svgexport](https://svgexport.io/), [svg-grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg), [SVG Gobbler](https://github.com/rossmoody/svg-gobbler)
+[Download all Images](https://add0n.com/save-images.html), [Cute Save Button](https://github.com/Dezaimasu/cute-button), [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en), [Cute Save Button](https://github.com/Dezaimasu/cute-button), [Download all Images](https://add0n.com/save-images.html), [Save Images](https://github.com/belaviyo/save-images/), [svgexport](https://svgexport.io/), [svg-grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg), [SVG Gobbler](https://github.com/rossmoody/svg-gobbler), [Image Picka](https://github.com/eight04/image-picka)
 
 ***
 
@@ -1497,7 +1497,7 @@ Add the following commands to a search to manually scrape each site.
 * [xTeVe](https://github.com/xteve-project/xTeVe) - Plex / Emby M3U Proxy 
 * [Autoscan](https://github.com/Cloudbox/autoscan) - Real-Time Plex & Emby File Changes
 * [Ombi](https://ombi.io/) - Plex / Emby User Request Management
-* [TRaSH Guides](https://trash-guides.info/) or [The Complete Guide](https://redd.it/pqsomd) - Video Server Setup Guides
+* [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh) or [The Complete Guide](https://redd.it/pqsomd) - Video Server Setup Guides
 * [Archon Wiki](https://github.com/Protektor-Desura/Archon/wiki/Compare-Media-Servers) - Media Server Comparisons
 
 ***
@@ -2643,7 +2643,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Spotify Themes**
 
-[Colorize](https://colorify.live/) / [Spicetify](https://spicetify.app/) / [CLI](https://github.com/khanhas/spicetify-cli) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Discord](https://discord.gg/VnevqPp2Rr) / [Easy Install](https://github.com/OhItsTom/spicetify-easyinstall/) / [Fluent](https://github.com/williamckha/spicetify-fluent)
+[Colorize](https://colorify.live/) / [Spicetify](https://spicetify.app/) / [CLI](https://github.com/khanhas/spicetify-cli) / [Addons](https://github.com/3raxton/spicetify-custom-apps-and-extensions) / [Discord](https://discord.gg/VnevqPp2Rr) / [Easy Install](https://github.com/OhItsTom/spicetify-easyinstall/) / [Fluent](https://github.com/williamckha/spicetify-fluent), [2](https://github.com/nimsandu/spicetify-bloom)
 
 ***
 
