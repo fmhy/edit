@@ -82,6 +82,7 @@
 * [Temp Email Apps](https://rentry.co/v92q6), [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/), [Temp Mail](https://play.google.com/store/apps/details?id=temporary.disposable.mail), [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957), [Ten Minute Mail](https://play.google.com/store/apps/details?id=com.tenminutemail) or [‎InstAddr](https://play.google.com/store/apps/details?id=air.kukulive.mailnow) - Temp Mail Apps
 * [Private Location](https://f-droid.org/en/packages/com.wesaphzt.privatelocation/) - Hide Phone Location Permanently
 * [Fake GPS Location](https://play.google.com/store/apps/details?id=com.evezzon.fakegps) or [GPS JoyStick Guide](http://gpsjoystick.theappninjas.com/faq/) - Fake GPS Location 
+* [MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - Track Devices Following You
 * [RadiusLocker](https://www.radiuslocker.co/) - Lock Phone When its not Near You
 * [WPS](https://gitlab.com/nuntius35/wps) - Lock Phone After Multiple Failed Logins
 * [Private Lock](https://f-droid.org/en/packages/com.wesaphzt.privatelock/) or [WTMP](https://play.google.com/store/apps/details?id=com.wtmp.svdsoftware) - Detect When Phone is Touched
@@ -197,6 +198,7 @@
 * [BatteryChargeLimiter](https://github.com/MuntashirAkon/BatteryChargeLimiter) - Charging Control
 * [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - Save Battery by Turning Off Pixels
 * [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro) - View System Information
+* [ConnectYou](https://github.com/Bnyro/ConnectYou) - Contacts App
 * [AllMyContact](https://allmycontact.info/) - Contact Info QR Codes
 * [OpenCalc](https://github.com/Darkempire78/OpenCalc) - Calculator
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - Note Taking Apps
@@ -224,7 +226,7 @@
 * [LTECleanerFOSS](https://github.com/TheRedSpy15/LTECleanerFOSS) - Android Cleanup Tool
 * [Hail](https://github.com/aistra0528/Hail) - Auto-Deactivate Unused Apps
 * [Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27) - How-to Run Docker on Android
-* [MouseRemote](https://github.com/Akshayaap/MouseRemote) or [TouchDroid](https://github.com/vitaminncpp/TouchDroid) - Use Android as Mouse / Touch Pad
+* [MouseRemote](https://github.com/Akshayaap/MouseRemote), [RemoteMouse](https://www.remotemouse.net/) or [TouchDroid](https://github.com/vitaminncpp/TouchDroid) - Use Android as Mouse / Touch Pad
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
 * [RoMote](https://github.com/wseemann/RoMote) - Phone Roku Controller
 * [Pluma](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader&hl=en), [Feeder](https://gitlab.com/spacecowboy/Feeder), [FeedMe](https://github.com/seazon/FeedMe) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers 
@@ -348,6 +350,7 @@
 * [Dream](https://www.wombo.art/) - Dream Artwork Tools
 * [Photo Lab](https://ilixa.com/8bitphotolab.php) - Give Images a Retro Look 8Bit
 * [starryai](https://starryai.com/) - Generate Art from Text Prompt
+* [Inspiral](https://inspiral.nathanfriend.io/) - Create Spirograph Art
 * [Photo Resizer](https://play.google.com/store/apps/details?id=com.simplemobilephotoresizer&hl=en&gl=US) - Image Resizer
 * [Imagepipe](https://codeberg.org/Starfish/Imagepipe) - Image Size Reducer
 * [Upscaler](https://play.google.com/store/apps/details?id=com.ethanzone.upscaler&hl=en_US&gl=QA), [Pixelup](https://play.google.com/store/apps/details?id=com.codeway.pixelup), [MintAI](https://play.google.com/store/apps/details?id=com.mingkun.mintAI) or [Galaxy Enhance-X](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/galaxy-enhance-x/) - Image Upscalers
@@ -358,6 +361,7 @@
 * [ScreenshotFramer](https://play.google.com/store/apps/details?id=com.logicui.screenshotframer) or [SnapMod](https://play.google.com/store/apps/details?id=cn.gavinliu.snapmod) - Frame Screenshots
 * [QuiverVision](https://quivervision.com/) - Augmented Reality Coloring
 * [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix) - Combine Emojis
+* [RecordYou](https://github.com/Bnyro/RecordYou) - Video / Voice Recorder
 * [background video recorder](https://play.google.com/store/apps/details?id=com.camera.secretvideorecorder) - Record Videos in Background
 * [SmoothAction](https://play.google.com/store/apps/details?id=com.danielkorgel.SmoothActionCamSlowmo) - Slow Motion Video Recorder
 * [Nightsnap](https://t.me/nightsnap_for_android) - Snapchat Dark Mode
@@ -595,7 +599,7 @@
 * [Torrent Client](https://f-droid.org/en/packages/com.github.axet.torrentclient/) - [Screenshot](https://gitlab.com/axet/android-torrent-client#screenshots)
 * [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - [Screenshot](https://i.imgur.com/OrK3mLu.png)
 * [BiglyBT](https://android.biglybt.com/) - [Screenshot](https://i.imgur.com/WP7xwYK.png) 
-* [Trireme](https://github.com/teal77/trireme) - Deluge Client
+* [Trireme](https://github.com/teal77/trireme) or [Barrage](https://github.com/maulik9898/barrage) - Deluge Clients
 * [Transdroid](http://www.transdroid.org/) - Manage BitTorrent Clients / [F-Droid](https://f-droid.org/packages/org.transdroid.full/)
 * [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - NZB / Torrent Manager 
 * [TorrHunt](https://torrhunt.pages.dev/) or [TorrSE](https://seedboxs.me/) - Torrent Search
@@ -750,7 +754,7 @@
 # ► Android Streaming
 
 * ⭐ **[CloudStream](https://cloudstream.cf/)** - Movies / TV / Anime / Chromecast
-* ⭐ **CloudStream Tools** - [Guide](https://docs.cloudstream.cf/) / [Discord](https://discord.gg/5Hus6fM) / [Downloads](https://rentry.org/cs3/) / [Forks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cloudstream_forks) / [Trakt Addon](https://2ecbbd610840-trakt.baby-beamup.club/) / [Sora Addon](https://youtu.be/yDuXGAnFQuI)
+* ⭐ **CloudStream Tools** - [Guide](https://docs.cloudstream.cf/) / [Discord](https://discord.gg/5Hus6fM) / [Fork](https://github.com/Sarlay/SunStream)
 * ⭐ **[Stremio](https://www.stremio.com/)** - Torrent Streaming / [Addons](https://stremio-addons.netlify.app/) / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * ⭐ **[HDO Box](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=hdo+box&sf=titleonly)** - Movies / TV
 * ⭐ **[Syncler](https://syncler.net/)** - Movies / TV / [How-To](https://pastebin.com/VsiKV9rm) / [Providers](https://www.reddit.com/r/providers4syncler/)
@@ -795,8 +799,9 @@
 * [Great Courses Plus Premium](https://forum.mobilism.org/search.php?keywords=great+courses+plus&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - Courses
 * [Showly 2.0](https://github.com/michaldrabik/showly-2.0), [Cinexplore](https://fidloo.com/cinexplore/) or [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide/) - Movie / TV Tracker
 * [LikeWise](https://likewise.com/) - Media Recommendation App
+* [AnimePipe](https://github.com/InfinityLoop1308/AnimePipe) - Bilibili  / NicoNico Client
 * [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) or [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) - Bilibili Client
-* [NicoTap](https://play.google.com/store/apps/details?id=com.yurafuca.nicotap) - Nico Nico Client
+* [NicoTap](https://play.google.com/store/apps/details?id=com.yurafuca.nicotap) - NicoNico Client
 * [SubHub](https://github.com/FunkyMuse/SubHub) - Subtitle Downloader
 * [Tunity](https://tunity.com/) - Hear Any Muted TV
 * [Stick Around](https://play.google.com/store/apps/details?id=com.stickaround.app) - Check for Post Credit Scenes
@@ -965,10 +970,12 @@
 * [CocaoTop](https://github.com/D0m0/CocoaTop) - iOS Process Viewer
 * [iSH Shell](https://apps.apple.com/us/app/ish-shell/id1436902243) - Linux-like iOS Shell
 * [The OldOS Project](https://github.com/zzanehip/The-OldOS-Project) - iOS 4 Recreation
-* [Fantastical](https://apps.apple.com/app/fantastical-2-for-iphone/id718043190?ls=1) - Calendar & Tasks App
+* [Fantastical](https://apps.apple.com/app/fantastical-2-for-iphone/id718043190?ls=1) - Calendar / Tasks App
 * [NoMoreSmallApps](https://www.sparkdev.me/package/com.spark.nomoresmallapps) - Force App Full Screen / [Discord](https://discord.com/invite/tvvJfbD)
+* [Sigma](https://apps.apple.com/us/app/sigma-your-feeds-united/id1594702352) - Combine Social Media Apps
 * [InsightBrowser](https://insightbrowser.com/) - Browser
 * [Asobi](https://github.com/bdashore3/Asobi) - Browser
+* [Gear4](https://gear4.app/) - Browser
 * [Kagi](https://apps.apple.com/us/app/kagi/id1484498200) or [Orion](https://testflight.apple.com/join/DeC8ZDnu) - Browser w/ Firefox & Chrome Extension Support
 * [iRetro](https://apps.apple.com/us/app/iretro-the-internet-browser/id1015692776) - Browser w/ Wayback Machine
 * [Lights Off](https://testflight.apple.com/join/pj7BWqeJ) - iOS Safari Dark Mode
@@ -1011,7 +1018,8 @@
 * [Twitter++](https://iosninja.io/ipa-library/download-twitter-plus-plus-ipa-ios) - Tweaked Twitter App
 * [TikTok God](https://github.com/haoict/tiktok-god) - Tweaked TikTok App
 * [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - Test Internet Speed
-* [Resurfer](https://apps.apple.com/us/app/resurfer/id1489340046), [Orion](https://apps.apple.com/us/app/orion-for-reddit/id1536533779), [Narwhal](https://apps.apple.com/us/app/narwhal-for-reddit/id845422455), [Reno](https://apps.apple.com/us/app/reno-for-reddit/id1489831590#?platform=iphone) or [BaconReader](https://baconreader.com/) - Reddit Client
+* [Resurfer](https://apps.apple.com/us/app/resurfer/id1489340046), [Orion](https://apps.apple.com/us/app/orion-for-reddit/id1536533779), [Narwhal](https://apps.apple.com/us/app/narwhal-for-reddit/id845422455), [Reno](https://apps.apple.com/us/app/reno-for-reddit/id1489831590#?platform=iphone), [Pulsr](https://pulsr.app/) or [BaconReader](https://baconreader.com/) - Reddit Clients
+* [LollyBot](https://gkevin.net/lollybot/index.html) - Reddit Client for Apple Watches
 * [Remmel](https://apps.apple.com/us/app/remmel-for-lemmy/id1547988171) - Lemmy Client
 * [Jitsi](https://jitsi.org/) - Video Chat
 * [Meshenger](https://github.com/meshenger-app/meshenger-android) or [Mumla](https://gitlab.com/quite/mumla) - Voice Chat
