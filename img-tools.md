@@ -95,7 +95,7 @@
 ## ▷ Restoration
 
 * [FenoPhoto](https://www.fenophoto.com/) or [PhotoRestore](https://www.photorestore.io/) - Image Restoration Tools
-* [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithm
+* [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) / [2](https://replicate.com/nightmareai/real-esrgan) - Image Restoration Algorithm
 * [Colorize Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_colorization) - Image Colorization Tools
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime Image Colorization
 * [GPEN-Colab](https://github.com/bycloudai/GPEN-colab), [Photo Face Restorer](https://www.restorephotos.io/) or [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Restoration / Colorization Tool
@@ -141,8 +141,7 @@
 * [MandalaGaba](https://www.mandalagaba.com/) / [Pro Version](https://pro.mandalagaba.com/), [Mandala App](https://mandala-app.com/) or [DigitalDoily](https://codymoose.github.io/web-applications/DigitalDoily/index.html) - Zen Geometry Tool
 * [Silk](http://weavesilk.com/) - Create Geometric Silk Art
 * [Turtle](https://play.google.com/store/apps/details?id=com.amrdeveloper.turtle) - Create Shapes 
-* [Inspirograph](https://nathanfriend.io/inspirograph/) - Inspirograph Tool
-* [SpirographN](http://seedcode.com/SpirographN/sgn.html) - Spirograph Tool
+* [Inspirograph](https://nathanfriend.io/inspiral-web/) or [SpirographN](http://seedcode.com/SpirographN/sgn.html) - Spirograph Tool
 * [myMrLx](https://codepen.io/davidpanik/full/myMrLx/) - Spiral Art Generators
 * [Paper Quilling Art](https://pissang.github.io/paper-quilling-art/) - Paper Quilling Art Generator
 * [Brown](https://fi-le.net/brown/) - Brownian Motion Tool
@@ -309,7 +308,7 @@
 * [Mage](https://www.mage.space/)
 * [DALL·E Flow](https://github.com/jina-ai/dalle-flow) / [Colab](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb) / [CLI](https://github.com/raiyanyahya/dallecli)
 * [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot)
-* [Midjourney](https://www.midjourney.com/) / [Guide](https://marigoldguide.notion.site/marigoldguide/Visual-Guide-to-Midjourney-settings-using-mostly-Astronauts-2ae1d8bb125f46e2be9886119c36ecf0)
+* [Midjourney](https://www.midjourney.com/) / [Guide](https://marigoldguide.notion.site/marigoldguide/Visual-Guide-to-Midjourney-settings-using-mostly-Astronauts-2ae1d8bb125f46e2be9886119c36ecf0) / [Cheatsheet](https://arjenharris.notion.site/arjenharris/Midjourney-Cheat-Sheet-271922c6869549898ead33eaf79517fa)
 * [Dezgo](https://dezgo.com/)
 * [aiimag.es](https://sunija.itch.io/aiimages)
 * [CR8](https://cr8.art/)
@@ -371,6 +370,7 @@
 * [PixelJoint](https://pixeljoint.com/) - Pixel Art
 * [PimpMyDrawing](https://pimpmydrawing.com/) - Human Silhouettes
 * [OldBookIllustrations](https://www.oldbookillustrations.com/) - Illustrations from Old Books
+* [Plant Illustrations](http://www.plantillustrations.org/) - Plant Illustrations
 * [HyperCard](http://archives.somnolescent.net/web/hypercard/) - Mac HyperCard Art
 * [Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Movie / TV Covers & Posters
 * [Film.ai](https://beta.flim.ai/) or [Film Grab](https://film-grab.com/) - Movie Screenshots
@@ -624,6 +624,7 @@
 * [anidraw](https://www.anidraw.net/?m=1) - Anime Drawing Tutorials
 * [Settei Dreams](https://setteidreams.net/) - Anime Production Materials
 * [Anime Study General](https://discord.gg/3bwdfRk) - Anime Production Community
+* [AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch) - Anime Machine Learning
 * [Photoshop Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photoshop_courses) - Photoshop Course Drive
 * [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - Photoshop Tutorials
 * [DomDesigns](https://www.youtube.com/c/DomDesigns/) - Illustrator Tutorials
