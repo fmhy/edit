@@ -302,6 +302,7 @@
 * [FileEagle](https://www.fileeagle.com/)
 * [Download.io](https://www.download.io)
 * [ValleySoftware](https://valleysoftware.com.au/)
+* [Sttmedia](https://www.sttmedia.com/)
 * [IcecreamApps](https://icecreamapps.com/)
 * [PRVSoft](https://www.prvsoft.com/)
 * [WorkinTool](https://www.workintool.com/)
@@ -390,7 +391,7 @@
 
 ## ▷ Providers
 
-* ⭐ **[Nero's Black Book](https://nerosbb.com/index.php)** or [/r/usenet Providers](https://www.reddit.com/r/usenet/wiki/providers) - Provider Lists
+* ⭐ **[Nero's Black Book](https://nerosbb.com/)** or [/r/usenet Providers](https://www.reddit.com/r/usenet/wiki/providers) - Provider Lists
 * [usenetmax](https://www.usenetmax.com/)
 * [xsusenet](https://xsusenet.com/)
 * [usenet.farm](https://usenet.farm/#trial)
