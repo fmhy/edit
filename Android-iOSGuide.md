@@ -194,13 +194,14 @@
 * [LavSeeker](https://f-droid.org/en/packages/org.woheller69.lavatories/) - Public Toilet Map
 * [Transportr](https://transportr.app/) - Public Transport Assistant
 * [AntennaSearch](http://www.antennasearch.com/) - Cell Tower / Antenna Search
-* [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Health App
+* [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron) or [BatteryGuru](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_battery_guru) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Monitors
 * [BatteryChargeLimiter](https://github.com/MuntashirAkon/BatteryChargeLimiter) - Charging Control
 * [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - Save Battery by Turning Off Pixels
 * [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro) - View System Information
 * [ConnectYou](https://github.com/Bnyro/ConnectYou) - Contacts App
 * [AllMyContact](https://allmycontact.info/) - Contact Info QR Codes
-* [OpenCalc](https://github.com/Darkempire78/OpenCalc) - Calculator
+* [OpenCalc](https://github.com/Darkempire78/OpenCalc) or [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator) - Calculators
+* [TapeCalc](https://play.google.com/store/apps/details?id=com.browndwarf.tapecalc) - Tax Calculator
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - Note Taking Apps
 * [Serenity Notes](https://www.serenity.re/en/notes) - Collaborative Notes
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
@@ -260,6 +261,7 @@
 * [UnicodePad](https://github.com/Ryosuke839/UnicodePad) or [Kaomoji](https://play.google.com/store/apps/details?id=ru.kaomoji.kaomojiapp) - Emoji / Unicode Manager
 * [Clipboarded](https://f-droid.org/en/packages/com.trianguloy.clipboardeditor/) or [Clipboard History](https://play.google.com/store/apps/details?id=com.rubbishcollector.clipboardhistory) - Clipboard Managers
 * [PINCredible](https://github.com/cyb3rko/pincredible) - PIN Manager
+* [Loyalty Card Locker](https://github.com/brarcher/loyalty-card-locker) - Loyalty Card Manager
 * [Grammarly](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_grammarly_keyboard_premium) - Grammarly Keyboard Premium 
 * [WiFiman](https://play.google.com/store/apps/details?id=com.ubnt.usurvey) - Network Scanner
 * [Fing](https://www.fing.com/products/fing-app) - Network Toolkit
@@ -353,7 +355,7 @@
 * [Inspiral](https://inspiral.nathanfriend.io/) - Create Spirograph Art
 * [Photo Resizer](https://play.google.com/store/apps/details?id=com.simplemobilephotoresizer&hl=en&gl=US) - Image Resizer
 * [Imagepipe](https://codeberg.org/Starfish/Imagepipe) - Image Size Reducer
-* [Upscaler](https://play.google.com/store/apps/details?id=com.ethanzone.upscaler&hl=en_US&gl=QA), [Pixelup](https://play.google.com/store/apps/details?id=com.codeway.pixelup), [MintAI](https://play.google.com/store/apps/details?id=com.mingkun.mintAI) or [Galaxy Enhance-X](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/galaxy-enhance-x/) - Image Upscalers
+* [Upscaler](https://play.google.com/store/apps/details?id=com.ethanzone.upscaler&hl=en_US&gl=QA), [Pixelup](https://play.google.com/store/apps/details?id=com.codeway.pixelup), [MintAI](https://play.google.com/store/apps/details?id=com.mingkun.mintAI), [SuperImage](https://github.com/Lucchetto/SuperImage) or [Galaxy Enhance-X](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/galaxy-enhance-x/) - Image Upscalers
 * [LosesslessJpgCrop](https://github.com/k3b/LosslessJpgCrop) - Lossless Image Cropper
 * [Image Searcher](https://play.google.com/store/apps/details?id=sansunsen3.imagesearcher) - Image Search App
 * [AppMockUp](https://app-mockup.com/) - Screenshot Builder
@@ -408,6 +410,7 @@
 * [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
 * [Dumpster](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dumpster) - File Recovery Tool
 * [Aethersx2](https://www.aethersx2.com/archive/) - File Directory Lister
+* [ZeeArchiver-Android](https://github.com/mahmoudgalal/ZeeArchiver-Android) - Unzip / Compress Files
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - Download / Torrent Manager 
 * [Vysor](https://www.vysor.io/), [scrcpy](https://github.com/Genymobile/scrcpy), [WebADB](https://app.webadb.com/) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/), [2](https://github.com/Tomotoes/scrcpy-gui)
 * [AVNC](https://github.com/gujjwal00/avnc) - Remote Desktop Client for Android
@@ -471,6 +474,7 @@
 * [GeorgieLabs](https://georgielabs.net/) - Use Phone as Wireless Speaker / Headphone Port
 * [WO Mic](https://wolicheng.com/womic/) - Use Phone as Mic
 * [Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) or [FlashDim](https://github.com/cyb3rko/flashdim) - Adjust Flashlight Brightness
+* [Trail Sense](https://github.com/kylecorry31/Trail-Sense) - Wilderness Survival App
 * [GGMorse](https://github.com/ggerganov/ggmorse) - Morse Code Decoding App
 * [SensorServer](https://github.com/umer0586/SensorServer) - Use Phone as Accelerometer
 * [Haven](https://guardianproject.github.io/haven/) - Motion Detector
@@ -760,7 +764,7 @@
 * ⭐ **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - Ad-Free YouTube on Android
 * ⭐ **[LibreTube](https://github.com/libre-tube/libretube)** or [Hyperion](https://github.com/zt64/Hyperion) - Youtube Frontend
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp&gl=US)**, [DMS](https://github.com/anacrolix/dms), [Macast](https://github.com/xfangfang/Macast) or [Cinema Box](https://www.cinema-box.co.uk/) - Media Servers / Chromecast
-* ⭐ **[Just Player](https://github.com/moneytoo/Player)**, [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [YetAnotherVideoPlayer](https://github.com/shadow578/YetAnotherVideoPlayer), [Nova Video Player](https://github.com/nova-video-player), [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata), [ExoPlayer](https://github.com/google/ExoPlayer) or [MX Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mx_player) / [Codec](https://github.com/USBhost/MX_FFmpeg) - Video Players
+* ⭐ **[Just Player](https://github.com/moneytoo/Player)**, [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [YetAnotherVideoPlayer](https://github.com/shadow578/YetAnotherVideoPlayer), [Nova Video Player](https://github.com/nova-video-player), [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata), [ExoPlayer](https://github.com/google/ExoPlayer), [Aos AVP](https://github.com/nova-video-player/aos-AVP) or [MX Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mx_player) / [Codec](https://github.com/USBhost/MX_FFmpeg) - Video Players
 * ⭐ **[Android Smart TV Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_smart_tv_.2F_firestick)** - Smart TV / Firestick Apps
 * [Movie HD](https://moviehdapkdownload.com/moviehd-apk/) - Movies / TV / Chromecast
 * [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - Movies / TV / Anime 
@@ -800,7 +804,7 @@
 * [AnimePipe](https://github.com/InfinityLoop1308/AnimePipe) - Bilibili  / NicoNico Client
 * [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) or [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) - Bilibili Client
 * [NicoTap](https://play.google.com/store/apps/details?id=com.yurafuca.nicotap) - NicoNico Client
-* [SubHub](https://github.com/FunkyMuse/SubHub) - Subtitle Downloader
+* [SubHub](https://github.com/FunkyMuse/SubHub) or [Guenmat](https://play.google.com/store/apps/details?id=com.guenmat.android.subtitles) - Subtitle Downloaders
 * [Tunity](https://tunity.com/) - Hear Any Muted TV
 * [Stick Around](https://play.google.com/store/apps/details?id=com.stickaround.app) - Check for Post Credit Scenes
 * [tv-bro](https://github.com/truefedex/tv-bro) - TV Remote Browser
@@ -921,7 +925,7 @@
 * [Tweebot 6](https://apps.apple.com/us/app/tweetbot-6-for-twitter/id1527500834) - Ad-Free Twitter
 * [Should I Answer?](http://www.shouldianswer.net/) or [Hiya](https://www.hiya.com/) - Block Spam Calls
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls 
-* [Slide](https://apps.apple.com/us/app/slide-for-reddit/id1260626828), [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) or [Apollo](https://apps.apple.com/us/app/apollo-for-reddit/id979274575) - Ad Free Reddit Client
+* [Slide](https://apps.apple.com/us/app/slide-for-reddit/id1260626828), [Comet](https://apps.apple.com/us/app/comet-for-reddit/id1146204813) or [Apollo](https://apps.apple.com/us/app/apollo-for-reddit/id979274575) - Ad Free Reddit Clients
 
 ***
 
@@ -950,7 +954,7 @@
 * ⭐ **[Hyperweb](https://hyperweb.app/)** - iOS Safari Improvement + Adblock Extension
 * ⭐ **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites / Apps
 * [Waltr](https://softorino.com/waltr/) - Convert Files to iOS Formats
-* [Filza](http://cydia.saurik.com/package/com.tigisoftware.filza/) or [Santander](https://github.com/SerenaKit/Santander) - File Managers
+* [Filza](http://cydia.saurik.com/package/com.tigisoftware.filza/), [FGet](https://apps.apple.com/us/app/fget-file-manager-browser/id1582654012) or [Santander](https://github.com/SerenaKit/Santander) - File Managers
 * [Dropbox Premium](https://testflight.apple.com/join/LBZaRq4I) - Cloud Storage
 * [iEmulators](https://iemulators.com/) - Emulator Apps
 * [HappyChick](http://www.happychick.hk/download.html) or [8090Games](https://apps.apple.com/us/app/8090games/id1514980629) - Game Emulators
@@ -1001,6 +1005,7 @@
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
 * [CapCut](https://www.capcut.net/) - Video Editor
+* [FFMPEG Operations](https://github.com/SimformSolutionsPvtLtd/SSffmpegVideoOperation) - Video Encoder
 * [PhotoSync](https://www.photosync-app.com/home.html) - Transfer Photos Between Devices
 * [PicsArt++](https://cokernutx.com/ipa-library/download/PicsArt.html), [2](https://picsart.com/apps) or [PhotoWizard](https://apps.apple.com/us/app/photowizard-photo-editor/id370833324) - Image Editor
 * [Tailor](http://www.trytailor.com/) - Automatic Screenshot Stitching
@@ -1016,7 +1021,7 @@
 * [Twitter++](https://iosninja.io/ipa-library/download-twitter-plus-plus-ipa-ios) - Tweaked Twitter App
 * [TikTok God](https://github.com/haoict/tiktok-god) - Tweaked TikTok App
 * [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - Test Internet Speed
-* [Resurfer](https://apps.apple.com/us/app/resurfer/id1489340046), [Orion](https://apps.apple.com/us/app/orion-for-reddit/id1536533779), [Narwhal](https://apps.apple.com/us/app/narwhal-for-reddit/id845422455), [Reno](https://apps.apple.com/us/app/reno-for-reddit/id1489831590#?platform=iphone), [Pulsr](https://pulsr.app/) or [BaconReader](https://baconreader.com/) - Reddit Clients
+* [Resurfer](https://apps.apple.com/us/app/resurfer/id1489340046), [Orion](https://apps.apple.com/us/app/orion-for-reddit/id1536533779), [Narwhal](https://apps.apple.com/us/app/narwhal-for-reddit/id845422455), [Reno](https://apps.apple.com/us/app/reno-for-reddit/id1489831590#?platform=iphone), [Pulsr](https://pulsr.app/), [Karma](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) or [BaconReader](https://baconreader.com/) - Reddit Clients
 * [LollyBot](https://gkevin.net/lollybot/index.html) - Reddit Client for Apple Watches
 * [Remmel](https://apps.apple.com/us/app/remmel-for-lemmy/id1547988171) - Lemmy Client
 * [Jitsi](https://jitsi.org/) - Video Chat
@@ -1180,7 +1185,7 @@
 * [EncoreTVD](https://apps.apple.com/us/app/encoretvb-english/id1191642382) - Chinese Drama
 * [RSS Player](https://apps.apple.com/us/app/rss-video-player/id885311320) - KDrama / [Feed](http://allrss.se/dramas), [2](http://myrss.nu/drama)
 * [Wako-TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - Movies / TV / Anime / Real Debrid required
-* [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962) or [‎Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Player
+* [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962) or [‎Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
 * [YT Tweaked](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_yt_tweaked_ipas), [Better Cercube](https://appdb.to/app/cydia/1900000823), [uYou+](https://appdb.to/app/cydia/1900000830) / [Discord](https://discord.gg/yXGVJptcaF) or [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPA / [Reddit Post](https://redd.it/olsxri)
 * [Yattee](https://github.com/yattee/yattee) - YouTube Frontend
 * [Block iPhone YouTube Ads](https://redd.it/xg5jkn) - How-to Block YouTube Ads
