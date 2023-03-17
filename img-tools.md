@@ -137,7 +137,6 @@
 * [dream](https://app.wombo.art/) - Dream Art Generator
 * [Uji](https://doersino.github.io/uji/) or [Turtletoy](https://turtletoy.net/) - Minimalist Art Generators
 * [Mosaic](https://github.com/Roman-/mosaic) - Rubik's Cube Mosaic Generator
-* [Tabbied](https://tabbied.com/) or [Slopes](https://tinkersynth.com/slopes/) - Art Pattern Generators
 * [MandalaGaba](https://www.mandalagaba.com/) / [Pro Version](https://pro.mandalagaba.com/), [Mandala App](https://mandala-app.com/) or [DigitalDoily](https://codymoose.github.io/web-applications/DigitalDoily/index.html) - Zen Geometry Tool
 * [Silk](http://weavesilk.com/) - Create Geometric Silk Art
 * [Turtle](https://play.google.com/store/apps/details?id=com.amrdeveloper.turtle) - Create Shapes 
@@ -148,6 +147,9 @@
 * [Mondrian And Me](https://mondrianandme.com/) - Mondrian Art Creator
 * [Periodicity](https://williamhoza.com/periodicity/) - Harmonic Motion Patterns
 * [Cubes.io](http://cubes.io/) - Cellular Automata
+* [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [Valentina](https://gitlab.com/smart-pattern/valentina) or [Haikei](https://app.haikei.app/) - Pattern Generators
+* [Hide.Lizz](https://hide.lizz.website/) - Camouflage Pattern Generator
+* [Tabbied](https://tabbied.com/) or [Slopes](https://tinkersynth.com/slopes/) - Art Pattern Generators
 * [05x5](https://csh.bz/line/05x5.html) - Rainbow Pattern Generator
 * [overwhale](http://overwhale.com/) - Fractal Image Generators
 * [PEmbroider](https://github.com/CreativeInquiry/PEmbroider) - Embroidery Generator
@@ -156,7 +158,6 @@
 * [PhotoEphemeris](https://photoephemeris.com/) - Photography Sunlight Calculator
 * [Side It](https://sideit.app/) - Side by Side Image Generator
 * [SuperDesigner](https://superdesigner.co/) - Background / Pattern Designer
-* [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [Valentina](https://gitlab.com/smart-pattern/valentina) or [Haikei](https://app.haikei.app/) - Pattern Generator
 * [Noise & Gradient](https://www.noiseandgradient.com/), [BGJar](https://bgjar.com/), [MeshGradient](https://meshgradient.in/) or [BGGenerator](https://bggenerator.com/) - Background / Gradient Generators
 * [stripegenerator](http://www.stripegenerator.com/) - Stripe Generator 
 * [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
@@ -585,7 +586,7 @@
 * [GeoEstimation](https://labs.tib.eu/geoestimation) - Estimate Image Geolocation 
 * [Image Identification Project](https://www.imageidentify.com/) - Image Identification Tool
 * [CryptoStego](https://github.com/zeruniverse/CryptoStego), [StegOnline](https://stegonline.georgeom.net/image), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [Steganography-PNG](https://pedrooaugusto.github.io/steganography-png/) / [GitHub](https://github.com/pedrooaugusto/steganography-png), [ImSter](https://github.com/armytricks/ImSter) or [stegpy](https://github.com/dhsdshdhk/stegpy) - Embed & Extract Hidden Data in Images / Steganography 
-* [Aperisolve](https://aperisolve.fr/) - Steganography Analysis Tool
+* [Aperisolve](https://aperisolve.fr/), [2](https://www.aperisolve.com/) - Steganography Analysis Tool
 * [Unredacter](https://github.com/BishopFox/unredacter) - Crack Pixelated Images 
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/)- Blur Images / Scrub Metadata
 * [Schizoware](https://sourceforge.net/projects/schizoware/) - Image Name / Hash Randomizer
