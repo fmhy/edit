@@ -329,7 +329,6 @@
 * [Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/), [2](https://github.com/inputsh/awesome-linux), [3](https://github.com/crackerica/Awesome-Linux-Software)
 * [Flathub](https://flathub.org/)
 * [ArchLinux](https://wiki.archlinux.org/title/List_of_applications)
-* [App Outlet](https://app-outlet.github.io/)
 * [SnapCraft](https://snapcraft.io/store)
 * [Linux Apps](https://www.linux-apps.com/)
 * [tlanyan](https://tlanyan.me/)
