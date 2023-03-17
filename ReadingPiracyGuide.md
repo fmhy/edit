@@ -844,6 +844,7 @@
 * [KidsGen](https://www.kidsgen.com/comics/)
 * [DC Universe Infinite](https://www.dcuniverseinfinite.com/collections/free-to-read-row) - Free DC Comics
 * [Marvel.com](https://www.marvel.com/comics/list/623/get_started_with_free_issues?&options%5Boffset%5D=0&totalcount=76) - Free Marvel Comics
+* [British Comics](https://britishcomics.wordpress.com/) - Classic British Comics
 * [Comic Museum](https://digitalcomicmuseum.com/index.php) - Golden Age Comics
 * [GoComics](https://www.gocomics.com/) - Comics Strips
 * [Comics Kingdom](https://comicskingdom.com/) - Comics Strips
@@ -1159,6 +1160,7 @@
 * [newspaper_archive](https://t.me/newspaper_archive) - Telegram
 * [dailynewspaper88](https://t.me/dailynewspaper88) - Telegram
 * [Chronicling America](https://chroniclingamerica.loc.gov/newspapers/)
+* [Kiosko](https://en.kiosko.net/)
 * [Newspapers com](https://newspapers.com/)
 * [ThoughtCo](https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215)
 * [Library of Congress Newspapers](https://www.loc.gov/rr/news/oltitles.html)
