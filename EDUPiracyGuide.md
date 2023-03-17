@@ -591,6 +591,7 @@ Simulator
 
 * ⭐ **[Awesome-Lang](https://github.com/oyd11/awesome-lang)**, [Many Things](http://www.manythings.org/) or [Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8) - Language Learning Resources 
 * ⭐ **[Languages & Linguistics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_languages_.26amp.3B_linguistics)** or [EnglishBooks](http://englishbooks.com.tw/primary/) - Language Learning Books
+* ⭐ **[Language Reactor](https://www.languagereactor.com/)** - Learn Languages via Media
 * [Speechling](https://speechling.com/tools) - Language Learning Tools
 * [Ba Ba Dum](https://babadum.com/) - Language Learning Game
 * [ListLang](https://www.listlang.com/) - Most Used Words in Any Language
@@ -630,6 +631,7 @@ Simulator
 * [TheMoeWay](https://learnjapanese.moe/) / [Discord](https://discord.gg/nhqjydaR8j), [Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/), [NativShark](https://www.nativshark.com/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
+* [jidoujisho](https://github.com/lrorpilla/jidoujisho) - Learn Japanese via Books
 * [LearnNatively](https://learnnatively.com/) - Learn Japanese with Books
 * [Memento](https://github.com/ripose-jp/Memento) - Japanese Learning Video Player
 * [JapaneseWithAnime](https://www.japanesewithanime.com/) - Learn Japanese with Anime
