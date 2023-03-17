@@ -88,7 +88,6 @@
 * [AllBooksWorld](https://allbooksworld.com/)  - Books
 * [The Library](https://discord.gg/cgSVDUwZs9) - Books
 * [Only Books](https://onlybooks.org/) - Books
-* [nymeriatv](https://nymeriatv.com/Epub/) - Books
 * [Ocean of EPUB](https://oceanofepub.com/) - Books / Manga
 * [PDFGet](http://pdfget.com/) - Books
 * [LetMeRead](https://www.letmeread.net/) - Books
@@ -163,7 +162,7 @@
 * [Ebooks Searcher](https://ebook-searcher.com/) - Multi-Site Book Search 
 * [Weird Old Book Finder](https://weird-old-book-finder.glitch.me/) - Find Old Books
 * [FreeBooksSifter](https://www.freebooksifter.com/) - Free Amazon Books
-* [HundredZeros](http://hundredzeros.com/) or [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Books 
+* [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Books 
 * [Wikibooks](https://www.wikibooks.org/) - Wikimedia community
 * [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - ZeroNet Required
 * [Avxhm](https://avxhm.se/), [2](https://avxhm.is/) - [Leech Required](https://leechall.com/)
@@ -376,7 +375,6 @@
 * [Red Texts](https://redtexts.org/) - Communism
 * [Third World Traveler](https://thirdworldtraveler.com/) - Human Rights / Conspiracies / Anti-War
 * [China-Dictatorship](https://github.com/cirosantilli/china-dictatorship) - Anti-Chinese Authoritarianism
-* [chadnet](https://wiki.chadnet.org/) - Conspiracies
 * [Rookie Road]( https://www.rookieroad.com/) - Sport Guides
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
 
