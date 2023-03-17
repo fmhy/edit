@@ -11,7 +11,7 @@
 
 # ► Indexes
 
-* ⭐ **[FMHY Guides](https://www.fmhy.ml/guides)**, [2](https://fmhy.tk/guides), [3](https://freemediaheckyeah.ml/guides) or [Mega Rentry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mega_rentry) - List of Guides
+* ⭐ **[FMHY Guides](https://www.fmhy.ml/guides)** or [Mega Rentry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mega_rentry) - List of Guides
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
 * ⭐ **[/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/index)**, [2](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki), [3](https://raddle.me/f/Piracy), [4](https://www.saidit.net/s/piracy/) - Piracy Index
 * ⭐ **[/r/PiratedGames Megathread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Gaming Piracy Site Index / [Discord](https://discord.gg/dZWwhUy)
@@ -21,7 +21,7 @@
 * ⭐ **[PiratezParty](https://github.com/SpamVerse/Piratezparty)** - Piracy Index / [Telegram](https://t.me/piratezparty)
 * ⭐ **[Esoterica Avenue](https://ori5000.github.io/)** - Piracy Index / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * ⭐ **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR)** - Site / Tool Index
-* ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** or [/r/Stumbledon](https://www.reddit.com/r/Stumbledon/) - Helpful / Fun Sites
+* ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
 * ⭐ **[Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)**, [2](https://github.com/Igglybuff/awesome-piracy), [3](https://archive.is/Z1tTr), [4](https://rentry.org/verycompletelistofpiratesites), [5](https://github.com/Tosoju/awesome-piracy) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
 * ⭐ **[WebOas.is](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) - Startpage / Site Index / [Source Code](https://pastebin.com/CczqreS4) / [Archive](https://rentry.co/e9y6b) / [FAQ](https://bin.disroot.org/?6a50fab15330b762#7VwnxM9Jsvp8wWmW6eFmmxyXppWVjErn4CMgd8wii9pC)
 * ⭐ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
@@ -145,7 +145,6 @@
 * [Fileforums](https://fileforums.com/) - Gaming / Emulator / Data Compression Discussion
 * [Pirate Haven](https://pirate-haven.github.io/) - Guides / Discussion / [Discord](https://discord.gg/JWqrdfN9Y8)
 * [Gamesurge](https://gamesurge.net/) - Gaming IRC Community
-* [GenP](https://www.reddit.com/r/GenP) - Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)
 * [Torrent Community](https://t.me/TorrentCommunity) - Telegram
 * [Archive Team](https://wiki.archiveteam.org/) - Data Archiving Community / [Subreddit](https://www.reddit.com/r/Archiveteam/)
 * [Gnutella Forums](https://www.gnutellaforums.com/) - File Sharing App Forums
@@ -160,14 +159,13 @@
 # ► Free Stuff
 
 * ⭐ **[Give & Away](https://discord.gg/b4uTmX5PVq)** - Giveaway Server
-* [Unlimited Trials](https://rentry.co/unlimited-trials) - Unlimited Free Trials Guide
-* [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
+* ⭐ **[Free Packages](https://steamdb.info/freepackages/)** - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
+* ⭐ **[Unlimited Trials](https://rentry.co/unlimited-trials)** - Unlimited Free Trials Guide
+* ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/#/filter:&price/0/0)** - Games
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) or [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Auto-Claim Free Epic Games
-* [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [SteamGifts](https://www.steamgifts.com/) / [Auto Join](https://chrome.google.com/webstore/detail/autojoin-for-steamgifts/bchhlccjhoedhhegglilngpbnldfcidc?hl=en), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - Steam Games 
-* [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997) - Steam Mods
+* [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [SteamGifts](https://www.steamgifts.com/) / [Auto Join](https://chrome.google.com/webstore/detail/autojoin-for-steamgifts/bchhlccjhoedhhegglilngpbnldfcidc?hl=en), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - Steam Games
 * [Games Free Today](https://gamesfree.today/) - Games
 * [FreeGames.codes](https://freegames.codes/) - Games / [Android](http://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes)
-* [IsThereAnyDeal](https://isthereanydeal.com/#/filter:&price/0/0) - Games
 * [IndieGala](https://freebies.indiegala.com/) - Games
 * [/r/freegames](https://www.reddit.com/r/freegames/) - Games
 * [/r/RandomActsOfGaming](https://www.reddit.com/r/RandomActsOfGaming/) - Games
@@ -175,6 +173,7 @@
 * [ClaimFreeGames](https://claimfreegames.com/) - Games
 * [GrabFreeGames](https://grabfreegames.com/) - Games
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - Games
+* [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997) - Steam Mods
 * [Tick Coupon](https://giveaway.tickcoupon.com/windows-giveaway/) - Software
 * [Techno360](https://www.techno360.in/category/free-stuff/) - Software
 * [WinningPC](https://winningpc.com/) - Software
@@ -212,14 +211,15 @@
 # ► Shopping
 
 * ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), [/r/buildapc](https://reddit.com/r/buildapc) / [Discord](https://discord.gg/TmNgXbwrqJ), [Build Redux](https://buildredux.com/), [CGDirector](https://www.cgdirector.com/pc-builder/) or [NZXTBld](https://www.letsbld.com/) - PC Building Sites / [Discord](https://discord.gg/buildapc)
-* ⭐ **[GG.deals](https://gg.deals/)**, [AllKeyShop](https://www.allkeyshop.com/blog/) or [PSPrices](https://psprices.com/) - Game Price Trackers
+* ⭐ **[GG.deals](https://gg.deals/)**, **[IsThereAnyDeal](https://isthereanydeal.com/)**, **[SteamDB](https://steamdb.info/sales/)**, [AllKeyShop](https://www.allkeyshop.com/blog/) or [PSPrices](https://psprices.com/) - Game Price Trackers
+* - Games
 * ⭐ **[Reddit Favorites](https://redditfavorites.com/)**, [NanoReview](https://nanoreview.net/en), [rtings](https://www.rtings.com/), [Kit.co](https://kit.co/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product / Service Reviews
+* [Technical City](https://technical.city/) or [Techspecs](https://techspecs.io/) - Hardware Comparisons
 * [/r/PCMasterrace Wiki](https://www.reddit.com/r/pcmasterrace/wiki/builds/), [/r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [Logical Increments](https://www.logicalincrements.com/) - PC Building Guides / [Video](https://youtu.be/BL4DCEp7blY)
 * [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
 * [/r/SuggestAPC](https://reddit.com/r/SuggestAPC)  - PC Suggestion Community
 * [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Laptop Deals](https://laptopsdeals.net/our-gaming-laptops-guide-list/), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
 * [Laptop Knowledge Database](https://laptops.miraheze.org/wiki/Main_Page) or [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Databases
-* [Technical City](https://technical.city/) - Hardware Comparisions
 * [NoteBenchcheck](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html) - GPU / CPU Benchmarks
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
 * [NewMaxx's SSD Site](https://ssd.borecraft.com/) - SSD Buying Guide
@@ -239,7 +239,6 @@
 * [carsized](https://www.carsized.com/) - Vehicle Size Comparisons
 * [CamelCamelCamel](https://camelcamelcamel.com/) or [Keepa](https://keepa.com/) - Amazon Price Tracker / [App](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno)
 * [Randomicle](https://randomicle.com/) - Random Amazon Products
-* [FairGame](https://github.com/Hari-Nagarajan/fairgame) - Automatically Place Orders on Amazon
 * [Facebook Ad Library](https://www.facebook.com/ads/library/) - Find Deals via Facebook Ad Search
 * [EpicGamesDC](https://epicgamesdb.info/) - Epic Store Price Tracker
 * [DekuDeals](https://www.dekudeals.com/) or [NTDeals](https://ntdeals.net/) - Switch Game Price Trackers
@@ -256,12 +255,11 @@
 * [Craftie](https://www.craftle.app/) - Furniture Price Calculator
 * [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
 * [DiaperGrid](https://diapergrid.com/) - Diaper Price Tracker
-* [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
 * [Search Ebay Sold](https://chrome.google.com/webstore/detail/search-ebay-sold/mhlcjbhhieanjjafbcoeclghpnjhepif) - Ebay Sold Item Search
 * [Type Hound](https://typohound.com/) - Ebay Typo Search
 * [Valuta EX](https://valuta.exchange/)  or [Currency World](https://currency.world/)- Currency Converters / [Firefox](https://addons.mozilla.org/en-US/firefox/search/?q=currency%20converter&sort=relevance&type=extension) / [Chrome](https://chrome.google.com/webstore/search/currency%20converter?hl=en&_category=extensions)
 * [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
-* [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wishlist Creators
+* [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wish-list Creators
 * [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Wii Shop Music on Shopping Sites
 
 ***
@@ -272,6 +270,7 @@
 * ⭐ **[Random Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_sites)** - Random Site Generators
 * ⭐ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_image_sites)** - Random Image Sites / Some NSFW
 * ⭐ **[KnowYourMeme](https://knowyourmeme.com/)** or [FndThatMeme](https://findthatmeme.com/) - Meme Databases
+* ⭐ **[Copypasta Text](https://copypastatext.com/)** - Copypasta Database
 * ⭐ **[Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_browser_games)** - Browser Game Sites
 * ⭐ **[Painting / Drawing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_painting_.2F_drawing)** - Painting / Drawing Tools
 * ⭐ **[Iceberg Charts](https://icebergcharts.com/)** - Explore Obscure Topics / [/r/IcebergCharts](https://www.reddit.com/r/IcebergCharts/)
@@ -282,13 +281,12 @@
 * ⭐ **[Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_virtual_tours)** - Virtual Tours / Travel Simulators
 * ⭐ **[Live Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)** - Watch Live Webcams
 * ⭐ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_conversational_chatbots)** - Chat with AI
-* ⭐ **[LetMeGoogleThat](https://letmegooglethat.com/)** or [GIYBF](http://giybf.com/) - Remind People that Google Exists
-* ⭐ **[The GIF Pronunciation Page](http://www.olsenhome.com/gif/)** - How to Pronouce "GIF"
+* [LetMeGoogleThat](https://letmegooglethat.com/) or [GIYBF](http://giybf.com/) - Remind People that Google Exists
+* [The GIF Pronunciation Page](http://www.olsenhome.com/gif/) - How to Pronouce "GIF"
 * [GIFs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_gif_tools) - View / Download GIFs
 * [wtf.rentry](https://wtf.rentry.co/) or [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
 * [ThisXDoesNotExist](https://thisxdoesnotexist.com/) - Realistic-Looking Fake Versions of Things
 * [Fucking Homepage](https://fuckinghomepage.com/) - Daily Interesting Stuff Homepage
-* [Copypasta Text](https://copypastatext.com/) - Copypasta Database
 * [DeviantArt](https://www.deviantart.com/) or [ArtStation](https://www.artstation.com/) - User-Made Art
 * [Different Strokes](https://swsteffes.itch.io/different-strokes) - Online User-Made Art Gallery
 * [SfwChan](http://boards.swfchan.net/) - SFW Archive
@@ -413,7 +411,6 @@
 * [Translation Party](https://www.translationparty.com/) - Translation Parties
 * [The Editing Room](https://www.the-editing-room.com/) - Funny abridged movie scripts
 * [Smash The Walls](https://smashthewalls.com/) - Smash Walls
-* [DuckDuckRoll](http://duckduckroll.ml/) - Spinning Duck
 * [Slap Kirk](https://www.slapkirk.com/) - Slap Captain Kirk
 * [Slap Chris](https://slapchris.com/) - Slap Chris Rock
 * [Eel Slap](http://www.eelslap.com/) - Slap Guy with Eel
@@ -421,16 +418,7 @@
 * [Slide Ventura](https://slideventura.com/) - Ace Ventura Sliding Door Simulator
 * [Fake Doors](http://faykdoors.com/) - Its Fake Doors
 * [Do not open the door](http://mexicans.eu/) - Don't you dare...
-* [This Person Does Not Exist](https://thispersondoesnotexist.xyz/) - People That Don't Exist
-* [This City Does Not Exist](https://thiscitydoesnotexist.com/) - Cities That Don't Exist
-* [This Rental Does Not Exist](https://thisrentaldoesnotexist.com/) - Rentals That Don't Exists
-* [This Word Does Not Exist](https://www.thisworddoesnotexist.com/) - Words That Don't Exist
-* [These Lyrics Do Not Exist](https://www.theselyricsdonotexist.com/) - Lyrics That Don't Exist
 * [NotRealCats](https://notrealcats.com/) - Cats That Don't Exist
-* [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/) - Anime Characters That Don't Exist 
-* [This Shoe Does Not Exist](https://thisshoedoesnotexist.com/) - Shoes That Don't Exist
-* [This Foot Does Not Exist](https://thisfootdoesnotexist.com/) - Feet That Don't Exist
-* [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/) - Waifu's That Don't Exist 
 * [Windows93](http://www.windows93.net/) or [RacerTrash](https://racertrash.com/) - Retro Windows Emulator
 * [EmuOS](https://github.com/Emupedia/emupedia.github.io/) - Run Classic Games / Apps In Browser 
 * [see. hear. party.](http://www.seehearparty.com/) - List Things You Want to See... Party 
@@ -630,7 +618,6 @@
 * [The Pug in the Rug](https://puginarug.com/) - Watch the Pug be in the Rug
 * [DownloadMoreRam](https://downloadmoreram.com/) - Download More Ram
 * [Watching Grass Grow](https://www.watching-grass-grow.com/) - Watch Grass Grow
-* [aaaaa](https://github.com/dkter/aaaaa) - "a" only keyboard
 
 ***
 
@@ -640,7 +627,8 @@
 * ⭐ **[5000 Best News Sites](http://5000best.com/websites/News/)** - New Site Index
 * ⭐ **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - News Multireddit
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) or [TechGiga](https://www.techgiga.net/) - Piracy News
-* ⭐ **[Tech News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tech_news)** - Tech News Sites 
+* ⭐ **[Tech News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tech_news)** - Tech News
+* ⭐ **[YCombinator](https://news.ycombinator.com/)** or [hckrnws](https://www.hckrnws.com/) or  / [Mobile](https://hackerwebapp.com/) - Hacker News
 * [RavenReader](https://ravenreader.app/) - News Article Manager
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - How to bypass article paywalls
 * [JustRead](https://justread.link/) - Ad-Free Article Viewer
@@ -655,7 +643,6 @@
 * [Riot Archive](https://riotarchive.com/) - Riot / Protest Videos
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
 * [Liliputing](https://liliputing.com/) - Linux Mobile News
-* [hckrnws](https://www.hckrnws.com/) or [YCombinator](https://news.ycombinator.com/) / [Mobile](https://hackerwebapp.com/) - Hacker News
 * [Latest Privacy](https://latestprivacy.org/), [Talos Blog](https://blog.talosintelligence.com/), [IT Security Guru](https://www.itsecurityguru.org/), [ThreatPost](https://threatpost.com/), [Calyx](https://calyxinstitute.org/), [Privacy International](https://www.privacyinternational.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - Privacy / Security News
 * [Netblocks](https://netblocks.org/) - Censorship News
 * [CBM](https://comicbookmovie.com/) - Comic, Movie & TV News
@@ -664,7 +651,6 @@
 * [Anime Corner](https://animecorner.me/) - Anime / Manga News
 * [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/), [Darknet Stats](https://www.darknetstats.com/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - Dark Web News
 * [Interactive News Map](https://usa.liveuamap.com/) or [Atlas Politica](https://www.atlaspolitica.com/) - Geolocated News Alerts / Headlines U.S
-* [Forekast](https://forekast.com/) or [Progress](https://neal.fun/progress/) - Worldwide Event Calendars
 * [Nikkei Asia](https://asia.nikkei.com/) - Asian News
 * [China Daily Global](http://www.chinadailyglobal.com/) or [China Daily Asia](https://www.chinadailyasia.com/) - Chinese News
 * [MFA](https://www.mfa.gov.cn/eng/) - Ministry of Foreign Affairs of the People's Republic of China
@@ -1387,6 +1373,7 @@
 *** 
 
 * ⭐ **[Chrome Web Store](https://chrome.google.com/webstore/category/extensions?hl=en)**
+* [hektCaptcha](https://github.com/Wikidepia/hektCaptcha-extension) - Captcha Solver
 * [Crx4Chrome](https://www.crx4chrome.com/) - Alt Google App Store
 * [WebCRX](https://webcrx.io/) - Install Chrome CRX Files
 * [Foxified](https://foxified.org/) - Use Firefox Extensions in Chrome
