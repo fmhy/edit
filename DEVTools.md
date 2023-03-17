@@ -917,7 +917,6 @@
 * [Markdown To HTML](https://markdowntohtml.com/) - Markdown to HTML Converter
 * [AiToHTML](http://ai2html.org/) - Illustrator to HTML Converter
 * [gd2md-html](https://github.com/evbacher/gd2md-html) - Google Doc to Markdown / HTML Converter
-* [Obsidian](https://obsidian.md/) - Markdown File Organizer / [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) 
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Pastebin
 
 ***

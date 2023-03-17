@@ -1717,6 +1717,7 @@ Add the following commands to a search to manually scrape each site.
 #### Note Taking / To Do Apps
 
 * ⭐ **[NoteApps](https://noteapps.info/)** - Note App Index
+* ⭐ **[Obsidian](https://obsidian.md/)** / [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) 
 * ⭐ **[Notion](https://www.notion.so/)**
 * ⭐ **Notion Tools** - [Themes](https://notionthemes.yudax.me/) / [Templates](https://notionpages.com/) / [Resources](https://www.notioneverything.com/notion-world), [2](https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e) / [Guide](https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20)
 
