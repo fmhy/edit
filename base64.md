@@ -1650,3 +1650,9 @@ pass: paluch
 #### moo
 
 `aHR0cHM6Ly9lZHl0amVkaGdtZGhtLmFiZmhhcXJoYm5mLndvcmtlcnMuZGV2Lw==`
+
+***
+
+#### Battery Guru
+
+`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1CYXR0ZXJ5K0d1cnUmc3I9dG9waWNzJnNmPXRpdGxlb25seQ==`
