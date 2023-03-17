@@ -351,7 +351,6 @@
 * [AnimeNana](https://animenana.com/) - Sub
 * [Anify](https://anify.tv/) - Sub
 * [AnimeRush](https://www.animerush.tv/) - Sub / Dub
-* [AnimeVibe](https://animevibe.se/) - Sub / [Discord](https://discord.com/invite/Vyw8mDv)
 * [AnimeFrenzy](https://animefrenzy.vip/) - Sub / [Discord](https://discord.com/invite/RdxXASy)
 * [KissCartoon.info](https://kisscartoon.info/) - Anime / Cartoons / Sub / Dub
 * [Animegg](https://www.animegg.org/) - Sub / Dub
@@ -389,7 +388,6 @@
 * [AnimeXin](https://animexin.info/) - Sub
 * [AniWatcher](https://aniwatcher.com/) - Sub / Dub
 * [Anime5s](https://anime5s.com/) - Sub / Dub
-* [StreamAnimeTV](https://streamanimetv.net/) - Sub / Dub / [Discord](https://discord.com/invite/C6Xy3Pm)
 * [AnimeFreak](https://www.animefreak.vip/) - Sub / Dub
 * [DubbedAnime](https://dubbedanime.biz/) - Sub / Dub
 * [Funimation](https://www.funimation.com/shows/free/) - Sub / Dub
