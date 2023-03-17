@@ -69,7 +69,7 @@
 * [Repixel](https://github.com/codforc/Repixel) - RGB Pixel Filter
 * [Color Transfer](https://www.dustfreesolutions.com/CT/CT.html) - Transfer Color Between Images
 * [PicFont](https://picfont.com/) - Add Text to Images
-* [Labellmg](https://github.com/tzutalin/labelImg) or [Acme Annotator](https://acme.com/annotator/) - Image Annotation 
+* [Acme Annotator](https://acme.com/annotator/) - Image Annotation 
 * [Face Merging](https://www.faceplusplus.com/face-merging/) or [MorphThing](https://www.morphthing.com/) - Face Merging Tool 
 * [WebcamToy](https://webcamtoy.com/) or [HDBooth](https://www.hdbooth.net/) - Webcam Effects
 * [Latent Diffusion](https://github.com/CompVis/latent-diffusion), [2](https://github.com/pesser/stable-diffusion) - Image Synthesis with Latent Diffusion Models
@@ -448,7 +448,6 @@
 * [Ameede](https://www.ameede.com/) - CNC / Laser Design Vectors
 * [The Blueprints](https://www.the-blueprints.com/) - Blueprints Database
 * [ORBION](https://github.com/FaqT0tum/Orbion_Space_Mouse) - DIY 3D Image Mouse
-* [TensoRF](https://github.com/apchenstu/TensoRF) - Model / Reconstruct Radiance Fields
 * [Ninja Ripper](https://kemono.party/patreon/user/45591569) / [2](https://gamebanana.com/tools/5638) / [3](https://0curtain0.github.io/ninja_ripper.html) - Extract 3D Models from Games
 
 ***
@@ -588,7 +587,6 @@
 * [CryptoStego](https://github.com/zeruniverse/CryptoStego), [StegOnline](https://stegonline.georgeom.net/image), [OpenStego](https://www.openstego.com/), [OpenPuff](https://embeddedsw.net/OpenPuff_Steganography_Home.html), [Steganography-PNG](https://pedrooaugusto.github.io/steganography-png/) / [GitHub](https://github.com/pedrooaugusto/steganography-png), [ImSter](https://github.com/armytricks/ImSter) or [stegpy](https://github.com/dhsdshdhk/stegpy) - Embed & Extract Hidden Data in Images / Steganography 
 * [Aperisolve](https://aperisolve.fr/) - Steganography Analysis Tool
 * [Unredacter](https://github.com/BishopFox/unredacter) - Crack Pixelated Images 
-* [Ambiguous PNG Packer](https://github.com/DavidBuchanan314/ambiguous-png-packer) - Create PNG that looks different on Apple Software
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/)- Blur Images / Scrub Metadata
 * [Schizoware](https://sourceforge.net/projects/schizoware/) - Image Name / Hash Randomizer
 * [Adversarial](https://adversarial.io/) - Make Images Machine-Unreadable 
