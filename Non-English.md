@@ -613,7 +613,7 @@
 
 ## ▷ Downloading
 
-* [9xMovies](https://9xmovies.yoga/), [2](https://9xmovies.horse/) - Movies / TV 
+* [9xMovies](https://9xmovies.horse/) - Movies / TV 
 * [OlaMovies](https://olamovies.lol/) - Movies / TV / [Telegram](https://t.me/olamovies_official_v3) 
 * [MoviesMod](https://moviesmod.net/) - Movies / TV / [Telegram](https://telegram.dog/moviesmodcom) 
 * [MKV Mad](https://mkvmad.run/) - Movies / TV
@@ -1245,8 +1245,6 @@
 * [AnimeFire](https://animefire.net/) - Anime
 * [AnimeLog](https://animeslog.com/) - Anime
 * [AnimesOnline](https://animesonline.vip/) - Anime
-* [AnimeVision](https://animesvision.biz/) - Anime
-* [animevibe](https://lite.animevibe.se/) - Anime
 * [animeszone](https://animeszone.net/) - Anime
 * [animes.vision](https://animes.vision/) - Anime
 * [NewZect](https://newzect.com/) - Asian Drama
@@ -1330,7 +1328,6 @@
 * [EbooksBrasil](https://ebooksbrasil.org/) - Books
 * [Le-Livros](https://ler-livros.com/) - Books
 * [OnlineCursoGatuitos](https://onlinecursosgratuitos.com/) - Books
-* [SuporteNinja](https://suporteninja.com/download/) - Books
 * [Biblioteca Virtual](https://www.sp.senac.br/jsp/default.jsp?newsID=a21382.htm&testeira=386) - Open Digital Libraries
 * [culturaacademica](https://www.culturaacademica.com.br/) - Educational Books
 * [ArteHQs](http://www.artehqs.com.br/) - Comics
@@ -2055,7 +2052,6 @@
 * [LokLok](https://loklok.com/vi) - Movies / TV / Anime
 * [LuotPhim](https://luotphim.cc/) - Movies / TV
 * [NguonPhim](http://nguonphim.org/), [2](http://nguonhd.com/), - Movies / TV
-* [DongPhim](https://dongphymtv.com/) - Movies / TV
 * [Phim1080](https://phim1080z.com/), [2](https://fim1080.com/) - Movies / TV
 * [PhimHD](http://phimhd.xyz/) - Movies / TV
 * [PhimTor](https://phimtor.com/) - Movies
