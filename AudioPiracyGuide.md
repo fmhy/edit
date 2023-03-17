@@ -306,7 +306,6 @@
 * [Cliggo](https://music.cliggo.com/) - MP3
 * [rildi](https://rilds.com/) - MP3
 * [Freemp3cloud](https://freemp3cloud.com/en/) - MP3
-* [Mp3Deer](https://mp3deer.com/) - MP3
 * [MartinRadio](https://www.martinradio.com/) - MP3
 * [Mixupload](https://mixupload.com/) - MP3
 * [Slider](https://slider.kz/) - MP3
@@ -478,7 +477,6 @@
 * [UnknownMusicBot](https://t.me/UnknownMusicBot) - Play a Random Rare Song from YouTube 
 * [Random Album Bookmark Script](https://pastebin.com/rR4qrvnX) - Find Random Albums
 * [BoilTheFrog](http://boilthefrog.playlistmachinery.com/) - Create Playlists From 2 Artists 
-* [WeirdSpot](https://www.weirdspot.fyi/) - Generate Playlists from Sentences
 * [1001 Albums Generator](https://1001albumsgenerator.com/) - Generates Random Album Each Weekday 
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - Greatest 100 Lists
 * [Acclaimed Music](http://www.acclaimedmusic.net/) - Discover Acclaimed Music of the Times
