@@ -159,7 +159,6 @@
 * [0Mag](https://www.0mag.net/), [2](https://9mag.net/), [3](https://3mag.net/)
 * [TorrentDownloads](https://www.torrentdownloads.pro/)
 * [Torlock](https://www.torlock.com/), [2](https://www.torlock2.com/)
-* [TorrentFunk](https://www.torrentfunk.com/), [2](https://www.torrentfunk2.com/)
 * [concen](https://www.concen.org/torrents)
 * [BTSearch](https://www.btsearch.ml/)
 * [EXT Torrents](https://extranet.torrentbay.to/)
