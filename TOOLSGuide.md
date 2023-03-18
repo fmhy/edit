@@ -1208,7 +1208,8 @@
 * [custom-top-sort-for-reddit](https://github.com/arvidsandin/custom-top-sort-for-reddit) - Scroll to Top of Reddit
 * [Scroller](https://scrolller.com/) - Reddit Image Auto-Scroller 
 * [Reddit Grid](https://redditgrid.com/) - Reddit Image Grid 
-* [Redinfinite](https://redinfinite.com/) or [Redditp](https://www.redditp.com/) - Reddit Image / Video Slideshow 
+* [Redinfinite](https://redinfinite.com/), [redditpx](https://www.redditpx.com/) or [Redditp](https://www.redditp.com/) - Reddit Image / Video Slideshows 
+*  [Up for Reddit](https://www.reddit-up.com/) - View Images Posted by User
 * [ScrollDrop](https://www.scrolldrop.com/) - Reddit Media Crawler
 * [rrip](https://github.com/mahesh-hegde/rrip) - Reddit Bulk Image Downloader
 * [ScrollDit](http://www.scrolldit.com/) - Alt Reddit View
@@ -1652,7 +1653,6 @@ Twitch Stream Tracker
 * [React Statis Tweets](https://github.com/transitive-bullshit/react-static-tweets) - Static Tweets Renderer
 * [Treeverse](https://treeverse.app/) - Twitter Conversation Visualizer
 * [Trends Map](https://www.trendsmap.com/), [Trends24](https://trends24.live/) or [Twitter Trends](https://twitter-trends.vercel.app/) - Trending Twitter Hashtags / Topics
-* [Tweeplers](https://www.tweeplers.com/) - Trending Twitter Users
 * [Esplora](https://esplora.io/) - Explore Twitter Communities
 * [TweetMap](https://www.omnisci.com/demos/tweetmap) - Trending Tweet Map
 * [Twitter Linker](https://twitterlinker.vercel.app/) or [Twitter Images](https://twitter-images.vercel.app/) - Generate Twitter Card for Your 
