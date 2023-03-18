@@ -1737,7 +1737,7 @@
 * [Sololatino](https://sololatino.net/) - Movies / TV / Anime
 * [Repelis24](https://repelis24.co/) - Movies / TV
 * [Argentine Cinema](https://www.youtube.com/@argentinecinemawithenglish4476/) - Argentine Movies
-* [Cinecalidad](https://cinecalidad.run/) - Movies / TV
+* [Cinecalidad](https://cinecalidad.cat/), [2](https://cinecalidad.run/) - Movies / TV / Animation / [Telegram](https://t.me/cinecalidadchat)
 * [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV
 * [Inkapelis](https://inkapelis.in/) - Movies / TV
 * [pelisflix](https://pelisflix.red/) - Movies / TV
