@@ -2122,6 +2122,9 @@ Twitch Stream Tracker
 * [DynaWin](https://github.com/Apollo199999999/DynaWin) or [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Dynamic Desktop Themes
 * [SecuredUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - Ux Theme Patcher
 * [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) - Theme Source Patcher
+* [Windows 11 for Windows 10](https://www.deviantart.com/niivu/art/Windows-11-for-Windows-10-882819383) - Windows 11 Theme / [Icons](https://www.deviantart.com/niivu/art/Windows-11-Icon-Themes-874289797)
+* [SimpleClassicTheme](https://github.com/WinClassic/SimpleClassicTheme) or [ClassicServ](https://discord.com/invite/GqFJs2cXDQ) - Classic Windows Theme
+* [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
 * [Ricing Guide](http://www.ricing.chloechantelle.com/) - Windows Ricing Guide
 * [Awesome Ricing](https://github.com/fosslife/awesome-ricing) or [Windows-Ricing](https://github.com/winthemers/windows-ricing) - Windows Ricing Tools
 * [LineStep](http://litestep.net/) - Customize Desktop Interface
@@ -2141,14 +2144,12 @@ Twitch Stream Tracker
 * [Modern Flyouts](https://www.microsoft.com/en-gb/p/modernflyouts-preview/9mt60qv066rp?activetab=pivot:overviewtab) - Modern Context Menus / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
 * [WindowFX](https://www.stardock.com/products/windowfx/) - System Animation Effects / [Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_windowfx_premium)
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10 Search Appearance Tweaker
-* [Windows 11 for Windows 10](https://www.deviantart.com/niivu/art/Windows-11-for-Windows-10-882819383) - Windows 11 Theme / [Icons](https://www.deviantart.com/niivu/art/Windows-11-Icon-Themes-874289797)
 * [Taskbar Tweaker](https://tweaker.rammichael.com/), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) or [Valaut](http://www.valaut.phpnet.us/) - Taskbar Customization Tools
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Translucent Windows Taskbar 
 * [RoundedTB](https://github.com/torchgm/RoundedTB) - Rounded Taskbar Corners
 * [TaskbarX](https://chrisandriessen.nl/taskbarx/) - Change Taskbar Icon Positions 
 * [WinCenterTile](https://github.com/valinet/WinCenterTitle) - Center Windows Titlebar Text
 * [RetroBar](https://github.com/dremin/RetroBar) - Retro Classic Taskbars
-* [SimpleClassicTheme](https://github.com/WinClassic/SimpleClassicTheme) or [ClassicServ](https://discord.com/invite/GqFJs2cXDQ) - Classic Windows Theme
 * [Jabba The Hud](https://codeberg.org/elberro/jabba-the-hud) - Windows HUD Tweak
 * [Blackbox 4 Windows](http://blackbox4windows.com/) - Custom Windows Shells / Widgets
 * [Alternative Windows Shells Wiki](https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows) - Alt Windows Shells 
