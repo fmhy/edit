@@ -670,6 +670,7 @@ Simulator
 * [TofuLearn](https://www.tofulearn.com/) - Chinese Vocab Practice
 * [DU Chinese](https://www.duchinese.net/) - Chinese Lessons
 * [Dong Chinese](https://www.dong-chinese.com/) - Chinese Lessons
+* [ArchChinese](https://www.archchinese.com/) or [Hanzi Grids](https://www.hanzigrids.com/) - Chinese Writing Lessons
 * [The Chairman's Bao](https://www.thechairmansbao.com/) - Chinese Reading Practice / News Articles
 * [Pleco](https://www.pleco.com/) - Chinese Flashcards / Dictionary
 * [YellowBridge](https://www.yellowbridge.com/) - Chinese Learning Tools
