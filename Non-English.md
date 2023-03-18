@@ -91,6 +91,9 @@
 * [elahmad](http://www.elahmad.com/tv/arabic-channel.php) - Live TV
 * [YallAlive](https://yallalive.org/) - Live Soccer
 * [livehd7](https://www.livehd7.top/) - Live Soccer
+* [melody4arab](https://melody4arab.com/) - Music
+* [al-fann](https://www.al-fann.net/) - Music
+* [arab-zik](https://arab-zik.com/) - Music
 
 ## ▷ Reading
 
@@ -619,7 +622,6 @@
 * [MKV Mad](https://mkvmad.run/) - Movies / TV
 * [WorldFree4U](https://worldfree4u.wbog.net/) - Movies / TV
 * [1337xHD](https://1337xhd.shop/) - Movies / TV
-* [HDHub4u](https://hdhub4u.onl/) - Movies
 * [HDVogo](https://www.hdvogo.cyou/) - Movies
 * [jsupload](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_jsupload) - Movies
 * [Movies Flix](https://hdmoviesflix.vin/) - Movies / NSFW
@@ -794,7 +796,6 @@
 * [filmsenzalimiti](https://hds.filmsenzalimiti.me/) - Movies / TV
 * [cb01](https://cb01.repair/) - Movies / TV
 * [euroStreaming](https://eurostreaming.quest/) - TV
-* [guardaserie](https://guardaserie.onl/) - TV
 * [filmsenzalimiti](https://filmsenzalimiti.name/) - Movies / TV
 * [Arcoiris TV](https://www.arcoiris.tv/) - TV
 * [SerieHD](https://www.seriehd.sbs/) - TV
@@ -1192,7 +1193,6 @@
 * [ReidOSTorrents](https://reidostorrents.com/) - Video / Audio / Software / Games / Books
 * [Onde Baixa](https://ondebaixa.com/) - Movies / TV / Anime
 * [Onde Baixo](https://ondebaixo.com/) - Movies / TV / Anime 
-* [SeriesFIlmesTorrent](https://seriesfilmestorrent.net/) - Movies / TV / Anime 
 * [TorrentToon](https://torrentoon.org/) - Movies / TV
 * [torrentpirata](https://torrentpirata.com/) - Movies / TV
 * [AmigosTorrents](https://amigostorrents.com/) - Movies / TV
@@ -1473,7 +1473,6 @@
 * [PDALIFE](https://pdalife.ru/) - Android / iOS / PSP  
 * [NashStore](https://nashstore.ru/) - App Store
 * [Course Hunter](https://coursehunter.net/) - Programming / Courses 
-* [prowebber](https://prowebber.ru/) - Nulled Webmaster Scripts
 
 ## ▷ Torrenting
 
@@ -1877,7 +1876,6 @@
 
 ## ▷ Streaming 
 
-* [doomovie-hd](https://www.doomovie-hd.com/) - Movies / TV
 * [moviehdfree]( https://moviehdfree.net/) - Movies / TV
 * [ThaiMovies&Shows](https://m.vk.com/thaimovies) - Movies / TV
 * [037hdmovie](https://www.037hdmovie.com/) - Movies
