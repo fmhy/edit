@@ -304,8 +304,8 @@
 * ⭐ **[TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)**
 * ⭐ **[CouchTuner](https://www.couchtuner.show/)** - TV / Anime
 * ⭐ **[Best Series](https://bstsrs.one/)** - TV / Anime
+* ⭐ **[OnlyTVShows](https://onlytvshows.cc/)** - TV / Anime
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - TV / Anime
-* [OnlyTVShows](https://onlytvshows.cc/) - TV / Anime
 * [Teleisodes](https://www1.telepisodes.org/) - TV
 * [FZTVSeries](https://fztvseries.mobi/), [MobileTVShows](https://www.mobiletvshows.net/) or [TVSeries](https://www.tvseries.in/) - TV / Anime
 * [Watch-TvSeries](https://www1.watch-tvseries.net/) - TV
@@ -1034,7 +1034,7 @@
 * [Loadtup](https://loadtup.com/) - YouTube Video Translator
 * [LiveTL](https://kentonishi.github.io/LiveTL/) - YouTube Live Stream
 * [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - Styled YouTube Subtitles
-* [Filmot](https://filmot.com/) - Search Within YouTube Subtitles
+* [Filmot](https://filmot.com/) or [Video Search for Youtube](https://github.com/masasron/Video-Search-For-YouTube/) - Search Within YouTube Subtitles
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - Add Subtitles to Twitch Stream
 * [Bazarr](https://www.bazarr.media/) - Auto-Download Subtitles 
 * [HandySub](https://github.com/HandyOrg/HandySub), [SubDownloader](https://subdownloader.net/) or [Subscene-Subtitle-Grabber](https://github.com/RafayGhafoor/Subscene-Subtitle-Grabber) - Subtitle Downloader
