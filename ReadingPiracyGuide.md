@@ -109,7 +109,6 @@
 * [Bookyards](https://www.bookyards.com/en/welcome) - Books 
 * [DigiLibraries](https://digilibraries.com/) - Books 
 * [ibookscafe](https://bookscafe.net/) - Books / NSFW
-* [celz](https://celz.ru/) - Books
 * [FullBooks](http://www.fullbooks.com/) - Books 
 * [e-Book Mecca](https://ebook-mecca.com/) - Books
 * [eBook4Expert](https://ebook4expert.net/) - Books 
@@ -318,7 +317,6 @@
 * [Sunnah.com](https://sunnah.com/) - Hadith Translation
 * [84000](https://read.84000.co/) - Buddhism
 * [BuddhaNet](http://www.buddhanet.net/) - Buddhism
-* [dazangthings](https://dazangthings.nz/) - Buddhist Text Analysis Repository
 * [Encyclopedia Of Buddhism](https://archive.org/details/EdwardA.IronsEncyclopediaOfBuddhismEncyclopediaOfWorldReligions/) - Buddhist Encyclopedia
 * [Buddhism Dictionary](http://www.buddhism-dict.net/ddb/) - Buddhist Dictionary
 * [Sankaracharya](http://www.sankaracharya.org/index.php) - Hinduism
