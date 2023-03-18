@@ -82,7 +82,7 @@
 * [RTL-SDR](https://gist.github.com/fasiha/c123a9c6b6c78df7597bb45e0fed808f) - DIY FAA & EASA Satellite Feeds / Transponder
 * [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/), [BestRandoms](https://www.bestrandoms.com/), [Randommer](https://randommer.io/), [GeneratorFun](https://generatorfun.com/), [Springhole](https://www.springhole.net/writing_roleplaying_randomators/index.html), [Wiizard Generator](https://wiizard-generator.neocities.org/), [randomix](https://github.com/m-i-n-a-r/randomix) or [Random Lists](https://www.randomlists.com/) - Random Generators
 * [Score Count](https://scorecount.com/) - Online Sports Scoreboards
-* [Wheel Decide](https://wheeldecide.com/), [PickerWheel](https://pickerwheel.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers
+* [Wheel Decide](https://wheeldecide.com/), [PickerWheel](https://pickerwheel.com/), [HeySpinner](https://heyspinner.com/) or [Wheel of Names](https://wheelofnames.com/) - Wheel Randomizers
 * [Poll Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_poll_sites) - Poll Creators
 * [SurveyHeart](https://surveyheart.com/) - Survey Creator
 * [Kukkee](https://www.kukkee.com/) - Meeting Time Polls
