@@ -632,7 +632,8 @@
 * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
 * ⭐ **[Pahe](https://pahe.li/)** - Movies / TV / Anime / [Discord](https://discord.gg/4AvaCsd2J4) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper) / [Redirect Buttons](https://greasyfork.org/en/scripts/443277)
-* ⭐ **[PSARips](https://psa.pm/)** - Movies / TV / [GDrive TG](https://t.me/PSAonGdrive) / [Scrape](https://github.com/NandiyaLive/PSALinkGrabber)
+* ⭐ **[PSARips](https://psa.re/)** - Movies / TV / [GDrive TG](https://t.me/PSAonGdrive) / [Scrape](https://github.com/NandiyaLive/PSALinkGrabber)
+* ⭐ **[OlaMovies](https://olamovies.cloud/)** - HD Movies / TV / [Telegram](https://t.me/olamovies_official_v3)
 * ⭐ **[Worlds Cinema](http://worldscinema.org/)** - Classic / Cult Films
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / Account Required for 1ficher links / [DM](https://www.reddit.com/message/compose?to=nbatman) email for invite
 * ⭐ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - Download videos from streaming sites
@@ -707,7 +708,6 @@
 * [TvShows4Mobile](https://tvshows4mobile.com/) - TV / Anime
 * [300MBFilms](https://www.300mbfilms.com/) - Movies / TV
 * [300MBUnited](https://www.300mbunited.me/) - Movies / TV
-* [OlaMovies](https://olamovies.pro/) - HD Movies / TV / [Telegram](https://t.me/olamovies_official)
 * [UHDMovies](https://uhdmovies.org.in/) - HD Movies
 * [Blu-Ray.world](https://blu-ray.world/) - HD Movies / TV
 * [4K HDR](https://4k-hdr.org/) - HD Movies / TV
