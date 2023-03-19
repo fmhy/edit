@@ -21,7 +21,7 @@
 * [humble-cli](https://github.com/smbl64/humble-cli) - Humble Bundle CLI
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?usp=sharing), [MoreFPS](https://morefps.net/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) or [HoneCtrl](https://github.com/auraside/HoneCtrl) - Latency Reduction / FPS Fixes
-* [Fraps Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_fraps) / [2](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
+* [Fraps Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#fraps) / [2](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
 * [Nvidia Overclocking](https://github.com/LunarPSD/NvidiaOverclocking/blob/main/Nvidia%20Overclocking.md) - Nvidia Overclocking Resources
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner), [GPU Tweak lll](https://www.asus.com/campaign/GPU-Tweak-III/index.php) or [EVGA Precision X1](https://www.evga.com/precisionx1/) - Graphics Card Overclocking Tools
 * [MSI Kombustor](https://msikombustor.com/) - GPU Benchmark Test
@@ -46,7 +46,7 @@
 * [DisplayMagician](https://github.com/terrymacdonald/DisplayMagician) - Per-Game Display Profiles
 * [D3 Overrider](https://community.pcgamingwiki.com/files/file/84-d3doverrider/) - Force V-Sync / Triple Buffer
 * [WindowedBorderlessGaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming), [Borderless-Gaming-Tool](https://github.com/r57zone/Borderless-Gaming-Tool) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games
-* [Lossless Scaling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_lossless_scaling) - Windowed Game Scaling
+* [Lossless Scaling](https://github.com/nbats/FMHYedit/blob/main/base64.md#lossless-scaling) - Windowed Game Scaling
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window
 * [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) / [GitHub](https://github.com/ThirteenAG/WidescreenFixesPack), [Widescreen Fixer v3.4](https://community.pcgamingwiki.com/files/file/1754-widescreen-fixer-v34-r737/) or [Flawless Widescreen](http://www.flawlesswidescreen.org/) - Widescreen Fixes
 * [GameCopyWorld](https://www.gamecopyworld.com/games/index.php) - Game Fixes and Patches
