@@ -2,7 +2,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/ZgrT5Va.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/jILPqZX.png)** - For mobile users
 
 ***
 
@@ -335,12 +335,6 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 ***
 
-#### Broken Link Checkers
-
-[Xenu-Link](http://home.snafu.de/tilman/xenulink.html), [Lychee](https://github.com/lycheeverse/lychee), [Cyotek-Webcopy](https://www.cyotek.com/cyotek-webcopy), [Dead Link Checker](https://www.deadlinkchecker.com/), [Broken Link Checker](https://brokenlinkcheck.com/broken-links.php), [DrLinkCheck](https://www.drlinkcheck.com/)
-
-***
-
 #### Browser EBook Readers
 
 [fViewer](https://www.fviewer.com/), [Reader View](https://add0n.com/chrome-reader-view.html) / [2](https://mybrowseraddon.com/reader-view.html), [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/), [EpubPress](https://epub.press/), [ePubReader](https://www.epubread.com/en/), [Mercury](https://mercury.postlight.com/), [LoudReader](https://www.loudreader.com/), [ReadWok](https://readwok.com/), [2read](https://2read.net/), [Reader Mode](https://readermode.io/), [ePub Reader Online](https://www.ofoct.com/viewer/epub-reader-online.html), [ebook.web](https://ttu-ebook.web.app/)
@@ -641,8 +635,9 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 * ⭐ **[Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)**
 * ⭐ **[IsItDownRightNow](https://www.isitdownrightnow.com/)**
+* ⭐ **[Cyotek-Webcopy](https://www.cyotek.com/cyotek-webcopy)**
 
-[IsThisServiceDown](https://istheservicedown.com/), [down.com](https://down.com/), [DownDetector](https://downdetector.com/), [websitedown](http://www.websitedown.info/), [isitup](https://isitup.org/), [updownradar](https://updownradar.com/)
+[IsThisServiceDown](https://istheservicedown.com/), [down.com](https://down.com/), [DownDetector](https://downdetector.com/), [websitedown](http://www.websitedown.info/), [isitup](https://isitup.org/), [updownradar](https://updownradar.com/), [Xenu-Link](http://home.snafu.de/tilman/xenulink.html), [Lychee](https://github.com/lycheeverse/lychee), , [Dead Link Checker](https://www.deadlinkchecker.com/), [Broken Link Checker](https://brokenlinkcheck.com/broken-links.php), [DrLinkCheck](https://www.drlinkcheck.com/)
 
 ***
 
