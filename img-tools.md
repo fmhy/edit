@@ -14,7 +14,7 @@
 * ⭐ **[Image Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_editing)** - Image Editing Software & Sites
 * ⭐ **[Graphic Design Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_graphic_design_tools)** - Online Graphic Design Tools 
 * ⭐ **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_gfx_design_software)** - Download GFX Design Software
-* ⭐ **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://rentry.co/thk62), [3](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [4](https://pilssken.neocities.org/gainz/), [5](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_design_tool_zip) - Design Tool Resource Indexes   
+* ⭐ **[Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)**, [2](https://rentry.co/thk62), [3](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk), [4](https://pilssken.neocities.org/gainz/), [5](https://github.com/nbats/FMHYedit/blob/main/base64.md#design-tool-zip) - Design Tool Resource Indexes   
 * ⭐ **[PhotoMosh](https://photomosh.com/)**, [Acidity](https://github.com/czycha/acidity), [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [GlitchyImage](https://glitchyimage.com/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - Glitch Images
 * [Crayon](https://designstripe.com/crayon) - Animate SVGs
 * [Glaxnimate](https://glaxnimate.mattbas.org/) - Animate Vectors
@@ -388,12 +388,12 @@
 * [Placeit](https://placeit.net/) - Image Templates
 * [Crello](https://crello.com/) - Image Templates / Editor
 * [Kemono](https://kemono.party/) - Patreon Content / Some NSFW / Use Adblock
-* [Worldvectorlogo](https://worldvectorlogo.com/), [PNGGrid](https://pnggrid.com/), [Logos & Badges Bundle](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_logos_.26amp.3B_badges_bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [logospire](http://logospire.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [logotouse](https://www.logotouse.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
+* [Worldvectorlogo](https://worldvectorlogo.com/), [PNGGrid](https://pnggrid.com/), [Logos & Badges Bundle](https://github.com/nbats/FMHYedit/blob/main/base64.md#logos--badges-bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [logospire](http://logospire.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [logotouse](https://www.logotouse.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - Free Doodles
 * [Replacement Sky](https://replacement-sky.com/) - Skies for Photoshop
-* [AmbientCG](https://ambientcg.com/), [TextureTown](https://textures.neocities.org/), [Lost and Taken](https://lostandtaken.com/), [3D textures](https://icons8.com/l/3d-textures/), [Textureking](https://www.textureking.com/), [Texture Labs](https://texturelabs.org/), [Transparent Textures](https://www.transparenttextures.com/), [Texture Club](https://www.sketchuptextureclub.com/), [TexturesForFree](https://texturesforfree.com/), [fatstrawberry](https://www.fatstrawberry.co.uk/), [PBR_Textures](https://t.me/PBR_Textures) or [Texture Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_texture_collection) - Download Textures
-* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) or [Pattern Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pattern_collection) - Download Patterns
-* [Watercolor Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_watercolor_collection) - Download Watercolor Pictures
+* [AmbientCG](https://ambientcg.com/), [TextureTown](https://textures.neocities.org/), [Lost and Taken](https://lostandtaken.com/), [3D textures](https://icons8.com/l/3d-textures/), [Textureking](https://www.textureking.com/), [Texture Labs](https://texturelabs.org/), [Transparent Textures](https://www.transparenttextures.com/), [Texture Club](https://www.sketchuptextureclub.com/), [TexturesForFree](https://texturesforfree.com/), [fatstrawberry](https://www.fatstrawberry.co.uk/), [PBR_Textures](https://t.me/PBR_Textures) or [Texture Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#texture-collection) - Download Textures
+* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) or [Pattern Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#pattern-collection) - Download Patterns
+* [Watercolor Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#watercolor-collection) - Download Watercolor Pictures
 * [google-images-download](https://github.com/Joeclinton1/google-images-download) - Download Images from Google Images 
 * [googleimagerestored](https://github.com/fanfare/googleimagesrestored) - Old Google Image Search 
 * [dzi-dl](https://github.com/ryanfb/dzi-dl) - Deep Zoom Image Downloader 
@@ -624,7 +624,7 @@
 * [Settei Dreams](https://setteidreams.net/) - Anime Production Materials
 * [Anime Study General](https://discord.gg/3bwdfRk) - Anime Production Community
 * [AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch) - Anime Machine Learning
-* [Photoshop Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_photoshop_courses) - Photoshop Course Drive
+* [Photoshop Courses](https://github.com/nbats/FMHYedit/blob/main/base64.md#photoshop-courses) - Photoshop Course Drive
 * [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - Photoshop Tutorials
 * [DomDesigns](https://www.youtube.com/c/DomDesigns/) - Illustrator Tutorials
 * [ArtWithFlo](https://artwithflo.com/) - Procreate Tutorials
