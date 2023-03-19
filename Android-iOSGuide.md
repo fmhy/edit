@@ -167,7 +167,7 @@
 * ⭐ **[Termux](https://termux.com/)**, [Limbo](https://github.com/limboemu/limbo), [Andronix](https://andronix.app/) / [Git](https://github.com/AndronixApp) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulators / OS Environments
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/tareksander/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
 * ⭐ **[ChatGPT](https://play.google.com/store/search?q=chatgpt&c=apps)** or [chatgpt-android](https://github.com/skydoves/chatgpt-android) - AI Writing Assistant / Chat
-* ⭐ **[KeePassDX](https://www.keepassdx.com/)**, [Keyspace](https://keyspace.cloud/), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - Password Managers
+* ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - Password Managers
 * [Android Debloat Guide](https://rentry.co/debloatandroid), [debloat-android](https://christitus.com/debloat-android/) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/0x192/universal-android-debloater), [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) or [Debloat Samsung Android](https://github.com/khlam/debloat-samsung-android) - Android Debloaters
 * [GearJail](https://gearjail.neocities.org/) - Android Guides / Resources
@@ -948,6 +948,7 @@
 
 * ⭐ **[Hyperweb](https://hyperweb.app/)** - iOS Safari Improvement + Adblock Extension
 * ⭐ **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites / Apps
+* ⭐ **[Bitwarden](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744)**, [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/), [Loccker](https://www.loccker.in/) or [Strongbox](https://strongboxsafe.com/) - Password Manager
 * [Waltr](https://softorino.com/waltr/) - Convert Files to iOS Formats
 * [Filza](http://cydia.saurik.com/package/com.tigisoftware.filza/), [FGet](https://apps.apple.com/us/app/fget-file-manager-browser/id1582654012) or [Santander](https://github.com/SerenaKit/Santander) - File Managers
 * [Dropbox Premium](https://testflight.apple.com/join/LBZaRq4I) - Cloud Storage
@@ -983,7 +984,6 @@
 * [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188) - Automation Script Tool
 * [Hackers](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901) - Hacker News
 * [MAPS.ME](https://maps.me/) - Offline Maps / [GitHub](https://github.com/mapsme/omim)
-* [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/), [Loccker](https://www.loccker.in/) or [Strongbox](https://strongboxsafe.com/) - Password Manager
 * [iSkin](https://iskin.tooliphone.net/), [Anemone](https://www.ios-repo-updates.com/repository/odyssey-repo/package/com.anemonetheming.anemone3/), [/r/iOSsetups](https://www.reddit.com/r/iOSsetups/ ), [/r/iOSthemes](https://www.reddit.com/r/iOSthemes/), [Moloko](https://apps.apple.com/us/app/moloko-themes-icons/id1534741213) or [SnowBoard](https://repo.dynastic.co/package/snowboard) - iOS Themes 
 * [Themify](https://apps.apple.com/us/app/themify-icon-themes-widgets/id1534126062) - Icon Themes & Widgets
 * [iCustom](https://icustom.tooliphone.net/) - Make Custom Icons Without Shortcuts 
