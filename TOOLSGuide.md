@@ -790,7 +790,6 @@
 * [Arcai](https://arcai.com/) - WiFi Speed Control
 * [Nmap](https://nmap.org/) - Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)
 * [Elmocut](https://github.com/elmoiv/elmocut) or [SelfishNetV3](https://github.com/nov0caina/SelfishNetV3) - ARP Spoofer / Kick Users from WiFi 
-* [AreWeDown?](https://github.com/shukriadams/arewedown) - HTTP Uptime Monitor
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
 * [WiFiCard](https://wificard.io/) - WiFi Info QRCode Generator
 * [Master Networks & Scanning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_master_networks_.26amp.3B_scanning) - Network & Network Scanning Tutorials
