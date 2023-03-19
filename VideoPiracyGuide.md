@@ -469,15 +469,15 @@
 * ⭐ **[NBAFullHD](https://nbafullhd.com/)**, [NBATVReplay](https://nbatvreplay.com/), [NBAHD](https://nbahd.com/) or [NBAHDReplay](https://nbahdreplay.com/) - Basketball
 * ⭐ **[NFL Replay](https://nflreplay.net/)** - Football
 * ⭐ **[F1 Full Races](https://f1fullraces.com/)** - F1
-* ⭐ **[WatchWrestling24](http://watchwrestling24.net/)** - MMA / Wrestling
+* ⭐ **[AllWrestling](https://www.allwrestling.online/)** - MMA / Wrestling
 * [FootballOrigin](https://www.footballorgin.com/) - Soccer
 * [Footballia](https://footballia.net/) - Soccer
 * [Footyfull](https://footyfull.com/) - Soccer
 * [Sport Video](https://www.sport-video.org.ua/) - Multiple Sports / Torrents
-* [AllWrestling](https://www.allwrestling.online/) - MMA / Wrestling
 * [WatchWrestling.ai](https://watchwrestling.ai/) - MMA / Wrestling
 * [WatchWrestling.bz](https://watchwrestling.bz/) - MMA / Wrestling
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling
+* [WatchWrestling24](http://watchwrestling24.net/) - MMA / Wrestling
 * [WatchWrestlingUp](https://watchwrestlingup.live/) - MMA / Wrestling
 * [WatchWrestlingOnline](https://watchwrestlingonline.net/) - MMA / Wrestling
 * [WatchProWrestling](https://watchprowrestling.org/) - MMA / Wrestling
