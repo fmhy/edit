@@ -1737,7 +1737,7 @@
 * [Sololatino](https://sololatino.net/) - Movies / TV / Anime
 * [Repelis24](https://repelis24.co/) - Movies / TV
 * [Argentine Cinema](https://www.youtube.com/@argentinecinemawithenglish4476/) - Argentine Movies
-* [Cinecalidad](https://cinecalidad.run/) - Movies / TV
+* [Cinecalidad](https://cinecalidad.cat/), [2](https://cinecalidad.run/) - Movies / TV / Animation / [Telegram](https://t.me/cinecalidadchat)
 * [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV
 * [Inkapelis](https://inkapelis.in/) - Movies / TV
 * [pelisflix](https://pelisflix.red/) - Movies / TV
@@ -1794,7 +1794,7 @@
 * [ebiblioteca](https://ebiblioteca.org/) - Books
 * [Ebookelo](https://www.ebookelo.com/) - Books
 * [pirateca](https://lapirateca.com/) - Books
-* [Lectulandia](https://ww2.lectulandia.com/) - Books
+* [Lectulandia](https://ww2.lectulandia.com/), [2](https://www.lectulandia.co/) - Books
 * [ePub Gratis](https://www.epubgratis.info/) - Books
 * [Espaebook2](https://www.espaebook2.com/) - Books
 * [Todolibros](https://todolibros.net/) - Books
