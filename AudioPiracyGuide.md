@@ -12,7 +12,7 @@
 
 ## ▷ Streaming Apps
 
-* ⭐ **[Spotify Client](https://www.spotify.com/us/download/)**, [Lofi Rocks](https://www.lofi.rocks/), [ncspot](https://github.com/hrkfdn/ncspot), [Strix](https://www.strixmusic.com/) or [SpoTube](https://github.com/KRTirtho/spotube) - Spotify Clients / [Android TV](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_android_tv_spotify)
+* ⭐ **[Spotify Client](https://www.spotify.com/us/download/)**, [Lofi Rocks](https://www.lofi.rocks/), [ncspot](https://github.com/hrkfdn/ncspot), [Strix](https://www.strixmusic.com/) or [SpoTube](https://github.com/KRTirtho/spotube) - Spotify Clients / [Android TV](https://github.com/nbats/FMHYedit/blob/main/base64.md#android-tv-spotify)
 * ⭐ **[Spotify Tools / Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - Spotify Tools, Adblockers and Customization
 * ⭐ **[BetterSoundCloud](https://bsc.alirezakj.com/)** - Soundcloud Client
 * ⭐ **[YouTube Music Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_music_players)**
@@ -279,7 +279,7 @@
 * ⭐ **[Free MP3 Download](https://free-mp3-download.net/)** - Search / MP3 / FLAC
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Download Spotify Soundcloud, Qobuz, Deezer and Tidal Audio
 * ⭐ **[Mudome](https://mudome.org/)** - MP3 / FLAC
-* ⭐ **[Damon's Game Soundtracks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_damon.27s_game_soundtracks)**, [Squid-Board](https://www.squid-board.org/), [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://codeberg.org/sun/VGMLoader) / [2](https://github.com/obskyr/khinsider) / [3](https://github.com/weespin/KhinsiderDownloader), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/), [VGMPF](http://www.vgmpf.com/) or [Zophar's](https://www.zophar.net/music) - Video Game Soundtracks
+* ⭐ **[Damon's Game Soundtracks](https://github.com/nbats/FMHYedit/blob/main/base64.md#damons-game-soundtracks)**, [Squid-Board](https://www.squid-board.org/), [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://codeberg.org/sun/VGMLoader) / [2](https://github.com/obskyr/khinsider) / [3](https://github.com/weespin/KhinsiderDownloader), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/), [VGMPF](http://www.vgmpf.com/) or [Zophar's](https://www.zophar.net/music) - Video Game Soundtracks
 * [The Last Disaster](https://thelastdisaster.vip/), [2](https://thelastdisaster.org/) - MP3 / FLAC
 * [SongsLover](https://songslover.vip/) - MP3
 * [VKMusic](https://denr01.com/vkm/) - MP3 / User: anon / pass: 12345
@@ -302,7 +302,7 @@
 * [24NaiJamMuzic](https://www10.24naijamuzic.com/) - MP3
 * [musify](https://musify.club/) - MP3
 * [Funky Souls](https://forum.funkysouls.org/), [2](https://funkysouls.org/) - MP3
-* [Music for the masses !](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_music_for_the_masses_.21) - MP3
+* [Music for the masses !](https://github.com/nbats/FMHYedit/blob/main/base64.md#music-for-the-masses-) - MP3
 * [Cliggo](https://music.cliggo.com/) - MP3
 * [rildi](https://rilds.com/) - MP3
 * [Freemp3cloud](https://freemp3cloud.com/en/) - MP3
@@ -310,9 +310,9 @@
 * [Mixupload](https://mixupload.com/) - MP3
 * [Slider](https://slider.kz/) - MP3
 * [My Free MP3](https://www.my-free-mp3.cc/) - MP3
-* [geedryve](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_geedryve) - MP3 
-* [Rhapsody](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rhapsody)- MP3
-* [Tyler](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_tyler) - MP3
+* [geedryve](https://github.com/nbats/FMHYedit/blob/main/base64.md#geedryve) - MP3 
+* [Rhapsody](https://github.com/nbats/FMHYedit/blob/main/base64.md#rhapsody)- MP3
+* [Tyler](https://github.com/nbats/FMHYedit/blob/main/base64.md#tyler) - MP3
 * [24naijamuzic](https://www11.24naijamuzic.com/album/) - MP3
 * [FLAC Attack](https://flacattack.net/) or [Lossless-Music](https://lossless-music.org/) - FLAC
 * [Losslessma](https://losslessma.net/) - FLAC
@@ -333,7 +333,7 @@
 * [Core Radio](https://coreradio.online/) - MP3 / FLAC 
 * [AlterPortal](https://alterportal.net/) - MP3 / FLAC
 * [#BATCAVE](https://pastebin.com/TzK2G963) - MP3 / FLAC
-* [Moe:81](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_moe.3A81) - MP3 / FLAC
+* [Moe:81](https://github.com/nbats/FMHYedit/blob/main/base64.md#moe81) - MP3 / FLAC
 * [Plastinka](http://plastinka.org/) - MP3 / FLAC
 * [Exystence](http://exystence.net/) - MP3 / FLAC  
 * [FindFlac](http://findflac.com/) - FLAC / MP3 / MP4 
@@ -398,7 +398,7 @@
 * [El Rincón del Kitsune](https://elrincondelkitsune.blogspot.com/) - Vocaloid / MP3
 * [Guitars101](https://www.guitars101.com/) - Live Audio / Video
 * [Download-Soundtracks](http://download-soundtracks.com/), [3ost](https://3ost.ru/), [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) or [tanikal](https://www.tanikal.com/) - Soundtracks 
-* [GTA Radio Stations Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_gta_radio_stations) - GTA Radio Stations
+* [GTA Radio Stations Music](https://github.com/nbats/FMHYedit/blob/main/base64.md#gta-radio-stations) - GTA Radio Stations
 * [SittingOnClouds](https://www.sittingonclouds.net/) / [Discord](https://discord.com/invite/x23SFbE) - Anime / Game Soundtracks
 * [AniPlaylist](https://aniplaylist.com/), [OSAnime](https://osanime.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - Anime Soundtracks 
 * [OtakuOst](https://otakuost.net/) - Anime Soundtracks & Japanese Music 
@@ -407,7 +407,7 @@
 * [Keygen Music](http://www.keygenmusic.org/) - Keygen Music Archive
 * [BitMidi](https://bitmidi.com/), [Geocities Midi's](https://archive.org/details/archiveteam-geocities-midi-collection-2009), [ArtScene](http://artscene.textfiles.com/music/midi/) or [VGMusic](http://www.vgmusic.com/) - MIDI Files
 * [Demozoo](https://discord.io/demozoo) - Demoscene Archive
-* [BurntScarr](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_burntscarr) or [/r/MusicStems](https://www.reddit.com/r/MusicStems/) - STEMS
+* [BurntScarr](https://github.com/nbats/FMHYedit/blob/main/base64.md#burntscarr) or [/r/MusicStems](https://www.reddit.com/r/MusicStems/) - STEMS
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games 
 * [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [Incompetech](https://incompetech.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/), [free stock music](https://www.free-stock-music.com/) or [Fugue](https://icons8.com/music) - Royalty Free Music 
 
@@ -420,7 +420,7 @@
 * ⭐ **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - ctrl+f and type "audio"
 * ⭐ **[Redacted](https://interviewfor.red/)** - MP3 / FLAC
 * ⭐ **[Orpheus](https://orpheus.network/)** - MP3 / FLAC / [Interviews](https://interview.orpheus.network/)
-* ⭐ **[Redtopia](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_redtopia)** - Redtopia Repository / FLAC
+* ⭐ **[Redtopia](https://github.com/nbats/FMHYedit/blob/main/base64.md#redtopia)** - Redtopia Repository / FLAC
 * ⭐ **[SolidTorrents](https://solidtorrents.to/)** - MP3 / FLAC / [/r/SolidTorrents](https://reddit.com/r/SolidTorrents)
 * ⭐ **[Lidarr](https://github.com/Lidarr/Lidarr)** or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
 * [DimeADozen](http://www.dimeadozen.org/) - MP3 / FLAC
