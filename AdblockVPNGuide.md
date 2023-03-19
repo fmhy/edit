@@ -357,7 +357,7 @@
 * [Privacy Score](https://privacyscore.org/) - Website Privacy Score Rankings
 * [TrackingTheTrackers](https://trackingthetrackers.com/) - Check if Site is Disguising Trackers
 * [LMT Anti-Logger](https://leminhthanh.me/antilogger/) - Anti-Loggers (e.g. Keyloggers)
-* [QFX KeyScrambler](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_qfx_keyscrambler) - Scramble Keyboard Inputs
+* [QFX KeyScrambler](https://github.com/nbats/FMHYedit/blob/main/base64.md#qfx-keyscrambler) - Scramble Keyboard Inputs
 * [logknife](https://github.com/natesales/logknife) - Remove Sensitive Data from Log Files
 * [WhoTracksMe](https://whotracks.me/) or [Trackography](https://trackography.org/) - Site Tracking Info  
 * [YourAdChoices](https://optout.aboutads.info/?c=2&lang=EN) - Check Your Current IBA Status
@@ -560,7 +560,7 @@
 * [Tsunami](https://github.com/FogNetwork/Tsunami)
 * [Shadowsocks](https://shadowsocks.org/) - [Free Servers](https://github.com/ruanfei/ShadowsocksRRShare), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows)
 * [FilterBypass](https://www.filterbypass.me/) 
-* [Proxifier](https://www.proxifier.com/) - [Keys](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_proxifier_keys)
+* [Proxifier](https://www.proxifier.com/) - [Keys](https://github.com/nbats/FMHYedit/blob/main/base64.md#proxifier-keys)
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy)
 * [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel)
 * [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
