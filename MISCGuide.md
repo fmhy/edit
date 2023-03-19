@@ -920,7 +920,7 @@
 * ⭐ **[Satellite / Street View Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_satellite_.26amp.3B_street_view_maps)**
 * ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** / [Search](https://nominatim.openstreetmap.org/ui/search.html), [KartaView](https://kartaview.org/landing), [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor), [Open Infrastructure Map](https://openinframap.org/), [FacilMap](https://facilmap.org/), [OutdoorMaps](https://outdoormaps.eu/) or [Mapillary](https://www.mapillary.com/) - Street Maps
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
-* [Atlas Obscura](https://www.atlasobscura.com/) or [TravelTips](https://www.traveltip.org/world_maps.php) - Travel Maps / Guides
+* [Atlas Obscura](https://www.atlasobscura.com/), [CountryReports](https://www.countryreports.org/) or [TravelTips](https://www.traveltip.org/world_maps.php) - Travel Maps / Guides
 * [Borderless](https://borderless.safetywing.com/) - Travel Restriction Map
 * [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Site Maps
 * [Roadside America](https://www.roadsideamerica.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Maps & Guides
