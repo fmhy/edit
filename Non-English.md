@@ -768,7 +768,8 @@
 
 # ► Italian
 
-* ⭐ **[Italian Piracy Resources](https://rentry.co/italian-piracy-resources)** - Italian Piracy Site List
+* ⭐ **[Italian Piracy Resources](https://rentry.co/italian-piracy-resources)** - Piracy Site List
+* ⭐ **[The Italian Corsairs](https://rentry.co/the-italian-corsairs)** - Piracy Site List
 
 ## ▷ Downloading 
 
