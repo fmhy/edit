@@ -89,7 +89,7 @@
 * [ArchLinuxGUI](https://archlinuxgui.in/download.html), [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - Arch Linux Installer
 * [EasyPanel](https://easypanel.io/) - Server Control Panel
 * [/r/linuxupskillchallenge](https://www.reddit.com/r/linuxupskillchallenge/) - How-to Sysadmin a Remote Server 
-* [Free Cloud Linux Server](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_free_cloud_linux_server) - Free Cloud Server Guide
+* [Free Cloud Linux Server](https://github.com/nbats/FMHYedit/blob/main/base64.md#free-cloud-linux-server) - Free Cloud Server Guide
 * [yet another bench script](https://github.com/masonr/yet-another-bench-script) - Server Performance Script
 * [Bandwhich](https://github.com/imsnif/bandwhich) - Terminal Bandwidth Utilization Tool 
 * [Rang3r](https://github.com/floriankunushevci/rang3r) - IP / Port Scanner
@@ -277,7 +277,7 @@
 * [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
 * [Arronax](https://www.florian-diesch.de/software/arronax/) - .desktop File Editor
 * [ImHex](https://github.com/WerWolv/ImHex) - Hex Editor
-* [Learn the Linux Command-Line](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_learn_the_linux_command_line), [Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [LinuxCommand](https://www.linuxcommand.org/tlcl.php) - Command-Line Lessons
+* [Learn the Linux Command-Line](https://github.com/nbats/FMHYedit/blob/main/base64.md#learn-the-linux-command-line), [Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [LinuxCommand](https://www.linuxcommand.org/tlcl.php) - Command-Line Lessons
 * [Cheat.sh](https://cheat.sh/) or [how2](https://github.com/santinic/how2) - Command-Line Cheat Sheet
 * [tldr](https://github.com/tldr-pages/tldr/) - Command-Line Tools / [Rust](https://github.com/dbrgn/tealdeer)
 * [Gum](https://github.com/charmbracelet/gum) - Shell Script Creator
@@ -391,7 +391,7 @@
 # ► Mac Tools / Apps
 
 * ⭐ **[Team OS](https://www.teamos.xyz/)** or [gibMacOS](https://github.com/corpnewt/gibMacOS) - Download MacOS
-* ⭐ **[Dropzone](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dropzone)** or [Readdle](https://readdle.com/documents) - Multipurpose File Tool
+* ⭐ **[Dropzone](https://github.com/nbats/FMHYedit/blob/main/base64.md#dropzone)** or [Readdle](https://readdle.com/documents) - Multipurpose File Tool
 * ⭐ **[The Unarchiver](https://theunarchiver.com/)**, [unxip](https://github.com/saagarjha/unxip) or [Keka](https://www.keka.io/) - File Archiver / Unzipper
 * ⭐ **[qBittorrent](https://www.qbittorrent.org/)** - Torrent Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)
 * ⭐ **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
@@ -400,7 +400,7 @@
 * ⭐ **[Alfred](https://www.alfredapp.com/)** - Keystroke Launcher 
 * ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
 * ⭐ **[alt-tab-macos](https://alt-tab-macos.netlify.app/)** - Alt-Tab for Mac
-* ⭐ **[PDF Expert](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pdf_expert)** - PDF Viewer
+* ⭐ **[PDF Expert](https://github.com/nbats/FMHYedit/blob/main/base64.md#pdf-expert)** - PDF Viewer
 * ⭐ **[Fantastical](https://flexibits.com/fantastical)** - Calendar
 * [Advanced MacOS Commands](https://saurabhs.org/advanced-macos-commands) - Advanced Command-Line Tools
 * [AnimeNow](https://github.com/AnimeNow-Team/AnimeNow) - Anime Streaming App
@@ -418,7 +418,7 @@
 * [Nuage](https://github.com/lbrndnr/nuage-macos) - Soundcloud Client
 * [Subsonic](https://github.com/twostraws/Subsonic) - SwiftUI Audio Player
 * [LimaVM](https://github.com/lima-vm/lima) - Linux VM on MacOS
-* [Parallels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_parallels), [PortingKit](https://www.portingkit.com/), [PlayOnMac](https://www.playonmac.com/en/) or [CrossOver](https://www.codeweavers.com/crossover) - Run Windows Games / Programs on Mac
+* [Parallels](https://github.com/nbats/FMHYedit/blob/main/base64.md#parallels), [PortingKit](https://www.portingkit.com/), [PlayOnMac](https://www.playonmac.com/en/) or [CrossOver](https://www.codeweavers.com/crossover) - Run Windows Games / Programs on Mac
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/) / [Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 * [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/) - Install New macOS on Unsupported Devices
 * [Conky](https://github.com/brndnmtthws/conky) / [Colors](https://github.com/helmuthdu/conky_colors) or [MacFetch](https://github.com/gantoreno/macfetch) - System Info / Resource Monitor
@@ -433,7 +433,7 @@
 * [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913?mt=12) or [Progressive Downloader](https://macpsd.net/) - File Download Manager
 * [AirDrop to Windows](https://redd.it/vthltc) - AirDrop to Windows Guide
 * [maestral](https://maestral.app/) - File Sharing App
-* [Adobe Creative Cloud](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mac_adobe_cc) - Adobe CC Guides
+* [Adobe Creative Cloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#mac-adobe-cc) - Adobe CC Guides
 * [TNT-Adobe-Zii](https://telegra.ph/TNT-Adobe-Zii-for-MacOS-11-01) - Adobe CC Patcher / [Subreddit](https://www.reddit.com/r/AdobeZii/)
 * [Adobe Packager](https://github.com/Drovosek01/adobe-packager) - Adobe Portable Installer Script
 * [ss64 OSX](https://ss64.com/osx/) - MacOS Bash Commands
