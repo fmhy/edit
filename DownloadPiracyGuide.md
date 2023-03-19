@@ -16,23 +16,23 @@
 * ⭐ **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
 * ⭐ **[mega.archive](https://discord.gg/R3zEZUPp3Q)** / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
 * [EyeDex](https://www.eyedex.org/), [ODCrawler](https://odcrawler.xyz/), [OpenSho](https://opendirindex.opensho.com/), [ODS](https://sites.google.com/view/l33tech/tools/ods) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engines
-* [Google TeamDrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_google_teamdrives) 
+* [Google TeamDrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#google-teamdrives) 
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28) 
-* [index-of](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_index-of) 
-* [Manny Hackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_manny_hackers)
-* [Public Drive Bot](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_public_drive_bot)
-* [blacklistedbois](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_blacklistedbois)
-* [Shiba](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_shiba)
-* [HB4All](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_happyboy)
-* [BlinkDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_blinkdrive)
-* [GDrives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_game_drive)
-* [Mark41stark](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mark41stark)
-* [KL Teamdrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_kl-teamdrive)
-* [Cloud Eleventh Hour](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cloud_eleventh_hour)
-* [Lightz Cloud](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_lightz_cloud)
-* [Xtremecloud](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_xtremecloud)
-* [smolOD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_smolod) - Small Open Directories
-* [Open Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_open_directory_indexes) - Open Directory Indexes
+* [index-of](https://github.com/nbats/FMHYedit/blob/main/base64.md#index-of) 
+* [Manny Hackers](https://github.com/nbats/FMHYedit/blob/main/base64.md#manny-hackers)
+* [Public Drive Bot](https://github.com/nbats/FMHYedit/blob/main/base64.md#public-drive-bot)
+* [blacklistedbois](https://github.com/nbats/FMHYedit/blob/main/base64.md#blacklistedbois)
+* [Shiba](https://github.com/nbats/FMHYedit/blob/main/base64.md#shiba)
+* [HB4All](https://github.com/nbats/FMHYedit/blob/main/base64.md#happyboy)
+* [BlinkDrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#blinkdrive)
+* [GDrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#game-drive)
+* [Mark41stark](https://github.com/nbats/FMHYedit/blob/main/base64.md#mark41stark)
+* [KL Teamdrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#kl-teamdrive)
+* [Cloud Eleventh Hour](https://github.com/nbats/FMHYedit/blob/main/base64.md#cloud-eleventh-hour)
+* [Lightz Cloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#lightz-cloud)
+* [Xtremecloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#xtremecloud)
+* [smolOD](https://github.com/nbats/FMHYedit/blob/main/base64.md#smolod) - Small Open Directories
+* [Open Directories](https://github.com/nbats/FMHYedit/blob/main/base64.md#open-directory-indexes) - Open Directory Indexes
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
 * [dedigger](https://www.dedigger.com/) - GDrive File Search 
 * [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) / [Discord](https://discord.gg/ZRhpUtzvkC) or [No Bucks Given](https://discord.gg/By53hyhUFS) / [Revolt](https://divolt.xyz/invite/BM9hvM0E) - Drive Sharing Communities
@@ -238,9 +238,9 @@
 * [balenaHub](https://hub.balena.io/) - Raspberry Pi Software
 * [CSDb](https://csdb.dk/) - Commodore 64 Resources
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - Professional Video, Audio & Adobe Software / Plugins
-* [WLSetup-All](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wlsetup-all) - Windows Live Essentials 2012 Archive
+* [WLSetup-All](https://github.com/nbats/FMHYedit/blob/main/base64.md#wlsetup-all) - Windows Live Essentials 2012 Archive
 * [GenP](https://www.reddit.com/r/GenP) - Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)
-* [Adobe CC](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_adobe_cc) - Adobe Creative Cloud Piracy Guide
+* [Adobe CC](https://github.com/nbats/FMHYedit/blob/main/base64.md#adobe-cc) - Adobe Creative Cloud Piracy Guide
 * [Software CSE](https://cse.google.com/cse?cx=ca4c91f63fa53d51c) / [CSE 2](https://cse.google.com/cse?cx=ec7d33ef358ae1b65) - Multi-Site Search
 
 ***
@@ -324,7 +324,7 @@
 * [VETUSWARE](https://vetusware.com/) - Abandonware / Operating Systems / Games
 * [MS-DOS Index](http://www.lanet.lv/simtel.net/msdos/index-msdos.html) - MS-DOS Software
 * [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Self-Hosted Software Index 
-* [The Vintage Software Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_vintage_software_collection) or [SCiZE's Classic Warez Collection](https://scenelist.org/) - Retro Software
+* [The Vintage Software Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#the-vintage-software-collection) or [SCiZE's Classic Warez Collection](https://scenelist.org/) - Retro Software
 * [Portable Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portable_apps) - Portable Apps for USB / SD / External Storage
 * [BelowAverage](https://belowaverage.org/) - I.T. Software
 * [Software Giveaway Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
