@@ -65,6 +65,7 @@
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools) / [ACSM Plugin](https://github.com/Leseratte10/acsm-calibre-plugin)
 * ⭐ **[Library Genesis](https://libgen.fun/)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen__mirrors)
 * ⭐ **[eBookHunter](https://ebook-hunter.org/)** - Books / Comics / Use Adblocker
+* ⭐ **[Archive.org](https://archive.org/details/texts)** - Books / Audiobooks / Magazines / Newspapers
 * ⭐ **[Telegram Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - Telegram Book Channels
 * [Shadow Libraries](https://shadowlibraries.github.io/) - EBook Site Index
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - Books
@@ -72,7 +73,6 @@
 * [Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "Books / Comics / Magazines"
 * [Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f and type "Books / Comics / Magazines"
 * [IRC Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - Download Ebooks from IRC / [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/), [2](https://encyclopediadramatica.online/Bookz) / [mIRC](https://redd.it/znprct) / [Downloader](https://github.com/aghayes/rusty_book_pirate/), [2](https://github.com/evan-buss/openbooks), [3](https://github.com/Footsiefat/Openbooks-Downloader)
-* [Archive.org](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers
 * [The Library](https://discord.gg/mSyFJz9) or [The Great E-Library](https://discord.gg/efBxSuz) - Book Discord Servers 
 * [EBOOKS SET 2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ebooks_set_2) - Books / Drive
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines 
