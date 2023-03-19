@@ -132,7 +132,7 @@
 ***
 
 * ⭐ **[Emulator Wiki](https://emulation.gametechwiki.com/index.php/Android_emulators)** - Android Emulator Index
-* ⭐ **[WSA](https://rentry.co/wsa)** - Windows Android Subsystem / [GUI](https://github.com/alesimula/wsa_pacman) / [Win10](https://github.com/cinit/WSAPatch) / [Win11](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) / [Google Apps](https://github.com/ADeltaX/WSAGAScript)
+* ⭐ **[WSA](https://docs.cloudstream.cf/other-devices/windows/)** - Windows Android Subsystem / [GUI](https://github.com/alesimula/wsa_pacman) / [Win10](https://github.com/cinit/WSAPatch) / [Win11](https://www.microsoft.com/en-us/p/app/9n4p75dxl6fg) / [Google Apps](https://github.com/ADeltaX/WSAGAScript)
 * ⭐ **[WayDroid](https://waydro.id/)** / **[Git](https://github.com/waydroid)**, [Ubuntu on Android](https://github.com/RandomCoderOrg/ubuntu-on-android) or [Anbox](https://anbox.io/) / [Git](https://github.com/anbox/anbox) - Linux Android Subsystems
 * ⭐ **[Android Studio Emulator](https://developer.android.com/studio/run/managing-avds#createavd)**
 * [Android x86](https://www.android-x86.org/) - Android Desktop OS / [Installer](https://supreme-gamers.com/r/advanced-android-x86-installer-for-windows.61/) / [Source](https://www.android-x86.org/source.html)
@@ -529,14 +529,12 @@
 * [Haoict Repository](https://haoict.github.io/cydia/) - App Repository
 * [DivestOS](https://divestos.org/fdroid/official/) - App Repository
 * [Aurora Store](https://auroraoss.com/), [2](https://f-droid.org/en/packages/com.aurora.store/) - Alt App Store / [Bypass Limits](https://youtu.be/L5RrtxQUtVE)
-* [Yalp Store](https://apkcombo.com/yalpstore/com.github.yeriomin.yalpstore/) - Alt App Store
 * [Aptoide](https://aptoide.com/) - Alt App Store
 * [AC-Market](https://ac-market.org/) - Alt App Store
 * [Skydroid](https://github.com/redsolver/skydroid) - Alt App Store
 * [Accrescent](https://accrescent.app/) - Alt App Store
 * [AppTeka](https://appteka.store/) - Alt App Store
 * [AppAnnie](https://www.appannie.com/en/apps/google-play/top/) - Top App Downloads
-* [Region Locked APKs](https://pastebin.com/Nsg98EEf) - Access Region Locked APKs
 * [Awesome Android Kotlin Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) - Kotlin App Index
 * [PalmDB](https://palmdb.net/) - Palm OS Apps / [Discord](https://discord.gg/YddKPpR)
 * [Maemo5](http://maemo.org/downloads/list/Maemo5/all/) - Maemo OS Apps
@@ -564,9 +562,6 @@
 
 # ► Android Gaming
 
-* [King Games](https://ludokinggame.com/) - Modded Games
-* [AndroidGameMods](https://www.androidgamemods.com/) - Modded Games
-* [GameDVA](https://gamedva.com/) - Modded Games
 * [Blackmod](https://blackmod.net/) - Modded Games
 * [p30afzar](https://dl.p30afzar.com/Games/) - Modded Games
 * [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
