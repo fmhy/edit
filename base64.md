@@ -1010,7 +1010,7 @@ pass: paluch
 
 ***
 
-#### Crunrchyroll Mod
+#### Crunchyroll Mod
 
 `aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1jcnVuY2h5cm9sbCZzcj10b3BpY3Mmc2Y9dGl0bGVvbmx5`
 
