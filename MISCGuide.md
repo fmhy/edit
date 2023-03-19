@@ -11,7 +11,7 @@
 
 # ► Indexes
 
-* ⭐ **[FMHY Guides](https://www.fmhy.ml/guides)** or [Mega Rentry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mega_rentry) - List of Guides
+* ⭐ **[FMHY Guides](https://www.fmhy.ml/guides)** or [Mega Rentry](https://github.com/nbats/FMHYedit/blob/main/base64.md#mega-rentry) - List of Guides
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
 * ⭐ **[/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/index)**, [2](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki), [3](https://raddle.me/f/Piracy), [4](https://www.saidit.net/s/piracy/) - Piracy Index
 * ⭐ **[/r/PiratedGames Megathread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Gaming Piracy Site Index / [Discord](https://discord.gg/dZWwhUy)
@@ -82,7 +82,7 @@
 * [num's link list](https://soda.privatevoid.net/num/links/) - Site Index
 * [NYPL Best of the Web](https://www.nypl.org/collections/nypl-recommendations/best-of-web) - Site Index
 * [Awesome Lite Websites](https://github.com/mdibaiee/awesome-lite-websites) - Lightweight Site Index
-* [Onion Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_onion_directories) - .onion Directories
+* [Onion Directories](https://github.com/nbats/FMHYedit/blob/main/base64.md#onion-directories) - .onion Directories
 * [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public Domain Resource Index Awesome
 * [LinkLonk](https://linklonk.com/) - Link Aggregator & Voting
 * [Simple Tools](https://simpletools.info/doku.php) - Simple Programs Index 
@@ -1053,7 +1053,7 @@
 # ►  Fonts
 
 * ⭐ **[How to Download Fonts](https://redd.it/8tqfg6)**
-* ⭐ **[Font Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_font_collections)** - Font Drives
+* ⭐ **[Font Collections](https://github.com/nbats/FMHYedit/blob/main/base64.md#font-collections)** - Font Drives
 * ⭐ **[Unicode Font Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_unicode_font_generators)** - Generate Typed Text Fonts
 * [Formito](https://formito.com/tools/logo) - Typography Logo Maker
 * [Font Map](http://fontmap.ideo.com/) - Map of Fonts
@@ -1469,7 +1469,7 @@
 ## ▷ Safari
 
 * [‎Momentum](https://apps.apple.com/us/app/momentum/id1564329434) - Custom New Tab Page
-* [Dark Reader](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_dark_reader), [NightLight](https://apps.apple.com/us/app/nightlight-for-safari/id1429386865?mt=12), [Night Eye](https://apps.apple.com/us/app/night-eye-for-safari/id1450504903?mt=12), [Dark Reader Script](https://gist.github.com/kfur/266c456dd69072eb7533f457ee5f18a0) or [Dark Mode](https://apps.apple.com/us/app/dark-mode-for-safari/id1397180934?mt=12) - Dark Mode
+* [Dark Reader](https://github.com/nbats/FMHYedit/blob/main/base64.md#dark-reader), [NightLight](https://apps.apple.com/us/app/nightlight-for-safari/id1429386865?mt=12), [Night Eye](https://apps.apple.com/us/app/night-eye-for-safari/id1450504903?mt=12), [Dark Reader Script](https://gist.github.com/kfur/266c456dd69072eb7533f457ee5f18a0) or [Dark Mode](https://apps.apple.com/us/app/dark-mode-for-safari/id1397180934?mt=12) - Dark Mode
 * [Tab Space](https://apps.apple.com/us/app/tab-space/id1473726602?mt=12) or [‎StartPage.ai](https://apps.apple.com/us/app/startpage-ai/id1584727895) - Tab Manager
 * [Amerigo](https://apps.apple.com/us/app/amerigo-file-manager/id605569663) - File Download Manager
 * [Keyword Search](https://apps.apple.com/us/app/keyword-search/id1558453954?mt=12) - Keyword Search Bar
