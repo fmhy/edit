@@ -67,7 +67,7 @@
 * [SleepyTime](https://sleepytime.cc/) - Bedtime Calculator
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - Bra Size Calculator
 * [The Sustainabilitist](https://sustainabilitist.com/) - Sustainability Resource Hub
-* [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity Booster / [Premium Unlock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_cold_turkey_premium)
+* [Cold Turkey](https://getcoldturkey.com/) - Site Blocker / Productivity Booster / [Premium Unlock](https://github.com/nbats/FMHYedit/blob/main/base64.md#cold-turkey-premium)
 * [Tempus](https://tempus.keziahmoselle.fr/), [ActivityWatch](https://activitywatch.net/) / [Extensions](https://github.com/ActivityWatch/aw-watcher-web), [ProcrastiTracker](https://strlen.com/procrastitracker/), [ManicTime](https://www.manictime.com/), [Clockify](https://clockify.me/), [Furtherance](https://github.com/lakoliu/Furtherance), [Pro Modoro](https://pro-modoro.xyz/) / [2](https://pomofocus.io/), [Bytetrack](https://bytetrack-app.bytebeacon.com/), [Virtual Cottage](https://dui.itch.io/virtual-cottage) or [Super-Productivity](https://github.com/johannesjo/super-productivity) - Productivity  / Activity Trackers
 * [DogSheep](https://dogsheep.github.io/) - Personal Analytics Tools
 * [Stretchly](https://hovancik.net/stretchly), [WorkRave](https://workrave.org/), [Take a Five](http://www.takeafive.com/), [BreakMessage](https://breakmessage.com/), [BreakTimer](https://breaktimer.app/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - Break Reminders / Trackers
@@ -142,7 +142,7 @@
 * ⭐ **[Multiple Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_text_tool_sites)** - Sites with Multiple Text Tools
 * ⭐ **[Emojipedia](https://emojipedia.org/)**, [EmojiBatch](https://www.emojibatch.com/), [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/), [Words2Emoji](https://www.words2emoji.com/) or [GetEmoji](https://getemoji.com/) - Emoji Indexes
 * [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Pastebin
-* [Scrivener](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_scrivener) - Book Writing App
+* [Scrivener](https://github.com/nbats/FMHYedit/blob/main/base64.md#scrivener) - Book Writing App
 * [WriteURL](https://www.writeurl.com/) or [Kludd](https://kludd.co/) - Collaborative Text Editors
 * [GhostText](https://ghosttext.fregante.com/) - Use Text Editor in Browser
 * [Sticky Notes](https://fdossena.com/?p=stickynotes/i.frag) - Desktop Sticky Notes
@@ -497,7 +497,7 @@
 * [Online Mic Test](https://onlinemictest.com/), [Mic Tests](https://mictests.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test  
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) - Measure Surrounding Sound Level
 * [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch Playback or Recording Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)
-* [Ultimate Realtek HD Audio Driver Mod](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ultimate_realtek_hd_audio_driver_mod) or [Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic) - Realtek Audio Driver
+* [Ultimate Realtek HD Audio Driver Mod](https://github.com/nbats/FMHYedit/blob/main/base64.md#ultimate-realtek-hd-audio-driver-mod) or [Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic) - Realtek Audio Driver
 * [ASIO4ALL](https://www.asio4all.org/) - ASIO Audio Driver
 * [FXSound](https://www.fxsound.com/) - Sound Booster & Equalizer
 * [HeSuVi](https://sourceforge.net/projects/hesuvi/) - Headphone Surround Virtualizations
@@ -534,7 +534,7 @@
 * [Faasoft FLAC Converter](https://www.faasoft.com/articles/flac-converter-mac-and-windows.html) - FLAC Converter
 * [CUETools](http://cue.tools/wiki/CUETools) - Lossless Audio / CUE Sheet Converter
 * [FLAC Frontend](http://flacfrontend.sourceforge.net/) - FLAC Tools 
-* [FLStudio Skins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_flstudio_skins) - Skins for FLStudio
+* [FLStudio Skins](https://github.com/nbats/FMHYedit/blob/main/base64.md#flstudio-skins) - Skins for FLStudio
 * [Webamp](https://webamp.org/) - Winamp in Browser 
 * [Winamp Skin Museum](https://skins.webamp.org/) - Skins for Winamp / Webamp 
 * [WACUP](https://getwacup.com/) - Winamp update project 
@@ -616,7 +616,7 @@
 * [Krisp](https://krisp.ai/), [Noise Suppression](https://github.com/werman/noise-suppression-for-voice) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) / [CLI](https://github.com/IniasP/rnnoise-cli) - Noise Suppression Tools
 * [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10)or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixer
 * [NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB) - Singing Voice Enhancer
-* [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [MorphVOX](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_morphvox), [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird), [MyVoiceMod](https://myvoicemod.com/), [Voice.ai](https://voice.ai/voice-changer), [FTM Voice Changer](https://lingojam.com/FemaletoMaleVoiceChanger) or [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changers
+* [Voice Changer](https://voicechanger.io/), [voice-changer](https://www.voice-changer.org/), [VoiceChanger](https://www.nchsoftware.com/voicechanger/index.html), [MorphVOX](https://github.com/nbats/FMHYedit/blob/main/base64.md#morphvox), [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird), [MyVoiceMod](https://myvoicemod.com/), [Voice.ai](https://voice.ai/voice-changer), [FTM Voice Changer](https://lingojam.com/FemaletoMaleVoiceChanger) or [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changers
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) or [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone Voices
 * [Anchor](https://anchor.fm/), [Sound Branch](https://soundbran.ch/) or [ZenCastr](https://zencastr.com/) - Podcast Creators
 * [Spotify Podcasters](https://podcasters.spotify.com/) - Podcaster Dashboard
@@ -701,7 +701,7 @@
 * [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide 
 * [TryHackMe](https://tryhackme.com/), [AWS Training](https://www.aws.training/), [Comptia](https://www.comptia.org/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html), [UI.com](https://www.ui.com/training/), [CryptoHack](https://cryptohack.org/) - IT Training & Courses
 * [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - IT Certification Courses
-* [Marketing / Business Courses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_marketing_courses)
+* [Marketing / Business Courses](https://github.com/nbats/FMHYedit/blob/main/base64.md#marketing-courses)
 * [Traders Video Library](https://t.me/+SrWg6eTupAdnoXgY) - Trading Courses / [Mirror](https://t.me/TradersVideo_Library)
 * [Data.gov Resources](https://resources.data.gov/) - Data Management Tools & Training
 * [NIST](https://www.nist.gov/nice/apprenticeship-finder) - NICE Apprenticeship Program Finder
@@ -792,7 +792,7 @@
 * [Elmocut](https://github.com/elmoiv/elmocut) or [SelfishNetV3](https://github.com/nov0caina/SelfishNetV3) - ARP Spoofer / Kick Users from WiFi 
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
 * [WiFiCard](https://wificard.io/) - WiFi Info QRCode Generator
-* [Master Networks & Scanning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_master_networks_.26amp.3B_scanning) - Network & Network Scanning Tutorials
+* [Master Networks & Scanning](https://github.com/nbats/FMHYedit/blob/main/base64.md#master-networks--scanning) - Network & Network Scanning Tutorials
 * [RustCat](https://github.com/robiot/rustcat) - Port Listener
 * [SerialPortAssistant](https://github.com/KangLin/SerialPortAssistant) - Serial Port Assistant
 * [.new](https://whats.new/shortcuts) - New Project Shortcuts
@@ -975,7 +975,7 @@
 * [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium) - Chrome without Google / [Launcher](https://github.com/henrypp/chrlauncher)
 * [Carbonyl](https://github.com/fathyb/carbonyl) - Chromium in Terminal
 * [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
-* [Safari Windows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_safari_windows) - Safari for Windows
+* [Safari Windows](https://github.com/nbats/FMHYedit/blob/main/base64.md#safari-windows) - Safari for Windows
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) or `about:memory` - Reduce Firefox Memory Usage
 * [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) or [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Firefox Hidden Settings
 * [Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - Firefox UI Enhancements
@@ -1775,7 +1775,7 @@ Twitch Stream Tracker
 # ► System Tools
 
 * ⭐ **[PC Building / Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)** - Compare Systems and Parts
-* ⭐ **[Windows Piracy Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_windows_piracy_guides)** - How-to Pirate Windows
+* ⭐ **[Windows Piracy Guides](https://github.com/nbats/FMHYedit/blob/main/base64.md#windows-piracy-guides)** - How-to Pirate Windows
 * ⭐ **[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - Download Windows
 * ⭐ **[Windows Activators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation)** - Windows Activation Guides / Scripts / [Rentry](https://rentry.co/win-activate)
 * ⭐ **[Windows Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)** - Windows 10 Debloating Tools
@@ -1808,7 +1808,7 @@ Twitch Stream Tracker
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - Preinstallation Environment
 * [goldBoot](https://github.com/fossable/goldboot) - Create Immutable Infrastructure
 * [MSDN Files](https://msdn.rg-adguard.net/) or [Microsoft Downloads Dump](https://www.heidoc.net/php/myvsdump.php) - Verify ISO Legitimacy
-* [WinXP Service Pack 4](https://www.majorgeeks.com/files/details/windows_xp_service_pack_4_unofficial.html) - Windows XP Unofficial Service Pack 4 / [Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_winxp_service_pack_4)
+* [WinXP Service Pack 4](https://www.majorgeeks.com/files/details/windows_xp_service_pack_4_unofficial.html) - Windows XP Unofficial Service Pack 4 / [Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#winxp-service-pack-4)
 * [ChangeWindows](https://www.changewindows.org/timeline) - Latest Windows Update Info
 * [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) or [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - Extended Windows 7 Updates
 * [WSUOffline](https://download.wsusoffline.net/) - Offline Windows Updates
@@ -1828,12 +1828,12 @@ Twitch Stream Tracker
 * [VMWare](https://gist.github.com/rkennesson/2c4595bf062aaab387dccf1210accf98) - Hide Virtual Machine
 * [QuickEmu](https://github.com/wimpysworld/quickemu) or [Dexpot](https://www.dexpot.de/) - Virtual Machine Creator
 * [vBoxSysInfoMod](https://github.com/JayMontana36/vBoxSysInfoMod) - Modify VM System Info
-* [Windows Sandbox](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview) or [Sandboxie Plus](https://sandboxie-plus.com/) / [Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sandboxie_pro) - Sandbox Environment
+* [Windows Sandbox](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview) or [Sandboxie Plus](https://sandboxie-plus.com/) / [Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#sandboxie-pro) - Sandbox Environment
 * [Dockerholics](https://github.com/petersem/dockerholics) - Docker Apps
 * [WebCatalog](https://webcatalog.app/) - Turn Sites into Desktop Apps
 * [Heimdall](https://heimdall.site/) - Application Manager
 * [GParted](https://gparted.org/), [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
-* [PC Manger](https://pcmanager-en.microsoft.com/), [Parted Magic](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_parted_magic) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Manager / Cleanup
+* [PC Manger](https://pcmanager-en.microsoft.com/), [Parted Magic](https://github.com/nbats/FMHYedit/blob/main/base64.md#parted-magic) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Manager / Cleanup
 * [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-P) - Easy GPU Paravirtualization
 * [Gptgen](https://github.com/xorangekiller/gptgen) - MBR Partition Table to GPT Converter
 * [Ext3Fsd](https://github.com/matt-wu/Ext3Fsd) - Ext2/3/4 File System Driver
@@ -2001,7 +2001,7 @@ Twitch Stream Tracker
 * [CouleursToolbox](https://github.com/couleurm/couleurstoolbox) - Installs Multiple Programs / Tweaks 
 * [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator 
 * [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
-* [Revo Uninstaller](https://www.revouninstaller.com/), [Soft Organizer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_soft_organizer), [Geek Uninstaller](https://geekuninstaller.com/), [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) or [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Software Uninstallation Tool
+* [Revo Uninstaller](https://www.revouninstaller.com/), [Soft Organizer](https://github.com/nbats/FMHYedit/blob/main/base64.md#soft-organizer), [Geek Uninstaller](https://geekuninstaller.com/), [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) or [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Software Uninstallation Tool
 * [O&O App Buster](https://www.oo-software.com/en/ooappbuster) or [PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Remove Pre-Installed Microsoft Apps
 * [Update Notifier](http://cleansofts.org/view/update-notifier.html) - Scan Computer for Software Updates 
 * [Nemesis](https://forums.guru3d.com/threads/3rd-party-driver-amernime-zone-radeon-release-nemesis-22-6-1-whql-driverpack.436611/) - Custom Drivers for Discontinued GPUs
@@ -2140,7 +2140,7 @@ Twitch Stream Tracker
 * [pyWinContext](https://github.com/VodBox/pyWinContext) or [WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - Custom Context Menu Manager
 * [TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Translucent Context Menus
 * [Modern Flyouts](https://www.microsoft.com/en-gb/p/modernflyouts-preview/9mt60qv066rp?activetab=pivot:overviewtab) - Modern Context Menus / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
-* [WindowFX](https://www.stardock.com/products/windowfx/) - System Animation Effects / [Premium](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_windowfx_premium)
+* [WindowFX](https://www.stardock.com/products/windowfx/) - System Animation Effects / [Premium](https://github.com/nbats/FMHYedit/blob/main/base64.md#windowfx-premium)
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10 Search Appearance Tweaker
 * [Taskbar Tweaker](https://tweaker.rammichael.com/), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) or [Valaut](http://www.valaut.phpnet.us/) - Taskbar Customization Tools
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Translucent Windows Taskbar 
@@ -2158,7 +2158,7 @@ Twitch Stream Tracker
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
 * [Cursors 4U](https://www.cursors-4u.com/), [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor), [Cursors Pastebin](https://pastebin.com/BrAbMy4n) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - MacOS Cursors for Windows
-* [Win11 Sounds](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_win11_sounds) - Windows Sound Schemes
+* [Win11 Sounds](https://github.com/nbats/FMHYedit/blob/main/base64.md#win11-sounds) - Windows Sound Schemes
 * [Win7BootUpdater](https://mega.nz/file/T5ZDmIaK#jdiomK79q1CYzwFcbzkzJ1ceLsWlnAHLvofsjHIq39g) - Customize Windows 7 Boot Animation / [Guide](https://youtu.be/IdwcWIKuVG8)
 * [After Dark CSS](https://www.bryanbraun.com/after-dark-css/) - Browser Screensavers
 * [terminal.sexy](https://terminal.sexy/), [TerminalSplash](https://terminalsplash.com/), [Solarized](https://ethanschoonover.com/solarized) or [WindowsTerminalThemes](https://windowsterminalthemes.dev/) - Terminal Themes
@@ -2335,7 +2335,7 @@ Twitch Stream Tracker
 * [BZSHUT](https://github.com/arunkumartdr/BZSHUT) - Temp File Deletion Script
 * [WinMerge](https://winmerge.org/) - Compare / Merge Files & Folders
 * [FilesMerge](https://www.filesmerge.com/) - Online File Merger
-* [Beyond Compare](https://www.scootersoftware.com/) - File / Directory Comparison Tool / [Crack](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_beyond_compare_crack)
+* [Beyond Compare](https://www.scootersoftware.com/) - File / Directory Comparison Tool / [Crack](https://github.com/nbats/FMHYedit/blob/main/base64.md#beyond-compare-crack)
 * [Apaxy](https://oupala.github.io/apaxy/) - Apache Directory Theme
 * [Nginxy](https://github.com/lfelipe1501/Nginxy) - Nginx Directory Theme
 * [Windows compact](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/compact) - Displays or alters the compression of files or directories on NTFS partitions + [GUI 1](https://github.com/ImminentFate/CompactGUI) or [GUI 2](https://github.com/Freaky/Compactor)
