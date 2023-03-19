@@ -109,6 +109,7 @@
 * [GoLang.org](https://golang.org/doc/tutorial/getting-started) - Go Tutorial
 * [HowIStart Go](https://howistart.org/posts/go/1/) - Go Setup Guide
 * [Next](https://hendrixer.github.io/nextjs-course/) - Learn Next.js
+* [Rust Learning](https://github.com/ctjhoa/rust-learning) - Rust Learning Resources
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) - Rust Programming Guidebook
 * [JavaScript.info](https://javascript.info/) - JavaScript Guide 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Javascript Learning Books
@@ -1199,7 +1200,7 @@
 * [Gummy](https://gummyjs.vercel.app/) - Easily Build JavaScript Programs 
 * [Beautifier](https://beautifier.io/) - JavaScript Beautifier
 * [UglifyJS](https://skalman.github.io/UglifyJS-online/) or [JavaScript Compressor](https://javascriptcompressor.com/) - JavaScript Minifier
-* [JDec](https://jdec.app/) - Online JavaScript Decompiler
+* [bytecode-viewer](https://github.com/Konloch/bytecode-viewer), [JDec](https://jdec.app/), [jd-gui](https://github.com/java-decompiler/jd-gui), [Krakatau](https://github.com/Storyyeller/Krakatau), [Luyten](https://github.com/deathmarine/Luyten) or [Fernflower](https://github.com/fesh0r/fernflower) - Java Decompilers
 * [Regulex](https://jex.im/regulex/) - JavaScript Regular Expression Visualizer
 * [anime.js](https://animejs.com/) - JavaScript Animation Library / [GitHub](https://github.com/juliangarnier/anime/)
 * [randomcolor](https://randomcolor.lllllllllllllllll.com/) - Random Javascript Color Generator
