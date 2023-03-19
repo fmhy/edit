@@ -54,7 +54,7 @@
 ***
 
 * ⭐ **[KaOsKrew](https://www.kaoskrew.org/)** - Download / Torrent
-* ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/Up3YARe4RW) / [Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_silentycrying.27s_game_drive)
+* ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/Up3YARe4RW) / [Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#silentycryings-game-drive)
 * ⭐ **[DODI Repacks](http://dodi-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
 * ⭐ **[M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)** - Download / [Discord](https://discord.gg/693hNBdymb)
 * [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - Download / Torrent / [Discord](https://discord.gg/HP5sQ6c)
@@ -96,7 +96,7 @@
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
 * [PokemonRevolution](https://pokemonrevolution.net/) - Pokemon MMO
 * [Puyo Puyo VS](https://puyovs.com/) - Puyo Puyo Clone
-* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_setlists), [2](https://customsongscentral.com/) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing)
+* [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://github.com/nbats/FMHYedit/blob/main/base64.md#setlists), [2](https://customsongscentral.com/) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing)
 * [StepMania](https://www.stepmania.com/), [Project OutFox](https://projectoutfox.com/) or [NotITG](https://www.noti.tg/) - DDR Clones
 * [StepPrime](https://stepprimeofficial.blogspot.com/) - Pump It Up Clone
 * [Malody](https://m.mugzone.net/) - Rhythm Game
@@ -145,7 +145,7 @@
 * [GameGinie](https://gameginie.com/) - Emulators / ROMs
 * [Rom Hustler](https://romhustler.org/) - Emulators / ROMs
 * [Technosagar](https://roms.technosagar.com/) - ROMs
-* [80s](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_80s) - Emulators / ROMs 
+* [80s](https://github.com/nbats/FMHYedit/blob/main/base64.md#80s) - Emulators / ROMs 
 * [ROMsDownload](https://ROMsdownload.net/) - Emulators / ROMs
 * [The Old Computer](https://www.theoldcomputer.com/) - Emulators / ROMs
 * [Emulator Games](https://www.emulatorgames.net/) - Emulators / ROMs
@@ -164,7 +164,7 @@
 * [All Xbox Game](https://downloadgamexbox.com/) - ROMs
 * [RPGOnly](https://rpgonly.com) - ROMs
 * [RomToHome](https://romtohome.com/) - ROMs
-* [Sundby](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_sundby) - ROMs
+* [Sundby](https://github.com/nbats/FMHYedit/blob/main/base64.md#sundby) - ROMs
 * [EdgeEmulation](https://edgeemu.net/) - ROMs
 * [GLoad](https://gload.to/) - ROMs
 * [WowROMs](https://wowROMs.com/en/) - ROMs
@@ -198,7 +198,7 @@
 * [RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list) - Emulator Tool Index
 * [Forest of Illusion](https://forestillusion.com/) - Nintendo Prototype ROMs
 * [RomHacking](https://www.romhacking.net/) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Translations and Hacks
-* [Marios Alternative](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_hacked_super_mario) - Hacked Super Mario ROMs
+* [Marios Alternative](https://github.com/nbats/FMHYedit/blob/main/base64.md#hacked-super-mario) - Hacked Super Mario ROMs
 * [SMWCentral](https://smwcentral.net/) - Hacked Super Mario World ROMs
 * [Wario Land Hack Vault](https://wario-land.github.io/HackVault/index.html) - Hacked Wario Land ROMs
 * [PokemonLog](https://pokemonlog.com/), [PokeHarbor](https://www.pokeharbor.com/) or [Pokemon Coders](https://www.pokemoncoders.com/) - Hacked Pokemon ROMs
@@ -234,22 +234,22 @@
 ## ▷ ROM Archives
 
 * ⭐ **[Myrient](https://myrient.erista.me/)** - ROMs
-* ⭐ **[No-Intro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_no-intro)** - ROMs
-* ⭐ **[AlvRo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_alvro)** - ROMs / pw: ByAlvRo
-* ⭐ **[RomCenter](https://r-ROMs.github.io/)**, [2](https://pastelink.net/24dhn) - ROMs / [Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_romcenter)
+* ⭐ **[No-Intro](https://github.com/nbats/FMHYedit/blob/main/base64.md#no-intro)** - ROMs
+* ⭐ **[AlvRo](https://github.com/nbats/FMHYedit/blob/main/base64.md#alvro)** - ROMs / pw: ByAlvRo
+* ⭐ **[RomCenter](https://r-ROMs.github.io/)**, [2](https://pastelink.net/24dhn) - ROMs / [Pastebins](https://github.com/nbats/FMHYedit/blob/main/base64.md#romcenter)
 * ⭐ **[ROM-Collections](https://rentry.co/ROM-Collections)** - ROMs
 * [TheRomDepot](https://theromdepot.com/) - ROMs
-* [Squid Proxy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_squid_proxy) - ROMs
-* [Rom GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rom_gdrive) - ROMs
-* [@Storage_Manager](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.40storage_manager) - ROMs / Zip 
-* [FinalBurn Neo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_finalburn_neo) - ROMs / Zip 
-* [Everdrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_everdrive) - ROMs / Zip
-* [Many Dumped Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_many_dumped_games) - ROMs
-* [nwifiresticks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_nwifiresticks) - ROMs
+* [Squid Proxy](https://github.com/nbats/FMHYedit/blob/main/base64.md#squid-proxy) - ROMs
+* [Rom GDrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#rom-gdrive) - ROMs
+* [@Storage_Manager](https://github.com/nbats/FMHYedit/blob/main/base64.md#storage_manager) - ROMs / Zip 
+* [FinalBurn Neo](https://github.com/nbats/FMHYedit/blob/main/base64.md#finalburn-neo) - ROMs / Zip 
+* [Everdrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#everdrive) - ROMs / Zip
+* [Many Dumped Games](https://github.com/nbats/FMHYedit/blob/main/base64.md#many-dumped-games) - ROMs
+* [nwifiresticks](https://github.com/nbats/FMHYedit/blob/main/base64.md#nwifiresticks) - ROMs
 * [Rom Pack](https://www.ROMspack.com/) - ROMs
 * [NoPayStation](https://nopaystation.com/), [SafeROMs](https://www.saferoms.com/) or [PSNDL](https://psndl.net/) - ROMs / Playstation Consoles
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
-* [Xbox Fan](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_xbox_fan) - Xbox 360 ROMs / LT Firmware & FREEBOOT / [Telegram](https://t.me/xbox_fan_games)
+* [Xbox Fan](https://github.com/nbats/FMHYedit/blob/main/base64.md#xbox-fan) - Xbox 360 ROMs / LT Firmware & FREEBOOT / [Telegram](https://t.me/xbox_fan_games)
 * [Xbox Emulation Hub](https://discord.com/invite/7pcAbZzpXj) - Xbox Emulation Discord
 * [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
 * [NSWDB](http://www.nswdb.com) - Switch Release Tracker
@@ -355,9 +355,9 @@
 * [The Outdated Arcade](https://discord.gg/SPZpMpntj9) - Game Preservation Server
 * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs 
 * [Japanese PC Compendium](http://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
-* [TOSEC](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_tosec) - The Old School Emulation Center
+* [TOSEC](https://github.com/nbats/FMHYedit/blob/main/base64.md#tosec) - The Old School Emulation Center
 * [Tiny8bit](https://floooh.github.io/tiny8bit/) or [Piepacker](https://piepacker.com/) - Retro Game Browser Emulators
-* [pc-98](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_pc-98) - PC-98 Games
+* [pc-98](https://github.com/nbats/FMHYedit/blob/main/base64.md#pc-98) - PC-98 Games
 * [Abandonia](http://www.abandonia.com/), [XTCabandonware](http://www.xtcabandonware.com/) or [VETUSWARE](https://vetusware.com/category/Games/?cat=7) - Abandonware
 * [Remakes Reloaded](http://www.reloaded.org/) - Remakes of Classics
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - ROMs / Arcade / Retro / [Discord](https://discord.gg/rH9wRpu2vh) 
@@ -394,7 +394,7 @@
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
 * [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [GitHub](https://github.com/ioquake/ioq3)
 * [Aleph One](https://alephone.lhowon.org/) - Open-Source Marathon Continuation 
-* [Powerslave EX](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_powerslave_ex) - Powerslave PC Port 
+* [Powerslave EX](https://github.com/nbats/FMHYedit/blob/main/base64.md#powerslave-ex) - Powerslave PC Port 
 * [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) - Driver 2 PC Port
 * [Megaman 2.5D](http://petersjostrand.com/) - Multiplayer Mega Man
 * [Streets of Rage Remake](https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info) - Streets of Rage Remake
@@ -755,15 +755,15 @@
 ## ▷ Flash Games
 
 * ⭐ **[BlueMaxima](http://bluemaxima.org/flashpoint/)** - Archive / [Discord](https://discord.gg/Z4gGtJvvn8) 
-* ⭐ **[Software Library: Flash](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_software_library.3A_flash)** - Archive 
+* ⭐ **[Software Library: Flash](https://github.com/nbats/FMHYedit/blob/main/base64.md#software-library-flash)** - Archive 
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - Tools / Apps to Run Flash Programs
-* [Rek's Flash Game Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_flash_game_collection) - Archive 
-* [ClassicGames.rar](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_classicgames.rar) - Archive / pw:paluch
+* [Rek's Flash Game Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#reks-flash-game-collection) - Archive 
+* [ClassicGames.rar](https://github.com/nbats/FMHYedit/blob/main/base64.md#classicgamesrar) - Archive / pw:paluch
 * [Flash by Night](http://flashbynight.com/) - Browser Games
 * [FlashGamesArchive](http://www.flashgamearchive.com/playable/) - Browser Games
 * [Flash Arch](https://flasharch.com/en) - Browser Games
 * [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Browser Games
-* [The Flash Emulation Repair Shop](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_the_flash_emulation_repair_shop) - Flash Games Under Repair
+* [The Flash Emulation Repair Shop](https://github.com/nbats/FMHYedit/blob/main/base64.md#the-flash-emulation-repair-shop) - Flash Games Under Repair
 * [Arcade Prehacks](http://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
 * [How-to Play Flash Games](https://rentry.co/oc4wc) - Browser Flash Game Tutorial
 
