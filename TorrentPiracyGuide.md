@@ -211,6 +211,7 @@
 * [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) - Open Tracker Invites
 * [Open for Signup](https://t.me/opensignup) - Open Signups Private Trackers / Telegram
 * [Bemaniso](https://bemaniso.ws/) - Torrent Tracker / [Auto Transcode / Upload](https://github.com/doggo404/sowsbetter)
+* [Private Tracker Reviews](https://gitea.com/sh3ll/torrentinvites-reviews-backup), [2](https://gitea.com/sh3ll/invitehawk-reviews-backup)
 
 ***
 
