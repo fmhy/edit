@@ -74,7 +74,7 @@
 * [Afdah.live](https://afdah.live/) - Movies / TV
 * [Flixtor](https://flixtor.to) - Movies / TV / Movies Older Than 6 Months For Premium Only
 * [GotyTV](https://gotytv.com/) - Movies / TV / Requires Signup
-* [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_google_teamdrives) - Movies / TV / Anime
+* [TeamDrive Indexes](https://github.com/nbats/FMHYedit/blob/main/base64.md#google-teamdrives) - Movies / TV / Anime
 * [English Movies](https://m.vk.com/english_movies) - Movies
 * [Filmzie](https://filmzie.com/) - Movies / TV
 * [PopcornFlix](https://www.popcornflix.com/) - Movies / TV
@@ -315,7 +315,7 @@
 * [Homestar Runner](https://homestarrunner.com/) - Web-Series / Games
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - Bay Area TV Archive
 * [Taskmaster](https://www.youtube.com/@Taskmaster/playlists?view=50&sort=dd&shelf_id=1) - Taskmaster Episodes / [International](https://www.youtube.com/@Taskmaster/playlists?view=50&sort=dd&shelf_id=4)
-* [Ninja Warrior](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ninja_warrior) - Sasuke Episodes
+* [Ninja Warrior](https://github.com/nbats/FMHYedit/blob/main/base64.md#ninja-warrior) - Sasuke Episodes
 * [MyRM](https://myrunningman.com/) - My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)
 * [No-Laughing Batsu Game List](https://redd.it/2fgm9p)
 * [cytube](https://cytu.be/) - TV / Chat
@@ -602,7 +602,7 @@
 * [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Smart TV Ads
 * [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) or [TV Bro](https://play.google.com/store/apps/details?id=com.phlox.tvwebbrowser) - Ad Free Android TV Browsers
 * [SmartTubeNext](https://smartyoutubetv.github.io/) - Ad Free Android TV YouTube Player / [GitHub](https://github.com/yuliskov/SmartTubeNext)
-* [Android TV Spotify](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_android_tv_spotify) - Android TV Spotify Client
+* [Android TV Spotify](https://github.com/nbats/FMHYedit/blob/main/base64.md#android-tv-spotify) - Android TV Spotify Client
 * [YTCast](https://github.com/MarcoLucidi01/ytcast) - Cast YouTube Videos to Smart TV
 * [S0undTV](https://github.com/S0und/S0undTV) - Android TV Twitch Player
 * [SmartTwitchTV](https://github.com/fgl27/SmartTwitchTV) - Smart TV Twitch Player
@@ -727,34 +727,34 @@
 
 ## ▷ Drives / Directories 
 
-* ⭐ **[Rinzry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rinzry)** - Movies / TV / Anime
-* ⭐ **[50TB](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_50tb_mega_drive)** - Movies
-* ⭐ **[Rek's Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rek.27s_drive)** - Movies / Anime
+* ⭐ **[Rinzry](https://github.com/nbats/FMHYedit/blob/main/base64.md#rinzry)** - Movies / TV / Anime
+* ⭐ **[50TB](https://github.com/nbats/FMHYedit/blob/main/base64.md#50tb-mega-drive)** - Movies
+* ⭐ **[Rek's Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#reks-drive)** - Movies / Anime
 * [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
-* [Media](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_media) - Movies / TV / Anime
-* [†M1o8143](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.2020m1o8143) - Movies / TV / Anime
-* [Torrent TD](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_torrent_td) - Movies / TV / Anime
-* [moo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_moo) - Movies / TV
-* [aryatejprakash72](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_aryatejprakash72) - Movies / TV
-* [teamqbit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_teamqbit) - Movies / TV / Anime
-* [188.165.227.112](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_188.165.227.112) - Movies / TV
-* [162.12.215.254](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_162.12.215.254) - Movies
-* [163.172.97.48](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_163.172.97.48) - Movies / TV
-* [GamesDrivex8](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_gamesdrivex8) - Movies / TV / Anime
-* [akses](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_akses) - Movies
-* [Movies, Series... in English](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_movies.2C_series..._in_english) - Movies / TV
-* [Extreme Mirror](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_extreme_mirror) - Movies / TV / Anime
-* [r/moviegod](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_r.2Fmoviegod) - Movies
-* [wenubgang](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_wenubgang) - TV / Anime
-* [papaonwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_papaonwork) - Movies / TV / Anime
-* [مسلسلات اجنبية‬‎](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_.645.633.644.633.644.627.62A_.627.62C.646.628.64A.629) - TV
-* [Remux Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_17tb_mega_drive) - HD Movies
-* [4K Collection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_4k_movie_collection) - HD Movies
+* [Media](https://github.com/nbats/FMHYedit/blob/main/base64.md#media) - Movies / TV / Anime
+* [†M1o8143](https://github.com/nbats/FMHYedit/blob/main/base64.md#m1o8143) - Movies / TV / Anime
+* [Torrent TD](https://github.com/nbats/FMHYedit/blob/main/base64.md#torrent-td) - Movies / TV / Anime
+* [moo](https://github.com/nbats/FMHYedit/blob/main/base64.md#moo) - Movies / TV
+* [aryatejprakash72](https://github.com/nbats/FMHYedit/blob/main/base64.md#aryatejprakash72) - Movies / TV
+* [teamqbit](https://github.com/nbats/FMHYedit/blob/main/base64.md#teamqbit) - Movies / TV / Anime
+* [188.165.227.112](https://github.com/nbats/FMHYedit/blob/main/base64.md#188165227112) - Movies / TV
+* [162.12.215.254](https://github.com/nbats/FMHYedit/blob/main/base64.md#16212215254) - Movies
+* [163.172.97.48](https://github.com/nbats/FMHYedit/blob/main/base64.md#1631729748) - Movies / TV
+* [GamesDrivex8](https://github.com/nbats/FMHYedit/blob/main/base64.md#gamesdrivex8) - Movies / TV / Anime
+* [akses](https://github.com/nbats/FMHYedit/blob/main/base64.md#akses) - Movies
+* [Movies, Series... in English](https://github.com/nbats/FMHYedit/blob/main/base64.md#movies-series-in-english) - Movies / TV
+* [Extreme Mirror](https://github.com/nbats/FMHYedit/blob/main/base64.md#extreme-mirror) - Movies / TV / Anime
+* [r/moviegod](https://github.com/nbats/FMHYedit/blob/main/base64.md#rmoviegod) - Movies
+* [wenubgang](https://github.com/nbats/FMHYedit/blob/main/base64.md#wenubgang) - TV / Anime
+* [papaonwork](https://github.com/nbats/FMHYedit/blob/main/base64.md#papaonwork) - Movies / TV / Anime
+* [مسلسلات اجنبية‬‎](https://github.com/nbats/FMHYedit/blob/main/base64.md#%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A9) - TV
+* [Remux Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#17tb-mega-drive) - HD Movies
+* [4K Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#4k-movie-collection) - HD Movies
 * [Search OD Index](https://gitlab.com/Rust1667/search-od-index) - Movie / TV / Anime Open Directory Search
-* [r/MegaLinks Backup](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_r.2Fmegalinks_backup) / [Search](https://megadb.tweakly.net/)
-* [TeamDrive Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_google_teamdrives) - Movies / TV
-* [Play Rdp](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_play_rdp) - Korean Drama / [Discord](https://discord.com/invite/fpnvKDw)
-* [Unbeatable Banzuke](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_unbeatable_banzuke) - Unbeatable Banzuke
+* [r/MegaLinks Backup](https://github.com/nbats/FMHYedit/blob/main/base64.md#rmegalinks-backup) / [Search](https://megadb.tweakly.net/)
+* [TeamDrive Indexes](https://github.com/nbats/FMHYedit/blob/main/base64.md#google-teamdrives) - Movies / TV
+* [Play Rdp](https://github.com/nbats/FMHYedit/blob/main/base64.md#play-rdp) - Korean Drama / [Discord](https://discord.com/invite/fpnvKDw)
+* [Unbeatable Banzuke](https://github.com/nbats/FMHYedit/blob/main/base64.md#unbeatable-banzuke) - Unbeatable Banzuke
 * [Guide to finding fanedits](https://redd.it/nd8z20) - How-to Find Fan Edits
 
 ***
@@ -766,7 +766,7 @@
 * ⭐ **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
 * ⭐ **[AnimeKaizoku](https://animekaizoku.com/)** - Sub / Dub / [Dual Audio](https://github.com/AnimeKaizoku/KaizokuPatcher)
 * ⭐ **[hi10anime](https://hi10anime.com/)** - Sub
-* ⭐ **[Judas Discord](https://discord.gg/vbJ7RTn)** - Sub / Dub / [TeamDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_judas_teamdrive)
+* ⭐ **[Judas Discord](https://discord.gg/vbJ7RTn)** - Sub / Dub / [TeamDrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#judas-teamdrive)
 * ⭐ **[Erai-Raws](https://www.erai-raws.info/)** - Sub / [Discord](https://discord.gg/tEeaXzD4KH)
 * ⭐ **[Anime Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anime_download_apps)** - Anime Downloading Tools
 * ⭐ **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)** - Telegram Anime Download Channels
@@ -780,10 +780,10 @@
 * [DarkLegends](https://darklegends60mb.org/) - Sub
 * [Ripcrabbyanime](https://ripcrabbyanime.in/) - Sub / Dub
 * [Kayoanime](https://kayoanime.com/) - Sub / Dub / [Telegram](https://t.me/Kayoanime)
-* [Animesp](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_animesp) - Sub
-* [Mix Bag of Anime](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mix_bag_of_anime) - Sub / Dub
-* [MrDeadpool](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_mrdeadpool) - Sub / Dub
-* [ANIME___](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime___) - Sub
+* [Animesp](https://github.com/nbats/FMHYedit/blob/main/base64.md#animesp) - Sub
+* [Mix Bag of Anime](https://github.com/nbats/FMHYedit/blob/main/base64.md#mix-bag-of-anime) - Sub / Dub
+* [MrDeadpool](https://github.com/nbats/FMHYedit/blob/main/base64.md#mrdeadpool) - Sub / Dub
+* [ANIME___](https://github.com/nbats/FMHYedit/blob/main/base64.md#anime___) - Sub
 * [DameDesuYo](https://damedesuyo.com/) - Sub
 * [TokyoInsider](https://www.tokyoinsider.com/) - Sub
 * [Chiby](http://www.animechiby.com/) - Sub
@@ -791,15 +791,15 @@
 * [Anime Flix](https://animeflix.org.in/) - Sub / Dub / [Telegram](https://t.me/moviesflixnet)
 * [IndiAnime](https://indianime.com/) - Sub / Dub
 * [anime7.download](http://anime7.download/) - Sub
-* [37.187.6.206](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_37.187.6.206) - Sub
-* [176.36.86.211](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_176.36.86.211) - Sub / Dub
-* [166.84.7.155](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_166.84.7.155) - Sub / Dub
-* [ns3309227](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_ns3309227) - Sub / Dub
-* [belia](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_belia) - Sub / Dub
+* [37.187.6.206](https://github.com/nbats/FMHYedit/blob/main/base64.md#371876206) - Sub
+* [176.36.86.211](https://github.com/nbats/FMHYedit/blob/main/base64.md#1763686211) - Sub / Dub
+* [166.84.7.155](https://github.com/nbats/FMHYedit/blob/main/base64.md#166847155) - Sub / Dub
+* [ns3309227](https://github.com/nbats/FMHYedit/blob/main/base64.md#ns3309227) - Sub / Dub
+* [belia](https://github.com/nbats/FMHYedit/blob/main/base64.md#belia) - Sub / Dub
 * [AnimeLibr](https://t.me/AnimeLibr) - Sub
 * [CartoonsArea](https://www.cartoonsarea.xyz/) - Sub / Dub
-* [rbx](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rbx)  - Dub
-* [Anime Time Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_anime_time_drive) - Sub / Dub 
+* [rbx](https://github.com/nbats/FMHYedit/blob/main/base64.md#rbx)  - Dub
+* [Anime Time Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#anime-time-drive) - Sub / Dub 
 * [nibl](https://nibl.co.uk/) - Sub / Dub / Anime Downloads / XDCC
 * [Bubble' Upscale Project](https://discord.gg/7kqqtJ7ArW) - Upscaled Anime / Requests
 * [Anime DL](https://archive.org/details/animedl4.0_202004) - Stream & Download Anime in VLC
