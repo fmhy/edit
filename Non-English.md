@@ -123,7 +123,7 @@
 ## ▷ Reading
 
 * [ittefaq](https://www.ittefaq.com.bd/), [dainikamadershomoy](https://www.dainikamadershomoy.com/), [kalerkantho](https://www.kalerkantho.com/), [24livenewspaper](https://www.bangla.24livenewspaper.com/), [samakal](https://samakal.com/) or [prothomalo](https://www.prothomalo.com/) - Bangla Newspapers
-* [Quran Course](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_quran_course)
+* [Quran Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#quran-course)
 * [IQGAW](https://t.me/IQGamer_PDFStore) - PDF library for BD HSC candidates
 * [BengaliEbooks](https://www.bengaliboi.com/) - Books
 * [GoBanglaBooks](https://www.gobanglabooks.com/) - Books
@@ -134,9 +134,9 @@
 
 ## ▷ Streaming
 
-* [Bangla English Course](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bangla_english_course)
-* [Bangla Freelancing Course](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bangla_freelancing)
-* [Bangla Excel Course](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_bangla_excel)
+* [Bangla English Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#bangla-english-course)
+* [Bangla Freelancing Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#bangla-freelancing)
+* [Bangla Excel Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#bangla-excel)
 
 ***
 
@@ -623,7 +623,7 @@
 * [WorldFree4U](https://worldfree4u.wbog.net/) - Movies / TV
 * [1337xHD](https://1337xhd.shop/) - Movies / TV
 * [HDVogo](https://www.hdvogo.cyou/) - Movies
-* [jsupload](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_jsupload) - Movies
+* [jsupload](https://github.com/nbats/FMHYedit/blob/main/base64.md#jsupload) - Movies
 * [Movies Flix](https://hdmoviesflix.vin/) - Movies / NSFW
 * [Dudefilms](https://dudefilms.ink/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
 * [The Movies Flix](https://themoviesflix.ac/) - Movies / NSFW / [Telegram](https://t.me/themoviezflixac)
@@ -832,7 +832,7 @@
 * [JapanEncodings](https://japanencodings.blogspot.com/) - Movies
 * [AnimeTime](https://www.animetime.pw/) - Anime 
 * [arearaw](http://arearaw.com/) - Anime / Use Tor 
-* [GameCenter CX Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_gamecenter_cx_archives) - GameCenter CX Archive
+* [GameCenter CX Archives](https://github.com/nbats/FMHYedit/blob/main/base64.md#gamecenter-cx-archives) - GameCenter CX Archive
 * [Sukidesuost](https://sukidesuost.info/) - Music / MP3 / FLAC
 * [Hikarinoakariost](https://hikarinoakari.com/) - Music / MP3
 * [jpop80ss](https://jpop80ss2.blogspot.com/)- Music / MP3
@@ -925,7 +925,6 @@
 * [PDPop](https://www.pdpop.com/) - Video / Games / Books / NSFW
 * [WeDisk](https://www.wedisk.co.kr/) - Movies / TV
 * [CinEast](https://cineaste.co.kr/) - Movies
-* [Korean Drama Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_korean_drama_drive) - Movies / TV
 * [Jpapas](https://jpapas.tistory.com/) - Modded APKs
 * [J-pop Music Download](https://jpop.xyz/) - Music
 * [4Sashi](https://4sashi.com/) - Music
@@ -1135,7 +1134,7 @@
 
 * [wolnelektury](https://wolnelektury.pl/) - Books / Fiction 
 * [Audiobook PL](https://audiobookpl.tumblr.com/) - Audiobooks
-* [K1n013f0ur's Pastebin](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_k1n013f0ur.27s_pastebin) - Audiobooks
+* [K1n013f0ur's Pastebin](https://github.com/nbats/FMHYedit/blob/main/base64.md#k1n013f0urs-pastebin) - Audiobooks
 * [doci.pl](https://doci.pl/) - Documents 
 * [docer.pl](https://docer.pl/) - Documents 
 * [wolnelektury](https://wolnelektury.pl/) - Educational
@@ -1868,7 +1867,7 @@
 
 ## ▷ Downloading
 
-* [EdithSeedbox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_edithseedbox) - Movies / TV / [Login](https://pastebin.com/bQkQpee4) / [Telegram](https://t.me/EdithSeedBox)
+* [EdithSeedbox](https://t.me/EdithSeedBox) - Movies / TV / [Login](https://pastebin.com/bQkQpee4)
 
 ***
 
