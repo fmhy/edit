@@ -544,6 +544,7 @@
 * [Android Auto Apps Downloader](https://github.com/shmykelsa/aaad) - Android Vehicle Apps
 * [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Add Direct DL Links to Google Play
 * [evozi](https://apps.evozi.com/apk-downloader), [GPlayCLI](https://github.com/matlink/gplaycli) or [APK Downloader](https://apk.support/apk-downloader) - Download Google Play APKs
+* [GBox](https://www.gboxlab.com/) - GMS Google Box
 * [Sai](https://f-droid.org/packages/com.aefyr.sai.fdroid/), [2](https://play.google.com/store/apps/details?id=com.aefyr.sai) or [APK Installer](https://play.google.com/store/apps/details?id=com.uptodown.installer&hl=en&gl=US) - APK Installers
 * [Raccoon](https://raccoon.onyxbits.de/) - Private APK Downloader
 * [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - CLI APK Download Tool
@@ -660,7 +661,7 @@
 * ⭐ **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players)** - Music Players / Libraries
 * ⭐ **[Modded Spotify](https://github.com/xManager-v2/xManager-Spotify)**, [2](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-spotify-apk) (No Ads) - Streaming / [Friend Activity](https://spotivity.vercel.app/) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://f-droid.org/packages/com.rohit2810.spotit/), [3](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
 * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream PC Audio to Phone 
-* [YouTube Music Apps](https://redd.it/tiqzon/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [YTM Wrapped](https://github.com/4v3ngR/ytm-wrapped), [VibeMusic](https://github.com/sheikhhaziq/vibemusic), [HoloPlay](https://holoplay.io/), [ViMusic](https://github.com/vfsfitvnm/ViMusic), [Harmonoid](https://harmonoid.com/), [InnerTune](https://github.com/z-huang/InnerTune), [Music](https://github.com/z-huang/music) or [YMusic](https://ymusic.io/) - YouTube Music Players
+* [YouTube Music Apps](https://redd.it/tiqzon/), [MusicPiped](https://f-droid.org/packages/deep.ryd.rydplayer/), [VibeMusic](https://github.com/sheikhhaziq/vibemusic), [HoloPlay](https://holoplay.io/), [ViMusic](https://github.com/vfsfitvnm/ViMusic), [Harmonoid](https://harmonoid.com/), [InnerTune](https://github.com/z-huang/InnerTune), [Music](https://github.com/z-huang/music) or [YMusic](https://ymusic.io/) - YouTube Music Players
 * [Spotiflyer](https://f-droid.org/en/packages/com.shabinder.spotiflyer/) / [GitHub](https://github.com/Shabinder/SpotiFlyer/) or [SpotaFree](https://github.com/sheensantoscapadngan/SpotaFree) - Spotify Audio Downloader
 * [Finamp](https://github.com/UnicornsOnLSD/finamp) - Jellyfin Music Player
 * [CloudPlayer](https://www.doubletwist.com/cloudplayer) - Cloud Audio File Player
@@ -670,7 +671,6 @@
 * [Seeker](https://github.com/jackBonadies/SeekerAndroid) - Download / MP3
 * [Datmusic](https://github.com/alashow/datmusic-android) - Download / MP3
 * [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - Download / MP3 
-* [SMLoadr](https://t.me/SMLoadrNews) - Download / FLAC / MP3
 * [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [ytdlnis](https://github.com/deniscerri/ytdlnis), [Seal](https://github.com/JunkFood02/Seal) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio / Video Downloaders
 * [Fildo](https://fildo.net/android/en/) - Streaming
 * [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale-android) - Streaming
@@ -759,10 +759,9 @@
 * ⭐ **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - Ad-Free YouTube on Android
 * ⭐ **[LibreTube](https://github.com/libre-tube/libretube)** or [Hyperion](https://github.com/zt64/Hyperion) - Youtube Frontend
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp&gl=US)**, [DMS](https://github.com/anacrolix/dms), [Macast](https://github.com/xfangfang/Macast) or [Cinema Box](https://www.cinema-box.co.uk/) - Media Servers / Chromecast
-* ⭐ **[Just Player](https://github.com/moneytoo/Player)**, [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [YetAnotherVideoPlayer](https://github.com/shadow578/YetAnotherVideoPlayer), [Nova Video Player](https://github.com/nova-video-player), [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata), [ExoPlayer](https://github.com/google/ExoPlayer), [Aos AVP](https://github.com/nova-video-player/aos-AVP) or [MX Player](https://github.com/nbats/FMHYedit/blob/main/base64.md#mx-player) / [Codec](https://github.com/USBhost/MX_FFmpeg) - Video Players
+* ⭐ **[Just Player](https://github.com/moneytoo/Player)**, [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [YetAnotherVideoPlayer](https://github.com/shadow578/YetAnotherVideoPlayer), [Nova Video Player](https://github.com/nova-video-player), [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata), [ExoPlayer](https://github.com/google/ExoPlayer), [Aos AVP](https://github.com/nova-video-player/aos-AVP), [SPlayer](https://splayer.dev/) or [MX Player](https://github.com/nbats/FMHYedit/blob/main/base64.md#mx-player) / [Codec](https://github.com/USBhost/MX_FFmpeg) - Video Players
 * ⭐ **[Android Smart TV Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_smart_tv_.2F_firestick)** - Smart TV / Firestick Apps
 * [Movie HD](https://moviehdapkdownload.com/moviehd-apk/) - Movies / TV / Chromecast
-* [Xedin](https://github.com/RtiM0/Xedin/releases/tag/v0.9.9) - Movies / TV / Anime 
 * [PopcornTime](http://popcorn-time.ga/) / [2](https://github.com/popcorn-official/popcorn-android) - Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * [PikaShow](https://pikashows.com/) - Movies / TV
 * [BeeTV](https://beetvapp.me/) or [NovaTV](https://novatv.app/) - Movies / TV / Anime / Chromecast
@@ -817,21 +816,17 @@
 * [FireAnime](https://github.com/XenTeckzX/FireAnime) - Chromecast
 * [AnimeXStream](https://github.com/mukul500/AnimeXStream/)
 * [AnimeDLR](https://cyberneticlifeform.wixsite.com/cylonu87/animedlr) - [Discord](https://discord.com/invite/wKxRqKc)
-* [aniryu](https://anime.pokurt.me/)
 * [ZAnime](https://github.com/linkkader/zanime)
-* [Animebay](https://animebay.tech/)
-* [AnYme](https://github.com/zunjae/anYme) - [GitHub](https://zunjae.github.io/anymeapp.com/) / [Discord](https://discord.com/invite/JUMvDEP)
+* [AnYme](https://zunjae.github.io/anymeapp.com/) / [Discord](https://discord.com/invite/JUMvDEP)
 * [Yukino](https://github.com/yukino-app/yukino)
 * [Akiyama](https://github.com/Fmaldonado6/Akiyama)
 * [AnimeChicken](https://animechicken.app/)
 * [OtakuWorld](https://github.com/jakepurple13/OtakuWorld)
 * [animity](https://github.com/kl3jvi/animity)
 * [no](https://github.com/deceptions/no)
-* [amaze](https://play.google.com/store/apps/details?id=com.iridiumgames.animeapp&hl=en_IN&gl=US)
-* [AnimeFanz Tube](https://apkpure.com/anime-fanz-tube/com.animefanzapp.tube)
 * [KATSU](https://katsu.pw/) - [Discord](https://discord.gg/gjcy6MQ)
 * [Anime-DL](https://github.com/sharn25/Anime-DL-Android-Verison) - Download Anime / [Discord](https://discord.gg/Ee3fegN) 
-* [MALClient](https://github.com/Drutol/MALClient), [AnYme](https://github.com/zunjae/anYme), [MyAnimeList Client](https://play.google.com/store/apps/details?id=net.myanimelist.app), [Anidex](https://github.com/rajarsheechatterjee/anidex-app), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Otraku](https://play.google.com/store/apps/details?id=com.otraku.app), [AniTrend](https://anitrend.co/) / [GitHub](https://github.com/AniTrend/anitrend-app ) or [AniLib](https://anilib.onrender.com/) - Anime Tracker
+* [MALClient](https://github.com/Drutol/MALClient), [MyAnimeList Client](https://play.google.com/store/apps/details?id=net.myanimelist.app), [Anidex](https://github.com/rajarsheechatterjee/anidex-app), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Otraku](https://play.google.com/store/apps/details?id=com.otraku.app), [AniTrend](https://anitrend.co/) / [GitHub](https://github.com/AniTrend/anitrend-app ) or [AniLib](https://anilib.onrender.com/) - Anime Tracker
 
 ***
 
@@ -856,30 +851,31 @@
 * [IPSW](https://ipsw.me/) - Provides Jailbreak firmware
 * [checkra1n](https://checkra.in/) - 5s - X Jailbreak / [Discord](https://discord.gg/NAxRYvysuc)
 * [palera1n](https://github.com/palera1n/palera1n) - 15.0-16.3.1 Jailbreak Semi-Tethered Jailbreak
+* [XinaA15](https://github.com/NotDarkn/XinaA15) - 15-15.1.1 Jailbreak
 * [Taurine](https://taurine.app/) - 14-14.3 Semi-Untethered Jailbreak
 * [Fugu14](https://github.com/LinusHenze/Fugu14) - 14.3-14.5 Untethered Jailbreak (Incomplete)
 * [Odyssey](https://theodyssey.dev/) - 13.0 to 13.7 Semi-tethered Jailbreak / [Discord](https://discord.gg/sileo) 
-* [Chimera](https://chimera.coolstar.org/) - 12.0 to 12.5.5 Jailbreak
-* [Unc0ver](https://unc0ver.dev/) - 11.0 to 14.8 Jailbreak / [Procursus](https://dark.diatr.us) / [GitHub](https://github.com/pwn20wndstuff/Undecimus)
+* [Chimera](https://chimera.coolstar.org/) - 12.0-12.5.5 Jailbreak
+* [Unc0ver](https://unc0ver.dev/) - 11.0-14.8 Jailbreak / [Procursus](https://dark.diatr.us) / [GitHub](https://github.com/pwn20wndstuff/Undecimus)
 * [Meridian](https://meridian.sparkes.zone/) - 10.0-10.3.3 Jailbreak 
-* [sockH3lix](https://github.com/SongXiaoXi/sockH3lix/releases/tag/v1.4) - 10.0.1 up to 10.3.3 Jailbreak
-* [doubleH3lix](https://github.com/tihmstar/doubleH3lix) - 10.0 up to 10.3.3 Jailbreak
+* [sockH3lix](https://github.com/SongXiaoXi/sockH3lix/releases/tag/v1.4) - 10.0.1-10.3.3 Jailbreak
+* [doubleH3lix](https://github.com/tihmstar/doubleH3lix) - 10.0-10.3.3 Jailbreak
 * [kok3shi](https://dora2ios.web.app/kokeshiJB.html) - 9.3-9.3.5 Semi-tethered Jailbreak
 * [Phoenix](https://phoenixpwn.com/) - 9.3.5-9.3.6 32-bit Jailbreak
 * [p0laris](https://p0laris.dev/) - 9.x Untethered Jailbreak / [GitHub](https://github.com/p0larisdev/app)
-* [Pangu933](https://web.archive.org/web/20170214021020/http://dl.pangu.25pp.com/jb/NvwaStone_1.1.ipa) - 9.2 up to 9.3.3 Jailbreak
-* [HomeDepot](http://wall.supplies/) - 9.1 up to 9.3.4 Jailbreak
-* [Pangu9](https://web.archive.org/web/20170702115349/http://en.9.pangu.io/) - 9.0 to 9.0.2 Jailbreak
+* [Pangu933](https://web.archive.org/web/20170214021020/http://dl.pangu.25pp.com/jb/NvwaStone_1.1.ipa) - 9.2-9.3.3 Jailbreak
+* [HomeDepot](http://wall.supplies/) - 9.1-9.3.4 Jailbreak
+* [Pangu9](https://web.archive.org/web/20170702115349/http://en.9.pangu.io/) - 9.0-9.0.2 Jailbreak
 * [Daibutsu](https://dora2ios.web.app/daibutsu.html) - 8.4.1 Jailbreak
-* [Pangu7](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/41UlRSyS) - 7.1 up to 7.1.2 / [Mac](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/Fo8ihCJa)
-* [Evasi0n7](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/1wc0HZgQ) - 7.0 to 7.0.6 Jailbreak / [5s / 5c](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/MxdDDS4b)
+* [Pangu7](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/41UlRSyS) - 7.1-7.1.2 / [Mac](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/Fo8ihCJa)
+* [Evasi0n7](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/file/1wc0HZgQ) - 7.0-7.0.6 Jailbreak / [5s / 5c](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/MxdDDS4b)
 * [p0sixspwn](https://ih8sn0w.com/p0sixspwn.html) - 6.1.3 up to 6.1.6 Jailbreak
-* [Evasi0n6](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/I5k1gaoQ) - 6.0 to 6.1.2 Jailbreak
-* [Absinthe](https://web.archive.org/web/20131024115207/http://greenpois0n.com/downloads/) - 5.0 and 5.0.1 Jailbreak
-* [greenpois0n](https://web.archive.org/web/20131024115207/http://greenpois0n.com/downloads/) - 4.1, 4.2.1, and 4.2.6 Jailbreak
-* [limera1n](http://limera1n.com/) - 3.2.2 to 4.2.1 Jailbreak
-* [JailbreakMe](https://www.jailbreakme.com/) - 3.1.2 to iOS 4.0.1 Jailbreak
-* [redsn0w](https://sites.google.com/a/iphone-dev.com/files/home/) - 3.0 to 3.1 Jailbreak
+* [Evasi0n6](https://mega.nz/folder/k4FAXCIB#Fk7pxs6ikYzL3YBvAGX5ig/folder/I5k1gaoQ) - 6.0-6.1.2 Jailbreak
+* [Absinthe](https://web.archive.org/web/20131024115207/http://greenpois0n.com/downloads/) - 5.0-5.0.1 Jailbreak
+* [greenpois0n](https://web.archive.org/web/20131024115207/http://greenpois0n.com/downloads/) - 4.1, 4.2.1, 4.2.6 Jailbreak
+* [limera1n](http://limera1n.com/) - 3.2.2-4.2.1 Jailbreak
+* [JailbreakMe](https://www.jailbreakme.com/) - 3.1.2-iOS 4.0.1 Jailbreak
+* [redsn0w](https://sites.google.com/a/iphone-dev.com/files/home/) - 3.0-3.1 Jailbreak
 * [IPA Apps](https://ipa-apps.me/) - Jailbreak Tools & Apps
 * [IPACandy](https://ipacandy.com/) - Jailbreaking Tools
 * [Fugu](https://github.com/LinusHenze/Fugu) - Jailbreaking Tool
@@ -1023,6 +1019,7 @@
 * [Meshenger](https://github.com/meshenger-app/meshenger-android) or [Mumla](https://gitlab.com/quite/mumla) - Voice Chat
 * [WO Mic](https://wolicheng.com/womic/) - Use Phone as Mic
 * [Walkie-Talkie](https://walkie-talkie.io/) - Walkie-Talkie App
+* [Smart Fax](https://play.google.com/store/apps/details?id=com.hypereact.faxappgp) - Send Fax via Phone
 * [ZX81](https://apps.apple.com/us/app/zx81/id1180117434) - Sinclair ZX81 Emulator
 * [My6809](https://apps.apple.com/us/app/my6809/id1233655601) - Motorola 6809 Emulator
 * [Guardic](https://apps.apple.com/us/app/guardic-msx/id905921949) or [ZanacMSX](https://apps.apple.com/us/app/zanac-msx/id834098690) - MSX Emulator
@@ -1075,7 +1072,7 @@
 * ⭐ **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open Source App Index
 * ⭐ **[A.I. Apps](https://appraven.net/collection.php?listId=63b5eef1904afd2a981cead0)** - AI App Index
 * [AppDB](https://appdb.to/) - iOS Apps
-* [TrollStore](https://github.com/opa334/TrollStore) - iOS Apps / 15.0 to 15.1.1
+* [TrollStore](https://github.com/opa334/TrollStore) - iOS Apps / 14.0-15.4.1
 * [Streamiza](https://t.me/streamiza) - Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)
 * [App Cake](https://www.iphonecake.com/) - Cracked Apps / [Discord](https://discord.com/invite/TgY2Qmb)
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312)
@@ -1180,7 +1177,7 @@
 * [EncoreTVD](https://apps.apple.com/us/app/encoretvb-english/id1191642382) - Chinese Drama
 * [RSS Player](https://apps.apple.com/us/app/rss-video-player/id885311320) - KDrama / [Feed](http://allrss.se/dramas), [2](http://myrss.nu/drama)
 * [Wako-TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - Movies / TV / Anime / Real Debrid required
-* [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962) or [‎Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
+* [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962), [SPlayer](https://splayer.dev/) or [‎Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
 * [YT Tweaked](https://github.com/nbats/FMHYedit/blob/main/base64.md#yt-tweaked-ipas), [Better Cercube](https://appdb.to/app/cydia/1900000823), [uYou+](https://appdb.to/app/cydia/1900000830) / [Discord](https://discord.gg/yXGVJptcaF) or [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPA / [Reddit Post](https://redd.it/olsxri)
 * [Yattee](https://github.com/yattee/yattee) - YouTube Frontend
 * [Block iPhone YouTube Ads](https://redd.it/xg5jkn) - How-to Block YouTube Ads
