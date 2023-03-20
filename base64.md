@@ -1,6 +1,6 @@
 #### How-to Decode Links
 
-Use a our sites **[Built-In Decoder](https://www.fmhy.ml/base64)** or a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls)** to view these links. If it won't let you copy on mobile try **[troddit](https://www.troddit.com/r/FREEMEDIAHECKYEAH/wiki/base64)**.
+Use a our sites **[Built-In Decoder](https://www.fmhy.ml/base64)** or a **[Base64 Decoder](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls)** to view these links.
 
 ***
 
