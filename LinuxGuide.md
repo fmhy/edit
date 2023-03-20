@@ -48,6 +48,7 @@
 * [Redroid](https://github.com/remote-android/redroid-doc) - Android Emulator
 * [Spot](https://github.com/xou816/spot) - Spotify Desktop Client for Gnome
 * [spotify-qt](https://github.com/kraxarn/spotify-qt) or [SpotifyD](https://github.com/Spotifyd/spotifyd) - Spotify Clients
+* [Monophony](https://gitlab.com/Vistaus/monophony) - YouTube Music Client
 * [Librespot-Python](https://github.com/kokarare1212/librespot-python) - Spotify TUI
 * [Deezer Linux](https://github.com/aunetx/deezer-linux) - Deezer Client
 * [Myuzi](https://gitlab.com/albanobattistella/myuzi) or [Harmony Music](https://github.com/ZingyTomato/Harmony-Music) - Music Streaming Apps
