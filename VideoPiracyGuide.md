@@ -193,7 +193,7 @@
 
 * **Note** - These are good for finding classic, obscure and short films
 * ⭐ **[Video Search CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)**, [Moviez.space](https://moviez.space/) or [PeteyVid](https://www.peteyvid.com/) - Multi-Site Video Search
-* ⭐ **[NoodleMagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/) - Some NSFW
+* ⭐ **[NoodleMagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/) - Some NSFW / Also try `site:noodlemagazine.com` in searches
 * ⭐ **[OK](https://ok.ru/video)**
 * ⭐ **[VK](https://vk.com/video)**
 * ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced](https://playlists.at/youtube/search/) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_youtube_tools)
@@ -359,7 +359,6 @@
 * [AnimeHeaven](https://animeheaven.ru/) - Sub / Dub
 * [AnimeDao](https://animedao.to/) - Sub
 * [PactedAnime](https://pactedanime.com/) - Sub / [Discord](https://discord.gg/pactedanime)
-* [MasterAni](https://www.masterani.one/) - Sub / Dub
 * [LMAnime](https://lmanime.com/) - Sub
 * [AnimeLand](https://www.animeland.us/) - Dub
 * [anime.cat](https://anime.cat/) - Sub / Dub
@@ -496,7 +495,8 @@
 ## ▷ Live TV / Sports 
 
 * ⭐ **[Sportsurge](https://sportsurge.net/)**- Sports / Stream Locator
-* ⭐ **[IPTV Web](https://dev-iptv.web.app/)** - TV / Sport
+* ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - TV / Sports
+* ⭐ **[IPTV Web](https://dev-iptv.web.app/)** - TV / Sports
 * ⭐ **[Sports Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming)** - Sports
 * ⭐ **[StreamEast](https://www.streameast.xyz/)** - Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)
 * ⭐ **[StreamLinks](https://reddits.soccerstreamlinks.com/)** - Sports
@@ -785,7 +785,6 @@
 * [MrDeadpool](https://github.com/nbats/FMHYedit/blob/main/base64.md#mrdeadpool) - Sub / Dub
 * [ANIME___](https://github.com/nbats/FMHYedit/blob/main/base64.md#anime___) - Sub
 * [DameDesuYo](https://damedesuyo.com/) - Sub
-* [TokyoInsider](https://www.tokyoinsider.com/) - Sub
 * [Chiby](http://www.animechiby.com/) - Sub
 * [Anime Senpai4U](https://www.animesenpai4u.com/) - Sub / Dub
 * [Anime Flix](https://animeflix.org.in/) - Sub / Dub / [Telegram](https://t.me/moviesflixnet)
@@ -833,7 +832,8 @@
 * [wt](https://github.com/DegenCoden/wt), [GMDB](https://github.com/Dentrax/GMDB), [PeerFlix](https://github.com/mafintosh/peerflix) / [Server](https://github.com/asapach/peerflix-server) - Torrent Streaming CLIs
 * [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - Stream Torrents in VLC
 * [webtorrent-mpv-hook](https://github.com/mrxdst/webtorrent-mpv-hook) - Stream Torrents in MPV
-* [PepperTorrent](https://github.com/husnuljahneer/PepperTorrent) - Discord Torrent Download Bots
+* [PepperTorrent](https://github.com/husnuljahneer/PepperTorrent) - Discord Torrent Bot
+* [MovieTorrents_bot](https://t.me/MovieTorrents_bot) - Telegram Torrent Search Bot
 * [Iceetime](https://github.com/diericx/iceetime) or [RapidBay](https://github.com/hauxir/rapidbay) - Self-Hosted Torrent Streaming 
 
 ***
