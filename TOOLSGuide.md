@@ -86,7 +86,7 @@
 * [Poll Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_poll_sites) - Poll Creators
 * [SurveyHeart](https://surveyheart.com/) - Survey Creator
 * [Kukkee](https://www.kukkee.com/) - Meeting Time Polls
-* [Evote](https://github.com/IBM/evote), [SimpleVote](https://github.com/dessalines/simple-vote), [CryptoBallot](https://cryptoballot.com/) or [BlockVotes](https://github.com/yfgeek/BlockVotes) - Online Voting Platform
+* [CryptoBallot](https://cryptoballot.com/) or [BlockVotes](https://github.com/yfgeek/BlockVotes) - Online Voting Platform
 * [Event Rally](https://rallly.co/) / [GitHub](https://github.com/lukevella/Rallly), [Mobilizon](https://joinmobilizon.org/) or [Gancio](https://gancio.org/) - Event Organizing
 * [Diff Checker](https://www.diffchecker.com/) - Check Differences in Text, Images, PDFs or Files
 * [Find Your Place](https://where-is-this.com/) - Find Places from Pictures
@@ -141,7 +141,6 @@
 * ⭐ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - Grammar Checking Tools
 * ⭐ **[Multiple Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_text_tool_sites)** - Sites with Multiple Text Tools
 * ⭐ **[Emojipedia](https://emojipedia.org/)**, [EmojiBatch](https://www.emojibatch.com/), [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/), [Words2Emoji](https://www.words2emoji.com/) or [GetEmoji](https://getemoji.com/) - Emoji Indexes
-* [MarkdownPastebin](https://markdownpastebin.com/) - Markdown Pastebin
 * [Scrivener](https://github.com/nbats/FMHYedit/blob/main/base64.md#scrivener) - Book Writing App
 * [WriteURL](https://www.writeurl.com/) or [Kludd](https://kludd.co/) - Collaborative Text Editors
 * [GhostText](https://ghosttext.fregante.com/) - Use Text Editor in Browser
@@ -303,7 +302,7 @@
 * ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** or [fs927](https://rentry.org/fs927) - Learn how to Remux Videos
 * ⭐ **[Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders)** - Record your Screen
 * ⭐ **[Multi-Site Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)** / [YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)
-* ⭐ **[OBS](https://obsproject.com/)**, [Streamlabs-OBS](https://github.com/stream-labs/streamlabs-obs), [SteamLabs](https://streamlabs.com/), [Restream](https://restream.io/), [Melon](https://melonapp.com/), [Twitch Studio](https://www.twitch.tv/broadcast/studio), [XSplit](https://www.xsplit.com/) or [TwitchChat](https://twitchat.fr/) - Live Stream Managers
+* ⭐ **[OBS](https://obsproject.com/)**, [Streamlabs-OBS](https://github.com/stream-labs/streamlabs-obs), [SteamLabs](https://streamlabs.com/), [Restream](https://restream.io/), [Melon](https://melonapp.com/), [Twitch Studio](https://www.twitch.tv/broadcast/studio), [FBX](https://fbx.gg/), [XSplit](https://www.xsplit.com/) or [TwitchChat](https://twitchat.fr/) - Live Stream Managers
 * ⭐ **OBS Tools** - [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT) / [Effects](https://github.com/Xaymar/obs-StreamFX) / [Phone Controller](https://github.com/Kounex/obs_blade)
 * ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Video / Audio Recorder, Converter & Streaming / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ffmpeg_tools)
 * [VideoTuts](http://videotuts.ru/) - Video Design Tutorials / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
@@ -669,6 +668,7 @@
 * [LoopCV](https://www.loopcv.pro/) - Automated Job Search Tool
 * [Toby Tools](https://rentry.co/qnu6x) - Job Search Tools
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
+* [80,000 Hours](https://80000hours.org/) - Explore Career Options
 * [Summer 2023 Internships](https://github.com/pittcsc/Summer2023-Internships) - List of Internships
 * [SkillIcons](https://skillicons.dev/) - Skill Badges for GitHub Readmes / Resumes
 * [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
@@ -710,6 +710,7 @@
 * [BetaList](https://betalist.com/) - Get Startup Ideas
 * [HalfBakedIdeas](https://halfbakedideas.vercel.app/feed) - Share Startup Ideas
 * [Failory](https://www.failory.com/graveyard) - Learn Why Startups & Products Failed
+* [PatentsExpiringToday](https://patentsexpiringtoday.com/) - Find Expired Patents
 * [AngelLIst](https://angel.co/) - Startup Community
 * [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) or [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - Startup Submission Sites
 * [LeanTime](https://leantime.io/) - Project / Delivery Manager
@@ -1340,7 +1341,7 @@
 * [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling
 * [Craig](https://craig.chat/) - Voice Channel Recorder / [Backup](https://craig.chat/home/giarc)
 * [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) / [Python](https://github.com/mahtoid/DiscordChatExporterPy), [discard2](https://github.com/Sanqui/discard2), [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker), [discord-archiver](https://github.com/nektro/discord-archiver) or [Discord-Channel-Scraper](https://github.com/simon987/Discord-Channel-scraper) - Archive / Export Discord Chats
-* [Discord URL Extractor](https://github.com/TheTechRobo/discord-urls-extractor) - Extract URLs from Discord Chats
+* [DiscordLinkScraper](https://github.com/TerrenceTingleberry/DiscordLinkScraper) or [Discord URL Extractor](https://github.com/TheTechRobo/discord-urls-extractor) - Extract URLs from Discord Chats
 * [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) or [Phish Grabber](https://phishgrabber.dis.tf/) - Discord Anti Phishing Bot
 * [pullcord](https://github.com/tsudoko/pullcord) - Discord Archiver
 * [discord2sheet-bot](https://github.com/hugonun/discord2sheet-bot) - Store Messages to Google Sheets
@@ -1374,7 +1375,6 @@
 * [Discoed SVG Bagdes](https://github.com/Mattlau04/Discord-SVG-badges) - Discord Bagde Image Files
 * [Discord Icon](https://icon.en-zo.dev/) - Create Custom Discord Role Icons
 * [Auto Creative](https://auto.creavite.co/icons) - Animated Icon / Banner Generator
-* [DiscordBannerTester](https://dav1312.github.io/BD/DiscordBannerTester/) - Test Discord Banners
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Adds Custom CSS Support 
 * [Discord Status](https://discordstatus.com/) - Check Discord Status 
 * [Status](https://discord.gg/Nnttd7EZV4) - Followable Site Status Channels
@@ -1502,7 +1502,6 @@
 * [Astronaut](http://astronaut.io/) - Watch Videos with 0 Views
 * [Default Filename](https://default-filename-tv.neocities.org/) - Random Default Filename YouTube Videos
 * [Tubeup](https://github.com/bibanon/tubeup) or [yark](https://github.com/Owez/yark) - Archive Youtube Videos and Playlists
-* [YT Trends](https://ytrends.xyz) - Trending YouTube Videos
 * [Unlisted Videos](https://unlistedvideos.com/) - Watch / Submit Unlisted YouTube Videos
 * [QuiteAPlaylist](https://quiteaplaylist.com/) - Find Deleted YouTube Videos
 * [Hobune](https://hobune.stream/) - Deleted YouTube Video Archive
@@ -1514,6 +1513,7 @@
 * [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer) - Video Web Player
 * [HookTube](https://hooktube.com/) - View YouTube Videos on Lightweight Page / [Redirect Script](https://greasyfork.org/en/scripts/24163-youtube-unblocker)
 * [Ytfzf](https://github.com/pystardust/ytfzf) or [YewTube](https://github.com/iamtalhaasghar/yewtube) - Terminal YouTube Players
+* [Jump Cutter](https://github.com/WofWca/jumpcutter) - Skip Silent Parts of Videos
 * [YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802) - Speed Up YouTube
 * [YouTube_RSS](https://github.com/SimonDaNinja/youtube_rss) - YouTube RSS Client
 * [SpeechChat](https://speechchat.com/) - Twitch Text to Speech Client
