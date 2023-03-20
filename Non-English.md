@@ -49,6 +49,7 @@
 * [LODYNET](https://www.lodynet.cam/) - Movies / TV
 * [ShahidOnline](https://shahidonline.org/) - Movies / TV
 * [Fushaar](https://www.fushaar.com/), [2](https://fushaar.info/) - Movies / TV
+* [CimaNow](https://cimanow.cc/) - Movies / TV
 * [egydead](https://w6.egydead.live) - Movies / TV / Anime
 * [movizland](https://new.movizland.cyou/), [2](https://movizland.info/) - Movies / TV / Anime
 * [akwam](https://akwam.to/) - Movies / TV
@@ -57,14 +58,14 @@
 * [ShahidToday](https://o.shahid2day.com/) - Movies / TV
 * [mycima](https://mycima.link/) - Movies / TV / Anime
 * [Shafilm](https://shafilm.vip/) - Movies / TV / Anime / Cartoons
+* [FajerShow](https://fajer.show) - Movies / TV / Cartoons
 * [ArabLionz](https://arablionz.watch/) - Movies / TV 
 * [Wecima](https://wecima.tube/) - Movies / TV / Anime / Cartoons / Wrestling
 * [cima-club](https://cima-club.cam/) - TV / Anime
 * [eshiq](https://eshiq.net/), [2](https://3sk.tv/) - Turkish TV
 * [asia2tv](https://asia2tv.cn/) - Asian Drama
 * [animebdk](https://animebdk.blogspot.com/) - Anime
-* [anime4up](https://www.anime4up.com/) - Anime
-* [gateanime](https://www.gateanime.com/) - Anime
+* [gateanime](https://c.gateanime.com/) - Anime
 * [AnimeFlick](https://animeflick.net/) - Anime
 * [AnimeTak](https://animetak.net/) - Anime
 * [shahiid](https://www.shahiid-anime.net/) - Anime
@@ -80,12 +81,13 @@
 * [animetitans](https://animetitans.com/) - Anime
 * [gatecima](https://gatecima.com/) - Anime
 * [animelek](https://animelek.me/) - Anime
-* [anime4up](https://anime4up.vip/) - Anime
+* [anime4up](https://w1.anime4up.tv/) - Anime
 * [animerco](https://animerco.com/) - Anime
 * [xsanime](https://v.xsanime.com/) - Anime
 * [ncv](http://www.ncv.life/) - Anime
 * [Arabsama](https://arabsama.net/) - Anime
 * [Okanime](https://okanime.cc/) - Anime
+* [Animeyat](https://www.animeiat.tv/) - Anime
 * [fomny](http://fomny.com/Home/index.php) - Live TV
 * [qayadat](https://play.qayadat.org/channels) - Live TV
 * [elahmad](http://www.elahmad.com/tv/arabic-channel.php) - Live TV
