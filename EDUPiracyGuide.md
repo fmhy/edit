@@ -101,16 +101,17 @@
 
 ## ▷ Documentaries
 
-* ⭐ **[Ihavenotv](https://ihavenotv.com/)** 
+* ⭐ **[Ihavenotv](https://ihavenotv.com/)**
+* ⭐ **[DocumentaryArea](https://www.documentaryarea.tv/)**
 * [LearnOutLoud](https://www.learnoutloud.com/)
-* [Top Documentary Films](https://topdocumentaryfilms.com/) 
+* [Top Documentary Films](https://topdocumentaryfilms.com/)
 * [Documentary Streaming](https://documentary-streaming.com/)
 * [Media Burn Archive](https://mediaburn.org/)
 * [DocumentaryHeaven](https://documentaryheaven.com/)
 * [ARTE](https://www.arte.tv/)
 * [Documentary Network](https://documentary.net/) 
 * [Documentary Mania](https://www.documentarymania.com/) 
-* [Documentary Storm](https://www.documentarystorm.com/) 
+* [Documentary Storm](https://www.documentarystorm.com/)
 * [Documentary Tube](https://www.documentarytube.com/)
 * [Rocumentaries](https://rocumentaries.com/)
 * [WatchDocumentaries](https://watchdocumentaries.com/)
@@ -386,8 +387,8 @@ Simulator
 * [Ocearch](https://www.ocearch.org/?list) - Track Marine Life
 * [The Deep Sea](https://neal.fun/deep-sea/) - Interactive Deep Sea Life Guide
 * [Pattern Radio](https://patternradio.withgoogle.com/) - Listen to Whale Songs
-* [Xeno-Canto](https://www.xeno-canto.org/) - Bird Sound Identifier
 * [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
+* [Macroinvertebrates](https://www.macroinvertebrates.org/) - Freshwater Macroinvertebrates Atlas
 * [Life Under the Ice](https://lifeundertheice.org/) - View Antarctic Microbes
 * [WorldFloraOnline](http://www.worldfloraonline.org/) - Plant / Flora Database
 * [Candide](https://candide.com/GB/identify-plants) or [Pl@ntNet](https://identify.plantnet.org/) - Plant Identifiers
@@ -443,7 +444,7 @@ Simulator
 * [Nextstrain](https://nextstrain.org/) - Pathogen Evolution Tracking 
 * [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) or [Corona Hunt](https://coronahunt.app/) - COVID Data
 * [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets) - Public Datasets
-* [Location Data](https://locationdata.us/) - Location / Population Data
+* [Location Data](https://locationdata.us/) or [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
 * [If It Were My Home](https://www.ifitweremyhome.com/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
@@ -780,6 +781,7 @@ Simulator
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
 * [Studify](https://github.com/cmcodes1/Studify) - Study Tracker
 * [Coursicle](https://www.coursicle.com/) - Class Schedule Tracker
+* [Graded](https://github.com/NightDreamGames/Graded) - Grades Tracker
 * [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - Educational Communication / iOS
 * [Note Taking Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - Note Taking / To-Do Apps
 * [Note Garden](https://notegarden.web.app/), [2](https://notegarden.io/) - Note Taking / Auto Courses
@@ -879,7 +881,7 @@ Simulator
 * [GeoNames](https://www.geonames.org/) - Geography Name Database
 * [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/), [GeoQuest](https://geoquest.gg/) or [Map Quiz](https://planemad.github.io/map-quiz/) - Geography Quizzes
 * [Geograph WorldWide](https://www.geograph.org/) - Worldwide Photographs
-* [Flaggr](https://flaggr.me/) or [Flag Guesser](https://flagguesser.com/) - Flag Quizzes
+* [Flag Guesser](https://flagguesser.com/) - Flag Quizzes
 * [Flagpedia](https://flagpedia.net/) or [US Flags](https://usflags.design/) - Flag Indexes
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
 * [The True Size](https://thetruesize.com/) - Compare Country Size 
