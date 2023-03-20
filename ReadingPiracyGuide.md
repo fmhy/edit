@@ -769,6 +769,7 @@
 * [EverybodyWiki](https://en.everybodywiki.com/) - Encyclopedia
 * [Britannica](https://www.britannica.com/) - Encyclopedia
 * [Encyclopedia](https://www.encyclopedia.com/) - Encyclopedia
+* [Wikitia](https://wikitia.com/) - Encyclopedia
 * [Conze.pt](https://conze.pt/) - Encyclopedia
 * [InfoPlease](https://www.infoplease.com/) - Encyclopedia
 * [Refdesk](https://www.refdesk.com/factency.html) - Encyclopedias
