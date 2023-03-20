@@ -496,7 +496,6 @@
 * [Custom Track Tutorial](https://wiki.tockdom.com/wiki/Custom_Track_Tutorial) - How-to Make Custom MKW Tracks
 * [RE4HD](https://www.re4hd.com/) - Resident Evil 4 HD Mod
 * [Rekt](https://discord.com/invite/HqjQFCp) or [LinkerMod](https://github.com/Nukem9/LinkerMod) - Black Ops 1 Mod Projects
-* [Redacted](https://redacted.se/) - Black Ops 2 Mod Project
 * [Plutonium](https://plutonium.pw/) - Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)
 * [CoD4-Mod-Tools](https://github.com/promod/CoD4-Mod-Tools) - COD4 Mod Tools
 * [IW4x / IW6x](https://xlabs.dev/) - COD MW2 Mod Project 
