@@ -54,7 +54,8 @@
 * [Wasted](https://github.com/x13a/Wasted) - Emergency Data Wipe
 * [UntrackMe](https://fedilab.app/wiki/untrackme/)  - Frontend Redirect / Unshorten Links / Cleanup URLs 
 * [Leon](https://f-droid.org/packages/com.svenjacobs.app.leon/) - Remove URL Tracking / [GitHub](https://github.com/svenjacobs/leon)
-* [Stealth](https://gitlab.com/cosmosapps/stealth) - Privacy-Based Reddit Frontend
+* [Stealth](https://gitlab.com/cosmosapps/stealth) - Reddit Frontend
+* [Clipious](https://github.com/lamarios/clipious) - YouTube Frontend
 * [XPrivacyLua](https://lua.xprivacy.eu/) / [GitHub](https://github.com/M66B/XPrivacyLua/) - Privacy Manager
 * [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard), [AppWarden](https://gitlab.com/AuroraOSS/AppWarden), [Permission Pilot](https://github.com/d4rken-org/permission-pilot) or [TrackerControl](https://trackercontrol.org/) - App Permission Managers
 * [Exodus](https://reports.exodus-privacy.eu.org/en/), [TrackerControl](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) or [HideDroid](https://github.com/Mobile-IoT-Security-Lab/HideDroid) - Android App Tracker / Permission Index / [APK](https://github.com/Exodus-Privacy/exodus-android-app)
@@ -353,7 +354,7 @@
 * [Photo Lab](https://ilixa.com/8bitphotolab.php) - Give Images a Retro Look 8Bit
 * [starryai](https://starryai.com/) - Generate Art from Text Prompt
 * [Inspiral](https://inspiral.nathanfriend.io/) - Create Spirograph Art
-* [Photo Resizer](https://play.google.com/store/apps/details?id=com.simplemobilephotoresizer&hl=en&gl=US) - Image Resizer
+* [Photo Resizer](https://play.google.com/store/apps/details?id=com.simplemobilephotoresizer&hl=en&gl=US) or [ImageResizer](https://github.com/T8RIN/ImageResizer) - Image Resizers
 * [Imagepipe](https://codeberg.org/Starfish/Imagepipe) - Image Size Reducer
 * [Upscaler](https://play.google.com/store/apps/details?id=com.ethanzone.upscaler&hl=en_US&gl=QA), [Pixelup](https://play.google.com/store/apps/details?id=com.codeway.pixelup), [MintAI](https://play.google.com/store/apps/details?id=com.mingkun.mintAI), [SuperImage](https://github.com/Lucchetto/SuperImage) or [Galaxy Enhance-X](https://www.apkmirror.com/apk/samsung-electronics-co-ltd/galaxy-enhance-x/) - Image Upscalers
 * [LosesslessJpgCrop](https://github.com/k3b/LosslessJpgCrop) - Lossless Image Cropper
@@ -478,7 +479,9 @@
 * [GGMorse](https://github.com/ggerganov/ggmorse) - Morse Code Decoding App
 * [SensorServer](https://github.com/umer0586/SensorServer) - Use Phone as Accelerometer
 * [Haven](https://guardianproject.github.io/haven/) - Motion Detector
-* [MicroIOT](https://gitlab.com/micro-iot-platform/projects) - Motion, Light & Humidity Detectors 
+* [MicroIOT](https://gitlab.com/micro-iot-platform/projects) - Motion, Light & Humidity Detectors
+* [GeoMag](https://github.com/ya0211/geomag) - 
+* [Sensify](https://github.com/JunkieLabs/sensify-android) - Sensor Visualizers
 * [Fire Toolbox](https://forum.xda-developers.com/t/windows-tool-fire-toolbox-v12-0.3889604/) - Fire Tablet Tools
 * [Pojav](https://pojavlauncherteam.github.io/) - Mobile Minecraft Launcher
 * [Mematic](https://www.mematic.net/) - Meme Creator 
