@@ -811,6 +811,7 @@
 
 ## ▷ Android Anime
 
+* ⭐ **[Aniyomi](https://github.com/jmir1/aniyomi)**
 * ⭐ **[Saikou](https://github.com/saikou-app/saikou)**
 * [Crunrchyroll Mod](https://github.com/nbats/FMHYedit/blob/main/base64.md#crunchyroll-mod) - Anime / Premium Crunchyroll
 * [FireAnime](https://github.com/XenTeckzX/FireAnime) - Chromecast
@@ -818,7 +819,6 @@
 * [AnimeDLR](https://cyberneticlifeform.wixsite.com/cylonu87/animedlr) - [Discord](https://discord.com/invite/wKxRqKc)
 * [aniryu](https://anime.pokurt.me/)
 * [ZAnime](https://github.com/linkkader/zanime)
-* [Aniyomi](https://github.com/jmir1/aniyomi)
 * [Animebay](https://animebay.tech/)
 * [AnYme](https://github.com/zunjae/anYme) - [GitHub](https://zunjae.github.io/anymeapp.com/) / [Discord](https://discord.com/invite/JUMvDEP)
 * [Yukino](https://github.com/yukino-app/yukino)
