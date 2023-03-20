@@ -664,9 +664,9 @@
 * [Spotiflyer](https://f-droid.org/en/packages/com.shabinder.spotiflyer/) / [GitHub](https://github.com/Shabinder/SpotiFlyer/) or [SpotaFree](https://github.com/sheensantoscapadngan/SpotaFree) - Spotify Audio Downloader
 * [Finamp](https://github.com/UnicornsOnLSD/finamp) - Jellyfin Music Player
 * [CloudPlayer](https://www.doubletwist.com/cloudplayer) - Cloud Audio File Player
-* [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - Subsonic Client
+* [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) - Subsonic Client
 * [Sound1](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - Streaming
-* [Modded Tidal](https://forum.mobilism.org/viewtopic.php?f=1332&t=4594722) - Steaming / Download
+* [Modded Tidal](https://forum.mobilism.org/search.php?keywords=tidal&sr=topics&sf=titleonly) - Steaming / Download
 * [Seeker](https://github.com/jackBonadies/SeekerAndroid) - Download / MP3
 * [Datmusic](https://github.com/alashow/datmusic-android) - Download / MP3
 * [AIDS](https://forum.mobilism.org/search.php?st=0&sk=t&sd=d&sr=topics&keywords=aids&sf=titleonly) - Download / MP3 
