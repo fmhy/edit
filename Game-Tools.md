@@ -266,12 +266,12 @@
 * [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
 * [Steam Mover](https://www.traynier.com/software/steammover) - Store Steam Games on Multiple Drives
 * [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
-* [Steam Rom Manager](https://github.com/doZennn/steam-rom-manager/) - Add Roms to Steam
+* [Steam Rom Manager](https://github.com/doZennn/steam-rom-manager/) - Add ROMs to Steam
 * [The Wheelhaus](https://thewheelhaus.com/) - Find Random Steam Games
 * [Steamless](https://github.com/atom0s/Steamless) - DRM Remover
-* [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8 )
-* [Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack) - Auto Apply Goldberg & Steamless
-* [Steamworkshop.download](http://steamworkshop.download/), [steam-workshop-downloader.com](https://steam-workshop-downloader.com/), [steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader), [ggntw](https://ggntw.com/steam), [Workshop Downloader](https://4hub.info/workshop-downloader/), [WorkshopDL](https://github.com/VovoloGames/WorkshopDL) / [Discord](https://discord.com/invite/75cavYcnvv), [steamworkshopdownloader.ru](https://steamworkshopdownloader.ru/), [NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) / [Disocrd](https://discord.com/invite/bs9TMxMJk9), [ggntw](https://ggntw.com/steam) or [steam-workshop-downloader](https://gramvio.com/steam-workshop-downloader/) - Steam Workshop File Downloaders / [Script](https://greasyfork.org/en/scripts/449046)
+* [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
+* [Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack) - Auto Apply Goldberg / Steamless
+* [Steam Workshop Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)
 * [DepotDownloader](https://github.com/SteamRE/DepotDownloader) or [SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) - Steam Depot Downloaders
 * [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop Implementation of Steam's Mobile Authenticator 
 * [Steam Python](https://github.com/ValvePython/steam) - Interact with Steam via Python
@@ -282,6 +282,7 @@
 * [AugmentedSteam](https://augmentedsteam.com/) - Steam Web Enhancement Extension 
 * [Steam Database](https://steamdb.info/extension/) - Adds Steam Database Link to Steam Community & Store 
 * [Steam Web Filter Bypasser](https://chrome.google.com/webstore/detail/steam-web-filter-bypasser/gohcmgakipmdlpacegcgolafdhdlgifl) - Bypass "You are leaving Steam" Page
+* [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
 * [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Conformation
 * [Steam Account Manager](https://www.unknowncheats.me/forum/pc-software/117141-steam-account-manager.html) - Steam Account Switcher / Manager
 * [Steam Customizer](https://community.steamcustomizer.com/) or [SteamSkins](http://steamskins.org/) - Steam Skins
@@ -444,7 +445,8 @@
 * [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
 * [RiiConnect24](https://rc24.xyz/) - WiiConnect24 Replacement
 * [3DS Hacks Guide](https://3ds.hacks.guide/) - 3DS Modding Guide
-* [Universal DB](https://db.universal-team.net/) - 3DS / DS Homebrew Apps
+* [Universal DB](https://db.universal-team.net/) - 3DS / DS Modding Apps
+* [](https://www.reddit.com/r/3dspiracy/) - 3DS Modding Community
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - NES, SNES & Playstation Mods
 * [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Guides
 * [TheLeecherMan](https://sites.google.com/site/theleecherman/) - Playstation Modding Tools
@@ -487,6 +489,7 @@
 * [RDRFSR2](https://github.com/RealIndica/RDRFSR2) - RDR2 FidelityFX Super Resolution Mod
 * [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - Unlock Genshin Impact FPS Cap
 * [HedgeModManager](https://github.com/thesupersonic16/HedgeModManager) - Sonic Game Mod Manager
+* [RoSeal](https://www.roseal.live/) - Roblox Enhancement Extension
 * [Roblox Performance](https://rentry.co/roblox-performance) - Roblox Optimization Guide
 * [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) - Roblox Bootstrapper
 * [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap
