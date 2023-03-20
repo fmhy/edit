@@ -851,7 +851,7 @@
 * [IPSW](https://ipsw.me/) - Provides Jailbreak firmware
 * [checkra1n](https://checkra.in/) - 5s - X Jailbreak / [Discord](https://discord.gg/NAxRYvysuc)
 * [palera1n](https://github.com/palera1n/palera1n) - 15.0-16.3.1 Jailbreak Semi-Tethered Jailbreak
-* [XinaA15](https://github.com/NotDarkn/XinaA15) - 15-15.1.1 Jailbreak
+* [XinaA15](https://github.com/NotDarkn/XinaA15) - 15-15.1.1 iPhone XS Jailbreak
 * [Taurine](https://taurine.app/) - 14-14.3 Semi-Untethered Jailbreak
 * [Fugu14](https://github.com/LinusHenze/Fugu14) - 14.3-14.5 Untethered Jailbreak (Incomplete)
 * [Odyssey](https://theodyssey.dev/) - 13.0 to 13.7 Semi-tethered Jailbreak / [Discord](https://discord.gg/sileo) 
