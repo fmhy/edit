@@ -2,7 +2,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/jILPqZX.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/h3ErMik.png)** - For mobile users
 
 ***
 
@@ -775,6 +775,7 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 * https://www.publicdns.xyz/
 * https://gernot-walzl.at/Miscellaneous/wikileaks_alternative_dns.html
+* https://wikileaks.org/wiki/Alternative_DNS
 * https://www.cloudns.net/
 * https://dns.he.net/
 * https://www.dnspod.com/
@@ -923,7 +924,7 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 * ⭐ **[TeledriveApp](https://teledriveapp.com/)**
 * ⭐ **[disk.yandex](https://disk.yandex.com/)**
 
-[dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/), [internxt](https://internxt.com/), [MrOwl](https://www.mrowl.com/), [storj](https://www.storj.io/), [PCloud](https://www.pcloud.com/), [myDrive](https://mydrive-storage.com/), [KodCloud](https://kodcloud.com/), [Infinity Upload](https://infinity-upload.com/), [Blackhole](https://blackhole.run/), [filelu](https://filelu.com/), [File.love](https://file.love/), [Blomp](https://www.blomp.com/) / [200GB Trick](https://pastebin.com/aPWjWbqn)
+[dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/), [internxt](https://internxt.com/), [MrOwl](https://www.mrowl.com/), [storj](https://www.storj.io/), [PCloud](https://www.pcloud.com/), [myDrive](https://mydrive-storage.com/), [KodCloud](https://kodcloud.com/), [Infinity Upload](https://infinity-upload.com/), [Blackhole](https://blackhole.run/), [filelu](https://filelu.com/), [File.love](https://file.love/), [Blomp](https://www.blomp.com/) / [200GB Trick](https://pastebin.com/aPWjWbqn), [T-Drive](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN)
 
 **Multi Host Uploaders**
 
@@ -935,7 +936,6 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 * ⭐ **[anonfiles](https://anonfiles.com/)**
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)**
 * ⭐ **[1fichier](https://1fichier.com/)**
-* ⭐ **[Zippyshare](https://www.zippyshare.com/)**
 * ⭐ **[LetsUpload](https://letsupload.io/)** / [1CloudFile](https://1cloudfile.com/)
 * ⭐ **[mediafire](https://www.mediafire.com/)**
 * ⭐ **[bowfile](https://bowfile.com/)**
@@ -1884,7 +1884,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Personal Link Homepages 
 
-[Ichi](https://ichi.city), [Linktree](https://linktr.ee/), [Beacon](https://beacons.ai/), [MyURLs](https://myurls.co/), [Carrd](https://carrd.co/), [Bio.link](https://bio.link/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/), [Ayo.so](https://ayo.so/), [CreatorSites](https://creatorsites.net/), [ContactInBio](https://www.contactinbio.com/), [Campsite](https://campsite.bio/), [bizzl.ink](https://bizzl.ink/), [Horizon](https://hrzn.bio/), [LinkFree](https://linkfree.eddiehub.io/), [itsmy.fyi](https://itsmy.fyi/), [dialo](https://dialo.app/)
+[Ichi](https://ichi.city), [Linktree](https://linktr.ee/), [Beacon](https://beacons.ai/), [MyURLs](https://myurls.co/), [Carrd](https://carrd.co/), [Bio.link](https://bio.link/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/), [Ayo.so](https://ayo.so/), [CreatorSites](https://creatorsites.net/), [ContactInBio](https://www.contactinbio.com/), [Campsite](https://campsite.bio/), [bizzl.ink](https://bizzl.ink/), [Horizon](https://hrzn.bio/), [LinkFree](https://linkfree.eddiehub.io/), [itsmy.fyi](https://itsmy.fyi/), [dialo](https://dialo.app/), [linkr](https://linkr.com/), [omg.lol](https://home.omg.lol/)
 
 ***
 
@@ -2642,6 +2642,12 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
+#### Steam Workshop Downloaders 
+
+[Steamworkshop.download](http://steamworkshop.download/), [steam-workshop-downloader.com](https://steam-workshop-downloader.com/), [steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader), [ggntw](https://ggntw.com/steam), [Workshop Downloader](https://4hub.info/workshop-downloader/), [WorkshopDL](https://github.com/VovoloGames/WorkshopDL) / [Discord](https://discord.com/invite/75cavYcnvv), [steamworkshopdownloader.ru](https://steamworkshopdownloader.ru/), [NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) / [Disocrd](https://discord.com/invite/bs9TMxMJk9), [ggntw](https://ggntw.com/steam), [steam-workshop-downloader](https://gramvio.com/steam-workshop-downloader/), [Workshop Script](https://greasyfork.org/en/scripts/449046)
+
+***
+
 #### Streaming Site CSE
 
 * [Streaming Sites Search](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g#gsc.tab=0)
@@ -3013,7 +3019,7 @@ Add the following commands to a search to manually scrape each site.
 * [ttsMP3](https://ttsmp3.com/)
 * [Spik](https://www.spik.ai/)
 * [TextToMP3](https://www.texttomp3.online/)
-* [Vo.codes](https://vo.codes/)
+* [FakeYou](https://fakeyou.com/)
 * [Woord](https://www.getwoord.com/)
 * [elevenlabs](https://beta.elevenlabs.io/)
 * [Tortoise TTS](https://github.com/neonbjb/tortoise-tts)
@@ -3045,7 +3051,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### TikTok Video Downloaders
 
-[SnapTik](https://snaptik.app/), [RipTok](https://github.com/adamsatyr/RipTok), [TikMate](https://www.tikmate.online/), [TokDer](https://tokder.org/), [tikmate](https://tikmate.app/), [tikfast](https://tikfast.net/), [SaveTT](https://savett.cc/), [ssstikvideo](https://www.ssstikvideo.com/), [TikInsta](https://tikinsta.net/), [TTDown](https://ttdown.org/), [ttdownloader](https://ttdownloader.net/)
+[SnapTik](https://snaptik.app/), [TokDer](https://tokder.org/), [tikmate](https://tikmate.app/), [tikfast](https://tikfast.net/), [SaveTT](https://savett.cc/), [ssstikvideo](https://www.ssstikvideo.com/), [TikInsta](https://tikinsta.net/), [TTDown](https://ttdown.org/), [ttdownloader](https://ttdownloader.net/)
 
 ***
 
@@ -3255,6 +3261,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 * [uView](https://www.idruf.com/)
 * [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 * [KikoPlay](https://kikoplay.fun/) - [GitHub](https://github.com/KikoPlayProject/KikoPlay/)
+* [SPlayer](https://www.splayer.org/) - Video Player w/ Smart Translation
 
 **Video Player Tools**
 
