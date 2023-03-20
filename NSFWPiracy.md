@@ -110,7 +110,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [NetU Search](https://netu.tv/view_page.php?pid=4) - Click [blue box](https://i.imgur.com/c19hKLw.png)
 * [GalleryCherry](https://github.com/RobbWatershed/GalleryCherry) - Gallery Archiving Android App
 * [fap.bar](https://fap.bar/) - NSFW Reddit Video Browser
-* [nsfw.xxx](https://nsfw.xxx/), [Scroller](https://scrolller.com/), [RedditBetterNSFW](https://redditbetternsfw.com/) or [reddnight](https://reddnight.com/) - NSFW Reddit Image & Video Browser
+* [nsfw.xxx](https://nsfw.xxx/), [Scroller](https://scrolller.com/) or [reddnight](https://reddnight.com/) - NSFW Reddit Image & Video Browser
 * [MrCong](https://mrcong.com/), [babes.gallery](https://babes.gallery/), [sxypix](https://sxypix.com/), [Porn Images](https://porn-images-xxx.com/), [traht](https://traht.org/), [Babepedia](https://www.babepedia.com/), [realbooru](https://realbooru.com/) or [girlsreleased](https://girlsreleased.com/) - Images
 * [Ana Dias Photography](https://www.anadiasphotography.com/) or [PmateHunter](https://pmatehunter.com/) - Playboy Images
 * [Simple-Costplay](https://www.simply-cosplay.com/) or [Hentai Costplays](https://hentai-cosplays.com) - Cosplay Images
@@ -166,7 +166,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Anix.moe](https://www.anix.moe/)
 * [SweetPorn](https://sweetporn.org/)
 * [RemaxHD](https://remaxhd.live/)
-* [xxxFile.org](https://xxxfile.org/) 
 * [Download Piracy Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "nsfw"
 * [CamVault](https://camvault.xyz/) - DL Chaturbate, MyFreeCams & CAM4 Recordings
 * [jdc](https://discord.gg/jdc) - Asian Porn Discord
@@ -290,7 +289,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [toonily](https://toonily.me/)
 * [MyReadingManga](https://myreadingmanga.info/)
 * [Ryuugames](https://ryuugames.com/) 
-* [WebHentai](https://webhentai.net/)
 * [manhwas.men](https://manhwas.men/)
 * [Hentai Upscales](https://t.me/+4zMgLbnhiF5hZGRk)
 * [Panda Chaika](https://panda.chaika.moe/)
