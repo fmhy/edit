@@ -195,7 +195,6 @@
 * [Rivetedlit](https://rivetedlit.com/) - Books
 * [Dolly Parton’s Imagination Library](https://imaginationlibrary.com/) - Book Gifting Program (For Children)
 * [FreeSteamOffers_Bot](https://t.me/FreeSteamOffers_Bot/) - Telegram
-* [N1Stock](https://n1stock.site/forums/giveaway.6/)
 * [/r/FREE](https://reddit.com/r/FREE/)
 * [/r/eFreebies](https://reddit.com/r/eFreebies)
 * [/r/FreeGameFindings](https://reddit.com/r/FreeGameFindings) 
@@ -994,7 +993,6 @@
 * [Infrapedia](https://www.infrapedia.com/) - Network / Datacenter Map
 * [CellMapper](https://www.cellmapper.net/) - Cell Tower Map
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
-* [4G LTE Coverage](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b) - 4G LTE Coverage Map
 * [Wigle](https://wigle.net/) - 802.11 Wireless Network Map
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
 * [KCG2](https://prop.kc2g.com/) - Ionospheric Conditions Map
@@ -1379,7 +1377,7 @@
 * [Foxified](https://foxified.org/) - Use Firefox Extensions in Chrome
 * [Edge Chrome Extensions](https://greasyfork.org/en/scripts/439922) - Use Edge Extensions in Chrome
 * [chrome-extensions](https://github.com/learn-anything/chrome-extensions) or [Chrome-Extension](https://github.com/harshita214/Chrome-Extension) - Chrome Extensions 
-* [NooBoss](https://ainoob.com/en/project/nooboss) or [Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/cjghohmpcbkfadlcldfcjlnoacgggnoi) - Chrome Extension Manager / Extra Features
+* [Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/cjghohmpcbkfadlcldfcjlnoacgggnoi) - Chrome Extension Manager / Extra Features
 * [ChromeStats](https://chrome-stats.com/) - Compare / Analyze Chrome Extensions
 * [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Add Extensions to Ungoogled Chromium 
 * [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - Quickly Enable / Disable Chrome Extensions
