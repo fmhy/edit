@@ -44,6 +44,7 @@
 * [Redump Forum](http://forum.redump.org/) - Disc Preservation Project
 * [Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers) - Get Scene Release Updates
 * [Multiplayer Fixes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_multiplayer) - Multiplayer Tools / Fixes
+* [ProjectBlackPearl](https://github.com/ProjectBlackPearl/project_black_pearl) - Pirated games launcher with plugin support
 
 ***
 
