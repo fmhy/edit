@@ -64,6 +64,7 @@
 * [Daytrotter](https://www.pastemagazine.com/daytrotter#!/) - Rising
 * [datpiff](https://www.datpiff.com/) - Mixtapes
 * [pumpyouup](http://www.pumpyouup.com/) - Indie Dubstep
+* [CitizenFreak](http://citizenfreak.com/) - Canadian Music
 * [musopen](https://musopen.org/music/) - Classical
 * [Bandcamp](https://bandcamp.com/tag/free-music?tab=all_releases) or [Hidden Bandcamp Tracks](https://github.com/7x11x13/hidden-bandcamp-tracks) - Free Bandcamp Music 
 * [Audius](https://audius.co/) - User Made Music Platform
@@ -170,20 +171,21 @@
 
 ## ▷ Ambient / Relaxation 
 
-* ⭐ **[Chillhop](https://chillhop.com/)** - Lo-fi Radio
-* ⭐ **[lofi.cafe](https://www.lofi.cafe/)** - Lo-Fi Radio
+* ⭐ **[Chillhop](https://chillhop.com/)** - Lofi Radio
+* ⭐ **[lofi.cafe](https://www.lofi.cafe/)** - Lofi Radio
 * ⭐ **[Ambient Rain Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ambient_rain_sounds)** - Ambient Rain
 * ⭐ **[LifeAt](https://lifeat.io/)** - Virtual Study / Work Spaces
-* ⭐ **[Coding Cat](https://hostrider.com/)** - Nyan Cat's Cousin / Lo-Fi Radio
+* ⭐ **[Coding Cat](https://hostrider.com/)** - Nyan Cat's Cousin / Lofi  Radio
 * ⭐ **[HaloMe.nu](https://halome.nu/)** - Halo Menu Screens
 * ⭐ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_relaxation) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_relaxation)** - Ambient Mobile Apps 
-* [Ambicular](https://ambicular.com/) - Lo-Fi Radio
-* [DevTunes FM](https://radio.madza.dev/) - Lo-Fi Radio
-* [Lofi Music](https://lofimusic.app/) - Lo-Fi Radio
-* [Lo-Fi Player](https://lofi-players.netlify.app/) - Lo-Fi Radio
-* [Lofi Club](https://loficlub.vercel.app/) - Lo-Fi Radio
-* [Lofi Limo](http://lofi.limo/) - Lo-Fi Radio
-* [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - Create Room / Lo-Fi Player
+* [Ambicular](https://ambicular.com/) - Lofi  Radio
+* [DevTunes FM](https://radio.madza.dev/) - Lofi Radio
+* [Lofi Music](https://lofimusic.app/) - Lofi Radio
+* [Lofi Player](https://lofi-players.netlify.app/) - Lofi Radio
+* [Lofi Club](https://loficlub.vercel.app/) - Lofi Radio
+* [Lofi Limo](http://lofi.limo/) - Lofi Radio
+* [Lofi Generator](https://lofigenerator.com/) - Lofi Radio
+* [lofi-player](https://magenta.tensorflow.org/lofi-player), [2](https://magenta.github.io/lofi-player/) - Create Room / Lofi Player
 * [Music For Programming](http://musicforprogramming.net/) or [Wisdom Tree](https://github.com/HACKER097/wisdom-tree/) - Music for Focus
 * [Noizio](https://noiz.io/) - Ambient 
 * [Calmsound](https://www.calmsound.com/) - Ambient 
@@ -207,8 +209,8 @@
 * [CanvasCycle](http://www.effectgames.com/demos/canvascycle/) - Ambient
 * [RelaxFrens](https://www.relaxfrens.com/) - Ambient
 * [Sounds of Maine](https://soundsofmaine.life/) - Ambient Maine Sounds
-* [lofi](https://lofi.co/) - Ambient / Lo-fi
-* [Ambient Mixer](https://www.ambient-mixer.com/) - Ambient / Lo-fi 
+* [lofi](https://lofi.co/) - Ambient / Lofi
+* [Ambient Mixer](https://www.ambient-mixer.com/) - Ambient / Lofi
 * [tree.fm](https://www.tree.fm/) - Ambient Forest Sounds
 * [VibeOcean](https://defonic.com/vibeocean.html) - Ambient Ocean Sounds
 * [Calm](https://app.www.calm.com/) - Meditation / Sleep Music 
@@ -342,7 +344,6 @@
 * [iTopMusicx](https://itopmusicx.com/) - iTunes M4A
 * [Plus Premieres](http://www128.pluspremieres.biz/) - iTunes M4A
 * [TvG](https://tvg-blog.tumblr.com/) - MP3 / Rare Music
-* [zippyshare DJs](https://www.zippysharedjs.com/) - Zippyshare File Search 
 * [Archive.org](https://archive.org/details/audio) - DL / Stream / MP3 
 * [xprm](https://xprm.net/) - MP3 / DL / Stream / Requests
 * [Jimmy R](http://www.jimmyr.com/mp3_search.php) or [Musgle](http://www.musgle.com/) - Google Directory Search / MP3
@@ -381,7 +382,6 @@
 * [ProgRockVintage](https://www.progrockvintage.com/) - Vintage Progressive Rock / MP3
 * [BurningTheGround](https://burningtheground.net/) - 80s / 90s / FLAC
 * [aboutdisco](https://aboutdiscowithlove.blogspot.com/) - Disco / MP3
-* [BOXSET](https://boxset.ru/) - Classical / FLAC
 * [Classical Music Download](https://classical-music-download.com/) - Classical / FLAC
 * [chucrute com quiabo](https://rabanetecomquiabo.blogspot.com/) - Classical / MP3
 * [MeetingInMusic](https://meetinginmusic.blogspot.com/) - Classical / MP3
@@ -472,8 +472,8 @@
 * [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
 * [MusitcTo](https://www.musicto.com/) - Musician Curated Playlists
 * [UpcomingPlaylists](https://www.upcomingplaylists.com/) - Playlists of Artists Playing Live Near You
-* [Obscurify](https://obscurifymusic.com/) - Compare Music Taste to Others 
-* [Chosic](https://www.chosic.com/) - Song Discovery Tools
+* [Obscurify](https://obscurifymusic.com/) or [MusicTaste](https://musictaste.space/) - Compare Music Taste to Others
+* [Dubolt](https://dubolt.com/) or [Chosic](https://www.chosic.com/) - Song Discovery Tools
 * [UnknownMusicBot](https://t.me/UnknownMusicBot) - Play a Random Rare Song from YouTube 
 * [Random Album Bookmark Script](https://pastebin.com/rR4qrvnX) - Find Random Albums
 * [BoilTheFrog](http://boilthefrog.playlistmachinery.com/) - Create Playlists From 2 Artists 
@@ -485,7 +485,7 @@
 * [VGMdb](https://vgmdb.net/) - Video Game Music Database
 * [SoundtrackTracklist](https://soundtracktracklist.com/) - Soundtrack Song Lists
 * [generasia](https://www.generasia.com/) - Asian Music Wiki
-* [dbkpop](https://dbkpop.com/), [KPopatroDB](https://kpopastrodb.com/) or [KPopping](https://kpopping.com/) - K-Pop Databases
+* [dbkpop](https://dbkpop.com/) or [KPopping](https://kpopping.com/) - K-Pop Databases
 * [Stage48](http://stage48.net/wiki/index.php) - Stage48 Idol Group Database
 * [Music.ishkur](http://music.ishkur.com/) - Electronic Music Guide
 * [Every Noise at Once](http://everynoise.com/) - Music Genre Samples
