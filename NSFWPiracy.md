@@ -147,7 +147,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [PhoenixAdult](https://github.com/DirtyRacer1337/Jellyfin.Plugin.PhoenixAdult) - Jellyfin Porn Plugin
 * [xHubApp](http://xhubapp.com/) - AIO Premium Porn Services App
 * [Pornsearch](https://github.com/LucasLeandro1204/Pornsearch) - Porn Search Script
-* [PornInvidious](https://simple-web.org/projects/porninvidious.html), [2](https://porninvidious.esmailelbob.xyz/) - xVideos Frontend
+* [PornInvidious](https://porninvidious.esmailelbob.xyz/) - xVideos Frontend
 
 ***
 
