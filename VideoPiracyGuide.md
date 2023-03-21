@@ -206,7 +206,7 @@
 * [my.mail.ru](https://my.mail.ru/video)
 * [Facebook Videos](https://www.facebook.com/watch/search/?query=fmhy)
 * [Ronemo](https://ronemo.com/)
-* [rutube](https://rutube.ru) - Account Required
+* [rutube](https://rutube.ru)
 * [cda.pl](https://www.cda.pl/)
 * [tilvids](https://tilvids.com/)
 * [bitchute](https://www.bitchute.com/)
@@ -548,6 +548,7 @@
 * [BestNHL](https://www.bestnhl.com/) - Sports
 * [MARKKY](https://markkystreams.com/) - Sports
 * [TheHomeSports](https://thehomesport.com/) - Sports
+* [SportsW](https://sportsw.me/) - Sports
 * [CricHD](https://fc5.crichd.com/) - Sports
 * [WorldStreams](https://en.worldstreams.net/) - Sports
 * [fromHOT](http://www.fromhots.com/) - Sports
