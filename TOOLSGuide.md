@@ -37,7 +37,7 @@
 * [NST](https://time.gov/), [Qlock](http://www.qlock.com/), [WorldTimeBuddy](https://www.worldtimebuddy.com/), [TheClockApp](https://theclockapp.vercel.app/), [TimeAndDate](https://www.timeanddate.com/) or [EveryTime Zone](https://everytimezone.com/) - World Clocks
 * [FlipClockWeb](https://flipclockweb.netlify.app/), [TheColourClock](http://thecolourclock.com/), [FlipClocker](https://flipclocker.com/) or [HexClock](https://www.jacopocolo.com/hexclock/) - Fullscreen Clocks
 * [Epoch Converter](https://www.epochconverter.com/) - Epoch / Unix Timestamp Conversion Tools
-* [How Many Days Since](http://howmanydayssince.net/), [DateTimeCalculator](https://datetimecalculator.net/calculators), [CalcuDater](https://calcudater.com/), [HowLongAgoGo](https://howlongagogo.com/) or [How Many Days Until](https://howmanydaysuntil.co/) - Time / Date Calculators
+* [How Many Days Since](http://howmanydayssince.net/), [DateTimeCalculator](https://datetimecalculator.net/calculators), [CalcuDater](https://calcudater.com/), [HowLongAgoGo](https://howlongagogo.com/) or [How Many Days Until](https://howmanydaysuntil.co/) / [2](https://days.to/) - Time / Date Calculators
 * [e.gg Timer](https://e.ggtimer.com/), [Pomodoro Kitty](https://pomodorokitty.com/), [Pomodor](https://pomodor.app/timer), [Aesthetic Pomodoro](https://studywithme.io/aesthetic-pomodoro-timer/) or [Juicy Timer](https://juicytimer.com/) - Timers
 * [StageTimer](https://stagetimer.io/) - Event Timer
 * [DripDrop](https://www.dripdrop.live/) - Product Drop Countdown
