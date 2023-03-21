@@ -745,7 +745,7 @@
 * [HomeBank](http://homebank.free.fr/), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://www.moneymanagerex.org/), [Ledger](https://www.ledger-cli.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa), [My Expenses](https://f-droid.org/packages/org.totschnig.myexpenses/), [actual](https://github.com/actualbudget/actual) or [Sushi](https://github.com/jerameel/sushi) - Finance Managers
 * [financial_advice](https://github.com/emilepetrone/financial_advice) - Financial Lessons
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
-* [Stocksera](https://stocksera.pythonanywhere.com/) or [Candle](https://gitlab.com/cosmosapps/candle) or [Screener](https://www.screener.in/) - Stock Market Trackers
+* [Stocksera](https://stocksera.pythonanywhere.com/), [TradingView](https://www.tradingview.com/), [Candle](https://gitlab.com/cosmosapps/candle) or [Screener](https://www.screener.in/) - Stock Market Trackers
 * [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) - Send TradingView Alerts to Various Apps / [Index](https://github.com/pAulseperformance/awesome-pinescript)
 * [neostox](https://neostox.com/) - Practice Stock Trading
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
