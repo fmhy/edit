@@ -37,7 +37,7 @@
 * [NST](https://time.gov/), [Qlock](http://www.qlock.com/), [WorldTimeBuddy](https://www.worldtimebuddy.com/), [TheClockApp](https://theclockapp.vercel.app/), [TimeAndDate](https://www.timeanddate.com/) or [EveryTime Zone](https://everytimezone.com/) - World Clocks
 * [FlipClockWeb](https://flipclockweb.netlify.app/), [TheColourClock](http://thecolourclock.com/), [FlipClocker](https://flipclocker.com/) or [HexClock](https://www.jacopocolo.com/hexclock/) - Fullscreen Clocks
 * [Epoch Converter](https://www.epochconverter.com/) - Epoch / Unix Timestamp Conversion Tools
-* [How Many Days Since](http://howmanydayssince.net/), [DateTimeCalculator](https://datetimecalculator.net/calculators), [CalcuDater](https://calcudater.com/), [HowLongAgoGo](https://howlongagogo.com/) or [How Many Days Until](https://howmanydaysuntil.co/) / [2](https://days.to/) - Time / Date Calculators
+* [How Many Days Since](http://howmanydayssince.net/), [DateTimeCalculator](https://datetimecalculator.net/calculators), [CalcuDater](https://calcudater.com/), [HowLongAgoGo](https://howlongagogo.com/), [Days.to](https://days.to/) or [How Many Days Until](https://howmanydaysuntil.co/) - Time / Date Calculators
 * [e.gg Timer](https://e.ggtimer.com/), [Pomodoro Kitty](https://pomodorokitty.com/), [Pomodor](https://pomodor.app/timer), [Aesthetic Pomodoro](https://studywithme.io/aesthetic-pomodoro-timer/) or [Juicy Timer](https://juicytimer.com/) - Timers
 * [StageTimer](https://stagetimer.io/) - Event Timer
 * [DripDrop](https://www.dripdrop.live/) - Product Drop Countdown
@@ -1467,7 +1467,7 @@
 * ⭐ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)** - Download Videos from YouTube
 * ⭐ **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download Audio from YouTube
 * ⭐ **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)**, [YouTube Dislike Viewer](https://jabrek.net/dislike-en), [youtube-dislike-viewer](https://haeri.github.io/youtube-dislike-viewer/) or [yt dislikes viewer](https://github.com/pgamerx/yt-dislikes-viewer) - View YouTube Dislikes / [Discord](https://discord.com/invite/mYnESY4Md5)
-* ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast) / [Script](https://github.com/mchangrh/sb.js) / [2](https://greasyfork.org/en/scripts/453320-simple-sponsor-skipper)
+* ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast) / [Script](https://github.com/mchangrh/sb.js)/ [2](https://greasyfork.org/en/scripts/453320)
 * [YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends) - Ad-Free YouTube Frontends / Clients
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) 
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YouTube-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
