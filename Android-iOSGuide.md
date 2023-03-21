@@ -614,7 +614,7 @@
 * ⭐ **[Mobilism](https://forum.mobilism.org/app/)**, [Project Gutenberg](https://github.com/Pool-Of-Tears/Myne) or [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app) - Ebook Site Apps
 * ⭐ **[Librera](http://librera.mobi/)**  - Ebook Reader
 * ⭐ **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - Ebook Reader
-* ⭐ **[Tachiyomi](https://tachiyomi.org/)** - Manga / Comic Reader
+* ⭐ **[Tachiyomi](https://tachiyomi.org/)** or [TachiyomiS97](https://github.com/Saud-97/TachiyomiS97) - Manga / Comic Reader
 * ⭐ **Tachiyomi Tools** - [Github Releases](https://github.com/tachiyomiorg/tachiyomi) / [Forks](https://tachiyomi.org/forks/#forks) / [Discord](https://discord.com/invite/tachiyomi) / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/)
 * [Openreads](https://f-droid.org/en/packages/software.mdev.bookstracker/) or [Basmo](https://basmo.app/) - Book Managers / Trackers
 * [MoonDownload](http://www.moondownload.com/) - Ebook Reader
