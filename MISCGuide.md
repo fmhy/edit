@@ -627,7 +627,8 @@
 * ⭐ **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - News Multireddit
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) or [TechGiga](https://www.techgiga.net/) - Piracy News
 * ⭐ **[Tech News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tech_news)** - Tech News
-* ⭐ **[YCombinator](https://news.ycombinator.com/)** or [hckrnws](https://www.hckrnws.com/) or  / [Mobile](https://hackerwebapp.com/) - Hacker News
+* ⭐ **[YCombinator](https://news.ycombinator.com/)**, [Hacki](https://github.com/Livinglist/Hacki), [HarmonicHackerNews](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [Glider](https://github.com/Mosc/Glider) [hckrnws](https://www.hckrnws.com/), [algolia](https://hn.algolia.com/), [Hackers](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901) or [HackerWebApp](https://hackerwebapp.com/) - Hacker News
+* [Flutter News](https://github.com/CoderJava/Flutter-News-App), [Artifact](https://artifact.news/) or [Volv](https://play.google.com/store/apps/details?id=com.volvmedia.volvapp) - Android News Apps
 * [RavenReader](https://ravenreader.app/) - News Article Manager
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - How to bypass article paywalls
 * [JustRead](https://justread.link/) - Ad-Free Article Viewer
@@ -675,6 +676,7 @@
 * [Scribe](https://scribe.bus-hit.me/) - Medium Frontend
 * [Read Something Interesting](https://readsomethinginteresting.com/) - Random Articles / Blog Posts
 * [prompt.press](https://prompt.press/) - AI Art Inspired by News
+* [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/) - Media Bias Check Extension
 * [Jayto's Newsletter List](https://rentry.co/newsletters) - List of Newsletters
 
 ***
@@ -796,6 +798,7 @@
 * [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - SF Food Truck App
 * [The Worlds 50 Best Restaurants](https://www.theworlds50best.com/list/1-50) - Top Restaurants List
 * [Awesome Cafe](https://github.com/utilForever/awesome-cafe) - Korean Cafe List / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [FermenThings](https://wiki.fermenthings.be/) - Fermentation Wiki
 * [is-vegan](https://github.com/hmontazeri/is-vegan) - Vegan Food App
 * [Food Lab](https://github.com/Singh-Shivani/Food_Lab) - Food Blog App
 
@@ -1317,7 +1320,7 @@
 ## ▷ Firefox
 
 * ⭐ **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/extensions/)**
-* ⭐ **[Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)** - Separate Firefox Sessions / [Guide](https://www.thechiefmeat.com/guides/containers.html)
+* ⭐ **[Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)** or [Temporary Containers](https://github.com/stoically/temporary-containers) - Separate Firefox Sessions / [Guide](https://www.thechiefmeat.com/guides/containers.html)
 * ⭐ **[FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/)** - Multiple Tab Related Actions
 * ⭐ **[Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/)** - Search Selected Text / Multi Site Search
 * [PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - Install Progressive Web Apps
@@ -1394,6 +1397,7 @@
 * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) or [Volume Master](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - Increase Browser Volume
 * [Audion](https://github.com/GoogleChrome/audion) - Web Audio Graph Visualizer
 * [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn) - Text Summary Generator
+* [Text Blaze](https://blaze.today/) - Create Text Snippets
 * [Blackbox](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) - Copy Text from Videos and Images
 * [Copy Text Easily](https://chrome.google.com/webstore/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo) - Simple Text Copy 
 * [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en) - Extract Email ID's from Webpages
