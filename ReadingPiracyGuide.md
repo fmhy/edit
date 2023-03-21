@@ -917,6 +917,7 @@
 * [MangaBuddy](https://mangabuddy.com)
 * [ReadKomik](https://readkomik.com/)
 * [DogManga](https://dogemanga.com/)
+* [Bunko](https://bunko.in/)
 * [MangaOwl](https://mangaowl.to/)
 * [MangaReader](https://mangareader.cc/)
 * [MC Reader](https://www.mcreader.net/)
