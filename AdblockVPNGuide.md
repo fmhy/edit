@@ -270,12 +270,12 @@
 
 ## ▷ Privacy Extensions
 
+* ⭐ **[LibreDirect](https://github.com/libredirect/libredirect)** or [Invidition](https://codeberg.org/Booteille/Invidition) - Frontend Redirect
 * ⭐ **[ClearURLs](https://github.com/ClearURLs/Addon/releases)** / [2](https://gitlab.com/KevinRoebert/ClearUrls), [Link Cleaner](https://mybrowseraddon.com/link-cleaner.html), [dont-track-me-google](https://github.com/Rob--W/dont-track-me-google) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - Remove Tracking Elements from URLs
 * ⭐ **[LocalCDN](https://www.localcdn.org/)**, [WhatCampaign](https://addons.mozilla.org/en-US/firefox/addon/whatcampaign/), [Decentraleyes](https://decentraleyes.org/), [Ping Blocker](https://github.com/dessant/ping-blocker), [OptMeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) or [TrackMeNot](http://trackmenot.io/) - Tracking Protection
 * [CRXcavator](https://crxcavator.io/) - Check Browser Extension Security
 * [File Guard](https://mybrowseraddon.com/file-encryptor.html) - File Encryption / Decryption
 * [Site Bleacher](https://github.com/wooque/site-bleacher) - Auto Remove Cookies, Local Storages, etc.
-* [Invidition](https://codeberg.org/Booteille/Invidition) or [LibreDirect](https://github.com/libredirect/libredirect) - Frontend Redirect
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
 * [catgirl.cloud](https://catgirl.cloud/) - Privacy-Respecting Services
 * [Anti-Grabify](https://github.com/Konnor88/anti-grabify) - Block IP Grabbers
@@ -368,7 +368,7 @@
 * [SSL Labs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html) - SSL/TLS Browser Capabilities Test
 * [IP / DNS Leak Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_dns_leak_tests) - Test for IP & DNS Leaks
 * [DNSCookie](http://dnscookie.com/) - Identify Related Network Flows
-* [Microsoft Security Intelligence](https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest) - Report Unsafe Sites
+* [Microsoft Security Intelligence](https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest) or [MalSite](https://rentry.co/malsite) - Report Unsafe Sites
 * [Phish.Report](https://phish.report/) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
 * [How-To Turn off IPv6](https://www.itechguides.com/disable-ipv6-windows-10/) - Prevent IP Leaks
 * [IPv6 Leak Test](https://ip6.nl/), [Test-IPv6](https://test-ipv6.com/) or [IPv6 Test](https://ipv6-test.com/) - IPv6 Leak Test
