@@ -1662,3 +1662,9 @@ pass: paluch
 #### Notewise
 
 `aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1ub3Rld2lzZSZzcj10b3BpY3Mmc2Y9dGl0bGVvbmx5`
+
+***
+
+#### WeTorrent Pro
+
+`aHR0cHM6Ly9hcGttb2R5LmlvL2FwcHMvd2V0b3JyZW50LXRvcnJlbnQtZG93bmxvYWRlcg==`
