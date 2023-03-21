@@ -224,7 +224,6 @@
 * [VGMUpdate](http://www.vgmupdate.com/) - Video / Games / Manga / NSFW
 * [XiaZai001](https://www.xiazai001.com/) - Video / Audio / Software
 * [dytt8](https://dytt8.net/), [dy2018](https://dy2018.com/), [ygdy8](https://ygdy8.com/index.html) or [dydytt](https://www.dydytt.net) - Movies / TV / Anime
-* [GBTGame](http://gbtgame.ysepan.com/dlzy.aspx?ym=0&dlmc=gbtgame&url=http://gbtgame.ysepan.com/default.aspx) - Games
 * [ygdy8](https://www.ygdy8.net/) - Movies / TV / Anime 
 * [Mini4k](https://www.mini4k.com/) - Movies / TV
 * [DoMP4](https://www.domp4.cc/) - Movies / TV
@@ -519,8 +518,6 @@
 * [37.187.112](http://37.187.112.153/) - Anime
 * [serienjunkies](https://serienjunkies.org/) - TV
 * [uu.canna.to](http://uu.canna.to/) - Music / Audiobooks
-* [CasualGamers](https://casualgamers.club/) - Games
-* [GLOAD](https://gload.to/) - Games
 * [Androidliste](https://www.androidliste.de/) - Modded APKs
 * [DDL-Warez](https://ddl-warez.cc/) - Movies / TV / Games / Software / NSFW
 
@@ -845,8 +842,6 @@
 * [Music Fusion World](https://fusion-world-30.blogspot.com/) - Music / MP3
 * [J-pop Music Download](https://jpop.xyz/) - Music / MP3 / FLAC 
 * [MinimumMusic](https://minimummusic.com/) - FLAC / MP3
-* [フリーソフトウェアの倉庫](http://nekomimi.la.coocan.jp/freesoft/index.htm) - Software
-* [Qoo-App](https://www.qoo-app.com/en) - Android Games
 * [Perfect Dark](http://kasumi.moe/pd/) - P2P App
 * [Eagleforces](https://eagleforces.tistory.com/) - ROMs
 
@@ -1000,7 +995,6 @@
 * [soft98](https://soft98.ir/) - Software / Courses / eBooks
 * [Persian Telegram Courses](https://rentry.co/sn66v)
 * [Old Persian Games](https://oldpersiangames.org/) - Iranian Made and Persian Dubbed Games
-* [game4pc](https://game4pc.ir) - Games
 * [TeleLeecherbot](https://t.me/TeleLeecherbot) or [kLeechBot](https://t.me/kLeechBot) - Persian Movie Leech Telegram Bots 
 * [FilmgramBot](https://t.me/FilmgramBot) or [FileMovieBot](https://t.me/FileMovieBot) - Persian Movie Search Telegram Bots 
 * [Download.ir](https://download.ir/) - Software / Video / Android / Games / Roms
@@ -1177,7 +1171,6 @@
 * [animestotais](https://www.animestotais.xyz/) - Movies / TV / Anime
 * [Anipakku](https://anipakku.blogspot.com/) - Anime / [Discord](https://discord.com/invite/Whu6RV9Gad)
 * [Series Empire](https://seriesempire.com/) - TV 
-* [Jogos Torrents](https://jogostorrents.site/) - Games
 * [BiaxarSomGospel](https://www.baixarsomgospel.org/) - Gospel Music
 * [Gendou](http://gendou.com/) - Anime OSTs
 * [Emulador](https://emulador3ds.com/pt/nintendo-3ds/) - 3DS Roms
@@ -1187,8 +1180,6 @@
 * [escolaeducacao](https://escolaeducacao.com.br/estude-gratis/) - Courses
 * [wreducacional](https://www.wreducacional.com.br/) - Courses
 * [Mundo Ubuntu](https://www.mundoubuntu.com.br/) - Courses
-* [Jogatina](https://www.jogatina.com/) - Android Games
-* [Wrapk.net](https://www.wrapk.net/) - Modded APKs
 
 ## ▷ Torrenting
 
@@ -1223,9 +1214,6 @@
 * [Anirrent](https://anirrent.fansubs.com.br/) - Anime
 * [Keroseed](https://www.keroseed.com/) - Anime
 * [AnskTracker](https://www.ansktracker.net/) - Anime WebIRC Tracker
-* [Torrent Jogos](https://torrentjogos.net/) - Games
-* [Games Antigos](https://gamesantigosoldgames.blogspot.com/) - Games
-* [RomGamesTorrent](https://romsgamestorrent.blogspot.com/) - Games
 * [MusicaTorrents](http://musicatorrents.com/) - MP3
 * [SuaMusica](https://www.suamusica.com.br/) - MP3
 * [Download Cursos](https://downloadcursos.top/) - Courses
@@ -1457,7 +1445,6 @@
 * [COMSS.CLUB](https://www.comss.ru/) - Software / Android
 * [DIAKOV](https://diakov.net/) - Software 
 * [LRepacks](https://lrepacks.ru/) - Software 
-* [Old-Games](https://www.old-games.ru/) - Retro Games
 * [cybershara](https://cybershara.ru/) - PSP ROMs
 * [AppsTorrent](https://appstorrent.ru/) - Mac Software
 * [Tancpol](https://tancpol.net/) - MP3
@@ -1510,10 +1497,6 @@
 * [Selezen](https://selezen.net/) - Movies
 * [DarkLibria](https://darklibria.it/) - Anime
 * [RGFootball](http://rgfootball.net/) - Sports
-* [Torrent4You](https://torrent4you.org/) - Games
-* [Torrent Igruha](https://torrent-igruha.ru/) - Games
-* [туттоп](https://tuttop.com/) - Games
-* [Small-Games](https://small-games.info/) - Games
 * [opamuzika](http://www.opamuzika.ru/) - MP3  
 
 ## ▷ Streaming 
@@ -1654,7 +1637,6 @@
 * [Roms en Español](https://romsespanol.com/) - ROMs
 * [RPGarchive](https://rpgarchive.net/) - ROMs
 * [TodoGamez](https://todogamez.com/) - ROMs
-* [BajarJuegosPCgratis](https://bajarjuegospcgratis.com/) - Games
 * [gamesgx](https://www.gamesgx.net/) - PS2 ROMs
 * [Zypeliculashd](https://zypeliculashd.net/) - Movies / TV / Anime
 * [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation
