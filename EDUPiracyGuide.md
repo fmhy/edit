@@ -301,6 +301,7 @@
 
 * ⭐ **[Awesome Math](https://github.com/rossant/awesome-math)** or [Math Resources](https://docs.google.com/document/d/1rtokzhpvkUPnymudl_ZVmfAA7H33VIyLQUpujNGwrTo/) - Math Resources
 * ⭐ **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)** - List of Interactive Math Sites
+* ⭐ **[Number Academy](https://number.academy/)** - Encyclopedia of Numbers
 * ⭐ **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - Sites with Multiple Calculators 
 * ⭐ **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
 * ⭐ **[Cymath](https://www.cymath.com/)**, [PhotoMath](https://github.com/nbats/FMHYedit/blob/main/base64.md#photomath) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/), [EverydayCalculation](https://answers.everydaycalculation.com/), [Math Solver](https://mathsolver.microsoft.com/en), [Tiger Algebra](https://www.tiger-algebra.com/) or [Symbolab](https://www.symbolab.com/) - Math Problem Solvers
@@ -644,7 +645,7 @@ Simulator
 * [ichi.moe](https://ichi.moe/) - Japanese to English Phrase Translation
 * [Jlpt N3](https://dethitiengnhat.com/en/) or [JapaneseTest4You](https://japanesetest4you.com/) - Jlpt Exam Questions / [Grammar](https://jlptgrammarlist.neocities.org/)
 * [GetKanda](https://getkana.com/app/), [Nihonoari](https://github.com/aeri/Nihonoari-App) or [RealKana](https://realkana.com/) - Learn Kana 
-* [WaniKani](https://www.wanikani.com/), [KanjiDamagePlus](https://kanjidamageplus.neocities.org/) or [Manji](https://github.com/Livinglist/Manji) - Learn Kanji
+* [WaniKani](https://www.wanikani.com/), [KanjiDamagePlus](https://kanjidamageplus.neocities.org/), [Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo) or [Manji](https://github.com/Livinglist/Manji) - Learn / Practice Kanji
 * [Learn Korean](https://discord.gg/e3H9Pde) - Korean Learning Discord
 * [Read Korean Letters](https://readkoreanletters.com/) - Learn Korean Characters 
 * [KR Dict](https://krdict.korean.go.kr/eng/) - Korean Learning Dictionary
@@ -685,7 +686,7 @@ Simulator
 * [Urdu Grammar](http://ilovelanguages.org/urdu_grammar.php) - Urdu Grammar Lessons
 * [youglish](https://youglish.com/) - YouTube Word Pronunciations 
 * [ASL Resources](https://t.me/ASLresources) - American Sign Language Resources / Telegram 
-* [ASL Dictionary](https://www.signasl.org/) or [HandSpeak](https://www.handspeak.com/) - American Sign Language 
+* [ASL Dictionary](https://www.signasl.org/), [SignSpaces](https://signspaces.com/) or [HandSpeak](https://www.handspeak.com/) - Learn American Sign Language 
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)  
 * [BSL Dictionary](https://www.signbsl.com/) - British Sign Language
 * [Language Drops](https://languagedrops.com/) or [10,000 Sentences](https://github.com/tkrajina/10000sentences) - Language Learning App / [Premium](https://github.com/nbats/FMHYedit/blob/main/base64.md#language-drops-premium)
@@ -880,6 +881,7 @@ Simulator
 * [Eylenburg](https://eylenburg.github.io/) - Infographs, Maps & Papers
 * [GeoNames](https://www.geonames.org/) - Geography Name Database
 * [LizardPoint](https://lizardpoint.com/), [Worldle](https://worldle.teuteuf.fr/), [GeoQuest](https://geoquest.gg/) or [Map Quiz](https://planemad.github.io/map-quiz/) - Geography Quizzes
+* [Statele](https://statele.teuteuf.fr/) - State Quiz
 * [Geograph WorldWide](https://www.geograph.org/) - Worldwide Photographs
 * [Flag Guesser](https://flagguesser.com/) - Flag Quizzes
 * [Flagpedia](https://flagpedia.net/) or [US Flags](https://usflags.design/) - Flag Indexes
