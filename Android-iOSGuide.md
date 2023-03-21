@@ -107,7 +107,7 @@
 * [Secure If](https://github.com/iternull/secure-if/) - USB Controller
 * [PrivateBrowser](https://play.google.com/store/apps/details?id=com.prism.download.adblock.privacy.flash.player.incognito.private_browser.browser) - Browser Disguised as Calculator
 * [Encrypted Messengers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_android_messengers) - Encrypted Android Messengers
-* [Silence](https://silence.im/) - Encrypt SMS/MMS Messages
+* [Silence](https://silence.im/) or [Partisan SMS](https://github.com/wrwrabbit/Partisan-SMS) - Encrypt SMS/MMS Messages
 * [Wickr](https://play.google.com/store/apps/details?id=com.wickr.pro&amp;hl=en), [MySudo](https://mysudo.com/), [Jami](https://jami.net/), [Syphon](https://syphon.org/), [Mesibo](https://play.google.com/store/apps/details?id=com.mesibo.mesiboapplication) or [Element](https://schildi.chat/android/) / [2](https://play.google.com/store/apps/details?id=im.vector.app) - Encrypted Messaging / Video Calls
 * [SmallTalk](https://github.com/ouchadam/small-talk) - Matrix Client
 * [OVERSEC](https://www.oversec.io/) - Add Text / Image Encryption to any App
@@ -258,7 +258,7 @@
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
 * [VoiceGPT](https://voicegpt.net/) or [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistants
 * [KeyMapper](https://github.com/keymapperorg/KeyMapper) - Key Mapper
-* [openboard](https://github.com/dslul/openboard) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
+* [openboard](https://github.com/dslul/openboard), [Thumb-Key](https://github.com/dessalines/thumb-key) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
 * [UnicodePad](https://github.com/Ryosuke839/UnicodePad) or [Kaomoji](https://play.google.com/store/apps/details?id=ru.kaomoji.kaomojiapp) - Emoji / Unicode Manager
 * [Clipboarded](https://f-droid.org/en/packages/com.trianguloy.clipboardeditor/) or [Clipboard History](https://play.google.com/store/apps/details?id=com.rubbishcollector.clipboardhistory) - Clipboard Managers
 * [PINCredible](https://github.com/cyb3rko/pincredible) - PIN Manager
@@ -402,10 +402,9 @@
 * [PDF Maker](https://play.google.com/store/apps/details?id=opofficial.pdfmaker) - PDF Creator
 * [Lagrange](https://skyjake.github.io/fdroid/repo/) or [Buran](https://github.com/Corewala/Buran) - Gemini Browsers
 * [BlueClover](https://github.com/nnuudev/BlueClover), [MobiChan](https://github.com/Rukkaitto/mobichan), [Kuroba](https://github.com/K1rakishou/Kuroba-Experimental) or [Chan](https://github.com/moffatman/chan) - 4Chan Apps
-* [Flutter News](https://github.com/CoderJava/Flutter-News-App), [Artifact](https://artifact.news/) or [Volv](https://play.google.com/store/apps/details?id=com.volvmedia.volvapp) - News Apps
-* [Hacki](https://github.com/Livinglist/Hacki) or [Glider](https://github.com/Mosc/Glider) - Hacker News
 * [ServeIt](https://github.com/many-fac3d-g0d/ServeIt) - Android HTTP Server
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - Easily Open Links in Text via Share Function
+* [LinkSheet](https://github.com/1fexd/LinkSheet) - Restore URL App Chooser
 * [Ponydroid](https://github.com/nbats/FMHYedit/blob/main/base64.md#ponydroid), [Jdownloader](https://my.jdownloader.org/), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager) or [Navi](https://f-droid.org/en/packages/com.tachibana.downloader/) - Download File Manager / [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)
 * [Android File Explorers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_file_explorers) - File Explorers / Managers
 * [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
@@ -597,6 +596,7 @@
 * [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) - [Screenshot](https://i.imgur.com/rZ2JeCO.png)
 * [Red Torrent](https://sourceforge.net/projects/redtorrent/) - [Screenshot](https://i.imgur.com/uVKVVLg.png)
 * [Android-A](http://android-a.com/) - [Screenshot](https://i.imgur.com/khlurm7.png)
+* [WeTorrent Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#wetorrent-pro) - [Screenshot](https://i.imgur.com/duCEVqB.png)
 * [Torrent Client](https://f-droid.org/en/packages/com.github.axet.torrentclient/) - [Screenshot](https://gitlab.com/axet/android-torrent-client#screenshots)
 * [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - [Screenshot](https://i.imgur.com/OrK3mLu.png)
 * [BiglyBT](https://android.biglybt.com/) - [Screenshot](https://i.imgur.com/WP7xwYK.png) 
@@ -981,7 +981,6 @@
 * [UTM](https://getutm.app/) - Virtual Machines 
 * [AppManager](https://github.com/kawaiizenbo/AppManager) - iOS App Manager for Windows 
 * [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188) - Automation Script Tool
-* [Hackers](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901) - Hacker News
 * [MAPS.ME](https://maps.me/) - Offline Maps / [GitHub](https://github.com/mapsme/omim)
 * [iSkin](https://iskin.tooliphone.net/), [Anemone](https://www.ios-repo-updates.com/repository/odyssey-repo/package/com.anemonetheming.anemone3/), [/r/iOSsetups](https://www.reddit.com/r/iOSsetups/ ), [/r/iOSthemes](https://www.reddit.com/r/iOSthemes/), [Moloko](https://apps.apple.com/us/app/moloko-themes-icons/id1534741213) or [SnowBoard](https://repo.dynastic.co/package/snowboard) - iOS Themes 
 * [Themify](https://apps.apple.com/us/app/themify-icon-themes-widgets/id1534126062) - Icon Themes & Widgets
