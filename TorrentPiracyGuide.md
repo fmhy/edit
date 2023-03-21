@@ -72,6 +72,7 @@
 * [TorrentCheap](https://my.torrentcheap.com/) - Torrent to Cloud and Stream
 * [ZBIGZ](https://zbigz.com/) - Torrent to Cloud and Stream
 * [Loadbt](https://www.loadbt.com/) - Torrent to Cloud and Stream
+* [Demagnetize](http://demagnetize.link/) - Torrent to DDL
 
 ***
 
