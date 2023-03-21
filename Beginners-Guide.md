@@ -10,15 +10,15 @@
 ***
 ***
 
-### [Basic Safety Guide](https://rentry.co/bootyguard) 
+### [Basic  Safety](https://rentry.co/bootyguard) / [Terms](https://redd.it/10xfr24)
 
 ***
 ***
 
 ### Windows Piracy
 
-**[Windows Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_windows_piracy_guides)** - Pirate windows
-**[Windows Activation Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_windows_activation)** - Active Windows
+**[Windows Piracy Guide](https://github.com/nbats/FMHYedit/blob/main/base64.md#windows-piracy-guides)** - Pirate windows
+**[Windows Activation Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation)** - Active Windows
 **[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - Download Windows
 
 !!!note Activating windows is not required, however it is recommended as it adds additional security updates, bug fixes and removes the watermark.
@@ -60,7 +60,7 @@
 ### Antivirus 
 
 **[VirusTotal](https://www.virustotal.com)  / [Kaspersky Cloud](https://opentip.kaspersky.com/)** - Test the safety of files
-**[Malwarebytes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_malwarebytes_premium) / [Hitman Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_hitman_pro)** - Antivirus software
+**[Malwarebytes](https://github.com/nbats/FMHYedit/blob/main/base64.md#malwarebytes-premium) / [Hitman Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#hitman-pro)** - Antivirus software
 
 !!!note Antivirus software is usually bloatware. Stick to trusted sources for games and software and you will be fine with nothing but Windows Defender and an occasional Malwarebytes scan. Also remember to always scan setup / installation files.
 
@@ -99,10 +99,10 @@
 
 **[DownloadHa](https://www.downloadha.com) / [Open Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_download_directories) / [Usenet](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_usenet)** - Download video, audio, games, software & more
 **[FileCR](https://filecr.com/en/) / [Mobilism](https://forum.mobilism.org/)** - Trusted software sites / [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass)
-**[Rinzry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_rinzry) / [50TB Drive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_50tb_mega_drive)** - Fast video downloads
+**[Rinzry](https://github.com/nbats/FMHYedit/blob/main/base64.md#rinzry) / [50TB Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#50tb-mega-drive)** - Fast video downloads
 **[AnimeKaizoku](https://animekaizoku.com/)** - Fast anime downloads
 **[FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/)** - Game download sites / [Discord](https://discord.gg/fitgirlrepacks)
-**[AlvRo](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_alvro) / [Vimms Lair](https://vimm.net/)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)
+**[AlvRo](https://github.com/nbats/FMHYedit/blob/main/base64.md#alvro) / [Vimms Lair](https://vimm.net/)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)
 **[Free MP3 Download](https://free-mp3-download.net/)** - MP3 / FLAC downloads
 **[Soulseek](https://slsknet.org/)** - Audio download app
 **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z) / [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h)** - Multi-site download search
@@ -161,7 +161,7 @@
 **[Stremio](https://www.stremio.com/) / [CloudStream](https://cloudstream.cf/)** - Video streaming apps / Use VPN for Stremio
 **[Kodi](https://kodi.tv/)** - iOS / Android TV compatible streaming app / [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 **[ReVanced Manager](https://github.com/revanced/revanced-manager)** - Ad free YouTube
-**[Spotify Mod](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_modded_spotify_apk)** / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_spotify.2B.2B), [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/base64#wiki_spotilife) - Ad free Spotify
+**[Spotify Mod](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-spotify-apk)** / [iOS](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotify), [2](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotilife) - Ad free Spotify
 **[Complete Jailbreak Chart](https://appledb.dev/)** - Jailbreaking info & tools
 
 ***
