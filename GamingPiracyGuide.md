@@ -236,7 +236,7 @@
 * ⭐ **[Myrient](https://myrient.erista.me/)** - ROMs
 * ⭐ **[No-Intro](https://github.com/nbats/FMHYedit/blob/main/base64.md#no-intro)** - ROMs
 * ⭐ **[AlvRo](https://github.com/nbats/FMHYedit/blob/main/base64.md#alvro)** - ROMs / pw: ByAlvRo
-* ⭐ **[RomCenter](https://r-ROMs.github.io/)**, [2](https://pastelink.net/24dhn) - ROMs / [Pastebins](https://github.com/nbats/FMHYedit/blob/main/base64.md#romcenter)
+* ⭐ **[RomCenter](https://r-ROMs.github.io/)**, [2](https://r-roms.gitlab.io/megathread/), [3](https://pastelink.net/24dhn) - ROMs / [Pastebins](https://github.com/nbats/FMHYedit/blob/main/base64.md#romcenter)
 * ⭐ **[ROM-Collections](https://rentry.co/ROM-Collections)** - ROMs
 * [TheRomDepot](https://theromdepot.com/) - ROMs
 * [Squid Proxy](https://github.com/nbats/FMHYedit/blob/main/base64.md#squid-proxy) - ROMs
