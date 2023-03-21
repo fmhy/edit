@@ -192,7 +192,7 @@
 * [Awesome Github REPO](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - Programming Resources
 * [HelloGitHub](https://hellogithub.com/) - GitHub Projects
 * [Gridea](https://github.com/getgridea/gridea) - Blog Writing Client
-* [Dict.Baidu](https://dict.baidu.com/) - Chinese Word, Idiom & Poem Search
+* [Dict.Baidu](https://dict.baidu.com/) - Chinese Word, Idiom and Poem Search
 * [SeiWatei](https://www.seiwatei.net/) or [chinadaily](https://language.chinadaily.com.cn/news_bilingual/) - Learn Chinese
 * [Oh.Taigi](https://oh.taigi.info/) - Chinese Taiwanese Learning Tools
 * [taioan](https://ji.taioan.org/) - Chinese Spell Check
@@ -492,7 +492,7 @@
 * ⭐ **[Tarnkappe](https://forum.tarnkappe.info/)** - Piracy Discussion + [Telegram](https://t.me/Tarnkappe_info)
 * ⭐ **[Awesome German Piracy](https://github.com/SeppPenner/awesome-german-piracy)** - German / Piracy Site Index
 * [RR.Topliste](https://toplist.raidrush.ws/) - Piracy Site List
-* [xrel](https://www.xrel.to/) - Scene Release & P2P Tracker
+* [xrel](https://www.xrel.to/) - Scene Release / P2P Tracker
 * [Boerse](https://boerse.am/) - German Data Sharing Discussion Forum
 * [mediathekviewweb](https://mediathekviewweb.de/) - Hacker News
 * [TrustScam](https://trustscam.de/) - Website Security Analysis
@@ -686,7 +686,7 @@
 * [Dead Toons India](https://www.deadtoons.net/) - Cartoons / Anime 
 * [ToonWorld4All](https://www.toonworld4all.me/) - Cartoons / Anime
 * [Anime World India](https://anime-world.in/) - Cartoons / Anime / [Discord](https://discord.com/invite/c3ete48q8H)
-* [PepCoding](https://www.pepcoding.com/resources/) - C++ & Java Programming Courses
+* [PepCoding](https://www.pepcoding.com/resources/) - C++ / Java Programming Courses
 * [DesiRulez](https://www.desirulez.cc/) - Video / Audio
 * [kukufm.com](https://kukufm.com/) - Podcasts / Radio / Audiobooks 
 * [gaana](https://gaana.com/) - Music
@@ -815,7 +815,7 @@
 
 * [lit.link](https://lit.link/) - Link All Your Sites on One Page
 * [Poipiku](https://poipiku.com/) - User-Made Images
-* [Marshmallow](https://marshmallow-qa.com/) - Send & Receive Positive Messages
+* [Marshmallow](https://marshmallow-qa.com/) - Send / Receive Positive Messages
 * [Annict](https://annict.com/) - Anime Tracker
 * [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Anime Subtitles
 * [Japan Reference](https://jref.com/) - Japanese Culture Forum
@@ -913,7 +913,7 @@
 # ► Korean
 
 * [dic.daum](https://dic.daum.net/) or [Speller](http://speller.cs.pusan.ac.kr/) - Korean Translator, Spellchecker & more
-* [TakakTadak](https://tadaktadak.co.kr/) - Korean Practice & English Learning
+* [TakakTadak](https://tadaktadak.co.kr/) - Korean Practice / English Learning
 * [EBS](https://www.ebs.co.kr/) - Korean Courses the Visually / Hearing Impaired
 * [Awesome Cafe](https://github.com/utilForever/awesome-cafe) - Korean Cafe List
 
@@ -1154,7 +1154,7 @@
 * [Uol](https://escolakids.uol.com.br/) - Kids Learning
 * [Portuguese Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_browser_games)
 * [Atari2600](http://www.atari2600.com.br/) - Browser Emulator
-* [Racha Cuca](https://rachacuca.com.br/) - Puzzles & Trivia
+* [Racha Cuca](https://rachacuca.com.br/) - Puzzles / Trivia
 * [cacapalavras](http://www.cacapalavras.com.br/) - Crossword Puzzles
 * [plagiarisma](http://plagiarisma.net/pt/) - Plagiarism Checker
 * [nomesdefantasia](https://www.nomesdefantasia.com/) - Fantasy Name Generator
@@ -1340,8 +1340,8 @@
 * [itazuraneko](https://itazuraneko.neocities.org/shousetu/index.html) - Light Novels
 * [1412.rest](https://www.1412.rest/) - Web Novels 
 * [Revista Programar](https://www.revista-programar.info/) - Programming Magazine
-* [DND5ED](http://dnd5ed.github.io/) - Dungeons & Dragons Guides
-* [Escritas](https://www.escritas.org/) - Poetry & Quotes
+* [DND5ED](http://dnd5ed.github.io/) - Dungeons and Dragons Guides
+* [Escritas](https://www.escritas.org/) - Poetry / Quotes
 * [Luso Poemas](https://www.luso-poemas.net/) - Poetry
 * [poesiasonline](https://www.poesiasonline.com/) - Poetry
 * [sitedepoesias](https://sitedepoesias.com/) - Poetry
@@ -1358,9 +1358,9 @@
 * [Brasil Escola](https://brasilescola.uol.com.br/) - Learning Material
 * [Mundo Educacao](https://mundoeducacao.uol.com.br/) - Math / History
 * [acessaber](https://acessaber.com.br/) - Math Lessons
-* [WDL PT](https://www.wdl.org/pt/) - Historical Document & Images
+* [WDL PT](https://www.wdl.org/pt/) - Historical Documents / Images
 * [Obrasraras](https://obrasraras.usp.br/) - Historical Documents
-* [de-comunicacao-para](https://catracalivre.com.br/criatividade/285-livros-de-comunicacao-para-download/) - Communication & Culture Books
+* [de-comunicacao-para](https://catracalivre.com.br/criatividade/285-livros-de-comunicacao-para-download/) - Communication / Culture Books
 * [Apocalipse2000](http://apocalipse2000.com.br/) - Paranormal / UFO / Scary Short Stories
 * [recantodasletras](https://www.recantodasletras.com.br/) - Text Archive
 * [Portuguese Dictionaries / Thesaurus' / Symbols](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_dictionaries_.2F_thesaurus) 
