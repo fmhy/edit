@@ -127,6 +127,7 @@
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
 * [Giara](https://aur.archlinux.org/packages/giara/) or [Headlines](https://gitlab.com/caveman250/Headlines) - Reddit Client
 * [reddio](https://gitlab.com/aaronNG/reddio) - Reddit CLI
+* [Giara](https://gitlab.com/gabmus/giara) - GTK Reddit App
 * [gettit](https://github.com/Solirs/gettit/) - Reddit CLI Video Downloader
 * [rainbowstream ](https://github.com/orakaro/rainbowstream) - Twitter CLI
 * [ramme](https://github.com/terkelg/ramme) - Instagram Client
