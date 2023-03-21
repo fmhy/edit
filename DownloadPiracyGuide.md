@@ -399,7 +399,7 @@
 
 ## ▷ Downloaders
 
-* ⭐ **[sabnzbd](https://sabnzbd.org/)**
+* ⭐ **[sabnzbd](https://sabnzbd.org/)** / [Grabber](https://github.com/lem6ns/sabgrab)
 * [nzbget](https://nzbget.net/)
 * [Usenet File Hashes](https://gist.github.com/4chenz/de3a3490aff19fd72e4fdd9b7dafc8f4) - Link File Hashes
 
