@@ -1521,6 +1521,7 @@
 * [Campfire](https://campfire.gg), [Walrus](https://joinwalrus.tv/), [SyncTube](https://synctube.xyz/), [Sync-Tube](https://sync-tube.de/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
 * [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer) - Video Web Player
 * [HookTube](https://hooktube.com/) - View YouTube Videos on Lightweight Page / [Redirect Script](https://greasyfork.org/en/scripts/24163-youtube-unblocker)
+* [Youtube Livestream Theatre](https://gitlab.com/-/snippets/2099898) - Twitch-style Theatre mode for YouTube Live
 * [Ytfzf](https://github.com/pystardust/ytfzf) or [YewTube](https://github.com/iamtalhaasghar/yewtube) - Terminal YouTube Players
 * [Jump Cutter](https://github.com/WofWca/jumpcutter) - Skip Silent Parts of Videos
 * [YouTube Web Tweaks](https://greasyfork.org/en/scripts/447802) - Speed Up YouTube
@@ -1868,7 +1869,7 @@ Twitch Stream Tracker
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
 * [Scrutiny](https://github.com/AnalogJ/scrutiny) or [smartmontools](https://www.smartmontools.org/) - Hard Drive Monitors
 * [Macrium Reflect](https://www.macrium.com/reflectfree) or [Ozone3D](https://www.ozone3d.net/index_softwares.php) - System Benchmarking
-* [poclmembench](https://github.com/kruzer/poclmembench) or [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
+* [poclmembench](https://github.com/kruzer/poclmembench), [GoldMemory](https://www.goldmemory.cz/) or [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
 * [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking 
 * [Netdata](https://www.netdata.cloud/), [bottom](https://github.com/ClementTsang/bottom), [MangoHud](https://github.com/flightlessmango/MangoHud), [OpenHardwareMonitor](https://openhardwaremonitor.org/) / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor), [btop](https://github.com/aristocratos/btop), [Glances](https://nicolargo.github.io/glances/), [Taskbar Stats](https://openhoangnc.github.io/taskbar-stats/) or [WinBar](http://www.winbar.nl/) - System Monitors
 * [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - Windows System Utilities / [Suite](https://www.microsoft.com/EN-US/p/app/9P7KNL5RWT25) 
