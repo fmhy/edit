@@ -91,7 +91,7 @@
 * [XSCamera](https://play.google.com/store/apps/details?id=me.jagar.xscamera) - Hidden Camera Recorder
 * [Invizible](https://invizible.net/en/) - Unblock Sites and Encrypt Traffic
 * [TrustDevice-Android](https://github.com/trustdecision/trustdevice-android) - Create Device Identifiers
-* [Keyoxide](https://www.f-droid.org/packages/org.keyoxide.keyoxide/) - Verify Decentralized Cryptographic Identities
+* [Keyoxide](https://codeberg.org/Berker/keyoxide-flutter) - Verify Decentralized Cryptographic Identities
 * [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&amp;hl=en_US) - Tor Proxy
 * [TorServices](https://f-droid.org/packages/org.torproject.torservices/) - Tor App Proxy / [GitLab](https://gitlab.com/guardianproject/torservices)
 * [Fritter](https://fritter.cc/) - Privacy Based Twitter Client / [Redirect](https://github.com/AucT/twitter2nitter)
