@@ -342,7 +342,7 @@
 * [Auto-Portforward](https://github.com/ruoshan/autoportforward) - Auto Port-Forwarding for Docker, Podman & Kubernetes
 * [Watchtower](https://github.com/containrrr/watchtower) - Automate Docker Container Image Updates
 * [CLIP-as-service](https://github.com/jina-ai/clip-as-service) - Embed Images / Sentences via CLIP Models
-* [Catalyzex](https://www.catalyzex.com/) - Search Machine Learning Models / Papers
+* [Catalyzex](https://www.catalyzex.com/) or [PapersWithCode](https://paperswithcode.com/) - Search Machine Learning Models / Papers
 * [OpenML](https://www.openml.org/) or [Hugging Face](https://huggingface.co/) - Machine Learning Datasets
 * [Kobra](https://kobra.dev/) - Visual Programming Language for Machine Learning
 * [DVC](https://dvc.org/) - Machine Learning Version Control
@@ -1097,6 +1097,7 @@
 * [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - Emacs Packages
 * [WebDen](https://webden.dev/), [Riju](https://riju.codes/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [CodeEval](https://www.codeeval.dev/) - Code Playgrounds
 * [DartPad](https://dartpad.dartlang.org) - Dart Code Playground
+* [nat.dev](https://nat.dev/) - Test LLMs
 * [Qovery](https://www.qovery.com/) - AWS Development Platform
 * [I run code](https://github.com/engineer-man/piston-bot) - Evaluate Code Snippets via Discord
 * [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
