@@ -2072,7 +2072,7 @@
 * [Toroflix](https://freewatchhindimoviesonline.com/) - Streaming / Movies
 * [SadRip](https://sadrip.blogspot.com/) - Movies / TV
 * [Movies Counter](https://moviescounter.hair/) - Download / Movies
-* [MLWBD](https://mlwbd.autos/) - Download / Movies / TV / Anime
+* [MLWBD](https://mlwbd1.com/) - Download / Movies / TV / Anime
 * [DesireMovies](https://desiremovies.network/) - Download / Movies / TV
 * [DotMovies](https://dotmovies.cam/) - Download / Movies / TV / Cartoons
 * [FullyMaza](https://fullymaza.life/) - Download / Movies / TV / Cartoons
