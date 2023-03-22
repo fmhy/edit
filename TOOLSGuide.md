@@ -726,7 +726,7 @@
 * [Candor](https://candor.co/hiring-freezes/) - Hiring Freezes
 * [GoodJobsFirst](https://www.goodjobsfirst.org/) - Subsidy Tracker
 * [Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms) - Project Management Tools
-* [Airtable](https://www.airtable.com/) or [API Table](https://apitable.com/) - Build Collaborative Apps
+* [Airtable](https://www.airtable.com/) or [API Table](https://apitable.com/) / [2](https://github.com/apitable/apitable) - Build Collaborative Apps
 * [PolyWork](https://www.polywork.com/) - Collaboration Search
 * [PHPCRM](https://www.phpcrm.com/) - Company Management Software
 * [SplitBee](https://splitbee.io/) - Business Analytics Tool
