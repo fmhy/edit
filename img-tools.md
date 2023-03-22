@@ -23,7 +23,7 @@
 * [IRA Design](https://iradesign.io/) - Illustration Creator
 * [Method](https://editor.method.ac/) - SVG Editor
 * [Scribus](http://www.scribus.net/) - Page Layout & Typesetting Program
-* [PhotoFunia](https://photofunia.com/), [AIBlockchainArt](https://aiblockchain.art/) or [Designify](http://designify.com/) - Photo Effects / Filters
+* [PhotoFunia](https://photofunia.com/) or [Designify](http://designify.com/) - Photo Effects / Filters
 * [MagicaVoxel](https://ephtracy.github.io/) - Voxel Art Editor / Interactive Path Tracing Renderer
 * [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Text Driven Image Manipulation / [Video](https://youtu.be/5icI0NgALnQ)
 * [Vectr](https://vectr.com/) or [VectorInk](https://vectorink.io/) - Vector Graphics Editor
