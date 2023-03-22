@@ -57,10 +57,11 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 #### AI Tool Indexes
 
+* ⭐ **[Futurepedia](https://www.futurepedia.io/)**
 * ⭐ **[AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR)**
 * ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/free-ai-tools)**
 
-[DeepAI](https://deepai.org/), [Favird](https://favird.com/), [FutureTools](https://www.futuretools.io/?pricing-model=free), [Futurepedia](https://www.futurepedia.io/), [RunawayML](https://runwayml.com/), [AISearchTool](https://www.aisearchtool.com/), [ToolScoutAI](https://toolscout.ai/), [AI Creator Tools](https://library.phygital.plus/), [topai](https://topai.tools/), [AI-Infinity](https://github.com/meetpateltech/AI-Infinity)
+[DeepAI](https://deepai.org/), [Favird](https://favird.com/), [FutureTools](https://www.futuretools.io/?pricing-model=free), [RunawayML](https://runwayml.com/), [AISearchTool](https://www.aisearchtool.com/), [ToolScoutAI](https://toolscout.ai/), [AI Creator Tools](https://library.phygital.plus/), [topai](https://topai.tools/), [AI-Infinity](https://github.com/meetpateltech/AI-Infinity)
 
 ***
 
