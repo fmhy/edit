@@ -52,7 +52,7 @@
 * [primitive.js](https://ondras.github.io/primitive.js/) or [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes 
 * [PBNify](https://pbnify.com/) - Paint by Number Tool
 * [Paint with Music](https://artsandculture.google.com/experiment/paint-with-music/YAGuJyDB-XbbWg) - Paint with Sound
-* [Inpaint](https://theinpaint.com/), [Magic Eraser](https://www.magiceraser.io/), [Remover](https://remover.zmo.ai/), [Hama](https://www.hama.app/) or [Cleanup.pictures](https://cleanup.pictures/) - Remove Objects from Photos 
+* [Inpaint](https://theinpaint.com/), [Magic Eraser](https://www.magiceraser.io/), [Remover](https://remover.zmo.ai/), Cleanup.pictures](https://cleanup.pictures/) - Remove Objects from Photos 
 * [InsertFace](https://insertface.com/) - Selfie Frames, Backgrounds & Effects
 * [Frame360](https://frame360.net/) - Image Frames
 * [Supershots](https://superblog.ai/supershots/) - Add Backgrounds to Images
