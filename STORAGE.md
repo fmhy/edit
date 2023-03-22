@@ -2996,6 +2996,8 @@ Add the following commands to a search to manually scrape each site.
 
 #### Text to Speech
 
+* ⭐ **[elevenlabs](https://beta.elevenlabs.io/)**
+* ⭐ **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)**
 * [Balabolka](http://balabolka.site/bportable.htm) / [2](http://www.cross-plus-a.com/bportable.htm)
 * [15.ai](https://15.ai/)
 * [Text To Speech](https://texttospeech.ca/)
@@ -3004,8 +3006,6 @@ Add the following commands to a search to manually scrape each site.
 * [TextToMP3](https://www.texttomp3.online/)
 * [FakeYou](https://fakeyou.com/)
 * [Woord](https://www.getwoord.com/)
-* [elevenlabs](https://beta.elevenlabs.io/)
-* [Tortoise TTS](https://github.com/neonbjb/tortoise-tts)
 * [Speakonia](https://archive.org/details/speakonia_1036)
 * [TextToSpeech](https://texttospeech.io/)
 * [SAPI4](https://tetyys.com/SAPI4/)
