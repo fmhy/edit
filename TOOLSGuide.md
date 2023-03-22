@@ -578,7 +578,6 @@
 * [Dot Piano](https://dotpiano.com/), [The 88](https://impactsoundworks.com/product/the-88e/) (enter $0), [VirtualPiano](https://virtualpiano.net/) or [Piano Online](https://magicode.me/piano-online) - Virtual Pianos
 * [Petaporon](https://pixwlk.itch.io/petaporon) or [OnlineSequencer](https://onlinesequencer.net/) - Piano Sequencers / [Editor](https://pixwlk.itch.io/petaporon-editor)
 * [MK-1](https://ericrosenbaum.github.io/MK-1/) - Online Sampling Keyboard
-* [Sampulator](http://sampulator.com/) - Create Music via Keyboard
 * [Theremin](https://femurdesign.com/theremin/) - Online Synth / Theremin 
 * [Audio Synthesizers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_synthesizers) - Audio Synthesizer Sites & Apps
 * [Vital](https://vital.audio/) - Spectral Warping Wavetable Synth
@@ -631,7 +630,6 @@
 * [Soundiiz](https://soundiiz.com/) or [Unitunes](https://github.com/platers/unitunes) - Transfer Playlists Between Platforms
 * [Suda](https://github.com/yaronzz/Suda) - Playlist Manager
 * [Sharky's EAC Guide](https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg) - CD Audio Ripping Guide
-* [RipGuide](https://highquality.rip/ripguide/) - Video Game Audio Ripping Guide
 * [Exact Audio Copy](https://www.exactaudiocopy.de/) or [Whipper](https://github.com/whipper-team/whipper) - CD / DVD Audio Ripper 
 * [Arpeggiator](https://codepen.io/jakealbaugh/full/qNrZyw) or [AutoChords](https://autochords.com/) - Chord Progression Generators
 * [HookTheory](https://www.hooktheory.com/trends) - Chord Progression Library 
@@ -931,7 +929,7 @@
 * [tumblr-utils](https://github.com/bbolli/tumblr-utils) - Tumblr Utilities
 * [Tumblr Savior](https://bjornstar.com/tumblr-savior) - Tumblr Dashboard Filter
 * [tumblr-crawler](https://github.com/ZenulAbidin/tumblr-crawler) - Download Tumblr Photos / Videos
-* [Tumgir](https://www.tumgir.com/) or [Tumpik](https://www.tumpik.com/) - Tumblr Web Viewers
+* [Tumpik](https://www.tumpik.com/) - Tumblr Web Viewers
 * [Awesome ActivityPub](https://github.com/BasixKOR/awesome-activitypub) - ActivityPub Project List
 * [Percollate](https://github.com/danburzo/percollate) - Format Pages for PDF / EPub / HTML
 * [StartOS](https://startos.app/) - 90's Themed Startpage / [Github](https://github.com/Jaredk3nt/startos)
@@ -2112,7 +2110,6 @@ Twitch Stream Tracker
 * [DIY Laptop](https://www.olimex.com/Products/DIY-Laptop/) - Build a Laptop
 * [OpenBoardData](https://github.com/inflex/OpenBoardData) - Board Repair Data
 * [OpenBoardView](https://github.com/OpenBoardView/OpenBoardView) - View .brd Files
-* [Optikey](http://www.optikey.org/) - Control Windows via Eyes
 
 ***
 
