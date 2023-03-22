@@ -276,7 +276,7 @@
 * [Astrum Argenteum](http://www.astrumargenteum.org/en/library/) - Occult
 * [Occult and Magick Guides](https://github.com/nbats/FMHYedit/blob/main/base64.md#occult-and-magick-guides) - Occult 
 * [Azrk's library](https://github.com/nbats/FMHYedit/blob/main/base64.md#azrks-library) - Occult / Esoterica / Satanism / Religion / Ect.
-* [Rosicrucian Esotericism Lecture](https://wn.rsarchive.org/GA/GA0109/19090603p01.html) - Rosicrucian Esotericism
+* [Rosicrucian Esotericism Lecture](https://rsarchive.org/) - Rosicrucian Esotericism
 * [Spirituality Megadrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#spirituality-megadrive) 
 * [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals
 * [Beyond Weird](https://www.beyondweird.com/) - Witchcraft / Conspiracies
