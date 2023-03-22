@@ -1331,7 +1331,7 @@
 * [RichPresence for Discord](https://chrome.google.com/webstore/detail/richpresence-for-discord/glpejjlbjjegcemceejaipihnhjkaddf) - Chrome Discord Rich Presence
 * [PlayStationDiscord](https://tustin.dev/PlayStationDiscord/) - PlayStation Discord Rich Presence
 * [Rich Presence U](https://ninstars.itch.io/rpc) - Nintendo Console Rich Presence
-* [Adobe Discord RPC](https://github.com/lolitee/adobe-discord-rpc) - Adobe Rich Presence
+* [Adobe Discord RPC](https://github.com/teeteeteeteetee/adobe-discord-rpc) - Adobe Rich Presence
 * [iTunes-Discord-RP](https://github.com/kkevinm/iTunes-Discord-RP) - iTunes Rich Presence 
 * [Foo_Discord_Rich](https://github.com/TheQwertiest/foo_discord_rich) - FooBar2000 Rich Presence
 * [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) - MPV Rich Presence 
