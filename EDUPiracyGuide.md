@@ -780,9 +780,9 @@ Simulator
 * [Catma](https://catma.de/) - Research Markup & Analysis Tool
 * [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips) - Latex Research Paper Tips
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
-* [Studify](https://github.com/cmcodes1/Studify) - Study Tracker
-* [Coursicle](https://www.coursicle.com/) - Class Schedule Tracker
-* [Graded](https://github.com/NightDreamGames/Graded) - Grades Tracker
+* [Studify](https://github.com/cmcodes1/Studify) - Study Tracker / Android
+* [Coursicle](https://www.coursicle.com/) - Class Schedule Tracker / Android
+* [Graded](https://github.com/NightDreamGames/Graded) - Grades Tracker / Android
 * [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - Educational Communication / iOS
 * [Note Taking Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - Note Taking / To-Do Apps
 * [Note Garden](https://notegarden.web.app/), [2](https://notegarden.io/) - Note Taking / Auto Courses
