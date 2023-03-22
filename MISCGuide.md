@@ -1138,7 +1138,7 @@
 * [psd_fonts](https://vk.com/psd_fonts)
 * [1001 Fonts](https://www.1001fonts.com/)
 * [1001 Free Fonts](https://www.1001freefonts.com/)
-* [FontFlipper](https://fontflipper.com/) - Font Finder
+* [FontFlipper](https://fontflipper.com/) - Add text to images
 * [enFont](https://enfont.javierarce.com/) or [Fontstruct](https://fontstruct.com/) - Custom Font Creators
 * [Phase](https://www.eliashanzer.com/phase/) - Variable Fonts Generator
 * [V-Fonts](https://v-fonts.com/) - Variable Fonts Tester
