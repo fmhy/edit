@@ -169,6 +169,7 @@
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/tareksander/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
 * ⭐ **[ChatGPT](https://play.google.com/store/search?q=chatgpt&c=apps)** or [chatgpt-android](https://github.com/skydoves/chatgpt-android) - AI Writing Assistant / Chat
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - Password Managers
+* ⭐ **[AutomaTag](http://automatag.com/)** - Metadata Organizer
 * [Android Debloat Guide](https://rentry.co/debloatandroid), [debloat-android](https://christitus.com/debloat-android/) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/0x192/universal-android-debloater), [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) or [Debloat Samsung Android](https://github.com/khlam/debloat-samsung-android) - Android Debloaters
 * [GearJail](https://gearjail.neocities.org/) - Android Guides / Resources
@@ -287,7 +288,6 @@
 * [Custom Volume Panel](https://play.google.com/store/apps/details?id=com.codingbatch.volumepanelcustomizer) - Customize Volume Bar
 * [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - Dictionary App
 * [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - Auto Clicker
-* [AutomaTag](http://automatag.com/) - Metadata Organizer
 * [Aves](https://github.com/deckerst/aves) - Metadata Explorer
 * [Luna Sea](https://www.lunasea.app/) - Self-Hosted Media Controller
 * [Media Bar](https://play.google.com/store/apps/details?id=apps.ijp.mediabar) - Status Bar Media Controller
