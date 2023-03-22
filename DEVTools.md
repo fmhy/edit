@@ -467,7 +467,6 @@
 * [Teler](https://github.com/kitabisa/teler) - HTTP Intrusion Detection
 * [HTTPToolkit](https://httptoolkit.tech/) - Debug, Test & Build with HTTP(S)
 * [GHH](http://ghh.sourceforge.net/) or [IP Intelligence](http://getipintel.net/) - Malicious Web Traffic Protection
-* [VanwaTech](https://vanwa.tech/cdn) - Smart CDN
 * [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTP Sites Leak Information
 * [DNSDumpster](https://dnsdumpster.com/), [DNS Watch](https://dnswatch.info) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security
 * [WebScarab](https://wiki.owasp.org/index.php/Category:OWASP_WebScarab_Project) - HTTP / HTTPS Protocol Analysis
@@ -1233,7 +1232,7 @@
 * [QBasic](https://www.qbasic.net/) - QBasic / QuickBASIC Programming Language Resources
 * [CP Editor](https://cpeditor.org/) - Competitive Programming Code Editor
 * [Awesome PHP](https://github.com/ziadoz/awesome-php) - PHP Resources
-* [PHP Decoder](http://ddecode.com/phpdecoder/) or [UnPHP](https://www.unphp.net/) - PHP Decoder
+* [PHP Decoder](http://ddecode.com/phpdecoder/) - PHP Decoder
 * [PHP Beautifier](http://phpbeautifier.com/) - PHP Formatter
 * [Clean Code PHP](https://github.com/jupeter/clean-code-php) - Clean Code for PHP
 * [Valinor](https://github.com/CuyZ/Valinor) - PHP Object Mapper
