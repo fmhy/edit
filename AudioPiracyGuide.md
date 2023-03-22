@@ -24,7 +24,7 @@
 * [Musify](https://github.com/gokadzev/Musify) - Streaming
 * [MellowPlayer](https://colinduquesnoy.gitlab.io/MellowPlayer/) - Streaming
 * [Muffon](https://github.com/staniel359/muffon) - Streaming
-* [Deezer](https://www.deezer.com/) - Streaming / [Full Songs](https://git.uhwot.cf/uhwot/dzunlock.git) / [FLAC Proxy](https://rentry.co/dzunlock-nutz)
+* [Deezer](https://www.deezer.com/) - Streaming / [Full Songs](https://git.uhwot.cf/uhwot/dzunlock.git)
 * [OdesliBot](https://t.me/odesli_bot) - Audio Stream Search Bot
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
 * [JukeboxStar](https://jukeboxstar.com/) - Collaborative Playlist Streaming
