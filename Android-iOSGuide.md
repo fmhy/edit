@@ -20,7 +20,7 @@
 * [AdAway](https://adaway.org/) - Adblocking App / [GitHub](https://github.com/AdAway/AdAway)
 * [ad-free](https://abertschi.github.io/ad-free/landing/) - Adblocking App
 * [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) / [F-Droid](https://f-droid.org/packages/dnsfilter.android), [Rethink](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists), [BhanUpratpys](https://github.com/bhanupratapys/dnswarden), [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), [2](https://jak-linux.org/projects/dns66/) / [GitHub](https://github.com/julian-klode/dns66), [TrustDNS](https://surfshark.com/trust-dns) or [Pi-Droid](https://f-droid.org/en/packages/friimaind.piholedroid/)  - DNS Adblocker 
-* [Daedalus](https://play.google.com/store/apps/details?id=org.itxtech.daedalus) or [Smokescreen](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen)- DNS Modifier
+* [Daedalus](https://github.com/iTXTech/Daedalus) or [Smokescreen](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen)- DNS Modifier
 * [DNS Speed Test & Changer](https://github.com/nbats/FMHYedit/blob/main/base64.md#dns-speed-test--changer) - DNS Speed Test
 * [DNS Changer](https://play.google.com/store/apps/details?id=com.technoapps.dnschanger) - DNS Changer
 * [YouTubeAdAway](https://github.com/wanam/YouTubeAdAway) - YouTube Adblocker
@@ -39,13 +39,13 @@
 * ⭐ **[Awesome Android Security](https://github.com/ashishb/android-security-awesome)** - Android Security Resources 
 * ⭐ **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - Browsers with a focus on Privacy 
 * ⭐ **[DPITunnel](https://github.com/nomoresat/DPITunnel-android)**, [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android) or [Xandroid](https://github.com/XndroidDev/Xndroid) - Proxies
-* [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html), [PandaVPN](https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy), [GoatVPN](https://play.google.com/store/apps/details?id=com.secure.proxy.freevpn), [Vpnify](https://vpnifyapp.com/), [YourFreedomVPN](https://apkcombo.com/your-freedom-vpn-client/de.resolution.yf_android/), [GoFLy](https://play.google.com/store/apps/details?id=com.ambrose.overwall), [TempoVPN](https://play.google.com/store/apps/details?id=com.waves.tempovpn&gl=US), [VPN Door](https://play.google.com/store/apps/details?id=com.securesoft.vpndoor&hl=en_US&gl=US), [VPNhub](https://www.vpnhub.com/) or [Clash](https://github.com/Kr328/ClashForAndroid/) / [Profiles](https://rentry.co/2q3rn) - Free VPNs
+* ⭐ **[Aegis](https://getaegis.app/)**, [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro), [Mauth](https://github.com/X1nto/Mauth) or [andOTP](https://github.com/andOTP/andOTP) - Two-Factor Authentication 
+* [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html), [PandaVPN](https://github.com/PandaVPN/panda), [GoatVPN](https://play.google.com/store/apps/details?id=com.secure.proxy.freevpn), [Vpnify](https://vpnifyapp.com/), [YourFreedomVPN](https://apkcombo.com/your-freedom-vpn-client/de.resolution.yf_android/), [GoFLy](https://play.google.com/store/apps/details?id=com.ambrose.overwall), [TempoVPN](https://play.google.com/store/apps/details?id=com.waves.tempovpn&gl=US), [VPN Door](https://play.google.com/store/apps/details?id=com.securesoft.vpndoor&hl=en_US&gl=US), [VPNhub](https://www.vpnhub.com/) or [Clash](https://github.com/Kr328/ClashForAndroid/) / [Profiles](https://rentry.co/2q3rn) - Free VPNs
 * [Guardian Project](https://guardianproject.info/) / [2](https://guardianproject.info/fdroid/repo), [Divestos Apps](https://divestos.org/index.php?page=recommended_apps) or [InviZible](https://github.com/Gedsh/InviZible) - Privacy Based Apps / Tools 
 * [FOSS Smartphone Hardening](https://lemmy.ml/post/54596), [2](https://www.reddit.com/r/privatelife/comments/rohq46/100_foss_smartphone_hardening_nonroot_guide_40/) - Non-Root Smart Phone Hardening Guide
 * [Hackuna](https://play.google.com/store/apps/details?id=org.cryptors.hackuna002&hl=en&gl=US) - Anti-Hack Tool
 * [Exodify](https://github.com/FacettsOpen/exodify) - Display Tracker Count on Apps in Play Store
 * [SelfPrivacy](https://selfprivacy.org/) - Self-Hosted Privacy Based Services
-* [Aegis](https://getaegis.app/), [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro), [Mauth](https://github.com/X1nto/Mauth) or [andOTP](https://github.com/andOTP/andOTP) - Two-Factor Authentication 
 * [FaceAct Notes](https://play.google.com/store/apps/details?id=com.brainekt.faceactnotes) - Face Recognition App
 * [Divestos](https://divestos.org/), [LeoS](https://leos-gsi.de/), [GrapheneOS](https://grapheneos.org/), [Auditor](https://apkcombo.com/auditor-grapheneos-variant/app.attestation.auditor/) or [CalyXOS](https://calyxos.org/) - Privacy Based OS
 * [UPX Browser](https://www.upxb.net/) or [ceno-browser](https://censorship.no/en/index.html) / [GitHub](https://github.com/censorship-no/ceno-browser) - Proxy Browser
@@ -169,6 +169,7 @@
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/tareksander/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
 * ⭐ **[ChatGPT](https://play.google.com/store/search?q=chatgpt&c=apps)** or [chatgpt-android](https://github.com/skydoves/chatgpt-android) - AI Writing Assistant / Chat
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - Password Managers
+* ⭐ **[AutomaTag](http://automatag.com/)** - Metadata Organizer
 * [Android Debloat Guide](https://rentry.co/debloatandroid), [debloat-android](https://christitus.com/debloat-android/) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/0x192/universal-android-debloater), [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) or [Debloat Samsung Android](https://github.com/khlam/debloat-samsung-android) - Android Debloaters
 * [GearJail](https://gearjail.neocities.org/) - Android Guides / Resources
@@ -287,7 +288,6 @@
 * [Custom Volume Panel](https://play.google.com/store/apps/details?id=com.codingbatch.volumepanelcustomizer) - Customize Volume Bar
 * [NotificationDictionary](https://github.com/tirkarthi/NotificationDictionary) - Dictionary App
 * [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - Auto Clicker
-* [AutomaTag](http://automatag.com/) - Metadata Organizer
 * [Aves](https://github.com/deckerst/aves) - Metadata Explorer
 * [Luna Sea](https://www.lunasea.app/) - Self-Hosted Media Controller
 * [Media Bar](https://play.google.com/store/apps/details?id=apps.ijp.mediabar) - Status Bar Media Controller
