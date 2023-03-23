@@ -12,7 +12,7 @@
 # ► AI Chatbots
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT4 Based Chatbot
-* ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT4 Based Chatbots
+* ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT4 Based Chatbot
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Character Params](https://rentry.org/reverseCAI)
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Chatbot
