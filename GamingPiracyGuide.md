@@ -128,10 +128,10 @@
 * [PlanetEmu](http://www.planetemu.net/) - Emulators
 * [The Emulator Zone](https://www.emulator-zone.com/) - Emulators
 * [EmuCR](https://www.emucr.com/) - Emulators
-* [PokeGB](https://github.com/binji/pokegb) - Pokémon Blue Emulator
 * [PopStarter](https://www.psx-place.com/threads/popstarter.19139/) - PS1 Emulator for PS2 / [Converter](https://www.psx-place.com/resources/psxvcd-by-englishl1989.669/) / [Setup](https://github.com/Edvaniojosedasilva1992/Instalador-POPStarter)
 * [Xbox Emulation Hub](https://discord.com/invite/7pcAbZzpXj) - Xbox Emulation Discord
 * [EmuDeck](https://www.emudeck.com/) or [GameImage](https://gitlab.com/formigoni/gameimage) - Steam Deck Emulators
+* [PokeGB](https://github.com/binji/pokegb) - Pokémon Blue Emulator
 * [Cemu Guide](https://cemu.cfw.guide/) or [/r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - Cemu / BOTW Optimization Guides
 * [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
 *  [Switch Emu Guides](https://github.com/Abd-007/Switch-Emulators-Guide), [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) / [2](https://docs.google.com/document/d/1weVLWey3RePzn8LubFRFHRVkoczCbLkvSf8fNfp1yZ0/edit) / [3](https://github.com/PrincessAkira/road-to-yuzu-without-switch), [Ryujinx Guide](https://docs.google.com/document/d/1prxOJaE4WhPeYNHW17W5UaWZxDgB8e5wNHxt2O4FKvs/edit) - Switch Emulator Setup Guides
@@ -156,12 +156,11 @@
 * ⭐ **[Myrient](https://myrient.erista.me/)** - ROMs
 * ⭐ **[No-Intro](https://github.com/nbats/FMHYedit/blob/main/base64.md#no-intro)** - ROMs
 * ⭐ **[AlvRo](https://github.com/nbats/FMHYedit/blob/main/base64.md#alvro)** - ROMs / pw: ByAlvRo
-* ⭐ **[RomCenter](https://r-ROMs.github.io/)**, [2](https://r-roms.gitlab.io/megathread/), [3](https://pastelink.net/24dhn) - ROMs / [Pastebins](https://github.com/nbats/FMHYedit/blob/main/base64.md#romcenter)
+* ⭐ **[Rom Center](https://r-ROMs.github.io/)**, [2](https://r-roms.gitlab.io/megathread/), [3](https://pastelink.net/24dhn) - ROMs / [Pastebins](https://github.com/nbats/FMHYedit/blob/main/base64.md#romcenter)
 * ⭐ **[ROM-Collections](https://rentry.co/ROM-Collections)** - ROMs
 * ⭐ **[WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases)**, [WiiU ROMs](https://wiiuroms.net/) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
 * ⭐ **[ROM Site Index](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)**
 * [/r/ROMs](https://www.reddit.com/r/ROMs/) - Discussion Sub
-* [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Multi-Site ROM Search
 * [ROM Managers](http://emulation.gametechwiki.com/index.php/ROM_managers) - List of ROM Managers
 * [Ziperto](https://ziperto.com/) - ROMs
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - ROMs / [Discord](https://discord.gg/rH9wRpu2vh) 
@@ -226,6 +225,7 @@
 * [ROM World](http://www.romworldonline.com/) - ROMs / [How-to](https://i.imgur.com/Mqab82O.png)
 * [LegendaryRepacks](https://discord.gg/RUSNHSk) - ROMs
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - ROMs / Torrent
+* [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Multi-Site ROM Search
 * [DDL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) / [Torrent](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f ROMs
 * [Switch ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - ROMs / Switch
 * [MarioCube](https://mariocube.com/) - ROMs / Wii / Gamecube
