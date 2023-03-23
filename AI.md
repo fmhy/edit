@@ -64,8 +64,6 @@
 * [pyChatGPT](https://github.com/terry3041/pyChatGPT) - Python App
 * [GPTPrompter](https://www.gptprompter.com/) - ChatGPT In Browser
 * [WeChat ChatGPT](https://github.com/fuergaosi233/wechat-chatgpt) - ChatGPT for WeChat
-* [ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Matrix Theme
-* [openai_pipe](https://github.com/Aesthetikx/openai_pipe) - Unix Theme
 * [ChatGPT Advanced](https://github.com/qunash/chatgpt-advanced) - Add Web Results to ChatGPT
 * [ChatGPT4Google](https://chatgpt4google.com/), [ChatGPTGoogleExtension](https://github.com/wong2/chatgpt-google-extension) or [ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Add ChatGPT to Web Results
 * [ShareGPT](https://sharegpt.com/) - Export Chats
@@ -73,24 +71,25 @@
 * [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear Chats
 * [EditGPT](https://www.editgpt.app/) - Proofread Chats
 * [RepeatGPT](https://repeatgpt.com/) - Schedule Chats
+* [ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Matrix Theme
+* [openai_pipe](https://github.com/Aesthetikx/openai_pipe) - Unix Theme
 * [ChatGPT API](https://github.com/acheong08/ChatGPT) - Reverse API
 
 ***
 
 ## ▷ ChatGPT Prompts
 
-* ⭐ **[Chatgptjailbreak](https://rentry.org/Chatgptjailbreak)**
-* [GPT Jailbreak](https://rentry.co/gptjailbreak)
-* [prompts.chat](https://prompts.chat/)
-* [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-* [botprompts](https://botprompts.net/)
-* [aisherpa](https://aisherpa.super.site/)
-* [quickref](https://quickref.me/chatgpt)
-* [ChatGPT-History](https://github.com/benf2004/ChatGPT-History)
-* [flowgpt](https://flowgpt.com/)
-* [jailbreakchat](https://www.jailbreakchat.com/)
-* [Learm Prompting](https://learnprompting.org/)
-* [jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)
+* ⭐ **[Awesome ChatGPT Prompts](https://prompts.chat/)** / [2](https://github.com/f/awesome-chatgpt-prompts) - Prompt Directory
+* ⭐ **[Learn Prompting](https://learnprompting.org/)** - Prompt Directory
+* ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheet
+* [Chatgptjailbreak](https://rentry.org/Chatgptjailbreak) - Prompt Directory
+* [flowgpt](https://flowgpt.com/) - Prompt Directory
+* [jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html) - Prompt Directory
+* [botprompts](https://botprompts.net/) - Fun Prompts
+* [aisherpa](https://aisherpa.super.site/) - Dev, Designer, Marketing Prompts
+* [GPT Jailbreak](https://rentry.co/gptjailbreak) - DAN / John Prompts
+* [jailbreakchat](https://www.jailbreakchat.com/) - Prompt Ratings / Voting
+* [ChatGPT-History](https://github.com/benf2004/ChatGPT-History) - Prompt Management Extension 
 
 ***
 ***
