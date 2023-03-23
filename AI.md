@@ -46,7 +46,6 @@
 * [AI Creator Tools](https://library.phygital.plus/) - AI Directory
 * [topai](https://topai.tools/) - AI Directory
 * [AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - AI Directory
-* [DeepAI](https://deepai.org/apis) - Browser Based AI
 * [RunawayML](https://runwayml.com/) - Browser Based AI
 
 ***
@@ -144,7 +143,7 @@
 * ⭐ **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) - AI Image Generator /  [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk) / [Generative Engine](https://experiments.runwayml.com/generative_engine/)
 * ⭐ **[DALL-E](https://labs.openai.com/)** or [ruDALL-E](https://rudalle.ru/en/) - AI Image Generator / [WorkFlow](https://github.com/jina-ai/dalle-flow), [2](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb) / [CLI](https://github.com/raiyanyahya/dallecli)
 * ⭐ **[Stability-AI](https://github.com/Stability-AI/stablediffusion)** /  [2](https://huggingface.co/spaces/stabilityai/stable-diffusion) - AI Image Generator / [Discord](https://discord.com/invite/stablediffusion) / [Variations](https://github.com/justinpinkney/stable-diffusion) 
-* ⭐ **[DeepAI](https://deepai.org/machine-learning-model/stable-diffusion)** / [2](https://deepai.org/machine-learning-model/text2img) - AI Image Generator  / [Colorizer](https://deepai.org/machine-learning-model/colorizer) / [Editor](https://deepai.org/machine-learning-model/image-editor)
+* ⭐ **[DeepAI](https://deepai.org/machine-learning-model/stable-diffusion)** / [2](https://deepai.org/machine-learning-model/text2img) - AI Image Generator / [Tools](https://deepai.org/apis)
 * ⭐ **[MagicBrush](https://www.magicbru.sh/)**, [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - AI Image Transformers
 * ⭐ **[SD WebUI](https://github.com/cmdr2/stable-diffusion-ui)** / [2](https://github.com/neonsecret/stable-diffusion-webui) / [3](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion WebUI / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Colab](https://github.com/pinilpypinilpy/sd-webui-colab-simplified)
 * ⭐ **[Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/)** - List of Stable Diffusion Models
