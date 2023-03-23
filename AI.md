@@ -14,9 +14,6 @@
 * ⭐ **[ChatGPT](https://chat.openai.com/)**
 * ⭐ **[Bard](https://bard.google.com/)**
 * ⭐ **[Ora](https://ora.sh/openai/gpt4)**
-* [Mitsuku](https://chat.kuki.ai/chat)
-* [cleverbot](https://www.cleverbot.com/)
-* [eviebot](https://www.eviebot.com/en/)
 * [Talk-Bot](http://www.frontiernet.net/~wcowart/index.shtml)
 * [Madam Zena](http://www.madamzena.com/)
 * [WriteSonic](https://writesonic.com/chat)
@@ -34,6 +31,9 @@
 * [DeepAI](https://deepai.org/chat)
 * [Dalai](https://cocktailpeanut.github.io/dalai/)
 * [Alpaca](https://github.com/antimatter15/alpaca.cpp)
+* [Mitsuku](https://chat.kuki.ai/chat)
+* [cleverbot](https://www.cleverbot.com/)
+* [eviebot](https://www.eviebot.com/en/)
 * [Kajiwoto](https://kajiwoto.com/) - AI Builder
 
 ***
@@ -77,6 +77,9 @@
 * [Alpaca](https://github.com/antimatter15/alpaca.cpp)
 
 ***
+***
+
+# ► AI Tools
 
 ## ▷ ChatGPT Tools
 
@@ -129,9 +132,8 @@
 * [openai-detector](https://huggingface.co/openai-detector/) / [2](https://openai-openai-detector.hf.space/)
 
 ***
-***
 
-# ► AI Tool Indexes
+## ▷ AI Tool Indexes
 
 * ⭐ **[Futurepedia](https://www.futurepedia.io/)**
 * ⭐ **[AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR)**
