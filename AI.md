@@ -59,7 +59,7 @@
 ## ▷ ChatGPT Tools
 
 * ⭐ **[Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)** - ChatGPT Resources
-* [FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)  - No-Login Frontend
+* [FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D), [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
 * [SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/) / [2](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) or [Merlin](https://merlin.foyer.work/) - ChatGPT Enhancement Extension
 * [EmergentMind](https://www.emergentmind.com/) - ChatGPT Forum
 * [ChatGPT Desktop](https://github.com/sonnylazuardi/chatgpt-desktop) or [lencx](https://github.com/lencx/ChatGPT/) - ChatGPT Desktop Apps
