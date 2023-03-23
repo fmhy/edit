@@ -2,7 +2,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/cnwWxia.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/TjxJI3M.png)** - For mobile users
 
 ***
 
@@ -51,27 +51,6 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 * [Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt)
 * [Assassinate Ad Block Blockers](https://greasyfork.org/en/scripts/382482-assassinate-ad-block-blockers)
 * [Test Adblock Defender](https://blockads.fivefilters.org/)
-
-***
-
-#### AI Tool Indexes
-
-* ⭐ **[Futurepedia](https://www.futurepedia.io/)**
-* ⭐ **[AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR)**
-* ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/free-ai-tools)**
-
-[DeepAI](https://deepai.org/), [Favird](https://favird.com/), [FutureTools](https://www.futuretools.io/?pricing-model=free), [RunawayML](https://runwayml.com/), [AISearchTool](https://www.aisearchtool.com/), [ToolScoutAI](https://toolscout.ai/), [AI Creator Tools](https://library.phygital.plus/), [topai](https://topai.tools/), [AI-Infinity](https://github.com/meetpateltech/AI-Infinity)
-
-***
-
-#### AI Writing Tools
-
-* ⭐ **[ChatGPT](https://chat.openai.com/)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chatgpt_tools)
-* ⭐ **[Bard](https://bard.google.com/)**
-* ⭐ **[Ora](https://ora.sh/openai/gpt4)**
-* ⭐ **[Poe](https://poe.com/)**
-
-[Transformer](https://transformer.huggingface.co/), [SpeedWrite](https://speedwrite.com/), [TurbineText](https://www.turbinetext.com/en), [TextSynth](https://textsynth.com/playground.html), [MagicPrompt](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion), [Talk to Transformer](https://app.inferkit.com/demo), [InkForAll](https://app.inkforall.com/tools), [EleutherAI](https://6b.eleuther.ai/), [Essaytyper](http://www.essaytyper.com/), [EssayGen](https://github.com/daijro/EssayGen/), [WriteSonic](https://writesonic.com/chat), [Writer](https://writer.com), [gpt3](https://gpt3.ethio-tech.com/), [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/), [papertyper](https://papertyper.net/), [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain), [NovelAI](https://novelai.net/) / [Limit Bypass](https://pastebin.com/JDyvqZcz), [Writerly](https://writerly.ai/), [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI), [Dreamily](https://dreamily.ai/), [GodAI](https://awk.itch.io/godai), [bing-chat](https://github.com/transitive-bullshit/bing-chat) / [API](https://github.com/acheong08/EdgeGPT), [Marmof](https://marmof.com/), [writier.io](https://writier.io/), [EasyPeasy](https://easy-peasy.ai/), [BlogNLP](https://www.blognlp.com/), [botowski](https://www.botowski.com/), [BAI](https://chatbot.theb.ai/), [Dalai](https://cocktailpeanut.github.io/dalai/), [Alpaca](https://github.com/antimatter15/alpaca.cpp)
 
 ***
 
@@ -415,16 +394,6 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 ***
 
-#### ChatGPT Tools
-
-[Resources](https://github.com/humanloop/awesome-chatgpt) / [No-Login Frontends](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D) / [Enhancements](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/), [2](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) / [Forum](https://www.emergentmind.com/) / [Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop), [2](https://github.com/lencx/ChatGPT/) / [CLI](https://github.com/diciaup/assistant-cli), [2](https://github.com/PopDaddyGames/ChatGPT-Terminal), [3](https://github.com/gmpetrov/openai-chatgpt) / [Python](https://github.com/terry3041/pyChatGPT) / [Site Extension](https://merlin.foyer.work/), [2](https://www.gptprompter.com/) / [Bypass Filters](https://rentry.co/gptjailbreak), [2](https://rentry.org/Chatgptjailbreak) / [Matrix Theme](https://github.com/lvwzhen/ChatGPT-Matrix-Style) / [Unix Theme](https://github.com/Aesthetikx/openai_pipe) / [Search Results](https://github.com/qunash/chatgpt-advanced) / [Google Results](https://chatgpt4google.com/), [2](https://github.com/wong2/chatgpt-google-extension), [3](https://github.com/ZohaibAhmed/ChatGPT-Google) / [WeChat](https://github.com/fuergaosi233/wechat-chatgpt) / [Reverse API](https://github.com/acheong08/ChatGPT) / [Export Chats](https://sharegpt.com/) / [Chat Notifications](https://chrome.google.com/webstore/detail/chatgpt-notification/eklmiefkbieejjjhmpjdllphmcjdndin) / [Autoclear Chats](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) / [Proofreader](https://www.editgpt.app/) / [Scheduler](https://repeatgpt.com/)
-
-**Prompts**
-
-[prompts.chat](https://prompts.chat/), [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts), [botprompts](https://botprompts.net/), [aisherpa](https://aisherpa.super.site/), [quickref](https://quickref.me/chatgpt),[ChatGPT-History](https://github.com/benf2004/ChatGPT-History), [flowgpt](https://flowgpt.com/), [jailbreakchat](https://www.jailbreakchat.com/), [Learm Prompting](https://learnprompting.org/), [jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)
-
-***
-
 #### Clipboard Managers
 
 [ArsClip](http://www.joejoesoft.com/vcms/97/), [Ditto Clipboard Manager](https://ditto-cp.sourceforge.io/), [clipboardmemo](https://gitlab.com/fabrom/clipboardmemo), [CopyQ](https://hluk.github.io/CopyQ/), [Free Clipboard Viewer](https://freeclipboardviewer.com/), [Clip Angel](https://sourceforge.net/projects/clip-angel/), [xClipper](https://github.com/KaustubhPatange/XClipper), [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots), [Clipboard Canvas](https://github.com/d2dyno1/ClipboardCanvas), [Xtra Clipboard](https://xtra-clipboard.com/), [Control V](https://ctrl.vi/), [Clipper](https://github.com/AkashRajpurohit/clipper)
@@ -488,16 +457,6 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 #### Copy Google Drives
 
 [gdrive-copy](https://github.com/ericyd/gdrive-copy), [googledrive-copy-downloader](https://github.com/jonathanTIE/googledrive-copy-downloader), [TgFolderClone](https://github.com/Loli-Killer/TgFolderClone), [Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot), [Copy Folder](https://chrome.google.com/webstore/detail/copy-folder/kfbicpdhiofpicipfggljdhjokjblnhl), [GDrive-Clone](https://github.com/alx-xlx/gdrive-clone), [Telegram Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools), [GdriveCloneBot](https://jsmsj.github.io/GdriveCloneBot/)
-
-***
-
-#### Conversational Chatbots
-
-* ⭐ **[ChatGPT](https://chat.openai.com/)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chatgpt_tools)
-* ⭐ **[Bard](https://bard.google.com/)**
-* ⭐ **[Ora](https://ora.sh/openai/gpt4)**
-
-[Mitsuku](https://chat.kuki.ai/chat), [cleverbot](https://www.cleverbot.com/), [eviebot](https://www.eviebot.com/en/), [Kajiwoto](https://kajiwoto.com/) (ai builder), [Talk-Bot](http://www.frontiernet.net/~wcowart/index.shtml), [Madam Zena](http://www.madamzena.com/), [WriteSonic](https://writesonic.com/chat), [gpt3](https://gpt3.ethio-tech.com/), [Character AI](https://beta.character.ai/) / [Extract Character Params](https://rentry.org/reverseCAI), [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain), [InWorld](https://www.inworld.ai/), [Chai](https://chai.ml/), [PygmalionAI](https://www.reddit.com/r/PygmalionAI/comments/10kr5zk/helpful_links/), [AnimaAI](https://myanima.ai/), [bing-chat](https://github.com/transitive-bullshit/bing-chat), [hellohistory](https://www.hellohistory.ai/), [2Dumb2Destroy](https://2dumb2destroy.com/), [BAI](https://chatbot.theb.ai/), [DeepAI](https://deepai.org/chat), [Dalai](https://cocktailpeanut.github.io/dalai/), [Alpaca](https://github.com/antimatter15/alpaca.cpp)
 
 ***
 
