@@ -99,7 +99,7 @@
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT4 Based AI
 * ⭐ **[Bard](https://bard.google.com/)** - Google's AI
 * ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT4 Based AI
-* ⭐ **[Poe](https://poe.com/)** - GPT4 Based AI
+* ⭐ **[Poe](https://poe.com/)** - GPT3.5 Based AI
 * [EasyPeasy](https://easy-peasy.ai/) - GPT4 Based AI
 * [BAI](https://chatbot.theb.ai/) - GPT3.5 Based AI
 * [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain) - GPT3.5 Based AI
