@@ -4,7 +4,25 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/EeW0IDQ.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/kGJ3ZZ5.png)** - For mobile users
+
+***
+***
+
+# ► AI Indexes
+
+* ⭐ **[Futurepedia](https://www.futurepedia.io/)**
+* ⭐ **[AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR)**
+* ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/free-ai-tools)**
+* [DeepAI](https://deepai.org/)
+* [Favird](https://favird.com/)
+* [FutureTools](https://www.futuretools.io/?pricing-model=free)
+* [RunawayML](https://runwayml.com/)
+* [AISearchTool](https://www.aisearchtool.com/)
+* [ToolScoutAI](https://toolscout.ai/)
+* [AI Creator Tools](https://library.phygital.plus/)
+* [topai](https://topai.tools/)
+* [AI-Infinity](https://github.com/meetpateltech/AI-Infinity)
 
 ***
 ***
@@ -14,12 +32,8 @@
 * ⭐ **[ChatGPT](https://chat.openai.com/)**
 * ⭐ **[Bard](https://bard.google.com/)**
 * ⭐ **[Ora](https://ora.sh/openai/gpt4)**
-* [Talk-Bot](http://www.frontiernet.net/~wcowart/index.shtml)
-* [Madam Zena](http://www.madamzena.com/)
-* [WriteSonic](https://writesonic.com/chat)
 * [gpt3](https://gpt3.ethio-tech.com/)
 * [Character AI](https://beta.character.ai/) / [Extract Character Params](https://rentry.org/reverseCAI)
-* [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
 * [InWorld](https://www.inworld.ai/)
 * [Chai](https://chai.ml/)
 * [PygmalionAI](https://www.reddit.com/r/PygmalionAI/comments/10kr5zk/helpful_links/)
@@ -78,23 +92,6 @@
 * [jailbreakchat](https://www.jailbreakchat.com/)
 * [Learm Prompting](https://learnprompting.org/)
 * [jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)
-
-***
-
-## ▷ AI Tool Indexes
-
-* ⭐ **[Futurepedia](https://www.futurepedia.io/)**
-* ⭐ **[AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR)**
-* ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/free-ai-tools)**
-* [DeepAI](https://deepai.org/)
-* [Favird](https://favird.com/)
-* [FutureTools](https://www.futuretools.io/?pricing-model=free)
-* [RunawayML](https://runwayml.com/)
-* [AISearchTool](https://www.aisearchtool.com/)
-* [ToolScoutAI](https://toolscout.ai/)
-* [AI Creator Tools](https://library.phygital.plus/)
-* [topai](https://topai.tools/)
-* [AI-Infinity](https://github.com/meetpateltech/AI-Infinity)
 
 ***
 ***
