@@ -4,6 +4,16 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ***
 
+### Mirrors
+
+https://github.com/nbats/FMHYedit/blob/main/base64.md
+
+https://notabug.org/nbatman/freemediaheckyeah/wiki/base64
+
+https://rentry.co/FMHYBase64
+
+***
+
 #### QFX KeyScrambler
 
 `aHR0cHM6Ly9maWxlY3IuY29tLz9zPVFGWCtLZXlTY3JhbWJsZXIrUHJvZmVzc2lvbmFs`
