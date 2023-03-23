@@ -12,7 +12,6 @@
 # ► AI Chatbots
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)**
-
 * ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT4 Based Chatbots
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Character Params](https://rentry.org/reverseCAI)
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
