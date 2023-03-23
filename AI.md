@@ -35,18 +35,18 @@
 
 # ► AI Indexes
 
-* ⭐ **[Futurepedia](https://www.futurepedia.io/)**
-* ⭐ **[AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR)**
-* ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/free-ai-tools)**
-* [DeepAI](https://deepai.org/)
-* [Favird](https://favird.com/)
-* [FutureTools](https://www.futuretools.io/?pricing-model=free)
-* [RunawayML](https://runwayml.com/)
-* [AISearchTool](https://www.aisearchtool.com/)
-* [ToolScoutAI](https://toolscout.ai/)
-* [AI Creator Tools](https://library.phygital.plus/)
-* [topai](https://topai.tools/)
-* [AI-Infinity](https://github.com/meetpateltech/AI-Infinity)
+* ⭐ **[Futurepedia](https://www.futurepedia.io/)** - AI Directory
+* ⭐ **[AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR)** - AI Directory
+* ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/free-ai-tools)** - AI Directory
+* [Favird](https://favird.com/) - AI Directory
+* [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
+* [ToolScoutAI](https://toolscout.ai/) - AI Directory
+* [AI Creator Tools](https://library.phygital.plus/) - AI Directory
+* [topai](https://topai.tools/) - AI Directory
+* [AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - AI Directory
+* [AISearchTool](https://www.aisearchtool.com/) - AI Search Tool
+* [DeepAI](https://deepai.org/apis) - Browser Based AI
+* [RunawayML](https://runwayml.com/) - Browser Based AI
 
 ***
 ***
