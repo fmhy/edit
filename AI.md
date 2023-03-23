@@ -108,7 +108,7 @@
 * [gpt3](https://gpt3.ethio-tech.com/) - GPT3 Based AI
 * [Transformer](https://transformer.huggingface.co/) - GPT2 Based AI
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Text AI / [API](https://github.com/acheong08/EdgeGPT)
-* [NovelAI](https://novelai.net/) / [Limit Bypass](https://pastebin.com/JDyvqZcz) - Story Writing AI
+* [NovelAI](https://novelai.net/) / [2](https://rentry.org/sdg_FAQ) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz)
 * [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - Story Writing AI
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [GodAI](https://awk.itch.io/godai) - Story Writing AI
@@ -141,55 +141,48 @@
 
 # ► Image Generators
 
-* ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [SD Goldmine](https://rentry.org/sdgoldmine) / [Updates](https://rentry.org/sdupdates3), [AI Creation Tool Mega](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) or [SD Akashic](https://github.com/Maks-s/sd-akashic) - Stable Diffusion  Resources
-* ⭐ **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) 
-* ⭐ **Craiyon Tools** - [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk) / [Generative Engine](https://experiments.runwayml.com/generative_engine/)
-* ⭐ **[DALL-E](https://labs.openai.com/)**
-* ⭐ **[Stable Diffusion](https://github.com/Stability-AI/stablediffusion)** - [Discord](https://discord.com/invite/stablediffusion) / [Variations](https://github.com/justinpinkney/stable-diffusion)
-* ⭐ **[DeepAI SD](https://deepai.org/machine-learning-model/stable-diffusion)**
-* [CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator) - Determine Likely Used Image Prompts
+* ⭐ **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) - AI Image Generator /  [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk) / [Generative Engine](https://experiments.runwayml.com/generative_engine/)
+* ⭐ **[DALL-E](https://labs.openai.com/)** or [ruDALL-E](https://rudalle.ru/en/) - AI Image Generator / [WorkFlow](https://github.com/jina-ai/dalle-flow), [2](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb) / [CLI](https://github.com/raiyanyahya/dallecli)
+* ⭐ **[Stability-AI](https://github.com/Stability-AI/stablediffusion)** /  [2](https://huggingface.co/spaces/stabilityai/stable-diffusion) - AI Image Generator / [Discord](https://discord.com/invite/stablediffusion) / [Variations](https://github.com/justinpinkney/stable-diffusion) 
+* ⭐ **[DeepAI](https://deepai.org/machine-learning-model/stable-diffusion)** / [2](https://deepai.org/machine-learning-model/text2img) - AI Image Generator  / [Colorizer](https://deepai.org/machine-learning-model/colorizer) / [Editor](https://deepai.org/machine-learning-model/image-editor)
+* ⭐ **[MagicBrush](https://www.magicbru.sh/)**, [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - AI Image Transformers
+* ⭐ **[SD WebUI](https://github.com/cmdr2/stable-diffusion-ui)** / [2](https://github.com/neonsecret/stable-diffusion-webui) / [3](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion WebUI / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Colab](https://github.com/pinilpypinilpy/sd-webui-colab-simplified)
+* ⭐ **[Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/)** - List of Stable Diffusion Models
+* ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
+* ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** - Determine Likely Used Image Prompts
+* ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
+* [Stable Horde](https://stablehorde.net/) - AI Image Generator / [Client](https://dbzer0.itch.io/stable-horde-client)
+* [Pinegraph](https://pinegraph.com/create) - Image Transformation / Sketchpad
+* [InPainter](https://inpainter.vercel.app/paint) / [2](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) - AI Image Generator
+* [Mage](https://www.mage.space/) - AI Image Generator
+* [Midjourney](https://www.midjourney.com/) - AI Image Generator
+* [Dezgo](https://dezgo.com/) - AI Image Generator
+* [aiimag.es](https://sunija.itch.io/aiimages) - AI Image Generator
+* [CR8](https://cr8.art/) - AI Image Generator
+* [Stable Diffusion Web](https://stablediffusionweb.com/) - AI Image Generator
+* [GetIMG.ai](https://getimg.ai/) - AI Image Generator
+* [PlaygroundAI](https://playgroundai.com/) - AI Image Generator
+* [StableCog](https://stablecog.com/) - AI Image Generator
+* [Uranus AI](https://uranus.ai/) - AI Image Generator
+* [InstantArt](https://instantart.io/) - AI Image Generator
+* [Artificy](https://artificy.com/) - AI Image Generator
+* [AIImageGenerator](https://www.aiimagegenerator.org/) - AI Image Generator
+* [Dream Studio](https://beta.dreamstudio.ai/dream) - AI Image Generator
+* [Dream.a](https://dream.ai/) - AI Image Generator
+* [DreamLike](https://dreamlike.art) - AI Image Generator
+* [Gaugan2](http://imaginaire.cc/gaugan2/) - AI Image Generator
+* [hypnogram](https://hypnogram.xyz/) - AI Image Generator
+* [AI Art Generator](https://neural.love/ai-art-generator) - AI Image Generator
+* [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent) - AI Image Generator
+* [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - AI Image Generator
+* [Dreambooth](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - AI Image Generator
+* [Diffuse The Rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest) - AI Image Generator
+* [InvokeAI](https://github.com/invoke-ai/InvokeAI) - AI Image Generator
+* [SD GUITard](https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4?usp=sharing) - AI Image Generation Colab
+* [AI Notebooks](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - AI Image Generation Colab
+* [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) - AI Image Generation Colab
+*  [NOP / WAS](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17) - AI Image Generation Colab
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
-* [MagicBrush](https://www.magicbru.sh/), [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - Transform Images
-* [Unstable Diffusion](https://discord.com/invite/unstablediffusion)
-* [Mage](https://www.mage.space/)
-* [DALL·E Flow](https://github.com/jina-ai/dalle-flow) / [Colab](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb) / [CLI](https://github.com/raiyanyahya/dallecli)
-* [ruDALL-E](https://rudalle.ru/en/) / [Telegram](https://t.me/sber_rudalle_xl_bot)
-* [Midjourney](https://www.midjourney.com/)
-* [Dezgo](https://dezgo.com/)
-* [aiimag.es](https://sunija.itch.io/aiimages)
-* [CR8](https://cr8.art/)
-* [Pinegraph](https://pinegraph.com/create)
-* [Stable Diffusion Web](https://stablediffusionweb.com/)
-* [GetIMG.ai](https://getimg.ai/)
-* [PlaygroundAI](https://playgroundai.com/)
-* [StableCog](https://stablecog.com/)
-* [DeepAI Text to Image](https://deepai.org/machine-learning-model/text2img) - [Editor](https://deepai.org/machine-learning-model/image-editor) / [Colorizer](https://deepai.org/machine-learning-model/colorizer)
-* [NOP / WAS Colab](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17)
-* [Uranus AI](https://uranus.ai/)
-* [InstantArt](https://instantart.io/)
-* [Artificy](https://artificy.com/)
-* [AIImageGenerator](https://www.aiimagegenerator.org/)
-* [Dream Studio](https://beta.dreamstudio.ai/dream)
-* [Dream.a](https://dream.ai/)
-* [DreamLike](https://dreamlike.art)
-* [Gaugan2](http://imaginaire.cc/gaugan2/)
-* [hypnogram](https://hypnogram.xyz/)
-* [AI Art Generator](https://neural.love/ai-art-generator)
-* [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent)
-* [NeuralBlender](https://neuralblender.com/)
-* [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/)
-* [InPainter](https://inpainter.vercel.app/paint)
-* [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion)
-* [Dreambooth](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)
-* [Stable Diffusion InPainting](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting)
-* [Diffuse The Rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
-* [StabilityAI](https://huggingface.co/spaces/stabilityai/stable-diffusion)
-* [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl)
-* [Stable Horde](https://stablehorde.net/) / [Client](https://dbzer0.itch.io/stable-horde-client)
-* [NovelAI](https://rentry.org/sdg_FAQ) / [Limit Bypass](https://pastebin.com/JDyvqZcz)
-* [InvokeAI](https://github.com/invoke-ai/InvokeAI)
-* [SD GUITard](https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4?usp=sharing)
-* [WebUI](https://github.com/neonsecret/stable-diffusion-webui), [2](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Simplified](https://github.com/pinilpypinilpy/sd-webui-colab-simplified) / [Colab](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) / [Single Click](https://github.com/cmdr2/stable-diffusion-ui) - Stable Diffusion WebUI's
 
 ***
 
