@@ -188,15 +188,14 @@
 
 ## ▷ Generator Guides
 
-* [Voldy](https://rentry.org/voldy)
-* [Colab Install](https://youtu.be/l3JjTDvyVdw)
-* [AyyMD](https://rentry.org/ayymd-stable-diffustion-v1_4-guide)
-* [AMD Guide](https://rentry.org/sdamd)
-* [Textard](https://rentry.org/textard)
-* [Native Isekai Too](https://rentry.org/sd-nativeisekaitoo)
-* [Quickstart](https://redd.it/xvhavo)
-* [CPUtard](https://rentry.org/cputard)
-* [InPainting Guide](https://rentry.org/drfar)
-* [Gaugan2 Guide](https://youtu.be/r5P9-zOfWyE)
-* [Midjourney Guide](https://marigoldguide.notion.site/marigoldguide/Visual-Guide-to-Midjourney-settings-using-mostly-Astronauts-2ae1d8bb125f46e2be9886119c36ecf0)
-* [Midjourney Cheatsheet](https://arjenharris.notion.site/arjenharris/Midjourney-Cheat-Sheet-271922c6869549898ead33eaf79517fa)
+* ⭐ **[Voldy](https://rentry.org/voldy)** - Stable Diffusion Guide
+* ⭐ **[SD Quickstart](https://redd.it/xvhavo)** - Stable Diffusion Image Guide
+* ⭐ **[1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw)** - Stable Diffusion Video Guide
+* [AyyMD](https://rentry.org/ayymd-stable-diffustion-v1_4-guide) - Stable Diffusion Guide
+* [AMD Guide](https://rentry.org/sdamd) - Stable Diffusion Guide
+* [Native Isekai Too](https://rentry.org/sd-nativeisekaitoo) - Stable Diffusion Guide
+* [CPUtard](https://rentry.org/cputard) - Stable Diffusion Guide
+* [Textard](https://rentry.org/textard) - Textual Inversion Guide
+* [drfar](https://rentry.org/drfar) - InPainting Guide
+* [Gaugan2 Guide](https://youtu.be/r5P9-zOfWyE) - Gaugan2 Video Guide
+* [Midjourney Guide](https://marigoldguide.notion.site/marigoldguide/Visual-Guide-to-Midjourney-settings-using-mostly-Astronauts-2ae1d8bb125f46e2be9886119c36ecf0) - Midjourney Guide / [Cheatsheet](https://arjenharris.notion.site/arjenharris/Midjourney-Cheat-Sheet-271922c6869549898ead33eaf79517fa)
