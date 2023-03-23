@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/7WkBKIB.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/EeW0IDQ.png)** - For mobile users
 
 ***
 ***
@@ -81,18 +81,6 @@
 
 ***
 
-## ▷ AI Text Detection
-
-* [GLTR](http://gltr.io/dist/index.html)
-* [ZeroGPT](https://www.zerogpt.com/)
-* [DetectGPT](https://detectgpt.com/)
-* [chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)
-* [ai-content-detector](https://contentatscale.ai/ai-content-detector/)
-* [Corrector App](https://corrector.app/ai-content-detector/) 
-* [openai-detector](https://huggingface.co/openai-detector/) / [2](https://openai-openai-detector.hf.space/)
-
-***
-
 ## ▷ AI Tool Indexes
 
 * ⭐ **[Futurepedia](https://www.futurepedia.io/)**
@@ -147,6 +135,18 @@
 * [BAI](https://chatbot.theb.ai/)
 * [Dalai](https://cocktailpeanut.github.io/dalai/)
 * [Alpaca](https://github.com/antimatter15/alpaca.cpp)
+
+***
+
+## ▷ AI Text Detection
+
+* [GLTR](http://gltr.io/dist/index.html)
+* [ZeroGPT](https://www.zerogpt.com/)
+* [DetectGPT](https://detectgpt.com/)
+* [chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)
+* [ai-content-detector](https://contentatscale.ai/ai-content-detector/)
+* [Corrector App](https://corrector.app/ai-content-detector/) 
+* [openai-detector](https://huggingface.co/openai-detector/) / [2](https://openai-openai-detector.hf.space/)
 
 ***
 ***
