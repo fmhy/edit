@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/EeW0IDQ.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/czMkrYx.png)** - For mobile users
 
 ***
 ***
@@ -12,13 +12,14 @@
 # ► AI Chatbots
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)**
+
 * ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT4 Based Chatbots
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Character Params](https://rentry.org/reverseCAI)
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * [DeepAI](https://deepai.org/chat) - DeepAI's Chatbot
 * [BAI](https://chatbot.theb.ai/) - GPT3 Based Chatbot
 * [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT3 Based Chatbot
-* [Dalai](https://cocktailpeanut.github.io/dalai/) or [Alpaca](https://github.com/antimatter15/alpaca.cpp) - Run Facebooks's Chatbot Locally
+* [Dalai](https://cocktailpeanut.github.io/dalai/) or [Alpaca](https://github.com/antimatter15/alpaca.cpp) - Self-Hosted Facebook Chatbot
 * [InWorld](https://www.inworld.ai/) - Roleplaying Chatbots
 * [Chai](https://chai.ml/)
 * [PygmalionAI](https://www.reddit.com/r/PygmalionAI/comments/10kr5zk/helpful_links/)
@@ -26,10 +27,32 @@
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat)
 * [hellohistory](https://www.hellohistory.ai/)
 * [2Dumb2Destroy](https://2dumb2destroy.com/)
+* [BAI](https://chatbot.theb.ai/)
+* [DeepAI](https://deepai.org/chat)
+* [Dalai](https://cocktailpeanut.github.io/dalai/)
+* [Alpaca](https://github.com/antimatter15/alpaca.cpp)
 * [Kuki](https://chat.kuki.ai/chat)
 * [cleverbot](https://www.cleverbot.com/)
 * [eviebot](https://www.eviebot.com/en/)
 * [Kajiwoto](https://kajiwoto.com/) - AI Builder
+
+***
+***
+
+# ► AI Indexes
+
+* ⭐ **[Futurepedia](https://www.futurepedia.io/)**
+* ⭐ **[AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR)**
+* ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/free-ai-tools)**
+* [DeepAI](https://deepai.org/)
+* [Favird](https://favird.com/)
+* [FutureTools](https://www.futuretools.io/?pricing-model=free)
+* [RunawayML](https://runwayml.com/)
+* [AISearchTool](https://www.aisearchtool.com/)
+* [ToolScoutAI](https://toolscout.ai/)
+* [AI Creator Tools](https://library.phygital.plus/)
+* [topai](https://topai.tools/)
+* [AI-Infinity](https://github.com/meetpateltech/AI-Infinity)
 
 ***
 ***
@@ -62,7 +85,8 @@
 
 ## ▷ ChatGPT Prompts
 
-* ⭐ **[Chatgptjailbreak](https://rentry.org/Chatgptjailbreak)** or [GPT Jailbreak](https://rentry.co/gptjailbreak) - Bypass ChatGPT Filters
+* ⭐ **[Chatgptjailbreak](https://rentry.org/Chatgptjailbreak)**
+* [GPT Jailbreak](https://rentry.co/gptjailbreak)
 * [prompts.chat](https://prompts.chat/)
 * [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 * [botprompts](https://botprompts.net/)
@@ -73,23 +97,6 @@
 * [jailbreakchat](https://www.jailbreakchat.com/)
 * [Learm Prompting](https://learnprompting.org/)
 * [jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)
-
-***
-
-## ▷ AI Tool Indexes
-
-* ⭐ **[Futurepedia](https://www.futurepedia.io/)**
-* ⭐ **[AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR)**
-* ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/free-ai-tools)**
-* [DeepAI](https://deepai.org/)
-* [Favird](https://favird.com/)
-* [FutureTools](https://www.futuretools.io/?pricing-model=free)
-* [RunawayML](https://runwayml.com/)
-* [AISearchTool](https://www.aisearchtool.com/)
-* [ToolScoutAI](https://toolscout.ai/)
-* [AI Creator Tools](https://library.phygital.plus/)
-* [topai](https://topai.tools/)
-* [AI-Infinity](https://github.com/meetpateltech/AI-Infinity)
 
 ***
 ***
