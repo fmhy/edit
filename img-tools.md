@@ -114,7 +114,7 @@
 * [more.graphics](https://more.graphics/) - Graphic Generators
 * [Random Art](http://www.random-art.org/) - Random Art Generator
 * [Rough.js](https://roughjs.com/) - Hand Drawn Graphic Generator
-* [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - Icon Generators
+* [Erlich](https://replicate.com/laion-ai/erlich), [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - Icon / Logo Generators
 * [Logo Makr](https://logomakr.com/), [Hatchful](http://hatchful.shopify.com/), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](http://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/), [OnlineLogoMaker](https://www.onlinelogomaker.com/), [Free Logo Maker](https://freelogomaker.net/) or [ACME](https://acme.com/labelmaker/) - Logo Creators / [Note](https://i.imgur.com/gXHFqff.png)
 * [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
 * [ArtFlow](http://artflow.ai/), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [Personas](https://personas.draftbit.com/), [react-nice-avatar](https://github.com/chilllab/react-nice-avatar) or [Avataaars](https://getavataaars.com/) - Face / Avatar Creators
@@ -301,7 +301,9 @@
 * ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [SD Goldmine](https://rentry.org/sdgoldmine) / [Updates](https://rentry.org/sdupdates3), [AI Creation Tool Mega](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) or [SD Akashic](https://github.com/Maks-s/sd-akashic) - Stable Diffusion  Resources
 * ⭐ **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) 
 * ⭐ **Craiyon Tools** - [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk) / [Generative Engine](https://experiments.runwayml.com/generative_engine/)
+* ⭐ **[DALL-E](https://labs.openai.com/)**
 * ⭐ **[Stable Diffusion](https://github.com/Stability-AI/stablediffusion)** - [Discord](https://discord.com/invite/stablediffusion) / [Variations](https://github.com/justinpinkney/stable-diffusion)
+* ⭐ **[DeepAI SD](https://deepai.org/machine-learning-model/stable-diffusion)**
 * [CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator) - Determine Likely Used Image Prompts
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
 * [MagicBrush](https://www.magicbru.sh/), [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - Transform Images
@@ -318,6 +320,7 @@
 * [GetIMG.ai](https://getimg.ai/)
 * [PlaygroundAI](https://playgroundai.com/)
 * [StableCog](https://stablecog.com/)
+* [DeepAI Text to Image](https://deepai.org/machine-learning-model/text2img) - [Editor](https://deepai.org/machine-learning-model/image-editor) / [Colorizer](https://deepai.org/machine-learning-model/colorizer)
 * [NOP / WAS Colab](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17)
 * [Uranus AI](https://uranus.ai/)
 * [InstantArt](https://instantart.io/)
@@ -483,6 +486,7 @@
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - Find Font from Image
 * [Watermarkly](https://watermarkly.com/), [We Watermark](https://wewatermark.com/) or [Watermarkup](https://watermarkup.com/watermark.html) - Image Watermarking
 * [Watermark Remover Online](https://www.aiseesoft.com/watermark-remover-online/) or [Watermark Remover](https://www.watermarkremover.io/) - Watermark Removal
+* [Glaze](https://glaze.cs.uchicago.edu/index.html) - Protect Digital Art from AI Copies
 * [FPNG](https://github.com/richgel999/fpng) - PNG Reader / Writer
 * [JPEGMedic ARWE](https://www.jpegmedic.com/tools/jpegmedic-arwe/) - Recover Ransomware-Encrypted Images
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - Scan & Digitize Documents / iOS
@@ -599,7 +603,8 @@
 * [TheExifer](https://www.thexifer.net/index.php) or [Exiv2](https://www.exiv2.org/) - Image EXIF Data Editors 
 * [Nameexif](https://us.digicamsoft.com/softnamexif.html) - Bulk Image EXIF Data Editor
 * [PictureCipher](https://keitharm.me/projects/picturecipher/index.php) or [Base64 Image](https://www.base64-image.de/) - Encrypt / Decrypt Images 
-* [BetaFace](https://www.betaface.com/demo.html) or [Face Recognition](https://github.com/ageitgey/face_recognition) - Facial Recognition 
+* [BetaFace](https://www.betaface.com/demo.html) or [Face Recognition](https://github.com/ageitgey/face_recognition) - Facial Recognition
+* [FaceCheck](https://facecheck.id/) - Face Recognition Search Engine
 * [FALdetector](https://github.com/peterwang512/FALdetector) - Photoshopped Face Detector
 * [Shoop](https://colab.research.google.com/drive/1AQ0XSKWjzJBhGXXJ0XrA4DckFdv6Ul5N) - Detect if Image is Photoshopped
 * [Fawkes](http://sandlab.cs.uchicago.edu/fawkes/) - Image Cloaking
