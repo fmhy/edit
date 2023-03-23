@@ -39,46 +39,6 @@
 ***
 ***
 
-# ► AI Writing Tools
-
-* ⭐ **[ChatGPT](https://chat.openai.com/)**
-* ⭐ **[Bard](https://bard.google.com/)**
-* ⭐ **[Ora](https://ora.sh/openai/gpt4)**
-* ⭐ **[Poe](https://poe.com/)**
-* [Transformer](https://transformer.huggingface.co/)
-* [SpeedWrite](https://speedwrite.com/)
-* [TurbineText](https://www.turbinetext.com/en)
-* [TextSynth](https://textsynth.com/playground.html)
-* [MagicPrompt](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion)
-* [Talk to Transformer](https://app.inferkit.com/demo)
-* [InkForAll](https://app.inkforall.com/tools)
-* [EleutherAI](https://6b.eleuther.ai/)
-* [Essaytyper](http://www.essaytyper.com/)
-* [EssayGen](https://github.com/daijro/EssayGen/)
-* [WriteSonic](https://writesonic.com/chat)
-* [Writer](https://writer.com)
-* [gpt3](https://gpt3.ethio-tech.com/)
-* [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/)
-* [papertyper](https://papertyper.net/)
-* [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
-* [NovelAI](https://novelai.net/) / [Limit Bypass](https://pastebin.com/JDyvqZcz)
-* [Writerly](https://writerly.ai/)
-* [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI)
-* [Dreamily](https://dreamily.ai/)
-* [GodAI](https://awk.itch.io/godai)
-* [bing-chat](https://github.com/transitive-bullshit/bing-chat) / [API](https://github.com/acheong08/EdgeGPT)
-* [Marmof](https://marmof.com/)
-* [writier.io](https://writier.io/)
-* [EasyPeasy](https://easy-peasy.ai/)
-* [BlogNLP](https://www.blognlp.com/)
-* [botowski](https://www.botowski.com/)
-* [BAI](https://chatbot.theb.ai/)
-* [Dalai](https://cocktailpeanut.github.io/dalai/)
-* [Alpaca](https://github.com/antimatter15/alpaca.cpp)
-
-***
-***
-
 # ► AI Tools
 
 ## ▷ ChatGPT Tools
@@ -147,6 +107,46 @@
 * [AI Creator Tools](https://library.phygital.plus/)
 * [topai](https://topai.tools/)
 * [AI-Infinity](https://github.com/meetpateltech/AI-Infinity)
+
+***
+***
+
+# ► Text Generators
+
+* ⭐ **[ChatGPT](https://chat.openai.com/)**
+* ⭐ **[Bard](https://bard.google.com/)**
+* ⭐ **[Ora](https://ora.sh/openai/gpt4)**
+* ⭐ **[Poe](https://poe.com/)**
+* [Transformer](https://transformer.huggingface.co/)
+* [SpeedWrite](https://speedwrite.com/)
+* [TurbineText](https://www.turbinetext.com/en)
+* [TextSynth](https://textsynth.com/playground.html)
+* [MagicPrompt](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion)
+* [Talk to Transformer](https://app.inferkit.com/demo)
+* [InkForAll](https://app.inkforall.com/tools)
+* [EleutherAI](https://6b.eleuther.ai/)
+* [Essaytyper](http://www.essaytyper.com/)
+* [EssayGen](https://github.com/daijro/EssayGen/)
+* [WriteSonic](https://writesonic.com/chat)
+* [Writer](https://writer.com)
+* [gpt3](https://gpt3.ethio-tech.com/)
+* [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/)
+* [papertyper](https://papertyper.net/)
+* [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
+* [NovelAI](https://novelai.net/) / [Limit Bypass](https://pastebin.com/JDyvqZcz)
+* [Writerly](https://writerly.ai/)
+* [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI)
+* [Dreamily](https://dreamily.ai/)
+* [GodAI](https://awk.itch.io/godai)
+* [bing-chat](https://github.com/transitive-bullshit/bing-chat) / [API](https://github.com/acheong08/EdgeGPT)
+* [Marmof](https://marmof.com/)
+* [writier.io](https://writier.io/)
+* [EasyPeasy](https://easy-peasy.ai/)
+* [BlogNLP](https://www.blognlp.com/)
+* [botowski](https://www.botowski.com/)
+* [BAI](https://chatbot.theb.ai/)
+* [Dalai](https://cocktailpeanut.github.io/dalai/)
+* [Alpaca](https://github.com/antimatter15/alpaca.cpp)
 
 ***
 ***
