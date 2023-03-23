@@ -38,13 +38,13 @@
 * ⭐ **[Futurepedia](https://www.futurepedia.io/)** - AI Directory
 * ⭐ **[AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR)** - AI Directory
 * ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/free-ai-tools)** - AI Directory
+* [AISearchTool](https://www.aisearchtool.com/) - AI Search Tool
 * [Favird](https://favird.com/) - AI Directory
 * [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
 * [ToolScoutAI](https://toolscout.ai/) - AI Directory
 * [AI Creator Tools](https://library.phygital.plus/) - AI Directory
 * [topai](https://topai.tools/) - AI Directory
 * [AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - AI Directory
-* [AISearchTool](https://www.aisearchtool.com/) - AI Search Tool
 * [DeepAI](https://deepai.org/apis) - Browser Based AI
 * [RunawayML](https://runwayml.com/) - Browser Based AI
 
@@ -56,8 +56,8 @@
 ## ▷ ChatGPT Tools
 
 * ⭐ **[Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)** - ChatGPT Resources
-* [FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D) / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
-* [SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/) / [2](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) or [Merlin](https://merlin.foyer.work/) - ChatGPT Enhancement Extension
+* ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [2](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) or [Merlin](https://merlin.foyer.work/) - ChatGPT Enhancement Extension
+* ⭐ **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
 * [EmergentMind](https://www.emergentmind.com/) - ChatGPT Forum
 * [ChatGPT Desktop](https://github.com/sonnylazuardi/chatgpt-desktop) or [lencx](https://github.com/lencx/ChatGPT/) - ChatGPT Desktop Apps
 * [Assistant CLI](https://github.com/diciaup/assistant-cli), [ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) or [openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt) - ChatGPT TUIs / CLIs
@@ -73,7 +73,7 @@
 * [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear GPT Chats
 * [EditGPT](https://www.editgpt.app/) - ChatGPT Proofreader
 * [RepeatGPT](https://repeatgpt.com/) - Schedule ChatGPT Chats
-* [ChatGPT Reverse API](https://github.com/acheong08/ChatGPT)
+* [ChatGPT API](https://github.com/acheong08/ChatGPT) - ChatGPT Reverse API
 
 ***
 
