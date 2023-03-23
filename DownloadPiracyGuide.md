@@ -78,7 +78,6 @@
 * [wJungle](https://wjungle.net/) - Video / Audio / Books / Games / Android / NSFW
 * [Sbenny's Forum](https://forum.sbenny.com/) - Video / Audio / Software / ROMs / Books / Android / [Discord](https://discord.gg/kf9FKQx)
 * [Amader Forum](http://amaderforum.us/) - Video / Games / Software / Android / Books / NSFW
-* [RapidHeaven](https://rapidheaven.com/) - Videos / Audio / Software / Games / ROMs 
 * [TehParadox](https://www.tehparadox.net/) - Video / Audio / Software / Games / Books / Magazines / ROMs / Android
 * [PuZo](https://www.puzo.org/) - Video / Audio / Games / Software / Android / Books / Audiobooks / NSFW
 * [Akiba-Online](https://www.akiba-online.com/) - Japanese Media / Video / Audio / Games / Comics / NSFW
@@ -141,6 +140,7 @@
 ## ▷ Search Sites
 
 * ⭐ **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Multi-Site Search
+* ⭐ **[Hatt](https://github.com/FrenchGithubUser/Hatt)** - File Search App
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
 * [FilePursuit](https://filepursuit.com) - [Discord](https://discord.gg/xRfFd8h)
 * [scnlog](https://scnlog.me/)
@@ -322,7 +322,6 @@
 * [WinWorldPC](https://winworldpc.com/) - Abandonware / Operating Systems
 * [VETUSWARE](https://vetusware.com/) - Abandonware / Operating Systems / Games
 * [MS-DOS Index](http://www.lanet.lv/simtel.net/msdos/index-msdos.html) - MS-DOS Software
-* [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Self-Hosted Software Index 
 * [The Vintage Software Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#the-vintage-software-collection) or [SCiZE's Classic Warez Collection](https://scenelist.org/) - Retro Software
 * [Portable Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portable_apps) - Portable Apps for USB / SD / External Storage
 * [BelowAverage](https://belowaverage.org/) - I.T. Software
@@ -342,7 +341,6 @@
 # ► File Sharing Apps
 
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - File Sharing App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker)
-* ⭐ **[Hatt](https://github.com/FrenchGithubUser/Hatt)** - File Search App
 * [Shareaza](http://shareaza.sourceforge.net/) - File Sharing App 
 * [MLDonkey](http://mldonkey.sourceforge.net/Main_Page) - File Sharing App 
 * [Fopnu](https://fopnu.com/) - File Sharing App 
