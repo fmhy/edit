@@ -189,8 +189,8 @@
 ## ▷ Generator Guides
 
 * ⭐ **[Voldy](https://rentry.org/voldy)** - Stable Diffusion Guide
-* ⭐ **[SD Quickstart](https://redd.it/xvhavo)** - Stable Diffusion Image Guide
-* ⭐ **[1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw)** - Stable Diffusion Video Guide
+* ⭐ **[SD Quickstart](https://redd.it/xvhavo)** - Stable Diffusion Guide
+* ⭐ **[1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw)** - Stable Diffusion Guide
 * [AyyMD](https://rentry.org/ayymd-stable-diffustion-v1_4-guide) - Stable Diffusion Guide
 * [AMD Guide](https://rentry.org/sdamd) - Stable Diffusion Guide
 * [Native Isekai Too](https://rentry.org/sd-nativeisekaitoo) - Stable Diffusion Guide
