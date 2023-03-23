@@ -15,22 +15,19 @@
 * ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT4 Based Chatbots
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Character Params](https://rentry.org/reverseCAI)
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
+* [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Chatbot
 * [DeepAI](https://deepai.org/chat) - DeepAI's Chatbot
 * [BAI](https://chatbot.theb.ai/) - GPT3 Based Chatbot
 * [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT3 Based Chatbot
+* [PygmalionAI](https://redd.it/10kr5zk) - Chatbot Built by 4Channers
 * [Dalai](https://cocktailpeanut.github.io/dalai/) or [Alpaca](https://github.com/antimatter15/alpaca.cpp) - Self-Hosted Facebook Chatbot
 * [InWorld](https://www.inworld.ai/) - Roleplaying Chatbots
-* [Chai](https://chai.ml/)
-* [PygmalionAI](https://www.reddit.com/r/PygmalionAI/comments/10kr5zk/helpful_links/)
-* [AnimaAI](https://myanima.ai/)
-* [bing-chat](https://github.com/transitive-bullshit/bing-chat)
-* [hellohistory](https://www.hellohistory.ai/)
-* [2Dumb2Destroy](https://2dumb2destroy.com/)
-* [DeepAI](https://deepai.org/chat)
-* [Dalai](https://cocktailpeanut.github.io/dalai/)
-* [Kuki](https://chat.kuki.ai/chat)
-* [cleverbot](https://www.cleverbot.com/)
-* [eviebot](https://www.eviebot.com/en/)
+* [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbots
+* [Chai](https://chai.ml/) - Entertainment Focused Chatbot
+* [AnimaAI](https://myanima.ai/) - Virtual Companion
+* [cleverbot](https://www.cleverbot.com/) - Browser Based Chatbot
+* [eviebot](https://www.eviebot.com/en/) - Browser Based Chatbot
+* [Kuki](https://chat.kuki.ai/chat) - Browser Based Chatbot
 * [Kajiwoto](https://kajiwoto.com/) - AI Builder
 
 ***
