@@ -81,6 +81,7 @@
 * [SnoopSnitch](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/) - Check Mobile Network Security 
 * [SimpleLogin](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/) or [Anonaddy](https://gitlab.com/Stjin/anonaddy-android) - Email Forwarding
 * [Temp Email Apps](https://rentry.co/v92q6), [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/), [Temp Mail](https://play.google.com/store/apps/details?id=temporary.disposable.mail), [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957), [Ten Minute Mail](https://play.google.com/store/apps/details?id=com.tenminutemail) or [‎InstAddr](https://play.google.com/store/apps/details?id=air.kukulive.mailnow) - Temp Mail Apps
+* [Maps](https://gitlab.com/divested-mobile/maps) - Privacy Focused Google Maps Wrapper
 * [Private Location](https://f-droid.org/en/packages/com.wesaphzt.privatelocation/) - Hide Phone Location Permanently
 * [Fake GPS Location](https://play.google.com/store/apps/details?id=com.evezzon.fakegps) or [GPS JoyStick Guide](http://gpsjoystick.theappninjas.com/faq/) - Fake GPS Location 
 * [MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - Track Devices Following You
@@ -265,7 +266,7 @@
 * [PINCredible](https://github.com/cyb3rko/pincredible) - PIN Manager
 * [Loyalty Card Locker](https://github.com/brarcher/loyalty-card-locker) - Loyalty Card Manager
 * [Grammarly](https://github.com/nbats/FMHYedit/blob/main/base64.md#grammarly-keyboard-premium) - Grammarly Keyboard Premium 
-* [WiFiman](https://play.google.com/store/apps/details?id=com.ubnt.usurvey) - Network Scanner
+* [WiFiman](https://play.google.com/store/apps/details?id=com.ubnt.usurvey) or [WLANScanner](https://github.com/bewue/WLANScanner) - Network Scanners
 * [Fing](https://www.fing.com/products/fing-app) - Network Toolkit
 * [MACsposed](https://github.com/DavidBerdik/MACsposed) - Mac Address Spoofing
 * [DiskUsage](https://play.google.com/store/apps/details?id=com.google.android.diskusage) - Disk Usage Analyzer
@@ -335,6 +336,7 @@
 * [Google Lens](https://lens.google/) - Multiple Camera Tools
 * [FreeDcam](https://github.com/KillerInk/FreeDcam) - Enable Hidden Camera Features
 * [Photok](https://github.com/leonlatsch/Photok), [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/), [Stingle Photos](https://stingle.org/), [Ente](https://ente.io/) or [No See You](https://baixarapk.gratis/en/app/1186829987/photo-vault-noseeyou) - Photo / Video Galleries
+* [OneShot](https://github.com/ptrLx/OneShot) - Photo Diary
 * [Widgetshare](https://play.google.com/store/apps/details?id=com.galew.widgetshare) - Photo Sharing App
 * [PhotoSync](https://www.photosync-app.com/home.html) - Transfer Photos Between Devices
 * [APhotoManager](https://github.com/k3b/APhotoManager/) - Create Photo Maps
@@ -963,7 +965,8 @@
 * [BatteryBuddy](https://github.com/schneelittchen/BatteryBuddy) - Cute Battery Life Indicator
 * [Powercuff](https://rpetri.ch/cydia/powercuff/) - Throttle iOS to Increase Battery Life
 * [CocaoTop](https://github.com/D0m0/CocoaTop) - iOS Process Viewer
-* [iSH Shell](https://apps.apple.com/us/app/ish-shell/id1436902243) - Linux-like iOS Shell
+* [iSH Shell](https://apps.apple.com/us/app/ish-shell/id1436902243) - Linux-like Shell
+* [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - Text Based Shell
 * [The OldOS Project](https://github.com/zzanehip/The-OldOS-Project) - iOS 4 Recreation
 * [Fantastical](https://apps.apple.com/app/fantastical-2-for-iphone/id718043190?ls=1) - Calendar / Tasks App
 * [NoMoreSmallApps](https://www.sparkdev.me/package/com.spark.nomoresmallapps) - Force App Full Screen / [Discord](https://discord.com/invite/tvvJfbD)
