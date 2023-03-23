@@ -18,7 +18,6 @@
 * [BAI](https://chatbot.theb.ai/) - GPT3.5 Based AI
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
 * [DeepAI](https://deepai.org/chat) - DeepAI's Chatbot
-* [BAI](https://chatbot.theb.ai/) - GPT3 Based Chatbot
 * [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT3 Based Chatbot
 * [PygmalionAI](https://redd.it/10kr5zk) - Chatbot Built by 4Channers
 * [Dalai](https://cocktailpeanut.github.io/dalai/) or [Alpaca](https://github.com/antimatter15/alpaca.cpp) - Self-Hosted Facebook Chatbot
