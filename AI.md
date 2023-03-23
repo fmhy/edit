@@ -81,7 +81,8 @@
 
 ## ▷ ChatGPT Prompts
 
-* ⭐ **[Chatgptjailbreak](https://rentry.org/Chatgptjailbreak)** or [GPT Jailbreak](https://rentry.co/gptjailbreak) - Bypass ChatGPT Filters
+* ⭐ **[Chatgptjailbreak](https://rentry.org/Chatgptjailbreak)**
+* [GPT Jailbreak](https://rentry.co/gptjailbreak)
 * [prompts.chat](https://prompts.chat/)
 * [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 * [botprompts](https://botprompts.net/)
