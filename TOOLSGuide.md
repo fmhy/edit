@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/UgHvzNX.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/kf4AHmV.png)** - For mobile users
 
 ***
 *** 
@@ -133,7 +133,7 @@
 ## ▷ Text Tools
 
 * ⭐ **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_editors)** - Text Editing Tools
-* ⭐ **[AI Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ai_writing_tools)** - AI Writing Assistants
+* ⭐ **[AI Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_text_generators)** - AI Writing Assistants
 * ⭐ **[Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps)** - Note Taking / To-Do Apps
 * ⭐ **[Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars)** - Calendar / Scheduling Tools
 * ⭐ **[Pastebins](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pastebins)** - Paste / Store Text Online
@@ -177,7 +177,6 @@
 * [Neble](https://neble.app/summary) - Summarize Text
 * [Linguix](https://linguix.com/), [HyperWrite](https://hyperwriteai.com/) or [TextCleanr](https://www.textcleanr.com/) - Writing Assistants
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
-* [GLTR](http://gltr.io/dist/index.html), [ZeroGPT](https://www.zerogpt.com/), [DetectGPT](https://detectgpt.com/), [chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection), [ai-content-detector](https://contentatscale.ai/ai-content-detector/), [Corrector App](https://corrector.app/ai-content-detector/) or [openai-detector](https://huggingface.co/openai-detector/) / [2](https://openai-openai-detector.hf.space/) - Detect AI Written Text
 * [Cliche Info](http://cliche.theinfo.org/) - Detect Cliché's
 * [phraseup](http://www.phraseup.com/) - Autocomplete Common Phrases
 * [Text Generator](https://deepai.org/machine-learning-model/text-generator) - Generate Text from Prompt
@@ -766,6 +765,10 @@
 * [protocol-reading-list](https://github.com/bryanhpchiang/protocol-reading-list) - Crypto Protocols
 * [WalletExplorer](https://www.walletexplorer.com/) or [OXT](https://oxt.me/) - Bitcoin Block Explorers
 * [Wasabi](https://wasabiwallet.io/) or [Shapeshift](https://app.shapeshift.com/) - FOSS Bitcoin Wallets
+
+***
+
+## ▷ [AI Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_tools)
 
 ***
 
