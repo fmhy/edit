@@ -38,7 +38,7 @@
 * [FlipClockWeb](https://flipclockweb.netlify.app/), [TheColourClock](http://thecolourclock.com/), [FlipClocker](https://flipclocker.com/) or [HexClock](https://www.jacopocolo.com/hexclock/) - Fullscreen Clocks
 * [Epoch Converter](https://www.epochconverter.com/) - Epoch / Unix Timestamp Conversion Tools
 * [How Many Days Since](http://howmanydayssince.net/), [DateTimeCalculator](https://datetimecalculator.net/calculators), [CalcuDater](https://calcudater.com/), [HowLongAgoGo](https://howlongagogo.com/), [Days.to](https://days.to/) or [How Many Days Until](https://howmanydaysuntil.co/) - Time / Date Calculators
-* [e.gg Timer](https://e.ggtimer.com/), [Pomodoro Kitty](https://pomodorokitty.com/), [Pomodor](https://pomodor.app/timer), [Aesthetic Pomodoro](https://studywithme.io/aesthetic-pomodoro-timer/) or [Juicy Timer](https://juicytimer.com/) - Timers
+* [e.gg Timer](https://e.ggtimer.com/), [Pomolectron](https://github.com/amitmerchant1990/pomolectron), [Pomodoro Kitty](https://pomodorokitty.com/), [Pomodor](https://pomodor.app/timer), [Aesthetic Pomodoro](https://studywithme.io/aesthetic-pomodoro-timer/) or [Juicy Timer](https://juicytimer.com/) - Timers
 * [StageTimer](https://stagetimer.io/) - Event Timer
 * [DripDrop](https://www.dripdrop.live/) - Product Drop Countdown
 * [SetAlarmClock](https://setalarmclock.net/) or [AlarmDJ](https://alarmdj.com/) - Online Alarm Clocks
@@ -177,10 +177,12 @@
 * [Neble](https://neble.app/summary) - Summarize Text
 * [Linguix](https://linguix.com/), [HyperWrite](https://hyperwriteai.com/) or [TextCleanr](https://www.textcleanr.com/) - Writing Assistants
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
-* [GLTR](http://gltr.io/dist/index.html), [ZeroGPT](https://www.zerogpt.com/), [DetectGPT](https://detectgpt.com/), [chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection), [ai-content-detector](https://contentatscale.ai/ai-content-detector/) or [openai-detector](https://huggingface.co/openai-detector/) / [2](https://openai-openai-detector.hf.space/) - Detect AI Written Text
+* [GLTR](http://gltr.io/dist/index.html), [ZeroGPT](https://www.zerogpt.com/), [DetectGPT](https://detectgpt.com/), [chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection), [ai-content-detector](https://contentatscale.ai/ai-content-detector/), [Corrector App](https://corrector.app/ai-content-detector/) or [openai-detector](https://huggingface.co/openai-detector/) / [2](https://openai-openai-detector.hf.space/) - Detect AI Written Text
 * [Cliche Info](http://cliche.theinfo.org/) - Detect Cliché's
 * [phraseup](http://www.phraseup.com/) - Autocomplete Common Phrases
-* [SongLyricsGenerator](http://www.songlyricsgenerator.com/) or [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) - Lyrics Generator
+* [Text Generator](https://deepai.org/machine-learning-model/text-generator) - Generate Text from Prompt
+* [SongLyricsGenerator](http://www.songlyricsgenerator.com/) or [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) - Lyrics Generators
+* [Deep Beat](https://deepbeat.org/) - Rap Lyrics Generator
 * [Random Poem](https://random-poem.com/) - Poem Generator
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [Infinite Story](https://infinite-story.com/), [Storylocks](https://www.storylocks.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Story Writing
@@ -335,7 +337,7 @@
 * [OM_Midi](https://github.com/otomad/om_midi) - Otomad/YTPMV Script for After Effects
 * [VDO.Ninja](https://vdo.ninja/) - Remote Camera Video Production
 * [Stream Elements](https://streamelements.com/) - Streaming Service Manager
-* [LiveRecord](https://github.com/lovezzzxxx/liverecord) or [Biliup](https://www.biliup.org/) - Live Stream Recorders
+* [LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) / [Display Chat](https://github.com/MrBrax/twitch-vod-chat), [LiveRecord](https://github.com/lovezzzxxx/liverecord) or [Biliup](https://www.biliup.org/) - Live Stream Recorders
 * [LiveMonitor](https://github.com/lovezzzxxx/livemonitor) - Live Stream Detection
 * [real-url](https://github.com/wbt5/real-url) - Copy Live Stream URLs
 * [StreamerFreebies](https://streamerfreebies.com/) - Free Streamer Resources
@@ -344,7 +346,7 @@
 * [WDFlat](https://www.wdflat.com/) - Stream Elements
 * [Strem](https://github.com/strem-app/strem) - Stream Automation
 * [Streamon](https://getstreamon.com/) - Stream to Instagram from PC / [GitHub](https://github.com/haxzie/instagram-live-streamer)
-* [VTuber References](https://docs.google.com/spreadsheets/d/15UpI8GEqv22T45AD3L1EgcPB4l2Tvr64aDgLq7xZfMA/htmlview), [Vignette](https://vignetteapp.org/) or [Vtube Studio](https://denchisoft.com/) - VTuber Tools
+* [VTuber References](https://docs.google.com/spreadsheets/d/15UpI8GEqv22T45AD3L1EgcPB4l2Tvr64aDgLq7xZfMA/htmlview), [Vignette](https://vignetteapp.org/), [VTuber Kit](https://kyuppin.itch.io/vtuber-kit) or [Vtube Studio](https://denchisoft.com/) - VTuber Tools
 * [Kalidoface 3D](https://3d.kalidoface.com/), [Animaze](https://www.animaze.us/), [TransTube](https://girkovarpa.itch.io/transtube) or [Gazo Tuber](https://ai-risun.itch.io/gazo-tuber) - VTuber Characters
 * [avatarify-python](https://github.com/alievk/avatarify-python) or [veadotube](https://olmewe.itch.io/veadotube-mini) - Video Call Avatars
 * [screengif](https://github.com/dergachev/screengif), [gifcap](https://gifcap.dev/) / [GitHub](https://github.com/joaomoreno/gifcap) or [licecap](https://www.cockos.com/licecap/) - Turn Screencasts into GIFs
@@ -538,8 +540,7 @@
 * [FLAC Frontend](http://flacfrontend.sourceforge.net/) - FLAC Tools 
 * [FLStudio Skins](https://github.com/nbats/FMHYedit/blob/main/base64.md#flstudio-skins) - Skins for FLStudio
 * [Webamp](https://webamp.org/) - Winamp in Browser 
-* [Winamp Skin Museum](https://skins.webamp.org/) - Skins for Winamp / Webamp 
-* [WACUP](https://getwacup.com/) - Winamp update project 
+* [Winamp Skin Museum](https://skins.webamp.org/) - Skins for Winamp / Webamp
 * [Mod Archive](https://modarchive.org/) - Audio Modules
 * [Mixxx](https://mixxx.org/), [rekordbox](https://rekordbox.com/en/) or [Serato](https://serato.com/) - DJ Software 
 * [Repetito](http://www.repetito.com/) - Multichannel Looper
@@ -599,7 +600,7 @@
 * [BeatMachine](https://beatmachine.branchpanic.me/), [SongSurgeon](https://songsurgeon.com/engine/ssweb/) or [AudioSpeedChanger](https://www.audiospeedchanger.com/) - Audio Tempo Editors
 * [Get Song BPM](https://getsongbpm.com/) or [MusicStax](https://musicstax.com/) - Song Tempo Database
 * [MusicSpeedChanger](https://musicspeedchanger.com/) - Music Speed Changer
-* [beets.io](http://beets.io/) / [2](https://github.com/beetbox/beets) / [Guides](https://redd.it/11iaafu), [alto](https://github.com/ItsLychee/alto), [Zortam](https://www.zortam.com/), [MP3Tag](https://www.mp3tag.de/en/), [TagEditor](https://github.com/Martchus/tageditor), [MusicBee](https://getmusicbee.com/) or [MusicBrainz](https://picard.musicbrainz.org/) - Music Metadata Organizers
+* [beets.io](http://beets.io/) / [2](https://github.com/beetbox/beets) / [Guides](https://redd.it/11iaafu), [alto](https://github.com/ItsLychee/alto), [Zortam](https://www.zortam.com/), [MP3Tag](https://www.mp3tag.de/en/), [TagEditor](https://github.com/Martchus/tageditor), [MusicBee](https://getmusicbee.com/), [EasyTAG](https://wiki.gnome.org/Apps/EasyTAG) or [MusicBrainz](https://picard.musicbrainz.org/) - Music Metadata Organizers
 * [tone](https://github.com/sandreas/tone) - View / Modify Audio Metadata
 * [Croosfade](https://crossfade.io/) - Video and Audio Crossfading
 * [ZzFXM](https://keithclark.github.io/ZzFXM/) - JavaScript Music Renderer
@@ -718,7 +719,9 @@
 * [280+ Websites to Submit Your Startup](https://airtable.com/shrwqaak73gy83w9A/tblu5RcUft9fYp9Ju/viwFHmIyMniXzlpK4?blocks=show) or [PlacesToPostYourStartup](https://www.placestopostyourstartup.com/) - Startup Submission Sites
 * [LeanTime](https://leantime.io/) - Project / Delivery Manager
 * [Twain](https://www.twain.ai/), [WriteCream](https://www.writecream.com/) or [Textcortext](https://textcortex.com/) - AI Communication Outreach Assistants
+* [namify](https://namify.tech/) - Domain / Business Name Suggestions
 * [namelix](https://namelix.com/) or [looka](https://looka.com/business-name-generator) - Business Name Generator
+* [AcronymCreator](https://acronymcreator.net/) - Business Acronym Generator
 * [Business Card Generator](https://business-card-generator.vercel.app/) - Generate Business Cards 
 * [BS Generator](https://www.atrixnet.com/bs-generator.html) - Corporate Phrase Generator
 * [learn-to-cloud](https://learntocloud.guide/) - Cloud Computing Fundamentals / [GitHub](https://github.com/learntocloud/learn-to-cloud)
@@ -1368,6 +1371,7 @@
 * [Discord Text to Emoji](https://jtprince.com/discord/) - Emoji Discord Text
 * [Discord Splitter](https://hoodedice.github.io/discord-splitter/) - Discord Wall of Text Splitter
 * [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - Automod Bot Config
+* [Discord Backup](https://github.com/itschasa/Discord-Backup) - Backup and Restore Discord Accounts
 * [Multi-Accounts 1 Email](https://rentry.co/altmethod) - How-to Create Multiple Accounts on One Email
 * [Dyno](https://dyno.gg/) - Change Discord Discriminator w/o Nitro / [How-To](https://i.imgur.com/lHRD42c.png) 
 * [Discord.ID](https://discord.id/) - Lookup a Discord User or Bot ID 
@@ -1395,7 +1399,7 @@
 * [Natron](https://natron.fr/) or [Fusion](https://www.blackmagicdesign.com/ca/products/fusion/) - Video Compositing
 * [Discord Branding](https://discord.com/branding) - Discord Branding Information Page / [Archive](https://web.archive.org/web/20210513004910/https://discord.com/branding)
 * [Discord-Api](https://discord.gg/discord-api) - Discord API Chat
-* [Displace](https://discord.gg/6zEbZeg) - Discord Community Management Chat
+* [Displace](https://dat.place/) - Discord Community Management Chat / [Discord](https://discord.gg/6zEbZeg)
 * [Discordia-Development Wiki](https://github.com/Discordia-Development/wiki) - Discord Moderation Wiki
 * [Discord Moderator Academy](https://discord.com/moderation) - Discord Moderator Guide
 * [Hammertime](https://hammertime.djdavid98.art/), [Discord Timestamps](https://r.3v.fi/discord-timestamps/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - Generate Timestamps
@@ -1447,6 +1451,7 @@
 * [GoriThemes](https://t.me/GoriThemes) - Telegram Themes
 * [Callmebot](https://www.callmebot.com/) - Trigger Voice Calls or Chats
 * [Skeddy](https://skeddy.me/) - Telegram Reminder Bot
+* [TgStory](https://github.com/dishapatel010/TgStory) - Instagram Style Stories Bot
 * [clonebot](https://github.com/m4mallu/clonebot) - Clone Media from Chats
 * [Telegram Stat](https://github.com/orsinium-labs/telegram-stat) - Extract Telegram Channel Stats
 * [ChecklyBot](https://t.me/checklybot) - Checklist Telegram Bot
@@ -1591,7 +1596,7 @@
 * [BetterTTV](https://betterttv.com/) or [FrankerFacez](https://www.frankerfacez.com/) - Twitch Enhancement Extension
 * [Stream Scheme](https://www.streamscheme.com/) - Livestreaming Guides / Resources
 * [Trovo](https://trovo.live/), [Glimesh](https://glimesh.tv/), [Kick](https://kick.com/), [dlive](https://dlive.tv/), [Caffeine](https://www.caffeine.tv/) or [Theta](https://www.theta.tv/) - Twitch Alternatives
-* [twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl), [ClipsGameLab](https://clipsgamelab.github.io/), [Clipr](https://clipr.xyz/), [Twiclips](https://twiclips.com/), [Shorts Maker](https://shorts-maker.com/), [Twitch Downloader](https://github.com/lay295/TwitchDownloader) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) - Download Twitch Videos / Clips
+* [twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl), [ClipsGameLab](https://clipsgamelab.github.io/), [Clipr](https://clipr.xyz/), [Twiclips](https://twiclips.com/), [Shorts Maker](https://shorts-maker.com/), [Twitch Downloader](https://github.com/lay295/TwitchDownloader), [TwitchLink](https://twitchlink.github.io/) or [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader) - Download Twitch Videos / Clips
 * [HypeTrigger](https://hypetrigger.io/) - Automatically Create Clips
 * [TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - Recover, View and Download Twitch Videos
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - Lightweight Twitch Webplayer
@@ -1888,6 +1893,7 @@ Twitch Stream Tracker
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html), [winfetch](https://github.com/kiedtl/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tool 
 * [HWiNFO](https://www.hwinfo.com/) - Hardware Analysis, Monitoring and Reporting
 * [phwmon](https://gitlab.com/o9000/phwmon) - System Tray Hardware Monitor
+* [Percentage](https://github.com/kas/percentage) - System Tray Battery Percentage
 * [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
 * [MinimizeToTray](https://github.com/sandwichdoge/MinimizeToTray), [RBTray](https://github.com/benbuck/rbtray) or [minimize-to-tray](https://sourceforge.net/projects/minimize-to-tray/) - Minimize Any Window to Tray
 * [QDirStat](https://github.com/shundhammer/qdirstat) - Directory Statistics
@@ -1912,6 +1918,7 @@ Twitch Stream Tracker
 * [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) or [Autostart](https://github.com/snail007/autostart) - Change Startup Programs
 * [Remove Hidden Startup Programs](https://www.youtube.com/watch?v=sUXcMaP6wRQ) - How-to Remove Secret Startup Apps
 * [LaunchLater](https://github.com/jeffcox111/LaunchLater) or [Startup Delayer](https://www.r2.com.au/page/products/show/startup-delayer/) - Delay Automatic App Startups
+* [HDD Serial Spoofer](https://github.com/namazso/hdd_serial_spoofer) - Spoof HDD Serial Number
 * [DefaultProgramsEditor](https://defaultprogramseditor.com/) - File Association Editor
 * [RegExp](https://github.com/zodiacon/RegExp), [ripgrep-all](https://github.com/phiresky/ripgrep-all) or [Registry-Finder](https://registry-finder.com/) - Improved Registry Explorers
 * [Desktop Management](https://github.com/DeveloperWOW64/deskmgr) - Improved Computer Management
@@ -1937,6 +1944,7 @@ Twitch Stream Tracker
 * [CircleDock](http://circledock.wikidot.com/) - Circular Dock
 * [Wox](http://www.wox.one/) / [GitHub](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [ChaseApp](https://www.chaseapp.io/), [FlowLauncher](https://www.flowlauncher.com/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - Keystroke Launcher
 * [KeyViz](https://github.com/mulaRahul/keyviz) - Keystroke Visualizer
+* [ModernNotify](https://github.com/Stamir36/ModernNotify) - Quick Actions Panel
 * [Closemul](https://www.lustark.com/closemul) - Multi-Purpose Program Frontend
 * [rofi](https://github.com/davatorium/rofi) or [Mint](https://github.com/hellzerg/mint) - Window Switchers / App Launchers
 * [Control UWP](https://github.com/builtbybel/control-uwp) - Simplified Control Panel
@@ -1949,7 +1957,7 @@ Twitch Stream Tracker
 * [Leon](https://getleon.ai/) - AI Assistant
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) or [Sepia](https://sepia-framework.github.io/) - Voice Assistant
 * [Jarvis](https://acwtechnologies.co.uk/software/jarvis-lite) - Voice Commands
-* [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client), [Mycroft](https://mycroft.ai/) or [Home Assistant](https://www.home-assistant.io/) - Home Assistant Client
+* [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client), [Mycroft](https://mycroft.ai/) or [Home Assistant](https://www.home-assistant.io/) - Home Assistant Client / [GUI](https://github.com/LAB02-Research/HASS.Agent)
 * [OpenHab](https://www.openhab.org/) - Home Automation / [Setup](https://github.com/openhab/openhabian) / [Desktop](https://github.com/openhab/openhab-windows) / [Mobile](https://github.com/openhab/openhab-android)
 * [Cerebro App](https://cerebroapp.com/) or [Zazu App](http://zazuapp.org/) - System Productivity Booster
 * [Econap](https://www.econap.de/) - Prevent Sleep Mode
@@ -1984,7 +1992,7 @@ Twitch Stream Tracker
 * [Klotures](https://gitlab.com/jkushmaul/klotures) - Desktop Icon Organizer / [Demo](https://gitlab.com/jkushmaul/klotures/raw/master/docs/KloturesDemo.webm)
 * [Windows 10's icons dedicated .dll files location](https://pastebin.com/tMiSV6WT)
 * [QuickLook](https://github.com/QL-Win/QuickLook) - macOS Quick Look for Windows 
-* [AutoHotkey](https://www.autohotkey.com/), [MacroRecorder](https://www.macrorecorder.com/), [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install ) or [AutoIt](https://www.autoitscript.com/) - Task Automation Tools / [Script Gen](https://www.ahkgen.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt), [2](https://github.com/ahkscript/awesome-AutoHotkey)
+* [AutoHotkey](https://www.autohotkey.com/), [MacroRecorder](https://www.macrorecorder.com/), [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install), [sikulix](http://sikulix.com/) or [AutoIt](https://www.autoitscript.com/) - Task Automation Tools / [Script Gen](https://www.ahkgen.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt), [2](https://github.com/ahkscript/awesome-AutoHotkey)
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](http://www.keyefficiency.com/) - System Task Scheduler
 * [Nomad](https://www.nomadproject.io/) - App Deployment Automation / [GitHub](https://github.com/hashicorp/nomad)
 * [cygwin](http://cygwin.com/) or [Gow](https://github.com/bmatzelle/gow/) - Linux Style Windows Tools
@@ -2093,7 +2101,7 @@ Twitch Stream Tracker
 * [Windows 11 Fixer](https://github.com/99natmar99/Windows-11-Fixer) - Win 11 Improvement Tool
 * [Bypass Win11 Requirements](https://github.com/osx86-ijb/bypass-windows11-requirements) - How-To Bypass Windows 11 System Requirements
 * [Windows 11 Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 System Requirements Bypasser
-* [Windows 11 Debloater](https://github.com/teeotsa/windows-11-debloat), [win11SetupScript](https://github.com/fedoz13/win11SetupScript), [debloat-windows11](https://github.com/kdpuvvadi/debloat-windows11), [Win11-Debloat--Guide](https://github.com/TheWorldOfPC/Windows11-Debloat-Privacy-Guide), [Debloos](https://github.com/builtbybel/Debloos) or [XToolbox](https://github.com/xemulat/XToolbox) - Windows 11 Debloaters
+* [Windows 11 Debloater](https://github.com/teeotsa/windows-11-debloat), [win11SetupScript](https://github.com/fedoz13/win11SetupScript), [debloat-windows11](https://github.com/kdpuvvadi/debloat-windows11), [Win11-Debloat--Guide](https://github.com/TheWorldOfPC/Windows11-Debloat-Privacy-Guide), [BloatyNosy](https://github.com/builtbybel/BloatyNosy), [Debloos](https://github.com/builtbybel/Debloos) or [XToolbox](https://github.com/xemulat/XToolbox) - Windows 11 Debloaters
 * [Win11DevBypass](https://github.com/rushiranpise/win11devbypass) - Bypass Win 11 Dev Channel Restrictions
 * [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - Windows 11 Powertoys
 * [ElevenClock](https://github.com/martinet101/ElevenClock) - Windows 11 Secondary Monitor Clock
@@ -2129,6 +2137,7 @@ Twitch Stream Tracker
 * [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) - Theme Source Patcher
 * [Windows 11 for Windows 10](https://www.deviantart.com/niivu/art/Windows-11-for-Windows-10-882819383) - Windows 11 Theme / [Icons](https://www.deviantart.com/niivu/art/Windows-11-Icon-Themes-874289797)
 * [SimpleClassicTheme](https://github.com/WinClassic/SimpleClassicTheme) or [ClassicServ](https://discord.com/invite/GqFJs2cXDQ) - Classic Windows Theme
+* [BasicThemer2](https://github.com/Ingan121/BasicThemer2) - Windows 7 Theme
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
 * [Ricing Guide](http://www.ricing.chloechantelle.com/) - Windows Ricing Guide
 * [Awesome Ricing](https://github.com/fosslife/awesome-ricing) or [Windows-Ricing](https://github.com/winthemers/windows-ricing) - Windows Ricing Tools
@@ -2142,6 +2151,7 @@ Twitch Stream Tracker
 * [Mechvibes](https://mechvibes.com/), [Rackety](https://girkovarpa.itch.io/rackety) or [MechaKeys](https://mechakeys.robolab.io/) - Keyboard Sound Effects
 * [Darker](https://github.com/angelwzr/darker) - Dark / Light Mode Theme Switcher
 * [ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fix Excel on Themed Windows 
+* [AccentColorizer](https://github.com/krlvm/AccentColorizer) - Custom Windows Accent Color
 * [Accent Applicator](https://github.com/mcdenis/AccentApplicator) - Applies Win 10 Accent Color to OS
 * [ModernWinver](https://github.com/torchgm/NewModernWinver) - Modernize the About Windows Screen
 * [pyWinContext](https://github.com/VodBox/pyWinContext) or [WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - Custom Context Menu Manager
@@ -2165,6 +2175,7 @@ Twitch Stream Tracker
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
 * [Cursors 4U](https://www.cursors-4u.com/), [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor), [Cursors Pastebin](https://pastebin.com/BrAbMy4n) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - MacOS Cursors for Windows
+* [AngryWindows](https://github.com/ch3rn0byl/AngryWindows) - Custom Blue Screen of Death
 * [Win11 Sounds](https://github.com/nbats/FMHYedit/blob/main/base64.md#win11-sounds) - Windows Sound Schemes
 * [Win7BootUpdater](https://mega.nz/file/T5ZDmIaK#jdiomK79q1CYzwFcbzkzJ1ceLsWlnAHLvofsjHIq39g) - Customize Windows 7 Boot Animation / [Guide](https://youtu.be/IdwcWIKuVG8)
 * [After Dark CSS](https://www.bryanbraun.com/after-dark-css/) - Browser Screensavers
@@ -2173,13 +2184,15 @@ Twitch Stream Tracker
 * [linux-like-windows-terminal](https://github.com/Kyza/linux-like-windows-terminal) - Linux Terminal Theme
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Retro Cathode Terminal Theme
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon Terminal Themes
+* [Nyan Cat Progress Bar](https://instantelevatormusic.com/nyan-cat-progress-bar/) - Nyan Cat Install Progress Bar
 * [Hide File Explorer Dark Mode White Line](https://i.imgur.com/ZZsvyyM.png)
 * [MyDockFinder](https://www.mydockfinder.com/) - MacOS Theme for Windows 10
-* [Taskbar11](https://github.com/jetspiking/Taskbar11) - Change Windows 11 Taskbar Position & Size
-* [MicaForEveryone](https://github.com/minusium/MicaForEveryone) - Enable Titlebar Backdrop Effect on Windows 11
-* [Win11DisableRoundedCorners](https://github.com/oberrich/win11-toggle-rounded-corners) - Disable Win11 Rounder Corners
+* [Taskbar11](https://github.com/jetspiking/Taskbar11) - Change Windows 11 Taskbar Position / Size
+* [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) - Enable Titlebar Backdrop Effect on Windows 11
+* [Win11DisableRoundedCorners](https://github.com/valinet/Win11DisableRoundedCorners) - Disable Win11 Rounder Corners
 * [Macdows11](https://redd.it/pd5ha6) - Windows 11 Mac Theme Guide
 * [StartAllBack](https://www.startallback.com/) - Restore Classic Start Menu in Windows 11
+* [ElevenClock](https://github.com/marticliment/ElevenClock) - Customize Windows 11 Clock 
 
 ***
 
@@ -2211,6 +2224,7 @@ Twitch Stream Tracker
 * [Interior Generator](https://powerkdp.com/interior-generator/) / [2](https://designer.bookbolt.io/interior-generator.php) - Document Interior Generator
 * [ConvertCSV](https://www.convertcsv.com/) - CSV Data Conversion
 * [Encoding Converter](https://encoding-converter.netlify.app/) - File Encoding Converter
+* [Deark](https://entropymine.com/deark/) - Decode and Convert Files / [GitHub](https://github.com/jsummers/deark)
 * [UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - Convert Update Platform Files to Windows Media Files
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - DataHoarding Tools Index
 * [FileInfo](https://fileinfo.com/), [File-Extensions.info](https://file-extensions.info/) or [File-Extensions](https://www.file-extensions.org/) - File Extension Library
@@ -2295,7 +2309,7 @@ Twitch Stream Tracker
 * [GDirect](https://www.gdirect.link/), [gdurl](https://gdurl.com/), [publiclinks](https://publiclinks.hashhackers.com/) or [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/) - Direct GDrive Link Generators
 * [GDrive File Sharing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gdrive_file_sharing) - GDrive File Sharing Tools
 * [Backup System](https://github.com/danielpy108/BackUpMySystem) - Backup Google Drive
-* [OneDriveFly](https://github.com/Tai7sy/OneDriveFly) - OneDrive Index
+* [OneDriveFly](https://github.com/Tai7sy/OneDriveFly) or [OneDrive Vercel Index](https://ovi.swo.moe/) - OneDrive Indexes
 * [onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - Self-Hosted Directory
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4gb
 * [mf-dl](https://gitgud.io/Pyxia/mf-dl/) - Mediafire Bulk File Downloader
