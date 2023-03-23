@@ -669,7 +669,6 @@
 * [HindiLinks4u](https://hindilinks4u.io/) - Movies / TV
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies
 * [Moovana](https://www.moovana.net/) - Movies / TV
-* [FilmyBro](https://filmybro.top/) - Movies
 * [cinemakick](https://www.cinemakick.com/) - Movies
 * [movieapne](https://movieapne.co) - Movies
 * [MoviesCounter](https://moviescounter.boats/) - Movies
@@ -1183,7 +1182,6 @@
 * [baixarfilmetorrent](https://baixarfilmetorrent.vip/) - Movies / TV
 * [baixardownload](https://baixardownloadviatorrentgratis.blogspot.com/) - Movies / TV
 * [Legandas](https://www.legendas.co/) - Movies / TV
-* [Filmes-Torrents](https://filmes-torrents.com/) - Movies / TV
 * [TorrentFilmes4K](https://torrentfilmes4k.org/) - Movies
 * [FilmesMega](https://filmesmega.net/) - Movies
 * [FilmesPicos](http://www.filmesepicos.com/) - Movies
@@ -1872,7 +1870,6 @@
 * [eskikitaplarim](https://www.eskikitaplarim.com/) - Books / Comics / Magazines
 * [Kuflu](https://www.kuflu.com/forums/e-kitap.58/) - Books / Magazines
 * [Hattusa](https://hattusa.co/) - Books
-* [cizgidiyari](http://www.cizgidiyari.com/forum/) - Comics
 * [turkcecizgiroman](https://turkcecizgiroman.blogspot.com/) - Comics
 * [Manga-TR](https://manga-tr.com/) - Manga
 * [manga-ay](https://manga-ay.com/) - Manga
@@ -2077,7 +2074,7 @@
 * [DotMovies](https://dotmovies.cam/) - Download / Movies / TV / Cartoons
 * [FullyMaza](https://fullymaza.life/) - Download / Movies / TV / Cartoons
 * [CineVood](https://cinevood.homes/) - Download / Movies
-* [Mallumv](https://mallumv.run/), [2](https://tttttt.me/mallumvoff) - Download / Movies
+* [Mallumv](https://tttttt.me/mallumvoff) - Download / Movies
 * [Movies Point](https://sdmoviespoint.fit/) - Download / Movies
 * [SSR Movies](https://www.ssrmovies.wine/) - Download / Movies / [Telegram](https://t.me/SSRmovies2022), [2](https://telegram3.xyz/)
 * [MkvMoviesPoint](https://mkvmoviespoint.one/) - Download / Movies / [Telegram](https://telegram.me/mkvpoint1)
