@@ -141,25 +141,24 @@
 * [OpenDirectory](https://github.com/nbats/FMHYedit/blob/main/base64.md#opendirectory) - Courses
 * [Revival](https://github.com/nbats/FMHYedit/blob/main/base64.md#revival) - Courses
 * [HMDRIVE](https://t.me/HMDRIVE_OFFICIAL) - Courses
-* [Iit jee lectures](https://t.me/Iitjeeinveins2) - Lectures / Telegram   
-* [CoursesDaddy](http://coursesdaddy.com/) - Courses 
-* [Course Drive](https://coursedrive.org/) - Courses 
+* [Iit jee lectures](https://t.me/Iitjeeinveins2) - Lectures / Telegram
+* [CoursesDaddy](http://coursesdaddy.com/) - Courses
+* [Course Drive](https://coursedrive.org/) - Courses
 * [Courses Pastebins](https://github.com/nbats/FMHYedit/blob/main/base64.md#course-pastebins) - Courses
 * [Super Huge Course Collection](https://babiato.co/threads/%F0%9F%94%A5%F0%9F%94%A5-super-huge-course-collection-700-courses-3tb-data-%F0%9F%94%A5%F0%9F%94%A5.40041/) - Courses
 * [online-courses](https://online-courses.club/) - Courses
-* [Coursesghar](https://coursesghar.com/) - Courses 
-* [FreeEducationWeb](https://freeeducationweb.com/) - Courses 
-* [FreeCourseDL](https://freecoursedl.com/) - Courses 
+* [Coursesghar](https://coursesghar.com/) - Courses
+* [FreeEducationWeb](https://freeeducationweb.com/) - Courses
+* [FreeCourseDL](https://freecoursedl.com/) - Courses
 * [TutsNode](https://tutsnode.com/) - Courses
 * [FreeStudyWeb](https://freestudyweb.com/) - Courses 
 * [Google Drive Links](https://googledrivelinks.com/) - Courses
 * [PrimeTechie Forum](https://primetechieforum.com/) - Courses
-* [CryptoTips](https://www.cryptotips.us/) - Courses 
+* [CryptoTips](https://www.cryptotips.us/) - Courses
 * [FCS](https://freecoursesites.com/) - Courses
 * [5G GYAN](https://www.5ggyan.com/) - Courses 
 * [GameOfCourses](https://gameofcourses.com/) - Courses
 * [WSODownloads](https://www.wsodownloads.in/) - Courses
-* [FreeTutorialsUS](https://www.freetutorialsus.com/course/) - Courses
 * [DL Course](https://dlcourse.org/) - Courses
 * [tut4dl](https://tut4dl.com/) - Courses
 * [technet24](https://technet24.ir/category/videos) - Courses
@@ -463,7 +462,6 @@ Simulator
 * [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Information Database
 * [us_hate_crimes](https://github.com/dessalines/essays/blob/master/us_hate_crimes.md) - US Hate Crime Databsase
-* [myworld.vote](https://myworld.vote/) - Anonymous Topic Voting Platform
 * [Political Simulator](http://filteries.com/politics) - Politics / Economics Simulator
 
 ***
