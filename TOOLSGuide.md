@@ -1784,6 +1784,7 @@ Twitch Stream Tracker
 # ► System Tools
 
 * ⭐ **[PC Building / Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)** - Compare Systems and Parts
+* ⭐ **[MechMap](https://www.mechmap.tech/)** / [Guide](https://mechkeys.me/) / [Discord](https://discord.com/invite/mechkeys) - Mechanical Keyboard Recommendations
 * ⭐ **[Windows Piracy Guides](https://github.com/nbats/FMHYedit/blob/main/base64.md#windows-piracy-guides)** - How-to Pirate Windows
 * ⭐ **[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - Download Windows
 * ⭐ **[Windows Activators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation)** - Windows Activation Guides / Scripts / [Rentry](https://rentry.co/win-activate)
@@ -1991,7 +1992,6 @@ Twitch Stream Tracker
 * [Menu11](https://github.com/prateekmedia/Menu11) - Windows 11 Style Launcher
 * [DreyMaR's](https://dreymar.colemak.org/) - Keyboard Tips and Resources
 * [Keyboard University](https://keyboard.university/) or [KDB](http://xahlee.info/kbd/keyboarding.html) - Mechanical Keyboard Building Guides
-* [MechMap](https://www.mechmap.tech/) - Mechanical Keyboard Recommendations
 * [NeatMouse](https://neatdecisions.com/products/neatmouse/) - Mouse / Keyboard Emulator
 * [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design & Test Virtual Keyboards 
 * [WinCompose](http://wincompose.info/) - Windows Special Character Compose Key / [GitHub](https://github.com/samhocevar/wincompose)
