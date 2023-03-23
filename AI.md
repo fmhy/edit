@@ -56,24 +56,24 @@
 ## ▷ ChatGPT Tools
 
 * ⭐ **[Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)** - ChatGPT Resources
-* ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [2](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) or [Merlin](https://merlin.foyer.work/) - ChatGPT Enhancement Extension
+* ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [2](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) or [Merlin](https://merlin.foyer.work/) - Enhancement Extension
 * ⭐ **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
 * [EmergentMind](https://www.emergentmind.com/) - ChatGPT Forum
-* [ChatGPT Desktop](https://github.com/sonnylazuardi/chatgpt-desktop) or [lencx](https://github.com/lencx/ChatGPT/) - ChatGPT Desktop Apps
-* [Assistant CLI](https://github.com/diciaup/assistant-cli), [ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) or [openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt) - ChatGPT TUIs / CLIs
-* [pyChatGPT](https://github.com/terry3041/pyChatGPT) - ChatGPT Python App
+* [ChatGPT Desktop](https://github.com/sonnylazuardi/chatgpt-desktop) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
+* [Assistant CLI](https://github.com/diciaup/assistant-cli), [ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) or [openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt) - TUIs and CLIs
+* [pyChatGPT](https://github.com/terry3041/pyChatGPT) - Python App
 * [GPTPrompter](https://www.gptprompter.com/) - ChatGPT In Browser
-* [WeChat ChatGPT](https://github.com/fuergaosi233/wechat-chatgpt) ChatGPT for WeChat
-* [ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - ChatGPT Matrix Theme
-* [openai_pipe](https://github.com/Aesthetikx/openai_pipe) - ChatGPT Unix Theme
+* [WeChat ChatGPT](https://github.com/fuergaosi233/wechat-chatgpt) - ChatGPT for WeChat
+* [ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Matrix Theme
+* [openai_pipe](https://github.com/Aesthetikx/openai_pipe) - Unix Theme
 * [ChatGPT Advanced](https://github.com/qunash/chatgpt-advanced) - Add Web Results to ChatGPT
 * [ChatGPT4Google](https://chatgpt4google.com/), [ChatGPTGoogleExtension](https://github.com/wong2/chatgpt-google-extension) or [ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Add ChatGPT to Web Results
-* [ShareGPT](https://sharegpt.com/) - Export GPT Chats
-* [ChatGPT Notification](https://chrome.google.com/webstore/detail/chatgpt-notification/eklmiefkbieejjjhmpjdllphmcjdndin) - ChatGPT Notifications
-* [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear GPT Chats
-* [EditGPT](https://www.editgpt.app/) - ChatGPT Proofreader
-* [RepeatGPT](https://repeatgpt.com/) - Schedule ChatGPT Chats
-* [ChatGPT API](https://github.com/acheong08/ChatGPT) - ChatGPT Reverse API
+* [ShareGPT](https://sharegpt.com/) - Export Chats
+* [ChatGPT Notification](https://chrome.google.com/webstore/detail/chatgpt-notification/eklmiefkbieejjjhmpjdllphmcjdndin) - Receive Notifications
+* [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear Chats
+* [EditGPT](https://www.editgpt.app/) - Proofread Chats
+* [RepeatGPT](https://repeatgpt.com/) - Schedule Chats
+* [ChatGPT API](https://github.com/acheong08/ChatGPT) - Reverse API
 
 ***
 
