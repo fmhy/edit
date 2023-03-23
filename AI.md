@@ -11,7 +11,7 @@
 
 # ► AI Chatbots
 
-* ⭐ **[ChatGPT](https://chat.openai.com/)**
+* ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT4 Based Chatbot
 * ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT4 Based Chatbots
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Character Params](https://rentry.org/reverseCAI)
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
@@ -26,10 +26,8 @@
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat)
 * [hellohistory](https://www.hellohistory.ai/)
 * [2Dumb2Destroy](https://2dumb2destroy.com/)
-* [BAI](https://chatbot.theb.ai/)
 * [DeepAI](https://deepai.org/chat)
 * [Dalai](https://cocktailpeanut.github.io/dalai/)
-* [Alpaca](https://github.com/antimatter15/alpaca.cpp)
 * [Kuki](https://chat.kuki.ai/chat)
 * [cleverbot](https://www.cleverbot.com/)
 * [eviebot](https://www.eviebot.com/en/)
