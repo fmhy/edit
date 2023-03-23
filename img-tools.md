@@ -46,7 +46,7 @@
 * [WeGreyScale](https://www.wegrayscale.com/) - Greyscale Videos / Images
 * [DuoTones](https://duotones.co/) - Dual Tone Effect Generator
 * [ImageGoNord](https://ign.schrodinger-hat.it/) - Convert Images to NordTheme Palette / [GitHub](https://github.com/Schrodinger-Hat/ImageGoNord)
-* [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization), [Image Transformer](https://transformerapp.aifinancials.net/), [Image To Cartoon](https://imagetocartoon.com/) or [Cartoonize](https://cartoonize-lkqov62dia-de.a.run.app/cartoonize) - Turn Photos into Cartoons
+* [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization), [Image To Cartoon](https://imagetocartoon.com/) or [Cartoonize](https://cartoonize-lkqov62dia-de.a.run.app/cartoonize) - Turn Photos into Cartoons
 * [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) / [2](https://github.com/TachibanaYoshino/AnimeGANv2) / [3](https://github.com/TachibanaYoshino/AnimeGANv3) - Turn Photos into Anime
 * [AIDraw](https://ai-draw.tokyo/en/) or [ArtLine](https://github.com/vijishmadhavan/ArtLine) - Turn Photos into Line Art
 * [primitive.js](https://ondras.github.io/primitive.js/) or [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes 
@@ -298,7 +298,7 @@
 
 ## ▷ Stable Diffusion
 
-* ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [SD Goldmine](https://rentry.org/sdgoldmine), [AI Creation Tool Mega](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) or [SD Akashic](https://github.com/Maks-s/sd-akashic) - Stable Diffusion  Resources
+* ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [SD Goldmine](https://rentry.org/sdgoldmine) / [Updates](https://rentry.org/sdupdates3), [AI Creation Tool Mega](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) or [SD Akashic](https://github.com/Maks-s/sd-akashic) - Stable Diffusion  Resources
 * ⭐ **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) 
 * ⭐ **Craiyon Tools** - [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk) / [Generative Engine](https://experiments.runwayml.com/generative_engine/)
 * ⭐ **[Stable Diffusion](https://github.com/Stability-AI/stablediffusion)** - [Discord](https://discord.com/invite/stablediffusion) / [Variations](https://github.com/justinpinkney/stable-diffusion)
