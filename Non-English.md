@@ -261,6 +261,7 @@
 * [AGE動漫](https://agefans.tw/) - Anime
 * [agemys](https://www.agemys.net/) - Anime
 * [yhdmp](https://www.yhdmp.net/) - Anime
+* [93wuc](https://www.93wuc.com/) - Anime
 * [dmd85](http://www.dmd85.com), [2](http://www.dmd8.com/) - Anime
 * [bimiacg4](https://www.bimiacg4.net/) - Anime
 * [music.163](https://music.163.com/) - Music
@@ -2089,6 +2090,7 @@
 * [TDIL](https://tdil-dc.in/eocr/index.html) - Indian Languages OCR
 * [Indic-Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indian Language Android Keyboard
 * [TamilVaathi](https://tamilvaathi.in) - Streaming / Movies / TV
+* [Upier](https://upier.vercel.app/) - Create Shareable Link for UPI Payments
 
 ***
 
