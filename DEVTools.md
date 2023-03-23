@@ -439,8 +439,6 @@
 * [Offshore Hosting](https://pornwebmasters.com/adult-offshore-hosting-sites) / [Domain Registars](https://pornwebmasters.com/offshore-domain-registrars) - Offshore Hosting Sites / Domain Registars that Ignore DMCA
 * [Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools) - Domain Information Lookup Tools
 * [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [v3WhoIs](https://www.v3whois.com/), [IWantMyName](https://iwantmyname.com/), [atlaq](https://atlaq.com/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
-* [namify](https://namify.tech/) - Domain / Business Name Suggestions
-* [AcronymCreator](https://acronymcreator.net/) - Business Acronym Generator
 * [TinyDomain](https://tinydomain.net/) - Short Domain Suggestions
 * [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
 * [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
@@ -537,6 +535,9 @@
 * [RV's Free Effects](https://www.mf2fm.com/rv/) - Site / Cursor Effects
 * [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
 * [Vidlery](http://vidlery.com/) - Animated Webpage Background
+
+https://onlinegenerator.net/
+
 * [Box-Shadow](https://box-shadow.art/) - Box Shadow Generator
 * [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - CSS Shadow Generator
 * [MapBox](https://www.mapbox.com/) - Live Maps, Location Search & More
@@ -694,6 +695,7 @@
 * [Flatpak](https://flatpak.org/) - Create & Distribute Linux Applications
 * [Awesome DOS](https://github.com/balintkissdev/awesome-dos) - DOS App Development Resources
 * [WTFPL](http://www.wtfpl.net/) - Free Software Licenses
+* [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
 * [Advanced Catalyst Example](https://github.com/steventroughtonsmith/advancedcatalystexample) - Mac Catalyst App Example
 
 ***
@@ -788,6 +790,7 @@
 
 ## ▷ Game Development
 
+* [HiddenPalace](https://hiddenpalace.org/) - Game Development Media Archive
 * [Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources), [Magic Tools](https://github.com/ellisonleao/magictools), [LibGDX](https://github.com/rafaskb/awesome-libgdx) or [Awesome Gamedev](https://github.com/mbrukman/awesome-gamedev) - Game Development Resources
 * [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - Basic Game Development Concepts
 * [Free Game Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_engines)
@@ -810,7 +813,6 @@
 * [Fantasy Consoles / Computers](https://github.com/paladin-t/fantasy) - List of Fantasy Consoles and Computers
 * [stencyl](https://www.stencyl.com/) - Codeless Game Engine
 * [Kaboomjs](https://kaboomjs.com/) - Quickly Make Games with Javascript
-* [GDevelop](https://gdevelop-app.com/) - HTML5 Game Creator
 * [Superpowers](https://www.softether.org/5-download) - Collaborative HTML5 Game Creator
 * [Phaser](https://phaser.io/) - Mobile HTML5 Game Framework 
 * [PlayCanvas](https://playcanvas.com/) - Build HTML5 Visualizations / Games
