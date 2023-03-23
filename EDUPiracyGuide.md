@@ -141,7 +141,7 @@
 * [OpenDirectory](https://github.com/nbats/FMHYedit/blob/main/base64.md#opendirectory) - Courses
 * [Revival](https://github.com/nbats/FMHYedit/blob/main/base64.md#revival) - Courses
 * [HMDRIVE](https://t.me/HMDRIVE_OFFICIAL) - Courses
-* [Iit jee lectures](https://t.me/Iitjeeinveins2) - Lectures / Telegram
+* [Iit jee lectures](https://t.me/Iitjeeinveins2), [Codex](https://t.me/CODEX_JEE), [Rankers](https://t.me/+mcZ0RHaH9vRlM2Y1) or [Genetry](https://genetry.carrd.co/) - JEE Lectures
 * [CoursesDaddy](http://coursesdaddy.com/) - Courses
 * [Course Drive](https://coursedrive.org/) - Courses
 * [Courses Pastebins](https://github.com/nbats/FMHYedit/blob/main/base64.md#course-pastebins) - Courses
@@ -815,7 +815,7 @@ Simulator
 * [PXTrez](https://pxtrez.com/) - Kahoot Answers Tool
 * [ITExamAnswers.net](https://www.itexamanswers.net/) - IT Exam Answers
 * [Oak National Academy](https://teachers.thenational.academy/), [OLI](https://oli.cmu.edu/independent-learner-courses/) or [Runestone Interactive](https://runestone.academy/) - Lessons
-* [Quizlet](https://quizlet.com/) / [Paywall Bypass](https://github.com/rospino74/Quizlet-Bypass), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872) / [Explanations](https://greasyfork.org/en/scripts/434972), [2](https://greasyfork.org/en/scripts/438663)
+* [Quizlet](https://quizlet.com/) / [Paywall Bypass](https://github.com/rospino74/Quizlet-Bypass)/ [2](https://discord.gg/VuD7WBvXCQ), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872) / [Explanations](https://greasyfork.org/en/scripts/434972), [2](https://greasyfork.org/en/scripts/438663)
 * [guIHelp](https://discord.gg/rgF9jY8CpH) - Bartleby, Quizlet, Coursehero & Scribd Bot
 * [HeroGenerator](https://discord.gg/ggBX8qqASC) - Courshero Document Generator / [Telegram](https://t.me/HeroGeneratorPure)
 * [Wikiversity](https://www.wikiversity.org/) or [Learnamic](https://www.learnamic.com/) - Learning Resources, Guides, Quizzes, Tools & More
