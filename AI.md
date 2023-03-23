@@ -148,7 +148,7 @@
 ***
 ***
 
-# ► Stable Diffusion
+# ► Image Generators
 
 * ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [SD Goldmine](https://rentry.org/sdgoldmine) / [Updates](https://rentry.org/sdupdates3), [AI Creation Tool Mega](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) or [SD Akashic](https://github.com/Maks-s/sd-akashic) - Stable Diffusion  Resources
 * ⭐ **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) 
@@ -181,7 +181,7 @@
 * [Dream Studio](https://beta.dreamstudio.ai/dream)
 * [Dream.a](https://dream.ai/)
 * [DreamLike](https://dreamlike.art)
-* [Gaugan2](http://imaginaire.cc/gaugan2/) / [Tutorial](https://youtu.be/r5P9-zOfWyE)
+* [Gaugan2](http://imaginaire.cc/gaugan2/)
 * [hypnogram](https://hypnogram.xyz/)
 * [AI Art Generator](https://neural.love/ai-art-generator)
 * [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent)
@@ -193,15 +193,16 @@
 * [Stable Diffusion InPainting](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting)
 * [Diffuse The Rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
 * [StabilityAI](https://huggingface.co/spaces/stabilityai/stable-diffusion)
-* [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) / [WebUI](https://github.com/neonsecret/stable-diffusion-webui), [2](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Simplified](https://github.com/pinilpypinilpy/sd-webui-colab-simplified) / [Colab](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) / [Single Click](https://github.com/cmdr2/stable-diffusion-ui)
+* [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl)
 * [Stable Horde](https://stablehorde.net/) / [Client](https://dbzer0.itch.io/stable-horde-client)
 * [NovelAI](https://rentry.org/sdg_FAQ) / [Limit Bypass](https://pastebin.com/JDyvqZcz)
 * [InvokeAI](https://github.com/invoke-ai/InvokeAI)
 * [SD GUITard](https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4?usp=sharing)
+* [WebUI](https://github.com/neonsecret/stable-diffusion-webui), [2](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Simplified](https://github.com/pinilpypinilpy/sd-webui-colab-simplified) / [Colab](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) / [Single Click](https://github.com/cmdr2/stable-diffusion-ui) - Stable Diffusion WebUI's
 
 ***
 
-## ▷ SD Guides
+## ▷ Generation Guides
 
 * [Voldy](https://rentry.org/voldy)
 * [Colab Install](https://youtu.be/l3JjTDvyVdw)
@@ -212,5 +213,6 @@
 * [Quickstart](https://redd.it/xvhavo)
 * [CPUtard](https://rentry.org/cputard)
 * [InPainting Guide](https://rentry.org/drfar)
+* [Gaugan2 Guide](https://youtu.be/r5P9-zOfWyE)
 * [Midjourney Guide](https://marigoldguide.notion.site/marigoldguide/Visual-Guide-to-Midjourney-settings-using-mostly-Astronauts-2ae1d8bb125f46e2be9886119c36ecf0)
 * [Midjourney Cheatsheet](https://arjenharris.notion.site/arjenharris/Midjourney-Cheat-Sheet-271922c6869549898ead33eaf79517fa)
