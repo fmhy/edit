@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/CbSYoxa.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/DBFxZ7a.png)** - For mobile users
 
 ***
 ***
@@ -202,7 +202,7 @@
 
 ***
 
-## ▷ Generation Guides
+## ▷ Generator Guides
 
 * [Voldy](https://rentry.org/voldy)
 * [Colab Install](https://youtu.be/l3JjTDvyVdw)
