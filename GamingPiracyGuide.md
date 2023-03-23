@@ -159,11 +159,11 @@
 * ⭐ **[CrocDB](https://crocdb.net/)** - Emulators / ROMs
 * ⭐ **[CDRomance](https://cdromance.com/)** - ROMs
 * ⭐ **[Ziperto](https://ziperto.com/)** - ROMs
-* ⭐ **[ROM-Collections](https://rentry.co/ROM-Collections)** - ROMs
 * ⭐ **[WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases)**, [WiiU ROMs](https://wiiuroms.net/) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
 * ⭐ **[ROM Site Index](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)**
 * [/r/ROMs](https://www.reddit.com/r/ROMs/) - Discussion Sub
 * [ROM Managers](http://emulation.gametechwiki.com/index.php/ROM_managers) - List of ROM Managers
+* [ROM-Collections](https://rentry.co/ROM-Collections) - ROMs
 * [WowROMs](https://wowROMs.com/en/) - ROMs
 * [Edge Emulation](https://edgeemu.net/) - ROMs
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - ROMs / [Discord](https://discord.gg/rH9wRpu2vh) 
