@@ -2731,23 +2731,17 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/Any_Animebot
 * http://t.me/AUTOxANIME/2
 * https://t.me/Anime_World_1
-* https://t.me/AutoAnimeBot
 * https://t.me/AnimeGuardian_bot
 * https://t.me/Hd_Anime_Series
 * https://t.me/animeze
-* https://t.me/AnimeIndexOfficial
 * https://t.me/myanimetvbot
 * https://t.me/otakulounge
-* https://t.me/animeinc
 * https://t.me/anime_a_to_z
 * https://t.me/Anime_Flix_Pro
 * https://t.me/Anime_1080p_720p_480p
-* https://t.me/Animeworld001
 * https://t.me/soulreaperzone
 * https://t.me/AnimeKingdomX
 * https://t.me/Kingdomofanimeseries
-* https://t.me/AnimeLibrary_Movies
-* https://t.me/animemovies
 * https://t.me/Ongoing_animes
 
 ***
@@ -3279,7 +3273,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 ⭐ **[Mobile Abyss](https://mobile.alphacoders.com/)**
 
-[Wallpaper Engine](https://www.wallpaperengine.io/android/en), [wallhaven](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait), [wallpaperfusion](https://www.wallpaperfusion.com/Apps/), [wallpaperaccess](https://wallpaperaccess.com/cat/devices), [wallpapers.com](https://wallpapers.com/mobile), [wallpapersafari](https://wallpapersafari.com/), [wallpapercave](https://wallpapercave.com/categories/devices), [positrondream](https://www.positrondream.com/wallpapers-all), [wallpaperstock](https://wallpaperstock.net/mobile-wallpapers.html), [simpledesktops](http://simpledesktops.com/app/android/), [wallpapertip](https://www.wallpapertip.com/), [wallpaperflare](https://www.wallpaperflare.com/search?wallpaper=vertical), [hdqwalls](https://hdqwalls.com/), [wallpapersden](https://wallpapersden.com/), [arrowwallpapers](https://arrowwallpapers.blogspot.com/), [moviemania](https://www.moviemania.io/phone), [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) / [2](https://photos.google.com/share/AF1QipNi8VN2pw2Ya_xCV8eFgzEZmiXDy1-GwhXbqFtvXoH3HypF10as9puV8FdoVZpOZA?key=WkZjQTIxQTM5a01oZkNUYTE2ZllKTVJKZk1CMTR3), [VectorifyDaHome](https://github.com/enricocid/VectorifyDaHome), [backiee](https://backiee.com/), [AnimeLibrary_MobileWallpapers](https://t.me/AnimeLibrary_MobileWallpapers/), [Wallpapers_Phone_Mobile](https://t.me/Wallpapers_Phone_Mobile/), [iphone11papers](https://iphone11papers.com/), [Wallpapers Clan](https://wallpapers-clan.com/), [Wallme](https://f-droid.org/packages/com.alaory.wallmewallpaper/), [WallYou](https://github.com/Bnyro/WallYou), [Mobcup](https://mobcup.net/)
+[Wallpaper Engine](https://www.wallpaperengine.io/android/en), [wallhaven](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait), [wallpaperfusion](https://www.wallpaperfusion.com/Apps/), [wallpaperaccess](https://wallpaperaccess.com/cat/devices), [wallpapers.com](https://wallpapers.com/mobile), [wallpapersafari](https://wallpapersafari.com/), [wallpapercave](https://wallpapercave.com/categories/devices), [positrondream](https://www.positrondream.com/wallpapers-all), [wallpaperstock](https://wallpaperstock.net/mobile-wallpapers.html), [simpledesktops](http://simpledesktops.com/app/android/), [wallpapertip](https://www.wallpapertip.com/), [wallpaperflare](https://www.wallpaperflare.com/search?wallpaper=vertical), [hdqwalls](https://hdqwalls.com/), [wallpapersden](https://wallpapersden.com/), [arrowwallpapers](https://arrowwallpapers.blogspot.com/), [moviemania](https://www.moviemania.io/phone), [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) / [2](https://photos.google.com/share/AF1QipNi8VN2pw2Ya_xCV8eFgzEZmiXDy1-GwhXbqFtvXoH3HypF10as9puV8FdoVZpOZA?key=WkZjQTIxQTM5a01oZkNUYTE2ZllKTVJKZk1CMTR3), [VectorifyDaHome](https://github.com/enricocid/VectorifyDaHome), [backiee](https://backiee.com/), [Wallpapers_Phone_Mobile](https://t.me/Wallpapers_Phone_Mobile/), [iphone11papers](https://iphone11papers.com/), [Wallpapers Clan](https://wallpapers-clan.com/), [Wallme](https://f-droid.org/packages/com.alaory.wallmewallpaper/), [WallYou](https://github.com/Bnyro/WallYou), [Mobcup](https://mobcup.net/)
 
 * [Darkinator](https://play.google.com/store/apps/details?id=com.tfuerholzer.darkmodewallpaper) - Change Wallpaper Depending on System Theme
 * [wallpaperwaifu](https://wallpaperwaifu.com/), [Muzei](https://github.com/muzei/muzei), [Chroma Galaxy](https://play.google.com/store/apps/details?id=com.at2_software.terracollageapp), [Doodle](https://patrickzedler.com/doodle/), [GIFLiveWallpaper](https://play.google.com/store/apps/details?id=com.awesome.giflivewallpaper), [AnyVideo](https://play.google.com/store/apps/details?id=com.mclwp.anyvideolivewallpaper), [Ornamental](https://play.google.com/store/apps/details?id=com.lazybonesgames.ornamentaltheapp), [Reddit Wallpaper](https://play.google.com/store/apps/details?id=com.bryanwalsh.redditwallpaper2), [Amoled Backgrounds](https://play.google.com/store/apps/details?id=com.droidheat.amoledbackgrounds) or [LiveLoop](https://play.google.com/store/apps/details?id=com.wallpaper.liveloop) - Live Android Wallpapers
