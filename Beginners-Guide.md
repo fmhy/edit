@@ -84,7 +84,7 @@
 
 ### Streaming
 
-**[movie-web](https://movie-web.app/)** / **[FMovies](https://fmovies.name/) / [Soap2Day](https://soapgate.org/)** - Fast streaming
+**[movie-web](https://movie-web.app/) / [FMovies](https://fmovies.name/) / [Soap2Day](https://soapgate.org/)** - Fast streaming
 **[Zoro](https://zoro.to/) / [9Anime](https://www.9anime.to/)** - Fast  anime streaming
 **[SportsSurge](https://sportsurge.net/)** - Live sports streaming 
 **[Spotify](https://spotify.com/) / [YouTube Music](https://music.youtube.com/)** - Music & podcast streaming / [Spotify Adblock](https://github.com/amd64fox/SpotX)
