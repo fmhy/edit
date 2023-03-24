@@ -877,14 +877,14 @@
 
 ## ▷ Manga Sites
 
-* ⭐ **[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
-* ⭐ **[The Index](https://theindex.moe/library/manga)** - Manga Site List
 * ⭐ **[MangaDex](https://mangadex.org/)** - [Downloader](https://github.com/mansuf/mangadex-downloader) / [Script](https://github.com/frozenpandaman/mangadex-dl) 
 * ⭐ **[Manga4Life](https://manga4life.com/)**, [2](https://mangasee123.com/) - Official Translations
 * ⭐ **[ComicK](https://comick.fun/)**
 * ⭐ **[MangaReader](https://mangareader.to/)**
 * ⭐ **[MangaNelo](https://m.manganelo.com/wwww)**, [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/)
 * ⭐ **[Manga Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_download_bots)** - Bots that Download Manga
+* ⭐ **[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
+* ⭐ **[The Index](https://theindex.moe/library/manga)** - Manga Site List
 * [MangaPiracy](https://discord.gg/ZgMtAyxFSU) - Manga Piracy Server / [Subreddit](https://reddit.com/r/MangaPiracy)
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - Anime / Manga Download Forum
 * [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
