@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/dOtQIzw.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/9Yf8V3a.png)** - For mobile users
 
 ***
 ***
@@ -621,6 +621,8 @@ Simulator
 * [Polyglot](https://polyglotclub.com/) - Offline Language Exchange 
 * [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [Conversation Exchange](https://www.conversationexchange.com/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - Language Learning Network
 
+***
+
 ## ▷ English
 
 * ⭐ **[Many Things](http://www.manythings.org/)** - ESL Resources
@@ -647,6 +649,8 @@ Simulator
 * [EnglishForums](https://www.englishforums.com/) - English Learning Forums
 * [Free4Talk](https://www.free4talk.com/) or [Speaking24](http://www.speaking24.com/) - English Practice Community
 
+***
+
 ## ▷ Japanese
 
 * [AnimeLon](https://animelon.com/) - Streaming / Anime / Learn Japanese
@@ -668,6 +672,8 @@ Simulator
 * [GetKanda](https://getkana.com/app/), [Nihonoari](https://github.com/aeri/Nihonoari-App) or [RealKana](https://realkana.com/) - Learn Kana 
 * [WaniKani](https://www.wanikani.com/), [KanjiDamagePlus](https://kanjidamageplus.neocities.org/), [Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo) or [Manji](https://github.com/Livinglist/Manji) - Learn / Practice Kanji
 
+***
+
 ## ▷ Korean
 
 * [Learn Korean](https://discord.gg/e3H9Pde) - Korean Learning Discord
@@ -683,6 +689,8 @@ Simulator
 * [KoreanKeyboardLearner](https://monikasun88.github.io/KoreanKeyboardLearner/) - Korean Typing Practice
 * [Korean Trainer](http://koreantrainer.mloesch.it/) - Korean Number & Date Practice
 * [Hangul](https://hangul.cool/) - Korean Typing Practice
+
+***
 
 ## ▷ Chinese
 
@@ -706,6 +714,8 @@ Simulator
 * [Mandarin Chinese](https://github.com/nbats/FMHYedit/blob/main/base64.md#mandarin-chinese) - Mandarin Chinese Learning Books
 * [Chinese Flashcards](http://www.chineseflashcards.io/) - Chinese Flashcards
 
+***
+
 ## ▷ European
 
 * [StudySpanish](https://studyspanish.com/) or [LibreLingo](https://librelingo.app/) - Learn Spanish
@@ -716,6 +726,8 @@ Simulator
 * [Linguee](https://www.linguee.de/) or [Dict.cc](https://m.dict.cc/) - German Translation Dictionary
 * [LearningSwedish](https://learningswedish.se/) - Swedish Learning Course
 
+***
+
 ## ▷ South Asian
 
 * [South Asian Languages](https://discord.gg/TrdqTDdMba) - South Asian Language Learning
@@ -723,7 +735,9 @@ Simulator
 * [Urdupod101](https://www.urdupod101.com/blog/2021/03/18/urdu-grammar-overview/) - Urdu Grammar Overview / [Video](https://youtu.be/X5J_kXigPWE)
 * [Urdu Grammar](http://ilovelanguages.org/urdu_grammar.php) - Urdu Grammar Lessons
 
-## ▷ Miscellaneous
+***
+
+## ▷ Other Languages
 
 * [ASL Resources](https://t.me/ASLresources) - American Sign Language Resources
 * [ASL Dictionary](https://www.signasl.org/), [SignSpaces](https://signspaces.com/) or [HandSpeak](https://www.handspeak.com/) - Learn American Sign Language 
