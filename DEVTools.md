@@ -813,7 +813,7 @@ https://onlinegenerator.net/
 * [Fantasy Consoles / Computers](https://github.com/paladin-t/fantasy) - List of Fantasy Consoles and Computers
 * [stencyl](https://www.stencyl.com/) - Codeless Game Engine
 * [Kaboomjs](https://kaboomjs.com/) - Quickly Make Games with Javascript
-* [Superpowers](https://www.softether.org/5-download) - Collaborative HTML5 Game Creator
+* [Superpowers](https://sparklinlabs.itch.io/superpowers) - Collaborative HTML5 Game Creator
 * [Phaser](https://phaser.io/) - Mobile HTML5 Game Framework 
 * [PlayCanvas](https://playcanvas.com/) - Build HTML5 Visualizations / Games
 * [APlayer](https://github.com/DIYgod/APlayer) - HTML Audio Player
