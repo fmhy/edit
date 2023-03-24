@@ -371,7 +371,7 @@
 * [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/) or [Sim Flow](https://sim-flow.com/) - Fluid Dynamics Simulators
 * [SimScale](https://www.simscale.com/) or [CFDTool](https://www.cfdtool.com/) - Fluid Dynamics & Heat Transfer
 Simulator
-* [LAMMPS](https://www.lammps.org/) - Molecular Dynamics (MD) Code
+* [LAMMPS]https://www.lammps.org/) - Molecular Dynamics (MD) Code
 * [avogadro](https://sourceforge.net/projects/avogadro/) - Molecular Editor
 * [Simuwaerm](https://github.com/file-acomplaint/simuwaerm) - Heat Simulator
 
@@ -589,43 +589,66 @@ Simulator
 
 # ► Language Learning 
 
-* ⭐ **[Awesome-Lang](https://github.com/oyd11/awesome-lang)**, [Many Things](http://www.manythings.org/) or [Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8) - Language Learning Resources 
-* ⭐ **[Languages & Linguistics](https://github.com/nbats/FMHYedit/blob/main/base64.md#languages--linguistics)** or [EnglishBooks](http://englishbooks.com.tw/primary/) - Language Learning Books
+## ▷ Multi-Language
+
 * ⭐ **[Language Reactor](https://www.languagereactor.com/)** - Learn Languages via Media
+* ⭐ **[Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8)** - Language Learning Resources 
+* ⭐ **[Languages & Linguistics](https://github.com/nbats/FMHYedit/blob/main/base64.md#languages--linguistics)** 
+* [Language Transfer](https://www.languagetransfer.org/) - Language Learning Lectures
+* [refold.la](https://refold.la/) - Language Learning Roadmap
+* [Memrise](https://www.memrise.com/) - Language Learning Lessons 
+* [InternetPolyglot](https://www.internetpolyglot.com/) - Language Learning Lessons 
+* [LingoDeer](https://www.lingodeer.com/) - Language Learning Lessons 
+* [Busuu](https://www.busuu.com/en/) - Language Learning Lessons 
+* [Duolingo](https://www.duolingo.com/) - Language Learning Lessons / [Tips](https://duome.eu/tips)
+* [Language Drops](https://languagedrops.com/) - Language Learning App / [Premium](https://github.com/nbats/FMHYedit/blob/main/base64.md#language-drops-premium)
+* [10,000 Sentences](https://github.com/tkrajina/10000sentences) - Language Learning App
+* [Yojik](https://fsi-languages.yojik.eu/index.html) - Language Learning Courses
 * [Speechling](https://speechling.com/tools) - Language Learning Tools
 * [Ba Ba Dum](https://babadum.com/) - Language Learning Game
-* [ListLang](https://www.listlang.com/) - Most Used Words in Any Language
-* [BeyondPlayer](https://circleapps.co/) - YouTube Player for English Learners
+* [clozemaster](https://www.clozemaster.com/) - Context Based Language Learning
+* [Sounter](https://sounter.com/) or [LyricFluent](https://lyricfluent.com/) - Learn Languages via Music
+* [youglish](https://youglish.com/) - YouTube Word Pronunciations 
 * [Language Roadmap](https://languageroadmap.com/) - Foreign Language Media Difficulty Guide
-* [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [Conversation Exchange](https://www.conversationexchange.com/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - Language Learning Network
-* [E-books_432](https://github.com/nbats/FMHYedit/blob/main/base64.md#e-books_432) - Vocabulary & Pronunciation Books
-* [Xuga](https://eng.ichacha.net/mpr/xuga.html) - Word Pronunciation Tool
+* [Ytalki](https://ytalki.com/) - Find Foreign Books Based on Language Level
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi-Language Dictionary Index
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary 
-* [Memrise](https://www.memrise.com/), [InternetPolyglot](https://www.internetpolyglot.com/), [LingoDeer](https://www.lingodeer.com/), [Busuu](https://www.busuu.com/en/) or [Duolingo](https://www.duolingo.com/) / [Tips](https://duome.eu/tips) - Language Learning Lessons 
-* [Yojik](https://fsi-languages.yojik.eu/index.html) or [ESOL](https://www.esolcourses.com/) - Language Learning Courses
-* [Language Transfer](https://www.languagetransfer.org/) - Language Learning Courses / Audio
-* [refold.la](https://refold.la/roadmap) - Language Learning Guide 
-* [clozemaster](https://www.clozemaster.com/) - Context Based Language Learning
+* [Readlang](https://readlang.com/) - Learn a Language While Web Browsing
 * [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - Language Learning Flashcards
-* [Learn English Online](http://www.learn-english-online.org/), [EnglishCentral](https://www.englishcentral.com/), [ESLFast](https://www.eslfast.com/), [TalkEnglish](https://www.talkenglish.com/), [AntiMoon](https://www.antimoon.com/), [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons), [Elsaspeak](https://elsaspeak.com/en/), [Voscreen](http://voscreen.com/), [yell0wsuit](https://yell0wsuit.page/english.html), [elllo](https://www.elllo.org/) or [Cambridge Online](https://www.cambridgeenglish.org/learning-english/) - Learn English
-* [Listening Lab](https://www.esl-lab.com/) - English Listening Practice
-* [Ytalki](https://ytalki.com/) - Find Foreign Books Based on Language Level
+* [MyLanguages](http://mylanguages.org/) - Grammar / Vocabulary Language Learning
+* [Vocatra](https://esite.ch/vocatra/) - Vocabulary Trainer
+* [ListLang](https://www.listlang.com/) - Most Used Words in Any Language
+* [Polyglot](https://polyglotclub.com/) - Offline Language Exchange 
+* [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [Conversation Exchange](https://www.conversationexchange.com/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - Language Learning Network
+
+## ▷ English
+
+* ⭐ **[Many Things](http://www.manythings.org/)** - ESL Resources
+* [E-books_432](https://github.com/nbats/FMHYedit/blob/main/base64.md#e-books_432) - Vocabulary & Pronunciation Books
+* [ESOL](https://www.esolcourses.com/) - English Learning Resources
+* [Learn English Online](http://www.learn-english-online.org/)
+* [EnglishCentral](https://www.englishcentral.com/)
+* [ESLFast](https://www.eslfast.com/)
+* [TalkEnglish](https://www.talkenglish.com/)
+* [AntiMoon](https://www.antimoon.com/)
+* [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons)
+* [Cambridge Online](https://www.cambridgeenglish.org/learning-english/)
+* [Elsaspeak](https://elsaspeak.com/en/)
+* [Voscreen](http://voscreen.com/)
+* [yell0wsuit](https://yell0wsuit.page/english.html)
+* [elllo](https://www.elllo.org/)
 * [Podcasts in English](https://www.podcastsinenglish.com/) - English Learning Podcasts
-* [Free4Talk](https://www.free4talk.com/) or [Speaking24](http://www.speaking24.com/) - English Practice Community
+* [Listening Lab](https://www.esl-lab.com/) - English Listening Practice
+* [BeyondPlayer](https://circleapps.co/) - YouTube Player for English Learners
+* [Langeek](https://langeek.co/) - Grammar / Vocabulary Language Learning
+* [Xuga](https://eng.ichacha.net/mpr/xuga.html) - Word Pronunciation Tool
+* [EnglishAccentMap](https://www.englishaccentsmap.com/) - English Accent Videos / Map 
 * [EnglishBanana](https://www.englishbanana.com/) - English Learning Worksheets
 * [EnglishForums](https://www.englishforums.com/) - English Learning Forums
-* [MyLanguages](http://mylanguages.org/) or [Langeek](https://langeek.co/) - Grammar / Vocabulary Language Learning
-* [Vocatra](https://esite.ch/vocatra/) - Vocabulary Trainer
-* [EnglishAccentMap](https://www.englishaccentsmap.com/) - English Accent Videos / Map 
-* [Readlang](https://readlang.com/) - Learn a Language While Web Browsing 
-* [Sounter](https://sounter.com/) or [LyricFluent](https://lyricfluent.com/) - Learn Languages via Music
-* [Polyglot](https://polyglotclub.com/) - Offline Language Exchange 
-* [South Asian Languages](https://discord.gg/TrdqTDdMba) - South Asian Language Learning
-* [StudySpanish](https://studyspanish.com/) or [LibreLingo](https://librelingo.app/) - Learn Spanish
-* [SpanishDict](https://www.spanishdict.com/) - Spanish Translation Dictionary
-* [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials
-* [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
+* [Free4Talk](https://www.free4talk.com/) or [Speaking24](http://www.speaking24.com/) - English Practice Community
+
+## ▷ Japanese
+
 * [AnimeLon](https://animelon.com/) - Streaming / Anime / Learn Japanese
 * [Nihongo](https://nihongo-e-na.com/eng/), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/), [AnimeCards](https://animecards.site/), [Gakuu](https://web.archive.org/web/20201113022338/http://gakuu.com/resources/), [Itzazureneko](https://itazuraneko.neocities.org/learn/guide.html) - Japanese Learning Resources
 * [TheMoeWay](https://learnjapanese.moe/) / [Discord](https://discord.gg/nhqjydaR8j), [Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/), [NativShark](https://www.nativshark.com/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese
@@ -644,6 +667,9 @@ Simulator
 * [Jlpt N3](https://dethitiengnhat.com/en/) or [JapaneseTest4You](https://japanesetest4you.com/) - Jlpt Exam Questions / [Grammar](https://jlptgrammarlist.neocities.org/)
 * [GetKanda](https://getkana.com/app/), [Nihonoari](https://github.com/aeri/Nihonoari-App) or [RealKana](https://realkana.com/) - Learn Kana 
 * [WaniKani](https://www.wanikani.com/), [KanjiDamagePlus](https://kanjidamageplus.neocities.org/), [Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo) or [Manji](https://github.com/Livinglist/Manji) - Learn / Practice Kanji
+
+## ▷ Korean
+
 * [Learn Korean](https://discord.gg/e3H9Pde) - Korean Learning Discord
 * [Read Korean Letters](https://readkoreanletters.com/) - Learn Korean Characters 
 * [KR Dict](https://krdict.korean.go.kr/eng/) - Korean Learning Dictionary
@@ -657,6 +683,9 @@ Simulator
 * [KoreanKeyboardLearner](https://monikasun88.github.io/KoreanKeyboardLearner/) - Korean Typing Practice
 * [Korean Trainer](http://koreantrainer.mloesch.it/) - Korean Number & Date Practice
 * [Hangul](https://hangul.cool/) - Korean Typing Practice
+
+## ▷ Chinese
+
 * [/r/ChineseLanguage](https://www.reddit.com/r/ChineseLanguage/) - Chinese Learning Community / [Discord](https://discord.gg/PAjBET7)
 * [Train Chinese](https://www.trainchinese.com/), [ChineseSkill](https://www.chineseskill.com/) or [HelloChinese](http://hellochinese.cc/) - Chinese Learning App
 * [Cantonese sheik](http://www.cantonese.sheik.co.uk/) or [SinoSplice](https://www.sinosplice.com/) - Chinese Learning Resources
@@ -676,18 +705,30 @@ Simulator
 * [YellowBridge](https://www.yellowbridge.com/) - Chinese Learning Tools
 * [Mandarin Chinese](https://github.com/nbats/FMHYedit/blob/main/base64.md#mandarin-chinese) - Mandarin Chinese Learning Books
 * [Chinese Flashcards](http://www.chineseflashcards.io/) - Chinese Flashcards
+
+## ▷ European
+
+* [StudySpanish](https://studyspanish.com/) or [LibreLingo](https://librelingo.app/) - Learn Spanish
+* [SpanishDict](https://www.spanishdict.com/) - Spanish Translation Dictionary
+* [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials
+* [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
 * [Seedlang](https://seedlang.com/) - German Learning App
 * [Linguee](https://www.linguee.de/) or [Dict.cc](https://m.dict.cc/) - German Translation Dictionary
 * [LearningSwedish](https://learningswedish.se/) - Swedish Learning Course
+
+## ▷ South Asian
+
+* [South Asian Languages](https://discord.gg/TrdqTDdMba) - South Asian Language Learning
 * [Urdu Resource List](https://docs.google.com/document/d/1GRTK_E0YGybMNYZjFToM40sOHNkR1NJXc_dL8HW2Q_0/) or [UrduNotes](https://urdunotes.com/) - Urdu Learning Resources
 * [Urdupod101](https://www.urdupod101.com/blog/2021/03/18/urdu-grammar-overview/) - Urdu Grammar Overview / [Video](https://youtu.be/X5J_kXigPWE)
 * [Urdu Grammar](http://ilovelanguages.org/urdu_grammar.php) - Urdu Grammar Lessons
-* [youglish](https://youglish.com/) - YouTube Word Pronunciations 
-* [ASL Resources](https://t.me/ASLresources) - American Sign Language Resources / Telegram 
+
+## ▷ Miscellaneous
+
+* [ASL Resources](https://t.me/ASLresources) - American Sign Language Resources
 * [ASL Dictionary](https://www.signasl.org/), [SignSpaces](https://signspaces.com/) or [HandSpeak](https://www.handspeak.com/) - Learn American Sign Language 
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)  
 * [BSL Dictionary](https://www.signbsl.com/) - British Sign Language
-* [Language Drops](https://languagedrops.com/) or [10,000 Sentences](https://github.com/tkrajina/10000sentences) - Language Learning App / [Premium](https://github.com/nbats/FMHYedit/blob/main/base64.md#language-drops-premium)
 * [PolyGlot](http://polyglots.free.fr/) - Linguistic Teaching Software
 * [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - Language Identification Test
 * [LocalLingual](https://localingual.com/) or [DialectArchive](https://www.dialectsarchive.com/globalmap)- Listen to Accents
