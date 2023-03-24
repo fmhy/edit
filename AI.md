@@ -148,7 +148,7 @@
 * ⭐ **[Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/)** - List of Stable Diffusion Models
 * ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** - Determine Likely Used Image Prompts
-* ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
+* ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
 * [Stable Horde](https://stablehorde.net/) - AI Image Generator / [Client](https://dbzer0.itch.io/stable-horde-client)
 * [Pinegraph](https://pinegraph.com/create) - Image Transformation / Sketchpad
 * [InPainter](https://inpainter.vercel.app/paint) / [2](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) - AI Image Generator
