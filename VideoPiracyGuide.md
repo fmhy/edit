@@ -770,7 +770,6 @@
 * [Anime2Enjoy](https://www.anime2enjoy.com/) - Sub / [Discord](https://discord.gg/PxSmumS)
 * [AniDL](https://anidl.org/) - Sub / Dub
 * [AnimeLand](https://www.animeland.us/) - Dub
-* [DarkLegends](https://darklegends60mb.org/) - Sub
 * [Ripcrabbyanime](https://ripcrabbyanime.in/) - Sub / Dub
 * [Kayoanime](https://kayoanime.com/) - Sub / Dub / [Telegram](https://t.me/Kayoanime)
 * [Animesp](https://github.com/nbats/FMHYedit/blob/main/base64.md#animesp) - Sub
