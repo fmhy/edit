@@ -928,7 +928,7 @@
 * [Kitsu](https://kitsu.io/) - Anime
 * [Anisearch](https://www.anisearch.com/) - Anime
 * [AniDB](https://anidb.net/) - Anime
-* [Animender](https://discord.gg/h6nTTprMKd), [Mangaki](https://mangaki.fr/) or [AniBrain](https://anibrain.ai/) - Anime Recommendation Tool
+* [Animender](https://discord.gg/h6nTTprMKd) or [AniBrain](https://anibrain.ai/) - Anime Recommendation Tool
 * [ACDB](https://www.animecharactersdatabase.com/) - Anime Character Database
 * [MetaCritic](https://www.metacritic.com/) - Movies / TV / Anime
 * [rate.house](https://rate.house/) - Media Tracker
