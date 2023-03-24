@@ -10,7 +10,7 @@
 ***
 ***
 
-### [Basic  Safety](https://rentry.co/bootyguard) / [Terms](https://redd.it/10xfr24)
+### [Basic  Terms](https://redd.it/10xfr24) / [Safety](https://rentry.co/bootyguard)
 
 ***
 ***
