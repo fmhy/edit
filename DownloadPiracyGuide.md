@@ -190,7 +190,6 @@
 * [Softlay](https://softlay.net/)
 * [CRACKurl](https://cracksurl.com/)
 * [Pesktop](https://pesktop.com/en/)
-* [FTUAPps](https://ftuapps.dev/)
 * [TheMicroTech](https://programs.themicrotech.net/)
 * [Cyberspace](https://cyberspace.world/)
 * [4Download](https://www.4download.net/)
@@ -240,7 +239,6 @@
 * [WLSetup-All](https://github.com/nbats/FMHYedit/blob/main/base64.md#wlsetup-all) - Windows Live Essentials 2012 Archive
 * [GenP](https://www.reddit.com/r/GenP) - Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)
 * [Adobe CC](https://github.com/nbats/FMHYedit/blob/main/base64.md#adobe-cc) - Adobe Creative Cloud Piracy Guide
-* [Software CSE](https://cse.google.com/cse?cx=ca4c91f63fa53d51c) / [CSE 2](https://cse.google.com/cse?cx=ec7d33ef358ae1b65) - Multi-Site Search
 
 ***
 
