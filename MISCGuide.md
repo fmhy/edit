@@ -126,6 +126,7 @@
 * ⭐ **[/r/PiratedGames](https://www.reddit.com/r/PiratedGames/)** - Gaming / [Discord](https://discord.gg/dZWwhUy)
 * ⭐ **[OneHack](https://onehack.us/)** - Piracy Discussion / Sharing
 * [/r/DataHoarder](https://reddit.com/r/DataHoarder) - [Telegram](https://t.me/r_DataHoarder) / [/r/DHExchange](https://www.reddit.com/r/DHExchange/)
+* [Music Hoarders](https://discord.gg/d4hgc7GCAj) - Music Hoarding Community
 * [/r/trackers](https://reddit.com/r/trackers)
 * [/r/usenet](https://reddit.com/r/usenet) 
 * [/r/CrackSupport](https://reddit.com/r/CrackSupport) - Piracy / Gaming / Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch) / [FAQ](https://rentry.co/cracksupport)
@@ -348,8 +349,9 @@
 * [Orb.Farm](https://orb.farm/) - Virtual Aquatic Ecosystem
 * [Bouncy Balls](https://bouncyballs.org/) or [Balls Simulation](http://ricktu288.github.io/balls-simulation/) - Ball Physics Simulator
 * [Fluid Simulation WebGL](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) or [WebGL Fluid Experiment](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/) - Fluid Simulation
-* [WebGL Water](http://madebyevan.com/webgl-water/) - Water Simulation 
-* [Origami Simulator](https://origamisimulator.org/) - Origami Simulation 
+* [WebGL Water](http://madebyevan.com/webgl-water/) - Water Simulation
+* [Origami Simulator](https://origamisimulator.org/) - Origami Simulation
+* [Learn Origami](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_origami) - Origami Examples / Tutorials
 * [Fold & Cut](https://www.onemotion.com/fold-cut-paper/) - Make Digital Paper Snowflakes
 * [Draw a Stickman](https://drawastickman.com/) - Stickman Adventure
 * [Iceberger](https://joshdata.me/iceberger.html) - Draw an Iceberg, See how it Floats
