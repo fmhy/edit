@@ -145,6 +145,7 @@
 * ⭐ **[DeepAI](https://deepai.org/machine-learning-model/stable-diffusion)** / [2](https://deepai.org/machine-learning-model/text2img) - AI Image Generator / [Tools](https://deepai.org/apis)
 * ⭐ **[MagicBrush](https://www.magicbru.sh/)**, [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - AI Image Transformers
 * ⭐ **[SD WebUI](https://github.com/cmdr2/stable-diffusion-ui)** / [2](https://github.com/neonsecret/stable-diffusion-webui) / [3](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion WebUI / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Colab](https://github.com/pinilpypinilpy/sd-webui-colab-simplified)
+* ⭐ **[CivitAI](https://civitai.com/)** - Stable Diffusion Models and Gallery
 * ⭐ **[Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/)** - List of Stable Diffusion Models
 * ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** - Determine Likely Used Image Prompts
@@ -181,6 +182,9 @@
 * [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) - AI Image Generation Colab
 *  [NOP / WAS](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17) - AI Image Generation Colab
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
+* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Stable Diffusion GUI
+* [Sygil WebUI](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion Web UI
+* [Waifu Diffusion](https://github.com/harubaru/waifu-diffusion) - Stable Diffusion for Anime
 
 ***
 
@@ -189,6 +193,7 @@
 * ⭐ **[Voldy](https://rentry.org/voldy)** - Stable Diffusion Guide
 * ⭐ **[SD Quickstart](https://redd.it/xvhavo)** - Stable Diffusion Guide
 * ⭐ **[1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw)** - Stable Diffusion Guide
+* ⭐ **[SD Compendium](https://www.sdcompendium.com/)** - Stable Diffusion Guide and Resources
 * [AyyMD](https://rentry.org/ayymd-stable-diffustion-v1_4-guide) - Stable Diffusion Guide
 * [AMD Guide](https://rentry.org/sdamd) - Stable Diffusion Guide
 * [Native Isekai Too](https://rentry.org/sd-nativeisekaitoo) - Stable Diffusion Guide
