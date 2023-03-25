@@ -2013,7 +2013,7 @@ Twitch Stream Tracker
 * [Netmaker](https://gravitl.com/netmaker) - Create Virtual Network
 * [NirLauncher](https://launcher.nirsoft.net/) - All Nirsoft Utilities in One App
 * [TopGrade](https://github.com/topgrade-rs/topgrade) - Package Manager Update Automation 
-* [WinGet](https://github.com/microsoft/winget-cli), [WinInstall](https://winstall.app/), [Scoop The Installer](https://github.com/couleur-tweak-tips/the-installer) or [bget](https://github.com/jahwi/bget) - Windows Package Managers
+* [WinGet](https://github.com/microsoft/winget-cli), [WinInstall](https://winstall.app/), [Scoop The Installer](https://github.com/couleur-tweak-tips/the-installer), [RuckZuck](https://ruckzuck.tools/) or [bget](https://github.com/jahwi/bget) - Windows Package Managers
 * WinGet Tools - [Tools](https://github.com/jdhitsolutions/WingetTools) / [Winget UI](https://github.com/marticliment/WingetUI) / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/)
 * [pacaptr](https://github.com/rami3l/pacaptr) - Pac-Man Package Manager Wrapper
 * [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI), [0Install](https://0install.net/) / [GitHub](https://github.com/0install/0install), [Patch My PC](https://patchmypc.com/home-updater) or [Ninite](https://ninite.com/) - Install / Update Multiple Programs at Once
