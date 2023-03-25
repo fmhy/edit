@@ -32,6 +32,7 @@
 * [FreeTubeSpot](https://www.freetubespot.com/) - Movies
 * [SmashyStream](https://embed.smashystream.com/) - Movies / TV / Anime / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
 * [UltraMovies](https://ultramovies.net/) - Movies / TV
+* [JustChill](https://www.justchill.tv/en) - Movies / TV / Anime / [Discord](https://discord.gg/y49g2tgNak)
 * [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime
 * [Vumoo](https://vumoo.to/) - Movies / TV
 * [SuperNova](https://supernova.to/) - Movies / TV / Anime 
