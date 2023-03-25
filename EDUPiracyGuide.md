@@ -980,10 +980,11 @@ Simulator
 * [Social Engineers](https://www.socialengineers.net/) - Social Engineering Guides
 * [TheChessWebsite](https://www.thechesswebsite.com/) - Chess Strategy / Analysis
 * [Chess Tempo](https://chesstempo.com/) - Play / Learn Chess
-* [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - Wood Working Guides & Articles
+* [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - Learn Wood Working
 * [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
+* [Learn Origami](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_origami) - Origami Examples / Tutorials
 * [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Art cyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](http://wolfmanmuseum.org/), [Arts and Culture](https://artsandculture.google.com/), [WGA](https://www.wga.hu/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collections
 * [Earth 2050](https://2050.earth/) - Future Predictions
 * [Nuclear Risk Calculator](https://app.hex.tech/399c4a29-5b7f-4f70-8b53-afa8da38dd72/app/def94910-d017-4508-847c-e1189d3b6042/latest) - Calculate Risk of Nuclear War 
