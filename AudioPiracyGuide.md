@@ -409,7 +409,8 @@
 * [Demozoo](https://discord.io/demozoo) - Demoscene Archive
 * [BurntScarr](https://github.com/nbats/FMHYedit/blob/main/base64.md#burntscarr) or [/r/MusicStems](https://www.reddit.com/r/MusicStems/) - STEMS
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games 
-* [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [Incompetech](https://incompetech.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/), [free stock music](https://www.free-stock-music.com/) or [Fugue](https://icons8.com/music) - Royalty Free Music 
+* [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [Incompetech](https://incompetech.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/), [free stock music](https://www.free-stock-music.com/) or [Fugue](https://icons8.com/music) - Royalty Free Music
+* [Music Hoarders](https://discord.gg/d4hgc7GCAj) - Music Hoarding Community
 
 ***
 
