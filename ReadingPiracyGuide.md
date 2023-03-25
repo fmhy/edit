@@ -717,7 +717,7 @@
 * [Dataset Search](https://datasetsearch.research.google.com/) - Dataset Search Google 
 * [PDF / Doc Search Engine](https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0) 
 * [ZealDocs](https://zealdocs.org/) - Document Viewer
-* [Sioyek](https://sioyek.info/) - Research Paper / Technical Document Viewer
+* [Sioyek](https://sioyek.info/) or [ResearchRabbit](https://www.researchrabbit.ai/) - Research Paper / Technical Document Viewers
 
 ***
 
