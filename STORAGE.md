@@ -1619,7 +1619,6 @@ Add the following commands to a search to manually scrape each site.
 
 [Roon](https://rutracker.org/forum/tracker.php?nm=roon), [iTunes](https://www.apple.com/itunes/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [OvoPlayer](http://ovoplayer.altervista.org/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Amarok](https://amarok.kde.org/), [Hysolid](https://www.hysolid.com/), [aidoru](https://github.com/ffwff/aidoru), [Modular Player](https://www.deviantart.com/jaxoriginals/art/ModularPlayers-v1-3-886577256), [goMP](https://github.com/aditya-K2/goMP), [NCurses](https://github.com/ncmpcpp/ncmpcpp), [XMPlay](https://www.un4seen.com/) (Chiptune-Friendly), [guayadeque](https://github.com/anonbeat/guayadeque), [musique](http://flavio.tordini.org/musique), [sonata](https://github.com/multani/sonata), [exaile](http://www.exaile.org/), [quodlibet](https://github.com/quodlibet/quodlibet/), [ario](http://ario-player.sourceforge.net/), [deadbeef](https://deadbeef.sourceforge.io/), [groovebasin](https://github.com/andrewrk/groovebasin), [destroyer](https://github.com/mashaal/destroyer), [Ampache](https://ampache.org/) / [GitHub](https://github.com/ampache/ampache), [MusikCube](https://musikcube.com/), [Volumio](https://volumio.com/en/get-started), [Museeks](https://museeks.io/), [Swing Music](https://swingmusic.vercel.app/)
 
-
 **Self-Hosted**
 
 [Auddly](https://auddly.app/), [Music Player Daemon](https://www.musicpd.org/)
