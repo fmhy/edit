@@ -397,7 +397,6 @@
 * [FaceMaker](http://facemaker.uvrg.org/) - 3D Face / Avatar Generator
 * [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator
 * [CSS 3D Clouds](https://spite.github.io/CSS3DClouds/) - 3D Cloud Creator
-* [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - AI Art Generation Guide
 * [3D Transformer](https://www.3dtransformer.com/) - Rotate 3D Images
 * [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) - 3D Printing Software
 * [Ameede](https://www.ameede.com/) - CNC / Laser Design Vectors
@@ -410,7 +409,6 @@
 # ► Image Tools
 
 * ⭐ **[Multi-Tool Image Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_image_tool_sites)** - Multiple Image Tools
-* [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md) - AI Image Toolbox
 * [Awesome Colab nNotebooks]( https://github.com/amrzv/awesome-colab-notebooks) - Image Colab Tools
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
@@ -438,6 +436,7 @@
 * [Watermark Remover Online](https://www.aiseesoft.com/watermark-remover-online/) or [Watermark Remover](https://www.watermarkremover.io/) - Watermark Removal
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) - Protect Digital Art from AI Copies
 * [FPNG](https://github.com/richgel999/fpng) - PNG Reader / Writer
+* [APNG Maker](https://rukario.github.io/Schande/Uninteresting%20stuff/APNG%20Maker.html) - Create / Optimize APNG Images
 * [JPEGMedic ARWE](https://www.jpegmedic.com/tools/jpegmedic-arwe/) - Recover Ransomware-Encrypted Images
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - Scan & Digitize Documents / iOS
 * [Swapper](https://icons8.com/swapper) - Face Swapper
