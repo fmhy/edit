@@ -626,7 +626,6 @@
 * ⭐ **[Worlds Cinema](http://worldscinema.org/)** - Classic / Cult Films
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / Account Required for 1ficher links / [DM](https://www.reddit.com/message/compose?to=nbatman) email for invite
 * ⭐ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - Download videos from streaming sites
-* [Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "video"
 * [RareLust](https://rarelust.com/) - Rare Movies / NSFW
 * [My Duck Is Dead](http://www.myduckisdead.org/) - Rare Movies / NSFW
 * [movie-web](https://movie-web.app/) - Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)
@@ -695,6 +694,7 @@
 * [TodayTVSeries](http://www.todaytvseries2.com/) - TV
 * [TvShows4Mobile](https://tvshows4mobile.com/) - TV / Anime
 * [300MBFilms](https://www.300mbfilms.com/) - Movies / TV
+* [General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "video"
 * [UHDMovies](https://uhdmovies.org.in/) - HD Movies
 * [Blu-Ray.world](https://blu-ray.world/) - HD Movies / TV
 * [4K HDR](https://4k-hdr.org/) - HD Movies / TV
@@ -829,8 +829,7 @@
 * ⭐ **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)**
 * ⭐ **[1337x Movies](https://1337x.to/top-100-movies)** - Movies / TV / Anime
 * ⭐ **[RARBG Movies](https://rarbg.to/torrents.php?category=movies)** - Movies / TV / Anime
-* ⭐ **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - ctrl+f and type "video"
-* ⭐ **[EZTV](https://eztv.re/)** - TV / Anime / Do [NOT](https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) Make Account 
+* [EZTV](https://eztv.re/) - TV / Anime / Do [NOT](https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) Make Account 
 * [MSearch](https://msearch.now.sh/), [2](https://msearch.vercel.app/) - Movies / TV
 * [WatchSoMuch](https://watchsomuch.com/) - Movies / TV / Anime / [Proxy](https://watchsomuchproxy.com/)
 * [GaoQing](https://gaoqing.fm/) - Movies / TV / Anime / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -841,6 +840,7 @@
 * [Public Domain Movie Torrents](http://www.publicdomaintorrents.info/) - Movies
 * [YTS](https://yts.mx/) or [YifyMovies](https://yifymovies.xyz/) - Movies / [Google Buttons](https://github.com/cotnw/muvi) / [Mirrors](https://www.yifystatus.com/) / [Search](https://yify.netlify.app/) / Do [NOT](https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) Make Account
 * [Yify-Torrent](https://yify-torrent.cc/) - Movies
+* [General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f and type "video"
 * [ButchIxanh](https://butchixanh.com/) - Asian Drama
 * [JapaneseTorrents](https://japanesetorrents.wordpress.com/) - Asian Drama
 * [IMDb Link em All](https://greasyfork.org/en/scripts/17154-imdb-link-em-all), [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout), [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod), [IMDb Torrent Search](https://github.com/Crecket/imdb-torrent-search) or [TMDB-Torrent-Movie-Database](https://github.com/singhkumarpratik/TMDB-Torrent-Movie-Database) - Torrent Site Results on IMDb
