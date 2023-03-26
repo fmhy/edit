@@ -1,12 +1,8 @@
 # FMHYedit
 
-[How-to Send Pull Requests](https://rentry.co/FMHYedit)
-
-***
-
 **Things to note:**
 
-* Anyone can organize, correct or change anything they feel could be improved.
+* Anyone can [organize, correct or change](https://rentry.co/FMHYedit) anything they feel could be improved.
 
 * If you're adding a new site, please [search](https://redd.it/105xraz) first to make sure we don't already have it.
 
