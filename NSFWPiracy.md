@@ -396,8 +396,10 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 * ⭐ **[EasyPeasy](https://easypeasymethod.org/)** - Painlessly Quit Pornography
 * [ChadGuard](https://github.com/LaGuerrePiece/ChadGuard), [beta-censoring](https://github.com/silveredgold/beta-censoring), [beta-protection](https://github.com/silveredgold/beta-protection), [Web Cleaner](https://github.com/Web-Cleaner/Web_Cleaner/), [Wingman](https://github.com/wingman-jr-addon/wingman_jr) or [NSFW Filters](https://nsfw-filter.com/) - Porn Blocking Extensions
+* [Block Site](https://add0n.com/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs), [TabWave](https://www.tabwave.app/), [Forest](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_forest) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - Site Blockers
 * [RARBG Porn Filter](https://greasyfork.org/en/scripts/380386) - Porn Blocker for RARBG
 * [Brainbuddy](https://www.brainbuddyapp.com/) - Porn Blocker / Android / iOS
+* [SelfControlApp](https://selfcontrolapp.com/) - Mac Site Blocker
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
 * [movie-parser](https://github.com/dynamite-ready/movie-parser) or [practical-ai-autodetecting-nsfw](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies
-* [Puri.fy](https://pury.fi/) - Censor NSFW Images
+* [Puri.fy](https://pury.fi/) or [NSFW-Filter](https://github.com/nsfw-filter/nsfw-filter) - Block NSFW Images
