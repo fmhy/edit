@@ -664,13 +664,13 @@ Simulator
 * [JapaneseWithAnime](https://www.japanesewithanime.com/) - Learn Japanese with Anime
 * [BilingualManga](https://bilingualmanga.net/) - Learn Japanese with Manga
 * [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - Japanese Practice Material
+* [Learn Japanese Grammar](https://kimallen.sheepdogdesign.net/) - Basic Principles of Japanese Grammar
 * [Jotoba](https://jotoba.de/), [Fujiten](https://github.com/odrevet/fujiten), [core6000](https://core6000.neocities.org/), [Tagaini](https://www.tagaini.net/), [Jisho](https://jisho.org/), [Massif](https://github.com/rsimmons/massif), [‎Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380), [JapBase](https://japbase.neocities.org/) or [rtk-search](https://hochanh.github.io/rtk/) - Japanese Dictionaries / Phrases
 * [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - Japanese Accent Dictionary
 * [Japanese pitch accent resources](https://github.com/olety/japanese-pitch-accent-resources) - Japanese Accent Resources
 * [ichi.moe](https://ichi.moe/) - Japanese to English Phrase Translation
 * [Jlpt N3](https://dethitiengnhat.com/en/) or [JapaneseTest4You](https://japanesetest4you.com/) - Jlpt Exam Questions / [Grammar](https://jlptgrammarlist.neocities.org/)
 * [GetKanda](https://getkana.com/app/), [Nihonoari](https://github.com/aeri/Nihonoari-App) or [RealKana](https://realkana.com/) - Learn Kana 
-* [Learn Japanese Grammar](https://kimallen.sheepdogdesign.net/) - Basic principles of Japanese grammar
 * [WaniKani](https://www.wanikani.com/), [KanjiDamagePlus](https://kanjidamageplus.neocities.org/), [Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo) or [Manji](https://github.com/Livinglist/Manji) - Learn / Practice Kanji
 
 ***
