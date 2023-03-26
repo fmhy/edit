@@ -24,6 +24,7 @@
 * [Method](https://editor.method.ac/) - SVG Editor
 * [Scribus](http://www.scribus.net/) - Page Layout & Typesetting Program
 * [PhotoFunia](https://photofunia.com/) or [Designify](http://designify.com/) - Photo Effects / Filters
+* [FilmDev](https://filmdev.org/) - Film Development Recipes
 * [MagicaVoxel](https://ephtracy.github.io/) - Voxel Art Editor / Interactive Path Tracing Renderer
 * [StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Text Driven Image Manipulation / [Video](https://youtu.be/5icI0NgALnQ)
 * [Vectr](https://vectr.com/) or [VectorInk](https://vectorink.io/) - Vector Graphics Editor
@@ -38,8 +39,6 @@
 * [VeoLuz](https://jaredforsyth.com/veoluz/) - Photon Path Art Tool
 * [PaintingLight](https://lllyasviel.github.io/PaintingLight/) - Digital Lighting Effect Generator
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn Simple Art into Photo Realistic Landscapes
-* [AI Gahaku](https://ai-art.tokyo/en/), [Painting by Numbers](https://painting-by-numbers.co/pages/create-your-own), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/), [InstaPainting](https://www.instapainting.com/assets/) or [Deep Dream Generator](https://deepdreamgenerator.com/) - Turn Photos into Artwork
-* [Pet AI](https://petai.art/) - Turn Pet Photos into Artwork
 * [Picmunge](https://picmunge.cvservant.com/) - Image Transformer
 * [Controlnet Pose](https://replicate.com/jagilley/controlnet-pose) - Modify Human Pose Position
 * [Tinter](https://tinter.uxie.io/) - Image Hue Editor
@@ -52,7 +51,7 @@
 * [primitive.js](https://ondras.github.io/primitive.js/) or [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes 
 * [PBNify](https://pbnify.com/) - Paint by Number Tool
 * [Paint with Music](https://artsandculture.google.com/experiment/paint-with-music/YAGuJyDB-XbbWg) - Paint with Sound
-* [Inpaint](https://theinpaint.com/), [Magic Eraser](https://www.magiceraser.io/), [Remover](https://remover.zmo.ai/), Cleanup.pictures](https://cleanup.pictures/) - Remove Objects from Photos 
+* [Inpaint](https://theinpaint.com/), [Magic Eraser](https://www.magiceraser.io/), [Remover](https://remover.zmo.ai/), [Cleanup.pictures](https://cleanup.pictures/) - Remove Objects from Photos 
 * [InsertFace](https://insertface.com/) - Selfie Frames, Backgrounds & Effects
 * [Frame360](https://frame360.net/) - Image Frames
 * [Supershots](https://superblog.ai/supershots/) - Add Backgrounds to Images
@@ -418,6 +417,7 @@
 * [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - Image Color Summarizer
 * [ImgOps](https://imgops.com/) - Image Operations Meta-Tool
 * [FontAwesomePS](http://creativedo.co/FontAwesomePS) - Photoshop Icon Manager
+* [Adobe Bridge](https://adobe.com/products/bridge.html) - Adobe Assets Manager
 * [Photoshop Repeating Action Script](https://gist.github.com/ajazsiddiqui/72bbf376ad387e1f76bfad777f66d7a3) - Automate Photoshop
 * [Image Colors](https://franciscouzo.github.io/image_colors/) - Image Color Scatter Plot 
 * [resdet](https://github.com/0x09/resdet) - Detect if an Image is Upscaled
