@@ -212,6 +212,7 @@
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book 
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
 * [Slip](https://www.slip.so/) - Build Programming Courses
+* [Javascript Today](https://blog.javascripttoday.com/) - JavaScript Blog
 
 ***
 
