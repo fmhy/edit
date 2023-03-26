@@ -402,15 +402,33 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 #### Code Editors 
 
-[SpaceVim](https://spacevim.org/), [Pulsar](https://pulsar-edit.dev/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/) / [Frontend](https://github.com/rohit-px2/nvui) / [Motions](https://github.com/ggandor/lightspeed.nvim), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/) / [Docs](https://www.emacsdocs.org/), [Lite XL](https://lite-xl.github.io/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro Editor](https://micro-editor.github.io/index.html), [OpenOffice](http://bluefish.openoffice.nl/index.html) / [Templates](https://templates.openoffice.org/en), [KomodoEdit](https://github.com/Komodo/KomodoEdit), [TextAdept](https://foicica.com/textadept), [SpaceMacs](http://spacemacs.org/), [Notepad2](https://www.flos-freeware.ch/notepad2.html), [Sublime Text](https://www.sublimetext.com/), [CudaText](https://cudatext.github.io/) / [Git](https://github.com/Alexey-T/CudaText), [Light Table](http://lighttable.com/), [4coder](https://4coder.itch.io/4coder), [lapce](https://lapce.dev/) / [GitHub](https://github.com/lapce/lapce), [Warp](https://www.warp.dev/), [AvaloniaUI](https://avaloniaui.net/), [MassCode](https://masscode.io/), [libvim](https://github.com/onivim/libvim), [amp](https://github.com/jmacdonald/amp), [Visual Studio](https://code.visualstudio.com/), [Graviton](https://graviton.netlify.app/), [BBEdit](http://www.barebones.com/)
+* ⭐ **[VSCodium](https://vscodium.com/)** - Code Editor
+* ⭐ **[VS Code Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vscode_tools)** - Tools / Themes for VS Code
 
-**Mac Code Editors**
-
-[Vim](https://github.com/macvim-dev/macvim), [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+[SpaceVim](https://spacevim.org/), [Pulsar](https://pulsar-edit.dev/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/) / [Frontend](https://github.com/rohit-px2/nvui) / [Motions](https://github.com/ggandor/lightspeed.nvim), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/) / [Docs](https://www.emacsdocs.org/), [Lite XL](https://lite-xl.github.io/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro Editor](https://micro-editor.github.io/index.html), [OpenOffice](http://bluefish.openoffice.nl/index.html) / [Templates](https://templates.openoffice.org/en), [KomodoEdit](https://github.com/Komodo/KomodoEdit), [TextAdept](https://foicica.com/textadept), [SpaceMacs](http://spacemacs.org/), [Notepad2](https://www.flos-freeware.ch/notepad2.html), [Sublime Text](https://www.sublimetext.com/), [CudaText](https://cudatext.github.io/) / [Git](https://github.com/Alexey-T/CudaText), [Light Table](http://lighttable.com/), [4coder](https://4coder.itch.io/4coder), [lapce](https://lapce.dev/) / [GitHub](https://github.com/lapce/lapce), [Warp](https://www.warp.dev/), [AvaloniaUI](https://avaloniaui.net/), [MassCode](https://masscode.io/), [libvim](https://github.com/onivim/libvim), [amp](https://github.com/jmacdonald/amp), [Visual Studio](https://code.visualstudio.com/), [Graviton](https://graviton.netlify.app/), [BBEdit](http://www.barebones.com/), [Vim Latex](http://vim-latex.sourceforge.net/) 
 
 **Online Code Editors**
 
 [JDFiddle](https://jsfiddle.net/), [W3Schools](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python), [CollabEdit](http://collabedit.com/), [Portacode](https://portacode.com/), [IDE One](https://www.ideone.com/), [SoloLearn](https://www.sololearn.com/) / [Playground](https://code.sololearn.com/), [JSFiddle](https://jsfiddle.net/), [PlayCode](https://playcode.io/), [Objgen](http://www.objgen.com/) 
+
+**Mac Code Editors**
+
+[MacVim](https://github.com/macvim-dev/macvim), [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+
+**Vim Tools**
+
+* [nerdtree](https://github.com/preservim/nerdtree) - Tree Explorer
+* [InstantRst](https://github.com/gu-fan/InstantRst) - Instant RST Preview
+* [LunarVim](https://github.com/ChristianChiarulli/LunarVim) - Vim Config
+* [Mitosis](https://github.com/BuilderIO/mitosis) - Auto-Compile Components
+* [Vim Plug](https://github.com/junegunn/vim-plug), [Vim Pathogen](https://github.com/tpope/vim-pathogen), [Dein](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
+* [vim-markdown](https://github.com/plasticboy/vim-markdown) - Vim Markdown Plugin
+* [VimAwesome](https://vimawesome.com/) - Vim Plugins
+* [NeovimCraft](https://neovimcraft.com/) - Neovim Plugins
+* [NvChad](https://github.com/NvChad/NvChad) - Neovim CLI 
+* [NeoVide](https://github.com/neovide/neovide) - Neovim Client
+* [DroidVim](https://github.com/shiftrot/droidvim) - Neovim APK
+* [Bootstrap Editor](https://vim-bootstrap.com/) - Vim / Neovim Config Generator Bootstrap Editor
 
 ***
 
@@ -699,7 +717,7 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 #### FFmpeg Tools
 
-[GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [Batch Encoder](https://github.com/Twinklebear/fbed) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Builds](https://github.com/BtbN/FFmpeg-Builds) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial), [2](https://ffmpeg.guide/) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730) / [Script](https://codeberg.org/Denshi/Scripts/src/branch/master/cvrt) / [Command Generator](https://alfg.dev/ffmpeg-commander/), [2](https://evanhahn.github.io/ffmpeg-buddy/)
+[GUI](https://axiomui.github.io/), [2](https://github.com/MattMcManis/Axiom) / [Batch Encoder](https://github.com/Twinklebear/fbed) / [M3u8 Download](https://gist.github.com/tzmartin/fb1f4a8e95ef5fb79596bd4719671b5d) / [Builds](https://github.com/BtbN/FFmpeg-Builds) / [Autobuild](https://github.com/m-ab-s/media-autobuild_suite) / [Guide](https://github.com/leandromoreira/ffmpeg-libav-tutorial), [2](https://ffmpeg.guide/) / [Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730) / [Script](https://codeberg.org/Denshi/Scripts/src/branch/master/cvrt) / [Command Generator](https://alfg.dev/ffmpeg-commander/), [2](https://evanhahn.github.io/ffmpeg-buddy/) / [WebM Converter](https://argorar.github.io/WebMConverter/)
 
 ***
 
@@ -922,19 +940,20 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 **File Sync / Network Share**
 
-* ⭐ **[SyncThing](https://syncthing.net/)** / [Instances](https://github.com/RobinLinus/snapdrop/blob/master/docs/faq.md#inofficial-instances) or [pairdrop](https://pairdrop.net/)
-* ⭐ **[Snapdrop](https://snapdrop.net/)**
+* ⭐ **[SyncThing](https://syncthing.net/)**
+* ⭐ **[Snapdrop](https://snapdrop.net/)** / [Instances](https://github.com/RobinLinus/snapdrop/blob/master/docs/faq.md#inofficial-instances) or [pairdrop](https://pairdrop.net/)
 * ⭐ **[ToffeeShare](https://toffeeshare.com/)**
 * ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
 * ⭐ **[aQRoss](https://aqross.app/)** - Share Files via QR Codes
 
-[dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [keybase](https://book.keybase.io/docs/files), [file.pizza](https://file.pizza/), [Transfernow](https://www.transfernow.net/en), [onionshare](https://onionshare.org/), [OwnCloud](https://owncloud.com/), [MLDonkey](https://github.com/ygrek/mldonkey), [Slate](https://slate.host/), [etesync](https://www.etesync.com/), [WinSCP](https://winscp.net/eng/index.php), [freefilesync](https://freefilesync.org/), [allwaysync](https://allwaysync.com/), [sharik](https://github.com/marchellodev/sharik), [Simple.Savr](https://www.ssavr.com/), [FileBrowser](https://filebrowser.org/), [KDEConnect](https://kdeconnect.kde.org/), [Resilio](https://www.resilio.com/individuals/), [croc](https://f-droid.org/packages/com.github.howeyc.crocgui), [Ziggs](https://ziggs.io/), [dsynchronize](http://www.dimio.altervista.org/eng/dsynchronize/dsynchronize.html), [landrop](https://landrop.app/), [uploadtransfer](https://uploadtransfer.com/), [Surge](https://getsurge.io/), [odin](https://github.com/odinapp/odin), [brig](https://github.com/sahib/brig), [saladroom](https://saladroom.net/), [passfile](https://passfile.me/), [blymp.io](https://blymp.io/) / [GitHub](https://github.com/vantezzen/blymp-io), [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop-web), [sendfiles](https://sendfiles.online/), [XD-Torrent](https://xd-torrent.github.io/), [lightning](https://lightning-share.vercel.app/), [croc](https://github.com/schollz/croc), [Simple-Storage](https://github.com/ducheng0/Simple-Storage), [RDrop](https://rdrop.link/), [webdrop](https://webdrop.space/), [MyAirBridge](https://www.myairbridge.com/), [Sprend](https://sprend.com/), [JumboMail](https://www.jumbomail.me/), [PlusTransfer](https://www.plustransfer.com/), [SmartFTP](https://www.smartftp.com/), [Wing FTP](https://www.wftpserver.com/), [Xlight](https://xlightftpd.com/), [uschovna](https://www.uschovna.cz/), [posilej](https://posilej.cz/), [filetransfer](https://filetransfer.kpn.com/), [Diode](https://diode.io/), [WebWormhole](https://webwormhole.io/), [Destiny](https://github.com/LeastAuthority/destiny), [filepress](https://filepress.click/), [consyn](https://consyn.io/), [sharrr](https://www.sharrr.com/)
+[dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [keybase](https://book.keybase.io/docs/files), [file.pizza](https://file.pizza/), [Transfernow](https://www.transfernow.net/en), [onionshare](https://onionshare.org/), [OwnCloud](https://owncloud.com/), [MLDonkey](https://github.com/ygrek/mldonkey), [Slate](https://slate.host/), [etesync](https://www.etesync.com/), [WinSCP](https://winscp.net/eng/index.php), [freefilesync](https://freefilesync.org/), [allwaysync](https://allwaysync.com/), [sharik](https://github.com/marchellodev/sharik), [Simple.Savr](https://www.ssavr.com/), [FileBrowser](https://filebrowser.org/), [KDEConnect](https://kdeconnect.kde.org/), [Resilio](https://www.resilio.com/individuals/), [croc](https://f-droid.org/packages/com.github.howeyc.crocgui), [Ziggs](https://ziggs.io/), [dsynchronize](http://www.dimio.altervista.org/eng/dsynchronize/dsynchronize.html), [landrop](https://landrop.app/), [uploadtransfer](https://uploadtransfer.com/), [Surge](https://getsurge.io/), [odin](https://github.com/odinapp/odin), [brig](https://github.com/sahib/brig), [saladroom](https://saladroom.net/), [passfile](https://passfile.me/), [blymp.io](https://blymp.io/) / [GitHub](https://github.com/vantezzen/blymp-io), [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop-web), [sendfiles](https://sendfiles.online/), [XD-Torrent](https://xd-torrent.github.io/), [lightning](https://lightning-share.vercel.app/), [croc](https://github.com/schollz/croc), [Simple-Storage](https://github.com/ducheng0/Simple-Storage), [RDrop](https://rdrop.link/), [webdrop](https://webdrop.space/), [MyAirBridge](https://www.myairbridge.com/), [Sprend](https://sprend.com/), [JumboMail](https://www.jumbomail.me/), [PlusTransfer](https://www.plustransfer.com/), [SmartFTP](https://www.smartftp.com/), [Wing FTP](https://www.wftpserver.com/), [Xlight](https://xlightftpd.com/), [uschovna](https://www.uschovna.cz/), [posilej](https://posilej.cz/), [filetransfer](https://filetransfer.kpn.com/), [Diode](https://diode.io/), [WebWormhole](https://webwormhole.io/), [Destiny](https://github.com/LeastAuthority/destiny), [filepress](https://filepress.click/), [consyn](https://consyn.io/), [sharrr](https://www.sharrr.com/), [Photon](https://photondev.netlify.app/)
 
 **Android File Sync**
 
-⭐ **[SyncThing](https://github.com/Catfriend1/syncthing-android)**
+* ⭐ **[SyncThing](https://github.com/Catfriend1/syncthing-android)**
+* ⭐ **[Snapdrop Android](https://github.com/fm-sys/snapdrop-android)**
 
-[dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) / [croc](https://f-droid.org/packages/com.github.howeyc.crocgui), [Snapdrop Android](https://github.com/fm-sys/snapdrop-android), [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard), [Leaf Explorer](https://github.com/Shiv-Shambhu/Leaf-Explorer), [xShare](https://github.com/tsudoko/xshare), [InShare](https://play.google.com/store/apps/details?id=sharefiles.sharemusic.shareapps.filetransfer), [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc), [MagicCopy](https://magiccopy.app/), [syncopoli](https://gitlab.com/fengshaun/syncopoli), [ShareX](https://github.com/akanshSirohi/ShareX)
+[dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) / [croc](https://f-droid.org/packages/com.github.howeyc.crocgui), [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard), [Leaf Explorer](https://github.com/Shiv-Shambhu/Leaf-Explorer), [xShare](https://github.com/tsudoko/xshare), [InShare](https://play.google.com/store/apps/details?id=sharefiles.sharemusic.shareapps.filetransfer), [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc), [MagicCopy](https://magiccopy.app/), [syncopoli](https://gitlab.com/fengshaun/syncopoli), [ShareX](https://github.com/akanshSirohi/ShareX)
 
 **SkyNet**
 
@@ -1016,7 +1035,7 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 * ⭐ **[ModDB](https://moddb.com/)** 
 * ⭐ **[Nexus Mods](https://www.nexusmods.com/)** / [Manager](https://github.com/Nexus-Mods/Nexus-Mod-Manager) / [Redirect Skip](https://greasyfork.org/en/scripts/394039)
 
-[ZagruzkaMods](https://zagruzkamods.com/), [NextGenUpdate](https://www.nextgenupdate.com/), [ModWorkshop](https://modworkshop.net/), [Video Game Mods](https://videogamemods.com/), [Silent's Blog](https://cookieplmonster.github.io/mods/index/), [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack), [GameFront](https://gamefront.com/), [GameJunkie](https://www.gamejunkie.pro/), [VIP Mods](https://www.vip-mods.com/), [top-mods.ru](https://top-mods.ru/), [vip-mods.ru](https://vip-mods.ru/), [Top Mods](https://www.top-mods.com/), [CurseForge](https://www.curseforge.com/), [Mods Gamer](https://www.mods-gamer.ru/), [GameJunkie](https://www.gamejunkie.ru/), [mod.io](https://www.mod.io/), [GameBanana](https://www.gamebanana.com/)
+[ZagruzkaMods](https://zagruzkamods.com/), [NextGenUpdate](https://www.nextgenupdate.com/), [ModWorkshop](https://modworkshop.net/), [Video Game Mods](https://videogamemods.com/), [Silent's Blog](https://cookieplmonster.github.io/mods/index/), [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack), [GameFront](https://gamefront.com/), [GameJunkie](https://www.gamejunkie.pro/), [VIP Mods](https://www.vip-mods.com/), [top-mods.ru](https://top-mods.ru/), [vip-mods.ru](https://vip-mods.ru/), [Top Mods](https://www.top-mods.com/), [CurseForge](https://www.curseforge.com/) / [Search](https://superstormer.github.io/cf-search/), [Mods Gamer](https://www.mods-gamer.ru/), [GameJunkie](https://www.gamejunkie.ru/), [mod.io](https://www.mod.io/), [GameBanana](https://www.gamebanana.com/)
 
 ***
 
@@ -1478,7 +1497,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Minecraft Mods
 
-[usefulmods](https://github.com/NordicGamerFE/usefulmods), [UsefulMods](https://github.com/TheUsefulLists/UsefulMods), [CurseForge](https://www.curseforge.com/minecraft/mc-mods), [Planet Minecraft](https://www.planetminecraft.com/), [Modrinth](https://modrinth.com/), [MC Archive](https://mcarchive.net/), [Alternatives](https://microcontrollersdev.github.io/Alternatives/)
+[usefulmods](https://github.com/NordicGamerFE/usefulmods), [UsefulMods](https://github.com/TheUsefulLists/UsefulMods), [CurseForge](https://www.curseforge.com/minecraft/mc-mods) / [Search](https://superstormer.github.io/cf-search/), [Planet Minecraft](https://www.planetminecraft.com/), [Modrinth](https://modrinth.com/), [MC Archive](https://mcarchive.net/), [Alternatives](https://microcontrollersdev.github.io/Alternatives/)
 
 ***
 
@@ -1527,7 +1546,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[GDLauncher](https://gdevs.io/)**
 * ⭐ **[PrismLauncher](https://prismlauncher.org/)** / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
 
-[MultiMC](https://multimc.org/), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [ATLauncher](https://atlauncher.com/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/)
+[MultiMC](https://multimc.org/), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [ATLauncher](https://atlauncher.com/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [Feather Client](https://feathermc.com/) / [Discord](https://discord.com/invite/feather)
 
 ***
 
@@ -1617,7 +1636,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[VOX Music Player](https://vox.rocks/windows-music-player)**
 * ⭐ **[MusicBee](https://getmusicbee.com/)**
 
-[Roon](https://rutracker.org/forum/tracker.php?nm=roon), [iTunes](https://www.apple.com/itunes/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [OvoPlayer](http://ovoplayer.altervista.org/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Amarok](https://amarok.kde.org/), [Hysolid](https://www.hysolid.com/), [aidoru](https://github.com/ffwff/aidoru), [Modular Player](https://www.deviantart.com/jaxoriginals/art/ModularPlayers-v1-3-886577256), [goMP](https://github.com/aditya-K2/goMP), [NCurses](https://github.com/ncmpcpp/ncmpcpp), [XMPlay](https://www.un4seen.com/) (Chiptune-Friendly), [guayadeque](https://github.com/anonbeat/guayadeque), [musique](http://flavio.tordini.org/musique), [sonata](https://github.com/multani/sonata), [exaile](http://www.exaile.org/), [quodlibet](https://github.com/quodlibet/quodlibet/), [ario](http://ario-player.sourceforge.net/), [deadbeef](https://deadbeef.sourceforge.io/), [groovebasin](https://github.com/andrewrk/groovebasin), [destroyer](https://github.com/mashaal/destroyer), [Ampache](https://ampache.org/) / [GitHub](https://github.com/ampache/ampache), [MusikCube](https://musikcube.com/), [Volumio](https://volumio.com/en/get-started), [Museeks](https://museeks.io/), [Swing Music](https://swingmusic.vercel.app/)
+[Roon](https://rutracker.org/forum/tracker.php?nm=roon), [iTunes](https://www.apple.com/itunes/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [OvoPlayer](http://ovoplayer.altervista.org/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Amarok](https://amarok.kde.org/), [Hysolid](https://www.hysolid.com/), [aidoru](https://github.com/ffwff/aidoru), [Modular Player](https://www.deviantart.com/jaxoriginals/art/ModularPlayers-v1-3-886577256), [goMP](https://github.com/aditya-K2/goMP), [NCurses](https://github.com/ncmpcpp/ncmpcpp), [XMPlay](https://www.un4seen.com/) (Chiptune-Friendly), [guayadeque](https://github.com/anonbeat/guayadeque), [musique](http://flavio.tordini.org/musique), [sonata](https://github.com/multani/sonata), [exaile](http://www.exaile.org/), [quodlibet](https://github.com/quodlibet/quodlibet/), [ario](http://ario-player.sourceforge.net/), [deadbeef](https://deadbeef.sourceforge.io/), [groovebasin](https://github.com/andrewrk/groovebasin), [destroyer](https://github.com/mashaal/destroyer), [Ampache](https://ampache.org/) / [GitHub](https://github.com/ampache/ampache), [MusikCube](https://musikcube.com/), [Volumio](https://volumio.com/en/get-started), [Museeks](https://museeks.io/), [Swing Music](https://swingmusic.vercel.app/), [Nora](https://github.com/Sandakan/Nora)
 
 **Self-Hosted**
 
@@ -1799,8 +1818,10 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Dr.Graph](https://drgraph.cf/)** / [API](https://drgraph.cf/api)
 * ⭐ **[disroot](https://bin.disroot.org/)** or [RIN Privatebin](https://privatebin.rinuploads.org/)
 * ⭐ **[PrivateBin](https://privatebin.info/directory/)**
+* ⭐ **[katb](https://katb.in/)**
+* ⭐ **[paste.sh](https://paste.sh)**
 
-[TextBin](https://textbin.xyz/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [pst.moe](https://pst.moe/), [Hastebin](https://hastebin.com/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [bin.idrix](https://bin.idrix.fr/),  [teknik](https://paste.teknik.io/), [ghostbin](https://ghostbin.me/) / [2](https://paste.bingner.com/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [cyberdrop bin](https://bin.cyberdrop.me/), [fssquad](https://share.fssquad.com/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [katb](https://katb.in/), [paaster](https://paaster.io/), [nopaste](https://nopaste.ml/), [pastery](https://www.pastery.net/), [privatebin](https://privatebin.net/), [pastebin.pl](https://pastebin.pl/, [paste.gg](https://paste.gg/), [bpa](https://bpa.st/), [0bin](https://0bin.net/), [pastehub](https://pastehub.net/), [bin](https://bin.gy/), [paste.fo](https://paste.fo/), [sprunge](http://sprunge.us/), [clbin](https://clbin.com/), [nekobin](https://nekobin.com/), [hasbin](https://hashb.in), [Defuse](https://defuse.ca/pastebin.htm), [gocatgo](https://github.com/vaaleyard/gocatgo), [zerobin](https://zerobin.net/), [paste.vaa.red](https://paste.vaa.red/), [Hasty Paste](https://github.com/enchant97/hasty-paste), [bucketex](https://bucketex.com/)
+[TextBin](https://textbin.xyz/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [pst.moe](https://pst.moe/), [Hastebin](https://hastebin.com/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [bin.idrix](https://bin.idrix.fr/),  [teknik](https://paste.teknik.io/), [ghostbin](https://ghostbin.me/) / [2](https://paste.bingner.com/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [cyberdrop bin](https://bin.cyberdrop.me/), [fssquad](https://share.fssquad.com/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [paaster](https://paaster.io/), [nopaste](https://nopaste.ml/), [pastery](https://www.pastery.net/), [privatebin](https://privatebin.net/), [pastebin.pl](https://pastebin.pl/, [paste.gg](https://paste.gg/), [bpa](https://bpa.st/), [0bin](https://0bin.net/), [pastehub](https://pastehub.net/), [bin](https://bin.gy/), [paste.fo](https://paste.fo/), [sprunge](http://sprunge.us/), [clbin](https://clbin.com/), [nekobin](https://nekobin.com/), [hasbin](https://hashb.in), [Defuse](https://defuse.ca/pastebin.htm), [gocatgo](https://github.com/vaaleyard/gocatgo), [zerobin](https://zerobin.net/), [paste.vaa.red](https://paste.vaa.red/), [Hasty Paste](https://github.com/enchant97/hasty-paste), [bucketex](https://bucketex.com/)
 
 ***
 
@@ -2010,7 +2031,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Privacy Guides
 
-[Surveillance Self-Defense](https://ssd.eff.org/), [Defensive Computing Checklist](https://defensivecomputingchecklist.com/), [Security In A Box](https://securityinabox.org/en/), [AvoidTheHack](https://avoidthehack.com/), [Eldritch Data](https://eldritchdata.neocities.org/), [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html), [The Hitchhiker’s Guide](https://raw.githubusercontent.com/Anon-Planet/thgtoa/master/guide.md)
+[Surveillance Self-Defense](https://ssd.eff.org/), [Defensive Computing Checklist](https://defensivecomputingchecklist.com/), [Security In A Box](https://securityinabox.org/en/), [AvoidTheHack](https://avoidthehack.com/), [Eldritch Data](https://eldritchdata.neocities.org/), [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html), [The Hitchhiker’s Guide](https://raw.githubusercontent.com/Anon-Planet/thgtoa/master/guide.md), [madaidans-insecurities](https://madaidans-insecurities.github.io/)
 
 ***
 
@@ -2769,7 +2790,6 @@ Add the following commands to a search to manually scrape each site.
 
 #### Telegram Audio Download
 
-* [Music Downloader](https://t.me/MusicDownloaderRobot) - FLAC 
 * [flacmusics](https://t.me/flacmusics/) - FLAC 
 * [flacmusicalbumfree](https://t.me/flacmusicalbumfree/) - FLAC 
 * [FLACSong](https://t.me/FLACSong) - FLAC 
@@ -3314,6 +3334,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 #### Web Scraping / Archiving Tools
 
 * ⭐ **[Web Scraping Tutorial](https://github.com/MorvanZhou/easy-scraping-tutorial)**
+* ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Archiving Tool
 * ⭐ **[Wayback Machine](http://web.archive.org/)**
 * ⭐ **Wayback Machine Tools** - [Downloader](https://github.com/hartator/wayback-machine-downloader), [2](https://github.com/jsvine/waybackpack) / [Addon](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wayback_machine_extension) / [Script](https://github.com/overcast07/wayback-machine-spn-scripts) / [Toolkit](https://github.com/wabarc/wayback)
 * ⭐ **[CachedView](https://cachedview.com/)**
