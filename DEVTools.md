@@ -415,6 +415,7 @@
 * [Rest Test Test](http://resttesttest.com/) - Test REST / CORS Services
 * [Dagu](https://github.com/yohamta/dagu) - WebUI Job Manager
 * [HeidiSQL](https://www.heidisql.com/) - SQL Manager
+* [QueryStorm](https://querystorm.com/) - SQL and .NET programming in Excel
 * [httpbin](https://httpbin.org/) or [Requestbin](https://requestbin.com/) - HTTP Request & Response Service
 * [Adminer](https://www.adminer.org/) - Database Manager
 * [RemoteMySQL](https://www.remotemysql.com/) - Remote MySQL Database
@@ -436,7 +437,7 @@
 * [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools)
 * [Offshore Hosting](https://pornwebmasters.com/adult-offshore-hosting-sites) / [Domain Registars](https://pornwebmasters.com/offshore-domain-registrars) - Offshore Hosting Sites / Domain Registars that Ignore DMCA
 * [Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools) - Domain Information Lookup Tools
-* [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [v3WhoIs](https://www.v3whois.com/), [IWantMyName](https://iwantmyname.com/), [atlaq](https://atlaq.com/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
+* [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [v3WhoIs](https://www.v3whois.com/), [IWantMyName](https://iwantmyname.com/), [expireddomains](https://www.expireddomains.net/), [atlaq](https://atlaq.com/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
 * [TinyDomain](https://tinydomain.net/) - Short Domain Suggestions
 * [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
 * [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
@@ -715,6 +716,7 @@ https://onlinegenerator.net/
 * [App ideas](https://github.com/florinpop17/app-ideas) - Collection of App Ideas
 * [Docker](https://www.docker.com/) - Build, Manage & Run Apps in Containers / [Images](https://linuxserver.io/)
 * [Dive](https://github.com/wagoodman/dive) - Analyze Docker Images
+* [Composerize](https://www.composerize.com/) - Convert Docker Commands to Docker Compose / [CLI](https://github.com/magicmark/composerize)
 * [Fastlane](https://fastlane.tools/) - App Development Automation / [GitHub](https://github.com/fastlane/fastlane)
 * [I wish there was app](https://iwishtherewas.app/) - Get App Ideas From Twitter
 * [Blisk](https://blisk.io/) - Cross-Device Testing
@@ -909,7 +911,7 @@ https://onlinegenerator.net/
 * [MarkdownGuide](https://www.markdownguide.org/) - Guide for Markdown (.md) 
 * [HedgeDoc](https://hedgedoc.envs.net/), [Abricotine](http://abricotine.brrd.fr/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/), [Apostrophe](https://github.com/ApostropheEditor/Apostrophe), [Glow](https://github.com/charmbracelet/glow), [MarkdownLivePreview](https://markdownlivepreview.com/), [Proton](https://steventhanna.github.io/proton/) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editors
 * [ShowMD](https://github.com/UtilityHotbar/showmd) - Beautify Markdown
-* [Lyx](https://www.lyx.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors / [Guide](https://www.learnlatex.org/)
+* [Lyx](https://www.lyx.org/), [TeXStudio](https://texstudio.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors / [Guide](https://www.learnlatex.org/)
 * [Table Magic](https://stevecat.net/table-magic/) or [Markdown Convert](https://markdown-convert.com/) - Table to Markdown Converters
 * [Clipboard2Markdown](https://euangoddard.github.io/clipboard2markdown/) - Text to Markdown Converter
 * [Markdown To HTML](https://markdowntohtml.com/) - Markdown to HTML Converter
@@ -1054,8 +1056,8 @@ https://onlinegenerator.net/
 
 # ► Programming / Coding 
 
-* ⭐ **[Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_code_editors)** - Code Editing Apps & Sites
 * ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists 
+* ⭐ **[Shell GPT](https://github.com/TheR1D/shell_gpt)** - Coding AI
 * [WebdevHome](https://webdevhome.github.io/), [Charm](https://charm.sh/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - Programming Tool Indexes
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Programming Site Index 
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Web Scraping Tool Index
@@ -1066,7 +1068,6 @@ https://onlinegenerator.net/
 * [Awesome Programming](https://github.com/hardikvasa/awesome-programming) - Programming Resources 
 * [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality/wiki) - Software Quality Testing Tools
 * [Node-RED](https://nodered.org/) - Low-Code Programming for Event-Driven Apps
-* [Package Control](https://packagecontrol.io/) - Code Editor Package Manager
 * [Commands.dev](https://www.commands.dev/) - Terminal Commands
 * [Awesome Regex](https://github.com/aloisdg/awesome-regex) - Regex Resources
 * [Regex101](https://regex101.com/) - Regex Editor / Debugger
@@ -1076,7 +1077,6 @@ https://onlinegenerator.net/
 * [Algorithm Visualizer](https://algorithm-visualizer.org/), [Sorting Algorithms Visuallizer](https://sadanandpai.github.io/sorting-visualizer/dist/) / [GitHub](https://github.com/sadanandpai/sorting-visualizer) or [mermaid](https://mermaid-js.github.io/mermaid/) - Visualize Code Algorithms 
 * [Code2Flow](https://app.code2flow.com/) or [Flowchart Generator](https://github.com/MugilanGN/Flowchart-Generator) - Code to Flowchart Converter
 * [UMLet](https://www.umlet.com/) - Create UML Diagrams
-* [Vim Latex](http://vim-latex.sourceforge.net/) - Latex Style Vim Editor
 * [WAPM](https://wapm.io/) - WebAssembly Apps / Libraries
 * [CarlosAG](https://www.carlosag.net/) - Coding Tools
 * [CodePad](http://codepad.org/) or [CodeChef](https://www.codechef.com/ide) - Online Compilers
@@ -1101,23 +1101,12 @@ https://onlinegenerator.net/
 * [BrickHub](https://brickhub.dev/) - Share Code Brick Templates
 * [ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate) - Modifiable Shellcode Template 
 * [Spork](https://github.com/atek-cloud/spork) - P2P Sockets CLI / [Discord](https://discord.gg/UUCVrFYksv)
-* Vim Tools - [Tree Explorer](https://github.com/preservim/nerdtree) / [Instant RST Preview](https://github.com/gu-fan/InstantRst) / [Config](https://github.com/ChristianChiarulli/LunarVim) 
-* [Mitosis](https://github.com/BuilderIO/mitosis) - Auto-Compile Components
-* [Vim Plug](https://github.com/junegunn/vim-plug), [Vim Pathogen](https://github.com/tpope/vim-pathogen), [Dein](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
-* [vim-markdown](https://github.com/plasticboy/vim-markdown) - Vim Markdown Plugin
-* [VimAwesome](https://vimawesome.com/) - Vim Plugins
-* [NeovimCraft](https://neovimcraft.com/) - Neovim Plugins
-* [NvChad](https://github.com/NvChad/NvChad) - Neovim CLI 
-* [NeoVide](https://github.com/neovide/neovide) - Neovim Client
-* [DroidVim](https://github.com/shiftrot/droidvim) - Neovim APK
-* [Bootstrap Editor](https://vim-bootstrap.com/) - Vim / Neovim Config Generator Bootstrap Editor
 * [Goyo.vim](https://github.com/junegunn/goyo.vim) - Distraction-free writing in Vim
 * [nvim](https://github.com/neoclide/coc.nvim) - Neovim LSP Autocompletion coc.
 * [Markdown Preview](https://github.com/iamcco/markdown-preview.nvim) - NeoVim Markdown Preview
 * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - Vim Code-Completion Engine
 * [VimColorSchemes](https://vimcolorschemes.com/) - Vim Color Schemes
 * [Gruvbox](https://github.com/morhetz/gruvbox) - Retro Vim Color Sheme / [Wallpapers](https://gruvbox-wallpapers.onrender.com/)
-* [OpenChakra](https://openchakra.app/) - Visual Editor & Code Generator for React / [GitHub](https://github.com/premieroctet/openchakra)
 * [Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) - Visual Studio Code Extensions 
 * [awesome-kotlin](https://kotlin.link/) - Kotlin Resource Index / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
 * [Diskord](https://gitlab.com/diskord/diskord) - Kotlin Client for Discord
@@ -1151,13 +1140,13 @@ https://onlinegenerator.net/
 * [tabnine](https://www.tabnine.com/), [CodeWhisperer](https://aws.amazon.com/codewhisperer/) or [Copilot](https://copilot.github.com/) / [Docs](https://github.com/github/copilot-docs) - AI Assisted Code Completion / Suggestions
 * [FauxPilot](https://github.com/moyix/fauxpilot) - Self-Hosted Copilot Server
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Check for Edge Case Inputs
-* [editorcornfig](http://editorconfig.org/) - Maintain consistent code styles across editors
 * [CodeCapsules](https://codecapsules.io/) - Code Deployment
 * [overmind](https://github.com/DarthSim/overmind) or [foreman](https://github.com/ddollar/foreman) - Process Managers
 * [cpp.sh](http://cpp.sh/) - Online C++ Compiler
 * [CP-Algorithms](https://cp-algorithms.com/) - C++ Algorithms
 * [The Algorithms](https://the-algorithms.com/) - Algorithms Index
 * [Clang](https://clang.llvm.org/) - C Language Family Frontend
+* [RoslynPad](https://roslynpad.net/) - C# Editor
 * [SharpSystemTriggers](https://github.com/cube0x0/SharpSystemTriggers) - C# Remote Authentication Triggers
 * [Carbon](https://github.com/carbon-language/carbon-lang) - Carbon Language Repository
 * [GCC](https://gcc.gnu.org/) - GNU Compiler Frontends
@@ -1169,7 +1158,6 @@ https://onlinegenerator.net/
 * [searchcode](http://searchcode.com/) or [PublicWWW](http://publicwww.com/) - Source Code Search
 * [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://www.code-projects.org/), [Codastro](https://codeastro.com/), [Kashipara](https://www.kashipara.com/) or [ItSourceCode](https://www.itsourcecode.com/) - Source Code Projects
 * [magic-string](https://github.com/Rich-Harris/magic-string) - String Editor
-* [SciTE](https://www.scintilla.org/SciTE.html) - Source Code Editor for Win32 and X
 * [CodeGrepper](https://www.codegrepper.com/) - Code Search Extension
 * [ShortCode](https://shortcode.dev/), [Google Code Archive](https://code.google.com/archive/), [CodeList](https://www.codelist.cc/) or [bl.ocks](https://bl.ocks.org/) - Script / Code Indexes
 * [MoonScript](https://moonscript.org/) - Dynamic Scripting Language
@@ -1179,7 +1167,6 @@ https://onlinegenerator.net/
 * [thefuck](https://github.com/nvbn/thefuck) - Corrects Previous Console Command
 * [DelphiTools](https://www.delphitools.info/) - Code Profiler / Delphi Tools
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engine
-* [Dracula](https://draculatheme.com/) - Dark Theme for Code Editors / Terminal Emulators 
 * [Zero Dark Matrix](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - Chrome Devtools Dark Theme 
 * [Tantiny](https://github.com/baygeldin/tantiny) - Full-Text Ruby Search
 * [GNU Octave](https://www.gnu.org/software/octave/) - Scientific Programming Language
@@ -1241,6 +1228,46 @@ https://onlinegenerator.net/
 
 ***
 
+## ▷ IDEs / Code Editors
+
+* ⭐ **[Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_code_editors)** - Code Editing Apps / Sites
+* [Apache NetBeans](https://netbeans.apache.org/) - Cross Platform IDE
+* [KDevelop](https://www.kdevelop.org/) - Cross Platform IDE
+* [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross Platform IDE
+* [Thonny](https://thonny.org/) - Python IDE
+* [SciTE](https://www.scintilla.org/SciTE.html) - Source Code Editor for Win32 and X
+* [OpenChakra](https://openchakra.app/) - Visual Editor & Code Generator for React / [GitHub](https://github.com/premieroctet/openchakra)
+* [Package Control](https://packagecontrol.io/) - Code Editor Package Manager
+* [editorcornfig](http://editorconfig.org/) - Maintain consistent code styles across editors
+* [Dracula](https://draculatheme.com/) - Dark Theme for Code Editors / Terminal Emulators
+
+***
+
+## ▷ Cloud IDEs / Collab
+
+* ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [Deta](https://www.deta.sh/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [FireMonkeyX](http://www.firemonkeyx.com/), [Cloud9](https://aws.amazon.com/cloud9/) or [Glitch](https://glitch.com/) / [GitHub](https://github.com/m3o/m3o) - Cloud IDE
+* ⭐ **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - Cloud IDE / VSCode 
+* [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
+* [colab alive](https://github.com/sobuj53/colabAlive) - Keep Colab Open
+* [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - Cloud Platform Index
+* [Openshift](https://che.openshift.io/) - Cloud IDE / Eclipse Che 
+* [Arduino](https://cloud.arduino.cc/) - Cloud IDE for Arduino
+* [Blazepack](https://github.com/ameerthehacker/blazepack) - Self-Hosted Development Environment
+* [bloop](https://bloop.ai/) - IDE AI Suggestion Extension
+* [glot.io](https://glot.io/) - Pastebin with Runnable Snippets, API & Compiler
+* [Fig](https://fig.io/) - IDE-Style Autocomplete for Terminal
+* [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [IDE One](https://www.ideone.com/), [GodBolt](https://godbolt.org/) or [Wandbox](https://wandbox.org/) - Compiler Explorers
+* [DogBolt](https://dogbolt.org/) or [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorers
+* [Notebooks.azure](https://notebooks.azure.com/) - Access Jupyter Notebooks
+* [Jupyter Server](https://github.com/jupyter-server/jupyter_server) - Jupyter Services / APIs
+* [CoCalc](https://cocalc.com/) - Virtual online workspace
+* [CodePen](https://codepen.io/), [Microsoft 365 E5](https://rentry.co/E5Register), [Web Maker](https://webmaker.app/) or [Liveweave](https://liveweave.com/) - Code Sandbox
+* [Platform.uno](https://platform.uno/) - App Framework
+* [tio.run](https://tio.run/) - Programming Language Interpreters
+* [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
+
+***
+
 ## ▷ API Tools
 
 * [API List](https://apilist.fun/), [Public APIs](https://publicapis.dev/), [APIsList](https://apislist.com/), [API House](https://apihouse.vercel.app/), [Awesome APIs](https://github.com/TonnyL/Awesome_APIs), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) - API Indexes
@@ -1284,39 +1311,3 @@ https://onlinegenerator.net/
 * [ipinfo.io](https://ipinfo.io/) - IP Data API
 * [TheCatAPI](https://thecatapi.com/) - Cat Rating API
 * [SWAPI](https://pipedream.com/apps/swapi) - Star Wars APIs
-
-***
-
-## ▷ Cloud IDEs / Collab
-
-* ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [Deta](https://www.deta.sh/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [FireMonkeyX](http://www.firemonkeyx.com/), [Cloud9](https://aws.amazon.com/cloud9/) or [Glitch](https://glitch.com/) / [GitHub](https://github.com/m3o/m3o) - Cloud IDE
-* ⭐ **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - Cloud IDE / VSCode 
-* [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
-* [colab alive](https://github.com/sobuj53/colabAlive) - Keep Colab Open
-* [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - Cloud Platform Index
-* [Openshift](https://che.openshift.io/) - Cloud IDE / Eclipse Che 
-* [Arduino](https://cloud.arduino.cc/) - Cloud IDE for Arduino
-* [Blazepack](https://github.com/ameerthehacker/blazepack) - Self-Hosted Development Environment
-* [bloop](https://bloop.ai/) - IDE AI Suggestion Extension
-* [glot.io](https://glot.io/) - Pastebin with Runnable Snippets, API & Compiler
-* [Fig](https://fig.io/) - IDE-Style Autocomplete for Terminal
-* [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [IDE One](https://www.ideone.com/), [GodBolt](https://godbolt.org/) or [Wandbox](https://wandbox.org/) - Compiler Explorers
-* [DogBolt](https://dogbolt.org/) or [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorers
-* [Notebooks.azure](https://notebooks.azure.com/) - Access Jupyter Notebooks
-* [Jupyter Server](https://github.com/jupyter-server/jupyter_server) - Jupyter Services / APIs
-* [CoCalc](https://cocalc.com/) - Virtual online workspace
-* [CodePen](https://codepen.io/), [Microsoft 365 E5](https://rentry.co/E5Register), [Web Maker](https://webmaker.app/) or [Liveweave](https://liveweave.com/) - Code Sandbox
-* [Platform.uno](https://platform.uno/) - App Framework
-* [tio.run](https://tio.run/) - Programming Language Interpreters
-* [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
-
-***
-
-## ▷ IDEs / Code Editors
-
-* ⭐ **[VSCodium](https://vscodium.com/)** - Code Editor
-* ⭐ **[VS Code Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vscode_tools)** - Tools / Themes for VS Code
-* [Apache NetBeans](https://netbeans.apache.org/) - Cross Platform IDE
-* [KDevelop](https://www.kdevelop.org/) - Cross Platform IDE
-* [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross Platform IDE
-* [Thonny](https://thonny.org/) - Python IDE
