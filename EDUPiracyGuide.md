@@ -214,7 +214,7 @@
 * [firerip](https://github.com/lem6ns/firerip) - Fireship.io Course Grabber / [Script](https://greasyfork.org/en/scripts/455330)
 
 ## ▷ Documentaries
-
+* ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)**
 * [Documentary.su](https://documentary.su/)
 * [Docuwiki](https://docuwiki.net/) - [Emule required](https://www.emule-project.net/)
 * [Open-Video](https://open-video.org/)
