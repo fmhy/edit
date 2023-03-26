@@ -113,7 +113,7 @@
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) - Rust Programming Guidebook
 * [JavaScript.info](https://javascript.info/) - JavaScript Guide 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Javascript Learning Books
-* [EloquentJavascript](https://eloquentjavascript.net/), [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript), [FunJavascript](https://fun-javascript-projects.com/), [LearnCS](https://www.learncs.online/lessons), [Java5cript](https://www.java5cript.com/) or [Grasshopper](https://grasshopper.app/) - Learn Javascript
+* [EloquentJavascript](https://eloquentjavascript.net/), [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript), [FunJavascript](https://fun-javascript-projects.com/), [LearnCS](https://www.learncs.online/lessons), [Java5cript](https://www.java5cript.com/), [Javascript Today](https://blog.javascripttoday.com/) or [Grasshopper](https://grasshopper.app/) - Learn Javascript
 * [JavaScriptQuiz](https://javascriptquiz.com/) - JavaScript Quiz
 * [Javascript Questions](https://github.com/lydiahallie/javascript-questions) - Javascript Questions for Practice
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - Useful JavaScript Concepts
@@ -145,6 +145,7 @@
 * [HackersFriend](https://www.hackersfriend.com/tutorials/) - Competitive Programming Tutorials
 * [algonds](https://github.com/MaciejWas/algonds) - Competitive Programming Practice
 * [Data Engineering Practice Problems](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice 
+* [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering - Reverse Engineering Course 
 * [High Assurance Rust](https://highassurance.rs/) - Software Development Guide
 * [The Linux Kernel](https://www.kernel.org/doc/html/latest/) - Linux Kernel Development Guides / [Archives](https://kernel.org/)
 * [Workbench](https://github.com/sonnyp/Workbench) - Learn / Experiment with Gnome
@@ -212,7 +213,6 @@
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book 
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
 * [Slip](https://www.slip.so/) - Build Programming Courses
-* [Javascript Today](https://blog.javascripttoday.com/) - JavaScript Blog
 
 ***
 
@@ -444,7 +444,7 @@
 * [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
 * [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
 * [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
-* [NetLib.re](http://netlib.re/), [takingnames](https://takingnames.io/blog/instant-subdomains) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains 
+* [takingnames](https://takingnames.io/blog/instant-subdomains) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains 
 * [TheDev](https://thedev.id/) or [Dev.page](https://dev.page/) - Free Developer Subdomains
 * [redirect.name](https://redirect.name/) - URL Forwarding
 * [StatPing](https://github.com/statping/statping), [checkthe.website](https://checkthe.website/), [Better Uptime](https://betteruptime.com/), [CheckServer](https://check-host.net/), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [AreWeDown?](https://github.com/shukriadams/arewedown), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - Site Uptime Monitors
@@ -707,9 +707,9 @@ https://onlinegenerator.net/
 * ⭐ **[AndroidRepo](https://androidrepo.com/)** - Android App Development Resources
 * ⭐ **[Awesome iOS](https://github.com/vsouza/awesome-ios)** - iOS App Development Resources
 * ⭐ **[Tizen](https://www.tizen.org/)** - Android TV App Creator
+* ⭐ **[XDA](https://forum.xda-developers.com/)** - App Development Forum
 * [SupaBase](https://supabase.com/), [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Dokku](https://dokku.com/), [AndroidIDE](https://androidide.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter), [2](https://github.com/leanflutter/awesome-flutter-desktop) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators
 * [StreamLit](https://streamlit.io/) - Data Science App Creator
-* [XDA](https://forum.xda-developers.com/) - App Development Forum
 * [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - App Development Platform / [GitHub](https://github.com/xamarin)
 * [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
 * [MemberPrism](http://r.ftqq.com/MemberPrism2/) - Member-Only App Builder
@@ -745,13 +745,10 @@ https://onlinegenerator.net/
 * [Sketchbook Compose](https://github.com/GetStream/sketchbook-compose) - Jetpack Sketchbook
 * [androidx](https://github.com/androidx/androidx) - Android Development Environment for Jetpack Extensions
 * [XDGuru](https://www.xdguru.com/) - Adobe XD Resources
-* [Python to APK](https://github.com/Spidy20/Python_To_APK) - Convert Python Code to APK
 * [GoNative](https://gonative.io/) - Convert Websites to Mobile Apps
-* [Flutter Smooth](https://github.com/fzyzcjy/flutter_smooth) - Achieve Smooth Scrolling on Any App
 * [Media Kit](https://github.com/alexmercerind/media_kit) - Video / Audio Library for Flutter and Dart
-* [NukeUI](https://github.com/kean/NukeUI) - Lazy Image Loading for Apple Platforms
 * [Kali NetHunter](https://store.nethunter.com/en/) - Penetration Testing / Forensics Apps
-* [MobileApp-Pentest-Cheatsheet](https://github.com/fuzz-security/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
+* [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
 * [Uiautomator2](https://github.com/openatx/uiautomator2) or [Appium](http://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
 * [SigNoz](https://signoz.io/) - Detect App Issues
 * [MSTG](https://github.com/OWASP/owasp-mstg) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
@@ -867,7 +864,7 @@ https://onlinegenerator.net/
 * [HTML Compressor](https://htmlcompressor.com/compressor/)
 * [HTML Notepad](https://html-notepad.com/) or [HTML Sandbox](https://apps.apple.com/us/app/html-sandbox-2/id6443393029) - HTML Editors
 * [HTML + CSS Extract](https://chrome.google.com/webstore/detail/html-%20-css-extract/bkahkocegdkgicmmfpkoeipjmjaeohfn) - HTML / CSS Extractor
-* [TryIt HTML](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro), [CodeTester](http://codetester.org/), [HTML-Online](https://html-online.com/editor/), [pell](https://jaredreich.com/pell/), [html.cafe](https://html.cafe/) or [jsTester](https://www.cs.iupui.edu/~ajharris/webprog/jsTester.html) - Online HTML Editors
+* [TryIt HTML](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro), [HTML-Online](https://html-online.com/editor/), [pell](https://jaredreich.com/pell/), [html.cafe](https://html.cafe/) or [jsTester](https://www.cs.iupui.edu/~ajharris/webprog/jsTester.html) - Online HTML Editors
 * [GrapeJS](https://grapesjs.com/) - HTML Template Editor
 * [Broken Link Checker](https://github.com/stevenvachon/broken-link-checker) - Find Broken Links in HTML
 * [Markup Validation Service](https://validator.w3.org/) - Validate Your Markup Language Structure
