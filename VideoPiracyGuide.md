@@ -828,6 +828,7 @@
 * ⭐ **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
 * ⭐ **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)**
 * ⭐ **[1337x Movies](https://1337x.to/top-100-movies)** - Movies / TV / Anime
+* ⭐ **[RARBG Movies](https://rarbg.to/torrents.php?category=movies)** - Movies / TV / Anime
 * ⭐ **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - ctrl+f and type "video"
 * ⭐ **[EZTV](https://eztv.re/)** - TV / Anime / Do [NOT](https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) Make Account 
 * [MSearch](https://msearch.now.sh/), [2](https://msearch.vercel.app/) - Movies / TV
