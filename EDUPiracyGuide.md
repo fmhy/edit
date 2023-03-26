@@ -627,6 +627,7 @@ Simulator
 ## ▷ English
 
 * ⭐ **[Many Things](http://www.manythings.org/)** - ESL Resources
+* [The Internet TESL Journal](http://iteslj.org/) - Resources for EFL and ESL Teachers
 * [E-books_432](https://github.com/nbats/FMHYedit/blob/main/base64.md#e-books_432) - Vocabulary & Pronunciation Books
 * [ESOL](https://www.esolcourses.com/) - English Learning Resources
 * [Learn English Online](http://www.learn-english-online.org/)
@@ -656,7 +657,7 @@ Simulator
 
 * [AnimeLon](https://animelon.com/) - Streaming / Anime / Learn Japanese
 * [Nihongo](https://nihongo-e-na.com/eng/), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/), [AnimeCards](https://animecards.site/), [Gakuu](https://web.archive.org/web/20201113022338/http://gakuu.com/resources/) or [Itzazureneko](https://itazuraneko.neocities.org/learn/guide.html) - Japanese Learning Resources
-* [TheMoeWay](https://learnjapanese.moe/) / [Discord](https://discord.gg/nhqjydaR8j), [Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/), [NativShark](https://www.nativshark.com/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese
+* [TheMoeWay](https://learnjapanese.moe/) / [Discord](https://discord.gg/nhqjydaR8j), [Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/), [IMABI](https://imabi.net/), [NativShark](https://www.nativshark.com/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
 * [jidoujisho](https://github.com/lrorpilla/jidoujisho) - Learn Japanese via Books
@@ -666,7 +667,7 @@ Simulator
 * [BilingualManga](https://bilingualmanga.net/) - Learn Japanese with Manga
 * [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - Japanese Practice Material
 * [Learn Japanese Grammar](https://kimallen.sheepdogdesign.net/) - Basic Principles of Japanese Grammar
-* [Jotoba](https://jotoba.de/), [Fujiten](https://github.com/odrevet/fujiten), [core6000](https://core6000.neocities.org/), [Tagaini](https://www.tagaini.net/), [Jisho](https://jisho.org/), [Massif](https://github.com/rsimmons/massif), [‎Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380), [JapBase](https://japbase.neocities.org/) or [rtk-search](https://hochanh.github.io/rtk/) - Japanese Dictionaries / Phrases
+* [Jotoba](https://jotoba.de/), [Fujiten](https://github.com/odrevet/fujiten), [core6000](https://core6000.neocities.org/), [Tagaini](https://www.tagaini.net/), [Takoboto](https://takoboto.jp/), [Jisho](https://jisho.org/), [Massif](https://github.com/rsimmons/massif), [‎Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380), [JapBase](https://japbase.neocities.org/), [Weblio](https://ejje.weblio.jp/), [Goo Dictionary](https://dictionary.goo.ne.jp/) or [rtk-search](https://hochanh.github.io/rtk/) - Japanese Dictionaries / Phrases
 * [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - Japanese Accent Dictionary
 * [Japanese pitch accent resources](https://github.com/olety/japanese-pitch-accent-resources) - Japanese Accent Resources
 * [ichi.moe](https://ichi.moe/) - Japanese to English Phrase Translation
@@ -736,6 +737,9 @@ Simulator
 * [Urdu Resource List](https://docs.google.com/document/d/1GRTK_E0YGybMNYZjFToM40sOHNkR1NJXc_dL8HW2Q_0/) or [UrduNotes](https://urdunotes.com/) - Urdu Learning Resources
 * [Urdupod101](https://www.urdupod101.com/blog/2021/03/18/urdu-grammar-overview/) - Urdu Grammar Overview / [Video](https://youtu.be/X5J_kXigPWE)
 * [Urdu Grammar](http://ilovelanguages.org/urdu_grammar.php) - Urdu Grammar Lessons
+* [Learn Sanskrit](https://www.learnsanskrit.org/), [Sanskrit Studio](https://sanskritstudio.wordpress.com/) - Sanskrit Lessons and Tools
+* [UBC Sanskrit Learning Tools](https://ubcsanskrit.ca/) - UBC Sanskrit Lessons
+* [Sanskrit Subreddit](https://www.reddit.com/r/sanskrit/) / [Resource Compilation Post](https://www.reddit.com/r/sanskrit/comments/kx3xyu/sanskrit_resources_compilation_post/) - Sanskrit Resources / Discussion
 
 ***
 
