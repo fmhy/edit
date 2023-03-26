@@ -1433,25 +1433,25 @@
 
 ## ▷ Downloading 
 
-* ⭐ **[4pda](https://4pda.ru/forum/)** - Android / iOS
-* [dchublist](https://dchublist.ru/hubs/) - Warez / List
+* ⭐ **[4PDA](https://4pda.ru/forum/)** - Android / iOS
+* [DC Hublist](https://dchublist.ru/hubs/) - Warez / List
 * [rublacklist](https://reestr.rublacklist.net/?status=1&gov=4&paginate_by=50), [2](https://reestr.rublacklist.net/?status=1&gov=24&paginate_by=50) - Warez list 
-* [cwer](http://cwer.ru/) - Video / Audio / Software / Games / Android  
+* [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio / Software / Games / Android  
 * [rsload](https://rsload.net/) - Software / Android / Games
-* [alpha-ag](https://www.alpha-ag.ru/) - Software / Android / Games
+* [Alpha-AG](https://www.alpha-ag.ru/) - Software / Android / Games
 * [2BakSa](http://2baksa.ws/) - Video / Audio / Games / Software / Books 
-* [Kinogo](https://kinogo.la/), [2](https://kinogo.biz/), [3](https://kinogo-net.org/) - Movies / TV / Anime / [Telegram](https://t.me/kinogoby)
-* [allmults](https://allmults.org/) - Cartoons
-* [cybershara](https://cybershara.ru/) - PSP ROMs
-* [Tancpol](https://tancpol.net/) - MP3
+* [KinoGo](https://kinogo.la/), [2](zerkalo.kinogo.lu) - Movies / TV / Anime / [Telegram](https://t.me/kinogoby)
+* [Allmults](https://allmults.org/) - Cartoons
+* [CyberShara](https://cybershara.ru/) - PSP ROMs
+* [tancpol](https://tancpol.net/) - MP3
 * [z2.fm](https://z2.fm/) - MP3
-* [kinosoundtrack](https://www.kinosoundtrack.com/) - MP3
-* [Shazam Music](https://t.me/shazam_music_uz) - MP3
+* [KinoSoundtrack](https://www.kinosoundtrack.com/) - MP3
+* [Shazam music](https://t.me/shazam_music_uz) - MP3
 * [Musify](https://musify.club/) - MP3
 * [MetalArea](https://metalarea.org/) - Metal / MP3  
 * [MDCORE](https://vk.com/mdcore) - Metal / MP3
 * [MDROCK](https://vk.com/mdrock) - Rock / MP3
-* [KinoMuzic](https://kinomuzic.ucoz.ru/) - Books / Soundtracks
+* [KinoMuzic](https://kinomuzic.ru/) - Books / Soundtracks
 * [androeed](https://www.androeed.ru/) - Android
 * [EZMod](https://ezmod.ru/) - Android
 * [Top-Android](https://top-androidd.ru/) - Android
