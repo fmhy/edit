@@ -804,7 +804,7 @@
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Manually Updated](http://ps3.aldostools.org/updates.html) - Update PS3 Games
 * [PSXDev](https://www.psxdev.net/) - PS1 Development
 * [MemcardRex](http://shendosoft.blogspot.com/2014/01/memcardrex-18-released.html?m=1) - PS1 Save Transfer Tools / [Archive](https://archive.org/details/MemcardRex1.8)
-* [Brewology](https://psp.brewology.com/) - PSP Homebrew Resources
+* [Brewology](https://psp.brewology.com/) or [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) / [Discord](https://discord.gg/6Udcx2w) - PSP Homebrew Resources
 * [Awesome PlayStation Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita) - PS Vita Resources
 * [Vita Volume](https://gitlab.com/sinful-butterfly/vita-volume) - Set PS Vita Volume without Buttons
 * [Tinfoil](https://tinfoil.io/) - Switch Title Manager / File Browser 
@@ -1266,7 +1266,7 @@
 
 ## ▷ Minecraft Tools
 
-* ⭐ **[Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers)** 
+* ⭐ **[Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers)** - F2P Minecraft Clients / [Beta Clients](https://betacraft.uk/) / [Bedrock / Java](https://redd.it/xj5w9m)
 * ⭐ **[MCModdingGuide](https://rentry.org/MCModdingGuide)** - Minecraft Modding Guide 
 * ⭐ **[Minecraft Optimization Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_optimization_mods)** - Improve Minecrafts Performance
 * [Awesome Minecraft](https://github.com/bs-community/awesome-minecraft) - Minecraft Resource Index
