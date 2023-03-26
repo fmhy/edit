@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/czMkrYx.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/yNeoXCG.png)** - For mobile users
 
 ***
 ***
@@ -33,28 +33,6 @@
 * [Kajiwoto](https://kajiwoto.com/) - AI Builder
 
 ***
-***
-
-# ► AI Indexes
-
-* ⭐ **[Futurepedia](https://www.futurepedia.io/)** - AI Directory
-* ⭐ **[AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR)** - AI Directory
-* ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/free-ai-tools)** - AI Directory
-* ⭐ **[Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - AI Resources / Learning
-* [AISearchTool](https://www.aisearchtool.com/) - AI Search Tool
-* [Favird](https://favird.com/) - AI Directory
-* [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
-* [ToolScoutAI](https://toolscout.ai/) - AI Directory
-* [AI Creator Tools](https://library.phygital.plus/) - AI Directory
-* [topai](https://topai.tools/) - AI Directory
-* [AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - AI Directory
-* [RunawayML](https://runwayml.com/) - Browser Based AI
-* [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - AI Experiments
-
-***
-***
-
-# ► AI Tools
 
 ## ▷ ChatGPT Tools
 
@@ -65,11 +43,11 @@
 * [ChatGPT Desktop](https://github.com/sonnylazuardi/chatgpt-desktop) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
 * [Assistant CLI](https://github.com/diciaup/assistant-cli), [ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) or [openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt) - TUIs and CLIs
 * [pyChatGPT](https://github.com/terry3041/pyChatGPT) - Python App
-* [GPTPrompter](https://www.gptprompter.com/) - ChatGPT In Browser
+* [GPTPrompter](https://www.gptprompter.com/) or [ChatGPTBox](https://github.com/josStorer/chatGPTBox) - ChatGPT In Browser
 * [WeChat ChatGPT](https://github.com/fuergaosi233/wechat-chatgpt) - ChatGPT for WeChat
 * [ChatGPT Advanced](https://github.com/qunash/chatgpt-advanced) - Add Web Results to ChatGPT
 * [ChatGPT4Google](https://chatgpt4google.com/), [ChatGPTGoogle](https://github.com/wong2/chatgpt-google-extension) or [ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Add ChatGPT to Web Results
-* [ShareGPT](https://sharegpt.com/) - Export Chats
+* [ShareGPT](https://sharegpt.com/) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats 
 * [ChatGPT Notification](https://chrome.google.com/webstore/detail/chatgpt-notification/eklmiefkbieejjjhmpjdllphmcjdndin) - Receive Notifications
 * [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear Chats
 * [EditGPT](https://www.editgpt.app/) - Proofread Chats
@@ -89,9 +67,28 @@
 * [flowgpt](https://flowgpt.com/) - Prompt Directory
 * [jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html) - Prompt Directory
 * [botprompts](https://botprompts.net/) - Fun Prompts
-* [GPT Jailbreak](https://rentry.co/gptjailbreak) - DAN / John Prompts
+* [DAN](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516) or [GPT Jailbreak](https://rentry.co/gptjailbreak) - DAN / John Prompts
 * [jailbreakchat](https://www.jailbreakchat.com/) - Prompt Ratings / Voting
 * [ChatGPT-History](https://github.com/benf2004/ChatGPT-History) - Prompt Management Extension 
+
+***
+***
+
+# ► AI Indexes
+
+* ⭐ **[Futurepedia](https://www.futurepedia.io/)** - AI Directory
+* ⭐ **[AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR)** - AI Directory
+* ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/free-ai-tools)** - AI Directory
+* ⭐ **[Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - AI Resources / Learning
+* [AISearchTool](https://www.aisearchtool.com/) - AI Search Tool
+* [Favird](https://favird.com/) - AI Directory
+* [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
+* [ToolScoutAI](https://toolscout.ai/) - AI Directory
+* [AI Creator Tools](https://library.phygital.plus/) - AI Directory
+* [topai](https://topai.tools/) - AI Directory
+* [AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - AI Directory
+* [RunawayML](https://runwayml.com/) - Browser Based AI
+* [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - AI Experiments
 
 ***
 ***
@@ -127,6 +124,26 @@
 
 ***
 
+## ▷ [Text Rephrashing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing)
+
+***
+
+## ▷ [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator)
+
+***
+
+## ▷ [Grammar Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)
+
+***
+
+## ▷ [Text to Speech](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_to_speech)
+
+***
+
+## ▷ [Plagiarism Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection)
+
+***
+
 ## ▷ AI Text Detection
 
 * [GLTR](http://gltr.io/dist/index.html)
@@ -149,6 +166,7 @@
 * ⭐ **[MagicBrush](https://www.magicbru.sh/)**, [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - AI Image Transformers
 * ⭐ **[SD WebUI](https://github.com/cmdr2/stable-diffusion-ui)** / [2](https://github.com/neonsecret/stable-diffusion-webui) / [3](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [3](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion WebUI / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Colab](https://github.com/pinilpypinilpy/sd-webui-colab-simplified) / [GUI](https://github.com/comfyanonymous/ComfyUI)
 * ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - List of Stable Diffusion Models
+* ⭐ **[PromptMania](https://promptomania.com/)** - AI Image Prompt Generator
 * ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** - Determine Likely Used Image Prompts
 * ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
@@ -187,6 +205,14 @@
 
 ***
 
+## ▷ [Image Colorization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_colorization)
+
+***
+
+## ▷ [Image Upscaling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_upscalers)
+
+***
+
 ## ▷ Generator Guides
 
 * ⭐ **[Voldy](https://rentry.org/voldy)** - Stable Diffusion Guide
@@ -201,3 +227,4 @@
 * [drfar](https://rentry.org/drfar) - InPainting Guide
 * [Gaugan2 Guide](https://youtu.be/r5P9-zOfWyE) - Gaugan2 Video Guide
 * [Midjourney Guide](https://marigoldguide.notion.site/marigoldguide/Visual-Guide-to-Midjourney-settings-using-mostly-Astronauts-2ae1d8bb125f46e2be9886119c36ecf0) - Midjourney Guide / [Cheatsheet](https://arjenharris.notion.site/arjenharris/Midjourney-Cheat-Sheet-271922c6869549898ead33eaf79517fa)
+* [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english), [ora_train](https://rentry.org/lora_train), [lora-training-science](https://rentry.org/lora-training-science) or [The Other](https://rentry.org/59xed3) - LoRA SD Guides
