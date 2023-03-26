@@ -166,7 +166,6 @@
 * [TorrentSeeker](https://torrentseeker.com)
 * [Torrentzeta](https://www.torrentzeta.com/)
 * [Veoble](http://veoble.com/torrent/)
-* [BitCQ](https://bitcq.com/)
 * [TorrentSearchRobot](https://t.me/TorrentSearchRoBot) - Telegram Torrent Search
 * [Torrents.csv](https://torrents-csv.ml/#/) - Torrent CSV Search
 * [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Magnet Web App Search
