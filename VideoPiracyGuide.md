@@ -343,7 +343,7 @@
 * [GoGoAnime](https://gogoanime.ee/), [2](https://gogoanime.tel/) - Sub / Dub / [Discord](https://discord.com/invite/gogo) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime) / [Mirrors](https://gogoanime.news/)
 * [GoGo-Play](https://goload.pro/) - Sub
 * [AnimeShow](https://www2.animeshow.tv/) - Sub
-* [Haikei](https://haikei.xyz/) - Sub
+* [Haikei](https://haikei.xyz/) - Sub / Dub / [Discord](https://discord.gg/7UudX7Kz)
 * [AnimeNana](https://animenana.com/) - Sub
 * [Anify](https://anify.tv/) - Sub
 * [AnimeRush](https://www.animerush.tv/) - Sub / Dub
