@@ -630,6 +630,7 @@
 * [PDF Viewer](https://f-droid.org/packages/com.gsnathan.pdfviewer) - PDF Reader
 * [Readera](https://play.google.com/store/apps/details?id=org.readera) - PDF Reader
 * [MJ PDF Reader](https://play.google.com/store/apps/details?id=com.gitlab.mudlej.MjPdfReader) - PDF Reader
+* [KiyomiPDF](https://github.com/qinlili23333/KiyomiPDF) - PDF Reader
 * [K2pdfopt](https://willus.com/k2pdfopt/) - Optimize PDF/DJVU Files for Mobile E-Readers
 * [Voice](https://f-droid.org/en/packages/de.ph1b.audiobook/) - Audiobook Player 
 * [Simple Audiobook Player](https://play.google.com/store/apps/details?id=mdmt.sabp.free) - Audiobook Player
