@@ -265,6 +265,7 @@
 * [Freeware Directory](http://www.freewaredirectory.net/)
 * [FreewareStop](https://www.freewarestop.com/)
 * [LO4D](https://www.lo4d.com/)
+* [FilePuma](https://www.filepuma.com/)
 * [ListOfFreeWare](https://listoffreeware.com/)
 * [SnapFiles](https://www.snapfiles.com/freeware/)
 * [apponic](https://www.apponic.com/)
