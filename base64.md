@@ -1086,12 +1086,6 @@ pass: paluch
 
 ***
 
-#### Learn the Linux Command Line
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9CbFJWeUFySyM4NG40WmhZWkNSWExqdC1LRVA2dTZn`
-
-***
-
 #### Free Cloud Linux Server
 
 `aHR0cHM6Ly9yZW50cnkuY28vNHN4NjQ=`
