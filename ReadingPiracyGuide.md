@@ -40,7 +40,6 @@
 * [Audiobooks For Soul](https://audiobooks4soul.com/)
 * [AppAudiobooks](https://appaudiobooks.com/)
 * [Litgu.ru](https://litgu.ru/)
-* [dir_dsh](https://l.cloudstream.cf/dir_dsh) - Audiobook App for [CloudStream](https://cloudstream.cf/)
 * [ListentoEnglishStory](https://www.youtube.com/c/ListentoEnglishStoryandLearnEnglishQuickly/) 
 * [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - Classic Audiobooks
 * [Storynory](https://www.storynory.com/) - Children Audio Stories
@@ -463,7 +462,6 @@
 * [RealNotComplex](https://realnotcomplex.com/) - Math / Books
 * [Institute of Mathematics](https://aimath.org/textbooks/) - Math / Books
 * [Engineering Books PDF](https://engineeringbookspdf.com/) - Engineering
-* [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial) - Reverse Engineering Course 
 * [EasyEngineering](https://easyengineering.net/) - Engineering
 * [EngineeringBooksPDF](https://www.engineeringbookspdf.com/) - Engineering
 * [EngineeringEBooks_civil](https://t.me/EngineeringEBooks_civil) - Civil Engineering
@@ -746,7 +744,7 @@
 * ⭐ **[Wikipedia](https://www.wikipedia.org/)**, [WikiWand](https://www.wikiwand.com/) or [Metastem](https://wiki.metastem.su/), [ModernWiki](https://www.modernwiki.app/) - Encyclopedia
 * ⭐ **Wikipedia Tools** - [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Page Connections](https://hyperleap.com/) / [Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) / [Galaxy View](https://wiki.polyfra.me/) / [Read Only](http://static.wiki/) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener)
 * ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** or [TheSage](https://www.sequencepublishing.com/) - Dictionary / Thesaurus
-* ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)**, [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - Slang Word / Phrase Dictionaries
+* ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)** / [Frontends](https://codeberg.org/zortazert/rural-dictionary/), [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - Slang Word / Phrase Dictionaries
 * ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary Search
 * ⭐ **[Dictionary Index](https://onelook.com/?d=all_gen)**
 * ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase / [API Access](https://wolfreealpha.gitlab.io)
@@ -902,7 +900,6 @@
 * [MangaList](https://mangalist.com/) 
 * [Manga Park](https://mangapark.net/)
 * [MangaTown](https://www.mangatown.com/)
-* [FunManga](https://funmanga.com/) 
 * [MangaSee](https://www.mangasee.net/)
 * [MixedManga](https://mixedmanga.com/)
 * [Disaster Scans](https://disasterscans.com/) - [Discord](https://discord.gg/JbcJCpv)
@@ -912,7 +909,6 @@
 * [BilingualManga](https://bilingualmanga.net/)
 * [MangaFreak](https://w12.mangafreak.net/)
 * [Manga-Raw](https://www.manga-raw.club/)
-* [MangaInn](https://mangainn.net/) 
 * [Mangairo](https://h.mangairo.com/)
 * [MangaBuddy](https://mangabuddy.com)
 * [ReadKomik](https://readkomik.com/)
@@ -955,7 +951,6 @@
 * [CMReader](https://www.cmreader.info/)
 * [mangapill](https://mangapill.com/) 
 * [projectsuki](https://projectsuki.com/) 
-* [ReadMng](https://www.readmng.com/) or [MngDoom](https://www.mngdoom.com/)
 * [NineAnime](https://www.nineanime.com/category/)
 * [WhereCanIReadManga?](https://wherecanireadmanga.com/) - Legal
 * [OtakuGallery](http://www.otakugallery.com/) - Manga Artbooks
@@ -1162,6 +1157,7 @@
 * [BookCrushNewsstand](https://t.me/BookCrushNewsstand) - Telegram / [Bot](https://t.me/BookCrushNewsstandBot)
 * [Sanet.st](https://sanet.st/newspapers/)
 * [Elephind](https://www.elephind.com/) - Historical Newspaper Search
+* [Meta-Press](https://www.meta-press.es/) - Newspaper Search
 * [EngNewspapers](https://vk.com/engnewspapers) - Telegram
 * [newspaper_archive](https://t.me/newspaper_archive) - Telegram
 * [dailynewspaper88](https://t.me/dailynewspaper88) - Telegram
@@ -1175,14 +1171,14 @@
 * [LA Times](https://latimes.newspapers.com/)
 * [NYTimes-Compose](https://github.com/akshay2211/NYTimes-Compose) - NY Times Top Story App
 * [Europeana Newspapers](https://www.europeana.eu/en/collections/topic/18-newspapers) - European Historical Newspapers
-* [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index) - News Site Indexes 
+* [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index) - News Site Indexes
 * [Newspaper Map](https://newspapermap.com/) - Find / Translate Worldwide Newspapers
 
 ***
 
 # ► Tracking / Discovery
 
-* ⭐ **[GoodReads](https://www.goodreads.com/) / [Frontend](https://github.com/nesaku/BiblioReads)** - Books / Comics / Manga / [DL Button](https://github.com/laxyapahuja/bunken)
+* ⭐ **[GoodReads](https://www.goodreads.com/)** / [Frontend](https://github.com/nesaku/BiblioReads) - Books / Comics / Manga / [DL Button](https://github.com/laxyapahuja/bunken)
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels
 * ⭐ **MAL Tools** - [Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/)
 * ⭐ **[Anilist](https://anilist.co/home)** - Manga / Light Novels / Manhwa / Manhua / [Wrapper](https://github.com/butterstroke/Anilist-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
