@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/yNeoXCG.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/slOt6Uo.png)** - For mobile users
 
 ***
 ***
@@ -13,7 +13,7 @@
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT4 Based Chatbot
 * ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT4 Based Chatbot
-* ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Character Params](https://rentry.org/reverseCAI)
+* ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - Q&A AI
 * [BAI](https://chatbot.theb.ai/) - GPT3.5 Based AI
@@ -29,8 +29,12 @@
 * [cleverbot](https://www.cleverbot.com/) - Browser Based Chatbot
 * [eviebot](https://www.eviebot.com/en/) - Browser Based Chatbot
 * [Kuki](https://chat.kuki.ai/chat) - Browser Based Chatbot
+* [AskEdith](https://www.askedith.ai/demo) - Job / Business Q&A AI
 * [Phind](https://www.phind.com/) - Developer Q&A AI
-* [Kajiwoto](https://kajiwoto.com/) - AI Builder
+* [Leon](https://getleon.ai/) - AI Assistant
+* [nat.dev](https://nat.dev/) - Test LLMs
+* [CharacterHub](https://www.characterhub.org/) - Characters for LLMs
+* [Kajiwoto](https://kajiwoto.com/), [Miki](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
 
 ***
 
@@ -80,6 +84,7 @@
 * ⭐ **[AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR)** - AI Directory
 * ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/free-ai-tools)** - AI Directory
 * ⭐ **[Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - AI Resources / Learning
+* ⭐ **[A.I. Apps](https://appraven.net/collection.php?listId=63b5eef1904afd2a981cead0)** - AI iOS App Directory
 * [AISearchTool](https://www.aisearchtool.com/) - AI Search Tool
 * [Favird](https://favird.com/) - AI Directory
 * [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
@@ -89,6 +94,10 @@
 * [AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - AI Directory
 * [RunawayML](https://runwayml.com/) - Browser Based AI
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - AI Experiments
+* [OpenCV](https://opencv.org/) - A.I. Vision Library
+* [OpenCog](https://opencog.org/) or [AForge](https://github.com/andrewkirillov/AForge.NET) - Artificial Intelligence Frameworks
+* [free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - AI Learning Resources
+* [AI Reading List](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/) - AI Research Papers
 
 ***
 ***
@@ -110,6 +119,7 @@
 * [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - Story Writing AI
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [GodAI](https://awk.itch.io/godai) - Story Writing AI
+* [GPTForSlides](https://www.gptforslides.app/) - Presentation AI
 * [EssayGen](https://github.com/daijro/EssayGen/) - Essay Writing AI
 * [Essaytyper](http://www.essaytyper.com/) - Essay Writing AI
 * [papertyper](https://papertyper.net/) - Essay Writing AI
@@ -117,10 +127,14 @@
 * [BlogNLP](https://www.blognlp.com/) - Creator / Marketing AI
 * [Writerly](https://writerly.ai/) - Creator / Marketing AI
 * [Marmof](https://marmof.com/) - Creator / Marketing AI
+* [ReplyPal](https://lolgames.net/) - Email Reply AI
+* [codex-readme](https://github.com/tom-doerr/codex-readme) - README AI Generator
 * [EleutherAI](https://6b.eleuther.ai/) - Text Autocomplete AI
 * [Talk to Transformer](https://app.inferkit.com/demo) - Text Autocomplete AI
 * [TextSynth](https://textsynth.com/playground.html) - Text Autocomplete AI
+* [Compose](https://www.compose.ai/) - Text Autocomplete AI Extension
 * [InkForAll](https://app.inkforall.com/tools) - Multiple AI Text Tools
+* [SheetPlus](https://sheetplus.ai/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [ExcelFormulaBot](https://excelformulabot.com/) - Excel AI Tools
 
 ***
 
@@ -169,7 +183,7 @@
 * ⭐ **[PromptMania](https://promptomania.com/)** - AI Image Prompt Generator
 * ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** - Determine Likely Used Image Prompts
-* ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
+* ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**. [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
 * [Stable Horde](https://stablehorde.net/) - AI Image Generator / [Client](https://dbzer0.itch.io/stable-horde-client)
 * [Pinegraph](https://pinegraph.com/create) - Image Transformation / Sketchpad
 * [InPainter](https://inpainter.vercel.app/paint) / [2](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) - AI Image Generator
@@ -201,7 +215,9 @@
 * [AI Notebooks](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - AI Image Generation Colab
 * [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) - AI Image Generation Colab
 *  [NOP / WAS](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17) - AI Image Generation Colab
+* [Interiorai](https://interiorai.com/) - AI Interior Design Tool
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
+* [Glaze](https://glaze.cs.uchicago.edu/index.html) - Protect Digital Art from AI Copies
 
 ***
 
@@ -210,6 +226,10 @@
 ***
 
 ## ▷ [Image Upscaling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_upscalers)
+
+*** 
+
+## ▷ [Background Removal](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_background_removers)
 
 ***
 
@@ -223,8 +243,25 @@
 * [AMD Guide](https://rentry.org/sdamd) - Stable Diffusion Guide
 * [Native Isekai Too](https://rentry.org/sd-nativeisekaitoo) - Stable Diffusion Guide
 * [CPUtard](https://rentry.org/cputard) - Stable Diffusion Guide
+* [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - Stable Diffusion Guide
 * [Textard](https://rentry.org/textard) - Textual Inversion Guide
 * [drfar](https://rentry.org/drfar) - InPainting Guide
 * [Gaugan2 Guide](https://youtu.be/r5P9-zOfWyE) - Gaugan2 Video Guide
 * [Midjourney Guide](https://marigoldguide.notion.site/marigoldguide/Visual-Guide-to-Midjourney-settings-using-mostly-Astronauts-2ae1d8bb125f46e2be9886119c36ecf0) - Midjourney Guide / [Cheatsheet](https://arjenharris.notion.site/arjenharris/Midjourney-Cheat-Sheet-271922c6869549898ead33eaf79517fa)
+* [AnimAnon](https://rentry.org/AnimAnon) - AI Drawn Anime Guide
 * [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english), [ora_train](https://rentry.org/lora_train), [lora-training-science](https://rentry.org/lora-training-science) or [The Other](https://rentry.org/59xed3) - LoRA SD Guides
+
+***
+***
+
+# ► Audio Generators
+
+* [Wolfram Tones](https://tones.wolfram.com/)
+* [audio visual generator](https://fredericbriolet.com/avg/)
+* [Fake Music Generator](https://www.fakemusicgenerator.com/)
+* [Jingle](https://aidn.jp/jingle/)
+* [SoundDraw](https://soundraw.io/)
+* [Aiva](https://aiva.ai/)
+* [Riffusion](https://www.riffusion.com/)
+* [Musico](https://www.musi-co.com/listen/streams) - AI Generated Songs
+* [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
