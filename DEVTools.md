@@ -165,6 +165,7 @@
 * [Full Stack Solana Development Guide](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) - [Examples](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)
 * [The New Boston](https://thenewboston.com/) - Site Development Courses / [Discord](https://discord.com/invite/thenewboston)
 * [Strml](https://www.strml.net/) - Site Coding Tutorial
+* [STPG](https://stpg-tk.netlify.app/guides/) - Startpage Creation Guides / [Discord](https://discord.com/invite/ExAGgVR)
 * [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) or [Interneting is Hard](https://www.internetingishard.com/) - Learn Web Development
 * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Web Dev Roadmap
 * [FullStackOpen](https://fullstackopen.com/en/) or [Dash](https://dash.generalassemb.ly/) - Web Dev Courses
@@ -207,7 +208,6 @@
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
 * [Learn to Make Netflix Clone](https://github.com/kubowania/netflix-clone-graphql-datastax)
 * [Discord.js Guide](https://discordjs.guide/) - Discord.js Bot Guide
-* [free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - AI Learning Resources
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons 
 * [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book 
@@ -331,9 +331,6 @@
 * [XunLei](https://www.xunlei.com/) - Shared Computing / Blockchain
 * [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulator
 * [Tesseract](https://tesseract-ocr.github.io/) - Open Source OCR Engine / [GitHub](https://github.com/tesseract-ocr/tesseract)
-* [OpenCV](https://opencv.org/) - A.I. Vision Library
-* [AForge.NET](https://github.com/andrewkirillov/AForge.NET) - A.I. Vision Framework
-* [OpenCog](https://opencog.org/) - Artificial Intelligence Framework / [GitHub](https://github.com/opencog)
 * [awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes) or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
 * [awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Machine Learning Colabs
 * [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
@@ -927,7 +924,8 @@ https://onlinegenerator.net/
 
 * ⭐ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)** 
 * ⭐ **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [awesome-lis](https://github.com/topics/awesome-list) or [awesome-github](https://github.com/fffaraz/awesome-github) - List Indexes
-* [GitLab](https://about.gitlab.com/), [FSFE](https://git.fsfe.org/) or [NotABug](https://notabug.org/) - GitHub Alternatives
+* ⭐ **[GotHub](https://codeberg.org/gothub/gothub)** - GitHub Frontend
+* ⭐**[GitLab](https://about.gitlab.com/)**, [FSFE](https://git.fsfe.org/) or [NotABug](https://notabug.org/) - GitHub Alternatives
 * [GitHubStatus](https://www.githubstatus.com/) - GitHub Outage Status
 * [Git Explorer](https://gitexplorer.com/), [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html), [git-cheatsheet](https://hackprogramming.com/notes/git-cheatsheet) or [Git Commands](https://gabrieldejesus.github.io/git-commands/) / [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists / Search
 * [GitHub Desktop](https://desktop.github.com/) / [Linux](https://github.com/shiftkey/desktop), [Git-Fork](https://git-fork.com/) or [Tower](https://github.com/nbats/FMHYedit/blob/main/base64.md#tower) - Git Clients
@@ -1097,7 +1095,6 @@ https://onlinegenerator.net/
 * [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs) or [Melpa](https://melpa.org/)  - Emacs Packages
 * [WebDen](https://webden.dev/), [Riju](https://riju.codes/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [CodeEval](https://www.codeeval.dev/) - Code Playgrounds
 * [DartPad](https://dartpad.dartlang.org) - Dart Code Playground
-* [nat.dev](https://nat.dev/) - Test LLMs
 * [Qovery](https://www.qovery.com/) - AWS Development Platform
 * [I run code](https://github.com/engineer-man/piston-bot) - Evaluate Code Snippets via Discord
 * [Shell Cloud](https://shell.cloud.google.com/) - Google Cloud Shell Environment
