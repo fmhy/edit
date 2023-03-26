@@ -486,8 +486,9 @@
 * [VGMdb](https://vgmdb.net/) - Video Game Music Database
 * [SoundtrackTracklist](https://soundtracktracklist.com/) - Soundtrack Song Lists
 * [generasia](https://www.generasia.com/) - Asian Music Wiki
-* [dbkpop](https://dbkpop.com/) or [KPopping](https://kpopping.com/) - K-Pop Databases
+* [dbkpop](https://dbkpop.com/), [KPop Fandom](https://kpop.fandom.com/wiki/) or [KPopping](https://kpopping.com/) - K-Pop Databases
 * [Stage48](http://stage48.net/wiki/index.php) - Stage48 Idol Group Database
+* [KHip-pop Wiki](https://khiphop.fandom.com/) - Korean Hip-pop Wiki
 * [Music.ishkur](http://music.ishkur.com/) - Electronic Music Guide
 * [Every Noise at Once](http://everynoise.com/) - Music Genre Samples
 * [This Is What You Listen To](https://tiwylt.musimap.io/) - Song Genre / Info Analyzer
