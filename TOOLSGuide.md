@@ -26,7 +26,6 @@
 * [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - Open-Source Tools
 * [Creating Minds](http://creatingminds.org/tools/tools_ideation.htm) - Creativity Tools
 * [Dashboard](https://zzanehip.github.io/Dashboard/) - Mac-Style Dashboard Widget
-* [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - AI Experiments / Tools
 * [Generative Tools](https://docs.google.com/document/d/1N57oAF7j9SuHcy5zg2VZWhttLwR_uEldeMr-VKzlVIQ/) - Generative Tool Index
 * [Barcode Reader](https://online-barcode-reader.inliteresearch.com/) or [ZXing Decoder](https://zxing.org/w/decode.jspx) - Online Barcode Reader
 * [Contract-Templates](https://github.com/Oak-Harbor-Kits/Contract-Templates) - Digital Contracts
@@ -165,7 +164,6 @@
 * [EditCSVOnline](https://www.editcsvonline.com/) - Online CSV Editor
 * [SubjectiveSort](https://wiesenthal.github.io/SubjectiveSort/) - Create Ranked List from CSV
 * [VisiData](https://github.com/saulpw/visidata) - Spreadsheet CLI Editor
-* [SheetPlus](https://sheetplus.ai/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [ExcelFormulaBot](https://excelformulabot.com/) - Excel AI Tools
 * [TadViewer](https://www.tadviewer.com/) - View and Analyze Tabular Data / [GitHub]()
 * [Read File Online](http://www.readfileonline.com/) - Online Large Text File Viewer
 * [PublicNote](https://publicnote.com/) - View / Edit Public Texts
@@ -195,7 +193,7 @@
 * [Seventh Sanctum](https://www.seventhsanctum.com/), [Notebook.ai](https://www.notebook.ai/), [WorldAnvil](https://www.worldanvil.com/) or [Chaotic Shiny](http://chaoticshiny.com/) - Fantasy Writing Generators
 * [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Fantasy Name Generators
 * [PolyGlot](https://draquet.github.io/PolyGlot/) or [VulgarLang](https://www.vulgarlang.com/) - Spoken Language Construction Tools
-* [Awkwords](http://akana.conlang.org/tools/awkwords/) or [IdeaGenerator](https://ideagenerator.creativitygames.net/) - Word Generators
+* [IdeaGenerator](https://ideagenerator.creativitygames.net/) - Word Generators
 * [Lorem Ipsum Generator](https://apps.maximelafarie.com/lig/), [DevLorem](https://github.com/Kovah/DevLorem) or [Lorem Ipsum](https://www.lipsum.com/) - Generate Placeholder Text
 * [JeffSumm](https://jeffsum.com/) - Generate Jeff Goldblum Placeholder Text
 * [text-regenerator](https://github.com/jddunn/text-regenerator) - Replace Words with Synonyms
@@ -377,7 +375,6 @@
 * [OpenToonz](https://opentoonz.github.io/e/), [Wick Editor](https://www.wickeditor.com/editor/), [Clipnote Studio](https://calcium-chan.itch.io/clipnote) or [Pencil2D](https://www.pencil2d.org/) - Animation Tools
 * [Animaker](https://www.animaker.com/) - Animated Video Creator
 * [cg_tuts](https://t.me/cg_tuts) - CG Tutorials
-* [AnimAnon](https://rentry.org/AnimAnon) - AI Drawn Anime Guide
 * [AMV101](https://www.amv101.com/) - Animated Music Video Making Guides
 * [Blaine's Movie Maker Blog](https://movies.blainesville.com/p/wmm-60-on-windows-7.html) - Windows Movie Maker Tutorials
 * [Kurku](https://app.kurku.tech/) - Body Motion Tracking
@@ -395,7 +392,6 @@
 * [LibreSprite](https://libresprite.github.io/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
 * [Mixamo](https://www.mixamo.com/) or [Cascadeur](https://cascadeur.com/) - 3D Character Animation Tools
 * [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) - 3D Human Model Creator
-* [Vinci](https://vinci.surreal-ai.com/home/free-talking-avatar) - Create Talking AI
 * [Video Ascii Art](http://www.kickjs.org/example/video_ascii_art/Video_Ascii_Art.html) - Video to Ascii Art
 * [NATRON](https://natrongithub.github.io/) - Compositing Software
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - CGI Assets
@@ -489,7 +485,7 @@
 * [VeryLeaks](https://veryleaks.cz/), [DKL](https://discord.com/invite/69zpb6XH8f) or [Producerwav](https://producerwav.com/free/) - Drum Kits
 * [/r/findthepreset](https://www.reddit.com/r/findthepreset) - Find Presets from Songs
 * [MilkyTracker](https://milkytracker.org/) - .MOD & .XM Module Creator
-* [/r/samplesforall](https://www.reddit.com/r/samplesforall/), [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [Baomay01](https://baomay01.info/), [RKHive](https://rkhive.com/), [Sounds MP3](https://allsoundsaround.com/) or [SamplesTorrent](https://samplestorrent.com/) - Audio Samples
+* [/r/samplesforall](https://www.reddit.com/r/samplesforall/), [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [RKHive](https://rkhive.com/), [Sounds MP3](https://allsoundsaround.com/) or [SamplesTorrent](https://samplestorrent.com/) - Audio Samples
 * [AirWindows](http://www.airwindows.com/) - Reverbs / Equalizers / Plugins
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - Learn How to Play Music
 * [Jukebox](https://jukebox.today/), [Mu Sync](https://www.mu-sync.com/) or [jqbx](http://jqbx.fm/) - Music Sync / Listening Parties
@@ -584,7 +580,7 @@
 * [SampleBrain](https://gitlab.com/then-try-this/samplebrain) - Sample Mixer
 * [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - Pop Song Sample Mixer
 * [WubMachine](https://the.wubmachine.com/) - Create Dubstep Versions of Songs
-* [Wolfram Tones](https://tones.wolfram.com/), [audio visual generator](https://fredericbriolet.com/avg/), [Fake Music Generator](https://www.fakemusicgenerator.com/), [Jingle](https://aidn.jp/jingle/), [SoundDraw](https://soundraw.io/), [Aiva](https://aiva.ai/) or [Riffusion](https://www.riffusion.com/) - AI Song Generators
+* [AI Song Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_audio_generators)
 * [CSound](https://csound.com/) - Music Computing System
 * [GoAudio](https://github.com/DylanMeeus/GoAudio) - Audio Processing Library 
 * [Helio](https://helio.fm/) or [NoteHeads](https://noteheads.net/) - Music Composition Tools
@@ -663,7 +659,7 @@
 
 * ⭐ **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)**, [JobsFromLarry](https://www.jobsfromlarry.com/), [4DayWeek](https://4dayweek.io/) or [Indeed](https://www.indeed.com/) - Job Search Sites
 * ⭐ **[Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers)** - Create Resumes for Free
-* ⭐ **[Resume / Cover Letter Guide](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)**, [Undergrad](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf) or [Masters](https://hwpi.harvard.edu/files/ocs/files/masters_resume_cover_letters.pdf) - Resume / Cover Letter Guides
+* ⭐ **[Resume / Cover Letter Guide](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)**, [Undergrad](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf), [CareerCup](https://www.careercup.com/resume) or [Masters](https://hwpi.harvard.edu/files/ocs/files/masters_resume_cover_letters.pdf) - Resume / Cover Letter Guides
 * [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
 * [GitHub Résumé](https://github.com/resume/resume.github.com) - Generate Resume from GitHub Activity
 * [AskEdith](https://www.askedith.ai/demo) - Ask AI Job / Business Questions
@@ -698,6 +694,7 @@
 * [/r/freelance](https://www.reddit.com/r/freelance/) - Freelance Subreddit
 * [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Design Job Subreddit
 * [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - Career Guidance Subreddit
+* [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / Stem Career Study Guides
 * [ReallyConfused](https://reallyconfused.co/) or [WTF should I do with my life?](https://www.wtfshouldidowithmylife.com/) - Career Roadmaps
 * [The Dots](https://the-dots.com/events/search) - Online Workshops, Courses and Meetups
 * [Levels.fyi](https://www.levels.fyi/) - Tech Career Salaries
@@ -825,7 +822,6 @@
 * [OutWit](https://www.outwit.com/) - Scrape / Organize Website Data
 * [Irchiver](https://irchiver.com/) - Automatic Web Browser Screenshots
 * [WaybackShot](https://github.com/sam5epi0l/waybackshot) - Retrieve Site Screenshots via Wayback Machine 
-* [WebMailExtractor](https://www.webemailextractor.com/#trynow) - Extract Emails / Phone #s from Webpages
 * [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring), [Sken.io](https://www.sken.io/), [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [obzrv](https://obzrv.it/), [changd](https://github.com/paschmann/changd) or [FollowThatPage](https://followthatpage.com/) - Page Change Detection / Notification 
 * [CertAlert](https://certalert.net/) - Alerts you when a TLS/SSL Certificate Expires 
 * [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - Check which IPFS Gateways are Online
@@ -1001,6 +997,8 @@
 * [Firefox UWP Style](https://github.com/Guerra24/Firefox-UWP-Style) - Firefox UWP Theme
 * [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme
 * [BrowserParrot](https://www.browserparrot.com/) - Browser History Search Engine
+* [Hurl](https://github.com/U-C-S/Hurl) - Select Browser on URL Clicks
+* [NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge), [Edge_Removal.bat](https://github.com/AveYo/fox/blob/main/Edge_Removal.bat) / [2](https://gist.github.com/ishad0w/3b79bf829e9725aa102b2e8446bb5ef8) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
 * [xBrowserSync](https://github.com/xbrowsersync/app) - Sync Browser Data Browsers / Devices
 * [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)
 * [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt Browser Data
@@ -1384,7 +1382,6 @@
 * [usrbg](https://github.com/Discord-Custom-Covers/usrbg) or [Pfps.gg](https://pfps.gg/) - Discord Custom Profile Backgrounds / [Discord](https://discord.gg/2YcxDChxS5)
 * [Discord Dev Badges](https://pastebin.com/JzrckCix) or [GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Unlock Discord Dev Badges / [Script](https://gist.github.com/Raraph84/cff3ff908a1f2692b9a8452d2f49c2bf)
 * [Discoed SVG Bagdes](https://github.com/Mattlau04/Discord-SVG-badges) - Discord Bagde Image Files
-* [Discord Icon](https://icon.en-zo.dev/) - Create Custom Discord Role Icons
 * [Auto Creative](https://auto.creavite.co/icons) - Animated Icon / Banner Generator
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Adds Custom CSS Support 
 * [Discord Status](https://discordstatus.com/) - Check Discord Status 
@@ -1395,7 +1392,6 @@
 * [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - Preview Role Colors Role
 * [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - Encode videos to <8MB
 * [Discord Together](https://github.com/RemyK888/discord-together) - Video Stream Sync / Watch Parties
-* [MangaCord](https://top.gg/bot/751148743901970622?tab=overview) - Read Manga on Discord [Discord](https://discord.gg/UtTJcWzCRe)
 * [DiskCord](https://github.com/5ut/DiskCord) - Host Files on External Sites to share via Discord
 * [discordcompressor](https://github.com/vladaad/discordcompressor) - Video Compressor
 * [Natron](https://natron.fr/) or [Fusion](https://www.blackmagicdesign.com/ca/products/fusion/) - Video Compositing
@@ -1475,17 +1471,18 @@
 
 ## ▷ YouTube Tools
 
+
+* ⭐ **[Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube)**, [ImprovedTube](http://improvedtube.com/), [Iridium](https://github.com/ParticleCore/Iridium), [Improve YouTube!](https://github.com/code-for-charity/YouTube-Extension), [Nova YouTube](https://greasyfork.org/en/scripts/433360) or [Magic Actions for YouTube](https://www.mycinema.pro/) - YouTube Enhancement Addons 
+* ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
+* ⭐ **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)**, [YouTube Dislike Viewer](https://jabrek.net/dislike-en), [youtube-dislike-viewer](https://haeri.github.io/youtube-dislike-viewer/) or [yt dislikes viewer](https://github.com/pgamerx/yt-dislikes-viewer) - View YouTube Dislikes / [Discord](https://discord.com/invite/mYnESY4Md5)
 * ⭐ **[YouTube Advanced Search](https://playlists.at/youtube/search/)**
 * ⭐ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)** - Download Videos from YouTube
 * ⭐ **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download Audio from YouTube
-* ⭐ **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)**, [YouTube Dislike Viewer](https://jabrek.net/dislike-en), [youtube-dislike-viewer](https://haeri.github.io/youtube-dislike-viewer/) or [yt dislikes viewer](https://github.com/pgamerx/yt-dislikes-viewer) - View YouTube Dislikes / [Discord](https://discord.com/invite/mYnESY4Md5)
-* ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
-* [YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends) - Ad-Free YouTube Frontends / Clients
+* ⭐ **[YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends)** - Ad-Free YouTube Frontends / Clients
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) 
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YouTube-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
 * [YouTube Encoding Guide](https://support.google.com/youtube/answer/1722171) - Recommended YouTube Encoding Settings
 * [TubeSync](https://github.com/meeb/tubesync) - Sync YouTube Channels / Playlists to a Media Server
-* [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube), [ImprovedTube](http://improvedtube.com/), [Iridium](https://github.com/ParticleCore/Iridium), [Improve YouTube!](https://github.com/code-for-charity/YouTube-Extension), [Nova YouTube](https://greasyfork.org/en/scripts/433360) or [Magic Actions for YouTube](https://www.mycinema.pro/) - YouTube Enhancement Addons 
 * [Focused YouTube](https://github.com/makaroni4/focused_youtube) - Minimalist YouTube
 * [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux) or [Classic YouTube Design](https://github.com/Cicero-Interactive/Classic-YouTube-Design/) - Restore Classic YouTube Layout
 * [YouTube Star Ratings](https://youtubestarrating.com/) - Restore YouTube Star Ratings
@@ -1791,7 +1788,6 @@ Twitch Stream Tracker
 # ► System Tools
 
 * ⭐ **[PC Building / Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)** - Compare Systems and Parts
-* ⭐ **[MechMap](https://www.mechmap.tech/)** / [Guide](https://mechkeys.me/) / [Discord](https://discord.com/invite/mechkeys) - Mechanical Keyboard Recommendations
 * ⭐ **[Windows Piracy Guides](https://github.com/nbats/FMHYedit/blob/main/base64.md#windows-piracy-guides)** - How-to Pirate Windows
 * ⭐ **[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - Download Windows
 * ⭐ **[Windows Activators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation)** - Windows Activation Guides / Scripts / [Rentry](https://rentry.co/win-activate)
@@ -1820,6 +1816,7 @@ Twitch Stream Tracker
 * [balenaEtcher](https://balena.io/etcher) - Flash OS Image SD / USB / [Mobile](https://etchdroid.depau.eu/) 
 * [InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB) - Install Windows without USB
 * [NTLite](https://www.ntlite.com/), [WinReducer](https://www.winreducer.net/) or [MSMG Toolkit](https://msmgtoolkit.in/?i=1) - Custom ISO Creator
+* [FOG Project](https://fogproject.org) - OS Depoyment / Managment System
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloader / [Config](https://mackie100projects.altervista.org/)
 * [zfsBootMenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS Bootloader
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - Preinstallation Environment
@@ -1895,7 +1892,7 @@ Twitch Stream Tracker
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html), [winfetch](https://github.com/kiedtl/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tool 
 * [HWiNFO](https://www.hwinfo.com/) - Hardware Analysis, Monitoring and Reporting
 * [phwmon](https://gitlab.com/o9000/phwmon) - System Tray Hardware Monitor
-* [Percentage](https://github.com/kas/percentage) - System Tray Battery Percentage
+* [BatteryMode](https://github.com/tarcode-apps/BatteryMode) or [Percentage](https://github.com/kas/percentage) - System Tray Battery Percentage / Managers
 * [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
 * [MinimizeToTray](https://github.com/sandwichdoge/MinimizeToTray), [RBTray](https://github.com/benbuck/rbtray) or [minimize-to-tray](https://sourceforge.net/projects/minimize-to-tray/) - Minimize Any Window to Tray
 * [QDirStat](https://github.com/shundhammer/qdirstat) - Directory Statistics
@@ -2092,7 +2089,6 @@ Twitch Stream Tracker
 * [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) or [Reinstall Preinstalled](https://pastebin.com/5NnBEqnm) / [Guide](https://youtu.be/EQo53hvWy8Q) - Add Microsoft Store to Windows
 * [Vantage](https://rentry.co/lenbian) - Lenovo Vantage Without MS Store
 * [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage
-* [NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge), [Edge_Removal.bat](https://github.com/AveYo/fox/blob/main/Edge_Removal.bat) / [2](https://gist.github.com/ishad0w/3b79bf829e9725aa102b2e8446bb5ef8) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
 * [Chrometana](https://github.com/t3dotgg/Chrometana) - Redirect Cortana Searches from Bing
 * [amogOS](https://github.com/jostroOS/amogOS) - Rasberry Pi OS
 * [Pinn](https://github.com/procount/pinn) - Rasberry Pi OS Installer
@@ -2256,7 +2252,7 @@ Twitch Stream Tracker
 * [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
 * [PDFConverter](https://www.pdfconverter.com/) or [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Convters 
 * [Adobe Compress PDF](https://www.adobe.com/acrobat/online/compress-pdf.html) - PDF Compressor
-* [PDF Mergy](https://pdfmerge.w69b.com/) - Merge PDF Files
+* [PDF Mergy](https://pdfmerge.w69b.com/) or [PDFSnake](https://pdfsnake.app/) - Merge PDF Files
 * [Adobe Word Converter](https://www.adobe.com/acrobat/online/word-to-pdf.html) - Word to PDF Converter
 * [PDFLayoutTextStripper](https://github.com/JonathanLink/PDFLayoutTextStripper) - PDF to Text Converter
 * [VancedPDF](https://vancepdf.com/) or [PDFtoWordConverter](https://www.pdftowordconverter.org/) - PDF to Word Converter
