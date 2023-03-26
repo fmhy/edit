@@ -1807,8 +1807,8 @@ Add the following commands to a search to manually scrape each site.
 
 **Sites**
 
-*⭐ **[Sejda](https://www.sejda.com/)**
-*⭐ **[SimplePDF](https://simplepdf.eu/)**
+* ⭐ **[Sejda](https://www.sejda.com/)**
+* ⭐ **[SimplePDF](https://simplepdf.eu/)**
 
 [iLovePDF](https://www.ilovepdf.com/), [Smallpdf](https://smallpdf.com/), [PDF24](https://tools.pdf24.org/en/), [PDFCandy](https://pdfcandy.com/), [SodaPDF](https://online.sodapdf.com/), [PDFonFly](https://pdfonfly.com/), [PDFShelter](https://pdfshelter.com/), [DocHub](https://dochub.com/), [PDFRedizer](https://www.pdfresizer.com/), [PDFRock](https://pdfrock.com/), [FreePDFConvert](http://www.freepdfconvert.com/), [pdf.online](https://pdf.online/), [LightPDF](https://lightpdf.com/), [DeftPDF](https://deftpdf.com/), [AvePDF](https://avepdf.com/), [PDF2Go](https://www.pdf2go.com/), [CleverPDF](https://www.cleverpdf.com/), [PDF4Me](https://www.pdf4me.com/), [PDFForge](https://tools.pdfforge.org/), [MyPDFTools](https://mypdftools.com/), [chromePDF](https://chromepdf.com/), [PDFYeah](https://www.pdfyeah.com/), [EasePDF](https://www.easepdf.com/all-pdf-tools/), [PDFZorro](https://www.pdfzorro.com/), [PDFConverterOnline](https://www.pdfconvertonline.com/), [LocalPDF](https://localpdf.tech/), [pdfux](https://pdfux.com/)
 
@@ -2290,6 +2290,7 @@ Add the following commands to a search to manually scrape each site.
 
 * https://www3.himovies.to/
 * https://solarmovies.win/
+* https://flixhq.pro/
 * https://www2.6movies.net/
 * https://www2.movieorca.com/
 * https://xmovies8.fun/
@@ -2316,6 +2317,7 @@ Add the following commands to a search to manually scrape each site.
 * https://www6.f2movies.to/
 * https://putlockers.llc/
 * https://2kmovie.cc/
+* https://goku.to/
 * https://www.sflix.pro/
 * https://cineb.net/
 * https://bingewatch.to/
@@ -2955,7 +2957,10 @@ Add the following commands to a search to manually scrape each site.
 
 #### Text Rephrashing
 
-[QuillBot AI](https://quillbot.com/) / [Premium Unlock](https://github.com/blueagler/QuillBot-Premium-Crack), [2](https://github.com/Raguggg/quillbot-premium-for-free), [2](https://greasyfork.org/en/scripts/456460) / [Token](https://pastebin.com/ezkjxWd1) / [Script](https://pastebin.com/Wj3cuKvJ), [Rewrite Tool](https://www.rewritetool.net/), [Paraphraz](https://paraphraz.it/), [Rewriter](https://rewriter.tools/), [Spinbot](https://spinbot.com/), [Paraphrasing Tool](https://paraphrasetool.com/), [ArticleReword](https://www.articlereword.com/rewriter/), [Rephrasely](https://rephrasely.com/), [Paraphraser](https://www.paraphraser.io/), [SmartArticleWriter](https://smartarticlerewriter.com/), [Paraphrase-Online](https://paraphrase-online.com/), [articlerewritertool](https://articlerewritertool.com/), [Turbo Spinner](http://script4.prothemes.biz/), [rephraser](https://www.rephraser.net/rewording-tool/), [summarizetool](https://www.summarizetool.com/), [caligonia](http://caligonia.com/a2/rewrite.php), [paraphrasing-tool](http://paraphrasing-tool.com/), [freearticlespinning](http://www.freearticlespinning.com/), [article-spinner](http://free-article-spinner.com/), [csgenerator](https://www.csgenerator.com/), [paraphrasingtool](https://paraphrasingtool.ai/), [paraphraseai](https://paraphraseai.app/)
+* ⭐ **[QuillBot AI](https://quillbot.com/)**
+* ⭐ **QuillBot  Tools** - [Premium Unlock](https://github.com/blueagler/QuillBot-Premium-Crack), [2](https://github.com/Raguggg/quillbot-premium-for-free), [3](https://greasyfork.org/en/scripts/456460) / [Token](https://pastebin.com/ezkjxWd1) / [Script](https://pastebin.com/Wj3cuKvJ)
+
+[Rewrite Tool](https://www.rewritetool.net/), [Paraphraz](https://paraphraz.it/), [Rewriter](https://rewriter.tools/), [Spinbot](https://spinbot.com/), [Paraphrasing Tool](https://paraphrasetool.com/), [ArticleReword](https://www.articlereword.com/rewriter/), [Rephrasely](https://rephrasely.com/), [Paraphraser](https://www.paraphraser.io/), [SmartArticleWriter](https://smartarticlerewriter.com/), [Paraphrase-Online](https://paraphrase-online.com/), [articlerewritertool](https://articlerewritertool.com/), [Turbo Spinner](http://script4.prothemes.biz/), [rephraser](https://www.rephraser.net/rewording-tool/), [summarizetool](https://www.summarizetool.com/), [caligonia](http://caligonia.com/a2/rewrite.php), [paraphrasing-tool](http://paraphrasing-tool.com/), [freearticlespinning](http://www.freearticlespinning.com/), [article-spinner](http://free-article-spinner.com/), [csgenerator](https://www.csgenerator.com/), [paraphrasingtool](https://paraphrasingtool.ai/), [paraphraseai](https://paraphraseai.app/)
 
 ***
 
@@ -3271,7 +3276,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 **Animated Wallpapers**
 
-⭐ **[LWP](https://github.com/jszczerbinsky/lwp) - Wallpapers that Move with Cursor
+⭐ **[LWP](https://github.com/jszczerbinsky/lwp)** - Wallpapers that Move with Cursor
 
 [/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [wallpaperwaifu](https://wallpaperwaifu.com/), [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations), [MyLiveWallpapers](https://mylivewallpapers.com/), [AutoWall](https://github.com/SegoCode/AutoWall), [AnimatedBackgrounds](https://animatedbackgrounds.me/), [Lively](https://rocksdanister.github.io/lively/) (Create)
 
@@ -3331,7 +3336,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 * ⭐ **[Better Windows (Guide)](https://rentry.co/better-windows)**
 * ⭐ **[QuickBoost](https://github.com/SanGraphic/QuickBoost)**
 
-[Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/) / [DL](https://www.reddit.com/r/TronScript/wiki/downloads), [win10script](https://github.com/ChrisTitusTech/winutil) / [2](https://christitus.com/debloat-windows-10-2020/), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [Ninjutsu](https://www.teamos-hkrg.com/threads/window-10-ninjutsu-v1-0-x64.128178/), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [Windows-Decrapifier](https://github.com/n1snt/Windows-Decrapifier), [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script), [Remove-Windows10-Bloat](https://gist.github.com/matthewjberger/2f4295887d6cb5738fa34e597f457b7f), [Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10), [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat), [SophiApp](https://github.com/Sophia-Community/SophiApp), [WinRice](https://github.com/pratyakshm/WinRice), [TweakList](https://github.com/couleur-tweak-tips/TweakList), [Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins), [BRU](https://github.com/arcadesdude/BRU), [Windows-Bloatware-Removal](https://github.com/BallisticTurtle/Windows-Bloatware-Removal/blob/master/Remove%20Windows%20Bloatware.bat), [optimizer](https://github.com/hellzerg/optimizer/), [Ultimate Windows Utility](https://christitus.com/windows-tool/), [XToolbox](https://github.com/xemulat/XToolbox), [Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools), [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover), [Win10Debloat](https://github.com/Raphire/Win10Debloat), [windows_hardening.cmd](https://gist.github.com/ricardojba/ecdfe30dadbdab6c514a530bc5d51ef6)
+[Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/) / [DL](https://www.reddit.com/r/TronScript/wiki/downloads), [win10script](https://github.com/ChrisTitusTech/winutil) / [2](https://christitus.com/debloat-windows-10-2020/), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [Ninjutsu](https://www.teamos-hkrg.com/threads/window-10-ninjutsu-v1-0-x64.128178/), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [Windows-Decrapifier](https://github.com/n1snt/Windows-Decrapifier), [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script), [Remove-Windows10-Bloat](https://gist.github.com/matthewjberger/2f4295887d6cb5738fa34e597f457b7f), [Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10), [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat), [SophiApp](https://github.com/Sophia-Community/SophiApp), [WinRice](https://github.com/pratyakshm/WinRice), [TweakList](https://github.com/couleur-tweak-tips/TweakList), [Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins), [BRU](https://github.com/arcadesdude/BRU), [Windows-Bloatware-Removal](https://github.com/BallisticTurtle/Windows-Bloatware-Removal/blob/master/Remove%20Windows%20Bloatware.bat), [optimizer](https://github.com/hellzerg/optimizer/), [Ultimate Windows Utility](https://christitus.com/windows-tool/), [XToolbox](https://github.com/xemulat/XToolbox), [Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools), [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover), [Win10Debloat](https://github.com/Raphire/Win10Debloat), [windows_hardening.cmd](https://gist.github.com/ricardojba/ecdfe30dadbdab6c514a530bc5d51ef6) 
 
 ***
 
@@ -3409,7 +3414,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 * [msdn](https://msdn.su/)
 * [kacabenggala](https://kacabenggala.uny.ac.id/windows/)
 * [Microsoft](https://www.microsoft.com/en-us/software-download/)
-* [Windows ISO DL Tool](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
+* [MSDL](https://ave9858.github.io/msdl)
 * [jerryching](http://jerryching.spdns.de/Software/ISO%20Backup/)
 * [minerswin](http://root3.minerswin.de/ISO/Windows/)
 * [ISO GDrive](https://docs.google.com/spreadsheets/d/e/2PACX-1vSScnE8yYzjgTlMiTpoGZ4VwDKHDanTld2_BXXliZg_nTyVVJq0ppvDJHiRFuMEoAO9UKHZqCG2o97T/pubhtml#)
