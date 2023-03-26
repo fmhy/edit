@@ -15,6 +15,7 @@
 * ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT4 Based Chatbot
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Character Params](https://rentry.org/reverseCAI)
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
+* ⭐ **[Perplexity](https://www.perplexity.ai/)** - Q&A AI
 * [BAI](https://chatbot.theb.ai/) - GPT3.5 Based AI
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
 * [DeepAI](https://deepai.org/chat) - DeepAI's Chatbot
@@ -28,6 +29,7 @@
 * [cleverbot](https://www.cleverbot.com/) - Browser Based Chatbot
 * [eviebot](https://www.eviebot.com/en/) - Browser Based Chatbot
 * [Kuki](https://chat.kuki.ai/chat) - Browser Based Chatbot
+* [Phind](https://www.phind.com/) - Developer Q&A AI
 * [Kajiwoto](https://kajiwoto.com/) - AI Builder
 
 ***
@@ -38,6 +40,7 @@
 * ⭐ **[Futurepedia](https://www.futurepedia.io/)** - AI Directory
 * ⭐ **[AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR)** - AI Directory
 * ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/free-ai-tools)** - AI Directory
+* ⭐ **[Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - AI Resources / Learning
 * [AISearchTool](https://www.aisearchtool.com/) - AI Search Tool
 * [Favird](https://favird.com/) - AI Directory
 * [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
@@ -46,6 +49,7 @@
 * [topai](https://topai.tools/) - AI Directory
 * [AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - AI Directory
 * [RunawayML](https://runwayml.com/) - Browser Based AI
+* [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - AI Experiments
 
 ***
 ***
@@ -85,7 +89,6 @@
 * [flowgpt](https://flowgpt.com/) - Prompt Directory
 * [jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html) - Prompt Directory
 * [botprompts](https://botprompts.net/) - Fun Prompts
-* [aisherpa](https://aisherpa.super.site/) - Dev, Designer, Marketing Prompts
 * [GPT Jailbreak](https://rentry.co/gptjailbreak) - DAN / John Prompts
 * [jailbreakchat](https://www.jailbreakchat.com/) - Prompt Ratings / Voting
 * [ChatGPT-History](https://github.com/benf2004/ChatGPT-History) - Prompt Management Extension 
@@ -144,9 +147,8 @@
 * ⭐ **[Stability-AI](https://github.com/Stability-AI/stablediffusion)** /  [2](https://huggingface.co/spaces/stabilityai/stable-diffusion) - AI Image Generator / [Discord](https://discord.com/invite/stablediffusion) / [Variations](https://github.com/justinpinkney/stable-diffusion) 
 * ⭐ **[DeepAI](https://deepai.org/machine-learning-model/stable-diffusion)** / [2](https://deepai.org/machine-learning-model/text2img) - AI Image Generator / [Tools](https://deepai.org/apis)
 * ⭐ **[MagicBrush](https://www.magicbru.sh/)**, [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - AI Image Transformers
-* ⭐ **[SD WebUI](https://github.com/cmdr2/stable-diffusion-ui)** / [2](https://github.com/neonsecret/stable-diffusion-webui) / [3](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion WebUI / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Colab](https://github.com/pinilpypinilpy/sd-webui-colab-simplified)
-* ⭐ **[CivitAI](https://civitai.com/)** - Stable Diffusion Models and Gallery
-* ⭐ **[Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/)** - List of Stable Diffusion Models
+* ⭐ **[SD WebUI](https://github.com/cmdr2/stable-diffusion-ui)** / [2](https://github.com/neonsecret/stable-diffusion-webui) / [3](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [3](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion WebUI / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Colab](https://github.com/pinilpypinilpy/sd-webui-colab-simplified) / [GUI](https://github.com/comfyanonymous/ComfyUI)
+* ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - List of Stable Diffusion Models
 * ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** - Determine Likely Used Image Prompts
 * ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
@@ -169,7 +171,6 @@
 * [Dream Studio](https://beta.dreamstudio.ai/dream) - AI Image Generator
 * [Dream.a](https://dream.ai/) - AI Image Generator
 * [DreamLike](https://dreamlike.art) - AI Image Generator
-* [Gaugan2](http://imaginaire.cc/gaugan2/) - AI Image Generator
 * [hypnogram](https://hypnogram.xyz/) - AI Image Generator
 * [AI Art Generator](https://neural.love/ai-art-generator) - AI Image Generator
 * [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent) - AI Image Generator
@@ -177,23 +178,21 @@
 * [Dreambooth](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - AI Image Generator
 * [Diffuse The Rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest) - AI Image Generator
 * [InvokeAI](https://github.com/invoke-ai/InvokeAI) - AI Image Generator
+* [Waifu Diffusion](https://github.com/harubaru/waifu-diffusion) - Anime Image Generator
 * [SD GUITard](https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4?usp=sharing) - AI Image Generation Colab
 * [AI Notebooks](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - AI Image Generation Colab
 * [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) - AI Image Generation Colab
 *  [NOP / WAS](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17) - AI Image Generation Colab
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
-* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Stable Diffusion GUI
-* [Sygil WebUI](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion Web UI
-* [Waifu Diffusion](https://github.com/harubaru/waifu-diffusion) - Stable Diffusion for Anime
 
 ***
 
 ## ▷ Generator Guides
 
 * ⭐ **[Voldy](https://rentry.org/voldy)** - Stable Diffusion Guide
+* ⭐ **[SD Compendium](https://www.sdcompendium.com/)** - Stable Diffusion Guide
 * ⭐ **[SD Quickstart](https://redd.it/xvhavo)** - Stable Diffusion Guide
 * ⭐ **[1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw)** - Stable Diffusion Guide
-* ⭐ **[SD Compendium](https://www.sdcompendium.com/)** - Stable Diffusion Guide and Resources
 * [AyyMD](https://rentry.org/ayymd-stable-diffustion-v1_4-guide) - Stable Diffusion Guide
 * [AMD Guide](https://rentry.org/sdamd) - Stable Diffusion Guide
 * [Native Isekai Too](https://rentry.org/sd-nativeisekaitoo) - Stable Diffusion Guide
