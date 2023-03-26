@@ -173,6 +173,7 @@
 * [Kaiheila](https://www.kaiheila.cn/) - Chinese Discord
 * [Diaosi Forum](https://assbbs.com/) or [WangChao](https://www.wangchao.info/) - Piracy Discussion
 * [zimuku](http://zimuku.org/), [assrt](https://assrt.net/), [YYets](https://www.yyets.com/), [SubHD](https://www.subhdtw.com/sub/tv), [YYSub](https://www.yysub.net/), [zimuku](https://zimuku.org/) or [SubHD](https://subhd.tv/) - Subtitles
+* [ChineseSubtitleConversionTool](https://github.com/xiaoxinpro/ChineseSubtitleConversionTool) - Traditional and Simplified Chinese Subtitle Conversion Tool
 * [Anti-Ad](https://anti-ad.net/) - Adblock Filters
 * [GameLoop](https://syzs.qq.com/) - Android Emulator
 * [Thanox](https://github.com/Tornaco/Thanox) - Android System Manager
@@ -197,7 +198,7 @@
 * [SeiWatei](https://www.seiwatei.net/) or [chinadaily](https://language.chinadaily.com.cn/news_bilingual/) - Learn Chinese
 * [Oh.Taigi](https://oh.taigi.info/) - Chinese Taiwanese Learning Tools
 * [taioan](https://ji.taioan.org/) - Chinese Spell Check
-* [Baidu Library to Word](https://greasyfork.org/en/scripts/405373-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E8%BD%AC-word-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD%E5%99%A8) - aidu Library to Word Converter
+* [Baidu Library to Word](https://greasyfork.org/en/scripts/405373-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E8%BD%AC-word-%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E4%B8%8B%E8%BD%BD%E5%99%A8) - Baidu Library to Word Converter
 * [ICIBA](http://www.iciba.com/), [Fanyi](https://fanyi.qq.com/) or [YouDao](https://fanyi.youdao.com/) - Translator / [Client](http://cp.iciba.com/)
 * [itaigi](https://itaigi.tw/) - Chinese to Taiwanese Translator
 * [Flash.cn](https://www.flash.cn/) - Chinese Flash Player
