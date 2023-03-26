@@ -21,7 +21,7 @@
 * [DeepAI](https://deepai.org/chat) - DeepAI's Chatbot
 * [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT3 Based Chatbot
 * [PygmalionAI](https://redd.it/10kr5zk) - Chatbot Built by 4Channers
-* [Dalai](https://cocktailpeanut.github.io/dalai/) or [Alpaca](https://github.com/antimatter15/alpaca.cpp) - Self-Hosted Facebook Chatbot
+* [Dalai](https://cocktailpeanut.github.io/dalai/), [LLaMA C++](https://github.com/ggerganov/llama.cpp) or [Alpaca](https://github.com/antimatter15/alpaca.cpp) - Self-Host Facebooks Chatbot / [Guide](https://rentry.org/llama-tard-v2)
 * [InWorld](https://www.inworld.ai/) - Roleplaying Chatbots
 * [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbots
 * [Chai](https://chai.ml/) - Entertainment Focused Chatbot
@@ -31,6 +31,7 @@
 * [Kuki](https://chat.kuki.ai/chat) - Browser Based Chatbot
 * [AskEdith](https://www.askedith.ai/demo) - Job / Business Q&A AI
 * [Phind](https://www.phind.com/) - Developer Q&A AI
+* [Shell GPT](https://github.com/TheR1D/shell_gpt) - Coding AI
 * [Leon](https://getleon.ai/) - AI Assistant
 * [nat.dev](https://nat.dev/) - Test LLMs
 * [CharacterHub](https://www.characterhub.org/) - Characters for LLMs
@@ -178,12 +179,14 @@
 * ⭐ **[Stability-AI](https://github.com/Stability-AI/stablediffusion)** /  [2](https://huggingface.co/spaces/stabilityai/stable-diffusion) - AI Image Generator / [Discord](https://discord.com/invite/stablediffusion) / [Variations](https://github.com/justinpinkney/stable-diffusion) 
 * ⭐ **[DeepAI](https://deepai.org/machine-learning-model/stable-diffusion)** / [2](https://deepai.org/machine-learning-model/text2img) - AI Image Generator / [Tools](https://deepai.org/apis)
 * ⭐ **[MagicBrush](https://www.magicbru.sh/)**, [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - AI Image Transformers
+* ⭐ **[Lexica](https://lexica.art/)**, [PixAI](https://pixai.art/), [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) or [Krea](https://www.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
 * ⭐ **[SD WebUI](https://github.com/cmdr2/stable-diffusion-ui)** / [2](https://github.com/neonsecret/stable-diffusion-webui) / [3](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [3](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion WebUI / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Colab](https://github.com/pinilpypinilpy/sd-webui-colab-simplified) / [GUI](https://github.com/comfyanonymous/ComfyUI)
 * ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - List of Stable Diffusion Models
-* ⭐ **[PromptMania](https://promptomania.com/)** - AI Image Prompt Generator
 * ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** - Determine Likely Used Image Prompts
-* ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**. [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
+* ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**. [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
+* ⭐ **[PromptMania](https://promptomania.com/)** - AI Image Prompt Generator
+* [PublicPrompts](https://publicprompts.art/) - AI Image Prompts / [Discord](https://discord.com/invite/jvQJFFFx26)
 * [Stable Horde](https://stablehorde.net/) - AI Image Generator / [Client](https://dbzer0.itch.io/stable-horde-client)
 * [Pinegraph](https://pinegraph.com/create) - Image Transformation / Sketchpad
 * [InPainter](https://inpainter.vercel.app/paint) / [2](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) - AI Image Generator
@@ -215,6 +218,9 @@
 * [AI Notebooks](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - AI Image Generation Colab
 * [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) - AI Image Generation Colab
 *  [NOP / WAS](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17) - AI Image Generation Colab
+* [AI Gahaku](https://ai-art.tokyo/en/), [Painting by Numbers](https://painting-by-numbers.co/pages/create-your-own), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/), [InstaPainting](https://www.instapainting.com/assets/) or [Deep Dream Generator](https://deepdreamgenerator.com/) - Turn Photos into Artwork
+* [Pet AI](https://petai.art/) - Turn Pet Photos into Artwork
+* [Nightmare Machine](http://nightmare.mit.edu/) - Scary AI Generated Imagery
 * [Interiorai](https://interiorai.com/) - AI Interior Design Tool
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) - Protect Digital Art from AI Copies
