@@ -74,6 +74,7 @@
 * [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
 * [WSL](https://docs.microsoft.com/en-us/windows/wsl/) or [Tunic](https://github.com/mikeslattery/tunic) - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)
 * [node-startup](https://github.com/ralyodio/node-startup) - Startup Script
+* [coreboot](https://coreboot.org/) or [Libreboot](https://libreboot.org/) - Replace Proprietary BIOS/UEFI Firmware 
 * [nyrna](https://github.com/Merrit/nyrna) - Suspend Apps / Games
 * [RockstarKernel_WSL2](https://github.com/Dhruvgera/RockstarKernel_WSL2) - Windows Subsystem Kernel
 * [kmon](https://kmon.cli.rs/) - Kernel Manager and Activity Monitor
@@ -279,7 +280,7 @@
 * [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
 * [Arronax](https://www.florian-diesch.de/software/arronax/) - .desktop File Editor
 * [ImHex](https://github.com/WerWolv/ImHex) - Hex Editor
-* [Learn the Linux Command-Line](https://github.com/nbats/FMHYedit/blob/main/base64.md#learn-the-linux-command-line), [Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [LinuxCommand](https://www.linuxcommand.org/tlcl.php) - Command-Line Lessons
+* [Command Line Guide](https://github.com/jlevy/the-art-of-command-line) or [LinuxCommand](https://www.linuxcommand.org/tlcl.php) - Command-Line Lessons
 * [Cheat.sh](https://cheat.sh/) or [how2](https://github.com/santinic/how2) - Command-Line Cheat Sheet
 * [tldr](https://github.com/tldr-pages/tldr/) - Command-Line Tools / [Rust](https://github.com/dbrgn/tealdeer)
 * [Gum](https://github.com/charmbracelet/gum) - Shell Script Creator
