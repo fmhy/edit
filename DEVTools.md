@@ -11,7 +11,7 @@
 
 # ► Learning / Cheat Sheets
 
-* ⭐ **[StackOverflow](https://stackoverflow.com/)**, [DecodingDevOps](https://www.decodingdevops.com/) or [Stack Roboflow](https://stackroboflow.com/) - Developer Q&A
+* ⭐ **[StackOverflow](https://stackoverflow.com/)** / [Frontend](https://code.whatever.social/), [DecodingDevOps](https://www.decodingdevops.com/) or [Stack Roboflow](https://stackroboflow.com/) - Developer Q&A
 * ⭐ **[The Odin Project](https://www.theodinproject.com/)** - Web Dev Tutorials / Courses
 * ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Courses / [Infinite Trial](https://pastebin.com/aJ4v55ae)
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive [Archive](https://github.com/nbats/FMHYedit/blob/main/base64.md#freecodechamp-archive) / [GitHub](https://github.com/freeCodeCamp/freeCodeCamp)
