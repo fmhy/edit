@@ -11,15 +11,15 @@
 
 # ► AI Chatbots
 
-* ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT4 Based Chatbot
-* ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT4 Based Chatbot
+* ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT-3 Based Chatbot
+* ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT-4 Based Chatbot
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - Q&A AI
-* [BAI](https://chatbot.theb.ai/) - GPT3.5 Based AI
+* [BAI](https://chatbot.theb.ai/) - GPT-3.5 Based AI
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
 * [DeepAI](https://deepai.org/chat) - DeepAI's Chatbot
-* [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT3 Based Chatbot
+* [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT-3 Based Chatbot
 * [PygmalionAI](https://redd.it/10kr5zk) - Chatbot Built by 4Channers
 * [Dalai](https://cocktailpeanut.github.io/dalai/), [LLaMA C++](https://github.com/ggerganov/llama.cpp) or [Alpaca](https://github.com/antimatter15/alpaca.cpp) - Self-Host Facebooks Chatbot / [Guide](https://rentry.org/llama-tard-v2)
 * [InWorld](https://www.inworld.ai/) - Roleplaying Chatbots
@@ -105,16 +105,16 @@
 
 # ► Text Generators
 
-* ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT4 Based AI
+* ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT-3 Based AI
 * ⭐ **[Bard](https://bard.google.com/)** - Google's AI
-* ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT4 Based AI
-* ⭐ **[Poe](https://poe.com/)** - GPT3.5 Based AI
-* [EasyPeasy](https://easy-peasy.ai/) - GPT4 Based AI
-* [BAI](https://chatbot.theb.ai/) - GPT3.5 Based AI
-* [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain) - GPT3.5 Based AI
-* [writier.io](https://writier.io/) - GPT3 Based AI
-* [gpt3](https://gpt3.ethio-tech.com/) - GPT3 Based AI
-* [Transformer](https://transformer.huggingface.co/) - GPT2 Based AI
+* ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT-4 Based AI
+* ⭐ **[Poe](https://poe.com/)** - GPT-3.5 Based AI
+* [EasyPeasy](https://easy-peasy.ai/) - GPT-4 Based AI
+* [BAI](https://chatbot.theb.ai/) - GPT-3.5 Based AI
+* [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain) - GPT-3.5 Based AI
+* [writier.io](https://writier.io/) - GPT-3 Based AI
+* [gpt3](https://gpt3.ethio-tech.com/) - GPT-3 Based AI
+* [Transformer](https://transformer.huggingface.co/) - GPT-2 Based AI
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Text AI / [API](https://github.com/acheong08/EdgeGPT)
 * [NovelAI](https://novelai.net/) / [2](https://rentry.org/sdg_FAQ) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz)
 * [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - Story Writing AI
