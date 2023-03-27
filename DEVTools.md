@@ -534,9 +534,7 @@
 * [RV's Free Effects](https://www.mf2fm.com/rv/) - Site / Cursor Effects
 * [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
 * [Vidlery](http://vidlery.com/) - Animated Webpage Background
-
-https://onlinegenerator.net/
-
+* [onlinegenerator](https://onlinegenerator.net/) - Site Generation Tools
 * [Box-Shadow](https://box-shadow.art/) - Box Shadow Generator
 * [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - CSS Shadow Generator
 * [MapBox](https://www.mapbox.com/) - Live Maps, Location Search & More
