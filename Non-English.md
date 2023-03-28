@@ -1774,9 +1774,9 @@
 
 * ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** / [SMAGX](https://smagx.com/) - Multi-Site Book Search
 * [epublibre](https://www.epublibre.org/) - Books
-* [ebiblioteca](https://ebiblioteca.org/) - Books
+* [eBiblioteca](https://ebiblioteca.org/) - Books
 * [Ebookelo](https://www.ebookelo.com/) - Books
-* [pirateca](https://lapirateca.com/) - Books
+* [La Pirateca](https://lapirateca.com/) - Books
 * [Lectulandia](https://ww2.lectulandia.com/), [2](https://www.lectulandia.co/) - Books
 * [ePub Gratis](https://www.epubgratis.info/) - Books
 * [Espaebook2](https://www.espaebook2.com/) - Books
