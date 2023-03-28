@@ -2,7 +2,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/bafN8E9.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/BFbBVr9.png)** - For mobile users
 
 ***
 
@@ -1411,11 +1411,12 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 ***
 
+#### Manga Readers
+
 * ⭐ **[Tachiyomi](https://github.com/Suwayomi)** 
 * ⭐ **Tachiyomi Tools** - [Web Client](https://github.com/TachiWeb) / [Desktop Client](https://github.com/Suwayomi/Tachidesk-Server) / [Discord](https://discord.com/invite/tachiyomi) / [Download Manager](https://github.com/Daedren/MangaManage)
 
 [AllMangasReader](http://allmangasreader.com/), [Houdoku](https://houdoku.org/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi), [isoComic](https://github.com/isomerase/isocomic-extensions), [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer)
-
 
 ***
 
