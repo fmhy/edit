@@ -22,6 +22,7 @@
 * ⭐ **[HDMovieBox](https://hdmoviebox.org/)** - Movies
 * ⭐ **[UniqueStream](https://uniquestream.net/)** - Movies / TV
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / [Discord](https://discord.gg/r4QrghF4B9)
+* ⭐ **[JustChill](https://www.justchill.tv/en)** - Movies / TV / Anime / [Discord](https://discord.gg/y49g2tgNak)
 * ⭐ **[Watch A Movie](https://watcha.movie/)** - Movies / TV / [Discord](https://discord.gg/PvAg9Rc7kQ)
 * ⭐ **[Movies.cf](https://pirate-media.vercel.app/)** - Movies / [Telegram](https://t.me/movielinks\_me)
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
@@ -32,7 +33,6 @@
 * [FreeTubeSpot](https://www.freetubespot.com/) - Movies
 * [SmashyStream](https://embed.smashystream.com/) - Movies / TV / Anime / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
 * [UltraMovies](https://ultramovies.net/) - Movies / TV
-* [JustChill](https://www.justchill.tv/en) - Movies / TV / Anime / [Discord](https://discord.gg/y49g2tgNak)
 * [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime
 * [Vumoo](https://vumoo.to/) - Movies / TV
 * [SuperNova](https://supernova.to/) - Movies / TV / Anime 
