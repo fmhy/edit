@@ -295,7 +295,6 @@
 * ⭐ **[Media Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_servers)** - Servers to Host / Play Media 
 * ⭐ **[Video Stream Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_stream_sync)** - Video Streaming Sync / Watch Parties
 * ⭐ **[Video Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_editors)** - Video Editing Software & Sites
-* ⭐ **[Graphic Design Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_gfx_design_software)** - Download GFX Design Software
 * ⭐ **[Stock Videos](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_video_sites)** - Free Stock Video Footage
 * ⭐ **[Video Hosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_hosting_sites)** - Upload / Stream Videos 
 * ⭐ **[VideoHelp](https://www.videohelp.com/software)** - Video Software Archive 
