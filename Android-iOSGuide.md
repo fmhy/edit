@@ -590,7 +590,7 @@
 
 # ► Android Torrenting
 
-* **Note**- Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting
+* **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting
 * ⭐ **[Aria2App](https://github.com/devgianlu/Aria2App)** - [Screenshot](https://i.imgur.com/zA2SKAd.png)
 * ⭐ **[LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)** - [Screenshot](https://i.imgur.com/HbQZ8Hd.png)
 * ⭐ **[Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)** - [Screenshot](https://i.imgur.com/8caBvYO.png)
@@ -1211,7 +1211,7 @@
 
 # ► iOS Torrenting
 
-* **Note**- Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting
+* **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting
 * [iTransmission](https://iosninja.io/ipa-library/download-itransmission-ipa-ios), [iTorrent](https://github.com/XITRIX/iTorrent), [SwiftyTorrent](https://github.com/danylokos/SwiftyTorrent), [iOS-Torrent-Client](https://github.com/nneonneo/iOS-Torrent-Client) or [Torrentula](http://cydia.saurik.com/package/com.ichanti.torrentula/) - Torrent Client
 * [BarMagnet](https://github.com/Qata/BarMagnet) - Remote Torrent Interface for Legacy Devices
 
