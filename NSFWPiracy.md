@@ -294,6 +294,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Hentai Upscales](https://t.me/+4zMgLbnhiF5hZGRk)
 * [Panda Chaika](https://panda.chaika.moe/)
 * [EAHentai](https://eahentai.com/)
+* [OmegaScans](https://omegascans.org/)
 * [manhwa18](https://manhwa18.com/)
 * [HAnime](https://hanime.tv/) / [Downloader](https://github.com/afroshyi/hanime-generator/)
 * [NewToki69](https://newtoki96.com/)
