@@ -495,11 +495,11 @@
 * ⭐ **[OVPN](https://www.ovpn.com/)** - [Pricing](https://i.imgur.com/ALOfSxn.png)
 * ⭐ **[Perfect Privacy](https://www.perfect-privacy.com/)** - [Pricing](https://i.imgur.com/Rtfwu2t.png)
 * ⭐ **[Proton](https://protonvpn.com)** - [Pricing](https://i.imgur.com/hkhZGg1.png) / No Torrenting w/ Free Version
+* ⭐ **[CryptoStorm](https://cryptostorm.is/)** - [Pricing](https://i.imgur.com/irrf8RV.png)
 * ⭐ **[Windscribe](https://windscribe.com)** - [Pricing](https://i.imgur.com/D7015rq.png) / Free Version Available / [Improved App](https://github.com/Windscribe/desktop-v2)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN 
 * ⭐ **[Softether](https://www.softether.org/)** - Free VPN / [VPN Gate](https://www.vpngate.net/en/download.aspx) / [Note](https://pastebin.com/TrSw7EpF)
 * ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Manager](https://github.com/perara/wg-manager) / [WebUI](https://hub.docker.com/r/weejewel/wg-easy)
-* [CryptoStorm](https://cryptostorm.is/) - [Pricing](https://i.imgur.com/irrf8RV.png)
 * [Surfshark](https://surfshark.com/) - [Pricing](https://i.imgur.com/YaiKjpX.png)
 * [Trust.Zone](https://trust.zone/) - [Pricing](https://i.imgur.com/PsRa8GD.png)
 * [VPNSecure](https://www.vpnsecure.me/) - [Pricing](https://i.imgur.com/BnuqpBS.png)
