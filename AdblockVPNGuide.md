@@ -490,7 +490,7 @@
 * ⭐ **[VPN Comparison Chart](https://web.archive.org/web/20221029202548/https://privacymelon.com/stealth-vpn-guide/vpn-comparison-table/)** - Compare VPN Privacy Polices
 * ⭐ **[How-to Bind VPN to Client](https://redd.it/ssy8vv)** - Bind VPN to Client to Avoid ISP Letters
 * ⭐ **[Mullvad](https://mullvad.net/)** - [Pricing](https://i.imgur.com/LfjZ9G3.png) / [NetNS](https://github.com/chutz/mullvad-netns)
-* ⭐ **[IVPN](https://www.ivpn.net/)** - [Pricing](https://i.imgur.com/Iq92wOO.png) / [Free Trial](https://redd.it/nzjmqa)
+* ⭐ **[IVPN](https://www.ivpn.net/)** - [Pricing](https://i.imgur.com/cVTX688.png) / [Free Trial](https://redd.it/nzjmqa)
 * ⭐ **[OVPN](https://www.ovpn.com/)** - [Pricing](https://i.imgur.com/ALOfSxn.png)
 * ⭐ **[Proton](https://protonvpn.com)** - [Pricing](https://i.imgur.com/hkhZGg1.png) / No Torrenting w/ Free Version
 * ⭐ **[Windscribe](https://windscribe.com)** - [Pricing](https://i.imgur.com/D7015rq.png) / Free Version Available / [Improved App](https://github.com/Windscribe/desktop-v2)
