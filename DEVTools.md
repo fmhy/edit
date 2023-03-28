@@ -145,7 +145,7 @@
 * [HackersFriend](https://www.hackersfriend.com/tutorials/) - Competitive Programming Tutorials
 * [algonds](https://github.com/MaciejWas/algonds) - Competitive Programming Practice
 * [Data Engineering Practice Problems](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice 
-* [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering - Reverse Engineering Course 
+* [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering) - Reverse Engineering Course 
 * [High Assurance Rust](https://highassurance.rs/) - Software Development Guide
 * [The Linux Kernel](https://www.kernel.org/doc/html/latest/) - Linux Kernel Development Guides / [Archives](https://kernel.org/)
 * [Workbench](https://github.com/sonnyp/Workbench) - Learn / Experiment with Gnome
