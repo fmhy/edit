@@ -330,7 +330,7 @@
 * ⭐ **[KickAssAnime](https://www2.kickassanime.ro/)** - Sub / Dub / [Discord](https://discord.com/invite/GEJk5K7)
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
-* ⭐ **[The Index](https://theindex.moe)** or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - Curated List of Anime Sites / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
+* ⭐ **[The Index](https://theindex.moe)**, [WEEB wiki](https://weeb.pages.dev/) or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - Japanese Media Indexes / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * [AnimehHub](https://animehub.ac/) - Sub / Dub
 * [Animixplay](https://animixplay.tube/) - Sub / Dub
 * [123Anime](https://123animes.ru/) - Sub / Dub
