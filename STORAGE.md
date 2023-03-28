@@ -2,7 +2,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/sAgJRZv.png)** - For mobile users
+**[Table of Contents](hhttps://i.imgur.com/bafN8E9.png)** - For mobile users
 
 ***
 
@@ -1408,6 +1408,14 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 ⭐ **[HakuNeko](https://hakuneko.download/) / [2](https://github.com/manga-download/hakuneko)**
 
 [Comics Downloader](https://github.com/Girbons/comics-downloader), [MangaRipper](https://github.com/NguyenDanPhuong/MangaRipper), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [MangaBot](http://mangabot.github.io/), [Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader), [AnimeClassroom](https://github.com/justdvnsh/AnimeClassroom), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [mangadesk](https://github.com/darylhjd/mangadesk), [mdownloader](https://github.com/Rudoal/mdownloader), [mangapy](https://pypi.org/project/mangapy/), [manga2mobi](https://github.com/KevCui/manga2mobi), [Akianonymus](https://github.com/Akianonymus/mangadl-bash), [simple-manga-downloader](https://github.com/Kanjirito/simple-manga-downloader), [mangodl](https://github.com/Gyro7/mangodl), [anime-dl](https://github.com/vrienstudios/anime-dl) / [2](https://github.com/vrienstudios/anime-dl), [manga-py](https://github.com/manga-py/manga-py), [mangal](https://github.com/metafates/mangal), [comicMaker](https://github.com/gunjannandy/comicMaker), [LittleWeeb](https://littleweeb.github.io/)
+
+***
+
+* ⭐ **[Tachiyomi](https://github.com/Suwayomi)** 
+* ⭐ **Tachiyomi Tools** - [Web Client](https://github.com/TachiWeb) / [Desktop Client](https://github.com/Suwayomi/Tachidesk-Server) / [Discord](https://discord.com/invite/tachiyomi) / [Download Manager](https://github.com/Daedren/MangaManage)
+
+[AllMangasReader](http://allmangasreader.com/), [Houdoku](https://houdoku.org/), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi), [isoComic](https://github.com/isomerase/isocomic-extensions), [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer)
+
 
 ***
 
