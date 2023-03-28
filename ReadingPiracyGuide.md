@@ -956,12 +956,9 @@
 * [NineAnime](https://www.nineanime.com/category/)
 * [WhereCanIReadManga?](https://wherecanireadmanga.com/) - Legal
 * [OtakuGallery](http://www.otakugallery.com/) - Manga Artbooks
-* [HappyPanda X](https://happypandax.github.io/), [Tenma](https://github.com/Tenma-Server/Tenma), [KavitaReader](https://www.kavitareader.com/), [Komikku](https://gitlab.com/valos/Komikku), [Mango](https://github.com/hkalexling/Mango), [Tanoshi](https://faldez.github.io/tanoshi/) or [Komga](https://komga.org/) / [GitHub](https://github.com/gotson/komga) / [Discord](https://discord.gg/TdRpkDu) - Self-Hosted Manga Readers / Managers
-* [LANraragi](https://github.com/Difegue/LANraragi) - Manga / Doujin Manager for NAS / [Discord](https://discord.com/invite/aRQxtbg)
 * [Kaizoku](https://github.com/oae/kaizoku) -  Self-Hosted Manga Downloader
 * [Manga APIs](https://rentry.co/manga-apis) - Manga Site API's  
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
-* [MangaOnlineViewer](https://github.com/TagoDR/MangaOnlineViewer) - Load Pages into One Viewer
 * [MangaEditor](https://moeka.me/mangaEditor/) - Online Manga Editor
 * [CBZ-Manga-Creator](https://github.com/PonyLucky/CBZ-Manga-Creator) - Image to CBZ Converter
 * [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en), [manga-translator](https://github.com/cameronkinsella/manga-translator) or [Scanlate](https://scanlate.io/) - Manga Translator
