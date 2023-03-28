@@ -213,6 +213,8 @@
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book 
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
 * [Slip](https://www.slip.so/) - Build Programming Courses
+* [John Hammond](https://www.youtube.com/@_JohnHammond) - Cybersecurity tutorials on Youtube
+
 
 ***
 
@@ -233,7 +235,7 @@
 * [Awesome DataScience](https://github.com/academic/awesome-datascience) or [Best Data Science Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources) - Data Science Resources
 * [Mage](https://www.mage.ai/) - Data Science Pipelines
 * [SuperNova](https://www.supernova.io/) - Design System Manager
-* [Grafana](https://grafana.com/) or [MongoDB](https://www.mongodb.com/) - Dev Data Dashboards
+* [Grafana](https://grafana.com/) or [MongoDB](https://www.mongodb.com/) or [Tigris Data](https://www.tigrisdata.com/) - Dev Data Dashboards
 * [Interplay](https://interplayapp.com/) - Product Design Tool
 * [Awesome Bots](https://github.com/DopplerHQ/awesome-bots) - Developer Bot Index
 * [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students

@@ -357,7 +357,7 @@
 
 # ► Usenet
 
-* ⭐ **[Usenet Guide / Automation Setup](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic)** / [2](https://redd.it/4x2mc9)
+* ⭐ **[Usenet Guide / Automation Setup](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic)** / [2](https://redd.it/4x2mc9) / [3](https://www.iitk.ac.in/LDP/HOWTO/Usenet-News-HOWTO/x27.html) / [4](https://graph.org/EVERYTHING-YOU-NEED-TO-KNOW-ABOUT-USENET-09-04) / [5](https://www.reddit.com/r/usenet/wiki/index/)
 * ⭐ **[Usenet Tools / Services](https://curlie.org/en/Computers/Usenet)** or [UsenetTools](http://www.usenettools.net/)
 
 ## ▷ Indexers
@@ -400,12 +400,14 @@
 * ⭐ **[sabnzbd](https://sabnzbd.org/)** / [Grabber](https://github.com/lem6ns/sabgrab)
 * [nzbget](https://nzbget.net/)
 * [Usenet File Hashes](https://gist.github.com/4chenz/de3a3490aff19fd72e4fdd9b7dafc8f4) - Link File Hashes
+* [Tg-UsenetBot](https://github.com/sanjit-sinha/Tg-UsenetBot) - Usenet telegram bot with auto upload to google drive\
 
 ***
 
 # ► File Leeches 
 
 * ⭐ **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)** or [leechlisting](https://www.leechlisting.com/) - Leech Lists
+* [OkDebrid](https://okdebrid.com/)
 * [@Transload](https://t.me/transload), [@deltaleechbot](https://t.me/deltaleechbot) or [@GTransLoaderbot](https://t.me/GTransLoaderbot) - Telegram Leech Bots
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Send Premium Files to Leeches
 * [RapidGrab](https://rapidgrab.pl/) - Leech
