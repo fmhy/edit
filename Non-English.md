@@ -434,7 +434,7 @@
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
 * [GameTronik](https://www.gametronik.com/site/index.php) - Abandonware / Emulators
 * [Emurom](https://www.emurom.net/) - Emulators / ROMs
-* [TousLeDrivers](https://www.touslesdrivers.com/) - Drivers
+* [TousLesDrivers](https://www.touslesdrivers.com/) - Drivers
 
 ## ▷ Torrenting
 
@@ -473,7 +473,6 @@
 * [VostFree](https://vostfree.com/) - Anime
 * [animevostfr](https://animevostfr.tv/) - Anime
 * [animesultra](https://www1.animesultra.com/) - Anime
-* [anime-sama](https://anime-sama.fr/) - Anime
 * [anime-sama](https://anime-sama.fr/) - Anime
 * [toonanime](https://vvww.toonanime.cc/) - Anime
 * [VoirCartoon](https://voircartoon.com/) - Cartoons
