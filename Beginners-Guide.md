@@ -67,7 +67,7 @@
 ***
 ***
 
-###Privacy
+### Privacy
 
 **[DuckDuckGo](https://duckduckgo.com/)** - Tracker free web search
 **[ProtonMail](https://protonmail.com/)** - Encrypted email service
