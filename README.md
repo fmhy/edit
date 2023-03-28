@@ -2,7 +2,7 @@
 
 **Things to note:**
 
-* Anyone can [organize, correct or change](https://rentry.co/FMHYedit) anything they feel could be improved.
+* Anyone can suggest [changes or corrections](https://rentry.co/FMHYedit) to the wiki.
 
 * If you're adding a new site, please [search](https://redd.it/105xraz) first to make sure we don't already have it.
 
