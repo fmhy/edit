@@ -67,7 +67,6 @@
 * [DownArchive](http://downarchive.org/) - Video / Audio / Software / Games / ROMs / Android / Books / Magazines
 * [AsanDL](http://asandl.com/) - Video / Audio / Games / Software / Books / Magazines / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [SceneP2P](https://www.scenep2p.com) - Video / Audio / Games / ROMs / Software / Android / Books / Magazines
-* [WarezMagazine](https://warezmagazine.us/) - Video / Audio / Software / Games / Android / Books / Magazines / NSFW
 * [Adit-HD](https://www.adit-hd.com/) - Video / Audio / Games / Books 
 * [Novanon](https://novanon.net/) - Video / Audio / Software / Games / Magazines / Comics / Android / Books / Courses
 * [psychodownloads](http://psychodownloads.com/forum.php) - Video / Audio / Software / Android / Games / ROMs / Books / Magazines / NSFW
