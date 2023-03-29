@@ -218,7 +218,6 @@
 * [Arcade Punks](https://www.arcadepunks.com/) - ROMs
 * [NGR](https://www.nextgenroms.com/) - ROMs
 * [LoveROMs](https://www.loveROMs.online/) - ROMs
-* [pspgamesland](https://pspgamesland.com/), [2](https://akamigames.net/) - ROMs
 * [FantasyAnime](https://fantasyanime.com/) - ROMs
 * [NesGM](https://nesgm.net/) - ROMs / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [ROM World](http://www.romworldonline.com/) - ROMs / [How-to](https://i.imgur.com/Mqab82O.png)
