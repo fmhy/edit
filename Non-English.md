@@ -115,7 +115,6 @@
 * [galaxymanga](https://galaxymanga.org/) - Manga
 * [hijala](https://hijala.blogspot.com/) - Manga
 * [manga-flix](https://www.manga-flix.com/) - Manga
-* [manhwa-arabic](https://manhwa-arabic.com/) - Manga
 * [Aldiwan](https://www.aldiwan.net/) - Poems
 
 ***
@@ -307,7 +306,6 @@
 * [AC.QQ](https://ac.qq.com/) - Manga
 * [BiliBili](https://manga.bilibili.com/) - Manga
 * [manhuagui](https://www.manhuagui.com/) - Manga
-* [dmzj](https://www.dmzj.com/) - Manga
 * [manwa](https://manwa.me/) - Manga
 * [Rimanb](https://rimanb.com/) - Manga
 * [Laimanhua](https://www.laimanhua.net/) - Manga
@@ -370,7 +368,6 @@
 ## ▷ Streaming
 
 * [FilmCentralen](https://filmcentralen.dk/) - Movies 
-* [Free TV Stream](http://www.freetvstream.in/) - TV / Sports / Live
 * [DR.DK](https://www.dr.dk/) - Movies / TV / Live 
 
 ***
@@ -644,7 +641,6 @@
 * [MKVHub](https://www.mkvhub.town/) - Movies / TV
 * [Full4Movies](https://www.full4movies.digital/) - Movies / TV / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
 * [Moviehunt](https://moviehunt.us) - Movies / TV
-* [Roshiya](https://roshiya.me/) - Movies / TV
 * [MoviesJet](https://moviesjet.one/) - Movies / TV
 * [UncutHD](https://www.uncuthd.guru/) - Movies
 * [Foumovies](https://www.foumovies.pw/) - Movies
@@ -952,7 +948,6 @@
 ## ▷ Torrenting
 
 * [TorrentHaja](https://torrenthaja.com/) - Video / Audio / Games / Software / Books
-* [Search.ibe](https://search.ibe.kr/) - Torrent Search
 
 ## ▷ Streaming
 
@@ -1312,7 +1307,6 @@
 * [Biblioteca Brasiliana](https://digital.bbm.usp.br/) - Books
 * [baixelivros](https://www.baixelivros.com.br/) - Books
 * [EbooksBrasil](https://ebooksbrasil.org/) - Books
-* [Le-Livros](https://ler-livros.com/) - Books
 * [OnlineCursoGatuitos](https://onlinecursosgratuitos.com/) - Books
 * [Biblioteca Virtual](https://www.sp.senac.br/jsp/default.jsp?newsID=a21382.htm&testeira=386) - Open Digital Libraries
 * [culturaacademica](https://www.culturaacademica.com.br/) - Educational Books
@@ -1528,7 +1522,6 @@
 * [asiakino.net](https://asiakino.net/ ) - Asian Drama
 * [VseDoramy](https://vsedoramy.net/) - Asian Drama
 * [indiakino.net](https://indiakino.net/ ) - Indian Movies / TV
-* [hindcine.org](https://hindcine.org/) - Indian TV
 * [doram](https://doram.cc/) - Asian TV
 * [turkishtv.ru](http://turkishtv.ru/) - Turkish / Indian TV
 * [kinoturk.net](https://kinoturk.net/) - Turkish Movies / TV
@@ -2033,7 +2026,6 @@
 * [LuotPhim](https://luotphim.cc/) - Movies / TV
 * [NguonPhim](http://nguonphim.org/), [2](http://nguonhd.com/), - Movies / TV
 * [Phim1080](https://phim1080z.com/), [2](https://fim1080.com/) - Movies / TV
-* [PhimHD](http://phimhd.xyz/) - Movies / TV
 * [PhimTor](https://phimtor.com/) - Movies
 * [HoatHinhTQ](https://www.hhtq.net/) - Chinese Animation
 * [HHTQtv](https://hhtq.tv/) - Chinese Animation
