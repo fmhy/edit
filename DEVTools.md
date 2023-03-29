@@ -16,13 +16,13 @@
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive [Archive](https://github.com/nbats/FMHYedit/blob/main/base64.md#freecodechamp-archive)
 * ⭐ **[30 Seconds of Code](https://www.30secondsofcode.org/)** - Find Code Snippets
 * ⭐ **[Programming / Coding Tutorials](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_coding_tutorials)**
+* ⭐ **[Dev YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dev_youtube_channels)** - Learn Development / Programming via YouTube
 * ⭐ **[Free Courses by Xemu](https://github.com/nbats/FMHYedit/blob/main/base64.md#free-courses-by-xemu)** - Programming Course Drives
 * ⭐ **[Phind](https://www.phind.com/)** - Developer Q&A AI
 * ⭐ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - Read / Download Programming Books
 * [RedHat](https://developers.redhat.com/) - Development Tutorials
 * [Dev.tube](https://dev.tube/) - Developer Talks
-* [Roadmap](https://roadmap.sh/) - Developer Roadmaps / Guides 
-* [Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers), [andrew--r/channels](https://github.com/andrew--r/channels), [Awesome-Youtube-Channels](https://github.com/epoyraz/), [YT Dev Channels](https://rentry.co/cozqr) or [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) - Programming / Development YouTube Channels
+* [Roadmap](https://roadmap.sh/) - Developer Roadmaps / Guides
 * [QuickRef.ME](https://quickref.me/), [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
 * [Programming Challenges](https://i.imgur.com/FPwNgOK.png), [HackTheEarth](https://www.hackerearth.com/challenges/), [EMKC](https://emkc.org/challenges) or [Code Golf](https://codegolf.stackexchange.com/) - Programming Challenges
 * [Codexplainer AI](https://chrome.google.com/webstore/detail/codexplainer-ai-beta/mekadgeckpcgideipfhbcapmenbadejp) or [Denigma](https://denigma.app/#demo) - Code Explanations
@@ -88,7 +88,8 @@
 * [Awesome Certificates](https://github.com/PanXProject/awesome-certificates) - Dev Courses with Certificates
 * [DZone](https://dzone.com/) - Developer Tutorials
 * [Markdown Tutorial](https://www.markdowntutorial.com/) - Interactive Markdown Tutorial
-* [Aquent Gymnasium](https://thegymnasium.com/) - Courses
+* [Aquent Gymnasium](https://thegymnasium.com/) - Web Dev Tutorials
+* [Codevolution](https://www.youtube.com/@Codevolution) - Web Dev YouTube Tutorials
 * [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app) - React Typescript Cheatsheet
 * [Tackling TS](https://exploringjs.com/tackling-ts/toc.html) or [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
 * [HTMLDog](https://htmldog.com/) - HTML / CSS / JavaScript Tutorials
@@ -191,7 +192,7 @@
 * [Python Discord](https://pythondiscord.com/resources/) or [Python Reference](https://github.com/rasbt/python_reference) - Python Learning Resources
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) - Python Guide
 * [CodingBat](https://codingbat.com/) or [PyQuickie](https://chrome.google.com/webstore/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - Python / Java Practice
-* [Java Beginners](https://github.com/nbats/FMHYedit/blob/main/base64.md#java-beginners) - Java Tutorials
+* [Java Beginners](https://github.com/nbats/FMHYedit/blob/main/base64.md#java-beginners) or [AmigosCode](https://www.youtube.com/@amigoscode) - Java Tutorials
 * [Python Programming Hub](https://github.com/Tanu-N-Prabhu/Python) - Python Learning Repository
 * [Python4Everyone](https://py4e.com/), [A Byte of Python](https://python.swaroopch.com/), [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/), [Learn Python](https://www.learnpython.org/), [Learn-Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
 * [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - Python Lessons
@@ -219,7 +220,7 @@
 
 ## ▷ Cybersecurity
 
-* [Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources) or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources
+* ⭐ **[Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)** or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources
 * [picoCTF](https://picoctf.org/), [CTFLearn](https://ctflearn.com/), [HTB](https://academy.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
 * [DefendTheWeb](https://defendtheweb.net/) - Cybersecurity Challenges
 * [Cyber Talent Kids](https://cybertalentskids.com/) - Learn About Cybersecurity
@@ -227,7 +228,7 @@
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Pentesting / Security Index
 * [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn Pentesting
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
-* [John Hammond](https://www.youtube.com/@_JohnHammond) - Cybersecurity YouTube Tutorials
+* [John Hammond](https://www.youtube.com/@_JohnHammond) or [LowLevelLearning](https://www.youtube.com/@LowLevelLearning/) - Cybersecurity YouTube Tutorials
 
 ***
 
@@ -1049,7 +1050,6 @@
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Web Scraping Tool Index
 * [Awesome-Discord-Communities](https://github.com/mhxion/awesome-discord-communities) - Programming / Developer / Discord Communities 
 * [TechBliss](https://www.techbliss.org/) - Coding Forum
-* [iTabCode](https://www.itabcode.net/) - Programming / Computer Science Forum
 * [Awesome Twitter Accounts](https://github.com/yask123/AwesomeTwitterAccounts) or [Awesome Twitter Communities](https://github.com/mattn/awesome-twitter-communities) - Curated List of Programming Related Twitter Pages 
 * [Awesome Programming](https://github.com/hardikvasa/awesome-programming) - Programming Resources 
 * [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality/wiki) - Software Quality Testing Tools
