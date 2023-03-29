@@ -11,12 +11,12 @@
 
 # ► Learning / Cheat Sheets
 
+* ⭐ **[Programming / Coding Tutorials](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_coding_tutorials)**
+* ⭐ **[Dev YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dev_youtube_channels)** - Learn Development / Programming via YouTube
 * ⭐ **[StackOverflow](https://stackoverflow.com/)** / [Frontend](https://code.whatever.social/), [DecodingDevOps](https://www.decodingdevops.com/) or [Stack Roboflow](https://stackroboflow.com/) - Developer Q&A
 * ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Courses / [Infinite Trial](https://pastebin.com/aJ4v55ae)
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive [Archive](https://github.com/nbats/FMHYedit/blob/main/base64.md#freecodechamp-archive)
 * ⭐ **[30 Seconds of Code](https://www.30secondsofcode.org/)** - Find Code Snippets
-* ⭐ **[Programming / Coding Tutorials](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_coding_tutorials)**
-* ⭐ **[Dev YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dev_youtube_channels)** - Learn Development / Programming via YouTube
 * ⭐ **[Free Courses by Xemu](https://github.com/nbats/FMHYedit/blob/main/base64.md#free-courses-by-xemu)** - Programming Course Drives
 * ⭐ **[Phind](https://www.phind.com/)** - Developer Q&A AI
 * ⭐ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - Read / Download Programming Books
@@ -56,8 +56,8 @@
 * [LearnYouHaskell](http://learnyouahaskell.com/chapters) - Haskell Guide
 * [RubyMonk](https://rubymonk.com/) - Ruby Tutorials 
 * [Learn to Program](https://pine.fm/LearnToProgram/) - Ruby Tutorials
-* [LearnGo](https://github.com/inancgumus/learngo) or [play-with-go](https://play-with-go.dev/) - Learn Go
-* [GoLang.org](https://golang.org/doc/tutorial/getting-started) - Go Tutorial
+* [LearnGo](https://github.com/inancgumus/learngo) or [play-with-go](https://play-with-go.dev/) - Learn Go Programming
+* [GoLang.org](https://golang.org/doc/tutorial/getting-started) or [Tutorial Edge Go](https://github.com/TutorialEdge/Go)  - Go Programming Tutorials
 * [HowIStart Go](https://howistart.org/posts/go/1/) - Go Setup Guide
 * [Rust Learning](https://github.com/ctjhoa/rust-learning) - Rust Learning Resources
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) - Rust Programming Guidebook
@@ -221,6 +221,7 @@
 ## ▷ Cybersecurity
 
 * ⭐ **[Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)** or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources
+* [Cyber Security Courses](https://github.com/nbats/FMHYedit/blob/main/base64.md#cyber-security-courses) or [Skills for All](https://skillsforall.com/) - Cyber Security Courses
 * [picoCTF](https://picoctf.org/), [CTFLearn](https://ctflearn.com/), [HTB](https://academy.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
 * [DefendTheWeb](https://defendtheweb.net/) - Cybersecurity Challenges
 * [Cyber Talent Kids](https://cybertalentskids.com/) - Learn About Cybersecurity
@@ -346,7 +347,7 @@
 * [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty), [Awesome Bug Bounty Builder](https://github.com/0xJin/awesome-bugbounty-builder) or [Bug Bounty](https://github.com/sehno/Bug-bounty) - Bug Bounty Resources
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - CTF Resources
 * [Authorizer](https://github.com/authorizerdev/authorizer) - Developer Authentication App
-* [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/), [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources), [Infosec Resources](https://github.com/stong/infosec-resources) or [Anon Security](https://t.me/anon_server) - Cybersecurity Resources
+* [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/), [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources), [awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security), [Infosec Resources](https://github.com/stong/infosec-resources) or [Anon Security](https://t.me/anon_server) - Cybersecurity Resources
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [The White Circle](https://twc1rcle.com/) - Cybersecurity Community
 * [Advisory Database](https://github.com/github/advisory-database) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
@@ -801,7 +802,7 @@
 * [XDGuru](https://www.xdguru.com/) - Adobe XD Resources
 * [GoNative](https://gonative.io/) - Convert Websites to Mobile Apps
 * [Media Kit](https://github.com/alexmercerind/media_kit) - Video / Audio Library for Flutter and Dart
-* [Kali NetHunter](https://store.nethunter.com/en/) - Penetration Testing / Forensics Apps
+* [Kali NetHunter](https://store.nethunter.com/en/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
 * [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
 * [Uiautomator2](https://github.com/openatx/uiautomator2) or [Appium](http://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
 * [SigNoz](https://signoz.io/) - Detect App Issues
@@ -853,6 +854,7 @@
 * [3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models) - 3D Models / Tools
 * [Unreal Engine](https://www.unrealengine.com/) - 3D Creation Tool / [Python](https://github.com/20tab/UnrealEnginePython) / [C#](https://gamefromscratch.com/getting-started-with-unrealclr/) / [3D Scans](https://quixel.com/megascans) / [File Explorer](https://github.com/4sval/FModel)
 * [Tommti Systems](http://www.tommti-systems.de/go.html?http://www.tommti-systems.de/main-Dateien/files.html) - 3D Benchmark Tools
+* [XeSS](https://github.com/intel/xess/blob/main/doc/XeSS%20Developer%20Guide%20English%20v1.1.pdf) - Increase Framerate of Game
 * [Serpent.ai](http://serpent.ai/) - Game Agent Framework
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
 * [Faux on 3D](https://gizmo199.itch.io/fauxton3d) - Sprite Stacking Framework
@@ -899,6 +901,7 @@
 * [v2saconv](https://github.com/DK22Pac/v2saconv) - GTAV to GTASA Resource Converter
 * [samp-node-lib](https://github.com/peterszombati/samp-node-lib) - GTASA Multiplayer Scripting Library
 * [VEEDI](https://www.veedi.com/) - Create Game Walkthrough Videos
+* [AICommand](https://github.com/keijiro/AICommand) - ChatGPT with Unity Editor
 * [Post-Processing](https://github.com/GarrettGunnell/Post-Processing) - Post Processing Pipeline For Unity
 * [Hekky](https://github.com/hyblocker/hekky-shaders) - Unity Shaders / [Docs](https://docs.hyblocker.dev/en/)
 * [CraftPix](https://craftpix.net/freebies/), [Kenney](https://www.kenney.nl/), [/r/GameAssets](https://www.reddit.com/r/gameassets/), [UnityAssets4Free](https://unityassets4free.com/), [Open Game Art](https://opengameart.org/), [UnityFreaks](https://www.unityfreaks.com/), [GameDevUE](https://t.me/GameDevUE), [SreamGridDB](https://www.steamgriddb.com/) or [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free) - Game Development Assets
@@ -1096,6 +1099,7 @@
 * [Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) - Visual Studio Code Extensions 
 * [awesome-kotlin](https://kotlin.link/) - Kotlin Resource Index / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
 * [Diskord](https://gitlab.com/diskord/diskord) - Kotlin Client for Discord
+* [Awesome Go](https://awesome-go.com/) - Go Programming Resources
 * [Go Recipes](https://github.com/nikolaydubina/go-recipes) - Go Project Tools
 * [lo](https://github.com/samber/lo) - Go Library
 * [Awesome Python](https://github.com/vinta/awesome-python) - Python Resource Index
