@@ -43,7 +43,6 @@
 * [My Great Learning](https://www.mygreatlearning.com/academy) - Courses
 * [Stepik](http://stepik.org/) - Courses
 * [Canvas](https://www.canvas.net/) - Courses
-* [CourseF](https://www.coursef.com/) - Courses
 * [Study is wonderful](https://github.com/xioacd99/study-is-wonderful) - Courses
 * [Open HPI](https://open.hpi.de/) - Courses
 * [Free MOOCs](https://freemoocs.com/) - Courses
@@ -74,7 +73,7 @@
 * [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Computer Science Courses
 * [Learn Computer Science in 1k Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/) - Computer Science Courses
 * [CollegeComendium](https://collegecompendium.goldin.io/) - Computer Science Courses
-* [Computerphile](https://www.youtube.com/@Computerphile/) or [t v nagaraju Technical](https://www.youtube.com/@tvnagarajutechnical9978) - Computer Science YouTube Channels
+* [Computerphile](https://www.youtube.com/@Computerphile/), [CSDojo](https://www.youtube.com/@CSDojo) or [t v nagaraju Technical](https://www.youtube.com/@tvnagarajutechnical9978) - Computer Science YouTube Channels
 * [CSDIY](https://csdiy.wiki/en/) - Computer Science Learning Guide
 * [Bioinformatics](https://github.com/ossu/bioinformatics) - Bioinformatics Courses
 * [sha256_project](https://github.com/oconnor663/sha256_project) - Applied Cryptography Course
@@ -199,7 +198,6 @@
 * [Download Online Tutorials Free](https://download.howtofree.org/) - Udemy Courses
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
 * [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) - [Discord](https://discord.gg/tMzrSxQ)
-* [Cyber Security Courses](https://github.com/nbats/FMHYedit/blob/main/base64.md#cyber-security-courses) or [Skills for All](https://skillsforall.com/) - Cyber Security Courses
 * [340GB Linkedin Courses](https://github.com/nbats/FMHYedit/blob/main/base64.md#340gb-linkedin-coursess) or [Linkedin_Learning](https://t.me/linkedin_learning) - Linkedin Courses
 * [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses
 * [Top Linux Interview Questions & Answers](https://github.com/nbats/FMHYedit/blob/main/base64.md#top-linux-interview-qas) - Linux Interview Q&A
@@ -741,6 +739,7 @@ Simulator
 * [Learn Sanskrit](https://www.learnsanskrit.org/) or [Sanskrit Studio](https://sanskritstudio.wordpress.com/) - Sanskrit Lessons and Tools
 * [UBC Sanskrit Learning Tools](https://ubcsanskrit.ca/) - UBC Sanskrit Lessons
 * [Sanskrit Subreddit](https://www.reddit.com/r/sanskrit/) / [Resources](https://www.reddit.com/r/sanskrit/comments/kx3xyu/sanskrit_resources_compilation_post/) - Sanskrit Resources / Discussion
+* [Ambuda](https://ambuda.org/texts/) - Sanskrit Dictionaries / Texts
 
 ***
 
@@ -985,7 +984,6 @@ Simulator
 * [/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/), [explainlikeimfive.io](https://explainlikeimfive.io/) or [ELI5 Club](https://eli5.club/) - Have Anything Explained Very Simply
 * [The XY Problem](https://xyproblem.info/) - XY Problem Explained
 * [50Hacks](https://50hacks.co/) - Productivity Tips
-* [Social Engineers](https://www.socialengineers.net/) - Social Engineering Guides
 * [TheChessWebsite](https://www.thechesswebsite.com/) - Chess Strategy / Analysis
 * [Chess Tempo](https://chesstempo.com/) - Play / Learn Chess
 * [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - Learn Wood Working
@@ -1013,6 +1011,7 @@ Simulator
 * [Lecture Links for Placement Preparation in Computer Science](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
 * [Reddit-wiki-programming](https://github.com/antariksh17/Reddit-wiki-programming) or [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - Computer Science Learning Resources
 * [CompSciLib](https://www.compscilib.com/) - Computer Science Tools
+* [iTabCode](https://www.itabcode.net/) - Programming / Computer Science Forum
 * [Niche](https://www.niche.com/), [TheUniGuide](https://www.theuniguide.co.uk/) or [Top Universities](https://www.topuniversities.com/) - University / School Comparisons 
 * [BachelorStudies](https://bachelorstudies.com/) - Bachelor Degree Search 
 * [College Map](https://nces.ed.gov/ipeds/collegemap/) - College Information Map
