@@ -1615,7 +1615,6 @@
 * [Bliscop](https://www.bliscop.com/) - Online Payment Software
 * [El Museo de los 8 bits](http://www.museo8bits.es/) / [2](https://museo8bits.com/) - History of Computing
 * [TrustScam](https://trustscam.es/) - Website Security Analysis
-* [Cultura Para Todos](https://culturaparatodos.eu/) - Movies / TV / Games / Software Forum
 
 ## ▷ Downloading
 
@@ -1626,6 +1625,7 @@
 * [Fiuxy](https://fiuxy2.com/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
 * [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
 * [Guns's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Games / [Warning](https://rentry.co/48fo5)
+* [Cultura Para Todos](https://culturaparatodos.eu/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
 * [SeriesTV](https://www.seriestv.in/foro.php) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
 * [Flipax2](https://flipax2.me/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
 * [CompucaliTV](https://www.compucalitv.com/) - Video / Software / Games
@@ -1774,9 +1774,9 @@
 
 * ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** / [SMAGX](https://smagx.com/) - Multi-Site Book Search
 * [epublibre](https://www.epublibre.org/) - Books
-* [ebiblioteca](https://ebiblioteca.org/) - Books
+* [eBiblioteca](https://ebiblioteca.org/) - Books
 * [Ebookelo](https://www.ebookelo.com/) - Books
-* [pirateca](https://lapirateca.com/) - Books
+* [La Pirateca](https://lapirateca.com/) - Books
 * [Lectulandia](https://ww2.lectulandia.com/), [2](https://www.lectulandia.co/) - Books
 * [ePub Gratis](https://www.epubgratis.info/) - Books
 * [Espaebook2](https://www.espaebook2.com/) - Books
