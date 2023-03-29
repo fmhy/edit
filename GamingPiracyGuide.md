@@ -63,6 +63,7 @@
 * [Darck Repacks](https://darckrepacks.com/) - Download
 * [RePack.info](https://repack.info/) - Download / Torrent
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
+* [Magipack](https://www.magipack.games) - Retro PC Games
 
 ***
 
@@ -911,6 +912,8 @@
 * [rate.house](https://rate.house/) - Game Database
 * [Backloggery](https://backloggery.com/) - Game Database
 * [listal](https://www.listal.com/) - Game Database
+* [FrontierNav](https://frontiernav.net/) - Game Database
+* [Ethereal Games](https://wiki.etherealgames.com/) or [JRGPC](https://jrpgc.com/) - JRPG Databses
 * [SteamPeek](https://steampeek.hu/) - Indie Game Database
 * [RetroShowcase](https://www.retroshowcase.gr/) - Retro Game Database
 * [AtariAge](https://atariage.com/) - Atari Game Database
@@ -1020,8 +1023,6 @@
 * [Roll20](https://roll20.net/) or [Rolisteam](https://rolisteam.org/) - Tabletop RPG Streaming
 * [Tabletopy](https://tabletopy.com/) - Tabletop RPG Soundboard
 * [Map Generator](https://emptybuttons.itch.io/map-generator) - Tabletop Roleplaying Map Generator
-* [FrontierNav](https://frontiernav.net/) - JRPG Databases & Interactive Maps
-* [Ethereal Games](https://wiki.etherealgames.com/) - JRPG Wiki
 * [Adventurer's Codex](https://adventurerscodex.com) - Online D&D 5e Campaign Manager / System
 * [DS4Windows](https://github.com/Ryochan7/DS4Windows) / [2](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [Input Remapper](https://github.com/sezanzeb/input-remapper) or [InputMapper](https://inputmapper.com/) - Gamepad Input Tools
 * [ViGEmBus](https://github.com/ViGEm/ViGEmBus) or [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
@@ -1036,6 +1037,7 @@
 * [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
 * [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)
 * [Use ESDF](http://www.use-esdf.org/) - OG FPS Control Combo
+* [PokeCommunity](https://www.pokecommunity.com/) - Pokemon Community
 * [Pokemon Typechart](https://pokemondb.net/type) - Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)
 * [PokeList](https://pokemonlist.netlify.app/), [Pokedex](https://github.com/skydoves/Pokedex) or [PokeAPI](https://pokeapi.co/) - Pokedex
 * [NYCPokeMap](https://nycpokemap.com/) - Real-time Pokémon Go map for NYC
