@@ -459,7 +459,6 @@
 * [Naked Scientists](https://www.thenakedscientists.com/) - Podcasts / Shows / Science 
 * [Science Forums](https://www.scienceforums.net/) - Forums / Science 
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://github.com/nbats/FMHYedit/blob/main/base64.md#astronomy--physics) - Books / Notes / Astronomy
-* [RealNotComplex](https://realnotcomplex.com/) - Math / Books
 * [Institute of Mathematics](https://aimath.org/textbooks/) - Math / Books
 * [Engineering Books PDF](https://engineeringbookspdf.com/) - Engineering
 * [EasyEngineering](https://easyengineering.net/) - Engineering
@@ -681,6 +680,7 @@
 * [OpenAire](https://explore.openaire.eu/) - Research Papers
 * [Association for learning Technology](https://repository.alt.ac.uk/view/subjects/) - Research Papers
 * [RePEc](http://repec.org/) - Economic Research Papers
+* [TTS Paper](https://github.com/coqui-ai/TTS-papers) - Text to Speech Papers
 * [PsyArXiv](https://psyarxiv.com/) - Articles / Psychological Sciences 
 * [SkillCommons](https://www.skillscommons.org/) - Work Training Documents 
 * [Institute of Education Sciences](https://eric.ed.gov/) - Documents / Texts / Papers 
@@ -826,7 +826,6 @@
 * ⭐ **[ComicExtra](https://www.comicextra.com/)** or [Comic Online Free](https://comiconlinefree.net/) 
 * ⭐ **[XOXO Comics](https://xoxocomics.com/)** / [2](https://xoxocomics.net)
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
-* [View-Comic](https://view-comic.com/)
 * [View Comics](https://viewcomics.me/)
 * [Read Comics Online](https://readcomicsonline.ru/) 
 * [Marvel_Comicbooks](https://t.me/Marvel_comicbooks) or [DC_Comicbooks](https://t.me/DC_Comicbooks) - Downloads
@@ -905,7 +904,6 @@
 * [MangaSee](https://www.mangasee.net/)
 * [MixedManga](https://mixedmanga.com/)
 * [Disaster Scans](https://disasterscans.com/) - [Discord](https://discord.gg/JbcJCpv)
-* [MangaDoom](https://mngdoom.com/)
 * [MangaSail](https://www.mangasail.co/)
 * [Taadd](http://www.taadd.com/)
 * [BilingualManga](https://bilingualmanga.net/)
@@ -1055,7 +1053,6 @@
 * [FreeWebNovel](https://freewebnovel.com/)
 * [NovelsOnline](https://novelsonline.net/)
 * [EnglishNovelsOnline](https://englishnovelonline.com/)
-* [NovelHD](https://novelhd.com)
 * [LightNovelReader](https://lightnovelreader.com)
 * [AllNovel](https://allnovel.org)
 * [LatestNovel](https://latestnovel.net/)
