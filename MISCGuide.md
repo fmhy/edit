@@ -14,7 +14,7 @@
 * ⭐ **[FMHY Guides](https://www.fmhy.ml/guides)** or [Mega Rentry](https://github.com/nbats/FMHYedit/blob/main/base64.md#mega-rentry) - List of Guides
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
 * ⭐ **[/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/index)**, [2](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki), [3](https://raddle.me/f/Piracy), [4](https://www.saidit.net/s/piracy/) - Piracy Index
-* ⭐ **[/r/PiratedGames Megathread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Gaming Piracy Site Index / [Discord](https://discord.gg/dZWwhUy)
+* ⭐ **[/r/PiratedGames Megathread](https://rentry.org/pgames-mega-thread)**, [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) - Gaming Piracy Index / [Discord](https://discord.gg/dZWwhUy)
 * ⭐ **[The Index](https://theindex.moe)**, [WEEB wiki](https://weeb.pages.dev/) or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - Japanese Media Indexes / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[Champagne Wiki](https://champagne.surge.sh/)**, [2](https://rentry.org/champagne_wiki/) - Piracy Index / [Guides](https://rentry.org/champagne_guides/)
 * ⭐ **[PiratezParty](https://github.com/SpamVerse/Piratezparty)** - Piracy Index / [Telegram](https://t.me/piratezparty)
@@ -62,6 +62,7 @@
 * [The More You Know](https://marckoxx.github.io/) - Site / Tool Index
 * [Yesterlinks](https://links.yesterweb.org/) - Site / Tool Index
 * [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
+* [Awesome Loginless](https://github.com/fiatjaf/awesome-loginless) - Loginless Site Index
 * [/u/fullnumberofcharacte's Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/g37lwb/megapiracywiki/g1lnle5/) - Site / Tool Index
 * [pomfcrawl](https://pomfcrawl.pythonanywhere.com/) - Site / Tool Index
 * [5000 Best](http://5000best.com/websites/) - Site / [Tool](http://5000best.com/tools/) Index
@@ -216,6 +217,7 @@
 * ⭐ **[GG.deals](https://gg.deals/)**, **[IsThereAnyDeal](https://isthereanydeal.com/)**, **[SteamDB](https://steamdb.info/sales/)**, [AllKeyShop](https://www.allkeyshop.com/blog/) or [PSPrices](https://psprices.com/) - Game Price Trackers
 * - Games
 * ⭐ **[Reddit Favorites](https://redditfavorites.com/)**, [NanoReview](https://nanoreview.net/en), [rtings](https://www.rtings.com/), [Kit.co](https://kit.co/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product / Service Reviews
+* ⭐ **[CPUBenchmark](https://www.cpubenchmark.net/)** or [NoteBenchcheck](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html) - GPU / CPU Benchmarks
 * ⭐ **[MechMap](https://www.mechmap.tech/)** / [Guide](https://mechkeys.me/) / [Discord](https://discord.com/invite/mechkeys) or [Alexotos](https://www.alexotos.com/keyboard-vendor-list/) / [Discord](https://discord.com/invite/xMQArAaGRB) - Mechanical Keyboard Recommendations
 * [Technical City](https://technical.city/) or [Techspecs](https://techspecs.io/) - Hardware Comparisons
 * [LabGopher](https://www.labgopher.com/) - eBay Hardware Price Comparisons 
@@ -224,7 +226,6 @@
 * [/r/SuggestAPC](https://reddit.com/r/SuggestAPC)  - PC Suggestion Community
 * [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Laptop Deals](https://laptopsdeals.net/our-gaming-laptops-guide-list/), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
 * [Laptop Knowledge Database](https://laptops.miraheze.org/wiki/Main_Page) or [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Databases
-* [NoteBenchcheck](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html) - GPU / CPU Benchmarks
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
 * [NewMaxx's SSD Site](https://ssd.borecraft.com/) - SSD Buying Guide
 * [Shucks](https://shucks.top/) - External Drive Price Tracker
@@ -264,6 +265,7 @@
 * [BitRefill](https://www.bitrefill.com/) - Buy Gift Cards via Crypto
 * [Search Ebay Sold](https://chrome.google.com/webstore/detail/search-ebay-sold/mhlcjbhhieanjjafbcoeclghpnjhepif) - Ebay Sold Item Search
 * [Type Hound](https://typohound.com/) - Ebay Typo Search
+* [Microsoft Rewards Generator](https://greasyfork.org/en/scripts/457702) - Automate Microsoft Reward Points
 * [Valuta EX](https://valuta.exchange/)  or [Currency World](https://currency.world/)- Currency Converters / [Firefox](https://addons.mozilla.org/en-US/firefox/search/?q=currency%20converter&sort=relevance&type=extension) / [Chrome](https://chrome.google.com/webstore/search/currency%20converter?hl=en&_category=extensions)
 * [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
 * [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wish-list Creators
@@ -294,7 +296,7 @@
 * [wtf.rentry](https://wtf.rentry.co/) or [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
 * [ThisXDoesNotExist](https://thisxdoesnotexist.com/) - Realistic-Looking Fake Versions of Things
 * [Fucking Homepage](https://fuckinghomepage.com/) - Daily Interesting Stuff Homepage
-* [DeviantArt](https://www.deviantart.com/) or [ArtStation](https://www.artstation.com/) - User-Made Art
+* [DeviantArt](https://www.deviantart.com/) or [ArtStation](https://www.artstation.com/) / [Downloader](https://github.com/findix/ArtStationDownloader) - User-Made Art
 * [Different Strokes](https://swsteffes.itch.io/different-strokes) - Online User-Made Art Gallery
 * [SfwChan](http://boards.swfchan.net/) - SFW Archive
 * [SakugaBooru](https://www.sakugabooru.com/) - Anime Animation Booru
@@ -874,7 +876,7 @@
 * [MuscleWiki](https://musclewiki.com/) - Muscle / Exercise Information Tool 
 * [SPSS Tutorials ](https://www.spss-tutorials.com/) - SPSS Practice & Examples
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
-* [Fitocracy](https://www.fitocracy.com/) or [Timely-Fitness](https://github.com/Argentable/Timely-Fitness) - Create Workout Plans
+* [Timely-Fitness](https://github.com/Argentable/Timely-Fitness) - Create Workout Plans
 * [DAREBEE](https://darebee.com/) - Fitness Plans / Workouts
 * [Hevy](https://www.hevyapp.com/), [Iron](https://github.com/kabouzeid/Iron), [Massive](https://gitea.presley.nz/brandon.presley/Massive), [Advagym](https://advagymsolutions.com/user-app/), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines) or [FitHero](https://fithero.app/) - Workout Trackers
 * [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
@@ -1307,7 +1309,6 @@
 * [Broken Link Checker](https://add0n.com/broken-link-checker.html) - Checks Page for Broken Links 
 * [ViewImage](https://github.com/bijij/ViewImage) or [Make GIS Great Again](https://github.com/devunt/make-gis-great-again) - Adds Back "View Image" Button to Google Image Search 
 * [Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search) - Reverse Image Search Extensions / Sites
-* [NooBox](https://ainoob.com/en/project/noobox) - Reverse Image Search, Extract Images, Screenshot & Search 
 * [GoFullPage](https://gofullpage.com/) or [FireShot](https://addons.mozilla.org/en-GB/firefox/addon/fireshot/) - Full Page Screenshots
 * [Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders) - Record your Screen
 * [Booru Slideshow](https://github.com/Chirmaya/BooruSlideshow) - Make Slideshows Easier to Navigate
@@ -1384,7 +1385,7 @@
 *** 
 
 * ⭐ **[Chrome Web Store](https://chrome.google.com/webstore/category/extensions?hl=en)**
-* ⭐ **[Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)** or [Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/cjghohmpcbkfadlcldfcjlnoacgggnoi) - Extension Managers
+* ⭐ **[Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)** or [Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) - Extension Managers
 * [hektCaptcha](https://github.com/Wikidepia/hektCaptcha-extension) - Captcha Solver
 * [Crx4Chrome](https://www.crx4chrome.com/) - Alt Google App Store
 * [WebCRX](https://webcrx.io/) - Install Chrome CRX Files
