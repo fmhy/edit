@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/slOt6Uo.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/whYmImm.png)** - For mobile users
 
 ***
 ***
@@ -21,7 +21,7 @@
 * [DeepAI](https://deepai.org/chat) - DeepAI's Chatbot
 * [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT-3 Based Chatbot
 * [PygmalionAI](https://redd.it/10kr5zk) - Chatbot Built by 4Channers
-* [Dalai](https://cocktailpeanut.github.io/dalai/), [LLaMA C++](https://github.com/ggerganov/llama.cpp) or [Alpaca](https://github.com/antimatter15/alpaca.cpp) - Self-Host Facebooks Chatbot / [Guide](https://rentry.org/llama-tard-v2)
+* [Dalai](https://cocktailpeanut.github.io/dalai/), [LLaMA C++](https://github.com/ggerganov/llama.cpp) or [Alpaca](https://github.com/antimatter15/alpaca.cpp) - Self-Host Facebooks Chatbot / [Guide](https://rentry.org/llama-tard-v2), [2](https://github.com/tatsu-lab/stanford_alpaca)
 * [InWorld](https://www.inworld.ai/) - Roleplaying Chatbots
 * [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbots
 * [Chai](https://chai.ml/) - Entertainment Focused Chatbot
@@ -32,26 +32,30 @@
 * [AskEdith](https://www.askedith.ai/demo) - Job / Business Q&A AI
 * [Phind](https://www.phind.com/) - Developer Q&A AI
 * [Shell GPT](https://github.com/TheR1D/shell_gpt) - Coding AI
+* [AICommand](https://github.com/keijiro/AICommand) - ChatGPT with Unity Editor
 * [Leon](https://getleon.ai/) - AI Assistant
 * [nat.dev](https://nat.dev/) - Test LLMs
 * [CharacterHub](https://www.characterhub.org/) - Characters for LLMs
 * [Kajiwoto](https://kajiwoto.com/), [Miki](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
+* [YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained Language Model
+* [Bloom](https://huggingface.co/bigscience/bloom) - Open-access Multilingual Language Model
 
 ***
 
 ## ▷ ChatGPT Tools
 
-* ⭐ **[Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)** - ChatGPT Resources
+* ⭐ **[Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)**, [WikiGPT3](https://www.wikigpt3.com/) or [SaaS GPTers](https://saasgpters.com/) - ChatGPT Resources
 * ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [2](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) or [Merlin](https://merlin.foyer.work/) - Enhancement Extensions
 * ⭐ **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
 * [EmergentMind](https://www.emergentmind.com/) - ChatGPT Forum
+* [Text Gen Web UI](https://github.com/oobabooga/text-generation-webui/) - AI Chat WebUI
 * [ChatGPT Desktop](https://github.com/sonnylazuardi/chatgpt-desktop) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
 * [Assistant CLI](https://github.com/diciaup/assistant-cli), [ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) or [openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt) - TUIs and CLIs
 * [pyChatGPT](https://github.com/terry3041/pyChatGPT) - Python App
-* [GPTPrompter](https://www.gptprompter.com/) or [ChatGPTBox](https://github.com/josStorer/chatGPTBox) - ChatGPT In Browser
+* [GPTPrompter](https://www.gptprompter.com/), [ChatHub](https://github.com/chathub-dev/chathub) or [ChatGPTBox](https://github.com/josStorer/chatGPTBox) - ChatGPT Browser Extensions
 * [WeChat ChatGPT](https://github.com/fuergaosi233/wechat-chatgpt) - ChatGPT for WeChat
-* [ChatGPT Advanced](https://github.com/qunash/chatgpt-advanced) - Add Web Results to ChatGPT
-* [ChatGPT4Google](https://chatgpt4google.com/), [ChatGPTGoogle](https://github.com/wong2/chatgpt-google-extension) or [ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Add ChatGPT to Web Results
+* [ChatGPT Advanced](https://github.com/qunash/chatgpt-advanced) - Add Search Results to ChatGPT
+* [ChatGPT4Google](https://chatgpt4google.com/), [ChatGPT Search](https://greasyfork.org/en/scripts/456077), [ChatGPTGoogle](https://github.com/wong2/chatgpt-google-extension) or [ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Add ChatGPT to Search Results
 * [ShareGPT](https://sharegpt.com/) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats 
 * [ChatGPT Notification](https://chrome.google.com/webstore/detail/chatgpt-notification/eklmiefkbieejjjhmpjdllphmcjdndin) - Receive Notifications
 * [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear Chats
@@ -93,6 +97,9 @@
 * [AI Creator Tools](https://library.phygital.plus/) - AI Directory
 * [topai](https://topai.tools/) - AI Directory
 * [AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - AI Directory
+* [AI Center](https://www.aicenter.ai/) - AI Directory
+* [Wiki AI Tools](https://www.wikiaitools.com/) - AI Directory
+* [Cookup AI](https://cookup.ai/) - AI Directory
 * [RunawayML](https://runwayml.com/) - Browser Based AI
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - AI Experiments
 * [OpenCV](https://opencv.org/) - A.I. Vision Library
@@ -187,6 +194,7 @@
 * ⭐ **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**. [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
 * ⭐ **[PromptMania](https://promptomania.com/)** - AI Image Prompt Generator
 * [PublicPrompts](https://publicprompts.art/) - AI Image Prompts / [Discord](https://discord.com/invite/jvQJFFFx26)
+* [Unprompted](https://github.com/ThereforeGames/unprompted) - Stable Diffusion Text Generator
 * [Stable Horde](https://stablehorde.net/) - AI Image Generator / [Client](https://dbzer0.itch.io/stable-horde-client)
 * [Pinegraph](https://pinegraph.com/create) - Image Transformation / Sketchpad
 * [InPainter](https://inpainter.vercel.app/paint) / [2](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) - AI Image Generator
@@ -210,10 +218,11 @@
 * [AI Art Generator](https://neural.love/ai-art-generator) - AI Image Generator
 * [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent) - AI Image Generator
 * [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - AI Image Generator
-* [Dreambooth](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - AI Image Generator
+* [Dreambooth](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - AI Image Generator / [WebUI](https://github.com/d8ahazard/sd_dreambooth_extension)
 * [Diffuse The Rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest) - AI Image Generator
 * [InvokeAI](https://github.com/invoke-ai/InvokeAI) - AI Image Generator
 * [Waifu Diffusion](https://github.com/harubaru/waifu-diffusion) - Anime Image Generator
+* [Gligen](https://huggingface.co/spaces/gligen/demo) - Open-Set Grounded Text-to-Image Generation
 * [SD GUITard](https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4?usp=sharing) - AI Image Generation Colab
 * [AI Notebooks](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - AI Image Generation Colab
 * [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) - AI Image Generation Colab
@@ -224,6 +233,10 @@
 * [Interiorai](https://interiorai.com/) - AI Interior Design Tool
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) - Protect Digital Art from AI Copies
+
+***
+
+## ▷ [Image Restoration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_restoration)
 
 ***
 
@@ -271,3 +284,23 @@
 * [Riffusion](https://www.riffusion.com/)
 * [Musico](https://www.musi-co.com/listen/streams) - AI Generated Songs
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
+
+***
+
+## ▷ Voice Change / Clone
+
+* [Voice Changer](https://voicechanger.io/) - Voice Changer
+* [voice-changer](https://www.voice-changer.org/) - Voice Changer
+* [MorphVOX](https://github.com/nbats/FMHYedit/blob/main/base64.md#morphvox) - Voice Changer
+* [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - Voice Changer
+* [MyVoiceMod](https://myvoicemod.com/) - Voice Changer
+* [Voice.ai](https://voice.ai/voice-changer) - Voice Changer
+* [so-vits-svc-fork](https://github.com/34j/so-vits-svc-fork) - Voice Changer
+* [FTM Voice Changer](https://lingojam.com/FemaletoMaleVoiceChanger) - Voice Changer
+* [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changer
+* [NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB) - Singing Voice Enhancer
+* [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) - Voice Cloning
+* [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Voice Cloning
+* [VCloner](https://vocloner.com/) - Voice Cloning
+* [tortoise](https://colab.research.google.com/drive/1N8lXviiwfmrS9vYzuFdQnLHlddXMMMvU#scrollTo=vF1d-My9IXXt) - Voice Cloning Colab
+* [AI Voice Clonig](https://git.ecker.tech/mrq/ai-voice-cloning/wiki) - Voice Cloning Guide
