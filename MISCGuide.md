@@ -57,7 +57,7 @@
 * [DirtyWarez Tracker](https://dirtywarez.org/cat/tracker), [OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/) / [2](https://opentrackers.org/), [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) or [awesome-piracy](https://github.com/Igglybuff/awesome-piracy#public-trackers) - Torrent Site Indexes
 * [cata-list](https://cata-list.github.io/) - Site / Tool Index
 * [Website Hunt](https://www.websitehunt.co/) - Site / Tool Index
-* [Toolbox](https://gitlab.com/toolbox-resources/toolbox) - Site / Tool Index
+* [Toolbox](https://toolbox-list.github.io/Toolbox) - Site / Tool Index
 * [Prospector](https://www.prospector.cz/) - Site / Tool Index 
 * [The More You Know](https://marckoxx.github.io/) - Site / Tool Index
 * [Yesterlinks](https://links.yesterweb.org/) - Site / Tool Index
