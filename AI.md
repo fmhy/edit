@@ -143,7 +143,7 @@
 * [Compose](https://www.compose.ai/) - Text Autocomplete AI Extension
 * [InkForAll](https://app.inkforall.com/tools) - Multiple AI Text Tools
 * [SheetPlus](https://sheetplus.ai/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [ExcelFormulaBot](https://excelformulabot.com/) - Excel AI Tools
-* [GPT-JT](http://huggingface.co/togethercomputer/GPT-JT-6B-v1) - Large Language Models Designed for Classification Tasks
+* [GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) - Large Language Models Designed for Classification Tasks
 
 ***
 
