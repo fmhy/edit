@@ -422,7 +422,7 @@
 * [polsy.org.uk](http://polsy.org.uk/) - Alt Players for Video Sites  
 * [Tyle](https://tyle.io/) or [Phideo](https://www.phideo.co.uk/) - Photo Slideshow Video Maker
 * [Rollideo](https://rollideo.com/) - Text to Speech / Subtitles
-* [video2x](https://github.com/k4yt3x/video2x) - Video Upscaler
+* [Video2x](https://video2x.org/) / [Github](https://github.com/k4yt3x/video2x) - Video Upscaler
 * [Anime4K](https://github.com/bloc97/Anime4K) - Anime Video Upscaler 
 * [Video Vault](https://www.bravenewtech.org/) or [mmhmm](https://www.mmhmm.app/) - Video Preservation Tool 
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder

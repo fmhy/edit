@@ -993,6 +993,7 @@
 
 # ► Persian 
 
+* [Awesome Freedom](https://github.com/hiddify/awesome-freedom) - Collection of tools
 * [Wudooh](https://wudooh.app/) - Make Persian Text Clearer
 * [Awesome AI channels](https://github.com/AminTaheri23/Awesome-AI-telegram-gp-and-channel) - Persian Telegram Bot Index 
 * [Free VPN Telegram Channels](https://bin.disroot.org/?85b66e37980b245e#DRbHouuNMfXGRdqPs68y6nGLULhHdvdXzuPdDmBxsyi2) - Free VPN / Telegram
