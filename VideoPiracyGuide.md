@@ -488,7 +488,7 @@
 * ⭐ **[IPTV Web](https://dev-iptv.web.app/)** - TV / Sports
 * ⭐ **[Sports Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming)** - Sports
 * ⭐ **[StreamEast](https://www.streameast.xyz/)** - Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)
-* ⭐ **[RBTV](https://www.rbtv77.com/)** - Sports / [Telegram](https://t.me/+5nwRHlKhydwzNGRl)
+* ⭐ **[RBTV](https://www.rbtv77.com/)** - Sports / [Telegram](https://t.me/+_xlFBUO08tQwZGJl)
 * ⭐ **[Reddit Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_streams)** - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
 * ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)** or [IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) - IPTV Resources / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
