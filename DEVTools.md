@@ -138,6 +138,7 @@
 * [SebastianLague](https://www.youtube.com/c/SebastianLague/playlists?view=50&sort=dd&shelf_id=4) - Game Development Tutorials
 * [Trig for Games](https://demoman.net/?a=trig-for-games) - Trigonometry Lessons for Games
 * [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Making Tutorials
+* [Tracy Profiler](https://github.com/wolfpld/tracy) - Frame Profiler
 
 ***
 
