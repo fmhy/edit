@@ -572,13 +572,10 @@
 * [Blackmod](https://blackmod.net/) - Modded Games
 * [p30afzar](https://dl.p30afzar.com/Games/) - Modded Games
 * [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
-* [APKGrey](https://apkgrey.com/) - Modded Games
-* [DedoMil](http://dedomil.net/) - Java Mobile Games
 * [PlatinMods](https://platinmods.com/) - Modded / Private Game Servers
 * [Now.gg](https://now.gg/) - Online Android Gaming Emulator
 * [PGS](https://www.pgsharp.com/) - Modded Pokémon GO
 * [Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - PokemonGO Resources
-* [NeonRom3r](https://github.com/Gr3gorywolf/NeonRom3r) - Download ROMs
 * [GameEye](https://play.google.com/store/apps/details?id=com.hairyharri.gameye) - Video Game Tracking App
 * [OpenMicroWave](https://omw.xyz.is/) - Morrowind for Android
 * [HMCL-PE](https://github.com/Tungstend/HMCL-PE) - Minecraft for Android
@@ -598,17 +595,13 @@
 * ⭐ **[Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)** - [Screenshot](https://i.imgur.com/8caBvYO.png)
 * [tTorrent](https://play.google.com/store/apps/details?id=hu.tagsoft.ttorrent.lite) - [Screenshot](https://i.imgur.com/S61JgNg.png)
 * [Frostwire](https://play.google.com/store/apps/details?id=com.frostwire.android) - [Screenshot](https://i.imgur.com/EoB3DED.png)
-* [aTorrent](https://play.google.com/store/apps/details?id=com.mobilityflow.torrent) - [Screenshot](https://i.imgur.com/rZ2JeCO.png)
-* [Red Torrent](https://sourceforge.net/projects/redtorrent/) - [Screenshot](https://i.imgur.com/uVKVVLg.png)
-* [Android-A](http://android-a.com/) - [Screenshot](https://i.imgur.com/khlurm7.png)
 * [WeTorrent Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#wetorrent-pro) - [Screenshot](https://i.imgur.com/duCEVqB.png)
 * [Torrent Client](https://f-droid.org/en/packages/com.github.axet.torrentclient/) - [Screenshot](https://gitlab.com/axet/android-torrent-client#screenshots)
-* [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - [Screenshot](https://i.imgur.com/OrK3mLu.png)
 * [BiglyBT](https://android.biglybt.com/) - [Screenshot](https://i.imgur.com/WP7xwYK.png) 
 * [Trireme](https://github.com/teal77/trireme) or [Barrage](https://github.com/maulik9898/barrage) - Deluge Clients
 * [Transdroid](http://www.transdroid.org/) - Manage BitTorrent Clients / [F-Droid](https://f-droid.org/packages/org.transdroid.full/)
 * [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - NZB / Torrent Manager 
-* [TorrHunt](https://torrhunt.pages.dev/) or [TorrSE](https://seedboxs.me/) - Torrent Search
+* [TorrHunt](https://play.google.com/store/apps/details?id=com.oubrDB.torrentHunt) - Torrent Search
 * [Meoko](http://kutt.it/meoko) - Anime Torrent Search
 
 ***
@@ -619,18 +612,17 @@
 * ⭐ **[Mobilism](https://forum.mobilism.org/app/)**, [Project Gutenberg](https://github.com/Pool-Of-Tears/Myne) or [LibGen](https://github.com/manuelvargastapia/libgen_mobile_app) - Ebook Site Apps
 * ⭐ **[Librera](http://librera.mobi/)**  - Ebook Reader
 * ⭐ **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - Ebook Reader
+* ⭐ **[Readera](https://play.google.com/store/apps/details?id=org.readera)** - PDF Reader
 * ⭐ **[Tachiyomi](https://tachiyomi.org/)** or [TachiyomiS97](https://github.com/Saud-97/TachiyomiS97) - Manga / Comic Reader
 * ⭐ **Tachiyomi Tools** - [Github Releases](https://github.com/tachiyomiorg/tachiyomi) / [Forks](https://tachiyomi.org/forks/#forks) / [Discord](https://discord.com/invite/tachiyomi) / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/)
 * [Openreads](https://f-droid.org/en/packages/software.mdev.bookstracker/) or [Basmo](https://basmo.app/) - Book Managers / Trackers
-* [MoonDownload](http://www.moondownload.com/) - Ebook Reader
+* [Moon+ Reader](http://www.moondownload.com/) - Ebook Reader
 * [CoolReader](https://apt.izzysoft.de/fdroid/index/apk/org.coolreader) - Ebook Reader
 * [BookReader](https://f-droid.org/en/packages/com.github.axet.bookreader/) - Ebook Reader
 * [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Reader
 * [Omnivore](https://omnivore.app/) - Ebook Reader
 * [android-book-reader](https://gitlab.com/axet/android-book-reader/) - Ebook Reader
-* [eBookit](https://play.google.com/store/apps/details?id=ch.ebookit.reader) - Ebook Reader
 * [PDF Viewer](https://f-droid.org/packages/com.gsnathan.pdfviewer) - PDF Reader
-* [Readera](https://play.google.com/store/apps/details?id=org.readera) - PDF Reader
 * [MJ PDF Reader](https://play.google.com/store/apps/details?id=com.gitlab.mudlej.MjPdfReader) - PDF Reader
 * [KiyomiPDF](https://github.com/qinlili23333/KiyomiPDF) - PDF Reader
 * [K2pdfopt](https://willus.com/k2pdfopt/) - Optimize PDF/DJVU Files for Mobile E-Readers
@@ -640,12 +632,9 @@
 * [Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) - Audiobook Player  
 * [AudioAnchor](https://f-droid.org/en/packages/com.prangesoftwaresolutions.audioanchor/) - Audiobook Player 
 * [Perfect Viewer](https://github.com/nbats/FMHYedit/blob/main/base64.md#perfect-viewer) - Manga Reader
-* [MangaZone](http://mangazoneapp.com/) - Manga Reader
 * [MangaDLR](https://bitbucket.org/cylonu87/mangadlr/downloads/) - Manga Reader
 * [Kotatsu](https://github.com/nv95/Kotatsu) - Manga Reader
-* [MiMangaNu](https://github.com/raulhaag/MiMangaNu) - Manga Reader
 * [Manga Reader](https://flathub.org/apps/details/com.georgefb.mangareader) - Manga Reader
-* [Neko](https://github.com/CarlosEsco/Neko) - Manga Reader
 * [Manga Tag](https://www.mangatag.com/) - Manga Reader
 * [Meow](https://github.com/neverfelly/Meow) - Manga Reader
 * [AnimeChicken](https://animechicken.app/) - Manga Reader
