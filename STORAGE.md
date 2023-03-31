@@ -3317,7 +3317,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 * ⭐ **[Wallpaper Engine](https://github.com/nbats/FMHYedit/blob/main/base64.md#wallpaper-engine)**
 * ⭐ **Wallpaper Engine** - [PKG to Zip](https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip) / [Collections](https://www.wallpaperengine.space/collections), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2801058904)
 
-[ScreenPlay](https://screen-play.app/), [backiee](https://www.microsoft.com/en-in/p/backiee-wallpaper-studio-10/9wzdncrfhzcd?activetab=pivot:overviewtab), [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper), [Daily Bing Wallpaper](https://github.com/sfn101/bing-daily-lively-wallpaper), [Awesome Wallpaper](http://awesome-wallpaper.com/), [tanck.nl](https://tanck.nl/wallpaper/, [SuperPaper](https://github.com/hhannine/superpaper)
+[ScreenPlay](https://screen-play.app/), [backiee](https://www.microsoft.com/en-in/p/backiee-wallpaper-studio-10/9wzdncrfhzcd?activetab=pivot:overviewtab), [Daily Reddit Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper), [Daily Bing Wallpaper](https://github.com/sfn101/bing-daily-lively-wallpaper), [Awesome Wallpaper](http://awesome-wallpaper.com/), [tanck.nl](https://tanck.nl/wallpaper/), [SuperPaper](https://github.com/hhannine/superpaper)
 
 * [Wallery](https://github.com/metafates/Wallery) - Display Wallpapers
 * [Faerber](https://farbenfroh.io/faerber) - Edit Wallpaper to Match Color Scheme
