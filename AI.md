@@ -143,7 +143,7 @@
 * [Compose](https://www.compose.ai/) - Text Autocomplete AI Extension
 * [InkForAll](https://app.inkforall.com/tools) - Multiple AI Text Tools
 * [SheetPlus](https://sheetplus.ai/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [ExcelFormulaBot](https://excelformulabot.com/) - Excel AI Tools
-* [GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) - Large Language Models Designed for Classification Tasks
+* [GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) - Text Classification AI
 
 ***
 
@@ -286,7 +286,6 @@
 * [Riffusion](https://www.riffusion.com/)
 * [Musico](https://www.musi-co.com/listen/streams) - AI Generated Songs
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
-* [Controllable TalkNet](https://github.com/justinjohn0306/ControllableTalkNet) - Speech Synthesizer
 
 ***
 
@@ -305,5 +304,6 @@
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) - Voice Cloning
 * [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Voice Cloning
 * [VCloner](https://vocloner.com/) - Voice Cloning
+* [Controllable TalkNet](https://github.com/justinjohn0306/ControllableTalkNet) - Voice Cloning
 * [tortoise](https://colab.research.google.com/drive/1N8lXviiwfmrS9vYzuFdQnLHlddXMMMvU#scrollTo=vF1d-My9IXXt) - Voice Cloning Colab
 * [AI Voice Clonig](https://git.ecker.tech/mrq/ai-voice-cloning/wiki) - Voice Cloning Guide
