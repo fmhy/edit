@@ -722,7 +722,6 @@
 * [188.165.227.112](https://github.com/nbats/FMHYedit/blob/main/base64.md#188165227112) - Movies / TV
 * [162.12.215.254](https://github.com/nbats/FMHYedit/blob/main/base64.md#16212215254) - Movies
 * [163.172.97.48](https://github.com/nbats/FMHYedit/blob/main/base64.md#1631729748) - Movies / TV
-* [GamesDrivex8](https://github.com/nbats/FMHYedit/blob/main/base64.md#gamesdrivex8) - Movies / TV / Anime
 * [akses](https://github.com/nbats/FMHYedit/blob/main/base64.md#akses) - Movies
 * [Movies, Series... in English](https://github.com/nbats/FMHYedit/blob/main/base64.md#movies-series-in-english) - Movies / TV
 * [Extreme Mirror](https://github.com/nbats/FMHYedit/blob/main/base64.md#extreme-mirror) - Movies / TV / Anime
@@ -835,7 +834,6 @@
 * [TorrentKingNow](https://torrentkingnow.co/) - Movies
 * [Public Domain Movie Torrents](http://www.publicdomaintorrents.info/) - Movies
 * [YTS](https://yts.mx/) or [YifyMovies](https://yifymovies.xyz/) - Movies / [Google Buttons](https://github.com/cotnw/muvi) / [Mirrors](https://www.yifystatus.com/) / [Search](https://yify.netlify.app/) / Do [NOT](https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) Make Account
-* [Yify-Torrent](https://yify-torrent.cc/) - Movies
 * [General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f and type "video"
 * [ButchIxanh](https://butchixanh.com/) - Asian Drama
 * [JapaneseTorrents](https://japanesetorrents.wordpress.com/) - Asian Drama
