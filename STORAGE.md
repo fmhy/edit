@@ -2418,6 +2418,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Sheet Music Sites
 
+* ⭐ **[musescore](https://musescore.org/en)** + [Downloader](https://github.com/Xmader/musescore-downloader) 
 * [IMSLP](https://cn.imslp.org/wiki/Main_Page)
 * [awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music) 
 * [Music Reader](https://music-reader.com/) - Practice Reading Sheet Music
@@ -2467,7 +2468,6 @@ Add the following commands to a search to manually scrape each site.
 * [free-scores](https://www.free-scores.com/free-sheet-music.php)
 * [bandmusicpdf](https://bandmusicpdf.org/)
 * [publicdomainsherpa](http://www.publicdomainsherpa.com/free-sheet-music.html)
-* [musescore](https://musescore.org/en) + [Downloader](https://github.com/Xmader/musescore-downloader) 
 * [JMSheetMusic](https://t.me/JMSheetMusic) (Jewish Music)
 * [VGLeadSheets](https://www.vgleadsheets.com/) (Video Game Music)
 
