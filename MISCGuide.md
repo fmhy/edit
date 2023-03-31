@@ -57,7 +57,7 @@
 * [DirtyWarez Tracker](https://dirtywarez.org/cat/tracker), [OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/) / [2](https://opentrackers.org/), [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) or [awesome-piracy](https://github.com/Igglybuff/awesome-piracy#public-trackers) - Torrent Site Indexes
 * [cata-list](https://cata-list.github.io/) - Site / Tool Index
 * [Website Hunt](https://www.websitehunt.co/) - Site / Tool Index
-* [Toolbox](https://toolbox-list.github.io/Toolbox) - Site / Tool Index
+* [Toolbox](https://gitlab.com/toolbox-resources/toolbox) - Site / Tool Index
 * [Prospector](https://www.prospector.cz/) - Site / Tool Index 
 * [The More You Know](https://marckoxx.github.io/) - Site / Tool Index
 * [Yesterlinks](https://links.yesterweb.org/) - Site / Tool Index
@@ -456,7 +456,7 @@
 * [Space Jam 1996](https://www.spacejam.com/1996/) - Original Space Jam Site
 * [BD Stupidity Archive](https://discord.gg/5qgrj9a3NQ) - Archive of BetterDiscord Stupidity
 * [webgbcam](https://maple.pet/webgbcam/) - Gameboy Camera in Browser
-* [Either](http://either.io/) or [rrrather](http://rrrather.com/) - Would You Rather 
+* [rrrather](http://rrrather.com/) - Would You Rather 
 * [Cake](http://www.redkid.net/generator/cake/) - Cake Writing Generator
 * [Ballooning](https://alexanderperrin.com.au/triangles/ballooning/) - Procedurally Generated Balloon Simulator
 * [Nightmare Machine](http://nightmare.mit.edu/) - Scary AI Generated Imagery
@@ -893,7 +893,6 @@
 * [Benefits of Good Posture](https://youtu.be/OyK0oE5rwFY) - Posture Importance Lesson
 * [StuffThatWorks](https://www.stuffthatworks.health/) - Chronic Condition Info / Treatments
 * [Tone-Deafness Test](https://www.themusiclab.org/quizzes/td) - Pitch Perception Test
-* [PainSpot](https://www.painspot.com/) - Pain Cause Identifier
 * [INCIDecoder](https://incidecoder.com/) - Skincare Ingredient Lists
 * [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - Remedies for Sores on Tongue
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - Interactive Self Care Guide
@@ -945,7 +944,6 @@
 * [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - Earth Viewer
 * [Snazzy Maps](https://snazzymaps.com/) - Google Maps Themes
 * [Routora](https://chrome.google.com/webstore/detail/routora-google-maps-route/jdddfnfohdeaklgkpglonlofgapjgfbp) - Google Maps Route Optimization
-* [MapChannels](https://www.mapchannels.com/) - Mapping / Navigation Tools
 * [GeoVisual Search](https://search.descarteslabs.com/) - Object Recognition Map 
 * [OldMapsOnline](https://www.oldmapsonline.org/) - Historical Maps Tool 
 * [Loc Maps](https://www.loc.gov/collections/general-maps/), [EuraAtlas](https://euratlas.com/),  [GeoGarage](http://rumsey.geogarage.com/index.html), [OpenHistoricalMap](https://www.openhistoricalmap.org/), [Digital Collection Maps](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division) or [Cronobook](https://cronobook.com/) - Historical Maps
