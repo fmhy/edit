@@ -138,7 +138,6 @@
 * [SebastianLague](https://www.youtube.com/c/SebastianLague/playlists?view=50&sort=dd&shelf_id=4) - Game Development Tutorials
 * [Trig for Games](https://demoman.net/?a=trig-for-games) - Trigonometry Lessons for Games
 * [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Making Tutorials
-* [Tracy Profiler](https://github.com/wolfpld/tracy) - Frame Profiler
 
 ***
 
@@ -596,7 +595,7 @@
 * [onlinegenerator](https://onlinegenerator.net/) - Site Generation Tools
 * [Box-Shadow](https://box-shadow.art/) - Box Shadow Generator
 * [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - CSS Shadow Generator
-* [MapBox](https://www.mapbox.com/) - Live Maps, Location Search & More
+* [MapBox](https://www.mapbox.com/) or [leafletjs](https://leafletjs.com/) - Live Maps, Location Search & More
 * [Maps-Core](https://openmobilemaps.io/) - Mobile Map SDK
 * [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [JotForm](https://www.jotform.com/), [99Inbound](https://www.99inbound.com/), [Forms.id](https://forms.id/), [PHPForm](http://www.phpform.org/), [Form.taxi](https://form.taxi/) or [Formsend](https://formsend.org/) - Form Creators
 * [Loading.io](https://loading.io/) - Customizable Loading SVG
@@ -705,7 +704,6 @@
 * [Aether](https://getaether.net/) - P2P Ephemeral Public Communities
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Tracker Hosting
 * [UUID Tools](https://www.uuidtools.com/) - UUID Generator
-* [Leaflet](https://leafletjs.com/) - Interactive Maps JS Library
 
 ***
 
@@ -859,6 +857,7 @@
 * [Tommti Systems](http://www.tommti-systems.de/go.html?http://www.tommti-systems.de/main-Dateien/files.html) - 3D Benchmark Tools
 * [XeSS](https://github.com/intel/xess/blob/main/doc/XeSS%20Developer%20Guide%20English%20v1.1.pdf) - Increase Framerate of Game
 * [Serpent.ai](http://serpent.ai/) - Game Agent Framework
+* [Tracy Profiler](https://github.com/wolfpld/tracy) - Frame Profiler
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
 * [Faux on 3D](https://gizmo199.itch.io/fauxton3d) - Sprite Stacking Framework
 * [MapEditor](https://www.mapeditor.org/) or [Tilesetter](https://www.tilesetter.org/) - Level Editor
