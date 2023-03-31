@@ -205,7 +205,6 @@
 * [SCloud](https://scloud.ws/)
 * [AllPCWorlds](https://allpcworlds.com/)
 * [HaxPC](https://haxpc.net/)
-* [Center Software](https://zuketcreation.net/)
 * [MR9Soft](https://mr9soft.com/)
 * [DoLoad](https://doload.org/)
 * [Downmienphi](https://downmienphi.com/)
@@ -218,7 +217,6 @@
 * [Computer Softwares](https://t.me/Computer_Softwares_Games_Windows) - Telegram
 * [PC Cracked Software](https://t.me/pc_cracked_softwares) - Telegram
 * [Windows Softwares](https://t.me/Windows_Softwares_Pc_Games), [2](https://t.me/windows_softwares) - Telegram
-* [raymondfreesoftware](https://t.me/raymondfreesoftware_cracks), [2](https://t.me/joinchat/AAAAAFK2jwM5j_z7cYxa7g) - Telegram
 * [Rarewares](https://www.rarewares.org/) - Rare Software
 * [Software Recommendation Thread](https://redd.it/plgy48)
 * [FluentStore](https://github.com/yoshiask/FluentStore) - Microsoft Store Frontend
