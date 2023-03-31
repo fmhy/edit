@@ -64,6 +64,7 @@
 * [RePack.info](https://repack.info/) - Download / Torrent
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
 * [Magipack](https://www.magipack.games) - Retro PC Games
+* [CollectionChamber](https://collectionchamber.blogspot.com/) - Retro PC Games
 
 ***
 
@@ -311,7 +312,6 @@
 
 ## ▷ Arcade / Retro
 
-* ⭐ **[Magipack](https://www.magipack.games)** - Retro PC Games
 * ⭐ **[My Abandonware](https://www.myabandonware.com/)** - ROMs
 * ⭐ **[GamesNostalgia](https://gamesnostalgia.com/)** - ROMs / Amiga
 * ⭐ **[DOS Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dos_games)** - DOS Game Sites
@@ -350,8 +350,7 @@
 * [TOSEC](https://github.com/nbats/FMHYedit/blob/main/base64.md#tosec) - The Old School Emulation Center
 * [Tiny8bit](https://floooh.github.io/tiny8bit/) or [Piepacker](https://piepacker.com/) - Retro Game Browser Emulators
 * [pc-98](https://github.com/nbats/FMHYedit/blob/main/base64.md#pc-98) - PC-98 Games
-* [Abandonia](http://www.abandonia.com/), [XTCabandonware](http://www.xtcabandonware.com/) or [VETUSWARE](https://vetusware.com/category/Games/?cat=7) - Abandonware
-* [Remakes Reloaded](http://www.reloaded.org/) - Remakes of Classics
+* [XTCabandonware](http://www.xtcabandonware.com/) or [VETUSWARE](https://vetusware.com/category/Games/?cat=7) - Abandonware
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - ROMs / Arcade / Retro / [Discord](https://discord.gg/rH9wRpu2vh) 
 * [Classic Games](https://classicdosgames.com/) - Classic & Retro Game Archive
 * [Old Game Finer](http://www.oldgamesfinder.com/?) - Classic Game Search Engine
