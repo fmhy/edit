@@ -494,7 +494,6 @@
 * [mangascan](https://mangascan.cc/), [2](https://scansmangas.xyz/), [3](https://scanmanga-vf.cc/) - Manga
 * [mangadraft](https://www.mangadraft.com/) - Manga
 * [raijinscans](https://raijinscans.com/) - Manga
-* [sushiscan](https://sushiscan.su/) - Manga
 * [mangacollec](https://www.mangacollec.com/) - Manga Manager
 
 ***
@@ -873,7 +872,6 @@
 * [Abema](https://abema.tv/) - Live TV 
 * [webcinema](https://webcinema.wwww.jp/) - Anime
 * [AnimeTime](https://www.animetime.pw/) - Anime 
-* [b9good](http://b9good.com/) - Anime
 * [bangumi.moe](https://bangumi.moe/) - Anime
 * [AnimeLon](https://animelon.com/) - Anime / Learn Japanese
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animated Film Archive
@@ -911,7 +909,6 @@
 * [welovemanga](https://welovemanga.one/) - Manga
 * [manga1000](https://manga1000.top/) - Manga
 * [mangaraw](https://mangaraw.lol/) - Manga
-* [Manga-1001](https://manga1001.vip/) - Manga
 * [shobonnexus](https://shobonnexus.com/) - Novels / Magazines  
 * [watanoc](http://watanoc.com/), [yourei](https://yourei.jp/) or [n-lab](http://www.n-lab.org/library/mondai/) - Learn / Practice Japanese 
 * [kakijun](https://kakijun.jp/) - Learn Japanese Writing
@@ -1487,7 +1484,6 @@
 * [Selezen](https://selezen.net/) - Movies
 * [DarkLibria](https://darklibria.it/) - Anime
 * [RGFootball](http://rgfootball.net/) - Sports
-* [opamuzika](http://www.opamuzika.ru/) - MP3  
 
 ## ▷ Streaming 
 
