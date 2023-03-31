@@ -138,6 +138,7 @@
 * [SebastianLague](https://www.youtube.com/c/SebastianLague/playlists?view=50&sort=dd&shelf_id=4) - Game Development Tutorials
 * [Trig for Games](https://demoman.net/?a=trig-for-games) - Trigonometry Lessons for Games
 * [ProFantasy](https://rpgmaps.profantasy.com/) - Fantasy Map Making Tutorials
+* [Tracy Profiler](https://github.com/wolfpld/tracy) - Frame Profiler
 
 ***
 
@@ -704,6 +705,7 @@
 * [Aether](https://getaether.net/) - P2P Ephemeral Public Communities
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Tracker Hosting
 * [UUID Tools](https://www.uuidtools.com/) - UUID Generator
+* [Leaflet](https://leafletjs.com/) - Interactive Maps JS Library
 
 ***
 
@@ -802,6 +804,7 @@
 * [XDGuru](https://www.xdguru.com/) - Adobe XD Resources
 * [GoNative](https://gonative.io/) - Convert Websites to Mobile Apps
 * [Media Kit](https://github.com/alexmercerind/media_kit) - Video / Audio Library for Flutter and Dart
+* [Cryptography](https://github.com/dint-dev/cryptography) - Dart and Flutter Cryptography Library
 * [Kali NetHunter](https://store.nethunter.com/en/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
 * [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
 * [Uiautomator2](https://github.com/openatx/uiautomator2) or [Appium](http://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
