@@ -744,7 +744,7 @@
 * [HomeBank](http://homebank.free.fr/), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://www.moneymanagerex.org/), [Ledger](https://www.ledger-cli.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa), [My Expenses](https://f-droid.org/packages/org.totschnig.myexpenses/), [actual](https://github.com/actualbudget/actual) or [Sushi](https://github.com/jerameel/sushi) - Finance Managers
 * [financial_advice](https://github.com/emilepetrone/financial_advice) - Financial Lessons
 * [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
-* [TradingView](https://www.tradingview.com/),[Stocksera](https://stocksera.pythonanywhere.com/), [FinScreener](https://www.finscreener.com/), [Candle](https://gitlab.com/cosmosapps/candle), [finviz](https://finviz.com/) or [Screener](https://www.screener.in/), [Markets.sh](https://markets.sh/) - Stock Market Trackers
+* [TradingView](https://www.tradingview.com/), [Stocksera](https://stocksera.pythonanywhere.com/), [FinScreener](https://www.finscreener.com/), [Candle](https://gitlab.com/cosmosapps/candle), [finviz](https://finviz.com/), [Markets.sh](https://markets.sh/) or [Screener](https://www.screener.in/) - Stock Market Trackers
 * [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) - Send TradingView Alerts to Various Apps / [Index](https://github.com/pAulseperformance/awesome-pinescript)
 * [neostox](https://neostox.com/) - Practice Stock Trading
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
@@ -1708,7 +1708,6 @@ Twitch Stream Tracker
 * [Unfollow Monkey](https://unfollow-monkey.com/) - Unfollower Notifications
 * [Fix Twitter Links](https://openuserjs.org/scripts/lucio-martinez/Fix_Twitter_links) - Unshorten Twitter Feed URLs 
 * [Twitter Detector](https://github.com/stilliard/Twitter-detector) - Detect Twitter Link on a Page
-* [twitit](https://twitit.gq/) - Scroll Twitter without Authentication
 * [TwitterAudit](https://www.twitteraudit.com/) - Check How Many of your Followers are Real
 * [ReSync](https://revsync.io/) - Sync Newletter Subs to Existing Tool
 * [ListCopy](http://projects.noahliebman.net/listcopy/connect.php) - Copy Twitter Lists 
