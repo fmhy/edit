@@ -34,7 +34,6 @@
 * [Shell GPT](https://github.com/TheR1D/shell_gpt) - Coding AI
 * [AICommand](https://github.com/keijiro/AICommand) - ChatGPT with Unity Editor
 * [Leon](https://getleon.ai/) - AI Assistant
-* [nat.dev](https://nat.dev/) - Test LLMs
 * [CharacterHub](https://www.characterhub.org/) - Characters for LLMs
 * [Kajiwoto](https://kajiwoto.com/), [Miki](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
 * [YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained Language Model
