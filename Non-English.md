@@ -101,11 +101,9 @@
 
 * [dopdfwn](https://www.dopdfwn.com/) - PDF Search Engine 
 * [Noor Book](https://www.noor-book.com/en/)
-* [books-library](https://books-library.online/) - Books 
-* [kutub](https://www.kutub-pdf.net/) - Books 
+* [books-library](https://books-library.online/) - Books
 * [EbookSar](https://www.ebooksar.com/) - Books
 * [Abjjad](https://www.abjjad.com/) - Books
-* [Manga Plus](https://t.me/Manga_Plus_Ar) - Manga
 * [manganoon](https://manganoon.com/) - Manga
 * [mangarabic](https://mangarabic.com/) - Manga
 * [3asq](https://3asq.org/) - Manga
