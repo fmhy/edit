@@ -999,7 +999,7 @@
 * [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - Breath of The Wild Map
 * [Fornite.gg](https://fortnite.gg/) - Fornite Map
 * [Hallownest](https://www.hallownest.net/) - Hollow Knight Map
-* [Hoyolab Teyvat Interactive Map] (https://act.hoyolab.com/ys/app/interactive-map/index.html), [Mapgenie Teyvat Interactive Map] (https://mapgenie.io/genshin-impact) or [Genshin Impact Map] (https://genshin-impact-map.appsample.com/) - Genshin Impact Interactive Maps
+* [Hoyolab Teyvat Interactive Map](https://act.hoyolab.com/ys/app/interactive-map/index.html), [Mapgenie Teyvat Interactive Map](https://mapgenie.io/genshin-impact) or [Genshin Impact Map](https://genshin-impact-map.appsample.com/) - Genshin Impact Interactive Maps
 * [Library of Codexes](http://libraryofcodexes.com/) - Game Codex Library
 * [Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Covers for Games 
 * [The Models Resource](https://www.models-resource.com/) - Game Models
