@@ -65,7 +65,8 @@
 * [Kvantum](https://github.com/tsujan/Kvantum) - Linux QT / KDE Theme Engine
 * [susOS](https://github.com/Villagerjj/sus-os) - Among Us Themed Distro
 * [Linux x Technology](https://linuxdiscord.com/) or [Discord-Linux](https://discord.gg/discord-linux) / [Git](https://gitlab.com/miosame/linux-discord) - Linux Chat Communities
-* [Discover](https://github.com/trigg/Discover) or [Nextcord](https://github.com/nextcord/nextcord) - Discord Wrappers
+* [Nextcord](https://github.com/nextcord/nextcord) - Discord API Wrapper
+* [Discover](https://github.com/trigg/Discover) - Discord Overlay
 * [dvm](https://github.com/diced/dvm) - Discord Version Manager
 * [Discord RPM](https://github.com/RPM-Outpost/discord ) - Automated Discord Update Script
 * [Polybar](https://github.com/jaagr/polybar) or [lemonbar](https://github.com/LemonBoy/bar) - Customizable Status Bar
