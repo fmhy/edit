@@ -1602,6 +1602,7 @@
 * [Bliscop](https://www.bliscop.com/) - Online Payment Software
 * [El Museo de los 8 bits](http://www.museo8bits.es/) / [2](https://museo8bits.com/) - History of Computing
 * [TrustScam](https://trustscam.es/) - Website Security Analysis
+* [Manuales de instrucciones](https://www.manualpdf.es/) - Manuals
 
 ## ▷ Downloading
 
