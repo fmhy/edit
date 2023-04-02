@@ -1084,6 +1084,7 @@
 # ► Polish 
 
 * ⭐ **[StreamBase](https://rentry.org/streambase)** - Piracy Index / [Discord](https://discord.gg/ZmUTrX6axg)
+* [Nitro.to](https://nitro.to/) - Piracy Discussion Forum
 * [2nr](https://play.google.com/store/apps/details?id=pl.rs.sip.softphone) - Free Polish Phone Numbers
 * [Sport TVP](https://sport.tvp.pl/) - Sports News
 
@@ -1101,7 +1102,6 @@
 
 ## ▷ Torrenting 
 
-* [Nitro.to](https://nitro.to/) - Video / Audio / Software / Games / Books / NSFW 
 * [BitNova](https://bitnova.info/) - Video / Audio / Software / Games / Books / NSFW 
 * [darmowe](https://darmowe-torenty.pl/) - Video / Audio / Software / Games / Books / NSFW 
 * [polskie-torrenty](https://polskie-torrenty.net.pl/) or [helltorrents](http://helltorrents.com/) - Video / Audio / Software / Games / Books / NSFW
@@ -1113,7 +1113,6 @@
 
 ## ▷ Streaming 
 
-* [Zalukaj](https://zalukaj.cc/) - Movies
 * [cda-hd](https://cda-hd.cc/) - Movies / TV
 * [filman.cc](https://filman.cc/) - Movies / TV
 * [Ekino-TV](https://ekino-tv.pl/) - Movies / TV
