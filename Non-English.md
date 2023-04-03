@@ -21,7 +21,7 @@
 * [DirectApp](https://directapp.net/) - Software / Android / Games
 * [akwam](https://old.akwam.co/) - Video / Audio / Software
 * [Sinbad](https://www.alsindibad.com/) - Software / Android / iOS
-* [arabseed](https://arabseed.cam/) - Movies / TV
+* [arabseed](https://f1.arabseed.ink/) - Movies / TV
 * [cartoon3rbi](https://www.cartoon3rbi.net/) - Cartoons / Anime
 * [Shazam Music](https://t.me/shazam_music_uz) - Music / Telegram
 * [music_banktel](https://t.me/music_banktel) - Music / Telegram
@@ -75,7 +75,7 @@
 * [anyanime](https://www.anyanime.com/) - Anime
 * [animeblkom](https://animeblkom.net/) - Anime
 * [xsAnime](https://ww.xsanime.com/) - Anime
-* [arabseed](https://www.arabseed.net/) - Anime
+* [arabseed](https://f1.arabseed.ink/) - Anime
 * [animesilver](https://www.animesilver.com/) - Anime
 * [animetv](https://www.animetv.ge/) - Anime
 * [animetitans](https://animetitans.com/) - Anime
