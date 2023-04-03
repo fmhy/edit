@@ -385,7 +385,6 @@
 * [Anipy](https://github.com/sdaqo/anipy-cli) - Anime Streaming CLI
 * [Yuna](https://yuna.moe/) - Anime Streaming App / [GitHub](https://github.com/BeeeQueue/yuna)
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/) / [Intro Skip](https://github.com/lexesjan/typescript-aniskip-extension)
-* [Crunchyroll iFrame Player](https://github.com/Mateus7G/crp-iframe-player) - Crunchyroll Premium Bypass
 * [Themes.moe](https://themes.moe/), [2](https://staging.animethemes.moe/wiki/) - Anime Opening & Ending Themes
 * [AnimeMusicVideos](https://www.animemusicvideos.org/) - Fan-Made Anime Music Videos
 * [Anime Clips](https://discord.gg/5UXfcJf4Hj) - Anime Clips
@@ -465,6 +464,7 @@
 * [Sport Video](https://www.sport-video.org.ua/) - Multiple Sports / Torrents
 * [WatchWrestling.ai](https://watchwrestling.ai/) - MMA / Wrestling
 * [WatchWrestling.bz](https://watchwrestling.bz/) - MMA / Wrestling
+* [Full Fights](https://fullfights.net/) - MMA
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling
 * [WatchWrestling24](http://watchwrestling24.net/) - MMA / Wrestling
 * [WatchWrestlingUp](https://watchwrestlingup.live/) - MMA / Wrestling
