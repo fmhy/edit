@@ -13,6 +13,7 @@
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT-3 Based Chatbot
 * ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT-4 Based Chatbot
+* ⭐ **[ChatPDF](https://www.chatpdf.com/)** - Turn Books into Chatbots
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - Q&A AI
@@ -21,7 +22,8 @@
 * [DeepAI](https://deepai.org/chat) - DeepAI's Chatbot
 * [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT-3 Based Chatbot
 * [PygmalionAI](https://redd.it/10kr5zk) - Chatbot Built by 4Channers
-* [Dalai](https://cocktailpeanut.github.io/dalai/), [LLaMA C++](https://github.com/ggerganov/llama.cpp) or [Alpaca](https://github.com/antimatter15/alpaca.cpp) - Self-Host Facebooks Chatbot / [Guide](https://rentry.org/llama-tard-v2), [2](https://github.com/tatsu-lab/stanford_alpaca)
+* [ChatLLaMA](https://stuff.serp.ai/l/lora-weights) - LLaMA Based Chatbot
+* [Dalai](https://cocktailpeanut.github.io/dalai/), [LLaMA C++](https://github.com/ggerganov/llama.cpp) or [Alpaca](https://github.com/antimatter15/alpaca.cpp) - Self-Host Facebook Chatbot / [Guide](https://rentry.org/llama-tard-v2), [2](https://github.com/tatsu-lab/stanford_alpaca)
 * [InWorld](https://www.inworld.ai/) - Roleplaying Chatbots
 * [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbots
 * [Chai](https://chai.ml/) - Entertainment Focused Chatbot
@@ -126,6 +128,7 @@
 * [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - Story Writing AI
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [GodAI](https://awk.itch.io/godai) - Story Writing AI
+* [Character Creator](https://oobabooga.github.io/character-creator) - Character Generation AI
 * [GPTForSlides](https://www.gptforslides.app/) - Presentation AI
 * [EssayGen](https://github.com/daijro/EssayGen/) - Essay Writing AI
 * [Essaytyper](http://www.essaytyper.com/) - Essay Writing AI
@@ -304,5 +307,5 @@
 * [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Voice Cloning
 * [VCloner](https://vocloner.com/) - Voice Cloning
 * [Controllable TalkNet](https://github.com/justinjohn0306/ControllableTalkNet) - Voice Cloning
-* [tortoise](https://colab.research.google.com/drive/1N8lXviiwfmrS9vYzuFdQnLHlddXMMMvU#scrollTo=vF1d-My9IXXt) - Voice Cloning Colab
+* [tortoise](https://github.com/152334H/tortoise-tts-fast) - Voice Cloning / [Colab](https://colab.research.google.com/drive/1N8lXviiwfmrS9vYzuFdQnLHlddXMMMvU#scrollTo=vF1d-My9IXXt)
 * [AI Voice Clonig](https://git.ecker.tech/mrq/ai-voice-cloning/wiki) - Voice Cloning Guide
