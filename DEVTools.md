@@ -100,13 +100,12 @@
 * [JavaScriptQuiz](https://javascriptquiz.com/) - JavaScript Quiz
 * [Javascript Questions](https://github.com/lydiahallie/javascript-questions) - Javascript Questions for Practice
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - Useful JavaScript Concepts
-* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Node.js Guide / Tips
+* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Node.js Style Guide
 * [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Javascript Query Style Events Guide
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - Airbnb JavaScript Guide
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - Javascript Style Guide
+* [Codepip](https://codepip.com/games/) - CSS / JS Learning Games
 * [CSS Battle](https://cssbattle.dev/) - CSS Practice / Battles
 * [DefensiveCSS](https://defensivecss.dev/) - CSS Tips
-* [FlexBoxFroggy](https://flexboxfroggy.com/) - CSS Learning Game
-* [Flexbox Froggy](https://codepip.com/games/flexbox-froggy/) - CSS Flexbox Learning Game
 * [Grid Garden](https://cssgridgarden.com/) - CSS Grid Learning Game
 * [LearnCSSGrid](http://learncssgrid.com/) - CSS Grid Guide
 * [CSS Speedrun](https://css-speedrun.netlify.app/) - Test Your CSS Skills
@@ -154,13 +153,13 @@
 
 ## ▷ Data Structures
 
-* ⭐ **[Leetcode](https://leetcode.com/)** - Learn Coding
+* ⭐ **[Leetcode](https://leetcode.com/)** - Coding Practice
 * ⭐ **Leetcode Tools** - [Solutions](https://walkccc.me/LeetCode/), [2](https://leetcode.ca/) / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/edit) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/prius/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode)
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - Code Algorithms & Data Structures Tutorials
 * [VisualGo](https://visualgo.net/) - Data Structures & Algorithm Animations
 * [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) 
-* [HackersFriend](https://www.hackersfriend.com/tutorials/) - Competitive Programming Tutorials
-* [algonds](https://github.com/MaciejWas/algonds) - Competitive Programming Practice
+* [HackersFriend](https://www.hackersfriend.com/tutorials/) - Coding Practice
+* [algonds](https://github.com/MaciejWas/algonds) - Coding Practice
 * [LintCode](https://www.lintcode.com/) or [CodeWars](https://www.codewars.com/) - Coding Practice
 * [Coding Questions](https://platform.stratascratch.com/coding) - Coding Interview Questions
 * [NeetCode](https://neetcode.io/) - Coding Interview Practice
