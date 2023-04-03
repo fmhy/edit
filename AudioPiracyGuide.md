@@ -288,7 +288,7 @@
 * [nodata](https://nodata.tv/) - MP3
 * [Black Organization](https://blackorganizationmp3.wixsite.com/music) - MP3
 * [SoundClick](https://www.soundclick.com/default.cfm) - MP3
-* [z1.fm](https://z1.fm/) - MP3
+* [z1.fm](https://z2.fm/) - MP3
 * [PandaCD](https://pandacd.io/) - MP3
 * [Tancpol](https://tancpol.net/) - MP3
 * [ccMixter](http://ccmixter.org/) or [dig ccMixter](http://dig.ccmixter.org/) - DL / Stream / MP3 
