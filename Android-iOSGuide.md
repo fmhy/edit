@@ -1177,6 +1177,7 @@
 * [Block iPhone YouTube Ads](https://redd.it/xg5jkn) - How-to Block YouTube Ads
 * [Tunity](https://tunity.com/) - Hear Any Muted TV
 * [Pipifier](https://apps.apple.com/us/app/pipifier/id1234771095) - Picture in Picture
+* [Loader (Media Player)](https://apps.apple.com/us/app/documents-loader/id1442498151) - Movies
 
 ***
 
