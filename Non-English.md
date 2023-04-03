@@ -1781,6 +1781,7 @@
 * [Librotecarios](https://librotecarios.blogspot.com/) - Textbooks
 * [Libros de la Nube](https://librosdelanube.blogspot.com/) - Textbooks
 * [booksmedicos](https://booksmedicos.org/) - Medical Textbooks
+* [Manuales de instrucciones](https://www.manualpdf.es/) - Manuals
 * [albalearning](https://albalearning.com/) - Audiobooks
 * [Audioteka](https://t.me/+S3ssdd7ny9oyM2M0) - Audiobooks
 * [mangadoor](http://mangadoor.com/) - Manga
