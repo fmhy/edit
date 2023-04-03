@@ -1171,13 +1171,12 @@
 * [EncoreTVD](https://apps.apple.com/us/app/encoretvb-english/id1191642382) - Chinese Drama
 * [RSS Player](https://apps.apple.com/us/app/rss-video-player/id885311320) - KDrama / [Feed](http://allrss.se/dramas), [2](http://myrss.nu/drama)
 * [Wako-TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - Movies / TV / Anime / Real Debrid required
-* [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962), [SPlayer](https://splayer.dev/) or [‎Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
+* [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962), [SPlayer](https://splayer.dev/), [Loader](https://apps.apple.com/us/app/documents-loader/id1442498151) or [‎Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
 * [YT Tweaked](https://github.com/nbats/FMHYedit/blob/main/base64.md#yt-tweaked-ipas), [Better Cercube](https://appdb.to/app/cydia/1900000823), [uYou+](https://appdb.to/app/cydia/1900000830) / [Discord](https://discord.gg/yXGVJptcaF) or [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPA / [Reddit Post](https://redd.it/olsxri)
 * [Yattee](https://github.com/yattee/yattee) - YouTube Frontend
 * [Block iPhone YouTube Ads](https://redd.it/xg5jkn) - How-to Block YouTube Ads
 * [Tunity](https://tunity.com/) - Hear Any Muted TV
 * [Pipifier](https://apps.apple.com/us/app/pipifier/id1234771095) - Picture in Picture
-* [Loader (Media Player)](https://apps.apple.com/us/app/documents-loader/id1442498151) - Movies
 
 ***
 
