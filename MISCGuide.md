@@ -178,19 +178,13 @@
 * [GrabFreeGames](https://grabfreegames.com/) - Games
 * [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - Games
 * [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997) - Steam Mods
-* [Tick Coupon](https://giveaway.tickcoupon.com/windows-giveaway/) - Software
-* [Techno360](https://www.techno360.in/category/free-stuff/) - Software
-* [WinningPC](https://winningpc.com/) - Software
-* [Malwaretips Giveaways](https://malwaretips.com/forums/giveaways-promotions-and-contests.75/) - Software
-* [Net-Load](https://net-load.com/) - Software
-* [ShareWareOnSale](https://sharewareonsale.com/) - Software
-* [sos-windows2 ](https://groups.google.com/g/sos-windows2) - Software
 * [/r/googleplaydeals](https://reddit.com/r/googleplaydeals) - APKs
 * [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - APKs
 * [App Sales](https://www.app-sales.net/) - APKs
 * [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - APKs
 * [AppsFree](https://play.google.com/store/apps/details?id=com.appsfree.android) - APKs
 * [InstlApp](https://apps.apple.com/us/app/instlapp/id1502777382) - APKs
+* [PlaystoreSales](https://www.playstoresales.com/apps/free-apps/) - APKs
 * [AppSumo Freebies](https://appsumo.com/tools/freebies/) - Apps
 * [spamverse](https://t.me/spamverse) or [FreemiumBox](https://t.me/freemiumbox) - Giveaways and Freebies
 * [AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) - Products / Services
@@ -778,7 +772,7 @@
 * [Recipe Puppy](http://www.recipepuppy.com/about/api/) - Recipe API
 * [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course
 * [Cheese.com](https://cheese.com/) - Cheese Resources
-* [tacofancy](https://github.com/sinker/tacofancy) - Taco Recipes
+* [tacofancy](https://github.com/dansinker/tacofancy) - Taco Recipes
 * [AmazingRibs](https://amazingribs.com/) - Rib Recipes
 * [Bakerella](http://www.bakerella.com/) - Baking Recipes
 * [KingArthurBaking](https://www.kingarthurbaking.com/recipes) - Baking Recipes
@@ -847,7 +841,7 @@
 * [fastnfitness](https://github.com/brodeurlv/fastnfitness) - Track Your Exercise Progress
 * [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) or [PFCTE](https://github.com/SecUSo/privacy-friendly-circuit-training-exercises) - Exercise & Activity Tracker
 * [ExRx.net](https://exrx.net/) - Exercise Resources
-* [Cronometer](https://cronometer.com/) - Track Nutrition & Calories
+* [Cronometer](https://cronometer.com/) or [Waistline](https://github.com/davidhealey/waistline) - Track Nutrition & Calories
 * [MyFoodData](https://www.myfooddata.com) - Food Nutrition Tools
 * [wger](https://wger.de/) - Self-Hosted Workout, Nutrition / Weight App / [GitHub](https://github.com/wger-project/wger)
 * [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
@@ -876,7 +870,7 @@
 * [MuscleWiki](https://musclewiki.com/) - Muscle / Exercise Information Tool 
 * [SPSS Tutorials ](https://www.spss-tutorials.com/) - SPSS Practice & Examples
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
-* [Timely-Fitness](https://github.com/Argentable/Timely-Fitness) - Create Workout Plans
+* [Timely-Fitness](https://github.com/Artics-Engineering/Timely-Fitness) - Create Workout Plans
 * [DAREBEE](https://darebee.com/) - Fitness Plans / Workouts
 * [Hevy](https://www.hevyapp.com/), [Iron](https://github.com/kabouzeid/Iron), [Massive](https://gitea.presley.nz/brandon.presley/Massive), [Advagym](https://advagymsolutions.com/user-app/), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines) or [FitHero](https://fithero.app/) - Workout Trackers
 * [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
@@ -1194,7 +1188,7 @@
 * ⭐ **[add0n](https://add0n.com/) or [MyBrowserAddon](https://mybrowseraddon.com/)** - Open-Source Extension Index
 * ⭐ **[Privacy Pass](https://privacypass.github.io/)** - Skip Captchas
 * ⭐ **[Clipboard2File](https://pastebin.com/JjDzqq8x)** - Upload Images from Clipboard
-* ⭐ **[Dark Reader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) or [222](https://github.com/x08d/222) - Dark Mode
+* ⭐ **[Dark Reader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) or [222](https://github.com/dolegi/222) - Dark Mode
 * [Into The Black Hole](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_into_the_black_hole) - Dark Mode Browser Theme
 * [Browser Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - Browser Automation Extensions
 * [Buster](https://github.com/dessant/buster), [JKCS](https://git.coom.tech/araragi/JKCS) or [NopeCHA](https://nopecha.com/) - Auto Captcha Solvers
@@ -1222,7 +1216,7 @@
 * [Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button) - Quickly Close All Tabs
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - Read Books in Browser
 * [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/), [Linguist Translator](https://github.com/translate-tools/linguist), [S3Translator](http://www.s3blog.org/s3translator.html), [Mate Translate](https://gikken.co/mate-translate) or [ImTranslator](https://imtranslator.net/) - Translation Extensions 
-* [Dictionaries](https://github.com/pnlpal/dictionaries), [Dictionary Anywhere](https://github.com/meetDeveloper/Dictionary-Anywhere), [phlinx](https://phlinx.com/) or [Definer](https://lumetrium.com/definer/) - Popup Dictionary
+* [Dictionaries](https://github.com/pnlpal/dictionariez), [Dictionary Anywhere](https://github.com/meetDeveloper/Dictionary-Anywhere), [phlinx](https://phlinx.com/) or [Definer](https://lumetrium.com/definer/) - Popup Dictionary
 * [CustomRightClickMenu](https://github.com/SanderRonde/CustomRightClickMenu) - Custom Right Click Menu
 * [PantherBar](https://pantherbar-app.com/) or [BigSearch](https://github.com/garywill/BigSearch) - Context Search
 * [HyperSearch](https://github.com/abhinavsharma/hypersearch) - Search Result Sidebar
@@ -1256,8 +1250,8 @@
 * [Clippings](https://aecreations.sourceforge.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - Clipboard Manager
 * [Emoji](https://github.com/Sav22999/emoji) - Quickly Copy / Paste Emojis
 * [Auto Text Expander](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_auto_text_expander) - Create Shortcuts to Expand & Replace Text as you Type 
-* [DontFuckWithPaste](https://github.com/jswanner/DontFuckWithPaste) - Prevents the Blocking of Pasting into Input Fields
-* [Absolute Enable Right Click](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_absolute_enable_right_click) or [Allow Right Click](https://add0n.com/allow-right-click.html) / [GitHub](https://github.com/lunu-bounir/allow-right-click.html/) - Force Enable Right Click
+* [DontFuckWithPaste](https://github.com/jswanner/DontF-WithPaste) - Prevents the Blocking of Pasting into Input Fields
+* [Absolute Enable Right Click](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_absolute_enable_right_click) or [Allow Right Click](https://add0n.com/allow-right-click.html) / [GitHub](https://github.com/lunu-bounir/allow-right-click) - Force Enable Right Click
 * [Copycat](https://github.com/BlackGlory/Copycat) - Copy Content in Multiple Formats & Markdowns 
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - Copy Text as Markdown 
 * [CopyFish](https://ocr.space/copyfish) or [Image Reader](https://mybrowseraddon.com/image-reader.html) - Grab Text from Images 
@@ -1349,7 +1343,7 @@
 * [PopUp Encyclopedia](https://addons.mozilla.org/en-US/firefox/addon/popup-encyclopedia/) - Popup Encyclopedia & Dictionary 
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain 
 * [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
-* [OnelineProton](https://github.com/lr-tech/OnelineProton/) - Proton Theme for Firefox
+* [OnelineProton](https://github.com/newmanls/OnelineProton) - Proton Theme for Firefox
 * [Dark Background for Firefox New Tabs](https://fedidat.com/640-dark-newtab-firefox/)
 * [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - Force Enable Right Click
 * [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) - Make Non-Hyperlinked URL's Clickable
@@ -1359,7 +1353,7 @@
 * [Profile Switcher](https://addons.mozilla.org/en-US/firefox/addon/profile-switcher/) - Profile Manager
 * [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) or [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Non-Avast Fork / Block Cookie Consent Popups
 * [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - Easily Switch User-Agent
-* [SoundFixer](https://github.com/myfreeweb/soundfixer) - Fixes Audio Playing in 1 Channel
+* [SoundFixer](https://github.com/valpackett/soundfixer) - Fixes Audio Playing in 1 Channel
 * [Volume Control Tabs](https://addons.mozilla.org/en-US/firefox/addon/volume-control-tabs/) - Control Individual Tab Volume
 * [Mute Sites By Default](https://addons.mozilla.org/en-US/firefox/addon/mute-sites-by-default/) - Mute All Sites by Default 
 * [Read Aloud](https://readaloud.app/) - Text to Speech
@@ -1447,7 +1441,7 @@
 * [Relative Bookmarks](https://github.com/duiker101/relative_bookmarks) - Add Relative Bookmarks
 * [improved Potato](https://github.com/patheticGeek/improved-potato) - Export Bookmarks
 * [Remarkable](https://github.com/samueldobbie/remarkable-extension) - Remove Dead Bookmarks / Refresh Icons
-* [Mercury Reader](https://reader.postlight.com/) - Clear Clutter From Articles / [GitHub](https://github.com/postlight/mercury-parser)
+* [Mercury Reader](https://reader.postlight.com/) - Clear Clutter From Articles / [GitHub](https://github.com/postlight/parser)
 * [OpenDyslexic](https://chrome.google.com/webstore/detail/opendyslexic-for-chrome/cdnapgfjopgaggbmfgbiinmmbdcglnam) - Increase Page Readability
 * [Read Progress](https://chrome.google.com/webstore/detail/website-read-progress/cpmfchlofecflfioofchboebmocaelip) - Display Read Progress on WebPage
 * [Amino](https://aminoeditor.com/) - Customize Webpage CSS
@@ -1494,7 +1488,7 @@
 * ⭐ **[Userscripts Guide](https://rentry.co/userscript-guide)**
 * ⭐ **[Greasy Fork](https://greasyfork.org/en)**, [OpenUserJS](https://openuserjs.org/) or [Userscripts](https://userscripts-mirror.org/) or  - Install Userscripts / [Git Install](https://greasyfork.org/en/scripts/6456)
 * ⭐ **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/431584) / [Helper](https://greasyfork.org/en/scripts/393396) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Cleanup Script](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336) / [Dark Theme](https://greasyfork.org/en/scripts/404443)
-* [Awesome Userscripts](https://github.com/bvolpato/awesome-userscripts), [XIU2](https://github.com/XIU2/UserScript), [Scripts](https://gitlab.com/loopvid/scripts) or [Userscript.zone](https://www.userscript.zone/) - Userscript Indexes
+* [Awesome Userscripts](https://github.com/awesome-scripts/awesome-userscripts), [XIU2](https://github.com/XIU2/UserScript), [Scripts](https://gitlab.com/loopvid/scripts) or [Userscript.zone](https://www.userscript.zone/) - Userscript Indexes
 * [darkmode.js](https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c) - Dark Mode Script
 * [SB.js](https://github.com/mchangrh/sb.js) - SponsorBlock Userscript
 * [2ch-captcha-solver](https://gitgud.io/IeatMonkeysLOL/2ch-captcha-solver-plugin/-/tree/master/) - 2CH Captcha Solver
