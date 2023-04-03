@@ -16,20 +16,19 @@
 * ⭐ **[Linux Piracy](https://rentry.co/LinuxPiracy)** - Linux Piracy Guide
 * ⭐ **[Archwiki](https://wiki.archlinux.org/)** - Arch Linux Wiki / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
 * ⭐ **[Awesome TUIs](https://github.com/rothgar/awesome-tuis)** - Linux TUI Index
-* ⭐ **[Bpytop](https://github.com/aristocratos/bpytop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, [CPU-X](https://github.com/X0rg/CPU-X), [vtop](https://github.com/MrRio/vtop), [neofetch](https://github.com/dylanaraps/neofetch) / [Themes](https://github.com/chick2d/neofetch-themes), [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [Stacer](https://github.com/oguzhaninan/Stacer) - System Info / Resource Monitors
+* ⭐ **[Bpytop](https://github.com/aristocratos/bpytop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [vtop](https://github.com/MrRio/vtop), [neofetch](https://github.com/dylanaraps/neofetch) / [Themes](https://github.com/chick2d/neofetch-themes), [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [Stacer](https://github.com/oguzhaninan/Stacer) - System Info / Resource Monitors
 * ⭐ **[Alacritty](https://github.com/alacritty/alacritty)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, [Simple Terminal](https://st.suckless.org/), [yakuake](https://apps.kde.org/yakuake/) or [tabby](https://tabby.sh/) - Terminal Emulator
 * ⭐ **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
 * ⭐ **[mpv](https://mpv.io/)** - Video Player / [Frontend](https://github.com/celluloid-player/celluloid)
 * ⭐ **[syncthing](https://syncthing.net/)** or [portal](https://github.com/SpatiumPortae/portal) - File Sync
 * ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)** or [Sharing](https://github.com/parvardegr/sharing) - Sync Files Between Phone / Desktop
-* ⭐ **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)**, **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](http://bitflu.workaround.ch/), [Torrentor](https://github.com/Prodito/Torrentor), [WireGuard](https://github.com/UnnoTed/wireguird) or [kTorrent](https://apps.kde.org/en/ktorrent) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Clients 
+* ⭐ **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)**, **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](http://bitflu.workaround.ch/), [Torrentor](https://github.com/guidopola/torrentor), [WireGuard](https://github.com/UnnoTed/wireguird) or [kTorrent](https://apps.kde.org/en/ktorrent) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Clients 
 * ⭐ **[qBittorrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)** 
 * rTorrent Tools - [Extended](https://github.com/pyroscope/rtorrent-ps) / [Tools](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [All Seeders Column](https://github.com/AkdM/rutorrent-all-seeders) / [Docker Build](https://github.com/binhex/arch-rtorrentvpn)
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - RTorrent Web Frontend / [Themes](https://github.com/InAnimaTe/rutorrent-themes), [2](https://github.com/artyuum/3rd-party-ruTorrent-Themes)
 * [Linux x Technology](https://linuxdiscord.com/), [Ezlinux](https://ezlinux.net/), [Linux.Chat](https://discord.gg/linuxchat) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discussion / Forums
-* [Linux Difficulty Chart](https://i.imgur.com/H8sw3L4.png) - Distros Ranked by Difficulty
 * [BusyBox](https://frippery.org/busybox/) - Unix Tools
-* [Awesome-shell](https://github.com/alebcay/awesome-shell), [AltBox](https://altbox.dev/) or [LinuxTools](https://github.com/naddurkostia/LinuxTools) - Linux CLI Tools
+* [Awesome-shell](https://github.com/alebcay/awesome-shell), [AltBox](https://altbox.dev/) or [LinuxTools](https://github.com/rendick/LinuxTools) - Linux CLI Tools
 * [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - CPU Speed & Power Optimization Automation
 * [Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome) - GNOME Distro Resources
 * [Enlightment](https://www.enlightenment.org/), [worm](https://github.com/codic12/worm), [qpwm](https://github.com/ssleert/qpwm) or [dwm](https://dwm.suckless.org/) - Window Manager
@@ -57,19 +56,15 @@
 * [wikit](https://github.com/KorySchneider/wikit) - Wikipedia Summaries from CLI
 * [Linux Filesystem Chart](https://i.imgur.com/02VycVd.png) - File System Guide
 * [Wget_Linux_Guide](https://web.archive.org/web/20210225201811/https1://the-eye.eu/public/Wget_Linux_Guide.pdf) - Wget Guide
-* [Distrochooser](http://distrochooser.de/?l=2) or [Fushra](https://distros.fushra.com/) - Linux Distro Chooser
-* [Apodio](http://www.apodio.org/doku.php) or [io GNU/Linux](http://io.gnu.linux.free.fr/) - Linux Distro w/ Preinstalled Apps
-* [OldSchoolOS](https://www.oldschoolos.com/) - Old Linux Distro Archive
 * [Vivek9Patel](https://vivek9patel.github.io/) - Run Ubuntu on Browser / [GitHub](https://github.com/vivek9patel/vivek9patel.github.io)
 * [Distrobox](https://github.com/89luca89/distrobox) - Use Linux Distros via Terminal
 * [Kvantum](https://github.com/tsujan/Kvantum) - Linux QT / KDE Theme Engine
-* [susOS](https://github.com/Villagerjj/sus-os) - Among Us Themed Distro
 * [Linux x Technology](https://linuxdiscord.com/) or [Discord-Linux](https://discord.gg/discord-linux) / [Git](https://gitlab.com/miosame/linux-discord) - Linux Chat Communities
 * [Nextcord](https://github.com/nextcord/nextcord) - Discord API Wrapper
 * [Discover](https://github.com/trigg/Discover) - Discord Overlay
 * [dvm](https://github.com/diced/dvm) - Discord Version Manager
 * [Discord RPM](https://github.com/RPM-Outpost/discord ) - Automated Discord Update Script
-* [Polybar](https://github.com/jaagr/polybar) or [lemonbar](https://github.com/LemonBoy/bar) - Customizable Status Bar
+* [Polybar](https://github.com/polybar/polybar) or [lemonbar](https://github.com/LemonBoy/bar) - Customizable Status Bar
 * [Fix Guild Lag](https://wiki.archlinux.org/title/Discord#Lagging_when_scrolling_through_your_guilds) - Fix Guild Scrolling Lag
 * [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
 * [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
@@ -87,8 +82,6 @@
 * [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - Communicate with iOS Devices
 * [InstantBox](https://github.com/instantbox/instantbox) - Temporary Linux Systems
 * [HowtoForge](https://www.howtoforge.com/), [Sindresorhus Guides](https://github.com/sindresorhus/guides), [Erik Dubois](https://www.youtube.com/c/ErikDubois), [LinuxJourney](https://linuxjourney.com/) or [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA) - Linux Guides / Tutorials
-* [DotShare](http://dotshare.it/) - Distro Config Index
-* [Linux Live Kit](https://www.linux-live.org/) - Live Linux Distro Creator
 * [ArchLinuxGUI](https://archlinuxgui.in/download.html), [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - Arch Linux Installer
 * [EasyPanel](https://easypanel.io/) - Server Control Panel
 * [/r/linuxupskillchallenge](https://www.reddit.com/r/linuxupskillchallenge/) - How-to Sysadmin a Remote Server 
@@ -99,7 +92,7 @@
 * [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
 * [Brunch](https://github.com/sebanc/brunch) or [Chromefy](https://github.com/imperador/chromefy) - ChromeOS Installer
 * [MrChromeBox](https://mrchromebox.tech/), [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/) / [Guide](https://support.google.com/chromeosflex/answer/11552529?hl=en), [FydeOS](https://fydeos.io/download), [NeverWare](https://www.neverware.com/) or [WayneOS](https://wayne-os.com/) - ChromeOS Based OS
-* [Chromebrew](https://github.com/skycocker/chromebrew) - Package Manager for ChromeOS
+* [Chromebrew](https://github.com/chromebrew/chromebrew) - Package Manager for ChromeOS
 * [Chrome100](https://chrome100.dev/) - ChromeOS Recovery Images
 * [Sh1mmer](https://sh1mmer.me/) - Unenroll Enterprise-Managed Chromebooks
 * [Crouton](https://github.com/dnschneid/crouton) - Chromebook Linux OS
@@ -110,7 +103,7 @@
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
 * [Linux Heads](https://osresearch.net/) - Minimal CoreBoot / [GitHub](https://github.com/osresearch/heads)
 * [GParted](https://gparted.org/) - Partition Manager
-* [howtodebuntu](https://github.com/themagicalmammal/howtodebuntu) - Tweaks for Debian Based Distros
+* [howtodebuntu](https://github.com/themagicalmammal/howtolinux) - Tweaks for Debian Based Distros
 * [Extension Manager](https://github.com/mjakeman/extension-manager) - GNOME Shell Extensions 
 * [ckb-next](https://github.com/ckb-next/ckb-next) - Corsair RGB Driver for Linux
 * [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux Open GPU Kernel Module
@@ -176,7 +169,7 @@
 * [gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Client
 * [Ghetto Skype](https://github.com/stanfieldr/ghetto-skype) - Video / Chat Client
 * [Whatsdesk](https://zerkc.gitlab.io/whatsdesk/) or [ZapZap](https://github.com/rafatosta/zapzap) - WhatsApp Client
-* [Linux-dash](https://github.com/afaqurk/linux-dash) - Web-based System Dashboard
+* [Linux-dash](https://github.com/tariqbuilds/linux-dash) - Web-based System Dashboard
 * [Sharenix](https://github.com/Francesco149/sharenix) or [MagicCap](https://magiccap.me/) - Screenshot Tool
 * [Plumber](https://github.com/keshavbhatt/plumber) - Screen Recorder / Clipping
 * [SongRec](https://github.com/marin-m/SongRec) - Song Identifier
@@ -209,7 +202,7 @@
 * [DeskCut](https://github.com/NayamAmarshe/DeskCut) - Desktop Shortcuts App
 * [Q4Wine](https://sourceforge.net/projects/q4wine/) - Wine GUI
 * [WineHQ](https://appdb.winehq.org/) - Wine Compatibility Database
-* [nativefier_tauri](https://github.com/hamza72x/nativefier_tauri) - Turn Webpages into Desktop Apps
+* [nativefier_tauri](https://github.com/hamza72x/web2app) - Turn Webpages into Desktop Apps
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
 * [FSLint](http://www.pixelbeat.org/fslint/) or [FCClones](https://github.com/pkolaczk/fclones) - Duplicate File Finder
@@ -246,7 +239,7 @@
 * [create-autorun](https://github.com/OneCDOnly/create-autorun) - Create QNAP NAS Autorun Environment
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](http://remarkableapp.github.io/) - Markdown Editor
-* [Whatever](https://github.com/CellarD0-0r/whatever) - Evernote Client
+* [Whatever](https://github.com/sbrshk/whatever) - Evernote Client
 * [Tmux](https://github.com/tmux/tmux) - Terminal Multiplexer
 * [asciinema](https://asciinema.org/) - Terminal Recorder
 * [Electerm](https://electerm.github.io/electerm) - Terminal / SSH / STP Client
@@ -336,7 +329,7 @@
 * [SnapCraft](https://snapcraft.io/store)
 * [Linux Apps](https://www.linux-apps.com/)
 * [tlanyan](https://tlanyan.me/)
-* [yay](https://github.com/Jguer/yay), [paru](https://github.com/morganamilo/paru) or [aura](https://github.com/aurapm/aura) - Arch User Repository Helpers
+* [yay](https://github.com/Jguer/yay), [paru](https://github.com/morganamilo/paru) or [aura](https://github.com/fosskers/aura) - Arch User Repository Helpers
 * [KDE's Applications](https://apps.kde.org/education)
 * [Pling](https://www.pling.com/)
 * [IzzySoft Apt Repositories](https://apt.izzysoft.de/)
@@ -364,7 +357,7 @@
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - Rust TUI for Steam
 * [steam-cli](https://github.com/berenm/steam-cli) - CLI for Steam
 * [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
-* [GameScope](https://github.com/Plagman/gamescope) - Steam Session Compositing Window Manager
+* [GameScope](https://github.com/ValveSoftware/gamescop) - Steam Session Compositing Window Manager
 * [SamRewritten](https://github.com/PaulCombal/SamRewritten) - Steam Achievement Manager
 * [Steam for Linux](https://github.com/ValveSoftware/steam-for-linux) - Steam Linux Beta Issue Tracker
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Epic Games Launcher
@@ -474,9 +467,8 @@
 * [pongoOS](https://github.com/checkra1n/pongoOS) - Mac Pre-Boot Executor
 * [Magnet Pro](https://haxmac.cc/?s=magnet+pro), [Yabai](https://github.com/koekeishiya/yabai) or [Rectangle](https://rectangleapp.com/) - Window Tiling Apps
 * [Homebrew](https://brew.sh/) - Package Manager
-* [AlDente](https://github.com/davidwernhart/AlDente) - MacOS Charging Manager
+* [AlDente](https://github.com/davidwernhart/AlDente-Charge-Limiter) - MacOS Charging Manager
 * [Unlocker](https://github.com/paolo-projects/unlocker) - VMware Unlocker
-* [Sosumi](https://github.com/popey/sosumi-snap.git) - Download & Install macOS in a VM
 * [USBMap](https://github.com/corpnewt/USBMap) - Map MacOS USB Ports
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
 * [iTerm2](https://iterm2.com/) - Replacement for Terminal
