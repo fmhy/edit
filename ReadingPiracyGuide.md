@@ -1110,7 +1110,7 @@
 
 * ⭐ **[Mobilism Magazines](https://forum.mobilism.org/viewforum.php?f=123)**
 * ⭐ **[PDFMagazines](https://pdfmagazines.club/)**
-* ⭐ **[DownMagaz](https://downmagaz.com/)**
+* ⭐ **[DownMagaz](https://downmagaz.net/)**
 * ⭐ **[MagazineLib](https://magazinelib.com/)**
 * [ENMagazine](https://t.me/enmagazine) - Telegram
 * [Magazines4U](https://t.me/Magazines4U) - Telegram 
@@ -1277,6 +1277,7 @@
 
 # ► Helpful Sites / Apps
 
+* ⭐ **[ChatPDF](https://www.chatpdf.com/)** - Turn Books into Chatbots
 * ⭐ **[AccelaReader](https://accelareader.com/)** or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
 * ⭐ **[arch1ve](https://rentry.org/arch1ve)** or [Borrowing Picture Books](https://redd.it/fm1xpw) - Download Borrow Only Archive.org Books / [Script](https://redd.it/ofcqds)
 * ⭐ **[DownloadBookFromIPFS](https://greasyfork.org/en/scripts/428894-downloadbookfromipfs)** - Add Button to Download Books from IPFS
