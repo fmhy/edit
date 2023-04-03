@@ -37,7 +37,7 @@
 
 * ⭐ **[FaselHD](https://www.faselhd.club/)** - Movies / TV / Anime
 * ⭐ **[64kLive](https://64k.live/)** - Anime
-* [Cima4U](https://cima4u.cloud/) - Movies / TV / Changes Domains Monthly
+* [Cima4U](https://cima4u1.cyou/) - Movies / TV / Changes Domains Monthly
 * [cimaclub](https://www.cimaclub.in/) - Movies / TV / Anime
 * [cima4up](https://w.cima4up.link/) - Movies / TV / Anime
 * [moviz-time](https://moviz-time.top/i/) - Movies / TV / Anime
@@ -62,7 +62,7 @@
 * [ArabLionz](https://arablionz.watch/) - Movies / TV 
 * [Wecima](https://wecima.tube/) - Movies / TV / Anime / Cartoons / Wrestling
 * [cima-club](https://cima-club.cam/) - TV / Anime
-* [eshiq](https://eshiq.net/), [2](https://3sk.tv/) - Turkish TV
+* [eshiq](https://en.e3sk.net/), [2](https://3sk.tv/) - Turkish TV
 * [asia2tv](https://asia2tv.cn/) - Asian Drama
 * [animebdk](https://animebdk.blogspot.com/) - Anime
 * [gateanime](https://c.gateanime.com/) - Anime
@@ -627,7 +627,7 @@
 * ⭐ **[OlaMovies](https://olamovies.cloud/)** - HD Movies / TV / [Telegram](https://t.me/olamovies_official_v3)
 * [MoviesMod](https://moviesmod.net/) - Movies / TV / [Telegram](https://telegram.dog/moviesmodcom) 
 * [MKV Mad](https://mkvmad.run/) - Movies / TV
-* [WorldFree4U](https://worldfree4u.wbog.net/) - Movies / TV
+* [WorldFree4U](https://worldfree4u.health/) - Movies / TV
 * [1337xHD](https://1337xhd.shop/) - Movies / TV
 * [HDVogo](https://www.hdvogo.cyou/) - Movies
 * [jsupload](https://github.com/nbats/FMHYedit/blob/main/base64.md#jsupload) - Movies
@@ -643,7 +643,7 @@
 * [Foumovies](https://www.foumovies.pw/) - Movies
 * [PrMovies](https://prmovies.homes/) or [yomovies](https://yomovies.rs/) - Movies / TV / Anime
 * [Bolly4u](https://bolly4u.onl/) - Movies
-* [9xflix](https://9xflix.skin/) - Movies
+* [9xflix](https://9xflix.plus/) - Movies
 * [Filmymeet](https://www51.filmymeet.co/) - Hindi Dub Movies / TV
 * [MkvCinemas](https://ww1.mkvcinemas.lat/) - Movies / TV / Anime [Telegram](https://t.me/+QzypxAlB1MGvVXFG)
 * [AnimeAcademy](https://animeacademy.in/) - Anime
@@ -674,7 +674,7 @@
 * [MovieHDPlus](https://www.moviehdplus.com/) -  Movies / TV
 * [desicinemas](https://desicinemas.tv/) - Movies / TV
 * [moviemora](https://111.90.159.132/) - Movies / TV
-* [hdmovie2](https://hdmovie2.rent/) - Movies
+* [hdmovie2](https://hdmovie2.sbs/) - Movies
 * [Desi Serials](https://www.desiserials.tv/) - Movies / TV / Live
 * [HindiLinks4u](https://hindilinks4u.io/) - Movies / TV
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies
@@ -724,7 +724,7 @@
 * [mozicsillag](https://mozicsillag.me/) - Movies / TV
 * [onlinefilmekingyen](https://www.onlinefilmekingyen.com/) - Movies 
 * [sorozatbarat](https://www.sorozatbarat.online/) - Movies / TV 
-* [filmezz](https://filmezz.co/) - Movies / TV 
+* [filmezz](https://filmezz.club/) - Movies / TV 
 
 ***
 
@@ -756,7 +756,7 @@
 * [Dramamu](https://45.141.56.103/), [2](https://185.224.83.128/) - Movies / TV
 * [otakudesu](https://otakudesu.watch/) - Anime
 * [anoBoy](https://anoboy.lol/) - Anime
-* [kuramanime](https://kuramanime.com/) - Anime
+* [kuramanime](https://kuramanime.net/) - Anime
 * [Akashinime](https://akashinime.pro/) - Anime
 * [ANIsub](https://anisubid.me/) - Anime
 
@@ -780,7 +780,7 @@
 
 ## ▷ Downloading 
 
-* [eurekaddl](https://eurekaddl.beauty/) - Video / Audio / Software / Games / Books / Magazines / Comics / Android / NSFW
+* [eurekaddl](https://eurekaddl.boats/) - Video / Audio / Software / Games / Books / Magazines / Comics / Android / NSFW
 * [OverDay](https://overday.info/) - Software / Games / Android / Courses / Books
 * [HD4Me](https://hd4me.net/) - Movies
 * [xNavigation](https://www.xnavigation.net/) - Freeware
@@ -890,7 +890,7 @@
 * [MangaZone](http://www.manga-zone.org/) - Manga
 * [RawCans](http://raw-cans.net/) - Manga
 * [BSZip](https://bszip.com/) - Manga
-* [13DL](http://13dl.net/) - Manga
+* [13DL](http://13dl.to/) - Manga
 * [DLZip](http://dl-zip.com/) - Manga
 * [MangaBox](https://www.mangabox.me/) - Manga
 * [Mangaz](https://www.mangaz.com/) - Manga
@@ -1218,7 +1218,7 @@
 * [GoFilmes](https://gofilmes.me/hd/) - Movies / TV 
 * [supertela](https://supertela.click/) - Movies / TV / Anime
 * [NetMovies](http://www.netmovies.com.br/) - Movies / TV
-* [querofilmehd](https://querofilmehd.net/) - Movies / TV
+* [querofilmehd](https://www.querofilmeshd.ac/) - Movies / TV
 * [TopFlix](https://topflix.vc) - Movies / TV / Requires Login
 * [AnimeFire](https://animefire.net/) - Anime
 * [AnimesOnline](https://animesonline.vip/) - Anime
@@ -1494,7 +1494,7 @@
 * [Kinotochka](https://kinotochka.co/) - Movies / TV / Anime
 * [NotAlone](https://www.notalone.tv/) - Movies / TV
 * [kinokong](https://kinokong.org/) - Movies / TV
-* [Zetflix](https://zetflix.pro/), [2](https://zetflix.to/), [3](https://zetflix.zone/) - Movies / TV
+* [Zetflix](https://zetlix.online/), [2](https://zetlix.zone/) - Movies / TV
 * [RussianFilmHub](https://russianfilmhub.com/) - Movies / TV
 * [viho.live](https://viho.live/) - Movies / TV / Anime
 * [EX-FS](https://ex-fs.net/) - Movies / TV / Anime
@@ -1617,7 +1617,6 @@
 * [Flipax2](https://flipax2.me/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
 * [CompucaliTV](https://www.compucalitv.com/) - Video / Software / Games
 * [ZonaLeRoS](https://www.zona-leros.net/) - Video / Games
-* [GamesMega](https://gamesmega.net/) - Games / ROMs
 * [Emu Games](https://emu-games.com/) - Emulators / ROMs
 * [KillerROMs](https://roms-descargar.com/) - Emulators / ROMs
 * [Romsjuegos](https://romsjuegos.com/) - ROMs
@@ -1873,12 +1872,12 @@
 ## ▷ Downloading
 
 * [TurkishDrive](https://discord.gg/rkvnDa3qhP) - Drive Sharing Community
-* [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.com/) - Movies / Choose Voltran & press "скачать" for DL's 
+* [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.pw) - Movies / Choose Voltran & press "скачать" for DL's 
 * [MP3 Indir](https://www.mp3indirdur.mobi/) - Music 
 
 ## ▷ Streaming
 
-* [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.com/) - Movies / Choose Voltran & press "скачать" for DL's 
+* [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.pw) - Movies / Choose Voltran & press "скачать" for DL's 
 * [JetFilmizle](https://jetfilmizle.live/) - Movies / TV 
 * [hdfilmcehennemi](https://www.hdfilmcehennemi.life) - Movies / TV
 * [ElzemFilm](https://www.elzemfilmhdizle.com/) - Movies
@@ -1893,7 +1892,7 @@
 * [AR Dirilis Ertugrul](https://ardirilisertugrul.net/) - TV
 * [OsmanOnline.co](https://osmanonline.co.uk/) - TV
 * [KayiFamily](https://kayifamily.com/), [KayiFamilyTV](https://kayifamilytv.com/v11/) - TV / Documentaries
-* [TurkAnime](https://www.turkanime.net/), [2](https://www.turkanime.co/) - Anime
+* [TurkAnime](https://www.turkanime.co/), [2](https://www.turkanime.co/) - Anime
 * [anizm](https://anizm.net/) - Anime
 * [tafdi2](https://www.tafdi2.com) - Movies
 * [filmizlesene](https://www.filmizlesene.pro) - Movies
@@ -2094,7 +2093,7 @@
 * [tamilgun](https://tamilgun.bio/) -  Streaming / Movies / TV
 * [uWatchFree](https://uwatchfree.be/) - Streaming / Movies / TV
 * [streamblasters](https://streamblasters.live/) - Streaming / Movies
-* [5movierulz](https://5movierulz.ms/) - Streaming / Movies
+* [5movierulz](https://ww2.5movierulz.mu/) - Streaming / Movies
 * [khatrimazafull](https://khatrimazaful.cc/) - Streaming / Download / Movies
 * [9xmovies](https://9xmovies.church/) - Streaming / Download / Movies
 * [Movierulz](https://ww5.movierulzhd.biz/) - Streaming / Movies / TV / [Telegram](https://t.me/movierulz28)
