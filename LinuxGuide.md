@@ -323,6 +323,7 @@
 
 * ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
 * ⭐ **[Open Source Linux Programs](https://i.imgur.com/6pItvB5.png)**
+* ⭐ **[Kapital Sin](https://kapitalsin.com/)**
 * [Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/), [2](https://github.com/inputsh/awesome-linux), [3](https://github.com/crackerica/Awesome-Linux-Software)
 * [Flathub](https://flathub.org/)
 * [ArchLinux](https://wiki.archlinux.org/title/List_of_applications)
@@ -345,6 +346,7 @@
 
 * ⭐ **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** / [2](https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?utm_source=share&utm_medium=web2x&context=3) - Linux Gaming Guides
 * ⭐ **[protondb](https://www.protondb.com/)**, **[Lutris](https://lutris.net/)**, [PortWine](https://portwine-linux.ru/portwine-faq/) or [Proton](https://github.com/ValveSoftware/Proton) - Play Windows games on Linux
+* ⭐ **[Kapital Sin](https://kapitalsin.com/)** - Linux Games
 * ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games
 * [winesapOS](https://github.com/LukeShortCloud/winesapOS) - Play Games on Storage Devices 
 * [GameHub](https://tkashkin.github.io/projects/gamehub/) or [Steal](https://github.com/AbdelrhmanNile/steal) - Game Managers
