@@ -297,8 +297,10 @@
 * [Music Blogtrotter](https://musicblogtrotter.blogspot.com/) - MP3
 * [New Album Releases](https://newalbumreleases.net/) - MP3
 * [mp3db](https://mp3db.pro/) - MP3
+* [ShareMania](http://sharemania.us/) - MP3
 * [NetNaija](https://www.thenetnaija.com/) - MP3
 * [RockDownload](https://www.rockdownload.org/) - MP3
+* [Uloz](https://ulozto.net/) - MP3
 * [DeadPulpit](https://www.deadpulpit.com/) - MP3
 * [CannaPower](https://canna-power.to/links.php?lang=eng) - MP3
 * [24NaiJamMuzic](https://www10.24naijamuzic.com/) - MP3
