@@ -157,7 +157,6 @@
 
 * ⭐ **[Pesktop](https://pesktop.com/en/)** or [FileCR](https://filecr.com/en/) - Software / Books / [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass) / [Search Fix](https://greasyfork.org/en/scripts/459020-filecr-search-fix)
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - Software / Books / [Mobile App](https://forum.mobilism.org/app/)
-* ⭐ **[Kapital Sin](https://kapitalsin.com/)**
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)**
 * ⭐ **[rsload](https://rsload.net/)**
 * ⭐ **[AppNee](https://appnee.com/)**
