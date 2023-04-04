@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/rMNZElM.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/pc3Xd2i.png)** - For mobile users
 
 ***
 ***
@@ -116,6 +116,18 @@
 * [SweetPotato](https://wiki-en.purplepalette.net/home) - Project Sekai Clone
 * [Roblox Archive](https://archive.roblonium.com/) - Roblox Client Archive 
 * [Novetus](https://bitl.itch.io/novetus) - Self-hosted Multi-version Roblox Client
+
+***
+
+## ▷  [Linux Gaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_gaming)
+
+***
+
+## ▷  [Mac Gaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_gaming)
+
+***
+
+## ▷  [Android Gaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_gaming)
 
 ***
 
@@ -759,18 +771,6 @@
 * [Arcade Prehacks](http://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
 * [How-to Play Flash Games](https://rentry.co/oc4wc) - Browser Flash Game Tutorial
 
-***
-
-# ► [Linux Gaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_gaming)
-
-***
-
-# ► [Mac Gaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_gaming)
-
-***
-
-# ► [Android Gaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_gaming)
-
 *** 
 
 # ► Homebrew
@@ -862,7 +862,7 @@
 * [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - Battlefield Mod Projects
 * [Optimize Dying Light 2](https://rentry.co/opto-dl2) - DL2 Optimization Mods
 * [Open Carnage](https://opencarnage.net/) / [Discord](https://discord.com/invite/2pf3Yjb), [Reclaimers](https://reclaimers.net/) / [Discord](https://discord.com/invite/reclaimers) or [Halo Mods](https://discord.com/invite/WuurKwr)  - Halo Modding Community
-* [Halo 3](https://store.steampowered.com/app/1695791/Halo_3_Mod_Tools__MCC/), [Halo 2](https://store.steampowered.com/app/1613450/Halo_2_Mod_Tools__MCC/), [Halo CE](https://store.steampowered.com/app/1532190/Halo_CE_Mod_Tools__MCC/) - Halo Modding Tools
+* [Halo 3](https://store.steampowered.com/app/1695791/Halo_3_Mod_Tools__MCC/), [Halo 2](https://store.steampowered.com/app/1613450/Halo_2_Mod_Tools__MCC/) or [Halo CE](https://store.steampowered.com/app/1532190/Halo_CE_Mod_Tools__MCC/) - Halo Modding Tools
 * [Flatout 2 Fan Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2414295888) - Patch for Flatout 2
 * [SWAT: Elite Force](https://www.moddb.com/mods/swat-elite-force) - Swat 4 Enhancement Mod
 * [Synergy2k](https://synergy2k.net/) - NBA 2K MyCareer Mod Tool
