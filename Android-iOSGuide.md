@@ -768,7 +768,6 @@
 * [FilmPlus](https://filmplus.app/) - Movies / TV
 * [IsraTV](https://isratv.netlify.app/) - Movies / TV / Live TV
 * [MediaBox HD](https://mediaboxhd.net/) - Movies / TV / Chromecast
-* [Modded Hotstar](https://apkmody.io/apps/hotstar) - Movies / TV
 * WiWiCenter - [Movies / TV](https://cinema.wiwicenter.com/) / [Anime](https://anime.wiwicenter.com/) - Use Adblocker
 * [Upflix](https://www.upflix.net/) - Movies / TV
 * [TeaTV](https://forum.mobilism.org/search.php?keywords=teatv&sr=topics&sf=titleonly) - Movies / TV
@@ -779,7 +778,6 @@
 * [Rokkr](http://www.rokkr.net/) - Movies / TV / Add "huhu.to", "bs.to" or "oha.to"
 * [MrFTV](https://mrftv.com/) - Movies / TV
 * [LokLok](https://loklok.com/download) - Movies / TV
-* [WatchCartoonsOnline App](https://watchcartoononline.bz/watchcartoononline-app-for-android-devices/) - Cartoons / Anime
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - YTS Torrents 
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - Chinese Drama 
 * [aDrama](https://adrama.online/) - Asian Drama / [Addons](https://github.com/nbats/FMHYedit/blob/main/base64.md#adrama-addons)
