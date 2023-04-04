@@ -522,7 +522,7 @@
 * [DDL-Deaf](https://ddl-deaf.info/) - Movies / NSFW
 * [MLCBoard](https://mlcboard.com/) - Movies
 * [Nima4k](https://nima4k.org/) - Movies / TV / Documentaries / Music
-* [German Telegram Movie Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_german_telegram_movie_downloads) - Movies
+* [Deutsche Filme](https://t.me/deutsche_filme_german_movies) or [GERMAN MOVIES](https://t.me/german_movie_channel)- Movies / Telegram
 * [Boerse](https://myboerse.bz/) - Video / Audio / Software / Android / NSFW
 * [Animes.so](https://www.animes.so/) - Anime
 * [37.187.112](http://37.187.112.153/) - Anime
