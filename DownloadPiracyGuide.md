@@ -12,9 +12,12 @@
 # ► Download Directories
 
 * **Note** - Some Open Directories grab IP's, so use a VPN or Tor when accessing them.
+* ⭐ **[Open Directories Indexes](https://github.com/nbats/FMHYedit/blob/main/base64.md#open-directory-indexes)**
 * ⭐ **[/r/opendirectories](https://www.reddit.com/r/opendirectories/)** - Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / /u/ODScanner
 * ⭐ **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
 * ⭐ **[mega.archive](https://discord.gg/R3zEZUPp3Q)** / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
+* ⭐ **[IRC / XDCC Tutorial](https://rentry.org/irc**), [2](https://github.com/mayfrost/guides/blob/master/IRC.md), [3](https://libera.chat/guides/), [4](https://www.theloadguru.com/xdcc-irc-beginners-guide/)
+* [Awesome IRC](https://github.com/davisonio/awesome-irc) - IRC Resource Index
 * [EyeDex](https://www.eyedex.org/), [ODCrawler](https://odcrawler.xyz/), [OpenSho](https://opendirindex.opensho.com/), [ODS](https://sites.google.com/view/l33tech/tools/ods) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engines
 * [Google TeamDrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#google-teamdrives) 
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28) 
@@ -32,7 +35,6 @@
 * [Lightz Cloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#lightz-cloud)
 * [Xtremecloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#xtremecloud)
 * [smolOD](https://github.com/nbats/FMHYedit/blob/main/base64.md#smolod) - Small Open Directories
-* [Open Directories](https://github.com/nbats/FMHYedit/blob/main/base64.md#open-directory-indexes) - Open Directory Indexes
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
 * [dedigger](https://www.dedigger.com/) - GDrive File Search 
 * [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) / [Discord](https://discord.gg/ZRhpUtzvkC) or [No Bucks Given](https://discord.gg/By53hyhUFS) / [Revolt](https://divolt.xyz/invite/BM9hvM0E) - Drive Sharing Communities
@@ -40,8 +42,6 @@
 * [Create Open Directory Search Engine](https://redd.it/d3w2fu)
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) or [AutoIndex](http://autoindex.sourceforge.net/) - Open Directory Indexer 
 * [Directory Lister](https://directorylister.com/) - Open Directory Explorer
-* [IRC / XDCC Tutorial](https://rentry.org/irc), [2](https://github.com/mayfrost/guides/blob/master/IRC.md), [3](https://libera.chat/guides/), [4](https://www.theloadguru.com/xdcc-irc-beginners-guide/)
-* [Awesome IRC](https://github.com/davisonio/awesome-irc) - IRC Resource Index
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - Search Pastebin Directories
 * [Data Horde](https://datahorde.org/) - Data Archivist Group
 * [CD.TextFiles](http://cd.textfiles.com/) - CD Text File Archive
@@ -54,14 +54,14 @@
 
 * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners
 * ⭐ **[SoftArchive](https://sanet.st)** or [Sanet.lc](https://sanet.lc/) - Video / Audio / Games / Software / Android / Books / Comics / Newspapers / Magazines / [Status](https://sastatus.com/)
-* ⭐ **[DirtyWarez](https://forum.dirtywarez.com/)** - Video / Audio / Games / Software / Books / Comics 
+* ⭐ **[DirtyWarez](https://forum.dirtywarez.com/)** - Video / Audio / Games / Software / Books / Comics
+* ⭐ **[nulled](https://www.nulled.to/)** - Video / Audio / Software / Games / Books / Magazines
+* ⭐ **[Team OS](https://www.teamos.xyz/)** - Software / Games / Books / Android
 * ⭐ **[DownloadHa](https://www.downloadha.com)** - Video / Software / Games / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[patoghu](https://patoghu.com/)** - Video / Audio / Software / Android / Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[Bitdownload](http://bitdownload.ir/)** - Video / Audio / Software / Games / Android / Courses / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[The-Eye](https://the-eye.eu/)** - Audio / ROMs / Books / Comics / Magazines / Software / [Discord](https://discord.com/invite/6hr2Xsm)
 * ⭐ **[Archive.org](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader)
-* [nulled](https://www.nulled.to/) - Video / Audio / Software / Games / Books / Magazines
-* [Team OS](https://www.teamos.xyz/) - Software / Games / Books / Android
 * [Akiba-Online](https://www.akiba-online.com/) - Japanese Media / Video / Audio / Games / Comics / NSFW
 * [WarezForums](https://warezforums.com/) - Video / Audio / Games / ROMs / Software / Books / Comics / Android / [Account Application](https://t.me/joinchat/AAAAAFRH5fns4IiE-T2TcA)
 * [AsanDL](http://asandl.com/) - Video / Audio / Games / Software / Books / Magazines / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -81,7 +81,6 @@
 * [SCENE.RLS](http://scene-rls.net/releases/index.php) - Video / Audio / Games / Software / Books / Magazines 
 * [WarezLover](https://warezlover.xyz/) - Video / Audio / Software / Games / Android / ROMs / Books / Magazines 
 * [heroturko.net](https://www.heroturko.net/) - Video / Audio / Software / Games / Books / Magazines / Android
-* [4Shared](https://www.4shared.com/) - Video / Audio / Games / Software / Android
 * [yasdl](https://www.yasdl.com/) - Software / Games / Audio / Video
 * [TFPDL](https://tfpdl.se/), [2](https://tfpdl.to/) - Video / Software / Games / Magazines / NSFW 
 * [Apps4All](https://www.apps4all.com/ ) - Video / Books / Software / Games / Android
@@ -125,6 +124,7 @@
 
 * ⭐ **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Multi-Site Search
 * ⭐ **[Hatt](https://github.com/FrenchGithubUser/Hatt)** - File Search App
+* [4Shared](https://www.4shared.com/) - Video / Audio / Games / Software / Android
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
 * [FilePursuit](https://filepursuit.com) - [Discord](https://discord.gg/xRfFd8h)
 * [scnlog](https://scnlog.me/)
@@ -160,6 +160,7 @@
 # ► Software Sites
 
 * ⭐ **[FileCR](https://filecr.com/en/)** - Software / Books / [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass) / [Search Fix](https://greasyfork.org/en/scripts/459020-filecr-search-fix)
+* ⭐ **[Pesktop](https://pesktop.com/en/)**
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - Software / Books / [Mobile App](https://forum.mobilism.org/app/)
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)**
 * ⭐ **[rsload](https://rsload.net/)** - Software / Android / Games
@@ -171,8 +172,6 @@
 * [4Download](https://www.4download.net/)
 * [AIOWares](https://www.aiowares.com/)
 * [Mr. SzzS](https://www.youtube.com/channel/UCcf3dtQFVb5zfy0jGYNpA0w)
-* [Softlay](https://softlay.net/)
-* [Pesktop](https://pesktop.com/en/)
 * [TheMicroTech](https://programs.themicrotech.net/)
 * [Soft32](https://www.soft32.com/)
 * [Mutaz.net](https://www.mutaz.net/)
