@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/pc3Xd2i.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/NFuxMjG.png)** - For mobile users
 
 ***
 ***
@@ -119,15 +119,15 @@
 
 ***
 
-## ▷  [Linux Gaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_gaming)
+## ▷  [Linux Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_linux_gaming)
 
 ***
 
-## ▷  [Mac Gaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_gaming)
+## ▷  [Mac Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_gaming)
 
 ***
 
-## ▷  [Android Gaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_gaming)
+## ▷  [Android Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_gaming)
 
 ***
 
