@@ -769,14 +769,12 @@
 * [Chiby](http://www.animechiby.com/) - Sub
 * [Anime Senpai4U](https://www.animesenpai4u.com/) - Sub / Dub
 * [Anime Flix](https://animeflix.org.in/) - Sub / Dub / [Telegram](https://t.me/moviesflixnet)
-* [IndiAnime](https://indianime.com/) - Sub / Dub
 * [anime7.download](http://anime7.download/) - Sub
 * [37.187.6.206](https://github.com/nbats/FMHYedit/blob/main/base64.md#371876206) - Sub
 * [176.36.86.211](https://github.com/nbats/FMHYedit/blob/main/base64.md#1763686211) - Sub / Dub
 * [166.84.7.155](https://github.com/nbats/FMHYedit/blob/main/base64.md#166847155) - Sub / Dub
 * [ns3309227](https://github.com/nbats/FMHYedit/blob/main/base64.md#ns3309227) - Sub / Dub
 * [belia](https://github.com/nbats/FMHYedit/blob/main/base64.md#belia) - Sub / Dub
-* [AnimeLibr](https://t.me/AnimeLibr) - Sub
 * [CartoonsArea](https://www.cartoonsarea.xyz/) - Sub / Dub
 * [rbx](https://github.com/nbats/FMHYedit/blob/main/base64.md#rbx)  - Dub
 * [Anime Time Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#anime-time-drive) - Sub / Dub 
