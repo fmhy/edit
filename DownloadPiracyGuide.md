@@ -60,7 +60,6 @@
 * ⭐ **[Bitdownload](http://bitdownload.ir/)** - Video / Audio / Software / Games / Android / Courses / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[The-Eye](https://the-eye.eu/)** - Audio / ROMs / Books / Comics / Magazines / Software / [Discord](https://discord.com/invite/6hr2Xsm)
 * ⭐ **[Archive.org](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader)
-* ⭐ **[rsload](https://rsload.net/)** - Software / Android / Games
 * [nulled](https://www.nulled.to/) - Video / Audio / Software / Games / Books / Magazines
 * [Team OS](https://www.teamos.xyz/) - Software / Games / Books / Android
 * [Akiba-Online](https://www.akiba-online.com/) - Japanese Media / Video / Audio / Games / Comics / NSFW
@@ -163,17 +162,18 @@
 * ⭐ **[FileCR](https://filecr.com/en/)** - Software / Books / [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass) / [Search Fix](https://greasyfork.org/en/scripts/459020-filecr-search-fix)
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - Software / Books / [Mobile App](https://forum.mobilism.org/app/)
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)**
+* ⭐ **[rsload](https://rsload.net/)** - Software / Android / Games
 * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[AppNee](https://appnee.com/)**
 * ⭐ **[YasDL](https://yasdl.com/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [soft98](https://soft98.ir/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [downloadly](https://downloadly.ir/) - Software / Courses / Persian VPN Required
+* [4Download](https://www.4download.net/)
 * [AIOWares](https://www.aiowares.com/)
 * [Mr. SzzS](https://www.youtube.com/channel/UCcf3dtQFVb5zfy0jGYNpA0w)
 * [Softlay](https://softlay.net/)
 * [Pesktop](https://pesktop.com/en/)
 * [TheMicroTech](https://programs.themicrotech.net/)
-* [4Download](https://www.4download.net/)
 * [Soft32](https://www.soft32.com/)
 * [Mutaz.net](https://www.mutaz.net/)
 * [WagnardSoft](https://www.wagnardsoft.com/)
@@ -206,20 +206,20 @@
 ## ▷ Freeware Sites
 
 * ⭐ **[Major Geeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html)**
+* ⭐ **[SourceForge](https://sourceforge.net/)**
+* ⭐ **[FossHub](https://www.fosshub.com/)**
+* ⭐ **[Softpedia](https://www.softpedia.com/)**
 * ⭐ **[Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**, [2](https://gitlab.com/awesome-selfhosted/awesome-selfhosted) - Selfhosted Software Index
+* ⭐ **[FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories)** - Open-Source Wiki
 * ⭐ **[Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites)** - Software / App Alternatives
 * [Windows Ultimate Collection](https://forum.xda-developers.com/t/windows-ultimate-collection-guides.4507867/)
-* [FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories) - Open-Source Wiki
 * [OlderGeeks](https://oldergeeks.com/)
 * [Chiefs Big List of Programs](https://github.com/TheChiefMeat/Chiefs-Big-List-of-Programs/)
 * [Free Software Directory](https://directory.fsf.org/wiki/Main_Page)
-* [SourceForge](https://sourceforge.net/)
 * [Fossies](https://fossies.org/all.html)
-* [FossHub](https://www.fosshub.com/)
 * [Simple Tools](https://simpletools.info/doku.php)
 * [Handmade Network](https://handmade.network/)
 * [Realityripple](https://realityripple.com/)
-* [Softpedia](https://www.softpedia.com/)
 * [Software Informer](https://software.informer.com/)
 * [Freeware Directory](http://www.freewaredirectory.net/)
 * [FreewareStop](https://www.freewarestop.com/)
