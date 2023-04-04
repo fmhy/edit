@@ -851,7 +851,6 @@
 * [Roblox Performance](https://rentry.co/roblox-performance) - Roblox Optimization Guide
 * [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) - Roblox Bootstrapper
 * [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap
-* [Factorio Mods](https://1488.me/factorio/mods/en) - Factorio Mods Downloader
 * [RE4HD](https://www.re4hd.com/) - Resident Evil 4 HD Mod
 * [Hidden Fallout 4 Mods](https://rentry.co/89gads), [2](https://docs.google.com/document/d/1Im5Mg-l2btRsYVOjaJa0slrjDcXNvi41J5pHw_Zuwqw/edit?usp=sharing) - Fallout 4 Mods Removed from Nexus
 * [Rekt](https://discord.com/invite/HqjQFCp) or [LinkerMod](https://github.com/Nukem9/LinkerMod) - Black Ops 1 Mod Projects
