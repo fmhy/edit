@@ -43,7 +43,6 @@
 * [moviz-time](https://moviz-time.top/i/) - Movies / TV / Anime
 * [w.arlionz](https://w.arlionz.vip/) - Movies / TV
 * [aflaam](https://aflaam.com/) - Movies / TV
-* [shahidlek](https://shahidlek.com/) - Movies / TV
 * [cinemana](https://cinemana.co/main/) - Movies / TV
 * [LODYNET](https://www.lodynet.cam/) - Movies / TV
 * [ShahidOnline](https://shahidonline.org/) - Movies / TV
@@ -287,7 +286,6 @@
 * [haodoo](http://haodoo.net/) - Books  
 * [Pilibook](https://www.pilibook.com/) - Books
 * [ixdzs](https://tw.m.ixdzs.com/) - Books
-* [ZXCS](http://zxcs.me) - Books
 * [LoreFree](https://lorefree.com/) - Books
 * [shuhai](https://www.shuhai.vip/) - Books
 * [biqiugexx](https://www.biqiugexx.com) - Books
@@ -793,7 +791,6 @@
 * [Streaming Improved](https://rentry.co/ItalianStreamingImproved), [2](https://rentry.co/t29tz) - Streaming Sites List
 * [Altaefinizione](https://altadefinizione01.skin/) - Movies / TV / Anime
 * [ilgeniodellostreaming](https://ilgeniodellostreaming.quest/) - Movies / TV / Anime
-* [piratestreaming](https://www.piratestreaming.lol/) - Movies / TV / Anime
 * [cinemalibero](https://cinemalibero.cafe/) - Movies / TV / Anime
 * [casacinema](https://www.casacinema.media/) - Movies / TV / Anime
 * [allstreaming](https://allstreaming.online/) - Movies / TV / Anime
@@ -1159,7 +1156,6 @@
 * [Portuguese Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_browser_games)
 * [Atari2600](http://www.atari2600.com.br/) - Browser Emulator
 * [Racha Cuca](https://rachacuca.com.br/) - Puzzles / Trivia
-* [cacapalavras](http://www.cacapalavras.com.br/) - Crossword Puzzles
 * [plagiarisma](http://plagiarisma.net/pt/) - Plagiarism Checker
 * [nomesdefantasia](https://www.nomesdefantasia.com/) - Fantasy Name Generator
 * [CatalogoApp](https://catalogoapp.mobi/) - Portuguese Product Catalog
@@ -2010,7 +2006,6 @@
 
 ## ▷ Streaming
 
-* [TVHai](http://tvhai.org/) - Movies / TV / Anime
 * [BiluTV](https://bilutv.link/) - Movies / TV / Anime
 * [xemphim1080](https://xemphim1080.com/) - Movies / TV
 * [MotChill](https://motchill.net/), [2](https://motphimtv.tv/) - Movies / TV
@@ -2118,7 +2113,6 @@
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - Radio
 * [BotAllen](https://botallen.com/) - Kodi Repo
 * [PCPriceTracker](https://pcpricetracker.in/) - Track PC Component Rupee Prices
-* [TDIL](https://tdil-dc.in/eocr/index.html) - Indian Languages OCR
 * [Indic-Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indian Language Android Keyboard
 * [TamilVaathi](https://tamilvaathi.in) - Streaming / Movies / TV
 * [Upier](https://upier.vercel.app/) - Create Shareable Link for UPI Payments
