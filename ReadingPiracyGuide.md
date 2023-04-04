@@ -113,7 +113,6 @@
 * [eBook4Expert](https://ebook4expert.net/) - Books 
 * [TheFreeOnlineNovel](https://thefreeonlinenovel.com/) - Books
 * [ReadOnlineFreeBook](https://readonlinefreebook.com/) - Books
-* [Chest of Books](https://chestofbooks.com/) - Books
 * [All Books Hub](https://allbookshub.com/) - Books
 * [8ebooks](https://8ebooks.net/) - Books / Magazines
 * [ebooksz](https://www.ebooksz.net/) - Books
@@ -219,7 +218,6 @@
 * [Freeditorial](https://freeditorial.com/)
 * [Lit2Go](https://etc.usf.edu/lit2go/)
 * [Planet Publish](http://www.planetpublish.com/) 
-* [Classics.mit](http://classics.mit.edu/index.html)
 * [sherlock-holm.es](https://sherlock-holm.es/) - Complete Sherlock Holmes Canon
 
 ***
@@ -901,7 +899,6 @@
 * [MangaList](https://mangalist.com/) 
 * [Manga Park](https://mangapark.net/)
 * [MangaTown](https://www.mangatown.com/)
-* [MangaSee](https://www.mangasee.net/)
 * [MixedManga](https://mixedmanga.com/)
 * [Disaster Scans](https://disasterscans.com/) - [Discord](https://discord.gg/JbcJCpv)
 * [MangaSail](https://www.mangasail.co/)
