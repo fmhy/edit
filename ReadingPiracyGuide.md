@@ -721,7 +721,7 @@
 
 ## ▷ Manual Sites
 
-* [Manuals & Schematics](https://redd.it/nlw3er), [ManualsRepo](https://manualsrepo.com/), [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [Wedophones](http://wedophones.com/Manuals/), [manualzz](https://manualzz.com/), [SAS](http://www.univertron.com/SAS/manuals/), [ManualsNet](https://manualsnet.com/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
+* [Manuals & Schematics](https://redd.it/nlw3er), [ManualsRepo](https://manualsrepo.com/), [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [Wedophones](http://wedophones.com/Manuals/), [manualzz](https://manualzz.com/), [SAS](http://www.univertron.com/SAS/manuals/), [ManualsNet](https://manualsnet.com/), [manua.ls](https://www.manua.ls/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
 * [ManualLib](https://www.manuallib.com/) - Manual Search
 * [Floss Manuals](https://www.flossmanuals.net/) - Software Manuals
 * [iFixIt](https://www.ifixit.com/Guide) - Repair Manuals
