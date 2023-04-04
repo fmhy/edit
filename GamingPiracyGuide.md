@@ -1094,7 +1094,6 @@
 * [FtG UI Mod](https://www.nexusmods.com/dragonage/mods/73) - Make Dragon Age Text Readable
 * [SpinShare](https://spinsha.re/) - Spin Rhythm XD Custom Charts
 * [OrignStubDecrypter](https://github.com/PotatoOfDoom/OriginStubDecrypter) - EA Origins Stub Decrypter
-* [Tarac](https://sims.tarac.nl/the-sims-4/sims-4-download-update-repair-add-dlcs/) - Sims 4 Update / Repair Tool
 * [Payday 2 Social Safe](https://www.paydaythegame.com/static/payday2/social-safe/) - Free Payday 2 Offers
 * [PuzzleGraph](https://runevision.itch.io/puzzlegraph) - Computer Puzzle Visualizer
 * [WordPlays](https://www.wordplays.com/) or [WorduUnscrambler](https://www.wordunscrambler.net/) - Cheat at Scrabble, Words with Friends & Crossword Puzzles
