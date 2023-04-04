@@ -61,6 +61,9 @@
 * ⭐ **[The-Eye](https://the-eye.eu/)** - Audio / ROMs / Books / Comics / Magazines / Software / [Discord](https://discord.com/invite/6hr2Xsm)
 * ⭐ **[Archive.org](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader)
 * ⭐ **[rsload](https://rsload.net/)** - Software / Android / Games
+* [nulled](https://www.nulled.to/) - Video / Audio / Software / Games / Books / Magazines
+* [Team OS](https://www.teamos.xyz/) - Software / Games / Books / Android
+* [Akiba-Online](https://www.akiba-online.com/) - Japanese Media / Video / Audio / Games / Comics / NSFW
 * [WarezForums](https://warezforums.com/) - Video / Audio / Games / ROMs / Software / Books / Comics / Android / [Account Application](https://t.me/joinchat/AAAAAFRH5fns4IiE-T2TcA)
 * [AsanDL](http://asandl.com/) - Video / Audio / Games / Software / Books / Magazines / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [SceneP2P](https://www.scenep2p.com) - Video / Audio / Games / ROMs / Software / Android / Books / Magazines
@@ -95,16 +98,6 @@
 * [Uloz](https://ulozto.net/) - Video / Audio 
 * [ShareMania](http://sharemania.us/) - Video / Audio 
 * [Heidoc](https://www.heidoc.net/joomla/) - Software / Books / Android 
-* [Pouet](https://www.pouet.net/prodlist.php) - Demos / Cracktros
-* [Redump](http://redump.org/) - Disc Preservation Project
-* [DemoZoo](https://demozoo.org/) or [scene.org](https://files.scene.org/) - Demoscene Archive / [Wiki](https://en.wikipedia.org/wiki/Demoscene)
-* [Ubu](https://ubuweb.com/) - Avant-Garde Artifacts
-* Alexa Rankings - [Sites](https://dirtywarez.org/cat/blog) / [Forums](https://dirtywarez.org/cat/forum) 
-
-* [nulled](https://www.nulled.to/) - Video / Audio / Software / Games / Books / Magazines
-* [Team OS](https://www.teamos.xyz/) - Software / Games / Books / Android
-* [Akiba-Online](https://www.akiba-online.com/) - Japanese Media / Video / Audio / Games / Comics / NSFW
-
 * [WorldSRC](https://www.worldsrc.net/) - Video / Audio / Games / Software / Android / [Donate](https://www.worldsrc.net/service_end)
 * [TehParadox](https://www.tehparadox.net/) - Video / Audio / Software / Games / Books / Magazines / ROMs / Android
 * [wJungle](https://wjungle.net/) - Video / Audio / Books / Games / Android / NSFW
@@ -123,7 +116,11 @@
 * [Warez-World](https://warez-world.org/) - Video / Audio / Games / Software / Android / Books / Magazines / NSFW
 * [0DayDDL](https://0dayddl.com/) - Video / Audio / Games / Software / Books / Magazines
 * [0dayhome](https://0dayhome.net/) - Video / Audio / Games / Software / Books / Magazines
-
+* [Pouet](https://www.pouet.net/prodlist.php) - Demos / Cracktros
+* [Redump](http://redump.org/) - Disc Preservation Project
+* [DemoZoo](https://demozoo.org/) or [scene.org](https://files.scene.org/) - Demoscene Archive / [Wiki](https://en.wikipedia.org/wiki/Demoscene)
+* [Ubu](https://ubuweb.com/) - Avant-Garde Artifacts
+* Alexa Rankings - [Sites](https://dirtywarez.org/cat/blog) / [Forums](https://dirtywarez.org/cat/forum) 
 
 ***
 
