@@ -229,7 +229,7 @@
 * [Phrozen](https://www.phrozen.io/)
 * [FileEagle](https://www.fileeagle.com/)
 * [Perkele](https://perkele.cc/software)
-* [OSDN](https://osdn.net/) - Open Source Software
+* [OSDN](https://osdn.net/)
 * [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html)
 * [Awesome Free Software](https://github.com/johnjago/awesome-free-software)
 * [Nirsoft](https://www.nirsoft.net/) - Windows Software
