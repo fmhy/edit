@@ -1054,7 +1054,7 @@
 # ► Programming / Coding 
 
 * ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists 
-* ⭐ **[Shell GPT](https://github.com/TheR1D/shell_gpt)** - Coding AI
+* ⭐ **[Shell GPT](https://github.com/TheR1D/shell_gpt)** or [Codeium](https://codeium.com/) - Coding AI
 * [WebdevHome](https://webdevhome.github.io/), [Charm](https://charm.sh/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - Programming Tool Indexes
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Programming Site Index 
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Web Scraping Tool Index
