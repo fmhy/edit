@@ -472,7 +472,7 @@
 
 * ⭐ **[ShareX](https://getsharex.com/)** 
 * ⭐ **ShareX Tools** - [Free Host](https://upload.systems/en-US), [2](https://encrypting.host/), [3](https://sxcu.net/), [4](https://www.sharexhosting.com/) / [Self-Host](https://github.com/tycrek/ass), [SXIE Archive](https://mega.nz/folder/1goUgJBZ#XaqM3dm5nY40luhtoxyzWg) / [Android Upload](https://github.com/tsudoko/xshare) / [File Manager](https://xbackbone.app/)
-* [Flameshot](https://flameshot.org/)
+* ⭐ **[Flameshot](https://flameshot.org/)**
 * Flameshot Tools - [GitHub](https://github.com/flameshot-org/flameshot) / [Imgur Upload](https://slproweb.com/products/Win32OpenSSL.html)
 * [Greenshot](https://getgreenshot.org/)
 * [Gyazo](https://gyazo.com/)
