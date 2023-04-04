@@ -653,7 +653,7 @@
 
 ## ▷ Career Tools
 
-* ⭐ **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)**, [JobsFromLarry](https://www.jobsfromlarry.com/), [4DayWeek](https://4dayweek.io/) or [Indeed](https://www.indeed.com/) - Job Search Sites
+* ⭐ **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)**, [4DayWeek](https://4dayweek.io/) or [Indeed](https://www.indeed.com/) - Job Search Sites
 * ⭐ **[Resume Makers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers)** - Create Resumes for Free
 * ⭐ **[Resume / Cover Letter Guide](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)**, [Undergrad](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf), [CareerCup](https://www.careercup.com/resume) or [Masters](https://hwpi.harvard.edu/files/ocs/files/masters_resume_cover_letters.pdf) - Resume / Cover Letter Guides
 * [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
@@ -1123,8 +1123,6 @@
 * [sum.vn](https://sum.vn/) - `sum.vn/DTrXk`
 * [ref.vn](https://ref.vn/) - `ref.vn/czuqfm`
 * [jii.li](https://jii.li/) - `jii.li/hNFXP`
-* [bitlink.vn](https://bitlink.vn/) - `bitlink.vn/1V61j`
-* [qrvn.cc](http://qrvn.cc/) - `qrvn.cc/Zzue41i`
 * [Shrinke.me](https://shrinke.me/) - `shrinke.me/1OpB2`
 * [Rebrandly](https://www.rebrandly.com/) - `rb.gy/4m25hq` / [Extension](https://mybrowseraddon.com/g-url-shortener.html)
 * [zws](https://zws.im/) - `zws.im/󠁡󠁷󠁴󠁪󠁷󠁫󠁯`
@@ -1573,7 +1571,7 @@
 * [LiveTL](https://kentonishi.github.io/LiveTL/) - YouTube Live Stream Translator
 * [YoutubeLiveChatFlusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - Bullet Chatting (Danmaku) for YouTube Live
 * [TubeTDLR](https://tubetldr.com/) - Summarize YouTube Videos
-* [Youtube Summarizer](https://share.streamlit.io/iamknownstranger/ytsummary/main) or [SkipVid](https://skipvid.herokuapp.com/) - YouTube Transcript Summarizers
+* [Youtube Summarizer](https://share.streamlit.io/iamknownstranger/ytsummary/main) - YouTube Transcript Summarizers
 * [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/) - YouTube Data Extraction 
 * [Youtube DataViewer](https://citizenevidence.amnestyusa.org/) or [YouTube-MA](https://github.com/CorentinB/YouTube-MA) - YouTube Video Data Viewer 
 * [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer) - Restore Deleted YouTube Video Titles in Playlists
