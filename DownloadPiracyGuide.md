@@ -203,15 +203,16 @@
 * ⭐ **[Major Geeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html)**
 * ⭐ **[SourceForge](https://sourceforge.net/)**
 * ⭐ **[FossHub](https://www.fosshub.com/)**
-* ⭐ **[Softpedia](https://www.softpedia.com/)**
-* ⭐ **[Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**, [2](https://gitlab.com/awesome-selfhosted/awesome-selfhosted) - Selfhosted Software Index
-* ⭐ **[FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories)** - Open-Source Wiki
+* ⭐ **[Free Software Directory](https://directory.fsf.org/wiki/Main_Page)**
+* ⭐ **[Fossies](https://fossies.org/all.html)**
+* ⭐ **[FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories)**
+* ⭐ **[OldVersion](http://www.oldversion.com/)** - Old Versions of Software
 * ⭐ **[Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites)** - Software / App Alternatives
+* ⭐ **[Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**, [2](https://gitlab.com/awesome-selfhosted/awesome-selfhosted) - Selfhosted Software Index
 * [Windows Ultimate Collection](https://forum.xda-developers.com/t/windows-ultimate-collection-guides.4507867/)
 * [OlderGeeks](https://oldergeeks.com/)
+* [Softpedia](https://www.softpedia.com/)
 * [Chiefs Big List of Programs](https://github.com/TheChiefMeat/Chiefs-Big-List-of-Programs/)
-* [Free Software Directory](https://directory.fsf.org/wiki/Main_Page)
-* [Fossies](https://fossies.org/all.html)
 * [Simple Tools](https://simpletools.info/doku.php)
 * [Handmade Network](https://handmade.network/)
 * [Realityripple](https://realityripple.com/)
@@ -231,7 +232,6 @@
 * [OSDN](https://osdn.net/) - Open Source Software
 * [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html)
 * [Awesome Free Software](https://github.com/johnjago/awesome-free-software)
-* [OldVersion](http://www.oldversion.com/) - Old Versions of Software
 * [Nirsoft](https://www.nirsoft.net/) - Windows Software
 * [Windows-Utilities](https://orga.cat/windows-utilities) - Windows Software
 * [OS Vault](https://osvault.weebly.com/directory.html) - Windows Software
