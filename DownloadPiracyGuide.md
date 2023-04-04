@@ -60,6 +60,7 @@
 * ⭐ **[Bitdownload](http://bitdownload.ir/)** - Video / Audio / Software / Games / Android / Courses / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[The-Eye](https://the-eye.eu/)** - Audio / ROMs / Books / Comics / Magazines / Software / [Discord](https://discord.com/invite/6hr2Xsm)
 * ⭐ **[Archive.org](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader)
+* ⭐ **[rsload](https://rsload.net/)** - Software / Android / Games
 * [DDLValley](https://www.ddlvalley.me/) - Video / Audio / Games / ROMs / Software / Android / Books / Comics / Magazines
 * [WarezForums](https://warezforums.com/) - Video / Audio / Games / ROMs / Software / Books / Comics / Android / [Account Application](https://t.me/joinchat/AAAAAFRH5fns4IiE-T2TcA)
 * [OneDDL](https://oneddl.org/) - Video / Audio / Software / Games / Books
@@ -123,7 +124,6 @@
 * [sarzamindownload](https://www.sarzamindownload.com/) - Software / Games / Android 
 * [FrostClick](https://www.frostclick.com/wp/) - Video / Audio / Software / Games / Books 
 * [KapitalSin](https://kapitalsin.com/) - Software / Games
-* [rsload](https://rsload.net/) - Software / Android / Games
 * [Leaker](https://leaker.me/) - Video / Audio / Games
 * [Uloz](https://ulozto.net/) - Video / Audio 
 * [ShareMania](http://sharemania.us/) - Video / Audio 
