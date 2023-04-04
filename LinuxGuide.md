@@ -464,7 +464,7 @@
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - Menu Bar Toggle Switches
 * [Sloth](https://github.com/sveinbjornt/Sloth) - MacOS Process Manager
 * [pongoOS](https://github.com/checkra1n/pongoOS) - Mac Pre-Boot Executor
-* [Magnet Pro](https://haxmac.cc/?s=magnet+pro), [Yabai](https://github.com/koekeishiya/yabai) or [Rectangle](https://rectangleapp.com/) - Window Tiling Apps
+* [Yabai](https://github.com/koekeishiya/yabai) or [Rectangle](https://rectangleapp.com/) - Window Tiling Apps
 * [Homebrew](https://brew.sh/) - Package Manager
 * [AlDente](https://github.com/davidwernhart/AlDente-Charge-Limiter) - MacOS Charging Manager
 * [Unlocker](https://github.com/paolo-projects/unlocker) - VMware Unlocker
@@ -561,22 +561,16 @@
 * [Macintosh Garden](http://macintoshgarden.org/)
 * [nMac](https://nmac.to/)
 * [MacBed](https://www.macbed.com/)
-* [AppDB](https://appdb.to/)
-* [AppsTorrent](https://appstorrent.ru/)
-* [XMac](https://xmac.app/)
 * [Pure Mac](https://www.pure-mac.com/)
 * [Macupdate](https://www.macupdate.com/)
 * [Mac Torrents](https://www.torrentmac.net/)
 * [MacTorrents](https://mactorrents.io/)
-* [HaxMac](https://haxmac.cc/)
 * [InsMac](https://www.insmac.org/)
 * [MacX](https://www.macx.ws/)
-* [Downmienphi](https://downmienphi.com/)
 * [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 * [WebCatalog](https://webcatalog.io/)
 * [Mac Menu Bar](https://macmenubar.com/) - Menu Bar Apps
-* [AppleDB](https://appledb.dev/) - Official Apple Software
 * [Awesome macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Open Source
 Software
 
@@ -588,7 +582,6 @@ Software
 * [SCNLOG](https://scnlog.me/)
 * [Macgamefiles](http://www.macgamefiles.com/)
 * [NXMac](https://nxmac.com/)
-* [Mac Torrents](https://www.torrentmac.net/)
 * [MacTorrents](https://mactorrents.io/)
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Epic Games Launcher
 * [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - Gamecube iso.dec to ISO Converter
