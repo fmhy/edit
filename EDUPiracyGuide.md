@@ -213,7 +213,6 @@
 
 ## ▷ Documentaries
 
-* [Documentary.su](https://documentary.su/)
 * [Docuwiki](https://docuwiki.net/) - [Emule required](https://www.emule-project.net/)
 * [Open-Video](https://open-video.org/)
 * [Documentaries & Archive](https://t.me/joinchat/S6gY9zmO5Ubl15CW)
@@ -231,7 +230,6 @@
 * [FreeCourseSite](http://freecoursesite.com/) - Courses
 * [DownloadFreeCourse](https://downloadfreecourse.com/) - Courses
 * [GetFreeCourses](https://getfreecourses.co/) - Courses
-* [FreeAllCourse](https://freeallcourse.com/) - Courses
 * [TutorialsPlanet](https://tutorialsplanet.net/) - Courses
 * [FreeCoursesOnline](https://freecoursesonline.me/) - Courses
 * [Paid Courses for Free](https://paidcoursesforfree.com/) - Udemy Courses 
@@ -966,7 +964,6 @@ Simulator
 * [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) - Light and Shadow Lesson
 * [Interactive 4D Handbook](https://baileysnyder.com/interactive-4d/) - Interactive Fourth Dimension
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) or [Mindat](https://www.mindat.org/) - Mineralogy Database
-* [Início](https://www.desolhar-philo.com/) - Learn about Philosophers / Philosophy
 * [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
 * [8000ers](https://martin-laxenaire.fr/experiments/8000ers/#/everest) or [Mount Everest 3D](https://mount-everest3d.com/) - Mountain Visualizations & Info
 * [nanoHUB](https://nanohub.org/) - Nanotechnology Tool Index
