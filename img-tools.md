@@ -117,7 +117,6 @@
 ***
 
 * [more.graphics](https://more.graphics/) - Graphic Generators
-* [Random Art](http://www.random-art.org/) - Random Art Generator
 * [Rough.js](https://roughjs.com/) - Hand Drawn Graphic Generator
 * [Erlich](https://replicate.com/laion-ai/erlich), [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - Icon / Logo Generators
 * [Logo Makr](https://logomakr.com/), [Hatchful](http://hatchful.shopify.com/), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](http://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/), [OnlineLogoMaker](https://www.onlinelogomaker.com/), [Free Logo Maker](https://freelogomaker.net/) or [ACME](https://acme.com/labelmaker/) - Logo Creators / [Note](https://i.imgur.com/gXHFqff.png)
@@ -203,6 +202,7 @@
 * [Dummy Image](https://dummyimage.com/) - Dynamic Dummy Image Generator 
 * [instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant Neural Graphics Primitives 
 * [CLIP-GLaSS](https://colab.research.google.com/drive/1fWka_U56NhCegbbrQPt4PWpHPtNRdU49?usp=sharing#scrollTo=zvZFRZtcv8Mp) - Image Generation Tool 
+* [Random Art](http://www.random-art.org/) - Random Art Generator
 * [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) - Chimera Generator 
 
 ***
