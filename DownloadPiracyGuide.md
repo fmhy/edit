@@ -208,10 +208,7 @@
 * [store.rg](https://store.rg-adguard.net/) - Paid Microsoft Store Link Generator / [Guide](https://rentry.co/paidAppsMsStore)
 * [PLC4Me](https://plc4me.com/) - Automation Software
 * [civileng_soft](https://t.me/civileng_soft) - Civil Engineering Software
-* [Radixx11](https://radixx11rce3.blogspot.com/) or [SmartSerials](https://smartserials.com/) - Software Keys / Patches
 * [Software Heritage](https://www.softwareheritage.org/) - Software Source Code Archive
-* [balenaHub](https://hub.balena.io/) - Raspberry Pi Software
-* [CSDb](https://csdb.dk/) - Commodore 64 Resources
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - Professional Video, Audio & Adobe Software / Plugins
 * [WLSetup-All](https://github.com/nbats/FMHYedit/blob/main/base64.md#wlsetup-all) - Windows Live Essentials 2012 Archive
 * [GenP](https://www.reddit.com/r/GenP) - Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)
