@@ -457,7 +457,6 @@
 * ⭐ **[Audio Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_servers)** - Host & Play Audio Files via Server
 * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream PC Audio to Phone
 * ⭐ **[Tune My Music](https://www.tunemymusic.com/)** - Transfer Music Library Between Services
-* ⭐ **[Audio Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25B7_audio_software)** - Audio Software Downloads
 * ⭐ **[Audio Editors / Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_editors)** - Edit, Record & Create Audio
 * ⭐ **[Moises](https://moises.ai/)** - Live Music Mixer
 * ⭐ **[Audio Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_download_apps)** - Download Audio from Various Sites 
