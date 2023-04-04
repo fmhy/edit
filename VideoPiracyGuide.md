@@ -671,6 +671,7 @@
 * [MovieLegacy](https://movieslegacy.com/category/hollywood/) - Movies
 * [ULMovies](https://ulmovies.xyz/) - Movies / TV 
 * [SBS](https://3dsbs4u.com/) - Movies / TV
+* [ShareMania](http://sharemania.us/) - Movies / TV
 * [NetNaija](https://netnaija.xyz/) - Movies
 * [GdriveMovies](https://gdrivemovies.xyz/) - Movies 
 * [nKiri](https://nkiri.com/) - Movies / TV
