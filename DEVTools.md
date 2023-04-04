@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/OoLUHBm.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/zPH3M0i.png)** - For mobile users
 
 ***
 *** 
@@ -1044,6 +1044,10 @@
 * [uiGradients](https://uigradients.com/) - Hex Gradients
 * [ShaderToy](https://www.shadertoy.com/browse) - User-Made Shaders 
 * [Contrast Checker](https://webaim.org/resources/contrastchecker/) - Background / Text Contrast Checker
+
+***
+
+## ▷ [Machine Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_machine_learning)
 
 ***
 
