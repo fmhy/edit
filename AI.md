@@ -17,14 +17,16 @@
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - Q&A AI
-* [BAI](https://chatbot.theb.ai/) - GPT-3.5 Based AI
+* [BAI](https://chatbot.theb.ai/) - GPT-3.5 Based Chatbot
+* [GPT4All](https://github.com/nomic-ai/gpt4all) - GPT-3.5 Based Chatbot
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
 * [DeepAI](https://deepai.org/chat) - DeepAI's Chatbot
 * [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT-3 Based Chatbot
 * [Open Assistant](https://open-assistant.io/) - Open-Source Chatbot
-* [PygmalionAI](https://redd.it/10kr5zk) - Chatbot Built by 4Channers
 * [ChatLLaMA](https://stuff.serp.ai/l/lora-weights) - LLaMA Based Chatbot
-* [Dalai](https://cocktailpeanut.github.io/dalai/), [LLaMA C++](https://github.com/ggerganov/llama.cpp) or [Alpaca](https://github.com/antimatter15/alpaca.cpp) - Self-Host Facebook Chatbot / [Guide](https://rentry.org/llama-tard-v2), [2](https://github.com/tatsu-lab/stanford_alpaca)
+* [Dalai](https://cocktailpeanut.github.io/dalai/) or [LLaMA C++](https://github.com/ggerganov/llama.cpp) - Self-Host Facebook Chatbot / [Guide](https://rentry.org/llama-tard-v2)
+* [Alpaca Lora](https://huggingface.co/spaces/tloen/alpaca-lora) - Chatbot Built by Standford / [Git](https://github.com/antimatter15/alpaca.cpp) / [Guide](https://github.com/tatsu-lab/stanford_alpaca) / [Self-Host](https://github.com/tloen/alpaca-lora) / [Docker](https://github.com/chris-alexiuk/alpaca-lora)
+* [PygmalionAI](https://redd.it/10kr5zk) - Chatbot Built by 4Channers
 * [InWorld](https://www.inworld.ai/) - Roleplaying Chatbots
 * [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbots
 * [Chai](https://chai.ml/) - Entertainment Focused Chatbot
@@ -211,6 +213,13 @@
 * [GetIMG.ai](https://getimg.ai/) - AI Image Generator
 * [PlaygroundAI](https://playgroundai.com/) - AI Image Generator
 * [StableCog](https://stablecog.com/) - AI Image Generator
+* [Prodia](https://app.prodia.com/) - AI Image Generator
+* [Visuali](https://visuali.io/) - AI Image Generator
+* [Ocriador](https://ocriador.app/) - AI Image Generator
+* [StableBoost](https://stableboost.ai/) - AI Image Generator
+* [Artsio](https://artsio.xyz/) - AI Image Generator
+* [Satble UI](https://aqualxx.github.io/stable-ui/) - AI Image Generator
+* [ArtBot](https://tinybots.net/artbot) - AI Image Generator
 * [Uranus AI](https://uranus.ai/) - AI Image Generator
 * [InstantArt](https://instantart.io/) - AI Image Generator
 * [Artificy](https://artificy.com/) - AI Image Generator
@@ -307,6 +316,7 @@
 * [NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB) - Singing Voice Enhancer
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) - Voice Cloning
 * [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Voice Cloning
+* [Beyondwords](https://beyondwords.io/) - Voice cloning
 * [VCloner](https://vocloner.com/) - Voice Cloning
 * [Controllable TalkNet](https://github.com/justinjohn0306/ControllableTalkNet) - Voice Cloning
 * [tortoise](https://github.com/152334H/tortoise-tts-fast) - Voice Cloning / [Colab](https://colab.research.google.com/drive/1N8lXviiwfmrS9vYzuFdQnLHlddXMMMvU#scrollTo=vF1d-My9IXXt)
