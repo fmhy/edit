@@ -21,6 +21,7 @@
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
 * [DeepAI](https://deepai.org/chat) - DeepAI's Chatbot
 * [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT-3 Based Chatbot
+* [Open Assistant](https://open-assistant.io/) - Open-Source Chatbot
 * [PygmalionAI](https://redd.it/10kr5zk) - Chatbot Built by 4Channers
 * [ChatLLaMA](https://stuff.serp.ai/l/lora-weights) - LLaMA Based Chatbot
 * [Dalai](https://cocktailpeanut.github.io/dalai/), [LLaMA C++](https://github.com/ggerganov/llama.cpp) or [Alpaca](https://github.com/antimatter15/alpaca.cpp) - Self-Host Facebook Chatbot / [Guide](https://rentry.org/llama-tard-v2), [2](https://github.com/tatsu-lab/stanford_alpaca)
@@ -236,6 +237,7 @@
 * [Interiorai](https://interiorai.com/) - AI Interior Design Tool
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) - Protect Digital Art from AI Copies
+* [erasing](https://github.com/rohitgandikota/erasing) - Remove Concepts from SD Models
 
 ***
 
