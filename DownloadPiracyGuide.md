@@ -160,8 +160,8 @@
 * ⭐ **[Kapital Sin](https://kapitalsin.com/)**
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)**
 * ⭐ **[rsload](https://rsload.net/)**
-* ⭐ **[LRepacks](https://lrepacks.net/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[AppNee](https://appnee.com/)**
+* ⭐ **[LRepacks](https://lrepacks.net/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[YasDL](https://yasdl.com/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [soft98](https://soft98.ir/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [downloadly](https://downloadly.ir/) - Software / Courses / Persian VPN Required
