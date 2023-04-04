@@ -97,8 +97,8 @@
 
 ### Downloading 
 
-**[DownloadHa](https://www.downloadha.com) / [Open Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_download_directories) / [Usenet](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_usenet)** - Download video, audio, games, software & more
-**[FileCR](https://filecr.com/en/) / [Mobilism](https://forum.mobilism.org/)** - Trusted software sites / [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass)
+**[SoftArchive](https://sanet.st) / [Open Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_download_directories) / [Usenet](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_usenet)** - Download video, audio, games, software & more
+**[Pesktop](https://pesktop.com/en/) / [Mobilism](https://forum.mobilism.org/)** - Trusted software sites
 **[Rinzry](https://github.com/nbats/FMHYedit/blob/main/base64.md#rinzry) / [50TB Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#50tb-mega-drive)** - Fast video downloads
 **[AnimeKaizoku](https://animekaizoku.com/)** - Fast anime downloads
 **[FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/)** - Game download sites / [Discord](https://discord.gg/fitgirlrepacks)
