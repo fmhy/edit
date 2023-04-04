@@ -574,7 +574,7 @@
 * [Petaporon](https://pixwlk.itch.io/petaporon) or [OnlineSequencer](https://onlinesequencer.net/) - Piano Sequencers / [Editor](https://pixwlk.itch.io/petaporon-editor)
 * [MK-1](https://ericrosenbaum.github.io/MK-1/) - Online Sampling Keyboard
 * [Theremin](https://femurdesign.com/theremin/) - Online Synth / Theremin 
-* [Audio Synthesizers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_synthesizers) - Audio Synthesizer Sites & Apps
+* [Audio Synthesizers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_synthesizers) - Audio Synthesizer Sites / Apps
 * [Vital](https://vital.audio/) - Spectral Warping Wavetable Synth
 * [SampleBrain](https://gitlab.com/then-try-this/samplebrain) - Sample Mixer
 * [Sample-Stitch](http://samplestitch.com.s3-website-us-east-1.amazonaws.com/) - Pop Song Sample Mixer
