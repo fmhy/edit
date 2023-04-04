@@ -65,6 +65,8 @@
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
 * [Magipack](https://www.magipack.games) - Retro PC Games
 * [CollectionChamber](https://collectionchamber.blogspot.com/) - Retro PC Games
+* [ClassicPCGames](https://archive.org/details/classicpcgames) - Retro PC Games
+* [~archive](http://websites.umich.edu/~archive/) - Retro PC / Mac Games
 
 ***
 
@@ -329,18 +331,15 @@
 * [NesFiles](https://www.nesfiles.com/) - ROMs / NES
 * [webnofrendo](https://zardam.github.io/webnofrendo/) - NES Numworks Emulator
 * [Old-Games.com](https://www.old-games.com/) - ROMs / PC / Amiga
+* [CSDb](https://csdb.dk/) - Commodore 64 Resources
 * [lemon64](https://www.lemon64.com/), [whdload](https://www.whdload.de/), [lemonamiga](https://www.lemonamiga.com/), [exotica](http://www.exotica.org.uk/) or [hol abime](https://hol.abime.net/) - Amiga / Commodore 64 ROMs
 * [C64](http://www.c64.com/) - Commodore 64 ROMs
 * [AtariMania](http://www.atarimania.com/index.html) - ROMs / Emulators  / Atari Consoles
 * [World of Spectrum](https://worldofspectrum.org/) - ROMs / Emulators / Sinclair ZX Spectrum
 * [Flashtro](https://flashtro.com/) - Retro Games
-* [MagiPack](https://www.magipack.games/) - Retro Games 
 * [/1CC/](https://8kun.top/1cc/index.html) - Retro Games / [Discord](https://discord.com/invite/Y4dSzbXNau)
 * [Zombs-Lair](https://www.zombs-lair.com/) - Retro Games
 * [RetroSpec](http://retrospec.sgn.net/) - Retro Games
-* [ClassicPCGames](https://archive.org/details/classicpcgames) - Retro PC Games
-* [OldPCGaming](http://oldpcgaming.net/) - Retro PC Games
-* [~archive](http://websites.umich.edu/~archive/) - Retro PC / Mac Games
 * [LegendsWorld](https://www.legendsworld.net/) - Retro Adventure PC Games
 * [MSXGamesWorld](https://msxgamesworld.com/index.php), [MSX Resource Center](https://www.msx.org/), [Generation MSX](https://www.generation-msx.nl/), [File Hunter](https://www.file-hunter.com/), [download.file-hunter](https://download.file-hunter.com/) or [MSXAbandonware](http://msxabandonware.com/en/home) - MSX Games
 * [ROMs For MAME](https://www.romsformame.com/), [MAME World](https://mameworld.info/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
