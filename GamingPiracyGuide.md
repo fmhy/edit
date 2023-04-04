@@ -56,7 +56,7 @@
 * ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/Up3YARe4RW) / [Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#silentycryings-game-drive)
 * ⭐ **[DODI Repacks](http://dodi-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
 * ⭐ **[M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)** - Download / [Discord](https://discord.gg/693hNBdymb)
-* ⭐ **[KapitalSin](https://kapitalsin.com/)**
+* ⭐ **[Kapital Sin](https://kapitalsin.com/)**
 * [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - Download / Torrent / [Discord](https://discord.gg/HP5sQ6c)
 * [Elamigos](https://elamigos.site/) - Download
 * [ScOOter Repacks](https://scooter-repacks.site/) - Download / Torrent / [Discord](https://discord.gg/BWKyN8SgvM)
