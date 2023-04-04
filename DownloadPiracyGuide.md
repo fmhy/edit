@@ -119,10 +119,10 @@
 ## ▷ Search Sites
 
 * ⭐ **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Multi-Site Search
+* ⭐ **[FilePursuit](https://filepursuit.com)** - [Discord](https://discord.gg/xRfFd8h)
 * ⭐ **[4Shared](https://www.4shared.com/)** - Video / Audio / Games / Software / Android
 * ⭐ **[Hatt](https://github.com/FrenchGithubUser/Hatt)** - File Search App
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
-* [FilePursuit](https://filepursuit.com) - [Discord](https://discord.gg/xRfFd8h)
 * [scnlog](https://scnlog.me/)
 * [FileNinja](https://fileninja.net/)
 * [filesearch.link](http://filesearch.link/)
