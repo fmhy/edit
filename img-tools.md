@@ -188,7 +188,7 @@
 * [MyPokeCard](https://www.mypokecard.com/en/) - Create Pokemon Cards
 * [Flag Maker](https://flagmaker-print.com/pages/flag-maker) - Flag Creator
 * [MakeCoatOfArms](https://www.allfamilycrests.com/makecoatofarms.htm ) - Coat of Arms Creator
-* [ArmorLab](https://armorlab.org/), [Kandinsky](https://www.kandinsky.io/) or [TextureLab](https://www.texturelab.io/) - Texture Generator / [GitHub](https://github.com/armory3d/armorlab)
+* [ArmorLab](https://armorlab.org/), [Kandinsky](https://www.kandinsky.io/), [Pixela](https://pixela.ai/) or [TextureLab](https://www.texturelab.io/) - Texture Generators / [GitHub](https://github.com/armory3d/armorlab)
 * [Trianglify.io](https://trianglify.io/) - Low-Poly Texture Generator
 * [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) - Texture Editor
 * [Materialize](https://boundingboxsoftware.com/materialize/getkey.php) - Material Generator
