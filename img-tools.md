@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/SyTNyo3.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/APevdKy.png)** - For mobile users
 
 ***
 *** 
@@ -110,12 +110,7 @@
 
 # ► Image Generation
 
-***
-
-## ▷ [AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_image_generators)
-
-***
-
+* ⭐ **[AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_image_generators)**
 * [more.graphics](https://more.graphics/) - Graphic Generators
 * [Rough.js](https://roughjs.com/) - Hand Drawn Graphic Generator
 * [Erlich](https://replicate.com/laion-ai/erlich), [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - Icon / Logo Generators
