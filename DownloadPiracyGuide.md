@@ -86,14 +86,10 @@
 * [Apps4All](https://www.apps4all.com/ ) - Video / Books / Software / Games / Android
 * [Katz DDL](https://katzddl.net/) - Video / Audio / Books / Games / Android / NSFW
 * [BadshahUploads](https://badshahuploads.xyz/) - Video / Audio / Software / Games / Books / Leech Required 
-* [The Ambassador](https://ambassadorddl.site/) - Video / Games / Books
 * [sarzamindownload](https://www.sarzamindownload.com/) - Software / Games / Android 
 * [FrostClick](https://www.frostclick.com/wp/) - Video / Audio / Software / Games / Books 
-* [KapitalSin](https://kapitalsin.com/) - Software / Games
+* [The Ambassador](https://ambassadorddl.site/) - Video / Games / Books
 * [Leaker](https://leaker.me/) - Video / Audio / Games
-* [Uloz](https://ulozto.net/) - Video / Audio 
-* [ShareMania](http://sharemania.us/) - Video / Audio 
-* [Heidoc](https://www.heidoc.net/joomla/) - Software / Books / Android 
 * [WorldSRC](https://www.worldsrc.net/) - Video / Audio / Games / Software / Android / [Donate](https://www.worldsrc.net/service_end)
 * [TehParadox](https://www.tehparadox.net/) - Video / Audio / Software / Games / Books / Magazines / ROMs / Android
 * [wJungle](https://wjungle.net/) - Video / Audio / Books / Games / Android / NSFW
@@ -161,8 +157,9 @@
 
 * ⭐ **[Pesktop](https://pesktop.com/en/)** or [FileCR](https://filecr.com/en/) - Software / Books / [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass) / [Search Fix](https://greasyfork.org/en/scripts/459020-filecr-search-fix)
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - Software / Books / [Mobile App](https://forum.mobilism.org/app/)
+* ⭐ **[Kapital Sin](https://kapitalsin.com/)**
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)**
-* ⭐ **[rsload](https://rsload.net/)** - Software / Android / Games
+* ⭐ **[rsload](https://rsload.net/)**
 * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[AppNee](https://appnee.com/)**
 * ⭐ **[YasDL](https://yasdl.com/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -178,6 +175,7 @@
 * [3almalt9nia](https://3almalt9nia.com/)
 * [AllPCWorld](https://allpcworld.com/)
 * [FreeSoftwareFiles](https://www.freesoftwarefiles.com/)
+* [Heidoc](https://www.heidoc.net/joomla/)
 * [SamLab](https://samlab.ws/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ
 * [AIOsetup](https://t.me/aiosetup) - Telegram
