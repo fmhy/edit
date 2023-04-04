@@ -2,7 +2,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/Ki76nDv.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/cRv9lra.png)** - For mobile users
 
 ***
 
@@ -34,13 +34,6 @@
 #### 4chan Archives
 
 [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion), [old.sage](https://old.sage.moe/), [BibAnon](http://vyrd.bibanon.org/), [4Museum](https://4museum.neocities.org/), [Archive.4plebs](https://archive.4plebs.org/), [arch.b4k](https://arch.b4k.co/), [Sup/tg/](http://suptg.thisisnotatrueending.com/), [4chanSearch](https://4chansearch.com/), [4search](https://4search.neocities.org/), [palanq](https://archive.palanq.win/), [boards.4channel](https://boards.4channel.org/search) / [2](https://boards.4chan.org/search), [desuarchive](https://desuarchive.org/)
-
-***
-
-#### Absolute Enable Right Click
-
-Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/) /
-[Chrome](https://chrome.google.com/webstore/detail/absolute-enable-right-cli/jdocbkpgdakpekjlhemmfcncgdjeiika) / [Script](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy)
 
 ***
 
@@ -145,12 +138,6 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 ⭐ **[AlternativeTo](https://alternativeto.net/)**
 
 [Ethical](https://ethical.net/resources/), [Slant](https://www.slant.co/), [SaaSHub](https://www.saashub.com/), [switching.software](https://switching.software/), [ALTERNATIVES](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md), [Alternative.me](https://alternative.me/), [Top Best Alternatives](https://www.topbestalternatives.com/), [GoFOSS](https://gitlab.com/curlycrixus/gofoss), [osalt](http://osalt.com/), [Open Source Alternatives](https://www.opensourcealternative.to/), [AlternativeBK](https://alternativebk.com/), [TopAlter](https://topalter.com/), [Prism Break](https://prism-break.org/), [listalternative](https://www.listalternative.com/), [FreeCompetitors](https://notabug.org/jyamihud/FreeCompetitors)
-
-***
-
-#### Alternative Twitch Player
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/twitch_5/), [Chrome](https://chrome.google.com/webstore/detail/alternate-player-for-twit/bhplkbgoehhhddaoolmakpocnenplmhf)
 
 ***
 
@@ -292,12 +279,6 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 ***
 
-#### Auto Text Expander 
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/auto-text-expander/) / [Chrome](https://www.getmagical.com/)
-
-***
-
 #### ASCII Art Creators
 
 ⭐ **[taag](http://patorjk.com/software/taag/)**
@@ -379,12 +360,6 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 #### Calibre Tools
 
 [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries), [2](https://reddit.com/r/opencalibre) / [Search](https://www.shodan.io/search?query=server%3A+calibre) / [Web App](https://github.com/janeczku/calibre-web)  
-
-***
-
-#### CanvasBlocker
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/), [Chrome](https://chrome.google.com/webstore/detail/nomnklagbgmgghhjidfhnoelnjfndfpd)
 
 ***
 
@@ -992,25 +967,12 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 ***
 
-#### Forest 
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/forest-stay-focused-be-present/) / [Chrome](https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk)
-
-***
-
 #### Game Download CSE
 
 * ⭐ **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)**
 * [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/)
 * [Rezi Search](https://rezi.one/)
 * [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa)
-
-***
-
-#### Gameboy Roms
-
-* [merwanachibet](http://merwanachibet.net/gameboy-roms.html)
-* [Unreleased Gameboy Games](https://ufile.io/70vmpyng)
 
 ***
 
@@ -1062,12 +1024,6 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 * https://yushare.my.id/
 * https://yamidrive.com/
 * https://gdbot.xyz/ - Proxy
-
-***
-
-#### German Telegram Movie Downloads
-
-[Deutsche Filme](https://t.me/deutsche_filme_german_movies), [GERMAN MOVIES](https://t.me/german_movie_channel)
 
 ***
 
@@ -1257,12 +1213,6 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 
 ***
 
-#### Into The Black Hole
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/into-the-black-hole/) / [Chrome](https://chrome.google.com/webstore/detail/into-the-black-hole-true/faeadnfmdfamenfhaipofoffijhlnkif)
-
-***
-
 #### IP Checkers
 
 [My IP Address](https://myipaddress.ru/), [WhatIsMyIPAdress](https://whatismyipaddress.com/), [IPInfoDB](https://ipinfodb.com/), [IP Burger](https://www.ipburger.com/ip/), [NSUpdate](https://www.nsupdate.info/), [IfConfig](https://ifconfig.me/), [elahmad](http://www.elahmad.com/api/), [myip](https://myip.ms/), [WhatIsMyIPLookup](https://whatismyiplookup.com/), [ipturtle](https://ipturtle.com/), [iphorse](https://www.iphorse.com/), [ippig](http://ippig.net/), [ipcow](https://www.ipcow.com/), [ipchicken](https://ipchicken.com/), [who.is](https://who.is/), [ip2location](https://www.ip2location.com/), [infobyip](https://www.infobyip.com/), [ip.me](https://ip.me/), [whatsmyip](https://whatsmyip.com/)
@@ -1329,12 +1279,6 @@ Absolute Enable - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/absol
 * [Media Tracker](https://simkl.com/)
 * [Media Manager](https://github.com/komet/mediaelch)
 * [Plex For Kodi](https://github.com/plexinc/plex-for-kodi)
-
-***
-
-#### Location Guard
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/change-geolocation-locguard/) / [2](https://addons.mozilla.org/en-US/firefox/addon/location-guard/), [Chrome](https://chrome.google.com/webstore/detail/change-geolocation-locati/lejoknkbcogjceoniealiipllomkpioe) / [2](https://chrome.google.com/webstore/detail/location-guard/cfohepagpmnodfdmjliccbbigdkfcgia), [Opera](https://addons.opera.com/en-gb/extensions/details/change-geolocation-location-guard/)
 
 ***
 
@@ -1724,12 +1668,6 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-#### Nuke Anything
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/nuke-anything-enhanced/) / [Chrome](https://chrome.google.com/webstore/detail/nuke-anything/ghoehocgoliemjdnbjjcaohgofgpkfgg)
-
-***
-
 #### Office Suites
 
 * ⭐ **[Microsoft Office DL Guides](https://github.com/nbats/FMHYedit/blob/main/base64.md#microsoft-office-dl-guides)** / [Download](https://files.rg-adguard.net/) / [Hot Keys](https://i.imgur.com/PE7l9NB.png) / [Account Creator](https://github.com/adityash4rma/bulk_microsoft_A1_creator)
@@ -1802,12 +1740,6 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-#### Panic Button
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/panic-button/) / [Opera](https://addons.opera.com/en/extensions/details/hide-tabs-panic-button/)
-
-***
-
 #### Password Managers
 
 * ⭐ **[KeePass XC](https://keepassxc.org/)**, [2](https://keepass.info/) - [Ports](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only Functionality](https://subdavis.com/Tusk/) / [CLI](https://github.com/rebkwok/kpcli)
@@ -1828,12 +1760,6 @@ Add the following commands to a search to manually scrape each site.
 * [TeamPass](https://teampass.net/) - Collaborative Password Manager
 * [Password Safe](https://www.pwsafe.org/) or [KDE Wallet Manager](https://userbase.kde.org/KDE_Wallet_Manager) - Password Managing Software
 * [Passbolt](https://www.passbolt.com/) or [PSONO](https://psono.com/) - Self-Hosted Password Manager
-
-***
-
-#### Password-Protected Bookmarks
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/webext-private-bookmarks/), [Chrome](https://chrome.google.com/webstore/detail/private-bookmarks/cbheenbihjdgbmbogbefcgnpfoflhnhl)
 
 ***
 
@@ -2045,12 +1971,6 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-#### Print Edit WE
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/print-edit-we/) / [Chrome](https://chrome.google.com/webstore/detail/print-edit-we/olnblpmehglpcallpnbgmikjblmkopia)
-
-***
-
 #### Privacy Based Browsers 
 
 **Multi-Platform**
@@ -2086,13 +2006,6 @@ Add the following commands to a search to manually scrape each site.
 ⭐ **[privacyguides](https://www.privacyguides.org/)**
 
 [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting), [Privacy Tools](https://www.privacytools.io/), [Awesome Privacy](https://github.com/pluja/awesome-privacy), [online-tools-for-the-pandemic](https://etherpad.wikimedia.org/p/online-tools-for-the-pandemic), [Privacy Tools List](https://privacytoolslist.com/), [chef-koch](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/) / [2](https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn) / [3](https://gitlab.com/CHEF-KOCH/privacy-tools-list-by-chef-koch) / [4](https://github.com/CKs-Technology-News/PrivacyTools), [Snopyta](https://snopyta.org/), [Hostux](https://hostux.network/), [Awesome Security](https://github.com/sbilly/awesome-security), [Security List](https://security-list.js.org/), [Awesome Privacy](https://github.com/KevinColemanInc/awesome-privacy), [Thunix](https://thunix.net/), [Zero Data App](https://0data.app/), [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/), [Alternative Internet](https://github.com/redecentralize/alternative-internet), [Awesome Windows Security](https://github.com/chryzsh/awesome-windows-security), [Tzkuat Ressources](https://gitlab.com/tzkuat/Ressources), [PrivacySavvy](https://privacysavvy.com/), [The New Oil](https://thenewoil.org/index.html), [awesome-humane-tech](https://codeberg.org/teaserbot-labs/delightful-humane-design), [xbdms' Blog](https://tiny.write.as/xbdm/my-privacy-anonymity-and-security-list), [privacy.do](https://privacy.do/)
-
-*** 
-
-#### PS4 Roms
-
-* [PKGPS4](https://www.pkgps4.com/)
-* [Auctor](https://auctor.tv/) 
 
 ***
 
@@ -2223,12 +2136,6 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-#### Restore Classic Google Icons
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/classic-google-icons/), [Chrome](https://chrome.google.com/webstore/detail/restore-old-google-icons/iellnmonjokmoagdlggagdmfjgpiahmb/)
-
-***
-
 #### Resume Makers
 
 ⭐ **[RX Resume ](https://rx-resume.web.app/)**
@@ -2271,12 +2178,6 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-#### Save Page WE 
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/save-page-we/), [Chrome](https://chrome.google.com/webstore/detail/save-page-we/dhhpefjklgkmgeafimnjhojgjamoafof)
-
-***
-
 #### Scan Files
 
 * ⭐ **[VirusTotal](https://www.virustotal.com/)** / [CLI](https://github.com/VirusTotal/vt-cli), [2](https://virustotal.github.io/vt-cli/) / [Telegram Bot](https://t.me/virus_total_scan_bot) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader)
@@ -2298,12 +2199,6 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-#### Scroll Anywhere
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/), [Chrome](https://chrome.google.com/webstore/detail/scrollanywhere/jehmdpemhgfgjblpkilmeoafmkhbckhi), [Opera](https://addons.opera.com/en/extensions/details/scrollanywhere/?display=en)
-
-***
-
 #### Scene Release Trackers
 
 * [/r/CrackWatch](https://reddit.com/r/CrackWatch) / [Discord](https://discord.gg/d9StxkknwX)
@@ -2319,12 +2214,6 @@ Add the following commands to a search to manually scrape each site.
 #### Searx Instances
 
 [Fuck Off Google](https://search.fuckoffgoogle.net/) / [nixnet](https://searx.nixnet.services/) / [Instance Index](https://searx.space/), [Instance Index 2](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22), [searx](https://searx.be/), [tiekoetter](https://searx.tiekoetter.com/), [monocles](https://monocles.de/)
-
-***
-
-#### Secure Password Generator
-
-[Firefox](https://addons.mozilla.org/en-GB/firefox/addon/secure-password-generator/) / [Chrome](https://chrome.google.com/webstore/detail/secure-password-generator/dapehldnfebpbfpfknddmlhghjlbjhdb?hl=en)
 
 ***
 
@@ -3241,12 +3130,6 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 ***
 
-#### Video Resumer
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/video-resumer), [Chrome](https://chrome.google.com/webstore/detail/video-resumer/bongjkoajofkfpofginnhecihgaeldpe) 
-
-***
-
 #### Video Editors
 
 **Programs**
@@ -3597,9 +3480,3 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 * [Scripts Index](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) or [ytBATCH](https://github.com/eppic/ytBATCH)
 * [Colab](https://colab.research.google.com/drive/13G4Q8scsCPh6r9YqX39hqEUu7axq4Xr2)
 [Bookmarklet](https://github.com/tardisx/gropple)
-
-***
-
-#### Zoom WE
-
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/zoom-page-we/), [Chrome](https://chrome.google.com/webstore/detail/zoom-page-we/bcdjhkphgmiapajkphennjfgoehpodpk)
