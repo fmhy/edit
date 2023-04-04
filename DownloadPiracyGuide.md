@@ -172,7 +172,6 @@
 * [AIOWares](https://www.aiowares.com/)
 * [Mr. SzzS](https://www.youtube.com/channel/UCcf3dtQFVb5zfy0jGYNpA0w)
 * [TheMicroTech](https://programs.themicrotech.net/)
-* [Soft32](https://www.soft32.com/)
 * [Mutaz.net](https://www.mutaz.net/)
 * [WagnardSoft](https://www.wagnardsoft.com/)
 * [SCloud](https://scloud.ws/)
