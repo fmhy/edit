@@ -397,7 +397,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 * ⭐ **[EasyPeasy](https://easypeasymethod.org/)** - Painlessly Quit Pornography
 * [ChadGuard](https://github.com/LaGuerrePiece/ChadGuard), [beta-censoring](https://github.com/silveredgold/beta-censoring), [beta-protection](https://github.com/silveredgold/beta-protection), [Web Cleaner](https://github.com/Web-Cleaner/Web_Cleaner/), [Wingman](https://github.com/wingman-jr-addon/wingman_jr) or [NSFW Filters](https://nsfw-filter.com/) - Porn Blocking Extensions
-* [Block Site](https://add0n.com/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs), [TabWave](https://www.tabwave.app/), [Forest](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_forest), [StayFocused](https://www.stayfocusd.com/) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - Site Blockers
+* [Block Site](https://add0n.com/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs), [TabWave](https://www.tabwave.app/), [Forest](https://pastebin.com/rYuAivA0), [StayFocused](https://www.stayfocusd.com/) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - Site Blockers
 * [RARBG Porn Filter](https://greasyfork.org/en/scripts/380386) - Porn Blocker for RARBG
 * [Brainbuddy](https://www.brainbuddyapp.com/) - Porn Blocker / Android / iOS
 * [SelfControlApp](https://selfcontrolapp.com/) - Mac Site Blocker
