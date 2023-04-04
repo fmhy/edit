@@ -68,7 +68,7 @@
 * [SceneP2P](https://www.scenep2p.com) - Video / Audio / Games / ROMs / Software / Android / Books / Magazines
 * [Adit-HD](https://www.adit-hd.com/) - Video / Audio / Games / Books 
 * [Novanon](https://novanon.net/) - Video / Audio / Software / Games / Magazines / Comics / Android / Books / Courses
-* [psychodownloads](http://psychodownloads.com/forum.php) - Video / Audio / Software / Android / Games / ROMs / Books / Magazines / NSFW
+* [psychodownloads](https://psychodownloads.com/) - Video / Audio / Software / Android / Games / ROMs / Books / Magazines / NSFW
 * [Sbenny's Forum](https://forum.sbenny.com/) - Video / Audio / Software / ROMs / Books / Android / [Discord](https://discord.gg/kf9FKQx)
 * [CyberPhoenix](http://www.cyberphoenix.org/forum/) - Video / Audio / Software / Games / ROMs / Books / Magazines / Comics
 * [dreamteamdownloads1](https://www.dreamteamdownloads1.com/index.php) - Video / Audio / Software / Games / ROMs / Books / Magazines
