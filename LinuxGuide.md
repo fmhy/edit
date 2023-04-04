@@ -491,6 +491,7 @@
 * [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - Image / Video Editor
 * [Kap](https://github.com/wulkano/Kap) - Screen Recorder
 * [Garageband](https://apps.apple.com/us/app/garageband/id682658836?mt=12) - Audio Editor
+* [Yoshimi](https://yoshimi.github.io/) - Audio Synthesizer
 * [The Levelator](https://archive.org/details/conversationsnetwork_org-levelator) - Automatic Audio Level Adjustments
 * [CasterSoundboard](https://github.com/JupiterBroadcasting/CasterSoundboard) - Soundboard
 * [XLD](https://sourceforge.net/projects/xld/) - Lossless Audio Transcoder
