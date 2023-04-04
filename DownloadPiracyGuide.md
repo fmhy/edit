@@ -83,7 +83,6 @@
 * [WarezLover](https://warezlover.xyz/) - Video / Audio / Software / Games / Android / ROMs / Books / Magazines 
 * [heroturko.net](https://www.heroturko.net/) - Video / Audio / Software / Games / Books / Magazines / Android
 * [4Shared](https://www.4shared.com/) - Video / Audio / Games / Software / Android
-* [2013Zone](http://www.2013zone.com/) - Video / Audio / Games / Software
 * [yasdl](https://www.yasdl.com/) - Software / Games / Audio / Video
 * [TFPDL](https://tfpdl.se/), [2](https://tfpdl.to/) - Video / Software / Games / Magazines / NSFW 
 * [Apps4All](https://www.apps4all.com/ ) - Video / Books / Software / Games / Android
