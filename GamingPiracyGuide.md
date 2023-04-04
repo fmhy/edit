@@ -246,9 +246,9 @@
 * [All N64 ROMs](https://alln64roms.blogspot.com/) - ROMs / N64
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [3DS ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - ROMs / 3DS
-* [Gameboy ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_gameboy_roms) - ROMs / Gameboy
+* [merwanachibet](http://merwanachibet.net/gameboy-roms.html) - ROMs / Gameboy
 * [NoPayStation](https://nopaystation.com/), [SafeROMs](https://www.saferoms.com/) or [PSNDL](https://psndl.net/) - ROMs / Playstation Consoles
-* [PS4 ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ps4_roms) - ROMs / PS4
+* [PKGPS4](https://www.pkgps4.com/) or [Auctor](https://auctor.tv/) - ROMs / PS4
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
 * [Xbox Fan](https://github.com/nbats/FMHYedit/blob/main/base64.md#xbox-fan) - Xbox 360 ROMs / LT Firmware & FREEBOOT / [Telegram](https://t.me/xbox_fan_games)
 * [Forest of Illusion](https://forestillusion.com/) - Nintendo Prototype ROMs
