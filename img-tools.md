@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/jVhwmtb.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/SyTNyo3.png)** - For mobile users
 
 ***
 *** 
@@ -109,6 +109,12 @@
 ***
 
 # ► Image Generation
+
+***
+
+## ▷ [AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_image_generators)
+
+***
 
 * [more.graphics](https://more.graphics/) - Graphic Generators
 * [Random Art](http://www.random-art.org/) - Random Art Generator
@@ -292,10 +298,6 @@
 * [Curve](https://iseenbaas.nl/curve/) - Create Pixelated Curve
 * [Petmate](https://nurpax.github.io/petmate/) - C64 PETSCII Image Editor
 * [Pixel Art Scaler](https://lospec.com/pixel-art-scaler/) - Scale Pixel Art w/o Quality Loss
-
-***
-
-## ▷ [AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_image_generators)
 
 ***
 
