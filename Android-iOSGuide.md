@@ -776,7 +776,6 @@
 * [Movies Cave](https://github.com/nbats/FMHYedit/blob/main/base64.md#movies-cave-app) - Movies / TV
 * [Tuner Radio](https://www.downloader.world/) - Movies / TV
 * [Rokkr](http://www.rokkr.net/) - Movies / TV / Add "huhu.to", "bs.to" or "oha.to"
-* [MrFTV](https://mrftv.com/) - Movies / TV
 * [LokLok](https://loklok.com/download) - Movies / TV
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - YTS Torrents 
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - Chinese Drama 
