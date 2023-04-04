@@ -229,7 +229,6 @@
 * [Antp](http://www.antp.be/)
 * [Phrozen](https://www.phrozen.io/)
 * [FileEagle](https://www.fileeagle.com/)
-* [PRVSoft](https://www.prvsoft.com/)
 * [Perkele](https://perkele.cc/software)
 * [OSDN](https://osdn.net/) - Open Source Software
 * [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html)
