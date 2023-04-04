@@ -52,7 +52,7 @@
 
 # ► Download Sites
 
-* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners
+* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip link shorteners
 * ⭐ **[SoftArchive](https://sanet.st)** or [Sanet.lc](https://sanet.lc/) - Video / Audio / Games / Software / Android / Books / Comics / Newspapers / Magazines / [Status](https://sastatus.com/)
 * ⭐ **[DirtyWarez](https://forum.dirtywarez.com/)** - Video / Audio / Games / Software / Books / Comics
 * ⭐ **[nulled](https://www.nulled.to/)** - Video / Audio / Software / Games / Books / Magazines
@@ -61,8 +61,8 @@
 * ⭐ **[patoghu](https://patoghu.com/)** - Video / Audio / Software / Android / Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[Bitdownload](http://bitdownload.ir/)** - Video / Audio / Software / Games / Android / Courses / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[The-Eye](https://the-eye.eu/)** - Audio / ROMs / Books / Comics / Magazines / Software / [Discord](https://discord.com/invite/6hr2Xsm)
+* ⭐ **[Akiba-Online](https://www.akiba-online.com/)** - Japanese Media / Video / Audio / Games / Comics / NSFW
 * ⭐ **[Archive.org](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader)
-* [Akiba-Online](https://www.akiba-online.com/) - Japanese Media / Video / Audio / Games / Comics / NSFW
 * [WarezForums](https://warezforums.com/) - Video / Audio / Games / ROMs / Software / Books / Comics / Android / [Account Application](https://t.me/joinchat/AAAAAFRH5fns4IiE-T2TcA)
 * [AsanDL](http://asandl.com/) - Video / Audio / Games / Software / Books / Magazines / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [SceneP2P](https://www.scenep2p.com) - Video / Audio / Games / ROMs / Software / Android / Books / Magazines
