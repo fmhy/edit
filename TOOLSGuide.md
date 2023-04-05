@@ -703,7 +703,7 @@
 * [NIST](https://www.nist.gov/nice/apprenticeship-finder) - NICE Apprenticeship Program Finder
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - Cloud Career Training
 * [awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list) or [500+ Free Tools For Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Tools
-* [BetaList](https://betalist.com/) - Get Startup Ideas
+* [BetaList](https://betalist.com/), [PowerModeAI](https://powermodeai.com/) or [IdeasAI](https://ideasai.com/) - Get Startup Ideas
 * [HalfBakedIdeas](https://halfbakedideas.vercel.app/feed) - Share Startup Ideas
 * [Failory](https://www.failory.com/graveyard) - Learn Why Startups & Products Failed
 * [PatentsExpiringToday](https://patentsexpiringtoday.com/) - Find Expired Patents
