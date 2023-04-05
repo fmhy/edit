@@ -1602,15 +1602,15 @@
 ## ▷ Downloading
 
 * [identi](https://identi.io/) - Video / Audio / Reading / Software / Games
-* [ForoWarez](https://forowarez.info/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
-* [BladeMaster666](https://blademaster666.com/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
-* [LuchoEdu](https://www.luchoedu.org/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
-* [Fiuxy](https://fiuxy2.com/) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
-* [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
-* [Guns's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Games / [Warning](https://rentry.co/48fo5)
-* [Cultura Para Todos](https://culturaparatodos.eu/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
-* [SeriesTV](https://www.seriestv.in/foro.php) - Video / Audio / Reading / NSFW / Software / Games / [Warning](https://rentry.co/48fo5)
-* [Flipax2](https://flipax2.me/) - Video / Audio / Reading / Software / Games / [Warning](https://rentry.co/48fo5)
+* [ForoWarez](https://forowarez.info/) - Video / Audio / Reading / NSFW / Software / Games
+* [BladeMaster666](https://blademaster666.com/) - Video / Audio / Reading / NSFW / Software / Games
+* [LuchoEdu](https://www.luchoedu.org/) - Video / Audio / Reading / NSFW / Software / Games 
+* [Fiuxy](https://fiuxy2.com/) - Video / Audio / Reading / NSFW / Software / Games
+* [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Software / Games
+* [Guns's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Games
+* [Cultura Para Todos](https://culturaparatodos.eu/) - Video / Audio / Reading / Software / Games
+* [SeriesTV](https://www.seriestv.in/foro.php) - Video / Audio / Reading / NSFW / Software / Games 
+* [Flipax2](https://flipax2.me/) - Video / Audio / Reading / Software / Games
 * [CompucaliTV](https://www.compucalitv.com/) - Video / Software / Games
 * [ZonaLeRoS](https://www.zona-leros.net/) - Video / Games
 * [Emu Games](https://emu-games.com/) - Emulators / ROMs
