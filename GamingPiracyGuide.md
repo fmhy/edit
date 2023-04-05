@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/B6AOfK8.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/d4Usnki.png)** - For mobile users
 
 ***
 ***
@@ -931,7 +931,6 @@
 * ⭐ **[Game Libraries / Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_libraries_.2F_launcher)** - Manage & Launch Games
 * ⭐ **[Game Tracking / Discovery](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_tracking_.2F_discovery)** - Track Games & Discover New Ones
 * ⭐ **[PCGamingWiki](https://www.pcgamingwiki.com/)** - Game Info, Bug Fixes & Improvements
-* ⭐ **[Game Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_guides)** or [Kirklands Manual Labor](https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version) - Strategy Guides / Walkthroughs
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
 * [TCNO](https://github.com/TCNOco/TcNo-Acc-Switcher) - Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)
 * [humble-cli](https://github.com/smbl64/humble-cli) - Humble Bundle CLI
@@ -948,14 +947,6 @@
 * [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
 * [CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - Cyberpunk 2077 Save Editor
 * [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - Controller Connectivity Testers
-* [Momentum](https://momentum-mod.org/) - Movement Training
-* [Aim Lab](https://aimlab.gg/), [AimBooster](http://www.aimbooster.com/), [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://www.3daimtrainer.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training Tools & Games
-* [CrossOver](https://github.com/lacymorrow/crossover) or [HudSight](https://hudsight.com/) - Crosshair Overlay
-* [ClickSpeeder](https://clickspeeder.com/), [ClickSpeedTester](https://www.clickspeedtester.com/) or [CPSCounter](https://cpscounter.org/) - Click Speed Test / Trainers
-* [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
-* [TASVideos](https://tasvideos.org/) - Watch and Publish Tool Assisted Speedruns
-* [MacroGamer](https://www.itoady.com/) - Game Macro Recorder
-* [Blitz.gg](https://blitz.gg/) - Post Match Performance Analyzer / [Adblocker](https://kandi.openweaver.com/javascript/lulzsun/blitz-app-adblock), [2](https://github.com/lulzsun/blitz-app-adblock)
 * [Valve Archive](https://valvearchive.com/) - Rare Valve Data Archive
 * [Map Genie](https://mapgenie.io/), [GameMaps](https://www.gamemaps.com/) or [VGMaps](http://www.vgmaps.com/)  - Game Maps 
 * [noclip](https://noclip.website/) - Explore Game Maps 
@@ -988,7 +979,6 @@
 * [Moments](https://steelseries.com/gg/moments) - Game Clip Tool
 * [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
 * [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)
-* [Use ESDF](http://www.use-esdf.org/) - OG FPS Control Combo
 * [PokeCommunity](https://www.pokecommunity.com/) - Pokemon Community
 * [Pokemon Typechart](https://pokemondb.net/type) - Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)
 * [PokeList](https://pokemonlist.netlify.app/), [Pokedex](https://github.com/skydoves/Pokedex) or [PokeAPI](https://pokeapi.co/) - Pokedex
@@ -999,18 +989,9 @@
 * [r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/) - Find Games from Screenshot or Description
 * [LP Archives](https://lparchive.org/) - Let's Play Archive
 * [TwitchArchive](https://twitcharchive.com/) - Twitch Video Archive
-* [Before I Play](http://www.beforeiplay.com/) - Tips for any Game 
-* [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - MKW Techniques, Glitches, & Exploits
 * [Moonlight Stream](https://moonlight-stream.org/) - PC Remote Play Client / [GitHub](https://github.com/moonlight-stream)
 * [Medal](https://medal.tv/) - Nvidia Shadowplay for non Nicosia cards
-* [dlss-swap](https://github.com/beeradmoore/dlss-swapper) - Download, Manage & Swap DLSS
-* [ChimeraOS ](https://chimeraos.org/) - Gaming Focused OS / [Discord](https://discord.gg/fKsUbrt)
-* [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - Glide & DirectX Graphics Wrapper
 * [Achievement Watcher](https://github.com/xan105/Achievement-Watcher) - Achievement File Parser, Notifications & Playtime Tracker
-* [MegaGames](https://megagames.com/) or [GTrainers](https://gtrainers.com/) - Fixes / Trainers / Saves
-* [CheatEngine](https://cheatengine.org/) or [WeMod](https://wemod.com/) / [Forum](https://mrantifun.net/) - Cheat Engine
-* [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - Cheat Engine Table
-* [CheatCodes](https://cheatcodes.com/), [SuperCheats](https://www.supercheats.com/), [CheatBook](http://www.cheatbook.de/), [LiveAbout](https://www.liveabout.com/), [GameHacking](https://gamehacking.org/) or [Cheat Happens](https://cheathappens.com/) - Cheat Codes
 * [AreWeAntiCheatYet?](https://areweanticheatyet.com/) - Check if Games is Anti-Cheat
 * [fuckigg](https://github.com/Pheeeeenom/fuckigg) - Remove IGG DRM
 * [UE4 Console Unlocker](https://framedsc.github.io/GeneralGuides/universal_ue4_consoleunlocker.htm) - Unreal Engine 4 Console Unlocker
@@ -1020,8 +1001,6 @@
 * [Shmuplations](https://shmuplations.com/) - Japanese Developer Interviews
 * [Doom Wiki](https://doomwiki.org/wiki/Entryway) - Doom Community Project Documentation
 * [Hard Drop](https://harddrop.com/wiki/Tetris_Wiki) or [Tetris.wiki](https://tetris.wiki/) - Tetris Wikis
-* [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
-* [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching
 * [Fumen](https://harddrop.com/fumen/) - Tetris Field Editor
 * [Four-tris](https://github.com/fiorescarlatto/four-tris) - Tetris Training Client
 * [Puyo.gg](https://www.puyo.gg/) - Puyo Puyo Field Editor
@@ -1042,8 +1021,6 @@
 * [SpinShare](https://spinsha.re/) - Spin Rhythm XD Custom Charts
 * [OrignStubDecrypter](https://github.com/PotatoOfDoom/OriginStubDecrypter) - EA Origins Stub Decrypter
 * [Payday 2 Social Safe](https://www.paydaythegame.com/static/payday2/social-safe/) - Free Payday 2 Offers
-* [PuzzleGraph](https://runevision.itch.io/puzzlegraph) - Computer Puzzle Visualizer
-* [WordPlays](https://www.wordplays.com/) or [WorduUnscrambler](https://www.wordunscrambler.net/) - Cheat at Scrabble, Words with Friends & Crossword Puzzles
 * [Oculus Quest Piracy Wiki ](https://www.reddit.com/r/QuestPiracy/wiki/ffaio) 
 * [Oculess](https://github.com/basti564/Oculess) - Remove Oculus Quest Account Requirements & Telemetry
 * [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
@@ -1067,6 +1044,7 @@
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?usp=sharing), [MoreFPS](https://morefps.net/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) or [HoneCtrl](https://github.com/auraside/HoneCtrl) - Latency Reduction / FPS Fixes
 * [Fraps Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#fraps) / [2](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
+* [Ping Enhancer](https://www.wowinterface.com/downloads/info16336-PingEnhancer.html), [ExitLag](https://github.com/Borisizdabezt/exitlag-hwid-spoofer) / [Guide](https://youtu.be/Ga0z5xwZyUA) or [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) - Decrease Ping
 * [Nvidia Overclocking](https://github.com/LunarPSD/NvidiaOverclocking/blob/main/Nvidia%20Overclocking.md) - Nvidia Overclocking Resources
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner), [GPU Tweak lll](https://www.asus.com/campaign/GPU-Tweak-III/index.php) or [EVGA Precision X1](https://www.evga.com/precisionx1/) - Graphics Card Overclocking Tools
 * [MSI Kombustor](https://msikombustor.com/) - GPU Benchmark Test
@@ -1081,7 +1059,9 @@
 * [D3 Overrider](https://community.pcgamingwiki.com/files/file/84-d3doverrider/) - Force V-Sync / Triple Buffer
 * [Magpie](https://github.com/Blinue/Magpie) - Enable AMD FSR on Any Game / [Tutorial](https://youtu.be/gac7llDa18k)
 * [injectSMAA](http://mrhaandi.blogspot.com/p/injectsmaa.html) - SMAA Injection Tool
+* [dlss-swap](https://github.com/beeradmoore/dlss-swapper) - Download, Manage & Swap DLSS
 * [FSR](https://rentry.co/FSR) - FidelityFX Super Resolution Mods
+* [dgVoodoo2](http://dege.freeweb.hu/dgVoodoo2/) - Glide & DirectX Graphics Wrapper
 * [OpenVR FSR](https://github.com/fholger/openvr_fsr) - Steam VR FidelityFX Super Resolution Mods
 * [VibranceGUI](https://vibrancegui.com/) - Automate Digital Vibrance Control
 * [ReShade](https://reshade.me/) - Generic Post-Processing Injector / [GitHub](https://github.com/crosire/reshade) / [Shaders](https://github.com/BlueSkyDefender/Depth3D)
@@ -1098,6 +1078,7 @@
 * [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) - Roblox Bootstrapper
 * [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap
 * [RE4HD](https://www.re4hd.com/) - Resident Evil 4 HD Mod
+* [ChimeraOS ](https://chimeraos.org/) - Gaming Focused OS / [Discord](https://discord.gg/fKsUbrt)
 
 ***
 
@@ -1106,8 +1087,8 @@
 * ⭐ **[Multiplayer Fixes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multiplayer_fixes)** - Play Pirated Multiplayer Games Online
 * ⭐ **[TrackyServer](https://www.trackyserver.com/)** - Find Private Multiplayer Servers
 * ⭐ **[Find-PlayDate](https://www.find-playdate.com/)** - Find People to Play Games With
+* [Blitz.gg](https://blitz.gg/) - Post Match Performance Analyzer / [Adblocker](https://kandi.openweaver.com/javascript/lulzsun/blitz-app-adblock), [2](https://github.com/lulzsun/blitz-app-adblock)
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
-* [Ping Enhancer](https://www.wowinterface.com/downloads/info16336-PingEnhancer.html), [ExitLag](https://github.com/Borisizdabezt/exitlag-hwid-spoofer) / [Guide](https://youtu.be/Ga0z5xwZyUA) or [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) - Decrease Ping
 * [Server.pro](https://server.pro/) or [Orcs](http://orcs.biz/) - Game Server Hosting
 * [Streamer Mode](https://github.com/taskinoz/Streamer-Mode) - Hide Player Names to Avoid Stream Sniping
 * [ElDewrito](https://dewritohub.com/) - Halo Online Mod Tool / [GitHub](https://github.com/ElDewrito) / [Discord](https://discord.com/invite/0TKY0SDEUHAWL4sG), [2](https://discord.com/invite/gtqM3s5)
@@ -1334,3 +1315,27 @@
 * [Tabletopy](https://tabletopy.com/) - Tabletop RPG Soundboard
 * [Map Generator](https://emptybuttons.itch.io/map-generator) - Tabletop Roleplaying Map Generator
 * [MOGG](http://img.mogg.fr/HIRES/) - Magic The Gathering Card Scans
+
+***
+
+## ▷ Git Gud
+
+* ⭐ **[Game Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_guides)** or [Kirklands Manual Labor](https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version) - Strategy Guides / Walkthroughs
+* [Before I Play](http://www.beforeiplay.com/) - Tips for any Game
+* [MegaGames](https://megagames.com/) or [GTrainers](https://gtrainers.com/) - Fixes / Trainers / Saves
+* [Momentum](https://momentum-mod.org/) - Movement Training
+* [CrossOver](https://github.com/lacymorrow/crossover) or [HudSight](https://hudsight.com/) - Crosshair Overlay
+* [Aim Lab](https://aimlab.gg/), [AimBooster](http://www.aimbooster.com/), [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://www.3daimtrainer.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training Tools & Games
+* [ClickSpeeder](https://clickspeeder.com/), [ClickSpeedTester](https://www.clickspeedtester.com/) or [CPSCounter](https://cpscounter.org/) - Click Speed Test / Trainers
+* [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
+* [TASVideos](https://tasvideos.org/) - Watch and Publish Tool Assisted Speedruns
+* [MacroGamer](https://www.itoady.com/) - Game Macro Recorder
+* [Use ESDF](http://www.use-esdf.org/) - OG FPS Control Combo
+* [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - MKW Techniques, Glitches, & Exploits
+* [CheatEngine](https://cheatengine.org/) or [WeMod](https://wemod.com/) / [Forum](https://mrantifun.net/) - Cheat Engine
+* [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - Cheat Engine Table
+* [CheatCodes](https://cheatcodes.com/), [SuperCheats](https://www.supercheats.com/), [CheatBook](http://www.cheatbook.de/), [LiveAbout](https://www.liveabout.com/), [GameHacking](https://gamehacking.org/) or [Cheat Happens](https://cheathappens.com/) - Cheat Codes
+* [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
+* [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching
+* [PuzzleGraph](https://runevision.itch.io/puzzlegraph) - Computer Puzzle Visualizer
+* [WordPlays](https://www.wordplays.com/) or [WorduUnscrambler](https://www.wordunscrambler.net/) - Cheat at Scrabble, Words with Friends & Crossword Puzzles
