@@ -13,7 +13,7 @@
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT-3 Based Chatbot
 * ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT-4 Based Chatbot
-* ⭐ **[ChatPDF](https://www.chatpdf.com/)** - Turn Books into Chatbots
+* ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - Q&A AI
@@ -142,7 +142,7 @@
 * [BlogNLP](https://www.blognlp.com/) - Creator / Marketing AI
 * [Writerly](https://writerly.ai/) - Creator / Marketing AI
 * [Marmof](https://marmof.com/) - Creator / Marketing AI
-* [ReplyPal](https://lolgames.net/) - Email Reply AI
+* [ReplyPal](https://lolgames.net/) or [ChatGPT Writer](https://chatgptwriter.ai/) - Email Reply AI
 * [codex-readme](https://github.com/tom-doerr/codex-readme) - README AI Generator
 * [WTFDoesThisCompanyDo](https://wtfdoesthiscompanydo.vercel.app/) - AI Site Explanations
 * [EleutherAI](https://6b.eleuther.ai/) - Text Autocomplete AI
@@ -178,13 +178,15 @@
 
 ## ▷ AI Text Detection
 
+* [Hive Moderation](https://hivemoderation.com/ai-generated-content-detection)
 * [GLTR](http://gltr.io/dist/index.html)
 * [ZeroGPT](https://www.zerogpt.com/)
 * [DetectGPT](https://detectgpt.com/)
 * [chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)
 * [ai-content-detector](https://contentatscale.ai/ai-content-detector/)
-* [Corrector App](https://corrector.app/ai-content-detector/) 
+* [Corrector App](https://corrector.app/ai-content-detector/)
 * [openai-detector](https://huggingface.co/openai-detector/) / [2](https://openai-openai-detector.hf.space/)
+
 
 ***
 ***
@@ -226,13 +228,14 @@
 * [Satble UI](https://aqualxx.github.io/stable-ui/) - AI Image Generator
 * [ArtBot](https://tinybots.net/artbot) - AI Image Generator
 * [Uranus AI](https://uranus.ai/) - AI Image Generator
-* [InstantArt](https://instantart.io/) - AI Image Generator
 * [Artificy](https://artificy.com/) - AI Image Generator
 * [AIImageGenerator](https://www.aiimagegenerator.org/) - AI Image Generator
 * [Dream Studio](https://beta.dreamstudio.ai/dream) - AI Image Generator
 * [Dream.a](https://dream.ai/) - AI Image Generator
 * [DreamLike](https://dreamlike.art) - AI Image Generator
 * [hypnogram](https://hypnogram.xyz/) - AI Image Generator
+* [InstantArt](https://instantart.io/) - AI Image Generator
+* [iamfy](https://www.iamfy.co/studio) - AI Image Generator
 * [AI Art Generator](https://neural.love/ai-art-generator) - AI Image Generator
 * [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent) - AI Image Generator
 * [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - AI Image Generator
