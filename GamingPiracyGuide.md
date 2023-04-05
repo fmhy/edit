@@ -796,6 +796,7 @@
 * [3DS Hacks Guide](https://3ds.hacks.guide/) - 3DS Modding Guide
 * [Universal DB](https://db.universal-team.net/) - 3DS / DS Modding Apps
 * [/r/3dspiracy](https://www.reddit.com/r/3dspiracy/) - 3DS Modding Community
+* [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes
 * [Batch CIA 3DS Decryptor](https://gbatemp.net/threads/batch-cia-3ds-decryptor-a-simple-batch-file-to-decrypt-cia-3ds.512385/) - Decrypt 3DS Files
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - NES, SNES & Playstation Mods
 * [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Guides
@@ -805,6 +806,7 @@
 * [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
 * [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - PS3 Homebrew Subreddit
 * [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Manually Updated](http://ps3.aldostools.org/updates.html) - Update PS3 Games
+* [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
 * [PSXDev](https://www.psxdev.net/) - PS1 Development
 * [PopStarter](https://www.psx-place.com/threads/popstarter.19139/) - PS1 Emulator for PS2 / [Converter](https://www.psx-place.com/resources/psxvcd-by-englishl1989.669/) / [Setup](https://github.com/IsseiYoshida/Instalador-POPStarter)
 * [MemcardRex](http://shendosoft.blogspot.com/2014/01/memcardrex-18-released.html?m=1) - PS1 Save Transfer Tools / [Archive](https://archive.org/details/MemcardRex1.8)
@@ -841,17 +843,7 @@
 * [SweetFX](https://sfx.thelazy.net/) or [ENBSeries](http://enbdev.com/) - Game Graphic Mods
 * [ModsBase](https://modsbase.com/) or [ModsFire](https://modsfire.com/) - Mod Hosts
 * [Otis_Inf Camera Mods](https://redd.it/hvttbd) - Game Camera Mods
-* [injectSMAA](http://mrhaandi.blogspot.com/p/injectsmaa.html) - SMAA Injection Tool
-* [FSR](https://rentry.co/FSR) - FidelityFX Super Resolution Mods
-* [OpenVR FSR](https://github.com/fholger/openvr_fsr) - Steam VR FidelityFX Super Resolution Mods
-* [RDRFSR2](https://github.com/RealIndica/RDRFSR2) - RDR2 FidelityFX Super Resolution Mod
-* [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - Unlock Genshin Impact FPS Cap
 * [HedgeModManager](https://github.com/thesupersonic16/HedgeModManager) - Sonic Game Mod Manager
-* [RoSeal](https://www.roseal.live/) - Roblox Enhancement Extension
-* [Roblox Performance](https://rentry.co/roblox-performance) - Roblox Optimization Guide
-* [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) - Roblox Bootstrapper
-* [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap
-* [RE4HD](https://www.re4hd.com/) - Resident Evil 4 HD Mod
 * [Hidden Fallout 4 Mods](https://rentry.co/89gads), [2](https://docs.google.com/document/d/1Im5Mg-l2btRsYVOjaJa0slrjDcXNvi41J5pHw_Zuwqw/edit?usp=sharing) - Fallout 4 Mods Removed from Nexus
 * [Rekt](https://discord.com/invite/HqjQFCp) or [LinkerMod](https://github.com/Nukem9/LinkerMod) - Black Ops 1 Mod Projects
 * [Plutonium](https://plutonium.pw/) - Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)
@@ -861,7 +853,6 @@
 * [Project Reality](https://www.realitymod.com/about) - BF2 & ARMA 2 Realism Mod
 * [BF3Reality](https://bf3reality.com/) - BF3 Realism Mod
 * [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - Battlefield Mod Projects
-* [Optimize Dying Light 2](https://rentry.co/opto-dl2) - DL2 Optimization Mods
 * [Open Carnage](https://opencarnage.net/) / [Discord](https://discord.com/invite/2pf3Yjb), [Reclaimers](https://reclaimers.net/) / [Discord](https://discord.com/invite/reclaimers) or [Halo Mods](https://discord.com/invite/WuurKwr)  - Halo Modding Community
 * [Halo 3](https://store.steampowered.com/app/1695791/Halo_3_Mod_Tools__MCC/), [Halo 2](https://store.steampowered.com/app/1613450/Halo_2_Mod_Tools__MCC/) or [Halo CE](https://store.steampowered.com/app/1532190/Halo_CE_Mod_Tools__MCC/) - Halo Modding Tools
 * [Flatout 2 Fan Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2414295888) - Patch for Flatout 2
@@ -1006,8 +997,6 @@
 * [JoyToKey](https://joytokey.net/) - Controller Emulator
 * [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
 * [Mobile Gamepad](https://play.google.com/store/apps/details?id=com.mmh.mobilegamepad&hl=en&gl=US), [Ultimate Gamepad](https://m.apkpure.com/ultimate-gamepad/com.negusoft.ugamepad), [PC Remote](https://play.google.com/store/apps/details?id=com.monect.portable), [Max Joypad](http://maxjoypad.com/) or [BT Controller](https://play.google.com/store/apps/details?id=softigloo.btcontroller&hl=en&gl=US) - Use Phone as Controller
-* [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
-* [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes
 * [Moments](https://steelseries.com/gg/moments) - Game Clip Tool
 * [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
 * [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)
@@ -1103,6 +1092,9 @@
 * [hidusbf](https://github.com/LordOfMice/hidusbf) - Mice Overclocking Software
 * [D3 Overrider](https://community.pcgamingwiki.com/files/file/84-d3doverrider/) - Force V-Sync / Triple Buffer
 * [Magpie](https://github.com/Blinue/Magpie) - Enable AMD FSR on Any Game / [Tutorial](https://youtu.be/gac7llDa18k)
+* [injectSMAA](http://mrhaandi.blogspot.com/p/injectsmaa.html) - SMAA Injection Tool
+* [FSR](https://rentry.co/FSR) - FidelityFX Super Resolution Mods
+* [OpenVR FSR](https://github.com/fholger/openvr_fsr) - Steam VR FidelityFX Super Resolution Mods
 * [VibranceGUI](https://vibrancegui.com/) - Automate Digital Vibrance Control
 * [ReShade](https://reshade.me/) - Generic Post-Processing Injector / [GitHub](https://github.com/crosire/reshade) / [Shaders](https://github.com/BlueSkyDefender/Depth3D)
 * [WindowedBorderlessGaming](http://westechsolutions.net/sites/WindowedBorderlessGaming/), [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming), [Borderless-Gaming-Tool](https://github.com/r57zone/Borderless-Gaming-Tool) or [FullScreenizer](http://runtimeterror.com/tools/fullscreenizer/) - Borderless Windows for All Games
@@ -1110,6 +1102,14 @@
 * [DxWnd](https://sourceforge.net/projects/dxwnd/) - Play Fullscreen Only Games in Window
 * [Widescreen Fixes Pack](https://thirteenag.github.io/wfp) / [GitHub](https://github.com/ThirteenAG/WidescreenFixesPack), [Widescreen Fixer v3.4](https://community.pcgamingwiki.com/files/file/1754-widescreen-fixer-v34-r737/) or [Flawless Widescreen](http://www.flawlesswidescreen.org/) - Widescreen Fixes
 * [ValStretch](https://github.com/lem6ns/valstretch) - Stretched Resolution Valorant Script
+* [RDRFSR2](https://github.com/RealIndica/RDRFSR2) - RDR2 FidelityFX Super Resolution Mod
+* [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - Unlock Genshin Impact FPS Cap
+* [Optimize Dying Light 2](https://rentry.co/opto-dl2) - DL2 Optimization Mods
+* [RoSeal](https://www.roseal.live/) - Roblox Enhancement Extension
+* [Roblox Performance](https://rentry.co/roblox-performance) - Roblox Optimization Guide
+* [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) - Roblox Bootstrapper
+* [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap
+* [RE4HD](https://www.re4hd.com/) - Resident Evil 4 HD Mod
 
 ***
 
