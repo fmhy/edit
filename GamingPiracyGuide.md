@@ -972,7 +972,7 @@
 * [DS4Windows](https://github.com/Ryochan7/DS4Windows) / [2](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [Input Remapper](https://github.com/sezanzeb/input-remapper) or [InputMapper](https://inputmapper.com/) - Gamepad Input Tools
 * [ViGEmBus](https://github.com/ViGEm/ViGEmBus) or [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
 * [Xbox for Python](https://github.com/r4dian/Xbox-Controller-for-Python) - Xbox Controller Xinput Module
-* [DsHidMini](https://github.com/ViGEm/DsHidMini) - Use PS3 Controllers on Windows [Guide](https://vigem.org/projects/DsHidMini/How-to-Install/)
+* [DsHidMini](https://github.com/ViGEm/DsHidMini) - Use PS3 Controllers on Windows / [Guide](https://vigem.org/projects/DsHidMini/How-to-Install/)
 * [JoyToKey](https://joytokey.net/) - Controller Emulator
 * [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
 * [Mobile Gamepad](https://play.google.com/store/apps/details?id=com.mmh.mobilegamepad&hl=en&gl=US), [Ultimate Gamepad](https://m.apkpure.com/ultimate-gamepad/com.negusoft.ugamepad), [PC Remote](https://play.google.com/store/apps/details?id=com.monect.portable), [Max Joypad](http://maxjoypad.com/) or [BT Controller](https://play.google.com/store/apps/details?id=softigloo.btcontroller&hl=en&gl=US) - Use Phone as Controller
@@ -1320,7 +1320,7 @@
 
 ## ▷ Git Gud
 
-* ⭐ **[Game Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_guides)** or [Kirklands Manual Labor](https://archive.org/details/kirklands-manual-labor-sony-playstation-2-usa-4k-version) - Strategy Guides / Walkthroughs
+* ⭐ **[Game Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_guides)** - Strategy Guides / Walkthroughs
 * [Before I Play](http://www.beforeiplay.com/) - Tips for any Game
 * [MegaGames](https://megagames.com/) or [GTrainers](https://gtrainers.com/) - Fixes / Trainers / Saves
 * [Momentum](https://momentum-mod.org/) - Movement Training
