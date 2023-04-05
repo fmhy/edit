@@ -15,7 +15,7 @@
 
 # ► Torrent Clients
 
-**Make sure you [BIND](https://redd.it/ssy8vv) your VPN to your client to avoid ISP letters.**
+**Warning** - Make sure you [BIND](https://redd.it/ssy8vv) your VPN to your client to avoid ISP letters.
 
 ***
 
