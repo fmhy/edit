@@ -788,7 +788,7 @@
 * [iOS Icon Gallery](https://www.iosicongallery.com/) - iOS Icon Examples
 * [Plank](https://launchpad.net/plank) - Simple Dock / [GitHub](https://github.com/ricotz/plank)
 * [Portainer](https://portainer.io/) - Build / Manage Docker Containers / [Templates](https://github.com/SelfhostedPro/selfhosted_templates) / [GitHub](https://github.com/portainer/portainer)
-* [Yatch](https://yacht.sh/) - container management UI
+* [Yatch](https://yacht.sh/) - Container Management UI
 * [Compose Samples](https://github.com/android/compose-samples) - App Samples
 * [swipe](https://github.com/saket/swipe) - Swipe Gesture Actions for Compose UI  
 * [Ratio Buddy](https://ratiobuddy.com/) - CSS For Device Ratio
