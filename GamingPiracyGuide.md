@@ -1319,12 +1319,12 @@
 
 * ⭐ **[Game Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_guides)** - Strategy Guides / Walkthroughs
 * ⭐ **[Before I Play](http://www.beforeiplay.com/)** - Tips for any Game
-* ⭐ **[GamingSmart](https://gamingsmart.com/)** - Game Sensitivity Converters
-* ⭐ **[Aim Lab](https://aimlab.gg/)**, [AimBooster](http://www.aimbooster.com/), [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://www.3daimtrainer.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training Games
+* ⭐ **[Aim Lab](https://aimlab.gg/)**, [AimBooster](http://www.aimbooster.com/), [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://www.3daimtrainer.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training
+* ⭐ **[CPSCounter](https://cpscounter.org/)**, [ClickSpeeder](https://clickspeeder.com/) or [ClickSpeedTester](https://www.clickspeedtester.com/) - Click Speed Training
 * ⭐ **[Momentum](https://momentum-mod.org/)** - Movement Training
+* ⭐ **[GamingSmart](https://gamingsmart.com/)** - Game Sensitivity Converters
 * [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
-* [ClickSpeeder](https://clickspeeder.com/), [ClickSpeedTester](https://www.clickspeedtester.com/) or [CPSCounter](https://cpscounter.org/) - Click Speed Trainers
-* [Impossible Rush](http://tanksw.com/impossible-rush/) - Reflex Training Game
+* [Impossible Rush](http://tanksw.com/impossible-rush/) - Reflex Training
 * [Use ESDF](http://www.use-esdf.org/) - OG FPS Control Combo
 * [CrossOver](https://github.com/lacymorrow/crossover) or [HudSight](https://hudsight.com/) - Crosshair Overlay
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
