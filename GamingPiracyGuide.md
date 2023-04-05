@@ -1086,9 +1086,8 @@
 * ⭐ **[Find-PlayDate](https://www.find-playdate.com/)** - Find People to Play Games With
 * [Blitz.gg](https://blitz.gg/) - Post Match Performance Analyzer / [Adblocker](https://kandi.openweaver.com/javascript/lulzsun/blitz-app-adblock), [2](https://github.com/lulzsun/blitz-app-adblock)
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
-* [Server.pro](https://server.pro/) or [Orcs](http://orcs.biz/) - Game Server Hosting
+* [Server.pro](https://server.pro/) - Game Server Hosting
 * [Streamer Mode](https://github.com/taskinoz/Streamer-Mode) - Hide Player Names to Avoid Stream Sniping
-* [ElDewrito](https://dewritohub.com/) - Halo Online Mod Tool / [GitHub](https://github.com/ElDewrito) / [Discord](https://discord.com/invite/0TKY0SDEUHAWL4sG), [2](https://discord.com/invite/gtqM3s5)
 * [BakkesMod](https://bakkesmod.com/) - Rocket League Trainer
 * [Tilted Online](https://github.com/tiltedphoques/TiltedEvolution) - Multiplayer Skyrim & Fallout 4 / [Discord](https://discord.gg/skyrimtogether) / [Setup Guide](https://youtu.be/ytSftFoQQHA)
 * [New Vegas: Multiplayer](https://wiki.nv-mp.com/en/getting-started) - Multiplayer Fallout: New Vegas
