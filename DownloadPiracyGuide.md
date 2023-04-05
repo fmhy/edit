@@ -54,10 +54,6 @@
 
 * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip link shorteners
 * ⭐ **[SoftArchive](https://sanet.st)** or [Sanet.lc](https://sanet.lc/) - Video / Audio / Games / Software / Android / Books / Comics / Newspapers / Magazines / [Status](https://sastatus.com/)
-
-http://rlsbb.ru/ - in piratedgames megathread - safe 
-https://megaddl.net/
-
 * ⭐ **[DirtyWarez](https://forum.dirtywarez.com/)** - Video / Audio / Games / Software / Books / Comics
 * ⭐ **[nulled](https://www.nulled.to/)** - Video / Audio / Software / Games / Books / Magazines
 * ⭐ **[Team OS](https://www.teamos.xyz/)** - Software / Games / Books / Android
