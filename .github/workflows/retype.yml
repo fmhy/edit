@@ -1,0 +1,41 @@
+name: Update FMHY Retype
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    name: Update FMHY Retype
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v2
+          
+      - name: Move Files
+        run: |
+          cp -r .github/assets/* .
+        shell: bash
+      
+      - name: Install Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' 
+
+      - name: Prepare Files
+        shell: bash
+        run: |
+          python .github/replace-links-to-fmhy-in-files-in-current-dir.py
+          python .github/add-headers.py
+
+      - name: Build Retype
+        uses: retypeapp/action-build@latest
+
+      - uses: retypeapp/action-github-pages@latest
+        with:
+          branch: retype
+          update-branch: true
