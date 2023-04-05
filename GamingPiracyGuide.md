@@ -951,7 +951,7 @@
 * [MSI Kombustor](https://msikombustor.com/) - GPU Benchmark Test
 * [Overclock](https://www.overclock.net/) - Overclocking Forum
 * [Ryzen Master Utility](https://www.amd.com/en/technologies/ryzen-master) - Overclocking Control for Ryzen Desktop CPU
-* [AMD-APU-Tuning-Utility](https://github.com/JamesCJ60/AMD-APU-Tuning-Utility) - AMD APU Tuning
+* [AMD-APU-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - AMD APU Tuning
 * [NTCore's 4GB Patch](https://ntcore.com/?page_id=371) - x86 Executable Memory Patcher
 * [ISLC](https://www.wagnardsoft.com/ISLCw) - Remove Windows 10 RAM Stutters / [Tutorial](https://www.reddit.com/r/GlobalOffensive/comments/fca7lw/if_you_have_stutter_ingame_you_can_try_this_tool/fj9yx3h/)
 * [Sunshine](https://github.com/loki-47-6F-64/sunshine) - GPU Streaming Client
@@ -1178,11 +1178,10 @@
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
 * ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
 * ⭐ **[Andy's Steam Crack Guide](https://rentry.org/steamcrackguidebyanddy)** / [2](https://redd.it/pmim9t) - Add Cracked Games to Steam / [Client](https://mega.nz/file/mpdAXKTZ#3CVjRZG1i8K_Zn8b9IIARbIZZE73KdzazVHMDcaWZJc)
+* ⭐ **[SteamDB](https://steamdb.info/)** - Steam Insights Tool / [Extension](https://steamdb.info/extension/)
 * ⭐ **[A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)** or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tools Index
 * ⭐ **[LEGENDARY](https://github.com/derrod/legendary)**, [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) or [Rare](https://github.com/Dummerle/Rare) - Epic Games Launcher 
 * [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Steam Library Organizer
-* [SteamDB](https://steamdb.info/) - Steam Insights Tool
-* [SteamCleaner](https://github.com/Codeusa/SteamCleaner) - Remove Data Left Behind by Game Clients 
 * [ColdAPI](https://github.com/Rat431/ColdAPI_Steam) - Offline Steam Emulator
 * [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
 * [Steam Mover](https://www.traynier.com/software/steammover) - Store Steam Games on Multiple Drives
@@ -1199,25 +1198,19 @@
 * [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) / [2](https://steamid.uk/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup 
 * [Steam++](https://steampp.net/) - Enhance Steam Functionality / [GitHub](https://github.com/BeyondDimension/SteamTools)
 * [AugmentedSteam](https://augmentedsteam.com/) - Steam Web Enhancement Extension 
-* [Steam Database](https://steamdb.info/extension/) - Adds Steam Database Link to Steam Community & Store 
-* [Steam Web Filter Bypasser](https://chrome.google.com/webstore/detail/steam-web-filter-bypasser/gohcmgakipmdlpacegcgolafdhdlgifl) - Bypass "You are leaving Steam" Page
 * [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
 * [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Conformation
-* [Steam Account Manager](https://www.unknowncheats.me/forum/pc-software/117141-steam-account-manager.html) - Steam Account Switcher / Manager
 * [Steam Customizer](https://community.steamcustomizer.com/) or [SteamSkins](http://steamskins.org/) - Steam Skins
 * [SteamDarkMode](https://github.com/SleepDaemon/Modern-Steam) - Steam Dark Mode Skin
 * [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) - Steam GNOME Skin
 * [Backgrounds.Gallery](https://backgrounds.gallery/) - Steam Backgrounds
 * [Steam.Design](https://steam.design/) - Steam Background Cropper
-* [SteamFriendsPatcher](https://github.com/PhantomGamers/SteamFriendsPatcher) - Apply Themes to Steam Friends UI
 * [Center.Steam](https://center.steam.design/) - Center Steam Text
 * [Wishlist Removals](https://steamcommunity.com/sharedfiles/filedetails/?id=1746978201) - Remove Hidden Items from Steam Wishlist
-* [Steam Popularity Filter](https://chrome.google.com/webstore/detail/steam-popularity-filter/icflgpakhkkjeaefoedcbdbahmjopbdc) - Steam Market Popularity Filter
-* [CheapShark Deal Search](https://chrome.google.com/webstore/detail/cheapshark-deal-search/ahdfdhcljjiogoabcemgldinhgoemmjc) - Steam Market Sales Search
 * [Steam Inventory Helper](https://steaminventoryhelper.com/) - Steam Inventory Enhancement Extension
 * [ArchiFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - Farm Steam Trading Cards
 * [Steam Deck Mods](https://docs.google.com/document/d/1TWhN9nCorKxut5O7UbPQPDhXLb-8C-CIoesB01yfhmY/) - Steam Deck Mods / [Discord](https://discord.com/invite/SteamDeck) / [Discord Bot](https://github.com/SteamDeckMods/sdm_discord_bot)
-* [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) - Steam Deck Plugin Loader
+* [Decky Loader](https://deckbrew.xyz/ ) - Steam Deck Plugin Loader / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
 * [Steam Deck Tools](https://github.com/ayufan/steam-deck-tools) - Fan Overlay, Power Control and Steam Controller
 * [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
 * [Steam-Deck.Force](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - Force SteamOS Boot
@@ -1228,36 +1221,23 @@
 
 ## ▷ GTA Tools
 
+* ⭐ **[FiveM](https://fivem.net/)** - Modded GTAV Servers
 * [GTAAll](https://www.gtaall.com/), [GTAInside](https://gtainside.com/), [GameModding](https://gamemodding.com/), [GTAGarage](https://gtagarage.com/) or [LibertyCity](https://libertycity.net/) - GTA Mods, Cheats, Walkthroughs & more
 * [GTA5-Mods](https://www.gta5-mods.com/) - GTAV Mods
 * [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods
-* [FiveM](https://fivem.net/) - Modded GTAV Servers
-* [GTA-V-patcher](https://github.com/NicolasR/GTA-V-patcher) - Automate GTAV Patches
 * [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - GTAV FidelityFX Super Resolution Mod
 * [Essential Menu](https://github.com/anonik9900/Essential-Menu) - GTAV Mod Menu
-* [GTAV-SimpleGangWar](https://github.com/David-Lor/GTAV-SimpleGangWar) - GTAV Gang War Script
-* [GTA-V-Suspender](https://github.com/gyfen/GTA-V-Suspender) - Suspend GTAV
-* [Wanted-Music-IV](https://github.com/ClonkAndre/Wanted-Music-IV) - GTAV Wanted Music in GTAIV
 * [GTA 5 Grand Roleplay](https://gta5grand.com/) - GTAV Roleplay Server
 * [D.E.P](https://www.definitive-edition-project.com/) - Fix GTA PC Port Bugs
 * [Vice City: Multiplayer](https://vc-mp.org/) - Mutiplayer GTAVC
-* [gta-city-of-lost-heaven](https://github.com/RadValentin/gta-city-of-lost-heaven) - GTAVC Mafia Themed Mod
-* [Vali's City](https://github.com/RadValentin/vali-city) - GTAVC Matrix Themed Mod
-* [skin-switcher](https://github.com/PrographerMan/skin-switcher) - GTAVC Skin Switching Mod
 * [GTA-Vice-City-Interactive-Map](https://github.com/denizariyan/GTA-Vice-City-Interactive-Map) - GTAVC Interactive Map Mod
 * [MixMods](https://www.mixmods.com.br/) - GTASA Mods
 * [Jetpack Downgrader](https://github.com/Zalexanninev15/Jetpack-Downgrader) - GTASA Downgrader
 * [gtasa-savegame-editor](https://github.com/Kronavarb/gtasa-savegame-editor) - GTASA Save Editor
 * [SAMP-GPS](https://github.com/janglapuk/SAMP-GPS) - GTASA Multiplayer GPS
 * [IMFX](https://github.com/DK22Pac/imfx) - GTASA Improved FX Mod
-* [effects-loader](https://github.com/DK22Pac/effects-loader) - GTASA Effects Editor
-* [advanced-aiming-mod](https://github.com/DK22Pac/advanced-aiming-mod) - GTASA Improved Aiming Mod
-* [VehFuncs](https://www.mixmods.com.br/2020/12/vehfuncs-v2-2-beta/) - GTASA Vehicle Mods
-* [mobile-hud](https://github.com/DK22Pac/mobile-hud) - GTASA Mobile HUD Mod
-* [Driver](https://github.com/CT83/Driver) or [GTASA-Driving](https://github.com/ParmuSingh/gtasa-driving) - GTASA A.I. Driving Mod
 * [SA Mission Maker](https://libertycity.net/files/gta-san-andreas/175089-sa-mission-maker-v1-45.html) or [DYOM](https://dyom.gtagames.nl/) - GTASA Mission Creator
-* [Liberty Unleashed](https://liberty-unleashed.co.uk/) or [GTA3MP3](https://gtamp.com/gta3/) - GTA3 Multiplayer Mod
-* [Grand-Theft-Auto-1-Renderware-Edition](https://github.com/wakka387/Grand-Theft-Auto-1-Renderware-Edition) - Port GTA 1 & London 69/61 to GTA III/VC/SA
+* [GTA3MP3](https://gtamp.com/gta3/) - GTA3 Multiplayer Mod
 
 ***
 
@@ -1332,7 +1312,6 @@
 * [TConvert](https://github.com/trigger-segfault/TConvert) - Terraria Content Manager
 * [Terranion](https://yal.cc/r/terranion/) - Terraria Wiki
 * [tModLoader](https://www.tmodloader.net/) - Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)
-* [tiberiumfusion](https://www.tiberiumfusion.com/product/tt2/) - Terraria Tweaker
 * [N-Terraria](https://forums.terraria.org/index.php?threads/n-terraria-mod-rpg-races-classes-quests-and-other-things.542/) - Terraria Mod
 * [TEdit](https://www.binaryconstruct.com/tedit), [terramap](https://terramap.github.io/), [MoreTerra](https://github.com/mike-mo/MoreTerra/releases), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/tag/3.1.5) or [terraria-map-editor](https://www.terraria-map-editor.com/) - Map Viewers / Editors
 * [Terrasavr](https://yal.cc/r/terrasavr/) - Terraria Character Editor
