@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/ycK5fVC.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/B6AOfK8.png)** - For mobile users
 
 ***
 ***
@@ -975,21 +975,9 @@
 * [Mario Mayhem](https://www.mariomayhem.com/) - Mario Fansite
 * [The Spriters Resource](https://www.spriters-resource.com/) - Video Game Sprites
 * [MiiCharacters](http://www.miicharacters.com/) - Famous Mii Creation Guides
-* [MOGG](http://img.mogg.fr/HIRES/) - Magic The Gathering Card Scans
-* [dice.run](https://dice.run/), [Random Dice](http://www.dicesimulator.com/), [Desktop Dice](https://girkovarpa.itch.io/desktopdice) or [Google Dice](https://g.co/kgs/fVJuzq) - Dice Simulators
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
 * [Score7](https://score7.io/) - Tournament Creator / Manager
 * [KeepTheScore](https://keepthescore.co/) - Leaderboard Creator
-* [Kanka](https://kanka.io/en-US) - Tabletop RPG Manager
-* [5ETools](https://5e.tools/), [Kassoon](https://www.kassoon.com/dnd/) or [DragonsFoot](https://www.dragonsfoot.org/) - Dungeons & Dragons Tools
-* [The Acaeum](https://www.acaeum.com/) - Dungeons & Dragons Database
-* [Web Writer](http://www.web-writer.net/fantasy/days/index.html) or [DnD World Building](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - Fantasy World Building Guides
-* [Archives of Nethys](https://aonprd.com/) - Pathfinder Database
-* [WarGamer](https://www.wargamer.com/) - Tabletop RPG Guides
-* [Roll20](https://roll20.net/) or [Rolisteam](https://rolisteam.org/) - Tabletop RPG Streaming
-* [Tabletopy](https://tabletopy.com/) - Tabletop RPG Soundboard
-* [Map Generator](https://emptybuttons.itch.io/map-generator) - Tabletop Roleplaying Map Generator
-* [Adventurer's Codex](https://adventurerscodex.com) - Online D&D 5e Campaign Manager / System
 * [DS4Windows](https://github.com/Ryochan7/DS4Windows) / [2](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [Input Remapper](https://github.com/sezanzeb/input-remapper) or [InputMapper](https://inputmapper.com/) - Gamepad Input Tools
 * [ViGEmBus](https://github.com/ViGEm/ViGEmBus) or [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
 * [Xbox for Python](https://github.com/r4dian/Xbox-Controller-for-Python) - Xbox Controller Xinput Module
@@ -1329,3 +1317,20 @@
 * [TerrariaSoundBar](https://forums.terraria.org/index.php?threads/v0-2-terrariasoundbar-worlds-first-guitar-studio-macro-tool.93551/) - Terraria In-Game Guitar
 * [Increased FOV](https://gamebanana.com/tuts/14022) - Increase Terraria FOV for 21:9 Monitors
 * [Content Creation Guide](https://forums.terraria.org/index.php?threads/the-ultimate-guide-to-content-creation-and-use-for-the-terraria-workshop.100652/) - Terraria Content Creation Guide Ultimate
+
+***
+
+## ▷ Tabletop Tools
+
+* ⭐ **[dice.run](https://dice.run/)**, [Random Dice](http://www.dicesimulator.com/), [Desktop Dice](https://girkovarpa.itch.io/desktopdice) or [Google Dice](https://g.co/kgs/fVJuzq) - Dice Simulators
+* [Adventurer's Codex](https://adventurerscodex.com) - Online D&D 5e Campaign Manager / System
+* [Kanka](https://kanka.io/en-US) - Tabletop RPG Manager
+* [5ETools](https://5e.tools/), [Kassoon](https://www.kassoon.com/dnd/) or [DragonsFoot](https://www.dragonsfoot.org/) - Dungeons & Dragons Tools
+* [The Acaeum](https://www.acaeum.com/) - Dungeons & Dragons Database
+* [Web Writer](http://www.web-writer.net/fantasy/days/index.html) or [DnD World Building](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - Fantasy World Building Guides
+* [Archives of Nethys](https://aonprd.com/) - Pathfinder Database
+* [WarGamer](https://www.wargamer.com/) - Tabletop RPG Guides
+* [Roll20](https://roll20.net/) or [Rolisteam](https://rolisteam.org/) - Tabletop RPG Streaming
+* [Tabletopy](https://tabletopy.com/) - Tabletop RPG Soundboard
+* [Map Generator](https://emptybuttons.itch.io/map-generator) - Tabletop Roleplaying Map Generator
+* [MOGG](http://img.mogg.fr/HIRES/) - Magic The Gathering Card Scans
