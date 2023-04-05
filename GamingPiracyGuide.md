@@ -570,7 +570,6 @@
 * [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Survive Waves of UFOs 
 * [Doodle Cricket](https://doodlecricket.github.io/index.html#/) - Play Cricket as a Cricket 
 * [Doodle Champion Island Games!](https://www.google.com/) - Olympics JRPG Game
-* [Impossible Rush](http://tanksw.com/impossible-rush/) - Reflex Testing Game
 * [MousePoint](https://creativetechguy.com/mousepoint) - Mouse Pointing Game
 * [FindTwin](https://github.com/klimaleksus/FindTwin) - Find the Twins
 * [Spot the Differences](https://www.spotthedifference.com/) - Find the Differences
@@ -1053,8 +1052,6 @@
 * [AMD-APU-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - AMD APU Tuning
 * [NTCore's 4GB Patch](https://ntcore.com/?page_id=371) - x86 Executable Memory Patcher
 * [ISLC](https://www.wagnardsoft.com/ISLCw) - Remove Windows 10 RAM Stutters / [Tutorial](https://www.reddit.com/r/GlobalOffensive/comments/fca7lw/if_you_have_stutter_ingame_you_can_try_this_tool/fj9yx3h/)
-* [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
-* [GamingSmart](https://gamingsmart.com/) - Game Sensitivity Converters
 * [hidusbf](https://github.com/LordOfMice/hidusbf) - Mice Overclocking Software
 * [D3 Overrider](https://community.pcgamingwiki.com/files/file/84-d3doverrider/) - Force V-Sync / Triple Buffer
 * [Magpie](https://github.com/Blinue/Magpie) - Enable AMD FSR on Any Game / [Tutorial](https://youtu.be/gac7llDa18k)
@@ -1321,21 +1318,24 @@
 ## ▷ Git Gud
 
 * ⭐ **[Game Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_guides)** - Strategy Guides / Walkthroughs
-* [Before I Play](http://www.beforeiplay.com/) - Tips for any Game
-* [MegaGames](https://megagames.com/) or [GTrainers](https://gtrainers.com/) - Fixes / Trainers / Saves
-* [Momentum](https://momentum-mod.org/) - Movement Training
+* ⭐ **[Before I Play](http://www.beforeiplay.com/)** - Tips for any Game
+* ⭐ **[GamingSmart](https://gamingsmart.com/)** - Game Sensitivity Converters
+* ⭐ **[Aim Lab](https://aimlab.gg/)**, [AimBooster](http://www.aimbooster.com/), [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://www.3daimtrainer.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training Games
+* ⭐ **[Momentum](https://momentum-mod.org/)** - Movement Training
+* [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
+* [ClickSpeeder](https://clickspeeder.com/), [ClickSpeedTester](https://www.clickspeedtester.com/) or [CPSCounter](https://cpscounter.org/) - Click Speed Trainers
+* [Impossible Rush](http://tanksw.com/impossible-rush/) - Reflex Training Game
+* [Use ESDF](http://www.use-esdf.org/) - OG FPS Control Combo
 * [CrossOver](https://github.com/lacymorrow/crossover) or [HudSight](https://hudsight.com/) - Crosshair Overlay
-* [Aim Lab](https://aimlab.gg/), [AimBooster](http://www.aimbooster.com/), [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://www.3daimtrainer.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training Tools & Games
-* [ClickSpeeder](https://clickspeeder.com/), [ClickSpeedTester](https://www.clickspeedtester.com/) or [CPSCounter](https://cpscounter.org/) - Click Speed Test / Trainers
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
 * [TASVideos](https://tasvideos.org/) - Watch and Publish Tool Assisted Speedruns
 * [MacroGamer](https://www.itoady.com/) - Game Macro Recorder
-* [Use ESDF](http://www.use-esdf.org/) - OG FPS Control Combo
 * [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - MKW Techniques, Glitches, & Exploits
-* [CheatEngine](https://cheatengine.org/) or [WeMod](https://wemod.com/) / [Forum](https://mrantifun.net/) - Cheat Engine
-* [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - Cheat Engine Table
-* [CheatCodes](https://cheatcodes.com/), [SuperCheats](https://www.supercheats.com/), [CheatBook](http://www.cheatbook.de/), [LiveAbout](https://www.liveabout.com/), [GameHacking](https://gamehacking.org/) or [Cheat Happens](https://cheathappens.com/) - Cheat Codes
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
 * [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching
 * [PuzzleGraph](https://runevision.itch.io/puzzlegraph) - Computer Puzzle Visualizer
+* [MegaGames](https://megagames.com/) or [GTrainers](https://gtrainers.com/) - Fixes / Trainers / Saves
+* [CheatEngine](https://cheatengine.org/) or [WeMod](https://wemod.com/) / [Forum](https://mrantifun.net/) - Cheat Engine
+* [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - Cheat Engine Table
+* [CheatCodes](https://cheatcodes.com/), [SuperCheats](https://www.supercheats.com/), [CheatBook](http://www.cheatbook.de/), [LiveAbout](https://www.liveabout.com/), [GameHacking](https://gamehacking.org/) or [Cheat Happens](https://cheathappens.com/) - Cheat Codes
 * [WordPlays](https://www.wordplays.com/) or [WorduUnscrambler](https://www.wordunscrambler.net/) - Cheat at Scrabble, Words with Friends & Crossword Puzzles
