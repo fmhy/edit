@@ -761,7 +761,7 @@
 * ⭐ **[Tizen](https://www.tizen.org/)** - Android TV App Creator
 * ⭐ **[XDA](https://forum.xda-developers.com/)** - App Development Forum
 * ⭐ **[Docker](https://www.docker.com/)** - Build, Manage & Run Apps in Containers
-* ⭐ **Docker Tools** - [Desktop](https://www.docker.com/products/docker-desktop/) / [Images](https://hub.docker.com/), [2](https://linuxserver.io/), [3](https://hotio.dev/) / [Analyze Images](https://github.com/wagoodman/dive) / [Manager](https://portainer.io/), [2](https://yacht.sh/), [3](https://github.com/SelfhostedPro/selfhosted_templates) / [Automation](https://github.com/containrrr/watchtower) / [Port Forward](https://github.com/ruoshan/autoportforward) / [Compose Files](https://www.composerize.com/), [2](https://github.com/magicmark/composerize), [3](https://github.com/irbigdata/data-dockerfiles)
+* ⭐ **[Docker Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_docker_tools)** - Docker Tools, Images and Clients
 * [SupaBase](https://supabase.com/), [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Dokku](https://dokku.com/), [AndroidIDE](https://androidide.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter), [2](https://github.com/leanflutter/awesome-flutter-desktop) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators
 * [StreamLit](https://streamlit.io/) - Data Science App Creator
 * [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - App Development Platform / [GitHub](https://github.com/xamarin)
@@ -1049,7 +1049,7 @@
 # ► Programming / Coding 
 
 * ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists 
-* ⭐ **[Shell GPT](https://github.com/TheR1D/shell_gpt)** or [Codeium](https://codeium.com/) - Coding AI
+* ⭐ **[Shell GPT](https://github.com/TheR1D/shell_gpt)**, [Cursor](https://www.cursor.so) or [Codeium](https://codeium.com/) - Coding AIs
 * [WebdevHome](https://webdevhome.github.io/), [Charm](https://charm.sh/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - Programming Tool Indexes
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Programming Site Index 
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Web Scraping Tool Index
