@@ -160,7 +160,7 @@
 
 # ► Software Sites
 
-* ⭐ **[Pesktop](https://pesktop.com/en/)** or [FileCR](https://filecr.com/en/) - [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass)
+* ⭐ **[FileCR](https://filecr.com/en/)** or [Pesktop](https://pesktop.com/en/) - [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass)
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - [Mobile App](https://forum.mobilism.org/app/)
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)**
 * ⭐ **[rsload](https://rsload.net/)**
