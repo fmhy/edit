@@ -51,25 +51,25 @@ def remove_backtowiki_and_toc(text):
     return text
 
 def replace_domain_and_page(text):
-    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai',                  'freemediaheckyeah.pages.dev/ai', text)
-    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy', 'freemediaheckyeah.pages.dev/adblockvpnguide', text)
-    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android',             'freemediaheckyeah.pages.dev/android-iosguide', text)
-    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video',               'freemediaheckyeah.pages.dev/videopiracyguide', text)
-    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio',               'freemediaheckyeah.pages.dev/audiopiracyguide', text)
-    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games',               'freemediaheckyeah.pages.dev/gamingpiracyguide', text)
-    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading',             'freemediaheckyeah.pages.dev/readingpiracyguide', text)
-    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download',            'freemediaheckyeah.pages.dev/downloadpiracyguide', text)
-    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent',             'freemediaheckyeah.pages.dev/torrentpiracyguide', text)
-    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu',                 'freemediaheckyeah.pages.dev/edupiracyguide', text)
-    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc',          'freemediaheckyeah.pages.dev/toolsguide', text)
-    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux',               'freemediaheckyeah.pages.dev/linuxguide', text)
-    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng',             'freemediaheckyeah.pages.dev/non-english', text)
-    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc',                'freemediaheckyeah.pages.dev/miscguide', text)
-    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage',             'freemediaheckyeah.pages.dev/storage', text)
-    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools',           'freemediaheckyeah.pages.dev/devtools', text)
-    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools',           'freemediaheckyeah.pages.dev/img-tools', text)
+    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai',                  'fmhy.pages.dev/ai', text)
+    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy', 'fmhy.pages.dev/adblockvpnguide', text)
+    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android',             'fmhy.pages.dev/android-iosguide', text)
+    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video',               'fmhy.pages.dev/videopiracyguide', text)
+    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio',               'fmhy.pages.dev/audiopiracyguide', text)
+    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games',               'fmhy.pages.dev/gamingpiracyguide', text)
+    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading',             'fmhy.pages.dev/readingpiracyguide', text)
+    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download',            'fmhy.pages.dev/downloadpiracyguide', text)
+    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent',             'fmhy.pages.dev/torrentpiracyguide', text)
+    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu',                 'fmhy.pages.dev/edupiracyguide', text)
+    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc',          'fmhy.pages.dev/toolsguide', text)
+    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux',               'fmhy.pages.dev/linuxguide', text)
+    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng',             'fmhy.pages.dev/non-english', text)
+    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc',                'fmhy.pages.dev/miscguide', text)
+    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage',             'fmhy.pages.dev/storage', text)
+    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools',           'fmhy.pages.dev/devtools', text)
+    text = re.sub('www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools',           'fmhy.pages.dev/img-tools', text)
 
-    text = re.sub('github.com/nbats/FMHYedit/blob/main/base64.md#',              'freemediaheckyeah.pages.dev/base64/#', text)
+    text = re.sub('github.com/nbats/FMHYedit/blob/main/base64.md#',              'fmhy.pages.dev/base64/#', text)
 
     return text
 
