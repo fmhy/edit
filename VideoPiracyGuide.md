@@ -104,7 +104,6 @@
 ## ▷ Multi Hosts
 
 * ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)
-* ⭐ **[xpWatch](https://xpwatch.vercel.app/)** - Movies / TV / Anime
 * ⭐ **[FMovies](https://fmovies.name/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
 * ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime
@@ -118,6 +117,7 @@
 * [Cloudy](https://cloudy.pk/category/english/) - Movies / TV
 * [Levidia](https://www.levidia.ch/) - Movies / TV / Anime
 * [EuroPixHD](https://europixhd.pro/) or [123EuroPix](https://123europix.pro/) - Movies / TV / Anime
+* [xpWatch](https://xpwatch.vercel.app/) - Movies / TV / Anime
 * [MovieSee](https://moviesee.live/) - Movies / TV
 * [eSubMovies](https://www.esubmovie.com/) - Movies
 * [Sauflix](https://www.sauflix.com/) - Movies / TV
