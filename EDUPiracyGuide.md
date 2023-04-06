@@ -43,6 +43,7 @@
 * [My Great Learning](https://www.mygreatlearning.com/academy) - Courses
 * [Stepik](http://stepik.org/) - Courses
 * [Canvas](https://www.canvas.net/) - Courses
+* [CourseF](https://www.coursef.com/) - Courses
 * [Study is wonderful](https://github.com/xioacd99/study-is-wonderful) - Courses
 * [Open HPI](https://open.hpi.de/) - Courses
 * [Free MOOCs](https://freemoocs.com/) - Courses
@@ -981,6 +982,7 @@ Simulator
 * [/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/), [explainlikeimfive.io](https://explainlikeimfive.io/) or [ELI5 Club](https://eli5.club/) - Have Anything Explained Very Simply
 * [The XY Problem](https://xyproblem.info/) - XY Problem Explained
 * [50Hacks](https://50hacks.co/) - Productivity Tips
+* [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
 * [TheChessWebsite](https://www.thechesswebsite.com/) - Chess Strategy / Analysis
 * [Chess Tempo](https://chesstempo.com/) - Play / Learn Chess
 * [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - Learn Wood Working
