@@ -937,7 +937,7 @@
 * [dotfiles](https://dotfiles.github.io/) - GitHub Dotfiles
 * [Refined GitHub](https://github.com/refined-github/refined-github) - Simplifies GitHub Interface & Adds Features 
 * [Octobox](https://octobox.io/), [Gitify](https://www.gitify.io/), [advanced-github-notifier](https://github.com/freaktechnik/advanced-github-notifier), [PR Monitor](https://github.com/fwouts/prmonitor), [CatLight](https://catlight.io/) or [Ghostly](https://ghostlyapp.net/) / [GitHub](https://github.com/patriksvensson/ghostly) - GitHub Notifications
-* [Gidget](https://github.com/GDGVIT/gidget) -GitHub Notifications / Android
+* [Gidget](https://github.com/GDGVIT/gidget) - GitHub Notifications / Android
 * [Git-notify](https://github.com/jevakallio/git-notify) - Embed Announcements into Git Commit Messages
 * [Allstar](https://github.com/ossf/allstar) - Git Repository Security App
 * [github1s](https://github1s.com/) - GitHub Code Viewer / GUI: do `gitk` in Repo Folder
