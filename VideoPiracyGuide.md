@@ -489,6 +489,7 @@
 * ⭐ **[Sports Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming)** - Sports
 * ⭐ **[StreamEast](https://www.streameast.xyz/)** - Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)
 * ⭐ **[RBTV](https://www.rbtv77.com/)** - Sports / [Telegram](https://t.me/+_xlFBUO08tQwZGJl)
+* ⭐ **[Score808TV](https://www.score808tv.com/)** - Sports
 * ⭐ **[Reddit Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_streams)** - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
 * ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)** or [IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) - IPTV Resources / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
@@ -539,13 +540,11 @@
 * [SportsW](https://sportsw.me/) - Sports
 * [CricHD](https://fc5.crichd.com/) - Sports
 * [WorldStreams](https://en.worldstreams.net/) - Sports
-* [fromHOT](http://www.fromhots.com/) - Sports
 * [Volokit](https://community.volokit.com/) - Sports
 * [StrikeOut](https://strikeout.ws/) - Sports
 * [BestSolaris](http://bestsolaris.com/) - Sports
 * [Strumyk](http://strumyk.tv/) - Sports
 * [SportsBay](https://www.sportsbay.global/) - Sports
-* [Score808](http://www.score808.vip/) - Sports
 * [DudeStream](http://dudestream.com/) - Sports
 * [CricHD.tv](https://web.crichd.tv/) - Sports
 * [UFCKhabib](http://ufckhabib.com/) - Sports
