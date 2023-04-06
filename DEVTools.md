@@ -996,7 +996,7 @@
 * [gist.io](https://gist.io/) - Git Blog Platform
 * [Github Action for Rclone](https://github.com/marketplace/actions/github-action-for-rclone) - Rclone GitHub Action Wrapper
 * [gitignore](https://github.com/github/gitignore) - Gitignore Templates
-* [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub), [diohub](https://github.com/NamanShergill/diohub),[Fasthub-Libre](https://github.com/thermatk/FastHub-Libre, [FastHub-RE](https://github.com/LightDestory/FastHub-RE), [MGit](https://github.com/maks/MGit), [GitNex](https://codeberg.org/gitnex/GitNex/ or [OctoDroid](https://github.com/slapperwan/gh4a) - Android GitHub Clients
+* [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub), [diohub](https://github.com/NamanShergill/diohub), [Fasthub-Libre](https://github.com/thermatk/FastHub-Libre), [FastHub-RE](https://github.com/LightDestory/FastHub-RE), [MGit](https://github.com/maks/MGit), [GitNex](https://codeberg.org/gitnex/GitNex/) or [OctoDroid](https://github.com/slapperwan/gh4a) - Android GitHub Clients
 * [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - Track Github User Activity on Android
 * [commits.top](https://commits.top/) - Most Active GitHub Users
 * [Gitea](https://gitea.io/), [2](https://gittea.dev/) or [Drift](https://www.drift.lol/) - Self-Hosted Git Service
@@ -1093,7 +1093,7 @@
 * [ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate) - Modifiable Shellcode Template 
 * [Spork](https://github.com/atek-cloud/spork) - P2P Sockets CLI / [Discord](https://discord.gg/UUCVrFYksv)
 * [Goyo.vim](https://github.com/junegunn/goyo.vim) - Distraction-free writing in Vim
-* [nvim](https://github.com/neoclide/coc.nvim) - Neovim LSP Autocompletion coc.
+* [nvim](https://github.com/neoclide/coc.nvim) - Neovim LSP Autocompletion coc
 * [Markdown Preview](https://github.com/iamcco/markdown-preview.nvim) - NeoVim Markdown Preview
 * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - Vim Code-Completion Engine
 * [VimColorSchemes](https://vimcolorschemes.com/) - Vim Color Schemes
