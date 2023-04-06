@@ -915,7 +915,7 @@
 * ⭐ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)** 
 * ⭐ **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [awesome-lis](https://github.com/topics/awesome-list) or [awesome-github](https://github.com/fffaraz/awesome-github) - List Indexes
 * ⭐ **[GotHub](https://codeberg.org/gothub/gothub)** - GitHub Frontend
-* ⭐**[GitLab](https://about.gitlab.com/)**, [FSFE](https://git.fsfe.org/) or [NotABug](https://notabug.org/) - GitHub Alternatives
+* ⭐ **[GitLab](https://about.gitlab.com/)**, [FSFE](https://git.fsfe.org/) or [NotABug](https://notabug.org/) - GitHub Alternatives
 * [GitHubStatus](https://www.githubstatus.com/) - GitHub Outage Status
 * [Git Explorer](https://gitexplorer.com/), [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html), [git-cheatsheet](https://hackprogramming.com/notes/git-cheatsheet) or [Git Commands](https://gabrieldejesus.github.io/git-commands/) / [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists / Search
 * [GitHub Desktop](https://desktop.github.com/) / [Linux](https://github.com/shiftkey/desktop), [Git-Fork](https://git-fork.com/) or [Tower](https://github.com/nbats/FMHYedit/blob/main/base64.md#tower) - Git Clients
