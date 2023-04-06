@@ -1093,7 +1093,7 @@
 * [ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate) - Modifiable Shellcode Template 
 * [Spork](https://github.com/atek-cloud/spork) - P2P Sockets CLI / [Discord](https://discord.gg/UUCVrFYksv)
 * [Goyo.vim](https://github.com/junegunn/goyo.vim) - Distraction-free writing in Vim
-* [nvim](https://github.com/neoclide/coc.nvim) - Neovim LSP Autocompletion coc.
+* [nvim](https://github.com/neoclide/coc.nvim) - Neovim LSP Autocompletion coc
 * [Markdown Preview](https://github.com/iamcco/markdown-preview.nvim) - NeoVim Markdown Preview
 * [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - Vim Code-Completion Engine
 * [VimColorSchemes](https://vimcolorschemes.com/) - Vim Color Schemes
