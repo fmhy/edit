@@ -1,9 +1,8 @@
 name: Update FMHY Retype
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron:  '0 */2 * * *'
 
 jobs:
   update:
