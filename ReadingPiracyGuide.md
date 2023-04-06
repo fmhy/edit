@@ -458,6 +458,7 @@
 * [Science Forums](https://www.scienceforums.net/) - Forums / Science 
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://github.com/nbats/FMHYedit/blob/main/base64.md#astronomy--physics) - Books / Notes / Astronomy
 * [Institute of Mathematics](https://aimath.org/textbooks/) - Math / Books
+* [RealNotComplex](https://realnotcomplex.com/) - Math / Books
 * [Engineering Books PDF](https://engineeringbookspdf.com/) - Engineering
 * [EasyEngineering](https://easyengineering.net/) - Engineering
 * [EngineeringBooksPDF](https://www.engineeringbookspdf.com/) - Engineering
@@ -907,6 +908,7 @@
 * [MangaFreak](https://w12.mangafreak.net/)
 * [Manga-Raw](https://www.manga-raw.club/)
 * [Mangairo](https://h.mangairo.com/)
+* [ReadMng](https://www.readmng.com/) or [MngDoom](https://www.mngdoom.com/)
 * [MangaBuddy](https://mangabuddy.com)
 * [ReadKomik](https://readkomik.com/)
 * [DogManga](https://dogemanga.com/)
@@ -923,10 +925,12 @@
 * [Tenkoreader](https://tenkoreader.com/)
 * [OniManga](https://onimanga.com)
 * [Mangadex.tv](https://mangadex.tv)
+* [MangaInn](https://mangainn.net/) 
 * [KumaScans](https://kumascans.com/) 
 * [MangaBat](https://m.mangabat.com/)
 * [ReadOPM](https://ww3.readopm.com/read-manga/)
 * [MangaEffect](https://mangaeffect.com/)
+* [FunManga](https://funmanga.com/) 
 * [Manga Home ](http://www.mangahome.com/)
 * [MangaDig](https://mangadig.com/)
 * [Mangaski](https://www.mangasaki.com/)

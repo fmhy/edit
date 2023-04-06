@@ -394,9 +394,6 @@
 * [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
 * [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
 * [Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - Open Source Data Engineering Projects
-* [data-dockerfiles](https://github.com/irbigdata/data-dockerfiles) - Docker Compose Files for Data Engineering
-* [Auto-Portforward](https://github.com/ruoshan/autoportforward) - Auto Port-Forwarding for Docker, Podman & Kubernetes
-* [Watchtower](https://github.com/containrrr/watchtower) - Automate Docker Container Image Updates
 * [CLIP-as-service](https://github.com/jina-ai/clip-as-service) - Embed Images / Sentences via CLIP Models
 * [Catalyzex](https://www.catalyzex.com/) or [PapersWithCode](https://paperswithcode.com/) - Search Machine Learning Models / Papers
 * [OpenML](https://www.openml.org/) or [Hugging Face](https://huggingface.co/) - Machine Learning Datasets
@@ -763,7 +760,8 @@
 * ⭐ **[Awesome iOS](https://github.com/vsouza/awesome-ios)** - iOS App Development Resources
 * ⭐ **[Tizen](https://www.tizen.org/)** - Android TV App Creator
 * ⭐ **[XDA](https://forum.xda-developers.com/)** - App Development Forum
-* ⭐ **[Docker](https://www.docker.com/)** - Build, Manage & Run Apps in Containers / [Desktop](https://www.docker.com/products/docker-desktop/) / [Images](https://hub.docker.com/), [2](https://linuxserver.io/), [3](https://hotio.dev/)
+* ⭐ **[Docker](https://www.docker.com/)** - Build, Manage & Run Apps in Containers
+* ⭐ **[Docker Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_docker_tools)** - Docker Tools, Images and Clients
 * [SupaBase](https://supabase.com/), [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Dokku](https://dokku.com/), [AndroidIDE](https://androidide.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter), [2](https://github.com/leanflutter/awesome-flutter-desktop) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators
 * [StreamLit](https://streamlit.io/) - Data Science App Creator
 * [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - App Development Platform / [GitHub](https://github.com/xamarin)
@@ -772,8 +770,6 @@
 * [butterfly](https://github.com/GetStream/butterfly) - Android UI Builder
 * [Flutter Login Page Design](https://github.com/afgprogrammer/Flutter-Login-Page-Design) or [LoginCritter](https://github.com/cgoldsby/LoginCritter) - Login Page Designs
 * [App ideas](https://github.com/florinpop17/app-ideas) - Collection of App Ideas
-* [Dive](https://github.com/wagoodman/dive) - Analyze Docker Images
-* [Composerize](https://www.composerize.com/) - Convert Docker Commands to Docker Compose / [CLI](https://github.com/magicmark/composerize)
 * [Fastlane](https://fastlane.tools/) - App Development Automation / [GitHub](https://github.com/fastlane/fastlane)
 * [I wish there was app](https://iwishtherewas.app/) - Get App Ideas From Twitter
 * [Blisk](https://blisk.io/) - Cross-Device Testing
@@ -787,8 +783,6 @@
 * [IconKitchen](https://icon.kitchen/) or [AppIcon](https://appicon.co/) - App Icon Generator
 * [iOS Icon Gallery](https://www.iosicongallery.com/) - iOS Icon Examples
 * [Plank](https://launchpad.net/plank) - Simple Dock / [GitHub](https://github.com/ricotz/plank)
-* [Portainer](https://portainer.io/) - Build / Manage Docker Containers / [Templates](https://github.com/SelfhostedPro/selfhosted_templates) / [GitHub](https://github.com/portainer/portainer)
-* [Yatch](https://yacht.sh/) - Container Management UI
 * [Compose Samples](https://github.com/android/compose-samples) - App Samples
 * [swipe](https://github.com/saket/swipe) - Swipe Gesture Actions for Compose UI  
 * [Ratio Buddy](https://ratiobuddy.com/) - CSS For Device Ratio
@@ -1055,7 +1049,7 @@
 # ► Programming / Coding 
 
 * ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists 
-* ⭐ **[Shell GPT](https://github.com/TheR1D/shell_gpt)** or [Codeium](https://codeium.com/) - Coding AI
+* ⭐ **[Shell GPT](https://github.com/TheR1D/shell_gpt)**, [Cursor](https://www.cursor.so) or [Codeium](https://codeium.com/) - Coding AIs
 * [WebdevHome](https://webdevhome.github.io/), [Charm](https://charm.sh/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - Programming Tool Indexes
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Programming Site Index 
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Web Scraping Tool Index

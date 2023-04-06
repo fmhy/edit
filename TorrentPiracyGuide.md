@@ -151,6 +151,7 @@
 * [BTMET](https://btmet.com/)
 * [FreshMeat](https://freshmeat.io/)
 * [BT4G](https://bt4g.org/)
+* [BitCQ](https://bitcq.com/)
 * [ExtraTorrent](https://extratorrent.unblockit.kim/)
 * [Torrent Download](http://www.torentdownloads.narod.ru/)
 * [Torrenteer](http://torrenteer.ddns.net/)

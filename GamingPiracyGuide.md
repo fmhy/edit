@@ -1196,7 +1196,9 @@
 * [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods
 * [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - GTAV FidelityFX Super Resolution Mod
 * [Essential Menu](https://github.com/anonik9900/Essential-Menu) - GTAV Mod Menu
+* [GTAV-SimpleGangWar](https://github.com/David-Lor/GTAV-SimpleGangWar) - GTAV Gang War Script
 * [GTA 5 Grand Roleplay](https://gta5grand.com/) - GTAV Roleplay Server
+* [Wanted-Music-IV](https://github.com/ClonkAndre/Wanted-Music-IV) - GTAV Wanted Music in GTAIV
 * [D.E.P](https://www.definitive-edition-project.com/) - Fix GTA PC Port Bugs
 * [Vice City: Multiplayer](https://vc-mp.org/) - Mutiplayer GTAVC
 * [GTA-Vice-City-Interactive-Map](https://github.com/denizariyan/GTA-Vice-City-Interactive-Map) - GTAVC Interactive Map Mod
@@ -1205,6 +1207,8 @@
 * [gtasa-savegame-editor](https://github.com/Kronavarb/gtasa-savegame-editor) - GTASA Save Editor
 * [SAMP-GPS](https://github.com/janglapuk/SAMP-GPS) - GTASA Multiplayer GPS
 * [IMFX](https://github.com/DK22Pac/imfx) - GTASA Improved FX Mod
+* [VehFuncs](https://www.mixmods.com.br/2020/12/vehfuncs-v2-2-beta/) - GTASA Vehicle Mods
+* [mobile-hud](https://github.com/DK22Pac/mobile-hud) - GTASA Mobile HUD Mod
 * [SA Mission Maker](https://libertycity.net/files/gta-san-andreas/175089-sa-mission-maker-v1-45.html) or [DYOM](https://dyom.gtagames.nl/) - GTASA Mission Creator
 * [GTA3MP3](https://gtamp.com/gta3/) - GTA3 Multiplayer Mod
 

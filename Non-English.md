@@ -638,6 +638,7 @@
 * [Moviehunt](https://moviehunt.us) - Movies / TV
 * [MoviesJet](https://moviesjet.one/) - Movies / TV
 * [UncutHD](https://www.uncuthd.guru/) - Movies
+* [Roshiya](https://roshiya.me/) - Movies / TV
 * [Foumovies](https://www.foumovies.pw/) - Movies
 * [PrMovies](https://prmovies.homes/) or [yomovies](https://yomovies.rs/) - Movies / TV / Anime
 * [Bolly4u](https://bolly4u.onl/) - Movies
@@ -1188,6 +1189,7 @@
 * [MegaTorrents](https://megatorrents.co/) - Movies / TV
 * [BlurayTorrent](https://bluraytorrent.site/) - Movies /TV
 * [TugaFlix]( https://tugaflix.lol/) - Movies / TV
+* [SuperFlix](https://superflix.do/) - Movies / TV
 * [torrentdosfilmes](https://torrentdosfilmes.to/) - Movies / TV
 * [baixarfilmetorrent](https://baixarfilmetorrent.vip/) - Movies / TV
 * [baixardownload](https://baixardownloadviatorrentgratis.blogspot.com/) - Movies / TV
