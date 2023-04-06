@@ -1,0 +1,10 @@
+input: .
+output: .retype
+url: freemediaheckyeah.pages.dev
+branding:
+  logo: /static/fmhy.ico
+  logoDark: /static/fmhy.ico
+  title: FMHY
+favicon: /static/favicon.ico
+footer:
+  copyright: ""
