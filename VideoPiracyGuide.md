@@ -103,14 +103,14 @@
 
 ## ▷ Multi Hosts
 
-* ⭐ **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - Multi-Site Search
 * ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)
 * ⭐ **[xpWatch](https://xpwatch.vercel.app/)** - Movies / TV / Anime
-* ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime
 * ⭐ **[FMovies](https://fmovies.name/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
+* ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime
 * ⭐ **[FlixHQ](https://flixhq.click/)** - Movies / TV / Anime
 * ⭐ **[Kodi](https://kodi.tv/)** - Media Server / Streaming App / [Addons / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kodi_tools)
+* ⭐ **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - Multi-Site Search
 * [AZMovies](https://azms.to/) - Movies
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
 * [Series9](https://series9.me/) - Movies / TV / Anime
