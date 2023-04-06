@@ -93,7 +93,7 @@
 * [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app) - React Typescript Cheatsheet
 * [Tackling TS](https://exploringjs.com/tackling-ts/toc.html) or [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
 * [HTMLDog](https://htmldog.com/) - HTML / CSS / JavaScript Tutorials
-* [Learn to Code HTML & CSS](https://learn.shayhowe.com/) - HTML & CSS Tutorials
+* [Learn to Code HTML & CSS](https://learn.shayhowe.com/) - HTML / CSS Tutorials
 * [JavaScript.info](https://javascript.info/) - JavaScript Guide 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Javascript Learning Books
 * [EloquentJavascript](https://eloquentjavascript.net/), [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript), [FunJavascript](https://fun-javascript-projects.com/), [LearnCS](https://www.learncs.online/lessons), [Java5cript](https://www.java5cript.com/), [Javascript Today](https://blog.javascripttoday.com/) or [Grasshopper](https://grasshopper.app/) - Learn Javascript
@@ -760,7 +760,7 @@
 * ⭐ **[Awesome iOS](https://github.com/vsouza/awesome-ios)** - iOS App Development Resources
 * ⭐ **[Tizen](https://www.tizen.org/)** - Android TV App Creator
 * ⭐ **[XDA](https://forum.xda-developers.com/)** - App Development Forum
-* ⭐ **[Docker](https://www.docker.com/)** - Build, Manage & Run Apps in Containers
+* ⭐ **[Docker](https://www.docker.com/)** - Build, Manage and Run Apps in Containers
 * ⭐ **[Docker Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_docker_tools)** - Docker Tools, Images and Clients
 * [SupaBase](https://supabase.com/), [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Dokku](https://dokku.com/), [AndroidIDE](https://androidide.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter), [2](https://github.com/leanflutter/awesome-flutter-desktop) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators
 * [StreamLit](https://streamlit.io/) - Data Science App Creator
