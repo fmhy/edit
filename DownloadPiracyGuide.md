@@ -71,9 +71,12 @@
 * [Adit-HD](https://www.adit-hd.com/) - Video / Audio / Games / Books 
 * [Novanon](https://novanon.net/) - Video / Audio / Software / Games / Magazines / Comics / Android / Books / Courses
 * [psychodownloads](https://psychodownloads.com/) - Video / Audio / Software / Android / Games / ROMs / Books / Magazines / NSFW
+* [Merlin Warez](https://merlinwz.com/) - Video / Audio / Games / Software / Books / Audiobooks / Comics / Magazines 
 * [Sbenny's Forum](https://forum.sbenny.com/) - Video / Audio / Software / ROMs / Books / Android / [Discord](https://discord.gg/kf9FKQx)
 * [CyberPhoenix](http://www.cyberphoenix.org/forum/) - Video / Audio / Software / Games / ROMs / Books / Magazines / Comics
 * [dreamteamdownloads1](https://www.dreamteamdownloads1.com/index.php) - Video / Audio / Software / Games / ROMs / Books / Magazines
+* [ReleaseHive](https://www.releasehive.com/) - Video / Audio / Software / Games / Books / NSFW 
+* [DownDuck](http://www.downduck.com/) - Video / Audio / Software / Games / Books / Magazines
 * [AllYouLike](https://allyoulike.org/) - Video / Audio Books / Magazines / Games / ROMs / Software / Android / Comics / NSFW
 * [MaxRelease](http://max-rls.com/) - Video / Audio / Software / Games / Magazines
 * [DarkSoftware](https://darksoftware.net/) - Video / Audio / Games / ROMs
@@ -157,7 +160,7 @@
 
 # ► Software Sites
 
-* ⭐ **[Pesktop](https://pesktop.com/en/)** or [FileCR](https://filecr.com/en/) - [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass) / [Search Fix](https://greasyfork.org/en/scripts/459020-filecr-search-fix)
+* ⭐ **[Pesktop](https://pesktop.com/en/)** or [FileCR](https://filecr.com/en/) - [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass)
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - [Mobile App](https://forum.mobilism.org/app/)
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)**
 * ⭐ **[rsload](https://rsload.net/)**
