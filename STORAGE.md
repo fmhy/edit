@@ -265,36 +265,38 @@
 
 #### BetterDiscord Tools
 
-[Plugins](https://betterdiscord.app/plugins) / [Themes](https://bdeditor.dev/) / [Support](https://discord.gg/0Tmfo5ZbORCRqbAd) / [Nitro Features](https://github.com/riolubruh/YABDP4Nitro) / [Messaging Panel](https://github.com/SanjaySunil/BetterDiscordPanel)
+[Plugins](https://betterdiscord.app/plugins), [Themes](https://betterdiscord.app/themes), [Theme Editor](https://bdeditor.dev/), [Support](https://discord.gg/0Tmfo5ZbORCRqbAd), [Nitro Features](https://github.com/riolubruh/YABDP4Nitro), [Messaging Panel](https://github.com/SanjaySunil/BetterDiscordPanel)
 
 ***
 
-#### Browser EBook Readers
+#### Browser eBook Readers
 
-[fViewer](https://www.fviewer.com/), [Reader View](https://add0n.com/chrome-reader-view.html) / [2](https://mybrowseraddon.com/reader-view.html), [Tranquility](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/), [EpubPress](https://epub.press/), [ePubReader](https://www.epubread.com/en/), [Mercury](https://mercury.postlight.com/), [LoudReader](https://www.loudreader.com/), [ReadWok](https://readwok.com/), [2read](https://2read.net/), [Reader Mode](https://readermode.io/), [ePub Reader Online](https://www.ofoct.com/viewer/epub-reader-online.html), [ebook.web](https://ttu-ebook.web.app/)
+* [Reader View](https://webextension.org/listing/chrome-reader-view.html), [2](https://mybrowseraddon.com/reader-view.html)
+
+[Online Cloud File Viewer](https://www.fviewer.com/), [Tranquility Reader](https://addons.mozilla.org/en-GB/firefox/addon/tranquility-1/), [EpubPress](https://epub.press/), [EPUBReader](https://www.epubread.com/en/), [Postlight Reader](https://reader.postlight.com/), [Ebook Reader for web](https://www.loudreader.com/), [Readwok](https://readwok.com/), [2read](https://2read.net/), [Reader Mode](https://readermode.io/), [ePub Reader Online](https://www.ofoct.com/viewer/epub-reader-online.html), [Ebook Reader](https://reader.ttsu.app/manage)
 
 ***
 
 #### Browser Startpages
 
-* ⭐ **[WebOas.is](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) / [Source Code](https://pastebin.com/CczqreS4)
-* ⭐ **[monknow](https://www.monknow.com/)**
+* ⭐ **[WebOasis](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) - [Source Code](https://pastebin.com/CczqreS4)
+* ⭐ **[MONKNOW](https://www.monknow.com/)**
 
-[8bitdash](https://www.8bitdash.com/), [8Bitdashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/), [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage), [StartTree](https://github.com/Paul-Houser/StartTree), [New Tab Addons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page), [clippingmini](https://www.clippingmini.com/), [draggo](http://draggo.com/), [atavi](https://atavi.com/), [homepage](https://homepage.ninja/), [bookmarkee](https://www.bookmarkee.com/), [pearltrees](https://www.pearltrees.com/), [lasso](https://www.lasso.net/), [nextcloud](https://apps.nextcloud.com/apps/bookmarks), [cling](https://cling.com/), [symbaloo](https://www.symbaloo.com/), [tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/Harshit-T/nightly), [Protopage](https://www.protopage.com/)
+[8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/), [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage), [StartTree](https://github.com/Paul-Houser/StartTree), [New Tab Addons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page), [Clippingmini](https://www.clippingmini.com/), [Draggo](http://draggo.com/), [Atavi](https://atavi.com/), [Homepage Ninja](https://homepage.ninja/), [Bookmarkee](https://www.bookmarkee.com/), [Pearltrees](https://www.pearltrees.com/), [Lasso](https://www.lasso.net/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/Harshit-T/nightly), [Protopage](https://www.protopage.com/)
 
 ***
 
 #### Bookmark Managers
 
-[saved.io](https://saved.io/), [BookmarkOS](https://bookmarkos.com/), [Bookmarkify](https://bookmarkify.it/), [Patchwork](http://patchworkapp.com/), [start.me](https://start.me/start/int/startpage), [buku](https://github.com/jarun/buku), [Booky](https://booky.io/), [Raindrop](https://raindrop.io/), [WebCrate](https://webcrate.app/), [Unmark](https://unmark.it/), [Diigo](https://diigo.com/), [linkding](https://github.com/sissbruecker/linkding), [linkace](https://www.linkace.org/), [tagpacker](https://tagpacker.com/), [yabs](https://www.yabs.io/), [readthedocs](https://shaarli.readthedocs.io/en/master/), [mission-control](https://mission-control.app/), [histre](https://histre.com/), [brainytab](https://brainytab.com/), [saveforlater](http://saveforlater.com/), [tryzulu](https://tryzulu.com/), [contentle](https://contentle.com/), [clipix](https://www.clipix.com/), [webcull](https://webcull.com/), [colllect](https://colllect.io/), [sqworl](https://sqworl.com/), [trovenow](https://trovenow.com/), [ggather](https://web.ggather.com/), [openoox](https://openoox.com/), [dropmark](https://www.dropmark.com/), [bookmarkme](https://bookmarkme.io/), [bublup](https://www.bublup.com/), [bkmark](https://bkmark.io/), [Shiori](https://github.com/go-shiori/shiori), [LinkSnatch](https://linksnatch.pages.dev/)  
+[Saved.io](https://saved.io/), [Bookmark OS](https://bookmarkos.com/), [Bookmarkify](https://bookmarkify.it/), [Patchwork](http://patchworkapp.com/), [start.me](https://start.me/start/int/startpage), [buku](https://github.com/jarun/buku), [Booky](https://booky.io/), [Raindrop](https://raindrop.io/), [WebCrate](https://webcrate.app/), [Unmark](https://unmark.it/), [Diigo](https://diigo.com/), [linkding](https://github.com/sissbruecker/linkding), [linkace](https://www.linkace.org/), [tagpacker](https://tagpacker.com/), [yabs](https://www.yabs.io/), [readthedocs](https://shaarli.readthedocs.io/en/master/), [mission-control](https://mission-control.app/), [histre](https://histre.com/), [brainytab](https://brainytab.com/), [saveforlater](http://saveforlater.com/), [tryzulu](https://tryzulu.com/), [contentle](https://contentle.com/), [clipix](https://www.clipix.com/), [webcull](https://webcull.com/), [colllect](https://colllect.io/), [sqworl](https://sqworl.com/), [trovenow](https://trovenow.com/), [ggather](https://web.ggather.com/), [openoox](https://openoox.com/), [dropmark](https://www.dropmark.com/), [bookmarkme](https://bookmarkme.io/), [bublup](https://www.bublup.com/), [bkmark](https://bkmark.io/), [Shiori](https://github.com/go-shiori/shiori), [LinkSnatch](https://linksnatch.pages.dev/)
 
-**Extensions** 
+**Extensions**
 
 [MyMark](https://www.mymark.me/), [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/), [Bookmarkify](https://addons.mozilla.org/en-US/firefox/addon/bookmarkos/), [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer), [Omni](https://github.com/alyssaxuu/omni), [Centroly](https://centroly.com/)
 
 ***
 
-#### Bulk File Renamers 
+#### Bulk File Renamers
 
 [Advanced Renamer](https://www.advancedrenamer.com/), [theRenamer](http://therenamer.com/), [Hydrus](https://hydrusnetwork.github.io/hydrus/), [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/), [Szyszka](https://github.com/qarmin/szyszka), [MassiveFileRenamer](https://github.com/IvanRF/MassiveFileRenamer), [Massren](https://github.com/laurent22/massren), [Renamer](https://github.com/Craftplacer/Renamer), [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename), [FileRenamerDiff](https://github.com/soi013/FileRenamerDiff), [renamer](https://www.antp.be/software/renamer)
 
