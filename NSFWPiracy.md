@@ -225,6 +225,15 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 ***
 
+## ▷ Gay Porn
+
+* ⭐ **[MyGaySites](https://mygaysites.com/)** - List of Gay Porn Sites
+* [Gay-Hotfile](https://gay-hotfile.errio.net/) - Downloads
+* [Yupdates](https://yupdates.neocities.org/) - Gay Porn Artwork / [Drives](https://cat.yupdates.art/) / [Discord](https://discord.com/invite/ECFKuBawQg)
+* [PBC](https://pbc.xxx/) - Gay Porn Encyclopedia
+
+***
+
 # ► NSFW Movies
 
 * ⭐ **[NSFW Movie Site Search](https://cse.google.com/cse?cx=006516753008110874046:3-svpblbro8)** / [2](https://cse.google.com/cse?cx=b5a63746fc84a456d)
@@ -381,15 +390,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [electric.smut](https://nsfwai.com/) or [PornPen](https://pornpen.ai/) - NSFW Image Generators
 * [MoanMyIP](https://www.moanmyip.com/) - Sexy Girls Moaning Your IP
 * [AdultOpenAI](http://adultopenai.pythonanywhere.com/) - Uncensored ChatGPT
-
-***
-
-# ► Gay Porn
-
-* ⭐ **[MyGaySites](https://mygaysites.com/)** - List of Gay Porn Sites
-* [Gay-Hotfile](https://gay-hotfile.errio.net/) - Downloads
-* [Yupdates](https://yupdates.neocities.org/) - Gay Porn Artwork / [Drives](https://cat.yupdates.art/) / [Discord](https://discord.com/invite/ECFKuBawQg)
-* [PBC](https://pbc.xxx/) - Gay Porn Encyclopedia
 
 ***
 
