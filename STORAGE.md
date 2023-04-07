@@ -31,7 +31,7 @@
 
 #### 4chan Archives
 
-* [boards.4channel](https://boards.4channel.org/search) / [2](https://boards.4chan.org/search)
+* [boards.4channel](https://boards.4channel.org/search) - [2](https://boards.4chan.org/search)
 
 [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion), [old.sage](https://old.sage.moe/), [BibAnon](http://vyrd.bibanon.org/), [4Museum](https://4museum.neocities.org/), [Archive.4plebs](https://archive.4plebs.org/), [arch.b4k](https://arch.b4k.co/), [Sup/tg/](http://suptg.thisisnotatrueending.com/), [4chanSearch](https://4chansearch.com/), [4search](https://4search.neocities.org/), [palanq](https://archive.palanq.win/), [desuarchive](https://desuarchive.org/)
 
@@ -39,7 +39,7 @@
 
 #### Adblock Defenders
 
-* ⭐ **[AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra)** / [Script](https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js)
+* ⭐ **[AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra)** - [Script](https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js)
 * ⭐ **[fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/)**
 
 [Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt), [Assassinate Ad Block Blockers](https://greasyfork.org/en/scripts/382482-assassinate-ad-block-blockers), [Test Adblock Defender](https://blockads.fivefilters.org/)
@@ -93,13 +93,13 @@
 * ⭐ **[AIMP](http://www.aimp.ru/?do=download&os=android)**
 * ⭐ **[Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet&hl=en_US&gl=US)**
 
-[VLC for Android](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer), [BlackHole](https://github.com/Sangwan5688/BlackHole), [RAAG](https://github.com/raag-music/raag/), [Metro](https://f-droid.org/en/packages/io.github.muntashirakon.Music/), [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer), [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/), [retroPod](https://jamesob.com/apps/retropod.html), [Apollo Music Player](https://github.com/nuclearfog/Apollo-Music), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx), [Serenity](https://github.com/YajanaRao/Serenity), [ExoPlayer](https://github.com/google/ExoPlayer), [Timber](https://github.com/naman14/Timber), [TimberX](https://github.com/naman14/TimberX), [Howl Music Player](https://github.com/Iamlooker/Howl), [SoundSpice](https://github.com/farshed/SoundSpice-mobile), [Bungee](https://github.com/OpenConsultingGroup/Flutter-Music-App), [DialogMusicPlayer](https://github.com/VishnuSanal/DialogMusicPlayer), [mucke](https://github.com/moritz-weber/mucke), [Phonograph Plus](https://github.com/chr56/Phonograph_Plus), [Symphony](https://github.com/zyrouge/symphony), [Musicmax](https://github.com/MaximillianLeonov/Musicmax), [Tear Music](https://github.com/tearone/tearmusic), [Stellio Player](https://stellio.ru/en), [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music), [Pulse](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse), [Frolomuse](https://play.google.com/store/apps/details?id=com.frolo.musp), [Zen Music Player](https://github.com/pakka-papad/Zen)
+[VLC for Android](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer), [BlackHole](https://github.com/Sangwan5688/BlackHole), [RAAG](https://github.com/raag-music/raag/), [Metro](https://f-droid.org/en/packages/io.github.muntashirakon.Music/), [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer), [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/), [retroPod](https://jamesob.com/apps/retropod.html), [Apollo Music Player](https://github.com/nuclearfog/Apollo-Music), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx), [Serenity](https://github.com/YajanaRao/Serenity), [ExoPlayer](https://github.com/google/ExoPlayer), [Timber](https://github.com/naman14/Timber), [TimberX](https://github.com/naman14/TimberX), [Howl Music Player](https://github.com/Iamlooker/Howl), [SoundSpice](https://github.com/farshed/SoundSpice-mobile), [Bungee](https://github.com/OpenConsultingGroup/Flutter-Music-App), [DialogMusicPlayer](https://github.com/VishnuSanal/DialogMusicPlayer), [mucke](https://github.com/moritz-weber/mucke), [Phonograph Plus](https://github.com/chr56/Phonograph_Plus), [Symphony](https://github.com/zyrouge/symphony), [Musicmax](https://github.com/MaximillianLeonov/Musicmax), [Tear Music](https://github.com/tearone/tearmusic), [Stellio Player](https://stellio.ru/en), [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music), [Pulse Music](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse), [Frolomuse](https://play.google.com/store/apps/details?id=com.frolo.musp), [Zen Music Player](https://github.com/pakka-papad/Zen)
 
 ***
 
 #### Android Browsers
 
-* ⭐ **[Android Browser Wiki](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)** / [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers)
+* ⭐ **[Android Browser Wiki](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)** - [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers)
 * [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) - Debloated FF
 * [EinkBro](https://f-droid.org/packages/info.plateaukao.einkbro/) - E-Ink
 
@@ -110,7 +110,7 @@
 #### Android File Explorers
 
 * [rcx](https://x0b.github.io/) - [GitHub](https://github.com/x0b/rcx)
-* [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
+* [MiXplorer](https://mixplorer.com/) - [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
 * [Amaze File Manager](https://teamamaze.xyz/) - [GitHub](https://github.com/TeamAmaze/AmazeFileManager)
 * [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager) - [GitHub](https://github.com/SimpleMobileTools/Simple-File-Manager)
 
