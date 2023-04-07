@@ -11,7 +11,7 @@
 * ⭐ **[Blender](https://www.blender.org/)** 
 * ⭐ **Blender Tools** - [Resources](https://github.com/agmmnn/awesome-blender) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [Plugins](https://t.me/blenderplugs) / [AI Render](https://github.com/benrugg/AI-Render)
 
-[Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketch.Me](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [Chakoku](https://github.com/itta611/ChokokuCAD), [PovRay](http://www.povray.org/), [FreeCAD](https://www.freecadweb.org/), [PicoCad](https://johanpeitz.itch.io/picocad), [Vectary](https://www.vectary.com/), [LibreCAD](https://librecad.org/), [Art of Illusion](http://aoi.sourceforge.net/), [BRL-CAD](https://brlcad.org/), [posturize](https://get.posturize-app.com/)
+[Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketch.Me](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [Chakoku](https://github.com/itta611/ChokokuCAD), [PovRay](http://www.povray.org/), [FreeCAD](https://www.freecad.org/), [PicoCad](https://johanpeitz.itch.io/picocad), [Vectary](https://www.vectary.com/), [LibreCAD](https://librecad.org/), [Art of Illusion](http://aoi.sourceforge.net/), [BRL-CAD](https://brlcad.org/), [posturize](https://get.posturize-app.com/)
 
 ***
 
@@ -52,7 +52,7 @@
 * ⭐ **[Privacy Focused Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * ⭐ **[Lets Search!](https://letssearch.org/)** - Advanced Search Engine
 * ⭐ **[Yandex](https://yandex.com/)**
-* ⭐ **[Mail.ru](https://go.mail.ru/)**
+* ⭐ **[Mail.ru](ttps://mail.ru/)**
 * ⭐ **[Baidu](https://www.baidu.com/)** - [PHP Version](https://github.com/yuantuo666/baiduwp-php)
 * ⭐ **[r0.ru](https://r0.ru/)** 
 * ⭐ **[Ecosia](https://www.ecosia.org/)** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
@@ -73,7 +73,7 @@
 * https://mwmbl.org/ + [GitHub](https://github.com/mwmbl/mwmbl)
 * https://lazyweb.ai/
 * https://www.instya.com/
-* https://ambition.dk/kompetencer/media-search-social/trafik/tools/impersonal/
+* https://ambition.dk/impersonal/
 * https://education.iseek.com/iseek/home.page
 * https://www.lycos.com/
 * https://search.excite.com/
@@ -91,7 +91,6 @@
 * https://search.carrot2.org/#/web
 * http://www.surfcanyon.com/
 * https://you.com/ + [AI Search](https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat)
-* https://www.teoma.com/
 * https://www.4search.com/
 * https://www.info.com/
 * https://www.yahoo.com/
@@ -114,7 +113,7 @@
 * https://www.harmari.com/search/unified/
 * https://worldwidescience.org/
 * https://www.startpage.com/
-* https://github.com/prabhatsharma/zinc
+* https://github.com/zincsearch/zincsearch
 * https://benbusby.com/projects/whoogle-search/
 
 **Non-English**
@@ -592,7 +591,7 @@
 
 #### Docker Tools
 
-[Desktop](https://www.docker.com/products/docker-desktop/) / [TUI](https://github.com/jesseduffield/lazydocker) / [Images](https://hub.docker.com/), [2](https://linuxserver.io/), [3](https://hotio.dev/) / [Analyze Images](https://github.com/wagoodman/dive) / [Container Manager](https://portainer.io/), [2](https://yacht.sh/), [3](https://github.com/SelfhostedPro/selfhosted_templates) / [Container Automation](https://github.com/containrrr/watchtower) / [Port Forward](https://github.com/ruoshan/autoportforward) / [Compose Files](https://www.composerize.com/), [2](https://github.com/magicmark/composerize), [3](https://github.com/irbigdata/data-dockerfiles) / [Log Viewer](https://dozzle.dev/) / [Image Linter](https://github.com/goodwithtech/dockle)
+[Desktop](https://www.docker.com/products/docker-desktop/) / [TUI](https://github.com/jesseduffield/lazydocker) / [Images](https://hub.docker.com/), [2](https://linuxserver.io/), [3](https://hotio.dev/) / [Analyze Images](https://github.com/wagoodman/dive) / [Container Manager](https://portainer.io/), [2](https://yacht.sh/), [3](https://github.com/SelfhostedPro/selfhosted_templates) / [Container Automation](https://github.com/containrrr/watchtower) / [Port Forward](https://github.com/ruoshan/autoportforward) / [Compose Files](https://www.composerize.com/), [2](https://github.com/magicmark/composerize), [3](https://github.com/irbigdata/data-dockerfiles) / [Log Viewer](https://dozzle.dev/) / [Image Linter](https://github.com/goodwithtech/dockle) / [Notifications](https://github.com/crazy-max/diun)
 
 ***
 
@@ -957,7 +956,7 @@
 
 #### FMovies Clones
 
-* [FlixHQ](https://flixhq.net/), [2](https://flixhq.ru/)
+* [FlixHQ](https://flixhq.net/), [2](https://flixhq.ru/), [3](https://flixhq.pro/)
 * [FBox](https://www1.fbox.to/), [2](https://www3.fbox.to/), [3](https://www4.fbox.to/)
 * [HuruWatch](https://hurawatch.com/), [2](https://hurawatch.ru/), [3](https://hurawatch.at/)
 * [Movies7](https://movies7.to/), [2](https://www2.movies7.to/), [3](https://movies7.io/)
@@ -2241,14 +2240,13 @@ Add the following commands to a search to manually scrape each site.
 
 * https://www3.himovies.to/
 * https://solarmovies.win/
-* https://flixhq.pro/
 * https://www2.6movies.net/
 * https://www2.movieorca.com/
 * https://xmovies8.fun/
 * https://ww22.watchfilm.net/
 * https://hdwatch.org/
 * https://swatchseries.is/
-* https://www1.movierot.com/
+* https://www1.freemoviesfull.com/
 * https://www.actvid.com/
 * https://hdtoday.tv/ 
 * https://www.tikmovies.com/
@@ -2292,13 +2290,11 @@ Add the following commands to a search to manually scrape each site.
 * https://www3.zoechip.com/
 * https://www1.attacker.tv/
 * https://quitt.net/
-* https://www1.seeingblind.net/
 * https://www6.123moviesgo.tv/
 * https://123moviestv.net/
 * https://moviecracker.net/
 * https://fmovieshd.vip/
 * https://moviesjoy.to/
-* https://www.redbeltmovie.com/
 * https://fullmoviehd4k.com/
 * https://cataz.net/ 
 * https://tinyzonetv.to/
@@ -2394,7 +2390,7 @@ Add the following commands to a search to manually scrape each site.
 * https://matomo.org/
 * https://goaccess.io/
 * https://github.com/electerious/Ackee
-* https://count.ly/
+* https://countly.com/
 * https://ackee.electerious.com/
 * https://panelbear.com/
 * https://splitbee.io/
@@ -3045,11 +3041,11 @@ Add the following commands to a search to manually scrape each site.
 
 #### Twitch Adblockers
 
-⭐ **[Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/)**
-
-[TTV LOL](https://ttv.lol/) / [Pro](https://github.com/younesaassila/ttv-lol-pro), [TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions), [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch), [Adblocker for Twitch - Edge](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn)
-
-note - You can also enable "Peter Lowe’s Ad and tracking server list" to block twitch ads
+* ⭐ **[Purple AdBlock](https://addons.mozilla.org/en-US/firefox/addon/purpleadblock/)**
+* ⭐ **[TTV LOL](https://ttv.lol/)** / [Pro](https://github.com/younesaassila/ttv-lol-pro) / [Video Guide](https://rentry.co/tavy3)
+* ⭐ **[TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)**
+* [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch)
+* [Adblocker for Twitch - Edge](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn)
 
 ***
 
@@ -3060,7 +3056,6 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 [yokoffing/filterlists](https://github.com/yokoffing/filterlists), [dbl.oisd.nl](https://oisd.nl/) / [2](https://hosts.oisd.nl/), [FilterLists](https://filterlists.com/), [webannoyances](https://github.com/yourduskquibbles/webannoyances), [fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/), [The Block List Project](https://blocklistproject.github.io/Lists/), [ADFILT](https://github.com/DandelionSprout/adfilt), [EasyList](https://easylist.to/) / [Forum](https://forums.lanik.us/), [urlhaus-filter](https://gitlab.com/curben/urlhaus-filter), [iBlocklist](https://www.iblocklist.com/), [LetBlock.it](https://letsblock.it/), [Energized Protection](https://github.com/EnergizedProtection/block), [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts), [Noads](https://github.com/deletescape/noads), [PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection), [fanboy](https://www.fanboy.co.nz/), [NoTracking blocklist](https://github.com/notracking/hosts-blocklists), [d3ward](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt), [notracking](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt), [lan-block](https://raw.githubusercontent.com/gwarser/filter-lists/master/lan-block.txt), [developerdan](https://www.github.developerdan.com/hosts/), [scamblocklist](https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt), [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt), [iploggerfilter](https://github.com/piperun/iploggerfilter), [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs), [GoodbyeAds](https://goodbyeads.weebly.com/), [neodevhost](https://github.com/neodevpro/neodevhost), [jmdugan/blocklists](https://github.com/jmdugan/blocklists), [referrer-spam-list)](https://github.com/matomo-org/referrer-spam-list), [black-mirror](https://github.com/T145/black-mirror), [CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists), [hblock](https://hblock.molinero.dev/), [spam404](https://www.spam404.com/), [blacklist](https://github.com/anudeepND/blacklist), [energized](https://energized.pro/), [Clear URLs](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt), [TheFuckingList](https://github.com/eded333/TheFuckingList), [minoplhy filters](https://github.com/minoplhy/filters), [Little Snitch](https://github.com/fabston/little-snitch-blocklist)
 
-* [YouTube Filters](https://github.com/Ewpratten/youtube_ad_blocklist)
 * [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook) 
 
 ***
@@ -3069,7 +3064,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 ⭐ **[CouponScorpion](https://couponscorpion.com/)**
 
-[discudemy](https://www.discudemy.com/), [bestcouponhunter](https://bestcouponhunter.com/), [Coursevania](https://coursevania.com/), [Learn Viral](https://udemycoupon.learnviral.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [Course Time](https://coursetime.net/), [iDownloadCoupon](http://idownloadcoupon.com/), [udemycoupons](https://udemycoupons.me/), [lorebeam](https://www.lorebeam.com/), [coursecouponclub](https://coursecouponclub.com/), [coursekingdom](https://coursekingdom.xyz/), [freebiesglobal](https://freebiesglobal.com/), [real.discount](https://www.real.discount/), [onlinecourses](https://www.onlinecourses.ooo/), [cursosdev](https://cursosdev.com/), [100offdeal](https://100offdeal.online/), [freshercooker](https://www.freshercooker.com/category/courses/), [dailycoursereviews](https://dailycoursereviews.com/)
+[discudemy](https://www.discudemy.com/), [bestcouponhunter](https://bestcouponhunter.com/), [Coursevania](https://coursevania.com/), [Learn Viral](https://udemycoupon.learnviral.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [Course Time](https://coursetime.net/), [iDownloadCoupon](http://idownloadcoupon.com/), [coursecouponclub](https://coursecouponclub.com/), [coursekingdom](https://coursekingdom.xyz/), [freebiesglobal](https://freebiesglobal.com/), [real.discount](https://www.real.discount/), [onlinecourses](https://www.onlinecourses.ooo/), [cursosdev](https://cursosdev.com/), [100offdeal](https://100offdeal.online/), [freshercooker](https://www.freshercooker.com/category/courses/), [dailycoursereviews](https://dailycoursereviews.com/)
 
 ***
 
@@ -3211,7 +3206,7 @@ note - You can also enable "Peter Lowe’s Ad and tracking server list" to block
 
 **Telegram Wallpaper Channels** 
 
-[wallpapers](https://t.me/wallpapers/), [ull_HD_4K_wallpapers](https://t.me/Full_HD_4K_wallpapers/), [WallpapersGram](https://t.me/WallpapersGram/), [picsart_hd_background](https://t.me/picsart_hd_background), [Anime_WallpapersHD](https://t.me/Anime_WallpapersHD/), [allwallpaper](https://t.me/allwallpaper), [Wallpaper](https://t.me/Wallpaper), [ZedgeImagesBot](https://t.me/ZedgeImagesBot), [picsart_hd_background](https://t.me/picsart_hd_background), [wallpaperselection](https://t.me/wallpaperselection) [Hk3To](https://t.me/Hk3To) [jianoliuwalls](https://t.me/jianoliuwalls) [G_Walls](https://t.me/G_Walls) [EZwalls](https://t.me/EZwalls), [pengwyn](https://t.me/pengwyn), [wallpapersite](https://www.wallpapersite.com/)
+[wallpapers](https://t.me/wallpapers/), [ull_HD_4K_wallpapers](https://t.me/Full_HD_4K_wallpapers/), [WallpapersGram](https://t.me/WallpapersGram/), [picsart_hd_background](https://t.me/picsart_hd_background), [Anime_WallpapersHD](https://t.me/Anime_WallpapersHD/), [allwallpaper](https://t.me/allwallpaper), [Wallpaper](https://t.me/Wallpaper), [ZedgeImagesBot](https://t.me/ZedgeImagesBot), [picsart_hd_background](https://t.me/picsart_hd_background), [wallpaperselection](https://t.me/wallpaperselection), [Hk3To](https://t.me/Hk3To), [G_Walls](https://t.me/G_Walls), [EZwalls](https://t.me/EZwalls), [pengwyn](https://t.me/pengwyn), [wallpapersite](https://www.wallpapersite.com/)
 
 **Wallpaper Managers**
 
