@@ -76,13 +76,13 @@
 
 ⭐ **[AlternativeTo](https://alternativeto.net/)**
 
-[Ethical](https://ethical.net/resources/), [Slant](https://www.slant.co/), [SaaSHub](https://www.saashub.com/), [switching.software](https://switching.software/), [ALTERNATIVES](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md), [Alternative.me](https://alternative.me/), [Top Best Alternatives](https://www.topbestalternatives.com/), [GoFOSS](https://gitlab.com/curlycrixus/gofoss), [osalt](http://osalt.com/), [Open Source Alternatives](https://www.opensourcealternative.to/), [AlternativeBK](https://alternativebk.com/), [TopAlter](https://topalter.com/), [Prism Break](https://prism-break.org/), [listalternative](https://www.listalternative.com/), [FreeCompetitors](https://notabug.org/jyamihud/FreeCompetitors)
+[Ethical](https://ethical.net/resources/), [Slant](https://www.slant.co/), [SaaSHub](https://www.saashub.com/), [switching.software](https://switching.software/), [ALTERNATIVES TO BLOATWARE](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md), [Alternative.me](https://alternative.me/), [Top Best Alternatives](https://www.topbestalternatives.com/), [gofoss.net](https://gitlab.com/curlycrixus/gofoss), [osalt](http://osalt.com/), [Open Source Alternative To](https://www.opensourcealternative.to/), [Alternative Book!](https://alternativebk.com/), [TopAlter.com](https://topalter.com/), [PRISM Break](https://prism-break.org/), [ListAlternative](https://www.listalternative.com/), [Free Competitors](https://notabug.org/jyamihud/FreeCompetitors)
 
 ***
 
 #### Ambient Rain Sounds
 
-⭐ **[RainyMood](https://www.rainymood.com/)**
+⭐ **[Rainy Mood](https://www.rainymood.com/)**
 
 [Rainbow Hunt](https://rainbowhunt.com/), [Pluvior](https://pluvior.com/), [rainfor.me](http://rainfor.me/), [Raining.fm](https://raining.fm/), [Rainyscope](https://rainyscope.com/)
 
