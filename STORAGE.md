@@ -157,23 +157,29 @@
 
 #### Anonymous Image Boards
 
-⭐ **[4chan](https://4chan.org/)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_4chan_tools)
+* ⭐ **[4chan](https://4chan.org/)** - [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_4chan_tools)
 
-[Afternoon](https://afternoon.dynu.com/), [Crystal.cafe](https://crystal.cafe/), [Bus Stop](https://bus-stop.net/)
+[Post Office](https://afternoon.dynu.com/), [crystal.cafe](https://crystal.cafe/), [BUS STOP](https://bus-stop.net/)
 
 ***
 
 #### Antivirus
 
-⭐ **[Malwarebytes Premium](https://github.com/nbats/FMHYedit/blob/main/base64.md#malwarebytes-premium)**
+* ⭐ **[Malwarebytes Premium](https://github.com/nbats/FMHYedit/blob/main/base64.md#malwarebytes-premium)**
 
-[Hitman Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#hitman-pro), [Adaware Antivirus](https://www.adaware.com/free-antivirus-download), [Emisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/), [Immunet](https://www.immunet.com), [MalwareScanner](https://github.com/password123456/malwarescanner), [EsetKeyRobot](https://t.me/EsetKeyRobot), [ClamAV](https://www.clamav.net/)
+[Hitman Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#hitman-pro), [Adaware Antivirus](https://www.adaware.com/free-antivirus-download), [Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/), [Immunet](https://www.immunet.com), [MalwareScanner](https://github.com/password123456/malwarescanner), [EsetKeyRobot](https://t.me/EsetKeyRobot), [ClamAV](https://www.clamav.net/)
 
 ***
 
 #### App Launchers
 
-[Omega Launcher](https://github.com/otakuhqz/omega), [SmartLauncher](https://www.smartlauncher.net/) / [Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#smartlauncher-pro), [Lawnchair](https://lawnchair.app/) / [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) / [Lawnfeed](https://github.com/LawnchairLauncher/lawnfeed), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [ActivityLauncher](https://github.com/butzist/ActivityLauncher), [Smart Dock](https://github.com/axel358/smartdock), [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher), [Olauncher](https://github.com/jooooscha/Olauncher), [Unlauncher](https://github.com/jkuester/unlauncher), [Ratio](https://blloc.com/), [Edge Card Launcher](https://play.google.com/store/apps/details?id=com.reactivstudios.android.edge4), [Nova 7.0](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/nova-launcher-7-0-57-release/) / [8.0](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/nova-launcher-8-0-1-release/) (Pre-Acquisition), [Stario](https://play.google.com/store/apps/details?id=com.stario.launcher), [Discreet Launcher](https://github.com/falzonv/discreet-launcher), [Taskbar](https://play.google.com/store/apps/details?id=com.farmerbb.taskbar), [Kvaesitso](https://kvaesitso.mm20.de/), [Niagara](https://play.google.com/store/apps/details?id=bitpit.launcher&hl=en&gl=US), [Neo Launcher](https://github.com/NeoApplications/Neo-Launcher), [App Manager](https://muntashirakon.github.io/AppManager/) / [2](https://github.com/MuntashirAkon/AppManager), [AppManager](https://f-droid.org/packages/io.github.muntashirakon.AppManager/), [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/) / [2](https://www.apkmirror.com/apk/aurora-oss/warden/), [Inure](https://github.com/Hamza417/Inure), [KissLauncher](https://kisslauncher.com/), [Lynx](https://www.lynxlauncher.de/), [slim-launcher](https://github.com/sduduzog/slim-launcher), [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher)
+* [Smart Launcher](https://www.smartlauncher.net/) - [Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#smartlauncher-pro)
+* [Lawnchair](https://lawnchair.app/) - [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) - [Lawnfeed](https://github.com/LawnchairLauncher/lawnfeed)
+* [Nova Launcher](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/) - Check Stable or Beta Downloads
+* [App Manager](https://muntashirakon.github.io/AppManager/) - [GitHub](https://github.com/MuntashirAkon/AppManager) / [F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)
+* [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/), [2](https://www.apkmirror.com/apk/aurora-oss/warden/)
+
+[Neo Launcher](https://github.com/NeoApplications/Neo-Launcher), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [Activity Launcher](https://github.com/butzist/ActivityLauncher), [Smart Dock](https://github.com/axel358/smartdock), [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher), [Olauncher](https://github.com/jooooscha/Olauncher), [Unlauncher](https://github.com/jkuester/unlauncher), [Ratio](https://blloc.com/), [Edge Card Launcher](https://play.google.com/store/apps/details?id=com.reactivstudios.android.edge4), [Stario Launcher](https://play.google.com/store/apps/details?id=com.stario.launcher), [Discreet Launcher](https://github.com/falzonv/discreet-launcher), [Taskbar](https://play.google.com/store/apps/details?id=com.farmerbb.taskbar), [Kvaesitso](https://kvaesitso.mm20.de/), [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher&hl=en&gl=US), [Inure App Manager](https://github.com/Hamza417/Inure), [KISS launcher](https://kisslauncher.com/), [Lynx Launcher](https://www.lynxlauncher.de/), [Slim launcher](https://github.com/sduduzog/slim-launcher), [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher)
 
 ***
 
