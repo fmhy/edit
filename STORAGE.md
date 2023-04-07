@@ -55,14 +55,14 @@
 * ⭐ **[Baidu](https://www.baidu.com/)** - [PHP Version](https://github.com/yuantuo666/baiduwp-php)
 * ⭐ **[r0.ru](https://r0.ru/)**
 * ⭐ **[Ecosia](https://www.ecosia.org/)** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
-* [MWMBL](https://mwmbl.org/) + [GitHub](https://github.com/mwmbl/mwmbl)
-* [You](https://you.com/) + [AI Search](https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat)
-* [Presearch](https://presearch.org/) + [GitHub](https://github.com/presearchofficial)
+* [MWMBL](https://mwmbl.org/) - [GitHub](https://github.com/mwmbl/mwmbl)
+* [You](https://you.com/) - [AI Search](https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat)
+* [Presearch](https://presearch.org/) - [GitHub](https://github.com/presearchofficial)
 * [Fagan Finder](https://www.faganfinder.com/) - Index
 * [DirectSearch.Net](http://www.directsearch.net/) - Index
 * [Search Engine Colossus](https://www.searchenginecolossus.com/) - Index
 * [Search-Engine](https://start.me/p/wM7y15/search-engine) - Index
-* [Harmari Search](https://www.harmari.com/harmari-search/) - You'll need to fill the form and wait for access, phone number isn't required
+* [Harmari Search](https://www.harmari.com/harmari-search/) - Signup / Wait List
 
 [Bing](https://www.bing.com/), [OceanHero](https://oceanhero.today/), [llarryyllarryy's Search Engine](https://llarryyllarryy.github.io/Max-Impact-Search/), [Lycos](https://www.lycos.com/), [dogpile](https://www.dogpile.com/), [Advangle](http://advangle.com/), [WebCrawler](https://www.webcrawler.com/), [Million Short](https://millionshort.com/), [Wiby](https://www.wiby.me/), [Goodshop](https://www.goodshop.com/), [Andi](https://andisearch.com/), [Instya](https://www.instya.com/), [Impersonal.me](https://ambition.dk/impersonal/), [Excite](https://search.excite.com/), [oscobo](https://www.oscobo.com/), [search](https://www.search.com/), [Metacrawler](https://www.metacrawler.com/), [fefoo](http://fefoo.com/), [entireweb](https://www.entireweb.com/), [ChatNoir](https://www.chatnoir.eu/), [Petal Search](https://petalsearch.com/), [seekport](http://www.seekport.com/), [Exalead](https://www.exalead.com/search/), [search.tl](http://www.search.tl/), [Carrot2](https://search.carrot2.org/#/web), [Surf Canyon](http://www.surfcanyon.com/), [4Search](https://www.4search.com/), [Info.com](https://www.info.com/), [Yahoo](https://www.yahoo.com/), [FrogFind!](http://frogfind.com/), [Visymo Search](https://search.visymo.com/), [Entfer](https://entfer.com/), [AOL](https://search.aol.com/), [All in One](https://all-io.net/), [All the Internet](https://www.alltheinternet.com/), [eTools.ch](https://www.etools.ch/), [Fagan Finder](https://www.faganfinder.com/), [Goofram](http://www.goofram.com/), [iZito](https://www.izito.com/), [MyAllSearch](http://www.myallsearch.com/), [ZapMeta](https://www.zapmeta.com/), [BizNar](https://biznar.com/biznar/desktop/en/search.html), [WorldWideScience](https://worldwidescience.org/), [Startpage](https://www.startpage.com/), [ZincSearch](https://github.com/zincsearch/zincsearch), [Whoogle Search](https://benbusby.com/projects/whoogle-search/)
 
