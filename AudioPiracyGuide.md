@@ -147,7 +147,6 @@
 * [BakaRadio](https://www.bakaradio.net/app-bakaradio-player/) - Anime Radio
 * [Rainwave](https://rainwave.cc/), [Squid Radio](https://www.squid-radio.net/), [RPGGamers Radio](http://www.rpgamers.net/radio/), [VGMRadio](https://vgmradio.com/) or [VGM](https://vgm.mmosvc.com/) - Video Game Music Radio
 * [Nectarine](https://www.scenestream.net/demovibes/streams/) - Demo Scene Music Radio
-* [Yesterweb Live Radio](https://yesterweb.org/radio) - Independent Music Radio
 * [Radio Garden](https://radio.garden/) - Worldwide Radio
 * [Radiooooo](https://radiooooo.com/) - Radio / Time Machine
 * [Campus FM](https://www.campus-fm.com/) - College Radio
@@ -213,7 +212,7 @@
 * [Ambient Mixer](https://www.ambient-mixer.com/) - Ambient / Lofi
 * [tree.fm](https://www.tree.fm/) - Ambient Forest Sounds
 * [VibeOcean](https://defonic.com/vibeocean.html) - Ambient Ocean Sounds
-* [Calm](https://app.www.calm.com/) - Meditation / Sleep Music 
+* [Calm](https://www.calm.com/app) - Meditation / Sleep Music 
 * [Tide.fm](https://tide.fm/) - Meditation / Sleep Sounds
 * [WhiteNoiseFan](https://www.whitenoisefan.com/) - White Noise Generator
 * [ChillOuts](http://www.chillouts.com/) - Meditation Aid
@@ -242,7 +241,7 @@
 * ⭐ **[Slavart](https://discord.gg/YbQ2GBmy23)** - Deezer, Spotify, Apple Music, YouTube, Qobuz, TIDAL & SoundCloud Download Bot / [Site](https://slavart.gamesdrive.net/), [2](https://gamesdrive.net/) / [Divolt](https://slavart.divolt.xyz) / [Telegram](https://t.me/+9znaxmYJB5lkNzA8) / [Qobuz Copy](https://rentry.co/qobuz-slavart)
 * ⭐ **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Download from Spotify
 * ⭐ **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download from YouTube
-* ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.github.io/nicotine-plus/) - FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd) / [Android](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)
+* ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
 * ⭐ **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - Telegram Audio Download Channels / [Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots)
 * [/r/xTrill](https://reddit.com/r/xTrill) - MP3 / FLAC / [Backup](https://reddit.com/r/xTrillBackup)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer, TIDAL, Qobuz, YouTube, and SoundCloud Downloader / [Colab](https://github.com/taskylizard/rip)
