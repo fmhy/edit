@@ -20,7 +20,7 @@
 * [HotAudiobooks](https://hotaudiobooks.com) - Listen Online 
 * [HDAudiobooks](https://hdaudiobooks.com/) - Listen Online
 * [BigAudiobooks](https://bigaudiobooks.com/) - Listen Online
-* [BookAudiobook](https://bookaudiobook.com/) - Listen Online
+* [BookAudiobook](https://bookaudiobooks.com/) - Listen Online
 * [HD Audio Books](https://hdaudiobooks.com/) - Listen Online
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) - Listen Online
 * [Audiobooks Lab](https://audiobooklabs.com/) - Listen Online
@@ -28,10 +28,10 @@
 * [Audio AZ](https://audioaz.com/) - Listen Online
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - Listen Online / Select Playlists
 * [AudioBooksBeyond](https://odysee.com/@AudioBooksBeyond:1) - Audiobooks / Listen Online
-* [xAudiobooks](https://xaudiobooks.com/)
+* [AudioBooksBee](https://audiobooksbee.com/)
 * [Audiobookss](https://audiobookss.com/)
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks) 
-* [Golden Audiobooks](https://goldenaudiobooks.com/)
+* [Golden Audiobooks](https://goldenaudiobook.com/)
 * [LoudLit](http://loudlit.org/) 
 * [Read For Me](https://www.readsforme.com/) 
 * [DigitalBook](https://www.digitalbook.io/) 
@@ -44,7 +44,6 @@
 * [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - Classic Audiobooks
 * [Storynory](https://www.storynory.com/) - Children Audio Stories
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - Audiobooks / Poetry
-* [Blinkist Free Daily](https://t.me/blinkistfree) - Self-Help Audiobooks
 * [Audiobooks Unleashed](https://audiobooksunleashed.com/) - Audiobook Codes
 * [/r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
 * [/r/audiobookrequest](https://reddit.com/r/audiobookrequest) - Request Audiobooks
@@ -56,10 +55,10 @@
 
 # ► Reading Sites
 
-* ⭐ **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [5](https://ravebooksearch.com/) - Multi-Site Book Search
+* ⭐ **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [5](https://ravebooksearch.com/) / [6](https://recherche-ebook.fr/en/) - Multi-Site Book Search
 * ⭐ **[Anna’s Archive](https://annas-archive.org/)** - Books / Comics / Educational
 * ⭐ **[Z-Library](https://singlelogin.me/)**, [2](https://1login.to/) - Books / Comics / Educational
-* ⭐ **Z-Lib Tools** - [Megathread](https://redd.it/zx6z62) / [I2P](http://kkd7tiqf5lv3olqfdnkw4znmmmmnjo2xqlxrp5ntthp6juowaiha.b32.i2p) / [Removed Books](https://t.me/firstlibrarybot) / [Backup](http://pilimi.org/) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Amazon Links](https://github.com/annaelmoussa/amazon-zlibrary) / [Subreddit](https://www.reddit.com/r/zlibrary/)
+* ⭐ **Z-Lib Tools** - [Megathread](https://redd.it/zx6z62) / [I2P](http://kkd7tiqf5lv3olqfdnkw4znmmmmnjo2xqlxrp5ntthp6juowaiha.b32.i2p) / [Backup](http://pilimi.org/) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Amazon Links](https://github.com/annaelmoussa/amazon-zlibrary) / [Subreddit](https://www.reddit.com/r/zlibrary/)
 * ⭐ **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools) / [ACSM Plugin](https://github.com/Leseratte10/acsm-calibre-plugin)
 * ⭐ **[Library Genesis](https://libgen.fun/)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen__mirrors)
@@ -137,11 +136,10 @@
 * [Sharing eBook](https://www.sharingebook.com/) - Books 
 * [DigitalBook](https://www.digitalbook.io/) - Books
 * [Goodfileshare](https://goodfileshare.com/) - Books
-* [FeedBooks](http://m.feedbooks.com/publicdomain) - Books
 * [eBook Lobby](http://www.ebooklobby.com/) - Books  
 * [Avalon Library](https://avalonlibrary.net/) - Books
 * [D-PDF](https://d-pdf.com/) - Books
-* [GrayCity](https://graycity.net/) - Books
+* [EReads](https://ereads.net/) - Books
 * [CentslessBooks](https://centslessbooks.com/) - Books 
 * [Litgu.ru](https://litgu.ru/) - Books
 * [British Library](https://www.bl.uk/) - Books
@@ -156,7 +154,6 @@
 * [lesatkins](http://www.lesatkins.com/books/epubfiles/) - Books
 * [Flibusta](https://flibusta.is/) - Books / [I2P](http://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) / Requires account
 * [The Free Book Library](http://ebooks.i2p/) - Books / I2P Required
-* [Ebooks Searcher](https://ebook-searcher.com/) - Multi-Site Book Search 
 * [Weird Old Book Finder](https://weird-old-book-finder.glitch.me/) - Find Old Books
 * [FreeBooksSifter](https://www.freebooksifter.com/) - Free Amazon Books
 * [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Books 
@@ -198,7 +195,7 @@
 * [PDFSearches](https://pdfsearches.com/) - Books
 * [OiiPDF](https://oiipdf.com/) - Books
 * [PDFSlide](https://pdfslide.net/) - Books
-* [EDoc](https://www.edoc.site/) - Books
+* [iDoc](https://idoc.tips/) - Books
 * [PDFDuck](https://pdfduck.com/) - Books
 * [PDF Stop](https://pdfstop.com/) - Books
 * [freepdfbook](http://www.freepdfbook.com/) - Books 
