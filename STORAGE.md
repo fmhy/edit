@@ -237,11 +237,13 @@
 
 ####  Automation Tools
 
-[integromat](https://www.make.com/), [zapier](https://zapier.com/), [huginn](https://github.com/huginn/huginn), [ifttt](https://ifttt.com/), [Microsoft Flow](https://flow.microsoft.com/), [n8n](https://n8n.io/), [automatio](https://automatio.co/), [Bardeen](https://www.bardeen.ai/), [Browserflow](https://browserflow.app/), [rrweb](https://www.rrweb.io/) / [GitHub](https://github.com/rrweb-io/rrweb), [Selenium](https://www.selenium.dev/)
+* [rrweb](https://www.rrweb.io/) - [GitHub](https://github.com/rrweb-io/rrweb)
+
+[Make](https://www.make.com/), [Zapier](https://zapier.com/), [Huginn](https://github.com/huginn/huginn), [IFTTT](https://ifttt.com/), [Microsoft Power Automate](https://powerautomate.microsoft.com/), [n8n](https://n8n.io/), [Automatio](https://automatio.co/), [Bardeen](https://www.bardeen.ai/), [Browserflow](https://browserflow.app/), [Selenium](https://www.selenium.dev/)
 
 **Extensions**
 
-[Automa](https://www.automa.site/) or [Headless-Recorder](https://github.com/checkly/headless-recorder)
+[Automa](https://www.automa.site/)
 
 ***
 
