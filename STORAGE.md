@@ -74,7 +74,7 @@
 
 #### Alternative Software / App Sites
 
-⭐ **[AlternativeTo](https://alternativeto.net/)**
+* ⭐ **[AlternativeTo](https://alternativeto.net/)**
 
 [Ethical](https://ethical.net/resources/), [Slant](https://www.slant.co/), [SaaSHub](https://www.saashub.com/), [switching.software](https://switching.software/), [ALTERNATIVES TO BLOATWARE](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md), [Alternative.me](https://alternative.me/), [Top Best Alternatives](https://www.topbestalternatives.com/), [gofoss.net](https://gitlab.com/curlycrixus/gofoss), [osalt](http://osalt.com/), [Open Source Alternative To](https://www.opensourcealternative.to/), [Alternative Book!](https://alternativebk.com/), [TopAlter.com](https://topalter.com/), [PRISM Break](https://prism-break.org/), [ListAlternative](https://www.listalternative.com/), [Free Competitors](https://notabug.org/jyamihud/FreeCompetitors)
 
@@ -82,7 +82,7 @@
 
 #### Ambient Rain Sounds
 
-⭐ **[Rainy Mood](https://www.rainymood.com/)**
+* ⭐ **[Rainy Mood](https://www.rainymood.com/)**
 
 [Rainbow Hunt](https://rainbowhunt.com/), [Pluvior](https://pluvior.com/), [rainfor.me](http://rainfor.me/), [Raining.fm](https://raining.fm/), [Rainyscope](https://rainyscope.com/)
 
@@ -109,10 +109,10 @@
 
 #### Android File Explorers
 
-* [rcx](https://x0b.github.io/) / [GitHub](https://github.com/x0b/rcx)
+* [rcx](https://x0b.github.io/) - [GitHub](https://github.com/x0b/rcx)
 * [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
-* [Amaze File Manager](https://teamamaze.xyz/) / [GitHub](https://github.com/TeamAmaze/AmazeFileManager)
-* [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager) / [GitHub](https://github.com/SimpleMobileTools/Simple-File-Manager)
+* [Amaze File Manager](https://teamamaze.xyz/) - [GitHub](https://github.com/TeamAmaze/AmazeFileManager)
+* [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager) - [GitHub](https://github.com/SimpleMobileTools/Simple-File-Manager)
 
 [Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://github.com/nbats/FMHYedit/blob/main/base64.md#solid-explorer), [Material Files](https://github.com/zhanghai/MaterialFiles), [AnExplorer](https://github.com/1hakr/AnExplorer), [ES File Explorer](https://archive.org/details/es-file-explorergood-version), [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), [IrkFM](https://github.com/lfuelling/lrkFM), [File Manager](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager), [Astro](https://play.google.com/store/apps/details?id=com.metago.astro), [SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
 
