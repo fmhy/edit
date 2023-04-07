@@ -55,9 +55,9 @@
 * ⭐ **[Baidu](https://www.baidu.com/)** - [PHP Version](https://github.com/yuantuo666/baiduwp-php)
 * ⭐ **[r0.ru](https://r0.ru/)**
 * ⭐ **[Ecosia](https://www.ecosia.org/)** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
-* [MWMBL](https://mwmbl.org/) + [GitHub](https://github.com/mwmbl/mwmbl)
-* [You](https://you.com/) + [AI Search](https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat)
-* [Presearch](https://presearch.org/) + [GitHub](https://github.com/presearchofficial)
+* [MWMBL](https://mwmbl.org/) / [GitHub](https://github.com/mwmbl/mwmbl)
+* [You](https://you.com/) / [AI Search](https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat)
+* [Presearch](https://presearch.org/) / [GitHub](https://github.com/presearchofficial)
 * [Fagan Finder](https://www.faganfinder.com/) - Index
 * [DirectSearch.Net](http://www.directsearch.net/) - Index
 * [Search Engine Colossus](https://www.searchenginecolossus.com/) - Index
@@ -109,7 +109,12 @@
 
 #### Android File Explorers
 
-[Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://github.com/nbats/FMHYedit/blob/main/base64.md#solid-explorer), [rcx](https://x0b.github.io/) / [GitHub](https://github.com/x0b/rcx), [MaterialFiles](https://github.com/zhanghai/MaterialFiles), [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator), [AmazeFileManager](https://teamamaze.xyz/) / [GitHub](https://github.com/TeamAmaze/AmazeFileManager), [FileManager](https://github.com/SimpleMobileTools/Simple-File-Manager), [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager), [AnExplorer](https://github.com/1hakr/AnExplorer), [ES File Explorer](https://archive.org/details/es-file-explorergood-version), [CX File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), [IrkFM](https://github.com/lfuelling/lrkFM), [File Manager](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager), [Astro](https://play.google.com/store/apps/details?id=com.metago.astro), [sdmaid-se](https://github.com/d4rken-org/sdmaid-se)
+* [rcx](https://x0b.github.io/) / [GitHub](https://github.com/x0b/rcx)
+* [MiXplorer](https://mixplorer.com/) / [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
+* [Amaze File Manager](https://teamamaze.xyz/) / [GitHub](https://github.com/TeamAmaze/AmazeFileManager)
+* [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager) / [GitHub](https://github.com/SimpleMobileTools/Simple-File-Manager)
+
+[Ghost Commander](https://f-droid.org/en/packages/com.ghostsq.commander/), [Solid Explorer](https://github.com/nbats/FMHYedit/blob/main/base64.md#solid-explorer), [Material Files](https://github.com/zhanghai/MaterialFiles), [AnExplorer](https://github.com/1hakr/AnExplorer), [ES File Explorer](https://archive.org/details/es-file-explorergood-version), [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), [IrkFM](https://github.com/lfuelling/lrkFM), [File Manager](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager), [Astro](https://play.google.com/store/apps/details?id=com.metago.astro), [SD Maid SE](https://github.com/d4rken-org/sdmaid-se)
 
 ***
 
