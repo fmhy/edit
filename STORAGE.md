@@ -11,29 +11,29 @@
 * ⭐ **[Blender](https://www.blender.org/)** 
 * ⭐ **Blender Tools** - [Resources](https://github.com/agmmnn/awesome-blender) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [Plugins](https://t.me/blenderplugs) / [AI Render](https://github.com/benrugg/AI-Render)
 
-[Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketch.Me](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [Chakoku](https://github.com/itta611/ChokokuCAD), [PovRay](http://www.povray.org/), [FreeCAD](https://www.freecad.org/), [PicoCad](https://johanpeitz.itch.io/picocad), [Vectary](https://www.vectary.com/), [LibreCAD](https://librecad.org/), [Art of Illusion](http://aoi.sourceforge.net/), [BRL-CAD](https://brlcad.org/), [posturize](https://get.posturize-app.com/)
+[Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketchMe](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [ChokokuCAD](https://github.com/itta611/ChokokuCAD), [POV-Ray](http://www.povray.org/), [FreeCAD](https://www.freecad.org/), [picoCAD](https://johanpeitz.itch.io/picocad), [Vectary](https://www.vectary.com/), [LibreCAD](https://librecad.org/), [Art of Illusion](http://aoi.sourceforge.net/), [BRL-CAD](https://brlcad.org/), [Posturize](https://get.posturize-app.com/)
 
 ***
 
 #### 3D Models
 
-⭐ **[Thingiverse](https://www.thingiverse.com/)**
+* ⭐ **[Thingiverse](https://www.thingiverse.com/)**
 
-[CGPersia](https://cgpersia.com/), [Clara](https://clara.io/library), [Sketchfab](https://sketchfab.com/), [GrabCad](https://grabcad.com/), [Daz3D](https://www.3dcu.com/), [3DRU](https://3dru.net/), [CGDownloads](https://cgdownloads.com/), [P3DM](https://p3dm.ru/), [3D-Load](https://3d-load.net/), [CGTrader](https://www.cgtrader.com/free-3d-models), [Free3D](https://free3d.com/), [VRModels](https://vrmodels.store/), [TurboSquid](https://www.turbosquid.com/), [CadNav](https://www.cadnav.com/), [BlendSwap](https://www.blendswap.com/), [3DModelsCC0](https://www.3dmodelscc0.com/), [Blenders-Models](https://www.blender-models.com/), [Render State](https://render-state.to/), [Open3DModel](https://www.open3dmodel.com/), [KiCad](https://kicad.github.io/), [Archive3d](https://archive3d.net/), [TopGFX](http://topgfx.info/index.php), [3DPirate](https://3dpirate.net/), [3dexport](https://3dexport.com/free-3d-models), [shop3dmili](https://shop3dmili.com/free), [archibaseplanet](https://archibaseplanet.com/), [cults3d](https://cults3d.com/), [3dsky](https://3dsky.org/), [turbosquid](https://www.turbosquid.com/Search/3D-Models/free), [3dwarehouse](https://3dwarehouse.sketchup.com/), [BlenderKit](https://www.blenderkit.com/), [3Dmili](https://3dmili.com/), [3DFree](https://www.3dfree.top/), [poly.pizza](https://poly.pizza/), [rigmodels](https://rigmodels.com/), [Printables](https://www.printables.com/), [Thangs](https://thangs.com/), [pinshape](https://pinshape.com/), [NASA 3D](https://nasa3d.arc.nasa.gov/models/printable), [cgworld_1](https://t.me/cgworld_1), [blender_addon](https://t.me/blender_addon)
+[CG Persia](https://cgpersia.com/), [Clara.io](https://clara.io/library), [Sketchfab](https://sketchfab.com/), [GrabCAD](https://grabcad.com/), [3DCU](https://www.3dcu.com/), [3DLOAD](https://3dru.net/), [CGdownloads](https://cgdownloads.com/), [Pack 3d models](https://p3dm.ru/), [3DLOAD](https://3d-load.net/), [cgtrader](https://www.cgtrader.com/free-3d-models), [Free3D](https://free3d.com/), [VRModels](https://vrmodels.store/), [CadNav](https://www.cadnav.com/), [Blend Swap](https://www.blendswap.com/), [3DModelsCC0](https://www.3dmodelscc0.com/), [Blender 3D Models](https://www.blender-models.com/), [Render-State](https://render-state.to/), [Open3dModel](https://www.open3dmodel.com/), [KiCad](https://kicad.github.io/), [Archive3D](https://archive3d.net/), [TopGFX](http://topgfx.info/index.php), [3dpirate](https://3dpirate.net/), [3DExport](https://3dexport.com/free-3d-models), [3DMili Free Shop](https://shop3dmili.com/free), [ArchibasePlanet](https://archibaseplanet.com/), [Cults](https://cults3d.com/), [3dsky](https://3dsky.org/), [TurboSquid](https://www.turbosquid.com/Search/3D-Models/free), [3D Warehouse](https://3dwarehouse.sketchup.com/), [BlenderKit](https://www.blenderkit.com/), [3DMili](https://3dmili.com/), [3DFree](https://www.3dfree.top/), [poly.pizza](https://poly.pizza/), [RIGModels](https://rigmodels.com/), [Printables](https://www.printables.com/), [Thangs](https://thangs.com/), [Pinshape](https://pinshape.com/), [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/printable), [CG World](https://t.me/cgworld_1), [Blender Add-on](https://t.me/blender_addon)
 
 ***
 
-#### 3DS Roms
+#### 3DS ROMs
 
-* [3DSROMS](https://3dsroms.org)
-* [ciaspara3ds](https://ciaspara3ds.blogspot.com/)
-* [HShop](https://hshop.erista.me/)
+[3DS ROMS](https://3dsroms.org), [Cias para 3DS](https://ciaspara3ds.blogspot.com/), [hShop](https://hshop.erista.me/)
 
 ***
 
 #### 4chan Archives
 
-[4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion), [old.sage](https://old.sage.moe/), [BibAnon](http://vyrd.bibanon.org/), [4Museum](https://4museum.neocities.org/), [Archive.4plebs](https://archive.4plebs.org/), [arch.b4k](https://arch.b4k.co/), [Sup/tg/](http://suptg.thisisnotatrueending.com/), [4chanSearch](https://4chansearch.com/), [4search](https://4search.neocities.org/), [palanq](https://archive.palanq.win/), [boards.4channel](https://boards.4channel.org/search) / [2](https://boards.4chan.org/search), [desuarchive](https://desuarchive.org/)
+* [boards.4channel](https://boards.4channel.org/search) / [2](https://boards.4chan.org/search)
+
+[4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion), [old.sage](https://old.sage.moe/), [BibAnon](http://vyrd.bibanon.org/), [4Museum](https://4museum.neocities.org/), [Archive.4plebs](https://archive.4plebs.org/), [arch.b4k](https://arch.b4k.co/), [Sup/tg/](http://suptg.thisisnotatrueending.com/), [4chanSearch](https://4chansearch.com/), [4search](https://4search.neocities.org/), [palanq](https://archive.palanq.win/), [desuarchive](https://desuarchive.org/)
 
 ***
 
@@ -41,9 +41,8 @@
 
 * ⭐ **[AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra)** / [Script](https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js)
 * ⭐ **[fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/)**
-* [Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt)
-* [Assassinate Ad Block Blockers](https://greasyfork.org/en/scripts/382482-assassinate-ad-block-blockers)
-* [Test Adblock Defender](https://blockads.fivefilters.org/)
+
+[Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt), [Assassinate Ad Block Blockers](https://greasyfork.org/en/scripts/382482-assassinate-ad-block-blockers), [Test Adblock Defender](https://blockads.fivefilters.org/)
 
 ***
 
@@ -54,80 +53,22 @@
 * ⭐ **[Yandex](https://yandex.com/)**
 * ⭐ **[Mail.ru](https://mail.ru/)**
 * ⭐ **[Baidu](https://www.baidu.com/)** - [PHP Version](https://github.com/yuantuo666/baiduwp-php)
-* ⭐ **[r0.ru](https://r0.ru/)** 
+* ⭐ **[r0.ru](https://r0.ru/)**
 * ⭐ **[Ecosia](https://www.ecosia.org/)** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
-* https://www.bing.com/
+* [MWMBL](https://mwmbl.org/) + [GitHub](https://github.com/mwmbl/mwmbl)
+* [You](https://you.com/) + [AI Search](https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat)
+* [Presearch](https://presearch.org/) + [GitHub](https://github.com/presearchofficial)
 * [Fagan Finder](https://www.faganfinder.com/) - Index
 * [DirectSearch.Net](http://www.directsearch.net/) - Index
 * [Search Engine Colossus](https://www.searchenginecolossus.com/) - Index
 * [Search-Engine](https://start.me/p/wM7y15/search-engine) - Index
-* https://oceanhero.today/
-* https://llarryyllarryy.github.io/Max-Impact-Search/
-* https://www.lycos.com/
-* https://www.dogpile.com/
-* http://advangle.com/
-* https://www.webcrawler.com/ 
-* https://millionshort.com/
-* https://www.wiby.me/
-* https://www.goodshop.com/
-* https://mwmbl.org/ + [GitHub](https://github.com/mwmbl/mwmbl)
-* https://lazyweb.ai/
-* https://www.instya.com/
-* https://ambition.dk/impersonal/
-* https://education.iseek.com/iseek/home.page
-* https://www.lycos.com/
-* https://search.excite.com/
-* https://www.oscobo.com/
-* https://www.search.com/
-* https://www.metacrawler.com/
-* http://fefoo.com/
-* https://www.entireweb.com/
-* https://www.chatnoir.eu/
-* https://petalsearch.com/
-* http://www.seekport.com/
-* https://www.exalead.com/search/
-* http://www.search.tl/
-* https://andisearch.com/
-* https://search.carrot2.org/#/web
-* http://www.surfcanyon.com/
-* https://you.com/ + [AI Search](https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat)
-* https://www.4search.com/
-* https://www.info.com/
-* https://www.yahoo.com/
-* http://frogfind.com/
-* https://search.visymo.com/
-* https://entfer.com/
-* https://presearch.org/ + [GitHub](https://github.com/presearchofficial)
-* https://search.aol.com/
-* https://www.entireweb.com/
-* https://all-io.net/
-* https://www.alltheinternet.com/
-* https://www.etools.ch/
-* https://www.faganfinder.com/
-* http://www.goofram.com/
-* https://www.izito.com/
-* http://www.myallsearch.com/
-* https://www.zapmeta.com/
-* https://biznar.com/biznar/desktop/en/search.html
-* https://www.etools.ch/search.do
-* https://www.harmari.com/search/unified/
-* https://worldwidescience.org/
-* https://www.startpage.com/
-* https://github.com/zincsearch/zincsearch
-* https://benbusby.com/projects/whoogle-search/
+* [Harmari Search](https://www.harmari.com/harmari-search/) - You'll need to fill the form and wait for access, phone number isn't required
+
+[Bing](https://www.bing.com/), [OceanHero](https://oceanhero.today/), [llarryyllarryy's Search Engine](https://llarryyllarryy.github.io/Max-Impact-Search/), [Lycos](https://www.lycos.com/), [dogpile](https://www.dogpile.com/), [Advangle](http://advangle.com/), [WebCrawler](https://www.webcrawler.com/), [Million Short](https://millionshort.com/), [Wiby](https://www.wiby.me/), [Goodshop](https://www.goodshop.com/), [Andi](https://andisearch.com/), [Instya](https://www.instya.com/), [Impersonal.me](https://ambition.dk/impersonal/), [Excite](https://search.excite.com/), [oscobo](https://www.oscobo.com/), [search](https://www.search.com/), [Metacrawler](https://www.metacrawler.com/), [fefoo](http://fefoo.com/), [entireweb](https://www.entireweb.com/), [ChatNoir](https://www.chatnoir.eu/), [Petal Search](https://petalsearch.com/), [seekport](http://www.seekport.com/), [Exalead](https://www.exalead.com/search/), [search.tl](http://www.search.tl/), [Carrot2](https://search.carrot2.org/#/web), [Surf Canyon](http://www.surfcanyon.com/), [4Search](https://www.4search.com/), [Info.com](https://www.info.com/), [Yahoo](https://www.yahoo.com/), [FrogFind!](http://frogfind.com/), [Visymo Search](https://search.visymo.com/), [Entfer](https://entfer.com/), [AOL](https://search.aol.com/), [All in One](https://all-io.net/), [All the Internet](https://www.alltheinternet.com/), [eTools.ch](https://www.etools.ch/), [Fagan Finder](https://www.faganfinder.com/), [Goofram](http://www.goofram.com/), [iZito](https://www.izito.com/), [MyAllSearch](http://www.myallsearch.com/), [ZapMeta](https://www.zapmeta.com/), [BizNar](https://biznar.com/biznar/desktop/en/search.html), [WorldWideScience](https://worldwidescience.org/), [Startpage](https://www.startpage.com/), [ZincSearch](https://github.com/zincsearch/zincsearch), [Whoogle Search](https://benbusby.com/projects/whoogle-search/)
 
 **Non-English**
 
-* http://www.alleba.com/
-* https://www.eniro.se/
-* https://www.goo.ne.jp/
-* http://www.najdi.si/
-* https://www.naver.com/
-* https://www.orange.fr/portail
-* http://www.parseek.com/
-* https://www.sapo.pt/
-* https://www.walla.co.il/
-* https://www.2lingual.com/
+[Eniro](https://www.eniro.se/), [goo](https://www.goo.ne.jp/), [Najdi.si](http://www.najdi.si/), [NAVER](https://www.naver.com/), [Portail Orange](https://www.orange.fr/portail), [parseek](http://www.parseek.com/), [SAPO](https://www.sapo.pt/), [Walla](https://www.walla.co.il/), [2lingual](https://www.2lingual.com/)
 
 ***
 
@@ -135,13 +76,13 @@
 
 ⭐ **[AlternativeTo](https://alternativeto.net/)**
 
-[Ethical](https://ethical.net/resources/), [Slant](https://www.slant.co/), [SaaSHub](https://www.saashub.com/), [switching.software](https://switching.software/), [ALTERNATIVES](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md), [Alternative.me](https://alternative.me/), [Top Best Alternatives](https://www.topbestalternatives.com/), [GoFOSS](https://gitlab.com/curlycrixus/gofoss), [osalt](http://osalt.com/), [Open Source Alternatives](https://www.opensourcealternative.to/), [AlternativeBK](https://alternativebk.com/), [TopAlter](https://topalter.com/), [Prism Break](https://prism-break.org/), [listalternative](https://www.listalternative.com/), [FreeCompetitors](https://notabug.org/jyamihud/FreeCompetitors)
+[Ethical](https://ethical.net/resources/), [Slant](https://www.slant.co/), [SaaSHub](https://www.saashub.com/), [switching.software](https://switching.software/), [ALTERNATIVES TO BLOATWARE](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md), [Alternative.me](https://alternative.me/), [Top Best Alternatives](https://www.topbestalternatives.com/), [gofoss.net](https://gitlab.com/curlycrixus/gofoss), [osalt](http://osalt.com/), [Open Source Alternative To](https://www.opensourcealternative.to/), [Alternative Book!](https://alternativebk.com/), [TopAlter.com](https://topalter.com/), [PRISM Break](https://prism-break.org/), [ListAlternative](https://www.listalternative.com/), [Free Competitors](https://notabug.org/jyamihud/FreeCompetitors)
 
 ***
 
 #### Ambient Rain Sounds
 
-⭐ **[RainyMood](https://www.rainymood.com/)**
+⭐ **[Rainy Mood](https://www.rainymood.com/)**
 
 [Rainbow Hunt](https://rainbowhunt.com/), [Pluvior](https://pluvior.com/), [rainfor.me](http://rainfor.me/), [Raining.fm](https://raining.fm/), [Rainyscope](https://rainyscope.com/)
 
@@ -150,9 +91,9 @@
 #### Android Audio Players
 
 * ⭐ **[AIMP](http://www.aimp.ru/?do=download&os=android)**
-* ⭐ **[Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet&hl=en_US&gl=US)**
+* ⭐ **[Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet&hl=en_US&gl=US)**
 
-[VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer), [BlackHole](https://github.com/Sangwan5688/BlackHole), [RAAG](https://github.com/raag-music/raag/), [Metro](https://f-droid.org/en/packages/io.github.muntashirakon.Music/), [Pulse Music](https://f-droid.org/en/packages/com.hardcodecoder.pulsemusic/), [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer), [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/), [RetroPad](https://jamesob.com/apps/retropod.html), [Apollo-Music](https://github.com/nuclearfog/Apollo-Music), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx](https://play.google.com/store/apps/details?id=com.awedea.nyx), [Serenity](https://github.com/YajanaRao/Serenity), [ExoPlayer](https://github.com/google/ExoPlayer), [Timber](https://github.com/naman14/Timber), [TimberX](https://github.com/naman14/TimberX), [Howl](https://github.com/Iamlooker/Howl), [SoundSpice](https://github.com/farshed/SoundSpice-mobile), [Bungee](https://github.com/OpenConsultingGroup/Flutter-Music-App), [DialogMusicPlayer](https://github.com/VishnuSanal/DialogMusicPlayer), [Mucke](https://github.com/moritz-weber/mucke), [Phonograph Plus](https://github.com/chr56/Phonograph_Plus), [Symphony](https://github.com/zyrouge/symphony), [Musicmax](https://github.com/MaximillianLeonov/Musicmax), [tearmusic](https://github.com/tearone/tearmusic), [Stellio](https://stellio.ru/en), [piyush](https://play.google.com/store/apps/details?id=com.piyush.music), [Pulse](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse), [Frolo](https://play.google.com/store/apps/details?id=com.frolo.musp), [Zen](https://github.com/pakka-papad/Zen)
+[VLC for Android](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer), [BlackHole](https://github.com/Sangwan5688/BlackHole), [RAAG](https://github.com/raag-music/raag/), [Metro](https://f-droid.org/en/packages/io.github.muntashirakon.Music/), [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer), [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/), [retroPod](https://jamesob.com/apps/retropod.html), [Apollo Music Player](https://github.com/nuclearfog/Apollo-Music), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx), [Serenity](https://github.com/YajanaRao/Serenity), [ExoPlayer](https://github.com/google/ExoPlayer), [Timber](https://github.com/naman14/Timber), [TimberX](https://github.com/naman14/TimberX), [Howl Music Player](https://github.com/Iamlooker/Howl), [SoundSpice](https://github.com/farshed/SoundSpice-mobile), [Bungee](https://github.com/OpenConsultingGroup/Flutter-Music-App), [DialogMusicPlayer](https://github.com/VishnuSanal/DialogMusicPlayer), [mucke](https://github.com/moritz-weber/mucke), [Phonograph Plus](https://github.com/chr56/Phonograph_Plus), [Symphony](https://github.com/zyrouge/symphony), [Musicmax](https://github.com/MaximillianLeonov/Musicmax), [Tear Music](https://github.com/tearone/tearmusic), [Stellio Player](https://stellio.ru/en), [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music), [Pulse](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse), [Frolomuse](https://play.google.com/store/apps/details?id=com.frolo.musp), [Zen Music Player](https://github.com/pakka-papad/Zen)
 
 ***
 
