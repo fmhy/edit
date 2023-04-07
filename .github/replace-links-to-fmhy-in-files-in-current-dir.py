@@ -74,7 +74,7 @@ def replace_domain_and_page(text):
     return text
 
 def replace_underscore_in_subsections(text):
-    pattern =  r'(/#[\w]+(?:_[\w]+)*)'
+    pattern =  r'(/#[\w\-]+(?:_[\w]+)*)'
     matches = re.findall(pattern, text)
     for match in matches:
         replacement = match.replace('_', '-')
