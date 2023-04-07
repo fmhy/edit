@@ -10,16 +10,66 @@
 
 * ⭐ **[Blender](https://www.blender.org/)** 
 * ⭐ **Blender Tools** - [Resources](https://github.com/agmmnn/awesome-blender) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [Plugins](https://t.me/blenderplugs) / [AI Render](https://github.com/benrugg/AI-Render)
-
-[Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketch.Me](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [Chakoku](https://github.com/itta611/ChokokuCAD), [PovRay](http://www.povray.org/), [FreeCAD](https://www.freecad.org/), [PicoCad](https://johanpeitz.itch.io/picocad), [Vectary](https://www.vectary.com/), [LibreCAD](https://librecad.org/), [Art of Illusion](http://aoi.sourceforge.net/), [BRL-CAD](https://brlcad.org/), [posturize](https://get.posturize-app.com/)
+* [Spline](https://spline.design/)
+* [Anim8or](https://www.anim8or.com/)
+* [Wings 3D](http://www.wings3d.com/)
+* [JustSketch.Me](https://justsketch.me/)
+* [Tinkercad](https://www.tinkercad.com/)
+* [Chakoku](https://github.com/itta611/ChokokuCAD)
+* [PovRay](http://www.povray.org/)
+* [FreeCAD](https://www.freecad.org/)
+* [PicoCad](https://johanpeitz.itch.io/picocad)
+* [Vectary](https://www.vectary.com/)
+* [LibreCAD](https://librecad.org/)
+* [Art of Illusion](http://aoi.sourceforge.net/)
+* [BRL-CAD](https://brlcad.org/)
+* [posturize](https://get.posturize-app.com/)
 
 ***
 
 #### 3D Models
 
-⭐ **[Thingiverse](https://www.thingiverse.com/)**
-
-[CGPersia](https://cgpersia.com/), [Clara](https://clara.io/library), [Sketchfab](https://sketchfab.com/), [GrabCad](https://grabcad.com/), [Daz3D](https://www.3dcu.com/), [3DRU](https://3dru.net/), [CGDownloads](https://cgdownloads.com/), [P3DM](https://p3dm.ru/), [3D-Load](https://3d-load.net/), [CGTrader](https://www.cgtrader.com/free-3d-models), [Free3D](https://free3d.com/), [VRModels](https://vrmodels.store/), [TurboSquid](https://www.turbosquid.com/), [CadNav](https://www.cadnav.com/), [BlendSwap](https://www.blendswap.com/), [3DModelsCC0](https://www.3dmodelscc0.com/), [Blenders-Models](https://www.blender-models.com/), [Render State](https://render-state.to/), [Open3DModel](https://www.open3dmodel.com/), [KiCad](https://kicad.github.io/), [Archive3d](https://archive3d.net/), [TopGFX](http://topgfx.info/index.php), [3DPirate](https://3dpirate.net/), [3dexport](https://3dexport.com/free-3d-models), [shop3dmili](https://shop3dmili.com/free), [archibaseplanet](https://archibaseplanet.com/), [cults3d](https://cults3d.com/), [3dsky](https://3dsky.org/), [turbosquid](https://www.turbosquid.com/Search/3D-Models/free), [3dwarehouse](https://3dwarehouse.sketchup.com/), [BlenderKit](https://www.blenderkit.com/), [3Dmili](https://3dmili.com/), [3DFree](https://www.3dfree.top/), [poly.pizza](https://poly.pizza/), [rigmodels](https://rigmodels.com/), [Printables](https://www.printables.com/), [Thangs](https://thangs.com/), [pinshape](https://pinshape.com/), [NASA 3D](https://nasa3d.arc.nasa.gov/models/printable), [cgworld_1](https://t.me/cgworld_1), [blender_addon](https://t.me/blender_addon)
+* ⭐ **[Thingiverse](https://www.thingiverse.com/)**
+* [CGPersia](https://cgpersia.com/)
+* [Clara](https://clara.io/library)
+* [Sketchfab](https://sketchfab.com/)
+* [GrabCad](https://grabcad.com/)
+* [Daz3D](https://www.3dcu.com/)
+* [3DRU](https://3dru.net/)
+* [CGDownloads](https://cgdownloads.com/)
+* [Pack 3d models](https://p3dm.ru/)
+* [3DLOAD](https://3d-load.net/)
+* [cgtrader](https://www.cgtrader.com/free-3d-models)
+* [Free3D](https://free3d.com/)
+* [VRModels](https://vrmodels.store/)
+* [CadNav](https://www.cadnav.com/)
+* [Blend Swap](https://www.blendswap.com/)
+* [3DModelsCC0](https://www.3dmodelscc0.com/)
+* [Blender 3D Models](https://www.blender-models.com/)
+* [Render-State](https://render-state.to/)
+* [Open3dModel](https://www.open3dmodel.com/)
+* [KiCad](https://kicad.github.io/)
+* [Archive3D](https://archive3d.net/)
+* [TopGFX](http://topgfx.info/index.php)
+* [3dpirate](https://3dpirate.net/)
+* [3DExport](https://3dexport.com/free-3d-models)
+* [3DMili Free Shop](https://shop3dmili.com/free)
+* [ArchibasePlanet](https://archibaseplanet.com/)
+* [Cults](https://cults3d.com/)
+* [3dsky](https://3dsky.org/)
+* [TurboSquid](https://www.turbosquid.com/Search/3D-Models/free)
+* [3D Warehouse](https://3dwarehouse.sketchup.com/)
+* [BlenderKit](https://www.blenderkit.com/)
+* [3DMili](https://3dmili.com/)
+* [3DFree](https://www.3dfree.top/)
+* [poly.pizza](https://poly.pizza/)
+* [rigmodels](https://rigmodels.com/)
+* [Printables](https://www.printables.com/)
+* [Thangs](https://thangs.com/)
+* [pinshape](https://pinshape.com/)
+* [NASA 3D](https://nasa3d.arc.nasa.gov/models/printable)
+* [cgworld_1](https://t.me/cgworld_1)
+* [blender_addon](https://t.me/blender_addon)
 
 ***
 
