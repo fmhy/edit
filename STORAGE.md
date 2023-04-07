@@ -31,7 +31,7 @@
 
 #### 4chan Archives
 
-* [boards.4channel](https://boards.4channel.org/search) - [2](https://boards.4chan.org/search)
+* [boards.4channel](https://boards.4channel.org/search), [2](https://boards.4chan.org/search)
 
 [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion), [old.sage](https://old.sage.moe/), [BibAnon](http://vyrd.bibanon.org/), [4Museum](https://4museum.neocities.org/), [Archive.4plebs](https://archive.4plebs.org/), [arch.b4k](https://arch.b4k.co/), [Sup/tg/](http://suptg.thisisnotatrueending.com/), [4chanSearch](https://4chansearch.com/), [4search](https://4search.neocities.org/), [palanq](https://archive.palanq.win/), [desuarchive](https://desuarchive.org/)
 
@@ -99,7 +99,7 @@
 
 #### Android Browsers
 
-* ⭐ **[Android Browser Wiki](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)** - [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers)
+* ⭐ **[Android Browser Wiki](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers)
 * [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) - Debloated FF
 * [EinkBro](https://f-droid.org/packages/info.plateaukao.einkbro/) - E-Ink
 
@@ -110,7 +110,7 @@
 #### Android File Explorers
 
 * [rcx](https://x0b.github.io/) - [GitHub](https://github.com/x0b/rcx)
-* [MiXplorer](https://mixplorer.com/) - [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) / [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
+* [MiXplorer](https://mixplorer.com/), [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) - [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
 * [Amaze File Manager](https://teamamaze.xyz/) - [GitHub](https://github.com/TeamAmaze/AmazeFileManager)
 * [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager) - [GitHub](https://github.com/SimpleMobileTools/Simple-File-Manager)
 
@@ -130,10 +130,13 @@
 
 #### Android Operating Systems
 
-* ⭐ **[Android Rom List](https://github.com/musabcel/android_rom_list)** 
+* ⭐ **[Android ROM List](https://github.com/musabcel/android_rom_list)** 
 * ⭐ **[OpenAndroidInstaller](https://openandroidinstaller.org/)** - Install Android Operating Systems
+* [ProtonAOSP](https://protonaosp.org/) - [GitHub](https://github.com/ProtonAOSP)
+* [Anarchy-Droid](https://anarchy-droid.com/) - [GitHub](https://github.com/amo13/Anarchy-Droid)
+* [ProjectBlaze](https://www.projectblaze.live/) - [GitHub](https://github.com/ProjectBlaze)
 
-[LineageOS](https://www.lineageos.org/), [Replicant](https://www.replicant.us/), [CDroid](https://crdroid.net/), [HavocOS](https://sourceforge.net/projects/havoc-os/), [BlissRoms](https://downloads.blissroms.org/), [ParanoidAndroid](https://paranoidandroid.co/), [PixelExperience](https://download.pixelexperience.org/), [Evolution-x](https://evolution-x.org/), [e.foundation](https://e.foundation/), [BeyondROM_S20](https://t.me/BeyondROM_S20), [ProtonAOSP](https://protonaosp.org/) / [GitHub](https://github.com/ProtonAOSP), [Anarchy-Droid](https://anarchy-droid.com/) / [Github](https://github.com/amo13/Anarchy-Droid), [Evolution X](https://evolution-x.org/), [ProjectBlaze](https://github.com/ProjectBlaze)
+[LineageOS](https://www.lineageos.org/), [Replicant](https://www.replicant.us/), [crDroid](https://crdroid.net/), [Havoc-OS](https://sourceforge.net/projects/havoc-os/), [BlissRoms](https://downloads.blissroms.org/), [Paranoid Android](https://paranoidandroid.co/), [PixelExperience](https://download.pixelexperience.org/), [Evolution X](https://evolution-x.org/), [e Foundation](https://e.foundation/), [BeyondROM](https://t.me/BeyondROM_S20)
 
 ***
 
