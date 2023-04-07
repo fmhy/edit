@@ -249,15 +249,17 @@
 
 #### ASCII Art Creators
 
-⭐ **[taag](http://patorjk.com/software/taag/)**
+* ⭐ **[TAAG](http://patorjk.com/software/taag/)**
 
-[Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII Art Creator](https://github.com/CherryPill/ASCII-art-creator), [ASCII Today](https://ascii.today/), [rexpaint](https://www.gridsagegames.com/rexpaint/), [PabloDraw](http://picoe.ca/products/pablodraw/), [ASCII Paint](http://ascii.alienmelon.com/), [DeepAA](https://github.com/OsciiArt/DeepAA), [Kakikun](https://github.com/file-acomplaint/kakikun), [Playscii](https://jp.itch.io/playscii) 
+[Text Smileys](https://lenny-face-generator.textsmilies.com/), [ASCII art creator](https://github.com/CherryPill/ASCII-art-creator), [ASCII Today](https://ascii.today/), [REXPaint](https://www.gridsagegames.com/rexpaint/), [PabloDraw](http://picoe.ca/products/pablodraw/), [ASCII Paint](http://ascii.alienmelon.com/), [DeepAA](https://github.com/OsciiArt/DeepAA), [Kakikun](https://github.com/file-acomplaint/kakikun), [Playscii](https://jp.itch.io/playscii)
 
 ***
 
-#### Background Removers 
+#### Background Removers
 
-[Remove.bg](https://www.remove.bg/) / [Gimp](https://github.com/manu12121999/RemoveBG-GIMP), [Remove Background](https://pixlr.com/remove-background/), [Rembg](https://github.com/danielgatis/rembg), [Adobe BG Remover](https://www.adobe.com/express/feature/image/remove-background), [bgremover](https://icons8.com/bgremover), [Removal.ai](https://removal.ai/upload/), [Trace](https://www.stickermule.com/trace), [BackgroundCut](https://backgroundcut.co/), [Retoucher](https://retoucher.online/), [Erase-BG](https://www.erase.bg/en/upload), [FocoClippings](https://www.fococlipping.com/), [fotor](https://www.fotor.com/features/background-remover), [ClippingsMagic](https://clippingmagic.com/), [BGEraser](https://bgeraser.com/), [bgsub](https://bgsub.com/), [backgroundremover](https://backgroundremover.app/)
+* [remove.bg](https://www.remove.bg/) - [GIMP Plugin](https://github.com/manu12121999/RemoveBG-GIMP)
+
+[Remove BG](https://pixlr.com/remove-background/), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background), [Background Remover](https://icons8.com/bgremover), [Removal.AI](https://removal.ai/upload/), [Trace](https://www.stickermule.com/trace), [BackgroundCut](https://backgroundcut.co/), [Retoucher Online](https://retoucher.online/), [Erase.bg](https://www.erase.bg/en/upload), [FocoClipping](https://www.fococlipping.com/), [Fotor](https://www.fotor.com/features/background-remover), [Clipping Magic](https://clippingmagic.com/), [Bg Eraser](https://bgeraser.com/), [BgSub](https://bgsub.com/), [Background Remover AI](https://backgroundremover.app/)
 
 ***
 
