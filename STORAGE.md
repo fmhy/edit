@@ -68,7 +68,7 @@
 
 **Non-English**
 
-* [Eniro](https://www.eniro.se/), [goo](https://www.goo.ne.jp/), [Najdi.si](http://www.najdi.si/), [NAVER](https://www.naver.com/), [Portail Orange](https://www.orange.fr/portail), [parseek](http://www.parseek.com/), [SAPO](https://www.sapo.pt/), [Walla](https://www.walla.co.il/), [2lingual](https://www.2lingual.com/)
+[Eniro](https://www.eniro.se/), [goo](https://www.goo.ne.jp/), [Najdi.si](http://www.najdi.si/), [NAVER](https://www.naver.com/), [Portail Orange](https://www.orange.fr/portail), [parseek](http://www.parseek.com/), [SAPO](https://www.sapo.pt/), [Walla](https://www.walla.co.il/), [2lingual](https://www.2lingual.com/)
 
 ***
 
