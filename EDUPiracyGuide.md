@@ -369,7 +369,7 @@
 * [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/) or [Sim Flow](https://sim-flow.com/) - Fluid Dynamics Simulators
 * [SimScale](https://www.simscale.com/) or [CFDTool](https://www.cfdtool.com/) - Fluid Dynamics & Heat Transfer
 Simulator
-* [LAMMPS]https://www.lammps.org/) - Molecular Dynamics (MD) Code
+* [LAMMPS](https://www.lammps.org/) - Molecular Dynamics (MD) Code
 * [avogadro](https://sourceforge.net/projects/avogadro/) - Molecular Editor
 * [Simuwaerm](https://github.com/file-acomplaint/simuwaerm) - Heat Simulator
 
