@@ -2,9 +2,9 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 ***
 
-# Porn
+# ► Porn
 
-## Site Lists
+## ▷ Site Lists
 
 * ⭐ **[PornDude](https://theporndude.com/)** / [More Sites](https://theporndude.com/hall-of-fame)
 * ⭐ **[Reddit Doesn't Like This Site](https://www.reddit-doesnt-like-this.site/)**
@@ -41,7 +41,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 ***
 
-## Porn Sites
+## ▷ Porn Sites
 
 * ⭐ **[sxyprn](https://www.sxyprn.com/)** 
 * ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/)
@@ -151,7 +151,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 ***
 
-## Download 
+## ▷ Download 
 
 * ⭐ **[FapNationBot](https://discord.gg/d39hJGxwvX)** - Premium Porn Download Bot / [Free Bot](https://cutt.ly/4CnMP8x) / [Guide](https://rentry.co/seremfreeharem)
 * [Search4Porn](https://search4porn.net/) - NSFW File Search
@@ -185,7 +185,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 ***
 
-## Torrent
+## ▷ Torrent
 
 * [PornLeech](http://pornleech.ch/)
 * [Sexy-Pics](https://www.sexy-pics.us/)
@@ -203,7 +203,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 ***
 
-## Leaks
+## ▷ Leaks
 
 * [Leak CSE](https://cse.google.com/cse?cx=d638aa7da557546d5), [2](https://cse.google.com/cse?cx=230603009f774dff1) - Leak Custom Search Engines
 * [kemono.party](https://kemono.party/) - Patreon / Use Adblock
@@ -225,7 +225,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 ***
 
-# NSFW Movies
+# ► NSFW Movies
 
 * ⭐ **[NSFW Movie Site Search](https://cse.google.com/cse?cx=006516753008110874046:3-svpblbro8)** / [2](https://cse.google.com/cse?cx=b5a63746fc84a456d)
 * ⭐ **[Film1k](https://www.film1k.com/)**
@@ -256,7 +256,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 ***
 
-# Magazines
+# ► Magazines
 
 * [SpicyMags](https://spicymags.xyz/)
 * [downmagaz](https://downmagaz.net/adult_magazine/) 
@@ -273,7 +273,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 ***
 
-# Hentai
+# ► Hentai
 
 * ⭐ **[The Index](https://theindex.moe/library/hentai)** - Hentai Sites List
 * [Best Hentai Sites](https://besthentaisites.github.io/) - Hentai Site List
@@ -330,7 +330,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 ***
 
-# Games
+# ► Games
 
 * [CPG Repacks](https://cpgrepacks.site/) - [Discord](https://discord.gg/dtBSZ9N)
 * [PornDude Games](https://theporndude.com/best-porn-games), [2](https://theporndude.com/free-sex-games)
@@ -352,7 +352,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 ***
 
-# Tools
+# ► Tools
 
 * ⭐ **[Panic Button](https://pastebin.com/mDWBZ7fQ)** - Quickly Close All Tabs
 * [Internet Adult Film Database](https://www.iafd.com/) or [MyPornStarBook](https://www.mypornstarbook.net/) - Adult Film Databases / Reviews
@@ -384,7 +384,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 ***
 
-# Gay Porn
+# ► Gay Porn
 
 * ⭐ **[MyGaySites](https://mygaysites.com/)** - List of Gay Porn Sites
 * [Gay-Hotfile](https://gay-hotfile.errio.net/) - Downloads
@@ -393,7 +393,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 ***
 
-# NoFap
+# ► NoFap
 
 * ⭐ **[EasyPeasy](https://easypeasymethod.org/)** - Painlessly Quit Pornography
 * [ChadGuard](https://github.com/LaGuerrePiece/ChadGuard), [beta-censoring](https://github.com/silveredgold/beta-censoring), [beta-protection](https://github.com/silveredgold/beta-protection), [Web Cleaner](https://github.com/Web-Cleaner/Web_Cleaner/), [Wingman](https://github.com/wingman-jr-addon/wingman_jr) or [NSFW Filters](https://nsfw-filter.com/) - Porn Blocking Extensions
