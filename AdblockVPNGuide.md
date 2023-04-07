@@ -572,8 +572,6 @@
 * [FoxyProxy](https://getfoxyproxy.org/), [anonymoX](https://anonymox.net/en), [Ambrose](https://play.google.com/store/apps/details?id=com.ambrose.overwall&gl=US) or [Snowflake](https://snowflake.torproject.org/) - Proxy Browser Extensions
 * [Fri-Gate](https://fri-gate.org/) - Advanced Proxy Settings Addon  
 * [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - Limit Proxy Usage by Private Windows 
-* [Hitch](https://hitch-tls.org/) - SSL / TLS Proxy
-* [frp](https://github.com/fatedier/frp) or [reverse-proxy](https://github.com/microsoft/reverse-proxy) - Reverse Proxy
 * [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
 
 ***
