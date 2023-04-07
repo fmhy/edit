@@ -52,7 +52,7 @@
 * ⭐ **[Privacy Focused Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * ⭐ **[Lets Search!](https://letssearch.org/)** - Advanced Search Engine
 * ⭐ **[Yandex](https://yandex.com/)**
-* ⭐ **[Mail.ru](ttps://mail.ru/)**
+* ⭐ **[Mail.ru](https://mail.ru/)**
 * ⭐ **[Baidu](https://www.baidu.com/)** - [PHP Version](https://github.com/yuantuo666/baiduwp-php)
 * ⭐ **[r0.ru](https://r0.ru/)** 
 * ⭐ **[Ecosia](https://www.ecosia.org/)** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
