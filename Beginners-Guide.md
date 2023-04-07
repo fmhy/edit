@@ -1,4 +1,4 @@
-## -> Beginners Guide to Piracy<-
+## -> Beginners Guide to Piracy <-
 
 -> If you have any questions feel free to join us in [Divolt](https://redd.it/uto5vw) ♡ <-
 
@@ -23,7 +23,6 @@
 
 !!!note Activating windows is not required, however it is recommended as it adds additional security updates, bug fixes and removes the watermark.
 
-
 ***
 ***
 
@@ -41,23 +40,23 @@
 ***
 ***
 
-### Adblocking 
+### Adblocking
 
 **[uBlock Origin](https://github.com/gorhill/uBlock#installation)**  - The most popular (and best) adblocking extension
 **[Adblock Filters](https://rentry.co/FilterStalker)** - Increase effectiveness of adblocker
 **[Adblock Defenders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_adblock_defenders)** - Prevent sites from detecting adblocker
-**[Popup Blockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - Block all popups
-**[SponsorBlock](https://sponsor.ajay.app/)** - Skip sponsored YouTube ads
+**[Pop-up Blockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - Block all pop-ups
+**[SponsorBlock](https://sponsor.ajay.app/)** - Skip sponsored YouTube Ads
 **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - Block Spotify Ads
-**[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers)** - Block Twitch ads
+**[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers)** - Block Twitch Ads
 **[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** - Bypass redirect sites
 
-!!!note Piracy sites have ads, so its highly recommended to install an adblocker + filters. Also note that its not recommended to use more than one adblocker at a time. 
+!!!note Piracy sites have ads, so it's highly recommended to install an adblocker + filters. Also note that it's not recommended to use more than one adblocker at a time.
 
 ***
 ***
 
-### Antivirus 
+### Antivirus
 
 **[VirusTotal](https://www.virustotal.com)  / [Kaspersky Cloud](https://opentip.kaspersky.com/)** - Test the safety of files
 **[Malwarebytes](https://github.com/nbats/FMHYedit/blob/main/base64.md#malwarebytes-premium) / [Hitman Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#hitman-pro)** - Antivirus software
@@ -73,11 +72,11 @@
 **[ProtonMail](https://protonmail.com/)** - Encrypted email service
 **[Authy](https://authy.com/)** - Prevent logins without user authentication
 **[HolyUnblocker](https://www.holyubofficial.net/)** - View sites blocked by ISP / school
-**[HaveIBeenPwned](https://haveibeenpwned.com/)** - Get notified when someone steals your accounts 
+**[HaveIBeenPwned](https://haveibeenpwned.com/)** - Get notified when someone steals your accounts
 **[Mullvad](https://mullvad.net/) / [Proton](https://protonvpn.com) / [Surfshark](https://surfshark.com/)** - Paid VPNs
 **[Riseup](https://riseup.net/en/vpn)** - Free VPN / Proton also has a free version / [warning](https://i.imgur.com/3fFJZS4.png)
 
-!!!note Note that a VPN is not needed outside of torrenting. You can avoid the need for one altogether by sticking to  direct download and streaming sites. 
+!!!note Note that a VPN is not needed outside of torrenting. You can avoid the need for one altogether by sticking to  direct download and streaming sites.
 
 ***
 ***
@@ -85,8 +84,8 @@
 ### Streaming
 
 **[movie-web](https://movie-web.app/) / [FMovies](https://fmovies.name/) / [Soap2Day](https://soapgate.org/)** - Fast streaming
-**[Zoro](https://zoro.to/) / [9Anime](https://www.9anime.to/)** - Fast  anime streaming
-**[SportsSurge](https://sportsurge.net/)** - Live sports streaming 
+**[Zoro](https://zoro.to/) / [9Anime](https://www.9anime.to/)** - Fast anime streaming
+**[SportsSurge](https://sportsurge.net/)** - Live sports streaming
 **[Spotify](https://spotify.com/) / [YouTube Music](https://music.youtube.com/)** - Music & podcast streaming / [Spotify Adblock](https://github.com/amd64fox/SpotX)
 **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse) / [TV CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)** - Multi-site search
 **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei) / [2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)** - Multi-site anime search
@@ -95,7 +94,7 @@
 ***
 ***
 
-### Downloading 
+### Downloading
 
 **[SoftArchive](https://sanet.st) / [Open Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_download_directories) / [Usenet](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_usenet)** - Download video, audio, games, software & more
 **[FileCR](https://filecr.com/en/) / [Mobilism](https://forum.mobilism.org/)** - Trusted software sites / [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass)
@@ -116,8 +115,9 @@
 
 ### Torrenting
 
-!!!warning Torrenting can get you in trouble with your ISP, so make sure to use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn). Most VPNs offer a killswitch to prevent data leaks, but its much more effective to  [bind your VPN to your client](https://redd.it/ssy8vv), preventing it from connecting at all unless your VPN is on. 
-**[qBittorrent](https://www.qbittorrent.org/) / [Transmission](https://transmissionbt.com/) / [Remote Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** - Torrent clients 
+!!!warning Torrenting can get you in trouble with your ISP, so make sure to use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn). Most VPNs offer a killswitch to prevent data leaks, but it's much more effective to  [bind your VPN to your client](https://redd.it/ssy8vv), preventing it from connecting at all unless your VPN is on.
+
+**[qBittorrent](https://www.qbittorrent.org/) / [Transmission](https://transmissionbt.com/) / [Remote Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** - Torrent clients
 **[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)** - Downloads torrents externally & uploads them to gdrive, avoiding the need for a VPN / [Create Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_generators)
 **[1337x](https://1337x.to/) / [RarBG](https://rarbg.to) / [RuTracker](http://rutracker.org)** - Torrent video, audio, games, software & more
 **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Trusted game repacker
@@ -135,7 +135,7 @@
 
 ### Reading
 
-**[Mobilism](https://forum.mobilism.org) / [Library Genesis](http://libgen.rs/) / [Z-Library](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/)** - Books, audiobooks, comics & more 
+**[Mobilism](https://forum.mobilism.org) / [Library Genesis](http://libgen.rs/) / [Z-Library](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/)** - Books, audiobooks, comics & more
 **[Audiobook Bay](http://audiobookbay.ws/)** - Audiobook torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.imgur.com/tr0tbos.png)
 **[ReadComicsOnline](https://readcomiconline.li/)** - Read comics online
 **[MangaReader](https://mangareader.to/)** - Read manga online
@@ -148,32 +148,32 @@
 ***
 ***
 
-### Mobile 
+### Mobile
 
 **[Bromite](https://www.bromite.org/) / [Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/) / [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US&gl=US)** - Android web browsers
 **[Insight](https://insightbrowser.com/) / [Aloha](https://alohabrowser.com/) / [Kagi](https://testflight.apple.com/join/DeC8ZDnu)**  - iOS web browsers / [Improve Safari](https://hyperweb.app/)
 **[AdGuard Premium](https://forum.mobilism.org/search.php?keywords=adguard+&sr=topics&sf=titleonly) / [Adguard iOS](https://forum.mobilism.org/search.php?keywords=AdGuard+Pro&sr=topics&sf=titleonly) / [Blokada](https://blokada.org/)** -  Mobile adblocking apps
 **[Aegis](https://getaegis.app/)** - Prevent logins without user authentication
-**[Mobilism](https://forum.mobilism.org/viewforum.php?f=398) / [FileCR](https://filecr.com/android/) / [ReXdl](https://rexdl.com/)** - Modded APKs 
+**[Mobilism](https://forum.mobilism.org/viewforum.php?f=398) / [FileCR](https://filecr.com/android/) / [ReXdl](https://rexdl.com/)** - Modded APKs
 **[/r/ApkApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** - Updated list of modded APKs / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)
 **[APKMirror](https://www.apkmirror.com/) / [F-Droid](https://f-droid.org/)** - Untouched APKs
 **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8) / [2](https://cse.google.com/cse?cx=73948689c2c206528) / [3](https://cse.google.com/cse?cx=a805854b6a196d6a6)**  - Multi-site APK search
 **[Stremio](https://www.stremio.com/) / [CloudStream](https://cloudstream.cf/)** - Video streaming apps / Use VPN for Stremio
 **[Kodi](https://kodi.tv/)** - iOS / Android TV compatible streaming app / [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
-**[ReVanced Manager](https://github.com/revanced/revanced-manager)** - Ad free YouTube
-**[Spotify Mod](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-spotify-apk)** / [iOS](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotify), [2](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotilife) - Ad free Spotify
+**[ReVanced Manager](https://github.com/revanced/revanced-manager)** - Ad-free YouTube
+**[Spotify Mod](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-spotify-apk)** / [iOS](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotify), [2](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotilife) - Ad-free Spotify
 **[Complete Jailbreak Chart](https://appledb.dev/)** - Jailbreaking info & tools
 
 ***
 ***
 
-### Useful Stuff 
+### Useful Stuff
 
 **[Video Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_players) / [Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_servers)** - Host & play videos
 **[Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players) / [Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_servers)** - Host & play audio
 **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)** - Use android apps on desktop
 **[File Hosting / Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)** - Share, store & sync files
-**[File Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_download_managers) / [2](https://en.wikipedia.org/wiki/Comparison_of_download_managers)** - Manage file downloads 
+**[File Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_download_managers) / [2](https://en.wikipedia.org/wiki/Comparison_of_download_managers)** - Manage file downloads
 **[Unzip / Compress Files](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_compression_programs)** - File unzippers / compression programs
 **[OpenSubtitles](https://opensubtitles.org/)** - Most popular subtitles site
 **[Multi-Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_tool_sites)** - Sites with multiple tools
