@@ -20,9 +20,11 @@
 * ⭐ **[Free Courses by Xemu](https://github.com/nbats/FMHYedit/blob/main/base64.md#free-courses-by-xemu)** - Programming Course Drives
 * ⭐ **[Phind](https://www.phind.com/)** - Developer Q&A AI
 * ⭐ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - Read / Download Programming Books
+* [Awesome Certificates](https://github.com/PanXProject/awesome-certificates) - Dev Courses Index
+* [DZone](https://dzone.com/) - Developer Tutorials
 * [RedHat](https://developers.redhat.com/) - Development Tutorials
 * [Dev.tube](https://dev.tube/) - Developer Talks
-* [Roadmap](https://roadmap.sh/) - Developer Roadmaps / Guides
+* [Roadmap](https://roadmap.sh/) - Developer Roadmaps / [Github](https://github.com/kamranahmedse/developer-roadmap)
 * [QuickRef.ME](https://quickref.me/), [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
 * [Programming Challenges](https://i.imgur.com/FPwNgOK.png), [HackTheEarth](https://www.hackerearth.com/challenges/), [EMKC](https://emkc.org/challenges) or [Code Golf](https://codegolf.stackexchange.com/) - Programming Challenges
 * [Codexplainer AI](https://chrome.google.com/webstore/detail/codexplainer-ai-beta/mekadgeckpcgideipfhbcapmenbadejp) or [Denigma](https://denigma.app/#demo) - Code Explanations
@@ -83,51 +85,44 @@
 
 ## ▷ Web Development
 
-* ⭐ **[The Odin Project](https://www.theodinproject.com/)** - Web Dev Tutorials / Courses
-* [Developer.Mozilla](https://developer.mozilla.org/) or [Web Dev Resources](https://joshjoshuap-webdevresources.vercel.app/) - Developer Learning Resources 
-* [Awesome Certificates](https://github.com/PanXProject/awesome-certificates) - Dev Courses with Certificates
-* [DZone](https://dzone.com/) - Developer Tutorials
-* [Markdown Tutorial](https://www.markdowntutorial.com/) - Interactive Markdown Tutorial
+* ⭐ **[The Odin Project](https://www.theodinproject.com/)** - Full Stack Course
+* ⭐ **[FullStackOpen](https://fullstackopen.com/en/)** - Full Stack Course 
+* ⭐ **[Interneting is Hard](https://www.internetingishard.com/)** - HTML/CSS Course
+* ⭐ **[Learn to Code HTML & CSS](https://learn.shayhowe.com/)** - HTML/CSS Course
+* ⭐ **[JavaScript.info](https://javascript.info/)** - JavaScript Course 
+* ⭐ **[30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)** - Javascript Course
+* ⭐ **[Java5cript](https://www.java5cript.com/)** - Javascript Courses Index
+* ⭐ **[PHP: The Right Way](https://phptherightway.com/)** or [PHP Tutorial](https://www.phptutorial.net/) - Learn PHP
+* [Developer.Mozilla](https://developer.mozilla.org/) or [Web Dev Resources](https://joshjoshuap-webdevresources.vercel.app/) - Web Dev Learning Resources 
+* [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - Web Dev Course
 * [Aquent Gymnasium](https://thegymnasium.com/) - Web Dev Tutorials
-* [Codevolution](https://www.youtube.com/@Codevolution) - Web Dev YouTube Tutorials
-* [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app) - React Typescript Cheatsheet
-* [Tackling TS](https://exploringjs.com/tackling-ts/toc.html) or [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
-* [HTMLDog](https://htmldog.com/) - HTML / CSS / JavaScript Tutorials
-* [Learn to Code HTML & CSS](https://learn.shayhowe.com/) - HTML / CSS Tutorials
-* [JavaScript.info](https://javascript.info/) - JavaScript Guide 
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Javascript Learning Books
-* [EloquentJavascript](https://eloquentjavascript.net/), [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript), [FunJavascript](https://fun-javascript-projects.com/), [LearnCS](https://www.learncs.online/lessons), [Java5cript](https://www.java5cript.com/), [Javascript Today](https://blog.javascripttoday.com/) or [Grasshopper](https://grasshopper.app/) - Learn Javascript
-* [JavaScriptQuiz](https://javascriptquiz.com/) - JavaScript Quiz
-* [Javascript Questions](https://github.com/lydiahallie/javascript-questions) - Javascript Questions for Practice
-* [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - Useful JavaScript Concepts
-* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Node.js Style Guide
-* [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Javascript Query Style Events Guide
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - Javascript Style Guide
-* [Codepip](https://codepip.com/games/) - CSS / JS Learning Games
-* [CSS Battle](https://cssbattle.dev/) - CSS Practice / Battles
+* [Dash](https://dash.generalassemb.ly/) - Web Dev Courses
+* [Web Skills](https://andreasbm.github.io/web-skills/) or [Encodedna](https://www.encodedna.com/) - Web Dev Guides
+* [Codevolution](https://www.youtube.com/@Codevolution) - Web Dev Video Lessons
+* [HTMLDog](https://htmldog.com/) - HTML/CSS and JavaScript Tutorials
+* [Codepip](https://codepip.com/games/), [Grid Garden](https://cssgridgarden.com/), [CSS Battle](https://cssbattle.dev/), [CSS Speedrun](https://css-speedrun.netlify.app/) or [CSS Diner](https://flukeout.github.io/) - CSS Learning Games
 * [DefensiveCSS](https://defensivecss.dev/) - CSS Tips
-* [Grid Garden](https://cssgridgarden.com/) - CSS Grid Learning Game
 * [LearnCSSGrid](http://learncssgrid.com/) - CSS Grid Guide
-* [CSS Speedrun](https://css-speedrun.netlify.app/) - Test Your CSS Skills
-* [CSS Diner](https://flukeout.github.io/) - Interactive CSS Learning
 * [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS Demos
 * [CSS Tricks](https://css-tricks.com/snippets/) - CSS Code Snippets
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) or [EloquentJavascript](https://eloquentjavascript.net/) - Javascript Learning Books
+* [Javascript Questions](https://github.com/lydiahallie/javascript-questions) or [JavaScriptQuiz](https://javascriptquiz.com/)  - Javascript Questions for Practice
+* [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - Useful JavaScript Concepts
+* [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Javascript Query Style Events Guide
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - Javascript Style Guide
+* [Javascript Today](https://blog.javascripttoday.com/) - Javascript Blog
+* [backendlore](https://github.com/fpereiro/backendlore) - Backend Coding Guide
+* [backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - Backend Challenges for Practice
+* [Tackling TS](https://exploringjs.com/tackling-ts/toc.html) or [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
+* [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app) - React Typescript Cheatsheet
 * [Next](https://hendrixer.github.io/nextjs-course/) - Learn Next.js
+* [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Node.js Style Guide
 * [LandChad](https://landchad.net/) or [learn.sadgrl.online](https://learn.sadgrl.online/) - Site Development Guides
 * [Full Stack Solana Development Guide](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) - [Examples](https://github.com/dabit3/complete-guide-to-full-stack-solana-development)
-* [The New Boston](https://thenewboston.com/) - Site Development Courses / [Discord](https://discord.com/invite/thenewboston)
-* [Strml](https://www.strml.net/) - Site Coding Tutorial
 * [STPG](https://stpg-tk.netlify.app/guides/) - Startpage Creation Guides / [Discord](https://discord.com/invite/ExAGgVR)
-* [Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) or [Interneting is Hard](https://www.internetingishard.com/) - Learn Web Development
-* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Web Dev Roadmap
-* [FullStackOpen](https://fullstackopen.com/en/) or [Dash](https://dash.generalassemb.ly/) - Web Dev Courses
-* [Agernic](https://www.agernic.com/) - Web Design Courses
-* [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) - Interactive Web Design Tutorial
-* [backendlore](https://github.com/fpereiro/backendlore) - Backend Coding Guide
-* [backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - Backend Challenges
+* [Markdown Tutorial](https://www.markdowntutorial.com/) - Interactive Markdown Tutorial
+* [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) or [Strml](https://www.strml.net/) - Interactive Web Design Tutorial
 * [WebGL and GLSL Workshop](https://mattdesl.github.io/workshop-webgl-glsl/) - Interactive WebGL / GLSL Tutorial
-* [PHP: The Right Way](https://phptherightway.com/) or [PHP Tutorial](https://www.phptutorial.net/) - PHP Guides
-* [Web Skills](https://andreasbm.github.io/web-skills/) or [Encodedna](https://www.encodedna.com/) - Web Development Guides
 * [LearningSEO](https://learningseo.io/) - SEO Guides
 
 ***
@@ -144,6 +139,7 @@
 
 * [Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)
 * [Mobile Design Resources](https://github.com/joeygoksu/mobile-design-resources) - App Design Learning Resources
+* [LearnCS](https://www.learncs.online/lessons) - Lean Java/Kotlin
 * [CocoaDevCentral](http://cocoadevcentral.com/) - Legacy OS X / Cocoa Programming Tutorials
 * [Swift Playgrounds](https://developer.apple.com/tutorials/swiftui) - Learn Swift UI / [Samples](https://developer.apple.com/tutorials/sample-apps)
 * [SwiftDump](https://github.com/neil-wu/SwiftDump) - Retrieve Swift Object info from Mach-O file
