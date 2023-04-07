@@ -210,17 +210,22 @@
 #### Audio Plugins 
 
 * ⭐ **[/r/CrackedPluginsX](https://www.reddit.com/r/CrackedPluginsX/)**
-* ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - [VK](https://vk.com/pluggsupply) / [Discord](https://discord.gg/2R2X6yF)
+* ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - [VK](https://vk.com/pluggsupply)
+* [Plugin Clouds](https://t.me/joinchat/eBPFLPGucTU5YjQ9) - [Archive](https://t.me/plugincloudsarchive)
 
-[Producer Plug Sheet](https://github.com/nbats/FMHYedit/blob/main/base64.md#producer-plug-sheet), [OpenAudio](https://github.com/webprofusion/OpenAudio), [/u/BitterApple69 Plugins](https://github.com/nbats/FMHYedit/blob/main/base64.md#ubitterapple69-plugins), [FreeVSTPlugins](https://freevstplugins.net/), [KVRAudio](https://www.kvraudio.com/plugins/the-newest-plugins/free), [PLUGINS4FREE](https://plugins4free.com/), [dskmusic](https://www.dskmusic.com/), [landr](https://blog.landr.com/best-free-vst-plugins/), [native-instruments](https://www.native-instruments.com/en/specials/free-vst-plugins/), [sparta](https://leomccormack.github.io/sparta-site/), [IEM](https://plugins.iem.at/), [PluginTorrent](https://plugintorrent.com/), [/r/PluggnB/](https://www.reddit.com/r/PluggnB/), [Free VST Spreadsheet](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8#gid=0), [Plugins Cloud](https://t.me/joinchat/eBPFLPGucTU5YjQ9), [PluginsCloudArchive](https://t.me/plugincloudsarchive), [PluginCloudArchive_docs](https://t.me/pluginclouds_docs), [VSTs & Packs](https://github.com/nbats/FMHYedit/blob/main/base64.md#vsts--packs), [CC PLUG](https://discord.gg/Shs95gv2CJ), [Plugin Paste](https://pastebin.com/9scA1AgA)
+[Producer Plug Sheet](https://github.com/nbats/FMHYedit/blob/main/base64.md#producer-plug-sheet), [Open-Source Audio Plugins & Apps](https://github.com/webprofusion/OpenAudio), [/u/BitterApple69 Plugins](https://github.com/nbats/FMHYedit/blob/main/base64.md#ubitterapple69-plugins), [FREE VST PLUGINS](https://freevstplugins.net/), [KVR Audio](https://www.kvraudio.com/plugins/the-newest-plugins/free), [PLUGINS4FREE](https://plugins4free.com/), [DSK Music](https://www.dskmusic.com/), [LANDR](https://blog.landr.com/best-free-vst-plugins/), [Native Instruments](https://www.native-instruments.com/en/specials/free-vst-plugins/), [SPARTA](https://leomccormack.github.io/sparta-site/), [IEM Plug-in Suite](https://plugins.iem.at/), [Plugintorrent](https://plugintorrent.com/), [/r/PluggnB](https://www.reddit.com/r/PluggnB/), [Free DAW plugins](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8#gid=0), [VSTs & Packs](https://github.com/nbats/FMHYedit/blob/main/base64.md#vsts--packs), [Plugin Pastebin](https://pastebin.com/9scA1AgA)
 
 ***
 
 #### Audio Servers
 
-⭐ **[iBroadcast](https://ibroadcast.com)**
+* ⭐ **[iBroadcast](https://ibroadcast.com)**
+* [koel](https://koel.dev/) - [Docker](https://github.com/0xcaff/docker-koel)
+* [mStream](https://mstream.io/) - [GitHub](https://github.com/IrosTheBeggar/mStream)
+* [Airsonic](https://airsonic.github.io/) - [Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced) / [Advanced UI](https://github.com/tamland/airsonic-refix)
+* [Mopidy](https://mopidy.com/) - [GitHub](https://github.com/mopidy)
 
-[koel](https://koel.dev/) / [Docker](https://github.com/0xcaff/docker-koel), [Fidbak](https://fidbak.audio/), [MadSonic](https://www.madsonic.org/pages/index.jsp), [Navidrome](https://www.navidrome.org/), [Koozic](https://koozic.net/), [mStream](https://mstream.io/) / [Git](https://github.com/IrosTheBeggar/mStream), [Serviio](https://www.serviio.org/), [Airsonic](https://airsonic.github.io/), [Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced) / [Advanced UI](https://github.com/tamland/airsonic-refix), [Polaris](https://github.com/agersant/polaris), [Echo](https://github.com/anhthii/Echo), [Black Candy](https://github.com/aidewoode/black_candy), [Mopidy](https://mopidy.com/) / [GitHub](https://github.com/mopidy)
+[Fidbak](https://fidbak.audio/), [Madsonic](https://www.madsonic.org/pages/index.jsp), [Navidrome](https://www.navidrome.org/), [KooZic](https://koozic.net/), [Serviio](https://www.serviio.org/), [Polaris](https://github.com/agersant/polaris), [Echo](https://github.com/anhthii/Echo), [Black Candy](https://github.com/aidewoode/black_candy)
 
 ***
 
