@@ -192,7 +192,6 @@
 * [nwifiresticks](https://github.com/nbats/FMHYedit/blob/main/base64.md#nwifiresticks) - ROMs
 * [Rom Pack](https://www.ROMspack.com/) - ROMs
 * [Retrostic](https://www.retrostic.com/) - Emulators / ROMs
-* [Emulanium](https://emulanium.com/) - Emulators / ROMs
 * [ROMsUniverse](https://www.ROMsuniverse.com/) - Emulators / ROMs
 * [ROMsie](https://ROMsie.com/) - Emulators / ROMs
 * [Romsever](https://romsever.com) - Emulators / ROMs
