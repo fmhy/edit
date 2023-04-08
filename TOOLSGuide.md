@@ -383,7 +383,7 @@
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Tool
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
 * [cgplugdump](https://t.me/cgplugdump) - CG Software Plugins
-* [AnimeEffects](http://animeeffects.org/en/), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/), [Cavalry](https://cavalry.scenegroup.co/), [TupiTube](https://tupitube.com/) or [Synfig](https://www.synfig.org/) - 2D Animation Tools
+* [AnimeEffects](https://github.com/AnimeEffectsDevs/AnimeEffects), [nve](https://maurycyliebner.github.io/), [Expressive](https://www.expressivesuite.com/), [Cavalry](https://cavalry.scenegroup.co/), [TupiTube](https://tupitube.com/) or [Synfig](https://www.synfig.org/) - 2D Animation Tools
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Quickly Visualize & Test Animations / [GitHub](https://github.com/wonderunit/storyboarder) 
 * [Stable Diffusion Videos](https://github.com/nateraw/stable-diffusion-videos) - Create Videos using Stable Diffusion
 * [Mandelbulber](https://mandelbulber.com/) or [FragM](https://github.com/3Dickulus/FragM) - Fractal Rendering Software / [3D](https://mb3d.overwhale.com/)
