@@ -159,8 +159,6 @@
 * [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Books 
 * [Wikibooks](https://www.wikibooks.org/) - Wikimedia community
 * [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - ZeroNet Required
-* [Avxhm](https://avxhm.se/), [2](https://avxhm.is/) - [Leech Required](https://leechall.com/)
-* [AvaxHome](https://www.avaxhome.co/) 
 * [FileStore](http://filestore.orgfree.com/) - Emule Book Collections
 * [Just Another Library](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/) - Tor Required / NSFW
 * [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
