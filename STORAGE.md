@@ -291,7 +291,7 @@
 
 **Extensions**
 
-[MyMark](https://www.mymark.me/), [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/), [Bookmarkify](https://addons.mozilla.org/en-US/firefox/addon/bookmarkos/), [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer), [Omni](https://github.com/alyssaxuu/omni), [Centroly](https://centroly.com/)
+[MyMark.me](https://www.mymark.me/), [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/), [Save to Bookmark OS](https://addons.mozilla.org/en-US/firefox/addon/bookmarkos/), [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer), [Omni](https://github.com/alyssaxuu/omni), [Centroly](https://centroly.com/)
 
 ***
 
