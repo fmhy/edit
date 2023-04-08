@@ -365,22 +365,21 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 **Mac Code Editors**
 
-[MacVim](https://github.com/macvim-dev/macvim), [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+* [MacVim](https://macvim.org/) - [GitHub](https://github.com/macvim-dev/macvim)
+* [CodeEdit](https://www.codeedit.app/) - [GitHub](https://github.com/CodeEditApp/CodeEdit)
 
 **Vim Tools**
 
-* [nerdtree](https://github.com/preservim/nerdtree) - Tree Explorer
-* [InstantRst](https://github.com/gu-fan/InstantRst) - Instant RST Preview
 * [LunarVim](https://github.com/ChristianChiarulli/LunarVim) - Vim Config
 * [Mitosis](https://github.com/BuilderIO/mitosis) - Auto-Compile Components
-* [Vim Plug](https://github.com/junegunn/vim-plug), [Vim Pathogen](https://github.com/tpope/vim-pathogen), [Dein](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
-* [vim-markdown](https://github.com/plasticboy/vim-markdown) - Vim Markdown Plugin
-* [VimAwesome](https://vimawesome.com/) - Vim Plugins
-* [NeovimCraft](https://neovimcraft.com/) - Neovim Plugins
-* [NvChad](https://github.com/NvChad/NvChad) - Neovim CLI
-* [NeoVide](https://github.com/neovide/neovide) - Neovim Client
-* [DroidVim](https://github.com/shiftrot/droidvim) - Neovim APK
-* [Bootstrap Editor](https://vim-bootstrap.com/) - Vim / Neovim Config Generator Bootstrap Editor
+* [vim-plug](https://github.com/junegunn/vim-plug), [2](https://github.com/tpope/vim-pathogen), [3](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
+* [Vim Markdown](https://github.com/plasticboy/vim-markdown) - Vim Markdown Plugin
+* [Vim Awesome](https://vimawesome.com/) - Vim Plugins
+* [neovimcraft](https://neovimcraft.com/) - Neovim Plugins
+* [NvChad](https://github.com/NvChad/NvChad) - Neovim Enhanced TUI
+* [Neovide](https://github.com/neovide/neovide) - Neovim Client
+* [DroidVim](https://github.com/shiftrot/droidvim) - Vim APK
+* [Vim Bootstrap](https://vim-bootstrap.com/) - Vim / Neovim Bootstrap Config Generator
 
 ***
 
