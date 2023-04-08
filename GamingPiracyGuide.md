@@ -57,10 +57,10 @@
 * ⭐ **[DODI Repacks](http://dodi-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
 * ⭐ **[M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)** - Download / [Discord](https://discord.gg/693hNBdymb)
 * [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - Download / Torrent / [Discord](https://discord.gg/HP5sQ6c)
-* [Elamigos](https://elamigos.site/) - Download
 * [ScOOter Repacks](https://scooter-repacks.site/) - Download / Torrent / [Discord](https://discord.gg/BWKyN8SgvM)
-* [Xatab Repacks](https://byxatab.com/), [2](https://otxatabs.net/)  - Download / Torrent
+* [Xatab Repacks](https://byxatab.com/), [2](https://otxatabs.net/)  - Torrent
 * [Darck Repacks](https://darckrepacks.com/) - Download
+* [Elamigos](https://elamigos.site/) - Download
 * [RePack.info](https://repack.info/) - Download / Torrent
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
 * [Magipack](https://www.magipack.games) - Retro PC Games
