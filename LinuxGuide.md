@@ -530,7 +530,7 @@
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
 * [MacOS Security Tools](https://github.com/ashishb/osx-and-ios-security-awesome) - Mac Security Tools
 * [MacOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
-* [Obsidian](https://obsidianapp.io/) - Two-Factor Authentication
+* [Sentinel](https://getsentinel.io/) - Two-Factor Authentication
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
 * [Incoggo](https://incoggo.com/) - Adblocker
 * [Adguard DNS](https://1fichier.com/?ef26ks4abjzct7o1k8os) - Adblocking Profile
