@@ -613,6 +613,7 @@
 * [You wouldn't steal a website](https://youwouldntsteala.website/) - Steal a Website
 * [Terminal Video Player](https://github.com/TheRealOrange/terminalvideoplayer) - Cursed Terminal Video Player
 * [Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator) - Pretend You Have Macbook Pro
+* [Mario Mayhem](https://www.mariomayhem.com/) - Mario Fansite
 * [ILoveJarJarBinks](https://ilovejarjarbinks.tripod.com/) - Jar Jar Binks Fansite
 * [User Inyerface](https://userinyerface.com/) - Worlds Most Annoying Website
 * [SND](https://s-n-d.si/) - Strange Scrollable Story
