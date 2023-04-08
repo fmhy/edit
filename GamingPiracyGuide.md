@@ -1000,7 +1000,6 @@
 * [Doom Wiki](https://doomwiki.org/wiki/Entryway) - Doom Community Project Documentation
 * [Hard Drop](https://harddrop.com/wiki/Tetris_Wiki) or [Tetris.wiki](https://tetris.wiki/) - Tetris Wikis
 * [Fumen](https://harddrop.com/fumen/) - Tetris Field Editor
-* [Four-tris](https://github.com/fiorescarlatto/four-tris) - Tetris Training Client
 * [Puyo.gg](https://www.puyo.gg/) - Puyo Puyo Field Editor
 * [Puyo Nexus](https://puyonexus.com/wiki/Main_Page) - Puyo Puyo Wiki
 * [Puyo Puyo Lesson Plan](https://docs.google.com/spreadsheets/d/1A5LMX7Oev_vfaMjL6amQzQ5Z0cnGEAvSogOysjcavBY/htmlview#) - Puyo Puyo Guide
@@ -1033,12 +1032,11 @@
 ## ▷ Optimization Tools
 
 * ⭐ **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)**, [Game Debate](https://game-debate.com/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Test
+* ⭐ **[ProSettings](https://prosettings.net/)** - In-Game Settings Optimization Guides
+* ⭐ **[DisplayMagician](https://github.com/terrymacdonald/DisplayMagician)** - Per-Game Display Profiles
 * [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html) or [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - System Gaming Tweak Guides
-* [ProSettings](https://prosettings.net/) - In-Game Settings Optimization Guides
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/), [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) or [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - Gaming Optimization Guides
-* [Low Specs Experience](https://ragnotechpowered.com/) - Game Optimization Program
 * [LinkRunner](https://github.com/romjacket/rj_linkrunner) - Per-Game Settings Manager
-* [DisplayMagician](https://github.com/terrymacdonald/DisplayMagician) - Per-Game Display Profiles
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?usp=sharing), [MoreFPS](https://morefps.net/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) or [HoneCtrl](https://github.com/auraside/HoneCtrl) - Latency Reduction / FPS Fixes
 * [Fraps Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#fraps) / [2](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
@@ -1189,9 +1187,10 @@
 
 ## ▷ GTA Tools
 
+* ⭐ **[GTA5-Mods](https://www.gta5-mods.com/)** - GTAV Mods
+* ⭐ **[MixMods](https://www.mixmods.com.br/)** - GTASA Mods
 * ⭐ **[FiveM](https://fivem.net/)** - Modded GTAV Servers
 * [GTAAll](https://www.gtaall.com/), [GTAInside](https://gtainside.com/), [GameModding](https://gamemodding.com/), [GTAGarage](https://gtagarage.com/) or [LibertyCity](https://libertycity.net/) - GTA Mods, Cheats, Walkthroughs & more
-* [GTA5-Mods](https://www.gta5-mods.com/) - GTAV Mods
 * [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods
 * [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - GTAV FidelityFX Super Resolution Mod
 * [Essential Menu](https://github.com/anonik9900/Essential-Menu) - GTAV Mod Menu
@@ -1201,7 +1200,6 @@
 * [D.E.P](https://www.definitive-edition-project.com/) - Fix GTA PC Port Bugs
 * [Vice City: Multiplayer](https://vc-mp.org/) - Mutiplayer GTAVC
 * [GTA-Vice-City-Interactive-Map](https://github.com/denizariyan/GTA-Vice-City-Interactive-Map) - GTAVC Interactive Map Mod
-* [MixMods](https://www.mixmods.com.br/) - GTASA Mods
 * [Jetpack Downgrader](https://github.com/Zalexanninev15/Jetpack-Downgrader) - GTASA Downgrader
 * [gtasa-savegame-editor](https://github.com/Kronavarb/gtasa-savegame-editor) - GTASA Save Editor
 * [SAMP-GPS](https://github.com/janglapuk/SAMP-GPS) - GTASA Multiplayer GPS
@@ -1280,10 +1278,10 @@
 
 ## ▷ Terraria Tools
 
+* ⭐ **[Terranion](https://yal.cc/r/terranion/)** - Terraria Wiki
+* ⭐ **[tModLoader](https://www.tmodloader.net/)** - Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)
 * [TerraLauncher](https://github.com/trigger-segfault/TerraLauncher) - Terraria Launcher
 * [TConvert](https://github.com/trigger-segfault/TConvert) - Terraria Content Manager
-* [Terranion](https://yal.cc/r/terranion/) - Terraria Wiki
-* [tModLoader](https://www.tmodloader.net/) - Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)
 * [N-Terraria](https://forums.terraria.org/index.php?threads/n-terraria-mod-rpg-races-classes-quests-and-other-things.542/) - Terraria Mod
 * [TEdit](https://www.binaryconstruct.com/tedit), [terramap](https://terramap.github.io/), [MoreTerra](https://github.com/mike-mo/MoreTerra/releases), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/tag/3.1.5) or [terraria-map-editor](https://www.terraria-map-editor.com/) - Map Viewers / Editors
 * [Terrasavr](https://yal.cc/r/terrasavr/) - Terraria Character Editor
@@ -1303,9 +1301,9 @@
 ## ▷ Tabletop Tools
 
 * ⭐ **[dice.run](https://dice.run/)**, [Random Dice](http://www.dicesimulator.com/), [Desktop Dice](https://girkovarpa.itch.io/desktopdice) or [Google Dice](https://g.co/kgs/fVJuzq) - Dice Simulators
+* ⭐ **[Kanka](https://kanka.io/en-US)** - Tabletop RPG Manager
+* ⭐ **[5ETools](https://5e.tools/)**, [Kassoon](https://www.kassoon.com/dnd/) or [DragonsFoot](https://www.dragonsfoot.org/) - Dungeons & Dragons Tools
 * [Adventurer's Codex](https://adventurerscodex.com) - Online D&D 5e Campaign Manager / System
-* [Kanka](https://kanka.io/en-US) - Tabletop RPG Manager
-* [5ETools](https://5e.tools/), [Kassoon](https://www.kassoon.com/dnd/) or [DragonsFoot](https://www.dragonsfoot.org/) - Dungeons & Dragons Tools
 * [The Acaeum](https://www.acaeum.com/) - Dungeons & Dragons Database
 * [Web Writer](http://www.web-writer.net/fantasy/days/index.html) or [DnD World Building](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - Fantasy World Building Guides
 * [Archives of Nethys](https://aonprd.com/) - Pathfinder Database
@@ -1335,6 +1333,7 @@
 * [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - MKW Techniques, Glitches, & Exploits
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
 * [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching
+* [Four-tris](https://github.com/fiorescarlatto/four-tris) - Tetris Training Client
 * [PuzzleGraph](https://runevision.itch.io/puzzlegraph) - Computer Puzzle Visualizer
 * [MegaGames](https://megagames.com/) or [GTrainers](https://gtrainers.com/) - Fixes / Trainers / Saves
 * [CheatEngine](https://cheatengine.org/) or [WeMod](https://wemod.com/) / [Forum](https://mrantifun.net/) - Cheat Engine
