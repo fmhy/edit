@@ -8,3 +8,5 @@ branding:
 favicon: /static/favicon.ico
 footer:
   copyright: ""
+meta:
+  title: " | FreeMediaHeckYeah"
