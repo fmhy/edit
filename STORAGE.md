@@ -335,7 +335,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Character / Word Counters
 
-[Character / Word Counter Sites](https://rentry.co/bkrro), [CharacterCountOnline](https://www.charactercountonline.com/), [CharacterCounter](https://charactercounter.com/), [CharacterCounterTool](https://charactercounttool.com/), [OnlineEditText](https://onlinetextedit.com/), [LetterCount](https://www.lettercount.com/), [TheWordCounter](https://thewordcounter.com/), [CharCounter](https://charcounter.com/), [CharacterCounter](https://charactercounter.com/ucas), [WordCounter](https://wordcounter.io/), [charactercalculator](https://charactercalculator.com/)
+[Sites Compilation](https://rentry.co/bkrro), [Online Character Count Tool](https://www.charactercountonline.com/), [Character Counter](https://charactercounter.com/), [Character Count Tool](https://charactercounttool.com/), [Online Character Count](https://onlinetextedit.com/), [LetterCount](https://www.lettercount.com/), [The Word Counter](https://thewordcounter.com/), [Charcounter](https://charcounter.com/), [Word Counter](https://wordcounter.io/), [Character Counter](https://charactercalculator.com/)
 
 ***
 
