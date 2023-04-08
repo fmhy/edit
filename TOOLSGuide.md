@@ -1258,7 +1258,7 @@
 * ⭐ **[Discord Servers & Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists)** - Discover Servers / Bots
 * ⭐ **[Discord3rdParties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)** - Discord Client Index
 * ⭐ **[BetterDiscord](http://betterdiscord.app/)** - Modifiable Discord Client / [GitHub](https://github.com/BetterDiscord/BetterDiscord) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)
-* ⭐ **[Vencord](https://github.com/Vendicated/Vencord)** - Modded Discord Client
+* ⭐ **[Vencord](https://vencord.dev/)** - Modded Discord Client / [Github](https://github.com/Vendicated/Vencord)
 * ⭐ **[Revolt](https://revolt.chat/)** or [Guilded](https://www.guilded.gg/) / [Mod](https://github.com/ReGuilded/ReGuilded/) - Discord Alternatives
 * ⭐ **Revolt Tools** - [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) / [Divolt Resources](https://github.com/ggtylerr/awesome-divolt)
 * [Velocity](https://velocity-discord.netlify.app/) - Discord Client Mod
