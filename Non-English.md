@@ -1195,6 +1195,7 @@
 * [baixarfilmetorrent](https://baixarfilmetorrent.vip/) - Movies / TV
 * [baixardownload](https://baixardownloadviatorrentgratis.blogspot.com/) - Movies / TV
 * [Legandas](https://www.legendas.co/) - Movies / TV
+* [Comando](https://comando.la/) - Movies / TV
 * [TorrentFilmes4K](https://torrentfilmes4k.org/) - Movies
 * [FilmesMega](https://filmesmega.net/) - Movies
 * [FilmesPicos](http://www.filmesepicos.com/) - Movies
