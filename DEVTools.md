@@ -48,6 +48,7 @@
 * [Typing.io](https://typing.io/) - Typing Practice for Programmers 
 * [Karel The Robot](https://github.com/fredoverflow/karel) - Basic Programming Teaching Environment
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) - Collection of Project-Based Tutorials
+* [Audio Dev](https://audiodev.blog/newbie-resources/) - Audio Programming Learning Resources
 * [pointers-for-software-engineers](https://github.com/vicoyeh/pointers-for-software-engineers) or [Interview University](https://github.com/jwasham/coding-interview-university) - Software Engineer Study Guides
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Podcasts for Software Engineers
 * [soft-eng-interview-prep](https://github.com/orrsella/soft-eng-interview-prep) - Software Engineer Interview Preparation
@@ -219,7 +220,7 @@
 
 * ⭐ **[Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)** or [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - Cybersecurity Learning Resources
 * [Cyber Security Courses](https://github.com/nbats/FMHYedit/blob/main/base64.md#cyber-security-courses) or [Skills for All](https://skillsforall.com/) - Cyber Security Courses
-* [picoCTF](https://picoctf.org/), [CTFLearn](https://ctflearn.com/), [HTB](https://academy.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
+* [picoCTF](https://picoctf.org/), [CTF Guide](https://jaimelightfoot.com/blog/so-you-want-to-ctf-a-beginners-guide/), [CTFLearn](https://ctflearn.com/), [HTB](https://academy.hackthebox.com/) or [OpenSecurityTraining2](https://opensecuritytraining.info/) - Cybersecurity Lessons
 * [DefendTheWeb](https://defendtheweb.net/) - Cybersecurity Challenges
 * [Cyber Talent Kids](https://cybertalentskids.com/) - Learn About Cybersecurity
 * [pwn.college](https://pwn.college/) - Cybersecurity Practice
