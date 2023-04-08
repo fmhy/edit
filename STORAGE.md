@@ -2,7 +2,7 @@
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 
-**[Table of Contents](https://i.imgur.com/aKIFflA.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/Yyc6Vec.png)** - For mobile users
 
 ***
 
@@ -265,6 +265,12 @@
 #### BetterDiscord Tools
 
 [Plugins](https://betterdiscord.app/plugins), [Themes](https://betterdiscord.app/themes), [Theme Editor](https://bdeditor.dev/), [Support](https://discord.gg/0Tmfo5ZbORCRqbAd), [Nitro Features](https://github.com/riolubruh/YABDP4Nitro), [Messaging Panel](https://github.com/SanjaySunil/BetterDiscordPanel)
+
+***
+
+#### Blogging Platforms
+
+[Bear Blog](https://bearblog.dev/), [Haven](https://havenweb.org/), [Multiverse](https://multiverse.plus/), [Letterpad](https://letterpad.app/), [Mataroa](https://mataroa.blog/), [Write.as](https://write.as/) / [Reader](https://tiny.write.as/), [Emanates Docs](https://emanates.deepjyoti30.dev/), [PublicEmails](https://publicemails.com/), [write freely](https://writefreely.org/), [OffPress](https://offpress.app/), [You Don't Need WP](https://www.youdontneedwp.com/, [notepin](https://notepin.co/), [twtxt](https://github.com/buckket/twtxt)
 
 ***
 
@@ -556,7 +562,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Docker Tools
 
-[Desktop](https://www.docker.com/products/docker-desktop/) / [TUI](https://github.com/jesseduffield/lazydocker) / [Images](https://hub.docker.com/), [2](https://linuxserver.io/), [3](https://hotio.dev/) / [Analyze Images](https://github.com/wagoodman/dive) / [Container Manager](https://portainer.io/), [2](https://yacht.sh/), [3](https://github.com/SelfhostedPro/selfhosted_templates) / [Container Automation](https://github.com/containrrr/watchtower) / [Port Forward](https://github.com/ruoshan/autoportforward) / [Compose Files](https://www.composerize.com/), [2](https://github.com/magicmark/composerize), [3](https://github.com/irbigdata/data-dockerfiles) / [Log Viewer](https://dozzle.dev/) / [Image Linter](https://github.com/goodwithtech/dockle) / [Notifications](https://github.com/crazy-max/diun)
+[Desktop](https://www.docker.com/products/docker-desktop/) / [TUI](https://github.com/jesseduffield/lazydocker) / [Images](https://hub.docker.com/), [2](https://linuxserver.io/), [3](https://hotio.dev/) / [Analyze Images](https://github.com/wagoodman/dive) / [Container Manager](https://portainer.io/), [2](https://yacht.sh/), [3](https://github.com/SelfhostedPro/selfhosted_templates), [4](https://github.com/moncho/dry), [5](https://github.com/containers/podman) / [Container Automation](https://github.com/containrrr/watchtower) / [Port Forward](https://github.com/ruoshan/autoportforward) / [Compose Files](https://www.composerize.com/), [2](https://github.com/magicmark/composerize), [3](https://github.com/irbigdata/data-dockerfiles) / [Log Viewer](https://dozzle.dev/) / [Disk Usage Manager](https://docker-disk.space/) / [Image Linter](https://github.com/goodwithtech/dockle) / [Container Monitor](https://github.com/willfarrell/docker-autoheal) / [Notifications](https://github.com/crazy-max/diun) / [Podman Compose](https://github.com/containers/podman-compose)
 
 ***
 
