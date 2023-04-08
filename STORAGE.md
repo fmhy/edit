@@ -341,20 +341,27 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Clipboard Managers
 
-[ArsClip](http://www.joejoesoft.com/vcms/97/), [Ditto Clipboard Manager](https://ditto-cp.sourceforge.io/), [clipboardmemo](https://gitlab.com/fabrom/clipboardmemo), [CopyQ](https://hluk.github.io/CopyQ/), [Free Clipboard Viewer](https://freeclipboardviewer.com/), [Clip Angel](https://sourceforge.net/projects/clip-angel/), [xClipper](https://github.com/KaustubhPatange/XClipper), [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots), [Clipboard Canvas](https://github.com/d2dyno1/ClipboardCanvas), [Xtra Clipboard](https://xtra-clipboard.com/), [Control V](https://ctrl.vi/), [Clipper](https://github.com/AkashRajpurohit/clipper)
+[ArsClip](http://www.joejoesoft.com/vcms/97/), [Ditto](https://ditto-cp.sourceforge.io/), [ClipboardMemo](https://gitlab.com/fabrom/clipboardmemo), [CopyQ](https://hluk.github.io/CopyQ/), [Free Clipboard Viewer](https://freeclipboardviewer.com/), [ClipAngel](https://sourceforge.net/projects/clip-angel/), [XClipper](https://github.com/KaustubhPatange/XClipper), [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots), [Clipboard Canvas](https://github.com/d2dyno1/ClipboardCanvas), [Xtra Clipboard](https://xtra-clipboard.com/), [Control V](https://ctrl.vi/), [Clipper](https://github.com/AkashRajpurohit/clipper)
 
 ***
 
-#### Code Editors 
+#### Code Editors
 
 * ⭐ **[VSCodium](https://vscodium.com/)** - Code Editor
-* ⭐ **[VS Code Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vscode_tools)** - Tools / Themes for VS Code
+* ⭐ **[VSCode Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vscode_tools)** - Tools / Themes for VS Code
+*  [Neovim](https://neovim.io/) - [Frontend](https://github.com/rohit-px2/nvui) / [Motions](https://github.com/ggandor/lightspeed.nvim)
+* [Emacs](https://www.gnu.org/software/emacs/) - [Docs](https://www.emacsdocs.org/)
+* [Bluefish](http://bluefish.openoffice.nl/index.html) - [Templates](https://templates.openoffice.org/en)
+* [CudaText](https://cudatext.github.io/) - [GitHub](https://github.com/Alexey-T/CudaText)
+* [Lapce](https://lapce.dev/) - [GitHub](https://github.com/lapce/lapce)
 
-[SpaceVim](https://spacevim.org/), [Pulsar](https://pulsar-edit.dev/), [Onivun](https://onivim.io/), [vimrc](https://github.com/amix/vimrc), [NeoVim](https://neovim.io/) / [Frontend](https://github.com/rohit-px2/nvui) / [Motions](https://github.com/ggandor/lightspeed.nvim), [Vim](https://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/) / [Docs](https://www.emacsdocs.org/), [Lite XL](https://lite-xl.github.io/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro Editor](https://micro-editor.github.io/index.html), [OpenOffice](http://bluefish.openoffice.nl/index.html) / [Templates](https://templates.openoffice.org/en), [KomodoEdit](https://github.com/Komodo/KomodoEdit), [TextAdept](https://foicica.com/textadept), [SpaceMacs](http://spacemacs.org/), [Notepad2](https://www.flos-freeware.ch/notepad2.html), [Sublime Text](https://www.sublimetext.com/), [CudaText](https://cudatext.github.io/) / [Git](https://github.com/Alexey-T/CudaText), [Light Table](http://lighttable.com/), [4coder](https://4coder.itch.io/4coder), [lapce](https://lapce.dev/) / [GitHub](https://github.com/lapce/lapce), [Warp](https://www.warp.dev/), [AvaloniaUI](https://avaloniaui.net/), [MassCode](https://masscode.io/), [libvim](https://github.com/onivim/libvim), [amp](https://github.com/jmacdonald/amp), [Visual Studio](https://code.visualstudio.com/), [Graviton](https://graviton.netlify.app/), [BBEdit](http://www.barebones.com/), [Vim Latex](http://vim-latex.sourceforge.net/) 
+[SpaceVim](https://spacevim.org/), [Pulsar](https://pulsar-edit.dev/), [Onivim 2](https://onivim.io/), [The Ultimate vimrc](https://github.com/amix/vimrc), [Vim](https://www.vim.org/), [Lite XL](https://lite-xl.com/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro](https://micro-editor.github.io/index.html), [Komodo Edit](https://github.com/Komodo/KomodoEdit), [Textadept](https://foicica.com/textadept), [Spacemacs](http://spacemacs.org/), [Notepad2](https://www.flos-freeware.ch/notepad2.html), [Sublime Text](https://www.sublimetext.com/), [Light Table](http://lighttable.com/), [4coder](https://mr-4th.itch.io/4coder), [Warp](https://www.warp.dev/), [Avalonia UI](https://avaloniaui.net/), [massCode](https://masscode.io/), [libvim](https://github.com/onivim/libvim), [Amp](https://github.com/jmacdonald/amp), [Visual Studio Code](https://code.visualstudio.com/), [Graviton](https://graviton.netlify.app/), [BBEdit](http://www.barebones.com/), [Vim-LaTeX](http://vim-latex.sourceforge.net/)
 
 **Online Code Editors**
 
-[JDFiddle](https://jsfiddle.net/), [W3Schools](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python), [CollabEdit](http://collabedit.com/), [Portacode](https://portacode.com/), [IDE One](https://www.ideone.com/), [SoloLearn](https://www.sololearn.com/) / [Playground](https://code.sololearn.com/), [JSFiddle](https://jsfiddle.net/), [PlayCode](https://playcode.io/), [Objgen](http://www.objgen.com/) 
+* [Sololearn](https://www.sololearn.com/) - [Playground](https://code.sololearn.com/)
+
+[JSFiddle](https://jsfiddle.net/), [W3Schools' Tryit](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python), [Collabedit](http://collabedit.com/), [Portacode](https://portacode.com/), [Ideone](https://www.ideone.com/), [PlayCode](https://playcode.io/), [ObjGen](http://www.objgen.com/)
 
 **Mac Code Editors**
 
@@ -370,7 +377,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [vim-markdown](https://github.com/plasticboy/vim-markdown) - Vim Markdown Plugin
 * [VimAwesome](https://vimawesome.com/) - Vim Plugins
 * [NeovimCraft](https://neovimcraft.com/) - Neovim Plugins
-* [NvChad](https://github.com/NvChad/NvChad) - Neovim CLI 
+* [NvChad](https://github.com/NvChad/NvChad) - Neovim CLI
 * [NeoVide](https://github.com/neovide/neovide) - Neovim Client
 * [DroidVim](https://github.com/shiftrot/droidvim) - Neovim APK
 * [Bootstrap Editor](https://vim-bootstrap.com/) - Vim / Neovim Config Generator Bootstrap Editor
