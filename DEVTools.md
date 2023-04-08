@@ -179,7 +179,7 @@
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book 
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
-* [365Datascience](https://365datascience.com/), [Downloader](https://github.com/Dibakarroy1997/365datascience_downloader) - Free data science courses
+* [365Datascience](https://365datascience.com/) - Free data science courses / [Downloader](https://github.com/Dibakarroy1997/365datascience_downloader)
 ***
 
 ## ▷ Python
