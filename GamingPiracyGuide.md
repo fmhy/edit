@@ -769,24 +769,24 @@
 
 # ► Homebrew
 
-* ⭐ **[Hacks.Guide](https://hacks.guide/)**, **[CFW Guide](https://cfw.guide/)**, [ConsoleMods.org](https://consolemods.org/) / [Discord](https://discord.gg/x5vEnkR4C8), [Digiex](https://digiex.net/forums/), [Homebrew Guides](https://rentry.co/Guides), [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - Homebrew / Console Modding Guides
-* ⭐ **[GBATemp](https://gbatemp.net/)** - Gaming / Console Modding Forum
+* ⭐ **[Hacks.Guide](https://hacks.guide/)**, **[CFW Guide](https://cfw.guide/)**, [ConsoleMods.org](https://consolemods.org/) / [Discord](https://discord.gg/x5vEnkR4C8), [Digiex](https://digiex.net/forums/), [Homebrew Guides](https://rentry.co/Guides), [Homebrew General](https://www.homebrewgeneral.net/) or [Gamebrew](https://www.gamebrew.org/) - Homebrew Guides
+* ⭐ **[GBATemp](https://gbatemp.net/)** - Homebrew Forum
 * ⭐ **[CTGP Revolution](https://www.chadsoft.co.uk/)** or [Wiiki Tockdom](http://wiki.tockdom.com/) - Mario Kart Wii Custom Tracks / Multiplayer
 * [Darthsternie](https://darthsternie.net/) - Console Firmware / Exploits Archive
+* [Nintendo Homebrew](https://discord.gg/C29hYvh) - Nintendo Homebrew Discord
+* [WiiU Exploit](https://wiiuexploit.xyz/) or [ModMii](https://modmii.github.io/) - WiiU Homebrew Installer
+* [Switch Homebrew Discord Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_homebrew_discord_servers)
+* [Homebrew Gang](https://thehbg.shop/main.html) - Switch Homebrew Community
+* [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - Switch Homebrew Subreddit
+* [Switch Guide](https://nh-server.github.io/switch-guide/) or [Switch.Homebrew](https://switch.homebrew.guide/) - Switch Homebrew Guide
+* [SDSetup](https://github.com/noahc3/SDSetup) - Nintendo Switch SD Setup
+* [WiiBrew](https://wiibrew.org/), [Wii Softmod Guide](https://sites.google.com/site/completesg) or [Wii Guide](https://wii.guide/) - Wii Homebrew Guides
 * [Wiimmfi](https://wiimmfi.de/) or [Kaeru Team](https://kaeru.world/) - Wii / DS Multiplayer Servers
 * [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - Wii Homebrew Installer / [Find MAC](https://www.nintendo.com/consumer/systems/wii/en_na/includes/rvl-ht-int-find-mac-address.jsp)
 *[RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - MKW Rebalanced Mod / [Discord](https://discord.gg/YZxyK4f3EU)
 * [MKW Texture Hacks](https://wiki.tockdom.com/wiki/Texture_Hack_Distribution) - Custom MKW Textures
 * [Custom Track Tutorial](https://wiki.tockdom.com/wiki/Custom_Track_Tutorial) - How-to Make Custom MKW Tracks
 * [TTs Online](https://redd.it/ie6gi7) - MKW Online Time Trials Mod
-* [WiiU Exploit](https://wiiuexploit.xyz/) or [ModMii](https://modmii.github.io/) - WiiU Homebrew Installer
-* [Switch Homebrew Discord Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_homebrew_discord_servers)
-* [Homebrew Gang](https://thehbg.shop/main.html) - Switch Homebrew Community
-* [Nintendo Homebrew](https://discord.com/invite/C29hYvh) - 3DS / Switch Homebrew Community
-* [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - Switch Homebrew Subreddit
-* [Switch Guide](https://nh-server.github.io/switch-guide/) or [Switch.Homebrew](https://switch.homebrew.guide/) - Switch Homebrew Guide
-* [SDSetup](https://github.com/noahc3/SDSetup) - Nintendo Switch SD Setup
-* [WiiBrew](https://wiibrew.org/), [Wii Softmod Guide](https://sites.google.com/site/completesg) or [Wii Guide](https://wii.guide/) - Wii Homebrew Guides
 * [Open Shop Channel](https://oscwii.org/) - Wii Homebrew App Library
 * [RiiConnect24](https://rc24.xyz/) - WiiConnect24 Replacement
 * [3DS Hacks Guide](https://3ds.hacks.guide/) - 3DS Modding Guide
