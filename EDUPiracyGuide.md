@@ -26,6 +26,7 @@
 * [Awesome CS](https://github.com/prakhar1989/awesome-courses/) - Courses
 * [OpenLearn](https://www.open.edu/openlearn/) - Courses
 * [Alison](https://alison.com/) - Courses
+* [moo](https://github.com/nbats/FMHYedit/blob/main/base64.md#moo) - Courses
 * [EbookFoundation Courses](https://github.com/EbookFoundation/free-programming-books#free-online-courses) - Courses
 * [OpenCulture](https://www.openculture.com/freeonlinecourses) - Courses 
 * [DigitalGarage](https://learndigital.withgoogle.com/digitalgarage/courses) - Courses 
