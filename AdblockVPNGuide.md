@@ -166,6 +166,7 @@
 * [VirusTotalAV_bot](https://t.me/VirusTotalAV_bot) - Telegram File Scanner
 * [Malware Analysis Search](https://cse.google.com/cse?cx=011750002002865445766%3Apc60zx1rliu)
 * [CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Log4j2 CVE-2021-44228 Vulnerability Scanner
+* [Nuclei](https://nuclei.projectdiscovery.io/) / [Github](https://github.com/projectdiscovery/nuclei) - Vulnerability scanner
 
 ***
 
