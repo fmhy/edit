@@ -165,6 +165,7 @@
 
 ## ▷ Data Science
 
+* [365Datascience](https://365datascience.com/) -Data Science Courses / [Downloader](https://github.com/Dibakarroy1997/365datascience_downloader)
 * [Quick-R](https://www.statmethods.net/index.html) - R Tutorials
 * [Advanced R](https://adv-r.hadley.nz/) - R Guide / [Solutions](https://advanced-r-solutions.rbind.io/)
 * [R Packages](https://r-pkgs.org/) - R Packages Guide
@@ -179,7 +180,7 @@
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book 
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
-* [365Datascience](https://365datascience.com/) - Free data science courses / [Downloader](https://github.com/Dibakarroy1997/365datascience_downloader)
+
 ***
 
 ## ▷ Python
