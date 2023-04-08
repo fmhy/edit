@@ -385,7 +385,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Coding Tutorials
 
-* [W3Schools](https://www.w3schools.com/) - [Offline](https://github.com/Ja7ad/W3Schools)
+* [W3Schools](https://www.w3schools.com/) - [Offline Version](https://github.com/Ja7ad/W3Schools)
 
 [RIP Tutorial](https://riptutorial.com/), [Programiz](https://www.programiz.com/), [GeeksforGeeks](https://www.geeksforgeeks.org/), [Python Tutor](https://pythontutor.com/), [calmcode](https://calmcode.io/), [Tuts 4 You](https://forum.tuts4you.com/), [Codelabs](https://codelabs.developers.google.com/), [Free Ebook Foundation's Interactive Programming Tutorials](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md), [Nayuki](https://www.nayuki.io/), [ZetCode](https://zetcode.com/), [Xah Code](http://xahlee.info/index.html), [Codings Point](https://www.codingspoint.com/), [Hackr.io](https://hackr.io/), [Guru99](https://www.guru99.com/), [Use My Notes](https://usemynotes.com/), [Build your own X](https://github.com/danistefanovic/build-your-own-x), [Ultimate Programming All-in-One Tutorials](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE), [FreeCourseSite](https://freecoursesite.com/), [Project Based Learning](https://github.com/practical-tutorials/project-based-learning), [Javatpoint](https://www.javatpoint.com/), [Techno Smarter](https://technosmarter.com/)
 
@@ -405,54 +405,39 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Color Pickers
 
-[Colordot](http://color.hailpixel.com/), [Sorted Colors](https://enes.in/sorted-colors/), [spencerhamm](https://chroma.spencerhamm.com/), [color.adobe](https://color.adobe.com/explore), [obscuredetour](https://color.obscuredetour.com/), [colorkit](https://colorkit.io/), [colorpicker](https://colorpicker.fr/), [culrs](https://www.culrs.com/), [colorwise](https://colorwise.io/), [geenes](https://geenes.app/welcome), [image-color](https://image-color.com/), [instant-eyedropper](http://instant-eyedropper.com/), [khroma](http://khroma.co/), [colorpicker](https://annystudio.com/software/colorpicker/), [materialpalettes](https://materialpalettes.com/), [picular](https://picular.co/), [react-color](http://casesandberg.github.io/react-color/), [leonardocolor](https://leonardocolor.io/), [Any11](http://clrs.cc/a11y/), [imagecolorpicker](https://imagecolorpicker.com/), [cccolor](https://fffuel.co/cccolor/), [Instant Eyedropper](https://github.com/miaupaw/instant-eyedropper), [ColorKit Color Picker](https://colorkit.co/color-picker/), [Epick](https://github.com/vv9k/epick), [Pixie](http://www.nattyware.com/pixie.php)
+[Colordot](http://color.hailpixel.com/), [Sorted CSS Colors](https://enes.in/sorted-colors/), [Chroma](https://chroma.spencerhamm.com/), [Adobe Color](https://color.adobe.com/explore), [Color Deck](https://color.obscuredetour.com/), [ColorKit](https://colorkit.io/), [Colorpicker](https://colorpicker.fr/), [Culrs](https://www.culrs.com/), [COLORWISE](https://colorwise.io/), [Geenes](https://geenes.app/welcome), [Image Color Picker](https://image-color.com/), [Instant Eyedropper](http://instant-eyedropper.com/), [Khroma](http://khroma.co/), [Just Color Picker](https://annystudio.com/software/colorpicker/), [Material Design Palette Generator](https://materialpalettes.com/), [Picular](https://picular.co/), [React Color](http://casesandberg.github.io/react-color/), [Leonardo](https://leonardocolor.io/), [Colors](http://clrs.cc/a11y/), [Color Picker](https://imagecolorpicker.com/), [cccolor](https://fffuel.co/cccolor/), [instant-eyedropper](https://github.com/miaupaw/instant-eyedropper), [ColorKit's Color Picker](https://colorkit.co/color-picker/), [epick](https://github.com/vv9k/epick), [Pixie](http://www.nattyware.com/pixie.php)
 
 ***
 
 #### Cooking YouTube Channels
 
-* [Binging with Babish](https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw)
-* [JamieOliver](https://www.youtube.com/user/JamieOliver)
-* [Bon Appetit](https://www.youtube.com/user/BonAppetitDotCom)
-* [Mythical Kitchen](https://www.youtube.com/user/rhettandlink4)
-* [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983) 
-* [Seonkyoung Longest](https://www.youtube.com/user/SeonkyoungLongest)
-* [You Suck At Cooking](https://youtube.com/c/yousuckatcooking)
-* [NinosHome](https://www.youtube.com/c/NinosHome/)
-* [Aragusea](https://youtube.com/user/aragusea) 
-* [Jocondesbaking](https://m.youtube.com/c/%EC%A1%B0%EA%BD%81%EB%93%9CJocondesbaking) 
-* [Ruby Ka Kitchen](https://www.youtube.com/channel/UCMhx-uS3O-G_6_lTrYmDKLw)
+[Babish Culinary Universe](https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw), [Jamie Oliver](https://www.youtube.com/user/JamieOliver), [Bon Appétit](https://www.youtube.com/user/BonAppetitDotCom), [Mythical Kitchen](https://www.youtube.com/user/rhettandlink4), [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983), [Seonkyoung Longest](https://www.youtube.com/user/SeonkyoungLongest), [You Suck At Cooking](https://youtube.com/c/yousuckatcooking), [Nino's Home](https://www.youtube.com/c/NinosHome/), [Adam Ragusea](https://youtube.com/user/aragusea), [조꽁드Joconde's baking](https://m.youtube.com/c/%EC%A1%B0%EA%BD%81%EB%93%9CJocondesbaking), [Ruby Ka Kitchen](https://www.youtube.com/channel/UCMhx-uS3O-G_6_lTrYmDKLw)
 
 ***
 
 #### Copy Google Drives
 
-[gdrive-copy](https://github.com/ericyd/gdrive-copy), [googledrive-copy-downloader](https://github.com/jonathanTIE/googledrive-copy-downloader), [TgFolderClone](https://github.com/Loli-Killer/TgFolderClone), [Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot), [Copy Folder](https://chrome.google.com/webstore/detail/copy-folder/kfbicpdhiofpicipfggljdhjokjblnhl), [GDrive-Clone](https://github.com/alx-xlx/gdrive-clone), [Telegram Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools), [GdriveCloneBot](https://jsmsj.github.io/GdriveCloneBot/)
+[Google Drive Copy Folder](https://github.com/ericyd/gdrive-copy), [googledrive-copy-downloader](https://github.com/jonathanTIE/googledrive-copy-downloader), [TgFolderClone](https://github.com/Loli-Killer/TgFolderClone), [Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot), [Copy Folder](https://chrome.google.com/webstore/detail/copy-folder/kfbicpdhiofpicipfggljdhjokjblnhl), [gdrive-clone](https://github.com/alx-xlx/gdrive-clone), [Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools), [Google Drive Clone Bot](https://jsmsj.github.io/GdriveCloneBot/)
 
 ***
 
 #### Command Line Shells
 
-* zsh - https://www.zsh.org/
 * zsh Tools - [Auto Suggest](https://github.com/zsh-users/zsh-autosuggestions) / [Customization](https://ohmyz.sh/) / [Theme](https://github.com/romkatv/powerlevel10k) / [Auto Setup](https://github.com/gustavohellwig/gh-zsh) / [Rich Framework](https://github.com/sorin-ionescu/prezto)
-* Fish - https://fishshell.com/
-* bash - https://www.gnu.org/software/bash/ (Preinstalled on most distros)
-* elvish - https://elv.sh/
-* es - https://wryun.github.io/es-shell/
-* ion - https://github.com/redox-os/ion
-* yash - https://yash.osdn.jp/
-* xonsh - https://xon.sh/
-* nushell - https://github.com/nushell/nushell 
+* [bash](https://www.gnu.org/software/bash/) - Preinstalled on most distros
+
+[zsh](https://www.zsh.org/), [fish](https://fishshell.com/), [Elvish](https://elv.sh/), [Es](https://wryun.github.io/es-shell/), [Ion](https://gitlab.redox-os.org/redox-os/ion), [Yash](https://yash.osdn.jp/), [Xonsh](https://xon.sh/), [Nushell](https://www.nushell.sh/)
 
 ***
 
 #### Compression Programs
 
 * ⭐ **[Conversion Tutorial Index](https://fileforums.com/showthread.php?t=96782)**
-* ⭐ **[7-Zip](https://www.7-zip.org/)** / [Fork](https://github.com/M2Team/NanaZip) / [Colab](https://github.com/dropcreations/7zip-in-Google-Colab) / [Dark](https://github.com/huanrenfeng/7zipDarkmode) / [Benchmarks](https://s1.hoffart.de/7zip-bench/)
-* ⭐ **[WinRAR](https://www.win-rar.com/)** / [Licenses](https://github.com/nbats/FMHYedit/blob/main/base64.md#winrar-licenses) / [Remove Popup](http://cooltricksb.blogspot.com/2015/03/how-to-remove-40-days-trial-period.html?m=1)
+* ⭐ **[7-Zip](https://www.7-zip.org/)** - [Fork](https://github.com/M2Team/NanaZip) / [Colab](https://github.com/dropcreations/7zip-in-Google-Colab) / [Dark Mode](https://github.com/huanrenfeng/7zipDarkmode) / [Benchmarks](https://s1.hoffart.de/7zip-bench/)
+* ⭐ **[WinRAR](https://www.win-rar.com/)** - [Licenses](https://github.com/nbats/FMHYedit/blob/main/base64.md#winrar-licenses) / [Remove Pop-up](http://cooltricksb.blogspot.com/2015/03/how-to-remove-40-days-trial-period.html?m=1)
+* [TurboBench](https://github.com/powturbo/TurboBench) - Compression Benchmark
 
-[SuperCompression](https://supercompression.ru/), [peazip](https://peazip.github.io/), [hamstersoft](https://hamstersoft.com/), [Unzip Online](https://unzip-online.com/en), [Pigz](https://zlib.net/pigz/), [GNU Gzip](http://www.gnu.org/software/gzip/), [ezyZip](https://www.ezyzip.com/), [FreeARC](https://sourceforge.net/projects/freearc/), [UltraARC](https://www.fileforums.com/showpost.php?p=476660&postcount=1135), [p7zip](https://github.com/jinfeihan57/p7zip), [Razorx](https://fileforums.com/showthread.php?t=103577&highlight=Razorx), [DZip](http://speeddemosarchive.com/dzip/), [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer), [bzip2](http://sourceware.org/bzip2/), [bandizip](http://www.bandisoft.com/bandizip/), [tugzip](http://www.tugzip.com/), [Benchmark](https://github.com/powturbo/TurboBench), [7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd), [Unrar.online](https://unrar.online/), [izarc](https://www.izarc.org/), [zipextractor](https://zipextractor.app/), [zipware](https://www.zipware.org/), [winzip](https://www.winzip.com/), [Efficient-Compression-Tool](https://github.com/fhanau/Efficient-Compression-Tool), [minuimus](https://birds-are-nice.me/software/minuimus.html)
+[SuperCompression](https://supercompression.ru/), [PeaZip](https://peazip.github.io/), [Hamster ZIP Archiver](https://hamstersoft.com/), [unzip-online](https://unzip-online.com/en), [pigz](https://zlib.net/pigz/), [GNU Gzip](http://www.gnu.org/software/gzip/), [ezyZip](https://www.ezyzip.com/), [FreeArc](https://sourceforge.net/projects/freearc/), [UltraARC](https://www.fileforums.com/showpost.php?p=476660&postcount=1135), [p7zip-zstd](https://github.com/jinfeihan57/p7zip), [RazorX 2](https://fileforums.com/showthread.php?t=103577&highlight=Razorx), [Dzip](http://speeddemosarchive.com/dzip/), [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer), [bzip2](http://sourceware.org/bzip2/), [Bandizip](http://www.bandisoft.com/bandizip/), [TUGZip](http://www.tugzip.com/), [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd), [Unrar.online](https://unrar.online/), [IZArc](https://www.izarc.org/), [ZIP Extractor](https://zipextractor.app/), [Zipware](https://www.zipware.org/), [WinZip](https://www.winzip.com/), [Efficient Compression Tool](https://github.com/fhanau/Efficient-Compression-Tool), [Minuimus](https://birds-are-nice.me/software/minuimus.html)
 
 ***
 
