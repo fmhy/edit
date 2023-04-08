@@ -143,7 +143,7 @@
 * Vulners - [Chrome](https://chrome.google.com/webstore/detail/vulners-web-scanner/dgdelbjijbkahooafjfnonijppnffhmd) / [Firefox](https://addons.mozilla.org/es/firefox/addon/vulners-web-scanner/) - Live Website Scanner
 * [SpyOffers](https://www.spyoffers.com/) - Affiliate Link Checker
 * [BitcoinWhosWho](https://www.bitcoinwhoswho.com/) - Bitcoin Address Scanner
-* [Virus Checker](https://add0n.com/virus-checker.html) - Virus Check for Downloads 
+* [Virus Checker](https://add0n.com/virus-checker.html) or [Integrity Downloader](https://www.wintools.info/index.php/integrity-downloader) - Virus Check for Downloads 
 * [Bad Websites](https://github.com/elbkr/bad-websites) - Phishing Site Index for Bots
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Bypass Ransomware Attacks
 * [Ransomwhere](https://ransomwhe.re/) - Ransomware Tracker
