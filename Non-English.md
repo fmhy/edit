@@ -1693,7 +1693,7 @@
 * [Gnula.se](https://gnula.se/) - Movies / TV / Anime
 * [Gnula.nu](https://gnula.nu/) - Movies / TV
 * [CineHDPlus](https://cinehdplus.net/) - Movies / TV
-* [Playdede](https://playdede.nu/) - Movies / TV / Anime / [Telegram](https://t.me/playdedetelegram)
+* [Playdede](https://playdede.to/) - Movies / TV / Anime / [Telegram](https://t.me/playdedetelegram)
 * [allcalidad](https://allcalidad.ms/) - Movies / TV
 * [ennovelas](https://www.ennovelas.com/) - TV
 * [Sololatino](https://sololatino.net/) - Movies / TV / Anime
