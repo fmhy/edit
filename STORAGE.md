@@ -3050,7 +3050,7 @@ Add the following commands to a search to manually scrape each site.
 
 ⭐ **[APKMirror](https://www.apkmirror.com/)** / [Playstore Links](https://pastebin.com/TcsAJib6)
 
-[Android Ultimate Collection](https://forum.xda-developers.com/t/android-ultimate-collection-guides.4513231/), [Android App](https://techy-transistor.notion.site/5359aca6d9494ed893e57823f55499e5?v=4a68e3958c1b443fa61e25c87f96d384), [UpToDown](https://en.uptodown.com/android), [APKPure](https://apkpure.com/), [APKCombo](https://apkcombo.com/), [APKHere](https://www.apkhere.com/), [MobileAPKFree](https://www.mobileapkfree.com/), [Top Androids](https://top-androids.com/), [APK Thing](https://www.apkthing.com/), [APKGit](https://apkgit.co/), [APKMonk](https://www.apkmonk.com/), [APKToy](https://www.apktoy.com/), [APKamp](https://apkamp.com/), [APKSum](https://www.apksum.com/), [matjarapk](https://matjarapk.com/)
+[Android Ultimate Collection](https://forum.xda-developers.com/t/android-ultimate-collection-guides.4513231/), [Android App](https://techy-transistor.notion.site/5359aca6d9494ed893e57823f55499e5?v=4a68e3958c1b443fa61e25c87f96d384), [UpToDown](https://en.uptodown.com/android), [APKPure](https://apkpure.com/), [APKCombo](https://apkcombo.com/), [APKHere](https://www.apkhere.com/), [MobileAPKFree](https://www.mobileapkfree.com/), [Top Androids](https://top-androids.com/), [APK Thing](https://www.apkthing.com/), [APKGit](https://apkgit.co/), [APKMonk](https://www.apkmonk.com/), [APKToy](https://www.apktoy.com/), [APKamp](https://apkamp.com/), [APKSum](https://www.apksum.com/), [matjarapk](https://matjarapk.com/), [apk.cafe](https://apk.cafe/)
 
 ***
 
