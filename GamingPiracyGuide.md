@@ -644,9 +644,8 @@
 ## ▷ Board / Card / Dice
 
 * ⭐ **[lichess](https://lichess.org/)**, [WebChess](http://chess.delorie.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platform
-* [Board Game Online](https://www.boardgame-online.com/), [Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games), [Board Game Arena](https://en.boardgamearena.com/) or [FunNode](https://www.funnode.com/) - Board Games
-* [Hexxagon](https://hexxagon.com/) - Hexagonal Board Game
-* [GtkAtlantic](https://gtkatlantic.gradator.net/index.html) or [Monopolie](http://monopolie.sourceforge.net/index.shtml) - Open Source Monopoly
+* ⭐ **[Board Game Online](https://www.boardgame-online.com/)**, [Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games), [Board Game Arena](https://en.boardgamearena.com/) or [FunNode](https://www.funnode.com/) - Board Games
+* ⭐ **[GtkAtlantic](https://gtkatlantic.gradator.net/index.html)** or [Monopolie](http://monopolie.sourceforge.net/index.shtml) - Open Source Monopoly
 * [Richup](https://richup.io/) - Monopoly-Style Board Game
 * [GameKnot Chess](https://gameknot.com/) - Multiplayer Chess
 * [Chesses](https://pippinbarr.github.io/chesses/) - Multiple Styles of Chess
@@ -664,23 +663,24 @@
 * [Poker Now](https://www.pokernow.club/), [LiPoker](https://lipoker.io/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
 * [KDice](http://www.kdice.com/) - Multiplayer Dice War
 * [Curlie Yahtzee](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Dice/Yahtzee) - Yahtzee Sites Collection
+* [Hexxagon](https://hexxagon.com/) - Hexagonal Board Game
 * [The Bafflement Fires](http://www.dpoetry.com/fires/) - 1950's Freemasonic Board Game
 
 ***
 
 ## ▷ Puzzle Games
 
-* [MasasGames](http://masasgames.com/index.html) - Virtual Escape Rooms
-* [Sokoban](https://suppilulemur.neocities.org/) - Box Moving Puzzle Game / Zelda-Themed
-* [BestCrosswords](https://www.bestcrosswords.com/), [USAToday](https://games.usatoday.com/games/uclick-crossword), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)
+* ⭐ **[Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/)**, [Wordle Unlimited](https://wordleunlimited.org/), [Huedle](https://huedle.com/), [Chessle](https://jackli.gg/chessle), [BoxOfficeGA](https://boxofficega.me/), [Wordversary](https://wordversary.com/), [Alphabeticle](https://alphabeticle.xyz/), [WordMaze](https://wordmaze.click/), [Clidle](https://github.com/ajeetdsouza/clidle), [WordleGame](https://wordlegame.org/), [Squaredle](https://squaredle.app/), [Tweakdle](https://tweakdle.chariz.com/) or [Wordlevs](https://wordlevs.com/) - Wordle Games / [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
+* ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)**, [USAToday](https://games.usatoday.com/games/uclick-crossword), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)
+* ⭐ **[KillerCrossword](https://killercrossword.com/)** - No Clue Crosswords
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
-* [KillerCrossword](https://killercrossword.com/) - No Clue Crosswords
-* [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/), [Wordle Unlimited](https://wordleunlimited.org/), [Huedle](https://huedle.com/), [Chessle](https://jackli.gg/chessle), [BoxOfficeGA](https://boxofficega.me/), [Wordversary](https://wordversary.com/), [Alphabeticle](https://alphabeticle.xyz/), [WordMaze](https://wordmaze.click/), [Clidle](https://github.com/ajeetdsouza/clidle), [WordleGame](https://wordlegame.org/), [Squaredle](https://squaredle.app/), [Tweakdle](https://tweakdle.chariz.com/) or [Wordlevs](https://wordlevs.com/) - Wordle Games / [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
 * [eWordChallenge](https://www.ewordchallenge.net/) - Boggle
 * [ChessGuessr](https://www.chessguessr.com/) - Chess Style Wordle
-* [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles & Quizzes
+* [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
 * [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - Online Jigsaw Puzzles
 * [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - Solve a Rubix Cube / [Solver](https://rubiksolve.com/), [2](https://bnice.ru/asolver/), [3](https://rubiks-cube-solver.com/)
+* [MasasGames](http://masasgames.com/index.html) - Virtual Escape Rooms
+* [Sokoban](https://suppilulemur.neocities.org/) - Box Moving Puzzle Game / Zelda-Themed
 * [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer), [Power](https://1024-game.netlify.app/) or [2048](https://play2048.co/) - 2048 Puzzles
 * [Flappy 2048](https://www.flappy-2048.com/) - Flappy Bird Style 2048
 * [JetHolt](https://jetholt.com/hacking/), [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) or [Aramor](http://aramor.epizy.com/fallout-terminal/main) - Fallout Terminal Hacking Game
@@ -729,11 +729,12 @@
 
 ## ▷ Guessing Games
 
-* ⭐ **[GeoGuessr](https://www.geoguessr.com/)**, [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - Location Guessing Game / [Guide](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) / [Twitch Chat Bot](https://chatguessr.com/)
+* ⭐ **[skribbl](https://skribbl.io/)**, [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * ⭐ **[GuessTheGame](https://guessthe.game/)** - Game Guessing Game
-* [skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
-* [GuessMe!](https://cer0zz.itch.io/guessme) - Guess Answers
+* ⭐ **[GeoGuessr](https://www.geoguessr.com/)**, [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - Location Guessing Game / [Guide](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
+* [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
+* [GuessMe!](https://cer0zz.itch.io/guessme) - Guess Answers
 * [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
 * [WTM](https://whatthemovie.com/) or [Emovi](https://emovi.teuteuf.fr/) - Movie Guessing Games
 * [Heardle](https://www.heardle.app/) or [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - Song Guessing Games
@@ -836,11 +837,9 @@
 # ► Game Mods
 
 * ⭐ **[Game Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_mods)** - Download Single Player Game Mods
-* [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers
-* [ChronoCrash](http://www.chronocrash.com/forum/) or [TheTechGame](https://www.thetechgame.com/) - Game Modding Forum
-* [Playground](https://www.playground.ru/) - Mods, Artbooks, Soundtracks, Cheats & more
-* [SweetFX](https://sfx.thelazy.net/) or [ENBSeries](http://enbdev.com/) - Game Graphic Mods
-* [ModsBase](https://modsbase.com/) or [ModsFire](https://modsfire.com/) - Mod Hosts
+* ⭐ **[FlingTrainer](https://flingtrainer.com/)** - Game Mods / Trainers
+* ⭐ **[ChronoCrash](http://www.chronocrash.com/forum/)** - Game Modding Forum
+* ⭐ **[SweetFX](https://sfx.thelazy.net/)** or [ENBSeries](http://enbdev.com/) - Game Graphic Mods
 * [Otis_Inf Camera Mods](https://redd.it/hvttbd) - Game Camera Mods
 * [HedgeModManager](https://github.com/thesupersonic16/HedgeModManager) - Sonic Game Mod Manager
 * [Hidden Fallout 4 Mods](https://rentry.co/89gads), [2](https://docs.google.com/document/d/1Im5Mg-l2btRsYVOjaJa0slrjDcXNvi41J5pHw_Zuwqw/edit?usp=sharing) - Fallout 4 Mods Removed from Nexus
@@ -852,7 +851,7 @@
 * [Project Reality](https://www.realitymod.com/about) - BF2 & ARMA 2 Realism Mod
 * [BF3Reality](https://bf3reality.com/) - BF3 Realism Mod
 * [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - Battlefield Mod Projects
-* [Open Carnage](https://opencarnage.net/) / [Discord](https://discord.com/invite/2pf3Yjb), [Reclaimers](https://reclaimers.net/) / [Discord](https://discord.com/invite/reclaimers) or [Halo Mods](https://discord.com/invite/WuurKwr)  - Halo Modding Community
+* [Open Carnage](https://opencarnage.net/) / [Discord](https://discord.com/invite/2pf3Yjb), [Reclaimers](https://reclaimers.net/) / [Discord](https://discord.com/invite/reclaimers) or [Halo Mods](https://discord.com/invite/WuurKwr) - Halo Modding Community
 * [Halo 3](https://store.steampowered.com/app/1695791/Halo_3_Mod_Tools__MCC/), [Halo 2](https://store.steampowered.com/app/1613450/Halo_2_Mod_Tools__MCC/) or [Halo CE](https://store.steampowered.com/app/1532190/Halo_CE_Mod_Tools__MCC/) - Halo Modding Tools
 * [Flatout 2 Fan Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2414295888) - Patch for Flatout 2
 * [SWAT: Elite Force](https://www.moddb.com/mods/swat-elite-force) - Swat 4 Enhancement Mod
