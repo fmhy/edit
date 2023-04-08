@@ -59,7 +59,7 @@
 * [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - Download / Torrent / [Discord](https://discord.gg/HP5sQ6c)
 * [Elamigos](https://elamigos.site/) - Download
 * [ScOOter Repacks](https://scooter-repacks.site/) - Download / Torrent / [Discord](https://discord.gg/BWKyN8SgvM)
-* [Xatab Repacks](https://b.otxataba.net/), [2](https://s1.otxatabanet.ru/), [3](https://m.byxatab.com/) - Download / Torrent
+* [Xatab Repacks](https://byxatab.com/), [2](https://otxatabs.net/)  - Download / Torrent
 * [Darck Repacks](https://darckrepacks.com/) - Download
 * [RePack.info](https://repack.info/) - Download / Torrent
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
