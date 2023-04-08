@@ -880,14 +880,13 @@
 
 # ► Tracking / Discovery
 
-* ⭐ **[IMDb Advanced Search](https://www.imdb.com/search/)**
+* ⭐ **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database 
 * ⭐ **[Grouvee](https://www.grouvee.com/)** - Game Tracker
 * ⭐ **[TasteDive](https://tastedive.com/)** - Game Recommendations
 * [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
 * [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Game Recommendation Guides
 * [OpenCritic](https://opencritic.com/) - Critic Game Reviews / Ratings
 * [IMDb](https://www.imdb.com/) - Game Database
-* [GiantBomb](https://www.giantbomb.com/games/) - Game Database 
 * [GameFAQs](https://gamefaqs.gamespot.com/) - Game Database
 * [GG App](https://ggapp.io/) - Game Tracker
 * [Gamelib](https://gamelib.app/explore) - Game Tracker
@@ -903,6 +902,7 @@
 * [listal](https://www.listal.com/) - Game Database
 * [Orcz](http://orcz.com/) - Game Database
 * [FrontierNav](https://frontiernav.net/) - Game Database
+* [IMDb Advanced Search](https://www.imdb.com/search/) - Game Search
 * [Ethereal Games](https://wiki.etherealgames.com/) or [JRGPC](https://jrpgc.com/) - JRPG Databses
 * [SteamPeek](https://steampeek.hu/) - Indie Game Database
 * [RetroShowcase](https://www.retroshowcase.gr/) - Retro Game Database
@@ -927,8 +927,11 @@
 # ► Gaming Tools
 
 * ⭐ **[Game Libraries / Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_libraries_.2F_launcher)** - Manage & Launch Games
-* ⭐ **[Game Tracking / Discovery](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_tracking_.2F_discovery)** - Track Games & Discover New Ones
-* ⭐ **[PCGamingWiki](https://www.pcgamingwiki.com/)** - Game Info, Bug Fixes & Improvements
+* ⭐ **[PCGamingWiki](https://www.pcgamingwiki.com/)** - Game Info, Bug Fixes & Optimization
+* ⭐ **[HowLongToBeat](https://howlongtobeat.com/)** - Find Average Game Lengths 
+* ⭐ **[r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/)** - Find Games from Screenshot or Description
+* ⭐ **[DS4Windows](https://github.com/Ryochan7/DS4Windows)** / [2](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [Input Remapper](https://github.com/sezanzeb/input-remapper) or [InputMapper](https://inputmapper.com/) - Gamepad Input Tools
+* ⭐ **[Pokemon Typechart](https://pokemondb.net/type)** - Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
 * [TCNO](https://github.com/TCNOco/TcNo-Acc-Switcher) - Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)
 * [humble-cli](https://github.com/smbl64/humble-cli) - Humble Bundle CLI
@@ -939,12 +942,10 @@
 * [GameCopyWorld](https://www.gamecopyworld.com/games/index.php) - Game Fixes and Patches
 * [GameBurnWorld](http://www.gameburnworld.com/) - No-CD/No-DVD Patches, Game Fixes, Trainers, Cheats 
 * [ogg-winmm](https://github.com/bangstk/ogg-winmm) - CD Audio Emulator
-* [HowLongToBeat](https://howlongtobeat.com/) - Find Average Game Lengths 
 * [Ludsavi](https://github.com/mtkennerly/ludusavi) or [GameSave Manager](https://www.gamesave-manager.com/) - Game Save Manger
 * [Save Game World](http://www.savegameworld.com/), [savegamedownload](https://www.savegamedownload.com/), [yoursavegames](https://www.yoursavegames.com/), [savesforgames](https://savesforgames.com/), [savegamefiles](https://www.savegamefiles.com/), [savegame-download](https://savegame-download.com/) or [savegame](https://savegame.pro/) - PC Game Save Downloads
 * [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
 * [CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - Cyberpunk 2077 Save Editor
-* [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - Controller Connectivity Testers
 * [Valve Archive](https://valvearchive.com/) - Rare Valve Data Archive
 * [Map Genie](https://mapgenie.io/), [GameMaps](https://www.gamemaps.com/) or [VGMaps](http://www.vgmaps.com/)  - Game Maps 
 * [noclip](https://noclip.website/) - Explore Game Maps 
@@ -953,7 +954,7 @@
 * [SNES Maps](https://www.snesmaps.com/) - SNES Game Maps
 * [Forgehub](https://www.forgehub.com/) - Halo Maps
 * [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/) - Breath of The Wild Map
-* [Fornite.gg](https://fortnite.gg/) - Fornite Map
+* [Fornite.gg](https://fortnite.gg/) - Fortnite Map
 * [Hallownest](https://www.hallownest.net/) - Hollow Knight Map
 * [Hoyolab Teyvat Interactive Map](https://act.hoyolab.com/ys/app/interactive-map/index.html), [Mapgenie Teyvat Interactive Map](https://mapgenie.io/genshin-impact) or [Genshin Impact Map](https://genshin-impact-map.appsample.com/) - Genshin Impact Interactive Maps
 * [Library of Codexes](http://libraryofcodexes.com/) - Game Codex Library
@@ -961,30 +962,26 @@
 * [The Models Resource](https://www.models-resource.com/) - Game Models
 * [The Sounds Resource](https://www.sounds-resource.com/) - Game Sounds
 * [The Halo Archive](https://discord.gg/feB7RgAHBh) or [405th](https://www.405th.com/) - Halo Assets Archive
-* [Mario Mayhem](https://www.mariomayhem.com/) - Mario Fansite
 * [The Spriters Resource](https://www.spriters-resource.com/) - Video Game Sprites
 * [MiiCharacters](http://www.miicharacters.com/) - Famous Mii Creation Guides
 * [Buzz In](https://buzzin.live/) - Online Buzzer System
 * [Score7](https://score7.io/) - Tournament Creator / Manager
 * [KeepTheScore](https://keepthescore.co/) - Leaderboard Creator
-* [DS4Windows](https://github.com/Ryochan7/DS4Windows) / [2](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [Input Remapper](https://github.com/sezanzeb/input-remapper) or [InputMapper](https://inputmapper.com/) - Gamepad Input Tools
 * [ViGEmBus](https://github.com/ViGEm/ViGEmBus) or [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
 * [Xbox for Python](https://github.com/r4dian/Xbox-Controller-for-Python) - Xbox Controller Xinput Module
 * [DsHidMini](https://github.com/ViGEm/DsHidMini) - Use PS3 Controllers on Windows / [Guide](https://vigem.org/projects/DsHidMini/How-to-Install/)
 * [JoyToKey](https://joytokey.net/) - Controller Emulator
 * [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
 * [Mobile Gamepad](https://play.google.com/store/apps/details?id=com.mmh.mobilegamepad&hl=en&gl=US), [Ultimate Gamepad](https://m.apkpure.com/ultimate-gamepad/com.negusoft.ugamepad), [PC Remote](https://play.google.com/store/apps/details?id=com.monect.portable), [Max Joypad](http://maxjoypad.com/) or [BT Controller](https://play.google.com/store/apps/details?id=softigloo.btcontroller&hl=en&gl=US) - Use Phone as Controller
+* [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - Controller Connectivity Testers
 * [Moments](https://steelseries.com/gg/moments) - Game Clip Tool
 * [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
 * [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)
 * [PokeCommunity](https://www.pokecommunity.com/) - Pokemon Community
-* [Pokemon Typechart](https://pokemondb.net/type) - Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)
 * [PokeList](https://pokemonlist.netlify.app/), [Pokedex](https://github.com/skydoves/Pokedex) or [PokeAPI](https://pokeapi.co/) - Pokedex
 * [NYCPokeMap](https://nycpokemap.com/) - Real-time Pokémon Go map for NYC
 * [Cosmic Values](https://petsimulatorvalues.com/) - Pet Simulator X Value List / [Search Engine](https://cse.google.com/cse?cx=832df8e976bee460a#gsc.tab=0)
-* [Playground](https://www.playground.ru/) - Mods, Artbooks, Soundtracks, Cheats & more
 * [Game Currency Conversion Rates](https://docs.google.com/spreadsheets/d/1tcxiGbCIktMDqxGZleHDC5s100tsY7VCTpXUSIkoNFQ/edit) - Convert In-Game Currency to Real Currency
-* [r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/) - Find Games from Screenshot or Description
 * [LP Archives](https://lparchive.org/) - Let's Play Archive
 * [TwitchArchive](https://twitcharchive.com/) - Twitch Video Archive
 * [Moonlight Stream](https://moonlight-stream.org/) - PC Remote Play Client / [GitHub](https://github.com/moonlight-stream)
