@@ -313,24 +313,23 @@
 
 #### Calendars
 
-[calendso](https://calendso.com/) / [2](https://github.com/calendso/calendso), [Calendly](https://calendly.com/), [Zoho](https://www.zoho.com/calendar/), [Outlook Calendar](https://outlook.office.com/calendar/), [Agenda](https://agenda.edo.io/), [Calendar.com](https://www.calendar.com/), [Tweek](https://tweek.so/), [TinyMonth](https://tinymonth.com/), [Reclaim](https://reclaim.ai/), [Tui.Calendar](https://github.com/nhn/tui.calendar), [Gantt](https://github.com/neuronetio/gantt-schedule-timeline-calendar), [Morgen](https://www.morgen.so/), [VIR](https://tommyx12.github.io/VIR/)
+* [Cal.com](https://cal.com/) - [GitHub](https://github.com/calcom/cal.com)
+
+[Calendly](https://calendly.com/), [Zoho Calendar](https://www.zoho.com/calendar/), [Outlook Calendar](https://outlook.office.com/calendar/), [Edo Agenda](https://agenda.edo.io/), [Calendar](https://www.calendar.com/), [Tweek](https://tweek.so/), [TinyMonth](https://tinymonth.com/), [Reclaim](https://reclaim.ai/), [TOAST UI Calendar](https://github.com/nhn/tui.calendar), [Gantt](https://github.com/neuronetio/gantt-schedule-timeline-calendar), [Morgen](https://www.morgen.so/), [VIR](https://tommyx12.github.io/VIR/)
 
 ***
 
 #### Calibre Libraries
 
-* ⭐ **[Calishot](https://eng.calishot.xyz/index-eng/summary)** / [Non-Eng](https://noneng.calishot.xyz/index-not-eng/summary)
-* http://24.13.229.188:8090/
-* http://104.131.175.196:8080/
-* http://185.215.227.81:8081/
-* http://70.88.180.169:8088/
-* http://207.237.122.161:8080/
+* ⭐ **[Calishot](https://eng.calishot.xyz/index-eng/summary)** - [Non-English](https://noneng.calishot.xyz/index-not-eng/summary)
+
+http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:8081/, http://70.88.180.169:8088/, http://207.237.122.161:8080/
 
 ***
 
 #### Calibre Tools
 
-[Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries), [2](https://reddit.com/r/opencalibre) / [Search](https://www.shodan.io/search?query=server%3A+calibre) / [Web App](https://github.com/janeczku/calibre-web)  
+* [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries), [2](https://reddit.com/r/opencalibre) - [Search](https://www.shodan.io/search?query=server%3A+calibre) / [Web App](https://github.com/janeczku/calibre-web)
 
 ***
 
