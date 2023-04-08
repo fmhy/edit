@@ -1,7 +1,5 @@
 ## -> Beginners Guide to Piracy <-
 
--> If you have any questions feel free to join us in [Divolt](https://redd.it/uto5vw) ♡ <-
-
 ***
 ***
 
@@ -182,6 +180,8 @@
 ***
 
 Source: **[/r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
+
+If you have any questions feel free to join us in [Divolt](https://redd.it/uto5vw) ♡
 
 ***
 
