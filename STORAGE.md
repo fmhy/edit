@@ -2393,7 +2393,6 @@ Add the following commands to a search to manually scrape each site.
 * https://www1.xmovies8.io/
 * https://fastzer.com/ 
 * https://moviesonline.fm/
-* https://123hulu.com/
 * https://putlocker.vc
 * https://123enjoy.net/
 * https://www1.moviesin.co/
