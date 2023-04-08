@@ -155,7 +155,7 @@
 * [RyuSAK](https://github.com/Ecks1337/RyuSAK) - Ryujinx Installation Manager
 * [Switch Army Knife](https://github.com/dezem/SAK) - Switch Emulator Multi-Tool
 * [Switch Mods](https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods) - Switch Game Mods
-* [EeveeSaves](https://discord.io/eeveesaves) or [Ecchi's Archives](https://discord.gg/42Xnp7FRVW) - Switch Saves
+* [EeveeSaves](https://discord.io/eeveesaves), [Green Leaf](https://discord.gg/m6z3ra8ssh) or [Ecchi's Archives](https://discord.gg/42Xnp7FRVW) - Switch Saves
 * [Dolphin Guide](https://github.com/shiiion/dolphin/wiki/Performance-Guide) - Dolphin Performance Guide
 * [UniversalDynamicInput]( https://github.com/Venomalia/UniversalDynamicInput) - Custom Dolphin Button Pack
 * [RPCS3 Setup Guide](https://docs.google.com/document/d/1gdjNab-CtVS97jH2diPPP5tCrpBeof9-qPIRRB9-BrU/edit) - RPCS3 Emulator Setup Guide
@@ -777,13 +777,16 @@
 * ⭐ **[CTGP Revolution](https://www.chadsoft.co.uk/)** or [Wiiki Tockdom](http://wiki.tockdom.com/) - Mario Kart Wii Custom Tracks / Multiplayer
 * [Darthsternie](https://darthsternie.net/) - Console Firmware / Exploits Archive
 * [WiiU Exploit](https://wiiuexploit.xyz/) or [ModMii](https://modmii.github.io/) - WiiU Homebrew Installer
+* [Pretendo](https://pretendo.network/) - WiiU / 3DS Network Replacement / [Discord](https://discord.com/invite/pretendo)
 * [Switch Homebrew Discord Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_homebrew_discord_servers)
 * [Homebrew Gang](https://thehbg.shop/main.html) - Switch Homebrew Community
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - Switch Homebrew Subreddit
 * [Switch Guide](https://nh-server.github.io/switch-guide/) or [Switch.Homebrew](https://switch.homebrew.guide/) - Switch Homebrew Guide
 * [Tinfoil](https://tinfoil.io/) - Switch Title Manager / File Browser 
+* [Switch LAN Play](https://discord.gg/PUEmfV4) - Switch LAN Play Server
 * [Tinfoil Shops](https://redd.it/10lqkmh) - Tinfoil Shop Status Megathread
 * [SDSetup](https://github.com/noahc3/SDSetup) - Nintendo Switch SD Setup
+* [FlagBrew](https://flagbrew.org/) - Switch / 3DS Homebrew Tools / [Discord](https://discord.com/invite/4Rv8DTzGFa)
 * [WiiBrew](https://wiibrew.org/), [Wii Softmod Guide](https://sites.google.com/site/completesg) or [Wii Guide](https://wii.guide/) - Wii Homebrew Guides
 * [Wiimmfi](https://wiimmfi.de/) or [Kaeru Team](https://kaeru.world/) - Wii / DS Multiplayer Servers
 * [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - Wii Homebrew Installer / [Find MAC](https://www.nintendo.com/consumer/systems/wii/en_na/includes/rvl-ht-int-find-mac-address.jsp)
@@ -797,8 +800,12 @@
 * [3DS Hacks Guide](https://3ds.hacks.guide/) - 3DS Modding Guide
 * [Universal DB](https://db.universal-team.net/) - 3DS / DS Modding Apps
 * [/r/3dspiracy](https://www.reddit.com/r/3dspiracy/) - 3DS Modding Community
-* [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes
+* [Luma3DS](https://github.com/LumaTeam/Luma3DS) - 3DS Custom Firmware
+* [Theme Plaza](https://themeplaza.art/themes) - 3DS Themes / [Discord](https://discord.com/invite/Pz25PX5vr5)
+* [GodMode9](https://github.com/d0k3/GodMode9) - 3DS File Browser
 * [Batch CIA 3DS Decryptor](https://gbatemp.net/threads/batch-cia-3ds-decryptor-a-simple-batch-file-to-decrypt-cia-3ds.512385/) - Decrypt 3DS Files
+* [BootNTR](https://github.com/Nanquitas/BootNTR) - Stream 3DS to PC or Mac / [Instructions](https://gbatemp.net/threads/3ds-screen-recording-without-a-capture-card-ntr-cfw-method.423445/)
+* [Rverse](https://discord.gg/wCvJSCxf4G) - 3DS Miiverse Recreation
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - NES, SNES & Playstation Mods
 * [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Guides
 * [TheLeecherMan](https://sites.google.com/site/theleecherman/) - Playstation Modding Tools
@@ -926,10 +933,10 @@
 
 # ► Gaming Tools
 
-* ⭐ **[Game Libraries / Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_libraries_.2F_launcher)** - Manage & Launch Games
+* ⭐ **[Game Libraries / Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_libraries_.2F_launcher)** - Manage / Launch Games
 * ⭐ **[PCGamingWiki](https://www.pcgamingwiki.com/)** - Game Info, Bug Fixes & Optimization
 * ⭐ **[HowLongToBeat](https://howlongtobeat.com/)** - Find Average Game Lengths 
-* ⭐ **[r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/)** - Find Games from Screenshot or Description
+* ⭐ **[r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/)** - Find Games via Screenshot or Description
 * ⭐ **[DS4Windows](https://github.com/Ryochan7/DS4Windows)** / [2](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [Input Remapper](https://github.com/sezanzeb/input-remapper) or [InputMapper](https://inputmapper.com/) - Gamepad Input Tools
 * ⭐ **[Pokemon Typechart](https://pokemondb.net/type)** - Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
@@ -982,6 +989,7 @@
 * [NYCPokeMap](https://nycpokemap.com/) - Real-time Pokémon Go map for NYC
 * [Cosmic Values](https://petsimulatorvalues.com/) - Pet Simulator X Value List / [Search Engine](https://cse.google.com/cse?cx=832df8e976bee460a#gsc.tab=0)
 * [Game Currency Conversion Rates](https://docs.google.com/spreadsheets/d/1tcxiGbCIktMDqxGZleHDC5s100tsY7VCTpXUSIkoNFQ/edit) - Convert In-Game Currency to Real Currency
+* [ACPatterns](https://acpatterns.com/) - Animal Crossing Pattern Tool / [Discord](https://discord.com/invite/9rGkZNk)
 * [LP Archives](https://lparchive.org/) - Let's Play Archive
 * [TwitchArchive](https://twitcharchive.com/) - Twitch Video Archive
 * [Moonlight Stream](https://moonlight-stream.org/) - PC Remote Play Client / [GitHub](https://github.com/moonlight-stream)
@@ -1156,7 +1164,7 @@
 * [DepotDownloader](https://github.com/SteamRE/DepotDownloader) or [SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) - Steam Depot Downloaders
 * [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop Implementation of Steam's Mobile Authenticator 
 * [Steam Python](https://github.com/ValvePython/steam) - Interact with Steam via Python
-* [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) or [IdleDaddy](https://play.google.com/store/apps/details?id=com.steevsapps.idledaddy) - Steam Card Automation 
+* [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) or [IdleDaddy](https://play.google.com/store/apps/details?id=com.steevsapps.idledaddy) - Steam Card Automation
 * [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager 
 * [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) / [2](https://steamid.uk/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup 
 * [Steam++](https://steampp.net/) - Enhance Steam Functionality / [GitHub](https://github.com/BeyondDimension/SteamTools)
