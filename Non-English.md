@@ -896,7 +896,9 @@
 * [shinmoemanga](https://shinmoemanga.neocities.org/) - Manga
 * [Comic Walker](https://comic-walker.com/) - Manga
 * [Rawkuma](https://rawkuma.com/) - Manga
-* [KLManga](https://klmanga.com/) - Manga
+* [KLManga](https://klmanga.com/), [2](https://klmanga.su/) - Manga
+* [Nikaraw](https://nikaraw.com/) - Manga
+* [Mangaraw](https://mangaraw.to/) - Manga
 * [boroboro](https://boroboro.neocities.org/) - Manga
 * [tonarinoyj](https://tonarinoyj.jp/) - Manga
 * [Honto](https://honto.jp/cp/ebook/recent/free.html) - Manga / NSFW
@@ -2105,7 +2107,7 @@
 * [DotMovies](https://dotmovies.cam/) - Download / Movies / TV / Cartoons
 * [FullyMaza](https://fullymaza.life/) - Download / Movies / TV / Cartoons
 * [CineVood](https://cinevood.homes/) - Download / Movies
-* [Mallumv](https://tttttt.me/mallumvoff) - Download / Movies
+* [Mallumv](https://mallumv.pics/) - Download / Movies / [Telegram](https://tttttt.me/mallumvoff)
 * [Movies Point](https://sdmoviespoint.fit/) - Download / Movies
 * [SSR Movies](https://www.ssrmovies.wine/) - Download / Movies / [Telegram](https://t.me/SSRmovies2022), [2](https://telegram3.xyz/)
 * [MkvMoviesPoint](https://mkvmoviespoint.one/) - Download / Movies / [Telegram](https://telegram.me/mkvpoint1)
