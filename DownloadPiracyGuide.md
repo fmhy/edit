@@ -21,18 +21,10 @@
 * ⭐ **[Awesome IRC](https://github.com/davisonio/awesome-irc)** - IRC Resource Index
 * [Google TeamDrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#google-teamdrives) 
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28) 
-* [index-of](https://github.com/nbats/FMHYedit/blob/main/base64.md#index-of) 
-* [Manny Hackers](https://github.com/nbats/FMHYedit/blob/main/base64.md#manny-hackers)
-* [Public Drive Bot](https://github.com/nbats/FMHYedit/blob/main/base64.md#public-drive-bot)
-* [blacklistedbois](https://github.com/nbats/FMHYedit/blob/main/base64.md#blacklistedbois)
 * [Shiba](https://github.com/nbats/FMHYedit/blob/main/base64.md#shiba)
-* [HB4All](https://github.com/nbats/FMHYedit/blob/main/base64.md#happyboy)
-* [BlinkDrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#blinkdrive)
 * [GDrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#game-drive)
-* [Mark41stark](https://github.com/nbats/FMHYedit/blob/main/base64.md#mark41stark)
 * [KL Teamdrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#kl-teamdrive)
 * [Cloud Eleventh Hour](https://github.com/nbats/FMHYedit/blob/main/base64.md#cloud-eleventh-hour)
-* [Lightz Cloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#lightz-cloud)
 * [Xtremecloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#xtremecloud)
 * [smolOD](https://github.com/nbats/FMHYedit/blob/main/base64.md#smolod) - Small Open Directories
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
