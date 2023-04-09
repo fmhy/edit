@@ -1090,7 +1090,6 @@
 * [MyCroftProject](https://mycroftproject.com/) - Search Engine Plugins
 * [Google Trends](https://trends.google.com/trends/) - Google Search Trends
 * [The Search Engine Map](https://www.searchenginemap.com/) - View Search Engine Connections
-* [Bing Rewards Automation](https://github.com/Prem-ium/BingRewards) - Automate Bing Rewards
 
 ***
 
