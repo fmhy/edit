@@ -46,7 +46,7 @@
 
 ***
 
-####  Alternative Search Engines
+#### Alternative Search Engines
 
 * ⭐ **[Privacy Focused Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * ⭐ **[Lets Search!](https://letssearch.org/)** - Advanced Search Engine
@@ -234,7 +234,7 @@
 
 ***
 
-####  Automation Tools
+#### Automation Tools
 
 * [rrweb](https://www.rrweb.io/) - [GitHub](https://github.com/rrweb-io/rrweb)
 
@@ -534,7 +534,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### Dev YouTube Channels
 
 * ⭐ **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)**
-* [Frontend developers](https://github.com/andrew--r/channels) - Useful YouTube channels for javascript developers and web designers
+* [Frontend developers](https://github.com/andrew--r/channels) - Useful YouTube Channels for JavaScript Devs
 
 [Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels), [Web Dev / Programming YouTube Channels](https://rentry.co/cozqr), [Bro Code](https://www.youtube.com/@BroCodez), [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom), [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS)
 
@@ -603,7 +603,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ⭐ **[Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)**
 * ⭐ **[Is It Down Right Now](https://www.isitdownrightnow.com/)**
-* ⭐ **[Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy)**
 
 [Is The Service Down?](https://istheservicedown.com/), [Down.com](https://down.com/), [Downdetector](https://downdetector.com/), [websitedown](http://www.websitedown.info/), [Is it up?](https://isitup.org/), [UpDown Radar](https://updownradar.com/), [Xenu's Link Sleuth](http://home.snafu.de/tilman/xenulink.html), [lychee](https://lychee.cli.rs/#/), [Dead Link Checker](https://www.deadlinkchecker.com/), [Online Broken Link Checker](https://brokenlinkcheck.com/broken-links.php), [Dr. Link Check](https://www.drlinkcheck.com/)
 
@@ -627,13 +626,13 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Email Forwarding
 
-* ⭐ **[DDG Email Protection](https://duckduckgo.com/email/)**
+* ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)**
 
-[Forward Email](https://forwardemail.net/), [SimpleLogin](https://simplelogin.io/), [Firefox Relay](https://relay.firefox.com/), [spamgourmet](https://www.spamgourmet.com/index.pl), [Burner Mail](https://burnermail.io/), [scr.im](http://scr.im/), [Mailsac](https://mailsac.com/), [AnonAddy](https://anonaddy.com/), [AltMails](https://altmails.com/), [SpamCage](https://www.spamcage.com/), [YopMail](https://yopmail.com/en/), [MailGW](https://mailgw.com/), [Erine](https://erine.email/)
+[Forward Email](https://forwardemail.net/), [SimpleLogin](https://simplelogin.io/), [Firefox Relay](https://relay.firefox.com/), [spamgourmet](https://www.spamgourmet.com/index.pl), [Burner Mail](https://burnermail.io/), [scr.im](http://scr.im/), [Mailsac](https://mailsac.com/), [AnonAddy](https://anonaddy.com/), [altmails](https://altmails.com/), [Mail.cx](https://mail.cx/), [YOPmail](https://yopmail.com/en/), [Mailgw](https://mailgw.com/), [erine.email](https://erine.email/)
 
 **Telegram Bots**
 
-[FakemailBot](https://t.me/FakemailBot), [DropmailBot](https://t.me/DropmailBot), [ccgen_robot](https://t.me/ccgen_robot)
+[Fake Mail](https://t.me/FakemailBot), [DropMail.me](https://t.me/DropmailBot), [💳 Credit Card Generator 💳](https://t.me/ccgen_robot)
 
 **Extensions**
 
@@ -641,7 +640,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ***
 
-####  Email Sites
+#### Email Sites
 
 [Dispostable](https://www.dispostable.com/), [GMX](https://gmx.com/), [German GMX](https://gmx.net/), [Mail.com](https://www.mail.com/), [1337.no](https://www.1337.no/)
 
@@ -1113,7 +1112,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ***
 
-####  Icon Download Sites
+#### Icon Download Sites
 
 ⭐ **[Awesome Icons](https://github.com/notlmn/awesome-icons)**
 
@@ -1155,7 +1154,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ***
 
-####  Image Hosts
+#### Image Hosts
 
 * ⭐ **[Imgur](https://imgur.com/)**
 * ⭐ **Imgur Tools** - [Frontends](https://rimgo.codeberg.page/), [2](https://git.voidnet.tech/kev/imgin), [3](https://codeberg.org/video-prize-ranch/rimgo), [4](https://codeberg.org/3np/rimgu), [5](https://rimgo.bus-hit.me/) / [Proxy](https://imgin.voidnet.tech/)
@@ -1608,7 +1607,7 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-####  Music Libraries / Players
+#### Music Libraries / Players
 
 **Multi-System**
 
@@ -2193,7 +2192,7 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-####  Screen Recorders
+#### Screen Recorders
 
 ⭐ **[OBS](https://obsproject.com/)** / [Guide](https://youtu.be/7fuFGDFDzUY)
 
@@ -3172,7 +3171,7 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-####  Video Stream Sync
+#### Video Stream Sync
 
 * ⭐ **[SyncPlay](https://syncplay.pl/)**
 * ⭐ **[Watch2Gether](https://w2g.tv/)**
