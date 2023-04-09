@@ -576,13 +576,17 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Domain Info Tools
 
-[WhoisRequest](https://whoisrequest.com/), [Rankchart](https://rankchart.org/), [Securrity Whoiz](http://www.securrity.ru/whoiz.html), [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MXToolBox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/), [IPIP.NET](https://whois.ipip.net/), [BillCipher](https://github.com/84KaliPleXon3/BillCipher), [WebStatsDomain](https://webstatsdomain.org/)
+[WhoisRequest](https://whoisrequest.com/), [Rankchart](https://rankchart.org/), [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MXToolBox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/), [IPIP.NET](https://whois.ipip.net/), [BillCipher](https://github.com/84KaliPleXon3/BillCipher), [WebStatsDomain](https://webstatsdomain.org/)
 
 ***
 
 #### Docker Tools
 
-[Desktop](https://www.docker.com/products/docker-desktop/) / [TUI](https://github.com/jesseduffield/lazydocker) / [Images](https://hub.docker.com/), [2](https://linuxserver.io/), [3](https://hotio.dev/) / [Analyze Images](https://github.com/wagoodman/dive) / [Container Manager](https://portainer.io/), [2](https://yacht.sh/), [3](https://github.com/SelfhostedPro/selfhosted_templates), [4](https://github.com/moncho/dry), [5](https://github.com/containers/podman) / [Container Automation](https://github.com/containrrr/watchtower) / [Port Forward](https://github.com/ruoshan/autoportforward) / [Compose Files](https://www.composerize.com/), [2](https://github.com/magicmark/composerize), [3](https://github.com/irbigdata/data-dockerfiles) / [Log Viewer](https://dozzle.dev/) / [Disk Usage Manager](https://docker-disk.space/) / [Image Linter](https://github.com/goodwithtech/dockle) / [Container Monitor](https://github.com/willfarrell/docker-autoheal) / [Notifications](https://github.com/crazy-max/diun) / [Podman Compose](https://github.com/containers/podman-compose)
+* [Container Manager](https://portainer.io/), [2](https://yacht.sh/), [3](https://moncho.github.io/dry/), [4](https://podman.io/)
+* [Images](https://hub.docker.com/), [2](https://linuxserver.io/), [3](https://hotio.dev/)
+* [Compose Files](https://www.composerize.com/), [2](https://github.com/irbigdata/data-dockerfiles)
+
+[Desktop](https://www.docker.com/products/docker-desktop/), [TUI](https://github.com/jesseduffield/lazydocker), [Analyze Images](https://github.com/wagoodman/dive), [Container Automation](https://containrrr.dev/watchtower/), [Port Forwarding](https://github.com/ruoshan/autoportforward), [Log Viewer](https://dozzle.dev/), [Disk Usage Manager](https://docker-disk.space/), [Image Linter](https://github.com/goodwithtech/dockle), [Container Monitor](https://github.com/willfarrell/docker-autoheal), [Notifications](https://crazymax.dev/diun/), [Podman Compose](https://github.com/containers/podman-compose)
 
 ***
 
