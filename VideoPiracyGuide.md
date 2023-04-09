@@ -716,12 +716,9 @@
 * [†M1o8143](https://github.com/nbats/FMHYedit/blob/main/base64.md#m1o8143) - Movies / TV / Anime
 * [Torrent TD](https://github.com/nbats/FMHYedit/blob/main/base64.md#torrent-td) - Movies / TV / Anime
 * [moo](https://github.com/nbats/FMHYedit/blob/main/base64.md#moo) - Movies / TV
-* [aryatejprakash72](https://github.com/nbats/FMHYedit/blob/main/base64.md#aryatejprakash72) - Movies / TV
-* [teamqbit](https://github.com/nbats/FMHYedit/blob/main/base64.md#teamqbit) - Movies / TV / Anime
 * [188.165.227.112](https://github.com/nbats/FMHYedit/blob/main/base64.md#188165227112) - Movies / TV
 * [162.12.215.254](https://github.com/nbats/FMHYedit/blob/main/base64.md#16212215254) - Movies
 * [163.172.97.48](https://github.com/nbats/FMHYedit/blob/main/base64.md#1631729748) - Movies / TV
-* [akses](https://github.com/nbats/FMHYedit/blob/main/base64.md#akses) - Movies
 * [Movies, Series... in English](https://github.com/nbats/FMHYedit/blob/main/base64.md#movies-series-in-english) - Movies / TV
 * [Extreme Mirror](https://github.com/nbats/FMHYedit/blob/main/base64.md#extreme-mirror) - Movies / TV / Anime
 * [r/moviegod](https://github.com/nbats/FMHYedit/blob/main/base64.md#rmoviegod) - Movies
