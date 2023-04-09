@@ -691,7 +691,6 @@
 * [faustjs](https://github.com/wpengine/faustjs) - Wordpress Framework
 * [Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes) - Themes for Wordpress
 * [Timber](https://upstatement.com/timber/) - WordPress Theme Creator / [GitHub](https://github.com/timber/timber)
-* [Elementor Kit](https://github.com/nbats/FMHYedit/blob/main/base64.md#elementor-kit) - 1400+ Elementor Premium Templates
 * [KokoAnalytics](https://www.kokoanalytics.com/) - Wordpress Analytics
 * [vichan](https://github.com/vichan-devel/vichan) - Imageboard Hosting
 * [ProBoards](https://www.proboards.com/) - Forum & Imageboard Hosting
