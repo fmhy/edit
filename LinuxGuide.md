@@ -345,7 +345,7 @@
 # ► Linux Gaming
 
 * ⭐ **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** / [2](https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?utm_source=share&utm_medium=web2x&context=3) - Linux Gaming Guides
-* ⭐ **[protondb](https://www.protondb.com/)**, **[Lutris](https://lutris.net/)**, [PortWine](https://portwine-linux.ru/portwine-faq/) or [Proton](https://github.com/ValveSoftware/Proton) - Play Windows games on Linux
+* ⭐ **[protondb](https://www.protondb.com/)**, **[Lutris](https://lutris.net/)** or [Proton](https://github.com/ValveSoftware/Proton) - Play Windows games on Linux
 * ⭐ **[Kapital Sin](https://kapitalsin.com/)** - Linux Games
 * ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games
 * [winesapOS](https://github.com/LukeShortCloud/winesapOS) - Play Games on Storage Devices 
@@ -358,7 +358,7 @@
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - Rust TUI for Steam
 * [steam-cli](https://github.com/berenm/steam-cli) - CLI for Steam
 * [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
-* [GameScope](https://github.com/ValveSoftware/gamescop) - Steam Session Compositing Window Manager
+* [GameScope](https://github.com/ValveSoftware/gamescope) - Steam Session Compositing Window Manager
 * [SamRewritten](https://github.com/PaulCombal/SamRewritten) - Steam Achievement Manager
 * [Steam for Linux](https://github.com/ValveSoftware/steam-for-linux) - Steam Linux Beta Issue Tracker
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Epic Games Launcher
