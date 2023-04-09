@@ -1467,15 +1467,15 @@
 # ► Shopping
 
 * ⭐ **[Reddit Favorites](https://redditfavorites.com/)**, [Kit.co](https://kit.co/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product / Service Reviews
+* ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** or **[Didn't Know I Wanted That](https://www.didntknowiwantedthat.com/)** - Find Interesting Things to Buy
 * ⭐ **[Giftasic](https://giftastic.ai/)** - Gift Ideas AI 
-* ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** or **[Didn't Know I Wanted That](https://www.didntknowiwantedthat.com/)** - Gift Ideas
+* [Pepper](https://www.pepper.com/) - Shopping Community
+* [AllArk](https://allark.io/) - Buy Stuff via Crypto
+* [BitRefill](https://www.bitrefill.com/) - Buy Gift Cards via Crypto
 * [Randomicle](https://randomicle.com/) - Random Amazon Products
 * [Facebook Ad Library](https://www.facebook.com/ads/library/) - Find Deals via Facebook Ad Search
 * [Type Hound](https://typohound.com/) - Ebay Typo Search
 * [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wish-list Creators
-* [Pepper](https://www.pepper.com/) - Shopping Community
-* [AllArk](https://allark.io/) - Buy Stuff via Crypto
-* [BitRefill](https://www.bitrefill.com/) - Buy Gift Cards via Crypto
 * [Chipscribe](https://chipscribe.com/) - Split Service Subscription Costs Anonymously 
 * [BTOD](https://www.btod.com/blog/category/buying-guides/) - Office Chair Buying Guides / Reviews
 * [Cars.com](https://www.cars.com/research/compare/), [Vehicle Rankings](https://cars.usnews.com/cars-trucks/rankings), [Motor1](https://www.motor1.com/reviews/) or [Edmunds](https://www.edmunds.com/car-reviews/) - Vehicle Reviews / Comparisons
