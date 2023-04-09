@@ -550,7 +550,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Discord Server / Bot Lists
 
-[Disboard](https://disboard.org/), [DiscordLabs](https://www.discordlabs.org/), [DiscordServers](https://discordservers.com/), [Discord Street](https://discord.st/), [discordlist.io](https://discordlist.io/), [DiscordServers.me](https://discordservers.me/), [Discords](https://discords.com/), [Discord Me](https://discord.me/), [Disforge](https://disforge.com/), [FindADiscord](https://findadiscord.com/), [Open Source](https://discord.com/open-source)
+[DISBOARD](https://disboard.org/), [Discord Labs](https://www.discordlabs.org/), [Discord Servers](https://discordservers.com/), [Discadia](https://discadia.com/), [DiscordList](https://discordlist.io/), [Discords.com](https://discords.com/), [Discord Me](https://discord.me/), [Disforge](https://disforge.com/), [Find a Discord](https://findadiscord.com/), [Open Source Projects](https://discord.com/open-source)
 
 **Bots**
 
