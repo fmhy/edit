@@ -449,7 +449,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Covers / Posters
 
-[The Poster Database](https://theposterdb.com/), [covercentury](https://www.covercentury.com/), [covrik](http://www.covrik.com/), [dvd-covers](https://www.dvd-covers.org/), [cover-addict](https://www.cover-addict.com/), [Gaming Alexandria](https://www.gamingalexandria.com/), [poster-man](http://www.poster-man.com/), [dlhcollections](https://www.dlhcollections.com/index.html), [postercollector](https://postercollector.co.uk/), [moviepostersgallery](https://www.moviepostersgallery.com/), [filmonpaper](https://www.filmonpaper.com/blog/), [gametdb](https://www.gametdb.com/), [Joblo](https://www.joblo.com/movie-posters/), [MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/), [andydecarli](http://andydecarli.com/Video%20Games/Collection/), [impawards](http://www.impawards.com/), [moviemania](https://www.moviemania.io/), [Bendodson](https://bendodson.com/projects/itunes-artwork-finder/) / [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/), [FanArt](https://fanart.tv/)
+* [Ben Dodson](https://bendodson.com/projects/itunes-artwork-finder/), [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/)
+
+[The Poster Database](https://theposterdb.com/), [Cover Century](https://www.covercentury.com/), [covrik](http://www.covrik.com/), [DVD Covers](https://www.dvd-covers.org/), [Cover Addict VIP](https://www.cover-addict.com/), [Gaming Alexandria](https://www.gamingalexandria.com/), [POSTER-MAN](http://www.poster-man.com/), [dlhCollections](https://www.dlhcollections.com/index.html), [The Poster Collector](https://postercollector.co.uk/), [Movie Posters Gallery](https://www.moviepostersgallery.com/), [Film on Paper](https://www.filmonpaper.com/blog/), [GameTDB](https://www.gametdb.com/), [JoBlo](https://www.joblo.com/movie-posters/), [/r/MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/), [andydecarli](http://andydecarli.com/Video%20Games/Collection/), [IMP Awards](http://www.impawards.com/), [Moviemania](https://www.moviemania.io/), [Fanart](https://fanart.tv/)
 
 **Album Art** 
 
