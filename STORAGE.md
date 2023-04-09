@@ -376,9 +376,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 **Vim Tools**
 
+* [vim-plug](https://github.com/junegunn/vim-plug), [2](https://github.com/tpope/vim-pathogen), [3](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
 * [LunarVim](https://github.com/ChristianChiarulli/LunarVim) - Vim Config
 * [Mitosis](https://github.com/BuilderIO/mitosis) - Auto-Compile Components
-* [vim-plug](https://github.com/junegunn/vim-plug), [2](https://github.com/tpope/vim-pathogen), [3](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
 * [Vim Markdown](https://github.com/plasticboy/vim-markdown) - Vim Markdown Plugin
 * [Vim Awesome](https://vimawesome.com/) - Vim Plugins
 * [neovimcraft](https://neovimcraft.com/) - Neovim Plugins
@@ -523,9 +523,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[Free For Devs](https://drgraph.cf/freefordevs)**
 * ⭐ **[Free for Developers](https://free-for.dev/)**
 * ⭐ **[CyberChef](https://cyberchef.app/)**
-* [DevToys](https://devtoys.app/) - [GitHub](https://github.com/veler/DevToys)
 * [JetBrains](https://jetbrains.com/) - [Trial Script](https://gist.github.com/Gkhnzdmr/29fe3f1c4cf3d3984df4cf380e490074) / [License Server](https://github.com/crazy-max/docker-jetbrains-license-server)
 * [Free-for-students](https://shalvah.me/Free-for-students/) - [GitHub](https://github.com/shalvah/Free-for-students)
+* [DevToys](https://devtoys.app/) - [GitHub](https://github.com/veler/DevToys)
 
 [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse Foundation](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Developer Stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [Clean CSS](https://www.cleancss.com/), [Dev Resources](https://www.devresourc.es/), [Developer Tools and Resources](https://github.com/IliasHad/Developer-Tools-and-Resources), [FreeFormatter.com](https://freeformatter.com/), [Utilities and Tools Online](https://utilities-online.info/), [Free Online Tools for Everyone](https://online-toolz.com/), [String Functions](https://string-functions.com/), [Online String Tools](https://onlinestringtools.com/), [Convert String](https://convertstring.com/), [Coders Tool](https://www.coderstool.com/), [Coder’s Toolbox](https://coderstoolbox.net/), [elmah.io](https://elmah.io/tools/), [Prototypr](https://prototypr.io/toolbox/page/1), [AppDevTools](https://appdevtools.com/)
 
@@ -541,7 +541,10 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Discord Embed Generators
 
-[Discohook](https://discohook.org/), [Rauf's Embed Generator](https://embed.rauf.wtf), [discord.club](https://discord.club/embedg/), [0x71](https://em.0x71.cc/), [Webhook Gold](https://webhook.discord.gold/), [PSDiscord](https://github.com/EvotecIT/PSDiscord), [Rauf's Embed Generator](https://test.rauf.workers.dev/), [Titan Embeds](https://titanembeds.com/)
+* [Rauf's Embed Generator](https://embed.rauf.wtf), [2](https://test.rauf.workers.dev/)
+* [PSDiscord](https://github.com/EvotecIT/PSDiscord) - PowerShell Module
+
+[Discohook](https://discohook.org/), [Embed Generator](https://old.message.style/embedg/), [0x71 Discord Embed API](https://em.0x71.cc/), [Da webhook masta](https://webhook.discord.gold/), [TitanEmbeds](https://titanembeds.com/)
 
 ***
 
