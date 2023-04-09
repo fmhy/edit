@@ -533,9 +533,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Dev YouTube Channels
 
-⭐ **[Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)**
+⭐ **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)**
 
-[andrew--r/channels](https://github.com/andrew--r/channels), [Awesome-Youtube-Channels](https://github.com/epoyraz/), [YT Dev Channels](https://rentry.co/cozqr), [BroCodez](https://www.youtube.com/@BroCodez), [HiteshChoudhary](https://www.youtube.com/@HiteshChoudharydotcom), [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS)
+[YouTube (mostly, but not only) channels for frontend developers](https://github.com/andrew--r/channels), [Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels), [Web Dev / Programming YouTube Channels](https://rentry.co/cozqr), [Bro Code](https://www.youtube.com/@BroCodez), [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom), [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS)
 
 ***
 
