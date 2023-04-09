@@ -490,16 +490,23 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ⭐ **[Mastodon](https://joinmastodon.org/)**
 * ⭐ **[Pleroma](https://pleroma.social/)**
+* [diaspora*](https://diasporafoundation.org/), [2](https://diasp.org/)
 
-[diaspora](https://diasporafoundation.org/) / [2](https://diasp.org/), [MissKey](https://join.misskey.page/en/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendi](https://friendi.ca/), [Zotlabs](https://zotlabs.org/page/hubzilla/hubzilla-project), [Movim](https://movim.eu/)
+[Misskey](https://join.misskey.page/en/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendica](https://friendi.ca/), [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project), [Movim](https://movim.eu/)
 
 **Mastodon Tools**
 
-[Twitter Sync](https://github.com/klausi/mastodon-twitter-sync) / [Instances](https://instances.social/) / [Web Client](https://pinafore.social/) / [2](https://mastodon.social/) / [Desktop Client](https://flathub.org/apps/details/com.github.bleakgrey.tootle), [2](https://github.com/h3poteto/whalebird-desktop) / [Account Link](https://moa.party/) / [Schedule](https://scheduler.mastodon.tools/), [2](https://plan.fedilab.app/) / [Embedded Feeds](https://www.mastofeed.com/) / [Timelines](https://mastovue.glitch.me/)
+* [Web Client](https://pinafore.social/), [2](https://mastodon.social/)
+* [Desktop Client](https://tuba.geopjr.dev/), [2](https://whalebird.social/)
+* [Schedule](https://scheduler.mastodon.tools/), [2](https://plan.fedilab.app/)
+
+[Twitter Sync](https://github.com/klausi/mastodon-twitter-sync), [Instances](https://instances.social/), [Twitter Account Link](https://moa.party/), [Embedded Feeds](https://www.mastofeed.com/), [Timelines](https://mastovue.glitch.me/)
 
 **Federated Social Networks**
 
-[Fediverse](https://fediverse.party/), [gotosocial](https://docs.gotosocial.org/en/latest/ ), [Libranet](https://libranet.de/), [Fediverse Observer](https://mastodon.fediverse.observer/) / [Resources](https://github.com/emilebosch/awesome-fediverse)
+* [Fediverse Observer](https://mastodon.fediverse.observer/) - [Resources](https://github.com/emilebosch/awesome-fediverse)
+
+[Fediverse](https://fediverse.party/), [GoToSocial](https://docs.gotosocial.org/en/latest/ ), [LIBRANET.de](https://libranet.de/)
 
 ***
 
