@@ -628,7 +628,6 @@
 * [WorldFree4U](https://worldfree4u.health/) - Movies / TV
 * [1337xHD](https://1337xhd.shop/) - Movies / TV
 * [HDVogo](https://www.hdvogo.cyou/) - Movies
-* [jsupload](https://github.com/nbats/FMHYedit/blob/main/base64.md#jsupload) - Movies
 * [Movies Flix](https://hdmoviesflix.vin/) - Movies / NSFW
 * [Dudefilms](https://dudefilms.ink/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
 * [The Movies Flix](https://themoviesflix.ac/) - Movies / NSFW / [Telegram](https://t.me/themoviezflixac)
