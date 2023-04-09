@@ -649,12 +649,12 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### Encode / Decode URLs
 
 * ⭐ **[Universal Encoding Tool](https://unenc.com/)**
-* ⭐ **[Ciphey](https://github.com/Ciphey/Ciphey)** - Universal Text Decryption 
-* ⭐ **[Base64 Decode](https://www.base64decode.org/) / [Encode](https://www.base64encode.org/)**
-* ⭐ **Base64 Extensions** - [Chrome](https://chrome.google.com/webstore/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi) / [2](https://chrome.google.com/webstore/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf) / [3](https://chrome.google.com/webstore/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) / [Opera](https://addons.opera.com/en/extensions/details/base64-encode-and-decode/)
+* ⭐ **[Ciphey](https://github.com/Ciphey/Ciphey)** - Universal Text Decryption
+* ⭐ **[Base64 Decode](https://www.base64decode.org/) - [Encode](https://www.base64encode.org/)**
+* ⭐ **Base64 Extensions** - [Chrome](https://chrome.google.com/webstore/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [2](https://chrome.google.com/webstore/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf), [3](https://chrome.google.com/webstore/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) / [Opera](https://addons.opera.com/en/extensions/details/base64-encode-and-decode/)
 * ⭐ **[Txtmoji](https://txtmoji.com/)** - Text to Emoji Encryption
 
-[Online Tools](https://emn178.github.io/online-tools/index.html), [Dencode](https://dencode.com/), [AES-256](https://encipher.it/), [UTF8](https://onlineutf8tools.com/), [PubKey](https://pubkey.pm/), [Age Online](https://age-online.com/), [Universal Online Cyrillic Decoder](https://2cyr.com/decode/?lang=en), [Cryptii](https://cryptii.com/), [Enigma Machine](https://observablehq.com/@tmcw/enigma-machine), [Base64 E/D](https://apps.maximelafarie.com/base64/), [Encode/Decode](https://toolbox.googleapps.com/apps/encode_decode/), [Base64.guru](https://base64.guru/), [Base64Decoder](https://base64decoder.io/), [URL Decode](https://url-decode.com/), [URL Encode/Decode](https://www.url-encode-decode.com/), [base64decode.net](https://www.base64decode.net/), [64baser](https://www.64baser.com/), [motobit](https://www.motobit.com/util/base64-decoder-encoder.asp)
+[Online Tools](https://emn178.github.io/online-tools/index.html), [DenCode](https://dencode.com/), [AES encryption tool](https://encipher.it/), [Online UTF8 Tools](https://onlineutf8tools.com/), [pubKey](https://pubkey.pm/), [age online](https://age-online.com/), [Universal Cyrillic decoder](https://2cyr.com/decode/?lang=en), [cryptii](https://cryptii.com/), [Enigma machine](https://observablehq.com/@tmcw/enigma-machine), [Base64 E/D](https://apps.maximelafarie.com/base64/), [Encode/Decode](https://toolbox.googleapps.com/apps/encode_decode/), [Base64.Guru](https://base64.guru/), [Base64Decoder](https://base64decoder.io/), [URL Decode Online](https://url-decode.com/), [URL Encode/Decode](https://www.url-encode-decode.com/), [Base64 Decode and Encode](https://www.base64decode.net/), [Base64 encoder & decoder](https://www.64baser.com/), [Motobit](https://www.motobit.com/util/base64-decoder-encoder.asp)
 
 ***
 
