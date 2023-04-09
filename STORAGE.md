@@ -520,11 +520,14 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Developer Tools
 
-* ⭐ **[FreeForDevs](https://drgraph.cf/freefordevs)**
-* ⭐ **[free-for.dev](https://free-for.dev/)**
+* ⭐ **[Free For Devs](https://drgraph.cf/freefordevs)**
+* ⭐ **[Free for Developers](https://free-for.dev/)**
 * ⭐ **[CyberChef](https://cyberchef.app/)**
+* [DevToys](https://devtoys.app/) - [GitHub](https://github.com/veler/DevToys)
+* [JetBrains](https://jetbrains.com/) - [Trial Script](https://gist.github.com/Gkhnzdmr/29fe3f1c4cf3d3984df4cf380e490074) / [License Server](https://github.com/crazy-max/docker-jetbrains-license-server)
+* [Free-for-students](https://shalvah.me/Free-for-students/) - [GitHub](https://github.com/shalvah/Free-for-students)
 
-[DevToys](https://devtoys.app/) / [GitHub](https://github.com/veler/DevToys), [JetBrains](https://jetbrains.com/) / [Trial Script](https://gist.github.com/Gkhnzdmr/29fe3f1c4cf3d3984df4cf380e490074) / [License Server](https://github.com/crazy-max/docker-jetbrains-license-server), [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Dev stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [CleanCSS](https://www.cleancss.com/), [Dev Resources](https://www.devresourc.es/), [Developer-Tools-and-Resources](https://github.com/IliasHad/Developer-Tools-and-Resources), [FreeForMatter](https://freeformatter.com/), [utilities-online](https://utilities-online.info/), [online-toolz](https://online-toolz.com/), [string-functions](https://string-functions.com/), [onlinestringtools](https://onlinestringtools.com/), [convertstring](https://convertstring.com/), [CodersTool](https://www.coderstool.com/), [Free-for-students](https://shalvah.me/Free-for-students/) / [GitHub](https://github.com/shalvah/Free-for-students), [coderstoolbox](https://coderstoolbox.net/), [elmah](https://elmah.io/tools/), [Prototypr](https://prototypr.io/toolbox/page/1), [AppDevTools](https://appdevtools.com/)
+[SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse Foundation](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Developer Stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [Clean CSS](https://www.cleancss.com/), [Dev Resources](https://www.devresourc.es/), [Developer Tools and Resources](https://github.com/IliasHad/Developer-Tools-and-Resources), [FreeFormatter.com](https://freeformatter.com/), [Utilities and Tools Online](https://utilities-online.info/), [Free Online Tools for Everyone](https://online-toolz.com/), [String Functions](https://string-functions.com/), [Online String Tools](https://onlinestringtools.com/), [Convert String](https://convertstring.com/), [Coders Tool](https://www.coderstool.com/), [Coder’s Toolbox](https://coderstoolbox.net/), [elmah.io](https://elmah.io/tools/), [Prototypr](https://prototypr.io/toolbox/page/1), [AppDevTools](https://appdevtools.com/)
 
 ***
 
@@ -532,7 +535,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ⭐ **[Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)**
 
-[andrew--r/channels](https://github.com/andrew--r/channels), [Awesome-Youtube-Channels](https://github.com/epoyraz/), [YT Dev Channels](https://rentry.co/cozqr), [BroCodez](https://www.youtube.com/@BroCodez), [HiteshChoudhary](https://www.youtube.com/@HiteshChoudharydotcom), [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) 
+[andrew--r/channels](https://github.com/andrew--r/channels), [Awesome-Youtube-Channels](https://github.com/epoyraz/), [YT Dev Channels](https://rentry.co/cozqr), [BroCodez](https://www.youtube.com/@BroCodez), [HiteshChoudhary](https://www.youtube.com/@HiteshChoudharydotcom), [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS)
 
 ***
 
