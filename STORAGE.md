@@ -593,7 +593,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### DOS Games
 
-[DOSGamesLibrary](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS Haven](http://www.doshaven.eu/), [The Software Library](https://archive.org/details/softwarelibrary_msdos), [Best Old Games](http://www.bestoldgames.net/eng/), [DosGames](https://dosgames.com/), [PlayDOSGames](https://www.playdosgames.com/), [DOS Haven](http://www.doshaven.eu/), [ClassicDOSGames](https://www.classicdosgames.com/), [AbandonwareDOS](https://www.abandonwaredos.com/), [DOSGames](https://www.dosgames.com/), [zczc](https://dos.zczc.cz/) (Chinese)
+* [Online DOS games](https://dos.zczc.cz/) - Chinese
+
+[DOS Games Archive](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS HAVEN](http://www.doshaven.eu/), [The Software Library](https://archive.org/details/softwarelibrary_msdos), [Best Old Games](http://www.bestoldgames.net/eng/), [DOSGames](https://dosgames.com/), [PlayDOSGames](https://www.playdosgames.com/), [RGB Classic Games](https://www.classicdosgames.com/), [Abandonware DOS](https://www.abandonwaredos.com/)
 
 ***
 
