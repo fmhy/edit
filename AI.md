@@ -93,7 +93,7 @@
 
 * ⭐ **[Futurepedia](https://www.futurepedia.io/)** - AI Directory
 * ⭐ **[AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR)** - AI Directory
-* ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/free-ai-tools)** - AI Directory
+* ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/)** - AI Directory
 * ⭐ **[Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - AI Resources / Learning
 * ⭐ **[A.I. Apps](https://appraven.net/collection.php?listId=63b5eef1904afd2a981cead0)** - AI iOS App Directory
 * [AISearchTool](https://www.aisearchtool.com/) - AI Search Tool
