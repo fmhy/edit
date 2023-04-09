@@ -951,7 +951,7 @@
 * [Awesome First PR Oppotunities](https://github.com/MunGell/awesome-for-beginners) - Beginner Friendly FOSS Project Index
 * [multi-gitter](https://github.com/lindell/multi-gitter) - Bulk Repository Updater
 * [Git Extensions](https://gitextensions.github.io/), [Railway](https://railway.app/) or [Thermal](https://thermal.codecarrot.net/) - Git Repository Managers
-* [GitZip](https://gitzip.org/) or [DownGit](https://minhaskamal.github.io/DownGit) - Download GitHub Repository Sub-Folders / Files
+* [DownGit](https://minhaskamal.github.io/DownGit) - Download GitHub Repository Sub-Folders / Files
 * [Install from GitHub](https://github.com/MaxGyver83/install-from-github) or [Eget](https://github.com/zyedidia/eget) - Install Packages / Binaries Directly from GitHub 
 * [GitHub Wiki Search](https://github.com/linyows/github-wiki-search) - Search GitHub Repository Wikis
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - GitHub Fork Search 
