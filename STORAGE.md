@@ -533,7 +533,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Dev YouTube Channels
 
-⭐ **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)**
+* ⭐ **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)**
 
 [YouTube (mostly, but not only) channels for frontend developers](https://github.com/andrew--r/channels), [Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels), [Web Dev / Programming YouTube Channels](https://rentry.co/cozqr), [Bro Code](https://www.youtube.com/@BroCodez), [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom), [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS)
 
@@ -549,7 +549,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 [Disboard](https://disboard.org/), [DiscordLabs](https://www.discordlabs.org/), [DiscordServers](https://discordservers.com/), [Discord Street](https://discord.st/), [discordlist.io](https://discordlist.io/), [DiscordServers.me](https://discordservers.me/), [Discords](https://discords.com/), [Discord Me](https://discord.me/), [Disforge](https://disforge.com/), [FindADiscord](https://findadiscord.com/), [Open Source](https://discord.com/open-source)
 
-**Bots** 
+**Bots**
 
 [BotBlock](https://botblock.org/), [Top.gg](https://top.gg/), [Bots on Discord](https://bots.ondiscord.xyz/), [Discord Bots](https://discord.bots.gg/), [Top Bots](https://s.advaith.io/topbots), [motiondevelopment](https://www.motiondevelopment.top/), [infinitybotlist](https://infinitybotlist.com/), [discordservices](https://discordservices.net/), [discordbots](https://discordbots.co/), [discordbots](https://discordbots.app/), [discordbotlist](https://discordbotlist.com/), [discord-botlist](https://discord-botlist.eu/), [carbonitex](https://www.carbonitex.net/), [botlist](https://botlist.me/), [blist](https://blist.xyz/), [topcord](https://topcord.xyz/), [yabl](https://yabl.xyz/), [wonderbotlist](https://wonderbotlist.com/), [voidbots](https://voidbots.net/)
 
