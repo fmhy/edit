@@ -132,6 +132,7 @@
 ## ▷ Text Tools
 
 * ⭐ **[Text Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_editors)** - Text Editing Tools
+* ⭐ **[Kludd](https://kludd.co/)** - Collaborative Text Editor
 * ⭐ **[AI Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_text_generators)** - AI Writing Assistants
 * ⭐ **[Note Taking / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps)** - Note Taking / To-Do Apps
 * ⭐ **[Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars)** - Calendar / Scheduling Tools
@@ -142,7 +143,6 @@
 * ⭐ **[Multiple Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_text_tool_sites)** - Sites with Multiple Text Tools
 * ⭐ **[Emojipedia](https://emojipedia.org/)**, [EmojiBatch](https://www.emojibatch.com/), [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/), [Words2Emoji](https://www.words2emoji.com/) or [GetEmoji](https://getemoji.com/) - Emoji Indexes
 * [Scrivener](https://github.com/nbats/FMHYedit/blob/main/base64.md#scrivener) - Book Writing App
-* [WriteURL](https://www.writeurl.com/) or [Kludd](https://kludd.co/) - Collaborative Text Editors
 * [GhostText](https://ghosttext.fregante.com/) - Use Text Editor in Browser
 * [Sticky Notes](https://fdossena.com/?p=stickynotes/i.frag) - Desktop Sticky Notes
 * [ChecklistGenerator](https://checklistgenerator.co/) - Checklist Generator
