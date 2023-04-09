@@ -449,37 +449,40 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Covers / Posters
 
-[The Poster Database](https://theposterdb.com/), [covercentury](https://www.covercentury.com/), [covrik](http://www.covrik.com/), [dvd-covers](https://www.dvd-covers.org/), [cover-addict](https://www.cover-addict.com/), [Gaming Alexandria](https://www.gamingalexandria.com/), [poster-man](http://www.poster-man.com/), [dlhcollections](https://www.dlhcollections.com/index.html), [postercollector](https://postercollector.co.uk/), [moviepostersgallery](https://www.moviepostersgallery.com/), [filmonpaper](https://www.filmonpaper.com/blog/), [gametdb](https://www.gametdb.com/), [Joblo](https://www.joblo.com/movie-posters/), [MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/), [andydecarli](http://andydecarli.com/Video%20Games/Collection/), [impawards](http://www.impawards.com/), [moviemania](https://www.moviemania.io/), [Bendodson](https://bendodson.com/projects/itunes-artwork-finder/) / [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/), [FanArt](https://fanart.tv/)
+* [Ben Dodson](https://bendodson.com/projects/itunes-artwork-finder/), [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/)
 
-**Album Art** 
+[The Poster Database](https://theposterdb.com/), [Cover Century](https://www.covercentury.com/), [covrik](http://www.covrik.com/), [DVD Covers](https://www.dvd-covers.org/), [Cover Addict VIP](https://www.cover-addict.com/), [Gaming Alexandria](https://www.gamingalexandria.com/), [POSTER-MAN](http://www.poster-man.com/), [dlhCollections](https://www.dlhcollections.com/index.html), [The Poster Collector](https://postercollector.co.uk/), [Movie Posters Gallery](https://www.moviepostersgallery.com/), [Film on Paper](https://www.filmonpaper.com/blog/), [GameTDB](https://www.gametdb.com/), [JoBlo](https://www.joblo.com/movie-posters/), [/r/MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/), [andydecarli](http://andydecarli.com/Video%20Games/Collection/), [IMP Awards](http://www.impawards.com/), [Moviemania](https://www.moviemania.io/), [Fanart](https://fanart.tv/)
 
-* ⭐ **[MH Covers](https://covers.musichoarders.xyz)**
-* ⭐ **[AMOGUS](https://github.com/R3AP3/amogus)**
+**Album Art**
 
-[iTunes Artwork Grabber](https://artwork.themoshcrypt.net/), [Album Art Downloader](https://sourceforge.net/projects/album-art/), [kunst](https://github.com/sdushantha/kunst) 
+* ⭐ **[Cover Search Engine](https://covers.musichoarders.xyz)**
+* ⭐ **[Amogus](https://github.com/R3AP3/amogus)**
+
+[The Mosh Crypt](https://artwork.themoshcrypt.net/), [Album Art Downloader](https://sourceforge.net/projects/album-art/), [kunst](https://github.com/sdushantha/kunst)
 
 ***
 
 #### Customizable New Tab Page
 
-[StartPage](https://github.com/deepjyoti30/startpage), [NightTab](https://github.com/zombieFox/nightTab), [hexagonTab](https://github.com/zombieFox/hexagonTab), [CaretTab](https://www.carettab.com/), [mesmerized](https://mesmerized.me/), [Bonjourr](https://bonjourr.fr/), [Perfect Home](https://github.com/perfect-things/perfect-home), [yet another speed dial](https://github.com/conceptualspace/yet-another-speed-dial), [Tabliss](https://tabliss.io/), [Epiboard](https://github.com/Alexays/Epiboard), [Infinity New Tab](https://en.infinitynewtab.com/), [b2ntp](https://d3ward.github.io/b2ntp/) 
-
-* [Custom Start Page](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets/tree/main/custom-start-page) - Terminal Style Start Page
 * [Tabiverse](https://tabiverse.com/) - Universe New Tab Page / [Discord](https://discord.gg/MUgRGwE)
-* [Tabs with a View](https://www.withaview.co/ext/) - Virtual Sights New Tab Page
-* [Minecraft Weather New Tab](https://github.com/sawyerpollard/Minecraft-Weather-New-Tab) - Weather Based Minecraft New Tab Page
+* [Tab with A view](https://www.withaview.co/ext/) - Virtual Sights New Tab Page
+* [MineWeather](https://github.com/sawyerpollard/Minecraft-Weather-New-Tab) - Weather-Based Minecraft New Tab Page
+
+[Minimal Startpage](https://github.com/deepjyoti30/startpage), [nightTab](https://github.com/zombieFox/nightTab), [hexagonTab](https://github.com/zombieFox/hexagonTab), [CaretTab](https://www.carettab.com/), [mesmerized](https://mesmerized.me/), [Bonjourr](https://bonjourr.fr/), [Perfect Home](https://github.com/perfect-things/perfect-home), [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial), [Tabliss](https://tabliss.io/), [Epiboard](https://github.com/Alexays/Epiboard), [Infinity New Tab](https://en.infinitynewtab.com/), [b2ntp](https://d3ward.github.io/b2ntp/), [Terminal-style new tab page](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets/tree/main/custom-start-page)
 
 ***
 
 #### Custom Rich Discord Presence
 
-[CustomRP](https://www.customrp.xyz/), [EasyRP](https://github.com/Pizzabelly/EasyRP), [RPCEngine](https://github.com/qoobes/rpcengine), [discord-custom-rich-presence](https://github.com/HyperBeasty/discord-custom-rich-presence), [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC), [Discord-CustomRP](https://github.com/maximmax42/Discord-CustomRP), [Discord RPC Client](https://github.com/Metalloriff/discord-rpc-client), [Discord-Rich-Presence](https://github.com/BlobbyDev/Discord-Rich-Presence), [Discord RPC](https://github.com/discord/discord-rpc), [DiscordRPCMaker](https://drpcm.t1c.dev/)
+[CustomRP](https://www.customrp.xyz/), [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC), [DiscordRPCMaker](https://drpcm.t1c.dev/)
 
 ***
 
 #### Data Visualization Tools
 
-[Data Gif Maker](http://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [DataWrapper](https://www.datawrapper.de/), [RAWgraphs](https://app.rawgraphs.io/) / [GitHub](https://github.com/rawgraphs/rawgraphs-app), [ChartD](http://chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [HistogramMaker](https://histogrammaker.co/), [AMCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://github.com/Kitware/ParaView) 
+* [RAWGraphs](https://app.rawgraphs.io/) - [GitHub](https://github.com/rawgraphs/rawgraphs-app)
+
+[Data GIF Maker](http://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [chartd](http://chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [Histogram Maker](https://histogrammaker.co/), [amCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://www.paraview.org/)
 
 ***
 
@@ -487,24 +490,31 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ⭐ **[Mastodon](https://joinmastodon.org/)**
 * ⭐ **[Pleroma](https://pleroma.social/)**
+* [diaspora*](https://diasporafoundation.org/), [2](https://diasp.org/)
 
-[diaspora](https://diasporafoundation.org/) / [2](https://diasp.org/), [MissKey](https://join.misskey.page/en/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendi](https://friendi.ca/), [Zotlabs](https://zotlabs.org/page/hubzilla/hubzilla-project), [Movim](https://movim.eu/)
+[Misskey](https://join.misskey.page/en/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendica](https://friendi.ca/), [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project), [Movim](https://movim.eu/)
 
 **Mastodon Tools**
 
-[Twitter Sync](https://github.com/klausi/mastodon-twitter-sync) / [Instances](https://instances.social/) / [Web Client](https://pinafore.social/) / [2](https://mastodon.social/) / [Desktop Client](https://flathub.org/apps/details/com.github.bleakgrey.tootle), [2](https://github.com/h3poteto/whalebird-desktop) / [Account Link](https://moa.party/) / [Schedule](https://scheduler.mastodon.tools/), [2](https://plan.fedilab.app/) / [Embedded Feeds](https://www.mastofeed.com/) / [Timelines](https://mastovue.glitch.me/)
+* [Web Client](https://pinafore.social/), [2](https://mastodon.social/)
+* [Desktop Client](https://tuba.geopjr.dev/), [2](https://whalebird.social/)
+* [Schedule](https://scheduler.mastodon.tools/), [2](https://plan.fedilab.app/)
+
+[Twitter Sync](https://github.com/klausi/mastodon-twitter-sync), [Instances](https://instances.social/), [Twitter Account Link](https://moa.party/), [Embedded Feeds](https://www.mastofeed.com/), [Timelines](https://mastovue.glitch.me/)
 
 **Federated Social Networks**
 
-[Fediverse](https://fediverse.party/), [gotosocial](https://docs.gotosocial.org/en/latest/ ), [Libranet](https://libranet.de/), [Fediverse Observer](https://mastodon.fediverse.observer/) / [Resources](https://github.com/emilebosch/awesome-fediverse)
+* [Fediverse Observer](https://mastodon.fediverse.observer/) - [Resources](https://github.com/emilebosch/awesome-fediverse)
+
+[Fediverse](https://fediverse.party/), [GoToSocial](https://docs.gotosocial.org/en/latest/ ), [LIBRANET.de](https://libranet.de/)
 
 ***
 
-#### Design Resources 
+#### Design Resources
 
-⭐ **[Design Resources](https://rentry.co/dt92f)**
+* ⭐ **[Design Resources](https://rentry.co/dt92f)**
 
-[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [ImCreator](http://www.imcreator.com/free), [DesignBundles](https://designbundles.net/free-design-resources), [DesignResources](https://designresourc.es/), [psddd](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [SketchRepo](https://sketchrepo.com/), [Interfaces](https://interfacer.xyz/), [Freebiesbug](http://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Envato Elements Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#envato-elements-collection), [CreativeFabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/), [Evernote.Design](https://www.evernote.design/), [gfxtra31](https://www.gfxtra31.com/), [xsgames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [uistore](https://www.uistore.design/), [charco](https://www.charco.design/), [craftwork](https://craftwork.design/freebies/), [pixelbuddha](https://pixelbuddha.net/), [Squax](https://t.me/squaxassets), [designlab](https://t.me/designlabb), [All4Designer](https://t.me/all4designer), [Kropes editing leak](https://discord.gg/bMmqQdXAhp), [G4D](https://gift4designer.net/), [GFXMountain](http://gfxmountain.com/), [buckets-of-bookmarks](https://buckets-of-bookmarks.daniebeler.com/)
+[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [IM Creator](http://www.imcreator.com/free), [Design Bundles](https://designbundles.net/free-design-resources), [Design Resources](https://designresourc.es/), [PSDDD.co](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [Sketch Repo](https://sketchrepo.com/), [Interfacer](https://interfacer.xyz/), [Freebiesbug](http://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Envato Elements Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#envato-elements-collection), [Creative Fabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/), [Evernote.Design](https://www.evernote.design/), [GFXTRA](https://www.gfxtra31.com/), [XSGames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [UI STORE DESIGN](https://www.uistore.design/), [Charco](https://www.charco.design/), [Craftwork](https://craftwork.design/freebies/), [Pixelbuddha](https://pixelbuddha.net/), [squax](https://t.me/squaxassets), [𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕](https://t.me/designlabb), [all 4 designer](https://t.me/all4designer), [Kropes Leaking Server](https://discord.gg/bMmqQdXAhp), [Gift4Designer](https://gift4designer.net/), [GFXMountain](http://gfxmountain.com/), [Buckets Of Bookmarks](https://buckets-of-bookmarks.daniebeler.com/)
 
 ***
 
