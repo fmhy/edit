@@ -796,7 +796,6 @@
 * [Elmocut](https://github.com/elmoiv/elmocut) or [SelfishNetV3](https://github.com/nov0caina/SelfishNetV3) - ARP Spoofer / Kick Users from WiFi 
 * [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
 * [WiFiCard](https://wificard.io/) - WiFi Info QRCode Generator
-* [Master Networks & Scanning](https://github.com/nbats/FMHYedit/blob/main/base64.md#master-networks--scanning) - Network & Network Scanning Tutorials
 * [RustCat](https://github.com/robiot/rustcat) - Port Listener
 * [SerialPortAssistant](https://github.com/KangLin/SerialPortAssistant) - Serial Port Assistant
 * [.new](https://whats.new/shortcuts) - New Project Shortcuts
@@ -1186,13 +1185,13 @@
 * ⭐ **[Subreddit Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_subreddit_discovery)** - Explore / Discover Subreddits
 * ⭐ **[/r/multihub](https://www.reddit.com/r/multihub/top/?sort=top&t=all)** or [Multireddit List](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits) - Explore / Discover Multireddits
 * ⭐ **[Redditle](https://redditle.com/)**, [Reddit Google](https://greasyfork.org/en/scripts/381497), [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0) / [2](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30) or [Better Reddit Search](https://betterredditsearch.web.app/) - Reddit Search Engines
-* /u/SaveVideo, [r2monkey](https://github.com/jijirae/r2monkey), [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RedditSave](https://www.redditsave.com/), [redv.co](https://redv.co/), [lew.la](https://lew.la/) or [Reddit.tube](https://www.redd.tube/) - Download Reddit Videos
+* /u/SaveVideo, [r2monkey](https://github.com/jijirae/r2monkey), [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RedditSave](https://www.redditsave.com/), [redv.co](https://redv.co/) or [Reddit.tube](https://www.redd.tube/) - Download Reddit Videos
 * [saveddit](https://github.com/p-ranav/saveddit), [Gert](https://github.com/mcdallas/gert) or [SubredditMediaDownloader](https://github.com/Psycoguana/SubredditMediaDownloader) - Reddit Bulk Media Downloaders
 * [Unmute Reddit](https://greasyfork.org/en/scripts/445557) - Unmute Reddit Videos by Default
 * [Reddit Login Bypass Script](https://pastebin.com/raw/sU5tqwep) - Bypass Reddit Login
 * [Reddit Shadow Ban Info](https://redd.it/ptrm7u) - Check if You've been Shadowbanned
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown) - Learn Reddit Markdown
-* [Busca](https://github.com/afk-mario/busca) or [Mostly Harmless](https://kerrick.github.io/Mostly-Harmless/) - Search / Post Current Tab on Reddit
+* [Busca](https://github.com/afk-mario/busca) - Search / Post Current Tab on Reddit
 * [KarmaDecay](http://karmadecay.com/) - Reddit Reverse Image Search 
 * [Legere](https://www.microsoft.com/en-us/p/legere-for-reddit/9phjrvcskvjz), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/) or [Nuxtit](https://nuxtit.netlify.com/) - Alt Browsers / Web Clients
 * [dappradar](https://reddit.dappradar.com/) - Popular Reddit Post Tracker
