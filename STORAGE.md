@@ -534,8 +534,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### Dev YouTube Channels
 
 * ⭐ **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)**
+* [Frontend developers](https://github.com/andrew--r/channels) - Useful YouTube channels for javascript developers and web designers
 
-[YouTube (mostly, but not only) channels for frontend developers](https://github.com/andrew--r/channels), [Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels), [Web Dev / Programming YouTube Channels](https://rentry.co/cozqr), [Bro Code](https://www.youtube.com/@BroCodez), [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom), [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS)
+[Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels), [Web Dev / Programming YouTube Channels](https://rentry.co/cozqr), [Bro Code](https://www.youtube.com/@BroCodez), [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom), [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS)
 
 ***
 
@@ -554,7 +555,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 **Bots**
 
-[BotBlock](https://botblock.org/), [Top.gg](https://top.gg/), [Bots on Discord](https://bots.ondiscord.xyz/), [Discord Bots](https://discord.bots.gg/), [The top Discord bots ranked by server count](https://s.advaith.io/topbots), [Motion Botlist](https://www.motiondevelopment.top/), [Infinity Bot List](https://infinitybotlist.com/), [Discord Services](https://discordservices.net/), [DiscordBots](https://discordbots.co/), [Discord Bots App](https://discordbots.app/), [Discord Bot List](https://discordbotlist.com/), [Carbon Bot List](https://www.carbonitex.net/discord/bots), [Botlist.me](https://botlist.me/), [Blist.xyz](https://blist.xyz/), [TopCord](https://topcord.xyz/), [YABL](https://yabl.xyz/), [Wonder Bot List](https://wonderbotlist.com/), [Void Bots](https://voidbots.net/)
+[BotBlock](https://botblock.org/), [Top.gg](https://top.gg/), [Bots on Discord](https://bots.ondiscord.xyz/), [Discord Bots](https://discord.bots.gg/), [Top Bots](https://s.advaith.io/topbots), [Motion Botlist](https://www.motiondevelopment.top/), [Infinity Bot List](https://infinitybotlist.com/), [Discord Services](https://discordservices.net/), [DiscordBots](https://discordbots.co/), [Discord Bots App](https://discordbots.app/), [Discord Bot List](https://discordbotlist.com/), [Carbon Bot List](https://www.carbonitex.net/discord/bots), [Botlist.me](https://botlist.me/), [Blist.xyz](https://blist.xyz/), [TopCord](https://topcord.xyz/), [YABL](https://yabl.xyz/), [Wonder Bot List](https://wonderbotlist.com/), [Void Bots](https://voidbots.net/)
 
 ***
 
