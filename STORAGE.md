@@ -685,7 +685,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 **Matrix Home Servers**
 
-* [List of Matrix servers](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) - [2](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html)
+* [List of Matrix servers](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html), [2](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html)
 
 [Conduit](https://gitlab.com/famedly/conduit), [Public Matrix Homeservers](https://joinmatrix.org/servers/), [Public Matrix Homeservers Archive](https://archive.md/4xZE4), [Public Servers](https://wiki.asra.gr/en:public_servers)
 
@@ -701,7 +701,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ⭐ **[Penguin](https://github.com/carsonip/Penguin-Subtitle-Player)**
 
-[Subtitle-Buddy](https://github.com/vincemann/Subtitle-Buddy), [Greenfish](https://www.softpedia.com/get/Multimedia/Video/Other-VIDEO-Tools/Greenfish-Subtitle-Player.shtml), [SRTViewer](https://sourceforge.net/projects/srtviewer/), [SubtitlePlayer](https://sourceforge.net/projects/subtitleplayer/), [JustSubsPlayer](https://archive.codeplex.com/?p=justsubsplayer), [FreeSubtitlePlayer](https://sourceforge.net/projects/freesubtitleplayer/) 
+[Subtitle-Buddy](https://github.com/vincemann/Subtitle-Buddy), [Greenfish](https://www.softpedia.com/get/Multimedia/Video/Other-VIDEO-Tools/Greenfish-Subtitle-Player.shtml), [SRTViewer](https://sourceforge.net/projects/srtviewer/), [SubtitlePlayer](https://sourceforge.net/projects/subtitleplayer/), [JustSubsPlayer](https://archive.codeplex.com/?p=justsubsplayer), [FreeSubtitlePlayer](https://sourceforge.net/projects/freesubtitleplayer/)
 
 ***
 
