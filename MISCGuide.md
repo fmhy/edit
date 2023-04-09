@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/EbRHwIh.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/qqEsG3q.png)** - For mobile users
 
 ***
 *** 
@@ -202,89 +202,6 @@
 * [/r/bookdownloads](https://reddit.com/r/bookdownloads/)
 * [/r/KindleFreebies](https://reddit.com/r/KindleFreebies/)
 * [/r/Freegamestuff](https://reddit.com/r/Freegamestuff)
-
-***
-
-# ► Shopping
-
-## ▷ Electronics
-
-* ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder),  [Build Redux](https://buildredux.com/), [CGDirector](https://www.cgdirector.com/pc-builder/) or [NZXTBld](https://www.letsbld.com/) - PC Building Sites
-* ⭐ **[/r/PCMasterrace Wiki](https://www.reddit.com/r/pcmasterrace/wiki/builds/)**, [/r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [Logical Increments](https://www.logicalincrements.com/) - PC Building Guides / **[Video](https://youtu.be/BL4DCEp7blY)**
-* ⭐ **[NanoReview](https://nanoreview.net/en)** - Hardware Comparisons
-* ⭐ **[rtings](https://www.rtings.com/)** - Hardware Reviews
-* ⭐ **[Open Benchmarking](https://openbenchmarking.org/)** - Hardware Benchmarks
-* ⭐ **[CPUBenchmark](https://www.cpubenchmark.net/)** or [NoteBenchcheck](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html) - GPU / CPU Benchmarks
-* ⭐ **[MechMap](https://www.mechmap.tech/)** / [Guide](https://mechkeys.me/) / [Discord](https://discord.com/invite/mechkeys) or [Alexotos](https://www.alexotos.com/keyboard-vendor-list/) / [Discord](https://discord.com/invite/xMQArAaGRB) - Mechanical Keyboard Recommendations
-* [Technical City](https://technical.city/) or [Techspecs](https://techspecs.io/) - Hardware Comparisons
-* [LabGopher](https://www.labgopher.com/) - eBay Hardware Price Comparisons 
-* [/r/buildapc](https://reddit.com/r/buildapc) - PC Building Community / [Discord](https://discord.com/invite/buildapc)
-* [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
-* [/r/SuggestAPC](https://reddit.com/r/SuggestAPC) - PC Suggestion Community
-* [NewMaxx's SSD Site](https://ssd.borecraft.com/) - SSD Buying Guide
-* [Disk Prices](https://diskprices.com/) - Disk Price Tracker
-* [Shucks](https://shucks.top/) - External Drive Price Tracker
-* [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Laptop Deals](https://laptopsdeals.net/our-gaming-laptops-guide-list/), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
-* [Laptop Knowledge Database](https://laptops.miraheze.org/wiki/Main_Page) or [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Databases
-* [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/) or [/r/MouseReview Wiki](https://www.reddit.com/r/MouseReview/wiki/index/) - Mouse Buying Guides
-* [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - Mouse Click Latency Chart
-* [MechGroupBuys](https://www.mechgroupbuys.com/) - Group Mechanical Keyboard Buying / [Discord](https://discord.com/invite/mechgroupbuys) / [Reddit](https://www.reddit.com/r/MechGroupBuys/)
-* [PSU Tier List](https://cultists.network/140/psu-tier-list/) - PSU Buying Guide
-* [PC Monitors](https://pcmonitors.info/), [Monitor Spreadsheet](https://docs.google.com/spreadsheets
-/d/1wBV0U3a1XuP1yFLvs_Ald3FE1y45bVxtS2zBXixsGLs/) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
-* [GPUDrops](https://gpudrops.com/) / [Discord](https://discord.gg/gpudrops), [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
-* [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones / Prices
-* [Don’t kill my app!](https://dontkillmyapp.com/) - Manufacturer Battery Life vs. App Functionality
-* [PhoneSized](https://phonesized.com/) - Phone Size Comparisons
-* [DXOMARK](https://www.dxomark.com/) - Smartphone Quality Testing
-
-## ▷ Games
-
-* ⭐ **[GG.deals](https://gg.deals/)**, 
-* ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)** 
-* ⭐ **[SteamDB](https://steamdb.info/sales/)**, 
-* [AllKeyShop](https://www.allkeyshop.com/blog/) or [PSPrices](https://psprices.com/)
-* [EpicGamesDC](https://epicgamesdb.info/) - Epic Store Price Tracker
-* [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker
-* [DekuDeals](https://www.dekudeals.com/) or [NTDeals](https://ntdeals.net/) - Switch Game Price Trackers
-* [PS Deals](https://psdeals.net/) - PlayStation Game Price Tracker
-
-## ▷ Discovery
-
-* ⭐ **[Giftasic](https://giftastic.ai/)** - Gift Ideas AI 
-* ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** or **[Didn't Know I Wanted That](https://www.didntknowiwantedthat.com/)** - Gift Ideas
-* [Facebook Ad Library](https://www.facebook.com/ads/library/) - Find Deals via Facebook Ad Search
-* [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wish-list Creators
-* [Pepper](https://www.pepper.com/) - Shopping Community
-* [Randomicle](https://randomicle.com/) - Random Amazon Products
-* [Search Ebay Sold](https://chrome.google.com/webstore/detail/search-ebay-sold/mhlcjbhhieanjjafbcoeclghpnjhepif) - Ebay Sold Item Search
-* [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
-* [Type Hound](https://typohound.com/) - Ebay Typo Search
-
-## ▷ Price Trackers / Tools
-
-* ⭐ **[Keepa](https://keepa.com/)** or **[CamelCamelCamel](https://camelcamelcamel.com/)** - Amazon Price Tracker / [App](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno)
-* ⭐ **[Real Price Tracker](https://www.realpricetracker.com/)** or [FlipsHope](https://flipshope.com/ ) - Price Tracking Extensions
-* [Avaluers](https://avaluers.net/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
-* [Craftie](https://www.craftle.app/) - Furniture Price Calculator
-* [DiaperGrid](https://diapergrid.com/) - Diaper Price Tracker
-* [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
-* [SlyToday](https://slytoday.com/) - Price Comparison Search
-* [Valuta EX](https://valuta.exchange/)  or [Currency World](https://currency.world/)- Currency Converters / [Firefox](https://addons.mozilla.org/en-US/firefox/search/?q=currency%20converter&sort=relevance&type=extension) / [Chrome](https://chrome.google.com/webstore/search/currency%20converter?hl=en&_category=extensions)
-
-## ▷ Misc
-* ⭐ **[Reddit Favorites](https://redditfavorites.com/)**, [Kit.co](https://kit.co/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product / Service Reviews
-* [AllArk](https://allark.io/) - Buy Stuff via Crypto
-* [BitRefill](https://www.bitrefill.com/) - Buy Gift Cards via Crypto
-* [Blahaj Quest](https://blahaj.quest/) - Blåhaj Tracking Map
-* [BTOD](https://www.btod.com/blog/category/buying-guides/) - Office Chair Buying Guides / Reviews
-* [Cars.com](https://www.cars.com/research/compare/), [Vehicle Rankings](https://cars.usnews.com/cars-trucks/rankings), [Motor1](https://www.motor1.com/reviews/) or [Edmunds](https://www.edmunds.com/car-reviews/) - Vehicle Reviews / Comparisons
-* [carsized](https://www.carsized.com/) - Vehicle Size Comparisons 
-* [Chipscribe](https://chipscribe.com/) - Split Service Subscription Costs Anonymously 
-* [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
-* [Microsoft Rewards Generator](https://greasyfork.org/en/scripts/457702), [2](https://github.com/jack-mil/bing-rewards),[3](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2), [4](https://github.com/Tom60chat/Microsoft-Rewards-Farmer-Sharp), [5](https://github.com/3kh0/bing-rewards)- Automate Microsoft Reward Points 
-* [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Wii Shop Music on Shopping Sites
-
 
 ***
 
@@ -1544,3 +1461,87 @@
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - Shows Images & Videos Behind Links & Thumbnails
 * [DisableAMP](https://github.com/AdguardTeam/DisableAMP) - Disable Google AMP Links
+
+***
+
+# ► Shopping
+
+* ⭐ **[Reddit Favorites](https://redditfavorites.com/)**, [Kit.co](https://kit.co/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product / Service Reviews
+* ⭐ **[Giftasic](https://giftastic.ai/)** - Gift Ideas AI 
+* ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** or **[Didn't Know I Wanted That](https://www.didntknowiwantedthat.com/)** - Gift Ideas
+* [Randomicle](https://randomicle.com/) - Random Amazon Products
+* [Facebook Ad Library](https://www.facebook.com/ads/library/) - Find Deals via Facebook Ad Search
+* [Type Hound](https://typohound.com/) - Ebay Typo Search
+* [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wish-list Creators
+* [Pepper](https://www.pepper.com/) - Shopping Community
+* [AllArk](https://allark.io/) - Buy Stuff via Crypto
+* [BitRefill](https://www.bitrefill.com/) - Buy Gift Cards via Crypto
+* [Chipscribe](https://chipscribe.com/) - Split Service Subscription Costs Anonymously 
+* [BTOD](https://www.btod.com/blog/category/buying-guides/) - Office Chair Buying Guides / Reviews
+* [Cars.com](https://www.cars.com/research/compare/), [Vehicle Rankings](https://cars.usnews.com/cars-trucks/rankings), [Motor1](https://www.motor1.com/reviews/) or [Edmunds](https://www.edmunds.com/car-reviews/) - Vehicle Reviews / Comparisons
+* [carsized](https://www.carsized.com/) - Vehicle Size Comparisons 
+* [Blahaj Quest](https://blahaj.quest/) - Blåhaj Tracking Map
+* [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
+* [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
+* [Microsoft Rewards Generator](https://greasyfork.org/en/scripts/457702), [2](https://github.com/jack-mil/bing-rewards),[3](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2), [4](https://github.com/Tom60chat/Microsoft-Rewards-Farmer-Sharp), [5](https://github.com/3kh0/bing-rewards), [6](https://github.com/Prem-ium/BingRewards) - Automate Microsoft Reward Points
+* [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Wii Shop Music on Shopping Sites
+
+***
+
+## ▷ Electronics
+
+* ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder),  [Build Redux](https://buildredux.com/), [CGDirector](https://www.cgdirector.com/pc-builder/) or [NZXTBld](https://www.letsbld.com/) - PC Building Sites
+* ⭐ **[/r/PCMasterrace Wiki](https://www.reddit.com/r/pcmasterrace/wiki/builds/)**, [/r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [Logical Increments](https://www.logicalincrements.com/) - PC Building Guides / **[Video](https://youtu.be/BL4DCEp7blY)**
+* ⭐ **[NanoReview](https://nanoreview.net/en)** - Hardware Comparisons
+* ⭐ **[rtings](https://www.rtings.com/)** - Hardware Reviews
+* ⭐ **[Open Benchmarking](https://openbenchmarking.org/)** - Hardware Benchmarks
+* ⭐ **[CPUBenchmark](https://www.cpubenchmark.net/)** or [NoteBenchcheck](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html) - GPU / CPU Benchmarks
+* ⭐ **[MechMap](https://www.mechmap.tech/)** / [Guide](https://mechkeys.me/) / [Discord](https://discord.com/invite/mechkeys) or [Alexotos](https://www.alexotos.com/keyboard-vendor-list/) / [Discord](https://discord.com/invite/xMQArAaGRB) - Mechanical Keyboard Recommendations
+* [Technical City](https://technical.city/) or [Techspecs](https://techspecs.io/) - Hardware Comparisons
+* [LabGopher](https://www.labgopher.com/) - eBay Hardware Price Comparisons 
+* [/r/buildapc](https://reddit.com/r/buildapc) - PC Building Community / [Discord](https://discord.com/invite/buildapc)
+* [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
+* [/r/SuggestAPC](https://reddit.com/r/SuggestAPC) - PC Suggestion Community
+* [NewMaxx's SSD Site](https://ssd.borecraft.com/) - SSD Buying Guide
+* [Disk Prices](https://diskprices.com/) - Disk Price Tracker
+* [Shucks](https://shucks.top/) - External Drive Price Tracker
+* [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Laptop Deals](https://laptopsdeals.net/our-gaming-laptops-guide-list/), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
+* [Laptop Knowledge Database](https://laptops.miraheze.org/wiki/Main_Page) or [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Databases
+* [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/) or [/r/MouseReview Wiki](https://www.reddit.com/r/MouseReview/wiki/index/) - Mouse Buying Guides
+* [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - Mouse Click Latency Chart
+* [MechGroupBuys](https://www.mechgroupbuys.com/) - Group Mechanical Keyboard Buying / [Discord](https://discord.com/invite/mechgroupbuys) / [Reddit](https://www.reddit.com/r/MechGroupBuys/)
+* [PSU Tier List](https://cultists.network/140/psu-tier-list/) - PSU Buying Guide
+* [PC Monitors](https://pcmonitors.info/), [Monitor Spreadsheet](https://docs.google.com/spreadsheets
+/d/1wBV0U3a1XuP1yFLvs_Ald3FE1y45bVxtS2zBXixsGLs/) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
+* [GPUDrops](https://gpudrops.com/) / [Discord](https://discord.gg/gpudrops), [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
+* [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones / Prices
+* [Don’t kill my app!](https://dontkillmyapp.com/) - Manufacturer Battery Life vs. App Functionality
+* [PhoneSized](https://phonesized.com/) - Phone Size Comparisons
+* [DXOMARK](https://www.dxomark.com/) - Smartphone Quality Testing
+
+***
+
+## ▷ Games
+
+* ⭐ **[GG.deals](https://gg.deals/)**
+* ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)** 
+* ⭐ **[SteamDB](https://steamdb.info/sales/)**
+* [AllKeyShop](https://www.allkeyshop.com/blog/) or [PSPrices](https://psprices.com/)
+* [EpicGamesDC](https://epicgamesdb.info/) - Epic Store Price Tracker
+* [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker
+* [DekuDeals](https://www.dekudeals.com/) or [NTDeals](https://ntdeals.net/) - Switch Game Price Trackers
+* [PS Deals](https://psdeals.net/) - PlayStation Game Price Tracker
+
+***
+
+## ▷ Price Tracking
+
+* ⭐ **[Keepa](https://keepa.com/)** or **[CamelCamelCamel](https://camelcamelcamel.com/)** - Amazon Price Tracker / [App](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno)
+* ⭐ **[Real Price Tracker](https://www.realpricetracker.com/)** or [FlipsHope](https://flipshope.com/ ) - Price Tracking Extensions
+* [Search Ebay Sold](https://chrome.google.com/webstore/detail/search-ebay-sold/mhlcjbhhieanjjafbcoeclghpnjhepif) - Ebay Sold Item Search
+* [Avaluers](https://avaluers.net/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
+* [Craftie](https://www.craftle.app/) - Furniture Price Calculator
+* [DiaperGrid](https://diapergrid.com/) - Diaper Price Tracker
+* [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
+* [SlyToday](https://slytoday.com/) - Price Comparison Search
+* [Valuta EX](https://valuta.exchange/)  or [Currency World](https://currency.world/)- Currency Converters / [Firefox](https://addons.mozilla.org/en-US/firefox/search/?q=currency%20converter&sort=relevance&type=extension) / [Chrome](https://chrome.google.com/webstore/search/currency%20converter?hl=en&_category=extensions)
