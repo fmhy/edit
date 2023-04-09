@@ -602,10 +602,10 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### Down Site Checkers
 
 * ⭐ **[Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)**
-* ⭐ **[IsItDownRightNow](https://www.isitdownrightnow.com/)**
-* ⭐ **[Cyotek-Webcopy](https://www.cyotek.com/cyotek-webcopy)**
+* ⭐ **[Is It Down Right Now](https://www.isitdownrightnow.com/)**
+* ⭐ **[Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy)**
 
-[IsThisServiceDown](https://istheservicedown.com/), [down.com](https://down.com/), [DownDetector](https://downdetector.com/), [websitedown](http://www.websitedown.info/), [isitup](https://isitup.org/), [updownradar](https://updownradar.com/), [Xenu-Link](http://home.snafu.de/tilman/xenulink.html), [Lychee](https://github.com/lycheeverse/lychee), , [Dead Link Checker](https://www.deadlinkchecker.com/), [Broken Link Checker](https://brokenlinkcheck.com/broken-links.php), [DrLinkCheck](https://www.drlinkcheck.com/)
+[Is The Service Down?](https://istheservicedown.com/), [Down.com](https://down.com/), [Downdetector](https://downdetector.com/), [websitedown](http://www.websitedown.info/), [Is it up?](https://isitup.org/), [UpDown Radar](https://updownradar.com/), [Xenu's Link Sleuth](http://home.snafu.de/tilman/xenulink.html), [lychee](https://lychee.cli.rs/#/), [Dead Link Checker](https://www.deadlinkchecker.com/), [Online Broken Link Checker](https://brokenlinkcheck.com/broken-links.php), [Dr. Link Check](https://www.drlinkcheck.com/)
 
 ***
 
