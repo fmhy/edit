@@ -576,7 +576,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Domain Info Tools
 
-[WhoIsRequest](https://whoisrequest.com/), [Rankchart](https://rankchart.org/), [Securrity Whoiz](http://www.securrity.ru/whoiz.html), [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MxToolbox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/), [whois.ipip](https://whois.ipip.net/), [BillCipher](https://github.com/84KaliPleXon3/BillCipher), [webstatsdomain](https://webstatsdomain.org/)
+[WhoisRequest](https://whoisrequest.com/), [Rankchart](https://rankchart.org/), [Securrity Whoiz](http://www.securrity.ru/whoiz.html), [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MXToolBox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/), [IPIP.NET](https://whois.ipip.net/), [BillCipher](https://github.com/84KaliPleXon3/BillCipher), [WebStatsDomain](https://webstatsdomain.org/)
 
 ***
 
