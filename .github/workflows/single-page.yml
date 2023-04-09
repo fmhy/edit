@@ -27,8 +27,9 @@ jobs:
           git config user.email "75871323+taskylizard@users.noreply.github.com"
 
       - name: Update
+        shell: bash
         run: |
-        python .github/single-page.py
-        git add .
-        git commit -m "♻️ update single page"
-        git push
+          python .github/single-page.py
+          git add .
+          git commit -m '♻️ update single page'
+          git push
