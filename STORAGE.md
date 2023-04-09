@@ -668,27 +668,26 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Encrypted Email Services
 
-⭐ **[ProtonMail](https://protonmail.com/)** / [Client](https://github.com/Steccas/ProtonClient)
+* ⭐ **[Proton Mail](https://protonmail.com/)** - [Desktop Client](https://github.com/Steccas/ProtonClient)
 
-[Enigmail](https://www.enigmail.net/index.php/en/), [Private-Mail](https://privatemail.com/), [ShazzleMail](https://shazzlemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [Tilda](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [Tutanota](https://tutanota.com/), [GMX](https://www.gmx.com/), [NeoMailBox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [mailpile](https://www.mailpile.is/), [MSGSafe](https://www.msgsafe.io/), [SecureNym](http://www.securenym.net), [TheHelm](https://thehelm.com/), [OnMail](https://www.onmail.com/), [mailpile](https://www.mailpile.is/), [Skiff](https://skiff.org/mail), [DNMX](https://dnmx.org/)
+[Enigmail](https://www.enigmail.net/index.php/en/), [PrivateMail](https://privatemail.com/), [ShazzleMail](https://shazzlemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [Tildamail](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [Tutanota](https://tutanota.com/), [GMX](https://www.gmx.com/), [Neomailbox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [Mailpile](https://www.mailpile.is/), [MsgSafe.io](https://www.msgsafe.io/), [SecureNym](http://www.securenym.net), [OnMail](https://www.onmail.com/), [Skiff Mail](https://skiff.org/mail), [Dark Net Mail Exchange](https://dnmx.org/)
 
 ***
 
 #### Encrypted Messengers
 
-* ⭐ **[Matrix](https://matrix.org/)** / [Cinny](https://cinny.in/) / [Mod Tools](https://github.com/matrix-org/mjolnir)
+* ⭐ **[Matrix](https://matrix.org/)** - [Cinny](https://cinny.in/) / [Mod Tools](https://github.com/matrix-org/mjolnir)
 * ⭐ **[Signal](https://signal.org/)**
+* [Bitmessage](https://wiki.bitmessage.org/Main_Page) - [Reference Client](https://github.com/Bitmessage/PyBitmessage)
+* [Speek](https://speek.network/) - [GitHub](https://github.com/speek-app/speek)
 
-[RetroShare](https://retroshare.cc/), [Off-the-Record](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Demonsaw](https://www.demonsaw.com/), [Bitmessage](https://wiki.bitmessage.org/Main_Page) / [Reference Client](https://github.com/Bitmessage/PyBitmessage), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [Mirage](https://github.com/mirukana/mirage), [Keybase](https://keybase.io/), [CWTCH](https://cwtch.im/), [Bip](https://bip.com/en/), [Simplex](https://simplex.chat/), [Emberclear](https://emberclear.io/), [Commune](https://commune.chat/), [Mesh](https://mesh.im/), [Utopia](https://utopia-ecosystem.com/), [CoyIM](https://coy.im/), [Shad0w](https://www.shad0w.io/), [Speek](https://speek.network/) / [GitHub](https://github.com/speek-app/speek), [Anonymous Messenger](https://www.anonymousmessenger.ly/)
+[Retroshare](https://retroshare.cc/), [Off-the-Record Messaging](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Demonsaw](https://www.demonsaw.com/), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [Mirage](https://github.com/mirukana/mirage), [Keybase](https://keybase.io/), [Cwtch](https://cwtch.im/), [BiP](https://bip.com/en/), [SimpleX](https://simplex.chat/), [emberclear](https://emberclear.io/), [Commune](https://commune.chat/), [Mesh](https://mesh.im/), [Utopia](https://utopia-ecosystem.com/), [CoyIM](https://coy.im/), [shad0w](https://www.shad0w.io/), [Anonymous Messenger](https://www.anonymousmessenger.ly/)
 
 **Matrix Home Servers**
 
-* [Conduit](https://gitlab.com/famedly/conduit)
-* [Matrix Servers](https://joinmatrix.org/servers/)
-* [publiclist.anchel](https://archive.md/4xZE4) 
-* [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html)
-* [Public Servers](https://wiki.asra.gr/en:public_servers) 
-* [List of Matrix Servers](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html)
+* [List of Matrix servers](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) - [2](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html)
+
+[Conduit](https://gitlab.com/famedly/conduit), [Public Matrix Homeservers](https://joinmatrix.org/servers/), [Public Matrix Homeservers Archive](https://archive.md/4xZE4), [Public Servers](https://wiki.asra.gr/en:public_servers)
 
 ***
 
@@ -700,7 +699,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### External Subs Player
 
-⭐ **[Penguin](https://github.com/carsonip/Penguin-Subtitle-Player)**
+* ⭐ **[Penguin](https://github.com/carsonip/Penguin-Subtitle-Player)**
 
 [Subtitle-Buddy](https://github.com/vincemann/Subtitle-Buddy), [Greenfish](https://www.softpedia.com/get/Multimedia/Video/Other-VIDEO-Tools/Greenfish-Subtitle-Player.shtml), [SRTViewer](https://sourceforge.net/projects/srtviewer/), [SubtitlePlayer](https://sourceforge.net/projects/subtitleplayer/), [JustSubsPlayer](https://archive.codeplex.com/?p=justsubsplayer), [FreeSubtitlePlayer](https://sourceforge.net/projects/freesubtitleplayer/) 
 
