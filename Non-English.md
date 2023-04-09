@@ -39,7 +39,6 @@
 * ⭐ **[64kLive](https://64k.live/)** - Anime
 * [Cima4U](https://cima4u1.cyou/) - Movies / TV / Changes Domains Monthly
 * [cimaclub](https://www.cimaclub.in/) - Movies / TV / Anime
-* [cima4up](https://w.cima4up.link/) - Movies / TV / Anime
 * [moviz-time](https://moviz-time.top/i/) - Movies / TV / Anime
 * [w.arlionz](https://w.arlionz.vip/) - Movies / TV
 * [aflaam](https://aflaam.com/) - Movies / TV
@@ -308,7 +307,6 @@
 * [Mangabz](https://www.mangabz.com/) - Manga
 * [Ythuiju](https://www.ythuiju.com/) - Manga
 * [rzlib](https://www.rzlib.net/) - Light-Novels 
-* [booktxt](https://m.booktxt.net/) - Light-Novels 
 * [uukanshu](https://www.uukanshu.com/) - Light-Novels
 * [linovelib](https://www.linovelib.com/) - Light-Novels
 * [lightnovel.us](https://www.lightnovel.us/) - Light-Novels
@@ -442,7 +440,6 @@
 * [WawaCity](https://www.wawacity.red/) - Video / Audio / Books / Magazines / Software / Android / Use Adblocker
 * [VK Streaming](https://vkstreaming.one/) - Movies / TV / Anime
 * [justseries](https://www.justseries.info/) - Movies / TV
-* [cpasmieux](https://wwv.cpasmieux.site/) - Movies / TV / Anime
 * [kinoger](https://kinoger.com/), [2](https://www.kinoger.to/) - Movies / TV / Anime
 * [quedustreaming](https://quedustreaming.com/) - Movies / TV / Anime
 * [MesFilms](https://mesfilms.lol/) - Movies / TV / Anime
@@ -452,7 +449,6 @@
 * [illimitestreaming](https://www.illimitestreaming.co/) - Movies / TV
 * [voirfilms-hd](https://voirfilms-hd.com/) - Movies / TV
 * [Cinematheque](https://www.cinematheque-bretagne.bzh/) - Movies
-* [Hakstream](https://wwv.hakstream.com/) - Movies / TV
 * [CineFlix](https://wvw.cineflix.rip/) - Movies / TV
 * [PapyStreaming](https://vvww.papystreamings.biz/) - Movies / TV
 * [PapaDuStream](https://www.papadustream.vin/) - Movies / TV
@@ -475,11 +471,9 @@
 ## ▷ Reading
 
 * [BookDDL](http://www.bookddl.com/) - Books / Magazines / Newspapers / Audiobooks
-* [1001ebooks](https://go.1001ebooks.com/accueil/) - Books 
 * [pdf-ebookys](https://www.pdf-ebookys.com/) - Books / Magazines 
-* [1001Ebooks](https://1001ebooks.club/) - Books
 * [Bookys](https://ww8.bookys-ebooks.com/) - Books / Comics / Magazines / Newspapers / NSFW
-* [1001ebooks](https://pdf.1001ebooks.com/) - Books
+* [1001ebooks](https://1001ebooks.net/) - Books
 * [Planet-DB](https://planete-bd.org/) - Comics / Manga
 * [Audiocite](https://www.audiocite.net/) - Audiobooks 
 * [zone-ebook.com](https://zone-ebook.com/) - Magazines / Newspapers / Books / Audiobooks / Comics   
@@ -517,7 +511,6 @@
 * [ngb](https://ngb.to/) - Video / Software / Audio / Books / Android
 * [Warez-World](https://warez-world.org/) - Video / Audio / Games / Books / Magazines / NSFW
 * [hd-source](https://hd-source.to/) - Video / NSFW
-* [DDL-Deaf](https://ddl-deaf.info/) - Movies / NSFW
 * [MLCBoard](https://mlcboard.com/) - Movies
 * [Nima4k](https://nima4k.org/) - Movies / TV / Documentaries / Music
 * [Deutsche Filme](https://t.me/deutsche_filme_german_movies) or [GERMAN MOVIES](https://t.me/german_movie_channel)- Movies / Telegram
@@ -543,7 +536,7 @@
 * [BS.TO](https://www.bs.to/), [2](https://burningseries.tw/) - TV / Anime / Cartoons
 * [StreamCloud](https://www1.streamcloud.info/), [2](https://streamcloud.cx/) - Movies / TV
 * [BioskopKaca21](https://62.171.161.107/) - Movies / TV
-* [Kinos](https://www.kinos.to/), [2](https://www.kino.ws/) - Movies / TV
+* [Kinos](https://www.kinos.to/) - Movies / TV
 * [https://xcine.info](https://xcine.info/) - Movies / TV
 * [KinoZ](https://kinoz.to/) - Movies / TV / Anime / NSFW
 * [moviedream](https://moviedream.co/) - Movies / TV
@@ -626,7 +619,6 @@
 * [MoviesMod](https://moviesmod.net/) - Movies / TV / [Telegram](https://telegram.dog/moviesmodcom) 
 * [MKV Mad](https://mkvmad.run/) - Movies / TV
 * [WorldFree4U](https://worldfree4u.health/) - Movies / TV
-* [1337xHD](https://1337xhd.shop/) - Movies / TV
 * [HDVogo](https://www.hdvogo.cyou/) - Movies
 * [Movies Flix](https://hdmoviesflix.vin/) - Movies / NSFW
 * [Dudefilms](https://dudefilms.ink/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
@@ -799,7 +791,6 @@
 * [cineblog01](https://cineblog01.cx/) - Movies / TV
 * [cinemalibero](https://cinemalibero.cafe/) - Movies / TV
 * [filmsenzalimiti](https://hds.filmsenzalimiti.me/) - Movies / TV
-* [cb01](https://cb01.repair/) - Movies / TV
 * [euroStreaming](https://eurostreaming.quest/) - TV
 * [filmsenzalimiti](https://filmsenzalimiti.name/) - Movies / TV
 * [Arcoiris TV](https://www.arcoiris.tv/) - TV
@@ -840,7 +831,6 @@
 * [GameCenter CX Archives](https://github.com/nbats/FMHYedit/blob/main/base64.md#gamecenter-cx-archives) - GameCenter CX Archive
 * [Sukidesuost](https://sukidesuost.info/) - Music / MP3 / FLAC
 * [Hikarinoakariost](https://hikarinoakari.com/) - Music / MP3
-* [jpop80ss](https://jpop80ss2.blogspot.com/)- Music / MP3
 * [JPopSingles](https://www.jpopsingles.eu/) - Music / MP3 / FLAC
 * [DoujinStyle.com](https://doujinstyle.com/) - Music / MP3 
 * [Doujin Cafe](https://discord.gg/doujincafe) - Music / MP3
@@ -1204,7 +1194,6 @@
 * [Anirrent](https://anirrent.fansubs.com.br/) - Anime
 * [Keroseed](https://www.keroseed.com/) - Anime
 * [AnskTracker](https://www.ansktracker.net/) - Anime WebIRC Tracker
-* [MusicaTorrents](http://musicatorrents.com/) - MP3
 * [SuaMusica](https://www.suamusica.com.br/) - MP3
 * [Download Cursos](https://downloadcursos.top/) - Courses
 * [timaterial](https://timaterial.blogspot.com/) - Courses
@@ -1242,7 +1231,6 @@
 * [canaldoensino](https://canaldoensino.com.br/blog/) - Courses
 * [Academy.omie](https://academy.omie.com.br/) - Courses
 * [moocs.ggte](https://moocs.ggte.unicamp.br/) - Courses
-* [unespaberta](https://unespaberta.ead.unesp.br/) - Courses
 * [download-de-livros-gratis](https://download-de-livros-gratis.webnode.com/) - Courses
 * [canaldoensino](https://canaldoensino.com.br/) - Courses
 * [Cursos Online](https://gyncursos.com.br/) - Courses
@@ -1503,7 +1491,6 @@
 * [kinobase](https://kinobase.org/) - Movies / TV
 * [seasonvar](http://seasonvar.ru/) - TV
 * [rukino.org](https://rukino.org/) - Movies / TV
-* [kinocccp.net](https://kinocccp.net/ ) - Soviet  Movies / TV
 * [kinoflux.org](https://kinoflux.org/) - Movies / TV
 * [CCCP Film](https://cccp-film.ru/ ) - Movies / TV
 * [KinoKrad](https://kinokrad.cc/) - Movies / TV
@@ -1674,7 +1661,6 @@
 * [Descargas2020](https://descargas2020.net/) - Movies / TV
 * [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries
 * [PediaTorrent](https://pediatorrent.com/) - Movies / TV / Documentaries
-* [VivaTorrents](https://www.vivatorrents.org/) - Movies / TV
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
 * [Zonatorrent](https://zonatorrent.in/) - Movies / TV
 * [PasateaTorrent](https://pasateatorrent.org/) - Movies / TV
@@ -2013,7 +1999,7 @@
 
 * [BiluTV](https://bilutv.link/) - Movies / TV / Anime
 * [xemphim1080](https://xemphim1080.com/) - Movies / TV
-* [MotChill](https://motchill.net/), [2](https://motphimtv.tv/) - Movies / TV
+* [MotChill](https://motchill.net/) - Movies / TV
 * [PhimChill](https://phimchill.tv/), [2](https://phimmoichill.net/) - Movies / TV
 * [XemPhim](https://xemphim.app/) - Movies / TV
 * [XemPhimPlus](https://xemphim.fun/) - Movies / TV
@@ -2099,7 +2085,6 @@
 * [9xmovies](https://9xmovies.church/) - Streaming / Download / Movies
 * [Movierulz](https://movierulzhd.today/) - Streaming / Movies / TV / [Telegram](https://t.me/movierulz28)
 * [5movierulz](https://ww2.5movierulz.mu/) - Streaming / Movies
-* [TamilRockers](https://www.tamilrockermovies.org/), [2](https://www.tamilrockermovies.ca/) - Streaming / Torrent / Movies
 * [Toroflix](https://freewatchhindimoviesonline.com/) - Streaming / Movies
 * [SadRip](https://sadrip.blogspot.com/) - Movies / TV
 * [Movies Counter](https://moviescounter.hair/) - Download / Movies
