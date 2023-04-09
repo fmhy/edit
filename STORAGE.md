@@ -46,7 +46,7 @@
 
 ***
 
-####  Alternative Search Engines
+#### Alternative Search Engines
 
 * ⭐ **[Privacy Focused Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * ⭐ **[Lets Search!](https://letssearch.org/)** - Advanced Search Engine
@@ -55,8 +55,8 @@
 * ⭐ **[Baidu](https://www.baidu.com/)** - [PHP Version](https://github.com/yuantuo666/baiduwp-php)
 * ⭐ **[r0.ru](https://r0.ru/)**
 * ⭐ **[Ecosia](https://www.ecosia.org/)** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
-* [MWMBL](https://mwmbl.org/) - [GitHub](https://github.com/mwmbl/mwmbl)
 * [You](https://you.com/) - [AI Search](https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat)
+* [MWMBL](https://mwmbl.org/) - [GitHub](https://github.com/mwmbl/mwmbl)
 * [Presearch](https://presearch.org/) - [GitHub](https://github.com/presearchofficial)
 * [Fagan Finder](https://www.faganfinder.com/) - Index
 * [DirectSearch.Net](http://www.directsearch.net/) - Index
@@ -109,8 +109,8 @@
 
 #### Android File Explorers
 
-* [rcx](https://x0b.github.io/) - [GitHub](https://github.com/x0b/rcx)
 * [MiXplorer](https://mixplorer.com/), [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) - [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
+* [rcx](https://x0b.github.io/) - [GitHub](https://github.com/x0b/rcx)
 * [Amaze File Manager](https://teamamaze.xyz/) - [GitHub](https://github.com/TeamAmaze/AmazeFileManager)
 * [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager) - [GitHub](https://github.com/SimpleMobileTools/Simple-File-Manager)
 
@@ -173,10 +173,10 @@
 
 #### App Launchers
 
+* [Lawnchair](https://lawnchair.app/) - [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) / [Lawnfeed](https://github.com/LawnchairLauncher/lawnfeed)
 * [Smart Launcher](https://www.smartlauncher.net/) - [Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#smartlauncher-pro)
-* [Lawnchair](https://lawnchair.app/) - [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) - [Lawnfeed](https://github.com/LawnchairLauncher/lawnfeed)
-* [Nova Launcher](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/) - Check Stable or Beta Downloads
 * [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/), [2](https://www.apkmirror.com/apk/aurora-oss/warden/)
+* [Nova Launcher](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/) - Check Stable or Beta Downloads
 
 [Neo Launcher](https://github.com/NeoApplications/Neo-Launcher), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [Activity Launcher](https://github.com/butzist/ActivityLauncher), [Smart Dock](https://github.com/axel358/smartdock), [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher), [Olauncher](https://github.com/jooooscha/Olauncher), [Unlauncher](https://github.com/jkuester/unlauncher), [Ratio](https://blloc.com/), [Edge Card Launcher](https://play.google.com/store/apps/details?id=com.reactivstudios.android.edge4), [Stario Launcher](https://play.google.com/store/apps/details?id=com.stario.launcher), [Discreet Launcher](https://github.com/falzonv/discreet-launcher), [Taskbar](https://play.google.com/store/apps/details?id=com.farmerbb.taskbar), [Kvaesitso](https://kvaesitso.mm20.de/), [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher&hl=en&gl=US), [Inure App Manager](https://github.com/Hamza417/Inure), [KISS launcher](https://kisslauncher.com/), [Lynx Launcher](https://www.lynxlauncher.de/), [Slim launcher](https://github.com/sduduzog/slim-launcher), [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher)
 
@@ -219,9 +219,9 @@
 #### Audio Servers
 
 * ⭐ **[iBroadcast](https://ibroadcast.com)**
+* [Airsonic](https://airsonic.github.io/) - [Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced) / [Advanced UI](https://github.com/tamland/airsonic-refix)
 * [koel](https://koel.dev/) - [Docker](https://github.com/0xcaff/docker-koel)
 * [mStream](https://mstream.io/) - [GitHub](https://github.com/IrosTheBeggar/mStream)
-* [Airsonic](https://airsonic.github.io/) - [Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced) / [Advanced UI](https://github.com/tamland/airsonic-refix)
 * [Mopidy](https://mopidy.com/) - [GitHub](https://github.com/mopidy)
 
 [Fidbak](https://fidbak.audio/), [Madsonic](https://www.madsonic.org/pages/index.jsp), [Navidrome](https://www.navidrome.org/), [KooZic](https://koozic.net/), [Serviio](https://www.serviio.org/), [Polaris](https://github.com/agersant/polaris), [Echo](https://github.com/anhthii/Echo), [Black Candy](https://github.com/aidewoode/black_candy)
@@ -234,7 +234,7 @@
 
 ***
 
-####  Automation Tools
+#### Automation Tools
 
 * [rrweb](https://www.rrweb.io/) - [GitHub](https://github.com/rrweb-io/rrweb)
 
@@ -376,9 +376,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 **Vim Tools**
 
+* [vim-plug](https://github.com/junegunn/vim-plug), [2](https://github.com/tpope/vim-pathogen), [3](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
 * [LunarVim](https://github.com/ChristianChiarulli/LunarVim) - Vim Config
 * [Mitosis](https://github.com/BuilderIO/mitosis) - Auto-Compile Components
-* [vim-plug](https://github.com/junegunn/vim-plug), [2](https://github.com/tpope/vim-pathogen), [3](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
 * [Vim Markdown](https://github.com/plasticboy/vim-markdown) - Vim Markdown Plugin
 * [Vim Awesome](https://vimawesome.com/) - Vim Plugins
 * [neovimcraft](https://neovimcraft.com/) - Neovim Plugins
@@ -520,98 +520,119 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Developer Tools
 
-* ⭐ **[FreeForDevs](https://drgraph.cf/freefordevs)**
-* ⭐ **[free-for.dev](https://free-for.dev/)**
+* ⭐ **[Free For Devs](https://drgraph.cf/freefordevs)**
+* ⭐ **[Free for Developers](https://free-for.dev/)**
 * ⭐ **[CyberChef](https://cyberchef.app/)**
+* [JetBrains](https://jetbrains.com/) - [Trial Script](https://gist.github.com/Gkhnzdmr/29fe3f1c4cf3d3984df4cf380e490074) / [License Server](https://github.com/crazy-max/docker-jetbrains-license-server)
+* [Free-for-students](https://shalvah.me/Free-for-students/) - [GitHub](https://github.com/shalvah/Free-for-students)
+* [DevToys](https://devtoys.app/) - [GitHub](https://github.com/veler/DevToys)
 
-[DevToys](https://devtoys.app/) / [GitHub](https://github.com/veler/DevToys), [JetBrains](https://jetbrains.com/) / [Trial Script](https://gist.github.com/Gkhnzdmr/29fe3f1c4cf3d3984df4cf380e490074) / [License Server](https://github.com/crazy-max/docker-jetbrains-license-server), [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Dev stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [CleanCSS](https://www.cleancss.com/), [Dev Resources](https://www.devresourc.es/), [Developer-Tools-and-Resources](https://github.com/IliasHad/Developer-Tools-and-Resources), [FreeForMatter](https://freeformatter.com/), [utilities-online](https://utilities-online.info/), [online-toolz](https://online-toolz.com/), [string-functions](https://string-functions.com/), [onlinestringtools](https://onlinestringtools.com/), [convertstring](https://convertstring.com/), [CodersTool](https://www.coderstool.com/), [Free-for-students](https://shalvah.me/Free-for-students/) / [GitHub](https://github.com/shalvah/Free-for-students), [coderstoolbox](https://coderstoolbox.net/), [elmah](https://elmah.io/tools/), [Prototypr](https://prototypr.io/toolbox/page/1), [AppDevTools](https://appdevtools.com/)
+[SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse Foundation](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Developer Stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [Clean CSS](https://www.cleancss.com/), [Dev Resources](https://www.devresourc.es/), [Developer Tools and Resources](https://github.com/IliasHad/Developer-Tools-and-Resources), [FreeFormatter.com](https://freeformatter.com/), [Utilities and Tools Online](https://utilities-online.info/), [Free Online Tools for Everyone](https://online-toolz.com/), [String Functions](https://string-functions.com/), [Online String Tools](https://onlinestringtools.com/), [Convert String](https://convertstring.com/), [Coders Tool](https://www.coderstool.com/), [Coder’s Toolbox](https://coderstoolbox.net/), [elmah.io](https://elmah.io/tools/), [Prototypr](https://prototypr.io/toolbox/page/1), [AppDevTools](https://appdevtools.com/)
 
 ***
 
 #### Dev YouTube Channels
 
-⭐ **[Awesome Youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)**
+* ⭐ **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)**
+* [Frontend developers](https://github.com/andrew--r/channels) - Useful YouTube Channels for JavaScript Devs
 
-[andrew--r/channels](https://github.com/andrew--r/channels), [Awesome-Youtube-Channels](https://github.com/epoyraz/), [YT Dev Channels](https://rentry.co/cozqr), [BroCodez](https://www.youtube.com/@BroCodez), [HiteshChoudhary](https://www.youtube.com/@HiteshChoudharydotcom), [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) 
+[Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels), [Web Dev / Programming YouTube Channels](https://rentry.co/cozqr), [Bro Code](https://www.youtube.com/@BroCodez), [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom), [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS)
 
 ***
 
 #### Discord Embed Generators
 
-[Discohook](https://discohook.org/), [Rauf's Embed Generator](https://embed.rauf.wtf), [discord.club](https://discord.club/embedg/), [0x71](https://em.0x71.cc/), [Webhook Gold](https://webhook.discord.gold/), [PSDiscord](https://github.com/EvotecIT/PSDiscord), [Rauf's Embed Generator](https://test.rauf.workers.dev/), [Titan Embeds](https://titanembeds.com/)
+* [Rauf's Embed Generator](https://embed.rauf.wtf), [2](https://test.rauf.workers.dev/)
+* [PSDiscord](https://github.com/EvotecIT/PSDiscord) - PowerShell Module
+
+[Discohook](https://discohook.org/), [Embed Generator](https://old.message.style/embedg/), [0x71 Discord Embed API](https://em.0x71.cc/), [Da webhook masta](https://webhook.discord.gold/), [TitanEmbeds](https://titanembeds.com/)
 
 ***
 
 #### Discord Server / Bot Lists
 
-[Disboard](https://disboard.org/), [DiscordLabs](https://www.discordlabs.org/), [DiscordServers](https://discordservers.com/), [Discord Street](https://discord.st/), [discordlist.io](https://discordlist.io/), [DiscordServers.me](https://discordservers.me/), [Discords](https://discords.com/), [Discord Me](https://discord.me/), [Disforge](https://disforge.com/), [FindADiscord](https://findadiscord.com/), [Open Source](https://discord.com/open-source)
+[DISBOARD](https://disboard.org/), [Discord Labs](https://www.discordlabs.org/), [Discord Servers](https://discordservers.com/), [Discadia](https://discadia.com/), [DiscordList](https://discordlist.io/), [Discords.com](https://discords.com/), [Discord Me](https://discord.me/), [Disforge](https://disforge.com/), [Find a Discord](https://findadiscord.com/), [Open Source Projects](https://discord.com/open-source)
 
-**Bots** 
+**Bots**
 
-[BotBlock](https://botblock.org/), [Top.gg](https://top.gg/), [Bots on Discord](https://bots.ondiscord.xyz/), [Discord Bots](https://discord.bots.gg/), [Top Bots](https://s.advaith.io/topbots), [motiondevelopment](https://www.motiondevelopment.top/), [infinitybotlist](https://infinitybotlist.com/), [discordservices](https://discordservices.net/), [discordbots](https://discordbots.co/), [discordbots](https://discordbots.app/), [discordbotlist](https://discordbotlist.com/), [discord-botlist](https://discord-botlist.eu/), [carbonitex](https://www.carbonitex.net/), [botlist](https://botlist.me/), [blist](https://blist.xyz/), [topcord](https://topcord.xyz/), [yabl](https://yabl.xyz/), [wonderbotlist](https://wonderbotlist.com/), [voidbots](https://voidbots.net/)
+[BotBlock](https://botblock.org/), [Top.gg](https://top.gg/), [Bots on Discord](https://bots.ondiscord.xyz/), [Discord Bots](https://discord.bots.gg/), [Top Bots](https://s.advaith.io/topbots), [Motion Botlist](https://www.motiondevelopment.top/), [Infinity Bot List](https://infinitybotlist.com/), [Discord Services](https://discordservices.net/), [DiscordBots](https://discordbots.co/), [Discord Bots App](https://discordbots.app/), [Discord Bot List](https://discordbotlist.com/), [Carbon Bot List](https://www.carbonitex.net/discord/bots), [Botlist.me](https://botlist.me/), [Blist.xyz](https://blist.xyz/), [TopCord](https://topcord.xyz/), [YABL](https://yabl.xyz/), [Wonder Bot List](https://wonderbotlist.com/), [Void Bots](https://voidbots.net/)
 
 ***
 
 #### Disk Usage Analyzers
 
-[WizTree](https://wiztreefree.com/), [WinDirStat](https://windirstat.net/), [baobab](https://github.com/GNOME/baobab), [2](https://gitlab.gnome.org/GNOME/baobab), [HDSentinel](https://www.hdsentinel.com/), [Space Sniffer](http://www.uderzo.it/main_products/space_sniffer/), [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/), [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html), [Disk Space Saver](https://qiplex.com/software/disk-space-saver/), [gdu](https://github.com/dundee/gdu), [Dua CLI](https://github.com/Byron/dua-cli), [SpaceRadar](https://github.com/zz85/space-radar), [Diskovery](https://diskovery.io/), [DiskInfo](https://github.com/DiskTools/DiskInfo)
+* [Baobab](https://gitlab.gnome.org/GNOME/baobab), [2](https://github.com/GNOME/baobab)
+
+[WizTree](https://www.diskanalyzer.com/), [WinDirStat](https://windirstat.net/), [HDSentinel](https://www.hdsentinel.com/), [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/), [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/), [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html), [Disk Space Analyzer](https://qiplex.com/software/disk-space-saver/), [Gdu](https://github.com/dundee/gdu), [dua](https://github.com/Byron/dua-cli), [SpaceRadar](https://github.com/zz85/space-radar), [Diskovery](https://diskovery.io/), [DiskInfo](https://github.com/DiskTools/DiskInfo)
 
 ***
 
 #### DNS Filters
 
-[DNS for Family](https://dnsforfamily.com/), [CleanBrowsing](https://cleanbrowsing.org/filters/), [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter/), [hBlock](https://github.com/hectorm/hblock), [someonewhocares](https://someonewhocares.org/hosts/), [winhelp2002](https://winhelp2002.mvps.org/hosts.htm), [Hosts](https://github.com/StevenBlack/hosts), [Spamhaus](https://www.spamhaus.org/), [1Hosts](https://o0.pages.dev/) / [GitHub](https://github.com/badmojr/1Hosts), [NXFilter](https://nxfilter.org/) 
+* [1Hosts](https://o0.pages.dev/) - [GitHub](https://github.com/badmojr/1Hosts)
+
+[DNS for Family](https://dnsforfamily.com/), [CleanBrowsing](https://cleanbrowsing.org/filters/), [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter/), [hBlock](https://github.com/hectorm/hblock), [how to make the internet not suck (as much)](https://someonewhocares.org/hosts/), [MVPS HOSTS](https://winhelp2002.mvps.org/hosts.htm), [Hosts File Aggregator](https://github.com/StevenBlack/hosts), [Spamhaus](https://www.spamhaus.org/), [NxFilter](https://nxfilter.org/)
 
 ***
 
 #### Domain Info Tools
 
-[WhoIsRequest](https://whoisrequest.com/), [Rankchart](https://rankchart.org/), [Securrity Whoiz](http://www.securrity.ru/whoiz.html), [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MxToolbox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/), [whois.ipip](https://whois.ipip.net/), [BillCipher](https://github.com/84KaliPleXon3/BillCipher), [webstatsdomain](https://webstatsdomain.org/)
+[WhoisRequest](https://whoisrequest.com/), [Rankchart](https://rankchart.org/), [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MXToolBox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/), [IPIP.NET](https://whois.ipip.net/), [BillCipher](https://github.com/84KaliPleXon3/BillCipher), [WebStatsDomain](https://webstatsdomain.org/)
 
 ***
 
 #### Docker Tools
 
-[Desktop](https://www.docker.com/products/docker-desktop/) / [TUI](https://github.com/jesseduffield/lazydocker) / [Images](https://hub.docker.com/), [2](https://linuxserver.io/), [3](https://hotio.dev/) / [Analyze Images](https://github.com/wagoodman/dive) / [Container Manager](https://portainer.io/), [2](https://yacht.sh/), [3](https://github.com/SelfhostedPro/selfhosted_templates), [4](https://github.com/moncho/dry), [5](https://github.com/containers/podman) / [Container Automation](https://github.com/containrrr/watchtower) / [Port Forward](https://github.com/ruoshan/autoportforward) / [Compose Files](https://www.composerize.com/), [2](https://github.com/magicmark/composerize), [3](https://github.com/irbigdata/data-dockerfiles) / [Log Viewer](https://dozzle.dev/) / [Disk Usage Manager](https://docker-disk.space/) / [Image Linter](https://github.com/goodwithtech/dockle) / [Container Monitor](https://github.com/willfarrell/docker-autoheal) / [Notifications](https://github.com/crazy-max/diun) / [Podman Compose](https://github.com/containers/podman-compose)
+* [Container Manager](https://portainer.io/), [2](https://yacht.sh/), [3](https://moncho.github.io/dry/), [4](https://podman.io/)
+* [Images](https://hub.docker.com/), [2](https://linuxserver.io/), [3](https://hotio.dev/)
+* [Compose Files](https://www.composerize.com/), [2](https://github.com/irbigdata/data-dockerfiles)
+
+[Desktop](https://www.docker.com/products/docker-desktop/), [TUI](https://github.com/jesseduffield/lazydocker), [Analyze Images](https://github.com/wagoodman/dive), [Container Automation](https://containrrr.dev/watchtower/), [Port Forwarding](https://github.com/ruoshan/autoportforward), [Log Viewer](https://dozzle.dev/), [Disk Usage Manager](https://docker-disk.space/), [Image Linter](https://github.com/goodwithtech/dockle), [Container Monitor](https://github.com/willfarrell/docker-autoheal), [Notifications](https://crazymax.dev/diun/), [Podman Compose](https://github.com/containers/podman-compose)
 
 ***
 
 #### DOS Games
 
-[DOSGamesLibrary](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS Haven](http://www.doshaven.eu/), [The Software Library](https://archive.org/details/softwarelibrary_msdos), [Best Old Games](http://www.bestoldgames.net/eng/), [DosGames](https://dosgames.com/), [PlayDOSGames](https://www.playdosgames.com/), [DOS Haven](http://www.doshaven.eu/), [ClassicDOSGames](https://www.classicdosgames.com/), [AbandonwareDOS](https://www.abandonwaredos.com/), [DOSGames](https://www.dosgames.com/), [zczc](https://dos.zczc.cz/) (Chinese)
+* [Online DOS games](https://dos.zczc.cz/) - Chinese
+
+[DOS Games Archive](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS HAVEN](http://www.doshaven.eu/), [The Software Library](https://archive.org/details/softwarelibrary_msdos), [Best Old Games](http://www.bestoldgames.net/eng/), [DOSGames](https://dosgames.com/), [PlayDOSGames](https://www.playdosgames.com/), [RGB Classic Games](https://www.classicdosgames.com/), [Abandonware DOS](https://www.abandonwaredos.com/)
 
 ***
 
 #### Down Site Checkers
 
 * ⭐ **[Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)**
-* ⭐ **[IsItDownRightNow](https://www.isitdownrightnow.com/)**
-* ⭐ **[Cyotek-Webcopy](https://www.cyotek.com/cyotek-webcopy)**
+* ⭐ **[Is It Down Right Now](https://www.isitdownrightnow.com/)**
 
-[IsThisServiceDown](https://istheservicedown.com/), [down.com](https://down.com/), [DownDetector](https://downdetector.com/), [websitedown](http://www.websitedown.info/), [isitup](https://isitup.org/), [updownradar](https://updownradar.com/), [Xenu-Link](http://home.snafu.de/tilman/xenulink.html), [Lychee](https://github.com/lycheeverse/lychee), , [Dead Link Checker](https://www.deadlinkchecker.com/), [Broken Link Checker](https://brokenlinkcheck.com/broken-links.php), [DrLinkCheck](https://www.drlinkcheck.com/)
+[Is The Service Down?](https://istheservicedown.com/), [Down.com](https://down.com/), [Downdetector](https://downdetector.com/), [websitedown](http://www.websitedown.info/), [Is it up?](https://isitup.org/), [UpDown Radar](https://updownradar.com/), [Xenu's Link Sleuth](http://home.snafu.de/tilman/xenulink.html), [lychee](https://lychee.cli.rs/#/), [Dead Link Checker](https://www.deadlinkchecker.com/), [Online Broken Link Checker](https://brokenlinkcheck.com/broken-links.php), [Dr. Link Check](https://www.drlinkcheck.com/)
 
 ***
 
 #### Drive Formatting / File Deletion
 
-[Eraser](https://eraser.heidi.ie/), [File Shredder](https://fileshredder.org/), [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete), [Lethe](https://github.com/rafael-santiago/lethe), [file-shredder-tool](http://www.atomtechsoft.com/file-shredder-tool.html ), [wiperapp](https://www.wiperapp.eu/), [oofileerase](https://www.oo-software.com/en/products/oofileerase), [drive-eraser](https://www.blancco.com/products/drive-eraser/), [Permanent-Delete](http://www.puransoftware.com/Permanent-Delete.html), [shredder](http://www.abylonsoft.com/shredder/index.htm), [drivescrubber](http://www.iolo.com/products/drivescrubber/), [kernel-file-shredder](http://www.nucleustechnologies.com/kernel-file-shredder.html), [file-eraser](http://www.applexsoft.com/file-eraser.html), [ultrashredder](https://www.majorgeeks.com/files/details/ultrashredder.html), [easy-file-shredder](https://patoghu.com/gonagon/usefull_tool/17305-easy-file-shredder.html), [context-shredder](https://sourceforge.net/projects/context-shredder), [dockshredder](https://dockshredder.com/), [cybershredder](http://www.cylog.org/utilities/cybershredder.jsp), [hdshredder](https://www.miray-software.com/products/applications/hdshredder.html#), [permanent eraser](http://www.edenwaith.com/products/permanent%20eraser), [ssuitefileshredder](https://www.ssuiteoffice.com/software/ssuitefileshredder.htm), [lowlevelformat](http://www.lowlevelformat.info/), [bcwipe](http://www.jetico.com/wiping-bcwipe/), [zero](http://kcsoftwares.com/index.php?zero), [sysinternals](https://technet.microsoft.com/en-us/sysinternals/bb897443.aspx), [killdisk](http://www.lsoft.net/killdisk.aspx), [c_fileshredder](http://www.alternate-tools.com/pages/c_fileshredder.php?lang=ENG), [permadelete](https://developerstree.github.io/permadelete/)
+[Eraser](https://eraser.heidi.ie/), [File Shredder](https://fileshredder.org/), [SDelete](https://learn.microsoft.com/sysinternals/downloads/sdelete), [Lethe](https://github.com/rafael-santiago/lethe), [ATS File Shredder](http://www.atomtechsoft.com/file-shredder-tool.html), [WIPERAPP](https://www.wiperapp.eu/), [O&O FileErase](https://www.oo-software.com/en/products/oofileerase), [Blancco Drive Eraser](https://www.blancco.com/products/drive-eraser/), [Permanent Delete](http://www.puransoftware.com/Permanent-Delete.html), [abylon SHREDDER](http://www.abylonsoft.com/shredder/index.htm), [DriveScrubber](http://www.iolo.com/products/drivescrubber/), [Kernel File Shredder](http://www.nucleustechnologies.com/kernel-file-shredder.html), [File Eraser](http://www.applexsoft.com/file-eraser.html), [UltraShredder](https://www.majorgeeks.com/files/details/ultrashredder.html), [Easy File Shredder](https://patoghu.com/gonagon/usefull_tool/17305-easy-file-shredder.html), [Context-Shredder](https://sourceforge.net/projects/context-shredder), [DockShredder](https://dockshredder.com/), [CyberShredder](http://www.cylog.org/utilities/cybershredder.jsp), [HDShredder](https://www.miray-software.com/products/applications/hdshredder.html#), [Permanent Eraser](http://www.edenwaith.com/products/permanent%20eraser), [SSuite File Shredder and Burner](https://www.ssuiteoffice.com/software/ssuitefileshredder.htm), [Low Level Format](http://www.lowlevelformat.info/), [BCWipe](http://www.jetico.com/wiping-bcwipe/), [Zer0](http://kcsoftwares.com/index.php?zero), [Active@ KillDisk](http://www.lsoft.net/killdisk.aspx), [Alternate File Shredder](http://www.alternate-tools.com/pages/c_fileshredder.php?lang=ENG), [Permadelete](https://developerstree.github.io/permadelete/)
+
 ***
 
 #### Email Clients
 
-[thunderbird](https://www.thunderbird.net/en-US/) / [Tray Icon](https://github.com/Ximi1970/systray-x), [BetterBird](https://www.betterbird.eu/), [ElectronMail](https://github.com/vladimiry/ElectronMail), [getmailspring](https://getmailspring.com/) / [Theme](https://github.com/topics/mailspring-theme), [bluemail](https://www.bluemail.me/), [claws-mail](https://www.claws-mail.org/), [emclient](https://www.emclient.com/), [rainloop](http://www.rainloop.net/), [roundcube](https://roundcube.net/), [spikenow](https://www.spikenow.com/), [canarymail](https://canarymail.io/), [twobird](https://www.twobird.com/), [kanmail](https://kanmail.io/), [Outlook](https://outlook.live.com/owa/) / [Tools](https://github.com/eksperience/KnockOutlook), [Gmail Desktop](https://github.com/timche/gmail-desktop)
+* [Thunderbird](https://www.thunderbird.net/en-US/) - [Tray Icon](https://github.com/Ximi1970/systray-x)
+* [Mailspring](https://getmailspring.com/) - [Themes](https://github.com/topics/mailspring-theme)
+* [Outlook](https://outlook.live.com/owa/) - [Tools](https://github.com/eksperience/KnockOutlook)
+
+[Betterbird](https://www.betterbird.eu/), [ElectronMail](https://github.com/vladimiry/ElectronMail), [BlueMail](https://www.bluemail.me/), [Claws Mail](https://www.claws-mail.org/), [eM Client](https://www.emclient.com/), [RainLoop](http://www.rainloop.net/), [Roundcube](https://roundcube.net/), [Spike](https://www.spikenow.com/), [Canary](https://canarymail.io/), [Twobird](https://www.twobird.com/), [Kanmail](https://kanmail.io/), [Gmail Desktop](https://github.com/timche/gmail-desktop)
 
 ***
 
 #### Email Forwarding
 
-⭐ **[DDG Email Protection](https://duckduckgo.com/email/)**
+* ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)**
 
-[Forward Email](https://forwardemail.net/), [SimpleLogin](https://simplelogin.io/), [Firefox Relay](https://relay.firefox.com/), [spamgourmet](https://www.spamgourmet.com/index.pl), [Burner Mail](https://burnermail.io/), [scr.im](http://scr.im/), [Mailsac](https://mailsac.com/), [AnonAddy](https://anonaddy.com/), [AltMails](https://altmails.com/), [SpamCage](https://www.spamcage.com/), [YopMail](https://yopmail.com/en/), [MailGW](https://mailgw.com/), [Erine](https://erine.email/)
+[Forward Email](https://forwardemail.net/), [SimpleLogin](https://simplelogin.io/), [Firefox Relay](https://relay.firefox.com/), [spamgourmet](https://www.spamgourmet.com/index.pl), [Burner Mail](https://burnermail.io/), [scr.im](http://scr.im/), [Mailsac](https://mailsac.com/), [AnonAddy](https://anonaddy.com/), [altmails](https://altmails.com/), [Mail.cx](https://mail.cx/), [YOPmail](https://yopmail.com/en/), [Mailgw](https://mailgw.com/), [erine.email](https://erine.email/)
 
 **Telegram Bots**
 
-[FakemailBot](https://t.me/FakemailBot), [DropmailBot](https://t.me/DropmailBot), [ccgen_robot](https://t.me/ccgen_robot) 
+[Fake Mail](https://t.me/FakemailBot), [DropMail.me](https://t.me/DropmailBot), [💳 Credit Card Generator 💳](https://t.me/ccgen_robot)
 
 **Extensions**
 
@@ -619,53 +640,54 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ***
 
-####  Email Sites
+#### Email Sites
 
-[Dispostable](https://www.dispostable.com/), [GMX](https://gmx.com/), [German GMX](https://gmx.net/), [Mail.com](https://www.mail.com/), [1337.no](https://www.1337.no/)
+[Dispostable](https://www.dispostable.com/), [GMX](https://gmx.com/), [German GMX](https://gmx.net/), [mail.com](https://www.mail.com/), [1337.no](https://www.1337.no/)
 
 ***
 
 #### Encode / Decode URLs
 
 * ⭐ **[Universal Encoding Tool](https://unenc.com/)**
-* ⭐ **[Ciphey](https://github.com/Ciphey/Ciphey)** - Universal Text Decryption 
-* ⭐ **[Base64 Decode](https://www.base64decode.org/) / [Encode](https://www.base64encode.org/)**
-* ⭐ **Base64 Extensions** - [Chrome](https://chrome.google.com/webstore/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi) / [2](https://chrome.google.com/webstore/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf) / [3](https://chrome.google.com/webstore/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) / [Opera](https://addons.opera.com/en/extensions/details/base64-encode-and-decode/)
+* ⭐ **[Ciphey](https://github.com/Ciphey/Ciphey)** - Universal Text Decryption
+* ⭐ **[Base64 Decode](https://www.base64decode.org/) - [Encode](https://www.base64encode.org/)**
+* ⭐ **Base64 Extensions** - [Chrome](https://chrome.google.com/webstore/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [2](https://chrome.google.com/webstore/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf), [3](https://chrome.google.com/webstore/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) / [Opera](https://addons.opera.com/en/extensions/details/base64-encode-and-decode/)
 * ⭐ **[Txtmoji](https://txtmoji.com/)** - Text to Emoji Encryption
 
-[Online Tools](https://emn178.github.io/online-tools/index.html), [Dencode](https://dencode.com/), [AES-256](https://encipher.it/), [UTF8](https://onlineutf8tools.com/), [PubKey](https://pubkey.pm/), [Age Online](https://age-online.com/), [Universal Online Cyrillic Decoder](https://2cyr.com/decode/?lang=en), [Cryptii](https://cryptii.com/), [Enigma Machine](https://observablehq.com/@tmcw/enigma-machine), [Base64 E/D](https://apps.maximelafarie.com/base64/), [Encode/Decode](https://toolbox.googleapps.com/apps/encode_decode/), [Base64.guru](https://base64.guru/), [Base64Decoder](https://base64decoder.io/), [URL Decode](https://url-decode.com/), [URL Encode/Decode](https://www.url-encode-decode.com/), [base64decode.net](https://www.base64decode.net/), [64baser](https://www.64baser.com/), [motobit](https://www.motobit.com/util/base64-decoder-encoder.asp)
+[Online Tools](https://emn178.github.io/online-tools/index.html), [DenCode](https://dencode.com/), [AES encryption tool](https://encipher.it/), [Online UTF8 Tools](https://onlineutf8tools.com/), [pubKey](https://pubkey.pm/), [age online](https://age-online.com/), [Universal Cyrillic decoder](https://2cyr.com/decode/?lang=en), [cryptii](https://cryptii.com/), [Enigma machine](https://observablehq.com/@tmcw/enigma-machine), [Base64 E/D](https://apps.maximelafarie.com/base64/), [Encode/Decode](https://toolbox.googleapps.com/apps/encode_decode/), [Base64.Guru](https://base64.guru/), [Base64Decoder](https://base64decoder.io/), [URL Decode Online](https://url-decode.com/), [URL Encode/Decode](https://www.url-encode-decode.com/), [Base64 Decode and Encode](https://www.base64decode.net/), [Base64 encoder & decoder](https://www.64baser.com/), [Motobit](https://www.motobit.com/util/base64-decoder-encoder.asp)
 
 ***
 
 #### Encrypted Android Messengers
 
-[Status](https://status.im/), [Signal](https://github.com/mollyim/mollyim-android) / [2](https://langis.cloudfrancois.fr/) / [3](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) / [4](https://getsession.org/) / [5](https://www.twinhelix.com/apps/signal-foss/), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [Anonymous Messenger](https://f-droid.org/en/packages/com.dx.anonymousmessenger/), [ChatSecure](https://ballinger.io/apps/chatsecure/), [Snikket](https://www.f-droid.org/en/packages/org.snikket.android/), [RetroShare](https://f-droid.org/en/packages/org.retroshare.android.qml_app/), [BiP](https://bip.com/en/), [Olvid](https://olvid.io/en/), [Berty](https://berty.tech/), [OpenKeyChain](https://www.openkeychain.org/), [Dust](https://www.usedust.com/), [Fireside Messenger](https://newnode.com/), [Kontalk](https://www.kontalk.org/), [Wire](https://github.com/wireapp/wire-android)
+* [Signal](https://github.com/mollyim/mollyim-android), [2](https://langis.cloudfrancois.fr/), [3](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms), [4](https://getsession.org/), [5](https://www.twinhelix.com/apps/signal-foss/)
 
-*** 
+[Status](https://status.im/), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [Anonymous Messenger](https://f-droid.org/en/packages/com.dx.anonymousmessenger/), [ChatSecure](https://ballinger.io/apps/chatsecure/), [Snikket](https://www.f-droid.org/en/packages/org.snikket.android/), [RetroShare](https://f-droid.org/en/packages/org.retroshare.android.qml_app/), [BiP](https://bip.com/en/), [Olvid](https://olvid.io/en/), [Berty](https://berty.tech/), [OpenKeychain](https://www.openkeychain.org/), [Dust](https://www.usedust.com/), [NewNode](https://newnode.com/), [Kontalk](https://www.kontalk.org/), [Wire](https://f-droid.org/en/packages/com.wire/)
+
+***
 
 #### Encrypted Email Services
 
-⭐ **[ProtonMail](https://protonmail.com/)** / [Client](https://github.com/Steccas/ProtonClient)
+* ⭐ **[Proton Mail](https://protonmail.com/)** - [Desktop Client](https://github.com/Steccas/ProtonClient)
 
-[Enigmail](https://www.enigmail.net/index.php/en/), [Private-Mail](https://privatemail.com/), [ShazzleMail](https://shazzlemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [Tilda](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [Tutanota](https://tutanota.com/), [GMX](https://www.gmx.com/), [NeoMailBox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [mailpile](https://www.mailpile.is/), [MSGSafe](https://www.msgsafe.io/), [SecureNym](http://www.securenym.net), [TheHelm](https://thehelm.com/), [OnMail](https://www.onmail.com/), [mailpile](https://www.mailpile.is/), [Skiff](https://skiff.org/mail), [DNMX](https://dnmx.org/)
+[Enigmail](https://www.enigmail.net/index.php/en/), [PrivateMail](https://privatemail.com/), [ShazzleMail](https://shazzlemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [Tildamail](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [Tutanota](https://tutanota.com/), [GMX](https://www.gmx.com/), [Neomailbox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [Mailpile](https://www.mailpile.is/), [MsgSafe.io](https://www.msgsafe.io/), [SecureNym](http://www.securenym.net), [OnMail](https://www.onmail.com/), [Skiff Mail](https://skiff.org/mail), [Dark Net Mail Exchange](https://dnmx.org/)
 
 ***
 
 #### Encrypted Messengers
 
-* ⭐ **[Matrix](https://matrix.org/)** / [Cinny](https://cinny.in/) / [Mod Tools](https://github.com/matrix-org/mjolnir)
+* ⭐ **[Matrix](https://matrix.org/)** - [Cinny](https://cinny.in/) / [Mod Tools](https://github.com/matrix-org/mjolnir)
 * ⭐ **[Signal](https://signal.org/)**
+* [Bitmessage](https://wiki.bitmessage.org/Main_Page) - [Reference Client](https://github.com/Bitmessage/PyBitmessage)
+* [Speek](https://speek.network/) - [GitHub](https://github.com/speek-app/speek)
 
-[RetroShare](https://retroshare.cc/), [Off-the-Record](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Demonsaw](https://www.demonsaw.com/), [Bitmessage](https://wiki.bitmessage.org/Main_Page) / [Reference Client](https://github.com/Bitmessage/PyBitmessage), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [Mirage](https://github.com/mirukana/mirage), [Keybase](https://keybase.io/), [CWTCH](https://cwtch.im/), [Bip](https://bip.com/en/), [Simplex](https://simplex.chat/), [Emberclear](https://emberclear.io/), [Commune](https://commune.chat/), [Mesh](https://mesh.im/), [Utopia](https://utopia-ecosystem.com/), [CoyIM](https://coy.im/), [Shad0w](https://www.shad0w.io/), [Speek](https://speek.network/) / [GitHub](https://github.com/speek-app/speek), [Anonymous Messenger](https://www.anonymousmessenger.ly/)
+[Retroshare](https://retroshare.cc/), [Off-the-Record Messaging](https://otr.cypherpunks.ca/), [Session](https://getsession.org/), [Demonsaw](https://www.demonsaw.com/), [Enigma](https://enigma-reloaded.github.io/enigma-reloaded), [Mirage](https://github.com/mirukana/mirage), [Keybase](https://keybase.io/), [Cwtch](https://cwtch.im/), [BiP](https://bip.com/en/), [SimpleX](https://simplex.chat/), [emberclear](https://emberclear.io/), [Commune](https://commune.chat/), [Mesh](https://mesh.im/), [Utopia](https://utopia-ecosystem.com/), [CoyIM](https://coy.im/), [shad0w](https://www.shad0w.io/), [Anonymous Messenger](https://www.anonymousmessenger.ly/)
 
 **Matrix Home Servers**
 
-* [Conduit](https://gitlab.com/famedly/conduit)
-* [Matrix Servers](https://joinmatrix.org/servers/)
-* [publiclist.anchel](https://archive.md/4xZE4) 
-* [Tatsumoto Ren](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html)
-* [Public Servers](https://wiki.asra.gr/en:public_servers) 
-* [List of Matrix Servers](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html)
+* [List of Matrix servers](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html), [2](https://tatsumoto.neocities.org/blog/list-of-matrix-servers.html)
+
+[Conduit](https://gitlab.com/famedly/conduit), [Public Matrix Homeservers](https://joinmatrix.org/servers/), [Public Matrix Homeservers Archive](https://archive.md/4xZE4), [Public Servers](https://wiki.asra.gr/en:public_servers)
 
 ***
 
@@ -677,9 +699,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### External Subs Player
 
-⭐ **[Penguin](https://github.com/carsonip/Penguin-Subtitle-Player)**
+* ⭐ **[Penguin](https://github.com/carsonip/Penguin-Subtitle-Player)**
 
-[Subtitle-Buddy](https://github.com/vincemann/Subtitle-Buddy), [Greenfish](https://www.softpedia.com/get/Multimedia/Video/Other-VIDEO-Tools/Greenfish-Subtitle-Player.shtml), [SRTViewer](https://sourceforge.net/projects/srtviewer/), [SubtitlePlayer](https://sourceforge.net/projects/subtitleplayer/), [JustSubsPlayer](https://archive.codeplex.com/?p=justsubsplayer), [FreeSubtitlePlayer](https://sourceforge.net/projects/freesubtitleplayer/) 
+[Subtitle-Buddy](https://github.com/vincemann/Subtitle-Buddy), [Greenfish](https://www.softpedia.com/get/Multimedia/Video/Other-VIDEO-Tools/Greenfish-Subtitle-Player.shtml), [SRTViewer](https://sourceforge.net/projects/srtviewer/), [SubtitlePlayer](https://sourceforge.net/projects/subtitleplayer/), [JustSubsPlayer](https://archive.codeplex.com/?p=justsubsplayer), [FreeSubtitlePlayer](https://sourceforge.net/projects/freesubtitleplayer/)
 
 ***
 
@@ -1091,7 +1113,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ***
 
-####  Icon Download Sites
+#### Icon Download Sites
 
 ⭐ **[Awesome Icons](https://github.com/notlmn/awesome-icons)**
 
@@ -1133,7 +1155,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ***
 
-####  Image Hosts
+#### Image Hosts
 
 * ⭐ **[Imgur](https://imgur.com/)**
 * ⭐ **Imgur Tools** - [Frontends](https://rimgo.codeberg.page/), [2](https://git.voidnet.tech/kev/imgin), [3](https://codeberg.org/video-prize-ranch/rimgo), [4](https://codeberg.org/3np/rimgu), [5](https://rimgo.bus-hit.me/) / [Proxy](https://imgin.voidnet.tech/)
@@ -1586,7 +1608,7 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-####  Music Libraries / Players
+#### Music Libraries / Players
 
 **Multi-System**
 
@@ -2171,7 +2193,7 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-####  Screen Recorders
+#### Screen Recorders
 
 ⭐ **[OBS](https://obsproject.com/)** / [Guide](https://youtu.be/7fuFGDFDzUY)
 
@@ -3150,7 +3172,7 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-####  Video Stream Sync
+#### Video Stream Sync
 
 * ⭐ **[SyncPlay](https://syncplay.pl/)**
 * ⭐ **[Watch2Gether](https://w2g.tv/)**
