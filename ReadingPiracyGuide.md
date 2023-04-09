@@ -1013,7 +1013,7 @@
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)** 
 * ⭐ **[Just Light Novels](https://www.justlightnovels.com/)**
 * ⭐ **[ThatNovelCorner](https://thatnovelcorner.com/)**
-* [Light Novel World](https://www.lightnovelworld.com/), [2](https://www.lightnovelpub.com/), [3](https://www.novelpub.com)
+* [Light Novel World](https://www.lightnovelworld.com/), [2](https://www.novelpub.com)
 * [Ranobes](https://ranobes.net/)
 * [Baka-Tsuki](https://www.baka-tsuki.org)
 * [Armaell's Library](https://armaell-library.net/)
@@ -1028,7 +1028,6 @@
 * [Henkan Epubs](https://henkanepubs.wordpress.com/)
 * [LNWNCentral](https://lnwncentral.wordpress.com/)
 * [Octiopii](https://octopii.co/)
-* [LightNovelPDF](https://lightnovelpdf.com/)
 * [AsianHobbyist](https://www.asianhobbyist.com/)
 * [Read Light Novel](https://www.readlightnovel.me/)
 * [DaoNovel](https://daonovel.com/)
