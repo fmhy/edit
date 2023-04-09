@@ -464,12 +464,11 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Customizable New Tab Page
 
-[StartPage](https://github.com/deepjyoti30/startpage), [NightTab](https://github.com/zombieFox/nightTab), [hexagonTab](https://github.com/zombieFox/hexagonTab), [CaretTab](https://www.carettab.com/), [mesmerized](https://mesmerized.me/), [Bonjourr](https://bonjourr.fr/), [Perfect Home](https://github.com/perfect-things/perfect-home), [yet another speed dial](https://github.com/conceptualspace/yet-another-speed-dial), [Tabliss](https://tabliss.io/), [Epiboard](https://github.com/Alexays/Epiboard), [Infinity New Tab](https://en.infinitynewtab.com/), [b2ntp](https://d3ward.github.io/b2ntp/) 
-
-* [Custom Start Page](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets/tree/main/custom-start-page) - Terminal Style Start Page
 * [Tabiverse](https://tabiverse.com/) - Universe New Tab Page / [Discord](https://discord.gg/MUgRGwE)
-* [Tabs with a View](https://www.withaview.co/ext/) - Virtual Sights New Tab Page
-* [Minecraft Weather New Tab](https://github.com/sawyerpollard/Minecraft-Weather-New-Tab) - Weather Based Minecraft New Tab Page
+* [Tab with A view](https://www.withaview.co/ext/) - Virtual Sights New Tab Page
+* [MineWeather](https://github.com/sawyerpollard/Minecraft-Weather-New-Tab) - Weather-Based Minecraft New Tab Page
+
+[Minimal Startpage](https://github.com/deepjyoti30/startpage), [nightTab](https://github.com/zombieFox/nightTab), [hexagonTab](https://github.com/zombieFox/hexagonTab), [CaretTab](https://www.carettab.com/), [mesmerized](https://mesmerized.me/), [Bonjourr](https://bonjourr.fr/), [Perfect Home](https://github.com/perfect-things/perfect-home), [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial), [Tabliss](https://tabliss.io/), [Epiboard](https://github.com/Alexays/Epiboard), [Infinity New Tab](https://en.infinitynewtab.com/), [b2ntp](https://d3ward.github.io/b2ntp/), [Terminal-style new tab page](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets/tree/main/custom-start-page)
 
 ***
 
