@@ -633,7 +633,6 @@
 * [PIXELSYNTH](https://ojack.xyz/PIXELSYNTH/) - Image to Sound Synthesizer
 * [img-encode](https://github.com/alexadam/img-encode) - Image to Audio Converter
 * [weird-converter](https://github.com/AlbertSuarez/weird-converter) - Image to Audio / Audio to Image Converter
-* [mathewvp](http://midi.mathewvp.com/) - Edit / Create / Polyphonic ringtones 
 * [librosa](https://librosa.org/) - Audio Analysis / Information Retrieval / [Github](https://github.com/librosa/librosa)
 * [Auphonic](https://auphonic.com/) - Audio Leveler
 * [LightHost](https://github.com/rolandoislas/LightHost) - VST / AU Host
@@ -1049,7 +1048,7 @@
 * [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) or [TikTok CSE](https://cse.google.com/cse?cx=c42f6b58703f83683) - TikTok Search 
 * [tumbex](https://www.tumbex.com/) - Tumblr Search
 * [Mibbit](https://search.mibbit.com/) - IRC Channel Search
-* [RSS.app](https://rss.app/), [RSS Search Hub](https://www.rsssearchhub.com/) or [CTRLQ](https://ctrlq.org/rss/) - RSS Search
+* [RSS.app](https://rss.app/), [RSS Search Hub](https://www.rsssearchhub.com/) - RSS Search
 * [AlsoAsked](https://alsoasked.com/) - Related Search Tool
 * [Wiby](https://wiby.org/), [2](https://wiby.me/) - Search Engine for Lightweight Web Pages
 * [Search My Site](https://searchmysite.net/) - Search Engine for Independent and Personal websites / Open Source
@@ -1703,7 +1702,7 @@ Twitch Stream Tracker
 * [MegaBlock](https://megablock.xyz/) - Easily Block Twitter Users & Tweets
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites 
 * [Unfavinator](http://unfavinator.com/) - Delete Twitter Favorites
-* [TweetDelete](https://tweetdelete.net/), [Twitter Cleaner](https://github.com/caarlos0/twitter-cleaner) or [TweetEraser](https://www.tweeteraser.com/) - Delete Twitter Posts in Bulk
+* [TweetDelete](https://tweetdelete.net/) or [Twitter Cleaner](https://github.com/caarlos0/twitter-cleaner) - Delete Twitter Posts in Bulk
 * [Tokimeki Unfollow](https://tokimeki-unfollow.glitch.me/), [Who.Unfollowed](https://who.unfollowed.me/) or [Unfollow All](https://chrome.google.com/webstore/detail/twitter-unfollow-all/mgehkbclkipppdjiemnhmnledicalkld) - Twitter Unfollower
 * [Unfollow Monkey](https://unfollow-monkey.com/) - Unfollower Notifications
 * [Fix Twitter Links](https://openuserjs.org/scripts/lucio-martinez/Fix_Twitter_links) - Unshorten Twitter Feed URLs 
@@ -2119,7 +2118,7 @@ Twitch Stream Tracker
 ## ▷ Customization
 
 * ⭐ **[Wallpaper Sites / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Download Wallpapers
-* ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter), [2](https://visualskins.com/) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals) 
+* ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals) 
 * ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9), [Catppuccin](https://catppuccin.com/) / [Discord](https://discord.gg/r6Mdz5dpFc), [Aura Theme](https://github.com/daltonmenezes/aura-theme) or [theme.park](https://theme-park.dev/) - Custom App Themes
 * [PCDesktops](http://pcdesktops.emuunlim.com/applinks.shtml) - Windows Customization Apps
 * [XDesktopSoft](https://www.xwidget.com/) - Desktop Customization
@@ -2313,7 +2312,7 @@ Twitch Stream Tracker
 * [Nextcloud](https://nextcloud.com/) - Safe data storage / [Unofficial Providers](https://nextcloud.com/signup/)
 * [Shared Drives Creator Website](https://github.com/MsGsuite/Shared-Drives-Creator-Website) - Create & host a Shared Drive Generator Website
 * [File Recovery Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_recovery_tools) - Data Recovery Tools
-* [Metadata Editor](https://metaeditor.services.picvario.com/), [jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/), [EXIFTool](https://exiftool.org/), [ExtractMetadata](https://www.extractmetadata.com/), [Metadata2Go](https://www.metadata2go.com/) or [Metashield](https://metashieldclean-up.elevenpaths.com/) - Metadata Viewers / Editors
+* [jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/), [EXIFTool](https://exiftool.org/), [ExtractMetadata](https://www.extractmetadata.com/), [Metadata2Go](https://www.metadata2go.com/) or [Metashield](https://metashieldclean-up.elevenpaths.com/) - Metadata Viewers / Editors
 * [SKTimeStamp](https://tools.stefankueng.com/SKTimeStamp.html) - Change File Created / Modified Time
 * [lessmsi](https://lessmsi.activescott.com/) - .msi Content Extractor / [GitHub](https://github.com/activescott/lessmsi)
 * [IPFS](https://ipfs.io/) - P2P Hypermedia Protocol / [Extension](https://github.com/ipfs/ipfs-companion) 
