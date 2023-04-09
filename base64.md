@@ -368,12 +368,6 @@ pass: paluch
 
 ***
 
-#### EBOOKS SET 2
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9aMWREMllTQSNYUlVhMVNqOW1YSkhVNHJoMXNleWtn`
-
-***
-
 #### just a digital library
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWlRTWRxNXlLMEVCcWExZmdrbVFUZlc3RVdTZUpXWXZU`
@@ -410,12 +404,6 @@ pass: paluch
 
 ***
 
-#### NTSLibrary
-
-`aHR0cDovL250c2xpYnJhcnkuY29tL1BERiUyNTIwQm9va3Mv`
-
-***
-
 #### Esoterica
 
 `aHR0cHM6Ly9tZWdhLm56LyNGIWhRVkZCRGJUIWYzZ09hM0xVQUhKWEpKYkZaZkR5dGc=`
@@ -437,18 +425,6 @@ pass: paluch
 #### LeftHandPath
 
 `aHR0cHM6Ly9tZWdhLm56LyNGIUU0Y1N6WUJaIVNQZVFBMFd1U01WaF9vUXRwWW5ONXc=`
-
-***
-
-#### mr.taco9's library
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMEI3VHBHcjlOQ3NlWFZXUlFiRmxwVDI4elF6Zw==`
-
-***
-
-#### Occult and Magick Guides
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMEI3Uk9PaVRadTVjS1RqVlVNV2xMT1dodFVqUQ==`
 
 ***
 
@@ -549,19 +525,6 @@ pass: paluch
 
 ***
 
-#### Readings
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL3UvMC9tb2JpbGUvZm9sZGVycy8wQjVLRHdMMVFpNnpVV0ZsZmJVOHlUalU0V1VFP3VzcD1kcml2ZV9vcGVu`
-
-***
-
-#### pdfs - books
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL3UvMC9tb2JpbGUvZm9sZGVycy8wQjFEUVVzRzlZeElYZmxoUWVqSnFjbWd3YnpndGNqUXpiRmxGVTNCTmVWSkVTMUp3VFc5aFJtRXdhMGs0ZFVOVlpFSnpRemc=`
-
-
-***
-
 #### StruggleBuddies 4.0
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9BMTVneWJqQiNzX3ZhQ0tIVlIzNVg3MDRvdDJnN0xR`
@@ -571,12 +534,6 @@ pass: paluch
 #### BitDL
 
 `aHR0cDovL3MxLmJpdGRsLmlyLwpodHRwOi8vczMuYml0ZGwuaXIvCmh0dHA6Ly9zNS5iaXRkbC5pci8KaHR0cDovL3M4LmJpdGRsLmlyLwpodHRwOi8vczkuYml0ZGwuaXIvCmh0dHA6Ly9zMTAuYml0ZGwuaXIvCmh0dHA6Ly9zMTEuYml0ZGwuaXIvCmh0dHA6Ly9zMTMuYml0ZGwuaXIvCmh0dHA6Ly9zMTQuYml0ZGwuaXIvCmh0dHA6Ly9zMi5iaXRkbC5pci9FYm9vay8=`
-
-***
-
-#### 114.116.28.83
-
-`aHR0cDovLzExNC4xMTYuMjguODMv`
 
 ***
 
@@ -677,57 +634,9 @@ pass: paluch
 
 *** 
 
-#### index-of
-
-`aHR0cDovL2luZGV4LW9mLmVzLw==`
-
-*** 
-
-#### Manny Hackers
-
-`aHR0cHM6Ly9hcGQubXNib3RzLndvcmtlcnMuZGV2LzA6Lw==`
-
-*** 
-
-#### Public Drive Bot
-
-`aHR0cHM6Ly9pbmRleC5pc3VtaXQud29ya2Vycy5kZXYv`
-
-*** 
-
-#### blacklistedbois
-
-`aHR0cHM6Ly9kbC5ibGFja2xpc3RlZGJvaXMud29ya2Vycy5kZXYvMDov`
-
-*** 
-
-#### HappyBoy
-
-`aHR0cHM6Ly9oYXBweWJveS5oYjRhbGwud29ya2Vycy5kZXYv`
-
-*** 
-
-#### BlinkDrive
-
-`aHR0cHM6Ly90ZDIuYmxpbmtkcml2ZS53b3JrZXJzLmRldi8=`
-
-*** 
-
-#### Mark41stark
-
-`aHR0cHM6Ly9hcmNyZWMubWFyazQxc3Rhcmsud29ya2Vycy5kZXYv`
-
-*** 
-
 #### KL-Teamdrive
 
 `aHR0cHM6Ly9ncm91cHMuZ29vZ2xlLmNvbS9nL2tsLXRlYW1kcml2ZQ==`
-
-*** 
-
-#### Lightz Cloud
-
-`aHR0cHM6Ly9ncm91cHMuZ29vZ2xlLmNvbS9nL2xpZ2h0ei1jbG91ZA==`
 
 *** 
 
@@ -793,7 +702,7 @@ pass: paluch
 
 #### Cyber Security Courses
 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXEyc09CTlU0bFBCa3d0RjFNc2w2dUNBQ0JWNVRVR1dECmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvdzhWSGhTYVkjZnNNMEFkWG44YTNiUmxqV2ZKU2RWZwpodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZHJpdmUvdS8wL2ZvbGRlcnMvMUFXSkhjV3Q0S25nVjJpakVGSG1oNzQtSEhNd1NSMTZ1`
+`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci93OFZIaFNhWSNmc00wQWRYbjhhM2JSbGpXZkpTZFZnCgo=`
 
 *** 
 
@@ -839,12 +748,6 @@ pass: paluch
 
 *** 
 
-#### Pol Art Folder
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9yVmNFeEliQiNWTjlhbHpheTBPcmN0Z2d2RW4xRFVn`
-
-*** 
-
 #### MorphVOX
 
 `aHR0cHM6Ly9maWxlY3IuY29tLz9zPU1vcnBoVk9YK1Bybw==`
@@ -866,12 +769,6 @@ pass: paluch
 #### FLStudio Skins
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9MQkEwQUI0UyN6MFFvRGZGY0prZWgyUVhXdnluWjJR`
-
-*** 
-
-#### Master Networks & Scanning
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci93b1FGQWFMVCNFcXZhaXAwUi1rWGktbEQ4T0ljaDdn`
 
 *** 
 
@@ -919,7 +816,7 @@ pass: paluch
 
 #### Font Collections
 
-`aHR0cHM6Ly9tZWdhLm56L2ZpbGUvUVVOQVNJUVojUkRSQS1RMGJWcmNhdzVpN2NoSlhES1lzU20xbWpvN0l4SVZTcU5mM2VkSQpodHRwczovL21lZ2EubnovZm9sZGVyL3d6WUZpWUpRI1FHem9oTGl2dzFhaGRFeHBzMWNRV0EKaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8wQjdPTkVBRVh3UGFxYzJnNFVFZHpibVpFVEc4L2VkaXQ/cmVzb3VyY2VrZXk9MC1ZazM2b01ON3U5M1BzdDF4bjVfejhBCmh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9maWxlL2QvMVk0eVJkNUt1Z0FURzVYZmNqa3VVZ045QlU0d0pKTVZqL3ZpZXcKaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWFKVktzbEswdl9rS3h2RWQ1S1YzS1NDZlkwZXBYTnowP3VzcD1zaGFyaW5nCmh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9maWxlL2QvMXg3b2g3OW0xb29qOUJuUHhFbnhFZ1pZMzlSVmNYcGxlL3ZpZXc/dXNwPXNoYXJpbmcKaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWFKVktzbEswdl9rS3h2RWQ1S1YzS1NDZlkwZXBYTnowCmh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9maWxlL2QvMEI3SW9WYUdVTURWc2VGcHZRM05LVGxOeWRtYy92aWV3P3Jlc291cmNla2V5PTAtN2lDZ2lPblh4QnRpbFkwdEoyTmlrZwpodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZHJpdmUvZm9sZGVycy8xaFBWNG84Zm14WTJBYjl0WGk4NGwwdlZPVVFFZ0ZJYlU=`
+`aHR0cHM6Ly9tZWdhLm56L2ZpbGUvUVVOQVNJUVojUkRSQS1RMGJWcmNhdzVpN2NoSlhES1lzU20xbWpvN0l4SVZTcU5mM2VkSQpodHRwczovL21lZ2EubnovZm9sZGVyL3d6WUZpWUpRI1FHem9oTGl2dzFhaGRFeHBzMWNRV0EKaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8wQjdPTkVBRVh3UGFxYzJnNFVFZHpibVpFVEc4L2VkaXQ/cmVzb3VyY2VrZXk9MC1ZazM2b01ON3U5M1BzdDF4bjVfejhBCmh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzFhSlZLc2xLMHZfa0t4dkVkNUtWM0tTQ2ZZMGVwWE56MD91c3A9c2hhcmluZwpodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZmlsZS9kLzF4N29oNzltMW9vajlCblB4RW54RWdaWTM5UlZjWHBsZS92aWV3P3VzcD1zaGFyaW5nCmh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzFhSlZLc2xLMHZfa0t4dkVkNUtWM0tTQ2ZZMGVwWE56MApodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZmlsZS9kLzBCN0lvVmFHVU1EVnNlRnB2UTNOS1RsTnlkbWMvdmlldz9yZXNvdXJjZWtleT0wLTdpQ2dpT25YeEJ0aWxZMHRKMk5pa2cKaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWhQVjRvOGZteFkyQWI5dFhpODRsMHZWT1VRRWdGSWJV`
 
 *** 
 
@@ -1169,12 +1066,6 @@ pass: paluch
 
 ***
 
-#### Elementor Kit
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9tRWtEQlNZSSNXWlZFOHB0UjkwWkgwMG5Cem1ESU93`
-
-***
-
 #### FreeCodeChamp Archive
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU1fR0RNYVJ3RkRCX1VHMHktV1FkTnFUeEx4Y2hsemdsP3VzcD1zaGFyaW5n`
@@ -1249,7 +1140,7 @@ pass: paluch
 
 #### Image Design Drives
 
-`aHR0cHM6Ly9tZWdhLm56L2ZpbGUveGtzaFZJQkojWkdHX2lHek9qTEZGUjhtWW1wR2xHRnRjRXNlWU16al9TSVJFZ2UtWE9sdwpodHRwczovL3VmaWxlLmlvLzk4dHU5c25zCmh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzFCYW5nc2lfeGljV3hwZVlJeTJvUHJ2aDZEdHV0dnVaQz91c3A9c2hhcmluZw==`
+`aHR0cHM6Ly9tZWdhLm56L2ZpbGUveGtzaFZJQkojWkdHX2lHek9qTEZGUjhtWW1wR2xHRnRjRXNlWU16al9TSVJFZ2UtWE9sdwpodHRwczovL3VmaWxlLmlvLzk4dHU5c25z`
 
 ***
 
@@ -1481,33 +1372,9 @@ pass: paluch
 
 ***
 
-#### akses
-
-`aHR0cHM6Ly9ha3Nlcy5pbmRleHNkeS53b3JrZXJzLmRldi8wOi8=`
-
-***
-
 #### †M1o8143
 
 `aHR0cHM6Ly9tYWluLWRyaXZlaW5kZXguYW50YWdvbmlzdC53b3JrZXJzLmRldi8wOi9Cb3QlMjBVcGxvYWRzLw==`
-
-***
-
-#### aryatejprakash72
-
-`aHR0cHM6Ly9taXJycm9yLmFyeWF0ZWpwcmFrYXNoNzIud29ya2Vycy5kZXYvMDov`
-
-***
-
-#### jsupload
-
-`aHR0cHM6Ly9qc3VwbG9hZC5qbnNib3Qud29ya2Vycy5kZXYvMDov`
-
-***
-
-#### teamqbit
-
-`aHR0cHM6Ly9pbmRleC50ZWFtcWJpdC53b3JrZXJzLmRldi8wOi8=`
 
 ***
 
