@@ -72,7 +72,6 @@
 * [Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f and type "Books / Comics / Magazines"
 * [IRC Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - Download Ebooks from IRC / [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/), [2](https://encyclopediadramatica.online/Bookz) / [mIRC](https://redd.it/znprct) / [Downloader](https://github.com/aghayes/rusty_book_pirate/), [2](https://github.com/evan-buss/openbooks), [3](https://github.com/Footsiefat/Openbooks-Downloader)
 * [The Library](https://discord.gg/mSyFJz9) or [The Great E-Library](https://discord.gg/efBxSuz) - Book Discord Servers 
-* [EBOOKS SET 2](https://github.com/nbats/FMHYedit/blob/main/base64.md#ebooks-set-2) - Books / Drive
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines 
 * [ebook3000.co](https://www.ebook3000.co/) - Books / Magazines / NSFW
 * [just a digital library](https://github.com/nbats/FMHYedit/blob/main/base64.md#just-a-digital-library) - Books
@@ -235,7 +234,6 @@
 * [Magic / Esoteric Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks) - Magic / Esoterica
 * [Dhamma Talks](https://www.dhammatalks.org/) - Sacred Texts / Religion / Buddhism
 * [Sutta Central](https://suttacentral.net/) - Sacred Texts / Religion / Buddhism 
-* [NTSLibrary](https://github.com/nbats/FMHYedit/blob/main/base64.md#ntslibrary) - Religion / Philosophy
 * [Gnostic Society Library](http://www.gnosis.org/library.html) - Gnosticism
 * [Esoterica](https://github.com/nbats/FMHYedit/blob/main/base64.md#esoterica) - Esoterica / Philosophy / Gnosticism 
 * [Logoi Library](http://logoilibrary.com/) - Gnosticism / Hermeticism 
@@ -258,7 +256,6 @@
 * [BlackDrago](https://www.blackdrago.com/) - Dragon Encyclopedia
 * [Encyclopedia Of Fairies](https://archive.org/details/BriggsKatharineMaryAnEncyclopediaOfFairies/) - Fairy Encyclopedia
 * [LeftHandPath](https://github.com/nbats/FMHYedit/blob/main/base64.md#lefthandpath) - Luciferianism 
-* [mr.taco9's library](https://github.com/nbats/FMHYedit/blob/main/base64.md#mrtaco9s-library) - Occult / Luciferianism
 * [The Law of One](https://www.lawofone.info/) - The Law of One Sessions
 * [Esoteric Archive](http://esotericarchives.com/) - Esoterica
 * [/r/alexandria](https://www.reddit.com/r/alexandria/) - Esoteric / Occult
@@ -266,7 +263,6 @@
 * [Golden Dawn](https://golden-dawn.com/nl/library.aspx) - Alchemy / Esoterica
 * [Darkbooks](https://darkbooks.org/collection/top250.html) - Occult
 * [Astrum Argenteum](http://www.astrumargenteum.org/en/library/) - Occult
-* [Occult and Magick Guides](https://github.com/nbats/FMHYedit/blob/main/base64.md#occult-and-magick-guides) - Occult 
 * [Azrk's library](https://github.com/nbats/FMHYedit/blob/main/base64.md#azrks-library) - Occult / Esoterica / Satanism / Religion / Ect.
 * [Rosicrucian Esotericism Lecture](https://rsarchive.org/) - Rosicrucian Esotericism
 * [Spirituality Megadrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#spirituality-megadrive) 
@@ -402,9 +398,7 @@
 * [EDUBBookPDF](https://edubookpdf.com/)
 * [OpenED](https://open.bccampus.ca/)
 * [doabooks](https://doabooks.org/)
-* [Readings](https://github.com/nbats/FMHYedit/blob/main/base64.md#readings)
 * [StruggleBuddies 4.0](https://github.com/nbats/FMHYedit/blob/main/base64.md#strugglebuddies-40)
-* [pdfs - books](https://github.com/nbats/FMHYedit/blob/main/base64.md#pdfs---books)
 * [De Gruyter](https://www.degruyter.com/browse?submittedFilterId=by-type&access_4=open&pageSize=10&sort=datedescending&type_5=book), [2](https://www.degruyter.com/page/2045)
 * [The Online Books Page](https://onlinebooks.library.upenn.edu/search.html)
 * [Springer](https://link.springer.com/search?showAll=false&query=&facet-content-type=%22Book%22)
@@ -418,7 +412,6 @@
 * [BookGoldMine](https://www.bookgoldmine.com/)
 * [Penn Libraries](http://digital.library.upenn.edu/) + [Index](http://digital.library.upenn.edu/books/)
 * [BitDL](https://github.com/nbats/FMHYedit/blob/main/base64.md#bitdl)
-* [114.116.28.83](https://github.com/nbats/FMHYedit/blob/main/base64.md#1141162883)
 * [SuperKuh](http://erewhon.superkuh.com/library/) 
 * [Non_Fic](https://vk.com/non_fic) 
 * [FreePLRDownloads](https://freeplrdownloads.com/)
@@ -919,7 +912,6 @@
 * [Tenmanga](https://www.tenmanga.com/)
 * [Tenkoreader](https://tenkoreader.com/)
 * [OniManga](https://onimanga.com)
-* [Mangadex.tv](https://mangadex.tv)
 * [MangaInn](https://mangainn.net/) 
 * [KumaScans](https://kumascans.com/) 
 * [MangaBat](https://m.mangabat.com/)
