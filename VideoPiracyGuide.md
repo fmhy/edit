@@ -79,7 +79,7 @@
 * [Filmzie](https://filmzie.com/) - Movies / TV
 * [PopcornFlix](https://www.popcornflix.com/) - Movies / TV
 * [Crackle](https://www.crackle.com/) - Movies / TV
-* [Freevee](https://www.amazon.com/adlp/freevee-about) - Movies / TV
+* [Freevee](https://www.amazon.com/gp/video/storefront/ref=atv_hm_hom_c_9zZ8D2_1_3?contentType=home&contentId=freetv) - Movies / TV
 * [Redbox](https://www.redbox.com/stream-free-movies) - Movies / TV
 * [ShoutFactoryTV](https://www.shoutfactorytv.com/) - Movies / TV
 * [Roku](https://therokuchannel.roku.com/) - Movies / TV
@@ -134,7 +134,7 @@
 * [KissMovies](https://www.kissmovies.io/) - Movies / TV
 * [TamilRockerMovies](https://www.tamilrockermovies.cf/search/label/Hollywood) - Movies
 * [ConTV](https://www.contv.com/browse-movie/146/free/) - Movies
-* [VidCloud](https://vidcloud9.me/), [2](https://membed.net/) - Movies / TV
+* [VidCloud](https://membed.net/) - Movies / TV
 * [Rainierland](https://rainierland.to/) - Movies / TV
 * [MovieHubz](https://moviehubz.com/) - Movies / TV / Anime / [Discord](https://discord.com/invite/UWTgkNCPXp)
 * [Afdah](https://afdah2.com/) - Movies
@@ -336,13 +336,11 @@
 * [123Anime](https://123animes.ru/) - Sub / Dub
 * [AnimeLon](https://animelon.com/) - Sub / Learn Japanese
 * [because.moe](https://because.moe/) - Legal Anime Sites Search 
-* [YugenAnime](https://yugenanime.ro/) - Sub / Dub / [Discord](https://discord.com/invite/MQqwQREyCz)
 * [Genoanime](https://genoanime.com/) - Sub / Dub / [Discord](https://discord.com/invite/TMe9eVs2YY)
 * [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - Sub
 * [GoGoAnime](https://gogoanime.ee/), [2](https://gogoanime.tel/) - Sub / Dub / [Discord](https://discord.com/invite/gogo) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime) / [Mirrors](https://gogoanime.news/)
 * [GoGo-Play](https://goload.pro/) - Sub
 * [AnimeShow](https://www2.animeshow.tv/) - Sub
-* [Haikei](https://haikei.xyz/) - Sub / Dub / [Discord](https://discord.gg/7UudX7Kz)
 * [AnimeNana](https://animenana.com/) - Sub
 * [Anify](https://anify.tv/) - Sub
 * [AnimeRush](https://www.animerush.tv/) - Sub / Dub
@@ -418,10 +416,8 @@
 * [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)
 * [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - TV / Movies
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
-* [DramaDay](https://dramaday.net/) - TV
 * [icdrama](http://www1.hkdrama.to/) - TV / Movies
 * [dramaz](http://dramaz.se/) - TV / Movies
-* [qooxi](http://drama.qooxi.to/) - TV / Movies
 * [NewTVDrama](https://www.newtvdrama.com/) - TV / Movies
 * [ADrama](http://www1.adrama.to/) - TV / Movies
 * [asianload](https://asianload.cc/) - TV / Movies
@@ -635,7 +631,6 @@
 * [EE3](https://ee3.me/) or [RIPS](https://rips.cc/) - Movies / Invite Code: mpgh or 1hack
 * [Reqzone](https://reqzone.com/) - Movies / TV
 * [KatMovieHD](https://katmoviehd.rs/category/hollywood-eng/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
-* [Minirlss](https://minirlss.com/) - Movies / TV / Anime
 * [NYMeriaTV](https://nymeriatv.com/) - Movies / TV
 * [FZMovies](https://fzmovies.net/) - Movies
 * [YourSerie](https://www.yourserie.com/) - Movies / TV
@@ -667,7 +662,6 @@
 * [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV
 * [MovieLegacy](https://movieslegacy.com/category/hollywood/) - Movies
 * [ULMovies](https://ulmovies.xyz/) - Movies / TV 
-* [SBS](https://3dsbs4u.com/) - Movies / TV
 * [ShareMania](http://sharemania.us/) - Movies / TV
 * [NetNaija](https://netnaija.xyz/) - Movies
 * [GdriveMovies](https://gdrivemovies.xyz/) - Movies 
@@ -754,7 +748,6 @@
 * [Anime2Enjoy](https://www.anime2enjoy.com/) - Sub / [Discord](https://discord.gg/PxSmumS)
 * [AniDL](https://anidl.org/) - Sub / Dub
 * [AnimeLand](https://www.animeland.us/) - Dub
-* [Ripcrabbyanime](https://ripcrabbyanime.in/) - Sub / Dub
 * [Kayoanime](https://kayoanime.com/) - Sub / Dub / [Telegram](https://t.me/Kayoanime)
 * [Animesp](https://github.com/nbats/FMHYedit/blob/main/base64.md#animesp) - Sub
 * [Mix Bag of Anime](https://github.com/nbats/FMHYedit/blob/main/base64.md#mix-bag-of-anime) - Sub / Dub
@@ -1058,7 +1051,7 @@
 * [LonelyScreen](https://www.lonelyscreen.com/) - Airplay Receiver
 * [RunPee](https://runpee.com/) - Best Movie Break Times
 * [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - Watch, download and Organize public video URLs
-* [GoGetSpoiled](https://gogetspoiled.com/), [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - Movie Spoilers 
+* [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - Movie Spoilers 
 * [DMT](https://dmtalkies.com/) - Movies / TV Ending Explanations and Recaps
 * [Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Covers for Movies, TV etc.
 * [IsThisDubbed?](https://isthisdubbed.com/) - Check if an Anime is Dubbed
