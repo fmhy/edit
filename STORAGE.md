@@ -55,8 +55,8 @@
 * ⭐ **[Baidu](https://www.baidu.com/)** - [PHP Version](https://github.com/yuantuo666/baiduwp-php)
 * ⭐ **[r0.ru](https://r0.ru/)**
 * ⭐ **[Ecosia](https://www.ecosia.org/)** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
-* [MWMBL](https://mwmbl.org/) - [GitHub](https://github.com/mwmbl/mwmbl)
 * [You](https://you.com/) - [AI Search](https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat)
+* [MWMBL](https://mwmbl.org/) - [GitHub](https://github.com/mwmbl/mwmbl)
 * [Presearch](https://presearch.org/) - [GitHub](https://github.com/presearchofficial)
 * [Fagan Finder](https://www.faganfinder.com/) - Index
 * [DirectSearch.Net](http://www.directsearch.net/) - Index
@@ -109,8 +109,8 @@
 
 #### Android File Explorers
 
-* [rcx](https://x0b.github.io/) - [GitHub](https://github.com/x0b/rcx)
 * [MiXplorer](https://mixplorer.com/), [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) - [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
+* [rcx](https://x0b.github.io/) - [GitHub](https://github.com/x0b/rcx)
 * [Amaze File Manager](https://teamamaze.xyz/) - [GitHub](https://github.com/TeamAmaze/AmazeFileManager)
 * [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager) - [GitHub](https://github.com/SimpleMobileTools/Simple-File-Manager)
 
@@ -173,10 +173,10 @@
 
 #### App Launchers
 
+* [Lawnchair](https://lawnchair.app/) - [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) / [Lawnfeed](https://github.com/LawnchairLauncher/lawnfeed)
 * [Smart Launcher](https://www.smartlauncher.net/) - [Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#smartlauncher-pro)
-* [Lawnchair](https://lawnchair.app/) - [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) - [Lawnfeed](https://github.com/LawnchairLauncher/lawnfeed)
-* [Nova Launcher](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/) - Check Stable or Beta Downloads
 * [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/), [2](https://www.apkmirror.com/apk/aurora-oss/warden/)
+* [Nova Launcher](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/) - Check Stable or Beta Downloads
 
 [Neo Launcher](https://github.com/NeoApplications/Neo-Launcher), [Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers), [Activity Launcher](https://github.com/butzist/ActivityLauncher), [Smart Dock](https://github.com/axel358/smartdock), [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher), [Olauncher](https://github.com/jooooscha/Olauncher), [Unlauncher](https://github.com/jkuester/unlauncher), [Ratio](https://blloc.com/), [Edge Card Launcher](https://play.google.com/store/apps/details?id=com.reactivstudios.android.edge4), [Stario Launcher](https://play.google.com/store/apps/details?id=com.stario.launcher), [Discreet Launcher](https://github.com/falzonv/discreet-launcher), [Taskbar](https://play.google.com/store/apps/details?id=com.farmerbb.taskbar), [Kvaesitso](https://kvaesitso.mm20.de/), [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher&hl=en&gl=US), [Inure App Manager](https://github.com/Hamza417/Inure), [KISS launcher](https://kisslauncher.com/), [Lynx Launcher](https://www.lynxlauncher.de/), [Slim launcher](https://github.com/sduduzog/slim-launcher), [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher)
 
@@ -219,9 +219,9 @@
 #### Audio Servers
 
 * ⭐ **[iBroadcast](https://ibroadcast.com)**
+* [Airsonic](https://airsonic.github.io/) - [Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced) / [Advanced UI](https://github.com/tamland/airsonic-refix)
 * [koel](https://koel.dev/) - [Docker](https://github.com/0xcaff/docker-koel)
 * [mStream](https://mstream.io/) - [GitHub](https://github.com/IrosTheBeggar/mStream)
-* [Airsonic](https://airsonic.github.io/) - [Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced) / [Advanced UI](https://github.com/tamland/airsonic-refix)
 * [Mopidy](https://mopidy.com/) - [GitHub](https://github.com/mopidy)
 
 [Fidbak](https://fidbak.audio/), [Madsonic](https://www.madsonic.org/pages/index.jsp), [Navidrome](https://www.navidrome.org/), [KooZic](https://koozic.net/), [Serviio](https://www.serviio.org/), [Polaris](https://github.com/agersant/polaris), [Echo](https://github.com/anhthii/Echo), [Black Candy](https://github.com/aidewoode/black_candy)
