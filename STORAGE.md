@@ -617,13 +617,17 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Email Clients
 
-[thunderbird](https://www.thunderbird.net/en-US/) / [Tray Icon](https://github.com/Ximi1970/systray-x), [BetterBird](https://www.betterbird.eu/), [ElectronMail](https://github.com/vladimiry/ElectronMail), [getmailspring](https://getmailspring.com/) / [Theme](https://github.com/topics/mailspring-theme), [bluemail](https://www.bluemail.me/), [claws-mail](https://www.claws-mail.org/), [emclient](https://www.emclient.com/), [rainloop](http://www.rainloop.net/), [roundcube](https://roundcube.net/), [spikenow](https://www.spikenow.com/), [canarymail](https://canarymail.io/), [twobird](https://www.twobird.com/), [kanmail](https://kanmail.io/), [Outlook](https://outlook.live.com/owa/) / [Tools](https://github.com/eksperience/KnockOutlook), [Gmail Desktop](https://github.com/timche/gmail-desktop)
+* [Thunderbird](https://www.thunderbird.net/en-US/) - [Tray Icon](https://github.com/Ximi1970/systray-x)
+* [Mailspring](https://getmailspring.com/) - [Themes](https://github.com/topics/mailspring-theme)
+* [Outlook](https://outlook.live.com/owa/) - [Tools](https://github.com/eksperience/KnockOutlook)
+
+[Betterbird](https://www.betterbird.eu/), [ElectronMail](https://github.com/vladimiry/ElectronMail), [BlueMail](https://www.bluemail.me/), [Claws Mail](https://www.claws-mail.org/), [eM Client](https://www.emclient.com/), [RainLoop](http://www.rainloop.net/), [Roundcube](https://roundcube.net/), [Spike](https://www.spikenow.com/), [Canary](https://canarymail.io/), [Twobird](https://www.twobird.com/), [Kanmail](https://kanmail.io/), [Gmail Desktop](https://github.com/timche/gmail-desktop)
 
 ***
 
 #### Email Forwarding
 
-⭐ **[DDG Email Protection](https://duckduckgo.com/email/)**
+* ⭐ **[DDG Email Protection](https://duckduckgo.com/email/)**
 
 [Forward Email](https://forwardemail.net/), [SimpleLogin](https://simplelogin.io/), [Firefox Relay](https://relay.firefox.com/), [spamgourmet](https://www.spamgourmet.com/index.pl), [Burner Mail](https://burnermail.io/), [scr.im](http://scr.im/), [Mailsac](https://mailsac.com/), [AnonAddy](https://anonaddy.com/), [AltMails](https://altmails.com/), [SpamCage](https://www.spamcage.com/), [YopMail](https://yopmail.com/en/), [MailGW](https://mailgw.com/), [Erine](https://erine.email/)
 
