@@ -453,12 +453,12 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 [The Poster Database](https://theposterdb.com/), [Cover Century](https://www.covercentury.com/), [covrik](http://www.covrik.com/), [DVD Covers](https://www.dvd-covers.org/), [Cover Addict VIP](https://www.cover-addict.com/), [Gaming Alexandria](https://www.gamingalexandria.com/), [POSTER-MAN](http://www.poster-man.com/), [dlhCollections](https://www.dlhcollections.com/index.html), [The Poster Collector](https://postercollector.co.uk/), [Movie Posters Gallery](https://www.moviepostersgallery.com/), [Film on Paper](https://www.filmonpaper.com/blog/), [GameTDB](https://www.gametdb.com/), [JoBlo](https://www.joblo.com/movie-posters/), [/r/MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/), [andydecarli](http://andydecarli.com/Video%20Games/Collection/), [IMP Awards](http://www.impawards.com/), [Moviemania](https://www.moviemania.io/), [Fanart](https://fanart.tv/)
 
-**Album Art** 
+**Album Art**
 
-* ⭐ **[MH Covers](https://covers.musichoarders.xyz)**
-* ⭐ **[AMOGUS](https://github.com/R3AP3/amogus)**
+* ⭐ **[Cover Search Engine](https://covers.musichoarders.xyz)**
+* ⭐ **[Amogus](https://github.com/R3AP3/amogus)**
 
-[iTunes Artwork Grabber](https://artwork.themoshcrypt.net/), [Album Art Downloader](https://sourceforge.net/projects/album-art/), [kunst](https://github.com/sdushantha/kunst) 
+[The Mosh Crypt](https://artwork.themoshcrypt.net/), [Album Art Downloader](https://sourceforge.net/projects/album-art/), [kunst](https://github.com/sdushantha/kunst)
 
 ***
 
