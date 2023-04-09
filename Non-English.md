@@ -2088,15 +2088,17 @@
 # ► Multi Indian Languages
 
 * ⭐ **[Einthusan](https://einthusan.tv/)** - Streaming / Movies / Music
+* ⭐ **[TamilBlasters](https://tamilblasters.skin/)** - Torrent / Movies / [Proxy](https://tamilblasters.unblockit.ist/)
+* ⭐ **[TamilMV](https://www.1tamilmv.hair/)** - Torrent / Movies
 * [Indian Piracy Index](https://github.com/anymeofu/Indian-Piracy-Index) - Piracy Site / Tool Index
 * [JioTV](https://github.com/avipatilpro/JioTV) - Live TV Streaming Script
 * [tamilgun](https://tamilgun.bio/) -  Streaming / Movies / TV
 * [uWatchFree](https://uwatchfree.be/) - Streaming / Movies / TV
 * [streamblasters](https://streamblasters.live/) - Streaming / Movies
-* [5movierulz](https://ww2.5movierulz.mu/) - Streaming / Movies
 * [khatrimazafull](https://khatrimazaful.cc/) - Streaming / Download / Movies
 * [9xmovies](https://9xmovies.church/) - Streaming / Download / Movies
 * [Movierulz](https://movierulzhd.today/) - Streaming / Movies / TV / [Telegram](https://t.me/movierulz28)
+* [5movierulz](https://ww2.5movierulz.mu/) - Streaming / Movies
 * [TamilRockers](https://www.tamilrockermovies.org/), [2](https://www.tamilrockermovies.ca/) - Streaming / Torrent / Movies
 * [Toroflix](https://freewatchhindimoviesonline.com/) - Streaming / Movies
 * [SadRip](https://sadrip.blogspot.com/) - Movies / TV
@@ -2112,8 +2114,6 @@
 * [MkvMoviesPoint](https://mkvmoviespoint.one/) - Download / Movies / [Telegram](https://telegram.me/mkvpoint1)
 * [Pendujatt](https://www.pendujatt.net/) - Download / Music
 * [Indian Flac Songs](https://t.me/indianflacsongs) - Download / Music
-* [TamilBlasters](https://tamilblasters.skin/) - Torrent / Movies / [Proxy](https://tamilblasters.unblockit.ist/)
-* [TamilMV](https://www.1tamilmv.hair/) - Torrent / Movies
 * [Digital Library of India](https://dli.sanskritdictionary.com) - Books
 * [OnlineFMRadio](https://www.onlinefmradio.in/) - Radio
 * [BotAllen](https://botallen.com/) - Kodi Repo
