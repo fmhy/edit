@@ -2096,7 +2096,7 @@
 * [5movierulz](https://ww2.5movierulz.mu/) - Streaming / Movies
 * [khatrimazafull](https://khatrimazaful.cc/) - Streaming / Download / Movies
 * [9xmovies](https://9xmovies.church/) - Streaming / Download / Movies
-* [Movierulz](https://ww5.movierulzhd.biz/) - Streaming / Movies / TV / [Telegram](https://t.me/movierulz28)
+* [Movierulz](https://movierulzhd.today/) - Streaming / Movies / TV / [Telegram](https://t.me/movierulz28)
 * [TamilRockers](https://www.tamilrockermovies.org/), [2](https://www.tamilrockermovies.ca/) - Streaming / Torrent / Movies
 * [Toroflix](https://freewatchhindimoviesonline.com/) - Streaming / Movies
 * [SadRip](https://sadrip.blogspot.com/) - Movies / TV
