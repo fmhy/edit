@@ -169,7 +169,6 @@
 * [SCloud](https://scloud.ws/)
 * [3almalt9nia](https://3almalt9nia.com/)
 * [AllPCWorld](https://allpcworld.com/)
-* [FreeSoftwareFiles](https://www.freesoftwarefiles.com/)
 * [Heidoc](https://www.heidoc.net/joomla/)
 * [SamLab](https://samlab.ws/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ
