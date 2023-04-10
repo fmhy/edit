@@ -703,6 +703,7 @@
 ## ▷ Drives / Directories 
 
 * ⭐ **[Rinzry](https://github.com/nbats/FMHYedit/blob/main/base64.md#rinzry)** - Movies / TV / Anime
+* ⭐ **[Foogle](https://foogle.shivamhw.me/)** - Movies / TV
 * ⭐ **[50TB](https://github.com/nbats/FMHYedit/blob/main/base64.md#50tb-mega-drive)** - Movies
 * ⭐ **[Rek's Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#reks-drive)** - Movies / Anime
 * [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
