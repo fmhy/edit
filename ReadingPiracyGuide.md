@@ -1250,6 +1250,7 @@
 * [Open Media Library](https://openmedialibrary.com/) - Online Book Manager
 * [Raven Reader](https://ravenreader.app/) - Article Reader / Manager 
 * [Cubari](https://cubari.moe/) - Image Proxy / Reader
+* [EinkBro](https://f-droid.org/packages/info.plateaukao.einkbro/) - E-Ink Browser
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - Read Books in Browser
 * [dotepub](https://dotepub.com/) - Convert Webpages to EBooks
 * [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
