@@ -18,7 +18,7 @@
 * ⭐ **[CS.RIN.RU](https://cs.rin.ru/)** - Download / [Status](https://csrinstaff.writeas.com/) / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Baidu Bypass](https://baidu.crackhub.site/) 
 * ⭐ **[GamesDrive](https://gamesdrive.net/)** - Download / [Discord](https://discord.gg/wXdNEhf73x) / [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Torrent / [Discord](https://discord.gg/hj8dU5BFHE) / pw: 1234
-* ⭐ **[CrackHub](https://crackhub.site/)** - Download / [Discord](https://discord.gg/T669D6weqt) / [Divolt](https://divolt.xyz/invite/82nEH5Sp) / [RSS](https://scene.crackhub.site/category/iso/rss)
+* ⭐ **[CrackHub](https://crackhub.site/)** - Download / [Divolt](https://divolt.xyz/invite/82nEH5Sp) / [RSS](https://scene.crackhub.site/category/iso/rss)
 * ⭐ **[GoG Games](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)** - Download / [Tor Required](https://www.torproject.org/download/)
 * ⭐ **[VRPirates](https://t.me/vrpirates)** / [Wiki](https://wiki.vrpirates.club/), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
 * ⭐ **[Game Download CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_download_cse)** / **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** - Multi-Site Search Engines
@@ -57,7 +57,7 @@
 * ⭐ **[DODI Repacks](http://dodi-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
 * ⭐ **[M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)** - Download / [Discord](https://discord.gg/693hNBdymb)
 * [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - Download / Torrent / [Discord](https://discord.gg/HP5sQ6c)
-* [ScOOter Repacks](https://scooter-repacks.site/) - Download / Torrent / [Discord](https://discord.gg/BWKyN8SgvM)
+* [ScOOter Repacks](https://web.archive.org/web/20230315064712/https://scooter-repacks.site/) - Download / Torrent
 * [Xatab Repacks](https://byxatab.com/), [2](https://otxatabs.net/)  - Torrent
 * [Darck Repacks](https://darckrepacks.com/) - Download
 * [Elamigos](https://elamigos.site/) - Download
@@ -180,7 +180,7 @@
 * [ROM-Collections](https://rentry.co/ROM-Collections) - ROMs
 * [WowROMs](https://wowROMs.com/en/) - ROMs
 * [Edge Emulation](https://edgeemu.net/) - ROMs
-* [Gnarly Repacks](https://www.gnarly-repacks.site/) - ROMs / [Discord](https://discord.gg/rH9wRpu2vh) 
+* [Gnarly Repacks](https://www.gnarly-repacks.site/) - ROMs 
 * [Zophar's Domain](https://www.zophar.net/) - Emulators / ROM Hacks
 * [TheRomDepot](https://theromdepot.com/) - ROMs
 * [Squid Proxy](https://github.com/nbats/FMHYedit/blob/main/base64.md#squid-proxy) - ROMs
@@ -215,7 +215,6 @@
 * [DownloadArea81](https://www.downarea51.com/) - Emulators / ROMs
 * [ROMs Planet](https://romsplanet.com/) - Emulators / ROMs
 * [CoolROMs](https://coolrom.com.au/) - Emulators / ROMs 
-* [KillerROMs](https://freeromsdownload.com/) -  Emulators / ROMs / Use ["More Options"](https://i.imgur.com/DscRWTR.png)
 * [Nostalgialand](https://nostalgialand.net/) - ROMs
 * [All Xbox Game](https://downloadgamexbox.com/) - ROMs
 * [RPGOnly](https://rpgonly.com) - ROMs
@@ -225,7 +224,7 @@
 * [ROMsFun](https://ROMsfun.com/) - ROMs
 * [FreeROMs](https://www.freeROMs.com/) - ROMs
 * [RetroZone](https://retrozone.co/) - ROMs
-* [/1CC/](https://8kun.top/1cc/index.html) - ROMs / [Discord](https://discord.com/invite/Y4dSzbXNau)
+* [/1CC/](https://8kun.top/1cc/index.html) - ROMs 
 * [DaROMs](http://daROMs.com/) - ROMs
 * [Arcade Punks](https://www.arcadepunks.com/) - ROMs
 * [NGR](https://www.nextgenroms.com/) - ROMs
@@ -345,7 +344,7 @@
 * [AtariMania](http://www.atarimania.com/index.html) - ROMs / Emulators  / Atari Consoles
 * [World of Spectrum](https://worldofspectrum.org/) - ROMs / Emulators / Sinclair ZX Spectrum
 * [Flashtro](https://flashtro.com/) - Retro Games
-* [/1CC/](https://8kun.top/1cc/index.html) - Retro Games / [Discord](https://discord.com/invite/Y4dSzbXNau)
+* [/1CC/](https://8kun.top/1cc/index.html) - Retro Games 
 * [Zombs-Lair](https://www.zombs-lair.com/) - Retro Games
 * [RetroSpec](http://retrospec.sgn.net/) - Retro Games
 * [LegendsWorld](https://www.legendsworld.net/) - Retro Adventure PC Games
@@ -358,7 +357,7 @@
 * [Tiny8bit](https://floooh.github.io/tiny8bit/) or [Piepacker](https://piepacker.com/) - Retro Game Browser Emulators
 * [pc-98](https://github.com/nbats/FMHYedit/blob/main/base64.md#pc-98) - PC-98 Games
 * [XTCabandonware](http://www.xtcabandonware.com/) or [VETUSWARE](https://vetusware.com/category/Games/?cat=7) - Abandonware
-* [Gnarly Repacks](https://www.gnarly-repacks.site/) - ROMs / Arcade / Retro / [Discord](https://discord.gg/rH9wRpu2vh) 
+* [Gnarly Repacks](https://www.gnarly-repacks.site/) - ROMs / Arcade / Retro 
 * [Classic Games](https://classicdosgames.com/) - Classic & Retro Game Archive
 * [Old Game Finer](http://www.oldgamesfinder.com/?) - Classic Game Search Engine
 * [The Interactive Fiction Page](http://www.cs.cmu.edu/~wsr/IF/) - Interactive Fiction Games
