@@ -133,7 +133,7 @@
 
 ### Reading
 
-**[Mobilism](https://forum.mobilism.org) / [Library Genesis](http://libgen.rs/) / [Z-Library](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/)** - Books, audiobooks, comics & more
+**[Mobilism](https://forum.mobilism.org) / [Library Genesis](http://libgen.rs/) / [Z-Library](https://singlelogin.me/)** - Books, audiobooks, comics & more
 **[Audiobook Bay](http://audiobookbay.ws/)** - Audiobook torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.imgur.com/tr0tbos.png)
 **[ReadComicsOnline](https://readcomiconline.li/)** - Read comics online
 **[MangaReader](https://mangareader.to/)** - Read manga online
