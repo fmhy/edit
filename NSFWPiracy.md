@@ -365,22 +365,21 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 # ► Tools
 
 * ⭐ **[Panic Button](https://pastebin.com/mDWBZ7fQ)** - Quickly Close All Tabs
-* [Internet Adult Film Database](https://www.iafd.com/) or [MyPornStarBook](https://www.mypornstarbook.net/) - Adult Film Databases / Reviews
-* [Porn-Vault](https://github.com/porn-vault/porn-vault), [Fapflix2.0](https://github.com/EinAeffchen/Fapflix2.0), [StashApp](https://stashapp.cc/) or [Stash](https://github.com/stashapp/stash) - Porn File Manager
+* ⭐ **[SauceNao](https://saucenao.com/)** - NSFW Reverse Image Search / [JAV Search](https://www.zenra.net/free-jav-reverse-image-search) / [Extension](https://saucenao.com/tools/)
+* ⭐ **[Bypass Subreddit Blocks](https://pastebin.com/gAAEQnqn)**
+* ⭐ **[Internet Adult Film Database](https://www.iafd.com/)** or [MyPornStarBook](https://www.mypornstarbook.net/) - Adult Film Databases / Reviews
+* ⭐ **[Porn-Vault](https://github.com/porn-vault/porn-vault)**, [Fapflix2.0](https://github.com/EinAeffchen/Fapflix2.0), [StashApp](https://stashapp.cc/) or [Stash](https://github.com/stashapp/stash) - Porn File Manager
 * [UploadingPorn](https://uploadingporn.com/) - NSFW File Host
 * [Javinizer](https://github.com/jvlflame/Javinizer) - JAV File Organizer
 * [DeepMosaics](https://github.com/HypoX64/DeepMosaics) or [DeepCreamPy](https://github.com/styler00dollar/Colab-DeepCreamPy/blob/master/Colab-DeepCreamPy-2.2.ipynb) - Remove Mosaics from Porn
-* [SauceNao](https://saucenao.com/) / [Extension](https://saucenao.com/tools/) - NSFW Reverse Image Search
 * [NameThatPorn](https://namethatporn.com/) - Porn Identification Tool
 * [ThePornDB](https://metadataapi.net/) - Porn Metadata
-* [ZENRA](https://www.zenra.net/free-jav-reverse-image-search) - Reverse JAV Image Search
-* [FapInstructor](https://fapinstructor.com/) - Fap Instructor Tool
 * [Chaturbate Enhanced](https://openuserjs.org/scripts/stixmaster/Chaturbate_Enhanced) or [Chaturbate Clean](https://openuserjs.org/scripts/ladroop/Chaturbate_Clean) - Improve Chaturbate Functionality
-* [Bypass Subreddit Blocks](https://pastebin.com/gAAEQnqn) 
 * [Bypass Age Verification](https://greasyfork.org/en/scripts/393525-bypass-age-verification-deviantart-com) - Bypass Deviantart Age Restriction
 * [Sleazy Fork](https://sleazyfork.org/) - Adult User Scripts
 * [asciiplayer](https://gist.github.com/girst/5834f8e8ba92b42c2c61) - PornHub ASCII Player
 * [Anal Sex Guide](https://github.com/regdude/anal) - Anal Sex Guide / Safety
+* [FapInstructor](https://fapinstructor.com/) - Fap Instructor Tool
 * [O School](https://www.o.school/) - Shop for Sex Toys
 * [Awesome-Buttplug](https://github.com/buttplugio/awesome-buttplug) - Buttplug Project Index
 * [Buttplug.io](https://buttplug.io/) - Sex Toy Control Software
