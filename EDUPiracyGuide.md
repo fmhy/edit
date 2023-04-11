@@ -591,7 +591,8 @@ Simulator
 
 * ⭐ **[Language Reactor](https://www.languagereactor.com/)** - Learn Languages via Media
 * ⭐ **[Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8)** - Language Learning Resources 
-* ⭐ **[Languages & Linguistics](https://github.com/nbats/FMHYedit/blob/main/base64.md#languages--linguistics)** 
+* ⭐ **[The Language Exchange Network](https://discord.gg/jxcVmHJ)** / [2](https://redd.it/5m5426) / [3](https://docs.google.com/document/d/14is9MfGfKC-ptDhXGWLQFYSAaWTJSnUxj6zK0RGqNIk/), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [Conversation Exchange](https://www.conversationexchange.com/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - Language Learning Networks
+* ⭐ **[Languages & Linguistics](https://github.com/nbats/FMHYedit/blob/main/base64.md#languages--linguistics)**
 * [Language Transfer](https://www.languagetransfer.org/) - Language Learning Lectures
 * [refold.la](https://refold.la/) - Language Learning Roadmap
 * [Memrise](https://www.memrise.com/) - Language Learning Lessons 
@@ -616,8 +617,7 @@ Simulator
 * [MyLanguages](http://mylanguages.org/) - Grammar / Vocabulary Language Learning
 * [Vocatra](https://esite.ch/vocatra/) - Vocabulary Trainer
 * [ListLang](https://www.listlang.com/) - Most Used Words in Any Language
-* [Polyglot](https://polyglotclub.com/) - Offline Language Exchange 
-* [The Language Exchange Network](https://discord.gg/jxcVmHJ), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [Conversation Exchange](https://www.conversationexchange.com/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - Language Learning Network
+* [Polyglot](https://polyglotclub.com/) - Offline Language Exchange
 
 ***
 
