@@ -706,8 +706,8 @@
 
 ## ▷ Software Dev Tools
 
-* [Electron](https://www.electronjs.org/), [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [PowerPage](https://github.com/casualwriter/powerpage), [Flet](https://flet.dev/), [Felvin](https://www.felvin.com/) or [Tauri](https://tauri.studio/) / [Resources](https://github.com/tauri-apps/awesome-tauri) - Desktop App Builders
-* Electron Tools - [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://www.electronjs.org/apps/) / [Debugger](https://github.com/bytedance/debugtron) / [Mod Loader](https://kernel.fish/) / [Builder](https://www.electron.build/)
+* ⭐**[Electron](https://www.electronjs.org/)**, [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [PowerPage](https://github.com/casualwriter/powerpage), [Flet](https://flet.dev/), [Felvin](https://www.felvin.com/) or [Tauri](https://tauri.studio/) / [Resources](https://github.com/tauri-apps/awesome-tauri) - Desktop App Builders
+* ⭐**Electron Tools** - [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://www.electronjs.org/apps/) / [Debugger](https://github.com/bytedance/debugtron) / [Mod Loader](https://kernel.fish/) / [Builder](https://www.electron.build/)
 * [Budibase](https://budibase.com/), [ToolJet](https://tooljet.com/), [retool](https://retool.com/) or [AppSmith](https://github.com/appsmithorg/appsmith) - Internal Tool Builders
 * [raylib technologie](https://raylibtech.itch.io/), [bookmarks](https://github.com/MorganGeek/bookmarks) or [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - Software Development Tools
 * [Theos](https://theos.dev/) - Program Build System / [GitHub](https://github.com/theos/theos) / [Jailed Tweaks](https://github.com/kabiroberai/theos-jailed/wiki/Installation)
@@ -724,6 +724,7 @@
 * [GNUnet](https://gnunet.org/en/) - Software Framework
 * [shadcn](https://ui.shadcn.com/) - Software Components
 * [Slint](https://github.com/slint-ui/slint or [QT Designer](https://build-system.fman.io/qt-designer-download) - GUI Development Tools
+* [Gooey](https://github.com/chriskiehl/Gooey) - Convert Python Command Line to GUI
 * [Kuker](https://github.com/krasimir/kuker) - Debug Applications
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - HTTP Proxy
 * [BugSnag](https://www.bugsnag.com/) - Application Stability Monitor
@@ -928,6 +929,7 @@
 * [ActionServerless](https://github.com/gitx-io/ActionServerless) - Create Serverless Service
 * [GitKraken](https://www.gitkraken.com/) or [Sourcetree](https://www.sourcetreeapp.com/) - Git GUI
 * [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - Git TUI
+* [GitHub Web IDE](https://github.com/zvizvi/GitHub-Web-IDE) - Web IDE
 * [Codeberg](https://codeberg.org/), [git.sr.ht](https://git.sr.ht/) or [GitGud](https://gitgud.io/) - Git Hosting
 * [Snipli](https://www.snipli.xyz/) - Convert Localfiles to Gist
 * [Git / Github Guide](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
