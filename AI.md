@@ -51,6 +51,7 @@
 * ⭐ **[Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)**, [WikiGPT3](https://www.wikigpt3.com/) or [SaaS GPTers](https://saasgpters.com/) - ChatGPT Resources
 * ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [2](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) or [Merlin](https://merlin.foyer.work/) - Enhancement Extensions
 * ⭐ **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
+* ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
 * [EmergentMind](https://www.emergentmind.com/) - ChatGPT Forum
 * [Text Gen Web UI](https://github.com/oobabooga/text-generation-webui/) - AI Chat WebUI
 * [ChatGPT Desktop](https://github.com/sonnylazuardi/chatgpt-desktop) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
@@ -139,6 +140,7 @@
 * [Essaytyper](http://www.essaytyper.com/) - Essay Writing AI
 * [papertyper](https://papertyper.net/) - Essay Writing AI
 * [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/) - Essay Writing AI
+* [Chat GPTPhantom](https://chatgpt-phantom.vercel.app/) - Article Writing AI
 * [BlogNLP](https://www.blognlp.com/) - Creator / Marketing AI
 * [Writerly](https://writerly.ai/) - Creator / Marketing AI
 * [Marmof](https://marmof.com/) - Creator / Marketing AI
@@ -199,7 +201,7 @@
 * ⭐ **[DeepAI](https://deepai.org/machine-learning-model/stable-diffusion)** / [2](https://deepai.org/machine-learning-model/text2img) - AI Image Generator / [Tools](https://deepai.org/apis)
 * ⭐ **[MagicBrush](https://www.magicbru.sh/)**, [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - AI Image Transformers
 * ⭐ **[Lexica](https://lexica.art/)**, [PixAI](https://pixai.art/), [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) or [Krea](https://www.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
-* ⭐ **[SD WebUI](https://github.com/cmdr2/stable-diffusion-ui)** / [2](https://github.com/neonsecret/stable-diffusion-webui) / [3](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [4](https://github.com/Sygil-Dev/sygil-webui) / [5](https://github.com/ddPn08/Lsmith) - Stable Diffusion WebUI / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Colab](https://github.com/pinilpypinilpy/sd-webui-colab-simplified)
+* ⭐ **[SD WebUI](https://github.com/cmdr2/stable-diffusion-ui)** / [2](https://github.com/neonsecret/stable-diffusion-webui) / [3](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [4](https://github.com/Sygil-Dev/sygil-webui) / [5](https://github.com/ddPn08/Lsmith) - Stable Diffusion WebUI / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Colab](https://github.com/pinilpypinilpy/sd-webui-colab-simplified), [2](https://github.com/camenduru/stable-diffusion-webui-colab)
 * ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - List of Stable Diffusion Models
 * ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** - Determine Likely Used Image Prompts
@@ -306,6 +308,7 @@
 * [Jingle](https://aidn.jp/jingle/)
 * [SoundDraw](https://soundraw.io/)
 * [Aiva](https://aiva.ai/)
+* [Boomy](https://boomy.com/)
 * [Riffusion](https://www.riffusion.com/)
 * [Musico](https://www.musi-co.com/listen/streams) - AI Generated Songs
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
