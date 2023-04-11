@@ -932,7 +932,6 @@
 # ► Gaming Tools
 
 * ⭐ **[Game Libraries / Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_libraries_.2F_launcher)** - Manage / Launch Games
-* ⭐ **[PCGamingWiki](https://www.pcgamingwiki.com/)** - Game Info, Bug Fixes & Optimization
 * ⭐ **[HowLongToBeat](https://howlongtobeat.com/)** - Find Average Game Lengths 
 * ⭐ **[r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/)** - Find Games via Screenshot or Description
 * ⭐ **[DS4Windows](https://github.com/Ryochan7/DS4Windows)** / [2](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [Input Remapper](https://github.com/sezanzeb/input-remapper) or [InputMapper](https://inputmapper.com/) - Gamepad Input Tools
@@ -1034,6 +1033,7 @@
 
 ## ▷ Optimization Tools
 
+* ⭐ **[PCGamingWiki](https://www.pcgamingwiki.com/)** - Game Info, Bug Fixes & Optimization
 * ⭐ **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)**, [Game Debate](https://game-debate.com/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Test
 * ⭐ **[ProSettings](https://prosettings.net/)** - In-Game Settings Optimization Guides
 * ⭐ **[DisplayMagician](https://github.com/terrymacdonald/DisplayMagician)** - Per-Game Display Profiles
