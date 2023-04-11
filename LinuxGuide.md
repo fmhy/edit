@@ -118,13 +118,14 @@
 * [Video Wallpaper](https://github.com/ghostlexly/gpu-video-wallpaper) - Use Videos as Animated Wallpaper
 * [Polychromatic](https://polychromatic.app/) - Linux System Light Control
 * [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI
+* [Wayland](https://wayland.freedesktop.org/) - Linux Display Server Protocol / [Tools](https://arewewaylandyet.com/)
 * [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - Window Closing Effects
 * [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
 * [Giara](https://aur.archlinux.org/packages/giara/) or [Headlines](https://gitlab.com/caveman250/Headlines) - Reddit Client
 * [reddio](https://gitlab.com/aaronNG/reddio) - Reddit CLI
 * [Giara](https://gitlab.com/gabmus/giara) - GTK Reddit App
 * [gettit](https://github.com/Solirs/gettit/) - Reddit CLI Video Downloader
-* [rainbowstream ](https://github.com/orakaro/rainbowstream) - Twitter CLI
+* [rainbowstream](https://github.com/orakaro/rainbowstream) - Twitter CLI
 * [ramme](https://github.com/terkelg/ramme) - Instagram Client
 * [LiMP](https://git.coom.tech/eternal-coomer/LiMP) - Local Booru
 * [Luakit](https://luakit.github.io/) - Lightweight Linux Browser 
@@ -269,7 +270,7 @@
 * [MPR Packages](https://mpr.hunterwittenborn.com/)
 * [JenV](https://www.jenv.be/) - Java Environment Manager / [GitHub](https://github.com/jenv/jenv)
 * [pacwall](https://github.com/Kharacternyk/pacwall) - Live Wallpaper that shows Dependency Graph & Status of Installed Packages 
-* [river](https://github.com/riverwm/river/), [kiwmi](https://github.com/buffet/kiwmi), [picom](https://github.com/yshui/picom), [wayfire](https://github.com/WayfireWM/wayfire/) or [sway](https://github.com/swaywm/sway/) - Linux Compositors
+* [river](https://github.com/riverwm/river/), [LabWC](https://github.com/labwc/labwc), [Hyprland](https://hyprland.org/), [kiwmi](https://github.com/buffet/kiwmi), [picom](https://github.com/yshui/picom), [wayfire](https://github.com/WayfireWM/wayfire/) or [sway](https://github.com/swaywm/sway/) - Linux Compositors
 * [Compix](https://github.com/xeome/compix) - Xorg Compositor
 * [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
 * [Arronax](https://www.florian-diesch.de/software/arronax/) - .desktop File Editor
