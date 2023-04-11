@@ -1130,7 +1130,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Image Upscalers 
 
-[Waifu2x](https://github.com/nagadomi/waifu2x), [RealScaler](https://github.com/Djdefrag/RealScaler), [Upscayl](https://github.com/upscayl/upscayl), [GigaPixel](https://github.com/nbats/FMHYedit/blob/main/base64.md#gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [Resizer](https://resizer.in/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [Upscaler Stockphotos](https://upscaler.stockphotos.com/), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/), [image upscaler](https://image-upscaler.com/), [Upscale Media](https://www.upscale.media/), [Zyro Upscaler](https://zyro.com/tools/image-upscaler), [Nicescaler](https://jangystudio.itch.io/nicescaler), [DFDNet](https://github.com/csxmli2016/DFDNet), [Nero AI](https://ai.nero.com/image-upscaler), [SDUpscale](https://rentry.org/sdupscale), [JPEG Quantsmooth](https://github.com/ilyakurdyukov/jpeg-quantsmooth), [imgupscaler](https://imgupscaler.com/), [chaiNNer](https://github.com/chaiNNer-org/chaiNNer), [torch-srgan](https://deepai.org/machine-learning-model/torch-srgan)
+[Waifu2x](https://github.com/nagadomi/waifu2x), [RealScaler](https://github.com/Djdefrag/RealScaler), [Upscayl](https://github.com/upscayl/upscayl), [GigaPixel](https://github.com/nbats/FMHYedit/blob/main/base64.md#gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [Resizer](https://resizer.in/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [Upscaler Stockphotos](https://upscaler.stockphotos.com/), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/), [image upscaler](https://image-upscaler.com/), [Upscale Media](https://www.upscale.media/), [Zyro Upscaler](https://zyro.com/tools/image-upscaler), [Nicescaler](https://jangystudio.itch.io/nicescaler), [DFDNet](https://github.com/csxmli2016/DFDNet), [Nero AI](https://ai.nero.com/image-upscaler), [SDUpscale](https://rentry.org/sdupscale), [JPEG Quantsmooth](https://github.com/ilyakurdyukov/jpeg-quantsmooth), [imgupscaler](https://imgupscaler.com/), [chaiNNer](https://github.com/chaiNNer-org/chaiNNer), [torch-srgan](https://deepai.org/machine-learning-model/torch-srgan), [ultimate-upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111)
 
 **Waifu2x Tools**
 
@@ -1496,7 +1496,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[ATLauncher](https://atlauncher.com/)** / [Crack](https://github.com/Domaman202/ATLauncher-Crack)
 * ⭐ **[PrismLauncher](https://prismlauncher.org/)** / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
 
-[MultiMC](https://multimc.org/), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/),, [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [Feather Client](https://feathermc.com/) / [Discord](https://discord.com/invite/feather), [GDLauncher](https://gdevs.io/)
+[MultiMC](https://multimc.org/), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/),, [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [Feather Client](https://feathermc.com/) / [Discord](https://discord.com/invite/feather), [GDLauncher](https://gdevs.io/), [X Minecraft Launcher](https://xmcl.app/)
 
 ***
 
@@ -2566,7 +2566,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Summary Generator
 
-[Skimcast](http://www.skimcast.com/), [SummaryGenerator](https://summarygenerator.com/), [Scholarcy](https://www.scholarcy.com) / [Chrome](https://chrome.google.com/webstore/detail/scholarcy-research-paper/oekgknkmgmaehhpegfeioenikocgbcib), [Resoomer](http://www.resoomer.com/), [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn), [SMMRY](https://smmry.com/), [Summari](https://www.summari.com/), [summarize.site](https://github.com/clmnin/summarize.site/), [kagi](https://labs.kagi.com/ai/sum), [whatispoint](https://www.whatispoint.xyz/)
+[Skimcast](http://www.skimcast.com/), [SummaryGenerator](https://summarygenerator.com/), [Scholarcy](https://www.scholarcy.com) / [Chrome](https://chrome.google.com/webstore/detail/scholarcy-research-paper/oekgknkmgmaehhpegfeioenikocgbcib), [Resoomer](http://www.resoomer.com/), [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn), [SMMRY](https://smmry.com/), [Summari](https://www.summari.com/), [summarize.site](https://github.com/clmnin/summarize.site/), [kagi](https://labs.kagi.com/ai/sum), [whatispoint](https://www.whatispoint.xyz/), [MyReader](https://www.myreader.io/)
 
 ***
 
@@ -3154,7 +3154,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Vim Tools
 
-[Plugin Manager](https://github.com/junegunn/vim-plug), [2](https://github.com/tpope/vim-pathogen), [3](https://github.com/Shougo/dein.vim) / [Config](https://github.com/ChristianChiarulli/LunarVim) / [Auto-Compile](https://github.com/BuilderIO/mitosis) / [Markdown Plugin](https://github.com/plasticboy/vim-markdown) / [Vim Plugins](https://vimawesome.com/) / [Neovim Plugins](https://neovimcraft.com/) / [TUI](https://github.com/NvChad/NvChad) / [Desktop](https://github.com/neovide/neovide) / [APK](https://github.com/shiftrot/droidvim) / [Bootstrap Config](https://vim-bootstrap.com/) / [Frontend](https://github.com/rohit-px2/nvui) / [Motions](https://github.com/ggandor/lightspeed.nvim)
+[Plugin Manager](https://github.com/junegunn/vim-plug), [2](https://github.com/tpope/vim-pathogen), [3](https://github.com/Shougo/dein.vim) / [Config](https://github.com/ChristianChiarulli/LunarVim) / [Auto-Compile](https://github.com/BuilderIO/mitosis) / [Markdown Plugin](https://github.com/plasticboy/vim-markdown) / [Vim Plugins](https://vimawesome.com/) / [Neovim Plugins](https://neovimcraft.com/) / [TUI](https://github.com/NvChad/NvChad) / [Desktop](https://github.com/neovide/neovide) / [GUI](https://github.com/vhakulinen/gnvim) / [APK](https://github.com/shiftrot/droidvim) / [Bootstrap Config](https://vim-bootstrap.com/) / [Frontend](https://github.com/rohit-px2/nvui) / [Motions](https://github.com/ggandor/lightspeed.nvim)
 
 ***
 
