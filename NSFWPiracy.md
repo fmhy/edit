@@ -348,7 +348,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46) 
 * [GGBases](https://www.ggbases.com/)
 * [Otomi Games](https://otomi-games.com/)
-* [Puppet Nightmares](https://www.puppetnightmares.com/) 
 * [BetterRepack](https://dl.betterrepack.com/public/) - [Discord](https://discord.gg/pSGZ4uz)
 * [69 Games](https://forum.69games.xxx/)
 * [The Asenheim Project](https://www.asenheim.org/)
