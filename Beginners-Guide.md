@@ -10,6 +10,15 @@
 
 ### [Basic  Safety Guide](https://rentry.co/bootyguard)
 
+Basic Piracy Safety Guide
+
+***
+***
+
+### [The Piracy Glossary](https://rentry.org/The-Piracy-Glossary)
+
+Basic Piracy Terminology
+
 ***
 ***
 
@@ -26,7 +35,7 @@
 
 ### Browsers
 
-**[Firefox](https://www.mozilla.org/en-US/firefox/new/)** / **[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / **[Browser Comparisons](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**
+**[Firefox](https://www.mozilla.org/en-US/firefox/new/)** / **[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / **[Browser Comparisons](https://avoidthehack.com/util/browser-comparison)**
 **[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_extensions)** - Add features & functionality to browser
 **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_managers)** - Save multiple passwords
 **[Dark Reader](https://darkreader.org/)** - Dark mode for all sites
