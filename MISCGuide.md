@@ -209,13 +209,14 @@
 
 # ► Fun Sites
 
-* ⭐ **[Fun Stuff Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fun_indexes)** - Toy, Game & Experiment Indexes
+* ⭐ **[Fun Stuff Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fun_indexes)** - Toys, Games, Experiments etc.
 * ⭐ **[Random Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_sites)** - Random Site Generators
 * ⭐ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_image_sites)** - Random Image Sites / Some NSFW
 * ⭐ **[KnowYourMeme](https://knowyourmeme.com/)** or [FndThatMeme](https://findthatmeme.com/) - Meme Databases
 * ⭐ **[Copypasta Text](https://copypastatext.com/)** - Copypasta Database
 * ⭐ **[Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_browser_games)** - Browser Game Sites
 * ⭐ **[Painting / Drawing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_painting_.2F_drawing)** - Painting / Drawing Tools
+* ⭐ **[DeviantArt](https://www.deviantart.com/)** or [ArtStation](https://www.artstation.com/) / [Downloader](https://github.com/findix/ArtStationDownloader) - User-Made Art
 * ⭐ **[Iceberg Charts](https://icebergcharts.com/)** - Explore Obscure Topics / [/r/IcebergCharts](https://www.reddit.com/r/IcebergCharts/)
 * ⭐ **[/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/wiki/listofsubreddits/)** - List of Subreddits
 * ⭐ **[Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** - List of Multireddits
@@ -231,7 +232,6 @@
 * [ThisXDoesNotExist](https://thisxdoesnotexist.com/) - Realistic-Looking Fake Versions of Things
 * [ThisPersonDoesNotExist](https://thispersondoesnotexist.xyz/) - People That Doesn't Exist
 * [Fucking Homepage](https://fuckinghomepage.com/) - Daily Interesting Stuff Homepage
-* [DeviantArt](https://www.deviantart.com/) or [ArtStation](https://www.artstation.com/) / [Downloader](https://github.com/findix/ArtStationDownloader) - User-Made Art
 * [Different Strokes](https://swsteffes.itch.io/different-strokes) - Online User-Made Art Gallery
 * [SfwChan](http://boards.swfchan.net/) - SFW Archive
 * [SakugaBooru](https://www.sakugabooru.com/) - Anime Animation Booru
