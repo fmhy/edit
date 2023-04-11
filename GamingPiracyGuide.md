@@ -19,7 +19,7 @@
 * ⭐ **[GamesDrive](https://gamesdrive.net/)** - Download / [Discord](https://discord.gg/wXdNEhf73x) / [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Torrent / [Discord](https://discord.gg/hj8dU5BFHE) / pw: 1234
 * ⭐ **[CrackHub](https://crackhub.site/)** - Download / [Divolt](https://divolt.xyz/invite/82nEH5Sp) / [RSS](https://scene.crackhub.site/category/iso/rss)
-* ⭐ **[GoG Games](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)** - Download / [Tor Required](https://www.torproject.org/download/)
+* ⭐ **[GOG Games](https://gog-games.to/)** - Download / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[VRPirates](https://t.me/vrpirates)** / [Wiki](https://wiki.vrpirates.club/), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
 * ⭐ **[Game Download CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_download_cse)** / **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** - Multi-Site Search Engines
 * ⭐ **[/r/PiratedGames Mega](https://rentry.org/pgames-mega-thread)** / [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) or [CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461) - Game Piracy Megathreads / [Discord](https://discord.gg/dZWwhUy)
@@ -936,6 +936,7 @@
 * ⭐ **[r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/)** - Find Games via Screenshot or Description
 * ⭐ **[DS4Windows](https://github.com/Ryochan7/DS4Windows)** / [2](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [Input Remapper](https://github.com/sezanzeb/input-remapper) or [InputMapper](https://inputmapper.com/) - Gamepad Input Tools
 * ⭐ **[Pokemon Typechart](https://pokemondb.net/type)** - Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)
+* ⭐ **[Valve Archive](https://valvearchive.com/)** - Rare Valve Data Archive
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
 * [TCNO](https://github.com/TCNOco/TcNo-Acc-Switcher) - Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)
 * [humble-cli](https://github.com/smbl64/humble-cli) - Humble Bundle CLI
@@ -950,7 +951,6 @@
 * [Save Game World](http://www.savegameworld.com/), [savegamedownload](https://www.savegamedownload.com/), [yoursavegames](https://www.yoursavegames.com/), [savesforgames](https://savesforgames.com/), [savegamefiles](https://www.savegamefiles.com/), [savegame-download](https://savegame-download.com/) or [savegame](https://savegame.pro/) - PC Game Save Downloads
 * [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
 * [CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - Cyberpunk 2077 Save Editor
-* [Valve Archive](https://valvearchive.com/) - Rare Valve Data Archive
 * [Map Genie](https://mapgenie.io/), [GameMaps](https://www.gamemaps.com/) or [VGMaps](http://www.vgmaps.com/)  - Game Maps 
 * [noclip](https://noclip.website/) - Explore Game Maps 
 * [bspview](https://github.com/sbuggay/bspview) - Explore Quake & GoldSRC Maps
@@ -1034,7 +1034,7 @@
 ## ▷ Optimization Tools
 
 * ⭐ **[PCGamingWiki](https://www.pcgamingwiki.com/)** - Game Info, Bug Fixes & Optimization
-* ⭐ **[SystemRequirmentslab](https://www.systemrequirementslab.com/cyri/)**, [Game Debate](https://game-debate.com/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Test
+* ⭐ **[SystemRequirmentsLab](https://www.systemrequirementslab.com/cyri/)**, [Game Debate](https://game-debate.com/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Test
 * ⭐ **[ProSettings](https://prosettings.net/)** - In-Game Settings Optimization Guides
 * ⭐ **[DisplayMagician](https://github.com/terrymacdonald/DisplayMagician)** - Per-Game Display Profiles
 * [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html) or [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - System Gaming Tweak Guides
