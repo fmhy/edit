@@ -112,7 +112,6 @@
 * [TheFreeOnlineNovel](https://thefreeonlinenovel.com/) - Books
 * [ReadOnlineFreeBook](https://readonlinefreebook.com/) - Books
 * [All Books Hub](https://allbookshub.com/) - Books
-* [8ebooks](https://8ebooks.net/) - Books / Magazines
 * [ebooksz](https://www.ebooksz.net/) - Books
 * [BBooks](https://bbooks.info/) - Books
 * [eBook777](https://www.ebooks777.net/) - Books
