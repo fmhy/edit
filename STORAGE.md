@@ -1865,6 +1865,7 @@ Add the following commands to a search to manually scrape each site.
 
 * https://dicionario.priberam.org/
 * https://www.infopedia.pt/
+* https://dicionario.acad-ciencias.pt/
 * https://michaelis.uol.com.br/
 * https://aulete.com.br/
 * https://www.lexico.pt/
