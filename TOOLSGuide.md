@@ -1783,6 +1783,7 @@ Twitch Stream Tracker
 * ⭐ **[PC Building / Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)** - Compare Systems and Parts
 * ⭐ **[Windows Piracy Guides](https://github.com/nbats/FMHYedit/blob/main/base64.md#windows-piracy-guides)** - How-to Pirate Windows
 * ⭐ **[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - Download Windows
+* ⭐ **[Rufus](https://rufus.ie/)**, [AIO Boot](https://www.aioboot.com/), [UUP](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x), [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) or [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) - Create Bootable USB Drives  
 * ⭐ **[Windows Activators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation)** - Windows Activation Guides / Scripts / [Rentry](https://rentry.co/win-activate)
 * ⭐ **[Windows Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)** - Windows 10 Debloating Tools
 * ⭐ **[Windows Optimization](https://rentry.co/mdl-optimize-guide)** - Windows Optimization Guide / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat) / [Resources](https://github.com/BoringBoredom/PC-Optimization-Hub)
@@ -1796,14 +1797,12 @@ Twitch Stream Tracker
 * [Windows Repair Toolbox](https://windows-repair-toolbox.com/) - Windows Multi-Tool App
 * [Espanso](https://espanso.org/) - Typing Shortcuts / [GitHub](https://github.com/espanso/espanso)
 * [TouchCursor](https://sourceforge.net/projects/touchcursor/) - Use Home Keys as Cursor
-* [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - CLI Commands Cheatsheet
 * [Operating System Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_os_emulators) - Emulate Alternate OS
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) - Remove Ghosted Devices
 * [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) - BSD Operating Systems
 * [Medicat USB](https://medicatusb.com/) - USB Toolkit
 * [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) - Format Any Size USB to Fat32
-* [Rufus](https://rufus.ie/), [AIO Boot](https://www.aioboot.com/), [UUP](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x), [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) or [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) - Create Bootable USB Drives  
 * [SARDU](https://www.sarducd.it/) - Create Recovery USB Flash Drive or Disk
 * [MTPDrive](https://www.mtpdrive.com/index.html) - MPT Device Drive Mapping
 * [rEFind](http://www.rodsbooks.com/refind/) - Boot Manager
