@@ -775,6 +775,7 @@
 * ⭐ **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)** - Create Temporary Email Addresses
 * ⭐ **[nosms](https://rentry.co/nosms)** - How-to Create Throwaway Gmail Accounts
 * ⭐ **[Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools)** - Archive, Scrape and Crawl Sites
+* ⭐ **[ntfy](https://ntfy.sh/)** or [PingMe](https://github.com/kha7iq/pingme) - Custom Push Notifications
 * [Yandex Disk](https://disk.yandex.com/), [VK WorkSpace](https://biz.mail.ru/) or [OpenDesktop](https://www.opendesktop.org/) - Multiple Cloud Services 
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
 * [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/webcatalog/), [web2desk](https://appmaker.xyz/web2desk/) or [Pake](https://github.com/tw93/Pake) - Turn Webpages into Desktop Apps
@@ -853,8 +854,7 @@
 * [ARP Chat](https://github.com/kognise/arpchat) - ARP Chat Client
 * [Atlus](https://github.com/amanharwara/altus) - Whatsapp Client
 * [Rocket Chat](https://rocket.chat/) - Self-Hosted Chat Client
-* [Delta Chat](https://delta.chat/en/) - Email Based Messenger 
-* [PingMe](https://github.com/kha7iq/pingme) - Multi-App Notifications
+* [Delta Chat](https://delta.chat/en/) - Email Based Messenger
 * [SnapRecovery](https://github.com/sdushantha/snaprecovery) - Snapchat Recovery Tool
 * [Snapchat Data Extractor](https://gist.github.com/programminghoch10/fa37e0da8b2efc5cb8077e59d000771d) - Extract Snapchat Photo / Video Details
 * [Skype Exports for Humans](https://becausecurious.me/skype_exports_for_humans) - Export Skype Chat Data to Readable Text
