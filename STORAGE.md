@@ -822,7 +822,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Ninja Download Manager](https://ninjadownloadmanager.com/)
 * [Internet Download Accelerator](https://westbyte.com/ida/) 
 * [Envy](https://sourceforge.net/projects/getenvy/) - [GitHub](https://github.com/getenvy/envy)
-* [AWGG](https://sites.google.com/site/awggproject/) / [GitHub](https://github.com/Nenirey/AWGG)
 * [Ant Download Manager](https://antdownloadmanager.com/)
 * [Xtreme Downlaod Manager](https://xtremedownloadmanager.com/) 
 * [Chrono Download Manager](https://www.chronodownloader.net/) 
@@ -846,7 +845,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### File Recovery Tools
 
-[ZAR Recovery](https://www.z-a-recovery.com/), [R-Undelete](https://www.r-undelete.com/Download.shtml), [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec), [StellarInfo](https://github.com/nbats/FMHYedit/blob/main/base64.md#stellarinfo), [Windows File Recovery](https://www.microsoft.com/en-us/p/windows-file-recovery/9n26s50ln705), [DMDE](https://dmde.com/download.html), [Recuva](https://www.ccleaner.com/recuva), [TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Download)
+[R-Undelete](https://www.r-undelete.com/Download.shtml), [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec), [StellarInfo](https://github.com/nbats/FMHYedit/blob/main/base64.md#stellarinfo), [Windows File Recovery](https://www.microsoft.com/en-us/p/windows-file-recovery/9n26s50ln705), [DMDE](https://dmde.com/download.html), [Recuva](https://www.ccleaner.com/recuva), [TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Download)
 
 ***
 
