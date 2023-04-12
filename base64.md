@@ -6,6 +6,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ### Mirrors
 
+* https://www.fmhy.ml/base64
 * https://fmhy.pages.dev/base64/
 * https://github.com/nbats/FMHYedit/blob/main/base64.md
 * https://notabug.org/nbatman/freemediaheckyeah/wiki/base64
