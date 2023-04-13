@@ -241,7 +241,6 @@
 * [The Vintage Software Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#the-vintage-software-collection) or [SCiZE's Classic Warez Collection](https://scenelist.org/) - Retro Software
 * [Portable Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portable_apps) - Portable Apps for USB / SD / External Storage
 * [BelowAverage](https://belowaverage.org/) - I.T. Software
-* [Software Giveaway Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff)
 
 ***
 
