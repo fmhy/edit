@@ -29,7 +29,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Unegeekette](http://unegeekette.com/) 
 * [Area51](https://area51.to/en/)
 * [QuickiePage](https://quickiepage.com/) 
-* [PaidPornGuide](https://www.paidpornguide.com/) 
 * [FreePornLTD](https://freepornltd.org/) 
 * [ThePornMap](https://thepornmap.com/) 
 * [PornBox](http://pornbox.org/)
@@ -147,7 +146,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [PhoenixAdult](https://github.com/DirtyRacer1337/Jellyfin.Plugin.PhoenixAdult) - Jellyfin Porn Plugin
 * [xHubApp](http://xhubapp.com/) - AIO Premium Porn Services App
 * [Pornsearch](https://github.com/LucasLeandro1204/Pornsearch) - Porn Search Script
-* [PornInvidious](https://porninvidious.esmailelbob.xyz/) - xVideos Frontend
 
 ***
 
