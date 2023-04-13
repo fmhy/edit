@@ -165,7 +165,7 @@ Basic Piracy Terminology
 **[/r/ApkApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** - Updated list of modded APKs / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)
 **[APKMirror](https://www.apkmirror.com/) / [F-Droid](https://f-droid.org/)** - Untouched APKs
 **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8) / [2](https://cse.google.com/cse?cx=73948689c2c206528) / [3](https://cse.google.com/cse?cx=a805854b6a196d6a6)**  - Multi-site APK search
-**[Stremio](https://www.stremio.com/) / [CloudStream](https://cloudstream.cf/)** - Video streaming apps / Use VPN for Stremio
+**[Stremio](https://www.stremio.com/)** - Video streaming app / Use VPN
 **[Kodi](https://kodi.tv/)** - iOS / Android TV compatible streaming app / [/r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 **[ReVanced Manager](https://github.com/revanced/revanced-manager)** - Ad-free YouTube
 **[Spotify Mod](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-spotify-apk)** / [iOS](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotify), [2](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotilife) - Ad-free Spotify
