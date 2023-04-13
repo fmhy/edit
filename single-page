@@ -1048,7 +1048,6 @@
 * [Media Stack DIY](http://tennojim.xyz/article/media_stack_diy) - High Quality Streaming Guide
 * [/r/SceneReleases](https://www.reddit.com/r/SceneReleases/) - Untouched Scene Release Tracker
 * [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - Web Video Viewer / Manager
-* [LonelyScreen](https://www.lonelyscreen.com/) - Airplay Receiver
 * [RunPee](https://runpee.com/) - Best Movie Break Times
 * [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - Watch, download and Organize public video URLs
 * [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - Movie Spoilers 
@@ -2870,6 +2869,7 @@
 * ⭐ **[RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/)** - Artist Recommendations by Genre
 * ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Artist Recommendations
 * ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV 
+* ⭐ **[Discover Quickly](https://discoverquickly.com/)** - Discover Spotify Songs easily
 * [Kworb](https://kworb.net/) - Music Top Charts
 * [ClassicRockHistory](https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/) - Classic Rock Band Archive
 * [Metal Archives](https://www.metal-archives.com/) - Metal Band Archive
@@ -2877,7 +2877,7 @@
 * [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Music Recommendation Guides
 * [Music-Map](https://www.music-map.com/), [Panther](http://panther.audio/), [Musicroamer](https://www.musicroamer.com/), [Gnoosic](https://www.gnoosic.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [GNOD](https://www.gnod.com/) or [What The Fuck Should I Listen To Right Now?](https://www.whatthefuckshouldilistentorightnow.com/) - Artist Discovery Tools
 * [45Cat](http://www.45cat.com/) - Vinyl Ratings / Reviews
-* [TapeFear](https://www.tapefear.com/), [SongsLikeX](https://songslikex.com/) or [Discover Quickly](https://discoverquickly.com/) - Spotify Song Discovery
+* [TapeFear](https://www.tapefear.com/) or [SongsLikeX](https://songslikex.com/)  - Spotify Song Discovery
 * [Spotalike](https://spotalike.com/), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [Discoverify](https://discoverifymusic.com/), [Highlights2SPotify](https://highlights2spotify.com/), [Ripple](https://ripple.orcas.land/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generators
 * [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
 * [MusitcTo](https://www.musicto.com/) - Musician Curated Playlists
@@ -14791,8 +14791,9 @@ pass: paluch
 
 * ⭐ **[AIMP](http://www.aimp.ru/?do=download&os=android)**
 * ⭐ **[Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet&hl=en_US&gl=US)**
+* ⭐ **[Symphony](https://github.com/zyrouge/symphony)**
 
-[VLC for Android](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer), [BlackHole](https://github.com/Sangwan5688/BlackHole), [RAAG](https://github.com/raag-music/raag/), [Metro](https://f-droid.org/en/packages/io.github.muntashirakon.Music/), [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer), [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/), [retroPod](https://jamesob.com/apps/retropod.html), [Apollo Music Player](https://github.com/nuclearfog/Apollo-Music), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx), [Serenity](https://github.com/YajanaRao/Serenity), [ExoPlayer](https://github.com/google/ExoPlayer), [Timber](https://github.com/naman14/Timber), [TimberX](https://github.com/naman14/TimberX), [Howl Music Player](https://github.com/Iamlooker/Howl), [SoundSpice](https://github.com/farshed/SoundSpice-mobile), [Bungee](https://github.com/OpenConsultingGroup/Flutter-Music-App), [DialogMusicPlayer](https://github.com/VishnuSanal/DialogMusicPlayer), [mucke](https://github.com/moritz-weber/mucke), [Phonograph Plus](https://github.com/chr56/Phonograph_Plus), [Symphony](https://github.com/zyrouge/symphony), [Musicmax](https://github.com/MaximillianLeonov/Musicmax), [Tear Music](https://github.com/tearone/tearmusic), [Stellio Player](https://stellio.ru/en), [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music), [Pulse Music](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse), [Frolomuse](https://play.google.com/store/apps/details?id=com.frolo.musp), [Zen Music Player](https://github.com/pakka-papad/Zen)
+[VLC for Android](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer), [BlackHole](https://github.com/Sangwan5688/BlackHole), [RAAG](https://github.com/raag-music/raag/), [Metro](https://f-droid.org/en/packages/io.github.muntashirakon.Music/), [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer), [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/), [retroPod](https://jamesob.com/apps/retropod.html), [Apollo Music Player](https://github.com/nuclearfog/Apollo-Music), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx), [Serenity](https://github.com/YajanaRao/Serenity), [ExoPlayer](https://github.com/google/ExoPlayer), [Timber](https://github.com/naman14/Timber), [TimberX](https://github.com/naman14/TimberX), [Howl Music Player](https://github.com/Iamlooker/Howl), [SoundSpice](https://github.com/farshed/SoundSpice-mobile), [Bungee](https://github.com/OpenConsultingGroup/Flutter-Music-App), [DialogMusicPlayer](https://github.com/VishnuSanal/DialogMusicPlayer), [mucke](https://github.com/moritz-weber/mucke), [Phonograph Plus](https://github.com/chr56/Phonograph_Plus), [Musicmax](https://github.com/MaximillianLeonov/Musicmax), [Tear Music](https://github.com/tearone/tearmusic), [Stellio Player](https://stellio.ru/en), [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music), [Pulse Music](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse), [Frolomuse](https://play.google.com/store/apps/details?id=com.frolo.musp), [Zen Music Player](https://github.com/pakka-papad/Zen)
 
 ***
 
@@ -15229,8 +15230,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### Disk Usage Analyzers
 
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)**, [2](https://github.com/GNOME/baobab)
+* ⭐ **[WizTree](https://www.diskanalyzer.com/)**
 
-[WizTree](https://www.diskanalyzer.com/), [WinDirStat](https://windirstat.net/), [HDSentinel](https://www.hdsentinel.com/), [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/), [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/), [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html), [Disk Space Analyzer](https://qiplex.com/software/disk-space-saver/), [Gdu](https://github.com/dundee/gdu), [dua](https://github.com/Byron/dua-cli), [SpaceRadar](https://github.com/zz85/space-radar), [Diskovery](https://diskovery.io/), [DiskInfo](https://github.com/DiskTools/DiskInfo)
+[WinDirStat](https://windirstat.net/), [HDSentinel](https://www.hdsentinel.com/), [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/), [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/), [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html), [Disk Space Analyzer](https://qiplex.com/software/disk-space-saver/), [Gdu](https://github.com/dundee/gdu), [dua](https://github.com/Byron/dua-cli), [SpaceRadar](https://github.com/zz85/space-radar), [Diskovery](https://diskovery.io/), [DiskInfo](https://github.com/DiskTools/DiskInfo)
 
 ***
 
@@ -16276,15 +16278,13 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[Audio Players Index](https://rentry.co/Audio-Players)**
 * ⭐ **[Foobar2000](https://www.foobar2000.org/)**
-* ⭐ **[Melodie](https://feugy.github.io/melodie/)**
 * ⭐ **[Harmonoid](https://harmonoid.com/)**
-* ⭐ **[Hyperchroma](https://hyperchroma.app/)**
 * ⭐ **[WACUP](https://getwacup.com/)** / [2](https://winamp.com/) / [3](https://www.majorgeeks.com/files/details/winamp_5_full.html)
 * ⭐ **[AIMP](http://www.aimp.ru/?do=lang&lng=en)**
 * ⭐ **[VOX Music Player](https://vox.rocks/windows-music-player)**
 * ⭐ **[MusicBee](https://getmusicbee.com/)**
 
-[Roon](https://rutracker.org/forum/tracker.php?nm=roon), [iTunes](https://www.apple.com/itunes/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [OvoPlayer](http://ovoplayer.altervista.org/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Amarok](https://amarok.kde.org/), [Hysolid](https://www.hysolid.com/), [aidoru](https://github.com/ffwff/aidoru), [Modular Player](https://www.deviantart.com/jaxoriginals/art/ModularPlayers-v1-3-886577256), [goMP](https://github.com/aditya-K2/goMP), [NCurses](https://github.com/ncmpcpp/ncmpcpp), [XMPlay](https://www.un4seen.com/) (Chiptune-Friendly), [guayadeque](https://github.com/anonbeat/guayadeque), [musique](http://flavio.tordini.org/musique), [sonata](https://github.com/multani/sonata), [exaile](http://www.exaile.org/), [quodlibet](https://github.com/quodlibet/quodlibet/), [ario](http://ario-player.sourceforge.net/), [deadbeef](https://deadbeef.sourceforge.io/), [groovebasin](https://github.com/andrewrk/groovebasin), [destroyer](https://github.com/mashaal/destroyer), [Ampache](https://ampache.org/) / [GitHub](https://github.com/ampache/ampache), [MusikCube](https://musikcube.com/), [Volumio](https://volumio.com/en/get-started), [Museeks](https://museeks.io/), [Swing Music](https://swingmusic.vercel.app/), [Nora](https://github.com/Sandakan/Nora)
+[Roon](https://rutracker.org/forum/tracker.php?nm=roon), [iTunes](https://www.apple.com/itunes/), [Clementine](https://www.clementine-player.org/), [Audacious](https://audacious-media-player.org/), [OvoPlayer](http://ovoplayer.altervista.org/), [Strawberry](https://www.strawberrymusicplayer.org/), [Exaile](https://exaile.org/), [JakJuk](http://www.jajuk.info/), [Amarok](https://amarok.kde.org/), [Hysolid](https://www.hysolid.com/), [aidoru](https://github.com/ffwff/aidoru), [Modular Player](https://www.deviantart.com/jaxoriginals/art/ModularPlayers-v1-3-886577256), [goMP](https://github.com/aditya-K2/goMP), [NCurses](https://github.com/ncmpcpp/ncmpcpp), [XMPlay](https://www.un4seen.com/) (Chiptune-Friendly), [guayadeque](https://github.com/anonbeat/guayadeque), [musique](http://flavio.tordini.org/musique), [sonata](https://github.com/multani/sonata), [exaile](http://www.exaile.org/), [quodlibet](https://github.com/quodlibet/quodlibet/), [ario](http://ario-player.sourceforge.net/), [deadbeef](https://deadbeef.sourceforge.io/), [groovebasin](https://github.com/andrewrk/groovebasin), [destroyer](https://github.com/mashaal/destroyer), [Ampache](https://ampache.org/) / [GitHub](https://github.com/ampache/ampache), [MusikCube](https://musikcube.com/), [Volumio](https://volumio.com/en/get-started), [Museeks](https://museeks.io/), [Swing Music](https://swingmusic.vercel.app/), [Nora](https://github.com/Sandakan/Nora), [Hyperchroma](https://hyperchroma.app/), [Melodie](https://feugy.github.io/melodie/)
 
 **Self-Hosted**
 
@@ -16567,6 +16567,7 @@ Add the following commands to a search to manually scrape each site.
 * https://michaelis.uol.com.br/
 * https://aulete.com.br/
 * https://www.lexico.pt/
+* https://dicionario.acad-ciencias.pt/
 * https://www.dicio.com.br/
 * https://dicionariocriativo.com.br/
 * https://www.significados.com.br/
@@ -17709,6 +17710,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions)**
 * [VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch)
 * [Adblocker for Twitch - Edge](https://microsoftedge.microsoft.com/addons/detail/adblocker-for-twitch%E2%84%A2/glgpmlmjlaljaddimbgekaepkgbojjdn)
+* [Twitch Adblock PC Guides ](https://rentry.org/twitchadblockdesktop) 
 
 ***
 
@@ -17950,6 +17952,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Better Windows (Guide)](https://rentry.co/better-windows)**
 * ⭐ **[QuickBoost](https://github.com/SanGraphic/QuickBoost)**
 * ⭐ **[Windows AME](https://ameliorated.info/)** / [AtlasOS Playbook](https://atlasos.net/) / [ReviOS Playbook](https://www.revi.cc/)
+* ⭐ **[LTSC Debloat Guide](https://rentry.co/LTSC)**
 
 [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/) / [DL](https://www.reddit.com/r/TronScript/wiki/downloads), [win10script](https://github.com/ChrisTitusTech/winutil) / [2](https://christitus.com/debloat-windows-10-2020/), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [Ninjutsu](https://www.teamos-hkrg.com/threads/window-10-ninjutsu-v1-0-x64.128178/), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [Windows-Decrapifier](https://github.com/n1snt/Windows-Decrapifier), [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script), [Remove-Windows10-Bloat](https://gist.github.com/matthewjberger/2f4295887d6cb5738fa34e597f457b7f), [Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10), [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat), [SophiApp](https://github.com/Sophia-Community/SophiApp), [WinRice](https://github.com/pratyakshm/WinRice), [TweakList](https://github.com/couleur-tweak-tips/TweakList), [Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins), [BRU](https://github.com/arcadesdude/BRU), [Windows-Bloatware-Removal](https://github.com/BallisticTurtle/Windows-Bloatware-Removal/blob/master/Remove%20Windows%20Bloatware.bat), [optimizer](https://github.com/hellzerg/optimizer/), [Ultimate Windows Utility](https://christitus.com/windows-tool/), [XToolbox](https://github.com/xemulat/XToolbox), [Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools), [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover), [Win10Debloat](https://github.com/Raphire/Win10Debloat), [windows_hardening.cmd](https://gist.github.com/ricardojba/ecdfe30dadbdab6c514a530bc5d51ef6) 
 
