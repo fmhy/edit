@@ -462,6 +462,7 @@
 * ⭐ **[RYM Ultimate Box Set](https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/)** - Artist Recommendations by Genre
 * ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Artist Recommendations
 * ⭐ **[Tunefind](https://www.tunefind.com/)** - Find Music from Movies / TV 
+* ⭐ **[Discover Quickly](https://discoverquickly.com/)** - Discover Spotify Songs easily
 * [Kworb](https://kworb.net/) - Music Top Charts
 * [ClassicRockHistory](https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/) - Classic Rock Band Archive
 * [Metal Archives](https://www.metal-archives.com/) - Metal Band Archive
@@ -469,7 +470,7 @@
 * [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Music Recommendation Guides
 * [Music-Map](https://www.music-map.com/), [Panther](http://panther.audio/), [Musicroamer](https://www.musicroamer.com/), [Gnoosic](https://www.gnoosic.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [GNOD](https://www.gnod.com/) or [What The Fuck Should I Listen To Right Now?](https://www.whatthefuckshouldilistentorightnow.com/) - Artist Discovery Tools
 * [45Cat](http://www.45cat.com/) - Vinyl Ratings / Reviews
-* [TapeFear](https://www.tapefear.com/), [SongsLikeX](https://songslikex.com/) or [Discover Quickly](https://discoverquickly.com/) - Spotify Song Discovery
+* [TapeFear](https://www.tapefear.com/) or [SongsLikeX](https://songslikex.com/)  - Spotify Song Discovery
 * [Spotalike](https://spotalike.com/), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [Discoverify](https://discoverifymusic.com/), [Highlights2SPotify](https://highlights2spotify.com/), [Ripple](https://ripple.orcas.land/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generators
 * [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
 * [MusitcTo](https://www.musicto.com/) - Musician Curated Playlists
