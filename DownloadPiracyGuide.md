@@ -77,7 +77,6 @@
 * [SCENE.RLS](http://scene-rls.net/releases/index.php) - Video / Audio / Games / Software / Books / Magazines 
 * [WarezLover](https://warezlover.xyz/) - Video / Audio / Software / Games / Android / ROMs / Books / Magazines 
 * [heroturko.net](https://www.heroturko.net/) - Video / Audio / Software / Games / Books / Magazines / Android
-* [yasdl](https://www.yasdl.com/) - Software / Games / Audio / Video
 * [TFPDL](https://tfpdl.se/), [2](https://tfpdl.to/) - Video / Software / Games / Magazines / NSFW 
 * [Apps4All](https://www.apps4all.com/ ) - Video / Books / Software / Games / Android
 * [Katz DDL](https://katzddl.net/) - Video / Audio / Books / Games / Android / NSFW
@@ -154,17 +153,17 @@
 * ⭐ **[AppNee](https://appnee.com/)**
 * ⭐ **[Pesktop](https://pesktop.com/en/)**
 * ⭐ **[RSLOAD](https://rsload.net/)**
+* ⭐ **[YasDL](https://yasdl.com/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - [Mobile App](https://forum.mobilism.org/app/)
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)**
 * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* ⭐ **[YasDL](https://yasdl.com/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* ⭐ **[soft98](https://soft98.ir/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [4Download](https://www.4download.net/)
 * [AIOWares](https://www.aiowares.com/)
 * [Mr. SzzS](https://www.youtube.com/channel/UCcf3dtQFVb5zfy0jGYNpA0w)
 * [TheMicroTech](https://programs.themicrotech.net/)
-* [FileCR](https://filecr.com/en/) - [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass) / Anti-Adblock Site
 * [downloadly.ir](https://downloadly.ir/) - Persian VPN Required
+* [FileCR](https://filecr.com/en/) - [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass) / Anti-Adblock Site
+* [soft98](https://soft98.ir/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Mutaz.net](https://www.mutaz.net/)
 * [WagnardSoft](https://www.wagnardsoft.com/)
 * [SCloud](https://scloud.ws/)
