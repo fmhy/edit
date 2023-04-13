@@ -1301,7 +1301,6 @@
 * [TsukiMangas](https://www.tsukimangas.com/) - Manga
 * [Global.Toomics](https://global.toomics.com/br) - Manga
 * [brmangas](https://www.brmangas.com/) - Manga
-* [mangahost4](https://mangahost4.com/) - Manga
 * [randomscans](https://randomscans.com/) - Manga
 * [NeoxScans](https://neoxscans.net/) - Manga
 * [rainbowfairyscan](https://rainbowfairyscan.com/) - Manga
@@ -1984,7 +1983,7 @@
 * [ThuvienHD](https://thuvienhd.com/) - Movies / TV / Anime
 * [HDVietnam](https://hdvietnam.org/forums/) - Video / Audio 
 * [TinMp3](https://tinmp3.com/) - Music
-* [NhacHay360](https://nhachayvn.net/), [2](https://nhachay360.com/) - Music
+* [NhacHay360](https://nhachayvn.net/) - Music
 * [NhacPro](https://nhacpro.me/) - Music
 * [NhacRemix](https://nhacremixs.com/) - Music
 * [NgheNhac123](https://nghenhac123.com/) - Music
