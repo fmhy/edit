@@ -63,6 +63,7 @@
 * [eshiq](https://en.e3sk.net/), [2](https://3sk.tv/) - Turkish TV
 * [asia2tv](https://asia2tv.cn/) - Asian Drama
 * [animebdk](https://animebdk.blogspot.com/) - Anime
+* [jotorrent](https://www.jotorrent.com/) - Anime / Open-Signups Each Month
 * [gateanime](https://c.gateanime.com/) - Anime
 * [AnimeFlick](https://animeflick.net/) - Anime
 * [AnimeTak](https://animetak.net/) - Anime
@@ -551,11 +552,12 @@
 * [dctp.tv](https://www.dctp.tv/) - Documentaries
 * [dokuh.de](https://www.dokuh.de/) - Documentaries  
 * [Stiftung imai](https://www.stiftung-imai.de/) - Video Archive
-* [24DETV](https://www.24detv.de/) - Live TV 
-* [dtvd](https://dtvd.net/) or [liveschauen](https://liveschauen.com/) - Live TV 
-* [2ix2](https://www.2ix2.com/) - Live TV 
-* [tvpinto](https://www.tvpinto.com/) - Live TV 
-* [hoerspielprojekt](https://www.hoerspielprojekt.de/) - Radio Plays  
+* [24DETV](https://www.24detv.de/) - Live TV
+* [dtvd](https://dtvd.net/) or [liveschauen](https://liveschauen.com/) - Live TV
+* [2ix2](https://www.2ix2.com/) - Live TV
+* [tvpinto](https://www.tvpinto.com/) - Live TV
+* [hoerspielprojekt](https://www.hoerspielprojekt.de/) - Radio Plays
+* [forschung](https://forschung-kuenstlerpublikationen.de/Werke.html) - Rare LPs
 * [ProxerAndroid](https://github.com/proxer/ProxerAndroid) - Android / Anime
 * [Teapod](https://f-droid.org/packages/org.mosad.teapod) - Android / Anime
 
@@ -767,6 +769,7 @@
 
 * ⭐ **[Italian Piracy Resources](https://rentry.co/italian-piracy-resources)** - Piracy Site List
 * ⭐ **[The Italian Corsairs](https://rentry.co/the-italian-corsairs)** - Piracy Site List
+* [PizzaGPT](https://www.pizzagpt.it/) - Italian ChatGPT Alternative
 
 ## ▷ Downloading 
 
