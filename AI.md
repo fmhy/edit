@@ -31,6 +31,7 @@
 * [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbots
 * [Chai](https://chai.ml/) - Entertainment Focused Chatbot
 * [AnimaAI](https://myanima.ai/) - Virtual Companion
+* [JackChat](https://app.jackchat.ai/) - Browser Based Chatbot
 * [cleverbot](https://www.cleverbot.com/) - Browser Based Chatbot
 * [eviebot](https://www.eviebot.com/en/) - Browser Based Chatbot
 * [Kuki](https://chat.kuki.ai/chat) - Browser Based Chatbot
@@ -48,19 +49,19 @@
 
 ## ▷ ChatGPT Tools
 
-* ⭐ **[Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)**, [WikiGPT3](https://www.wikigpt3.com/) or [SaaS GPTers](https://saasgpters.com/) - ChatGPT Resources
+* ⭐ **[Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)**, [GPT Resources](https://airtable.com/shrWat9yoXFwOXWQ0/tblxXHpcpjn1POWnh), [WikiGPT3](https://www.wikigpt3.com/) or [SaaS GPTers](https://saasgpters.com/) - ChatGPT Resources
 * ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [2](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) or [Merlin](https://merlin.foyer.work/) - Enhancement Extensions
 * ⭐ **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
 * ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
 * [EmergentMind](https://www.emergentmind.com/) - ChatGPT Forum
-* [Text Gen Web UI](https://github.com/oobabooga/text-generation-webui/) - AI Chat WebUI
-* [ChatGPT Desktop](https://github.com/sonnylazuardi/chatgpt-desktop) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
+* [Text Gen Web UI](https://github.com/oobabooga/text-generation-webui/) or [TurboGPT.ai](https://turbogpt.ai/) - AI Chat WebUI
+* [ChatGPT Desktop](https://github.com/sonnylazuardi/chatgpt-desktop), [TurboGPT](https://github.com/mikebpech/turbogpt.ai) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
 * [Assistant CLI](https://github.com/diciaup/assistant-cli), [ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) or [openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt) - TUIs and CLIs
 * [pyChatGPT](https://github.com/terry3041/pyChatGPT) - Python App
 * [GPTPrompter](https://www.gptprompter.com/), [ChatHub](https://github.com/chathub-dev/chathub) or [ChatGPTBox](https://github.com/josStorer/chatGPTBox) - ChatGPT Browser Extensions
 * [WeChat ChatGPT](https://github.com/fuergaosi233/wechat-chatgpt) - ChatGPT for WeChat
 * [ChatGPT Advanced](https://github.com/qunash/chatgpt-advanced) - Add Search Results to ChatGPT
-* [ChatGPT4Google](https://chatgpt4google.com/), [ChatGPT Search](https://greasyfork.org/en/scripts/456077), [ChatGPTGoogle](https://github.com/wong2/chatgpt-google-extension) or [ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Add ChatGPT to Search Results
+* [ChatGPT4Google](https://chatgpt4google.com/), [SublimeGPT](https://chrome.google.com/webstore/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea), [ChatGPT Search](https://greasyfork.org/en/scripts/456077), [ChatGPTGoogle](https://github.com/wong2/chatgpt-google-extension) or [ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Add ChatGPT to Search Results
 * [ShareGPT](https://sharegpt.com/) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats 
 * [ChatGPT Notification](https://chrome.google.com/webstore/detail/chatgpt-notification/eklmiefkbieejjjhmpjdllphmcjdndin) - Receive Notifications
 * [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear Chats
@@ -77,7 +78,7 @@
 * ⭐ **[Awesome ChatGPT Prompts](https://prompts.chat/)** / [2](https://github.com/f/awesome-chatgpt-prompts) - Prompt Directory
 * ⭐ **[Learn Prompting](https://learnprompting.org/)** - Prompt Directory
 * ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheet
-* ⭐ **[jailbreakchat](https://www.jailbreakchat.com/)** - Jailbreak Prompts
+* ⭐ **[jailbreakchat](https://www.jailbreakchat.com/)** or [Chatbot Exploits](https://github.com/Cranot/chatbot-injections-exploits) - Jailbreak Prompts
 * [Chatgptjailbreak](https://rentry.org/Chatgptjailbreak) - Prompt Directory
 * [flowgpt](https://flowgpt.com/) - Prompt Directory
 * [OrdinaryPeoplePrompts](https://www.ordinarypeopleprompts.com/) - Prompt Directory
@@ -85,7 +86,7 @@
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) - Prompt Generator
 * [botprompts](https://botprompts.net/) - Fun Prompts
 * [DAN](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516) or [GPT Jailbreak](https://rentry.co/gptjailbreak) - DAN / John Prompts
-* [ChatGPT-History](https://github.com/benf2004/ChatGPT-History) - Prompt Management Extension 
+* [ChatGPT-History](https://github.com/benf2004/ChatGPT-History) or [Spell.so](https://spell.so/) - Prompt Management Extensions
 
 ***
 ***
@@ -130,6 +131,7 @@
 * [gpt3](https://gpt3.ethio-tech.com/) - GPT-3 Based AI
 * [Transformer](https://transformer.huggingface.co/) - GPT-2 Based AI
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Text AI / [API](https://github.com/acheong08/EdgeGPT)
+* [AirOps](https://www.airops.com/) - Task-Specific AI Text Generators
 * [NovelAI](https://novelai.net/) / [2](https://rentry.org/sdg_FAQ) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz)
 * [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - Story Writing AI
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
@@ -205,7 +207,7 @@
 * ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - List of Stable Diffusion Models
 * ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** - Determine Likely Used Image Prompts
-* ⭐ **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
+* ⭐ **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
 * ⭐ **[PromptMania](https://promptomania.com/)** - AI Image Prompt Generator
 * [PublicPrompts](https://publicprompts.art/) - AI Image Prompts / [Discord](https://discord.com/invite/jvQJFFFx26)
 * [Unprompted](https://github.com/ThereforeGames/unprompted) - Stable Diffusion Text Generator
@@ -253,6 +255,7 @@
 * [Pet AI](https://petai.art/) - Turn Pet Photos into Artwork
 * [Nightmare Machine](http://nightmare.mit.edu/) - Scary AI Generated Imagery
 * [Interiorai](https://interiorai.com/) - AI Interior Design Tool
+* [Photoshop StableDiffusion](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - Stable Diffusion for Photoshop
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) - Protect Digital Art from AI Copies
 * [erasing](https://github.com/rohitgandikota/erasing) - Remove Concepts from SD Models
