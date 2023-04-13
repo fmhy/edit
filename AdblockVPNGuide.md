@@ -40,6 +40,7 @@
 * [LinkedIn Unsponsored](https://greasyfork.org/en/scripts/379003-linkedin-unsponsored) - Remove Sponsored Posts from LinkedIn 
 * [JustRead](https://justread.link/) - Ad-Free Article Viewer
 * [WhoTargetsMe](https://whotargets.me/) - Political Ad Tracker
+* [Cat Block](https://getcatblock.com/) - Replace Ads with Cats / [Discord](https://discord.gg/HKCNztF)
 
 ***
 
@@ -553,7 +554,7 @@
 
 * ⭐ **[Psiphon](https://psiphon.ca/)** - [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png)
 * ⭐ **[Lantern](https://lantern.io/en_US/index.html)** 
-* ⭐ **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** - Local Proxy
+* ⭐ **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** - Local Proxy / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI)
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/bypass-some-isp-blocks-with-just-firefox)** - Bypass ISP censorship with Firefox
 * [Acrylic](http://mayakron.altervista.org/)
 * [Tsunami](https://github.com/FogNetwork/Tsunami)
