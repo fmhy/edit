@@ -152,7 +152,7 @@
 # ► Software Sites
 
 * ⭐ **[RSLOAD](https://rsload.net/)**
-* ⭐ **[Pesktop](https://pesktop.com/en/)** or [FileCR](https://filecr.com/en/) - [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass)
+* ⭐ **[Pesktop](https://pesktop.com/en/)**
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - [Mobile App](https://forum.mobilism.org/app/)
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)**
 * ⭐ **[AppNee](https://appnee.com/)**
@@ -164,6 +164,7 @@
 * [AIOWares](https://www.aiowares.com/)
 * [Mr. SzzS](https://www.youtube.com/channel/UCcf3dtQFVb5zfy0jGYNpA0w)
 * [TheMicroTech](https://programs.themicrotech.net/)
+* [FileCR](https://filecr.com/en/) - [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass)
 * [Mutaz.net](https://www.mutaz.net/)
 * [WagnardSoft](https://www.wagnardsoft.com/)
 * [SCloud](https://scloud.ws/)
