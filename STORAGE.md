@@ -530,8 +530,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### Disk Usage Analyzers
 
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)**, [2](https://github.com/GNOME/baobab)
+* ⭐ **[WizTree](https://www.diskanalyzer.com/)**
 
-[WizTree](https://www.diskanalyzer.com/), [WinDirStat](https://windirstat.net/), [HDSentinel](https://www.hdsentinel.com/), [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/), [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/), [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html), [Disk Space Analyzer](https://qiplex.com/software/disk-space-saver/), [Gdu](https://github.com/dundee/gdu), [dua](https://github.com/Byron/dua-cli), [SpaceRadar](https://github.com/zz85/space-radar), [Diskovery](https://diskovery.io/), [DiskInfo](https://github.com/DiskTools/DiskInfo)
+[WinDirStat](https://windirstat.net/), [HDSentinel](https://www.hdsentinel.com/), [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/), [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/), [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html), [Disk Space Analyzer](https://qiplex.com/software/disk-space-saver/), [Gdu](https://github.com/dundee/gdu), [dua](https://github.com/Byron/dua-cli), [SpaceRadar](https://github.com/zz85/space-radar), [Diskovery](https://diskovery.io/), [DiskInfo](https://github.com/DiskTools/DiskInfo)
 
 ***
 
