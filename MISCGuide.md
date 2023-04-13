@@ -359,7 +359,6 @@
 * [Slap Kirk](https://www.slapkirk.com/) - Slap Captain Kirk
 * [Slap Chris](https://slapchris.com/) - Slap Chris Rock
 * [Eel Slap](http://www.eelslap.com/) - Slap Guy with Eel
-* [pls pet doge](http://plspetdoge.com/) - Pet Doge 
 * [Slide Ventura](https://slideventura.com/) - Ace Ventura Sliding Door Simulator
 * [Fake Doors](http://faykdoors.com/) - Its Fake Doors
 * [Do not open the door](http://mexicans.eu/) - Don't you dare...
@@ -1538,7 +1537,7 @@
 * ⭐ **[Keepa](https://keepa.com/)** or **[CamelCamelCamel](https://camelcamelcamel.com/)** - Amazon Price Tracker / [App](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno)
 * ⭐ **[Real Price Tracker](https://www.realpricetracker.com/)** or [FlipsHope](https://flipshope.com/ ) - Price Tracking Extensions
 * [Search Ebay Sold](https://chrome.google.com/webstore/detail/search-ebay-sold/mhlcjbhhieanjjafbcoeclghpnjhepif) - Ebay Sold Item Search
-* [Avaluers](https://avaluers.net/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
+* [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
 * [Craftie](https://www.craftle.app/) - Furniture Price Calculator
 * [DiaperGrid](https://diapergrid.com/) - Diaper Price Tracker
 * [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
