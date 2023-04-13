@@ -18,7 +18,7 @@
 * ⭐ **[CS.RIN.RU](https://cs.rin.ru/)** - Download / [Status](https://csrinstaff.writeas.com/) / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Baidu Bypass](https://baidu.crackhub.site/) 
 * ⭐ **[GamesDrive](https://gamesdrive.net/)** - Download / [Discord](https://discord.gg/wXdNEhf73x) / [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Torrent / [Discord](https://discord.gg/hj8dU5BFHE) / pw: 1234
-* ⭐ **[CrackHub](https://crackhub.site/)** - Download / [Divolt](https://divolt.xyz/invite/82nEH5Sp) / [RSS](https://scene.crackhub.site/category/iso/rss)
+* ⭐ **[CrackHub](https://crackhub.site/)** - Download / [Divolt](https://divolt.xyz/invite/82nEH5Sp) / [RSS](https://scene.crackhub.site/category/iso/feed/)
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[VRPirates](https://t.me/vrpirates)** / [Wiki](https://wiki.vrpirates.club/), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
 * ⭐ **[Game Download CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_download_cse)** / **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** - Multi-Site Search Engines
@@ -92,6 +92,7 @@
 * [NR2003](https://wildkustomcars.weebly.com/) - Modded Nascar 2003
 * [Unciv](https://github.com/yairm210/Unciv) - Civ V Remake
 * [OpenTTD](https://www.openttd.org/) - Transport Tycoon Remake
+* [OpenGD](https://github.com/Open-GD/OpenGD) - Geometry Dash Remake
 * [OpenNox](https://github.com/noxworld-dev/opennox) - Nox Revival Project
 * [London 2038](https://london2038.com/) - London 2038 Multiplayer Revival Project
 * [Pixel Gun X](https://discord.com/invite/8796Fs9tZm) - Pixel Gun 3D Revival Project
@@ -193,7 +194,7 @@
 * [Rom Pack](https://www.ROMspack.com/) - ROMs
 * [Retrostic](https://www.retrostic.com/) - Emulators / ROMs
 * [ROMsUniverse](https://www.ROMsuniverse.com/) - Emulators / ROMs
-* [ROMsie](https://ROMsie.com/) - Emulators / ROMs
+* [ROMsie](https://romzie.com/) - Emulators / ROMs
 * [Romsever](https://romsever.com) - Emulators / ROMs
 * [ROMs Games](https://www.ROMsgames.net/) - Emulators / ROMs
 * [ConsoleROMs](https://www.consoleROMs.com/) - Emulators / ROMs
@@ -209,14 +210,14 @@
 * [Emuparadise](https://www.emuparadise.me/) - Emulators / ROMs / [Forum](https://www.epforums.org/)
 * [ROMsPURE](https://ROMspure.cc/) - Emulators / ROMs
 * [Romspedia](https://www.romspedia.com/) - Emulators / ROMs
-* [ROMs Games](https://ROMsgames.net/) - Emulators / ROMs
+* [ROMs Games](https://www.romsgames.net/) - Emulators / ROMs
 * [ROMs DL](https://romsdl.com/) - Emulators / ROMs
 * [HappyROMs](https://happyroms.com/) - Emulators / ROMs
 * [DownloadArea81](https://www.downarea51.com/) - Emulators / ROMs
 * [ROMs Planet](https://romsplanet.com/) - Emulators / ROMs
 * [CoolROMs](https://coolrom.com.au/) - Emulators / ROMs 
 * [Nostalgialand](https://nostalgialand.net/) - ROMs
-* [All Xbox Game](https://downloadgamexbox.com/) - ROMs
+* [All Xbox Game](https://dlxbgame.com/) - ROMs
 * [RPGOnly](https://rpgonly.com) - ROMs
 * [RomToHome](https://romtohome.com/) - ROMs
 * [Sundby](https://github.com/nbats/FMHYedit/blob/main/base64.md#sundby) - ROMs
@@ -277,15 +278,15 @@
 * [Retro Games](https://www.retrogames.onl/)
 * [Play Classic Games](https://playclassic.games/)
 * [ClassicGames](https://www.classicgames.me/)
-* [Emulator.Games](https://emulator.games/)
+* [Emulator.Games](https://www.emugames.net/)
 * [GamulatoR](https://www.gamulator.com/ROMs)
 * [AfterPlay](https://afterplay.io/)
 * [Aurora](https://skitty.xyz/aurora/)
 * [Emulator.online](http://emulator.online/)
 * [Online.OldGames](https://online.oldgames.sk/)
-* [Retro Games Online](https://retrogamesonline.co/)
+* [Retro Games Online](https://www.playretrogames.com/)
 * [PlayEmulator](https://playemulator.online/)
-* [Emulator Games Online](https://emulatorgames.online/)
+* [Emulator Games Online](https://gamesfrog.com/)
 * [Virtual Consoles](https://virtualconsoles.com/)
 * [OldGameShelf](https://oldgameshelf.com/)
 * [Emulator Online](https://emulatoronline.com/)
@@ -332,7 +333,6 @@
 * [RocketLauncer2](https://github.com/Hypnotoad90/RocketLauncher2) - Doom Source Port Frontend
 * [TeknoParrot](https://teknoparrot.com/) - Modern Arcade Client / [Games](http://teknoparrot.link.free.fr/), [2](https://www.retroROMs.info/forum/topic/Teknoparrot-games.htm)
 * [ScummVM](https://www.scummvm.org/) - Classic Graphical Adventure Game Engines
-* [Classic Game ROMs](https://sites.google.com/site/classicgameROMs/) - ROMs
 * [OldGamesDownload](https://oldgamesdownload.com/) - ROMs
 * [GetOldGames](https://getoldgames.com/) - ROMs
 * [NesFiles](https://www.nesfiles.com/) - ROMs / NES
@@ -647,11 +647,11 @@
 * ⭐ **[GtkAtlantic](https://gtkatlantic.gradator.net/index.html)** or [Monopolie](http://monopolie.sourceforge.net/index.shtml) - Open Source Monopoly
 * [Richup](https://richup.io/) - Monopoly-Style Board Game
 * [GameKnot Chess](https://gameknot.com/) - Multiplayer Chess
-* [Chesses](https://pippinbarr.github.io/chesses/) - Multiple Styles of Chess
+* [Chesses](https://pippinbarr.com/chesses/) - Multiple Styles of Chess
 * [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess w/o Turns
 * [Real Board](https://github.com/karayaman/lichess-with-a-real-board) - Play Lichess w/ Real Chess Board
-* [AllBad.Cards](https://allbad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - Cards Against Humanity Online 
+* [AllBad.Cards](https://bad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - Cards Against Humanity Online 
 * [Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards) - Card Games Index
 * [WorldOfCardGames](https://worldofcardgames.com/), [247Games](https://www.247games.com/), [CardzMania](https://www.cardzmania.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Card Games
 * [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards with Wikidata
@@ -670,15 +670,15 @@
 ## ▷ Puzzle Games
 
 * ⭐ **[Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/)**, [Wordle Unlimited](https://wordleunlimited.org/), [Huedle](https://huedle.com/), [Chessle](https://jackli.gg/chessle), [BoxOfficeGA](https://boxofficega.me/), [Wordversary](https://wordversary.com/), [Alphabeticle](https://alphabeticle.xyz/), [WordMaze](https://wordmaze.click/), [Clidle](https://github.com/ajeetdsouza/clidle), [WordleGame](https://wordlegame.org/), [Squaredle](https://squaredle.app/), [Tweakdle](https://tweakdle.chariz.com/) or [Wordlevs](https://wordlevs.com/) - Wordle Games / [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
-* ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)**, [USAToday](https://games.usatoday.com/games/uclick-crossword), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)
+* ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)**, [USAToday](https://games.usatoday.com/category/word), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)
 * ⭐ **[KillerCrossword](https://killercrossword.com/)** - No Clue Crosswords
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
 * [eWordChallenge](https://www.ewordchallenge.net/) - Boggle
 * [ChessGuessr](https://www.chessguessr.com/) - Chess Style Wordle
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
 * [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - Online Jigsaw Puzzles
-* [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - Solve a Rubix Cube / [Solver](https://rubiksolve.com/), [2](https://bnice.ru/asolver/), [3](https://rubiks-cube-solver.com/)
-* [MasasGames](http://masasgames.com/index.html) - Virtual Escape Rooms
+* [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - Solve a Rubix Cube / [Solver](https://rubiksolve.com/), [2](https://rubiks-cube-solver.com/)
+* [MasasGames](https://masasgames.com/) - Virtual Escape Rooms
 * [Sokoban](https://suppilulemur.neocities.org/) - Box Moving Puzzle Game / Zelda-Themed
 * [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer), [Power](https://1024-game.netlify.app/) or [2048](https://play2048.co/) - 2048 Puzzles
 * [Flappy 2048](https://www.flappy-2048.com/) - Flappy Bird Style 2048
@@ -717,7 +717,7 @@
 * [The First Alkahistorian](https://nagshell.github.io/elemental-inception-incremental/) - Incremental Elemental Game
 * [Merry Clickmas](http://www.digitalchestnut.com/merryclickmas/) - Incremental Present Maker
 * [FactoryIdle](http://factoryidle.com/) - Factory Idle Sim
-* [Idlescape](https://idlescape.com/game) - Idle MMORPG
+* [Idlescape](https://www.play.idlescape.com/) - Idle MMORPG
 * [ProgressQuest](http://progressquest.com/) - Idle RPG
 * [Anti Matter Dimesions](https://ivark.github.io/) - Anti Matter Idle Game
 * [Theory of Magic](https://mathiashjelm.gitlab.io/arcanum/) - Magic Idle Game
@@ -733,7 +733,7 @@
 * ⭐ **[GeoGuessr](https://www.geoguessr.com/)**, [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - Location Guessing Game / [Guide](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
 * [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
-* [GuessMe!](https://cer0zz.itch.io/guessme) - Guess Answers
+* [GuessMe!](https://zetoman77.itch.io/guessme) - Guess Answers
 * [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
 * [WTM](https://whatthemovie.com/) or [Emovi](https://emovi.teuteuf.fr/) - Movie Guessing Games
 * [Heardle](https://www.heardle.app/) or [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - Song Guessing Games
@@ -784,11 +784,13 @@
 * [Tinfoil](https://tinfoil.io/) - Switch Title Manager / File Browser 
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Multiplayer Switch Servers
 * [Tinfoil Shops](https://redd.it/10lqkmh) - Tinfoil Shop Status Megathread
+* [NSP Forwarder](https://nsp-forwarder.n8.io/) - Switch NSP Forwarder
 * [SDSetup](https://github.com/noahc3/SDSetup) - Nintendo Switch SD Setup
+* [DeepSea](https://github.com/Team-Neptune/DeepSea) - Switch CFW Package 
 * [FlagBrew](https://flagbrew.org/) - Switch / 3DS Homebrew Tools / [Discord](https://discord.com/invite/4Rv8DTzGFa)
 * [WiiBrew](https://wiibrew.org/), [Wii Softmod Guide](https://sites.google.com/site/completesg) or [Wii Guide](https://wii.guide/) - Wii Homebrew Guides
 * [Wiimmfi](https://wiimmfi.de/) or [Kaeru Team](https://kaeru.world/) - Wii / DS Multiplayer Servers
-* [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - Wii Homebrew Installer / [Find MAC](https://www.nintendo.com/consumer/systems/wii/en_na/includes/rvl-ht-int-find-mac-address.jsp)
+* [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - Wii Homebrew Installer / [Find MAC](https://en-americas-support.nintendo.com/app/products/detail/p/604)
 * [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - MKW Rebalanced Mod / [Discord](https://discord.gg/YZxyK4f3EU)
 * [MKW Texture Hacks](https://wiki.tockdom.com/wiki/Texture_Hack_Distribution) - Custom MKW Textures
 * [Custom Track Tutorial](https://wiki.tockdom.com/wiki/Custom_Track_Tutorial) - How-to Make Custom MKW Tracks
@@ -809,12 +811,11 @@
 * [GameBoy Book Reader](https://www.mqp.com/fun/) - Gameboy Book Reader
 * [NESC-SNESC-Modifications](https://github.com/KMFDManic/NESC-SNESC-Modifications) - NES, SNES & Playstation Mods
 * [PSX Hax](https://www.psxhax.com/), [PSDevWiki](https://www.psdevwiki.com/) or [Wololo](https://wololo.net/) - Playstation Modding Guides
-* [TheLeecherMan](https://sites.google.com/site/theleecherman/) - Playstation Modding Tools
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - PS4 / PS5 Remote Play Client 
 * [Exploit Host](https://github.com/Al-Azif/ps4-exploit-host) - PS4 Exploit Hosting PS4
 * [DarkSoftware](https://www.darksoftware.xyz/) - PS4 / PS3 Firmware
 * [/r/ps3homebrew](https://reddit.com/r/ps3homebrew) - PS3 Homebrew Subreddit
-* [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Manually Updated](http://ps3.aldostools.org/updates.html) - Update PS3 Games
+* [PS3 Game Updater](https://www.psx-place.com/threads/ps3-game-updater-v1-5-psn-liberator-v0-96b-rudi-rastelli-adds-ps3p-pkg-ripper-support.3766/) or [Manually Updated](http://demo.aldostools.org/updates.html) - Update PS3 Games
 * [PS3Themes](http://www.ps3-themes.com/) - PS3 Themes
 * [PSXDev](https://www.psxdev.net/) - PS1 Development
 * [PopStarter](https://www.psx-place.com/threads/popstarter.19139/) - PS1 Emulator for PS2 / [Converter](https://www.psx-place.com/resources/psxvcd-by-englishl1989.669/) / [Setup](https://github.com/IsseiYoshida/Instalador-POPStarter)
@@ -865,6 +866,7 @@
 * [Silent Hill 2: Enhanced Edition](http://enhanced.townofsilenthill.com/SH2/) - Silent Hill 2 Mod Project
 * [ETS2Planet](https://www.ets2planet.net/) or [EuroTruckSimulator2](https://www.eurotrucksimulator2.uk/) - Euro Truck Simulator 2 Mods
 * [Small GD Mods](https://matcool.github.io/mods) - Geometry Dash Mods / [Discord](https://discord.com/invite/K9Kuh3hzTC)
+* [Geode](https://github.com/geode-sdk/geode) - Geometry Dash Mod Loader
 * [Superblt](https://superblt.znix.xyz/) - Payday 2 Modding Tool
 * [Payday 2 FPS Boost](https://steamcommunity.com/sharedfiles/filedetails/?id=1933473710) - Payday 2 FPS Boost Mod List
 * [RimWorldBase](https://www.rimworldbase.com/) - RimWorld Mods
@@ -934,13 +936,13 @@
 * ⭐ **[Game Libraries / Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_libraries_.2F_launcher)** - Manage / Launch Games
 * ⭐ **[HowLongToBeat](https://howlongtobeat.com/)** - Find Average Game Lengths 
 * ⭐ **[r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/)** - Find Games via Screenshot or Description
-* ⭐ **[DS4Windows](https://github.com/Ryochan7/DS4Windows)** / [2](https://ryochan7.github.io/ds4windows-site/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [Input Remapper](https://github.com/sezanzeb/input-remapper) or [InputMapper](https://inputmapper.com/) - Gamepad Input Tools
+* ⭐ **[DS4Windows](https://github.com/Ryochan7/DS4Windows)** / [2](https://docs.ds4windows.app/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [Input Remapper](https://github.com/sezanzeb/input-remapper) or [InputMapper](https://inputmapper.com/) - Gamepad Input Tools
 * ⭐ **[Pokemon Typechart](https://pokemondb.net/type)** - Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)
 * ⭐ **[Valve Archive](https://valvearchive.com/)** - Rare Valve Data Archive
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
 * [TCNO](https://github.com/TCNOco/TcNo-Acc-Switcher) - Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)
 * [humble-cli](https://github.com/smbl64/humble-cli) - Humble Bundle CLI
-* [Sunshine](https://github.com/loki-47-6F-64/sunshine) - GPU Streaming Client
+* [Sunshine](https://github.com/loki-47-6F-64/sunshine) / [2](https://github.com/LizardByte/Sunshine) - GPU Streaming Client
 * [Geforce Now](https://www.nvidia.com/en-gb/geforce-now/) - Game Streaming / [Web App](https://play.geforcenow.com/mall/)
 * [Cloud Morph](https://github.com/giongto35/cloud-morph) or [Remotly](https://remotly.com/) - Cloud Gaming Apps
 * [Mogul](https://play.google.com/store/apps/details?id=com.mogul.flutte&hl=en&gl=US) or [Chikii](https://play.google.com/store/apps/details?id=com.dianyun.chikii&hl=en&gl=US) - Cloud Gaming Android Apps
@@ -972,12 +974,14 @@
 * [Score7](https://score7.io/) - Tournament Creator / Manager
 * [KeepTheScore](https://keepthescore.co/) - Leaderboard Creator
 * [ViGEmBus](https://github.com/ViGEm/ViGEmBus) or [x360ce](https://www.x360ce.com/) / [GitHub](https://github.com/x360ce/x360ce) - DS4 / 360 Controller Emulator
+* [XOutput](https://github.com/csutorasa/XOutput) - DirectInput to Xinput wrapper
 * [Xbox for Python](https://github.com/r4dian/Xbox-Controller-for-Python) - Xbox Controller Xinput Module
 * [DsHidMini](https://github.com/ViGEm/DsHidMini) - Use PS3 Controllers on Windows / [Guide](https://vigem.org/projects/DsHidMini/How-to-Install/)
 * [JoyToKey](https://joytokey.net/) - Controller Emulator
 * [Spud Controller](https://sadwhale-studios.itch.io/) - Controller / Mouse Input Displays
 * [Mobile Gamepad](https://play.google.com/store/apps/details?id=com.mmh.mobilegamepad&hl=en&gl=US), [Ultimate Gamepad](https://m.apkpure.com/ultimate-gamepad/com.negusoft.ugamepad), [PC Remote](https://play.google.com/store/apps/details?id=com.monect.portable), [Max Joypad](http://maxjoypad.com/) or [BT Controller](https://play.google.com/store/apps/details?id=softigloo.btcontroller&hl=en&gl=US) - Use Phone as Controller
 * [Gamepad-Tester](https://gamepad-tester.com/) or [AresLuna](https://aresluna.org/gamepad-tester/) - Controller Connectivity Testers
+* [HidHide](https://github.com/ViGEm/HidHide) - Input Device Firewall
 * [Moments](https://steelseries.com/gg/moments) - Game Clip Tool
 * [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / [Discord](https://discord.gg/MqxMj8MT55)
 * [Keystrokes](https://www.deviantart.com/jaxoriginals/art/Keystrokes-v1-3-889349339) - Keystrokes Overlay / [Video](https://youtu.be/ZHgcqIYxEgs)
@@ -994,7 +998,7 @@
 * [Achievement Watcher](https://github.com/xan105/Achievement-Watcher) - Achievement File Parser, Notifications & Playtime Tracker
 * [AreWeAntiCheatYet?](https://areweanticheatyet.com/) - Check if Games is Anti-Cheat
 * [fuckigg](https://github.com/Pheeeeenom/fuckigg) - Remove IGG DRM
-* [UE4 Console Unlocker](https://framedsc.github.io/GeneralGuides/universal_ue4_consoleunlocker.htm) - Unreal Engine 4 Console Unlocker
+* [UE4 Console Unlocker](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm) - Unreal Engine 4 Console Unlocker
 * [How To Reverse Engineer Denuvo V4](https://drive.google.com/file/d/1CupcQMOyxbtNUGGSnq8xhIZIxhDzToFT/)
 * [AltCtrls](https://altctrls.info/) - Custom Controller Crafting Resources
 * [Gamesoft](http://www.gamesoft.com/) - Gaming News Feed Manager
