@@ -131,7 +131,6 @@
 * [SecurityHeaders](https://securityheaders.com/) - Security Header Scan
 * [Penteract Disguised](https://apps.microsoft.com/store/detail/penteract-disguisedkeyboard-detector-2/9P7FV5575G0C?hl=en-in&gl=IN) - Prevent Automatic Keyboard Attacks
 * [Phish.ly](https://phish.ly/) - Scan Suspicious Emails
-* [Any.Run](https://any.run/) - Interactive Malware Sandbox
 * [testsafebrowsing](https://testsafebrowsing.appspot.com/) - Safe Browsing Testing Links 
 * [Standaloneinstaller](https://standaloneinstaller.com/) - Check Software Safety
 * [Dangerzone](https://dangerzone.rocks/) - Convert dangerous PDF to safe PDF
