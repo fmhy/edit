@@ -256,6 +256,7 @@
 * [TapeCalc](https://play.google.com/store/apps/details?id=com.browndwarf.tapecalc) - Tax Calculator
 * [Note Taking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps) - Note Taking Apps
 * [Serenity Notes](https://www.serenity.re/en/notes) - Collaborative Notes
+* [FlutterMarkdownEditor](https://github.com/adityar224/FlutterMarkdownEditor) - Markdown Editor
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
 * [HistoryOfMe](https://github.com/litlifesoftware/HistoryOfMe) - Journal App
 * [Compass QS Tile](https://github.com/WSTxda/Compass-QS-Tile) - Quick Settings Tile
@@ -306,6 +307,7 @@
 * [Papertag](https://www.papertag.app/) - Attach Digital Content on Paper
 * [SubX](https://play.google.com/store/apps/details?id=com.alkapps.subx), [Billbot](https://play.google.com/store/apps/details?id=com.billbot) or [SubscriptionManager](https://play.google.com/store/apps/details?id=de.simolation.subscriptionmanager) - Track Subscription Services
 * [Audio-Recorder](https://f-droid.org/packages/com.github.axet.audiorecorder/), [android-audio-recorder](https://gitlab.com/axet/android-audio-recorder) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - Audio Recorders
+* [Noiseun Canceller](https://play.google.com/store/apps/details?id=com.jazibkhan.noiseuncanceller) - Audio Surrounding Recorder
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
 * [VoiceGPT](https://voicegpt.net/) or [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistants
 * [KeyMapper](https://github.com/keymapperorg/KeyMapper) - Key Mapper
@@ -384,12 +386,12 @@
 * [Creator Studio](https://play.google.com/store/apps/details?id=com.facebook.creatorstudio) - Social Media Manager
 * [Google Lens](https://lens.google/) - Multiple Camera Tools
 * [FreeDcam](https://github.com/KillerInk/FreeDcam) - Enable Hidden Camera Features
-* [Photok](https://github.com/leonlatsch/Photok), [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/), [Stingle Photos](https://stingle.org/), [Ente](https://ente.io/) or [No See You](https://baixarapk.gratis/en/app/1186829987/photo-vault-noseeyou) - Photo / Video Galleries
+* [Photok](https://github.com/leonlatsch/Photok), [Simple Gallery](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/), [Stingle Photos](https://stingle.org/), [Ente](https://ente.io/), [Gallery](https://github.com/IacobIonut01/Gallery) or [No See You](https://baixarapk.gratis/en/app/1186829987/photo-vault-noseeyou) - Photo / Video Galleries
+* [LeafPic](https://gitlab.com/HoraApps/LeafPic) - Image Viewer
 * [OneShot](https://github.com/ptrLx/OneShot) - Photo Diary
 * [Widgetshare](https://play.google.com/store/apps/details?id=com.galew.widgetshare) - Photo Sharing App
 * [PhotoSync](https://www.photosync-app.com/home.html) - Transfer Photos Between Devices
 * [APhotoManager](https://github.com/k3b/APhotoManager/) - Create Photo Maps
-* [LeafPic](https://gitlab.com/HoraApps/LeafPic) - Image Viewer
 * [Pixomatic](https://pixomatic.us/) - Image Editor
 * [VES](https://f-droid.org/packages/com.vincentengelsoftware.vesandroidimagecompare/) - Compare Two Images
 * [PhotoRoom](https://www.photoroom.com/) or [AI Background Remover](https://play.google.com/store/apps/details?id=com.utopiatechnologies.aibgremover) - Background Removers
@@ -486,7 +488,7 @@
 * [Shelter](https://github.com/PeterCxy/Shelter) - App Sandbox
 * [AppBrain](https://www.appbrain.com/) - Analyze Android App Changes
 * [Redmi System Manager](https://play.google.com/store/apps/details?id=com.learnpainless.disable_system_apps&hl=en) - Uninstall Redmi System Apps
-* [Clima](https://f-droid.org/en/packages/co.prestosole.clima/), [KWeather](https://invent.kde.org/plasma-mobile/kweather), [Flux](https://play.google.com/store/apps/details?id=de.bendix.flux), [OMWeather](https://github.com/woheller69/omweather) or [GeometricWeather](https://github.com/geometric-weather-foss/GeometricWeather) - Weather Apps
+* [Clima](https://f-droid.org/en/packages/co.prestosole.clima/), [Rain](https://github.com/DarkMooNight/Rain), [KWeather](https://invent.kde.org/plasma-mobile/kweather), [Flux](https://play.google.com/store/apps/details?id=de.bendix.flux), [OMWeather](https://github.com/woheller69/omweather) or [GeometricWeather](https://github.com/geometric-weather-foss/GeometricWeather) - Weather Apps
 * [WeatherRadar](https://github.com/dh4/WeatherRadar) - Doppler Radar Weather Images
 * [Aftership](https://play.google.com/store/apps/details?id=com.aftership.AfterShip&hl=en&gl=US) - Package Tracker
 * [AIS-catcher for Android](https://github.com/jvde-github/AIS-catcher-for-Android) - AIS Receiver
@@ -576,6 +578,7 @@
 * [Now.gg](https://now.gg/) - Online Android Gaming Emulator
 * [PGS](https://www.pgsharp.com/) - Modded Pokémon GO
 * [Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - PokemonGO Resources
+* [UniteAPI](https://uniteapi.dev/) - Pokémon UNITE Leaderboards
 * [GameEye](https://play.google.com/store/apps/details?id=com.hairyharri.gameye) - Video Game Tracking App
 * [OpenMicroWave](https://omw.xyz.is/) - Morrowind for Android
 * [HMCL-PE](https://github.com/Tungstend/HMCL-PE) - Minecraft for Android
@@ -1015,7 +1018,7 @@
 * [iCustom](https://icustom.tooliphone.net/) - Make Custom Icons Without Shortcuts
 * [ShortcutsGallery](https://shortcutsgallery.com/) or [RoutineHub](https://routinehub.co/) - Siri Shortcuts
 * [Color Widgets](https://apps.apple.com/us/app/color-widgets/id1531594277), [WidgetSmith](https://apps.apple.com/us/app/widgetsmith/id1523682319) or [widgetopia](https://apps.apple.com/us/app/widgetopia-widgets-weather/id1536432615) - iOS Widgets
-* [DownTube](https://github.com/MrAdamBoyd/DownTube) or [YouDown](https://apps.apple.com/sa/app/youdown/id1487658334) - YouTube Downloader 
+* [DownTube](https://github.com/MrAdamBoyd/DownTube), [YT-DLP](https://mcgaritydotme.notion.site/Using-yt-dlp-to-download-YouTube-content-on-an-iPad-16d0f4bcaf524d41a92a0d714d4bd100) or [YouDown](https://apps.apple.com/sa/app/youdown/id1487658334) - YouTube Downloaders
 * [Keynote](https://apps.apple.com/us/app/keynote/id361285480) - Make Presentations
 * [Noctis12](https://repo.packix.com/package/com.laughingquoll.noctis12/) or [Dune](https://github.com/Skittyblock/Dune) - iOS Dark Mode
 * [GlobeConvert](https://apps.apple.com/us/app/globeconvert-currency-units/id334851202) - Currency / Unit Converter
@@ -1213,7 +1216,8 @@
 * [AnimeChicken](https://animechicken.app/) - Manga Reader
 * [MangaToon](https://apps.apple.com/us/app/mangatoon-manga-reader/id1385287093) - Manga Reader
 * [ZETSU](https://apps.apple.com/us/app/zetsu-by-orion/id1510161371) - Manga Reader
-* [Atsumaru](https://github.com/TheUndo/Atsumaru) -  Manga Reader
+* [Atsumaru](https://github.com/TheUndo/Atsumaru) - Manga Reader
+* [Hanami](https://github.com/oolxg/Hanami) - Manga Reader
 * [Manga Max](https://apps.apple.com/us/app/apple-store/id1558957618) - Manga Reader
 * [MangaNelo](https://apps.apple.com/us/app/manganelo-rock-manga-pro/id1540527984) - Manga Reader
 * [NovelReader](https://github.com/ppraveentr/NovelReader) - Light Novels
