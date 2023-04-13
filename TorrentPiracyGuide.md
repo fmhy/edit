@@ -140,7 +140,6 @@
 * [Bitsearch](https://bitsearch.to/)
 * [Torrent Finder](https://torrent-finder.com/)
 * [TorrentDownload](https://www.torrentdownload.info/)
-* [Toros2](https://www.toros2.com/)
 * [Dirty Torrents](https://dirtytorrents.com/)
 * [TorrentQuest](https://torrentquest.com/)
 * [TorrentHound](http://torrenthound.ee/)
