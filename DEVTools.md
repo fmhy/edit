@@ -1079,7 +1079,7 @@
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) - Livecoding Resources
 * [Telosys](http://www.telosys.org/) or [AIAC](https://github.com/gofireflyio/aiac) - Code Generators
 * [tuc](https://github.com/riquito/tuc) - Improved Code Cut
-* [snowbin](https://paste.bignutty.xyz/) / [2](https://paste.taskyy.cf/), [Mystb.in](https://mystb.in/) or [snippet.host](https://snippet.host/) - Code Pastebins
+* [snowbin](https://paste.bignutty.xyz/), [Mystb.in](https://mystb.in/) or [snippet.host](https://snippet.host/) - Code Pastebins
 * [0xacab](https://about.0xacab.org/) - Code Host
 * [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
 * [Autosaved](https://github.com/nikochiko/autosaved) - Autosave Code / [GitHub](https://github.com/tkellogg/dura)
