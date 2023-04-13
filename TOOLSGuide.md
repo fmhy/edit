@@ -141,7 +141,7 @@
 * ⭐ **[Translation Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_translation_sites)** - Online Translators
 * ⭐ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - Grammar Checking Tools
 * ⭐ **[Multiple Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_text_tool_sites)** - Sites with Multiple Text Tools
-* ⭐ **[Emojipedia](https://emojipedia.org/)**, [EmojiBatch](https://www.emojibatch.com/), [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/), [Words2Emoji](https://www.words2emoji.com/) or [GetEmoji](https://getemoji.com/) - Emoji Indexes
+* ⭐ **[Emojipedia](https://emojipedia.org/)**, [EmojiBatch](https://www.emojibatch.com/), [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/), [Words2Emoji](https://www.words2emoji.com/), [PicMo](https://picmojs.com/) or [GetEmoji](https://getemoji.com/) - Emoji Indexes
 * [Scrivener](https://github.com/nbats/FMHYedit/blob/main/base64.md#scrivener) - Book Writing App
 * [GhostText](https://ghosttext.fregante.com/) - Use Text Editor in Browser
 * [Sticky Notes](https://fdossena.com/?p=stickynotes/i.frag) - Desktop Sticky Notes
@@ -1633,11 +1633,11 @@ Twitch Stream Tracker
 
 ## ▷ Twitter Tools
 
-* ⭐ **[Nitter](https://nitter.net/)** or [NitterDV](https://nitter.usethetools.org/) - Twitter Frontend / [Manage Feeds](https://feetter.r3d.red/)
+* ⭐ **[Nitter](https://nitter.net/)** - Twitter Frontend / [Manage Feeds](https://feetter.r3d.red/)
 * ⭐ **[NoFT](https://noft.gg/)** - Automatically Block all NFT Profile Pictures / [GitHub](https://github.com/ottomated/noft)
 * ⭐ **[Eight Dollars](https://github.com/wseagar/eight-dollars)** - Show Twitter Blue vs. Real Verified Users
 * ⭐ **[Decentralized Social Networks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_decentralized_social_networks)** - Twitter / Facebook Alternatives
-* [TwopCharts](https://twopcharts.com/) or [TweetBeaver](https://tweetbeaver.com/) - Multiple Twitter Tools 
+* [TwopCharts](https://twopcharts.com/) or [TweetBeaver](https://tweetbeaver.com/) - Multiple Twitter Tools
 * [/r/Twitter](https://reddit.com/r/Twitter) - Twitter Subreddit
 * [Awesome Twitter Bots](https://github.com/amandeepmittal/awesome-twitter-bots) - Twitter Bot Index
 * [TumblThree](https://github.com/TumblThreeApp/TumblThree) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumbl Backup Tools
@@ -1649,6 +1649,7 @@ Twitch Stream Tracker
 * [BackTweets](http://backtweets.com/), [twXplorer](https://twxplorer.knightlab.com/), [Social Searcher](https://www.social-searcher.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - Search Twitter
 * [TwitLonger](https://www.twitlonger.com/) - Make Longer Tweets
 * [Screamer](https://chrome.google.com/webstore/detail/screamer-twitter-improvem/mpeifaboppaofofdbmhoaeolnibaljof) - Tweet Only Twitter
+* [Twuko](https://www.twuko.com/) - Twitter News Feed
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [Poet.so](https://poet.so/), [Twimage](https://twimage.vercel.app/) / [GitHub](https://github.com/drkPrince/tweet-to-image), [Tweetlet](https://tweetlet.net/) or [Tweets Beauty](https://api.tweets.beauty/docs) - Create Twitter Post Images
 * [Tall Tweets](https://talltweets.com/) - Turn Presentations into Twitter GIFs
