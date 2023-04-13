@@ -3389,6 +3389,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[ReVanced APKs](https://revanced-apks.pages.dev/)**, [ReVanced Auto](https://revanced-auto-apk.pages.dev/) or [ReVanced.app](https://revanced.app/) - Latest Revanced Apps
 * ⭐ **[ReVanced Manager](https://github.com/revanced/revanced-manager)**
+* ⭐ **[Guide for ReVanced Manager](https://www.reddit.com/r/revancedapp/comments/xlcny9/revanced_manager_guide_for_dummies/)**
 * ⭐ **[ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module)**
 * ⭐ **[NewPipe](https://newpipe.net/)** / [Sponsorblock](https://github.com/polymorphicshade/NewPipe)
 * [Vanced Mirrors](https://www.apkmirror.com/?post_type=app_release&searchtype=apk&s=vanced+manager) / [2](https://vanced.esherloon.com/) / [3](https://github.com/cuynu/ytvanced) / [4](https://github.com/jinoo2005609/VancedManager) / [5](https://mirror.codebucket.de/vanced/api/) / [6](https://t.me/vanced_mod_archive)
