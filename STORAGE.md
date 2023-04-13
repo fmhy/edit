@@ -62,6 +62,7 @@
 * [DirectSearch.Net](http://www.directsearch.net/) - Index
 * [Search Engine Colossus](https://www.searchenginecolossus.com/) - Index
 * [Search-Engine](https://start.me/p/wM7y15/search-engine) - Index
+* [Leta](https://leta.mullvad.net) - Mullvad VPN required
 * [Harmari Search](https://www.harmari.com/harmari-search/) - Signup / Wait List
 
 [Bing](https://www.bing.com/), [OceanHero](https://oceanhero.today/), [llarryyllarryy's Search Engine](https://llarryyllarryy.github.io/Max-Impact-Search/), [Lycos](https://www.lycos.com/), [dogpile](https://www.dogpile.com/), [Advangle](http://advangle.com/), [WebCrawler](https://www.webcrawler.com/), [Million Short](https://millionshort.com/), [Wiby](https://www.wiby.me/), [Goodshop](https://www.goodshop.com/), [Andi](https://andisearch.com/), [Instya](https://www.instya.com/), [Impersonal.me](https://ambition.dk/impersonal/), [Excite](https://search.excite.com/), [oscobo](https://www.oscobo.com/), [search](https://www.search.com/), [Metacrawler](https://www.metacrawler.com/), [fefoo](http://fefoo.com/), [entireweb](https://www.entireweb.com/), [ChatNoir](https://www.chatnoir.eu/), [Petal Search](https://petalsearch.com/), [seekport](http://www.seekport.com/), [Exalead](https://www.exalead.com/search/), [search.tl](http://www.search.tl/), [Carrot2](https://search.carrot2.org/#/web), [Surf Canyon](http://www.surfcanyon.com/), [4Search](https://www.4search.com/), [Info.com](https://www.info.com/), [Yahoo](https://www.yahoo.com/), [FrogFind!](http://frogfind.com/), [Visymo Search](https://search.visymo.com/), [Entfer](https://entfer.com/), [AOL](https://search.aol.com/), [All in One](https://all-io.net/), [All the Internet](https://www.alltheinternet.com/), [eTools.ch](https://www.etools.ch/), [Fagan Finder](https://www.faganfinder.com/), [Goofram](http://www.goofram.com/), [iZito](https://www.izito.com/), [MyAllSearch](http://www.myallsearch.com/), [ZapMeta](https://www.zapmeta.com/), [BizNar](https://biznar.com/biznar/desktop/en/search.html), [WorldWideScience](https://worldwidescience.org/), [Startpage](https://www.startpage.com/), [ZincSearch](https://github.com/zincsearch/zincsearch), [Whoogle Search](https://benbusby.com/projects/whoogle-search/)
@@ -350,7 +351,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - [Docs](https://www.emacsdocs.org/)
 * ⭐ **[Bluefish](http://bluefish.openoffice.nl/index.html)** - [Templates](https://templates.openoffice.org/en)
 
-[CudaText](https://cudatext.github.io/), [Lapce](https://lapce.dev/), [SpaceVim](https://spacevim.org/), [Pulsar](https://pulsar-edit.dev/), [The Ultimate vimrc](https://github.com/amix/vimrc), [Vim](https://www.vim.org/), [Lite XL](https://lite-xl.com/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro](https://micro-editor.github.io/index.html), [Komodo Edit](https://github.com/Komodo/KomodoEdit), [Textadept](https://foicica.com/textadept), [Spacemacs](http://spacemacs.org/), [Notepad2](https://www.flos-freeware.ch/notepad2.html), [Sublime Text](https://www.sublimetext.com/), [Light Table](http://lighttable.com/), [4coder](https://mr-4th.itch.io/4coder), [Warp](https://www.warp.dev/), [Avalonia UI](https://avaloniaui.net/), [massCode](https://masscode.io/), [Amp](https://github.com/jmacdonald/amp), [Visual Studio Code](https://code.visualstudio.com/), [Graviton](https://graviton.netlify.app/), [BBEdit](http://www.barebones.com/), [Vim-LaTeX](http://vim-latex.sourceforge.net/)
+[CudaText](https://cudatext.github.io/), [Lapce](https://lapce.dev/), [SpaceVim](https://spacevim.org/), [Pulsar](https://pulsar-edit.dev/), [The Ultimate vimrc](https://github.com/amix/vimrc), [Vim](https://www.vim.org/), [Lite XL](https://lite-xl.com/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro](https://micro-editor.github.io/index.html), [Komodo Edit](https://github.com/Komodo/KomodoEdit), [Textadept](https://foicica.com/textadept), [Spacemacs](http://spacemacs.org/), [Notepad2](https://www.flos-freeware.ch/notepad2.html), [Sublime Text](https://www.sublimetext.com/), [Light Table](http://lighttable.com/), [4coder](https://mr-4th.itch.io/4coder), [Warp](https://www.warp.dev/), [Avalonia UI](https://avaloniaui.net/), [massCode](https://masscode.io/), [Amp](https://github.com/jmacdonald/amp), [Visual Studio Code](https://code.visualstudio.com/), [Graviton](https://graviton.netlify.app/), [BBEdit](http://www.barebones.com/), [Vim-LaTeX](http://vim-latex.sourceforge.net/), [ecode](https://github.com/SpartanJ/ecode)
 
 **Online Code Editors**
 
@@ -534,7 +535,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ⭐ **[WizTree](https://www.diskanalyzer.com/)**
 
-[WinDirStat](https://windirstat.net/), [HDSentinel](https://www.hdsentinel.com/), [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/), [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/), [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html), [Gdu](https://github.com/dundee/gdu), [dua](https://github.com/Byron/dua-cli), [SpaceRadar](https://github.com/zz85/space-radar), [Diskovery](https://diskovery.io/), [DiskInfo](https://github.com/DiskTools/DiskInfo)
+[WinDirStat](https://windirstat.net/), [HDSentinel](https://www.hdsentinel.com/), [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/), [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/), [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html), [Gdu](https://github.com/dundee/gdu), [dua](https://github.com/Byron/dua-cli), [SpaceRadar](https://github.com/zz85/space-radar), [Diskovery](https://diskovery.io/), [DiskInfo](https://github.com/DiskTools/DiskInfo), [Erdtree](https://github.com/solidiquis/erdtree)
 
 ***
 
@@ -817,8 +818,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### File Download Managers
 
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** / [Dark Theme](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/), [2](https://redd.it/q3xrgj), [3](https://draculatheme.com/jdownloader2) / [Debloat](https://rentry.org/jdownloader2), [2](https://rentry.org/jdownloader2opt) / [Captcha Solver](https://github.com/cracker0dks/CaptchaSolver)
+* ⭐ **[IDM](https://github.com/nbats/FMHYedit/blob/main/base64.md#idm)** / [IDMHelper](https://github.com/unamer/IDMHelper) / [Trial Reset](https://github.com/J2TEAM/idm-trial-reset)
 * [Motrix](https://www.motrix.app/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/motrixwebextension/) / [Chrome](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix)
-* [IDM](https://github.com/nbats/FMHYedit/blob/main/base64.md#idm) / [IDMHelper](https://github.com/unamer/IDMHelper) / [Trial Reset](https://github.com/J2TEAM/idm-trial-reset)
 * [XDM](https://github.com/subhra74/xdm), [2](https://subhra74.github.io/xdm/)
 * [pyLoad](https://pyload.net/)
 * [wfdownloader](https://www.wfdownloader.xyz/)
@@ -1949,7 +1950,10 @@ Add the following commands to a search to manually scrape each site.
 
 **Multi-Platform**
 
-[Hexavalet](https://github.com/Hexavalent-Browser/Hexavalent), [Librewolf](https://gitlab.com/librewolf-community/browser/windows) / [2](https://librewolf.net/), [Librefox](https://github.com/intika/Librefox/), [Netsurf](https://www.netsurf-browser.org/), [Wexond](https://github.com/wexond/desktop), [Otter](https://otter-browser.org/), [BadWolf](https://hacktivis.me/projects/badwolf), [Sphere](https://sphere.tenebris.cc/), [dumb-browser](https://github.com/f32by/dumb-browser), [Breeze](https://github.com/privacyone/breeze-core), [Dot HQ](https://www.dothq.co/) / [Discord](https://invite.gg/dot), [Viper-Browser](https://github.com/LeFroid/Viper-Browser)
+* ⭐ **[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / [2](https://librewolf.net/)
+
+[Hexavalet](https://github.com/Hexavalent-Browser/Hexavalent), [Librefox](https://github.com/intika/Librefox/), [Netsurf](https://www.netsurf-browser.org/), [Wexond](https://github.com/wexond/desktop), [Otter](https://otter-browser.org/), [BadWolf](https://hacktivis.me/projects/badwolf), [Sphere](https://sphere.tenebris.cc/), [dumb-browser](https://github.com/f32by/dumb-browser), [Breeze](https://github.com/privacyone/breeze-core), [Dot HQ](https://www.dothq.co/) / [Discord](https://invite.gg/dot), [Viper-Browser](https://github.com/LeFroid/Viper-Browser), [Mullvad Browser](https://mullvad.net/en/browser)
+
 
 **Android**
 
@@ -2759,6 +2763,7 @@ Add the following commands to a search to manually scrape each site.
 * [MediaDownBot](https://t.me/mediadownbot) - Social Media Downloader
 * [ILovePDF](https://github.com/nabilanavab/ilovepdf) - Telegram File to PDF Converter 
 * [ConvertVideoTGBot](https://t.me/ConvertVideoTGBot), [FileConvertRobot](https://t.me/FileConvertRobot) or [File2videoconvbot](https://t.me/File2videoconvbot) - Video File Converters
+* [Unzip Bot](https://github.com/EDM115/unzip-bot) - File Extractor / Unzipper
 
 ***
 
@@ -3164,7 +3169,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### VSCode Tools
 
-[ChatGPT](https://github.com/mpociot/chatgpt-vscode) / [Open VSX Registry](https://open-vsx.org/) / [Snippet Generator](https://snippet-generator.app/) / [Discord Tools](https://github.com/Darkempire78/Discord-Tools) / [Twitch Hightlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) / [Smart Clicks](https://github.com/antfu/vscode-smart-clicks) / [Browser](https://vscode.dev/), [2](https://code.cs50.io/) / [Settings](https://github.com/antfu/vscode-settings) / [Insider Build](https://insiders.vscode.dev/) / [Logo Extension](https://github.com/tale/logos-vscode) / [Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
+[ChatGPT](https://github.com/mpociot/chatgpt-vscode) / [Open VSX Registry](https://open-vsx.org/) / [Snippet Generator](https://snippet-generator.app/) / [Discord Tools](https://github.com/Darkempire78/Discord-Tools) / [Twitch Hightlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) / [Smart Clicks](https://github.com/antfu/vscode-smart-clicks) / [Web Server](https://github.com/coder/code-server) / [Browser](https://vscode.dev/), [2](https://code.cs50.io/) / [Settings](https://github.com/antfu/vscode-settings) / [Insider Build](https://insiders.vscode.dev/) / [Logo Extension](https://github.com/tale/logos-vscode) / [Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
 
 **VSCode Themes** 
 
@@ -3381,8 +3386,8 @@ Add the following commands to a search to manually scrape each site.
 
 #### Youtube Android Apps
 
-* ⭐ **[ReVanced Manager](https://github.com/revanced/revanced-manager)**, [2](https://revanced.app/) / [Script](https://github.com/decipher3114/Revancify)
-* ⭐ **[Revanced Auto](https://revanced-auto-apk.pages.dev/)**
+* ⭐ **[ReVanced APKs](https://revanced-apks.pages.dev/)**, [ReVanced Auto](https://revanced-auto-apk.pages.dev/) or [ReVanced.app](https://revanced.app/) - Latest Revanced Apps
+* ⭐ **[ReVanced Manager](https://github.com/revanced/revanced-manager)**
 * ⭐ **[ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module)**
 * ⭐ **[NewPipe](https://newpipe.net/)** / [Sponsorblock](https://github.com/polymorphicshade/NewPipe)
 * [Vanced Mirrors](https://www.apkmirror.com/?post_type=app_release&searchtype=apk&s=vanced+manager) / [2](https://vanced.esherloon.com/) / [3](https://github.com/cuynu/ytvanced) / [4](https://github.com/jinoo2005609/VancedManager) / [5](https://mirror.codebucket.de/vanced/api/) / [6](https://t.me/vanced_mod_archive)
@@ -3391,6 +3396,7 @@ Add the following commands to a search to manually scrape each site.
 * [VueTube](https://github.com/VueTubeApp/VueTube)
 * [FreeTubeCordova](https://github.com/MarmadileManteater/FreeTubeCordova)
 * [/r/revancedapks](https://www.reddit.com/r/revancedapks/)
+* [ReVanced Patcher](https://github.com/decipher3114/Revancify)
 * [Revanced Extended](https://github.com/inotia00/revanced-patches/tree/revanced-extended), [2](https://t.me/hentaitubereleases) - Revanced Extended Patches
 
 **Revanced App Builders**
