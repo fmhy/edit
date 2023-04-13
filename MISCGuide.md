@@ -242,7 +242,7 @@
 * [blhaj-nra.art](https://xn--blhaj-nra.art/) - Blåhaj Images
 * [Talk Obama To Me](http://talkobamato.me/) - Make Obama Say Stuff
 * [Objection!](https://objection.lol/) - Ace Attorney Objecting on Your Behalf 
-* [Listography](https://listography.com/), [Ranker](https://www.ranker.com/), [FlexLists](https://flexlists.com/), [TheTopsTens](https://www.thetoptens.com/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
+* [Listography](https://listography.com/), [hero](https://hero.page/), [Ranker](https://www.ranker.com/), [FlexLists](https://flexlists.com/), [TheTopsTens](https://www.thetoptens.com/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
 * [DreamWidth](https://www.dreamwidth.org/) - User-Made Images & Stories
 * [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
 * [Posting.Cool](https://posting.cool/) - Random Topic Forum
@@ -1467,23 +1467,24 @@
 
 * ⭐ **[Reddit Favorites](https://redditfavorites.com/)**, [Kit.co](https://kit.co/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product / Service Reviews
 * ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** or **[Didn't Know I Wanted That](https://www.didntknowiwantedthat.com/)** - Find Interesting Things to Buy
-* ⭐ **[Giftasic](https://giftastic.ai/)** - Gift Ideas AI 
+* ⭐ **[Giftasic](https://giftastic.ai/)** - Gift Ideas AI
 * [Pepper](https://www.pepper.com/) - Shopping Community
 * [AllArk](https://allark.io/) - Buy Stuff via Crypto
 * [BitRefill](https://www.bitrefill.com/) - Buy Gift Cards via Crypto
 * [Randomicle](https://randomicle.com/) - Random Amazon Products
 * [Facebook Ad Library](https://www.facebook.com/ads/library/) - Find Deals via Facebook Ad Search
 * [Type Hound](https://typohound.com/) - Ebay Typo Search
-* [Chipscribe](https://chipscribe.com/) - Split Service Subscription Costs Anonymously 
 * [BTOD](https://www.btod.com/blog/category/buying-guides/) - Office Chair Buying Guides / Reviews
 * [Cars.com](https://www.cars.com/research/compare/), [Vehicle Rankings](https://cars.usnews.com/cars-trucks/rankings), [Motor1](https://www.motor1.com/reviews/) or [Edmunds](https://www.edmunds.com/car-reviews/) - Vehicle Reviews / Comparisons
-* [carsized](https://www.carsized.com/) - Vehicle Size Comparisons 
+* [carsized](https://www.carsized.com/) - Vehicle Size Comparisons
 * [Blahaj Quest](https://blahaj.quest/) - Blåhaj Tracking Map
-* [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
+* [Chipscribe](https://chipscribe.com/) - Split Service Subscription Costs Anonymously 
 * [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
 * [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wish-list Creators
 * [Microsoft Rewards Generator](https://greasyfork.org/en/scripts/457702), [2](https://github.com/jack-mil/bing-rewards), [3](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2), [4](https://github.com/Tom60chat/Microsoft-Rewards-Farmer-Sharp), [5](https://github.com/3kh0/bing-rewards), [6](https://github.com/Prem-ium/BingRewards) - Automate Microsoft Reward Points
-* [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Wii Shop Music on Shopping Sites
+* [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Nintendo Shop Music on Shopping Sites
+* [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
+* [Fuck Nestlé](https://www.fucknestle.art/) - Nestlé Brand Database
 
 ***
 
@@ -1511,6 +1512,7 @@
 * [MechGroupBuys](https://www.mechgroupbuys.com/) - Group Mechanical Keyboard Buying / [Discord](https://discord.com/invite/mechgroupbuys) / [Reddit](https://www.reddit.com/r/MechGroupBuys/)
 * [PSU Tier List](https://cultists.network/140/psu-tier-list/) - PSU Buying Guide
 * [PC Monitors](https://pcmonitors.info/), [Monitor Spreadsheet](https://pastebin.com/tkmakRNW) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
+* [DisplayWars](http://www.displaywars.com/) - TV / Monitor Size Comparisons
 * [GPUDrops](https://gpudrops.com/) / [Discord](https://discord.gg/gpudrops), [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
 * [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones / Prices
 * [Don’t kill my app!](https://dontkillmyapp.com/) - Manufacturer Battery Life vs. App Functionality
