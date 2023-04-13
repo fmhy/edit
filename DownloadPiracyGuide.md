@@ -151,11 +151,11 @@
 
 # ► Software Sites
 
-* ⭐ **[RSLOAD](https://rsload.net/)**
 * ⭐ **[Pesktop](https://pesktop.com/en/)**
+* ⭐ **[AppNee](https://appnee.com/)**
+* ⭐ **[RSLOAD](https://rsload.net/)**
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - [Mobile App](https://forum.mobilism.org/app/)
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)**
-* ⭐ **[AppNee](https://appnee.com/)**
 * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[YasDL](https://yasdl.com/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[soft98](https://soft98.ir/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -163,8 +163,8 @@
 * [AIOWares](https://www.aiowares.com/)
 * [Mr. SzzS](https://www.youtube.com/channel/UCcf3dtQFVb5zfy0jGYNpA0w)
 * [TheMicroTech](https://programs.themicrotech.net/)
+* [FileCR](https://filecr.com/en/) - [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass) / Anti-Adblocker Warning
 * [downloadly.ir](https://downloadly.ir/) - Persian VPN Required
-* [FileCR](https://filecr.com/en/) - [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass)
 * [Mutaz.net](https://www.mutaz.net/)
 * [WagnardSoft](https://www.wagnardsoft.com/)
 * [SCloud](https://scloud.ws/)
