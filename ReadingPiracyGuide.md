@@ -798,6 +798,7 @@
 * [BSL Dictionary](https://www.signbsl.com/) - British Sign Language 
 * [FreeMdict](https://freemdict.com/) - Dictionary Downloads / [Forum](https://forum.freemdict.com/) / [Archive](https://downloads.freemdict.com/)
 * [Goldendict](http://www.goldendict.org/) - Dictionary Program
+* [PyGlossary](https://github.com/ilius/pyglossary) - Convert Dictionary Files
 * [wikipedia_ql](https://github.com/zverok/wikipedia_ql) - Wiki Data Extraction
 
 ***
