@@ -77,6 +77,7 @@
 * ⭐ **[Awesome ChatGPT Prompts](https://prompts.chat/)** / [2](https://github.com/f/awesome-chatgpt-prompts) - Prompt Directory
 * ⭐ **[Learn Prompting](https://learnprompting.org/)** - Prompt Directory
 * ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheet
+* ⭐ **[jailbreakchat](https://www.jailbreakchat.com/)** - Jailbreak Prompts
 * [Chatgptjailbreak](https://rentry.org/Chatgptjailbreak) - Prompt Directory
 * [flowgpt](https://flowgpt.com/) - Prompt Directory
 * [OrdinaryPeoplePrompts](https://www.ordinarypeopleprompts.com/) - Prompt Directory
@@ -84,7 +85,6 @@
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) - Prompt Generator
 * [botprompts](https://botprompts.net/) - Fun Prompts
 * [DAN](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516) or [GPT Jailbreak](https://rentry.co/gptjailbreak) - DAN / John Prompts
-* [jailbreakchat](https://www.jailbreakchat.com/) - Prompt Ratings / Voting
 * [ChatGPT-History](https://github.com/benf2004/ChatGPT-History) - Prompt Management Extension 
 
 ***
