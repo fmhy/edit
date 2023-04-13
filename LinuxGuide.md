@@ -402,7 +402,7 @@
 * ⭐ **[PDF Expert](https://github.com/nbats/FMHYedit/blob/main/base64.md#pdf-expert)** - PDF Viewer
 * ⭐ **[Fantastical](https://flexibits.com/fantastical)** - Calendar
 * [Advanced MacOS Commands](https://saurabhs.org/advanced-macos-commands) - Advanced Command-Line Tools
-* [AnimeNow](https://github.com/AnimeNow-Team/AnimeNow) - Anime Streaming App
+* [AnimeNow](https://github.com/AnimeNow-Team/AnimeNow) or [Novee](https://github.com/ZhichGaming/Novee) - Anime Streaming Apps
 * [DMHY](https://github.com/yaqinking/DMHY) - Anime Torrent Autodownloader 
 * [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) or [Accord](https://github.com/evelyneee/accord) - Discord Clients
 * [Beta Profiles](https://betaprofiles.com/) - Download Pre-Release Versions MacOS
@@ -441,6 +441,7 @@
 * [Orion](https://browser.kagi.com/downloads/Orion.dmg) - Webkit Browser with Chrome & Firefox extensions / [Discord](https://discord.gg/E9EKaPZR)
 * [Strongbox](https://strongboxsafe.com/) - Password Manager
 * [Maccy](https://maccy.app/) - Clipboard Manager
+* [Left on Read](https://leftonread.me/) - iMessage Client / [Github](https://github.com/Left-on-Read/leftonread)
 * [MacBing](https://goodsnooze.gumroad.com/l/macbing) - Bing Chat
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
 * [Drafts](https://getdrafts.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Kyun](https://github.com/file-acomplaint/kyun) or [Voodoopad](http://www.voodoopad.com/) - Text Editors / Notes
