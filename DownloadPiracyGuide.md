@@ -151,8 +151,8 @@
 
 # ► Software Sites
 
-* ⭐ **[Pesktop](https://pesktop.com/en/)**
 * ⭐ **[AppNee](https://appnee.com/)**
+* ⭐ **[Pesktop](https://pesktop.com/en/)**
 * ⭐ **[RSLOAD](https://rsload.net/)**
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - [Mobile App](https://forum.mobilism.org/app/)
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)**
