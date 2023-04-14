@@ -1220,7 +1220,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### IPTV Playlists
 
-[awesome-iptv-free](https://github.com/iptv-org/awesome-iptv#free), [HLS Cat](https://hlscat.com/), [IPTVCat](https://iptvcat.net/), [AllIPTV](https://www.alliptvlinks.com/), [TVLab](https://t.me/tvlab), [IPTV_Sport](https://t.me/iptv_sport), [Leaksat](https://leaksat.com/category/free-iptv/), [iptvmate](https://iptvmate.net/), [dailym3uiptv](https://dailym3uiptv.com/), [iptv-gratuits](https://iptv-gratuits.com/), [iptvsat](https://iptvsat.info/), [eja.tv](https://eja.tv/), [iptv4sat](https://www.iptv4sat.com/), [iptv-work](https://iptv-work.at.ua/), [xtemus](https://xtemus.com/), [Hacxx-Free-IPTV](http://bit.ly/Hacxx-Free-IPTV), [best.freeiptv](https://best.freeiptv.life/), [index.m3u](https://iptv-org.github.io/), [IPTVList](https://iptvlist.ml/), [Free-TV](https://github.com/Free-TV/IPTV), [IPTV Screwed](https://discord.gg/aukabqv325)
+[awesome-iptv-free](https://github.com/iptv-org/awesome-iptv#free), [HLS Cat](https://hlscat.com/), [IPTVCat](https://iptvcat.net/), [AllIPTV](https://www.alliptvlinks.com/), [Leaksat](https://leaksat.com/category/free-iptv/), [iptvmate](https://iptvmate.net/), [iptv-gratuits](https://iptv-gratuits.com/), [iptvsat](https://iptvsat.info/), [eja.tv](https://eja.tv/), [iptv4sat](https://www.iptv4sat.com/), [iptv-work](https://iptv-work.at.ua/), [xtemus](https://xtemus.com/), [Hacxx-Free-IPTV](http://bit.ly/Hacxx-Free-IPTV), [best.freeiptv](https://best.freeiptv.life/), [index.m3u](https://iptv-org.github.io/), [IPTVList](https://iptvlist.ml/), [Free-TV](https://github.com/Free-TV/IPTV), [IPTV Screwed](https://discord.gg/aukabqv325)
 
 ***
 
@@ -2830,7 +2830,10 @@ Add the following commands to a search to manually scrape each site.
 
 #### Text / Code Collaboration
 
-[Google Colaboratory](https://colab.research.google.com/), [Mattermost](https://mattermost.com/), [HackMD](https://hackmd.io/), [Taskade](https://www.taskade.com/), [CryptPad](https://cryptpad.fr/), [Socket](https://socket.io/), [Whimsical](https://whimsical.com/), [Firepad](https://firepad.io/), [Etherpad](https://etherpad.org/), [FidusWriter](https://www.fiduswriter.org/), [overleaf](https://www.overleaf.com/), [RustPad](https://github.com/ekzhang/rustpad)
+* ⭐ **[Google Colaboratory](https://colab.research.google.com/)**
+* ⭐ **[Google Docs](https://www.google.com/docs/about/)**
+
+[Mattermost](https://mattermost.com/), [HackMD](https://hackmd.io/), [Taskade](https://www.taskade.com/), [CryptPad](https://cryptpad.fr/), [Socket](https://socket.io/), [Whimsical](https://whimsical.com/), [Firepad](https://firepad.io/), [Etherpad](https://etherpad.org/), [FidusWriter](https://www.fiduswriter.org/), [overleaf](https://www.overleaf.com/), [RustPad](https://github.com/ekzhang/rustpad)
 
 ***
 
