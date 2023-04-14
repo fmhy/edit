@@ -592,7 +592,7 @@ Simulator
 * ⭐ **[Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8)** or [/r/LanguageLearning Resources](https://www.reddit.com/r/languagelearning/wiki/index) - Language Learning Resources
 * ⭐ **[The Language Exchange Network](https://discord.gg/jxcVmHJ)** / [2](https://redd.it/5m5426) / [3](https://docs.google.com/document/d/14is9MfGfKC-ptDhXGWLQFYSAaWTJSnUxj6zK0RGqNIk/), [InterPals](https://www.interpals.net/), [Tandem](https://www.tandem.net/), [Conversation Exchange](https://www.conversationexchange.com/), [RhinoSpike](https://rhinospike.com/), [HelloTalk](https://www.hellotalk.com/) or [Lang-8](https://lang-8.com/) - Language Learning Networks
 * ⭐ **[Languages & Linguistics](https://github.com/nbats/FMHYedit/blob/main/base64.md#languages--linguistics)**
-* [Languagelearning.site](https://languagelearning.site/) Thousands of various languages learning materials by torrent.
+* [Languagelearning.site](https://languagelearning.site/) - Language Learning Torrents
 * [Language Transfer](https://www.languagetransfer.org/) - Language Learning Lectures
 * [refold.la](https://refold.la/) - Language Learning Roadmap
 * [Memrise](https://www.memrise.com/) - Language Learning Lessons
