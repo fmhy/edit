@@ -385,7 +385,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Collaboration Platforms
 
-[Doozy](https://doozy.live/), [Zulip](https://zulip.com/), [Miro](https://miro.com/), [Mattermost](https://mattermost.org/), [Twake](https://twake.app/), [Asana](https://asana.com/), [Freedcamp](https://freedcamp.com/), [Lumeer](https://www.lumeer.io/), [Slab](https://slab.com/), [TipiCalls](https://tipicalls.com/), [Focalboard](https://www.focalboard.com/), [WeKan](https://wekan.github.io/), [Kanboard](https://kanboard.org/), [Skiff](https://skiff.com/), [Mural](https://www.mural.co/), [Dendron](https://www.dendron.so/), [Lucidchart](https://www.lucidchart.com/), [Trello](https://trello.com/), [Planka](https://planka.app/), [Taskcafe](https://github.com/JordanKnott/taskcafe), [Room](https://room.sh/), [Atlassian](https://www.atlassian.com/)
+[Doozy](https://doozy.live/), [Zulip](https://zulip.com/), [Miro](https://miro.com/), [Mattermost](https://mattermost.org/), [Twake](https://twake.app/), [Asana](https://asana.com/), [Freedcamp](https://freedcamp.com/), [Lumeer](https://www.lumeer.io/), [Slab](https://slab.com/), [TipiCalls](https://tipicalls.com/), [Focalboard](https://www.focalboard.com/), [WeKan](https://wekan.github.io/), [Kanboard](https://kanboard.org/), [Skiff](https://skiff.com/), [Mural](https://www.mural.co/), [Dendron](https://www.dendron.so/), [Lucidchart](https://www.lucidchart.com/), [Trello](https://trello.com/), [Planka](https://planka.app/), [Taskcafe](https://github.com/JordanKnott/taskcafe), [Room](https://room.sh/), [Atlassian](https://www.atlassian.com/), [linear](https://linear.app/)
 
 ***
 
