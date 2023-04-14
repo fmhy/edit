@@ -114,7 +114,7 @@
 * MSRT - [x64](https://www.microsoft.com/en-us/download/details.aspx?id=9905) / [x86](https://www.microsoft.com/en-us/download/details.aspx?id=16) - Malicious Software Removal Tool
 * [WFC](https://www.binisoft.org/wfc.php), [Win10 Firewall Control](http://www.sphinx-soft.com/Vista/index.html), [pfSense](https://www.pfsense.org/) / [How-to](https://youtu.be/am7xT-zU1Q0), [PeerBlock](https://www.peerblock.com/), [Tinywall](https://tinywall.pados.hu/) or [GlassWire](https://www.glasswire.com/) - Firewall / Network Monitor
 * [Multi Program Block](https://sites.google.com/site/mytools4000/home/allow-block-multiple-programs-through-windows-7-firewall) - Block Multiple Programs via Windows Firewall
-* [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/), [ntop](http://www.ntop.org/), [Rotty](https://github.com/RoseSecurity/Rotty.py) or [Safing](https://safing.io/portmaster/) - Network Monitors
+* [Pi.Alert](https://github.com/pucherot/Pi.Alert), [Zeek](https://zeek.org/), [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/), [Kismet](https://www.kismetwireless.net/), [ntop](http://www.ntop.org/), [Rotty](https://github.com/RoseSecurity/Rotty.py) - Network Monitors
 * [Waircut](https://sourceforge.net/projects/waircut/) - WPS Network Monitor
 * [Hardentools](https://github.com/securitywithoutborders/hardentools) - Disables Risky Windows Features
 * [Unchecky](https://unchecky.com/) - Clears Software Installation Checkboxes
