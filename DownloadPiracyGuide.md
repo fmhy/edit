@@ -103,7 +103,7 @@
 * [Warez-World](https://warez-world.org/) - Video / Audio / Games / Software / Android / Books / Magazines / NSFW
 * [0DayDDL](https://0dayddl.com/) - Video / Audio / Games / Software / Books / Magazines
 * [0dayhome](https://0dayhome.net/) - Video / Audio / Games / Software / Books / Magazines
-* [Downturk.net](https://www.downturk.net/) -  Video / Audio / Games / Software / Android / Books / Tutorials
+* [Downturk.net](https://www.downturk.net/) -  Video / Audio / Games / Software / Android / Books
 * [Pouet](https://www.pouet.net/prodlist.php) - Demos / Cracktros
 * [Redump](http://redump.org/) - Disc Preservation Project
 * [DemoZoo](https://demozoo.org/) or [scene.org](https://files.scene.org/) - Demoscene Archive / [Wiki](https://en.wikipedia.org/wiki/Demoscene)
