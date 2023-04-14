@@ -656,12 +656,11 @@
 * [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - Movies
 * [HHDMovies](https://hhdmovies.site/) - Movies / TV
 * [OKJatt](https://okjatt.one/) - Movies / TV
-* [111.90.159.132](https://111.90.159.132/) - Movies
+* [Online Movies Hindi](https://111.90.159.132/) - Movies
 * [HindiLover](https://namasteserials.com/) - TV
 * [playdesi](https://playdesi.net/) - Movies / TV
 * [MovieHDPlus](https://www.moviehdplus.com/) -  Movies / TV
 * [desicinemas](https://desicinemas.tv/) - Movies / TV
-* [moviemora](https://111.90.159.132/) - Movies / TV
 * [hdmovie2](https://hdmovie2.sbs/) - Movies
 * [Desi Serials](https://www.desi-serials.cc/) - Movies / TV / Live
 * [HindiLinks4u](https://hindilinks4u.lat/) - Movies / TV
