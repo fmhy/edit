@@ -1200,7 +1200,6 @@
 * [SuaMusica](https://www.suamusica.com.br/) - MP3
 * [Download Cursos](https://downloadcursos.top/) - Courses
 * [timaterial](https://timaterial.blogspot.com/) - Courses
-* [Brsociety](https://brsociety.club/) e-Learning (Courses, PDFs) Tracker, Requires a invite.
 
 ## ▷ Streaming
 
