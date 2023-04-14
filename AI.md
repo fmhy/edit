@@ -124,7 +124,7 @@
 * ⭐ **[Bard](https://bard.google.com/)** - Google's AI
 * ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT-4 Based AI
 * ⭐ **[Poe](https://poe.com/)** - GPT-3.5 Based AI
-* [EasyPeasy](https://easy-peasy.ai/) - GPT-4 Based AI
+* [EasyPeasy](https://easy-peasy.ai/) - GPT-3.5 Based AI
 * [BAI](https://chatbot.theb.ai/) - GPT-3.5 Based AI
 * [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain) - GPT-3.5 Based AI
 * [writier.io](https://writier.io/) - GPT-3 Based AI
