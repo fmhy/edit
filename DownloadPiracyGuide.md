@@ -20,8 +20,8 @@
 * ⭐ **[mega.archive](https://discord.gg/R3zEZUPp3Q)** / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
 * ⭐ **[IRC / XDCC Tutorial](https://rentry.org/irc)**, [2](https://github.com/mayfrost/guides/blob/master/IRC.md), [3](https://libera.chat/guides/), [4](https://www.theloadguru.com/xdcc-irc-beginners-guide/)
 * ⭐ **[Awesome IRC](https://github.com/davisonio/awesome-irc)** - IRC Resource Index
-* [Google TeamDrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#google-teamdrives) 
-* [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28) 
+* [Google TeamDrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#google-teamdrives)
+* [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28)
 * [Shiba](https://github.com/nbats/FMHYedit/blob/main/base64.md#shiba)
 * [GDrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#game-drive)
 * [KL Teamdrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#kl-teamdrive)
@@ -29,17 +29,17 @@
 * [Xtremecloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#xtremecloud)
 * [smolOD](https://github.com/nbats/FMHYedit/blob/main/base64.md#smolod) - Small Open Directories
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
-* [dedigger](https://www.dedigger.com/) - GDrive File Search 
+* [dedigger](https://www.dedigger.com/) - GDrive File Search
 * [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) / [Discord](https://discord.gg/ZRhpUtzvkC) or [No Bucks Given](https://discord.gg/By53hyhUFS) / [Revolt](https://divolt.xyz/invite/BM9hvM0E) - Drive Sharing Communities
-* [MegaDownload](http://megadownload.net/) - Mega File Search 
+* [MegaDownload](http://megadownload.net/) - Mega File Search
 * [Create Open Directory Search Engine](https://redd.it/d3w2fu)
-* [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) or [AutoIndex](http://autoindex.sourceforge.net/) - Open Directory Indexer 
+* [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) or [AutoIndex](http://autoindex.sourceforge.net/) - Open Directory Indexer
 * [Directory Lister](https://directorylister.com/) - Open Directory Explorer
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - Search Pastebin Directories
 * [Data Horde](https://datahorde.org/) - Data Archivist Group
 * [CD.TextFiles](http://cd.textfiles.com/) - CD Text File Archive
 * [Defacto2](https://defacto2.net/home) - Scene / Sub-Scene Database
-* [Google Piracy Groups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_piracy_discussion_groups) - Use these to join TeamDrives 
+* [Google Piracy Groups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_piracy_discussion_groups) - Use these to join TeamDrives
 
 ***
 
@@ -59,30 +59,30 @@
 * [MegaDDL](http://megaddl.net/) - Video / Audio / Software / Games / Books
 * [AsanDL](http://asandl.com/) - Video / Audio / Games / Software / Books / Magazines / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [SceneP2P](https://www.scenep2p.com) - Video / Audio / Games / ROMs / Software / Android / Books / Magazines
-* [Adit-HD](https://www.adit-hd.com/) - Video / Audio / Games / Books 
+* [Adit-HD](https://www.adit-hd.com/) - Video / Audio / Games / Books
 * [Novanon](https://novanon.net/) - Video / Audio / Software / Games / Magazines / Comics / Android / Books / Courses
 * [psychodownloads](https://psychodownloads.com/) - Video / Audio / Software / Android / Games / ROMs / Books / Magazines / NSFW
-* [Merlin Warez](https://merlinwz.com/) - Video / Audio / Games / Software / Books / Audiobooks / Comics / Magazines 
+* [Merlin Warez](https://merlinwz.com/) - Video / Audio / Games / Software / Books / Audiobooks / Comics / Magazines
 * [Sbenny's Forum](https://forum.sbenny.com/) - Video / Audio / Software / ROMs / Books / Android / [Discord](https://discord.gg/kf9FKQx)
 * [CyberPhoenix](http://www.cyberphoenix.org/forum/) - Video / Audio / Software / Games / ROMs / Books / Magazines / Comics
 * [dreamteamdownloads1](https://www.dreamteamdownloads1.com/index.php) - Video / Audio / Software / Games / ROMs / Books / Magazines
-* [ReleaseHive](https://www.releasehive.com/) - Video / Audio / Software / Games / Books / NSFW 
+* [ReleaseHive](https://www.releasehive.com/) - Video / Audio / Software / Games / Books / NSFW
 * [DownDuck](http://www.downduck.com/) - Video / Audio / Software / Games / Books / Magazines
 * [AllYouLike](https://allyoulike.org/) - Video / Audio Books / Magazines / Games / ROMs / Software / Android / Comics / NSFW
 * [MaxRelease](http://max-rls.com/) - Video / Audio / Software / Games / Magazines
 * [DarkSoftware](https://darksoftware.net/) - Video / Audio / Games / ROMs
-* [WarezBook](https://www.warezbook.org/) - Video / Audio / Software / Games / Books 
+* [WarezBook](https://www.warezbook.org/) - Video / Audio / Software / Games / Books
 * [WawaCity](https://www.wawacity.video/) - Video / Audio / Books / Magazines / Software / Android / Use AdBlocker
-* [2DDL](https://2ddl.it/) - Video / Audio / Software / Games / Books / Comics / Magazines 
-* [SCENE.RLS](http://scene-rls.net/releases/index.php) - Video / Audio / Games / Software / Books / Magazines 
-* [WarezLover](https://warezlover.xyz/) - Video / Audio / Software / Games / Android / ROMs / Books / Magazines 
+* [2DDL](https://2ddl.it/) - Video / Audio / Software / Games / Books / Comics / Magazines
+* [SCENE.RLS](http://scene-rls.net/releases/index.php) - Video / Audio / Games / Software / Books / Magazines
+* [WarezLover](https://warezlover.xyz/) - Video / Audio / Software / Games / Android / ROMs / Books / Magazines
 * [heroturko.net](https://www.heroturko.net/) - Video / Audio / Software / Games / Books / Magazines / Android
-* [TFPDL](https://tfpdl.se/), [2](https://tfpdl.to/) - Video / Software / Games / Magazines / NSFW 
+* [TFPDL](https://tfpdl.se/), [2](https://tfpdl.to/) - Video / Software / Games / Magazines / NSFW
 * [Apps4All](https://www.apps4all.com/ ) - Video / Books / Software / Games / Android
 * [Katz DDL](https://katzddl.net/) - Video / Audio / Books / Games / Android / NSFW
-* [BadshahUploads](https://badshahuploads.xyz/) - Video / Audio / Software / Games / Books / Leech Required 
-* [sarzamindownload](https://www.sarzamindownload.com/) - Software / Games / Android 
-* [FrostClick](https://www.frostclick.com/wp/) - Video / Audio / Software / Games / Books 
+* [BadshahUploads](https://badshahuploads.xyz/) - Video / Audio / Software / Games / Books / Leech Required
+* [sarzamindownload](https://www.sarzamindownload.com/) - Software / Games / Android
+* [FrostClick](https://www.frostclick.com/wp/) - Video / Audio / Software / Games / Books
 * [The Ambassador](https://ambassadorddl.site/) - Video / Games / Books
 * [Leaker](https://leaker.me/) - Video / Audio / Games
 * [WorldSRC](https://www.worldsrc.net/) - Video / Audio / Games / Software / Android / [Donate](https://www.worldsrc.net/service_end)
@@ -103,11 +103,12 @@
 * [Warez-World](https://warez-world.org/) - Video / Audio / Games / Software / Android / Books / Magazines / NSFW
 * [0DayDDL](https://0dayddl.com/) - Video / Audio / Games / Software / Books / Magazines
 * [0dayhome](https://0dayhome.net/) - Video / Audio / Games / Software / Books / Magazines
+* [Downturk.net](https://www.downturk.net/) -  Video / Audio / Games / Software / Android / Books / Tutorials
 * [Pouet](https://www.pouet.net/prodlist.php) - Demos / Cracktros
 * [Redump](http://redump.org/) - Disc Preservation Project
 * [DemoZoo](https://demozoo.org/) or [scene.org](https://files.scene.org/) - Demoscene Archive / [Wiki](https://en.wikipedia.org/wiki/Demoscene)
 * [Ubu](https://ubuweb.com/) - Avant-Garde Artifacts
-* Alexa Rankings - [Sites](https://dirtywarez.org/cat/blog) / [Forums](https://dirtywarez.org/cat/forum) 
+* Alexa Rankings - [Sites](https://dirtywarez.org/cat/blog) / [Forums](https://dirtywarez.org/cat/forum)
 
 ***
 
@@ -121,7 +122,7 @@
 * [scnlog](https://scnlog.me/)
 * [FileNinja](https://fileninja.net/)
 * [filesearch.link](http://filesearch.link/)
-* [Linktury](https://www.linktury.com/) 
+* [Linktury](https://www.linktury.com/)
 * [Hitfilesearch](https://www.hitfilesearch.com/) - Search HitFile
 * [WarezOmen](https://warezomen.com/) - Indexer / Search Engine
 * [SunXDCC](http://sunxdcc.com/) or [XDCC.EU](https://www.xdcc.eu/) - XDCC / Search Engine
@@ -255,16 +256,16 @@
 # ► File Sharing Apps
 
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - File Sharing App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
-* [Shareaza](http://shareaza.sourceforge.net/) - File Sharing App 
-* [MLDonkey](http://mldonkey.sourceforge.net/Main_Page) - File Sharing App 
-* [Fopnu](https://fopnu.com/) - File Sharing App 
+* [Shareaza](http://shareaza.sourceforge.net/) - File Sharing App
+* [MLDonkey](http://mldonkey.sourceforge.net/Main_Page) - File Sharing App
+* [Fopnu](https://fopnu.com/) - File Sharing App
 * [DC++](https://dcplusplus.sourceforge.io/index.html) - File Sharing App / [Clients](https://dchublists.com/clients/) / [Hubs](https://dchublists.com/), [2](https://dchublist.org/), [3](https://dchublist.biz/)
 * [eMule](https://www.emule-project.net/) or [eMule Plus](https://sourceforge.net/projects/emuleplus/) - File Sharing App
 * [Shareaza P2P](http://shareaza.sourceforge.net/) - File Sharing App
 * [WinMX](https://patch.winmxconex.com/) - File Sharing App / [Forum](https://forum.winmxworld.com/)
-* [WireShare](https://sourceforge.net/projects/wireshare/) - File Sharing App / LimeWire Fork 
-* [TGMoviesBot](https://t.me/TGMoviesBot) - Telegram File Search Bot 
-* [Direct Links](https://t.me/direct_llinks) - Telegram / Video / Software / Games 
+* [WireShare](https://sourceforge.net/projects/wireshare/) - File Sharing App / LimeWire Fork
+* [TGMoviesBot](https://t.me/TGMoviesBot) - Telegram File Search Bot
+* [Direct Links](https://t.me/direct_llinks) - Telegram / Video / Software / Games
 * [VK Files Bot](https://t.me/VKFiles_Bot) - VK File DL Telegram Bot
 * [Real-Debrid](https://real-debrid.com/) - File Download App / Paid / [Torrent Client](https://github.com/rogerfar/rdt-client)
 
@@ -298,7 +299,7 @@
 * [nZEDb](https://github.com/nZEDb/nZEDb) - Self-Hosted
 * [Spotweb](https://github.com/spotweb/spotweb) - Spotnet Client
 * [TeleHack](https://telehack.com/) - File Explorer / [Wiki](https://en.wikipedia.org/wiki/Telehack)
-* [/r/usenet](https://reddit.com/r/usenet) 
+* [/r/usenet](https://reddit.com/r/usenet)
 * [/r/UsenetInvites](https://reddit.com/r/UsenetInvites)
 
 ## ▷ Providers
@@ -319,7 +320,7 @@
 
 ***
 
-# ► File Leeches 
+# ► File Leeches
 
 * ⭐ **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)** or [leechlisting](https://www.leechlisting.com/) - Leech Lists
 * [OkDebrid](https://okdebrid.com/)
