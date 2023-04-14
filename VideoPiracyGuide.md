@@ -27,7 +27,7 @@
 * [SockShare](http://sockshare.ac/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones) / Use Adblock
 * [OpenloadMovies](https://openloadmov.net/) or [Yify TV](https://ytsmovie.tv/) - Movies / TV
 * [UniqueStream](https://uniquestream.net/) - Movies / TV
-* [Movies.cf](https://pirate-media.vercel.app/) - Movies / [Telegram](https://t.me/movielinks\_me)
+* [Movies.cf](https://pirate-media.vercel.app/) - Movies / [Telegram](https://t.me/netflixvipbox)
 * [FreeTubeSpot](https://www.freetubespot.com/) - Movies
 * [UltraMovies](https://ultramovies.net/) - Movies / TV
 * [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime
@@ -559,7 +559,6 @@
 * ⭐ **[Smart TV Guide](https://redd.it/xa0aya)** - Smart TV Piracy Guide
 * ⭐ **[Android TV Guide](https://www.androidtv-guide.com/)** - Android TV Piracy Guide / [Spreadsheet](https://docs.google.com/spreadsheets/d/1kdnHLt673EjoAJisOal2uIpcmVS2Defbgk1ntWRLY3E/)
 * ⭐ **[Firestick Tricks](https://www.firesticktricks.com/)** - Firestick Jailbreak Guide / [Loader](https://github.com/esc0rtd3w/firestick-loader)
-* [Android TV Mod](https://t.me/androidtvmod) - Android TV / Fire TV / Fire Stick / Mods / Telegram
 * [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Smart TV Ads
 * [TCL Browser](https://play.google.com/store/apps/details?id=com.tcl.browser) or [TV Bro](https://play.google.com/store/apps/details?id=com.phlox.tvwebbrowser) - Ad Free Android TV Browsers
 * [SmartTubeNext](https://smartyoutubetv.github.io/) - Ad Free Android TV YouTube Player / [GitHub](https://github.com/yuliskov/SmartTubeNext)
@@ -636,7 +635,7 @@
 * [Full4Movies](https://www.full4movies.plus/category/hollywood-movies/) - Movies / TV
 * [TVShows.today](https://tvshows.me/) - TV
 * [TVSBoy](https://tvsboy.com/) - TV
-* [MoviezAddiction](https://moviezaddiction.bloginguru.info/) - Movies / TV / [Telegram](https://tttttt.me/moviezaddiction4/)
+* [MoviezAddiction](https://moviezaddiction.bloginguru.info/) - Movies / TV / [Telegram](https://tttttt.me/moviezaddiction4//)
 * [WorldFree4u](https://worldfree4u.health/) - Movies
 * [SSR Movies](https://www.2ssrmovies.com/category/hollywood-movies-hd) - Movies / TV / [Telegram](https://t.me/SSRmovies2022)
 * [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV
@@ -736,7 +735,7 @@
 * [DameDesuYo](https://damedesuyo.com/) - Sub
 * [Chiby](http://www.animechiby.com/) - Sub
 * [Anime Senpai4U](https://www.animesenpai4u.com/) - Sub / Dub
-* [Anime Flix](https://animeflix.net.in/) - Sub / Dub / [Telegram](https://t.me/moviesflixnet)
+* [Anime Flix](https://animeflix.net.in/) - Sub / Dub
 * [anime7.download](http://anime7.download/) - Sub
 * [37.187.6.206](https://github.com/nbats/FMHYedit/blob/main/base64.md#371876206) - Sub
 * [176.36.86.211](https://github.com/nbats/FMHYedit/blob/main/base64.md#1763686211) - Sub / Dub
