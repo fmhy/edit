@@ -866,9 +866,17 @@
 ## ▷ Reading
 
 * [itazuraneko](https://itazuraneko.neocities.org/library/librarymain) - Manga / Novels / Video Novels / Audiobooks
+* [shobonnexus](https://shobonnexus.com/) - Novels / Magazines
+* [watanoc](http://watanoc.com/), [yourei](https://yourei.jp/) or [n-lab](http://www.n-lab.org/library/mondai/) - Learn / Practice Japanese
+* [kakijun](https://kakijun.jp/) - Learn Japanese Writing
+* [Nihongo Monash](http://nihongo.monash.edu/onlinejdic.html), [jitenon](https://jitenon.jp/), [kotobank](https://kotobank.jp/), [aozorasearch](https://github.com/myokoym/aozorasearch) or [Weblio](https://www.weblio.jp/) - Dictionaries
+* [dictionary.goo](https://dictionary.goo.ne.jp/idiom/) - Japanese Idiom Dictionary
+* [Zokugo](http://zokugo-dict.com/) or [Nico Nico Pedia](https://dic.nicovideo.jp/) - Slang Dictionaries
+* [accent.u-biq](https://accent.u-biq.org/) - Accent Dictionary
+
+## ▷ Manga
 * [Rawmangaz](https://rentry.co/rawmangaz) - List of Raw Manga Sites
 * [senmanga](https://raw.senmanga.com/) - Manga / Novels / NSFW
-* [itazuraneko](https://itazuraneko.org/) - Books
 * [rawdevart](https://endevart.com/) - Manga
 * [DLRaw](https://dlraw.to/), [2](https://manga-zip.is/), [3](https://manga-zip.tv/) - Manga
 * [Raw-Zip](http://raw-zip.com/) - Manga
@@ -894,14 +902,6 @@
 * [welovemanga](https://welovemanga.one/) - Manga
 * [manga1000](https://manga1000.top/) - Manga
 * [mangaraw](https://mangaraw.lol/) - Manga
-* [shobonnexus](https://shobonnexus.com/) - Novels / Magazines
-* [watanoc](http://watanoc.com/), [yourei](https://yourei.jp/) or [n-lab](http://www.n-lab.org/library/mondai/) - Learn / Practice Japanese
-* [kakijun](https://kakijun.jp/) - Learn Japanese Writing
-* [Nihongo Monash](http://nihongo.monash.edu/onlinejdic.html), [jitenon](https://jitenon.jp/), [kotobank](https://kotobank.jp/), [aozorasearch](https://github.com/myokoym/aozorasearch) or [Weblio](https://www.weblio.jp/) - Dictionaries
-* [dictionary.goo](https://dictionary.goo.ne.jp/idiom/) - Japanese Idiom Dictionary
-* [Zokugo](http://zokugo-dict.com/) or [Nico Nico Pedia](https://dic.nicovideo.jp/) - Slang Dictionaries
-* [accent.u-biq](https://accent.u-biq.org/) - Accent Dictionary
-
 ***
 
 # ► Korean
