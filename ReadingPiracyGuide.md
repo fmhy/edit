@@ -364,7 +364,6 @@
 * [China-Dictatorship](https://github.com/cirosantilli/china-dictatorship) - Anti-Chinese Authoritarianism
 * [Rookie Road]( https://www.rookieroad.com/) - Sport Guides
 * [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
-* [Cutter's Guide](https://www.cuttersguide.com/) - Lot's of fashion pictures, useful for people interested in wearing and researching / making fashion from the past.
 
 ***
 
@@ -391,7 +390,6 @@
 * [Lib Ebooks](https://lib-ebooks.com/)
 * [HathiTrust](https://www.hathitrust.org/)
 * [FreeBookCentre](https://freebookcentre.net/)
-* [Sciarium](https://sciarium.com/) - Lots of educational material, requires a account that needs credits, but you can create infinite accounts using disposable mail, has some video material as well.
 * [OAPEN](https://oapen.org/)
 * [vdoc.pub](https://vdoc.pub/)
 * [Lit GFax](https://lit.gfax.ch/)
@@ -1118,7 +1116,8 @@
 * [CGW Museum](https://www.cgwmuseum.org/) - Computer Gaming World Magazines
 * [Atari Magazines](https://www.atarimagazines.com/) - Classic Computer Magazine Archive 
 * [HomePower](https://www.homepower.com/archive-browse ) - Home Power Magazines
-* [Archive Fashion for the World](https://www.archivepdf.net/) - Fashion Magazine Archive
+* [Archive Fashion for the World](https://www.archivepdf.net/) - Fashion Magazines
+* [Cutter's Guide](https://www.cuttersguide.com/) - Old Fashion Magazines
 * [Netflix Jr. Magazine](https://www.netflixjr.com/) - Free Children's Magazine
 
 ***
