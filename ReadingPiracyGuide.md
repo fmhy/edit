@@ -605,7 +605,7 @@
 * [base-search](https://www.base-search.net/) - Document Search
 * [dimensions](https://app.dimensions.ai/discover/publication) - Document Search
 * [Share OSF](https://share.osf.io/) - Document Search
-* [VDocuments ](https://vdocuments.site/) - Document Search 
+* [VDocuments ](https://vdocuments.site/) - Document Search
 * [repo.zenk](https://repo.zenk-security.com/) - Document Search 
 * [docplayer](https://docplayer.net/) - Document Search 
 * [DocDroid](https://www.google.com/search?q=site%3Adocdroid.net) - Document Search 
