@@ -12,11 +12,11 @@
 # ► AI Chatbots
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT-3 Based Chatbot
-* ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT-4 Based Chatbot
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - Q&A AI
+* ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT-3.5 Based Chatbot
 * [BAI](https://chatbot.theb.ai/) - GPT-3.5 Based Chatbot
 * [GPT4All](https://github.com/nomic-ai/gpt4all) - GPT-3.5 Based Chatbot
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
@@ -122,8 +122,8 @@
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT-3 Based AI
 * ⭐ **[Bard](https://bard.google.com/)** - Google's AI
-* ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT-4 Based AI
 * ⭐ **[Poe](https://poe.com/)** - GPT-3.5 Based AI
+* ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT-3.5 Based AI
 * [EasyPeasy](https://easy-peasy.ai/) - GPT-3.5 Based AI
 * [BAI](https://chatbot.theb.ai/) - GPT-3.5 Based AI
 * [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain) - GPT-3.5 Based AI
