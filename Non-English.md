@@ -1579,8 +1579,9 @@
 
 ## ▷ Downloading
 
-* [identi](https://identi.io/) - Video / Audio / Reading / Software / Games
-* [ForoWarez](https://forowarez.info/) - Video / Audio / Reading / NSFW / Software / Games
+* ⭐ **[DescargasDD](https://descargasdd.org/)** - Video / Audio / Software / Games / Castilian / Latino / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
+* ⭐ **[ForoWarez](https://forowarez.info/)** - Video / Audio / Reading / NSFW / Software / Games / Castilian / Latino
+* [identi](https://identi.io/) - Video / Audio / Reading / Software / Games / Castilian / Latino
 * [BladeMaster666](https://blademaster666.com/) - Video / Audio / Reading / NSFW / Software / Games
 * [LuchoEdu](https://www.luchoedu.org/) - Video / Audio / Reading / NSFW / Software / Games
 * [Fiuxy](https://fiuxy2.com/) - Video / Audio / Reading / NSFW / Software / Games
@@ -1599,13 +1600,12 @@
 * [TodoGamez](https://todogamez.com/) - ROMs
 * [gamesgx](https://www.gamesgx.net/) - PS2 ROMs
 * [Zypeliculashd](https://zypeliculashd.net/) - Movies / TV / Anime
-* [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation
+* [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / Castilian / Latino
 * [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - Movies
 * [SomosMovies](https://somosmovies.com/) - Movies / TV
 * [SeiresHD](https://serieslandia.com/), [2](https://seireshd.com/) - Movies / TV / Animation / [Telegram](https://t.me/joinchat/XOpQX51f2-tmOTBh)
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries
 * [DLShared](https://dlshareds.blogspot.com/?m=1) - Movies / Music
-* [DescargasDD](https://descargasdd.org/) - Video / Audio / Software / Games / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
 * [mirandopeliculas](https://mirandopeliculas.com/) - Movies / TV
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
 * [gnula](https://gnula.nu/) - Movies / TV
@@ -1638,12 +1638,10 @@
 
 ## ▷ Torrenting
 
-* [DonTorrent](https://dontorrent.care/), [2](https://donproxies.com/) - Movies / TV / Documentaries / Games / [Telegram](https://t.me/s/dontorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
-* [MejorTorrent](https://www1.mejortorrent.rip/) - Movies / TV / Documentaries / [Telegram](https://t.me/s/MejorTorrentAp)
-* [MejorTorrent.se](https://mejortorrent.se/) - Video / Audio / Software / Games / [Telegram](https://t.me/s/mejortorrentcom)
-* [Grantorrent.fi](https://grantorrent.fi/) - Movies / TV / [Telegram](https://t.me/s/grantorrent1)
-* [Grantorrent.wtf](https://grantorrent.wtf/) - Movies / TV / Documentaries
-* [Elitetorrent](https://www.elitetorrent.wf/) - Movies / TV / Anime
+* ⭐ **[DonTorrent](https://dontorrent.care/)**, [2](https://donproxies.com/) - Movies / TV / Documentaries / Games / Castilian / [Telegram](https://t.me/s/dontorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
+* ⭐ **[MejorTorrent](https://www1.mejortorrent.rip/)** -  Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/MejorTorrentAp)
+* ⭐ **[Grantorrent.wtf](https://grantorrent.wtf/)** - Movies / TV / Documentaries / Castilian / Latino
+* ⭐ **[Elitetorrent](https://www.elitetorrent.com/)**, [2](https://www.elitetorrent.wf/) - Movies / TV / Anime / Castilian / Latino / VOSE
 * [Descargas2020](https://descargas2020.net/) - Movies / TV
 * [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries
 * [PediaTorrent](https://pediatorrent.com/) - Movies / TV / Documentaries
@@ -1661,7 +1659,8 @@
 
 ## ▷ Streaming
 
-* [HDFull](https://hdfull.org/), [2](https://hdfull.store/), [3](https://dominioshdfull.com/) - Movies / TV / Anime / [Discord](https://discord.gg/BRKCXEe)
+* ⭐ **[HDFull](https://hdfull.org/)**, [2](https://hdfull.store/), [3](https://dominioshdfull.com/) - Movies / TV / Anime / [Discord](https://discord.gg/BRKCXEe) / Castilian / Latino / VOSE
+* ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
 * [PelisPlus](https://www1.pelisplus.ws/) - Movies / TV
 * [PlusHD](https://ww3.pelisplus.to/) - Movies / TV / Anime
 * [Pelispedia](https://pelispedia.one/) - Movies / TV
@@ -1706,7 +1705,6 @@
 * [doramasyt](https://www.doramasyt.com/) - Asian Drama
 * [doramasmp4](https://doramasmp4.io/) - Asian Drama
 * [DoramasFlix](https://doramasflixs.com/) - Asian Drama
-* [LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels) - Live TV / IPTV
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Live Soccer / MMA
 * [JKAnime](https://jkanime.net/) - Anime
 * [AnimeFénix](https://www.animefenix.tv/) - Anime
