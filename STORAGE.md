@@ -3170,7 +3170,24 @@ Add the following commands to a search to manually scrape each site.
 
 #### Vim Tools
 
-[Plugin Manager](https://github.com/junegunn/vim-plug), [2](https://github.com/tpope/vim-pathogen), [3](https://github.com/Shougo/dein.vim) / [Config](https://github.com/ChristianChiarulli/LunarVim) / [Auto-Compile](https://github.com/BuilderIO/mitosis) / [Markdown Plugin](https://github.com/plasticboy/vim-markdown) / [Vim Plugins](https://vimawesome.com/) / [Neovim Plugins](https://neovimcraft.com/) / [TUI](https://github.com/NvChad/NvChad) / [Desktop](https://github.com/neovide/neovide) / [GUI](https://github.com/vhakulinen/gnvim) / [APK](https://github.com/shiftrot/droidvim) / [Bootstrap Config](https://vim-bootstrap.com/) / [Frontend](https://github.com/rohit-px2/nvui) / [Motions](https://github.com/ggandor/lightspeed.nvim)
+* [Vim Plug](https://github.com/junegunn/vim-plug), [vim-pathogen](https://github.com/tpope/vim-pathogen) or [Shougo](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
+* [VimAwesome](https://vimawesome.com/) - Vim Plugins
+* [NeoVimCraft](https://neovimcraft.com/) - Neovim Plugins
+* [LunarVim](https://github.com/ChristianChiarulli/LunarVim) - Vim Config
+* [Vim Bootstrap](https://vim-bootstrap.com/) - Bootstrap Config
+* [Mitosis](https://github.com/BuilderIO/mitosis) - Vim Auto-Compile
+* [Vim Markdown ](https://github.com/plasticboy/vim-markdown) or [Markdown Preview](https://github.com/iamcco/markdown-preview.nvim) - Markdown Plugin
+* [neovide](https://github.com/neovide/neovide) - Vim Desktop App
+* [NvChad](https://github.com/NvChad/NvChad) - Vim TUI
+* [gnvim](https://github.com/vhakulinen/gnvim) - Vim GUI
+* [nvui](https://github.com/rohit-px2/nvui) - Vim Frontend
+* [droidvim](https://github.com/shiftrot/droidvim) - Vim APK
+* [lightspeed](https://github.com/ggandor/lightspeed.nvim) - Vim Motions
+* [Goyo.vim](https://github.com/junegunn/goyo.vim) - Distraction-free writing in Vim
+* [nvim](https://github.com/neoclide/coc.nvim) - Neovim LSP Autocompletion coc
+* [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - Vim Code-Completion Engine
+* [VimColorSchemes](https://vimcolorschemes.com/) - Vim Color Schemes
+* [Gruvbox](https://github.com/morhetz/gruvbox) - Retro Vim Color Sheme / [Wallpapers](https://gruvbox-wallpapers.onrender.com/)
 
 ***
 
