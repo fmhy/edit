@@ -1055,7 +1055,7 @@
 # ► Programming / Coding 
 
 * ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists 
-* ⭐ **[Shell GPT](https://github.com/TheR1D/shell_gpt)**, [Cursor](https://www.cursor.so) or [Codeium](https://codeium.com/) - Coding AIs
+* ⭐ **[CodeWhisperer](https://aws.amazon.com/codewhisperer/)**, [Shell GPT](https://github.com/TheR1D/shell_gpt), [Cursor](https://www.cursor.so), [Codeium](https://codeium.com/), [tabnine](https://www.tabnine.com/), [ImageCook](https://github.com/imgcook/imgcook), [Telosys](http://www.telosys.org/), [AIAC](https://github.com/gofireflyio/aiac) or [Copilot](https://github.com/features/copilot/) / [Docs](https://github.com/github/copilot-docs) - Coding AIs
 * [AI Code Translator](https://ai-code-translator.vercel.app/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - Code Converters
 * [WebdevHome](https://webdevhome.github.io/), [Charm](https://charm.sh/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - Programming Tool Indexes
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Programming Site Index 
@@ -1097,12 +1097,6 @@
 * [BrickHub](https://brickhub.dev/) - Share Code Brick Templates
 * [ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate) - Modifiable Shellcode Template 
 * [Spork](https://github.com/atek-cloud/spork) - P2P Sockets CLI / [Discord](https://discord.gg/UUCVrFYksv)
-* [Goyo.vim](https://github.com/junegunn/goyo.vim) - Distraction-free writing in Vim
-* [nvim](https://github.com/neoclide/coc.nvim) - Neovim LSP Autocompletion coc
-* [Markdown Preview](https://github.com/iamcco/markdown-preview.nvim) - NeoVim Markdown Preview
-* [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - Vim Code-Completion Engine
-* [VimColorSchemes](https://vimcolorschemes.com/) - Vim Color Schemes
-* [Gruvbox](https://github.com/morhetz/gruvbox) - Retro Vim Color Sheme / [Wallpapers](https://gruvbox-wallpapers.onrender.com/)
 * [Awesome Visual Studio Code Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/) - Visual Studio Code Extensions 
 * [awesome-kotlin](https://kotlin.link/) - Kotlin Resource Index / [GitHub](https://github.com/KotlinBy/awesome-kotlin)
 * [Diskord](https://gitlab.com/diskord/diskord) - Kotlin Client for Discord
@@ -1134,7 +1128,6 @@
 * [Ruff](https://github.com/charliermarsh/ruff) - Python Linter
 * [Trunk](https://trunk.io/) - Run Linters/Formatters/Checkers Simultaneously
 * [Mega Linter](https://github.com/nvuillam/mega-linter), [TCA](https://github.com/Tencent/CodeAnalysis) or [SonarCloud](https://sonarcloud.io/) - Code Analyzer
-* [tabnine](https://www.tabnine.com/), [ImageCook](https://github.com/imgcook/imgcook), [CodeWhisperer](https://aws.amazon.com/codewhisperer/), [Telosys](http://www.telosys.org/), [AIAC](https://github.com/gofireflyio/aiac) or [Copilot](https://github.com/features/copilot/) / [Docs](https://github.com/github/copilot-docs) - AI Assisted Code Completion / Generators
 * [FauxPilot](https://github.com/fauxpilot/fauxpilot) - Self-Hosted Copilot Server
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Check for Edge Case Inputs
 * [CodeCapsules](https://codecapsules.io/) - Code Deployment
@@ -1229,6 +1222,7 @@
 ## ▷ IDEs / Code Editors
 
 * ⭐ **[Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_code_editors)** - Code Editing Apps / Sites
+* ⭐ **[Vim Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vim_tools)** - Tools / Themes for Vim
 * [Apache NetBeans](https://netbeans.apache.org/) - Cross Platform IDE
 * [KDevelop](https://www.kdevelop.org/) - Cross Platform IDE
 * [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross Platform IDE
