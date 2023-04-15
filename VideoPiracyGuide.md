@@ -713,7 +713,6 @@
 
 * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip link shorteners
 * ⭐ **[AnimeKaizoku](https://animekaizoku.com/)** - Sub / Dub / [Dual Audio](https://github.com/AnimeKaizoku/KaizokuPatcher)
-* ⭐ **[hi10anime](https://hi10anime.com/)** - Sub
 * ⭐ **[Judas Discord](https://discord.gg/vbJ7RTn)** - Sub / Dub / [TeamDrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#judas-teamdrive)
 * ⭐ **[Erai-Raws](https://www.erai-raws.info/)** - Sub / [Discord](https://discord.gg/tEeaXzD4KH)
 * ⭐ **[Anime Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anime_download_apps)** - Anime Downloading Tools
@@ -726,6 +725,7 @@
 * [AnimeOut](https://www.animeout.xyz/) - Sub
 * [Anime2Enjoy](https://www.anime2enjoy.com/) - Sub / [Discord](https://discord.gg/PxSmumS)
 * [AniDL](https://anidl.org/) - Sub / Dub
+* [hi10anime](https://hi10anime.com/) - Sub
 * [AnimeLand](https://w4.animeland.tv/) - Dub
 * [Kayoanime](https://kayoanime.com/) - Sub / Dub / [Telegram](https://t.me/Kayoanime)
 * [Animesp](https://github.com/nbats/FMHYedit/blob/main/base64.md#animesp) - Sub
@@ -811,19 +811,20 @@
 
 ## ▷ Anime Torrenting 
 
-* ⭐ **[VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn)** - Get a VPN before torrenting
-* ⭐ **[Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)**
+* **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting
 * ⭐ **[Nyaa](https://nyaa.si/)**, [2](http://nyaa.iss.one/), [3](https://nyaa.iss.ink/) - Sub / Dub
 * ⭐ **Nyaa Tools** - [TUI](https://github.com/irevenko/koneko) / [CLI](https://github.com/johnvictorfs/nyaa-cli) / [Telegram Bot](https://github.com/ejnshtein/nyaasi-bot), [2](https://t.me/meow_in_japanese_bot) / [Python Wrapper](https://github.com/JuanjoSalvador/NyaaPy) / [Torrent Fetch](https://github.com/manintel/nyaabag), [2](https://github.com/Vivek-Kolhe/Nyaa-API) / [Downloader](https://github.com/marcpinet/nyaadownloader)
+* ⭐ **[AnimeK](https://animek.fun/)** - Sub / Dub
+* ⭐ **[AnimeTosho](https://animetosho.org/)** - Sub / Dub
+* ⭐ **[Anirena](https://www.anirena.com/)** - Sub / Dub
+* ⭐ **[TokyoTosho](https://www.tokyotosho.info/)** - Sub
+* ⭐ **[ShanaProject](https://www.shanaproject.com/)** - Sub
 * ⭐ **[Anidex](https://anidex.info/)** - Sub / Dub
 * ⭐ **[Hi10Anime](https://hi10anime.com/)** - Sub
-* ⭐ **[SubsPlease](https://subsplease.org/)** - Sub
 * ⭐ **[bakabt](http://bakabt.me/)** - Sub / Dub / [Interviews](https://wiki.bakabt.me/index.php/Sign_up)
-* ⭐ **[SneeDex](https://sneedex.moe/)** or [SeaDex](https://releases.moe/) / [Discord](https://discord.com/invite/jPeeZewWRn) - Highest Quality Anime Release Guide
-* [TokyoTosho](https://www.tokyotosho.info/) - Sub
-* [AnimeTosho](https://animetosho.org/) - Sub / Dub
-* [Anirena](https://www.anirena.com/) - Sub / Dub
-* [ShanaProject](https://www.shanaproject.com/) - Sub
+* ⭐ **[Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)**
+* [SneeDex](https://sneedex.moe/) or [SeaDex](https://releases.moe/) / [Discord](https://discord.com/invite/jPeeZewWRn) - Highest Quality Anime Release Guide
+* [SubsPlease](https://subsplease.org/) - Sub
 * [Hakata Ramen](https://discord.gg/4teAREmqdQ) - Sub
 * [DameDesuYo](https://damedesuyo.com/) - Sub 
 * [GoodJobMedia](https://www.goodjobmedia.com/) - Sub
