@@ -701,6 +701,7 @@ Simulator
 * [DigMandarin](https://www.digmandarin.com/) - Chinese Learning Tools
 * [KongLongMandarin](https://www.konglongmandarin.com/) - Chinese Lessons
 * [HackingChinese](https://www.hackingchinese.com/archive-2/) - Chinese Learning Articles
+* [Zhongwen](http://zhongwen.com/gudian.htm) - Learn via Classic Chinese Literature
 * [Cantonese.ca](https://cantonese.ca/) - Chinese Vocabulary
 * [MDBG](https://www.mdbg.net/) - Chinese Dictionary
 * [Jukuu](http://www.jukuu.com/) - Chinese to English Word Comparisons
