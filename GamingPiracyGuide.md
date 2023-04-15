@@ -23,6 +23,7 @@
 * ⭐ **[VRPirates](https://t.me/vrpirates)** / [Wiki](https://wiki.vrpirates.club/), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
 * ⭐ **[Game Download CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_download_cse)** / **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** - Multi-Site Search Engines
 * ⭐ **[/r/PiratedGames Mega](https://rentry.org/pgames-mega-thread)** / [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) or [CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461) - Game Piracy Megathreads / [Discord](https://discord.gg/dZWwhUy)
+* [Torrminatorr](https://forum.torrminatorr.com/) - Download
 * [Ova Games](http://www.ovagames.com/) - Download / Use Adblocker
 * [g4u](https://g4u.to/) - Download / pw: 404
 * [GLoad](https://gload.to/) - Download
