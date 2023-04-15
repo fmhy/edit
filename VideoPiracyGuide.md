@@ -314,7 +314,7 @@
 
 ## ▷ Anime Streaming
 
-* ⭐ **[Zoro](https://zoro.to/)** - Sub / Dub
+* ⭐ **[Zoro](https://zoro.to/)** - Sub / Dub / [Auto-Next](https://greasyfork.org/en/scripts/464019)
 * ⭐ **[9Anime](https://www.9anime.to/)** - Sub / Dub / [Mirrors](https://9anime.me/) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher) / [Ad Scripts](https://redd.it/c330dx)
 * ⭐ **[AllAnime](https://allanime.to/)** - Sub / Dub
 * ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / [Downloader](https://github.com/KevCui/animepahe-dl)
