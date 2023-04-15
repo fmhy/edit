@@ -1645,7 +1645,6 @@
 * [PasateaTorrent](https://pasateatorrent.org/) - Movies / TV
 * [Cinecalidad](https://cinecalidad.one/) - Movies / TV
 * [Tlandia](https://torrentlandia.site/) - Movies
-* [alt-torrent](https://alt-torrent.com) - Movies / TV
 * [SomosTorrent](https://somostorrent.com/) - Movies / TV / [Telegram](https://t.me/s/pelistorrentoficial)
 * [DiXvA](https://www.dixvto.com/), [2](https://www.dixva.com/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
 * [Frozen Layer](https://www.frozen-layer.com/) - Anime
