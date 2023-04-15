@@ -37,7 +37,6 @@
 * [Kuki](https://chat.kuki.ai/chat) - Browser Based Chatbot
 * [AskEdith](https://www.askedith.ai/demo) - Job / Business Q&A AI
 * [Phind](https://www.phind.com/) - Developer Q&A AI
-* [Shell GPT](https://github.com/TheR1D/shell_gpt), [Cursor](https://www.cursor.so) or [Codeium](https://codeium.com/) - Coding AIs
 * [AICommand](https://github.com/keijiro/AICommand) - ChatGPT with Unity Editor
 * [Leon](https://getleon.ai/) - AI Assistant
 * [CharacterHub](https://www.characterhub.org/) - Characters for LLMs
