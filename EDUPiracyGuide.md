@@ -61,7 +61,7 @@
 * [WatchKnowLearn](http://www.watchknowlearn.org/) - Educational Videos
 * [FreeMedTube](https://freemedtube.net/) - Medical Courses
 * [Mathispower4u](https://www.mathispower4u.com/), [PatrickJMT](http://patrickjmt.com/), [SchoolYourself](http://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/), [mathonline](http://mathonline.wikidot.com/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
-* [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) or [MisterWootube](https://www.youtube.com/c/misterwootube) - YouTube Math Lessons 
+* [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) or [MisterWootube](https://www.youtube.com/c/misterwootube) - YouTube Math Lessons
 * [NYU-DLSP21](https://atcold.github.io/NYU-DLSP21/) - Deep Learning Course
 * [BillNye](https://billnye.com/) - Bill Nye Science Videos
 * [brighstorm](https://www.brightstorm.com/) - Test Prep
@@ -152,7 +152,7 @@
 * [FreeEducationWeb](https://freeeducationweb.com/) - Courses
 * [FreeCourseDL](https://freecoursedl.com/) - Courses
 * [TutsNode](https://tutsnode.net/) - Courses
-* [FreeStudyWeb](https://freestudyweb.com/) - Courses 
+* [FreeStudyWeb](https://freestudyweb.com/) - Courses
 * [Google Drive Links](https://googledrivelinks.com/) - Courses
 * [CryptoTips](https://www.cryptotips.us/) - Courses
 * [FCS](https://freecoursesites.com/) - Courses
@@ -574,7 +574,7 @@ Simulator
 * [Virtual Vist Tours](https://www.virtualvisittours.com/) - Ireland Virtual Tours
 * [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [CityWalks](https://citywalks.live/), [Explordle](https://www.explordle.com/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulator
 * [Matterport](https://matterport.com/discover) - Explore Real Places Digitally
-* [Outside Simulator](https://outsidesimulator.com/) - Simulate Being Outside 
+* [Outside Simulator](https://outsidesimulator.com/) - Simulate Being Outside
 * [Heygo](https://www.heygo.com/) - Live Interactive Virtual Tours
 * [Zhijianshang](https://www.zhijianshang.com/) - Explore China in 360VR
 
@@ -654,7 +654,7 @@ Simulator
 
 * [AnimeLon](https://animelon.com/) - Streaming / Anime / Learn Japanese
 * [Nihongo](https://nihongo-e-na.com/eng/), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/), [AnimeCards](https://animecards.site/), [Gakuu](https://web.archive.org/web/20201113022338/http://gakuu.com/resources/) or [Itzazureneko](https://itazuraneko.neocities.org/learn/guide.html) - Japanese Learning Resources
-* [TheMoeWay](https://learnjapanese.moe/) / [Discord](https://discord.gg/nhqjydaR8j), [Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/), [IMABI](https://imabi.net/), [NativShark](https://www.nativshark.com/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese
+* [TheMoeWay](https://learnjapanese.moe/) / [Discord](https://discord.gg/nhqjydaR8j), [Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/), [IMABI](https://imabi.net/), [NativShark](https://www.nativshark.com/) or [Tofugu](https://www.tofugu.com/) [Donkuri] (https://donkuri.github.io/learn-japanese/) - Learn Japanese
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
 * [jidoujisho](https://github.com/lrorpilla/jidoujisho) - Learn Japanese via Books
@@ -810,8 +810,8 @@ Simulator
 
 # ► Educational Tools
 
-* ⭐ **[The Free Learning List](https://freelearninglist.org/)** or  [/sci/ guide](https://sites.google.com/site/scienceandmathguide/) - Free Educational Sites / Tool Index 
-* ⭐ **[LearnAwesome](https://learnawesome.org/)**, [Learn Anything](https://learn-anything.xyz/), [Learning Lab](https://learn.uno/) / [Discord](https://discord.com/invite/FCzYt8u) or [Learney](https://maps.joindeltaacademy.com/) - Learning Resources 
+* ⭐ **[The Free Learning List](https://freelearninglist.org/)** or  [/sci/ guide](https://sites.google.com/site/scienceandmathguide/) - Free Educational Sites / Tool Index
+* ⭐ **[LearnAwesome](https://learnawesome.org/)**, [Learn Anything](https://learn-anything.xyz/), [Learning Lab](https://learn.uno/) / [Discord](https://discord.com/invite/FCzYt8u) or [Learney](https://maps.joindeltaacademy.com/) - Learning Resources
 * ⭐ **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [KausalFlow](https://tools.kausalflow.com/), [Zotero](https://www.zotero.org/) or [Scrible](https://www.scrible.com/)  - Research Tools
 * ⭐ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)** - Presentation Tools & Templates
 * ⭐ **[Data Visualization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)** - Create Chart / Visualize Data
@@ -824,10 +824,10 @@ Simulator
 * [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - Touch Typing Tutorial
 * [Spreeder](https://www.spreeder.com/) - Learn to Read Faster
 * [Refseek](https://www.refseek.com/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engine
-* [Explorabl.es](https://explorabl.es/) or [MinuteLabs](https://minutelabs.io/) - Interactive Learning / Lessons 
-* [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - Learn With GIFs 
-* [Information Is Beautiful](https://informationisbeautiful.net/) - Data / Information / Infographics / Visualizations 
-* [/r/coolguides](https://reddit.com/r/coolguides/), [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials 
+* [Explorabl.es](https://explorabl.es/) or [MinuteLabs](https://minutelabs.io/) - Interactive Learning / Lessons
+* [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - Learn With GIFs
+* [Information Is Beautiful](https://informationisbeautiful.net/) - Data / Information / Infographics / Visualizations
+* [/r/coolguides](https://reddit.com/r/coolguides/), [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
 * [LitCharts](https://www.litcharts.com/) - Literature Guides
 * [The Punctuation Guide](https://www.thepunctuationguide.com/) - Punctuation Guide
 * [TypeTerms](https://www.supremo.co.uk/typeterms/) - Typography Cheat Sheet
