@@ -66,7 +66,7 @@ Basic Piracy Terminology
 ### Antivirus
 
 **[VirusTotal](https://www.virustotal.com)  / [Kaspersky Cloud](https://opentip.kaspersky.com/)** - Test the safety of files
-**[Malwarebytes](https://github.com/nbats/FMHYedit/blob/main/base64.md#malwarebytes-premium) / [Hitman Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#hitman-pro)** - Antivirus software
+**[Malwarebytes](https://www.malwarebytes.com/) / [Hitman Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#hitman-pro)** - Antivirus software
 
 !!!note Antivirus software is usually bloatware. Stick to trusted sources for games and software and you will be fine with nothing but Windows Defender and an occasional Malwarebytes scan. Also remember to always scan setup / installation files.
 
