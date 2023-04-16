@@ -1180,6 +1180,7 @@
 * [FilmesMega](https://filmesmega.net/) - Movies
 * [FilmesPicos](http://www.filmesepicos.com/) - Movies
 * [TopDezFilmes](https://topdezfilmes.de/) - Movies
+* [Downloadcult](http://downloadcult.org/) - "Cult" Movies
 * [Anirrent](https://anirrent.fansubs.com.br/) - Anime
 * [Keroseed](https://www.keroseed.com/) - Anime
 * [AnskTracker](https://www.ansktracker.net/) - Anime WebIRC Tracker
