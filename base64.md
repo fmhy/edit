@@ -1097,12 +1097,6 @@ pass: paluch
 
 ***
 
-#### Malwarebytes Premium 
-
-`aHR0cHM6Ly9yZW50cnkuY28vbWFsd2FyZS1wcmVtIAoKaHR0cHM6Ly9yZW50cnkuY28vbWJmb3JldmVy`
-
-***
-
 #### Hitman Pro
 
 `aHR0cHM6Ly9maWxlY3IuY29tLz9zPUhpdG1hblBybw==`
