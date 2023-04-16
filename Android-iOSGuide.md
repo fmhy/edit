@@ -781,7 +781,7 @@
 * [SyncPlayer](https://github.com/mo3rfan/syncplayer) - Video Sync App
 * [Float Tube](https://play.google.com/store/apps/details?id=com.xpp.tubeAssistant) - Floating YouTube Player
 * [Great Courses Plus Premium](https://forum.mobilism.org/search.php?keywords=great+courses+plus&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - Courses
-* [Showly 2.0](https://github.com/michaldrabik/showly-2.0), [Cinexplore](https://fidloo.com/cinexplore/) or [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide/) - Movie / TV Tracker
+* [Showly 2.0](https://github.com/1RandomDev/showly-oss), [Cinexplore](https://fidloo.com/cinexplore/) or [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide/) - Movie / TV Tracker
 * [LikeWise](https://likewise.com/) - Media Recommendation App
 * [AnimePipe](https://github.com/InfinityLoop1308/AnimePipe) - Bilibili  / NicoNico Client
 * [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) or [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) - Bilibili Client
