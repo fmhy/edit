@@ -218,7 +218,7 @@
 * ⭐ **[Airsonic](https://airsonic.github.io/)** - [Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced) / [Advanced UI](https://github.com/tamland/airsonic-refix)
 * ⭐ **[koel](https://koel.dev/)** - [Docker](https://github.com/0xcaff/docker-koel)
 
-[mStream](https://mstream.io/), [Mopidy](https://mopidy.com/), [Fidbak](https://fidbak.audio/), [Madsonic](https://www.madsonic.org/pages/index.jsp), [Navidrome](https://www.navidrome.org/), [KooZic](https://koozic.net/), [Serviio](https://www.serviio.org/), [Polaris](https://github.com/agersant/polaris), [Echo](https://github.com/anhthii/Echo), [Black Candy](https://github.com/aidewoode/black_candy)
+[mStream](https://mstream.io/), [Mopidy](https://mopidy.com/), [Fidbak](https://fidbak.audio/), [Madsonic](https://www.madsonic.org/pages/index.jsp), [Navidrome](https://www.navidrome.org/), [KooZic](https://koozic.net/), [Serviio](https://www.serviio.org/), [Polaris](https://github.com/agersant/polaris), [Echo](https://github.com/anhthii/Echo), [Black Candy](https://github.com/blackcandy-org/black_candy)
 
 ***
 
@@ -252,7 +252,7 @@
 
 * ⭐ **[remove.bg](https://www.remove.bg/)** - [GIMP Plugin](https://github.com/manu12121999/RemoveBG-GIMP)
 
-[Remove BG](https://pixlr.com/remove-background/), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background), [Background Remover](https://icons8.com/bgremover), [Removal.AI](https://removal.ai/upload/), [Trace](https://www.stickermule.com/trace), [BackgroundCut](https://backgroundcut.co/), [Retoucher Online](https://retoucher.online/), [Erase.bg](https://www.erase.bg/en/upload), [FocoClipping](https://www.fococlipping.com/), [Fotor](https://www.fotor.com/features/background-remover), [Clipping Magic](https://clippingmagic.com/), [Bg Eraser](https://bgeraser.com/), [BgSub](https://bgsub.com/), [Background Remover AI](https://backgroundremover.app/)
+[Remove BG](https://pixlr.com/remove-background/), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background), [Background Remover](https://icons8.com/bgremover), [Removal.AI](https://removal.ai/upload/), [Trace](https://www.stickermule.com/trace), [BackgroundCut](https://backgroundcut.co/), [Retoucher Online](https://retoucher.online/), [Erase.bg](https://www.erase.bg/en/upload), [FocoClipping](https://www.fococlipping.com/), [Fotor](https://www.fotor.com/features/background-remover), [Clipping Magic](https://clippingmagic.com/), [Bg Eraser](https://bgeraser.com/), [BgSub](https://bgsub.com/), [Background Remover AI](https://backgroundremoverai.com/)
 
 ***
 
@@ -281,7 +281,7 @@
 * ⭐ **[WebOasis](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) - [Source Code](https://pastebin.com/CczqreS4)
 * ⭐ **[MONKNOW](https://www.monknow.com/)**
 
-[8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/), [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage), [StartTree](https://github.com/Paul-Houser/StartTree), [New Tab Addons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page), [Clippingmini](https://www.clippingmini.com/), [Draggo](http://draggo.com/), [Atavi](https://atavi.com/), [Homepage Ninja](https://homepage.ninja/), [Bookmarkee](https://www.bookmarkee.com/), [Pearltrees](https://www.pearltrees.com/), [Lasso](https://www.lasso.net/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/Harshit-T/nightly), [Protopage](https://www.protopage.com/)
+[8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/), [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage), [StartTree](https://github.com/Paul-Houser/StartTree), [New Tab Addons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page), [Clippingmini](https://www.clippingmini.com/), [Draggo](http://draggo.com/), [Atavi](https://atavi.com/), [Homepage Ninja](https://homepage.ninja/), [Bookmarkee](https://www.bookmarkee.com/), [Pearltrees](https://www.pearltrees.com/), [Lasso](https://www.lasso.net/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/)
 
 ***
 
@@ -297,7 +297,10 @@
 
 #### Bulk File Renamers
 
-[Advanced Renamer](https://www.advancedrenamer.com/), [theRenamer](http://therenamer.com/), [hydrus](https://hydrusnetwork.github.io/hydrus/), [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/), [Szyszka](https://github.com/qarmin/szyszka), [Massive File Renamer](https://github.com/IvanRF/MassiveFileRenamer), [Massren](https://github.com/laurent22/massren), [Renamer](https://github.com/Craftplacer/Renamer), [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename), [File Renamer Diff](https://github.com/soi013/FileRenamerDiff), [Ant Renamer](https://www.antp.be/software/renamer)
+* ⭐ **[Advanced Renamer](https://www.advancedrenamer.com/)**
+* ⭐ **[Bulk Rename Utility](https://www.bulkrenameutility.co.uk/)**
+
+[theRenamer](http://therenamer.com/), [Szyszka](https://github.com/qarmin/szyszka), [Massive File Renamer](https://github.com/IvanRF/MassiveFileRenamer), [Massren](https://github.com/laurent22/massren), [Renamer](https://github.com/Craftplacer/Renamer), [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename), [File Renamer Diff](https://github.com/soi013/FileRenamerDiff), [Ant Renamer](https://www.antp.be/software/renamer)
 
 ***
 
@@ -341,7 +344,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Clipboard Managers
 
-[ArsClip](http://www.joejoesoft.com/vcms/97/), [Ditto](https://ditto-cp.sourceforge.io/), [ClipboardMemo](https://gitlab.com/fabrom/clipboardmemo), [CopyQ](https://hluk.github.io/CopyQ/), [Free Clipboard Viewer](https://freeclipboardviewer.com/), [ClipAngel](https://sourceforge.net/projects/clip-angel/), [XClipper](https://github.com/KaustubhPatange/XClipper), [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots), [Clipboard Canvas](https://github.com/d2dyno1/ClipboardCanvas), [Xtra Clipboard](https://xtra-clipboard.com/), [Control V](https://ctrl.vi/), [Clipper](https://github.com/AkashRajpurohit/clipper)
+* ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)**
+
+[ArsClip](http://www.joejoesoft.com/vcms/97/), [ClipboardMemo](https://gitlab.com/fabrom/clipboardmemo), [CopyQ](https://hluk.github.io/CopyQ/), [Free Clipboard Viewer](https://freeclipboardviewer.com/), [ClipAngel](https://sourceforge.net/projects/clip-angel/), [XClipper](https://github.com/KaustubhPatange/XClipper), [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots), [Clipboard Canvas](https://github.com/d2dyno1/ClipboardCanvas), [Xtra Clipboard](https://xtra-clipboard.com/), [Control V](https://ctrl.vi/), [Clipper](https://github.com/AkashRajpurohit/clipper)
 
 ***
 
@@ -354,11 +359,11 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - [Docs](https://www.emacsdocs.org/)
 * ⭐ **[Bluefish](http://bluefish.openoffice.nl/index.html)** - [Templates](https://templates.openoffice.org/en)
 
-[CudaText](https://cudatext.github.io/), [Lapce](https://lapce.dev/), [SpaceVim](https://spacevim.org/), [Pulsar](https://pulsar-edit.dev/), [The Ultimate vimrc](https://github.com/amix/vimrc), [Vim](https://www.vim.org/), [Lite XL](https://lite-xl.com/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro](https://micro-editor.github.io/index.html), [Komodo Edit](https://github.com/Komodo/KomodoEdit), [Textadept](https://foicica.com/textadept), [Spacemacs](http://spacemacs.org/), [Notepad2](https://www.flos-freeware.ch/notepad2.html), [Sublime Text](https://www.sublimetext.com/), [Light Table](http://lighttable.com/), [4coder](https://mr-4th.itch.io/4coder), [Warp](https://www.warp.dev/), [Avalonia UI](https://avaloniaui.net/), [massCode](https://masscode.io/), [Amp](https://github.com/jmacdonald/amp), [Visual Studio Code](https://code.visualstudio.com/), [Graviton](https://graviton.netlify.app/), [BBEdit](http://www.barebones.com/), [Vim-LaTeX](http://vim-latex.sourceforge.net/), [ecode](https://github.com/SpartanJ/ecode)
+[CudaText](https://cudatext.github.io/), [Lapce](https://lapce.dev/), [SpaceVim](https://spacevim.org/), [Pulsar](https://pulsar-edit.dev/), [The Ultimate vimrc](https://github.com/amix/vimrc), [Vim](https://www.vim.org/), [Lite XL](https://lite-xl.com/), [Kakoune](http://kakoune.org/), [Brackets](http://brackets.io/), [Micro](https://micro-editor.github.io/index.html), [Komodo Edit](https://github.com/Komodo/KomodoEdit), [Textadept](https://orbitalquark.github.io/textadept/), [Spacemacs](http://spacemacs.org/), [Notepad2](https://www.flos-freeware.ch/notepad2.html), [Sublime Text](https://www.sublimetext.com/), [Light Table](http://lighttable.com/), [4coder](https://mr-4th.itch.io/4coder), [Warp](https://www.warp.dev/), [Avalonia UI](https://avaloniaui.net/), [massCode](https://masscode.io/), [Amp](https://github.com/jmacdonald/amp), [Visual Studio Code](https://code.visualstudio.com/), [Graviton](https://graviton.netlify.app/), [BBEdit](http://www.barebones.com/), [Vim-LaTeX](http://vim-latex.sourceforge.net/), [ecode](https://github.com/SpartanJ/ecode)
 
 **Online Code Editors**
 
-* ⭐ **[Sololearn](https://www.sololearn.com/)** - [Playground](https://code.sololearn.com/)
+* ⭐ **[Sololearn](https://www.sololearn.com/)** - [Playground](https://www.sololearn.com/compiler-playground/)
 
 [JSFiddle](https://jsfiddle.net/), [W3Schools' Tryit](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python), [Collabedit](http://collabedit.com/), [Portacode](https://portacode.com/), [Ideone](https://www.ideone.com/), [PlayCode](https://playcode.io/), [ObjGen](http://www.objgen.com/)
 
@@ -371,9 +376,11 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Coding Tutorials
 
+* ⭐ **[GeeksforGeeks](https://www.geeksforgeeks.org/)**
 * ⭐ **[W3Schools](https://www.w3schools.com/)** - [Offline Version](https://github.com/Ja7ad/W3Schools)
+* ⭐ **[Build your own X](https://github.com/codecrafters-io/build-your-own-x)**
 
-[RIP Tutorial](https://riptutorial.com/), [Programiz](https://www.programiz.com/), [GeeksforGeeks](https://www.geeksforgeeks.org/), [Python Tutor](https://pythontutor.com/), [calmcode](https://calmcode.io/), [Tuts 4 You](https://forum.tuts4you.com/), [Codelabs](https://codelabs.developers.google.com/), [Free Ebook Foundation's Interactive Programming Tutorials](https://github.com/EbookFoundation/free-programming-books/blob/master/more/free-programming-interactive-tutorials-en.md), [Nayuki](https://www.nayuki.io/), [ZetCode](https://zetcode.com/), [Xah Code](http://xahlee.info/index.html), [Codings Point](https://www.codingspoint.com/), [Hackr.io](https://hackr.io/), [Guru99](https://www.guru99.com/), [Use My Notes](https://usemynotes.com/), [Build your own X](https://github.com/danistefanovic/build-your-own-x), [Ultimate Programming All-in-One Tutorials](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE), [FreeCourseSite](https://freecoursesite.com/), [Project Based Learning](https://github.com/practical-tutorials/project-based-learning), [Javatpoint](https://www.javatpoint.com/), [Techno Smarter](https://technosmarter.com/)
+[RIP Tutorial](https://riptutorial.com/), [Programiz](https://www.programiz.com/), [Python Tutor](https://pythontutor.com/), [calmcode](https://calmcode.io/), [Tuts 4 You](https://forum.tuts4you.com/), [Codelabs](https://codelabs.developers.google.com/), [Free Ebook Foundation's Interactive Programming Tutorials](https://ebookfoundation.github.io/free-programming-books/), [Nayuki](https://www.nayuki.io/), [ZetCode](https://zetcode.com/), [Xah Code](http://xahlee.info/index.html), [Codings Point](https://www.codingspoint.com/), [Hackr.io](https://hackr.io/), [Guru99](https://www.guru99.com/), [Use My Notes](https://usemynotes.com/), [Ultimate Programming All-in-One Tutorials](https://www.codebreakthrough.com/ultimate-programming-all-in-one-tutorials?coupon=LEARNFORFREE), [FreeCourseSite](https://freecoursesite.com/), [Project Based Learning](https://github.com/practical-tutorials/project-based-learning), [Javatpoint](https://www.javatpoint.com/), [Techno Smarter](https://technosmarter.com/)
 
 ***
 
@@ -383,15 +390,15 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ***
 
-#### Collaboration Platforms
+#### Color Pickers
 
-[Doozy](https://doozy.live/), [Zulip](https://zulip.com/), [Miro](https://miro.com/), [Mattermost](https://mattermost.org/), [Twake](https://twake.app/), [Asana](https://asana.com/), [Freedcamp](https://freedcamp.com/), [Lumeer](https://www.lumeer.io/), [Slab](https://slab.com/), [TipiCalls](https://tipicalls.com/), [Focalboard](https://www.focalboard.com/), [WeKan](https://wekan.github.io/), [Kanboard](https://kanboard.org/), [Skiff](https://skiff.com/), [Mural](https://www.mural.co/), [Dendron](https://www.dendron.so/), [Lucidchart](https://www.lucidchart.com/), [Trello](https://trello.com/), [Planka](https://planka.app/), [Taskcafe](https://github.com/JordanKnott/taskcafe), [Room](https://room.sh/), [Atlassian](https://www.atlassian.com/), [linear](https://linear.app/)
+[Colordot](http://color.hailpixel.com/), [Sorted CSS Colors](https://enes.in/sorted-colors/), [Chroma](https://chroma.spencerhamm.com/), [Adobe Color](https://color.adobe.com/explore), [Color Deck](https://color.obscuredetour.com/), [ColorKit](https://colorkit.io/), [Colorpicker](https://colorpicker.fr/), [Culrs](https://www.culrs.com/), [COLORWISE](https://colorwise.io/), [Geenes](https://geenes.app/welcome), [Image Color Picker](https://www.appypie.com/design/image-color-picker/), [Instant Eyedropper](http://instant-eyedropper.com/), [Khroma](http://khroma.co/), [Just Color Picker](https://annystudio.com/software/colorpicker/), [Material Design Palette Generator](https://materialpalettes.com/), [Picular](https://picular.co/), [React Color](http://casesandberg.github.io/react-color/), [Leonardo](https://leonardocolor.io/), [Colors](http://clrs.cc/a11y/), [Color Picker](https://imagecolorpicker.com/), [cccolor](https://fffuel.co/cccolor/), [instant-eyedropper](https://github.com/miaupaw/instant-eyedropper), [ColorKit's Color Picker](https://colorkit.co/color-picker/), [epick](https://github.com/vv9k/epick), [Pixie](http://www.nattyware.com/pixie.php)
 
 ***
 
-#### Color Pickers
+#### Collaboration Platforms
 
-[Colordot](http://color.hailpixel.com/), [Sorted CSS Colors](https://enes.in/sorted-colors/), [Chroma](https://chroma.spencerhamm.com/), [Adobe Color](https://color.adobe.com/explore), [Color Deck](https://color.obscuredetour.com/), [ColorKit](https://colorkit.io/), [Colorpicker](https://colorpicker.fr/), [Culrs](https://www.culrs.com/), [COLORWISE](https://colorwise.io/), [Geenes](https://geenes.app/welcome), [Image Color Picker](https://image-color.com/), [Instant Eyedropper](http://instant-eyedropper.com/), [Khroma](http://khroma.co/), [Just Color Picker](https://annystudio.com/software/colorpicker/), [Material Design Palette Generator](https://materialpalettes.com/), [Picular](https://picular.co/), [React Color](http://casesandberg.github.io/react-color/), [Leonardo](https://leonardocolor.io/), [Colors](http://clrs.cc/a11y/), [Color Picker](https://imagecolorpicker.com/), [cccolor](https://fffuel.co/cccolor/), [instant-eyedropper](https://github.com/miaupaw/instant-eyedropper), [ColorKit's Color Picker](https://colorkit.co/color-picker/), [epick](https://github.com/vv9k/epick), [Pixie](http://www.nattyware.com/pixie.php)
+[Doozy](https://doozy.live/), [Zulip](https://zulip.com/), [Miro](https://miro.com/), [Mattermost](https://mattermost.com/), [Twake](https://twake.app/), [Asana](https://asana.com/), [Freedcamp](https://freedcamp.com/), [Lumeer](https://www.lumeer.io/), [Slab](https://slab.com/), [TipiCalls](https://tipicalls.com/), [Focalboard](https://www.focalboard.com/), [WeKan](https://wekan.github.io/), [Kanboard](https://kanboard.org/), [Skiff](https://skiff.com/), [Mural](https://www.mural.co/), [Dendron](https://www.dendron.so/), [Lucidchart](https://www.lucidchart.com/), [Trello](https://trello.com/), [Planka](https://planka.app/), [Taskcafe](https://github.com/JordanKnott/taskcafe), [Room](https://room.sh/), [Atlassian](https://www.atlassian.com/), [linear](https://linear.app/)
 
 ***
 
@@ -432,7 +439,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ⭐ **[Ben Dodson](https://bendodson.com/projects/itunes-artwork-finder/)**, [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/)
 
-[The Poster Database](https://theposterdb.com/), [Cover Century](https://www.covercentury.com/), [covrik](http://www.covrik.com/), [DVD Covers](https://www.dvd-covers.org/), [Cover Addict VIP](https://www.cover-addict.com/), [Gaming Alexandria](https://www.gamingalexandria.com/), [POSTER-MAN](http://www.poster-man.com/), [dlhCollections](https://www.dlhcollections.com/index.html), [The Poster Collector](https://postercollector.co.uk/), [Movie Posters Gallery](https://www.moviepostersgallery.com/), [Film on Paper](https://www.filmonpaper.com/blog/), [GameTDB](https://www.gametdb.com/), [JoBlo](https://www.joblo.com/movie-posters/), [/r/MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/), [andydecarli](http://andydecarli.com/Video%20Games/Collection/), [IMP Awards](http://www.impawards.com/), [Moviemania](https://www.moviemania.io/), [Fanart](https://fanart.tv/)
+[The Poster Database](https://theposterdb.com/), [Cover Century](https://www.covercentury.com/), [covrik](http://www.covrik.com/), [DVD Covers](https://www.dvd-covers.org/), [Cover Addict VIP](https://coveraddictvip.xyz/), [Gaming Alexandria](https://www.gamingalexandria.com/), [POSTER-MAN](http://www.poster-man.com/), [dlhCollections](https://www.dlhcollections.com/index.html), [The Poster Collector](https://postercollector.co.uk/), [Movie Posters Gallery](https://www.moviepostersgallery.com/), [Film on Paper](https://www.filmonpaper.com/blog/), [GameTDB](https://www.gametdb.com/), [JoBlo](https://www.joblo.com/movie-posters/), [/r/MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/), [andydecarli](http://andydecarli.com/Video%20Games/Collection/), [IMP Awards](http://www.impawards.com/), [Moviemania](https://www.moviemania.io/), [Fanart](https://fanart.tv/)
 
 **Album Art**
 
@@ -447,7 +454,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ⭐ **[Tabiverse](https://tabiverse.com/)** - Universe New Tab Page / [Discord](https://discord.gg/MUgRGwE)
 * ⭐ **[Tab with A view](https://www.withaview.co/ext/)** - Virtual Sights New Tab Page
-* ⭐ **[MineWeather](https://github.com/sawyerpollard/Minecraft-Weather-New-Tab)** - Weather-Based Minecraft New Tab Page
+* ⭐ **[MineWeather](https://github.com/sawyerpollard/MineWeather)** - Weather-Based Minecraft New Tab Page
 
 [Minimal Startpage](https://github.com/deepjyoti30/startpage), [nightTab](https://github.com/zombieFox/nightTab), [hexagonTab](https://github.com/zombieFox/hexagonTab), [CaretTab](https://www.carettab.com/), [mesmerized](https://mesmerized.me/), [Bonjourr](https://bonjourr.fr/), [Perfect Home](https://github.com/perfect-things/perfect-home), [Yet Another Speed Dial](https://github.com/conceptualspace/yet-another-speed-dial), [Tabliss](https://tabliss.io/), [Epiboard](https://github.com/Alexays/Epiboard), [Infinity New Tab](https://en.infinitynewtab.com/), [b2ntp](https://d3ward.github.io/b2ntp/), [Terminal-style new tab page](https://github.com/midnitefox/Nord-Theme-Ports-and-Assets/tree/main/custom-start-page)
 
@@ -455,7 +462,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Custom Rich Discord Presence
 
-[CustomRP](https://www.customrp.xyz/), [CustomDiscordRPC](https://github.com/PryosCode/CustomDiscordRPC), [DiscordRPCMaker](https://drpcm.t1c.dev/)
+[CustomRP](https://www.customrp.xyz/), [CustomDiscordRPC](https://github.com/hohltier/CustomDiscordRPC), [DiscordRPCMaker](https://drpcm.t1c.dev/)
 
 ***
 
@@ -493,7 +500,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ⭐ **[Design Resources](https://rentry.co/dt92f)**
 
-[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [IM Creator](http://www.imcreator.com/free), [Design Bundles](https://designbundles.net/free-design-resources), [Design Resources](https://designresourc.es/), [PSDDD.co](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [Sketch Repo](https://sketchrepo.com/), [Interfacer](https://interfacer.xyz/), [Freebiesbug](http://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Envato Elements Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#envato-elements-collection), [Creative Fabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/), [Evernote.Design](https://www.evernote.design/), [GFXTRA](https://www.gfxtra31.com/), [XSGames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [UI STORE DESIGN](https://www.uistore.design/), [Charco](https://www.charco.design/), [Craftwork](https://craftwork.design/freebies/), [Pixelbuddha](https://pixelbuddha.net/), [squax](https://t.me/squaxassets), [𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕](https://t.me/designlabb), [all 4 designer](https://t.me/all4designer), [Kropes Leaking Server](https://discord.gg/bMmqQdXAhp), [Gift4Designer](https://gift4designer.net/), [GFXMountain](http://gfxmountain.com/), [Buckets Of Bookmarks](https://buckets-of-bookmarks.daniebeler.com/)
+[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers), [Freebies.ByPeople](http://freebies.bypeople.com/), [IM Creator](http://www.imcreator.com/free), [Design Bundles](https://designbundles.net/free-design-resources), [Design Resources](https://designresourc.es/), [PSDDD.co](https://psddd.co/), [GraphicBurger](https://graphicburger.com/), [GraphicsFuel](https://www.graphicsfuel.com/), [Pixeden](https://www.pixeden.com/), [Sketch Repo](https://sketchrepo.com/), [Interfacer](https://interfacer.xyz/), [Freebiesbug](http://freebiesbug.com/), [Sketch App Sources](https://www.sketchappsources.com/), [FreebiesUI](https://freebiesui.com/), [Envato Elements Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#envato-elements-collection), [Creative Fabrica](https://www.creativefabrica.com/freebies/), [Toools.design](https://www.toools.design/), [Evernote.Design](https://www.evernote.design/), [GFXTRA](https://www.gfxtra31.com/), [XSGames](https://xsgames.co/devassets/), [design.dev](https://design.dev/), [UI STORE DESIGN](https://www.uistore.design/), [Charco](https://www.charco.design/), [Craftwork](https://craftwork.design/downloads/category/freebies/), [Pixelbuddha](https://pixelbuddha.net/), [squax](https://t.me/squaxassets), [𝖌𝖗𝖕𝖍𝖈 𝖉𝖘𝖌𝖓 𝖇𝖆𝖈𝖐𝖚𝖕](https://t.me/designlabb), [all 4 designer](https://t.me/all4designer), [Kropes Leaking Server](https://discord.gg/bMmqQdXAhp), [Gift4Designer](https://gift4designer.net/), [GFXMountain](http://gfxmountain.com/), [Buckets Of Bookmarks](https://buckets-of-bookmarks.daniebeler.com/)
 
 ***
 
@@ -539,13 +546,13 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ⭐ **[WizTree](https://www.diskanalyzer.com/)**
 
-[WinDirStat](https://windirstat.net/), [HDSentinel](https://www.hdsentinel.com/), [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/), [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/), [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html), [Gdu](https://github.com/dundee/gdu), [dua](https://github.com/Byron/dua-cli), [SpaceRadar](https://github.com/zz85/space-radar), [Diskovery](https://diskovery.io/), [DiskInfo](https://github.com/DiskTools/DiskInfo), [Erdtree](https://github.com/solidiquis/erdtree)
+[WinDirStat](https://windirstat.net/), [HDSentinel](https://www.hdsentinel.com/), [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/), [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html), [Gdu](https://github.com/dundee/gdu), [dua](https://github.com/Byron/dua-cli), [SpaceRadar](https://github.com/zz85/space-radar), [Diskovery](https://diskovery.io/), [DiskInfo](https://github.com/DiskTools/DiskInfo), [Erdtree](https://github.com/solidiquis/erdtree)
 
 ***
 
 #### DNS Filters
 
-[1Hosts](https://o0.pages.dev/), [DNS for Family](https://dnsforfamily.com/), [CleanBrowsing](https://cleanbrowsing.org/filters/), [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter/), [hBlock](https://github.com/hectorm/hblock), [how to make the internet not suck (as much)](https://someonewhocares.org/hosts/), [MVPS HOSTS](https://winhelp2002.mvps.org/hosts.htm), [Hosts File Aggregator](https://github.com/StevenBlack/hosts), [Spamhaus](https://www.spamhaus.org/), [NxFilter](https://nxfilter.org/), [dns-blocklists](https://github.com/hagezi/dns-blocklists)
+[1Hosts](https://o0.pages.dev/), [DNS for Family](https://dnsforfamily.com/), [CleanBrowsing](https://cleanbrowsing.org/filters/), [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/), [hBlock](https://github.com/hectorm/hblock), [how to make the internet not suck (as much)](https://someonewhocares.org/hosts/), [MVPS HOSTS](https://winhelp2002.mvps.org/hosts.htm), [Hosts File Aggregator](https://github.com/StevenBlack/hosts), [Spamhaus](https://www.spamhaus.org/), [NxFilter](https://nxfilter.org/), [dns-blocklists](https://github.com/hagezi/dns-blocklists)
 
 ***
 
@@ -567,7 +574,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### DOS Games
 
-[DOS Games Archive](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS HAVEN](http://www.doshaven.eu/), [The Software Library](https://archive.org/details/softwarelibrary_msdos), [Best Old Games](http://www.bestoldgames.net/eng/), [DOSGames](https://dosgames.com/), [PlayDOSGames](https://www.playdosgames.com/), [RGB Classic Games](https://www.classicdosgames.com/), [Abandonware DOS](https://www.abandonwaredos.com/),
+[DOS Games Archive](https://www.dosgamesarchive.com/), [DOSBox](https://www.dosbox.com/), [DOS HAVEN](http://www.doshaven.eu/), [The Software Library](https://archive.org/details/softwarelibrary_msdos), [Best Old Games](http://www.bestoldgames.net/), [DOSGames](https://dosgames.com/), [PlayDOSGames](https://www.playdosgames.com/), [RGB Classic Games](https://www.classicdosgames.com/), [Abandonware DOS](https://www.abandonwaredos.com/),
 [Online DOS games](https://dos.zczc.cz/)
 
 ***
@@ -583,7 +590,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Drive Formatting / File Deletion
 
-[Eraser](https://eraser.heidi.ie/), [File Shredder](https://fileshredder.org/), [SDelete](https://learn.microsoft.com/sysinternals/downloads/sdelete), [Lethe](https://github.com/rafael-santiago/lethe), [ATS File Shredder](http://www.atomtechsoft.com/file-shredder-tool.html), [WIPERAPP](https://www.wiperapp.eu/), [O&O FileErase](https://www.oo-software.com/en/products/oofileerase), [Blancco Drive Eraser](https://www.blancco.com/products/drive-eraser/), [Permanent Delete](http://www.puransoftware.com/Permanent-Delete.html), [UltraShredder](https://www.majorgeeks.com/files/details/ultrashredder.html), [Easy File Shredder](https://patoghu.com/gonagon/usefull_tool/17305-easy-file-shredder.html), [HDShredder](https://www.miray-software.com/products/applications/hdshredder.html#), [Permanent Eraser](http://www.edenwaith.com/products/permanent%20eraser), [SSuite File Shredder and Burner](https://www.ssuiteoffice.com/software/ssuitefileshredder.htm), [Low Level Format](http://www.lowlevelformat.info/), [Zer0](http://kcsoftwares.com/index.php?zero), [Alternate File Shredder](http://www.alternate-tools.com/pages/c_fileshredder.php?lang=ENG), [Permadelete](https://developerstree.github.io/permadelete/)
+[Eraser](https://eraser.heidi.ie/), [File Shredder](https://fileshredder.org/), [SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete), [Lethe](https://github.com/rafael-santiago/lethe), [ATS File Shredder](http://www.atomtechsoft.com/file-shredder-tool.html), [WIPERAPP](https://www.wiperapp.eu/), [O&O FileErase](https://www.oo-software.com/en/products/oofileerase), [Permanent Delete](http://www.puransoftware.com/Permanent-Delete.html), [UltraShredder](https://www.majorgeeks.com/files/details/ultrashredder.html), [Easy File Shredder](https://patoghu.com/gonagon/usefull_tool/17305-easy-file-shredder.html), [HDShredder](https://www.miray-software.com/products/applications/hdshredder.html#), [Permanent Eraser](http://www.edenwaith.com/products/permanent%20eraser), [SSuite File Shredder and Burner](https://www.ssuiteoffice.com/software/ssuitefileshredder.htm), [Low Level Format](http://www.lowlevelformat.info/), [Zer0](http://kcsoftwares.com/index.php?zero), [Alternate File Shredder](http://www.alternate-tools.com/pages/c_fileshredder.php?lang=ENG), [Permadelete](https://developerstree.github.io/permadelete/)
 
 ***
 
@@ -635,15 +642,15 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ⭐ **[Signal](https://github.com/mollyim/mollyim-android)**, [2](https://langis.cloudfrancois.fr/), [3](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms), [4](https://getsession.org/), [5](https://www.twinhelix.com/apps/signal-foss/)
 
-[Status](https://status.im/), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [Anonymous Messenger](https://f-droid.org/en/packages/com.dx.anonymousmessenger/), [ChatSecure](https://ballinger.io/apps/chatsecure/), [Snikket](https://www.f-droid.org/en/packages/org.snikket.android/), [RetroShare](https://f-droid.org/en/packages/org.retroshare.android.qml_app/), [BiP](https://bip.com/en/), [Olvid](https://olvid.io/en/), [Berty](https://berty.tech/), [OpenKeychain](https://www.openkeychain.org/), [Dust](https://www.usedust.com/), [NewNode](https://newnode.com/), [Kontalk](https://www.kontalk.org/), [Wire](https://f-droid.org/en/packages/com.wire/)
+[Status](https://status.im/), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [Anonymous Messenger](https://anonymousmessenger.ly/), [ChatSecure](https://ballinger.io/apps/chatsecure/), [Snikket](https://github.com/snikket-im/snikket-android), [RetroShare](https://retroshare.cc/), [BiP](https://bip.com/en/), [Olvid](https://olvid.io/en/), [Berty](https://berty.tech/), [OpenKeychain](https://www.openkeychain.org/), [Dust](https://www.usedust.com/), [NewNode](https://newnode.com/), [Kontalk](https://www.kontalk.org/), [Wire](https://wire.com/en/download/)
 
 ***
 
 #### Encrypted Email Services
 
-* ⭐ **[Proton Mail](https://protonmail.com/)** - [Desktop Client](https://github.com/Steccas/ProtonClient)
+* ⭐ **[Proton Mail](https://proton.me/mail)** - [Desktop Client](https://github.com/Steccas/ProtonClient)
 
-[Enigmail](https://www.enigmail.net/index.php/en/), [PrivateMail](https://privatemail.com/), [ShazzleMail](https://shazzlemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [Tildamail](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [Tutanota](https://tutanota.com/), [GMX](https://www.gmx.com/), [Neomailbox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [Mailpile](https://www.mailpile.is/), [MsgSafe.io](https://www.msgsafe.io/), [SecureNym](http://www.securenym.net), [OnMail](https://www.onmail.com/), [Skiff Mail](https://skiff.org/mail), [Dark Net Mail Exchange](https://dnmx.org/)
+[Enigmail](https://www.enigmail.net/index.php/en/), [PrivateMail](https://privatemail.com/), [ShazzleMail](https://shazzlemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [Tildamail](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [Tutanota](https://tutanota.com/), [GMX](https://www.gmx.com/), [Neomailbox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [Mailpile](https://www.mailpile.is/), [MsgSafe.io](https://www.msgsafe.io/), [SecureNym](http://www.securenym.net), [OnMail](https://www.onmail.com/), [Skiff Mail](https://skiff.com/mail), [Dark Net Mail Exchange](https://dnmx.org/)
 
 ***
 
@@ -663,7 +670,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Encrypted XMPP Servers
 
-[Server List](https://xmpp-servers.404.city/), [Creep](https://creep.im/), [Hot Chilli](https://www.hot-chilli.eu/jabber/), [XMPP.jp](https://xmpp.jp/) / [xmpp.is](https://xmpp.is/), [dismail](https://dismail.de/), [blah](https://blah.im/), [xabber](https://www.xabber.com/), [Gajim](https://gajim.org/), [404.city](http://404.city/)
+[Server List](https://xmpp.404.city/), [Creep](https://creep.im/), [Hot Chilli](https://www.hot-chilli.eu/jabber/), [XMPP.jp](https://xmpp.jp/) / [xmpp.is](https://xmpp.is/), [dismail](https://dismail.de/), [blah](https://blah.im/), [xabber](https://www.xabber.com/), [Gajim](https://gajim.org/), [404.city](http://404.city/)
 
 ***
 
@@ -671,7 +678,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ⭐ **[Penguin](https://github.com/carsonip/Penguin-Subtitle-Player)**
 
-[Subtitle-Buddy](https://github.com/vincemann/Subtitle-Buddy), [Greenfish](https://www.softpedia.com/get/Multimedia/Video/Other-VIDEO-Tools/Greenfish-Subtitle-Player.shtml), [SRTViewer](https://sourceforge.net/projects/srtviewer/), [SubtitlePlayer](https://sourceforge.net/projects/subtitleplayer/), [JustSubsPlayer](https://archive.codeplex.com/?p=justsubsplayer), [FreeSubtitlePlayer](https://sourceforge.net/projects/freesubtitleplayer/)
+[Subtitle-Buddy](https://github.com/vincemann/Subtitle-Buddy), [Greenfish](https://www.softpedia.com/get/Multimedia/Video/Other-VIDEO-Tools/Greenfish-Subtitle-Player.shtml), [SubtitlePlayer](https://sourceforge.net/projects/subtitleplayer/), [FreeSubtitlePlayer](https://sourceforge.net/projects/freesubtitleplayer/)
 
 ***
 
@@ -710,7 +717,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Fun Indexes
 
-[Neal.fun](https://neal.fun/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](http://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](http://www.thisismywebsitenow.com/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](http://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://www.chromeexperiments.com/), [0x2a](https://0x2a.re/), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [Drunk Men Work Here](http://www.drunkmenworkhere.org/archive), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/)
+[Neal.fun](https://neal.fun/), [AIDN](https://aidn.jp/), [Neave](https://codepen.io/neave) / [2](https://neave.com/), [BoredHumans](http://boredhumans.com/), [puissant](https://sandwichpuissant.net/), [ThisIsMyWebsiteNow](http://www.thisismywebsitenow.com/), [Mr.doob](https://mrdoob.com/), [Bimble Space](https://in.bimble.space/toys), [Creative Tech Guy](https://creativetechguy.com/), [Just For Fun](https://justforfun.io/), [Andrew Marsh](http://andrewmarsh.com/software), [JenniferDewalt](https://jenniferdewalt.com/), [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome), [0x2a](https://0x2a.re/), [yezi](https://yezi.itch.io/), [topster](https://topster.net/), [p5aholic](https://experiments.p5aholic.me/), [vole.wtf](https://vole.wtf/), [Drunk Men Work Here](http://www.drunkmenworkhere.org/archive), [WilliamHoza](https://williamhoza.com/misc/), [Rinkworks](http://www.rinkworks.com/)
 
 ***
 
@@ -727,7 +734,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * https://dynu.com/
 * https://blog.uncensoreddns.org/dns-servers/
 * https://publicdnsserver.com/
-* https://wiki.ipfire.org/dns/public-servers
 * https://www.1984.is/product/freedns/
 * https://www.namecheap.com/domains/freedns/
 * https://zilore.com/en/dns
@@ -780,7 +786,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * https://www.fastssh.com/
 * https://sharevpn.org/
 * https://www.mytunneling.com/
-* https://www.jrtunnel.com/
+* https://createssh.net/
 * https://opentunnel.net/
 * https://howdy.id/
 
@@ -795,7 +801,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[workers.dev](https://workers.cloudflare.com/)**
 * ⭐ **[pages.cloudflare](https://pages.cloudflare.com/)**
 
-[profreehost](https://profreehost.com/), [000webhost](https://www.000webhost.com/), [infinityfree](https://infinityfree.net/), [openshift](https://www.openshift.com/), [vercel](https://vercel.com/) /  [2](https://vercel.app/), [openode](https://github.com/openode-io), [cloudaccess](https://www.cloudaccess.net/), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [coolify](https://coolify.io/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [webs](https://www.webs.com/), [weebly](https://www.weebly.com/in), [yola](https://www.yola.com/), [wordpress](https://wordpress.com/) / [2](https://wordpress.org/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [hubzilla](https://zotlabs.org/page/zotlabs/home), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [tilda](https://tilda.cc/), [paiza.cloud](https://paiza.cloud/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [repl.it](https://docs.replit.com/hosting/hosting-web-pages), [render](https://render.com/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [freehosting](https://freehosting.host/), [freewebhostingarea](https://www.freewebhostingarea.com/), [freenom](http://freenom.com/) / [Script](https://github.com/mkorthof/freenom-script), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [fanspace](http://www.fanspace.com/), [dotera](https://dotera.net/), [fc2](https://web.fc2.com/en/), [w3schools](https://www.w3schools.com/spaces/), [freehostia](https://www.freehostia.com/), [olitt](https://www.olitt.com/), [uhostfull](https://www.uhostfull.com/), [x10hosting](https://x10hosting.com/), [lenyxo](https://lenyxo.com/freehosting/), [yunohost](https://yunohost.org/), [1freehosting](https://www.1freehosting.net/), [5gb.club](http://www.5gb.club/free-hosting.php?i=1), [ultifreehosting](https://ultifreehosting.com/), [aeonfree](https://aeonfree.com/), [bravenet](https://www.bravenet.com/), [atspace](https://www.atspace.com/), [aava](https://aava.dy.fi/)
+[profreehost](https://profreehost.com/), [000webhost](https://www.000webhost.com/), [infinityfree](https://infinityfree.net/), [openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift), [vercel](https://vercel.com/), [openode](https://github.com/openode-io), [cloudaccess](https://www.cloudaccess.net/), [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/index.html), [glitch](https://glitch.com/), [biz.nf](https://www.biz.nf/), [coolify](https://coolify.io/), [wix](https://www.wix.com/), [byet.host](https://byet.host/free-hosting), [webs](https://www.webs.com/), [weebly](https://www.weebly.com/in), [yola](https://www.yola.com/), [wordpress](https://wordpress.com/) / [2](https://wordpress.org/), [jimdo](https://www.jimdo.com/), [awardspace](https://www.awardspace.com/), [pythonanywhere](https://www.pythonanywhere.com/), [droppages](https://droppages.com/), [Zeronet](https://cheapskatesguide.org/articles/zeronet-site.html), [Zeronet 2](https://zeronet.io/docs/site_development/getting_started/), [ibm cloud](https://www.ibm.com/cloud/free), [hubzilla](https://zotlabs.org/page/zotlabs/home), [site123](https://www.site123.com/), [hostbreak](https://hostbreak.com/web-hosting/free), [tilda](https://tilda.cc/), [paiza.cloud](https://paiza.cloud/), [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/), [repl.it](https://docs.replit.com/hosting/hosting-web-pages), [render](https://render.com/), [Fleek](https://fleek.co/), [stormkit](https://www.stormkit.io/), [freehosting](https://freehosting.host/), [freewebhostingarea](https://www.freewebhostingarea.com/), [freenom](http://freenom.com/) / [Script](https://github.com/mkorthof/freenom-script), [milkshake](https://milkshake.app/), [ikoula](https://www.ikoula.com/), [fanspace](http://www.fanspace.com/), [dotera](https://dotera.net/), [fc2](https://web.fc2.com/en/), [w3schools](https://www.w3schools.com/spaces/), [freehostia](https://www.freehostia.com/), [olitt](https://www.olitt.com/), [uhostfull](https://www.uhostfull.com/), [x10hosting](https://x10hosting.com/), [lenyxo](https://lenyxo.com/freehosting/), [yunohost](https://yunohost.org/), [1freehosting](https://www.1freehosting.net/), [5gb.club](http://www.5gb.club/free-hosting.php?i=1), [ultifreehosting](https://ultifreehosting.com/), [aeonfree](https://aeonfree.com/), [bravenet](https://www.bravenet.com/), [atspace](https://www.atspace.com/), [aava](https://aava.dy.fi/)
 
 ***
 
