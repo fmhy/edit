@@ -384,7 +384,6 @@
 * ⭐ **[KimCartoon](https://kimcartoon.li/)**
 * ⭐ **[KissCartoon](https://kisscartoon.help/)**
 * [TopCartoons](https://www.topcartoons.tv/)
-* [WatchCartoonOnline](https://watchcartoononline.bz/)
 * [KissCartoon.info](https://kisscartoon.info/) - Anime / Cartoons
 * [Kimcartoon.si](https://kimcartoon.si/) - Anime / Cartoons
 * [Anime World India](https://anime-world.in/) - Anime / Cartoons / [Discord](https://discord.com/invite/c3ete48q8H)
