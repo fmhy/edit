@@ -881,8 +881,8 @@
 * [MangaHere](http://www.mangahere.cc)
 * [MangaNelo](https://m.manganelo.com/wwww), [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/)
 * [MangaFire](https://mangafire.to/)
-* [MangaReader](https://mangareader.to/)
 * [BATO.TO](https://bato.to/), [2](https://battwo.com/) - [Discord](https://discord.gg/7NBwcBsDph) / [Proxy](https://batotoo.com/)
+* [MangaReader](https://mangareader.to/)
 * [TCB Scans](https://onepiecechapters.com/)
 * [Atsumaru](https://atsu.moe/) - [Discord](https://discord.gg/Tj4QmEF4uV)
 * [MangaHub](https://mangahub.io/)
@@ -933,7 +933,7 @@
 * [mangapill](https://mangapill.com/)
 * [projectsuki](https://projectsuki.com/)
 * [NineAnime](https://www.nineanime.com/category/)
-* * [Anime-Sharing](http://www.anime-sharing.com/forum/) - Anime / Manga Download Forum
+* [Anime-Sharing](http://www.anime-sharing.com/forum/) - Anime / Manga Download Forum
 * [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
 * [WhereCanIReadManga?](https://wherecanireadmanga.com/) - Legal
 * [Raw Manga Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng#wiki_.25B7_reading10) - Japanese Manga Sites
