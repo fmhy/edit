@@ -114,9 +114,6 @@
 * [FOSSTorrents](https://fosstorrents.com/) - FOSS Software / Games
 * [BitLord Power Search](http://85.143.175.243/) - BitLord Browser Search 
 * [Tigole](https://infogalactic.com/info/Tigole#Getting_Tigole_torrents) - Torrent Index
-* [Prog-Top](https://prog-top.net/) - Software
-* [Fost.ws](https://fost.ws/) - Software / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [AudioNews](https://audionews.org/) - Audio Software 
 * [Telegram Torrents](https://duckduckgo.com/?q=site%3At.me+torrent&ia=web) - Telegram Torrent Channels
 * [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/) - [ZeroNet Required](https://zeronet.io/) / Video / Audio / Software / Games
 * [4chan /t/](https://boards.4chan.org/t/) - Torrents / Imageboard / Some NSFW 
