@@ -861,7 +861,7 @@
 
 * ⭐ **[MangaDex](https://mangadex.org/)** - [Downloader](https://github.com/mansuf/mangadex-downloader) / [Script](https://github.com/frozenpandaman/mangadex-dl) 
 * ⭐ **[MangaSee](https://mangasee123.com/)**, [2](https://manga4life.com/)- Official Translations
-* ⭐ **[ComicK](https://comick.app/)**
+* ⭐ **[ComicK](https://comick.app/)** - [Discord](https://discord.gg/comick)
 * ⭐ **[MangaReader](https://mangareader.to/)**
 * ⭐ **[MangaNelo](https://m.manganelo.com/wwww)**, [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/)
 * ⭐ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)** - Read / Organize Manga
