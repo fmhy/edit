@@ -861,30 +861,32 @@
 
 * ⭐ **[MangaDex](https://mangadex.org/)** - [Downloader](https://github.com/mansuf/mangadex-downloader) / [Script](https://github.com/frozenpandaman/mangadex-dl) 
 * ⭐ **[ComicK](https://comick.app/)** - [Discord](https://discord.gg/comick)
-* ⭐ **[MangaSee](https://mangasee123.com/)**, [2](https://manga4life.com/)- Official Translations
-* ⭐ **[MangaFire](https://mangafire.to/)**
-* ⭐ **[MangaReader](https://mangareader.to/)**
-* ⭐ **[MangaNelo](https://m.manganelo.com/wwww)**, [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/)
+* ⭐ **[MangaSee](https://mangasee123.com/)**, [2](https://manga4life.com/)
+* ⭐ **[MangaPark](https://mangapark.net/)**
+* ⭐ **[MangaKatana](https://mangakatana.com/)**
+* ⭐ **[Cubari Proxy](https://proxy.cubari.moe/)** - Web Client that Scrapes Multiple Sites / [Discord](https://discord.com/invite/SavdUC45MS)
 * ⭐ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)** - Read / Organize Manga
-* ⭐ **[Manga Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_download_bots)** - Bots that Download Manga
+* ⭐ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)** - Apps to Download Manga
 * ⭐ **[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
-* ⭐ **[The Index](https://theindex.moe)**, [WEEB wiki](https://weeb.pages.dev/) or [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - Japanese Media Indexes / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
+* ⭐ **[The Index](https://theindex.moe)** - Japanese Media Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
+* ⭐ **[Wotaku](https://wotaku.pages.dev/)** - Japanese Media Wiki
 * [MangaPiracy](https://discord.gg/ZgMtAyxFSU) - Manga Piracy Server / [Subreddit](https://reddit.com/r/MangaPiracy)
-* [Anime-Sharing](http://www.anime-sharing.com/forum/) - Anime / Manga Download Forum
-* [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [Mangadex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [Madokami Manga Archive](https://github.com/nbats/FMHYedit/blob/main/base64.md#madokami)
 * [The Manga Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#the-manga-library)
 * [BookDL Comic & Manga](https://github.com/nbats/FMHYedit/blob/main/base64.md#booksdl)
 * [pptenshi](https://github.com/nbats/FMHYedit/blob/main/base64.md#pptenshi)
 * [GoIndex](https://github.com/nbats/FMHYedit/blob/main/base64.md#goindex)
+* [MangaBuddy](https://mangabuddy.com)
 * [MangaHere](http://www.mangahere.cc)
+* [MangaNelo](https://m.manganelo.com/wwww), [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/)
+* [MangaFire](https://mangafire.to/)
 * [BATO.TO](https://bato.to/), [2](https://battwo.com/) - [Discord](https://discord.gg/7NBwcBsDph) / [Proxy](https://batotoo.com/)
+* [MangaReader](https://mangareader.to/)
 * [TCB Scans](https://onepiecechapters.com/)
 * [Atsumaru](https://atsu.moe/) - [Discord](https://discord.gg/Tj4QmEF4uV)
 * [MangaHub](https://mangahub.io/)
 * [MangaList](https://mangalist.com/)
-* [Manga Park](https://mangapark.net/)
 * [MangaTown](https://www.mangatown.com/)
 * [MixedManga](https://mixedmanga.com/)
 * [Disaster Scans](https://disasterscans.com/) - [Discord](https://discord.gg/JbcJCpv)
@@ -895,7 +897,6 @@
 * [Mangageko](https://www.mangageko.com/)
 * [Mangairo](https://h.mangairo.com/)
 * [ReadMng](https://www.readmng.com/) or [MngDoom](https://www.mngdoom.com/)
-* [MangaBuddy](https://mangabuddy.com)
 * [ReadKomik](https://readkomik.com/)
 * [DogManga](https://dogemanga.com/)
 * [Bunko](https://bunko.in/)
@@ -928,11 +929,12 @@
 * [KomikKid](https://www.komikid.com/)
 * [MangaFox](https://fanfox.net/)
 * [ReadM](https://readm.org/)
-* [MangaKatana](https://mangakatana.com/)
 * [CMReader](https://www.cmreader.info/)
 * [mangapill](https://mangapill.com/)
 * [projectsuki](https://projectsuki.com/)
 * [NineAnime](https://www.nineanime.com/category/)
+* [Anime-Sharing](http://www.anime-sharing.com/forum/) - Anime / Manga Download Forum
+* [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
 * [WhereCanIReadManga?](https://wherecanireadmanga.com/) - Legal
 * [Raw Manga Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng#wiki_.25B7_reading10) - Japanese Manga Sites
 * [OtakuGallery](http://www.otakugallery.com/) - Manga Artbooks
