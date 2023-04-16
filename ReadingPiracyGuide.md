@@ -860,8 +860,9 @@
 ## ▷ Manga Sites
 
 * ⭐ **[MangaDex](https://mangadex.org/)** - [Downloader](https://github.com/mansuf/mangadex-downloader) / [Script](https://github.com/frozenpandaman/mangadex-dl) 
-* ⭐ **[MangaSee](https://mangasee123.com/)**, [2](https://manga4life.com/)- Official Translations
 * ⭐ **[ComicK](https://comick.app/)** - [Discord](https://discord.gg/comick)
+* ⭐ **[MangaSee](https://mangasee123.com/)**, [2](https://manga4life.com/)- Official Translations
+* ⭐ **[MangaFire](https://mangafire.to/)**
 * ⭐ **[MangaReader](https://mangareader.to/)**
 * ⭐ **[MangaNelo](https://m.manganelo.com/wwww)**, [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/)
 * ⭐ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)** - Read / Organize Manga
@@ -878,7 +879,6 @@
 * [pptenshi](https://github.com/nbats/FMHYedit/blob/main/base64.md#pptenshi)
 * [GoIndex](https://github.com/nbats/FMHYedit/blob/main/base64.md#goindex)
 * [MangaHere](http://www.mangahere.cc)
-* [MangaFire](https://mangafire.to/)
 * [BATO.TO](https://bato.to/), [2](https://battwo.com/) - [Discord](https://discord.gg/7NBwcBsDph) / [Proxy](https://batotoo.com/)
 * [TCB Scans](https://onepiecechapters.com/)
 * [Atsumaru](https://atsu.moe/) - [Discord](https://discord.gg/Tj4QmEF4uV)
