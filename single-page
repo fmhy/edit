@@ -12880,6 +12880,8 @@ pass: paluch
 * ⭐ **[YogaDNS](https://yogadns.com/)** - DNS Adblocking
 * ⭐ **[ControlD](https://controld.com/)**, [DNS Jumper](https://sordum.org/7952/dns-jumper-v2-1/), [ChrisPC DNS Switch](https://www.majorgeeks.com/files/details/chrispc_dns_switch.html) or [Hetzner](https://www.hetzner.com/dns-console?country=us) - DNS Managers / Switchers
 * ⭐ **[serverless-dns](https://github.com/serverless-dns/serverless-dns)** - Serverless DNS
+* ⭐ **[Warp](https://1.1.1.1/)** or [DNS Resolver Privacy-First](http://doh.tiar.app/) - DNS Resolvers
+* ⭐ **Warp Tools** - [Unlimited Data](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED), [2](https://github.com/navaneethkm004/warp-plus) / [Free Plus](https://github.com/ALIILAPRO/warp-plus-cloudflare), [2](https://redd.it/zalgyb) / [Warp Warning](https://rentry.co/warpwarning)
 * [Adguard DNS](https://adguard-dns.io/) - DNS Adblocking
 * [Pi-Hole](https://pi-hole.net/) - DNS Adblocking / Self-Hosted / [Install Script](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filter](https://firebog.net/), [2](https://github.com/hl2guide/Filterlist-for-AdGuard) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine) / [Antitelemetry](https://github.com/MoralCode/pihole-antitelemetry)
 * [Blah DNS](https://blahdns.com/) - DNS Adblocking
@@ -12893,7 +12895,6 @@ pass: paluch
 * [NextDNS](https://nextdns.io) - DNS Adblocking / [Leak Warning](https://redd.it/jt28e8) / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Enhancement](https://greasyfork.org/en/scripts/408934-nx-enhanced) / [Extension](https://chrome.google.com/webstore/detail/nx-enhanced/ljimbekophocjbnphldoaidgkkaojcfo)
 * [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/), [FreeMyIP](https://freemyip.com/) or [Desec](https://desec.io/) - Dynamic DNS Service
 * [Encrypted DNS Resolvers](https://www.privacytools.io/providers/dns/)
-* [DNS Resolver Privacy-First](http://doh.tiar.app/) or [Warp](https://1.1.1.1/) - DNS Resolver / [Unlimited Data](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED), [2](https://github.com/navaneethkm004/warp-plus) / [Free Plus](https://github.com/ALIILAPRO/warp-plus-cloudflare), [2](https://redd.it/zalgyb) / [Warp Warning](https://rentry.co/warpwarning) 
 * [block.js](https://gist.github.com/rtfpessoa/7fdd3d4121ee4acafe56e8425154888a) - DNS YouTube Blocklists
 * [Phishing Army](https://phishing.army/) - DNS Phishing Blocklist
 * [BIND](https://gitlab.isc.org/isc-projects/bind9) - Portable DNS Protocol
@@ -14748,12 +14749,14 @@ pass: paluch
 
 #### Android Audio Players
 
+* ⭐ **[Poweramp](https://forum.mobilism.org/search.php?keywords=poweramp&sr=topics&sf=titleonly)**
 * ⭐ **[AIMP](http://www.aimp.ru/?do=download&os=android)**
 * ⭐ **[Musicolet Music Player](https://play.google.com/store/apps/details?id=in.krosbits.musicolet&hl=en_US&gl=US)**
 * ⭐ **[Symphony](https://github.com/zyrouge/symphony)**
 * ⭐ **[Harmonoid](https://harmonoid.com/)**
+* ⭐ **[Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music)**
 
-[VLC for Android](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://f-droid.org/packages/ch.blinkenlights.android.vanilla), [Vinyl Music Player](https://f-droid.org/packages/com.poupa.vinylmusicplayer), [BlackHole](https://github.com/Sangwan5688/BlackHole), [RAAG](https://github.com/raag-music/raag/), [Metro](https://f-droid.org/en/packages/io.github.muntashirakon.Music/), [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer), [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/), [retroPod](https://jamesob.com/apps/retropod.html), [Apollo Music Player](https://github.com/nuclearfog/Apollo-Music), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx), [Serenity](https://github.com/YajanaRao/Serenity), [ExoPlayer](https://github.com/google/ExoPlayer), [Timber](https://github.com/naman14/Timber), [TimberX](https://github.com/naman14/TimberX), [Howl Music Player](https://github.com/Iamlooker/Howl), [SoundSpice](https://github.com/farshed/SoundSpice-mobile), [Bungee](https://github.com/OpenConsultingGroup/Flutter-Music-App), [DialogMusicPlayer](https://github.com/VishnuSanal/DialogMusicPlayer), [mucke](https://github.com/moritz-weber/mucke), [Phonograph Plus](https://github.com/chr56/Phonograph_Plus), [Musicmax](https://github.com/MaximillianLeonov/Musicmax), [Tear Music](https://github.com/tearone/tearmusic), [Stellio Player](https://stellio.ru/en), [Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music), [Pulse Music](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse), [Frolomuse](https://play.google.com/store/apps/details?id=com.frolo.musp), [Zen Music Player](https://github.com/pakka-papad/Zen)
+[VLC for Android](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://vanilla-music.github.io/), [BlackHole](https://github.com/Sangwan5688/BlackHole), [Metro](https://f-droid.org/en/packages/io.github.muntashirakon.Music/), [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer), [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/), [Apollo Music Player](https://github.com/nuclearfog/Apollo-Music), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx), [Serenity](https://github.com/YajanaRao/Serenity), [ExoPlayer](https://github.com/google/ExoPlayer), [SoundSpice](https://github.com/farshed/SoundSpice-mobile), [mucke](https://github.com/moritz-weber/mucke), [Phonograph Plus](https://github.com/chr56/Phonograph_Plus), [Musicmax](https://github.com/MaximillianLeonov/Musicmax), [Tear Music](https://github.com/tearone/tearmusic), [Pulse Music](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse), [Zen Music Player](https://github.com/pakka-papad/Zen)
 
 ***
 
@@ -18261,6 +18264,7 @@ Add the following commands to a search to manually scrape each site.
 * [Torrentz2k](https://torrentz2k.xyz/) - Video / Audio / Software / Games / NSFW
 * [Torrenting](https://www.torrenting.com/) - Video / Audio / Games / Software / Books / NSFW
 * [FOSSTorrents](https://fosstorrents.com/) - FOSS Software / Games
+* [Fost.ws](https://fost.ws/) - Software
 * [BitLord Power Search](http://85.143.175.243/) - BitLord Browser Search 
 * [Tigole](https://infogalactic.com/info/Tigole#Getting_Tigole_torrents) - Torrent Index
 * [Telegram Torrents](https://duckduckgo.com/?q=site%3At.me+torrent&ia=web) - Telegram Torrent Channels
