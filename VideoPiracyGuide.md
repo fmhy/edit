@@ -13,7 +13,7 @@
 
 ## ▷ Dedicated Hosts
 
-* ⭐ **[Soap2Day](https://soapgate.org/)** - Movies / TV![image](https://user-images.githubusercontent.com/110323644/232389105-ab119ebc-08e2-4825-ba71-bb0702f15d49.png)
+* ⭐ **[Soap2Day](https://soapgate.org/)** - Movies / TV
 * ⭐ **[JustChill](https://www.justchill.tv/en)** - Movies / TV / Anime / [Discord](https://discord.gg/y49g2tgNak)
 * ⭐ **[Ask4Movies](https://ask4movie.mx/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
 * ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / Invite Code: mpgh or 1hack
