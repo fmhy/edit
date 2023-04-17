@@ -656,10 +656,9 @@
 * ⭐ **[xManager](https://www.xmanagerapp.com/)** or [Modded Spotify](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-spotify-apk) - Ad Free Spotify
 * ⭐ **xManager Tools** - [Github](https://github.com/xManager-App/xManager) / [Discord](https://discord.gg/Zu3JyxHD) / [Friend Activity](https://spotivity.me//) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
 * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream PC Audio to Phone 
-* [YouTube Music Apps](https://redd.it/tiqzon/), [VibeMusic](https://github.com/sheikhhaziq/vibemusic), [HoloPlay](https://holoplay.io/), [ViMusic](https://github.com/vfsfitvnm/ViMusic), [InnerTune](https://github.com/z-huang/InnerTune), [Music](https://github.com/z-huang/InnerTune) or [YMusic](https://ymusic.io/) - YouTube Music Players
-* [Spotiflyer](https://shabinder.github.io/SpotiFlyer/) / [GitHub](https://github.com/Shabinder/SpotiFlyer/), [Spowlo](https://github.com/BobbyESP/Spowlo/) or [SpotaFree](https://github.com/sheensantoscapadngan/SpotaFree) - Spotify Audio Downloaders
+* [YouTube Music Apps](https://redd.it/tiqzon/), [VibeMusic](https://github.com/sheikhhaziq/vibemusic), [ViMusic](https://github.com/vfsfitvnm/ViMusic), [InnerTune](https://github.com/z-huang/InnerTune) or [YMusic](https://ymusic.io/) - YouTube Music Players
+* [Spotiflyer](https://shabinder.github.io/SpotiFlyer/) / [GitHub](https://github.com/Shabinder/SpotiFlyer/) or [Spowlo](https://github.com/BobbyESP/Spowlo/) - Spotify Audio Downloaders
 * [Finamp](https://github.com/jmshrv/finamp) - Jellyfin Music Player
-* [CloudPlayer](https://www.doubletwist.com/cloudplayer) - Cloud Audio File Player
 * [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) or [SubTune](https://github.com/TaylorKunZhang/SubTune) - Subsonic Client
 * [Sound1](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - Streaming
 * [Modded Tidal](https://forum.mobilism.org/search.php?keywords=tidal&sr=topics&sf=titleonly) - Steaming / Download
@@ -802,19 +801,11 @@
 * ⭐ **[Aniyomi](https://github.com/jmir1/aniyomi)**
 * ⭐ **[Saikou](https://github.com/saikou-app/saikou)**
 * [Crunrchyroll Mod](https://github.com/nbats/FMHYedit/blob/main/base64.md#crunchyroll-mod) - Anime / Premium Crunchyroll
-* [FireAnime](https://github.com/XenTeckzX/FireAnime) - Chromecast
-* [AnimeXStream](https://github.com/mukul500/AnimeXStream/)
-* [AnimeDLR](https://cyberneticlifeform.wixsite.com/cylonu87/animedlr) - [Discord](https://discord.com/invite/wKxRqKc)
-* [ZAnime](https://github.com/linkkader/zanime)
-* [AnYme](https://zunjae.github.io/anymeapp.com/) / [Discord](https://discord.com/invite/JUMvDEP)
+* [ZAnime](https://github.com/linkkader/zanime) / [Discord](https://rebrand.ly/linkkaderdiscord)
 * [Kazahana](https://github.com/yukino-org/kazahana)
 * [Akiyama](https://github.com/Fmaldonado6/Akiyama)
 * [AnimeChicken](https://animechicken.app/)
-* [OtakuWorld](https://github.com/jakepurple13/OtakuWorld)
-* [animity](https://github.com/kl3jvi/animity)
-* [no](https://github.com/deceptions/no)
-* [KATSU](https://katsu.pw/) - [Discord](https://discord.gg/gjcy6MQ)
-* [Anime-DL](https://github.com/sharn25/Anime-DL-Android-Verison) - Download Anime / [Discord](https://discord.gg/Ee3fegN) 
+* [animity](https://github.com/kl3jvi/animity) / [Discord](https://discord.com/invite/eNuX9U57SM)
 * [MALClient](https://github.com/Drutol/MALClient), [MyAnimeList Client](https://play.google.com/store/apps/details?id=net.myanimelist.app), [Anidex](https://github.com/rajarsheechatterjee/anidex-app), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Otraku](https://play.google.com/store/apps/details?id=com.otraku.app), [AniTrend](https://anitrend.co/) / [GitHub](https://github.com/AniTrend/anitrend-app ) or [AniLib](https://anilib.onrender.com/) - Anime Tracker
 
 ***
@@ -1174,6 +1165,7 @@
 * [AnimeNow](https://github.com/AnimeNow-Team/AnimeNow)
 * [NineAnimator](https://nineanimator.marcuszhou.com/) - [Discord](https://discord.gg/dzTVzeW)
 * [AnimeChicken](https://animechicken.app/)
+* [Ketsu](https://ketsu.app/download.html) - [Discord](https://discord.gg/gjcy6MQ)
 * [Tweaked Crunchyroll ++](http://www.iosemulatorspot.com/tweaked-crunchyroll/) - Tweaked Crunchyroll
 * [Katarogu](https://apoorvaaditya.github.io/katarogu/), [MyAnimeList Client](https://apps.apple.com/us/app/myanimelist-official/id1469330778) or [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - MyAnimeList Client
 * [Otraku](https://github.com/lotusgate/otraku) or [AniHyou](https://github.com/axiel7/AniHyou) - AniList Apps
