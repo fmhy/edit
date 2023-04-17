@@ -1962,9 +1962,9 @@ Add the following commands to a search to manually scrape each site.
 **Multi-Platform**
 
 * ⭐ **[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / [2](https://librewolf.net/)
+* ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)**
 
-[Hexavalet](https://github.com/Hexavalent-Browser/Hexavalent), [Otter](https://otter-browser.org/), [BadWolf](https://hacktivis.me/projects/badwolf), [Sphere](https://sphere.tenebris.cc/), [Dot HQ](https://www.dothq.co/) / [Discord](https://invite.gg/dot), [Mullvad Browser](https://mullvad.net/en/browser)
-
+[Hexavalet](https://github.com/Hexavalent-Browser/Hexavalent), [Otter](https://otter-browser.org/), [BadWolf](https://hacktivis.me/projects/badwolf), [Sphere](https://sphere.tenebris.cc/), [Dot HQ](https://www.dothq.co/) / [Discord](https://invite.gg/dot)
 
 **Android**
 
