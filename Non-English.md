@@ -1192,6 +1192,8 @@
 
 * [WarezCDN](https://warezcdn.com/) - Movies / TV / Anime / API
 * [Pobre](https://pobre.tv/) - Movies / TV
+* [Os Teus Filmes Tuga](https://osteusfilmestuga.fun/) - Movies / TV / Anime / Cartoons
+* [Tugaflix](https://tugaflix.best/) Movies / TV / Use Adblock
 * [Bombozila](https://bombozila.com/) - Movies / TV
 * [LibreFlix](https://libreflix.org/) - Movies / TV
 * [Vizer.tv](https://vizer.tv/) - Movies/ TV / Anime
@@ -1207,7 +1209,7 @@
 * [99 Media](https://www.99.media/pt/) - Documentaries
 * [verfutebol](https://verfutebol.tv/) - Live Sports
 * [OLHosnaTV](http://www.olhosnatv.com.br/) - Live TV / Sports
-* [Aovivo](https://aovivo.pro/tv/) - Portuguese / Live TV / Sports
+* [Aovivo](https://aovivo.pro/tv/) - Live TV / Sports
 * [MegaCanais](https://megacanais.com/) - Live TV / Sports
 * [CXTV](https://www.cxtv.com.br/) - Live TV
 * [TVGazeta](https://www.tvgazeta.com.br/aovivo/) - Live TV
