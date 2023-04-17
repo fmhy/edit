@@ -1964,11 +1964,12 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / [2](https://librewolf.net/)
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)**
 
-[Hexavalet](https://github.com/Hexavalent-Browser/Hexavalent), [Otter](https://otter-browser.org/), [BadWolf](https://hacktivis.me/projects/badwolf), [Dot HQ](https://www.dothq.co/) / [Discord](https://invite.gg/dot)
+[Hexavalet](https://github.com/Hexavalent-Browser/Hexavalent), [Otter](https://otter-browser.org/), [BadWolf](https://hacktivis.me/projects/badwolf), [Dot HQ](https://github.com/dothq/browser) / [Discord](https://discord.com/invite/WRDEK2D)
+
 
 **Android**
 
-[Mull](https://divestos.org/fdroid/official?fingerprint=E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467), [DuckDuckGo Privacy Browser](https://duckduckgo.com/app), [SmartCookieWeb](https://smartcookieweb.com/), [2](https://github.com/CookieJarApps/SmartCookieWeb-preview), [Privacy Browser](https://f-droid.org/en/packages/com.stoutner.privacybrowser.standard/), [friendly](https://friendly.io/), [InBrowser](https://www.inbrowserapp.com/), [Mull-Fenix](https://github.com/Divested-Mobile/Mull-Fenix), [Thor](https://gitlab.com/remmer.wilts/thor)
+[Mull-Fenix](https://github.com/Divested-Mobile/Mull-Fenix), [DuckDuckGo Privacy Browser](https://duckduckgo.com/app), [SmartCookieWeb](https://smartcookieweb.com/), [Privacy Browser](https://www.stoutner.com/privacy-browser-android/), [friendly](https://friendly.io/), [InBrowser](https://www.inbrowserapp.com/), [Thor](https://gitlab.com/remmer.wilts/thor)
 
 ***
 
