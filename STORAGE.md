@@ -1963,7 +1963,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / [2](https://librewolf.net/)
 
-[Hexavalet](https://github.com/Hexavalent-Browser/Hexavalent), [Otter](https://otter-browser.org/), [BadWolf](https://hacktivis.me/projects/badwolf), [Sphere](https://sphere.tenebris.cc/), [dumb-browser](https://github.com/f32by/dumb-browser), [Breeze](https://github.com/privacyone/breeze-core), [Dot HQ](https://www.dothq.co/) / [Discord](https://invite.gg/dot), [Viper-Browser](https://github.com/LeFroid/Viper-Browser), [Mullvad Browser](https://mullvad.net/en/browser)
+[Hexavalet](https://github.com/Hexavalent-Browser/Hexavalent), [Otter](https://otter-browser.org/), [BadWolf](https://hacktivis.me/projects/badwolf), [Sphere](https://sphere.tenebris.cc/), [Dot HQ](https://www.dothq.co/) / [Discord](https://invite.gg/dot), [Mullvad Browser](https://mullvad.net/en/browser)
 
 
 **Android**
