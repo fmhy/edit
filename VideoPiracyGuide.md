@@ -712,29 +712,32 @@
 ## ▷ Anime Downloading
 
 * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip link shorteners
-* ⭐ **[AnimeKaizoku](https://animekaizoku.com/)** - Sub / Dub / [Dual Audio](https://github.com/AnimeKaizoku/KaizokuPatcher)
+* ⭐ **[Tokyo Insider](https://www.tokyoinsider.com/)** - Sub / Dub
+* ⭐ **[AnimeOut](https://www.animeout.xyz/)** - Sub / [Discord](https://discord.com/invite/yDURwdC)
 * ⭐ **[Judas Discord](https://discord.gg/vbJ7RTn)** - Sub / Dub / [TeamDrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#judas-teamdrive)
 * ⭐ **[Erai-Raws](https://www.erai-raws.info/)** - Sub / [Discord](https://discord.gg/tEeaXzD4KH)
+* ⭐ **[AniDL](https://anidl.org/)** - Sub / Dub
+* ⭐ **[hi10anime](https://hi10anime.com/)** - Sub / [Discord](https://discord.com/invite/pWNeJfxa)
+* ⭐ **[Anime Senpai4U](https://www.animesenpai4u.com/)** - Sub / Dub
+* ⭐ **[AnimeKaizoku](https://animekaizoku.com/)** - Sub / Dub / [Dual Audio](https://github.com/AnimeKaizoku/KaizokuPatcher)
+* ⭐ **[Kayoanime](https://kayoanime.com/)** - Sub / Dub / [Telegram](https://t.me/AnimeKayo)
 * ⭐ **[Anime Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anime_download_apps)** - Anime Downloading Tools
 * ⭐ **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)** - Telegram Anime Download Channels
 * ⭐ **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
 * ⭐ **[/r/AnimePiracy Index](https://theindex.moe/)** or [TG Anime Index](https://telegra.ph/Websites-To-Watch-And-Download-Anime-09-10) - Curated List of Anime Sites / [Discord](https://discord.gg/Snackbox)
 * [itonaku](https://itonaku.xyz/) - Sub / [Discord](https://discord.gg/4mtcZhftYt)
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - Sub / Dub / Anime / Manga Download Forum
-* [Animk](https://animk.info/) - Sub / Dub
-* [AnimeOut](https://www.animeout.xyz/) - Sub
+* [AniMK](https://animk.info/xdcc-list/) - Sub / Dub / XDCC
 * [Anime2Enjoy](https://www.anime2enjoy.com/) - Sub / [Discord](https://discord.gg/PxSmumS)
-* [AniDL](https://anidl.org/) - Sub / Dub
-* [hi10anime](https://hi10anime.com/) - Sub
+* [DameDesuYo](https://damedesuyo.com/) - Sub / [Discord](https://discord.com/invite/zyzT4Sy6yJ)
+* [AnimeTime](https://www.animetime.pw/) - Sub / Dub / [Discord](https://discord.com/invite/RuYuu9uT)
+* [RIP Crabby Time](https://ripcrabbyanime.in/) - Sub / Dub
 * [AnimeLand](https://w4.animeland.tv/) - Dub
-* [Kayoanime](https://kayoanime.com/) - Sub / Dub / [Telegram](https://t.me/Kayoanime)
 * [Animesp](https://github.com/nbats/FMHYedit/blob/main/base64.md#animesp) - Sub
 * [Mix Bag of Anime](https://github.com/nbats/FMHYedit/blob/main/base64.md#mix-bag-of-anime) - Sub / Dub
 * [MrDeadpool](https://github.com/nbats/FMHYedit/blob/main/base64.md#mrdeadpool) - Sub / Dub
 * [ANIME___](https://github.com/nbats/FMHYedit/blob/main/base64.md#anime___) - Sub
-* [DameDesuYo](https://damedesuyo.com/) - Sub
-* [Chiby](http://www.animechiby.com/) - Sub
-* [Anime Senpai4U](https://www.animesenpai4u.com/) - Sub / Dub
+* [Chiby](http://www.animechiby.com/) - Sub / [Discord](https://discord.com/invite/PMHTW6mH)
 * [Anime Flix](https://animeflix.net.in/) - Sub / Dub
 * [anime7.download](http://anime7.download/) - Sub
 * [37.187.6.206](https://github.com/nbats/FMHYedit/blob/main/base64.md#371876206) - Sub
@@ -745,7 +748,7 @@
 * [CartoonsArea](https://www.cartoonsarea.xyz/) - Sub / Dub
 * [rbx](https://github.com/nbats/FMHYedit/blob/main/base64.md#rbx)  - Dub
 * [Anime Time Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#anime-time-drive) - Sub / Dub 
-* [nibl](https://nibl.co.uk/) - Sub / Dub / Anime Downloads / XDCC
+* [nibl](https://nibl.co.uk/) - Sub / Dub / XDCC / [Discord](https://discord.com/invite/bUESsAg)
 * [Bubble' Upscale Project](https://discord.gg/7kqqtJ7ArW) - Upscaled Anime / Requests
 * [Anime DL](https://archive.org/details/animedl4.0_202004) - Stream & Download Anime in VLC
 * [Crunchyroll Downloader](https://github.com/hama3254/Crunchyroll-Downloader-v3.0) - Non-Prem Crunchyroll Downloaders 
