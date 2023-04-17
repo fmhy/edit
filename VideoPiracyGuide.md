@@ -320,6 +320,7 @@
 * ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / [Downloader](https://github.com/KevCui/animepahe-dl)
 * ⭐ **[marin.moe](https://marin.moe)** - Sub / Dub
 * ⭐ **[KickAssAnime](https://kaas.am/)** - Sub / Dub / [Discord](https://discord.com/invite/GEJk5K7)
+* ⭐ **[Animension](https://animension.to/)** - Sub / Dub
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Media Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
@@ -360,7 +361,6 @@
 * [ChiaAnime](https://chia-anime.su/) - Sub
 * [ChiaAnime.cc](https://chia-anime.cc/) - Sub
 * [AnimeXin](https://animexin.vip/) - Sub
-* [Animension](https://animension.to/) - Sub / Dub
 * [MyAnime](https://myanime.live/) - Chine Anime Sub
 * [AnimeSuge](https://animesuge.to/) - Sub / Dub
 * [BestDubbedAnime](https://bestdubbedanime.com/) - Dub / [Discord](https://discord.com/invite/f2pHvauUPu)
