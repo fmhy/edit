@@ -1235,7 +1235,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### IPTV Tools
 
-[Forum](https://iptv.community/) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/) / [m3u to txt](https://siptv.eu/converter/) / [M3U Editor](https://m3u4u.com/) / [M3U Downloader](https://github.com/nilaoda/N_m3u8DL-RE) / [Dummy EPG](https://github.com/yurividal/dummyepgxml) / [HLS Downloader](https://github.com/puemos/hls-downloader), [CLI](https://github.com/nilaoda/N_m3u8DL-CLI)
+[Forum](https://iptv.community/) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Manager](https://cabernetwork.github.io/) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/) / [m3u to txt](https://siptv.eu/converter/) / [M3U Editor](https://m3u4u.com/) / [M3U Downloader](https://github.com/nilaoda/N_m3u8DL-RE) / [Dummy EPG](https://github.com/yurividal/dummyepgxml) / [HLS Downloader](https://github.com/puemos/hls-downloader), [CLI](https://github.com/nilaoda/N_m3u8DL-CLI)
 
 ***
 
@@ -2447,9 +2447,11 @@ Add the following commands to a search to manually scrape each site.
 #### Skip Redirect
 
 * ⭐ **[FastForward](https://fastforward.team/)** / [Discord](https://discord.gg/RSAf7b5njt) / [Custom Bypass](https://github.com/FastForwardTeam/FastForward/wiki/Adding-the-Linkvertise-Custom-Bypass)
+* ⭐ **[bypass.city](https://bypass.city/)** / [Discord](https://discord.com/invite/uMEtrpRvAf)
 * ⭐ **[Link Bypasser](https://github.com/TheCaduceus/Link-Bypasser)** / [TG Bot](https://drlinkbot.t.me/) / [2](https://github.com/TheCaduceus/Link-Bypasser-Bot)
 * ⭐ **[bypass.vip](https://bypass.vip/)**
 * ⭐ **[Bypass FileCrypt](https://greasyfork.org/en/scripts/403170)** - View Original FileCrypt Links
+
 [AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser), [skip-redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/) / [Chrome](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon), [krnl-and-linkvertise-bypasser](https://greasyfork.org/en/scripts/427869-krnl-and-linkvertise-bypasser), [Linkvertise-Bypasser](https://github.com/venaxyt/Linkvertise-Bypasser), [Linkvertise-Bypass](https://github.com/Lufzys/Linkvertise-Bypass), [TheBypasser](https://thebypasser.com/), [Bypass-Links](https://github.com/amitsingh-007/bypass-links), [Auto link bypasser](https://chrome.google.com/webstore/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh), [Bypasser](https://yuumari.com/bypass/), [short link to direct link](https://t.me/ATBYPASSBOT), [UploadHEaven](https://greasyfork.org/en/scripts/442019), [Bypasser Online](https://bypasser.online/)
 
 ***
@@ -2728,6 +2730,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Telegram Audio Download Bots
 
+* [musicaiocloud](https://t.me/musicaiocloud) - Deezer, Qobuz, Tidal, Spotify
 * [LyBot](https://t.me/LyBot) - YouTube
 * [YouTube Audio Bot](https://t.me/YtbAudioBot) - YouTube
 * [YouTube Audio Download](https://t.me/YoutubeAudioDownloadBot) - YouTube
