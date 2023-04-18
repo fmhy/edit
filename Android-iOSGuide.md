@@ -154,7 +154,7 @@
 * [Widgets for Samsung](https://drive.google.com/file/d/1LzBKUDuC7t3-k6aOtlZc765ZLBD437pC/view) - Samsung Widgets
 * [Android Auto Apps Downloader](https://github.com/shmykelsa/aaad) - Android Vehicle Apps
 * [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Add Direct DL Links to Google Play
-* [evozi](https://apps.evozi.com/apk-downloader), [GPlayCLI](https://github.com/matlink/gplaycli) or [APK Downloader](https://apk.support/apk-downloader) - Download Google Play APKs
+* [evozi](https://apps.evozi.com/apk-downloader) or[GPlayCLI](https://github.com/matlink/gplaycli) - Download Google Play APKs
 * [GBox](https://www.gboxlab.com/) - GMS Google Box
 * [APK Installer](https://play.google.com/store/apps/details?id=com.uptodown.installer&hl=en&gl=US) - APK Installers
 * [Raccoon](https://raccoon.onyxbits.de/) - Private APK Downloader
@@ -887,7 +887,7 @@ https://www.whosaidthat.uk/
 # ► iOS Adblocking
 
 * ⭐ **[AdGuard Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#adguard-premium)**, [2](https://testflight.apple.com/join/XqF1FkBg) - Adblocker / [Config](https://1fichier.com/?ef26ks4abjzct7o1k8os) / [Remote](https://apps.apple.com/app/apple-store/id1543143740)
-* [Hyperweb](https://hyperweb.app/) or [Net Guard](https://apps.apple.com/us/app/net-guard-amp-ad-blocker/id1557627020) - iOS Safari Adblock
+* [Hyperweb](https://hyperweb.app/) - iOS Safari Adblock
 * [KF Panda-Player](https://apps.apple.com/us/app/kfpanda-player/id1460792262) - Turn any site into a App, without the Ads 
 * [1Blocker](https://1blocker.com/) - Ablocker
 * [Ka-Block!](http://kablock.com/) - Adblocker
@@ -1153,7 +1153,7 @@ https://www.whosaidthat.uk/
 * [The CW](https://apps.apple.com/us/app/the-cw/id491730359) - Free CW Shows
 * [Viki](https://apps.apple.com/us/app/viki-asian-tv-dramas-movies/id445553058) - Asian Drama
 * [EncoreTVD](https://apps.apple.com/us/app/encoretvb-english/id1191642382) - Chinese Drama
-* [RSS Player](https://apps.apple.com/us/app/rss-video-player/id885311320) - KDrama / [Feed](http://allrss.se/dramas), [2](http://myrss.nu/drama)
+* [RSS Player](https://apps.apple.com/us/app/rss-video-player/id885311320) - KDrama / [Feed](http://allrss.se/dramas)
 * [Wako-TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - Movies / TV / Anime / Real Debrid required
 * [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962), [SPlayer](https://splayer.dev/), [Loader](https://apps.apple.com/us/app/documents-loader/id1442498151) or [‎Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
 * [YT Tweaked](https://github.com/nbats/FMHYedit/blob/main/base64.md#yt-tweaked-ipas) or [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPA / [Reddit Post](https://redd.it/olsxri)
@@ -1204,7 +1204,6 @@ https://www.whosaidthat.uk/
 * [ZETSU](https://apps.apple.com/us/app/zetsu-by-orion/id1510161371) - Manga Reader
 * [Atsumaru](https://github.com/TheUndo/Atsumaru) - Manga Reader
 * [Hanami](https://github.com/oolxg/Hanami) - Manga Reader
-* [Manga Max](https://apps.apple.com/us/app/apple-store/id1558957618) - Manga Reader
 * [MangaNelo](https://apps.apple.com/us/app/manganelo-rock-manga-pro/id1540527984) - Manga Reader
 * [NovelReader](https://github.com/ppraveentr/NovelReader) - Light Novels
 * [NovelLoop](https://apps.apple.com/in/app/novelloop/id1170755867) - Light Novels
