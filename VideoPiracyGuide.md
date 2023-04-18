@@ -39,7 +39,6 @@
 * [Mov.onl](https://www.mov.onl/) - Movies / TV
 * [Plex](https://watch.plex.tv/) - Movies / TV
 * [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / Library Card Required
-* [KissKH](https://kisskh.me/Explore?type=4) - Movies / TV / Anime
 * [NetFilm](https://net-film.vercel.app/) - Movies / TV / Anime
 * [RidoMovies](https://ridomovies.com/) - Movies
 * [StreamLord](http://www.streamlord.com/) - Movies / TV
@@ -77,7 +76,6 @@
 * [PopcornFlix](https://www.popcornflix.com/) - Movies / TV
 * [Crackle](https://www.crackle.com/) - Movies / TV
 * [Freevee](https://www.amazon.com/gp/video/storefront/ref=atv_hm_hom_c_9zZ8D2_1_3?contentType=home&contentId=freetv) - Movies / TV
-* [Redbox](https://www.redbox.com/stream-free-movies) - Movies / TV
 * [ShoutFactoryTV](https://www.shoutfactorytv.com/) - Movies / TV
 * [Roku](https://therokuchannel.roku.com/) - Movies / TV
 * [Pluto](http://pluto.tv/on-demand) - Movies / TV
