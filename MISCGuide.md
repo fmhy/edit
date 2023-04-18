@@ -639,7 +639,7 @@
 * ⭐ **[/m/food](https://www.reddit.com/user/Siryonkee/m/food/)** - Food Multireddit
 * ⭐ **[TasteJury](https://tastejury.com/)** - Find Specific Dishes
 * ⭐ **[Sporked](https://sporked.com/)** - Packaged Food Reviews
-* ⭐ **[Still Tasty](https://www.stilltasty.com/)** or [EatByDate](http://www.eatbydate.com/) - Shelf Life Guides
+* ⭐ **[Still Tasty](https://www.stilltasty.com/)** or [EatByDate](http://www.eatbydate.com/) - Shelf Life Guides 
 * ⭐ **[Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png)** / [2](https://i.imgur.com/KoVAdmA.png)
 * ⭐ **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
 * ⭐ **[HackTheMenu](http://hackthemenu.com/)** - Fast Food Secret Menu Items
@@ -739,6 +739,7 @@
 * [Jamacian Recipe Rundown](http://worldstogethertravel.com/jamaica/recipe-rundown.htm) - Jamaican Recipes
 * [Portuguese Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_recipes)
 * [Nosh](https://nosh.tech/) - Food Management App
+* [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) - Food Expiration Tracker
 * [Mealime](https://www.mealime.com/) or [Mealie](https://nightly.mealie.io/) - Meal Planning Apps
 * [node-deliveroo](https://github.com/jzarca01/node-deliveroo) - API for Deliveroo
 * [PizzaDash](https://github.com/mynamebrody/pizzadash) - Turn Amazon Dash Button into Pizza Delivery Button
@@ -771,6 +772,7 @@
 * [BreakFree](https://breakfree-2c089.web.app/) - Break Smoking Habits
 * [ZeroPercent](https://zeropercent.club/) - Break Drinking Habits
 * [Sobriety](https://github.com/KiARC/Sobriety) - Sobriety Tracker
+* [/r/NoSurf](https://www.reddit.com/r/nosurf/) - Digital Detox Community / [Discord](https://discordapp.com/invite/QFhXt2F)
 * [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-based Research
 * [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - Harvard University Health Website
 * [Liam Rosen's Fitness Guide](http://liamrosen.com/fitness.html) - Beginners Health & Fitness Guide
