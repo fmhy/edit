@@ -759,8 +759,8 @@
 * ⭐ **[Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png)**, [Topps](https://topps.diku.dk/torbenm/maps.msp)  or [Plant Maps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
 * ⭐ **[EarthEasy](https://learn.eartheasy.com/)**, [How To Garden](https://www.bhg.com/gardening/how-to-garden/), [HappySprout](https://www.happysprout.com), [Growing Guide](https://blog.planter.garden/), [Openfarm](https://openfarm.cc/), [GrowStuff](https://www.growstuff.org/) or [GrowVeg](https://www.growveg.com/) - Gardening Guides
 * [Garden Design](https://www.gardendesign.com/) - Garden Design Guides
-* [r/UrbanGardening](https://www.reddit.com/r/UrbanGardening/) - Urban Gardening Community
-* [r/Farming](https://reddit.com/r/farming/) - Farming Community
+* [/r/UrbanGardening](https://www.reddit.com/r/UrbanGardening/) - Urban Gardening Community
+* [/r/Farming](https://reddit.com/r/farming/) - Farming Community
 * [How Farms Work](https://youtube.com/channel/@HowFarmsWork) - Farming Guides
 * [Composting](https://learn.eartheasy.com/guides/composting/) - Composting Guides
 * [Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open-Source Agriculture / Gardening Tech
