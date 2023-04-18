@@ -687,7 +687,6 @@
 * [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
 * [Media](https://github.com/nbats/FMHYedit/blob/main/base64.md#media) - Movies / TV / Anime
 * [†M1o8143](https://github.com/nbats/FMHYedit/blob/main/base64.md#m1o8143) - Movies / TV / Anime
-* [Torrent TD](https://github.com/nbats/FMHYedit/blob/main/base64.md#torrent-td) - Movies / TV / Anime
 * [moo](https://github.com/nbats/FMHYedit/blob/main/base64.md#moo) - Movies / TV
 * [188.165.227.112](https://github.com/nbats/FMHYedit/blob/main/base64.md#188165227112) - Movies / TV
 * [162.12.215.254](https://github.com/nbats/FMHYedit/blob/main/base64.md#16212215254) - Movies
