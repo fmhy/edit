@@ -735,7 +735,8 @@
 * [Rainy Mood](https://play.google.com/store/apps/details?id=com.TailoredMusic.RainyMood), [Raining.fm](https://play.google.com/store/apps/details?id=fm.raining.rainingfm&amp;hl=en) or [Rain Sounds](https://sleeprelaxapps.github.io/rainsounds/)- Ambient Rain
 * [Noizio](https://play.google.com/store/apps/details?id=com.noizio&amp;hl=en_US) - Nature Sounds / Relaxation 
 * [A Soft Murmur](https://play.google.com/store/apps/details?id=com.gabemart.asoftmurmur) or [SoundAura](https://github.com/CliffracerMerchant/SoundAura) - Mix Ambient Sounds
-* [Tide.fm](https://pics.tide.moreless.io/site/tide.apk) - Meditation / Sleep Sounds 
+* [Tide.fm](https://pics.tide.moreless.io/site/tide.apk) - Meditation / Sleep Sounds
+* [Serenity](https://github.com/YajanaRao/Serenity) - Meditation / Sleep Sounds
 * [myNoise](https://play.google.com/store/apps/details?id=com.mynoise.mynoise&amp;hl=en) - Background Noises & Interactive Soundscapes
 * [Chroma Doze](https://github.com/pmarks-net/chromadoze) - White Noise Generator
 
