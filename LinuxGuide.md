@@ -397,7 +397,7 @@
 * ⭐ **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
 * ⭐ **[shottr](https://shottr.cc/)** or [MagicCap](https://magiccap.me/) - Screenshot Tool
 * ⭐ **[Aptonic](https://aptonic.com/)** - Mac Productivity App
-* ⭐ **[Alfred](https://www.alfredapp.com/)** - Keystroke Launcher 
+* ⭐ **[Alfred](https://www.alfredapp.com/)** or [Raycast](https://www.raycast.com/) - Keystroke Launchers 
 * ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
 * ⭐ **[alt-tab-macos](https://alt-tab-macos.netlify.app/)** - Alt-Tab for Mac
 * ⭐ **[PDF Expert](https://github.com/nbats/FMHYedit/blob/main/base64.md#pdf-expert)** - PDF Viewer
