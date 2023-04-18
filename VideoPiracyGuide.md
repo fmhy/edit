@@ -32,7 +32,6 @@
 * [UltraMovies](https://ultramovies.net/) - Movies / TV
 * [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime
 * [Vumoo](https://vumoo.to/) - Movies / TV
-* [SuperNova](https://supernova.to/) - Movies / TV / Anime 
 * [FshareTV](https://fsharetv.co/) - Movies
 * [DanDanzan](https://www.dandanzan.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - Movies / TV / Anime
@@ -109,7 +108,6 @@
 * [AZMovies](https://azm.to/) - Movies
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
 * [Series9](https://series9.me/) - Movies / TV / Anime
-* [WatchSeries 2.0](https://watchmovie.ac/) - Movies / TV / Anime
 * [Cloudy](https://cloudy.pk/category/english/) - Movies / TV
 * [Levidia](https://www.levidia.ch/) - Movies / TV / Anime
 * [EuroPixHD](https://europixhd.pro/) or [123EuroPix](https://123europix.pro/) - Movies / TV / Anime
@@ -119,10 +117,8 @@
 * [Sauflix](https://www.sauflix.com/) - Movies / TV
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
 * [YesHD](https://yeshd.net/) - Movies / TV
-* [NovaStream](https://novastream.to/) - Movies / TV / Anime
 * [OnionPlay](https://onionplay.se/) - Movies / TV / [Mirrors](https://onionplay.network/)
 * [Swatchfree](https://swatchfree.in/) - Movies / TV
-* [StreamMovie](https://streammovie.top/) - Movies / TV
 * [Filmxy](https://www.filmxy.online/) - Movies
 * [MoviesLair](https://movielair.cc/) - Movies / TV
 * [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime
@@ -132,7 +128,6 @@
 * [ConTV](https://www.contv.com/browse-movie/146/free/) - Movies
 * [VidCloud](https://membed1.com/) - Movies / TV
 * [Rainierland](https://rainierland.to/) - Movies / TV
-* [MovieHubz](https://moviehubz.com/) - Movies / TV / Anime / [Discord](https://discord.com/invite/UWTgkNCPXp)
 * [Afdah](https://afdah2.com/) - Movies
 * [XXIKU](https://xxiku.com/) - Movies
 * [Yesmovies.show](https://ww3.yesmovies.show/) - Movies / TV / Anime
@@ -464,7 +459,6 @@
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - TV / Sports
 * ⭐ **[IPTV Web](https://dev-iptv.web.app/)** - TV / Sports
 * ⭐ **[Sports Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming)** - Sports
-* ⭐ **[StreamEast](https://www.thestreameast.to/)** - Sports / [uBlock Script](https://pastebin.com/pd4rNDWD)
 * ⭐ **[RBTV](https://www.rbtv77.com/)** - Sports / [Telegram](https://t.me/+_xlFBUO08tQwZGJl)
 * ⭐ **[Score808TV](https://www.score808tv.com/)** - Sports
 * ⭐ **[Reddit Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_streams)** - Sports
