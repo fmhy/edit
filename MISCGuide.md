@@ -756,7 +756,7 @@
 * ⭐ **[/r/Gardening](https://reddit.com/r/gardening)** -  Gardening Community
 * ⭐ **[/r/Whatsthisplant/](https://www.reddit.com/r/whatsthisplant/)** or [iNaturalist](https://www.inaturalist.org/) - Plant Identification Communities
 * ⭐ **[TouchGrasss](https://rentry.co/TouchGrasss)** - Agriculture / Gardening Subreddits
-* ⭐ **[Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png)** - Global Map of Hardiness Zones
+* ⭐ **[Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png)**, [Topps](https://topps.diku.dk/torbenm/maps.msp)  or [Plant Maps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
 * ⭐ **[EarthEasy](https://learn.eartheasy.com/)**, [How To Garden](https://www.bhg.com/gardening/how-to-garden/), [HappySprout](https://www.happysprout.com), [Growing Guide](https://blog.planter.garden/), [Openfarm](https://openfarm.cc/), [GrowStuff](https://www.growstuff.org/) or [GrowVeg](https://www.growveg.com/) - Gardening Guides
 * [Garden Design](https://www.gardendesign.com/) - Garden Design Guides
 * [r/UrbanGardening](https://www.reddit.com/r/UrbanGardening/) - Urban Gardening Community
@@ -971,8 +971,6 @@
 * [PowerOutage](https://poweroutage.us/) - Power Outage Map
 * [ElectricityMap](https://app.electricitymap.org/) - Electricity CO₂ Emissions Map
 * [City Generator](https://probabletrain.itch.io/city-generator) or [CityGenerator](https://oskarstalberg.com/game/CityGenerator/) - City Map Generator
-* [Plant Maps](https://www.plantmaps.com/) - Native Tree Maps
-* [Topps](https://topps.diku.dk/torbenm/maps.msp) - Planet Map Generator
 * [RSOE](http://hisz.rsoe.hu/) or [EDIS](https://rsoe-edis.org/) - Emergency and Disaster Map 
 * [NCEI](https://www.ncei.noaa.gov/maps/hazards/) - Real Time Natural Hazard Map
 * [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Real Time Fires Map
