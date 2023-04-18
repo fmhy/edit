@@ -1547,3 +1547,27 @@
 * [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
 * [SlyToday](https://slytoday.com/) - Price Comparison Search
 * [Valuta EX](https://valuta.exchange/)  or [Currency World](https://currency.world/)- Currency Converters / [Firefox](https://addons.mozilla.org/en-US/firefox/search/?q=currency%20converter&sort=relevance&type=extension) / [Chrome](https://chrome.google.com/webstore/search/currency%20converter?hl=en&_category=extensions)
+
+***
+
+# ► Touch Grass 
+* ⭐ **[r/Gardening](https://reddit.com/r/gardening)** -  A subreddit dedicated to gardening & related resources
+* ⭐ **[r/Whatsthisplant/](https://www.reddit.com/r/whatsthisplant/)** - A subreddit where members will help you ID your plants
+* ⭐ **[TouchGrasss](https://rentry.co/TouchGrasss)** - Index of Agriculture & Gardening subreddits 
+* ⭐ **[Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png)** - Global map of Hardiness Zones
+* ⭐ **[EarthEasy](https://learn.eartheasy.com/)** - Informative guides for agriculture & gardening 
+* ⭐ **[iNaturalist](https://www.inaturalist.org/)** -  Identify plants & animals by sharing your findings with scientists & naturalists
+*  [Openfarm](https://openfarm.cc/) - A free and open database for farming and gardening knowledge
+* [Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture) - A curated list of awesome open source technology for agriculture, farming, and gardening
+* [r/Farming](https://reddit.com/r/farming/) - A subreddit for farming news, discussions and questions
+* [How Farms Work](https://youtube.com/channel/@HowFarmsWork) - Equipment operation, techniques, daily activities, and farming strategies 
+* [Composting](https://learn.eartheasy.com/guides/composting/) - Simple & intuitive guide on making compost at home 
+* [GrowStuff](https://www.growstuff.org/) or [GrowVeg](https://www.growveg.com/) - Food Growing / Gardening
+* [Growing Guide](https://blog.planter.garden/) - Informative guides & techniques for aspiring gardeners
+* [HappySprout](https://www.happysprout.com) - Guides, advice & tips for indoor & outdoor gardening
+* [How To Garden](https://www.bhg.com/gardening/how-to-garden/)) - Gardening Guides
+* [r/UrbanGardening](https://www.reddit.com/r/UrbanGardening/) - A community for growing plants in urban spaces
+* [Modern Farmer](https//modernfarmer.com/) - Agricultural news & guides
+* [Microgrowery](https://reddit.com/r/microgrowery/) - A subreddit dedicated to the cultivation of cannabis
+* [Garden Design](https://www.gardendesign.com/) - Gardening basics, design ideas, growing guides and how-tos
+* [PictureThis](https://www.picturethisai.com/) -  Plant Identifier App / [Android](https://play.google.com/store/apps/details?id=cn.danatech.xingseus) - [Premium](https://forum.mobilism.org/search.php?keywords=picturethis&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) / [iOS](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129)
