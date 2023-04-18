@@ -195,6 +195,7 @@
 * [Genymotion](https://www.genymotion.com/download/) - [Screenshot](https://i.imgur.com/rIoiob7.jpg) 
 * [Wakuoo](https://wakuoo.com) - [Screenshot](https://i.imgur.com/WnuitUI.png)
 * [Now.gg](https://now.gg/) - Online Android Gaming Emulator
+https://www.whosaidthat.uk/
 * [APKOnline](https://www.apkonline.net/runapk/start-androidapk.html) - Online Android Emulator
 
 ***
@@ -321,6 +322,7 @@
 * [AlmightyVolumeKeys](https://play.google.com/store/apps/details?id=com.masel.almightyvolumekeys) or [Volta](https://github.com/x13a/Volta) - Remap Volume Keys
 * [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - Text Font Generator
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [Arna Translate](https://github.com/MahanRahmati/translate), [Instalate](https://gitlab.com/concept1tech/instalate), [TranslateYou](https://github.com/Bnyro/TranslateYou), [SimplyTranslate](https://github.com/ManeraKai/simplytranslate_mobile) or [SimplyTranslate Flutter](https://github.com/ManeraKai/simplytranslate_mobile) - Translation Apps
+* [Binko](https://www.binko.ai/) - Translation Chat App
 * [NativeAlpha](https://play.google.com/store/apps/details?id=com.cylonid.nativealpha) - Run Websites in Borderland Window
 * [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) - Create App Shortcuts
 * [Surfable](https://surfable.app/) - Install Any Website as App / [GitHub](https://github.com/sandoche/Surfable-app)
@@ -580,6 +582,7 @@
 * [MinecraftPE Mods](https://minecraftpe-mods.com/) - Mobile Minecraft Mods
 * [SMAPI](https://github.com/ZaneYork/SMAPI-Android-Installer) - Multiplayer Stardew Valley
 * [Pinball for Android](https://github.com/fexed/Pinball-on-Android) - Space Cadet Pinball
+* [WhoSaidThat](https://www.whosaidthat.uk/) - Guess Who Said What
 * [ExitLag](https://play.google.com/store/apps/details?id=com.exitlag.gamebooster&hl=en&gl=US) - Decrease Ping
 
 ***
