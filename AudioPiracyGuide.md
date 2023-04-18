@@ -238,7 +238,7 @@
 ## ▷ Download Apps
 
 * ⭐ **[Music Ripping Guide](https://ori5000.github.io/musicripping.html)** / [2](https://rentry.org/florinsmusicrippingguide)
-* ⭐ **[Slavart](https://discord.gg/VdqV7NZYPa)** - Multi-Site Audio Download App / [Site](https://slavart.gamesdrive.net/), [2](https://gamesdrive.net/) / [Divolt](https://slavart.divolt.xyz) / [Telegram](https://t.me/+9znaxmYJB5lkNzA8) / [Qobuz Copy](https://rentry.co/qobuz-slavart)
+* ⭐ **[Slavart](https://discord.gg/NgPJTt3WK3)** - Multi-Site Audio Download App / [Site](https://slavart.gamesdrive.net/), [2](https://gamesdrive.net/) / [Divolt](https://slavart.divolt.xyz) / [Telegram](https://t.me/+9znaxmYJB5lkNzA8) / [Qobuz Copy](https://rentry.co/qobuz-slavart)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Audio Download App
 * ⭐ **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Download from Spotify
 * ⭐ **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download from YouTube
