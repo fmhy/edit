@@ -963,7 +963,6 @@
 * [NeverInstall](https://neverinstall.com/) - Use Apps in Browser
 * [QuteBrowser](https://qutebrowser.org/) - Keyboard Focused Browser 
 * [Browsh](https://www.brow.sh/) - Text Based Browser 
-* [Beaker](https://beakerbrowser.com/) - P2P Web Browser 
 * [webbrowser.git](https://git.nuegia.net/webbrowser.git/) - Lightweight Browser 
 * [Pulse](https://pulsebrowser.app/), [MinBrowser](https://minbrowser.org/) or [Agregore Browser](https://github.com/AgregoreWeb/agregore-browser) - Minimalist Browser
 * [Vieb](https://vieb.dev/) - Vim Inspired Browser
@@ -1193,7 +1192,7 @@
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown) - Learn Reddit Markdown
 * [Busca](https://github.com/afk-mario/busca) - Search / Post Current Tab on Reddit
 * [KarmaDecay](http://karmadecay.com/) - Reddit Reverse Image Search 
-* [Legere](https://www.microsoft.com/en-us/p/legere-for-reddit/9phjrvcskvjz), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/) or [Nuxtit](https://nuxtit.netlify.com/) - Alt Browsers / Web Clients
+* [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/) or [Nuxtit](https://nuxtit.netlify.com/) - Alt Browsers / Web Clients
 * [dappradar](https://reddit.dappradar.com/) - Popular Reddit Post Tracker
 * [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466), [Unedit](https://github.com/DenverCoder1/Unedit-for-Reddit), [Unddit](https://www.unddit.com/) / [2](https://camas.unddit.com/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - View Deleted Reddit Posts
 * [ReSavr](https://www.resavr.com/) or [Unreddit](https://github.com/pauldraper/unreddit) - View Deleted Reddit Comments 
