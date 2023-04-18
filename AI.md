@@ -28,8 +28,8 @@
 * [Alpaca Lora](https://huggingface.co/spaces/tloen/alpaca-lora) - Chatbot Built by Standford / [Git](https://github.com/antimatter15/alpaca.cpp) / [Guide](https://github.com/tatsu-lab/stanford_alpaca) / [Self-Host](https://github.com/tloen/alpaca-lora) / [Docker](https://github.com/chris-alexiuk/alpaca-lora)
 * [PygmalionAI](https://redd.it/10kr5zk) - Chatbot Built by 4Channers / [Guide](https://rentry.org/pygmalion-local) / [FAQ](https://rentry.org/pygmalion-ai)
 * [InWorld](https://www.inworld.ai/) - Roleplaying Chatbots
-* [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbots
-* [Chai](https://chai.ml/) - Entertainment Focused Chatbot
+* [Chai](https://chai.ml/) or [MessengerX](https://www.messengerx.io/) - Entertainment Focused Chatbots
+* [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbot
 * [AnimaAI](https://myanima.ai/) - Virtual Companion
 * [JackChat](https://app.jackchat.ai/) - Browser Based Chatbot
 * [cleverbot](https://www.cleverbot.com/) - Browser Based Chatbot
@@ -40,6 +40,7 @@
 * [AICommand](https://github.com/keijiro/AICommand) - ChatGPT with Unity Editor
 * [Leon](https://getleon.ai/) - AI Assistant
 * [CharacterHub](https://www.characterhub.org/) - Characters for LLMs
+* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Fully Autonomous GPT-4
 * [Kajiwoto](https://kajiwoto.com/), [Miki](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
 * [YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained Language Model
 * [Bloom](https://huggingface.co/bigscience/bloom) - Open-access Multilingual Language Model
@@ -82,7 +83,7 @@
 * [flowgpt](https://flowgpt.com/) - Prompt Directory
 * [OrdinaryPeoplePrompts](https://www.ordinarypeopleprompts.com/) - Prompt Directory
 * [jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html) - Prompt Directory
-* [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) - Prompt Generator
+* [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) or [PromptBot](https://www.messengerx.io/promptbot) - Prompt Generators
 * [botprompts](https://botprompts.net/) - Fun Prompts
 * [DAN](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516) or [GPT Jailbreak](https://rentry.co/gptjailbreak) - DAN / John Prompts
 * [ChatGPT-History](https://github.com/benf2004/ChatGPT-History) or [Spell.so](https://spell.so/) - Prompt Management Extensions
