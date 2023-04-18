@@ -1373,12 +1373,6 @@ pass: paluch
 
 ***
 
-#### Torrent TD
-
-`aHR0cHM6Ly90ZC50b3JyZW50LXRvLWRyaXZlLndvcmtlcnMuZGV2LzA6L01pcnJvcnMv`
-
-***
-
 #### Burp
 
 `aHR0cHM6Ly9maWxlY3IuY29tLz9zPUJ1cnArU3VpdGUrUHJvZmVzc2lvbmFs`
