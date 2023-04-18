@@ -141,6 +141,8 @@
 * [TorrentQuest](https://torrentquest.com/)
 * [TorrentHound](http://torrenthound.ee/)
 * [LibTor](https://libtor.ch/)
+* [DaMag](https://damag.net/)
+* [Cleanbay](https://cleanbay.netlify.app/)
 * [Torrends](https://torrends.to/)
 * [CloudTorrents](https://cloudtorrents.com/)
 * [TNTBack](https://tntback.github.io/)
