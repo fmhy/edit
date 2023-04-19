@@ -157,6 +157,7 @@
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - [Mobile App](https://forum.mobilism.org/app/)
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)**
 * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** - Multi-Site Software Search
 * [4Download](https://www.4download.net/)
 * [Diakov](https://diakov.net/)
 * [AIOWares](https://www.aiowares.com/)
