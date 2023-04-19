@@ -166,7 +166,6 @@
 * [FileCR](https://filecr.com/en/) - [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass) / Anti-Adblock Site
 * [soft98](https://soft98.ir/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Mutaz.net](https://www.mutaz.net/)
-* [WagnardSoft](https://www.wagnardsoft.com/)
 * [SCloud](https://scloud.ws/)
 * [AllPCWorld](https://allpcworld.com/)
 * [Heidoc](https://www.heidoc.net/joomla/)
