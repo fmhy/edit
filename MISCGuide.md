@@ -1279,6 +1279,8 @@
 * [Not For You](https://bengrosser.com/projects/not-for-you/) - Confuse Tik-Toks Recommendation Algorithm
 * [OctoShop](https://www.instok.org/octoshop) - In-Stock Alerts
 
+***
+
 ## ▷ Firefox
 
 * ⭐ **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/extensions/)**
@@ -1328,6 +1330,8 @@
 * [Plasma Integration](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/) - Control Browser via Plasma 
 * [Session Sync](https://addons.mozilla.org/en-US/firefox/addon/session-sync/) - Session Manager 
 * [DelayWebpage](https://addons.mozilla.org/en-US/firefox/addon/delaywebpage/) - Set Webpage Loading Delays
+
+***
 
 ## ▷ Chrome
 
@@ -1430,6 +1434,8 @@
 * [Zoom Scheduler](https://zoom.us/download#chrome_ext) - Zoom Meeting Scheduler
 * [Typewriter](https://chrome.google.com/webstore/detail/typewriter/jfghikfjnjkjkdpndeecjheealfoabhc) - Typing Typewriter Sounds
 
+***
+
 ## ▷ Safari
 
 * [‎Momentum](https://apps.apple.com/us/app/momentum/id1564329434) - Custom New Tab Page
@@ -1440,6 +1446,8 @@
 * [PiPifier](https://apps.apple.com/us/app/pipifier/id1234771095) - Picture in Picture Mode
 * [Web Inspector](https://apps.apple.com/us/app/web-inspector/id1584825745) - Inspect Element Tools for Safari
 * [Safari Snippets](https://apps.apple.com/us/app/safari-snippets/id1126048257) - Insert Code into Safari
+
+***
 
 ## ▷ Userscripts
 
