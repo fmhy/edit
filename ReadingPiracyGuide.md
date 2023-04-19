@@ -58,7 +58,7 @@
 * ⭐ **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [5](https://ravebooksearch.com/) / [6](https://recherche-ebook.fr/en/) - Multi-Site Book Search
 * ⭐ **[Anna’s Archive](https://annas-archive.org/)** - Books / Comics / Educational
 * ⭐ **[Z-Library](https://singlelogin.me/)**, [2](https://1login.to/) - Books / Comics / Educational
-* ⭐ **Z-Lib Tools** - [Megathread](https://redd.it/zx6z62) / [I2P](http://kkd7tiqf5lv3olqfdnkw4znmmmmnjo2xqlxrp5ntthp6juowaiha.b32.i2p) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Amazon Links](https://github.com/annaelmoussa/amazon-zlibrary) / [Subreddit](https://www.reddit.com/r/zlibrary/)
+* ⭐ **Z-Lib Tools** - [Megathread](https://redd.it/zx6z62) / [I2P](http://kkd7tiqf5lv3olqfdnkw4znmmmmnjo2xqlxrp5ntthp6juowaiha.b32.i2p) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Subreddit](https://www.reddit.com/r/zlibrary/)
 * ⭐ **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools) / [ACSM Plugin](https://github.com/Leseratte10/acsm-calibre-plugin)
 * ⭐ **[Library Genesis](https://libgen.fun/)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen__mirrors)
