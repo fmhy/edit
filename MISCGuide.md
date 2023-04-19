@@ -754,9 +754,8 @@
 # ► Gardening
 
 * ⭐ **[TouchGrasss](https://rentry.co/TouchGrasss)** - Agriculture / Gardening Subreddits
-* ⭐ **[/r/Gardening](https://reddit.com/r/gardening)** -  Gardening Community
 * ⭐ **[EarthEasy](https://learn.eartheasy.com/)**, [How To Garden](https://www.bhg.com/gardening/how-to-garden/), [HappySprout](https://www.happysprout.com), [Growing Guide](https://blog.planter.garden/), [Openfarm](https://openfarm.cc/), [GrowStuff](https://www.growstuff.org/) or [GrowVeg](https://www.growveg.com/) - Gardening Guides
-* ⭐ **[Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png)**, [Topps](https://topps.diku.dk/torbenm/maps.msp)  or [Plant Maps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
+* ⭐ **[/r/Gardening](https://reddit.com/r/gardening)** -  Gardening Community
 * ⭐ **[/r/Whatsthisplant](https://www.reddit.com/r/whatsthisplant/)** or [iNaturalist](https://www.inaturalist.org/) - Plant Identification Communities
 * [PictureThis](https://www.picturethisai.com/) / [Premium](https://forum.mobilism.org/search.php?keywords=picturethis&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - Plant Identification Tool / [Android](https://play.google.com/store/apps/details?id=cn.danatech.xingseus) / [iOS](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129)
 * [Garden Design](https://www.gardendesign.com/) - Garden Design Guides
@@ -766,6 +765,7 @@
 * [Composting](https://learn.eartheasy.com/guides/composting/) - Composting Guides
 * [Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open-Source Agriculture / Gardening Tech
 * [Modern Farmer](https://modernfarmer.com/) - Agricultural News
+* [Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png), [Topps](https://topps.diku.dk/torbenm/maps.msp)  or [Plant Maps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
 * [Cannabis Growing Subreddits](https://www.reddit.com/r/trees/wiki/entreddits_social#wiki_growing)
 * [/r/Microgrowery](https://reddit.com/r/microgrowery/) - Cannabis Growing Community
 
