@@ -168,7 +168,6 @@
 * [Mutaz.net](https://www.mutaz.net/)
 * [WagnardSoft](https://www.wagnardsoft.com/)
 * [SCloud](https://scloud.ws/)
-* [3almalt9nia](https://3almalt9nia.com/)
 * [AllPCWorld](https://allpcworld.com/)
 * [Heidoc](https://www.heidoc.net/joomla/)
 * [SamLab](https://samlab.ws/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
