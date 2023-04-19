@@ -1015,6 +1015,7 @@
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)**, [2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w), [3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Search Audio Download Sites
 * ⭐ **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)** - Search Anime Download Sites
 * ⭐ **[Game Download CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_download_cse)** - Search Game Download Sites
+* ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** - Search Software Sites
 * ⭐ **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)**, [2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) / [librex](https://github.com/hnhx/librex) - Search General Torrent Sites
 * ⭐ **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)** - Search Video Torrent Sites
 * ⭐ **[Anime Torrent CSE]( https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz)** - Search Anime Torrent Sites
