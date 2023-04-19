@@ -1521,3 +1521,10 @@ pass: paluch
 #### WeTorrent Pro
 
 `aHR0cHM6Ly9hcGttb2R5LmlvL2FwcHMvd2V0b3JyZW50LXRvcnJlbnQtZG93bmxvYWRlcg==`
+
+***
+
+#### TTRPG Books
+
+`aHR0cHM6Ly9wYXN0ZWJpbi5jb20vVEdkUlpjV0o=`
+
