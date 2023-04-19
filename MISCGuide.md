@@ -765,6 +765,7 @@
 * [Composting](https://learn.eartheasy.com/guides/composting/) - Composting Guides
 * [Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open-Source Agriculture / Gardening Tech
 * [Modern Farmer](https://modernfarmer.com/) - Agricultural News
+* [Cannabis Growing Subreddits](https://www.reddit.com/r/trees/wiki/entreddits_social#wiki_growing)
 * [/r/Microgrowery](https://reddit.com/r/microgrowery/) - Cannabis Growing Community
 * [PictureThis](https://www.picturethisai.com/) / [Premium](https://forum.mobilism.org/search.php?keywords=picturethis&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - Plant Identification Tool / [Android](https://play.google.com/store/apps/details?id=cn.danatech.xingseus) / [iOS](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129)
 
