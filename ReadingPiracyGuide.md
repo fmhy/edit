@@ -351,7 +351,7 @@
 * [Potions and Snitches](http://www.potionsandsnitches.org/) - Harry Potter Fanfiction
 * [Projectrho](http://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
 * [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG / [Archives](https://github.com/nbats/FMHYedit/blob/main/base64.md#the-trove-archives) / [/r/TheTroveIPFS](https://www.reddit.com/r/TheTroveIPFS/)
-* [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) - TTRPG Rulebooks
+* [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) or [TTRPG Torrent](https://github.com/nbats/FMHYedit/blob/main/base64.md#ttrpg-books) - TTRPG Books
 * [Cinema EBooks Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#cinema-ebooks-collection) - Cinema Books
 * [SimplyScripts](https://www.simplyscripts.com/) or [SubsLikeScript](https://subslikescript.com/) - Movie / TV Scripts
 * [The Anarchist Library](http://theanarchistlibrary.org/special/index) - Anarchism
