@@ -28,7 +28,7 @@
 * [Alpaca Lora](https://huggingface.co/spaces/tloen/alpaca-lora) - Chatbot Built by Standford / [Git](https://github.com/antimatter15/alpaca.cpp) / [Guide](https://github.com/tatsu-lab/stanford_alpaca) / [Self-Host](https://github.com/tloen/alpaca-lora) / [Docker](https://github.com/chris-alexiuk/alpaca-lora)
 * [PygmalionAI](https://redd.it/10kr5zk) - Chatbot Built by 4Channers / [Guide](https://rentry.org/pygmalion-local) / [FAQ](https://rentry.org/pygmalion-ai)
 * [InWorld](https://www.inworld.ai/) - Roleplaying Chatbots
-* [Chai](https://chai.ml/) or [MessengerX](https://www.messengerx.io/) - Entertainment Focused Chatbots
+* [Chai](https://www.chai-research.com/) or [MessengerX](https://www.messengerx.io/) - Entertainment Focused Chatbots
 * [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbot
 * [AnimaAI](https://myanima.ai/) - Virtual Companion
 * [JackChat](https://app.jackchat.ai/) - Browser Based Chatbot
@@ -55,7 +55,7 @@
 * ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
 * [EmergentMind](https://www.emergentmind.com/) - ChatGPT Forum
 * [Text Gen Web UI](https://github.com/oobabooga/text-generation-webui/) or [TurboGPT.ai](https://turbogpt.ai/) - AI Chat WebUI
-* [ChatGPT Desktop](https://github.com/sonnylazuardi/chatgpt-desktop), [TurboGPT](https://github.com/mikebpech/turbogpt.ai) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
+* [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [TurboGPT](https://github.com/mikebpech/turbogpt.ai) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
 * [Assistant CLI](https://github.com/diciaup/assistant-cli), [ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) or [openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt) - TUIs and CLIs
 * [pyChatGPT](https://github.com/terry3041/pyChatGPT) - Python App
 * [GPTPrompter](https://www.gptprompter.com/), [ChatHub](https://github.com/chathub-dev/chathub) or [ChatGPTBox](https://github.com/josStorer/chatGPTBox) - ChatGPT Browser Extensions
@@ -86,7 +86,7 @@
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) or [PromptBot](https://www.messengerx.io/promptbot) - Prompt Generators
 * [botprompts](https://botprompts.net/) - Fun Prompts
 * [DAN](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516) or [GPT Jailbreak](https://rentry.co/gptjailbreak) - DAN / John Prompts
-* [ChatGPT-History](https://github.com/benf2004/ChatGPT-History) or [Spell.so](https://spell.so/) - Prompt Management Extensions
+* [ChatGPT-History](https://github.com/benf2004/ChatGPT-Prompt-Genius) or [Spell.so](https://spell.so/) - Prompt Management Extensions
 
 ***
 ***
@@ -146,7 +146,7 @@
 * [BlogNLP](https://www.blognlp.com/) - Creator / Marketing AI
 * [Writerly](https://writerly.ai/) - Creator / Marketing AI
 * [Marmof](https://marmof.com/) - Creator / Marketing AI
-* [ReplyPal](https://lolgames.net/) or [ChatGPT Writer](https://chatgptwriter.ai/) - Email Reply AI
+* [GPT4Chat](https://gpt4chat.net/) or [ChatGPT Writer](https://chatgptwriter.ai/) - Email Reply AI
 * [codex-readme](https://github.com/tom-doerr/codex-readme) - README AI Generator
 * [WTFDoesThisCompanyDo](https://wtfdoesthiscompanydo.vercel.app/) - AI Site Explanations
 * [EleutherAI](https://6b.eleuther.ai/) - Text Autocomplete AI
@@ -189,7 +189,7 @@
 * [chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)
 * [ai-content-detector](https://contentatscale.ai/ai-content-detector/)
 * [Corrector App](https://corrector.app/ai-content-detector/)
-* [openai-detector](https://huggingface.co/openai-detector/) / [2](https://openai-openai-detector.hf.space/)
+* [openai-detector](https://openai-openai-detector.hf.space/) - Detect GPT-2 Text
 
 
 ***
@@ -202,7 +202,7 @@
 * ⭐ **[Stability-AI](https://github.com/Stability-AI/stablediffusion)** /  [2](https://huggingface.co/spaces/stabilityai/stable-diffusion) - AI Image Generator / [Discord](https://discord.com/invite/stablediffusion) / [Variations](https://github.com/justinpinkney/stable-diffusion) 
 * ⭐ **[DeepAI](https://deepai.org/machine-learning-model/stable-diffusion)** / [2](https://deepai.org/machine-learning-model/text2img) - AI Image Generator / [Tools](https://deepai.org/apis)
 * ⭐ **[MagicBrush](https://www.magicbru.sh/)**, [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - AI Image Transformers
-* ⭐ **[Lexica](https://lexica.art/)**, [PixAI](https://pixai.art/), [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) or [Krea](https://www.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
+* ⭐ **[Lexica](https://lexica.art/)**, [PixAI](https://pixai.art/), [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) or [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
 * ⭐ **[SD WebUI](https://github.com/cmdr2/stable-diffusion-ui)** / [2](https://github.com/neonsecret/stable-diffusion-webui) / [3](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [4](https://github.com/Sygil-Dev/sygil-webui) / [5](https://github.com/ddPn08/Lsmith) - Stable Diffusion WebUI / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Colab](https://github.com/pinilpypinilpy/sd-webui-colab-simplified), [2](https://github.com/camenduru/stable-diffusion-webui-colab)
 * ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - List of Stable Diffusion Models
 * ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
@@ -211,7 +211,7 @@
 * ⭐ **[PromptMania](https://promptomania.com/)** - AI Image Prompt Generator
 * [PublicPrompts](https://publicprompts.art/) - AI Image Prompts / [Discord](https://discord.com/invite/jvQJFFFx26)
 * [Unprompted](https://github.com/ThereforeGames/unprompted) - Stable Diffusion Text Generator
-* [Stable Horde](https://stablehorde.net/) - AI Image Generator / [Client](https://dbzer0.itch.io/stable-horde-client)
+* [Stable Horde](https://stablehorde.net/) - AI Image Generator / [Client](https://dbzer0.itch.io/lucid-creations)
 * [Pinegraph](https://pinegraph.com/create) - Image Transformation / Sketchpad
 * [SD GUI](https://nmkd.itch.io/t2i-gui) or [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Stable Diffusion GUIs / [Colab](https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4?usp=sharing)
 * [InPainter](https://inpainter.vercel.app/paint) / [2](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) - AI Image Generator
@@ -243,14 +243,14 @@
 * [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent) - AI Image Generator
 * [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - AI Image Generator
 * [Dreambooth](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - AI Image Generator / [WebUI](https://github.com/d8ahazard/sd_dreambooth_extension)
-* [Diffuse The Rest](https://huggingface.co/spaces/huggingface/diffuse-the-rest) - AI Image Generator
+* [Diffuse The Rest](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest) - AI Image Generator
 * [InvokeAI](https://github.com/invoke-ai/InvokeAI) - AI Image Generator
 * [Waifu Diffusion](https://github.com/harubaru/waifu-diffusion) - Anime Image Generator
 * [Gligen](https://huggingface.co/spaces/gligen/demo) - Open-Set Grounded Text-to-Image Generation
 * [AI Notebooks](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - AI Image Generation Colab
 * [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) - AI Image Generation Colab
 *  [NOP / WAS](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17) - AI Image Generation Colab
-* [AI Gahaku](https://ai-art.tokyo/en/), [Painting by Numbers](https://painting-by-numbers.co/pages/create-your-own), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/), [InstaPainting](https://www.instapainting.com/assets/) or [Deep Dream Generator](https://deepdreamgenerator.com/) - Turn Photos into Artwork
+* [AI Gahaku](https://ai-art.tokyo/en/), [Paint by Numbers](https://paint-by-number.com/pages/create-your-own-paint-by-number), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/), [InstaPainting](https://www.instapainting.com/assets/) or [Deep Dream Generator](https://deepdreamgenerator.com/) - Turn Photos into Artwork
 * [Pet AI](https://petai.art/) - Turn Pet Photos into Artwork
 * [Nightmare Machine](http://nightmare.mit.edu/) - Scary AI Generated Imagery
 * [Interiorai](https://interiorai.com/) - AI Interior Design Tool
@@ -324,8 +324,8 @@
 * [MorphVOX](https://github.com/nbats/FMHYedit/blob/main/base64.md#morphvox) - Voice Changer
 * [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - Voice Changer
 * [MyVoiceMod](https://myvoicemod.com/) - Voice Changer
-* [Voice.ai](https://voice.ai/voice-changer) - Voice Changer
-* [so-vits-svc-fork](https://github.com/34j/so-vits-svc-fork) - Voice Changer
+* [Voice.ai](https://voice.ai/ai-voice-changer) - Voice Changer
+* [so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - Voice Changer
 * [FTM Voice Changer](https://lingojam.com/FemaletoMaleVoiceChanger) - Voice Changer
 * [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changer
 * [NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB) - Singing Voice Enhancer
