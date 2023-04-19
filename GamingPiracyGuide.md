@@ -85,7 +85,7 @@
 ## ▷ Single Games
 
 * ⭐ **[Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers)** - F2P Minecraft Clients / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_minecraft_tools) / [Beta Clients](https://betacraft.uk/) / [Bedrock / Java](https://redd.it/xj5w9m)
-* ⭐ **[CsWarzOnE](https://www.cswarzone.com/)** - Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)
+* ⭐ **[CsWarzOnE](https://cswarzone.com/)** - Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)
 * ⭐ **[Fortnite-Builds](https://github.com/notsamicc/Fortnite-Builds)** - Previous Fortnite Seasons
 * [Minetest](https://www.minetest.net/) - Open Source Minecraft Alternative
 * [JustEmuTarkov](https://justemutarkov.eu/) - Escape from Tarkov Emulator
@@ -169,7 +169,7 @@
 
 * ⭐ **[Vimms Lair](https://vimm.net/)** - Emulators / ROMs
 * ⭐ **[No-Intro](https://github.com/nbats/FMHYedit/blob/main/base64.md#no-intro)** - ROMs
-* ⭐ **[Rom Center](https://r-ROMs.github.io/)**, [2](https://r-roms.gitlab.io/megathread/), [3](https://pastelink.net/24dhn) - ROMs / [Pastebins](https://github.com/nbats/FMHYedit/blob/main/base64.md#romcenter)
+* ⭐ **[Rom Center](https://r-roms.github.io/)**, [2](https://r-roms.gitlab.io/megathread/), [3](https://pastelink.net/24dhn) - ROMs / [Pastebins](https://github.com/nbats/FMHYedit/blob/main/base64.md#romcenter)
 * ⭐ **[Myrient](https://myrient.erista.me/)** - ROMs
 * ⭐ **[AlvRo](https://github.com/nbats/FMHYedit/blob/main/base64.md#alvro)** - ROMs / pw: ByAlvRo
 * ⭐ **[CrocDB](https://crocdb.net/)** - Emulators / ROMs
@@ -180,7 +180,7 @@
 * [/r/ROMs](https://www.reddit.com/r/ROMs/) - Discussion Sub
 * [ROM Managers](http://emulation.gametechwiki.com/index.php/ROM_managers) - List of ROM Managers
 * [ROM-Collections](https://rentry.co/ROM-Collections) - ROMs
-* [WowROMs](https://wowROMs.com/en/) - ROMs
+* [WowROMs](https://wowroms.com/en) - ROMs
 * [Edge Emulation](https://edgeemu.net/) - ROMs
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - ROMs 
 * [Zophar's Domain](https://www.zophar.net/) - Emulators / ROM Hacks
@@ -217,7 +217,6 @@
 * [DownloadArea81](https://www.downarea51.com/) - Emulators / ROMs
 * [ROMs Planet](https://romsplanet.com/) - Emulators / ROMs
 * [CoolROMs](https://coolrom.com.au/) - Emulators / ROMs 
-* [Nostalgialand](https://nostalgialand.net/) - ROMs
 * [All Xbox Game](https://dlxbgame.com/) - ROMs
 * [RPGOnly](https://rpgonly.com) - ROMs
 * [RomToHome](https://romtohome.com/) - ROMs
@@ -245,7 +244,7 @@
 * [3DS ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - ROMs / 3DS
 * [merwanachibet](http://merwanachibet.net/gameboy-roms.html) - ROMs / Gameboy
 * [NoPayStation](https://nopaystation.com/), [SafeROMs](https://www.saferoms.com/) or [PSNDL](https://psndl.net/) - ROMs / Playstation Consoles
-* [PKGPS4](https://www.pkgps4.com/) or [Auctor](https://auctor.tv/) - ROMs / PS4
+* [PKGPS4](https://www.pkgps4.click/) or [Auctor](https://auctor.tv/) - ROMs / PS4
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
 * [Xbox Fan](https://github.com/nbats/FMHYedit/blob/main/base64.md#xbox-fan) - Xbox 360 ROMs / LT Firmware & FREEBOOT / [Telegram](https://t.me/xbox_fan_games)
 * [Forest of Illusion](https://forestillusion.com/) - Nintendo Prototype ROMs
@@ -373,7 +372,7 @@
 * [OpenMW](https://openmw.org/en/) - Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/TES3MP)
 * [WannabeThesis](https://lerppu.net/wannabethesis/) - Retro Game Ports
 * [NBlood](https://github.com/nukeykt/NBlood) - Reverse-Engineered Ports of Build Games
-* [Classic DOOM](http://classicdoom.com/) - Classic Doom Downloads 
+* [Classic DOOM](https://classicdoom.com/) - Classic Doom Downloads 
 * [DoomWorld](https://www.doomworld.com/) - Doom Downloads / Wads / Mods / Editing 
 * [Realm667](https://www.realm667.com/index.php/en/) - Doom Mods 
 * [SLADE](https://slade.mancubus.net/) - Doom Modding Tool / [GitHub](https://github.com/sirjuddington/SLADE)
@@ -456,7 +455,7 @@
 * [Gamepix](https://www.gamepix.com/)
 * [KibaGames](https://www.kibagames.com/)
 * [HTML5 Games](https://html5games.com/) / [Browser](http://html5.thebestarcadescript.com/)
-* [yell0wsuit](https://yell0wsuit.page/html5-games/index.html)
+* [yell0wsuit](https://yell0wsuit.page/games.html)
 * [Kizi](https://kizi.com/) 
 * [Gamaverse](https://gamaverse.com/) 
 * [FOG](https://www.freeonlinegames.com/) 
@@ -510,7 +509,7 @@
 * [2020 Game](https://2020game.io/) - Play through 2020
 * [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
 * [QWOP](http://www.foddy.net/Athletics.html) - Ragdoll Running Game
-* [Checkbox Olympics](https://checkboxolympics.com/) - Checkbox Browser Games
+* [Checkbox Olympics](https://checkbox.toys/) - Checkbox Browser Games
 * [Dino Swords](https://dinoswords.gg/) - Stay Alive by Jumping / Destroying Cacti
 * [The Circle](https://the-circle.app/) - Dodge Circles
 * [PROXX](https://proxx.app/) - A Game of Proximity
@@ -527,7 +526,7 @@
 * [Little Alchemy](https://littlealchemy.com/) or [Little Alchemy 2](https://littlealchemy2.com/) - Alchemy Game
 * [Short Trip](https://alexanderperrin.com.au/paper/shorttrip/) - Relaxing Cat Game
 * [Quick, Draw](https://quickdraw.withgoogle.com/) - Doodle Game
-* [Raptjs](http://www.raptjs.com/) - Puzzle Platformer
+* [Raptjs](https://madebyevan.com/rapt/) - Puzzle Platformer
 * [Synesthesia in Space](http://synesthesiagame.com/) - Puzzle Platformer
 * [Tales of Dorime](https://dorime.udany.net/) - 2D Platformer
 * [PrinceJS](https://princejs.com/) - Prince of Persia
@@ -560,7 +559,7 @@
 * [A Leaf on the Wind](http://anism.org/lotw/) - Leaf Arcade Game 
 * [Polka Dot Game](https://www.polkadotgame.com/) - Dodge & Eat Dots
 * [Spinner](https://hyperspace-wizard.itch.io/spinner) - Spinner Timing Game
-* [SWOOOP](http://swooop.playcanvas.com/) - Fly a Bi-Plane around an Island 
+* [SWOOOP](https://playcanv.as/p/JtL2iqIH) - Fly a Bi-Plane around an Island 
 * [Plane Food Simulator](https://sheepandram.itch.io/pfs2021) - Plane Food Eating Game
 * [Master Archer](https://playcanv.as/p/JERg21J8/) - Archery Game 
 * [Galaxies](https://playcanv.as/p/Ikq6Uk6A/) - Space Combat Game 
@@ -607,7 +606,7 @@
 * [ZombsRoyale.io](https://zombsroyale.io/) - Zombie Battle Royale 
 * [Yohoho.io](https://www.yohoho.io/) - Pirate Battle Royale
 * [1v1.LOL](https://1v1.lol/) - 1v1 Building / Battle Sim
-* [MiniRoyale](https://miniroyale2.io/) - Battle Royal Game 
+* [MiniRoyale](https://miniroyale.io/) - Battle Royal Game 
 * [TagPro](https://koalabeast.com/) - Capture the Flag
 * [Wings.io](http://wings.io/) - Plane Battles
 * [Gpop.io](http://gpop.io/) - Rhythm Game
@@ -661,7 +660,7 @@
 * [Mah-Jongg](https://www.mah-jongg.ch/) - Mahjongg Solitaire Games
 * [Blackjack Break](https://blackjackbreak.com/) - Browser Blackjack
 * [Poker Now](https://www.pokernow.club/), [LiPoker](https://lipoker.io/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
-* [KDice](http://www.kdice.com/) - Multiplayer Dice War
+* [KDice](https://www.kdice.com/) - Multiplayer Dice War
 * [Curlie Yahtzee](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Dice/Yahtzee) - Yahtzee Sites Collection
 * [Hexxagon](https://hexxagon.com/) - Hexagonal Board Game
 * [The Bafflement Fires](http://www.dpoetry.com/fires/) - 1950's Freemasonic Board Game
@@ -1120,7 +1119,6 @@
 * [u.gg](https://u.gg/), [MobaFire](https://www.mobafire.com/), [ProBuilds](https://www.probuilds.net/) or [LoLalytics](https://lolalytics.com/) - League of Legends Build Guides & Tiers
 * [LoL Math](https://lolmath.net/) - League of Legends Build Calculator
 * [League of Graphs](https://www.leagueofgraphs.com/) - Champion Rankings
-* [LoL Counter](https://lolcounter.com/) - LoL Counter Picks 
 * [Rewind.lol](https://rewind.lol/) or [LoLEcho](http://lolecho.com/) - League of Legends Match History
 * [Teemo](https://teemo.gg/) - LoL, TeamFight & Wild Rift Models
 * [Surrenderat20](https://www.surrenderat20.net/) - League of Legends News
@@ -1213,7 +1211,7 @@
 * [gtasa-savegame-editor](https://github.com/Kronavarb/gtasa-savegame-editor) - GTASA Save Editor
 * [SAMP-GPS](https://github.com/janglapuk/SAMP-GPS) - GTASA Multiplayer GPS
 * [IMFX](https://github.com/DK22Pac/imfx) - GTASA Improved FX Mod
-* [VehFuncs](https://www.mixmods.com.br/2020/12/vehfuncs-v2-2-beta/) - GTASA Vehicle Mods
+* [VehFuncs](https://www.mixmods.com.br/2023/01/sa-vehfuncs/) - GTASA Vehicle Mods
 * [mobile-hud](https://github.com/DK22Pac/mobile-hud) - GTASA Mobile HUD Mod
 * [SA Mission Maker](https://libertycity.net/files/gta-san-andreas/175089-sa-mission-maker-v1-45.html) or [DYOM](https://dyom.gtagames.nl/) - GTASA Mission Creator
 * [GTA3MP3](https://gtamp.com/gta3/) - GTA3 Multiplayer Mod
@@ -1255,7 +1253,7 @@
 * [MCStalker](https://discord.gg/CB78nDfBeQ) - Minecraft Whitelist Enforcement Tool
 * [NameMC](https://namemc.com/) - Minecraft Name Availability Tracker
 * [2Bored2Wait](https://github.com/themoonisacheese/2bored2wait) - 2B2T Queue Proxy
-* [paper-optimization](https://eternity.community/index.php/paper-optimization/) or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Minecraft Server Optimization Guides
+* [paper-optimization](https://paper-chan.moe/paper-optimization/) or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Minecraft Server Optimization Guides
 * [mcsrvstat](https://mcsrvstat.us/) - Server Status Updates
 * [LazyMc](https://github.com/timvisee/lazymc) - Idle Minecraft Server 
 * [TopMinecraftServers](https://topminecraftservers.org/) - List of Minecraft Servers
@@ -1279,7 +1277,7 @@
 * [Water-Physics-Overhaul](https://www.curseforge.com/minecraft/mc-mods/water-physics-overhaul) - Realistic Minecraft Water Physics
 * [Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) - Minecraft Bedrock Miner
 * [Outvoted](https://www.curseforge.com/minecraft/mc-mods/outvoted) - Outvoted Minecraft Live Mobs
-* [MCrev](https://github.com/MC874/MCrev) - Windows 10 Minecraft License Bypasser
+* [MCrev](https://github.com/mcrax/mcrev) - Windows 10 Minecraft License Bypasser
 * [Baritone](https://github.com/cabaletta/baritone) - Minecraft Pathfinding System
 * [Sigma-Deleter](https://github.com/XatzClient/Sigma-Deleter) or [Sigma-Wiper](https://github.com/owersite/sigma-wiper) - Remove Sigma Miner
 
@@ -1292,7 +1290,7 @@
 * [TerraLauncher](https://github.com/trigger-segfault/TerraLauncher) - Terraria Launcher
 * [TConvert](https://github.com/trigger-segfault/TConvert) - Terraria Content Manager
 * [N-Terraria](https://forums.terraria.org/index.php?threads/n-terraria-mod-rpg-races-classes-quests-and-other-things.542/) - Terraria Mod
-* [TEdit](https://www.binaryconstruct.com/tedit), [terramap](https://terramap.github.io/), [MoreTerra](https://github.com/mike-mo/MoreTerra/releases), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/tag/3.1.5) or [terraria-map-editor](https://www.terraria-map-editor.com/) - Map Viewers / Editors
+* [TEdit](https://www.binaryconstruct.com/tedit), [terramap](https://terramap.github.io/), [MoreTerra](https://github.com/mike-mo/MoreTerra/releases), [TerraFirma](https://github.com/mrkite/TerraFirma/releases/tag/3.1.5) or [terraria-map-editor](https://tedit.github.io/terraria-map-editor-web/) - Map Viewers / Editors
 * [Terrasavr](https://yal.cc/r/terrasavr/) - Terraria Character Editor
 * [ArmorHelper](https://forums.terraria.org/index.php?threads/armorhelper-sprite-armor-sets-30x-times-faster.68744/) - Terraria Armor Customization Tool
 * [TerrariaDepot](https://forums.terraria.org/index.php?threads/terrariadepotdownloader-downgrade-to-any-version.107519/) - Terraria Downgrader
