@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/5o4kTkM.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/ZcvAMF5.png)** - For mobile users
 
 ***
 ***
@@ -12,7 +12,7 @@
 #### 3D Modeling Apps
 
 * ⭐ **[Blender](https://www.blender.org/)**
-* ⭐ **Blender Tools** - [Resources](https://github.com/agmmnn/awesome-blender) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [Plugins](https://t.me/blenderplugs) / [AI Render](https://github.com/benrugg/AI-Render)
+* ⭐ **Blender Tools** - [Resources](https://github.com/agmmnn/awesome-blender) / [Tutorials](https://www.3dbestie.com/) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [Plugins](https://t.me/blenderplugs) / [AI Render](https://github.com/benrugg/AI-Render)
 
 [Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketchMe](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [ChokokuCAD](https://github.com/itta611/ChokokuCAD), [POV-Ray](http://www.povray.org/), [FreeCAD](https://www.freecad.org/), [picoCAD](https://johanpeitz.itch.io/picocad), [Vectary](https://www.vectary.com/), [LibreCAD](https://librecad.org/), [Art of Illusion](http://aoi.sourceforge.net/), [BRL-CAD](https://brlcad.org/), [Posturize](https://get.posturize-app.com/)
 
@@ -279,6 +279,23 @@
 
 ***
 
+#### Browser Games
+
+* ⭐ **[Ninjakiwi](https://ninjakiwi.com/)** - Browser Games / Bloons / Multiplayer
+* [HTML5 Games](https://html5games.com/) / [Browser](http://html5.thebestarcadescript.com/)
+* [iogames.space](https://iogames.space/), [itch.io](https://graebor.itch.io/) or [Kevin Games](https://kevin.games/)- .io Games
+* [Games on GitHub](https://github.com/leereilly/games) - GitHub Hosted Games
+* [SpacebarCounter](https://spacebarcounter.io/spacebar-games.html) - Spacebar Games
+* [Nekogames](http://nekogames.jp/) - Japanese Games
+* [ArcadePrehacks](http://www.arcadeprehacks.com/) - Hacked Games
+* [Orisinal](http://www.ferryhalim.com/orisinal/), [BillsGames](http://www.billsgames.com/) or [pitStreet](http://www.pitstreet.com/) - Simple Games 
+* [Nick Jr. Games](http://www.nickjr.com/games/), [WBKidsGo](https://www.wbkidsgo.com/) or [PBS Kids Games](https://pbskids.org/games/) - Games for Kids
+
+
+[Newgrounds](https://www.newgrounds.com/games), [Armor Games](https://armorgames.com/), [Kongregate](https://www.kongregate.com/), [Weboasis Arcade](https://weboasis.app/arcade/), [Addicting Games](https://www.addictinggames.com/), [OneMoreLevel](http://www.onemorelevel.com/), [Miniclip](https://miniclip.com/), [Not Doppler](http://www.notdoppler.com/), [Nitrome](https://www.nitrome.com/), [Poki](https://poki.com/), [Y8](https://www.y8.com/), [Arkadium](https://www.arkadium.com/), [Crazy Games](https://www.crazygames.com/), [GamezHero](https://www.gamezhero.com/), [Yandex Games](https://yandex.com/games/), [Nicky Case](https://ncase.me/), [Gamepix](https://www.gamepix.com/), [KibaGames](https://www.kibagames.com/), [yell0wsuit](https://yell0wsuit.page/games.html), [Kizi](https://kizi.com/), [Gamaverse](https://gamaverse.com/), [FOG](https://www.freeonlinegames.com/), [RoundGames](https://www.roundgames.com/), [Radon Games](https://radon-games.glitch.me/), [Snokido](https://www.snokido.com), [2amGames](http://www.2amgames.com/), [Game Game](https://game-game.com/), [ArcadeSpot](https://arcadespot.com/), [Untly](https://www.untly.com/), [N-Arcade](https://n-arcade.io/), [watabou](https://watabou.itch.io/), [Key Games](https://keygames.com/), [GamesFlare](https://gameflare.com/), [Gaming Wonderland](https://www.gamingwonderland.com/), [Game Top](https://www.gametop.com/online/index.html), [Foddy](http://www.foddy.net/category/games/browser/), [ALFY](https://www.alfy.com/), [GameKB](https://www.gamekb.com/), [Andkon](http://andkon.com/arcade/), [DAN-BALL](http://dan-ball.jp/en/), [Play-Games](https://play-games.com), [KBHGames](https://kbhgames.com/), [Unity3DGames](http://www.unity3dgames.net/), [FreeGames](https://freegames.org/), [PrimaryGames](https://www.primarygames.com/), [MSM Games](https://zone.msn.com/en-us/home), [CAMLBOY](https://linoscope.github.io/CAMLBOY/), [Cartoon Network Games](https://www.cartoonnetwork.com/games/index.html), [Disney Games](https://disneynow.com/all-games), [Lego Games](https://www.lego.com/en-us/kids/games), [Friv](https://friv.com/) / [2](https://web.archive.org/web/*/Friv.com)
+
+***
+
 #### Browser Startpages
 
 * ⭐ **[WebOasis](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) - [Source Code](https://pastebin.com/CczqreS4)
@@ -368,7 +385,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ⭐ **[Sololearn](https://www.sololearn.com/)** - [Playground](https://www.sololearn.com/compiler-playground/)
 
-[JSFiddle](https://jsfiddle.net/), [W3Schools' Tryit](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python), [Collabedit](http://collabedit.com/), [Portacode](https://portacode.com/), [Ideone](https://www.ideone.com/), [PlayCode](https://playcode.io/), [ObjGen](http://www.objgen.com/)
+[JSFiddle](https://jsfiddle.net/), [W3Schools' Tryit](https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_python), [Collabedit](http://collabedit.com/), [Portacode](https://portacode.com/), [Ideone](https://www.ideone.com/), [PlayCode](https://playcode.io/), [ObjGen](http://www.objgen.com/), [html-css-js](https://html-css-js.com/)
 
 **Mac Code Editors**
 
@@ -514,7 +531,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[CyberChef](https://cyberchef.app/)**
 * ⭐ **[JetBrains](https://jetbrains.com/)** - [Trial Script](https://gist.github.com/Gkhnzdmr/29fe3f1c4cf3d3984df4cf380e490074) / [License Server](https://github.com/crazy-max/docker-jetbrains-license-server)
 
-[Free-for-students](https://shalvah.me/Free-for-students/), [DevToys](https://devtoys.app/), [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse Foundation](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Developer Stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [Clean CSS](https://www.cleancss.com/), [Dev Resources](https://www.devresourc.es/), [Developer Tools and Resources](https://github.com/IliasHad/Developer-Tools-and-Resources), [FreeFormatter.com](https://freeformatter.com/), [Utilities and Tools Online](https://utilities-online.info/), [Free Online Tools for Everyone](https://online-toolz.com/), [String Functions](https://string-functions.com/), [Online String Tools](https://onlinestringtools.com/), [Convert String](https://convertstring.com/), [Coders Tool](https://www.coderstool.com/), [Coder’s Toolbox](https://coderstoolbox.net/), [elmah.io](https://elmah.io/tools/), [Prototypr](https://prototypr.io/toolbox/page/1), [AppDevTools](https://appdevtools.com/)
+[Free-for-students](https://shalvah.me/Free-for-students/), [DevToys](https://devtoys.app/), [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse Foundation](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Developer Stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [Clean CSS](https://www.cleancss.com/), [Dev Resources](https://www.devresourc.es/), [Developer Tools and Resources](https://github.com/IliasHad/Developer-Tools-and-Resources), [FreeFormatter.com](https://freeformatter.com/), [Utilities and Tools Online](https://utilities-online.info/), [Free Online Tools for Everyone](https://online-toolz.com/), [String Functions](https://string-functions.com/), [Online String Tools](https://onlinestringtools.com/), [Convert String](https://convertstring.com/), [Coders Tool](https://www.coderstool.com/), [Coder’s Toolbox](https://coderstoolbox.net/), [elmah.io](https://elmah.io/tools/), [Prototypr](https://prototypr.io/toolbox/page/1), [AppDevTools](https://appdevtools.com/), [IT Tools](https://it-tools.tech/), [Addy](https://toolkit.addy.codes/)
 
 ***
 
@@ -1100,7 +1117,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[Awesome Icons](https://github.com/notlmn/awesome-icons)**
 * ⭐ **[SVG Repo](https://www.svgrepo.com/)
 
-[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources), [Icon Repositories](https://github.com/search?q=icon), [IconFinder](https://www.iconfinder.com/), [IconSeeker](http://www.iconseeker.com/), [Flaticon](https://www.flaticon.com/) / [Downloader](https://flaticon-downloader.beatsnoop.com/) / [2](https://github.com/razoo-choudhary/flaticon-premium), [SimpleIcons](https://simpleicons.org/), [Noun Project](https://thenounproject.com/), [tablericons](https://tablericons.com/), [Gumroad](https://www.google.com/search?q=site%3Agumroad.com+%240+icons), [IconPacks](https://www.iconpacks.net/), [Streamline Icons](https://streamlineicons.com/download/), [game-icons](https://game-icons.net/), [icons8](https://icons8.com/icons), [ikonate](https://ikonate.com/), [iconmonstr](https://iconmonstr.com/), [styled-icons](https://styled-icons.js.org/), [glitter-graphics](http://www.glitter-graphics.com/), [Icon Archive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [HeroIcons](https://heroicons.com/), [fontawesome](https://fontawesome.com/), [css.gg](https://css.gg/), [EvaIcons](https://akveo.github.io/eva-icons/), [publicicons](https://publicicons.lllllllllllllllll.com/), [getbootstrap](https://icons.getbootstrap.com/), [remixicon](https://remixicon.com/), [IconSets](http://www.iconsets.com/), [coolarchive](http://www.coolarchive.com/), [flexiple](https://2.flexiple.com/scale/all-illustrations), [uispace](https://uispace.net/free-icons), [freeicons](http://freeicons.io/), [Quick Feather Icons](https://quick-feather-icons.vercel.app/), [illlustrations](https://illlustrations.co/), [vector.toolxox](https://vector.toolxox.com/), [icon icons](https://icon-icons.com/), [fontawesome icons](https://fontawesome.com/v5.15/icons), [feathericons](https://feathericons.com/), [IconHub](https://iconhub.io/), [icons-for-free](https://icons-for-free.com/), [RealFaviconGenerator](https://realfavicongenerator.net/), [Material Icons](https://material.io/icons/), [TheForgeSmith](https://icons.theforgesmith.com/), [Basic Icons](https://basicons.xyz/), [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [entypo](http://www.entypo.com/), [mapsicon](https://github.com/djaiss/mapsicon), [materialui](https://materialui.co/icons/), [iconoir](https://iconoir.com/), [weloveiconfonts](https://weloveiconfonts.com/), [weather-icons](https://erikflowers.github.io/weather-icons/), [typicons](https://www.s-ings.com/typicons/), [topcoat](https://github.com/topcoat/icons), [toicon](https://www.toicon.com/), [standart](https://standart.io/), [stackicons](http://stackicons.com/), [pathlove](https://pathlove.com/icons/), [primer](https://primer.style/octicons/), [kudakurage](http://kudakurage.com/ligature_symbols/), [ionic](https://ionic.io/ionicons), [iconstore](https://iconstore.co/), [icomoon](https://icomoon.io/), [zurb](https://zurb.com/playground/foundation-icon-fonts-3), [fontello](https://fontello.com/), [devicons](https://vorillaz.github.io/devicons), [grommet](https://icons.grommet.io/), [ant.design](https://ant.design/components/icon/), [icons modulz](https://icons.modulz.app/), [tabler icons](https://tabler-icons.io/), [iconshock](https://www.iconshock.com/freeicons/), [eos-icons](https://eos-icons.com/), [1001freedownloads](https://www.1001freedownloads.com/), [iconsvg](https://iconsvg.xyz/), [polaris](https://polaris-icons.shopify.com/), [ionicons](https://ionicons.com/), [SuperTinyIcons](https://github.com/edent/SuperTinyIcons), [systemuicons](https://systemuicons.com/), [healthicons](https://healthicons.org/), [iconsplace](https://iconsplace.com/), [icofont](https://icofont.com/icons), [Phosphor Icons](https://phosphoricons.com/) / [GitHub](https://github.com/phosphor-icons/phosphor-home), [lineicons](https://lineicons.com/), [Icon Drives](https://github.com/nbats/FMHYedit/blob/main/base64.md#icon-drives), [streamlinehq](https://app.streamlinehq.com/icons), [iconify](https://iconify.design/), [heroicons](https://heroicons.dev/), [fluenticons](https://fluenticons.co/), [iconer](https://iconer.app/), [feather.netlify](https://feather.netlify.app/), [jam-icons](https://jam-icons.com/), [dryicons](https://dryicons.com/), [findicons](https://findicons.com/), [cleanicons](https://cleanicons.xyz/)
+[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources), [Icon Repositories](https://github.com/search?q=icon), [IconFinder](https://www.iconfinder.com/), [IconSeeker](http://www.iconseeker.com/), [Flaticon](https://www.flaticon.com/) / [Downloader](https://flaticon-downloader.beatsnoop.com/) / [2](https://github.com/razoo-choudhary/flaticon-premium), [SimpleIcons](https://simpleicons.org/), [Noun Project](https://thenounproject.com/), [tablericons](https://tablericons.com/), [Gumroad](https://www.google.com/search?q=site%3Agumroad.com+%240+icons), [IconPacks](https://www.iconpacks.net/), [Streamline Icons](https://streamlineicons.com/download/), [game-icons](https://game-icons.net/), [icons8](https://icons8.com/icons), [ikonate](https://ikonate.com/), [iconmonstr](https://iconmonstr.com/), [styled-icons](https://styled-icons.js.org/), [glitter-graphics](http://www.glitter-graphics.com/), [Icon Archive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [HeroIcons](https://heroicons.com/), [fontawesome](https://fontawesome.com/), [css.gg](https://css.gg/), [EvaIcons](https://akveo.github.io/eva-icons/), [publicicons](https://publicicons.lllllllllllllllll.com/), [getbootstrap](https://icons.getbootstrap.com/), [remixicon](https://remixicon.com/), [IconSets](http://www.iconsets.com/), [coolarchive](http://www.coolarchive.com/), [flexiple](https://2.flexiple.com/scale/all-illustrations), [uispace](https://uispace.net/free-icons), [freeicons](http://freeicons.io/), [Quick Feather Icons](https://quick-feather-icons.vercel.app/), [illlustrations](https://illlustrations.co/), [vector.toolxox](https://vector.toolxox.com/), [icon icons](https://icon-icons.com/), [fontawesome icons](https://fontawesome.com/v5.15/icons), [feathericons](https://feathericons.com/), [IconHub](https://iconhub.io/), [icons-for-free](https://icons-for-free.com/), [RealFaviconGenerator](https://realfavicongenerator.net/), [Material Icons](https://material.io/icons/), [TheForgeSmith](https://icons.theforgesmith.com/), [Basic Icons](https://basicons.xyz/), [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [entypo](http://www.entypo.com/), [mapsicon](https://github.com/djaiss/mapsicon), [materialui](https://materialui.co/icons/), [iconoir](https://iconoir.com/), [weloveiconfonts](https://weloveiconfonts.com/), [weather-icons](https://erikflowers.github.io/weather-icons/), [typicons](https://www.s-ings.com/typicons/), [topcoat](https://github.com/topcoat/icons), [toicon](https://www.toicon.com/), [standart](https://standart.io/), [stackicons](http://stackicons.com/), [pathlove](https://pathlove.com/icons/), [primer](https://primer.style/octicons/), [kudakurage](http://kudakurage.com/ligature_symbols/), [ionic](https://ionic.io/ionicons), [iconstore](https://iconstore.co/), [icomoon](https://icomoon.io/), [zurb](https://zurb.com/playground/foundation-icon-fonts-3), [fontello](https://fontello.com/), [devicons](https://vorillaz.github.io/devicons), [grommet](https://icons.grommet.io/), [ant.design](https://ant.design/components/icon/), [icons modulz](https://icons.modulz.app/), [tabler icons](https://tabler-icons.io/), [iconshock](https://www.iconshock.com/freeicons/), [eos-icons](https://eos-icons.com/), [1001freedownloads](https://www.1001freedownloads.com/), [iconsvg](https://iconsvg.xyz/), [polaris](https://polaris-icons.shopify.com/), [ionicons](https://ionicons.com/), [SuperTinyIcons](https://github.com/edent/SuperTinyIcons), [systemuicons](https://systemuicons.com/), [healthicons](https://healthicons.org/), [iconsplace](https://iconsplace.com/), [icofont](https://icofont.com/icons), [Phosphor Icons](https://phosphoricons.com/) / [GitHub](https://github.com/phosphor-icons/phosphor-home), [lineicons](https://lineicons.com/), [Icon Drives](https://github.com/nbats/FMHYedit/blob/main/base64.md#icon-drives), [streamlinehq](https://app.streamlinehq.com/icons), [iconify](https://iconify.design/), [heroicons](https://heroicons.dev/), [fluenticons](https://fluenticons.co/), [iconer](https://iconer.app/), [feather.netlify](https://feather.netlify.app/), [jam-icons](https://jam-icons.com/), [dryicons](https://dryicons.com/), [findicons](https://findicons.com/), [cleanicons](https://cleanicons.xyz/), [cappuccicons](https://cappuccicons.com/)
 
 ***
 
@@ -1248,7 +1265,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Jigsaw Puzzles
 
-[jigidi](https://www.jigidi.com/), [jigsawonline](https://jigsawonline.net/), [jigsawplanet](https://www.jigsawplanet.com/), [puzzlefactory](https://puzzlefactory.pl/en), [epuzzle](https://www.epuzzle.info/en), [dkmgames](https://dkmgames.com/Jigsaw/), [jigzone](http://www.jigzone.com/), [jigcardgallery](http://www.jigcardgallery.com/), [justjigsawpuzzles](https://justjigsawpuzzles.com/), [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw), [Jigsaw Explorer](https://www.jigsawexplorer.com/)
+[jigidi](https://www.jigidi.com/), [jigsawonline](https://jigsawonline.net/), [jigsawplanet](https://www.jigsawplanet.com/), [puzzlefactory](https://puzzlefactory.pl/en), [epuzzle](https://www.epuzzle.info/en), [dkmgames](https://dkmgames.com/Jigsaw/), [jigzone](http://www.jigzone.com/), [jigcardgallery](http://www.jigcardgallery.com/), [justjigsawpuzzles](https://justjigsawpuzzles.com/), [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw), [Jigsaw Explorer](https://www.jigsawexplorer.com/), [jiggie](https://jiggie.fun/)
 
 ***
 
@@ -1418,6 +1435,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Jellyfin](https://jellyfin.org/)**
 * ⭐ **Jellyfin Tools** - /r/JellyfinShares / [Anime Plugin](https://github.com/jellyfin-archive/jellyfin-plugin-anime) / [Desktop Client](https://github.com/jellyfin/jellyfin-media-player) / [Android](https://github.com/jarnedemeulemeester/findroid) / [Last.fm](https://github.com/jesseward/jellyfin-plugin-lastfm) / [Playlist Export](https://github.com/pyluyten/jellyfin_playlist_exporter) / [Customization Guide](https://youtu.be/F85qMyBeiDI) / [Themes](https://jellyfin.org/docs/general/clients/css-customization.html#community-themes) / [Minimal Skin](https://github.com/prayag17/JellySkin) / [Setup Guide](https://www.fuzzygrim.com/posts/media-server) / [User Requests](https://github.com/Fallenbagel/jellyseerr)
 * [Autodownload Tools](https://redd.it/hbwnb2) - Companion Apps for Media Servers
+* [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
 * [Organizr](https://github.com/causefx/Organizr) or [Homarr](https://github.com/ajnart/homarr) - Media Server Managers
 * [Emby](https://emby.media/) + [/r/EmbyShare](https://www.reddit.com/r/EmbyShare/)
 * [Universal Media Server](https://www.universalmediaserver.com/)
@@ -1637,7 +1655,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[QotNews](https://news.t0.vc/)**
 
-[spidr](https://spidr.today/), [All Sides](https://www.allsides.com/), [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/), [freepo.st](https://freepo.st/), [TechMeme](https://www.techmeme.com/m/), [RealClearPolitics](https://www.realclearpolitics.com/), [Their News](https://www.their.news/), [Lobsters](https://lobste.rs/​), [68k News](http://68k.news/), [Readspike](https://readspike.com/), [Popurls](http://popurls.com/), [sumi.news](https://sumi.news/), [Ground News](https://ground.news/), [The Brutalist Report](https://brutalist.report/), [Bastyon](https://bastyon.com/index), [Upstract](https://upstract.com/), [Otherweb](https://otherweb.com/), [AlDaily](https://www.aldaily.com/), [newsfeed.one](https://newsfeed.one/), [Fark](https://www.fark.com/), [FlipBoard](https://flipboard.com/)
+[spidr](https://spidr.today/), [All Sides](https://www.allsides.com/), [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/), [freepo.st](https://freepo.st/), [TechMeme](https://www.techmeme.com/m/), [RealClearPolitics](https://www.realclearpolitics.com/), [Their News](https://www.their.news/), [Lobsters](https://lobste.rs/​) / [Highlighter](https://greasyfork.org/en/scripts/40906), [68k News](http://68k.news/), [Readspike](https://readspike.com/), [Popurls](http://popurls.com/), [sumi.news](https://sumi.news/), [Ground News](https://ground.news/), [The Brutalist Report](https://brutalist.report/), [Bastyon](https://bastyon.com/index), [Upstract](https://upstract.com/), [Otherweb](https://otherweb.com/), [AlDaily](https://www.aldaily.com/), [newsfeed.one](https://newsfeed.one/), [Fark](https://www.fark.com/), [FlipBoard](https://flipboard.com/)
 
 ***
 
@@ -1719,7 +1737,7 @@ Add the following commands to a search to manually scrape each site.
 * [Windows 1.01](https://classicreload.com/Windows-1-01.html) - Windows 1.01 Browser Emulator
 * [RebornXP](https://rebornxp.js.org/) - Windows XP Browser Emulator
 * [AaronOS](https://aaronos.dev/), [Whimsy](https://whimsy.space/), [OS.JS](https://www.os-js.org/), [X-WebDesktop](https://oxoyo.co/X-WebDesktop-Vue/), [Orb](https://gitlab.com/hsleisink/orb) or [jQuery Desktop](https://desktop.sonspring.com/) - OS Browser Emulator
-* [PCE Macplus](https://jamesfriend.com.au/pce-js/pce-js-apps/) - MacOS Browser Emulator
+* [PCE Macplus](https://jamesfriend.com.au/pce-js/pce-js-apps/ or [Infinite Mac](https://infinitemac.org/) - MacOS Browser Emulators
 * [PCE.js](https://jamesfriend.com.au/pce-js/ibmpc-games/) - PCDOS 5 Emulator
 * [Quantum Playground](http://www.quantumplayground.net/) - Quantum Computer Simulator
 * [Win11.vercel](https://win11.vercel.app/), [BlueEdge](https://win11.blueedge.me/), [Rajaniraiyn](https://rajaniraiyn.github.io/windows11/) or [Win11 in React](https://win11.blueedge.me/)/ [GitHub](https://github.com/blueedgetechno/win11React) - Online Windows 11 Emulator
@@ -2384,6 +2402,7 @@ Add the following commands to a search to manually scrape each site.
 * https://panelbear.com/
 * https://splitbee.io/
 * https://www.hotjar.com/
+* https://www.goatcounter.com/
 * https://freshlytics.gitbook.io/
 * https://www.awstats.org/
 * https://counter.dev/
@@ -2535,7 +2554,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Steam Workshop Downloaders
 
-[WorkshopDL](https://github.com/VovoloGames/WorkshopDL), [Steamworkshop.download](http://steamworkshop.download/), [steam-workshop-downloader.com](https://steam-workshop-downloader.com/), [steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader), [ggntw](https://ggntw.com/steam), [Workshop Downloader](https://4hub.info/workshop-downloader/), [steamworkshopdownloader.ru](https://steamworkshopdownloader.ru/), [NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) / [Disocrd](https://discord.com/invite/bs9TMxMJk9), [steam-workshop-downloader](https://gramvio.com/steam-workshop-downloader/), [Workshop Script](https://greasyfork.org/en/scripts/449046)
+[Steamworkshop.download](http://steamworkshop.download/), [steam-workshop-downloader.com](https://steam-workshop-downloader.com/), [steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader), [ggntw](https://ggntw.com/steam), [Workshop Downloader](https://4hub.info/workshop-downloader/), [steamworkshopdownloader.ru](https://steamworkshopdownloader.ru/), [NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) / [Disocrd](https://discord.com/invite/bs9TMxMJk9), [steam-workshop-downloader](https://gramvio.com/steam-workshop-downloader/), [Workshop Script](https://greasyfork.org/en/scripts/449046)
 
 ***
 
@@ -2738,6 +2757,7 @@ Add the following commands to a search to manually scrape each site.
 * [TidalMusic_DLbot](https://t.me/TidalMusic_DLbot) - Tidal
 * [VK Bot](https://t.me/vkmsaverbot) - VK
 * [Meph Bot](https://t.me/mephbot) - VK
+* [GlomaticoAppleMusicBot](https://t.me/GlomaticoAppleMusicBot) - Apple Music
 * [yamdbot](https://t.me/yamdbot) - Yandex
 * [MP3 downloader](https://t.me/TG_mp3downloader_bot) or [Murglar](https://telegra.ph/murglar-en-05-12) - Multi Site
 * [scdlbot](https://t.me/scdlbot) - Multi Site
@@ -3064,7 +3084,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Unicode Font Generators
 
-[coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [Getfancy](https://getfancy.io/), [Font Generator](https://www.toulr.com/other-tools/font-generator), [DiscordFonts](https://lingojam.com/DiscordFonts), [MessLetters](https://www.messletters.com/), [Fancy Text](https://fancy-text.net/), [TextFancy](https://textfancy.com/), [YayText](https://yaytext.com/), [Font-Generator](https://www.font-generator.com/), [lingojam](https://lingojam.com/WeirdTextGenerator), [fSymbols](https://fsymbols.com/generators/)
+[coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [Getfancy](https://getfancy.io/), [Font Generator](https://www.toulr.com/other-tools/font-generator), [DiscordFonts](https://lingojam.com/DiscordFonts), [MessLetters](https://www.messletters.com/), [Fancy Text](https://fancy-text.net/), [TextFancy](https://textfancy.com/), [YayText](https://yaytext.com/), [Font-Generator](https://www.font-generator.com/), [lingojam](https://lingojam.com/WeirdTextGenerator), [fSymbols](https://fsymbols.com/generators/), [fontchangerguru](https://fontchangerguru.com/)
 
 ***
 
