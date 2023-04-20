@@ -164,7 +164,7 @@
 * [Mr. SzzS](https://www.youtube.com/channel/UCcf3dtQFVb5zfy0jGYNpA0w)
 * [TheMicroTech](https://programs.themicrotech.net/)
 * [downloadly.ir](https://downloadly.ir/) - Persian VPN Required
-* [FileCR](https://filecr.com/en/) - [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass) / Anti-Adblock Site
+* [FileCR](https://filecr.com/en/) - [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass) / [Anti-Adblock Fix](https://rentry.co/FileCRBypass)
 * [soft98](https://soft98.ir/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Mutaz.net](https://www.mutaz.net/)
 * [SCloud](https://scloud.ws/)
