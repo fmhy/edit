@@ -3185,22 +3185,14 @@ Add the following commands to a search to manually scrape each site.
 
 * [Vim Plug](https://github.com/junegunn/vim-plug), [vim-pathogen](https://github.com/tpope/vim-pathogen) or [Shougo](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
 * [VimAwesome](https://vimawesome.com/) - Vim Plugins
-* [NeoVimCraft](https://neovimcraft.com/) - Neovim Plugins
-* [LunarVim](https://github.com/ChristianChiarulli/LunarVim) - Vim Config
-* [Vim Bootstrap](https://vim-bootstrap.com/) - Bootstrap Config
-* [Mitosis](https://github.com/BuilderIO/mitosis) - Vim Auto-Compile
-* [Vim Markdown ](https://github.com/plasticboy/vim-markdown) or [Markdown Preview](https://github.com/iamcco/markdown-preview.nvim) - Markdown Plugin
-* [neovide](https://github.com/neovide/neovide) - Vim Desktop App
-* [NvChad](https://github.com/NvChad/NvChad) - Vim TUI
-* [gnvim](https://github.com/vhakulinen/gnvim) - Vim GUI
-* [nvui](https://github.com/rohit-px2/nvui) - Vim Frontend
-* [droidvim](https://github.com/shiftrot/droidvim) - Vim APK
-* [lightspeed](https://github.com/ggandor/lightspeed.nvim) - Vim Motions
-* [Goyo.vim](https://github.com/junegunn/goyo.vim) - Distraction-free writing in Vim
-* [nvim](https://github.com/neoclide/coc.nvim) - Neovim LSP Autocompletion coc
-* [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - Vim Code-Completion Engine
+* [droidvim](https://github.com/shiftrot/droidvim) - Vim Android Frontend
 * [VimColorSchemes](https://vimcolorschemes.com/) - Vim Color Schemes
-* [Gruvbox](https://github.com/morhetz/gruvbox) - Retro Vim Color Sheme / [Wallpapers](https://gruvbox-wallpapers.onrender.com/)
+* [Vim Bootstrap](https://vim-bootstrap.com/) - Bootstrap Config for Vim
+* [Vim Markdown ](https://github.com/plasticboy/vim-markdown) or [Markdown Preview](https://github.com/iamcco/markdown-preview.nvim) - Markdown Plugin
+* [Lazy.nvim](https://github.com/folke/lazy.nvim) or [packer.nvim](https://github.com/wbthomason/packer.nvim) - Neovim Plugin Managers
+* [NeoVimCraft](https://neovimcraft.com/), [awesome-neovim#plugin](https://github.com/rockerBOO/awesome-neovim#plugin) - Neovim Plugins Collections
+* [AstroNvim](https://astronvim.com) [LazyVim](https://github.com/LazyVim/LazyVim), [NvChad](https://github.com/NvChad/NvChad), [LunarVim](https://github.com/ChristianChiarulli/LunarVim) - Neovim Configs
+* [neovide](https://github.com/neovide/neovide), [gnvim](https://github.com/vhakulinen/gnvim), [nvui](https://github.com/rohit-px2/nvui), [Neovim wiki#gui](https://github.com/neovim/neovim/wiki/Related-projects#gui) - Neovim GUI Frontend
 
 ***
 
