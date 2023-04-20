@@ -726,7 +726,7 @@
 * [Pencil](http://pencil.evolus.vn/) - Software Mockup Tool / [GitHub](https://github.com/evolus/pencil)
 * [GNUnet](https://gnunet.org/en/) - Software Framework
 * [shadcn](https://ui.shadcn.com/) - Software Components
-* [Slint](https://github.com/slint-ui/slint or [QT Designer](https://build-system.fman.io/qt-designer-download) - GUI Development Tools
+* [Slint](https://github.com/slint-ui/slint) or [QT Designer](https://build-system.fman.io/qt-designer-download) - GUI Development Tools
 * [Gooey](https://github.com/chriskiehl/Gooey) - Convert Python Command Line to GUI
 * [Kuker](https://github.com/krasimir/kuker) - Debug Applications
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - HTTP Proxy

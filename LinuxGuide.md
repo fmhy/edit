@@ -424,7 +424,7 @@
 * [Conky](https://github.com/brndnmtthws/conky) / [Colors](https://github.com/helmuthdu/conky_colors) or [MacFetch](https://github.com/gantoreno/macfetch) - System Info / Resource Monitor
 * [Hot](https://github.com/macmade/) - CPU Monitor
 * [TaskExplorer](https://objective-see.org/products/taskexplorer.html) - Task Manager / Viewer
-* [Progress][https://github.com/Xfennec/progress] - Show Copied Data Progress
+* [Progress](https://github.com/Xfennec/progress) - Show Copied Data Progress
 * [DPCIManager](https://github.com/MuntashirAkon/DPCIManager) - PCI Hardware Info 
 * [Clean-Me](https://kevin-de-koninck.github.io/Clean-Me/) - MacOS System Cleanup
 * [OpenSourceApple](https://opensource.apple.com/) - System Tools

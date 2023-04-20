@@ -1437,7 +1437,7 @@
 * [Yohoho](https://yohoho.cc/), [2](https://4h0y.gitlab.io/) - Movies / Anime
 * [baskino](http://baskino.me/) - Movies
 * [Gidonline](https://gidonline.io/) - Movies
-* [KinoGo](https://kinogo.la/), [2](zerkalo.kinogo.lu), [3](https://kinogo.ca/) - Movies / TV / Anime / [Telegram](https://t.me/kinogoby)
+* [KinoGo](https://kinogo.la/), [2](https://zerkalo.kinogo.lu), [3](https://kinogo.ca/) - Movies / TV / Anime / [Telegram](https://t.me/kinogoby)
 * [Kinotochka](https://kinotochka.co/) - Movies / TV / Anime
 * [NotAlone](https://www.notalone.tv/) - Movies / TV
 * [kinokong](https://kinokong.pro/) - Movies / TV
