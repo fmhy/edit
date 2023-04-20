@@ -99,6 +99,7 @@
 * [Noor Book](https://www.noor-book.com/en/)
 * [books-library](https://books-library.website/) - Books
 * [EbookSar](https://www.ebooksar.com/) - Books
+* [AlarabiMag](https://www.alarabimag.com/) - Books
 * [Abjjad](https://www.abjjad.com/) - Books
 * [manganoon](https://manganoon.com/) - Manga
 * [3asq](https://3asq.org/) - Manga
@@ -1414,11 +1415,6 @@
 * [MDCORE](https://vk.com/mdcore) - Metal / MP3
 * [MDROCK](https://vk.com/mdrock) - Rock / MP3
 * [KinoMuzic](https://kinomuzic.ru/) - Books / Soundtracks
-* [androeed](https://www.androeed.ru/) - Android
-* [EZMod](https://ezmod.ru/) - Android
-* [Top-Android](https://top-androidd.ru/) - Android
-* [PDALIFE](https://pdalife.to/) - Android / iOS / PSP
-* [NashStore](https://nashstore.ru/) - App Store
 * [Course Hunter](https://coursehunter.net/) or [Sliwbl](https://s1.sliwbl.com/) - Programming / Courses
 
 ## ▷ Torrenting
