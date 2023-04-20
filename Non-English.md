@@ -17,7 +17,6 @@
 
 ## ▷ Downloading
 
-* [FaresCD](https://www.farescd.com/) - Video / Software / Games / Android
 * [arabseed](https://f1.arabseed.ink/) - Movies / TV
 * [arteenz](https://www.arteenz.com/) - Cartoons / Anime
 * [Shazam Music](https://t.me/shazam_music_uz) - Music / Telegram
