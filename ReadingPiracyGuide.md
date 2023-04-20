@@ -360,6 +360,7 @@
 * [Marxists Internet Archive](https://www.marxists.org/) - Socialism / Communism
 * [Liberation School](https://liberationschool.org/) - Communism
 * [Red Texts](https://redtexts.org/) - Communism
+* [Communism Essays / FAQs](https://github.com/dessalines/essays) - Communism
 * [Third World Traveler](https://thirdworldtraveler.com/) - Human Rights / Conspiracies / Anti-War
 * [China-Dictatorship](https://github.com/cirosantilli/china-dictatorship) - Anti-Chinese Authoritarianism
 * [Rookie Road]( https://www.rookieroad.com/) - Sport Guides
@@ -1046,7 +1047,6 @@
 * [NovelHold](https://novelhold.com/)
 * [NovelNext](https://novelnext.com/)
 * [InfiniteNovelTranslations](https://infinitenoveltranslations.net/)
-* [MyBoxNovel](https://myboxnovel.com/)
 * [NovelBuddy](https://novelbuddy.com/)
 * [WNMTL](http://wnmtl.org/)
 * [KoreanMTL](https://www.koreanmtl.online/)
@@ -1262,7 +1262,7 @@
 
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
 * ⭐ **[Talk to Books](https://books.google.com/talktobooks/)** - AI Book Quote Search
-* ⭐ **[AccelaReader](https://accelareader.com/)** or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
+* ⭐ **[AccelaReader](https://accelareader.com/)**, [SwiftRead](https://swiftread.com/) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
 * ⭐ **[arch1ve](https://rentry.org/arch1ve)** or [Borrowing Picture Books](https://redd.it/fm1xpw) - Download Borrow Only Archive.org Books / [Script](https://redd.it/ofcqds)
 * ⭐ **[DownloadBookFromIPFS](https://greasyfork.org/en/scripts/428894-downloadbookfromipfs)** - Add Button to Download Books from IPFS
 * ⭐ **[EBook Converters](https://wiki.mobileread.com/wiki/E-book_conversion)** - List of Ebook Converters
