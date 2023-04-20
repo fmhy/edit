@@ -118,6 +118,7 @@
 * [NoFair](https://github.com/tryolabs/norfair) - Real-Time Object Tracking
 * [Sweet Home 3D](http://www.sweethome3d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
 * [Interiorai](https://interiorai.com/) - AI Interior Design Tool
+* [Text to Room](https://lukashoel.github.io/text-to-room/) - AI Interior Design Generator
 * [EasyEDA](https://easyeda.com/editor) - Electronic Circuit Design Tool
 * [TemplateMaker](https://www.templatemaker.nl/) - Package & Box Templates
 * [WebQR](https://www.webqr.com/) - QR Code Scanner
@@ -256,7 +257,7 @@
 * [Unicode Font Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_unicode_font_generators) - Generate Typed Text Fonts
 * [CopyChar](https://copychar.cc/), [Unicode Table](https://unicode-table.com/en/), [Copy Paste Dump](https://c.r74n.com/), [Unicode Explorer](https://unicode-explorer.com/), [CopyPasteCharacter](https://copypastecharacter.com/), [HotSymbol](https://www.hotsymbol.com/), [Snskey](https://snskeyboard.com/), [Unilist](https://unilist.raphaelbastide.com/), [Character Map](https://github.com/character-map-uwp/Character-Map-UWP), [Alt Codes](https://alt-codes.net/), [Unifoundry](http://unifoundry.com/) or [Cool Symbol](https://coolsymbol.com/) - Copy & Paste Unicode Characters
 * [BlankText](https://blanktext.net/) - Copy / Paste Blank Spaces 
-* [FastEmoji](https://www.fastemoji.com/) - 600+ Unicode Emojis
+* [FastEmoji](https://www.fastemoji.com/) or [textfac.es](https://textfac.es/) - Unicode Emojis
 * [Kaomoji](http://kaomoji.online/en/) - Lenny Face / Japanese Emoticons
 * [Emotes Everywhere](https://kellphy.com/projects/kee.html), [GenieEmoji](https://github.com/virejdasani/Geniemoji), [winMoji](https://www.winmoji.com/) or [Geniemoji](https://virejdasani.github.io/Geniemoji/) - Emoji Managers
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
@@ -368,7 +369,7 @@
 * [MergeMP4](https://maple3142.github.io/mergemp4/) - Merge MP4 Video & Audio
 * [VidLouder](https://www.videolouder.com/) - Increase Video Volume
 * [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md) - AI Video Toolbox
-* [text2video](https://github.com/deforum-art/sd-webui-modelscope-text2video) or [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Text to Video AI
+* [text2video](https://github.com/deforum-art/sd-webui-modelscope-text2video), [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) or [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Text to Video AI
 * [Video Cleaner](https://videocleaner.com/) or [Video Enhance AI](https://www.topazlabs.com/video-enhance-ai) - Video Enhancement Tool 
 * [Flowframes](https://nmkd.itch.io/flowframes), [fpska](https://github.com/andreiyv/fpska) or [SVP](https://www.svp-team.com/) - Video Interpolation / Increase FPS
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
@@ -548,7 +549,7 @@
 * [WebSynths](http://www.websynths.com/) or [Roland50](https://roland50.studio/) - Browser-Based Instruments 
 * [JummBox](https://jummbus.bitbucket.io/), [Pata Tracker](https://pixwlk.itch.io/pata-tracker), [JummBus](https://jummbus.bitbucket.io/) or [Klystrack](https://github.com/kometbomb/klystrack) - Chiptune Music Creator
 * [Audovia Music](https://songbase.github.io/) - Classical Music Creator
-* [Melody Generator](https://dopeloop.ai/melody-generator), [Rosegarden](https://rosegardenmusic.com/) or [Ariamaestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html) - MIDI Editors
+* [Melody Generator](https://dopeloop.ai/melody-generator), [Signal](https://signal.vercel.app/), [Rosegarden](https://rosegardenmusic.com/) or [Ariamaestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html) - MIDI Editors
 * [MIDI City](https://midicity-2000.glitch.me/) - City Style MIDI Editor
 * [MIDI Recorder](https://midi-recorder.web.app/) - MIDI Keyboard Recorder
 * [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- MIDI Files 
@@ -1198,7 +1199,8 @@
 * [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466), [Unedit](https://github.com/DenverCoder1/Unedit-for-Reddit), [Unddit](https://www.unddit.com/) / [2](https://camas.unddit.com/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - View Deleted Reddit Posts
 * [ReSavr](https://www.resavr.com/) or [Unreddit](https://github.com/pauldraper/unreddit) - View Deleted Reddit Comments 
 * [rareddit](https://www.rareddit.com/), [PushShift Reddit](http://files.pushshift.io/reddit/), [Expanse](https://github.com/jc9108/expanse) or [Reddit Archive](http://www.redditarchive.com/) - Reddit Post Archive Tools 
-* [Reddit (Au) Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlights New Comments
+* [Reddit Highlighter](https://greasyfork.org/en/scripts/39312) - Highlights New Posts
+* [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlights New Comments
 * [rComments](https://github.com/iampueroo/rComments) - Explore Comments & Replies without Clicking a Post 
 * [rAger](https://chrome.google.com/webstore/detail/rager/fohlpjahcdbkpcckapphhpahbiajccmj) - Display Account Age & Karma of Users
 * [MassTagger](https://www.masstagger.com/) - Reddit User Tagger
@@ -1412,11 +1414,11 @@
 
 ## ▷ Telegram Tools
 
+* ⭐ **[TDirectory](https://tdirectory.me/)**, [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [gramxly](https://gramxly.com/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - Telegram Channel / Bot Search
+* ⭐ **[Telegram Channels](https://telegramchannels.me/)**, [TG-ME](https://www.tg-me.com/), [ComBot Groups](https://combot.org/telegram/top/groups) or [Telegramic](https://telegramic.org/) - Telegram Channel Indexes
+* ⭐ **[Telegram Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_bots)** - Telegram Bot Indexes
 * ⭐ **[Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools)** - File Tools for Telegram
 * [borodutch.eth](https://borodutch.com/) - Telegram Tools
-* [Telegram Channels](https://telegramchannels.me/), [TG-ME](https://www.tg-me.com/), [ComBot Groups](https://combot.org/telegram/top/groups) or [Telegramic](https://telegramic.org/) - Telegram Channel Indexes
-* [Telegram Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_bots) - Telegram Bot Indexes
-* [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [gramxly](https://gramxly.com/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html), [TDirectory](https://tdirectory.me/) or [TGStat](https://tgstat.com/search) - Telegram Channel / Bot Search
 * [ShellBot](https://github.com/MannyHackers/ShellBot)  - Multi-Purpose Telegram Bot
 * [VirusTotalAV_bot](https://t.me/VirusTotalAV_bot) - Telegram File Scanner
 * [TG Bot](https://drlinkbot.t.me/) / [2](https://github.com/TheCaduceus/Link-Bypasser-Bot) - Ad Link Bypass Bot
@@ -1925,6 +1927,7 @@ Twitch Stream Tracker
 * [TilelConfier](https://github.com/Jonno12345/TileIconifier) - Start Menu Icon Tiles
 * [Recoll](https://www.lesbonscomptes.com/recoll/) or [AnyTXT](https://anytxt.net/) - Improved Windows Search / [Site Indexer](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/)
 * [Run](https://docs.microsoft.com/en-us/windows/powertoys/run) - Windows Spotlight Search
+* [Hunt and Peck](https://github.com/zsims/hunt-and-peck/) - Vim Style OS Navigation
 * [Killer](https://github.com/ntaraujo/killer) or [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Task Managers / [Discord](https://discord.gg/MKG6qgJ964)
 * [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - System Menus
 * [Nsudo](https://github.com/M2Team/NSudo) - System Admin Tools
@@ -2288,6 +2291,7 @@ Twitch Stream Tracker
 * [rcrypt](https://rentry.co/rcrypt) - File to GDrive Encrypted Backup Guide
 * [GDriveCLI](https://github.com/prasmussen/gdrive) or [ODrive](https://liberodark.github.io/ODrive/) - GDrive CLI
 * [gogdl-ng](https://github.com/gogdl-ng/gogdl-ng) - Google Drive Bulk Downloader
+* [GDrive Downloader](https://github.com/Akianonymus/gdrive-downloader) - Google Drive Folder Downloader
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
 * [Recursive GoIndex Downloader](https://github.com/atlonxp/recursive-goIndex-downloader) or [GoIndex-Downloader](https://github.com/piyush2947/) - GoIndex to GDrive Downloader
 * [GDriveSearcherBot](https://github.com/TheHamkerCat/GdriveSearcherBot) - GDrive Search Bot
