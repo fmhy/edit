@@ -18,9 +18,6 @@
 ## ▷ Downloading
 
 * [FaresCD](https://www.farescd.com/) - Video / Software / Games / Android
-* [DirectApp](https://directapp.net/) - Software / Android / Games
-* [akwam](https://old.akwam.co/) - Video / Audio / Software
-* [Sinbad](https://www.alsindibad.com/) - Software / Android / iOS
 * [arabseed](https://f1.arabseed.ink/) - Movies / TV
 * [arteenz](https://www.arteenz.com/) - Cartoons / Anime
 * [Shazam Music](https://t.me/shazam_music_uz) - Music / Telegram
@@ -726,9 +723,7 @@
 
 ## ▷ Downloading
 
-* [GigaPurbalingga](https://gigapurbalingga.net/) - Software / Android / Games
 * [Syameu](https://syam.eu.org/) - Retro Games / ROMs
-* [Yasir252](https://www.yasir252.com/) - Software / Android / Games
 * [AniBatch](https://anibatch.anibatch.moe/) - Anime
 * [Drivenime](https://drivenime.com/) - Anime
 * [IndonesiaEbook](https://ebook.twointomedia.com/) - Books
@@ -1402,7 +1397,6 @@
 * [rublacklist](https://reestr.rublacklist.net/?status=1&gov=4&paginate_by=50), [2](https://reestr.rublacklist.net/?status=1&gov=24&paginate_by=50) - Warez list
 * [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio / Software / Games / Android
 * [rsload](https://rsload.net/) - Software / Android / Games
-* [Alpha-AG](https://www.alpha-ag.ru/) - Software / Android / Games
 * [2BakSa](http://2baksa.ws/) - Video / Audio / Games / Software / Books
 * [Allmults](https://allmults.org/) - Cartoons
 * [CyberShara](https://cybershara.ru/) - PSP ROMs
@@ -1946,13 +1940,6 @@
 ## ▷ Downloading
 
 * [Fshare](https://timfshare.com/) - Video / Audio / Software / Games
-* [TaiWebs](https://taiwebs.com/) - Software / Android / Games
-* [SoftBuzz](https://softbuzz.net/) - Software / Games
-* [KhiPhach](https://khiphach.info/) - Software / Android / Games
-* [Downvn](https://down.vn/) - Software / Android / Games
-* [Downloadvn](https://download.com.vn/) - Software / Android / Games
-* [TaiMienPhi](https://taimienphi.vn/) - Software / Android / Games
-* [Download3S](https://download3s.net/) - Software / Android / Games
 * [PhimDidibkk](https://phim.didibkk.com/) - Movies / TV / Anime
 * [CineTV](https://thuviencine.com/) - Movies / TV / Anime
 * [ThuvienHD](https://thuvienhd.com/) - Movies / TV / Anime
