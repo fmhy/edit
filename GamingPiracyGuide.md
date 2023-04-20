@@ -21,7 +21,7 @@
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Torrent / [Discord](https://discord.gg/hj8dU5BFHE) / pw: 1234
 * ⭐ **[CrackHub](https://crackhub.site/)** - Download / [Divolt](https://divolt.xyz/invite/82nEH5Sp) / [RSS](https://scene.crackhub.site/category/iso/feed/)
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
-* ⭐ **[VRPirates](https://t.me/vrpirates)** / [Wiki](https://wiki.vrpirates.club/), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
+* ⭐ **[VRPirates](https://t.me/vrpirates)** / [Wiki](https://wiki.vrpirates.club/), [ARMGDDN](https://t.me/ARMGDDNGames), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
 * ⭐ **[Game Download CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_download_cse)** / **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** - Multi-Site Search Engines
 * ⭐ **[/r/PiratedGames Mega](https://rentry.org/pgames-mega-thread)** / [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) or [CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461) - Game Piracy Megathreads / [Discord](https://discord.gg/dZWwhUy)
 * [Ova Games](http://www.ovagames.com/) - Download / Use Adblocker
@@ -427,75 +427,15 @@
 
 # ► Browser Games
 
-* ⭐ **[Ninjakiwi](https://ninjakiwi.com/)** - Browser Games / Bloons / Multiplayer
+* ⭐ **[Multi-Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_games)** - Sites with Multiple Browser Games
 * ⭐ **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
 * ⭐ **[Play-CS](https://play-cs.com/)** - Browser Counter-Strike 1.6
 * ⭐ **[RPS101](https://rps101.pythonanywhere.com/)** - 101 Gesture Rock-Paper-Scissors
 * ⭐ **[Cookie Consent Speed.Run](https://cookieconsentspeed.run/)** - Cookie Disabling Game
 * ⭐ **[AirConsole](https://www.airconsole.com/)** or [AnsStream](https://www.antstream.com/) - Control TV Games with Phone 
 * ⭐ **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme, turn off adblocker
-* [Discord Games Lab](https://discord.gg/discordgameslab)
-* [/r/WebGames](https://reddit.com/r/WebGames)
-* [Newgrounds](https://www.newgrounds.com/games)
-* [Armor Games](https://armorgames.com/)
-* [Kongregate](https://www.kongregate.com/)
-* [Weboasis Arcade](https://weboasis.app/arcade/)
-* [Addicting Games](https://www.addictinggames.com/)
-* [OneMoreLevel](http://www.onemorelevel.com/)
-* [Miniclip](https://miniclip.com/)
-* [Not Doppler](http://www.notdoppler.com/) 
-* [Nitrome](https://www.nitrome.com/) 
-* [Poki](https://poki.com/)
-* [Y8](https://www.y8.com/) 
-* [Arkadium](https://www.arkadium.com/)
-* [Crazy Games](https://www.crazygames.com/)
-* [GamezHero](https://www.gamezhero.com/) 
-* [Yandex Games](https://yandex.com/games/)
-* [Nicky Case](https://ncase.me/) 
-* [Gamepix](https://www.gamepix.com/)
-* [KibaGames](https://www.kibagames.com/)
-* [HTML5 Games](https://html5games.com/) / [Browser](http://html5.thebestarcadescript.com/)
-* [yell0wsuit](https://yell0wsuit.page/games.html)
-* [Kizi](https://kizi.com/) 
-* [Gamaverse](https://gamaverse.com/) 
-* [FOG](https://www.freeonlinegames.com/) 
-* [RoundGames](https://www.roundgames.com/)
-* [Radon Games](https://radon-games.glitch.me/)
-* [Snokido](https://www.snokido.com)
-* [2amGames](http://www.2amgames.com/)
-* [Game Game](https://game-game.com/)
-* [ArcadeSpot](https://arcadespot.com/)
-* [Untly](https://www.untly.com/)
-* [N-Arcade](https://n-arcade.io/) 
-* [watabou](https://watabou.itch.io/)
-* [Key Games](https://keygames.com/) 
-* [GamesFlare](https://gameflare.com/)
-* [Gaming Wonderland](https://www.gamingwonderland.com/)
-* [Game Top](https://www.gametop.com/online/index.html)
-* [Foddy](http://www.foddy.net/category/games/browser/)
-* [ALFY](https://www.alfy.com/)
-* [GameKB](https://www.gamekb.com/)
-* [Andkon](http://andkon.com/arcade/) 
-* [DAN-BALL](http://dan-ball.jp/en/)
-* [Play-Games](https://play-games.com)
-* [KBHGames](https://kbhgames.com/)
-* [Unity3DGames](http://www.unity3dgames.net/)
-* [FreeGames](https://freegames.org/)
-* [PrimaryGames](https://www.primarygames.com/)
-* [MSM Games](https://zone.msn.com/en-us/home)
-* [CAMLBOY](https://linoscope.github.io/CAMLBOY/)
-* [itch.io](https://graebor.itch.io/), [2](https://grey2scale.itch.io/), [3](https://ncase.itch.io/), [4](https://capsquared.itch.io/), [5](https://evilobjective.itch.io/)
-* [Cartoon Network Games](https://www.cartoonnetwork.com/games/index.html)
-* [Disney Games](https://disneynow.com/all-games)
-* [Lego Games](https://www.lego.com/en-us/kids/games)
-* [Friv](https://friv.com/), [2](https://web.archive.org/web/*/Friv.com)
-* [iogames.space](https://iogames.space/) or [Kevin Games](https://kevin.games/)- .io Games
-* [Games on GitHub](https://github.com/leereilly/games) - GitHub Hosted Games
-* [SpacebarCounter](https://spacebarcounter.io/spacebar-games.html) - Spacebar Games
-* [Nekogames](http://nekogames.jp/) - Japanese Games
-* [ArcadePrehacks](http://www.arcadeprehacks.com/) - Hacked Games
-* [Orisinal](http://www.ferryhalim.com/orisinal/), [BillsGames](http://www.billsgames.com/) or [pitStreet](http://www.pitstreet.com/) - Simple Games 
-* [Nick Jr. Games](http://www.nickjr.com/games/), [WBKidsGo](https://www.wbkidsgo.com/) or [PBS Kids Games](https://pbskids.org/games/) - Games for Kids
+* [/r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
+* [Discord Games Lab](https://discord.gg/discordgameslab) - Discord Games
 * [RobotStreamer](https://robotstreamer.com/) - Live Control Robots
 * [Free Rider HD](https://www.freeriderhd.com/) - Draw / Race Bike Tracks
 * [Merc.zone](https://merc.zone/) - Browser FPS
@@ -517,7 +457,7 @@
 * [The Founder](https://thefounder.biz/) - Run a Start-Up
 * [PopTropica](https://www.poptropica.com/) - Browser Adventure Game
 * [TotalJerkFace](https://totaljerkface.com/) - Happy Wheels & Other Games
-* [ConnectTheStars](https://connectthestars.xyz/) - Connect Stars through Movies
+* [ConnectTheStars](https://connectthestars.xyz/) or [Movie To Movie](https://movietomovie.com/) - Connect Stars through Movies
 * [Blaseball](https://www.blaseball.com/) - Odd Baseball Simulation Game
 * [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) or [Bemuse](https://bemuse.ninja/) - Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)
 * [Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures) - Interactive Text Adventures
@@ -606,7 +546,7 @@
 * [ZombsRoyale.io](https://zombsroyale.io/) - Zombie Battle Royale 
 * [Yohoho.io](https://www.yohoho.io/) - Pirate Battle Royale
 * [1v1.LOL](https://1v1.lol/) - 1v1 Building / Battle Sim
-* [MiniRoyale](https://miniroyale.io/) - Battle Royal Game 
+* [MiniRoyale](https://miniroyale.io/) - Battle Royal Game
 * [TagPro](https://koalabeast.com/) - Capture the Flag
 * [Wings.io](http://wings.io/) - Plane Battles
 * [Gpop.io](http://gpop.io/) - Rhythm Game
@@ -692,7 +632,8 @@
 * [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
 * [Menneske](https://www.menneske.no/eng/) - Number Puzzles
 * [Emozle](https://emozle.com/) - Emoji Puzzle
-* [Nerdle](https://nerdlegame.com/) - Number Guessing Game 
+* [Nerdle](https://nerdlegame.com/) - Number Guessing Game
+* [Cinenerdle2](https://www.cinenerdle2.app/) - Movie Puzzle
 * [picture dots](https://www.picturedots.com/) - Make & Play dot Puzzles
 * [babble.xyz](https://babbl.xyz/) - Infinite Scrabble
 * [MoreWords](https://www.morewords.com/) or [WordHub](https://wordhub.com/) - Scrabble
@@ -714,6 +655,7 @@
 * [BitBurner](https://danielyxie.github.io/bitburner/) - Incremental RPG
 * [KittensGame](https://kittensgame.com/web/) - Incremental Kitten Maker
 * [WarClicks](https://warclicks.com/) - Incremental War Game
+* [Goblin Bet](https://goblin.bet/) - Bet on 1v1 Monster Fights
 * [The First Alkahistorian](https://nagshell.github.io/elemental-inception-incremental/) - Incremental Elemental Game
 * [Merry Clickmas](http://www.digitalchestnut.com/merryclickmas/) - Incremental Present Maker
 * [FactoryIdle](http://factoryidle.com/) - Factory Idle Sim
@@ -730,18 +672,18 @@
 
 * ⭐ **[skribbl](https://skribbl.io/)**, [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * ⭐ **[GuessTheGame](https://guessthe.game/)** - Game Guessing Game
-* ⭐ **[GeoGuessr](https://www.geoguessr.com/)**, [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - Location Guessing Game / [Guide](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
+* ⭐ **[GeoGuessr](https://www.geoguessr.com/)**, [Globle](https://globle-game.com/), [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - Location Guessing Game / [Guide](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
 * [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
 * [GuessMe!](https://zetoman77.itch.io/guessme) - Guess Answers
 * [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
-* [WTM](https://whatthemovie.com/) or [Emovi](https://emovi.teuteuf.fr/) - Movie Guessing Games
+* [WTM](https://whatthemovie.com/), [RT Daily](https://www.rottentomatoes.com/daily/) or [Emovi](https://emovi.teuteuf.fr/) - Movie Guessing Games
 * [Heardle](https://www.heardle.app/) or [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - Song Guessing Games
 * [DanceMusic](http://dancemusic.wtf/) - Electronic Music Genre Guessing Game
 * [LanguageGuesser](https://languageguesser.com/) - Guess Music Video Languages 
 * [The Higher Lower Game](http://www.higherlowergame.com/) or [GoogleFued](https://googlefeud.com/) - Guess What's Googled More
 * [Guess The Price](https://guesstheprice.net/) - Price Guessing Game
-* [Guess The Year](https://guess-the-year.davjhan.com/) - Year Guessing Game
+* [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
 * [Approved, or Not Approved?](https://approvednotapproved.com/) - Approved Advertising Guessing Game
 * [damn.dog](https://damn.dog/) - wikiHow Guessing Game
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First
@@ -1307,6 +1249,7 @@
 
 ## ▷ Tabletop Tools
 
+* ⭐ **[Awesome TTRPG](https://github.com/Zireael07/awesome-tabletop-rpgs)** - Online TTRPGs / Tools
 * ⭐ **[dice.run](https://dice.run/)**, [Random Dice](http://www.dicesimulator.com/), [Desktop Dice](https://girkovarpa.itch.io/desktopdice) or [Google Dice](https://g.co/kgs/fVJuzq) - Dice Simulators
 * ⭐ **[Kanka](https://kanka.io/en-US)** - Tabletop RPG Manager
 * ⭐ **[5ETools](https://5e.tools/)**, [Kassoon](https://www.kassoon.com/dnd/) or [DragonsFoot](https://www.dragonsfoot.org/) - Dungeons & Dragons Tools
