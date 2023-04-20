@@ -16,7 +16,7 @@
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - Q&A AI
-* ⭐ **[Ora](https://ora.sh/openai/chatgpt)** or [AI Anything](https://aianything.netlify.app/) - GPT-3.5 Based Chatbot
+* ⭐ **[Ora](https://ora.sh/openai/chatgpt)** - GPT-3.5 Based Chatbot
 * [BAI](https://chatbot.theb.ai/) - GPT-3.5 Based Chatbot
 * [GPT4All](https://github.com/nomic-ai/gpt4all) - GPT-3.5 Based Chatbot
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
@@ -41,6 +41,7 @@
 * [CatGPT](https://cat-gpt.com/) - Cat Chatbot
 * [AICommand](https://github.com/keijiro/AICommand) - ChatGPT with Unity Editor
 * [CharacterHub](https://www.characterhub.org/) - Characters for LLMs
+* [AI Anything](https://aianything.netlify.app/) - Create Chatbots
 * [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Fully Autonomous GPT-4
 * [Kajiwoto](https://kajiwoto.com/), [Miki](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
 * [YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained Language Model
@@ -124,7 +125,7 @@
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT-3 Based AI
 * ⭐ **[Bard](https://bard.google.com/)** - Google's AI
 * ⭐ **[Poe](https://poe.com/)** - GPT-3.5 Based AI
-* ⭐ **[Ora](https://ora.sh/openai/chatgpt)** or [AI Anything](https://aianything.netlify.app/) - GPT-3.5 Based AI
+* ⭐ **[Ora](https://ora.sh/openai/chatgpt)** - GPT-3.5 Based AI
 * [EasyPeasy](https://easy-peasy.ai/) - GPT-3.5 Based AI
 * [BAI](https://chatbot.theb.ai/) - GPT-3.5 Based AI
 * [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain) - GPT-3.5 Based AI
