@@ -550,6 +550,7 @@ https://www.whosaidthat.uk/
 * [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451), [SkyHawk](https://skyhawkrecovery.github.io/) / [GitHub](https://github.com/SHRP), [PitchBlack](https://pitchblackrecovery.com/) or [OrangeFox](https://wiki.orangefox.tech/en/home) / [GitHub](https://gitlab.com/OrangeFox/misc/appdev/app) - Custom Recovery Firmware
 * [TWRP Root](https://twrp.me/) /  [Telegram](https://t.me/samsung_twrp_root/78379) or [UnofficialTWRP](https://unofficialtwrp.com/) - TWRP Root
 * [SamFirm A.I.O​](https://forum.xda-developers.com/t/tool-samfirm-a-i-o-tools-firmware-downloader-mtp-bypass-frp.4210103/), [samsung-frp-bypass-project](https://github.com/pubuduprasad/samsung-frp-bypass-project-) or [Firmwareland](https://firmwareland.com/) - Firmware / FRP Bypass
+* [Eureka](https://eurekadevelopment.github.io/) - Samsung Exynos Modding Community
 * [Frida-Mobile-Scripts](https://github.com/m0bilesecurity/Frida-Mobile-Scripts) - FRIDA Mobile Scripts
 * [Android OTP Extractor](https://github.com/puddly/android-otp-extractor) - Extract OTP Tokens
 * [Hash Droid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid) - File Hash Calculator
