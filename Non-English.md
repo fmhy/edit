@@ -203,15 +203,9 @@
 * [baidu-pan-downloader](https://github.com/dotennin/baidu-pan-downloader) - Baidu Yun Download Manager
 * [Impale](https://imaple8.co/) - Movies / TV
 * [shinybbs](https://sub.shinybbs.vip/) - TV
-* [3dmgame](https://www.3dmgame.com/) - Games / Geolocked / Baidu Required
 * [Hifini](https://www.hifini.com/) - Music
 * [J-pop Music Download](https://jpop.xyz/) - Music / FLAC / MP3
-* [tlanyan](https://itlanyan.com/) - Linux / Software
-* [CreatorDaily](https://creatorsdaily.com/) - Software
-* [uTools](https://u.tools/) - PC Plugins / Tools
 * [Icourse163 Downloader](https://greasyfork.org/en/scripts/372684) - Courses / [icourse163](https://www.icourse163.org/)
-* [CatchingNow](https://www.catchingnow.cn/), [Downkuai](https://www.downkuai.com/) or [TapTap](https://www.taptap.io/) - APKs
-* [Emu999](http://www.emu999.net/) - ROMs
 
 ## ▷ Torrenting
 
@@ -417,7 +411,6 @@
 * [FRDownMags](https://fr.downmagaz.net/) - Magazines
 * [Abandonware France](https://www.abandonware-france.org/index.php) - Abandonware
 * [GameTronik](https://www.gametronik.com/site/index.php) - Abandonware / Emulators
-* [Emurom](https://www.emurom.net/) - Emulators / ROMs
 * [TousLesDrivers](https://www.touslesdrivers.com/) - Drivers
 
 ## ▷ Torrenting
@@ -723,7 +716,6 @@
 
 ## ▷ Downloading
 
-* [Syameu](https://syam.eu.org/) - Retro Games / ROMs
 * [AniBatch](https://anibatch.anibatch.moe/) - Anime
 * [Drivenime](https://drivenime.com/) - Anime
 * [IndonesiaEbook](https://ebook.twointomedia.com/) - Books
@@ -763,9 +755,6 @@
 * [eurekaddl](https://eurekaddl.boats/) - Video / Audio / Software / Games / Books / Magazines / Comics / Android / NSFW
 * [OverDay](https://overday.info/) - Software / Games / Android / Courses / Books
 * [HD4Me](https://hd4me.net/) - Movies
-* [xNavigation](https://www.xnavigation.net/) - Freeware
-* [GamesReplay](https://www.gamesreplay.net/) - Retro Roms
-* [TheDubber](http://www.thedubber.altervista.org/) - Retroware Archive
 * [XDCC Mule](https://www.xdccmule.org/) - IRC Download Search
 
 ## ▷ Streaming
@@ -826,7 +815,6 @@
 * [J-pop Music Download](https://jpop.xyz/) - Music / MP3 / FLAC
 * [MinimumMusic](https://minimummusic.com/) - FLAC / MP3
 * [Perfect Dark](http://kasumi.moe/pd/) - P2P App
-* [Eagleforces](https://eagleforces.tistory.com/) - ROMs
 
 ## ▷ Torrenting
 
@@ -984,7 +972,6 @@
 * [Download.ir](https://download.ir/) - Software / Video / Android / Games / Roms
 * [Patoghu](https://patoghu.com/) - Video / Audio / Software / Android / Games
 * [Doostihaa](https://www.doostihaa.com/) - Video / Audio / Software / Games
-* [FileNiko](https://fileniko.com/) - Video / Software / Games
 * [dl1.3rver](https://dl1.3rver.org/), [2](https://dl2.3rver.org/), [3](https://dl3.3rver.org/) - Movies / TV
 * [dlfars](https://dlfars.pw/) - Movies / TV / Anime
 * [RooDL](https://roozdl1.com/) - Movies / TV / Anime
@@ -1152,7 +1139,6 @@
 * [Series Empire](https://seriesempire.com/) - TV
 * [BiaxarSomGospel](https://www.baixarsomgospel.org/) - Gospel Music
 * [Gendou](http://gendou.com/) - Anime OSTs
-* [Emulador](https://emulador3ds.com/pt/nintendo-3ds/) - 3DS Roms
 * [baixarvideo](https://www.baixarvideo.com.br/) - Portuguese Video Downloader
 * [OnlineCursoGatuitos](https://onlinecursosgratuitos.com/) - Courses
 * [escolaeducacao](https://escolaeducacao.com.br/estude-gratis/) - Courses
@@ -1399,7 +1385,6 @@
 * [rsload](https://rsload.net/) - Software / Android / Games
 * [2BakSa](http://2baksa.ws/) - Video / Audio / Games / Software / Books
 * [Allmults](https://allmults.org/) - Cartoons
-* [CyberShara](https://cybershara.ru/) - PSP ROMs
 * [tancpol](https://tancpol.net/) - MP3
 * [z2.fm](https://z2.fm/) - MP3
 * [KinoSoundtrack](https://www.kinosoundtrack.com/) - MP3
@@ -1577,14 +1562,6 @@
 * [SeriesTV](https://www.seriestv.in/foro.php) - Video / Audio / Reading / NSFW / Software / Games
 * [Flipax2](https://flipax2.me/) - Video / Audio / Reading / Software / Games
 * [CompucaliTV](https://www.compucalitv.com/) - Video / Software / Games
-* [ZonaLeRoS](https://www.zona-leros.com/) - Video / Games
-* [Emu Games](https://emu-games.com/) - Emulators / ROMs
-* [KillerROMs](https://roms-descargar.com/) - Emulators / ROMs
-* [Romsjuegos](https://romsjuegos.com/) - ROMs
-* [Roms en Español](https://romsespanol.com/) - ROMs
-* [RPGarchive](https://rpgarchive.net/) - ROMs
-* [TodoGamez](https://todogamez.com/) - ROMs
-* [gamesgx](https://www.gamesgx.net/) - PS2 ROMs
 * [Zypeliculashd](https://zypeliculashd.net/) - Movies / TV / Anime
 * [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / Latino / Castilian
 * [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - Movies
