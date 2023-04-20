@@ -489,7 +489,7 @@
 * ⭐ **[VPN Comparison Chart](https://web.archive.org/web/20221029202548/https://privacymelon.com/stealth-vpn-guide/vpn-comparison-table/)** / [2](https://techlore.tech/vpn) / [3](https://redd.it/rikthc) - VPN Comparisons
 * ⭐ **[VPS Comparison Chart](https://lowendstock.com/)** - VPS Comparisons
 * ⭐ **[How-to Bind VPN to Client](https://redd.it/ssy8vv)** - Bind VPN to Client to Avoid ISP Letters
-* ⭐ **[Mullvad](https://mullvad.net/)** - [Pricing](https://i.imgur.com/LfjZ9G3.png) / [NetNS](https://github.com/chutz/mullvad-netns) / [No-Logging](https://mullvad.net/da/help/swedish-legislation/)
+* ⭐ **[Mullvad](https://mullvad.net/)** - [Pricing](https://i.imgur.com/LfjZ9G3.png) / [NetNS](https://github.com/chutz/mullvad-netns) / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/)
 * ⭐ **[IVPN](https://www.ivpn.net/)** - [Pricing](https://i.imgur.com/cVTX688.png) / [Free Trial](https://redd.it/nzjmqa) / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/)
 * ⭐ **[OVPN](https://www.ovpn.com/)** - [Pricing](https://i.imgur.com/ALOfSxn.png) / [No Logging](https://www.ovpn.com/en/blog/ovpn-wins-court-order)
 * ⭐ **[Perfect Privacy](https://www.perfect-privacy.com/)** - [Pricing](https://i.imgur.com/Rtfwu2t.png) / [No Logging](https://www.perfect-privacy.com/en/warrant-canary)
