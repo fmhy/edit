@@ -298,6 +298,7 @@
 * [Ninja Warrior](https://github.com/nbats/FMHYedit/blob/main/base64.md#ninja-warrior) - Sasuke Episodes
 * [MyRM](https://myrunningman.com/) - My Running Man Episodes / [Discord](https://discord.gg/TpSgC6b)
 * [No-Laughing Batsu Game List](https://redd.it/2fgm9p)
+* [TW Classics](https://twcclassics.com/) - Weather Channel Replays
 * [cytube](https://cytu.be/) - TV / Chat
 * [ScrubTV](https://dizz.tube/) - TV / Chat
 * [VaughnLive](https://vaughn.live/browse/misc) - TV / Chat
@@ -754,7 +755,7 @@
 
 * **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting
 * ⭐ **[Stremio](https://www.stremio.com/)** / [Enhanced](https://github.com/REVENGE977/stremio-enhanced-community) - Torrent Streaming App
-* ⭐ **Stremio Tools** - [Guide](https://rentry.co/privatestremio) / [Addons](https://stremio-addons.netlify.app/) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/) / [GDrive Fetch](https://github.com/ShuvamJaswal/Gdrive-Stremio-Update) / [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure)
+* ⭐ **Stremio Tools** - [Guide](https://rentry.co/privatestremio) / [Addons](https://stremio-addons.netlify.app/) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [Watch Together](https://redd.it/cvmu80) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/) / [GDrive Fetch](https://github.com/ShuvamJaswal/Gdrive-Stremio-Update) / [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure)
 * ⭐ **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents
 * ⭐ **[Radarr](https://radarr.video/)** - Autodownload Movie Torrents / [GitHub](https://github.com/Radarr/Radarr)
 * ⭐ **[Sonarr](https://sonarr.tv/)** / [GitHub](https://github.com/Sonarr/Sonarr), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - Autodownload TV Torrents / [Guide](https://wiki.servarr.com/)
