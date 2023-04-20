@@ -1561,7 +1561,6 @@
 * [Cultura Para Todos](https://culturaparatodos.eu/) - Video / Audio / Reading / Software / Games
 * [SeriesTV](https://www.seriestv.in/foro.php) - Video / Audio / Reading / NSFW / Software / Games
 * [Flipax2](https://flipax2.me/) - Video / Audio / Reading / Software / Games
-* [CompucaliTV](https://www.compucalitv.com/) - Video / Software / Games
 * [Zypeliculashd](https://zypeliculashd.net/) - Movies / TV / Anime
 * [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / Latino / Castilian
 * [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - Movies
