@@ -16,7 +16,7 @@
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - Q&A AI
-* ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT-3.5 Based Chatbot
+* ⭐ **[Ora](https://ora.sh/)** or [AI Anything](https://aianything.netlify.app/) - Create Chatbots
 * [BAI](https://chatbot.theb.ai/) - GPT-3.5 Based Chatbot
 * [GPT4All](https://github.com/nomic-ai/gpt4all) - GPT-3.5 Based Chatbot
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
@@ -27,18 +27,19 @@
 * [Dalai](https://cocktailpeanut.github.io/dalai/) or [LLaMA C++](https://github.com/ggerganov/llama.cpp) - Self-Host Facebook Chatbot / [Guide](https://rentry.org/llama-tard-v2)
 * [Alpaca Lora](https://huggingface.co/spaces/tloen/alpaca-lora) - Chatbot Built by Standford / [Git](https://github.com/antimatter15/alpaca.cpp) / [Guide](https://github.com/tatsu-lab/stanford_alpaca) / [Self-Host](https://github.com/tloen/alpaca-lora) / [Docker](https://github.com/chris-alexiuk/alpaca-lora)
 * [PygmalionAI](https://redd.it/10kr5zk) - Chatbot Built by 4Channers / [Guide](https://rentry.org/pygmalion-local) / [FAQ](https://rentry.org/pygmalion-ai)
-* [InWorld](https://www.inworld.ai/) - Roleplaying Chatbots
-* [Chai](https://www.chai-research.com/) or [MessengerX](https://www.messengerx.io/) - Entertainment Focused Chatbots
-* [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbot
-* [AnimaAI](https://myanima.ai/) - Virtual Companion
 * [JackChat](https://app.jackchat.ai/) - Browser Based Chatbot
 * [cleverbot](https://www.cleverbot.com/) - Browser Based Chatbot
 * [eviebot](https://www.eviebot.com/en/) - Browser Based Chatbot
 * [Kuki](https://chat.kuki.ai/chat) - Browser Based Chatbot
 * [AskEdith](https://www.askedith.ai/demo) - Job / Business Q&A AI
 * [Phind](https://www.phind.com/) - Developer Q&A AI
-* [AICommand](https://github.com/keijiro/AICommand) - ChatGPT with Unity Editor
 * [Leon](https://getleon.ai/) - AI Assistant
+* [AnimaAI](https://myanima.ai/) - Virtual Companion
+* [InWorld](https://www.inworld.ai/) - Roleplaying Chatbots
+* [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbot
+* [Chai](https://www.chai-research.com/) or [MessengerX](https://www.messengerx.io/) - Entertainment Focused Chatbots
+* [CatGPT](https://cat-gpt.com/) - Cat Chatbot
+* [AICommand](https://github.com/keijiro/AICommand) - ChatGPT with Unity Editor
 * [CharacterHub](https://www.characterhub.org/) - Characters for LLMs
 * [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Fully Autonomous GPT-4
 * [Kajiwoto](https://kajiwoto.com/), [Miki](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
@@ -123,7 +124,6 @@
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT-3 Based AI
 * ⭐ **[Bard](https://bard.google.com/)** - Google's AI
 * ⭐ **[Poe](https://poe.com/)** - GPT-3.5 Based AI
-* ⭐ **[Ora](https://ora.sh/openai/gpt4)** - GPT-3.5 Based AI
 * [EasyPeasy](https://easy-peasy.ai/) - GPT-3.5 Based AI
 * [BAI](https://chatbot.theb.ai/) - GPT-3.5 Based AI
 * [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain) - GPT-3.5 Based AI
@@ -227,6 +227,7 @@
 * [Visuali](https://visuali.io/) - AI Image Generator
 * [Ocriador](https://ocriador.app/) - AI Image Generator
 * [StableBoost](https://stableboost.ai/) - AI Image Generator
+* [BlueWillow](https://www.bluewillow.ai/) - AI Image Generator
 * [Artsio](https://artsio.xyz/) - AI Image Generator
 * [Satble UI](https://aqualxx.github.io/stable-ui/) - AI Image Generator
 * [ArtBot](https://tinybots.net/artbot) - AI Image Generator
