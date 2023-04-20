@@ -225,7 +225,7 @@
 * [Cyber Talent Kids](https://cybertalentskids.com/) - Learn About Cybersecurity
 * [pwn.college](https://pwn.college/) - Cybersecurity Practice
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Pentesting / Security Index
-* [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn Pentesting
+* [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/www-project-juice-shop/) - Learn Pentesting
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
 * [John Hammond](https://www.youtube.com/@_JohnHammond) or [LowLevelLearning](https://www.youtube.com/@LowLevelLearning/) - Cybersecurity YouTube Tutorials
 
@@ -278,6 +278,7 @@
 
 * ⭐ **[Developer Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_developer_tools)** - Dev Tool Sites
 * ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists 
+* ⭐ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)** - Download Icons for Projects
 * [DevToys](https://github.com/ObuchiYuki/DevToysMac) or [DevUtils](https://devutils.app/) - Mac Dev Tools
 * [Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources) or [Open Source Design](https://opensourcedesign.net/) - Design Resource Sites
 * [Image Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools) - Image & Graphic Design Tools
@@ -305,7 +306,6 @@
 * [sli.dev](https://sli.dev/) - Markdown to Slideshow
 * [Volume](https://www.volumestories.com/) - Create Immersive Reading Experiences
 * [daily.dev](https://daily.dev/) - Replace New Tab Page with Developer Articles
-* [Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites) - Download Icons for Projects
 * [Favicon Maker](https://formito.com/tools/favicon) or [Favicon Generator](https://www.favicon-generator.org/) - Create Favicons
 * [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 * [Laws of UX](https://lawsofux.com/) - Maxims / Principles for UI Designers
@@ -667,7 +667,7 @@
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
 * [LightHouse](https://github.com/GoogleChrome/lighthouse) - Web App Performance Test
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
-* [w3af](http://w3af.org/) or [Burp](https://github.com/nbats/FMHYedit/blob/main/base64.md#burp) - Web App Security Testing
+* [w3af](http://w3af.org/) or [Burp](https://github.com/nbats/FMHYedit/blob/main/base64.md#burp) or [ZAP](https://www.zaproxy.org/) - Web App Security Testing
 * [PWA Screenshot Generator](https://progressier.com/pwa-screenshots-generator) - Generate PWA Screenshots
 * [egui](https://github.com/emilk/egui) - Rust GUI 
 * [Form To Chatbot](http://formtochatbot.com/) - Convert Google Form to Chatbot
@@ -844,7 +844,7 @@
 ## ▷ Game Dev Tools
 
 * [HiddenPalace](https://hiddenpalace.org/) - Game Development Media Archive
-* [Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources), [Magic Tools](https://github.com/ellisonleao/magictools), [LibGDX](https://github.com/rafaskb/awesome-libgdx) or [Awesome Gamedev](https://github.com/mbrukman/awesome-gamedev) - Game Development Resources
+* [Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources), [Magic Tools](https://github.com/ellisonleao/magictools), [LibGDX](https://github.com/rafaskb/awesome-libgdx), [VG resource](https://www.vg-resource.com/) or [Awesome Gamedev](https://github.com/mbrukman/awesome-gamedev) - Game Development Resources
 * [PICO-8](https://mboffin.itch.io/pico8-educational-toolset) - Basic Game Development Concepts
 * [Free Game Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_engines)
 * [Playerio](https://playerio.com/) - Online Game Engine
@@ -1237,7 +1237,7 @@
 
 ## ▷ Cloud IDEs / Collab
 
-* ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [Deta](https://www.deta.sh/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [FireMonkeyX](http://www.firemonkeyx.com/), [Cloud9](https://aws.amazon.com/cloud9/) or [Glitch](https://glitch.com/) / [GitHub](https://github.com/m3o/m3o) - Cloud IDE
+* ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [Deta](https://www.deta.sh/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [FireMonkeyX](http://www.firemonkeyx.com/), [Cloud9](https://aws.amazon.com/cloud9/) or [Glitch](https://glitch.com/) / [Replit Import](https://replit.com/glitch) / [GitHub](https://github.com/m3o/m3o)  - Cloud IDE
 * ⭐ **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - Cloud IDE / VSCode 
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
 * [colab alive](https://github.com/sobuj53/colabAlive) - Keep Colab Open
