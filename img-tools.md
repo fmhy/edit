@@ -80,7 +80,7 @@
 * ⭐ **[Pingo](https://css-ig.net/pingo)** / [GUI](https://css-ig.net/pinga), [RIOT](https://riot-optimizer.com/), [imageoptimizer](http://www.imageoptimizer.net/) or [ImageFoo](https://imagefoo.com/) - Image Optimization Tools
 * [Croppola](https://croppola.com/), [Freehand Cropper](https://half-6.github.io/lf-freehand-cropper/), [Bulk Image Crop](https://bulkimagecrop.com/), [CropHere](https://crophere.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tool
 * [Seopix](https://www.seopix.io/), [Shrink Media](https://www.shrink.media/) or [Reduce Images](https://www.reduceimages.com/) - Resize / Compress Images
-* [Simple Image Resizer](http://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [fixpicture](https://www.fixpicture.org/), [PicResize](https://picresize.com/), [resize-image](https://resize-image.net/), [Birme](https://www.birme.net/), [ImageResizeOnline](https://www.imageresizeonline.com/), [OnlineResizeImage](https://www.onlineresizeimage.com/), [ResizeNow](https://www.resizenow.com/en) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - Resize Images
+* [Simple Image Resizer](http://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [fixpicture](https://www.fixpicture.org/), [PicResize](https://picresize.com/), [resize-image](https://resize-image.net/), [Birme](https://www.birme.net/), [ImageResizeOnline](https://www.imageresizeonline.com/), [OnlineResizeImage](https://www.onlineresizeimage.com/), [ResizeNow](https://www.resizenow.com/en), [BulkResizePhotos](https://bulkresizephotos.com/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - Resize Images
 * [Resize App Icon](https://resizeappicon.com/) - Resize Square Images 
 * [SSizes](https://ssizes.com/) or [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
 * [SVGO](https://github.com/svg/svgo) - SVG Optimization Tool / [GUI](https://jakearchibald.github.io/svgomg/)
@@ -246,7 +246,8 @@
 ## ▷ Painting / Drawing
 
 * ⭐ **[PuccaNoodles’ Resource Sheet](https://docs.google.com/spreadsheets/d/1-8OKuEvRR038Uno--Vi9tQRe4eFCSfQTPov7nXgiJ3w/)** - Painting / Drawing Resources
-* [Krita](https://krita.org/en/) / [Custom Backend](https://github.com/Interpause/auto-sd-paint-ext) / [Stable Diffusion](https://github.com/sddebz/stable-diffusion-krita-plugin), [SmoothDraw](https://qrli.github.io/smoothdraw/), [MyPaint](https://github.com/mypaint/mypaint), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [Tux Paint](https://tuxpaint.org/), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/), [Paintroid](https://github.com/Catrobat/Paintroid), [ProsePainter](https://www.prosepainter.com/), [SpeedPaint](https://www.speedpaint.info/), [YouiDraw](https://site.youidraw.com/), [LazPaint](https://github.com/bgrabitmap/lazpaint/), [JSPaint](https://github.com/crisdosyago/jspaint.exe), [Tegaki](https://desuwa.github.io/tegaki.html), [SpeedyPainter](https://speedypainter.altervista.org/) or [MediBang](https://medibangpaint.com/en/) - Painting
+* ⭐ **[Krita](https://krita.org/en/)**, [SmoothDraw](https://qrli.github.io/smoothdraw/), [MyPaint](https://github.com/mypaint/mypaint), [jspaint](https://jspaint.app/), [FireAlpaca](https://firealpaca.com/), [PaintOnline](https://paintonline.com.br/paint.html), [Tux Paint](https://tuxpaint.org/), [PinTor](https://pintor.app/), [JS Kid Pix](https://kidpix.app/), [Paintroid](https://github.com/Catrobat/Paintroid), [ProsePainter](https://www.prosepainter.com/), [SpeedPaint](https://www.speedpaint.info/), [miniPaint](https://viliusle.github.io/miniPaint/), [YouiDraw](https://site.youidraw.com/), [LazPaint](https://github.com/bgrabitmap/lazpaint/), [JSPaint](https://github.com/crisdosyago/jspaint.exe), [Tegaki](https://desuwa.github.io/tegaki.html), [SpeedyPainter](https://speedypainter.altervista.org/) or [MediBang](https://medibangpaint.com/en/) - Painting
+* ⭐ **Krita Tools** - [Custom Backend](https://github.com/Interpause/auto-sd-paint-ext) / [Stable Diffusion](https://github.com/sddebz/stable-diffusion-krita-plugin)
 * [bomomo](https://bomomo.com/) - Multi-Brush Painting
 * [Milton](https://www.miltonpaint.com/) - Infinite Canvas Painting
 * [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art
@@ -267,6 +268,7 @@
 * [JacksonPollock](https://www.jacksonpollock.org/) - Splatter Painting / Click to Change Color
 * [Picrew](https://picrew.me/) - Animated Character Maker
 * [Animated Drawings](https://sketch.metademolab.com/), [MotorPen](https://motorpen.com/) or [Scratch](https://scratch.mit.edu/) - Animate Drawings
+* [FlipAnim](https://flipanim.com/) - Create Animated Flipbooks
 * [Tiny Sketchbook](https://www.tinysketchbook.com/) - Create and Share Doodle Art
 * [Ink Workspace](https://www.microsoft.com/store/productId/9P0RP342JZMN) - Pen App Launcher
 * [brush-photoshop](https://www.brush-photoshop.fr/), [wowbrushes](http://wowbrushes.com/), [chezplumeau](https://www.chezplumeau.com/), [getbrushes](http://getbrushes.com/), [gfxfever](http://gfxfever.com/photoshop-brushes), [fbrushes](https://fbrushes.com/), [brushes_and_patterns](https://t.me/brushes_and_patterns), [myphotoshopbrushes](https://myphotoshopbrushes.com/), [brusheezy](https://www.brusheezy.com/brushes), [brushking](https://www.brushking.eu/) or [tala](https://t.me/tala_photoshop_brushes) - Digital Art Brushes
@@ -340,7 +342,7 @@
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - Free Doodles
 * [Replacement Sky](https://replacement-sky.com/) - Skies for Photoshop
 * [AmbientCG](https://ambientcg.com/), [TextureTown](https://textures.neocities.org/), [Lost and Taken](https://lostandtaken.com/), [3D textures](https://icons8.com/l/3d-textures/), [Textureking](https://www.textureking.com/), [Texture Labs](https://texturelabs.org/), [Transparent Textures](https://www.transparenttextures.com/), [Texture Club](https://www.sketchuptextureclub.com/), [TexturesForFree](https://texturesforfree.com/), [fatstrawberry](https://www.fatstrawberry.co.uk/), [PBR_Textures](https://t.me/PBR_Textures) or [Texture Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#texture-collection) - Download Textures
-* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) or [Pattern Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#pattern-collection) - Download Patterns
+* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/), [Background Tiles](https://background-tiles.com/) or [Pattern Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#pattern-collection) - Download Patterns
 * [Watercolor Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#watercolor-collection) - Download Watercolor Pictures
 * [google-images-download](https://github.com/Joeclinton1/google-images-download) - Download Images from Google Images 
 * [googleimagerestored](https://github.com/fanfare/googleimagesrestored) - Old Google Image Search 
@@ -384,6 +386,7 @@
 * [Armorpaint](https://armorpaint.org/) - 3D Painting
 * [SculptGL](https://stephaneginier.com/sculptgl/) - 3D Sculpting
 * [ModelViewer](https://modelviewer.dev/) - 3D Model Viewer
+* [Perspective Grid](https://www.reubenlara.com/perspectivegrid/) - 3D Perspective Tool
 * [Assemblr](https://www.assemblrworld.com/) - Augmented Reality Image Creator
 * [MeshLab](https://www.meshlab.net/) - 3D Mesh Processing / [GitHub](https://github.com/cnr-isti-vclab/meshlab)
 * [CadHub](https://cadhub.xyz/) - Community Hub for CAD Projects
@@ -583,6 +586,7 @@
 * [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - Photoshop Tutorials
 * [DomDesigns](https://www.youtube.com/c/DomDesigns/) - Illustrator Tutorials
 * [PhotoshopTraining](https://www.youtube.com/@PhotoshopTrainingChannel), [Phlearn](https://www.youtube.com/@phlearn) or [PiXimperfect](https://www.youtube.com/@PiXimperfect) - Photoshop YouTube Tutorials
+* [The Bézier Game](https://bezier.method.ac/) - Pen Tool Practice
 * [ArtWithFlo](https://artwithflo.com/) - Procreate Tutorials
 * [Paintable](https://paintable.cc/blog-home-bootcamp/) - Digital Art Tutorials
 * [Pedro's Pixel Art Tutorials](https://blog.studiominiboss.com/pixelart) or [SLYNYRD](https://www.slynyrd.com/gallery-animated) - Pixel Art Tutorials
