@@ -427,7 +427,7 @@
 
 # ► Browser Games
 
-* ⭐ **[Multi-Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_games)** - Sites with Multiple Browser Games
+* ⭐ **[Multi Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_games)** - Sites with Multiple Browser Games
 * ⭐ **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
 * ⭐ **[Play-CS](https://play-cs.com/)** - Browser Counter-Strike 1.6
 * ⭐ **[RPS101](https://rps101.pythonanywhere.com/)** - 101 Gesture Rock-Paper-Scissors
@@ -547,6 +547,7 @@
 * [Yohoho.io](https://www.yohoho.io/) - Pirate Battle Royale
 * [1v1.LOL](https://1v1.lol/) - 1v1 Building / Battle Sim
 * [MiniRoyale](https://miniroyale.io/) - Battle Royal Game
+* [Wanderers](https://wanderers.io/) - Real-Time Strategy Game
 * [TagPro](https://koalabeast.com/) - Capture the Flag
 * [Wings.io](http://wings.io/) - Plane Battles
 * [Gpop.io](http://gpop.io/) - Rhythm Game
@@ -595,7 +596,7 @@
 * [Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards) - Card Games Index
 * [WorldOfCardGames](https://worldofcardgames.com/), [247Games](https://www.247games.com/), [CardzMania](https://www.cardzmania.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Card Games
 * [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards with Wikidata
-* [Solitaired](https://solitaired.com/) - Solitaire
+* [Solitaired](https://solitaired.com/) or [Solitr](https://www.solitr.com/) - Solitaire
 * [Free Spider Solitaire](https://freespidersolitaire.io/) - Spider Solitaire
 * [Mah-Jongg](https://www.mah-jongg.ch/) - Mahjongg Solitaire Games
 * [Blackjack Break](https://blackjackbreak.com/) - Browser Blackjack
@@ -619,7 +620,8 @@
 * [Jigsaw Puzzles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_jigsaw_puzzles) - Online Jigsaw Puzzles
 * [Rubik’s Cube Explorer](https://iamthecu.be/) or [The Cube](https://bsehovac.github.io/the-cube/) - Solve a Rubix Cube / [Solver](https://rubiksolve.com/), [2](https://rubiks-cube-solver.com/)
 * [MasasGames](https://masasgames.com/) - Virtual Escape Rooms
-* [Sokoban](https://suppilulemur.neocities.org/) - Box Moving Puzzle Game / Zelda-Themed
+* [Sokoban Online](https://www.sokobanonline.com/) - Sokoban Puzzles
+* [Sokoban](https://suppilulemur.neocities.org/) - Zelda-Themed Sokoban Puzzles
 * [DuckDuckgo 2048](https://duckduckgo.com/?q=play+2048&amp;ia=answer), [Power](https://1024-game.netlify.app/) or [2048](https://play2048.co/) - 2048 Puzzles
 * [Flappy 2048](https://www.flappy-2048.com/) - Flappy Bird Style 2048
 * [JetHolt](https://jetholt.com/hacking/), [RebelWithoutACause](https://rebelwithoutarootcause.com/demos/terminal/) or [Aramor](http://aramor.epizy.com/fallout-terminal/main) - Fallout Terminal Hacking Game
