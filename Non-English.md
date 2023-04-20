@@ -756,6 +756,10 @@
 * [HD4Me](https://hd4me.net/) - Movies
 * [XDCC Mule](https://www.xdccmule.org/) - IRC Download Search
 
+## ▷ Torrenting
+
+* [MIRCrew](https://mircrew-releases.org/) - Movies / TV / Anime
+
 ## ▷ Streaming
 
 * [Streaming Improved](https://rentry.co/ItalianStreamingImproved), [2](https://rentry.co/t29tz) - Streaming Sites List
