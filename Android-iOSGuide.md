@@ -383,7 +383,7 @@ https://www.whosaidthat.uk/
 * [Creator Studio](https://play.google.com/store/apps/details?id=com.facebook.creatorstudio) - Social Media Manager
 * [Google Lens](https://lens.google/) - Multiple Camera Tools
 * [FreeDcam](https://github.com/KillerInk/FreeDcam) - Enable Hidden Camera Features
-* [Photok](https://github.com/leonlatsch/Photok), [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery), [Stingle Photos](https://stingle.org/), [Ente](https://ente.io/), [Gallery](https://github.com/IacobIonut01/Gallery) or [No See You](https://baixarapk.gratis/en/app/1186829987/photo-vault-noseeyou) - Photo / Video Galleries
+* [Photok](https://github.com/leonlatsch/Photok), [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery), [Stingle Photos](https://stingle.org/), [Ente](https://ente.io/) or [Gallery](https://github.com/IacobIonut01/Gallery) - Photo / Video Galleries
 * [LeafPic](https://gitlab.com/HoraApps/LeafPic) - Image Viewer
 * [OneShot](https://github.com/ptrLx/OneShot) - Photo Diary
 * [Widgetshare](https://play.google.com/store/apps/details?id=com.galew.widgetshare) - Photo Sharing App
