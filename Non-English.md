@@ -182,7 +182,7 @@
 * [FE Hunter](https://github.com/BetaSu/fe-hunter) - Programming Question Bounties
 * [Awesome Github REPO](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - Programming Resources
 * [HelloGitHub](https://hellogithub.com/) - GitHub Projects
-* [Gridea](https://github.com/getgridea/gridea) - Blog Writing Client
+* [Gridea](https://open.gridea.dev/) - Blog Writing Client
 * [Dict.Baidu](https://dict.baidu.com/) - Chinese Word, Idiom and Poem Search
 * [SeiWatei](https://www.seiwatei.net/) or [chinadaily](https://language.chinadaily.com.cn/news_bilingual/) - Learn Chinese
 * [Oh.Taigi](https://oh.taigi.info/) - Chinese Taiwanese Learning Tools
