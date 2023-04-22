@@ -27,7 +27,7 @@
 * [Roadmap](https://roadmap.sh/) - Developer Roadmaps / [Github](https://github.com/kamranahmedse/developer-roadmap)
 * [QuickRef.ME](https://quickref.me/), [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
 * [Programming Challenges](https://i.imgur.com/FPwNgOK.png), [HackTheEarth](https://www.hackerearth.com/challenges/), [EMKC](https://emkc.org/challenges) or [Code Golf](https://codegolf.stackexchange.com/) - Programming Challenges
-* [Codexplainer AI](https://chrome.google.com/webstore/detail/codexplainer-ai-beta/mekadgeckpcgideipfhbcapmenbadejp) or [Denigma](https://denigma.app/#demo) - Code Explanations
+* [Codexplainer AI](https://chrome.google.com/webstore/detail/codexplainer-ai-beta/mekadgeckpcgideipfhbcapmenbadejp), [WDTCD?](https://whatdoesthiscodedo.com/) or [Denigma](https://denigma.app/#demo) - AI Code Explanations
 * [Coding Problems](https://github.com/MTrajK/coding-problems) - Solutions for Coding Problems
 * [RoboMind](https://www.robomind.net/) or [Checki0](https://checkio.org/) - Code Learning Games
 * [mimo](https://getmimo.com/) - Coding Tutorial App
@@ -386,7 +386,7 @@
 * [Birdsite](https://birdsite.slashdev.space/) - Twitter to ActivityPub Bridge
 * [rss-to-activitypub](https://portal.0svc.com/convert/) - RSS to ActivityPub Converter
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
-* [Constraints](https://zalo.github.io/blog/constraints/) - Find Minimum Movement Constraint.
+* [Constraints](https://zalo.github.io/blog/constraints/) - Find Minimum Movement Constraint
 * [XunLei](https://www.xunlei.com/) - Shared Computing / Blockchain
 * [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulator
 * [Tesseract](https://tesseract-ocr.github.io/) - Open Source OCR Engine / [GitHub](https://github.com/tesseract-ocr/tesseract)
@@ -496,6 +496,7 @@
 * [Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools) - Domain Information Lookup Tools
 * [AIconicDomain](https://aiconicdomain.com/), [namy.ai](https://namy.ai/), [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [v3WhoIs](https://www.v3whois.com/), [IWantMyName](https://iwantmyname.com/), [expireddomains](https://www.expireddomains.net/), [atlaq](https://atlaq.com/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
 * [TinyDomain](https://tinydomain.net/) - Short Domain Suggestions
+* [DNForum](https://www.dnforum.com/) - Domain Name Forum
 * [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
 * [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
 * [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
@@ -554,6 +555,7 @@
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend Development Resources
 * [Boilerplate](https://github.com/h5bp/html5-boilerplate) - Website Frontend Template HTML5
 * [Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates) or [Undraw](https://evie.undraw.co/)  - Site Templates
+* [an idea for a website](https://anideafora.website/) - Random Website Ideas
 * [Templatemo](https://www.templatemo.com/) or [Tooplate](https://www.tooplate.com/) - HTML Site Templates
 * [HTML5 Temp](https://rentry.co/HTML5Temp) - HTML5 Templates & Themes
 * [CSS Bed](https://www.cssbed.com/), [Repth Themes](https://repth.neocities.org/theme), [beercss](https://www.beercss.com/) / [GitHub](https://github.com/beercss/beercss) or [free-css-templates](https://www.free-css.com/free-css-templates) - CSS Themes / Templates
@@ -561,6 +563,7 @@
 * [MicroCopy](https://www.microcopy.me) - Copy Common Website Text
 * [VidJet](https://www.vidjet.io/) - Publish Videos to Online Stores
 * [Typewolf](https://www.typewolf.com/) or [Typ.io](https://typ.io/) - Trending Website Fonts
+* [Modern Fonts Stacks](https://modernfontstacks.com/) - CSS Fonts
 * [CSSans Pro](https://cssans.pro/) - Colorful CSS Font
 * [RoughAnnotations](https://roughnotation.com/) - Webpage Annotations / Animations
 * [Pattern Monster](https://pattern.monster/) - SVG Pattern Generator
@@ -1074,7 +1077,7 @@
 * [AutoRegex](https://www.autoregex.xyz/) - Regex Converter
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding Resource Index 
 * [Algorithm Visualizer](https://algorithm-visualizer.org/), [Sorting Algorithms Visuallizer](https://sadanandpai.github.io/sorting-visualizer/dist/) / [GitHub](https://github.com/sadanandpai/sorting-visualizer) or [mermaid](https://mermaid-js.github.io/mermaid/) - Visualize Code Algorithms 
-* [Code2Flow](https://app.code2flow.com/) or [Flowchart Generator](https://github.com/MugilanGN/Flowchart-Generator) - Code to Flowchart Converter
+* [Code2Flow](https://app.code2flow.com/), [Flowchart.js](https://flowchart.js.org/) or [Flowchart Generator](https://github.com/MugilanGN/Flowchart-Generator) - Code to Flowchart Converter
 * [UMLet](https://www.umlet.com/) - Create UML Diagrams
 * [WAPM](https://wapm.io/) - WebAssembly Apps / Libraries
 * [CarlosAG](https://www.carlosag.net/) - Coding Tools
