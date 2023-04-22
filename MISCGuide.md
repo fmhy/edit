@@ -225,7 +225,6 @@
 * ⭐ **[Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_virtual_tours)** - Virtual Tours / Travel Simulators
 * ⭐ **[Live Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)** - Watch Live Webcams
 * ⭐ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)** - Chat with AI
-* ⭐ **[Phallological Museum](https://www.phallus.is/)** - Worlds only genuine penis museum  
 * [LetMeGoogleThat](https://letmegooglethat.com/) or [GIYBF](http://giybf.com/) - Remind People that Google Exists
 * [The GIF Pronunciation Page](http://www.olsenhome.com/gif/) - How to Pronouce "GIF"
 * [GIFs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_gif_tools) - View / Download GIFs
@@ -502,6 +501,7 @@
 * [DeathDate.info](http://deathdate.info/), [DeathDate.org](https://www.deathdate.org/), [Fortunteller Deathdate](https://www.free-fortuneteller.com/deathdate), [DeathClock.com](http://deathclock.com/) or [Death-Clock](https://www.death-clock.org/) - Calculate Your Day of *DEATH* (how fun!)
 * [Three.js](https://threejs.org/) - JavaScript 3D library 
 * [CSS Puns](https://saijogeorge.com/css-puns/) - CSS Puns
+* [Phallological Museum](https://www.phallus.is/)** - Phallological Museum
 * [Pokémon Fossil Museum](https://my.matterport.com/show/?m=P9WCbyCBGBM) - Explore Pokémon Fossil Museum
 * [Pokémon Fusion](https://pokemon.alexonsager.net/) - Fuse Pokémon
 * [Poke Palettes](https://pokepalettes.com/) - Pokémon Color Palettes 
