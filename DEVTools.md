@@ -720,6 +720,7 @@
 * [NASM](https://www.nasm.us/) - Program Assembler
 * [Radicle](https://radicle.xyz/) - P2P Software Development
 * [Pakkly](https://pakkly.com/) - Desktop App Deployment
+* [Nomad](https://www.nomadproject.io/) - App Deployment Automation / [GitHub](https://github.com/hashicorp/nomad)
 * [Dotnet Content Creators](https://github.com/matthiasjost/dotnet-content-creators) - .NET Content Creators Index
 * [Dotnet Releaser](https://github.com/xoofx/dotnet-releaser) - Automate Release of .NET Applications
 * [Cron AI](https://cron-ai.vercel.app/) - Words to Cron Expression
