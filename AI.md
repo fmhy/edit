@@ -24,7 +24,7 @@
 * [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT-3 Based Chatbot
 * [Open Assistant](https://open-assistant.io/) - Open-Source Chatbot
 * [ChatLLaMA](https://stuff.serp.ai/l/lora-weights) - LLaMA Based Chatbot
-* [Dalai](https://cocktailpeanut.github.io/dalai/) or [LLaMA C++](https://github.com/ggerganov/llama.cpp) - Self-Host Facebook Chatbot / [Guide](https://rentry.org/llama-tard-v2)
+* [Dalai](https://cocktailpeanut.github.io/dalai/) or [LLaMA C++](https://github.com/ggerganov/llama.cpp) - Self-Host Facebook Chatbot / [Guide](https://rentry.org/llama-tard-v2) / [WebUI](https://github.com/ItsPi3141/dalai)
 * [Alpaca Lora](https://huggingface.co/spaces/tloen/alpaca-lora) - Chatbot Built by Standford / [Git](https://github.com/antimatter15/alpaca.cpp) / [Guide](https://github.com/tatsu-lab/stanford_alpaca) / [Self-Host](https://github.com/tloen/alpaca-lora) / [Docker](https://github.com/chris-alexiuk/alpaca-lora)
 * [PygmalionAI](https://redd.it/10kr5zk) - Chatbot Built by 4Channers / [Guide](https://rentry.org/pygmalion-local) / [FAQ](https://rentry.org/pygmalion-ai)
 * [JackChat](https://app.jackchat.ai/) - Browser Based Chatbot
@@ -205,7 +205,7 @@
 * ⭐ **[DeepAI](https://deepai.org/machine-learning-model/stable-diffusion)** / [2](https://deepai.org/machine-learning-model/text2img) - AI Image Generator / [Tools](https://deepai.org/apis)
 * ⭐ **[MagicBrush](https://www.magicbru.sh/)**, [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - AI Image Transformers
 * ⭐ **[Lexica](https://lexica.art/)**, [PixAI](https://pixai.art/), [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) or [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
-* ⭐ **[SD WebUI](https://github.com/cmdr2/stable-diffusion-ui)** / [2](https://github.com/neonsecret/stable-diffusion-webui) / [3](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [4](https://github.com/Sygil-Dev/sygil-webui) / [5](https://github.com/ddPn08/Lsmith) - Stable Diffusion WebUI / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Colab](https://github.com/pinilpypinilpy/sd-webui-colab-simplified), [2](https://github.com/camenduru/stable-diffusion-webui-colab)
+* ⭐ **[SD WebUI](https://github.com/cmdr2/stable-diffusion-ui)** / [2](https://github.com/neonsecret/stable-diffusion-webui) / [3](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [4](https://github.com/Sygil-Dev/sygil-webui) / [5](https://github.com/ddPn08/Lsmith) / [6](https://github.com/vladmandic/automatic) - Stable Diffusion WebUI / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Colab](https://github.com/pinilpypinilpy/sd-webui-colab-simplified), [2](https://github.com/camenduru/stable-diffusion-webui-colab)
 * ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - List of Stable Diffusion Models
 * ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** - Determine Likely Used Image Prompts
