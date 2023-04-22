@@ -233,6 +233,7 @@
 * [GetFreeCourses](https://getfreecourses.co/) - Courses
 * [TutorialsPlanet](https://tutorialsplanet.net/) - Courses
 * [FreeCoursesOnline](https://freecoursesonline.me/) - Courses
+* [Docspedia](https://docspedia.world/) - Courses / Signup Required
 * [Paid Courses for Free](https://paidcoursesforfree.com/) - Udemy Courses
 * [Online Free Course](https://www.onlinefreecourse.net/) - Udemy Courses
 * [Giga Course](https://gigacourse.com/) - Udemy Courses
