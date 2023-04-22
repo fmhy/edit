@@ -4721,9 +4721,19 @@ Twitch Stream Tracker
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Re-Map Mouse Buttons / Scroll Wheel
 * [SharpKeys](https://github.com/randyrants/sharpkeys/) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts
 * [Mouseable](https://github.com/wirekang/mouseable) - Replace Mouse with Keyboard
+* [Econap](https://www.econap.de/) - Prevent Sleep Mode
+* [MoveMouse](https://sites.google.com/a/windandkite.co.uk/movemouse/home) - Simulate User Activity 
+* [The Fastest Mouse Clicker for Windows](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows), [Alpha Clicker](https://github.com/robiot/AlphaClicker) or [AutoClicker Bookmarklet](https://autoclicker.glitch.me/) - Mouse Auto Clicker
+* [WinMute](https://github.com/lx-s/WinMute/) - Automatically Mute PC
 * [All Black Screen](https://allblackscreen.com/) - Make Screen Black
 * [NVDA](https://www.nvaccess.org/download/) - Screen Reader for Blind Users / [Github](https://github.com/nvaccess/nvda)
 * [How-To Make Microsoft Activation Server](https://mananapr.github.io/microsoft_activation.html) 
+* [Leon](https://getleon.ai/) - AI Assistant
+* [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) or [Sepia](https://sepia-framework.github.io/) - Voice Assistant
+* [Jarvis](https://acwtechnologies.co.uk/software/jarvis-lite) - Voice Commands
+* [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client), [Mycroft](https://mycroft.ai/) or [Home Assistant](https://www.home-assistant.io/) - Home Assistant Client / [GUI](https://github.com/LAB02-Research/HASS.Agent)
+* [CasaOS](https://casaos.io/) - Cloud Home System / [GitHub](https://github.com/IceWhaleTech/CasaOS)
+* [OpenHab](https://www.openhab.org/) - Home Automation / [Setup](https://github.com/openhab/openhabian) / [Desktop](https://github.com/openhab/openhab-windows) / [Mobile](https://github.com/openhab/openhab-android)
 * [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) - BSD Operating Systems
 * [StreamPi](https://stream-pi.com/) or [FreeDeck](https://github.com/FreeYourStream/freedeck-hardware) - ElGato Streamdeck Alternative
 * [Pinn](https://github.com/procount/pinn) - Rasberry Pi OS Installer
@@ -4926,7 +4936,6 @@ Twitch Stream Tracker
 * [MediaFlyout](https://github.com/krlvm/MediaFlyout) - Media Control Taskbar
 * [EarTrumpet](https://eartrumpet.app/), [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Improved Volume Mixer  
 * [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hide Volume Bar
-* [WinMute](https://github.com/lx-s/WinMute/) - Automatically Mute PC
 * [OneLaunch](https://onelaunch.com/) - Customizable Windows Dock
 * [CircleDock](http://circledock.wikidot.com/) - Circular Dock
 * [Menu11](https://github.com/prateekmedia/Menu11) - Windows 11 Style Launcher
@@ -4946,15 +4955,6 @@ Twitch Stream Tracker
 * [BurntToast](https://github.com/Windos/BurntToast) - Create and display Toast Notifications
 * [ElevenClock](https://github.com/marticliment/ElevenClock) - Windows 11 Secondary Monitor Clock
 * [Fliqlo](https://fliqlo.com/screensaver/) or [Flipit](https://github.com/phaselden/FlipIt) - Clock Screensaver
-* [Leon](https://getleon.ai/) - AI Assistant
-* [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) or [Sepia](https://sepia-framework.github.io/) - Voice Assistant
-* [Jarvis](https://acwtechnologies.co.uk/software/jarvis-lite) - Voice Commands
-* [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client), [Mycroft](https://mycroft.ai/) or [Home Assistant](https://www.home-assistant.io/) - Home Assistant Client / [GUI](https://github.com/LAB02-Research/HASS.Agent)
-* [CasaOS](https://casaos.io/) - Cloud Home System / [GitHub](https://github.com/IceWhaleTech/CasaOS)
-* [OpenHab](https://www.openhab.org/) - Home Automation / [Setup](https://github.com/openhab/openhabian) / [Desktop](https://github.com/openhab/openhab-windows) / [Mobile](https://github.com/openhab/openhab-android)
-* [Econap](https://www.econap.de/) - Prevent Sleep Mode
-* [MoveMouse](https://sites.google.com/a/windandkite.co.uk/movemouse/home) - Simulate User Activity 
-* [The Fastest Mouse Clicker for Windows](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows), [Alpha Clicker](https://github.com/robiot/AlphaClicker) or [AutoClicker Bookmarklet](https://autoclicker.glitch.me/) - Mouse Auto Clicker
 * [StrokeIt](https://www.tcbmi.com/strokeit/) or [StrokesPlus](https://www.strokesplus.net/) - Mouse Gestures
 * [VirtualMouse](https://github.com/SY3141/VirtualMouse) - Mouse Camera Gestures
 * [Keytap2](https://keytap2.ggerganov.com/) - Acoustic Keyboard Eavesdropping
@@ -15672,7 +15672,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### Icon Download Sites
 
 * ⭐ **[Awesome Icons](https://github.com/notlmn/awesome-icons)**
-* ⭐ **[SVG Repo](https://www.svgrepo.com/)
+* ⭐ **[SVG Repo](https://www.svgrepo.com/)**
 
 [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources), [Icon Repositories](https://github.com/search?q=icon), [IconFinder](https://www.iconfinder.com/), [IconSeeker](http://www.iconseeker.com/), [Flaticon](https://www.flaticon.com/) / [Downloader](https://flaticon-downloader.beatsnoop.com/) / [2](https://github.com/razoo-choudhary/flaticon-premium), [SimpleIcons](https://simpleicons.org/), [Noun Project](https://thenounproject.com/), [tablericons](https://tablericons.com/), [Gumroad](https://www.google.com/search?q=site%3Agumroad.com+%240+icons), [IconPacks](https://www.iconpacks.net/), [Streamline Icons](https://streamlineicons.com/download/), [game-icons](https://game-icons.net/), [icons8](https://icons8.com/icons), [ikonate](https://ikonate.com/), [iconmonstr](https://iconmonstr.com/), [styled-icons](https://styled-icons.js.org/), [glitter-graphics](http://www.glitter-graphics.com/), [Icon Archive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [HeroIcons](https://heroicons.com/), [fontawesome](https://fontawesome.com/), [css.gg](https://css.gg/), [EvaIcons](https://akveo.github.io/eva-icons/), [publicicons](https://publicicons.lllllllllllllllll.com/), [getbootstrap](https://icons.getbootstrap.com/), [remixicon](https://remixicon.com/), [IconSets](http://www.iconsets.com/), [coolarchive](http://www.coolarchive.com/), [flexiple](https://2.flexiple.com/scale/all-illustrations), [uispace](https://uispace.net/free-icons), [freeicons](http://freeicons.io/), [Quick Feather Icons](https://quick-feather-icons.vercel.app/), [illlustrations](https://illlustrations.co/), [vector.toolxox](https://vector.toolxox.com/), [icon icons](https://icon-icons.com/), [fontawesome icons](https://fontawesome.com/v5.15/icons), [feathericons](https://feathericons.com/), [IconHub](https://iconhub.io/), [icons-for-free](https://icons-for-free.com/), [RealFaviconGenerator](https://realfavicongenerator.net/), [Material Icons](https://material.io/icons/), [TheForgeSmith](https://icons.theforgesmith.com/), [Basic Icons](https://basicons.xyz/), [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [entypo](http://www.entypo.com/), [mapsicon](https://github.com/djaiss/mapsicon), [materialui](https://materialui.co/icons/), [iconoir](https://iconoir.com/), [weloveiconfonts](https://weloveiconfonts.com/), [weather-icons](https://erikflowers.github.io/weather-icons/), [typicons](https://www.s-ings.com/typicons/), [topcoat](https://github.com/topcoat/icons), [toicon](https://www.toicon.com/), [standart](https://standart.io/), [stackicons](http://stackicons.com/), [pathlove](https://pathlove.com/icons/), [primer](https://primer.style/octicons/), [kudakurage](http://kudakurage.com/ligature_symbols/), [ionic](https://ionic.io/ionicons), [iconstore](https://iconstore.co/), [icomoon](https://icomoon.io/), [zurb](https://zurb.com/playground/foundation-icon-fonts-3), [fontello](https://fontello.com/), [devicons](https://vorillaz.github.io/devicons), [grommet](https://icons.grommet.io/), [ant.design](https://ant.design/components/icon/), [icons modulz](https://icons.modulz.app/), [tabler icons](https://tabler-icons.io/), [iconshock](https://www.iconshock.com/freeicons/), [eos-icons](https://eos-icons.com/), [1001freedownloads](https://www.1001freedownloads.com/), [iconsvg](https://iconsvg.xyz/), [polaris](https://polaris-icons.shopify.com/), [ionicons](https://ionicons.com/), [SuperTinyIcons](https://github.com/edent/SuperTinyIcons), [systemuicons](https://systemuicons.com/), [healthicons](https://healthicons.org/), [iconsplace](https://iconsplace.com/), [icofont](https://icofont.com/icons), [Phosphor Icons](https://phosphoricons.com/) / [GitHub](https://github.com/phosphor-icons/phosphor-home), [lineicons](https://lineicons.com/), [Icon Drives](https://github.com/nbats/FMHYedit/blob/main/base64.md#icon-drives), [streamlinehq](https://app.streamlinehq.com/icons), [iconify](https://iconify.design/), [heroicons](https://heroicons.dev/), [fluenticons](https://fluenticons.co/), [iconer](https://iconer.app/), [feather.netlify](https://feather.netlify.app/), [jam-icons](https://jam-icons.com/), [dryicons](https://dryicons.com/), [findicons](https://findicons.com/), [cleanicons](https://cleanicons.xyz/), [cappuccicons](https://cappuccicons.com/)
 
@@ -17423,7 +17423,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Text Adventures
 
-[iFiction](https://www.ifiction.org/) (Index), [IFDB](https://ifdb.org/) (Index), [Ifarchive](https://ifarchive.org/if-archive/games/) (drive), [Pac-Txt](http://www.pactxt.com/), [AI Dungeon](https://play.aidungeon.io/main/landing), [A Dark Room](http://adarkroom.doublespeakgames.com/), [Addventure](http://addventure.com/addventure/), [The Never Ending Quest](https://www.sir-toby.com/extend-a-story/story-1/code/read.php), [The Text Adventure](https://kevan.org/wikitext/), [Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Crank](https://faedine.com/games/crank/b39/), [Umbra](https://umbra.avalon-rpg.com/), [Web Adventures](http://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/), [MUDII](http://www.mudii.co.uk/), [doublespeak](https://doublespeak.chat/)
+[iFiction](https://www.ifiction.org/) (Index), [IFDB](https://ifdb.org/) (Index), [Ifarchive](https://ifarchive.org/if-archive/games/) (drive), [Pac-Txt](http://www.pactxt.com/), [AI Dungeon](https://play.aidungeon.io/main/landing), [A Dark Room](http://adarkroom.doublespeakgames.com/), [Addventure](http://addventure.com/addventure/), [The Never Ending Quest](https://www.sir-toby.com/extend-a-story/story-1/code/read.php), [The Text Adventure](https://kevan.org/wikitext/), [Seedship](https://philome.la/johnayliff/seedship/play/index.html), [TextAventures](http://textadventures.co.uk/), [Crank](https://faedine.com/games/crank/b39/), [Umbra](https://umbra.avalon-rpg.com/), [Web Adventures](http://www.web-adventures.org/), [WrittenRealms](https://writtenrealms.com/), [MUDII](http://www.mudii.co.uk/), [doublespeak](https://doublespeak.chat/), [Genesis](https://www.genesismud.org/)
 
 ***
 
