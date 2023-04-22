@@ -188,6 +188,10 @@
 * [Team V.R releases](https://codec.kiev.ua/releases.html) - Professional Video, Audio & Adobe Software / Plugins
 * [WLSetup-All](https://github.com/nbats/FMHYedit/blob/main/base64.md#wlsetup-all) - Windows Live Essentials 2012 Archive
 * [GenP](https://www.reddit.com/r/GenP) - Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)
+* [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator 
+* [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
+* [Update Notifier](http://cleansofts.org/view/update-notifier.html) - Scan Computer for Software Updates 
+* [Revo Uninstaller](https://www.revouninstaller.com/), [Soft Organizer](https://github.com/nbats/FMHYedit/blob/main/base64.md#soft-organizer), [Geek Uninstaller](https://geekuninstaller.com/), [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) or [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Software Uninstallation Tool
 * [Adobe CC](https://github.com/nbats/FMHYedit/blob/main/base64.md#adobe-cc) - Adobe Creative Cloud Piracy Guide
 
 ***
@@ -203,6 +207,7 @@
 * ⭐ **[OldVersion](http://www.oldversion.com/)** - Old Versions of Software
 * ⭐ **[Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites)** - Software / App Alternatives
 * ⭐ **[Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**, [2](https://gitlab.com/awesome-selfhosted/awesome-selfhosted) - Selfhosted Software Index
+* ⭐ **[Ninite](https://ninite.com/)**, [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI), [CouleursToolbox](https://github.com/couleurm/couleurstoolbox), [0Install](https://0install.net/) / [GitHub](https://github.com/0install/0install) or [Patch My PC](https://patchmypc.com/home-updater) - Install / Update Multiple Programs at Once
 * [Windows Ultimate Collection](https://forum.xda-developers.com/t/windows-ultimate-collection-guides.4507867/)
 * [OlderGeeks](https://oldergeeks.com/)
 * [Softpedia](https://www.softpedia.com/)
@@ -241,6 +246,7 @@
 * [The Vintage Software Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#the-vintage-software-collection) or [SCiZE's Classic Warez Collection](https://scenelist.org/) - Retro Software
 * [Portable Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portable_apps) - Portable Apps for USB / SD / External Storage
 * [BelowAverage](https://belowaverage.org/) - I.T. Software
+* [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) or [Reinstall Preinstalled](https://pastebin.com/5NnBEqnm) / [Guide](https://youtu.be/EQo53hvWy8Q) - Add Microsoft Store to Windows
 
 ***
 
