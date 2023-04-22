@@ -1883,9 +1883,19 @@ Twitch Stream Tracker
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Re-Map Mouse Buttons / Scroll Wheel
 * [SharpKeys](https://github.com/randyrants/sharpkeys/) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts
 * [Mouseable](https://github.com/wirekang/mouseable) - Replace Mouse with Keyboard
+* [Econap](https://www.econap.de/) - Prevent Sleep Mode
+* [MoveMouse](https://sites.google.com/a/windandkite.co.uk/movemouse/home) - Simulate User Activity 
+* [The Fastest Mouse Clicker for Windows](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows), [Alpha Clicker](https://github.com/robiot/AlphaClicker) or [AutoClicker Bookmarklet](https://autoclicker.glitch.me/) - Mouse Auto Clicker
+* [WinMute](https://github.com/lx-s/WinMute/) - Automatically Mute PC
 * [All Black Screen](https://allblackscreen.com/) - Make Screen Black
 * [NVDA](https://www.nvaccess.org/download/) - Screen Reader for Blind Users / [Github](https://github.com/nvaccess/nvda)
 * [How-To Make Microsoft Activation Server](https://mananapr.github.io/microsoft_activation.html) 
+* [Leon](https://getleon.ai/) - AI Assistant
+* [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) or [Sepia](https://sepia-framework.github.io/) - Voice Assistant
+* [Jarvis](https://acwtechnologies.co.uk/software/jarvis-lite) - Voice Commands
+* [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client), [Mycroft](https://mycroft.ai/) or [Home Assistant](https://www.home-assistant.io/) - Home Assistant Client / [GUI](https://github.com/LAB02-Research/HASS.Agent)
+* [CasaOS](https://casaos.io/) - Cloud Home System / [GitHub](https://github.com/IceWhaleTech/CasaOS)
+* [OpenHab](https://www.openhab.org/) - Home Automation / [Setup](https://github.com/openhab/openhabian) / [Desktop](https://github.com/openhab/openhab-windows) / [Mobile](https://github.com/openhab/openhab-android)
 * [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) - BSD Operating Systems
 * [StreamPi](https://stream-pi.com/) or [FreeDeck](https://github.com/FreeYourStream/freedeck-hardware) - ElGato Streamdeck Alternative
 * [Pinn](https://github.com/procount/pinn) - Rasberry Pi OS Installer
@@ -2088,7 +2098,6 @@ Twitch Stream Tracker
 * [MediaFlyout](https://github.com/krlvm/MediaFlyout) - Media Control Taskbar
 * [EarTrumpet](https://eartrumpet.app/), [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Improved Volume Mixer  
 * [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hide Volume Bar
-* [WinMute](https://github.com/lx-s/WinMute/) - Automatically Mute PC
 * [OneLaunch](https://onelaunch.com/) - Customizable Windows Dock
 * [CircleDock](http://circledock.wikidot.com/) - Circular Dock
 * [Menu11](https://github.com/prateekmedia/Menu11) - Windows 11 Style Launcher
@@ -2108,15 +2117,6 @@ Twitch Stream Tracker
 * [BurntToast](https://github.com/Windos/BurntToast) - Create and display Toast Notifications
 * [ElevenClock](https://github.com/marticliment/ElevenClock) - Windows 11 Secondary Monitor Clock
 * [Fliqlo](https://fliqlo.com/screensaver/) or [Flipit](https://github.com/phaselden/FlipIt) - Clock Screensaver
-* [Leon](https://getleon.ai/) - AI Assistant
-* [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) or [Sepia](https://sepia-framework.github.io/) - Voice Assistant
-* [Jarvis](https://acwtechnologies.co.uk/software/jarvis-lite) - Voice Commands
-* [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client), [Mycroft](https://mycroft.ai/) or [Home Assistant](https://www.home-assistant.io/) - Home Assistant Client / [GUI](https://github.com/LAB02-Research/HASS.Agent)
-* [CasaOS](https://casaos.io/) - Cloud Home System / [GitHub](https://github.com/IceWhaleTech/CasaOS)
-* [OpenHab](https://www.openhab.org/) - Home Automation / [Setup](https://github.com/openhab/openhabian) / [Desktop](https://github.com/openhab/openhab-windows) / [Mobile](https://github.com/openhab/openhab-android)
-* [Econap](https://www.econap.de/) - Prevent Sleep Mode
-* [MoveMouse](https://sites.google.com/a/windandkite.co.uk/movemouse/home) - Simulate User Activity 
-* [The Fastest Mouse Clicker for Windows](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows), [Alpha Clicker](https://github.com/robiot/AlphaClicker) or [AutoClicker Bookmarklet](https://autoclicker.glitch.me/) - Mouse Auto Clicker
 * [StrokeIt](https://www.tcbmi.com/strokeit/) or [StrokesPlus](https://www.strokesplus.net/) - Mouse Gestures
 * [VirtualMouse](https://github.com/SY3141/VirtualMouse) - Mouse Camera Gestures
 * [Keytap2](https://keytap2.ggerganov.com/) - Acoustic Keyboard Eavesdropping
