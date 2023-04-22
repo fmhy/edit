@@ -746,6 +746,7 @@
 * [Vocabulary](https://www.vocabulary.com/) - Dictionary
 * [WordSense](https://www.wordsense.eu/) - Dictionary
 * [MacmillanDictionary](https://www.macmillandictionary.com/) - Dictionary
+* [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
 * [Spellorg](http://www.spellorg.com/) - Dictionary / Spell Check
 * [dict](https://github.com/BetaPictoris/dict) - Dictionary CLI
 * [Webopedia](https://www.webopedia.com/) or [TechTerms](https://techterms.com/) - Tech Dictionary
@@ -763,6 +764,7 @@
 * [Conze.pt](https://conze.pt/) - Encyclopedia
 * [InfoPlease](https://www.infoplease.com/) - Encyclopedia
 * [Refdesk](https://www.refdesk.com/factency.html) - Encyclopedias
+* [IEoP](https://iep.utm.edu/fallacy/) - Fallacy Encyclopaedia
 * [Abbreviations](https://www.abbreviations.com/) - Abbreviations
 * [AcronymFinder](https://www.acronymfinder.com/) - Abbreviations / Acronyms
 * [Chat Words Dictionary](https://chatworddictionary.com/) - Chat Abbreviations
@@ -889,6 +891,7 @@
 * [MangaHub](https://mangahub.io/)
 * [MangaList](https://mangalist.com/)
 * [MangaTown](https://www.mangatown.com/)
+* [Colored Manga](https://coloredmanga.com/) - [Discord](https://discord.com/invite/j66bPX4z8M)
 * [MixedManga](https://mixedmanga.com/)
 * [Disaster Scans](https://disasterscans.com/) - [Discord](https://discord.gg/JbcJCpv)
 * [MangaSail](https://www.mangasail.net/)
