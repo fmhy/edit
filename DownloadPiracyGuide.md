@@ -179,9 +179,6 @@
 * [Windows Softwares](https://t.me/Windows_Softwares_Pc_Games), [2](https://t.me/windows_softwares) - Telegram
 * [Rarewares](https://www.rarewares.org/) - Rare Software
 * [Software Recommendation Thread](https://redd.it/plgy48)
-* [FluentStore](https://github.com/yoshiask/FluentStore) - Microsoft Store Frontend
-* [Alt App Installer](https://github.com/m-jishnu/alt-app-installer) - Install Microsoft Store Apps
-* [store.rg](https://store.rg-adguard.net/) - Paid Microsoft Store Link Generator / [Guide](https://rentry.co/paidAppsMsStore)
 * [PLC4Me](https://plc4me.com/) - Automation Software
 * [civileng_soft](https://t.me/civileng_soft) - Civil Engineering Software
 * [Software Heritage](https://www.softwareheritage.org/) - Software Source Code Archive
@@ -246,7 +243,10 @@
 * [The Vintage Software Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#the-vintage-software-collection) or [SCiZE's Classic Warez Collection](https://scenelist.org/) - Retro Software
 * [Portable Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portable_apps) - Portable Apps for USB / SD / External Storage
 * [BelowAverage](https://belowaverage.org/) - I.T. Software
+* [FluentStore](https://github.com/yoshiask/FluentStore) - Microsoft Store Frontend
 * [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) or [Reinstall Preinstalled](https://pastebin.com/5NnBEqnm) / [Guide](https://youtu.be/EQo53hvWy8Q) - Add Microsoft Store to Windows
+* [Alt App Installer](https://github.com/m-jishnu/alt-app-installer) - Install Microsoft Store Apps
+* [store.rg](https://store.rg-adguard.net/) - Paid Microsoft Store Link Generator / [Guide](https://rentry.co/paidAppsMsStore)
 
 ***
 
