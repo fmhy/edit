@@ -290,6 +290,7 @@
 * [manhuagui](https://www.manhuagui.com/) - Manga
 * [manwa](https://manwa.me/) - Manga
 * [Rimanb](https://rimanb.com/) - Manga
+* [xlsmh](https://www.xlsmh.com) - Manga
 * [Laimanhua](https://www.laimanhua.net/) - Manga
 * [Mangabz](https://www.mangabz.com/) - Manga
 * [Ythuiju](https://www.ythuiju.com/) - Manga
