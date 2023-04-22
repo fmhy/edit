@@ -17,6 +17,7 @@
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - Q&A AI
 * ⭐ **[Ora](https://ora.sh/openai/chatgpt)** - GPT-3.5 Based Chatbot
+* [ChatWebpage](https://chatwebpage.com/) - Turn Webpages into Chatbots
 * [BAI](https://chatbot.theb.ai/) - GPT-3.5 Based Chatbot
 * [GPT4All](https://github.com/nomic-ai/gpt4all) - GPT-3.5 Based Chatbot
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
@@ -56,8 +57,8 @@
 * ⭐ **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
 * ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
 * [EmergentMind](https://www.emergentmind.com/) - ChatGPT Forum
-* [Text Gen Web UI](https://github.com/oobabooga/text-generation-webui/) or [TurboGPT.ai](https://turbogpt.ai/) - AI Chat WebUI
-* [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [TurboGPT](https://github.com/mikebpech/turbogpt.ai) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
+* [Text Gen Web UI](https://github.com/oobabooga/text-generation-webui/), [YakGPT](https://yakgpt.vercel.app/) or [TurboGPT.ai](https://turbogpt.ai/) - AI Chat WebUIs
+* [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [TurboGPT](https://github.com/mikebpech/turbogpt.ai), [FreedomGPT](https://freedomgpt.com/) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
 * [Assistant CLI](https://github.com/diciaup/assistant-cli), [ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) or [openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt) - TUIs and CLIs
 * [pyChatGPT](https://github.com/terry3041/pyChatGPT) - Python App
 * [GPTPrompter](https://www.gptprompter.com/), [ChatHub](https://github.com/chathub-dev/chathub) or [ChatGPTBox](https://github.com/josStorer/chatGPTBox) - ChatGPT Browser Extensions
@@ -106,10 +107,12 @@
 * [ToolScoutAI](https://toolscout.ai/) - AI Directory
 * [AI Creator Tools](https://library.phygital.plus/) - AI Directory
 * [topai](https://topai.tools/) - AI Directory
+* [TheresAnAIForThat](https://theresanaiforthat.com/) - AI Directory
 * [AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - AI Directory
 * [AI Center](https://www.aicenter.ai/) - AI Directory
 * [Wiki AI Tools](https://www.wikiaitools.com/) - AI Directory
 * [Cookup AI](https://cookup.ai/) - AI Directory
+* [SuperTools](https://supertools.therundown.ai/) - AI Directory
 * [RunawayML](https://runwayml.com/) - Browser Based AI
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - AI Experiments
 * [OpenCV](https://opencv.org/) - A.I. Vision Library
@@ -248,6 +251,7 @@
 * [Dreambooth](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - AI Image Generator / [WebUI](https://github.com/d8ahazard/sd_dreambooth_extension)
 * [Diffuse The Rest](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest) - AI Image Generator
 * [InvokeAI](https://github.com/invoke-ai/InvokeAI) - AI Image Generator
+* [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Waifu Diffusion](https://github.com/harubaru/waifu-diffusion) - Anime Image Generator
 * [Gligen](https://huggingface.co/spaces/gligen/demo) - Open-Set Grounded Text-to-Image Generation
 * [AI Notebooks](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - AI Image Generation Colab
