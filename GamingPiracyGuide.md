@@ -477,6 +477,7 @@
 * [Clicking Bad](http://clickingbad.nullism.com/) - Clicker Game / Become Walter White 
 * [The Wiki Game](https://www.thewikigame.com/), [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/) or [WikiRacer](https://wikiracer.io/) - Find the Shortest Path between Wiki Articles / [Automation Tool](https://gitlab.com/johanbluecreek/wikiracer)
 * [GeoFS](https://www.geo-fs.com/geofs.php) - Plane Simulator
+* [Ehmorris](https://ehmorris.com/lander/) - Spaceship Landing Game
 * [Money Simulator](https://simulator.money) - Money Simulator
 * [Classic Minecraft](https://classic.minecraft.net/) - Play Classic Minecraft 
 * [Marble Blast Gold Web](https://marbleblast.vani.ga/) - Marble Blast Gold in Browser
@@ -634,6 +635,7 @@
 * [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
 * [Menneske](https://www.menneske.no/eng/) - Number Puzzles
 * [Emozle](https://emozle.com/) - Emoji Puzzle
+* [Sudoku XV](https://keeri.place/sudoku-xv) - Sudoku
 * [Nerdle](https://nerdlegame.com/) - Number Guessing Game
 * [Cinenerdle2](https://www.cinenerdle2.app/) - Movie Puzzle
 * [picture dots](https://www.picturedots.com/) - Make & Play dot Puzzles
