@@ -658,7 +658,7 @@
 * [MachineID](http://www.ionworx.com/machineid.html) - Hardware Identifier
 * [TrackMyBacklink](https://trackmybacklink.com/) - Backlink Tracker
 * [Free Backlink Builder](http://www.freebacklinkbuilder.net/) - Backlink Generator
-* [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites 
+* [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
 * [Bubble](https://bubble.io/), [WeWeb](https://www.weweb.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/), [Symfony](https://symfony.com/) / [CLI](https://github.com/symfony-cli/symfony-cli), [Create-react-app](https://github.com/facebook/create-react-app), [Lowdefy](https://lowdefy.com/) or [Sktch.io](https://sktch.io/) - Web App Creators
 * [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) - Web App UI Creators
 * [OffBase](https://offbase.org/) - Offline Web App Creator
