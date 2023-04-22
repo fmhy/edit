@@ -756,6 +756,7 @@ Simulator
 * [Asian Script Differentiation Guide](https://i.imgur.com/yJPGS97.png)
 * [Omniglot](https://omniglot.com/) - Writing System & Language Encyclopedia
 * [LexCity](http://lexicity.com/) - Ancient Language Learning Tools & Resources
+* [Plover](https://www.openstenoproject.org/plover/) - Stenography Engine / [GitHub](https://github.com/openstenoproject/plover) / [Discord](https://discord.gg/NAzMz7C3wq)
 
 ***
 
