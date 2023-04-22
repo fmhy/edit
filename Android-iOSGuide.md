@@ -818,7 +818,7 @@ https://www.whosaidthat.uk/
 ## ▷ Android Live TV 
 
 * [OLATV](https://github.com/nbats/FMHYedit/blob/main/base64.md#ola-tv)
-* [Live NetTV](https://www.livenettv.bz/) - [Ad Free](https://github.com/nbats/FMHYedit/blob/main/base64.md#no-ads-live-nettv)
+* [Live NetTV](https://www.livenettv.bz/)
 * [SonyLiv (Modded)](https://github.com/nbats/FMHYedit/blob/main/base64.md#sonyliv)
 * [OTTRun](https://www.ottrun.com/), [Tiwee](https://github.com/neffex97/Tiwee) or [Xstream Player](https://play.google.com/store/apps/details?id=com.devcoder.iptvxtreamplayer) - IPTV Players
 
