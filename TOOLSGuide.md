@@ -843,6 +843,7 @@
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - Tools / Apps to Run Flash Programs
 * [Blogging Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_blogging_platforms) - Create / Publish Blogs
 * [Telescope](https://telescope.ac/) - Publishing Platform
+* [Rarebit](https://rarebit.neocities.org/) - Webcomics Template
 * [Hamsket](https://github.com/TheGoddessInari/hamsket), [Ferdi](https://getferdi.com/), [Pidgin](https://www.pidgin.im/), [Beeper](https://www.beeper.com/), [matterbride](https://github.com/42wim/matterbridge), [Ferdium](https://ferdium.org/) or [Franz](https://meetfranz.com/) - Combine Web Apps / Chats
 * [Slapdash](https://slapdash.com/) - Connect Cloud Apps 
 * [Remote Communication](https://libreplanet.org/wiki/Remote_Communication) - Communication Software Index
@@ -1191,6 +1192,7 @@
 * [saveddit](https://github.com/p-ranav/saveddit), [Gert](https://github.com/mcdallas/gert) or [SubredditMediaDownloader](https://github.com/Psycoguana/SubredditMediaDownloader) - Reddit Bulk Media Downloaders
 * [Unmute Reddit](https://greasyfork.org/en/scripts/445557) - Unmute Reddit Videos by Default
 * [Reddit Login Bypass Script](https://pastebin.com/raw/sU5tqwep) - Bypass Reddit Login
+* [Reddit Comber](https://redditcomber.com/) or [Sub Notification](https://redd.it/5mz9z5)  - Reddit Keyword Notifications
 * [Reddit Shadow Ban Info](https://redd.it/ptrm7u) - Check if You've been Shadowbanned
 * [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown) - Learn Reddit Markdown
 * [Busca](https://github.com/afk-mario/busca) - Search / Post Current Tab on Reddit
@@ -1199,7 +1201,7 @@
 * [dappradar](https://reddit.dappradar.com/) - Popular Reddit Post Tracker
 * [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466), [Unedit](https://github.com/DenverCoder1/Unedit-for-Reddit), [Unddit](https://www.unddit.com/) / [2](https://camas.unddit.com/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - View Deleted Reddit Posts
 * [ReSavr](https://www.resavr.com/) or [Unreddit](https://github.com/pauldraper/unreddit) - View Deleted Reddit Comments 
-* [rareddit](https://www.rareddit.com/), [PushShift Reddit](http://files.pushshift.io/reddit/), [Expanse](https://github.com/jc9108/expanse) or [Reddit Archive](http://www.redditarchive.com/) - Reddit Post Archive Tools 
+* [rareddit](https://www.rareddit.com/), [PushShift Reddit](http://files.pushshift.io/reddit/), [Expanse](https://github.com/jc9108/expanse) or [Reddit Archive](http://www.redditarchive.com/) - Reddit Post Archive Tools
 * [Reddit Highlighter](https://greasyfork.org/en/scripts/39312) - Highlights New Posts
 * [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlights New Comments
 * [rComments](https://github.com/iampueroo/rComments) - Explore Comments & Replies without Clicking a Post 
@@ -1229,8 +1231,8 @@
 * [Random Reddit](https://old.reddit.com/random) or [Random Reddit Post](https://randomredditpost.netlify.app/) - Get Random Reddit Threads / Possibly NSFW
 * [Thredd](https://chrome.google.com/webstore/detail/thredd-useful-advice-from/nofhlafikocbioemioehbpadpgjlpeco/related) - Find Reddit Discussions on WebPage you are Browsing
 * [RedditMetis](https://redditmetis.com/), [Reddit-User-Analyser](https://reddit-user-analyser.netlify.app/), [Redective](https://www.redective.com/) or [redditsfinder](https://github.com/Fitzy1293/redditsfinder) - Reddit Profile Information
-* [Reddit Comment Visualizer](https://roadtolarissa.com/javascript/reddit-comment-visualizer/) - Vizualize a Users Comments
-* [Reddit Comment Search](https://www.redditcommentsearch.com/) - Search Reddit Comments 
+* [Reddit Comment Visualizer](https://roadtolarissa.com/javascript/reddit-comment-visualizer/) - Visualize a Users Comments
+* [Reddit Comment Search](https://www.redditcommentsearch.com/) - Search Reddit Comments
 * [Find on Reddit](https://chrome.google.com/webstore/detail/find-on-reddit/jbcdpeekakanklckgooknpbonojhjncm) - Find Discussions of current URL
 * [Reddit Check](https://chrome.google.com/webstore/detail/reddit-check/mllceaiaedaingchlgolnfiibippgkmj) or [RedditRepostSleuth](https://github.com/barrycarey/RedditRepostSleuth) - Check for Reposts
 * [DelayForReddit](https://www.delayforreddit.com/) - Reddit Post Scheduler
@@ -1470,7 +1472,6 @@
 
 ## ▷ YouTube Tools
 
-
 * ⭐ **[Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube)**, [ImprovedTube](http://improvedtube.com/), [Iridium](https://github.com/ParticleCore/Iridium), [Improve YouTube!](https://github.com/code-charity/youtube), [Nova YouTube](https://greasyfork.org/en/scripts/433360) or [Magic Actions for YouTube](https://www.mycinema.pro/) - YouTube Enhancement Addons 
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/) / [Discord](https://discord.com/invite/mYnESY4Md5)
@@ -1575,7 +1576,7 @@
 * [ChatReplay](https://chatreplay.stream/) - YouTube Live Stream Chat Replay
 * [LiveTL](https://kentonishi.github.io/LiveTL/) - YouTube Live Stream Translator
 * [YoutubeLiveChatFlusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - Bullet Chatting (Danmaku) for YouTube Live
-* [TubeTDLR](https://tubetldr.com/) - Summarize YouTube Videos
+* [TubeTDLR](https://tubetldr.com/) or [VideoHighlight](https://videohighlight.com/) - Summarize YouTube Videos
 * [Youtube Summarizer](https://share.streamlit.io/iamknownstranger/ytsummary/main) - YouTube Transcript Summarizers
 * [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/) - YouTube Data Extraction 
 * [Youtube DataViewer](https://citizenevidence.amnestyusa.org/) or [YouTube-MA](https://github.com/CorentinB/YouTube-MA) - YouTube Video Data Viewer 
@@ -1921,6 +1922,7 @@ Twitch Stream Tracker
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
 * [EIZO](https://www.eizo.be/monitor-test/), [Monitor](https://www.monitortests.com/) or [LCDTech](https://lcdtech.info/en/tests/) - Monitor Performance Tests
 * [TestUFO](https://www.testufo.com/) - Monitor Framerate Test
+ * [LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Test
 * [ICM](https://rentry.co/ICM) or [ICC Profiles](https://tftcentral.co.uk/articles/icc_profiles) - ICC Profiles and Monitor Calibration
 * [PSU Calculator](https://www.newegg.com/tools/power-supply-calculator/) or [Power Supply Calculator](https://outervision.com/power-supply-calculator) - Find Compatible Power Supplies
 * [Keyboard Testers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_keyboard_testers) - Test Keyboard Buttons
@@ -1987,6 +1989,7 @@ Twitch Stream Tracker
 * [ClassicServ](https://discord.com/invite/GqFJs2cXDQ) or [SimpleClassicTheme](https://simpleclassictheme.nl/) - Classic Windows Theme
 * [BasicThemer2](https://github.com/Ingan121/BasicThemer2) - Windows 7 Theme
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
+* [Desktops](https://deskto.ps/) - OS Theme Examples
 * [Ricing Guide](http://www.ricing.chloechantelle.com/) - Windows Ricing Guide
 * [Awesome Ricing](https://github.com/fosslife/awesome-ricing) or [Windows-Ricing](https://github.com/winthemers/wiki) - Windows Ricing Tools
 * [LineStep](http://litestep.net/) - Customize Desktop Interface
