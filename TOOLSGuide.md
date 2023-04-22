@@ -2353,11 +2353,11 @@ Twitch Stream Tracker
 
 ## ▷ Terminal / CLI
 
-* ⭐ **[terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)** - Terminal Frameworks, Plugins & Resources 
+* ⭐ **[terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)** - Terminal Frameworks, Plugins & Resources
+* ⭐ **[awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)** or [command-line-tools](https://github.com/learn-anything/command-line-tools) - Command Line Apps
 * [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [ConEmu](https://github.com/Maximus5/ConEmu), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/), [console 2](https://github.com/cbucher/console) or [MobaXterm](https://mobaxterm.mobatek.net/) - Windows Terminals
 * [Tiny Care Terminal](https://github.com/notwaldorf/tiny-care-terminal) - Terminal Dashboard That Cares
 * [Gradient Terminal](https://github.com/aurora-0025/gradient-terminal) - Display Terminal Output as Gradient
-* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) or [command-line-tools](https://github.com/learn-anything/command-line-tools) - Command Line Apps
 * [ss64](https://ss64.com/) - Command Line Reference Index
 * [Command Challenge](https://cmdchallenge.com/) - Command Line Learning
 * [ZimTools](https://zimtools.xyz/) - Command Line Tool Configs
