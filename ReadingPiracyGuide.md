@@ -746,7 +746,6 @@
 * [Vocabulary](https://www.vocabulary.com/) - Dictionary
 * [WordSense](https://www.wordsense.eu/) - Dictionary
 * [MacmillanDictionary](https://www.macmillandictionary.com/) - Dictionary
-* [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
 * [Spellorg](http://www.spellorg.com/) - Dictionary / Spell Check
 * [dict](https://github.com/BetaPictoris/dict) - Dictionary CLI
 * [Webopedia](https://www.webopedia.com/) or [TechTerms](https://techterms.com/) - Tech Dictionary
@@ -764,7 +763,6 @@
 * [Conze.pt](https://conze.pt/) - Encyclopedia
 * [InfoPlease](https://www.infoplease.com/) - Encyclopedia
 * [Refdesk](https://www.refdesk.com/factency.html) - Encyclopedias
-* [IEoP](https://iep.utm.edu/fallacy/) - Fallacy Encyclopaedia
 * [Abbreviations](https://www.abbreviations.com/) - Abbreviations
 * [AcronymFinder](https://www.acronymfinder.com/) - Abbreviations / Acronyms
 * [Chat Words Dictionary](https://chatworddictionary.com/) - Chat Abbreviations
@@ -781,7 +779,8 @@
 * [DoesNotTranslate](https://doesnottranslate.com/) - Words with No Translation
 * [Tip of my Tounge](https://chir.ag/projects/tip-of-my-tongue/) - Find Words you Can't Remember
 * [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html), [IEP](https://iep.utm.edu/) or [nLab](https://ncatlab.org/) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
-* [Focal](http://www.focal.ie/) - Irish Word Dictionary
+* [Focal](http://www.focal.ie/) - Irish Dictionary
+* [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
 * [TheIdioms](https://www.theidioms.com/) - Idiom Dictionary
 * [Lexipedia](http://www.lexipedia.com/) or [WordWeb](https://wordwebs.app/) - Word Connections
 * [RhymeZones](https://www.rhymezone.com/), [Rhymer](https://rhymer.com/) or [RhymeIt](https://www.rhymit.com/) - Rhyme Dictionary
@@ -790,6 +789,7 @@
 * [TagDef](https://tagdef.com/en/) - Social Media Tag Dictionary
 * [KnowYourMeme](https://knowyourmeme.com/) - Meme Database
 * [Forvo](https://forvo.com/) or [HowJSay](https://howjsay.com/) - Pronunciation Dictionary
+* [IEoP](https://iep.utm.edu/fallacy/) - Fallacy Encyclopaedia
 * [OEIS](https://oeis.org/) - Encyclopedia of Integer Sequences
 * [Time Traveler](https://www.merriam-webster.com/time-traveler) - See when a word was first used in print
 * [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
@@ -891,7 +891,6 @@
 * [MangaHub](https://mangahub.io/)
 * [MangaList](https://mangalist.com/)
 * [MangaTown](https://www.mangatown.com/)
-* [Colored Manga](https://coloredmanga.com/) - [Discord](https://discord.com/invite/j66bPX4z8M)
 * [MixedManga](https://mixedmanga.com/)
 * [Disaster Scans](https://disasterscans.com/) - [Discord](https://discord.gg/JbcJCpv)
 * [MangaSail](https://www.mangasail.net/)
@@ -907,6 +906,7 @@
 * [MangaOwl](https://mangaowl.to/)
 * [MangaReader](https://mangareader.cc/)
 * [ReadMangaFree](https://readmangafree.net/)
+* [Colored Manga](https://coloredmanga.com/) - [Discord](https://discord.com/invite/j66bPX4z8M)
 * [Mangarolls](https://mangarolls.com/)
 * [Mangabtt](https://mangabtt.com/)
 * [Murimscan](https://murimscan.run/)
