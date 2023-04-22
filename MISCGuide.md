@@ -225,6 +225,7 @@
 * ⭐ **[Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_virtual_tours)** - Virtual Tours / Travel Simulators
 * ⭐ **[Live Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)** - Watch Live Webcams
 * ⭐ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)** - Chat with AI
+* ⭐ **[Phallological Museum](https://www.phallus.is/)** - Worlds only genuine penis museum  
 * [LetMeGoogleThat](https://letmegooglethat.com/) or [GIYBF](http://giybf.com/) - Remind People that Google Exists
 * [The GIF Pronunciation Page](http://www.olsenhome.com/gif/) - How to Pronouce "GIF"
 * [GIFs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_gif_tools) - View / Download GIFs
