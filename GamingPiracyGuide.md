@@ -724,8 +724,8 @@
 * [Switch Homebrew Discord Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_homebrew_discord_servers)
 * [Homebrew Gang](https://thehbg.shop/main.html) - Switch Homebrew Community
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/) - Switch Homebrew Subreddit
-* [Switch Guide](https://nh-server.github.io/switch-guide/), [Switch.Homebrew](https://switch.homebrew.guide/) or [Switch Hacking Is Easy](https://rentry.org/SwitchHackingIsEasy) - Switch Homebrew Guide
-* [Tinfoil](https://tinfoil.io/) - Switch Title Manager / File Browser 
+* [Switch Guide](https://nh-server.github.io/switch-guide/), [Switch Hacking Is Easy](https://rentry.org/SwitchHackingIsEasy) or [Switch.Homebrew](https://switch.homebrew.guide/) - Switch Homebrew Guide
+* [Tinfoil](https://tinfoil.io/) - Switch Title Manager / File Browser
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Multiplayer Switch Servers
 * [Tinfoil Shops](https://redd.it/10lqkmh) - Tinfoil Shop Status Megathread
 * [NSP Forwarder](https://nsp-forwarder.n8.io/) - Switch NSP Forwarder
