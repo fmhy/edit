@@ -50,7 +50,8 @@
 * [primitive.js](https://ondras.github.io/primitive.js/) or [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes 
 * [PBNify](https://pbnify.com/) - Paint by Number Tool
 * [Paint with Music](https://artsandculture.google.com/experiment/paint-with-music/YAGuJyDB-XbbWg) - Paint with Sound
-* [Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://www.magiceraser.io/), [Remover](https://remover.zmo.ai/), [Cleanup.pictures](https://cleanup.pictures/) - Remove Objects from Photos 
+* [Segment Anything](https://segment-anything.com/) - Segment Objects in Photos
+* [Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://magicstudio.com/magiceraser), [Remover](https://remover.zmo.ai/), [Cleanup.pictures](https://cleanup.pictures/) - Remove Objects from Photos
 * [InsertFace](https://insertface.com/) - Selfie Frames, Backgrounds & Effects
 * [Frame360](https://frame360.net/) - Image Frames
 * [Supershots](https://superblog.ai/supershots/) - Add Backgrounds to Images
@@ -92,11 +93,11 @@
 
 ## ▷ Restoration
 
+* ⭐ **[Colorize Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_colorization)** - Image Colorization Tools
 * [FenoPhoto](https://www.fenophoto.com/) or [PhotoRestore](https://www.photorestore.io/) - Image Restoration Tools
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) / [2](https://replicate.com/nightmareai/real-esrgan) - Image Restoration Algorithms
-* [Colorize Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_colorization) - Image Colorization Tools
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime Image Colorization
-* [GPEN-Colab](https://github.com/bycloudai/GPEN-colab), [Photo Face Restorer](https://www.restorephotos.io/) or [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Restoration / Colorization Tool
+* [Replicate](https://replicate.com/sczhou/codeformer), [GPEN-Colab](https://github.com/bycloudai/GPEN-colab), [Photo Face Restorer](https://www.restorephotos.io/) or [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Restoration / Colorization Tool
 * [Color-Dragon](https://www.color-dragon.tk/) - Add more Color to Images
 * [style2paints](https://github.com/lllyasviel/style2paints) or [PaintsChainer](https://github.com/pfnet/PaintsChainer) - Lineart Colorization Tool
 * [AdverseCleaner](https://github.com/lllyasviel/AdverseCleaner) - Image Noise Reduction
@@ -235,6 +236,7 @@
 * [Memegine](https://memegine.com/) - Meme Search Engine
 * [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh) - Meme Templates
 * [Wojak Paradise](https://wojakparadise.net/) - Wojak Gallery
+* [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Frinkiac](https://frinkiac.com/) - Simpsons Meme Generator 
 * [Morbotron](https://morbotron.com/) - Futurama Meme Generator 
 * [BreakYourOwnNews](https://www.breakyourownnews.com/) - Breaking News Meme Generator
@@ -291,6 +293,7 @@
 * [Pixelart 3D Painting](https://lampysprites.itch.io/pribambase) - 3D Pixel Art Painting
 * [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) , [Pixel Sprite](https://deep-fold.itch.io/pixel-sprite-generator) or [Creature Mixer](https://kenney.itch.io/creature-mixer) - Sprite Generator
 * [Pixelicious](https://www.pixelicious.xyz/) - Image to Pixel Art Converter
+* [Pal](https://pal.constraint.systems/) - Apply 8-bit Terminal Color Palettes to Images
 * [Nasu](https://hundredrabbits.itch.io/nasu) - Spritesheet Editor
 * [Curve](https://iseenbaas.nl/curve/) - Create Pixelated Curve
 * [Petmate](https://nurpax.github.io/petmate/) - C64 PETSCII Image Editor
@@ -387,6 +390,7 @@
 * [SculptGL](https://stephaneginier.com/sculptgl/) - 3D Sculpting
 * [ModelViewer](https://modelviewer.dev/) - 3D Model Viewer
 * [Perspective Grid](https://www.reubenlara.com/perspectivegrid/) - 3D Perspective Tool
+* [Skybox](https://skybox.blockadelabs.com/) - AI Generated 3D Environments 
 * [Assemblr](https://www.assemblrworld.com/) - Augmented Reality Image Creator
 * [MeshLab](https://www.meshlab.net/) - 3D Mesh Processing / [GitHub](https://github.com/cnr-isti-vclab/meshlab)
 * [CadHub](https://cadhub.xyz/) - Community Hub for CAD Projects
