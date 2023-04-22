@@ -1528,3 +1528,6 @@ pass: paluch
 
 `aHR0cHM6Ly9wYXN0ZWJpbi5jb20vVEdkUlpjV0o=`
 
+***
+#### Krisp
+`aHR0cHM6Ly93d3cuZmlsZWNyeXB0LmNjL0NvbnRhaW5lci81QjY2ODcwQURFLmh0bWw=`
