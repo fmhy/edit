@@ -126,6 +126,7 @@
 * [WebGL and GLSL Workshop](https://mattdesl.github.io/workshop-webgl-glsl/) - Interactive WebGL / GLSL Tutorial
 * [LearningSEO](https://learningseo.io/) - SEO Guides
 
+
 ***
 
 ## ▷ Game Development
@@ -556,7 +557,7 @@
 * [Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates) or [Undraw](https://evie.undraw.co/)  - Site Templates
 * [Templatemo](https://www.templatemo.com/) or [Tooplate](https://www.tooplate.com/) - HTML Site Templates
 * [HTML5 Temp](https://rentry.co/HTML5Temp) - HTML5 Templates & Themes
-* [CSS Bed](https://www.cssbed.com/), [beercss](https://www.beercss.com/) / [GitHub](https://github.com/beercss/beercss) or [free-css-templates](https://www.free-css.com/free-css-templates) - CSS Themes / Templates
+* [CSS Bed](https://www.cssbed.com/), [beercss](https://www.beercss.com/) / [GitHub](https://github.com/beercss/beercss), [free-css-templates](https://www.free-css.com/free-css-templates) or [Repth Themes](https://repth.neocities.org/theme) - CSS Themes / Templates
 * [Hydrogen](https://github.com/Shopify/hydrogen) or [Fullstack Next.js E-commerce](https://github.com/olafsulich/fullstack-nextjs-ecommerce) - Online Store Templates
 * [MicroCopy](https://www.microcopy.me) - Copy Common Website Text
 * [VidJet](https://www.vidjet.io/) - Publish Videos to Online Stores
@@ -720,7 +721,6 @@
 * [NASM](https://www.nasm.us/) - Program Assembler
 * [Radicle](https://radicle.xyz/) - P2P Software Development
 * [Pakkly](https://pakkly.com/) - Desktop App Deployment
-* [Nomad](https://www.nomadproject.io/) - App Deployment Automation / [GitHub](https://github.com/hashicorp/nomad)
 * [Dotnet Content Creators](https://github.com/matthiasjost/dotnet-content-creators) - .NET Content Creators Index
 * [Dotnet Releaser](https://github.com/xoofx/dotnet-releaser) - Automate Release of .NET Applications
 * [Cron AI](https://cron-ai.vercel.app/) - Words to Cron Expression
