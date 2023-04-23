@@ -1023,9 +1023,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * https://new1.gdtot.cfd/
 * https://appdrive.info/
 * https://driveapp.in/
-* https://vickyshare.com/
 * https://sharer.pw/
-* https://drivebuzz.icu/
 * https://katdrive.net/
 * https://yushare.my.id/
 * https://yamidrive.com/
@@ -1036,12 +1034,10 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### Git Projects
 
 * [GitHub Rankings](https://evanli.github.io/Github-Ranking/) - Git Project Rankings
-* [/r/coolgitlabprojects](https://reddit.com/r/coolgitlabprojects) - GitLab Project Indexes
-* [git:logs](https://www.gitlogs.com/), [Awesome Made by Russians](https://github.com/igoradamenko/awesome-made-by-russians), [Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians), [awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps), [opensauced](https://hot.opensauced.pizza/), [Awesome Stars](https://githubmemory.com/repo/abhijithvijayan/awesome-stars), [LibHunt](https://www.libhunt.com/), [RepoHunt](https://repo-hunt.signalnerve.workers.dev/), [freesoft](https://freesoft.dev/), [/r/coolgithubprojects](https://reddit.com/r/coolgithubprojects) - Github Project Indexes
+* [git:logs](https://www.gitlogs.com/), [Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians), [awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps), [opensauced](https://hot.opensauced.pizza/), [Awesome Stars](https://githubmemory.com/repo/abhijithvijayan/awesome-stars), [LibHunt](https://www.libhunt.com/), [RepoHunt](https://repo-hunt.signalnerve.workers.dev/), [freesoft](https://freesoft.dev/)
 * [Active Github Forks](https://techgaun.github.io/active-forks/) - List of active github forks
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) - View a Repositories Forks
 * [Git Search Engine](https://zzollo.co/) or [GitHub Memory](https://githubmemory.com/) - Search GitHub, GitLab etc.
-* [OSAlternative](http://www.osalternative.com/) - Git Project Search
 
 ***
 
@@ -1057,10 +1053,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * https://groups.google.com/g/hkteamdrive1group
 * https://groups.google.com/g/torrent-drive
 * https://groups.google.com/forum/#!forum/sammytorrents
-* https://groups.google.com/forum/embed/?place=forum/seedboxsl
 * https://groups.google.com/g/team-drive99
 * https://groups.google.com/g/roshanstgbot
-* https://groups.google.com/g/zanime
 * https://groups.google.com/g/rdrivelinks
 * https://groups.google.com/g/mirrordrive-index
 * https://groups.google.com/d/forum/torrentleech-gdrive
@@ -1182,19 +1176,24 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Image to Text
 
-[Capture2Text](http://capture2text.sourceforge.net/), [Text Grab](https://github.com/TheJoeFin/Text-Grab), [TextShot](https://github.com/ianzhao05/textshot), [OnlineOCR](https://onlineocr.org/), [IMG2TXT](http://img2txt.com/), [NewOCR](https://www.newocr.com/), [OCR.SPACE](https://ocr.space/), [Project Naptha](https://projectnaptha.com/), [Extract text from image](https://brandfolder.com/workbench/extract-text-from-image), [2ocr](https://2ocr.com/), [free-online-ocr](http://www.free-online-ocr.com/), [i2ocr](https://www.i2ocr.com/), [ImageToText](https://www.imagetotext.info/), [OnlineOCR](https://www.onlineocr.net/), [pomodoro](https://pomodoro.semlab.io/), [ImageScanOCR](https://github.com/ttop32/ImageScanOCR)
+⭐ **[Capture2Text](http://capture2text.sourceforge.net/)**
+
+[Text Grab](https://github.com/TheJoeFin/Text-Grab), [TextShot](https://github.com/ianzhao05/textshot), [OnlineOCR](https://onlineocr.org/), [IMG2TXT](http://img2txt.com/), [NewOCR](https://www.newocr.com/), [OCR.SPACE](https://ocr.space/), [Project Naptha](https://projectnaptha.com/), [Extract text from image](https://brandfolder.com/workbench/extract-text-from-image), [2ocr](https://2ocr.com/), [free-online-ocr](http://www.free-online-ocr.com/), [i2ocr](https://www.i2ocr.com/), [ImageToText](https://www.imagetotext.info/), [OnlineOCR](https://www.onlineocr.net/), [pomodoro](https://pomodoro.semlab.io/), [ImageScanOCR](https://github.com/ttop32/ImageScanOCR)
 
 ***
 
 #### Image Viewers
 
 ⭐ **[IrfanView](https://www.irfanview.com/)**
+⭐ **[JPEGView](https://github.com/sylikc/jpegview)**
 
-[qimgv](https://github.com/easymodo/qimgv), [XnView](https://www.xnview.com/en/), [nomacs](https://nomacs.org/), [ImageGlass](https://imageglass.org/), [PhotoQt](https://github.com/luspi/photoqt), [Win 7 Photos](https://mega.nz/file/94AwRBiZ#ySswvrH88PlmNrLcbmrIZROWVcmLum-N0tAZS31l72U), [PicView](https://github.com/Ruben2776/PicView), [JPEGView](https://github.com/sylikc/jpegview), [Image Eye](https://www.fmjsoft.com/imageeye.html), [qView](https://interversehq.com/qview/), [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/) / [Git](https://github.com/ModuleArt/quick-picture-viewer), [Fragment](https://www.fragmentapp.info/), [qView](https://github.com/jurplel/qView), [HoneyView](https://en.bandisoft.com/honeyview/), [Visum](https://apps.microsoft.com/store/detail/visum-photo-viewer/9N1X3Z50BLM8)
+[qimgv](https://github.com/easymodo/qimgv), [nomacs](https://nomacs.org/), [ImageGlass](https://imageglass.org/), [PhotoQt](https://github.com/luspi/photoqt), [PicView](https://github.com/Ruben2776/PicView), [Image Eye](https://www.fmjsoft.com/imageeye.html), [qView](https://interversehq.com/qview/), [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/) / [Git](https://github.com/ModuleArt/quick-picture-viewer), [Fragment](https://www.fragmentapp.info/), [qView](https://github.com/jurplel/qView), [HoneyView](https://en.bandisoft.com/honeyview/), [Visum](https://apps.microsoft.com/store/detail/visum-photo-viewer/9N1X3Z50BLM8)
 
 **Image Galleries / Optimization**
 
-[Sirv](https://sirv.com/), [CloudImage](https://www.cloudimage.io/), [filestack](https://www.filestack.com/), [imagga](https://imagga.com/), [kraken](https://kraken.io/), [cloudinary](https://cloudinary.com/), [tiny.pictures](https://tiny.pictures/), [zara4](https://zara4.com/), [RawTherapee](https://www.rawtherapee.com/), [Digikam](https://www.digikam.org/), [picturama](https://picturama.github.io/), [Piwigo](https://piwigo.org/), [Photonix](https://photonix.org/), [PiGallery2](https://bpatrik.github.io/pigallery2/), [Immich](https://github.com/immich-app/immich), [narrative](https://narrative.so/), [aftershoot](https://aftershoot.com/), [ImageWorsener](https://entropymine.com/imageworsener/)
+⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
+
+[CloudImage](https://www.cloudimage.io/), [imagga](https://imagga.com/), [kraken](https://kraken.io/), [cloudinary](https://cloudinary.com/), [tiny.pictures](https://tiny.pictures/), [zara4](https://zara4.com/), [RawTherapee](https://www.rawtherapee.com/), [Digikam](https://www.digikam.org/), [picturama](https://picturama.github.io/), [Piwigo](https://piwigo.org/), [Photonix](https://photonix.org/), [PiGallery2](https://bpatrik.github.io/pigallery2/), [Immich](https://github.com/immich-app/immich), [narrative](https://narrative.so/), [ImageWorsener](https://entropymine.com/imageworsener/)
 
 ***
 
@@ -1322,15 +1321,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)**
 * [ArchiveOS](https://archiveos.org/)
 * [LinuxTracker](https://linuxtracker.org/)
-* [tohoku](http://www.cs.tohoku-gakuin.ac.jp/pub/Linux/)
 * [OpenSourceFeed](https://www.opensourcefeed.org/)
-* [minerswin](http://root3.minerswin.de/ISO/)
 * [Pkgs](https://pkgs.org/)
-* [Vanilla OS](https://vanillaos.org/)
 * [distro.moe](https://distro.moe/) - Find Random Distros
-* [Apodio](http://www.apodio.org/doku.php) or [io GNU/Linux](http://io.gnu.linux.free.fr/) - Distro w/ Preinstalled Apps
-* [OldSchoolOS](https://www.oldschoolos.com/) - Old Distro Archive
-* [susOS](https://github.com/Villagerjj/sus-os) - Among Us Themed Distro
 * [Linux Live Kit](https://www.linux-live.org/) - Live Distro Creator
 * [DotShare](http://dotshare.it/) - Distro Config Index
 
