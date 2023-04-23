@@ -593,6 +593,7 @@
 * [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess w/o Turns
 * [Real Board](https://github.com/karayaman/lichess-with-a-real-board) - Play Lichess w/ Real Chess Board
+* [Awesome Chess](https://github.com/hkirat/awesome-chess) - Chess Resource Index
 * [AllBad.Cards](https://bad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - Cards Against Humanity Online 
 * [Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards) - Card Games Index
 * [WorldOfCardGames](https://worldofcardgames.com/), [247Games](https://www.247games.com/), [CardzMania](https://www.cardzmania.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Card Games
@@ -615,6 +616,7 @@
 * ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)**, [USAToday](https://games.usatoday.com/category/word), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)
 * ⭐ **[KillerCrossword](https://killercrossword.com/)** - No Clue Crosswords
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
+* [MakePrintPlay](https://makeprintplay.com/) or [XWords](https://www.xwords-generator.de/en) - Crossword Puzzle Creators
 * [eWordChallenge](https://www.ewordchallenge.net/) - Boggle
 * [ChessGuessr](https://www.chessguessr.com/) - Chess Style Wordle
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
@@ -641,6 +643,7 @@
 * [picture dots](https://www.picturedots.com/) - Make & Play dot Puzzles
 * [babble.xyz](https://babbl.xyz/) - Infinite Scrabble
 * [MoreWords](https://www.morewords.com/) or [WordHub](https://wordhub.com/) - Scrabble
+* [MakeAWordSearch](http://www.makeawordsearch.net/) - Word Search Creator
 * [RobinWords](https://www.robinwords.com/) - Word Ladder Game
 * [Divergent Association Task](https://www.datcreativity.com/task) - Unrelated Word Game
 * [Oh, My Dots!](https://www.ohmydots.com/) - Connect the Dots Game
