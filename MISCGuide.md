@@ -501,7 +501,7 @@
 * [DeathDate.info](http://deathdate.info/), [DeathDate.org](https://www.deathdate.org/), [Fortunteller Deathdate](https://www.free-fortuneteller.com/deathdate), [DeathClock.com](http://deathclock.com/) or [Death-Clock](https://www.death-clock.org/) - Calculate Your Day of *DEATH* (how fun!)
 * [Three.js](https://threejs.org/) - JavaScript 3D library 
 * [CSS Puns](https://saijogeorge.com/css-puns/) - CSS Puns
-* [Phallological Museum](https://www.phallus.is/)** - Phallological Museum
+* [Phallological Museum](https://www.phallus.is/) - Phallological Museum
 * [Pokémon Fossil Museum](https://my.matterport.com/show/?m=P9WCbyCBGBM) - Explore Pokémon Fossil Museum
 * [Pokémon Fusion](https://pokemon.alexonsager.net/) - Fuse Pokémon
 * [Poke Palettes](https://pokepalettes.com/) - Pokémon Color Palettes 
