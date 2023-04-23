@@ -899,7 +899,6 @@
 * [agoodmovietowatch](https://agoodmovietowatch.com/) - Movie Recommendations
 * [/r/MovieSuggestions](https://www.reddit.com/r/MovieSuggestions/) - Movie Recommendations
 * [MovieSync](https://movie-sync-app.web.app/) - Movie Recommendations 
-* [Match-a-Movie](https://match-a-movie.com/) - Swipe Movies like on Tinder 
 * [CouchMoney](https://couchmoney.tv/) - Movie Recommendations for Trakt 
 * [Cinetrii](https://cinetrii.com/) - Discover Movies with Similar Themes
 * [DateNightMovies](https://datenightmovies.com/) - Get Recommendations Based on 2 Movies
