@@ -60,7 +60,7 @@
 * ⭐ **[Ecosia](https://www.ecosia.org/)** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
 * [You](https://you.com/) - [AI Search](https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat)
 * [MWMBL](https://mwmbl.org/) - [GitHub](https://github.com/mwmbl/mwmbl)
-* [Presearch](https://presearch.org/) - [GitHub](https://github.com/presearchofficial)
+* [Presearch](https://presearch.com/) - [GitHub](https://github.com/presearchofficial)
 * [Fagan Finder](https://www.faganfinder.com/) - Index
 * [DirectSearch.Net](http://www.directsearch.net/) - Index
 * [Search Engine Colossus](https://www.searchenginecolossus.com/) - Index
@@ -101,7 +101,7 @@
 * ⭐ **[Harmonoid](https://harmonoid.com/)**
 * ⭐ **[Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music)**
 
-[VLC for Android](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://f-droid.org/packages/is.xyz.mpv), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://vanilla-music.github.io/), [BlackHole](https://github.com/Sangwan5688/BlackHole), [Metro](https://f-droid.org/en/packages/io.github.muntashirakon.Music/), [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer), [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/), [Apollo Music Player](https://github.com/nuclearfog/Apollo-Music), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx), [ExoPlayer](https://github.com/google/ExoPlayer), [SoundSpice](https://github.com/farshed/SoundSpice-mobile), [mucke](https://github.com/moritz-weber/mucke), [Phonograph Plus](https://github.com/chr56/Phonograph_Plus), [Musicmax](https://github.com/MaximillianLeonov/Musicmax), [Tear Music](https://github.com/tearone/tearmusic), [Pulse Music](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse), [Zen Music Player](https://github.com/pakka-papad/Zen)
+[VLC for Android](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://github.com/mpv-android/mpv-android), [Foobar2000](https://www.foobar2000.org/apk), [Vanilla Music](https://vanilla-music.github.io/), [BlackHole](https://github.com/Sangwan5688/BlackHole), [Metro](https://f-droid.org/en/packages/io.github.muntashirakon.Music/), [Retro Music Player](https://github.com/RetroMusicPlayer/RetroMusicPlayer), [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/), [Apollo Music Player](https://github.com/nuclearfog/Apollo-Music), [Music Player GO](https://github.com/enricocid/Music-Player-GO), [Nyx Music Player](https://play.google.com/store/apps/details?id=com.awedea.nyx), [ExoPlayer](https://github.com/google/ExoPlayer), [SoundSpice](https://github.com/farshed/SoundSpice-mobile), [mucke](https://github.com/moritz-weber/mucke), [Phonograph Plus](https://github.com/chr56/Phonograph_Plus), [Musicmax](https://github.com/TheMusicmax/Musicmax), [Tear Music](https://github.com/tearone/tearmusic), [Pulse Music](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse), [Zen Music Player](https://github.com/pakka-papad/Zen)
 
 ***
 
@@ -126,7 +126,7 @@
 
 * ⭐ **[Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)** - [Mod](https://github.com/nbats/FMHYedit/blob/main/base64.md#notewise)
 
-[Markor](https://fossdroid.com/a/markor.html), [sNotz](https://sunilpaulmathew.github.io/sNotz/), [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted), [ColorNote](https://www.colornote.com/), [Notion](https://www.notion.so/), [Joplin](https://joplinapp.org/), [Standard Notes](https://standardnotes.org/), [Notebook](https://www.zoho.com/notebook/), [UpNote](https://play.google.com/store/apps/details?id=com.getupnote.android), [OneNote](https://support.microsoft.com/en-us/office/microsoft-onenote-for-android-46b4b49d-2bef-4746-9c30-6abb5e20b688), [Leaflet](https://github.com/PotatoProject/Leaflet), [neutriNote](https://github.com/appml/neutrinote), [Writer Plus](https://play.google.com/store/apps/details?id=co.easy4u.writer), [Orgzly](http://www.orgzly.com/), [Justnote](https://justnote.cc/), [Quillnote](https://play.google.com/store/apps/details?id=org.qosp.notes), [Note to Self](https://play.google.com/store/apps/details?id=com.makenotetoself), [Noto](https://github.com/alialbaali/Noto), [Nabu](https://github.com/jpkhawam/Nabu), [Obsidian](https://obsidian.md/mobile)
+[Markor](https://fossdroid.com/a/markor.html), [sNotz](https://sunilpaulmathew.github.io/sNotz/), [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted), [ColorNote](https://www.colornote.com/), [Notion](https://www.notion.so/), [Joplin](https://joplinapp.org/), [Standard Notes](https://standardnotes.com/), [Notebook](https://www.zoho.com/notebook/), [UpNote](https://play.google.com/store/apps/details?id=com.getupnote.android), [OneNote](https://support.microsoft.com/en-us/office/microsoft-onenote-for-android-46b4b49d-2bef-4746-9c30-6abb5e20b688), [Leaflet](https://github.com/PotatoProject/Leaflet), [neutriNote](https://github.com/appml/neutrinote), [Writer Plus](https://play.google.com/store/apps/details?id=co.easy4u.writer), [Orgzly](http://www.orgzly.com/), [Justnote](https://justnote.cc/), [Quillnote](https://play.google.com/store/apps/details?id=org.qosp.notes), [Note to Self](https://play.google.com/store/apps/details?id=com.makenotetoself), [Noto](https://github.com/alialbaali/Noto), [Nabu](https://github.com/jpkhawam/Nabu), [Obsidian](https://obsidian.md/mobile)
 
 ***
 
@@ -136,7 +136,7 @@
 * ⭐ **[OpenAndroidInstaller](https://openandroidinstaller.org/)** - Install Android Operating Systems
 * ⭐ **[LineageOS](https://www.lineageos.org/)**
 
-[ProtonAOSP](https://protonaosp.org/), [Anarchy-Droid](https://anarchy-droid.com/), [Replicant](https://www.replicant.us/), [crDroid](https://crdroid.net/), [Havoc-OS](https://sourceforge.net/projects/havoc-os/), [BlissRoms](https://downloads.blissroms.org/), [Paranoid Android](https://paranoidandroid.co/), [PixelExperience](https://download.pixelexperience.org/), [Evolution X](https://evolution-x.org/), [e Foundation](https://e.foundation/), [BeyondROM](https://t.me/BeyondROM_S20)
+[ProtonAOSP](https://protonaosp.org/), [Anarchy-Droid](https://anarchy-droid.com/), [Replicant](https://www.replicant.us/), [crDroid](https://crdroid.net/), [Havoc-OS](https://sourceforge.net/projects/havoc-os/), [BlissRoms](https://downloads.blissroms.org/), [Paranoid Android](https://paranoidandroid.co/), [PixelExperience](https://get.pixelexperience.org/), [Evolution X](https://evolution-x.org/), [e Foundation](https://e.foundation/), [BeyondROM](https://t.me/BeyondROM_S20)
 
 ***
 
@@ -148,8 +148,8 @@
 
 #### Anime Download Apps
 
-* ⭐ **[HakuNeko](https://hakuneko.download/), [2](https://github.com/manga-download/hakuneko)**
-* [Anime-dl](https://github.com/gabelluardo/anime-dl), [2](https://github.com/vrienstudios/anime-dl)
+* ⭐ **[HakuNeko](https://hakuneko.download/), [Github](https://github.com/manga-download/hakuneko)**
+* [Anime-dl](https://github.com/gabelluardo/anime-dl), [Github](https://github.com/vrienstudios/anime-dl)
 
 [adl](https://github.com/RaitaroH/adl), [anigrab](https://github.com/ngomile/anigrab), [animdl](https://github.com/justfoolingaround/animdl)
 
@@ -178,7 +178,7 @@
 * ⭐ **[Smart Launcher](https://www.smartlauncher.net/)** - [Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#smartlauncher-pro)
 * ⭐ **[Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers)** - Launcher Quick Switch
 
-[Neo Launcher](https://github.com/NeoApplications/Neo-Launcher), [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher), [Olauncher](https://github.com/jooooscha/Olauncher), [Unlauncher](https://github.com/jkuester/unlauncher), [Ratio](https://blloc.com/), [Edge Card Launcher](https://play.google.com/store/apps/details?id=com.reactivstudios.android.edge4), [Stario Launcher](https://play.google.com/store/apps/details?id=com.stario.launcher), [Discreet Launcher](https://github.com/falzonv/discreet-launcher), [Taskbar](https://play.google.com/store/apps/details?id=com.farmerbb.taskbar), [Kvaesitso](https://kvaesitso.mm20.de/), [Inure App Manager](https://github.com/Hamza417/Inure), [KISS launcher](https://kisslauncher.com/), [Lynx Launcher](https://www.lynxlauncher.de/), [Slim launcher](https://github.com/sduduzog/slim-launcher), [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher), [Nova Launcher](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)
+[Neo Launcher](https://github.com/NeoApplications/Neo-Launcher), [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher), [Olauncher](https://github.com/OlauncherCF/OlauncherCF), [Unlauncher](https://github.com/jkuester/unlauncher), [Ratio](https://blloc.com/), [Edge Card Launcher](https://play.google.com/store/apps/details?id=com.reactivstudios.android.edge4), [Stario Launcher](https://play.google.com/store/apps/details?id=com.stario.launcher), [Discreet Launcher](https://github.com/falzonv/discreet-launcher), [Taskbar](https://play.google.com/store/apps/details?id=com.farmerbb.taskbar), [Kvaesitso](https://kvaesitso.mm20.de/), [Inure App Manager](https://github.com/Hamza417/Inure), [KISS launcher](https://kisslauncher.com/), [Lynx Launcher](https://www.lynxlauncher.de/), [Slim launcher](https://github.com/sduduzog/slim-launcher), [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher), [Nova Launcher](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)
 
 ***
 
@@ -289,16 +289,16 @@
 * [Nekogames](http://nekogames.jp/) - Japanese Games
 * [ArcadePrehacks](http://www.arcadeprehacks.com/) - Hacked Games
 * [Orisinal](http://www.ferryhalim.com/orisinal/), [BillsGames](http://www.billsgames.com/) or [pitStreet](http://www.pitstreet.com/) - Simple Games 
-* [Nick Jr. Games](http://www.nickjr.com/games/), [WBKidsGo](https://www.wbkidsgo.com/) or [PBS Kids Games](https://pbskids.org/games/) - Games for Kids
+* [WBKidsGo](https://www.wbkidsgo.com/) or [PBS Kids Games](https://pbskids.org/games/) - Games for Kids
 
 
-[Newgrounds](https://www.newgrounds.com/games), [Armor Games](https://armorgames.com/), [Kongregate](https://www.kongregate.com/), [Weboasis Arcade](https://weboasis.app/arcade/), [Addicting Games](https://www.addictinggames.com/), [OneMoreLevel](http://www.onemorelevel.com/), [Miniclip](https://miniclip.com/), [Not Doppler](http://www.notdoppler.com/), [Nitrome](https://www.nitrome.com/), [Poki](https://poki.com/), [Y8](https://www.y8.com/), [Arkadium](https://www.arkadium.com/), [Crazy Games](https://www.crazygames.com/), [GamezHero](https://www.gamezhero.com/), [Yandex Games](https://yandex.com/games/), [Nicky Case](https://ncase.me/), [Gamepix](https://www.gamepix.com/), [KibaGames](https://www.kibagames.com/), [yell0wsuit](https://yell0wsuit.page/games.html), [Kizi](https://kizi.com/), [Gamaverse](https://gamaverse.com/), [FOG](https://www.freeonlinegames.com/), [RoundGames](https://www.roundgames.com/), [Radon Games](https://radon-games.glitch.me/), [Snokido](https://www.snokido.com), [2amGames](http://www.2amgames.com/), [Game Game](https://game-game.com/), [ArcadeSpot](https://arcadespot.com/), [Untly](https://www.untly.com/), [N-Arcade](https://n-arcade.io/), [watabou](https://watabou.itch.io/), [Key Games](https://keygames.com/), [GamesFlare](https://gameflare.com/), [Gaming Wonderland](https://www.gamingwonderland.com/), [Game Top](https://www.gametop.com/online/index.html), [Foddy](http://www.foddy.net/category/games/browser/), [ALFY](https://www.alfy.com/), [GameKB](https://www.gamekb.com/), [Andkon](http://andkon.com/arcade/), [DAN-BALL](http://dan-ball.jp/en/), [Play-Games](https://play-games.com), [KBHGames](https://kbhgames.com/), [Unity3DGames](http://www.unity3dgames.net/), [FreeGames](https://freegames.org/), [PrimaryGames](https://www.primarygames.com/), [MSM Games](https://zone.msn.com/en-us/home), [CAMLBOY](https://linoscope.github.io/CAMLBOY/), [Cartoon Network Games](https://www.cartoonnetwork.com/games/index.html), [Disney Games](https://disneynow.com/all-games), [Lego Games](https://www.lego.com/en-us/kids/games), [Friv](https://friv.com/) / [2](https://web.archive.org/web/*/Friv.com)
+[Newgrounds](https://www.newgrounds.com/games), [Armor Games](https://armorgames.com/), [Kongregate](https://www.kongregate.com/), [Weboasis Arcade](https://weboasis.app/arcade/), [Addicting Games](https://www.addictinggames.com/), [OneMoreLevel](http://www.onemorelevel.com/), [Miniclip](https://miniclip.com/), [Not Doppler](http://www.notdoppler.com/), [Nitrome](https://www.nitrome.com/), [Poki](https://poki.com/), [Y8](https://www.y8.com/), [Arkadium](https://www.arkadium.com/), [Crazy Games](https://www.crazygames.com/), [GamezHero](https://www.gamezhero.com/), [Yandex Games](https://yandex.com/games/), [Nicky Case](https://ncase.me/), [Gamepix](https://www.gamepix.com/), [KibaGames](https://www.kibagames.com/), [yell0wsuit](https://yell0wsuit.page/games.html), [Kizi](https://kizi.com/), [Gamaverse](https://gamaverse.com/), [FOG](https://www.freeonlinegames.com/), [RoundGames](https://www.roundgames.com/), [Radon Games](https://radon-games.glitch.me/), [Snokido](https://www.snokido.com), [2amGames](http://www.2amgames.com/), [Game Game](https://game-game.com/), [ArcadeSpot](https://arcadespot.com/), [Untly](https://www.untly.com/), [N-Arcade](https://n-arcade.io/), [watabou](https://watabou.itch.io/), [Key Games](https://keygames.com/), [GamesFlare](https://gameflare.com/), [Gaming Wonderland](https://www.gamingwonderland.com/), [Game Top](https://www.gametop.com/online/index.html), [Foddy](http://www.foddy.net/category/games/browser/), [ALFY](https://www.alfy.com/), [GameKB](https://www.gamekb.com/), [Andkon](http://andkon.com/arcade/), [DAN-BALL](http://dan-ball.jp/en/), [Play-Games](https://play-games.com), [KBHGames](https://kbhgames.com/), [Unity3DGames](http://www.unity3dgames.net/), [FreeGames](https://freegames.org/), [PrimaryGames](https://www.primarygames.com/), [MSM Games](https://zone.msn.com/en-us/home), [CAMLBOY](https://linoscope.github.io/CAMLBOY/), [Cartoon Network Games](https://www.cartoonnetworkasia.com/games), [Disney Games](https://disneynow.com/all-games), [Lego Games](https://www.lego.com/en-us/kids/games), [Friv](https://friv.com/) / [2](https://web.archive.org/web/*/Friv.com)
 
 ***
 
 #### Browser Startpages
 
-* ⭐ **[WebOasis](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) - [Source Code](https://pastebin.com/CczqreS4)
+* ⭐ **[WebOasis](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/) - [Source Code](https://pastebin.com/CczqreS4)
 * ⭐ **[MONKNOW](https://www.monknow.com/)**
 
 [8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/), [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage), [StartTree](https://github.com/Paul-Houser/StartTree), [New Tab Addons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page), [Clippingmini](https://www.clippingmini.com/), [Draggo](http://draggo.com/), [Atavi](https://atavi.com/), [Homepage Ninja](https://homepage.ninja/), [Bookmarkee](https://www.bookmarkee.com/), [Pearltrees](https://www.pearltrees.com/), [Lasso](https://www.lasso.net/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/)
@@ -307,7 +307,7 @@
 
 #### Bookmark Managers
 
-[Saved.io](https://saved.io/), [Bookmark OS](https://bookmarkos.com/), [Bookmarkify](https://bookmarkify.it/), [Patchwork](http://patchworkapp.com/), [start.me](https://start.me/start/int/startpage), [buku](https://github.com/jarun/buku), [booky](https://booky.io/), [Raindrop.io](https://raindrop.io/), [WebCrate](https://webcrate.app/), [Unmark](https://unmark.it/), [Diigo](https://diigo.com/), [linkding](https://github.com/sissbruecker/linkding), [LinkAce](https://www.linkace.org/), [Tagpacker](https://tagpacker.com/), [yabs.io](https://www.yabs.io/), [Shaarli](https://shaarli.readthedocs.io/en/master/), [Openoox](https://openoox.com/), [Mission Control](https://mission-control.app/), [histre](https://histre.com/), [BrainyTab](https://brainytab.com/), [Save For Later](http://saveforlater.com/), [Zulu](https://tryzulu.com/), [Contentle](https://contentle.com/), [Clipix](https://www.clipix.com/), [WebCull](https://webcull.com/), [Collect](https://colllect.io/), [Sqworl](https://sqworl.com/), [Trove](https://trovenow.com/), [GGather](https://web.ggather.com/), [Dropmark](https://www.dropmark.com/), [Bookmarkme](https://bookmarkme.io/), [Bublup](https://www.bublup.com/), [Bkmark](https://bkmark.io/), [Shiori](https://github.com/go-shiori/shiori), [LinkSnatch](https://linksnatch.pages.dev/)
+[Saved.io](https://saved.io/), [Bookmark OS](https://bookmarkos.com/), [Bookmarkify](https://bookmarkify.it/), [Patchwork](http://patchworkapp.com/), [start.me](https://start.me/start/int/startpage), [buku](https://github.com/jarun/buku), [booky](https://booky.io/), [Raindrop.io](https://raindrop.io/), [WebCrate](https://webcrate.app/), [Unmark](https://unmark.it/), [Diigo](https://diigo.com/), [linkding](https://github.com/sissbruecker/linkding), [LinkAce](https://www.linkace.org/), [Tagpacker](https://tagpacker.com/), [yabs.io](https://www.yabs.io/), [Shaarli](https://shaarli.readthedocs.io/en/master/), [Openoox](https://openoox.com/), [Mission Control](https://mission-control.app/), [histre](https://histre.com/), [BrainyTab](https://brainytab.com/), [Save For Later](http://saveforlater.com/), [Zulu](https://tryzulu.com/), [Contentle](https://contentle.com/), [Clipix](https://www.clipix.com/), [WebCull](https://webcull.com/), [Collect](https://colllect.io/), [Trove](https://trovenow.com/), [GGather](https://web.ggather.com/), [Dropmark](https://www.dropmark.com/), [Bookmarkme](https://bookmarkme.io/), [Bublup](https://www.bublup.com/), [Bkmark](https://bkmark.io/), [Shiori](https://github.com/go-shiori/shiori), [LinkSnatch](https://linksnatch.pages.dev/)
 
 **Extensions**
 
@@ -1373,9 +1373,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Manga Downloaders
 
-⭐ **[HakuNeko](https://hakuneko.download/) / [2](https://github.com/manga-download/hakuneko)**
+⭐ **[HakuNeko](https://hakuneko.download/) / [Github](https://github.com/manga-download/hakuneko)**
 
-[Comics Downloader](https://github.com/Girbons/comics-downloader), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [MangaBot](http://mangabot.github.io/), [Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [mangadesk](https://github.com/darylhjd/mangadesk), [mdownloader](https://github.com/Rudoal/mdownloader), [mangapy](https://pypi.org/project/mangapy/), [manga2mobi](https://github.com/KevCui/manga2mobi), [Akianonymus](https://github.com/Akianonymus/mangadl-bash), [simple-manga-downloader](https://github.com/Kanjirito/simple-manga-downloader), [mangodl](https://github.com/Gyro7/mangodl), [anime-dl](https://github.com/vrienstudios/anime-dl) / [2](https://github.com/vrienstudios/anime-dl), [manga-py](https://github.com/manga-py/manga-py), [mangal](https://github.com/metafates/mangal)
+[Comics Downloader](https://github.com/Girbons/comics-downloader), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [MangaBot](http://mangabot.github.io/), [Manga Downloader](https://www.redsquirrel87.altervista.org/doku.php/manga-downloader), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [mangadesk](https://github.com/darylhjd/mangadesk), [mdownloader](https://github.com/Rudoal/mdownloader), [manga2mobi](https://github.com/KevCui/manga2mobi), [Akianonymus](https://github.com/Akianonymus/mangadl-bash), [simple-manga-downloader](https://github.com/Kanjirito/simple-manga-downloader), [mangodl](https://github.com/Gyro7/mangodl), [anime-dl](https://github.com/vrienstudios/anime-dl) / [2](https://github.com/vrienstudios/anime-dl), [manga-py](https://github.com/manga-py/manga-py), [mangal](https://github.com/metafates/mangal)
 
 ***
 
@@ -1442,14 +1442,12 @@ Add the following commands to a search to manually scrape each site.
 * [Gerbera](https://gerbera.io/)
 * [Serviio](https://www.serviio.org/)
 * [MediaBox](https://apps.microsoft.com/store/detail/mediabox/9WZDNCRFJJK7?hl=en-us&gl=us)
-* [Mezzmo](http://www.conceiva.com/products/mezzmo/)
 * [Dim](https://github.com/Dusk-Labs/dim)
 * [WatchIt](https://github.com/ZorrillosDev/watchit-app)
 * [Rygel](https://wiki.gnome.org/Projects/Rygel)
 * [DigitalMediaServer](https://github.com/DigitalMediaServer/DigitalMediaServer)
 * [MiniDLNA](https://sourceforge.net/projects/minidlna/)
 * [SimpleDLNA](https://nmaier.github.io/simpleDLNA/)
-* [hmc](https://github.com/tomaspsenak/hmc)
 * [MediaPortal](https://www.team-mediaportal.com/)
 * [nano-dlna](https://github.com/gabrielmagno/nano-dlna)
 * [Frames](https://github.com/Eleven-am/frames) - GDrive Server
@@ -1755,9 +1753,6 @@ Add the following commands to a search to manually scrape each site.
 * [Passman](https://passman.cc/) - [GitHub](https://github.com/nextcloud/passman)
 * [KeeWeb](https://keeweb.info/) - [GitHub](https://github.com/keeweb/keeweb)
 * [Spectre](https://spectre.app/)
-* [Firefox Lockwise](https://www.mozilla.org/en-US/firefox/lockwise/)
-* [UPM](http://upm.sourceforge.net/)
-* [Zoho](https://www.zoho.com/vault/)
 * [KeepSafe](https://github.com/imshawan/keepsafe-passwordmanager/)
 * [TeamPass](https://teampass.net/) - Collaborative Password Manager
 * [Password Safe](https://www.pwsafe.org/) or [KDE Wallet Manager](https://userbase.kde.org/KDE_Wallet_Manager) - Password Managing Software
@@ -1783,7 +1778,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[katb](https://katb.in/)**
 * ⭐ **[paste.sh](https://paste.sh)**
 
-[TextBin](https://textbin.xyz/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [pst.moe](https://pst.moe/), [Hastebin](https://hastebin.com/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [bin.idrix](https://bin.idrix.fr/),  [teknik](https://paste.teknik.io/), [ghostbin](https://ghostbin.me/) / [2](https://paste.bingner.com/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [cyberdrop bin](https://bin.cyberdrop.me/), [fssquad](https://share.fssquad.com/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [paaster](https://paaster.io/), [nopaste](https://nopaste.ml/), [pastery](https://www.pastery.net/), [privatebin](https://privatebin.net/), [pastebin.pl](https://pastebin.pl/), [paste.gg](https://paste.gg/), [bpa](https://bpa.st/), [0bin](https://0bin.net/), [bin](https://bin.gy/), [paste.fo](https://paste.fo/), [sprunge](http://sprunge.us/), [clbin](https://clbin.com/), [nekobin](https://nekobin.com/), [hasbin](https://hashb.in), [Defuse](https://defuse.ca/pastebin.htm), [gocatgo](https://github.com/vaaleyard/gocatgo), [zerobin](https://zerobin.net/), [paste.vaa.red](https://paste.vaa.red/), [Hasty Paste](https://github.com/enchant97/hasty-paste), [bucketex](https://bucketex.com/)
+[TextBin](https://textbin.xyz/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [pst.moe](https://pst.moe/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [bin.idrix](https://bin.idrix.fr/),  [teknik](https://paste.teknik.io/), [ghostbin](https://ghostbin.me/) / [2](https://paste.bingner.com/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [fssquad](https://share.fssquad.com/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [paaster](https://paaster.io/), [nopaste](https://nopaste.ml/), [pastery](https://www.pastery.net/), [privatebin](https://privatebin.net/), [pastebin.pl](https://pastebin.pl/), [paste.gg](https://paste.gg/), [bpa](https://bpa.st/), [0bin](https://0bin.net/), [bin](https://bin.gy/), [paste.fo](https://paste.fo/), [sprunge](http://sprunge.us/), [clbin](https://clbin.com/), [nekobin](https://nekobin.com/), [hasbin](https://hashb.in), [Defuse](https://defuse.ca/pastebin.htm), [gocatgo](https://github.com/vaaleyard/gocatgo), [zerobin](https://zerobin.net/), [paste.vaa.red](https://paste.vaa.red/), [Hasty Paste](https://github.com/enchant97/hasty-paste), [bucketex](https://bucketex.com/)
 
 ***
 
@@ -1794,13 +1789,13 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Sejda](https://www.sejda.com/)**
 * ⭐ **[SimplePDF](https://simplepdf.eu/)**
 
-[iLovePDF](https://www.ilovepdf.com/), [Smallpdf](https://smallpdf.com/), [PDF24](https://tools.pdf24.org/en/), [PDFCandy](https://pdfcandy.com/), [SodaPDF](https://online.sodapdf.com/), [PDFonFly](https://pdfonfly.com/), [PDFShelter](https://pdfshelter.com/), [DocHub](https://dochub.com/), [PDFRedizer](https://www.pdfresizer.com/), [PDFRock](https://pdfrock.com/), [FreePDFConvert](http://www.freepdfconvert.com/), [pdf.online](https://pdf.online/), [LightPDF](https://lightpdf.com/), [DeftPDF](https://deftpdf.com/), [AvePDF](https://avepdf.com/), [PDF2Go](https://www.pdf2go.com/), [CleverPDF](https://www.cleverpdf.com/), [PDF4Me](https://www.pdf4me.com/), [PDFForge](https://tools.pdfforge.org/), [MyPDFTools](https://mypdftools.com/), [chromePDF](https://chromepdf.com/), [PDFYeah](https://www.pdfyeah.com/), [EasePDF](https://www.easepdf.com/all-pdf-tools/), [PDFZorro](https://www.pdfzorro.com/), [PDFConverterOnline](https://www.pdfconvertonline.com/), [LocalPDF](https://localpdf.tech/), [pdfux](https://pdfux.com/)
+[iLovePDF](https://www.ilovepdf.com/), [Smallpdf](https://smallpdf.com/), [PDF24](https://tools.pdf24.org/en/), [PDFCandy](https://pdfcandy.com/), [SodaPDF](https://online.sodapdf.com/), [PDFonFly](https://pdfonfly.com/), [PDFShelter](https://pdfshelter.com/), [DocHub](https://dochub.com/), [PDFRedizer](https://www.pdfresizer.com/), [PDFRock](https://pdfrock.com/), [FreePDFConvert](http://www.freepdfconvert.com/), [pdf.online](https://pdf.online/), [LightPDF](https://lightpdf.com/), [DeftPDF](https://deftpdf.com/), [AvePDF](https://avepdf.com/), [PDF2Go](https://www.pdf2go.com/), [CleverPDF](https://www.cleverpdf.com/),  [PDFForge](https://www.pdfforge.org/online/), [MyPDFTools](https://mypdftools.com/), [chromePDF](https://chromepdf.com/), [PDFYeah](https://www.pdfyeah.com/),  [PDFZorro](https://www.pdfzorro.com/), [PDFConverterOnline](https://www.pdfconvertonline.com/), [LocalPDF](https://localpdf.tech/), [pdfux](https://pdfux.com/)
 
 **Programs**
 
 ⭐ **[Acrobat Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#acrobat-pro)** / [Guide](https://rentry.co/adobesoftware)
 
-[PDFTK](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/), [xPDFReader](http://www.xpdfreader.com/), [PDFBox](https://pdfbox.apache.org/), [PDFescape](https://www.pdfescape.com/), [OpenPDF](https://github.com/LibrePDF/OpenPDF), [PDFedit](http://pdfedit.cz/en/index.html), [PDFSam](https://pdfsam.org/), [Poppler](https://blog.alivate.com.au/poppler-windows/), [PDFCore](https://www.pdfcore.com/), [PDFEraser](https://www.pdferaser.net/), [PDFShaper](https://www.pdfshaper.com/), [PoDoFo](https://sourceforge.net/projects/podofo/), [pdftkb](http://www.angusj.com/pdftkb/), [pdf.online](https://pdf.online/integration), [pdf-analyzer](https://pdf-analyzer.com/mdownloads.html), [PDF Forge](https://www.pdfforge.org/), [PDFInsider](https://pdfinsider.com/), [PDFChef](https://pdfchef.com/online-pdf-tools.html), [Didier Stevens PDF Tools](https://blog.didierstevens.com/programs/pdf-tools/) (CLI)
+[xPDFReader](http://www.xpdfreader.com/), [PDFBox](https://pdfbox.apache.org/), [PDFescape](https://www.pdfescape.com/), [OpenPDF](https://github.com/LibrePDF/OpenPDF), [PDFedit](http://pdfedit.cz/en/index.html), [PDFSam](https://pdfsam.org/), [PDFCore](https://www.pdfcore.com/), [PDFEraser](https://www.pdferaser.net/), [PDFShaper](https://www.pdfshaper.com/), [PoDoFo](https://github.com/podofo/podofo), [pdftkb](http://www.angusj.com/pdftkb/), [pdf-analyzer](https://pdf-analyzer.com/mdownloads.html), [PDF Forge](https://www.pdfforge.org/), [PDFInsider](https://pdfinsider.com/), [PDFChef](https://pdfchef.com/online-pdf-tools.html), [Didier Stevens PDF Tools](https://blog.didierstevens.com/programs/pdf-tools/) (CLI)
 
 ***
 
@@ -1814,7 +1809,7 @@ Add the following commands to a search to manually scrape each site.
 
 * These sites host both Persian and English videos. Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/).
 * [dlrozaneh](https://dlrozaneh.ir/) - Movies
-* [DigiMoviez](https://digimoviez.com/) - Movies / TV
+* [DigiMoviez](https://digimovie.vip/) - Movies / TV
 
 ***
 
@@ -1826,7 +1821,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Plagiarism Detection
 
-[Grammarly Plagiarism Checker](https://www.grammarly.com/plagiarism-checker), [PaperRater](https://www.paperrater.com/), [Quetext](https://www.quetext.com/), [PlagiarismDetector](http://www.plagiarismdetector.net/), [CopyScape](https://www.copyscape.com/), [PLText](https://pltext.com/), [plagiarismchecker](https://www.plagiarismchecker.co/), [duplichecker](https://www.duplichecker.com/), [writer](https://writer.com/plagiarism-checker/), [unicheck](https://unicheck.com/), [plagiarismsearch](https://plagiarismsearch.com/), [plagiarismcheckerx](https://plagiarismcheckerx.com/), [onlineplagiarismchecker](https://onlineplagiarismchecker.net/), [copyleaks](https://copyleaks.com/), [plagiarismchecker](https://1text.com/plagiarismchecker), [plagium](https://www.plagium.com/), [gptzero](https://gptzero.me/)
+[Grammarly Plagiarism Checker](https://www.grammarly.com/plagiarism-checker), [PaperRater](https://www.paperrater.com/), [Quetext](https://www.quetext.com/), [PlagiarismDetector](http://www.plagiarismdetector.net/), [CopyScape](https://www.copyscape.com/), [PLText](https://pltext.com/), [plagiarismchecker](https://www.plagiarismchecker.co/), [duplichecker](https://www.duplichecker.com/), [unicheck](https://unicheck.com/), [plagiarismsearch](https://plagiarismsearch.com/), [plagiarismcheckerx](https://plagiarismcheckerx.com/), [Fixgerald](https://fixgerald.com/), [copyleaks](https://copyleaks.com/), [plagiarismchecker](https://1text.com/plagiarismchecker), [plagium](https://www.plagium.com/), [gptzero](https://gptzero.me/)
 
 ***
 
@@ -1844,7 +1839,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Live Polling Apps**
 
-[sli.do](https://www.sli.do/), [Feedbackr](https://www.feedbackr.io/), [Trypingo](http://trypingo.com/)
+[slido](https://www.slido.com/), [Feedbackr](https://www.feedbackr.io/), [Trypingo](http://trypingo.com/)
 
 ***
 
