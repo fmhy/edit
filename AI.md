@@ -90,7 +90,7 @@
 * [botprompts](https://botprompts.net/) - Fun Prompts
 * [DAN](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516) or [GPT Jailbreak](https://rentry.co/gptjailbreak) - DAN / John Prompts
 * [ChatGPT-History](https://github.com/benf2004/ChatGPT-Prompt-Genius) or [Spell.so](https://spell.so/) - Prompt Management Extensions
- * [/r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/) or [/r/GPT_Jailbreaks](https://www.reddit.com/r/GPT_jailbreaks/) - GPT Jailbreak Subreddits
+* [/r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/) or [/r/GPT_Jailbreaks](https://www.reddit.com/r/GPT_jailbreaks/) - GPT Jailbreak Subreddits
 
 ***
 ***
