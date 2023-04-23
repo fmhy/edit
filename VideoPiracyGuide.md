@@ -902,7 +902,7 @@
 * [CouchMoney](https://couchmoney.tv/) - Movie Recommendations for Trakt 
 * [Cinetrii](https://cinetrii.com/) - Discover Movies with Similar Themes
 * [DateNightMovies](https://datenightmovies.com/) - Get Recommendations Based on 2 Movies
-* [Match-a-Movie](https://match-a-movie.com/) - Tinder Style Movie Picks w/ Friends
+* [Match-a-Movie](https://match-a-movie.com/) - Pick Movies w/ Friends
 * [Random Movies / Series Bookmark Script](https://pastebin.com/PDsm2SSC) - Find Random Movies / Shows
 * [spin.moe](https://spin.moe/) - Find Random Anime
 * [Series Rating Chart](https://www.neetcoder.com/app/) - Compare TV Shows by Ratings
