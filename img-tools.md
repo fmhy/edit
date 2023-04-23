@@ -199,6 +199,7 @@
 * [instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant Neural Graphics Primitives 
 * [CLIP-GLaSS](https://colab.research.google.com/drive/1fWka_U56NhCegbbrQPt4PWpHPtNRdU49?usp=sharing#scrollTo=zvZFRZtcv8Mp) - Image Generation Tool 
 * [Random Art](http://www.random-art.org/) - Random Art Generator
+* [No Paint](https://nopaint.art/) - Press "Paint" if you like what you see, "No" if you don't 
 * [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html) - Chimera Generator 
 
 ***
