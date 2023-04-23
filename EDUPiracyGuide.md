@@ -397,7 +397,6 @@ Simulator
 * [NIH Print](https://3d.nih.gov/) - Biomedical Science 3D Models
 * [Glass AI](https://glass.health/ai) - Medical Diagnoses' Training AI
 * [WhyDoCatsAndDogs...?](https://whydocatsanddogs.com/) - Pet Q&A Site
-* [Backyard Chickens](https://www.backyardchickens.com/) - Chicken Raising Forum
 
 ***
 
