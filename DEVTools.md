@@ -720,11 +720,10 @@
 * [New Software](https://github.com/ardalis/new-software-project-checklist) - Project Decision Checklist
 * [Servo](https://servo.org/) - Experimental Browser Engine
 * [Gummy](https://gummyjs.vercel.app/) - Easily Build Javascript Programs
-* [Waypoint](https://www.waypointproject.io/) - Easy App Deployment
 * [NASM](https://www.nasm.us/) - Program Assembler
 * [Radicle](https://radicle.xyz/) - P2P Software Development
 * [Pakkly](https://pakkly.com/) - Desktop App Deployment
-* [Nomad](https://www.nomadproject.io/) - App Deployment Automation / [GitHub](https://github.com/hashicorp/nomad)
+* [Nomad](https://www.nomadproject.io/) or [Waypoint](https://www.waypointproject.io) - App Deployment Automation / [GitHub](https://github.com/hashicorp/nomad)
 * [Dotnet Content Creators](https://github.com/matthiasjost/dotnet-content-creators) - .NET Content Creators Index
 * [Dotnet Releaser](https://github.com/xoofx/dotnet-releaser) - Automate Release of .NET Applications
 * [Cron AI](https://cron-ai.vercel.app/) - Words to Cron Expression
@@ -789,6 +788,7 @@
 * [Xcodes App](https://github.com/RobotsAndPencils/XcodesApp) - Xcode Manager
 * [AndroidAssetStudio](https://romannurik.github.io/AndroidAssetStudio/) - Android App Assets
 * [IconKitchen](https://icon.kitchen/) or [AppIcon](https://appicon.co/) - App Icon Generator
+* [Android-Iconics](https://github.com/mikepenz/Android-Iconics) - Use Any Icon / Font as your Drawable App
 * [iOS Icon Gallery](https://www.iosicongallery.com/) - iOS Icon Examples
 * [Plank](https://launchpad.net/plank) - Simple Dock / [GitHub](https://github.com/ricotz/plank)
 * [Compose Samples](https://github.com/android/compose-samples) - App Samples
@@ -832,7 +832,6 @@
 * [React PDF](https://react-pdf.org/) - Create PDFs in React
 * [react-spring](https://react-spring.io/) - React Spring Animations
 * [useAnimations](https://useanimations.com/index.html) - Animated Icon Pack
-* [Android Iconics](https://github.com/mikepenz/Android-Iconics) - Icon font appbuilding extension
 * [Flubber](https://github.com/Appolica/Flubber) - Android Animation Creator
 * [Shiny](https://github.com/rikschennink/shiny) - Reflections for Mobile Sites
 * [Redex](https://fbredex.com/) - Android Bytecode Optimizer
@@ -855,7 +854,6 @@
 * [Free Game Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_engines)
 * [Playerio](https://playerio.com/) - Online Game Engine
 * [RPG Playground](https://rpgplayground.com/) - Simple RPG Creator
-* [AnyRPGCore](https://www.anyrpg.org/) / [Github](https://github.com/AnyRPG/AnyRPGCore) - RPG dev engine for unity
 * [Game-Editor](http://game-editor.com/Main_Page), [microStudio](https://microstudio.itch.io/microstudio) or [BuildBox](http://buildbox.com/) - Game Creators
 * [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker Studio 2](https://www.yoyogames.com/en/gamemaker) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://pennie.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop) / [2](https://gdevelop.io/), [Bitsy](http://ledoux.io/bitsy/editor.html), [LIKO 12](https://github.com/LIKO-12/LIKO-12), [Script 8](https://script-8.github.io/), [GDPS](https://gdpseditor.com/) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - 2D Game Creators
 * [3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models) - 3D Models / Tools
@@ -913,6 +911,7 @@
 * [Post-Processing](https://github.com/GarrettGunnell/Post-Processing) - Post Processing Pipeline For Unity
 * [Hekky](https://github.com/hyblocker/hekky-shaders) - Unity Shaders / [Docs](https://docs.hyblocker.dev/en/)
 * [CraftPix](https://craftpix.net/freebies/), [Kenney](https://www.kenney.nl/), [/r/GameAssets](https://www.reddit.com/r/gameassets/), [UnityAssets4Free](https://unityassets4free.com/), [Open Game Art](https://opengameart.org/), [UnityFreaks](https://www.unityfreaks.com/), [GameDevUE](https://t.me/GameDevUE), [SreamGridDB](https://www.steamgriddb.com/) or [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free) - Game Development Assets
+* [AnyRPG](https://www.anyrpg.org/) - RPG Editor
 * [xonotic](https://github.com/xonotic), [Vanguard](https://github.com/VanguardDev/Vanguard) / [2](https://project-vanguard.netlify.app/index.html) or [Warsow](https://github.com/Warsow) - FPS Game Assets
 * [Pixel Art Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_pixel_art) - Tools to Create Sprites & Pixel Art
 * [awesome-one-person-games](https://github.com/Yonaba/awesome-one-person-games) - Single Dev Game Examples
