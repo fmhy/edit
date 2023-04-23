@@ -462,6 +462,7 @@
 * [The Ergonomic Development of Video Game Controllers](https://www.longdom.org/open-access/the-ergonomic-development-of-video-game-controllers-2165-7556-1000209.pdf)
 * [Bash Academy](https://guide.bash.academy/) - Bash Shell Guide
 * [biorxiv](https://www.biorxiv.org/) - Biology Preprints
+* [Textbook of Bacteriology](http://www.textbookofbacteriology.net/index.html) - Online textbook for microbiology
 * [Encyclopedia Of Agriculture And Food Systems](https://archive.org/details/Encyclopedia_Of_Agriculture_And_Food_Systems/)
 * [EveryCulture](https://www.everyculture.com/index.html) - World Culture Encyclopedia
 * [Encyclopaedia Iranica](https://www.iranicaonline.org/) - Iranian Culture Encyclopedia
