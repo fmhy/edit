@@ -46,8 +46,8 @@
 * [piracy](https://gitlab.com/piracy/piracy/-/tree/master/docs) - Piracy Index
 * [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/), [TopMillion](http://www.topmillion.net/), [HypeStat](https://hypestat.com/alexa-rank) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
 * [10 Words](https://discover.10words.io/) - App / Tool Discovery
+* [Ripped](https://ripped.guide/) - Piracy Index
 * [pilssken](https://pilssken.neocities.org/warez/) - Piracy Index
-* [Ripped Guide](https://ripped.guide/) - Piracy Index
 * [The Pirate List](https://thepiratelist.com/) - Piracy Index
 * [DuckLink](https://ducklink.pages.dev/) - Piracy Index / [Mirror](https://rentry.org/ducklink)
 * [Leaf Guides](https://leafguides.xyz/) - Piracy Index
