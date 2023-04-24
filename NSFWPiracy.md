@@ -217,8 +217,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Haven Explicit](https://t.me/+jUBOyDju3zQ0OWY0) - OnlyFans
 * [OF-Models](http://of-model.com/) - OnlyFans
 * [BadGirlsArchive](https://badgirlsarchive.site/) - OnlyFans / Patreon
-* [PornLeaks](https://pornleaks.in/) - OnlyFans / Patreon
-    * [UBO filters + userResourcesLocation](https://github.com/lavafroth/ublockFilters/tree/main/comohoy.com) to block ad banners and get direct links
+* [PornLeaks](https://pornleaks.in/) - OnlyFans / Patreon / [Filters](https://github.com/lavafroth/ublockFilters/tree/main/comohoy.com)
 * [Memory Hole](https://memoryhole.cc/) - OnlyFans / Patreon
 * Add `site:cyberdrop.me` to search onlyfans leaks
 
