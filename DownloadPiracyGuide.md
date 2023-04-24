@@ -170,6 +170,7 @@
 * [SCloud](https://scloud.ws/)
 * [AllPCWorld](https://allpcworld.com/)
 * [Heidoc](https://www.heidoc.net/joomla/)
+* [RetroSystemRevival](https://retrosystemsrevival.blogspot.com/)
 * [SamLab](https://samlab.ws/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ
 * [AIOsetup](https://t.me/aiosetup) - Telegram
