@@ -26,7 +26,7 @@
 * [Open Assistant](https://open-assistant.io/) - Open-Source Chatbot
 * [ChatLLaMA](https://stuff.serp.ai/l/lora-weights) - LLaMA Based Chatbot
 * [Dalai](https://cocktailpeanut.github.io/dalai/) or [LLaMA C++](https://github.com/ggerganov/llama.cpp) - Self-Host Facebook Chatbot / [Guide](https://rentry.org/llama-tard-v2) / [WebUI](https://github.com/ItsPi3141/dalai)
-* [Alpaca Lora](https://huggingface.co/spaces/tloen/alpaca-lora) - Chatbot Built by Standford / [Git](https://github.com/antimatter15/alpaca.cpp) / [Guide](https://github.com/tatsu-lab/stanford_alpaca) / [Self-Host](https://github.com/tloen/alpaca-lora) / [Docker](https://github.com/chris-alexiuk/alpaca-lora)
+* [Alpaca Lora](https://huggingface.co/spaces/tloen/alpaca-lora) - Chatbot Built by Standford / [Git](https://github.com/antimatter15/alpaca.cpp) / [Guide](https://github.com/tatsu-lab/stanford_alpaca) / [Self-Host](https://github.com/tloen/alpaca-lora) / [Docker](https://github.com/chris-alexiuk/alpaca-lora) / [Frontend](https://github.com/ItsPi3141/alpaca-electron)
 * [PygmalionAI](https://redd.it/10kr5zk) - Chatbot Built by 4Channers / [Guide](https://rentry.org/pygmalion-local) / [FAQ](https://rentry.org/pygmalion-ai)
 * [JackChat](https://app.jackchat.ai/) - Browser Based Chatbot
 * [cleverbot](https://www.cleverbot.com/) - Browser Based Chatbot
@@ -35,6 +35,7 @@
 * [AskEdith](https://www.askedith.ai/demo) - Job / Business Q&A AI
 * [Phind](https://www.phind.com/) - Developer Q&A AI
 * [Leon](https://getleon.ai/) - AI Assistant
+* [engshell](https://github.com/emcf/engshell) - Terminal AI
 * [AnimaAI](https://myanima.ai/) - Virtual Companion
 * [InWorld](https://www.inworld.ai/) - Roleplaying Chatbots
 * [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbot
@@ -43,6 +44,7 @@
 * [AICommand](https://github.com/keijiro/AICommand) - ChatGPT with Unity Editor
 * [CharacterHub](https://www.characterhub.org/) - Characters for LLMs
 * [AI Anything](https://aianything.netlify.app/) - Create Chatbots
+* [Alt-GPT](https://github.com/Feedox/alt-gpt) - Create GPT Plugins
 * [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Fully Autonomous GPT-4
 * [Kajiwoto](https://kajiwoto.com/), [Miki](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
 * [YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained Language Model
@@ -57,6 +59,7 @@
 * ⭐ **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
 * ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
 * [EmergentMind](https://www.emergentmind.com/) - ChatGPT Forum
+* [ChatBlade](https://github.com/npiv/chatblade) - ChatGPT Multi-Tool CLI
 * [Text Gen Web UI](https://github.com/oobabooga/text-generation-webui/), [YakGPT](https://yakgpt.vercel.app/) or [TurboGPT.ai](https://turbogpt.ai/) - AI Chat WebUIs
 * [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [TurboGPT](https://github.com/mikebpech/turbogpt.ai), [FreedomGPT](https://freedomgpt.com/) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
 * [Assistant CLI](https://github.com/diciaup/assistant-cli), [ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) or [openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt) - TUIs and CLIs
@@ -143,7 +146,7 @@
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [GodAI](https://awk.itch.io/godai) - Story Writing AI
 * [Character Creator](https://oobabooga.github.io/character-creator) - Character Generation AI
-* [GPTForSlides](https://www.gptforslides.app/) - Presentation AI
+* [GPTForSlides](https://www.gptforslides.app/) or [Chat-GPT-PPT](https://github.com/williamfzc/chat-gpt-ppt) - Presentation AIs
 * [EssayGen](https://github.com/daijro/EssayGen/) - Essay Writing AI
 * [Essaytyper](http://www.essaytyper.com/) - Essay Writing AI
 * [papertyper](https://papertyper.net/) - Essay Writing AI
@@ -197,7 +200,6 @@
 * [Corrector App](https://corrector.app/ai-content-detector/)
 * [openai-detector](https://openai-openai-detector.hf.space/) - Detect GPT-2 Text
 
-
 ***
 ***
 
@@ -220,7 +222,7 @@
 * [Stable Horde](https://stablehorde.net/) - AI Image Generator / [Client](https://dbzer0.itch.io/lucid-creations)
 * [Pinegraph](https://pinegraph.com/create) - Image Transformation / Sketchpad
 * [SD GUI](https://nmkd.itch.io/t2i-gui) or [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Stable Diffusion GUIs / [Colab](https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4?usp=sharing)
-* [InPainter](https://inpainter.vercel.app/paint) / [2](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) - AI Image Generator
+* [InPainter](https://inpainter.vercel.app/paint) - AI Image Generator
 * [Mage](https://www.mage.space/) - AI Image Generator
 * [Dezgo](https://dezgo.com/) - AI Image Generator
 * [aiimag.es](https://sunija.itch.io/aiimages) - AI Image Generator
@@ -254,6 +256,7 @@
 * [InvokeAI](https://github.com/invoke-ai/InvokeAI) - AI Image Generator
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Waifu Diffusion](https://github.com/harubaru/waifu-diffusion) - Anime Image Generator
+* [SD InPainting](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) / [2](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting) / [3](https://replicate.com/stability-ai/stable-diffusion-inpainting) - AI Image Fill
 * [Gligen](https://huggingface.co/spaces/gligen/demo) - Open-Set Grounded Text-to-Image Generation
 * [AI Notebooks](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - AI Image Generation Colab
 * [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) - AI Image Generation Colab
@@ -301,6 +304,7 @@
 * [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - Stable Diffusion Guide
 * [Textard](https://rentry.org/textard) - Textual Inversion Guide
 * [drfar](https://rentry.org/drfar) - InPainting Guide
+* [Model to InPainting Guide](https://redd.it/zyi24j)
 * [Gaugan2 Guide](https://youtu.be/r5P9-zOfWyE) - Gaugan2 Video Guide
 * [Midjourney Guide](https://marigoldguide.notion.site/marigoldguide/Visual-Guide-to-Midjourney-settings-using-mostly-Astronauts-2ae1d8bb125f46e2be9886119c36ecf0) - Midjourney Guide / [Cheatsheet](https://arjenharris.notion.site/arjenharris/Midjourney-Cheat-Sheet-271922c6869549898ead33eaf79517fa)
 * [AnimAnon](https://rentry.org/AnimAnon) - AI Drawn Anime Guide
@@ -335,6 +339,7 @@
 * [Voice.ai](https://voice.ai/ai-voice-changer) - Voice Changer
 * [so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - Voice Changer
 * [FTM Voice Changer](https://lingojam.com/FemaletoMaleVoiceChanger) - Voice Changer
+* [voice-changer](https://github.com/w-okada/voice-changer) - Voice Changer
 * [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changer
 * [NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB) - Singing Voice Enhancer
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) - Voice Cloning
@@ -356,7 +361,8 @@
 * [Kobra](https://kobra.dev/) - Visual Programming Language for Machine Learning
 * [DVC](https://dvc.org/) - Machine Learning Version Control
 * [DialoGPT](https://github.com/microsoft/DialoGPT) - Dialogue Machine Learning Model
-* [MMDeploy](https://github.com/open-mmlab/mmdeploy) - Deep Learning Model Deployment Toolset 
+* [](https://github.com/learning-at-home/hivemind) - Decentralized Deep Learning Library
+* [MMDeploy](https://github.com/open-mmlab/mmdeploy) - Deep Learning Model Deployment Toolset
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep Learning Optimization Library
 * [TeachableMachine](https://teachablemachine.withgoogle.com/) or [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
 * [Netron](https://github.com/lutzroeder/netron) -  Visualizer for Neural Network, Deep Learning, and Machine Learning Models 
@@ -366,4 +372,6 @@
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book 
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
+* [Shap](https://github.com/slundberg/shap) - Language Model Response Analyzer
+* [Langchain](https://github.com/hwchase17/langchain) - Build Apps via LLM
 * [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
