@@ -301,7 +301,9 @@
 * [txt900](https://www.txt990.org/) - Light-Novels
 * [Zongheng](https://www.zongheng.com/) - Light-Novels
 * [118book](https://www.118book.com/) - Light-Novels
+* [ffxs8](https://ffxs8.com/) - Light-Novels
 * [Piaotian](https://www.ptwxz.com/) - Light-Novels
+* [woshucheng](https://www.woshucheng.com/) - Light-Novels
 * [Shuquge](https://www.ishuquge.la/) - Light-Novels
 * [Baozimh](https://www.baozimh.com/) - Webtoons
 * [Doujin Fiction Network](https://www.trxs.me/) or [Readfine](https://t.me/Readfine) / [Discussion](https://t.me/ReadfineChat) - FanFiction
@@ -791,6 +793,7 @@
 
 # ► Japanese
 
+* [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [lit.link](https://lit.link/) - Link All Your Sites on One Page
 * [Poipiku](https://poipiku.com/) - User-Made Images
 * [Marshmallow](https://marshmallow-qa.com/) - Send / Receive Positive Messages
