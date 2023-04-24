@@ -421,7 +421,7 @@
 * [Parallels](https://github.com/nbats/FMHYedit/blob/main/base64.md#parallels), [PortingKit](https://www.portingkit.com/), [PlayOnMac](https://www.playonmac.com/en/) or [CrossOver](https://www.codeweavers.com/crossover) - Run Windows Games / Programs on Mac
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/) / [Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 * [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/) - Install New macOS on Unsupported Devices
-* [Conky](https://github.com/brndnmtthws/conky) / [Colors](https://github.com/helmuthdu/conky_colors) or [MacFetch](https://github.com/gantoreno/macfetch) - System Info / Resource Monitor
+* [Conky](https://github.com/brndnmtthws/conky) / [Colors](https://github.com/helmuthdu/conky_colors), [zfxtop](https://github.com/ssleert/zfxtop) or [MacFetch](https://github.com/gantoreno/macfetch) - Hardware Monitors
 * [Hot](https://github.com/macmade/) - CPU Monitor
 * [TaskExplorer](https://objective-see.org/products/taskexplorer.html) - Task Manager / Viewer
 * [Progress](https://github.com/Xfennec/progress) - Show Copied Data Progress
