@@ -637,6 +637,7 @@
 * [Speed Limits Map](https://somerandomstuff1.files.wordpress.com/2019/02/highest-speed-limits-around-the-world.png) - Max Speed Limits
 * [Left vs. Right Side Driving Map](https://somerandomstuff1.files.wordpress.com/2019/02/left-or-right-side.png) - Left vs. Right Side Driving by Country
 * [MetroOrbits](http://mic-ro.com/metro/index.html) - Subway Maps / Data
+* [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [SubMarineCableMap](https://www.submarinecablemap.com/) - Fiber Optic Cable Map
 * [Cost of Living](https://www.numbeo.com/cost-of-living/) or [MoveMap](https://www.movemap.io/) - Cost of Living Map
 * [Mapfrappe](http://mapfrappe.com/?show=46142) or [scale-a-tron](https://stamen.github.io/scale-a-tron/) - Compare True Sizes on Land
@@ -927,7 +928,7 @@
 ## ▷ Firefox
 
 * ⭐ **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/extensions/)**
-* ⭐ **[Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)** or [Temporary Containers](https://github.com/stoically/temporary-containers) - Separate Firefox Sessions / [Guide](https://www.thechiefmeat.com/guides/containers.html)
+* ⭐ **[Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)**, [Container Tab Groups](https://addons.mozilla.org/en-US/firefox/addon/container-tab-groups/) or [Temporary Containers](https://github.com/stoically/temporary-containers) - Separate Firefox Sessions / [Guide](https://www.thechiefmeat.com/guides/containers.html)
 * ⭐ **[FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/)** - Multiple Tab Related Actions
 * ⭐ **[Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/)** - Search Selected Text / Multi Site Search
 * [PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - Install Progressive Web Apps
@@ -1165,14 +1166,12 @@
 
 * ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder),  [Build Redux](https://buildredux.com/), [CGDirector](https://www.cgdirector.com/pc-builder/) or [NZXTBld](https://www.letsbld.com/) - PC Building Sites
 * ⭐ **[/r/PCMasterrace Wiki](https://www.reddit.com/r/pcmasterrace/wiki/builds/)**, [/r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [Logical Increments](https://www.logicalincrements.com/) - PC Building Guides / **[Video](https://youtu.be/BL4DCEp7blY)**
-* ⭐ **[NanoReview](https://nanoreview.net/en)** - Hardware Comparisons
+* ⭐ **[NanoReview](https://nanoreview.net/en)**, [Octoparts](https://octopart.com/), [Technical City](https://technical.city/), [TechPowerup](https://www.techpowerup.com/) or [Techspecs](https://techspecs.io/) - Hardware Comparisons
 * ⭐ **[rtings](https://www.rtings.com/)** - Hardware Reviews
 * ⭐ **[Open Benchmarking](https://openbenchmarking.org/)** - Hardware Benchmarks
 * ⭐ **[CPUBenchmark](https://www.cpubenchmark.net/)** or [NoteBenchcheck](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html) - GPU / CPU Benchmarks
 * ⭐ **[MechMap](https://www.mechmap.tech/)** / [Discord](https://discord.com/invite/mechkeys) or [Alexotos](https://www.alexotos.com/keyboard-vendor-list/) / [Discord](https://discord.com/invite/xMQArAaGRB) - Mechanical Keyboard Recommendations
-* [Technical City](https://technical.city/) or [Techspecs](https://techspecs.io/) - Hardware Comparisons
 * [LabGopher](https://www.labgopher.com/) - eBay Hardware Price Comparisons 
-* [TechPowerup](https://www.techpowerup.com/gpu-specs/) - GPU specs index
 * [/r/buildapc](https://reddit.com/r/buildapc) - PC Building Community / [Discord](https://discord.com/invite/buildapc)
 * [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
 * [/r/SuggestAPC](https://reddit.com/r/SuggestAPC) - PC Suggestion Community
