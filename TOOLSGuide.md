@@ -1737,6 +1737,7 @@ Twitch Stream Tracker
 * ⭐ **[4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_4chan_archives)** - Browse / Search 4Chan Archives
 * ⭐ **[4chan X](https://www.4chan-x.net/)** / [Themes](https://github.com/KevinParnell/OneeChan), [SpookyX](https://github.com/Fiddlekins/SpookyX), [Toshino](https://github.com/toshinoo/toshino), [4Chan XL](https://4chan-xl.kickin.rocks/), [4Chan XT](https://github.com/TuxedoTako/4chan-xt) or [Dollchan](https://dollchan.net/) - Adds Features to Imageboards
 * [Lurka](https://github.com/AdamSalma/Lurka) - 4chan Desktop Client
+* [LuckyChan](https://luckychan.app/) - Alt 4chan Browser
 * [RedditChan](https://reddit-chan.vercel.app/) - Reddit Style 4chan Browser
 * [4chanCode](https://4chancode.org/) - Code Style 4chan Browser
 * [4Webm](https://www.4webm.org/) - Load All Webm Videos in 4Chan Thread
@@ -1846,7 +1847,7 @@ Twitch Stream Tracker
 * [Drivers Collection](https://driverscollection.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Device Drivers / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Display Driver Removal Tool / [GitHub](https://github.com/Wagnard/display-drivers-uninstaller)
 * [NotMyFault](https://docs.microsoft.com/en-us/sysinternals/downloads/notmyfault) - Driver & Hardware Problem Identification Tool
-* [Redists](https://git.io/redists), [2](https://chse.dev/redists) - Install All Redist Files (direct x, visual c++ etc.)
+* [All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) or [Redists](https://git.io/redists) / [2](https://chse.dev/redists) - Install All Redist Files (direct x, visual c++ etc.)
 * [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
 * [DLL Downloader](http://www.dlldownloader.com/), [dll-hub](https://dll-hub.com/), [dlldump](https://dlldump.com/), [dllfile](https://dllfile.net/), [dll4free](https://dll4free.com/), [dllme](https://dllme.com/dll/files/steam_api32_dll.html) or [DLL-Files](https://www.dll-files.com/) - Windows DLL Files
 * [DLL-Hijack-Search-Order-BOF](https://github.com/EspressoCake/DLL-Hijack-Search-Order-BOF) - DLL File Search
