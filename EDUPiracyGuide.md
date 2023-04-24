@@ -358,7 +358,7 @@
 * [Falstad](http://www.falstad.com/) - Math & Physics Apps / Simulations
 * [Mujoco](https://github.com/deepmind/mujoco), [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
 * [PhysicsClassroom](https://www.physicsclassroom.com/) - Physics Lessons
-* []PhysicsTravelGuide(https://physicstravelguide.com/) - Physics Explanations
+* [PhysicsTravelGuide](https://physicstravelguide.com/) - Physics Explanations
 * [Physics and Maths Tutor](https://www.physicsandmathstutor.com/) - UK High School Notes & Papers
 * [Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php) - Physics Tools
 * [Algodoo](http://www.algodoo.com/) - Interactive Physics Tool
