@@ -364,7 +364,6 @@
 * [Anime5s](https://anime5s.com/) - Sub / Dub
 * [AnimeFreak](https://www.animefreak.vip/) - Sub / Dub
 * [DubbedAnime](https://dubbedanime.biz/) - Sub / Dub
-* [Funimation](https://www.funimation.com/shows/free/) - Sub / Dub
 * [Anipy](https://github.com/sdaqo/anipy-cli) - Anime Streaming CLI
 * [Yuna](https://yuna.moe/) - Anime Streaming App / [GitHub](https://github.com/BeeeQueue/yuna)
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/) / [Intro Skip](https://github.com/lexesjan/typescript-aniskip-extension)
