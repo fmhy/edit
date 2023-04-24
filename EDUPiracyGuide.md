@@ -358,6 +358,7 @@
 * [Falstad](http://www.falstad.com/) - Math & Physics Apps / Simulations
 * [Mujoco](https://github.com/deepmind/mujoco), [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
 * [PhysicsClassroom](https://www.physicsclassroom.com/) - Physics Lessons
+* []PhysicsTravelGuide(https://physicstravelguide.com/) - Physics Explanations
 * [Physics and Maths Tutor](https://www.physicsandmathstutor.com/) - UK High School Notes & Papers
 * [Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php) - Physics Tools
 * [Algodoo](http://www.algodoo.com/) - Interactive Physics Tool
@@ -478,6 +479,7 @@ Simulator
 * [Modern / Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps) - Map Resources
 * [Letters of Note](https://news.lettersofnote.com/) - Historical Letters
 * [Shorpy](https://shorpy.com/) - Historical Photos
+* [ManuscriptMiniatures](https://manuscriptminiatures.com/) - Medieval Manuscript Images
 * [Histography](https://histography.io/) or [Oldest](https://www.oldest.org/) - History Timelines
 * [Sciphilos](http://sciphilos.info/) - Historical Discovery Timeline
 * [The First World War](https://www.firstworldwar.amdigital.co.uk/) - WW1 Study Material
@@ -674,6 +676,7 @@ Simulator
 * [GetKanda](https://getkana.com/app/), [Nihonoari](https://github.com/aeri/Nihonoari-App) or [RealKana](https://realkana.com/) - Learn Kana
 * [WaniKani](https://www.wanikani.com/), [KanjiDamage](https://www.kanjidamage.com/) / [KanjiDamagePlus](https://kanjidamageplus.neocities.org/), [Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo), [Koohii](https://kanji.koohii.com/) / [Deck](https://ankiweb.net/shared/info/748570187), or [Manji](https://github.com/Livinglist/Manji) - Learn / Practice Kanji
 * [KanjiTomo](https://kanjitomo.net/) - Kanji Character Identifier
+* [Nippon Colors](https://nipponcolors.com/) - Traditional Japanese Color Meanings
 
 ***
 
@@ -974,7 +977,7 @@ Simulator
 * [NandGame](https://nandgame.com/) - Computer Building Puzzle
 * [Kialo](https://www.kialo.com/) or [Level Point](https://levelpoint.app/) - Debates / Discussion
 * [Tabby Cat](https://github.com/TabbycatDebate/tabbycat) - Debate Tournament Tabulation Software
-* [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/) - Learn about Logical Fallacies
+* [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
 * [Debunking Skeptics](https://www.debunkingskeptics.com/) - Pseudo-Skeptical Fallacies
 * [YourBiasIs](https://yourbias.is/) - Learn about Biases
 * [LessWrong](https://www.lesswrong.com/) - Develop Rationality
