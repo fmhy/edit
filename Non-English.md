@@ -1358,7 +1358,7 @@
 # ► Russian
 
 * ⭐ **[Russian Internet Blackout Bypass Guide](https://telegra.ph/CHto-delat-pri-otklyuchenii-interneta-02-27), [2](https://www.the-village.ru/situation/howto/otklyuchenie-interneta)**
-* ⭐ **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_legal_talk](https://t.me/rks_legal_talk) / [rks_org_Bot](https://t.me/rks_org_bot) / [rks_tech_talk](https://t.me/rks_tech_talk) - Piracy Discussion Telegram
+* ⭐ **[РосКомСвобода](https://t.me/roskomsvoboda_discuss)** / [roskomsvoboda](https://t.me/roskomsvoboda) / [rks_legal_talk](https://t.me/rks_legal_talk) / [rks_org_Bot](https://t.me/rks_org_bot) / [rks_tech_talk](https://t.me/rks_tech_talk) or [Ru.Board](http://forum.ru-board.com/) - Piracy Discussion Telegram
 * [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) / [GitHub](https://github.com/greatfire/freebrowser) - Internet Censorship Circumvention
 * [new-russia-keyboard-flag](https://github.com/ManeFunction/new-russia-keyboard-flag) - JZUKEN Keyboard Layout for macOS
 * [DXP](https://dxp.ru/) - Torrent / Subtitles
