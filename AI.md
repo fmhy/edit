@@ -269,7 +269,6 @@
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) - Protect Digital Art from AI Copies
 * [erasing](https://github.com/rohitgandikota/erasing) - Remove Concepts from SD Models
-* [SD Dynamic Threshholding](https://github.com/mcmonkeyprojects/sd-dynamic-thresholding)
 
 ***
 
