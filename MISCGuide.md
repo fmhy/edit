@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/UdEY9vt.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/GQmao7j.png)** - For mobile users
 
 ***
 *** 
@@ -21,11 +21,11 @@
 * ⭐ **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR)** - Site / Tool Index
 * ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
 * ⭐ **[Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)**, [2](https://github.com/Igglybuff/awesome-piracy), [3](https://archive.is/Z1tTr), [4](https://rentry.org/verycompletelistofpiratesites), [5](https://github.com/Tosoju/awesome-piracy) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
-* ⭐ **[WebOas.is](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) - Startpage / Site Index / [Source Code](https://pastebin.com/CczqreS4) / [Archive](https://rentry.co/e9y6b) / [FAQ](https://bin.disroot.org/?6a50fab15330b762#7VwnxM9Jsvp8wWmW6eFmmxyXppWVjErn4CMgd8wii9pC)
+* ⭐ **[WebOas.is](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) - Startpage / Site Index / [Forum](https://weboasis.app/forum/) / [Source Code](https://pastebin.com/CczqreS4) / [Archive](https://rentry.co/e9y6b) / [FAQ](https://bin.disroot.org/?6a50fab15330b762#7VwnxM9Jsvp8wWmW6eFmmxyXppWVjErn4CMgd8wii9pC)
 * ⭐ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)** - Artificial Intelligence Indexes
 * ⭐ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
 * ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Archiving Tool
-* ⭐ **[FMHY Guides](https://www.fmhy.ml/guides)** - List of Guides
+* ⭐ **[FMHY Guides](https://www.fmhy.ml/guides)** or [Pirate Haven](https://pirate-haven.github.io/) - Piracy Guides
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
 * [Alternative Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - Find Software / App Alternatives
 * [Similar Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_similar_site_indexes) - Find Sites Similar to Others
@@ -124,46 +124,9 @@
 
 ***
 
-# ► Piracy Discussion
-
-* ⭐ **[/m/piracy](https://www.reddit.com/user/nbatman/m/piracy/)**, [2](https://www.reddit.com/user/rekuloustoad/m/the_piracy_feed/) - Piracy Multireddit
-* ⭐ **[/r/piracy](https://reddit.com/r/piracy)** - [Lemmy Backup](https://lemmy.ml/c/piracy), [2](https://github.com/nid666/PiracyArchive) / [Remove Humor](https://redd.it/wz394j)
-* ⭐ **[/r/PiratedGames](https://www.reddit.com/r/PiratedGames/)** - Gaming / [Discord](https://discord.gg/dZWwhUy)
-* ⭐ **[OneHack](https://onehack.us/)** - Piracy Discussion / Sharing
-* [/r/DataHoarder](https://reddit.com/r/DataHoarder) - [Telegram](https://t.me/r_DataHoarder) / [/r/DHExchange](https://www.reddit.com/r/DHExchange/)
-* [Music Hoarders](https://discord.gg/d4hgc7GCAj) - Music Hoarding Community
-* [/r/trackers](https://reddit.com/r/trackers)
-* [/r/usenet](https://reddit.com/r/usenet) 
-* [/r/CrackSupport](https://reddit.com/r/CrackSupport) - Piracy / Gaming / Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch) / [FAQ](https://rentry.co/cracksupport)
-* [Weboas.is Forum](https://weboasis.app/forum/)
-* [SuperBay](https://forum.suprbay.org/) - Piracy Discussion
-* [Esoterica Avenue](https://discord.gg/enMG8bXUbn) - Guides / Piracy / Software / Gaming / Chat
-* [Sineater's Cove](https://discord.gg/nKstg6x) - Piracy / Emulator / Gaming / Anime Chat
-* [DarkSoftware](https://darksoftware.net/) - Game Piracy
-* [CS.RIN.RU](https://cs.rin.ru/forum)
-* [Ru.Board](http://forum.ru-board.com/)
-* [Piracy Forum](https://pirates-forum.org/) 
-* [Babiato](https://babiato.co/) 
-* [FileSharingTalk](https://filesharingtalk.com/forum.php)
-* [No Thought is a Crime](https://ntc.party/) - Internet Censorship Discussion
-* [Sonic Getaway](https://discord.gg/audiophile) - Music / Audio / Audio Gear Discussion
-* [GDrive Guides](https://t.me/gdriveguides) - GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)
-* [Fileforums](https://fileforums.com/) - Gaming / Emulator / Data Compression Discussion
-* [Pirate Haven](https://pirate-haven.github.io/) - Guides / Discussion / [Discord](https://discord.gg/JWqrdfN9Y8)
-* [Gamesurge](https://gamesurge.net/) - Gaming IRC Community
-* [Torrent Community](https://t.me/TorrentCommunity) - Telegram
-* [Archive Team](https://wiki.archiveteam.org/) - Data Archiving Community / [Subreddit](https://www.reddit.com/r/Archiveteam/)
-* [Gnutella Forums](https://www.gnutellaforums.com/) - File Sharing App Forums
-* [The Lost Media Wiki](https://lostmediawiki.com/) / [Forum](https://forums.lostmediawiki.com/)
-* [Krinkels](https://krinkels.org/) or [Encode](https://encode.su/) - Data Compression Discussion
-* [WJunction](https://www.wjunction.com/) - Pirate webhost / provider discussion 
-* [VRChat Modding Group](https://discord.gg/rCqKSvR) - VR Modding Discussion 
-* [More Piracy Subs](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits)
-
-***
-
 # ► Free Stuff
 
+* ⭐ **[OneHack](https://onehack.us/)** - Giveaway Community
 * ⭐ **[Give & Away](https://discord.gg/b4uTmX5PVq)** - Giveaway Server
 * ⭐ **[Free Packages](https://steamdb.info/freepackages/)** - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
 * ⭐ **[Unlimited Trials](https://rentry.co/unlimited-trials)** - Unlimited Free Trials Guide
@@ -233,6 +196,7 @@
 * [Latest Privacy](https://latestprivacy.org/), [Talos Blog](https://blog.talosintelligence.com/), [IT Security Guru](https://www.itsecurityguru.org/), [ThreatPost](https://threatpost.com/), [Calyx](https://calyxinstitute.org/), [Privacy International](https://www.privacyinternational.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - Privacy / Security News
 * [Netblocks](https://netblocks.org/) - Censorship News
 * [CBM](https://comicbookmovie.com/) - Comic, Movie & TV News
+* [AnotherDayAnotherDecade](https://www.anotherdayanotherdecade.com/) - AI News
 * [Tudum](https://www.netflix.com/tudum) - Netflix News
 * [Anime News Network](https://www.animenewsnetwork.com/) - Anime News
 * [Anime Corner](https://animecorner.me/) - Anime / Manga News
@@ -1192,6 +1156,7 @@
 * [Don’t kill my app!](https://dontkillmyapp.com/) - Manufacturer Battery Life vs. App Functionality
 * [PhoneSized](https://phonesized.com/) - Phone Size Comparisons
 * [DXOMARK](https://www.dxomark.com/) - Smartphone Quality Testing
+* [DVDReleaseDates](https://www.dvdsreleasedates.com/) - DVD Release Dates
 
 ***
 
@@ -1241,6 +1206,9 @@
 * [Omegle](https://www.omegle.com/) or [Chatiw](https://www.chatiw.me/) - Random Chat Rooms
 * [ASCII Roulette](https://github.com/dialup-inc/ascii) - Random ASCII Chat Rooms
 * [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
+* [SuperBay](https://forum.suprbay.org/) - Piracy Discussion
+* [Piracy Subs](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits) - Piracy Subreddits
+* [Marijuana Subs](https://www.reddit.com/r/trees/wiki/entreddits_social) - Marijuana Subreddits
 * [TheRPF](https://www.therpf.com/forums/) - Movie Costume / Prop Forum
 * [Websleuths](https://www.websleuths.com/) - Crime Solving Forum
 * [Translation Party](https://www.translationparty.com/) - Translation Parties
@@ -1335,10 +1303,15 @@
 * ⭐ **[Genetic Cars 2](https://rednuht.org/genetic_cars_2/)** - Random 2D Car Generator 
 * [Human Benchmark](https://humanbenchmark.com/) - Brain Games & Cognitive Tests
 * [Got Rhythm?](https://www.concerthotels.com/got-rhythm) - Rhythm / Tempo Test
+* [1000 Seconds](https://mattround.com/usvsth3m/1000-seconds/) - Test of Patience
+* [Just a Minute](https://jinay.dev/just-a-minute/) - Estimate a Minute
+* [Oracle](https://roadtolarissa.com/oracle/) - Try to Trick an AI
+* [Are You You?](https://www.areyouyou.eu/) - Try to Fool Face Recognition Software
 * [20Q](http://www.20q.net/) or [Akinator](https://en.akinator.com/) - 20 Questions
 * [Word Blanks](https://www.wordblanks.com/) or [Plot Generator](https://www.plot-generator.org.uk/) - Online Mad Libs
 * [David.li](http://david.li/) - Physics Games
 * [MagicKeyboard](http://magickeyboard.io/) - Try "feross", "hexbin", "rain", or "semi"
+* [Just Type Stuff](https://web.archive.org/web/20191229101209/https://justtypestuff.com/) - Type Things into Existence
 * [deardiary](https://deardiary.wtf/) - Machine Learning Diary / [Concept Video](https://youtu.be/Zc3qayGmYZQ)
 * [Windows93](http://www.windows93.net/) or [RacerTrash](https://racertrash.com/) - Retro Windows Emulator
 * [EmuOS](https://github.com/Emupedia/emupedia.github.io/) - Run Classic Games / Apps In Browser
@@ -1392,11 +1365,6 @@
 * [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en) - Lead a Blob Opera
 * [Incredibox](https://www.incredibox.com/demo/) - Make Beatboxing Beats
 * [bongo.cat](https://bongo.cat/) - Become Bongo Cat
-* [Just a Minute](https://jinay.dev/just-a-minute/) - Estimate a Minute
-* [1000 Seconds](https://mattround.com/usvsth3m/1000-seconds/) - Test of Patience
-* [Oracle](https://roadtolarissa.com/oracle/) - Try to Trick an AI
-* [Are You You?](https://www.areyouyou.eu/) - Try to Fool Face Recognition Software
-* [Just Type Stuff](https://web.archive.org/web/20191229101209/https://justtypestuff.com/) - Type Things into Existence
 * [SND](https://s-n-d.si/) - Strange Scrollable Story
 * [Draw a Stickman](https://drawastickman.com/) - Stickman Adventure
 * [Wonder of Wonder Art](https://aidn.jp/wowa/) - Create a Dancing Character
@@ -1412,6 +1380,7 @@
 * ⭐ **[Conspiracy Theory Iceberg](https://ipfs.io/ipfs/QmWszAAzXjaD6hQZXbfhF9qBFWpnPwZVWU131HVf42WZej)** - Conspiracies / Occult / Mythology / [Video Playlist](https://www.youtube.com/watch?v=7I2KJL-gJPU&list=PLfeWBGty_481haNoS_ozOVdIyOpyXMjUC)
 * ⭐ **[Ranker](https://www.ranker.com/)**, [Listography](https://listography.com/), [hero](https://hero.page/), [FlexLists](https://flexlists.com/), [TheTopsTens](https://www.thetoptens.com/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
 * ⭐ **[Fandom](https://www.fandom.com/)** - Fan Wikis / [Frontend](https://docs.breezewiki.com/Links.html) / [Old Style](https://greasyfork.org/en/scripts/438194-hydralize-fix-fandom-com)
+* ⭐ **[The Lost Media Wiki](https://lostmediawiki.com/)** / [Forum](https://forums.lostmediawiki.com/)
 * [Internet Map](http://internet-map.net/) - Map of the Internet
 * [Wikiverse](http://wikiverse.io/) - 3D Wiki Visualizer
 * [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
@@ -1443,7 +1412,6 @@
 * [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
 * [Learn Origami](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_origami) - Origami Examples / Tutorials
 * [Paper Plotter](https://felixboiii.github.io/paper-plotter/) - Create 3D Plots out of Paper
-* [Marijuana Subs](https://www.reddit.com/r/trees/wiki/entreddits_social) - Marijuana Related Subreddits
 * [Game a-b-street](https://github.com/a-b-street/abstreet) - Traffic Simulation
 * [Kalmany](https://www.kalmany.org/) - Mock Elections
 * [Moral Machine](https://www.moralmachine.net/) - Machine Intelligence Moral Decisions
