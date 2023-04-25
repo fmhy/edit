@@ -300,6 +300,7 @@
 * [lightnovel.us](https://www.lightnovel.us/) - Light-Novels
 * [txt900](https://www.txt990.org/) - Light-Novels
 * [Zongheng](https://www.zongheng.com/) - Light-Novels
+* [Bixiange](https://www.bixiange.top/) - Light-Novels
 * [118book](https://www.118book.com/) - Light-Novels
 * [ffxs8](https://ffxs8.com/) - Light-Novels
 * [Piaotian](https://www.ptwxz.com/) - Light-Novels
@@ -1809,7 +1810,6 @@
 
 ## ▷ Downloading
 
-* [TurkishDrive](https://discord.gg/rkvnDa3qhP) - Drive Sharing Community
 * [Fullhdfilmizlesene](https://www.fullhdfilmizlesene.pw) - Movies / Choose Voltran & press "скачать" for DL's
 * [MP3 Indir](https://www.mp3indirdur.mobi/) - Music
 
