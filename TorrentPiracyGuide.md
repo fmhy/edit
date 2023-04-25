@@ -196,10 +196,12 @@
 # ► Tracker Invites
 
 * ⭐ **[Private Trackers General](https://rentry.co/private-trackers)** or [Private Trackers Guide](https://wiki.installgentoo.com/wiki/Private_trackers) - Private Tracker Guides
+* ⭐ **[Graph](https://inviteroute.github.io/graph/)** - Private Tracker Connections Guide
 * [TrackerStatus](https://trackerstatus.info/) - Tracker Status Updates
 * [Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated) - Warez / Scene Site Index
 * [/r/OpenSignups](https://reddit.com/r/OpenSignups)
 * [/r/Invites](https://reddit.com/r/Invites)
+* [/r/trackers](https://reddit.com/r/trackers)
 * [MyAnonaMouse](https://www.myanonamouse.net/) - Open Applications
 * [CinemaZ](https://cinemaz.to/auth/register) - Movies / TV / Open Registrations
 * [AvistaZ](https://avistaz.to/auth/register) - Asian Movies / TV / Open Registrations
