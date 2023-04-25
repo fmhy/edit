@@ -45,7 +45,8 @@
 * [CharacterHub](https://www.characterhub.org/) - Characters for LLMs
 * [AI Anything](https://aianything.netlify.app/) - Create Chatbots
 * [Alt-GPT](https://github.com/Feedox/alt-gpt) - Create GPT Plugins
-* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Fully Autonomous GPT-4
+* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Autonomous GPT-4
+* [MicroGPT](https://github.com/muellerberndt/micro-gpt) - Autonomous GPT-3.5 / GPT-4
 * [Kajiwoto](https://kajiwoto.com/), [Miki](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
 
 ***
@@ -143,6 +144,7 @@
 * [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - Story Writing AI
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [GodAI](https://awk.itch.io/godai) - Story Writing AI
+* [Tome](https://beta.tome.app/) - Story Writing AI
 * [Character Creator](https://oobabooga.github.io/character-creator) - Character Generation AI
 * [GPTForSlides](https://www.gptforslides.app/) or [Chat-GPT-PPT](https://github.com/williamfzc/chat-gpt-ppt) - Presentation AIs
 * [EssayGen](https://github.com/daijro/EssayGen/) - Essay Writing AI
