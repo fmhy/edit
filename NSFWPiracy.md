@@ -229,6 +229,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Gay-Hotfile](https://gay-hotfile.errio.net/) - Downloads
 * [Yupdates](https://yupdates.neocities.org/) - Gay Porn Artwork / [Drives](https://cat.yupdates.art/) / [Discord](https://discord.com/invite/ECFKuBawQg)
 * [PBC](https://pbc.xxx/) - Gay Porn Encyclopedia
+* [BLCollection](https://blcollection.co/) - Boys Love Manga
 
 ***
 
