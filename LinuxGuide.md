@@ -433,7 +433,7 @@
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - UEFI Kexts
 * [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913?mt=12) or [Progressive Downloader](https://macpsd.net/) - File Download Manager
 * [AirDrop to Windows](https://redd.it/vthltc) - AirDrop to Windows Guide
-* [maestral](https://maestral.app/) - File Sharing App
+* [maestral](https://maestral.app/) or [NearDrop](https://github.com/grishka/NearDrop) - File Sharing Apps
 * [Adobe Creative Cloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#mac-adobe-cc) - Adobe CC Guides
 * [TNT-Adobe-Zii](https://telegra.ph/TNT-Adobe-Zii-for-MacOS-11-01) - Adobe CC Patcher / [Subreddit](https://www.reddit.com/r/AdobeZii/)
 * [Adobe Packager](https://github.com/Drovosek01/adobe-packager) - Adobe Portable Installer Script
