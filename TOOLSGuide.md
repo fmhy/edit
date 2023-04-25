@@ -629,6 +629,7 @@
 * [HookTheory](https://www.hooktheory.com/trends) - Chord Progression Library 
 * [#fretflip](https://fretflip.com/) - Create / Print Guitar Scales & Chord Charts 
 * [MusicKit](https://musickit.jull.dev/) - Metronome, Tuner & Tone Generator 
+* [Sonic Getaway](https://discord.gg/audiophile) - Music / Audio / Audio Gear Discussion
 * [HyperSpeaker](https://github.com/amansinh79/hyperspeaker) - Speaker Proxy 
 * [REW](http://www.roomeqwizard.com/) - Room Acoustic, Loudspeaker and audio device measurement
 * [Tuner Ninja](https://tuner.ninja/) - Instrument Tuner 
@@ -1376,13 +1377,13 @@
 * [Multi-Accounts 1 Email](https://rentry.co/altmethod) - How-to Create Multiple Accounts on One Email
 * [Dyno](https://dyno.gg/) - Change Discord Discriminator w/o Nitro / [How-To](https://i.imgur.com/lHRD42c.png) 
 * [Discord.ID](https://discord.id/) - Lookup a Discord User or Bot ID 
-* [Discord Markdown Cheatsheet](https://pbs.twimg.com/media/EhCUbVnWAAE5tHx?format=png&name=900x900), [2](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-), [3](https://c.r74n.com/discord/formatting) - Discord Markdown Guide
+* [Discord Markdown Guide](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51), [2](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-), [3](https://c.r74n.com/discord/formatting), [4](https://pbs.twimg.com/media/EhCUbVnWAAE5tHx?format=png&name=900x900) - Discord Markdown Guides
 * [Discord-Avatar](https://discord-avatar.com/) or [Toolscord](https://toolscord.com/) - Download Discord Avatars
 * [Discord Avatar Maker](https://discord-avatar-maker.app/) - Make Discord Avatars
 * [Better Default Discord](https://better-default-discord.netlify.app/) - Default Discord Avatars
 * [usrbg](https://github.com/Discord-Custom-Covers/usrbg) or [Pfps.gg](https://pfps.gg/) - Discord Custom Profile Backgrounds / [Discord](https://discord.gg/2YcxDChxS5)
-* [Discord Dev Badges](https://pastebin.com/JzrckCix) or [GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Unlock Discord Dev Badges / [Script](https://gist.github.com/Raraph84/cff3ff908a1f2692b9a8452d2f49c2bf)
-* [Discoed SVG Bagdes](https://github.com/Mattlau04/Discord-SVG-badges) - Discord Bagde Image Files
+* [Discord Dev Badges](https://pastebin.com/JzrckCix), [active-developer-badge](https://github.com/hackermondev/discord-active-developer-badge) or [GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Unlock Discord Dev Badges / [Script](https://gist.github.com/Raraph84/cff3ff908a1f2692b9a8452d2f49c2bf)
+* [Discoed SVG Bagdes](https://github.com/Mattlau04/Discord-SVG-badges) or [discord-badges](https://github.com/mezotv/discord-badges) - Discord Badge Image Files
 * [Auto Creative](https://auto.creavite.co/icons) - Animated Icon / Banner Generator
 * [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Adds Custom CSS Support 
 * [Discord Status](https://discordstatus.com/) - Check Discord Status 
@@ -1867,7 +1868,7 @@ Twitch Stream Tracker
 * [CenterOfMyScreen](https://centerofmyscreen.com/) - Find Center of Monitor
 * [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test
 * [JScreenFix](https://www.jscreenfix.com/) or [UDPixel](http://udpix.free.fr/) - Repair Stuck Pixels
-* [Pastas](https://rentry.org/pastas#guides), [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - General Windows Guides / Tutorials
+* [Pastas](https://rentry.org/pastas#guides), [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/), [SevenForums](https://www.sevenforums.com/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - General Windows Guides / Tutorials
 * [DisplayFusion](https://www.displayfusion.com/) or [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - Dual Monitor Tools
 * [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - Show Desktop For Only One Monitor
 * [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) or [Autostart](https://github.com/snail007/autostart) - Change Startup Programs
@@ -1876,7 +1877,7 @@ Twitch Stream Tracker
 * [[SuperF4](https://stefansundin.github.io/superf4/) , KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://m.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
 * [DependecyWalker](https://www.dependencywalker.com/) or [Dependencies](https://github.com/lucasg/Dependencies) - View Application Dependencies 
-* [Deskreen](http://deskreen.com/) - Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen)
+* [Deskreen](http://deskreen.com/) or [SpaceDesk](https://www.spacedesk.net/) - Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen)
 * [Netmaker](https://gravitl.com/netmaker) - Create Virtual Network
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager 
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](http://www.keyefficiency.com/) - System Task Scheduler
@@ -2055,7 +2056,7 @@ Twitch Stream Tracker
 ## ▷ Tweaking
 
 * ⭐ **[MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html)**, [XTR Toolbox](https://zeeex.github.io/XTR-Toolbox/) / [GitHub](https://github.com/Zeeex/XTR-Toolbox/), [TweakUtility](https://github.com/Craftplacer/TweakUtility), [MagicX Toolbox](https://github.com/ehsan18t/MagicX-Toolbox), [Sophia](https://github.com/farag2/Sophia-Script-for-Windows), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Sophia-Script-for-Windows), [Post Tweaks](https://github.com/ArtanisInc/Post-Tweaks), [WinSlap](https://github.com/svenmauch/WinSlap) or [Cairo](https://cairoshell.com/) - Windows Tweaking Tools
-* ⭐ **[Redwan's Guide to Guides](https://docs.google.com/document/d/1hZeQkyDe-M9-zNy2eB-Koc3iOpN5-5KxkpvjQaNK60g/)**, [Couleur Tweak Tips](http://discord.gg/CTT), [Redwan Tweaks](https://discord.gg/4RhQurkFBZ) or [TweakCentral](https://tweakcentral.net/) - Windows Tweaking Guides
+* ⭐ **[Redwan's Guide to Guides](https://docs.google.com/document/d/1hZeQkyDe-M9-zNy2eB-Koc3iOpN5-5KxkpvjQaNK60g/)**, [Couleur Tweak Tips](http://discord.gg/CTT), [PC-Tuning](https://github.com/amitxv/PC-Tuning), [Redwan Tweaks](https://discord.gg/4RhQurkFBZ) or [TweakCentral](https://tweakcentral.net/) - Windows Tweaking Guides
 * ⭐ **[PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/)** / [GitHub](https://github.com/microsoft/PowerToys), [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) / [Suite](https://www.microsoft.com/EN-US/p/app/9P7KNL5RWT25), [CWCodes](http://cwcodes.net/), [Progress Tools](https://www.progress-tools.x10.mx/), [Guru3D](https://www.guru3d.com/files-categories), [JaxCore](https://jaxcore.app/) or [JoeWare](https://www.joeware.net/freetools/index.htm) - System Tools
 * [Nsudo](https://github.com/M2Team/NSudo) - System Admin Tools
 * [Win10 Widgets](https://win10widgets.com/), [BeWidgets](https://www.microsoft.com/en-us/p/bewidgets/9nq07fg50h2q) or [Eww](https://github.com/elkowar/eww) - Widgets for Windows 
@@ -2239,7 +2240,7 @@ Twitch Stream Tracker
 * [Extract_Zip](https://colab.research.google.com/drive/1L74g3bsV0YEMbDSUj4Kxrwi26mgjxVpp?usp=sharing) - Extract Zip Files in GDrive
 * [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive 
 * [CloneBot](https://github.com/MsGsuite/CloneBot_Heroku) or [drive-folder-copier](https://github.com/SingularReza/drive-folder-copier) - Copy GDrive to TeamDrive
-* [Copy Google Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_copy_google_drives) - Make GDrive Copies 
+* [Copy Google Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_copy_google_drives) - Make GDrive Copies
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
 * [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive 
 * [goodls](https://github.com/tanaikech/goodls) - Google Drive Downloader
@@ -2290,6 +2291,7 @@ Twitch Stream Tracker
 * [File Juggler](https://www.filejuggler.com/) - Organize Files Automatically
 * [Phockup](https://github.com/ivandokov/phockup) - Organize Photo / Video Files by Date 
 * [WeCompress](https://www.wecompress.com/), [Compress2Go](https://www.compress2go.com/), [Compress.com](https://www.compresss.com/), [Cloudpresso](https://cloudpresso.com/), [Compress-Online](https://compress-online.com/) or [YouCompress](https://www.youcompress.com/) - Online File Compressors
+* [Fileforums](https://fileforums.com/), [Krinkels](https://krinkels.org/) or [Encode](https://encode.su/) - Data Compression Forums
 * [czkawka](https://github.com/qarmin/czkawka) - Remove Unnecessary Files 
 * [DBAN](https://dban.org/) or [KillDisk](http://killdisk.com/killdisk-home.htm) - Data Removal Tool 
 * [UnLock IT](https://emcosoftware.com/unlock-it/download), [Lock Hunter](https://lockhunter.com/) or [FileExile](https://sourceforge.net/projects/filexile/) - File Unlocker / Deleter
