@@ -44,6 +44,7 @@
 * [GrimReaper's Scene ISO Collection](https://archive.org/details/@waffess) - ISO Collection
 * [Redump Forum](http://forum.redump.org/) - Disc Preservation Project
 * [Scene Release Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scene_release_trackers) - Get Scene Release Updates
+* [/r/CrackSupport](https://reddit.com/r/CrackSupport) - Cracking Discussion / [Matrix](https://matrix.to/#/!MFNtxvVWElrFNHWWRm:nitro.chat?via=nitro.chat&via=envs.net&via=matrix.org) / [Guilded](https://guilded.gg/crackwatch) / [FAQ](https://rentry.co/cracksupport)
 
 ***
 
@@ -187,6 +188,7 @@
 * [TheRomDepot](https://theromdepot.com/) - ROMs
 * [Squid Proxy](https://github.com/nbats/FMHYedit/blob/main/base64.md#squid-proxy) - ROMs
 * [Rom GDrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#rom-gdrive) - ROMs
+* [Arquivista ROMs](https://github.com/nbats/FMHYedit/blob/main/base64.md#arquivista) - ROMs
 * [@Storage_Manager](https://github.com/nbats/FMHYedit/blob/main/base64.md#storage_manager) - ROMs / Zip 
 * [FinalBurn Neo](https://github.com/nbats/FMHYedit/blob/main/base64.md#finalburn-neo) - ROMs / Zip 
 * [Everdrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#everdrive) - ROMs / Zip
@@ -832,6 +834,7 @@
 * [Thunderstore](https://northstar.thunderstore.io/) - Northstar Mods
 * [Modding-OpenMW](https://modding-openmw.com/) - Morrowind Mods
 * [CT3Tweaks](https://ct3tweaks.stashy.dev/) - Crazy Taxi 3 Tweak Tool / [GitHub](https://github.com/stashymane/ct3tweaks)
+* [VRChat Modding Group](https://discord.gg/rCqKSvR) - VR Modding Discussion 
 
 ***
 
@@ -860,7 +863,8 @@
 * [Orcz](http://orcz.com/) - Game Database
 * [FrontierNav](https://frontiernav.net/) - Game Database
 * [IMDb Advanced Search](https://www.imdb.com/search/) - Game Search
-* [Ethereal Games](https://wiki.etherealgames.com/) or [JRGPC](https://jrpgc.com/) - JRPG Databses
+* [Ethereal Games](https://wiki.etherealgames.com/) or [JRGPC](https://jrpgc.com/) - JRPG Databases
+* [RPGCodex](https://rpgcodex.net/forums/) - RPG Databse / Forum
 * [SteamPeek](https://steampeek.hu/) - Indie Game Database
 * [RetroShowcase](https://www.retroshowcase.gr/) - Retro Game Database
 * [Sega Retro](https://segaretro.org/) - Sega Game Database
@@ -1045,7 +1049,7 @@
 * [Streamer Mode](https://github.com/taskinoz/Streamer-Mode) - Hide Player Names to Avoid Stream Sniping
 * [BakkesMod](https://bakkesmod.com/) - Rocket League Trainer
 * [Tilted Online](https://github.com/tiltedphoques/TiltedEvolution) - Multiplayer Skyrim & Fallout 4 / [Discord](https://discord.gg/skyrimtogether) / [Setup Guide](https://youtu.be/ytSftFoQQHA)
-* [New Vegas: Multiplayer](https://wiki.nv-mp.com/en/getting-started) - Multiplayer Fallout: New Vegas
+* [NV:MP](https://nv-mp.com/) - Fallout: New Vegas Multiplayer
 * [csgo-mm-server-picker](https://github.com/Jyben/csgo-mm-server-picker) - CS:GO Server Picker
 * [Simple Radar](https://readtldr.gg/simpleradar) - Improved CS:GO Radar
 * [CSGO Trader](https://csgotrader.app/) - CS:GO Trading Enhancements
