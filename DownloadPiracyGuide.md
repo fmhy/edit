@@ -36,7 +36,6 @@
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) or [AutoIndex](http://autoindex.sourceforge.net/) - Open Directory Indexer
 * [Directory Lister](https://directorylister.com/) - Open Directory Explorer
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - Search Pastebin Directories
-* [Data Horde](https://datahorde.org/) or [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/)- Data Archivist Groups
 * [CD.TextFiles](http://cd.textfiles.com/) - CD Text File Archive
 * [Defacto2](https://defacto2.net/home) - Scene / Sub-Scene Database
 * [Google Piracy Groups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_piracy_discussion_groups) - Use these to join TeamDrives
@@ -54,7 +53,7 @@
 * ⭐ **[Bitdownload](http://bitdownload.ir/)** - Video / Audio / Software / Games / Android / Courses / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[The-Eye](https://the-eye.eu/)** - Audio / ROMs / Books / Comics / Magazines / Software / [Discord](https://discord.com/invite/6hr2Xsm)
 * ⭐ **[Archive.org](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader)
-* ⭐ **[/r/DataHoarder](https://reddit.com/r/DataHoarder)**, [Gnutella Forums](https://www.gnutellaforums.com/) or [FileSharingTalk](https://filesharingtalk.com/forum.php) - File Hoarding Forums / [Telegram](https://t.me/r_DataHoarder) / [/r/DHExchange](https://www.reddit.com/r/DHExchange/)
+* ⭐ **[/r/DataHoarder](https://reddit.com/r/DataHoarder)**, [Data Horde](https://datahorde.org/), [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/), [Gnutella Forums](https://www.gnutellaforums.com/) or [FileSharingTalk](https://filesharingtalk.com/forum.php) - File Hoarding Forums
 * [WarezForums](https://warezforums.com/) - Video / Audio / Games / ROMs / Software / Books / Comics / Android / [Account Application](https://t.me/joinchat/AAAAAFRH5fns4IiE-T2TcA)
 * [rlsbb](http://rlsbb.ru/), [2](https://rlsbb.to/), [3](https://comment.rlsbb.cc/) - Video / Audio / Games / Software / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker) / [Proxy](https://www.proxybb.com/)
 * [AsanDL](http://asandl.com/) - Video / Audio / Games / Software / Books / Magazines / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
