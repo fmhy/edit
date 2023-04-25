@@ -47,8 +47,6 @@
 * [Alt-GPT](https://github.com/Feedox/alt-gpt) - Create GPT Plugins
 * [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Fully Autonomous GPT-4
 * [Kajiwoto](https://kajiwoto.com/), [Miki](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
-* [YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained Language Model
-* [Bloom](https://huggingface.co/bigscience/bloom) - Open-access Multilingual Language Model
 
 ***
 
@@ -140,7 +138,7 @@
 * [gpt3](https://gpt3.ethio-tech.com/) - GPT-3 Based AI
 * [Transformer](https://transformer.huggingface.co/) - GPT-2 Based AI
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Text AI / [API](https://github.com/acheong08/EdgeGPT)
-* [AirOps](https://www.airops.com/) - Task-Specific AI Text Generators
+* [AirOps](https://www.airops.com/) or [Cognosys](https://www.cognosys.ai/) - Task-Specific AI Text Generators
 * [NovelAI](https://novelai.net/) / [2](https://rentry.org/sdg_FAQ) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz)
 * [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - Story Writing AI
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
@@ -165,6 +163,7 @@
 * [InkForAll](https://app.inkforall.com/tools) - Multiple AI Text Tools
 * [SheetPlus](https://sheetplus.ai/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [ExcelFormulaBot](https://excelformulabot.com/) - Excel AI Tools
 * [GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) - Text Classification AI
+* [MathGPT](https://mathgpt.streamlit.app/) - Math Solving AI
 * [Auto Text Expander](https://pastebin.com/TFPRieVN) - Shortcuts to Expand & Replace Text as you Type 
 
 ***
@@ -206,7 +205,7 @@
 # ► Image Generators
 
 * ⭐ **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) - AI Image Generator /  [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk) / [Generative Engine](https://experiments.runwayml.com/generative_engine/)
-* ⭐ **[DALL-E](https://labs.openai.com/)** or [ruDALL-E](https://rudalle.ru/en/) - AI Image Generator / [WorkFlow](https://github.com/jina-ai/dalle-flow), [2](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb) / [CLI](https://github.com/raiyanyahya/dallecli)
+* ⭐ **[DALL-E](https://labs.openai.com/)** or [ruDALL-E](https://rudalle.ru/en/) - AI Image Generator / [WorkFlow](https://github.com/jina-ai/dalle-flow), [2](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb) / [CLI](https://github.com/raiyanyahya/dallecli) / [Bing](https://www.bing.com/images/create)
 * ⭐ **[Stability-AI](https://github.com/Stability-AI/stablediffusion)** /  [2](https://huggingface.co/spaces/stabilityai/stable-diffusion) - AI Image Generator / [Discord](https://discord.com/invite/stablediffusion) / [Variations](https://github.com/justinpinkney/stable-diffusion) 
 * ⭐ **[DeepAI](https://deepai.org/machine-learning-model/stable-diffusion)** / [2](https://deepai.org/machine-learning-model/text2img) - AI Image Generator / [Tools](https://deepai.org/apis)
 * ⭐ **[MagicBrush](https://www.magicbru.sh/)**, [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - AI Image Transformers
@@ -222,6 +221,7 @@
 * [Stable Horde](https://stablehorde.net/) - AI Image Generator / [Client](https://dbzer0.itch.io/lucid-creations)
 * [Pinegraph](https://pinegraph.com/create) - Image Transformation / Sketchpad
 * [SD GUI](https://nmkd.itch.io/t2i-gui) or [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Stable Diffusion GUIs / [Colab](https://colab.research.google.com/drive/1KeNq05lji7p-WDS2BL-86Z8Y9SluGng4?usp=sharing)
+* [Patience.ai](https://www.patience.ai/) - Multiple AI Image Generators
 * [InPainter](https://inpainter.vercel.app/paint) - AI Image Generator
 * [Mage](https://www.mage.space/) - AI Image Generator
 * [Dezgo](https://dezgo.com/) - AI Image Generator
@@ -235,6 +235,7 @@
 * [Visuali](https://visuali.io/) - AI Image Generator
 * [Ocriador](https://ocriador.app/) - AI Image Generator
 * [StableBoost](https://stableboost.ai/) - AI Image Generator
+* [Playgrounds.ai](https://playgrounds.ai/) - AI Image Generator
 * [BlueWillow](https://www.bluewillow.ai/) - AI Image Generator
 * [Artsio](https://artsio.xyz/) - AI Image Generator
 * [Satble UI](https://aqualxx.github.io/stable-ui/) - AI Image Generator
@@ -247,6 +248,7 @@
 * [DreamLike](https://dreamlike.art) - AI Image Generator
 * [hypnogram](https://hypnogram.xyz/) - AI Image Generator
 * [InstantArt](https://instantart.io/) - AI Image Generator
+* [OpenArt](https://openart.ai/) - AI Image Generator
 * [iamfy](https://www.iamfy.co/studio) - AI Image Generator
 * [AI Art Generator](https://neural.love/ai-art-generator) - AI Image Generator
 * [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent) - AI Image Generator
@@ -256,7 +258,8 @@
 * [InvokeAI](https://github.com/invoke-ai/InvokeAI) - AI Image Generator
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Waifu Diffusion](https://github.com/harubaru/waifu-diffusion) - Anime Image Generator
-* [SD InPainting](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) / [2](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting) / [3](https://replicate.com/stability-ai/stable-diffusion-inpainting) - AI Image Fill
+* [SD InPainting](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) / [2](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting) / [3](https://replicate.com/stability-ai/stable-diffusion-inpainting) or [Lama Cleaner](https://github.com/Sanster/lama-cleaner) - AI Image Fill / Item Removal
+* [StableDiffusionOnline](https://stablediffusiononline.net/) - Online AI Image Tools
 * [Gligen](https://huggingface.co/spaces/gligen/demo) - Open-Set Grounded Text-to-Image Generation
 * [AI Notebooks](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - AI Image Generation Colab
 * [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) - AI Image Generation Colab
@@ -305,7 +308,6 @@
 * [drfar](https://rentry.org/drfar) - InPainting Guide
 * [Model to InPainting Guide](https://redd.it/zyi24j)
 * [Gaugan2 Guide](https://youtu.be/r5P9-zOfWyE) - Gaugan2 Video Guide
-* [Midjourney Guide](https://marigoldguide.notion.site/marigoldguide/Visual-Guide-to-Midjourney-settings-using-mostly-Astronauts-2ae1d8bb125f46e2be9886119c36ecf0) - Midjourney Guide / [Cheatsheet](https://arjenharris.notion.site/arjenharris/Midjourney-Cheat-Sheet-271922c6869549898ead33eaf79517fa)
 * [AnimAnon](https://rentry.org/AnimAnon) - AI Drawn Anime Guide
 * [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english), [ora_train](https://rentry.org/lora_train), [lora-training-science](https://rentry.org/lora-training-science) or [The Other](https://rentry.org/59xed3) - LoRA SD Guides
 * [DummyLoRA](https://rentry.org/dummylora) - Local LoRA training guide
