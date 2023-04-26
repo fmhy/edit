@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/o38vaQR.png)** - For mobile users
+**[Table of Contents](https://i.imgur.com/x5UUK7t.png)** - For mobile users
 
 ***
 ***
@@ -1075,7 +1075,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Graph / Diagram Creators
 
-[app.diagrams](https://app.diagrams.net/) / [Git](https://github.com/jgraph/drawio), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [lybniz](https://github.com/thomasfuhringer/lybniz), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [graphonline](https://graphonline.ru/en/)
+[app.diagrams](https://app.diagrams.net/) / [Git](https://github.com/jgraph/drawio), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Diagrams](https://diagrams.net/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [lybniz](https://github.com/thomasfuhringer/lybniz), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [graphonline](https://graphonline.ru/en/), [GraphGPT](https://graphgpt.vercel.app/)
 
 ***
 
@@ -1741,6 +1741,20 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
+#### Password Data Breach Check
+
+⭐ **[HaveIBeenPwned PW](https://haveibeenpwned.com/Passwords)**
+
+[Intelligence X](https://intelx.io/), [psbdmp](https://psbdmp.ws/), [Dehashed](https://dehashed.com/), [Spycloud](https://spycloud.com/), [PasswordSearchBot](https://t.me/PasswordSearchBot), [ScatteredSecrets](https://scatteredsecrets.com/)
+
+***
+
+#### Password Generators
+
+[HawkPass](https://kalpetros.github.io/hawkpass/), [StrongPasswordGenerator](https://privacycanada.net/strong-password-generator/), [PassSnip](https://passnip.com/), [ExpressVPN PW Generator](https://www.expressvpn.com/password-generator), [MOAC](https://sr.ht/~seirdy/MOAC/), [Clover](https://cloverleaf.app), [passwrd](https://passwrd.in/#/), [RepasswordGenerator](https://www.repasswordgenerator.com/), [silverhammermba](https://silverhammermba.github.io/password/), [PasswordsGenerator](https://passwordsgenerator.net/), [DiceWare](https://diceware.rempe.us/), [Bitwarden PW Generator](https://bitwarden.com/password-generator/), [Passphrase Generator](https://www.fourmilab.ch/javascrypt/pass_phrase.html)
+
+***
+
 #### Password Managers
 
 * ⭐ **[KeePass XC](https://keepassxc.org/)**, [2](https://keepass.info/) - [Ports](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only Functionality](https://subdavis.com/Tusk/) / [CLI](https://github.com/rebkwok/kpcli)
@@ -1758,14 +1772,6 @@ Add the following commands to a search to manually scrape each site.
 * [TeamPass](https://teampass.net/) - Collaborative Password Manager
 * [Password Safe](https://www.pwsafe.org/) or [KDE Wallet Manager](https://userbase.kde.org/KDE_Wallet_Manager) - Password Managing Software
 * [Passbolt](https://www.passbolt.com/) or [PSONO](https://psono.com/) - Self-Hosted Password Manager
-
-***
-
-#### Password Data Breach Check
-
-⭐ **[HaveIBeenPwned PW](https://haveibeenpwned.com/Passwords)**
-
-[Intelligence X](https://intelx.io/), [psbdmp](https://psbdmp.ws/), [Dehashed](https://dehashed.com/), [Spycloud](https://spycloud.com/), [PasswordSearchBot](https://t.me/PasswordSearchBot), [ScatteredSecrets](https://scatteredsecrets.com/)
 
 ***
 
@@ -3437,7 +3443,7 @@ Add the following commands to a search to manually scrape each site.
 * [VueTube](https://github.com/VueTubeApp/VueTube)
 * [FreeTubeCordova](https://github.com/MarmadileManteater/FreeTubeCordova)
 * [ReVanced Patcher](https://github.com/decipher3114/Revancify)
-* [ReVanced Extended](https://github.com/inotia00/revanced-patches/tree/revanced-extended) - Revanced Extended Patches
+* [ReVanced Extended](https://github.com/inotia00/revanced-patches/tree/revanced-extended) / [2](https://github.com/NoName-exe/revanced-extended) - Revanced Extended Patches
 
 **ReVanced App Builders**
 
