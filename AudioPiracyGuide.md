@@ -473,7 +473,7 @@
 * [Music-Map](https://www.music-map.com/), [Panther](http://panther.audio/), [Musicroamer](https://www.musicroamer.com/), [Gnoosic](https://www.gnoosic.com/), [Music Galaxy](https://galaxy.spotifytrack.net/), [GNOD](https://www.gnod.com/) or [What The Fuck Should I Listen To Right Now?](https://www.whatthefuckshouldilistentorightnow.com/) - Artist Discovery Tools
 * [45Cat](http://www.45cat.com/) - Vinyl Ratings / Reviews
 * [TapeFear](https://www.tapefear.com/) or [SongsLikeX](https://songslikex.com/)  - Spotify Song Discovery
-* [Spotalike](https://spotalike.com/), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [Discoverify](https://discoverifymusic.com/), [Highlights2SPotify](https://highlights2spotify.com/), [Ripple](https://ripple.orcas.land/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generators
+* [Spotalike](https://spotalike.com/), [ChatGPTify](https://github.com/idilsulo/ChatGPTify), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [Discoverify](https://discoverifymusic.com/), [Highlights2SPotify](https://highlights2spotify.com/), [Ripple](https://ripple.orcas.land/) or [RadioNewify](https://radionewify.com/) - Spotify Playlist Generators
 * [TuneMunk](https://www.tunemunk.com/) - Spotify Playlist Sharing
 * [MusitcTo](https://www.musicto.com/) - Musician Curated Playlists
 * [UpcomingPlaylists](https://www.upcomingplaylists.com/) - Playlists of Artists Playing Live Near You
