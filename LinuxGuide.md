@@ -531,6 +531,7 @@
 # ► Mac Adblock / Privacy
 
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
+* ⭐ **[System Wide Adblocking](https://champagne.surge.sh/before-you-begin/important-tools/#free-system-wide-adblocking-for-ios-mac-android--windows)** / [2](https://redd.it/oyfmr1) - System Wide Adblocking Guides
 * [MacOS Security Tools](https://github.com/ashishb/osx-and-ios-security-awesome) - Mac Security Tools
 * [MacOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [Sentinel](https://getsentinel.io/) - Two-Factor Authentication
