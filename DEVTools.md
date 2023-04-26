@@ -69,6 +69,7 @@
 * [ReGeX](https://github.com/phikal/ReGeX) - ReGeX Learning Game / Android
 * [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering) - Reverse Engineering Course 
 * [High Assurance Rust](https://highassurance.rs/) - Software Development Guide
+* [LearnOpenGL](https://learnopengl.com/) - Learn OpenGL
 * [Devops Exercises](https://github.com/bregman-arie/devops-exercises) - DevOps Exercises
 * [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - Learn DevOps
 * [Awesome Microservices DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - .Net Microservice Guides
