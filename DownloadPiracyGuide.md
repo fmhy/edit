@@ -83,6 +83,7 @@
 * [sarzamindownload](https://www.sarzamindownload.com/) - Software / Games / Android
 * [FrostClick](https://www.frostclick.com/wp/) - Video / Audio / Software / Games / Books
 * [The Ambassador](https://ambassadorddl.site/) - Video / Games / Books
+* [WarezMagazine](https://warezmagazine.us/) - Video / Software / Books
 * [Leaker](https://leaker.me/) - Video / Audio / Games
 * [WorldSRC](https://www.worldsrc.net/) - Video / Audio / Games / Software / Android / [Donate](https://www.worldsrc.net/service_end)
 * [TehParadox](https://www.tehparadox.net/) - Video / Audio / Software / Games / Books / Magazines / ROMs / Android
@@ -205,9 +206,7 @@
 * ⭐ **[OldVersion](http://www.oldversion.com/)** - Old Versions of Software
 * ⭐ **[Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites)** - Software / App Alternatives
 * ⭐ **[Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**, [2](https://gitlab.com/awesome-selfhosted/awesome-selfhosted) - Selfhosted Software Index
-* ⭐ **[Ninite](https://ninite.com/)**, [Scoop](https://scoop.sh/), [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI), [CouleursToolbox](https://github.com/couleurm/couleurstoolbox), [0Install](https://0install.net/) / [GitHub](https://github.com/0install/0install) or [Patch My PC](https://patchmypc.com/home-updater) - Install / Update Multiple Programs at Once
-* ⭐ **[WinGet](https://github.com/microsoft/winget-cli)**, [WinInstall](https://winstall.app/), [Scoop The Installer](https://github.com/couleur-tweak-tips/the-installer), [RuckZuck](https://ruckzuck.tools/) or [bget](https://github.com/jahwi/bget) - Update Installed Programs
-* ⭐ **WinGet Tools** - [Tools](https://github.com/jdhitsolutions/WingetTools) / [Winget UI](https://github.com/marticliment/WingetUI) / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Pac-Man](https://github.com/rami3l/pacaptr)
+* ⭐ **[Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_package_managers)** - Install / Update Multiple Programs at Once
 * [Windows Ultimate Collection](https://forum.xda-developers.com/t/windows-ultimate-collection-guides.4507867/)
 * [OlderGeeks](https://oldergeeks.com/)
 * [Softpedia](https://www.softpedia.com/)
