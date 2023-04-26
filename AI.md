@@ -141,7 +141,7 @@
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Text AI / [API](https://github.com/acheong08/EdgeGPT)
 * [AirOps](https://www.airops.com/) or [Cognosys](https://www.cognosys.ai/) - Task-Specific AI Text Generators
 * [NovelAI](https://novelai.net/) / [2](https://rentry.org/sdg_FAQ) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz)
-* [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - Story Writing AI
+* [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - Story Writing AI / [GGML Models](https://github.com/LostRuins/koboldcpp)
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [GodAI](https://awk.itch.io/godai) - Story Writing AI
 * [Tome](https://beta.tome.app/) - Story Writing AI
@@ -161,6 +161,7 @@
 * [EleutherAI](https://6b.eleuther.ai/) - Text Autocomplete AI
 * [Talk to Transformer](https://app.inferkit.com/demo) - Text Autocomplete AI
 * [TextSynth](https://textsynth.com/playground.html) - Text Autocomplete AI
+* [Basaran](https://github.com/hyperonym/basaran) - Text Autocomplete AI
 * [Compose](https://www.compose.ai/) - Text Autocomplete AI Extension
 * [InkForAll](https://app.inkforall.com/tools) - Multiple AI Text Tools
 * [SheetPlus](https://sheetplus.ai/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [ExcelFormulaBot](https://excelformulabot.com/) - Excel AI Tools
@@ -374,7 +375,9 @@
 * [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
+* [MiniGPT-4](https://minigpt-4.github.io/) - Advanced Large Language Models
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
 * [Shap](https://github.com/slundberg/shap) - Language Model Response Analyzer
 * [Langchain](https://github.com/hwchase17/langchain) - Build Apps via LLM
+* [GPTCache](https://github.com/zilliztech/GPTCache) - LLM Response Cache
 * [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
