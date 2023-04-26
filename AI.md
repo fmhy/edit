@@ -23,7 +23,7 @@
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
 * [DeepAI](https://deepai.org/chat) - DeepAI's Chatbot
 * [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT-3 Based Chatbot
-* [Open Assistant](https://open-assistant.io/) - Open-Source Chatbot
+* [Open Assistant](https://open-assistant.io/) or [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbot
 * [ChatLLaMA](https://stuff.serp.ai/l/lora-weights) - LLaMA Based Chatbot
 * [Dalai](https://cocktailpeanut.github.io/dalai/) or [LLaMA C++](https://github.com/ggerganov/llama.cpp) - Self-Host Facebook Chatbot / [Guide](https://rentry.org/llama-tard-v2) / [WebUI](https://github.com/ItsPi3141/dalai)
 * [Alpaca Lora](https://huggingface.co/spaces/tloen/alpaca-lora) - Chatbot Built by Standford / [Git](https://github.com/antimatter15/alpaca.cpp) / [Guide](https://github.com/tatsu-lab/stanford_alpaca) / [Self-Host](https://github.com/tloen/alpaca-lora) / [Docker](https://github.com/chris-alexiuk/alpaca-lora) / [Frontend](https://github.com/ItsPi3141/alpaca-electron)
