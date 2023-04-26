@@ -114,7 +114,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Ana Dias Photography](https://www.anadiasphotography.com/) or [PmateHunter](https://pmatehunter.com/) - Playboy Images
 * [Simple-Costplay](https://www.simply-cosplay.com/) or [Hentai Costplays](https://hentai-cosplays.com) - Cosplay Images
 * [Rule34World](https://rule34.world/) - Rule 34 Images
-* [Kimchi TV](https://kimchi.tv/) - Asian Porn
 * [Republic of Korea](https://republic-of-korea.com/) - Asian Porn
 * [yadongkorea](https://yadongkorea.net/) - Asian Porn
 * [ArcJav](https://arcjav.com/) - Japanese Porn
@@ -177,7 +176,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [aesthetic_dvite](https://t.me/aesthetic_dvite) - Telegram
 * [destructiveaddiction](https://t.me/destructiveaddiction) - Telegram
 * @PornMirror - Telegram
-* [KinkBot](https://kinkbot.me/), [Boob Bot](https://www.boobbot.us/), [CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) or [multporn-image-downloader-v2](https://github.com/Official-Husko/multporn-image-downloader-v2) - Porn Image Downloaders
+* [Boob Bot](https://www.boobbot.us/), [CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) or [multporn-image-downloader-v2](https://github.com/Official-Husko/multporn-image-downloader-v2) - Porn Image Downloaders
 * [Pornhub DL Script](https://redd.it/ks5sba), [TubeOffline](https://www.tubeoffline.com/download-PornHub-videos.php) or [Savido Pornhub](https://www.savido.net/sites/pornhub) - Pornhub Downloader
 * [FC2 Gather](https://github.com/supsupsuperstar/fc2_gather) - FC2 Image Scraper
 
