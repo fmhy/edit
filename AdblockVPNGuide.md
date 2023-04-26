@@ -49,7 +49,7 @@
 * ⭐ **[DNS Providers](https://adguard-dns.io/kb/general/dns-providers/)** - DNS Provider Index
 * ⭐ **[DNS Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dns_filters)** - DNS Host File Blocking
 * ⭐ **[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome/wiki/Docker)** - DNS Adblocking / Self-Hosted / [Setup](https://github.com/klutchell/balena-adguard) / [Filters](https://github.com/hl2guide/AdGuard-Home-Whitelist)
-* ⭐ **[ahadns](https://ahadns.com/)** - DNS Adblocking
+* ⭐ **[ahadns](https://ahadns.com/)** - DNS Adblocking / [Guide](https://champagne.surge.sh/before-you-begin/important-tools/#free-system-wide-adblocking-for-ios-mac-android--windows)
 * ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking
 * ⭐ **[YogaDNS](https://yogadns.com/)** - DNS Adblocking
 * ⭐ **[ControlD](https://controld.com/)**, [DNS Jumper](https://sordum.org/7952/dns-jumper-v2-1/), [ChrisPC DNS Switch](https://www.majorgeeks.com/files/details/chrispc_dns_switch.html) or [Hetzner](https://www.hetzner.com/dns-console?country=us) - DNS Managers / Switchers
@@ -175,7 +175,7 @@
 ## ▷ Privacy Tools
 
 * ⭐ **[Privacy Tools / Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_tools)** - Indexes of Privacy Tools / Services
-* ⭐ **[Privacy Matters](https://www.securemessagingapps.com/)** - Privacy Based Messaging App Comparisons
+* ⭐ **[Secure Messaging Apps](https://www.securemessagingapps.com/)** - Privacy Based Messaging App Comparisons
 * ⭐ **[Encrypted Messangers](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers) - Encrypted Messaging Apps
 * ⭐ **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)** - Anonymous Text Verification
 * ⭐ **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support 
@@ -186,8 +186,8 @@
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
 * ⭐ **[Decentralized Social Networks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_decentralized_social_networks)** - Twitter / Facebook Alternatives
 * [Windows 10 Antispy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_antispy_tools)
+* [Password Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_generators) - Generate Secure Passwords
 * [PaP](https://trypap.com/), [PasswordMonster](https://www.passwordmonster.com/) or [How Secure Is My Password?](https://howsecureismypassword.net/) - Password Strength Check
-* [HawkPass](https://kalpetros.github.io/hawkpass/), [StrongPasswordGenerator](https://privacycanada.net/strong-password-generator/), [PassSnip](https://passnip.com/), [ExpressVPN PW Generator](https://www.expressvpn.com/password-generator), [MOAC](https://sr.ht/~seirdy/MOAC/), [Clover](https://cloverleaf.app), [passwrd](https://passwrd.in/#/), [RepasswordGenerator](https://www.repasswordgenerator.com/), [PasswordsGenerator](https://passwordsgenerator.net/), [DiceWare](https://diceware.rempe.us/) or [Bitwarden PW Generator](https://bitwarden.com/password-generator/) - Password Generators
 * [Authenticator](https://authenticator.cc/) - Generate Two-Factor QR Codes / [GitHub](https://gitlab.gnome.org/World/Authenticator)
 * [Privacy / Safety Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_guides) - Internet Privacy / Safety Guides 
 * [Open Source Guides](https://opensource.guide/) - Open Source Guide / [GitHub](https://github.com/github/opensource.guide)
