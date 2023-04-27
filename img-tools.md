@@ -233,14 +233,14 @@
 ## ▷  Meme Makers
 
 * [ImgFlip](https://imgflip.com/memegenerator), [Meme Town](https://meme.town/), [DrMemes](https://www.drmemes.com/), [MemeBetter](https://memebetter.com/), [meme-generator](https://newfastuff.com/meme-generator/) or [Emacs Meme Generator](https://github.com/larsmagne/meme) - Meme Creators
-* [MemeAtlas](https://www.memeatlas.com/) - Meme Database
-* [Memegine](https://memegine.com/) - Meme Search Engine
-* [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh) - Meme Templates
-* [Wojak Paradise](https://wojakparadise.net/) - Wojak Gallery
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
+* [Memegine](https://memegine.com/) - Meme Search Engine
+* [MemeAtlas](https://www.memeatlas.com/) or [Templates](https://drive.google.com/drive/folders/1Z4PSi2XmZ6x8I891xZSg5Cl4oNEOIRhh)  - Meme Templates
+* [Wojak Paradise](https://wojakparadise.net/) - Wojak Gallery
 * [Frinkiac](https://frinkiac.com/) - Simpsons Meme Generator 
-* [Morbotron](https://morbotron.com/) - Futurama Meme Generator 
+* [Morbotron](https://morbotron.com/) - Futurama Meme Generator
 * [BreakYourOwnNews](https://www.breakyourownnews.com/) - Breaking News Meme Generator
+* [MapMemes](https://www.mapmemes.com/) - Map Meme Generator
 * [WashYourLyrics](https://www.washyourlyrics.com/) - Hand Washing Meme Generator
 * [O RLY Cover Generator](https://dev.to/rly) - O RLY Meme Book Cover Generator
 
