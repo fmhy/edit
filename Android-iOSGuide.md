@@ -767,7 +767,6 @@ https://www.whosaidthat.uk/
 * [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) - Movies / TV / Anime
 * [FilmPlus](https://filmplus.app/) - Movies / TV
 * [IsraTV](https://isratv.netlify.app/) - Movies / TV / Live TV
-* [MediaBox HD](https://mediaboxhd.net/) - Movies / TV / Chromecast
 * WiWiCenter - [Movies / TV](https://cinema.wiwicenter.com/) / [Anime](https://anime.wiwicenter.com/) - Use Adblocker
 * [Upflix](https://www.upflix.net/) - Movies / TV
 * [TeaTV](https://forum.mobilism.org/search.php?keywords=teatv&sr=topics&sf=titleonly) - Movies / TV
@@ -1146,7 +1145,6 @@ https://www.whosaidthat.uk/
 * [Stremio](https://pastebin.com/Gy5xZny2) - Movies / TV / Anime / Use VPN / [Alt Method](https://imgur.com/JKxCR4s)
 * [Video Lite](https://apps.apple.com/sa/app/video-lite-no-ads/id1598997500) - Video Browser w/Adblock
 * [MovieByImage](https://apps.apple.com/us/app/movie-finder-movie-by-image/id1560301878) - Movies / Code: 777
-* [MediaBox](https://mediaboxhd.net/) - Movies / TV
 * [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756) - Movies / TV
 * [Blackbox](https://apps.apple.com/ca/app/black-box-movie-listing/id958957112) - Movies 
 * [Streamer](https://github.com/StreamerApp/Streamer) - Movies / TV
