@@ -32,6 +32,7 @@
 * [cleverbot](https://www.cleverbot.com/) - Browser Based Chatbot
 * [eviebot](https://www.eviebot.com/en/) - Browser Based Chatbot
 * [Kuki](https://chat.kuki.ai/chat) - Browser Based Chatbot
+* [gpt_fast_bot](https://t.me/gpt_fast_bot) - Telegram Based Chatbot
 * [AskEdith](https://www.askedith.ai/demo) - Job / Business Q&A AI
 * [Phind](https://www.phind.com/) - Developer Q&A AI
 * [Leon](https://getleon.ai/) - AI Assistant
@@ -67,7 +68,7 @@
 * [WeChat ChatGPT](https://github.com/fuergaosi233/wechat-chatgpt) - ChatGPT for WeChat
 * [ChatGPT Advanced](https://github.com/qunash/chatgpt-advanced) - Add Search Results to ChatGPT
 * [ChatGPT4Google](https://chatgpt4google.com/), [SublimeGPT](https://chrome.google.com/webstore/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea), [ChatGPT Search](https://greasyfork.org/en/scripts/456077), [ChatGPTGoogle](https://github.com/wong2/chatgpt-google-extension) or [ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Add ChatGPT to Search Results
-* [ShareGPT](https://sharegpt.com/) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
+* [ShareGPT](https://sharegpt.com/) / [Unfiltered](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
 * [ChatGPT Notification](https://chrome.google.com/webstore/detail/chatgpt-notification/eklmiefkbieejjjhmpjdllphmcjdndin) - Receive Notifications
 * [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear Chats
 * [EditGPT](https://www.editgpt.app/) - Proofread Chats
@@ -164,7 +165,7 @@
 * [Basaran](https://github.com/hyperonym/basaran) - Text Autocomplete AI
 * [Compose](https://www.compose.ai/) - Text Autocomplete AI Extension
 * [InkForAll](https://app.inkforall.com/tools) - Multiple AI Text Tools
-* [SheetPlus](https://sheetplus.ai/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [ExcelFormulaBot](https://excelformulabot.com/) - Excel AI Tools
+* [SheetPlus](https://sheetplus.ai/), [FormulaHive](https://formulahive.com/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [ExcelFormulaBot](https://excelformulabot.com/) - Excel AI Tools
 * [GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) - Text Classification AI
 * [MathGPT](https://mathgpt.streamlit.app/) - Math Solving AI
 * [Auto Text Expander](https://pastebin.com/TFPRieVN) - Shortcuts to Expand & Replace Text as you Type
@@ -260,8 +261,8 @@
 * [Diffuse The Rest](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest) - AI Image Generator
 * [InvokeAI](https://github.com/invoke-ai/InvokeAI) - AI Image Generator
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
-* [Waifu Diffusion](https://github.com/harubaru/waifu-diffusion) - Anime Image Generator
-* [SD InPainting](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) / [2](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting) / [3](https://replicate.com/stability-ai/stable-diffusion-inpainting) or [Lama Cleaner](https://github.com/Sanster/lama-cleaner) - AI Image Fill / Item Removal
+* [Waifu Diffusion](https://github.com/harubaru/waifu-diffusion) / [2](https://huggingface.co/hakurei/waifu-diffusion-v1-4/) or [BPModel](https://huggingface.co/Crosstyan/BPModel) - Anime Image Generators
+* [SD InPainting](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) / [2](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting) / [3](https://replicate.com/stability-ai/stable-diffusion-inpainting) / [4](https://github.com/geekyutao/Inpaint-Anything) or [Lama Cleaner](https://github.com/Sanster/lama-cleaner) - AI Image Fill / Item Removal
 * [StableDiffusionOnline](https://stablediffusiononline.net/) - Online AI Image Tools
 * [Gligen](https://huggingface.co/spaces/gligen/demo) - Open-Set Grounded Text-to-Image Generation
 * [AI Notebooks](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - AI Image Generation Colab
@@ -376,6 +377,7 @@
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
 * [MiniGPT-4](https://minigpt-4.github.io/) - Advanced Large Language Models
+* [Megatron-LM](https://github.com/NVIDIA/Megatron-LM#retro) - LLM Training Codebase
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
 * [Shap](https://github.com/slundberg/shap) - Language Model Response Analyzer
 * [Langchain](https://github.com/hwchase17/langchain) - Build Apps via LLM
