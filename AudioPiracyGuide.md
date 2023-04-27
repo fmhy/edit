@@ -135,7 +135,7 @@
 * [radiobot](https://t.me/radiobot) - Radio / Telegram
 * [Curseradio](https://github.com/chronitis/curseradio) or [Remixatron](https://github.com/drensin/Remixatron) - Radio CLI
 * [Rekt FM](https://rekt.network/) - Chill / Space / Dark / Horror Synth / EBSM / EDM Radio
-* [Nightwave Plaza](https://plaza.one/) or [vapor.fm](https://vapor.fm/) - Vaporwave Radio
+* [Nightwave Plaza](https://plaza.one/) - Vaporwave Radio
 * [Retrowave](https://retrowave.ru/) - Synthwave / Retrowave Radio
 * [Nightride.fm](https://nightride.fm/) - Synthwave / Darksynth Radio
 * [Di.fm](https://www.di.fm/) - Electronic Radio
@@ -313,7 +313,6 @@
 * [MartinRadio](https://www.martinradio.com/) - MP3
 * [Mixupload](https://mixupload.com/) - MP3
 * [Slider](https://slider.kz/) - MP3
-* [My Free MP3](https://www.my-free-mp3.cc/) - MP3
 * [geedryve](https://github.com/nbats/FMHYedit/blob/main/base64.md#geedryve) - MP3 
 * [Rhapsody](https://github.com/nbats/FMHYedit/blob/main/base64.md#rhapsody)- MP3
 * [Tyler](https://github.com/nbats/FMHYedit/blob/main/base64.md#tyler) - MP3
