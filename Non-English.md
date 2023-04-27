@@ -607,7 +607,7 @@
 
 ## ▷ Downloading
 
-* ⭐ **[OlaMovies](https://olamovies.cloud/)** - HD Movies / TV / [Telegram](https://t.me/olamovies_official_v3)
+* ⭐ **[OlaMovies](https://olamovies.monster/)** - Movies / TV
 * [MoviesMod](https://moviesmod.net.in/) - Movies / TV / [Telegram](https://t.me/moviesmodcom)
 * [MKV Mad](https://www.mkvmad.day/) - Movies / TV
 * [WorldFree4U](https://worldfree4u.health/) - Movies / TV
