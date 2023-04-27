@@ -23,7 +23,7 @@
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[VRPirates](https://t.me/vrpirates)** / [Wiki](https://wiki.vrpirates.club/), [ARMGDDN](https://t.me/ARMGDDNGames), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
 * ⭐ **[Game Download CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_download_cse)** / **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** - Multi-Site Search Engines
-* ⭐ **[/r/PiratedGames Mega](https://rentry.org/pgames-mega-thread)** / [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) or [CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461) - Game Piracy Megathreads / [Discord](https://discord.gg/dZWwhUy)
+* ⭐ **[/r/PiratedGames Mega](https://rentry.org/pgames-mega-thread)** / [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) or [CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461) - Game Piracy Megathreads
 * [Ova Games](http://www.ovagames.com/) - Download / Use Adblocker
 * [g4u](https://g4u.to/) - Download / pw: 404
 * [GLoad](https://gload.to/) - Download
@@ -58,7 +58,7 @@
 * ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/Up3YARe4RW) / [Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#silentycryings-game-drive)
 * ⭐ **[DODI Repacks](http://dodi-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
 * ⭐ **[M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)** - Download / [Discord](https://discord.gg/693hNBdymb)
-* [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - Download / Torrent / [Discord](https://discord.gg/HP5sQ6c)
+* [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - Download / Torrent
 * [ScOOter Repacks](https://web.archive.org/web/20230315064712/https://scooter-repacks.site/) - Download / Torrent
 * [Xatab Repacks](https://byxatab.com/), [2](https://otxatabs.net/)  - Torrent
 * [Darck Repacks](https://darckrepacks.com/) - Download
@@ -618,7 +618,7 @@
 * ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)**, [USAToday](https://games.usatoday.com/category/word), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)
 * ⭐ **[KillerCrossword](https://killercrossword.com/)** - No Clue Crosswords
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
-* [MakePrintPlay](https://makeprintplay.com/) or [XWords](https://www.xwords-generator.de/en) - Crossword Puzzle Creators
+* [XWords](https://www.xwords-generator.de/en) - Crossword Puzzle Creators
 * [eWordChallenge](https://www.ewordchallenge.net/) - Boggle
 * [ChessGuessr](https://www.chessguessr.com/) - Chess Style Wordle
 * [Game for the Brain](https://www.gamesforthebrain.com/) - Puzzles / Quizzes
@@ -682,6 +682,7 @@
 * ⭐ **[skribbl](https://skribbl.io/)**, [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * ⭐ **[GuessTheGame](https://guessthe.game/)** - Game Guessing Game
 * ⭐ **[GeoGuessr](https://www.geoguessr.com/)**, [Globle](https://globle-game.com/), [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - Location Guessing Game / [Guide](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
+* [20Q](http://www.20q.net/), [Guessdle](https://www.guessdle.com/) or [Akinator](https://en.akinator.com/) - 20 Questions
 * [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
 * [GuessMe!](https://zetoman77.itch.io/guessme) - Guess Answers
@@ -1086,7 +1087,6 @@
 * [FallGuysDB](https://fallguys-db.pages.dev/) - Fall Guys Store & Show Rotations
 * [Fortnite Tracker](https://fortnitetracker.com/) - Fortnite Leaderboards / Stats
 * [FortniteEXP](https://www.fortnitexp.net/) - Fortnite XP Progression / Leveling Rates
-* [HaloDotAPI](https://developers.halodotapi.com/) - Halo Stats, MOTD & UGC API
 * [Universal VPN Fixer](https://github.com/samfisherirl/VPNGamingPauser/) - Auto Pause VPN While Gaming Online
 * [Slippi](https://slippi.gg/) - Super Smash Bros Melee Online 
 * [GrassCutter](https://grasscutter.io/) - Genshin Impact 2.3-2.6 Server Software / [Discord](https://discord.gg/T5vZU6UyeG)
@@ -1268,7 +1268,7 @@
 * ⭐ **[5ETools](https://5e.tools/)**, [Kassoon](https://www.kassoon.com/dnd/) or [DragonsFoot](https://www.dragonsfoot.org/) - Dungeons & Dragons Tools
 * [Adventurer's Codex](https://adventurerscodex.com) - Online D&D 5e Campaign Manager / System
 * [The Acaeum](https://www.acaeum.com/) - Dungeons & Dragons Database
-* [Web Writer](http://www.web-writer.net/fantasy/days/index.html) or [DnD World Building](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - Fantasy World Building Guides
+* [DnD World Building](https://arcadia.net/Cruinne/DnD/Articles/worldbuilding.html) - Fantasy World Building Guides
 * [Archives of Nethys](https://aonprd.com/) - Pathfinder Database
 * [WarGamer](https://www.wargamer.com/) - Tabletop RPG Guides
 * [Roll20](https://roll20.net/) or [Rolisteam](https://rolisteam.org/) - Tabletop RPG Streaming
