@@ -27,7 +27,7 @@
 * [Roadmap](https://roadmap.sh/) - Developer Roadmaps / [Github](https://github.com/kamranahmedse/developer-roadmap)
 * [QuickRef.ME](https://quickref.me/), [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
 * [Programming Challenges](https://i.imgur.com/FPwNgOK.png), [HackTheEarth](https://www.hackerearth.com/challenges/), [EMKC](https://emkc.org/challenges) or [Code Golf](https://codegolf.stackexchange.com/) - Programming Challenges
-* [Codexplainer AI](https://chrome.google.com/webstore/detail/codexplainer-ai-beta/mekadgeckpcgideipfhbcapmenbadejp), [WDTCD?](https://whatdoesthiscodedo.com/) or [Denigma](https://denigma.app/#demo) - AI Code Explanations
+* [WDTCD?](https://whatdoesthiscodedo.com/) or [Denigma](https://denigma.app/#demo) - AI Code Explanations
 * [Coding Problems](https://github.com/MTrajK/coding-problems) - Solutions for Coding Problems
 * [RoboMind](https://www.robomind.net/) or [Checki0](https://checkio.org/) - Code Learning Games
 * [mimo](https://getmimo.com/) - Coding Tutorial App
@@ -89,7 +89,6 @@
 
 * ⭐ **[The Odin Project](https://www.theodinproject.com/)** - Full Stack Course
 * ⭐ **[FullStackOpen](https://fullstackopen.com/en/)** - Full Stack Course 
-* ⭐ **[Interneting is Hard](https://www.internetingishard.com/)** - HTML/CSS Course
 * ⭐ **[Learn to Code HTML & CSS](https://learn.shayhowe.com/)** - HTML/CSS Course
 * ⭐ **[JavaScript.info](https://javascript.info/)** - JavaScript Course 
 * ⭐ **[30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)** - Javascript Course
@@ -341,7 +340,7 @@
 * Generate Fake Data - [Ruby](https://github.com/faker-ruby/faker) / [Swift](https://github.com/vadymmarkov/Fakery)
 * [Awesome Big Data](https://github.com/0xnr/awesome-bigdata) - Big Data Resource Index
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
-* [Deps.dev](https://deps.dev/) or [OpenBase](https://openbase.com/) - Open Source Package Search
+* [Deps.dev](https://deps.dev/) - Open Source Package Search
 * [Packagedna](https://github.com/TelefonicaTC2Tech/packagedna) - Package Analyzing Software
 * [PackageCloud](https://packagecloud.io/) or [pnpm](http://pnpm.io/) - Package Manager / Deployment
 * [Upgraderoo](https://upgraderoo.janez.tech/) - Automatic NPM Package Updates
@@ -505,7 +504,7 @@
 * [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
 * [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
 * [takingnames](https://takingnames.io/blog/instant-subdomains) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains 
-* [TheDev](https://thedev.id/) or [Dev.page](https://dev.page/) - Free Developer Subdomains
+* [TheDev](https://thedev.id/) - Free Developer Subdomains
 * [redirect.name](https://redirect.name/) - URL Forwarding
 * [StatPing](https://github.com/statping/statping), [checkthe.website](https://checkthe.website/), [Better Uptime](https://betteruptime.com/), [CheckServer](https://check-host.net/), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [AreWeDown?](https://github.com/shukriadams/arewedown), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - Site Uptime Monitors
 * [UseMe](https://useme.org/) or [PingDom](https://tools.pingdom.com) - Ping Website
@@ -590,7 +589,7 @@
 * [live-chat-youtube](https://github.com/gabrielroriz/live-chat-youtube) - Embed YouTube Live Chat on Site
 * [Visiwig](https://www.visiwig.com/) - Copy / Paste Site Graphics
 * [Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation) - Web Animation Index
-* [WebDesigner](https://webdesigner.withgoogle.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/AriaMinaei/theatre), [Haiku](https://www.haikuanimator.com/), [Greensock](https://greensock.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [RenderForest](https://www.renderforest.com), [Mantra](https://jeremyckahn.github.io/mantra/) or [Animate.css](https://animate.style/) - Create Interactive Motion Graphics
+* [WebDesigner](https://webdesigner.withgoogle.com/), [T3](https://github.com/still-scene/t3), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/AriaMinaei/theatre), [Haiku](https://www.haikuanimator.com/), [Greensock](https://greensock.com/), [Stylie](https://jeremyckahn.github.io/stylie/), [RenderForest](https://www.renderforest.com), [Mantra](https://jeremyckahn.github.io/mantra/) or [Animate.css](https://animate.style/) - Create Interactive Motion Graphics
 * [Paramoji](https://paramoji.org/) - Parametric Emoji 
 * [useAnimations](https://useanimations.com/index.html), [Creattie](https://creattie.com/lottie-animated-icons/free) or [LordIcon](https://lordicon.com/) - Animated Icons
 * [Curzr](https://github.com/TaylonChan/Curzr) - Animated Cursors
@@ -616,7 +615,7 @@
 * [Bypass Cloudflare](https://github.com/jychp/cloudflare-bypass) - Bypass Cloudflare Bot Protection
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
 * [VPN Un-Blocking](https://medium.com/@innovativehazard/vpn-un-blocking-e0374b9c4d35) - Unblock Cloudflare Warp VPN Services
-* [CFScanner](https://github.com/MortezaBashsiz/CFScanner/), [cf-ip-scanner](https://vfarid.github.io/cf-ip-scanner1), [scanner](https://ircfspace.github.io/scanner/) or [cf-ip-scanner-py](https://github.com/vfarid/cf-ip-scanner-py) - Cloudflare IP Scanners
+* [CFScanner](https://github.com/MortezaBashsiz/CFScanner/), [scanner](https://ircfspace.github.io/scanner/) or [cf-ip-scanner-py](https://github.com/vfarid/cf-ip-scanner-py) - Cloudflare IP Scanners
 * [cloudflare-ip-tester-app](https://github.com/xianshenglu/cloudflare-ip-tester-app/) - Cloudflare IP Tester
 * [wgcf](https://github.com/ViRb3/wgcf) - Generate Cloudflare Warp Wireguard Config
 * [console.watch](https://console.watch/) - Remote Console Polyfill for Cloudflare Workers
@@ -826,6 +825,7 @@
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
 * [Aspect](https://sample-code.aspect.app/) - Copy React Code from Any Site
 * [Refine](https://refine.dev/) - React App Builder
+* [Codux](https://www.codux.com/) - Visual IDE for React
 * [React95](https://react95.io/) - Windows 95 React Components
 * [Zorm](https://github.com/esamattis/react-zorm) - ype-safe <form> for React
 * [Million](https://github.com/aidenybai/million) - React Replacement
@@ -1033,7 +1033,6 @@
 * [Sift](https://sift-tool.org/) - grep Alternative
 * [Edbrowse](http://edbrowse.org/) - Command Line Editor / Browser / Mail Client
 * [Cride](https://github.com/j8r/cride) - Command Line Editor
-* [tldr++](https://isacikgoz.me/tldr/) - Interactive TLDR Client
 * [Zoxide](https://github.com/ajeetdsouza/zoxide) - Improved CD Command
 * [YQ](https://github.com/mikefarah/yq) - Portable YAML Processor
 * [Dockerized](https://github.com/datastack-net/dockerized) - Docker Command-Line
@@ -1253,7 +1252,7 @@
 
 ## ▷ Cloud IDEs / Collab
 
-* ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [Deta](https://www.deta.sh/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [FireMonkeyX](http://www.firemonkeyx.com/), [Cloud9](https://aws.amazon.com/cloud9/) or [Glitch](https://glitch.com/) / [Replit Import](https://replit.com/glitch) / [GitHub](https://github.com/m3o/m3o)  - Cloud IDE
+* ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Repl.it](https://repl.it/), [BoostNote](https://boostnote.io/), [Aither](https://github.com/enoki-inc/aither), [Deta](https://www.deta.sh/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [FireMonkeyX](http://www.firemonkeyx.com/), [Cloud9](https://aws.amazon.com/cloud9/) or [Glitch](https://glitch.com/) / [Replit Import](https://replit.com/glitch) / [GitHub](https://github.com/m3o/m3o)  - Cloud IDE
 * ⭐ **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - Cloud IDE / VSCode 
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
 * [colab alive](https://github.com/sobuj53/colabAlive) - Keep Colab Open
@@ -1300,7 +1299,7 @@
 * [CSS Scan](https://chrome.google.com/webstore/detail/css-scan/gieabiemggnpnminflinemaickipbebg?hl=en) - CSS Editor
 * [CSS Protips](https://github.com/AllThingsSmitty/css-protips) or [CSS Reference](https://cssreference.io/) - CSS Guide
 * [Awesome CSS](https://github.com/awesome-css-group/awesome-css) - CSS Resources
-* [Cssgr](https://cssgr.id/), [BoxBox](https://seansleblanc.itch.io/boxboxhtml), [CSSGridGenerator](https://cssgrid-generator.netlify.app/) or [Layoutit Grid](https://grid.layoutit.com/) - CSS Grid Generators
+* [BoxBox](https://seansleblanc.itch.io/boxboxhtml), [CSSGridGenerator](https://cssgrid-generator.netlify.app/) or [Layoutit Grid](https://grid.layoutit.com/) - CSS Grid Generators
 * [AutoPrefixer](https://autoprefixer.github.io/) - CSS Prefixer
 * [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi) - CSS Element Outline Extension
 * [Water.css](https://watercss.kognise.dev/) - CSS Styles
