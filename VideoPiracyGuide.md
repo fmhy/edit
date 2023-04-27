@@ -269,7 +269,7 @@
 * [Prelinger Archives](http://www.panix.com/~footage/) - Ephemeral Films [Archive](https://archive.org/details/prelinger)
 * [StageDork](http://stagedork.com/), [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
 * [GlobalShakespeares](https://globalshakespeares.mit.edu/) - Shakespeare Performance Recordings
-* [SidePlusLeaks](https://sideplusleaks.com/) or [Titan The Pirate](https://titan-the-pirate.com/) - Sidemen Content  / [App](https://pixeldrain.com/u/PodC9xL2)
+* [SidePlusLeaks](https://sideplusleaks.com/) - Sidemen Content  / [App](https://pixeldrain.com/u/PodC9xL2)
 * [Unus Annus](https://archive.org/details/unus-annus) - Unus Annus Archive
 * [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/), [2](https://github.com/joric/bandersnatch) - Interactive player for Black Mirror: Bandersnatch
 * [ListenToAMovie](http://listentoamovie.com/) - Listen to Movies
@@ -334,9 +334,9 @@
 * [AnimeShow](https://www2.animeshow.tv/) - Sub
 * [AnimeNana](https://animenana.com/) - Sub
 * [Anify](https://anify.tv/) - Sub
-* [AnimeRush](https://www.animerush.tv/) - Sub / Dub
 * [KissCartoon.info](https://kisscartoon.info/) - Anime / Cartoons / Sub / Dub
 * [Animegg](https://www.animegg.org/) - Sub / Dub
+* [5Anime](https://5anime.ro/) - Sub / Dub
 * [Kawaiifu](https://kawaiifu.com/) - Sub / Dub
 * [AnimeHeaven](https://animeheaven.ru/) - Sub / Dub
 * [AnimeDao](https://animedao.to/) - Sub
@@ -351,7 +351,6 @@
 * [KimAnime](https://kimanime.com/) - Sub / Dub / [Discord](https://discord.com/invite/JdmpSF92N4)
 * [AnimeOnsen](https://animeonsen.xyz/) - Sub
 * [Animetake](https://animetake.tv/) - Sub
-* [AnimetTV](https://animet.tv/) - Sub / Dub / [Discord](https://discord.com/invite/nNY94AqFtK)
 * [Anime OWL](https://anime-owl.net/) - Sub / Dub / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [AnimeGo](https://reddit.animekisa.to/) - Sub / Dub
 * [ChiaAnime](https://chia-anime.su/) - Sub
@@ -415,7 +414,6 @@
 * [MyAsianTV](https://myasiantv.cx/) - TV / Movies
 * [OFWShow](https://ofwshow.ru/list/engsub/) - TV / Movies
 * [viewasian](https://viewasian.co/) - TV / Movies 
-* [AsianFlix](https://asianflix.co/) - TV / Movies
 * [NewAsianTV](https://www2.newasiantv.pro/) - TV / Movies
 * [bagikuy](https://bagikuy.com/) - TV / Movies
 * [Kissasian.video](https://kissasian.video/) - TV / Movies
