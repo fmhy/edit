@@ -290,6 +290,7 @@
 * [manhuagui](https://www.manhuagui.com/) - Manga
 * [manwa](https://manwa.me/) - Manga
 * [Rimanb](https://rimanb.com/) - Manga
+* [DMZJ](https://www.dmzj.com/) - Manga
 * [xlsmh](https://www.xlsmh.com) - Manga
 * [Laimanhua](https://www.laimanhua.net/) - Manga
 * [Mangabz](https://www.mangabz.com/) - Manga
@@ -607,7 +608,7 @@
 ## ▷ Downloading
 
 * ⭐ **[OlaMovies](https://olamovies.cloud/)** - HD Movies / TV / [Telegram](https://t.me/olamovies_official_v3)
-* [MoviesMod](https://moviesmod.net/) - Movies / TV / [Telegram](https://telegram.dog/moviesmodcom)
+* [MoviesMod](https://moviesmod.net.in/) - Movies / TV / [Telegram](https://t.me/moviesmodcom)
 * [MKV Mad](https://www.mkvmad.day/) - Movies / TV
 * [WorldFree4U](https://worldfree4u.health/) - Movies / TV
 * [HDVogo](https://www.hdvogo.cfd/) - Movies
@@ -988,6 +989,7 @@
 * [SalamDL](https://salamdl.me/) - Movies / TV
 * [AvaMovie](https://avamovie1.info/) - Movies / TV
 * [Film2Media](https://www.f2m.top/) - Movies / TV
+* [AIOFilm](https://aiofilm.top/) - Movies / TV / Anime
 * [iranianfilmarch](https://t.me/iranianfilmarch) - Movies / Telegram
 * [9movie](https://9movie.lol/) - Movies / TV / Anime / Iranian VPN Needed
 * [alefmovie](https://alefmovie.website/) - Movies / TV / Iranian VPN Needed
