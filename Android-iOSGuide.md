@@ -363,7 +363,7 @@ https://www.whosaidthat.uk/
 * [Migrate](https://play.google.com/store/apps/details?id=balti.migrate) - Migration Tool / Root Required
 * [Unchained for Android](https://github.com/LivingWithHippos/unchained-android) - App to interact with Real-Debrid API
 * [PowerTube](https://github.com/razar-dev/PowerTube), [VidMate](https://www.vidmate.com/) or [DVD](https://github.com/yausername/dvd) - Video Download Tools
-* [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [Seal](https://github.com/JunkFood02/Seal) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube A1udio / Video Downloader
+* [YouTubeDL Android](https://github.com/yausername/youtubedl-android), [Seal](https://github.com/JunkFood02/Seal) or [SongTube](https://github.com/SongTube/SongTube-App) - YouTube Audio / Video Downloader
 * [Transpose](https://chrome.google.com/webstore/detail/transpose-%E2%96%B2%E2%96%BC-pitch-%E2%96%B9-spee/ioimlbgefgadofblnajllknopjboejda?hl=en) - Online Video Pitch Shifter, Speed Changer and Looper
 * [Show Youtube Dislikes](https://github.com/jesperbakhandskemager/view-youtube-dislike) - Return YouTube Dislikes
 * [ZenTube](https://github.com/inversepolarity/ZenTube) - Hide / Show YouTube Features
