@@ -118,6 +118,7 @@
 * [podcastindex](https://podcastindex.org/) - Podcasts
 * [DigitalBook](https://www.digitalbook.io/) - Podcasts
 * [player.fm](https://player.fm/) - Podcasts
+* [Podcast Republic](https://www.podcastrepublic.net/) - Podcasts
 * [Relay.fm](https://www.relay.fm/) - Podcasts
 * [BlogTalkRadio](https://www.blogtalkradio.com/popular) - Podcasts
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Podcasts for Software Engineers
