@@ -613,7 +613,7 @@
 * [Splitter](https://www.splitter.ai/), [splitmysong](https://www.splitmysong.com/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
 * [Remove Vocals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remove_vocals) - Remove Vocal Tracks
 * [Acapella-Extractor](https://www.acapella-extractor.com/) - Remove Background Tracks from Songs
-* [Krisp](https://krisp.ai/), [Noise Suppression](https://github.com/werman/noise-suppression-for-voice) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) / [CLI](https://github.com/IniasP/rnnoise-cli) - Noise Suppression Tools
+* [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) / [CLI](https://github.com/IniasP/rnnoise-cli) - Noise Suppression Tools
 * [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10)or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixer
 * [Anchor](https://anchor.fm/), [Sound Branch](https://soundbran.ch/) or [ZenCastr](https://zencastr.com/) - Podcast Creators
 * [Spotify Podcasters](https://podcasters.spotify.com/) - Podcaster Dashboard
