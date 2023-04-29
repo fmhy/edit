@@ -1664,7 +1664,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Android To-Do Apps**
 
-[Tasks](https://tasks.org/), [Any.do](https://www.any.do/), [Simpletask](https://f-droid.org/en/packages/nl.mpcjanssen.simpletask), [Orgzly](https://github.com/orgzly/orgzly-android), [Dailly](https://github.com/hydroxion/dailly/), [Tasky](https://github.com/thatsmanmeet/Tasky)
+[Tasks](https://tasks.org/), [Any.do](https://www.any.do/), [Simpletask](https://f-droid.org/en/packages/nl.mpcjanssen.simpletask), [Orgzly](https://github.com/orgzly/orgzly-android), [Dailly](https://github.com/hydroxion/dailly/), [Tasky](https://github.com/thatsmanmeet/Tasky), [Alkaa](https://github.com/igorescodro/alkaa)
 
 ***
 
