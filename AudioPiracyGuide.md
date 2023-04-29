@@ -142,6 +142,7 @@
 * [8bit.fm](https://8bit.fm/) - Chiptune Radio
 * [Openings Moe](https://openings.moe/) - Anime Theme Radio
 * [Ongaku](https://ongaku.js.org/) - Anime Radio
+* [r-a-d.io](https://r-a-d.io/) - Anime Radio
 * [Pool Suite](https://poolsuite.net/) - Summer Radio
 * [LISTEN.moe](https://listen.moe/)  - K-Pop Radio / [Client](https://github.com/LISTEN-moe/windows-app)
 * [Rainwave](https://rainwave.cc/), [RPGGamers Radio](http://www.rpgamers.net/radio/), [VGMRadio](https://vgmradio.com/) or [VGM](https://vgm.mmosvc.com/) - Video Game Music Radio
