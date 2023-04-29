@@ -167,6 +167,7 @@
 * [InkForAll](https://app.inkforall.com/tools) - Multiple AI Text Tools
 * [SheetPlus](https://sheetplus.ai/), [FormulaHive](https://formulahive.com/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [ExcelFormulaBot](https://excelformulabot.com/) - Excel AI Tools
 * [GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) - Text Classification AI
+* [Image2Paragraph](https://github.com/showlab/Image2Paragraph) - Image to Descriptive Paragraph
 * [MathGPT](https://mathgpt.streamlit.app/) - Math Solving AI
 * [Auto Text Expander](https://pastebin.com/TFPRieVN) - Shortcuts to Expand & Replace Text as you Type
 
