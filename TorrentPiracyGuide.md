@@ -150,6 +150,7 @@
 * [FreshMeat](https://freshmeat.io/)
 * [BT4G](https://bt4g.org/)
 * [BitCQ](https://bitcq.com/)
+* [Torlock](https://www.torlock.com/), [2](https://www.torlock2.com/)
 * [ExtraTorrent](https://extratorrent.unblockit.kim/)
 * [Torrent Download](http://www.torentdownloads.narod.ru/)
 * [Torrenteer](http://torrenteer.ddns.net/)
