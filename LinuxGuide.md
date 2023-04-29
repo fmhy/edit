@@ -36,6 +36,7 @@
 * [bluetuith](https://github.com/darkhz/bluetuith) - Bluetooth Manager
 * [swizzin](https://swizzin.ltd/) - Seedbox for Ubuntu / Debian
 * [rtinst](https://github.com/arakasi72/rtinst) - Seedbox Installation Script for Ubuntu / Debian
+* [SeedSync](https://github.com/ipsingh06/seedsync) - Sync your Seedbox
 * [TorrFlix](https://github.com/infinity-plus/TorrFlix) - Torrent Streaming CLI
 * [Netflix Proxy](https://github.com/ab77/netflix-proxy/) - Streaming Service Proxy
 * [fmedia](https://github.com/stsaz/fmedia) - Media Player and Converter
