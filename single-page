@@ -3744,6 +3744,7 @@ pass: paluch
 ## ▷ App Development
 
 * [Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)
+* [developers](https://developer.android.com/courses) - App Dev Courses
 * [Mobile Design Resources](https://github.com/joeygoksu/mobile-design-resources) - App Design Learning Resources
 * [LearnCS](https://www.learncs.online/lessons) - Lean Java/Kotlin
 * [CocoaDevCentral](http://cocoadevcentral.com/) - Legacy OS X / Cocoa Programming Tutorials
@@ -4380,6 +4381,7 @@ pass: paluch
 * ⭐ **[Docker](https://www.docker.com/)** - Build, Manage and Run Apps in Containers
 * ⭐ **[Docker Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_docker_tools)** - Docker Tools, Images and Clients
 * [SupaBase](https://supabase.com/), [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Dokku](https://dokku.com/), [AndroidIDE](https://androidide.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter), [2](https://github.com/leanflutter/awesome-flutter-desktop) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators
+* [Android Libhunt](https://android.libhunt.com/) - Android Packages
 * [StreamLit](https://streamlit.io/) - Data Science App Creator
 * [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - App Development Platform / [GitHub](https://github.com/xamarin)
 * [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
@@ -4397,6 +4399,7 @@ pass: paluch
 * [SpreadsheetView](https://github.com/bannzai/SpreadsheetView) - Spreadsheet UI for iOS Apps
 * [Xcodes App](https://github.com/RobotsAndPencils/XcodesApp) - Xcode Manager
 * [AndroidAssetStudio](https://romannurik.github.io/AndroidAssetStudio/) - Android App Assets
+* [Contacts Android](https://github.com/vestrel00/contacts-android) - Android Contacts APIs
 * [IconKitchen](https://icon.kitchen/) or [AppIcon](https://appicon.co/) - App Icon Generator
 * [Android-Iconics](https://github.com/mikepenz/Android-Iconics) - Use Any Icon / Font as your Drawable App
 * [iOS Icon Gallery](https://www.iosicongallery.com/) - iOS Icon Examples
@@ -4425,6 +4428,7 @@ pass: paluch
 * [jadx](https://github.com/skylot/jadx) - Dex to Java Decompiler
 * [Privado](https://github.com/Privado-Inc/privado) - Generate App Privacy Reports
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App
+* [Pluto](https://github.com/plutolib/pluto) - Android Debug Framework
 * [PM2](https://pm2.keymetrics.io/) - Process Manager
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
 * [Aspect](https://sample-code.aspect.app/) - Copy React Code from Any Site
@@ -7868,7 +7872,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Android To-Do Apps**
 
-[Tasks](https://tasks.org/), [Any.do](https://www.any.do/), [Simpletask](https://f-droid.org/en/packages/nl.mpcjanssen.simpletask), [Orgzly](https://github.com/orgzly/orgzly-android), [Dailly](https://github.com/hydroxion/dailly/), [Tasky](https://github.com/thatsmanmeet/Tasky)
+[Tasks](https://tasks.org/), [Any.do](https://www.any.do/), [Simpletask](https://f-droid.org/en/packages/nl.mpcjanssen.simpletask), [Orgzly](https://github.com/orgzly/orgzly-android), [Dailly](https://github.com/hydroxion/dailly/), [Tasky](https://github.com/thatsmanmeet/Tasky), [Alkaa](https://github.com/igorescodro/alkaa)
 
 ***
 
@@ -10475,7 +10479,8 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **Stremio Tools** - [Guide](https://rentry.co/privatestremio) / [Addons](https://stremio-addons.netlify.app/) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [Watch Together](https://redd.it/cvmu80) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/) / [GDrive Fetch](https://github.com/ShuvamJaswal/Gdrive-Stremio-Update) / [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure)
 * ⭐ **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents
 * ⭐ **[Radarr](https://radarr.video/)** - Autodownload Movie Torrents / [GitHub](https://github.com/Radarr/Radarr)
-* ⭐ **[Sonarr](https://sonarr.tv/)** / [GitHub](https://github.com/Sonarr/Sonarr), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - Autodownload TV Torrents / [Guide](https://wiki.servarr.com/)
+* ⭐ **[Sonarr](https://sonarr.tv/)** / [GitHub](https://github.com/Sonarr/Sonarr), [SiCKRAGE](https://github.com/SiCKRAGE/SiCKRAGE), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - Autodownload TV Torrents / [Guide](https://wiki.servarr.com/)
+* ⭐ **[Autodownload Tools](https://redd.it/hbwnb2)** - List of Torrent Autodownload Tools
 * [Powder](https://powder.media/) - Torrent Streaming App
 * [Ace Stream](https://acestream.org/) - Torrent Streaming App / [Live Search](https://acestreamsearch.net/en/), [2](https://acestreamid.com/)
 * [WebTorrent](https://webtorrent.io/) - Torrent Streaming App
@@ -10485,8 +10490,6 @@ Add the following commands to a search to manually scrape each site.
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
 * [Bobarr](https://github.com/iam4x/bobarr) or [Nefarious](https://github.com/lardbit/nefarious) - Movie / TV autodownload / [Discord](https://discord.gg/PFwM4zk)
 * [SickChill](https://sickchill.github.io/) / [GitHub](https://github.com/SickChill/SickChill) or [CouchPotato](https://couchpota.to/) - Automatic Torrent / NZB Searching, Downloading & Processing
-* [Autodownload Tools](https://redd.it/hbwnb2) - All Autodownload Tools
-* [NZBHydra](https://github.com/theotherp/nzbhydra) - Meta search for NZB indexers
 * [wt](https://github.com/DegenCoden/wt), [GMDB](https://github.com/Dentrax/GMDB), [PeerFlix](https://github.com/mafintosh/peerflix) / [Server](https://github.com/asapach/peerflix-server) - Torrent Streaming CLIs
 * [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - Stream Torrents in VLC
 * [webtorrent-mpv-hook](https://github.com/mrxdst/webtorrent-mpv-hook) - Stream Torrents in MPV
@@ -11042,6 +11045,7 @@ Add the following commands to a search to manually scrape each site.
 ## ▷ Indexers
 
 * ⭐ **[Nero's Black Book](https://nerosbb.com/)** or [Indexer List](https://www.reddit.com/r/usenet/wiki/indexers#wiki_free_membership_sites) - Indexer List
+* [NZBHydra2](https://github.com/theotherp/nzbhydra2) / [2](https://github.com/theotherp/nzbhydra) - NZB Meta search
 * [nzbplanet](https://nzbplanet.net/)
 * [orionoid](https://orionoid.com/)
 * [binsearch](http://binsearch.info/)
@@ -13595,6 +13599,7 @@ Simulator
 * [InkForAll](https://app.inkforall.com/tools) - Multiple AI Text Tools
 * [SheetPlus](https://sheetplus.ai/), [FormulaHive](https://formulahive.com/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [ExcelFormulaBot](https://excelformulabot.com/) - Excel AI Tools
 * [GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) - Text Classification AI
+* [Image2Paragraph](https://github.com/showlab/Image2Paragraph) - Image to Descriptive Paragraph
 * [MathGPT](https://mathgpt.streamlit.app/) - Math Solving AI
 * [Auto Text Expander](https://pastebin.com/TFPRieVN) - Shortcuts to Expand & Replace Text as you Type
 
@@ -13963,6 +13968,7 @@ Simulator
 * [FreshMeat](https://freshmeat.io/)
 * [BT4G](https://bt4g.org/)
 * [BitCQ](https://bitcq.com/)
+* [Torlock](https://www.torlock.com/), [2](https://www.torlock2.com/)
 * [ExtraTorrent](https://extratorrent.unblockit.kim/)
 * [Torrent Download](http://www.torentdownloads.narod.ru/)
 * [Torrenteer](http://torrenteer.ddns.net/)
@@ -15632,6 +15638,7 @@ Simulator
 * [bluetuith](https://github.com/darkhz/bluetuith) - Bluetooth Manager
 * [swizzin](https://swizzin.ltd/) - Seedbox for Ubuntu / Debian
 * [rtinst](https://github.com/arakasi72/rtinst) - Seedbox Installation Script for Ubuntu / Debian
+* [SeedSync](https://github.com/ipsingh06/seedsync) - Sync your Seedbox
 * [TorrFlix](https://github.com/infinity-plus/TorrFlix) - Torrent Streaming CLI
 * [Netflix Proxy](https://github.com/ab77/netflix-proxy/) - Streaming Service Proxy
 * [fmedia](https://github.com/stsaz/fmedia) - Media Player and Converter
@@ -19869,7 +19876,7 @@ Twitch Stream Tracker
 
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
 * ⭐ **[Talk to Books](https://books.google.com/talktobooks/)** - AI Book Quote Search
-* ⭐ **[PlayText](https://playtext.app/)**, [AccelaReader](https://accelareader.com/), [SwiftRead](https://swiftread.com/) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
+* ⭐ **[PlayText](https://playtext.app/)**, [AccelaReader](https://accelareader.com/), [Jiffy](https://www.jiffyreader.com/), [SwiftRead](https://swiftread.com/) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
 * ⭐ **[arch1ve](https://rentry.org/arch1ve)** or [Borrowing Picture Books](https://redd.it/fm1xpw) - Download Borrow Only Archive.org Books / [Script](https://redd.it/ofcqds)
 * ⭐ **[DownloadBookFromIPFS](https://greasyfork.org/en/scripts/428894-downloadbookfromipfs)** - Add Button to Download Books from IPFS
 * ⭐ **[EBook Converters](https://wiki.mobileread.com/wiki/E-book_conversion)** - List of Ebook Converters
@@ -20045,6 +20052,7 @@ Twitch Stream Tracker
 * [8bit.fm](https://8bit.fm/) - Chiptune Radio
 * [Openings Moe](https://openings.moe/) - Anime Theme Radio
 * [Ongaku](https://ongaku.js.org/) - Anime Radio
+* [r-a-d.io](https://r-a-d.io/) - Anime Radio
 * [Pool Suite](https://poolsuite.net/) - Summer Radio
 * [LISTEN.moe](https://listen.moe/)  - K-Pop Radio / [Client](https://github.com/LISTEN-moe/windows-app)
 * [Rainwave](https://rainwave.cc/), [RPGGamers Radio](http://www.rpgamers.net/radio/), [VGMRadio](https://vgmradio.com/) or [VGM](https://vgm.mmosvc.com/) - Video Game Music Radio
@@ -20621,7 +20629,7 @@ https://www.whosaidthat.uk/
 * ⭐ **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites / Apps
 * ⭐ **[Termux](https://termux.com/)**, [Limbo](https://github.com/limboemu/limbo), [Andronix](https://andronix.app/) / [Git](https://github.com/AndronixApp) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulators / OS Environments
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/termux/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
-* ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) - Password Managers
+* ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://github.com/PhilippC/keepass2android) - Password Managers
 * ⭐ **[AutomaTag](http://automatag.com/)** - Metadata Organizer
 * [Android Debloat Guide](https://rentry.co/debloatandroid), [debloat-android](https://christitus.com/debloat-android/) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
 * [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/0x192/universal-android-debloater), [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) or [Debloat Samsung Android](https://github.com/khlam/debloat-samsung-android) - Android Debloaters
@@ -21057,6 +21065,7 @@ https://www.whosaidthat.uk/
 * [IReader](https://github.com/IReaderorg/IReader) - Light Novels
 * [QuickNovel](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.quicknovel) - Light Novels
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - Borrow Digital Library Books
+* [Bionic Reading](https://bionic-reading.com/) - Reading Fixation Points
 
 ***
 
@@ -21419,6 +21428,7 @@ https://www.whosaidthat.uk/
 * [Measure](https://apps.apple.com/us/app/measure/id1383426740) - Turn iPhone / iPad into Tape Measure
 * [Digital Scale+](https://github.com/wernjie/digital-scale-plus) - Measure Weights with iPhone / [Web App](https://apps.wernjie.com/digital-scale/)
 * [Fiery Feeds](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303), [Reeder](https://reederapp.com/) or [NetNewsWire](https://apps.apple.com/us/app/netnewswire-rss-reader/id1480640210) - RSS Reader
+* [SlimeKT](https://github.com/kasem-sm/SlimeKT) - Article Aggregator
 * [Git Journal](https://gitjournal.io/) - Mobile Markdown Notes
 * [Voiceliner](https://a9.io/voiceliner/) - Voice Memos / [GitHub](https://github.com/maxkrieger/voiceliner)
 * [CapCut](https://www.capcut.com/) - Video Editor
@@ -21562,7 +21572,7 @@ https://www.whosaidthat.uk/
 * [RSS Player](https://apps.apple.com/us/app/rss-video-player/id885311320) - KDrama / [Feed](http://allrss.se/dramas)
 * [Wako-TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - Movies / TV / Anime / Real Debrid required
 * [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962), [SPlayer](https://splayer.dev/), [Loader](https://apps.apple.com/us/app/documents-loader/id1442498151) or [‎Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
-* [YT Tweaked](https://github.com/nbats/FMHYedit/blob/main/base64.md#yt-tweaked-ipas) or [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPA / [Reddit Post](https://redd.it/olsxri)
+* [YT Tweaked](https://github.com/nbats/FMHYedit/blob/main/base64.md#yt-tweaked-ipas), [uYouPlus](https://github.com/qnblackcat/uYouPlus) or [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPA / [Reddit Post](https://redd.it/olsxri)
 * [Yattee](https://github.com/yattee/yattee) - YouTube Frontend
 * [Block iPhone YouTube Ads](https://redd.it/xg5jkn) - How-to Block YouTube Ads
 * [Tunity](https://tunity.com/) - Hear Any Muted TV
