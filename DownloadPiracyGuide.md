@@ -286,6 +286,7 @@
 ## ▷ Indexers
 
 * ⭐ **[Nero's Black Book](https://nerosbb.com/)** or [Indexer List](https://www.reddit.com/r/usenet/wiki/indexers#wiki_free_membership_sites) - Indexer List
+* [NZBHydra2](https://github.com/theotherp/nzbhydra2) / [2](https://github.com/theotherp/nzbhydra) - NZB Meta search
 * [nzbplanet](https://nzbplanet.net/)
 * [orionoid](https://orionoid.com/)
 * [binsearch](http://binsearch.info/)
