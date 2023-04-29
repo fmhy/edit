@@ -1369,7 +1369,7 @@ pass: paluch
 
 #### Burp
 
-`aHR0cHM6Ly9maWxlY3IuY29tLz9zPUJ1cnArU3VpdGUrUHJvZmVzc2lvbmFs`
+`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9YnVycA==`
 
 ***
 
