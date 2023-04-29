@@ -1267,7 +1267,7 @@
 
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
 * ⭐ **[Talk to Books](https://books.google.com/talktobooks/)** - AI Book Quote Search
-* ⭐ **[PlayText](https://playtext.app/)**, [AccelaReader](https://accelareader.com/), [SwiftRead](https://swiftread.com/) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
+* ⭐ **[PlayText](https://playtext.app/)**, [AccelaReader](https://accelareader.com/), [Jiffy](https://www.jiffyreader.com/), [SwiftRead](https://swiftread.com/) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
 * ⭐ **[arch1ve](https://rentry.org/arch1ve)** or [Borrowing Picture Books](https://redd.it/fm1xpw) - Download Borrow Only Archive.org Books / [Script](https://redd.it/ofcqds)
 * ⭐ **[DownloadBookFromIPFS](https://greasyfork.org/en/scripts/428894-downloadbookfromipfs)** - Add Button to Download Books from IPFS
 * ⭐ **[EBook Converters](https://wiki.mobileread.com/wiki/E-book_conversion)** - List of Ebook Converters
