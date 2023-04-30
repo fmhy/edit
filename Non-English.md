@@ -602,46 +602,37 @@
 
 # ► Hindi
 
-* [WFH Companies India](https://github.com/abhagsain/WFH-Companies-India) - Work from Home Job Offerings in India
-* [New Hindi Animes](https://t.me/New_Hindi_Animes) - Anime Release Announcements
-
 ## ▷ Downloading
 
-* ⭐ **[OlaMovies](https://olamovies.monster/)** - Movies / TV
+* ⭐ **[OlaMovies](https://olamovies.monster/)** - Movies / TV / [Telegram](https://telegram.me/olamovies_official_v3)
 * [MoviesMod](https://moviesmod.net.in/) - Movies / TV / [Telegram](https://t.me/moviesmodcom)
-* [MKV Mad](https://www.mkvmad.day/) - Movies / TV
-* [WorldFree4U](https://worldfree4u.health/) - Movies / TV
-* [HDVogo](https://www.hdvogo.cfd/) - Movies
-* [Movies Flix](https://hdmoviesflix.pw/) - Movies / NSFW
+* [MKV Mad](https://www.mkvmad.day/) - Movies / TV / [Telegram](https://t.me/mkvmadofficial)
+* [WorldFree4U](https://worldfree4u.health/) - Movies / TV / [Telegram](https://t.me/worldfree4uclub)
+* [Movies Flix](https://hdmoviesflix.pw/) - Movies / NSFW / [Telegram](https://t.me/hdmflix)
 * [Dudefilms](https://dudefilms.homes/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
 * [The Movies Flix](https://themoviezflix.com.se/) - Movies / NSFW / [Telegram](https://t.me/themoviezflixac)
 * [KatMovieHD](https://katmoviehd.vg/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
-* [MKVHub](https://www.mkvhub.baby/) - Movies / TV
+* [MKVHub](https://www.mkvhub.baby/) - Movies / TV / [Telegram](https://t.me/MkvHubCOM)
 * [Full4Movies](https://www.full4movies.plus/) - Movies / TV / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
+* [Roshiya](https://roshiya.me/) - Movies / TV / [Telegram](https://t.me/roshiyanews)
+* [Filmymeet](https://www2.filmymeet.com.ph/) - Dub Movies / TV / [Telegram](https://telegram.dog/filmymeet)
+* [MkvCinemas](https://ww1.mkvcinemas.lat/) - Movies / TV / Anime / [Telegram](https://t.me/+QzypxAlB1MGvVXFG)
+* [Bolly4u](https://bolly4u.name/) - Movies / [Telegram](https://t.me/bolly4ucc)
+* [9xflix](https://9xflix.plus/) - Movies / [Telegram](https://t.me/ninexflix)
+* [HDVogo](https://www.hdvogo.cfd/) - Movies
 * [Moviehunt](https://moviehunt.us) - Movies / TV
 * [MoviesJet](https://moviesjet.one/) - Movies / TV
 * [UncutHD](https://www.uncuthd.guru/) - Movies
-* [Roshiya](https://roshiya.me/) - Movies / TV
-* [Foumovies](https://www.foumovies.pw/) - Movies
-* [PrMovies](https://prmovies.cfd/) or [yomovies](https://yomovies.bid/) - Movies / TV / Anime
-* [Bolly4u](https://bolly4u.online/) - Movies
-* [9xflix](https://9xflix.plus/) - Movies
-* [Filmymeet](https://www2.filmymeet.com.ph/) - Hindi Dub Movies / TV
-* [MkvCinemas](https://ww1.mkvcinemas.lat/) - Movies / TV / Anime [Telegram](https://t.me/+QzypxAlB1MGvVXFG)
-* [AnimeAcademy](https://animeacademy.in/) - Anime
-* [ToonWorld4All](https://www.toonworld4all.me/) - Cartoons / Anime
-* [TVToonsIndia](https://tvtoonsindia.com/) - Cartoons / Anime
+* [AnimeAcademy](https://animeacademy.in/) - Anime / [Telegram](https://t.me/AnimeAcademyTeam)
+* [ToonWorld4All](https://www.toonworld4all.me/) - Cartoons / Anime / [Discord](https://discord.com/invite/qp8RD4JEpf) / [Telegram](https://discord.com/invite/qp8RD4JEpf)
+* [TVToonsIndia](https://tvtoonsindia.com/) - Cartoons / Anime / [Telegram](https://t.me/tvtoonsindiaofficial)
 * [PureToons](https://puretoons.cc/) - Cartoons / Anime
+* [New Hindi Animes](https://t.me/New_Hindi_Animes) - Anime
 * [Hindi Cartoons](https://telegra.ph/All-of-my-Channels-List-02-18) - Cartoons
 * [DesiRulez](https://www.desirulez.cc/) - Video / Audio
 * [WapKing](https://wapking.name/) - Music
-* [Pagalworld](https://www.pagalworld.tv/) - Music
-* [Original iTunes](https://originalitunes.blogspot.com/) - Music
+* [Pagalworld](https://www.pagalworld.tv/) - Music / [Telegram](https://t.me/pagalworldasli)
 * [PagalSong](https://pagalsong.in/) - Soundtracks
-
-## ▷ Torrenting
-
-* [bolly4u](https://bolly4u.life/ ) - Movies / TV
 
 ## ▷ Streaming
 
