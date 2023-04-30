@@ -48,7 +48,7 @@
 * [/r/audiobookrequest](https://reddit.com/r/audiobookrequest) - Request Audiobooks
 * [audiobook-dl](https://github.com/jo1gi/audiobook-dl) or [Audiobook Downloader](https://github.com/ipriyam26/Audiobook) - Audiobook Download Tool
 * [OverDrive](https://github.com/chbrown/overdrive) - OverDrive Audiobook Download Script
-* [AudiobookShelf](https://www.audiobookshelf.org/) - Self-Hosted Audiobook Server
+* [AudiobookShelf](https://www.audiobookshelf.org/) or [BookSonic](https://booksonic.org/) - Self-Hosted Audiobook Servers
 
 ***
 
@@ -316,7 +316,7 @@
 ## ▷ Special Interest
 
 * ⭐ **[Cookbooks / Recipes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_food)** - Cookbook and Recipe Sites
-* ⭐ **[Wikiquote](https://en.wikiquote.org)**, [Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [BrainyQuote](https://www.brainyquote.com/) or [QuoteGarden](https://www.quotegarden.com/) - Quotes
+* ⭐ **[Wikiquote](https://en.wikiquote.org)**, [Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [BrainyQuote](https://www.brainyquote.com/), [AZQuotes](https://www.azquotes.com/) or [QuoteGarden](https://www.quotegarden.com/) - Quotes
 * ⭐ **[do_k_ument](https://github.com/nbats/FMHYedit/blob/main/base64.md#do_k_ument)** - Survival, Forging, Smithing, Weapons Training, Field Manuals
 * [Short Stories](https://short-stories.co/) or [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
 * [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
@@ -384,7 +384,7 @@
 * [Openstax](https://openstax.org/)
 * [Online Books Page](https://onlinebooks.library.upenn.edu/)
 * [The Literature Network](http://www.online-literature.com/)
-* [Memory of the World](https://library.memoryoftheworld.org/#/books/)
+* [Memory of the World](https://www.memoryoftheworld.org/)
 * [LibreTexts](https://libretexts.org/)
 * [PDFBooksWorld](https://www.pdfbooksworld.com/)
 * [Monoskop](https://monoskop.org/log/)
@@ -439,7 +439,7 @@
 * [Digital Libraries / Archives](https://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/) - Online university libraries
 * [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) - Academic Repository Search
 * [Quantum Web Directory](https://qntm2017.github.io/qntm/OV.html) - Science / Tech / Math / Physics
-* [arXiv](https://arxiv.org/) - Science / Math / Physics
+* [arXiv](https://arxiv.org/) - Science / Math / Physics / [Search](https://arxiv-sanity-lite.com/)
 * [IntechOpen](https://www.intechopen.com/) - Science
 * [Magazines Scientific](https://scientificmagazines.top/) - Science Magazines
 * [Naked Scientists](https://www.thenakedscientists.com/) - Podcasts / Shows / Science 
