@@ -364,7 +364,7 @@
 * [Algodoo](http://www.algodoo.com/) - Interactive Physics Tool
 * [QPaths](https://qpaths.deqart.com/) - Learn Basic Quantum Terms
 * [quantum](https://play.google.com/store/apps/details?id=brychta.stepan.quantum_en) - Quantum Physics Learning App
-* [arXiv](https://arxiv.org/) - Science / Math / Physics
+* [arXiv](https://arxiv.org/) - Science / Math / Physics / [Search](https://arxiv-sanity-lite.com/)
 * [Physics forums](https://www.physicsforums.com/) - Forum / Physics / Science
 * [Quantum Web Directory](https://qntm2017.github.io/qntm/OV.html) - Science / Tech / Math / Physics
 * [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - Pendulum Simulator
@@ -406,7 +406,7 @@ Simulator
 # ► Chemistry
 
 * ⭐ **[Lab Safety Guide / Intro](https://labmode.co.uk/)**
-* ⭐ **[Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables)** - Online Periodic Tables
+* ⭐ **[Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables)** - Online Periodic Tables / [App](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 * ⭐ **[LibreTexts Chemistry](https://chem.libretexts.org)** - Chemistry Texts
 * ⭐ **[Internet Chemistry](https://www.internetchemistry.com/search.php)** - Search Index
 * [Chemistry Basics](https://saylordotorg.github.io/text_the-basics-of-general-organic-and-biological-chemistry/index.html) - Basics of General, Organic, and Biological Chemistry
@@ -866,7 +866,6 @@ Simulator
 * [ScienceTrek](https://sciencetrek.org/) - Teaching Resources
 * [Socrative](https://www.socrative.com/) - Teaching App
 * [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - UPSC Telegram Channels
-* [Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables) - Online Periodic Tables
 * [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
 * [Answers.com](https://www.answers.com/) or [Quora](https://www.quora.com/) / [Bypass](https://redd.it/ywml2b) / [Frontend](https://github.com/zyachel/quetre) - Q&A Communities
 * [Plickers](https://get.plickers.com/) - Q&A Results App
@@ -981,7 +980,7 @@ Simulator
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
 * [Debunking Skeptics](https://www.debunkingskeptics.com/) - Pseudo-Skeptical Fallacies
 * [YourBiasIs](https://yourbias.is/) - Learn about Biases
-* [LessWrong](https://www.lesswrong.com/) - Develop Rationality
+* [LessWrong](https://www.lesswrong.com/) - Develop Rationality / [Frontend](https://www.greaterwrong.com/)
 * [SkillsYouNeed](https://www.skillsyouneed.com/) or [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
 * [VisualizeValue](https://archivve.visualizevalue.com/) - Life Lesson Visualizations
 * [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
