@@ -26,7 +26,7 @@
 * [Dev.tube](https://dev.tube/) - Developer Talks
 * [Roadmap](https://roadmap.sh/) - Developer Roadmaps / [Github](https://github.com/kamranahmedse/developer-roadmap)
 * [QuickRef.ME](https://quickref.me/), [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
-* [Programming Challenges](https://i.imgur.com/FPwNgOK.png), [HackTheEarth](https://www.hackerearth.com/challenges/), [EMKC](https://emkc.org/challenges) or [Code Golf](https://codegolf.stackexchange.com/) - Programming Challenges
+* [Programming Challenges](https://i.imgur.com/FPwNgOK.png), [DevPost](https://devpost.com/), [HackTheEarth](https://www.hackerearth.com/challenges/), [EMKC](https://emkc.org/challenges) or [Code Golf](https://codegolf.stackexchange.com/) - Programming Challenges
 * [WDTCD?](https://whatdoesthiscodedo.com/) or [Denigma](https://denigma.app/#demo) - AI Code Explanations
 * [Coding Problems](https://github.com/MTrajK/coding-problems) - Solutions for Coding Problems
 * [RoboMind](https://www.robomind.net/) or [Checki0](https://checkio.org/) - Code Learning Games
@@ -159,6 +159,7 @@
 * [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) 
 * [HackersFriend](https://www.hackersfriend.com/tutorials/) - Coding Practice
 * [algonds](https://github.com/MaciejWas/algonds) - Coding Practice
+* [Codility](https://app.codility.com/programmers/) - Coding Practice
 * [LintCode](https://www.lintcode.com/) or [CodeWars](https://www.codewars.com/) - Coding Practice
 * [Coding Questions](https://platform.stratascratch.com/coding) - Coding Interview Questions
 * [NeetCode](https://neetcode.io/) - Coding Interview Practice
@@ -653,7 +654,7 @@
 * [SSL Config Generator](https://ssl-config.mozilla.org/) - Generate SSL Configurations
 * [MinIO](https://min.io/) or [Filebase](https://filebase.com/) - Cloud Native Object Storage
 * [Traefik](https://traefik.io/) - Cloud Native Stack
-* [Amazon S3](https://aws.amazon.com/s3) - Cloud Object Storage Amazon Simple Service Storage
+* [Amazon S3](https://aws.amazon.com/s3) - Cloud Object Storage Amazon Simple Service Storage / [Desktop](https://s3browser.com/)
 * [howtheyaws](https://github.com/upgundecha/howtheyaws) - List of How Organizations Use AWS
 * [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - Email Verification Service
 * [Block Temporary Email](https://block-temporary-email.com/) - Block Temp Mail Addresses
@@ -1087,7 +1088,7 @@
 * [Node-RED](https://nodered.org/) - Low-Code Programming for Event-Driven Apps
 * [Commands.dev](https://www.commands.dev/) - Terminal Commands
 * [Awesome Regex](https://github.com/aloisdg/awesome-regex) - Regex Resources
-* [Regex101](https://regex101.com/) - Regex Editor / Debugger
+* [Regex101](https://regex101.com/) or [Debuggex](https://www.debuggex.com/) - Regex Editor / Debuggers
 * [Regex Generator++](http://regex.inginf.units.it/) or [Regex Generator](https://regex-generator.olafneumann.org/) - Regex Generators
 * [AutoRegex](https://www.autoregex.xyz/) - Regex Converter
 * [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding Resource Index 
@@ -1282,6 +1283,7 @@
 
 ## ▷ Markup Tools
 
+* ⭐ **[HedgeDoc](https://hedgedoc.envs.net/)**, [Abricotine](http://abricotine.brrd.fr/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/), [Apostrophe](https://github.com/ApostropheEditor/Apostrophe), [Glow](https://github.com/charmbracelet/glow), [MarkdownLivePreview](https://markdownlivepreview.com/), [Proton](https://steventhanna.github.io/proton/) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editors
 * [markup.rocks](https://markup.rocks/) - Online Markup Editor
 * [HTML-Minifier](https://kangax.github.io/html-minifier/) - HTML Minifier
 * [HTML.com](https://html.com/) - HTML Guide / Cheat Sheet
@@ -1334,7 +1336,6 @@
 * [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss) - Tailwind CSS Resources
 * [DaisyUI](https://daisyui.com/) - Tailwind Component Library / [GitHub](https://github.com/saadeghi/daisyui)
 * [TailBlocks](https://tailblocks.cc/) - Ready-to-use Tailwind CSS Blocks
-* [HedgeDoc](https://hedgedoc.envs.net/), [Abricotine](http://abricotine.brrd.fr/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/), [Apostrophe](https://github.com/ApostropheEditor/Apostrophe), [Glow](https://github.com/charmbracelet/glow), [MarkdownLivePreview](https://markdownlivepreview.com/), [Proton](https://steventhanna.github.io/proton/) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editors
 * [ShowMD](https://github.com/UtilityHotbar/showmd) - Beautify Markdown
 * [Lyx](https://www.lyx.org/), [TeXStudio](https://texstudio.org/) or [Papeeria](https://papeeria.com/) - LaTeX Editors / [Guide](https://www.learnlatex.org/)
 * [Table Magic](https://stevecat.net/table-magic/) or [Markdown Convert](https://markdown-convert.com/) - Table to Markdown Converters
