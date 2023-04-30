@@ -110,6 +110,7 @@
 * ⭐ **[Antivirus Programs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_antivirus)** - Virus Protection / Scanning
 * ⭐ **[Virus File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scan_files)** - Individual File Scanners
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** or [Ultra Adware Killer](https://www.carifred.com/ultra_adware_killer/) - Anti-Adware
+* ⭐ **[TronScript](https://old.reddit.com/r/TronScript/)** / [DL](https://www.reddit.com/r/TronScript/wiki/downloads) - Virus Removal Script
 * [Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check) - URL Scanners
 * [RevealQR](https://revealqr.app/) - Scan QR Codes
 * [Security / Antivirus Multireddit](https://old.reddit.com/user/goretsky/m/security/)
@@ -154,7 +155,7 @@
 * [YARA](https://virustotal.github.io/yara/) - Malware Identification Tool
 * [Winitor](https://www.winitor.com/) - EXE Malware Assessment
 * [WhatsApp Media Decrypt](https://github.com/ddz/whatsapp-media-decrypt) - Decrypt WhatsApp Media Files
-* [Package Analysis](https://github.com/ossf/package-analysis) -  Open Source Package Analysis
+* [Package Analysis](https://github.com/ossf/package-analysis) - Open Source Package Analysis
 * [Manalyzer](https://manalyzer.org/) - PE File Scanner
 * [PyWhat](https://github.com/bee-san/pyWhat) - .pcap File Scanner
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - Penetration Testing Index
