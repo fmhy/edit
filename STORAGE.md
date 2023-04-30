@@ -3327,7 +3327,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Windows AME](https://ameliorated.io/)** / [AtlasOS Playbook](https://atlasos.net/) / [ReviOS Playbook](https://www.revi.cc/)
 * ⭐ **[LTSC Debloat Guide](https://rentry.co/LTSC)**
 
-[Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [TronScript](https://old.reddit.com/r/TronScript/) / [DL](https://www.reddit.com/r/TronScript/wiki/downloads), [win10script](https://github.com/ChrisTitusTech/winutil) / [2](https://christitus.com/debloat-windows-10-2020/), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [Windows-Decrapifier](https://github.com/n1snt/Windows-Decrapifier), [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script), [Remove-Windows10-Bloat](https://gist.github.com/matthewjberger/2f4295887d6cb5738fa34e597f457b7f), [Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10), [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat), [SophiApp](https://github.com/Sophia-Community/SophiApp), [WinRice](https://github.com/pratyakshm/WinRice), [TweakList](https://github.com/couleur-tweak-tips/TweakList), [Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins), [BRU](https://github.com/arcadesdude/BRU), [Windows-Bloatware-Removal](https://github.com/BallisticTurtle/Windows-Bloatware-Removal/blob/master/Remove%20Windows%20Bloatware.bat), [optimizer](https://github.com/hellzerg/optimizer/), [Ultimate Windows Utility](https://christitus.com/windows-tool/), [XToolbox](https://github.com/xemulat/XToolbox), [Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools), [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover), [Win10Debloat](https://github.com/Raphire/Win10Debloat), [windows_hardening.cmd](https://gist.github.com/ricardojba/ecdfe30dadbdab6c514a530bc5d51ef6)
+[Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [win10script](https://github.com/ChrisTitusTech/winutil) / [2](https://christitus.com/debloat-windows-10-2020/), [Decrapify Windows 10](https://gitlab.com/secure_croco/decrapify-windows10), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [Windows-Decrapifier](https://github.com/n1snt/Windows-Decrapifier), [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script), [Remove-Windows10-Bloat](https://gist.github.com/matthewjberger/2f4295887d6cb5738fa34e597f457b7f), [Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10), [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat), [SophiApp](https://github.com/Sophia-Community/SophiApp), [WinRice](https://github.com/pratyakshm/WinRice), [TweakList](https://github.com/couleur-tweak-tips/TweakList), [Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins), [BRU](https://github.com/arcadesdude/BRU), [Windows-Bloatware-Removal](https://github.com/BallisticTurtle/Windows-Bloatware-Removal/blob/master/Remove%20Windows%20Bloatware.bat), [optimizer](https://github.com/hellzerg/optimizer/), [Ultimate Windows Utility](https://christitus.com/windows-tool/), [XToolbox](https://github.com/xemulat/XToolbox), [Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools), [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover), [Win10Debloat](https://github.com/Raphire/Win10Debloat), [windows_hardening.cmd](https://gist.github.com/ricardojba/ecdfe30dadbdab6c514a530bc5d51ef6)
 
 ***
 
@@ -3443,15 +3443,15 @@ Add the following commands to a search to manually scrape each site.
 
 #### Youtube Android Apps
 
-* ⭐ **[ReVanced APKs](https://revanced-apks.pages.dev/)**, [ReVanced Auto](https://revanced-auto-apk.pages.dev/) or [ReVanced.app](https://revanced.app/) - Latest Revanced Apps
+* ⭐ **[ReVanced APKs](https://revanced-apks.pages.dev/)** or [ReVanced Auto](https://revanced-auto-apk.pages.dev/) - Latest Revanced Apps
 * ⭐ **[ReVanced Manager](https://github.com/revanced/revanced-manager)** / [Guide](https://www.reddit.com/r/revancedapp/comments/xlcny9/revanced_manager_guide_for_dummies/)
 * ⭐ **[ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module)**
+* ⭐ **[ReVanced Extended](https://github.com/NoName-exe/revanced-extended)** / [2](https://github.com/inotia00/revanced-patches/tree/revanced-extended) - Revanced Extended Patches
+* ⭐ **[LibreTube](https://github.com/libre-tube/LibreTube)**
 * ⭐ **[NewPipe](https://newpipe.net/)** / [Sponsorblock](https://github.com/polymorphicshade/NewPipe)
-* [LibreTube](https://github.com/libre-tube/LibreTube)
 * [VueTube](https://github.com/VueTubeApp/VueTube)
 * [FreeTubeCordova](https://github.com/MarmadileManteater/FreeTubeCordova)
 * [ReVanced Patcher](https://github.com/decipher3114/Revancify)
-* [ReVanced Extended](https://github.com/inotia00/revanced-patches/tree/revanced-extended) / [2](https://github.com/NoName-exe/revanced-extended) - Revanced Extended Patches
 
 **ReVanced App Builders**
 
