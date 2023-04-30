@@ -759,6 +759,7 @@
 * [eurekaddl](https://eurekaddl.boats/) - Video / Audio / Software / Games / Books / Magazines / Comics / Android / NSFW
 * [OverDay](https://overday.info/) - Software / Games / Android / Courses / Books
 * [HD4Me](https://hd4me.net/) - Movies
+* [BMZone](https://github.com/nbats/FMHYedit/blob/main/base64.md#bmzone) - Anime
 * [XDCC Mule](https://www.xdccmule.org/) - IRC Download Search
 
 ## ▷ Torrenting
