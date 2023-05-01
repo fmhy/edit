@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/rNmiLul.png)** - For mobile users
+**[Table of Contents](https://i.ibb.co/K2kF2fC/838574c4b248.png)** - For mobile users
 
 ***
 ***
@@ -187,13 +187,13 @@
 * [PhoenixOS Darkmatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)
 * [AOPC](https://aopc.dev/) - Android Desktop OS Forums
 * [Docker Android](https://github.com/budtmo/docker-android) - Android in Docker
-* [Nox](https://www.bignox.com/) - [Screenshot](https://i.imgur.com/VuFLWbW.jpg) / [Debloat Guide](https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/) / [Video](https://youtu.be/IjI_-pQUOhQ)
-* [GameLoop](https://www.gameloop.com/) - [Screenshot](https://i.imgur.com/dLrEXCJ.png)
-* [MuMu](https://www.mumuglobal.com/) - [Screenshot](https://i.imgur.com/D8BBerb.png)
-* [MeMu](https://www.memuplay.com/) - [Screenshot](https://i.imgur.com/1aZLVvi.png) / [Debloater](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
-* [LDPlayer](https://www.ldplayer.net/) - [Screenshot](https://i.imgur.com/URAJXJ6.png)
-* [Genymotion](https://www.genymotion.com/download/) - [Screenshot](https://i.imgur.com/rIoiob7.jpg) 
-* [Wakuoo](https://wakuoo.com) - [Screenshot](https://i.imgur.com/WnuitUI.png)
+* [Nox](https://www.bignox.com/) - [Screenshot](https://i.ibb.co/hF0S4Pb/647f0f4f051c.jpg) / [Debloat Guide](https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/) / [Video](https://youtu.be/IjI_-pQUOhQ)
+* [GameLoop](https://www.gameloop.com/) - [Screenshot](https://i.ibb.co/T8mmzZ7/26828a9408f1.png)
+* [MuMu](https://www.mumuglobal.com/) - [Screenshot](https://i.ibb.co/mDBY8sP/bfa89c699ff7.png)
+* [MeMu](https://www.memuplay.com/) - [Screenshot](https://i.ibb.co/0BSWpqY/6b4ce185773e.png) / [Debloater](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
+* [LDPlayer](https://www.ldplayer.net/) - [Screenshot](https://i.ibb.co/0GyC1JY/184625995e15.png)
+* [Genymotion](https://www.genymotion.com/download/) - [Screenshot](https://i.ibb.co/6W7BXJn/6a291e5b5ac9.jpg) 
+* [Wakuoo](https://wakuoo.com) - [Screenshot](https://i.ibb.co/DDs8vz2/cfaea91031d7.png)
 * [Now.gg](https://now.gg/) - Online Android Gaming Emulator
 https://www.whosaidthat.uk/
 * [APKOnline](https://www.apkonline.net/runapk/start-androidapk.html) - Online Android Emulator
@@ -205,7 +205,7 @@ https://www.whosaidthat.uk/
 * ⭐ **[Android Web Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)**
 * ⭐ **[File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)** - Tools to Share / Sync Files
 * ⭐ **[Note Taking / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)** - Note Taking / To-Do Apps
-* ⭐ **[AutumnBox](https://github.com/zsh2401/AutumnBox/releases)** or [ADBAppControl](https://adbappcontrol.com/en/) - Android Device Managers / Root Tool / [Features](https://i.imgur.com/59MlFrW.png)
+* ⭐ **[AutumnBox](https://github.com/zsh2401/AutumnBox/releases)** or [ADBAppControl](https://adbappcontrol.com/en/) - Android Device Managers / Root Tool / [Features](https://i.ibb.co/P9BpWD1/5546649b4d89.png)
 * ⭐ **[App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers)** - Android App Launchers / Managers
 * ⭐ **[ntfy](https://ntfy.sh/)**, [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2) or [BuzzKill](https://github.com/nbats/FMHYedit/blob/main/base64.md#buzzkill) - Custom Push Notifications
 * ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client / [Rich Presence](https://github.com/dead8309/Kizzy)
@@ -592,14 +592,14 @@ https://www.whosaidthat.uk/
 # ► Android Torrenting
 
 * **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting
-* ⭐ **[Aria2App](https://github.com/devgianlu/Aria2App)** - [Screenshot](https://i.imgur.com/zA2SKAd.png)
-* ⭐ **[LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)** - [Screenshot](https://i.imgur.com/HbQZ8Hd.png)
-* ⭐ **[Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)** - [Screenshot](https://i.imgur.com/8caBvYO.png)
-* [tTorrent](https://play.google.com/store/apps/details?id=hu.tagsoft.ttorrent.lite) - [Screenshot](https://i.imgur.com/S61JgNg.png)
-* [Frostwire](https://play.google.com/store/apps/details?id=com.frostwire.android) - [Screenshot](https://i.imgur.com/EoB3DED.png)
-* [WeTorrent Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#wetorrent-pro) - [Screenshot](https://i.imgur.com/duCEVqB.png)
+* ⭐ **[Aria2App](https://github.com/devgianlu/Aria2App)** - [Screenshot](https://i.ibb.co/x646fcy/b3ec39ecb9e3.png)
+* ⭐ **[LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent)** - [Screenshot](https://i.ibb.co/TgGChNM/2c57cb08ae0d.png)
+* ⭐ **[Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud)** - [Screenshot](https://i.ibb.co/z6GhkHc/bb30c0fd5553.png)
+* [tTorrent](https://play.google.com/store/apps/details?id=hu.tagsoft.ttorrent.lite) - [Screenshot](https://i.ibb.co/NZB2Yc4/21bfeb72049e.png)
+* [Frostwire](https://play.google.com/store/apps/details?id=com.frostwire.android) - [Screenshot](https://i.ibb.co/kmg6wLw/0d4fda1932e7.png)
+* [WeTorrent Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#wetorrent-pro) - [Screenshot](https://i.ibb.co/MZXX136/f11425e5d8a7.png)
 * [Torrent Client](https://gitlab.com/axet/android-torrent-client) - [Screenshot](https://gitlab.com/axet/android-torrent-client#screenshots)
-* [BiglyBT](https://android.biglybt.com/) - [Screenshot](https://i.imgur.com/WP7xwYK.png) 
+* [BiglyBT](https://android.biglybt.com/) - [Screenshot](https://i.ibb.co/6W9TXG1/074a0e98aa52.png) 
 * [Trireme](https://github.com/teal77/trireme) or [Barrage](https://github.com/maulik9898/barrage) - Deluge Clients
 * [Transdroid](http://www.transdroid.org/) - Manage BitTorrent Clients / [Github](https://github.com/erickok/transdroid)
 * [nzb360](https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360) - NZB / Torrent Manager 
