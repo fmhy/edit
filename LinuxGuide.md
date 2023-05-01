@@ -242,7 +242,7 @@
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](http://remarkableapp.github.io/) - Markdown Editor
 * [Whatever](https://github.com/sbrshk/whatever) - Evernote Client
-* [Tmux](https://github.com/tmux/tmux) - Terminal Multiplexer
+* [Tmux](https://github.com/tmux/tmux) - Terminal Multiplexer / [Cheatsheet](https://tmuxcheatsheet.com/)
 * [asciinema](https://asciinema.org/) - Terminal Recorder
 * [Electerm](https://electerm.github.io/electerm) - Terminal / SSH / STP Client
 * [Yakuake](https://apps.kde.org/yakuake/) - Quake Style Terminal Emulator
