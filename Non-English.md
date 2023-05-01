@@ -1562,6 +1562,7 @@
 * [Cultura Para Todos](https://culturaparatodos.eu/) - Video / Audio / Reading / Software / Games
 * [SeriesTV](https://www.seriestv.in/foro.php) - Video / Audio / Reading / NSFW / Software / Games
 * [Flipax2](https://flipax2.me/) - Video / Audio / Reading / Software / Games
+* [La Taberna Del Cangrejo](http://www.latabernadelcangrejo.eu/) - Video / Audio
 * [Zypeliculashd](https://zypeliculashd.net/) - Movies / TV / Anime
 * [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / Latino / Castilian
 * [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - Movies
@@ -1667,6 +1668,8 @@
 * [doramasyt](https://www.doramasyt.com/) - Asian Drama
 * [doramasmp4](https://doramasmp4.io/) - Asian Drama
 * [DoramasFlix](https://doramasflixs.com/) - Asian Drama
+* [Flipax](https://flipax.es/) - Live Sports
+* [Teledeportiva2](https://teledeportiva2.blogspot.com/) - Live Sports
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Live Soccer / MMA
 * [JKAnime](https://jkanime.net/) - Anime
 * [AnimeFénix](https://www.animefenix.tv/) - Anime
