@@ -81,7 +81,7 @@ Basic Piracy Terminology
 **[HolyUnblocker](https://www.holyubofficial.net/)** - View sites blocked by ISP / school
 **[HaveIBeenPwned](https://haveibeenpwned.com/)** - Get notified when someone steals your accounts
 **[Mullvad](https://mullvad.net/) / [Proton](https://protonvpn.com) / [Surfshark](https://surfshark.com/)** - Paid VPNs
-**[Riseup](https://riseup.net/en/vpn)** - Free VPN / Proton also has a free version / [warning](https://i.imgur.com/3fFJZS4.png)
+**[Riseup](https://riseup.net/en/vpn)** - Free VPN / Proton also has a free version / [warning](https://i.ibb.co/VVyLXjs/0e2c6578c685.png)
 
 !!!note Note that a VPN is not needed outside of torrenting. You can avoid the need for one altogether by sticking to  direct download and streaming sites.
 
@@ -143,7 +143,7 @@ Basic Piracy Terminology
 ### Reading
 
 **[Mobilism](https://forum.mobilism.org) / [Library Genesis](http://libgen.rs/) / [Z-Library](https://singlelogin.me/)** - Books, audiobooks, comics & more
-**[Audiobook Bay](http://audiobookbay.ws/)** - Audiobook torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.imgur.com/tr0tbos.png)
+**[Audiobook Bay](http://audiobookbay.ws/)** - Audiobook torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png)
 **[ReadComicsOnline](https://readcomiconline.li/)** - Read comics online
 **[MangaReader](https://mangareader.to/)** - Read manga online
 **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [5](https://ravebooksearch.com/)** - Multi-site book search
