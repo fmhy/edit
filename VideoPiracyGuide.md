@@ -50,7 +50,6 @@
 * [AllMoviesForYou](https://amfy.io/) - Movies / TV
 * [FFilmClub](https://filmsclub.org/) - Movies / TV
 * [1movies](https://1movies.life/), [2](https://real-primewire.club/), [3](https://couchtuner.fashion/), [4](https://ww2.new-primewire.com/) - Movies / TV / Anime
-* [123MoviesGoTo](https://123moviesgoto.com/) -  Movies / TV
 * [123MoviesFree](https://ww1.123moviesfree.net/) - Movies / TV / Anime
 * [123Moviess](https://123moviess.net/) - Movies / TV
 * [Show Flix](https://showflix.in/lan/movie/English) - Movies / TV / Switch Audio Source in Settings
