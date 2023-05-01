@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/9Yf8V3a.png)** - For mobile users
+**[Table of Contents](https://i.ibb.co/34BQMbK/afc148157708.png)** - For mobile users
 
 ***
 ***
@@ -204,7 +204,7 @@
 * [Top Linux Interview Questions & Answers](https://github.com/nbats/FMHYedit/blob/main/base64.md#top-linux-interview-qas) - Linux Interview Q&A
 * [Photoshop Courses](https://github.com/nbats/FMHYedit/blob/main/base64.md#photoshop-courses) - Photoshop Course Drive
 * [Coursera-dl](https://github.com/coursera-dl/coursera-dl) - Download videos from Coursera
-* [Skillshare DL Guide](https://i.imgur.com/AIENK0K.png) or [HeckerNoHecking](https://skillshare.heckernohecking.repl.co/) - Skillshare Video Downloaders
+* [Skillshare DL Guide](https://i.ibb.co/GPPXKjZ/00248d0c0ba1.png) or [HeckerNoHecking](https://skillshare.heckernohecking.repl.co/) - Skillshare Video Downloaders
 * [skillsharefree](https://t.me/skillsharefree) - Skillshare Courses / Telegram
 * [avdshare](https://www.avdshare.com/udemy-downloader) - Download videos from Udemy
 * [Udemy Paid Courses Grabber](https://github.com/AmmeySaini/Udemy-Paid-Courses-Grabber) - Udemy Course Grabber
@@ -508,7 +508,7 @@ Simulator
 * [ESA](https://www.esa.int/) - European Space Agency Website
 * [Space.com](https://www.space.com/) - Space News
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Math and Physics Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#math-and-physics-books) - Astronomy Books
-* [The Universe Through Time](https://i.imgur.com/A2C6Vpc.jpeg) - Universe Timeline
+* [The Universe Through Time](https://i.ibb.co/pz9LfNr/01bbe9083644.jpg) - Universe Timeline
 * [Space Dashboard](https://spacedashboard.com/) - Space Live Stream Dashboard
 * [EarthData](https://worldview.earthdata.nasa.gov/) - Daily Satellite Replays
 * [NASA WorldWind](http://sourceforge.net/projects/nasa-exp/) or [Planet Globe](https://nbremer.github.io/planet-globe/) - Virtual Globes
@@ -759,7 +759,7 @@ Simulator
 * [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - Language Identification Test
 * [LocalLingual](https://localingual.com/) or [DialectArchive](https://www.dialectsarchive.com/globalmap)- Listen to Accents
 * [Interactive IPA Chart](https://www.ipachart.com/) - Learn Phonetic Alphabet Symbols
-* [Asian Script Differentiation Guide](https://i.imgur.com/yJPGS97.png)
+* [Asian Script Differentiation Guide](https://i.ibb.co/4mZrp9W/50cb83cedf34.png)
 * [Omniglot](https://omniglot.com/) - Writing System & Language Encyclopedia
 * [LexCity](http://lexicity.com/) - Ancient Language Learning Tools & Resources
 * [Plover](https://www.openstenoproject.org/plover/) - Stenography Engine / [GitHub](https://github.com/openstenoproject/plover) / [Discord](https://discord.gg/NAzMz7C3wq)
@@ -866,7 +866,7 @@ Simulator
 * [ScienceTrek](https://sciencetrek.org/) - Teaching Resources
 * [Socrative](https://www.socrative.com/) - Teaching App
 * [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - UPSC Telegram Channels
-* [Electromagnetic Radiation Spectrum Chart](https://i.imgur.com/wEV9MoJ.jpeg)
+* [Electromagnetic Radiation Spectrum Chart](https://i.ibb.co/qr0SXGN/01930032e368.jpg)
 * [Answers.com](https://www.answers.com/) or [Quora](https://www.quora.com/) / [Bypass](https://redd.it/ywml2b) / [Frontend](https://github.com/zyachel/quetre) - Q&A Communities
 * [Plickers](https://get.plickers.com/) - Q&A Results App
 * [Perplexity](https://www.perplexity.ai/) - Q&A AI
