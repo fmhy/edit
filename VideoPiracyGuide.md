@@ -470,7 +470,6 @@
 * [femboys.live](https://femboys.live/) - Sports
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [s365](https://www.s365.live/) - Sports
-* [JokerLiveStream](https://www.jokerlivestream.life/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
 * [720pStream](http://hdtv.720pstream.me/) - Sports
 * [FreeStreams](https://tv.freestreams-live1.tv/) - Sports / [Discord](https://discord.com/invite/eXXJzDPchU)
