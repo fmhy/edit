@@ -154,6 +154,7 @@
 * [ExtraTorrent](https://extratorrent.unblockit.kim/)
 * [Torrent Download](http://www.torentdownloads.narod.ru/)
 * [Torrenteer](http://torrenteer.ddns.net/)
+* [TorrentFunk](https://www.torrentfunk.com/), [2](https://www.torrentfunk2.com/)
 * [TorrentProject2](https://torrentproject2.com/), [2](https://torrentproject2.net/)
 * [ciligou0](http://ciligou0.com/)
 * [TorrentDB](https://torrentdb.li/)
