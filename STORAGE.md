@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/nEIcvma.png)** - For mobile users
+**[Table of Contents](https://i.ibb.co/QDnZb42/93c6c27bc968.png)** - For mobile users
 
 ***
 ***
@@ -715,7 +715,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Flash Player Tools
 
-* [How to Download & Play Flash Games](https://i.imgur.com/T6huIGF.png), [2](https://www.wikihow.com/Download-a-Flash-Game)
+* [How to Download & Play Flash Games](https://i.ibb.co/PFBJHT9/ae04fde6fe0b.png), [2](https://www.wikihow.com/Download-a-Flash-Game)
 * [Ruffle](https://ruffle.rs/) or [AwayFL](https://github.com/awayfl) - Flash Emulators
 * [swf2js](https://swf2js.com/en/) - JavaScript Flash Player Emulator
 * [Flash Browser](https://flash.pm/) / [Git](https://github.com/radubirsan/FlashBrowser) / [Discord](https://discord.com/invite/aeaq4Vbqr6) or [Basilisk](https://archive.org/details/basilisk-portable-with-flash) - Flash Player Browser
@@ -1065,7 +1065,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### Grammar Check
 
 * ⭐ **[Scribens](https://www.scribens.com/)**
-* ⭐ **[Jenni](https://jenni.ai/)** / [Free Method](https://i.imgur.com/nOz1LwH.png)
+* ⭐ **[Jenni](https://jenni.ai/)** / [Free Method](https://i.ibb.co/CwzQyzF/4c2af2db3adf.png)
 
 [Wordtune](https://www.wordtune.com/), [HemingwayApp](http://hemingwayapp.com/), [Grammark](https://grammark.org/), [SlickWrite](https://www.slickwrite.com/), [Ginger Software](https://www.gingersoftware.com/grammarcheck), [LanguageTool](https://languagetool.org/), [Grammarly](https://www.grammarly.com/), [Grammica](https://grammica.com/), [Ludwig](https://ludwig.guru/), [Scribbr](https://www.scribbr.com/), [Writer](https://writer.com/), [WordCounter](https://wordcounter.net/), [RewriteTools](https://www.rewritertools.com/), [TextGears](https://textgears.com/check-grammar-online), [PolishMyWriting](https://www.polishmywriting.com/) , [Reverso Spellcheck](https://www.reverso.net/spell-checker/english-spelling-grammar/), [spellcheckplus](https://spellcheckplus.com/), [GrammarCheck](https://www.grammarcheck.net/), [ContentRow](https://www.contentrow.com/), [BibMe](https://www.bibme.org/), [DeepL Write](https://www.deepl.com/write), [PaperPal](https://paperpal.com/)
 
@@ -1165,7 +1165,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 **Waifu2x Tools**
 
-[Guide](https://i.imgur.com/55s8sU5.png) / [Colab](https://colab.research.google.com/drive/1RjyCk30cc24ez1-a1Qa3CP3g_yk9AJwq) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/nihui/waifu2x-ncnn-vulkan), [3](https://waifu2x.booru.pics/), [4](https://waifu2x.pro/), [5](http://waifu2x.udp.jp/), [6](https://waifu2x.org/), [7](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
+[Guide](https://i.ibb.co/1MXJNPB/2eb637667b02.png) / [Colab](https://colab.research.google.com/drive/1RjyCk30cc24ez1-a1Qa3CP3g_yk9AJwq) / [GUI](https://github.com/YukihoAA/waifu2x_snowshell/releases), [2](https://github.com/nihui/waifu2x-ncnn-vulkan), [3](https://waifu2x.booru.pics/), [4](https://waifu2x.pro/), [5](http://waifu2x.udp.jp/), [6](https://waifu2x.org/), [7](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)
 
 **ESRGAN Models**
 
@@ -1259,7 +1259,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### IRC Book Sites
 
 * irc://irc.undernet.org/bookz
-* irc://irc.irchighway.net/ebooks / [Request Guide](https://i.imgur.com/GvyDh0B.png)
+* irc://irc.irchighway.net/ebooks / [Request Guide](https://i.ibb.co/3WcCF56/3574e36b1bb2.png)
 
 ***
 
@@ -1316,7 +1316,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Linux Distros
 
-* ⭐ **[Linux Difficulty Chart](https://i.imgur.com/H8sw3L4.png)**
+* ⭐ **[Linux Difficulty Chart](https://i.ibb.co/kXJdBrF/98e87fc317dd.png)**
 * ⭐ **[DistroChooser](http://distrochooser.de/?l=2)** or [Fushra](https://distros.fushra.com/)
 * ⭐ **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)**
 * ⭐ **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)**
@@ -1667,7 +1667,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Office Suites
 
-* ⭐ **[Microsoft Office DL Guides](https://github.com/nbats/FMHYedit/blob/main/base64.md#microsoft-office-dl-guides)** / [Download](https://files.rg-adguard.net/) / [Hot Keys](https://i.imgur.com/PE7l9NB.png) / [Account Creator](https://github.com/adityash4rma/bulk_microsoft_A1_creator)
+* ⭐ **[Microsoft Office DL Guides](https://github.com/nbats/FMHYedit/blob/main/base64.md#microsoft-office-dl-guides)** / [Download](https://files.rg-adguard.net/) / [Hot Keys](https://i.ibb.co/0m9t95b/ebacd47bf83b.png) / [Account Creator](https://github.com/adityash4rma/bulk_microsoft_A1_creator)
 * [Activation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation) - Activate Microsoft Office
 * [LibreOffice](https://www.libreoffice.org/)
 * [FreeOffice](https://www.freeoffice.com/en/)
@@ -2006,7 +2006,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Privacy Hardened Firefox
 
-* ⭐ **[user.js Warning](https://i.imgur.com/ZMQJHwC.png)**
+* ⭐ **[user.js Warning](https://i.ibb.co/Vpkrsg4/44160f4625bc.png)**
 * ⭐ **[ffprofile](https://ffprofile.com/)**
 * ⭐ **[Betterfox](https://github.com/yokoffing/Betterfox)**
 * ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**
@@ -2027,7 +2027,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### qBitorrent Tools
 
-* [Multi-Connection](https://github.com/qBitMF/qBitMF) / [Screenshot](https://i.imgur.com/CM4H3Jt.png)
+* [Multi-Connection](https://github.com/qBitMF/qBitMF) / [Screenshot](https://i.ibb.co/pj9LrT1/6623c6638f4a.png)
 * [Plugins](https://github.com/qbittorrent/search-plugins#search-plugins)
 * [Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 * [Themes](https://github.com/jagannatharjun/qbt-theme) / [Dark Theme](https://draculatheme.com/qbittorrent)
@@ -2523,7 +2523,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[DoubleDouble](https://doubledouble.top/)**
 * ⭐ **[Soggfy](https://github.com/Rafiuth/Soggfy)** / [Discord](https://discord.gg/gjqrP5PB8g)
 
-[DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot), [CLSpotify](https://agent255.github.io/clspotifyweb/) / [GitHub](https://github.com/agent255/clspotify), [spotify_sync](https://github.com/jbh-cloud/spotify_sync), [OnTheSpot](https://github.com/casualsnek/onthespot), [Zotify](https://zotify.xyz/zotify/zotify), [Deezer Method](https://i.imgur.com/cszNECK.png)
+[DownOnSpot](https://github.com/oSumAtrIX/DownOnSpot), [CLSpotify](https://agent255.github.io/clspotifyweb/) / [GitHub](https://github.com/agent255/clspotify), [spotify_sync](https://github.com/jbh-cloud/spotify_sync), [OnTheSpot](https://github.com/casualsnek/onthespot), [Zotify](https://zotify.xyz/zotify/zotify), [Deezer Method](https://i.ibb.co/hC3c0Gs/69f9179b5bfe.png)
 
 **Spotify YouTube Downloaders**
 
