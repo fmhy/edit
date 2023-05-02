@@ -219,6 +219,7 @@
 * [InternetSlangTranslator](https://lingojam.com/InternetSlangTranslator2-0) - Translate Text to Slang
 * [The Pirate Translator](https://pirate.monkeyness.com/translate) - Translate Text to Pirate
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
+* [eeemo](https://eeemo.net/) - Cursed Text
 * [typ3r](https://typ3r.aavi.me/) - tRaNSlAtE tEXT lik3 THiS
 * [Gematrinator](https://gematrinator.com/calculator) or [Gematrix](https://www.gematrix.org/) - Gematria Calculators
 * [SoftMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
