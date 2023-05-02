@@ -42,7 +42,7 @@
 * [StreamLord](http://www.streamlord.com/) - Movies / TV
 * [WapFever](https://wapfever.com/) - Movies
 * [Trailers.to](https://trailers.to/) - Movies / TV / [Bypass Quota](https://openvideofs.github.io/)
-* [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://i.imgur.com/Ij8muns.mp4)
+* [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://i.imgur.com/CdFCNWA.mp4)
 * [9PM](https://9pm.to/) - Movies / TV
 * [Goojara](https://www.goojara.to/) - Movies / TV / Anime
 * [SpaceMov](https://spacemov.site/) - Movies / TV
