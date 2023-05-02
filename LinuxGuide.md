@@ -461,6 +461,7 @@
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Volume Mixer / Auto-Pause
 * [BatteryBuddy](https://batterybuddy.app/) - Cute Battery Indicator
 * [Bunch](https://bunchapp.co/) - Task Automation
+* [MacScripter](https://www.macscripter.net/) - Automation Forum
 * [Find You](https://github.com/positive-security/find-you) - Track Bluetooth Devices
 * [Touché](https://redsweater.com/touche/) - Touch Bar Simulator
 * [pock](https://pock.app/) - Touch Bar Widget Manager / [GitHub](https://github.com/pock/pock)
