@@ -1392,6 +1392,9 @@
 * [SongMeanings](https://songmeanings.com/) - Discover Song Meanings
 * [ColorNames](https://colornames.org/) - Help Name Colors
 * [House Creep](https://www.housecreep.com/) - Homes With A Curious or Criminal History
+* [UFO Casebook](https://www.ufocasebook.com/), [UFO Discovery](https://app.polymersearch.com/polymerexamples/UFO_Sightings) or [UFO Sighting Chart](https://i.redd.it/0l9ugv9kz4091.jpg) - UFO Sighting Lists / Tracking
+* [BFRO](https://bfro.net/) - Bigfoot Research Site
+* [TheShadowlands](http://theshadowlands.net/) - Oldschool Paranormal Research Site
 * [Spec Wiki](https://speculativeevolution.fandom.com/wiki/Main_Page) - Speculative Evolution Wiki
 * [FutureTimeline](https://www.futuretimeline.net/) - Timeline of Future Predictions
 * [Nested](http://orteil.dashnet.org/nested) - Explore the Universe in a File System
@@ -1446,6 +1449,7 @@
 * [The Gyllenhaal Experiment](https://pudding.cool/2019/02/gyllenhaal/) - Common Pop Star Misspellings
 * [TheCrowBox](https://thecrowbox.com/) - Help Train Crows
 * [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](http://trackdollar.com/) - Dollar Tracking
+* [WordCount](https://www.vidarholen.net/contents/wordcount/) - Most Common Linux kernal source code Words
 * [DeletedCity](http://deletedcity.net/) - Geocities Visualizer 
 * [info.cern](http://info.cern.ch/) - First Website on the Internet
 
