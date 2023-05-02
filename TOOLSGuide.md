@@ -1495,7 +1495,6 @@
 * [YouTube Real Cinema Mode](https://userstyles.org/styles/122032/youtube-real-cinema-mode) or [Youtube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Cinema Mode
 * [Simple YouTube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) / [2](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - Bypass YouTube Age Restrictions
 * [YTUnblock](https://ytunblock.weebly.com/) - Bypass YouTube Geo-Restrictions
-* [YouTube RSS Finder](https://github.com/teddy-gustiaux/youtube-rss-finder) - Create YouTube RSS Feeds 
 * [Create YouTube RSS](https://www.ghacks.net/2022/08/01/how-to-subscribe-to-youtube-rss-feeds-without-third-party-services/) - How-to Create YouTube Channel / Playlist RSS Feeds
 * [PocketTube](https://pockettube.io/) or [Kadium](https://kadium.kasper.space/) - YouTube Subscription Manager / Organizer 
 * [FreshTube](https://porjo.github.io/freshtube/) - Display Latest Video from Subscriptions 
@@ -1514,7 +1513,6 @@
 * [TabView YouTube](https://greasyfork.org/en/scripts/428651) - View Comments / Info in Tab View
 * [Petit tube](http://www.petittube.com/) - YouTube Vids with -100 views 
 * [YouTube-Geofind](https://mattw.io/youtube-geofind/location) - Find Geotagged Videos
-* [Astronaut](http://astronaut.io/) - Watch Videos with 0 Views
 * [Default Filename](https://default-filename-tv.neocities.org/) - Random Default Filename YouTube Videos
 * [Tubeup](https://github.com/bibanon/tubeup) or [yark](https://github.com/Owez/yark) - Archive Youtube Videos and Playlists
 * [Unlisted Videos](https://unlistedvideos.com/) - Watch / Submit Unlisted YouTube Videos
