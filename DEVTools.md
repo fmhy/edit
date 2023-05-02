@@ -112,6 +112,7 @@
 * [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Javascript Query Style Events Guide
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - Javascript Style Guide
 * [Javascript Today](https://blog.javascripttoday.com/) - Javascript Blog
+* [Untrusted](https://alexnisnevich.github.io/untrusted/) - Javascript Learning Game
 * [backendlore](https://github.com/fpereiro/backendlore) - Backend Coding Guide
 * [backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - Backend Challenges for Practice
 * [Tackling TS](https://exploringjs.com/tackling-ts/toc.html) or [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
@@ -938,6 +939,7 @@
 * ⭐ **[GotHub](https://codeberg.org/gothub/gothub)** - GitHub Frontend
 * ⭐ **[GitLab](https://about.gitlab.com/)**, [FSFE](https://git.fsfe.org/) or [NotABug](https://notabug.org/) - GitHub Alternatives
 * [GitHubStatus](https://www.githubstatus.com/) - GitHub Outage Status
+* [Githut](https://githut.info/) - GitHub Programming Language Stats
 * [Git Explorer](https://gitexplorer.com/), [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html), [git-cheatsheet](https://hackprogramming.com/notes/git-cheatsheet) or [Git Commands](https://gabrieldejesus.github.io/git-commands/) / [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists / Search
 * [GitHub Desktop](https://desktop.github.com/) / [Linux](https://github.com/shiftkey/desktop), [Git-Fork](https://git-fork.com/) or [Tower](https://github.com/nbats/FMHYedit/blob/main/base64.md#tower) - Git Clients
 * [GitHub.Dev](https://github.dev/) - GitHub Web App
@@ -1154,6 +1156,7 @@
 * [overmind](https://github.com/DarthSim/overmind) or [foreman](https://github.com/ddollar/foreman) - Process Managers
 * [cpp.sh](http://cpp.sh/) - Online C++ Compiler
 * [CP-Algorithms](https://cp-algorithms.com/) - C++ Algorithms
+* [CDECL](https://cdecl.org/) - C++ to English Translator
 * [The Algorithms](https://the-algorithms.com/) - Algorithms Index
 * [Clang](https://clang.llvm.org/) - C Language Family Frontend
 * [RoslynPad](https://roslynpad.net/) - C# Editor
@@ -1213,7 +1216,7 @@
 * [Countries](https://github.com/mledoze/countries) - World Countries in JSON, CSV, XML & YAML
 * [PlantText](https://www.planttext.com/) - UML Editor
 * [glogg](https://glogg.bonnefon.org/) - Log File Explorer
-* [Code::Stats](https://codestats.net/) - Programmer Stat Tracking
+* [Code::Stats](https://codestats.net/) or [Wakatime](https://wakatime.com/) - Programmer Stat Tracking
 * [oq](https://github.com/Blacksmoke16/oq) - Programming Language Processor
 * [Tables Generator](https://www.tablesgenerator.com/) - Generates Tables in Various Languages
 * [WiredJS](https://wiredjs.github.io/designer/) - Wireframe Designer
@@ -1271,6 +1274,7 @@
 * [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [IDE One](https://www.ideone.com/), [GodBolt](https://godbolt.org/) or [Wandbox](https://wandbox.org/) - Compiler Explorers
 * [DogBolt](https://dogbolt.org/) or [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorers
 * [Notebooks.azure](https://notebooks.azure.com/) - Access Jupyter Notebooks
+* [NBviewer](https://nbviewer.org/) - Jupyter Notebook Sharing
 * [Jupyter Server](https://github.com/jupyter-server/jupyter_server) - Jupyter Services / APIs
 * [Anywidget](https://github.com/manzt/anywidget) - Create Jupyter Widgets
 * [CoCalc](https://cocalc.com/) - Virtual online workspace
