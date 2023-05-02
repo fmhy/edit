@@ -535,6 +535,7 @@
 * [The National Archives](https://nationalarchives.gov.uk/) - UK Historical Documents
 * [Jewish Virtual Library](https://www.jewishvirtuallibrary.org/) - Encyclopedia of Jewish / Israeli History
 * [History Newsboys of 1899](https://github.com/nbats/FMHYedit/blob/main/base64.md#history-newsboys-of-1899) - Books / Documents
+* [ETHW](https://ethw.org/) - Engineering and Technology History Wiki
 * [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive
 * [The Morgan Library Museum](https://www.themorgan.org/music) or [DIAMM](https://www.diamm.ac.uk/) - Musical Manuscripts
 * [Lee B. Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#lee-b-drive) - Black History Books
@@ -542,6 +543,7 @@
 * [ByzantineMilitary](https://byzantinemilitary.blogspot.com/) - Byzantine Military History
 * [WarshipsResearch](https://warshipsresearch.blogspot.com/) - Maritime History
 * [Carti](https://enryo.ro/carti/) - Japanese Martial Arts History Books
+* [Wiktenauer](https://wiktenauer.com/) - Historical European Martial Arts Wiki
 * [The History of Maritime Piracy](http://www.cindyvallar.com/pirates.html) - Piracy History Blog
 * [Van Gogh Letters](http://vangoghletters.org/vg/) or [VGGallery](http://vggallery.com/) - Vincent van Gogh Letters
 * [DigitalTransgenderArchive](https://www.digitaltransgenderarchive.net/) - Transgender History Archive
@@ -1119,6 +1121,7 @@
 * [Magzter](https://www.magzter.com/top-free-magazines)
 * [FlipHTML5](https://fliphtml5.com/exploring)
 * [MagDownload](https://magdownload.org/)
+* [Lainzine](https://lainzine.org/) - Lain-inspired Magazine
 * [Retromags](https://www.retromags.com/) or [Annarchive](https://www.annarchive.com/) - Retro Game Magazines
 * [PC Zone](http://pixsoriginadventures.co.uk/PCZone/) - PC Zone Magazines
 * [CGW Museum](https://www.cgwmuseum.org/) - Computer Gaming World Magazines
