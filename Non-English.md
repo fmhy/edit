@@ -842,10 +842,9 @@
 
 ## ▷ Reading
 
-* [itazuraneko](https://itazuraneko.neocities.org/library/librarymain) - Manga / Novels / Video Novels / Audiobooks
+* [itazuraneko](https://itazuraneko.neocities.org/) - Manga / Novels / Video Novels / Audiobooks
 * [Rawmangaz](https://rentry.co/rawmangaz) - List of Raw Manga Sites
 * [senmanga](https://raw.senmanga.com/) - Manga / Novels / NSFW
-* [itazuraneko](https://itazuraneko.org/) - Books
 * [rawdevart](https://endevart.com/) - Manga
 * [DLRaw](https://dlraw.to/), [2](https://manga-zip.is/), [3](https://manga-zip.tv/) - Manga
 * [Raw-Zip](http://raw-zip.com/) - Manga
@@ -1457,7 +1456,7 @@
 * [Telik](http://telik.live/) - TV
 * [bigserial.net](http://bigserial.net/) - TV
 * [AniLabX](https://github.com/CrazyXacker/anilabx) - Anime / Cartoons / Drama
-* [Shiza Project](https://shiza-project.com/) - Anime
+* [Shiza Project](https://shiza-project.com/) - Anime / Fan Dubs
 * [otakustudio](http://www.otakustudio.tv/) - Anime
 * [DarkLibria](https://darklibria.it/) - Anime
 * [Soviet Movies Online](https://sovietmoviesonline.com/cartoons) - Cartoons
