@@ -559,8 +559,6 @@ Simulator
 * [The Scale of the Universe](https://www.htwins.net/) - Universe Scale Simulator
 * [astro.sfasu](http://astro.sfasu.edu/courses/ast305/homework/) - Astronomy Homework
 * [CDS](https://cds.u-strasbg.fr/) - Astronomical Database
-* [UFO Discovery](https://app.polymersearch.com/polymerexamples/UFO_Sightings) - UFO Sightings Tracker
-* [UFO Sighting Chart](https://i.redd.it/0l9ugv9kz4091.jpg) - Common UFO Sighting Locations
 
 ***
 # ► [Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_art_education)
@@ -961,7 +959,7 @@ Simulator
 * [CESDB](https://www.cesdb.com/) - Civil Engineering Software
 * [How a Car Works](https://www.howacarworks.com/) - Car Mechanics / Automotive Engineering Guides
 * [Neptune](https://youtu.be/gTNVxHSemxA) or [ERS3D](http://www.ers3d.com/home/moduleInfo.do?moduleId=11&listId=92) - Marine Engineering Room Simulator
-* [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
+* [HDLBits](https://hdlbits.01xz.net/) - Learn Circuit Design
 * [FliteTest](https://www.flitetest.com/) - DIY Drone Guides
 * [Traffic Simulation](https://traffic-simulation.de/) - Traffic Flow Simulation
 * [Bridge Command](https://www.bridgecommand.co.uk/) - Bridge Command Ship Simulator
