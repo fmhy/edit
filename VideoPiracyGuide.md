@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/ATbZd5O.png)** - For mobile users
+**[Table of Contents](https://i.ibb.co/zJ1b9qc/9dbbc10b0db2.png)** - For mobile users
 
 ***
 ***
@@ -149,7 +149,7 @@
 * [MovieStars](https://moviestars.to/) or [WinNoise](https://winnoise.com) - Movies / TV / Anime
 * [FreeGreatMovies](https://www.freegreatmovies.com/) - Movies
 * [NetMovies](https://netmovies.to/) - Movies / TV
-* [Kinos](https://www.kinos.to/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Switch Language](https://i.imgur.com/1rWX9Of.png) (in options)
+* [Kinos](https://www.kinos.to/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Switch Language](https://i.ibb.co/n1Kb14T/64d0fb9444e1.png) (in options)
 * [SolarMovie](https://wwv.solarmovie.one/) - Movies / TV / Anime
 * [GoMovies](https://gomovies.pics/) - Movies / TV
 * [WatchSeries](https://watchseries.cyou/) - Movies / TV
@@ -222,7 +222,7 @@
 
 * ⭐ **[How-to Find Rare Movies](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies)** - Find Obscure Films
 * ⭐ **[RareFilmm](https://rarefilmm.com/)** - Rare Movies
-* ⭐ **[JP-Films](https://jp-films.com/)** - Japanese Movies / TV / Select ["Watch Free"](https://i.imgur.com/TD7bz7v.jpg)
+* ⭐ **[JP-Films](https://jp-films.com/)** - Japanese Movies / TV / Select ["Watch Free"](https://i.ibb.co/B6q61nN/237c097d5e66.jpg)
 * ⭐ **[GizmoPlex](https://www.gizmoplex.com/mst3k)** - MST3K Movies
 * ⭐ **[Rifftrax Twitch](https://www.twitch.tv/rifftrax)** or [RiffTrax Pluto](https://pluto.tv/live-tv/rifftrax) - RiffTrax Live Streams
 * ⭐ **[Ubu](https://ubu.com/film/)** - Short Films / Avant-Garde
@@ -655,7 +655,7 @@
 * [FilmFans](https://filmfans.org/) - HD Movies
 * [ShowBox](https://www.showbox.media/) - HD Movies / TV / [How-to](https://rentry.co/febbox)
 * [IRC Movie Channels](https://pastebin.com/2AeYizZK)
-* [StreamFab](https://pastebin.com/Kgui74wd) - Premium Streaming Site Video Downloader / [Screenshot](https://i.imgur.com/cH0XLZs.png)
+* [StreamFab](https://pastebin.com/Kgui74wd) - Premium Streaming Site Video Downloader / [Screenshot](https://i.ibb.co/jVZrKP0/9199d0de02de.png)
 * [Gophie](https://github.com/Go-phie/gophie), [Movie CLI](https://github.com/mov-cli/mov-cli) or [Movies-and-Series-Scraper](https://github.com/yousefkotp/Movies-and-Series-Scraper) - Streaming Site Download CLI
 * [123MoviesRipper](https://github.com/Xonshiz/123MoviesRIpper) - 123Movies Downloader
 * [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - Add Download Site Results to IMDb
@@ -906,7 +906,7 @@
 * [Netflix Codes](https://www.netflix-codes.com/) - Netflix Category Codes
 * [ReelScary](http://www.reelscary.com/) - Movies Rated by Scariness
 * [Film Genre Wiki](https://en.wikipedia.org/wiki/Template:Film_genres) - Movie Genre List
-* [Horror Sub-Genre Guide](https://i.stack.imgur.com/lAEV1.png) - List of Horror Genres
+* [Horror Sub-Genre Guide](https://i.ibb.co/F8Hj3xm/a76eecc33d4c.png) - List of Horror Genres
 * [Based on the Book](https://www.mymcpl.org/books-movies-music/read/based-on-the-book) - List of Movies Based on Books
 * [What is My Movie?](https://www.whatismymovie.com/) - Find Movie Based on Description
 * [Find Movie](https://find-movie.info/) or [QuoDB](https://www.quodb.com/) - Find Movie With Quotes
@@ -921,7 +921,7 @@
 * [DramaWiki](https://wiki.d-addicts.com/) - Asian Drama Wiki
 * [MyDramaList](https://mydramalist.com/) - Asian Drama Tracker
 * [MythBank](https://mythbank.com/) - Media Timelines / Watch Orders
-* [MCU Precise Chronological Order](https://i.imgur.com/tczG4iI.jpg)
+* [MCU Precise Chronological Order](https://i.ibb.co/B4Fcymc/cc70ea1fcbb7.jpg)
 * [watch_order](https://www.reddit.com/r/anime/wiki/watch_order) - Anime Watch Orders [/r/anime](https://reddit.com/r/anime)
 * [Anime Notifier](https://notify.moe/) - Anime List, Tracker, Database & Notifier 
 * [Tiaga](https://taiga.moe/) - Anime Tracking Program / [GitHub](https://github.com/erengy/taiga)
@@ -1010,7 +1010,7 @@
 * ⭐ **[Media Data Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_file_data_automation)** - Find Media File Data Automatically
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Use Streaming Sites in Ad Free Player w/ subs, Speed Control & More
 * ⭐ **[WhereYouWatch](https://whereyouwatch.com/latest-reports/)**, [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates), [Torrent Alert](https://play.google.com/store/apps/details?id=com.torrentalert.app&hl=en&gl=US) or [/r/movieleaks](https://reddit.com/r/movieleaks) - Movie Leak Notifications
-* ⭐ **[Quality / Release Type Guide](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)** - Video Quality / Release Type Guide / [Image Guide](https://i.imgur.com/kEOrKJT.png) / [Streaming Site Guide](https://redd.it/yykvnv)
+* ⭐ **[Quality / Release Type Guide](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)** - Video Quality / Release Type Guide / [Image Guide](https://i.ibb.co/qRQmZ7n/cf75f1fbf986.png) / [Streaming Site Guide](https://redd.it/yykvnv)
 * ⭐ **[Release Group List](https://github.com/Cloudbox/Community/wiki/Quality-Release-Groups)** - Movie / TV Release Group Index
 * ⭐ **[/r/animepiracy Wiki](https://thewiki.moe/)** - Anime Piracy Guides / Tutorials
 * [Media Stack DIY](http://tennojim.xyz/article/media_stack_diy) - High Quality Streaming Guide
