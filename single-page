@@ -3721,6 +3721,7 @@ pass: paluch
 * [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) - Javascript Query Style Events Guide
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - Javascript Style Guide
 * [Javascript Today](https://blog.javascripttoday.com/) - Javascript Blog
+* [Untrusted](https://alexnisnevich.github.io/untrusted/) - Javascript Learning Game
 * [backendlore](https://github.com/fpereiro/backendlore) - Backend Coding Guide
 * [backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - Backend Challenges for Practice
 * [Tackling TS](https://exploringjs.com/tackling-ts/toc.html) or [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
@@ -4547,6 +4548,7 @@ pass: paluch
 * ⭐ **[GotHub](https://codeberg.org/gothub/gothub)** - GitHub Frontend
 * ⭐ **[GitLab](https://about.gitlab.com/)**, [FSFE](https://git.fsfe.org/) or [NotABug](https://notabug.org/) - GitHub Alternatives
 * [GitHubStatus](https://www.githubstatus.com/) - GitHub Outage Status
+* [Githut](https://githut.info/) - GitHub Programming Language Stats
 * [Git Explorer](https://gitexplorer.com/), [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html), [git-cheatsheet](https://hackprogramming.com/notes/git-cheatsheet) or [Git Commands](https://gabrieldejesus.github.io/git-commands/) / [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists / Search
 * [GitHub Desktop](https://desktop.github.com/) / [Linux](https://github.com/shiftkey/desktop), [Git-Fork](https://git-fork.com/) or [Tower](https://github.com/nbats/FMHYedit/blob/main/base64.md#tower) - Git Clients
 * [GitHub.Dev](https://github.dev/) - GitHub Web App
@@ -4763,6 +4765,7 @@ pass: paluch
 * [overmind](https://github.com/DarthSim/overmind) or [foreman](https://github.com/ddollar/foreman) - Process Managers
 * [cpp.sh](http://cpp.sh/) - Online C++ Compiler
 * [CP-Algorithms](https://cp-algorithms.com/) - C++ Algorithms
+* [CDECL](https://cdecl.org/) - C++ to English Translator
 * [The Algorithms](https://the-algorithms.com/) - Algorithms Index
 * [Clang](https://clang.llvm.org/) - C Language Family Frontend
 * [RoslynPad](https://roslynpad.net/) - C# Editor
@@ -4822,7 +4825,7 @@ pass: paluch
 * [Countries](https://github.com/mledoze/countries) - World Countries in JSON, CSV, XML & YAML
 * [PlantText](https://www.planttext.com/) - UML Editor
 * [glogg](https://glogg.bonnefon.org/) - Log File Explorer
-* [Code::Stats](https://codestats.net/) - Programmer Stat Tracking
+* [Code::Stats](https://codestats.net/) or [Wakatime](https://wakatime.com/) - Programmer Stat Tracking
 * [oq](https://github.com/Blacksmoke16/oq) - Programming Language Processor
 * [Tables Generator](https://www.tablesgenerator.com/) - Generates Tables in Various Languages
 * [WiredJS](https://wiredjs.github.io/designer/) - Wireframe Designer
@@ -4880,6 +4883,7 @@ pass: paluch
 * [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [IDE One](https://www.ideone.com/), [GodBolt](https://godbolt.org/) or [Wandbox](https://wandbox.org/) - Compiler Explorers
 * [DogBolt](https://dogbolt.org/) or [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorers
 * [Notebooks.azure](https://notebooks.azure.com/) - Access Jupyter Notebooks
+* [NBviewer](https://nbviewer.org/) - Jupyter Notebook Sharing
 * [Jupyter Server](https://github.com/jupyter-server/jupyter_server) - Jupyter Services / APIs
 * [Anywidget](https://github.com/manzt/anywidget) - Create Jupyter Widgets
 * [CoCalc](https://cocalc.com/) - Virtual online workspace
@@ -9523,7 +9527,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Extensions**
 
-[SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ), [archiveror](https://github.com/rahiel/archiveror), [archiveweb](https://archiveweb.page/), [Wayback Machine](https://github.com/internetarchive/wayback-machine-webextension), [Web Archives](https://github.com/dessant/web-archives), [Vandal](https://vegetableman.github.io/vandal/) / [Git](https://github.com/vegetableman/vandal), [simplescraper](https://simplescraper.io/), [markdownload](https://github.com/deathau/MarkDownload)
+[SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ), [archiveror](https://github.com/rahiel/archiveror), [archiveweb](https://archiveweb.page/), [Wayback Machine](https://github.com/internetarchive/wayback-machine-webextension), [Web Archives](https://github.com/dessant/web-archives), [Vandal](https://vegetableman.github.io/vandal/) / [Git](https://github.com/vegetableman/vandal), [simplescraper](https://simplescraper.io/), [markdownload](https://github.com/deathau/MarkDownload), [Instant Data](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)
 
 ***
 
@@ -10118,7 +10122,6 @@ Add the following commands to a search to manually scrape each site.
 * [FunnierMoments](https://www.funniermoments.net/)
 * [b98](https://www.b98.tv/)
 * [Disney Video](https://video.disney.com/series/) - Disney Series & Shorts
-* [spongebob-cli](https://github.com/trakBan/spongebob-cli) - Spongebob Episode CLI
 * [South Park](https://www.southparkstudios.com/) - South Park Episodes / [Downloader](https://github.com/thepwrtank18/spdl)
 * [ToonamiAftermath](https://www.toonamiaftermath.com/) - Toonami Stream 
 
@@ -12972,8 +12975,6 @@ Simulator
 * [The Scale of the Universe](https://www.htwins.net/) - Universe Scale Simulator
 * [astro.sfasu](http://astro.sfasu.edu/courses/ast305/homework/) - Astronomy Homework
 * [CDS](https://cds.u-strasbg.fr/) - Astronomical Database
-* [UFO Discovery](https://app.polymersearch.com/polymerexamples/UFO_Sightings) - UFO Sightings Tracker
-* [UFO Sighting Chart](https://i.redd.it/0l9ugv9kz4091.jpg) - Common UFO Sighting Locations
 
 ***
 # ► [Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25BA_art_education)
@@ -13374,7 +13375,7 @@ Simulator
 * [CESDB](https://www.cesdb.com/) - Civil Engineering Software
 * [How a Car Works](https://www.howacarworks.com/) - Car Mechanics / Automotive Engineering Guides
 * [Neptune](https://youtu.be/gTNVxHSemxA) or [ERS3D](http://www.ers3d.com/home/moduleInfo.do?moduleId=11&listId=92) - Marine Engineering Room Simulator
-* [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
+* [HDLBits](https://hdlbits.01xz.net/) - Learn Circuit Design
 * [FliteTest](https://www.flitetest.com/) - DIY Drone Guides
 * [Traffic Simulation](https://traffic-simulation.de/) - Traffic Flow Simulation
 * [Bridge Command](https://www.bridgecommand.co.uk/) - Bridge Command Ship Simulator
@@ -13603,7 +13604,7 @@ Simulator
 * [Basaran](https://github.com/hyperonym/basaran) - Text Autocomplete AI
 * [Compose](https://www.compose.ai/) - Text Autocomplete AI Extension
 * [InkForAll](https://app.inkforall.com/tools) - Multiple AI Text Tools
-* [SheetPlus](https://sheetplus.ai/), [FormulaHive](https://formulahive.com/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [ExcelFormulaBot](https://excelformulabot.com/) - Excel AI Tools
+* [SheetPlus](https://sheetplus.ai/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [ExcelFormulaBot](https://excelformulabot.com/) - Excel AI Tools
 * [GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) - Text Classification AI
 * [Image2Paragraph](https://github.com/showlab/Image2Paragraph) - Image to Descriptive Paragraph
 * [MathGPT](https://mathgpt.streamlit.app/) - Math Solving AI
@@ -13811,10 +13812,6 @@ Simulator
 * [TeachableMachine](https://teachablemachine.withgoogle.com/) or [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
 * [Netron](https://github.com/lutzroeder/netron) -  Visualizer for Neural Network, Deep Learning, and Machine Learning Models
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
-* [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons
-* [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
-* [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book
-* [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
 * [MiniGPT-4](https://minigpt-4.github.io/) - Advanced Large Language Models
 * [Megatron-LM](https://github.com/NVIDIA/Megatron-LM#retro) - LLM Training Codebase
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
@@ -13822,6 +13819,12 @@ Simulator
 * [Langchain](https://github.com/hwchase17/langchain) - Build Apps via LLM
 * [GPTCache](https://github.com/zilliztech/GPTCache) - LLM Response Cache
 * [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
+* [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons
+* [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
+* [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book
+* [MetaAcademy](https://metacademy.org/) - Machine Learning Guides
+* [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
+* [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
 ***
 ***
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
@@ -13978,6 +13981,7 @@ Simulator
 * [ExtraTorrent](https://extratorrent.unblockit.kim/)
 * [Torrent Download](http://www.torentdownloads.narod.ru/)
 * [Torrenteer](http://torrenteer.ddns.net/)
+* [TorrentFunk](https://www.torrentfunk.com/), [2](https://www.torrentfunk2.com/)
 * [TorrentProject2](https://torrentproject2.com/), [2](https://torrentproject2.net/)
 * [ciligou0](http://ciligou0.com/)
 * [TorrentDB](https://torrentdb.li/)
@@ -15457,6 +15461,9 @@ Simulator
 * [SongMeanings](https://songmeanings.com/) - Discover Song Meanings
 * [ColorNames](https://colornames.org/) - Help Name Colors
 * [House Creep](https://www.housecreep.com/) - Homes With A Curious or Criminal History
+* [UFO Casebook](https://www.ufocasebook.com/), [UFO Discovery](https://app.polymersearch.com/polymerexamples/UFO_Sightings) or [UFO Sighting Chart](https://i.redd.it/0l9ugv9kz4091.jpg) - UFO Sighting Lists / Tracking
+* [BFRO](https://bfro.net/) - Bigfoot Research Site
+* [TheShadowlands](http://theshadowlands.net/) - Oldschool Paranormal Research Site
 * [Spec Wiki](https://speculativeevolution.fandom.com/wiki/Main_Page) - Speculative Evolution Wiki
 * [FutureTimeline](https://www.futuretimeline.net/) - Timeline of Future Predictions
 * [Nested](http://orteil.dashnet.org/nested) - Explore the Universe in a File System
@@ -15511,6 +15518,7 @@ Simulator
 * [The Gyllenhaal Experiment](https://pudding.cool/2019/02/gyllenhaal/) - Common Pop Star Misspellings
 * [TheCrowBox](https://thecrowbox.com/) - Help Train Crows
 * [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](http://trackdollar.com/) - Dollar Tracking
+* [WordCount](https://www.vidarholen.net/contents/wordcount/) - Most Common Linux kernal source code Words
 * [DeletedCity](http://deletedcity.net/) - Geocities Visualizer 
 * [info.cern](http://info.cern.ch/) - First Website on the Internet
 
@@ -16072,6 +16080,7 @@ Simulator
 * [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Volume Mixer / Auto-Pause
 * [BatteryBuddy](https://batterybuddy.app/) - Cute Battery Indicator
 * [Bunch](https://bunchapp.co/) - Task Automation
+* [MacScripter](https://www.macscripter.net/) - Automation Forum
 * [Find You](https://github.com/positive-security/find-you) - Track Bluetooth Devices
 * [Touché](https://redsweater.com/touche/) - Touch Bar Simulator
 * [pock](https://pock.app/) - Touch Bar Widget Manager / [GitHub](https://github.com/pock/pock)
@@ -16428,6 +16437,7 @@ Software
 * [InternetSlangTranslator](https://lingojam.com/InternetSlangTranslator2-0) - Translate Text to Slang
 * [The Pirate Translator](https://pirate.monkeyness.com/translate) - Translate Text to Pirate
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
+* [eeemo](https://eeemo.net/) - Cursed Text
 * [typ3r](https://typ3r.aavi.me/) - tRaNSlAtE tEXT lik3 THiS
 * [Gematrinator](https://gematrinator.com/calculator) or [Gematrix](https://www.gematrix.org/) - Gematria Calculators
 * [SoftMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
@@ -19144,6 +19154,7 @@ Twitch Stream Tracker
 * [The National Archives](https://nationalarchives.gov.uk/) - UK Historical Documents
 * [Jewish Virtual Library](https://www.jewishvirtuallibrary.org/) - Encyclopedia of Jewish / Israeli History
 * [History Newsboys of 1899](https://github.com/nbats/FMHYedit/blob/main/base64.md#history-newsboys-of-1899) - Books / Documents
+* [ETHW](https://ethw.org/) - Engineering and Technology History Wiki
 * [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive
 * [The Morgan Library Museum](https://www.themorgan.org/music) or [DIAMM](https://www.diamm.ac.uk/) - Musical Manuscripts
 * [Lee B. Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#lee-b-drive) - Black History Books
@@ -19151,6 +19162,7 @@ Twitch Stream Tracker
 * [ByzantineMilitary](https://byzantinemilitary.blogspot.com/) - Byzantine Military History
 * [WarshipsResearch](https://warshipsresearch.blogspot.com/) - Maritime History
 * [Carti](https://enryo.ro/carti/) - Japanese Martial Arts History Books
+* [Wiktenauer](https://wiktenauer.com/) - Historical European Martial Arts Wiki
 * [The History of Maritime Piracy](http://www.cindyvallar.com/pirates.html) - Piracy History Blog
 * [Van Gogh Letters](http://vangoghletters.org/vg/) or [VGGallery](http://vggallery.com/) - Vincent van Gogh Letters
 * [DigitalTransgenderArchive](https://www.digitaltransgenderarchive.net/) - Transgender History Archive
@@ -19728,6 +19740,7 @@ Twitch Stream Tracker
 * [Magzter](https://www.magzter.com/top-free-magazines)
 * [FlipHTML5](https://fliphtml5.com/exploring)
 * [MagDownload](https://magdownload.org/)
+* [Lainzine](https://lainzine.org/) - Lain-inspired Magazine
 * [Retromags](https://www.retromags.com/) or [Annarchive](https://www.annarchive.com/) - Retro Game Magazines
 * [PC Zone](http://pixsoriginadventures.co.uk/PCZone/) - PC Zone Magazines
 * [CGW Museum](https://www.cgwmuseum.org/) - Computer Gaming World Magazines
