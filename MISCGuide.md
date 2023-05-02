@@ -242,7 +242,7 @@
 * ⭐ **[TasteJury](https://tastejury.com/)** - Find Specific Dishes
 * ⭐ **[Sporked](https://sporked.com/)** - Packaged Food Reviews
 * ⭐ **[Still Tasty](https://www.stilltasty.com/)** or [EatByDate](http://www.eatbydate.com/) - Shelf Life Guides 
-* ⭐ **[Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png)** / [2](https://i.ibb.co/gDsRh1F/ca6f633c898b.png)
+* ⭐ **[Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png)** / [2](https://i.ibb.co/SKq3GT7/ca6f633c898b.png)
 * ⭐ **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
 * ⭐ **[HackTheMenu](http://hackthemenu.com/)** - Fast Food Secret Menu Items
 * ⭐ **[McBroken](https://mcbroken.com/)** - Check if McDonalds Ice Cream Machines are Broken
@@ -383,11 +383,11 @@
 * ⭐ **[MyPlate](https://www.myplate.gov/)** - Food Pyramid
 * ⭐ **[Food Nutrition / Ingredients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nutrition_.2F_ingredients)** - Search / Scan Food for its Ingredients
 * ⭐ **[Caffeine Calculator](https://caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
-* ⭐ **[Dehydration Chart](https://i.ibb.co/N3fXPZL/921f6c843cf0.png)** - Dehydration Color Chart
-* ⭐ **[BMI Chart](https://i.ibb.co/7VStC6Q/995c00ec75ba.png)** - Healthy BMI Graph
+* ⭐ **[Dehydration Chart](https://i.ibb.co/b3YxZzr/921f6c843cf0.png)** - Dehydration Color Chart
+* ⭐ **[BMI Chart](https://i.ibb.co/bL65m8F/995c00ec75ba.png)** - Healthy BMI Graph
 * ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)** - BMI Calculator
 * ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** or [SwoleHalla](https://www.swolehalla.com/) - Fitness Calculators
-* ⭐ **[/u/KNightNox Diagram](https://i.ibb.co/M2p3QR4/c3b977fa36fc.jpg)** - Zoomable Exercise Diagram
+* ⭐ **[/u/KNightNox Diagram](https://i.ibb.co/xCGRdM0/c3b977fa36fc.jpg)** - Zoomable Exercise Diagram
 * ⭐ **[Drugs.com](https://www.drugs.com/)** or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
 * [healthgrades](https://www.healthgrades.com/right-care/health-content-a-z), [epocrates](https://online.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
 * [osh](https://www.osh.net/) - Occupational Health and Safety Resources
@@ -403,7 +403,7 @@
 * [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) or [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info 
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
 * [Google Fit](https://www.google.com/fit/) - Activity Coach
-* [No Equipment Ab Exercises](https://i.ibb.co/wQdwRby/12df795c3938.jpg) - Ab Exercise Diagram
+* [No Equipment Ab Exercises](https://i.ibb.co/YdNy3K2/12df795c3938.jpg) - Ab Exercise Diagram
 * [fastnfitness](https://github.com/brodeurlv/fastnfitness) - Track Your Exercise Progress
 * [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) or [PFCTE](https://github.com/SecUSo/privacy-friendly-circuit-training-exercises) - Exercise & Activity Tracker
 * [ExRx.net](https://exrx.net/) - Exercise Resources

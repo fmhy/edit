@@ -26,7 +26,7 @@
 * [Dev.tube](https://dev.tube/) - Developer Talks
 * [Roadmap](https://roadmap.sh/) - Developer Roadmaps / [Github](https://github.com/kamranahmedse/developer-roadmap)
 * [QuickRef.ME](https://quickref.me/), [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
-* [Programming Challenges](https://i.ibb.co/2ZMMBNZ/5bdea0d754ac.png), [DevPost](https://devpost.com/), [HackTheEarth](https://www.hackerearth.com/challenges/), [EMKC](https://emkc.org/challenges) or [Code Golf](https://codegolf.stackexchange.com/) - Programming Challenges
+* [Programming Challenges](https://i.ibb.co/J3ppPQ3/5bdea0d754ac.png), [DevPost](https://devpost.com/), [HackTheEarth](https://www.hackerearth.com/challenges/), [EMKC](https://emkc.org/challenges) or [Code Golf](https://codegolf.stackexchange.com/) - Programming Challenges
 * [WDTCD?](https://whatdoesthiscodedo.com/) or [Denigma](https://denigma.app/#demo) - AI Code Explanations
 * [Coding Problems](https://github.com/MTrajK/coding-problems) - Solutions for Coding Problems
 * [RoboMind](https://www.robomind.net/) or [Checki0](https://checkio.org/) - Code Learning Games
@@ -78,7 +78,7 @@
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - PostgreSQL Tutorial
 * [MySQL Tutorial](https://www.mysqltutorial.org/) - MySQL Tutorial
 * [Hasura](https://hasura.io/learn/) - GraphQL Courses
-* [SQL Cheat Sheet](https://i.ibb.co/cvmT7N3/e289a15e2246.jpg)
+* [SQL Cheat Sheet](https://i.ibb.co/Ctr0Tn8/e289a15e2246.jpg)
 * [systemd-by-example](https://systemd-by-example.com/) - Learn Systemd Interactively
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
 * [Slip](https://www.slip.so/) - Build Programming Courses
@@ -238,7 +238,7 @@
 ## ▷ Linux / CLI
 
 * [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - CLI Commands Cheatsheet
-* [Vim Cheatsheet](https://i.ibb.co/GvrLLHB/460e75dd8543.png) or [rTorr](https://vim.rtorr.com/) - Vim Code Editor Cheat Sheets
+* [Vim Cheatsheet](https://i.ibb.co/FbdMMHN/460e75dd8543.png) or [rTorr](https://vim.rtorr.com/) - Vim Code Editor Cheat Sheets
 * [OpenVim](https://www.openvim.com/) - Interactive Vim Tutorial
 * [Vim Adventures](https://vim-adventures.com/) - Vim Learning Game
 * [Vim University](https://github.com/wincent/vim-university) - Vim Tips

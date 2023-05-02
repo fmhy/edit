@@ -1196,7 +1196,7 @@
 * [BookStash](https://bookstash.io/) or [Glimbay](https://glimbay.netlify.app/) - Book Summaries
 * [/r/DCcomics Recommended](https://www.reddit.com/r/DCcomics/wiki/recommended) - DC Comic Recommendations
 * [Comic Book Reading Orders](https://comicbookreadingorders.com/) - Comic Book Reading Orders
-* [DC Superhero Era Timeline](https://i.ibb.co/YhgzkcV/3a88deff86fd.jpg) / [2](https://i.ibb.co/x8zPhCW/46e727207409.jpg)
+* [DC Superhero Era Timeline](https://i.ibb.co/FzpSw5d/3a88deff86fd.jpg) / [2](https://i.ibb.co/sJskjmn/46e727207409.jpg)
 * [Kitsu](https://kitsu.io/) - Manga
 * [Mangaki](https://mangaki.fr/) - Manga Recommendations
 * [spin.moe](https://spin.moe/) - Find Random Manga
@@ -1297,5 +1297,5 @@
 * [RemoveWatermark](https://github.com/n0maj1o24/RemoveWatermark) - IT Ebook Watermark Remover
 * [DeDRM_tools](https://github.com/noDRM/DeDRM_tools), [PDF DRM](https://drive.google.com/file/d/1IeFsmgAbzC_JnRkUQPR0xdzy7NKbHjJq/view), or [Remove Ebook DRM](https://apprenticealf.wordpress.com/) - Ebook DRM Removal Tools / [Guide](https://pastebin.com/KwTBSjrK)
 * [DeGourou](https://github.com/bipinkrish/DeGourou) - Automatic Internet Archive DRM Remover
-* [DIY Book Scanner](https://diybookscanner.org/) - How-to Scan Books / [Example](https://i.ibb.co/7C16xvP/bdadbb08e5f7.png)
+* [DIY Book Scanner](https://diybookscanner.org/) - How-to Scan Books / [Example](https://i.ibb.co/YQLq42m/bdadbb08e5f7.png)
 * [The Submission Grinder](https://thegrinder.diabolicalplots.com/) - Find a Publisher
