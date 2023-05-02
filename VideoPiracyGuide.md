@@ -386,7 +386,6 @@
 * [FunnierMoments](https://www.funniermoments.net/)
 * [b98](https://www.b98.tv/)
 * [Disney Video](https://video.disney.com/series/) - Disney Series & Shorts
-* [spongebob-cli](https://github.com/trakBan/spongebob-cli) - Spongebob Episode CLI
 * [South Park](https://www.southparkstudios.com/) - South Park Episodes / [Downloader](https://github.com/thepwrtank18/spdl)
 * [ToonamiAftermath](https://www.toonamiaftermath.com/) - Toonami Stream 
 
