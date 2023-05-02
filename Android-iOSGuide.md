@@ -1140,15 +1140,15 @@ https://www.whosaidthat.uk/
 * [Noizio](https://apps.apple.com/us/app/noizio-focus-relax-sleep/id960716999) - Nature Sounds / Relaxation 
 * [A Soft Murmur](https://apps.apple.com/app/apple-store/id1175522255) - Mix ambient sounds
 * [Tide.fm](https://apps.apple.com/cn/app/tide/id1077776989) - Meditation / Sleep Sounds 
-* [myNoise](https://apps.apple.com/be/app/mynoise/id813099896) - Background Noises &amp; Interactive Soundscapes 
+* [myNoise](https://apps.apple.com/be/app/mynoise/id813099896) - Background Noises / Interactive Soundscapes 
 
 ***
 
 # ► iOS Streaming
 
 * [Kodi](https://kodi.tv/) - /r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
-* [Stremio](https://pastebin.com/Gy5xZny2) - Movies / TV / Anime / Use VPN / [Alt Method](https://imgur.com/JKxCR4s)
-* [Video Lite](https://apps.apple.com/sa/app/video-lite-no-ads/id1598997500) - Video Browser w/Adblock
+* [Stremio](https://pastebin.com/Gy5xZny2) - Movies / TV / Anime / Use VPN / [Alt Method](https://i.imgur.com/0U3HIcN.mp4)
+* [Video Lite](https://apps.apple.com/sa/app/video-lite-no-ads/id1598997500) - Video Browser w/ Adblock
 * [MovieByImage](https://apps.apple.com/us/app/movie-finder-movie-by-image/id1560301878) - Movies / Code: 777
 * [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756) - Movies / TV
 * [Blackbox](https://apps.apple.com/ca/app/black-box-movie-listing/id958957112) - Movies 
