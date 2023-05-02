@@ -81,7 +81,7 @@ Basic Piracy Terminology
 **[HolyUnblocker](https://www.holyubofficial.net/)** - View sites blocked by ISP / school
 **[HaveIBeenPwned](https://haveibeenpwned.com/)** - Get notified when someone steals your accounts
 **[Mullvad](https://mullvad.net/) / [Proton](https://protonvpn.com) / [Surfshark](https://surfshark.com/)** - Paid VPNs
-**[Riseup](https://riseup.net/en/vpn)** - Free VPN / Proton also has a free version / [warning](https://i.ibb.co/VVyLXjs/0e2c6578c685.png)
+**[Riseup](https://riseup.net/en/vpn)** - Free VPN / Proton also has a free version / [warning](https://i.ibb.co/1ZV0Hvk/0e2c6578c685.png)
 
 !!!note Note that a VPN is not needed outside of torrenting. You can avoid the need for one altogether by sticking to  direct download and streaming sites.
 

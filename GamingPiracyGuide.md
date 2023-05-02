@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/d4Usnki.png)** - For mobile users
+**[Table of Contents](https://i.ibb.co/CWXNSHy/08196ca7254e.png)** - For mobile users
 
 ***
 ***
@@ -233,7 +233,7 @@
 * [LoveROMs](https://www.loveROMs.online/) - ROMs
 * [FantasyAnime](https://fantasyanime.com/) - ROMs
 * [NesGM](https://nesgm.net/) - ROMs / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
-* [ROM World](http://www.romworldonline.com/) - ROMs / [How-to](https://i.imgur.com/Mqab82O.png)
+* [ROM World](http://www.romworldonline.com/) - ROMs / [How-to](https://i.ibb.co/vYJSs4d/dd99f3e3768d.png)
 * [LegendaryRepacks](https://discord.gg/RUSNHSk) - ROMs
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - ROMs / Torrent
 * [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Multi-Site ROM Search
@@ -259,7 +259,7 @@
 * [datcheck](https://github.com/pkos/datcheck) - Compare No-Intro / Redump .dat Files to ROM or Disc Collection
 * [Dat-O-Matic](https://datomatic.no-intro.org/index.php) - ROM Datasets
 * [NSWDB](http://www.nswdb.com) - Switch Release Tracker
-* [RomStation](https://www.romstation.fr/) - ROM Downloader / Manager / Multiplayer / [Screenshot](https://i.imgur.com/6JPrtZa.png)
+* [RomStation](https://www.romstation.fr/) - ROM Downloader / Manager / Multiplayer / [Screenshot](https://i.ibb.co/zSDH560/624adc3e44a8.png)
 
 ***
 
@@ -269,7 +269,7 @@
 * ⭐ **[My Abandonware](https://www.myabandonware.com/)**
 * ⭐ **[RetroGames](https://www.retrogames.cz/)**
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)**
-* ⭐ **[retrogames.cc](https://www.retrogames.cc/)** - [Download Guide](https://i.imgur.com/jSAsSb6.png)
+* ⭐ **[retrogames.cc](https://www.retrogames.cc/)** - [Download Guide](https://i.ibb.co/bWnVCpd/75d053e68a13.png)
 * [ClassicReload](https://classicreload.com/)
 * [Retro Games Bot](https://retrogamesbot.com/)
 * [AtariMania](http://www.atarimania.com/index.html)
@@ -1204,7 +1204,7 @@
 * [Cubical](https://www.cubical.xyz/) - Minecraft Schematic Tool
 * [Pixelart Builder](https://play.google.com/store/apps/details?id=com.electricfoal.photocrafter&hl=en&gl=US), [PixelStacker](https://taylorlove.info/pixelstacker/) or [SpriteCraft](https://spritecraft.en.softonic.com/) - Turn Photos into Minecraft Art
 * [ReplayMod](https://replaymod.com/) - Record Minecraft Game Sessions / [GitHub](https://github.com/ReplayMod/ReplayMod)
-* [Villager Trading Cheatsheet](https://i.imgur.com/vCpAxmD.png)
+* [Villager Trading Cheatsheet](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png)
 * [Free Minecraft Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_servers) - Host Free Minecraft Servers
 * [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
 * [CraftyControl](https://craftycontrol.com/) or [Fork](https://www.fork.gg/) - Minecraft Server Manager

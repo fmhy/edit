@@ -187,13 +187,13 @@
 * [PhoenixOS Darkmatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)
 * [AOPC](https://aopc.dev/) - Android Desktop OS Forums
 * [Docker Android](https://github.com/budtmo/docker-android) - Android in Docker
-* [Nox](https://www.bignox.com/) - [Screenshot](https://i.ibb.co/hF0S4Pb/647f0f4f051c.jpg) / [Debloat Guide](https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/) / [Video](https://youtu.be/IjI_-pQUOhQ)
-* [GameLoop](https://www.gameloop.com/) - [Screenshot](https://i.ibb.co/T8mmzZ7/26828a9408f1.png)
-* [MuMu](https://www.mumuglobal.com/) - [Screenshot](https://i.ibb.co/mDBY8sP/bfa89c699ff7.png)
-* [MeMu](https://www.memuplay.com/) - [Screenshot](https://i.ibb.co/0BSWpqY/6b4ce185773e.png) / [Debloater](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
-* [LDPlayer](https://www.ldplayer.net/) - [Screenshot](https://i.ibb.co/0GyC1JY/184625995e15.png)
+* [Nox](https://www.bignox.com/) - [Screenshot](https://i.ibb.co/MkdmtYr/647f0f4f051c.jpg) / [Debloat Guide](https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/) / [Video](https://youtu.be/IjI_-pQUOhQ)
+* [GameLoop](https://www.gameloop.com/) - [Screenshot](https://i.ibb.co/WyggSQM/26828a9408f1.png)
+* [MuMu](https://www.mumuglobal.com/) - [Screenshot](https://i.ibb.co/vwBrY5M/bfa89c699ff7.png)
+* [MeMu](https://www.memuplay.com/) - [Screenshot](https://i.ibb.co/FsMfk68/6b4ce185773e.png) / [Debloater](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
+* [LDPlayer](https://www.ldplayer.net/) - [Screenshot](https://i.ibb.co/CHKb40V/184625995e15.png)
 * [Genymotion](https://www.genymotion.com/download/) - [Screenshot](https://i.ibb.co/6W7BXJn/6a291e5b5ac9.jpg) 
-* [Wakuoo](https://wakuoo.com) - [Screenshot](https://i.ibb.co/DDs8vz2/cfaea91031d7.png)
+* [Wakuoo](https://wakuoo.com) - [Screenshot](https://i.ibb.co/tMkxvQr/cfaea91031d7.png)
 * [Now.gg](https://now.gg/) - Online Android Gaming Emulator
 https://www.whosaidthat.uk/
 * [APKOnline](https://www.apkonline.net/runapk/start-androidapk.html) - Online Android Emulator
@@ -205,7 +205,7 @@ https://www.whosaidthat.uk/
 * ⭐ **[Android Web Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)**
 * ⭐ **[File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)** - Tools to Share / Sync Files
 * ⭐ **[Note Taking / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)** - Note Taking / To-Do Apps
-* ⭐ **[AutumnBox](https://github.com/zsh2401/AutumnBox/releases)** or [ADBAppControl](https://adbappcontrol.com/en/) - Android Device Managers / Root Tool / [Features](https://i.ibb.co/P9BpWD1/5546649b4d89.png)
+* ⭐ **[AutumnBox](https://github.com/zsh2401/AutumnBox/releases)** or [ADBAppControl](https://adbappcontrol.com/en/) - Android Device Managers / Root Tool / [Features](https://i.ibb.co/ZYysg2c/5546649b4d89.png)
 * ⭐ **[App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers)** - Android App Launchers / Managers
 * ⭐ **[ntfy](https://ntfy.sh/)**, [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2) or [BuzzKill](https://github.com/nbats/FMHYedit/blob/main/base64.md#buzzkill) - Custom Push Notifications
 * ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)** - Modded Discord Client / [Rich Presence](https://github.com/dead8309/Kizzy)

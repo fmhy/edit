@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/GQmao7j.png)** - For mobile users
+**[Table of Contents](https://i.ibb.co/MMTPPLR/65df196c3507.png)** - For mobile users
 
 ***
 *** 
@@ -52,7 +52,7 @@
 * [Leaf Guides](https://leafguides.xyz/) - Piracy Index
 * [The Goods](https://discord.gg/zapJ4w3XBN) - Piracy Index
 * [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - Japanese Piracy Index
-* [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - Piracy Index / [Warning](https://i.imgur.com/jtT9GDB.png)
+* [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - Piracy Index / [Warning](https://i.ibb.co/Tb7gvtX/a6e53d3ca97c.png)
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Software / Tool Index
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - Data Hoarding Tools Index
 * [DirtyWarez Tracker](https://dirtywarez.org/cat/tracker), [OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/) / [2](https://opentrackers.org/), [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) or [awesome-piracy](https://github.com/Igglybuff/awesome-piracy#public-trackers) - Torrent Site Indexes
@@ -242,7 +242,7 @@
 * ⭐ **[TasteJury](https://tastejury.com/)** - Find Specific Dishes
 * ⭐ **[Sporked](https://sporked.com/)** - Packaged Food Reviews
 * ⭐ **[Still Tasty](https://www.stilltasty.com/)** or [EatByDate](http://www.eatbydate.com/) - Shelf Life Guides 
-* ⭐ **[Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png)** / [2](https://i.imgur.com/KoVAdmA.png)
+* ⭐ **[Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png)** / [2](https://i.ibb.co/SKq3GT7/ca6f633c898b.png)
 * ⭐ **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
 * ⭐ **[HackTheMenu](http://hackthemenu.com/)** - Fast Food Secret Menu Items
 * ⭐ **[McBroken](https://mcbroken.com/)** - Check if McDonalds Ice Cream Machines are Broken
@@ -320,8 +320,8 @@
 * [KingArthurBaking](https://www.kingarthurbaking.com/recipes) - Baking Recipes
 * [The Bread Code Manifesto](https://github.com/hendricius/the-bread-code) - Bread Baking Recipes 
 * [Sugarologie](https://www.sugarologie.com/recipes) - Cake Recipes
-* [Mac Cookie Recipe Easter Egg](https://i.imgur.com/Jc0WoCg.png) - Cookie Recipe / [How-to](https://pastebin.com/N8AyVfEf)
-* [Honey Ale](https://i.imgur.com/OvuP474.jpg) or [Honey Porter](https://i.imgur.com/6UDr7Fd.png) - The White House Brewing Recipes
+* [Mac Cookie Recipe Easter Egg](https://i.ibb.co/QbkD5NN/6a31bb4d52d7.png) - Cookie Recipe / [How-to](https://pastebin.com/N8AyVfEf)
+* [Honey Ale](https://i.ibb.co/j3HXBSr/197281de59c1.jpg) or [Honey Porter](https://i.ibb.co/pw6mypt/69a11ac8d936.png) - The White House Brewing Recipes
 * [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee Making Guides
 * [MakeMyCocktail](http://makemycocktail.com/), [DrinNnation](https://www.drinknation.com/bar), [CocktailBuilder](https://www.cocktailbuilder.com/), [CocktailsAndShots](https://cocktailsandshots.com/cocktail-builder/) or [MyBar](https://makemeacocktail.com/mybar/) - Cocktail Builders
 * [Drinkable](https://github.com/MOIMOB/drinkable) - Create Cocktails from Home Ingredients
@@ -383,11 +383,11 @@
 * ⭐ **[MyPlate](https://www.myplate.gov/)** - Food Pyramid
 * ⭐ **[Food Nutrition / Ingredients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nutrition_.2F_ingredients)** - Search / Scan Food for its Ingredients
 * ⭐ **[Caffeine Calculator](https://caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
-* ⭐ **[Dehydration Chart](https://i.imgur.com/PpDgo5j.png)** - Dehydration Color Chart
-* ⭐ **[BMI Chart](https://i.imgur.com/JHJCmDM.png)** - Healthy BMI Graph
+* ⭐ **[Dehydration Chart](https://i.ibb.co/b3YxZzr/921f6c843cf0.png)** - Dehydration Color Chart
+* ⭐ **[BMI Chart](https://i.ibb.co/bL65m8F/995c00ec75ba.png)** - Healthy BMI Graph
 * ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)** - BMI Calculator
 * ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** or [SwoleHalla](https://www.swolehalla.com/) - Fitness Calculators
-* ⭐ **[/u/KNightNox Diagram](https://i.imgur.com/ipBxg5p.jpg)** - Zoomable Exercise Diagram
+* ⭐ **[/u/KNightNox Diagram](https://i.ibb.co/xCGRdM0/c3b977fa36fc.jpg)** - Zoomable Exercise Diagram
 * ⭐ **[Drugs.com](https://www.drugs.com/)** or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
 * [healthgrades](https://www.healthgrades.com/right-care/health-content-a-z), [epocrates](https://online.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
 * [osh](https://www.osh.net/) - Occupational Health and Safety Resources
@@ -403,7 +403,7 @@
 * [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) or [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info 
 * [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
 * [Google Fit](https://www.google.com/fit/) - Activity Coach
-* [No Equipment Ab Exercises](https://i.imgur.com/H9IH3XB.jpg) - Ab Exercise Diagram
+* [No Equipment Ab Exercises](https://i.ibb.co/YdNy3K2/12df795c3938.jpg) - Ab Exercise Diagram
 * [fastnfitness](https://github.com/brodeurlv/fastnfitness) - Track Your Exercise Progress
 * [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) or [PFCTE](https://github.com/SecUSo/privacy-friendly-circuit-training-exercises) - Exercise & Activity Tracker
 * [ExRx.net](https://exrx.net/) - Exercise Resources

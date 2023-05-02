@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/zEOXZkK.png)** - For mobile users
+**[Table of Contents](https://i.ibb.co/zRnmWMR/938274ee1677.png)** - For mobile users
 
 ***
 ***
@@ -56,7 +56,7 @@
 * [Meteo](https://gitlab.com/bitseater/meteo) - Weather App
 * [Ubuntu VNC](https://cdn.discordapp.com/attachments/787671932957884416/787672107848302612/guicolab.ipynb) - Free Ubuntu VNC
 * [wikit](https://github.com/KorySchneider/wikit) - Wikipedia Summaries from CLI
-* [Linux Filesystem Chart](https://i.imgur.com/02VycVd.png) - File System Guide
+* [Linux Filesystem Chart](https://i.ibb.co/ChF9HMH/02e105ba72c1.png) - File System Guide
 * [Wget_Linux_Guide](https://web.archive.org/web/20210225201811/https1://the-eye.eu/public/Wget_Linux_Guide.pdf) - Wget Guide
 * [Vivek9Patel](https://vivek9patel.github.io/) - Run Ubuntu on Browser / [GitHub](https://github.com/vivek9patel/vivek9patel.github.io)
 * [Distrobox](https://github.com/89luca89/distrobox) - Use Linux Distros via Terminal
@@ -324,7 +324,7 @@
 # ► Linux Software
 
 * ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
-* ⭐ **[Open Source Linux Programs](https://i.imgur.com/6pItvB5.png)**
+* ⭐ **[Open Source Linux Programs](https://i.ibb.co/KyTkKHz/ae00a5177857.png)**
 * ⭐ **[Kapital Sin](https://kapitalsin.com/)**
 * [Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/), [2](https://github.com/inputsh/awesome-linux), [3](https://github.com/crackerica/Awesome-Linux-Software)
 * [Flathub](https://flathub.org/)

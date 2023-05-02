@@ -106,7 +106,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Permanent Booru](http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)
 * [mcb3id.onion](http://ik4kzum3ocg6dhx4jhzteko4jzijmxnwsbkcqenf33as3i74i3mcb3id.onion/) 
 * [The Asenheim Project](https://www.asenheim.org/)
-* [NetU Search](https://netu.tv/view_page.php?pid=4) - Click [blue box](https://i.imgur.com/c19hKLw.png)
+* [NetU Search](https://netu.tv/view_page.php?pid=4) - Click [blue box](https://i.ibb.co/s6RffT3/74fce8d0ebb1.png)
 * [GalleryCherry](https://github.com/RobbWatershed/GalleryCherry) - Gallery Archiving Android App
 * [fap.bar](https://fap.bar/) - NSFW Reddit Video Browser
 * [nsfw.xxx](https://nsfw.xxx/), [Scroller](https://scrolller.com/) or [reddnight](https://reddnight.com/) - NSFW Reddit Image & Video Browser

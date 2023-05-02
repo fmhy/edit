@@ -182,7 +182,7 @@
 * ⭐ **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support 
 * ⭐ **[Authy](https://authy.com/)**, [WinAuth](https://winauth.github.io/winauth/), [Yubioath](https://developers.yubico.com/yubioath-flutter/), [AuthMe](https://github.com/Levminer/authme), [Protecc](https://github.com/FireCubeStudios/Protecc), [2FAuth](https://github.com/Bubka/2FAuth) or [Tauthy](https://github.com/pwltr/tauthy) - Two-Factor Authentication
 * ⭐ **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
-* ⭐ **[Password Strength Chart](https://i.ibb.co/YpdQVT8/6728c7ef02e9.png)**
+* ⭐ **[Password Strength Chart](https://i.ibb.co/vZdqMvm/6728c7ef02e9.png)**
 * ⭐ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_encryption_tools)** - File Encryption Apps / Tools
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
 * ⭐ **[Decentralized Social Networks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_decentralized_social_networks)** - Twitter / Facebook Alternatives
@@ -244,7 +244,7 @@
 * [Spybot Anti-Beacon](https://www.safer-networking.org/products/spybot-anti-beacon/) - Stop Telemetry Data Leaks
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - Track Torrent Download Leaks
 * [Safing](https://safing.io/) - Monitor Network / Block Trackers / [GitHub](https://github.com/Safing/portmaster)
-* [Undiscord](https://github.com/victornpb/undiscord), [discord-delete](https://github.com/cedws/discord-delete), or [QuickDeleteMessages](https://u.nu/9i9jk) - Delete Discord Messages / [Warning](https://i.ibb.co/GRXCHt3/0b0d78219f05.png)
+* [Undiscord](https://github.com/victornpb/undiscord), [discord-delete](https://github.com/cedws/discord-delete), or [QuickDeleteMessages](https://u.nu/9i9jk) - Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
 * [GameIndustry](https://gameindustry.eu/en/) - Block Trackers in Desktop / Mobile Games
 * [Blacklight](https://themarkup.org/series/blacklight) - Website Privacy Inspector
 * [GreyNoise](https://www.greynoise.io/) - Internet Noise Analysis
@@ -403,7 +403,7 @@
 * [GeoSocial Footprint](http://geosocialfootprint.com/) or [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint 
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [Mine](https://saymineapp.com/) - View / Manage Digital Footprint
-* [Redact](https://redact.dev/) - Delete Entire Online History / [Warning](https://i.ibb.co/GRXCHt3/0b0d78219f05.png)
+* [Redact](https://redact.dev/) - Delete Entire Online History / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
 * [Make Internet Noise](http://makeinternetnoise.com/) - Randomize Browser History 
 * [Freenet Project](https://freenetproject.org/) - Browse / Publish Freenet Sites 
 * [Gopher](https://gopher.floodgap.com/gopher/) - Alternative Internet Protocol
@@ -489,27 +489,27 @@
 * ⭐ **[VPN Comparison Chart](https://web.archive.org/web/20221029202548/https://privacymelon.com/stealth-vpn-guide/vpn-comparison-table/)** / [2](https://techlore.tech/vpn) / [3](https://redd.it/rikthc) - VPN Comparisons
 * ⭐ **[VPS Comparison Chart](https://lowendstock.com/)** - VPS Comparisons
 * ⭐ **[How-to Bind VPN to Client](https://redd.it/ssy8vv)** - Bind VPN to Client to Avoid ISP Letters
-* ⭐ **[Mullvad](https://mullvad.net/)** - [Pricing](https://i.ibb.co/fvc005G/daf48a5ee585.png) / [NetNS](https://github.com/chutz/mullvad-netns) / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/)
-* ⭐ **[IVPN](https://www.ivpn.net/)** - [Pricing](https://i.ibb.co/PCk2Fk0/e06bea93c5ba.png) / [Free Trial](https://redd.it/nzjmqa) / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/)
-* ⭐ **[OVPN](https://www.ovpn.com/)** - [Pricing](https://i.ibb.co/PDYB3V0/f85fce050246.png) / [No Logging](https://www.ovpn.com/en/blog/ovpn-wins-court-order)
-* ⭐ **[Perfect Privacy](https://www.perfect-privacy.com/)** - [Pricing](https://i.ibb.co/fS2q5tf/0f638a6f3523.png) / [No Logging](https://www.perfect-privacy.com/en/warrant-canary)
-* ⭐ **[AirVPN](https://airvpn.org/)** - [Pricing](https://i.ibb.co/hBvkWkM/c4b813a6b6bc.png)
-* ⭐ **[Windscribe](https://windscribe.com)** - [Pricing](https://i.ibb.co/gd8r34z/033d545c87da.png) / Free Version Available / [Improved App](https://github.com/Windscribe/Desktop-App)
-* ⭐ **[Proton](https://protonvpn.com)** - [Pricing](https://i.ibb.co/fXv3bNr/444c81430f30.png) / No Torrenting w/ Free Version
-* ⭐ **[CryptoStorm](https://cryptostorm.is/)** - [Pricing](https://i.ibb.co/60pr7Wh/afe46b2ec3ec.png)
+* ⭐ **[Mullvad](https://mullvad.net/)** - [Pricing](https://i.ibb.co/sHB33GJ/daf48a5ee585.png) / [NetNS](https://github.com/chutz/mullvad-netns) / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/)
+* ⭐ **[IVPN](https://www.ivpn.net/)** - [Pricing](https://i.ibb.co/6sQKrQL/e06bea93c5ba.png) / [Free Trial](https://redd.it/nzjmqa) / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/)
+* ⭐ **[OVPN](https://www.ovpn.com/)** - [Pricing](https://i.ibb.co/7kz780L/f85fce050246.png) / [No Logging](https://www.ovpn.com/en/blog/ovpn-wins-court-order)
+* ⭐ **[Perfect Privacy](https://www.perfect-privacy.com/)** - [Pricing](https://i.ibb.co/PYNFn4K/0f638a6f3523.png) / [No Logging](https://www.perfect-privacy.com/en/warrant-canary)
+* ⭐ **[AirVPN](https://airvpn.org/)** - [Pricing](https://i.ibb.co/8rVJ5JB/c4b813a6b6bc.png)
+* ⭐ **[Windscribe](https://windscribe.com)** - [Pricing](https://i.ibb.co/ZSrfV2W/033d545c87da.png) / Free Version Available / [Improved App](https://github.com/Windscribe/Desktop-App)
+* ⭐ **[Proton](https://protonvpn.com)** - [Pricing](https://i.ibb.co/cyLWP82/444c81430f30.png) / No Torrenting w/ Free Version
+* ⭐ **[CryptoStorm](https://cryptostorm.is/)** - [Pricing](https://i.ibb.co/3m849CX/afe46b2ec3ec.png)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN 
 * ⭐ **[Softether](https://www.softether.org/)** - Free VPN / [VPN Gate](https://www.vpngate.net/en/download.aspx) / [Note](https://pastebin.com/TrSw7EpF)
 * ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Manager](https://github.com/perara/wg-manager) / [WebUI](https://hub.docker.com/r/weejewel/wg-easy)
-* [Trust.Zone](https://trust.zone/) - [Pricing](https://i.ibb.co/bdFCBdD/53ba903a8c7a.png)
-* [VPNSecure](https://www.vpnsecure.me/) - [Pricing](https://i.ibb.co/RC0BTWj/0380b98d0965.png)
-* [MysteriumVPN](https://www.mysteriumvpn.com/) - [Pricing](https://i.ibb.co/LZw7Pcm/2d5b0c8a18c2.png)
-* [Tailscale](https://tailscale.com/) - [Pricing](https://i.ibb.co/sjZ0J8n/e18aea980720.png) / [Discord](https://discord.com/invite/n3vtSwc)
-* [TorGuard](https://torguard.net/) - [Pricing](https://i.ibb.co/M98F9rf/8e9daa1af6bc.png)
-* [WeVPN](https://wevpn.com/) - [Pricing](https://i.ibb.co/Rj4SJNx/938d794886e0.png)
-* [PandaVPN](https://pandavpnpro.com/) - [Pricing](https://i.ibb.co/pnyph0w/7f1118963fa0.png)
-* [Hidemy.name](https://hidemy.name/en/) - [Pricing](https://i.ibb.co/xjGQvbw/26a70a5e6936.png)
-* [TitaniumNetwork VPN](https://tnvpn.com/) - [Pricing](https://i.ibb.co/85WCBZy/282248084c76.png)
-* [Malwarebytes VPN](https://malwarebytes.com/vpn) - [Pricing](https://i.ibb.co/MVRgDjP/248c0f746c2d.png)
+* [Trust.Zone](https://trust.zone/) - [Pricing](https://i.ibb.co/KyDfqyS/53ba903a8c7a.png)
+* [VPNSecure](https://www.vpnsecure.me/) - [Pricing](https://i.ibb.co/WcyPv1V/0380b98d0965.png)
+* [MysteriumVPN](https://www.mysteriumvpn.com/) - [Pricing](https://i.ibb.co/wzHmLPV/2d5b0c8a18c2.png)
+* [Tailscale](https://tailscale.com/) - [Pricing](https://i.ibb.co/VVs7pfR/e18aea980720.png) / [Discord](https://discord.com/invite/n3vtSwc)
+* [TorGuard](https://torguard.net/) - [Pricing](https://i.ibb.co/yVhHVtp/8e9daa1af6bc.png)
+* [WeVPN](https://wevpn.com/) - [Pricing](https://i.ibb.co/xF8srYp/938d794886e0.png)
+* [PandaVPN](https://pandavpnpro.com/) - [Pricing](https://i.ibb.co/Wst1Vx5/7f1118963fa0.png)
+* [Hidemy.name](https://hidemy.name/en/) - [Pricing](https://i.ibb.co/4TMxyLC/26a70a5e6936.png)
+* [TitaniumNetwork VPN](https://tnvpn.com/) - [Pricing](https://i.ibb.co/r6CjtrB/282248084c76.png)
+* [Malwarebytes VPN](https://malwarebytes.com/vpn) - [Pricing](https://i.ibb.co/C7nw5XV/248c0f746c2d.png)
 * [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - VPN Extension / 3GB Free / [Pricing](https://i.ibb.co/TPt2wRc/9de76aa8fee0.png)
 * [Mozilla FPN](https://fpn.firefox.com/) - VPN Extension / [Pricing](https://i.ibb.co/wBfF5M0/42756156044f.png) / Mullvad Servers
 * [StrongSwan](https://www.strongswan.org/) - IPsec VPN

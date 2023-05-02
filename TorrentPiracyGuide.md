@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.imgur.com/pDn8C2d.png)** - For mobile users
+**[Table of Contents](https://i.ibb.co/FKJVvHf/36473600b651.png)** - For mobile users
 
 ***
 ***
@@ -20,24 +20,24 @@
 ***
 
 * ⭐ **[Torrent Client Wiki](https://en.wikipedia.org/wiki/Comparison_of_BitTorrent_clients)** - List of Torrent Clients
-* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** - [Screenshot](https://i.imgur.com/B9KBUXs.png)
+* ⭐ **[qBittorrent](https://www.qbittorrent.org/)** - [Screenshot](https://i.ibb.co/ZBWZLvB/8519077d9320.png)
 * ⭐ **[qBittorrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)**
-* ⭐ **[Transmission](https://transmissionbt.com/)** - [Screenshot](https://i.imgur.com/BnoGitA.png)
-* [Deluge](https://www.deluge-torrent.org/) - [Screenshot](https://i.imgur.com/RbQUHpF.png)
+* ⭐ **[Transmission](https://transmissionbt.com/)** - [Screenshot](https://i.ibb.co/z550kRy/571b08f4981e.png)
+* [Deluge](https://www.deluge-torrent.org/) - [Screenshot](https://i.ibb.co/HdwCH5Q/678a01f3b439.png)
 * Deluge Tools - [Plugins](https://dev.deluge-torrent.org/wiki/Plugins) / [Config](https://github.com/ratanakvlun/deluge-ltconfig/releases) / [Telegram Plugin](https://github.com/noam09/deluge-telegramer)
-* [Tixati](https://tixati.com/) - [Screenshot](https://i.imgur.com/joYQzTw.png) 
-* [Motrix](https://motrix.app/) - [Screenshot](https://i.imgur.com/Zrw6l8q.png) / [GitHub](https://github.com/agalwood/Motrix)
-* [Picotorrent](https://picotorrent.org/) - [Screenshot](https://i.imgur.com/46oF1iD.png)
-* [BiglyBT](https://www.biglybt.com/) - [Screenshot](https://i.imgur.com/Gopf4tZ.png) 
+* [Tixati](https://tixati.com/) - [Screenshot](https://i.ibb.co/tPfyPRQ/b0683ce2eb49.png) 
+* [Motrix](https://motrix.app/) - [Screenshot](https://i.ibb.co/SQqrdpW/2950c09df08a.png) / [GitHub](https://github.com/agalwood/Motrix)
+* [Picotorrent](https://picotorrent.org/) - [Screenshot](https://i.ibb.co/Pz4qb8Q/df96c0ff3912.png)
+* [BiglyBT](https://www.biglybt.com/) - [Screenshot](https://i.ibb.co/5TRkt1t/bfe91a771679.png) 
 * [NeoLoader](https://neoloader.com/) - [Screenshot](https://neoloader.com/neo/image1.jpg)
-* [LIII](https://codecpack.co/download/LIII-BitTorrent-Client.html) - [Screenshot](https://i.imgur.com/8zZHjKq.png)
-* [BitTornado](http://bittornado.com/) - [Screenshot](https://i.imgur.com/jVJVmZs.png)
-* [Distribyted](https://distribyted.com/) - [Screenshot](https://i.imgur.com/LX8n8su.png) / [GitHub](https://github.com/distribyted/distribyted)
-* [Crawfish](https://github.com/drakonkat/Crawfish) - [Screenshot](https://i.imgur.com/3oOskVd.png)
-* [ByteStream](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8) - [Screenshot](https://i.imgur.com/QC3825C.jpg)
-* [uTorrent 2.2.1](https://archive.org/details/utorrent_2.2.1_build_25302) - [Screenshot](https://i.imgur.com/No0WuIZ.png) / [Guide](https://rentry.co/spaqy) / Pre-Adware Version
-* [Tribler](https://www.tribler.org/) - Tor-inspired Client / [Screenshot](https://i.imgur.com/IzmanCf.png) / [Github](https://github.com/Tribler/tribler)
-* [aria2](https://aria2.github.io/) - Terminal Torrent Client / [Screenshot](https://i.imgur.com/KV0pSjt.png) / [Github](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](http://ariang.mayswind.net/) / [WebUI](https://github.com/ziahamza/webui-aria2)
+* [LIII](https://codecpack.co/download/LIII-BitTorrent-Client.html) - [Screenshot](https://i.ibb.co/jRJR1cX/cecb8c47451d.png)
+* [BitTornado](http://bittornado.com/) - [Screenshot](https://i.ibb.co/80NNLJj/ef9fa92fb0f8.png)
+* [Distribyted](https://distribyted.com/) - [Screenshot](https://i.ibb.co/m8TQBPh/f5dfcb4b192f.png) / [GitHub](https://github.com/distribyted/distribyted)
+* [Crawfish](https://github.com/drakonkat/Crawfish) - [Screenshot](https://i.ibb.co/DVVVdpG/8406bc7e0a39.png)
+* [ByteStream](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8) - [Screenshot](https://i.ibb.co/cw2mtNG/c3ae27354e81.jpg)
+* [uTorrent 2.2.1](https://archive.org/details/utorrent_2.2.1_build_25302) - [Screenshot](https://i.ibb.co/vz3JQLX/1e6dbf4ded4f.png) / [Guide](https://rentry.co/spaqy) / Pre-Adware Version
+* [Tribler](https://www.tribler.org/) - Tor-inspired Client / [Screenshot](https://i.ibb.co/k4jt0FJ/20d3bd279896.png) / [Github](https://github.com/Tribler/tribler)
+* [aria2](https://aria2.github.io/) - Terminal Torrent Client / [Screenshot](https://i.ibb.co/SmsxmW3/3e213c54b148.png) / [Github](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](http://ariang.mayswind.net/) / [WebUI](https://github.com/ziahamza/webui-aria2)
 * [XD-Torrent](https://xd-torrent.github.io/) - Anonymous P2P Torrent Client
 * [mtorrent](https://github.com/nektro/mtorrent) - Terminal Torrent Client 
 * [Mariner](https://gitlab.com/radek-sprta/mariner) - Navigate Torrents via CLI
@@ -92,7 +92,7 @@
 
 * ⭐ **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) / [librex](https://github.com/hnhx/librex) - Multi Site Search
 * ⭐ **[1337x](https://1337x.to/)** - Video / Audio / Games / Software / NSFW 
-* ⭐ **1337x Tools** - [Mirrors](https://1337x.to/about) / [User Ranks](https://i.imgur.com/kceGWHj.png) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Proxy](https://redd.it/tz7nyx), [2](https://pastebin.com/3n5K0QrP) / [Enhancements](https://greasyfork.org/en/scripts/33379) / [Magnets](https://greasyfork.org/en/scripts/373230) / [Subtitles](https://greasyfork.org/en/scripts/29467) / [Timezone Fix](https://greasyfork.org/en/scripts/421635)
+* ⭐ **1337x Tools** - [Mirrors](https://1337x.to/about) / [User Ranks](https://i.ibb.co/WfNhvtB/ebc2def26433.png) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Proxy](https://redd.it/tz7nyx), [2](https://pastebin.com/3n5K0QrP) / [Enhancements](https://greasyfork.org/en/scripts/33379) / [Magnets](https://greasyfork.org/en/scripts/373230) / [Subtitles](https://greasyfork.org/en/scripts/29467) / [Timezone Fix](https://greasyfork.org/en/scripts/421635)
 * ⭐ **[RARBG](https://rarbg.to)** - Video / Audio / Games / Software / NSFW 
 * ⭐ **RARBG Tools** - [Tweaks](https://greasyfork.org/en/scripts/367358) / [Python Interface](https://github.com/verybada/rarbgapi) / [Advanced Filters](https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) / [NSFW Filters](https://greasyfork.org/en/scripts/380386) / [Add Links](https://greasyfork.org/en/scripts/23493-rarbg-torrent-and-magnet-links) / [Thumbnails](https://github.com/keyboardslayer/rarbg-thumbnails) / [IMDb Ratings](https://greasyfork.org/en/scripts/36751-rarbg) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rarbg_mirrors) / [Proxy](https://cloudflareworkers.com/#12a9195720fe4ed660949efdbd9c0219:https://rarbg.to)
 * ⭐ **[RuTracker](http://rutracker.org)**, [2](https://rutracker.nl/), [3](https://rutracker.net/) - Video / Audio / Games / Software / Android / Comics / Magazines
@@ -108,7 +108,7 @@
 * [IsoHunt](https://isohunts.to/) or [IsoHunt.nz](https://isohunt.nz/) - Video / Audio / Games / Software / Books
 * [ExT](https://ext.to/), [2](https://site.extto.com/) - Video / Audio / Games / Software / Books
 * [rutor.info](http://rutor.info) or [rutor.is](http://rutor.is/) - Video / Audio / Games / Software / Books / Roms / Magazines
-* [NNM-Club](https://nnmclub.to/) - Video / Audio / Software / Games / [Note](https://i.imgur.com/m42r0jU.png)
+* [NNM-Club](https://nnmclub.to/) - Video / Audio / Software / Games / [Note](https://i.ibb.co/MPRttDC/6a35c3c79cde.png)
 * [Torrentz2k](https://torrentz2k.xyz/) - Video / Audio / Software / Games / NSFW
 * [Torrenting](https://www.torrenting.com/) - Video / Audio / Games / Software / Books / NSFW
 * [FOSSTorrents](https://fosstorrents.com/) - FOSS Software / Games
@@ -221,7 +221,7 @@
 * ⭐ **[Tracker Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tracker_lists)** - Updated lists of BitTorrent trackers 
 * ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](http://torrentkittyurl.com/tk/) / [3](https://www.torrentkitty.net/) / [4](https://www.torrentkitty.lol/) / [5](https://torrentkitty.se/) - Torrent to Magnet Converter
 * ⭐ **[Auto Torrent Tools List](https://redd.it/hbwnb2)**, [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
-* [Torrent Legality](https://i.imgur.com/eNdboCs.png) - Torrenting Laws by Country
+* [Torrent Legality](https://i.ibb.co/HHqC4V2/11e244ddbdfb.png) - Torrenting Laws by Country
 * [WarezBot](https://github.com/enzobes/WarezBot) - Discord Scene Release Tracker
 * [btcache](https://btcache.me/), [iTorrents](https://itorrents.org) or [Torrage](https://torrage.info/) - Torrent Storage Cache
 * [WebTorrent Checker](https://checker.openwebtorrent.com/) - Check Health of a Torrent
