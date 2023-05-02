@@ -165,7 +165,7 @@
 * [Basaran](https://github.com/hyperonym/basaran) - Text Autocomplete AI
 * [Compose](https://www.compose.ai/) - Text Autocomplete AI Extension
 * [InkForAll](https://app.inkforall.com/tools) - Multiple AI Text Tools
-* [SheetPlus](https://sheetplus.ai/), [FormulaHive](https://formulahive.com/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [ExcelFormulaBot](https://excelformulabot.com/) - Excel AI Tools
+* [SheetPlus](https://sheetplus.ai/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [ExcelFormulaBot](https://excelformulabot.com/) - Excel AI Tools
 * [GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) - Text Classification AI
 * [Image2Paragraph](https://github.com/showlab/Image2Paragraph) - Image to Descriptive Paragraph
 * [MathGPT](https://mathgpt.streamlit.app/) - Math Solving AI
@@ -373,10 +373,6 @@
 * [TeachableMachine](https://teachablemachine.withgoogle.com/) or [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
 * [Netron](https://github.com/lutzroeder/netron) -  Visualizer for Neural Network, Deep Learning, and Machine Learning Models
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
-* [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons
-* [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
-* [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book
-* [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
 * [MiniGPT-4](https://minigpt-4.github.io/) - Advanced Large Language Models
 * [Megatron-LM](https://github.com/NVIDIA/Megatron-LM#retro) - LLM Training Codebase
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
@@ -384,3 +380,9 @@
 * [Langchain](https://github.com/hwchase17/langchain) - Build Apps via LLM
 * [GPTCache](https://github.com/zilliztech/GPTCache) - LLM Response Cache
 * [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
+* [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons
+* [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
+* [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book
+* [MetaAcademy](https://metacademy.org/) - Machine Learning Guides
+* [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
+* [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
