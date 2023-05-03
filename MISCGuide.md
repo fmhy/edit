@@ -52,7 +52,7 @@
 * [Leaf Guides](https://leafguides.xyz/) - Piracy Index
 * [The Goods](https://discord.gg/zapJ4w3XBN) - Piracy Index
 * [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - Japanese Piracy Index
-* [WAREZZ](https://piracy.vercel.app/), [2](https://warezz.now.sh/) - Piracy Index / [Warning](https://i.ibb.co/Tb7gvtX/a6e53d3ca97c.png)
+* [WAREZZ](https://piracy.vercel.app/) - Piracy Index / [Warning](https://i.ibb.co/Tb7gvtX/a6e53d3ca97c.png)
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Software / Tool Index
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - Data Hoarding Tools Index
 * [DirtyWarez Tracker](https://dirtywarez.org/cat/tracker), [OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/) / [2](https://opentrackers.org/), [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) or [awesome-piracy](https://github.com/Igglybuff/awesome-piracy#public-trackers) - Torrent Site Indexes
@@ -215,7 +215,7 @@
 * [FinURLs](https://finurls.com/) - Finance & Business News
 * [Uriminzokkiri](http://www.uriminzokkiri.com/index.php?lang=eng) - Korean News
 * [Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspaper_sites) - Read & Download Newspapers
-* [RSOE](http://hisz.rsoe.hu/) or [EDIS](https://rsoe-edis.org/) - Emergency and Disaster Map 
+* [EDIS](https://rsoe-edis.org/) - Emergency and Disaster Map 
 * [PlaneCrashInfo](http://www.planecrashinfo.com/) - Plane Crash Reports
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
@@ -250,7 +250,7 @@
 * [DMC Cookbooks](https://archive.lib.msu.edu/DMC/cookbooks/) - Cookbooks
 * [Cook Bookshelf](https://t.me/cook_bookshelf) - Cookbooks / Telegram
 * [Southern Cookbook](https://archive.org/details/southerncookbook00lustrich/) - Cookbook Southern
-* [ChefGPT](https://www.chefgpt.xyz/) or [MeHungry](https://mehungry.app/) - AI Recipe Generators
+* [ChefGPT](https://www.chefgpt.xyz/) - AI Recipe Generators
 * [Search-22](https://search-22.com/recipe-search-tools) - Multi-Site Recipe Search
 * [SuperCook](https://www.supercook.com/) - Recipe Search
 * [MyFridgeFood](https://www.myfridgefood.com/) - Recipe Search
@@ -280,7 +280,6 @@
 * [TheCookingGinn](http://www.thecookinginn.com/) - Recipes
 * [Bon Appétit](https://www.bonappetit.com/) - Recipes
 * [PunchFork](https://www.punchfork.com/) - Recipes
-* [FoodGawker](https://foodgawker.com/) - Recipes
 * [Tasty](https://tasty.co/) - Recipes
 * [101Cookbooks](https://www.101cookbooks.com/) - Recipes
 * [SimplyRecipes](https://www.simplyrecipes.com/) - Recipes
@@ -436,16 +435,16 @@
 * [MuscleWiki](https://musclewiki.com/) - Muscle / Exercise Information Tool 
 * [SPSS Tutorials ](https://www.spss-tutorials.com/) - SPSS Practice & Examples
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
-* [Fitocracy](https://www.fitocracy.com/) or [Timely-Fitness](https://github.com/Argentable/Timely-Fitness) - Create Workout Plans
+* [Fitocracy](https://www.fitocracy.com/) - Create Workout Plans
 * [DAREBEE](https://darebee.com/) - Fitness Plans / Workouts
 * [Hevy](https://www.hevyapp.com/), [Iron](https://github.com/kabouzeid/Iron), [Massive](https://gitea.presley.nz/brandon.presley/Massive), [Advagym](https://advagymsolutions.com/user-app/), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines) or [FitHero](https://fithero.app/) - Workout Trackers
 * [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
 * [GoldenCheetah](https://www.goldencheetah.org/) or [BikeComputer](https://f-droid.org/packages/de.nulide.bikecomputer/) - Biking Tracker
-* [Wandermap](http://www.wandermap.net/) or [AllTrails](https://www.alltrails.com/) - Hiking Routes
+* [AllTrails](https://www.alltrails.com/) - Hiking Routes
 * [HikerHerd](https://www.hikerherd.com/) - Hiking Gear Weight Manager
 * [MapMyWalk](https://www.mapmywalk.com/) - Walking Tracker
 * [RunnerUp](https://github.com/jonasoreland/runnerup) or [Strava](https://www.strava.com/) - Run Trackers
-* [Runmap](http://www.runmap.net/) - Running Routes
+* [Bikemap](https://www.bikemap.net/) - Running Routes
 * [Charity Miles](https://charitymiles.org/) - Donate to Charity While Running / Biking
 * [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - Zombie Running Adventure Game
 * [Bone Health Tracker](https://bonehealthtracker.com/) - Track Bone Health
@@ -457,7 +456,6 @@
 * [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - Remedies for Sores on Tongue
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - Interactive Self Care Guide
 * [deskspace](https://npckc.itch.io/deskspace) - Self-Care App
-* [Rimads](https://rimads.ai/) - Health Product Ordering App
 * [DrugFree](https://drugfree.org/) - Drug Abuse Prevention & Recovery Help
 * [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - Mindfulness / Stress Reduction Tips
 * [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
@@ -470,7 +468,6 @@
 * [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
 * [Meditation Timer](https://meditation.koti.cloud/) - Meditation Timer / Session Tracker
 * [PixelThoughts](http://www.pixelthoughts.co/) - 60 Second Relaxation Tool
-* [Relax Online](http://www.relaxonline.me.uk/sa1/index.html) - Stress Analyst Tool
 * [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health) or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Index
 * [One Mind PsyberGuide](https://onemindpsyberguide.org/) - Mental Health App Reviews
 * [7 Cups](https://www.7cups.com/) or [OnlineCounselling4u](https://www.onlinecounselling4u.com/) - Free Counseling & Therapy
@@ -579,7 +576,7 @@
 * [PowerOutage](https://poweroutage.us/) - Power Outage Map
 * [ElectricityMap](https://app.electricitymap.org/) - Electricity CO₂ Emissions Map
 * [City Generator](https://probabletrain.itch.io/city-generator) or [CityGenerator](https://oskarstalberg.com/game/CityGenerator/) - City Map Generator
-* [RSOE](http://hisz.rsoe.hu/) or [EDIS](https://rsoe-edis.org/) - Emergency and Disaster Map 
+* [EDIS](https://rsoe-edis.org/) - Emergency and Disaster Map 
 * [NCEI](https://www.ncei.noaa.gov/maps/hazards/) - Real Time Natural Hazard Map
 * [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Real Time Fires Map
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
@@ -587,7 +584,7 @@
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)
 * [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
 * [LightningMaps](https://lightningmaps.org/) - Lightning Maps
-* [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](http://radarbox24.com/) or [FlightAware](http://flightaware.com/) - Live Flight Tracker 
+* [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](https://www.radarbox.com/) or [FlightAware](http://flightaware.com/) - Live Flight Tracker 
 * [plane-notify](https://github.com/Jxck-S/plane-notify) - Plane Takeoff Notifications
 * [FlightConnections](https://www.flightconnections.com/) - Interactive Flight Routes
 * [SkyVector](https://skyvector.com/) - Flight Planner
@@ -609,8 +606,8 @@
 * [Mikavaa](http://mapmerizer.mikavaa.com/) - Compare Cities
 * [MapChecking](https://www.mapchecking.com/) - Crowd Size Estimation
 * [Free Camp Sites](https://freecampsites.net/) - Free Camp Sites
-* [Wandermap](http://www.wandermap.net/) or [AllTrails](https://www.alltrails.com/) - Hiking Routes
-* [Runmap](http://www.runmap.net/) - Running Routes
+* [AllTrails](https://www.alltrails.com/) - Hiking Routes
+* [Bikemap](https://www.bikemap.net/) - Running Routes
 * [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sound Map
 * [Notable People](https://tjukanovt.github.io/notable-people) or [People Map](https://pudding.cool/2019/05/people-map/) - Notable People Maps
 * [NUKEMAP](https://nuclearsecrecy.com/nukemap/) or [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Interactive Damage Effect Maps
@@ -815,7 +812,7 @@
 * [Screen Color Temperature](https://mybrowseraddon.com/screen-color-temperature.html) - Adjust Screen Color Temperature
 * [Font Changer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_webfont_changer) - WebFont Changer 
 * [ColorZilla](https://www.colorzilla.com/), [ColorFish](https://ui.vision/colorfish) or [ColorPick](https://vidsbee.com/ColorPick/) - Color Picker
-* [Clippings](https://aecreations.sourceforge.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - Clipboard Manager
+* [Clippings](https://aecreations.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - Clipboard Manager
 * [Emoji](https://github.com/Sav22999/emoji) - Quickly Copy / Paste Emojis
 * [Auto Text Expander](https://pastebin.com/TFPRieVN) - Create Shortcuts to Expand & Replace Text as you Type 
 * [DontFuckWithPaste](https://github.com/jswanner/DontF-WithPaste) - Prevents the Blocking of Pasting into Input Fields
@@ -823,7 +820,6 @@
 * [Copycat](https://github.com/BlackGlory/Copycat) - Copy Content in Multiple Formats & Markdowns 
 * [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - Copy Text as Markdown 
 * [CopyFish](https://ocr.space/copyfish) or [Image Reader](https://mybrowseraddon.com/image-reader.html) - Grab Text from Images 
-* [BLCKBX](https://www.blckbx.ai/landingPage) - Grab Text from Images / Videos
 * [Text to Image](https://mybrowseraddon.com/text-to-image.html) - Format & Save Text as a Image
 * [Talkie](https://joelpurra.com/projects/talkie/) or [Offline Text to Speech](https://virejdasani.github.io/OfflineTextToSpeech-Extension/) - Text to Speech
 * [Text Link](https://piro.sakura.ne.jp/xul/textlink/index.html.en) - Make Non-Hyperlinked URL's Clickable 
@@ -861,7 +857,6 @@
 * [Steam Database](https://steamdb.info/extension/) - Adds Steam Database Link to Steam Community & Store 
 * [Gmail Labels as Tabs](https://tuladhar.github.io/gmail-labels-as-tabs/) - Organize Labels as Gmail Tabs
 * [Streak](https://www.streak.com/) - Email Engagement Tracker
-* [ReplyPal](https://lolgames.net/) - AI Email Replies
 * [Native HLS](https://github.com/Palethorn/native-adaptive-streaming/) - Allows HLS & MPEG-Dash native playback 
 * [The Stream Detector](https://github.com/rowrawer/stream-detector/) - Detects Playlists & Subtitles used by HLS/DASH/HDS/MSS Streams 
 * [Happydia](https://github.com/Ademking/happydia) - Clean Sad / Annoying Media from Social Sites 
@@ -978,7 +973,6 @@
 * [Blackbox](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) - Copy Text from Videos and Images
 * [Copy Text Easily](https://chrome.google.com/webstore/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo) - Simple Text Copy 
 * [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en) - Extract Email ID's from Webpages
-* [Link Klipper](https://chrome.google.com/webstore/detail/link-klipper-extract-all/fahollcgofmpnehocdgofnhkkchiekoo?hl=en) - Webpage Link Extractor
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - Download Multiple Links at Once
 * [Download Sorter](https://chrome.google.com/webstore/detail/download-sorter/mebfblkahpknogabckmdjcmjbnpfdpcj/related) - Sort Downloads into Folders
 * [Refgen](https://github.com/reorx/refgen) - Generate Markdown Style Links
@@ -996,7 +990,7 @@
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - Smooth Key Scrolling
 * [Wheel Smooth Scroller](https://chrome.google.com/webstore/detail/chromium-wheel-smooth-scr/khpcanbeojalbkpgpmjpdkjnkfcgfkhb?hl=en) - Smooth Scrolling
 * [Get RSS Feed URL](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn) - RSS Feed Generator
-* [NudgeWare](https://nudgeware.io/), [Minto](https://chrome.google.com/webstore/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chrome.google.com/webstore/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia), [Manganum](https://manganum.app/) or [HabitLab](https://habitlab.stanford.edu/) - Productivity Managers / Site Blockers
+* [NudgeWare](https://nudgeware.io/), [Minto](https://chrome.google.com/webstore/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chrome.google.com/webstore/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia), [Manganum](https://manganum.app/) or [HabitLab](https://habitlab.github.io/) - Productivity Managers / Site Blockers
 * [Web Activity Time Tracker](https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm?hl=en) - Track Browser Activity
 * [Simple Todo](https://chrome.google.com/webstore/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf) or [Todoist](https://chrome.google.com/webstore/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh?hl=en) - To-Do List
 * [Blueticks](https://chrome.google.com/webstore/detail/blueticks/adgnjhngogijkkppficiiepmjebijinl) - WhatsApp Scheduler
@@ -1005,7 +999,7 @@
 * [Text to Image](https://chrome.google.com/webstore/detail/text-to-image/nkljaohokglebeljcgchmehnhdieakda) - Text to Image
 * [A+ Font Size Changer](https://chrome.google.com/webstore/detail/a%20-fontsize-changer-lite/ckihgechpahhpompcinglebkgcdgpkil) - Change Browser Font Size & Color
 * [Sticky Notes](https://www.getstickynotes.com/) - Browser Sticky Notes
-* [Toby](https://www.gettoby.com/), [Prune](https://chrome.google.com/webstore/detail/prune/gblddboefgbljpngfhgekbpoigikbenh), [Freezetab](https://freezetab.com/), [Tab Modifier](https://github.com/sylouuu/chrome-tab-modifier) or [Tabs Outliner](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - Tab Managers
+* [Toby](https://www.gettoby.com/), [Prune](https://chrome.google.com/webstore/detail/prune/gblddboefgbljpngfhgekbpoigikbenh), [Freezetab](https://freezetab.com/), [Tab Modifier](https://github.com/furybee/chrome-tab-modifier) or [Tabs Outliner](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - Tab Managers
 * [Dualless](https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd) or [Tab Resize](https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc) - Split Browser Window 
 * [Rearrange Tabs](https://chrome.google.com/webstore/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbga?hl=en) - Rearrange Tabs
 * [chromewm](https://gitlab.com/EduCampi/chromewm) - Tile Windows / Emulate Workspaces
@@ -1132,7 +1126,7 @@
 
 ## ▷ Electronics
 
-* ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder),  [Build Redux](https://buildredux.com/), [CGDirector](https://www.cgdirector.com/pc-builder/) or [NZXTBld](https://www.letsbld.com/) - PC Building Sites
+* ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder),  [Build Redux](https://buildredux.com/), [CGDirector](https://www.cgdirector.com/pc-builder/) or [NZXTBld](https://nzxt.com/category/gaming-pcs/build) - PC Building Sites
 * ⭐ **[/r/PCMasterrace Wiki](https://www.reddit.com/r/pcmasterrace/wiki/builds/)**, [/r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [Logical Increments](https://www.logicalincrements.com/) - PC Building Guides / **[Video](https://youtu.be/BL4DCEp7blY)**
 * ⭐ **[NanoReview](https://nanoreview.net/en)**, [Octoparts](https://octopart.com/), [Technical City](https://technical.city/), [TechPowerup](https://www.techpowerup.com/) or [Techspecs](https://techspecs.io/) - Hardware Comparisons
 * ⭐ **[rtings](https://www.rtings.com/)** - Hardware Reviews
@@ -1143,7 +1137,7 @@
 * [/r/buildapc](https://reddit.com/r/buildapc) - PC Building Community / [Discord](https://discord.com/invite/buildapc)
 * [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
 * [/r/SuggestAPC](https://reddit.com/r/SuggestAPC) - PC Suggestion Community
-* [NewMaxx's SSD Site](https://ssd.borecraft.com/) - SSD Buying Guide
+* [NewMaxx's SSD Site](https://borecraft.com/) - SSD Buying Guide
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
 * [Shucks](https://shucks.top/) - External Drive Price Tracker
 * [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Laptop Deals](https://laptopsdeals.net/our-gaming-laptops-guide-list/), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
@@ -1256,7 +1250,7 @@
 * [IndieGameBooru](https://indiegame.booru.org/) - Indie Game Image Booru
 * [Random Screenshot](https://randomscreenshot.com/) or [Random Prnt.sc](https://chrishannah.me/prntsc/) - Random Screenshots
 * [Archillect](https://archillect.com/archive) - Image Posting Bot
-* [ArtVote](https://artvote.net/) - Judge Art
+* [ArtVote](https://qcpages.qc.cuny.edu/~chanusa/artvote/) - Judge Art
 * [Random Comic Generator 3.0](https://explosm.net/rcg) - Explosm Random Comic Generator
 * [blhaj-nra.art](https://xn--blhaj-nra.art/) - Blåhaj Images
 * [cachemonet](http://cachemonet.com/) - Randomly Generated GIFs / Backgrounds
@@ -1327,13 +1321,13 @@
 * [cnnix-steership](https://edition.cnn.com/interactive/2021/03/cnnix-steership/) - Steer through the Suez Canal
 * [Ballooning](https://alexanderperrin.com.au/triangles/ballooning/) - Procedurally Generated Balloon Simulator
 * [The Fed](https://thefed.app/) - Central Banking Game
-* [Tamajoji](https://flixflox.itch.io/tamajoji) - Browser Tamagotchi
+* [Tamajoji](https://aericode.itch.io/tamajoji) - Browser Tamagotchi
 * [Gifypet](https://gifypet.neocities.org/) - Create Your Own Cute Pet
 * [xrDinosaurs](https://www.xrdinosaurs.com/) - VR Dino Park
 * [This Is Sand](https://thisissand.com/) - Make Sand Art
 * [Orb.Farm](https://orb.farm/) - Virtual Aquatic Ecosystem
 * [Generativeplanets](https://zehfernandes.com/generativeplanets/builder) or [Planet](http://oskarstalberg.com/game/planet/planet.html) - Planet Generators
-* [Bouncy Balls](https://bouncyballs.org/) or [Balls Simulation](http://ricktu288.github.io/balls-simulation/) - Ball Physics Simulator
+* [Bouncy Balls](https://bouncyballs.org/) or [Balls Simulation](https://phydemo.app/balls-simulation/) - Ball Physics Simulator
 * [Gravity Points](https://codepen.io/akm2/full/rHIsa) or [dmilin1](https://dmilin1.github.io/PrincipiaJS/build/index.html) - Play with Gravity 
 * [Google Gravity](https://mrdoob.com/projects/chromeexperiments/google-gravity/) - Falling Google
 * [Fluid Simulation WebGL](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) or [WebGL Fluid Experiment](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/) - Fluid Simulation
