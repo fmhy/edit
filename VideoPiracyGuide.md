@@ -40,6 +40,7 @@
 * [NetFilm](https://net-film.vercel.app/) - Movies / TV / Anime
 * [RidoMovies](https://ridomovies.pw/) - Movies
 * [StreamLord](http://www.streamlord.com/) - Movies / TV
+* [Vidlink](https://vidlink.org/) - Movies
 * [WapFever](https://wapfever.com/) - Movies
 * [Trailers.to](https://trailers.to/) - Movies / TV / [Bypass Quota](https://openvideofs.github.io/)
 * [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://i.imgur.com/CdFCNWA.mp4)
@@ -590,6 +591,7 @@
 * ⭐ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - Download videos from streaming sites
 * [RareLust](https://rarelust.com/) - Rare Movies / NSFW
 * [My Duck Is Dead](http://www.myduckisdead.org/) - Rare Movies / NSFW
+* [MegaDDL](https://megaddl.co/) - Movies / TV
 * [movie-web](https://movie-web.app/) - Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)
 * [Uloz](https://ulozto.net/) - Rare Movies / Short Films
 * [MobileTVShows](https://www.mobiletvshows.net/) - TV / Anime
