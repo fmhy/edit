@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.ibb.co/cCV7s80/2fd7e177a9ae.png)** - For mobile users
+**[Table of Contents](https://i.ibb.co/whMPcJV/image.png)** - For mobile users
 
 ***
 ***
@@ -141,6 +141,10 @@
 
 * [Zamunda](https://zamunda.net/) - Registration Required
 
+## ▷ Streaming
+
+* [cinemabg](https://cinemabg.club/) - Movies
+
 ***
 
 # ► Burmese
@@ -152,6 +156,8 @@
 ## ▷ Downloading
 
 * [channelmyanmar](https://channelmyanmar.org) - Movies / TV
+* [bgestv](https://bgestv.com/) - TV
+* [bgtvi](https://bgtvi.com/) - TV
 
 ***
 
@@ -231,6 +237,7 @@
 
 ## ▷ Streaming
 
+* [Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - IPTV Resources
 * [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)
 * [beyondHD ](https://t.me/beyondHD) - Movies / Subs
 * [Watch HK Movies Online](https://vinspirezhk.blogspot.com/) - Rare Chinese Movies / English Subs
@@ -300,6 +307,7 @@
 * [linovelib](https://www.linovelib.com/) - Light-Novels
 * [lightnovel.us](https://www.lightnovel.us/) - Light-Novels
 * [txt900](https://www.txt990.org/) - Light-Novels
+* [69shu](ttps://www.69shu.com) - Light-Novels
 * [Zongheng](https://www.zongheng.com/) - Light-Novels
 * [Bixiange](https://www.bixiange.top/) - Light-Novels
 * [118book](https://www.118book.com/) - Light-Novels
@@ -446,18 +454,24 @@
 * [Dpstream](https://wvw.dpstream.rip/) - Movies / TV
 * [Sadisflix](https://sadisflix.fun/) - Movies / TV / [Telegram](https://t.me/sadisflix)
 * [Cpasfini](https://vvww.cpasfini.rip/) - Movies / TV / Cartoons
+* [mykdrama](https://mykdrama.co/) - KDrama
 * [OtakuFR](https://otakufr.co/) - Anime
 * [JetAnime](https://vww.jetanimes.com/) - Anime
 * [Anime-Ultime](http://www.anime-ultime.net/) - Anime
+* [universanime](https://www.universanime.co/) - Anime
+* [mavanimes](https://mavanimes.cc/) - Anime
 * [VoirAnime](https://voiranime.com/) - Anime
+* [senpai](https://senpai.cc/) - Anime
 * [VostFree](https://vostfree.ws/) - Anime
 * [animevostfr](https://animevostfr.tv/) - Anime
+* [animeko](https://animeko.co/) - Anime
 * [animesultra](https://www1.animesultra.net/) - Anime
 * [anime-sama](https://anime-sama.fr/) - Anime
 * [toonanime](https://v2.toonanime.tv/) - Anime
 * [VoirCartoon](https://voircartoon.com/) - Cartoons
 * [dtvd](https://dtvd.net/) or [liveschauen](https://deutschekanale.com/) - Live TV
 * [ADKami](https://www.adkami.com/) - French Anime Calendar
+* [33rapmp3](https://www.33rapmp3.cc/) - Rap
 
 ## ▷ Reading
 
@@ -585,6 +599,7 @@
 * [Greek-Movies](https://greek-movies.com/) - Movies / TV / Live / Courses
 * [Voody](https://voody-online.com/) - Movies / TV / Anime
 * [an1me](https://an1me.to/) - Anime
+* [Greek IPTV](https://github.com/free-greek-iptv/greek-iptv) - IPTV Resources
 
 ***
 
@@ -823,7 +838,6 @@
 * [Anime-Torrent](https://www.anime-torrent.com/) - Anime
 * [VCB-S](https://vcb-s.com/) - Anime
 
-
 ## ▷ Streaming
 
 * [Drama Sites](https://saidit.net/s/freemediaheckyeah/wiki/storage#wiki_asian_drama_sites)
@@ -832,6 +846,7 @@
 * [JP-Films](https://jp-films.com/) - Movies / TV
 * [Abema](https://abema.tv/) - Live TV
 * [webcinema](https://webcinema.wwww.jp/) - Anime
+* [b9good](https://b9good.one/) - Anime
 * [bangumi.moe](https://bangumi.moe/) - Anime
 * [AnimeLon](https://animelon.com/) - Anime / Learn Japanese
 * [Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html) - Japanese Animated Film Archive
@@ -862,6 +877,7 @@
 * [KLManga](https://klz9.com/) - Manga
 * [Nikaraw](https://nikaraw.com/) - Manga
 * [Mangaraw](https://mangaraw.to/) - Manga
+* [manga1001](https://manga1001.pro/) - Manga
 * [boroboro](https://boroboro.neocities.org/) - Manga
 * [tonarinoyj](https://tonarinoyj.jp/) - Manga
 * [Honto](https://honto.jp/cp/ebook/recent/free.html) - Manga / NSFW
@@ -1273,11 +1289,13 @@
 * [brmangas](https://www.brmangas.net/) - Manga
 * [randomscans](https://randomscans.com/) - Manga
 * [NeoxScans](https://neoxscans.net/) - Manga
+* [argosscan](https://argosscan.com/) - Manga
 * [rainbowfairyscan](https://rainbowfairyscan.com/) - Manga
 * [instintomangaka](https://www.instintomangaka.com/baixar-mangas/) - Manga
 * [Kiniga](https://kiniga.com/) - Light Novels
 * [NovelMania](https://novelmania.com.br/) - Light Novels
 * [CentralNovel](https://centralnovel.com/) - Light Novels
+* [Tsundoku](https://tsundoku.com.br/) - Light Novels
 * [EmpireNovels](https://empirenovels.com.br/) - Light Novels
 * [MyLightNovel](http://www.mylightnovel.com.br/) - Light Novels
 * [itazuraneko](https://itazuraneko.neocities.org/shousetu/) - Light Novels
@@ -1447,6 +1465,7 @@
 * [viho.live](https://viho.live/) - Movies / TV / Anime
 * [EX-FS](https://ex-fs.net/) - Movies / TV / Anime
 * [hdrezka](https://hdrezka.ag/) - Movies / TV / Anime
+* [Kinogo](https://kinogo.biz/) - Movies / TV / Anime
 * [kinobase](https://kinobase.org/) - Movies / TV
 * [seasonvar](http://seasonvar.ru/) - TV
 * [rukino.org](https://rukino.org/) - Movies / TV
@@ -1715,6 +1734,7 @@
 * [Libros de la Nube](https://librosdelanube.blogspot.com/) - Textbooks
 * [booksmedicos](https://booksmedicos.org/) - Medical Textbooks
 * [Manuales de instrucciones](https://www.manualpdf.es/) - Manuals
+* [SciELO Chile](https://scielo.conicyt.cl/) - Scientific Journals
 * [albalearning](https://albalearning.com/) - Audiobooks
 * [Audioteka](https://t.me/+S3ssdd7ny9oyM2M0) - Audiobooks
 * [mangadoor](http://mangadoor.com/) - Manga
@@ -2025,6 +2045,7 @@
 * [Toroflix](https://hindilinks4u.app/) - Streaming / Movies
 * [SadRip](https://sadrip.blogspot.com/) - Movies / TV
 * [Movies Counter](https://moviescounter.lat/) - Download / Movies
+* [FreeDriveMovie](https://freedrivemovie.lol/) - Download / Movies
 * [MLWBD](https://mlwbd.skin/) - Download / Movies / TV / Anime / [Telegram](https://t.me/mlwbdnew)
 * [DesireMovies](https://desiremovies.motorcycles/) - Download / Movies / TV
 * [DotMovies](https://dotmovies.boats/) - Download / Movies / TV / Cartoons
@@ -2064,6 +2085,7 @@
 * [Asenshu](https://asenshu.com/) - Albanian / Streaming / Anime
 * [DJPunjab](https://djpunjab.is/) - Punjabi / Download / MP3
 * [Paper](https://paper.naya.com.np/) - Nepali Text Tools
+* [iptv-ch.github](https://iptv-ch.github.io/) - Swiss IPTV Resources
 * [Ethio Terka](https://t.me/ethio_terka), [amharicbookss](https://t.me/amharicbookss) or [GeezLibraryMembers](https://t.me/GeezLibraryMembers) - Amharic / Books
 * [Redzidzirdilatviju](http://www.redzidzirdilatviju.lv/en/) - Latvian / Documents
 * [Machine Learning ka Chilla](https://www.youtube.com/playlist?list=PL9XvIvvVL50HHzaLPtFBOuikAWa0JdhMW) - Urdu / Machine Learning Course
