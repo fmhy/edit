@@ -82,6 +82,7 @@
 * [BadshahUploads](https://badshahuploads.xyz/) - Video / Audio / Software / Games / Books / Leech Required
 * [sarzamindownload](https://www.sarzamindownload.com/) - Software / Games / Android
 * [FrostClick](https://www.frostclick.com/wp/) - Video / Audio / Software / Games / Books
+* [20Links](https://20links.com/) - Video / Audio / Software / Games / Books
 * [The Ambassador](https://ambassadorddl.site/) - Video / Games / Books
 * [WarezMagazine](https://warezmagazine.us/) - Video / Software / Books
 * [Leaker](https://leaker.me/) - Video / Audio / Games
