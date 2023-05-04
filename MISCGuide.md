@@ -1110,6 +1110,7 @@
 * [Facebook Ad Library](https://www.facebook.com/ads/library/) - Find Deals via Facebook Ad Search
 * [Type Hound](https://typohound.com/) - Ebay Typo Search
 * [BTOD](https://www.btod.com/blog/category/buying-guides/) - Office Chair Buying Guides / Reviews
+* [Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/) - Mousepad Buying Guide / Reviews
 * [Cars.com](https://www.cars.com/research/compare/), [Vehicle Rankings](https://cars.usnews.com/cars-trucks/rankings), [Motor1](https://www.motor1.com/reviews/) or [Edmunds](https://www.edmunds.com/car-reviews/) - Vehicle Reviews / Comparisons
 * [carsized](https://www.carsized.com/) - Vehicle Size Comparisons
 * [Blahaj Quest](https://blahaj.quest/) - Blåhaj Tracking Map
@@ -1142,7 +1143,7 @@
 * [Shucks](https://shucks.top/) - External Drive Price Tracker
 * [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Laptop Deals](https://laptopsdeals.net/our-gaming-laptops-guide-list/), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
 * [Laptop Knowledge Database](https://laptops.miraheze.org/wiki/Main_Page) or [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Databases
-* [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/) or [/r/MouseReview Wiki](https://www.reddit.com/r/MouseReview/wiki/index/) - Mouse Buying Guides
+* [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [/r/MouseReview Wiki](https://www.reddit.com/r/MouseReview/wiki/index/) - Mouse Buying Guides
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - Mouse Click Latency Chart
 * [MechGroupBuys](https://www.mechgroupbuys.com/) - Group Mechanical Keyboard Buying / [Discord](https://discord.com/invite/mechgroupbuys) / [Reddit](https://www.reddit.com/r/MechGroupBuys/)
 * [PSU Tier List](https://cultists.network/140/psu-tier-list/) - PSU Buying Guide
@@ -1236,6 +1237,7 @@
 * [SfwChan](http://boards.swfchan.net/) - SFW Archive
 * [wtf.rentry](https://wtf.rentry.co/) or [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
 * [DreamWidth](https://www.dreamwidth.org/) - User-Made Images & Stories
+* [World Dream Bank](http://www.worlddreambank.org/) - Dream Images & Stories
 * [stringers.live](https://stringers.live/) - Live Freelance Journalist Streams
 * [Retro TV Simulator](https://www.myretrotvs.com/) - Simulate Oldschool TV Channels
 * [BumpWorthy](https://www.bumpworthy.com/) - Adult Swim Bumps 
@@ -1496,7 +1498,7 @@
 * [Mario Mayhem](https://www.mariomayhem.com/) - Mario Fansite
 * [ILoveJarJarBinks](https://ilovejarjarbinks.tripod.com/) - Jar Jar Binks Fansite
 * [User Inyerface](https://userinyerface.com/) - Worlds Most Annoying Website
-* [Terminal 00](https://angusnicneven.com/) or [angelangelangell](https://angelangelangelangelangel.com/) - Cursed Sites 
+* [Terminal 00](https://angusnicneven.com/) or [angelangelangel](https://angelangelangelangelangel.com/) - Cursed Sites 
 * [TheMostAmazingWebsiteOnTheInternet](http://www.themostamazingwebsiteontheinternet.com/) - The Internets Best Website
 * [MotherFuckingWebsite](http://motherfuckingwebsite.com/), [BetterMotherFuckingWebsite](http://bettermotherfuckingwebsite.com/), [EvenBetterMotherFuckingWebsite](https://evenbettermotherfucking.website/) or [TheBestMotherFuckingWebsite](https://thebestmotherfuckingwebsite.co/)
 * [Objection!](https://objection.lol/) - Ace Attorney Objecting on Your Behalf
