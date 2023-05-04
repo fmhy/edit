@@ -183,6 +183,7 @@
 * [Feh](https://feh.finalrewind.org/) or [NSXIV](https://github.com/nsxiv/nsxiv) - Image Viewer
 * [lsix](https://github.com/hackerb9/lsix) - View Images in Terminal
 * [Upscaler](https://gitlab.com/TheEvilSkeleton/Upscaler) - Image Upscaler
+* [Trimage](https://trimage.org/) - Image Compressor
 * [MkPosters](https://github.com/patrick-kidger/mkposters) - Turn Markdown Files into Posters
 * [Rapid](https://damonlynch.net/rapid/) - Quick Linux Photo Importer
 * [QR Scan](https://github.com/sayanarijit/qrscan) - QR Code Scanner
