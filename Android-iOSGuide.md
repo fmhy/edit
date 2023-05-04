@@ -450,7 +450,7 @@ https://www.whosaidthat.uk/
 * [Better Open With](https://play.google.com/store/apps/details?id=com.aboutmycode.betteropenwith) - Improved Link Handling
 * [PDF Maker](https://play.google.com/store/apps/details?id=opofficial.pdfmaker) - PDF Creator
 * [Lagrange](https://skyjake.github.io/fdroid/repo/) or [Buran](https://github.com/Corewala/Buran) - Gemini Browsers
-* [BlueClover](https://github.com/nnuudev/BlueClover), [MobiChan](https://github.com/Rukkaitto/mobichan), [Kuroba](https://github.com/K1rakishou/Kuroba-Experimental) or [Chan](https://github.com/moffatman/chan) - 4Chan Apps
+* [BlueClover](https://github.com/nnuudev/BlueClover), [MobiChan](https://github.com/Rukkaitto/mobichan), [Kuroba](https://github.com/K1rakishou/Kuroba-Experimental) / [2](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4Chan Apps
 * [ServeIt](https://github.com/many-fac3d-g0d/ServeIt) - Android HTTP Server
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - Easily Open Links in Text via Share Function
 * [LinkSheet](https://github.com/1fexd/LinkSheet) - Restore URL App Chooser
