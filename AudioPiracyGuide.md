@@ -324,6 +324,7 @@
 * [Lossless-FLAC](https://lossless-flac.com/) - FLAC
 * [DiscogC](https://www.discogc.com/) - FLAC
 * [LosslessAlbums](https://losslessalbums.club/) or [HDMusic](https://hdmusic.cc/) - FLAC
+* [DocOverBlog](https://docoverblog.blogspot.com/) - FLAC
 * [Creamusic](https://creamusic.net/) - FLAC / Bypass Limit w/ VPN
 * [ubdn](https://ubdn.me/) - MP3 / FLAC
 * [IntMusic](https://intmusic.net/) - MP3 / FLAC
