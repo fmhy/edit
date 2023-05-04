@@ -142,7 +142,6 @@
 * [DivestOS](https://divestos.org/fdroid/official/) - App Repository
 * [Aurora Store](https://auroraoss.com/), [2](https://gitlab.com/AuroraOSS/AuroraStore) - Alt App Store / [Bypass Limits](https://youtu.be/L5RrtxQUtVE)
 * [Aptoide](https://aptoide.com/) - Alt App Store
-* [AC-Market](https://ac-market.org/) - Alt App Store
 * [Skydroid](https://github.com/redsolver/skydroid) - Alt App Store
 * [Accrescent](https://accrescent.app/) - Alt App Store
 * [AppTeka](https://appteka.store/) - Alt App Store
