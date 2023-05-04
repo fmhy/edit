@@ -1004,11 +1004,12 @@
 * [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html) or [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - System Gaming Tweak Guides
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/), [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) or [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - Gaming Optimization Guides
 * [LinkRunner](https://github.com/romjacket/rj_linkrunner) - Per-Game Settings Manager
-* [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit?usp=sharing), [MoreFPS](https://morefps.net/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
+* [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/), [MoreFPS](https://morefps.net/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) or [HoneCtrl](https://github.com/auraside/HoneCtrl) - Latency Reduction / FPS Fixes
 * [Fraps Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#fraps) / [2](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
 * [Ping Enhancer](https://www.wowinterface.com/downloads/info16336-PingEnhancer.html), [ExitLag](https://github.com/Borisizdabezt/exitlag-hwid-spoofer) / [Guide](https://youtu.be/Ga0z5xwZyUA) or [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) - Decrease Ping
 * [Nvidia Overclocking](https://github.com/LunarPSD/NvidiaOverclocking/blob/main/Nvidia%20Overclocking.md) - Nvidia Overclocking Resources
+* [Nvidia Overclocking Guide](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/) - Nvidia Overclocking Guide
 * [MSI Afterburner](https://www.msi.com/Landing/afterburner), [GPU Tweak lll](https://www.asus.com/campaign/GPU-Tweak-III/index.php) or [EVGA Precision X1](https://www.evga.com/precisionx1/) - Graphics Card Overclocking Tools
 * [MSI Kombustor](https://msikombustor.com/) - GPU Benchmark Test
 * [Overclock](https://www.overclock.net/) - Overclocking Forum
@@ -1286,12 +1287,14 @@
 
 * ⭐ **[Game Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_guides)** - Strategy Guides / Walkthroughs
 * ⭐ **[Before I Play](http://www.beforeiplay.com/)** - Tips for any Game
+* ⭐ **[GamingSmart](https://gamingsmart.com/)** - Game Sensitivity Converters
+* ⭐ **[Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/)** - Mouse Click Latency Chart
+* ⭐ **[Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/)** - Mousepad Comparison Chart
 * ⭐ **[Aim Lab](https://aimlab.gg/)**, [AimBooster](http://www.aimbooster.com/), [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://www.3daimtrainer.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training
 * ⭐ **[CPSCounter](https://cpscounter.org/)**, [ClickSpeeder](https://clickspeeder.com/) or [ClickSpeedTester](https://www.clickspeedtester.com/) - Click Speed Training
 * ⭐ **[Momentum](https://momentum-mod.org/)** - Movement Training
-* ⭐ **[GamingSmart](https://gamingsmart.com/)** - Game Sensitivity Converters
-* [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
 * [Impossible Rush](http://tanksw.com/impossible-rush/) - Reflex Training
+* [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
 * [Use ESDF](http://www.use-esdf.org/) - OG FPS Control Combo
 * [CrossOver](https://github.com/lacymorrow/crossover) or [HudSight](https://hudsight.com/) - Crosshair Overlay
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
