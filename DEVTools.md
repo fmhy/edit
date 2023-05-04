@@ -28,7 +28,7 @@
 * [QuickRef.ME](https://quickref.me/), [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
 * [Programming Challenges](https://i.ibb.co/J3ppPQ3/5bdea0d754ac.png), [DevPost](https://devpost.com/), [HackTheEarth](https://www.hackerearth.com/challenges/), [EMKC](https://emkc.org/challenges) or [Code Golf](https://codegolf.stackexchange.com/) - Programming Challenges
 * [WDTCD?](https://whatdoesthiscodedo.com/) or [Denigma](https://denigma.app/#demo) - AI Code Explanations
-* [Coding Problems](https://github.com/MTrajK/coding-problems) - Solutions for Coding Problems
+* [Coding Problems](https://github.com/MTrajK/coding-problems) or [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - Solutions for Coding Problems
 * [RoboMind](https://www.robomind.net/) or [Checki0](https://checkio.org/) - Code Learning Games
 * [mimo](https://getmimo.com/) - Coding Tutorial App
 * [Code With Mosh Courses](https://github.com/nbats/FMHYedit/blob/main/base64.md#code-with-mosh-courses)
@@ -65,7 +65,7 @@
 * [Rust Learning](https://github.com/ctjhoa/rust-learning) - Rust Learning Resources
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) - Rust Programming Guidebook
 * [Regex Hub](https://projects.lukehaas.me/regexhub/) or [IHateRegex](https://ihateregex.io/) - Regex Cheat Sheets
-* [Simple Regex](https://simple-regex.com/), [ReFrF](https://refrf.dev/), [Regex.info](http://regex.info/), [ReGexOne](https://regexone.com/), [RegExr](https://regexr.com/) or [RegexLearn](https://regexlearn.com/) - Learn Regex
+* [Simple Regex](https://simple-regex.com/), [learn-regex](https://github.com/ziishaned/learn-regex), [ReFrF](https://refrf.dev/), [Regex.info](http://regex.info/), [ReGexOne](https://regexone.com/), [RegExr](https://regexr.com/) or [RegexLearn](https://regexlearn.com/) - Learn Regex
 * [ReGeX](https://github.com/phikal/ReGeX) - ReGeX Learning Game / Android
 * [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering) - Reverse Engineering Course 
 * [High Assurance Rust](https://highassurance.rs/) - Software Development Guide
@@ -229,6 +229,7 @@
 * [DefendTheWeb](https://defendtheweb.net/) - Cybersecurity Challenges
 * [Cyber Talent Kids](https://cybertalentskids.com/) - Learn About Cybersecurity
 * [pwn.college](https://pwn.college/) - Cybersecurity Practice
+* [OverTheWire](https://overthewire.org/wargames/) - Cybersecurity Learning Game
 * [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Pentesting / Security Index
 * [Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) or [Juice Shop](https://owasp.org/www-project-juice-shop/) - Learn Pentesting
 * [Hacksplaining](https://www.hacksplaining.com/) - Developer Security Lessons
@@ -739,7 +740,7 @@
 * [Pencil](http://pencil.evolus.vn/) - Software Mockup Tool / [GitHub](https://github.com/evolus/pencil)
 * [GNUnet](https://gnunet.org/en/) - Software Framework
 * [shadcn](https://ui.shadcn.com/) - Software Components
-* [Slint](https://github.com/slint-ui/slint) or [QT Designer](https://build-system.fman.io/qt-designer-download) - GUI Development Tools
+* [Slint](https://github.com/slint-ui/slint), [Fyne](https://fyne.io/) or [QT Designer](https://build-system.fman.io/qt-designer-download) - GUI Development Tools
 * [Gooey](https://github.com/chriskiehl/Gooey) - Convert Python Command Line to GUI
 * [Kuker](https://github.com/krasimir/kuker) - Debug Applications
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - HTTP Proxy
@@ -1125,6 +1126,7 @@
 * [Awesome Go](https://awesome-go.com/) - Go Programming Resources
 * [Go Recipes](https://github.com/nikolaydubina/go-recipes) - Go Project Tools
 * [lo](https://github.com/samber/lo) - Go Library
+* [GoPlay](https://goplay.space/) - Go Playground
 * [Awesome Python](https://github.com/vinta/awesome-python) - Python Resource Index
 * [py-modindex](https://docs.python.org/3/py-modindex.html) - Python Modules List / Tutorials
 * [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Visual Studio Code Python Language Extension / [Performant Language](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
