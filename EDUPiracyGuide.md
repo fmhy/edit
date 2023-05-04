@@ -482,6 +482,7 @@ Simulator
 * [ManuscriptMiniatures](https://manuscriptminiatures.com/) - Medieval Manuscript Images
 * [Histography](https://histography.io/) or [Oldest](https://www.oldest.org/) - History Timelines
 * [Sciphilos](http://sciphilos.info/) - Historical Discovery Timeline
+* [Royal Armouries Collections](https://collections.royalarmouries.org/) - Ancient Armaments Museum
 * [The First World War](https://www.firstworldwar.amdigital.co.uk/) - WW1 Study Material
 * [NuclearWeaponArchive](https://nuclearweaponarchive.org/) - Nuclear Weapons History
 * [911 Realtime](https://911realtime.org/) - 9/11 in Realtime
