@@ -56,7 +56,7 @@
 
 * ⭐ **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [5](https://ravebooksearch.com/) / [6](https://recherche-ebook.fr/en/) - Multi-Site Book Search
 * ⭐ **[Anna’s Archive](https://annas-archive.org/)** - Books / Comics / Educational
-* ⭐ **[Z-Library](https://singlelogin.me/)**, [2](https://1login.to/) - Books / Comics / Educational
+* ⭐ **[Z-Library](https://singlelogin.re/)**, [2](https://1login.to/) - Books / Comics / Educational
 * ⭐ **Z-Lib Tools** - [Megathread](https://redd.it/zx6z62) / [I2P](http://kkd7tiqf5lv3olqfdnkw4znmmmmnjo2xqlxrp5ntthp6juowaiha.b32.i2p) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Subreddit](https://www.reddit.com/r/zlibrary/)
 * ⭐ **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools) / [ACSM Plugin](https://github.com/Leseratte10/acsm-calibre-plugin)
@@ -223,11 +223,11 @@
 * [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2) - Occult
 * [GodChecker](https://www.godchecker.com/) - Religion / Mythology
 * [Hermetic International](https://www.hermetics.net/) - Religion / Occult / Alchemy / Astrology / Freemasonry / Gnosticism / Hermetic / Kabbalah / Philosophy
-* [Temple of Solomon the King](https://github.com/nbats/FMHYedit/blob/main/base64.md#temple-of-solomon-the-king) - Occult / Gnosticism / Esoterica / Drive 
+* [Temple of Solomon the King](https://github.com/nbats/FMHYedit/blob/main/base64.md#temple-of-solomon-the-king) - Occult / Gnosticism / Esoterica / Drive
 * [Hermetics](https://www.hermetics.org/library.html) - Ancient Texts / Mythology / Occult
 * [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - Religion / Esoterica / Occult
 * [Summa Theologiae](https://drbo.org/summa//) - Religion / Sacred Doctrine / Christianity
-* [Esoteric Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#esoteric-library) - Esoterica / Occult 
+* [Esoteric Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#esoteric-library) - Esoterica / Occult
 * [Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm) - Mythology / Conspiracy / Esoterica
 * [Magic / Esoteric Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks) - Magic / Esoterica
 * [Dhamma Talks](https://www.dhammatalks.org/) - Sacred Texts / Religion / Buddhism
@@ -442,8 +442,8 @@
 * [arXiv](https://arxiv.org/) - Science / Math / Physics / [Search](https://arxiv-sanity-lite.com/)
 * [IntechOpen](https://www.intechopen.com/) - Science
 * [Magazines Scientific](https://scientificmagazines.top/) - Science Magazines
-* [Naked Scientists](https://www.thenakedscientists.com/) - Podcasts / Shows / Science 
-* [Science Forums](https://www.scienceforums.net/) - Forums / Science 
+* [Naked Scientists](https://www.thenakedscientists.com/) - Podcasts / Shows / Science
+* [Science Forums](https://www.scienceforums.net/) - Forums / Science
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://github.com/nbats/FMHYedit/blob/main/base64.md#astronomy--physics) - Books / Notes / Astronomy
 * [Institute of Mathematics](https://aimath.org/textbooks/) - Math / Books
 * [RealNotComplex](https://realnotcomplex.com/) - Math / Books
@@ -534,7 +534,7 @@
 * [Europeana](https://www.europeana.eu/) - European Historical Documents
 * [The National Archives](https://nationalarchives.gov.uk/) - UK Historical Documents
 * [Jewish Virtual Library](https://www.jewishvirtuallibrary.org/) - Encyclopedia of Jewish / Israeli History
-* [PublicDomainReview](https://publicdomainreview.org/) - Reviews / Essays of Public Domain Material 
+* [PublicDomainReview](https://publicdomainreview.org/) - Reviews / Essays of Public Domain Material
 * [History Newsboys of 1899](https://github.com/nbats/FMHYedit/blob/main/base64.md#history-newsboys-of-1899) - Books / Documents
 * [ETHW](https://ethw.org/) - Engineering and Technology History Wiki
 * [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive
@@ -612,10 +612,10 @@
 * [dimensions](https://app.dimensions.ai/discover/publication) - Document Search
 * [Share OSF](https://share.osf.io/) - Document Search
 * [VDocuments ](https://vdocuments.site/) - Document Search
-* [repo.zenk](https://repo.zenk-security.com/) - Document Search 
-* [docplayer](https://docplayer.net/) - Document Search 
-* [DocDroid](https://www.google.com/search?q=site%3Adocdroid.net) - Document Search 
-* [Higher Intellect](https://preterhuman.net/) - Document Search 
+* [repo.zenk](https://repo.zenk-security.com/) - Document Search
+* [docplayer](https://docplayer.net/) - Document Search
+* [DocDroid](https://www.google.com/search?q=site%3Adocdroid.net) - Document Search
+* [Higher Intellect](https://preterhuman.net/) - Document Search
 * [qDoc](https://idoc.tips/) - Document Search
 * [Doc Search](https://parksdigital.com/doc-search/) - Document Search
 * [ReadSomethingGreat](https://www.readsomethinggreat.com/) - Internet Articles
@@ -693,7 +693,7 @@
 * [Open Payments](https://openpaymentsdata.cms.gov/) - Medical Device Company Payment Reports
 * [NSA Archive](https://nsarchive.gwu.edu/) - Reports
 * [NAP](https://nap.nationalacademies.org/) - Reports
-* [WikiLeaks](https://wikileaks.org/) - Leaked Documents 
+* [WikiLeaks](https://wikileaks.org/) - Leaked Documents
 * [CensorBib](https://censorbib.nymity.ch/) or [censoredplanet.org](https://censoredplanet.org/) - Internet Censorship Research Papers
 * [Constitute Project](https://www.constituteproject.org/) - World Constitutions Database
 * [ArmyPubs](https://armypubs.army.mil/) or [US Military Manual Collection](https://archive.org/details/military-manuals) - Military Documents / Manuals
@@ -818,11 +818,11 @@
 * ⭐ **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-Site Comic Search
 * ⭐ **[ReadComicsOnline](https://readcomiconline.li/)**
 * ⭐ **[GetComics](https://getcomics.org/)** - Downloads / Read Online
-* ⭐ **[ComicExtra](https://www.comicextra.com/)** or [Comic Online Free](https://comiconlinefree.net/) 
+* ⭐ **[ComicExtra](https://www.comicextra.com/)** or [Comic Online Free](https://comiconlinefree.net/)
 * ⭐ **[XOXO Comics](https://xoxocomics.com/)** / [2](https://xoxocomics.net)
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
 * [View Comics](https://viewcomics.co/)
-* [Read Comics Online](https://readcomicsonline.ru/) 
+* [Read Comics Online](https://readcomicsonline.ru/)
 * [Marvel_Comicbooks](https://t.me/Marvel_comicbooks) or [DC_Comicbooks](https://t.me/DC_Comicbooks) - Downloads
 * [Comix-Load](https://comix-load.in/) - Downloads
 * [Zip Comic](https://www.zipcomic.com/) - Downloads
@@ -868,7 +868,7 @@
 
 ## ▷ Manga Sites
 
-* ⭐ **[MangaDex](https://mangadex.org/)** - [Downloader](https://github.com/mansuf/mangadex-downloader) / [Script](https://github.com/frozenpandaman/mangadex-dl) 
+* ⭐ **[MangaDex](https://mangadex.org/)** - [Downloader](https://github.com/mansuf/mangadex-downloader) / [Script](https://github.com/frozenpandaman/mangadex-dl)
 * ⭐ **[ComicK](https://comick.app/)** - [Discord](https://discord.gg/comick)
 * ⭐ **[MangaSee](https://mangasee123.com/)**, [2](https://manga4life.com/)
 * ⭐ **[MangaPark](https://mangapark.net/)**
@@ -1108,15 +1108,15 @@
 * [newspaper_archive](https://t.me/newspaper_archive) - Telegram
 * [BookCrushNewsstand](https://t.me/BookCrushNewsstand) - Telegram / [Bot](https://t.me/BookCrushNewsstandBot)
 * [World Mags](https://www.worldmags.net/)
-* [PDF Dude](https://pdfdude.com/) 
+* [PDF Dude](https://pdfdude.com/)
 * [PDF Magazines Download](https://pdf-magazines-download.com/)
 * [PDF Magaz](https://www.pdfmagaz.in/)
 * [eBook3000](http://www.ebook3000.com/Magazine/index.html)
 * [FreePDFMagazine](https://www.freepdfmagazine.com/)
 * [freemagazines](https://freemagazines.top/)
-* [Calameo](https://calameo.com/) 
+* [Calameo](https://calameo.com/)
 * [eBookShelve](https://ebookshelve.top/)
-* [PDF Magazines Archive](https://pdf-magazines-archive.com/) 
+* [PDF Magazines Archive](https://pdf-magazines-archive.com/)
 * [Magazine Rack](https://github.com/nbats/FMHYedit/blob/main/base64.md#magazine-rack)
 * [Computer Magazines](https://github.com/nbats/FMHYedit/blob/main/base64.md#computer-magazines)
 * [Aeon](https://aeon.co/)
@@ -1127,7 +1127,7 @@
 * [Retromags](https://www.retromags.com/) or [Annarchive](https://www.annarchive.com/) - Retro Game Magazines
 * [PC Zone](http://pixsoriginadventures.co.uk/PCZone/) - PC Zone Magazines
 * [CGW Museum](https://www.cgwmuseum.org/) - Computer Gaming World Magazines
-* [Atari Magazines](https://www.atarimagazines.com/) - Classic Computer Magazine Archive 
+* [Atari Magazines](https://www.atarimagazines.com/) - Classic Computer Magazine Archive
 * [HomePower](https://www.homepower.com/archive-browse ) - Home Power Magazines
 * [Archive Fashion for the World](https://www.archivepdf.net/) - Fashion Magazines
 * [Cutter's Guide](https://www.cuttersguide.com/) - Old Fashion Magazines
