@@ -113,7 +113,7 @@
 
 ## ▷ Reading
 
-* [ittefaq](https://www.ittefaq.com.bd/), [dainikamadershomoy](https://www.dainikamadershomoy.com/), [kalerkantho](https://www.kalerkantho.com/), [24livenewspaper](https://www.bangla.24livenewspaper.com/), [samakal](https://samakal.com/) or [prothomalo](https://www.prothomalo.com/) - Bangla Newspapers
+* [24livenewspaper](https://www.24livenewspaper.com/bangla-newspaper) or [allbanglanewspaper](https://www.allbanglanewspaper.xyz/) - Bangla Newspapers
 * [Quran Course](https://github.com/nbats/FMHYedit/blob/main/base64.md#quran-course)
 * [IQGAW](https://t.me/IQGamer_PDFStore) - PDF library for BD HSC candidates
 * [BengaliEbooks](https://www.bengaliboi.com/) - Books
