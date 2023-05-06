@@ -244,7 +244,7 @@
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [3DS ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - ROMs / 3DS
 * [merwanachibet](http://merwanachibet.net/gameboy-roms.html) - ROMs / Gameboy
-* [NoPayStation](https://nopaystation.com/), [SafeROMs](https://www.saferoms.com/) or [PSNDL](https://psndl.net/) - ROMs / Playstation Consoles
+* [NoPayStation](https://nopaystation.com/) or [SafeROMs](https://www.saferoms.com/) - ROMs / Playstation Consoles
 * [PKGPS4](https://www.pkgps4.click/) or [Auctor](https://auctor.tv/) - ROMs / PS4
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
 * [Xbox Fan](https://github.com/nbats/FMHYedit/blob/main/base64.md#xbox-fan) - Xbox 360 ROMs / LT Firmware & FREEBOOT / [Telegram](https://t.me/xbox_fan_games)
