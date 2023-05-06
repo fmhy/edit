@@ -1521,7 +1521,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Modded Minecraft Launchers
 
-* ⭐ **[Lunar Client](https://www.lunarclient.com/)** / [Web Socket](https://solarsocket.solartweaks.com/) or [Moony](https://github.com/couleur-tweak-tips/Moony)
+* ⭐ **[Lunar Client](https://www.lunarclient.com/)** or [Moony](https://github.com/couleur-tweak-tips/Moony)
 * ⭐ **[PollyMC](https://github.com/fn2006/PollyMC)** / [Workarounds](https://pastebin.com/L3rMT1NM)
 * ⭐ **[UltimMC](https://github.com/AfoninZ/UltimMC)**
 * ⭐ **[SkLauncher](https://skmedix.pl/sklauncher)**
