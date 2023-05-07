@@ -11,7 +11,7 @@
 
 # ► AI Chatbots
 
-* ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT-3 Based Chatbot
+* ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT-3.5 Based Chatbot
 * ⭐ **[Ora](https://ora.sh/openai/chatgpt)** - GPT-3.5 Based Chatbot
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - Q&A AI
