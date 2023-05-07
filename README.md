@@ -9,3 +9,5 @@
 * Approved edits will be applied to [reddit](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki) and all [backups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups).
 
 * You can send us stuff directly via [💬 Divolt](https://redd.it/uto5vw).
+
+* Please don't edit the single-page directly, edit the respective file instead.
