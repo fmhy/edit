@@ -480,7 +480,7 @@
 * [GeoFS](https://www.geo-fs.com/geofs.php) - Plane Simulator
 * [Ehmorris](https://ehmorris.com/lander/) - Spaceship Landing Game
 * [Money Simulator](https://simulator.money) - Money Simulator
-* [Classic Minecraft](https://classic.minecraft.net/) - Play Classic Minecraft 
+* [Minecraft Classic](https://classic.minecraft.net/) - Play Minecraft Classic
 * [Marble Blast Gold Web](https://marbleblast.vani.ga/) - Marble Blast Gold in Browser
 * [The Multiverse](https://across-multiverse.com/) - Universe Exploration Game Across
 * [The Thorp of Woodstock](https://cheerfulghost.github.io/civ-clicker/index.html) - Build a Civilization
@@ -705,7 +705,7 @@
 
 ## ▷ Flash Games
 
-* ⭐ **[BlueMaxima](http://bluemaxima.org/flashpoint/)** - Archive / [Discord](https://discord.gg/Z4gGtJvvn8) 
+* ⭐ **[Flashpoint](http://bluemaxima.org/flashpoint/)** - Archive / [Discord](https://discord.gg/Z4gGtJvvn8) 
 * ⭐ **[Software Library: Flash](https://github.com/nbats/FMHYedit/blob/main/base64.md#software-library-flash)** - Archive 
 * [Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools) - Tools / Apps to Run Flash Programs
 * [Rek's Flash Game Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#reks-flash-game-collection) - Archive 
