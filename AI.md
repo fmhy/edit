@@ -118,7 +118,7 @@
 * [Wiki AI Tools](https://www.wikiaitools.com/) - AI Directory
 * [Cookup AI](https://cookup.ai/) - AI Directory
 * [SuperTools](https://supertools.therundown.ai/) - AI Directory
-* [RunawayML](https://runwayml.com/) - Browser Based AI
+* [RunwayML](https://runwayml.com/) - Browser Based AI
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - AI Experiments
 * [OpenCV](https://opencv.org/) - A.I. Vision Library
 * [OpenCog](https://opencog.org/) or [AForge](https://github.com/andrewkirillov/AForge.NET) - Artificial Intelligence Frameworks
