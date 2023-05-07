@@ -398,5 +398,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Brainbuddy](https://www.brainbuddyapp.com/) - Porn Blocker / Android / iOS
 * [SelfControlApp](https://selfcontrolapp.com/) - Mac Site Blocker
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
+* [cringeMDb](https://cringemdb.com/), [Age Rating JuJu](https://www.ageratingjuju.com/), [CommonSenseMedia](https://www.commonsensemedia.org/), [unconsenting media](https://www.unconsentingmedia.org) - Find SFW Movies
 * [movie-parser](https://github.com/dynamite-ready/movie-parser) or [practical-ai-autodetecting-nsfw](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies
 * [Puri.fy](https://pury.fi/) or [NSFW-Filter](https://github.com/nsfw-filter/nsfw-filter) - Block NSFW Images
