@@ -263,6 +263,7 @@
 * [inkscape](https://inkscape.org/), [Inkdo](https://www.microsoft.com/en-us/p/inkodo/9nblggh4s50q), [Sketch Toy](https://www.sketchtoy.com/), [Sketchbook](https://www.sketchbook.com/), [Webchemy](https://webchemy.org/) / [GitHub](https://github.com/bitbof/webchemy), [tldraw](https://www.tldraw.com/), [Ok! So](https://okso.app/), [Sketchpad](https://sketchpad.app/) / [2](https://sketch.io/sketchpad) or [Excalidraw](https://excalidraw.com/) - Drawing / Sketching Tools
 * [Virtual Graph Paper](https://virtual-graph-paper.com/) - Grid Sketch Tool
 * [Noodle](https://hundredrabbits.itch.io/noodle) - 1bit Sketch Tool
+* [HeavyPaint](https://www.heavypaint.com/) - Water Color Painting
 * [AutoDraw](https://www.autodraw.com/) or [Magic Sketchpad](https://magic-sketchpad.glitch.me/) - AI Drawing Tools
 * [ScribbleDiffusion](https://scribblediffusion.com/) - Turn Doodles into Artwork
 * [MonsterMash](https://monstermash.zone/) - Sketch Based Modeling & Animation Tool
@@ -396,8 +397,8 @@
 * [MeshLab](https://www.meshlab.net/) - 3D Mesh Processing / [GitHub](https://github.com/cnr-isti-vclab/meshlab)
 * [CadHub](https://cadhub.xyz/) - Community Hub for CAD Projects
 * [MakeHuman](http://www.makehumancommunity.org/) - 3D Humanoid Modeler
-* [posemy](https://app.posemy.art/), [quickposes](https://quickposes.com/en) or [justsketch](https://app.justsketch.me/) - Posing Tools
-* [PoseManiacs](https://www.posemaniacs.com/) or [Anatomy360](https://anatomy360.info/anatomy-scan-reference-dump/) - Pose References
+* [posemy](https://app.posemy.art/), [MagicPoser](https://magicposer.com/), [quickposes](https://quickposes.com/en) or [justsketch](https://app.justsketch.me/) - Posing Tools
+* [PoseManiacs](https://www.posemaniacs.com/), [Anatomy Doc](https://photos.google.com/share/AF1QipMbaSTp0BlK1kBCKVvfZzyDhcgCZQuaDBbp8v8Lj6hxnBaNh7YWoKwCPCYr-10--A?pli=1&key=cU5OaV9TVWhoMWlVZERnaEc2YVFKQTJHbnVDeWR3), [Adorkastock](https://www.adorkastock.com/) or [Anatomy360](https://anatomy360.info/anatomy-scan-reference-dump/) - Pose References
 * [FaceMaker](http://facemaker.uvrg.org/) - 3D Face / Avatar Generator
 * [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator
 * [CSS 3D Clouds](https://spite.github.io/CSS3DClouds/) - 3D Cloud Creator
@@ -581,11 +582,14 @@
 * [Curriculum for the Solo Artists](https://reddit.com/r/learnart/comments/dapk62/from_the_guy_who_made_the_most_comprehensive_list/) - Self-Taught Artist Curriculum / [PDF Version](https://mega.nz/file/sU0AxThb#m96_xISlS-5wtpSrauWFdh8mjhed7EitknQn_XIBaQc) / [Gallery Version](https://imgur.com/a/EZPc28m)
 * [TryDraw](https://www.trydraw.com/) - Improve Drawing Skills
 * [DoArtDaily](https://dad.gallery) - Daily Art Challenges
+* [Character Design References](https://characterdesignreferences.com/visual-library) - Character Design Visual Library
+* [FloobyNooby](http://www.floobynooby.com/comp1.html), [Let's Learn Storyboarding](https://nicparris.gumroad.com/l/JyCxo), [JMMStoryboardTips](https://jimmortensen.gumroad.com/l/JMMStoryboardTips) or [A Guide to Storyboards](https://magicbunnyart.gumroad.com/l/fjvKA) - Storyboard Guides
 * [MangaMaterials](https://www.youtube.com/channel/UCnx8zKs3c3yeFPYQ2QzMqLA/), [animesijyuku](https://www.youtube.com/@animesijyuku/) or [DoKiDoKiDrawing](https://www.youtube.com/@DoKiDoKiDrawing/) - Manga Video Tutorials / [Twitter](https://twitter.com/mangamaterials2) / [Pixiv](https://www.pixiv.net/en/users/16776564)
-* [NaoKiurasawa](https://www.naokiurasawa.com/)- Mangaka Creation Process Interviews / [YouTube](https://www.youtube.com/channel/UCkIFOAoFm47XOAlJwTa6Ieg/videos) / [DailyMotion](https://www.dailymotion.com/HabaneroScans/videos) 
+* [NaoKiurasawa](https://www.naokiurasawa.com/) - Mangaka Creation Process Interviews / [YouTube](https://www.youtube.com/channel/UCkIFOAoFm47XOAlJwTa6Ieg/videos) / [DailyMotion](https://www.dailymotion.com/HabaneroScans/videos)
 * [anidraw](https://www.anidraw.net/?m=1) - Anime Drawing Tutorials
 * [Settei Dreams](https://setteidreams.net/) - Anime Production Materials
 * [Anime Study General](https://discord.gg/3bwdfRk) - Anime Production Community
+* [McLelun](http://www.mclelun.com/p/tutorial.html) - Anime Style Background Tutorial
 * [AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch) - Anime Machine Learning
 * [Photoshop Courses](https://github.com/nbats/FMHYedit/blob/main/base64.md#photoshop-courses) - Photoshop Course Drive
 * [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - Photoshop Tutorials
@@ -599,7 +603,9 @@
 * [Drawingbooks.org](https://www.drawingbooks.org/) - Old Drawing Books
 * [Line of Action](https://line-of-action.com/), [Timed Figure Poses](https://www.youtube.com/playlist?list=PL7EWYwaF6E-FZ8JiBlz2tF1DQUCw-GCmn), [LoveLifeDrawing](https://www.lovelifedrawing.com/) or [Daily Life Drawing Sessions](https://www.youtube.com/playlist?list=PL7EWYwaF6E-Exv72kVT4yYJM2lX-Xf66I) - Figure Sketch Tools / Lessons
 * [Artist Reference](https://artist-reference.com) - Photo References for Artists
+* [Thomas Romain Perspective](https://imgur.com/gallery/V5Prm) - Perspective Guide
 * [The Dimensions Of Colour](http://www.huevaluechroma.com/) - Colour Theory Guide
+* [DevinKorwin Color Guide](https://twitter.com/devinkorwin/status/1278049901709012995) - Color in Paintings Guide
 * [Draw Mix Paint](http://www.drawmixpaint.com/) - Learn Oil Painting
 * [Painting Demos](https://paintingdemos.com/) - Painting Demonstrations
 * [paint.wtf](https://paint.wtf/) - Have an AI Judge your Art
