@@ -233,13 +233,9 @@ https://www.whosaidthat.uk/
 * [Will My Phone Work?](https://willmyphonework.net/) or [FrequencyCheck](https://www.frequencycheck.com/) - Phone Carrier Support Index
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
 * [MobileSpectrum](https://mobilespectrum.org/) - Mobile Network Spectrum by Country
-* [4G LTE Coverage](https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b) - 4G LTE Coverage Map
-* [ChatGPT](https://play.google.com/store/search?q=chatgpt&c=apps) or [chatgpt-android](https://github.com/skydoves/chatgpt-android) - AI Writing Assistant / Chat
-* [OpenStreetMap](https://streetcomplete.app/) - Custom Street Maps
+* [chatgpt-android](https://github.com/skydoves/chatgpt-android) - AI Writing Assistant / Chat
 * [Floom](https://floom.withgoogle.com/) - Explore Earth
-* [Smart Edge](https://github.com/abh80/smart-edge) - Dynamic Island Alternative
 * [MAPS.ME](https://maps.me/) / [GitHub](https://github.com/mapsme/omim) or [OsmAnd](https://osmand.net/) - Offline Maps
-* [Zenly](https://zenly.com/) - Social Map App
 * [EVMap](https://github.com/ev-map/EVMap) - Electronic Vehicle Charging Map
 * [EVNotify](https://evnotify.com/) - Electric Vehicle Monitor / Notifications
 * [LavSeeker](https://github.com/woheller69/lavatories) - Public Toilet Map
