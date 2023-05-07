@@ -719,7 +719,6 @@
 * [AnimeTime](https://www.animetime.pw/) - Sub / Dub / [Discord](https://discord.com/invite/RuYuu9uT)
 * [RIP Crabby Time](https://ripcrabbyanime.in/) - Sub / Dub
 * [AnimeLand](https://w4.animeland.tv/) - Dub
-* [Animesp](https://github.com/nbats/FMHYedit/blob/main/base64.md#animesp) - Sub
 * [Mix Bag of Anime](https://github.com/nbats/FMHYedit/blob/main/base64.md#mix-bag-of-anime) - Sub / Dub
 * [MrDeadpool](https://github.com/nbats/FMHYedit/blob/main/base64.md#mrdeadpool) - Sub / Dub
 * [ANIME___](https://github.com/nbats/FMHYedit/blob/main/base64.md#anime___) - Sub
