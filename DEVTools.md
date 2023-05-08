@@ -155,8 +155,8 @@
 
 * ⭐ **[Leetcode](https://leetcode.com/)** - Coding Practice
 * ⭐ **Leetcode Tools** - [Discord](https://discord.com/invite/vAPMSZ5UwG) / [Solutions](https://walkccc.me/LeetCode/), [2](https://leetcode.ca/) / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/edit) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/prius/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode)
->>>>>>> main
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - Code Algorithms & Data Structures Tutorials
+[Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - Code Algorithm Cheatsheets
 * [VisualGo](https://visualgo.net/) - Data Structures & Algorithm Animations
 * [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) 
 * [HackersFriend](https://www.hackersfriend.com/tutorials/) - Coding Practice
@@ -375,6 +375,7 @@
 * [Kubescape](https://github.com/kubescape/kubescape) - Kubernetes Tool
 * [Kubespray](https://github.com/kubernetes-sigs/kubespray) - Kubernetes Cluster
 * [Devtron](https://devtron.ai/) - Kubernetes Tool Integration
+* [Hajimari](https://hajimari.io/) - Kubernetes Startpage
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices) - Microservice Architecture Resource Index
 * [LibreLogos](https://www.librelogos.org/) or [LogoTaco](https://www.logotaco.com/) - Project Logos
 * [Rejoiner](https://github.com/google/rejoiner) - Uniform GraphQL Schema from gRPC Microservices
@@ -696,6 +697,7 @@
 * [ngrok](https://ngrok.com/) - Introspectable Tunnels to Localhost Tools
 * [NConfig](https://www.digitalocean.com/community/tools/nginx) - [NGINX](https://nginx.org/) Server Config
 * [tengine](https://github.com/alibaba/tengine) - NGINX with Extra Features
+* [Nginx-Admins-Handbook](https://github.com/trimstray/nginx-admins-handbook) - Improve NGINX Performance
 * [Visual CSS Editor](https://chrome.google.com/webstore/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - WordPress Site Designer
 * [Mantiq](https://wpmantiq.com/) - Wordpress Visual Backend
 * [WPSQLite](https://github.com/hasinhayder/wpsqlite) - Wordpress Site Deployment Tool
@@ -965,6 +967,7 @@
 * [Gidget](https://github.com/GDGVIT/gidget) - GitHub Notifications / Android
 * [Git-notify](https://github.com/jevakallio/git-notify) - Embed Announcements into Git Commit Messages
 * [Allstar](https://github.com/ossf/allstar) - Git Repository Security App
+* [git-bug](https://github.com/MichaelMure/git-bug) - Git Embedded Bug Tracker
 * [github1s](https://github1s.com/) - GitHub Code Viewer / GUI: do `gitk` in Repo Folder
 * [KeyManager](https://github.com/Yash-Garg/KeyManager) - GitHub SSH / GPG Key Manager
 * [Tara](https://tara.ai/) - Git Project Manager
