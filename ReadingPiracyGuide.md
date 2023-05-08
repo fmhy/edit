@@ -1050,6 +1050,7 @@
 * [EliteNovel](https://elitenovel.net/)
 * [ReadWebNovels](https://readwebnovels.net)
 * [NovelTranslate](https://noveltranslate.com/)
+* [MyBoxNovel](https://myboxnovel.com/)
 * [MTLReader](https://mtlreader.com/)
 * [WebNovelFull](https://webnovelfull.net/)
 * [Foxaholic](https://www.foxaholic.com/)
