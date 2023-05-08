@@ -942,6 +942,7 @@
 * [Githut](https://githut.info/) - GitHub Programming Language Stats
 * [Git Explorer](https://gitexplorer.com/), [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html), [git-cheatsheet](https://hackprogramming.com/notes/git-cheatsheet) or [Git Commands](https://gabrieldejesus.github.io/git-commands/) / [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists / Search
 * [GitHub Desktop](https://desktop.github.com/) / [Linux](https://github.com/shiftkey/desktop), [Git-Fork](https://git-fork.com/) or [Tower](https://github.com/nbats/FMHYedit/blob/main/base64.md#tower) - Git Clients
+* [posh-git](https://github.com/dahlbyk/posh-git) - Git Powershell Environment
 * [GitHub.Dev](https://github.dev/) - GitHub Web App
 * [refined-github](https://github.com/refined-github/refined-github) or [Ungit](https://github.com/FredrikNoren/ungit) - Improved GitHub Interface
 * [Stefan Buck](https://stefanbuck.com/awesome-browser-extensions-for-github) - GitHub Browser Extensions / [GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github/)
