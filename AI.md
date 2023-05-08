@@ -83,7 +83,7 @@
 ## ▷ ChatGPT Prompts
 
 * ⭐ **[Awesome ChatGPT Prompts](https://prompts.chat/)** / [2](https://github.com/f/awesome-chatgpt-prompts) - Prompt Directory
-* ⭐ **[Learn Prompting](https://learnprompting.org/)** - Prompt Directory
+* ⭐ **[Prompt Engineering Guide](https://whoisdsmith.gitbook.io/pe-mthrfckr/)** or [Learn Prompting](https://learnprompting.org/) - Prompting Guides
 * ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheet
 * ⭐ **[jailbreakchat](https://www.jailbreakchat.com/)** or [Chatbot Exploits](https://github.com/Cranot/chatbot-injections-exploits) - Jailbreak Prompts
 * [Chatgptjailbreak](https://rentry.org/Chatgptjailbreak) - Prompt Directory
@@ -102,7 +102,7 @@
 # ► AI Indexes
 
 * ⭐ **[Futurepedia](https://www.futurepedia.io/)** - AI Directory
-* ⭐ **[AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR)** - AI Directory
+* ⭐ **[AI-MF](https://whoisdsmith.gitbook.io/ai-mf/)** - AI Directory / [GitHub](https://github.com/whoisdsmith/AI-MTHRFCKR)
 * ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/)** - AI Directory
 * ⭐ **[Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - AI Resources / Learning
 * ⭐ **[A.I. Apps](https://appraven.net/collection.php?listId=63b5eef1904afd2a981cead0)** - AI iOS App Directory
