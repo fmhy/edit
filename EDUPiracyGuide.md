@@ -817,7 +817,7 @@ Simulator
 # ► Educational Tools
 
 * ⭐ **[The Free Learning List](https://freelearninglist.org/)** or  [/sci/ guide](https://sites.google.com/site/scienceandmathguide/) - Free Educational Sites / Tool Index
-* ⭐ **[LearnAwesome](https://learnawesome.org/)**, [Learn Anything](https://learn-anything.xyz/), [Learning Lab](https://learn.uno/) / [Discord](https://discord.com/invite/FCzYt8u) or [Learney](https://maps.joindeltaacademy.com/) - Learning Resources
+* ⭐ **[LearnAwesome](https://learnawesome.org/)**, [Learn Anything](https://learn-anything.xyz/), [Learning Lab](https://learn.uno/) / [Discord](https://discord.com/invite/FCzYt8u), [Quester](https://quester.io/) or [Learney](https://maps.joindeltaacademy.com/) - Learning Resources
 * ⭐ **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [KausalFlow](https://tools.kausalflow.com/), [Zotero](https://www.zotero.org/) or [Scrible](https://www.scrible.com/)  - Research Tools
 * ⭐ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)** - Presentation Tools & Templates
 * ⭐ **[Data Visualization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)** - Create Chart / Visualize Data
