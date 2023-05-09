@@ -1837,7 +1837,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Plagiarism Detection
 
-[Grammarly Plagiarism Checker](https://www.grammarly.com/plagiarism-checker), [PaperRater](https://www.paperrater.com/), [Quetext](https://www.quetext.com/), [PlagiarismDetector](http://www.plagiarismdetector.net/), [CopyScape](https://www.copyscape.com/), [PLText](https://pltext.com/), [plagiarismchecker](https://www.plagiarismchecker.co/), [duplichecker](https://www.duplichecker.com/), [unicheck](https://unicheck.com/), [plagiarismsearch](https://plagiarismsearch.com/), [plagiarismcheckerx](https://plagiarismcheckerx.com/), [Fixgerald](https://fixgerald.com/), [copyleaks](https://copyleaks.com/), [plagiarismchecker](https://1text.com/plagiarismchecker), [plagium](https://www.plagium.com/), [gptzero](https://gptzero.me/)
+[Grammarly Plagiarism Checker](https://www.grammarly.com/plagiarism-checker), [PaperRater](https://www.paperrater.com/), [Quetext](https://www.quetext.com/), [PlagiarismDetector](http://www.plagiarismdetector.net/), [CopyScape](https://www.copyscape.com/), [PLText](https://pltext.com/), [plagiarismchecker](https://www.plagiarismchecker.co/), [duplichecker](https://www.duplichecker.com/), [unicheck](https://unicheck.com/), [plagiarismsearch](https://plagiarismsearch.com/), [plagiarismcheckerx](https://plagiarismcheckerx.com/), [Fixgerald](https://fixgerald.com/), [copyleaks](https://copyleaks.com/), [plagiarismchecker](https://1text.com/plagiarismchecker), [plagium](https://www.plagium.com/)
 
 ***
 
