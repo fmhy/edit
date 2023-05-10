@@ -350,7 +350,7 @@
 * [RetroSpec](http://retrospec.sgn.net/) - Retro Games
 * [LegendsWorld](https://www.legendsworld.net/) - Retro Adventure PC Games
 * [MSXGamesWorld](https://msxgamesworld.com/index.php), [MSX Resource Center](https://www.msx.org/), [Generation MSX](https://www.generation-msx.nl/), [File Hunter](https://www.file-hunter.com/), [download.file-hunter](https://download.file-hunter.com/) or [MSXAbandonware](http://msxabandonware.com/en/home) - MSX Games
-* [ROMs For MAME](https://www.romsformame.com/), [MAME World](https://mameworld.info/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
+* [ROMs For MAME](https://www.romsformame.com/), [PleasureDome](https://pleasuredome.github.io/pleasuredome/mame/), [MAME World](https://mameworld.info/) or [Arcade Database](http://adb.arcadeitalia.net/default.php?lang=en) - Arcade MAME ROMs
 * [The Outdated Arcade](https://discord.gg/SPZpMpntj9) - Game Preservation Server
 * [Cah4e3](https://cah4e3.shedevr.org.ru/) - Unlicensed ROMs / Bootlegs 
 * [Japanese PC Compendium](http://japanesepccompendium.blogspot.com/) - Retro Japanese PC Games
