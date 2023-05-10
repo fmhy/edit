@@ -1276,7 +1276,7 @@
 * ⭐ **[PlayText](https://playtext.app/)**, [AccelaReader](https://accelareader.com/), [Jiffy](https://www.jiffyreader.com/), [SwiftRead](https://swiftread.com/) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
 * ⭐ **[arch1ve](https://rentry.org/arch1ve)** or [Borrowing Picture Books](https://redd.it/fm1xpw) - Download Borrow Only Archive.org Books / [Script](https://redd.it/ofcqds)
 * ⭐ **[DownloadBookFromIPFS](https://greasyfork.org/en/scripts/428894-downloadbookfromipfs)** - Add Button to Download Books from IPFS
-* ⭐ **[EBook Converters](https://wiki.mobileread.com/wiki/E-book_conversion)** - List of Ebook Converters
+* ⭐ **[EBook Converter Wiki](https://wiki.mobileread.com/wiki/E-book_conversion)**, [Ebook-Converter](https://ebook-converter.com/) or [Ebook-Online-Convert](https://ebook.online-convert.com/) - Ebook Converters
 * ⭐ **[Kindle Comic Converter](https://kcc.iosphe.re/)** - Convert Ebooks to EPUB
 * [txtpaper](https://txtpaper.com/) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to Ebook Converter
 * [CrowBook](https://github.com/lise-henry/crowbook) - Markdown to EPUB Converter
@@ -1285,7 +1285,6 @@
 * [BookInfo](https://lordgnomembe.github.io/BookInfo/) - Get Book Info via ISBN
 * [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - Generate Text / Article Summaries
 * [FiveFilters](https://www.fivefilters.org/) - Multiple Article Accessibility Tools
-* [Ebook-Converter](https://ebook-converter.com/) - Ebook Converter
 * [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)
 * [BookCut](https://github.com/costis94/bookcut) - Ebook Download Tool
 * [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - Google Book Downloader w/ Proxy Support
