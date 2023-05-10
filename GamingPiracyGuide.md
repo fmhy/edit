@@ -631,7 +631,7 @@
 * [USA Checkers](https://www.usacheckers.com/) - Checkers Forum
 * [Fly or Die](https://www.flyordie.com/checkers/) or [Lidraughts](https://lidraughts.org/) - Multiplayer Checkers
 * [Bloob](https://bloob.io/checkers) - 4 Player Checkers
-* [Checkers AI](https://checkers.ai-games.app/) - Player Checkers vs AI
+* [Checkers AI](https://checkers.ai-games.app/) - Play Checkers vs AI
 
 ***
 
