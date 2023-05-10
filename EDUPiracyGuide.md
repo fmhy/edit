@@ -987,8 +987,6 @@ Simulator
 * [The XY Problem](https://xyproblem.info/) - XY Problem Explained
 * [50Hacks](https://50hacks.co/) - Productivity Tips
 * [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
-* [TheChessWebsite](https://www.thechesswebsite.com/) - Chess Strategy / Analysis
-* [Chess Tempo](https://chesstempo.com/) - Play / Learn Chess
 * [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - Learn Wood Working
 * [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
