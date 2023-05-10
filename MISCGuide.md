@@ -16,8 +16,8 @@
 * ⭐ **[Champagne Wiki](https://champagne.pages.dev/)** - Piracy Index / [Discord](https://discord.gg/cH3ZkVc3Gd) / [Guides](https://rentry.org/champagne_guides/)
 * ⭐ **[Wotaku](https://wotaku.its.moe/)**, [2](https://wotaku.pages.dev/), [3](https://wotaku.netlify.app/) - Japanese Piracy Index
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
-* ⭐ **[PiratezParty](https://github.com/SpamVerse/Piratezparty)** - Piracy Index / [Telegram](https://t.me/piratezparty)
 * ⭐ **[Esoterica Avenue](https://ori5000.github.io/)** - Piracy Index / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
+* ⭐ **[PiratezParty](https://github.com/SpamVerse/Piratezparty)** - Piracy Index / [Telegram](https://t.me/piratezparty)
 * ⭐ **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR)** - Site / Tool Index
 * ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
 * ⭐ **[Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)**, [2](https://github.com/Igglybuff/awesome-piracy), [3](https://github.com/Tosoju/awesome-piracy) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
