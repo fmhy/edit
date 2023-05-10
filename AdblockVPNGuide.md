@@ -603,6 +603,7 @@
 * [Sitenable](http://sitenable.in/) 
 * [UnblockSites](https://unblocksites.online/) 
 * [4EverProxy](https://www.4everproxy.com/)
+* [Proxyium](https://proxyium.com/)
 * [Proxy Site](https://proxysite.cloud/)
 * [TorProxy](https://torproxy.org/)
 * [AtozProxy](https://www.atozproxy.com/)
