@@ -147,6 +147,7 @@
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [GodAI](https://awk.itch.io/godai) - Story Writing AI
 * [Tome](https://beta.tome.app/) - Story Writing AI
+* [Unconventional Text Writer](https://unconventional-text-writer.netlify.app/) - Unconventional Text AI
 * [Character Creator](https://oobabooga.github.io/character-creator) - Character Generation AI
 * [GPTForSlides](https://www.gptforslides.app/) or [Chat-GPT-PPT](https://github.com/williamfzc/chat-gpt-ppt) - Presentation AIs
 * [EssayGen](https://github.com/daijro/EssayGen/) - Essay Writing AI
