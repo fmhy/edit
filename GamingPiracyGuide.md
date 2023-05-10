@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.ibb.co/CWXNSHy/08196ca7254e.png)** - For mobile users
+**[Table of Contents](https://i.ibb.co/CbWjMtt/image.png)** - For mobile users
 
 ***
 ***
@@ -585,16 +585,9 @@
 
 ## ▷ Board / Card / Dice
 
-* ⭐ **[lichess](https://lichess.org/)**, [WebChess](http://chess.delorie.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platform
 * ⭐ **[Board Game Online](https://www.boardgame-online.com/)**, [Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games), [Board Game Arena](https://en.boardgamearena.com/) or [FunNode](https://www.funnode.com/) - Board Games
 * ⭐ **[GtkAtlantic](https://gtkatlantic.gradator.net/index.html)** or [Monopolie](http://monopolie.sourceforge.net/index.shtml) - Open Source Monopoly
 * [Richup](https://richup.io/) - Monopoly-Style Board Game
-* [GameKnot Chess](https://gameknot.com/) - Multiplayer Chess
-* [Chesses](https://pippinbarr.com/chesses/) - Multiple Styles of Chess
-* [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
-* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess w/o Turns
-* [Real Board](https://github.com/karayaman/lichess-with-a-real-board) - Play Lichess w/ Real Chess Board
-* [Awesome Chess](https://github.com/hkirat/awesome-chess) - Chess Resource Index
 * [AllBad.Cards](https://bad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - Cards Against Humanity Online 
 * [Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards) - Card Games Index
 * [WorldOfCardGames](https://worldofcardgames.com/), [247Games](https://www.247games.com/), [CardzMania](https://www.cardzmania.com/) or [World of Solitaire](https://worldofsolitaire.com/) - Card Games
@@ -609,6 +602,35 @@
 * [Hexxagon](https://hexxagon.com/) - Hexagonal Board Game
 * [The Bafflement Fires](http://www.dpoetry.com/fires/) - 1950's Freemasonic Board Game
 * [Awesome Go/Baduk/Weiqi](https://github.com/yanchick/awesome-GoBadukWeiqi) - Go/Baduk/Weiqi Resource Index 
+
+***
+
+## ▷ Chess / Checkers
+
+* ⭐ **[lichess](https://lichess.org/)**, [WebChess](http://chess.delorie.com/), [SparkChess](https://www.sparkchess.com/) or [Chess.com](https://www.chess.com/) - Chess Platforms / [Customize](https://prettierlichess.github.io/)
+* ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)**, [TheChessWebsite](https://www.thechesswebsite.com/), [Chess Tempo](https://chesstempo.com/), [Chessercise](https://www.chessercise.xyz/), [Lucas Chess](https://lucaschess.pythonanywhere.com/) or [List Study](https://listudy.org/en) - Learn / Practice Chess
+* ⭐ **[Awesome Chess](https://github.com/hkirat/awesome-chess)** or [Chess Resources](https://redd.it/u43nrc) - Chess Resource Lists
+* ⭐ **[/m/Chess](https://www.reddit.com/user/korfor/m/chess/)** or [/r/Chess](https://reddit.com/r/chess) - Chess Subreddits
+* [GameKnot Chess](https://gameknot.com/) - Multiplayer Chess
+* [Chesses](https://pippinbarr.com/chesses/) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
+* [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
+* [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess w/o Turns
+* [Real Board](https://github.com/karayaman/lichess-with-a-real-board) - Play Lichess w/ Real Chess Board
+* [Gambit](https://github.com/maaslalani/gambit) - Linux Terminal Chess
+* [Chess24](https://chess24.com/) - Real-Time Chess Tournaments
+* [lichess4545](https://www.lichess4545.com/) - Lichess Leagues
+* [Chess Monitor](https://www.chessmonitor.com/) - Track Chess Analytics
+* [OpeningTree](https://www.openingtree.com/) - Download / Visualize Chess Games
+* [Decode Chess](https://app.decodechess.com/) - Chess Move Analyzer
+* [Bill Wall's Chess Page](http://billwall.phpwebhosting.com/) or [365Chess](https://www.365chess.com/) - Chess History / Lessons
+* [/r/Chess Books](https://reddit.com/r/chess/wiki/books) - Recommended Chess Books
+* [Chess Base](https://chessbase.in/) / [2](https://en.chessbase.com/) - Indian Chess News
+* [ChessProgramming](https://www.chessprogramming.org/) - Chess Programming Wiki
+* [/r/Checkers](https://www.reddit.com/r/checkers/) - Checkers Subreddit
+* [USA Checkers](https://www.usacheckers.com/) - Checkers Forum
+* [Fly or Die](https://www.flyordie.com/checkers/) or [Lidraughts](https://lidraughts.org/) - Multiplayer Checkers
+* [Bloob](https://bloob.io/checkers) - 4 Player Checkers
+* [Checkers AI](https://checkers.ai-games.app/) - Player Checkers vs AI
 
 ***
 
