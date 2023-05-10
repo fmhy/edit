@@ -78,7 +78,7 @@
 ## ▷ Resize / Compress
 
 * ⭐ **[Image Upscalers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_upscalers)** - Upscale Images
-* ⭐ **[Pingo](https://css-ig.net/pingo)** / [GUI](https://css-ig.net/pinga), [RIOT](https://riot-optimizer.com/), [imageoptimizer](http://www.imageoptimizer.net/) or [ImageFoo](https://imagefoo.com/) - Image Optimization Tools
+* ⭐ **[Pingo](https://css-ig.net/pingo)** / [GUI](https://css-ig.net/pinga), [RIOT](https://riot-optimizer.com/), [imageoptimizer](http://www.imageoptimizer.net/), [YOGA](https://yoga.flozz.org/) or [ImageFoo](https://imagefoo.com/) - Image Optimization Tools
 * [Croppola](https://croppola.com/), [Freehand Cropper](https://half-6.github.io/lf-freehand-cropper/), [Bulk Image Crop](https://bulkimagecrop.com/), [CropHere](https://crophere.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tool
 * [Seopix](https://www.seopix.io/), [Shrink Media](https://www.shrink.media/) or [Reduce Images](https://www.reduceimages.com/) - Resize / Compress Images
 * [Simple Image Resizer](http://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [fixpicture](https://www.fixpicture.org/), [PicResize](https://picresize.com/), [resize-image](https://resize-image.net/), [Birme](https://www.birme.net/), [ImageResizeOnline](https://www.imageresizeonline.com/), [OnlineResizeImage](https://www.onlineresizeimage.com/), [ResizeNow](https://www.resizenow.com/en), [BulkResizePhotos](https://bulkresizephotos.com/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - Resize Images
@@ -555,7 +555,7 @@
 * [Schizoware](https://sourceforge.net/projects/schizoware/) - Image Name / Hash Randomizer
 * [Adversarial](https://adversarial.io/) - Make Images Machine-Unreadable 
 * [BetterCensorship](https://bc.betterrepack.com/) - Censor and De-censor Images
-* [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi), [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/), [ExifLooter](https://github.com/aydinnyunus/exifLooter) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - EXIF / Metadata Viewers
+* [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi), [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/), [OnlineEXIFViewer](https://onlineexifviewer.com/), [ExifLooter](https://github.com/aydinnyunus/exifLooter) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - EXIF / Metadata Viewers
 * [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [MAT2](https://matweb.info/), [EXIFRemove](https://www.exifremove.com/), [MGOnline](https://www.imgonline.com.ua/delete-exif.php), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [Metadata-Remover](https://github.com/Anish-M-code/Metadata-Remover), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data 
 * [Pic2Map](https://www.pic2map.com/) - Image EXIF data viewer with GPS support
 * [TheExifer](https://www.thexifer.net/index.php) or [Exiv2](https://www.exiv2.org/) - Image EXIF Data Editors 
