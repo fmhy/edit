@@ -307,7 +307,7 @@
 * ⭐ **[Multi-Site Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)** / [YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)
 * ⭐ **[OBS](https://obsproject.com/)**, [Streamlabs-OBS](https://github.com/stream-labs/desktop), [SteamLabs](https://streamlabs.com/), [Restream](https://restream.io/), [Melon](https://melonapp.com/), [Twitch Studio](https://www.twitch.tv/broadcast/studio), [FBX](https://fbx.gg/), [XSplit](https://www.xsplit.com/) or [TwitchChat](https://twitchat.fr/) - Live Stream Managers
 * ⭐ **OBS Tools** - [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT) / [Effects](https://github.com/Xaymar/obs-StreamFX) / [Phone Controller](https://github.com/Kounex/obs_blade)
-* ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Video / Audio Recorder, Converter & Streaming / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ffmpeg_tools)
+* ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Record, Convert and Stream Videos / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ffmpeg_tools)
 * [VideoTuts](http://videotuts.ru/) - Video Design Tutorials / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [VFX Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vfx_sites) - Download Video Effects
 * [Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers) - Video Codecs and Containers Guide
@@ -465,7 +465,7 @@
 * ⭐ **[Audio Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_download_apps)** - Download Audio from Various Sites 
 * ⭐ **[Spotify Tools / Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Tools & Downloaders for Spotify
 * ⭐ **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download from YouTube
-* ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Video / Audio Recorder, Converter & Streaming / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ffmpeg_tools)
+* ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Record / Convert Audio / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ffmpeg_tools)
 * ⭐ **[Equalizer APO](https://equalizerapo.com/)**, **[AutoEq](https://github.com/jaakkopasanen/AutoEq)**, [PeaceEqualizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) or [SonyHeadphonesClient](https://github.com/Plutoberth/SonyHeadphonesClient) - Audio Equalizers
 * ⭐ **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - Audio Visualization Resource Index 
 * ⭐ **[Determine Audio File Quality](https://redd.it/3l0yxp)**, [Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](https://spek.cc/), [FakinTheFunk](https://rentry.co/FakinTheFunk) or [Spectro](http://spectro.enpts.com/) - Determine Quality of Audio Files
