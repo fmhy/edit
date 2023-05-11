@@ -114,6 +114,7 @@
 
 ## ▷ Search Sites
 
+* **Note** - These aggregate from multiple sources, so it's best to avoid them for software / games.
 * ⭐ **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Multi-Site Search
 * ⭐ **[FilePursuit](https://filepursuit.com)** - [Discord](https://discord.gg/xRfFd8h)
 * ⭐ **[4Shared](https://www.4shared.com/)** - Video / Audio / Games / Software / Android
