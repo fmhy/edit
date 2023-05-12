@@ -227,7 +227,7 @@
 * [WarezBot](https://github.com/enzobes/WarezBot) - Discord Scene Release Tracker
 * [btcache](https://btcache.me/), [iTorrents](https://itorrents.org) or [Torrage](https://torrage.info/) - Torrent Storage Cache
 * [WebTorrent Checker](https://checker.openwebtorrent.com/) - Check Health of a Torrent
-* [MagLit](https://maglit.me/) - Magnet Link Shortener
+* [MagLit](https://maglit.me/) or [mgnet](http://mgnet.me/) - Magnet Link Shorteners
 * [Magnet Link Generator](https://magnetlinkgenerator.com/) - Magnet Link Generator
 * [RSSFeedz](https://t.me/rssfeedz) - Torrent RSS Feed
 * [OpenWebTorrent](https://openwebtorrent.com/) - Free Webtorrent Tracker
