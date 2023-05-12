@@ -68,6 +68,7 @@
 * [ReleaseHive](https://www.releasehive.com/) - Video / Audio / Software / Games / Books / NSFW
 * [DownDuck](http://www.downduck.com/) - Video / Audio / Software / Games / Books / Magazines
 * [AllYouLike](https://allyoulike.org/) - Video / Audio Books / Magazines / Games / ROMs / Software / Android / Comics / NSFW
+* [DDLValley](https://www.ddlvalley.me/) - Video / Audio / Games / ROMs / Software / Android / Books / Comics / Magazines / [Forum](https://forum.ddlvalley.me/)
 * [MaxRelease](http://max-rls.com/) - Video / Audio / Software / Games / Magazines
 * [DarkSoftware](https://darksoftware.net/) - Video / Audio / Games / ROMs
 * [WarezBook](https://www.warezbook.org/) - Video / Audio / Software / Games / Books
@@ -90,7 +91,6 @@
 * [wJungle](https://wjungle.net/) - Video / Audio / Books / Games / Android / NSFW
 * [PuZo](https://www.puzo.org/) - Video / Audio / Games / Software / Android / Books / Audiobooks / NSFW
 * [Warez-Serbia](https://www.warez-serbia.com/) - Video / Audio / Games / Software / Android / Books / Magazines / NSFW
-* [DDLValley](https://www.ddlvalley.me/) - Video / Audio / Games / ROMs / Software / Android / Books / Comics / Magazines
 * [DownArchive](http://downarchive.org/) - Video / Audio / Software / Games / ROMs / Android / Books / Magazines
 * [OneDDL](https://oneddl.org/) - Video / Audio / Software / Games / Books
 * [Warez Heaven](https://www.warezheaven.com/index.php) - Video / Audio / Software / Games / ROMs / Books / NSFW
@@ -159,7 +159,7 @@
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - [Mobile App](https://forum.mobilism.org/app/)
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)**
 * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** - Multi-Site Software Search
+* ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** or [Rave Search](https://ravesoftwaresearch.pages.dev/) - Multi-Site Software Search
 * [4Download](https://www.4download.net/)
 * [Diakov](https://diakov.net/)
 * [AIOWares](https://www.aiowares.com/)
