@@ -108,6 +108,7 @@
 * [SmashyStream](https://embed.smashystream.com/) - Movies / TV / Anime / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
 * [AZMovies](https://azm.to/) - Movies
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
+* [WatchSeries 2.0](https://watchseriess.io/) - Movies / TV / Anime
 * [Series9](https://series9.sh/) - Movies / TV / Anime
 * [Cloudy](https://cloudy.pk/category/english/) - Movies / TV
 * [Levidia](https://www.levidia.ch/) - Movies / TV / Anime
@@ -328,6 +329,7 @@
 * [Kaguya](https://kaguya.app/) - Sub / [Discord](https://discord.gg/382BEFfER6)
 * [because.moe](https://because.moe/) - Legal Anime Sites Search 
 * [Genoanime](https://genoanime.com/) - Sub / Dub / [Discord](https://discord.com/invite/TMe9eVs2YY)
+* [Animeow](https://animeow.me/) - Sub / Dub / [Discord](https://discord.gg/FT5MnbcDWz)
 * [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - Sub
 * [GoGoAnime](https://gogoanime.gr/), [2](https://gogoanime.llc/) - Sub / Dub / [Discord](https://discord.com/invite/gogo) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime) / [Mirrors](https://gogotaku.info/)
 * [GoGo-Play](https://anihdplay.com/) - Sub
@@ -471,6 +473,7 @@
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [s365](https://www.s365.live/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
+* [VIP League](https://vipleague.im/) - Sports
 * [720pStream](http://hdtv.720pstream.me/) - Sports
 * [FreeStreams](https://tv.freestreams-live1.tv/) - Sports / [Discord](https://discord.com/invite/eXXJzDPchU)
 * [CrackStreams](https://crackstreams.io/), [2](https://crackstreams.me/) - Sports
@@ -495,6 +498,8 @@
 * [WorldCupFootball](http://hd.worldcupfootball.me/) - Sports
 * [SoccerWorldCup](https://soccerworldcup.me/) - Sports
 * [Icelz](https://icelz.newsrade.com/) - Sports
+* [Harley Quinn](https://live.harleyquinnwidget.live/) - Sports
+* [Sports Plus](https://en12.sportplus.live/) - Sports
 * [livetv](http://livetv.sx) - Sports
 * [bilaSport](http://bilasport.net/) - Sports
 * [WatchKobe](http://watchkobe.info/) - Sports
