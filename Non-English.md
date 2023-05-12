@@ -457,7 +457,7 @@
 * [mykdrama](https://mykdrama.co/) - KDrama
 * [OtakuFR](https://otakufr.co/) - Anime
 * [JetAnime](https://vww.jetanimes.com/) - Anime
-* [Anime-Ultime](http://www.anime-ultime.net/) - Anime
+* [Anime-Ultime](http://www.anime-ultime.net/), [2](https://v5.anime-ultime.net/) - Anime
 * [universanime](https://www.universanime.co/) - Anime
 * [mavanimes](https://mavanimes.cc/) - Anime
 * [VoirAnime](https://voiranime.com/) - Anime
@@ -1620,7 +1620,7 @@
 
 ## ▷ Torrenting
 
-* ⭐ **[DonTorrent](https://dontorrent.observer/)**, [2](https://donproxies.com/) - Movies / TV / Documentaries / Games / Castilian / [Telegram](https://t.me/s/dontorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
+* ⭐ **[DonTorrent](https://dontorrent.company/)**, [2](https://donproxies.com/) - Movies / TV / Documentaries / Games / Castilian / [Telegram](https://t.me/s/dontorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
 * ⭐ **[MejorTorrent](https://www1.mejortorrent.rip/)** -  Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/MejorTorrentAp)
 * ⭐ **[Grantorrent.wtf](https://grantorrent.wtf/)** - Movies / TV / Documentaries / Castilian
 * ⭐ **[Elitetorrent](https://www.elitetorrent.wf/)** - Movies / TV / Anime / Castilian / Latino / VOSE
