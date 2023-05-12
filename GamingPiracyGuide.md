@@ -58,6 +58,7 @@
 * ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/Up3YARe4RW) / [Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#silentycryings-game-drive)
 * ⭐ **[DODI Repacks](http://dodi-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
 * ⭐ **[M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)** - Download / [Discord](https://discord.gg/693hNBdymb)
+* [GameDrive](https://gamedrive.org/) - Download / Torrent / [Discord](https://gamedrive.org/discord)
 * [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - Download / Torrent / [Discord](https://discord.gg/HP5sQ6c)
 * [ScOOter Repacks](https://web.archive.org/web/20230315064712/https://scooter-repacks.site/) - Download / Torrent
 * [Xatab Repacks](https://byxatab.com/), [2](https://otxatabs.net/)  - Torrent
