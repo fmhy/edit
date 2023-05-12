@@ -55,7 +55,7 @@
 
 ## ▷ ChatGPT Tools
 
-* ⭐ **[Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)**, [GPT Resources](https://airtable.com/shrWat9yoXFwOXWQ0/tblxXHpcpjn1POWnh), [WikiGPT3](https://www.wikigpt3.com/) or [SaaS GPTers](https://saasgpters.com/) - ChatGPT Resources
+* ⭐ **[Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)**, [GPT Resources](https://airtable.com/shrWat9yoXFwOXWQ0/tblxXHpcpjn1POWnh), [WikiGPT3](https://www.wikigpt3.com/), [Awesome-GPT4](https://github.com/radi-cho/awesome-gpt4) or [SaaS GPTers](https://saasgpters.com/) - ChatGPT Resources
 * ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [2](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) or [Merlin](https://merlin.foyer.work/) - Enhancement Extensions
 * ⭐ **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
 * ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
@@ -88,6 +88,7 @@
 * ⭐ **[jailbreakchat](https://www.jailbreakchat.com/)** or [Chatbot Exploits](https://github.com/Cranot/chatbot-injections-exploits) - Jailbreak Prompts
 * [Chatgptjailbreak](https://rentry.org/Chatgptjailbreak) - Prompt Directory
 * [flowgpt](https://flowgpt.com/) - Prompt Directory
+* [DataFit](https://datafit.ai/top-chatgpt-prompts) - Prompt Directory
 * [OrdinaryPeoplePrompts](https://www.ordinarypeopleprompts.com/) - Prompt Directory
 * [jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html) - Prompt Directory
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) or [PromptBot](https://www.messengerx.io/promptbot) - Prompt Generators
@@ -118,6 +119,7 @@
 * [Wiki AI Tools](https://www.wikiaitools.com/) - AI Directory
 * [Cookup AI](https://cookup.ai/) - AI Directory
 * [SuperTools](https://supertools.therundown.ai/) - AI Directory
+* [iLib](https://www.ilib.com/) -  AI Directory
 * [RunwayML](https://runwayml.com/) - Browser Based AI
 * [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - AI Experiments
 * [OpenCV](https://opencv.org/) - A.I. Vision Library
