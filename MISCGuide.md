@@ -25,7 +25,7 @@
 * ⭐ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)** - Artificial Intelligence Indexes
 * ⭐ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
 * ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Archiving Tool
-* ⭐ **[FMHY Guides](https://www.fmhy.ml/guides)**, [Sineater's Cove](https://discord.gg/nKstg6x) or [Pirate Haven](https://pirate-haven.github.io/) - Piracy Guides
+* ⭐ **[FMHY Guides](https://www.fmhy.ml/guides)**, [Sineater's Cove](https://discord.gg/nKstg6x), [blooem](https://blooem.pages.dev/) or [Pirate Haven](https://pirate-haven.github.io/) - Piracy Guides
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
 * [WebOas.is](https://weboasis.app/), [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) - Startpage / Site Index / [Forum](https://weboasis.app/forum/) / [Source Code](https://pastebin.com/CczqreS4) / [Archive](https://rentry.co/e9y6b) / [FAQ](https://bin.disroot.org/?6a50fab15330b762#7VwnxM9Jsvp8wWmW6eFmmxyXppWVjErn4CMgd8wii9pC)
 * [Alternative Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - Find Software / App Alternatives
@@ -781,7 +781,7 @@
 * [Tab for a Cause](https://tab.gladly.io/) - New Tabs = Charity Donation
 * [Panic Button](https://pastebin.com/mDWBZ7fQ) - Quickly Close All Tabs
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - Read Books in Browser
-* [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/), [Linguist Translator](https://github.com/translate-tools/linguist), [S3Translator](http://www.s3blog.org/s3translator.html), [Mate Translate](https://gikken.co/mate-translate) or [ImTranslator](https://imtranslator.net/) - Translation Extensions 
+* [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [OpenAI Translator](https://github.com/yetone/openai-translator), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/), [Linguist Translator](https://github.com/translate-tools/linguist), [S3Translator](http://www.s3blog.org/s3translator.html), [Mate Translate](https://gikken.co/mate-translate) or [ImTranslator](https://imtranslator.net/) - Translation Extensions 
 * [Dictionaries](https://github.com/pnlpal/dictionariez), [Dictionary Anywhere](https://github.com/meetDeveloper/Dictionary-Anywhere), [phlinx](https://phlinx.com/) or [Definer](https://lumetrium.com/definer/) - Popup Dictionary
 * [CustomRightClickMenu](https://github.com/SanderRonde/CustomRightClickMenu) - Custom Right Click Menu
 * [PantherBar](https://pantherbar-app.com/) or [BigSearch](https://github.com/garywill/BigSearch) - Context Search
@@ -1119,6 +1119,7 @@
 * [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wish-list Creators
 * [Microsoft Rewards Generator](https://greasyfork.org/en/scripts/457702), [2](https://github.com/jack-mil/bing-rewards), [3](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2), [4](https://github.com/Tom60chat/Microsoft-Rewards-Farmer-Sharp), [5](https://github.com/3kh0/bing-rewards), [6](https://github.com/Prem-ium/BingRewards) - Automate Microsoft Reward Points
 * [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Nintendo Shop Music on Shopping Sites
+* [Desenmascara](https://desenmascara.me/) - Spot Counterfeit Sites
 * [/r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community
 * [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
 * [Fuck Nestlé](https://www.fucknestle.art/) - Nestlé Brand Database
@@ -1192,6 +1193,7 @@
 
 * ⭐ **[/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/wiki/listofsubreddits/)** - List of Subreddits
 * ⭐ **[Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** - List of Multireddits
+* ⭐ **[Knockout](https://knockout.chat/)** / [Discord](https://discord.gg/wjWpapC) or [SomethingAwful](https://forums.somethingawful.com/) - General Forums
 * ⭐ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)** - Chat with AI
 * ⭐ **[Our World of Text](https://ourworldoftext.com/)** or [Your World of Text](https://www.yourworldoftext.com/) - Infinite Community Text Grid
 * [Doodle Place](https://doodle-place.glitch.me/) - Virtual Drawing World
