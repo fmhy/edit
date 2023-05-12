@@ -921,6 +921,7 @@
 * [OniManga](https://onimanga.com)
 * [MangaInn](https://mangainn.net/)
 * [KumaScans](https://kumascans.com/)
+* [Mangago](https://www.mangago.me/)
 * [MangaBat](https://m.mangabat.com/)
 * [ReadOPM](https://ww3.readopm.com/read-manga/)
 * [MangaEffect](https://mangaeffect.com/)
