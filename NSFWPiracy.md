@@ -242,7 +242,8 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * ⭐ **[My Duck Is Dead](http://www.myduckisdead.org/)**
 * [WIPFilms](https://wipfilms.net/)
 * [EroGarga](https://www.erogarga.com/) 
-* [EroticAge](https://www.eroticage.net/) 
+* [EroticAge](https://www.eroticage.net/)
+* [VintageClassix](http://www.vintageclassix.com/)
 * [paradisehill](https://en.paradisehill.cc/)
 * [WatchMovies](https://watchomovies.xyz/)
 * [Cat3Movies](https://cat3movie.org/)
