@@ -74,6 +74,7 @@
 * [Open Source Society University](https://github.com/ossu/computer-science) - Computer Science Courses / [GitHub](https://github.com/ossu) / [Discord](https://discord.gg/wuytwK5s9h)
 * [Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Computer Science Courses
 * [Learn Computer Science in 1k Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/) - Computer Science Courses
+* [CS50](https://cs50.harvard.edu/x/) - Harvard Computer Science Course
 * [CollegeComendium](https://collegecompendium.org/) - Computer Science Courses
 * [Computerphile](https://www.youtube.com/@Computerphile/), [CSDojo](https://www.youtube.com/@CSDojo) or [t v nagaraju Technical](https://www.youtube.com/@tvnagarajutechnical9978) - Computer Science YouTube Channels
 * [CSDIY](https://csdiy.wiki/en/) - Computer Science Learning Guide
@@ -190,7 +191,7 @@
 * [Free Udemy Vedantu Courses](https://t.me/Udemy_Courses_Vedantu_Free) - Udemy Courses
 * [UFC Gdrive Factory!](https://telegram.me/joinchat/SSWKbEf8mVNBvgam) - Udemy Courses
 * [EZdemy](https://t.me/ezudemy) - Udemy Courses
-* [Giga Course](https://gigacourse.com/) - Udemy Courses
+* [Giga Course](https://gigacourse.com/) or [FreeAllCourse](https://freeallcourse.com/) - Udemy Courses
 * [Udemy 24](https://udemy24.com/) - Udemy Courses
 * [FreeCourseWeb](http://freecourseweb.com/) - Udemy Courses
 * [CoursesForFree](https://courseforfree.net/) - Udemy Courses
