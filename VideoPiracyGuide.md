@@ -473,6 +473,7 @@
 * [s365](https://www.s365.live/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
 * [VIP League](https://vipleague.im/) - Sports
+* [WeakStream](https://weakstream.org/) -
 * [720pStream](http://hdtv.720pstream.me/) - Sports
 * [FreeStreams](https://tv.freestreams-live1.tv/) - Sports / [Discord](https://discord.com/invite/eXXJzDPchU)
 * [CrackStreams](https://crackstreams.io/), [2](https://the.crackstreams.me/) - Sports
