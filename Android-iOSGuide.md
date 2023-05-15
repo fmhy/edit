@@ -47,7 +47,6 @@
 * [Hackuna](https://play.google.com/store/apps/details?id=org.cryptors.hackuna002&hl=en&gl=US) - Anti-Hack Tool
 * [Exodify](https://github.com/FacettsOpen/exodify) - Display Tracker Count on Apps in Play Store
 * [SelfPrivacy](https://selfprivacy.org/) - Self-Hosted Privacy Based Services
-* [FaceAct Notes](https://play.google.com/store/apps/details?id=com.brainekt.faceactnotes) - Face Recognition App
 * [Divestos](https://divestos.org/), [LeoS](https://leos-gsi.de/), [GrapheneOS](https://grapheneos.org/), [Auditor](https://apkcombo.com/auditor-grapheneos-variant/app.attestation.auditor/) or [CalyXOS](https://calyxos.org/) - Privacy Based OS
 * [UPX Browser](https://www.upxb.net/) or [ceno-browser](https://censorship.no/en/index.html) / [GitHub](https://github.com/censorship-no/ceno-browser) - Proxy Browser
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - App Isolation
