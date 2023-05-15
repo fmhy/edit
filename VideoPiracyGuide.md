@@ -849,6 +849,7 @@
 * ⭐ **[Simkl](https://simkl.com/)** - TV / Anime / Movies / [Apps](https://simkl.com/apps/) / [Import Tools](https://simkl.com/apps/import/)
 * ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Movie, TV & Anime Recommendations
 * ⭐ **[TasteDive](https://tastedive.com/)** - Recommendations 
+* ⭐ **[RatingsGraph](https://www.ratingraph.com/)** - Movie / TV Ratings Graphs
 * ⭐ **[Movie Recs](https://rentry.co/MovieRecs)** - Movie Recommendation Sites / Tools
 * [TrailerPunk](https://trailerpunk.com/) - Newest Movie Trailers
 * [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Movie / TV / Anime Recommendation Guides
@@ -903,7 +904,6 @@
 * [spin.moe](https://spin.moe/) - Find Random Anime
 * [Series Rating Chart](https://www.neetcoder.com/app/) - Compare TV Shows by Ratings
 * [MRQE](https://www.mrqe.com/) - Movie Review Search Engine
-* [RatingsGraph](https://www.ratingraph.com/) - Movie / TV Ratings Graphs
 * [TV Chart](https://tvchart.benmiz.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode Rating Graphs
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - Greatest 100 Lists
 * [What the Hell Should I Watch on Netflix?](http://whatthehellshouldiwatchonnetflix.com/) - Netflix TV Show / Movie Recommendations 
