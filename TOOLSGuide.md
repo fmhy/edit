@@ -1263,6 +1263,7 @@
 * [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) or [WebCord](https://github.com/SpacingBat3/WebCord) - Discord Web Client / [Discord](https://discord.gg/Vm4CwZx)
 * [discord-PWA](https://github.com/NeverDecaf/discord-PWA) - Discord PWA Client
 * [Discord Tauri](https://github.com/DiscordTauri/discord-tauri) - Lightweight Discord Wrapper
+* [OpenAsar](https://openasar.dev/) - Improved app.asar / [GitHub](https://github.com/GooseMod/OpenAsar)
 * [weechat-discord](https://github.com/terminal-discord/weechat-discord) - WeeChat Discord Plugin
 * [litecord](https://gitlab.com/litecord/litecord) - Reimplementation of Discord's Backend / [Clients](https://gitlab.com/litecord/litecord/-/blob/master/docs/clients.md)
 * [Discord-Sandbox](https://github.com/khlam/discord-sandboxed) - Sandbox Discord Client
@@ -1394,7 +1395,6 @@
 * [discasset](https://github.com/Commandtechno/discasset), [2](https://gitlab.com/derpystuff/discasset) - Discord Asset Grabber
 * [Figma](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI) - Discord Resources
 * [Mon2Cam](https://github.com/ShayBox/Mon2Cam) - Multi-Monitor Discord Screenshare Fix
-* [OpenAsar](https://openasar.dev/) - Improved app.asar / [GitHub](https://github.com/GooseMod/OpenAsar)
 
 ***
 
