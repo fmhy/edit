@@ -2148,7 +2148,6 @@ Twitch Stream Tracker
 * [File-Examples](https://file-examples.com/) - File Examples
 * [RollMyFile](https://rollmyfile.com/) - Open Files Online
 * [AList](https://github.com/alist-org/alist) - File Listing Program
-* [leteckaposta](http://leteckaposta.cz/), [Send](https://send.vis.ee/), [File Send](https://filesend.standardnotes.com/) or [LitterBox](https://litterbox.catbox.moe/) - Temp File Hosts
 * [unzip-http](https://github.com/saulpw/unzip-http) - Unzip via HTTP Without Downloading
 * [ProtectedZip](https://protectedzip.com/) - Encrypt Zip Files
 * [objectfixzip](https://www.essentialdatatools.com/products/objectfixzip/) - Repair Zip Files
