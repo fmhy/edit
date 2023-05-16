@@ -588,7 +588,7 @@
 
 * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip link shorteners
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
-* ⭐ **[OlaMovies](https://olamovies.monster/)** - Movies / TV
+* ⭐ **[OlaMovies](https://olamovies.quest/)** - Movies / TV
 * ⭐ **[Pahe](https://pahe.li/)** - Movies / TV / Anime / [Discord](https://discord.gg/4AvaCsd2J4) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper) / [Redirect Buttons](https://greasyfork.org/en/scripts/443277)
 * ⭐ **[PSARips](https://psa.re/)** - Movies / TV / [Scrape](https://github.com/NandiyaLive/PSALinkGrabber)
 * ⭐ **[Worlds Cinema](http://worldscinema.org/)** - Classic / Cult Films
@@ -678,7 +678,6 @@
 * [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
 * [Media](https://github.com/nbats/FMHYedit/blob/main/base64.md#media) - Movies / TV / Anime
 * [NF Crew](https://github.com/nbats/FMHYedit/blob/main/base64.md#nfcrew) - Movies
-* [†M1o8143](https://github.com/nbats/FMHYedit/blob/main/base64.md#m1o8143) - Movies / TV / Anime
 * [moo](https://github.com/nbats/FMHYedit/blob/main/base64.md#moo) - Movies / TV
 * [188.165.227.112](https://github.com/nbats/FMHYedit/blob/main/base64.md#188165227112) - Movies / TV
 * [162.12.215.254](https://github.com/nbats/FMHYedit/blob/main/base64.md#16212215254) - Movies
