@@ -36,7 +36,6 @@
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - Movies / TV / Anime
 * [Mov.onl](https://www.mov.onl/) - Movies / TV
 * [Plex](https://watch.plex.tv/) - Movies / TV
-* [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / Library Card Required
 * [NetFilm](https://netfilm.app/) - Movies / TV / Anime
 * [RidoMovies](https://ridomovies.pw/) - Movies
 * [StreamLord](http://www.streamlord.com/) - Movies / TV
@@ -58,7 +57,6 @@
 * [Moviehdkh](https://www.moviehdkh.com/) - Movies
 * [VidStore](https://stream.vidzstore.com/) - Movies
 * [HDWatched](https://www.hdwatched.me/) - Movies / TV
-* [0xDB](https://0xdb.org/) - Movies / [How-to](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies#wiki_method_2_-_streaming)
 * [aflaam](https://aflaam.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Tainio-Mania](https://tainio-mania.online/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Filma24](http://filma24.ch/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -67,10 +65,12 @@
 * [Ling.online](https://ling-online.net/en/videos/films/) - Movies / TV
 * [Daily iFlix](https://dailyiflix.com) - Movies / TV
 * [Afdah.live](https://afdah.live/) - Movies / TV
+* [English Movies](https://m.vk.com/english_movies) - Movies
+* [0xDB](https://0xdb.org/) - Movies / [How-to](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies#wiki_method_2_-_streaming)
 * [Flixtor](https://flixtor.to) - Movies / TV / Movies Older Than 6 Months For Premium Only
 * [GotyTV](https://gotytv.com/) - Movies / TV / Requires Signup
 * [TeamDrive Indexes](https://github.com/nbats/FMHYedit/blob/main/base64.md#google-teamdrives) - Movies / TV / Anime
-* [English Movies](https://m.vk.com/english_movies) - Movies
+* [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / Library Card Required
 * [Filmzie](https://filmzie.com/) - Movies / TV
 * [PopcornFlix](https://www.popcornflix.com/) - Movies / TV
 * [Crackle](https://www.crackle.com/) - Movies / TV
@@ -270,7 +270,7 @@
 * [Prelinger Archives](http://www.panix.com/~footage/) - Ephemeral Films [Archive](https://archive.org/details/prelinger)
 * [StageDork](http://stagedork.com/), [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
 * [GlobalShakespeares](https://globalshakespeares.mit.edu/) - Shakespeare Performance Recordings
-* [SidePlusLeaks](https://sideplusleaks.com/) - Sidemen Content  / [App](https://pixeldrain.com/u/PodC9xL2)
+* [SidePlusLeaks](https://sideplusleaks.com/) or [FreeSidePlus](https://freesideplus.com/) - Sidemen Content  / [App](https://pixeldrain.com/u/PodC9xL2)
 * [Unus Annus](https://archive.org/details/unus-annus) - Unus Annus Archive
 * [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/), [2](https://github.com/joric/bandersnatch) - Interactive player for Black Mirror: Bandersnatch
 * [ListenToAMovie](https://listentoamovie.com/) - Listen to Movies
@@ -311,7 +311,7 @@
 
 ## ▷ Anime Streaming
 
-* ⭐ **[Zoro](https://zoro.to/)** - Sub / Dub / [Auto-Focus](https://greasyfork.org/en/scripts/464019)
+* ⭐ **[Zoro](https://zoro.to/)**, [2](https://4anime.gg/), [3](https://kaido.to/) - Sub / Dub / [Auto-Focus](https://greasyfork.org/en/scripts/464019)
 * ⭐ **[9Anime](https://www.9anime.to/)** - Sub / Dub / [Mirrors](https://9anime.me/) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher) / [Ad Scripts](https://redd.it/c330dx)
 * ⭐ **[AllAnime](https://allanime.to/)** - Sub / Dub
 * ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / [Downloader](https://github.com/KevCui/animepahe-dl)
@@ -430,19 +430,19 @@
 * ⭐ **[FullMatchTV](https://fullmatchtv.com/)** - Sports
 * ⭐ **[NBATVReplay](https://nbatvreplay.com/)** or [NBAHD](https://watchreplay.net/) - Basketball
 * ⭐ **[NFL Replay](https://nflreplay.net/)** - Football
+* ⭐ **[WatchWrestling.wtf](https://watchwrestling.wtf/)** - MMA / Wrestling
 * ⭐ **[F1 Full Races](https://f1fullraces.com/)** - F1
 * [FootballOrigin](https://www.footballorgin.com/) - Soccer
 * [Footballia](https://footballia.net/) - Soccer
 * [Footyfull](https://footyfull.com/) - Soccer
 * [Sport Video](https://www.sport-video.org.ua/) - Multiple Sports / Torrents
 * [WatchWrestling.ai](https://watchwrestling.ai/) - MMA / Wrestling
-* [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling
-* [Full Fights](https://fullfights.net/) - MMA
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling
 * [WatchWrestling24](https://watchwrestling24.net/) - MMA / Wrestling
 * [WatchWrestlingUp](https://watchwrestlingup.live/) - MMA / Wrestling
 * [WatchWrestlingOnline](https://watchwrestlingonline.net/) - MMA / Wrestling
 * [WatchProWrestling](https://watchprowrestling.org/) - MMA / Wrestling
+* [Full Fights](https://fullfights.net/) - MMA
 * [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing
 * [SportsReplay](https://discord.com/invite/2r4pj67gCv) - [F1](https://racereplay.net/) / [MMA](https://fullfights.net/)
 * [Hula8](https://www.hula8.net/) - MMA
@@ -512,7 +512,7 @@
 * [SportsOnline](https://sportsonline.gl/) - Sports
 * [BestNHL](https://bestnhl.com/) - Sports
 * [MARKKY](https://markkystreams.com/) - Sports
-* [TheHomeSports](https://thehomesport.com/) - Sports
+* [TheHomeSports](https://thehomesport.net/) - Sports
 * [SportsW](https://sportsw.me/) - Sports
 * [CricHD](https://mc2.crichd.com/) - Sports
 * [WorldStreams](https://worldstreams.net/) - Sports
@@ -524,7 +524,7 @@
 * [DudeStream](http://dudestream.com/) - Sports
 * [CricHD](https://v4.crichd.tv/) - Sports
 * [UFCKhabib](http://sportsurge.stream/) - Sports
-* [TotalSportek](https://totalsportek.pro/) - Sports
+* [TotalSportek](https://totalsportek.pro/), [2](https://www.totalsportek.to/) - Sports
 * [NodelayTV](http://nodelaytv.pw/) - Sports
 * [Rojadirecta](https://www.rojadirecta.watch/) - Sports
 * [SportsRP](http://www.sportsrp.com/free-live-streams/) - Sports
@@ -622,13 +622,14 @@
 * [StreamCraze](https://streamcraze.com/) - Movies / TV
 * [MovieExplit](https://moviexplit.pw/) - Movies / TV / Anime / [Telegram](https://t.me/moviexplit)
 * [SomosMovies](https://somosmovies.com/) - Movies
+* [Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download) - Movies / TV / Anime / Eng Content / Single Click DL's
+* [Best HD Movies](https://besthdmovies.hair/) - Movies
+* [Full4Movies](https://www.full4movies.golf/) - Movies / TV
 * [MovieSeriesTV](https://www.movieseriestv.net/) - Movies / TV
 * [TVSeriesNMovies](https://www.tvseriesnmovies.com/) - Movies / TV
 * [SeriesVault](https://seriesvault.tk/), [2](https://seriesvault.win/) - TV / Anime
 * [o2tvseries](https://o2tvseries1.com/) - TV
 * [TV Shows](https://tvshows.me/) - TV
-* [Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download) - Movies / TV / Anime / Eng Content / Single Click DL's
-* [Full4Movies](https://www.full4movies.golf/) - Movies / TV
 * [TVShows.today](https://tvshows.me/) - TV
 * [TVSBoy](https://tvsboy.com/) - TV
 * [MoviezAddiction](https://45.143.223.244/) - Movies / TV / [Telegram](https://tttttt.me/moviezaddiction4//)
@@ -639,7 +640,7 @@
 * [ULMovies](https://ulmovies.xyz/) - Movies / TV 
 * [ShareMania](https://sharemania.us/) - Movies / TV
 * [NetNaija](https://netnaija.xyz/) - Movies
-* [GdriveMovies](https://gdrivemovies.xyz/) - Movies 
+* [GdriveMovies](https://gdrivemovies.xyz/) - Movies
 * [nKiri](https://nkiri.com/) - Movies / TV
 * [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime
 * [O2TVSeriesz](https://o2tvseriesz.com/) - Movies / TV
