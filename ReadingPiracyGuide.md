@@ -867,7 +867,7 @@
 * ⭐ **[MangaDex](https://mangadex.org/)** - [Downloader](https://github.com/mansuf/mangadex-downloader) / [Script](https://github.com/frozenpandaman/mangadex-dl)
 * ⭐ **[ComicK](https://comick.app/)** - [Discord](https://discord.gg/comick)
 * ⭐ **[MangaSee](https://mangasee123.com/)**, [2](https://manga4life.com/)
-* ⭐ **[MangaPark](https://mangapark.net/)**
+* ⭐ **[MangaPark](https://mangapark.net/)** - [Discord](https://discord.gg/jctSzUBWyQ)
 * ⭐ **[MangaKatana](https://mangakatana.com/)**
 * ⭐ **[Cubari Proxy](https://proxy.cubari.moe/)** - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
 * ⭐ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)** - Read / Organize Manga
@@ -885,10 +885,10 @@
 * [MangaBuddy](https://mangabuddy.com)
 * [MangaHere](http://www.mangahere.cc)
 * [MangaNelo](https://m.manganelo.com/wwww), [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/)
-* [MangaFire](https://mangafire.to/)
+* [MangaFire](https://mangafire.to/) - [Discord](https://discord.com/invite/KRQQKzQ6CS)
 * [BATO.TO](https://bato.to/), [2](https://battwo.com/) - [Discord](https://discord.gg/7NBwcBsDph) / [Proxy](https://batotoo.com/)
-* [MangaReader](https://mangareader.to/)
-* [TCB Scans](https://onepiecechapters.com/)
+* [MangaReader](https://mangareader.to/) - [Discord](https://discord.com/invite/Bvc5mVcUqE) / [Subreddit](https://www.reddit.com/r/MangaReaderOfficial/)
+* [TCB Scans](https://onepiecechapters.com/) - [Discord](https://discord.com/invite/tcbscans)
 * [Atsumaru](https://atsu.moe/) - [Discord](https://discord.gg/Tj4QmEF4uV)
 * [MangaHub](https://mangahub.io/)
 * [MangaList](https://mangalist.com/)
@@ -901,7 +901,7 @@
 * [Mangageko](https://www.mangageko.com/)
 * [Mangairo](https://h.mangairo.com/)
 * [ReadMng](https://www.readmng.com/) or [MngDoom](https://www.mngdoom.com/)
-* [ReadKomik](https://readkomik.com/)
+* [ReadKomik](https://readkomik.com/) - [Discord](https://discord.gg/bvB7Hk3xWV)
 * [DogManga](https://dogemanga.com/)
 * [Bunko](https://bunko.in/)
 * [MangaOwl](https://mangaowl.to/)
