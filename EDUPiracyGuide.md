@@ -644,6 +644,7 @@ Simulator
 * [elllo](https://www.elllo.org/)
 * [Podcasts in English](https://www.podcastsinenglish.com/) - English Learning Podcasts
 * [Listening Lab](https://www.esl-lab.com/) - English Listening Practice
+* [Stimuler IELTS Speaking Buddy](https://play.google.com/store/apps/details?id=com.stimuler) - English Speaking Practice
 * [BeyondPlayer](https://circleapps.co/) - YouTube Player for English Learners
 * [Langeek](https://langeek.co/) - Grammar / Vocabulary Language Learning
 * [Xuga](https://eng.ichacha.net/mpr/xuga.html) - Word Pronunciation Tool
