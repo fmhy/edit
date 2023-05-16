@@ -58,12 +58,12 @@
 * ⭐ **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/Up3YARe4RW) / [Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#silentycryings-game-drive)
 * ⭐ **[DODI Repacks](http://dodi-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
 * ⭐ **[M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)** - Download / [Discord](https://discord.gg/693hNBdymb)
-* [GameDrive](https://gamedrive.org/) - Download / Torrent / [Discord](https://gamedrive.org/discord)
 * [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - Download / Torrent / [Discord](https://discord.gg/HP5sQ6c)
 * [ScOOter Repacks](https://web.archive.org/web/20230315064712/https://scooter-repacks.site/) - Download / Torrent
 * [Xatab Repacks](https://byxatab.com/), [2](https://otxatabs.net/)  - Torrent
 * [Darck Repacks](https://darckrepacks.com/) - Download
 * [Elamigos](https://elamigos.site/) - Download
+* [GameDrive](https://gamedrive.org/) - Download / Torrent / [Discord](https://gamedrive.org/discord)
 * [RePack.info](https://repack.info/) - Download / Torrent
 * [Tiny-Repacks](https://www.tiny-repacks.win) - Torrent
 * [Magipack](https://www.magipack.games) - Retro PC Games
@@ -862,7 +862,10 @@
 * [Thunderstore](https://northstar.thunderstore.io/) - Northstar Mods
 * [Modding-OpenMW](https://modding-openmw.com/) - Morrowind Mods
 * [CT3Tweaks](https://ct3tweaks.stashy.dev/) - Crazy Taxi 3 Tweak Tool / [GitHub](https://github.com/stashymane/ct3tweaks)
-* [VRChat Modding Group](https://discord.gg/rCqKSvR) - VR Modding Discussion 
+* [VRChat Modding Group](https://discord.gg/rCqKSvR) - VR Modding Discussion
+* [CheatEngine](https://cheatengine.org/) or [WeMod](https://wemod.com/) / [Forum](https://mrantifun.net/) - Cheat Engine
+* [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - Cheat Engine Table
+* [CheatCodes](https://cheatcodes.com/), [SuperCheats](https://www.supercheats.com/), [CheatBook](http://www.cheatbook.de/), [LiveAbout](https://www.liveabout.com/), [GameHacking](https://gamehacking.org/) or [Cheat Happens](https://cheathappens.com/) - Cheat Codes
 
 ***
 
@@ -894,7 +897,7 @@
 * [Ethereal Games](https://wiki.etherealgames.com/) or [JRGPC](https://jrpgc.com/) - JRPG Databases
 * [RPGCodex](https://rpgcodex.net/forums/) - RPG Databse / Forum
 * [SteamPeek](https://steampeek.hu/) - Indie Game Database
-* [RetroShowcase](https://www.retroshowcase.gr/) - Retro Game Database
+* [RetroShowcase](https://www.retroshowcase.gr/) or [The Good Old Days](https://www.goodolddays.net/) - Retro Game Databases
 * [Sega Retro](https://segaretro.org/) - Sega Game Database
 * [AtariAge](https://atariage.com/) - Atari Game Database
 * [Co-Optimu](https://www.co-optimus.com/) - Co-Op Game Database
@@ -928,9 +931,8 @@
 * [Geforce Now](https://www.nvidia.com/en-gb/geforce-now/) - Game Streaming / [Web App](https://play.geforcenow.com/mall/)
 * [Cloud Morph](https://github.com/giongto35/cloud-morph) or [Remotly](https://remotly.com/) - Cloud Gaming Apps
 * [Mogul](https://play.google.com/store/apps/details?id=com.mogul.flutte&hl=en&gl=US) or [Chikii](https://play.google.com/store/apps/details?id=com.dianyun.chikii&hl=en&gl=US) - Cloud Gaming Android Apps
-* [GameCopyWorld](https://www.gamecopyworld.com/games/index.php) - Game Fixes and Patches
-* [GameBurnWorld](http://www.gameburnworld.com/) - No-CD/No-DVD Patches, Game Fixes, Trainers, Cheats 
 * [ogg-winmm](https://github.com/bangstk/ogg-winmm) - CD Audio Emulator
+* [GameCopyWorld](https://www.gamecopyworld.com/games/index.php), [GameBurnWorld](http://www.gameburnworld.com/), [MegaGames](https://megagames.com/) or [GTrainers](https://gtrainers.com/) - Game Fixes, Saves and Patches
 * [Ludsavi](https://github.com/mtkennerly/ludusavi) or [GameSave Manager](https://www.gamesave-manager.com/) - Game Save Manger
 * [Save Game World](http://www.savegameworld.com/), [savegamedownload](https://www.savegamedownload.com/), [yoursavegames](https://www.yoursavegames.com/), [savesforgames](https://savesforgames.com/), [savegamefiles](https://www.savegamefiles.com/), [savegame-download](https://savegame-download.com/) or [savegame](https://savegame.pro/) - PC Game Save Downloads
 * [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
@@ -1059,7 +1061,7 @@
 * [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - Unlock Genshin Impact FPS Cap
 * [Optimize Dying Light 2](https://rentry.co/opto-dl2) - DL2 Optimization Mods
 * [RoSeal](https://www.roseal.live/) - Roblox Enhancement Extension
-* [Roblox Performance](https://rentry.co/roblox-performance) - Roblox Optimization Guide
+* [Roblox Performance](https://rentry.co/roblox-performance) or [Mr. Goose](https://docs.google.com/document/d/1_XH3IMpaCtoKR1U38Zh08kbJr-WwptsxHSza-G7UKGU/) - Roblox Optimization Guides
 * [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) - Roblox Bootstrapper
 * [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap
 * [RE4HD](https://www.re4hd.com/) - Resident Evil 4 HD Mod
@@ -1329,8 +1331,3 @@
 * [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching
 * [Four-tris](https://github.com/fiorescarlatto/four-tris) - Tetris Training Client
 * [PuzzleGraph](https://runevision.itch.io/puzzlegraph) - Computer Puzzle Visualizer
-* [MegaGames](https://megagames.com/) or [GTrainers](https://gtrainers.com/) - Fixes / Trainers / Saves
-* [CheatEngine](https://cheatengine.org/) or [WeMod](https://wemod.com/) / [Forum](https://mrantifun.net/) - Cheat Engine
-* [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - Cheat Engine Table
-* [CheatCodes](https://cheatcodes.com/), [SuperCheats](https://www.supercheats.com/), [CheatBook](http://www.cheatbook.de/), [LiveAbout](https://www.liveabout.com/), [GameHacking](https://gamehacking.org/) or [Cheat Happens](https://cheathappens.com/) - Cheat Codes
-* [WordPlays](https://www.wordplays.com/) or [WorduUnscrambler](https://www.wordunscrambler.net/) - Cheat at Scrabble, Words with Friends & Crossword Puzzles
