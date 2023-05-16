@@ -42,7 +42,7 @@
 * [Academic Earth](https://academicearth.org/) - Courses
 * [Yale.edu](https://oyc.yale.edu/) - Courses
 * [My Great Learning](https://www.mygreatlearning.com/academy) - Courses
-* [Stepik](http://stepik.org/) - Courses
+* [Stepik](https://stepik.org/) - Courses
 * [Canvas](https://www.canvas.net/) - Courses
 * [CourseF](https://www.coursef.com/) - Courses
 * [Study is wonderful](https://github.com/xioacd99/study-is-wonderful) - Courses
@@ -56,11 +56,11 @@
 * [media.ccc.de](https://media.ccc.de/) or [SlidePlayer](https://slideplayer.com/) - Educational Presentations
 * UC Berkeley Webcast project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://odysee.com/@UCBerkeley) - Lectures
 * [iTunes U](https://wiki.archiveteam.org/index.php/ITunes_U) - Lectures
-* [Ted Talks](https://www.ted.com/) or [Adobe 99U](https://99u.adobe.com/talks) - Inspiring and Educational Talks
+* [Ted Talks](https://www.ted.com/) - Inspiring and Educational Talks
 * [Curated Conversations](https://conversations.aawadia.dev/) - Educational Podcasts / Interviews
 * [WatchKnowLearn](http://www.watchknowlearn.org/) - Educational Videos
 * [FreeMedTube](https://freemedtube.net/) - Medical Courses
-* [Mathispower4u](https://www.mathispower4u.com/), [PatrickJMT](http://patrickjmt.com/), [SchoolYourself](http://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/), [mathonline](http://mathonline.wikidot.com/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
+* [Mathispower4u](https://www.mathispower4u.com/), [SchoolYourself](https://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/), [mathonline](http://mathonline.wikidot.com/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
 * [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) or [MisterWootube](https://www.youtube.com/c/misterwootube) - YouTube Math Lessons
 * [NYU-DLSP21](https://atcold.github.io/NYU-DLSP21/) - Deep Learning Course
 * [BillNye](https://billnye.com/) - Bill Nye Science Videos
@@ -193,9 +193,8 @@
 * [EZdemy](https://t.me/ezudemy) - Udemy Courses
 * [Giga Course](https://gigacourse.com/) or [FreeAllCourse](https://freeallcourse.com/) - Udemy Courses
 * [Udemy 24](https://udemy24.com/) - Udemy Courses
-* [FreeCourseWeb](http://freecourseweb.com/) - Udemy Courses
+* [FreeCourseWeb](https://freecourseweb.com/) - Udemy Courses
 * [CoursesForFree](https://courseforfree.net/) - Udemy Courses
-* [FreeTutorialsHub](https://www.freetutorialshub.com/) - Udemy Courses
 * [CourseForFree](https://courseforfree.com/) - Udemy Courses
 * [Download Online Tutorials Free](https://download.howtofree.org/) - Udemy Courses
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
@@ -229,7 +228,7 @@
 * **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting
 * [Course Torrent / DDL CSE](https://cse.google.com/cse?cx=37dfc1f1ac9ef45e7) - Multi-Site Course Search
 * [Course Club](https://courseclub.me/) - Courses
-* [FreeCourseSite](http://freecoursesite.com/) - Courses
+* [FreeCourseSite](https://freecoursesite.com/) - Courses
 * [DownloadFreeCourse](https://downloadfreecourse.com/) - Courses
 * [GetFreeCourses](https://getfreecourses.co/) - Courses
 * [TutorialsPlanet](https://tutorialsplanet.net/) - Courses
@@ -311,7 +310,7 @@
 * [MatrixCalc](https://matrixcalc.org/en/) or [MatrixOP](https://simplx.dev/matrixop/) - Matrix Calculator
 * [Mathcha](https://www.mathcha.io/) - Online Math Editor
 * [EquatIO](https://chrome.google.com/webstore/detail/equatio-math-made-digital/hjngolefdpdnooamgdldlkjgmdcmcjnc) - Math Equation Creator
-* [SequenceDB](http://sequencedb.net/) - Sequence Machine
+* [SequenceDB](https://sequencedb.net/) - Sequence Machine
 * [Giac/Xcas](http://www-fourier.ujf-grenoble.fr/~parisse/giac.html) - Algebra System
 * [Algebra Rules](http://algebrarules.com/) - Learn Algebra Rules
 * [Weboasis Convert](https://weboasis.app/convert/) - Conversion Calculators
@@ -444,7 +443,7 @@ Simulator
 * ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
 * [Climate Data](https://climate-data.org/) or [Climate Explorer](https://crt-climate-explorer.nemac.org/) - Climate Change Data
 * [Nextstrain](https://nextstrain.org/) - Pathogen Evolution Tracking
-* [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) or [Corona Hunt](https://coronahunt.app/) - COVID Data
+* [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - COVID Data
 * [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets) - Public Datasets
 * [Location Data](https://locationdata.us/) or [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
@@ -494,7 +493,7 @@ Simulator
 * [BetaWiki](https://betawiki.net/wiki/Main_Page) - Operating System / Software History / [Discord](https://discord.com/invite/XPz5Zm42tR)
 * [InfoMesh](http://infomesh.org/) - Web History / Info
 * [VersionMuseum](https://www.versionmuseum.com/) - Website History / Info
-* [Old Computer Museum](http://oldcomputers.net/) - Computer History / Info
+* [Old Computer Museum](https://oldcomputers.net/) - Computer History / Info
 * [The HP 9845 Project](https://www.hp9845.net/) - HP 9845 Computer History
 * [Folklore](https://www.folklore.org) or [TheAppleWiki](https://theapplewiki.com/) - Apple Computer History
 * [VGA Museum](http://www.vgamuseum.info/) - Graphic Cards History / Info
@@ -513,7 +512,7 @@ Simulator
 * [The Universe Through Time](https://i.ibb.co/85S7rG4/01bbe9083644.jpg) - Universe Timeline
 * [Space Dashboard](https://spacedashboard.com/) - Space Live Stream Dashboard
 * [EarthData](https://worldview.earthdata.nasa.gov/) - Daily Satellite Replays
-* [NASA WorldWind](http://sourceforge.net/projects/nasa-exp/) or [Planet Globe](https://nbremer.github.io/planet-globe/) - Virtual Globes
+* [Planet Globe](https://nbremer.github.io/planet-globe/) - Virtual Globes
 * [ISS Sim](https://iss-sim.spacex.com/) - ISS Docking Simulator
 * [HDEV Payload](https://video.ibm.com/channel/iss-hdev-payload) or [ISS UStream](https://www.nasa.gov/multimedia/nasatv/iss_ustream.html) - Live ISS Streams
 * [Transit Finder](https://transit-finder.com/) - ISS Transit Finder
@@ -536,7 +535,7 @@ Simulator
 * [Mars Now](https://mars.nasa.gov/explore/mars-now/) - Mars Exploration Program Simulator
 * [The Atlas of Moons](https://www.nationalgeographic.com/science/graphics/the-atlas-of-moons) - Interactive Index of Moons
 * [1 Pixel moon](https://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html), [LightYear](https://www.lightyear.fm/) or [OMG SPACE](http://omgspace.net/) - Solar System Scale Model
-* [3DSolarSystem](https://theskylive.com/3dsolarsystem), [SpaceKit](https://typpo.github.io/spacekit/) or [SpaceInBrowser](https://spaceinbrowser.com/) - Solar System Simulators
+* [3DSolarSystem](https://theskylive.com/3dsolarsystem), [SpaceKit](https://typpo.github.io/spacekit/) - Solar System Simulators
 * [The Planets](https://planets-facts-website.netlify.app/) - Learn About Planets
 * [ExoplanetExplore](https://exoplanetexplore.vercel.app) - Interactive Exoplanet Visualization
 * [Space Object Comparison](https://mr21.github.io/space-object-comparison/) - Compare Sizes Of Celestial Objects
@@ -545,9 +544,9 @@ Simulator
 * [Aladin](https://aladin.u-strasbg.fr/) - Astronomical Image Viewer / [Lite Version](https://aladin.u-strasbg.fr/AladinLite/)
 * [Siril](https://siril.org/) - Astronomical Image Processor
 * [Stellarium-Web](https://stellarium-web.org/) or [Stellarium](http://stellarium.org/) - Virtual Stellariums
-* [Google Sky](http://www.google.com/sky) - View Stars, The Moon & Mars
+* [Google Sky](https://www.google.com/sky) - View Stars, The Moon & Mars
 * [WorldwideTelescope](https://worldwidetelescope.org/) - Interactive Telescope Data
-* [ESO Zoomable](https://www.eso.org/public/images/eso1242a/zoomable/) or [Hubble Zoomable](https://esahubble.org/images/archive/zoomable/) - Zoomable Telescope Photos
+* [Hubble Zoomable](https://esahubble.org/images/archive/zoomable/) - Zoomable Telescope Photos
 * [Webb Compare](https://www.webbcompare.com/) - Webb / Hubble Comparison Images
 * [Space Telescope Live](https://spacetelescopelive.org/) - Live Hubble Image Data
 * [James Webb Space Telescope](https://jwst.nasa.gov/index.html) or [ESAWebb](https://esawebb.org/) - Webb Space Telescope Site
@@ -579,7 +578,6 @@ Simulator
 * [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [CityWalks](https://citywalks.live/), [Explordle](https://www.explordle.com/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulator
 * [Matterport](https://matterport.com/discover) - Explore Real Places Digitally
 * [Outside Simulator](https://outsidesimulator.com/) - Simulate Being Outside
-* [Heygo](https://www.heygo.com/) - Live Interactive Virtual Tours
 * [Zhijianshang](https://www.zhijianshang.com/) - Explore China in 360VR
 
 ***
@@ -631,7 +629,7 @@ Simulator
 * [The Internet TESL Journal](http://iteslj.org/) - Resources for EFL and ESL Teachers
 * [E-books_432](https://github.com/nbats/FMHYedit/blob/main/base64.md#e-books_432) - Vocabulary & Pronunciation Books
 * [ESOL](https://www.esolcourses.com/) - English Learning Resources
-* [Learn English Online](http://www.learn-english-online.org/)
+* [Learn English Online](https://www.learn-english-online.org/)
 * [EnglishCentral](https://www.englishcentral.com/)
 * [ESLFast](https://www.eslfast.com/)
 * [TalkEnglish](https://www.talkenglish.com/)
@@ -639,7 +637,7 @@ Simulator
 * [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons)
 * [Cambridge Online](https://www.cambridgeenglish.org/learning-english/)
 * [Elsaspeak](https://elsaspeak.com/en/)
-* [Voscreen](http://voscreen.com/)
+* [Voscreen](https://voscreen.com/)
 * [yell0wsuit](https://yell0wsuit.page/english.html)
 * [elllo](https://www.elllo.org/)
 * [Podcasts in English](https://www.podcastsinenglish.com/) - English Learning Podcasts
@@ -721,7 +719,7 @@ Simulator
 * [Pleco](https://www.pleco.com/) - Chinese Flashcards / Dictionary
 * [YellowBridge](https://www.yellowbridge.com/) - Chinese Learning Tools
 * [Mandarin Chinese](https://github.com/nbats/FMHYedit/blob/main/base64.md#mandarin-chinese) - Mandarin Chinese Learning Books
-* [Chinese Flashcards](http://www.chineseflashcards.io/) - Chinese Flashcards
+* [Chinese Flashcards](https://www.chineseflashcards.io/) - Chinese Flashcards
 
 ***
 
@@ -733,7 +731,6 @@ Simulator
 * [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
 * [Seedlang](https://seedlang.com/) - German Learning App
 * [Linguee](https://www.linguee.de/) or [Dict.cc](https://m.dict.cc/) - German Translation Dictionary
-* [LearningSwedish](https://learningswedish.se/) - Swedish Learning Course
 
 ***
 
@@ -807,9 +804,9 @@ Simulator
 * [A-Complete-UTAU-Tutorial-For-Beginners](https://www.quotev.com/story/9299060/A-Complete-UTAU-Tutorial-For-Beginners) - UTAU Tutorial
 * [MusicStaff](https://musicstaff.com/) - Music Teacher Search
 * [Piascore](https://apps.apple.com/us/app/piascore-hd/id406141702) - Music Score Viewer
-* [NoteFlight](https://noteflight.com/), [MCMusicEditor](https://www.mcmusiceditor.com/), [Flat](https://flat.io/), [FinaleMusic](https://www.finalemusic.com/products/notepad/), [Score Perfect Professional](https://archive.org/details/score-perfect-professional-lite-5.1/), [MuseScore](https://musescore.org/en/download), [canorus](https://github.com/canorusmusic/canorus), [MusicWorks](https://www.tierramedia.com/), [Notasi Angka](https://notasi-angka.sourceforge.io/) or [Trinket](https://trinket.io/) - Create / Share Music Scores
-* [Access Music](http://accessmusic.sourceforge.net/) - Create Music Scores for Blind Users
-* [The ABC Music Project](http://abc.sourceforge.net/) - Plain Text Music Notation / [Editor](https://sourceforge.net/projects/toadflax/), [2](https://runabc.sourceforge.io/), [3](http://easyabc.sourceforge.net/) / [PNG Convert](https://sourceforge.net/projects/abccairo/) / [MIDI Convert](https://abcmidi.sourceforge.io/) / [Webpages](https://netabc.sourceforge.io/)
+* [NoteFlight](https://noteflight.com/), [MCMusicEditor](https://www.mcmusiceditor.com/), [Flat](https://flat.io/), [FinaleMusic](https://www.finalemusic.com/products/notepad/), [Score Perfect Professional](https://archive.org/details/score-perfect-professional-lite-5.1/), [MuseScore](https://musescore.org/en/download), [canorus](https://github.com/canorusmusic/canorus), [MusicWorks](https://www.tierramedia.com/), [Notasi Angka](https://sourceforge.net/projects/notasi-angka/) or [Trinket](https://trinket.io/) - Create / Share Music Scores
+* [Access Music](https://accessmusic.sourceforge.net/) - Create Music Scores for Blind Users
+* [The ABC Music Project](https://abc.sourceforge.net/) - Plain Text Music Notation / [Editor](https://sourceforge.net/projects/toadflax/), [2](https://runabc.sourceforge.io/), [3](https://easyabc.sourceforge.net/) / [PNG Convert](https://sourceforge.net/projects/abccairo/) / [MIDI Convert](https://abcmidi.sourceforge.io/) / [Webpages](https://netabc.sourceforge.io/)
 * [Audiveris](https://audiveris.github.io/audiveris/), [Oemer](https://github.com/BreezeWhite/oemer) / [Colab](https://colab.research.google.com/github/BreezeWhite/oemer/blob/main/colab.ipynb), [transcription](https://github.com/superfonic/transcription), [omnizart](https://github.com/Music-and-Culture-Technology-Lab/omnizart), [AutoAudio](https://github.com/EricaNguyen/AutoAudio), [notetrainerpro](https://sourceforge.net/projects/notetrainerpro/) or [Soundslice](https://www.soundslice.com/transcribe/) - Transcribe Music Sheets / [GitHub](https://github.com/Audiveris/audiveris)
 * [Partitura Magica](https://sourceforge.net/projects/partituramagica/) or [SheetMusicScanner](https://sheetmusicscanner.com/) - Display Scanned Music Sheets
 * [ChiffAndFipple](http://forums.chiffandfipple.com/index.php) - Irish Traditional Music Forum
@@ -937,7 +934,7 @@ Simulator
 * [Graph / Diagram Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_graph_.2F_diagram_creators)
 * [Altium](https://www.altium.com/viewer/) - Schematics Visualizer
 * [Quizizz](https://quizizz.com/) - Create Quizzes, Lessons, Flashcards & Presentations
-* [Anki](https://apps.ankiweb.net/) / [CLI](https://github.com/TBS1996/speki), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://library.scholarcy.com/flashcard-generator.html), [StudyLib](https://www.studylib.net/) or [Flashcard Machine](https://www.flashcardmachine.com/) - Flash Card Tools
+* [Anki](https://apps.ankiweb.net/) / [CLI](https://github.com/TBS1996/speki), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://article-summarizer.scholarcy.com/summarizer), [StudyLib](https://www.studylib.net/) or [Flashcard Machine](https://www.flashcardmachine.com/) - Flash Card Tools
 * [Carden](https://github.com/alyssaxuu/carden) or [Awesome Anki](https://github.com/tianshanghong/awesome-anki) - Flashcard Extensions
 * [SearchifyX](https://github.com/daijro/SearchifyX) - Search Flashcards
 * [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flashcard Mobile App
@@ -967,7 +964,7 @@ Simulator
 * [Traffic Simulation](https://traffic-simulation.de/) - Traffic Flow Simulation
 * [Bridge Command](https://www.bridgecommand.co.uk/) - Bridge Command Ship Simulator
 * [Sectional Anatomy](https://www.sectional-anatomy.org/) - Cross Sectional Educational MRI / CT Scans
-* [Ray Optics Simulation](https://ricktu288.github.io/ray-optics/) - Light Reflection / Refraction Simulator
+* [Ray Optics Simulation](https://phydemo.app/ray-optics/) - Light Reflection / Refraction Simulator
 * [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) - Light and Shadow Lesson
 * [Interactive 4D Handbook](https://baileysnyder.com/interactive-4d/) - Interactive Fourth Dimension
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) or [Mindat](https://www.mindat.org/) - Mineralogy Database
@@ -1000,7 +997,7 @@ Simulator
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
 * [Economics of The Office](http://economicsoftheoffice.com/) - Learn Economics via The Office
 * [Morse Typing Trainer](https://morse.withgoogle.com/learn/), [Seiuchy](https://seiuchy.macache.com/) or [ICWO](https://lcwo.net/) - Learn / Practice Morse Code
-* [RSOE](http://hisz.rsoe.hu/) - Emergency and Disaster Information Service
+* [RSOE](https://rsoe-edis.org/) - Emergency and Disaster Information Service
 * [Awful-A.I.](https://github.com/daviddao/awful-ai) - Negative A.I. Usage Examples
 * [M-Journal](https://m-journal.org/) - Turn Wikipedia into a Citeable Academic Paper
 * [Sideways Dictionary](https://sidewaysdictionary.com/) - Common Computer Terms Explained Simply
