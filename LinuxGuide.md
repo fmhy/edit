@@ -440,7 +440,7 @@
 * [TNT-Adobe-Zii](https://telegra.ph/TNT-Adobe-Zii-for-MacOS-11-01) - Adobe CC Patcher / [Subreddit](https://www.reddit.com/r/AdobeZii/)
 * [Adobe Packager](https://github.com/Drovosek01/adobe-packager) - Adobe Portable Installer Script
 * [ss64 OSX](https://ss64.com/osx/) - MacOS Bash Commands
-* [Browserosaurus](https://github.com/will-stone/browserosaurus) - Browser Prompter
+* [Browserosaurus](https://browserosaurus.com/) - Browser Prompter
 * [Orion](https://browser.kagi.com/downloads/Orion.dmg) - Webkit Browser with Chrome & Firefox extensions / [Discord](https://discord.gg/E9EKaPZR)
 * [Strongbox](https://strongboxsafe.com/) - Password Manager
 * [Maccy](https://maccy.app/) - Clipboard Manager
