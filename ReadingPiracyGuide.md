@@ -118,7 +118,6 @@
 * [English E-Reader](https://english-e-reader.net/) - Books
 * [Chapter1](https://chapter1.us/) - Books
 * [Bibliomania](http://www.bibliomania.com/bibliomania-static/index.html) - Books
-* [ReadCentral](https://www.readcentral.com/) - Books
 * [Authorama](http://www.authorama.com/) - Books
 * [E-Books Directory](http://www.e-booksdirectory.com/) - Books
 * [Free-eBooks](https://www.free-ebooks.net/best-books) - Books
@@ -395,7 +394,6 @@
 * [OAPEN](https://oapen.org/)
 * [vdoc.pub](https://vdoc.pub/)
 * [Lit GFax](https://lit.gfax.ch/)
-* [EDUBBookPDF](https://edubookpdf.com/)
 * [OpenED](https://open.bccampus.ca/)
 * [doabooks](https://doabooks.org/)
 * [StruggleBuddies 4.0](https://github.com/nbats/FMHYedit/blob/main/base64.md#strugglebuddies-40)
@@ -566,7 +564,7 @@
 * [WOWeBook](https://www.wowebook.org/)
 * [Ebooks-it](https://ebooks-it.org)
 * [Essential Programming Books](https://www.programming-books.io/)
-* [Foxebook](https://www.foxebook.net/)
+* [Foxebook](https://foxgreat.com/)
 * [free-programming-books](https://github.com/chrislgarry/free-programming-books)
 * [Free eBooks](https://books-pdf.blogspot.com/)
 * [goalkicker](https://goalkicker.com/)
@@ -585,7 +583,6 @@
 * [JSBooks](https://jsbooks.revolunet.com/) - Javascript Books
 * [DevDocs](https://devdocs.io/) - API Documentation
 * [Bzdnbot](https://t.me/Bzdnbot) - Telegram
-* [Programming Directories](https://redd.it/hxdbau)
 * [X-Files](https://doc.lagout.org/) - Tech / Programming
 * [#/g/sicp](https://g.sicp.me/books/) - Programming / Computer Science / Tech (35gb Torrent)
 * [TeachYourselfComputerScience](https://teachyourselfcs.com/) - Computer Science Book Recommendations
@@ -666,6 +663,7 @@
 * [Internet Archive Scholar](https://scholar.archive.org/) - Research Papers
 * [Paper Panda](https://paperpanda.app/) - Research Papers
 * [Open Access Library](https://www.oalib.com/) - Research Papers
+* [CyberLeninka](https://cyberleninka.org/) - Research Papers
 * [Paperity](https://paperity.org/) - Research Papers
 * [OpenAire](https://explore.openaire.eu/) - Research Papers
 * [Association for learning Technology](https://repository.alt.ac.uk/view/subjects/) - Research Papers
@@ -711,7 +709,7 @@
 
 ## ▷ Manual Sites
 
-* [Manuals & Schematics](https://redd.it/nlw3er), [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [Wedophones](http://wedophones.com/Manuals/), [manualzz](https://manualzz.com/), [SAS](http://www.univertron.com/SAS/manuals/), [ManualsNet](https://manualsnet.com/), [manua.ls](https://www.manua.ls/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
+* [Manuals & Schematics](https://redd.it/nlw3er), [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [Wedophones](http://wedophones.com/Manuals/), [manualzz](https://manualzz.com/), [ManualsNet](https://manualsnet.com/), [manua.ls](https://www.manua.ls/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
 * [ManualLib](https://www.manuallib.com/) - Manual Search
 * [Floss Manuals](https://www.flossmanuals.net/) - Software Manuals
 * [iFixIt](https://www.ifixit.com/Guide) - Repair Manuals
@@ -735,7 +733,7 @@
 * ⭐ **[Wikipedia](https://www.wikipedia.org/)**, [WikiWand](https://www.wikiwand.com/) or [Metastem](https://wiki.metastem.su/), [ModernWiki](https://www.modernwiki.app/) - Encyclopedia
 * ⭐ **Wikipedia Tools** - [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Page Connections](https://hyperleap.com/) / [Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) / [TUI](https://github.com/yashsinghcodes/wik) / [Galaxy View](https://wiki.polyfra.me/) / [Read Only](http://static.wiki/) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener)
 * ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** or [TheSage](https://www.sequencepublishing.com/) - Dictionary / Thesaurus
-* ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)** / [Frontends](https://codeberg.org/zortazert/rural-dictionary/), [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slangit.com/) - Slang Word / Phrase Dictionaries
+* ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)** / [Frontends](https://codeberg.org/zortazert/rural-dictionary/), [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slang.net/) - Slang Word / Phrase Dictionaries
 * ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary Search
 * ⭐ **[Dictionary Index](https://onelook.com/?d=all_gen)**
 * ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase / [API Access](https://wolfreealpha.gitlab.io)
@@ -743,7 +741,6 @@
 * [NinjaWords](http://ninjawords.com/) - Dictionary
 * [Wordnik](https://www.wordnik.com/) - Dictionary
 * [OxfordLearnersDictionaries](https://www.oxfordlearnersdictionaries.com/) - Dictionary
-* [Lexico](https://www.lexico.com/) - Dictionary
 * [Cambridge Dictionary](https://dictionary.cambridge.org/) - Dictionary
 * [LDOCE](https://www.ldoceonline.com/) - Dictionary
 * [Wiktionary](https://www.wiktionary.org/) - Dictionary
@@ -759,7 +756,6 @@
 * [Fandom](https://www.fandom.com/) - Fan Wikis / [Frontend](https://docs.breezewiki.com/Links.html) / [Old Style](https://greasyfork.org/en/scripts/438194-hydralize-fix-fandom-com)
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi Language Dictionary Index
 * [Scholarpedia](http://www.scholarpedia.org/) - Peer-Reviewed Encyclopedia
-* [Everpidia](https://everipedia.org/) - Encyclopedia
 * [EverybodyWiki](https://en.everybodywiki.com/) - Encyclopedia
 * [Britannica](https://www.britannica.com/) - Encyclopedia
 * [Encyclopedia](https://www.encyclopedia.com/) - Encyclopedia
@@ -789,7 +785,7 @@
 * [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
 * [TheIdioms](https://www.theidioms.com/) - Idiom Dictionary
 * [Lexipedia](http://www.lexipedia.com/) or [WordWeb](https://wordwebs.app/) - Word Connections
-* [RhymeZones](https://www.rhymezone.com/), [Rhymer](https://rhymer.com/) or [RhymeIt](https://www.rhymit.com/) - Rhyme Dictionary
+* [RhymeZones](https://www.rhymezone.com/) or [Rhymer](https://rhymer.com/) - Rhyme Dictionary
 * [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/) - Dictionary of Sorrows
 * [TheDevilsDictionary](http://www.thedevilsdictionary.com/) - Cynical Dictionary
 * [TagDef](https://tagdef.com/en/) - Social Media Tag Dictionary
@@ -897,7 +893,6 @@
 * [MangaHub](https://mangahub.io/)
 * [MangaList](https://mangalist.com/)
 * [MangaTown](https://www.mangatown.com/)
-* [MixedManga](https://mixedmanga.com/)
 * [Disaster Scans](https://disasterscans.com/) - [Discord](https://discord.gg/JbcJCpv)
 * [MangaSail](https://www.mangasail.net/)
 * [Taadd](http://www.taadd.com/)
@@ -998,7 +993,7 @@
 * [Instamanhwa](https://www.instamanhwa.com/)
 * [Manhwa68](https://manhwa68.com/)
 * [Manhwa World](https://manhwaworld.com/)
-* [Comic Kiba](https://comickiba.com)
+* [Comic Kiba](https://manhuagold.com/)
 * [ManhwaZ](https://manhwaz.com/)
 * [Manhwafull](https://manhwafull.com/)
 * [Top Manhua](https://www.topmanhua.com/)
@@ -1071,11 +1066,10 @@
 * [Nakimushitl](https://nakimushitl.wordpress.com/)
 * [LightNovelHeaven](https://lightnovelheaven.com)
 * [NovelCool](https://www.novelcool.com/)
-* [TipNovel](https://tipnovel.com)
 * [Novels.pl](https://www.novels.pl/)
 * [Scribblehub](https://www.scribblehub.com/)
 * [All Novel Full](https://allnovelfull.com/)
-* [LightNovelReader](https://lightnovelreader.org/)
+* [LightNovelReader](https://lnreader.org/)
 * [NovelFull](https://novelfull.me/)
 * [MTL Nation](https://mtlnation.com/)
 * [Novel Hall](https://www.novelhall.com/)
@@ -1246,7 +1240,6 @@
 * [qPDFview](https://launchpad.net/qpdfview) - PDF Reader / PC
 * [PDFLite](http://www.pdflite.com/) - PDF Reader / PC
 * [mupdf](https://mupdf.com/) - PDF Reader / PC
-* [PDF Online](https://pdf.online/) - PDF Reader / PC / Android / iOS
 * [Evince](https://wiki.gnome.org/Apps/Evince) - PDF / DjVu Reader / Linux
 * [PdfPreviewbot](https://t.me/PdfPreviewbot) - Telegram PDF Reader
 * [WinDjView](https://windjview.sourceforge.io/) - DjVu Reader / PC
@@ -1257,7 +1250,7 @@
 * [Open Media Library](https://openmedialibrary.com/) - Online Book Manager
 * [Raven Reader](https://ravenreader.app/) - Article Reader / Manager
 * [Cubari](https://cubari.moe/) - Image Proxy / Reader
-* [EinkBro](https://f-droid.org/packages/info.plateaukao.einkbro/) - E-Ink Browser
+* [EinkBro](https://github.com/plateaukao/einkbro) - E-Ink Browser
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - Read Books in Browser
 * [dotepub](https://dotepub.com/) - Convert Webpages to EBooks
 * [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
