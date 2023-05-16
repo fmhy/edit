@@ -618,7 +618,7 @@
 
 ## ▷ Downloading
 
-* ⭐ **[OlaMovies](https://olamovies.monster/)** - Movies / TV / [Telegram](https://telegram.me/olamovies_official_v3)
+* ⭐ **[OlaMovies](https://olamovies.quest/)** - Movies / TV / [Telegram](https://telegram.me/olamovies_official_v3)
 * ⭐ **[Full4Movies](https://www.full4movies.golf/)** - Movies / TV / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
 * [MoviesMod](https://moviesmod.net.in/) - Movies / TV / [Telegram](https://t.me/moviesmodcom)
 * [MKV Mad](https://www.mkvmad.day/) - Movies / TV / [Telegram](https://t.me/mkvmadofficial)
