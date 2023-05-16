@@ -27,7 +27,7 @@
 * [Open Assistant](https://open-assistant.io/) or [HuggingChat](https://huggingface.co/chat/) - Open-Source Chatbots
 * [ChatLLaMA](https://stuff.serp.ai/l/lora-weights) - LLaMA Based Chatbot
 * [Dalai](https://cocktailpeanut.github.io/dalai/) or [LLaMA C++](https://github.com/ggerganov/llama.cpp) - Self-Host Facebook Chatbot / [Guide](https://rentry.org/llama-tard-v2) / [WebUI](https://github.com/ItsPi3141/dalai)
-* [Alpaca Lora](https://huggingface.co/spaces/tloen/alpaca-lora) - Chatbot Built by Standford / [Git](https://github.com/antimatter15/alpaca.cpp) / [Guide](https://github.com/tatsu-lab/stanford_alpaca) / [Self-Host](https://github.com/tloen/alpaca-lora) / [Docker](https://github.com/chris-alexiuk/alpaca-lora) / [Frontend](https://github.com/ItsPi3141/alpaca-electron)
+* [Alpaca Lora](https://huggingface.co/spaces/tloen/alpaca-lora) - Chatbot Built by Standford / [Git](https://github.com/antimatter15/alpaca.cpp) / [Guide](https://github.com/tatsu-lab/stanford_alpaca) / [Self-Host](https://github.com/tloen/alpaca-lora) / [Docker](https://github.com/chris-alexiuk/alpaca-lora) / [Frontend](https://github.com/ItsPi3141/alpaca-electron) / [Composable](https://github.com/opparco/stable-diffusion-webui-composable-lora)
 * [PygmalionAI](https://redd.it/10kr5zk) - Chatbot Built by 4Channers / [Guide](https://rentry.org/pygmalion-local) / [FAQ](https://rentry.org/pygmalion-ai)
 * [JackChat](https://app.jackchat.ai/) - Browser Based Chatbot
 * [cleverbot](https://www.cleverbot.com/) - Browser Based Chatbot
@@ -37,6 +37,7 @@
 * [AskEdith](https://www.askedith.ai/demo) - Job / Business Q&A AI
 * [Phind](https://www.phind.com/) - Developer Q&A AI
 * [Leon](https://getleon.ai/) - AI Assistant
+* [LLaVA](https://llava-vl.github.io/) / [Delta](https://huggingface.co/liuhaotian/LLaVA-13b-delta-v0) - Visual Instruction AI / [GitHub](https://github.com/haotian-liu/LLaVA)
 * [engshell](https://github.com/emcf/engshell) - Terminal AI
 * [AnimaAI](https://myanima.ai/) - Virtual Companion
 * [InWorld](https://www.inworld.ai/) - Roleplaying Chatbots
@@ -61,7 +62,7 @@
 * ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
 * [EmergentMind](https://www.emergentmind.com/) - ChatGPT Forum
 * [ChatBlade](https://github.com/npiv/chatblade) - ChatGPT Multi-Tool CLI
-* [Text Gen Web UI](https://github.com/oobabooga/text-generation-webui/), [ChatGPTClone](https://github.com/xtekky/chatgpt-clone), [YakGPT](https://yakgpt.vercel.app/) or [TurboGPT.ai](https://turbogpt.ai/) - AI Chat WebUIs
+* [Text Gen Web UI](https://github.com/oobabooga/text-generation-webui/), [ChatGPTClone](https://github.com/xtekky/chatgpt-clone), [YakGPT](https://yakgpt.vercel.app/), [Vicuna](https://vicuna.lmsys.org/) or [TurboGPT.ai](https://turbogpt.ai/) - AI Chat WebUIs
 * [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [TurboGPT](https://github.com/mikebpech/turbogpt.ai), [FreedomGPT](https://freedomgpt.com/) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
 * [Assistant CLI](https://github.com/diciaup/assistant-cli), [ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) or [openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt) - TUIs and CLIs
 * [pyChatGPT](https://github.com/terry3041/pyChatGPT) - Python App
@@ -117,6 +118,7 @@
 * [AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - AI Directory
 * [AI Center](https://www.aicenter.ai/) - AI Directory
 * [Wiki AI Tools](https://www.wikiaitools.com/) - AI Directory
+* [TopApps.Ai](https://topapps.ai/) - AI Directory
 * [Cookup AI](https://cookup.ai/) - AI Directory
 * [SuperTools](https://supertools.therundown.ai/) - AI Directory
 * [iLib](https://www.ilib.com/) -  AI Directory
@@ -207,6 +209,7 @@
 * [ai-content-detector](https://contentatscale.ai/ai-content-detector/)
 * [Corrector App](https://corrector.app/ai-content-detector/)
 * [openai-detector](https://openai-openai-detector.hf.space/) - Detect GPT-2 Text
+* [HideGPT](https://hidegpt.app/) - Mask AI Written Text
 
 ***
 ***
