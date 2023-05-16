@@ -65,7 +65,7 @@
 * [Sbenny's Forum](https://forum.sbenny.com/) - Video / Audio / Software / ROMs / Books / Android / [Discord](https://discord.gg/kf9FKQx)
 * [CyberPhoenix](http://www.cyberphoenix.org/forum/) - Video / Audio / Software / Games / ROMs / Books / Magazines / Comics
 * [dreamteamdownloads1](https://www.dreamteamdownloads1.com/index.php) - Video / Audio / Software / Games / ROMs / Books / Magazines
-* [ReleaseHive](https://www.releasehive.com/) - Video / Audio / Software / Games / Books / NSFW
+* [ReleaseHive](https://releasehive.org/) - Video / Audio / Software / Games / Books / NSFW
 * [DownDuck](http://www.downduck.com/) - Video / Audio / Software / Games / Books / Magazines
 * [AllYouLike](https://allyoulike.org/) - Video / Audio Books / Magazines / Games / ROMs / Software / Android / Comics / NSFW
 * [DDLValley](https://www.ddlvalley.me/) - Video / Audio / Games / ROMs / Software / Android / Books / Comics / Magazines / [Forum](https://forum.ddlvalley.me/)
@@ -79,6 +79,7 @@
 * [TFPDL](https://tfpdl.se/), [2](https://tfpdl.to/) - Video / Software / Games / Magazines / NSFW
 * [Apps4All](https://www.apps4all.com/ ) - Video / Books / Software / Games / Android
 * [Katz DDL](https://katzddl.net/) - Video / Audio / Books / Games / Android / NSFW
+* [FreshWAP](https://www.freshwap.us/), [2](https://freshwap.cc/) - Video / Audio / Software / Games / Android / Books / Magazines  
 * [BadshahUploads](https://badshahuploads.xyz/) - Video / Audio / Software / Games / Books / Leech Required
 * [sarzamindownload](https://www.sarzamindownload.com/) - Software / Games / Android
 * [FrostClick](https://www.frostclick.com/wp/) - Video / Audio / Software / Games / Books
