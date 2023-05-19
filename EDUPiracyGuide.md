@@ -199,7 +199,7 @@
 * [Download Online Tutorials Free](https://download.howtofree.org/) - Udemy Courses
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
 * [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) - [Discord](https://discord.gg/tMzrSxQ)
-* [340GB Linkedin Courses](https://github.com/nbats/FMHYedit/blob/main/base64.md#340gb-linkedin-coursess) or [Linkedin_Learning](https://t.me/linkedin_learning) - Linkedin Courses
+* [Linkedin_Learning](https://t.me/linkedin_learning) - Linkedin Courses
 * [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses
 * [Top Linux Interview Questions & Answers](https://github.com/nbats/FMHYedit/blob/main/base64.md#top-linux-interview-qas) - Linux Interview Q&A
 * [Photoshop Courses](https://github.com/nbats/FMHYedit/blob/main/base64.md#photoshop-courses) - Photoshop Course Drive
