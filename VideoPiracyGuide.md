@@ -24,8 +24,8 @@
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
 * [Tubi](https://tubitv.com) - Movies / TV / Use Adblock / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
 * [SockShare](http://sockshare.ac/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones) / Use Adblock
-* [OpenloadMovies](https://openloadmov.com/) or [Yify TV](https://ytsmovie.tv/) - Movies / TV
 * [2Now.tv](https://2now.tv/) - Movies / TV
+* [OpenloadMovies](https://openloadmov.com/) or [Yify TV](https://ytsmovie.tv/) - Movies / TV
 * [UniqueStream](https://uniquestream.net/) - Movies / TV
 * [Movies.cf](https://pirate-media.vercel.app/) - Movies / [Telegram](https://t.me/netflixvipbox)
 * [FreeTubeSpot](https://www.freetubespot.com/) - Movies
