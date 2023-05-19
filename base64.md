@@ -508,12 +508,6 @@ pass: paluch
 
 ***
 
-#### Cinema EBooks Collection
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9GYzVIakFCVCNrRE5ya0I5N0RQdDlMX2R5c2s0akN3`
-
-***
-
 #### Math and Physics Books
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVozMC05RU82QjBvRXVGSFlNS1V6enpFTzZwODItZFlVCmh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzFqa0ZuVm83MlI4MUJTNUxabVZTMUpBem1mdzFRcEpBNg==`
@@ -523,12 +517,6 @@ pass: paluch
 #### Library Drive
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9iYnduMElySSNmd3hjTTRZaUxKVE8tSG9pR0JLUmpn`
-
-***
-
-#### StruggleBuddies 4.0
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9BMTVneWJqQiNzX3ZhQ0tIVlIzNVg3MDRvdDJnN0xR`
 
 ***
 
@@ -572,12 +560,6 @@ pass: paluch
 #### Critical Thinking
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9aTWx4aFlMQSNzRy1vcHVBRGRrTml1OS1JZGVKTzRR`
-
-*** 
-
-#### /HIS/STORY Collection
-
-`aHR0cHM6Ly9tZWdhLm56LyNGIWRsWmxEYnFMIVRYRzViR3ZXdWZPTmtyUUFMN2I3akE=`
 
 *** 
 
@@ -707,12 +689,6 @@ pass: paluch
 
 *** 
 
-#### 340GB Linkedin Courses
-
-`aHR0cHM6Ly9yZW50cnkuY28vc2thdDk=`
-
-*** 
-
 #### Top Linux Interview Q&A'S
 
 `aHR0cHM6Ly9tZWdhLm56LyNGIUsxTW5sU3pKIWZ5TGhOQTdWX20xejlKWmZQVzBhbGc=`
@@ -764,12 +740,6 @@ pass: paluch
 #### WindowFX Premium
 
 `aHR0cHM6Ly9maWxlY3IuY29tLz9zPVdpbmRvd0ZY`
-
-*** 
-
-#### FLStudio Skins
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9MQkEwQUI0UyN6MFFvRGZGY0prZWgyUVhXdnluWjJR`
 
 *** 
 
