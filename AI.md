@@ -13,6 +13,7 @@
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT-3.5 Based Chatbot
 * ⭐ **[Ora](https://ora.sh/openai/chatgpt)** - GPT-3.5 Based Chatbot
+* ⭐ **[LMSYS](https://chat.lmsys.org/)** - LLM Chatbots
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - Q&A AI
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
@@ -62,7 +63,7 @@
 * ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
 * [EmergentMind](https://www.emergentmind.com/) - ChatGPT Forum
 * [ChatBlade](https://github.com/npiv/chatblade) - ChatGPT Multi-Tool CLI
-* [Text Gen Web UI](https://github.com/oobabooga/text-generation-webui/), [ChatGPTClone](https://github.com/xtekky/chatgpt-clone), [YakGPT](https://yakgpt.vercel.app/), [Vicuna](https://chat.lmsys.org/) or [TurboGPT.ai](https://turbogpt.ai/) - AI Chat WebUIs
+* [Text Gen Web UI](https://github.com/oobabooga/text-generation-webui/), [ChatGPTClone](https://github.com/xtekky/chatgpt-clone), [YakGPT](https://yakgpt.vercel.app/) or [TurboGPT.ai](https://turbogpt.ai/) - AI Chat WebUIs
 * [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [TurboGPT](https://github.com/mikebpech/turbogpt.ai), [FreedomGPT](https://freedomgpt.com/) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
 * [Assistant CLI](https://github.com/diciaup/assistant-cli), [ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) or [openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt) - TUIs and CLIs
 * [pyChatGPT](https://github.com/terry3041/pyChatGPT) - Python App
@@ -217,6 +218,7 @@
 
 # ► Image Generators
 
+* ⭐ **[Zoo](https://zoo.replicate.dev/)** - AI Image Generators
 * ⭐ **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) - AI Image Generator /  [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk) / [Generative Engine](https://experiments.runwayml.com/generative_engine/)
 * ⭐ **[DALL-E](https://labs.openai.com/)** or [ruDALL-E](https://rudalle.ru/) - AI Image Generator / [WorkFlow](https://github.com/jina-ai/dalle-flow), [2](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb) / [CLI](https://github.com/raiyanyahya/dallecli) / [Bing](https://www.bing.com/images/create)
 * ⭐ **[Stability-AI](https://github.com/Stability-AI/stablediffusion)** /  [2](https://huggingface.co/spaces/stabilityai/stable-diffusion) - AI Image Generator / [Discord](https://discord.com/invite/stablediffusion) / [Variations](https://github.com/justinpinkney/stable-diffusion)
