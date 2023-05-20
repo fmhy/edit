@@ -538,7 +538,7 @@
 * [kinoking](https://kinoking.cc/) - Movies / TV / Anime
 * [serienstream](https://serienstream.me/) - TV / Anime
 * [Megakino](https://megakino.org/) - Movies / TV
-* [BS.TO](https://www.bs.to/), [2](https://burningseries.tw/) - TV / Anime / Cartoons
+* [BS.TO](https://www.bs.to/), [2](https://burningseries.tw/) - TV / Anime / Cartoons / [App](https://github.com/DATL4G/Burning-Series)
 * [StreamCloud](https://www2.streamcloud.info/) - Movies / TV
 * [BioskopKaca21](https://62.171.161.107/) - Movies / TV
 * [Kinos](https://www.kinos.to/) - Movies / TV
@@ -820,7 +820,6 @@
 * [JPLearner](http://www.jplearner.to/) - Video / Manga / Magazines
 * [JapanEncodings](https://japanencodings.blogspot.com/) - Movies
 * [arearaw](http://arearaw.com/) - Anime / Use Tor
-* [GameCenter CX Archives](https://github.com/nbats/FMHYedit/blob/main/base64.md#gamecenter-cx-archives) - GameCenter CX Archive
 * [Sukidesuost](https://sukidesuost.info/) - Music / MP3 / FLAC
 * [Hikarinoakariost](https://hikarinoakari.com/) - Music / MP3
 * [JPopSingles](https://www.jpopsingles.eu/) - Music / MP3 / FLAC
