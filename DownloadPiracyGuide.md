@@ -12,6 +12,9 @@
 # ► Download Directories
 
 * **Note** - Some Open Directories grab IP's, so use a VPN or Tor when accessing them.
+
+***
+
 * ⭐ **[Open Directory Indexes](https://github.com/nbats/FMHYedit/blob/main/base64.md#open-directory-indexes)**
 * ⭐ **[/r/opendirectories](https://www.reddit.com/r/opendirectories/)** - Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / /u/ODScanner
 * ⭐ **[Foogle](https://foogle.shivamhw.me/)** - Google Index Search Engine
@@ -23,7 +26,6 @@
 * [Google TeamDrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#google-teamdrives)
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28)
 * [Shiba](https://github.com/nbats/FMHYedit/blob/main/base64.md#shiba)
-* [GDrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#game-drive)
 * [KL Teamdrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#kl-teamdrive)
 * [Cloud Eleventh Hour](https://github.com/nbats/FMHYedit/blob/main/base64.md#cloud-eleventh-hour)
 * [Xtremecloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#xtremecloud)
@@ -44,7 +46,10 @@
 
 # ► Download Sites
 
-* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip link shorteners
+* **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip link shorteners.
+
+***
+
 * ⭐ **[SoftArchive](https://sanet.st)** or [Sanet.lc](https://sanet.lc/) - Video / Audio / Games / Software / Android / Books / Comics / Newspapers / Magazines / [Status](https://sastatus.com/)
 * ⭐ **[DirtyWarez](https://forum.dirtywarez.com/)** - Video / Audio / Games / Software / Books / Comics
 * ⭐ **[Team OS](https://www.teamos.xyz/)** - Software / Games / Books / Android
@@ -116,6 +121,9 @@
 ## ▷ Search Sites
 
 * **Note** - These aggregate from multiple sources, so it's best to avoid them for software / games.
+
+***
+
 * ⭐ **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h) - Multi-Site Search
 * ⭐ **[FilePursuit](https://filepursuit.com)** - [Discord](https://discord.gg/xRfFd8h)
 * ⭐ **[4Shared](https://www.4shared.com/)** - Video / Audio / Games / Software / Android
