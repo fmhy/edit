@@ -870,7 +870,6 @@ Simulator
 * [Perplexity](https://www.perplexity.ai/) - Q&A AI
 * [AnswerSocrates](https://answersocrates.com/) - Most Asked Questions on Google
 * [Edgibot](https://www.edgilearning.com/), [Tutorly](https://tutorly.ai), [Caktus](https://www.caktus.ai/), [Answers Exchange](https://discord.gg/GFp9Rvr), [Get Unstuck](https://socratic.org/), [sarthaks](https://www.sarthaks.com/) or [Brainly](https://brainly.com/) - Homework Help Bots / Communities
-* [Chegg Answers](https://www.istaunch.com/how-to-get-chegg-answers-for-free/#2_Free_Chegg_Answers_by_iStaunch), [2](https://creativesavantz.com/how-to-access-chegg-solutions-for-free/), [3](https://litanswers.net/get-free-chegg-answers/), [4](https://techpanga.com/free-chegg-answer/), [5](https://trickswire.com/free-chegg-answers/), [6](https://www.rootupdate.com/free-chegg-answers/), [7](https://homeworkify.net/) - Chegg Answers
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
 * [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
 * [GradesFixer](https://www.gradesfixer.com/) - Essay Samples
