@@ -49,7 +49,7 @@
 * [AI Anything](https://aianything.netlify.app/) - Create Chatbots
 * [Alt-GPT](https://github.com/Feedox/alt-gpt) - Create GPT Plugins
 * [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Autonomous GPT-4
-* [MicroGPT](https://github.com/muellerberndt/micro-gpt) - Autonomous GPT-3.5 / GPT-4
+* [MiniAGI](https://github.com/muellerberndt/mini-agi) - Autonomous GPT-3.5 / GPT-4
 * [Kajiwoto](https://kajiwoto.com/), [Miki](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
 
 ***
@@ -57,18 +57,18 @@
 ## ▷ ChatGPT Tools
 
 * ⭐ **[Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)**, [GPT Resources](https://airtable.com/shrWat9yoXFwOXWQ0/tblxXHpcpjn1POWnh), [WikiGPT3](https://www.wikigpt3.com/), [Awesome-GPT4](https://github.com/radi-cho/awesome-gpt4) or [SaaS GPTers](https://saasgpters.com/) - ChatGPT Resources
-* ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [2](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) or [Merlin](https://merlin.foyer.work/) - Enhancement Extensions
+* ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [2](https://chrome.google.com/webstore/detail/superpower-for-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) or [Merlin](https://merlin.foyer.work/) - Enhancement Extensions
 * ⭐ **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
 * ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
 * [EmergentMind](https://www.emergentmind.com/) - ChatGPT Forum
 * [ChatBlade](https://github.com/npiv/chatblade) - ChatGPT Multi-Tool CLI
-* [Text Gen Web UI](https://github.com/oobabooga/text-generation-webui/), [ChatGPTClone](https://github.com/xtekky/chatgpt-clone), [YakGPT](https://yakgpt.vercel.app/), [Vicuna](https://vicuna.lmsys.org/) or [TurboGPT.ai](https://turbogpt.ai/) - AI Chat WebUIs
+* [Text Gen Web UI](https://github.com/oobabooga/text-generation-webui/), [ChatGPTClone](https://github.com/xtekky/chatgpt-clone), [YakGPT](https://yakgpt.vercel.app/), [Vicuna](https://chat.lmsys.org/) or [TurboGPT.ai](https://turbogpt.ai/) - AI Chat WebUIs
 * [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [TurboGPT](https://github.com/mikebpech/turbogpt.ai), [FreedomGPT](https://freedomgpt.com/) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
 * [Assistant CLI](https://github.com/diciaup/assistant-cli), [ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) or [openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt) - TUIs and CLIs
 * [pyChatGPT](https://github.com/terry3041/pyChatGPT) - Python App
 * [GPTPrompter](https://www.gptprompter.com/), [ChatHub](https://github.com/chathub-dev/chathub) or [ChatGPTBox](https://github.com/josStorer/chatGPTBox) - ChatGPT Browser Extensions
 * [WeChat ChatGPT](https://github.com/fuergaosi233/wechat-chatgpt) - ChatGPT for WeChat
-* [ChatGPT Advanced](https://github.com/qunash/chatgpt-advanced) - Add Search Results to ChatGPT
+* [ChatGPT Advanced](https://tools.zmo.ai/webchatgpt) - Add Search Results to ChatGPT / [Discord](https://discord.com/invite/pkZ3wwuT)
 * [ChatGPT4Google](https://chatgpt4google.com/), [SublimeGPT](https://chrome.google.com/webstore/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea), [ChatGPT Search](https://greasyfork.org/en/scripts/456077), [ChatGPTGoogle](https://github.com/wong2/chatgpt-google-extension) or [ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Add ChatGPT to Search Results
 * [ShareGPT](https://sharegpt.com/) / [Unfiltered](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
 * [ChatGPT Notification](https://chrome.google.com/webstore/detail/chatgpt-notification/eklmiefkbieejjjhmpjdllphmcjdndin) - Receive Notifications
@@ -116,14 +116,14 @@
 * [topai](https://topai.tools/) - AI Directory
 * [TheresAnAIForThat](https://theresanaiforthat.com/) - AI Directory
 * [AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - AI Directory
-* [AI Center](https://www.aicenter.ai/) - AI Directory
+* [AI Center](https://aicenter.ai/) - AI Directory
 * [Wiki AI Tools](https://www.wikiaitools.com/) - AI Directory
 * [TopApps.Ai](https://topapps.ai/) - AI Directory
 * [Cookup AI](https://cookup.ai/) - AI Directory
 * [SuperTools](https://supertools.therundown.ai/) - AI Directory
 * [iLib](https://www.ilib.com/) -  AI Directory
 * [RunwayML](https://runwayml.com/) - Browser Based AI
-* [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - AI Experiments
+* [Experiments with Google](https://labs.withgoogle.com/) - AI Experiments
 * [OpenCV](https://opencv.org/) - A.I. Vision Library
 * [OpenCog](https://opencog.org/) or [AForge](https://github.com/andrewkirillov/AForge.NET) - Artificial Intelligence Frameworks
 * [free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - AI Learning Resources
@@ -150,7 +150,7 @@
 * [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - Story Writing AI / [GGML Models](https://github.com/LostRuins/koboldcpp)
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [GodAI](https://awk.itch.io/godai) - Story Writing AI
-* [Tome](https://beta.tome.app/) - Story Writing AI
+* [Tome](https://tome.app/) - Story Writing AI
 * [Unconventional Text Writer](https://unconventional-text-writer.netlify.app/) - Unconventional Text AI
 * [Character Creator](https://oobabooga.github.io/character-creator) - Character Generation AI
 * [GPTForSlides](https://www.gptforslides.app/) or [Chat-GPT-PPT](https://github.com/williamfzc/chat-gpt-ppt) - Presentation AIs
@@ -171,7 +171,7 @@
 * [Basaran](https://github.com/hyperonym/basaran) - Text Autocomplete AI
 * [Compose](https://www.compose.ai/) - Text Autocomplete AI Extension
 * [InkForAll](https://app.inkforall.com/tools) - Multiple AI Text Tools
-* [SheetPlus](https://sheetplus.ai/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [ExcelFormulaBot](https://excelformulabot.com/) - Excel AI Tools
+* [SheetPlus](https://sheetplus.ai/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [FormulaBot](https://formulabot.com/) - Excel AI Tools
 * [GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) - Text Classification AI
 * [Image2Paragraph](https://github.com/showlab/Image2Paragraph) - Image to Descriptive Paragraph
 * [MathGPT](https://mathgpt.streamlit.app/) - Math Solving AI
@@ -208,7 +208,7 @@
 * [chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)
 * [ai-content-detector](https://contentatscale.ai/ai-content-detector/)
 * [Corrector App](https://corrector.app/ai-content-detector/)
-* [openai-detector](https://openai-openai-detector.hf.space/) - Detect GPT-2 Text
+* [openai-detector](https://openai-openai-detector--lvcsj.hf.space/) - Detect GPT-2 Text
 * [HideGPT](https://hidegpt.app/) - Mask AI Written Text
 
 ***
@@ -217,12 +217,12 @@
 # ► Image Generators
 
 * ⭐ **[Craiyon](https://www.craiyon.com/)** / [2](https://hotpot.ai/dalle-mini) - AI Image Generator /  [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb) / [Fix](https://youtu.be/eq5Ckrzc6kk) / [Generative Engine](https://experiments.runwayml.com/generative_engine/)
-* ⭐ **[DALL-E](https://labs.openai.com/)** or [ruDALL-E](https://rudalle.ru/en/) - AI Image Generator / [WorkFlow](https://github.com/jina-ai/dalle-flow), [2](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb) / [CLI](https://github.com/raiyanyahya/dallecli) / [Bing](https://www.bing.com/images/create)
+* ⭐ **[DALL-E](https://labs.openai.com/)** or [ruDALL-E](https://rudalle.ru/) - AI Image Generator / [WorkFlow](https://github.com/jina-ai/dalle-flow), [2](https://colab.research.google.com/github/jina-ai/dalle-flow/blob/main/client.ipynb) / [CLI](https://github.com/raiyanyahya/dallecli) / [Bing](https://www.bing.com/images/create)
 * ⭐ **[Stability-AI](https://github.com/Stability-AI/stablediffusion)** /  [2](https://huggingface.co/spaces/stabilityai/stable-diffusion) - AI Image Generator / [Discord](https://discord.com/invite/stablediffusion) / [Variations](https://github.com/justinpinkney/stable-diffusion)
 * ⭐ **[DeepAI](https://deepai.org/machine-learning-model/stable-diffusion)** / [2](https://deepai.org/machine-learning-model/text2img) - AI Image Generator / [Tools](https://deepai.org/apis)
 * ⭐ **[MagicBrush](https://www.magicbru.sh/)**, [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - AI Image Transformers
 * ⭐ **[Lexica](https://lexica.art/)**, [PixAI](https://pixai.art/), [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) or [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
-* ⭐ **[SD WebUI](https://github.com/cmdr2/stable-diffusion-ui)** / [2](https://github.com/neonsecret/stable-diffusion-webui) / [3](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [4](https://github.com/Sygil-Dev/sygil-webui) / [5](https://github.com/ddPn08/Lsmith) / [6](https://github.com/vladmandic/automatic) - Stable Diffusion WebUI / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Colab](https://github.com/pinilpypinilpy/sd-webui-colab-simplified), [2](https://github.com/camenduru/stable-diffusion-webui-colab)
+* ⭐ **[SD WebUI](https://github.com/cmdr2/stable-diffusion-ui)** / [2](https://github.com/neonsecret/stable-diffusion-webui) / [3](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [4](https://github.com/Sygil-Dev/sygil-webui) / [5](https://github.com/ddPn08/Radiata) / [6](https://github.com/vladmandic/automatic) - Stable Diffusion WebUI / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Colab](https://github.com/pinilpypinilpy/sd-webui-colab-simplified), [2](https://github.com/camenduru/stable-diffusion-webui-colab)
 * ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - List of Stable Diffusion Models
 * ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** - Determine Likely Used Image Prompts
@@ -242,7 +242,7 @@
 * [Stable Diffusion Web](https://stablediffusionweb.com/) - AI Image Generator
 * [GetIMG.ai](https://getimg.ai/) - AI Image Generator
 * [PlaygroundAI](https://playgroundai.com/) - AI Image Generator
-* [StableCog](https://stablecog.com/) - AI Image Generator
+* [StableCog](https://stablecog.com/) - AI Image Generator / [Discord](https://discord.com/invite/AJyYd6AUEn) / [Github](https://github.com/stablecog/stablecog)
 * [Prodia](https://app.prodia.com/) - AI Image Generator
 * [Visuali](https://visuali.io/) - AI Image Generator
 * [Ocriador](https://ocriador.app/) - AI Image Generator
