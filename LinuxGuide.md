@@ -354,7 +354,6 @@
 * ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games
 * [winesapOS](https://github.com/LukeShortCloud/winesapOS) - Play Games on Storage Devices 
 * [GameHub](https://tkashkin.github.io/projects/gamehub/) or [Steal](https://github.com/AbdelrhmanNile/steal) - Game Managers
-* [Free Linux PC Games](https://freelinuxpcgames.com/) - Linux Games
 * [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/) - Wiki for Linux Gaming / [Sub Wiki](https://linux-gaming.kwindu.eu/)
 * [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)
 * [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) - Install & Manage Proton-GE for Steam / Wine
