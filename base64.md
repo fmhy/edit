@@ -393,12 +393,6 @@ pass: paluch
 
 ***
 
-#### Temple of Solomon the King
-
-`aHR0cHM6Ly9tZWdhLm56LyNGIVNmWnlVWVJLIXlXN3BfTGtXdG9vUWFWWjNWcjZXTFEKaHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9pZzBDQmJMUyNwR3lfNExGSVhLZHRGX0V5NUNWQ2R3L2ZvbGRlci9UcFZHM0lUWQpodHRwczovL21lZ2EubnovZm9sZGVyL2psRXdoWXlKI2lLNG1WQzR5NWl3a19jcjNlSXBYNGc=`
-
-***
-
 #### Esoteric Library
 
 `aHR0cHM6Ly9tZWdhLm56LyNGIWpOOEdUU2FKIXhONng1UHY5ZGhxVDZ5TGhPNnIyT3c=`
@@ -662,12 +656,6 @@ pass: paluch
 #### Course Megadrives
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9wQWwwd1JLSyNGSVp6Yllqa1RfMDlxUlQ1QlMyR1hRIApodHRwczovL21lZ2EubnovZm9sZGVyLzR0NGhoQ1RhI3pJaU1aQlJWQWliQVR0SHh3UTJiX3cgCmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvaUlzRWtiNEIjNHRkTkhVWVRLVEpEZUl4STJGWkUzQSAKaHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9COUIxaUlaTCMxR1l4ZVZhVGozcHJ4U1I4a0R5UnlRIApodHRwczovL21lZ2EubnovZm9sZGVyL3NocHowQUNRI3RkeWFRaTlIY1ZNLW9LSDlOeFZld0EgCmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvbG01bGdReFQjUWg1MllxRTAta3dQXy1lV29oTUJidyAKaHR0cHM6Ly9tZWdhLm56L2ZvbGRlci95dTRTM0JKUSNiaHRBLU9JZVEyYm51TTJiUGNVMndRL2ZvbGRlci9IcjRHWFQ0TApodHRwczovL21lZ2EubnovZm9sZGVyL0s2NW5rWUNBI2FsazhRc3VkeEhPeENDUkZNbERDSmc=`
-
-*** 
-
-#### Course Pastebins
-
-`aHR0cHM6Ly9wYXN0ZWJpbi5jb20valFCMXNoSmcKaHR0cHM6Ly9wYXN0ZWJpbi5jb20vWjdMM1lwemQ=`
 
 *** 
 
@@ -953,12 +941,6 @@ pass: paluch
 
 ***
 
-#### GameCenter CX Archives
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL0BnYW1lY2VudGVyY3g=`
-
-***
-
 #### K1n013f0ur's Pastebin
 
 `aHR0cHM6Ly9wYXN0ZWJpbi5jb20vdS9rMW4wMTNmMHVy`
@@ -1031,24 +1013,6 @@ pass: paluch
 
 ***
 
-#### FreeCodeChamp Archive
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU1fR0RNYVJ3RkRCX1VHMHktV1FkTnFUeEx4Y2hsemdsP3VzcD1zaGFyaW5n`
-
-***
-
-#### Java Beginners
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUFLZ2E1RjZVekhGaHZ1TVBsOXpXZjZNR3hKWmZiaGFj`
-
-***
-
-#### Top Database Bundle
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXJ4bnROY3FRUFFQT2VJZnpFMFlMNE5FdFVuY1VzckpK`
-
-***
-
 #### Canva Premium 
 
 `aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1DYW52YSsmc3I9dG9waWNzJnNmPXRpdGxlb25seQ==`
@@ -1093,7 +1057,7 @@ pass: paluch
 
 #### Icon Drives
 
-`aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZG9jdW1lbnQvZC8xMVZTbDhEWjdueG1Dcy1BdlVpdkNfVzA0N192ODBGMk1jTVBXREhpcE1VMC9lZGl0Cmh0dHBzOi8vbWVnYS5uei9maWxlL1E1QXpFUVlCI2MySDRnYVZ6VkhBT3dvNDVEYWZkbERzZDM0MFNoTnhkY19DelN3ZEJNR0UKaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMEJfVm1iVnlENGVUM04xVlViR040V2pkNU9WRT9yZXNvdXJjZWtleT0wLVY1bkNUSDlldEEweUI3YTRYWk9oOXcKaHR0cHM6Ly9tZWdhLm56L2ZpbGUvVjFObWlSeUsja0xXZVN3UDN0eDhnenVYcEp5dlZQREVYeWlzT0ljc0JtT0UzcHZkVTB5RQ==`
+`aHR0cHM6Ly9tZWdhLm56L2ZpbGUvVjFObWlSeUsja0xXZVN3UDN0eDhnenVYcEp5dlZQREVYeWlzT0ljc0JtT0UzcHZkVTB5RQ==`
 
 ***
 
@@ -1136,12 +1100,6 @@ pass: paluch
 #### Wordpress Themes
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9hSm9ERmFvSSN0dEdRd0cyb3BGOFlVVDZGWWlDSVB3`
-
-***
-
-#### Game Drive
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL3UvMC9mb2xkZXJzLzFWWjUzbF9HM1BwUXJpRDh4dnFIMjZnTDBoMG9IUTA4Zg== `
 
 ***
 
@@ -1434,12 +1392,6 @@ pass: paluch
 
 ***
 
-#### SAT Curriculum
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU55cmQzU1B3UUZGdTJRLWMxbDF2NmNyTGRtc1YzVGtz`
-
-***
-
 #### CourseDL
 
 `aHR0cHM6Ly93d3cuY291cnNlZGwub3JnLw==`
@@ -1485,9 +1437,3 @@ pass: paluch
 #### BMzone
 
 `aHR0cHM6Ly9kZGwuYm16b25lLndvcmtlcnMuZGV2LzA6Lw==`
-
-***
-
-#### NFCrew
-
-`aHR0cHM6Ly9uZXRmbGl4Y3Jldy5yYWh1bGluc3RpbmN0LndvcmtlcnMuZGV2LzA6Lw==`
