@@ -12,7 +12,7 @@
 
 ## ▷ Streaming Apps
 
-* ⭐ **[Spotify Client](https://www.spotify.com/us/download/)**, [Lofi Rocks](https://www.lofi.rocks/), [ncspot](https://github.com/hrkfdn/ncspot), [Strix](https://www.strixmusic.com/) or [SpoTube](https://github.com/KRTirtho/spotube) - Spotify Clients / [Android TV](https://github.com/nbats/FMHYedit/blob/main/base64.md#android-tv-spotify)
+* ⭐ **[Spotify Client](https://www.spotify.com/us/download/)**, [Lofi Rocks](https://www.lofi.rocks/), [ncspot](https://github.com/hrkfdn/ncspot), [Strix](https://www.strixmusic.com/) or [SpoTube](https://spotube.netlify.app/) - Spotify Clients / [Android TV](https://github.com/nbats/FMHYedit/blob/main/base64.md#android-tv-spotify)
 * ⭐ **[Spotify Tools / Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - Spotify Tools, Adblockers and Customization
 * ⭐ **[BetterSoundCloud](https://bsc.alirezakj.com/)** - Soundcloud Client
 * ⭐ **[YouTube Music Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_music_players)**
@@ -58,6 +58,7 @@
 * [Cliggo](https://music.cliggo.com/) - Browser Music
 * [Mixupload](https://mixupload.com/) - Browser Music
 * [DMO](https://dance-music.org/) - Electronic
+* [Mixing.dj](https://mixing.dj/) - DJ Mixes
 * [OldSkoolMP3](https://oldskoolmp3.com/OldSkool/) - Oldschool Electronic
 * [Vapor Archive](https://vaporarchive.neocities.org/) - Vaporwave
 * [hypem](https://hypem.com/popular) - Rising
@@ -172,9 +173,10 @@
 
 * ⭐ **[Chillhop](https://chillhop.com/)** - Lofi Radio
 * ⭐ **[lofi.cafe](https://www.lofi.cafe/)** - Lofi Radio
+* ⭐ **[CityHop](https://www.cityhop.cafe/)** - Lofi Radio / City Walks
 * ⭐ **[Ambient Rain Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ambient_rain_sounds)** - Ambient Rain
 * ⭐ **[LifeAt](https://lifeat.io/)** - Virtual Study / Work Spaces
-* ⭐ **[Coding Cat](https://hostrider.com/)** - Nyan Cat's Cousin / Lofi  Radio
+* ⭐ **[Coding Cat](https://hostrider.com/)** - Lofi Radio / Nyan Cat's Cousin
 * ⭐ **[HaloMe.nu](https://halome.nu/)** - Halo Menu Screens
 * ⭐ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_relaxation) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_relaxation)** - Ambient Mobile Apps 
 * [Ambicular](https://ambicular.com/) - Lofi  Radio
@@ -237,7 +239,7 @@
 
 ## ▷ Download Apps
 
-* ⭐ **[Music Ripping Guide](https://ori5000.github.io/musicripping.html)** / [2](https://rentry.org/florinsmusicrippingguide)
+* ⭐ **[Music Ripping Guide](https://ori5000.github.io/musicripping.html)**, [Florin](https://rentry.org/florinsmusicrippingguide) or [Firehawk](https://rentry.org/firehawk52) - Audio Downloading / Ripping Guides
 * ⭐ **[Slavart](https://discord.gg/NgPJTt3WK3)** - Multi-Site Audio Download App / [Site](https://slavart.gamesdrive.net/), [2](https://gamesdrive.net/) / [Divolt](https://slavart.divolt.xyz) / [Telegram](https://t.me/+9znaxmYJB5lkNzA8) / [Qobuz Copy](https://rentry.co/qobuz-slavart)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Audio Download Web App
 * ⭐ **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Download from Spotify
@@ -274,10 +276,10 @@
 
 * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners.
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
-* ⭐ **[Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)** - ctrl+f and type "audio"
 * ⭐ **[Free MP3 Download](https://free-mp3-download.net/)** - Search / MP3 / FLAC
 * ⭐ **[Mudome](https://mudome.org/)** - MP3 / FLAC
 * ⭐ **[Damon's Game Soundtracks](https://github.com/nbats/FMHYedit/blob/main/base64.md#damons-game-soundtracks)**, [Squid-Board](https://www.squid-board.org/), [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://codeberg.org/sun/VGMLoader) / [2](https://github.com/obskyr/khinsider) / [3](https://github.com/weespin/KhinsiderDownloader), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/), [VGMPF](http://www.vgmpf.com/) or [Zophar's](https://www.zophar.net/music) - Video Game Soundtracks
+* [General Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "audio"
 * [The Last Disaster](https://thelastdisaster.vip/) - Metal / Hardcore / Rock / MP3 / FLAC
 * [SongsLover](https://songslover.vip/) - MP3
 * [VKMusic](https://denr01.com/vkm/) - MP3 / User: anon / pass: 12345
@@ -301,6 +303,7 @@
 * [CannaPower](https://canna-power.to) - MP3 / [Telegram](https://t.me/cannapower)
 * [24NaiJamMuzic](https://www10.24naijamuzic.com/) - MP3
 * [musify](https://musify.club/) - MP3
+* [GloryBeats](https://glorybeats.com/) - MP3
 * [Funky Souls](https://forum.funkysouls.org/), [2](https://funkysouls.org/) - MP3
 * [Music for the masses !](https://github.com/nbats/FMHYedit/blob/main/base64.md#music-for-the-masses-) - MP3
 * [Cliggo](https://music.cliggo.com/) - MP3
@@ -336,6 +339,7 @@
 * [Moe:81](https://github.com/nbats/FMHYedit/blob/main/base64.md#moe81) - MP3 / FLAC
 * [Plastinka](https://plastinka.org/) - MP3 / FLAC
 * [Exystence](http://exystence.net/) - MP3 / FLAC  
+* [ThemFire](https://themfire.pro/) - MP3 / FLAC  
 * [FindFlac](http://findflac.com/) - FLAC / MP3 / MP4 
 * [iPlusFree](http://www7.iplusfree.org/) - iTunes M4A 
 * [iTDMusic](https://itdmusic.in/) - iTunes M4A 
@@ -384,6 +388,7 @@
 * [MeetingInMusic](https://meetinginmusic.blogspot.com/) - Classical / MP3
 * [Kiddie Records](http://www.kiddierecords.com/) - Classic Children's Records
 * [HQ Hip Hop](http://94hiphop.com/) - Hip Hop / MP3 / FLAC
+* [GoldHipHop](https://goldhiphop.pro/) - Hip Hop / MP3 / FLAC
 * [Rapload](https://rapload.org/) - Hip Hop / MP3
 * [HipHopa](https://hiphopa.net/) - Hip Hop / MP3
 * [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 /FLAC
@@ -414,12 +419,12 @@
 
 * **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting
 * ⭐ **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Multi-Site Search
-* ⭐ **[Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)** - ctrl+f and type "audio"
 * ⭐ **[Redacted](https://interviewfor.red/)** - MP3 / FLAC
 * ⭐ **[Orpheus](https://orpheus.network/)** - MP3 / FLAC / [Interviews](https://interview.orpheus.network/)
 * ⭐ **[Redtopia](https://github.com/nbats/FMHYedit/blob/main/base64.md#redtopia)** - Redtopia Repository / FLAC
 * ⭐ **[SolidTorrents](https://solidtorrents.to/)** - MP3 / FLAC / [/r/SolidTorrents](https://reddit.com/r/SolidTorrents)
 * ⭐ **[Lidarr](https://github.com/Lidarr/Lidarr)** or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
+* [General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f and type "audio"
 * [DimeADozen](http://www.dimeadozen.org/) - MP3 / FLAC
 * [TheTradersDen](http://www.thetradersden.org/) - FLAC
 * [HQMusic](http://hqmusic.info/) - FLAC / Signup Required
