@@ -25,7 +25,7 @@
 * ⭐ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)** - Artificial Intelligence Indexes
 * ⭐ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
 * ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Archiving Tool
-* ⭐ **[FMHY Guides](https://www.fmhy.ml/guides)**, [Sineater's Cove](https://discord.gg/nKstg6x), [blooem](https://blooem.pages.dev/) or [Pirate Haven](https://pirate-haven.github.io/) - Piracy Guides
+* ⭐ **[FMHY Guides](https://www.fmhy.ml/guides)**, [blooem](https://blooem.pages.dev/) or [Pirate Haven](https://pirate-haven.github.io/) - Piracy Guides
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
 * [WebOas.is](https://weboasis.app/), [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.club/) - Startpage / Site Index / [Forum](https://weboasis.app/forum/) / [Source Code](https://pastebin.com/CczqreS4) / [Archive](https://rentry.co/e9y6b) / [FAQ](https://bin.disroot.org/?6a50fab15330b762#7VwnxM9Jsvp8wWmW6eFmmxyXppWVjErn4CMgd8wii9pC)
 * [Alternative Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - Find Software / App Alternatives
@@ -109,13 +109,11 @@
 * [sourcehut](https://sr.ht/) - Public Project Index
 * [PiracyBank](https://piracybank.org/websites) - List of sites tagged for copyright, mostly dead 
 * [Creamy's Homemade List](https://docs.google.com/document/d/1t10VI-sccy1CfAeMZHwmCS_7agIHFo_B5ipMjzsMtTg/edit) / [2](https://web.archive.org/web/20191130224152/https://pastebin.com/3e2RddP5), [ImageBoards](https://imageboards.net/), [Chan List](https://archive.is/Npzwl) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - Imageboard Index
-* [imageboards.json](https://gitgud.io/iblist/imageboards.json) or [textboards.json](https://gitgud.io/iblist/textboards.json) - Image / Textboard .json
 * [Awesome ACG](https://github.com/soruly/awesome-acg) - Anime Tool Index 
-* [Tsuk1ko](https://github.com/Tsuk1ko) - Anime Tool Repositories
 * [Anilinks](https://anilinks.neocities.org/) - Anime Related Site Index 
 * [10kb Club](https://10kbclub.com/), [250kb Club](https://250kb.club/), [512kb Club](https://512kb.club/), [1MB Club](https://1mb.club/) - Websites that don't exceed a certain size
 * [LowTech Directory](https://emreed.net/LowTech_Directory.html) - Low Tech Site Index
-* [The Geocities Gallery](https://geocities.restorativland.org/) or [404PageFound](https://www.404pagefound.com/) - Old Site Indexes
+* [404PageFound](https://www.404pagefound.com/) - Old Site Indexes
 * [endoflife.date](https://endoflife.date/) - Tools & Technologies' End of life Index
 * [KilledByGoogle](https://killedbygoogle.com/) - Dead Google Project Index
 * [KilledByMicrosoft](https://killedbymicrosoft.info/) - Dead Microsoft Project Index
@@ -177,8 +175,7 @@
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) - Piracy News
 * ⭐ **[Tech News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tech_news)** - Tech News
 * ⭐ **[YCombinator](https://news.ycombinator.com/)** / [Highlighter](https://greasyfork.org/en/scripts/39311), [Hacki](https://github.com/Livinglist/Hacki), [HarmonicHackerNews](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [Glider](https://github.com/Mosc/Glider) [hckrnws](https://www.hckrnws.com/), [algolia](https://hn.algolia.com/), [Hackers](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901), [news.social-protocols](https://news.social-protocols.org) or [HackerWebApp](https://hackerwebapp.com/) - Hacker News
-* [Flutter News](https://github.com/CoderJava/Flutter-News-App), [BoringReport](https://www.boringreport.org/), [Artifact](https://artifact.news/) or [Volv](https://play.google.com/store/apps/details?id=com.volvmedia.volvapp) - Android News Apps
-* [RavenReader](https://ravenreader.app/) - News Article Manager
+* ⭐ **[BoringReport](https://www.boringreport.org/)**, [Artifact](https://artifact.news/) or [Volv](https://play.google.com/store/apps/details?id=com.volvmedia.volvapp) - Android News Apps
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - How to bypass article paywalls
 * [JustRead](https://justread.link/) - Ad-Free Article Viewer
 * [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - Generate Article Summaries
@@ -196,6 +193,7 @@
 * [Netblocks](https://netblocks.org/) - Censorship News
 * [CBM](https://comicbookmovie.com/) - Comic, Movie & TV News
 * [AnotherDayAnotherDecade](https://www.anotherdayanotherdecade.com/) - AI News
+* [NewsNotFound](https://newsnotfound.com/) - Unbiased AI Generated News
 * [Tudum](https://www.netflix.com/tudum) - Netflix News
 * [Anime News Network](https://www.animenewsnetwork.com/) - Anime News
 * [Anime Corner](https://animecorner.me/) - Anime / Manga News
@@ -391,7 +389,7 @@
 * [healthgrades](https://www.healthgrades.com/right-care/health-content-a-z), [epocrates](https://online.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
 * [osh](https://www.osh.net/) - Occupational Health and Safety Resources
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
-* [Nomie](https://v5.nomie.app/) - Habit / Mood Tracker
+* [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Habit / Mood Trackers
 * [BreakFree](https://breakfree-2c089.web.app/) - Break Smoking Habits
 * [ZeroPercent](https://zeropercent.club/) - Break Drinking Habits
 * [Sobriety](https://github.com/KiARC/Sobriety) - Sobriety Tracker
@@ -430,16 +428,16 @@
 * [/r/Fexibility](https://www.reddit.com/r/flexibility/) - Flexibility Subreddit
 * [My Pacer](https://www.mypacer.com/) - Fitness App / Pedometer
 * [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness / Health App
-* [FitoTrack](https://codeberg.org/jannis/FitoTrack) - Fitness Tracker
+* [FitoTrack](https://codeberg.org/jannis/FitoTrack) or [openScale](https://github.com/oliexdev/openScale) - Fitness Trackers
 * [Liftosaur](https://www.liftosaur.com/) - Weight Lifting Tracker / [GitHub](https://github.com/astashov/liftosaur)
 * [MuscleWiki](https://musclewiki.com/) - Muscle / Exercise Information Tool 
-* [SPSS Tutorials ](https://www.spss-tutorials.com/) - SPSS Practice & Examples
+* [SPSS Tutorials](https://www.spss-tutorials.com/) - SPSS Practice & Examples
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
 * [Fitocracy](https://www.fitocracy.com/) - Create Workout Plans
 * [DAREBEE](https://darebee.com/) - Fitness Plans / Workouts
 * [Hevy](https://www.hevyapp.com/), [Iron](https://github.com/kabouzeid/Iron), [Massive](https://gitea.presley.nz/brandon.presley/Massive), [Advagym](https://advagymsolutions.com/user-app/), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines) or [FitHero](https://fithero.app/) - Workout Trackers
 * [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
-* [GoldenCheetah](https://www.goldencheetah.org/) or [BikeComputer](https://f-droid.org/packages/de.nulide.bikecomputer/) - Biking Tracker
+* [GoldenCheetah](https://www.goldencheetah.org/), [AAT](https://bailu.ch/aat/) or [BikeComputer](https://f-droid.org/packages/de.nulide.bikecomputer/) - Biking Trackers
 * [AllTrails](https://www.alltrails.com/) - Hiking Routes
 * [HikerHerd](https://www.hikerherd.com/) - Hiking Gear Weight Manager
 * [MapMyWalk](https://www.mapmywalk.com/) - Walking Tracker
@@ -454,6 +452,7 @@
 * [Tone-Deafness Test](https://www.themusiclab.org/quizzes/td) - Pitch Perception Test
 * [INCIDecoder](https://incidecoder.com/) - Skincare Ingredient Lists
 * [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - Remedies for Sores on Tongue
+* [PainManagementWiki](https://www.painmanagement.wiki/) - Interactive Pain Management Wiki
 * [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - Interactive Self Care Guide
 * [deskspace](https://npckc.itch.io/deskspace) - Self-Care App
 * [DrugFree](https://drugfree.org/) - Drug Abuse Prevention & Recovery Help
@@ -907,7 +906,7 @@
 * [Default Bookmark Folder](https://addons.mozilla.org/en-US/firefox/addon/default-bookmark-folder/) - Change Default Bookmark Folder
 * [SaveForReadLater](https://addons.mozilla.org/en-US/firefox/addon/saveforreadlater/) - Save Pages to Read Later 
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search Search 
-* [PopUp Encyclopedia](https://addons.mozilla.org/en-US/firefox/addon/popup-encyclopedia/) - Popup Encyclopedia & Dictionary 
+* [PopUp Encyclopedia](https://addons.mozilla.org/en-US/firefox/addon/popup-encyclopedia/) or [Multilingual-fox](https://github.com/parksb/multilingual-fox) - Popup Encyclopedias / Dictionaries
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain 
 * [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
 * [OnelineProton](https://github.com/newmanls/OnelineProton) - Proton Theme for Firefox
@@ -1469,7 +1468,6 @@
 * [VentScape](https://www.ventscape.life/) or [PostSecretVoicemail](https://www.postsecretvoicemail.com/) - Speak into a Void
 * [Gizoogle](http://www.gizoogle.net/) - Google Shiznit
 * [Presence](https://presence.mrarich.com/) - Unwrap Presents Remotely
-* [Outside Simulator](https://outsidesimulator.com/) - Simulate Being Outside
 * [WindowSwap](https://window-swap.com/window) or [VisualVacation](https://virtualvacation.us/window) - Open Random Windows
 * [Land Lines](https://lines.chromeexperiments.com/) - Explore Google Earth via Gestures
 * [Judgey](http://playjudgey.com/) - Judge A Book By Its Cover
