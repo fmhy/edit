@@ -3453,7 +3453,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Youtube Android Apps
 
-* ⭐ **[ReVanced APKs](https://revanced-apks.pages.dev/)** or [ReVanced Auto](https://revanced-auto-apk.pages.dev/) - Latest Revanced Apps
+* ⭐ **[ReVanced APKs](https://revanced-apks.pages.dev/)**, [ReVanced Auto](https://revanced-auto-apk.pages.dev/) or [RVX Lite](https://t.me/rvx_lite) - Latest Revanced Apps
 * ⭐ **[ReVanced Manager](https://github.com/revanced/revanced-manager)** / [Guide](https://www.reddit.com/r/revancedapp/comments/xlcny9/revanced_manager_guide_for_dummies/)
 * ⭐ **[ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module)**
 * ⭐ **[ReVanced Extended](https://github.com/NoName-exe/revanced-extended)** / [2](https://github.com/inotia00/revanced-patches/tree/revanced-extended) - Revanced Extended Patches
@@ -3466,7 +3466,7 @@ Add the following commands to a search to manually scrape each site.
 
 **ReVanced App Builders**
 
-[ReVanced Creator](https://github.com/XDream8/revanced-creator), [ReVanced Builder](https://mega.nz/file/Omxn2T6L#PAJJ5V_ricfBt78CSqg21rL6rt-hP9RIUWbSyspEqQk), [revanced-build-template](https://github.com/n0k0m3/revanced-build-template), [RVX Builder](https://github.com/inotia00/rvx-builder) / [2](https://t.me/rvx_lite), [Docker-Py-ReVanced](https://github.com/nikhilbadyal/docker-py-revanced), [YT-AT](https://github.com/kakathic/YT-AT)
+[ReVanced Creator](https://github.com/XDream8/revanced-creator), [ReVanced Builder](https://mega.nz/file/Omxn2T6L#PAJJ5V_ricfBt78CSqg21rL6rt-hP9RIUWbSyspEqQk), [revanced-build-template](https://github.com/n0k0m3/revanced-build-template), [RVX Builder](https://github.com/inotia00/rvx-builder), [Docker-Py-ReVanced](https://github.com/nikhilbadyal/docker-py-revanced), [YT-AT](https://github.com/kakathic/YT-AT)
 
 ***
 
