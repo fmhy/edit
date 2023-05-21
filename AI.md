@@ -16,6 +16,7 @@
 * ⭐ **[LMSYS](https://chat.lmsys.org/)** - LLM Chatbots
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - Q&A AI
+* ⭐ **[Phind](https://www.phind.com/)** - Developer Q&A AI
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
 * ⭐ **[AI Playground](https://play.vercel.ai/)** - Compare AI Responses
@@ -36,7 +37,6 @@
 * [Kuki](https://chat.kuki.ai/chat) - Browser Based Chatbot
 * [gpt_fast_bot](https://t.me/gpt_fast_bot) - Telegram Based Chatbot
 * [AskEdith](https://www.askedith.ai/demo) - Job / Business Q&A AI
-* [Phind](https://www.phind.com/) - Developer Q&A AI
 * [Leon](https://getleon.ai/) - AI Assistant
 * [LLaVA](https://llava-vl.github.io/) / [Delta](https://huggingface.co/liuhaotian/LLaVA-13b-delta-v0) - Visual Instruction AI / [GitHub](https://github.com/haotian-liu/LLaVA)
 * [engshell](https://github.com/emcf/engshell) - Terminal AI
