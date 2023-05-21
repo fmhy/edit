@@ -332,6 +332,7 @@
 
 # ► Audio Generators
 
+* [MusicLM](https://aitestkitchen.withgoogle.com/experiments/music-lm) - via AI Test Kitchen (waitlist)
 * [Wolfram Tones](https://tones.wolfram.com/)
 * [audio visual generator](https://fredericbriolet.com/avg/)
 * [Fake Music Generator](https://www.fakemusicgenerator.com/)
