@@ -435,7 +435,7 @@
 * ⭐ **[FullMatchTV](https://fullmatchtv.com/)** - Sports
 * ⭐ **[NBATVReplay](https://nbatvreplay.com/)** or [NBAHD](https://watchreplay.net/) - Basketball
 * ⭐ **[NFL Replay](https://nflreplay.net/)** - Football
-* ⭐ **[WatchWrestling.wtf](https://watchwrestling.wtf/)** - MMA / Wrestling
+* ⭐ **[WatchWrestlingUp](https://watchwrestlingup.live/)** - MMA / Wrestling
 * ⭐ **[F1 Full Races](https://f1fullraces.com/)** - F1
 * [FootballOrigin](https://www.footballorgin.com/) - Soccer
 * [Footballia](https://footballia.net/) - Soccer
@@ -443,8 +443,8 @@
 * [Sport Video](https://www.sport-video.org.ua/) - Multiple Sports / Torrents
 * [WatchWrestling.ai](https://watchwrestling.ai/) - MMA / Wrestling
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling
+* [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling
 * [WatchWrestling24](https://watchwrestling24.net/) - MMA / Wrestling
-* [WatchWrestlingUp](https://watchwrestlingup.live/) - MMA / Wrestling
 * [WatchWrestlingOnline](https://watchwrestlingonline.net/) - MMA / Wrestling
 * [WatchProWrestling](https://watchprowrestling.org/) - MMA / Wrestling
 * [Full Fights](https://fullfights.net/) - MMA
