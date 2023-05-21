@@ -441,7 +441,6 @@
 * [Discord Games Lab](https://discord.gg/discordgameslab) - Discord Games
 * [RobotStreamer](https://robotstreamer.com/) - Live Control Robots
 * [Free Rider HD](https://www.freeriderhd.com/) - Draw / Race Bike Tracks
-* [Merc.zone](https://merc.zone/) - Browser FPS
 * [Superhot](https://superhotgame.com/superhot-prototype) - Browser FPS
 * [BananaBread](https://kripken.github.io/misc-js-benchmarks/banana/index.html) - Browser Bot FPS
 * [Dynast](https://dynast.io/) - Survival Browser Game
