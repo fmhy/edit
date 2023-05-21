@@ -660,8 +660,8 @@
 * ⭐ **[Android Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_audio_players)** - Music Players / Libraries
 * ⭐ **[xManager](https://www.xmanagerapp.com/)** or [Modded Spotify](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-spotify-apk) - Ad Free Spotify
 * ⭐ **xManager Tools** - [Github](https://github.com/xManager-App/xManager) / [Discord](https://discord.gg/Zu3JyxHD) / [Friend Activity](https://spotivity.me//) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
-* ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream PC Audio to Phone 
-* [YouTube Music Apps](https://redd.it/tiqzon/), [VibeMusic](https://github.com/sheikhhaziq/vibemusic), [ViMusic](https://github.com/vfsfitvnm/ViMusic), [InnerTune](https://github.com/z-huang/InnerTune) or [YMusic](https://ymusic.io/) - YouTube Music Players
+* ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream PC Audio to Phone
+* ⭐ **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** / [2](https://redd.it/tiqzon/), [VibeMusic](https://github.com/sheikhhaziq/vibemusic), [ViMusic](https://github.com/vfsfitvnm/ViMusic), [InnerTune](https://github.com/z-huang/InnerTune) or [YMusic](https://ymusic.io/) - YouTube Music Players
 * [Spotiflyer](https://shabinder.github.io/SpotiFlyer/) / [GitHub](https://github.com/Shabinder/SpotiFlyer/) or [Spowlo](https://github.com/BobbyESP/Spowlo/) - Spotify Audio Downloaders
 * [Finamp](https://github.com/jmshrv/finamp) - Jellyfin Music Player
 * [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) or [SubTune](https://github.com/TaylorKunZhang/SubTune) - Subsonic Client
@@ -974,7 +974,7 @@
 * [Filza](http://cydia.saurik.com/package/com.tigisoftware.filza/), [FGet](https://apps.apple.com/us/app/fget-file-manager-browser/id1582654012) or [Santander](https://github.com/SerenaKit/Santander) - File Managers
 * [Dropbox Premium](https://testflight.apple.com/join/LBZaRq4I) - Cloud Storage
 * [DeDuplicate](https://deduplicate.app/) - Duplicate File Remover
-  * [A-Shell](https://github.com/holzschu/a-shell) - Terminal Emulator
+* [A-Shell](https://github.com/holzschu/a-shell) - Terminal Emulator
 * [iEmulators](https://iemulators.com/) - Emulator Apps
 * [HappyChick](http://www.happychick.hk/download.html) or [8090Games](https://apps.apple.com/us/app/8090games/id1514980629) - Game Emulators
 * [iSSB Play](https://iosninja.io/ipa-library/download-issb-ipa-ios) - Super Smash. Bros on iOS / [GitHub](https://github.com/lufinkey/iSSB)
@@ -1096,7 +1096,7 @@
 # ► iOS Audio
 
 * ⭐ **[Spotify++](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotify)**, **[Spotilife](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotilifee)**, [Tweaked Spotify](https://github.com/nbats/FMHYedit/blob/main/base64.md#tweaked-spotify) or [Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580) - Streaming / [Listening Stats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392)
-* [YTMusilife](https://github.com/nbats/FMHYedit/blob/main/base64.md#ytmusilife) / [2](https://repo.hackyouriphone.org/ytmusilife) or [YTMusicUltimate](https://github.com/ginsudev/YTMusicUltimate) - Streaming
+* ⭐ **[YT Tweaked](https://github.com/nbats/FMHYedit/blob/main/base64.md#yt-tweaked-ipas)**, [YTMusilife](https://github.com/nbats/FMHYedit/blob/main/base64.md#ytmusilife) / [2](https://repo.hackyouriphone.org/ytmusilife) or [YTMusicUltimate](https://github.com/ginsudev/YTMusicUltimate) - Streaming
 * [DeezeLife](https://github.com/nbats/FMHYedit/blob/main/base64.md#deezelife) / [2](https://repo.hackyouriphone.org/deezelife) or [Deezer](https://apps.apple.com/app/deezer/id292738169) - Streaming
 * [Trebel](https://home.trebel.io/) - Streaming
 * [SCloudlife](https://repo.hackyouriphone.org/scloudlife) or [Soundcloud](https://apps.apple.com/us/app/soundcloud/id336353151) - Streaming
