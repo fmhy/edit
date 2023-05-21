@@ -437,7 +437,6 @@
 * [SKYN3T](https://skyn3t.in/)
 * [Brave Search](https://search.brave.com/)
 * [Search Encrypt](https://www.searchencrypt.com/)
-* [neeva](https://neeva.com/)
 * [Kagi](https://kagi.com/) 
 * [ekoru](https://ekoru.org/)
 * [Gibiru](https://gibiru.com/)
