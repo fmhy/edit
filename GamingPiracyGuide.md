@@ -432,7 +432,6 @@
 * ⭐ **[Multi Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_games)** - Sites with Multiple Browser Games
 * ⭐ **[Line Rider](https://www.linerider.com/)** - Draw Sled Tracks
 * ⭐ **[Play-CS](https://play-cs.com/)** - Browser Counter-Strike 1.6
-* ⭐ **[RPS101](https://rps101.pythonanywhere.com/)** - 101 Gesture Rock-Paper-Scissors
 * ⭐ **[Cookie Consent Speed.Run](https://cookieconsentspeed.run/)** - Cookie Disabling Game
 * ⭐ **[QWOP](http://www.foddy.net/Athletics.html)** - Ragdoll Running Game
 * ⭐ **[AirConsole](https://www.airconsole.com/)** or [AnsStream](https://www.antstream.com/) - Control TV Games with Phone 
