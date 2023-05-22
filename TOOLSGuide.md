@@ -388,7 +388,7 @@
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - CGI Assets
 * [Lumen5](https://lumen5.com/) or [VideoCreek](https://videocreek.com/) - Video Template Editor
 * [Beatflyer](https://beatflyer.com/) - Video Flyer Generator
-* [MKVToolNix](https://www.matroska.org/downloads/mkvtoolnix.html) - MKV Editing Tools 
+* [MKVToolNix](https://mkvtoolnix.download/) - MKV Editing Tools 
 * [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/) - MKVExtract GUI 
 * [MKV-Optimizer](https://www.videohelp.com/software/MKV-Optimizer) - Remove Audio Tracks from MKV Files 
 * [MakeMKV](https://www.makemkv.com/) - Create MKV From Blu-Ray / DVD 
@@ -1296,8 +1296,9 @@
 * [PreMiD](https://premid.app/) - Display internet activity in Discord status / [Github](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.gg/WvfVZ8T)
 * [Alternatives to MEE6](https://alternativestomee6.com/) - [Discord](https://discord.gg/WrbMdWHfNd) 
 * [Divider Generator](https://jsfiddle.net/Davri/wf49xnob/159/) - Create Discord Role Dividers Discord Role
-* [chatgpt-discord-bot](https://github.com/TuringAI-Team/chatgpt-discord-bot), [CharacterAI](https://github.com/drizzle-mizzle/CharacterAI-Discord-Bot) or [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Chat GPT Discord Bots
+* [chatgpt-discord-bot](https://github.com/TuringAI-Team/chatgpt-discord-bot), [CharacterAI](https://github.com/drizzle-mizzle/CharacterAI-Discord-Bot) or [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - ChatGPT Discord Bots
 * [MonitoRSS](https://monitorss.xyz/), [2](https://github.com/synzen/MonitoRSS-Clone) - RSS Discord Bot
+* [Wallabot](https://github.com/FahadBinHussain/wallabot) - Wallabag Discord Bot
 * [MovieNightBot](https://github.com/Chopknee/MovieNightBot) - Movie Night Voting Bot
 * [Discord Music Bot](https://github.com/SudhanPlayz/Discord-MusicBot), [discord-music-bot](https://github.com/Androz2091/discord-music-bot), [Music-bot](https://github.com/ZerioDev/Music-bot), [Chipbot](https://chipbot.gg/), [MusicBot](https://github.com/jagrosh/MusicBot), [evobot](https://github.com/eritislami/evobot) or [EarTensifier](https://github.com/Tetracyl/EarTensifier) - Music Bots
 * [Discord-Music-System](https://github.com/RemyK888/discord-music-system) - Discord Music Module
@@ -1432,6 +1433,7 @@
 * [GoriThemes](https://t.me/GoriThemes) - Telegram Themes
 * [Callmebot](https://www.callmebot.com/) - Trigger Voice Calls or Chats
 * [Skeddy](https://skeddy.me/) - Telegram Reminder Bot
+* [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) / [2](https://github.com/n3d1117/chatgpt-telegram-bot) or [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT for Telegram
 * [TgStory](https://github.com/dishapatel010/TgStory) - Instagram Style Stories Bot
 * [CloneChat](https://github.com/apenasrr/clonechat) - Clone Telegram Chats
 * [clonebot](https://github.com/m4mallu/clonebot) - Clone Media from Chats
