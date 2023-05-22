@@ -978,8 +978,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### Game Download CSE
 
 * ⭐ **[Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg)**
+* ⭐ **[Rezi Search](https://rezi.one/)**
 * [Rave Search](https://idleendeavor.github.io/gamesearch/) / [2](https://ravegamesearch.pages.dev/)
-* [Rezi Search](https://rezi.one/)
 * [/r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa)
 
 ***
@@ -1444,6 +1444,7 @@ Add the following commands to a search to manually scrape each site.
 * [Kawaii-Player](https://github.com/kanishka-linux/kawaii-player)
 * [Streama](https://github.com/streamaserver/streama)
 * [Gerbera](https://gerbera.io/)
+* [Homehost](https://github.com/ridhwaans/homehost)
 * [Serviio](https://www.serviio.org/)
 * [MediaBox](https://apps.microsoft.com/store/detail/mediabox/9WZDNCRFJJK7?hl=en-us&gl=us)
 * [Dim](https://github.com/Dusk-Labs/dim)
@@ -1531,7 +1532,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[UltimMC](https://github.com/UltimMC/Launcher)**
 * ⭐ **[SkLauncher](https://skmedix.pl/sklauncher)**
 * ⭐ **[ATLauncher](https://atlauncher.com/)** / [Crack](https://github.com/Domaman202/ATLauncher-Crack)
-* ⭐ **[PrismLauncher](https://prismlauncher.org/)** / [GitHub](https://github.com/PrismLauncher/PrismLauncher)
+* ⭐ **[PrismLauncher](https://prismlauncher.org/)** / [GitHub](https://github.com/PrismLauncher/PrismLauncher) / [Offline Account](https://rentry.co/Prism4Free)
 
 [MultiMC](https://multimc.org/), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/),, [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [Feather Client](https://feathermc.com/) / [Discord](https://discord.com/invite/feather), [GDLauncher](https://gdlauncher.com/), [X Minecraft Launcher](https://xmcl.app/)
 
@@ -2099,7 +2100,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Read Paywalled Articles
 
-⭐ **[wallabag](https://wallabag.nixnet.services/)**
+* ⭐ **[wallabag](https://wallabag.nixnet.services/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot)
 
 [Burles](https://burles.co/en/), [Paywall Bypass Index](https://redd.it/rs9ej1), [bypass-paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome#bypass-paywalls), [pocket](https://getpocket.com/), [bypass-paywalls-firefox-clean](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/) / [2](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean), [12ft](https://12ft.io/), [Hover Paywalls](https://github.com/nathan-149/hover-paywalls-browser-extension), [Demodal](https://github.com/AliasIO/demodal), [medium-unlocker](https://github.com/und3fined/medium-unlocker), [OpenAccessButton](https://openaccessbutton.org/), [RemovePaywalls](https://www.removepaywall.com/), [PaywallBypasser](https://github.com/SybronH/PaywallBypasser)
 
@@ -3238,7 +3239,9 @@ Add the following commands to a search to manually scrape each site.
 * [Lazy.nvim](https://github.com/folke/lazy.nvim) or [packer.nvim](https://github.com/wbthomason/packer.nvim) - Neovim Plugin Managers
 * [NeoVimCraft](https://neovimcraft.com/), [awesome-neovim#plugin](https://github.com/rockerBOO/awesome-neovim#plugin) - Neovim Plugins Collections
 * [AstroNvim](https://astronvim.com) [LazyVim](https://github.com/LazyVim/LazyVim), [NvChad](https://github.com/NvChad/NvChad), [LunarVim](https://www.lunarvim.org/) - Neovim Configs
-* [neovide](https://github.com/neovide/neovide), [gnvim](https://github.com/vhakulinen/gnvim), [nvui](https://github.com/rohit-px2/nvui), [Neovim wiki#gui](https://github.com/neovim/neovim/wiki/Related-projects#gui) - Neovim GUI Frontend
+* [neovide](https://github.com/neovide/neovide), [gnvim](https://github.com/vhakulinen/gnvim), [nvui](https://github.com/rohit-px2/nvui), [Neovim wiki#gui](https://github.com/neovim/neovim/wiki/Related-projects#gui) - Neovim GUIs
+* [instant.nvim](https://github.com/jbyuki/instant.nvim) - Collaborative Neovim Editing
+* [chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - ChatGPT in Neovim
 
 ***
 
