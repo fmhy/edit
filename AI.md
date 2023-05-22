@@ -20,6 +20,7 @@
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
 * ⭐ **[AI Playground](https://play.vercel.ai/)** - Compare AI Responses
+* ⭐ **[Awesome Totally Open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)** - ChatGPT Alternatives
 * [ChatWebpage](https://chatwebpage.com/) - Turn Webpages into Chatbots
 * [BAI](https://chatbot.theb.ai/) - GPT-3.5 Based Chatbot
 * [GPT4All](https://github.com/nomic-ai/gpt4all) - GPT-3.5 Based Chatbot
@@ -30,17 +31,20 @@
 * [ChatLLaMA](https://stuff.serp.ai/l/lora-weights) - LLaMA Based Chatbot
 * [Dalai](https://cocktailpeanut.github.io/dalai/) or [LLaMA C++](https://github.com/ggerganov/llama.cpp) - Self-Host Facebook Chatbot / [Guide](https://rentry.org/llama-tard-v2) / [WebUI](https://github.com/ItsPi3141/dalai)
 * [Alpaca Lora](https://huggingface.co/spaces/tloen/alpaca-lora) - Chatbot Built by Standford / [Git](https://github.com/antimatter15/alpaca.cpp) / [Guide](https://github.com/tatsu-lab/stanford_alpaca) / [Self-Host](https://github.com/tloen/alpaca-lora) / [Docker](https://github.com/chris-alexiuk/alpaca-lora) / [Frontend](https://github.com/ItsPi3141/alpaca-electron) / [Composable](https://github.com/opparco/stable-diffusion-webui-composable-lora)
-* [PygmalionAI](https://redd.it/10kr5zk) - Chatbot Built by 4Channers / [Guide](https://rentry.org/pygmalion-local) / [FAQ](https://rentry.org/pygmalion-ai)
+* [PygmalionAI](https://redd.it/10kr5zk) - Chatbot Built by 4Channers / [Guide](https://rentry.org/pygmalion-local) / [FAQ](https://rentry.org/pygmalion-ai) / [Resources](https://rentry.co/PygmalionLinks)
+* [chat-llm-streaming](https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming) - Multiple Chatbots
 * [JackChat](https://app.jackchat.ai/) - Browser Based Chatbot
 * [cleverbot](https://www.cleverbot.com/) - Browser Based Chatbot
 * [eviebot](https://www.eviebot.com/en/) - Browser Based Chatbot
 * [Kuki](https://chat.kuki.ai/chat) - Browser Based Chatbot
 * [gpt_fast_bot](https://t.me/gpt_fast_bot) - Telegram Based Chatbot
 * [AskEdith](https://www.askedith.ai/demo) - Job / Business Q&A AI
+* [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - ChatGPT for Slack
 * [Leon](https://getleon.ai/) - AI Assistant
 * [LLaVA](https://llava-vl.github.io/) / [Delta](https://huggingface.co/liuhaotian/LLaVA-13b-delta-v0) - Visual Instruction AI / [GitHub](https://github.com/haotian-liu/LLaVA)
 * [engshell](https://github.com/emcf/engshell) - Terminal AI
 * [AnimaAI](https://myanima.ai/) - Virtual Companion
+* [SillyTavern](https://github.com/Cohee1207/SillyTavern) or [TavernAI](https://github.com/SillyLossy/TavernAI) - Roleplaying Chatbot
 * [InWorld](https://www.inworld.ai/) - Roleplaying Chatbots
 * [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbot
 * [Chai](https://www.chai-research.com/) or [MessengerX](https://www.messengerx.io/) - Entertainment Focused Chatbots
@@ -49,7 +53,7 @@
 * [CharacterHub](https://www.characterhub.org/) - Characters for LLMs
 * [AI Anything](https://aianything.netlify.app/) - Create Chatbots
 * [Alt-GPT](https://github.com/Feedox/alt-gpt) - Create GPT Plugins
-* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Autonomous GPT-4
+* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Autonomous GPT-4 / [GUI](https://github.com/thecookingsenpai/autogpt-gui)
 * [MiniAGI](https://github.com/muellerberndt/mini-agi) - Autonomous GPT-3.5 / GPT-4
 * [Kajiwoto](https://kajiwoto.com/), [Miki](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
 
@@ -63,14 +67,17 @@
 * ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
 * [EmergentMind](https://www.emergentmind.com/) - ChatGPT Forum
 * [ChatBlade](https://github.com/npiv/chatblade) - ChatGPT Multi-Tool CLI
-* [Text Gen Web UI](https://github.com/oobabooga/text-generation-webui/), [ChatGPTClone](https://github.com/xtekky/chatgpt-clone), [YakGPT](https://yakgpt.vercel.app/) or [TurboGPT.ai](https://turbogpt.ai/) - AI Chat WebUIs
+* [Text Gen Web UI](https://github.com/oobabooga/text-generation-webui/), [FreeGPT](https://freegpt.one/), [ChatGPTClone](https://github.com/xtekky/chatgpt-clone), [YakGPT](https://yakgpt.vercel.app/) or [TurboGPT.ai](https://turbogpt.ai/) - AI Chat WebUIs
 * [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [TurboGPT](https://github.com/mikebpech/turbogpt.ai), [FreedomGPT](https://freedomgpt.com/) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
 * [Assistant CLI](https://github.com/diciaup/assistant-cli), [ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) or [openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt) - TUIs and CLIs
 * [pyChatGPT](https://github.com/terry3041/pyChatGPT) - Python App
+* [docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT Google Docs Addon
 * [GPTPrompter](https://www.gptprompter.com/), [ChatHub](https://github.com/chathub-dev/chathub) or [ChatGPTBox](https://github.com/josStorer/chatGPTBox) - ChatGPT Browser Extensions
+* [chatgpt-discord-bot](https://github.com/TuringAI-Team/chatgpt-discord-bot), [CharacterAI](https://github.com/drizzle-mizzle/CharacterAI-Discord-Bot) or [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - ChatGPT for Discord
+* [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) / [2](https://github.com/n3d1117/chatgpt-telegram-bot) or [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT for Telegram
 * [WeChat ChatGPT](https://github.com/fuergaosi233/wechat-chatgpt) - ChatGPT for WeChat
 * [ChatGPT Advanced](https://tools.zmo.ai/webchatgpt) - Add Search Results to ChatGPT / [Discord](https://discord.com/invite/pkZ3wwuT)
-* [ChatGPT4Google](https://chatgpt4google.com/), [SublimeGPT](https://chrome.google.com/webstore/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea), [ChatGPT Search](https://greasyfork.org/en/scripts/456077), [ChatGPTGoogle](https://github.com/wong2/chatgpt-google-extension) or [ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Add ChatGPT to Search Results
+* [ChatGPT4Google](https://chatgpt4google.com/), [SublimeGPT](https://chrome.google.com/webstore/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea), [GPTGO](https://gptgo.ai/), [ChatGPT Search](https://greasyfork.org/en/scripts/456077), [ChatGPTGoogle](https://github.com/wong2/chatgpt-google-extension) or [ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Add ChatGPT to Search Results
 * [ShareGPT](https://sharegpt.com/) / [Unfiltered](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
 * [ChatGPT Notification](https://chrome.google.com/webstore/detail/chatgpt-notification/eklmiefkbieejjjhmpjdllphmcjdndin) - Receive Notifications
 * [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear Chats
@@ -89,12 +96,14 @@
 * ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheet
 * ⭐ **[jailbreakchat](https://www.jailbreakchat.com/)** or [Chatbot Exploits](https://github.com/Cranot/chatbot-injections-exploits) - Jailbreak Prompts
 * [Chatgptjailbreak](https://rentry.org/Chatgptjailbreak) - Prompt Directory
+* [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74) - Prompt Directory
 * [flowgpt](https://flowgpt.com/) - Prompt Directory
 * [Prompts Hub](https://docs.google.com/spreadsheets/d/1Y-xQwFkQFCKhPB3nOMyTMNPZ-vaFiof2-vWGBAeupTo/edit#gid=0) - Prompt Directory
 * [DataFit](https://datafit.ai/top-chatgpt-prompts) - Prompt Directory
 * [OrdinaryPeoplePrompts](https://www.ordinarypeopleprompts.com/) - Prompt Directory
 * [jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html) - Prompt Directory
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) or [PromptBot](https://www.messengerx.io/promptbot) - Prompt Generators
+* [PromptPerfect](https://promptperfect.jina.ai/) - Prompt Optimizer
 * [botprompts](https://botprompts.net/) - Fun Prompts
 * [DAN](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516) or [GPT Jailbreak](https://rentry.co/gptjailbreak) - DAN / John Prompts
 * [ChatGPT-History](https://github.com/benf2004/ChatGPT-Prompt-Genius) or [Spell.so](https://spell.so/) - Prompt Management Extensions
@@ -149,7 +158,7 @@
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Text AI / [API](https://github.com/acheong08/EdgeGPT)
 * [AirOps](https://www.airops.com/) or [Cognosys](https://www.cognosys.ai/) - Task-Specific AI Text Generators
 * [NovelAI](https://novelai.net/) / [2](https://rentry.org/sdg_FAQ) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz)
-* [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - Story Writing AI / [GGML Models](https://github.com/LostRuins/koboldcpp)
+* [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - Story Writing AI / [GGML Models](https://github.com/LostRuins/koboldcpp) / [Web App](https://lite.koboldai.net/)
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [GodAI](https://awk.itch.io/godai) - Story Writing AI
 * [Tome](https://tome.app/) - Story Writing AI
@@ -228,8 +237,8 @@
 * ⭐ **[SD WebUI](https://github.com/cmdr2/stable-diffusion-ui)** / [2](https://github.com/neonsecret/stable-diffusion-webui) / [3](https://github.com/AUTOMATIC1111/stable-diffusion-webui) / [4](https://github.com/Sygil-Dev/sygil-webui) / [5](https://github.com/ddPn08/Radiata) / [6](https://github.com/vladmandic/automatic) - Stable Diffusion WebUI / [Docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) / [Colab](https://github.com/pinilpypinilpy/sd-webui-colab-simplified), [2](https://github.com/camenduru/stable-diffusion-webui-colab)
 * ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - List of Stable Diffusion Models
 * ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
-* ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** - Determine Likely Used Image Prompts
-* ⭐ **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
+* ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** / [2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Determine Likely Used Image Prompts
+* ⭐ **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
 * ⭐ **[PromptMania](https://promptomania.com/)** - AI Image Prompt Generator
 * [PublicPrompts](https://publicprompts.art/) - AI Image Prompts / [Discord](https://discord.com/invite/jvQJFFFx26)
 * [Unprompted](https://github.com/ThereforeGames/unprompted) - Stable Diffusion Text Generator
@@ -252,6 +261,7 @@
 * [StableBoost](https://stableboost.ai/) - AI Image Generator
 * [Playgrounds.ai](https://playgrounds.ai/) - AI Image Generator
 * [BlueWillow](https://www.bluewillow.ai/) - AI Image Generator
+* [Fusion Brain](https://fusionbrain.ai/diffusion) - AI Image Generator
 * [Artsio](https://artsio.xyz/) - AI Image Generator
 * [Satble UI](https://aqualxx.github.io/stable-ui/) - AI Image Generator
 * [ArtBot](https://tinybots.net/artbot) - AI Image Generator
@@ -315,6 +325,7 @@
 * ⭐ **[1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw)** - Stable Diffusion Guide
 * [AyyMD](https://rentry.org/ayymd-stable-diffustion-v1_4-guide) - Stable Diffusion Guide
 * [AMD Guide](https://rentry.org/sdamd) - Stable Diffusion Guide
+* [Prompt Book](https://openart.ai/promptbook) - SD Guidebook 
 * [Native Isekai Too](https://rentry.org/sd-nativeisekaitoo) - Stable Diffusion Guide
 * [CPUtard](https://rentry.org/cputard) - Stable Diffusion Guide
 * [Arki's Guides](https://stablediffusionguides.carrd.co/) - Stable Diffusion Guide
@@ -370,9 +381,10 @@
 
 # ► Machine Learning
 
-* ⭐ **[awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes)** or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
+* ⭐ **[awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes)**, [lmg-resources](https://rentry.org/lmg-resources), [awesome-marketing-datascience](https://github.com/underlines/awesome-marketing-datascience/), [CyberCowboy](https://local-llm.cybercowboy.de) or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
 * [Catalyzex](https://www.catalyzex.com/) or [PapersWithCode](https://paperswithcode.com/) - Search Machine Learning Models / Papers
 * [awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Machine Learning Colabs
+* [OpenAIPlayground](https://github.com/nat/openplayground) -
 * [OpenML](https://www.openml.org/) or [Hugging Face](https://huggingface.co/) - Machine Learning Datasets
 * [Kobra](https://kobra.dev/) - Visual Programming Language for Machine Learning
 * [DVC](https://dvc.org/) - Machine Learning Version Control
@@ -385,9 +397,10 @@
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
 * [MiniGPT-4](https://minigpt-4.github.io/) - Advanced Large Language Models
 * [StableLM-Tuned-Alpha](https://huggingface.co/stabilityai/stablelm-tuned-alpha-7b) - Language Models
+* [lmg_template](https://rentry.org/lmg_template) - LLM Templates
 * [Megatron-LM](https://github.com/NVIDIA/Megatron-LM#retro) - LLM Training Codebase
 * [GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) - Instruction Tuning with GPT-4 
-* [Dataset Card for Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) - Language Model Training Dataset
+* [Dataset Card for Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) or [awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) - Language Model Training Datasets
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
 * [Shap](https://github.com/slundberg/shap) - Language Model Response Analyzer
 * [CFormers](https://github.com/NolanoOrg/cformers) - SoTA Transformers with C-backend
@@ -395,6 +408,7 @@
 * [GPTCache](https://github.com/zilliztech/GPTCache) - LLM Response Cache
 * [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons
+* [Nixified](https://nixified.ai/) - Nix Flake for AI Projects 
 * [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book
 * [MetaAcademy](https://metacademy.org/) - Machine Learning Guides
