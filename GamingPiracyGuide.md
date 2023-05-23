@@ -830,7 +830,6 @@
 * [Rekt](https://discord.com/invite/HqjQFCp) or [LinkerMod](https://github.com/Nukem9/LinkerMod) - Black Ops 1 Mod Projects
 * [Plutonium](https://plutonium.pw/) - Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)
 * [CoD4-Mod-Tools](https://github.com/promod/CoD4-Mod-Tools) - COD4 Mod Tools
-* [IW4x / IW6x](https://xlabs.dev/) - COD MW2 Mod Project 
 * [UGX Mods](https://www.ugx-mods.com/) - COD Zombies Mods / [Discord](https://discord.gg/g9S2nSp)
 * [Project Reality](https://www.realitymod.com/about) - BF2 & ARMA 2 Realism Mod
 * [BF3Reality](https://bf3reality.com/) - BF3 Realism Mod
