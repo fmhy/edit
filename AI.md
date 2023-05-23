@@ -30,6 +30,7 @@
 * [Dalai](https://cocktailpeanut.github.io/dalai/) - Self-host LLaMa and Alpaca Chatbots / [Github](https://github.com/cocktailpeanut/dalai) / [Discord](https://discord.com/invite/WWfgrzzkCT) / [GPT-Style UI](https://github.com/ItsPi3141/dalai)
 * [LLaMA C++](https://github.com/ggerganov/llama.cpp) or [ChatLLaMA](https://stuff.serp.ai/l/lora-weights) - Self-Host Meta's Chatbot
 * [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Stanford's Chatbot / [LoRA Implementation](https://github.com/tloen/alpaca-lora) / [GUI](https://github.com/ItsPi3141/alpaca-electron)
+* [FreedomGPT](https://freedomgpt.com/) - Self-Hosted Alpaca Based Chatbot / [Github](https://github.com/ohmplatform/FreedomGPT/) / [Discord](https://discord.com/invite/h77wvJS4ga)
 * [PygmalionAI](https://docs.alpindale.dev/) - Self-Hosted Roleplaying Chatbot / [Resources](https://rentry.co/PygmalionLinks) / [Discord](https://discord.com/invite/pygmalionai)
 * [chat-llm-streaming](https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming) - Multiple Chatbots
 * [DeepAI](https://deepai.org/chat) - DeepAI's Chatbot
@@ -57,31 +58,28 @@
 * ⭐ **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
 * ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
-* [EmergentMind](https://www.emergentmind.com/) - ChatGPT Forum
+* [EmergentMind](https://www.emergentmind.com/) - AI News
 * [ChatWebpage](https://chatwebpage.com/) - Turn Webpages into Chatbots
-* [ChatBlade](https://github.com/npiv/chatblade) - ChatGPT Multi-Tool CLI
+* [ChatBlade](https://github.com/npiv/chatblade) - ChatGPT in CLI
+* [engshell](https://github.com/emcf/engshell) - AI Powered Terminal
 * [FreeGPT](https://freegpt.one/), [ChatGPTClone](https://github.com/xtekky/chatgpt-clone), [YakGPT](https://yakgpt.vercel.app/) or [TurboGPT.ai](https://turbogpt.ai/) - AI Chat WebUIs
-* [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [TurboGPT](https://github.com/mikebpech/turbogpt.ai), [FreedomGPT](https://freedomgpt.com/) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
-* [Assistant CLI](https://github.com/diciaup/assistant-cli), [ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal) or [openai-chatgpt](https://github.com/gmpetrov/openai-chatgpt) - TUIs and CLIs
-* [pyChatGPT](https://github.com/terry3041/pyChatGPT) - Python App
+* [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [TurboGPT](https://github.com/mikebpech/turbogpt.ai) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
 * [AICommand](https://github.com/keijiro/AICommand) - ChatGPT for Unity Editor
 * [docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT Google Docs Addon
-* [GPTPrompter](https://www.gptprompter.com/), [ChatHub](https://github.com/chathub-dev/chathub) or [ChatGPTBox](https://github.com/josStorer/chatGPTBox) - ChatGPT Browser Extensions
+* [ChatHub](https://chathub.gg/) or [ChatGPTBox](https://github.com/josStorer/chatGPTBox) - ChatGPT Browser Extensions
 * [chatgpt-discord-bot](https://github.com/TuringAI-Team/chatgpt-discord-bot), [CharacterAI](https://github.com/drizzle-mizzle/CharacterAI-Discord-Bot) or [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - ChatGPT for Discord
 * [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) / [2](https://github.com/n3d1117/chatgpt-telegram-bot), [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) or [gpt_fast_bot](https://t.me/gpt_fast_bot) - ChatGPT for Telegram
 * [WeChat ChatGPT](https://github.com/fuergaosi233/wechat-chatgpt) - ChatGPT for WeChat
 * [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - ChatGPT for Slack
 * [ChatGPT Advanced](https://tools.zmo.ai/webchatgpt) - Add Search Results to ChatGPT / [Discord](https://discord.com/invite/pkZ3wwuT)
-* [ChatGPT4Google](https://chatgpt4google.com/), [SublimeGPT](https://chrome.google.com/webstore/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea), [GPTGO](https://gptgo.ai/), [ChatGPT Search](https://greasyfork.org/en/scripts/456077), [ChatGPTGoogle](https://github.com/wong2/chatgpt-google-extension) or [ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Add ChatGPT to Search Results
-* [ShareGPT](https://sharegpt.com/) / [Unfiltered](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
-* [ChatGPT Notification](https://chrome.google.com/webstore/detail/chatgpt-notification/eklmiefkbieejjjhmpjdllphmcjdndin) - Receive Notifications
+* [ChatGPT4Google](https://chatgpt4google.com/), [SublimeGPT](https://chrome.google.com/webstore/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea) or [GPTGO](https://gptgo.ai/) - Add ChatGPT to Search Results
+* [ShareGPT](https://sharegpt.com/) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
+* [ChatGPT Notification](https://github.com/Correia-jpv/ChatGPT-Notification) - Receive Notifications
 * [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear Chats
 * [EditGPT](https://www.editgpt.app/) - Proofread Chats
 * [RepeatGPT](https://repeatgpt.com/) - Schedule Chats
-* [engshell](https://github.com/emcf/engshell) - Terminal AI
 * [ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Matrix Theme
 * [openai_pipe](https://github.com/Aesthetikx/openai_pipe) - Unix Theme
-* [ChatGPT API](https://github.com/acheong08/ChatGPT) - Reverse API
 
 ***
 
@@ -90,19 +88,17 @@
 * ⭐ **[Awesome ChatGPT Prompts](https://prompts.chat/)** / [2](https://github.com/f/awesome-chatgpt-prompts) - Prompt Directory
 * ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)** or [Learn Prompting](https://learnprompting.org/) - Prompting Guides
 * ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheet
-* ⭐ **[jailbreakchat](https://www.jailbreakchat.com/)** or [Chatbot Exploits](https://github.com/Cranot/chatbot-injections-exploits) - Jailbreak Prompts
+* ⭐ **[jailbreakchat](https://www.jailbreakchat.com/)**, **[jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)** or [DAN](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516)- Jailbreak Prompts
 * [Chatgptjailbreak](https://rentry.org/Chatgptjailbreak) - Prompt Directory
 * [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74) - Prompt Directory
 * [flowgpt](https://flowgpt.com/) - Prompt Directory
 * [Prompts Hub](https://docs.google.com/spreadsheets/d/1Y-xQwFkQFCKhPB3nOMyTMNPZ-vaFiof2-vWGBAeupTo/edit#gid=0) - Prompt Directory
 * [DataFit](https://datafit.ai/top-chatgpt-prompts) - Prompt Directory
 * [OrdinaryPeoplePrompts](https://www.ordinarypeopleprompts.com/) - Prompt Directory
-* [jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html) - Prompt Directory
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) or [PromptBot](https://www.messengerx.io/promptbot) - Prompt Generators
 * [PromptPerfect](https://promptperfect.jina.ai/) - Prompt Optimizer
 * [botprompts](https://botprompts.net/) - Fun Prompts
-* [DAN](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516) or [GPT Jailbreak](https://rentry.co/gptjailbreak) - DAN / John Prompts
-* [ChatGPT-History](https://github.com/benf2004/ChatGPT-Prompt-Genius) or [Spell.so](https://spell.so/) - Prompt Management Extensions
+* [ChatGPT-History](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Prompt Management Extensions
 * [/r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/) or [/r/GPT_Jailbreaks](https://www.reddit.com/r/GPT_jailbreaks/) - GPT Jailbreak Subreddits
 
 ***
@@ -115,14 +111,13 @@
 * ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/)** - AI Directory
 * ⭐ **[Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - AI Resources / Learning
 * ⭐ **[A.I. Apps](https://appraven.net/collection.php?listId=63b5eef1904afd2a981cead0)** - AI iOS App Directory
-* [AISearchTool](https://www.aisearchtool.com/) - AI Search Tool
 * [Favird](https://favird.com/) - AI Directory
 * [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
 * [ToolScoutAI](https://toolscout.ai/) - AI Directory
 * [AI Creator Tools](https://library.phygital.plus/) - AI Directory
 * [topai](https://topai.tools/) - AI Directory
 * [TheresAnAIForThat](https://theresanaiforthat.com/) - AI Directory
-* [AI-Infinity](https://github.com/meetpateltech/AI-Infinity) - AI Directory
+* [AI-Infinity](https://aiinfinity-meetpatel.notion.site/AI-Infinity-AI-Tools-Directory-0da673c487124ea2b6f8ebe59b75a231) - AI Directory
 * [AI Center](https://aicenter.ai/) - AI Directory
 * [Wiki AI Tools](https://www.wikiaitools.com/) - AI Directory
 * [TopApps.Ai](https://topapps.ai/) - AI Directory
@@ -145,29 +140,22 @@
 * ⭐ **[Bard](https://bard.google.com/)** - Google's AI
 * ⭐ **[Poe](https://poe.com/)** - GPT-3.5 Based AI
 * ⭐ **[Ora](https://ora.sh/openai/chatgpt)** - GPT-3.5 Based AI
-* [EasyPeasy](https://easy-peasy.ai/) - GPT-3.5 Based AI
 * [BAI](https://chatbot.theb.ai/) - GPT-3.5 Based AI
 * [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain) - GPT-3.5 Based AI
-* [writier.io](https://writier.io/) - GPT-3 Based AI
 * [gpt3](https://gpt3.ethio-tech.com/) - GPT-3 Based AI
 * [Transformer](https://transformer.huggingface.co/) - GPT-2 Based AI
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Text AI / [API](https://github.com/acheong08/EdgeGPT)
-* [AirOps](https://www.airops.com/) or [Cognosys](https://www.cognosys.ai/) - Task-Specific AI Text Generators
+* [Cognosys](https://www.cognosys.ai/) - Task-Specific AI Text Generators
 * [NovelAI](https://novelai.net/) / [2](https://rentry.org/sdg_FAQ) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz)
 * [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - Story Writing AI / [GGML Models](https://github.com/LostRuins/koboldcpp) / [Web App](https://lite.koboldai.net/)
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
-* [GodAI](https://awk.itch.io/godai) - Story Writing AI
-* [Tome](https://tome.app/) - Story Writing AI
 * [Unconventional Text Writer](https://unconventional-text-writer.netlify.app/) - Unconventional Text AI
 * [Character Creator](https://oobabooga.github.io/character-creator) - Character Generation AI
 * [GPTForSlides](https://www.gptforslides.app/) or [Chat-GPT-PPT](https://github.com/williamfzc/chat-gpt-ppt) - Presentation AIs
-* [EssayGen](https://github.com/daijro/EssayGen/) - Essay Writing AI
 * [Essaytyper](http://www.essaytyper.com/) - Essay Writing AI
 * [papertyper](https://papertyper.net/) - Essay Writing AI
 * [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/) - Essay Writing AI
 * [Chat GPTPhantom](https://chatgpt-phantom.vercel.app/) - Article Writing AI
-* [BlogNLP](https://www.blognlp.com/) - Creator / Marketing AI
-* [Writerly](https://writerly.ai/) - Creator / Marketing AI
 * [Marmof](https://marmof.com/) - Creator / Marketing AI
 * [GPT4Chat](https://gpt4chat.net/) or [ChatGPT Writer](https://chatgptwriter.ai/) - Email Reply AI
 * [codex-readme](https://github.com/tom-doerr/codex-readme) - README AI Generator
@@ -181,7 +169,6 @@
 * [SheetPlus](https://sheetplus.ai/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [FormulaBot](https://formulabot.com/) - Excel AI Tools
 * [GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) - Text Classification AI
 * [Image2Paragraph](https://github.com/showlab/Image2Paragraph) - Image to Descriptive Paragraph
-* [MathGPT](https://mathgpt.streamlit.app/) - Math Solving AI
 * [Auto Text Expander](https://pastebin.com/TFPRieVN) - Shortcuts to Expand & Replace Text as you Type
 
 ***
