@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/mCWN5pR)** - For mobile users
+**[Table of Contents](https://ibb.co/pndSwNB)** - For mobile users
 
 ***
 ***
@@ -2938,50 +2938,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[QuillBot AI](https://quillbot.com/)**
 * ⭐ **QuillBot  Tools** - [Premium Unlock](https://github.com/blueagler/QuillBot-Premium-Crack), [2](https://github.com/Raguggg/quillbot-premium-for-free) / [Token](https://pastebin.com/ezkjxWd1) / [Script](https://pastebin.com/Wj3cuKvJ)
 
-[Rewrite Tool](https://rewritetool.net/), [Paraphraz](https://paraphraz.it/), [Rewriter](https://rewriter.tools/), [Spinbot](https://spinbot.com/), [Paraphrasing Tool](https://paraphrasetool.com/), [ArticleReword](https://www.articlereword.com/), [Rephrasely](https://rephrasely.com/), [Paraphraser](https://www.paraphraser.io/), [SmartArticleWriter](https://smartarticlerewriter.com/), [Paraphrase-Online](https://paraphrase-online.com/), [articlerewritertool](https://articlerewritertool.com/), [Turbo Spinner](http://script4.prothemes.biz/), [rephraser](https://www.rephraser.net/rewording-tool/), [summarizetool](https://www.summarizing.biz/article-summarizer-online/), [caligonia](https://caligonia.com/a2/rewrite.php), [paraphrasing-tool](https://paraphrasing-tool.com/), [freearticlespinning](https://www.freearticlespinning.com/), [article-spinner](https://free-article-spinner.com/), [csgenerator](https://www.csgenerator.com/), [paraphrasingtool](https://paraphrasingtool.ai/), [paraphraseai](https://paraphraseai.app/)
-
-***
-
-#### Text to Speech
-
-* ⭐ **[Uberduck](https://uberduck.ai/)** / [Discord](https://discord.gg/ATYWnMu)
-* ⭐ **[elevenlabs](https://beta.elevenlabs.io/)**
-* ⭐ **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)**
-* [Balabolka](http://www.cross-plus-a.com/bportable.htm)
-* [15.ai](https://15.ai/)
-* [Text To Speech](https://texttospeech.ca/)
-* [ttsMP3](https://ttsmp3.com/)
-* [Vall-e](https://github.com/enhuiz/vall-e)
-* [TextToMP3](https://www.texttomp3.online/)
-* [FakeYou](https://fakeyou.com/)
-* [Woord](https://www.getwoord.com/)
-* [Speakonia](https://archive.org/details/speakonia_1036)
-* [TextToSpeech](https://texttospeech.io/)
-* [SAPI4](https://tetyys.com/SAPI4/)
-* [LazyPY](https://lazypy.ro/tts/)
-* [Murf.ai](https://murf.ai/)
-* [Fish Diffusion](https://github.com/fishaudio/fish-diffusion)
-* [Vanilla Voice](https://www.vanillavoice.com/)
-* [Sam](https://discordier.github.io/sam/), [2](https://simulationcorner.net/index.php?page=sam) / [BetterSam](https://imrane03.github.io/better-sam/)
-* [MicrosoftSamOnline](https://lingojam.com/MicrosoftSamOnline)
-* [TTSFree](https://ttsfree.com/)
-* [Wideo](https://wideo.co/text-to-speech/)
-* [VoiceGenerator](https://voicegenerator.io/)
-* [Text to Speech Free](https://www.texttospeechfree.com/)
-* [Lovo ai](https://lovo.ai/)
-* [TextToSpeechRobot](https://texttospeechrobot.com/)
-* [SoundofText](https://soundoftext.com/)
-* [FreeTTS](https://freetts.com/)
-* [zvukogram](https://zvukogram.com/)
-* [Nuance](https://www.nuance.com/de-de/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html)
-* [VoiceMaker](https://www.voicemaker.in/)
-* [readloud](https://readloud.net/)
-* [NaturalReaders](https://www.naturalreaders.com/online/)
-* [TTS](https://github.com/coqui-ai/tts)
-* [Clash](https://clash.me/)
-* [Moe TTS](https://huggingface.co/spaces/skytnt/moe-tts)
-* [FakeYou](https://fakeyou.com/)
-* [TTS Paper](https://github.com/coqui-ai/TTS-papers) - Text to Speech Papers
+[Rewrite Tool](https://rewritetool.net/), [Paraphraz](https://paraphraz.it/), [Rewriter](https://rewriter.tools/), [Spinbot](https://spinbot.com/), [Paraphrasing Tool](https://paraphrasetool.com/), [ArticleReword](https://www.articlereword.com/), [Rephrasely](https://rephrasely.com/), [Paraphraser](https://www.paraphraser.io/), [SmartArticleWriter](https://smartarticlerewriter.com/), [Paraphrase-Online](https://paraphrase-online.com/), [articlerewritertool](https://articlerewritertool.com/), [Turbo Spinner](http://script4.prothemes.biz/), [rephraser](https://www.rephraser.net/rewording-tool/), [summarizetool](https://www.summarizing.biz/article-summarizer-online/), [caligonia](https://caligonia.com/a2/rewrite.php), [paraphrasing-tool](https://paraphrasing-tool.com/), [freearticlespinning](https://www.freearticlespinning.com/), [article-spinner](https://free-article-spinner.com/), [csgenerator](https://www.csgenerator.com/), [paraphrasingtool](https://paraphrasingtool.ai/), [paraphraseai](https://paraphraseai.app/) 
 
 ***
 
