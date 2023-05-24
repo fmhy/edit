@@ -102,7 +102,7 @@
 
 ## ▷ Podcasts / Radio
 
-* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_s) / [Video Download](https://redd.it/zzvc0t)
+* ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders) / [Video Download](https://redd.it/zzvc0t)
 * ⭐ **[Radio Streaming Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_radio_streaming_sites)** - Radio Sites
 * ⭐ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
 * [Podchaser](https://podchaser.com/) or [Listen Notes](https://www.listennotes.com/) - Podcast Databases / Trackers
@@ -251,7 +251,6 @@
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - Music Ripper
 * [FreyrJS](https://github.com/miraclx/freyr-js) - Spotify, Deezer and Apple Music Downloader
 * [GamDL](https://github.com/glomatico/gamdl) - Apple Music Downloader
-* [podcast-dl](https://github.com/lightpohl/podcast-dl) - Podcast Downloader
 * [orpheusdl-deezer](https://github.com/uhwot/orpheusdl-deezer), [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - Deezer Downloaders / [Telegram Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots)
 * [rsack](https://github.com/Slyyxp/rsack) - FLAC / MP3
 * [OFFMP3](https://offmp3.com/), [Anything2MP3](https://anything2mp3.cc/) or [conversormp3](https://conversormp3.com.br/) - Video to MP3 Converter
