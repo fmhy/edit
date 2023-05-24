@@ -662,7 +662,7 @@
 * ⭐ **xManager Tools** - [Github](https://github.com/xManager-App/xManager) / [Discord](https://discord.gg/Zu3JyxHD) / [Friend Activity](https://spotivity.me//) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
 * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream PC Audio to Phone
 * ⭐ **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** / [2](https://redd.it/tiqzon/), [VibeMusic](https://github.com/sheikhhaziq/vibemusic), [ViMusic](https://github.com/vfsfitvnm/ViMusic), [InnerTune](https://github.com/z-huang/InnerTune) or [YMusic](https://ymusic.io/) - YouTube Music Players
-* [Spotiflyer](https://shabinder.github.io/SpotiFlyer/) / [GitHub](https://github.com/Shabinder/SpotiFlyer/) or [Spowlo](https://github.com/BobbyESP/Spowlo/) - Spotify Audio Downloaders
+* [Spowlo](https://github.com/BobbyESP/Spowlo/) - Spotify Audio Downloader
 * [Finamp](https://github.com/jmshrv/finamp) - Jellyfin Music Player
 * [Ultrasonic](https://gitlab.com/ultrasonic/ultrasonic) or [SubTune](https://github.com/TaylorKunZhang/SubTune) - Subsonic Client
 * [Sound1](https://play.google.com/store/apps/details?id=com.soundcloud.android&amp;hl=us) - Streaming
@@ -677,6 +677,7 @@
 * [Trebel](https://home.trebel.io/) - Streaming
 * [BlackHole](https://github.com/Sangwan5688/BlackHole) - Streaming
 * [VK X](https://vkx.app/) - Streaming
+* [SoundBound](https://soundbound.shabinder.in/install) - Streaming
 * [BlackPlayer EX](https://rexdl.com/android/blackplayer-ex-apk.html/) - Streaming
 * [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming
 * [AudioTube](https://invent.kde.org/multimedia/audiotube) - YouTube Audio Player / [GitHub](https://jbbgameich.github.io/kde/2021/03/13/audiotube.html)
