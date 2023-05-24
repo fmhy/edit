@@ -56,27 +56,9 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ***
 
-#### 162.12.215.254
-
-`aHR0cDovLzE2Mi4xMi4yMTUuMjU0L0RhdGEvTW92aWVzLw==`
-
-***
-
 #### 163.172.97.48
 
 `aHR0cDovLzE2My4xNzIuOTcuNDgv`
-
-***
-
-#### Movies, Series... in English 
-
-`aHR0cHM6Ly9yZWRkLml0L25zMWVqbwpodHRwczovL3JlZGQuaXQvbnMyYXZ6Cmh0dHBzOi8vcmVkZC5pdC9uczJ3Y3Y=`
-
-***
-
-#### wenubgang
-
-`aHR0cHM6Ly9ncm91cHMuZ29vZ2xlLmNvbS9nL3dlbnViZ2FuZw==`
 
 ***
 
@@ -89,18 +71,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 #### 4k Movie Collection
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9QdDhBSExBQyN0QXRlM2dObE5vc3N0aG9IaVNDTDV3`
-
-***
-
-#### r/MegaLinks Backup
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9mdjRsQ2FaUSM2dFM2SHBRaVdBang2SWJyMU5fRDh3Cmh0dHBzOi8vd3d3NzEuemlwcHlzaGFyZS5jb20vdi9iZWhMaGszRi9maWxlLmh0bWw=`
-
-***
-
-#### Play Rdp
-
-`aHR0cHM6Ly9wbGF5LnJkcC53b3JrZXJzLmRldi8xOi8KaHR0cHM6Ly9ibGFjay10aGVtZS5yZHAud29ya2Vycy5kZXYvMDov`
 
 ***
 
@@ -155,12 +125,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 #### belia
 
 `aHR0cHM6Ly9iZWxpYS5mci9ldmcv`
-
-***
-
-#### rbx
-
-`aHR0cDovLzU5LnJieDUub3ZoLmFiY2QubmV0d29yay8gCmh0dHA6Ly81Mi5yYng1Lm92aC5hYmNkLm5ldHdvcmsvIApodHRwOi8vNTExLnJieC5hYmN2Zy5vdmgvIApodHRwOi8vNTA4LnJieC5hYmN2Zy5vdmgvCmh0dHA6Ly81MTAucmJ4LmFiY3ZnLm92aC8gCmh0dHA6Ly81OC5yYng1Lm92aC5hYmNkLm5ldHdvcmsv`
 
 ***
 
