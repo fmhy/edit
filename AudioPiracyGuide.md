@@ -123,6 +123,7 @@
 * [Relay.fm](https://www.relay.fm/) - Podcasts
 * [BlogTalkRadio](https://www.blogtalkradio.com/popular) - Podcasts
 * [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Podcasts for Software Engineers
+* [podcast-dl](https://github.com/lightpohl/podcast-dl) - Podcast Downloader
 * [CPod](https://github.com/z-------------/CPod) - Podcast App
 * [Odesli](https://odesli.co/) - Podcast Search
 * [PodText](https://podtext.ai/) - Podcast Transcript Search
