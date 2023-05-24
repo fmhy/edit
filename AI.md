@@ -73,6 +73,7 @@
 * [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - ChatGPT for Slack
 * [ChatGPT Advanced](https://tools.zmo.ai/webchatgpt) - Add Search Results to ChatGPT / [Discord](https://discord.com/invite/pkZ3wwuT)
 * [ChatGPT4Google](https://chatgpt4google.com/), [SublimeGPT](https://chrome.google.com/webstore/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea) or [GPTGO](https://gptgo.ai/) - Add ChatGPT to Search Results
+* [Andi](https://andisearch.com/) - AI Powered Search
 * [ShareGPT](https://sharegpt.com/) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
 * [ChatGPT Notification](https://github.com/Correia-jpv/ChatGPT-Notification) - Receive Notifications
 * [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear Chats
@@ -109,8 +110,8 @@
 * ⭐ **[Futurepedia](https://www.futurepedia.io/)** - AI Directory
 * ⭐ **[AI-MF](https://whoisdsmith.gitbook.io/ai-mf/)** - AI Directory / [GitHub](https://github.com/whoisdsmith/AI-MTHRFCKR)
 * ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/)** - AI Directory
-* ⭐ **[Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - AI Resources / Learning
 * ⭐ **[A.I. Apps](https://appraven.net/collection.php?listId=63b5eef1904afd2a981cead0)** - AI iOS App Directory
+* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#free-content) - AI Resources / Learning
 * [Favird](https://favird.com/) - AI Directory
 * [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
 * [ToolScoutAI](https://toolscout.ai/) - AI Directory
