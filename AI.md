@@ -317,14 +317,14 @@
 
 ## ▷ Self-Hosted
 
-* ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - Self-Host / [Fork](https://github.com/vladmandic/automatic)
-* ⭐ **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** - Self-Host / [Discord](https://discord.com/invite/ZmtBAhwWhy)
-* ⭐ **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** - Self-Host
-* [Easy Diffusion](https://stable-diffusion-ui.github.io/) - Self-Host
-* [Sygil WebUI](https://github.com/Sygil-Dev/sygil-webui) - Self-Host / [Discord](https://discord.com/invite/ttM8Tm6wge)
-* [Radiata](https://github.com/ddPn08/Radiata) - Self-Host
-* [NMKD Stable Diffusion GUI](https://github.com/n00mkrad/text2image-gui) - Self-Host
-* [aiimag.es](https://sunija.itch.io/aiimages) - Self-Host / [Discord](https://discord.com/invite/Fge4dVHFM2)
+* ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - [Fork](https://github.com/vladmandic/automatic)
+* ⭐ **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** - [Discord](https://discord.com/invite/ZmtBAhwWhy)
+* ⭐ **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)**
+* [Easy Diffusion](https://stable-diffusion-ui.github.io/)
+* [Sygil WebUI](https://github.com/Sygil-Dev/sygil-webui) - [Discord](https://discord.com/invite/ttM8Tm6wge)
+* [Radiata](https://github.com/ddPn08/Radiata)
+* [NMKD Stable Diffusion GUI](https://github.com/n00mkrad/text2image-gui)
+* [aiimag.es](https://sunija.itch.io/aiimages) - [Discord](https://discord.com/invite/Fge4dVHFM2)
 * [DiffusionBee](https://diffusionbee.com/) - Self-Host for Macs / [Github](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
 
 ***
