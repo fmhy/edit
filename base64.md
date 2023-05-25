@@ -134,18 +134,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ***
 
-#### Damon's Game Soundtracks
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMU5KME5BYlNYbm5kVHZ5NEdnUmJkdTdIMnBOWHZrdTZpP3VzcD1zaGFyaW5n`
-
-***
-
-#### Music for the masses !
-
-`aHR0cHM6Ly9yZWRkLml0L250N2ZlYQ==`
-
-***
-
 #### geedryve
 
 `aHR0cHM6Ly9qYWNvYnNtLmNvbS9nZWVkcnl2ZS9yZWNvcmRzL21wM3Mv`
@@ -189,12 +177,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ***
 
-#### SohaibXtreme
-
-`aHR0cHM6Ly93d3cuc29oYWlieHRyZW1lLm5ldC9GREwvc2V0dXAvZ2FtZXMv`
-
-***
-
 #### silentycrying's Game Drive
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL3UvMC9mb2xkZXJzLzFLMUZkTmJFdTktX3d5OHZuOXNFNzY4Vm9qWHF1NkZucA==`
@@ -229,7 +211,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 #### AlvRo
 
-`aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvMTl0QVoxS05FVVo1OGUtNGtQSkdoOTQ3YWxEYjFveXJOcHpjbkNMazdERUUvcHViaHRtbCBodHRwczovL3Bhc3RlYmluLmNvbS83OXExbWRabQ==`
+`aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvMTl0QVoxS05FVVo1OGUtNGtQSkdoOTQ3YWxEYjFveXJOcHpjbkNMazdERUUvcHViaHRtbA==`
 
 ***
 
