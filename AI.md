@@ -18,17 +18,16 @@
 * ⭐ **[Guanaco](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi)** - QLoRA based Open-Source Chatbot / [Github](https://github.com/artidoro/qlora)
 * ⭐ **[Ora](https://ora.sh/openai/chatgpt)** - GPT-3.5 Based Chatbots
 * ⭐ **[LMSYS](https://chat.lmsys.org/)** - Open Source LLM Chatbots / [Discord](https://discord.com/invite/h6kCZb72G7)
-* ⭐ **[GPT4All](https://github.com/nomic-ai/gpt4all)** - Open-Source Chatbot / [Discord](https://discord.com/invite/mGZE39AS3e)
 * ⭐ **[AI Playground](https://play.vercel.ai/)** - Compare AI Responses
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
-* ⭐ **[LLaVA](https://llava.hliu.cc/)** - Chatbot with Image Support / [GitHub](https://github.com/haotian-liu/LLaVA)
 * ⭐ **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbots Index
-* ⭐ **[Awesome Totally Open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)** - Open-Source Chatbots Index
 * [BAI](https://chatbot.theb.ai/) - GPT-3.5 Based Chatbot
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
+* [LLaVA](https://llava.hliu.cc/) - Chatbot with Image Support / [GitHub](https://github.com/haotian-liu/LLaVA)
 * [MPT-7B-Chat](https://huggingface.co/spaces/mosaicml/mpt-7b-chat) - Mosaic's Open-Source Chatbot / [Instruct](https://huggingface.co/spaces/mosaicml/mpt-7b-instruct) / [Storywriter](https://huggingface.co/spaces/mosaicml/mpt-7b-storywriter)
 * [ChatRWKV](https://huggingface.co/spaces/BlinkDL/ChatRWKV-gradio) - RWKV Based Chatbot / [7B Version](https://huggingface.co/spaces/BlinkDL/Raven-RWKV-7B) / [Discord](https://discord.com/invite/bDSBUMeFpc)
+* [GPT4All](https://github.com/nomic-ai/gpt4all) - Open-Source Chatbot / [Discord](https://discord.com/invite/mGZE39AS3e)
 * [Open Assistant](https://open-assistant.io/) - Open-Source Chatbot / [Github](https://github.com/LAION-AI/Open-Assistant) / [Discord](https://discord.com/invite/H769HxZyb5)
 * [OpenChatKit](https://huggingface.co/spaces/togethercomputer/OpenChatKit) - Open-Source Chatbot / [Github](https://github.com/togethercomputer/OpenChatKit) / [Discord](https://discord.com/invite/9Rk6sSeWEG)
 * [HuggingChat](https://huggingface.co/chat/) - HuggingFace's Chatbot / [Github](https://github.com/huggingface/chat-ui)
@@ -53,6 +52,7 @@
 * [MiniAGI](https://github.com/muellerberndt/mini-agi) - Autonomous GPT-3.5 / GPT-4
 * [Kajiwoto](https://kajiwoto.com/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
 * [SillyTavern](https://github.com/Cohee1207/SillyTavern) - UI for Roleplaying Chatbots
+* [Awesome Totally Open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) - Open-Source Chatbots Index
 
 ***
 
