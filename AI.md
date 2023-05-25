@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/DRLf884)** - For mobile users
+**[Table of Contents](https://ibb.co/bRLRSbf)** - For mobile users
 
 ***
 ***
@@ -260,15 +260,8 @@
 * ⭐ **[GetIMG.ai](https://getimg.ai/)** - AI Image Generator / [Discord](https://discord.com/invite/5KsUXSzVwS)
 * ⭐ **[DeepAI](https://deepai.org/machine-learning-model/stable-diffusion)** / [2](https://deepai.org/machine-learning-model/text2img) - AI Image Generator / [Tools](https://deepai.org/apis)
 * ⭐ **[Lexica](https://lexica.art/)**, [PixAI](https://pixai.art/), [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images) or [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
-* ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
-* ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** / [2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Determine Likely Used Image Prompts
-* ⭐ **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
-* ⭐ **[PromptMania](https://promptomania.com/)** - AI Image Prompt Generator
-* ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - List of Stable Diffusion Models
-* [PublicPrompts](https://publicprompts.art/) - AI Image Prompts / [Discord](https://discord.com/invite/jvQJFFFx26)
-* [Unprompted](https://github.com/ThereforeGames/unprompted) - Stable Diffusion Text Generator
+* [Pinegraph](https://pinegraph.com/create), [MagicBrush](https://www.magicbru.sh/), [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - AI Image Transformers
 * [Stable Horde](https://stablehorde.net/) - AI Image Generator / [Client](https://dbzer0.itch.io/lucid-creations)
-* [Pinegraph](https://pinegraph.com/create) - Image Transformation / Sketchpad
 * [Patience.ai](https://www.patience.ai/) - Multiple AI Image Generators
 * [StableCog](https://stablecog.com/) - AI Image Generator / [Discord](https://discord.com/invite/AJyYd6AUEn) / [Github](https://github.com/stablecog/stablecog)
 * [Prodia](https://app.prodia.com/) - AI Image Generator
@@ -306,12 +299,9 @@
 * [Pet AI](https://petai.art/) - Turn Pet Photos into Artwork
 * [Nightmare Machine](http://nightmare.mit.edu/) - Scary AI Generated Imagery
 * [Interiorai](https://interiorai.com/) - AI Interior Design Tool
-* [Glaze](https://glaze.cs.uchicago.edu/index.html) - Protect Digital Art from AI Copies
 * [InPainter](https://inpainter.vercel.app/paint) - Online Inpainting / [Github](https://github.com/replicate/inpainter)
-* [MagicBrush](https://www.magicbru.sh/), [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - AI Image Transformers
 * [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion-v1-4/) or [BPModel](https://huggingface.co/Crosstyan/BPModel) - Anime Image Generators
 * [Photoshop StableDiffusion](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - Stable Diffusion for Photoshop
-* [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
 
 ***
 
@@ -326,6 +316,20 @@
 * [NMKD Stable Diffusion GUI](https://github.com/n00mkrad/text2image-gui)
 * [aiimag.es](https://sunija.itch.io/aiimages) - [Discord](https://discord.com/invite/Fge4dVHFM2)
 * [DiffusionBee](https://diffusionbee.com/) - Self-Host for Macs / [Github](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
+
+***
+
+## ▷ Image Gen Tools
+
+* ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** / [2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Determine Likely Used Image Prompts
+* ⭐ **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
+* ⭐ **[PromptMania](https://promptomania.com/)** - AI Image Prompt Generator
+* ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - List of Stable Diffusion Models
+* ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
+* [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
+* [PublicPrompts](https://publicprompts.art/) - AI Image Prompts / [Discord](https://discord.com/invite/jvQJFFFx26)
+* [Unprompted](https://github.com/ThereforeGames/unprompted) - Stable Diffusion Text Generator
+* [Glaze](https://glaze.cs.uchicago.edu/index.html) - Protect Digital Art from AI Copies
 
 ***
 
