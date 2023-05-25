@@ -505,6 +505,7 @@
 * [GeoVisual Search](https://search.descarteslabs.com/) - Object Recognition Map 
 * [OldMapsOnline](https://www.oldmapsonline.org/) - Historical Maps Tool 
 * [Loc Maps](https://www.loc.gov/collections/general-maps/), [EuraAtlas](https://euratlas.com/),  [GeoGarage](http://rumsey.geogarage.com/index.html), [OpenHistoricalMap](https://www.openhistoricalmap.org/), [Digital Collection Maps](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division) or [Cronobook](https://cronobook.com/) - Historical Maps
+* [MapHistory.info](https://www.maphistory.info/index.html) - Links to Historical Map Sites
 * [Historic Borders](https://historicborders.app/) - Historic Borders Map
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - World History Map with Visual Notes 
 * [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US Historical Maps
