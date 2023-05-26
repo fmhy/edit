@@ -179,49 +179,6 @@
 
 ***
 
-## ▷ Text to Speech
-
-* ⭐ **[Uberduck](https://uberduck.ai/)** / [Discord](https://discord.gg/ATYWnMu)
-* ⭐ **[elevenlabs](https://beta.elevenlabs.io/)**
-* ⭐ **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)**
-* [Balabolka](http://www.cross-plus-a.com/bportable.htm)
-* [15.ai](https://15.ai/)
-* [Text To Speech](https://texttospeech.ca/)
-* [ttsMP3](https://ttsmp3.com/)
-* [Vall-e](https://github.com/enhuiz/vall-e)
-* [TextToMP3](https://www.texttomp3.online/)
-* [FakeYou](https://fakeyou.com/)
-* [Woord](https://www.getwoord.com/)
-* [Speakonia](https://archive.org/details/speakonia_1036)
-* [TextToSpeech](https://texttospeech.io/)
-* [SAPI4](https://tetyys.com/SAPI4/)
-* [LazyPY](https://lazypy.ro/tts/)
-* [Murf.ai](https://murf.ai/)
-* [Fish Diffusion](https://github.com/fishaudio/fish-diffusion)
-* [Vanilla Voice](https://www.vanillavoice.com/)
-* [Sam](https://discordier.github.io/sam/), [2](https://simulationcorner.net/index.php?page=sam) / [BetterSam](https://imrane03.github.io/better-sam/)
-* [MicrosoftSamOnline](https://lingojam.com/MicrosoftSamOnline)
-* [TTSFree](https://ttsfree.com/)
-* [Wideo](https://wideo.co/text-to-speech/)
-* [VoiceGenerator](https://voicegenerator.io/)
-* [Text to Speech Free](https://www.texttospeechfree.com/)
-* [Lovo ai](https://lovo.ai/)
-* [TextToSpeechRobot](https://texttospeechrobot.com/)
-* [SoundofText](https://soundoftext.com/)
-* [FreeTTS](https://freetts.com/)
-* [zvukogram](https://zvukogram.com/)
-* [Nuance](https://www.nuance.com/de-de/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html)
-* [VoiceMaker](https://www.voicemaker.in/)
-* [readloud](https://readloud.net/)
-* [NaturalReaders](https://www.naturalreaders.com/online/)
-* [TTS](https://github.com/coqui-ai/tts)
-* [Clash](https://clash.me/)
-* [Moe TTS](https://huggingface.co/spaces/skytnt/moe-tts)
-* [FakeYou](https://fakeyou.com/)
-* [TTS Paper](https://github.com/coqui-ai/TTS-papers) - Text to Speech Papers
-
-***
-
 ## ▷ [Text Rephrashing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing)
 
 ***
@@ -256,6 +213,7 @@
 # ► Image Generators
 
 * ⭐ **[Zoo](https://zoo.replicate.dev/)** - Multi-AI Image Generators
+* ⭐ **[DeepFloyd IF](https://huggingface.co/spaces/DeepFloyd/IF)** - AI Image Generator / [Github](https://github.com/deep-floyd/IF) / [Colab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/deepfloyd_if_free_tier_google_colab.ipynb) / [Discord](https://discord.com/invite/TpBQ4fqThB)
 * ⭐ **[Bing](https://www.bing.com/images/create)** - Dall-E Based AI Image Generator
 * ⭐ **[Craiyon](https://www.craiyon.com/)** - AI Image Generator / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
 * ⭐ **[Kandinsky2](https://fusionbrain.ai/diffusion)** - AI Image Generator / [Github](https://github.com/ai-forever/ru-dalle) / [Demo](https://rudalle.ru/kandinsky2)
@@ -305,7 +263,7 @@
 ## ▷ Stable Diffusion
 
 * ⭐ **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** - AI Image Generator / [Github](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
-* ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - Self-Host / [Fork](https://github.com/vladmandic/automatic)
+* ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - Self-Host / [Fork](https://github.com/vladmandic/automatic) / 
 * ⭐ **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** - Self-Host / [Discord](https://discord.com/invite/ZmtBAhwWhy)
 * ⭐ **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** - Self-Host
 * ⭐ **[PlaygroundAI](https://playgroundai.com/)** - Online
@@ -387,6 +345,49 @@
 * [Riffusion](https://www.riffusion.com/)
 * [Musico](https://www.musi-co.com/listen/streams) - AI Generated Songs
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
+
+***
+
+## ▷ Text to Speech
+
+* ⭐ **[ElevenLabs](https://beta.elevenlabs.io/)** / [Discord](https://discord.com/invite/elevenlabs)
+* ⭐ **[Uberduck](https://uberduck.ai/)** / [Discord](https://discord.gg/ATYWnMu)
+* ⭐ **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)**
+* [Balabolka](http://www.cross-plus-a.com/bportable.htm)
+* [15.ai](https://15.ai/)
+* [Text To Speech](https://texttospeech.ca/)
+* [ttsMP3](https://ttsmp3.com/)
+* [Vall-e](https://github.com/enhuiz/vall-e)
+* [TextToMP3](https://www.texttomp3.online/)
+* [FakeYou](https://fakeyou.com/)
+* [Woord](https://www.getwoord.com/)
+* [Speakonia](https://archive.org/details/speakonia_1036)
+* [TextToSpeech](https://texttospeech.io/)
+* [SAPI4](https://tetyys.com/SAPI4/)
+* [LazyPY](https://lazypy.ro/tts/)
+* [Murf.ai](https://murf.ai/)
+* [Fish Diffusion](https://github.com/fishaudio/fish-diffusion)
+* [Vanilla Voice](https://www.vanillavoice.com/)
+* [Sam](https://discordier.github.io/sam/), [2](https://simulationcorner.net/index.php?page=sam) / [BetterSam](https://imrane03.github.io/better-sam/)
+* [MicrosoftSamOnline](https://lingojam.com/MicrosoftSamOnline)
+* [TTSFree](https://ttsfree.com/)
+* [Wideo](https://wideo.co/text-to-speech/)
+* [VoiceGenerator](https://voicegenerator.io/)
+* [Text to Speech Free](https://www.texttospeechfree.com/)
+* [Lovo ai](https://lovo.ai/)
+* [TextToSpeechRobot](https://texttospeechrobot.com/)
+* [SoundofText](https://soundoftext.com/)
+* [FreeTTS](https://freetts.com/)
+* [zvukogram](https://zvukogram.com/)
+* [Nuance](https://www.nuance.com/de-de/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html)
+* [VoiceMaker](https://www.voicemaker.in/)
+* [readloud](https://readloud.net/)
+* [NaturalReaders](https://www.naturalreaders.com/online/)
+* [TTS](https://github.com/coqui-ai/tts)
+* [Clash](https://clash.me/)
+* [Moe TTS](https://huggingface.co/spaces/skytnt/moe-tts)
+* [FakeYou](https://fakeyou.com/)
+* [TTS Paper](https://github.com/coqui-ai/TTS-papers) - Text to Speech Papers
 
 ***
 
