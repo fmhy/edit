@@ -1327,6 +1327,7 @@
 * [The Fed](https://thefed.app/) - Central Banking Game
 * [Tamajoji](https://aericode.itch.io/tamajoji) - Browser Tamagotchi
 * [Gifypet](https://gifypet.neocities.org/) - Create Your Own Cute Pet
+* [Koi Pond](https://koipond.fish/) - Feed Koi
 * [xrDinosaurs](https://www.xrdinosaurs.com/) - VR Dino Park
 * [This Is Sand](https://thisissand.com/) - Make Sand Art
 * [Orb.Farm](https://orb.farm/) - Virtual Aquatic Ecosystem
