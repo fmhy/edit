@@ -285,7 +285,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 # ► Hentai
 
 * ⭐ **[The Index](https://theindex.moe/library/hentai)** - Hentai Sites List
-* [Best Hentai Sites](https://besthentaisites.github.io/) - Hentai Site List
 * [PornDude Hentai](https://theporndude.com/hentai-streaming-sites) - Hentai Sites List
 * [Hentai Manga Sites](https://theporndude.com/hentai-manga-sites) - Hentai Sites List
 * [kemono.party](https://kemono.party/) - Porn / Hentai / Use Adblock
