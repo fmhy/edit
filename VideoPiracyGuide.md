@@ -661,6 +661,7 @@
 * [DramaFans](http://www.dramafans.org/) - Asian Drama
 * [DoraMax264](https://doramax264.com/) - Asian Drama
 * [CondensedAudioCatalog](https://condensedaudiocatalog.com/) - Asian Drama
+* [Drama Day](https://dramaday.me/) - Asian Drama
 * [Toku.fun](https://toku.fun/) - Japanese Superhero Movies
 * [Jackass Vault](https://discord.gg/ZH5MjcKmJJ) - Jackass Media
 * [TodayTVSeries](http://www.todaytvseries2.com/) - TV
