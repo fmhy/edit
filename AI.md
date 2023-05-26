@@ -29,6 +29,7 @@
 * [ChatRWKV](https://huggingface.co/spaces/BlinkDL/ChatRWKV-gradio) - RWKV Based Chatbot / [7B Version](https://huggingface.co/spaces/BlinkDL/Raven-RWKV-7B) / [Discord](https://discord.com/invite/bDSBUMeFpc)
 * [GPT4All](https://github.com/nomic-ai/gpt4all) - Open-Source Chatbot / [Discord](https://discord.com/invite/mGZE39AS3e)
 * [Open Assistant](https://open-assistant.io/) - Open-Source Chatbot / [Github](https://github.com/LAION-AI/Open-Assistant) / [Discord](https://discord.com/invite/H769HxZyb5)
+* [StableLM](https://colab.research.google.com/github/Stability-AI/StableLM/blob/main/notebooks/stablelm-alpha.ipynb) - Open-Source Chatbot / [Github](https://github.com/stability-AI/stableLM/)
 * [OpenChatKit](https://huggingface.co/spaces/togethercomputer/OpenChatKit) - Open-Source Chatbot / [Github](https://github.com/togethercomputer/OpenChatKit) / [Discord](https://discord.com/invite/9Rk6sSeWEG)
 * [HuggingChat](https://huggingface.co/chat/) - HuggingFace's Chatbot / [Github](https://github.com/huggingface/chat-ui)
 * [Dalai](https://cocktailpeanut.github.io/dalai/) - Self-host LLaMa and Alpaca Chatbots / [Github](https://github.com/cocktailpeanut/dalai) / [Discord](https://discord.com/invite/WWfgrzzkCT) / [GPT-Style UI](https://github.com/ItsPi3141/dalai)
@@ -161,6 +162,7 @@
 * [Essaytyper](http://www.essaytyper.com/) - Essay Writing AI
 * [papertyper](https://papertyper.net/) - Essay Writing AI
 * [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/) - Essay Writing AI
+* [PerfectEssayWriter](https://www.perfectessaywriter.ai/) - Essay Writing AI
 * [Chat GPTPhantom](https://chatgpt-phantom.vercel.app/) - Article Writing AI
 * [Marmof](https://marmof.com/) - Creator / Marketing AI
 * [GPT4Chat](https://gpt4chat.net/) or [ChatGPT Writer](https://chatgptwriter.ai/) - Email Reply AI
