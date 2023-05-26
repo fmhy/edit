@@ -143,7 +143,7 @@ Basic Piracy Terminology
 
 ### Reading
 
-**[Mobilism](https://forum.mobilism.org) / [Library Genesis](http://libgen.rs/) / [Z-Library](https://singlelogin.me/)** - Books, audiobooks, comics & more
+**[Mobilism](https://forum.mobilism.org) / [Library Genesis](http://libgen.rs/) / [Z-Library](https://singlelogin.re/)** - Books, audiobooks, comics & more
 **[Audiobook Bay](http://audiobookbay.ws/)** - Audiobook torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png)
 **[ReadComicsOnline](https://readcomiconline.li/)** - Read comics online
 **[MangaReader](https://mangareader.to/)** - Read manga online
