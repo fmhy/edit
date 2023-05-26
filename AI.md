@@ -263,7 +263,7 @@
 ## ▷ Stable Diffusion
 
 * ⭐ **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** - AI Image Generator / [Github](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
-* ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - Self-Host / [Fork](https://github.com/vladmandic/automatic) / 
+* ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - Self-Host / [Fork](https://github.com/vladmandic/automatic) 
 * ⭐ **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** - Self-Host / [Discord](https://discord.com/invite/ZmtBAhwWhy)
 * ⭐ **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** - Self-Host
 * ⭐ **[PlaygroundAI](https://playgroundai.com/)** - Online
