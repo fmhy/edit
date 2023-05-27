@@ -717,6 +717,7 @@
 * [JDMFSM](http://jdmfsm.info/Auto/), [CarPDFManual](https://www.carpdfmanual.com/renault/) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
 * [Ownersman.com](https://ownersman.com/) - Car Owner Manuals
 * [PremierProduct](https://www.premierproducts-uk.co.uk/) - Vehicle Manuals
+* [C.H.A.R.M](https://charm.li/) - Every Auto Repair Manual (1982-2013)
 * [David Kleinfeld Laboratory](https://neurophysics.ucsd.edu/Manuals/) - Lab Manuals
 * [replacementdocs](http://www.replacementdocs.com/) - Game Manuals
 * [Retrevo](http://www.retrevo.com/) - Product Manuals
