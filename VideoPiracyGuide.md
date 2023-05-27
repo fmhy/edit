@@ -109,7 +109,7 @@
 * [SmashyStream](https://embed.smashystream.com/) - Movies / TV / Anime / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
 * [AZMovies](https://azm.to/) - Movies
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
-* [WatchSeries 2.0](https://watchseriess.io/) - Movies / TV / Anime
+* [WatchSeries 2.0](https://watchseriess.io/), [2](https://watchmovie.ac/) - Movies / TV / Anime
 * [Series9](https://series9.sh/) - Movies / TV / Anime
 * [Cloudy](https://cloudy.pk/category/english/) - Movies / TV
 * [Levidia](https://www.levidia.ch/) - Movies / TV / Anime
@@ -127,6 +127,7 @@
 * [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime
 * [MoviesXK](https://moviexk.biz/) - Movies / TV
 * [KissMovies](https://kissmovies.pro/) - Movies / TV
+* [PogoLinks](https://pogolinks.pics/) - Movies / TV / Anime
 * [TamilRockerMovies](https://www.tamilrockermovies.cf/search/label/Hollywood) - Movies
 * [ConTV](https://www.contv.com/browse-movie/146/free/) - Movies
 * [VidCloud](https://membed1.com/) - Movies / TV
@@ -291,6 +292,7 @@
 * ⭐ **[TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg)**
 * ⭐ **[CouchTuner](https://www.couchtuner.show/)** - TV / Anime
 * ⭐ **[Best Series](https://bstsrs.one/)** - TV / Anime
+* ⭐ **[NOXX](https://noxx.to/)** - TV
 * ⭐ **[OnlyTVShows](https://onlytvshows.cc/)** - TV / Anime
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - TV / Anime
 * [Teleisodes](https://www1.telepisodes.org/) - TV
@@ -301,6 +303,7 @@
 * [Adult Swim](https://www.adultswim.com/videos/) - Full Adult Swim Episodes
 * [Homestar Runner](https://homestarrunner.com/) - Web-Series / Games
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - Bay Area TV Archive
+* [BK World Tube](https://bkworldtube.com/) - Reality TV
 * [Taskmaster](https://www.youtube.com/@Taskmaster/playlists?view=50&sort=dd&shelf_id=1) - Taskmaster Episodes / [International](https://www.youtube.com/@Taskmaster/playlists?view=50&sort=dd&shelf_id=4)
 * [The Silent Library](https://thesilentlibrary.com/) - Japanese Game Shows
 * [Ninja Warrior](https://github.com/nbats/FMHYedit/blob/main/base64.md#ninja-warrior) - Sasuke Episodes
@@ -612,14 +615,17 @@
 * [My9JARocks](https://my9jarocks.com/category/videodownload/hollywood-movie) - Movies / TV
 * [HDMP4Mania](https://hdmp4mania2.com/) - Movies
 * [DDLBase](https://ddlbase.net/) - Movies / TV
+* [FilmGo](https://www.filmgo.live/) - Movies / TV
 * [StarsDDL](https://starsddl.me/) - Movies / TV
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
 * [EE3](https://ee3.me/) or [RIPS](https://rips.cc/) - Movies / Invite Code: mpgh or 1hack
 * [Reqzone](https://reqzone.com/) - Movies / TV
 * [KatMovieHD](https://katmoviehd.ac/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
-* [FZMovies](https://fzmovies.net/) - Movies
+* [FZMovies](https://fzmovies.host/) - Movies
+* [FZMoviesz](https://fzmoviesz.com/) - Movies / TV
 * [YourSerie](https://www.yourserie.com/) - Movies / TV
 * [FilmDuty](https://filmduty.com/) - Movies / TV / Anime
+* [Naijavault](https://www.naijavault.com/) - Movies / TV
 * [KimoiTV](https://www.kimoitv.com/) - Movies / TV / Anime
 * [MeloMovie](https://melomovie.com/) - Movies / TV
 * [MKV Cage](https://www.mkvcage.site/) - Movies / TV
@@ -650,6 +656,7 @@
 * [NetNaija](https://netnaija.xyz/) - Movies
 * [GdriveMovies](https://gdrivemovies.xyz/) - Movies
 * [nKiri](https://nkiri.com/) - Movies / TV
+* [TinyDL](https://tinydl.org/) - Movies / TV
 * [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime
 * [O2TVSeriesz](https://o2tvseriesz.com/) - Movies / TV
 * [Privatemoviez](https://privatemoviez.cloud/) - Movies / TV
@@ -845,7 +852,7 @@
 # ► Tracking / Discovery
 
 * ⭐ **[FlixMetrix](https://flickmetrix.com/)** - Combines IMDb, Rotten Tomatoes & Letterbox ratings
-* ⭐ **[Trakt](https://trakt.tv/)** - TV / Anime / Movies / [Apps](https://trakt.tv/apps) / [Duplicate Remover](https://huere.net/trakt/duplicate_removal/)
+* ⭐ **[Trakt](https://trakt.tv/)** - TV / Anime / Movies / [Apps](https://trakt.tv/apps) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [Duplicate Remover](https://huere.net/trakt/duplicate_removal/)
 * ⭐ **[Letterboxd](https://letterboxd.com/)** - Movies
 * ⭐ **Letterboxd Tools** - [Multi Tool](https://www.letterboxd.tools/) / [Shortcuts](https://github.com/alandours/letterboxd-shortcuts) / [Watchlist Picker](https://watchlistpicker.com/) / [Collections](https://mrdys.github.io/letterboxd-completionist/)
 * ⭐ **[ICheckMovies](https://www.icheckmovies.com/)** - Movies / List Database / [Enhanced](https://greasyfork.org/en/scripts/11541-icheckmovies-enhanced)
