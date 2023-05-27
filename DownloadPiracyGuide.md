@@ -54,7 +54,6 @@
 * ⭐ **[DirtyWarez](https://forum.dirtywarez.com/)** - Video / Audio / Games / Software / Books / Comics
 * ⭐ **[Team OS](https://www.teamos.xyz/)** - Software / Games / Books / Android
 * ⭐ **[DownloadHa](https://www.downloadha.com)** - Video / Software / Games / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* ⭐ **[patoghu](https://patoghu.com/)** - Video / Audio / Software / Android / Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[Bitdownload](http://bitdownload.ir/)** - Video / Audio / Software / Games / Android / Courses / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[The-Eye](https://the-eye.eu/)** - Audio / ROMs / Books / Comics / Magazines / Software / [Discord](https://discord.com/invite/6hr2Xsm)
 * ⭐ **[Archive.org](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader) / [CLI](https://github.com/jjjake/internetarchive)
@@ -74,6 +73,7 @@
 * [DownDuck](http://www.downduck.com/) - Video / Audio / Software / Games / Books / Magazines
 * [AllYouLike](https://allyoulike.org/) - Video / Audio Books / Magazines / Games / ROMs / Software / Android / Comics / NSFW
 * [DDLValley](https://www.ddlvalley.me/) - Video / Audio / Games / ROMs / Software / Android / Books / Comics / Magazines / [Forum](https://forum.ddlvalley.me/)
+* [patoghu](https://patoghu.com/) - Video / Audio / Software / Android / Games / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [MaxRelease](http://max-rls.com/) - Video / Audio / Software / Games / Magazines
 * [DarkSoftware](https://darksoftware.net/) - Video / Audio / Games / ROMs
 * [WarezBook](https://www.warezbook.org/) - Video / Audio / Software / Games / Books
@@ -83,6 +83,7 @@
 * [WarezLover](https://warezlover.xyz/) - Video / Audio / Software / Games / Android / ROMs / Books / Magazines
 * [TFPDL](https://tfpdl.se/), [2](https://tfpdl.to/) - Video / Software / Games / Magazines / NSFW
 * [Apps4All](https://www.apps4all.com/ ) - Video / Books / Software / Games / Android
+* [WarezLoad](https://warezload.net/index.php) - Video / Audio / Software / Games / Books
 * [Katz DDL](https://katzddl.net/) - Video / Audio / Books / Games / Android / NSFW
 * [FreshWAP](https://www.freshwap.us/), [2](https://freshwap.cc/) - Video / Audio / Software / Games / Android / Books / Magazines  
 * [BadshahUploads](https://badshahuploads.xyz/) - Video / Audio / Software / Games / Books / Leech Required
@@ -216,6 +217,7 @@
 * ⭐ **[Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites)** - Software / App Alternatives
 * ⭐ **[Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**, [2](https://gitlab.com/awesome-selfhosted/awesome-selfhosted) - Selfhosted Software Index
 * ⭐ **[Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_package_managers)** - Install / Update Multiple Programs at Once
+* ⭐ **[store.rg](https://store.rg-adguard.net/)** - Paid Microsoft Store Link Generator / [Guide](https://rentry.co/paidAppsMsStore)
 * [Windows Ultimate Collection](https://forum.xda-developers.com/t/windows-ultimate-collection-guides.4507867/)
 * [OlderGeeks](https://oldergeeks.com/)
 * [Free Software MF](https://whoisdsmith.gitbook.io/free-software-mf)
@@ -258,7 +260,6 @@
 * [FluentStore](https://github.com/yoshiask/FluentStore) - Microsoft Store Frontend
 * [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) or [Reinstall Preinstalled](https://pastebin.com/5NnBEqnm) / [Guide](https://youtu.be/EQo53hvWy8Q) - Add Microsoft Store to Windows
 * [Alt App Installer](https://github.com/m-jishnu/alt-app-installer) - Install Microsoft Store Apps
-* [store.rg](https://store.rg-adguard.net/) - Paid Microsoft Store Link Generator / [Guide](https://rentry.co/paidAppsMsStore)
 
 ***
 
