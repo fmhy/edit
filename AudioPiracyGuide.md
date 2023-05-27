@@ -240,7 +240,7 @@
 
 ## ▷ Download Apps
 
-* ⭐ **[Music Ripping Guide](https://ori5000.github.io/musicripping.html)**, [Florin](https://rentry.org/florinsmusicrippingguide) or [Firehawk](https://rentry.org/firehawk52) - Audio Downloading / Ripping Guides
+* ⭐ **[Music Ripping Guide](https://ori5000.github.io/musicripping.html)**, [Florin](https://rentry.org/florinsmusicrippingguide) or [Firehawk52](https://rentry.org/firehawk52) - Audio Downloading / Ripping Guides
 * ⭐ **[Slavart](https://discord.gg/NgPJTt3WK3)** - Multi-Site Audio Download App / [Site](https://slavart.gamesdrive.net/), [2](https://gamesdrive.net/) / [Divolt](https://slavart.divolt.xyz) / [Telegram](https://t.me/+9znaxmYJB5lkNzA8) / [Qobuz Copy](https://rentry.co/qobuz-slavart)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Audio Download Web App
 * ⭐ **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Download from Spotify
@@ -421,6 +421,7 @@
 * ⭐ **[Audio Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55)** - Multi-Site Search
 * ⭐ **[Redacted](https://interviewfor.red/)** - MP3 / FLAC
 * ⭐ **[Orpheus](https://orpheus.network/)** - MP3 / FLAC / [Interviews](https://interview.orpheus.network/)
+* ⭐ **[Redtopia](https://github.com/nbats/FMHYedit/blob/main/base64.md#redtopia)** - Redtopia Repository / FLAC
 * ⭐ **[SolidTorrents](https://solidtorrents.to/)** - MP3 / FLAC / [/r/SolidTorrents](https://reddit.com/r/SolidTorrents)
 * ⭐ **[Lidarr](https://github.com/Lidarr/Lidarr)** or [Headphones](https://github.com/rembo10/headphones) - Audio Torrent Autodownload
 * [General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f and type "audio"
@@ -430,6 +431,7 @@
 * [TheMixingBowl](https://themixingbowl.org/) - MP3  / Signup Required
 * [Metal Tracker](https://en.metal-tracker.com/) - Metal / MP3
 * [BlackTorrent](https://blacktorrent.ru/) - Metal / MP3 / FLAC
+* [iPlayMetal](https://metal.iplay.ro/) - Metal / MP3 / FLAC
 * [RockBox](https://rawkbawx.rocks/) - Metal / MP3
 * [PunkTorrents](https://www.punktorrents.com/) - Punk / MP3
 * [the /kpg/ torrent](https://kpg.neocities.org/) - 800gb+ K-Pop Torrent File
