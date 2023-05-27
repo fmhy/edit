@@ -1107,6 +1107,7 @@
 * [Randomicle](https://randomicle.com/) - Random Amazon Products
 * [Amazon International Links](https://greasyfork.org/en/scripts/38639-amazon-international-links) - international Amazon Products
 * [Facebook Ad Library](https://www.facebook.com/ads/library/) - Find Deals via Facebook Ad Search
+* [AllCraigslistSearch](https://allcraigslistsearch.com/) or [Craigs List Search](https://craigs-list-search.com/) - Craigslist Search
 * [Type Hound](https://typohound.com/) - Ebay Typo Search
 * [BTOD](https://www.btod.com/blog/category/buying-guides/) - Office Chair Buying Guides / Reviews
 * [Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/) - Mousepad Buying Guide / Reviews
@@ -1148,7 +1149,8 @@
 * [MechGroupBuys](https://www.mechgroupbuys.com/) - Group Mechanical Keyboard Buying / [Discord](https://discord.com/invite/mechgroupbuys) / [Reddit](https://www.reddit.com/r/MechGroupBuys/)
 * [PSU Tier List](https://cultists.network/140/psu-tier-list/) - PSU Buying Guide
 * [PC Monitors](https://pcmonitors.info/), [Monitor Spreadsheet](https://pastebin.com/tkmakRNW) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
-* [DisplayWars](http://www.displaywars.com/), [sven dpi](https://www.sven.de/dpi/) or [Screen Sizes](https://screensiz.es/) - Screen Size Comparisons 
+* [DisplayWars](http://www.displaywars.com/), [sven dpi](https://www.sven.de/dpi/) or [Screen Sizes](https://screensiz.es/) - Screen Size Comparisons
+* [Erin's Audio Corner](https://www.erinsaudiocorner.com/) - Audio Equipment Comparisons
 * [GPUDrops](https://gpudrops.com/) / [Discord](https://discord.gg/gpudrops), [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
 * [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones / Prices
 *[Digicamfinder](https://digicamfinder.com/) - Digital Camera Database
@@ -1303,7 +1305,7 @@
 * ⭐ **[Painting / Drawing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_painting_.2F_drawing)** - Painting / Drawing Tools
 * ⭐ **[sandspiel.club](https://sandspiel.club/)** - Falling Sand Physics Sandbox
 * ⭐ **[Genetic Cars 2](https://rednuht.org/genetic_cars_2/)** - Random 2D Car Generator 
-* [Human Benchmark](https://humanbenchmark.com/) - Brain Games & Cognitive Tests
+* ⭐ **[Human Benchmark](https://humanbenchmark.com/)** - Brain Games & Cognitive Tests
 * [Got Rhythm?](https://www.concerthotels.com/got-rhythm) - Rhythm / Tempo Test
 * [1000 Seconds](https://mattround.com/usvsth3m/1000-seconds/) - Test of Patience
 * [Just a Minute](https://jinay.dev/just-a-minute/) - Estimate a Minute
@@ -1358,7 +1360,7 @@
 * [Drawing Garden](https://drawing.garden/) - Create Sounds via Mouse Movement
 * [Fractal Sound Explorer](https://codeparade.itch.io/fractal-sound-explorer) - Create Sounds via Fractals
 * [typedrummer](http://typedrummer.com/) - Drum by Typing 
-* [Soundscape](https://soundscape.world/) - Beat Builder / Visualizer 
+* [Soundscape](https://soundscape.world/) - Beat Builder / Visualizer
 * [MikuTap](https://aidn.jp/mikutap/) - Click to Make Sounds / Graphics
 * [Patatap](https://www.patatap.com/) - Type to Create Melodies / Moving Shapes 
 * [Touch Pianist](http://touchpianist.com/) - Magical Piano App 
