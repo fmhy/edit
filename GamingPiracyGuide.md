@@ -344,7 +344,7 @@
 * [lemon64](https://www.lemon64.com/), [whdload](https://www.whdload.de/), [lemonamiga](https://www.lemonamiga.com/), [exotica](http://www.exotica.org.uk/) or [hol abime](https://hol.abime.net/) - Amiga / Commodore 64 ROMs
 * [C64](http://www.c64.com/) - Commodore 64 ROMs
 * [AtariMania](http://www.atarimania.com/index.html) - ROMs / Emulators  / Atari Consoles
-* [World of Spectrum](https://worldofspectrum.org/) - ROMs / Emulators / Sinclair ZX Spectrum
+* [World of Spectrum](https://worldofspectrum.org/) or [SpectrumComputing](https://spectrumcomputing.co.uk/) - ROMs / Emulators / Sinclair ZX Spectrum
 * [Flashtro](https://flashtro.com/) - Retro Games
 * [/1CC/](https://8kun.top/1cc/index.html) - Retro Games 
 * [Zombs-Lair](https://www.zombs-lair.com/) - Retro Games
@@ -897,6 +897,7 @@
 * [RetroShowcase](https://www.retroshowcase.gr/) or [The Good Old Days](https://www.goodolddays.net/) - Retro Game Databases
 * [Sega Retro](https://segaretro.org/) - Sega Game Database
 * [AtariAge](https://atariage.com/) - Atari Game Database
+* [Polish Pixels](https://polishpixels.com/) - Retro Polish Games Database
 * [Co-Optimu](https://www.co-optimus.com/) - Co-Op Game Database
 * [SvenEvils Playground](https://store.steampowered.com/curator/8485829/) or [list of local multiplayer pc games](https://docs.google.com/spreadsheets/d/14f6qS2GJy8C-b40Df3dNH_aZq7WfZ4jMggzEajUrX0w/) - Local Multiplayer Game Database
 * [HOTU](http://www.homeoftheunderdogs.net/) - Rare Game Database
@@ -1230,7 +1231,7 @@
 * [Villager Trading Cheatsheet](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png)
 * [Free Minecraft Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_servers) - Host Free Minecraft Servers
 * [GeyserMC](https://geysermc.org/) - Join Minecraft Java Servers with Bedrock Client / [Consoles](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/)
-* [CraftyControl](https://craftycontrol.com/) or [Fork](https://www.fork.gg/) - Minecraft Server Manager
+* [CraftyControl](https://craftycontrol.com/), [MCSManager](https://github.com/MCSManager/MCSManager) or [Fork](https://www.fork.gg/) - Minecraft Server Managers
 * [Minecraft Server Scanner](https://github.com/Footsiefat/Minecraft-Server-Scanner) - Minecraft Server Info
 * [MCStalker](https://discord.gg/CB78nDfBeQ) - Minecraft Whitelist Enforcement Tool
 * [NameMC](https://namemc.com/) - Minecraft Name Availability Tracker
