@@ -213,6 +213,7 @@
 * [hdvinnie](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) - Open Tracker Invites
 * [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) - Open Tracker Invites
 * [Open for Signup](https://t.me/opensignup) - Open Signups Private Trackers / Telegram
+* [Upload-Assistant](https://github.com/L4GSP1KE/Upload-Assistant) - Private Tracker Auto-Upload
 * [Bemaniso](https://bemaniso.ws/) - Torrent Tracker / [Auto Transcode / Upload](https://github.com/doggo404/sowsbetter)
 * [TrackerScreenshot](https://github.com/KlevGG/TrackerScreenshot) - Auto Screenshot Tracker Stats
 
