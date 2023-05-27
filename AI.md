@@ -12,16 +12,17 @@
 # ► AI Chatbots
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot
-* ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Based Chatbot with Web Access / [Discord](https://discord.com/invite/S25yW8TebZ)
-* ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Chatbot with Web Access / [Discord](https://discord.com/invite/perplexity-ai)
+* ⭐ **[Perplexity](https://www.perplexity.ai/)** or [FastGPT](https://labs.kagi.com/fastgpt) - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai)
+* ⭐ **[Phind](https://www.phind.com/)** - GPT-3.5 Dev Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ)
 * ⭐ **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Open Source LLMs / [Collab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
 * ⭐ **[Guanaco](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi)** - QLoRA based Open-Source Chatbot / [Github](https://github.com/artidoro/qlora)
 * ⭐ **[Ora](https://ora.sh/openai/chatgpt)** - GPT-3.5 Based Chatbots
 * ⭐ **[LMSYS](https://chat.lmsys.org/)** - Open Source LLM Chatbots / [Discord](https://discord.com/invite/h6kCZb72G7)
 * ⭐ **[AI Playground](https://play.vercel.ai/)** - Compare AI Responses
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
+* ⭐ **[Call Annie](https://callannie.ai/)** - Virtual Companion / [Discord](https://discord.gg/Rfbzet5R3v)
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
-* ⭐ **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbots Index
+* ⭐ **[LifeArchitect](https://lifearchitect.ai/models-table/)**, [GPT4Free](https://github.com/xtekky/gpt4free) or [Awesome Totally Open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) - Chatbots Indexes
 * [BAI](https://chatbot.theb.ai/) - GPT-3.5 Based Chatbot
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
 * [LLaVA](https://llava.hliu.cc/) - Chatbot with Image Support / [GitHub](https://github.com/haotian-liu/LLaVA)
@@ -53,7 +54,6 @@
 * [MiniAGI](https://github.com/muellerberndt/mini-agi) - Autonomous GPT-3.5 / GPT-4
 * [Kajiwoto](https://kajiwoto.com/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
 * [SillyTavern](https://github.com/Cohee1207/SillyTavern) - UI for Roleplaying Chatbots
-* [Awesome Totally Open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) - Open-Source Chatbots Index
 
 ***
 
@@ -66,15 +66,15 @@
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
 * [EmergentMind](https://www.emergentmind.com/) - AI News
 * [ChatWebpage](https://chatwebpage.com/) - Turn Webpages into Chatbots
-* [ChatBlade](https://github.com/npiv/chatblade) - ChatGPT in CLI
-* [engshell](https://github.com/emcf/engshell) - AI Powered Terminal
+* [ChatBlade](https://github.com/npiv/chatblade) - ChatGPT CLI
+* [engshell](https://github.com/emcf/engshell) or [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT in TUIs
 * [FreeGPT](https://freegpt.one/), [ChatGPTClone](https://github.com/xtekky/chatgpt-clone), [YakGPT](https://yakgpt.vercel.app/) or [TurboGPT.ai](https://turbogpt.ai/) - AI Chat WebUIs
 * [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [TurboGPT](https://github.com/mikebpech/turbogpt.ai) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
 * [AICommand](https://github.com/keijiro/AICommand) - ChatGPT for Unity Editor
 * [docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT Google Docs Addon
 * [ChatHub](https://chathub.gg/) or [ChatGPTBox](https://github.com/josStorer/chatGPTBox) - ChatGPT Browser Extensions
 * [chatgpt-discord-bot](https://github.com/TuringAI-Team/chatgpt-discord-bot), [CharacterAI](https://github.com/drizzle-mizzle/CharacterAI-Discord-Bot) or [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - ChatGPT for Discord
-* [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) / [2](https://github.com/n3d1117/chatgpt-telegram-bot), [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) or [gpt_fast_bot](https://t.me/gpt_fast_bot) - ChatGPT for Telegram
+* [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) / [2](https://github.com/n3d1117/chatgpt-telegram-bot) / [3](https://github.com/watscho/chat-gpt-telegram-bot) or [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT for Telegram
 * [WeChat ChatGPT](https://github.com/fuergaosi233/wechat-chatgpt) - ChatGPT for WeChat
 * [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - ChatGPT for Slack
 * [ChatGPT Advanced](https://tools.zmo.ai/webchatgpt) - Add Search Results to ChatGPT / [Discord](https://discord.com/invite/pkZ3wwuT)
@@ -131,6 +131,7 @@
 * [Cookup AI](https://cookup.ai/) - AI Directory
 * [SuperTools](https://supertools.therundown.ai/) - AI Directory
 * [iLib](https://www.ilib.com/) -  AI Directory
+* [ArtificialStudio](https://www.artificialstudio.ai/tools) - Browser Based AI
 * [RunwayML](https://runwayml.com/) - Browser Based AI
 * [Experiments with Google](https://labs.withgoogle.com/) - AI Experiments
 * [OpenCV](https://opencv.org/) - A.I. Vision Library
@@ -167,7 +168,7 @@
 * [Marmof](https://marmof.com/) - Creator / Marketing AI
 * [GPT4Chat](https://gpt4chat.net/) or [ChatGPT Writer](https://chatgptwriter.ai/) - Email Reply AI
 * [codex-readme](https://github.com/tom-doerr/codex-readme) - README AI Generator
-* [WTFDoesThisCompanyDo](https://wtfdoesthiscompanydo.vercel.app/) - AI Site Explanations
+* [WTFDoesThisCompanyDo](https://wtfdoesthiscompanydo.vercel.app/) or [SiteExplainer](https://www.siteexplainer.com/) - AI Site Explanations
 * [EleutherAI](https://6b.eleuther.ai/) - Text Autocomplete AI
 * [Talk to Transformer](https://app.inferkit.com/demo) - Text Autocomplete AI
 * [TextSynth](https://textsynth.com/playground.html) - Text Autocomplete AI
@@ -265,7 +266,7 @@
 ## ▷ Stable Diffusion
 
 * ⭐ **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** - AI Image Generator / [Github](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
-* ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - Self-Host / [Fork](https://github.com/vladmandic/automatic) 
+* ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - Self-Host / [Fork](https://github.com/vladmandic/automatic), [2](https://github.com/anapnoe/stable-diffusion-webui-ux)
 * ⭐ **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** - Self-Host / [Discord](https://discord.com/invite/ZmtBAhwWhy)
 * ⭐ **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** - Self-Host
 * ⭐ **[PlaygroundAI](https://playgroundai.com/)** - Online
@@ -277,6 +278,7 @@
 * [Radiata](https://github.com/ddPn08/Radiata) - Self-Host
 * [NMKD Stable Diffusion GUI](https://github.com/n00mkrad/text2image-gui) - Self-Host
 * [aiimag.es](https://sunija.itch.io/aiimages) - Self-Host / [Discord](https://discord.com/invite/Fge4dVHFM2)
+* [RandomSeed](https://randomseed.co/) - Online / [Discord](https://discord.com/invite/wbPsPtmpuK)
 * [Playgrounds](https://playgrounds.ai/) - Online
 * [Stable UI](https://aqualxx.github.io/stable-ui/) - Online
 * [StableDiffusionOnline](https://stablediffusiononline.net/) - Online
@@ -418,7 +420,7 @@
 
 # ► Machine Learning
 
-* ⭐ **[awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes)**, [lmg-resources](https://rentry.org/lmg-resources), [awesome-marketing-datascience](https://github.com/underlines/awesome-marketing-datascience/), [CyberCowboy](https://local-llm.cybercowboy.de) or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
+* ⭐ **[awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes)**, [lmg-resources](https://rentry.org/lmg-resources), [awesome-marketing-datascience](https://github.com/underlines/awesome-marketing-datascience/), [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm), [CyberCowboy](https://local-llm.cybercowboy.de) or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
 * [Catalyzex](https://www.catalyzex.com/) or [PapersWithCode](https://paperswithcode.com/) - Search Machine Learning Models / Papers
 * [awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Machine Learning Colabs
 * [OpenAIPlayground](https://github.com/nat/openplayground) -
