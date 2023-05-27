@@ -328,7 +328,7 @@
 * [Redirect AMP to HTML](https://www.daniel.priv.no/web-extensions/amp2html.html) - Redirects AMP Pages to Regular Web Pages 
 * [HTTP Header Live](https://github.com/Nitrama/HTTP-Header-Live) - Display / Edit the HTTP Header
 * [Open Two Factor Authenticator](https://add0n.com/two-factor-authenticator.html) - Two-Factor Authentication Addon 
-* [WAIncognito](https://chrome.google.com/webstore/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil?hl=en) - Disable WhatsApps Read Receipts & Presence Updates
+* [WAIncognito](https://chrome.google.com/webstore/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil?hl=en) - Disable WhatsApps Read Receipts & Presence Updates 
 * [IndicateTLS](https://github.com/jannispinter/indicatetls) - Display a Sites the TLS Protocol Version 
 * [Lightbeam](https://github.com/princiya/lightbeam-we) - Tracker Visualization 
 
@@ -568,6 +568,7 @@
 * [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt)
 * [Xray](https://github.com/XTLS/Xray-core) - [Telegram](https://t.me/projectXray)
 * [Privoxy](http://www.privoxy.org/) - [Docker Build](https://github.com/binhex/arch-privoxyvpn)
+* [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy) - TLS Proxy
 * [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - HTTPS Proxy
 * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) or [NginxProxyManager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Proxy Manager
 * [FoxyProxy](https://getfoxyproxy.org/), [anonymoX](https://anonymox.net/en), [Ambrose](https://play.google.com/store/apps/details?id=com.ambrose.overwall&gl=US) or [Snowflake](https://snowflake.torproject.org/) - Proxy Browser Extensions
