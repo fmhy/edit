@@ -1090,6 +1090,7 @@
 * ⭐ **[RevShells](https://www.revshells.com/)** - Reverse Shell Generator
 * [Programming Language Benchmarks](https://programming-language-benchmarks.vercel.app/) - Programming Language / Compiler Benchmarks
 * [AI Code Translator](https://ai-code-translator.vercel.app/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - Code Converters
+* [TurboPilot](https://github.com/ravenscroftj/turbopilot) - AI Code Completion
 * [WebdevHome](https://webdevhome.github.io/), [Charm](https://charm.sh/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - Programming Tool Indexes
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Programming Site Index 
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Web Scraping Tool Index
