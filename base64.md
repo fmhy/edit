@@ -56,12 +56,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ***
 
-#### 163.172.97.48
-
-`aHR0cDovLzE2My4xNzIuOTcuNDgv`
-
-***
-
 #### مسلسلات اجنبية
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMEIxOU9vSUMzMVVOMGVVRTRPRVJqU1hZeGNVRQ==`
@@ -167,13 +161,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 #### BurntScarr
 
 `aHR0cDovL3d3dy5idXJudHNjYXJyLmNvbS9idXJudHNjYXJyL1NURU1TLw==`
-
-
-***
-
-#### Redtopia
-
-`aHR0cHM6Ly9naXQuZnV3YWZ1d2EubW9lL2NhaXJuL1JlZHRvcGlh`
 
 ***
 
