@@ -178,7 +178,7 @@
 * [Cliche Info](http://cliche.theinfo.org/) - Detect Cliché's
 * [phraseup](https://www.phraseup.com/) - Autocomplete Common Phrases
 * [Text Generator](https://deepai.org/machine-learning-model/text-generator) - Generate Text from Prompt
-* [SongLyricsGenerator]() or [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) - Lyrics Generators
+* [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) - Lyrics Generators
 * [Deep Beat](https://deepbeat.org/) - Rap Lyrics Generator
 * [Random Poem](https://random-poem.com/) - Poem Generator
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
@@ -528,7 +528,7 @@
 * [Repetito](https://repetito.com/) - Multichannel Looper
 * [MP3Louder](https://mp3louder.com/) - Increase MP3 Volume
 * [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/), [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil), [AdventureMachine](https://adventuremachine.4thfloorcreative.co.uk//) or [Strofe](https://www.strofe.com/) - Simple Audio Creators
-* [WD-1](https://www.worteldrie.com/WD5/), [Until AM](http://mix.until.am/) or [YOU.DJ](https://you.dj/) - Online DJ / Beat Creator 
+* [WD-1](https://www.worteldrie.com/WD5/), [Until AM](http://mix.until.am/) or [YOU.DJ](https://you.dj/) - Online DJ / Beat Creators 
 * [RaveDJ](https://rave.dj/) - Easily Mix Songs Together 
 * [WebAssembly Music Experiment](https://petersalomonsen.com/webassemblymusic/livecodev2/) - Create Songs with Code
 * [Viano](https://github.com/isaaclyman/Viano) - Create Songs with Vue
@@ -550,7 +550,7 @@
 * [Open Note Block Studio](https://opennbs.org/) - Minecraft Note Block Song Editor
 * [Acid Machine 2](https://errozero.co.uk/acid-machine/) - Acid Techno Machine
 * [AGS](https://audio-file.org/2020/11/25/ags-advanced-gtk-sequencer/) - Audio Sequencer
-* [Sequencer](https://sequencer.henryfellerhoff.com/) - Scale Sequencer
+* [Sequencer](https://sequencer.henryfellerhoff.com/) or [DrawBeats](https://drawbeats.com/) - Scale Sequencers
 * [Roland50.studio](https://roland50.studio/) - Online Drum Machine / TB-303 Bass Synth
 * [iO-808](https://io808.com/), [Sequencer64](https://www.sequencer64.com/), [Drummy](https://drummy.io/) or [Hammmerhead](http://www.threechords.com/hammerhead/) - Online Drum Machines
 * [orDrumbox](https://www.ordrumbox.com/) - Drum Machine
@@ -806,14 +806,14 @@
 * [Irchiver](https://irchiver.com/) - Automatic Web Browser Screenshots
 * [WaybackShot](https://github.com/sam5epi0l/waybackshot) - Retrieve Site Screenshots via Wayback Machine
 * [Awesome Website Change Monitoring](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring), [Sken.io](https://www.sken.io/), [ChangeDetection.io](https://github.com/dgtlmoon/changedetection.io), [urlwatch](https://thp.io/2008/urlwatch/), [Visualping](https://visualping.io/), [obzrv](https://obzrv.it/), [changd](https://github.com/paschmann/changd) or [FollowThatPage](https://followthatpage.com/) - Page Change Detection / Notification 
-* [CertAlert](https://certalert.net/) - Alerts you when a TLS/SSL Certificate Expires 
+* [CertAlert](https://certalert.net/) - Alerts you when a TLS/SSL Certificate Expires
 * [Public Gateway Checker](https://ipfs.github.io/public-gateway-checker/) - Check which IPFS Gateways are Online
 * [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
 * [SocialBlade](https://socialblade.com/) or [NoxInfluencer](https://www.noxinfluencer.com/) - Social Media Stats
 * [LiveCounts](https://livecounts.io/) - Live Social Media Stats
 * [Cloaking Company](https://www.cloakingcompany.com/) - Create Alogorith Pleasing Social Media Posts
 * [Abogrow](https://www.abogrow.com/compose) - Preview Social Media Posts
-* [OPoster](https://github.com/OrienteerBAP/OPoster) - Schedule Social Media Posts
+* [OPoster](https://github.com/OrienteerBAP/OPoster) or [OneUp](https://www.oneupapp.io/) - Social Media Post Schedulers
 * [you-get](https://github.com/soimort/you-get) - Download Media Contents from Webpages
 * [Login Reminder Remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - Remove Login Popup from Sites
 * [BugMeNot](https://bugmenot.com/), [Parolja](http://en.parolja.net/), [Login2.me](https://login2.me/), [FreeAccount](https://freeaccount.biz/) or [Password Login](http://password-login.com/) - Access & Share Throwaway Accounts
@@ -1220,7 +1220,7 @@
 * [Reddit Check](https://chrome.google.com/webstore/detail/reddit-check/mllceaiaedaingchlgolnfiibippgkmj) or [RedditRepostSleuth](https://github.com/barrycarey/RedditRepostSleuth) - Check for Reposts
 * [DelayForReddit](https://www.delayforreddit.com/) - Reddit Post Scheduler
 * [Reddit Desktop Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_desktop_apps) 
-* [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader), [DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit) or [ReScrapper](https://github.com/psantheus/ReScrapper) - Reddit Media Downloader
+* [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader), [DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit), [RedditScrape](https://github.com/NSFWUTILS/RedditScrape) or [ReScrapper](https://github.com/psantheus/ReScrapper) - Reddit Media Downloaders
 * [Bulk Downloader for Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Reddit Bulk Submission Downloader
 * [Pushshift.io](https://pushshift.io/) or [SocialGrep](https://socialgrep.com/) - Reddit Statistics
 * [Upvote Stats](https://www.upvotestats.com/) - Upvote Stats
@@ -1420,7 +1420,7 @@
 * [Video Stream](https://github.com/lntechnical2/videostream) - Telegram Video Player
 * [YTSZBot](https://t.me/YTSZBot) - YouTube Search Bot
 * [YeetMeet](https://github.com/1337w0rm/YeetMeet) - Meeting Auto Join Bot
-* [Unigram](https://github.com/UnigramDev/Unigram), [Tok](https://invent.kde.org/network/tok), [TDesktop](https://github.com/Forkgram/tdesktop) or [Kotatogram](https://github.com/kotatogram/kotatogram-desktop) - Telegram Desktop Client
+* [Unigram](https://github.com/UnigramDev/Unigram), [VideoGram](https://vidogram.org/), [Tok](https://invent.kde.org/network/tok), [TDesktop](https://github.com/Forkgram/tdesktop) or [Kotatogram](https://github.com/kotatogram/kotatogram-desktop) - Telegram Desktop Clients
 * [Web.Telegram](https://web.telegram.org/), [2](https://webk.telegram.org/), [3](https://weba.telegram.org/), [4](https://github.com/Ajaxy/telegram-tt) - Telegram Web Clients
 * [tg](https://github.com/paul-nameless/tg) - Telegram Terminal Client
 * [Pyrogram](https://docs.pyrogram.org/) - Telegram API Client / [Session Strings](https://t.me/SessionStringGeneratorZBot)
@@ -1433,7 +1433,7 @@
 * [GoriThemes](https://t.me/GoriThemes) - Telegram Themes
 * [Callmebot](https://www.callmebot.com/) - Trigger Voice Calls or Chats
 * [Skeddy](https://skeddy.me/) - Telegram Reminder Bot
-* [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) / [2](https://github.com/n3d1117/chatgpt-telegram-bot) or [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT for Telegram
+* [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) / [2](https://github.com/n3d1117/chatgpt-telegram-bot) / [3](https://github.com/watscho/chat-gpt-telegram-bot) or [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT for Telegram
 * [TgStory](https://github.com/dishapatel010/TgStory) - Instagram Style Stories Bot
 * [CloneChat](https://github.com/apenasrr/clonechat) - Clone Telegram Chats
 * [clonebot](https://github.com/m4mallu/clonebot) - Clone Media from Chats
@@ -1560,12 +1560,11 @@
 * [YoutubeLiveChatFlusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - Bullet Chatting (Danmaku) for YouTube Live
 * [TubeTDLR](https://tubetldr.com/) or [VideoHighlight](https://videohighlight.com/) - Summarize YouTube Videos
 * [Youtube Summarizer](https://share.streamlit.io/iamknownstranger/ytsummary/main) - YouTube Transcript Summarizers
-* [Youtube DataViewer](https://citizenevidence.amnestyusa.org/) or [YouTube-MA](https://github.com/CorentinB/YouTube-MA) - YouTube Video Data Viewer 
+* [Youtube DataViewer](https://citizenevidence.amnestyusa.org/, [YouTube-MA](https://github.com/CorentinB/YouTube-MA), [YouTube-Grab](https://github.com/ArchiveTeam/youtube-grab) or [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Data Viewers
+* [YouBit](https://github.com/MeViMo/youbit) - Use YouTube as File Host
 * [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer) - Restore Deleted YouTube Video Titles in Playlists
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [thumbnail-download](https://thumbnail-download.com/) or [Get YT Thumbnail](http://www.get-youtube-thumbnail.com/) - Download YouTube Thumbnails
-* [Screenshot YouTube](https://chrome.google.com/webstore/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk), [YouTube Screenshot](https://chrome.google.com/webstore/detail/youtube-screenshot/admjdaoijfccdllogfnddnllkghmkpfb?hl=en) or [YouTube Screenshot Button](https://chrome.google.com/webstore/detail/youtube-screenshot-button/ehehmcocpegbmagfhajbmeofolnpdfla?hl=en) - YouTube Screenshot Extension
-* [YouTube-Grab](https://github.com/ArchiveTeam/youtube-grab) or [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Metadata
-* [YouBit](https://github.com/MeViMo/youbit) - Use YouTube as File Host
+* YouTube Screenshot Extensions - [Firefox](https://addons.mozilla.org/en-US/firefox/search/?q=youtube%20screenshot) / [Chrome](https://chrome.google.com/webstore/search/youtube%20screenshot)
 
 ***
 
@@ -1701,6 +1700,7 @@ Twitch Stream Tracker
 * [ExportData](https://www.exportdata.io/) or [Twlets](http://twlets.com/) - Export Twitter Data 
 * [Twint](https://github.com/twintproject/twint) or [TwitterScraper](https://github.com/taspinar/twitterscraper) - Twitter Scraping / OSINT Tool
 * [QuestionBox](https://peing.net/en/) - Anonymous Twitter Question Tool
+* [Fallacy Review](https://fallacy.review/) - Highlight Logical Fallacies on Twitter
 * [EmojiTracker](http://emojitracker.com/) - Real-Time Twitter Emoji Use 
 * [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) - Remove All Twitter Metrics
 * [Cheap Bots, Done Quick](https://cheapbotsdonequick.com/) - Create Twitter Bots
@@ -2088,7 +2088,7 @@ Twitch Stream Tracker
 * [ModernNotify](https://github.com/Stamir36/ModernNotify) - Quick Actions Panel
 * [Closemul](https://www.lustark.com/closemul) - Multi-Purpose Program Frontend
 * [rofi](https://github.com/davatorium/rofi) or [Mint](https://github.com/hellzerg/mint) - Window Switchers / App Launchers
-* [Control UWP](https://github.com/builtbybel/control-uwp) - Simplified Control Panel
+* [Wintoys](https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD) or [Control UWP](https://github.com/builtbybel/control-uwp) - Alternative Control Panels
 * [DeskPins](https://efotinis.neocities.org/deskpins/) or [WindowTop](https://windowtop.info/) - Always on Top Windows
 * [Klotures](https://gitlab.com/jkushmaul/klotures) - Desktop Icon Organizer / [Demo](https://gitlab.com/jkushmaul/klotures/raw/master/docs/KloturesDemo.webm)
 * [Clipboard Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_clipboard_managers) - Manage Copied Text
