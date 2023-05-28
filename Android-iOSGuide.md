@@ -632,7 +632,7 @@
 * [Voice Audiobook Player](https://play.google.com/store/apps/details?id=de.ph1b.audiobook) - Audiobook Player
 * [Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) - Audiobook Player
 * [AudioAnchor](https://github.com/flackbash/AudioAnchor) - Audiobook Player
-* [eStories](https://play.google.com/store/apps/details?id=com.estories) - Free Cloud Storage for DRM-removed Audiobooks 
+* [eStories](https://play.google.com/store/apps/details?id=com.estories) - Audiobook Player
 * [Perfect Viewer](https://github.com/nbats/FMHYedit/blob/main/base64.md#perfect-viewer) - Manga Reader
 * [MangaDLR](https://bitbucket.org/cylonu87/mangadlr/downloads/) - Manga Reader
 * [Manga Reader](https://flathub.org/apps/details/com.georgefb.mangareader) - Manga Reader
