@@ -100,6 +100,7 @@
 * [Warez-Serbia](https://www.warez-serbia.com/) - Video / Audio / Games / Software / Android / Books / Magazines / NSFW
 * [DownArchive](http://downarchive.org/) - Video / Audio / Software / Games / ROMs / Android / Books / Magazines
 * [OneDDL](https://oneddl.org/) - Video / Audio / Software / Games / Books
+* [Share4All](https://share4all.com/) - Video / Audio / Software / Games / Books / Android
 * [Warez Heaven](https://www.warezheaven.com/index.php) - Video / Audio / Software / Games / ROMs / Books / NSFW
 * [Download.ir](https://download.ir/) - Software / Video / Android / Games / ROMs
 * [SceneSource](https://www.scnsrc.me/), [2](https://www.scenesource.me/) - Video / Audio / Software / Games / ROMs / Books
