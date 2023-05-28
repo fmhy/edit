@@ -776,6 +776,7 @@ Simulator
 * [LilyPond](http://lilypond.org/) - Music Engraving Program
 * [Learning Music](https://learningmusic.ableton.com/)
 * [Musica](https://www.musicca.com/)
+* [Awesome Music Theory](https://github.com/vpavlenko/study-music) - Music Theory Resources
 * [Muted](https://muted.io/) - Music Theory
 * [Teoria](https://www.teoria.com/index.php) - Music Theory
 * [LightNote](https://www.lightnote.co/) - Music Theory
