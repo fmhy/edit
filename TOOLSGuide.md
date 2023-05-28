@@ -1558,7 +1558,7 @@
 * [ChatReplay](https://chatreplay.stream/) - YouTube Live Stream Chat Replay
 * [LiveTL](https://kentonishi.github.io/LiveTL/) - YouTube Live Stream Translator
 * [YoutubeLiveChatFlusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - Bullet Chatting (Danmaku) for YouTube Live
-* [TubeTDLR](https://tubetldr.com/) or [VideoHighlight](https://videohighlight.com/) - Summarize YouTube Videos
+* [TubeTDLR](https://tubetldr.com/), [You-TLDR](https://www.you-tldr.com/) or [VideoHighlight](https://videohighlight.com/) - Summarize YouTube Videos
 * [Youtube Summarizer](https://share.streamlit.io/iamknownstranger/ytsummary/main) - YouTube Transcript Summarizers
 * [Youtube DataViewer](https://citizenevidence.amnestyusa.org/, [YouTube-MA](https://github.com/CorentinB/YouTube-MA), [YouTube-Grab](https://github.com/ArchiveTeam/youtube-grab) or [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Data Viewers
 * [YouBit](https://github.com/MeViMo/youbit) - Use YouTube as File Host
