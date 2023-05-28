@@ -6014,6 +6014,7 @@ Add the following commands to a search to manually scrape each site.
 * [Voody](https://voody-online.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [AllMoviesForYou](https://amfy.io/) - Movies / TV
 * [FFilmClub](https://filmsclub.org/) - Movies / TV
+* [MovieXFilm](https://moviexfilm.com/) - Movies / TV
 * [1movies](https://1movies.life/), [2](https://real-primewire.club/), [3](https://couchtuner.fashion/), [4](https://ww2.new-primewire.com/) - Movies / TV / Anime
 * [123MoviesFree](https://ww1.123moviesfree.net/) - Movies / TV / Anime
 * [123Moviess](https://123moviess.net/) - Movies / TV
@@ -6349,7 +6350,7 @@ Add the following commands to a search to manually scrape each site.
 
 ## ▷ Cartoon Streaming
 
-* ⭐ **[WCO](https://www.wco.tv/)** - Anime / Cartoons
+* ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcofun.com/) - Anime / Cartoons
 * ⭐ **[KimCartoon](https://kimcartoon.li/)**
 * ⭐ **[KissCartoon](https://kisscartoon.help/)**
 * [TopCartoons](https://www.topcartoons.tv/)
@@ -6572,6 +6573,7 @@ Add the following commands to a search to manually scrape each site.
 * [RareLust](https://rarelust.com/) - Rare Movies / NSFW
 * [My Duck Is Dead](https://www.myduckisdead.org/) - Rare Movies / NSFW
 * [MegaDDL](https://megaddl.co/) - Movies / TV
+* [StagaTV](https://www.stagatv.com/) - Movies / TV
 * [movie-web](https://movie-web.app/) - Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)
 * [Uloz](https://ulozto.net/) - Rare Movies / Short Films
 * [MobileTVShows](https://www.mobiletvshows.net/) - TV / Anime
@@ -6588,6 +6590,7 @@ Add the following commands to a search to manually scrape each site.
 * [FZMovies](https://fzmovies.host/) - Movies
 * [FZMoviesz](https://fzmoviesz.com/) - Movies / TV
 * [YourSerie](https://www.yourserie.com/) - Movies / TV
+* [SeriesWay](https://seriesway.com/) - Movies / TV
 * [FilmDuty](https://filmduty.com/) - Movies / TV / Anime
 * [Naijavault](https://www.naijavault.com/) - Movies / TV
 * [KimoiTV](https://www.kimoitv.com/) - Movies / TV / Anime
@@ -6937,7 +6940,8 @@ Add the following commands to a search to manually scrape each site.
 * [Subsplease](https://subsplease.org/) - Subtitles 
 * [opensubtitles.com](https://www.opensubtitles.com/) - Subtitles
 * [Subs4Free](https://www.subs4free.info/) - Subtitles 
-* [English-Subtitles](https://english-subtitles.org/) - Subtitles 
+* [English-Subtitles](https://english-subtitles.org/) - Subtitles
+* [AddSubtitles](https://addsubtitles.net/) - Subtitles
 * [SubAsk](https://subask.com/) - Subtitles
 * [YTS Subs](https://yts-subs.com/) - Subtitles
 * [MovieSubtitles](http://www.moviesubtitles.net/) - Subtitles
@@ -9847,6 +9851,7 @@ Add the following commands to a search to manually scrape each site.
 * [Web Design in 4 Minutes](https://jgthms.com/web-design-in-4-minutes/) or [Strml](https://www.strml.net/) - Interactive Web Design Tutorial
 * [WebGL and GLSL Workshop](https://mattdesl.github.io/workshop-webgl-glsl/) - Interactive WebGL / GLSL Tutorial
 * [LearningSEO](https://learningseo.io/) - SEO Guides
+* [Discord.js Guide](https://discordjs.guide/) or [An Idiot's Guide](https://anidiots.guide/) - Discord.js Bot Guides
 
 ***
 
@@ -9901,7 +9906,6 @@ Add the following commands to a search to manually scrape each site.
 * [Data Science Ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks), [Scipy Lectures](http://scipy-lectures.org/) or [Virgilio](https://virgili0.github.io/Virgilio/) / [GitHub](https://github.com/virgili0/Virgilio) - Learn DataScience
 * [Data Engineering Practice Problems](https://github.com/danielbeach/data-engineering-practice) - Data Engineering Practice 
 * [Learn to Make Netflix Clone](https://github.com/kubowania/netflix-clone-graphql-datastax)
-* [Discord.js Guide](https://discordjs.guide/) - Discord.js Bot Guide
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons 
 * [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book 
@@ -10736,6 +10740,7 @@ Add the following commands to a search to manually scrape each site.
 * [Awesome README](https://github.com/matiassingers/awesome-readme) - GitHub Readme Examples
 * [GIT Quick Stats](https://git-quick-stats.sh/) - View Git Statistics / [GitHub](https://github.com/arzzen/git-quick-stats)
 * [YourYearInCode](https://www.youryearincode.com/) - Yearly Git Statistics
+* [Langits](https://langits.davejudd.dev/) - See Most Used Programming Languages User
 * [GitHub Release Downloads](https://github.com/addshore/browser-github-release-downloads) - GitHub Release Download Counter
 * [Shields.io](https://shields.io/) - Metadata badges for GitHub Readmes
 * [SkillIcons](https://skillicons.dev/) - Skill Badges for GitHub Readmes / Resumes
@@ -10808,6 +10813,7 @@ Add the following commands to a search to manually scrape each site.
 * [Programming Language Benchmarks](https://programming-language-benchmarks.vercel.app/) - Programming Language / Compiler Benchmarks
 * [AI Code Translator](https://ai-code-translator.vercel.app/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - Code Converters
 * [TurboPilot](https://github.com/ravenscroftj/turbopilot) - AI Code Completion
+* [Literally Anything](https://www.literallyanything.io/) - Generate Code via Prompts
 * [WebdevHome](https://webdevhome.github.io/), [Charm](https://charm.sh/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - Programming Tool Indexes
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Programming Site Index 
 * [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) - Web Scraping Tool Index
@@ -11904,6 +11910,7 @@ Simulator
 * [LilyPond](http://lilypond.org/) - Music Engraving Program
 * [Learning Music](https://learningmusic.ableton.com/)
 * [Musica](https://www.musicca.com/)
+* [Awesome Music Theory](https://github.com/vpavlenko/study-music) - Music Theory Resources
 * [Muted](https://muted.io/) - Music Theory
 * [Teoria](https://www.teoria.com/index.php) - Music Theory
 * [LightNote](https://www.lightnote.co/) - Music Theory
@@ -12446,6 +12453,7 @@ If you have any questions feel free to join us in [Divolt](https://redd.it/uto5v
 * [Warez-Serbia](https://www.warez-serbia.com/) - Video / Audio / Games / Software / Android / Books / Magazines / NSFW
 * [DownArchive](http://downarchive.org/) - Video / Audio / Software / Games / ROMs / Android / Books / Magazines
 * [OneDDL](https://oneddl.org/) - Video / Audio / Software / Games / Books
+* [Share4All](https://share4all.com/) - Video / Audio / Software / Games / Books / Android
 * [Warez Heaven](https://www.warezheaven.com/index.php) - Video / Audio / Software / Games / ROMs / Books / NSFW
 * [Download.ir](https://download.ir/) - Software / Video / Android / Games / ROMs
 * [SceneSource](https://www.scnsrc.me/), [2](https://www.scenesource.me/) - Video / Audio / Software / Games / ROMs / Books
@@ -12986,7 +12994,7 @@ If you have any questions feel free to join us in [Divolt](https://redd.it/uto5v
 * [TheBrickBible](https://thebrickbible.com/) - The Bible Recreated with Lego
 * [BibleEmoji](http://www.bibleemoji.com/) - Convert Bible Verses to Emojis
 * [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
-* [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) / [2](https://beta.quran.com/en) - Quran Translation / [Mobile](https://github.com/quran/quran_android)
+* [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) / [2](https://beta.quran.com/en) - Quran Translations / [Mobile](https://github.com/quran/quran_android), [2](https://quran.alfaazplus.com/)
 * [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
 * [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
 * [TheIslam360](https://theislam360.com/) - Islamic Research App
@@ -15552,7 +15560,7 @@ If you have any questions feel free to join us in [Divolt](https://redd.it/uto5v
 * [ChatReplay](https://chatreplay.stream/) - YouTube Live Stream Chat Replay
 * [LiveTL](https://kentonishi.github.io/LiveTL/) - YouTube Live Stream Translator
 * [YoutubeLiveChatFlusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - Bullet Chatting (Danmaku) for YouTube Live
-* [TubeTDLR](https://tubetldr.com/) or [VideoHighlight](https://videohighlight.com/) - Summarize YouTube Videos
+* [TubeTDLR](https://tubetldr.com/), [You-TLDR](https://www.you-tldr.com/) or [VideoHighlight](https://videohighlight.com/) - Summarize YouTube Videos
 * [Youtube Summarizer](https://share.streamlit.io/iamknownstranger/ytsummary/main) - YouTube Transcript Summarizers
 * [Youtube DataViewer](https://citizenevidence.amnestyusa.org/, [YouTube-MA](https://github.com/CorentinB/YouTube-MA), [YouTube-Grab](https://github.com/ArchiveTeam/youtube-grab) or [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Data Viewers
 * [YouBit](https://github.com/MeViMo/youbit) - Use YouTube as File Host
@@ -17803,6 +17811,7 @@ pass: paluch
 * [JackChat](https://www.jackchat.ai/) - GPT-3 Based Chatbot
 * [Leon](https://getleon.ai/) - AI Assistant
 * [AnimaAI](https://myanima.ai/) - Virtual Companion
+* [Forefront](https://chat.forefront.ai/) - Roleplaying Chatbots
 * [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbot
 * [Chai](https://www.chai-research.com/) or [MessengerX](https://www.messengerx.io/) - Entertainment Focused Chatbots
 * [CatGPT](https://cat-gpt.com/) - Cat Chatbot
@@ -18116,6 +18125,7 @@ pass: paluch
 * ⭐ **[ElevenLabs](https://beta.elevenlabs.io/)** / [Discord](https://discord.com/invite/elevenlabs)
 * ⭐ **[Uberduck](https://uberduck.ai/)** / [Discord](https://discord.gg/ATYWnMu)
 * ⭐ **[Tortoise TTS](https://github.com/neonbjb/tortoise-tts)**
+* ⭐ **[Bark](https://huggingface.co/spaces/suno/bark)** - [Github](https://github.com/suno-ai/bark) / [Discord](https://discord.com/invite/J2B2vsjKuE)
 * [Balabolka](http://www.cross-plus-a.com/bportable.htm)
 * [15.ai](https://15.ai/)
 * [Text To Speech](https://texttospeech.ca/)
@@ -19108,7 +19118,7 @@ pass: paluch
 * [Ethereal Games](https://wiki.etherealgames.com/) or [JRGPC](https://jrpgc.com/) - JRPG Databases
 * [RPGCodex](https://rpgcodex.net/forums/) - RPG Databse / Forum
 * [SteamPeek](https://steampeek.hu/) - Indie Game Database
-* [RetroShowcase](https://www.retroshowcase.gr/) or [The Good Old Days](https://www.goodolddays.net/) - Retro Game Databases
+* [RetroShowcase](https://www.retroshowcase.gr/), [Squakenet](https://www.squakenet.com/) or [The Good Old Days](https://www.goodolddays.net/) - Retro Game Databases
 * [Sega Retro](https://segaretro.org/) - Sega Game Database
 * [AtariAge](https://atariage.com/) - Atari Game Database
 * [Polish Pixels](https://polishpixels.com/) - Retro Polish Games Database
