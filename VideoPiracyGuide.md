@@ -50,6 +50,7 @@
 * [Voody](https://voody-online.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [AllMoviesForYou](https://amfy.io/) - Movies / TV
 * [FFilmClub](https://filmsclub.org/) - Movies / TV
+* [MovieXFilm](https://moviexfilm.com/) - Movies / TV
 * [1movies](https://1movies.life/), [2](https://real-primewire.club/), [3](https://couchtuner.fashion/), [4](https://ww2.new-primewire.com/) - Movies / TV / Anime
 * [123MoviesFree](https://ww1.123moviesfree.net/) - Movies / TV / Anime
 * [123Moviess](https://123moviess.net/) - Movies / TV
@@ -385,7 +386,7 @@
 
 ## ▷ Cartoon Streaming
 
-* ⭐ **[WCO](https://www.wco.tv/)** - Anime / Cartoons
+* ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcofun.com/) - Anime / Cartoons
 * ⭐ **[KimCartoon](https://kimcartoon.li/)**
 * ⭐ **[KissCartoon](https://kisscartoon.help/)**
 * [TopCartoons](https://www.topcartoons.tv/)
@@ -608,6 +609,7 @@
 * [RareLust](https://rarelust.com/) - Rare Movies / NSFW
 * [My Duck Is Dead](https://www.myduckisdead.org/) - Rare Movies / NSFW
 * [MegaDDL](https://megaddl.co/) - Movies / TV
+* [StagaTV](https://www.stagatv.com/) - Movies / TV
 * [movie-web](https://movie-web.app/) - Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)
 * [Uloz](https://ulozto.net/) - Rare Movies / Short Films
 * [MobileTVShows](https://www.mobiletvshows.net/) - TV / Anime
@@ -624,6 +626,7 @@
 * [FZMovies](https://fzmovies.host/) - Movies
 * [FZMoviesz](https://fzmoviesz.com/) - Movies / TV
 * [YourSerie](https://www.yourserie.com/) - Movies / TV
+* [SeriesWay](https://seriesway.com/) - Movies / TV
 * [FilmDuty](https://filmduty.com/) - Movies / TV / Anime
 * [Naijavault](https://www.naijavault.com/) - Movies / TV
 * [KimoiTV](https://www.kimoitv.com/) - Movies / TV / Anime
@@ -973,7 +976,8 @@
 * [Subsplease](https://subsplease.org/) - Subtitles 
 * [opensubtitles.com](https://www.opensubtitles.com/) - Subtitles
 * [Subs4Free](https://www.subs4free.info/) - Subtitles 
-* [English-Subtitles](https://english-subtitles.org/) - Subtitles 
+* [English-Subtitles](https://english-subtitles.org/) - Subtitles
+* [AddSubtitles](https://addsubtitles.net/) - Subtitles
 * [SubAsk](https://subask.com/) - Subtitles
 * [YTS Subs](https://yts-subs.com/) - Subtitles
 * [MovieSubtitles](http://www.moviesubtitles.net/) - Subtitles
