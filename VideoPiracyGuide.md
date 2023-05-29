@@ -20,6 +20,7 @@
 * ⭐ **[Watch A Movie](https://watcha.movie/)** - Movies / TV / [Discord](https://discord.gg/PvAg9Rc7kQ)
 * ⭐ **[C1NE](https://c1ne.co/)** - Movies / TV / [Discord](https://discord.gg/nXUP8TxNSR)
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / [Discord](https://discord.gg/r4QrghF4B9)
+* ⭐ **[1Mars](https://www.1mars.app/)** - Movies / TV / Anime
 * ⭐ **[Streaminal-TV](https://streaminal-tv.vercel.app/)** - Movies / TV / Anime
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
 * [Tubi](https://tubitv.com) - Movies / TV / Use Adblock / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
@@ -305,6 +306,7 @@
 * [Homestar Runner](https://homestarrunner.com/) - Web-Series / Games
 * [SFBTV](https://diva.sfsu.edu/collections/sfbatv) - Bay Area TV Archive
 * [BK World Tube](https://bkworldtube.com/) - Reality TV
+* [BrokenSilenze](https://www.brokensilenze.net/) - Reality TV
 * [Taskmaster](https://www.youtube.com/@Taskmaster/playlists?view=50&sort=dd&shelf_id=1) - Taskmaster Episodes / [International](https://www.youtube.com/@Taskmaster/playlists?view=50&sort=dd&shelf_id=4)
 * [The Silent Library](https://thesilentlibrary.com/) - Japanese Game Shows
 * [Ninja Warrior](https://github.com/nbats/FMHYedit/blob/main/base64.md#ninja-warrior) - Sasuke Episodes
@@ -628,6 +630,7 @@
 * [YourSerie](https://www.yourserie.com/) - Movies / TV
 * [SeriesWay](https://seriesway.com/) - Movies / TV
 * [FilmDuty](https://filmduty.com/) - Movies / TV / Anime
+* [weeFilm](https://www.weefilm.live/) - Movies / TV / Anime
 * [Naijavault](https://www.naijavault.com/) - Movies / TV
 * [KimoiTV](https://www.kimoitv.com/) - Movies / TV / Anime
 * [MeloMovie](https://melomovie.com/) - Movies / TV
@@ -654,6 +657,7 @@
 * [SSR Movies](https://www.ssrmovies.tools/) - Movies / TV / [Telegram](https://t.me/SSRmovies2022)
 * [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV
 * [MovieLegacy](https://movieslegacy.site/) - Movies
+* [SeriezLoaded NG](https://www.seriezloaded.com.ng/) - Movies / TV
 * [ULMovies](https://ulmovies.xyz/) - Movies / TV 
 * [ShareMania](https://sharemania.us/) - Movies / TV
 * [NetNaija](https://netnaija.xyz/) - Movies
@@ -741,7 +745,6 @@
 * [RIP Crabby Time](https://ripcrabbyanime.in/) - Sub / Dub
 * [AnimeLand](https://w4.animeland.tv/) - Dub
 * [Mix Bag of Anime](https://github.com/nbats/FMHYedit/blob/main/base64.md#mix-bag-of-anime) - Sub / Dub
-* [MrDeadpool](https://github.com/nbats/FMHYedit/blob/main/base64.md#mrdeadpool) - Sub / Dub
 * [ANIME___](https://github.com/nbats/FMHYedit/blob/main/base64.md#anime___) - Sub
 * [Chiby](https://www.animechiby.com/) - Sub / [Discord](https://discord.com/invite/PMHTW6mH)
 * [Anime Flix](https://animeflix.net.in/) - Sub / Dub
