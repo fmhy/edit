@@ -1381,4 +1381,4 @@ pass: paluch
 
 #### Malwarebytes Premium
 
-`https://rentry.co/malware-prem`
+`aHR0cHM6Ly9yZW50cnkuY28vbWFsd2FyZS1wcmVt`
