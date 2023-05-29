@@ -3458,24 +3458,29 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-#### YouTube to MP3
+#### YouTube Converters
+
+**MP3/MP4**
+* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)**
+
+[YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched), [YTMP3](https://ytmp3.ch/) [2](https://ytmp3.cc/) [3](https://ytmp3.eu/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [Ontiva](https://ontiva.com/), [DetURL](http://deturl.com/), [Videovor](https://www.videovor.com/en), [onlinevideoconverter](https://onlinevideoconverter.pro/), [YMP4](https://ymp4.cc/), [ymp4](https://www.ymp4.download/), [FLVto](https://www.flvto.biz/), [snappea](https://www.snappea.com/), [YT-RED-UI](https://github.com/adanvdo/YT-RED-UI), [y2mate](https://y2mate.pw/), [UPull](https://upull.me/), [savefrom](http://en.savefrom.net/)
+
+**MP3 Only**
 
 * ⭐ **[9xbuddy](https://9xbuddy.org/)**
 * ⭐ **[YouTube-DL](https://github.com/ytdl-org/youtube-dl)** / [GUIs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_yt-dl_tools)
-* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** / [Discord](https://discord.com/invite/H5MNcFW63r)
 * ⭐ **[YTMDL](https://ytmdl.deepjyoti30.dev/)** / [GitHub](https://github.com/deepjyoti30/ytmdl)
 * ⭐ **[Ripping Guide](https://redd.it/vv27dy)**
 
-[YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched), [YTMP3](https://ytmp3.ch/), [2](https://ytmp3.cc/), [3](https://ytmp3.eu/), [mps-youtube](https://github.com/mps-youtube/yewtube), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [YouTube to MP3 Converter](https://www.mediahuman.com/), [loader](https://loader.to/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [DeURL](http://deturl.com/), [Yout](https://yout.com/), [FLVto](https://www.flvto.biz/), [AudioJack](http://blue9.github.io/AudioJack-GUI/), [videovor](https://www.videovor.com/en), [onlinevideoconverter](https://onlinevideoconverter.pro/), [y2mp3](https://www.y2mp3.net/), [ymp4](https://www.ymp4.download/), [snappea](https://www.snappea.com/), [myfreemp3](https://myfreemp3.to/), [topsandtees](https://getn.topsandtees.space/), [VrTube](https://www.vrttube.com/), [YT-RED-UI](https://github.com/adanvdo/YT-RED-UI), [dirpy](https://dirpy.com/), [y2mate](https://y2mate.pw/), [soundloaders](https://www.soundloaders.com/), [UPull](https://upull.me/), [savefrom](http://en.savefrom.net/)
+[mps-youtube](https://github.com/mps-youtube/yewtube), [YouTube to MP3 Converter](https://www.mediahuman.com/), [loader](https://loader.to/), [Yout](https://yout.com/),[AudioJack](http://blue9.github.io/AudioJack-GUI/), [y2mp3](https://www.y2mp3.net/), [myfreemp3](https://myfreemp3.to/), [topsandtees](https://getn.topsandtees.space/), [VrTube](https://www.vrttube.com/), [dirpy](https://dirpy.com/),  [soundloaders](https://www.soundloaders.com/)
 
-***
-
-#### YouTube Video Downloaders
+**MP4 Only**
 
 * ⭐ **[YT-DL](https://github.com/ytdl-org/youtube-dl)** / [GUIs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_yt-dl_tools)
-* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)**
 
-[YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched), [ytmp3](https://ytmp3.cc), [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader), [Tartube](https://github.com/axcore/tartube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [Youtube Video Downloader](https://github.com/OmarAflak/Youtube-Video-Downloader), [YouTube MP4](https://youtubemp4.to/), [DeURL](http://deturl.com/), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [LocoDownloader](https://locoloader.com/), [FLVto](https://www.flvto.biz/en80/), [videovor](https://www.videovor.com/en), [onlinevideoconverter](https://onlinevideoconverter.pro/), [projectlounge ytdl](https://projectlounge.pw/ytdl), [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader), [mp3youtubeconverter](https://mp3youtubeconverter.org/), [pobieracz](https://pobieracz.net/), [ymp4](https://www.ymp4.download/), [snappea](https://www.snappea.com/), [AllToMP3](https://alltomp3.org/), [YT-RED-UI](https://github.com/adanvdo/YT-RED-UI), [y2mate](https://y2mate.pw/), [YT_Downloaders](https://rentry.co/YT_Downloaders), [UPull](https://upull.me/), [savefrom](http://en.savefrom.net/), [PushBullet-YTDL](https://github.com/steveharsant/PushBullet-YTDL), [pytube](https://github.com/pytube/pytube), [node-ytdl-core](https://github.com/fent/node-ytdl-core)
+[Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader), [Tartube](https://github.com/axcore/tartube), [Youtube Video Downloader](https://github.com/OmarAflak/Youtube-Video-Downloader), [YouTube MP4](https://youtubemp4.to/), [LocoDownloader](https://locoloader.com/), [projectlounge ytdl](https://projectlounge.pw/ytdl), [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader), [mp3youtubeconverter](https://mp3youtubeconverter.org/), [pobieracz](https://pobieracz.net/),  [AllToMP3](https://alltomp3.org/),[YT_Downloaders](https://rentry.co/YT_Downloaders), [PushBullet-YTDL](https://github.com/steveharsant/PushBullet-YTDL), [pytube](https://github.com/pytube/pytube), [node-ytdl-core](https://github.com/fent/node-ytdl-core)
+
+***
 
 **Playlists**
 
