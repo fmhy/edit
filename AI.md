@@ -12,7 +12,7 @@
 # ► AI Chatbots
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot
-* ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Dev Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ)
+* ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Dev Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ) / [GPT-4 Note](https://pastebin.com/JJMVmUCN)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** or [FastGPT](https://labs.kagi.com/fastgpt) - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai)
 * ⭐ **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Open Source LLMs / [Collab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
 * ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** or [ChatLLaMA](https://stuff.serp.ai/l/lora-weights) - Self-Host LLaMa Based Chatbots
