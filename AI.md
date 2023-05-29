@@ -12,18 +12,19 @@
 # ► AI Chatbots
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot
+* ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Dev Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** or [FastGPT](https://labs.kagi.com/fastgpt) - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai)
-* ⭐ **[Phind](https://www.phind.com/)** - GPT-3.5 Dev Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ)
 * ⭐ **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Open Source LLMs / [Collab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
+* ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** or [ChatLLaMA](https://stuff.serp.ai/l/lora-weights) - Self-Host LLaMa Based Chatbots
 * ⭐ **[Guanaco](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi)** - QLoRA based Open-Source Chatbot / [Github](https://github.com/artidoro/qlora)
-* ⭐ **[Ora](https://ora.sh/openai/chatgpt)** - GPT-3.5 Based Chatbots
-* ⭐ **[LMSYS](https://chat.lmsys.org/)** - Open Source LLM Chatbots / [Discord](https://discord.com/invite/h6kCZb72G7)
+* ⭐ **[BAI](https://chatbot.theb.ai/)** - GPT-3.5 Based Chatbot
+* ⭐ **[LMSYS](https://chat.lmsys.org/)** - LLaMa Based Chatbots / [Github](https://github.com/lm-sys/FastChat) / [Discord](https://discord.com/invite/h6kCZb72G7)
 * ⭐ **[AI Playground](https://play.vercel.ai/)** - Compare AI Responses
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Call Annie](https://callannie.ai/)** - Virtual Companion / [Discord](https://discord.gg/Rfbzet5R3v)
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
-* ⭐ **[LifeArchitect](https://lifearchitect.ai/models-table/)**, [GPT4Free](https://github.com/xtekky/gpt4free) or [Awesome Totally Open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) - Chatbots Indexes
-* [BAI](https://chatbot.theb.ai/) - GPT-3.5 Based Chatbot
+* ⭐ **[LifeArchitect](https://lifearchitect.ai/models-table/)** or [Awesome Totally Open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) - Chatbots Indexes
+* [Ora](https://ora.sh/openai/chatgpt) - GPT-3.5 Based Chatbots
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
 * [LLaVA](https://llava.hliu.cc/) - Chatbot with Image Support / [GitHub](https://github.com/haotian-liu/LLaVA)
 * [MPT-7B-Chat](https://huggingface.co/spaces/mosaicml/mpt-7b-chat) - Mosaic's Open-Source Chatbot / [Instruct](https://huggingface.co/spaces/mosaicml/mpt-7b-instruct) / [Storywriter](https://huggingface.co/spaces/mosaicml/mpt-7b-storywriter)
@@ -34,7 +35,6 @@
 * [OpenChatKit](https://huggingface.co/spaces/togethercomputer/OpenChatKit) - Open-Source Chatbot / [Github](https://github.com/togethercomputer/OpenChatKit) / [Discord](https://discord.com/invite/9Rk6sSeWEG)
 * [HuggingChat](https://huggingface.co/chat/) - HuggingFace's Chatbot / [Github](https://github.com/huggingface/chat-ui)
 * [Dalai](https://cocktailpeanut.github.io/dalai/) - Self-host LLaMa and Alpaca Chatbots / [Github](https://github.com/cocktailpeanut/dalai) / [Discord](https://discord.com/invite/WWfgrzzkCT) / [GPT-Style UI](https://github.com/ItsPi3141/dalai)
-* [LLaMA C++](https://github.com/ggerganov/llama.cpp) or [ChatLLaMA](https://stuff.serp.ai/l/lora-weights) - Self-Host Meta's Chatbot
 * [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Stanford's Chatbot / [LoRA Implementation](https://github.com/tloen/alpaca-lora) / [GUI](https://github.com/ItsPi3141/alpaca-electron)
 * [FreedomGPT](https://freedomgpt.com/) - Self-Hosted Alpaca Based Chatbot / [Github](https://github.com/ohmplatform/FreedomGPT/) / [Discord](https://discord.com/invite/h77wvJS4ga)
 * [PygmalionAI](https://docs.alpindale.dev/) - Self-Hosted Roleplaying Chatbot / [Resources](https://rentry.co/PygmalionLinks) / [Discord](https://discord.com/invite/pygmalionai)
@@ -294,6 +294,7 @@
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
 * [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) - AI Image Generation Colab
 * [Unprompted](https://github.com/ThereforeGames/unprompted) - Stable Diffusion Text Generator
+* [Prompt Book](https://openart.ai/discovery) - Prompt Guide/Discovery / [Discord](https://discord.com/invite/yTMNvk5z97)
 
 ***
 
@@ -320,20 +321,12 @@
 * ⭐ **[SD Compendium](https://www.sdcompendium.com/)** - Stable Diffusion Guide
 * ⭐ **[SD Quickstart](https://redd.it/xvhavo)** - Stable Diffusion Guide
 * ⭐ **[1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw)** - Stable Diffusion Guide
-* [AyyMD](https://rentry.org/ayymd-stable-diffustion-v1_4-guide) - Stable Diffusion Guide
-* [AMD Guide](https://rentry.org/sdamd) - Stable Diffusion Guide
-* [Prompt Book](https://openart.ai/promptbook) - SD Guidebook 
-* [Native Isekai Too](https://rentry.org/sd-nativeisekaitoo) - Stable Diffusion Guide
-* [CPUtard](https://rentry.org/cputard) - Stable Diffusion Guide
 * [Arki's Guides](https://stablediffusionguides.carrd.co/) - Stable Diffusion Guide
-* [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - Stable Diffusion Guide
 * [Textard](https://rentry.org/textard) - Textual Inversion Guide
 * [drfar](https://rentry.org/drfar) - InPainting Guide
-* [Model to InPainting Guide](https://redd.it/zyi24j)
-* [Gaugan2 Guide](https://youtu.be/r5P9-zOfWyE) - Gaugan2 Video Guide
-* [AnimAnon](https://rentry.org/AnimAnon) - AI Drawn Anime Guide
-* [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english), [ora_train](https://rentry.org/lora_train), [lora-training-science](https://rentry.org/lora-training-science) or [The Other](https://rentry.org/59xed3) - LoRA SD Guides
-* [DummyLoRA](https://rentry.org/dummylora) - Local LoRA training guide
+* [AnimAnon](https://rentry.org/AnimAnon) - AI Animation Guide
+* [The Other](https://rentry.org/59xed3), [DummyLoRA](https://rentry.org/dummylora), [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english), [ora_train](https://rentry.org/lora_train) or [lora-training-science](https://rentry.org/lora-training-science) - SD LoRA Guides
+* 
 
 ***
 ***
@@ -422,35 +415,24 @@
 
 # ► Machine Learning
 
-* ⭐ **[awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes)**, [lmg-resources](https://rentry.org/lmg-resources), [awesome-marketing-datascience](https://github.com/underlines/awesome-marketing-datascience/), [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm), [CyberCowboy](https://local-llm.cybercowboy.de) or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
+* ⭐ **[awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes)**, [awesome-marketing-datascience](https://github.com/underlines/awesome-marketing-datascience/), [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm), [CyberCowboy](https://local-llm.cybercowboy.de) or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
 * [Catalyzex](https://www.catalyzex.com/) or [PapersWithCode](https://paperswithcode.com/) - Search Machine Learning Models / Papers
 * [awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Machine Learning Colabs
-* [OpenAIPlayground](https://github.com/nat/openplayground) -
+* [OpenAIPlayground](https://github.com/nat/openplayground)
 * [OpenML](https://www.openml.org/) or [Hugging Face](https://huggingface.co/) - Machine Learning Datasets
-* [Kobra](https://kobra.dev/) - Visual Programming Language for Machine Learning
 * [DVC](https://dvc.org/) - Machine Learning Version Control
-* [DialoGPT](https://github.com/microsoft/DialoGPT) - Dialogue Machine Learning Model
-* [HiveMind](https://github.com/learning-at-home/hivemind) - Decentralized Deep Learning Library
-* [MMDeploy](https://github.com/open-mmlab/mmdeploy) - Deep Learning Model Deployment Toolset
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep Learning Optimization Library
 * [TeachableMachine](https://teachablemachine.withgoogle.com/) or [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
 * [Netron](https://github.com/lutzroeder/netron) -  Visualizer for Neural Network, Deep Learning, and Machine Learning Models
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
-* [MiniGPT-4](https://minigpt-4.github.io/) - Advanced Large Language Models
-* [StableLM-Tuned-Alpha](https://huggingface.co/stabilityai/stablelm-tuned-alpha-7b) - Language Models
-* [lmg_template](https://rentry.org/lmg_template) - LLM Templates
-* [Megatron-LM](https://github.com/NVIDIA/Megatron-LM#retro) - LLM Training Codebase
-* [GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) - Instruction Tuning with GPT-4 
 * [Dataset Card for Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) or [awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) - Language Model Training Datasets
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
 * [Shap](https://github.com/slundberg/shap) - Language Model Response Analyzer
-* [CFormers](https://github.com/NolanoOrg/cformers) - SoTA Transformers with C-backend
 * [Langchain](https://github.com/hwchase17/langchain) - Build Apps via LLM
 * [GPTCache](https://github.com/zilliztech/GPTCache) - LLM Response Cache
-* [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons
 * [Nixified](https://nixified.ai/) - Nix Flake for AI Projects 
-* [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book
 * [MetaAcademy](https://metacademy.org/) - Machine Learning Guides
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
