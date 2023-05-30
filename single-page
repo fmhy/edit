@@ -1007,7 +1007,7 @@ Software
 ***
 ***
 
-**[Table of Contents](https://ibb.co/pndSwNB)** - For mobile users
+**[Table of Contents](https://ibb.co/WHMc2Hf)** - For mobile users
 
 ***
 ***
@@ -4461,24 +4461,30 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-#### YouTube to MP3
+#### YouTube Converters
+
+**MP3/MP4**
+
+* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)**
+
+[YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched), [YTMP3](https://ytmp3.ch/) [2](https://ytmp3.cc/) [3](https://ytmp3.eu/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [Ontiva](https://ontiva.com/), [DetURL](http://deturl.com/), [Videovor](https://www.videovor.com/en), [onlinevideoconverter](https://onlinevideoconverter.pro/), [YMP4](https://ymp4.cc/), [ymp4](https://www.ymp4.download/), [FLVto](https://www.flvto.biz/), [snappea](https://www.snappea.com/), [YT-RED-UI](https://github.com/adanvdo/YT-RED-UI), [y2mate](https://y2mate.pw/), [UPull](https://upull.me/), [savefrom](http://en.savefrom.net/)
+
+**MP3 Only**
 
 * ⭐ **[9xbuddy](https://9xbuddy.org/)**
 * ⭐ **[YouTube-DL](https://github.com/ytdl-org/youtube-dl)** / [GUIs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_yt-dl_tools)
-* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)** / [Discord](https://discord.com/invite/H5MNcFW63r)
 * ⭐ **[YTMDL](https://ytmdl.deepjyoti30.dev/)** / [GitHub](https://github.com/deepjyoti30/ytmdl)
 * ⭐ **[Ripping Guide](https://redd.it/vv27dy)**
 
-[YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched), [YTMP3](https://ytmp3.ch/), [2](https://ytmp3.cc/), [3](https://ytmp3.eu/), [mps-youtube](https://github.com/mps-youtube/yewtube), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [YouTube to MP3 Converter](https://www.mediahuman.com/), [loader](https://loader.to/), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [DeURL](http://deturl.com/), [Yout](https://yout.com/), [FLVto](https://www.flvto.biz/), [AudioJack](http://blue9.github.io/AudioJack-GUI/), [videovor](https://www.videovor.com/en), [onlinevideoconverter](https://onlinevideoconverter.pro/), [y2mp3](https://www.y2mp3.net/), [ymp4](https://www.ymp4.download/), [snappea](https://www.snappea.com/), [myfreemp3](https://myfreemp3.to/), [topsandtees](https://getn.topsandtees.space/), [VrTube](https://www.vrttube.com/), [YT-RED-UI](https://github.com/adanvdo/YT-RED-UI), [dirpy](https://dirpy.com/), [y2mate](https://y2mate.pw/), [soundloaders](https://www.soundloaders.com/), [UPull](https://upull.me/), [savefrom](http://en.savefrom.net/)
+[mps-youtube](https://github.com/mps-youtube/yewtube), [YouTube to MP3 Converter](https://www.mediahuman.com/), [loader](https://loader.to/), [Yout](https://yout.com/),[AudioJack](http://blue9.github.io/AudioJack-GUI/), [y2mp3](https://www.y2mp3.net/), [myfreemp3](https://myfreemp3.to/), [topsandtees](https://getn.topsandtees.space/), [VrTube](https://www.vrttube.com/), [dirpy](https://dirpy.com/),  [soundloaders](https://www.soundloaders.com/)
 
-***
-
-#### YouTube Video Downloaders
+**MP4 Only**
 
 * ⭐ **[YT-DL](https://github.com/ytdl-org/youtube-dl)** / [GUIs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_yt-dl_tools)
-* ⭐ **[YT-DLP](https://github.com/yt-dlp/yt-dlp)**
 
-[YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched), [ytmp3](https://ytmp3.cc), [Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader), [Tartube](https://github.com/axcore/tartube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material), [Youtube Video Downloader](https://github.com/OmarAflak/Youtube-Video-Downloader), [YouTube MP4](https://youtubemp4.to/), [DeURL](http://deturl.com/), [Ontiva](https://ontiva.com/), [YMP4](https://ymp4.cc/), [LocoDownloader](https://locoloader.com/), [FLVto](https://www.flvto.biz/en80/), [videovor](https://www.videovor.com/en), [onlinevideoconverter](https://onlinevideoconverter.pro/), [projectlounge ytdl](https://projectlounge.pw/ytdl), [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader), [mp3youtubeconverter](https://mp3youtubeconverter.org/), [pobieracz](https://pobieracz.net/), [ymp4](https://www.ymp4.download/), [snappea](https://www.snappea.com/), [AllToMP3](https://alltomp3.org/), [YT-RED-UI](https://github.com/adanvdo/YT-RED-UI), [y2mate](https://y2mate.pw/), [YT_Downloaders](https://rentry.co/YT_Downloaders), [UPull](https://upull.me/), [savefrom](http://en.savefrom.net/), [PushBullet-YTDL](https://github.com/steveharsant/PushBullet-YTDL), [pytube](https://github.com/pytube/pytube), [node-ytdl-core](https://github.com/fent/node-ytdl-core)
+[Local Youtube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader), [Tartube](https://github.com/axcore/tartube), [Youtube Video Downloader](https://github.com/OmarAflak/Youtube-Video-Downloader), [YouTube MP4](https://youtubemp4.to/), [LocoDownloader](https://locoloader.com/), [projectlounge ytdl](https://projectlounge.pw/ytdl), [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader), [mp3youtubeconverter](https://mp3youtubeconverter.org/), [pobieracz](https://pobieracz.net/),  [AllToMP3](https://alltomp3.org/),[YT_Downloaders](https://rentry.co/YT_Downloaders), [PushBullet-YTDL](https://github.com/steveharsant/PushBullet-YTDL), [pytube](https://github.com/pytube/pytube), [node-ytdl-core](https://github.com/fent/node-ytdl-core)
+
+***
 
 **Playlists**
 
@@ -14296,7 +14302,7 @@ If you have any questions feel free to join us in [Divolt](https://redd.it/uto5v
 * ⭐ **[Video Encoding Guides](https://sometimes-archives-things.github.io/archived-things/)**, [2](https://encoding-guide.neocities.org/) - Learn how to Encode Videos
 * ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** or [fs927](https://rentry.org/fs927) - Learn how to Remux Videos
 * ⭐ **[Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders)** - Record your Screen
-* ⭐ **[Multi-Site Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)** / [YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)
+* ⭐ **[Multi-Site Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)** / [YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_converters)
 * ⭐ **[OBS](https://obsproject.com/)**, [Streamlabs-OBS](https://github.com/stream-labs/desktop), [SteamLabs](https://streamlabs.com/), [Restream](https://restream.io/), [Melon](https://melonapp.com/), [Twitch Studio](https://www.twitch.tv/broadcast/studio), [FBX](https://fbx.gg/), [XSplit](https://www.xsplit.com/) or [TwitchChat](https://twitchat.fr/) - Live Stream Managers
 * ⭐ **OBS Tools** - [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT) / [Effects](https://github.com/Xaymar/obs-StreamFX) / [Phone Controller](https://github.com/Kounex/obs_blade)
 * ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Record, Convert and Stream Videos / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ffmpeg_tools)
@@ -15467,8 +15473,7 @@ If you have any questions feel free to join us in [Divolt](https://redd.it/uto5v
 * ⭐ **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/) / [Discord](https://discord.com/invite/mYnESY4Md5)
 * ⭐ **[Video Resumer](https://pastebin.com/avtHzp4W)** - Resume Videos Where You Left Off
 * ⭐ **[YouTube Advanced Search](https://playlists.at/youtube/search/)**
-* ⭐ **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)** - Download Videos from YouTube
-* ⭐ **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download Audio from YouTube
+* ⭐ **[YouTube Video / Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_converters)**
 * ⭐ **[YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends)** - Ad-Free YouTube Frontends / Clients
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) 
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
@@ -17776,18 +17781,19 @@ pass: paluch
 # ► AI Chatbots
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot
+* ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Dev Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ) / [GPT-4 Note](https://pastebin.com/JJMVmUCN)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** or [FastGPT](https://labs.kagi.com/fastgpt) - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai)
-* ⭐ **[Phind](https://www.phind.com/)** - GPT-3.5 Dev Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ)
 * ⭐ **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Open Source LLMs / [Collab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
+* ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** or [ChatLLaMA](https://stuff.serp.ai/l/lora-weights) - Self-Host LLaMa Based Chatbots
 * ⭐ **[Guanaco](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi)** - QLoRA based Open-Source Chatbot / [Github](https://github.com/artidoro/qlora)
-* ⭐ **[Ora](https://ora.sh/openai/chatgpt)** - GPT-3.5 Based Chatbots
-* ⭐ **[LMSYS](https://chat.lmsys.org/)** - Open Source LLM Chatbots / [Discord](https://discord.com/invite/h6kCZb72G7)
+* ⭐ **[BAI](https://chatbot.theb.ai/)** - GPT-3.5 Based Chatbot
+* ⭐ **[LMSYS](https://chat.lmsys.org/)** - LLaMa Based Chatbots / [Github](https://github.com/lm-sys/FastChat) / [Discord](https://discord.com/invite/h6kCZb72G7)
 * ⭐ **[AI Playground](https://play.vercel.ai/)** - Compare AI Responses
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Call Annie](https://callannie.ai/)** - Virtual Companion / [Discord](https://discord.gg/Rfbzet5R3v)
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
-* ⭐ **[LifeArchitect](https://lifearchitect.ai/models-table/)**, [GPT4Free](https://github.com/xtekky/gpt4free) or [Awesome Totally Open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) - Chatbots Indexes
-* [BAI](https://chatbot.theb.ai/) - GPT-3.5 Based Chatbot
+* ⭐ **[LifeArchitect](https://lifearchitect.ai/models-table/)** or [Awesome Totally Open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) - Chatbots Indexes
+* [Ora](https://ora.sh/openai/chatgpt) - GPT-3.5 Based Chatbots
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
 * [LLaVA](https://llava.hliu.cc/) - Chatbot with Image Support / [GitHub](https://github.com/haotian-liu/LLaVA)
 * [MPT-7B-Chat](https://huggingface.co/spaces/mosaicml/mpt-7b-chat) - Mosaic's Open-Source Chatbot / [Instruct](https://huggingface.co/spaces/mosaicml/mpt-7b-instruct) / [Storywriter](https://huggingface.co/spaces/mosaicml/mpt-7b-storywriter)
@@ -17798,7 +17804,6 @@ pass: paluch
 * [OpenChatKit](https://huggingface.co/spaces/togethercomputer/OpenChatKit) - Open-Source Chatbot / [Github](https://github.com/togethercomputer/OpenChatKit) / [Discord](https://discord.com/invite/9Rk6sSeWEG)
 * [HuggingChat](https://huggingface.co/chat/) - HuggingFace's Chatbot / [Github](https://github.com/huggingface/chat-ui)
 * [Dalai](https://cocktailpeanut.github.io/dalai/) - Self-host LLaMa and Alpaca Chatbots / [Github](https://github.com/cocktailpeanut/dalai) / [Discord](https://discord.com/invite/WWfgrzzkCT) / [GPT-Style UI](https://github.com/ItsPi3141/dalai)
-* [LLaMA C++](https://github.com/ggerganov/llama.cpp) or [ChatLLaMA](https://stuff.serp.ai/l/lora-weights) - Self-Host Meta's Chatbot
 * [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Stanford's Chatbot / [LoRA Implementation](https://github.com/tloen/alpaca-lora) / [GUI](https://github.com/ItsPi3141/alpaca-electron)
 * [FreedomGPT](https://freedomgpt.com/) - Self-Hosted Alpaca Based Chatbot / [Github](https://github.com/ohmplatform/FreedomGPT/) / [Discord](https://discord.com/invite/h77wvJS4ga)
 * [PygmalionAI](https://docs.alpindale.dev/) - Self-Hosted Roleplaying Chatbot / [Resources](https://rentry.co/PygmalionLinks) / [Discord](https://discord.com/invite/pygmalionai)
@@ -18058,6 +18063,7 @@ pass: paluch
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
 * [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) - AI Image Generation Colab
 * [Unprompted](https://github.com/ThereforeGames/unprompted) - Stable Diffusion Text Generator
+* [Prompt Book](https://openart.ai/discovery) - Prompt Guide/Discovery / [Discord](https://discord.com/invite/yTMNvk5z97)
 
 ***
 
@@ -18084,20 +18090,12 @@ pass: paluch
 * ⭐ **[SD Compendium](https://www.sdcompendium.com/)** - Stable Diffusion Guide
 * ⭐ **[SD Quickstart](https://redd.it/xvhavo)** - Stable Diffusion Guide
 * ⭐ **[1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw)** - Stable Diffusion Guide
-* [AyyMD](https://rentry.org/ayymd-stable-diffustion-v1_4-guide) - Stable Diffusion Guide
-* [AMD Guide](https://rentry.org/sdamd) - Stable Diffusion Guide
-* [Prompt Book](https://openart.ai/promptbook) - SD Guidebook 
-* [Native Isekai Too](https://rentry.org/sd-nativeisekaitoo) - Stable Diffusion Guide
-* [CPUtard](https://rentry.org/cputard) - Stable Diffusion Guide
 * [Arki's Guides](https://stablediffusionguides.carrd.co/) - Stable Diffusion Guide
-* [AI Art Generators](https://aiartists.org/ai-generated-art-tools) - Stable Diffusion Guide
 * [Textard](https://rentry.org/textard) - Textual Inversion Guide
 * [drfar](https://rentry.org/drfar) - InPainting Guide
-* [Model to InPainting Guide](https://redd.it/zyi24j)
-* [Gaugan2 Guide](https://youtu.be/r5P9-zOfWyE) - Gaugan2 Video Guide
-* [AnimAnon](https://rentry.org/AnimAnon) - AI Drawn Anime Guide
-* [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english), [ora_train](https://rentry.org/lora_train), [lora-training-science](https://rentry.org/lora-training-science) or [The Other](https://rentry.org/59xed3) - LoRA SD Guides
-* [DummyLoRA](https://rentry.org/dummylora) - Local LoRA training guide
+* [AnimAnon](https://rentry.org/AnimAnon) - AI Animation Guide
+* [The Other](https://rentry.org/59xed3), [DummyLoRA](https://rentry.org/dummylora), [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english), [ora_train](https://rentry.org/lora_train) or [lora-training-science](https://rentry.org/lora-training-science) - SD LoRA Guides
+* 
 
 ***
 ***
@@ -18186,35 +18184,24 @@ pass: paluch
 
 # ► Machine Learning
 
-* ⭐ **[awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes)**, [lmg-resources](https://rentry.org/lmg-resources), [awesome-marketing-datascience](https://github.com/underlines/awesome-marketing-datascience/), [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm), [CyberCowboy](https://local-llm.cybercowboy.de) or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
+* ⭐ **[awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes)**, [awesome-marketing-datascience](https://github.com/underlines/awesome-marketing-datascience/), [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm), [CyberCowboy](https://local-llm.cybercowboy.de) or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
 * [Catalyzex](https://www.catalyzex.com/) or [PapersWithCode](https://paperswithcode.com/) - Search Machine Learning Models / Papers
 * [awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Machine Learning Colabs
-* [OpenAIPlayground](https://github.com/nat/openplayground) -
+* [OpenAIPlayground](https://github.com/nat/openplayground)
 * [OpenML](https://www.openml.org/) or [Hugging Face](https://huggingface.co/) - Machine Learning Datasets
-* [Kobra](https://kobra.dev/) - Visual Programming Language for Machine Learning
 * [DVC](https://dvc.org/) - Machine Learning Version Control
-* [DialoGPT](https://github.com/microsoft/DialoGPT) - Dialogue Machine Learning Model
-* [HiveMind](https://github.com/learning-at-home/hivemind) - Decentralized Deep Learning Library
-* [MMDeploy](https://github.com/open-mmlab/mmdeploy) - Deep Learning Model Deployment Toolset
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep Learning Optimization Library
 * [TeachableMachine](https://teachablemachine.withgoogle.com/) or [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
 * [Netron](https://github.com/lutzroeder/netron) -  Visualizer for Neural Network, Deep Learning, and Machine Learning Models
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
-* [MiniGPT-4](https://minigpt-4.github.io/) - Advanced Large Language Models
-* [StableLM-Tuned-Alpha](https://huggingface.co/stabilityai/stablelm-tuned-alpha-7b) - Language Models
-* [lmg_template](https://rentry.org/lmg_template) - LLM Templates
-* [Megatron-LM](https://github.com/NVIDIA/Megatron-LM#retro) - LLM Training Codebase
-* [GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) - Instruction Tuning with GPT-4 
 * [Dataset Card for Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) or [awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) - Language Model Training Datasets
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
 * [Shap](https://github.com/slundberg/shap) - Language Model Response Analyzer
-* [CFormers](https://github.com/NolanoOrg/cformers) - SoTA Transformers with C-backend
 * [Langchain](https://github.com/hwchase17/langchain) - Build Apps via LLM
 * [GPTCache](https://github.com/zilliztech/GPTCache) - LLM Response Cache
-* [Caffee](https://caffe.berkeleyvision.org/) / [Git](https://github.com/BVLC/caffe), [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons
 * [Nixified](https://nixified.ai/) - Nix Flake for AI Projects 
-* [minitorch](https://github.com/minitorch/minitorch) - Machine Learning Engineering Course Code
 * [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book
 * [MetaAcademy](https://metacademy.org/) - Machine Learning Guides
 * [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
@@ -21280,13 +21267,14 @@ pass: paluch
 * ⭐ **[Secure Messaging Apps](https://www.securemessagingapps.com/)** - Privacy Based Messaging App Comparisons
 * ⭐ **[Encrypted Messangers](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers) - Encrypted Messaging Apps
 * ⭐ **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)** - Anonymous Text Verification
-* ⭐ **[2FA Directory](https://2fa.directory/)** - List of Sites with 2FA Support 
-* ⭐ **[Authy](https://authy.com/)**, [WinAuth](https://winauth.github.io/winauth/), [Yubioath](https://developers.yubico.com/yubioath-flutter/), [AuthMe](https://github.com/Levminer/authme), [Protecc](https://github.com/FireCubeStudios/Protecc), [2FAuth](https://github.com/Bubka/2FAuth) or [Tauthy](https://github.com/pwltr/tauthy) - Two-Factor Authentication
 * ⭐ **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
 * ⭐ **[Password Strength Chart](https://i.ibb.co/vZdqMvm/6728c7ef02e9.png)**
 * ⭐ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_encryption_tools)** - File Encryption Apps / Tools
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
 * ⭐ **[Decentralized Social Networks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_decentralized_social_networks)** - Twitter / Facebook Alternatives
+* ⭐ **[GameIndustry](https://gameindustry.eu/en/)** - Block Trackers in Desktop / Mobile Games
+* [WinAuth](https://winauth.github.io/winauth/), [Yubioath](https://developers.yubico.com/yubioath-flutter/), [AuthMe](https://github.com/Levminer/authme), [Protecc](https://github.com/FireCubeStudios/Protecc), [2FAuth](https://github.com/Bubka/2FAuth), [Authy](https://authy.com/) or [Tauthy](https://github.com/pwltr/tauthy) - Two-Factor Authentication
+* [2FA Directory](https://2fa.directory/) - List of Sites with 2FA Support 
 * [Windows 10 Antispy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_antispy_tools)
 * [Password Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_generators) - Generate Secure Passwords
 * [PaP](https://trypap.com/), [PasswordMonster](https://www.passwordmonster.com/) or [How Secure Is My Password?](https://howsecureismypassword.net/) - Password Strength Check
@@ -21346,7 +21334,6 @@ pass: paluch
 * [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/) - Track Torrent Download Leaks
 * [Safing](https://safing.io/) - Monitor Network / Block Trackers / [GitHub](https://github.com/Safing/portmaster)
 * [Undiscord](https://github.com/victornpb/undiscord), [discord-delete](https://github.com/cedws/discord-delete), or [QuickDeleteMessages](https://u.nu/9i9jk) - Delete Discord Messages / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
-* [GameIndustry](https://gameindustry.eu/en/) - Block Trackers in Desktop / Mobile Games
 * [Blacklight](https://themarkup.org/series/blacklight) - Website Privacy Inspector
 * [GreyNoise](https://www.greynoise.io/) - Internet Noise Analysis
 * [Terms of Service; Didn't Read](https://tosdr.org/) - TLDR TOS
@@ -21590,29 +21577,27 @@ pass: paluch
 * ⭐ **[VPN Comparison Chart](https://web.archive.org/web/20221029202548/https://privacymelon.com/stealth-vpn-guide/vpn-comparison-table/)** / [2](https://techlore.tech/vpn) / [3](https://redd.it/rikthc) - VPN Comparisons
 * ⭐ **[VPS Comparison Chart](https://lowendstock.com/)** - VPS Comparisons
 * ⭐ **[How-to Bind VPN to Client](https://redd.it/ssy8vv)** - Bind VPN to Client to Avoid ISP Letters
-* ⭐ **[Mullvad](https://mullvad.net/)** - [Pricing](https://i.ibb.co/sHB33GJ/daf48a5ee585.png) / [NetNS](https://github.com/chutz/mullvad-netns) / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/)
 * ⭐ **[IVPN](https://www.ivpn.net/)** - [Pricing](https://i.ibb.co/6sQKrQL/e06bea93c5ba.png) / [Free Trial](https://redd.it/nzjmqa) / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/)
-* ⭐ **[OVPN](https://www.ovpn.com/)** - [Pricing](https://i.ibb.co/7kz780L/f85fce050246.png) / [No Logging](https://www.ovpn.com/en/blog/ovpn-wins-court-order)
+* ⭐ **[OVPN](https://www.ovpn.com/)** - [Pricing](https://ibb.co/BNmCJdS) / [No Logging](https://www.ovpn.com/en/blog/ovpn-wins-court-order)
 * ⭐ **[Perfect Privacy](https://www.perfect-privacy.com/)** - [Pricing](https://i.ibb.co/PYNFn4K/0f638a6f3523.png) / [No Logging](https://www.perfect-privacy.com/en/warrant-canary)
 * ⭐ **[AirVPN](https://airvpn.org/)** - [Pricing](https://i.ibb.co/8rVJ5JB/c4b813a6b6bc.png)
-* ⭐ **[Windscribe](https://windscribe.com)** - [Pricing](https://i.ibb.co/ZSrfV2W/033d545c87da.png) / Free Version Available / [Improved App](https://github.com/Windscribe/Desktop-App)
-* ⭐ **[Proton](https://protonvpn.com)** - [Pricing](https://i.ibb.co/cyLWP82/444c81430f30.png) / No Torrenting w/ Free Version
+* ⭐ **[Windscribe](https://windscribe.com)** - [Pricing](https://ibb.co/tPZZDhC) / Free Version Available / [Improved App](https://github.com/Windscribe/Desktop-App)
+* ⭐ **[Proton](https://protonvpn.com)** - [Pricing](https://ibb.co/gg4VCDR) / No Torrenting w/ Free Version
 * ⭐ **[CryptoStorm](https://cryptostorm.is/)** - [Pricing](https://i.ibb.co/3m849CX/afe46b2ec3ec.png)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN 
 * ⭐ **[Softether](https://www.softether.org/)** - Free VPN / [VPN Gate](https://www.vpngate.net/en/download.aspx) / [Note](https://pastebin.com/TrSw7EpF)
 * ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Manager](https://github.com/perara/wg-manager) / [WebUI](https://hub.docker.com/r/weejewel/wg-easy)
 * [Trust.Zone](https://trust.zone/) - [Pricing](https://i.ibb.co/KyDfqyS/53ba903a8c7a.png)
-* [VPNSecure](https://www.vpnsecure.me/) - [Pricing](https://i.ibb.co/WcyPv1V/0380b98d0965.png)
-* [MysteriumVPN](https://www.mysteriumvpn.com/) - [Pricing](https://i.ibb.co/wzHmLPV/2d5b0c8a18c2.png)
-* [Tailscale](https://tailscale.com/) - [Pricing](https://i.ibb.co/VVs7pfR/e18aea980720.png) / [Discord](https://discord.com/invite/n3vtSwc)
-* [TorGuard](https://torguard.net/) - [Pricing](https://i.ibb.co/yVhHVtp/8e9daa1af6bc.png)
-* [WeVPN](https://wevpn.com/) - [Pricing](https://i.ibb.co/xF8srYp/938d794886e0.png)
-* [PandaVPN](https://pandavpnpro.com/) - [Pricing](https://i.ibb.co/Wst1Vx5/7f1118963fa0.png)
-* [Hidemy.name](https://hidemy.name/en/) - [Pricing](https://i.ibb.co/4TMxyLC/26a70a5e6936.png)
+* [Mullvad](https://mullvad.net/) - [Pricing](https://i.ibb.co/sHB33GJ/daf48a5ee585.png) / [NetNS](https://github.com/chutz/mullvad-netns) / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
+* [VPNSecure](https://www.vpnsecure.me/) - [Pricing](https://ibb.co/c2BdyG1)
+* [MysteriumVPN](https://www.mysteriumvpn.com/) - [Pricing](https://ibb.co/vhD6q85)
+* [Tailscale](https://tailscale.com/) - [Pricing](https://ibb.co/VDz3kxp) / [Discord](https://discord.com/invite/n3vtSwc)
+* [TorGuard](https://torguard.net/) - [Pricing](https://ibb.co/fHyN9F1)
+* [PandaVPN](https://pandavpnpro.com/) - [Pricing](https://ibb.co/PCPsv2t)
+* [Hidemy.name](https://hidemy.name/en/) - [Pricing](https://ibb.co/1mxrGTV)
 * [TitaniumNetwork VPN](https://tnvpn.com/) - [Pricing](https://i.ibb.co/r6CjtrB/282248084c76.png)
-* [Malwarebytes VPN](https://malwarebytes.com/vpn) - [Pricing](https://i.ibb.co/C7nw5XV/248c0f746c2d.png)
-* [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - VPN Extension / 3GB Free / [Pricing](https://i.ibb.co/TPt2wRc/9de76aa8fee0.png)
-* [Mozilla FPN](https://fpn.firefox.com/) - VPN Extension / [Pricing](https://i.ibb.co/wBfF5M0/42756156044f.png) / Mullvad Servers
+* [Malwarebytes VPN](https://malwarebytes.com/vpn) - [Pricing](https://ibb.co/dPpYfT9)
+* [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - VPN Extension / 3GB Free / [Pricing](https://ibb.co/rt0DS0N)
 * [StrongSwan](https://www.strongswan.org/) - IPsec VPN
 * [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN w/ Adblocking Capabilities 
 * [Syntropy](https://www.syntropystack.com/vpn), [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood), [n2n](https://github.com/ntop/n2n), [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) - Self-Hosted VPN
@@ -21961,7 +21946,7 @@ pass: paluch
 * ⭐ **[Slavart](https://discord.gg/NgPJTt3WK3)** - Multi-Site Audio Download App / [Site](https://slavart.gamesdrive.net/), [2](https://gamesdrive.net/) / [Divolt](https://slavart.divolt.xyz) / [Telegram](https://t.me/+9znaxmYJB5lkNzA8) / [Qobuz Copy](https://rentry.co/qobuz-slavart)
 * ⭐ **[DoubleDouble](https://doubledouble.top/)** - Multi-Site Audio Download Web App
 * ⭐ **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Download from Spotify
-* ⭐ **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - Download from YouTube
+* ⭐ **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_converters)** - Download from YouTube
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
 * ⭐ **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - Telegram Audio Download Channels / [Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots)
 * [/r/xTrill](https://reddit.com/r/xTrill) - MP3 / FLAC / [Backup](https://reddit.com/r/xTrillBackup)
