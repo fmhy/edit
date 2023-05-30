@@ -27,5 +27,6 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.5
         with:
-          branch: ci
+          branch: main
           folder: .
+          commit-message: "♻️ update single page"
