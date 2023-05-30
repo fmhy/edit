@@ -413,27 +413,4 @@
 
 ***
 
-# ► Machine Learning
-
-* ⭐ **[awesome-list-of-awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes)**, [awesome-marketing-datascience](https://github.com/underlines/awesome-marketing-datascience/), [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm), [CyberCowboy](https://local-llm.cybercowboy.de) or [ML_Resources](https://github.com/tunguz/ML_Resources) - Machine Learning Resources
-* [Catalyzex](https://www.catalyzex.com/) or [PapersWithCode](https://paperswithcode.com/) - Search Machine Learning Models / Papers
-* [awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Machine Learning Colabs
-* [OpenAIPlayground](https://github.com/nat/openplayground)
-* [OpenML](https://www.openml.org/) or [Hugging Face](https://huggingface.co/) - Machine Learning Datasets
-* [DVC](https://dvc.org/) - Machine Learning Version Control
-* [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep Learning Optimization Library
-* [TeachableMachine](https://teachablemachine.withgoogle.com/) or [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
-* [Netron](https://github.com/lutzroeder/netron) -  Visualizer for Neural Network, Deep Learning, and Machine Learning Models
-* [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
-* [Dataset Card for Alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) or [awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) - Language Model Training Datasets
-* [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
-* [Shap](https://github.com/slundberg/shap) - Language Model Response Analyzer
-* [Langchain](https://github.com/hwchase17/langchain) - Build Apps via LLM
-* [GPTCache](https://github.com/zilliztech/GPTCache) - LLM Response Cache
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) or [OpenNN](https://www.opennn.net/) / [Git](https://github.com/Artelnics/OpenNN) - Machine Learning Framework
-* [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) or [Practical Deep Learning](https://course.fast.ai/) - Machine Learning Coding Lessons
-* [Nixified](https://nixified.ai/) - Nix Flake for AI Projects 
-* [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem Solving Book
-* [MetaAcademy](https://metacademy.org/) - Machine Learning Guides
-* [ML-Youtube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - Machine Learning Courses on YouTube
-* [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
+# ► [Machine Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_machine_learning2)
