@@ -13,12 +13,11 @@
 
 ## ▷ Dedicated Hosts
 
-* ⭐ **[Soap2Day](https://soapgate.org/)** - Movies / TV
-* ⭐ **[JustChill](https://www.justchill.tv/en)** - Movies / TV / Anime / [Discord](https://discord.gg/y49g2tgNak)
-* ⭐ **[Ask4Movies](https://ask4movie.mx/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
-* ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / Invite Code: mpgh or 1hack
+* ⭐ **[Soap2Day](https://soapgate.org/)** - 720p Movies / TV
+* ⭐ **[JustChill](https://www.justchill.tv/en)** - 1080p Movies / TV / Anime / [Discord](https://discord.gg/y49g2tgNak)
+* ⭐ **[Ask4Movies](https://ask4movie.net/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
 * ⭐ **[Watch A Movie](https://watcha.movie/)** - Movies / TV / [Discord](https://discord.gg/PvAg9Rc7kQ)
-* ⭐ **[C1NE](https://c1ne.co/)** - Movies / TV / [Discord](https://discord.gg/nXUP8TxNSR)
+* ⭐ **[C1NE](https://c1ne.co/)** - 720p Movies / TV / [Discord](https://discord.gg/nXUP8TxNSR)
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / [Discord](https://discord.gg/r4QrghF4B9)
 * ⭐ **[Streaminal-TV](https://streaminal-tv.vercel.app/)** - Movies / TV / Anime
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
