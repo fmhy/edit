@@ -42,7 +42,7 @@ def change_some_general_formatting(text):
 
 def remove_backtowiki_and_toc(text):
     text = re.sub('\*\*\[◄◄ Back to Wiki Index\]\(https://www\.reddit\.com/r/FREEMEDIAHECKYEAH/wiki/index\)\*\*\n', '', text, flags=re.MULTILINE)
-    text = re.sub(r'\*\*\[Table of Contents\]\(https://i\.imgur\.com/[^()\[\]]*\.png\)\*\* - For mobile users\n', '', text, flags=re.MULTILINE)
+    text = re.sub(r'\*\*\[Table of Contents\]\(https?:\/\/.*?ibb\.co.*\)\*\* - For mobile users\n', '', text, flags=re.MULTILINE)
     text = re.sub("\*\*\*\n\*\*\*\n\*\*\*\n\*\*\*\n\n\n\*\*\*\n\*\*\*\n\n", '', text, flags=re.MULTILINE)
     text = re.sub("\*\*\*\n\*\*\*\n\*\*\*\n\*\*\*\n\n\n\*\*\*\n\*\*\* \n\n", '', text, flags=re.MULTILINE)
     text = re.sub("\*\*\*\n\*\*\*\n\*\*\*\n\n\n\*\*\*\n\*\*\*\n\n", '', text, flags=re.MULTILINE)
