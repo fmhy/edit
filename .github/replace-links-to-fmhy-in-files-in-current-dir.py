@@ -5,7 +5,7 @@ import sys
 def replaces_for_beginners_guide(text):
     text = re.sub('\[TOC\]\n', '', text, flags=re.MULTILINE)
     text = re.sub('\*\*Table of Contents\*\*\n\[TOC2\]\n', '', text, flags=re.MULTILINE)
-    text = re.sub('# -> ***Beginners Guide to Piracy*** <-\n', '', text, flags=re.MULTILINE)
+    text = re.sub('# -> \*\*\*Beginners Guide to Piracy\*\*\* <-\n', '', text, flags=re.MULTILINE)
     text = re.sub(r"!!!note\s(.+?)\n", r"!!!\n\1\n!!!\n", text, flags=re.MULTILINE)
     text = re.sub(r"!!!info\s(.+?)\n", r"!!!\n\1\n!!!\n", text, flags=re.MULTILINE)
     text = re.sub(r"!!!warning\s(.+?)\n", r"!!!warning\n\1\n!!!\n", text, flags=re.MULTILINE)
