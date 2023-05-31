@@ -192,7 +192,7 @@
 * [Latest Privacy](https://latestprivacy.org/), [Talos Blog](https://blog.talosintelligence.com/), [IT Security Guru](https://www.itsecurityguru.org/), [ThreatPost](https://threatpost.com/), [Calyx](https://calyxinstitute.org/), [Privacy International](https://www.privacyinternational.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - Privacy / Security News
 * [Netblocks](https://netblocks.org/) - Censorship News
 * [CBM](https://comicbookmovie.com/) - Comic, Movie & TV News
-* [AnotherDayAnotherDecade](https://www.anotherdayanotherdecade.com/) - AI News
+* [AnotherDayAnotherDecade](https://www.anotherdayanotherdecade.com/) or [EmergentMind](https://www.emergentmind.com/) - AI News
 * [NewsNotFound](https://newsnotfound.com/) - Unbiased AI Generated News
 * [Tudum](https://www.netflix.com/tudum) - Netflix News
 * [Anime News Network](https://www.animenewsnetwork.com/) - Anime News
