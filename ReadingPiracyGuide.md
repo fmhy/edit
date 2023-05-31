@@ -451,7 +451,6 @@
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - Electronics
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - Electronics Schematics / Simulations
 * [SemiWiki](https://semiwiki.com/) - Semiconductor Wiki
-* [159.69.3.96](https://github.com/nbats/FMHYedit/blob/main/base64.md#15969396) - IT Books
 * [PDFiles](https://www.pdfiles.net/) - IT Books
 * [IT Book Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#it-books-drive) - IT Books
 * [Explanations](https://magcius.github.io/xplain/article/) - Advanced Computer Explanations
