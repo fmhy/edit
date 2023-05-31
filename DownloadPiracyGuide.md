@@ -314,6 +314,7 @@
 * [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)
 * [NZBKing](http://nzbking.com/)
+* [g4u](https://g4u.to/) - Download Games via Usenet / pw: 404
 * [UsenetArchives](https://usenetarchives.com/) or [OldUSe](https://article.olduse.net/) - Search Usenet Articles
 * [althub](https://althub.co.za) - Unlimited Free Trials
 * [nZEDb](https://github.com/nZEDb/nZEDb) - Self-Hosted
