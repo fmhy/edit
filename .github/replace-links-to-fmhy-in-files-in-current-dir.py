@@ -10,7 +10,7 @@ def replaces_for_beginners_guide(text):
     text = re.sub(r"!!!info\s(.+?)\n", r"!!!\n\1\n!!!\n", text, flags=re.MULTILINE)
     text = re.sub(r"!!!warning\s(.+?)\n", r"!!!warning\n\1\n!!!\n", text, flags=re.MULTILINE)
     text = re.sub(r">\s(.+?)\n", r"> \1\n\n", text, flags=re.MULTILINE)
-    text = re.sub('\*\*\[\^ Back to Top\]\(https://rentry.org/Piracy-BG\)\*\*', '', text, flags=re.MULTILINE)
+    text = re.sub('\*\*\[\^ Back to Top\]\(#beginners-guide-to-piracy\)\*\*', '', text, flags=re.MULTILINE)
     text = re.sub("!!!\n!!!\n", "!!!\n", text, flags=re.MULTILINE)
     text = re.sub("\n\*\*\[", "\n* **[", text, flags=re.MULTILINE)
     return text
