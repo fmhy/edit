@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/WHMc2Hf)** - For mobile users
+**[Table of Contents](https://ibb.co/xzKSGpx)** - For mobile users
 
 ***
 ***
@@ -2664,15 +2664,6 @@ Add the following commands to a search to manually scrape each site.
 #### Tab Managers
 
 [OneTab](https://www.one-tab.com/), [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn), [Tabli](https://www.gettabli.com/), [Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups), [Acid Tabs](https://github.com/jdhayford/acid-tabs-extension), [Tab Stash](https://josh-berry.github.io/tab-stash/), [Tab Butler](https://tabbutler.netlify.app/), [One Tab Group](https://www.onetab.group/)
-
-***
-
-#### TeamDrive Generators
-
-* Note that these can and do get deleted
-* https://td.msgsuite.workers.dev/
-* https://t.me/MSGuite_SD_Creator_Bot + [Telegram Chat](https://t.me/msgsuitechat)
-* https://bdi-generator.hashhackers.com/ (Google Drive Index Code Generator)
 
 ***
 
