@@ -615,7 +615,6 @@
 * [Uloz](https://ulozto.net/) - Rare Movies / Short Films
 * [MobileTVShows](https://www.mobiletvshows.net/) - TV / Anime
 * [Medeberiyaa](https://medeberiyas.com/) - Movies / TV / Anime
-* [My9JARocks](https://my9jarocks.com/category/videodownload/hollywood-movie) - Movies / TV
 * [HDMP4Mania](https://hdmp4mania2.com/) - Movies
 * [DDLBase](https://ddlbase.net/) - Movies / TV
 * [FilmGo](https://www.filmgo.live/) - Movies / TV
