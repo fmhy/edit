@@ -16,7 +16,6 @@
 * ⭐ **[Soap2Day](https://soapgate.org/)** - Movies / TV
 * ⭐ **[JustChill](https://www.justchill.tv/en)** - Movies / TV / Anime / [Discord](https://discord.gg/y49g2tgNak)
 * ⭐ **[Ask4Movies](https://ask4movie.mx/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
-* ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / Invite Code: mpgh or 1hack
 * ⭐ **[Watch A Movie](https://watcha.movie/)** - Movies / TV / [Discord](https://discord.gg/PvAg9Rc7kQ)
 * ⭐ **[C1NE](https://c1ne.co/)** - Movies / TV / [Discord](https://discord.gg/nXUP8TxNSR)
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / [Discord](https://discord.gg/r4QrghF4B9)
@@ -622,7 +621,6 @@
 * [FilmGo](https://www.filmgo.live/) - Movies / TV
 * [StarsDDL](https://starsddl.me/) - Movies / TV
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
-* [EE3](https://ee3.me/) or [RIPS](https://rips.cc/) - Movies / Invite Code: mpgh or 1hack
 * [Reqzone](https://reqzone.com/) - Movies / TV
 * [KatMovieHD](https://katmoviehd.ac/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [FZMovies](https://fzmovies.host/) - Movies
@@ -669,7 +667,6 @@
 * [Privatemoviez](https://privatemoviez.cloud/) - Movies / TV
 * [Nollyverse](https://www.nollyverse.com/) - Movies / TV
 * [MegaUploadAgora](https://www.megauploadagora.com.br/) - Movies / TV 
-* [Top100](https://top100.to/) - Movies / TV
 * [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - Cartoons 
 * [Bakabt](https://bakabt.me/) - Cartoons / [Signup](http://wiki.bakabt.me/index.php/Sign_up)
 * [DramaFans](http://www.dramafans.org/) - Asian Drama
