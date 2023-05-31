@@ -77,13 +77,14 @@ Use [this](https://wallabag.nixnet.services/) to read the article easily.
  
 ***
 
-### Browsers 🌐
+### Browser 🌐
 
 **[Firefox](https://www.mozilla.org/en-US/firefox/new/)** / **[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / **[Browser Comparisons](https://avoidthehack.com/util/browser-comparison)**
 **[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_extensions) / [Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7_userscripts)** - Add features & functionality to browser
 **[Dark Reader](https://darkreader.org/)** - Dark mode for all sites
 **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** - View YouTube dislikes
 **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate sites
+**[Privacy Badger](https://privacybadger.org/)** - Blocks invisible trackers.
 **[Buster](https://github.com/dessant/buster)** - Auto captcha solver
 **[Privacy Pass](https://privacypass.github.io/)** - Auto captcha skipper
 
@@ -127,7 +128,7 @@ Use [this](https://wallabag.nixnet.services/) to read the article easily.
 **[HolyUnblocker](https://www.holyubofficial.net/)** - View sites blocked by ISP / school
 **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_managers)** - Save multiple passwords
 **[HaveIBeenPwned](https://haveibeenpwned.com/)** - Get notified when your email or phone number has been found in a data breach
-**[Mullvad](https://mullvad.net/) / [Proton](https://protonvpn.com) / [IVPN](https://www.ivpn.net/)** - Paid VPNs
+**[IVPN](https://www.ivpn.net/) / [Mullvad](https://mullvad.net/) / [Proton](https://protonvpn.com)** - Paid VPNs
 **[Riseup](https://riseup.net/en/vpn)** - Free VPN / Proton also has a free version / [warning](https://i.ibb.co/1ZV0Hvk/0e2c6578c685.png)
 **[The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)** - Linux Privacy Guide
 **[File Encryption Tools](https://fmhy.pages.dev/storage/#file-encryption-tools)** - File Encryption Apps / Tools
