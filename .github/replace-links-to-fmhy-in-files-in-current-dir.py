@@ -4,11 +4,13 @@ import sys
 
 def replaces_for_beginners_guide(text):
     text = re.sub('\[TOC\]\n', '', text, flags=re.MULTILINE)
-    text = re.sub('## -> Beginners Guide to Piracy <-\n', '', text, flags=re.MULTILINE)
+    text = re.sub('\*\*Table of Contents\*\*\n\[TOC2\]\n', '', text, flags=re.MULTILINE)
+    text = re.sub('# -> \*\*\*Beginners Guide to Piracy\*\*\* <-\n', '', text, flags=re.MULTILINE)
     text = re.sub(r"!!!note\s(.+?)\n", r"!!!\n\1\n!!!\n", text, flags=re.MULTILINE)
     text = re.sub(r"!!!info\s(.+?)\n", r"!!!\n\1\n!!!\n", text, flags=re.MULTILINE)
     text = re.sub(r"!!!warning\s(.+?)\n", r"!!!warning\n\1\n!!!\n", text, flags=re.MULTILINE)
-    text = re.sub('\*\*\[\^ Back to Top\]\(https://rentry.org/Piracy-BG\)\*\*', '', text, flags=re.MULTILINE)
+    text = re.sub(r">\s(.+?)\n", r"> \1\n\n", text, flags=re.MULTILINE)
+    text = re.sub('\*\*\[\^ Back to Top\]\(#beginners-guide-to-piracy\)\*\*', '', text, flags=re.MULTILINE)
     text = re.sub("!!!\n!!!\n", "!!!\n", text, flags=re.MULTILINE)
     text = re.sub("\n\*\*\[", "\n* **[", text, flags=re.MULTILINE)
     return text
@@ -20,9 +22,6 @@ def do_some_individual_replaces(text):
 
     #Base64-decoder script link
     text = re.sub('\*\* site or extension\.\n', '** site or extension\.\nAlternatively, install this [userscript](https://rentry.co/wc7s2/raw)\n', text, flags=re.MULTILINE)
-
-    #For beginners piracy guide page
-    text = replaces_for_beginners_guide(text)
 
     return text
 
@@ -106,6 +105,8 @@ def apply_replace_to_all_md_files_in_current_dir():
             with open(file, 'r', encoding='utf-8') as f:
                 content = f.read()
                 content = replace_urls_in_links_to_FMHY_wiki(content)
+                if file == "Beginners-Guide.md":
+                    content = replaces_for_beginners_guide(content)
                 with open(file, 'w', encoding='utf-8') as f2:
                     f2.write(content)
 
