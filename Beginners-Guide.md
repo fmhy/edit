@@ -175,7 +175,7 @@ Use [this](https://wallabag.nixnet.services/) to read the article easily.
 !!!warning Torrenting can get you in trouble with your ISP, so make sure to use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn). Most VPNs offer a killswitch to prevent data leaks, but it's much more effective to  [bind your VPN to your client](https://redd.it/ssy8vv), preventing it from connecting at all unless your VPN is on.
 
 **[qBittorrent](https://www.qbittorrent.org/) / [Transmission](https://transmissionbt.com/) / [Deluge](https://www.deluge-torrent.org/) / [Remote Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** - Torrent clients
-**[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)** - Downloads torrents externally & uploads them to gdrive, avoiding the need for a VPN / [Create Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_generators)
+**[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)** - Downloads torrents externally & uploads them to gdrive, avoiding the need for a VPN
 **[1337x](https://1337x.to/) / [RarBG](https://rarbg.to) / [RuTracker](http://rutracker.org)** - Torrent video, audio, games, software & more /  Only download from reputable users on 1337x & RuTracker in the end its still public trackers where anyone can upload
 **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Trusted game repacker
 **[Stremio](https://www.stremio.com/)** - Torrent video streaming app
