@@ -602,71 +602,70 @@
 ***
 
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
-* ⭐ **[OlaMovies](https://olamovies.quest/)** - Movies / TV
-* ⭐ **[Pahe](https://pahe.li/)** - Movies / TV / Anime / [Discord](https://discord.gg/4AvaCsd2J4) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper) / [Redirect Buttons](https://greasyfork.org/en/scripts/443277)
-* ⭐ **[PSARips](https://psa.re/)** - Movies / TV / [Scrape](https://github.com/NandiyaLive/PSALinkGrabber)
-* ⭐ **[Worlds Cinema](http://worldscinema.org/)** - Classic / Cult Films
-* ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / Account Required for 1ficher links / [DM](https://www.reddit.com/message/compose?to=nbatman) email for invite
-* ⭐ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)** - Download videos from streaming sites
-* [RareLust](https://rarelust.com/) - Rare Movies / NSFW
-* [My Duck Is Dead](https://www.myduckisdead.org/) - Rare Movies / NSFW
-* [MegaDDL](https://megaddl.co/) - Movies / TV
-* [StagaTV](https://www.stagatv.com/) - Movies / TV
-* [movie-web](https://movie-web.app/) - Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)
-* [Uloz](https://ulozto.net/) - Rare Movies / Short Films
-* [MobileTVShows](https://www.mobiletvshows.net/) - TV / Anime
-* [Medeberiyaa](https://medeberiyas.com/) - Movies / TV / Anime
-* [HDMP4Mania](https://hdmp4mania2.com/) - Movies
-* [DDLBase](https://ddlbase.net/) - Movies / TV
-* [FilmGo](https://www.filmgo.live/) - Movies / TV
-* [StarsDDL](https://starsddl.me/) - Movies / TV
-* [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
-* [Reqzone](https://reqzone.com/) - Movies / TV
-* [KatMovieHD](https://katmoviehd.ac/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
-* [FZMovies](https://fzmovies.host/) - Movies
-* [FZMoviesz](https://fzmoviesz.com/) - Movies / TV
-* [YourSerie](https://www.yourserie.com/) - Movies / TV
-* [SeriesWay](https://seriesway.com/) - Movies / TV
-* [FilmDuty](https://filmduty.com/) - Movies / TV / Anime
-* [weeFilm](https://www.weefilm.live/) - Movies / TV / Anime
-* [Naijavault](https://www.naijavault.com/) - Movies / TV
-* [KimoiTV](https://www.kimoitv.com/) - Movies / TV / Anime
-* [MeloMovie](https://melomovie.com/) - Movies / TV
-* [MKV Cage](https://www.mkvcage.site/) - Movies / TV
-* [Best-Movies](https://best-movies.info/) - Movies / TV
-* [Onkyo4k](https://onkyo4k.com/) - Movies / TV
-* [ShareSpark](https://ww1.sharespark.cfd/) - Movies / TV
-* [Free Movies](https://free-movies.to/) - Movies / TV
-* [StreamCraze](https://streamcraze.com/) - Movies / TV
-* [MovieExplit](https://moviexplit.pw/) - Movies / TV / Anime / [Telegram](https://t.me/moviexplit)
-* [SomosMovies](https://somosmovies.com/) - Movies
-* [Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download) - Movies / TV / Anime / Eng Content / Single Click DL's
-* [Best HD Movies](https://besthdmovies.hair/) - Movies
-* [Full4Movies](https://www.full4movies.golf/) - Movies / TV
-* [MovieSeriesTV](https://www.movieseriestv.net/) - Movies / TV
-* [TVSeriesNMovies](https://www.tvseriesnmovies.com/) - Movies / TV
-* [SeriesVault](https://seriesvault.tk/), [2](https://seriesvault.win/) - TV / Anime
-* [o2tvseries](https://o2tvseries1.com/) - TV
-* [TV Shows](https://tvshows.me/) - TV
-* [TVShows.today](https://tvshows.me/) - TV
-* [TVSBoy](https://tvsboy.com/) - TV
-* [MoviezAddiction](https://45.143.223.244/) - Movies / TV / [Telegram](https://tttttt.me/moviezaddiction4//)
-* [WorldFree4u](https://worldfree4u.gay/) - Movies
-* [SSR Movies](https://www.ssrmovies.tools/) - Movies / TV / [Telegram](https://t.me/SSRmovies2022)
-* [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV
-* [MovieLegacy](https://movieslegacy.site/) - Movies
+* ⭐ **[OlaMovies](https://olamovies.quest/)** - Movies / TV / 1080p
+* ⭐ **[Pahe](https://pahe.li/)** - Movies / TV / Anime / 4K / [Discord](https://discord.gg/4AvaCsd2J4) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper) / [Redirect Buttons](https://greasyfork.org/en/scripts/443277)
+* ⭐ **[PSARips](https://psa.re/)** - Movies / TV / 4K / [Scrape](https://github.com/NandiyaLive/PSALinkGrabber)
+* ⭐ **[Worlds Cinema](http://worldscinema.org/)** - Classic / Cult Films / 1080p
+* ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / 1080p / Account Required for 1ficher links / [DM](https://www.reddit.com/message/compose?to=nbatman) email for invite
+* ⭐ **[Video Download Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_video_tools)**
+* [RareLust](https://rarelust.com/) - Rare Movies / NSFW / 1080p
+* [My Duck Is Dead](https://www.myduckisdead.org/) - Rare Movies / NSFW / 1080p
+* [MegaDDL](https://megaddl.co/) - Movies / TV / 1080p
+* [StagaTV](https://www.stagatv.com/) - Movies / TV / 1080p
+* [movie-web](https://movie-web.app/) - Movies / TV / 1080p / [Discord](https://discord.gg/vXsRvye8BS)
+* [Uloz](https://ulozto.net/) - Rare Movies / Short Films / 1080p
+* [Medeberiyaa](https://medeberiyas.com/) - Movies / TV / Anime / 1080p
+* [HDMP4Mania](https://hdmp4mania2.com/) - Movies / 1080p
+* [DDLBase](https://ddlbase.net/) - Movies / TV / 4K
+* [FilmGo](https://www.filmgo.live/) - Movies / TV / 720p
+* [StarsDDL](https://starsddl.me/) - Movies / TV / 1080p
+* [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
+* [Reqzone](https://reqzone.com/) - Movies / TV / 1080p
+* [KatMovieHD](https://katmoviehd.ac/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
+* [FZMovies](https://fzmovies.host/) - Movies / 720p
+* [FZMoviesz](https://fzmoviesz.com/) - Movies / TV / 480p
+* [YourSerie](https://www.yourserie.com/) - Movies / TV / 720p
+* [SeriesWay](https://seriesway.com/) - Movies / TV / 720p
+* [FilmDuty](https://filmduty.com/) - Movies / TV / Anime / 1080p
+* [weeFilm](https://www.weefilm.live/) - Movies / TV / Anime / 480p
+* [Naijavault](https://www.naijavault.com/) - Movies / TV / 480p
+* [KimoiTV](https://www.kimoitv.com/) - Movies / TV / Anime / 360p
+* [MKV Cage](https://www.mkvcage.site/) - Movies / TV / 1080p
+* [Best-Movies](https://best-movies.info/) - Movies / TV / 4K
+* [Onkyo4k](https://onkyo4k.com/) - Movies / TV / 4K
+* [ShareSpark](https://ww1.sharespark.cfd/) - Movies / TV / 1080p
+* [Free Movies](https://free-movies.to/) - Movies / TV / 1080p
+* [MovieExplit](https://moviexplit.pw/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/moviexplit)
+* [SomosMovies](https://somosmovies.com/) - Movies / 1080p
+* [Best HD Movies](https://besthdmovies.hair/) - Movies / 1080p
+* [Full4Movies](https://www.full4movies.golf/) - Movies / TV / 1080p
+* [MovieSeriesTV](https://www.movieseriestv.net/) - Movies / TV / 1080p
+* [SeriesVault](https://seriesvault.tk/), [2](https://seriesvault.win/) - TV / Anime / 1080p
+* [o2tvseries](https://o2tvseries1.com/) - TV / 1080p
+* [TV Shows](https://tvshows.me/) - TV / 720p
+* [TVShows.today](https://tvshows.me/) - TV / 720p
+* [TVSBoy](https://tvsboy.com/) - TV / 720p
+* [MoviezAddiction](https://45.143.223.244/) - Movies / TV / 4K / [Telegram](https://tttttt.me/moviezaddiction4//)
+* [UHDMovies](https://uhdmovies.vip/) - Movies / 4K
+* [FilmFans](https://filmfans.org/) - Movies / 4K
+* [ShowBox](https://www.showbox.media/) - Movies / TV / 4K / [How-to](https://rentry.co/febbox)
+* [WorldFree4u](https://worldfree4u.gay/) - Movies / 1080p
+* [SSR Movies](https://www.ssrmovies.tools/) - Movies / TV / 1080p / [Telegram](https://t.me/SSRmovies2022)
+* [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV / 1080p
+* [MovieLegacy](https://movieslegacy.site/) - Movies / 4K
 * [SeriezLoaded NG](https://www.seriezloaded.com.ng/) - Movies / TV
-* [ULMovies](https://ulmovies.xyz/) - Movies / TV 
-* [ShareMania](https://sharemania.us/) - Movies / TV
-* [NetNaija](https://netnaija.xyz/) - Movies
-* [GdriveMovies](https://gdrivemovies.xyz/) - Movies
-* [nKiri](https://nkiri.com/) - Movies / TV
-* [TinyDL](https://tinydl.org/) - Movies / TV
-* [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime
-* [O2TVSeriesz](https://o2tvseriesz.com/) - Movies / TV
-* [Privatemoviez](https://privatemoviez.cloud/) - Movies / TV
-* [Nollyverse](https://www.nollyverse.com/) - Movies / TV
-* [MegaUploadAgora](https://www.megauploadagora.com.br/) - Movies / TV 
+* [ULMovies](https://ulmovies.xyz/) - Movies / TV / 720p
+* [ShareMania](https://sharemania.us/) - Movies / TV / 4K
+* [NetNaija](https://netnaija.xyz/) - Movies / 480p
+* [GdriveMovies](https://gdrivemovies.xyz/) - Movies / 4K
+* [nKiri](https://nkiri.com/) - Movies / TV / 720p
+* [TinyDL](https://tinydl.org/) - Movies / TV / 1080p
+* [MobileTVShows](https://www.mobiletvshows.net/) - TV / Anime / 480p
+* [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime / 1080p
+* [O2TVSeriesz](https://o2tvseriesz.com/) - Movies / TV / 720p
+* [Privatemoviez](https://privatemoviez.cloud/) - Movies / TV / 1080p
+* [Nollyverse](https://www.nollyverse.com/) - Movies / TV / 1080p
+* [MegaUploadAgora](https://www.megauploadagora.com.br/) - Movies / TV / 720p
 * [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - Cartoons 
 * [Bakabt](https://bakabt.me/) - Cartoons / [Signup](http://wiki.bakabt.me/index.php/Sign_up)
 * [DramaFans](http://www.dramafans.org/) - Asian Drama
@@ -678,9 +677,7 @@
 * [TodayTVSeries](http://www.todaytvseries2.com/) - TV
 * [TvShows4Mobile](https://tvshows4mobile.com/) - TV / Anime
 * [General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "video"
-* [UHDMovies](https://uhdmovies.vip/) - HD Movies
-* [FilmFans](https://filmfans.org/) - HD Movies
-* [ShowBox](https://www.showbox.media/) - HD Movies / TV / [How-to](https://rentry.co/febbox)
+* [Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download) - Movies / TV / Anime / Eng Content / Single Click DL's
 * [IRC Movie Channels](https://pastebin.com/2AeYizZK)
 * [StreamFab](https://pastebin.com/Kgui74wd) - Premium Streaming Site Video Downloader / [Screenshot](https://i.ibb.co/jVZrKP0/9199d0de02de.png)
 * [Gophie](https://github.com/Go-phie/gophie), [Movie CLI](https://github.com/mov-cli/mov-cli) or [Movies-and-Series-Scraper](https://github.com/yousefkotp/Movies-and-Series-Scraper) - Streaming Site Download CLI
