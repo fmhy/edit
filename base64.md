@@ -459,13 +459,6 @@ pass: paluch
 
 *** 
 
-#### 159.69.3.96
-
-`aHR0cDovLzE1OS42OS4zLjk2L2Vib29rcy8=`
-
-
-*** 
-
 #### IT Books Drive
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9sbTVsZ1F4VCNRaDUyWXFFMC1rd1BfLWVXb2hNQmJ3`
