@@ -4,26 +4,12 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/mGd7bP1)** - For mobile users
+**[Table of Contents](https://ibb.co/yhBMypV)** - For mobile users
 
 ***
 ***
 
 # ► AI Chatbots
-
-* ⭐ **[AI Playground](https://play.vercel.ai/)** or [ChatHub](https://chathub.gg/) - Compare AI Responses
-* ⭐ **[Claude](https://www.anthropic.com/index/claude-now-in-slack)** - Anthropic's Chatbot
-* ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
-* ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
-* ⭐ **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbots Index
-* [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Chatbot
-* [NovelAI](https://novelai.net/) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz)
-* [Leon](https://getleon.ai/) - AI Assistant
-* [AnimaAI](https://myanima.ai/) - Virtual Companion
-
-***
-
-## ▷ GPT Based
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Dev Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ) / [GPT-4 Note](https://pastebin.com/JJMVmUCN)
@@ -36,6 +22,15 @@
 * ⭐ **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
 * ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
+* ⭐ **[AI Playground](https://play.vercel.ai/)** or [ChatHub](https://chathub.gg/) - Compare AI Responses
+* ⭐ **[Claude](https://www.anthropic.com/index/claude-now-in-slack)** - Anthropic's Chatbot
+* ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
+* ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
+* ⭐ **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbots Index
+* [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Chatbot
+* [NovelAI](https://novelai.net/) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz)
+* [Leon](https://getleon.ai/) - AI Assistant
+* [AnimaAI](https://myanima.ai/) - Virtual Companion
 * [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) or [Awesome-GPT4](https://gpt4.tools/) or  - ChatGPT Resources
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
 * [Forefront](https://chat.forefront.ai/) - GPT-3.5 Based Chatbots
@@ -71,7 +66,7 @@
 
 ***
 
-## ▷ Open-Source Chatbots
+## ▷ Open-Source Bots
 
 * ⭐ **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - Leaderboard
 * ⭐ **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Chatbots / [Collab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
