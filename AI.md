@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/yhBMypV)** - For mobile users
+**[Table of Contents](https://ibb.co/3sZY8kW)** - For mobile users
 
 ***
 ***
@@ -18,11 +18,6 @@
 * ⭐ **[Ora](https://ora.sh/openai/chatgpt)** - GPT-3.5 Based Chatbots
 * ⭐ **[Poe](https://poe.com/)** - GPT-3.5 Based Chatbots by Quora
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Based Chatbot with Real-Time Voice / [Discord](https://discord.gg/Rfbzet5R3v)
-* ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [2](https://chrome.google.com/webstore/detail/superpower-for-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) or [Merlin](https://merlin.foyer.work/) - Enhancement Extensions
-* ⭐ **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
-* ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
-* ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
-* ⭐ **[AI Playground](https://play.vercel.ai/)** or [ChatHub](https://chathub.gg/) - Compare AI Responses
 * ⭐ **[Claude](https://www.anthropic.com/index/claude-now-in-slack)** - Anthropic's Chatbot
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
@@ -42,27 +37,6 @@
 * [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbot
 * [Chai](https://www.chai-research.com/) - Entertainment Focused Chatbots
 * [DeepAI](https://deepai.org/chat) - GPT-2 Based Chatbot
-* [ChatWebpage](https://chatwebpage.com/) - Turn Webpages into Chatbots
-* [ChatBlade](https://github.com/npiv/chatblade) - ChatGPT CLI
-* [engshell](https://github.com/emcf/engshell) or [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT in TUIs
-* [YakGPT](https://yakgpt.vercel.app/) or [TurboGPT.ai](https://turbogpt.ai/) - ChatGPT Frontends
-* [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [TurboGPT](https://github.com/mikebpech/turbogpt.ai) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
-* [docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT Google Docs Addon
-* [ChatGPTBox](https://github.com/josStorer/chatGPTBox) - ChatGPT Browser Extensions
-* [chatgpt-discord-bot](https://github.com/TuringAI-Team/chatgpt-discord-bot), [CharacterAI](https://github.com/drizzle-mizzle/CharacterAI-Discord-Bot) or [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - ChatGPT for Discord
-* [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) / [2](https://github.com/n3d1117/chatgpt-telegram-bot) / [3](https://github.com/watscho/chat-gpt-telegram-bot) or [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT for Telegram
-* [WeChat ChatGPT](https://github.com/fuergaosi233/wechat-chatgpt) - ChatGPT for WeChat
-* [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - ChatGPT for Slack
-* [ChatGPT Advanced](https://tools.zmo.ai/webchatgpt) - Add Search Results to ChatGPT / [Discord](https://discord.com/invite/pkZ3wwuT)
-* [ChatGPT4Google](https://chatgpt4google.com/), [SublimeGPT](https://chrome.google.com/webstore/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea) or [GPTGO](https://gptgo.ai/) - Add ChatGPT to Search Results
-* [Andi](https://andisearch.com/) - AI Powered Search
-* [ShareGPT](https://sharegpt.com/) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
-* [ChatGPT Notification](https://github.com/Correia-jpv/ChatGPT-Notification) - Receive Notifications
-* [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear Chats
-* [EditGPT](https://www.editgpt.app/) - Proofread Chats
-* [RepeatGPT](https://repeatgpt.com/) - Schedule Chats
-* [ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Matrix Theme
-* [openai_pipe](https://github.com/Aesthetikx/openai_pipe) - Unix Theme
 
 ***
 
@@ -93,6 +67,36 @@
 * [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
 * [Chub](https://www.chub.ai/) - Characters for LLMs
 
+***
+
+## ▷ ChatGPT  Tools
+
+* ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [2](https://chrome.google.com/webstore/detail/superpower-for-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) or [Merlin](https://merlin.foyer.work/) - Enhancement Extensions
+* ⭐ **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
+* ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
+* ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
+* ⭐ **[AI Playground](https://play.vercel.ai/)** or [ChatHub](https://chathub.gg/) - Compare AI Responses
+* [ChatWebpage](https://chatwebpage.com/) - Turn Webpages into Chatbots
+* [ChatBlade](https://github.com/npiv/chatblade) - ChatGPT CLI
+* [engshell](https://github.com/emcf/engshell) or [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT in TUIs
+* [YakGPT](https://yakgpt.vercel.app/) or [TurboGPT.ai](https://turbogpt.ai/) - ChatGPT Frontends
+* [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [TurboGPT](https://github.com/mikebpech/turbogpt.ai) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
+* [docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT Google Docs Addon
+* [ChatGPTBox](https://github.com/josStorer/chatGPTBox) - ChatGPT Browser Extensions
+* [chatgpt-discord-bot](https://github.com/TuringAI-Team/chatgpt-discord-bot), [CharacterAI](https://github.com/drizzle-mizzle/CharacterAI-Discord-Bot) or [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - ChatGPT for Discord
+* [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) / [2](https://github.com/n3d1117/chatgpt-telegram-bot) / [3](https://github.com/watscho/chat-gpt-telegram-bot) or [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT for Telegram
+* [WeChat ChatGPT](https://github.com/fuergaosi233/wechat-chatgpt) - ChatGPT for WeChat
+* [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - ChatGPT for Slack
+* [ChatGPT Advanced](https://tools.zmo.ai/webchatgpt) - Add Search Results to ChatGPT / [Discord](https://discord.com/invite/pkZ3wwuT)
+* [ChatGPT4Google](https://chatgpt4google.com/), [SublimeGPT](https://chrome.google.com/webstore/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea) or [GPTGO](https://gptgo.ai/) - Add ChatGPT to Search Results
+* [Andi](https://andisearch.com/) - AI Powered Search
+* [ShareGPT](https://sharegpt.com/) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
+* [ChatGPT Notification](https://github.com/Correia-jpv/ChatGPT-Notification) - Receive Notifications
+* [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear Chats
+* [EditGPT](https://www.editgpt.app/) - Proofread Chats
+* [RepeatGPT](https://repeatgpt.com/) - Schedule Chats
+* [ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Matrix Theme
+* [openai_pipe](https://github.com/Aesthetikx/openai_pipe) - Unix Theme
 
 ***
 
