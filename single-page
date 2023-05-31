@@ -1007,7 +1007,7 @@ Software
 ***
 ***
 
-**[Table of Contents](https://ibb.co/WHMc2Hf)** - For mobile users
+**[Table of Contents](https://ibb.co/xzKSGpx)** - For mobile users
 
 ***
 ***
@@ -3667,15 +3667,6 @@ Add the following commands to a search to manually scrape each site.
 #### Tab Managers
 
 [OneTab](https://www.one-tab.com/), [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn), [Tabli](https://www.gettabli.com/), [Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups), [Acid Tabs](https://github.com/jdhayford/acid-tabs-extension), [Tab Stash](https://josh-berry.github.io/tab-stash/), [Tab Butler](https://tabbutler.netlify.app/), [One Tab Group](https://www.onetab.group/)
-
-***
-
-#### TeamDrive Generators
-
-* Note that these can and do get deleted
-* https://td.msgsuite.workers.dev/
-* https://t.me/MSGuite_SD_Creator_Bot + [Telegram Chat](https://t.me/msgsuitechat)
-* https://bdi-generator.hashhackers.com/ (Google Drive Index Code Generator)
 
 ***
 
@@ -12356,7 +12347,7 @@ Use [this](https://wallabag.nixnet.services/) to read the article easily.
 !!!warning Torrenting can get you in trouble with your ISP, so make sure to use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn). Most VPNs offer a killswitch to prevent data leaks, but it's much more effective to  [bind your VPN to your client](https://redd.it/ssy8vv), preventing it from connecting at all unless your VPN is on.
 
 **[qBittorrent](https://www.qbittorrent.org/) / [Transmission](https://transmissionbt.com/) / [Deluge](https://www.deluge-torrent.org/) / [Remote Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** - Torrent clients
-**[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)** - Downloads torrents externally & uploads them to gdrive, avoiding the need for a VPN / [Create Drives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_generators)
+**[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)** - Downloads torrents externally & uploads them to gdrive, avoiding the need for a VPN
 **[1337x](https://1337x.to/) / [RarBG](https://rarbg.to) / [RuTracker](http://rutracker.org)** - Torrent video, audio, games, software & more /  Only download from reputable users on 1337x & RuTracker in the end its still public trackers where anyone can upload
 **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Trusted game repacker
 **[Stremio](https://www.stremio.com/)** - Torrent video streaming app
@@ -12740,6 +12731,7 @@ If you have any suggestions, changes or questions feel free to join us on [Divol
 * [GingaDaddy](https://www.gingadaddy.com/)
 * [NZBFinder](https://nzbfinder.ws/)
 * [NZBKing](http://nzbking.com/)
+* [g4u](https://g4u.to/) - Download Games via Usenet / pw: 404
 * [UsenetArchives](https://usenetarchives.com/) or [OldUSe](https://article.olduse.net/) - Search Usenet Articles
 * [althub](https://althub.co.za) - Unlimited Free Trials
 * [nZEDb](https://github.com/nZEDb/nZEDb) - Self-Hosted
@@ -16194,7 +16186,6 @@ Twitch Stream Tracker
 * ⭐ **[OpenWith](https://www.openwith.org/)**, [OpenMyFiles](https://www.openmyfiles.com/), [OpenFile](https://www.openfile.me/) or [File.org](https://file.org/) - How-to Open Any File Types
 * ⭐ **[SaveLocation](https://savelocation.net/)** - Find Software / Game Save Locations
 * ⭐ **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser
-* ⭐ **[TeamDrive Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_teamdrive_generators)** - Create Google TeamDrives
 * ⭐ **[UDS](https://github.com/stewartmcgown/uds)** - Unlimited Google Drive Storage
 * ⭐ **[PDF Editors / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_pdf_editors_.2F_toolkits)**
 * [downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site Downloaders
