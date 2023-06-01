@@ -434,6 +434,7 @@
 * [Swisscows](https://swisscows.com/)
 * [Metager](https://metager.org/)
 * [YaCy](https://yacy.net/) 
+* [Startpage](https://www.startpage.com/)
 * [SKYN3T](https://skyn3t.in/)
 * [Brave Search](https://search.brave.com/)
 * [Search Encrypt](https://www.searchencrypt.com/)
