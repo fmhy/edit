@@ -363,7 +363,6 @@
 * [KissCartoon.info](https://kisscartoon.info/) - Sub / Dub / Cartoons / 720p
 * [Kawaiifu](https://kawaiifu.com/) - Sub / Dub / 720p
 * [AnimeOnsen](https://animeonsen.xyz/) - Sub / 720p
-* [5Anime](https://5anime.ro/) - Sub / Dub
 * [LMAnime](https://lmanime.com/) - Chinese Anime Sub / 1080p
 * [AnimeXin](https://animexin.vip/) - Chinese Anime Sub / 1080p
 * [MyAnime](https://myanime.live/) - Chine Anime Sub / 1080p
@@ -667,7 +666,7 @@
 * [Toku.fun](https://toku.fun/) - Japanese Superhero Movies / 360p
 * [Jackass Vault](https://discord.gg/ZH5MjcKmJJ) - Jackass Media
 * [General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "video"
-* [Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_persian_video_download) - Movies / TV / Anime / Eng Content / Single Click DL's
+* [Persian Video Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng#wiki_.25B7_downloading15) - Movies / TV / Anime / Eng Content / Single Click DL's
 * [IRC Movie Channels](https://pastebin.com/2AeYizZK)
 * [StreamFab](https://pastebin.com/Kgui74wd) - Premium Streaming Site Video Downloader / [Screenshot](https://i.ibb.co/jVZrKP0/9199d0de02de.png)
 * [Gophie](https://github.com/Go-phie/gophie), [Movie CLI](https://github.com/mov-cli/mov-cli) or [Movies-and-Series-Scraper](https://github.com/yousefkotp/Movies-and-Series-Scraper) - Streaming Site Download CLI
@@ -785,7 +784,6 @@
 
 * ⭐ **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)**
 * ⭐ **[1337x Movies](https://1337x.to/top-100-movies)** - Movies / TV / Anime
-* ⭐ **[RARBG Movies](https://rarbg.to/torrents.php?category=movies)** - Movies / TV / Anime
 * [EZTV](https://eztv.re/) - TV / Anime / Do [NOT](https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) Make Account 
 * [MSearch](https://msearch.vercel.app/) - Movies / TV
 * [WatchSoMuch](https://watchsomuch.com/) - Movies / TV / Anime / [Proxy](https://watchsomuchproxy.com/)
