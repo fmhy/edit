@@ -251,6 +251,7 @@
 * [2Tucc](http://www.2tutu.tv/) - Movies / TV / Anime
 * [Btutv](https://www.btutv.com/) - Movies / TV / Anime
 * [Wowoyya](https://www.wowoyyb.com/) - Movies / TV / Anime
+* [ysgc.vip](https://www.ysgc.vip) - Movies / TV / Anime
 * [555dy](https://555dy1.com/) - Movies / TV / Anime / NSFW
 * [IcDrama](http://icdrama.video/) - Movies / TV
 * [iMeiju](https://www.imeiju.net/) - Movies / TV
