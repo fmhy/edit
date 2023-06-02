@@ -20,7 +20,6 @@
 * [arabseed](https://f1.arabseed.ink/) - Movies / TV
 * [arteenz](https://www.arteenz.com/) - Cartoons / Anime
 * [Shazam Music](https://t.me/shazam_music_uz) - Music / Telegram
-* [music_banktel](https://t.me/music_banktel) - Music / Telegram
 * [NullNoss](https://www.nullnoss.org/) - Courses
 * [Courses4Arab](https://courses4arab.com/) - Programming Courses
 * [ArabicFonts](https://arabicfonts.net/) - Fonts
@@ -31,12 +30,12 @@
 
 ## ▷ Streaming
 
-* ⭐ **[FaselHD](https://www.faselhd.club/)** - Movies / TV / Anime
+* ⭐ **[FaselHD](https://www.faselhd.vip/)** - Movies / TV / Anime
 * ⭐ **[64kLive](https://64k.live/)** - Anime
 * [Cima4U](https://1cima4u.com/) - Movies / TV / Changes Domains Monthly
-* [cimaclub](https://cima-club.cam) - Movies / TV / Anime
-* [moviz-time](https://moviz-time.one/) - Movies / TV / Anime
-* [w.arlionz](https://arlionztv.site/) - Movies / TV
+* [cimaclub](https://cmacb.sbs/) - Movies / TV / Anime
+* [moviz-time](https://moviz-time.click/) - Movies / TV / Anime
+* [w.arlionz](https://arlionztv.site/) - Movies / TV / [Telegram](https://t.me/ArabLionz5)
 * [aflaam](https://aflaam.com/) - Movies / TV
 * [cinemana](https://cinemana.co/main/) - Movies / TV
 * [LODYNET](https://lodynet.link/) - Movies / TV
