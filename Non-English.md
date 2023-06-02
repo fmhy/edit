@@ -1000,6 +1000,8 @@
 * [9movie](https://9movie.monster/) - Movies / TV / Anime / Iranian VPN Needed
 * [alefmovie](https://alefmovie.website/) - Movies / TV / Iranian VPN Needed
 * [ValaMovie](https://valamovie.club/) - Movies / TV
+* [dlrozaneh](https://dlrozaneh.ir/) - Movies
+* [DigiMoviez](https://digimovie.vip/) - Movies / TV
 * [Tikfilmz](https://tikfilmz.ir/) - Movies / TV
 * [GanjDL](http://www.ganjdl.ir/) - Movies / TV
 * [KaranMovie](https://karanmovie.org/) - Movies / TV
