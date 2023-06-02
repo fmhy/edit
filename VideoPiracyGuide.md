@@ -335,6 +335,7 @@
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Media Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * [GoGoAnime](https://gogoanime.cl/), [2](https://gogoanime.llc/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/gogo) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime), [2](https://github.com/sdaqo/anipy-cli) / [Mirrors](https://gogotaku.info/)
 * [AnimehHub](https://animehub.ac/) - Sub / Dub / 1080p [Discord](https://discord.com/invite/4rBPpfkp)
+* [Animixplay](https://animixplay.tube/) - Sub / Dub / 1080p
 * [123Anime](https://123animes.ru/) - Sub / Dub / 1080p
 * [AnimeLon](https://animelon.com/) - Sub / Learn Japanese / 1080p
 * [Kaguya](https://kaguya.app/) - Sub / 1080p / [Discord](https://discord.gg/382BEFfER6)
@@ -356,6 +357,7 @@
 * [Animetake](https://animetake.tv/) - Sub / 1080p
 * [Anime OWL](https://anime-owl.net/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [ChiaAnime](https://chia-anime.su/) - Sub / 1080p
+* [AnimeGo](https://reddit.animekisa.to/) - Sub / Dub / 1080p
 * [ChiaAnime.cc](https://chia-anime.cc/) - Sub / 1080p
 * [BestDubbedAnime](https://bestdubbedanime.com/) - Dub / 1080p / [Discord](https://discord.com/invite/f2pHvauUPu)
 * [DubbedAnime](https://dubbedanime.biz/) - Sub / Dub / 1080p
