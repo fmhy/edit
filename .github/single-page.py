@@ -7,7 +7,7 @@ def output():
     read = glob.glob("*.md")
     content = ""
     for file in read:
-        if file != "single-page.md" and file != "README.md":
+        if file != "README.md":
             with open(file, "r") as f:
                 content += f.read()
     return content
