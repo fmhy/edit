@@ -132,7 +132,6 @@
 * [LiMP](https://git.coom.tech/eternal-coomer/LiMP) - Local Booru
 * [Luakit](https://luakit.github.io/) - Lightweight Linux Browser 
 * [browsh](https://www.brow.sh/) - Text based Browser
-* [Librewolf Linux](https://librewolf-community.gitlab.io/)/ [2](https://aur.archlinux.org/packages/firedragon) / [3](https://forum.garudalinux.org/t/firedragon-librewolf-fork/5018) or [Dot Browser](https://github.com/dothq/browser) - Privacy-Based Browser
 * [Thorium](https://thorium.rocks/) - Chromium-Based Browser / [GitHub](https://github.com/Alex313031/Thorium)
 * [htop](https://htop.dev/) - Interactive Process Viewer / [GitHub](https://github.com/htop-dev/htop)
 * [ProDash](https://github.com/Byron/prodash) - Process Reporting
@@ -293,6 +292,7 @@
 
 * ⭐ **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** or [SShuttle](https://github.com/sshuttle/sshuttle) - Proxies
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) or [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) - Linux Privacy Guide
+* ⭐ **[Librewolf Linux](https://librewolf.net/)**/ [2](https://aur.archlinux.org/packages/firedragon) / [3](https://forum.garudalinux.org/t/firedragon-librewolf-fork/5018) or [Dot Browser](https://github.com/dothq/browser) - Privacy-Based Browser
 * [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
 * [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
 * [Twilio Authy](https://snapcraft.io/authy) - Linux Two-Factor Authentication
