@@ -21,12 +21,15 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Run script
-        run: python .github/single-page.py
-        
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@4.1.5
-        with:
-          branch: main
-          folder: .
-          commit-message: "♻️ update single page"
+      - name: Configure Git
+        run: |
+          git config user.name "taskylizard"
+          git config user.email "75871323+taskylizard@users.noreply.github.com"
+
+      - name: Update
+        shell: bash
+        run: |
+          python .github/single-page.py
+          git add .
+          git commit -m '♻️ update single page'
+          git push
