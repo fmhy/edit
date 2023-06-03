@@ -8,7 +8,7 @@ def output():
     content = ""
     nsfw_content = ""
     for file in read:
-        if file != "single-page.md" and file != "README.md":
+        if file != "README.md":
             with open(file, "r") as f:
                 if "nsfw" in file.lower():
                     nsfw_content += f.read()
