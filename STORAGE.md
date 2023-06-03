@@ -2562,7 +2562,9 @@ Add the following commands to a search to manually scrape each site.
 
 #### Steam Workshop Downloaders
 
-[SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2), [Steamworkshop.download](http://steamworkshop.download/), [steam-workshop-downloader.com](https://steam-workshop-downloader.com/), [steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader), [ggntw](https://ggntw.com/steam), [Workshop Downloader](https://4hub.app/workshop-downloader/), [steamworkshopdownloader.ru](https://steamworkshopdownloader.ru/), [NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) / [Disocrd](https://discord.com/invite/bs9TMxMJk9), [steam-workshop-downloader](https://gramvio.com/steam-workshop-downloader/), [Workshop Script](https://greasyfork.org/en/scripts/449046)
+* ⭐ **[ggntw](https://ggntw.com/steam)**
+
+[SCMD](https://github.com/BerdyAlexei/SCMD-Workshop-Downloader-2), [Steamworkshop.download](http://steamworkshop.download/), [steam-workshop-downloader.com](https://steam-workshop-downloader.com/), [steamworkshopdownloader](https://github.com/shadoxxhd/steamworkshopdownloader), [Workshop Downloader](https://4hub.app/workshop-downloader/), [steamworkshopdownloader.ru](https://steamworkshopdownloader.ru/), [NetherWorkshopDownloader](https://github.com/NethercraftMC5608/NetherWorkshopDownloader) / [Disocrd](https://discord.com/invite/bs9TMxMJk9), [steam-workshop-downloader](https://gramvio.com/steam-workshop-downloader/), [Workshop Script](https://greasyfork.org/en/scripts/449046)
 
 ***
 
