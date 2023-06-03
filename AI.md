@@ -12,7 +12,7 @@
 # ► AI Chatbots
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot / [Discord](https://discord.com/invite/openai)
-* ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Dev Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ) / [GPT-4 Note](https://pastebin.com/JJMVmUCN)
+* ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Dev Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ) / [GPT-4 Limit](https://ibb.co/jkRHCrF)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai)
 * ⭐ **[BAI](https://chatbot.theb.ai/)** - GPT-3.5 Based Chatbot
 * ⭐ **[Ora](https://ora.sh/openai/chatgpt)** - GPT-3.5 Based Chatbots
