@@ -1273,10 +1273,9 @@
 * [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - Discord Emoji Downloaders
 * [Snowsgiving Icons & Emotes](https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - Snowsgiving Event Icons & Emojis
 * [6gk Turtles](https://github.com/6gk/turtles) - Discord Turtle Emojis
-* [DiscordFreeStickers](https://github.com/An00nymushun/DiscordFreeStickers), [Stickers.gg](https://stickers.gg) or [FreeCommunityStickers](https://github.com/discord-stickers/FreeCommunityStickers)  - Free Discord Stickers 
-* [Discord Sticker Viewer](https://sticker-view.vercel.app/) - View Discord Stickers
+* [DiscordFreeStickers](https://github.com/An00nymushun/DiscordFreeStickers) or [Stickers.gg](https://stickers.gg) - Free Discord Stickers
 * [Discord Downloader Go](https://github.com/get-got/discord-downloader-go) - Discord File Downloaders
-* [Discord Image Downloader Go](https://github.com/Seklfreak/discord-image-downloader-go) or [Discord-Image-Scraper](https://github.com/17teen/Discord-Image-Scraper) - Discord Image Downloaders
+* [Discord-Image-Scraper](https://github.com/17teen/Discord-Image-Scraper) - Discord Image Downloaders
 * [Tiktok-Auto-Embed](https://github.com/dumax315/Tiktok-Auto-Embed) - Discord TikTok Embed Downloader
 * [InstaFix](https://ddinstagram.com/) - Fix Instagram Embeds
 * [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - Discord Message Encryption
@@ -1286,7 +1285,7 @@
 * [DeepL](https://github.com/aisuzuki/dd-bot) - Discord Chat Auto Translator
 * [FixTweet](https://github.com/FixTweet/FixTweet) or [discord-twitter-bot](https://github.com/NNTin/discord-twitter-bot) - Fix Discord Twitter Embeds
 * [PreMiD](https://premid.app/) - Display internet activity in Discord status / [Github](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.gg/WvfVZ8T)
-* [Alternatives to MEE6](https://alternativestomee6.com/) - [Discord](https://discord.gg/WrbMdWHfNd) 
+* [Alternatives to MEE6](https://alternativestomee6.com/) - [Discord](https://discord.gg/WrbMdWHfNd)
 * [Divider Generator](https://jsfiddle.net/Davri/wf49xnob/159/) - Create Discord Role Dividers Discord Role
 * [chatgpt-discord-bot](https://github.com/TuringAI-Team/chatgpt-discord-bot), [ChatGPTDiscord](https://github.com/ausbitbank/ChatGPTDiscord), [CharacterAI](https://github.com/drizzle-mizzle/CharacterAI-Discord-Bot) or [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - ChatGPT for Discord
 * [MonitoRSS](https://monitorss.xyz/), [2](https://github.com/synzen/MonitoRSS-Clone) - RSS Discord Bot
@@ -1305,7 +1304,6 @@
 * [Discord RPC Index](https://github.com/topics/discord-rich-presence) - Discord Rich Presence Index
 * [Custom Discord RPC](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_custom_rich_discord_presence) - Customize Discord Rich Presence 
 * [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - Discord Rich Presence Manager
-* [RPC PC Status](https://github.com/Faelayis/RPC-Pc-Status) - PC Status Rich Presence
 * [FetchCord](https://github.com/fetchcord/FetchCord) - OS Discord Rich Presence
 * [RichPresence for Discord](https://chrome.google.com/webstore/detail/richpresence-for-discord/glpejjlbjjegcemceejaipihnhjkaddf) - Chrome Discord Rich Presence
 * [PlayStationDiscord](https://tustin.dev/PlayStationDiscord/) - PlayStation Discord Rich Presence
