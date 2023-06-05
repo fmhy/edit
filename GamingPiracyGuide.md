@@ -20,7 +20,7 @@
 * ⭐ **[GamesDrive](https://gamesdrive.net/)** - Download / [Discord](https://discord.gg/wXdNEhf73x) / [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Torrent / [Discord](https://discord.gg/hj8dU5BFHE) / pw: 1234
 * ⭐ **[CrackHub](https://crackhub.site/)** - Download / [Divolt](https://divolt.xyz/invite/82nEH5Sp) / [RSS](https://scene.crackhub.site/category/iso/feed/)
-* ⭐ **[GOG Games](https://gog-games.to/)** or [FreeGOG](https://freegogpcgames.com/) - Download / Torrent / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
+* ⭐ **[GOG Games](https://gog-games.to/)** or [FreeGOGPCGames](https://freegogpcgames.com/) - Download / Torrent / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[VRPirates](https://t.me/vrpirates)** / [Wiki](https://wiki.vrpirates.club/), [ARMGDDN](https://t.me/ARMGDDNGames), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
 * ⭐ **[Game Download CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_download_cse)** / **[Game Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:pobnsujblyx)** - Multi-Site Search Engines
 * ⭐ **[/r/PiratedGames Mega](https://rentry.org/pgames-mega-thread)** / [2](https://www.reddit.com/r/PiratedGames/wiki/megathread/) or [CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461) - Game Piracy Megathreads / [Discord](https://discord.gg/dZWwhUy)
@@ -244,12 +244,10 @@
 * [All N64 ROMs](https://alln64roms.blogspot.com/) - ROMs / N64
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [3DS ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - ROMs / 3DS
-* [merwanachibet](http://merwanachibet.net/gameboy-roms.html) - ROMs / Gameboy
 * [NoPayStation](https://nopaystation.com/) or [SafeROMs](https://www.saferoms.com/) - ROMs / Playstation Consoles
 * [PKGPS4](https://www.pkgps4.click/), [Game-2U](https://game-2u.com/Category/game/ps4) or [Auctor](https://auctor.tv/) - ROMs / PS4
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
 * [Xbox Fan](https://github.com/nbats/FMHYedit/blob/main/base64.md#xbox-fan) - Xbox 360 ROMs / LT Firmware & FREEBOOT / [Telegram](https://t.me/xbox_fan_games)
-* [Forest of Illusion](https://forestillusion.com/) - Nintendo Prototype ROMs
 * [RomHacking](https://www.romhacking.net/) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Translations and Hacks
 * [Marios Alternative](https://github.com/nbats/FMHYedit/blob/main/base64.md#hacked-super-mario) - Hacked Super Mario ROMs
 * [SMWCentral](https://smwcentral.net/) - Hacked Super Mario World ROMs
@@ -598,6 +596,7 @@
 * [Poker Now](https://www.pokernow.club/), [LiPoker](https://lipoker.io/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
 * [KDice](https://www.kdice.com/) - Multiplayer Dice War
 * [Curlie Yahtzee](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Dice/Yahtzee) - Yahtzee Sites Collection
+* [Colonist](https://colonist.io/) - Multiplayer "Settlers of Catan" 
 * [Hexxagon](https://hexxagon.com/) - Hexagonal Board Game
 * [The Bafflement Fires](http://www.dpoetry.com/fires/) - 1950's Freemasonic Board Game
 * [Awesome Go/Baduk/Weiqi](https://github.com/yanchick/awesome-GoBadukWeiqi) - Go/Baduk/Weiqi Resource Index 
@@ -658,6 +657,7 @@
 * [Game about Squares](http://gameaboutsquares.com/) - Puzzle Game
 * [Orion](https://orion.lukasbach.com/) - Puzzle Game
 * [Euclidea](https://www.euclidea.xyz/) - Geometric Puzzles
+[Pixel Puzzler](https://pixel-puzzler.playcurious.games/) - Block Puzzle
 * [Menneske](https://www.menneske.no/eng/) - Number Puzzles
 * [Emozle](https://emozle.com/) - Emoji Puzzle
 * [Sudoku XV](https://keeri.place/sudoku-xv) - Sudoku
@@ -706,9 +706,10 @@
 * [20Q](http://www.20q.net/), [Guessdle](https://www.guessdle.com/) or [Akinator](https://en.akinator.com/) - 20 Questions
 * [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
+* [GeoArtwork](https://artsandculture.google.com/experiment/geo-artwork/wgEPVBAUiRVlEQ) - Guess Origins of Cultural Artifacts 
 * [GuessMe!](https://zetoman77.itch.io/guessme) - Guess Answers
 * [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
-* [WTM](https://whatthemovie.com/), [RT Daily](https://www.rottentomatoes.com/daily/) or [Emovi](https://emovi.teuteuf.fr/) - Movie Guessing Games
+* [WTM](https://whatthemovie.com/), [RT Daily](https://www.rottentomatoes.com/daily/), [Framed](https://framed.wtf/) or [Emovi](https://emovi.teuteuf.fr/) - Movie Guessing Games
 * [Heardle](https://www.heardle.app/) or [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - Song Guessing Games
 * [DanceMusic](http://dancemusic.wtf/) - Electronic Music Genre Guessing Game
 * [LanguageGuesser](https://languageguesser.com/) - Guess Music Video Languages 
@@ -750,7 +751,6 @@
 * ⭐ **[CTGP Revolution](https://www.chadsoft.co.uk/)** or [Wiiki Tockdom](http://wiki.tockdom.com/) - Mario Kart Wii Custom Tracks / Multiplayer
 * [Darthsternie](https://darthsternie.net/) - Console Firmware / Exploits Archive
 * [Switch Homebrew Discord Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_homebrew_discord_servers)
-* [Homebrew Gang](https://thehbg.shop/main.html) - Switch Homebrew Community
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/), [/r/SwitchHaxing](https://reddit.com/r/SwitchHaxing) or [/r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
 * [Switch Guide](https://nh-server.github.io/switch-guide/), [Switch Hacking Is Easy](https://rentry.org/SwitchHackingIsEasy) or [Switch.Homebrew](https://switch.homebrew.guide/) - Switch Homebrew Guide
 * [Tinfoil](https://tinfoil.io/) - Switch Title Manager / File Browser
@@ -810,7 +810,6 @@
 * [RetroArch Xbox Retail Mode](https://youtu.be/dV9GyKicrAg) - RetroArch Xbox Retail Mode Guide
 * [NASOS](https://download.digiex.net/Consoles/GameCube/Apps/NASOSbeta1.rar) - Gamecube iso.dec to ISO Converter
 * [WBFStoISO](http://www.wbfstoiso.com/) - WBFS to ISO 
-* [CHDMAN](https://archive.org/details/chdman) - Convert File to CHD Converter / [Frontend](https://github.com/umageddon/namDHC)
 * [hakchi2 CE](https://github.com/TeamShinkansen/Hakchi2-CE) - Add More Roms to NES/SNES Classic Mini
 * [emuiibo](https://github.com/XorTroll/emuiibo) - Amiibo Emulator
 * [All Amiibo Bin Files](https://redd.it/mlvfak) - Amiibo Bin Files
@@ -996,7 +995,6 @@
 * [Assist](https://github.com/HeyM1ke/Assist) - Valorant Launcher
 * [Half Life Project Beta](https://hl2-beta.ru/) - Unreleased / Cut Half-Life Content
 * [GmodContent](https://gmodcontent.com/) - Garry's Mod Content Packs
-* [GMOD Textures Fix](https://fragboss.com/gmod-textures-fix-css-textures/) - Fix Garry's Mod Textures
 * [EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore) - Elden Ring Fixes
 * [Peter Jackson's King Kong Fix](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix) - Peter Jackson's King Kong Signature Edition Fix
 * [Textractor](https://github.com/Artikash/Textractor) - Extract Text from Games / Visual Novels
