@@ -237,11 +237,12 @@
 * [MAPS.ME](https://maps.me/) / [GitHub](https://github.com/mapsme/omim) or [OsmAnd](https://osmand.net/) - Offline Maps
 * [EVMap](https://github.com/ev-map/EVMap) - Electronic Vehicle Charging Map
 * [EVNotify](https://evnotify.com/) - Electric Vehicle Monitor / Notifications
+* [Water-Map](https://water-map.org/) - Public Drinking Fountain Map
 * [LavSeeker](https://github.com/woheller69/lavatories) - Public Toilet Map
 * [Transportr](https://transportr.app/) - Public Transport Assistant
 * [AntennaSearch](http://www.antennasearch.com/) - Cell Tower / Antenna Search
 * [Fuel.io](https://fuel.io/) - Vehicle Fuel Tracking
-* [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron) or [BatteryGuru](https://github.com/nbats/FMHYedit/blob/main/base64.md#battery-guru) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Monitors
+* [Electron](https://play.google.com/store/apps/details?id=com.mahersafadi.electron), [SaverTuner](https://codeberg.org/s1m/savertuner) [BatteryGuru](https://github.com/nbats/FMHYedit/blob/main/base64.md#battery-guru) or [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) - Battery Monitors / Managers
 * [BatteryChargeLimiter](https://github.com/MuntashirAkon/BatteryChargeLimiter) - Charging Control
 * [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - Save Battery by Turning Off Pixels
 * [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro), [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) or [SysLog](https://github.com/Tortel/SysLog) - View System Information
@@ -315,7 +316,8 @@
 * [Clipboarded](https://github.com/TrianguloY/SimpleClipboardEditor), [Clipboard CopyPaste](http://www.evvasoft.com/ccp.html) or [Clipboard History](https://play.google.com/store/apps/details?id=com.rubbishcollector.clipboardhistory) - Clipboard Managers
 * [PINCredible](https://github.com/cyb3rko/pincredible) - PIN Manager
 * [Loyalty Card Locker](https://github.com/brarcher/loyalty-card-locker) or [Catima](https://catima.app/) - Loyalty Card Managers
-* [Grammarly](https://github.com/nbats/FMHYedit/blob/main/base64.md#grammarly-keyboard-premium) - Grammarly Keyboard Premium 
+* [CleverType](https://www.clevertype.co/) - Keyboard with GPT Integration
+* [Grammarly](https://github.com/nbats/FMHYedit/blob/main/base64.md#grammarly-keyboard-premium) - Grammarly Keyboard Premium
 * [WiFiman](https://play.google.com/store/apps/details?id=com.ubnt.usurvey), [WiFiAnalyzer](https://vremsoftwaredevelopment.github.io/WiFiAnalyzer/) or [WLANScanner](https://github.com/bewue/WLANScanner) - Network Scanners
 * [Fing](https://www.fing.com/products/fing-app) - Network Toolkit
 * [MACsposed](https://github.com/DavidBerdik/MACsposed) - Mac Address Spoofing
@@ -457,7 +459,7 @@
 * [DeDuplicate](https://deduplicate.app/) - Duplicate File Remover
 * [ZeeArchiver-Android](https://github.com/mahmoudgalal/ZeeArchiver-Android) - Unzip / Compress Files
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - Download / Torrent Manager 
-* [Vysor](https://www.vysor.io/), [scrcpy](https://github.com/Genymobile/scrcpy), [WebADB](https://app.webadb.com/) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/), [2](https://github.com/Tomotoes/scrcpy-gui)
+* [Vysor](https://www.vysor.io/), [PlainApp](https://github.com/ismartcoding/plain-app), [scrcpy](https://github.com/Genymobile/scrcpy), [WebADB](https://app.webadb.com/) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/), [2](https://github.com/Tomotoes/scrcpy-gui)
 * [AVNC](https://github.com/gujjwal00/avnc) - Remote Desktop Client for Android
 * [Wake on Lan](https://play.google.com/store/apps/details?id=de.florianisme.wakeonlan) - Control Devices via Wake on Lan
 * [BlueLight Filter](https://play.google.com/store/apps/details?id=jp.ne.hardyinfinity.bluelightfilter.free) - Screen Bluelight Filter
@@ -702,6 +704,7 @@
 * [Voleq](https://play.google.com/store/apps/details?id=com.veryclevernamecompany.voleq) - Volume Equalizer
 * [audio-analyzer](https://github.com/woheller69/audio-analyzer-for-android) - Audio Spectrum Analyzer
 * [Black Screen](https://play.google.com/store/apps/details?id=io.japp.blackscreen) - Turn Off Display While Audio is Playing
+* [Flip DND](https://play.google.com/store/apps/details?id=com.urbandroid.dnd) - Flip to Activate Do Not Disturb Mode
 * [Audify](https://play.google.com/store/apps/details?id=in.codeseed.audify) - Reduce Notification Distractions
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - Identify Playing Songs
 * [skipTrackLongPressVolume](https://github.com/Cilenco/skipTrackLongPressVolume) or [Volumee](https://maslanka.app/volumee/) - Volume Button Track Control
@@ -727,6 +730,7 @@
 * [Transistor](https://codeberg.org/y20k/transistor) - Radio
 * [DisasterRadio](https://f-droid.org/en/packages/tk.giesecke.disaster_radio/) - Radio
 * [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp) - Radio
+* [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app) - Radio
 * [SpiritF](https://www.apkmirror.com/apk/xiaomi-inc/miui-fm-radio/miui-fm-radio-1-0-478-release/) or [Next Radio](https://play.google.com/store/apps/details?id=com.nextradioapp.nextradio) - FM Radio
 * [DI.FM](https://play.google.com/store/apps/details?id=com.audioaddict.di) - Electronic Radio
 * [LISTEN.moe](https://play.google.com/store/apps/details?id=me.echeung.moemoekyun) - K-Pop Radio
@@ -760,7 +764,7 @@
 * ⭐ **[YouTube Android Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_android_apps)** - Ad-Free YouTube on Android
 * ⭐ **[LibreTube](https://github.com/libre-tube/libretube)** or [Hyperion](https://github.com/zt64/Hyperion) - Youtube Frontend
 * ⭐ **[BubblesUPNP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp&gl=US)**, [DMS](https://github.com/anacrolix/dms), [Macast](https://github.com/xfangfang/Macast) or [Cinema Box](https://www.cinema-box.co.uk/) - Media Servers / Chromecast
-* ⭐ **[Just Player](https://github.com/moneytoo/Player)**, [VLC](https://www.videolan.org/vlc/download-android.html), [mpv-android](https://github.com/mpv-android/mpv-android), [YetAnotherVideoPlayer](https://github.com/shadow578/YetAnotherVideoPlayer), [Nova Video Player](https://github.com/nova-video-player), [Fermata Media Player](https://github.com/AndreyPavlenko/Fermata), [ExoPlayer](https://github.com/google/ExoPlayer), [Aos AVP](https://github.com/nova-video-player/aos-AVP), [SPlayer](https://splayer.dev/) or [MX Player](https://github.com/nbats/FMHYedit/blob/main/base64.md#mx-player) / [Codec](https://github.com/USBhost/MX_FFmpeg) - Video Players
+* ⭐ **[Android Video Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_video_players)**
 * ⭐ **[Android Smart TV Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_smart_tv_.2F_firestick)** - Smart TV / Firestick Apps
 * ⭐ **[Trakt](https://play.google.com/store/apps/details?id=tv.trakt.trakt)**, [Showly 2.0](https://github.com/1RandomDev/showly-oss), [Cinexplore](https://fidloo.com/cinexplore/) or [SeriesGuide](https://seriesgui.de/) - Movie / TV Tracker
 * [PopcornTime](http://popcorn-time.ga/) / [2](https://github.com/popcorn-official/popcorn-android) - Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
@@ -1095,7 +1099,7 @@
 
 # ► iOS Audio
 
-* ⭐ **[Spotify++](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotify)**, **[Spotilife](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotilifee)**, [Tweaked Spotify](https://github.com/nbats/FMHYedit/blob/main/base64.md#tweaked-spotify) or [Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580) - Streaming / [Listening Stats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392)
+* ⭐ **[Spotify++](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotify)**, **[SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus)**, [Spotilife](https://github.com/nbats/FMHYedit/blob/main/base64.md#spotilifee), [Tweaked Spotify](https://github.com/nbats/FMHYedit/blob/main/base64.md#tweaked-spotify) or [Spotify](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580) - Streaming / [Listening Stats](https://apps.apple.com/us/app/spotistats-for-spotify/id1526912392)
 * ⭐ **[YT Tweaked](https://github.com/nbats/FMHYedit/blob/main/base64.md#yt-tweaked-ipas)**, [YTMusilife](https://github.com/nbats/FMHYedit/blob/main/base64.md#ytmusilife) / [2](https://repo.hackyouriphone.org/ytmusilife) or [YTMusicUltimate](https://github.com/ginsudev/YTMusicUltimate) - Streaming
 * [DeezeLife](https://github.com/nbats/FMHYedit/blob/main/base64.md#deezelife) / [2](https://repo.hackyouriphone.org/deezelife) or [Deezer](https://apps.apple.com/app/deezer/id292738169) - Streaming
 * [Trebel](https://home.trebel.io/) - Streaming
