@@ -1258,21 +1258,17 @@
 * [Quarrel](https://github.com/UWPCommunity/Quarrel) - Universal Windows Platform Discord Client
 * [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) or [WebCord](https://github.com/SpacingBat3/WebCord) - Discord Web Client / [Discord](https://discord.gg/Vm4CwZx)
 * [discord-PWA](https://github.com/NeverDecaf/discord-PWA) - Discord PWA Client
-* [Discord Tauri](https://github.com/DiscordTauri/discord-tauri) - Lightweight Discord Wrapper
 * [OpenAsar](https://openasar.dev/) - Improved app.asar / [GitHub](https://github.com/GooseMod/OpenAsar)
 * [weechat-discord](https://github.com/terminal-discord/weechat-discord) - WeeChat Discord Plugin
 * [litecord](https://gitlab.com/litecord/litecord) - Reimplementation of Discord's Backend / [Clients](https://gitlab.com/litecord/litecord/-/blob/master/docs/clients.md)
 * [Discord-Sandbox](https://github.com/khlam/discord-sandboxed) - Sandbox Discord Client
 * [Overlayed](https://overlayed.dev/) - Alternate Discord Overlay / [Github](https://github.com/Hacksore/overlayed)
-* [crocodile](https://github.com/tbodt/crocodile) - Discord Client for TempleOS
 * [GTKCord4](https://github.com/diamondburned/gtkcord4) - GTK4 Discord Client
-* [displunger](https://gitlab.com/derpystuff/displunger) - Run Old Versions of Discord
-* [DevilNo](https://docs.google.com/spreadsheets/d/1hsSigFjyTaTnvB5XS6ot-msCZS5DR4VWtiD5g1ebH8c/edit?usp=sharing) - Alternative DevilBro Plugins
 * [Acrylic](https://github.com/uwu/Acrylic) - Glass Theme
 * [WinClassic](https://github.com/SlippingGittys-Discord-Themes/WinClassic) - Classic Windows Theme
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
 * [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) or [ImageClipboard](https://imageclipboard.com/) - Free Discord Nitro Emojis
-* [Slackmoji](https://github.com/seanprashad/slackmoji), [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis), [NitroEmoji](https://github.com/D3JF/NitroEmoji) or [emoji.gg](https://emoji.gg/) - Discord Emojis
+* [Slackmoji](https://github.com/seanprashad/slackmoji), [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis), [emoji.gg](https://emoji.gg/) - Discord Emojis
 * [Emote Manager](https://github.com/joyn-gg/EmoteManager) - Custom Discord Emoji Manager 
 * [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - Discord Emoji Downloaders
 * [Snowsgiving Icons & Emotes](https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - Snowsgiving Event Icons & Emojis
