@@ -103,7 +103,6 @@
 * [MagnetDL](https://www.magnetdl.com/), [2]( https://www.magnetdl.org/) - Video / Audio / Games / Software / Books / [Onion](http://r5cena7erxpnxomyvoybuxh6fkgs55qqdg7bobf6yjx4j6vmywrqvlid.onion/)
 * [YggTorrent](https://ww3.yggtorrent.si/) - Video / Audio / Roms / Software / Books / Android / Comics
 * [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Software / Games / Books
-* [YourBittorrent](https://yourbittorrent.com/), [2](https://yourbittorrent2.com/) - Video / Audio / Software / Games / Books / NSFW
 * [IsoHunt](https://isohunts.to/) or [IsoHunt.nz](https://isohunt.nz/) - Video / Audio / Games / Software / Books
 * [ExT](https://ext.to/), [2](https://site.extto.com/) - Video / Audio / Games / Software / Books
 * [rutor.info](http://rutor.info) or [rutor.is](http://rutor.is/) - Video / Audio / Games / Software / Books / Roms / Magazines
@@ -146,14 +145,13 @@
 * [CloudTorrents](https://cloudtorrents.com/)
 * [TNTBack](https://tntback.github.io/)
 * [BTMET](https://btmet.com/)
-* [FreshMeat](https://freshmeat.io/)
 * [BT4G](https://bt4g.org/), [2](https://bt4gprx.com/)
 * [BitCQ](https://bitcq.com/)
 * [Torlock](https://www.torlock.com/), [2](https://www.torlock2.com/)
 * [ExtraTorrent](https://extratorrent.unblockit.kim/)
 * [Torrent Download](http://www.torentdownloads.narod.ru/)
 * [Torrenteer](http://torrenteer.ddns.net/)
-* [TorrentFunk](https://www.torrentfunk.com/), [2](https://www.torrentfunk2.com/)
+* [TorrentFunk](https://www.torrentfunk.com/)
 * [TorrentProject2](https://torrentproject2.com/), [2](https://torrentproject2.net/)
 * [ciligou0](http://ciligou0.com/)
 * [TorrentDB](https://torrentdb.li/)
