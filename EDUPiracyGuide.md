@@ -180,7 +180,6 @@
 * [Course Code Drive](https://ddpanda.net/code/) - Courses
 * [FreetutsDownload.com](https://freetutsdownload.com/) - Courses / GDrive Host
 * [iTunes U](https://github.com/nbats/FMHYedit/blob/main/base64.md#itunesu-lectures) - Lectures
-* [Gurukul Soft Technology](https://www.gurukulsofttechnology.in/) / [Telegram](https://t.me/gurukulsofttechnology) - Computer Science Courses
 * [ScalerFullStack](https://t.me/scalerfullstack), [ScalerNerds](https://t.me/scalerds) or [scalerfullstackproductmanagement](https://t.me/scalerfullstackproductmanagement) - Scaler Courses
 * [BestWSODownload](https://www.bestwsodownload.com/) - WSO Courses
 * [Udemy Course Megadrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#udemy-course-drives)
@@ -556,7 +555,7 @@ Simulator
 * [Clear Dark Sky](https://cleardarksky.com/) - Star Gazing Weather Forecasts
 * [Dark Site Finder](https://darksitefinder.com/), [DarkSkyMap](https://darkskymap.com/) or [GoStarGazing](https://gostargazing.co.uk/) - Star Gazing Site Locators
 * [DeepSkyCamera](https://play.google.com/store/apps/details?id=de.seebi.deepskycamera&gl=US) - Astrophotography App
-* [SpaceEngine](https://spaceengine.org/) or [Celestia](https://celestia.space/) - Universe Simulators
+* [SpaceEngine](https://spaceengine.org/) - Universe Simulator
 * [The Scale of the Universe](https://www.htwins.net/) - Universe Scale Simulator
 * [astro.sfasu](http://astro.sfasu.edu/courses/ast305/homework/) - Astronomy Homework
 * [CDS](https://cds.u-strasbg.fr/) - Astronomical Database
@@ -792,6 +791,8 @@ Simulator
 * [FAChords](https://www.fachords.com/) - Guitar
 * [Guitarsix](https://guitarsix.com/) - Guitar
 * [Finger Style](https://finger-style.ru/category/lessons) - Guitar
+* [Guitar Fretboard](https://muted.io/guitar-fretboard/) - Virtual Fretboard
+* [Chordi](https://chordi.co/) -Chord Progression Generator
 * [Chorder](https://www.chorder.com/guitar-chords/) - C Major Guitar Chord
 * [coop3rdrumm3r](https://www.drumeo.com/coop3rdrumm3r/) - Drums
 * [FreeDrumLessons](https://www.youtube.com/c/freedrumlessons) - Drums
@@ -975,6 +976,7 @@ Simulator
 * [NandGame](https://nandgame.com/) - Computer Building Puzzle
 * [Kialo](https://www.kialo.com/) or [Level Point](https://levelpoint.app/) - Debates / Discussion
 * [Tabby Cat](https://github.com/TabbycatDebate/tabbycat) - Debate Tournament Tabulation Software
+* [Brainkit](https://www.braink.it/) - Learn Helpful Principles
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
 * [Debunking Skeptics](https://www.debunkingskeptics.com/) - Pseudo-Skeptical Fallacies
 * [YourBiasIs](https://yourbias.is/) - Learn about Biases
@@ -1011,7 +1013,6 @@ Simulator
 * [Lecture Links for Placement Preparation in Computer Science](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
 * [Reddit-wiki-programming](https://github.com/antariksh17/Reddit-wiki-programming) or [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - Computer Science Learning Resources
 * [CompSciLib](https://www.compscilib.com/) - Computer Science Tools
-* [iTabCode](https://www.itabcode.net/) - Programming / Computer Science Forum
 * [Niche](https://www.niche.com/), [TheUniGuide](https://www.theuniguide.co.uk/) or [Top Universities](https://www.topuniversities.com/) - University / School Comparisons
 * [BachelorStudies](https://bachelorstudies.com/) - Bachelor Degree Search
 * [College Map](https://nces.ed.gov/ipeds/collegemap/) - College Information Map
