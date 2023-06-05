@@ -8,7 +8,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 * ⭐ **[PornDude](https://theporndude.com/)** / [More Sites](https://theporndude.com/hall-of-fame)
 * ⭐ **[Reddit Doesn't Like This Site](https://www.reddit-doesnt-like-this.site/)**
-* ⭐ **[NSFW Subreddits](http://redditlist.com/nsfw)**, [2](https://www.reddit.com/r/NSFW411/wiki/index), [3](https://bin.disroot.org/?81af22c09e92865d#FYLXmjaKbaojaELwAv1szcfy7rahuA77ntnFu2HBEBGf), [4](https://redd.it/brypgf), [5](https://theporndude.com/best-nsfw-reddit-sites), [6](http://electronsoup.net/nsfw_subreddits/) / [Reverse Search](https://www.rarchives.com/)
+* ⭐ **[NSFW Subreddits](https://www.reddit.com/r/NSFW411/wiki/index)**, [2](http://electronsoup.net/nsfw_subreddits/), [3](https://bin.disroot.org/?81af22c09e92865d#FYLXmjaKbaojaELwAv1szcfy7rahuA77ntnFu2HBEBGf), [4](https://redd.it/brypgf), [5](https://theporndude.com/best-nsfw-reddit-sites) / [Reverse Search](https://www.rarchives.com/)
 * [Full Length Porn CSE](https://cse.google.com/cse?cx=6c02fb377e50d493c)
 * [One Porn List](https://onepornlist.com/)
 * [BigPornList](http://bigpornlist.net/)
@@ -61,7 +61,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [streamporn](https://streamporn.pw/)
 * [PornAMinute](https://porninaminute.org/)
 * [Mov18Plus](https://mov18plus.com/) 
-* [LustFlix](https://lustflix.in/)
 * [suj](https://suj.nu/)
 * [tubegalore](https://www.tubegalore.com/)
 * [thesextube](https://thesextube.net/)
@@ -88,7 +87,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Rec Tube](https://rec-tube.com/)
 * [Lustoholic](https://lustholic.com/) 
 * [PornHoarder](https://pornhoarder.tv/)
-* [PornEZ](https://pornez.net/) 
 * [trendyporn](https://www.trendyporn.com/)
 * [xxxPornxxx](https://xxxpornxxx.net/)
 * [veporno](https://www.veporno.net/)
@@ -272,7 +270,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [worldmags](https://worldmags.net/adult/) 
 * [PDF Dude](https://pdfdude.com/category/adult/)
 * [Mags Guru](https://www.mags.guru/c/adult/)
-* [ebook3000](http://www.ebook3000.com/Magazine/For-Men/index.html) 
 * [adultload](https://adultload.ws/category/magazines/) 
 * [classic-porn](http://classic-porn.cc/) 
 * [v9k9 Mags](https://redd.it/ouuakm) - Japanese Magazines
