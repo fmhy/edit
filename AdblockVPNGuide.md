@@ -136,7 +136,6 @@
 * [Penteract Disguised](https://apps.microsoft.com/store/detail/penteract-disguisedkeyboard-detector-2/9P7FV5575G0C?hl=en-in&gl=IN) - Prevent Automatic Keyboard Attacks
 * [Phish.ly](https://phish.ly/) - Scan Suspicious Emails
 * [testsafebrowsing](https://testsafebrowsing.appspot.com/) - Safe Browsing Testing Links 
-* [Standaloneinstaller](https://standaloneinstaller.com/) - Check Software Safety
 * [Dangerzone](https://dangerzone.rocks/) - Convert dangerous PDF to safe PDF
 * [CVE Details](https://www.cvedetails.com/) - CVE Details
 * [Web Of Trust](https://www.mywot.com/), [ZScaler](https://zulu.zscaler.com/), [Talos](https://talosintelligence.com/), [Trend Micro](https://global.sitesafety.trendmicro.com/) or [ScamRate](https://www.scamrate.com/) - Check Website Safety 
@@ -404,7 +403,6 @@
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [Mine](https://saymineapp.com/) - View / Manage Digital Footprint
 * [Redact](https://redact.dev/) - Delete Entire Online History / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
-* [Make Internet Noise](http://makeinternetnoise.com/) - Randomize Browser History 
 * [Freenet Project](https://freenetproject.org/) - Browse / Publish Freenet Sites 
 * [Gopher](https://gopher.floodgap.com/gopher/) - Alternative Internet Protocol
 * [Cache Monkey](https://github.com/jamiepine/cache-monkey) - Convert, Browse & Clear Cached Images & Files 
@@ -435,7 +433,6 @@
 * [Metager](https://metager.org/)
 * [YaCy](https://yacy.net/) 
 * [Startpage](https://www.startpage.com/)
-* [SKYN3T](https://skyn3t.in/)
 * [Brave Search](https://search.brave.com/)
 * [Search Encrypt](https://www.searchencrypt.com/)
 * [Kagi](https://kagi.com/) 
@@ -527,7 +524,6 @@
 * [GreenHub](https://greenhubtx.ga/) - Free VPN
 * [Clash](https://github.com/Fndroid/clash_for_windows_pkg) - Free VPN / [Profiles](https://rentry.co/2q3rn)
 * [Portals](https://www.portalsvpn.com/) - dVPN
-* [FreePN](https://www.freepn.org/) - Free Open Source P2P VPN 
 * [TunnelBear](https://www.tunnelbear.com/) - Free VPN / 500mb
 * [VPNBook](https://www.vpnbook.com/) - Free VPN Accounts
 * [VPNGate](https://www.vpngate.net/en/) - Free VPN Relay Servers
