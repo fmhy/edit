@@ -21,10 +21,10 @@
 * ⭐ **[C1NE](https://c1ne.co/)** - Movies / TV / [Discord](https://discord.gg/nXUP8TxNSR)
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / [Discord](https://discord.gg/r4QrghF4B9)
 * ⭐ **[Streaminal-TV](https://streaminal-tv.vercel.app/)** - Movies / TV / Anime
+* ⭐ **[SockShare](http://sockshare.ac/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones) / Use Adblock
 * ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
 * [Tubi](https://tubitv.com) - Movies / TV / Use Adblock / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
 * [1Mars](https://www.1mars.app/) - Movies / TV / Anime
-* [SockShare](http://sockshare.ac/) - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones) / Use Adblock
 * [2Now.tv](https://2now.tv/) - Movies / TV
 * [OpenloadMovies](https://openloadmov.com/) or [Yify TV](https://ytsmovie.tv/) - Movies / TV
 * [UniqueStream](https://uniquestream.net/) - Movies / TV
@@ -918,7 +918,7 @@
 * [Film Genre Wiki](https://en.wikipedia.org/wiki/Template:Film_genres) - Movie Genre List
 * [Horror Sub-Genre Guide](https://i.ibb.co/F8Hj3xm/a76eecc33d4c.png) - List of Horror Genres
 * [Based on the Book](https://www.mymcpl.org/books-movies-music/read/based-on-the-book) - List of Movies Based on Books
-* [Find Movie](https://find-movie.info/) or [QuoDB](https://www.quodb.com/) - Find Movie With Quotes
+* [Find Movie](https://find-movie.info/), [clip.cafe](https://clip.cafe/) or [QuoDB](https://www.quodb.com/) - Movie Quote Databases / Search
 * [Ant Movie](https://www.antp.be/software/moviecatalog) or [libib](https://www.libib.com/) - Desktop Video Media Catalog
 * [MediaTracker](https://github.com/bonukai/MediaTracker) or [Flox](https://github.com/devfake/flox) - Self-Hosted Media Catalogs
 * [AniTrakt](https://anitrakt.huere.net/) - Trakt / MyAnimeList Sync
@@ -940,6 +940,7 @@
 * [Behind the Voice Actors](https://www.behindthevoiceactors.com/) - Voice Actors Database
 * [Movie-Censorship](https://www.movie-censorship.com/) - Compare Alternate Versions of Media
 * [Internet Movie Cars Database](https://www.imcdb.org/) - Movie Vehicle Database
+* [ProductPlacementBlog](https://productplacementblog.com/) - Product Placement Database
 * [DVDReleaseDates](https://www.dvdsreleasedates.com/) - DVD Release Dates
 * [TVTropes](https://tvtropes.org/) - TV Tropes Wiki
 * [MovieMap](http://www.themoviemap.com/), [Movie-Locations](http://www.movie-locations.com/), [MovieLoci](https://www.movieloci.com/), [AtlasOfWonders](https://www.atlasofwonders.com/), [WhereDidTheyFilmThat](http://www.wheredidtheyfilmthat.co.uk/), [British-Film-Locations](http://www.british-film-locations.com/) - Film Location Maps
