@@ -102,7 +102,7 @@
 * [style2paints](https://github.com/lllyasviel/style2paints) or [PaintsChainer](https://github.com/pfnet/PaintsChainer) - Lineart Colorization Tool
 * [AdverseCleaner](https://github.com/lllyasviel/AdverseCleaner) - Image Noise Reduction
 * [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/) - Image Dithering
-* [SmartDeblur](http://smartdeblur.net/index.html) or [Unshake](http://www.zen147963.zen.co.uk/index2.html) - De-blurring / Stabilization Tools
+* [SmartDeblur](http://smartdeblur.net/index.html) - De-blurring / Stabilization Tools
 * [depixel](https://github.com/jerith/depixel) - De-pixelization Tool
 * [Face-Depixelizer](https://github.com/tg-bomze/Face-Depixelizer) - Face De-Pixelization Tool 
 * [Deep Nostalgia](http://myheritage.com/deep-nostalgia) - Animate Family Photos
@@ -223,7 +223,7 @@
 * [ScreenToGif](https://www.screentogif.com/) or [Peek](https://github.com/phw/peek) - GIF Recorder
 * [screengif](https://github.com/dergachev/screengif), [ugiffer](https://iobureau.com/ugiffer/) or [licecap](https://www.cockos.com/licecap/) - Create GIFs via Screencasts
 * [GIFit](https://github.com/Fauntleroy/GIFit), [Youtube to GIF](https://youtube-to-gif.com/) - YouTube to GIF Converters
-* [petpet](https://benisland.neocities.org/petpet/) / [2](https://zoomerok.app/petpet/) - Headpatting GIF Maker
+* [petpet](https://benisland.neocities.org/petpet/) - Headpatting GIF Maker
 * [FlagWaver](https://krikienoid.github.io/flagwaver/) - Create Moving Flag GIFs
 * [Gifski](https://gif.ski/) - GIF Encoder
 * [Among-Us-Dumpy-Gif-Maker](https://dumpy.t1c.dev/) - Make Dumpy Among us GIFs
@@ -333,7 +333,7 @@
 * [Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Movie / TV Covers & Posters
 * [Film.ai](https://beta.flim.ai/) or [Film Grab](https://film-grab.com/) - Movie Screenshots
 * [CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](http://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com), [maxpixel](https://www.maxpixel.net/), [PNGHut](https://pnghut.com/) or [OpenClipart](https://openclipart.org/) - PNG Images / Clipart
-* [Sankaku](https://sankaku.app/), [Anime Pictures](https://anime-pictures.net/), [Pixiviz](https://pixiviz.pwp.app/) or [ZeroChan](https://zerochan.net/) - Anime Images / Some NSFW / [Chrome](https://github.com/Disrc/SankakuComplexAddon)
+* [Sankaku](https://sankaku.app/), [Anime Pictures](https://anime-pictures.net/) or [ZeroChan](https://zerochan.net/) - Anime Images / Some NSFW / [Chrome](https://github.com/Disrc/SankakuComplexAddon)
 * [Buhitter](https://buhitter.com/) - Twitter Illustration Search
 * [Footyrenders](https://www.footyrenders.com/) - Football Related Images
 * [PSDGraphics](https://www.psdgraphics.com/) - PSD Files
@@ -518,7 +518,7 @@
 * [Bypass Login](https://greasyfork.org/en/scripts/420604) - Bypass Instagram Login Redirects
 * [AeroInsta](https://aeroinsta.com/), [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - Modded Android App
 * [WhatIsRhino](https://lemamichael.github.io/WhatIsRhino/) - Modded iOS App
-* [imginn](https://imginn.com/), [YooYing](https://www.yooying.com/), [Picuki](https://www.picuki.com/), [InstaNavigation](https://instanavigation.com/), [Iganony](https://iganony.com/), [Instafreeview](https://instafreeview.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer) or [Dumpor](https://dumpoir.com/) - Instagram Viewers
+* [imginn](https://imginn.com/), [YooYing](https://www.yooying.com/), [Picuki](https://www.picuki.com/), [InstaNavigation](https://instanavigation.com/), [Instafreeview](https://instafreeview.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer) or [Dumpor](https://dumpoir.com/) - Instagram Viewers
 * [FeedInABox](https://t.me/FeedinboxBot) - Telegram Bot
 * [Instagram Search Tool](https://www.aware-online.com/en/osint-tools/instagram-search-tool/) - Search Tool 
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram Analysis
@@ -527,7 +527,7 @@
 * [StoriesDown](https://storiesdown.com/), [instasaved](https://instasaved.net/en) or [insta-stories-viewer](https://insta-stories-viewer.com/) - Story Downloaders
 * [SaveFromWeb](https://www.savefromweb.com/), [High-Resolution-Downloader](https://github.com/ehmorris/High-Resolution-Downloader-For-Instagram), [Downloadgram](https://downloadgram.org/) or [Instagram-crawler](https://github.com/hehpollon/Instagram-crawler) - Video / Picture / Story Downloaders 
 * [Picnob](https://www.picnob.com/) or [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper) - Picture / Story Downloaders
-* [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [igram](https://igram.io/), [InstaLooter](https://github.com/althonos/InstaLooter), [Instaloader](https://github.com/instaloader/instaloader) or [instapick](https://www.instapick.net/) - Picture / Video Downloader
+* [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [InstaLooter](https://github.com/althonos/InstaLooter), [Instaloader](https://github.com/instaloader/instaloader) or [instapick](https://www.instapick.net/) - Picture / Video Downloader
 * [4K Stogram](https://www.4kdownload.com/products/product-stogram) or [InstaLoader](https://instaloader.github.io/) - Picture Downloader
 * [Photo Map](https://levionsoftware.com/) - Interactive Map For Your Photos
 * [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) - Video Downloader
