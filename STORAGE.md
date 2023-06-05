@@ -2116,7 +2116,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Raddle](https://raddle.me/)** / [onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/)
 * ⭐ **[Saidit](https://saidit.net/)**
 
-[Lemmy](https://lemmy.ml/), [/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives), [postmill](https://postmill.xyz/), [Sqwok](https://sqwok.im/), [kddit](http://kddit.kallist4mcluuxbjnr5p2asdlmdhaos3pcrvhk3fbzmiiiftwg6zncid.onion/), [tildes](https://tildes.net/), [talk](https://www.talk.lol/), [grepless](https://grepless.com/), [communities](https://communities.win/), [FlingUp](https://flingup.com/), [Upvote](https://upvo.to/), [Hexbear](https://www.hexbear.net/)
+[Lemmy](https://lemmy.ml/) / [Communities](https://browse.feddit.de/), [/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives), [postmill](https://postmill.xyz/), [Sqwok](https://sqwok.im/), [kddit](http://kddit.kallist4mcluuxbjnr5p2asdlmdhaos3pcrvhk3fbzmiiiftwg6zncid.onion/), [tildes](https://tildes.net/), [talk](https://www.talk.lol/), [grepless](https://grepless.com/), [communities](https://communities.win/), [FlingUp](https://flingup.com/), [Upvote](https://upvo.to/), [Hexbear](https://www.hexbear.net/)
 
 ***
 
@@ -2469,7 +2469,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Sites / Programs**
 
-[Midomi](https://www.midomi.com/), [Aha Music](https://www.aha-music.com/identify-songs-music-recognition-online), [/r/NameThatSong](https://reddit.com/r/NameThatSong), [Dejavu](https://github.com/worldveil/dejavu) (python), [Audd](https://audd.io/) (api), [MusicRecognizer](https://github.com/NerdSmith/MusicRecognizer), [Mousai](https://github.com/SeaDve/Mousai), [AudioTag](https://audiotag.info/)
+[Midomi](https://www.midomi.com/), [Aha Music](https://www.aha-music.com/identify-songs-music-recognition-online), [/r/NameThatSong](https://reddit.com/r/NameThatSong), [Dejavu](https://github.com/worldveil/dejavu) (python), [Audd](https://audd.io/) (api), [MusicRecognizer](https://github.com/NerdSmith/MusicRecognizer), [Mousai](https://github.com/SeaDve/Mousai), [AudioTag](https://audiotag.info/), [FolkTuneFinder](https://www.folktunefinder.com/)
 
 **Mobile Apps**
 
