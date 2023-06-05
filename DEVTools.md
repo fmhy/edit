@@ -505,7 +505,7 @@
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) or [MetaTags](https://metatags.io/) - Meta Tag Generator
 * [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools)
 * [Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools) - Domain Information Lookup Tools
-* [AIconicDomain](https://aiconicdomain.com/), [namy.ai](https://namy.ai/), [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [v3WhoIs](https://msk2.prostitutki.ltd/), [IWantMyName](https://iwantmyname.com/), [expireddomains](https://www.expireddomains.net/), [atlaq](https://atlaq.com/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
+* [AIconicDomain](https://aiconicdomain.com/), [namy.ai](https://namy.ai/), [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [IWantMyName](https://iwantmyname.com/), [expireddomains](https://www.expireddomains.net/), [atlaq](https://atlaq.com/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
 * [TinyDomain](https://tinydomain.net/) - Short Domain Suggestions
 * [DNForum](https://www.dnforum.com/) - Domain Name Forum
 * [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
@@ -1018,7 +1018,6 @@
 * [Github Readme Quotes](https://github.com/shravan20/github-readme-quotes) - GitHub Readme Quote Generator
 * [Awesome README](https://github.com/matiassingers/awesome-readme) - GitHub Readme Examples
 * [GIT Quick Stats](https://git-quick-stats.sh/) - View Git Statistics / [GitHub](https://github.com/arzzen/git-quick-stats)
-* [YourYearInCode](https://www.youryearincode.com/) - Yearly Git Statistics
 * [Langits](https://langits.davejudd.dev/) - See Most Used Programming Languages User
 * [GitHub Release Downloads](https://github.com/addshore/browser-github-release-downloads) - GitHub Release Download Counter
 * [Shields.io](https://shields.io/) - Metadata badges for GitHub Readmes
@@ -1036,7 +1035,6 @@
 * [gitignore](https://github.com/github/gitignore) - Gitignore Templates
 * [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub), [diohub](https://github.com/NamanShergill/diohub), [Fasthub-Libre](https://github.com/thermatk/FastHub-Libre), [FastHub-RE](https://github.com/LightDestory/FastHub-RE), [MGit](https://github.com/maks/MGit), [GitNex](https://codeberg.org/gitnex/GitNex/) or [OctoDroid](https://github.com/slapperwan/gh4a) - Android GitHub Clients
 * [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - Track Github User Activity on Android
-* [commits.top](https://commits.top/) - Most Active GitHub Users
 * [Gitea](https://gitea.io/), [2](https://gittea.dev/) or [Drift](https://www.drift.lol/) - Self-Hosted Git Service
 
 ***
@@ -1118,7 +1116,7 @@
 * [core-plot](https://github.com/core-plot/core-plot) - Core Plot Source Code / Apps
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) - Livecoding Resources
 * [tuc](https://github.com/riquito/tuc) - Improved Code Cut
-* [snowbin](https://paste.bignutty.xyz/), [Mystb.in](https://mystb.in/) or [snippet.host](https://snippet.host/) - Code Pastebins
+* [Mystb.in](https://mystb.in/) or [snippet.host](https://snippet.host/) - Code Pastebins
 * [0xacab](https://about.0xacab.org/) - Code Host
 * [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
 * [Autosaved](https://github.com/nikochiko/autosaved) - Autosave Code / [GitHub](https://github.com/tkellogg/dura)
