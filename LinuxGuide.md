@@ -232,7 +232,6 @@
 * [ss64 Bash](https://ss64.com/bash/) or [Bash Oneliner](https://github.com/onceupon/Bash-Oneliner) - Linux Bash Commands
 * [zx](https://github.com/google/zx) - Javascript Bash
 * [Helmanual](https://helpmanual.io/), [Linux Command Library](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcommandbibliotheca), [CommandlineFU](https://www.commandlinefu.com/) or [awesome-for-oneliner](https://github.com/sheepla/awesome-for-oneliner) - Unix Commands
-* [bashrcgenerator](http://bashrcgenerator.com/) - .bashrc Generator
 * [bash_loading_animations](https://github.com/Silejonu/bash_loading_animations) - Bash Loading Animations
 * [Bashly](https://bashly.dannyb.co/) - Bash CLI Framework
 * [dunst](https://dunst-project.org/) - Customizable Notification Daemon / [GitHub](https://github.com/dunst-project/dunst)
@@ -293,6 +292,7 @@
 * ⭐ **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** or [SShuttle](https://github.com/sshuttle/sshuttle) - Proxies
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) or [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) - Linux Privacy Guide
 * ⭐ **[Librewolf Linux](https://librewolf.net/)**/ [2](https://aur.archlinux.org/packages/firedragon) / [3](https://forum.garudalinux.org/t/firedragon-librewolf-fork/5018) or [Dot Browser](https://github.com/dothq/browser) - Privacy-Based Browser
+* ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)**, [spotify-adblock](https://github.com/abba23/spotify-adblock) or [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)  - Spotify Adblockers
 * [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
 * [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
 * [Twilio Authy](https://snapcraft.io/authy) - Linux Two-Factor Authentication
@@ -314,7 +314,6 @@
 * [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Secure Linux Server Guide
 * [BhanUpratpys](https://github.com/bhanupratapys/dnswarden) - DNS Adblocking
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Arch Linux base with Deluge, Privoxy & OpenVPN
-* [spotify-adblock](https://github.com/abba23/spotify-adblock) or [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)  - Spotify Adblockers
 * [Anon-SMS](https://github.com/HACK3RY2J/Anon-SMS) - Send Anonymous SMS Messages
 * [Firejail](https://firejail.wordpress.com/) - Security Sandbox
 * [Bubblewrap](https://github.com/containers/bubblewrap) -  Unprivileged Sandboxing Tool
@@ -418,6 +417,7 @@
 * [Alfred Spotify Mini Player](https://alfred-spotify-mini-player.com/) - Spotify Mini Player
 * [Nuage](https://github.com/lbrndnr/nuage-macos) - Soundcloud Client
 * [Subsonic](https://github.com/twostraws/Subsonic) - SwiftUI Audio Player
+* [Bookshelf](https://apps.apple.com/us/app/bookshelf-reading-tracker/id1469372414) - Book Tracker
 * [LimaVM](https://github.com/lima-vm/lima) - Linux VM on MacOS
 * [Parallels](https://github.com/nbats/FMHYedit/blob/main/base64.md#parallels), [PortingKit](https://www.portingkit.com/), [PlayOnMac](https://www.playonmac.com/en/) or [CrossOver](https://www.codeweavers.com/crossover) - Run Windows Games / Programs on Mac
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg) - Mac Bootloader / [Config](https://mackie100projects.altervista.org/opencore-configurator/) / [Guide](https://dortania.github.io/OpenCore-Install-Guide/)
@@ -436,7 +436,6 @@
 * [AirDrop to Windows](https://redd.it/vthltc) - AirDrop to Windows Guide
 * [maestral](https://maestral.app/) or [NearDrop](https://github.com/grishka/NearDrop) - File Sharing Apps
 * [Adobe Creative Cloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#mac-adobe-cc) - Adobe CC Guides
-* [TNT-Adobe-Zii](https://telegra.ph/TNT-Adobe-Zii-for-MacOS-11-01) - Adobe CC Patcher / [Subreddit](https://www.reddit.com/r/AdobeZii/)
 * [Adobe Packager](https://github.com/Drovosek01/adobe-packager) - Adobe Portable Installer Script
 * [ss64 OSX](https://ss64.com/osx/) - MacOS Bash Commands
 * [Browserosaurus](https://browserosaurus.com/) - Browser Prompter
@@ -491,7 +490,6 @@
 * [OldSchoolOS](https://www.oldschoolos.com/) - Old MacOS ISOs
 * [Bootcamp Drivers](https://bootcampdrivers.com/) - Mac Bootcamp AMD Drivers
 * [IINA](https://iina.io/) - Video Player
-* [Meeter](https://trymeeter.com/) - Video Meeting Manager
 * [Gifski](https://sindresorhus.com/gifski) - Image to GIF Converter / [GitHub](https://github.com/sindresorhus/Gifski)
 * [Darkroom](https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746) - Image / Video Editor
 * [Kap](https://github.com/wulkano/Kap) - Screen Recorder
@@ -501,6 +499,8 @@
 * [CasterSoundboard](https://github.com/JupiterBroadcasting/CasterSoundboard) - Soundboard
 * [XLD](https://sourceforge.net/projects/xld/) - Lossless Audio Transcoder
 * [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Pass Audio to Apps
+* [Mubert AI](https://apps.apple.com/us/app/mubert-ai-music-streaming/id1154429580) - AI Music Radio
+* [Playlisty](https://apps.apple.com/us/app/playlisty-the-playlist-tool/id1459275972) - Transfer Apple Music Playlists to Spotify
 * [Image Tricks Lite](https://apps.apple.com/us/app/image-tricks-lite/id403735824?mt=12) or [SeaShore](https://sourceforge.net/projects/seashore/) - Image Editor 
 * [ImageOptim](https://imageoptim.com/mac) - Image Optimization
 * [Perspec](https://github.com/feramhq/Perspec) - Correct Perspective of Images
@@ -534,7 +534,7 @@
 
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
 * ⭐ **[System Wide Adblocking](https://champagne.pages.dev/before-you-begin/important-tools/)** / [2](https://redd.it/oyfmr1) - System Wide Adblocking Guides
-* ⭐ **[SpotX-Mac](https://github.com/SpotX-CLI/SpotX-Mac)**, [SpotifyAdBlocker-macOS](https://github.com/amgxv/SpotifyAdBlocker-macOS), [Spotify Adblock Guide](https://redd.it/y2zt58) or [Mac_Spotify_Adblock](https://github.com/RDE3/Mac_Spotify_Adblock) - Spotify Adblockers
+* ⭐ **[SpotX-Mac](https://github.com/SpotX-CLI/SpotX-Mac)**, [SpotX-Bash](https://github.com/jetfir3/SpotX-Bash), [SpotifyAdBlocker-macOS](https://github.com/amgxv/SpotifyAdBlocker-macOS), [Spotify Adblock Guide](https://redd.it/y2zt58) or [Mac_Spotify_Adblock](https://github.com/RDE3/Mac_Spotify_Adblock) - Spotify Adblockers
 * [MacOS Security Tools](https://github.com/ashishb/osx-and-ios-security-awesome) - Mac Security Tools
 * [MacOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [Sentinel](https://getsentinel.io/) - Two-Factor Authentication
