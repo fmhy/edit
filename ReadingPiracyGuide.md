@@ -56,7 +56,7 @@
 
 * ⭐ **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [5](https://ravebooksearch.com/) / [6](https://recherche-ebook.fr/en/) - Multi-Site Book Search
 * ⭐ **[Anna’s Archive](https://annas-archive.org/)** - Books / Comics / Educational
-* ⭐ **[Z-Library](https://singlelogin.re/)**, [2](https://1login.to/) - Books / Comics / Educational
+* ⭐ **[Z-Library](https://singlelogin.re/)**  - Books / Comics / Educational
 * ⭐ **Z-Lib Tools** - [Megathread](https://redd.it/zx6z62) / [I2P](http://kkd7tiqf5lv3olqfdnkw4znmmmmnjo2xqlxrp5ntthp6juowaiha.b32.i2p) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Subreddit](https://www.reddit.com/r/zlibrary/)
 * ⭐ **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools) / [ACSM Plugin](https://github.com/Leseratte10/acsm-calibre-plugin) / [Libre Plugin](https://github.com/poochinski9/libgen-calibre-store-plugin)
@@ -92,11 +92,9 @@
 * [NovelLibrary](http://novellibrary.com/) - Books / [Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#novel-library-drive)
 * [iBookPile](https://ibookpile.net/) - Books
 * [DPLA](https://dp.la/) - Books
-* [OpenLibra](https://openlibra.com/en/) - Books
 * [Books'Cool](https://en.novelonlineread.com/) - Books
 * [Dirzon](https://www.dirzon.com/) - Books
 * [VK eBook Sharing Group](https://vk.com/club162811046) - Books / Also try `site:vk.com` in searches
-* [Ebookee](https://www.ebookee.com/) - Books / Magazines
 * [EBooksCart](https://ebookscart.com/) - Books
 * [Index of /Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#index-of-books) - Books
 * [Novel12](https://novel12.com/) - Books
@@ -113,7 +111,6 @@
 * [All Books Hub](https://allbookshub.com/) - Books
 * [ebooksz](https://www.ebooksz.net/) - Books
 * [BBooks](https://bbooks.info/) - Books
-* [eBook777](https://www.ebooks777.net/) - Books
 * [myebooksfree](https://www.myebooksfree.com/) - Books
 * [English E-Reader](https://english-e-reader.net/) - Books
 * [Chapter1](https://chapter1.us/) - Books
@@ -325,7 +322,7 @@
 * [TopMystery](http://www.topmystery.com/onlinebooks) - Mystery
 * [HourWolf](https://www.hourwolf.com/sfbooks/) - Fantasy
 * [Children's Library](http://en.childrenslibrary.org/),  [MagicKeys](http://www.magickeys.com/books/), [byGosh](https://bygosh.com), [StoryWhale](https://www.storywhale.com/), [Baldwin Library](https://ufdc.ufl.edu/juv) or [BookDash](https://github.com/bookdash/bookdash-android-app) - Children's
-* [Damon's Collection of Game Artbooks](https://github.com/nbats/FMHYedit/blob/main/base64.md#damons-collection-of-game-artbooks), [BestArtbooks](https://t.me/BESTARTBOOKS) or [Artbooks.gala](https://artbooks.gala100.net/) - Artbooks
+* [BestArtbooks](https://t.me/BESTARTBOOKS) or [Artbooks.gala](https://artbooks.gala100.net/) - Artbooks
 * [PimpMyMind](https://pimpmymind.net/) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - Self-Help
 * [Optimize](https://www.heroic.us/optimize) - Self-Improvement Notes / Lessons
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
@@ -386,13 +383,11 @@
 * [PDFBooksWorld](https://www.pdfbooksworld.com/)
 * [Monoskop](https://monoskop.org/log/)
 * [ACM](https://dl.acm.org/)
-* [Lib Ebooks](https://lib-ebooks.com/)
 * [HathiTrust](https://www.hathitrust.org/)
 * [FreeBookCentre](https://freebookcentre.net/)
 * [OAPEN](https://oapen.org/)
 * [vdoc.pub](https://vdoc.pub/)
 * [Sciarium](https://sciarium.com/)
-* [Lit GFax](https://lit.gfax.ch/)
 * [OpenED](https://open.bccampus.ca/)
 * [doabooks](https://doabooks.org/)
 * [De Gruyter](https://www.degruyter.com/browse?submittedFilterId=by-type&access_4=open&pageSize=10&sort=datedescending&type_5=book), [2](https://www.degruyter.com/page/2045)
@@ -467,7 +462,6 @@
 * [TheDailyIdea](https://thedailyidea.org/reading-lists), [2](https://thedailyidea.org/philosophy-syllabi-collection/) - Philosophy
 * [APAOnline](https://www.apaonline.org/) - Philosophy
 * [Access Medicine](https://accessmedicine.mhmedical.com/books.aspx?view=library) - Medical
-* [Am Medicine](https://am-medicine.com/) - Medical
 * [PickPDF](https://pickpdfs.com/) - Medical
 * [FreeBooks4Doctors](http://freebooks4doctors.com/) - Medical
 * [MedicalStudyZone](https://medicalstudyzone.com/) - Medical
@@ -511,6 +505,7 @@
 * [World History](https://www.worldhistory.org/) or [Livius](https://www.livius.org/) - History Encyclopedias
 * [Early English Books](https://quod.lib.umich.edu/e/eebogroup/) - Historical Texts / Books
 * [Making of America](https://quod.lib.umich.edu/m/moa/) - American History
+* [LibertyFund](https://oll.libertyfund.org/) - Historical Books on Liberty
 * [Encyclopedia Of Ancient Egypt](https://archive.org/details/EncyclopediaOfAncientEgypt_201802/) - Egyptian History Encyclopedia
 * [Encyclopedia Of Ancient Asian Civilizations](https://archive.org/details/EncyclopediaOfAncientAsianCivilizations/) - Asian History Encyclopedia
 * [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) - Classic / Greek / Roman / Arabic / Germanic
@@ -565,7 +560,6 @@
 * [Free eBooks](https://books-pdf.blogspot.com/)
 * [goalkicker](https://goalkicker.com/)
 * [ebooks](https://github.com/XWHQSJ/ebooks)
-* [pilhadosaber](https://www.kgay4all.com/seioqueseiporleroqueleio/Books/)
 * [GoalKicker](https://books.goalkicker.com/)
 * [Flavio Copes](https://flaviocopes.com/page/ebooks/)
 * [Free Ebooks Download List](https://free-ebook-download-links.blogspot.com/)
@@ -796,7 +790,7 @@
 * [SpanishDict](https://www.spanishdict.com/) - Spanish Translation Dictionary
 * [ASL Dictionary](https://www.signasl.org/) or [HandSpeak](https://www.handspeak.com/) - American Sign Language
 * [BSL Dictionary](https://www.signbsl.com/) - British Sign Language
-* [FreeMdict](https://freemdict.com/) - Dictionary Downloads / [Forum](https://forum.freemdict.com/) / [Archive](https://downloads.freemdict.com/)
+* [FreeMdict](https://freemdict.com/) - Dictionary Downloads / [Archive](https://downloads.freemdict.com/)
 * [Goldendict](http://www.goldendict.org/) - Dictionary Program
 * [PyGlossary](https://github.com/ilius/pyglossary) - Convert Dictionary Files
 * [wikipedia_ql](https://github.com/zverok/wikipedia_ql) - Wiki Data Extraction
@@ -993,7 +987,6 @@
 * [Top Manhua](https://www.topmanhua.com/)
 * [Manhua Mix](https://manhuamix.com/)
 * [Manhau ES](https://manhuaes.com/)
-* [Manhuadragon](https://manhuadragon.com/)
 * [ManhuaHot](https://manhuahot.com/)
 * [Todamic](https://todaymic.com)
 * [Manhua Zone](https://manhuazone.com/)
@@ -1101,7 +1094,6 @@
 * [PDF Dude](https://pdfdude.com/)
 * [PDF Magazines Download](https://pdf-magazines-download.com/)
 * [PDF Magaz](https://www.pdfmagaz.in/)
-* [eBook3000](http://www.ebook3000.com/Magazine/index.html)
 * [FreePDFMagazine](https://www.freepdfmagazine.com/)
 * [freemagazines](https://freemagazines.top/)
 * [Calameo](https://calameo.com/)
