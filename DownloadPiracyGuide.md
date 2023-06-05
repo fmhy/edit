@@ -100,7 +100,6 @@
 * [Warez-Serbia](https://www.warez-serbia.com/) - Video / Audio / Games / Software / Android / Books / Magazines / NSFW
 * [DownArchive](http://downarchive.org/) - Video / Audio / Software / Games / ROMs / Android / Books / Magazines
 * [OneDDL](https://oneddl.org/) - Video / Audio / Software / Games / Books
-* [Share4All](https://share4all.com/) - Video / Audio / Software / Games / Books / Android
 * [Warez Heaven](https://www.warezheaven.com/index.php) - Video / Audio / Software / Games / ROMs / Books / NSFW
 * [Download.ir](https://download.ir/) - Software / Video / Android / Games / ROMs
 * [SceneSource](https://www.scnsrc.me/), [2](https://www.scenesource.me/) - Video / Audio / Software / Games / ROMs / Books
@@ -110,7 +109,6 @@
 * [Uploadgig](https://uploadgig.me/) - Video / Audio / Games / Software / Books / Audiobooks / Magazines / Android / NSFW
 * [Warez-World](https://warez-world.org/) - Video / Audio / Games / Software / Android / Books / Magazines / NSFW
 * [0DayDDL](https://0dayddl.com/) - Video / Audio / Games / Software / Books / Magazines
-* [0dayhome](https://0dayhome.net/) - Video / Audio / Games / Software / Books / Magazines
 * [Downturk.net](https://www.downturk.net/) -  Video / Audio / Games / Software / Android / Books
 * [Pouet](https://www.pouet.net/prodlist.php) - Demos / Cracktros
 * [Redump](http://redump.org/) - Disc Preservation Project
