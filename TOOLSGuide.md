@@ -1853,7 +1853,7 @@ Twitch Stream Tracker
 * [SharpKeys](https://github.com/randyrants/sharpkeys/) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts
 * [Mouseable](https://github.com/wirekang/mouseable) - Replace Mouse with Keyboard
 * [Econap](https://www.econap.de/) - Prevent Sleep Mode
-* [MoveMouse](https://sites.google.com/a/windandkite.co.uk/movemouse/home) - Simulate User Activity 
+* [MoveMouse](https://sites.google.com/a/windandkite.co.uk/movemouse/home) or [MouseJiggler](https://github.com/arkane-systems/mousejiggler)  - Simulate User Activity 
 * [The Fastest Mouse Clicker for Windows](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows), [Alpha Clicker](https://github.com/robiot/AlphaClicker) or [AutoClicker Bookmarklet](https://autoclicker.glitch.me/) - Mouse Auto Clicker
 * [WinMute](https://github.com/lx-s/WinMute/) - Automatically Mute PC
 * [All Black Screen](https://allblackscreen.com/) - Make Screen Black
