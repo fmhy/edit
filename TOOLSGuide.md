@@ -1185,13 +1185,11 @@
 * [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlights New Comments
 * [rComments](https://github.com/iampueroo/rComments) - Explore Comments & Replies without Clicking a Post 
 * [rAger](https://chrome.google.com/webstore/detail/rager/fohlpjahcdbkpcckapphhpahbiajccmj) - Display Account Age & Karma of Users
-* [MassTagger](https://www.masstagger.com/) - Reddit User Tagger
 * [RedditCake](https://github.com/tudorikas/RedditCake_ChromeExtension) - Display User Cake Days Automatically
 * [Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Always Load Old Reddit Design
 * [Reddit Emojis](https://greasyfork.org/en/scripts/443011) - Emojis for Old Reddit
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
 * [custom-top-sort-for-reddit](https://github.com/arvidsandin/custom-top-sort-for-reddit) - Scroll to Top of Reddit
-* [Scroller](https://scrolller.com/) - Reddit Image Auto-Scroller 
 * [Reddit Grid](https://redditgrid.com/) - Reddit Image Grid 
 * [Redinfinite](https://redinfinite.com/), [redditpx](https://www.redditpx.com/) or [Redditp](https://www.redditp.com/) - Reddit Image / Video Slideshows 
 *  [Up for Reddit](https://www.reddit-up.com/) - View Images Posted by User
@@ -1614,18 +1612,15 @@ Twitch Stream Tracker
 * ⭐ **[NoFT](https://noft.gg/)** - Automatically Block all NFT Profile Pictures / [GitHub](https://github.com/ottomated/noft)
 * ⭐ **[Eight Dollars](https://github.com/wseagar/eight-dollars)** - Show Twitter Blue vs. Real Verified Users
 * ⭐ **[Decentralized Social Networks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_decentralized_social_networks)** - Twitter / Facebook Alternatives
-* [TwopCharts](https://twopcharts.com/) - Multiple Twitter Tools
 * [/r/Twitter](https://reddit.com/r/Twitter) - Twitter Subreddit
-* [Awesome Twitter Bots](https://github.com/amandeepmittal/awesome-twitter-bots) - Twitter Bot Index
 * [TumblThree](https://github.com/TumblThreeApp/TumblThree) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumbl Backup Tools
 * [Minimal Twitter](https://typefully.com/minimal-twitter) - Minimal Twitter Themes
-* [Tweak New Twitter](https://github.com/insin/control-panel-for-twitter), [Control Panel](https://github.com/insin/control-panel-for-twitter) or [twttr](https://github.com/sr2echa/twttr) - Twitter Enhancement Extensions
-* [Twitonomy](https://www.twitonomy.com/) or [Affinitweet](https://affinitweet.com/) - Twitter Dashboard / Analytics 
-* [TweetDeck](https://tweetdeck.twitter.com/) / [Enhance](https://better.tw/) or [Tweeten](https://tweetenapp.com/) - Twitter Dashboard
+* [Tweak New Twitter](https://github.com/insin/control-panel-for-twitter) or [twttr](https://github.com/sr2echa/twttr) - Twitter Enhancement Extensions
+* [Twitonomy](https://www.twitonomy.com/) - Twitter Dashboard / Analytics 
+* [TweetDeck](https://tweetdeck.twitter.com/) or [Tweeten](https://tweetenapp.com/) - Twitter Dashboard
 * [TweetDuck](https://github.com/chylex/TweetDuck) - Twitter Desktop Client
-* [BackTweets](http://backtweets.com/), [twXplorer](https://twxplorer.knightlab.com/), [Social Searcher](https://www.social-searcher.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - Search Twitter
+* [twXplorer](https://twxplorer.knightlab.com/), [Social Searcher](https://www.social-searcher.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - Search Twitter
 * [TwitLonger](https://www.twitlonger.com/) - Make Longer Tweets
-* [Screamer](https://chrome.google.com/webstore/detail/screamer-twitter-improvem/mpeifaboppaofofdbmhoaeolnibaljof) - Tweet Only Twitter
 * [Twuko](https://www.twuko.com/) - Twitter News Feed
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [Poet.so](https://poet.so/), [Twimage](https://twimage.vercel.app/) / [GitHub](https://github.com/drkPrince/tweet-to-image) or [Tweetlet](https://tweetlet.net/) - Create Twitter Post Images
@@ -1636,23 +1631,17 @@ Twitch Stream Tracker
 * [React Statis Tweets](https://github.com/transitive-bullshit/react-static-tweets) - Static Tweets Renderer
 * [Treeverse](https://treeverse.app/) - Twitter Conversation Visualizer
 * [Trends Map](https://www.trendsmap.com/) or [Twitter Trends](https://twitter-trends.vercel.app/) - Trending Twitter Hashtags / Topics
-* [Esplora](https://esplora.io/) - Explore Twitter Communities
-* [TweetMap](https://www.heavy.ai/demos/tweetmap) - Trending Tweet Map
 * [Twitter Linker](https://twitterlinker.vercel.app/) or [Twitter Images](https://twitter-images.vercel.app/) - Generate Twitter Card for Your 
 * [Relink](https://www.relink.page/) - Fix Twitter Link Images
-* [OneMillionTweetMap](https://onemilliontweetmap.com/) or [TwitterNano](https://www.twitternano.com/) - Real-Time Tweet Map 
-* [Twitter Matrix](https://konard.github.io/twittermatrix/messages.html) - Live Tweet Matrix Animation
+* [OneMillionTweetMap](https://onemilliontweetmap.com/) - Real-Time Tweet Map 
 * [All My Tweets](https://www.allmytweets.net/connect/) - View All Tweets
 * [BirdFeeder](https://getbirdfeeder.com/) - Twitter Bookmark Manager
-* [Twitter Bookmark Archiver](https://github.com/nornagon/twitter-bookmark-archiver) - Download Twitter Bookmarks
+* [Twitter Bookmark Archiver](https://twitter-bookmark-archiver.glitch.me/) - Download Twitter Bookmarks
 * [TwikTwok](https://twiktwok.github.io/) - Swipe Through Twitter Videos
 * [Klear](https://klear.com/free-tools/find-twitter-influencers) - Find Influencers 
 * [Twiangulate](https://twiangulate.com/search/) - Compare Twitter User Followers 
 * [FollowerWonk](https://followerwonk.com/) - Find, Analyze & Optimize Followers
 * [Foller](https://foller.me/) - Twitter Profile Analytics
-* [audiense](https://audiense.com/) - Identify Relevant Audiences 
-* [HashTagStack](https://www.hashtagstack.com/) - Hashtag Engagement Tracker
-* [Hashait](https://www.hashatit.com/) - Hashtag Search
 * [TagGPT](https://tagsgpt.com/) - Hashtag Generator
 * [Buhitter](https://buhitter.com/) - Twitter Illustration Search
 * [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - Download Twitter Videos 
@@ -1660,7 +1649,6 @@ Twitch Stream Tracker
 * [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/) or [SocialBearing](https://socialbearing.com/) - Analyze Twitter Accounts
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
 * [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) - View / Archive Tweets
-* [RedBlock](https://github.com/gaeulbyul/RedBlock) - Block Multiple Users on Twitter
 * [TweeterID](https://tweeterid.com/) - Twitter User ID & Username Converter 
 * [Spoonbill](https://spoonbill.io/) - Track Profile Changes of People you Follow 
 * [Twitual](http://twitual.com/) - Follower / Following Analysis 
@@ -1673,7 +1661,7 @@ Twitch Stream Tracker
 * [GeoSocial Footprint](http://geosocialfootprint.com/) or [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint 
 * [TwiMap](https://twimap.com/) or [SmallWorld](https://smallworld.kiwi/) - Find Twitter Users Near You 
 * [Twitter Without Logging In](https://addons.mozilla.org/en-US/firefox/addon/twitter-without-logging-in/) - Twitter Login Wall Bypass
-* [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) or [Invidition](https://codeberg.org/Booteille/Invidition) - Redirects Twitter to Frontend
+* [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - Redirects Twitter to Frontend
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia), [Semiphemeral](https://semiphemeral.com/) - Twitter Auto Post Delete
 * [MegaBlock](https://megablock.xyz/) - Easily Block Twitter Users & Tweets
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites 
