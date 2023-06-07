@@ -292,13 +292,8 @@
 * [DevToys](https://github.com/ObuchiYuki/DevToysMac) or [DevUtils](https://devutils.com/) - Mac Dev Tools
 * [Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources) or [Open Source Design](https://opensourcedesign.net/) - Design Resource Sites
 * [Image Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools) - Image & Graphic Design Tools
-* [is-a.dev](https://www.is-a.dev/) - Developer Homepages
-* [IntroAI](https://www.introai.me/) - Generate Developer Intros
 * [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - Brand Design Tools
-* [ReverseEagle](https://forge.tedomum.net/groups/ReverseEagle/-/archived), [2](https://web.archive.org/web/20210116205638/https://developers.reverseeagle.org/) - Privacy Focused Developer Software
 * [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - Open Source Development Software
-* [Consul](https://www.consul.io/) - Development App Network / [GitHub](https://github.com/hashicorp/consul)
-* [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) - Systadmin Resources
 * [Awesome DataScience](https://github.com/academic/awesome-datascience) or [Best Data Science Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources) - Data Science Resources
 * [Mage](https://www.mage.ai/) - Data Science Pipelines
 * [SuperNova](https://www.supernova.io/) - Design System Manager
