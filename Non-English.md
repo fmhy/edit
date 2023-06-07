@@ -423,6 +423,7 @@
 * [Cpasbien](https://www.cpasbien.tw/) - Video / Audio / Books / Software / Games / ROMs
 * [Zetorrents](https://www.zetorrents.ch/) - Video / Audio / Software / Games / ROMs / Books
 * [Torrent411](https://www.torrent411.to/) - Video / Audio / Software / Games / ROMs / Books
+* [Sharewood](https://www.sharewood.tv/) - Video / Audio / Software / Games / ROMs / Books
 
 ## ▷ Streaming
 
@@ -451,6 +452,7 @@
 * [universanime](https://www.universanime.co/) - Anime
 * [mavanimes](https://mavanimes.cc/) - Anime
 * [VoirAnime](https://voiranime.com/) - Anime
+* [Animevost.fr](https://animevost.fr/) - Anime
 * [senpai](https://senpai.cc/) - Anime
 * [VostFree](https://vostfree.ws/) - Anime
 * [animevostfr](https://animevostfr.tv/) - Anime
@@ -849,7 +851,6 @@
 * [MangaZone](http://www.manga-zone.org/) - Manga
 * [RawCans](http://raw-cans.net/) - Manga
 * [BSZip](https://bszip.com/) - Manga
-* [13DL](http://13dl.to/) - Manga
 * [DLZip](http://dl-zip.com/) - Manga
 * [MangaBox](https://www.mangabox.me/) - Manga
 * [Mangaz](https://www.mangaz.com/) - Manga
@@ -2007,6 +2008,7 @@
 * ⭐ **[Einthusan](https://einthusan.tv/)** - Streaming / Movies / Music
 * ⭐ **[TamilBlasters](https://tamilblasters.world/)** - Torrent / Movies / [Proxy](https://tamilblasters.unblockit.click/)
 * ⭐ **[TamilMV](https://www.1tamilmv.news/)** - Torrent / Movies
+* ⭐ **[FreeDriveMovie](https://freedrivemovie.lol/)** - Download / Movies
 * [Indian Piracy Index](https://github.com/anymeofu/Indian-Piracy-Index) - Piracy Site / Tool Index
 * [JioTV](https://github.com/avipatilpro/JioTV) - Live TV Streaming Script
 * [tamilgun](https://tamilgun.team/) -  Streaming / Movies / TV
@@ -2018,7 +2020,6 @@
 * [Toroflix](https://hindilinks4u.app/) - Streaming / Movies
 * [SadRip](https://sadrip.blogspot.com/) - Movies / TV
 * [Movies Counter](https://moviescounter.lat/) - Download / Movies
-* [FreeDriveMovie](https://freedrivemovie.lol/) - Download / Movies
 * [MLWBD](https://mlwbd.skin/) - Download / Movies / TV / Anime / [Telegram](https://t.me/mlwbdnew)
 * [DesireMovies](https://desiremovies.motorcycles/) - Download / Movies / TV
 * [DotMovies](https://dotmovies.boats/) - Download / Movies / TV / Cartoons
