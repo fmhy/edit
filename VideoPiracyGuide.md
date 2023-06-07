@@ -662,7 +662,6 @@
 * [Naijavault](https://www.naijavault.com/) - Movies / TV / 480p
 * [KimoiTV](https://www.kimoitv.com/) - Movies / TV / Anime / 360p
 * [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - Cartoons 
-* [DramaFans](http://www.dramafans.org/) - Asian Drama
 * [DoraMax264](https://doramax264.com/) - Asian Drama / 480p
 * [CondensedAudioCatalog](https://condensedaudiocatalog.com/) - Asian Drama
 * [Toku.fun](https://toku.fun/) - Japanese Superhero Movies / 360p
