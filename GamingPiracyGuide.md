@@ -994,7 +994,7 @@
 * [H1-Mod](https://h1.gg/) - Call of Duty: Modern Warfare Remastered Client
 * [Assist](https://github.com/HeyM1ke/Assist) - Valorant Launcher
 * [Half Life Project Beta](https://hl2-beta.ru/) - Unreleased / Cut Half-Life Content
-* [GmodContent](https://gmodcontent.com/) - Garry's Mod Content Packs
+* [GmodContent](https://fragboss.com/gmod-textures-fix-css-textures/) - Garry's Mod Content Packs
 * [EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore) - Elden Ring Fixes
 * [Peter Jackson's King Kong Fix](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix) - Peter Jackson's King Kong Signature Edition Fix
 * [Textractor](https://github.com/Artikash/Textractor) - Extract Text from Games / Visual Novels
