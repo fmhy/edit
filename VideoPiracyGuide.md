@@ -100,7 +100,6 @@
 ## ▷ Multi Hosts
 
 * ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)
-* ⭐ **[JustChill](https://www.justchill.tv/en)** - Movies / TV / Anime / [Discord](https://discord.gg/y49g2tgNak)
 * ⭐ **[FMovies](https://fmovies.name/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * ⭐ **[FlixHQ](https://flixhq.click/)** - Movies / TV / Anime
