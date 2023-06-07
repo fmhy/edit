@@ -63,8 +63,8 @@
 * [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Stanford's Chatbot / [LoRA Implementation](https://github.com/tloen/alpaca-lora) / [GUI](https://github.com/ItsPi3141/alpaca-electron)
 * [FreedomGPT](https://freedomgpt.com/) - Alpaca Based Chatbot / [Github](https://github.com/ohmplatform/FreedomGPT/) / [Discord](https://discord.com/invite/h77wvJS4ga)
 * [PygmalionAI](https://docs.alpindale.dev/) - Self-Hosted Roleplaying Chatbot / [Resources](https://rentry.co/PygmalionLinks) / [Discord](https://discord.com/invite/pygmalionai)
-* [Kajiwoto](https://kajiwoto.com/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
-* [SillyTavern](https://github.com/Cohee1207/SillyTavern) - UI for Roleplaying Chatbots
+* [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
+* [SillyTavern](https://github.com/SillyTavern/SillyTavern) - UI for Roleplaying Chatbots
 * [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
 * [Chub](https://www.chub.ai/) - Characters for LLMs
 
@@ -72,7 +72,7 @@
 
 ## ▷ ChatGPT  Tools
 
-* ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [2](https://chrome.google.com/webstore/detail/superpower-for-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) or [Merlin](https://merlin.foyer.work/) - Enhancement Extensions
+* ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [2](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) or [Merlin](https://merlin.foyer.work/) - Enhancement Extensions
 * ⭐ **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
 * ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
@@ -383,7 +383,7 @@
 * [FreeTTS](https://freetts.com/)
 * [zvukogram](https://zvukogram.com/)
 * [Nuance](https://www.nuance.com/de-de/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html)
-* [VoiceMaker](https://www.voicemaker.in/)
+* [VoiceMaker](https://voicemaker.in/)
 * [readloud](https://readloud.net/)
 * [NaturalReaders](https://www.naturalreaders.com/online/)
 * [TTS](https://github.com/coqui-ai/tts)
