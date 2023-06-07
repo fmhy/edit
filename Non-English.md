@@ -423,6 +423,7 @@
 * [Cpasbien](https://www.cpasbien.tw/) - Video / Audio / Books / Software / Games / ROMs
 * [Zetorrents](https://www.zetorrents.ch/) - Video / Audio / Software / Games / ROMs / Books
 * [Torrent411](https://www.torrent411.to/) - Video / Audio / Software / Games / ROMs / Books
+* [Sharewood](https://www.sharewood.tv/) - Video / Audio / Software / Games / ROMs / Books
 
 ## ▷ Streaming
 
@@ -462,6 +463,7 @@
 * [dtvd](https://dtvd.net/) or [liveschauen](https://deutschekanale.com/) - Live TV
 * [ADKami](https://www.adkami.com/) - French Anime Calendar
 * [33rapmp3](https://www.33rapmp3.cc/) - Rap
+* [Animevost.fr](https://animevost.fr/) - Anime
 
 ## ▷ Reading
 
