@@ -111,6 +111,7 @@
 * [AZMovies](https://azm.to/) - Movies
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
 * [WatchSeries 2.0](https://watchseriess.io/), [2](https://watchmovie.ac/) - Movies / TV / Anime
+* [JustChill](https://www.justchill.tv/en) - Movies / TV / Anime / [Discord](https://discord.gg/y49g2tgNak)
 * [Series9](https://series9.sh/) - Movies / TV / Anime
 * [Cloudy](https://cloudy.pk/category/english/) - Movies / TV
 * [Levidia](https://www.levidia.ch/) - Movies / TV / Anime
