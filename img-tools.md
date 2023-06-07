@@ -72,6 +72,7 @@
 * [Face Merging](https://www.faceplusplus.com/face-merging/) or [MorphThing](https://www.morphthing.com/) - Face Merging Tool 
 * [WebcamToy](https://webcamtoy.com/) or [HDBooth](https://hdbooth.net/) - Webcam Effects
 * [Latent Diffusion](https://github.com/CompVis/latent-diffusion), [2](https://github.com/pesser/stable-diffusion) - Image Synthesis with Latent Diffusion Models
+* [Photopea](https://www.photopea.com/) - Free photoshop alternative online
 
 ***
 
