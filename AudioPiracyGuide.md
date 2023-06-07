@@ -220,8 +220,7 @@
 * [VibeOcean](https://defonic.com/vibeocean.html) - Ambient Ocean Sounds
 * [Calm](https://www.calm.com/app) - Meditation / Sleep Music 
 * [Tide.fm](https://tide.fm/) - Meditation / Sleep Sounds
-* [WhiteNoiseFan](https://www.whitenoisefan.com/) - White Noise Generator
-* [Ambie](https://github.com/jenius-apps/ambie) - White Noise App
+* [WhiteNoiseFan](https://www.whitenoisefan.com/) or [Ambie](https://github.com/jenius-apps/ambie) - White Noise Generators
 * [ChillOuts](http://www.chillouts.com/) - Meditation Aid
 * [August Ambiance](https://augustambience.com/) - Ambient Summer Sounds / Relaxation 
 * [VirtCcean](https://virtocean.com/) - Ambient Ocean Sounds
