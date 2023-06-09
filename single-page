@@ -2371,7 +2371,7 @@
 * [HTMLDog](https://htmldog.com/) - HTML/CSS and JavaScript Tutorials
 * [Codepip](https://codepip.com/games/), [Grid Garden](https://cssgridgarden.com/), [CSS Battle](https://cssbattle.dev/), [CSS Speedrun](https://css-speedrun.netlify.app/) or [CSS Diner](https://flukeout.github.io/) - CSS Learning Games
 * [DefensiveCSS](https://defensivecss.dev/) - CSS Tips
-* [LearnCSSGrid](http://learncssgrid.com/) - CSS Grid Guide
+* [LearnCSSGrid](https://learncssgrid.com/) - CSS Grid Guide
 * [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS Demos
 * [CSS Tricks](https://css-tricks.com/snippets/) - CSS Code Snippets
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) or [EloquentJavascript](https://eloquentjavascript.net/) - Javascript Learning Books
@@ -2424,7 +2424,7 @@
 ## ▷ Data Structures
 
 * ⭐ **[Leetcode](https://leetcode.com/)** - Coding Practice
-* ⭐ **Leetcode Tools** - [Discord](https://discord.com/invite/vAPMSZ5UwG) / [Solutions](https://walkccc.me/LeetCode/), [2](https://leetcode.ca/) / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/edit) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/prius/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode)
+* ⭐ **Leetcode Tools** - [Discord](https://discord.com/invite/vAPMSZ5UwG) / [Solutions](https://walkccc.me/LeetCode/), [2](https://leetcode.ca/) / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/edit) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/fspv/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode)
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - Code Algorithms & Data Structures Tutorials
 [Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - Code Algorithm Cheatsheets
 * [VisualGo](https://visualgo.net/) - Data Structures & Algorithm Animations
@@ -2611,7 +2611,7 @@
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
 * [Deps.dev](https://deps.dev/) - Open Source Package Search
 * [Packagedna](https://github.com/TelefonicaTC2Tech/packagedna) - Package Analyzing Software
-* [PackageCloud](https://packagecloud.io/) or [pnpm](http://pnpm.io/) - Package Manager / Deployment
+* [PackageCloud](https://packagecloud.io/) or [pnpm](https://pnpm.io/) - Package Manager / Deployment
 * [Upgraderoo](https://upgraderoo.janez.tech/) - Automatic NPM Package Updates
 * [WebInstall](https://webinstall.dev/) - Easily Install Dev Packages
 * [Balena](https://www.balena.io/) - Build / Manage  IoT Groups
@@ -2703,7 +2703,7 @@
 * [DNS Propagation](https://dnspropagation.net/) - DNS Checker
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
 * [CSSMatic](https://www.cssmatic.com/) - CSS Web Design Tools
-* [Sympli](https://sympli.io/), [AnimaApp](https://www.animaapp.com/) or [ZeroHeight](https://www.zeroheight.com/) - Development Collaboration Tool
+* [Sympli](https://sympli.io/), [AnimaApp](https://www.animaapp.com/) or [ZeroHeight](https://zeroheight.com/) - Development Collaboration Tool
 * [Grav](https://getgrav.org/) - Flat-File CMS
 * [Flux](https://www.runonflux.io/) - Decentralized Cloud Infrastructure
 * [URLPages](https://github.com/jstrieb/urlpages) - Store Entire Pages in URLs
@@ -2744,7 +2744,7 @@
 * [Magic Drop](https://chrome.google.com/webstore/detail/magic-drop/ogbbepddobacadohbfbpmhjomfjmbken) - Drag & Drop Images to Sites
 * [Rest Test Test](http://resttesttest.com/) - Test REST / CORS Services
 * [WebUI](https://webui.me/) - Embed WebUI Libaries in Project
-* [Dagu](https://github.com/dagu-labs/dagu) - WebUI Job Manager
+* [Dagu](https://github.com/dagu-dev/dagu) - WebUI Job Manager
 * [HeidiSQL](https://www.heidisql.com/) - SQL Manager
 * [QueryStorm](https://querystorm.com/) - SQL and .NET programming in Excel
 * [httpbin](https://httpbin.org/) or [Requestbin](https://pipedream.com/requestbin) - HTTP Request & Response Service
@@ -2786,12 +2786,12 @@
 * [Partytown](https://github.com/BuilderIO/partytown) - Relocate Scripts to Web Worker
 * [Tempesta FW](https://github.com/tempesta-tech/tempesta) - DDoS / Web Attack Protection
 * [Shisho](https://shisho.dev/) - Infrastructure Code Security Patcher
-* [Security Onion Solutions](https://securityonionsolutions.com/), [Wazuh](https://wazuh.com/) or [Snyk](https://snyk.io/) / [GitHub](https://github.com/snyk/snyk) - Site Security Monitor
+* [Security Onion Solutions](https://securityonionsolutions.com/), [Wazuh](https://wazuh.com/) or [Snyk](https://snyk.io/) / [GitHub](https://github.com/snyk/cli) - Site Security Monitor
 * [securitytxt](https://securitytxt.org/) - Create security.txt Files
 * [Greenbone](https://github.com/greenbone) - Vulnerability Management
 * [Teler](https://github.com/kitabisa/teler) - HTTP Intrusion Detection
 * [HTTPToolkit](https://httptoolkit.com/) - Debug, Test & Build with HTTP(S)
-* [GHH](http://ghh.sourceforge.net/) or [IP Intelligence](http://getipintel.net/) - Malicious Web Traffic Protection
+* [GHH](https://ghh.sourceforge.net/) or [IP Intelligence](http://getipintel.net/) - Malicious Web Traffic Protection
 * [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTP Sites Leak Information
 * [DNSDumpster](https://dnsdumpster.com/), [DNS Watch](https://dnswatch.info) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security
 * [WebScarab](https://wiki.owasp.org/index.php/Category:OWASP_WebScarab_Project) - HTTP / HTTPS Protocol Analysis
@@ -2869,14 +2869,14 @@
 * [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - CSS Shadow Generator
 * [MapBox](https://www.mapbox.com/) or [leafletjs](https://leafletjs.com/) - Live Maps, Location Search & More
 * [Maps-Core](https://openmobilemaps.io/) - Mobile Map SDK
-* [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [JotForm](https://www.jotform.com/), [99Inbound](https://www.99inbound.com/), [Forms.id](https://forms.id/), [PHPForm](http://www.phpform.org/), [Form.taxi](https://form.taxi/) or [Formsend](https://formsend.org/) - Form Creators
+* [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [JotForm](https://www.jotform.com/), [99Inbound](https://www.99inbound.com/), [Forms.id](https://forms.id/), [PHPForm](https://www.phpform.org/), [Form.taxi](https://form.taxi/) or [Formsend](https://form.metrics.bar/) - Form Creators
 * [Loading.io](https://loading.io/) - Customizable Loading SVG
 * [Medusa](https://github.com/medusajs/medusa) - Digital Commerce Development Tool
 * [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)- Penetration Testing Resources
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
 * [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - Archive, Scrape & Crawl Sites 
 * [Appwrite](https://appwrite.io/) - Open-Source Backend Server / [GitHub](https://github.com/appwrite/appwrite)
-* [squid](http://www.squid-cache.org/) - Caching Proxy / [MSI Installer](http://squid.diladele.com/) / [Site Blocking](http://www.thedumbterminal.co.uk/posts/2005/10/blocking_access_to_sites_when_using_squid.html) 
+* [squid](http://www.squid-cache.org/) - Caching Proxy / [MSI Installer](https://squid.diladele.com/) / [Site Blocking](http://www.thedumbterminal.co.uk/posts/2005/10/blocking_access_to_sites_when_using_squid.html) 
 * [What Is Googlebot](http://www.googlebot.com/bot.html) - How-to Block Googlebot
 * [Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare) - Cloudflare Resource Index
 * [Bypass Cloudflare](https://github.com/resilience-jychp/cloudflare-bypass) - Bypass Cloudflare Bot Protection
@@ -2895,7 +2895,7 @@
 * [SyAgent](https://syagent.com/), [TA Vivo](https://github.com/ta-vivo/ta-vivo) or [HertzBeat](https://hertzbeat.com/) - Server Monitors
 * [Lepton](https://hackjutsu.com/Lepton/) - Code Snippet Manager / [GitHub](https://github.com/hackjutsu/Lepton)
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - Captcha Systems
-* [Democaptcha](http://democaptcha.com/demo-form-eng/hcaptcha.html) or [ReCAPTCHA Demo](https://www.google.com/recaptcha/api2/demo) / [GitHub](https://patrickhlauke.github.io/recaptcha/) - Captcha Demo's
+* [Democaptcha](https://democaptcha.com/demo-form-eng/hcaptcha.html) or [ReCAPTCHA Demo](https://www.google.com/recaptcha/api2/demo) / [GitHub](https://patrickhlauke.github.io/recaptcha/) - Captcha Demo's
 * [SuperTokens](https://supertokens.com/) - User Authentication
 * [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO
 * [Discuzz](https://github.com/discuzz-app/discuzz) or [Remarkbox](https://www.remarkbox.com/) - Open Source Comment Systems
@@ -2905,7 +2905,7 @@
 * [CBox](https://www.cbox.ws/), [Typebot](https://typebot.io/), [Fonoster](https://fonoster.com/) or [Tawk](https://www.tawk.to/) - Embedded Chat App
 * [StackWhats](https://stackwhats.com/) - Add Whatsapp Chat to Your Site
 * [Pay 2 Email](https://pay2.email/) - Simple Website Contact Form
-* [Buff](https://github.com/ai-sidekick/sidekick) or [AgentGPT](https://github.com/reworkd/AgentGPT) - AI Customer Support Chat
+* [AgentGPT](https://github.com/reworkd/AgentGPT) - AI Customer Support Chat
 * [Twitcker](https://twitcker.com/) - Add Twitter Feed Ticker to Site
 * [Error404](https://error404.fun/) - Free 404 Pages
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
@@ -2944,7 +2944,7 @@
 * [w3af](http://w3af.org/) or [Burp](https://github.com/nbats/FMHYedit/blob/main/base64.md#burp) or [ZAP](https://www.zaproxy.org/) - Web App Security Testing
 * [PWA Screenshot Generator](https://progressier.com/pwa-screenshots-generator) - Generate PWA Screenshots
 * [egui](https://github.com/emilk/egui) - Rust GUI
-* [Form To Chatbot](http://formtochatbot.com/) - Convert Google Form to Chatbot
+* [Form To Chatbot](https://formtochatbot.com/) - Convert Google Form to Chatbot
 * [Herosaver](https://github.com/amerrigan/HeroSaver-v2) - Save Site Configuration and STLs
 * [Termible](https://termible.io/) - Docker Powered Site Terminals
 * [Stackbit](https://www.stackbit.com/) - JamStack Tools 
@@ -3086,12 +3086,12 @@
 * [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
 * [Uiautomator2](https://github.com/openatx/uiautomator2) or [Appium](http://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
 * [SigNoz](https://signoz.io/) - Detect App Issues
-* [MSTG](https://github.com/OWASP/owasp-mstg) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
+* [MSTG](https://github.com/OWASP/owasp-mastg) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
 * [YASNAC](https://github.com/RikkaW/YASNAC) - SafetyNet Attestation Checker
 * [jadx](https://github.com/skylot/jadx) - Dex to Java Decompiler
 * [Privado](https://github.com/Privado-Inc/privado) - Generate App Privacy Reports
 * [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App
-* [Pluto](https://github.com/plutolib/pluto) - Android Debug Framework
+* [Pluto](https://androidpluto.com/) - Android Debug Framework
 * [PM2](https://pm2.keymetrics.io/) - Process Manager
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
 * [Aspect](https://sample-code.aspect.app/) - Copy React Code from Any Site
@@ -3167,7 +3167,7 @@
 * [Mixer](https://quixel.com/mixer) - 3D Texture Creation Software
 * [The Textures Resource](https://www.textures-resource.com/) - Game Textures
 * [Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/), [Inkarnate](https://inkarnate.com/), [HexHTML](https://hextml.playest.net/), [Inkwellideas](https://inkwellideas.com/free-tools/), [Nat Geo Map Maker](https://mapmaker.nationalgeographic.org/), [RPG Map Editor 2](https://deepnight.itch.io/tabletop-rpg-map-editor) or [MapTool](https://www.rptools.net/toolbox/maptool/) - Game Map Creators / Editors
-* [Dungeon Scrawl](https://probabletrain.itch.io/dungeon-scrawl) / [Discord](https://discord.com/invite/RxyZyXg) / [/r/Dungeonscrawl](https://www.reddit.com/r/dungeonscrawl/), [Dungeon Map Doodler](https://dungeonmapdoodler.com/) or [donjon](http://donjon.bin.sh/) or [One Page Dungeon](https://watabou.itch.io/one-page-dungeon) - Dungeon Map Creators / Editors 
+* [Dungeon Scrawl](https://probabletrain.itch.io/dungeon-scrawl) / [Discord](https://discord.com/invite/RxyZyXg) / [/r/Dungeonscrawl](https://www.reddit.com/r/dungeonscrawl/), [Dungeon Map Doodler](https://dungeonmapdoodler.com/) or [donjon](https://donjon.bin.sh/) or [One Page Dungeon](https://watabou.itch.io/one-page-dungeon) - Dungeon Map Creators / Editors 
 * [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - Fantasy City Map Generator
 * [Neighbourhood](https://watabou.itch.io/neighbourhood) - Neighborhood Map Generator
 * [Loot](https://www.lootproject.com/) - Randomized Adventure Game Gear
@@ -3177,7 +3177,7 @@
 * [Electronic Arts GitHub](https://github.com/electronicarts) - EA GitHub Repos
 * [Game UI Database](https://www.gameuidatabase.com/) or [HUDSxGUIS](https://www.hudsandguis.com/) - Game HUDs / GUIs
 * [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - Game GUI Creator
-* [CharPad](https://subchristsoftware.itch.io/charpad-free-edition) - Commodore 64 Graphics Editor
+* [CharPad](https://subchristsoftware.itch.io/charpad-c64-free) - Commodore 64 Graphics Editor
 * [Xelu's Controller Prompts](https://thoseawesomeguys.com/prompts/) - Free Game Prompts / [Video](https://youtu.be/d6GtGbI-now)
 * [Tuesday JS](https://kirill-live.itch.io/tuesday-js) / [GitHub](https://github.com/Kirilllive/tuesday-js) or [RenPy](https://www.renpy.org/) / [GitHub](https://github.com/renpy/renpy) - Visual Novel Editor
 * [Bookshelf](https://github.com/Darkhax-Minecraft/Bookshelf) - Minecraft Mod Code Support
@@ -3253,7 +3253,7 @@
 * [Active-Forks](https://techgaun.github.io/active-forks/index.html) - Find Active GitHub Forks / [GitHub](https://github.com/techgaun/active-forks)
 * [grep.app](https://grep.app/) - Git Repository Index
 * [StarGrab](https://github.com/zekroTJA/stargrab) - Mirror GitHub Repositories
-* [OctoLinker](https://octolinker.now.sh/) - Make GitHub Code References Clickable
+* [OctoLinker](https://octolinker.vercel.app/) - Make GitHub Code References Clickable
 * [Ugit](https://github.com/Bhupesh-V/ugit) - Undo Git Commands
 * [Octotree](https://www.octotree.io/) - GitHub Repo File Tree View
 * [GitHub File Acceleration](https://gh.api.99988866.xyz/)
@@ -3287,7 +3287,7 @@
 * [GitHub Snake](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66) - Enable Snake Game on GitHub Readme
 * [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) or [GPRM](https://gprm.itsvg.in/) - Generate Git Profile Readme
 * [GitStalk](https://gitstalk.netlify.app/) - GitHub Profile Info Search
-* [Discord MD Badge](https://github.com/ashmonty/discord-md-badge) - Add Discord Badge to GitHub
+* [Discord MD Badge](https://github.com/gitlimes/discord-md-badge) - Add Discord Badge to GitHub
 * [Github vscode icons](https://github.com/dderevjanik/github-vscode-icons) - VSCode Icons
 * [github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - Material Icons
 * [gist.io](https://gist.io/) - Git Blog Platform
@@ -3423,12 +3423,12 @@
 * [Clean Code TypeScripts](https://github.com/labs42io/clean-code-typescript) - Clean Code for TypeScript
 * [Ruff](https://github.com/charliermarsh/ruff) - Python Linter
 * [Trunk](https://trunk.io/) - Run Linters/Formatters/Checkers Simultaneously
-* [Mega Linter](https://github.com/nvuillam/mega-linter) or [TCA](https://github.com/Tencent/CodeAnalysis) - Code Analyzer
+* [Mega Linter](https://github.com/oxsecurity/megalinter) or [TCA](https://github.com/Tencent/CodeAnalysis) - Code Analyzer
 * [FauxPilot](https://github.com/fauxpilot/fauxpilot) - Self-Hosted Copilot Server
 * [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Check for Edge Case Inputs
 * [CodeCapsules](https://codecapsules.io/) - Code Deployment
 * [overmind](https://github.com/DarthSim/overmind) or [foreman](https://github.com/ddollar/foreman) - Process Managers
-* [cpp.sh](http://cpp.sh/) - Online C++ Compiler
+* [cpp.sh](https://cpp.sh/) - Online C++ Compiler
 * [CP-Algorithms](https://cp-algorithms.com/) - C++ Algorithms
 * [CDECL](https://cdecl.org/) - C++ to English Translator
 * [The Algorithms](https://the-algorithms.com/) - Algorithms Index
@@ -3527,14 +3527,14 @@
 * [SciTE](https://www.scintilla.org/SciTE.html) - Source Code Editor for Win32 and X
 * [OpenChakra](https://openchakra.app/) - Visual Editor & Code Generator for React / [GitHub](https://github.com/premieroctet/openchakra)
 * [Package Control](https://packagecontrol.io/) - Code Editor Package Manager
-* [editorcornfig](http://editorconfig.org/) - Maintain consistent code styles across editors
+* [editorcornfig](https://editorconfig.org/) - Maintain consistent code styles across editors
 * [Dracula](https://draculatheme.com/) - Dark Theme for Code Editors / Terminal Emulators
 
 ***
 
 ## ▷ Cloud IDEs / Collab
 
-* ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Replit](https://replit.com/), [BoostNote](https://boostnote.io/), [Aither](https://github.com/enoki-inc/aither), [Deta](https://www.deta.sh/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [FireMonkeyX](http://www.firemonkeyx.com/), [Cloud9](https://aws.amazon.com/cloud9/) or [Glitch](https://glitch.com/) / [Replit Import](https://replit.com/glitch) / [GitHub](https://github.com/m3o/m3o)  - Cloud IDE
+* ⭐ **[goormIDE](https://ide.goorm.io/)**, [Fleet](https://www.jetbrains.com/fleet/), [CodeTasty](https://codetasty.com/), [Replit](https://replit.com/), [BoostNote](https://boostnote.io/), [Aither](https://github.com/enoki-inc/aither), [Deta](https://deta.space/), [TerraForm](https://www.terraform.io/), [Atheos](https://www.atheos.io/) / [GitHub](https://github.com/Atheos/Atheos), [m3o](https://m3o.com/), [Datalore](https://datalore.jetbrains.com/), [DeepNote](https://deepnote.com/), [FireMonkeyX](http://www.firemonkeyx.com/), [Cloud9](https://aws.amazon.com/cloud9/) or [Glitch](https://glitch.com/) / [Replit Import](https://replit.com/glitch) / [GitHub](https://github.com/m3o/m3o)  - Cloud IDE
 * ⭐ **[CodeSandbox](https://codesandbox.io/)**, [StackBlitz](https://stackblitz.com/) or [GitPod](https://www.gitpod.io/) - Cloud IDE / VSCode 
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
 * [colab alive](https://github.com/sobuj53/colabAlive) - Keep Colab Open
@@ -3567,7 +3567,7 @@
 * [HTML.com](https://html.com/) - HTML Guide / Cheat Sheet
 * [HTML Reference](https://htmlreference.io/) - HTML Guide
 * [HTML Notepad](https://html-notepad.com/) or [HTML Sandbox](https://apps.apple.com/us/app/html-sandbox-2/id6443393029) - HTML Editors
-* [HTML + CSS Extract](https://chrome.google.com/webstore/detail/pagerip-html-%20-css-extrac/bkahkocegdkgicmmfpkoeipjmjaeohfn) or [CSSPeeper](https://csspeeper.com/) - HTML / CSS Extractors
+* [PageRip](https://webpagerip.com/) or [CSSPeeper](https://csspeeper.com/) - HTML / CSS Extractors
 * [TryIt HTML](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro), [HTML-Online](https://html-online.com/editor/), [pell](https://jaredreich.com/pell/), [html.cafe](https://html.cafe/) or [jsTester](https://www.cs.iupui.edu/~ajharris/webprog/jsTester.html) - Online HTML Editors
 * [GrapeJS](https://grapesjs.com/) - HTML Template Editor
 * [Broken Link Checker](https://github.com/stevenvachon/broken-link-checker) - Find Broken Links in HTML
@@ -3576,7 +3576,7 @@
 * [HTMLColorCodes](https://htmlcolorcodes.com/) - HTML Color Codes
 * [Checkbox Land](https://www.bryanbraun.com/checkboxland/) - Render Anything as HTML Checkboxes
 * [Awesome HTML5](https://github.com/diegocard/awesome-html5) - HTML5 Resources
-* [GDevelop](https://gdevelop-app.com/) - HTML5 Game Creator
+* [GDevelop](https://gdevelop.io/) - HTML5 Game Creator
 * [Phaser](https://phaser.io/) - Mobile HTML5 Game Framework
 * [PlayCanvas](https://playcanvas.com/) - Build HTML5 Visualizations / Games
 * [pup](https://github.com/ericchiang/pup) - HTML Processing CLI
@@ -3598,7 +3598,7 @@
 * [Separator Generator](https://wweb.dev/resources/css-separator-generator/) - CSS Separator Generator CSS
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - Organic CSS Shape Generator
 * [BestCSSButtonGenerator](https://www.bestcssbuttongenerator.com/) - CSS Button Generator
-* [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds), [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://gradienta.io/), [GradientMagic](https://www.gradientmagic.com/), [heropatterns](https://heropatterns.com/), [thepatternlibrary](http://thepatternlibrary.com/), [Blend](http://colinkeany.com/blend/), [Color Morph](https://www.color-morph.com/), [CSSGradient](https://cssgradient.io/) or [uigradients](https://uigradients.com/) - CSS Patterns / Gradients
+* [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds), [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://codioful.com/), [GradientMagic](https://www.gradientmagic.com/), [heropatterns](https://heropatterns.com/), [thepatternlibrary](http://thepatternlibrary.com/), [Blend](http://colinkeany.com/blend/), [Color Morph](https://www.color-morph.com/), [CSSGradient](https://cssgradient.io/) or [uigradients](https://uigradients.com/) - CSS Patterns / Gradients
 * [CSS Doodle](https://css-doodle.com/) - CSS Pattern Generator
 * [CSSLayout](https://csslayout.io/) - CSS Layouts
 * [CSS3 Transform](https://css-transform.moro.es/) - 2D & 3D CSS Transform Functions Visualizer
@@ -4277,8 +4277,8 @@
 * [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Stanford's Chatbot / [LoRA Implementation](https://github.com/tloen/alpaca-lora) / [GUI](https://github.com/ItsPi3141/alpaca-electron)
 * [FreedomGPT](https://freedomgpt.com/) - Alpaca Based Chatbot / [Github](https://github.com/ohmplatform/FreedomGPT/) / [Discord](https://discord.com/invite/h77wvJS4ga)
 * [PygmalionAI](https://docs.alpindale.dev/) - Self-Hosted Roleplaying Chatbot / [Resources](https://rentry.co/PygmalionLinks) / [Discord](https://discord.com/invite/pygmalionai)
-* [Kajiwoto](https://kajiwoto.com/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
-* [SillyTavern](https://github.com/Cohee1207/SillyTavern) - UI for Roleplaying Chatbots
+* [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
+* [SillyTavern](https://github.com/SillyTavern/SillyTavern) - UI for Roleplaying Chatbots
 * [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
 * [Chub](https://www.chub.ai/) - Characters for LLMs
 
@@ -4286,7 +4286,7 @@
 
 ## ▷ ChatGPT  Tools
 
-* ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [2](https://chrome.google.com/webstore/detail/superpower-for-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) or [Merlin](https://merlin.foyer.work/) - Enhancement Extensions
+* ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [2](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) or [Merlin](https://merlin.foyer.work/) - Enhancement Extensions
 * ⭐ **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
 * ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
@@ -4597,7 +4597,7 @@
 * [FreeTTS](https://freetts.com/)
 * [zvukogram](https://zvukogram.com/)
 * [Nuance](https://www.nuance.com/de-de/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html)
-* [VoiceMaker](https://www.voicemaker.in/)
+* [VoiceMaker](https://voicemaker.in/)
 * [readloud](https://readloud.net/)
 * [NaturalReaders](https://www.naturalreaders.com/online/)
 * [TTS](https://github.com/coqui-ai/tts)
@@ -4748,7 +4748,6 @@
 * [Tigole](https://infogalactic.com/info/Tigole#Getting_Tigole_torrents) - Torrent Index
 * [Telegram Torrents](https://duckduckgo.com/?q=site%3At.me+torrent&ia=web) - Telegram Torrent Channels
 * [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/) - [ZeroNet Required](https://zeronet.io/) / Video / Audio / Software / Games
-* [RARBG Dump](https://rarbg.best/) - RARBG Magnet Archive
 * [4chan /t/](https://boards.4chan.org/t/) - Torrents / Imageboard / Some NSFW 
 * [8kun /t/](https://8kun.top/index.html) - Torrents / Imageboard
 * [DirtyWarez Tracker](https://dirtywarez.org/cat/tracker), [OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/) / [2](https://opentrackers.org/) or [awesome-piracy](https://github.com/Igglybuff/awesome-piracy#public-trackers) - Torrent Site Indexes
@@ -11498,7 +11497,7 @@ Use [this](https://wallabag.nixnet.services/) to read the article easily.
 
 ### Streaming 📽
 
-**[Just Chill](https://www.justchill.tv/home) / [FMovies](https://fmovies.name/) / [movie-web](https://movie-web.app/) / [Soap2Day](https://soapgate.org/)** - Fast streaming
+**[FMovies](https://fmovies.name/) / [movie-web](https://movie-web.app/) / [Soap2Day](https://soapgate.org/)** - Fast streaming
 **[Zoro](https://zoro.to/) / [Marin](https://marin.moe/) / [9Anime](https://www.9anime.to/)** - Fast anime streaming
 **[Dramacool](https://dramacool.cy/) / [KissAsian](https://kissasian.li/)** - Fast Asian drama streaming
 **[SportsSurge](https://sportsurge.net/)** - Live sports streaming
