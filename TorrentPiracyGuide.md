@@ -114,7 +114,6 @@
 * [Tigole](https://infogalactic.com/info/Tigole#Getting_Tigole_torrents) - Torrent Index
 * [Telegram Torrents](https://duckduckgo.com/?q=site%3At.me+torrent&ia=web) - Telegram Torrent Channels
 * [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/) - [ZeroNet Required](https://zeronet.io/) / Video / Audio / Software / Games
-* [RARBG Dump](https://rarbg.best/) - RARBG Magnet Archive
 * [4chan /t/](https://boards.4chan.org/t/) - Torrents / Imageboard / Some NSFW 
 * [8kun /t/](https://8kun.top/index.html) - Torrents / Imageboard
 * [DirtyWarez Tracker](https://dirtywarez.org/cat/tracker), [OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/) / [2](https://opentrackers.org/) or [awesome-piracy](https://github.com/Igglybuff/awesome-piracy#public-trackers) - Torrent Site Indexes
