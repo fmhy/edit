@@ -416,6 +416,7 @@
 * [Google Maps Snake](https://snake.googlemaps.com/) - Google Snake
 * [Snake-Game](https://www.onemotion.com/snake-game/) - 3D Snake
 * [QuineSnake](https://github.com/taylorconor/quinesnake) - Quine Source Snake
+* [Duck-Hunt](https://grosbouddha.github.io/duckhunt/) - Duck Hunt
 * [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
 * [ProAsm](http://www.proasm.com/) - Retro Game Mods
 * [Muds](https://muds.fandom.com/wiki/) - Text Adventure ROM Wiki
