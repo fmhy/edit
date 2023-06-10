@@ -1628,7 +1628,7 @@
 * [CineHDPlus](https://cinehdplus.org/) - Movies / TV
 * [Playdede](https://playdede.to/), [2](https://dominiosplaydede.com/) - Movies / TV / Anime / [Telegram](https://t.me/s/playdedeinformacion)
 * [allcalidad](https://allcalidad.ms/) - Movies / TV
-* [Sololatino](https://sololatino.net/) - Movies / TV / Anime
+* [Solo Latino](https://sololatino.net/) - Movies / TV / Anime
 * [Repelis24](https://repelis24.co/) - Movies / TV
 * [Argentine Cinema](https://www.youtube.com/@argentinecinemawithenglish4476/) - Argentine Movies
 * [Cinecalidad](https://cinecalidad.cat/) - Movies / TV / Animation / [Telegram](https://t.me/cinecalidadchat)
@@ -1681,6 +1681,7 @@
 * [AnimeFLV.io](https://animeflv.io/) - Anime
 * [serieslan](https://serieslan.com/) - Cartoons
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
+* [DangoToons](https://dangotoons.net/) - Anime / Cartoons
 * [Eventoshq](https://www.eventoshq.me/) - WWE
 * [LegalMentegratis](http://legalmentegratis.com/) - YouTube Movies
 * [Edutin Academy](https://edutin.com/) - Courses
