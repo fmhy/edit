@@ -452,7 +452,7 @@
 * ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Record / Convert Audio / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ffmpeg_tools)
 * ⭐ **[Equalizer APO](https://equalizerapo.com/)**, **[AutoEq](https://github.com/jaakkopasanen/AutoEq)**, [PeaceEqualizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) or [SonyHeadphonesClient](https://github.com/Plutoberth/SonyHeadphonesClient) - Audio Equalizers
 * ⭐ **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - Audio Visualization Resource Index 
-* ⭐ **[Determine Audio File Quality](https://redd.it/3l0yxp)**, [Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](https://spek.cc/), [FakinTheFunk](https://rentry.co/FakinTheFunk) or [Spectro](http://spectro.enpts.com/) - Determine Quality of Audio Files
+* ⭐ **[Determine Audio File Quality](https://redd.it/3l0yxp)**, [Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](https://spek.cc/), [FakinTheFunk](https://rentry.co/FakinTheFunk), [DFT](https://webfft.net/dft/) or [Spectro](http://spectro.enpts.com/) - Determine Quality of Audio Files / Spectograms
 * ⭐ **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)** - Audio Compression Examples
 * ⭐ **[Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification)** - Identify Playing Songs
 * [Scarbir](https://www.scarbir.com/) or [Crinacle](https://crinacle.com/) - Headset & Earphone Comparisons
@@ -1285,7 +1285,7 @@
 * [PreMiD](https://premid.app/) - Display internet activity in Discord status / [Github](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.gg/WvfVZ8T)
 * [Alternatives to MEE6](https://alternativestomee6.com/) - [Discord](https://discord.gg/WrbMdWHfNd)
 * [Divider Generator](https://jsfiddle.net/Davri/wf49xnob/159/) - Create Discord Role Dividers Discord Role
-* [chatgpt-discord-bot](https://github.com/TuringAI-Team/chatgpt-discord-bot), [ChatGPTDiscord](https://github.com/ausbitbank/ChatGPTDiscord), [CharacterAI](https://github.com/drizzle-mizzle/CharacterAI-Discord-Bot) or [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - ChatGPT for Discord
+* [chatgpt-discord-bot](https://github.com/TuringAI-Team/chatgpt-discord-bot), [ChatGPTDiscord](https://github.com/ausbitbank/ChatGPTDiscord), [CharacterAI](https://github.com/drizzle-mizzle/CharacterAI-Discord-Bot), [SallyBot](https://github.com/DeSinc/SallyBot/) or [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - ChatGPT for Discord
 * [MonitoRSS](https://monitorss.xyz/), [2](https://github.com/synzen/MonitoRSS-Clone) - RSS Discord Bot
 * [Wallabot](https://github.com/FahadBinHussain/wallabot) - Wallabag Discord Bot
 * [MovieNightBot](https://github.com/Chopknee/MovieNightBot) - Movie Night Voting Bot
@@ -1420,6 +1420,7 @@
 * [GoriThemes](https://t.me/GoriThemes) - Telegram Themes
 * [Callmebot](https://www.callmebot.com/) - Trigger Voice Calls or Chats
 * [Skeddy](https://skeddy.me/) - Telegram Reminder Bot
+* [SaveDay](https://www.save.day/) - Telegram Bookmarking AI
 * [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) / [2](https://github.com/n3d1117/chatgpt-telegram-bot) / [3](https://github.com/watscho/chat-gpt-telegram-bot) or [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT for Telegram
 * [TgStory](https://github.com/dishapatel010/TgStory) - Instagram Style Stories Bot
 * [CloneChat](https://github.com/apenasrr/clonechat) - Clone Telegram Chats
@@ -1838,7 +1839,7 @@ Twitch Stream Tracker
 * [NeatMouse](https://neatdecisions.com/products/neatmouse/) - Mouse / Keyboard Emulator
 * [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design & Test Virtual Keyboards
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Re-Map Mouse Buttons / Scroll Wheel
-* [SharpKeys](https://github.com/randyrants/sharpkeys/) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts
+* [SharpKeys](https://github.com/randyrants/sharpkeys/), [Ergogen](https://ergogen.xyz/) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts
 * [Mouseable](https://github.com/wirekang/mouseable) - Replace Mouse with Keyboard
 * [Econap](https://www.econap.de/) - Prevent Sleep Mode
 * [MoveMouse](https://sites.google.com/a/windandkite.co.uk/movemouse/home) or [MouseJiggler](https://github.com/arkane-systems/mousejiggler)  - Simulate User Activity 
@@ -1933,7 +1934,7 @@ Twitch Stream Tracker
 * [DesktopMagic](https://github.com/Stone-Red-Code/DesktopMagic) - Desktop Customization
 * [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Community
 * [WindowsCustomization](https://windowscustomization.com/), [WinCustomize](https://www.wincustomize.com/), [Win10 DeviantArt](https://www.deviantart.com/tag/windows10), [WinClassic](https://winclassic.boards.net/) or [7Themes](https://7themes.su/) - Desktop Customization / Themes / Wallpapers etc.
-* [msstyleEditor](https://github.com/nptr/msstyleEditor) - Windows Visual Style Editor
+* [msstyleEditor](https://github.com/nptr/msstyleEditor) or [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Windows Visual Style Editors
 * [DynaWin](https://github.com/Apollo199999999/DynaWin) or [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Dynamic Desktop Themes
 * [SecuredUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - Ux Theme Patcher
 * [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) - Theme Source Patcher
@@ -2137,6 +2138,8 @@ Twitch Stream Tracker
 * [PDF Host](https://pdfhost.io/) - Upload, Store and Share PDF Files 
 * [PDFx](https://www.metachris.com/pdfx/) or [Tabula](https://tabula.technology/) - Extract Info / URLs from PDF
 * [PDFGrep](https://pdfgrep.org/) - PDF Text Search
+[invert-pdf.club](https://invert-pdf.club/) - Invert PDF Color / [Github](https://github.com/keotl/invert-pdf)
+* [invert-pdf.club](https://invert-pdf.club/) - PDF Color Inverter
 * [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
 * [PDFConverter](https://www.pdfconverter.com/) or [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Convters 
 * [Adobe Compress PDF](https://www.adobe.com/acrobat/online/compress-pdf.html) - PDF Compressor
