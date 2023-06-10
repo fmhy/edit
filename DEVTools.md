@@ -500,7 +500,7 @@
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) or [MetaTags](https://metatags.io/) - Meta Tag Generator
 * [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools)
 * [Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools) - Domain Information Lookup Tools
-* [AIconicDomain](https://aiconicdomain.com/), [namy.ai](https://namy.ai/), [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [IWantMyName](https://iwantmyname.com/), [expireddomains](https://www.expireddomains.net/), [atlaq](https://atlaq.com/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
+* [BrandSnap](https://brandsnap.ai/), [AIconicDomain](https://aiconicdomain.com/), [namy.ai](https://namy.ai/), [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [IWantMyName](https://iwantmyname.com/), [expireddomains](https://www.expireddomains.net/), [atlaq](https://atlaq.com/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
 * [TinyDomain](https://tinydomain.net/) - Short Domain Suggestions
 * [DNForum](https://www.dnforum.com/) - Domain Name Forum
 * [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
@@ -1080,11 +1080,14 @@
 # ► Programming / Coding 
 
 * ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists
+
 * ⭐ **[Shell GPT](https://github.com/TheR1D/shell_gpt)**, [Cursor](https://www.cursor.so), [Codeium](https://codeium.com/), [tabnine](https://www.tabnine.com/), [ImageCook](https://github.com/imgcook/imgcook), [CodeWhisperer](https://aws.amazon.com/codewhisperer/), [Telosys](http://www.telosys.org/), [AIAC](https://github.com/gofireflyio/aiac) or [Copilot](https://github.com/features/copilot/) / [Docs](https://github.com/github/copilot-docs) - Coding AIs
+
+* ⭐ **[Starcoder](https://huggingface.co/spaces/bigcode/bigcode-playground)**, [TurboPilot](https://github.com/ravenscroftj/turbopilot) or [Safurai](https://www.safurai.com/) / [Discord](https://discord.com/invite/JYXue8DD4w) 
+
 * ⭐ **[RevShells](https://www.revshells.com/)** - Reverse Shell Generator
 * [Programming Language Benchmarks](https://programming-language-benchmarks.vercel.app/) - Programming Language / Compiler Benchmarks
 * [AI Code Translator](https://ai-code-translator.vercel.app/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - Code Converters
-* [TurboPilot](https://github.com/ravenscroftj/turbopilot) - AI Code Completion
 * [Literally Anything](https://www.literallyanything.io/) - Generate Code via Prompts
 * [WebdevHome](https://webdevhome.github.io/), [Charm](https://charm.sh/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - Programming Tool Indexes
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Programming Site Index 
