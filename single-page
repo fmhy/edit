@@ -2762,7 +2762,7 @@
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) or [MetaTags](https://metatags.io/) - Meta Tag Generator
 * [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools)
 * [Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools) - Domain Information Lookup Tools
-* [AIconicDomain](https://aiconicdomain.com/), [namy.ai](https://namy.ai/), [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [IWantMyName](https://iwantmyname.com/), [expireddomains](https://www.expireddomains.net/), [atlaq](https://atlaq.com/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
+* [BrandSnap](https://brandsnap.ai/), [AIconicDomain](https://aiconicdomain.com/), [namy.ai](https://namy.ai/), [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [IWantMyName](https://iwantmyname.com/), [expireddomains](https://www.expireddomains.net/), [atlaq](https://atlaq.com/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
 * [TinyDomain](https://tinydomain.net/) - Short Domain Suggestions
 * [DNForum](https://www.dnforum.com/) - Domain Name Forum
 * [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
@@ -3342,11 +3342,14 @@
 # ► Programming / Coding 
 
 * ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists
+
 * ⭐ **[Shell GPT](https://github.com/TheR1D/shell_gpt)**, [Cursor](https://www.cursor.so), [Codeium](https://codeium.com/), [tabnine](https://www.tabnine.com/), [ImageCook](https://github.com/imgcook/imgcook), [CodeWhisperer](https://aws.amazon.com/codewhisperer/), [Telosys](http://www.telosys.org/), [AIAC](https://github.com/gofireflyio/aiac) or [Copilot](https://github.com/features/copilot/) / [Docs](https://github.com/github/copilot-docs) - Coding AIs
+
+* ⭐ **[Starcoder](https://huggingface.co/spaces/bigcode/bigcode-playground)**, [TurboPilot](https://github.com/ravenscroftj/turbopilot) or [Safurai](https://www.safurai.com/) / [Discord](https://discord.com/invite/JYXue8DD4w) 
+
 * ⭐ **[RevShells](https://www.revshells.com/)** - Reverse Shell Generator
 * [Programming Language Benchmarks](https://programming-language-benchmarks.vercel.app/) - Programming Language / Compiler Benchmarks
 * [AI Code Translator](https://ai-code-translator.vercel.app/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - Code Converters
-* [TurboPilot](https://github.com/ravenscroftj/turbopilot) - AI Code Completion
 * [Literally Anything](https://www.literallyanything.io/) - Generate Code via Prompts
 * [WebdevHome](https://webdevhome.github.io/), [Charm](https://charm.sh/) or [Tiny Tools](https://tinytools.directory/) / [2](https://github.com/everestpipkin/tools-list) - Programming Tool Indexes
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Programming Site Index 
@@ -4239,7 +4242,7 @@
 * [Pros 'n Cons](https://pros-cons.io/) - Decision Making AI
 * [AnimaAI](https://myanima.ai/) - Virtual Companion
 * [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) or [Awesome-GPT4](https://gpt4.tools/) or  - ChatGPT Resources
-* [bing-chat](https://github.com/transitive-bullshit/bing-chat) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
+* [bing-chat](https://github.com/transitive-bullshit/bing-chat) or [Bing Chat for All Browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
 * [Forefront](https://chat.forefront.ai/) - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/Wbc5cPPYSs)
 * [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain) - GPT-3.5 Based AI
 * [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT-3 Based Chatbot
@@ -4254,12 +4257,13 @@
 
 ## ▷ Open-Source Bots
 
-* ⭐ **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - Leaderboard
+* ⭐ **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - LLM Leaderboard
 * ⭐ **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Chatbots / [Collab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
 * ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host LLaMa Based Chatbots
 * ⭐ **[Guanaco](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi)** - QLoRA based Chatbot / [Github](https://github.com/artidoro/qlora)
 * ⭐ **[LMSYS](https://chat.lmsys.org/)** - Compare Models / [Github](https://github.com/lm-sys/FastChat) / [Discord](https://discord.com/invite/h6kCZb72G7)
 * [Awesome Totally Open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) - Open-Source LLMs Index
+* [Transfer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/) - LLM Timeline
 * [MPT-7B-Chat](https://huggingface.co/spaces/mosaicml/mpt-7b-chat) - Mosaic's Chatbot / [Instruct](https://huggingface.co/spaces/mosaicml/mpt-7b-instruct) / [Storywriter](https://huggingface.co/spaces/mosaicml/mpt-7b-storywriter)
 * [Falcon](https://huggingface.co/tiiuae/falcon-40b-instruct) - TII's Model
 * [ChatRWKV](https://huggingface.co/spaces/BlinkDL/ChatRWKV-gradio) - RWKV Based Chatbot / [Discord](https://discord.com/invite/bDSBUMeFpc)
@@ -4295,7 +4299,7 @@
 * [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [TurboGPT](https://github.com/mikebpech/turbogpt.ai) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
 * [docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT Google Docs Addon
 * [ChatGPTBox](https://github.com/josStorer/chatGPTBox) - ChatGPT Browser Extensions
-* [chatgpt-discord-bot](https://github.com/TuringAI-Team/chatgpt-discord-bot), [ChatGPTDiscord](https://github.com/ausbitbank/ChatGPTDiscord), [CharacterAI](https://github.com/drizzle-mizzle/CharacterAI-Discord-Bot) or [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - ChatGPT for Discord
+* [chatgpt-discord-bot](https://github.com/TuringAI-Team/chatgpt-discord-bot), [ChatGPTDiscord](https://github.com/ausbitbank/ChatGPTDiscord), [CharacterAI](https://github.com/drizzle-mizzle/CharacterAI-Discord-Bot), [SallyBot](https://github.com/DeSinc/SallyBot/) or [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - ChatGPT for Discord
 * [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) / [2](https://github.com/n3d1117/chatgpt-telegram-bot) / [3](https://github.com/watscho/chat-gpt-telegram-bot) or [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT for Telegram
 * [WeChat ChatGPT](https://github.com/fuergaosi233/wechat-chatgpt) - ChatGPT for WeChat
 * [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - ChatGPT for Slack
@@ -4326,6 +4330,7 @@
 * [OrdinaryPeoplePrompts](https://www.ordinarypeopleprompts.com/) - Prompt Directory
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) or [PromptBot](https://www.messengerx.io/promptbot) - Prompt Generators
 * [PromptPerfect](https://promptperfect.jina.ai/) - Prompt Optimizer
+* [promptfoo](https://github.com/typpo/promptfoo) - Test / Compare Prompts
 * [botprompts](https://botprompts.net/) - Fun Prompts
 * [ChatGPT-History](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Prompt Management Extensions
 * [/r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/) or [/r/GPT_Jailbreaks](https://www.reddit.com/r/GPT_jailbreaks/) - GPT Jailbreak Subreddits
@@ -4436,7 +4441,7 @@
 * ⭐ **[Craiyon](https://www.craiyon.com/)** - AI Image Generator / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
 * ⭐ **[Kandinsky2](https://fusionbrain.ai/diffusion)** - AI Image Generator / [Github](https://github.com/ai-forever/ru-dalle) / [Demo](https://rudalle.ru/kandinsky2)
 * ⭐ **[DeepAI](https://deepai.org/machine-learning-model/stable-diffusion)** / [2](https://deepai.org/machine-learning-model/text2img) - AI Image Generator / [Tools](https://deepai.org/apis)
-* ⭐ **[Lexica](https://lexica.art/)**, [PixAI](https://pixai.art/), [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images), [ArtHub.ai](https://arthub.ai/) or [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
+* ⭐ **[Lexica](https://lexica.art/)**, [SeaArt](https://www.seaart.ai/), [PixAI](https://pixai.art/), [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images), [ArtHub.ai](https://arthub.ai/) or [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
 * ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** / [2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Determine Likely Used Image Prompts
 * ⭐ **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
@@ -5324,7 +5329,7 @@
 * ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Record / Convert Audio / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ffmpeg_tools)
 * ⭐ **[Equalizer APO](https://equalizerapo.com/)**, **[AutoEq](https://github.com/jaakkopasanen/AutoEq)**, [PeaceEqualizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) or [SonyHeadphonesClient](https://github.com/Plutoberth/SonyHeadphonesClient) - Audio Equalizers
 * ⭐ **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - Audio Visualization Resource Index 
-* ⭐ **[Determine Audio File Quality](https://redd.it/3l0yxp)**, [Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](https://spek.cc/), [FakinTheFunk](https://rentry.co/FakinTheFunk) or [Spectro](http://spectro.enpts.com/) - Determine Quality of Audio Files
+* ⭐ **[Determine Audio File Quality](https://redd.it/3l0yxp)**, [Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](https://spek.cc/), [FakinTheFunk](https://rentry.co/FakinTheFunk), [DFT](https://webfft.net/dft/) or [Spectro](http://spectro.enpts.com/) - Determine Quality of Audio Files / Spectograms
 * ⭐ **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)** - Audio Compression Examples
 * ⭐ **[Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification)** - Identify Playing Songs
 * [Scarbir](https://www.scarbir.com/) or [Crinacle](https://crinacle.com/) - Headset & Earphone Comparisons
@@ -6157,7 +6162,7 @@
 * [PreMiD](https://premid.app/) - Display internet activity in Discord status / [Github](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.gg/WvfVZ8T)
 * [Alternatives to MEE6](https://alternativestomee6.com/) - [Discord](https://discord.gg/WrbMdWHfNd)
 * [Divider Generator](https://jsfiddle.net/Davri/wf49xnob/159/) - Create Discord Role Dividers Discord Role
-* [chatgpt-discord-bot](https://github.com/TuringAI-Team/chatgpt-discord-bot), [ChatGPTDiscord](https://github.com/ausbitbank/ChatGPTDiscord), [CharacterAI](https://github.com/drizzle-mizzle/CharacterAI-Discord-Bot) or [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - ChatGPT for Discord
+* [chatgpt-discord-bot](https://github.com/TuringAI-Team/chatgpt-discord-bot), [ChatGPTDiscord](https://github.com/ausbitbank/ChatGPTDiscord), [CharacterAI](https://github.com/drizzle-mizzle/CharacterAI-Discord-Bot), [SallyBot](https://github.com/DeSinc/SallyBot/) or [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - ChatGPT for Discord
 * [MonitoRSS](https://monitorss.xyz/), [2](https://github.com/synzen/MonitoRSS-Clone) - RSS Discord Bot
 * [Wallabot](https://github.com/FahadBinHussain/wallabot) - Wallabag Discord Bot
 * [MovieNightBot](https://github.com/Chopknee/MovieNightBot) - Movie Night Voting Bot
@@ -6292,6 +6297,7 @@
 * [GoriThemes](https://t.me/GoriThemes) - Telegram Themes
 * [Callmebot](https://www.callmebot.com/) - Trigger Voice Calls or Chats
 * [Skeddy](https://skeddy.me/) - Telegram Reminder Bot
+* [SaveDay](https://www.save.day/) - Telegram Bookmarking AI
 * [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) / [2](https://github.com/n3d1117/chatgpt-telegram-bot) / [3](https://github.com/watscho/chat-gpt-telegram-bot) or [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT for Telegram
 * [TgStory](https://github.com/dishapatel010/TgStory) - Instagram Style Stories Bot
 * [CloneChat](https://github.com/apenasrr/clonechat) - Clone Telegram Chats
@@ -6710,7 +6716,7 @@ Twitch Stream Tracker
 * [NeatMouse](https://neatdecisions.com/products/neatmouse/) - Mouse / Keyboard Emulator
 * [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design & Test Virtual Keyboards
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Re-Map Mouse Buttons / Scroll Wheel
-* [SharpKeys](https://github.com/randyrants/sharpkeys/) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts
+* [SharpKeys](https://github.com/randyrants/sharpkeys/), [Ergogen](https://ergogen.xyz/) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts
 * [Mouseable](https://github.com/wirekang/mouseable) - Replace Mouse with Keyboard
 * [Econap](https://www.econap.de/) - Prevent Sleep Mode
 * [MoveMouse](https://sites.google.com/a/windandkite.co.uk/movemouse/home) or [MouseJiggler](https://github.com/arkane-systems/mousejiggler)  - Simulate User Activity 
@@ -6805,7 +6811,7 @@ Twitch Stream Tracker
 * [DesktopMagic](https://github.com/Stone-Red-Code/DesktopMagic) - Desktop Customization
 * [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Community
 * [WindowsCustomization](https://windowscustomization.com/), [WinCustomize](https://www.wincustomize.com/), [Win10 DeviantArt](https://www.deviantart.com/tag/windows10), [WinClassic](https://winclassic.boards.net/) or [7Themes](https://7themes.su/) - Desktop Customization / Themes / Wallpapers etc.
-* [msstyleEditor](https://github.com/nptr/msstyleEditor) - Windows Visual Style Editor
+* [msstyleEditor](https://github.com/nptr/msstyleEditor) or [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Windows Visual Style Editors
 * [DynaWin](https://github.com/Apollo199999999/DynaWin) or [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Dynamic Desktop Themes
 * [SecuredUxTheme](https://github.com/namazso/SecureUxTheme) or [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en) - Ux Theme Patcher
 * [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) - Theme Source Patcher
@@ -7009,6 +7015,8 @@ Twitch Stream Tracker
 * [PDF Host](https://pdfhost.io/) - Upload, Store and Share PDF Files 
 * [PDFx](https://www.metachris.com/pdfx/) or [Tabula](https://tabula.technology/) - Extract Info / URLs from PDF
 * [PDFGrep](https://pdfgrep.org/) - PDF Text Search
+[invert-pdf.club](https://invert-pdf.club/) - Invert PDF Color / [Github](https://github.com/keotl/invert-pdf)
+* [invert-pdf.club](https://invert-pdf.club/) - PDF Color Inverter
 * [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
 * [PDFConverter](https://www.pdfconverter.com/) or [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Convters 
 * [Adobe Compress PDF](https://www.adobe.com/acrobat/online/compress-pdf.html) - PDF Compressor
@@ -17580,7 +17588,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Summary Generator
 
-[Skimcast](http://www.skimcast.com/), [SummaryGenerator](https://summarygenerator.com/), [Scholarcy](https://www.scholarcy.com) / [Chrome](https://chrome.google.com/webstore/detail/scholarcy-research-paper/oekgknkmgmaehhpegfeioenikocgbcib), [Resoomer](http://www.resoomer.com/), [SMMRY](https://smmry.com/), [Summari](https://www.summari.com/), [summarize.site](https://github.com/clmnin/summarize.site/), [kagi](https://kagi.com/summarizer/index.html), [whatispoint](https://www.whatispoint.xyz/), [MyReader](https://www.myreader.io/)
+[Skimcast](http://www.skimcast.com/), [SummaryGenerator](https://summarygenerator.com/), [Scholarcy](https://www.scholarcy.com) / [Chrome](https://chrome.google.com/webstore/detail/scholarcy-research-paper/oekgknkmgmaehhpegfeioenikocgbcib), [Resoomer](http://www.resoomer.com/), [SMMRY](https://smmry.com/), [Summari](https://www.summari.com/), [summarize.site](https://github.com/clmnin/summarize.site/), [kagi](https://kagi.com/summarizer/index.html), [whatispoint](https://www.whatispoint.xyz/), [MyReader](https://www.myreader.io/), [summate](https://summate.it/)
 
 ***
 
@@ -17616,7 +17624,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[HWiNFO](https://www.hwinfo.com/)**
 
-[phwmon](https://gitlab.com/o9000/phwmon), [Netdata](https://www.netdata.cloud/), [bottom](https://github.com/ClementTsang/bottom), [MangoHud](https://github.com/flightlessmango/MangoHud), [OpenHardwareMonitor](https://openhardwaremonitor.org/) / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor), [btop](https://github.com/aristocratos/btop), [Glances](https://nicolargo.github.io/glances/), [Taskbar Stats](https://openhoangnc.github.io/taskbar-stats/), [WinBar](http://www.winbar.nl/), [FanControl](https://getfancontrol.com/) / [Github](https://github.com/Rem0o/FanControl.Releases),[SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics)
+[phwmon](https://gitlab.com/o9000/phwmon), [Netdata](https://www.netdata.cloud/), [bottom](https://github.com/ClementTsang/bottom), [MangoHud](https://github.com/flightlessmango/MangoHud), [OpenHardwareMonitor](https://openhardwaremonitor.org/) / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor), [btop](https://github.com/aristocratos/btop), [Glances](https://nicolargo.github.io/glances/), [Taskbar Stats](https://openhoangnc.github.io/taskbar-stats/), [WinBar](http://www.winbar.nl/), [FanControl](https://getfancontrol.com/) / [Github](https://github.com/Rem0o/FanControl.Releases),[SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics), [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
 
 ***
 
@@ -18785,6 +18793,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - Privacy Focused Browsers
 * ⭐ **[Vytal.io](https://vytal.io/)**, [PrivacyTests](https://privacytests.org/), [EverySiteKnows](http://everysiteknows.ferrucc.io/), [FirstPartySimulator](https://firstpartysimulator.org/), [PersonalData](https://personaldata.info/) or [WEBKAY](https://webkay.robinlinus.com/) - Browser Tracking Tests
 * ⭐ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls)** - URL Encoding / Decoding Tools
+* ⭐ **[CloakStream](https://proxy-download.cdxfedcxadsdcsdxz.workers.dev/)** - Encrypt Download URLs
 * ⭐ **[alternative-front-ends](https://github.com/mendel5/alternative-front-ends)** / [2](https://rentry.co/8kqrrn), [Farside](https://farside.link/) or [alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - Frontend Index
 * ⭐ **[PrivacySpy](https://privacyspy.org/)** - Grades a Sites Privacy Policies 
 * ⭐ **[ACCOUNTKILLER](https://www.accountkiller.com/)** or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - Find / Terminate Old Accounts 
@@ -19471,6 +19480,7 @@ Add the following commands to a search to manually scrape each site.
 * [Google Maps Snake](https://snake.googlemaps.com/) - Google Snake
 * [Snake-Game](https://www.onemotion.com/snake-game/) - 3D Snake
 * [QuineSnake](https://github.com/taylorconor/quinesnake) - Quine Source Snake
+* [Duck-Hunt](https://grosbouddha.github.io/duckhunt/) - Duck Hunt
 * [TENNIS!](https://snek-vunderkind.vercel.app/games/tennis.html) - JavaScript Pong
 * [ProAsm](http://www.proasm.com/) - Retro Game Mods
 * [Muds](https://muds.fandom.com/wiki/) - Text Adventure ROM Wiki
