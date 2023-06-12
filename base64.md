@@ -18,11 +18,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 `aHR0cHM6Ly9maWxlY3IuY29tLz9zPVFGWCtLZXlTY3JhbWJsZXIrUHJvZmVzc2lvbmFs`
 
-***
-
-#### Rinzry
-
-`aHR0cHM6Ly9yaW56cnkuc3RyZWFtLw==`
 
 ***
 
