@@ -450,7 +450,6 @@ Simulator
 * [EverySecond](https://everysecond.io/) - Visualize Per Second Data
 * [Internet Live Stats](https://www.internetlivestats.com/) - Live Internet Statistics
 * [Stat Counter](https://gs.statcounter.com/) - Search Engine, Browser and OS Statistics
-* [The Federation](https://the-federation.info/) - Fediverse Statistics
 * [US Debt Clock](https://www.usdebtclock.org/) - US Debt Clock
 * [Statista](https://www.statista.com/) - Market Statistics
 * [OEC](https://oec.world/en) - International Trade Data
