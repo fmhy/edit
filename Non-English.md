@@ -492,7 +492,6 @@
 * [RR.Topliste](https://toplist.raidrush.ws/) - Piracy Site List
 * [xrel](https://www.xrel.to/) - Scene Release / P2P Tracker
 * [Boerse](https://boerse.am/) - German Data Sharing Discussion Forum
-* [mediathekviewweb](https://mediathekviewweb.de/) - Direct download links to Media Libraries of TV stations
 * [TrustScam](https://trustscam.de/) - Website Security Analysis
 * [Metager](https://metager.de/) - Search Engine
 
@@ -549,6 +548,7 @@
 * [dtvd](https://dtvd.net/) - Live TV
 * [2ix2](https://www.2ix2.com/) - Live TV
 * [tvpinto](https://www.tvpinto.com/) - Live TV
+* [mediathekviewweb](https://mediathekviewweb.de/) - IPTV 
 * [hoerspielprojekt](https://www.hoerspielprojekt.de/) - Radio Plays
 * [forschung](https://forschung-kuenstlerpublikationen.de/Werke.html) - Rare LPs
 * [ProxerAndroid](https://github.com/proxer/ProxerAndroid) - Android / Anime
