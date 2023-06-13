@@ -492,7 +492,7 @@
 * [RR.Topliste](https://toplist.raidrush.ws/) - Piracy Site List
 * [xrel](https://www.xrel.to/) - Scene Release / P2P Tracker
 * [Boerse](https://boerse.am/) - German Data Sharing Discussion Forum
-* [mediathekviewweb](https://mediathekviewweb.de/) - Hacker News
+* [mediathekviewweb](https://mediathekviewweb.de/) - Direct download links to Media Libraries of TV stations
 * [TrustScam](https://trustscam.de/) - Website Security Analysis
 * [Metager](https://metager.de/) - Search Engine
 
