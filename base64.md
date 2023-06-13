@@ -1288,12 +1288,6 @@ pass: paluch
 
 ***
 
-#### Sandboxie Pro
-
-`aHR0cHM6Ly9wYXN0ZWJpbi5jb20vcmF3L1lXWGR4RERM`
-
-***
-
 #### Onion Directories
 
 `aHR0cHM6Ly9yZW50cnkuY28vT25pb25EaXJlY3Rvcmllcw==`
