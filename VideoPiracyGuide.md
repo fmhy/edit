@@ -447,7 +447,7 @@
 * [SportsReplay](https://discord.com/invite/2r4pj67gCv) - [F1](https://racereplay.net/) / [MMA](https://fullfights.net/)
 * [Hula8](https://www.hula8.net/) - MMA
 * [Bellator](https://www.bellator.com/video) - MMA
-* [MMACore](https://www.mma-core.com/videos/home) - MMA
+* [MMACore](https://www.mma-core.com) - MMA
 * [BoxingBoxingvideoideo](https://boxingvideo.org/) - Boxing
 * [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / K1
 * [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports
