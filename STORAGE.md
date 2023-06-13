@@ -1010,7 +1010,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ⭐ **[Playnite](https://playnite.link/)** / [Extensions](https://github.com/darklinkpower/PlayniteExtensionsCollection) / [Achievements](https://github.com/Lacro59/playnite-successstory-plugin)
 * ⭐ **[GoG Galaxy](https://www.gog.com/galaxy)**
-* ⭐ **[ProjectBlackPearl](https://github.com/ProjectBlackPearl/project_black_pearl)**
+* ⭐ **[ProjectBlackPearl](https://github.com/BlackPearlOrigin/blackpearlorigin)**
 
 [Launchbox](https://www.launchbox-app.com/), [GameHub](https://tkashkin.github.io/projects/gamehub/) / [GitHub](https://github.com/tkashkin/GameHub), [Arc](https://www.arcgames.com/en/about/client), [Gnome Games](https://wiki.gnome.org/Apps/Games), [Fuzion](https://fuzion.gg/)
 
