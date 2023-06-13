@@ -20,12 +20,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ***
 
-#### Rinzry
-
-`aHR0cHM6Ly9yaW56cnkuc3RyZWFtLw==`
-
-***
-
 #### 50TB Mega Drive
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci8wMUYyWGJnQSN1MlNpNUpMMlZkMGhBZDdzWVU1OWlnL2ZvbGRlci9BbzEySEJRSQ==`
