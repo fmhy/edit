@@ -27,7 +27,6 @@
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28)
 * [Shiba](https://github.com/nbats/FMHYedit/blob/main/base64.md#shiba)
 * [KL Teamdrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#kl-teamdrive)
-* [Cloud Eleventh Hour](https://github.com/nbats/FMHYedit/blob/main/base64.md#cloud-eleventh-hour)
 * [Xtremecloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#xtremecloud)
 * [smolOD](https://github.com/nbats/FMHYedit/blob/main/base64.md#smolod) - Small Open Directories
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
