@@ -261,7 +261,7 @@
 * [Gligen](https://huggingface.co/spaces/gligen/demo) - Open-Set Grounded Text-to-Image Generation
 * [AI Notebooks](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - AI Image Generation Colab
 * [NOP / WAS](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17) - AI Image Generation Colab
-* [AI Gahaku](https://ai-art.tokyo/en/), [Paint by Numbers](https://paint-by-number.com/pages/create-your-own-paint-by-number), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/), [InstaPainting](https://www.instapainting.com/assets/) or [Deep Dream Generator](https://deepdreamgenerator.com/) - Turn Photos into Artwork
+* [AI Gahaku](https://ai-art.tokyo/en/), [Paint by Numbers](https://paint-by-number.com/pages/create-your-own-paint-by-number), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/) or [InstaPainting](https://www.instapainting.com/assets/) - Turn Photos into Artwork
 * [Pet AI](https://petai.art/) - Turn Pet Photos into Artwork
 * [Nightmare Machine](http://nightmare.mit.edu/) - Scary AI Generated Imagery
 * [Interiorai](https://interiorai.com/) - AI Interior Design Tool
