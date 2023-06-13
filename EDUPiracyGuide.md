@@ -19,7 +19,6 @@
 * ⭐ **[Udacity](https://www.udacity.com/)** - Courses
 * ⭐ **[MitOpenCourseWare](https://ocw.mit.edu/index.htm)** - Courses
 * ⭐ **[Khan Academy](https://www.khanacademy.org/)** - Courses / [Downloader](https://github.com/rand-net/khan-dl)
-* ⭐ **[Git.ir](https://git.ir/)** - Courses
 * ⭐ **[PluralSight](https://www.pluralsight.com/)** - Free for 1 Month / [Decrypter](https://github.com/dhorseman1710/Decrypt-PluralSight-GUI)
 * ⭐ **[Limnology](https://limnology.co/)** - Educational YouTube Channel Index
 * [Awesome CS](https://github.com/prakhar1989/awesome-courses/) - Courses
