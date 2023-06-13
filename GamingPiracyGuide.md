@@ -247,7 +247,6 @@
 * [NoPayStation](https://nopaystation.com/) or [SafeROMs](https://www.saferoms.com/) - ROMs / Playstation Consoles
 * [PKGPS4](https://www.pkgps4.click/), [Game-2U](https://game-2u.com/Category/game/ps4) or [Auctor](https://auctor.tv/) - ROMs / PS4
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
-* [Xbox Fan](https://github.com/nbats/FMHYedit/blob/main/base64.md#xbox-fan) - Xbox 360 ROMs / LT Firmware & FREEBOOT / [Telegram](https://t.me/xbox_fan_games)
 * [RomHacking](https://www.romhacking.net/) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Translations and Hacks
 * [Marios Alternative](https://github.com/nbats/FMHYedit/blob/main/base64.md#hacked-super-mario) - Hacked Super Mario ROMs
 * [SMWCentral](https://smwcentral.net/) - Hacked Super Mario World ROMs
@@ -995,7 +994,6 @@
 * [H1-Mod](https://h1.gg/) - Call of Duty: Modern Warfare Remastered Client
 * [Assist](https://github.com/HeyM1ke/Assist) - Valorant Launcher
 * [Half Life Project Beta](https://hl2-beta.ru/) - Unreleased / Cut Half-Life Content
-* [GmodContent](https://fragboss.com/gmod-textures-fix-css-textures/) - Garry's Mod Content Packs
 * [EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore) - Elden Ring Fixes
 * [Peter Jackson's King Kong Fix](https://github.com/WIFIDarthMaul/Peter-Jackson-s-King-Kong-Signature-Edition-Fix) - Peter Jackson's King Kong Signature Edition Fix
 * [Textractor](https://github.com/Artikash/Textractor) - Extract Text from Games / Visual Novels
