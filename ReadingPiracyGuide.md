@@ -868,7 +868,6 @@
 * [Madokami Manga Archive](https://github.com/nbats/FMHYedit/blob/main/base64.md#madokami)
 * [The Manga Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#the-manga-library)
 * [BookDL Comic & Manga](https://github.com/nbats/FMHYedit/blob/main/base64.md#booksdl)
-* [pptenshi](https://github.com/nbats/FMHYedit/blob/main/base64.md#pptenshi)
 * [GoIndex](https://github.com/nbats/FMHYedit/blob/main/base64.md#goindex)
 * [MangaBuddy](https://mangabuddy.com)
 * [MangaHere](http://www.mangahere.cc)
