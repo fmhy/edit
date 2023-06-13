@@ -139,7 +139,7 @@ Use [this](https://wallabag.nixnet.services/) to read the article easily.
 
 ### Streaming 📽
 
-**[FMovies](https://fmovies.name/) / [movie-web](https://movie-web.app/) / [Soap2Day](https://soapgate.org/)** - Fast streaming
+**[FMovies](https://fmovies.name/) / [movie-web](https://movie-web.app/)** - Fast streaming
 **[Zoro](https://zoro.to/) / [Marin](https://marin.moe/) / [9Anime](https://www.9anime.to/)** - Fast anime streaming
 **[Dramacool](https://dramacool.cy/) / [KissAsian](https://kissasian.li/)** - Fast Asian drama streaming
 **[SportsSurge](https://sportsurge.net/)** - Live sports streaming
