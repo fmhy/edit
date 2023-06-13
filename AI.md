@@ -35,6 +35,10 @@
 * [JackChat](https://www.jackchat.ai/) - GPT-3 Based Chatbot
 * [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Autonomous GPT-4 / [GUI](https://github.com/thecookingsenpai/autogpt-gui)
 * [MiniAGI](https://github.com/muellerberndt/mini-agi) - Autonomous GPT-3.5 / GPT-4
+* [Dreamshow](https://dreamshow.ai/) - Roleplaying Chatbots
+* [Spicychat.ai](https://spicychat.ai/) - Roleplaying Chatbots
+* [Janitor AI](https://www.janitorai.com/) - Roleplaying Chatbots / [Discord](https://discord.com/invite/janitorai)
+* [Chub Venus](https://venus.chub.ai/) - Roleplaying Chatbots / [Discord](https://discord.com/invite/5byUMguqDA)
 * [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbot
 * [Chai](https://www.chai-research.com/) - Entertainment Focused Chatbots
 * [DeepAI](https://deepai.org/chat) - GPT-2 Based Chatbot
@@ -77,8 +81,8 @@
 * ⭐ **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
 * ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
+* ⭐ **[UseChatGPT.AI](https://www.usechatgpt.ai/)** or [ChatWebpage](https://chatwebpage.com/) - Turn Webpages into Chatbots
 * ⭐ **[AI Playground](https://play.vercel.ai/)** or [ChatHub](https://chathub.gg/) - Compare AI Responses
-* [ChatWebpage](https://chatwebpage.com/) - Turn Webpages into Chatbots
 * [ChatBlade](https://github.com/npiv/chatblade) - ChatGPT CLI
 * [engshell](https://github.com/emcf/engshell) or [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT in TUIs
 * [YakGPT](https://yakgpt.vercel.app/), [BetterGPT](https://bettergpt.chat/) or [TurboGPT.ai](https://turbogpt.ai/) - ChatGPT WebUIs
@@ -226,8 +230,9 @@
 * ⭐ **[Bing](https://www.bing.com/images/create)** - Dall-E Based AI Image Generator
 * ⭐ **[Craiyon](https://www.craiyon.com/)** - AI Image Generator / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
 * ⭐ **[Kandinsky2](https://fusionbrain.ai/diffusion)** - AI Image Generator / [Github](https://github.com/ai-forever/ru-dalle) / [Demo](https://rudalle.ru/kandinsky2)
+* ⭐ **[Adobe Firefly](https://firefly.adobe.com/)** - AI Image Generator / [Discord](https://discord.com/invite/dJnsV5s8PZ)
 * ⭐ **[DeepAI](https://deepai.org/machine-learning-model/stable-diffusion)** / [2](https://deepai.org/machine-learning-model/text2img) - AI Image Generator / [Tools](https://deepai.org/apis)
-* ⭐ **[Lexica](https://lexica.art/)**, [SeaArt](https://www.seaart.ai/), [PixAI](https://pixai.art/), [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images), [ArtHub.ai](https://arthub.ai/) or [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
+* ⭐ **[Lexica](https://lexica.art/)**, [PicFinder](https://picfinder.ai/), [SeaArt](https://www.seaart.ai/), [PixAI](https://pixai.art/), [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images), [Maze.guru](https://maze.guru/gallery), [ArtHub.ai](https://arthub.ai/) or [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
 * ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** / [2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Determine Likely Used Image Prompts
 * ⭐ **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
@@ -237,6 +242,8 @@
 * [Pinegraph](https://pinegraph.com/create) - Image Transformation / Sketchpad
 * [Patience.ai](https://www.patience.ai/) - Multiple AI Image Generators
 * [StableCog](https://stablecog.com/) - AI Image Generator / [Discord](https://discord.com/invite/AJyYd6AUEn) / [Github](https://github.com/stablecog/stablecog)
+* [Pollination](https://pollinations.ai/) - AI Image Generator / [Discord](https://discord.com/invite/8HqSRhJVxn)
+* [Leonardo.ai](https://app.leonardo.ai/) - Text to Image
 * [Prodia](https://app.prodia.com/) - AI Image Generator
 * [Visuali](https://visuali.io/) - AI Image Generator
 * [Ocriador](https://ocriador.app/) - AI Image Generator
@@ -338,6 +345,7 @@
 
 # ► Audio Generators
 
+* ⭐ **[MusicGen](https://huggingface.co/spaces/facebook/MusicGen)** - Text to Music AI
 * [Wolfram Tones](https://tones.wolfram.com/)
 * [audio visual generator](https://fredericbriolet.com/avg/)
 * [Fake Music Generator](https://www.fakemusicgenerator.com/)
