@@ -1539,7 +1539,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Lunar Client](https://www.lunarclient.com/)** or [Moony](https://github.com/couleur-tweak-tips/Moony)
 * ⭐ **[PollyMC](https://github.com/fn2006/PollyMC)** / [Workarounds](https://pastebin.com/L3rMT1NM)
 * ⭐ **[UltimMC](https://github.com/UltimMC/Launcher)**
-* ⭐ **[SkLauncher](https://skmedix.pl/sklauncher)**
+* ⭐ **[SkLauncher](https://skmedix.pl/)**
 * ⭐ **[ATLauncher](https://atlauncher.com/)** / [Crack](https://github.com/Domaman202/ATLauncher-Crack)
 * ⭐ **[PrismLauncher](https://prismlauncher.org/)** / [GitHub](https://github.com/PrismLauncher/PrismLauncher) / [Offline Account](https://rentry.co/Prism4Free)
 
