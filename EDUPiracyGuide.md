@@ -1012,7 +1012,7 @@ Simulator
 * [CompSciLib](https://www.compscilib.com/) - Computer Science Tools
 * [Niche](https://www.niche.com/), [TheUniGuide](https://www.theuniguide.co.uk/) or [Top Universities](https://www.topuniversities.com/) - University / School Comparisons
 * [BachelorStudies](https://bachelorstudies.com/) - Bachelor Degree Search
-* [College Map](https://nces.ed.gov/ipeds/collegemap/) - College Information Map
+* [NCES](https://nces.ed.gov/) - Education Statistics and Tools
 * [RateMyDorm](https://ratemydorm.com) or [:)](https://docs.google.com/document/d/14Mn1CrA-CV5YZAkOZtrMKTmn2O4oL-2EhIXhzXZbO0A/edit#) - College Dorm Reviews
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - Professor Ratings
 * [Edu VPN](https://www.eduvpn.org/) - Institute Access VPN
