@@ -152,7 +152,7 @@
 * [PokeGB](https://github.com/binji/pokegb) - Pokémon Blue Emulator
 * [Cemu Guide](https://cemu.cfw.guide/) or [/r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - Cemu / BOTW Optimization Guides
 * [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
-* [Switch Emu Guides](https://github.com/Abd-007/Switch-Emulators-Guide), [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) / [2](https://docs.google.com/document/d/1weVLWey3RePzn8LubFRFHRVkoczCbLkvSf8fNfp1yZ0/edit) / [3](https://github.com/PrincessAkira/road-to-yuzu-without-switch), [Ryujinx Guide](https://docs.google.com/document/d/1prxOJaE4WhPeYNHW17W5UaWZxDgB8e5wNHxt2O4FKvs/edit) - Switch Emulator Setup Guides
+* [Switch Emu Guides](https://github.com/Abd-007/Switch-Emulators-Guide), [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) / [2](https://docs.google.com/document/d/1weVLWey3RePzn8LubFRFHRVkoczCbLkvSf8fNfp1yZ0/edit) / [3](https://github.com/PrincessAkira/road-to-yuzu-without-switch) / [4](https://rentry.org/128bb), [Ryujinx Guide](https://docs.google.com/document/d/1prxOJaE4WhPeYNHW17W5UaWZxDgB8e5wNHxt2O4FKvs/edit) - Switch Emulator Setup Guides
 * [Pineappleea](https://pineappleea.github.io/), [128Bit Yuzu](https://mostlywhat.github.io/128Bit-Yuzu-Installer/) or [Yuzu-Updater](https://github.com/sinscove/Yuzu-Updater) - Yuzu Updater
 * [YuzuModDownloader](https://github.com/amakvana/YuzuModDownloader) - Yuzu Mod Downloader
 * [LiftInstall](https://github.com/pineappleEA/liftinstall) - Yuzu App Installer
@@ -456,6 +456,7 @@
 * [PopTropica](https://www.poptropica.com/) - Browser Adventure Game
 * [TotalJerkFace](https://totaljerkface.com/) - Happy Wheels & Other Games
 * [ConnectTheStars](https://connectthestars.xyz/) or [Movie To Movie](https://movietomovie.com/) - Connect Stars through Movies
+* [Startup Simulator](https://toggl.com/startup-simulator/) - Startup Simulation Game
 * [Blaseball](https://www.blaseball.com/) - Odd Baseball Simulation Game
 * [Friday Night Funkin](https://ninja-muffin24.itch.io/funkin) or [Bemuse](https://bemuse.ninja/) - Rhythm Game / [Prototype](https://ninja-muffin24.itch.io/friday-night-funkin)
 * [Text Adventures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_adventures) - Interactive Text Adventures
@@ -494,6 +495,7 @@
 * [Kingdom of Loathing](https://www.kingdomofloathing.com/) - Comedy RPG 
 * [Bruno-Simon](https://bruno-simon.com/) - Truck Driving Game
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
+* [s l o w  r o a d s](https://slowroads.io/) - Driving Game
 * [JoeDangerTheGame](https://joedangerthegame.com/) - Trials Inspired Game
 * [A Leaf on the Wind](http://anism.org/lotw/) - Leaf Arcade Game 
 * [Polka Dot Game](https://www.polkadotgame.com/) - Dodge & Eat Dots
@@ -551,6 +553,7 @@
 * [Wings.io](http://wings.io/) - Plane Battles
 * [Gpop.io](http://gpop.io/) - Rhythm Game
 * [Curve Fever](https://curvefever.pro/) - Line Battles
+* [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
 * [LOLBeans](https://lolbeans.io/) - "Fall guys" like game
 * [Betrayal](https://betrayal.io/) - "Among Us" like game
 * [BrainChef](http://brainchef.com/) - Browser MMORPG
@@ -637,6 +640,7 @@
 * ⭐ **[Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/)**, [Wordle Unlimited](https://wordleunlimited.org/), [Huedle](https://huedle.com/), [Chessle](https://jackli.gg/chessle), [BoxOfficeGA](https://boxofficega.me/), [Wordversary](https://wordversary.com/), [Alphabeticle](https://alphabeticle.xyz/), [WordMaze](https://wordmaze.click/), [Clidle](https://github.com/ajeetdsouza/clidle), [WordleGame](https://wordlegame.org/), [Squaredle](https://squaredle.app/), [Tweakdle](https://tweakdle.chariz.com/) or [Wordlevs](https://wordlevs.com/) - Wordle Games / [Analyzer](https://wordle-analyzer.com/) / [Solver](https://github.com/jonhoo/roget)
 * ⭐ **[BestCrosswords](https://www.bestcrosswords.com/)**, [USAToday](https://games.usatoday.com/category/word), [TheWordSearch](https://thewordsearch.com/) or [Regex-Crossword](https://jimbly.github.io/regex-crossword/) - Crossword Puzzles / [Creator](https://puzzlemaker.discoveryeducation.com/) / [Solver](https://www.wordplays.com/), [2](https://www.dictionary.com/e/crosswordsolver/)
 * ⭐ **[KillerCrossword](https://killercrossword.com/)** - No Clue Crosswords
+* [HoverCats](https://hovercats.gg/) - Multiplayer Crosswords
 * [Regex Cross­word](https://regexcrossword.com/) - Regex Cross­words
 * [XWords](https://www.xwords-generator.de/en) - Crossword Puzzle Creators
 * [eWordChallenge](https://www.ewordchallenge.net/) - Boggle
@@ -706,6 +710,7 @@
 * [20Q](http://www.20q.net/), [Guessdle](https://www.guessdle.com/) or [Akinator](https://en.akinator.com/) - 20 Questions
 * [ChatGuessr](https://chatguessr.com/) - GeoGuessr for Twitch
 * [GTA V GeoGuesser](https://gta-geoguesser.com/) - GTA V GeoGuessr
+* [Home Guesser](https://projects.dyscott.xyz/home-guesser/) - Homestyles GeoGuessr
 * [GeoArtwork](https://artsandculture.google.com/experiment/geo-artwork/wgEPVBAUiRVlEQ) - Guess Origins of Cultural Artifacts 
 * [GuessMe!](https://zetoman77.itch.io/guessme) - Guess Answers
 * [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
@@ -1017,7 +1022,7 @@
 
 * ⭐ **[System Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_optimization)** - General System Optimization Tools
 * ⭐ **[PCGamingWiki](https://www.pcgamingwiki.com/)** - Game Info, Bug Fixes & Optimization
-* ⭐ **[SystemRequirmentsLab](https://www.systemrequirementslab.com/cyri/)**, [Game Debate](https://game-debate.com/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Test
+* ⭐ **[SystemRequirmentsLab](https://www.systemrequirementslab.com/cyri/)**, [Game Debate](https://game-debate.com/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Tests
 * ⭐ **[ProSettings](https://prosettings.net/)** - In-Game Settings Optimization Guides
 * ⭐ **[DisplayMagician](https://github.com/terrymacdonald/DisplayMagician)** - Per-Game Display Profiles
 * [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html) or [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - System Gaming Tweak Guides
