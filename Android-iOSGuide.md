@@ -281,7 +281,7 @@
 * [Water Resistance Tester](https://play.google.com/store/apps/details?id=com.ray.waterresistancetester) - Test Phones Water Resistance
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Make Your Phone Less Distracting
 * [Phonetones](http://onj3.andrelouis.com/phonetones/) - Ringtones Directory
-* [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3), [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Managers
+* [RBoard](https://forum.xda-developers.com/t/app-rboard-theme-manager.4331445/) / [GitHub](https://github.com/DerTyp7214/RboardThemeManagerV3), [Egg Project](https://play.google.com/store/apps/details?id=com.drsants.eggproject), [Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) or [Substratum](https://www.xda-developers.com/substratum-hub/) - Theme Managers
 * [AlwaysOnEdge](http://www.aoeapps.com/) or [Dashbud](https://dashbud.dev/) / [Discord](https://discord.com/invite/78h7xgj) - Android Customization Apps
 * [VirtualXposed](https://virtualxposed.com/) or [LSPosed](https://github.com/LSPosed/LSPosed) - Xposed Frameworks
 * [Palette](https://play.google.com/store/apps/details?id=com.ald.devs47.sam.beckman.palettesetups) - Custom Home Screens
@@ -327,6 +327,7 @@
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [Arna Translate](https://github.com/MahanRahmati/translate), [Instalate](https://gitlab.com/concept1tech/instalate), [TranslateYou](https://github.com/Bnyro/TranslateYou), [SimplyTranslate](https://github.com/ManeraKai/simplytranslate_mobile) or [SimplyTranslate Flutter](https://github.com/ManeraKai/simplytranslate_mobile) - Translation Apps
 * [Binko](https://www.binko.ai/) - Translation Chat App
 * [NativeAlpha](https://play.google.com/store/apps/details?id=com.cylonid.nativealpha) - Run Websites in Borderland Window
+* [Folder in Folder](https://play.google.com/store/apps/details?id=com.ss.folderinfolder) - Create Subfolders
 * [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) - Create App Shortcuts
 * [Surfable](https://surfable.app/) - Install Any Website as App / [GitHub](https://github.com/sandoche/Surfable-app)
 * [Panels](https://play.google.com/store/apps/details?id=com.fossor.panels&hl=en_US&gl=QA) or [1 Edge](https://play.google.com/store/apps/details?id=com.hiruffy.controller) - Android Sidebar Panel
@@ -423,6 +424,7 @@
 * [Green Screens](https://play.google.com/store/search?q=green%20screen&c=apps) - Green Screens for Android
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [Nekogram](https://nekogram.app/), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram X](https://github.com/CatogramX/CatogramX), [Nagram](https://github.com/nextalone/nagram), [Telegraher](https://github.com/nikitasius/Telegraher/), [exteraGram](https://github.com/exteraSquad/exteraGram), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [MDGramYou](https://play.google.com/store/apps/details?id=org.telegram.mdgram) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram Clients
 * [Uploadgram](https://github.com/Uploadgram/app) - Telegram File Upload
+* [Telegram Themer](https://play.google.com/store/apps/details?id=com.therxmv.telegramthemer) - Custom Telegram Themes
 * [Magic ToolFlash](https://www.xda-developers.com/magic-toolflash-magisk-module/) - ZIP Packages from Android
 * [icq](https://icq.com/) - Messaging App
 * [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Megalodon](https://sk22.github.io/megalodon/), [Husky](https://git.mentality.rip/FWGS/Husky), [Megalodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android.sk) / [GitHub](https://github.com/sk22/megalodon#installation), [Dimett](https://github.com/MateriiApps/Dimett) or [Tusky](https://tusky.app/) - Mastodon Clients / [Improved Notifications](https://github.com/LucasGGamerM/moshidon)
@@ -545,7 +547,7 @@
 * [Odin](https://www.odindownload.com/) or [IVTheme](https://www.ivtheme.com/) - ROM Flashing Tools
 * [UniPatcher](https://github.com/btimofeev/UniPatcher) - ROM Patcher
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice), [phonetrack](https://gitlab.com/eneiluj/phonetrack-oc) / [2](https://gitlab.com/eneiluj/phonetrack-android) or [AutoWhatsAppTriggers](https://play.google.com/store/apps/details?id=om.roitman.autowhatsapptriggers) - Track Phones Location
-* [OwnTracks](https://owntracks.org/), [Hauk](https://github.com/bilde2910/Hauk), [GPSCockpit](https://github.com/woheller69/gpscockpit) or [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) - Track Own Location
+* [OwnTracks](https://owntracks.org/), [Hauk](https://github.com/bilde2910/Hauk), [Positional](https://play.google.com/store/apps/details?id=app.simple.positional.lite), [GPSCockpit](https://github.com/woheller69/gpscockpit) or [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) - Track Own Location
 * [PhoneAccount Abuse Detector](https://play.google.com/store/apps/details?id=space.linuxct.phoneaccountdetector) - Android Emergency Calling Bug Check
 * [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451), [SkyHawk](https://skyhawkrecovery.github.io/) / [GitHub](https://github.com/SHRP), [PitchBlack](https://pitchblackrecovery.com/) or [OrangeFox](https://wiki.orangefox.tech/en/home) / [GitHub](https://gitlab.com/OrangeFox/misc/appdev/app) - Custom Recovery Firmware
 * [TWRP Root](https://twrp.me/) /  [Telegram](https://t.me/samsung_twrp_root/78379) or [UnofficialTWRP](https://unofficialtwrp.com/) - TWRP Root
