@@ -3349,7 +3349,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[rgadguard files](https://files.rg-adguard.net/)** / [Forum](https://forum.rg-adguard.net/)
 * ⭐ **[Bob Pony](https://bobpony.com/downloads/)**
-* ⭐ **[Windows 10 LTSC](https://aopc.dev/t/windows-10-ltsc-the-best-windows-10-version-ever.845/)** - [/r/Windows10LTSC](https://www.reddit.com/r/Windows10LTSC/)
+* ⭐ **[Windows 10 LTSC](https://aopc.dev/t/windows-10-ltsc-the-best-windows-10-version-ever.845/)** / [/r/Windows10LTSC](https://www.reddit.com/r/Windows10LTSC/)
 * [Massgravel's Index](https://massgrave.dev/genuine-installation-media.html) / [MSDL](https://massgrave.dev/msdl/) / [WindowsAddict Archive](https://web.archive.org/web/20220301153730/https://windowsaddict.ml/readme-genuine-installation-media.html) / [Pastebin Archive](https://web.archive.org/web/20211231221536/https://pastebin.com/raw/jduBSazJ)
 * [Windows ISO Google Doc](https://docs.google.com/spreadsheets/d/1zTF5uRJKfZ3ziLxAZHh47kF85ja34_OFB5C5bVSPumk/)
 * [VLSC](http://vlsc.ksu.ac.th/)
