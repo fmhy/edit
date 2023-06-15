@@ -397,7 +397,7 @@
 * [MeshLab](https://www.meshlab.net/) - 3D Mesh Processing / [GitHub](https://github.com/cnr-isti-vclab/meshlab)
 * [CadHub](https://cadhub.xyz/) - Community Hub for CAD Projects
 * [MakeHuman](http://www.makehumancommunity.org/) - 3D Humanoid Modeler
-* [posemy](https://app.posemy.art/), [MagicPoser](https://magicposer.com/), [quickposes](https://quickposes.com/en) or [justsketch](https://app.justsketch.me/) - Posing Tools
+* [PoseMy](https://app.posemy.art/), [SetPose](https://setpose.com/), [MagicPoser](https://magicposer.com/), [quickposes](https://quickposes.com/en) or [justsketch](https://app.justsketch.me/) - Posing Tools
 * [PoseManiacs](https://www.posemaniacs.com/), [Anatomy Doc](https://photos.google.com/share/AF1QipMbaSTp0BlK1kBCKVvfZzyDhcgCZQuaDBbp8v8Lj6hxnBaNh7YWoKwCPCYr-10--A?pli=1&key=cU5OaV9TVWhoMWlVZERnaEc2YVFKQTJHbnVDeWR3), [Adorkastock](https://www.adorkastock.com/) or [Anatomy360](https://anatomy360.info/anatomy-scan-reference-dump/) - Pose References
 * [FaceMaker](http://facemaker.uvrg.org/) - 3D Face / Avatar Generator
 * [Recursivity](https://gregtatum.com/poems/recursive/5/) - 3D Tree Creator
@@ -554,7 +554,7 @@
 * [Adversarial](https://adversarial.io/) - Make Images Machine-Unreadable 
 * [BetterCensorship](https://bc.betterrepack.com/) - Censor and De-censor Images
 * [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/), [OnlineEXIFViewer](https://onlineexifviewer.com/), [ExifLooter](https://github.com/aydinnyunus/exifLooter) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - EXIF / Metadata Viewers
-* [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [MAT2](https://matweb.info/), [EXIFRemove](https://www.exifremove.com/), [MGOnline](https://www.imgonline.com.ua/delete-exif.php), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [Metadata-Remover](https://github.com/Anish-M-code/Metadata-Remover), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data 
+* [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [MGOnline](https://www.imgonline.com.ua/delete-exif.php), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [Metadata-Remover](https://github.com/Anish-M-code/Metadata-Remover), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data 
 * [Pic2Map](https://www.pic2map.com/) - Image EXIF data viewer with GPS support
 * [TheExifer](https://www.thexifer.net/index.php) or [Exiv2](https://www.exiv2.org/) - Image EXIF Data Editors 
 * [Nameexif](https://us.digicamsoft.com/softnamexif.html) - Bulk Image EXIF Data Editor
