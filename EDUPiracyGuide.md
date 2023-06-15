@@ -967,7 +967,7 @@ Simulator
 * ⭐ **[Note Garden](https://notegarden.web.app/)**, [2](https://notegarden.io/) - Note Taking / Auto Courses
 * ⭐ **[StudyLion](https://github.com/StudyLions/StudyLion)** - Study Tracker / Productivity Discord Bot
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android
-* ⭐ **[OpenSyllabus](https://opensyllabus.org/**) or [LanguageDrops](https://languagedrops.com/) - Syllabus Search / Info
+* ⭐ **[OpenSyllabus](https://opensyllabus.org/)** or [LanguageDrops](https://languagedrops.com/) - Syllabus Search / Info
 * ⭐ **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [KausalFlow](https://tools.kausalflow.com/), [Zotero](https://www.zotero.org/) or [Scrible](https://www.scrible.com/)  - Research Tools
 * [Studify](https://github.com/cmcodes1/Studify) - Study Tracker / Android
 * [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - Educational Communication / iOS
