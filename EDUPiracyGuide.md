@@ -198,6 +198,7 @@
 * [udemy-downloader](https://github.com/Puyodead1/udemy-downloader) - Udemy Downloader
 * [Udemy Download Guide](https://docs.google.com/document/d/1W91OS9rj7h9DBp5UwR68lA2zMEtqNmxdGaNVmBktIaw/) - [Discord](https://discord.gg/tMzrSxQ)
 * [Linkedin_Learning](https://t.me/linkedin_learning) - Linkedin Courses
+* [Linkedin Learning Ripper](https://github.com/AKhilRaghav0/Linkedin_Learning_Ripper) - Linkedin Course Ripper
 * [CertCommunity](https://www.certcommunity.org/forum/) - IT Cert Courses
 * [Top Linux Interview Questions & Answers](https://github.com/nbats/FMHYedit/blob/main/base64.md#top-linux-interview-qas) - Linux Interview Q&A
 * [Photoshop Courses](https://github.com/nbats/FMHYedit/blob/main/base64.md#photoshop-courses) - Photoshop Course Drive
@@ -533,6 +534,7 @@ Simulator
 * [The Atlas of Moons](https://www.nationalgeographic.com/science/graphics/the-atlas-of-moons) - Interactive Index of Moons
 * [1 Pixel moon](https://www.joshworth.com/dev/pixelspace/pixelspace_solarsystem.html), [LightYear](https://www.lightyear.fm/) or [OMG SPACE](http://omgspace.net/) - Solar System Scale Model
 * [3DSolarSystem](https://theskylive.com/3dsolarsystem), [SpaceKit](https://typpo.github.io/spacekit/) - Solar System Simulators
+* [Solar System](https://solarsystem.nasa.gov/) - Learn about our Solar System
 * [The Planets](https://planets-facts-website.netlify.app/) - Learn About Planets
 * [ExoplanetExplore](https://exoplanetexplore.vercel.app) - Interactive Exoplanet Visualization
 * [Space Object Comparison](https://mr21.github.io/space-object-comparison/) - Compare Sizes Of Celestial Objects
@@ -565,7 +567,7 @@ Simulator
 # ► Virtual Tours
 
 * ⭐ **[Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/)** - Online Learning Collections / Tours
-* ⭐ **[CityHop](https://www.cityhop.cafe/)**, [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [Outside Simulator](https://outsidesimulator.com/), [CityWalks](https://citywalks.live/), [Explordle](https://www.explordle.com/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulators
+* ⭐ **[CityHop](https://www.cityhop.cafe/)**, [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [Outside Simulator](https://outsidesimulator.com/), [Japan Walkaround](https://thatguyedd.github.io/), [CityWalks](https://citywalks.live/), [Explordle](https://www.explordle.com/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulators
 * [Gez.la](https://gez.la/) - Virtual Tours Map
 * [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour
 * [Digital Giza](https://giza.mused.org/) - Great Pyramid Virtual Tours
@@ -833,6 +835,9 @@ Simulator
 * [Information Is Beautiful](https://informationisbeautiful.net/) - Data / Information / Infographics / Visualizations
 * [/r/coolguides](https://reddit.com/r/coolguides/), [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
 * [Oak National Academy](https://teachers.thenational.academy/) or [Runestone Interactive](https://runestone.academy/) - Lessons
+* [Highbrow](https://gohighbrow.com/) - Daily Lessons
+* [WTF Fun Fact](https://wtffunfact.com/) - Daily Facts
+* [AWAD Challenge](http://awadchallenge.com/) or [Word Smith](https://wordsmith.org/) - Learn New Words Daily
 * [LitCharts](https://www.litcharts.com/) - Literature Guides
 * [The Punctuation Guide](https://www.thepunctuationguide.com/) - Punctuation Guide
 * [TypeTerms](https://www.supremo.co.uk/typeterms/) - Typography Cheat Sheet
@@ -858,9 +863,21 @@ Simulator
 * [Lucid](https://apps.apple.com/us/app/lucid-learn-visually/id1482780647) - Visual Learning Guides / iOS
 * [The Problem Site](https://www.theproblemsite.com/) - Problems / Puzzles / Games
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
-* [Highbrow](https://gohighbrow.com/) - Daily Lessons
-* [WTF Fun Fact](https://wtffunfact.com/) - Daily Facts
-* [AWAD Challenge](http://awadchallenge.com/) or [Word Smith](https://wordsmith.org/) - Learn New Words Daily
+* [50Hacks](https://50hacks.co/) - Productivity Tips
+* [PhilosophyBasics](https://www.philosophybasics.com/) - Learn Basic Philosophical Concepts
+* [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
+* [Brainkit](https://www.braink.it/) - Learn Helpful Principles
+* [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
+* [Debunking Skeptics](https://www.debunkingskeptics.com/) - Pseudo-Skeptical Fallacies
+* [YourBiasIs](https://yourbias.is/) - Learn about Biases
+* [LessWrong](https://www.lesswrong.com/) - Develop Rationality / [Frontend](https://www.greaterwrong.com/)
+* [SkillsYouNeed](https://www.skillsyouneed.com/) or [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
+* [VisualizeValue](https://archivve.visualizevalue.com/) - Life Lesson Visualizations
+* [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
+* [A to Z Manners](https://www.a-to-z-of-manners-and-etiquette.com/) - Learn Manners / Etiquette
+* [/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/), [explainlikeimfive.io](https://explainlikeimfive.io/) or [ELI5 Club](https://eli5.club/) - Have Anything Explained Very Simply
+* [WikEnigma](https://wikenigma.org.uk/) - 'Known Unknowns' Wiki
+* [The XY Problem](https://xyproblem.info/) - XY Problem Explained
 * [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - The Trolley Problem
 * [GCFGlobal](https://edu.gcfglobal.org/) - Tech Tutorials
 * [CS 182 Deep learning](https://cs182sp21.github.io/) - Deep Neural Network Lesson Slides
@@ -912,21 +929,6 @@ Simulator
 * [NandGame](https://nandgame.com/) - Computer Building Puzzle
 * [Kialo](https://www.kialo.com/) or [Level Point](https://levelpoint.app/) - Debates / Discussion
 * [Tabby Cat](https://github.com/TabbycatDebate/tabbycat) - Debate Tournament Tabulation Software
-* [50Hacks](https://50hacks.co/) - Productivity Tips
-* [PhilosophyBasics](https://www.philosophybasics.com/) - Learn Basic Philosophical Concepts
-* [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
-* [Brainkit](https://www.braink.it/) - Learn Helpful Principles
-* [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
-* [Debunking Skeptics](https://www.debunkingskeptics.com/) - Pseudo-Skeptical Fallacies
-* [YourBiasIs](https://yourbias.is/) - Learn about Biases
-* [LessWrong](https://www.lesswrong.com/) - Develop Rationality / [Frontend](https://www.greaterwrong.com/)
-* [SkillsYouNeed](https://www.skillsyouneed.com/) or [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
-* [VisualizeValue](https://archivve.visualizevalue.com/) - Life Lesson Visualizations
-* [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
-* [A to Z Manners](https://www.a-to-z-of-manners-and-etiquette.com/) - Learn Manners / Etiquette
-* [/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/), [explainlikeimfive.io](https://explainlikeimfive.io/) or [ELI5 Club](https://eli5.club/) - Have Anything Explained Very Simply
-* [WikEnigma](https://wikenigma.org.uk/) - 'Known Unknowns' Wiki
-* [The XY Problem](https://xyproblem.info/) - XY Problem Explained
 * [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - Learn Wood Working
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
@@ -944,7 +946,8 @@ Simulator
 * [Hate on Display](https://www.adl.org/hate-symbols) - Hate Symbol Database
 * [SciGen](https://pdos.csail.mit.edu/archive/scigen/) - CS Paper Generator
 * [pdfparanoia](https://github.com/kanzure/pdfparanoia) - Academic Paper Watermark Removal
-* [HeroGenerator](https://discord.gg/ggBX8qqASC) - Courshero Document Generator / [Telegram](https://t.me/HeroGeneratorPure)
+* [FireBird Help](https://discord.gg/Hqk3Sa4FmZ) or [HeroGenerator](https://t.me/HeroGeneratorPure)
+- Coursehero Document Generators
 * [The Chomsky Index](https://github.com/jasons-gh/the-chomsky-index) - Noam Chomsky Content Index Tool
 * [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project
 * [P2PU](https://www.p2pu.org/) - Join Learning Groups Using Free Courses
