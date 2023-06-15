@@ -20,7 +20,8 @@ headersData = {
     "TorrentPiracyGuide.md":    [":cyclone:",           "70", "# Torrenting", "Torrent Clients, Torrent Sites, Trackers"],
     "VideoPiracyGuide.md":      [":tv:",                "120", "# Movies / TV / Anime", "Stream Videos, Download Videos, Torrent Videos"],
     "base64.md":                [":key:",               "20", "", ""],
-    "img-tools.md":             [":camera:",            "55", "# Image Tools", ""]
+    "img-tools.md":             [":camera:",            "55", "# Image Tools", ""],
+    "UnsafeSites.md":           [":warning:",           "21", "# Unsafe Sites / Software list", ""]
 }
 
 def getHeaderForPage(pageFilename):
