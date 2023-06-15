@@ -522,7 +522,6 @@
 * [HideMe](https://hide.me/) - Free VPN
 * [Calyx VPN](https://calyx.net/) - Free VPN
 * [Leap VPN](https://leap.se/) - Free VPN
-* [GreenHub](https://greenhubtx.ga/) - Free VPN
 * [Clash](https://github.com/Fndroid/clash_for_windows_pkg) - Free VPN / [Profiles](https://rentry.co/2q3rn)
 * [Portals](https://www.portalsvpn.com/) - dVPN
 * [TunnelBear](https://www.tunnelbear.com/) - Free VPN / 500mb
