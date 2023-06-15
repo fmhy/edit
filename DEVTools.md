@@ -604,7 +604,7 @@
 * [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - CSS Shadow Generator
 * [MapBox](https://www.mapbox.com/) or [leafletjs](https://leafletjs.com/) - Live Maps, Location Search & More
 * [Maps-Core](https://openmobilemaps.io/) - Mobile Map SDK
-* [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [JotForm](https://www.jotform.com/), [99Inbound](https://www.99inbound.com/), [Forms.id](https://forms.id/), [PHPForm](https://www.phpform.org/), [Form.taxi](https://form.taxi/) or [Formsend](https://form.metrics.bar/) - Form Creators
+* [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [JotForm](https://www.jotform.com/), [99Inbound](https://www.99inbound.com/), [Forms.id](https://forms.id/), [PHPForm](https://www.phpform.org/) or [Form.taxi](https://form.taxi/) - Form Creators
 * [Loading.io](https://loading.io/) - Customizable Loading SVG
 * [Medusa](https://github.com/medusajs/medusa) - Digital Commerce Development Tool
 * [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)- Penetration Testing Resources
@@ -957,7 +957,6 @@
 * [Gut](https://gut-cli.dev/) - Git CLI
 * [GitHub Web IDE](https://github.com/zvizvi/GitHub-Web-IDE) - Web IDE
 * [Codeberg](https://codeberg.org/), [git.sr.ht](https://git.sr.ht/) or [GitGud](https://gitgud.io/) - Git Hosting
-* [Snipli](https://www.snipli.xyz/) - Convert Localfiles to Gist
 * [Git / Github Guide](https://fateen45.notion.site/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
 * [SparkleShare](https://github.com/hbons/SparkleShare) - Git Collab Tool
 * [GitBook](https://www.gitbook.com/) - Document Collaboration
@@ -1026,7 +1025,6 @@
 * [Github vscode icons](https://github.com/dderevjanik/github-vscode-icons) - VSCode Icons
 * [github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - Material Icons
 * [gist.io](https://gist.io/) - Git Blog Platform
-* [Github Action for Rclone](https://github.com/marketplace/actions/github-action-for-rclone) - Rclone GitHub Action Wrapper
 * [gitignore](https://github.com/github/gitignore) - Gitignore Templates
 * [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub), [diohub](https://github.com/NamanShergill/diohub), [Fasthub-Libre](https://github.com/thermatk/FastHub-Libre), [FastHub-RE](https://github.com/LightDestory/FastHub-RE), [MGit](https://github.com/maks/MGit), [GitNex](https://codeberg.org/gitnex/GitNex/) or [OctoDroid](https://github.com/slapperwan/gh4a) - Android GitHub Clients
 * [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - Track Github User Activity on Android
@@ -1140,7 +1138,6 @@
 * [py-modindex](https://docs.python.org/3/py-modindex.html) - Python Modules List / Tutorials
 * [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Visual Studio Code Python Language Extension / [Performant Language](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
 * [Python Mini Projects](https://github.com/Python-World/python-mini-projects) - Python Scripts
-* [Pysnake Blog](https://pysnakeblog.blogspot.com/) - Python Projects
 * [Python Patterns](https://python-patterns.guide/) - Python Design Patterns
 * [Dodgy](https://github.com/landscapeio/dodgy) - Find PWs & Diffs in Python Code
 * [pointers.py](https://github.com/ZeroIntensity/pointers.py) - Python Pointers
