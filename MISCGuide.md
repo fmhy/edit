@@ -364,6 +364,7 @@
 * [Composting](https://learn.eartheasy.com/guides/composting/) - Composting Guides
 * [Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open-Source Agriculture / Gardening Tech
 * [Modern Farmer](https://modernfarmer.com/) - Agricultural News
+* [Chip Drop](https://getchipdrop.com/) - Free Mulch
 * [Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png), [Topps](https://topps.diku.dk/torbenm/maps.msp)  or [Plant Maps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
 * [Cannabis Growing Subreddits](https://www.reddit.com/r/trees/wiki/entreddits_social#wiki_growing)
 * [/r/Microgrowery](https://reddit.com/r/microgrowery/) - Cannabis Growing Community
@@ -794,6 +795,7 @@
 * [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - Play Videos in Theater Mode
 * [Zoom Redirector](https://github.com/arkadiyt/zoom-redirector) - Redirect Zoom Links to Web Client 
 * [GlobalSpeed](https://github.com/polywock/globalSpeed) - Set Default Video / Audio Speed
+* [Skip Silence](https://github.com/vantezzen/skip-silence) - Skip Silent Parts in Videos
 * [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - Audio Recorder
 * [Mute Tab](https://mybrowseraddon.com/mute-tab.html) - Easily Mute All Tabs
 * [Web-Scrobbler](https://web-scrobbler.com/) - Scrobble with Last.fm, Libre.fm, etc.
@@ -976,7 +978,6 @@
 * [Multimedia Search](https://multimediasearchapp.com/) - Browser File Search
 * [Suggesty](https://chrome.google.com/webstore/detail/suggesty/hbiphmiliockggpepniplkkfmnhdihjh) - Human Like Search Results
 * [Query Side-By-Side](https://chrome.google.com/webstore/detail/double-shot-search-query/kddlkbpbepnaepdleclhdnfdpdogdhop) - Search Google & Bing at the Same Time
-* [Bing Unchained](https://chrome.google.com/webstore/detail/bing-unchained-use-new-bi/laldfnbbeocphnilnofhedhcjcnchbld) - Use New Bing in Chrome
 * [SessionBox](https://chrome.google.com/webstore/detail/sessionbox-multi-login-to/megbklhjamjbcafknkgmokldgolkdfig?hl=en) - Multi-Account Login for any Site
 * [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - Force Enable Right Click on Videos
 * [Selectable](https://chrome.google.com/webstore/detail/selectable-for-fanfiction/jcidlhgdoojamkbpmhbpgldmajnobefd?ucbcb=1) - Force Enable Select Text
@@ -1146,7 +1147,7 @@
 * [PC Monitors](https://pcmonitors.info/), [Monitor Spreadsheet](https://pastebin.com/tkmakRNW) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
 * [DisplayWars](http://www.displaywars.com/), [sven dpi](https://www.sven.de/dpi/) or [Screen Sizes](https://screensiz.es/) - Screen Size Comparisons
 * [Erin's Audio Corner](https://www.erinsaudiocorner.com/) or [Equipboard](https://equipboard.com/) - Audio Equipment Comparisons
-* [GPUDrops](https://gpudrops.com/) / [Discord](https://discord.gg/gpudrops), [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
+* [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
 * [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones / Prices
 *[Digicamfinder](https://digicamfinder.com/) - Digital Camera Database
 * [Don’t kill my app!](https://dontkillmyapp.com/) - Manufacturer Battery Life vs. App Functionality
@@ -1172,7 +1173,7 @@
 ## ▷ Price Tracking
 
 * ⭐ **[Keepa](https://keepa.com/)** or **[CamelCamelCamel](https://camelcamelcamel.com/)** - Amazon Price Tracker / [App](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno)
-* ⭐ **[Real Price Tracker](https://www.realpricetracker.com/)** or [FlipsHope](https://flipshope.com/ ) - Price Tracking Extensions
+* [Vetted](https://vetted.ai/), [Real Price Tracker](https://www.realpricetracker.com/) or [FlipsHope](https://flipshope.com/ ) - Price Tracking Extensions
 * [Search Ebay Sold](https://chrome.google.com/webstore/detail/search-ebay-sold/mhlcjbhhieanjjafbcoeclghpnjhepif) - Ebay Sold Item Search
 * [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
 * [Craftie](https://www.craftle.app/) - Furniture Price Calculator
@@ -1259,8 +1260,7 @@
 * [Three.js](https://threejs.org/) - JavaScript 3D library 
 * [88x31](https://cyber.dabamos.de/88x31/index.html) - Classic 88x31 Buttons
 * [The Office Stare Machine](http://theofficestaremachine.com/) - The Office Video Emotions 
-* [Vintage Ad Browser](http://www.vintageadbrowser.com/) - 100,000+ Vintage Advertisements 
-* [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - Japanese Commercial Archive
+* [Vintage Ad Browser](http://www.vintageadbrowser.com/) - 100,000+ Vintage Advertisements
 * [/r/Place Atlas](https://place-atlas.stefanocoding.me/) - /r/Place Info
 * [LameBook](https://www.lamebook.com/) - Funny Facebook Status'
 * [Kittenwar!](http://www.kittenwar.com/) - Rate Kittens
@@ -1317,6 +1317,7 @@
 * [larsberg](http://www.larsberg.net/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - Trippy 3D Experiments
 * [Google Doodles](https://www.google.com/doodles?q=interactive) - Interactive Google Doodles
 * [DriveMeInsane](http://drivemeinsane.com/) - Control a Home Automation System
+* [Genetic Walkers](https://rednuht.org/genetic_walkers/) - Genetic Algorithm Walkers
 * [DrivingSimulator](https://framesynthesis.com/drivingsimulator/maps/) - 2D Driving Simulator
 * [OpenScope](https://www.openscope.co/) - Air Traffic Control Simulator
 * [cnnix-steership](https://edition.cnn.com/interactive/2021/03/cnnix-steership/) - Steer through the Suez Canal
@@ -1423,6 +1424,7 @@
 * [Common Voice](https://www.saveriomorelli.com/commonvoice/) - Help Teach a Machine How to Talk 
 * [Tapology](https://www.tapology.com/) - Make MMA Fight Picks
 * [Michaelbach](https://michaelbach.de/ot/) - Optical Illusions
+* [Strobe Illusion](https://strobe.cool/) - Hallucination Illusion
 * [Fun Trivia](https://www.funtrivia.com/), [Factle](https://factle.app/), [BeanBeanBean](https://beanbeanbean.com/) or [Sporcle](https://www.sporcle.com/) - Trivia
 * [ARealMe](https://www.arealme.com/) - Quiz Collection
 * [Notpron](http://www.notpron.com/) - Worlds Hardest Internet Riddle
