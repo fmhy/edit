@@ -824,9 +824,6 @@ Simulator
 * ⭐ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - Grammar Checking Tools
 * ⭐ **[Untools](https://untools.co/)** - Better Thinking Tools / Frameworks
 * ⭐ **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)** - Learn to Type Faster
-* [Coursicle](https://www.coursicle.com/) - Class Schedule Tracker / Android
-* [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - Educational Communication / iOS
-* [Graded](https://github.com/NightDreamGames/Graded) - Grades Tracker / Android
 * [Explorabl.es](https://explorabl.es/), [MinuteLabs](https://minutelabs.io/), [Wikiversity](https://www.wikiversity.org/) or [Learnamic](https://www.learnamic.com/) - Learning Resources, Guides, Quizzes, Tools & More
 * [MyAssignmentHelp](https://myassignmenthelp.com/free-tools.php) - Academic Tools
 * [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - Touch Typing Tutorial
@@ -856,7 +853,6 @@ Simulator
 * [AnswerSocrates](https://answersocrates.com/) - Most Asked Questions on Google
 * [TurtleDiary](https://www.turtlediary.com/) - Quizzes / Lessons / Games
 * [SoftSchools](https://www.softschools.com/) or [EnchantedLearning](https://www.enchantedlearning.com/) - Worksheets / Games / Quizzes
-* [FactMonster](https://www.factmonster.com/) - Exercises / Flashcards
 * [BrainPOP Jr.](https://jr.brainpop.com/) - Quizzes / Animations
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - 5-Minute Audio Lessons / iOS
 * [Lucid](https://apps.apple.com/us/app/lucid-learn-visually/id1482780647) - Visual Learning Guides / iOS
@@ -868,8 +864,6 @@ Simulator
 * [The Trolley Problem Game](https://newfastuff.com/the-trolley-problem-game/) - The Trolley Problem
 * [GCFGlobal](https://edu.gcfglobal.org/) - Tech Tutorials
 * [CS 182 Deep learning](https://cs182sp21.github.io/) - Deep Neural Network Lesson Slides
-* [OpenSyllabus](https://opensyllabus.org/) or [LanguageDrops](https://languagedrops.com/) - Syllabus Search / Info
-* [PowerInBooks](https://powerinbooks.xyz/temp/) or [LitSolutions](https://www.litsolutions.org/) - Textbook Solutions
 * [LabXchange](https://www.labxchange.org/) or [EduMedia](https://www.edumedia-sciences.com/en/) - Interactive Science Simulations
 * [ImageJ](https://imagej.net/) or [Fiji](https://fiji.sc/) - Scientific Image Analyzers
 * [AskNature](https://asknature.org/) - Natural Strategies / Solutions
@@ -969,25 +963,30 @@ Simulator
 
 ## ▷ Study / Research
 
-* ⭐ **[StudyLion](https://github.com/StudyLions/StudyLion)** - Study Tracker / Productivity Discord Bot
-* ⭐ **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [KausalFlow](https://tools.kausalflow.com/), [Zotero](https://www.zotero.org/) or [Scrible](https://www.scrible.com/)  - Research Tools
 * ⭐ **[Note Taking Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps)** - Note Taking / To-Do Apps
-* [Note Garden](https://notegarden.web.app/), [2](https://notegarden.io/) - Note Taking / Auto Courses
+* ⭐ **[Note Garden](https://notegarden.web.app/)**, [2](https://notegarden.io/) - Note Taking / Auto Courses
+* ⭐ **[StudyLion](https://github.com/StudyLions/StudyLion)** - Study Tracker / Productivity Discord Bot
+* ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android
+* ⭐ **[OpenSyllabus](https://opensyllabus.org/**) or [LanguageDrops](https://languagedrops.com/) - Syllabus Search / Info
+* ⭐ **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [KausalFlow](https://tools.kausalflow.com/), [Zotero](https://www.zotero.org/) or [Scrible](https://www.scrible.com/)  - Research Tools
+* [Studify](https://github.com/cmcodes1/Studify) - Study Tracker / Android
+* [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - Educational Communication / iOS
 * [Mochi Cards](https://mochi.cards/), [Silicon](https://github.com/cu/silicon) or [MidTerm](https://midterm.app/) - Note Taking / Study Tool
 * [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
 * [Lurnby](https://github.com/Roznoshchik/Lurnby) or [StringMark](https://www.stringmark.com/) - Save & Mark Research in Browser
 * [Catma](https://catma.de/) - Research Markup & Analysis Tool
 * [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips) - Latex Research Paper Tips
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
-* [Studify](https://github.com/cmcodes1/Studify) - Study Tracker / Android
 * [Bonsai](https://bonsaibrowser.com/) - Research Web Browser
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
 * [BookStack](https://www.bookstackapp.com/) - Self-Hosted Information Manager
+* [Graded](https://github.com/NightDreamGames/Graded) - Grades Tracker / Android
 * [Quizlet](https://quizlet.com/) / [Paywall Bypass](https://github.com/rospino74/Quizlet-Bypass)/ [2](https://discord.gg/VuD7WBvXCQ), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872) / [Explanations](https://greasyfork.org/en/scripts/434972), [2](https://greasyfork.org/en/scripts/438663)
 * [Knowt](https://knowt.io/) - Free Quizlet Alternative / AP Study Guides
 * [guIHelp](https://discord.gg/rgF9jY8CpH) - Bartleby, Quizlet, Coursehero & Scribd Bot
 * [Quizizz](https://quizizz.com/) - Create Quizzes, Lessons, Flashcards & Presentations
 * [Anki](https://apps.ankiweb.net/) / [CLI](https://github.com/TBS1996/speki), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://article-summarizer.scholarcy.com/summarizer), [StudyLib](https://www.studylib.net/) or [Flashcard Machine](https://www.flashcardmachine.com/) - Flash Card Tools
+* [FactMonster](https://www.factmonster.com/) - Exercises / Flashcards
 * [Carden](https://github.com/alyssaxuu/carden) or [Awesome Anki](https://github.com/tianshanghong/awesome-anki) - Flashcard Extensions
 * [SearchifyX](https://github.com/daijro/SearchifyX) - Search Flashcards
 * [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flashcard Mobile App
@@ -1020,6 +1019,7 @@ Simulator
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / Stem Career Study Guides
 * [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
+* [PowerInBooks](https://powerinbooks.xyz/temp/) or [LitSolutions](https://www.litsolutions.org/) - Textbook Solutions
 * [School Cheats](https://schoolcheats.net/) - School Platform Answers
 * [Quizizz Cheat](https://github.com/gbaranski/quizizz-cheat) - Quizizz Answers Tool
 * [PXTrez](https://pxtrez.com/) - Kahoot Answers Tool
