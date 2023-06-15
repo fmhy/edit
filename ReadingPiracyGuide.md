@@ -70,7 +70,7 @@
 * [Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "Books / Comics / Magazines"
 * [Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f and type "Books / Comics / Magazines"
 * [IRC Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - Download Ebooks from IRC / [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/), [2](https://encyclopediadramatica.online/Bookz) / [mIRC](https://redd.it/znprct) / [Downloader](https://github.com/aghayes/rusty_book_pirate/), [2](https://github.com/evan-buss/openbooks), [3](https://github.com/Footsiefat/Openbooks-Downloader)
-* [The Library](https://discord.gg/mSyFJz9) - Book Discord Servers
+* [The Library](https://discord.gg/mSyFJz9) - Book Discord Server
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines
 * [ebook3000.co](https://www.ebook3000.co/) - Books / Magazines / NSFW
 * [just a digital library](https://github.com/nbats/FMHYedit/blob/main/base64.md#just-a-digital-library) - Books
@@ -1019,7 +1019,6 @@
 * [Read Light Novel](https://www.readlightnovel.me/)
 * [DaoNovel](https://daonovel.com/)
 * [List Novel](https://www.listnovel.com/)
-* [ReadFullNovel](https://readfullnovel.net)
 * [Novel Ringan](https://novelringan.com/)
 * [NovelLMAO](https://novelmao.com/)
 * [ReadNovelFull](https://readnovelfull.com)
@@ -1047,7 +1046,6 @@
 * [Wuxia Here](https://www.wuxiahere.com/)
 * [Novel Translations](https://lightnovelstranslations.com/)
 * [WebNovelOnline](https://webnovelonline.com/)
-* [Novelsala](https://novelsala.com/)
 * [Readwn](https://www.readwn.com/)
 * [Nakimushitl](https://nakimushitl.wordpress.com/)
 * [LightNovelHeaven](https://lightnovelheaven.com)
