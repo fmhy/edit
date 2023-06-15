@@ -43,7 +43,6 @@
 * [egydead](https://w6.egydead.live) - Movies / TV / Anime
 * [movizland](https://movizland.info/) - Movies / TV / Anime
 * [akwam](https://akw.to/) - Movies / TV
-* [YallaDrama](https://k.yalladrama.co/) - Movies / TV
 * [ShahidToday](https://o.shahid2day.com/) - Movies / TV
 * [wecima](https://wecima.dev/) - Movies / TV / Anime / Cartoons / Wrestling
 * [Shooflive](https://r.shooflive.co/) - Movies / TV / Anime
@@ -363,7 +362,6 @@
 
 * [Pinoy Movies Hub](https://pmh.li/) - Movies
 * [Pinoymoviepedia](https://pinoymoviepedia.ru/) - Movies
-* [Pinoy5Movies](https://pinoy5movies.net/) - Movies
 * [pmh](https://pmh.li/) - Movies / TV
 * [MoviesniPipay](https://moviesnipipay.me/) - Movies / TV
 * [Pinoyflix](https://pinoyflix.to/) -  Movies / TV
@@ -436,7 +434,6 @@
 * [hds](https://www1.hds.fm/) - Movies / TV / Anime
 * [streamcenter](https://fr.streamcenter.cc/) - Movies / TV
 * [mavanimes](https://www.mavanimes.co/) - Movies / TV
-* [illimitestreaming](https://www.illimitestreaming.co/) - Movies / TV
 * [voirfilms-hd](https://voirfilms-hd.com/) - Movies / TV
 * [Cinematheque](https://www.cinematheque-bretagne.bzh/) - Movies
 * [CineFlix](https://wvw.cineflix.rip/) - Movies / TV
@@ -445,7 +442,6 @@
 * [Dpstream](https://wvw.dpstream.rip/) - Movies / TV
 * [Sadisflix](https://sadisflix.fun/) - Movies / TV / [Telegram](https://t.me/sadisflix)
 * [Cpasfini](https://vvww.cpasfini.rip/) - Movies / TV / Cartoons
-* [mykdrama](https://mykdrama.co/) - KDrama
 * [OtakuFR](https://otakufr.co/) - Anime
 * [JetAnime](https://vww.jetanimes.com/) - Anime
 * [Anime-Ultime](http://www.anime-ultime.net/), [2](https://v5.anime-ultime.net/) - Anime
@@ -539,7 +535,6 @@
 * [SRF.CH](https://www.srf.ch/) - TV / Sports / Live
 * [Anime-Loads](https://www.anime-loads.org/) - Anime
 * [Aniworld](https://aniworld.to) - Anime
-* [ani.ninja](https://ani.ninja/) - Anime
 * [Aniflix](https://www.aniflix.cc/) - Anime
 * [dokustreams](https://dokustreams.de/) - Documentaries
 * [dctp.tv](https://www.dctp.tv/) - Documentaries
@@ -623,7 +618,6 @@
 * [9xflix](https://9xflix.qpon/) - Movies / [Telegram](https://t.me/ninexflix)
 * [HDVogo](https://www.hdvogo.cfd/) - Movies
 * [Moviehunt](https://moviehunt.us) - Movies / TV
-* [MoviesJet](https://moviesjet.one/) - Movies / TV
 * [UncutHD](https://www.uncuthd.mom/) - Movies
 * [AnimeAcademy](https://animeacademy.in/) - Anime / [Telegram](https://t.me/AnimeAcademyTeam)
 * [ToonWorld4All](https://www.toonworld4all.me/) - Cartoons / Anime / [Discord](https://discord.com/invite/qp8RD4JEpf) / [Telegram](https://discord.com/invite/qp8RD4JEpf)
@@ -767,7 +761,6 @@
 * [allstreaming](https://allstreaming.online/) - Movies / TV / Anime
 * [StreamingCommunity](https://streamingcommunity.dance/) - Movies / TV / [Telegram](https://t.me/+jlXmmprhtakxYWJh)
 * [TantiFilm](https://www.tantifilm.energy/) - Movies / TV
-* [cineblog01](https://cineblog01.cx/) - Movies / TV
 * [cinemalibero](https://cinemalibero.cafe/) - Movies / TV
 * [filmsenzalimiti](https://hds.filmsenzalimiti.me/) - Movies / TV
 * [euroStreaming](https://eurostreaming.quest/) - TV
@@ -1183,7 +1176,6 @@
 * [querofilmehd](https://www.querofilmeshd.ac/) - Movies / TV
 * [TopFlix](https://topflix.vc) - Movies / TV / Requires Login
 * [AnimeFire](https://animefire.net/) - Anime
-* [AnimesOnline](https://animesonlinehd.vip/) - Anime
 * [animeszone](https://animeszone.net/) - Anime
 * [NewZect](https://newzect.com/) - Asian Drama
 * [99 Media](https://www.99.media/pt/) - Documentaries
@@ -1552,7 +1544,6 @@
 * ⭐ **[ForoWarez](https://forowarez.info/)** - Video / Audio / Reading / NSFW / Software / Games / Castilian / Latino
 * [identi](https://identi.io/) - Video / Audio / Reading / Software / Games / Latino / Castilian
 * [BladeMaster666](https://blademaster666.com/) - Video / Audio / Reading / NSFW / Software / Games
-* [LuchoEdu](https://www.luchoedu.org/) - Video / Audio / Reading / NSFW / Software / Games
 * [Fiuxy](https://fiuxy2.com/) - Video / Audio / Reading / NSFW / Software / Games
 * [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Software / Games
 * [Guns's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Games
@@ -1660,7 +1651,6 @@
 * [Dilo](https://www.dilo.nu/) - TV / Anime / Latino / Castilian
 * [asialiveaction](https://asialiveaction.com/) - Asian Drama
 * [doramasyt](https://www.doramasyt.com/) - Asian Drama
-* [doramasmp4](https://doramasmp4.io/) - Asian Drama
 * [DoramasFlix](https://doramasflixs.com/) - Asian Drama
 * [Flipax](https://flipax.es/) - Live Sports
 * [Teledeportiva2](https://teledeportiva2.blogspot.com/) - Live Sports
@@ -1726,7 +1716,6 @@
 * [miauscan](https://miauscan.com/) - Manga
 * [Mangaesp](https://mangaesp.co/) - Manga
 * [senpaiediciones](http://senpaiediciones.com/) - Manga
-* [blueskymangas](https://blueskymangas.com/) - Manga
 * [anzmangashd](https://www.anzmangashd.com/) - Manga
 * [vermanhwa](https://vermanhwa.es/) - Manga
 * [faneo](https://www.faneo.es/) - Manga
