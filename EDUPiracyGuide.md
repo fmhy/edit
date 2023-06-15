@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.ibb.co/34BQMbK/afc148157708.png)** - For mobile users
+**[Table of Contents](https://ibb.co/n6fynqb)** - For mobile users
 
 ***
 ***
@@ -19,6 +19,7 @@
 * ⭐ **[Udacity](https://www.udacity.com/)** - Courses
 * ⭐ **[MitOpenCourseWare](https://ocw.mit.edu/index.htm)** - Courses
 * ⭐ **[Khan Academy](https://www.khanacademy.org/)** - Courses / [Downloader](https://github.com/rand-net/khan-dl)
+* ⭐ **[Git.ir](https://git.ir/)** - Courses
 * ⭐ **[PluralSight](https://www.pluralsight.com/)** - Free for 1 Month / [Decrypter](https://github.com/dhorseman1710/Decrypt-PluralSight-GUI)
 * ⭐ **[Limnology](https://limnology.co/)** - Educational YouTube Channel Index
 * [Awesome CS](https://github.com/prakhar1989/awesome-courses/) - Courses
@@ -554,7 +555,6 @@ Simulator
 * [DeepSkyCamera](https://play.google.com/store/apps/details?id=de.seebi.deepskycamera&gl=US) - Astrophotography App
 * [SpaceEngine](https://spaceengine.org/) - Universe Simulator
 * [The Scale of the Universe](https://www.htwins.net/) - Universe Scale Simulator
-* [astro.sfasu](http://astro.sfasu.edu/courses/ast305/homework/) - Astronomy Homework
 * [CDS](https://cds.u-strasbg.fr/) - Astronomical Database
 
 ***
@@ -575,6 +575,7 @@ Simulator
 * [Matterport](https://matterport.com/discover) - Explore Real Places Digitally
 * [Outside Simulator](https://outsidesimulator.com/) - Simulate Being Outside
 * [Zhijianshang](https://www.zhijianshang.com/) - Explore China in 360VR
+* [Hashima Island](https://www.hashima-island.co.uk/) - Hashima Island Virtual Tour
 
 ***
 
@@ -816,101 +817,49 @@ Simulator
 
 * ⭐ **[The Free Learning List](https://freelearninglist.org/)** or [/sci/ guide](https://sites.google.com/site/scienceandmathguide/) - Free Educational Sites / Tool Index
 * ⭐ **[LearnAwesome](https://learnawesome.org/)**, [Learn Anything](https://learn-anything.xyz/), [Learning Lab](https://learn.uno/) / [Discord](https://discord.com/invite/FCzYt8u), [Quester](https://quester.io/) or [Learney](https://maps.joindeltaacademy.com/) - Learning Resources
-* ⭐ **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [KausalFlow](https://tools.kausalflow.com/), [Zotero](https://www.zotero.org/) or [Scrible](https://www.scrible.com/)  - Research Tools
-* ⭐ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)** - Presentation Tools & Templates
+* ⭐ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)** - Presentation Tools / Templates
 * ⭐ **[Data Visualization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)** - Create Chart / Visualize Data
 * ⭐ **[PhET](https://phet.colorado.edu/)** - STEM / Interactive
 * ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Infinite trial by clearing cookies & making new account
 * ⭐ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - Grammar Checking Tools
-* ⭐ **[Untools](https://untools.co/)** - Better Thinking Tools & Frameworks
+* ⭐ **[Untools](https://untools.co/)** - Better Thinking Tools / Frameworks
 * ⭐ **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)** - Learn to Type Faster
+* [Coursicle](https://www.coursicle.com/) - Class Schedule Tracker / Android
+* [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - Educational Communication / iOS
+* [Graded](https://github.com/NightDreamGames/Graded) - Grades Tracker / Android
+* [Explorabl.es](https://explorabl.es/), [MinuteLabs](https://minutelabs.io/), [Wikiversity](https://www.wikiversity.org/) or [Learnamic](https://www.learnamic.com/) - Learning Resources, Guides, Quizzes, Tools & More
 * [MyAssignmentHelp](https://myassignmenthelp.com/free-tools.php) - Academic Tools
 * [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - Touch Typing Tutorial
 * [Spreeder](https://www.spreeder.com/) - Learn to Read Faster
-* [Refseek](https://www.refseek.com/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engine
-* [Explorabl.es](https://explorabl.es/) or [MinuteLabs](https://minutelabs.io/) - Interactive Learning / Lessons
+* [Refseek](https://www.refseek.com/), [Occamm](https://www.occamm.com/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
 * [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - Learn With GIFs
 * [Information Is Beautiful](https://informationisbeautiful.net/) - Data / Information / Infographics / Visualizations
 * [/r/coolguides](https://reddit.com/r/coolguides/), [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
+* [Oak National Academy](https://teachers.thenational.academy/) or [Runestone Interactive](https://runestone.academy/) - Lessons
 * [LitCharts](https://www.litcharts.com/) - Literature Guides
 * [The Punctuation Guide](https://www.thepunctuationguide.com/) - Punctuation Guide
 * [TypeTerms](https://www.supremo.co.uk/typeterms/) - Typography Cheat Sheet
-* [Zooniverse](https://www.zooniverse.org/) - Crowdsourced Research
-* [Bonsai](https://bonsaibrowser.com/) - Research Web Browser
-* [StringMark](https://www.stringmark.com/) - Save & Mark Research in Browser
-* [Lurnby](https://github.com/Roznoshchik/Lurnby) - Improved Browser Readability / Highlighting
-* [Catma](https://catma.de/) - Research Markup & Analysis Tool
-* [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips) - Latex Research Paper Tips
-* [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
-* [Studify](https://github.com/cmcodes1/Studify) - Study Tracker / Android
-* [Coursicle](https://www.coursicle.com/) - Class Schedule Tracker / Android
-* [Graded](https://github.com/NightDreamGames/Graded) - Grades Tracker / Android
-* [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - Educational Communication / iOS
-* [Note Taking Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - Note Taking / To-Do Apps
-* [Note Garden](https://notegarden.web.app/), [2](https://notegarden.io/) - Note Taking / Auto Courses
-* [Mochi Cards](https://mochi.cards/), [Silicon](https://github.com/cu/silicon) or [MidTerm](https://midterm.app/) - Note Taking / Study Tool
-* [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
-* [BookStack](https://www.bookstackapp.com/) - Self-Hosted Information Manager
-* [Deepnote](https://deepnote.com/) - Data Science Notebook
-* [Course-Notes](https://course-notes.org/) - Course Notes
-* [Wordwall](https://wordwall.net/) - Lesson Creator
+* [ScienceTrek](https://sciencetrek.org/) - Teaching Resources
+* [Socrative](https://www.socrative.com/) - Teaching App
 * [ClassroomScreen](https://www.classroomscreen.com/) - Digital Teaching Widgets
+* [Wordwall](https://wordwall.net/) - Lesson Creator
 * [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
 * [Text Rephrashing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - Rephrase / Paraphrase Text
 * [Brevity500](https://brevity500.com/) - Writing Practice
+* [GradesFixer](https://www.gradesfixer.com/) - Essay Samples
 * [cb2bib](https://www.molspaces.com/cb2bib/) - Reference Extractor / Manager
 * [5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk) - Grade School Educational Tools
-* [ScienceTrek](https://sciencetrek.org/) - Teaching Resources
-* [Socrative](https://www.socrative.com/) - Teaching App
-* [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - UPSC Telegram Channels
 * [Electromagnetic Radiation Spectrum Chart](https://i.ibb.co/XCyQNB7/01930032e368.jpg)
 * [Answers.com](https://www.answers.com/) or [Quora](https://www.quora.com/) / [Bypass](https://redd.it/ywml2b) / [Frontend](https://github.com/zyachel/quetre) - Q&A Communities
 * [Plickers](https://get.plickers.com/) - Q&A Results App
 * [Perplexity](https://www.perplexity.ai/) or [FastGPT](https://labs.kagi.com/fastgpt) - Q&A AIs
 * [AnswerSocrates](https://answersocrates.com/) - Most Asked Questions on Google
-* [Edgibot](https://www.edgilearning.com/), [Tutorly](https://tutorly.ai), [Caktus](https://www.caktus.ai/), [Answers Exchange](https://discord.gg/GFp9Rvr), [Get Unstuck](https://socratic.org/), [sarthaks](https://www.sarthaks.com/) or [Brainly](https://brainly.com/) - Homework Help Bots / Communities
-* [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
-* [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
-* [GradesFixer](https://www.gradesfixer.com/) - Essay Samples
-* [School Cheats](https://schoolcheats.net/) - School Platform Answers
-* [Quizizz Cheat](https://github.com/gbaranski/quizizz-cheat) - Quizizz Answers Tool
-* [PXTrez](https://pxtrez.com/) - Kahoot Answers Tool
-* [ITExamAnswers.net](https://www.itexamanswers.net/) - IT Exam Answers
-* [Oak National Academy](https://teachers.thenational.academy/) or [Runestone Interactive](https://runestone.academy/) - Lessons
-* [Quizlet](https://quizlet.com/) / [Paywall Bypass](https://github.com/rospino74/Quizlet-Bypass)/ [2](https://discord.gg/VuD7WBvXCQ), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872) / [Explanations](https://greasyfork.org/en/scripts/434972), [2](https://greasyfork.org/en/scripts/438663)
-* [Knowt](https://knowt.io/) - Free Quizlet Alternative / AP Study Guides
-* [guIHelp](https://discord.gg/rgF9jY8CpH) - Bartleby, Quizlet, Coursehero & Scribd Bot
-* [HeroGenerator](https://discord.gg/ggBX8qqASC) - Courshero Document Generator / [Telegram](https://t.me/HeroGeneratorPure)
-* [Wikiversity](https://www.wikiversity.org/) or [Learnamic](https://www.learnamic.com/) - Learning Resources, Guides, Quizzes, Tools & More
 * [TurtleDiary](https://www.turtlediary.com/) - Quizzes / Lessons / Games
 * [SoftSchools](https://www.softschools.com/) or [EnchantedLearning](https://www.enchantedlearning.com/) - Worksheets / Games / Quizzes
 * [FactMonster](https://www.factmonster.com/) - Exercises / Flashcards
 * [BrainPOP Jr.](https://jr.brainpop.com/) - Quizzes / Animations
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - 5-Minute Audio Lessons / iOS
 * [Lucid](https://apps.apple.com/us/app/lucid-learn-visually/id1482780647) - Visual Learning Guides / iOS
-* [Stuack](https://github.com/isanchop/stuhack) - Premium Study Notes
-* [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
-* [The SAT: Practice Tests](https://satsuite.collegeboard.org/sat/practice-preparation/practice-tests) - SAT Practice Exams
-* [SAT Reading](https://rentry.co/satreading) - Suggested SAT Reading
-* [SAT_Files_discussion](https://t.me/SAT_Files_discussion) - SAT Exam Discussion
-* [Examveda](https://www.examveda.com/), [SaveMyExams](https://www.savemyexams.co.uk/) or [Aglasem](https://aglasem.com/) - Exam Practice
-* [MajorTests](https://www.majortests.com/) - Practice Tests
-* [CrackAP](https://www.crackap.com/) - Practice AP Exams
-* [IndiaBIX](https://www.indiabix.com/) - Aptitude Tests
-* [/r/ApStudents Resources](https://github.com/nbats/FMHYedit/blob/main/base64.md#rapstudents-resources) - Former AP Exams
-* [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
-* [/r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
-* [AQA GCSE 2019](https://github.com/nbats/FMHYedit/blob/main/base64.md#aqa-gcse-2019) or [Revisely](https://www.revisely.co.uk/) - GCSE Exams
-* [Future Vision BIE](https://hemanthrajhemu.github.io/) - VTU Study Material
-* [CrackJee](https://www.crackjee.xyz/) - JEE & NEET Study Material + Answers
-* [JEEBOOKS](https://www.jeebooks.in/) - JEE, NEET, KVPY & CBSE Study Material
-* [JeeMain](https://jeemain.guru/) - JEE Study Material
-* [CatchaScience](https://catchascience.wordpress.com/) - IGCSE Study Material
-* [IELTS69](https://www.ielts69.com/) - IELTS Cambridge Practice Tests
-* [GCE Guide](https://gceguide.com/) - Cambridge Assessment Guide
-* [ITExams](https://www.itexams.com/) - IT Exam Collection
-* [StudyStream](https://www.studystream.live/) - Online Study Groups
-* [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / Stem Career Study Guides
 * [The Problem Site](https://www.theproblemsite.com/) - Problems / Puzzles / Games
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
 * [Highbrow](https://gohighbrow.com/) - Daily Lessons
@@ -931,11 +880,6 @@ Simulator
 * [OpenBoard](https://openboard.ch/), [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboard
 * [Graph / Diagram Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_graph_.2F_diagram_creators)
 * [Altium](https://www.altium.com/viewer/) - Schematics Visualizer
-* [Quizizz](https://quizizz.com/) - Create Quizzes, Lessons, Flashcards & Presentations
-* [Anki](https://apps.ankiweb.net/) / [CLI](https://github.com/TBS1996/speki), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://article-summarizer.scholarcy.com/summarizer), [StudyLib](https://www.studylib.net/) or [Flashcard Machine](https://www.flashcardmachine.com/) - Flash Card Tools
-* [Carden](https://github.com/alyssaxuu/carden) or [Awesome Anki](https://github.com/tianshanghong/awesome-anki) - Flashcard Extensions
-* [SearchifyX](https://github.com/daijro/SearchifyX) - Search Flashcards
-* [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flashcard Mobile App
 * [Wolfram Cloud](https://www.wolframcloud.com/) - Computational intelligence
 * [Matthen](https://blog.matthen.com/) - Math & Science Animations
 * [Eylenburg](https://eylenburg.github.io/) - Infographs, Maps & Papers
@@ -968,11 +912,15 @@ Simulator
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) or [Mindat](https://www.mindat.org/) - Mineralogy Database
 * [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
 * [8000ers](https://martin-laxenaire.fr/experiments/8000ers/#/everest) or [Mount Everest 3D](https://mount-everest3d.com/) - Mountain Visualizations & Info
+* [Zooniverse](https://www.zooniverse.org/) - Crowdsourced Research
 * [nanoHUB](https://nanohub.org/) - Nanotechnology Tool Index
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/)
 * [NandGame](https://nandgame.com/) - Computer Building Puzzle
 * [Kialo](https://www.kialo.com/) or [Level Point](https://levelpoint.app/) - Debates / Discussion
 * [Tabby Cat](https://github.com/TabbycatDebate/tabbycat) - Debate Tournament Tabulation Software
+* [50Hacks](https://50hacks.co/) - Productivity Tips
+* [PhilosophyBasics](https://www.philosophybasics.com/) - Learn Basic Philosophical Concepts
+* [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
 * [Brainkit](https://www.braink.it/) - Learn Helpful Principles
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
 * [Debunking Skeptics](https://www.debunkingskeptics.com/) - Pseudo-Skeptical Fallacies
@@ -981,12 +929,11 @@ Simulator
 * [SkillsYouNeed](https://www.skillsyouneed.com/) or [Art of Manliness](https://www.artofmanliness.com/) - Develop Life Skills
 * [VisualizeValue](https://archivve.visualizevalue.com/) - Life Lesson Visualizations
 * [Sketchplanations](https://www.sketchplanations.com/) - Explanation Sketches
+* [A to Z Manners](https://www.a-to-z-of-manners-and-etiquette.com/) - Learn Manners / Etiquette
 * [/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/), [explainlikeimfive.io](https://explainlikeimfive.io/) or [ELI5 Club](https://eli5.club/) - Have Anything Explained Very Simply
+* [WikEnigma](https://wikenigma.org.uk/) - 'Known Unknowns' Wiki
 * [The XY Problem](https://xyproblem.info/) - XY Problem Explained
-* [50Hacks](https://50hacks.co/) - Productivity Tips
-* [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
 * [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - Learn Wood Working
-* [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
 * [Learn Origami](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_origami) - Origami Examples / Tutorials
@@ -999,11 +946,11 @@ Simulator
 * [RSOE](https://rsoe-edis.org/) - Emergency and Disaster Information Service
 * [Awful-A.I.](https://github.com/daviddao/awful-ai) - Negative A.I. Usage Examples
 * [M-Journal](https://m-journal.org/) - Turn Wikipedia into a Citeable Academic Paper
-* [Sideways Dictionary](https://sidewaysdictionary.com/) - Common Computer Terms Explained Simply
 * [Symbols](https://www.symbols.com/) - Symbol Database
 * [Hate on Display](https://www.adl.org/hate-symbols) - Hate Symbol Database
 * [SciGen](https://pdos.csail.mit.edu/archive/scigen/) - CS Paper Generator
 * [pdfparanoia](https://github.com/kanzure/pdfparanoia) - Academic Paper Watermark Removal
+* [HeroGenerator](https://discord.gg/ggBX8qqASC) - Courshero Document Generator / [Telegram](https://t.me/HeroGeneratorPure)
 * [The Chomsky Index](https://github.com/jasons-gh/the-chomsky-index) - Noam Chomsky Content Index Tool
 * [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project
 * [P2PU](https://www.p2pu.org/) - Join Learning Groups Using Free Courses
@@ -1017,3 +964,63 @@ Simulator
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - Professor Ratings
 * [Edu VPN](https://www.eduvpn.org/) - Institute Access VPN
 * [.edu Mail Guide](https://docs.google.com/document/d/1IjxLeNuF58-lL-aHCAbpliap6qUuTR7UMEPAaYHaBHg/preview), [Mail.mjj](https://mail.mjj.edu.ge/), [10MinMail](https://10minutesemail.net/) - EDU Email Address'
+
+***
+
+## ▷ Study / Research
+
+* ⭐ **[StudyLion](https://github.com/StudyLions/StudyLion)** - Study Tracker / Productivity Discord Bot
+* ⭐ **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [KausalFlow](https://tools.kausalflow.com/), [Zotero](https://www.zotero.org/) or [Scrible](https://www.scrible.com/)  - Research Tools
+* ⭐ **[Note Taking Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps)** - Note Taking / To-Do Apps
+* [Note Garden](https://notegarden.web.app/), [2](https://notegarden.io/) - Note Taking / Auto Courses
+* [Mochi Cards](https://mochi.cards/), [Silicon](https://github.com/cu/silicon) or [MidTerm](https://midterm.app/) - Note Taking / Study Tool
+* [Desklamp](https://desklamp.io/) - Reading / Note Taking / Highlighting Tool / [Guide](https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore)
+* [Lurnby](https://github.com/Roznoshchik/Lurnby) or [StringMark](https://www.stringmark.com/) - Save & Mark Research in Browser
+* [Catma](https://catma.de/) - Research Markup & Analysis Tool
+* [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips) - Latex Research Paper Tips
+* [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
+* [Studify](https://github.com/cmcodes1/Studify) - Study Tracker / Android
+* [Bonsai](https://bonsaibrowser.com/) - Research Web Browser
+* [Deepnote](https://deepnote.com/) - Data Science Notebook
+* [BookStack](https://www.bookstackapp.com/) - Self-Hosted Information Manager
+* [Quizlet](https://quizlet.com/) / [Paywall Bypass](https://github.com/rospino74/Quizlet-Bypass)/ [2](https://discord.gg/VuD7WBvXCQ), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872) / [Explanations](https://greasyfork.org/en/scripts/434972), [2](https://greasyfork.org/en/scripts/438663)
+* [Knowt](https://knowt.io/) - Free Quizlet Alternative / AP Study Guides
+* [guIHelp](https://discord.gg/rgF9jY8CpH) - Bartleby, Quizlet, Coursehero & Scribd Bot
+* [Quizizz](https://quizizz.com/) - Create Quizzes, Lessons, Flashcards & Presentations
+* [Anki](https://apps.ankiweb.net/) / [CLI](https://github.com/TBS1996/speki), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://article-summarizer.scholarcy.com/summarizer), [StudyLib](https://www.studylib.net/) or [Flashcard Machine](https://www.flashcardmachine.com/) - Flash Card Tools
+* [Carden](https://github.com/alyssaxuu/carden) or [Awesome Anki](https://github.com/tianshanghong/awesome-anki) - Flashcard Extensions
+* [SearchifyX](https://github.com/daijro/SearchifyX) - Search Flashcards
+* [ForgetMeNot](https://github.com/tema6120/ForgetMeNot) - Flashcard Mobile App
+* [Edgibot](https://www.edgilearning.com/), [Tutorly](https://tutorly.ai), [Caktus](https://www.caktus.ai/), [Answers Exchange](https://discord.gg/GFp9Rvr), [Get Unstuck](https://socratic.org/), [sarthaks](https://www.sarthaks.com/) or [Brainly](https://brainly.com/) - Homework Help Bots / Communities
+* [Toppr](https://www.toppr.com/), [FreeOnlineTest](https://www.freeonlinetest.in/) or [AE Old](https://discord.gg/VCXGudY) - Test Practice & Homework Help
+* [StudyStream](https://www.studystream.live/) - Online Study Groups
+* [Stuack](https://github.com/isanchop/stuhack) - Premium Study Notes
+* [Course-Notes](https://course-notes.org/) - Course Notes
+* [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
+* [The SAT: Practice Tests](https://satsuite.collegeboard.org/sat/practice-preparation/practice-tests) - SAT Practice Exams
+* [SAT Reading](https://rentry.co/satreading) - Suggested SAT Reading
+* [SAT_Files_discussion](https://t.me/SAT_Files_discussion) - SAT Exam Discussion
+* [Examveda](https://www.examveda.com/), [SaveMyExams](https://www.savemyexams.co.uk/) or [Aglasem](https://aglasem.com/) - Exam Practice
+* [MajorTests](https://www.majortests.com/) - Practice Tests
+* [CrackAP](https://www.crackap.com/) - Practice AP Exams
+* [IndiaBIX](https://www.indiabix.com/) - Aptitude Tests
+* [/r/ApStudents Resources](https://github.com/nbats/FMHYedit/blob/main/base64.md#rapstudents-resources) - Former AP Exams
+* [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
+* [/r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
+* [AQA GCSE 2019](https://github.com/nbats/FMHYedit/blob/main/base64.md#aqa-gcse-2019) or [Revisely](https://www.revisely.co.uk/) - GCSE Exams
+* [Future Vision BIE](https://hemanthrajhemu.github.io/) - VTU Study Material
+* [CrackJee](https://www.crackjee.xyz/) - JEE & NEET Study Material + Answers
+* [JEEBOOKS](https://www.jeebooks.in/) - JEE, NEET, KVPY & CBSE Study Material
+* [JeeMain](https://jeemain.guru/) - JEE Study Material
+* [CatchaScience](https://catchascience.wordpress.com/) - IGCSE Study Material
+* [IELTS69](https://www.ielts69.com/) - IELTS Cambridge Practice Tests
+* [anthropology](https://t.me/anthropology), [UPSC4Exams](https://t.me/UPSC4Exams) or [UPSCEssayHub](https://t.me/UPSCEssayHub) - UPSC Telegram Channels
+* [GCE Guide](https://gceguide.com/) - Cambridge Assessment Guide
+* [ITExams](https://www.itexams.com/) - IT Exam Collection
+* [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / Stem Career Study Guides
+* [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
+* [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
+* [School Cheats](https://schoolcheats.net/) - School Platform Answers
+* [Quizizz Cheat](https://github.com/gbaranski/quizizz-cheat) - Quizizz Answers Tool
+* [PXTrez](https://pxtrez.com/) - Kahoot Answers Tool
+* [ITExamAnswers.net](https://www.itexamanswers.net/) - IT Exam Answers
