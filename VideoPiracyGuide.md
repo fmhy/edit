@@ -158,7 +158,6 @@
 * [GoMovies](https://gomovies.pics/) - Movies / TV
 * [WatchSeries](https://watchseries.cyou/) - Movies / TV
 * [123Movies](https://123movies.sc/) - Movies / TV
-* [123Chill](https://123chill.to/) - Movies / TV / Anime
 * [123MoviesJR](https://123moviesjr.cc/) - Movies / TV
 * [123Moviesd](https://123moviesd.com/) - Movies / TV
 * [0123movies](https://0123movies.to/) - Movies / TV
