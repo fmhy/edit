@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.ibb.co/CbWjMtt/image.png)** - For mobile users
+**[Table of Contents](https://ibb.co/JvzGT6y)** - For mobile users
 
 ***
 ***
@@ -15,7 +15,7 @@
 
 # ► Download Games
 
-* ⭐ **[CS.RIN.RU](https://cs.rin.ru/)** - Download / [Status](https://csrinstaff.writeas.com/) / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod) / [Baidu Bypass](https://baidu.crackhub.site/)
+* ⭐ **[CS.RIN.RU](https://cs.rin.ru/)** - Download / Forum / [Status](https://csrinstaff.writeas.com/) / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download
 * ⭐ **[GamesDrive](https://gamesdrive.net/)** - Download / [Discord](https://discord.gg/wXdNEhf73x) / [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Torrent / [Discord](https://discord.gg/hj8dU5BFHE) / pw: 1234
@@ -29,6 +29,7 @@
 * [GLoad](https://gload.to/) - Download
 * [Seven Gamers](https://www.seven-gamers.com/) - Download / Torrent
 * [Leeching Hell](http://www.leechinghell.pw/) - Download
+* [Xatab Repacks](https://byxatab.com/), [2](https://otxatabs.net/)  - Torrent
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [F2P Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_f2p_games) - Free to Play Games
 * [VGPErson](https://vgperson.com/games/) - Japanese Translated Freeware Games
@@ -60,7 +61,6 @@
 * ⭐ **[M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)** - Download / [Discord](https://discord.gg/693hNBdymb)
 * [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - Download / Torrent / [Discord](https://discord.gg/HP5sQ6c)
 * [ScOOter Repacks](https://web.archive.org/web/20230315064712/https://scooter-repacks.site/) - Download / Torrent
-* [Xatab Repacks](https://byxatab.com/), [2](https://otxatabs.net/)  - Torrent
 * [Darck Repacks](https://darckrepacks.com/) - Download
 * [Elamigos](https://elamigos.site/) - Download
 * [GameDrive](https://gamedrive.org/) - Download / Torrent / [Discord](https://gamedrive.org/discord)
@@ -70,17 +70,6 @@
 * [CollectionChamber](https://collectionchamber.blogspot.com/) - Retro PC Games
 * [ClassicPCGames](https://archive.org/details/classicpcgames) - Retro PC Games
 * [~archive](http://websites.umich.edu/~archive/) - Retro PC / Mac Games
-
-***
-
-## ▷ DLC Unlockers
-
-* ⭐ **[CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576)** - Steam DLC Unlocker / [Auto Setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521) / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
-* [Koalageddon](https://github.com/acidicoala/Koalageddon/) / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
-* [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin and EA
-* [DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?t=104412) - DLC Unlocker for EA and Origin
-* [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker 
-* [Steam DLC Data](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837) - Find SteamDB DLC Data / [GitHub](https://github.com/Sak32009/GetDLCInfoFromSteamDB)
 
 ***
 
@@ -495,7 +484,7 @@
 * [Kingdom of Loathing](https://www.kingdomofloathing.com/) - Comedy RPG 
 * [Bruno-Simon](https://bruno-simon.com/) - Truck Driving Game
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / [GitHub](https://github.com/pmndrs/racing-game) / [Discord](https://discord.gg/dQW7fDmaAG)
-* [s l o w  r o a d s](https://slowroads.io/) - Driving Game
+* [s l o w r o a d s](https://slowroads.io/) - Driving Game
 * [JoeDangerTheGame](https://joedangerthegame.com/) - Trials Inspired Game
 * [A Leaf on the Wind](http://anism.org/lotw/) - Leaf Arcade Game 
 * [Polka Dot Game](https://www.polkadotgame.com/) - Dodge & Eat Dots
@@ -1131,13 +1120,21 @@
 
 ## ▷ Steam / Epic
 
-* ⭐ **[Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator)** / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg), [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935) / [GitHub](https://github.com/MAXBURAOT/SmartSteamEmu) or [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Steam Multiplayer Client Emulators
+* ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
+* ⭐ **[SmokeAPI](https://github.com/acidicoala/SmokeAPI)** - Steam DLC Unlocker 
+* ⭐ **[Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator)** / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg), [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) or [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Steam Multiplayer Client Emulators
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
 * ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
 * ⭐ **[Andy's Steam Crack Guide](https://rentry.org/steamcrackguidebyanddy)** / [2](https://redd.it/pmim9t) - Add Cracked Games to Steam / [Client](https://mega.nz/file/mpdAXKTZ#3CVjRZG1i8K_Zn8b9IIARbIZZE73KdzazVHMDcaWZJc)
 * ⭐ **[SteamDB](https://steamdb.info/)** - Steam Insights Tool / [Extension](https://steamdb.info/extension/)
 * ⭐ **[A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)** or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tools Index
 * ⭐ **[LEGENDARY](https://github.com/derrod/legendary)**, [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) or [Rare](https://github.com/Dummerle/Rare) - Epic Games Launcher 
+* ⭐ **[Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)** - Epic Online Service Emulator
+* [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Steam DLC Unlocker / [Auto Setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521) / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
+* [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin and EA
+* [DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?t=104412) - DLC Unlocker for EA and Origin
+* [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker 
+* [Steam DLC Data](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837) - Find SteamDB DLC Data / Create Configs / [GitHub](https://github.com/Sak32009/GetDLCInfoFromSteamDB)
 * [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Steam Library Organizer
 * [ColdAPI](https://github.com/Rat431/ColdAPI_Steam) - Offline Steam Emulator
 * [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
@@ -1173,7 +1170,6 @@
 * [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
 * [Steam-Deck.Force](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - Force SteamOS Boot
 * [HoloISO](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) Archiso Config
-* [Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551) - Epic Online Service Emulator
 
 ***
 
