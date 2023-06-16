@@ -1375,6 +1375,8 @@
 * [rublacklist](https://reestr.rublacklist.net/?status=1&gov=4&paginate_by=50), [2](https://reestr.rublacklist.net/?status=1&gov=24&paginate_by=50) - Warez list
 * [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio / Software / Games / Android
 * [rsload](https://rsload.net/) - Software / Android / Games
+* [m0nkrus](https://w14.monkrus.ws/) - Warez / Software
+* [Flibustier](https://flibustier64.com/) - Software / OS
 * [2BakSa](http://2baksa.ws/) - Video / Audio / Games / Software / Books
 * [Allmults](https://allmults.org/) - Cartoons
 * [tancpol](https://tancpol.net/) - MP3
@@ -1424,15 +1426,15 @@
 
 ## ▷ Streaming
 
-* ⭐ **[HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html)** - Movies / TV / Anime / Android / Aggregator / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
-* [rezka](https://rezka.ag/) - Movies / TV / Anime
-* [Yohoho](https://yohoho.cc/), [2](https://4h0y.gitlab.io/) - Movies / Anime
+* ⭐ **[rezka](https://rezka.ag/)** - Movies / TV / Anime
+* ⭐ **[Yohoho](https://yohoho.cc/), [2](https://4h0y.gitlab.io/)** - Movies / Anime
+* [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Android / Aggregator / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * [baskino](http://baskino.me/) - Movies
 * [Gidonline](https://gidonline.io/) - Movies
 * [KinoGo](https://kinogo.la/), [2](https://kinogo.ca/) - Movies / TV / Anime / [Telegram](https://t.me/kinogoby)
 * [Kinotochka](https://kinotochka.co/) - Movies / TV / Anime
 * [kinokong](https://kinokong.pro/) - Movies / TV
-* [Zetflix](https://zetlix.online/), [2](https://zetlix.zone/) - Movies / TV
+* [Zetflix](https://zetlix.zone/) - Movies / TV
 * [RussianFilmHub](https://russianfilmhub.com/) - Movies / TV
 * [viho.live](https://viho.live/) - Movies / TV / Anime
 * [EX-FS](https://ex-fs.net/) - Movies / TV / Anime
@@ -1452,7 +1454,6 @@
 * [DarkLibria](https://darklibria.it/) - Anime
 * [Soviet Movies Online](https://sovietmoviesonline.com/cartoons) - Cartoons
 * [Dokonlin.ru](https://www.dokonlin.online/) - Documentaries
-* [Kinoflux](https://kinoflux.org/) - Asian Drama
 * [VseDoramy](https://vsedoramy.net/) - Asian Drama
 * [doram](https://doramy.lol/) - Asian TV
 * [turkishtv.ru](http://turkishtv.ru/) - Turkish / Indian TV
@@ -1471,8 +1472,8 @@
 * [VIP-TV](https://vip-tv.online/) - IPTV Playlists
 * [myzuka](https://myzuka.club/) - Music
 * [Tancpol](https://tancpol.net/) - Music
-* [MP3Hero](https://mp3hero.net/) - Music
 * [z2.fm](https://z2.fm/) - Music
+* [E:/Music/](https://vk.com/e_music) - Music
 * [MDCORE](https://vk.com/mdcore) - Metal Music
 * [Top Radio](https://top-radio.ru/) - Radio
 * [OpenEDU](https://openedu.ru/) - Courses
