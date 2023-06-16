@@ -27,7 +27,6 @@
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28)
 * [Shiba](https://github.com/nbats/FMHYedit/blob/main/base64.md#shiba)
 * [KL Teamdrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#kl-teamdrive)
-* [Cloud Eleventh Hour](https://github.com/nbats/FMHYedit/blob/main/base64.md#cloud-eleventh-hour)
 * [Xtremecloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#xtremecloud)
 * [smolOD](https://github.com/nbats/FMHYedit/blob/main/base64.md#smolod) - Small Open Directories
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
@@ -342,7 +341,7 @@
 # ► File Leeches
 
 * ⭐ **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)** or [leechlisting](https://www.leechlisting.com/) - Leech Lists
-* [@Transload](https://t.me/transload), [@deltaleechbot](https://t.me/deltaleechbot) or [@GTransLoaderbot](https://t.me/GTransLoaderbot) - Telegram Leech Bots
+* [@Transload](https://t.me/transload) or [@deltaleechbot](https://t.me/deltaleechbot) - Telegram Leech Bots
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Send Premium Files to Leeches
 * [RapidGrab](https://rapidgrab.pl/) - Leech
 * [Newscon](https://www.newscon.net/d1/) - Leech

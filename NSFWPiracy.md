@@ -29,7 +29,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Unegeekette](http://unegeekette.com/) 
 * [Area51](https://area51.to/en/)
 * [QuickiePage](https://quickiepage.com/) 
-* [FreePornLTD](https://freepornltd.org/) 
 * [ThePornMap](https://thepornmap.com/) 
 * [PornBox](http://pornbox.org/)
 * [PrimePornList](https://www.primepornlist.com/)
@@ -114,7 +113,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Rule34World](https://rule34.world/) - Rule 34 Images
 * [Republic of Korea](https://republic-of-korea.com/) - Asian Porn
 * [yadongkorea](https://yadongkorea.net/) - Asian Porn
-* [coomerville](https://coomerville.com/) - Asian Porn
 * [ArcJav](https://arcjav.com/) - Japanese Porn
 * [missav](https://missav.com/en) - Japanese Porn
 * [SEGNECK](https://discord.gg/jP5BHAUbeu) - Japanese Porn
@@ -204,7 +202,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Leak CSE](https://cse.google.com/cse?cx=d638aa7da557546d5), [2](https://cse.google.com/cse?cx=230603009f774dff1) - Leak Custom Search Engines
 * [kemono.party](https://kemono.party/) - Patreon / Use Adblock
 * [MissingToofff](https://missingtoofff.com/) - OnlyFans Leak Site List
-* [PornDude OnlyFans](https://theporndude.com/snapchat-nudes-sites) - OnlyFans / Patreon
 * [SimpCity](https://simpcity.su/) - OnlyFans / Patreon
 * [Coomer.Party](https://coomer.party/artists) - OnlyFans
 * [InfluencersGoneWild](https://influencersgonewild.com/) - OnlyFans / Patreon
@@ -243,7 +240,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [EroticAge](https://www.eroticage.net/)
 * [VintageClassix](http://www.vintageclassix.com/)
 * [paradisehill](https://en.paradisehill.cc/)
-* [WatchMovies](https://watchomovies.xyz/)
 * [Cat3Movies](https://cat3movie.org/)
 * [freeomovie.info](https://freeomovie.info/)
 * [freeomovie.to](https://www.freeomovie.to/)
@@ -383,7 +379,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [PornHub Plus](https://sleazyfork.org/en/scripts/380711) - Add PornHub Features
 * [electric.smut](https://nsfwai.com/) or [PornPen](https://pornpen.ai/) - NSFW Image Generators
 * [MoanMyIP](https://www.moanmyip.com/) - Sexy Girls Moaning Your IP
-* [AdultOpenAI](http://adultopenai.pythonanywhere.com/) - Uncensored ChatGPT
+* [AdultOpenAI](http://adultopenai.pythonanywhere.com/) or [Unhinged](https://www.unhinged.ai/) - NSFW Ai Chatbots
 
 ***
 

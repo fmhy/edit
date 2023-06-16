@@ -139,7 +139,7 @@ Use [this](https://wallabag.nixnet.services/) to read the article easily.
 
 ### Streaming 📽
 
-**[FMovies](https://fmovies.name/) / [movie-web](https://movie-web.app/) / [Soap2Day](https://soapgate.org/)** - Fast streaming
+**[FMovies](https://fmovies.name/) / [movie-web](https://movie-web.app/)** - Fast streaming
 **[Zoro](https://zoro.to/) / [Marin](https://marin.moe/) / [9Anime](https://www.9anime.to/)** - Fast anime streaming
 **[Dramacool](https://dramacool.cy/) / [KissAsian](https://kissasian.li/)** - Fast Asian drama streaming
 **[SportsSurge](https://sportsurge.net/)** - Live sports streaming
@@ -154,7 +154,7 @@ Use [this](https://wallabag.nixnet.services/) to read the article easily.
 
 **[SoftArchive](https://sanet.st) / [Open Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_download_directories) / [Usenet](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_usenet)** - Download video, audio, games, software & more
 **[AppNee](https://appnee.com) / [FileCR](https://filecr.com/en/) / [RSLOAD](https://rsload.net/)** - Trusted software sites / [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass)
-**[Rinzry](https://github.com/nbats/FMHYedit/blob/main/base64.md#rinzry) / [50TB Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#50tb-mega-drive)** - Fast video downloads
+**[50TB Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#50tb-mega-drive)** - Fast video downloads
 **[AnimeKaizoku](https://animekaizoku.com/)** - Fast anime downloads
 **[FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/) / [GOG-Games](https://gog-games.to/)** - Game download sites / [FitGirl Discord](https://discord.gg/fitgirlrepacks)
 **[AlvRo](https://github.com/nbats/FMHYedit/blob/main/base64.md#alvro) / [Vimms Lair](https://vimm.net/)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)

@@ -102,12 +102,12 @@
 
 # ► Antivirus
 
+* ⭐ **[Antivirus Programs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_antivirus)** - Virus Protection / Scanning
 * ⭐ **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - Malware Analysis Tools / Resources
 * ⭐ **[How to Avoid Malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)** - Malware Avoidance Guide
 * ⭐ **[How to Remove Malware](https://redd.it/33evdi)** - Malware Removal Guide
 * ⭐ **[Guide4VirusTotal](https://rentry.org/Guide4VirusTotal)** - Virus Scan Results Guide / [Source](https://www.reddit.com/r/Piracy/comments/n62da6/comment/gx4whhz/)
 * ⭐ **[VToncolab](https://rentry.org/vtoncolab)** - Scan Files Without Downloading Them
-* ⭐ **[Antivirus Programs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_antivirus)** - Virus Protection / Scanning
 * ⭐ **[Virus File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scan_files)** - Individual File Scanners
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** or [Ultra Adware Killer](https://www.carifred.com/ultra_adware_killer/) - Anti-Adware
 * ⭐ **[TronScript](https://old.reddit.com/r/TronScript/)** / [DL](https://www.reddit.com/r/TronScript/wiki/downloads) - Virus Removal Script
@@ -522,7 +522,6 @@
 * [HideMe](https://hide.me/) - Free VPN
 * [Calyx VPN](https://calyx.net/) - Free VPN
 * [Leap VPN](https://leap.se/) - Free VPN
-* [GreenHub](https://greenhubtx.ga/) - Free VPN
 * [Clash](https://github.com/Fndroid/clash_for_windows_pkg) - Free VPN / [Profiles](https://rentry.co/2q3rn)
 * [Portals](https://www.portalsvpn.com/) - dVPN
 * [TunnelBear](https://www.tunnelbear.com/) - Free VPN / 500mb

@@ -13,7 +13,6 @@
 
 ## ▷ Dedicated Hosts
 
-* ⭐ **[Soap2Day](https://soapgate.org/)** - Movies / TV
 * ⭐ **[Ask4Movies](https://ask4movie.mx/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
 * ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / Invite Code: mpgh or 1hack
 * ⭐ **[Watch A Movie](https://watcha.movie/)** - Movies / TV / [Discord](https://discord.gg/PvAg9Rc7kQ)
@@ -103,6 +102,7 @@
 * ⭐ **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * ⭐ **[FlixHQ](https://flixhq.click/)** - Movies / TV / Anime
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
+* ⭐ **[Seez](https://seez.su/)** - Movies / TV
 * ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime
 * ⭐ **[Kodi](https://kodi.tv/)** - Media Server / Streaming App / [Addons / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kodi_tools)
 * ⭐ **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - Multi-Site Search
@@ -122,7 +122,6 @@
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
 * [YesHD](https://yeshd.net/) - Movies / TV
 * [OnionPlay](https://onionplay.se/) - Movies / TV / [Mirrors](https://onionplay.network/)
-* [Swatchfree](https://swatchfree.in/) - Movies / TV
 * [Filmxy](https://www.filmxy.online/) - Movies
 * [MoviesLair](https://movielair.cc/) - Movies / TV
 * [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime
@@ -271,13 +270,15 @@
 * [35mm](https://35mm.online/en) - Polish Film Archive
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 * [Danish Silent Film](https://www.stumfilm.dk/en/stumfilm) - Silent Danish Film Archive
-* [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://nfpf.otter.network/) / [2](https://www.filmpreservation.org/) - Historic Footage / Films
+* [Historic Films](https://www.historicfilms.com/) or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
 * [Imperial War Museums](https://www.iwm.org.uk/) - Historic War Footage
 * [Prelinger Archives](http://www.panix.com/~footage/) - Ephemeral Films [Archive](https://archive.org/details/prelinger)
 * [StageDork](http://stagedork.com/), [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
 * [GlobalShakespeares](https://globalshakespeares.mit.edu/) - Shakespeare Performance Recordings
 * [SidePlusLeaks](https://sideplusleaks.com/) or [FreeSidePlus](https://freesideplus.com/) - Sidemen Content  / [App](https://pixeldrain.com/u/PodC9xL2)
 * [Unus Annus](https://archive.org/details/unus-annus) - Unus Annus Archive
+* [Daily Commercials](https://dailycommercials.com/) - Commercial Archive
+* [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - Japanese Commercial Archive
 * [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/), [2](https://github.com/joric/bandersnatch) - Interactive player for Black Mirror: Bandersnatch
 * [ListenToAMovie](https://listentoamovie.com/) - Listen to Movies
 * [Audiovault](https://audiovault.net/) - Descriptive Audio for Blind Users 
@@ -448,7 +449,7 @@
 * [SportsReplay](https://discord.com/invite/2r4pj67gCv) - [F1](https://racereplay.net/) / [MMA](https://fullfights.net/)
 * [Hula8](https://www.hula8.net/) - MMA
 * [Bellator](https://www.bellator.com/video) - MMA
-* [MMACore](https://www.mma-core.com/videos/home) - MMA
+* [MMACore](https://www.mma-core.com) - MMA
 * [BoxingBoxingvideoideo](https://boxingvideo.org/) - Boxing
 * [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / K1
 * [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports
@@ -502,7 +503,6 @@
 * [Harley Quinn](https://live.harleyquinnwidget.live/) - Sports
 * [Sports Plus](https://en12.sportplus.live/) - Sports
 * [livetv](http://livetv.sx) - Sports
-* [bilaSport](http://bilasport.net/) - Sports
 * [WatchKobe](http://watchkobe.info/) - Sports
 * [VIP Box Sports](https://www.viprow.nu/) - Sports
 * [VIP Box](https://www.vipbox.lc/) - Sports
@@ -675,7 +675,6 @@
 
 ## ▷ Drives / Directories 
 
-* ⭐ **[Rinzry](https://github.com/nbats/FMHYedit/blob/main/base64.md#rinzry)** - Movies / TV / Anime
 * ⭐ **[Foogle](https://foogle.shivamhw.me/)** - Movies / TV
 * ⭐ **[50TB](https://github.com/nbats/FMHYedit/blob/main/base64.md#50tb-mega-drive)** - Movies
 * ⭐ **[Rek's Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#reks-drive)** - Movies / Anime
@@ -756,7 +755,7 @@
 ***
 
 * ⭐ **[Stremio](https://www.stremio.com/)** / [Enhanced](https://github.com/REVENGE977/stremio-enhanced-community) - Torrent Streaming App
-* ⭐ **Stremio Tools** - [Guide](https://rentry.co/privatestremio) / [Addons](https://stremio-addons.netlify.app/) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [Watch Together](https://redd.it/cvmu80) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/) / [GDrive Fetch](https://github.com/ShuvamJaswal/Gdrive-Stremio-Update) / [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure)
+* ⭐ **Stremio Tools** - [Guide](https://rentry.co/privatestremio) / [Addons](https://stremio-addons.netlify.app/) / [PimpMyStremio](https://github.com/sungshon/PimpMyStremio) / [Downloader](https://github.com/BurningSands70/stremio-downloader) / [Watch Together](https://redd.it/cvmu80) / [ffmpeg Wrapper](https://github.com/streamio/streamio-ffmpeg) / [Trakt](https://2ecbbd610840-trakt.baby-beamup.club/) / [Anime Catalogs](https://1fe84bc728af-stremio-anime-catalogs.baby-beamup.club/configure)
 * ⭐ **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/), [Traktarr](https://github.com/l3uddz/traktarr) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents
 * ⭐ **[Radarr](https://radarr.video/)** - Autodownload Movie Torrents / [GitHub](https://github.com/Radarr/Radarr)
 * ⭐ **[Sonarr](https://sonarr.tv/)** / [GitHub](https://github.com/Sonarr/Sonarr), [SickGear](https://github.com/SickGear/SickGear), [SiCKRAGE](https://github.com/SiCKRAGE/SiCKRAGE), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - Autodownload TV Torrents / [Guide](https://wiki.servarr.com/)
@@ -940,7 +939,6 @@
 * [DVDReleaseDates](https://www.dvdsreleasedates.com/) - DVD Release Dates
 * [TVTropes](https://tvtropes.org/) - TV Tropes Wiki
 * [MovieMap](http://www.themoviemap.com/), [Movie-Locations](http://www.movie-locations.com/), [MovieLoci](https://www.movieloci.com/), [AtlasOfWonders](https://www.atlasofwonders.com/), [WhereDidTheyFilmThat](http://www.wheredidtheyfilmthat.co.uk/), [British-Film-Locations](http://www.british-film-locations.com/) - Film Location Maps
-* [KoreanDramaLand](https://koreandramaland.com/) - Korean Drama Filming Location Map
 
 ***
 
@@ -951,7 +949,7 @@
 * ⭐ **[Substital](https://substital.com/)** or [Movie-Subtitles](https://github.com/gignupg/Movie-Subtitles) - External Subtitle Extensions
 * ⭐ **[External Subtitles Player](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_external_subs_player)** - External Subtitle Players
 * [elSubtitle](https://www.elsubtitle.com/) - Subtitles & Tools
-* [GSubs](https://cholaware.com/gsubs/) or [Subsearch](https://github.com/vagabondHustler/subsearch) - Subtitle Search Tools
+* [Subsearch](https://github.com/vagabondHustler/subsearch) - Subtitle Search Tools
 * [Subtitle Cat](https://www.subtitlecat.com/) - Subtitles
 * [Subscene](https://subscene.com/) - Subtitles
 * [SubDL](https://subdl.com/) - Subtitles
