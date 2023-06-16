@@ -9,9 +9,9 @@
 ***
 ***
 
-# ► Streaming
+# ► Courses 
 
-## ▷ Courses
+## ▷ Streaming
 
 * ⭐ **[Coursera](https://www.coursera.org/)** - Courses / [Financial Aid](https://github.com/abdelrahmaan/Financial-aid-on-coursera-) / [Download](https://github.com/coursera-dl/coursera-dl)
 * ⭐ **[edX](https://www.edx.org/)** - Courses
@@ -98,37 +98,9 @@
 * [Fresh Coupons](https://github.com/KajanM/fresh-coupons) - Automatically Apply Discount Coupons on Udemy Courses / [Chrome](https://chrome.google.com/webstore/detail/fresh-coupons/pbnfeejfjlmmjfgnmmfpalhlpjidlgie)
 * [CommSpeeches](https://commspeeches.softr.app/) - Famous Graduation Speeches
 
-***
+***  
 
-## ▷ Documentaries
-
-* ⭐ **[Ihavenotv](https://ihavenotv.com/)**
-* ⭐ **[DocumentaryArea](https://www.documentaryarea.tv/)**
-* [LearnOutLoud](https://www.learnoutloud.com/)
-* [Top Documentary Films](https://topdocumentaryfilms.com/)
-* [Documentary Streaming](https://documentary-streaming.com/)
-* [Media Burn Archive](https://mediaburn.org/)
-* [DocumentaryHeaven](https://documentaryheaven.com/)
-* [ARTE](https://www.arte.tv/)
-* [Documentary Network](https://documentary.net/)
-* [Documentary Mania](https://www.documentarymania.com/)
-* [Documentary Storm](https://www.documentarystorm.com/)
-* [Documentary Tube](https://www.documentarytube.com/)
-* [Rocumentaries](https://rocumentaries.com/)
-* [WatchDocumentaries](https://watchdocumentaries.com/)
-* [Cinetimes](https://cinetimes.org/en/)
-* [Docur](https://docur.co/)
-* [ThoughtMaybe](https://thoughtmaybe.com/)
-* [Folkstreams](https://www.folkstreams.net/)
-* [Films For Action](https://www.filmsforaction.org/)
-* [/r/Documentaries](https://reddit.com/r/Documentaries)
-* [Smithsonian Channel](https://www.smithsonianchannel.com/) - Each Series' First Episode is Free
-
-***
-
-# ► Downloading
-
-## ▷ Courses
+## ▷ Downloading
 
 * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners.
 * ⭐ **[freesoff](https://freesoff.com/)** - Courses
@@ -211,18 +183,9 @@
 * [Udacimak](https://github.com/udacimak/udacimak) - Udacity Nanodegree / Course Downloader
 * [firerip](https://github.com/lem6ns/firerip) - Fireship.io Course Grabber / [Script](https://greasyfork.org/en/scripts/455330-freeship)
 
-## ▷ Documentaries
+*** 
 
-* [Docuwiki](https://docuwiki.net/) - [Emule required](https://www.emule-project.net/)
-* [Open-Video](https://open-video.org/)
-* [Documentaries & Archive](https://t.me/joinchat/S6gY9zmO5Ubl15CW)
-* [Nebula's Essence](https://discord.com/invite/HvrQefs3Cw) - Nebula / Curiosity Documentaries
-
-***
-
-# ► Torrenting
-
-## ▷ Courses
+## ▷ Torrenting
 
 * **Note** - Remember to get a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) before torrenting
 * [Course Torrent / DDL CSE](https://cse.google.com/cse?cx=37dfc1f1ac9ef45e7) - Multi-Site Course Search
@@ -238,9 +201,36 @@
 * [Giga Course](https://gigacourse.com/) - Udemy Courses
 * [Pimp My Money](https://pimpmymoney.net/) - Digital Marketing Courses
 
-## ▷ Documentaries
+***
 
+# ► Documentaries
+
+* ⭐ **[Ihavenotv](https://ihavenotv.com/)**
+* ⭐ **[DocumentaryArea](https://www.documentaryarea.tv/)**
 * ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)**
+* [LearnOutLoud](https://www.learnoutloud.com/)
+* [Top Documentary Films](https://topdocumentaryfilms.com/)
+* [Documentary Streaming](https://documentary-streaming.com/)
+* [Media Burn Archive](https://mediaburn.org/)
+* [DocumentaryHeaven](https://documentaryheaven.com/)
+* [ARTE](https://www.arte.tv/)
+* [Documentary Network](https://documentary.net/)
+* [Documentary Mania](https://www.documentarymania.com/)
+* [Documentary Storm](https://www.documentarystorm.com/)
+* [Documentary Tube](https://www.documentarytube.com/)
+* [Rocumentaries](https://rocumentaries.com/)
+* [WatchDocumentaries](https://watchdocumentaries.com/)
+* [Cinetimes](https://cinetimes.org/en/)
+* [Docur](https://docur.co/)
+* [ThoughtMaybe](https://thoughtmaybe.com/)
+* [Folkstreams](https://www.folkstreams.net/)
+* [Films For Action](https://www.filmsforaction.org/)
+* [/r/Documentaries](https://reddit.com/r/Documentaries)
+* [Smithsonian Channel](https://www.smithsonianchannel.com/) - Each Series' First Episode is Free
+* [Docuwiki](https://docuwiki.net/) - [Emule required](https://www.emule-project.net/)
+* [Open-Video](https://open-video.org/)
+* [Documentaries & Archive](https://t.me/joinchat/S6gY9zmO5Ubl15CW)
+* [Nebula's Essence](https://discord.com/invite/HvrQefs3Cw) - Nebula / Curiosity Documentaries
 * [Videoneat](https://www.videoneat.com/)
 * [MVGroup](https://forums.mvgroup.org/)
 
