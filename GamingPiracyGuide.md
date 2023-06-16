@@ -1091,6 +1091,7 @@
 * [Warzone Loadout](https://warzoneloadout.games/) - Warzone Loadouts and Builds
 * [DMZ Calculator](https://sebranly.github.io/dmz/) - DMZ Currency to Cooldown Converter
 * [u.gg](https://u.gg/), [MobaFire](https://www.mobafire.com/), [ProBuilds](https://www.probuilds.net/) or [LoLalytics](https://lolalytics.com/) - League of Legends Build Guides & Tiers
+* [Zar](https://zar.gg) - LoL In-Game Coaching Overlay
 * [LoL Math](https://lolmath.net/) - League of Legends Build Calculator
 * [League of Graphs](https://www.leagueofgraphs.com/) - Champion Rankings
 * [Rewind.lol](https://rewind.lol/) or [LoLEcho](http://lolecho.com/) - League of Legends Match History
