@@ -137,7 +137,6 @@
 * [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - App Giveaway Sites
 * [Aero Apps](https://t.me/aerolla) - Modded Social Media Apps
 * [IzzyOnDroid](https://android.izzysoft.de/applists.php) - App Repository / [F-Droid](https://apt.izzysoft.de/fdroid/index.php) 
-* [Haoict Repository](https://haoict.github.io/cydia/) - App Repository
 * [DivestOS](https://divestos.org/fdroid/official/) - App Repository
 * [Aurora Store](https://auroraoss.com/), [2](https://gitlab.com/AuroraOSS/AuroraStore) - Alt App Store / [Bypass Limits](https://youtu.be/L5RrtxQUtVE)
 * [Aptoide](https://aptoide.com/) - Alt App Store
@@ -958,6 +957,7 @@
 * [Repo Updates](https://www.ios-repo-updates.com/) - App Repository Updates
 * [paxcex](https://paxcex.github.io/) - App Repository
 * [CydiaGeek](https://cydiageek.yourepo.com/) - App Repository
+* [Haoict Repository](https://haoict.github.io/cydia/) - App Repository
 * [iPA Host](https://github.com/ipahost) - App Tweaks / Social Media’s
 * [EonHub](https://app.eonhubapp.com/) - Hacked / Tweaked Apps
 * [iOSObscura](https://archive.org/details/iOSObscura) - Old App Archive
