@@ -2222,7 +2222,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Scene Release Trackers
 
-* [/r/CrackWatch](https://reddit.com/r/CrackWatch) / [Discord](https://discord.gg/d9StxkknwX)
+* [/r/CrackWatch](https://www.reddit.com/r/CrackWatch/) / [Discord](https://discord.gg/d9StxkknwX)
 * [SteamCrackStatus](https://steamcrackedgames.com/) / [Discord](https://discord.com/invite/hrCtqcyHKw)
 * [/r/dailyreleases](https://www.reddit.com/r/dailyreleases/)
 * [/r/RepackWorld](https://reddit.com/r/RepackWorld)
