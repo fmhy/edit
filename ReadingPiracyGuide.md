@@ -1205,6 +1205,7 @@
 * ⭐ **[eBoox](https://eboox.ru/en/)** - Ebook Reader / Android / iOS
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader.html)** - PDF Reader
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / Android / iOS
+* ⭐ **[Raven Reader](https://ravenreader.app/)** - Article Reader / Manager
 * ⭐ **[Mobile Read](https://www.mobileread.com/)** - Ebook / Reader Discussion Forum
 * [Ubooquity](http://vaemendis.net/ubooquity/) - Manager / Reader / PC / Android / iOS
 * [Librum](https://github.com/Librum-Reader/Librum) - Ebook Reader / PC / Android / iOS / Linux / Mac
@@ -1231,7 +1232,6 @@
 * [AnyFlip](https://anyflip.com/) - Interactive Flipbook Reader
 * [All My Books](https://www.bolidesoft.com/allmybooks.html) - Book Catalog
 * [Open Media Library](https://openmedialibrary.com/) - Online Book Manager
-* [Raven Reader](https://ravenreader.app/) - Article Reader / Manager
 * [Cubari](https://cubari.moe/) - Image Proxy / Reader
 * [EinkBro](https://github.com/plateaukao/einkbro) - E-Ink Browser
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - Read Books in Browser
