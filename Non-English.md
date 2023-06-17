@@ -128,17 +128,26 @@
 
 # ► Bulgarian
 
-## ▷ Downloading
-
-* [videofen](https://www.videofen.com/) - Warez list
-
 ## ▷ Torrenting
 
-* [Zamunda](https://zamunda.net/) - Registration Required
+* [Zamunda](https://zamunda.net/) - Registration Required / Video / Audio / Software / Games / Books / NSFW
 
 ## ▷ Streaming
 
-* [cinemabg](https://cinemabg.club/) - Movies
+* [Film4e](https://film4e.com/) - Movies / TV / Cartoons / Sub / Dub / 1080p
+* [VSI4KIFILMI](https://vsi4kifilmi.com/) - Movies / TV / Cartoons / Sub / Dub / 720p / Customizable Subtitles
+* [BGTVNET](https://bgtvnet.com/) - Movies / TV / Cartoons / Sub / 720p
+* [Filmite.Info](http://filmi99.com/) - Movies / TV / Cartoons / Sub / 720p
+* [bgseriali](https://bgseriali.com/) - Movies / TV / Documentaries / Sub / Dub / 720p
+* [Movies9](https://movies9.site/) - Movies / TV / Sub / Dub / 720p
+* [Filmi24](https://filmi24.com/) - Movies / Sub / Dub / 720p
+* [FilmiPlay](https://filmiplay.com/) - Movies / Sub / Dub / 720p
+* [cinemabg](https://cinemabg.club/) - Movies / Sub / Dub / 720p
+* [BGTVI](https://bgtvi.com/) - TV / Sub / Dub / 720p
+* [BGESTV](https://bgestv.com) - TV / Sub / Dub / 720p
+* [TubeBG](https://www.tubebg.com/) - TV / Sub / Dub / 720p
+* [Gledai-me](https://gledai-me.com/) - TV / Sub / 720p
+* [TVSerialSite](https://tvserial.site/) - TV / Sub / 720p
 
 ***
 
