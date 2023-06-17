@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/JvzGT6y)** - For mobile users
+**[Table of Contents](https://ibb.co/LvVdtZy)** - For mobile users
 
 ***
 ***
@@ -734,6 +734,61 @@
 * [Arcade Prehacks](http://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
 * [How-to Play Flash Games](https://rentry.co/oc4wc) - Browser Flash Game Tutorial
 
+***
+
+# ► Steam / Epic
+
+* ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
+* ⭐ **[SmokeAPI](https://github.com/acidicoala/SmokeAPI)** - Steam DLC Unlocker 
+* ⭐ **[Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator)** / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg), [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) or [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Steam Multiplayer Client Emulators
+* ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
+* ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
+* ⭐ **[Andy's Steam Crack Guide](https://rentry.org/steamcrackguidebyanddy)** / [2](https://redd.it/pmim9t) - Add Cracked Games to Steam / [Client](https://mega.nz/file/mpdAXKTZ#3CVjRZG1i8K_Zn8b9IIARbIZZE73KdzazVHMDcaWZJc)
+* ⭐ **[SteamDB](https://steamdb.info/)** - Steam Insights Tool / [Extension](https://steamdb.info/extension/)
+* ⭐ **[A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)** or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tools Index
+* ⭐ **[LEGENDARY](https://github.com/derrod/legendary)**, [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) or [Rare](https://github.com/Dummerle/Rare) - Epic Games Launcher 
+* ⭐ **[Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)** - Epic Online Service Emulator
+* [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Steam DLC Unlocker / [Auto Setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521) / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
+* [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin and EA
+* [DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?t=104412) - DLC Unlocker for EA and Origin
+* [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker 
+* [Steam DLC Data](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837) - Find SteamDB DLC Data / Create Configs / [GitHub](https://github.com/Sak32009/GetDLCInfoFromSteamDB)
+* [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Steam Library Organizer
+* [ColdAPI](https://github.com/Rat431/ColdAPI_Steam) - Offline Steam Emulator
+* [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
+* [Steam Mover](https://www.traynier.com/software/steammover) - Store Steam Games on Multiple Drives
+* [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
+* [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
+* [The Wheelhaus](https://thewheelhaus.com/) - Find Random Steam Games
+* [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
+* [Steam Workshop Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)
+* [DepotDownloader](https://github.com/SteamRE/DepotDownloader) or [SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) - Steam Depot Downloaders
+* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop Implementation of Steam's Mobile Authenticator 
+* [Steam Python](https://github.com/ValvePython/steam) - Interact with Steam via Python
+* [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) or [IdleDaddy](https://play.google.com/store/apps/details?id=com.steevsapps.idledaddy) - Steam Card Automation
+* [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager 
+* [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) / [2](https://steamid.uk/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup 
+* [Steam++](https://steampp.net/) - Enhance Steam Functionality / [GitHub](https://github.com/BeyondDimension/SteamTools)
+* [AugmentedSteam](https://augmentedsteam.com/) - Steam Web Enhancement Extension 
+* [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
+* [SteaScree](https://steascree.download/) - Steam Cloud Screenshot Uploader
+* [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Conformation
+* [Steam Customizer](https://community.steamcustomizer.com/) or [SteamSkins](http://steamskins.org/) - Steam Skins
+* [SteamDarkMode](https://github.com/SleepDaemon/Modern-Steam) - Steam Dark Mode Skin
+* [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) - Steam GNOME Skin
+* [Backgrounds.Gallery](https://backgrounds.gallery/) - Steam Backgrounds
+* [Steam.Design](https://steam.design/) - Steam Background Cropper
+* [Center.Steam](https://center.steam.design/) - Center Steam Text
+* [Wishlist Removals](https://steamcommunity.com/sharedfiles/filedetails/?id=1746978201) - Remove Hidden Items from Steam Wishlist
+* [Steam Inventory Helper](https://steaminventoryhelper.com/) - Steam Inventory Enhancement Extension
+* [ArchiFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - Farm Steam Trading Cards
+* [Steam Deck Mods](https://docs.google.com/document/d/1TWhN9nCorKxut5O7UbPQPDhXLb-8C-CIoesB01yfhmY/) - Steam Deck Mods / [Discord](https://discord.com/invite/SteamDeck) / [Discord Bot](https://github.com/SteamDeckMods/sdm_discord_bot)
+* [Decky Loader](https://deckbrew.xyz/ ) - Steam Deck Plugin Loader / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
+* [Steam Deck Tools](https://github.com/ayufan/steam-deck-tools) - Fan Overlay, Power Control and Steam Controller
+* [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
+* [Steam-Deck.Force](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - Force SteamOS Boot
+* [HoloISO](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) Archiso Config
+
 *** 
 
 # ► Homebrew
@@ -1116,61 +1171,6 @@
 * [RoPro](https://ropro.io/), [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040) or [RoGold](https://discord.gg/XMHn9zV3UA) - Enhance Roblox Website
 * [ROBLOX Low Ping Finder](http://low-ping.dino.icu/) - Find Low Ping Roblox Servers
 * [VRCList](https://vrclist.com/) - Find VRChat Worlds
-
-***
-
-## ▷ Steam / Epic
-
-* ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
-* ⭐ **[SmokeAPI](https://github.com/acidicoala/SmokeAPI)** - Steam DLC Unlocker 
-* ⭐ **[Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator)** / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg), [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) or [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Steam Multiplayer Client Emulators
-* ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
-* ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
-* ⭐ **[Andy's Steam Crack Guide](https://rentry.org/steamcrackguidebyanddy)** / [2](https://redd.it/pmim9t) - Add Cracked Games to Steam / [Client](https://mega.nz/file/mpdAXKTZ#3CVjRZG1i8K_Zn8b9IIARbIZZE73KdzazVHMDcaWZJc)
-* ⭐ **[SteamDB](https://steamdb.info/)** - Steam Insights Tool / [Extension](https://steamdb.info/extension/)
-* ⭐ **[A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)** or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tools Index
-* ⭐ **[LEGENDARY](https://github.com/derrod/legendary)**, [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) or [Rare](https://github.com/Dummerle/Rare) - Epic Games Launcher 
-* ⭐ **[Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)** - Epic Online Service Emulator
-* [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Steam DLC Unlocker / [Auto Setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521) / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
-* [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin and EA
-* [DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?t=104412) - DLC Unlocker for EA and Origin
-* [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker 
-* [Steam DLC Data](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837) - Find SteamDB DLC Data / Create Configs / [GitHub](https://github.com/Sak32009/GetDLCInfoFromSteamDB)
-* [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Steam Library Organizer
-* [ColdAPI](https://github.com/Rat431/ColdAPI_Steam) - Offline Steam Emulator
-* [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
-* [Steam Mover](https://www.traynier.com/software/steammover) - Store Steam Games on Multiple Drives
-* [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
-* [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
-* [The Wheelhaus](https://thewheelhaus.com/) - Find Random Steam Games
-* [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
-* [Steam Workshop Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)
-* [DepotDownloader](https://github.com/SteamRE/DepotDownloader) or [SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) - Steam Depot Downloaders
-* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop Implementation of Steam's Mobile Authenticator 
-* [Steam Python](https://github.com/ValvePython/steam) - Interact with Steam via Python
-* [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) or [IdleDaddy](https://play.google.com/store/apps/details?id=com.steevsapps.idledaddy) - Steam Card Automation
-* [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager 
-* [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) / [2](https://steamid.uk/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup 
-* [Steam++](https://steampp.net/) - Enhance Steam Functionality / [GitHub](https://github.com/BeyondDimension/SteamTools)
-* [AugmentedSteam](https://augmentedsteam.com/) - Steam Web Enhancement Extension 
-* [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
-* [SteaScree](https://steascree.download/) - Steam Cloud Screenshot Uploader
-* [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Conformation
-* [Steam Customizer](https://community.steamcustomizer.com/) or [SteamSkins](http://steamskins.org/) - Steam Skins
-* [SteamDarkMode](https://github.com/SleepDaemon/Modern-Steam) - Steam Dark Mode Skin
-* [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) - Steam GNOME Skin
-* [Backgrounds.Gallery](https://backgrounds.gallery/) - Steam Backgrounds
-* [Steam.Design](https://steam.design/) - Steam Background Cropper
-* [Center.Steam](https://center.steam.design/) - Center Steam Text
-* [Wishlist Removals](https://steamcommunity.com/sharedfiles/filedetails/?id=1746978201) - Remove Hidden Items from Steam Wishlist
-* [Steam Inventory Helper](https://steaminventoryhelper.com/) - Steam Inventory Enhancement Extension
-* [ArchiFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - Farm Steam Trading Cards
-* [Steam Deck Mods](https://docs.google.com/document/d/1TWhN9nCorKxut5O7UbPQPDhXLb-8C-CIoesB01yfhmY/) - Steam Deck Mods / [Discord](https://discord.com/invite/SteamDeck) / [Discord Bot](https://github.com/SteamDeckMods/sdm_discord_bot)
-* [Decky Loader](https://deckbrew.xyz/ ) - Steam Deck Plugin Loader / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
-* [Steam Deck Tools](https://github.com/ayufan/steam-deck-tools) - Fan Overlay, Power Control and Steam Controller
-* [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
-* [Steam-Deck.Force](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - Force SteamOS Boot
-* [HoloISO](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) Archiso Config
 
 ***
 
