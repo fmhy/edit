@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/JvzGT6y)** - For mobile users
+**[Table of Contents](https://ibb.co/LvVdtZy)** - For mobile users
 
 ***
 ***
@@ -734,6 +734,61 @@
 * [Arcade Prehacks](http://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
 * [How-to Play Flash Games](https://rentry.co/oc4wc) - Browser Flash Game Tutorial
 
+***
+
+# ► Steam / Epic
+
+* ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
+* ⭐ **[SmokeAPI](https://github.com/acidicoala/SmokeAPI)** - Steam DLC Unlocker 
+* ⭐ **[Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator)** / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg), [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) or [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Steam Multiplayer Client Emulators
+* ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
+* ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
+* ⭐ **[Andy's Steam Crack Guide](https://rentry.org/steamcrackguidebyanddy)** / [2](https://redd.it/pmim9t) - Add Cracked Games to Steam / [Client](https://mega.nz/file/mpdAXKTZ#3CVjRZG1i8K_Zn8b9IIARbIZZE73KdzazVHMDcaWZJc)
+* ⭐ **[SteamDB](https://steamdb.info/)** - Steam Insights Tool / [Extension](https://steamdb.info/extension/)
+* ⭐ **[A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)** or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tools Index
+* ⭐ **[LEGENDARY](https://github.com/derrod/legendary)**, [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) or [Rare](https://github.com/Dummerle/Rare) - Epic Games Launcher 
+* ⭐ **[Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)** - Epic Online Service Emulator
+* [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Steam DLC Unlocker / [Auto Setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521) / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
+* [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin and EA
+* [DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?t=104412) - DLC Unlocker for EA and Origin
+* [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker 
+* [Steam DLC Data](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837) - Find SteamDB DLC Data / Create Configs / [GitHub](https://github.com/Sak32009/GetDLCInfoFromSteamDB)
+* [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Steam Library Organizer
+* [ColdAPI](https://github.com/Rat431/ColdAPI_Steam) - Offline Steam Emulator
+* [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
+* [Steam Mover](https://www.traynier.com/software/steammover) - Store Steam Games on Multiple Drives
+* [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
+* [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
+* [The Wheelhaus](https://thewheelhaus.com/) - Find Random Steam Games
+* [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
+* [Steam Workshop Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)
+* [DepotDownloader](https://github.com/SteamRE/DepotDownloader) or [SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) - Steam Depot Downloaders
+* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop Implementation of Steam's Mobile Authenticator 
+* [Steam Python](https://github.com/ValvePython/steam) - Interact with Steam via Python
+* [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) or [IdleDaddy](https://play.google.com/store/apps/details?id=com.steevsapps.idledaddy) - Steam Card Automation
+* [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager 
+* [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) / [2](https://steamid.uk/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup 
+* [Steam++](https://steampp.net/) - Enhance Steam Functionality / [GitHub](https://github.com/BeyondDimension/SteamTools)
+* [AugmentedSteam](https://augmentedsteam.com/) - Steam Web Enhancement Extension 
+* [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
+* [SteaScree](https://steascree.download/) - Steam Cloud Screenshot Uploader
+* [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Conformation
+* [Steam Customizer](https://community.steamcustomizer.com/) or [SteamSkins](http://steamskins.org/) - Steam Skins
+* [SteamDarkMode](https://github.com/SleepDaemon/Modern-Steam) - Steam Dark Mode Skin
+* [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) - Steam GNOME Skin
+* [Backgrounds.Gallery](https://backgrounds.gallery/) - Steam Backgrounds
+* [Steam.Design](https://steam.design/) - Steam Background Cropper
+* [Center.Steam](https://center.steam.design/) - Center Steam Text
+* [Wishlist Removals](https://steamcommunity.com/sharedfiles/filedetails/?id=1746978201) - Remove Hidden Items from Steam Wishlist
+* [Steam Inventory Helper](https://steaminventoryhelper.com/) - Steam Inventory Enhancement Extension
+* [ArchiFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - Farm Steam Trading Cards
+* [Steam Deck Mods](https://docs.google.com/document/d/1TWhN9nCorKxut5O7UbPQPDhXLb-8C-CIoesB01yfhmY/) - Steam Deck Mods / [Discord](https://discord.com/invite/SteamDeck) / [Discord Bot](https://github.com/SteamDeckMods/sdm_discord_bot)
+* [Decky Loader](https://deckbrew.xyz/ ) - Steam Deck Plugin Loader / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
+* [Steam Deck Tools](https://github.com/ayufan/steam-deck-tools) - Fan Overlay, Power Control and Steam Controller
+* [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
+* [Steam-Deck.Force](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - Force SteamOS Boot
+* [HoloISO](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) Archiso Config
+
 *** 
 
 # ► Homebrew
@@ -1091,6 +1146,7 @@
 * [Warzone Loadout](https://warzoneloadout.games/) - Warzone Loadouts and Builds
 * [DMZ Calculator](https://sebranly.github.io/dmz/) - DMZ Currency to Cooldown Converter
 * [u.gg](https://u.gg/), [MobaFire](https://www.mobafire.com/), [ProBuilds](https://www.probuilds.net/) or [LoLalytics](https://lolalytics.com/) - League of Legends Build Guides & Tiers
+* [Zar](https://zar.gg) - LoL In-Game Coaching Overlay
 * [LoL Math](https://lolmath.net/) - League of Legends Build Calculator
 * [League of Graphs](https://www.leagueofgraphs.com/) - Champion Rankings
 * [Rewind.lol](https://rewind.lol/) or [LoLEcho](http://lolecho.com/) - League of Legends Match History
@@ -1115,61 +1171,6 @@
 * [RoPro](https://ropro.io/), [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040) or [RoGold](https://discord.gg/XMHn9zV3UA) - Enhance Roblox Website
 * [ROBLOX Low Ping Finder](http://low-ping.dino.icu/) - Find Low Ping Roblox Servers
 * [VRCList](https://vrclist.com/) - Find VRChat Worlds
-
-***
-
-## ▷ Steam / Epic
-
-* ⭐ **[Koalageddon](https://github.com/acidicoala/Koalageddon/)** / [v2](https://github.com/acidicoala/Koalageddon2) - DLC Unlocker for Steam, Epic, Origin, EA and Uplay
-* ⭐ **[SmokeAPI](https://github.com/acidicoala/SmokeAPI)** - Steam DLC Unlocker 
-* ⭐ **[Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator)** / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg), [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) or [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Steam Multiplayer Client Emulators
-* ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
-* ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
-* ⭐ **[Andy's Steam Crack Guide](https://rentry.org/steamcrackguidebyanddy)** / [2](https://redd.it/pmim9t) - Add Cracked Games to Steam / [Client](https://mega.nz/file/mpdAXKTZ#3CVjRZG1i8K_Zn8b9IIARbIZZE73KdzazVHMDcaWZJc)
-* ⭐ **[SteamDB](https://steamdb.info/)** - Steam Insights Tool / [Extension](https://steamdb.info/extension/)
-* ⭐ **[A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)** or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tools Index
-* ⭐ **[LEGENDARY](https://github.com/derrod/legendary)**, [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) or [Rare](https://github.com/Dummerle/Rare) - Epic Games Launcher 
-* ⭐ **[Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)** - Epic Online Service Emulator
-* [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) - Steam DLC Unlocker / [Auto Setup](https://cs.rin.ru/forum/viewtopic.php?p=2013521) / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
-* [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - DLC Unlocker for Epic, Origin and EA
-* [DLC Unlocker](https://cs.rin.ru/forum/viewtopic.php?t=104412) - DLC Unlocker for EA and Origin
-* [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Epic DLC Unlocker 
-* [Steam DLC Data](https://cs.rin.ru/forum/viewtopic.php?f=10&t=71837) - Find SteamDB DLC Data / Create Configs / [GitHub](https://github.com/Sak32009/GetDLCInfoFromSteamDB)
-* [Depressurizer](https://github.com/Depressurizer/Depressurizer) - Steam Library Organizer
-* [ColdAPI](https://github.com/Rat431/ColdAPI_Steam) - Offline Steam Emulator
-* [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
-* [Steam Mover](https://www.traynier.com/software/steammover) - Store Steam Games on Multiple Drives
-* [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
-* [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
-* [The Wheelhaus](https://thewheelhaus.com/) - Find Random Steam Games
-* [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
-* [Steam Workshop Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_steam_workshop_downloaders)
-* [DepotDownloader](https://github.com/SteamRE/DepotDownloader) or [SteamDepotDownloaderGUI](https://github.com/mmvanheusden/SteamDepotDownloaderGUI) - Steam Depot Downloaders
-* [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop Implementation of Steam's Mobile Authenticator 
-* [Steam Python](https://github.com/ValvePython/steam) - Interact with Steam via Python
-* [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) or [IdleDaddy](https://play.google.com/store/apps/details?id=com.steevsapps.idledaddy) - Steam Card Automation
-* [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager 
-* [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) / [2](https://steamid.uk/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup 
-* [Steam++](https://steampp.net/) - Enhance Steam Functionality / [GitHub](https://github.com/BeyondDimension/SteamTools)
-* [AugmentedSteam](https://augmentedsteam.com/) - Steam Web Enhancement Extension 
-* [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
-* [SteaScree](https://steascree.download/) - Steam Cloud Screenshot Uploader
-* [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Conformation
-* [Steam Customizer](https://community.steamcustomizer.com/) or [SteamSkins](http://steamskins.org/) - Steam Skins
-* [SteamDarkMode](https://github.com/SleepDaemon/Modern-Steam) - Steam Dark Mode Skin
-* [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) - Steam GNOME Skin
-* [Backgrounds.Gallery](https://backgrounds.gallery/) - Steam Backgrounds
-* [Steam.Design](https://steam.design/) - Steam Background Cropper
-* [Center.Steam](https://center.steam.design/) - Center Steam Text
-* [Wishlist Removals](https://steamcommunity.com/sharedfiles/filedetails/?id=1746978201) - Remove Hidden Items from Steam Wishlist
-* [Steam Inventory Helper](https://steaminventoryhelper.com/) - Steam Inventory Enhancement Extension
-* [ArchiFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - Farm Steam Trading Cards
-* [Steam Deck Mods](https://docs.google.com/document/d/1TWhN9nCorKxut5O7UbPQPDhXLb-8C-CIoesB01yfhmY/) - Steam Deck Mods / [Discord](https://discord.com/invite/SteamDeck) / [Discord Bot](https://github.com/SteamDeckMods/sdm_discord_bot)
-* [Decky Loader](https://deckbrew.xyz/ ) - Steam Deck Plugin Loader / [GitHub](https://github.com/SteamDeckHomebrew/decky-loader)
-* [Steam Deck Tools](https://github.com/ayufan/steam-deck-tools) - Fan Overlay, Power Control and Steam Controller
-* [great-on-deck-search](https://github.com/cptpiepmatz/great-on-deck-search) - Verified Steam Deck Game Search
-* [Steam-Deck.Force](https://github.com/scawp/Steam-Deck.Force-SteamOS-On-Boot) - Force SteamOS Boot
-* [HoloISO](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) Archiso Config
 
 ***
 
@@ -2533,6 +2534,7 @@
 * ⭐ **[eBoox](https://eboox.ru/en/)** - Ebook Reader / Android / iOS
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader.html)** - PDF Reader
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / Android / iOS
+* ⭐ **[Raven Reader](https://ravenreader.app/)** - Article Reader / Manager
 * ⭐ **[Mobile Read](https://www.mobileread.com/)** - Ebook / Reader Discussion Forum
 * [Ubooquity](http://vaemendis.net/ubooquity/) - Manager / Reader / PC / Android / iOS
 * [Librum](https://github.com/Librum-Reader/Librum) - Ebook Reader / PC / Android / iOS / Linux / Mac
@@ -2559,7 +2561,6 @@
 * [AnyFlip](https://anyflip.com/) - Interactive Flipbook Reader
 * [All My Books](https://www.bolidesoft.com/allmybooks.html) - Book Catalog
 * [Open Media Library](https://openmedialibrary.com/) - Online Book Manager
-* [Raven Reader](https://ravenreader.app/) - Article Reader / Manager
 * [Cubari](https://cubari.moe/) - Image Proxy / Reader
 * [EinkBro](https://github.com/plateaukao/einkbro) - E-Ink Browser
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - Read Books in Browser
@@ -3392,6 +3393,7 @@
 * ⭐ **[News Feed Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_news_feed_aggregators)** - Multiple News Site Feeds
 * ⭐ **[5000 Best News Sites](http://5000best.com/websites/News/)** - New Site Index
 * ⭐ **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - News Multireddit
+* ⭐ **[InoReader](https://www.inoreader.com/)** - News Feed Manager
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) - Piracy News
 * ⭐ **[Tech News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tech_news)** - Tech News
 * ⭐ **[YCombinator](https://news.ycombinator.com/)** / [Highlighter](https://greasyfork.org/en/scripts/39311), [Hacki](https://github.com/Livinglist/Hacki), [HarmonicHackerNews](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [Glider](https://github.com/Mosc/Glider) [hckrnws](https://www.hckrnws.com/), [algolia](https://hn.algolia.com/), [Hackers](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901), [news.social-protocols](https://news.social-protocols.org) or [HackerWebApp](https://hackerwebapp.com/) - Hacker News
@@ -3437,7 +3439,6 @@
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
-* [InoReader](https://www.inoreader.com/) - News Feed Manager
 * [LiveScore](https://www.livescores.com/) - Live Sports Scores
 * [NBA Go](https://github.com/homerchen19/nba-go) - NBA Schedule / Scores CLI
 * [Scribe](https://scribe.bus-hit.me/) - Medium Frontend
@@ -6334,6 +6335,7 @@ Note that our goal is to track things that should be avoided but still get recom
 * ⭐ **[JP-Films](https://jp-films.com/)** - Japanese Movies / TV / Select ["Watch Free"](https://i.ibb.co/B6q61nN/237c097d5e66.jpg)
 * ⭐ **[GizmoPlex](https://www.gizmoplex.com/mst3k)** - MST3K Movies
 * ⭐ **[Rifftrax Twitch](https://www.twitch.tv/rifftrax)** or [RiffTrax Pluto](https://pluto.tv/live-tv/rifftrax) - RiffTrax Live Streams
+* ⭐ **[Documentary Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_documentaries)** - Documentaries
 * ⭐ **[Ubu](https://ubu.com/film/)** - Short Films / Avant-Garde
 * [ElectronicNostalgia1991](https://www.youtube.com/c/ElectronicNostalgia1991/) - Movie Commentaries
 * [Classic Cinema Online](https://classiccinemaonline.com/), [ClassixApp](https://www.classixapp.com/), [BnWMovies](https://bnwmovies.com/) or [Dumb Classic Movies](https://www.dumb.com/movies/) - Classic Films
@@ -6387,7 +6389,7 @@ Note that our goal is to track things that should be avoided but still get recom
 
 ***
 
-## ▷ [Educational Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_streaming)
+## ▷ [Educational Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_streaming)
 
 ***
 
@@ -6846,7 +6848,7 @@ Note that our goal is to track things that should be avoided but still get recom
 
 ***
 
-## ▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_downloading)
+## ▷ [Educational Downloading](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_downloading)
 
 ***
 
@@ -6932,7 +6934,7 @@ Note that our goal is to track things that should be avoided but still get recom
 
 ***
 
-## ▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_torrenting)
+## ▷ [Educational Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_torrenting)
 
 ***
 
@@ -13267,7 +13269,6 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[Better Windows (Guide)](https://rentry.co/better-windows)**
 * ⭐ **[QuickBoost](https://github.com/SanGraphic/QuickBoost)**
-* ⭐ **[Windows AME](https://ameliorated.io/)** / [AtlasOS Playbook](https://atlasos.net/) / [ReviOS Playbook](https://www.revi.cc/)
 * ⭐ **[LTSC Debloat Guide](https://rentry.co/LTSC)**
 
 [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [win10script](https://github.com/ChrisTitusTech/winutil) / [2](https://christitus.com/debloat-windows-10-2020/), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [Windows-Decrapifier](https://github.com/n1snt/Windows-Decrapifier), [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script), [Remove-Windows10-Bloat](https://gist.github.com/matthewjberger/2f4295887d6cb5738fa34e597f457b7f), [Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10), [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat), [SophiApp](https://github.com/Sophia-Community/SophiApp), [WinRice](https://github.com/pratyakshm/WinRice), [TweakList](https://github.com/couleur-tweak-tips/TweakList), [Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins), [BRU](https://github.com/arcadesdude/BRU), [Windows-Bloatware-Removal](https://github.com/BallisticTurtle/Windows-Bloatware-Removal/blob/master/Remove%20Windows%20Bloatware.bat), [optimizer](https://github.com/hellzerg/optimizer/), [Ultimate Windows Utility](https://christitus.com/windows-tool/), [XToolbox](https://github.com/xemulat/XToolbox), [Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools), [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover), [Win10Debloat](https://github.com/Raphire/Win10Debloat), [windows_hardening.cmd](https://gist.github.com/ricardojba/ecdfe30dadbdab6c514a530bc5d51ef6)
@@ -13346,7 +13347,6 @@ Add the following commands to a search to manually scrape each site.
 
 **Modded ISOs**
 
-* [ReviOS](https://www.revi.cc/)
 * [Team OS](https://www.teamos.xyz/)
 * [malwarewatch](https://dl.malwarewatch.org/windows/)
 * [ggOS](https://discord.gg/A5BHSQV) - Custom Windows 10 20H2
@@ -16154,17 +16154,26 @@ Add the following commands to a search to manually scrape each site.
 
 # ► Bulgarian
 
-## ▷ Downloading
-
-* [videofen](https://www.videofen.com/) - Warez list
-
 ## ▷ Torrenting
 
-* [Zamunda](https://zamunda.net/) - Registration Required
+* [Zamunda](https://zamunda.net/) - Registration Required / Video / Audio / Software / Games / Books / NSFW
 
 ## ▷ Streaming
 
-* [cinemabg](https://cinemabg.club/) - Movies
+* [Film4e](https://film4e.com/) - Movies / TV / Cartoons / Sub / Dub / 1080p
+* [VSI4KIFILMI](https://vsi4kifilmi.com/) - Movies / TV / Cartoons / Sub / Dub / 720p / Customizable Subtitles
+* [BGTVNET](https://bgtvnet.com/) - Movies / TV / Cartoons / Sub / 720p
+* [Filmite.Info](http://filmi99.com/) - Movies / TV / Cartoons / Sub / 720p
+* [bgseriali](https://bgseriali.com/) - Movies / TV / Documentaries / Sub / Dub / 720p
+* [Movies9](https://movies9.site/) - Movies / TV / Sub / Dub / 720p
+* [Filmi24](https://filmi24.com/) - Movies / Sub / Dub / 720p
+* [FilmiPlay](https://filmiplay.com/) - Movies / Sub / Dub / 720p
+* [cinemabg](https://cinemabg.club/) - Movies / Sub / Dub / 720p
+* [BGTVI](https://bgtvi.com/) - TV / Sub / Dub / 720p
+* [BGESTV](https://bgestv.com) - TV / Sub / Dub / 720p
+* [TubeBG](https://www.tubebg.com/) - TV / Sub / Dub / 720p
+* [Gledai-me](https://gledai-me.com/) - TV / Sub / 720p
+* [TVSerialSite](https://tvserial.site/) - TV / Sub / 720p
 
 ***
 
