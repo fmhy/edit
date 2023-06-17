@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/x74LcBH)** - For mobile users
+**[Table of Contents](https://ibb.co/hfN3zgm)** - For mobile users
 
 ***
 ***
@@ -1535,7 +1535,7 @@ Add the following commands to a search to manually scrape each site.
 
 ⭐ **[Modded Central](https://t.me/+yaL8VGyjS0Q0YTll)** / [Backup](https://t.me/moddedcentralbackup)
 
-[Streamiza](https://t.me/streamiza) / [Discord](https://linktr.ee/Streamiza), [MixRoot Mods](https://t.me/Mixrootmods), [DroidApks](https://t.me/DroidApks), [ModCombo](https://t.me/modcombo_en), [apkmod_s](https://t.me/apkmod_s), [apkfolkspro](https://t.me/apkfolkspro/), [pcandroidsoftware](https://t.me/pcandroidsoftware/), [sserratty_hack](https://t.me/sserratty_hack/), [Glype](https://t.me/Glype) , [alexstranniklite](https://t.me/alexstranniklite), [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL), [ANiK555_Mods](https://t.me/ANiK555_Mods), [AppKaMods](https://t.me/AppKaMods), [Paidapppcsoftware](https://t.me/paidappspcsoftware), [TharakMods](https://t.me/TharakMods), [marioworlds4u](https://t.me/marioworlds4u), [EasyAPK](https://t.me/EasyAPK), [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re), [dumpmods](https://t.me/dumpmods), [faloojein](https://t.me/faloojein), [IC_Mods](https://t.me/IC_Mods), [allapkforfree](https://t.me/allapkforfree), [Moderse](https://t.me/Moderse), [AyraProject](https://t.me/AyraProject), [Modules Repositor](https://t.me/modulesrepo),
+[Streamiza](https://t.me/streamiza) / [Discord](https://linktr.ee/Streamiza), [MixRoot Mods](https://t.me/Mixrootmods), [DroidApks](https://t.me/DroidApks), [ModCombo](https://t.me/modcombo_en), [apkfolkspro](https://t.me/apkfolkspro/), [pcandroidsoftware](https://t.me/pcandroidsoftware/), [sserratty_hack](https://t.me/sserratty_hack/), [Glype](https://t.me/Glype) , [alexstranniklite](https://t.me/alexstranniklite), [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL), [ANiK555_Mods](https://t.me/ANiK555_Mods), [AppKaMods](https://t.me/AppKaMods), [Paidapppcsoftware](https://t.me/paidappspcsoftware), [TharakMods](https://t.me/TharakMods), [marioworlds4u](https://t.me/marioworlds4u), [EasyAPK](https://t.me/EasyAPK), [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re), [dumpmods](https://t.me/dumpmods), [faloojein](https://t.me/faloojein), [IC_Mods](https://t.me/IC_Mods), [allapkforfree](https://t.me/allapkforfree), [Moderse](https://t.me/Moderse), [AyraProject](https://t.me/AyraProject), [Modules Repositor](https://t.me/modulesrepo),
 
 ***
 
@@ -1724,7 +1724,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Awesome OSINT](https://github.com/jivoi/awesome-osint)**
 * ⭐ **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)**
 
-[OSINT All](https://bin.disroot.org/?4e0f2f4f714641d1#GsU9NwvyyqUFmgLv2f5s6dtBZJYFARzwzdDMDk3tnkSD) / [2](https://start.me/p/0PwOGl/osint-all), [OSINT Framework](https://osintframework.com/), [OSINT Essentials](https://www.osintessentials.com/), [OSINT Collection](https://github.com/Ph055a/OSINT_Collection), [OSINT Sources](https://github.com/imuledx/OSINT_sources), [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools), [geoint](https://start.me/p/W1kDAj/geoint), [OSINT Tools](https://start.me/p/wMdQMQ/tools), [Sector035](https://sector035.nl/links), [Nixintel's OSINT](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list), [datajournalism-resources](https://github.com/r3mlab/datajournalism-resources/blob/master/README.md), [UK-OSINT](https://www.uk-osint.net/index.html), [OSINTGeek](https://osintgeek.de/tools), [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT), [Hackers Arise OSINT](https://www.hackers-arise.com/osint), [osint.link](https://osint.link/), [osinttechniques](https://www.osinttechniques.com/osint-tools.html), [Ressources](https://github.com/tzkuat/Ressources/blob/master/OSINT.md), [whatisosint](https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it), [osintdojo](https://www.osintdojo.com/resources/), [300m](https://300m.com/osint/), [einvestigator](https://www.einvestigator.com/open-source-intelligence-tools/), [researchclinic](https://researchclinic.net/), [toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/), [reuser](https://rr.reuser.biz/), [booleanstrings](https://booleanstrings.com/tools/), [coreysdigs](https://www.coreysdigs.com/take-action/must-have-tools-for-digging-videos-podcasts/), [Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/), [cProject Owl](https://discord.gg/projectowl), [RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources), [Quick_OSINT_bot](https://t.me/Quick_OSINT_bot), [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools), [OSINT Collection](https://rentry.co/o89dd), [cipher387](https://github.com/cipher387), [osint4all](https://start.me/p/L1rEYQ/osint4all), [OSINT Tools](https://pastebin.com/CJ9ExTn5), [osint](https://bin.disroot.org/?191675922ac1cbac#Dc6GZQUviM5mfQhoUsYhaBykx9RQAJkDp8yDAe8QqB1m), [asint_collection](https://bin.disroot.org/?5524218c228099ec#G6BxBj17tFtZhhGuYBfSRceFppigZyt8abJtqVceMgcN), [dig intel](https://start.me/p/ZME8nR/osint), [inteltechniques](https://inteltechniques.com/tools/Communities.html), [Social Media ](https://start.me/p/4K0DXg/social-media), [midasearch](https://midasearch.org/), [osint-resources](https://start.me/p/1kAP0b/osint-resources), [Malfrat's Industries Map](https://map.malfrats.industries/), [OSHINT](https://ohshint.gitbook.io/oh-shint-its-a-blog/), [SIS Record Search](https://search.illicit.services/) 
+[OSINT All](https://bin.disroot.org/?4e0f2f4f714641d1#GsU9NwvyyqUFmgLv2f5s6dtBZJYFARzwzdDMDk3tnkSD) / [2](https://start.me/p/0PwOGl/osint-all),  [OSINT Essentials](https://www.osintessentials.com/), [OSINT Collection](https://github.com/Ph055a/OSINT_Collection), [OSINT Sources](https://github.com/imuledx/OSINT_sources), [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools), [geoint](https://start.me/p/W1kDAj/geoint), [OSINT Tools](https://start.me/p/wMdQMQ/tools), [Sector035](https://sector035.nl/links), [Nixintel's OSINT](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list), [datajournalism-resources](https://github.com/r3mlab/datajournalism-resources/blob/master/README.md), [UK-OSINT](https://www.uk-osint.net/index.html), [OSINTGeek](https://osintgeek.de/tools), [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT), [Hackers Arise OSINT](https://www.hackers-arise.com/osint), [osint.link](https://osint.link/), [osinttechniques](https://www.osinttechniques.com/osint-tools.html), [Ressources](https://github.com/tzkuat/Ressources/blob/master/OSINT.md), [whatisosint](https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it), [osintdojo](https://www.osintdojo.com/resources/), [300m](https://300m.com/osint/), [einvestigator](https://www.einvestigator.com/open-source-intelligence-tools/), [researchclinic](https://researchclinic.net/), [toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/), [reuser](https://rr.reuser.biz/), [booleanstrings](https://booleanstrings.com/tools/), [coreysdigs](https://www.coreysdigs.com/take-action/must-have-tools-for-digging-videos-podcasts/), [Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/), [cProject Owl](https://discord.gg/projectowl), [RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources), [Quick_OSINT_bot](https://t.me/Quick_OSINT_bot), [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools), [OSINT Collection](https://rentry.co/o89dd), [cipher387](https://github.com/cipher387), [osint4all](https://start.me/p/L1rEYQ/osint4all), [OSINT Tools](https://pastebin.com/CJ9ExTn5), [osint](https://bin.disroot.org/?191675922ac1cbac#Dc6GZQUviM5mfQhoUsYhaBykx9RQAJkDp8yDAe8QqB1m), [asint_collection](https://bin.disroot.org/?5524218c228099ec#G6BxBj17tFtZhhGuYBfSRceFppigZyt8abJtqVceMgcN), [dig intel](https://start.me/p/ZME8nR/osint), [inteltechniques](https://inteltechniques.com/tools/Communities.html), [Social Media ](https://start.me/p/4K0DXg/social-media), [midasearch](https://midasearch.org/), [osint-resources](https://start.me/p/1kAP0b/osint-resources), [Malfrat's Industries Map](https://map.malfrats.industries/), [OSHINT](https://ohshint.gitbook.io/oh-shint-its-a-blog/), [SIS Record Search](https://search.illicit.services/), [OSINT Framework](https://osintframework.com/) 
 
 ***
 
@@ -1968,7 +1968,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Portuguese Recipes
 
-[amandocozinhar](https://www.amandocozinhar.com/2016/01/12-livros-de-culinaria-para-baixar.html), [Uniao](https://uniao.com.br/), [varandadobolo](https://varandadobolo.com.br/), [receitasdemais](http://receitasdemais.com.br/), [receitasnotadez](https://receitasnotadez.com.br/), [saborintenso](https://www.saborintenso.com/), [cozinhadonabenta](https://www.cozinhadonabenta.com.br/receitas-dona-benta/), [anamariabraga](https://anamariabraga.globo.com/), [vovopalmirinha](https://vovopalmirinha.com.br/), [gastronomias](http://www.gastronomias.com/receitas/), [tecnonoticias](https://tecnonoticias.com.br/downloads-de-receitas/), [tudoreceitas](https://www.tudoreceitas.com/), [tudogostoso](https://www.tudogostoso.com.br/), [receitasnestle](https://www.receitasnestle.com.br/), [panelinha](https://www.panelinha.com.br/), [receitasdecomida](https://www.receitasdecomida.com.br/), [cybercook](https://cybercook.com.br/), [culinaria](https://culinaria.terra.com.br/), [petiscos](https://www.petiscos.com/), [receitaseduguedes](https://www.receitas.eduguedes.com.br/), [teleculinaria](https://www.teleculinaria.pt/), [dietaereceitas](https://dietaereceitas.com.br/), [receitasdecomidas](https://www.receitasdecomidas.com.br/), [gastronomianobrasil](http://gastronomianobrasil.com.br/), [receiteria](https://www.receiteria.com.br/), [comidasimples](https://comidasimples.com.br/), [receitasagora](https://www.receitasagora.com.br/), [cantinhovegetariano](http://www.cantinhovegetariano.com.br/), [Emagrecer](https://emagrecercerto.com/)
+[amandocozinhar](https://www.amandocozinhar.com/2016/01/12-livros-de-culinaria-para-baixar.html), [Uniao](https://uniao.com.br/), [varandadobolo](https://varandadobolo.com.br/), [receitasnotadez](https://receitasnotadez.com.br/), [saborintenso](https://www.saborintenso.com/), [cozinhadonabenta](https://www.cozinhadonabenta.com.br/receitas-dona-benta/), [anamariabraga](https://anamariabraga.globo.com/), [vovopalmirinha](https://vovopalmirinha.com.br/), [gastronomias](http://www.gastronomias.com/receitas/), [tecnonoticias](https://tecnonoticias.com.br/downloads-de-receitas/), [tudoreceitas](https://www.tudoreceitas.com/), [tudogostoso](https://www.tudogostoso.com.br/), [receitasnestle](https://www.receitasnestle.com.br/), [panelinha](https://www.panelinha.com.br/), [receitasdecomida](https://www.receitasdecomida.com.br/), [cybercook](https://cybercook.com.br/), [culinaria](https://culinaria.terra.com.br/), [petiscos](https://www.petiscos.com/), [receitaseduguedes](https://www.receitas.eduguedes.com.br/), [teleculinaria](https://www.teleculinaria.pt/), [dietaereceitas](https://dietaereceitas.com.br/), [receitasdecomidas](https://www.receitasdecomidas.com.br/), [gastronomianobrasil](http://gastronomianobrasil.com.br/), [receiteria](https://www.receiteria.com.br/), [comidasimples](https://comidasimples.com.br/), [receitasagora](https://www.receitasagora.com.br/), [cantinhovegetariano](http://www.cantinhovegetariano.com.br/), [Emagrecer](https://emagrecercerto.com/)
 
 ***
 
@@ -2092,16 +2092,6 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-#### RARBG Mirrors
-
-* https://rarbgto.org/
-* https://proxyrarbg.org/
-* https://rarbgproxy.org/
-* https://rarbgprx.org/
-* https://rarbgtor.org/
-
-***
-
 #### Read Paywalled Articles
 
 * ⭐ **[wallabag](https://wallabag.nixnet.services/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot)
@@ -2121,7 +2111,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Raddle](https://raddle.me/)** / [onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/)
 * ⭐ **[Saidit](https://saidit.net/)**
 
-[/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives), [postmill](https://postmill.xyz/), [Sqwok](https://sqwok.im/), [kddit](http://kddit.kallist4mcluuxbjnr5p2asdlmdhaos3pcrvhk3fbzmiiiftwg6zncid.onion/), [tildes](https://tildes.net/), [talk](https://www.talk.lol/), [grepless](https://grepless.com/), [communities](https://communities.win/), [FlingUp](https://flingup.com/), [Upvote](https://upvo.to/), [Hexbear](https://www.hexbear.net/)
+[/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives), [postmill](https://postmill.xyz/), [Sqwok](https://sqwok.im/), [kddit](http://kddit.kallist4mcluuxbjnr5p2asdlmdhaos3pcrvhk3fbzmiiiftwg6zncid.onion/), [tildes](https://tildes.net/), [talk](https://www.talk.lol/), [communities](https://communities.win/), [FlingUp](https://flingup.com/), [Upvote](https://upvo.to/), [Hexbear](https://www.hexbear.net/)
 
 ***
 
@@ -2193,7 +2183,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### RSS Feed Readers
 
-[RavenReader](https://ravenreader.app/), [FeedReader](http://www.feedreader.com/), [RSSOwl](http://www.rssowl.org/), [CommaFeed](https://www.commafeed.com/#/welcome), [RSSHub](https://github.com/DIYgod/RSSHub), [spaRSS](https://github.com/Etuldan/spaRSS), [FreshRSS](https://freshrss.org/), [Fluent Reader](https://hyliu.me/fluent-reader/), [Feeder](https://feeder.co/), [The Old Reader](https://theoldreader.com/), [NewsBoat](https://newsboat.org/), [tt-rss](https://tt-rss.org/), [TheFeedReaderBot](https://thefeedreaderbot.com/) (Console), [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk), [Miniflux](https://miniflux.app/), [Photon](https://git.sr.ht/~ghost08/photon), [selfoss](https://selfoss.aditu.de/), [gorss](https://github.com/Lallassu/gorss), [RSS Guard](https://github.com/martinrotter/rssguard), [BringRSS](https://github.com/voussoir/bringrss), [NewsBlur](https://github.com/samuelclay/NewsBlur), [Osmosfeed](https://github.com/osmoscraft/osmosfeed), [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html), [rss](https://github.com/ssddanbrown/rss)
+[RavenReader](https://ravenreader.app/), [FeedReader](http://www.feedreader.com/), [RSSOwl](http://www.rssowl.org/), [CommaFeed](https://www.commafeed.com/#/welcome), [RSSHub](https://github.com/DIYgod/RSSHub), [FreshRSS](https://freshrss.org/), [Fluent Reader](https://hyliu.me/fluent-reader/), [Feeder](https://feeder.co/), [The Old Reader](https://theoldreader.com/), [NewsBoat](https://newsboat.org/), [tt-rss](https://tt-rss.org/), [TheFeedReaderBot](https://thefeedreaderbot.com/) (Console), [NewsFlash](https://gitlab.com/news-flash/news_flash_gtk), [Miniflux](https://miniflux.app/), [Photon](https://git.sr.ht/~ghost08/photon), [selfoss](https://selfoss.aditu.de/), [gorss](https://github.com/Lallassu/gorss), [RSS Guard](https://github.com/martinrotter/rssguard), [BringRSS](https://github.com/voussoir/bringrss), [NewsBlur](https://github.com/samuelclay/NewsBlur), [Osmosfeed](https://github.com/osmoscraft/osmosfeed), [WebFeed](https://taoshu.in/webfeed/turn-browser-into-feed-reader.html), [rss](https://github.com/ssddanbrown/rss)
 
 **Extensions**
 
@@ -2222,7 +2212,7 @@ Add the following commands to a search to manually scrape each site.
 
 ⭐ **[OBS](https://obsproject.com/)** / [Guide](https://youtu.be/7fuFGDFDzUY)
 
-[Bandicam](https://github.com/nbats/FMHYedit/blob/main/base64.md#bandicam), [FFmpeg](https://ffmpeg.org/), [Nchsoftware](https://www.nchsoftware.com/capture/), [RecordMyDesktop](https://enselic.github.io/recordmydesktop/), [SRERecorder](https://srecorder.com/), [CamStudio](https://camstudio.org/), [EZVid](https://www.ezvid.com/), [Captura](https://mathewsachin.github.io/Captura/), [Kap](https://getkap.co/), [oCam](https://ohsoft.net/eng/ocam/download.php?cate=1002), [WebMCam](https://github.com/michaelmob/WebMCam), [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/), [Kalmuri](https://global.kilho.net/kalmuri/), [Wink](https://www.debugmode.com/wink/), [Vileo](https://lukasbach.github.io/vileo/), [Shar.ec](https://shar.ec/), [Scre.io](https://scre.io/), [Screen Recorder](https://github.com/akon47/ScreenRecorder), [ScreenREC](https://screen-rec.vercel.app/), [RecordCast](https://www.recordcast.com/), [RecordScreen](https://recordscreen.io/), [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG), [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder), [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/)
+[Bandicam](https://github.com/nbats/FMHYedit/blob/main/base64.md#bandicam), [FFmpeg](https://ffmpeg.org/), [Nchsoftware](https://www.nchsoftware.com/capture/), [RecordMyDesktop](https://enselic.github.io/recordmydesktop/), [SRERecorder](https://srecorder.com/), [CamStudio](https://camstudio.org/), [EZVid](https://www.ezvid.com/), [Kap](https://getkap.co/), [oCam](https://ohsoft.net/eng/ocam/download.php?cate=1002), [WebMCam](https://github.com/michaelmob/WebMCam), [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/), [Kalmuri](https://global.kilho.net/kalmuri/), [Wink](https://www.debugmode.com/wink/), [Vileo](https://lukasbach.github.io/vileo/), [Shar.ec](https://shar.ec/), [Scre.io](https://scre.io/), [Screen Recorder](https://github.com/akon47/ScreenRecorder), [ScreenREC](https://screen-rec.vercel.app/), [RecordCast](https://www.recordcast.com/), [RecordScreen](https://recordscreen.io/), [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG), [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder), [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/)
 
 **Browser Extensions**
 
@@ -2234,7 +2224,6 @@ Add the following commands to a search to manually scrape each site.
 
 * [/r/CrackWatch](https://reddit.com/r/CrackWatch) / [Discord](https://discord.gg/d9StxkknwX)
 * [SteamCrackStatus](https://steamcrackedgames.com/) / [Discord](https://discord.com/invite/hrCtqcyHKw)
-* [/r/SteamCrackedGames](https://reddit.com/r/SteamCrackedGames)
 * [/r/dailyreleases](https://www.reddit.com/r/dailyreleases/)
 * [/r/RepackWorld](https://reddit.com/r/RepackWorld)
 * [GameStatus](https://gamestatus.info/)
@@ -2711,7 +2700,6 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/Anime_World_1
 * https://t.me/AnimeGuardian_bot
 * https://t.me/Hd_Anime_Series
-* https://t.me/animeze
 * https://t.me/myanimetvbot
 * https://t.me/otakulounge
 * https://t.me/anime_a_to_z
@@ -2821,7 +2809,6 @@ Add the following commands to a search to manually scrape each site.
 
 #### Telegram eBook Download
 
-* https://t.me/libgen_scihub_9_bot
 * https://t.me/BOOK_HOUSE_INTERNATIONAL
 * https://t.me/Ebooks_Encyclopedia27
 * https://t.me/Books_worldd
@@ -2851,9 +2838,7 @@ Add the following commands to a search to manually scrape each site.
 * [Remux_2160P](https://t.me/Remux_2160P) - 4K Movies
 * [Rare Films](https://t.me/rarefilms) - Movies
 * [Rarefilmsbot](https://t.me/Rarefilmsbot) - Movies
-* [Cracked_Movies_Hindi](https://t.me/Cracked_movies) - Movies
 * [Mobile movies request bot](https://t.me/cc_mmrequestbot) - Movies / 480p
-* [AWMHG](https://t.me/all_world_movies_here_group) - Movies
 * [iPapkornBot](https://t.me/iPapkornBot) - Movies
 * [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies
 * [ZestFlix](https://t.me/+vxfKtaB4sXtmNjY1) - Movies / TV / [Archives](https://t.me/+iuTSrLAp27c4OTE1)
