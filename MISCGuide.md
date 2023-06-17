@@ -172,6 +172,7 @@
 * ⭐ **[News Feed Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_news_feed_aggregators)** - Multiple News Site Feeds
 * ⭐ **[5000 Best News Sites](http://5000best.com/websites/News/)** - New Site Index
 * ⭐ **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - News Multireddit
+* ⭐ **[InoReader](https://www.inoreader.com/)** - News Feed Manager
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) - Piracy News
 * ⭐ **[Tech News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tech_news)** - Tech News
 * ⭐ **[YCombinator](https://news.ycombinator.com/)** / [Highlighter](https://greasyfork.org/en/scripts/39311), [Hacki](https://github.com/Livinglist/Hacki), [HarmonicHackerNews](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [Glider](https://github.com/Mosc/Glider) [hckrnws](https://www.hckrnws.com/), [algolia](https://hn.algolia.com/), [Hackers](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901), [news.social-protocols](https://news.social-protocols.org) or [HackerWebApp](https://hackerwebapp.com/) - Hacker News
@@ -217,7 +218,6 @@
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
-* [InoReader](https://www.inoreader.com/) - News Feed Manager
 * [LiveScore](https://www.livescores.com/) - Live Sports Scores
 * [NBA Go](https://github.com/homerchen19/nba-go) - NBA Schedule / Scores CLI
 * [Scribe](https://scribe.bus-hit.me/) - Medium Frontend
