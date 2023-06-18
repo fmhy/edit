@@ -719,7 +719,7 @@
 
 ## ▷ Software Dev Tools
 
-* ⭐**[Electron](https://www.electronjs.org/)**, [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [PowerPage](https://github.com/casualwriter/powerpage), [Flet](https://flet.dev/), [Felvin](https://www.felvin.com/) or [Tauri](https://tauri.app/) / [Resources](https://github.com/tauri-apps/awesome-tauri) - Desktop App Builders
+* ⭐[**Electron**](https://www.electronjs.org/), [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [PowerPage](https://github.com/casualwriter/powerpage), [Flet](https://flet.dev/), [Felvin](https://www.felvin.com/) or [Tauri](https://tauri.app/) / [Resources](https://github.com/tauri-apps/awesome-tauri) - Desktop App Builders
 * ⭐**Electron Tools** - [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://www.electronjs.org/apps/) / [Debugger](https://github.com/pd4d10/debugtron) / [Mod Loader](https://kernel.fish/) / [Builder](https://www.electron.build/)
 * [Budibase](https://budibase.com/), [ToolJet](https://tooljet.com/), [retool](https://retool.com/) or [AppSmith](https://github.com/appsmithorg/appsmith) - Internal Tool Builders
 * [raylib technologie](https://raylibtech.itch.io/), [bookmarks](https://github.com/MorganGeek/bookmarks) or [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - Software Development Tools
