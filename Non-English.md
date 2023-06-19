@@ -128,14 +128,13 @@
 
 # ► Bulgarian
 
-* [Ucha.se](https://ucha.se/) - Educational Videos and Exam Questions
-
 ## ▷ Torrenting
 
 * [Zamunda](https://zamunda.net/) - Registration Required / Video / Audio / Software / Games / Books / NSFW
 
 ## ▷ Streaming
 
+* [Ucha.se](https://ucha.se/) - Educational Videos and Exam Questions
 * [Film4e](https://film4e.com/) - Movies / TV / Cartoons / Sub / Dub / 1080p
 * [VSI4KIFILMI](https://vsi4kifilmi.com/) - Movies / TV / Cartoons / Sub / Dub / 720p / Customizable Subtitles
 * [BGTVNET](https://bgtvnet.com/) - Movies / TV / Cartoons / Sub / 720p
