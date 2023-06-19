@@ -35,7 +35,6 @@
 * [Cursa](https://cursa.app/) - Courses
 * [NPTEL](https://nptel.ac.in/course.html) - Courses
 * [Real.Discount](https://www.real.discount/) - Courses
-* [Techlinks](https://www.techlinks.in/udemy-free-coupons) - Free Courses And Coupons
 * [Kadenze](https://www.kadenze.com/) - Courses
 * [OnlineTutorials](https://www.onlinetutorials.org/) - Courses
 * [CourseSity](https://www.coursesity.com/) - Courses
@@ -86,8 +85,9 @@
 * [TutsNode](https://tutsnode.net/) - Udemy Courses
 * [/r/udemyfreebies](https://reddit.com/r/udemyfreebies) - Udemy Courses
 * [Automatic-Udemy-Course-Enroller](https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE), [Discounted-Udemy-Course-Enroller](https://github.com/techtanic/Discounted-Udemy-Course-Enroller) or [UdemyEnrollEverywhere](https://github.com/keethesh/UdemyEnrollEverywhere) - Auto Udemy Course Enrollment
-* [Online Courses Tracker](https://comidoc.net/) - Udemy Courses / Courses
-* [SmartyBro](https://smartybro.com/) - Udemy Courses / Courses
+* [Online Courses Tracker](https://comidoc.net/) - Udemy Courses
+* [SmartyBro](https://smartybro.com/) - Udemy Courses
+* [Techlinks](https://www.techlinks.in/udemy-free-coupons) - Udemy Courses
 * [CourseVania](https://t.me/Coursevania) - Udemy Courses / Telegram
 * [course_drive](https://t.me/course_drive) - Udemy Courses / Telegram
 * [freecourseweb](https://t.me/freecourseweb) - Udemy Courses / Telegram
