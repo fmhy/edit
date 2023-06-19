@@ -23,7 +23,6 @@
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
 * ⭐ **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbots Index
 * [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Chatbot
-* [NovelAI](https://novelai.net/) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz)
 * [Leon](https://getleon.ai/) - AI Assistant
 * [Pros 'n Cons](https://pros-cons.io/) - Decision Making AI
 * [AnimaAI](https://myanima.ai/) - Virtual Companion
@@ -116,6 +115,7 @@
 * [flowgpt](https://flowgpt.com/) - Prompt Directory
 * [Prompts Hub](https://docs.google.com/spreadsheets/d/1Y-xQwFkQFCKhPB3nOMyTMNPZ-vaFiof2-vWGBAeupTo/edit#gid=0) - Prompt Directory
 * [DataFit](https://datafit.ai/top-chatgpt-prompts) - Prompt Directory
+* [PromptVine](https://promptvine.com/) - Prompt Directory
 * [OrdinaryPeoplePrompts](https://www.ordinarypeopleprompts.com/) - Prompt Directory
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) or [PromptBot](https://www.messengerx.io/promptbot) - Prompt Generators
 * [PromptPerfect](https://promptperfect.jina.ai/) - Prompt Optimizer
@@ -163,7 +163,8 @@
 
 # ► Text Generators
 
-* [Transformer](https://transformer.huggingface.co/) - GPT-2 Based AI
+* [Scrip AI](https://scripai.com/) - AI Writing Tools
+* [NovelAI](https://novelai.net/) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz)
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [Unconventional Text Writer](https://unconventional-text-writer.netlify.app/) - Unconventional Text AI
 * [Character Creator](https://oobabooga.github.io/character-creator) - Character Generation AI
@@ -177,11 +178,12 @@
 * [GPT4Chat](https://gpt4chat.net/) or [ChatGPT Writer](https://chatgptwriter.ai/) - Email Reply AI
 * [codex-readme](https://github.com/tom-doerr/codex-readme) - README AI Generator
 * [WTFDoesThisCompanyDo](https://wtfdoesthiscompanydo.vercel.app/) or [SiteExplainer](https://www.siteexplainer.com/) - AI Site Explanations
+* [Transformer](https://transformer.huggingface.co/) - Text Autocomplete AI
 * [EleutherAI](https://6b.eleuther.ai/) - Text Autocomplete AI
 * [Talk to Transformer](https://app.inferkit.com/demo) - Text Autocomplete AI
 * [TextSynth](https://textsynth.com/playground.html) - Text Autocomplete AI
 * [Basaran](https://github.com/hyperonym/basaran) - Text Autocomplete AI
-* [Cyborg Writer](https://cyborg.tenso.rs/) -
+* [Cyborg Writer](https://cyborg.tenso.rs/) - Text Autocomplete AI
 * [Compose](https://www.compose.ai/) - Text Autocomplete AI Extension
 * [InkForAll](https://app.inkforall.com/tools) - Multiple AI Text Tools
 * [SheetPlus](https://sheetplus.ai/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [FormulaBot](https://formulabot.com/) - Excel AI Tools
