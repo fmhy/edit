@@ -81,6 +81,7 @@
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
 * ⭐ **[UseChatGPT.AI](https://www.usechatgpt.ai/)** or [ChatWebpage](https://chatwebpage.com/) - Turn Webpages into Chatbots
 * ⭐ **[AI Playground](https://play.vercel.ai/)** or [ChatHub](https://chathub.gg/) - Compare AI Responses
+* [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
 * [ChatBlade](https://github.com/npiv/chatblade) - ChatGPT CLI
 * [engshell](https://github.com/emcf/engshell) or [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT in TUIs
 * [YakGPT](https://yakgpt.vercel.app/), [BetterGPT](https://bettergpt.chat/) or [TurboGPT.ai](https://turbogpt.ai/) - ChatGPT WebUIs
@@ -244,7 +245,8 @@
 * [Patience.ai](https://www.patience.ai/) - Multiple AI Image Generators
 * [StableCog](https://stablecog.com/) - AI Image Generator / [Discord](https://discord.com/invite/AJyYd6AUEn) / [Github](https://github.com/stablecog/stablecog)
 * [Pollination](https://pollinations.ai/) - AI Image Generator / [Discord](https://discord.com/invite/8HqSRhJVxn)
-* [Leonardo.ai](https://app.leonardo.ai/) - Text to Image
+* [Disco-Diffusion](https://replicate.com/nightmareai/disco-diffusion) - AI Image Generator / [Discord](https://discord.com/invite/AWXCCC6G2P)
+* [Leonardo.ai](https://app.leonardo.ai/) - AI Image Generator
 * [Prodia](https://app.prodia.com/) - AI Image Generator
 * [Visuali](https://visuali.io/) - AI Image Generator
 * [Ocriador](https://ocriador.app/) - AI Image Generator
