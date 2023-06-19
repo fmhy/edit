@@ -1049,7 +1049,6 @@
 # ► Polish
 
 * ⭐ **[StreamBase](https://rentry.co/streambase)** - Piracy Index / [Discord](https://discord.gg/ZmUTrX6axg)
-* [Nitro.to](https://nitro.to/) - Piracy Discussion Forum
 * [2nr](https://play.google.com/store/apps/details?id=pl.rs.sip.softphone) - Free Polish Phone Numbers
 * [Sport TVP](https://sport.tvp.pl/) - Sports News
 
