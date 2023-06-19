@@ -19,6 +19,7 @@ def do_some_individual_replaces(text):
     #special cases of link not replaced correctly
     text = re.sub('.pages.dev/storage/#encode--decode_urls', '.pages.dev/storage/#encode--decode-urls', text)
     text = re.sub('.pages.dev/base64/#do-k-ument', '.pages.dev/base64/#do_k_ument', text)
+    text = re.sub('.pages.dev/devtools/#machine-learning2', '.pages.dev/devtools/#machine-learning-1', text)
 
     #Base64-decoder script link
     text = re.sub('\*\* site or extension\.\n', '** site or extension\.\nAlternatively, install this [userscript](https://rentry.co/wc7s2/raw)\n', text, flags=re.MULTILINE)
