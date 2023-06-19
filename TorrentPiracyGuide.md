@@ -98,7 +98,6 @@
 * ⭐ **RuTracker Tools** - [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/) / [Search API](https://github.com/nikityy/rutracker-api)
 * ⭐ **[TorrentGalaxy](https://torrentgalaxy.to/)** - Video / Audio / Games / Software / NSFW / [Mirrors](https://proxygalaxy.me/)
 * ⭐ **[m0nkrus](http://w14.monkrus.ws/)** - Adobe Software Archive / [How-to](https://rentry.co/adobesoftware)
-* [Demonoid](https://www.demonoid.is/), [2](https://www.dnoid.to/) - Video / Audio / Software / Games / Books / Comics
 * [GloTorrents](https://glodls.to) - Video / Audio / Games / Books / Software / Android / NSFW
 * [MagnetDL](https://www.magnetdl.com/), [2]( https://www.magnetdl.org/) - Video / Audio / Games / Software / Books / [Onion](http://r5cena7erxpnxomyvoybuxh6fkgs55qqdg7bobf6yjx4j6vmywrqvlid.onion/)
 * [YggTorrent](https://ww3.yggtorrent.si/) - Video / Audio / Roms / Software / Books / Android / Comics
