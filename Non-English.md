@@ -128,6 +128,8 @@
 
 # ► Bulgarian
 
+* [Ucha.se](https://ucha.se/) - Educational Videos and Exam Questions
+
 ## ▷ Torrenting
 
 * [Zamunda](https://zamunda.net/) - Registration Required / Video / Audio / Software / Games / Books / NSFW
@@ -159,9 +161,7 @@
 
 ## ▷ Downloading
 
-* [channelmyanmar](https://channelmyanmar.org) - Movies / TV
-* [bgestv](https://bgestv.com/) - TV
-* [bgtvi](https://bgtvi.com/) - TV
+* ⭐ **[channelmyanmar](https://channelmyanmar.org)** - Movies / TV / Cartoons / 1080p / 4K
 
 ***
 
@@ -352,7 +352,7 @@
 
 ## ▷ Streaming
 
-* [FilmPlanet](https://www1.filmplanet.to/) - Movies / TV
+* [FilmPlanet](https://www1.filmplanet.to/) - Movies / TV / Sub / Dub / 720p
 
 ***
 
