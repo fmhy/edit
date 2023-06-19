@@ -604,6 +604,7 @@
 * [Chesses](https://pippinbarr.com/chesses/) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
 * [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess w/o Turns
+* [PokemonChess](https://pokemonchess.com/) - Pokemon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
 * [Real Board](https://github.com/karayaman/lichess-with-a-real-board) - Play Lichess w/ Real Chess Board
 * [Gambit](https://github.com/maaslalani/gambit) - Linux Terminal Chess
 * [Chess24](https://chess24.com/) - Real-Time Chess Tournaments
@@ -916,7 +917,8 @@
 
 # ► Tracking / Discovery
 
-* ⭐ **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database 
+* ⭐ **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database
+* ⭐ **[Glitchwave](https://glitchwave.com/)** - Game Tracker
 * ⭐ **[Grouvee](https://www.grouvee.com/)** - Game Tracker
 * ⭐ **[TasteDive](https://tastedive.com/)** - Game Recommendations
 * [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
