@@ -211,7 +211,7 @@
 * [/r/HighQualityAnimeGifs](https://www.reddit.com/r/HighQualityAnimeGifs/) or [/r/animegifs](https://www.reddit.com/r/animegifs/) -  View / Download Anime GIFs 
 * [Glittereyez](http://ge.silentears.net/) - Glitter GIFs
 * [Online GIF Tools](https://onlinegiftools.com/) - GIF Tools
-* [EZGif](https://ezgif.com/), [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFMemes](https://gifmemes.io/), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Pixteller](http://pixteller.com/) - GIF Creators / Editors
+* [EZGif](https://ezgif.com/), [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [Gifcurry](https://github.com/lettier/gifcurry), [QGifer](https://sourceforge.net/projects/qgifer/), [GIFMemes](https://gifmemes.io/), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/), [Pixteller](http://pixteller.com/), or [MemeMixr] (https://mememixr.com/) - GIF Creators / Editors
 * [EatMyArt](https://www.eatmy.art/), [DrawIsland](https://drawisland.com/) or  [Sketch Machine](https://sketchmachine.net/) - Create GIFs from Drawings
 * [GIF Explode](https://gif-explode.com/) - Split GIFs Into Frames
 * [LeiaPix](https://convert.leiapix.com/) - Image to GIF Creator
