@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.ibb.co/MMTPPLR/65df196c3507.png)** - For mobile users
+**[Table of Contents](https://ibb.co/7S2G0Qv)** - For mobile users
 
 ***
 *** 
@@ -482,30 +482,49 @@
 
 ***
 
+# ► Travel
+
+* ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)**, [CountryReports](https://www.countryreports.org/) or [TravelTips](https://www.traveltip.org/world_maps.php) - Travel Guides
+* ⭐ **[JourneyPlan](https://journeyplan.com)** or [TripNotes](https://tripnotes.ai/) - Trip Planning AIs
+* ⭐ **[Borderless](https://borderless.safetywing.com/)** - Travel Restrictions Guide
+* ⭐ **[MapChecking](https://www.mapchecking.com/)** - Crowd Size Estimation
+* [Gas Price Map](https://www.gasbuddy.com/gaspricemap) - US Gas Prices
+* [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](https://www.radarbox.com/) or [FlightAware](http://flightaware.com/) - Live Flight Tracker 
+* [plane-notify](https://github.com/Jxck-S/plane-notify) - Plane Takeoff Notifications
+* [FlightConnections](https://www.flightconnections.com/) - Interactive Flight Routes
+* [SkyVector](https://skyvector.com/) - Flight Planner
+* [WikiRoutes](https://wikiroutes.info/) - Public Transport Routes
+* [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
+* [MetroOrbits](http://mic-ro.com/metro/index.html) - Subway Maps / Data
+* [ChronoTrains](https://chronotrains-eu.vercel.app/) - European Trains Distances
+* [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Sites
+* [Roadside America](https://www.roadsideamerica.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
+* [FreeCampSites](https://freecampsites.net/) - Free Camp Sites
+* [Traveler Map](https://travelermap.net/) - National Park Maps
+* [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - Dialect Map
+* [Left vs. Right Side Driving Map](https://somerandomstuff1.files.wordpress.com/2019/02/left-or-right-side.png) - Left vs. Right Side Driving by Country
+* [Speed Limits Map](https://somerandomstuff1.files.wordpress.com/2019/02/highest-speed-limits-around-the-world.png) - Max Speed Limits
+* [Hate Map](http://splcenter.org/hate-map) - Hate Group Locations
+* [LiveUAMap](https://liveuamap.com/) - Ukraine Conflict Areas LiveFeed
+
+***
+
 # ► Maps
 
 * ⭐ **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Index
 * ⭐ **[Satellite / Street View Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_satellite_.26amp.3B_street_view_maps)**
 * ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** / [Search](https://nominatim.openstreetmap.org/ui/search.html), [KartaView](https://kartaview.org/landing), [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor), [Open Infrastructure Map](https://openinframap.org/), [FacilMap](https://facilmap.org/), [OutdoorMaps](https://outdoormaps.eu/) or [Mapillary](https://www.mapillary.com/) - Street Maps
+* ⭐ **[Routora](https://chrome.google.com/webstore/detail/routora-google-maps-route/jdddfnfohdeaklgkpglonlofgapjgfbp)** - Google Maps Route Optimization
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
-* [Atlas Obscura](https://www.atlasobscura.com/), [CountryReports](https://www.countryreports.org/) or [TravelTips](https://www.traveltip.org/world_maps.php) - Travel Maps / Guides
-* [TripNotes](https://tripnotes.ai/) - Travel Planning AI
-* [Borderless](https://borderless.safetywing.com/) - Travel Restriction Map
-* [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Site Maps
-* [Roadside America](https://www.roadsideamerica.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Maps & Guides
-* [FreeCampSites](https://freecampsites.net/) - Camp Site Map
-* [Traveler Map](https://travelermap.net/) - National Park Map
 * [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
 * [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - Earth Viewer
 * [Snazzy Maps](https://snazzymaps.com/) - Google Maps Themes
-* [Routora](https://chrome.google.com/webstore/detail/routora-google-maps-route/jdddfnfohdeaklgkpglonlofgapjgfbp) - Google Maps Route Optimization
-* [GeoVisual Search](https://search.descarteslabs.com/) - Object Recognition Map 
+* [GeoVisual Search](https://search.descarteslabs.com/) - Object Recognition Map
 * [OldMapsOnline](https://www.oldmapsonline.org/) - Historical Maps Tool 
 * [Loc Maps](https://www.loc.gov/collections/general-maps/), [EuraAtlas](https://euratlas.com/),  [GeoGarage](http://rumsey.geogarage.com/index.html), [OpenHistoricalMap](https://www.openhistoricalmap.org/), [Digital Collection Maps](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division), [MapHistory.info](https://www.maphistory.info/index.html) or [Cronobook](https://cronobook.com/) - Historical Maps
 * [Historic Borders](https://historicborders.app/) - Historic Borders Map
 * [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) - World History Map with Visual Notes 
 * [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US Historical Maps
-* [LiveUAMap](https://liveuamap.com/) - Ukraine Conflict Areas LiveFeed
 * [Sirens In UA](https://sirens.in.ua/) - Ukraine Air Raid Siren Map
 * [Native-Land.ca](https://native-land.ca/) - Indigenous Territory Map
 * [Midgard Map](https://midgardmap.koboldpress.com/) - Midgard Map
@@ -557,7 +576,6 @@
 * [EuraAtlas](https://euratlas.com/), [Historical City Maps]( https://redd.it/61fdp6), [GeoGarage](http://rumsey.geogarage.com/index.html) or [Digital Collection Maps](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division) - Historical Maps
 * [Geacron](http://geacron.com/) - World History Timeline Map
 * [Ancestry Images](http://www.ancestryimages.com/) or [Pastvu](https://pastvu.com/) - Historical Photo & Map Archive
-* [Gas Price Map](https://www.gasbuddy.com/gaspricemap) - US Gas Price Map
 * [Falling Fruit](https://fallingfruit.org/) - Urban Harvesting Map
 * [Infrapedia](https://www.infrapedia.com/) - Network / Datacenter Map
 * [CellMapper](https://www.cellmapper.net/) - Cell Tower Map
@@ -580,37 +598,21 @@
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)
 * [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
 * [LightningMaps](https://lightningmaps.org/) - Lightning Maps
-* [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](https://www.radarbox.com/) or [FlightAware](http://flightaware.com/) - Live Flight Tracker 
-* [plane-notify](https://github.com/Jxck-S/plane-notify) - Plane Takeoff Notifications
-* [FlightConnections](https://www.flightconnections.com/) - Interactive Flight Routes
-* [SkyVector](https://skyvector.com/) - Flight Planner
-* [WikiRoutes](https://wikiroutes.info/) - Public Transport Routes
-* [ChronoTrains](https://chronotrains-eu.vercel.app/) - European Trains Distance Map
 * [maps.ie](https://www.maps.ie/) - Map of Ireland
 * [MarineTraffic](https://www.marinetraffic.com/) or [VesselFinder](http://vesselfinder.com/) - Live Ship Tracker
 * [Fishing Watch](https://globalfishingwatch.org/map) - Fishing Activity Map
 * [Ocearch](https://www.ocearch.org/tracker/) - Shark Tracker
 * [IKnowWhereYourCatLives](https://iknowwhereyourcatlives.com/) - Cat Tracker
 * [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
-* [Speed Limits Map](https://somerandomstuff1.files.wordpress.com/2019/02/highest-speed-limits-around-the-world.png) - Max Speed Limits
-* [Left vs. Right Side Driving Map](https://somerandomstuff1.files.wordpress.com/2019/02/left-or-right-side.png) - Left vs. Right Side Driving by Country
-* [MetroOrbits](http://mic-ro.com/metro/index.html) - Subway Maps / Data
-* [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [SubMarineCableMap](https://www.submarinecablemap.com/) - Fiber Optic Cable Map
 * [Cost of Living](https://www.numbeo.com/cost-of-living/) or [MoveMap](https://www.movemap.io/) - Cost of Living Map
 * [Mapfrappe](http://mapfrappe.com/?show=46142) or [scale-a-tron](https://stamen.github.io/scale-a-tron/) - Compare True Sizes on Land
 * [Mikavaa](http://mapmerizer.mikavaa.com/) - Compare Cities
-* [MapChecking](https://www.mapchecking.com/) - Crowd Size Estimation
-* [Free Camp Sites](https://freecampsites.net/) - Free Camp Sites
-* [AllTrails](https://www.alltrails.com/) - Hiking Routes
-* [Bikemap](https://www.bikemap.net/) - Running Routes
 * [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sound Map
 * [Notable People](https://tjukanovt.github.io/notable-people) or [People Map](https://pudding.cool/2019/05/people-map/) - Notable People Maps
 * [NUKEMAP](https://nuclearsecrecy.com/nukemap/) or [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Interactive Damage Effect Maps
 * [convert_lat_long](https://andrew.hedges.name/experiments/convert_lat_long/) - Convert Latitude/Longitude to Decimal
-* [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - Dialect Map
 * [What3Words](https://what3words.com/) - 3 Word Address'
-* [Hate Map](http://splcenter.org/hate-map) - Hate Group Map
 * [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Maps / Satellite View
 * [CAD Mapper](https://cadmapper.com/) - Free CAD Files
 
