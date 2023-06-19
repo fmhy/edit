@@ -21,7 +21,7 @@ headersData = {
     "VideoPiracyGuide.md":      [":tv:",                "120", "# Movies / TV / Anime", "Stream Videos, Download Videos, Torrent Videos"],
     "base64.md":                [":key:",               "20", "", ""],
     "img-tools.md":             [":camera:",            "55", "# Image Tools", ""],
-    "UnsafeSites.md":           [":warning:",           "21", "# Unsafe Sites / Software list", ""]
+    "UnsafeSites.md":           [":warning:",           "21", "# Unsafe Sites", ""]
 }
 
 def getHeaderForPage(pageFilename):
