@@ -66,7 +66,8 @@
 * [datpiff](https://www.datpiff.com/) - Mixtapes
 * [pumpyouup](http://www.pumpyouup.com/) - Indie Dubstep
 * [CitizenFreak](http://citizenfreak.com/) - Canadian Music
-* [musopen](https://musopen.org/music/) - Classical
+* [Classical Music Only](https://classicalmusiconly.com/) - Classical Music
+* [musopen](https://musopen.org/music/) - Classical Music
 * [Bandcamp](https://bandcamp.com/tag/free-music?tab=all_releases) or [Hidden Bandcamp Tracks](https://github.com/7x11x13/hidden-bandcamp-tracks) - Free Bandcamp Music 
 * [Audius](https://audius.co/) - User Made Music Platform
 * [AudionautiX](https://audionautix.com/) - Mood Based Streaming
