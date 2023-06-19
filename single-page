@@ -604,6 +604,7 @@
 * [Chesses](https://pippinbarr.com/chesses/) or [Omnichess](https://omnichess.club/) - Multiple Styles of Chess
 * [The Kilobyte’s Gambit](https://vole.wtf/kilobytes-gambit/) - 1k Chess Game
 * [Kung Fu Chess](https://www.kfchess.com/) - Real-Time Chess w/o Turns
+* [PokemonChess](https://pokemonchess.com/) - Pokemon Style Chess / [Discord](https://discord.gg/fp5bcCqg8q)
 * [Real Board](https://github.com/karayaman/lichess-with-a-real-board) - Play Lichess w/ Real Chess Board
 * [Gambit](https://github.com/maaslalani/gambit) - Linux Terminal Chess
 * [Chess24](https://chess24.com/) - Real-Time Chess Tournaments
@@ -916,7 +917,8 @@
 
 # ► Tracking / Discovery
 
-* ⭐ **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database 
+* ⭐ **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database
+* ⭐ **[Glitchwave](https://glitchwave.com/)** - Game Tracker
 * ⭐ **[Grouvee](https://www.grouvee.com/)** - Game Tracker
 * ⭐ **[TasteDive](https://tastedive.com/)** - Game Recommendations
 * [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
@@ -5341,6 +5343,7 @@ Note that our goal is to track things that should be avoided but still get recom
 * [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - Download / Torrent Manager 
 * [Vysor](https://www.vysor.io/), [PlainApp](https://github.com/ismartcoding/plain-app), [scrcpy](https://github.com/Genymobile/scrcpy), [WebADB](https://app.webadb.com/) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/), [2](https://github.com/Tomotoes/scrcpy-gui)
 * [AVNC](https://github.com/gujjwal00/avnc) - Remote Desktop Client for Android
+* [ApkShellExt2](http://www.apkshellext.com/) - Desktop App Manager
 * [Wake on Lan](https://play.google.com/store/apps/details?id=de.florianisme.wakeonlan) - Control Devices via Wake on Lan
 * [BlueLight Filter](https://play.google.com/store/apps/details?id=jp.ne.hardyinfinity.bluelightfilter.free) - Screen Bluelight Filter
 * [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - Test Internet Speed
@@ -5659,7 +5662,6 @@ Note that our goal is to track things that should be avoided but still get recom
 * [Upflix](https://www.upflix.net/) - Movies / TV
 * [TeaTV](https://forum.mobilism.org/search.php?keywords=teatv&sr=topics&sf=titleonly) - Movies / TV
 * [CyberFlix](https://cyberflix.me/) - Movies / TV
-* [MOTV](http://motv.top/) - Movies / TV / Chromecast
 * [CinemaHD](https://cinemahdapkapp.com/v2-apkd4/) - Movies / TV
 * [Movies Cave](https://github.com/nbats/FMHYedit/blob/main/base64.md#movies-cave-app) - Movies / TV
 * [Tuner Radio](https://www.downloader.world/) - Movies / TV
@@ -6901,7 +6903,6 @@ Note that our goal is to track things that should be avoided but still get recom
 * [General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f and type "video"
 * [JapaneseTorrents](https://japanesetorrents.wordpress.com/) - Asian Drama
 * [IMDb Link em All](https://greasyfork.org/en/scripts/17154-imdb-link-em-all), [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout), [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod), [IMDb Torrent Search](https://github.com/Crecket/imdb-torrent-search) or [TMDB-Torrent-Movie-Database](https://github.com/singhkumarpratik/TMDB-Torrent-Movie-Database) - Torrent Site Results on IMDb
-* [IMDB to RARBG](https://greasyfork.org/en/scripts/376793-imdb-to-rarbg-torrent-search) - RARBG Torrent / Magnet Links on IMDB 
 * [srrextra](https://github.com/srrDB/srrextra) - Scene Release Tracker on IMDb
 
 ***
@@ -6948,7 +6949,7 @@ Note that our goal is to track things that should be avoided but still get recom
 * ⭐ **Letterboxd Tools** - [Multi Tool](https://www.letterboxd.tools/) / [Shortcuts](https://github.com/alandours/letterboxd-shortcuts) / [Watchlist Picker](https://watchlistpicker.com/) / [Collections](https://mrdys.github.io/letterboxd-completionist/)
 * ⭐ **[ICheckMovies](https://www.icheckmovies.com/)** - Movies / List Database / [Enhanced](https://greasyfork.org/en/scripts/11541-icheckmovies-enhanced)
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Anime
-* ⭐ **MAL Tools** - [Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Hide Seen](https://greasyfork.org/en/scripts/17961) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/)
+* ⭐ **MAL Tools** - [Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Badges](https://www.mal-badges.com/) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Hide Seen](https://greasyfork.org/en/scripts/17961) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/)
 * ⭐ **[AniList](https://anilist.co/)** - Anime / [Wrapper](https://github.com/butterstroke/Anilist-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
 * ⭐ **[Simkl](https://simkl.com/)** - TV / Anime / Movies / [Apps](https://simkl.com/apps/) / [Import Tools](https://simkl.com/apps/import/)
 * ⭐ **[/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/)** - Movie, TV & Anime Recommendations
@@ -10576,7 +10577,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Domain Info Tools
 
-[WhoisRequest](https://whoisrequest.com/), [Rankchart](https://rankchart.org/), [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MXToolBox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/), [IPIP.NET](https://whois.ipip.net/), [BillCipher](https://github.com/84KaliPleXon3/BillCipher), [WebStatsDomain](https://webstatsdomain.org/)
+[WhoisRequest](https://whoisrequest.com/), [Rankchart](https://rankchart.org/), [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MXToolBox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/), [IPIP.NET](https://whois.ipip.net/), [BillCipher](https://github.com/84KaliPleXon3/BillCipher), [WebStatsDomain](https://webstatsdomain.org/), [AtSameIP](https://atsameip.intercode.ca/), [DNSlytics](https://dnslytics.com/), [DNSTwister](https://dnstwister.report/), [AnalyzeID](https://analyzeid.com/)
 
 ***
 
@@ -11583,7 +11584,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Extensions**
 
-⭐ **[Download Helper](https://www.downloadhelper.net/)**
+* ⭐ **[Download Helper](https://www.downloadhelper.net/)**
 
 [Video Downloader](https://provd.net/), [AddonCrop](https://addoncrop.com/v25/), [Cococut](https://cococut.net/), [skyload](http://skyload.io/), [SVD](https://chrome.google.com/webstore/detail/svd-video-downloader/jbialncfijnjojchcmhfmjgjggbbdghb/related?hl=en), [Video Downloader Professional](https://chrome.google.com/webstore/detail/video-downloader-professi/dlpiaeofjhnjeckpjcbhmnifdejoikpa), [Easy Video Downloader](https://add0n.com/easy-video-downloader.html), [Unlimited_downloader](https://greasyfork.org/en/scripts/445751), [y2monkey](https://github.com/jijirae/y2monkey), [FetchV](https://fetchv.net/)
 
@@ -14119,7 +14120,8 @@ Add the following commands to a search to manually scrape each site.
 * [datpiff](https://www.datpiff.com/) - Mixtapes
 * [pumpyouup](http://www.pumpyouup.com/) - Indie Dubstep
 * [CitizenFreak](http://citizenfreak.com/) - Canadian Music
-* [musopen](https://musopen.org/music/) - Classical
+* [Classical Music Only](https://classicalmusiconly.com/) - Classical Music
+* [musopen](https://musopen.org/music/) - Classical Music
 * [Bandcamp](https://bandcamp.com/tag/free-music?tab=all_releases) or [Hidden Bandcamp Tracks](https://github.com/7x11x13/hidden-bandcamp-tracks) - Free Bandcamp Music 
 * [Audius](https://audius.co/) - User Made Music Platform
 * [AudionautiX](https://audionautix.com/) - Mood Based Streaming
@@ -15349,7 +15351,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Docker Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_docker_tools)** - Docker Tools, Images and Clients
 * [SupaBase](https://supabase.com/), [Kodular](https://www.kodular.io/), [Glide](https://www.glideapps.com/), [AppCreator24](https://www.appcreator24.com/), [Dokku](https://dokku.com/), [AndroidIDE](https://androidide.com/), [Flutter](https://flutter.dev/) / [Resources](https://github.com/Solido/awesome-flutter), [2](https://github.com/leanflutter/awesome-flutter-desktop) or [Android Studio](https://developer.android.com/studio/index.html) - App Creators
 * [Android Libhunt](https://android.libhunt.com/) - Android Packages
-* [StreamLit](https://streamlit.io/) - Data Science App Creator / [Templates](https://extras.streamlit.app/)
+* [StreamLit](https://streamlit.io/) - Data Science App Creator / [Templates](https://extras.streamlit.app/) / [UI](https://github.com/hayabhay/whisper-ui)
 * [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) - App Development Platform / [GitHub](https://github.com/xamarin)
 * [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
 * [MemberPrism](http://r.ftqq.com/MemberPrism2/) - Member-Only App Builder
@@ -15777,7 +15779,7 @@ Add the following commands to a search to manually scrape each site.
 * [Beautifier](https://beautifier.io/) - JavaScript Beautifier
 * [UglifyJS](https://skalman.github.io/UglifyJS-online/) or [JavaScript Compressor](https://javascriptcompressor.com/) - JavaScript Minifier
 * [bytecode-viewer](https://github.com/Konloch/bytecode-viewer), [JDec](https://jdec.app/), [jd-gui](https://github.com/java-decompiler/jd-gui), [Krakatau](https://github.com/Storyyeller/Krakatau), [Luyten](https://github.com/deathmarine/Luyten) or [Fernflower](https://github.com/fesh0r/fernflower) - Java Decompilers
-* [Regulex](https://jex.im/regulex/) - JavaScript Regular Expression Visualizer
+* [Regulex](https://jex.im/regulex/) or [Regexper](https://regexper.com/) - Regular Expression Visualizers
 * [anime.js](https://animejs.com/) - JavaScript Animation Library / [GitHub](https://github.com/juliangarnier/anime/)
 * [randomcolor](https://randomcolor.lllllllllllllllll.com/) - Random Javascript Color Generator
 * [Microdiff](https://github.com/AsyncBanana/microdiff) - Object and Array Comparison Library
@@ -17050,7 +17052,6 @@ Add the following commands to a search to manually scrape each site.
 # ► Polish
 
 * ⭐ **[StreamBase](https://rentry.co/streambase)** - Piracy Index / [Discord](https://discord.gg/ZmUTrX6axg)
-* [Nitro.to](https://nitro.to/) - Piracy Discussion Forum
 * [2nr](https://play.google.com/store/apps/details?id=pl.rs.sip.softphone) - Free Polish Phone Numbers
 * [Sport TVP](https://sport.tvp.pl/) - Sports News
 
@@ -18503,6 +18504,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
 * ⭐ **[UseChatGPT.AI](https://www.usechatgpt.ai/)** or [ChatWebpage](https://chatwebpage.com/) - Turn Webpages into Chatbots
 * ⭐ **[AI Playground](https://play.vercel.ai/)** or [ChatHub](https://chathub.gg/) - Compare AI Responses
+* [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
 * [ChatBlade](https://github.com/npiv/chatblade) - ChatGPT CLI
 * [engshell](https://github.com/emcf/engshell) or [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT in TUIs
 * [YakGPT](https://yakgpt.vercel.app/), [BetterGPT](https://bettergpt.chat/) or [TurboGPT.ai](https://turbogpt.ai/) - ChatGPT WebUIs
@@ -18666,7 +18668,8 @@ Add the following commands to a search to manually scrape each site.
 * [Patience.ai](https://www.patience.ai/) - Multiple AI Image Generators
 * [StableCog](https://stablecog.com/) - AI Image Generator / [Discord](https://discord.com/invite/AJyYd6AUEn) / [Github](https://github.com/stablecog/stablecog)
 * [Pollination](https://pollinations.ai/) - AI Image Generator / [Discord](https://discord.com/invite/8HqSRhJVxn)
-* [Leonardo.ai](https://app.leonardo.ai/) - Text to Image
+* [Disco-Diffusion](https://replicate.com/nightmareai/disco-diffusion) - AI Image Generator / [Discord](https://discord.com/invite/AWXCCC6G2P)
+* [Leonardo.ai](https://app.leonardo.ai/) - AI Image Generator
 * [Prodia](https://app.prodia.com/) - AI Image Generator
 * [Visuali](https://visuali.io/) - AI Image Generator
 * [Ocriador](https://ocriador.app/) - AI Image Generator
@@ -19208,7 +19211,7 @@ Add the following commands to a search to manually scrape each site.
 * [MergeMP4](https://maple3142.github.io/mergemp4/) - Merge MP4 Video & Audio
 * [VidLouder](https://www.videolouder.com/) - Increase Video Volume
 * [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md) - AI Video Toolbox
-* [text2video](https://github.com/deforum-art/sd-webui-text2video), [Text To Video Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab), [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) or [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Text to Video AI
+* [text2video](https://github.com/deforum-art/sd-webui-text2video), [Make A Vid](https://huggingface.co/spaces/TempoFunk/makeavid-sd-jax), [Text To Video Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab), [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) or [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Text to Video AI
 * [TXT-2-IMG-2-MUSIC](https://huggingface.co/spaces/DGSpitzer/TXT-2-IMG-2-MUSIC-2-VIDEO-w-RIFFUSION) - Text to Image to Music to Video
 * [Video Cleaner](https://videocleaner.com/) or [Video Enhance AI](https://www.topazlabs.com/topaz-video-ai) - Video Enhancement Tool 
 * [Flowframes](https://nmkd.itch.io/flowframes), [fpska](https://github.com/andreiyv/fpska) or [SVP](https://www.svp-team.com/) - Video Interpolation / Increase FPS
@@ -19933,10 +19936,11 @@ Add the following commands to a search to manually scrape each site.
 
 ## ▷ URL Tools
 
+* ⭐ **[Check if Sites are Down](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_down_site_checkers)** - Check if Sites are Dead / Broken
 * ⭐ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls)** - URL Encoding / Decoding Tools
 * ⭐ **[Flagfox](https://flagfox.wordpress.com/)** - Displays Country's Flag on Sites / [Adds Many URL Tools](https://i.ibb.co/N7Mq56Q/889730aa3863.png)
 * ⭐ **[WTFDoesThisCompanyDo](https://wtfdoesthiscompanydo.vercel.app/)** - AI Site Explanations
-* ⭐ **[Check if Sites are Down](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_down_site_checkers)** - Check if Sites are Dead / Broken
+* ⭐ **[Reverse URL Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools)** - Domain Info Lookup Tools
 * ⭐ **[URL Unshorteners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_url_unshorteners)** - Unmask Shortened URLs
 * ⭐ **[Wiki Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - Wiki URL Shortener
 * ⭐ **[t.ly](https://t.ly/)** - `t.ly/qqH6`
@@ -19998,13 +20002,11 @@ Add the following commands to a search to manually scrape each site.
 * [AnyImage](https://anyimage.io/) - Create Social Card Links
 * [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - Custom URL Handler
 * [Link Protectors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_link_protectors) - Secure / Monitor Links
-* [Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools) - Domain Information Lookup Tools
 * [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - DNS Information Tool
 * [Awesome Piracy Bot](https://github.com/Igglybuff/awesome-piracy-bot) - URL Scraping Tools
 * [Site Worth Traffic](https://www.siteworthtraffic.com/) - Calculate Website Worth
 * [XML-Sitemaps](https://www.xml-sitemaps.com/) - Sitemap Creator
 * [CarbonDates](https://carbondate.cs.odu.edu/) - Check Site Creation Date 
-* [AtSameIP](https://atsameip.intercode.ca/) or [AnalyzeID](https://analyzeid.com/) - Reverse IP Lookup
 * [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Search Console](https://search.google.com/search-console/), [subsurface](https://github.com/CellEight/subsurface) or [SubdomainFinder](https://subdomainfinder.c99.nl/) - Find Hidden Subdomains 
 * [pyfuzz](https://github.com/AyoobAli/pyfuzz) - URL Fuzzing Tool 
 * [Backlink Tool](https://backlinktool.io/) or [Index Kings](http://www.indexkings.com/) - URL Indexer 
@@ -20370,9 +20372,10 @@ Add the following commands to a search to manually scrape each site.
 * [YouTube Chronological Order](https://github.com/SleekPanther/youtube-chronological-order) - Watch YouTube Videos in Chronological Order 
 * [YouTube Upload Time](https://chrome.google.com/webstore/detail/youtube-upload-time/nenoecmaibjcahoahnmeinahlapheblg) - Check YouTube Upload Date
 * [YTStamps](https://ytstamps.netlify.app/) - Create Custom Start / End Times
-* [Video Speed Controller](https://github.com/codebicycle/videospeed), [YouTube Speed Control](https://github.com/avi12/youtube-speed-control) or [TimerHooker](https://timer.palerock.cn/en/) - Control Speed of YouTube Videos 
-* [Watch Frame by Frame](http://www.watchframebyframe.com/) - Watch Videos Frame by Frame 
-* [Anilyzer](https://anilyzer.com/) - Watch YouTube Videos in Slow Motion / Frame by Frame 
+* [Video Speed Controller](https://github.com/codebicycle/videospeed), [YouTube Speed Control](https://github.com/avi12/youtube-speed-control) or [TimerHooker](https://timer.palerock.cn/en/) - Control Speed of YouTube Videos
+* [Watch Frame by Frame](http://www.watchframebyframe.com/) - Watch Videos Frame by Frame
+* [Anilyzer](https://anilyzer.com/) - Watch YouTube Videos in Slow Motion / Frame by Frame
+* [Fast-forward for YT Shorts](https://greasyfork.org/en/scripts/466438) - Adds Shortcut Skip Keys to Shorts
 * [YouTube Playlist Search](https://greasyfork.org/en/scripts/14370-youtube-playlist-search) - Quickly Search YouTube Playlists
 * [Playlist Creator for YouTube](https://chrome.google.com/webstore/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) or [Playlists at YouTube](https://playlists.at/youtube/) - Easily Create Playlists
 * [ytcc](https://github.com/woefe/ytcc) - Playlist Manager
@@ -20882,7 +20885,7 @@ Twitch Stream Tracker
 * [AltSnap](https://github.com/RamonUnch/AltSnap) - Windows Dragging
 * [Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - Windows 11 Drag & Drop Fix
 * [Windows Sizer](http://www.brianapps.net/sizer4/) - Resize / Reposition Windows
-* [MinimizeToTray](https://github.com/sandwichdoge/MinimizeToTray), [RBTray](https://github.com/benbuck/rbtray) or [minimize-to-tray](https://sourceforge.net/projects/minimize-to-tray/) - Minimize Any Window to Tray
+* [MinimizeToTray](https://github.com/sandwichdoge/MinimizeToTray), [Traymond](https://github.com/fcFn/traymond), [RBTray](https://github.com/benbuck/rbtray) or [minimize-to-tray](https://sourceforge.net/projects/minimize-to-tray/) - Minimize Windows to Tray
 * [TrayDir](https://github.com/SamuelSVD/TrayDir) - System Tray File Manager
 * [BatteryMode](https://github.com/tarcode-apps/BatteryMode) or [Percentage](https://github.com/kas/percentage) - System Tray Battery Percentage / Managers
 * [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - Quickly Change Power Schemes
@@ -20912,7 +20915,8 @@ Twitch Stream Tracker
 * [ButteryTaskbar](https://github.com/CrypticButter/ButteryTaskbar/) - Hide Taskbar When Start Menu is Closed
 * [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - Easily Hide / Show 
 * [MediaFlyout](https://github.com/krlvm/MediaFlyout) - Media Control Taskbar
-* [EarTrumpet](https://eartrumpet.app/), [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Improved Volume Mixer  
+* [EarTrumpet](https://eartrumpet.app/), [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - Improved Volume Mixer
+* [TrayVolumeControl](https://github.com/krlvm/TrayVolumeControl) - Control Tray Volume via Scroll
 * [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - Hide Volume Bar
 * [OneLaunch](https://onelaunch.com/) - Customizable Windows Dock
 * [CircleDock](http://circledock.wikidot.com/) - Circular Dock
@@ -21014,6 +21018,7 @@ Twitch Stream Tracker
 * [watermark-remover](https://github.com/cpappen/watermark-remover), [pdf-remove-watermarks](https://github.com/matthiasbock/pdf-remove-watermarks), [Aspose](https://products.aspose.app/pdf/annotation) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - PDF Watermark Remover
 * [Scan Your PDF](https://www.scanyourpdf.com/) - Make a PDF look like it was Scanned
 * [PDF Fixer](https://pdffixer.com/) - Repair Damaged PDFs
+* [JustSignPDF](https://justsignpdf.com/) - Sign PDF Online
 * [FalsiScan](https://gitlab.com/edouardklein/falsisign) - PDF Hand Signature Generator
 * [Google Drive PDF Downloader](https://github.com/zeltox/Google-Drive-PDF-Downloader) - Download Protected GDrive PDFs
 * [PDFCoffee](https://pdfcoffee.com/) - Upload PDF, Word or PowerPoint Files
@@ -21233,7 +21238,7 @@ Twitch Stream Tracker
 * ⭐ **[Awesome TUIs](https://github.com/rothgar/awesome-tuis)** - Linux TUI Index
 * ⭐ **[Bpytop](https://github.com/aristocratos/bpytop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [vtop](https://github.com/MrRio/vtop), [neofetch](https://github.com/dylanaraps/neofetch) / [Themes](https://github.com/chick2d/neofetch-themes), [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [Stacer](https://github.com/oguzhaninan/Stacer) - System Info / Resource Monitors
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)**, [nnn](https://github.com/jarun/nnn), [clifm](https://github.com/leo-arch/clifm), [fm](https://github.com/mistakenelf/fm), [Joshuto](https://github.com/kamiyaa/joshuto), [gdu](https://github.com/dundee/gdu) or [NCDU](https://github.com/rofl0r/ncdu) - Terminal File Manager / Disk Usage Analyzers
-* ⭐ **[Alacritty](https://github.com/alacritty/alacritty)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, [Simple Terminal](https://st.suckless.org/), [yakuake](https://apps.kde.org/yakuake/) or [tabby](https://tabby.sh/) - Terminal Emulator
+* ⭐ **[Alacritty](https://github.com/alacritty/alacritty)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, [Simple Terminal](https://st.suckless.org/), [yakuake](https://apps.kde.org/yakuake/), [emacs-eat](https://codeberg.org/akib/emacs-eat) or [tabby](https://tabby.sh/) - Terminal Emulators
 * ⭐ **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
 * ⭐ **[mpv](https://mpv.io/)** - Video Player / [Frontend](https://github.com/celluloid-player/celluloid)
 * ⭐ **[TorrFlix](https://github.com/infinity-plus/TorrFlix)** - Torrent Streaming CLI
