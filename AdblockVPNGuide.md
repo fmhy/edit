@@ -55,7 +55,7 @@
 * ⭐ **[ControlD](https://controld.com/)**, [DNS Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/), [ChrisPC DNS Switch](https://www.majorgeeks.com/files/details/chrispc_dns_switch.html) or [Hetzner](https://www.hetzner.com/dns-console?country=us) - DNS Managers / Switchers
 * ⭐ **[serverless-dns](https://github.com/serverless-dns/serverless-dns)** - Serverless DNS
 * ⭐ **[Warp](https://1.1.1.1/)** or [DNS Resolver Privacy-First](http://doh.tiar.app/) - DNS Resolvers
-* ⭐ **Warp Tools** - [Unlimited Data](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED), [2](https://github.com/nxvvvv/warp-plus) / [Free Plus](https://github.com/ALIILAPRO/warp-plus-cloudflare), [2](https://redd.it/zalgyb) / [Warp Warning](https://rentry.co/warpwarning)
+* ⭐ **Warp Tools** - [Unlimited Data](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED), [2](https://github.com/nxvvvv/warp-plus) / [Free Plus](https://redd.it/zalgyb) / [Warp Warning](https://rentry.co/warpwarning)
 * [Adguard DNS](https://adguard-dns.io/) - DNS Adblocking
 * [Pi-Hole](https://pi-hole.net/) - DNS Adblocking / Self-Hosted
 * Pi-Hole Tools - [Install Script](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filter](https://firebog.net/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine) / [Antitelemetry](https://github.com/MoralCode/pihole-antitelemetry)
