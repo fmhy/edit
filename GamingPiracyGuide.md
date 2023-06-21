@@ -1066,7 +1066,7 @@
 
 ## ▷ Optimization Tools
 
-* ⭐ **[System Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_optimization)** - General System Optimization Tools
+* ⭐ **[System Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_hardware)** - General System Optimization Tools
 * ⭐ **[PCGamingWiki](https://www.pcgamingwiki.com/)** - Game Info, Bug Fixes & Optimization
 * ⭐ **[SystemRequirmentsLab](https://www.systemrequirementslab.com/cyri/)**, [Game Debate](https://game-debate.com/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Tests
 * ⭐ **[ProSettings](https://prosettings.net/)** - In-Game Settings Optimization Guides
