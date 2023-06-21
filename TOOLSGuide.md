@@ -1751,6 +1751,7 @@ Twitch Stream Tracker
 # ► System Tools
 
 * ⭐ **[PC Building / Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)** - Compare Systems and Parts
+* ⭐ **[Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide)**, [Pastas](https://rentry.org/pastas#guides), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/), [SevenForums](https://www.sevenforums.com/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - Windows Guides / Tutorials
 * ⭐ **[Windows Piracy Guides](https://github.com/nbats/FMHYedit/blob/main/base64.md#windows-piracy-guides)** - How-to Pirate Windows
 * ⭐ **[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - Download Windows
 * ⭐ **[Windows Activators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation)** - Windows Activation Guides / Scripts / [Rentry](https://rentry.co/win-activate)
@@ -1819,11 +1820,10 @@ Twitch Stream Tracker
 * [CenterOfMyScreen](https://centerofmyscreen.com/) - Find Center of Monitor
 * [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test
 * [JScreenFix](https://www.jscreenfix.com/) - Repair Stuck Pixels
-* [Pastas](https://rentry.org/pastas#guides), [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/), [SevenForums](https://www.sevenforums.com/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - General Windows Guides / Tutorials
 * [DisplayFusion](https://www.displayfusion.com/) or [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - Dual Monitor Tools
 * [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - Show Desktop For Only One Monitor
 * [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) - Change Startup Programs
-* [LaunchLater](https://github.com/jeffcox111/LaunchLater) or [Startup Delayer](https://www.r2.com.au/page/products/show/startup-delayer/) - Delay Automatic App Startups
+* [Startup Delayer](https://www.r2.com.au/page/products/show/startup-delayer/) - Delay Automatic App Startups
 * [Remove Hidden Startup Programs](https://www.youtube.com/watch?v=sUXcMaP6wRQ) - How-to Remove Secret Startup Apps
 * [SuperF4](https://stefansundin.github.io/superf4/), [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
@@ -1881,7 +1881,7 @@ Twitch Stream Tracker
 * [PC Manger](https://pcmanager-en.microsoft.com/), [Parted Magic](https://github.com/nbats/FMHYedit/blob/main/base64.md#parted-magic) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Manager / Cleanup
 * [Scrutiny](https://github.com/AnalogJ/scrutiny), [GSmartControl](https://gsmartcontrol.shaduri.dev/) or [smartmontools](https://www.smartmontools.org/) - Hard Drive Monitors
 * [Ozone3D](https://www.ozone3d.net/index_softwares.php) - System Benchmarking
-* [poclmembench](https://github.com/kruzer/poclmembench), [GoldMemory](https://www.goldmemory.cz/) or [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
+* [GoldMemory](https://www.goldmemory.cz/) or [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
 * [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
 * [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [ParkControl](https://bitsum.com/parkcontrol/), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
@@ -1911,8 +1911,7 @@ Twitch Stream Tracker
 * [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) or [LogDissect](https://github.com/dogoncouch/logdissect/) - Log Analyzation Utility
 * [Windows 11 Fixer](https://github.com/99natmar99/Windows-11-Fixer) - Win 11 Improvement Tool
 * [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Windows 11 ready
-* [Windows 11 Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 System Requirements Bypasser / [Guide](https://github.com/osx86-ijb/bypass-windows11-requirements)
-* [Windows 11 Debloater](https://github.com/teeotsa/windows-11-debloat), [win11SetupScript](https://github.com/fedoz13/win11SetupScript), [debloat-windows11](https://github.com/kdpuvvadi/debloat-windows11), [BloatyNosy](https://github.com/builtbybel/BloatyNosy), [Debloos](https://github.com/builtbybel/BloatyNosy) or [XToolbox](https://github.com/xemulat/XToolbox) - Windows 11 Debloaters
+* [Windows 11 Debloater](https://github.com/teeotsa/windows-11-debloat), [win11SetupScript](https://github.com/fedoz13/win11SetupScript), [debloat-windows11](https://github.com/kdpuvvadi/debloat-windows11), [BloatyNosy](https://github.com/builtbybel/BloatyNosy) or [XToolbox](https://github.com/xemulat/XToolbox) - Windows 11 Debloaters
 
 ***
 
