@@ -13,7 +13,8 @@
 
 ## ▷ Dedicated Hosts
 
-* ⭐ **[Ask4Movies](https://ask4movie.mx/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
+* ⭐ **[Ask4Movies](https://ask4movie.net/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
+https://ask4movie.net/
 * ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / Invite Code: mpgh or 1hack
 * ⭐ **[Watch A Movie](https://watcha.movie/)** - Movies / TV / [Discord](https://discord.gg/PvAg9Rc7kQ)
 * ⭐ **[C1NE](https://c1ne.co/)** - Movies / TV / [Discord](https://discord.gg/nXUP8TxNSR)
