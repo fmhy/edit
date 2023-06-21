@@ -1761,18 +1761,14 @@ Twitch Stream Tracker
 * ⭐ **AutoHotkey Tools** - [Script Gen](https://www.ahkgen.com/) / [Resources](https://github.com/ahkscript/awesome-AutoHotkey)
 * [Medicat USB](https://medicatusb.com/) - USB Toolkit
 * [GParted](https://gparted.org/), [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
-* [Gptgen](https://github.com/xorangekiller/gptgen) - MBR Partition Table to GPT Converter
 * [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) - Format Any Size USB to Fat32
 * [SARDU](https://www.sarducd.it/) - Create Recovery USB Flash Drive or Disk
 * [MTPDrive](https://www.mtpdrive.com/index.html) - MPT Device Drive Mapping
 * [rEFind](http://www.rodsbooks.com/refind/) - Boot Manager
 * [balenaEtcher](https://balena.io/etcher) - Flash OS Image SD / USB / [Mobile](https://etchdroid.depau.eu/)
-* [MTKClient](https://github.com/bkerler/mtkclient) - MTK Reverse Engineering / Flash Tool
-* [InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB) - Install Windows without USB
 * [NTLite](https://www.ntlite.com/), [WinReducer](https://www.winreducer.net/) or [MSMG Toolkit](https://msmgtoolkit.in/?i=1) - Custom ISO Creator
 * [FOG Project](https://fogproject.org) - OS Depoyment / Managment System
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloader / [Config](https://mackie100projects.altervista.org/)
-* [Ext3Fsd](https://github.com/matt-wu/Ext3Fsd) - Ext2/3/4 File System Driver
 * [zfsBootMenu](https://github.com/zbm-dev/zfsbootmenu) - ZFS Bootloader
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - Preinstallation Environment
 * [goldBoot](https://github.com/fossable/goldboot) - Create Immutable Infrastructure
@@ -1783,7 +1779,6 @@ Twitch Stream Tracker
 * [GetCID](https://www.getcid.info/) - Obtain Windows Confirmation ID
 * [HDD Serial Spoofer](https://github.com/namazso/hdd_serial_spoofer) - Spoof HDD Serial Number
 * [How-To Crack Windows Passwords](https://samsclass.info/123/proj14/123p12winhash.htm) 
-* [Depix](https://github.com/beurtschipper/Depix) - Recover Passwords from Pixelized Screenshots
 * [hashcat](https://hashcat.net/hashcat/) or [BIOS-PW](https://bios-pw.org/) - System Password Recovery Tools
 * [Wu10Man](https://github.com/WereDev/Wu10Man), [stopupdates10](https://greatis.com/stopupdates10/), [InControl](https://www.grc.com/incontrol.htm) or [windows-update-blocker](https://www.sordum.org/9470/windows-update-blocker-v1-7/) - Enable / Disable Windows 10 Updates
 * [WinXP Service Pack 4](https://www.majorgeeks.com/files/details/windows_xp_service_pack_4_unofficial.html) - Windows XP Unofficial Service Pack 4 / [Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#winxp-service-pack-4)
@@ -1819,21 +1814,20 @@ Twitch Stream Tracker
 * [UptimeFaker](https://github.com/CookiePLMonster/UptimeFaker) - System Uptime Debugger
 * [JitMagic](https://github.com/mrexodia/JitMagic) - Run Multiple Just-In-Time Debuggers
 * [Awesome Forensics](https://github.com/cugu/awesome-forensics) - System Forensic Tools
-* [OllyDbg](https://www.ollydbg.de/) - Binary Code Analysis Tool
 * [OpenBoardData](https://github.com/inflex/OpenBoardData) - Board Repair Data
 * [Boot Failure Troubleshooting Chart](https://i.ibb.co/d2GSKf7/624c64629e27.png) - Boot Failure Troubleshooting Guide
 * [CenterOfMyScreen](https://centerofmyscreen.com/) - Find Center of Monitor
 * [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test
-* [JScreenFix](https://www.jscreenfix.com/) or [UDPixel](http://udpix.free.fr/) - Repair Stuck Pixels
+* [JScreenFix](https://www.jscreenfix.com/) - Repair Stuck Pixels
 * [Pastas](https://rentry.org/pastas#guides), [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/), [SevenForums](https://www.sevenforums.com/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - General Windows Guides / Tutorials
 * [DisplayFusion](https://www.displayfusion.com/) or [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - Dual Monitor Tools
 * [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - Show Desktop For Only One Monitor
-* [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) or [Autostart](https://github.com/snail007/autostart) - Change Startup Programs
+* [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) - Change Startup Programs
 * [LaunchLater](https://github.com/jeffcox111/LaunchLater) or [Startup Delayer](https://www.r2.com.au/page/products/show/startup-delayer/) - Delay Automatic App Startups
 * [Remove Hidden Startup Programs](https://www.youtube.com/watch?v=sUXcMaP6wRQ) - How-to Remove Secret Startup Apps
 * [SuperF4](https://stefansundin.github.io/superf4/), [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
-* [DependecyWalker](https://www.dependencywalker.com/) or [Dependencies](https://github.com/lucasg/Dependencies) - View Application Dependencies 
+* [Dependencies](https://github.com/lucasg/Dependencies) - View Application Dependencies 
 * [Deskreen](https://deskreen.com/) or [SpaceDesk](https://www.spacedesk.net/) - Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen)
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager 
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](http://www.keyefficiency.com/) - System Task Scheduler
@@ -1875,7 +1869,7 @@ Twitch Stream Tracker
 * ⭐ **[Disk Usage Analyzers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_disk_usage_analyzers)** - View / Manage Files on Disk
 * ⭐ **[System Monitors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_system_monitors)** - Monitor your System / Hardware
 * [O&O App Buster](https://www.oo-software.com/en/ooappbuster) or [PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Remove Pre-Installed Microsoft Apps
-* [BleachBit](https://www.bleachbit.org/), [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) or [GlarySoft](https://www.glarysoft.com/) - Clean System Memory
+* [BleachBit](https://www.bleachbit.org/) or [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - Clean System Memory
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
 * [EIZO](https://www.eizo.be/monitor-test/), [Monitor](https://www.monitortests.com/) or [LCDTech](https://lcdtech.info/en/tests/) - Monitor Performance Tests
 * [TestUFO](https://www.testufo.com/) - Monitor Framerate Test
@@ -1886,10 +1880,9 @@ Twitch Stream Tracker
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
 * [PC Manger](https://pcmanager-en.microsoft.com/), [Parted Magic](https://github.com/nbats/FMHYedit/blob/main/base64.md#parted-magic) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Manager / Cleanup
 * [Scrutiny](https://github.com/AnalogJ/scrutiny), [GSmartControl](https://gsmartcontrol.shaduri.dev/) or [smartmontools](https://www.smartmontools.org/) - Hard Drive Monitors
-* [Macrium Reflect](https://www.macrium.com/reflectfree) or [Ozone3D](https://www.ozone3d.net/index_softwares.php) - System Benchmarking
+* [Ozone3D](https://www.ozone3d.net/index_softwares.php) - System Benchmarking
 * [poclmembench](https://github.com/kruzer/poclmembench), [GoldMemory](https://www.goldmemory.cz/) or [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
 * [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
-* [RunWithAffinity](https://www.majorgeeks.com/files/details/runwithaffinity.html) - Run Programs on Selected Core
 * [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [ParkControl](https://bitsum.com/parkcontrol/), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
 * [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
 * [perf-book](https://github.com/dendibakh/perf-book) - CPU Performance Analysis and Tuning Book
@@ -1902,9 +1895,8 @@ Twitch Stream Tracker
 * [NBFC](https://github.com/hirschmann/nbfc) - Laptop Fan Control
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
 * [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - AMD Processor Power Management
-* [GreenWithEnvy](https://gitlab.com/leinardi/gwe) or [NVIDIA Control Panel](https://rentry.co/gaydia) - Manage / Control NVIDIA Cards
+* [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - Manage / Control NVIDIA Cards
 * [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify / View Hidden NVIDIA Settings / [Guide](https://youtu.be/XncmeD8khKY)
-* [Vantage](https://rentry.co/lenbian) - Lenovo Vantage Without MS Store
 * [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage
 * [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - Easy GPU Paravirtualization
 * [SpeedyFox](https://crystalidea.com/speedyfox) - Optimize Program Performance
@@ -1914,16 +1906,13 @@ Twitch Stream Tracker
 * [AMDDebloat](https://rentry.co/AMDDebloat) or [RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Debloat AMD Drivers
 * [Universal x86 Tuning Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Laptop GPU Controller
 * [AATU](https://amdaputuningutility.com/) or [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Ryzen Laptop GPU Controllers
-* [Nvidia-Patch](https://github.com/keylase/nvidia-patch) - NVENC / NvFBC Patches
 * [GsyncSwitch](https://github.com/kwizatz88/GsyncSwitch) - Switch G-Sync or HDR on/off
-* [Project Hydra](https://www.igorslab.de/en/project-hydra-oc-sandbox-for-zen3-cpus-freeware-download/3/) - ZEN3 CPU Optimization Sandbox
 * [Magic Trace](https://github.com/janestreet/magic-trace) - Diagnose Performance Issues using Intel Processor Trace
 * [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) or [LogDissect](https://github.com/dogoncouch/logdissect/) - Log Analyzation Utility
 * [Windows 11 Fixer](https://github.com/99natmar99/Windows-11-Fixer) - Win 11 Improvement Tool
 * [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Windows 11 ready
 * [Windows 11 Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 System Requirements Bypasser / [Guide](https://github.com/osx86-ijb/bypass-windows11-requirements)
-* [Win11DevBypass](https://github.com/rushiranpise/win11devbypass) - Bypass Win 11 Dev Channel Restrictions
-* [Windows 11 Debloater](https://github.com/teeotsa/windows-11-debloat), [win11SetupScript](https://github.com/fedoz13/win11SetupScript), [debloat-windows11](https://github.com/kdpuvvadi/debloat-windows11), [Win11-Debloat--Guide](https://github.com/TheWorldOfPC/Windows11-Debloat-Privacy-Guide), [BloatyNosy](https://github.com/builtbybel/BloatyNosy), [Debloos](https://github.com/builtbybel/BloatyNosy) or [XToolbox](https://github.com/xemulat/XToolbox) - Windows 11 Debloaters
+* [Windows 11 Debloater](https://github.com/teeotsa/windows-11-debloat), [win11SetupScript](https://github.com/fedoz13/win11SetupScript), [debloat-windows11](https://github.com/kdpuvvadi/debloat-windows11), [BloatyNosy](https://github.com/builtbybel/BloatyNosy), [Debloos](https://github.com/builtbybel/BloatyNosy) or [XToolbox](https://github.com/xemulat/XToolbox) - Windows 11 Debloaters
 
 ***
 
@@ -1932,9 +1921,7 @@ Twitch Stream Tracker
 * ⭐ **[Wallpaper Sites / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Download Wallpapers
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals) 
 * ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9), [Catppuccin](https://github.com/catppuccin) / [Discord](https://discord.gg/r6Mdz5dpFc), [Aura Theme](https://github.com/daltonmenezes/aura-theme) or [theme.park](https://theme-park.dev/) - Custom App Themes
-* [PCDesktops](http://pcdesktops.emuunlim.com/applinks.shtml) - Windows Customization Apps
 * [XDesktopSoft](https://www.xwidget.com/) - Desktop Customization
-* [DesktopMagic](https://github.com/Stone-Red-Code/DesktopMagic) - Desktop Customization
 * [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Community
 * [WindowsCustomization](https://windowscustomization.com/), [WinCustomize](https://www.wincustomize.com/), [Win10 DeviantArt](https://www.deviantart.com/tag/windows10), [WinClassic](https://winclassic.boards.net/) or [7Themes](https://7themes.su/) - Desktop Customization / Themes / Wallpapers etc.
 * [msstyleEditor](https://github.com/nptr/msstyleEditor) or [WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Windows Visual Style Editors
@@ -1950,7 +1937,7 @@ Twitch Stream Tracker
 * [Awesome Ricing](https://github.com/fosslife/awesome-ricing) or [Windows-Ricing](https://github.com/winthemers/wiki) - Windows Ricing Tools
 * [LineStep](http://litestep.net/) - Customize Desktop Interface
 * [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script) - Windows Auto Personalization / Debloating Script
-* [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) or [Luna](https://github.com/adrianmteo/Luna) - Windows 10 Auto Dark Mode
+* [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Windows 10 Auto Dark Mode
 * [OpenRGB](https://openrgb.org/), [SignalRGB](https://www.signalrgb.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/), [FireLight](https://github.com/nicolasdeory/firelight) or [Aurora](https://github.com/antonpup/Aurora) - System Lighting Control / [GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB)
 * [ShaderGlass](https://github.com/mausimus/ShaderGlass) - Custom Screen Shaders
 * [DiscordChroma](https://github.com/DELUUXE/DiscordChroma) or [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Discord System Lighting Control
@@ -2017,7 +2004,6 @@ Twitch Stream Tracker
 * [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - Windows 11 Powertoys
 * [Übersicht](https://tracesof.net/uebersicht/) - System Command Widgets
 * [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Windows API Tricks
-* [cygwin](http://cygwin.com/) or [Gow](https://github.com/bmatzelle/gow/) - Linux Style Windows Tools
 * [NirLauncher](https://launcher.nirsoft.net/) - All Nirsoft Utilities in One App
 * [Awesome Scripts](https://github.com/Py-Contributors/awesomeScripts), [Batch-Script-Collection](https://github.com/happy05dz/Batch-Script-Collection), [BatUtil](https://github.com/abbodi1406/BatUtil) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - Useful System Scripts
 * [bget](https://github.com/jahwi/bget) - Windows Scripts Manager
