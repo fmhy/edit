@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.ibb.co/n3BBFGv/08308080ae6e.png)** - For mobile users
+**[Table of Contents](https://ibb.co/y61Vs3N)** - For mobile users
 
 ***
 *** 
@@ -1750,16 +1750,32 @@ Twitch Stream Tracker
 
 # ► System Tools
 
-* ⭐ **[PC Building / Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)** - Compare Systems and Parts
-* ⭐ **[Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide)**, [Pastas](https://rentry.org/pastas#guides), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/), [SevenForums](https://www.sevenforums.com/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - Windows Guides / Tutorials
 * ⭐ **[Windows Piracy Guides](https://github.com/nbats/FMHYedit/blob/main/base64.md#windows-piracy-guides)** - How-to Pirate Windows
+* ⭐ **[Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide)**, [Pastas](https://rentry.org/pastas#guides), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/), [SevenForums](https://www.sevenforums.com/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - Windows Guides / Tutorials
 * ⭐ **[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - Download Windows
 * ⭐ **[Windows Activators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation)** - Windows Activation Guides / Scripts / [Rentry](https://rentry.co/win-activate)
-* ⭐ **[Windows Keyboard Shortcuts](https://i.ibb.co/yNHRPfm/2147ec86baff.png)**, [2](https://i.ibb.co/XyWn2qc/075be8840d12.png) / [Course](https://keycombiner.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/), [Clavier++](https://gryder.org/software/clavier-plus/) or [CheatKeys](https://cheatkeys.com/CheatSheet) - Keyboard Shortcuts
-* ⭐ **[RDP / VNC Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remote_desktop_clients)** - Control Desktop Remotely
+* ⭐ **[Windows Optimization](https://rentry.co/mdl-optimize-guide)** - Windows Optimization Guide / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat) / [Resources](https://github.com/BoringBoredom/PC-Optimization-Hub)
+* ⭐ **[Windows Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)** - Windows 10 Debloating Tools
+* ⭐ **[System Monitors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_system_monitors)** - Monitor your System / Hardware
 * ⭐ **[Rufus](https://rufus.ie/)**, [AIO Boot](https://www.aioboot.com/), [UUP](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x) / [2](https://uupdump.net/), [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) or [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) - Create Bootable USB Drives
+* ⭐ **[RDP / VNC Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remote_desktop_clients)** - Control Desktop Remotely
 * ⭐ **[AutoHotkey](https://www.autohotkey.com/)**, [MacroRecorder](https://www.macrorecorder.com/), [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install), [sikulix](http://sikulix.com/), [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) or [AutoIt](https://www.autoitscript.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt) - Task Automation Tools
 * ⭐ **AutoHotkey Tools** - [Script Gen](https://www.ahkgen.com/) / [Resources](https://github.com/ahkscript/awesome-AutoHotkey)
+* [r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) / [Discord](https://discord.gg/2EDwzWa), [Windows 10 Forums](https://www.windowsphoneinfo.com/), [MSFN](https://msfn.org/board/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/), [TechSupportForum](https://www.techsupportforum.com/) or [CatandAndrew](https://www.youtube.com/@CatandAndrew) - Tech Support
+* [GetHuman](https://gethuman.com/) or [ContactFound](https://contactfound.com/) - Tech Support Numbers
+* [Ozone3D](https://www.ozone3d.net/index_softwares.php) - System Benchmarking
+* [O&O App Buster](https://www.oo-software.com/en/ooappbuster) or [PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Remove Pre-Installed Microsoft Apps
+* [BleachBit](https://www.bleachbit.org/) or [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - Clean System Memory
+* [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html), [winfetch](https://github.com/lptstr/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tools
+* [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](https://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - Process Monitor
+* [CoreTemp](https://www.alcpu.com/CoreTemp/) - Processor Temperature Monitor
+* [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage
+* [Magic Trace](https://github.com/janestreet/magic-trace) - Diagnose Performance Issues using Intel Processor Trace
+* [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) or [LogDissect](https://github.com/dogoncouch/logdissect/) - Log Analyzation Utility
+* [Windows 11 Fixer](https://github.com/99natmar99/Windows-11-Fixer) - Win 11 Improvement Tool
+* [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Windows 11 ready
+* [Windows 11 Debloater](https://github.com/teeotsa/windows-11-debloat), [win11SetupScript](https://github.com/fedoz13/win11SetupScript), [debloat-windows11](https://github.com/kdpuvvadi/debloat-windows11), [BloatyNosy](https://github.com/builtbybel/BloatyNosy) or [XToolbox](https://github.com/xemulat/XToolbox) - Windows 11 Debloaters
+* [Awesome Windows 11](https://github.com/awesome-windows11/windows11) - Windows 11 Resource Index
 * [Medicat USB](https://medicatusb.com/) - USB Toolkit
 * [GParted](https://gparted.org/), [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
 * [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm) - Format Any Size USB to Fat32
@@ -1789,19 +1805,16 @@ Twitch Stream Tracker
 * [WSUOffline](https://download.wsusoffline.net/) - Offline Windows Updates
 * [WUReset](https://wureset.com/) - Reset Windows Update Components
 * [Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_package_managers) - Install / Update Multiple Programs at Once
+* [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) - BSD Operating Systems
+* [StreamPi](https://stream-pi.com/) or [FreeDeck](https://github.com/FreeYourStream/freedeck-hardware) - ElGato Streamdeck Alternative
+* [Pinn](https://github.com/procount/pinn) - Rasberry Pi OS Installer
+* [Raspberry Pi 4 Bootloader USB Mass Storage Boot Guide](https://jamesachambers.com/new-raspberry-pi-4-bootloader-usb-network-boot-guide/) - How-to Boot Raspberry Pi from USB
+* [Awesome Raspberry Pi](https://rpi.thibmaek.com/) - Rasberry Pi Resources / [GitHub](https://github.com/thibmaek/awesome-raspberry-pi)
 * [Revertservice](http://revertservice.com/) - Default Windows Services Config 
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - Enable Windows Insider without Account
-* [r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) / [Discord](https://discord.gg/2EDwzWa), [Windows 10 Forums](https://www.windowsphoneinfo.com/), [MSFN](https://msfn.org/board/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/), [TechSupportForum](https://www.techsupportforum.com/) or [CatandAndrew](https://www.youtube.com/@CatandAndrew) - Tech Support
-* [GetHuman](https://gethuman.com/) or [ContactFound](https://contactfound.com/) - Tech Support Numbers
+* [How-To Make Microsoft Activation Server](https://mananapr.github.io/microsoft_activation.html) 
 * [Windows Repair Toolbox](https://windows-repair-toolbox.com/) - Windows Multi-Tool App
 * [SmartWindows](https://smartwindows.app/) - Create / Restore Windows Profiles
-* [NVCleanInstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) or [NVSlimmer](https://www.majorgeeks.com/files/details/nvslimmer.html) - NVIDIA Driver Packages / [Install Guide](https://rentry.co/NVCleanInstall)
-* [Amernime Zone](https://amernimezone.com/) - 3rd Party AMD Drivers
-* [Vintage3D](https://vintage3d.org/driver.php) - First Gen 3D Drivers
-* [SnappyDrivers](https://www.snappy-driver-installer.org/) - Update / Install Missing Drivers
-* [Drivers Collection](https://driverscollection.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Device Drivers / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Display Driver Removal Tool / [GitHub](https://github.com/Wagnard/display-drivers-uninstaller)
-* [NotMyFault](https://learn.microsoft.com/en-us/sysinternals/downloads/notmyfault) - Driver & Hardware Problem Identification Tool
 * [All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) or [Redists](https://chse.dev/redists) - Install All Redist Files (direct x, visual c++ etc.)
 * [VCRedist](https://github.com/abbodi1406/vcredist) - AIO Repack for Microsoft Visual C++ Redists
 * [DLL Downloader](https://www.dlldownloader.com/), [dll-hub](https://dll-hub.com/), [dlldump](https://dlldump.com/), [dllfile](https://dllfile.net/), [dll4free](https://dll4free.com/), [dllme](https://dllme.com/dll/files/steam_api32_dll.html) or [DLL-Files](https://www.dll-files.com/) - Windows DLL Files
@@ -1815,103 +1828,89 @@ Twitch Stream Tracker
 * [UptimeFaker](https://github.com/CookiePLMonster/UptimeFaker) - System Uptime Debugger
 * [JitMagic](https://github.com/mrexodia/JitMagic) - Run Multiple Just-In-Time Debuggers
 * [Awesome Forensics](https://github.com/cugu/awesome-forensics) - System Forensic Tools
-* [OpenBoardData](https://github.com/inflex/OpenBoardData) - Board Repair Data
 * [Boot Failure Troubleshooting Chart](https://i.ibb.co/d2GSKf7/624c64629e27.png) - Boot Failure Troubleshooting Guide
-* [CenterOfMyScreen](https://centerofmyscreen.com/) - Find Center of Monitor
-* [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test
-* [JScreenFix](https://www.jscreenfix.com/) - Repair Stuck Pixels
-* [DisplayFusion](https://www.displayfusion.com/) or [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - Dual Monitor Tools
-* [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - Show Desktop For Only One Monitor
 * [Autoruns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) - Change Startup Programs
 * [Startup Delayer](https://www.r2.com.au/page/products/show/startup-delayer/) - Delay Automatic App Startups
 * [Remove Hidden Startup Programs](https://www.youtube.com/watch?v=sUXcMaP6wRQ) - How-to Remove Secret Startup Apps
+* [SpeedyFox](https://crystalidea.com/speedyfox) - Optimize Program Performance
+* [CCStopper](https://github.com/eaaasun/CCStopper) - Stop Background Adobe Apps
+* [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Debloat Adobe Apps
 * [SuperF4](https://stefansundin.github.io/superf4/), [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
 * [GhostBuster](https://bitbucket.org/wvd-vegt/ghostbuster/src/master/) or [Device Cleanup Tool](https://www.majorgeeks.com/files/details/device_cleanup_tool.html) - Remove Non-Present Devices
 * [Dependencies](https://github.com/lucasg/Dependencies) - View Application Dependencies 
-* [Deskreen](https://deskreen.com/) or [SpaceDesk](https://www.spacedesk.net/) - Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen)
 * [mRemoteNG](https://mremoteng.org/) - Remote Connections Manager 
 * [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](http://www.keyefficiency.com/) - System Task Scheduler
+* [Econap](https://www.econap.de/) - Prevent Sleep Mode
+* [WinMute](https://github.com/lx-s/WinMute/) - Automatically Mute PC
+* [OpenHab](https://www.openhab.org/) - Home Automation / [Setup](https://github.com/openhab/openhabian) / [Desktop](https://github.com/openhab/openhab-windows) / [Mobile](https://github.com/openhab/openhab-android)
+* [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client), [Mycroft](https://mycroft.ai/) or [Home Assistant](https://www.home-assistant.io/) - Home Assistant Client / [GUI](https://github.com/LAB02-Research/HASS.Agent)
+* [CasaOS](https://casaos.io/) - Cloud Home System / [GitHub](https://github.com/IceWhaleTech/CasaOS)
+* [Leon](https://getleon.ai/) - AI Assistant
+* [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) or [Sepia](https://sepia-framework.github.io/) - Voice Assistant
+* [Jarvis](https://acwtechnologies.co.uk/software/jarvis-lite) - Voice Commands
+
+***
+
+## ▷ Hardware
+
+* ⭐ **[PC Building / Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)** - Compare Systems and Parts
+* ⭐ **[Gaming Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_optimization_tools)** - Gaming Optimization Tools
+* ⭐ **[GreenWithEnvy](https://gitlab.com/leinardi/gwe)** - Manage / Control NVIDIA Cards
+* ⭐ **[NVCleanInstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)** or [NVSlimmer](https://www.majorgeeks.com/files/details/nvslimmer.html) - NVIDIA Driver Packages / [Install Guide](https://rentry.co/NVCleanInstall)
+* ⭐ **[DisplayFusion](https://www.displayfusion.com/)** or [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - Dual Monitor Tools
+* ⭐ **[PSU Calculator](https://www.newegg.com/tools/power-supply-calculator/)** or [Power Supply Calculator](https://outervision.com/power-supply-calculator) - Find Compatible Power Supplies
+* ⭐ **[Windows Keyboard Shortcuts](https://i.ibb.co/yNHRPfm/2147ec86baff.png)**, [2](https://i.ibb.co/XyWn2qc/075be8840d12.png) / [Course](https://keycombiner.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/), [Clavier++](https://gryder.org/software/clavier-plus/) or [CheatKeys](https://cheatkeys.com/CheatSheet) - Keyboard Shortcuts
+* [DeviceTests](https://devicetests.com/) - Multiple Device Tests
+* [CoolerControl](https://gitlab.com/coolercontrol/coolercontrol) - Cooling Device Monitor
 * [DreyMaR's](https://dreymar.colemak.org/) - Keyboard Tips and Resources
 * [Keyboard University](https://keyboard.university/) or [KDB](http://xahlee.info/kbd/keyboarding.html) - Mechanical Keyboard Building Guides
 * [NeatMouse](https://neatdecisions.com/products/neatmouse/) - Mouse / Keyboard Emulator
+* [Keyboard Testers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_keyboard_testers) - Test Keyboard Buttons
 * [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design & Test Virtual Keyboards
 * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Re-Map Mouse Buttons / Scroll Wheel
 * [SharpKeys](https://github.com/randyrants/sharpkeys/), [Ergogen](https://ergogen.xyz/) or [Persistence](https://github.com/NtQuerySystemInformation/CustomKeyboardLayoutPersistence) - Custom Keyboard Layouts
 * [Mouseable](https://github.com/wirekang/mouseable) - Replace Mouse with Keyboard
-* [Econap](https://www.econap.de/) - Prevent Sleep Mode
+* [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
 * [MoveMouse](https://sites.google.com/a/windandkite.co.uk/movemouse/home) or [MouseJiggler](https://github.com/arkane-systems/mousejiggler)  - Simulate User Activity 
 * [The Fastest Mouse Clicker for Windows](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows), [Alpha Clicker](https://github.com/robiot/AlphaClicker) or [AutoClicker Bookmarklet](https://autoclicker.glitch.me/) - Mouse Auto Clicker
-* [WinMute](https://github.com/lx-s/WinMute/) - Automatically Mute PC
-* [All Black Screen](https://allblackscreen.com/) - Make Screen Black
-* [NVDA](https://www.nvaccess.org/download/) - Screen Reader for Blind Users / [Github](https://github.com/nvaccess/nvda)
-* [How-To Make Microsoft Activation Server](https://mananapr.github.io/microsoft_activation.html) 
-* [Leon](https://getleon.ai/) - AI Assistant
-* [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) or [Sepia](https://sepia-framework.github.io/) - Voice Assistant
-* [Jarvis](https://acwtechnologies.co.uk/software/jarvis-lite) - Voice Commands
-* [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client), [Mycroft](https://mycroft.ai/) or [Home Assistant](https://www.home-assistant.io/) - Home Assistant Client / [GUI](https://github.com/LAB02-Research/HASS.Agent)
-* [CasaOS](https://casaos.io/) - Cloud Home System / [GitHub](https://github.com/IceWhaleTech/CasaOS)
-* [OpenHab](https://www.openhab.org/) - Home Automation / [Setup](https://github.com/openhab/openhabian) / [Desktop](https://github.com/openhab/openhab-windows) / [Mobile](https://github.com/openhab/openhab-android)
-* [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd) - BSD Operating Systems
-* [StreamPi](https://stream-pi.com/) or [FreeDeck](https://github.com/FreeYourStream/freedeck-hardware) - ElGato Streamdeck Alternative
-* [Pinn](https://github.com/procount/pinn) - Rasberry Pi OS Installer
-* [Raspberry Pi 4 Bootloader USB Mass Storage Boot Guide](https://jamesachambers.com/new-raspberry-pi-4-bootloader-usb-network-boot-guide/) - How-to Boot Raspberry Pi from USB
-* [Awesome Raspberry Pi](https://rpi.thibmaek.com/) - Rasberry Pi Resources / [GitHub](https://github.com/thibmaek/awesome-raspberry-pi)
-* [Awesome Windows 11](https://github.com/awesome-windows11/windows11) - Windows 11 Resource Index
-* [DIY Laptop](https://www.olimex.com/Products/DIY-Laptop/) - Build a Laptop
-
-***
-
-## ▷ Optimization
-
-* ⭐ **[Windows Optimization](https://rentry.co/mdl-optimize-guide)** - Windows Optimization Guide / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat) / [Resources](https://github.com/BoringBoredom/PC-Optimization-Hub)
-* ⭐ **[Gaming Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_optimization_tools)** - Gaming Optimization Tools
-* ⭐ **[Windows Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)** - Windows 10 Debloating Tools
-* ⭐ **[Disk Usage Analyzers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_disk_usage_analyzers)** - View / Manage Files on Disk
-* ⭐ **[System Monitors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_system_monitors)** - Monitor your System / Hardware
-* [O&O App Buster](https://www.oo-software.com/en/ooappbuster) or [PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Remove Pre-Installed Microsoft Apps
-* [BleachBit](https://www.bleachbit.org/) or [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - Clean System Memory
-* [DeviceTests](https://devicetests.com/) - Multiple Device Tests
+* [Amernime Zone](https://amernimezone.com/) - 3rd Party AMD Drivers
+* [Vintage3D](https://vintage3d.org/driver.php) - First Gen 3D Drivers
+* [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify / View Hidden NVIDIA Settings / [Guide](https://youtu.be/XncmeD8khKY)
+* [NVIDIAOptimize](https://rentry.co/NVIDIAOptimize) - Debloat NVIDIA Drivers
+* [AMDDebloat](https://rentry.co/AMDDebloat) or [RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Debloat AMD Drivers
+* [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - AMD Processor Power Management
+* [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking
+* [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - Easy GPU Paravirtualization
+* [GsyncSwitch](https://github.com/kwizatz88/GsyncSwitch) - Switch G-Sync or HDR on/off
+* [SnappyDrivers](https://www.snappy-driver-installer.org/) - Update / Install Missing Drivers
+* [Drivers Collection](https://driverscollection.com/) or [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Device Drivers / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - Display Driver Removal Tool / [GitHub](https://github.com/Wagnard/display-drivers-uninstaller)
+* [NotMyFault](https://learn.microsoft.com/en-us/sysinternals/downloads/notmyfault) - Driver & Hardware Problem Identification Tool
 * [EIZO](https://www.eizo.be/monitor-test/), [Monitor](https://www.monitortests.com/) or [LCDTech](https://lcdtech.info/en/tests/) - Monitor Performance Tests
 * [TestUFO](https://www.testufo.com/) - Monitor Framerate Test
 * [LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Test
 * [ICM](https://rentry.co/ICM) or [ICC Profiles](https://tftcentral.co.uk/articles/icc_profiles) - ICC Profiles and Monitor Calibration
-* [PSU Calculator](https://www.newegg.com/tools/power-supply-calculator/) or [Power Supply Calculator](https://outervision.com/power-supply-calculator) - Find Compatible Power Supplies
-* [Keyboard Testers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_keyboard_testers) - Test Keyboard Buttons
+* [All Black Screen](https://allblackscreen.com/) - Make Screen Black
+* [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - Dead Pixel Test
+* [JScreenFix](https://www.jscreenfix.com/) - Repair Stuck Pixels
+* [CenterOfMyScreen](https://centerofmyscreen.com/) - Find Center of Monitor
+* [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - Show Desktop For Only One Monitor
+* [Deskreen](https://deskreen.com/) or [SpaceDesk](https://www.spacedesk.net/) - Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen)
+* [NVDA](https://www.nvaccess.org/download/) - Screen Reader for Blind Users / [Github](https://github.com/nvaccess/nvda)
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
 * [PC Manger](https://pcmanager-en.microsoft.com/), [Parted Magic](https://github.com/nbats/FMHYedit/blob/main/base64.md#parted-magic) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Manager / Cleanup
 * [Scrutiny](https://github.com/AnalogJ/scrutiny), [GSmartControl](https://gsmartcontrol.shaduri.dev/) or [smartmontools](https://www.smartmontools.org/) - Hard Drive Monitors
-* [Ozone3D](https://www.ozone3d.net/index_softwares.php) - System Benchmarking
 * [GoldMemory](https://www.goldmemory.cz/) or [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
 * [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
 * [NotCPUCores](https://github.com/rcmaehl/NotCPUCores), [ParkControl](https://bitsum.com/parkcontrol/), [QuickCPU](https://coderbag.com/product/quickcpu) or [Process Lasso](https://bitsum.com/) - CPU Optimizer
-* [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
 * [perf-book](https://github.com/dendibakh/perf-book) - CPU Performance Analysis and Tuning Book
-* [PresentMon](https://github.com/GameTechDev/PresentMon) - GPU Benchmarking
-* [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html), [winfetch](https://github.com/lptstr/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tools
-* [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](https://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - Process Monitor
-* [CoreTemp](https://www.alcpu.com/CoreTemp/) - Processor Temperature Monitor
-* [CoolerControl](https://gitlab.com/coolercontrol/coolercontrol) - Cooling Device Monitor
-* [FanControl](https://github.com/Rem0o/FanControl.Releases) - Fan Control
-* [NBFC](https://github.com/hirschmann/nbfc) - Laptop Fan Control
-* [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
-* [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - AMD Processor Power Management
-* [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - Manage / Control NVIDIA Cards
-* [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - Modify / View Hidden NVIDIA Settings / [Guide](https://youtu.be/XncmeD8khKY)
-* [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage
-* [Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - Easy GPU Paravirtualization
-* [SpeedyFox](https://crystalidea.com/speedyfox) - Optimize Program Performance
-* [CCStopper](https://github.com/eaaasun/CCStopper) - Stop Background Adobe Apps
-* [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - Debloat Adobe Apps
-* [NVIDIAOptimize](https://rentry.co/NVIDIAOptimize) - Debloat NVIDIA Drivers
-* [AMDDebloat](https://rentry.co/AMDDebloat) or [RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Debloat AMD Drivers
+* [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - Laptop CPU Monitor / Optimizer
 * [Universal x86 Tuning Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Laptop GPU Controller
 * [AATU](https://amdaputuningutility.com/) or [RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Ryzen Laptop GPU Controllers
-* [GsyncSwitch](https://github.com/kwizatz88/GsyncSwitch) - Switch G-Sync or HDR on/off
-* [Magic Trace](https://github.com/janestreet/magic-trace) - Diagnose Performance Issues using Intel Processor Trace
-* [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) or [LogDissect](https://github.com/dogoncouch/logdissect/) - Log Analyzation Utility
-* [Windows 11 Fixer](https://github.com/99natmar99/Windows-11-Fixer) - Win 11 Improvement Tool
-* [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Windows 11 ready
-* [Windows 11 Debloater](https://github.com/teeotsa/windows-11-debloat), [win11SetupScript](https://github.com/fedoz13/win11SetupScript), [debloat-windows11](https://github.com/kdpuvvadi/debloat-windows11), [BloatyNosy](https://github.com/builtbybel/BloatyNosy) or [XToolbox](https://github.com/xemulat/XToolbox) - Windows 11 Debloaters
+* [FanControl](https://github.com/Rem0o/FanControl.Releases) - Fan Control
+* [NBFC](https://github.com/hirschmann/nbfc) - Laptop Fan Control
+* [DIY Laptop](https://www.olimex.com/Products/DIY-Laptop/) - Build a Laptop
+* [OpenBoardData](https://github.com/inflex/OpenBoardData) - Board Repair Data
 
 ***
 
@@ -2072,6 +2071,7 @@ Twitch Stream Tracker
 
 ## ▷ File Tools
 
+* ⭐ **[Disk Usage Analyzers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_disk_usage_analyzers)** - View / Manage Files on Disk
 * ⭐ **[File Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_download_managers)**, **[2](https://en.wikipedia.org/wiki/Comparison_of_download_managers)** - Programs to Help Manage Downloads
 * ⭐ **[File Hosting / Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)** - Share, Store and Sync Files
 * ⭐ **[LocalSend](https://localsend.org/)** / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png), [Warpinator](https://github.com/linuxmint/warpinator), [QRServ](https://github.com/uintdev/qrserv) or [MyPhoneExplorer](https://www.fjsoft.at/) - Sync Files Between Phone / Desktop
