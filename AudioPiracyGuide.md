@@ -60,6 +60,7 @@
 * [Mixupload](https://mixupload.com/) - Browser Music
 * [DMO](https://dance-music.org/) - Electronic
 * [Mixing.dj](https://mixing.dj/) - DJ Mixes
+* [VIP VGM](https://www.vipvgm.net/) - Video Game Music
 * [OldSkoolMP3](https://oldskoolmp3.com/OldSkool/) - Oldschool Electronic
 * [Vapor Archive](https://vaporarchive.neocities.org/) - Vaporwave
 * [hypem](https://hypem.com/popular) - Rising
