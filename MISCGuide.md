@@ -485,7 +485,7 @@
 # ► Travel
 
 * ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)**, [CountryReports](https://www.countryreports.org/) or [TravelTips](https://www.traveltip.org/world_maps.php) - Travel Guides
-* ⭐ **[JourneyPlan](https://journeyplan.com)** or [TripNotes](https://tripnotes.ai/) - Trip Planning AIs
+* ⭐ **[JourneyPlan](https://journeyplan.co)** or [TripNotes](https://tripnotes.ai/) - Trip Planning AIs
 * ⭐ **[Borderless](https://borderless.safetywing.com/)** - Travel Restrictions Guide
 * ⭐ **[MapChecking](https://www.mapchecking.com/)** - Crowd Size Estimation
 * [Gas Price Map](https://www.gasbuddy.com/gaspricemap) - US Gas Prices
