@@ -60,7 +60,6 @@
 * [Mixupload](https://mixupload.com/) - Browser Music
 * [DMO](https://dance-music.org/) - Electronic
 * [Mixing.dj](https://mixing.dj/) - DJ Mixes
-* [VIP VGM](https://www.vipvgm.net/) - Video Game Music
 * [OldSkoolMP3](https://oldskoolmp3.com/OldSkool/) - Oldschool Electronic
 * [Vapor Archive](https://vaporarchive.neocities.org/) - Vaporwave
 * [hypem](https://hypem.com/popular) - Rising
@@ -73,7 +72,7 @@
 * [Audius](https://audius.co/) - User Made Music Platform
 * [AudionautiX](https://audionautix.com/) - Mood Based Streaming
 * [mood.gg](https://mood.gg/) - League of Legends Character Based Playlists
-* [Khinsider](https://downloads.khinsider.com/), [retro.sx](https://retro.sx/), [Cirrus Retro](https://cirrusretro.com/) or [Zophar's](https://www.zophar.net/music) - Video Game Soundtracks
+* [Khinsider](https://downloads.khinsider.com/), [retro.sx](https://retro.sx/), [VIP VGM](https://www.vipvgm.net/), [Cirrus Retro](https://cirrusretro.com/) or [Zophar's](https://www.zophar.net/music) - Video Game Soundtracks
 * [NSF j](http://nsf.nesbbs.com/) - NES Game Music
 * [Exotica](https://www.exotica.org.uk/) - Retro Gaming Music Wiki
 * [MusicDex](https://musicdex.org/) - Anime Soundtracks / [Discord](https://discord.gg/yCXJkbdCHt)
