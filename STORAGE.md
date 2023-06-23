@@ -1178,7 +1178,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Image Upscalers
 
-[Waifu2x](https://github.com/nagadomi/waifu2x), [Upscayl](https://github.com/upscayl/upscayl), [GigaPixel](https://github.com/nbats/FMHYedit/blob/main/base64.md#gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [TechblogUP](https://techblogup.com/tools/ai-image-resize/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [Upscaler Stockphotos](https://upscaler.stockphotos.com/), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/), [Upscale Media](https://www.upscale.media/), [Zyro Upscaler](https://zyro.com/tools/image-upscaler), [Nicescaler](https://jangystudio.itch.io/nicescaler), [DFDNet](https://github.com/csxmli2016/DFDNet), [Nero AI](https://ai.nero.com/image-upscaler), [SDUpscale](https://rentry.org/sdupscale), [JPEG Quantsmooth](https://github.com/ilyakurdyukov/jpeg-quantsmooth), [imgupscaler](https://imgupscaler.com/), [chaiNNer](https://github.com/chaiNNer-org/chaiNNer), [torch-srgan](https://deepai.org/machine-learning-model/torch-srgan), [ultimate-upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111)
+* ⭐ **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)**
+
+[Waifu2x](https://github.com/nagadomi/waifu2x), [Upscayl](https://github.com/upscayl/upscayl), [GigaPixel](https://github.com/nbats/FMHYedit/blob/main/base64.md#gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [TechblogUP](https://techblogup.com/tools/ai-image-resize/), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [Upscaler Stockphotos](https://upscaler.stockphotos.com/), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/), [Upscale Media](https://www.upscale.media/), [Zyro Upscaler](https://zyro.com/tools/image-upscaler), [Nicescaler](https://jangystudio.itch.io/nicescaler), [DFDNet](https://github.com/csxmli2016/DFDNet), [Nero AI](https://ai.nero.com/image-upscaler), [SDUpscale](https://rentry.org/sdupscale), [JPEG Quantsmooth](https://github.com/ilyakurdyukov/jpeg-quantsmooth), [imgupscaler](https://imgupscaler.com/), [torch-srgan](https://deepai.org/machine-learning-model/torch-srgan), [ultimate-upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111)
 
 **Waifu2x Tools**
 
@@ -1192,7 +1194,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Image to Text
 
-⭐ **[Capture2Text](https://capture2text.sourceforge.net/)**
+* ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)**
 
 [Text Grab](https://github.com/TheJoeFin/Text-Grab), [TextShot](https://github.com/ianzhao05/textshot), [OnlineOCR](https://onlineocr.org/), [IMG2TXT](https://img2txt.com/), [NewOCR](https://www.newocr.com/), [OCR.SPACE](https://ocr.space/), [Project Naptha](https://projectnaptha.com/), [Extract text from image](https://brandfolder.com/workbench/extract-text-from-image), [2ocr](https://2ocr.com/), [free-online-ocr](http://www.free-online-ocr.com/), [i2ocr](https://www.i2ocr.com/), [ImageToText](https://www.imagetotext.info/), [OnlineOCR](https://www.onlineocr.net/), [pomodoro](https://pomodoro.semlab.io/), [ImageScanOCR](https://github.com/ttop32/ImageScanOCR)
 
@@ -1200,8 +1202,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Image Viewers
 
-⭐ **[IrfanView](https://www.irfanview.com/)**
-⭐ **[JPEGView](https://github.com/sylikc/jpegview)**
+* ⭐ **[IrfanView](https://www.irfanview.com/)**
+* ⭐ **[JPEGView](https://github.com/sylikc/jpegview)**
 
 [qimgv](https://github.com/easymodo/qimgv), [nomacs](https://nomacs.org/), [ImageGlass](https://imageglass.org/), [PhotoQt](https://github.com/luspi/photoqt), [PicView](https://github.com/Ruben2776/PicView), [Image Eye](https://www.fmjsoft.com/imageeye.html), [qView](https://interversehq.com/qview/), [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/) / [Git](https://github.com/ModuleArt/quick-picture-viewer), [Fragment](https://www.fragmentapp.info/), [qView](https://github.com/jurplel/qView), [HoneyView](https://en.bandisoft.com/honeyview/), [Visum](https://apps.microsoft.com/store/detail/visum-photo-viewer/9N1X3Z50BLM8)
 
@@ -1485,7 +1487,8 @@ Add the following commands to a search to manually scrape each site.
 
 #### Mind Mapping
 
-⭐ **[Logseq](https://logseq.com/)**
+* ⭐ **[Logseq](https://logseq.com/)**
+* ⭐ **[canvas](https://obsidian.md/canvas)**
 
 [MindMup](https://www.mindmup.com/), [FreeMind](https://freemind.sourceforge.net/), [Kinopio](https://kinopio.club/), [Mindomo](https://www.mindomo.com/), [Yuque](https://www.yuque.com/), [MindMapp](https://mindmapp.cedoor.dev/app), [are.na](https://www.are.na/), [Domino](https://kool.tools/domino), [GitMind](https://gitmind.com/), [xTiles](https://xtiles.app/en), [Capacities](https://capacities.io/), [bubbl](https://bubbl.us/), [Heimer](https://github.com/juzzlin/Heimer), [Cubox](https://cubox.cc/)
 
