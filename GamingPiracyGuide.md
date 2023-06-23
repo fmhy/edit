@@ -208,7 +208,6 @@
 * [HappyROMs](https://happyroms.com/) - Emulators / ROMs
 * [DownloadArea81](https://www.downarea51.com/) - Emulators / ROMs
 * [ROMs Planet](https://romsplanet.com/) - Emulators / ROMs
-* [CoolROMs](https://coolrom.com.au/) - Emulators / ROMs 
 * [RPGOnly](https://rpgonly.com) - ROMs
 * [RomToHome](https://romtohome.com/) - ROMs
 * [Sundby](https://github.com/nbats/FMHYedit/blob/main/base64.md#sundby) - ROMs
