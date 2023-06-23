@@ -207,7 +207,7 @@
 * [nativefier_tauri](https://github.com/hamza72x/web2app) - Turn Webpages into Desktop Apps
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
-* [FSLint](http://www.pixelbeat.org/fslint/) or [FCClones](https://github.com/pkolaczk/fclones) - Duplicate File Finder
+* [FSLint](http://www.pixelbeat.org/fslint/) or [fclones](https://github.com/pkolaczk/fclones) - Duplicate File Finder
 * [CoreELEC](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) - Kodi-Based Operating System
 * [Asus-Linux](https://asus-linux.org/) - Linux ASUS Notebook Guide
 * [Breathing](https://github.com/SeaDve/Breathing) - Relaxation / Breathing Tool
