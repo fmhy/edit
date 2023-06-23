@@ -412,13 +412,15 @@
 # ► Image Tools
 
 * ⭐ **[Multi-Tool Image Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_image_tool_sites)** - Multiple Image Tools
+* ⭐ **[Image to Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_to_text)** - Extract Text from Images
+* ⭐ **[Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes)** - Color Scheme / Palette Tools / [Guide](https://i.ibb.co/cCRn3y1/5eb0a8de7dac.jpg)
+* ⭐ **[Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers)** - Extract Color from Pictures / Webpages
+* ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)** or [VisiPics](http://www.visipics.info/) - Duplicate Image Removers
 * [Awesome Colab nNotebooks]( https://github.com/amrzv/awesome-colab-notebooks) - Image Colab Tools
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
 * [GlanceBack](https://glanceback.info/) - Daily Webcam Photo Journal
 * [DataFilm](http://datafilm.io/) - Notebook for Film Photographers
-* [Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes) - Color Scheme / Palette Tools / [Guide](https://i.ibb.co/cCRn3y1/5eb0a8de7dac.jpg)
-* [Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers) - Extract Color from Pictures / Webpages
 * [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - Image Color Summarizer
 * [ImgOps](https://imgops.com/) - Image Operations Meta-Tool
 * [FontAwesomePS](http://creativedo.co/FontAwesomePS) - Photoshop Icon Manager
@@ -428,11 +430,9 @@
 * [resdet](https://github.com/0x09/resdet) - Detect if an Image is Upscaled
 * [detectron2](https://github.com/facebookresearch/detectron2) - Object / Human Detection
 * [lbpcascade animeface](https://github.com/nagadomi/lbpcascade_animeface) - Detect Anime Faces
-* [VisiPics](http://www.visipics.info/) - Duplicate Photo Remover 
 * [behind!](https://github.com/kubuzetto/behind) - View Background Images
 * [Visual Center](https://javier.xyz/visual-center/) - Find the Visual Center of an Image
 * [Lithophane](https://3dp.rocks/lithophane) - Image to Lithophane Converter
-* [Image to Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_to_text) - Extract Text from Images
 * [Handwriting-OCR](https://github.com/Breta01/handwriting-ocr) - Handwriting Image to Text
 * [Image-to-Image](https://affinelayer.com/pixsrv/) - Interactive Image Translation
 * [WhatTheFont](https://www.myfonts.com/) - Find Font from Image
