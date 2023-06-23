@@ -411,9 +411,10 @@
 * [polsy.org.uk](http://polsy.org.uk/) - Alt Players for Video Sites  
 * [Tyle](https://tyle.io/) or [Phideo](https://www.phideo.co.uk/) - Photo Slideshow Video Maker
 * [Rollideo](https://rollideo.com/) - Text to Speech / Subtitles
-* [Video2x](https://github.com/k4yt3x/video2x/) / [Github](https://github.com/k4yt3x/video2x) - Video Upscaler
+* [Video2x](https://github.com/k4yt3x/video2x/) / [Github](https://github.com/k4yt3x/video2x) or [Enhancr](https://github.com/mafiosnik777/enhancr) - Video Upscalers
 * [Anime4K](https://github.com/bloc97/Anime4K) - Anime Video Upscaler 
-* [Video Vault](https://www.bravenewtech.org/) or [mmhmm](https://www.mmhmm.app/) - Video Preservation Tool 
+* [Video Vault](https://www.bravenewtech.org/) or [mmhmm](https://www.mmhmm.app/) - Video Preservation Tool
+* [VideoColorizerColab](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb) - Video Colorization Colab
 * [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Duplicate Video Finder
 * [WebcamTests](https://webcamtests.com/) - Test your Webcam
 * [VideoMail](https://www.videomail.io/) - Webcam to Email Tool
@@ -707,6 +708,7 @@
 * [Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms) - Project Management Tools
 * [Airtable](https://www.airtable.com/) or [API Table](https://apitable.com/) / [GitHub](https://github.com/apitable/apitable) - Build Collaborative Apps
 * [PolyWork](https://www.polywork.com/) - Collaboration Search
+* [Cody](https://meetcody.ai/) - Company Management AI
 * [PHPCRM](https://www.phpcrm.com/) - Company Management Software
 * [SplitBee](https://splitbee.io/) - Business Analytics Tool
 * [Invoicely](https://invoiceto.me/), [InvoiceNinja](https://invoiceninja.com/), [Akaunting](https://akaunting.com/) - Invoicing Tools
@@ -1195,7 +1197,8 @@
 * [ScrollDrop](https://scrolldrop.com/) - Reddit Media Crawler
 * [rrip](https://github.com/mahesh-hegde/rrip) - Reddit Bulk Image Downloader
 * [ScrollDit](http://www.scrolldit.com/) - Alt Reddit View
-* [3D for Reddit](https://3dforreddit.com/) - 3D Reddit Browser 
+* [3D for Reddit](https://3dforreddit.com/) - 3D Reddit Browser
+* [GmailKit](https://github.com/niturobert/gmailkit) - Gmail Style Viewer
 * [MSOutlookit](https://pcottle.github.io/MSOutlookit/) or [Routlookit](https://routlookit.com/) - Outlook Style Viewer
 * [CodeReddit](http://codereddit.com/) - Code Style Viewer
 * [RDDDeck](https://rdddeck.com/) - Twitter Style Viewer 
@@ -1362,7 +1365,7 @@
 * [Discord Testers](https://discord.gg/discord-testers) - Test Discord Features
 * [Guild Counter](https://rauf.wtf/guildcount) - Check how many servers you're in
 * [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - Preview Role Colors Role
-* [Stolen Shoes](https://stolen.shoes/) - Embed Videos on Discord
+* [Stolen Shoes](https://stolen.shoes/) or [Discord Embedder](https://discord.nfp.is/) - Embed Videos on Discord
 * [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - Encode videos to <8MB
 * [Discord Together](https://github.com/RemyK888/discord-together) - Video Stream Sync / Watch Parties
 * [DiskCord](https://github.com/5ut/DiskCord) - Host Files on External Sites to share via Discord
@@ -1633,6 +1636,7 @@ Twitch Stream Tracker
 * [Thread Reader App](https://threadreaderapp.com/) - Unroll Twitter Threads / Search
 * [React Statis Tweets](https://github.com/transitive-bullshit/react-static-tweets) - Static Tweets Renderer
 * [Treeverse](https://treeverse.app/) - Twitter Conversation Visualizer
+* [NoBlueTick](https://play.google.com/store/apps/details?id=com.indegy.nobluetick&hl=en&gl=US) - Avoid Read Receipts / Blue Tick
 * [Trends Map](https://www.trendsmap.com/) or [Twitter Trends](https://twitter-trends.vercel.app/) - Trending Twitter Hashtags / Topics
 * [Twitter Linker](https://twitterlinker.vercel.app/) or [Twitter Images](https://twitter-images.vercel.app/) - Generate Twitter Card for Your 
 * [Relink](https://www.relink.page/) - Fix Twitter Link Images
@@ -1642,7 +1646,7 @@ Twitch Stream Tracker
 * [Twitter Bookmark Archiver](https://twitter-bookmark-archiver.glitch.me/) - Download Twitter Bookmarks
 * [TwikTwok](https://twiktwok.github.io/) - Swipe Through Twitter Videos
 * [Klear](https://klear.com/free-tools/find-twitter-influencers) - Find Influencers 
-* [Twiangulate](https://twiangulate.com/search/) - Compare Twitter User Followers 
+* [Twiangulate](https://twiangulate.com/search/) - Compare Twitter User Followers
 * [FollowerWonk](https://followerwonk.com/) - Find, Analyze & Optimize Followers
 * [Foller](https://foller.me/) - Twitter Profile Analytics
 * [TagGPT](https://tagsgpt.com/) - Hashtag Generator
@@ -2035,8 +2039,9 @@ Twitch Stream Tracker
 * [Taskbar Tweaker](https://ramensoftware.com/7-taskbar-tweaker) - Taskbar Advanced Features
 * [EverythingToolbar](https://github.com/srwi/EverythingToolbar), [Hyper](https://github.com/hyperts/Hyper), [uTaskManager](https://www.microsoft.com/en-us/p/utaskmanager/9nhvdhfbxrsv), [yasb](https://github.com/denBot/yasb), [Awesome](https://github.com/nodgear/Awesome) or [Smart Taskbar](https://github.com/ChanpleCai/SmartTaskbar) - Alt Taskbars
 * [Taskbar Groups](https://github.com/tjackenpacken/taskbar-groups) - Create Groups in Taskbar
-* [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [Context Menu Shell](https://nilesoft.org/) - Improved Context Menu
+* [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [Context Menu Shell](https://nilesoft.org/) - Improved Context Menus
 * [OpenWith++](https://github.com/stax76/OpenWithPlusPlus) or [Custom Context Menu](https://www.microsoft.com/store/productId/9PC7BZZ28G0X) - Customize Context Menu
+* [RCWM](https://github.com/GChuf/RCWM) - Context Menu Tools
 * [Taskbar Numberer](https://ramensoftware.com/7-taskbar-numberer) - Open App via Numbered Voice Commands
 * [OGHub](https://github.com/Wivon/OGHub) - Free Up Space in your Taskbar
 * [ButteryTaskbar](https://github.com/CrypticButter/ButteryTaskbar/) - Hide Taskbar When Start Menu is Closed
