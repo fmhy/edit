@@ -938,7 +938,6 @@ Simulator
 * [SciGen](https://pdos.csail.mit.edu/archive/scigen/) - CS Paper Generator
 * [pdfparanoia](https://github.com/kanzure/pdfparanoia) - Academic Paper Watermark Removal
 * [FireBird Help](https://discord.gg/Hqk3Sa4FmZ) or [HeroGenerator](https://t.me/HeroGeneratorPure)
-- Coursehero Document Generators
 * [The Chomsky Index](https://github.com/jasons-gh/the-chomsky-index) - Noam Chomsky Content Index Tool
 * [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project
 * [P2PU](https://www.p2pu.org/) - Join Learning Groups Using Free Courses
