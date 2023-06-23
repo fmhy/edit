@@ -27,7 +27,7 @@
 * ⭐ **[Adblock Defenders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_adblock_defenders)** - Prevent Sites from Detecting Adblockers / [Test Defenders](https://blockads.fivefilters.org/), [2](https://www.detectadblock.com/)
 * ⭐ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers)** - Block Twitch Ads
 * ⭐ **[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** - Bypass Redirects / [Skip Timers](https://greasyfork.org/en/scripts/372673) / [Additional Bypass](https://greasyfork.org/en/scripts/443888)
-* ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
+* ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** or [Butter](https://butter.sonnet.io/) - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[Popup Blockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - Block Malicious Popups / Tabs
 * ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)**, [Demodal](https://addons.mozilla.org/firefox/addon/demodal), [f ck overlays](https://chrome.google.com/webstore/detail/fck-overlays/ppedokobpbdajgiejhnjfbdjlgobcpkp/related) or [Behind The Overlay Revival](https://addons.mozilla.org/en-US/firefox/addon/behind-the-overlay-revival/) - Hide Website Overlays 
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Play Videos in Ad-Free Player
@@ -55,7 +55,7 @@
 * ⭐ **[ControlD](https://controld.com/)**, [DNS Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/), [ChrisPC DNS Switch](https://www.majorgeeks.com/files/details/chrispc_dns_switch.html) or [Hetzner](https://www.hetzner.com/dns-console?country=us) - DNS Managers / Switchers
 * ⭐ **[serverless-dns](https://github.com/serverless-dns/serverless-dns)** - Serverless DNS
 * ⭐ **[Warp](https://1.1.1.1/)** or [DNS Resolver Privacy-First](http://doh.tiar.app/) - DNS Resolvers
-* ⭐ **Warp Tools** - [Unlimited Data](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED), [2](https://github.com/nxvvvv/warp-plus) / [Free Plus](https://redd.it/zalgyb) / [Warp Warning](https://rentry.co/warpwarning)
+* ⭐ **Warp Tools** - [Unlimited Data](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED), [2](https://github.com/nxvvvv/warp-plus) / [Free Plus](https://redd.it/zalgyb) / [Script](https://github.com/fscarmen/warp) / [Warp Warning](https://rentry.co/warpwarning)
 * [Adguard DNS](https://adguard-dns.io/) - DNS Adblocking
 * [Pi-Hole](https://pi-hole.net/) - DNS Adblocking / Self-Hosted
 * Pi-Hole Tools - [Install Script](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filter](https://firebog.net/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine) / [Antitelemetry](https://github.com/MoralCode/pihole-antitelemetry)
