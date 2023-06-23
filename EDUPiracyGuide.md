@@ -820,6 +820,7 @@ Simulator
 * [Explorabl.es](https://explorabl.es/), [MinuteLabs](https://minutelabs.io/), [Wikiversity](https://www.wikiversity.org/) or [Learnamic](https://www.learnamic.com/) - Learning Resources, Guides, Quizzes, Tools & More
 * [MyAssignmentHelp](https://myassignmenthelp.com/free-tools.php) - Academic Tools
 * [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - Touch Typing Tutorial
+* [Typing Finger Positions](https://i.ibb.co/L8VY6xR/Finger-position-on-a-keyboard.png) - Typing Finger Position Cheatsheet
 * [Spreeder](https://www.spreeder.com/) - Learn to Read Faster
 * [Refseek](https://www.refseek.com/), [Occamm](https://www.occamm.com/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
 * [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - Learn With GIFs
