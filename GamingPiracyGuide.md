@@ -1105,11 +1105,12 @@
 * [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - Unlock Genshin Impact FPS Cap
 * [Optimize Dying Light 2](https://rentry.co/opto-dl2) - DL2 Optimization Mods
 * [RoSeal](https://www.roseal.live/) - Roblox Enhancement Extension
-* [Roblox Performance](https://rentry.co/roblox-performance) or [Mr. Goose](https://docs.google.com/document/d/1_XH3IMpaCtoKR1U38Zh08kbJr-WwptsxHSza-G7UKGU/) - Roblox Optimization Guides
-* [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) - Roblox Bootstrapper
-* [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap
+* [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) - Roblox Player Bootstrapper
+* [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
+* [Roblox Performance](https://rentry.co/roblox-player-studio-performance), [he3als](https://blog.he3als.xyz/roblox-optimisation-guide.html) or [Mr. Goose](https://docs.google.com/document/d/1_XH3IMpaCtoKR1U38Zh08kbJr-WwptsxHSza-G7UKGU/) - Roblox Optimization Guides
+* [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap / [Note](https://pastebin.com/rB4BEf5b)
 * [RE4HD](https://www.re4hd.com/) - Resident Evil 4 HD Mod
-* [ChimeraOS ](https://chimeraos.org/) - Gaming Focused OS / [Discord](https://discord.gg/fKsUbrt)
+* [ChimeraOS](https://chimeraos.org/) - Gaming Focused OS / [Discord](https://discord.gg/fKsUbrt)
 
 ***
 
