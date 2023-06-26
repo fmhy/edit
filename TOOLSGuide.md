@@ -649,6 +649,7 @@
 * [Toby Tools](https://rentry.co/qnu6x) - Job Search Tools
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
 * [80,000 Hours](https://80000hours.org/) - Explore Career Options
+* [Real Work From Anywhere](https://realworkfromanywhere.com/) - The only job board for fully work-from-anywhere (globally remote) jobs
 * [Summer 2023 Internships](https://github.com/pittcsc/Summer2023-Internships) - List of Internships
 * [SkillIcons](https://skillicons.dev/) - Skill Badges for GitHub Readmes / Resumes
 * [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
@@ -669,7 +670,6 @@
 * [WhoPaysWriters](http://whopayswriters.com/) - Freelance Writing Publications
 * [moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - Company / Startup Applications
 * [Nerdy Grads](https://nerdygrads.com/) - Grad School Research Job Search
-* [Real Work From Anywhere](https://realworkfromanywhere.com/) - The only job board for fully work-from-anywhere (globally remote) jobs.
 * [WFH Companies India](https://github.com/abhagsain/WFH-Companies-India) - Work from Home Job Offerings in India
 * [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - Online Working Subreddit
 * [/r/freelance](https://www.reddit.com/r/freelance/) - Freelance Subreddit
