@@ -954,7 +954,6 @@
 * [AppStore](https://t.me/iOSAppsFree) - Tweaked Apps
 * [AltStore](https://altstore.io/) or [SideStore](https://github.com/SideStore/SideStore) - App Store / [Repo View](https://altsource.by.lao.sb/browse/) / [Alt Daeomon](https://repo.dynastic.co/package/altdaemon) / [Alt Server](https://github.com/NyaMisty/AltServer-Linux)
 * [ioshaven](https://ioshaven.com/apps) - App Store 
-* [Signulous](https://www.signulous.com/) - App Store / Sideloading
 * [Repo Updates](https://www.ios-repo-updates.com/) - App Repository Updates
 * [paxcex](https://paxcex.github.io/) - App Repository
 * [CydiaGeek](https://cydiageek.yourepo.com/) - App Repository
