@@ -24,6 +24,7 @@
 * ⭐ **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbots Index
 * [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Chatbot
 * [Leon](https://getleon.ai/) - AI Assistant
+* [OpenAI-bot](https://openai-bot.com) - AI Assistants
 * [Pros 'n Cons](https://pros-cons.io/) - Decision Making AI
 * [AnimaAI](https://myanima.ai/) - Virtual Companion
 * [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) or [Awesome-GPT4](https://gpt4.tools/) or  - ChatGPT Resources
@@ -84,7 +85,7 @@
 * [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
 * [ChatBlade](https://github.com/npiv/chatblade) - ChatGPT CLI
 * [engshell](https://github.com/emcf/engshell) or [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT in TUIs
-* [YakGPT](https://yakgpt.vercel.app/), [BetterGPT](https://bettergpt.chat/) or [TurboGPT.ai](https://turbogpt.ai/) - ChatGPT WebUIs
+* [jsmsj](https://github.com/jsmsj/GPT4), [YakGPT](https://yakgpt.vercel.app/), [BetterGPT](https://bettergpt.chat/) or [TurboGPT.ai](https://turbogpt.ai/) - ChatGPT WebUIs
 * [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [PyGPT](https://pygpt.net/), [GPTChat](https://github.com/ian-kent/gptchat), [TurboGPT](https://github.com/mikebpech/turbogpt.ai) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
 * [Unriddle](https://www.unriddle.ai/) - Document Summary AI
 * [docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT Google Docs Addon
@@ -259,7 +260,7 @@
 * [Uranus AI](https://uranus.ai/) - AI Image Generator
 * [Artificy](https://artificy.com/) - AI Image Generator
 * [Dream Studio](https://beta.dreamstudio.ai/dream) - AI Image Generator
-* [Dream.a](https://dream.ai/) - AI Image Generator
+* [Dream.ai](https://dream.ai/) - AI Image Generator
 * [DreamLike](https://dreamlike.art) - AI Image Generator
 * [hypnogram](https://hypnogram.xyz/) - AI Image Generator
 * [InstantArt](https://instantart.io/) - AI Image Generator
@@ -269,10 +270,12 @@
 * [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent) - AI Image Generator
 * [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - AI Image Generator
 * [Diffuse The Rest](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest) - AI Image Generator
+* [Pollinations](https://pollinations.ai/) - AI Image Generator
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Gligen](https://huggingface.co/spaces/gligen/demo) - Open-Set Grounded Text-to-Image Generation
 * [AI Notebooks](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - AI Image Generation Colab
 * [NOP / WAS](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17) - AI Image Generation Colab
+* [Shap-e](https://github.com/openai/shap-e) - 3D Image Generator
 * [AI Gahaku](https://ai-art.tokyo/en/), [Paint by Numbers](https://paint-by-number.com/pages/create-your-own-paint-by-number), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/) or [InstaPainting](https://www.instapainting.com/assets/) - Turn Photos into Artwork
 * [Pet AI](https://petai.art/) - Turn Pet Photos into Artwork
 * [Nightmare Machine](http://nightmare.mit.edu/) - Scary AI Generated Imagery
@@ -284,7 +287,7 @@
 ## ▷ Stable Diffusion
 
 * ⭐ **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** - AI Image Generator / [Github](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
-* ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - Self-Host / [Fork](https://github.com/vladmandic/automatic), [2](https://github.com/anapnoe/stable-diffusion-webui-ux)
+* ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - Self-Host / [Fork](https://github.com/vladmandic/automatic), [2](https://github.com/anapnoe/stable-diffusion-webui-ux) / [Infinite Zoom](https://github.com/v8hid/infinite-zoom-automatic1111-webui)
 * ⭐ **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** - Self-Host / [Discord](https://discord.com/invite/ZmtBAhwWhy)
 * ⭐ **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** - Self-Host
 * ⭐ **[PlaygroundAI](https://playgroundai.com/)** - Online
