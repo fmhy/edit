@@ -646,7 +646,6 @@
 * [AskEdith](https://www.askedith.ai/demo) - Ask AI Job / Business Questions
 * [LoopCV](https://www.loopcv.pro/) - Automated Job Search Tool
 * [Toby Tools](https://rentry.co/qnu6x) - Job Search Tools
-* [Real Work From Anywhere](https://realworkfromanywhere.com/) - The only job board for fully global remote jobs
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
 * [80,000 Hours](https://80000hours.org/) - Explore Career Options
 * [Summer 2023 Internships](https://github.com/pittcsc/Summer2023-Internships) - List of Internships
@@ -661,7 +660,7 @@
 * [Interviews.school](https://interviews.school/) or [InterviewThis](https://github.com/Twipped/InterviewThis) - Developer Interview Preparation Guides
 * [yangshun](https://github.com/yangshun/tech-interview-handbook) - Tech Interview Handbook
 * [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
-* [Nomad List](https://nomadlist.com/) - Remote Job Listings
+* [Nomad List](https://nomadlist.com/) or [Real Work From Anywhere](https://realworkfromanywhere.com/) - Remote Job Listings
 * [RemoteWide](https://remotewide.co/) - Remote Job Notifications
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - Remote Job Resources
 * [Side Hustle Stack](https://sidehustlestack.co/) - Find Platform Based Side Work
