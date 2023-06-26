@@ -1339,3 +1339,9 @@ pass: paluch
 #### Display Duet
 
 `aHR0cHM6Ly9zZWFyY2guc3RhcmZpbGVzLmNvLyMvP3E9RHVldF9EaXNwbGF5`
+
+***
+
+#### Charles Activate
+
+`aHR0cHM6Ly93d3cuenp6bW9kZS5jb20vbXl0b29scy9jaGFybGVzLw==`
