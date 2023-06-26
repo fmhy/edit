@@ -454,7 +454,7 @@
 * ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Record / Convert Audio / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ffmpeg_tools)
 * ⭐ **[Equalizer APO](https://equalizerapo.com/)**, **[AutoEq](https://github.com/jaakkopasanen/AutoEq)**, [PeaceEqualizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) or [SonyHeadphonesClient](https://github.com/Plutoberth/SonyHeadphonesClient) - Audio Equalizers
 * ⭐ **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - Audio Visualization Resource Index 
-* ⭐ **[Determine Audio File Quality](https://redd.it/3l0yxp)**, [Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](https://spek.cc/), [DFT](https://webfft.net/dft/) or [Spectro](http://spectro.enpts.com/) - Determine Quality of Audio Files / Spectograms
+* ⭐ **[Fakin' The Funk?](https://fakinthefunk.net/)**, [Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](https://spek.cc/), [DFT](https://webfft.net/dft/) or [Spectro](http://spectro.enpts.com/) - Determine Audio Quality / Spectograms / [Guide](https://redd.it/3l0yxp)
 * ⭐ **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)** - Audio Compression Examples
 * ⭐ **[Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification)** - Identify Playing Songs
 * [Scarbir](https://www.scarbir.com/) or [Crinacle](https://crinacle.com/) - Headset & Earphone Comparisons
@@ -978,6 +978,7 @@
 * [NightFox](https://github.com/snthcy/nightfox) - Firefox Mac Theme
 * [FirefoxGX](https://github.com/Godiesc/firefox-gx) - Firefox Opera Theme
 * [Firefox UWP Style](https://github.com/Guerra24/Firefox-UWP-Style) - Firefox UWP Theme
+* [What Train is it Now?](https://whattrainisitnow.com/) - Firefox Desktop Trains
 * [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme
 * [BrowserParrot](https://www.browserparrot.com/) - Browser History Search Engine
 * [Hurl](https://github.com/U-C-S/Hurl) - Select Browser on URL Clicks
