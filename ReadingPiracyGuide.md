@@ -807,6 +807,8 @@
 * ⭐ **[ComicExtra](https://www.comicextra.com/)** or [Comic Online Free](https://comiconlinefree.net/)
 * ⭐ **[XOXO Comics](https://xoxocomics.com/)** / [2](https://xoxocomics.net)
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
+* ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Comics
+* ⭐ **[xkcd](https://xkcd.com/)** or [findxkcd](https://xkcd-search.typesense.org/) - xkcd Comics / [Explanations](https://www.explainxkcd.com/wiki/index.php/Main_Page)
 * [View Comics](https://viewcomics.co/)
 * [Read Comics Online](https://readcomicsonline.ru/)
 * [Comix-Load](https://comix-load.in/) - Downloads
@@ -830,14 +832,12 @@
 * [GoComics](https://www.gocomics.com/) - Comics Strips
 * [Comics Kingdom](https://comicskingdom.com/) - Comics Strips
 * [Zahard](https://zahard.xyz/) - WebToons / [Telegram](https://t.me/fast_pass)
-* [Random Comic Generator 3.0](https://explosm.net/rcg) - Explosm Random Comic Generator
 * [RichieRichcomicsfanclub](https://richierichcomicsfanclub.wordpress.com/) - Richie Rich Comics
 * [PenLab](https://penlab.ink/) - Filipino Comics
 * [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - Tor required
 * [ComicEater](https://github.com/kanjieater/ComicEater) - Comic Archiving Tools
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comics-DL](https://github.com/The-Eye-Team/Comics-DL), [Comic-DL](https://github.com/Xonshiz/comic-dl), [comicMaker](https://github.com/gunjannandy/comicMaker) or [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md) - Comic Downloaders
 * [Tapastic Comic Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - Tapas Comics Downloader
-*  [xkcd](https://xkcd.com/) or [findxkcd](https://xkcd-search.typesense.org/) - Browse xkcd Comics
 * [Cover](http://www.frenchfrysoftware.com/cover/), [Komikku](https://gitlab.com/valos/Komikku), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Readers / Managers
 * [Free Dark Horse Digital Comics](https://digital.darkhorse.com/pages/free) / [Downloader](https://github.com/GrowAsguard/Dark-Horse-Comics-Converter)
 * [ComicFury](https://comicfury.com/) or [StripCreator](http://www.stripcreator.com/) - User-Made Comics
