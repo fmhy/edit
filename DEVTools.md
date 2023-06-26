@@ -452,7 +452,7 @@
 * [SerPreview](https://serpreviewtool.com/) - Site Search Results Preview
 * [Schema Markup Testing Tools](https://developers.google.com/search/docs/appearance/structured-data) - Test Sites Google Results
 * [Robots.txt Tester](https://support.google.com/webmasters/answer/6062598?hl=en) - Test Your robots.txt
-* [Charles 3](https://www.charlesproxy.com/download/previous-release/) or [ProxyMan](https://proxyman.io/) - Web Debugging Proxy Apps
+* [Charles 3](https://www.charlesproxy.com/download/previous-release/) / [Activation](https://github.com/fmhy/FMHYedit/blob/main/base64.md#charles-activate) or [ProxyMan](https://proxyman.io/) - Web Debugging Proxy Apps
 * [CORS Proxy](https://corsproxy.github.io/) - Free CORS Proxy
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
 * [Octopus](https://octopus.do/sitemap) - Site Planning Tool
