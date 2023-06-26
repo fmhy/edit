@@ -1333,3 +1333,9 @@ pass: paluch
 #### Malwarebytes Premium
 
 `aHR0cHM6Ly9yZW50cnkuY28vbWFsd2FyZS1wcmVt`
+
+***
+
+#### Display Duet
+
+`aHR0cHM6Ly9zZWFyY2guc3RhcmZpbGVzLmNvLyMvP3E9RHVldF9EaXNwbGF5`
