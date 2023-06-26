@@ -377,7 +377,7 @@
 
 ## ▷ Cartoon Streaming
 
-* ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcofun.com/) - Anime / Cartoons
+* ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcofun.com/), [3](https://www.wcostream.org/) - Anime / Cartoons
 * ⭐ **[KimCartoon](https://kimcartoon.li/)**
 * ⭐ **[KissCartoon](https://kisscartoon.help/)**
 * [TopCartoons](https://www.topcartoons.tv/)
