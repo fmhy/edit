@@ -233,6 +233,7 @@
 * [MobileSpectrum](https://mobilespectrum.org/) - Mobile Network Spectrum by Country
 * [chatgpt-android](https://github.com/skydoves/chatgpt-android) or [ChatGPT-android-app](https://github.com/matthaigh27/ChatGPT-android-app) - ChatGPT for Android
 * [Floom](https://floom.withgoogle.com/) - Explore Earth
+* [StreetComplete](https://streetcomplete.app/) - OpenStreetMap Surveyor App
 * [MAPS.ME](https://maps.me/) / [GitHub](https://github.com/mapsme/omim) or [OsmAnd](https://osmand.net/) - Offline Maps
 * [EVMap](https://github.com/ev-map/EVMap) - Electronic Vehicle Charging Map
 * [EVNotify](https://evnotify.com/) - Electric Vehicle Monitor / Notifications
