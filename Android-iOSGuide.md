@@ -993,6 +993,7 @@
 * [Serenity Notes](https://www.serenity.re/en/notes) - Collaborative Notes
 * [Papertag](https://www.papertag.app/) - Attach Digital Content on Paper
 * [Decisions](https://github.com/markusfisch/Libra) - Decision Making App
+* [Duet Display](https://github.com/fmhy/FMHYedit/blob/main/base64.md#display-duet) - Use iPad as Monitor
 * [BatteryBuddy](https://github.com/Traurige/BatteryBuddy) - Cute Battery Life Indicator
 * [Powercuff](https://rpetri.ch/cydia/powercuff/) - Throttle iOS to Increase Battery Life
 * [CocaoTop](https://github.com/D0m0/CocoaTop) - iOS Process Viewer
@@ -1002,8 +1003,7 @@
 * [Fantastical](https://apps.apple.com/app/fantastical-2-for-iphone/id718043190?ls=1) - Calendar / Tasks App
 * [NoMoreSmallApps](https://www.sparkdev.me/package/com.spark.nomoresmallapps) - Force App Full Screen / [Discord](https://discord.com/invite/tvvJfbD)
 * [Sigma](https://apps.apple.com/us/app/sigma-your-feeds-united/id1594702352) - Combine Social Media Apps
-* [InsightBrowser](https://insightbrowser.com/) - Browser
-* [Asobi](https://github.com/bdashore3/Asobi) - Browser
+* [InsightBrowser](https://insightbrowser.com/) or [Asobi](https://github.com/bdashore3/Asobi) - Browsers
 * [Gear4](https://gear4.app/) - Browser
 * [Kagi](https://apps.apple.com/us/app/kagi/id1484498200) or [Orion](https://testflight.apple.com/join/DeC8ZDnu) - Browser w/ Firefox & Chrome Extension Support
 * [iRetro](https://apps.apple.com/us/app/iretro-the-internet-browser/id1015692776) - Browser w/ Wayback Machine
