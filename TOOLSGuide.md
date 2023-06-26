@@ -385,21 +385,22 @@
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - CGI Assets
 * [Lumen5](https://lumen5.com/) or [VideoCreek](https://videocreek.com/) - Video Template Editor
 * [Beatflyer](https://beatflyer.com/) - Video Flyer Generator
-* [MKVToolNix](https://mkvtoolnix.download/) - MKV Editing Tools 
-* [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/) - MKVExtract GUI 
-* [MKV-Optimizer](https://www.videohelp.com/software/MKV-Optimizer) - Remove Audio Tracks from MKV Files 
-* [MakeMKV](https://www.makemkv.com/) - Create MKV From Blu-Ray / DVD 
+* [MKVToolNix](https://mkvtoolnix.download/) - MKV Editing Tools
+* [MKVCleaver](https://blogs.sapib.ca/apps/mkvcleaver/) - MKVExtract GUI
+* [MKV-Optimizer](https://www.videohelp.com/software/MKV-Optimizer) - Remove Audio Tracks from MKV Files
+* [MakeMKV](https://www.makemkv.com/) - Create MKV From Blu-Ray / DVD
 * [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
 * [VidCoder](https://vidcoder.net/) or [DVDDecrypter](http://dvddecrypter.org.uk/) - DVD / Blu-Ray Ripping
 * [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-Ray Ripping
-* [DVDFab](https://www.dvdfab.cn/free.htm) - Free DVD Related Programs 
+* [DVDFab](https://www.dvdfab.cn/free.htm) - Free DVD Related Programs
+* [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder
 * [h265ize](https://github.com/FallingSnow/h265ize) - HEVC Encoder / [Enhanced](https://github.com/alextrv/enhanced-h264ify) 
 * [hdr10plus_tool](https://github.com/quietvoid/hdr10plus_tool) - HDR10+ CLI Utility
 * [Monzoom](https://www.monzoom.com/) - Video Assets
 * [MovieTools](https://movietools.info/) - Video Backgrounds
-* [Unscreen](https://www.unscreen.com/) or [Remove Video Background](https://socialbook.io/remove-video-background) - Remove Video Background 
+* [Unscreen](https://www.unscreen.com/) or [Remove Video Background](https://socialbook.io/remove-video-background) - Remove Video Background
 * [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - Steam Movie-Making Tool
-* [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5) 
+* [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5)
 * [Plyr](https://plyr.io/) - Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
 * [zeroTube](http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb) - Decentralized Video Platform on ZeroNet using WebTorrent + [GitHub](https://github.com/rllola/zeroTube/)
 * [PiP-Tool](https://github.com/LionelJouin/PiP-Tool) - Use Picture-in-Picture on All Videos
@@ -660,7 +661,7 @@
 * [Interviews.school](https://interviews.school/) or [InterviewThis](https://github.com/Twipped/InterviewThis) - Developer Interview Preparation Guides
 * [yangshun](https://github.com/yangshun/tech-interview-handbook) - Tech Interview Handbook
 * [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
-* [Nomad List](https://nomadlist.com/) or [Real Work From Anywhere](https://realworkfromanywhere.com/) - Remote Job Listings
+* [Nomad List](https://nomadlist.com/) - Remote Job Listings
 * [RemoteWide](https://remotewide.co/) - Remote Job Notifications
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - Remote Job Resources
 * [Side Hustle Stack](https://sidehustlestack.co/) - Find Platform Based Side Work
@@ -668,12 +669,13 @@
 * [WhoPaysWriters](http://whopayswriters.com/) - Freelance Writing Publications
 * [moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - Company / Startup Applications
 * [Nerdy Grads](https://nerdygrads.com/) - Grad School Research Job Search
-* [MTurk](https://www.mturk.com/) - Online Task Work
-* [/r/BeerMoney](https://www.reddit.com/r/beermoney/) - Online Money Making Community
+* [Real Work From Anywhere](https://realworkfromanywhere.com/) - Online Job Listings
 * [WFH Companies India](https://github.com/abhagsain/WFH-Companies-India) - Work from Home Job Offerings in India
 * [/r/WorkOnline](https://www.reddit.com/r/WorkOnline/) - Online Working Subreddit
 * [/r/freelance](https://www.reddit.com/r/freelance/) - Freelance Subreddit
 * [/r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Design Job Subreddit
+* [MTurk](https://www.mturk.com/) - Online Task Work
+* [/r/BeerMoney](https://www.reddit.com/r/beermoney/) - Online Money Making Community
 * [/r/careerguidance](https://www.reddit.com/r/careerguidance/) - Career Guidance Subreddit
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / Stem Career Study Guides
 * [ReallyConfused](https://reallyconfused.co/) or [WTF should I do with my life?](https://www.wtfshouldidowithmylife.com/) - Career Roadmaps
