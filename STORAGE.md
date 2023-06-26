@@ -1549,7 +1549,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[UltimMC](https://github.com/UltimMC/Launcher)**
 * ⭐ **[SkLauncher](https://skmedix.pl/)**
 * ⭐ **[ATLauncher](https://atlauncher.com/)** / [Crack](https://github.com/Domaman202/ATLauncher-Crack)
-* ⭐ **[PrismLauncher](https://prismlauncher.org/)** / [GitHub](https://github.com/PrismLauncher/PrismLauncher) / [Offline Account](https://rentry.co/Prism4Free)
+* ⭐ **[PrismLauncher](https://prismlauncher.org/)** / [GitHub](https://github.com/PrismLauncher/PrismLauncher) / [Offline Patch](https://git.sr.ht/~reggie/prismlauncher-offline), [2](https://rentry.co/Prism4Free)
 
 [MultiMC](https://multimc.org/), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/),, [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [Feather Client](https://feathermc.com/) / [Discord](https://discord.com/invite/feather), [GDLauncher](https://gdlauncher.com/), [X Minecraft Launcher](https://xmcl.app/)
 
@@ -1597,8 +1597,8 @@ Add the following commands to a search to manually scrape each site.
 
 **Sites / Programs**
 
-* ⭐ **[9xbuddy](https://9xbuddy.xyz/)**, [2](https://9xbuddy.com/)
 * ⭐ **[cobalt](https://co.wukko.me/)**
+* ⭐ **[9xbuddy](https://9xbuddy.xyz/)**, [2](https://9xbuddy.com/)
 * ⭐ **[Lux](https://github.com/iawia002/lux)**
 
 [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader), [ytDownloader](https://ytdn.netlify.app/), [savieo](https://savieo.com/), [TubeOffline](https://www.tubeoffline.com/), [clipconverter](https://www.clipconverter.cc/2/), [clipgrab](https://clipgrab.org/), [4kdownload](https://www.4kdownload.com/), [bitdownloader](https://bitdownloader.io/), [you-get](https://you-get.org/), [catchvideo](https://catchvideo.net/), [Catch-Tube](https://catch.tube/), [SaveVideo.me](https://savevideo.me/), [LocoDownloader](https://locoloader.com/), [Yout](https://yout.com/), [Keepv.id](https://keepv.id/), [downloader-ui](https://github.com/Mqlhaha/downloader-ui), [Vividl](https://sourceforge.net/projects/vividl/), [ddownloader](https://ddownloader.com/), [pastedownload](https://pastedownload.com/), [weibomiaopai](https://weibomiaopai.com/download-video-parser.php), [gramvio](https://www.gramvio.com/), [tubeninja](https://www.tubeninja.net/), [savethevideo](https://www.savethevideo.com/), [dodoconverter](https://dodoconverter.com/), [zasasa](http://www.zasasa.com/), [ByClickDownloader](https://www.byclickdownloader.com/), [Lux](https://github.com/iawia002/lux), [superparse](https://superparse.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler), [GrabFrom](https://www.grabfrom.com/), [very.ninja](https://very.ninja/), [videograbber](https://www.videograbber.net/), [godownloader](https://godownloader.com/), [dobd](https://www.dobd.xyz/)
@@ -2792,7 +2792,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Telegram File Tools
 
-* ⭐ **[DrFileStreamBot](https://t.me/DrFileStreamBot)**, [UploadBots](https://t.me/UploadBots), [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot), [Uploadgram](https://uploadgram.me/) / [Bot](https://t.me/uploadgrammebot), [LinkToFileTGBot](https://t.me/LinkToFileTGBot), [eliteflix](https://t.me/eliteflix_file_to_link_bot), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [UploadURL](https://t.me/UploadsRobot), [easy_share_bot](https://t.me/easy_share_bot), [JMDKH Mirror](https://t.me/joinchat/VNLumNnovC45YTg1), [ArchiveTGFilezBot](https://t.me/ArchiveTGFilezBot), [UploadBot](https://t.me/uploadbot) or [UploadDxbot](https://t.me/UploadDxbot) - Upload Files to Telegram
+* ⭐ **[DrFileStreamBot](https://t.me/DrFileStreamBot)**, [tg-upload](https://github.com/TheCaduceus/tg-upload), [UploadBots](https://t.me/UploadBots), [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot), [Uploadgram](https://uploadgram.me/) / [Bot](https://t.me/uploadgrammebot), [LinkToFileTGBot](https://t.me/LinkToFileTGBot), [eliteflix](https://t.me/eliteflix_file_to_link_bot), [TelegramCloud](https://github.com/iw4p/telegram-cloud), [UploadURL](https://t.me/UploadsRobot), [easy_share_bot](https://t.me/easy_share_bot), [JMDKH Mirror](https://t.me/joinchat/VNLumNnovC45YTg1), [ArchiveTGFilezBot](https://t.me/ArchiveTGFilezBot), [UploadBot](https://t.me/uploadbot) or [UploadDxbot](https://t.me/UploadDxbot) - Upload Files to Telegram
 * [GdriveXbot](https://t.me/GdriveXbot), [google-drive-telegram-bot](https://github.com/viperadnan-git/), [HK_upload_bot](https://t.me/HK_driveupload_bot), [gdrive_upload_bot](https://t.me/gdrive_upload_bot), [Python Aria Mirror Bot](https://github.com/lzzy12/python-aria-mirror-bot), [driveuploadbot](https://t.me/driveuploadbot) or [gdriveupme_bot](https://t.me/gdriveupme_bot) - Google Drive Telegram upload bots
 * [DrClonerBot](https://t.me/DrClonerBot) - GDrive Clone Bot
 * [Google Drive Bot](https://t.me/Gdriveit_bot) - Google Drive Client in Telegram
@@ -3155,7 +3155,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Kosmi](https://kosmi.io/)** (videos, games, music, and other apps)
 * ⭐ **[neko](https://neko.m1k1o.net/)** / [GitHub](https://github.com/m1k1o/neko) (Self-Hosted)
 
-[Giggl](https://giggl.app/), [HyperBeam](https://hyperbeam.com/), [Trast](https://trast.live/), [bear.cat](https://bear.cat/), [Metastream](https://getmetastream.com/), [Caracal Club](https://caracal.club/)
+[Giggl](https://giggl.app/), [HyperBeam](https://hyperbeam.com/) / [VIP](https://greasyfork.org/en/scripts/457795), [Trast](https://trast.live/), [bear.cat](https://bear.cat/), [Metastream](https://getmetastream.com/), [Caracal Club](https://caracal.club/)
 
 ***
 
