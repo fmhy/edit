@@ -649,7 +649,7 @@
 * [Toby Tools](https://rentry.co/qnu6x) - Job Search Tools
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
 * [80,000 Hours](https://80000hours.org/) - Explore Career Options
-* [Real Work From Anywhere](https://realworkfromanywhere.com/) - The only job board for fully work-from-anywhere (globally remote) jobs
+* [Real Work From Anywhere](https://realworkfromanywhere.com/) - Global "Work-From-Anywhere" Job Board
 * [Summer 2023 Internships](https://github.com/pittcsc/Summer2023-Internships) - List of Internships
 * [SkillIcons](https://skillicons.dev/) - Skill Badges for GitHub Readmes / Resumes
 * [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
