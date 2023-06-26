@@ -367,13 +367,15 @@
 
 ## ▷ 3D Models
 
-* [3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_models) - 3D Model Download Sites
+* ⭐ **[3D Modeling Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_modeling_apps)** - Free 3D Modeling Apps 
+* ⭐ **[3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_models)** - 3D Model Download Sites
+* ⭐ **[Thingiverse](https://www.thingiverse.com/)**, [Yeggi](https://www.yeggi.com/) or [YouImagine](https://www.youmagine.com/) - 3D Printer Models
+* ⭐ **[Shap-e](https://github.com/openai/shap-e)** - 3D Model Generator
 * [Anaglyph Maker](https://www.stereoeye.jp/software/index_e.html) - Make 3D Images
 * [Vectary](https://www.vectary.com/) - Online 3D Image Editor
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
 * [3DThis](https://3dthis.com/) - 3D Animation Tools 
 * [PaintUp](http://technohippy.github.io/teddyjs/) - Make 2D Art Into 3D
-* [Thingiverse](https://www.thingiverse.com/), [Yeggi](https://www.yeggi.com/) or [YouImagine](https://www.youmagine.com/) - 3D Printer Models 
 * [MyMiniFactory](https://www.myminifactory.com/) - Mini 3D Printer Models
 * [Embossify](https://www.embossify.com/) - Turn Images into 3D Printer Models
 * [3DBrute](https://3dbrute.com/), [3DZip](https://3dzip.org/) or [DesignConnected](https://www.designconnected.com/) - 3D Furniture Models
@@ -382,7 +384,6 @@
 * [Vertex](https://vertex.im/) - 3D Icons
 * [Keygen](https://keygen.co/) - 3D Key Model Generator
 * [Generated Photos](https://generated.photos/) - AI Generated Model Photos
-* [3D Modeling Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_modeling_apps) - Free 3D Modeling Apps 
 * [Bloom3D](https://bloom3d.com/) or [Zdog](https://zzz.dog/) - Online 3D Modeling Tools
 * [AliceVision](https://alicevision.org/) - 3D Reconstruction / Camera Tracking
 * [Figurosity](https://figurosity.com/) - Human 3D Models
