@@ -66,7 +66,8 @@
 * Avast - Known for selling user data
 * AVG - Owned by Avast
 * CCleaner - Owned by Avast, best to use built in win 11 tool or bleachbit
-* Private Internet Access / ExpressVPN / ZenMate / CyberGhost - Owned by [kape](https://restoreprivacy.com/kape-technologies-owns-expressvpn-cyberghost-pia-zenmate-vpn-review-sites/)
+* Private Internet Access - Owned by [malware distributor Kape](https://redd.it/q3lepv)
+* ExpressVPN / ZenMate / CyberGhost - Owned by [Kape](https://rentry.co/i8dwr)
 * Acord (discord mod) - Has remote eval backdoor
 * BlueKik / Bluecord (chat mods) - History of [spam](https://redd.it/12h2v6n) / [spying](https://rentry.co/tvrnw)
 * Kik (messanger) - App used by mostly [predators / scammers](https://youtu.be/9sPaJxRmIPc)
