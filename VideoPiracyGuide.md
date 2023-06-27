@@ -127,7 +127,7 @@
 * [KissMovies](https://kissmovies.pro/) - Movies / TV
 * [PogoLinks](https://pogolinks.pics/) - Movies / TV / Anime
 * [TamilRockerMovies](https://www.tamilrockermovies.cf/search/label/Hollywood) - Movies
-* [ConTV](https://www.contv.com/browse-movie/146/free/) - Movies
+* [ConTV](https://www.contv.com/) - Movies
 * [VidCloud](https://membed1.com/) - Movies / TV
 * [Rainierland](https://rainierland.to/) - Movies / TV
 * [Afdah](https://afdah2.com/) - Movies
