@@ -282,7 +282,8 @@
 * **Note** - Use **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** to skip annoying link shorteners.
 * ⭐ **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [CSE 3](https://cse.google.com/cse?cx=32d85b41e2feacd3f) - Multi-Site Search
 * ⭐ **[Free MP3 Download](https://free-mp3-download.net/)** - Search / MP3 / FLAC
-* [Squid-Board](https://www.squid-board.org/), [Khinsider](https://downloads.khinsider.com/) / [Downloader](https://codeberg.org/sun/VGMLoader) / [2](https://github.com/obskyr/khinsider) / [3](https://github.com/weespin/KhinsiderDownloader), [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [retro.sx](https://retro.sx/), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/), [VGMPF](http://www.vgmpf.com/) or [Zophar's](https://www.zophar.net/music) - Video Game Soundtracks
+* ⭐ **[SittingOnClouds](https://www.sittingonclouds.net/)** / [Discord](https://discord.com/invite/x23SFbE) - Anime / Game Soundtracks
+* ⭐ **[Game Soundtrack](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_soundtracks)** - Video Game Soundtracks
 * [General Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "audio"
 * [The Last Disaster](https://thelastdisaster.vip/) - Metal / Hardcore / Rock / MP3 / FLAC
 * [SongsLover](https://songslover.vip/) - MP3
@@ -403,7 +404,6 @@
 * [Guitars101](https://www.guitars101.com/) - Live Audio / Video
 * [Download-Soundtracks](http://download-soundtracks.com/), [3ost](https://3ost.ru/), [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) or [tanikal](https://www.tanikal.com/) - Soundtracks 
 * [GTA Radio Stations Music](https://github.com/nbats/FMHYedit/blob/main/base64.md#gta-radio-stations) - GTA Radio Stations
-* [SittingOnClouds](https://www.sittingonclouds.net/) / [Discord](https://discord.com/invite/x23SFbE) - Anime / Game Soundtracks
 * [AniPlaylist](https://aniplaylist.com/), [OSAnime](https://osanime.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - Anime Soundtracks 
 * [OtakuOst](https://otakuost.net/) - Anime Soundtracks & Japanese Music 
 * [KDramaOST](https://kdramaost.com/en) - Asian Drama Soundtracks
