@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/hfN3zgm)** - For mobile users
+**[Table of Contents](https://ibb.co/dfRkbZb)** - For mobile users
 
 ***
 ***
@@ -921,7 +921,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[anonfiles](https://anonfiles.com/)**
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)**
 * ⭐ **[1fichier](https://1fichier.com/)**
-* ⭐ **[LetsUpload](https://letsupload.io/)** / [1CloudFile](https://1cloudfile.com/)
 * ⭐ **[mediafire](https://www.mediafire.com/)**
 * ⭐ **[bowfile](https://bowfile.com/)**
 * ⭐ **[krakenfiles](https://krakenfiles.com/)**
@@ -1026,6 +1025,15 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[Nexus Mods](https://www.nexusmods.com/)** / [Manager](https://github.com/Nexus-Mods/Nexus-Mod-Manager) / [Redirect Skip](https://greasyfork.org/en/scripts/394039)
 
 [ZagruzkaMods](https://zagruzkamods.com/), [NextGenUpdate](https://www.nextgenupdate.com/), [ModWorkshop](https://modworkshop.net/), [Video Game Mods](https://videogamemods.com/), [Silent's Blog](https://cookieplmonster.github.io/mods/index/), [WabbaJack](https://www.wabbajack.org/) / [Discord](https://discord.com/invite/wabbajack), [GameFront](https://gamefront.com/), [GameJunkie](https://www.gamejunkie.pro/), [VIP Mods](https://www.vip-mods.com/), [top-mods.ru](https://top-mods.ru/), [vip-mods.ru](https://vip-mods.ru/), [Top Mods](https://www.top-mods.com/), [CurseForge](https://www.curseforge.com/) / [Search](https://superstormer.github.io/cf-search/) / [Warning](https://prismlauncher.org/news/cf-compromised-alert/), [Mods Gamer](https://www.mods-gamer.ru/), [GameJunkie](https://gamejunkie.ru/), [mod.io](https://www.mod.io/), [GameBanana](https://gamebanana.com/)
+
+***
+
+#### Game Soundtracks
+
+* ⭐ **[Squid-Board](https://www.squid-board.org/)**
+* [Khinsider](https://downloads.khinsider.com/) - [Downloader](https://codeberg.org/sun/VGMLoader) / [2](https://github.com/obskyr/khinsider) / [3](https://github.com/weespin/KhinsiderDownloader)
+
+[Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [retro.sx](https://retro.sx/), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/), [VGMPF](http://www.vgmpf.com/), [Zophar's](https://www.zophar.net/music)
 
 ***
 
@@ -1225,7 +1233,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Internet Speed Test
 
-⭐ **[fast](https://fast.com/)** / [CLI](https://github.com/sindresorhus/fast-cli)
+* ⭐ **[fast](https://fast.com/)** / [CLI](https://github.com/sindresorhus/fast-cli)
 
 [LibreSpeed](https://librespeed.org/), [Xfinity Speed Test](https://speedtest.xfinity.com/), [DLS Reports](http://www.dslreports.com/tools), [Bandwidth Place](https://www.bandwidthplace.com/), [Cloudflare](https://speed.cloudflare.com/), [Speedtest](https://www.speedtest.net/), [wifiman](http://wifiman.com/), [Net Speed Meter](https://www.microsoft.com/en-gb/p/app/9nmbx01pxz4l), [PeerFast](https://diegorbaquero.github.io/PeerFast/) (P2P), [Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker), [GoogleFiber](http://speedtest.googlefiber.net/), [speedtestcustom](https://pcmag.speedtestcustom.com/), [SpeedOf.Me](https://speedof.me/), [BroadbandSpeedChecker](https://broadbandspeedchecker.co.uk/), [speed.io](https://speed.io/), [att](https://www.att.com/support/speedtest/), [speedcheck](https://www.speedcheck.org/), [testmyspeed](https://testmyspeed.onl/), [speedtest](https://speedtest.ph/), [testmy](https://testmy.net/), [Meter](https://www.meter.net/), [CIRA](https://performance.cira.ca/), [Speedsmart](https://speedsmart.net/), [OpenSpeedTest](https://openspeedtest.com/)
 
@@ -1265,7 +1273,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### IPTV Playlists
 
-[awesome-iptv-free](https://github.com/iptv-org/awesome-iptv#free), [iptv-org](https://github.com/iptv-org/iptv), [IPTVCat](https://iptvcat.net/) / [2](https://iptvcat.com/), [AllIPTV](https://www.alliptvlinks.com/), [Leaksat](https://leaksat.com/category/free-iptv/), [iptvmate](https://iptvmate.net/), [iptv-gratuits](https://iptv-gratuits.com/), [iptvsat](https://iptvsat.info/), [eja.tv](https://eja.tv/), [iptv4sat](https://www.iptv4sat.com/), [iptv-work](https://iptv-work.at.ua/), [xtemus](https://xtemus.com/), [Hacxx-Free-IPTV](https://iptv-org.github.io/iptv/index.m3u), [freeiptv.life](https://smart.freeiptv.life/), [index.m3u](https://iptv-org.github.io/), [IPTVList](https://iptvlist.ml/), [Free-TV](https://github.com/Free-TV/IPTV), [IPTV Screwed](https://discord.gg/aukabqv325)
+* ⭐ **[eja.tv](https://eja.tv/)**
+
+[awesome-iptv-free](https://github.com/iptv-org/awesome-iptv#free), [iptv-org](https://github.com/iptv-org/iptv), [IPTVCat](https://iptvcat.net/) / [2](https://iptvcat.com/), [AllIPTV](https://www.alliptvlinks.com/), [Leaksat](https://leaksat.com/category/free-iptv/), [iptvmate](https://iptvmate.net/), [iptv-gratuits](https://iptv-gratuits.com/), [iptvsat](https://iptvsat.info/), [iptv4sat](https://www.iptv4sat.com/), [iptv-work](https://iptv-work.at.ua/), [xtemus](https://xtemus.com/), [Hacxx-Free-IPTV](https://iptv-org.github.io/iptv/index.m3u), [freeiptv.life](https://smart.freeiptv.life/), [index.m3u](https://iptv-org.github.io/), [IPTVList](https://iptvlist.ml/), [Free-TV](https://github.com/Free-TV/IPTV), [IPTV Screwed](https://discord.gg/aukabqv325)
 
 ***
 
@@ -2935,7 +2945,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Collab**
 
-⭐ **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** / [GitHub](https://github.com/biplobsd/OneClickRun)
+* ⭐ **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** / [GitHub](https://github.com/biplobsd/OneClickRun)
 
 [Colab-Hacks Bot](https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Torrent%20Downloader/Torrent%20Downloader.ipynb) / [GitHub](https://github.com/PradyumnaKrishna/Colab-Hacks), [QBit to Gdrive](https://colab.research.google.com/github/Xavy-13/qbittorrent/blob/main/qBittorrent.ipynb) / [GitHub](https://github.com/xavy-13/qbittorrent) / [How-To](https://rentry.co/TorrentColab), [Torrent_To_Google_Drive_Downloader](https://colab.research.google.com/github/FKLC/Torrent-To-Google-Drive-Downloader/blob/master/Torrent_To_Google_Drive_Downloader.ipynb), [MiXLab](https://github.com/shirooo39/MiXLab) / Use Throwaways
 
@@ -2974,7 +2984,9 @@ Add the following commands to a search to manually scrape each site.
 
 #### Tracker Lists
 
-[ngosang](https://ngosang.github.io/trackerslist/) / [2](https://ngosang.github.io/trackerslist/trackers_all.txt), [trackerslist](https://trackerslist.com/) / [2](https://github.com/XIU2/TrackersListCollection), [fossbytes list](https://fossbytes.com/torrent-trackers-list/), [NewTrackOn](https://newtrackon.com/list)
+* ⭐ **[ngosang](https://ngosang.github.io/trackerslist/)** / [2](https://ngosang.github.io/trackerslist/trackers_all.txt)
+
+[trackerslist](https://trackerslist.com/) / [2](https://github.com/XIU2/TrackersListCollection), [fossbytes list](https://fossbytes.com/torrent-trackers-list/), [NewTrackOn](https://newtrackon.com/list)
 
 ***
 
