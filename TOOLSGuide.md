@@ -13,11 +13,13 @@
 
 * ⭐ **[Multi-Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_tool_sites)** - Sites with Multiple Tools
 * ⭐ **[MiXLab](https://github.com/shirooo39/MiXLab)** - Multi-Tool Google Colab / Use Throwaways
+* ⭐ **[To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps)** - To-Do List Apps
+* ⭐ **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)** - Organize Ideas / Projects
+* ⭐ **[Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars)** - Calendar & Scheduling Tools
 * ⭐ **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - Multi-Calculator Sites
 * ⭐ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)** - Presentation Tools / Templates
 * ⭐ **[Data Visualization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)** - Create Charts / Visualize Data 
 * ⭐ **[Versus](https://versus.com/)**, [SocialCompare](https://socialcompare.com/en), [DifferenceBetween](http://www.differencebetween.net/) or [Diffen](https://www.diffen.com/) - Compare Anything 
-* ⭐ **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)** - Organize Ideas / Projects
 * ⭐ **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** or [Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manual_sites) - Repair Articles / Manuals / [Videos](https://www.youtube.com/@cambofixing)
 * ⭐ **[Shopping Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)** - Shopping / Price Tracking
 * ⭐ **[USPS Shipping Supplies](https://store.usps.com/store/results/free-shipping-supplies/_/N-alnx4j)** - Free Shipping Supplies
@@ -47,10 +49,8 @@
 * [Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms) - Project Management Tools
 * [GanttProject](https://www.ganttproject.biz/) - Project Scheduling App
 * [Pick Time](https://pick-time.io/) - Easily Schedule Times with Friends
-* [Calendars](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars) - Calendar & Scheduling Tools
 * [Office Holidays](https://www.officeholidays.com/) or [Forekast](https://forekast.com/) or [Progress](https://neal.fun/progress/) - Worldwide Event Calendars
 * [wnr](https://getwnr.com/), [Timeblocking](https://timeblocking.atomiclife.app/) or [Timestrap](https://timestrap.bythewood.me/) - Time Management Apps
-* [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - To-Do List Apps
 * [Creative Commons](https://creativecommons.org/) - Creative Commons Licenses
 * [MyPhone](https://github.com/BestOwl/MyPhone) - Make Calls via Desktop
 * [Free-lookup](https://www.free-lookup.net/) - Phone # Lookup
