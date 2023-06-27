@@ -1084,9 +1084,7 @@
 * ⭐ **[DownMagaz](https://downmagaz.net/)**
 * ⭐ **[MagazineLib](https://magazinelib.com/)**
 * [ENMagazine](https://t.me/enmagazine) - Telegram
-* [Magazines4U](https://t.me/Magazines4U) - Telegram
 * [newspaper_archive](https://t.me/newspaper_archive) - Telegram
-* [BookCrushNewsstand](https://t.me/BookCrushNewsstand) - Telegram / [Bot](https://t.me/BookCrushNewsstandBot)
 * [World Mags](https://www.worldmags.net/)
 * [PDF Dude](https://pdfdude.com/)
 * [PDF Magazines Download](https://pdf-magazines-download.com/)
@@ -1119,7 +1117,6 @@
 * ⭐ **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)**
 * ⭐ **[Google Newspaper Search](https://news.google.com/newspapers)**
 * [Burlesco](https://burles.co/en/) - Bypass the paywall on online newspapers
-* [BookCrushNewsstand](https://t.me/BookCrushNewsstand) - Telegram / [Bot](https://t.me/BookCrushNewsstandBot)
 * [Sanet.st](https://sanet.st/newspapers/)
 * [Elephind](https://www.elephind.com/) - Historical Newspaper Search
 * [Meta-Press](https://www.meta-press.es/) - Newspaper Search
