@@ -993,7 +993,6 @@
 * [Serenity Notes](https://www.serenity.re/en/notes) - Collaborative Notes
 * [Papertag](https://www.papertag.app/) - Attach Digital Content on Paper
 * [Decisions](https://github.com/markusfisch/Libra) - Decision Making App
-* [Duet Display](https://github.com/fmhy/FMHYedit/blob/main/base64.md#display-duet) - Use iPad as Monitor
 * [BatteryBuddy](https://github.com/Traurige/BatteryBuddy) - Cute Battery Life Indicator
 * [Powercuff](https://rpetri.ch/cydia/powercuff/) - Throttle iOS to Increase Battery Life
 * [CocaoTop](https://github.com/D0m0/CocoaTop) - iOS Process Viewer
