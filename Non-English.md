@@ -1976,7 +1976,7 @@
 * [NhaSach](https://nhasachmienphi.com/) - Books
 * [TaiSach](https://taisachmienphi.com/) - Books
 * [DocSach24](https://docsach24.co/) - Books
-* [GacSach](https://gacsach.club/) - Books
+* [GacSach](https://gacsach.online/) - Books
 * [SachHay](https://www.sachhayonline.com/) - Books
 * [KhoSach](https://khosachonline.com/) - Books
 * [VNDoc](https://vndoc.com/) - Educational Books / Documents
