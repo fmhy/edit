@@ -1030,7 +1030,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Game Soundtracks
 
-* ⭐ **[Squid-Board](https://www.squid-board.org/)**
+* ⭐ **[Squid-Board](https://www.squid-board.org/)** - Account Required
 * [Khinsider](https://downloads.khinsider.com/) - [Downloader](https://codeberg.org/sun/VGMLoader) / [2](https://github.com/obskyr/khinsider) / [3](https://github.com/weespin/KhinsiderDownloader)
 
 [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [retro.sx](https://retro.sx/), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/), [VGMPF](http://www.vgmpf.com/), [Zophar's](https://www.zophar.net/music)
