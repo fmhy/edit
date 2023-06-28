@@ -163,7 +163,6 @@
 * [Moviehab](https://moviehab.asia/) - Movies / TV
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [WarezCDN](https://warezcdn.com/) - Movies / TV / Anime / API
-* [2embed](https://www.2embed.to/) - Movies / TV / Anime / API
 * [DBGO](https://dbgo.fun/) - Movies / TV / Anime / [Content List](https://dbgo.fun/list.php) / API
 * [123movies](https://api.123movie.cc/) - Movies / TV / Anime / API
 * [VidSrc](https://vidsrc.me/) - Movies / TV / Anime / API
@@ -189,7 +188,7 @@
 * ⭐ **[Niconico](https://www.nicovideo.jp/)**
 * ⭐ **[Vimeo](https://vimeo.com/)**
 * ⭐ **[Veoh](https://www.veoh.com/)**
-* ⭐ **[Video Search CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)**, [Moviez.space](https://moviez.space/) or [PeteyVid](https://www.peteyvid.com/) - Multi-Site Video Search
+* ⭐ **[Video Search CSE](https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0)** or [Moviez.space](https://moviez.space/) - Multi-Site Video Search
 * [PeerTube](https://joinpeertube.org/), [2](https://search.joinpeertube.org/) / [Instances](https://instances.joinpeertube.org/instances)
 * [my.mail.ru](https://my.mail.ru/video)
 * [Facebook Videos](https://www.facebook.com/watch/search/?query=fmhy)
@@ -330,7 +329,7 @@
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
 * ⭐ **[Wotaku](https://wotaku.its.moe/)**, [2](https://wotaku.pages.dev/), [3](https://wotaku.netlify.app/) - Japanese Piracy Index
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Media Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
-* [GoGoAnime](https://gogoanime.cl/), [2](https://gogoanime.llc/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/gogo) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime), [2](https://github.com/sdaqo/anipy-cli) / [Mirrors](https://gogotaku.info/)
+* [GoGoAnime](https://gogoanime.hu/), [2](https://gogoanime.vet/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/gogo) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime), [2](https://github.com/sdaqo/anipy-cli) / [Mirrors](https://gogotaku.info/)
 * [AnimehHub](https://animehub.ac/) - Sub / Dub / 1080p [Discord](https://discord.com/invite/4rBPpfkp)
 * [Animixplay](https://animixplay.tube/) - Sub / Dub / 1080p
 * [123Anime](https://123animes.ru/) - Sub / Dub / 1080p
@@ -355,6 +354,8 @@
 * [Anime OWL](https://anime-owl.net/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [ChiaAnime](https://chia-anime.su/) - Sub / 1080p
 * [AnimeGo](https://reddit.animekisa.to/) - Sub / Dub / 1080p
+* [AnimeFox](https://animefox.in/)  - Sub / Dub / 1080p
+* [NAnime](https://www.nanime.one/) - Sub / Dub / 1080p
 * [ChiaAnime.cc](https://chia-anime.cc/) - Sub / 1080p
 * [BestDubbedAnime](https://bestdubbedanime.com/) - Dub / 1080p / [Discord](https://discord.com/invite/f2pHvauUPu)
 * [DubbedAnime](https://dubbedanime.biz/) - Sub / Dub / 1080p
@@ -362,10 +363,10 @@
 * [KissCartoon.info](https://kisscartoon.info/) - Sub / Dub / Cartoons / 720p
 * [Kawaiifu](https://kawaiifu.com/) - Sub / Dub / 720p
 * [AnimeOnsen](https://animeonsen.xyz/) - Sub / 720p
-* [LMAnime](https://lmanime.com/) - Chinese Anime Sub / 1080p
-* [AnimeXin](https://animexin.vip/) - Chinese Anime Sub / 1080p
-* [MyAnime](https://myanime.live/) - Chine Anime Sub / 1080p
-* [Crimsonfansubs](https://crimsonfansubs.com/) - Chine Anime Sub / 1080p / [Discord](https://discord.com/invite/wnK38MjB)
+* [LMAnime](https://lmanime.com/) - Chinese Anime / Sub / 1080p
+* [AnimeXin](https://animexin.vip/) - Chinese Anime / Sub / 1080p
+* [MyAnime](https://myanime.live/) - Chine Anime / Sub / 1080p
+* [Crimsonfansubs](https://crimsonfansubs.com/) - Chine Anime / Sub / 1080p / [Discord](https://discord.com/invite/wnK38MjB)
 * [Yuna](https://yuna.moe/) - Anime Streaming App / [GitHub](https://github.com/BeeeQueue/yuna)
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/) / [Intro Skip](https://github.com/lexesjan/typescript-aniskip-extension)
 * [because.moe](https://because.moe/) - Legal Anime Sites Search 
@@ -494,7 +495,6 @@
 * [WwiTv](https://wwitv.com/) - TV
 * [SquidTV](https://www.squidtv.net/) - TV
 * [PhotoCall](https://photocall.tv/) - TV
-* [puffer](https://puffer.stanford.edu/) - TV
 * [WorldCupFootball](http://hd.worldcupfootball.me/) - Sports
 * [SoccerWorldCup](https://soccerworldcup.me/) - Sports
 * [Icelz](https://icelz.newsrade.com/) - Sports
@@ -966,10 +966,10 @@
 * [TVSubtitles](http://www.tvsubtitles.net/) or [TVSubs](http://www.tvsubs.net/) - TV Subtitles 
 * [kitsuneko](https://kitsunekko.net/) - Anime Subtitles
 * [DownSub](https://downsub.com/) - Download Subs from Video Sites
+* [Loadtup](https://loadtup.com/) or [Whisper](https://huggingface.co/spaces/BatuhanYilmaz/Whisper-Auto-Subtitled-Video-Generator) - YouTube Video Transcribers
 * [YT Sub Downloader](https://greasyfork.org/en/scripts/5368) - Download Subs from YouTube Videos
 * [amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - Add Subs to Youtube Videos / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi) / [Chrome](https://chrome.google.com/webstore/detail/subtitles-for-youtube/oanhbddbfkjaphdibnebkklpplclomal)
 * [YouTube Subtitle Position](https://addons.mozilla.org/en-US/firefox/addon/youtube-subtitle-position/) - Change Position of YouTube Subtitles
-* [Loadtup](https://loadtup.com/) - YouTube Video Translator
 * [LiveTL](https://kentonishi.github.io/LiveTL/) - YouTube Live Stream
 * [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - Styled YouTube Subtitles
 * [Twitch TV OBS Subtitles](https://github.com/stephenlb/twitch-tv-obs-subtitles/) - Add Subtitles to Twitch Stream
