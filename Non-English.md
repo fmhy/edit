@@ -453,7 +453,9 @@
 * [mavanimes](https://mavanimes.cc/) - Anime
 * [VoirAnime](https://voiranime.com/) - Anime
 * [Animevost.fr](https://animevost.fr/) - Anime
+* [sekai](https://sekai.one/) - Anime
 * [senpai](https://senpai.cc/) - Anime
+* [vostanime](https://vostanime.fr/) - Anime
 * [VostFree](https://vostfree.ws/) - Anime
 * [animevostfr](https://animevostfr.tv/) - Anime
 * [animeko](https://animeko.co/) - Anime
@@ -620,6 +622,7 @@
 * [Bolly4u](https://bolly4u.cafe/) - Movies / [Telegram](https://t.me/bolly4ucc)
 * [9xflix](https://9xflix.qpon/) - Movies / [Telegram](https://t.me/ninexflix)
 * [HDVogo](https://www.hdvogo.cfd/) - Movies
+* [moviesfd](https://moviesfd.gay/) - Movies / [Telegram](https://t.me/+q9CFdd5YILBjYzM8)
 * [Moviehunt](https://moviehunt.us) - Movies / TV
 * [UncutHD](https://www.uncuthd.mom/) - Movies
 * [AnimeAcademy](https://animeacademy.in/) - Anime / [Telegram](https://t.me/AnimeAcademyTeam)
@@ -708,7 +711,7 @@
 
 ## ▷ Downloading
 
-* [AniBatch](https://anibatch.anibatch.moe/) - Anime
+* [AniBatch](https://anibatch.anibatch.moe/), [2](https://www.animebatch.id/) - Anime
 * [Drivenime](https://drivenime.com/) - Anime
 * [IndonesiaEbook](https://ebook.twointomedia.com/) - Books
 * [NovelTerjemahan](https://novelterjemahan.com/) - Books
@@ -1452,6 +1455,7 @@
 * [AniLabX](https://github.com/CrazyXacker/anilabx) - Anime / Cartoons / Drama
 * [Shiza Project](https://shiza-project.com/) - Anime / Fan Dubs
 * [otakustudio](http://www.otakustudio.tv/) - Anime
+* [animang](https://animang.one/) - Anime
 * [DarkLibria](https://darklibria.it/) - Anime
 * [Soviet Movies Online](https://sovietmoviesonline.com/cartoons) - Cartoons
 * [Dokonlin.ru](https://www.dokonlin.online/) - Documentaries
