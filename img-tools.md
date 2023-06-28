@@ -39,7 +39,7 @@
 * [PaintingLight](https://lllyasviel.github.io/PaintingLight/) - Digital Lighting Effect Generator
 * [Canvas](https://www.nvidia.com/en-us/studio/canvas/) - Turn Simple Art into Photo Realistic Landscapes
 * [Picmunge](https://picmunge.cvservant.com/) - Image Transformer
-* [Controlnet Pose](https://replicate.com/jagilley/controlnet-pose) - Modify Human Pose Position
+* [Controlnet Pose](https://replicate.com/jagilley/controlnet-pose) - Modify Human Pose Position / [SD WebUI](https://github.com/Mikubill/sd-webui-controlnet)
 * [Tinter](https://tinter.uxie.io/) - Image Hue Editor
 * [WeGreyScale](https://www.wegrayscale.com/) - Greyscale Videos / Images
 * [DuoTones](https://duotones.co/) - Dual Tone Effect Generator
