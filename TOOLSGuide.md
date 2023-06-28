@@ -1640,7 +1640,7 @@ Twitch Stream Tracker
 * [React Statis Tweets](https://github.com/transitive-bullshit/react-static-tweets) - Static Tweets Renderer
 * [Treeverse](https://treeverse.app/) - Twitter Conversation Visualizer
 * [NoBlueTick](https://play.google.com/store/apps/details?id=com.indegy.nobluetick&hl=en&gl=US) - Avoid Read Receipts / Blue Tick
-* [Trends Map](https://www.trendsmap.com/) or [Twitter Trends](https://twitter-trends.vercel.app/) - Trending Twitter Hashtags / Topics
+* [Trends Map](https://www.trendsmap.com/) - Trending Twitter Hashtags / Topics
 * [Twitter Linker](https://twitterlinker.vercel.app/) or [Twitter Images](https://twitter-images.vercel.app/) - Generate Twitter Card for Your 
 * [Relink](https://www.relink.page/) - Fix Twitter Link Images
 * [OneMillionTweetMap](https://onemilliontweetmap.com/) - Real-Time Tweet Map 
@@ -1789,7 +1789,7 @@ Twitch Stream Tracker
 * [SARDU](https://www.sarducd.it/) - Create Recovery USB Flash Drive or Disk
 * [MTPDrive](https://www.mtpdrive.com/index.html) - MPT Device Drive Mapping
 * [rEFind](http://www.rodsbooks.com/refind/) - Boot Manager
-* [balenaEtcher](https://balena.io/etcher) - Flash OS Image SD / USB / [Mobile](https://etchdroid.depau.eu/)
+* [balenaEtcher](https://etcher.balena.io/) - Flash OS Image SD / USB / [Mobile](https://etchdroid.depau.eu/)
 * [NTLite](https://www.ntlite.com/), [WinReducer](https://www.winreducer.net/) or [MSMG Toolkit](https://msmgtoolkit.in/?i=1) - Custom ISO Creator
 * [FOG Project](https://fogproject.org) - OS Depoyment / Managment System
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) or [EasyBCD](https://neosmart.net/EasyBCD/) - Bootloader / [Config](https://mackie100projects.altervista.org/)
@@ -2185,7 +2185,7 @@ Twitch Stream Tracker
 * [xGDToT](https://new7.xgdtot.cfd/) - GDToT Bypasser
 * [Google Service Accounts](https://github.com/TheCaduceus/CloneBot_V2#-service-accounts) - How-to Create Google Service Accounts
 * [ISAAC](https://github.com/harryeffinpotter/ISAAC) or [Generate-Service-Accounts](https://github.com/Telestosatt/Generate-Service-Accounts) - Google Service Account Generators
-* [G-Index](https://github.com/LeeluPradhan/G-Index), [Zyndex](https://zyndex.tk/), [goindex](https://github.com/alx-xlx/goindex) / [Extended](https://github.com/menukaonline/goindex-extended) / [Themes](https://install.kenci.workers.dev/), [GDI](https://github.com/anymeofu/GDI), [GDIndex](https://github.com/maple3142/GDIndex), [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) or [libDrive](https://github.com/libDrive/heroku) - Google Drive Indexers
+* [G-Index](https://github.com/LeeluPradhan/G-Index), [goindex](https://github.com/alx-xlx/goindex) / [Extended](https://github.com/menukaonline/goindex-extended) / [Themes](https://install.kenci.workers.dev/), [GDI](https://github.com/anymeofu/GDI), [GDIndex](https://github.com/maple3142/GDIndex), [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) or [libDrive](https://github.com/libDrive/heroku) - Google Drive Indexers
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
 * [Extract_Zip](https://colab.research.google.com/drive/1L74g3bsV0YEMbDSUj4Kxrwi26mgjxVpp?usp=sharing) - Extract Zip Files in GDrive
 * [GDLeech](https://github.com/AdithyanNellickal/GDLeech), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/), [Google Drive Direct Links](https://greasyfork.org/en/scripts/10052) or [Sharer](https://sharer.pw/) - Host Direct Links on GDrive 
