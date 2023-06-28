@@ -238,6 +238,7 @@
 * [Phrozen](https://www.phrozen.io/)
 * [FileEagle](https://www.fileeagle.com/)
 * [Perkele](https://perkele.cc/software)
+* [Patorjk](https://www.patorjk.com/)
 * [OSDN](https://osdn.net/)
 * [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html)
 * [Awesome Free Software](https://github.com/johnjago/awesome-free-software)
