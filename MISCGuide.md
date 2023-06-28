@@ -482,7 +482,7 @@
 
 # ► Travel
 
-* ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)**, [CountryReports](https://www.countryreports.org/) or [TravelTips](https://www.traveltip.org/world_maps.php) - Travel Guides
+* ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)**, [Turas](https://turas.app/), [CountryReports](https://www.countryreports.org/) or [TravelTips](https://www.traveltip.org/world_maps.php) - Travel Guides
 * ⭐ **[JourneyPlan](https://journeyplan.co)** or [TripNotes](https://tripnotes.ai/) - Trip Planning AIs
 * ⭐ **[Borderless](https://borderless.safetywing.com/)** - Travel Restrictions Guide
 * ⭐ **[MapChecking](https://www.mapchecking.com/)** - Crowd Size Estimation
@@ -662,6 +662,7 @@
 * [UrbanFonts](https://www.urbanfonts.com/)
 * [AbstractFonts](https://www.abstractfonts.com/)
 * [FontGet](https://www.fontget.com/)
+* [FontSupply](https://www.fontsupply.com/)
 * [FontINeed](https://fontineed.com/)
 * [BlogFonts](https://blogfonts.com/)
 * [1.5_million_font_files_collection](https://archive.org/details/1.5_million_font_files_collection)
@@ -1035,6 +1036,7 @@
 * [Zoom Scheduler](https://zoom.us/download#chrome_ext) - Zoom Meeting Scheduler
 * [Clippy](https://github.com/capJavert/clippy) - Add Clippy Assistant to Pages
 * [Typewriter](https://chrome.google.com/webstore/detail/typewriter/jfghikfjnjkjkdpndeecjheealfoabhc) - Typing Typewriter Sounds
+* [Extpose](https://extpose.com/) - Track Performance of your own Extensions
 
 ***
 
