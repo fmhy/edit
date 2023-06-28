@@ -922,6 +922,7 @@
 * ⭐ **[TasteDive](https://tastedive.com/)** - Game Recommendations
 * [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
 * [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Game Recommendation Guides
+* [Incendar](https://incendar.com/) - Game Release Date Tracker
 * [OpenCritic](https://opencritic.com/) - Critic Game Reviews / Ratings
 * [IMDb](https://www.imdb.com/) - Game Database
 * [GameFAQs](https://gamefaqs.gamespot.com/) - Game Database
@@ -1318,6 +1319,7 @@
 * ⭐ **[Momentum](https://momentum-mod.org/)** - Movement Training
 * [Impossible Rush](http://tanksw.com/impossible-rush/) - Reflex Training
 * [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
+* [ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec) - ArminC's CS:GO Config
 * [Use ESDF](http://www.use-esdf.org/) - OG FPS Control Combo
 * [CrossOver](https://github.com/lacymorrow/crossover) or [HudSight](https://hudsight.com/) - Crosshair Overlay
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
