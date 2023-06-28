@@ -108,7 +108,6 @@
 * [NNM-Club](https://nnmclub.to/) - Video / Audio / Software / Games / [Note](https://i.ibb.co/MPRttDC/6a35c3c79cde.png)
 * [Torrentz2k](https://torrentz2k.xyz/) - Video / Audio / Software / Games / NSFW
 * [Torrenting](https://www.torrenting.com/) - Video / Audio / Games / Software / Books / NSFW
-* [FOSSTorrents](https://fosstorrents.com/) - FOSS Software / Games
 * [BitLord Power Search](http://85.143.175.243/) - BitLord Browser Search 
 * [Tigole](https://infogalactic.com/info/Tigole#Getting_Tigole_torrents) - Torrent Index
 * [Telegram Torrents](https://duckduckgo.com/?q=site%3At.me+torrent&ia=web) - Telegram Torrent Channels
