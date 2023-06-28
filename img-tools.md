@@ -175,7 +175,6 @@
 * [Mega creator](https://icons8.com/mega-creator) - Promo / Poster Creator
 * [Band-Flyers](https://band-flyers.com/) - Band Flyer Creator
 * [Custom Ink](https://www.customink.com/ndx/#/) - Create T-Shirt Designs
-* [Mockupea](https://mockupea.com/) - Book / Magazine Mockup Cover Creator
 * [Unsell](https://www.unsell.design/) - Portfolio / Magazine Templates
 * [PSDcovers](https://www.psdcovers.com/), [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [Mockups](https://mockups.pixeltrue.com/), [medialoot](https://medialoot.com/free-mockups/) or [MockupsForFree](https://mockupsforfree.com/) - Product Mockups
 * [Venngage](https://venngage.com/) - Infographic Maker
@@ -437,7 +436,7 @@
 * [Handwriting-OCR](https://github.com/Breta01/handwriting-ocr) - Handwriting Image to Text
 * [Image-to-Image](https://affinelayer.com/pixsrv/) - Interactive Image Translation
 * [WhatTheFont](https://www.myfonts.com/) - Find Font from Image
-* [Watermarkly](https://watermarkly.com/), [We Watermark](https://wewatermark.com/) or [Watermarkup](https://watermarkup.com/watermark.html) - Image Watermarking
+* [Watermarkly](https://watermarkly.com/) or [Watermarkup](https://watermarkup.com/watermark.html) - Image Watermarking
 * [Watermark Remover Online](https://www.aiseesoft.com/watermark-remover-online/) or [Watermark Remover](https://www.watermarkremover.io/) - Watermark Removal
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) - Protect Digital Art from AI Copies
 * [FPNG](https://github.com/richgel999/fpng) - PNG Reader / Writer
@@ -467,7 +466,6 @@
 * [Librephotos](https://github.com/LibrePhotos/librephotos), [Photoprism](https://github.com/photoprism/photoprism), [Photoview](https://github.com/photoview/photoview) or [Ownphotos](https://github.com/hooram/ownphotos/) - Self-Hosted Google Photo Manager 
 * [Pixelfed](https://pixelfed.org/) or [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid)
 * [Cryptee](https://crypt.ee/) - Encrypted Image Storage
-* [CacheMonkey](https://www.cachemonkey.app/) - Browse / Clear Cached Images
 * [Google Photos Takeout Helper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Cleanup a Google Photos Takeout
 
 ***
@@ -516,7 +514,7 @@
 * [GridsApp](https://gridsapp.net/) - Desktop Client
 * [InstaKiller](https://github.com/yamin8000/InstaCLI) - Instagram CLI
 * [Bypass Login](https://greasyfork.org/en/scripts/420604) - Bypass Instagram Login Redirects
-* [AeroInsta](https://aeroinsta.com/), [Instander](https://thedise.me/instander/) or [Barinsta](https://codeberg.org/avalos/barinsta) - Modded Android App
+* [AeroInsta](https://aeroinsta.com/) or [Instander](https://thedise.me/instander/) - Modded Android App
 * [WhatIsRhino](https://lemamichael.github.io/WhatIsRhino/) - Modded iOS App
 * [imgsed](https://imgsed.com/), [YooYing](https://www.yooying.com/), [Picuki](https://www.picuki.com/), [InstaNavigation](https://instanavigation.com/), [Instafreeview](https://instafreeview.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer) or [Dumpor](https://dumpoir.com/) - Instagram Viewers
 * [FeedInABox](https://t.me/FeedinboxBot) - Telegram Bot
