@@ -355,6 +355,7 @@
 * [Take Metal](http://takemetal.org/) - Metal / MP3
 * [GetMetal Club](https://getmetal.club/) - Metal / MP3 / FLAC 
 * [Me-4U](https://me-4u.com/index.php) - Metal / MP3
+* [DTS-Metal](https://dts-metal.com/) - Metal / MP3
 * [Nuclear Holocaust]( https://nuclear-holocaust.blogspot.com/) - Metal / FLAC
 * [Metalminos](https://metalminos.net/) - Metal / MP3
 * [HeavyMetalRarities](https://heavymetalrarities.com/) - Metal / MP3
