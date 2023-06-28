@@ -408,7 +408,7 @@
 * [Image Searcher](https://play.google.com/store/apps/details?id=sansunsen3.imagesearcher) - Image Search App
 * [AppMockUp](https://app-mockup.com/) - Screenshot Builder
 * [ScreenshotFlow](https://screenshotflow.com/) - Create App Diagrams
-* [ScreenshotFramer](https://play.google.com/store/apps/details?id=com.logicui.screenshotframer) or [SnapMod](https://play.google.com/store/apps/details?id=cn.gavinliu.snapmod) - Frame Screenshots
+* [ScreenshotFramer](https://play.google.com/store/apps/details?id=com.logicui.screenshotframer) - Frame Screenshots
 * [QuiverVision](https://quivervision.com/) - Augmented Reality Coloring
 * [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix) - Combine Emojis
 * [RecordYou](https://github.com/Bnyro/RecordYou) - Video / Voice Recorder
