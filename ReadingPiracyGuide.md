@@ -624,7 +624,6 @@
 * [Papers We Love](https://paperswelove.org/) - Science / Articles / [GitHub](https://github.com/papers-we-love/papers-we-love)
 * [Awesome Detection Transformer](https://github.com/IDEA-Research/awesome-detection-transformer) - Transformer for Detection and Segmentation Papers
 * [Springer](https://link.springer.com/) - Science / Articles
-* [Science.gov](https://www.science.gov/) - Science / Articles / Documents
 * [Liebertpub](https://liebertpub.com/) - Science / Journals / Papers / Books
 * [DOKU.PUB](https://doku.pub/) - Science / Articles
 * [ESJI](http://www.esjindex.org/) - Science / Journals
