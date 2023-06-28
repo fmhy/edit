@@ -21,7 +21,7 @@
 * ⭐ **[Free Courses by Xemu](https://github.com/nbats/FMHYedit/blob/main/base64.md#free-courses-by-xemu)** - Programming Course Drives
 * ⭐ **[Phind](https://www.phind.com/)** - Developer Q&A AI
 * ⭐ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - Read / Download Programming Books
-* [Awesome Certificates](https://github.com/PanXProject/awesome-certificates) - Dev Courses Index
+* [Awesome Certificates](https://github.com/PanXProject/awesome-certificates) or [Awesome Learning Dev](https://www.learndev.info/en) - Dev Course Indexes
 * [DZone](https://dzone.com/) - Developer Tutorials
 * [RedHat](https://developers.redhat.com/) - Development Tutorials
 * [Dev.tube](https://dev.tube/) - Developer Talks
@@ -405,7 +405,7 @@
 * [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
 * [Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering) - Open Source Data Engineering Projects
 * [CLIP-as-service](https://github.com/jina-ai/clip-as-service) - Embed Images / Sentences via CLIP Models
-* [Catalyzex](https://www.catalyzex.com/) or [PapersWithCode](https://paperswithcode.com/) - Search Machine Learning Models / Papers
+* [Catalyzex](https://www.catalyzex.com/), [Feedly AI](https://feedly.com/ai) or [PapersWithCode](https://paperswithcode.com/) - Search Machine Learning Models / Papers
 * [OpenML](https://www.openml.org/) or [Hugging Face](https://huggingface.co/) - Machine Learning Datasets
 * [Kobra](https://kobra.dev/) - Visual Programming Language for Machine Learning
 * [DVC](https://dvc.org/) - Machine Learning Version Control
