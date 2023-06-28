@@ -66,7 +66,7 @@
 * [Dalai](https://cocktailpeanut.github.io/dalai/) - Self-host / [Github](https://github.com/cocktailpeanut/dalai) / [Discord](https://discord.com/invite/WWfgrzzkCT) / [GPT-Style UI](https://github.com/ItsPi3141/dalai)
 * [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Stanford's Chatbot / [LoRA Implementation](https://github.com/tloen/alpaca-lora) / [GUI](https://github.com/ItsPi3141/alpaca-electron)
 * [FreedomGPT](https://freedomgpt.com/) - Alpaca Based Chatbot / [Github](https://github.com/ohmplatform/FreedomGPT/) / [Discord](https://discord.com/invite/h77wvJS4ga)
-* [PygmalionAI](https://docs.alpindale.dev/) - Self-Hosted Roleplaying Chatbot / [Resources](https://rentry.co/PygmalionLinks) / [Discord](https://discord.com/invite/pygmalionai)
+* [PygmalionAI](https://discord.com/invite/pygmalionai) - Self-Hosted Roleplaying Chatbot / [Resources](https://rentry.co/PygmalionLinks)
 * [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
 * [SillyTavern](https://github.com/SillyTavern/SillyTavern) - UI for Roleplaying Chatbots
 * [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
@@ -150,6 +150,7 @@
 * [TopApps.Ai](https://topapps.ai/) - AI Directory
 * [Cookup AI](https://cookup.ai/) - AI Directory
 * [SuperTools](https://supertools.therundown.ai/) - AI Directory
+* [TheCrazyTool](https://www.thecrazytool.com/) - AI Directory
 * [iLib](https://www.ilib.com/) -  AI Directory
 * [GPT Resources](https://airtable.com/shrWat9yoXFwOXWQ0/tblxXHpcpjn1POWnh) - AI Directory
 * [WikiGPT3](https://www.wikigpt3.com/) - AI Directory
@@ -342,7 +343,6 @@
 * ⭐ **[SD Quickstart](https://redd.it/xvhavo)** - Stable Diffusion Guide
 * ⭐ **[1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw)** - Stable Diffusion Guide
 * [StableDiffusion Cheatsheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - Stable Diffusion Cheatsheet
-* [Arki's Guides](https://stablediffusionguides.carrd.co/) - Stable Diffusion Guide
 * [Textard](https://rentry.org/textard) - Textual Inversion Guide
 * [drfar](https://rentry.org/drfar) - InPainting Guide
 * [AnimAnon](https://rentry.org/AnimAnon) - AI Animation Guide
