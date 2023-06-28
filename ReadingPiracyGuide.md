@@ -1221,6 +1221,7 @@
 * [PDFLite](http://www.pdflite.com/) - PDF Reader / PC
 * [mupdf](https://mupdf.com/) - PDF Reader / PC
 * [Evince](https://wiki.gnome.org/Apps/Evince) - PDF / DjVu Reader / Linux
+* [FF PDF](https://github.com/sdushantha/ff-pdf/) - PDF Reader / Linux
 * [PdfPreviewbot](https://t.me/PdfPreviewbot) - Telegram PDF Reader
 * [WinDjView](https://windjview.sourceforge.io/) - DjVu Reader / PC
 * [DjVuLibr](http://djvu.sourceforge.net/) - DjVu Reader / PC
