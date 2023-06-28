@@ -48,7 +48,6 @@
 * [pilssken](https://pilssken.neocities.org/warez/) - Piracy Index
 * [The Pirate List](https://thepiratelist.com/) - Piracy Index
 * [DuckLink](https://ducklink.pages.dev/) - Piracy Index / [Mirror](https://rentry.org/ducklink)
-* [Leaf Guides](https://leafguides.xyz/) - Piracy Index
 * [The Goods](https://discord.gg/zapJ4w3XBN) - Piracy Index
 * [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - Japanese Piracy Index
 * [WAREZZ](https://piracy.vercel.app/) - Piracy Index / [Warning](https://i.ibb.co/Tb7gvtX/a6e53d3ca97c.png)
@@ -193,7 +192,7 @@
 * [Latest Privacy](https://latestprivacy.org/), [Talos Blog](https://blog.talosintelligence.com/), [IT Security Guru](https://www.itsecurityguru.org/), [ThreatPost](https://threatpost.com/), [Calyx](https://calyxinstitute.org/), [Privacy International](https://www.privacyinternational.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - Privacy / Security News
 * [Netblocks](https://netblocks.org/) - Censorship News
 * [CBM](https://comicbookmovie.com/) - Comic, Movie & TV News
-* [AnotherDayAnotherDecade](https://www.anotherdayanotherdecade.com/) or [EmergentMind](https://www.emergentmind.com/) - AI News
+* [EmergentMind](https://www.emergentmind.com/) - AI News
 * [NewsNotFound](https://newsnotfound.com/) - Unbiased AI Generated News
 * [Tudum](https://www.netflix.com/tudum) - Netflix News
 * [Anime News Network](https://www.animenewsnetwork.com/) - Anime News
@@ -290,7 +289,6 @@
 * [Wikibook Cookbooks](https://en.wikibooks.org/wiki/Category:Cookbook) - Recipes
 * [Cookpad](https://cookpad.com/us) - Recipes
 * [FoodGeeks](https://foodgeeks.com/) - Recipes
-* [MyRecipeMagic](https://www.myrecipemagic.com/) - Recipes
 * [SparkPeople](https://recipes.sparkpeople.com/) - Recipes
 * [KeyIngridient](https://www.keyingredient.com/) - Recipes
 * [CopyKat](https://copykat.com/) - Recipes
@@ -434,7 +432,7 @@
 * [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
 * [Fitocracy](https://www.fitocracy.com/) - Create Workout Plans
 * [DAREBEE](https://darebee.com/) - Fitness Plans / Workouts
-* [Hevy](https://www.hevyapp.com/), [Iron](https://github.com/kabouzeid/Iron), [Massive](https://gitea.presley.nz/brandon.presley/Massive), [Advagym](https://advagymsolutions.com/user-app/), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines) or [FitHero](https://fithero.app/) - Workout Trackers
+* [Hevy](https://www.hevyapp.com/), [Iron](https://github.com/kabouzeid/Iron), [Massive](https://gitea.presley.nz/brandon.presley/Massive), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines) or [FitHero](https://fithero.app/) - Workout Trackers
 * [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
 * [GoldenCheetah](https://www.goldencheetah.org/), [AAT](https://bailu.ch/aat/) or [BikeComputer](https://f-droid.org/packages/de.nulide.bikecomputer/) - Biking Trackers
 * [AllTrails](https://www.alltrails.com/) - Hiking Routes
@@ -1017,7 +1015,6 @@
 * [BetterViewer](https://github.com/Ademking/Betterviewer) - Improved Image Viewer
 * [Resizing](https://resizing.app/) - Resize Images
 * [Vasai](https://chrome.google.com/webstore/detail/vasai-free-screen-recorde/ppbdhdggkcfgcghiaimfknmfemkegleo) - Screen Recorder
-* [SmartShot](https://chrome.google.com/webstore/detail/smartshot/edjbamdongkhmagbpppagfjbcojajeae/related?hl=en) - Take Screenshots
 * [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en) - Color Picker
 * [SiteScrubber](https://chrome.google.com/webstore/detail/sitescrubber/ffadalgofahhohaciekjchkikcglcpla) - Hide Offensive / Swear Words on Sites
 * [Show Keys](https://chrome.google.com/webstore/detail/show-keys/bkcpmidbgmfbbeanejhepkjakagfaaon) - Show Keys As You Type
@@ -1459,7 +1456,7 @@
 ## ▷ Random
 
 * ⭐ **[Random Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_sites)** - Random Site Generators
-* ⭐ **[Copypasta Text](https://copypastatext.com/)** - Copypasta Database
+* ⭐ **[Copypasta Text](https://copypastatext.com/)** or [CopyPastaDB](https://copypastadb.com/) - Copypasta Databases
 * ⭐ **[TheOnion](https://theonion.com/)** or [DailyWrong](https://dailywrong.com/) - Fake News Articles
 * ⭐ **[PokeSmash](https://pokesmash.xyz/)** - Pokémon Smash or Pass
 * ⭐ **[Library of Babel](https://libraryofbabel.info/)** - Every Book of Past, Present, and Future
