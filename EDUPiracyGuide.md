@@ -125,7 +125,6 @@
 * [FreeEducationWeb](https://freeeducationweb.com/) - Courses
 * [FreeCourseDL](https://freecoursedl.com/) - Courses
 * [TutsNode](https://tutsnode.net/) - Courses
-* [FreeStudyWeb](https://freestudyweb.com/) - Courses
 * [Google Drive Links](https://googledrivelinks.com/) - Courses
 * [CryptoTips](https://www.cryptotips.us/) - Courses
 * [FCS](https://freecoursesites.com/) - Courses
@@ -601,7 +600,6 @@ Simulator
 * [Sounter](https://sounter.com/) or [LyricFluent](https://lyricfluent.com/) - Learn Languages via Music
 * [youglish](https://youglish.com/) - YouTube Word Pronunciations
 * [Language Roadmap](https://languageroadmap.com/) - Foreign Language Media Difficulty Guide
-* [Ytalki](https://ytalki.com/) - Find Foreign Books Based on Language Level
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi-Language Dictionary Index
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary
 * [Readlang](https://readlang.com/) - Learn a Language While Web Browsing
@@ -743,7 +741,6 @@ Simulator
 * [ASL Dictionary](https://www.signasl.org/), [SignSpaces](https://signspaces.com/) or [HandSpeak](https://www.handspeak.com/) - Learn American Sign Language
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)
 * [BSL Dictionary](https://www.signbsl.com/) - British Sign Language
-* [PolyGlot](http://polyglots.free.fr/) - Linguistic Teaching Software
 * [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - Language Identification Test
 * [LocalLingual](https://localingual.com/) or [DialectArchive](https://www.dialectsarchive.com/globalmap)- Listen to Accents
 * [Interactive IPA Chart](https://www.ipachart.com/) - Learn Phonetic Alphabet Symbols
@@ -856,7 +853,7 @@ Simulator
 * [The Problem Site](https://www.theproblemsite.com/) - Problems / Puzzles / Games
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
 * [50Hacks](https://50hacks.co/) - Productivity Tips
-* [PhilosophyBasics](https://www.philosophybasics.com/) - Learn Basic Philosophical Concepts
+* [Philosophy Bro](https://www.philosophybro.com/) or [PhilosophyBasics](https://www.philosophybasics.com/) - Learn about Philosophy
 * [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
 * [Brainkit](https://www.braink.it/) - Learn Helpful Principles
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
