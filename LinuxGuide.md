@@ -29,6 +29,7 @@
 * rTorrent Tools - [Extended](https://github.com/pyroscope/rtorrent-ps) / [Tools](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [All Seeders Column](https://github.com/AkdM/rutorrent-all-seeders) / [Docker Build](https://github.com/binhex/arch-rtorrentvpn)
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - RTorrent Web Frontend / [Themes](https://github.com/InAnimaTe/rutorrent-themes), [2](https://github.com/artyuum/3rd-party-ruTorrent-Themes)
 * [Linux x Technology](https://linuxdiscord.com/), [Ezlinux](https://ezlinux.net/), [Linux.Chat](https://discord.gg/linuxchat) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discussion / Forums
+* [die.net](https://linux.die.net/) - Linux Documentation
 * [BusyBox](https://frippery.org/busybox/) - Unix Tools
 * [Awesome-shell](https://github.com/alebcay/awesome-shell), [AltBox](https://altbox.dev/) or [LinuxTools](https://github.com/rendick/LinuxTools) - Linux CLI Tools
 * [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - CPU Speed & Power Optimization Automation
@@ -84,7 +85,7 @@
 * [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - Communicate with iOS Devices
 * [InstantBox](https://github.com/instantbox/instantbox) - Temporary Linux Systems
 * [HowtoForge](https://www.howtoforge.com/), [Sindresorhus Guides](https://github.com/sindresorhus/guides), [Erik Dubois](https://www.youtube.com/c/ErikDubois), [LinuxJourney](https://linuxjourney.com/) or [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA) - Linux Guides / Tutorials
-* [ArchLinuxGUI](https://archlinuxgui.in/download.html), [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - Arch Linux Installer
+* [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - Arch Linux Installer
 * [EasyPanel](https://easypanel.io/) - Server Control Panel
 * [/r/linuxupskillchallenge](https://www.reddit.com/r/linuxupskillchallenge/) - How-to Sysadmin a Remote Server 
 * [Free Cloud Linux Server](https://github.com/nbats/FMHYedit/blob/main/base64.md#free-cloud-linux-server) - Free Cloud Server Guide
