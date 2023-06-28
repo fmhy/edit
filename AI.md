@@ -76,7 +76,7 @@
 
 ## ▷ ChatGPT  Tools
 
-* ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [2](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) or [Merlin](https://merlin.foyer.work/) - Enhancement Extensions
+* ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [2](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc), [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps) or [Merlin](https://merlin.foyer.work/) - ChatGPT Extensions
 * ⭐ **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
 * ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)**, [Vault AI](https://vault.pash.city/) or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
@@ -87,9 +87,9 @@
 * [engshell](https://github.com/emcf/engshell) or [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT in TUIs
 * [jsmsj](https://github.com/jsmsj/GPT4), [YakGPT](https://yakgpt.vercel.app/), [BetterGPT](https://bettergpt.chat/) or [TurboGPT.ai](https://turbogpt.ai/) - ChatGPT WebUIs
 * [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [PyGPT](https://pygpt.net/), [GPTChat](https://github.com/ian-kent/gptchat), [TurboGPT](https://github.com/mikebpech/turbogpt.ai) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
-* [Unriddle](https://www.unriddle.ai/) - Document Summary AI
+* [Unriddle](https://www.unriddle.ai/) or [ChatDOC](https://chatdoc.com/) - Document Summary AIs
 * [docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT Google Docs Addon
-* [ChatGPTBox](https://github.com/josStorer/chatGPTBox) - ChatGPT Browser Extensions
+* [ChatGPT File Uploader](https://chrome.google.com/webstore/detail/chatgpt-file-uploader/oaogphgfdbdbmhkiplemgehihiiececj) - File Upload Extension
 * [Discord ChatGPT](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chatgpt_discord_bots) - ChatGPT Discord Bots
 * [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) / [2](https://github.com/n3d1117/chatgpt-telegram-bot) / [3](https://github.com/watscho/chat-gpt-telegram-bot) or [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT for Telegram
 * [WeChat ChatGPT](https://github.com/fuergaosi233/wechat-chatgpt) - ChatGPT for WeChat
@@ -150,6 +150,7 @@
 * [TopApps.Ai](https://topapps.ai/) - AI Directory
 * [Cookup AI](https://cookup.ai/) - AI Directory
 * [SuperTools](https://supertools.therundown.ai/) - AI Directory
+* [Toolspedia](https://www.toolspedia.io/) - AI Directory
 * [TheCrazyTool](https://www.thecrazytool.com/) - AI Directory
 * [iLib](https://www.ilib.com/) -  AI Directory
 * [GPT Resources](https://airtable.com/shrWat9yoXFwOXWQ0/tblxXHpcpjn1POWnh) - AI Directory
@@ -161,7 +162,7 @@
 * [OpenCV](https://opencv.org/) - A.I. Vision Library
 * [OpenCog](https://opencog.org/) or [AForge](https://github.com/andrewkirillov/AForge.NET) - Artificial Intelligence Frameworks
 * [free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - AI Learning Resources
-* [AI Reading List](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/) - AI Research Papers
+* [AI Reading List](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/) or [Daily Papers](https://huggingface.co/papers) - AI Research Papers
 
 ***
 ***
@@ -307,11 +308,13 @@
 * [StableDiffusionOnline](https://stablediffusiononline.net/) - Online
 * [Mage](https://www.mage.space/) - Online / [Discord](https://discord.com/invite/GT9bPgxyFP)
 * [Stable Diffusion Web](https://stablediffusionweb.com/) - Online
+* [OpenJourney](https://replicate.com/prompthero/openjourney) - Online / Tuned w/ Midjourney
 * [DiffusionBee](https://diffusionbee.com/) - Self-Host for Macs / [Github](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
 * [SD InPainting](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) / [2](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting) / [3](https://replicate.com/stability-ai/stable-diffusion-inpainting) / [4](https://github.com/geekyutao/Inpaint-Anything) or [Lama Cleaner](https://github.com/Sanster/lama-cleaner) - AI Image Fill / Item Removal
 * [InPainter](https://inpainter.vercel.app/paint) - Online Inpainting / [Github](https://github.com/replicate/inpainter)
 * [MagicBrush](https://www.magicbru.sh/), [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - AI Image Transformers
 * [Photoshop StableDiffusion](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - Stable Diffusion for Photoshop
+* [a1111-sd-webui-lycoris](https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris) - Load Lycoris Models
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
 * [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) - AI Image Generation Colab
 * [Unprompted](https://github.com/ThereforeGames/unprompted) - Stable Diffusion Text Generator
