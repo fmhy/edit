@@ -237,7 +237,7 @@ Use [this](https://wallabag.nixnet.services/) to read the article easily.
 
 Source: **[/r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 
-If you have any suggestions, changes or questions feel free to join us on [Divolt](https://redd.it/uto5vw) ♡
+If you have any suggestions or questions feel free to join us in [Divolt](https://redd.it/uto5vw) ♡
 
 ***
 
