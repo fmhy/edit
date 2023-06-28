@@ -41,7 +41,6 @@
 * [Fushaar](https://www.fushaar.com/), [2](https://fushaar.info/) - Movies / TV
 * [CimaNow](https://cimanow.cc/) - Movies / TV
 * [egydead](https://w6.egydead.live) - Movies / TV / Anime
-* [movizland](https://movizland.info/) - Movies / TV / Anime
 * [akwam](https://akw.to/) - Movies / TV
 * [ShahidToday](https://o.shahid2day.com/) - Movies / TV
 * [wecima](https://wecima.dev/) - Movies / TV / Anime / Cartoons / Wrestling
@@ -71,7 +70,6 @@
 * [anime4up](https://w1.anime4up.tv/) - Anime
 * [animerco](https://animerco.com/) - Anime
 * [xsanime](https://v.xsanime.com/) - Anime
-* [ncv](http://www.ncv.life/) - Anime
 * [Arabsama](https://arabsama.net/) - Anime
 * [Okanime](https://okanime.cc/) - Anime
 * [Animeyat](https://www.animeiat.tv/) - Anime
@@ -96,10 +94,8 @@
 * [3asq](https://3asq.org/) - Manga
 * [Team-X](https://team1x1.fun/) - Manga
 * [GManga](https://gmanga.me/) - Manga
-* [soramanga](https://soramanga.com/) - Manga
 * [galaxymanga](https://galaxymanga.org/) - Manga
 * [hijala](https://hijala.blogspot.com/) - Manga
-* [manga-flix](https://www.manga-flix.com/) - Manga
 * [Aldiwan](https://www.aldiwan.net/) - Poems
 
 ***
@@ -527,7 +523,6 @@
 * [streamkiste](https://streamkiste.tv/), [2](https://streamkiste.ink/) - Movies / TV
 * [KinoX](https://www.kinox.sx/), [2](https://www2.kinox.to/) - Movies / TV
 * [filmpalast](https://filmpalast.to/) - Movies / TV
-* [movieking](https://movieking.cc/) - Movies
 * [Film Palast](https://filmpalast.info/) - Movies / TV
 * [TopStreamFilm](https://topstreamfilm.io/) - Movies / TV
 * [kinoking](https://kinoking.cc/) - Movies / TV / Anime
@@ -721,7 +716,7 @@
 ## ▷ Streaming
 
 * [Bioskopkeren](https://download.bioskopkeren.sbs/) - Movies / TV
-* [Dramamu](https://45.141.56.103/), [2](https://185.224.83.128/) - Movies / TV
+* [Dramamu](https://45.141.56.103/) - Movies / TV
 * [otakudesu](https://otakudesu.lol/) - Anime
 * [anoBoy](https://anoboy.monster/) - Anime
 * [kuramanime](https://kuramanime.net/) - Anime
@@ -776,7 +771,6 @@
 * [Arcoiris TV](https://www.arcoiris.tv/) - TV
 * [SerieHD](https://www.seriehd.sbs/) - TV
 * [AnimeSaturn](https://www.animesaturn.tv/) - Anime
-* [AnimeForce](https://www.animeforce.it/) - Anime
 * [AnimeWorld](https://www.animeworld.tv/) - Anime
 
 ## ▷ Reading
@@ -862,7 +856,6 @@
 * [KLManga](https://klz9.com/) - Manga
 * [Nikaraw](https://nikaraw.com/) - Manga
 * [Mangaraw](https://mangaraw.to/) - Manga
-* [manga1001](https://manga1001.pro/) - Manga
 * [boroboro](https://boroboro.neocities.org/) - Manga
 * [tonarinoyj](https://tonarinoyj.jp/) - Manga
 * [Honto](https://honto.jp/cp/ebook/recent/free.html) - Manga / NSFW
@@ -1612,7 +1605,6 @@
 * [Tlandia](https://torrentlandia.site/) - Movies
 * [SomosTorrent](https://somostorrent.com/) - Movies / TV / [Telegram](https://t.me/s/pelistorrentoficial)
 * [DiXvA](https://www.dixvto.com/), [2](https://www.dixva.com/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
-* [Frozen Layer](https://www.frozen-layer.com/) - Anime
 * [unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
 
@@ -1645,7 +1637,6 @@
 * [Movidy](https://movidy.ws/) - Movies / TV / Anime
 * [PelisMaraton](https://pelismaraton.nu/) - Movies / TV / Anime
 * [Fanpelis](https://fanpelis.la/) - Movies / TV / Anime
-* [Repelis](https://til.repelis.uno/) - Movies / TV
 * [SeriesYonkis](https://seriesyonkis.cx/) - Movies / TV
 * [Miradetodo](https://miradetodo.de/) - Movies / TV
 * [VerPeliculas](https://verpeliculasultra.com/) - Movies / TV
@@ -1739,7 +1730,6 @@
 * [MangasEnPdf](https://t.me/MangasEnPdf) - Manga / Telegram
 * [tupropiaaventura_bot](https://t.me/tupropiaaventura_bot) - Books / Telegram
 * [Recetas Vegetarianas](https://recetasvegetarianas.netlify.app/) -  Vegan Recipes
-* [CDPedia](http://cdpedia.python.org.ar/) - Offline Wikipedia
 
 ***
 
