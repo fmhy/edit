@@ -73,7 +73,7 @@ Use [this](https://wallabag.nixnet.services/) to read the article easily.
 **[Team OS](https://www.teamos.xyz/)** - Download MacOS
 **[FileCR](https://filecr.com/macos/) / [MacIntosh Garden](http://macintoshgarden.org/)** - MacOS Software
 **[Torrminatorr](https://forum.torrminatorr.com/)** - Download MacOS Games
-**[Adobe Creative Cloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#mac-adoGuide)** - Adobe CC Guide or [Patcher](https://telegra.ph/TNT-Adobe-Zii-for-MacOS-11-0)
+**[Adobe Creative Cloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#mac-adoGuide)** - Adobe CC Guide
  
 ***
 
@@ -235,7 +235,6 @@ Use [this](https://wallabag.nixnet.services/) to read the article easily.
 
 ***
 
-### Source & Divolt 💬
 Source: **[/r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 
 If you have any suggestions, changes or questions feel free to join us on [Divolt](https://redd.it/uto5vw) ♡
