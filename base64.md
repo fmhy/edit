@@ -1345,3 +1345,9 @@ pass: paluch
 #### Charles Activate
 
 `aHR0cHM6Ly93d3cuenp6bW9kZS5jb20vbXl0b29scy9jaGFybGVzLw==`
+
+***
+
+#### Malwarebytes Prem
+
+`aHR0cHM6Ly9yZW50cnkuY28vTUItUHJlbWl1bQ==`
