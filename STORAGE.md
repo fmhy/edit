@@ -178,7 +178,7 @@
 
 #### Antivirus
 
-* ⭐ **[Malwarebytes](https://github.com/fmhy/FMHYedit/blob/main/base64.md#malwarebytes-prem)** / [Unlimited Trials](https://rentry.co/mbforever)
+* ⭐ **[Malwarebytes Premiuim](https://github.com/fmhy/FMHYedit/blob/main/base64.md#malwarebytes-prem)** / [Unlimited Trials](https://rentry.co/mbforever)
 
 [Hitman Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#hitman-pro), [Adaware Antivirus](https://www.adaware.com/free-antivirus-download), [Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/), [Immunet](https://www.immunet.com), [MalwareScanner](https://github.com/password123456/malwarescanner), [EsetKeyRobot](https://t.me/EsetKeyRobot), [ClamAV](https://www.clamav.net/)
 
