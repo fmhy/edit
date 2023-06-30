@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/dfRkbZb)** - For mobile users
+**[Table of Contents](https://ibb.co/DpX2qvn)** - For mobile users
 
 ***
 ***
@@ -959,6 +959,15 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 **SkyNet**
 
 [Skynet](https://skydrain.net/), [2](https://siasky.net/)
+
+***
+
+#### Font Sites
+
+* ⭐ **[Font Drives](https://github.com/nbats/FMHYedit/blob/main/base64.md#font-collections)**
+* [Coollabs](https://fonts.coollabs.io/) - Google Font Alternative / [GitHub](https://github.com/coollabsio/fonts)
+
+[DaFont](https://www.dafont.com/), [graphicex](https://graphicex.com/font/), [FontSpace](https://www.fontspace.com/), [Google Fonts](https://fonts.google.com/), [Font Store](https://t.me/fontsstore), [Dafont Free](https://www.dafontfree.net/), [NetFontes](https://www.netfontes.com.br/), [Windows Fonts](https://wfonts.com/), [DotColon](http://dotcolon.net/), [FONToMASS](https://m.vk.com/topic-178186634_39300099?offset=0), [Font Squirrel](https://www.fontsquirrel.com/), [Free Fonts Family](https://freefontsfamily.com/), [Graphic Design Masterlist](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk) , [Velvetyne](https://velvetyne.fr/), [FontsHub](https://fontshub.pro/), [CandyFonts](https://candyfonts.com/), [Font Library](https://fontlibrary.org/), [The League of Movable Type](https://www.theleagueofmoveabletype.com/), [Lost Type Co-op](http://losttype.com/), [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts), [Fonts Brick](https://brick.im/fonts/), [d_fonts](https://t.me/d_fonts), [FreeFontss](https://t.me/freefontss), [iFonts](https://ifonts.xyz/), [Cufon Fonts](https://www.cufonfonts.com/), [Fontsly](https://fontsly.com/), [FontsArena](https://fontsarena.com/), [nomail](https://nomail.com.ua/), [fonteseletras](https://www.fonteseletras.com/), [LostType](http://www.losttype.com/), [BoldFonts](https://boldfonts.com/), [CoFonts](https://cofonts.com/), [FontsFree](https://fontsfree.net), [FontReach](https://www.fontreach.com/), [DownloadFonts](https://www.downloadfonts.io/), [UrbanFonts](https://www.urbanfonts.com/), [AbstractFonts](https://www.abstractfonts.com/), [FontGet](https://www.fontget.com/), [FontSupply](https://www.fontsupply.com/), [FontINeed](https://fontineed.com/), [BlogFonts](https://blogfonts.com/), [1.5_million_font_files_collection](https://archive.org/details/1.5_million_font_files_collection), [FontCubes](http://www.fontcubes.com/) , [AllFreeFont](http://www.allfreefont.com/), [BigFontSite](https://bigfontsite.com/), [FontCab](http://www.fontcab.com/), [Martian Mono](https://github.com/evilmartians/mono), [Dribbble](https://dribbble.com/search/free%20font), [Fonts2u](https://fonts2u.com/), [dsg4](http://www.dsg4.com/04/extra/bitmap/index.html), [KevinandAmanda](https://www.kevinandamanda.com/lifestyle/crafts-projects/free-fonts/), [GlukFonts](http://www.glukfonts.pl/fonts.php), [Iconian](http://www.iconian.com/), [Beautiful Web Type](https://beautifulwebtype.com/), [fontfabric](https://www.fontfabric.com/free-fonts/), [HighFonts](https://highfonts.com/category/free/), [FontsGeek](https://fontsgeek.com/), [FreeFontsDownload](https://freefontsdownload.net/), [CopyFonts](https://copyfonts.com/), [FontPark](https://fontpark.com/), [FFonts](https://www.ffonts.net/), [Fontke](https://eng.fontke.com/font/), [FontRepo](https://www.fontrepo.com/), [Fontlot](https://fontlot.com/), [FreeBestFonts](https://www.freebestfonts.com/), [FontsMarket](https://www.fontsmarket.com/), [Fonts4Free](https://www.fonts4free.net/), [paid fonts for free](https://t.me/squaxfonts), [Mr.E-Fonts](https://archive.org/details/Mr.E-Fonts), [TypeType](https://typetype.org/freefonts/), [SimplyTheBest](https://simplythebest.net/fonts/), [BeFonts](https://befonts.com/), [BonusTutorials](https://bonstutoriais.com.br/category/fontes-gratis/), [Awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/), [FontFabric](https://www.fontfabric.com/fonts/), [MaisFontes](https://en.maisfontes.com/), [World of Fonts](https://w.itch.io/world-of-fonts), [BestFonts](https://bestfonts.pro/), [psd_fonts](https://vk.com/psd_fonts), [1001 Fonts](https://www.1001fonts.com/), [1001 Free Fonts](https://www.1001freefonts.com/)
 
 ***
 
