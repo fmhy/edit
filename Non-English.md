@@ -301,7 +301,7 @@
 * [linovelib](https://www.linovelib.com/) - Light-Novels
 * [lightnovel.us](https://www.lightnovel.us/) - Light-Novels
 * [txt900](https://www.txt990.org/) - Light-Novels
-* [69shu](ttps://www.69shu.com) - Light-Novels
+* [69shu](https://www.69shu.com) - Light-Novels
 * [Zongheng](https://www.zongheng.com/) - Light-Novels
 * [Bixiange](https://www.bixiange.top/) - Light-Novels
 * [118book](https://www.118book.com/) - Light-Novels
@@ -338,11 +338,9 @@
 
 * [War-Forum](http://war-forum.net/) - Video / Audio / Software / Games / Books / Magazines / Comics / NSFW
 * [WarezCenter](https://warcenter.cz/) - Video / Audio / Software / Games / Books / Android / NSFW
-* [GigaWarez](https://giga-warez.forumczech.com/) - Video / Audio / Games / Software
 
 ## ▷ Torrenting
 
-* [GigaWarez](https://giga-warez.forumczech.com/) - Video / Audio / Games / Software
 * [hd-cztorrent](http://www.hd-cztorrent.cz/) - Video / Audio / Software / Games / NSFW
 
 ## ▷ Streaming
@@ -355,7 +353,6 @@
 
 ## ▷ Streaming
 
-* [FilmCentralen](https://filmcentralen.dk/) - Movies
 * [DR.DK](https://www.dr.dk/) - Movies / TV / Live
 
 ***
@@ -1085,7 +1082,6 @@
 * [iiTV](https://iitv.info/) - TV / Cartoons
 * [OpenClip](http://openclip.info/) - Movies / TV / Anime
 * [Shinden](https://shinden.pl/) - Anime / [Discord](https://discord.gg/xyH5uS6)
-* [wbijam](https://wbijam.pl/) - Anime
 * [Anime Odcinki](https://anime-odcinki.pl/) - Anime
 * [FilmPolski](https://filmpolski.pl/fp/index.php) - Polish Video Archive
 
