@@ -485,7 +485,7 @@
 * ⭐ **[JourneyPlan](https://journeyplan.co)** or [TripNotes](https://tripnotes.ai/) - Trip Planning AIs
 * ⭐ **[Borderless](https://borderless.safetywing.com/)** - Travel Restrictions Guide
 * ⭐ **[MapChecking](https://www.mapchecking.com/)** - Crowd Size Estimation
-* [Gas Price Map](https://www.gasbuddy.com/gaspricemap) - US Gas Prices
+* ⭐ **[Gas Price Map](https://www.gasbuddy.com/gaspricemap)** - US Gas Prices
 * [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](https://www.radarbox.com/) or [FlightAware](http://flightaware.com/) - Live Flight Tracker 
 * [plane-notify](https://github.com/Jxck-S/plane-notify) - Plane Takeoff Notifications
 * [FlightConnections](https://www.flightconnections.com/) - Interactive Flight Routes
@@ -617,95 +617,15 @@
 
 # ►  Fonts
 
-* ⭐ **[How to Download Fonts](https://redd.it/8tqfg6)**
-* ⭐ **[Font Collections](https://github.com/nbats/FMHYedit/blob/main/base64.md#font-collections)** - Font Drives
+* ⭐ **[Font Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_font_sites)**
+* ⭐ **[Font Download Guide](https://redd.it/8tqfg6)**
 * ⭐ **[Unicode Font Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_unicode_font_generators)** - Generate Typed Text Fonts
+* ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www10.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](http://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generator
+* ⭐ **[WhatTheFont](https://www.myfonts.com/WhatTheFont/)**, [Identifont](http://www.identifont.com/), [WhatFont](http://www.chengyinliu.com/whatfont.html) or [What Font Is](https://www.whatfontis.com/) - Font Identification Tools
 * [DS Fusion](https://ds-fusion.github.io/) - AI Typography Generator
 * [Formito](https://formito.com/tools/logo) - Typography Logo Maker
-* [DaFont](https://www.dafont.com/)
-* [graphicex](https://graphicex.com/font/)
-* [FontSpace](https://www.fontspace.com/)
-* [Google Fonts](https://fonts.google.com/)
-* [Coollabs](https://fonts.coollabs.io/) - Google Font Alternative / [GitHub](https://github.com/coollabsio/fonts)
-* [Font Store](https://t.me/fontsstore)
-* [Dafont Free](https://www.dafontfree.net/)
-* [NetFontes](https://www.netfontes.com.br/)
-* [Windows Fonts](https://wfonts.com/)
-* [DotColon](http://dotcolon.net/)
-* [FONToMASS](https://m.vk.com/topic-178186634_39300099?offset=0)
-* [Font Squirrel](https://www.fontsquirrel.com/)
-* [Free Fonts Family](https://freefontsfamily.com/)
-* [Graphic Design Masterlist](https://docs.google.com/document/d/179VI9QjVICyS3KVQ4i5fdEQmE1U45Xhq64TNb9QUmRk/edit?usp=drivesdk) 
-* [Velvetyne](https://velvetyne.fr/)
-* [FontsHub](https://fontshub.pro/)
-* [CandyFonts](https://candyfonts.com/)
-* [Font Library](https://fontlibrary.org/)
-* [The League of Movable Type](https://www.theleagueofmoveabletype.com/)
-* [Lost Type Co-op](http://losttype.com/)
-* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
-* [Fonts Brick](https://brick.im/fonts/)
-* [d_fonts](https://t.me/d_fonts)
-* [FreeFontss](https://t.me/freefontss)
-* [iFonts](https://ifonts.xyz/)
-* [Cufon Fonts](https://www.cufonfonts.com/)
-* [Fontsly](https://fontsly.com/)
-* [FontsArena](https://fontsarena.com/)
-* [nomail](https://nomail.com.ua/)
-* [fonteseletras](https://www.fonteseletras.com/)
-* [LostType](http://www.losttype.com/)
-* [BoldFonts](https://boldfonts.com/)
-* [CoFonts](https://cofonts.com/)
-* [FontsFree](https://fontsfree.net) 
-* [FontReach](https://www.fontreach.com/)
-* [DownloadFonts](https://www.downloadfonts.io/)
-* [UrbanFonts](https://www.urbanfonts.com/)
-* [AbstractFonts](https://www.abstractfonts.com/)
-* [FontGet](https://www.fontget.com/)
-* [FontSupply](https://www.fontsupply.com/)
-* [FontINeed](https://fontineed.com/)
-* [BlogFonts](https://blogfonts.com/)
-* [1.5_million_font_files_collection](https://archive.org/details/1.5_million_font_files_collection)
-* [FontCubes](http://www.fontcubes.com/) 
-* [AllFreeFont](http://www.allfreefont.com/)
-* [BigFontSite](https://bigfontsite.com/)
-* [FontCab](http://www.fontcab.com/)
-* [Martian Mono](https://github.com/evilmartians/mono)
-* [Dribbble](https://dribbble.com/search/free%20font)
-* [Fonts2u](https://fonts2u.com/)
-* [dsg4](http://www.dsg4.com/04/extra/bitmap/index.html)
-* [KevinandAmanda](https://www.kevinandamanda.com/lifestyle/crafts-projects/free-fonts/)
-* [GlukFonts](http://www.glukfonts.pl/fonts.php)
-* [Iconian](http://www.iconian.com/)
-* [Beautiful Web Type](https://beautifulwebtype.com/)
-* [fontfabric](https://www.fontfabric.com/free-fonts/)
-* [HighFonts](https://highfonts.com/category/free/)
-* [FontsGeek](https://fontsgeek.com/)
-* [FreeFontsDownload](https://freefontsdownload.net/)
-* [CopyFonts](https://copyfonts.com/)
-* [FontPark](https://fontpark.com/)
-* [FFonts](https://www.ffonts.net/)
-* [Fontke](https://eng.fontke.com/font/)
-* [FontRepo](https://www.fontrepo.com/)
-* [Fontlot](https://fontlot.com/)
-* [FreeBestFonts](https://www.freebestfonts.com/)
-* [FontsMarket](https://www.fontsmarket.com/)
-* [Fonts4Free](https://www.fonts4free.net/)
-* [paid fonts for free](https://t.me/squaxfonts)
-* [Mr.E-Fonts](https://archive.org/details/Mr.E-Fonts)
-* [TypeType](https://typetype.org/freefonts/)
-* [SimplyTheBest](https://simplythebest.net/fonts/)
-* [BeFonts](https://befonts.com/)
-* [BonusTutorials](https://bonstutoriais.com.br/category/fontes-gratis/)
-* [Awwwards](https://www.awwwards.com/awwwards/collections/free-fonts/)
-* [FontFabric](https://www.fontfabric.com/fonts/)
-* [MaisFontes](https://en.maisfontes.com/) 
-* [World of Fonts](https://w.itch.io/world-of-fonts)
-* [BestFonts](https://bestfonts.pro/)
-* [psd_fonts](https://vk.com/psd_fonts)
-* [1001 Fonts](https://www.1001fonts.com/)
-* [1001 Free Fonts](https://www.1001freefonts.com/)
-* [FontFlipper](https://fontflipper.com/) - Add text to images
-* [enFont](https://enfont.javierarce.com/) or [Fontstruct](https://fontstruct.com/) - Custom Font Creators
+* [FontFlipper](https://fontflipper.com/) - Add Text to images
+* [enFont](https://enfont.javierarce.com/), [Calligraphr](https://www.calligraphr.com/en/) or [Fontstruct](https://fontstruct.com/) - Custom Font Creators
 * [Phase](https://www.eliashanzer.com/phase/) - Variable Fonts Generator
 * [V-Fonts](https://v-fonts.com/) - Variable Fonts Tester
 * [Fontjoy](https://experiments.withgoogle.com/fontjoy) - Generate Font Combinations
@@ -713,7 +633,6 @@
 * [Textcraft](https://textcraft.net/) or [TextDrom](https://en.textdrom.com/) - Styled Font Generator
 * [Cava's Pixel Resources](https://caveras.net/) - Pixel Fonts
 * [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - Oldschool PC Fonts
-* [Make WordArt](https://www.makewordart.com/), [FlameText](https://www10.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](http://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generator
 * [Textanim](https://textanim.com/) or [Space Type Generator](https://spacetypegenerator.com/) - Animated Text Generator 
 * [3DText2GIF](https://3dtext2gif.com/) or [TextsStudio](https://textstudio.co/) - Animated 3D Text Generator
 * [Batname](https://batname.vercel.app/) - Batman (2022) Font Generator
@@ -729,12 +648,10 @@
 * [Picas](https://picas.vercel.app/) - Google Font Logo Generator
 * [Bitfontmaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitFont Creator
 * [FontJoy](https://fontjoy.com/) - Font Pairings Generator
-* [WhatTheFont](https://www.myfonts.com/WhatTheFont/), [Identifont](http://www.identifont.com/), [WhatFont](http://www.chengyinliu.com/whatfont.html) or [What Font Is](https://www.whatfontis.com/) - Font Identification Tools
 * [Typerip](http://badnoise.net/TypeRip/) - Adobe Font Ripper / [GitHub](https://github.com/CodeZombie/TypeRip)
 * [Nerd Fonts](https://www.nerdfonts.com/) - Iconic Font Aggregator
 * [FontEdit](https://github.com/ayoy/fontedit), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/) or [Font Forge](https://fontforge.org/en-US/) - Font Editor 
 * [Transfonter](https://transfonter.org/) - Font Converter
-* [Calligraphr](https://www.calligraphr.com/en/) - Create Your Own Fonts 
 * [FontBase](https://fontba.se/) or [Xiles](https://www.xiles.app/) - Font Manager
 * [Font List](https://wavian.com/font-list.html) - Examples of Font Styles
 
