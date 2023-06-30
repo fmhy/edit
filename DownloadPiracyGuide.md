@@ -295,7 +295,7 @@
 
 ## ▷ Indexers
 
-* ⭐ **[Nero's Black Book](https://nerosbb.com/)** or [Indexer List](https://www.reddit.com/r/usenet/wiki/indexers#wiki_free_membership_sites) - Indexer List
+* [Indexer List](https://www.reddit.com/r/usenet/wiki/indexers#wiki_free_membership_sites) - Indexer List
 * [NZBHydra2](https://github.com/theotherp/nzbhydra2) / [2](https://github.com/theotherp/nzbhydra) - NZB Meta search
 * [nzbplanet](https://nzbplanet.net/)
 * [orionoid](https://orionoid.com/)
@@ -323,7 +323,7 @@
 
 ## ▷ Providers
 
-* ⭐ **[Nero's Black Book](https://nerosbb.com/)** or [/r/usenet Providers](https://www.reddit.com/r/usenet/wiki/providers) - Provider Lists
+* [/r/usenet Providers](https://www.reddit.com/r/usenet/wiki/providers) - Provider Lists
 * [usenetmax](https://www.usenetmax.com/)
 * [xsusenet](https://xsusenet.com/)
 * [usenet.farm](https://usenet.farm/#trial)
