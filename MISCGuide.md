@@ -374,7 +374,6 @@
 * ⭐ **[Awesome Health](https://github.com/lalaithan/awesome-health)** - Health Resources Index
 * ⭐ **[Health News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_health_news)** - Health News Sites
 * ⭐ **[/r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
-* ⭐ **[MyPlate](https://www.myplate.gov/)** - Food Pyramid
 * ⭐ **[Food Nutrition / Ingredients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nutrition_.2F_ingredients)** - Search / Scan Food for its Ingredients
 * ⭐ **[Caffeine Calculator](https://caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
 * ⭐ **[Dehydration Chart](https://i.ibb.co/b3YxZzr/921f6c843cf0.png)** - Dehydration Color Chart
