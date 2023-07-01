@@ -80,7 +80,7 @@
 
 ### [Fake Z-Lib Sites](https://i.imgur.com/z4Ku77B.png)
 
-### [Fake KMS Activators](https://i.imgur.com/Lv2FYbw.png)
+### [Fake Windows Activators](https://i.imgur.com/Lv2FYbw.png)
 
 ***
 
