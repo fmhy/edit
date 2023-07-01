@@ -80,6 +80,8 @@
 
 ### [Fake Z-Lib Sites](https://i.imgur.com/z4Ku77B.png)
 
+### [Fake KMS Activators](https://i.imgur.com/Lv2FYbw.png)
+
 ***
 
 ### [Adblock Filter List](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw)
