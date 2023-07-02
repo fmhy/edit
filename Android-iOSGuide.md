@@ -1002,8 +1002,7 @@
 * [Fantastical](https://apps.apple.com/app/fantastical-2-for-iphone/id718043190?ls=1) - Calendar / Tasks App
 * [NoMoreSmallApps](https://www.sparkdev.me/package/com.spark.nomoresmallapps) - Force App Full Screen / [Discord](https://discord.com/invite/tvvJfbD)
 * [Sigma](https://apps.apple.com/us/app/sigma-your-feeds-united/id1594702352) - Combine Social Media Apps
-* [InsightBrowser](https://insightbrowser.com/) or [Asobi](https://github.com/bdashore3/Asobi) - Browsers
-* [Gear4](https://gear4.app/) - Browser
+* [InsightBrowser](https://insightbrowser.com/), [Gear4](https://gear4.app/) or [Asobi](https://github.com/bdashore3/Asobi) - Browsers
 * [Kagi](https://apps.apple.com/us/app/kagi/id1484498200) or [Orion](https://testflight.apple.com/join/DeC8ZDnu) - Browser w/ Firefox & Chrome Extension Support
 * [iRetro](https://apps.apple.com/us/app/iretro-the-internet-browser/id1015692776) - Browser w/ Wayback Machine
 * [Lights Off](https://testflight.apple.com/join/pj7BWqeJ) - iOS Safari Dark Mode
