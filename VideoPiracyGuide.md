@@ -163,7 +163,7 @@
 * [Moviehab](https://moviehab.asia/) - Movies / TV
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [WarezCDN](https://warezcdn.com/) - Movies / TV / Anime / API
-* [DBGO](https://dbgo.fun/) - Movies / TV / Anime / [Content List](https://dbgo.fun/list.php) / API
+* [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
 * [123movies](https://api.123movie.cc/) - Movies / TV / Anime / API
 * [VidSrc](https://vidsrc.me/) - Movies / TV / Anime / API
 * [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) or [FileStreamBot](https://github.com/adarsh-goel/filestreambot) - Telegram File Streaming
