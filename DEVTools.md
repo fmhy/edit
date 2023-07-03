@@ -145,7 +145,7 @@
 
 ## ▷ App Development
 
-* [Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)
+* ⭐ **[Android Developer Roadmap](https://github.com/skydoves/android-developer-roadmap)**
 * [developers](https://developer.android.com/courses) - App Dev Courses
 * [Mobile Design Resources](https://github.com/josephgoksu/mobile-design-resources) - App Design Learning Resources
 * [LearnCS](https://www.learncs.online/lessons) - Lean Java/Kotlin
