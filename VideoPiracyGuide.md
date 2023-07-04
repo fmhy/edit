@@ -355,6 +355,7 @@
 * [ChiaAnime](https://chia-anime.su/) - Sub / 1080p
 * [AnimeGo](https://reddit.animekisa.to/) - Sub / Dub / 1080p
 * [AnimeFox](https://animefox.in/)  - Sub / Dub / 1080p
+* [AnimeZia](https://www.animezia.com/) - Sub / Dub / 1080p / [Telegram](https://telegram.dog/anime_complex) 
 * [NAnime](https://www.nanime.one/) - Sub / Dub / 1080p
 * [ChiaAnime.cc](https://chia-anime.cc/) - Sub / 1080p
 * [BestDubbedAnime](https://bestdubbedanime.com/) - Dub / 1080p / [Discord](https://discord.com/invite/f2pHvauUPu)
