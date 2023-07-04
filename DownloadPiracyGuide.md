@@ -180,7 +180,6 @@
 * [RetroSystemRevival](https://retrosystemsrevival.blogspot.com/)
 * [SamLab](https://samlab.ws/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ
-* [AIOsetup](https://t.me/aiosetup) - Telegram
 * [Libreware](https://t.me/Libreware) - Telegram
 * [Computer Softwares](https://t.me/Computer_Softwares_Games_Windows) - Telegram
 * [PC Cracked Software](https://t.me/pc_cracked_softwares) - Telegram
@@ -345,7 +344,6 @@
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Send Premium Files to Leeches
 * [RapidGrab](https://rapidgrab.pl/) - Leech
 * [Newscon](https://www.newscon.net/d1/) - Leech
-* [OkDebrid](https://okdebrid.com/) - Leech
 
 ***
 
