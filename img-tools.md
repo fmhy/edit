@@ -205,7 +205,7 @@
 ## ▷ GIF Tools
 
 * ⭐ **[Awesome GIF](https://github.com/davisonio/awesome-gif)** - GIF Resource Index
-* [Giphy](https://giphy.com/), [gfycat](https://gfycat.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://gifcities.org/), [LottieFiles](https://lottiefiles.com/), [reactiongifs](https://www.reactiongifs.us/), [reactiongifs](https://reactiongifs.me/), [gif-finder](https://gif-finder.com/), [reactiongifs](http://www.reactiongifs.com/), [bestanimations](https://bestanimations.com/), [Animations](https://bleuje.com/animationsite/), [GIFBin](https://gifbin.com/), [ForGIFs](http://forgifs.com/) or [Animated Images](https://www.animatedimages.org/) - View / Download GIFs 
+* [Giphy](https://giphy.com/), [Gifer](https://gifer.com/en), [Curlie GIFs](https://curlie.org/en/Computers/Graphics/Web/Free/Animated_GIFs), [GIFs Paradise](https://www.gifs-paradise.com/), [GifCities](https://gifcities.org/), [LottieFiles](https://lottiefiles.com/), [reactiongifs](https://www.reactiongifs.us/), [reactiongifs](https://reactiongifs.me/), [gif-finder](https://gif-finder.com/), [reactiongifs](http://www.reactiongifs.com/), [bestanimations](https://bestanimations.com/), [Animations](https://bleuje.com/animationsite/), [GIFBin](https://gifbin.com/), [ForGIFs](http://forgifs.com/) or [Animated Images](https://www.animatedimages.org/) - View / Download GIFs 
 * [/r/HighQualityAnimeGifs](https://www.reddit.com/r/HighQualityAnimeGifs/) or [/r/animegifs](https://www.reddit.com/r/animegifs/) -  View / Download Anime GIFs 
 * [Glittereyez](http://ge.silentears.net/) - Glitter GIFs
 * [Online GIF Tools](https://onlinegiftools.com/) - GIF Tools
