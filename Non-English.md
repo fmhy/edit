@@ -416,6 +416,7 @@
 
 ## ▷ Torrenting
 
+* [YggTorrent](https://ww3.yggtorrent.si/) - Video / Audio / Roms / Software / Books / Android / Comics
 * [Torrent9](https://www.torrent9.fm/), [2](https://www.torrent9.site/), [3](https://torrent9.app/), [4](https://ww2.torrentz9.fr/) - Video / Audio / Software / Games / Roms / Books
 * [Torrent911](https://www.torrent911.ws/)  - Video / Audio / Software / Games / Roms / Books
 * [OxTorrent](https://oxtorrents.co/) - Video / Audio / Software / Games / Roms / Books
