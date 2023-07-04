@@ -1048,7 +1048,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### GDrive File Sharing
 
 * https://filepress.click/
-* https://new1.gdtot.sbs/
 * https://new1.gdtot.cfd/
 * https://appdrive.me/
 * https://driveapp.in/
