@@ -944,6 +944,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[SyncThing](https://syncthing.net/)**
 * ⭐ **[Snapdrop](https://snapdrop.net/)** / [Instances](https://github.com/RobinLinus/snapdrop/blob/master/docs/faq.md#inofficial-instances) or [pairdrop](https://pairdrop.net/)
 * ⭐ **[ToffeeShare](https://toffeeshare.com/)**
+* ⭐ **[Transfer.sh](https://transfer.sh/)**
 * ⭐ **[Blaze](https://blaze.vercel.app/)** / [GitHub](https://github.com/blenderskool/blaze)
 * ⭐ **[aQRoss](https://aqross.app/)** - Share Files via QR Codes
 
@@ -1354,6 +1355,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### Linux Distros
 
 * ⭐ **[Linux Difficulty Chart](https://i.ibb.co/kXJdBrF/98e87fc317dd.png)**
+* ⭐ **[Beginner Distros](https://ash.fail/distros.html)**
 * ⭐ **[DistroChooser](https://distrochooser.de/)** or [Fushra](https://distros.fushra.com/)
 * ⭐ **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)**
 * ⭐ **[Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux)**
@@ -2082,7 +2084,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Custom QR Code Generators**
 
-[My-Qr.art](https://my-qr.art/), [QRpicture](https://www.qrpicture.com/), [qrcode-generator](https://www.logodesign.net/qrcode-generator), [qart.js](https://kciter.so/qart.js/)
+[My-Qr.art](https://my-qr.art/), [QRpicture](https://www.qrpicture.com/), [qrcode-generator](https://www.logodesign.net/qrcode-generator), [qart.js](https://kciter.so/qart.js/), [QR-code-AI-art-generator](https://huggingface.co/spaces/huggingface-projects/QR-code-AI-art-generator)
 
 ***
 
