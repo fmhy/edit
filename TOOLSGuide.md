@@ -39,7 +39,7 @@
 * [FlipClockWeb](https://flipclock.tk/), [TheColourClock](http://thecolourclock.com/), [FlipClocker](https://flipclocker.com/) or [HexClock](https://www.jacopocolo.com/hexclock/) - Fullscreen Clocks
 * [Epoch Converter](https://www.epochconverter.com/) - Epoch / Unix Timestamp Conversion Tools
 * [How Many Days Since](http://howmanydayssince.net/), [DateTimeCalculator](https://datetimecalculator.net/calculators), [CalcuDater](https://calcudater.com/), [HowLongAgoGo](https://howlongagogo.com/), [Days.to](https://days.to/) or [How Many Days Until](https://howmanydaysuntil.co/) - Time / Date Calculators
-* [e.gg Timer](https://e.ggtimer.com/), [Pomolectron](https://github.com/amitmerchant1990/pomolectron), [Pomodoro Kitty](https://pomodorokitty.com/), [Pomodor](https://pomodor.app/timer), [Aesthetic Pomodoro](https://studywithme.io/aesthetic-pomodoro-timer/) or [Juicy Timer](https://juicytimer.com/) - Timers
+* [e.gg Timer](https://e.ggtimer.com/), [Pomolectron](https://github.com/amitmerchant1990/pomolectron), [Pomodoro Kitty](https://pomodorokitty.com/), [Pomodor](https://pomodor.app/timer), [Hourglass](https://chris.dziemborowicz.com/apps/hourglass/), [Aesthetic Pomodoro](https://studywithme.io/aesthetic-pomodoro-timer/) or [Juicy Timer](https://juicytimer.com/) - Timers
 * [StageTimer](https://stagetimer.io/) - Event Timer
 * [SetAlarmClock](https://setalarmclock.net/) or [AlarmDJ](https://alarmdj.com/) - Online Alarm Clocks
 * [Countdowns](https://www.countdowns.live/) - Create Custom Countdowns
@@ -501,7 +501,7 @@
 * [dumb](https://github.com/rramiachraf/dumb) - Genius Lyrics Frontend
 * [Whisper](https://github.com/openai/whisper) or [Vosk](https://github.com/alphacep/vosk-api) - Speech Recognition
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Soundux](https://soundux.rocks/) / [GitHub](https://github.com/Soundux/Soundux) or [Resanance](https://resanance.com/) - Soundboard Program
-* [MyInstants](https://www.myinstants.com/index/us/), [InternetsFun](https://instantsfun.es/), [101soundboards](https://www.101soundboards.com/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboards
+* [MyInstants](https://www.myinstants.com/index/us/), [Blerp](https://blerp.com/), [InternetsFun](https://instantsfun.es/), [101soundboards](https://www.101soundboards.com/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboards
 * [Soundpad](https://www.leppsoft.com/soundpad/) - Voicechat Soundboard
 * [TimeStetch](https://29a.ch/timestretch/) - Web Music Player
 * [iPod.js](https://tannerv.com/ipod/) - iPod Themed Web Music Player
@@ -1762,7 +1762,6 @@ Twitch Stream Tracker
 * ⭐ **[Windows Activators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation)** - Windows Activation Guides / Scripts / [Rentry](https://rentry.co/win-activate)
 * ⭐ **[Windows Optimization](https://rentry.co/mdl-optimize-guide)** - Windows Optimization Guide / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat) / [Resources](https://github.com/BoringBoredom/PC-Optimization-Hub)
 * ⭐ **[Windows Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)** - Windows 10 Debloating Tools
-* ⭐ **[System Monitors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_system_monitors)** - Monitor your System / Hardware
 * ⭐ **[Rufus](https://rufus.ie/)**, [AIO Boot](https://www.aioboot.com/), [UUP](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x) / [2](https://uupdump.net/), [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) or [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) - Create Bootable USB Drives
 * ⭐ **[RDP / VNC Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remote_desktop_clients)** - Control Desktop Remotely
 * ⭐ **[AutoHotkey](https://www.autohotkey.com/)**, [MacroRecorder](https://www.macrorecorder.com/), [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install), [sikulix](http://sikulix.com/), [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) or [AutoIt](https://www.autoitscript.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt) - Task Automation Tools
@@ -1859,6 +1858,7 @@ Twitch Stream Tracker
 ## ▷ Hardware
 
 * ⭐ **[PC Building / Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)** - Compare Systems and Parts
+* ⭐ **[Hardware Monitors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_system_monitors)** - Monitor your System / Hardware
 * ⭐ **[Gaming Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_optimization_tools)** - Gaming Hardware Optimization Tools
 * ⭐ **[GreenWithEnvy](https://gitlab.com/leinardi/gwe)** - Manage / Control NVIDIA Cards
 * ⭐ **[NVCleanInstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)** or [NVSlimmer](https://www.majorgeeks.com/files/details/nvslimmer.html) - NVIDIA Driver Packages / [Install Guide](https://rentry.co/NVCleanInstall)
