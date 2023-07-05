@@ -403,6 +403,7 @@
 * [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)
 * [GDrive KDrama](https://databasegdriveplayer.co/drama.php) - TV / Movies
 * [AsianCrush](https://www.asiancrush.com/) - TV / Movies
+* [KissKH](https://kisskh.co/) - TV
 * [icdrama](http://www1.hkdrama.to/) - TV / Movies
 * [ivdrama](https://ivdrama.me/) - TV / Movies
 * [NewTVDrama](https://www.newtvdrama.com/) - TV / Movies
@@ -414,6 +415,7 @@
 * [AsianMovies](https://asiansmovies.com/) - Movies
 * [KissTVShow](https://kisstvshow.to/) - TV
 * [MyAsianTV](https://myasiantv.cx/) - TV / Movies
+* [OneTouchTV](https://onetouchtv.me/) - TV / Movies
 * [OFWShow](https://ofwshow.ru/list/engsub/) - TV / Movies
 * [viewasian](https://viewasian.co/) - TV / Movies 
 * [NewAsianTV](https://www2.newasiantv.pro/) - TV / Movies
@@ -658,9 +660,11 @@
 * [weeFilm](https://www.weefilm.live/) - Movies / TV / Anime / 480p
 * [Naijavault](https://www.naijavault.com/) - Movies / TV / 480p
 * [KimoiTV](https://www.kimoitv.com/) - Movies / TV / Anime / 360p
-* [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - Cartoons 
+* [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - Cartoons
+* [KMDL](https://github.com/fmhy/FMHYedit/blob/main/base64.md#kmdl) - Asian Drama / 1080p
+* [Sinflix](https://github.com/fmhy/FMHYedit/blob/main/base64.md#sinflix) - Asian Drama / 1080p
+* [CondensedAudioCatalog](https://condensedaudiocatalog.com/) - Asian Drama / 1080p
 * [DoraMax264](https://doramax264.com/) - Asian Drama / 480p
-* [CondensedAudioCatalog](https://condensedaudiocatalog.com/) - Asian Drama
 * [Toku.fun](https://toku.fun/) - Japanese Superhero Movies / 360p
 * [Jackass Vault](https://discord.gg/ZH5MjcKmJJ) - Jackass Media
 * [General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "video"
@@ -769,6 +773,7 @@
 * [Bobarr](https://github.com/iam4x/bobarr) or [Nefarious](https://github.com/lardbit/nefarious) - Movie / TV autodownload / [Discord](https://discord.gg/PFwM4zk)
 * [SickChill](https://sickchill.github.io/) / [GitHub](https://github.com/SickChill/SickChill) or [CouchPotato](https://couchpota.to/) - Automatic Torrent / NZB Searching, Downloading & Processing
 * [wt](https://github.com/DegenCoden/wt), [GMDB](https://github.com/Dentrax/GMDB), [PeerFlix](https://github.com/mafintosh/peerflix) / [Server](https://github.com/asapach/peerflix-server) - Torrent Streaming CLIs
+* [Autosearch Extension](https://github.com/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension) - Sonarr/Radarr/Lidarr Autosearch Extension
 * [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - Stream Torrents in VLC
 * [webtorrent-mpv-hook](https://github.com/mrxdst/webtorrent-mpv-hook) - Stream Torrents in MPV
 * [PepperTorrent](https://github.com/husnuljahneer/PepperTorrent) - Discord Torrent Bot
