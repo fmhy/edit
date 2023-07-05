@@ -1127,7 +1127,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 **Extensions**
 
-[shorts-deflector](https://addons.mozilla.org/en-US/firefox/addon/shorts-deflector/) or [youtube-shorts-block](https://github.com/doma-itachi/Youtube-shorts-block)
+[shorts-deflector](https://addons.mozilla.org/en-US/firefox/addon/shorts-deflector/), [Remove YouTube Shorts](https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-shorts/) or [youtube-shorts-block](https://github.com/doma-itachi/Youtube-shorts-block)
 
 **Scripts**
 
@@ -1550,6 +1550,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** /  [App](https://forum.mobilism.org/app/)
 * ⭐ **[FileCR](https://filecr.com/android/)**
+* ⭐ **[Androeed](https://androeed.store/)** / [Telegram](https://t.me/androeed_store)
 * ⭐ **[/r/ApkApps Mega](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)
 
 [TeamOS](https://www.teamos.xyz/), [nsane.down](https://nsaneforums.com/), [RevDl](https://www.revdl.com/), [Sbenny](https://sbenny.com/), [farsroid](https://www.farsroid.com/), [AndroidRepublic](https://androidrepublic.org/), [ApkModsApp](https://apkmodsapp.com/), [Android1](https://an1.com/), [DZAPK](https://dzapk.com/), [PDALife](https://pdalife.com/), [APK Home](https://apkhome.io/), [DL King](http://dl.king2net.com/soft%20android/), [Modding United](https://moddingunited.xyz/) / [Telegram](https://telegram.me/allapkforfree), [APKdownload](https://apkdownload.com/), [AKMods](https://www.akmods.in/), [APKKit](https://apkkit.com/), [modyolo](https://modyolo.com/)
@@ -1558,7 +1559,7 @@ Add the following commands to a search to manually scrape each site.
 
 ⭐ **[Modded Central](https://t.me/+yaL8VGyjS0Q0YTll)** / [Backup](https://t.me/moddedcentralbackup)
 
-[Streamiza](https://t.me/streamiza) / [Discord](https://linktr.ee/Streamiza), [MixRoot Mods](https://t.me/Mixrootmods), [DroidApks](https://t.me/DroidApks), [ModCombo](https://t.me/modcombo_en), [pcandroidsoftware](https://t.me/pcandroidsoftware/), [sserratty_hack](https://t.me/sserratty_hack/), [Glype](https://t.me/Glype) , [alexstranniklite](https://t.me/alexstranniklite), [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL), [ANiK555_Mods](https://t.me/ANiK555_Mods), [AppKaMods](https://t.me/AppKaMods), [Paidapppcsoftware](https://t.me/paidappspcsoftware), [TharakMods](https://t.me/TharakMods), [marioworlds4u](https://t.me/marioworlds4u), [EasyAPK](https://t.me/EasyAPK), [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re), [dumpmods](https://t.me/dumpmods), [faloojein](https://t.me/faloojein), [IC_Mods](https://t.me/IC_Mods), [allapkforfree](https://t.me/allapkforfree), [Moderse](https://t.me/Moderse), [AyraProject](https://t.me/AyraProject), [Modules Repositor](https://t.me/modulesrepo)
+[Streamiza](https://t.me/streamiza) / [Discord](https://linktr.ee/Streamiza), [MixRoot Mods](https://t.me/Mixrootmods), [DroidApks](https://t.me/DroidApks), [ModCombo](https://t.me/modcombo_en), [pcandroidsoftware](https://t.me/pcandroidsoftware/), [sserratty_hack](https://t.me/sserratty_hack/), [Glype](https://t.me/Glype), [alexstranniklite](https://t.me/alexstranniklite), [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL), [ANiK555_Mods](https://t.me/ANiK555_Mods), [AppKaMods](https://t.me/AppKaMods), [Paidapppcsoftware](https://t.me/paidappspcsoftware), [TharakMods](https://t.me/TharakMods), [marioworlds4u](https://t.me/marioworlds4u), [EasyAPK](https://t.me/EasyAPK), [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re), [dumpmods](https://t.me/dumpmods), [faloojein](https://t.me/faloojein), [IC_Mods](https://t.me/IC_Mods), [allapkforfree](https://t.me/allapkforfree), [Moderse](https://t.me/Moderse), [AyraProject](https://t.me/AyraProject), [Modules Repositor](https://t.me/modulesrepo)
 
 ***
 
@@ -1571,7 +1572,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[ATLauncher](https://atlauncher.com/)** / [Crack](https://github.com/Domaman202/ATLauncher-Crack)
 * ⭐ **[PrismLauncher](https://prismlauncher.org/)** / [GitHub](https://github.com/PrismLauncher/PrismLauncher) / [Offline Patch](https://git.sr.ht/~reggie/prismlauncher-offline), [2](https://rentry.co/Prism4Free)
 
-[MultiMC](https://multimc.org/), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/),, [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [Feather Client](https://feathermc.com/) / [Discord](https://discord.com/invite/feather), [GDLauncher](https://gdlauncher.com/), [X Minecraft Launcher](https://xmcl.app/)
+[MultiMC](https://multimc.org/), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [Feather Client](https://feathermc.com/) / [Discord](https://discord.com/invite/feather), [GDLauncher](https://gdlauncher.com/), [X Minecraft Launcher](https://xmcl.app/)
 
 ***
 
@@ -2667,7 +2668,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[HWiNFO](https://www.hwinfo.com/)**
 
-[phwmon](https://gitlab.com/o9000/phwmon), [Netdata](https://www.netdata.cloud/), [bottom](https://github.com/ClementTsang/bottom), [MangoHud](https://github.com/flightlessmango/MangoHud), [OpenHardwareMonitor](https://openhardwaremonitor.org/) / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor), [btop](https://github.com/aristocratos/btop), [Glances](https://nicolargo.github.io/glances/), [Taskbar Stats](https://openhoangnc.github.io/taskbar-stats/), [WinBar](http://www.winbar.nl/), [FanControl](https://getfancontrol.com/) / [Github](https://github.com/Rem0o/FanControl.Releases),[SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics), [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
+[phwmon](https://gitlab.com/o9000/phwmon), [Netdata](https://www.netdata.cloud/), [bottom](https://github.com/ClementTsang/bottom), [MangoHud](https://github.com/flightlessmango/MangoHud), [OpenHardwareMonitor](https://openhardwaremonitor.org/) / [GitHub](https://github.com/openhardwaremonitor/openhardwaremonitor), [btop](https://github.com/aristocratos/btop), [Glances](https://nicolargo.github.io/glances/), [Taskbar Stats](https://openhoangnc.github.io/taskbar-stats/), [WinBar](http://www.winbar.nl/), [FanControl](https://getfancontrol.com/) / [Github](https://github.com/Rem0o/FanControl.Releases),[SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics), [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor), [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
 
 ***
 
