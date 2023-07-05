@@ -1345,3 +1345,9 @@ pass: paluch
 #### Malwarebytes Prem
 
 `aHR0cHM6Ly9yZW50cnkuY28vTUItUHJlbWl1bQ==`
+
+***
+
+#### Sinflix
+
+`aHR0cHM6Ly9yZW50cnkuY28vc2luZmxpeA==`
