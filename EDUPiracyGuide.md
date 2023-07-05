@@ -569,6 +569,7 @@ Simulator
 * [Outside Simulator](https://outsidesimulator.com/) - Simulate Being Outside
 * [Zhijianshang](https://www.zhijianshang.com/) - Explore China in 360VR
 * [Hashima Island](https://www.hashima-island.co.uk/) - Hashima Island Virtual Tour
+* [Smithsonian 3D](https://3d.si.edu/) - Smithsonian 3D Digitization Museum
 
 ***
 
