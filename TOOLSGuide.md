@@ -234,7 +234,7 @@
 * [quipqiup](https://www.quipqiup.com/) or [dCode](https://www.dcode.fr/en) - Cryptogram Solvers
 * [AnagramAssistant](https://keitharm.me/projects/anagramAssistant/) - Anagram Tool 
 * [Just Not Sorry](https://justnotsorry.com/) - Undermining Word Detection
-* [Character / Word Counters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_character_.2F_word_counters) - Character / Word Counters
+* [Character / Word Counters](https://rentry.co/w54ys) - Character / Word Counters
 * [Chinese Text Analyzer](https://dimusic.github.io/chinese-text-analyzer/) - Chinese Character / Word Counter
 * [Gramma](https://caderek.github.io/gramma/) - Command Line Grammar Checker
 * [R2bEEaton's Phonetic Reverser](https://spea.cc/backwards/) or [TextReverse](https://www.textreverse.com/) - Reverse Text 
