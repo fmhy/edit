@@ -145,30 +145,19 @@
 * [TorrentKingNow](https://torrentkingnow.pro/) - Movies
 * [HollyMovieHD](https://hollymoviehd.cc/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime
 * [YMovies](https://ymovies.vip/) - Movies / TV / Anime
-* [CMovies](https://cmovies.so/) - Movies / TV / Anime
-* [5Movies.pw](https://5movies.pw/) - Movies / TV / Anime
 * [FilarMovies](https://filarmovies.com/) - Movies / TV
-* [MovieStars](https://moviestars.to/) or [WinNoise](https://winnoise.com) - Movies / TV / Anime
 * [FreeGreatMovies](https://www.freegreatmovies.com/) - Movies
 * [NetMovies](https://netmovies.to/) - Movies / TV
 * [Kinos](https://www.kinos.to/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Switch Language](https://i.ibb.co/n1Kb14T/64d0fb9444e1.png) (in options)
 * [SolarMovie](https://wwv.solarmovie.one/) - Movies / TV / Anime
-* [GoMovies](https://gomovies.pics/) - Movies / TV
 * [WatchSeries](https://watchseries.cyou/) - Movies / TV
-* [123Movies](https://123movies.sc/) - Movies / TV
-* [123MoviesJR](https://123moviesjr.cc/) - Movies / TV
 * [123Moviesd](https://123moviesd.com/) - Movies / TV
 * [0123movies](https://0123movies.to/) - Movies / TV
-* [Watch0123movies](https://0123movies.ch/) - Movies / TV
-* [Moviehab](https://moviehab.asia/) - Movies / TV
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
-* [WarezCDN](https://warezcdn.com/) - Movies / TV / Anime / API
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
-* [123movies](https://api.123movie.cc/) - Movies / TV / Anime / API
 * [VidSrc](https://vidsrc.me/) - Movies / TV / Anime / API
-* [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) or [FileStreamBot](https://github.com/adarsh-goel/filestreambot) - Telegram File Streaming
-* [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) or [Stream IMDb](https://github.com/4L00/TemperMonkey-Scripts/) - Add Stream Search Buttons to IMDb
-* [Letmewatch](https://letmewatch.app/) - Movies / TV / Extension / [GitHub](https://github.com/AdvithGopinath/LetMeWatch)
+* [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Telegram File Streaming
+* [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) - Add Stream Search Buttons to IMDb
 
 ***
 
@@ -613,7 +602,6 @@
 * [StarsDDL](https://starsddl.me/) - Movies / TV / 1080p
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
 * [FilmDuty](https://filmduty.com/) - Movies / TV / Anime / 1080p
-* [MKV Cage](https://www.mkvcage.site/) - Movies / TV / 1080p
 * [Reqzone](https://reqzone.com/) - Movies / TV / 1080p
 * [MegaDDL](https://megaddl.co/) - Movies / TV / 1080p / Some Paywalled
 * [Best-Movies](https://best-movies.info/) - Movies / TV / 4K
@@ -648,10 +636,8 @@
 * [TV Shows](https://tvshows.me/) - TV / 720p
 * [TVShows.today](https://tvshows.me/) - TV / 720p
 * [TVSBoy](https://tvsboy.com/) - TV / 720p
-* [ULMovies](https://ulmovies.xyz/) - Movies / TV / 720p
 * [nKiri](https://nkiri.com/) - Movies / TV / 720p
 * [O2TVSeriesz](https://o2tvseriesz.com/) - Movies / TV / 720p
-* [MegaUploadAgora](https://www.megauploadagora.com.br/) - Movies / TV / 720p
 * [TodayTVSeries](http://www.todaytvseries2.com/) - TV / 720p
 * [MobileTVShows](https://www.mobiletvshows.net/) - TV / Anime / 480p
 * [TvShows4Mobile](https://tvshows4mobile.com/) - TV / Anime / 480p / [Telegram](https://t.me/o2tvseries_official)
