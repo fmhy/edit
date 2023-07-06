@@ -106,7 +106,6 @@
 
 #### Android Browsers
 
-
 * ⭐ **[Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)** - Debloated FF
 * [Android Browser Wiki](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers), [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers)
 
