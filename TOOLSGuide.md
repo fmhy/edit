@@ -52,7 +52,6 @@
 * [Pick Time](https://pick-time.io/) - Easily Schedule Times with Friends
 * [Office Holidays](https://www.officeholidays.com/) or [Forekast](https://forekast.com/) or [Progress](https://neal.fun/progress/) - Worldwide Event Calendars
 * [wnr](https://getwnr.com/), [Timeblocking](https://timeblocking.atomiclife.app/) or [Timestrap](https://timestrap.bythewood.me/) - Time Management Apps
-* [Creative Commons](https://creativecommons.org/) - Creative Commons Licenses
 * [MyPhone](https://github.com/BestOwl/MyPhone) - Make Calls via Desktop
 * [Free-lookup](https://free-lookup.net/) - Phone # Lookup
 * [tuxi](https://github.com/Bugswriter/tuxi) - Question & Answer CLI
@@ -1654,7 +1653,6 @@ Twitch Stream Tracker
 * [TagGPT](https://tagsgpt.com/) - Hashtag Generator
 * [Buhitter](https://buhitter.com/) - Twitter Illustration Search
 * [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - Download Twitter Videos 
-* [twMediaDownloader](https://github.com/furyutei/twMediaDownloader) - Download Twitter Images
 * [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/) or [SocialBearing](https://socialbearing.com/) - Analyze Twitter Accounts
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
 * [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) - View / Archive Tweets
