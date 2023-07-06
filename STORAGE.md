@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/DpX2qvn)** - For mobile users
+**[Table of Contents](https://ibb.co/VSnHBxf)** - For mobile users
 
 ***
 ***
@@ -366,12 +366,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### Calibre Tools
 
 * [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries), [2](https://reddit.com/r/opencalibre) - [Search](https://www.shodan.io/search?query=server%3A+calibre) / [Web App](https://github.com/janeczku/calibre-web)
-
-***
-
-#### Character / Word Counters
-
-[Sites Compilation](https://rentry.co/bkrro), [Online Character Count Tool](https://www.charactercountonline.com/), [Character Counter](https://charactercounter.com/), [Character Count Tool](https://charactercounttool.com/), [Online Character Count](https://onlinetextedit.com/), [LetterCount](https://www.lettercount.com/), [The Word Counter](https://thewordcounter.com/), [Charcounter](https://charcounter.com/), [Word Counter](https://wordcounter.io/), [Character Counter](https://charactercalculator.com/), [charactercount](https://charactercount.tools/)
 
 ***
 
