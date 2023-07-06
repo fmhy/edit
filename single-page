@@ -145,30 +145,19 @@
 * [TorrentKingNow](https://torrentkingnow.pro/) - Movies
 * [HollyMovieHD](https://hollymoviehd.cc/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime
 * [YMovies](https://ymovies.vip/) - Movies / TV / Anime
-* [CMovies](https://cmovies.so/) - Movies / TV / Anime
-* [5Movies.pw](https://5movies.pw/) - Movies / TV / Anime
 * [FilarMovies](https://filarmovies.com/) - Movies / TV
-* [MovieStars](https://moviestars.to/) or [WinNoise](https://winnoise.com) - Movies / TV / Anime
 * [FreeGreatMovies](https://www.freegreatmovies.com/) - Movies
 * [NetMovies](https://netmovies.to/) - Movies / TV
 * [Kinos](https://www.kinos.to/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Switch Language](https://i.ibb.co/n1Kb14T/64d0fb9444e1.png) (in options)
 * [SolarMovie](https://wwv.solarmovie.one/) - Movies / TV / Anime
-* [GoMovies](https://gomovies.pics/) - Movies / TV
 * [WatchSeries](https://watchseries.cyou/) - Movies / TV
-* [123Movies](https://123movies.sc/) - Movies / TV
-* [123MoviesJR](https://123moviesjr.cc/) - Movies / TV
 * [123Moviesd](https://123moviesd.com/) - Movies / TV
 * [0123movies](https://0123movies.to/) - Movies / TV
-* [Watch0123movies](https://0123movies.ch/) - Movies / TV
-* [Moviehab](https://moviehab.asia/) - Movies / TV
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
-* [WarezCDN](https://warezcdn.com/) - Movies / TV / Anime / API
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
-* [123movies](https://api.123movie.cc/) - Movies / TV / Anime / API
 * [VidSrc](https://vidsrc.me/) - Movies / TV / Anime / API
-* [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) or [FileStreamBot](https://github.com/adarsh-goel/filestreambot) - Telegram File Streaming
-* [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) or [Stream IMDb](https://github.com/4L00/TemperMonkey-Scripts/) - Add Stream Search Buttons to IMDb
-* [Letmewatch](https://letmewatch.app/) - Movies / TV / Extension / [GitHub](https://github.com/AdvithGopinath/LetMeWatch)
+* [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Telegram File Streaming
+* [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) - Add Stream Search Buttons to IMDb
 
 ***
 
@@ -613,7 +602,6 @@
 * [StarsDDL](https://starsddl.me/) - Movies / TV / 1080p
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
 * [FilmDuty](https://filmduty.com/) - Movies / TV / Anime / 1080p
-* [MKV Cage](https://www.mkvcage.site/) - Movies / TV / 1080p
 * [Reqzone](https://reqzone.com/) - Movies / TV / 1080p
 * [MegaDDL](https://megaddl.co/) - Movies / TV / 1080p / Some Paywalled
 * [Best-Movies](https://best-movies.info/) - Movies / TV / 4K
@@ -648,10 +636,8 @@
 * [TV Shows](https://tvshows.me/) - TV / 720p
 * [TVShows.today](https://tvshows.me/) - TV / 720p
 * [TVSBoy](https://tvsboy.com/) - TV / 720p
-* [ULMovies](https://ulmovies.xyz/) - Movies / TV / 720p
 * [nKiri](https://nkiri.com/) - Movies / TV / 720p
 * [O2TVSeriesz](https://o2tvseriesz.com/) - Movies / TV / 720p
-* [MegaUploadAgora](https://www.megauploadagora.com.br/) - Movies / TV / 720p
 * [TodayTVSeries](http://www.todaytvseries2.com/) - TV / 720p
 * [MobileTVShows](https://www.mobiletvshows.net/) - TV / Anime / 480p
 * [TvShows4Mobile](https://tvshows4mobile.com/) - TV / Anime / 480p / [Telegram](https://t.me/o2tvseries_official)
@@ -1557,7 +1543,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[diaspora*](https://diasporafoundation.org/)**, [2](https://diasp.org/)
 * ⭐ **[Fedi Tips](https://fedi.tips/)** - Mastodon / Fediverse Guide
 
-[Misskey](https://join.misskey.page/en/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendica](https://friendi.ca/), [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project), [Movim](https://movim.eu/)
+[Misskey](https://join.misskey.page/en/), [Twetch](https://twetch.app/welcome), [Manyverse](https://www.manyver.se/), [Friendica](https://friendi.ca/), [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project), [Movim](https://movim.eu/), [Pixelfed](https://pixelfed.org/)
 
 **Mastodon Tools**
 
@@ -1724,8 +1710,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### Encrypted Email Services
 
 * ⭐ **[Proton Mail](https://proton.me/mail)** - [Desktop Client](https://github.com/Steccas/ProtonClient)
+* ⭐ **[Skiff Mail](https://skiff.com/mail)**
 
-[Enigmail](https://www.enigmail.net/index.php/en/), [PrivateMail](https://privatemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [Tildamail](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [Tutanota](https://tutanota.com/), [GMX](https://www.gmx.com/), [Neomailbox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [Mailpile](https://www.mailpile.is/), [MsgSafe.io](https://www.msgsafe.io/), [SecureNym](http://www.securenym.net), [OnMail](https://www.onmail.com/), [Skiff Mail](https://skiff.com/mail), [Dark Net Mail Exchange](https://dnmx.org/)
+[Enigmail](https://www.enigmail.net/index.php/en/), [PrivateMail](https://privatemail.com/), [Mailfence](https://mailfence.com/), [OnionMail](https://en.onionmail.info/), [Tildamail](https://www.tildamail.com/), [Disroot](https://disroot.org/en/services/email), [Tutanota](https://tutanota.com/), [GMX](https://www.gmx.com/), [Neomailbox](https://www.neomailbox.com/), [CounterMail](https://countermail.com/), [Mailpile](https://www.mailpile.is/), [MsgSafe.io](https://www.msgsafe.io/), [SecureNym](http://www.securenym.net), [OnMail](https://www.onmail.com/), [Dark Net Mail Exchange](https://dnmx.org/)
 
 ***
 
@@ -3057,13 +3044,14 @@ Add the following commands to a search to manually scrape each site.
 
 #### Privacy Based Browsers
 
-**Multi-Platform**
 
+* ⭐ **[Tor Browser](https://www.torproject.org/)** or [Lokinet](https://lokinet.org/) / [Directory](https://session.directory/) - Onion-Routed Browser
+* ⭐ **[Tor Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tor_tools)** - Tor Tools / Guides
 * ⭐ **[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / [2](https://librewolf.net/)
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)**
+* ⭐ **[Privacy Hardened Firefox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_hardened_firefox)** - Firefox Privacy Profiles / Guides
 
 [Otter](https://otter-browser.org/), [BadWolf](https://hacktivis.me/projects/badwolf), [Dot HQ](https://github.com/dothq/browser) / [Discord](https://discord.com/invite/WRDEK2D)
-
 
 **Android**
 
@@ -3097,7 +3085,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[privacyguides](https://www.privacyguides.org/)**
 * ⭐ **[Security List](https://security-list.js.org/)**
 
-[Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting), [Privacy Tools](https://www.privacytools.io/), [Awesome Privacy](https://github.com/pluja/awesome-privacy), [online-tools-for-the-pandemic](https://etherpad.wikimedia.org/p/online-tools-for-the-pandemic), [Privacy Tools List](https://privacytoolslist.com/), [chef-koch](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/) / [2](https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn) / [3](https://gitlab.com/CHEF-KOCH/privacy-tools-list-by-chef-koch) / [4](https://github.com/CKs-Technology-News/PrivacyTools), [Snopyta](https://snopyta.org/), [Hostux](https://hostux.network/), [Awesome Security](https://github.com/sbilly/awesome-security), [Awesome Privacy](https://github.com/KevinColemanInc/awesome-privacy), [Thunix](https://thunix.net/), [Zero Data App](https://0data.app/), [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/), [Alternative Internet](https://github.com/redecentralize/alternative-internet), [Awesome Windows Security](https://github.com/chryzsh/awesome-windows-security), [Tzkuat Ressources](https://gitlab.com/tzkuat/Ressources), [PrivacySavvy](https://privacysavvy.com/), [The New Oil](https://thenewoil.org/index.html), [awesome-humane-tech](https://codeberg.org/teaserbot-labs/delightful-humane-design), [xbdms' Blog](https://tiny.write.as/xbdm/my-privacy-anonymity-and-security-list)
+[Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting), [Awesome Privacy](https://github.com/pluja/awesome-privacy), [online-tools-for-the-pandemic](https://etherpad.wikimedia.org/p/online-tools-for-the-pandemic), [Privacy Tools List](https://privacytoolslist.com/), [chef-koch](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/) / [2](https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn) / [3](https://gitlab.com/CHEF-KOCH/privacy-tools-list-by-chef-koch) / [4](https://github.com/CKs-Technology-News/PrivacyTools), [Snopyta](https://snopyta.org/), [Hostux](https://hostux.network/), [Awesome Security](https://github.com/sbilly/awesome-security), [Awesome Privacy](https://github.com/KevinColemanInc/awesome-privacy), [Thunix](https://thunix.net/), [Zero Data App](https://0data.app/), [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/), [Alternative Internet](https://github.com/redecentralize/alternative-internet), [Awesome Windows Security](https://github.com/chryzsh/awesome-windows-security), [Tzkuat Ressources](https://gitlab.com/tzkuat/Ressources), [PrivacySavvy](https://privacysavvy.com/), [The New Oil](https://thenewoil.org/index.html), [awesome-humane-tech](https://codeberg.org/teaserbot-labs/delightful-humane-design), [xbdms' Blog](https://tiny.write.as/xbdm/my-privacy-anonymity-and-security-list)
 
 ***
 
@@ -4090,7 +4078,7 @@ Add the following commands to a search to manually scrape each site.
 
 ⭐ **[CouponScorpion](https://couponscorpion.com/)**
 
-[discudemy](https://www.discudemy.com/), [bestcouponhunter](https://bestcouponhunter.com/), [Coursevania](https://coursevania.com/), [Learn Viral](https://udemycoupon.learnviral.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [Course Time](https://coursetime.net/), [iDownloadCoupon](https://idownloadcoupon.com/), [coursecouponclub](https://coursecouponclub.com/), [coursekingdom](https://coursekingdom.xyz/), [freebiesglobal](https://freebiesglobal.com/), [real.discount](https://www.real.discount/), [onlinecourses](https://www.onlinecourses.ooo/), [cursosdev](https://cursosdev.com/), [100offdeal](https://100offdeal.online/), [freshercooker](https://www.freshercooker.com/category/courses/), [dailycoursereviews](https://dailycoursereviews.com/)
+[discudemy](https://www.discudemy.com/), [bestcouponhunter](https://bestcouponhunter.com/), [Coursevania](https://coursevania.com/), [Learn Viral](https://udemycoupon.learnviral.com/), [BARONIP COUPONS](https://baronip-coupons.blogspot.com/), [Course Time](https://coursetime.net/), [iDownloadCoupon](https://idownloadcoupon.com/), [coursecouponclub](https://coursecouponclub.com/), [coursekingdom](https://coursekingdom.xyz/), [freebiesglobal](https://freebiesglobal.com/), [real.discount](https://www.real.discount/), [onlinecourses](https://www.onlinecourses.ooo/), [cursosdev](https://cursosdev.com/), [100offdeal](https://100offdeal.online/), [freshercooker](https://www.freshercooker.com/category/courses/), [dailycoursereviews](https://dailycoursereviews.com/), [Tutorial Bar](https://www.tutorialbar.com/)
 
 ***
 
@@ -4445,6 +4433,7 @@ Add the following commands to a search to manually scrape each site.
 * [VueTube](https://github.com/VueTubeApp/VueTube)
 * [SkyTube](https://github.com/SkyTubeTeam/SkyTube)
 * [FreeTubeCordova](https://github.com/MarmadileManteater/FreeTubeCordova)
+* [ReVanced Patches](https://github.com/inotia00/revanced-patches)
 * [ReVanced Patcher](https://github.com/decipher3114/Revancify)
 
 **ReVanced App Builders**
@@ -5232,7 +5221,7 @@ Add the following commands to a search to manually scrape each site.
 * CracksHash - Caught with [malware](https://redd.it/lklst7)
 * haxNode - Caught with malware
 * IGI30 - Caught with malware
-* MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6)
+* MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6) / Note the the Magisk Module MRepo is unrelated 
 * AppValley / TutuBox / Ignition - History of [ddos attacks](https://github.com/nbats/FMHYedit/pull/307)
 * CNET / Download.com / ZDNET - History of [adware](https://www.reddit.com/r/software/comments/9s7wyb/whats_the_deal_with_sites_like_cnet_softonic_and/e8mtye9/)
 
@@ -5271,6 +5260,7 @@ Add the following commands to a search to manually scrape each site.
 * PolyMC (minecraft client) - Owner [kicked](https://redd.it/y6lt6s) all members from repo / discord
 * GShade (ReShade mod) - Dev added code that can trigger unwanted [reboots](https://rentry.co/GShade_notice) 
 * OnStream - Closed source, possibly [malicious](https://rentry.co/upo2r)
+* TotalAV / PC Protect / Protected - Antivirus Software [Scam](https://www.malwarebytes.com/blog/detections/pup-optional-totalav) / [2](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect) / [3](https://youtu.be/PcS3EozgyhI)
 
 ***
 
@@ -5805,12 +5795,6 @@ pass: paluch
 #### Archive.org Newspapers
 
 `aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL25ld3NwYXBlcnM=`
-
-*** 
-
-#### Google TeamDrives
-
-`aHR0cHM6Ly90Lm1lL1RlYW1Ecml2ZXM=`
 
 *** 
 
@@ -9922,7 +9906,6 @@ pass: paluch
 * [Udemy Course Megadrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#udemy-course-drives)
 * [UdemyKing](https://t.me/udemyking1) - Udemy Courses
 * [CourseArray](https://t.me/udemycoursesfree) - Udemy Courses
-* [Tutorial Bar](https://www.tutorialbar.com/) - Udemy Courses
 * [Downloadr](https://downloadr.in/) - Udacity & Udemy Courses
 * [Free Udemy Vedantu Courses](https://t.me/Udemy_Courses_Vedantu_Free) - Udemy Courses
 * [UFC Gdrive Factory!](https://telegram.me/joinchat/SSWKbEf8mVNBvgam) - Udemy Courses
@@ -11437,7 +11420,6 @@ Software
 * [Pick Time](https://pick-time.io/) - Easily Schedule Times with Friends
 * [Office Holidays](https://www.officeholidays.com/) or [Forekast](https://forekast.com/) or [Progress](https://neal.fun/progress/) - Worldwide Event Calendars
 * [wnr](https://getwnr.com/), [Timeblocking](https://timeblocking.atomiclife.app/) or [Timestrap](https://timestrap.bythewood.me/) - Time Management Apps
-* [Creative Commons](https://creativecommons.org/) - Creative Commons Licenses
 * [MyPhone](https://github.com/BestOwl/MyPhone) - Make Calls via Desktop
 * [Free-lookup](https://free-lookup.net/) - Phone # Lookup
 * [tuxi](https://github.com/Bugswriter/tuxi) - Question & Answer CLI
@@ -13039,7 +13021,6 @@ Twitch Stream Tracker
 * [TagGPT](https://tagsgpt.com/) - Hashtag Generator
 * [Buhitter](https://buhitter.com/) - Twitter Illustration Search
 * [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - Download Twitter Videos 
-* [twMediaDownloader](https://github.com/furyutei/twMediaDownloader) - Download Twitter Images
 * [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/) or [SocialBearing](https://socialbearing.com/) - Analyze Twitter Accounts
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
 * [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) - View / Archive Tweets
@@ -16706,7 +16687,6 @@ Twitch Stream Tracker
 * [Stubby](https://github.com/getdnsapi/stubby) - DNS Stub Resolver
 * [NextDNS](https://nextdns.io) - DNS Adblocking / [Leak Warning](https://redd.it/jt28e8) / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Enhancement](https://greasyfork.org/en/scripts/408934-nx-enhanced) / [Extension](https://chrome.google.com/webstore/detail/nx-enhanced/ljimbekophocjbnphldoaidgkkaojcfo)
 * [DuckDNS](https://www.duckdns.org/), [FreeDNS](https://freedns.afraid.org/), [NoIP](https://www.noip.com/), [FreeMyIP](https://freemyip.com/) or [Desec](https://desec.io/) - Dynamic DNS Service
-* [Encrypted DNS Resolvers](https://www.privacytools.io/encrypted-dns)
 * [block.js](https://gist.github.com/rtfpessoa/7fdd3d4121ee4acafe56e8425154888a) - DNS YouTube Blocklists
 * [Phishing Army](https://phishing.army/) - DNS Phishing Blocklist
 * [BIND](https://gitlab.isc.org/isc-projects/bind9) - Portable DNS Protocol
@@ -16821,7 +16801,7 @@ Twitch Stream Tracker
 * ⭐ **[Cryptomator](https://cryptomator.org/)**, [Boxcryptor](https://www.boxcryptor.com/en/) or [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) - Cloud File Encryption
 * ⭐ **[Decentralized Social Networks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_decentralized_social_networks)** - Twitter / Facebook Alternatives
 * ⭐ **[GameIndustry](https://gameindustry.eu/en/)** - Block Trackers in Desktop / Mobile Games
-* [WinAuth](https://winauth.github.io/winauth/), [Yubioath](https://developers.yubico.com/yubioath-flutter/), [AuthMe](https://github.com/Levminer/authme), [Protecc](https://github.com/FireCubeStudios/Protecc), [2FAuth](https://github.com/Bubka/2FAuth), [Authy](https://authy.com/) or [Tauthy](https://github.com/pwltr/tauthy) - Two-Factor Authentication
+* [Yubioath](https://developers.yubico.com/yubioath-flutter/), [AuthMe](https://github.com/Levminer/authme), [Protecc](https://github.com/FireCubeStudios/Protecc), [2FAuth](https://github.com/Bubka/2FAuth) or [Tauthy](https://github.com/pwltr/tauthy) - Two-Factor Authentication
 * [2FA Directory](https://2fa.directory/) - List of Sites with 2FA Support 
 * [Windows 10 Antispy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_antispy_tools)
 * [Password Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_generators) - Generate Secure Passwords
@@ -16868,7 +16848,7 @@ Twitch Stream Tracker
 * [CiphersByRitter](http://ciphersbyritter.com/) - Cipher / Encryption Articles
 * [CacheMonkey](https://www.cachemonkey.app/) - Browse / Clear Cached Images
 * [HRef](https://href.li/) - Hide HTTP Referer
-* [Pixelfed](https://pixelfed.org/) or [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts 
+* [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts 
 * [Cryptee](https://crypt.ee/) - Encrypted Image Storage
 * [PeerTube](https://joinpeertube.org/), [2](https://search.joinpeertube.org/), [3](https://sepiasearch.org/) - Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)
 * [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/), [self-destruct-notes](https://github.com/dustinmoris/self-destruct-notes), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/) or [OneTimeSecret](https://onetimesecret.com/) - Send Self-Destructing Messages
@@ -16890,7 +16870,7 @@ Twitch Stream Tracker
 * V2Ray Tools - [GUI](https://github.com/2dust/v2rayN), [2](https://github.com/Qv2ray/Qv2ray) / [GeoIP](https://github.com/Loyalsoldier/geoip) / [Free Server](https://fanqiang.network/) / [Cloudflare Scan](https://cloudflare-v2ray.vercel.app/)/ [Tutorial](https://github.com/freefq/tutorials)
 * [Scout](https://www.scout.tel/phone-number-lookup) or [WhoCalld](https://whocalld.com/) - Phone Number Lookup / Safety Check 
 * [FreeCarrierLookup](https://www.freecarrierlookup.com/) - Get Telephone Carrier Data 
-* [/r/Privacy](https://reddit.com/r/privacy),  [/r/TheHatedOne](https://www.reddit.com/r/thehatedone), [/r/PrivacyToolsIO](https://www.reddit.com/r/privacytoolsIO) or [/r/privatelife/](https://www.reddit.com/r/privatelife/) - Privacy Discussion, News & Tools
+* [/r/Privacy](https://reddit.com/r/privacy),  [/r/TheHatedOne](https://www.reddit.com/r/thehatedone) or [/r/privatelife/](https://www.reddit.com/r/privatelife/) - Privacy Discussion, News & Tools
 * [Unredacted Google Antitrust Filing](https://twitter.com/fasterthanlime/status/1452053938195341314)
 * [Facebook Doc Stories](https://docs.google.com/document/d/1QYqmJsifBjf_xA23Ea7AdeMFyjGWaF_dvhi5EZdNUf4/edit) - Facebook Malpractices Index
 * [Privacy.com](https://privacy.com/) - Make Secure Payments / US only 
@@ -16972,17 +16952,13 @@ Twitch Stream Tracker
 
 ## ▷ Browser Tools
 
-* ⭐ **[Tor Browser](https://www.torproject.org/)** or [Lokinet](https://lokinet.org/) / [Directory](https://session.directory/) - Onion-Routed Browser
-* ⭐ **[Tor Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tor_tools)** - Tor Tools / Guides
-* ⭐ **[Privacy Hardened Firefox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_hardened_firefox)** - Firefox Privacy Profiles / Guides
 * ⭐ **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - Privacy Focused Browsers
-* ⭐ **[Vytal.io](https://vytal.io/)**, [PrivacyTests](https://privacytests.org/), [EverySiteKnows](http://everysiteknows.ferrucc.io/), [FirstPartySimulator](https://firstpartysimulator.org/), [PersonalData](https://personaldata.info/) or [WEBKAY](https://webkay.robinlinus.com/) - Browser Tracking Tests
+* ⭐ **[Vytal.io](https://vytal.io/)**, [EverySiteKnows](http://everysiteknows.ferrucc.io/), [FirstPartySimulator](https://firstpartysimulator.org/), [PersonalData](https://personaldata.info/) or [WEBKAY](https://webkay.robinlinus.com/) - Browser Tracking Tests
 * ⭐ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls)** - URL Encoding / Decoding Tools
 * ⭐ **[CloakStream](https://proxy-download.cdxfedcxadsdcsdxz.workers.dev/)** - Encrypt Download URLs
 * ⭐ **[alternative-front-ends](https://github.com/mendel5/alternative-front-ends)** / [2](https://rentry.co/8kqrrn), [Farside](https://farside.link/) or [alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - Frontend Index
 * ⭐ **[PrivacySpy](https://privacyspy.org/)** - Grades a Sites Privacy Policies 
 * ⭐ **[ACCOUNTKILLER](https://www.accountkiller.com/)** or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - Find / Terminate Old Accounts 
-* [Awesome Private Browsing](https://github.com/onsitejs/Awesome-Private-Browsing) - Browser Privacy Index
 * [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - Web Security Resource Index
 * [Brave Browser Hardening](https://gitlab.com/CHEF-KOCH/brave-browser-hardening) -  Privacy Hardened Brave
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - Password Strength Checker
@@ -17002,7 +16978,7 @@ Twitch Stream Tracker
 * [YourAdChoices](https://optout.aboutads.info/?c=2&lang=EN) - Check Your Current IBA Status
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Resource Index](https://github.com/mikalv/awesome-i2p) / [Guide](https://rentry.co/CBGI2P)
 * [I2Pd Browser](https://i2pd.website/) - I2P Browser / [GitHub](https://github.com/PurpleI2P/i2pd)
-* [CookieStatus](https://www.cookiestatus.com/) - Browser Tracking Protection Comparisons
+* [CookieStatus](https://www.cookiestatus.com/) or [PrivacyTests](https://privacytests.org/) - Browser Tracking Protection Comparisons
 * [NothingPrivate](https://www.nothingprivate.ml/), [Device Info](https://www.deviceinfo.me/), [Privacy Test](https://privacy.net/analyzer/), [IPX](https://ipx.ac/run) or [Sploit](https://sploit.io/test.php) - Browser Data Leak Test
 * [SSL Labs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html) - SSL/TLS Browser Capabilities Test
 * [IP / DNS Leak Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_dns_leak_tests) - Test for IP & DNS Leaks
@@ -17276,7 +17252,6 @@ Twitch Stream Tracker
 * [OdesliBot](https://t.me/odesli_bot) - Audio Stream Search Bot
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
 * [JukeboxStar](https://jukeboxstar.com/) - Collaborative Playlist Streaming
-* [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Unlock Unavailable Netease Music
 * [stemplayerplayer](https://github.com/nn9dev/stemplayerplayer), [StemPlayer](https://stemplayer.io/) or [stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator) - Kanye West STEM Player Emulators
 
 ***
@@ -17343,7 +17318,6 @@ Twitch Stream Tracker
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - East African Recordings
 * [Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music) - Free Music for Projects
-* [Battle of the Bits](https://battleofthebits.org/) - User-Made Music Competitions
 * [Openwhyd](https://openwhyd.org/) - Music Sharing Community / [Chrome](https://chrome.google.com/webstore/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)
 * [Volume](https://volume.com/) - Live Cam Concerts
 * [Bandcamp New Tab](https://chrome.google.com/webstore/detail/bandcamp-new-tab/nbabnnemlofbllcflfjpjgkgmcdbeemc) - Random Bandcamp Songs on New Tabs
@@ -17512,14 +17486,10 @@ Twitch Stream Tracker
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Free BandCamp Downloader](https://github.com/7x11x13/free-bandcamp-downloader), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - Bandcamp Downloader
 * [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders) - Soundcloud Download Tools
 * [GetFVid](https://www.getfvid.com/) - Facebook Video / Audio Downloader 
-* [Musescore-downloader](https://github.com/Xmader/musescore-downloader) - Musescore Downloader
+* [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
 * [Orpheus Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz) or [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz Downloaders
-* [music-dl](https://github.com/vishaltelangre/music-dl) - JioSaavn Downloaders
-* [orpheusdl-napster](https://github.com/yarrm80s/orpheusdl-napster) - Napster Downloader
-* [gaana-downloader-extension)](https://github.com/tuhinpal/gaana-downloader-extension) - Gaana Downloader
 * [you-get](https://you-get.org/) or [irs](https://github.com/cooperhammond/irs) - Audio Command Line Download Tool
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool 
-* [fetch-audio-from-fm](https://github.com/zhenze12345/fetch-audio-from-fm) - Download FM Site Audio 
 
 ***
 
@@ -20145,7 +20115,6 @@ If you have any suggestions or questions feel free to join us in [Divolt](https:
 * [WarezBook](https://www.warezbook.org/) - Video / Audio / Software / Games / Books
 * [WawaCity](https://www.wawacity.video/) - Video / Audio / Books / Magazines / Software / Android / Use AdBlocker
 * [2DDL](https://2ddl.it/) - Video / Audio / Software / Games / Books / Comics / Magazines
-* [SCENE.RLS](http://scene-rls.net/releases/index.php) - Video / Audio / Games / Software / Books / Magazines
 * [WarezLover](https://warezlover.xyz/) - Video / Audio / Software / Games / Android / ROMs / Books / Magazines
 * [TFPDL](https://tfpdl.se/), [2](https://tfpdl.to/) - Video / Software / Games / Magazines / NSFW
 * [WarezLoad](https://warezload.net/index.php) - Video / Audio / Software / Games / Books
@@ -20563,7 +20532,6 @@ If you have any suggestions or questions feel free to join us in [Divolt](https:
 * [YuzuModDownloader](https://github.com/amakvana/YuzuModDownloader) - Yuzu Mod Downloader
 * [LiftInstall](https://github.com/pineappleEA/liftinstall) - Yuzu App Installer
 * [RyuSAK](https://github.com/Ecks1337/RyuSAK) - Ryujinx Installation Manager
-* [Switch Army Knife](https://github.com/dezem/SAK) - Switch Emulator Multi-Tool
 * [Switch Mods](https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods) - Switch Game Mods
 * [EeveeSaves](https://discord.io/eeveesaves), [Green Leaf](https://discord.gg/m6z3ra8ssh) or [Ecchi's Archives](https://discord.gg/42Xnp7FRVW) - Switch Saves
 * [Dolphin Guide](https://github.com/shiiion/dolphin/wiki/Performance-Guide) - Dolphin Performance Guide
