@@ -28,7 +28,6 @@
 * [OdesliBot](https://t.me/odesli_bot) - Audio Stream Search Bot
 * [MusicBucket](https://musicbucket.net/) - Track / Share Music / Telegram
 * [JukeboxStar](https://jukeboxstar.com/) - Collaborative Playlist Streaming
-* [UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Unlock Unavailable Netease Music
 * [stemplayerplayer](https://github.com/nn9dev/stemplayerplayer), [StemPlayer](https://stemplayer.io/) or [stem-player-emulator](https://github.com/krystalgamer/stem-player-emulator) - Kanye West STEM Player Emulators
 
 ***
@@ -95,7 +94,6 @@
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games
 * [DigLib](https://diglib.library.vanderbilt.edu/ama-browse.pl) - East African Recordings
 * [Royalty Free Music](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_royalty_free_music) - Free Music for Projects
-* [Battle of the Bits](https://battleofthebits.org/) - User-Made Music Competitions
 * [Openwhyd](https://openwhyd.org/) - Music Sharing Community / [Chrome](https://chrome.google.com/webstore/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk)
 * [Volume](https://volume.com/) - Live Cam Concerts
 * [Bandcamp New Tab](https://chrome.google.com/webstore/detail/bandcamp-new-tab/nbabnnemlofbllcflfjpjgkgmcdbeemc) - Random Bandcamp Songs on New Tabs
@@ -264,14 +262,10 @@
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Free BandCamp Downloader](https://github.com/7x11x13/free-bandcamp-downloader), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - Bandcamp Downloader
 * [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders) - Soundcloud Download Tools
 * [GetFVid](https://www.getfvid.com/) - Facebook Video / Audio Downloader 
-* [Musescore-downloader](https://github.com/Xmader/musescore-downloader) - Musescore Downloader
+* [Librescore Downloader](https://github.com/LibreScore/dl-librescore) - Librescore Downloader
 * [Orpheus Qobuz](https://github.com/yarrm80s/orpheusdl-qobuz) or [qobuz-dl](https://github.com/vitiko98/qobuz-dl) - Qobuz Downloaders
-* [music-dl](https://github.com/vishaltelangre/music-dl) - JioSaavn Downloaders
-* [orpheusdl-napster](https://github.com/yarrm80s/orpheusdl-napster) - Napster Downloader
-* [gaana-downloader-extension)](https://github.com/tuhinpal/gaana-downloader-extension) - Gaana Downloader
 * [you-get](https://you-get.org/) or [irs](https://github.com/cooperhammond/irs) - Audio Command Line Download Tool
 * [VK::MP3](https://metacpan.org/pod/VK::MP3) - VK MP3 Search Tool 
-* [fetch-audio-from-fm](https://github.com/zhenze12345/fetch-audio-from-fm) - Download FM Site Audio 
 
 ***
 
