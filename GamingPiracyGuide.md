@@ -146,7 +146,6 @@
 * [YuzuModDownloader](https://github.com/amakvana/YuzuModDownloader) - Yuzu Mod Downloader
 * [LiftInstall](https://github.com/pineappleEA/liftinstall) - Yuzu App Installer
 * [RyuSAK](https://github.com/Ecks1337/RyuSAK) - Ryujinx Installation Manager
-* [Switch Army Knife](https://github.com/dezem/SAK) - Switch Emulator Multi-Tool
 * [Switch Mods](https://github.com/yuzu-emu/yuzu/wiki/Switch-Mods) - Switch Game Mods
 * [EeveeSaves](https://discord.io/eeveesaves), [Green Leaf](https://discord.gg/m6z3ra8ssh) or [Ecchi's Archives](https://discord.gg/42Xnp7FRVW) - Switch Saves
 * [Dolphin Guide](https://github.com/shiiion/dolphin/wiki/Performance-Guide) - Dolphin Performance Guide
