@@ -427,23 +427,14 @@
 
 ## ▷ Streaming
 
+* ⭐ **[Sadisflix](https://sadisflix.to/)** - Movies / TV / [Telegram](https://t.me/sadisflix)
 * [WawaCity](https://www.wawacity.pics/) - Video / Audio / Books / Magazines / Software / Android / Use Adblocker
-* [VK Streaming](https://vkstreaming.one/) - Movies / TV / Anime
-* [justseries](https://www.justseries.info/) - Movies / TV
 * [kinoger](https://kinoger.com/), [2](https://www.kinoger.to/) - Movies / TV / Anime
-* [quedustreaming](https://quedustreaming.com/) - Movies / TV / Anime
-* [MesFilms](https://mesfilms.lol/) - Movies / TV / Anime
+* [quedustreaming](https://wawa-streams.com/) - Movies / TV / Anime
+* [MesFilms](https://mesfilms.sbs/) - Movies / TV / Anime
 * [hds](https://www1.hds.fm/) - Movies / TV / Anime
-* [streamcenter](https://fr.streamcenter.cc/) - Movies / TV
-* [mavanimes](https://www.mavanimes.co/) - Movies / TV
-* [voirfilms-hd](https://voirfilms-hd.com/) - Movies / TV
+* [voirfilms-hd](https://flashfilms-hd.top/) - Movies / TV
 * [Cinematheque](https://www.cinematheque-bretagne.bzh/) - Movies
-* [CineFlix](https://wvw.cineflix.rip/) - Movies / TV
-* [PapyStreaming](https://vvww.papystreamings.biz/) - Movies / TV
-* [PapaDuStream](https://www.papadustream.vin/) - Movies / TV
-* [Dpstream](https://wvw.dpstream.rip/) - Movies / TV
-* [Sadisflix](https://sadisflix.fun/) - Movies / TV / [Telegram](https://t.me/sadisflix)
-* [Cpasfini](https://vvww.cpasfini.rip/) - Movies / TV / Cartoons
 * [OtakuFR](https://otakufr.co/) - Anime
 * [JetAnime](https://vww.jetanimes.com/) - Anime
 * [Anime-Ultime](http://www.anime-ultime.net/), [2](https://v5.anime-ultime.net/) - Anime
@@ -461,7 +452,7 @@
 * [anime-sama](https://anime-sama.fr/) - Anime
 * [toonanime](https://v2.toonanime.tv/) - Anime
 * [VoirCartoon](https://voircartoon.com/) - Cartoons
-* [dtvd](https://dtvd.net/) or [liveschauen](https://deutschekanale.com/) - Live TV
+* [liveschauen](https://deutschekanale.com/) - Live TV
 * [ADKami](https://www.adkami.com/) - French Anime Calendar
 * [33rapmp3](https://www.33rapmp3.cc/) - Rap
 
@@ -532,7 +523,7 @@
 * [StreamCloud](https://www2.streamcloud.info/) - Movies / TV
 * [BioskopKaca21](https://62.171.161.107/) - Movies / TV
 * [Kinos](https://www.kinos.to/) - Movies / TV
-* [https://xcine.info](https://xcine.info/) - Movies / TV
+* [https://xcine.info](https://xcine.ru/) - Movies / TV
 * [KinoZ](https://kinoz.to/) - Movies / TV / Anime / NSFW
 * [S.TO](https://s.to/) - TV / Anime
 * [SRF.CH](https://www.srf.ch/) - TV / Sports / Live
@@ -543,9 +534,9 @@
 * [dctp.tv](https://www.dctp.tv/) - Documentaries
 * [dokuh.de](https://www.dokuh.de/) - Documentaries
 * [Stiftung imai](https://stiftung-imai.de/) - Video Archive
-* [dtvd](https://dtvd.net/) - Live TV
 * [2ix2](https://www.2ix2.com/) - Live TV
 * [tvpinto](https://www.tvpinto.com/) - Live TV
+* [dtvd](https://dtvd.net/) - Live TV
 * [mediathekviewweb](https://mediathekviewweb.de/) - IPTV 
 * [hoerspielprojekt](https://www.hoerspielprojekt.de/) - Radio Plays
 * [forschung](https://forschung-kuenstlerpublikationen.de/Werke.html) - Rare LPs
@@ -639,27 +630,24 @@
 * [IndianCine](https://indiancine.ma/) - 62k Indian Films / Short Films
 * [mxplayer](https://www.mxplayer.in) - Movies
 * [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - Movies
-* [HHDMovies](https://hhdmovies.site/) - Movies / TV
-* [OKJatt](https://okjatt.one/) - Movies / TV
+* [HHDMovies](https://hhdmovies.mom/) - Movies / TV
+* [OKJatt](https://okjatt.boats/) - Movies / TV
 * [Online Movies Hindi](https://111.90.159.132/) - Movies
 * [HindiLover](https://namasteserials.com/) - TV
 * [playdesi](https://playdesi.net/) - Movies / TV
 * [MovieHDPlus](https://www.moviehdplus.com/) -  Movies / TV
-* [desicinemas](https://desicinemas.tv/) - Movies / TV
 * [Desi Serials](https://www.desi-serials.cc/) - Movies / TV / Live
-* [HindiLinks4u](https://hindilinks4u.lat/) - Movies / TV
+* [HindiLinks4u](https://hindilinks4u.date/) - Movies / TV
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies
-* [Moovana](https://www.moovana.net/) - Movies / TV
 * [HindiPix](https://hindipix.com/) - Movies / TV
 * [cinemakick](https://www.cinemakick.com/) - Movies
 * [movieapne](https://movieapne.co) - Movies
-* [MoviesCounter](https://moviescounter.gold/) - Movies
+* [MoviesCounter](https://moviescounter.loan/) - Movies
 * [HindiMovie](https://m.vk.com/hindimovie) - Movies
 * [Movi](https://www.movi.pk/) - Movies
 * [serialbaba](https://serialbaba.co/) - TV
 * [DesiTVBox](https://www.desitellybox.me/) - TV
-* [Bollyfunserial](https://bollyfunserial.com/) - TV
-* [pakbcn](https://www.bollyzone.tv/) - TV
+* [Bollyfunserial](https://freewatchserialonline.com/) - TV
 * [PakBcn](http://www.pakbcn.one/) - TV / Live
 * [Dead Toons India](https://www.deadtoons.co/) - Cartoons / Anime
 * [ToonWorld4All](https://www.toonworld4all.me/) - Cartoons / Anime
@@ -687,10 +675,9 @@
 
 ## ▷ Streaming
 
-* [videa](https://videa.hu/) - Search
+* [videa](https://videat.hu/) - Search
 * [mozicsillag](https://mozicsillag1.me/) - Movies / TV
 * [onlinefilmekingyen](https://www.onlinefilmekingyen.com/) - Movies
-* [sorozatbarat](https://www.sorozatbarat.online/) - Movies / TV
 * [filmezz](https://filmezz.club/) - Movies / TV
 
 ***
