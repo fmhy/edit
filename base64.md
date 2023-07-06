@@ -513,12 +513,6 @@ pass: paluch
 
 *** 
 
-#### Google TeamDrives
-
-`aHR0cHM6Ly90Lm1lL1RlYW1Ecml2ZXM=`
-
-*** 
-
 #### KL-Teamdrive
 
 `aHR0cHM6Ly9ncm91cHMuZ29vZ2xlLmNvbS9nL2tsLXRlYW1kcml2ZQ==`
