@@ -757,6 +757,7 @@
 
 ## ▷ Streaming
 
+* ⭐ **[CB01](https://cb01.singles/)** - Movies / TV
 * [Streaming Improved](https://rentry.co/ItalianStreamingImproved), [2](https://rentry.co/t29tz) - Streaming Sites List
 * [Altaefinizione](https://altadefinizione01.boo/) - Movies / TV / Anime
 * [ilgeniodellostreaming](https://ilgeniodellostreaming.quest/) - Movies / TV / Anime
@@ -1429,6 +1430,7 @@
 
 * ⭐ **[rezka](https://rezka.ag/)** - Movies / TV / Anime
 * ⭐ **[Yohoho](https://yohoho.cc/), [2](https://4h0y.gitlab.io/)** - Movies / Anime
+* ⭐ **[KinoProfi](https://content.kinoprofi.club/)** -  Movies / Series / Cartoons
 * [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Android / Aggregator / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * [baskino](http://baskino.me/) - Movies
 * [Gidonline](https://gidonline.io/) - Movies
