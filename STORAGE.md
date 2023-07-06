@@ -71,8 +71,6 @@
 
 **Non-English**
 
-[Eniro](https://www.eniro.se/), [goo](https://www.goo.ne.jp/), [Najdi.si](https://www.najdi.si/), [NAVER](https://www.naver.com/), [Portail Orange](https://www.orange.fr/portail), [parseek](http://www.parseek.com/), [SAPO](https://www.sapo.pt/), [Walla](https://www.walla.co.il/), [2lingual](https://www.2lingual.com/)
-
 ***
 
 #### Alternative Software / App Sites
@@ -106,7 +104,6 @@
 
 #### Android Browsers
 
-* ⭐ **[Android Browser Wiki](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers)
 * ⭐ **[Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)** - Debloated FF
 
 [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi Browser](https://kiwibrowser.com/), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Berry Browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser), [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android), [AlohaBrowser](https://alohabrowser.com/), [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp), [Lynket](https://github.com/arunkumar9t2/lynket-browser), [Lightning Browser](https://github.com/anthonycr/Lightning-Browser), [Dot Browser](https://github.com/dothq/browser-android), [Float Browser](https://play.google.com/store/apps/details?id=com.xpp.floatbrowser), [Fulguris](https://github.com/Slion/Fulguris)
@@ -339,11 +336,9 @@
 
 #### Calculator Sites
 
-* ⭐ **[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)**
+* ⭐ **[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)** - List of Calculators
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)**
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)**
-
-[RapidTables](https://www.rapidtables.com/), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [Number Empire](https://www.numberempire.com/), [EasyCalculation](https://www.easycalculation.com/), [CalculatorHut](https://www.calculatorhut.com/), [Calculation Calculator](https://calculationcalculator.com/), [Calculator.net](https://www.calculator.net/), [Justfreetools](https://www.justfreetools.com/en/all-calculators), [Calculatio](https://calculat.io/), [Keisan Online Calculator](https://keisan.casio.com/), [calculator.com](https://calculator.com/), [Online Calculator](https://www.online-calculator.com/), [CalculatorT](https://calculatort.com/), [Ultra Calculator](https://www.ultracalculator.net/), [Calculator Online](https://calculator-online.net/), [GIGAcalculator](https://www.gigacalculator.com/), [All-In-One Calculator](https://www.allinonecalculator.com)
 
 ***
 
@@ -351,7 +346,7 @@
 
 * ⭐ **[Cal.com](https://cal.com/)** - [GitHub](https://github.com/calcom/cal.com)
 
-[Calendly](https://calendly.com/), [Zoho Calendar](https://www.zoho.com/calendar/), [Outlook Calendar](https://outlook.office.com/calendar/), [Edo Agenda](https://agenda.edo.io/), [Calendar](https://www.calendar.com/), [Tweek](https://tweek.so/), [TinyMonth](https://tinymonth.com/), [Reclaim](https://reclaim.ai/), [TOAST UI Calendar](https://github.com/nhn/tui.calendar), [Gantt](https://github.com/neuronetio/gantt-schedule-timeline-calendar), [Morgen](https://www.morgen.so/), [VIR](https://tommyx12.github.io/VIR/)
+[Zoho Calendar](https://www.zoho.com/calendar/), [Tweek](https://tweek.so/), [TinyMonth](https://tinymonth.com/), [TOAST UI Calendar](https://github.com/nhn/tui.calendar), [Gantt](https://github.com/neuronetio/gantt-schedule-timeline-calendar), [Morgen](https://www.morgen.so/)
 
 ***
 
@@ -371,7 +366,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Character / Word Counters
 
-[Sites Compilation](https://rentry.co/bkrro), [Online Character Count Tool](https://www.charactercountonline.com/), [Character Counter](https://charactercounter.com/), [Character Count Tool](https://charactercounttool.com/), [Online Character Count](https://onlinetextedit.com/), [LetterCount](https://www.lettercount.com/), [The Word Counter](https://thewordcounter.com/), [Charcounter](https://charcounter.com/), [Word Counter](https://wordcounter.io/), [Character Counter](https://charactercalculator.com/), [charactercount](https://charactercount.tools/)
+* ⭐ **[List of Character / Word Counters](https://rentry.co/bkrro)**
 
 ***
 
