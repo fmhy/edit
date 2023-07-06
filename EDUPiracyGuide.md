@@ -156,7 +156,6 @@
 * [Udemy Course Megadrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#udemy-course-drives)
 * [UdemyKing](https://t.me/udemyking1) - Udemy Courses
 * [CourseArray](https://t.me/udemycoursesfree) - Udemy Courses
-* [Tutorial Bar](https://www.tutorialbar.com/) - Udemy Courses
 * [Downloadr](https://downloadr.in/) - Udacity & Udemy Courses
 * [Free Udemy Vedantu Courses](https://t.me/Udemy_Courses_Vedantu_Free) - Udemy Courses
 * [UFC Gdrive Factory!](https://telegram.me/joinchat/SSWKbEf8mVNBvgam) - Udemy Courses
