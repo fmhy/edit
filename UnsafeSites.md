@@ -36,7 +36,7 @@
 * CracksHash - Caught with [malware](https://redd.it/lklst7)
 * haxNode - Caught with malware
 * IGI30 - Caught with malware
-* MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6) - Not to be confused with MRepo, the Magisk module repository manager
+* MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6) / Note the the Magisk Module MRepo is unrelated 
 * AppValley / TutuBox / Ignition - History of [ddos attacks](https://github.com/nbats/FMHYedit/pull/307)
 * CNET / Download.com / ZDNET - History of [adware](https://www.reddit.com/r/software/comments/9s7wyb/whats_the_deal_with_sites_like_cnet_softonic_and/e8mtye9/)
 
@@ -75,7 +75,7 @@
 * PolyMC (minecraft client) - Owner [kicked](https://redd.it/y6lt6s) all members from repo / discord
 * GShade (ReShade mod) - Dev added code that can trigger unwanted [reboots](https://rentry.co/GShade_notice) 
 * OnStream - Closed source, possibly [malicious](https://rentry.co/upo2r)
-* TotalAV / PC Protect / Protected - [PUP](https://www.malwarebytes.com/blog/detections/pup-optional-totalav), [2](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect) / [Shady business practices](https://youtu.be/PcS3EozgyhI)
+* TotalAV / PC Protect / Protected - Antivirus Software [Scam](https://www.malwarebytes.com/blog/detections/pup-optional-totalav) / [2](https://www.malwarebytes.com/blog/detections/pup-optional-pcprotect) / [3](https://youtu.be/PcS3EozgyhI)
 
 ***
 
