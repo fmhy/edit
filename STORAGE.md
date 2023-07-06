@@ -71,6 +71,8 @@
 
 **Non-English**
 
+[Eniro](https://www.eniro.se/), [goo](https://www.goo.ne.jp/), [Najdi.si](https://www.najdi.si/), [NAVER](https://www.naver.com/), [Portail Orange](https://www.orange.fr/portail), [parseek](http://www.parseek.com/), [SAPO](https://www.sapo.pt/), [Walla](https://www.walla.co.il/), [2lingual](https://www.2lingual.com/)
+
 ***
 
 #### Alternative Software / App Sites
@@ -104,7 +106,9 @@
 
 #### Android Browsers
 
+
 * ⭐ **[Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)** - Debloated FF
+* [Android Browser Wiki](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers), [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers)
 
 [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi Browser](https://kiwibrowser.com/), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Berry Browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser), [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android), [AlohaBrowser](https://alohabrowser.com/), [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp), [Lynket](https://github.com/arunkumar9t2/lynket-browser), [Lightning Browser](https://github.com/anthonycr/Lightning-Browser), [Dot Browser](https://github.com/dothq/browser-android), [Float Browser](https://play.google.com/store/apps/details?id=com.xpp.floatbrowser), [Fulguris](https://github.com/Slion/Fulguris)
 
@@ -302,7 +306,7 @@
 * [WBKidsGo](https://www.wbkidsgo.com/) or [PBS Kids Games](https://pbskids.org/games/) - Games for Kids
 
 
-[Armor Games](https://armorgames.com/), [Kongregate](https://www.kongregate.com/), [Weboasis Arcade](https://weboasis.app/arcade/), [Addicting Games](https://www.addictinggames.com/), [OneMoreLevel](http://www.onemorelevel.com/), [Miniclip](https://miniclip.com/), [Not Doppler](http://www.notdoppler.com/), [Nitrome](https://www.nitrome.com/), [Poki](https://poki.com/), [Y8](https://www.y8.com/), [Arkadium](https://www.arkadium.com/), [Crazy Games](https://www.crazygames.com/), [GamezHero](https://www.gamezhero.com/), [Yandex Games](https://yandex.com/games/), [Nicky Case](https://ncase.me/), [Gamepix](https://www.gamepix.com/), [KibaGames](https://www.kibagames.com/), [yell0wsuit](https://yell0wsuit.page/games.html), [Kizi](https://kizi.com/), [Gamaverse](https://gamaverse.com/), [FOG](https://www.freeonlinegames.com/), [RoundGames](https://www.roundgames.com/), [Radon Games](https://radon-games.glitch.me/), [Snokido](https://www.snokido.com), [2amGames](http://www.2amgames.com/), [Game Game](https://game-game.com/), [ArcadeSpot](https://arcadespot.com/), [N-Arcade](https://n-arcade.io/), [watabou](https://watabou.itch.io/), [Key Games](https://keygames.com/), [GamesFlare](https://gameflare.com/), [Gaming Wonderland](https://www.gamingwonderland.com/), [Game Top](https://www.gametop.com/online/index.html), [Foddy](http://www.foddy.net/category/games/browser/), [ALFY](https://www.alfy.com/), [GameKB](https://www.gamekb.com/), [Andkon](http://andkon.com/arcade/), [DAN-BALL](http://dan-ball.jp/en/), [Play-Games](https://play-games.com), [KBHGames](https://kbhgames.com/), [Unity3DGames](http://www.unity3dgames.net/), [FreeGames](https://freegames.org/), [PrimaryGames](https://www.primarygames.com/), [MSM Games](https://zone.msn.com/en-us/home), [CAMLBOY](https://linoscope.github.io/CAMLBOY/), [Cartoon Network Games](https://www.cartoonnetworkasia.com/games), [Disney Games](https://disneynow.com/all-games), [Lego Games](https://www.lego.com/en-us/kids/games), [Friv](https://friv.com/) / [2](https://web.archive.org/web/*/Friv.com), [RetroGMZ](https://retrogmz.com/)
+[Armor Games](https://armorgames.com/), [Kongregate](https://www.kongregate.com/), [Weboasis Arcade](https://weboasis.app/arcade/), [Addicting Games](https://www.addictinggames.com/), [OneMoreLevel](http://www.onemorelevel.com/), [Miniclip](https://miniclip.com/), [Not Doppler](http://www.notdoppler.com/), [Nitrome](https://www.nitrome.com/), [Poki](https://poki.com/), [Y8](https://www.y8.com/), [Arkadium](https://www.arkadium.com/), [Crazy Games](https://www.crazygames.com/), [GamezHero](https://www.gamezhero.com/), [Yandex Games](https://yandex.com/games/), [Nicky Case](https://ncase.me/), [Gamepix](https://www.gamepix.com/), [KibaGames](https://www.kibagames.com/), [yell0wsuit](https://yell0wsuit.page/games.html), [Kizi](https://kizi.com/), [Gamaverse](https://gamaverse.com/), [FOG](https://www.freeonlinegames.com/), [RoundGames](https://www.roundgames.com/), [Radon Games](https://radon-games.glitch.me/), [Snokido](https://www.snokido.com), [2amGames](http://www.2amgames.com/), [Game Game](https://game-game.com/), [ArcadeSpot](https://arcadespot.com/), [N-Arcade](https://n-arcade.io/), [watabou](https://watabou.itch.io/), [Key Games](https://keygames.com/), [GamesFlare](https://gameflare.com/), [Gaming Wonderland](https://www.gamingwonderland.com/), [Game Top](https://www.gametop.com/online/index.html), [Foddy](http://www.foddy.net/category/games/browser/), [ALFY](https://www.alfy.com/), [GameKB](https://www.gamekb.com/), [Andkon](http://andkon.com/arcade/), [DAN-BALL](http://dan-ball.jp/en/), [Play-Games](https://play-games.com), [KBHGames](https://kbhgames.com/), [Unity3DGames](http://www.unity3dgames.net/), [FreeGames](https://freegames.org/), [PrimaryGames](https://www.primarygames.com/), [MSM Games](https://zone.msn.com/en-us/home), [CAMLBOY](https://linoscope.github.io/CAMLBOY/), [Cartoon Network Games](https://www.cartoonnetworkhq.com/games) / [2](https://www.cartoonnetworkasia.com/games), [Disney Games](https://disneynow.com/all-games), [Lego Games](https://www.lego.com/en-us/kids/games), [Friv](https://friv.com/) / [2](https://web.archive.org/web/*/Friv.com), [RetroGMZ](https://retrogmz.com/)
 
 ***
 
@@ -336,9 +340,11 @@
 
 #### Calculator Sites
 
-* ⭐ **[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)** - List of Calculators
+* ⭐ **[Awesome Calculators](https://github.com/xxczaki/awesome-calculators)**
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)**
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)**
+
+[RapidTables](https://www.rapidtables.com/), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [Number Empire](https://www.numberempire.com/), [EasyCalculation](https://www.easycalculation.com/), [CalculatorHut](https://www.calculatorhut.com/), [Calculation Calculator](https://calculationcalculator.com/), [Calculator.net](https://www.calculator.net/), [Justfreetools](https://www.justfreetools.com/en/all-calculators), [Calculatio](https://calculat.io/), [Keisan Online Calculator](https://keisan.casio.com/), [calculator.com](https://calculator.com/), [Online Calculator](https://www.online-calculator.com/), [CalculatorT](https://calculatort.com/), [Ultra Calculator](https://www.ultracalculator.net/), [Calculator Online](https://calculator-online.net/), [GIGAcalculator](https://www.gigacalculator.com/), [All-In-One Calculator](https://www.allinonecalculator.com)
 
 ***
 
@@ -366,7 +372,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Character / Word Counters
 
-* ⭐ **[List of Character / Word Counters](https://rentry.co/bkrro)**
+[Sites Compilation](https://rentry.co/bkrro), [Online Character Count Tool](https://www.charactercountonline.com/), [Character Counter](https://charactercounter.com/), [Character Count Tool](https://charactercounttool.com/), [Online Character Count](https://onlinetextedit.com/), [LetterCount](https://www.lettercount.com/), [The Word Counter](https://thewordcounter.com/), [Charcounter](https://charcounter.com/), [Word Counter](https://wordcounter.io/), [Character Counter](https://charactercalculator.com/), [charactercount](https://charactercount.tools/)
 
 ***
 
