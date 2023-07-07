@@ -230,8 +230,6 @@
 * [CiphersByRitter](http://ciphersbyritter.com/) - Cipher / Encryption Articles
 * [CacheMonkey](https://www.cachemonkey.app/) - Browse / Clear Cached Images
 * [HRef](https://href.li/) - Hide HTTP Referer
-* [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts 
-* [Cryptee](https://crypt.ee/) - Encrypted Image Storage
 * [PeerTube](https://joinpeertube.org/), [2](https://search.joinpeertube.org/), [3](https://sepiasearch.org/) - Decentralized Video Hosting / [Instances](https://instances.joinpeertube.org/instances)
 * [PrivNote](https://privnote.com/), [SafeNote](https://safenote.co/), [self-destruct-notes](https://github.com/dustinmoris/self-destruct-notes), [Burn.Link](https://burn.link/), [ThisLinkWillSelfDestruct](https://thislinkwillselfdestruct.com/), [s.cr](https://s.cr/) or [OneTimeSecret](https://onetimesecret.com/) - Send Self-Destructing Messages
 * [xcodx.ru](https://xcodx.ru/), [Duckist](https://duckist.com/), [chausies encrypt](https://chausies.xyz/encrypt), [Steg Cloak](https://stegcloak.surge.sh/) or [spam mimic](https://www.spammimic.com/index.cgi) - Send Encrypted Text
@@ -366,7 +364,7 @@
 * [IP / DNS Leak Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_dns_leak_tests) - Test for IP & DNS Leaks
 * [DNSCookie](http://dnscookie.com/) - Identify Related Network Flows
 * [Microsoft Security Intelligence](https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest) or [MalSite](https://rentry.co/malsite) - Report Unsafe Sites
-* [Phish.Report](https://phish.report/) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
+* [Phish.Report](https://phish.report/), [OpenPhish](https://openphish.com/), [PhishStats](https://phishstats.info/) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
 * [How-To Turn off IPv6](https://www.itechguides.com/disable-ipv6-windows-10/) - Prevent IP Leaks
 * [IPv6 Leak Test](https://ip6.nl/), [Test-IPv6](https://test-ipv6.com/) or [IPv6 Test](https://ipv6-test.com/) - IPv6 Leak Test
 * [Voidsec](https://ip.voidsec.com/) or [WebRTC Leak Test](https://www.expressvpn.com/webrtc-leak-test) - WebRTC Leak Test
@@ -401,16 +399,9 @@
 * [Redact](https://redact.dev/) - Delete Entire Online History / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
 * [Freenet Project](https://freenetproject.org/) - Browse / Publish Freenet Sites 
 * [Gopher](https://gopher.floodgap.com/gopher/) - Alternative Internet Protocol
-* [Cache Monkey](https://github.com/jamiepine/cache-monkey) - Convert, Browse & Clear Cached Images & Files 
-* [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - Blur Images / Scrub Metadata
-* [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data 
-* [Pic2Map](https://www.pic2map.com/) - Image EXIF data viewer with GPS support
-* [TheExifer](https://www.thexifer.net/) or [Exiv2](https://exiv2.org/) - Image EXIF Data Editor 
-* [Nameexif](https://us.digicamsoft.com/softnamexif.html) - Bulk Image EXIF Data Editor
 * [pdf-redact-tools](https://github.com/firstlookmedia/pdf-redact-tools) - Remove Metadata from Documents / PDF Files 
 * [Mat2](https://0xacab.org/jvoisin/mat2) / [Desktop](https://metadatacleaner.romainvigier.fr/), [2](https://0xacab.org/jvoisin/mat2-web), [metadata-cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - Remove Metadata from Files
 * [SecLists](https://seclists.org/) - Security Mailing List Archive 
-* [OpenPhish](https://openphish.com/) - Phishing Threat Data 
 * [Panopticlick](https://coveryourtracks.eff.org/) - Test if your Browser Blocks Tracking 
 * [Am I FLoCed?](https://amifloced.org/) or [FLoC Demo](https://floc.glitch.me/) - Check if Chrome Ad-Targeting is Enabled
 * [Yggdrasil](https://yggdrasil-network.github.io/), [2](https://github.com/yggdrasil-network) - IPv6 Network / [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go/)
