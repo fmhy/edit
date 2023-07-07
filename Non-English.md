@@ -397,6 +397,7 @@
 * [DropReference](https://dropreference.com/) - PC Building Site
 * [TrustScam](https://trustscam.fr/) - Website Security Analysis
 * [RedacBox](https://www.redacbox.fr/) - News / Guides for Writers and Entrepreneurs
+* [Portail Orange](https://www.orange.fr/portail) - Seach
 
 ## ▷ Downloading
 
@@ -584,6 +585,7 @@
 # ► Hebrew
 
 * [AB-Maps](https://www.abmaps.com/) - Map Tool
+* [Walla](https://www.walla.co.il/) - Search
 
 ## ▷ Streaming
 
@@ -779,6 +781,7 @@
 * [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Anime Subtitles
 * [Japan Reference](https://jref.com/) - Japanese Culture Forum
 * [fuseji](http://fuseji.net/) - Hidden Character Search
+* [goo](https://www.goo.ne.jp/) - Search
 
 ## ▷ Downloading
 
@@ -871,6 +874,7 @@
 * [Awesome Cafe](https://github.com/utilForever/awesome-cafe) - Korean Cafe List
 * [Sldict](https://sldict.korean.go.kr/) - Sign Language Learning
 * [National Hangeul Museum](https://www.hangeul.go.kr/main.do) - Hangeul Museum Information
+* [NAVER](https://www.naver.com/) - Search
 
 ## ▷ Downloading
 
@@ -941,6 +945,7 @@
 * [Targoman](http://targoman.ir/) - Translator / [GitHub](https://github.com/targoman)
 * [Wiki Censorship](https://wikicensorship.github.io/) - Internet Censorship Encyclopedia
 * [Persian Calendar](https://github.com/persian-calendar/persian-calendar) - Android Persian Calendar
+* [parseek](http://www.parseek.com/) - Search
 
 ## ▷ Downloading
 
@@ -1091,6 +1096,7 @@
 * ⭐ **[Guia de Pirataria para Iniciantes](https://rentry.org/PiracyBG-PTBR)** - Portuguese Beginners Guide to Piracy
 * ⭐ **[Portuguese Piracy Sites](https://rentry.org/PortuguesePiracySites)** - Portuguese Piracy Sites
 * [Invetexto](https://www.invertexto.com/) - Multiple Online Tools
+* [SAPO](https://www.sapo.pt/) - Search
 * [LegendaOfficial](http://legendaoficial.net/), [LegendasDivx](https://www.legendasdivx.pt/), [Legendas.tv](http://legendas.tv/), [Legendas](https://legendas.co/), [Legendei](https://legendei.top/), [Legendas.dev](https://legendas.net/) or [Leganda-Zone](https://www.legendas-zone.org/) - Subtitles
 * [legendasbrasil](https://legendasbrasil.org/) - Subtitle Search App
 * [MD Saude](https://www.mdsaude.com/) or [Tua Saude](https://www.tuasaude.com/) - Health News
@@ -1507,6 +1513,8 @@
 
 # ► Slovak
 
+* [Najdi.si](https://www.najdi.si/) - Search
+
 ## ▷ Streaming
 
 * [jOj Archive](https://www.joj.sk/archiv) - Movies / TV
@@ -1724,6 +1732,8 @@
 ***
 
 # ► Swedish
+
+* [Eniro](https://www.eniro.se/) - Search
 
 ## ▷ Streaming
 
