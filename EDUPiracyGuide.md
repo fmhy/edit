@@ -997,7 +997,7 @@ Simulator
 * [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets) - Public Datasets
 * [Location Data](https://locationdata.us/) or [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
-* [If It Were My Home](https://www.ifitweremyhome.com/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
+* [If It Were My Home](https://www.ifitweremyhome.com/), [GlobalEdge](https://globaledge.msu.edu/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
 * [EverySecond](https://everysecond.io/) - Visualize Per Second Data
 * [Internet Live Stats](https://www.internetlivestats.com/) - Live Internet Statistics
