@@ -99,7 +99,7 @@
 * [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki) / [IIDX Install Guide](https://docs.google.com/document/d/1SFfRb9nQK-riCdKChFprocVr97TqUxYra63wSK2fplo/edit?usp=drivesdk)
 * [Unnamed SDVX clone](https://github.com/Drewol/unnamed-sdvx-clone) - Sound Voltex Clone
 * [OpenTaiko](https://github.com/0auBSQ/OpenTaiko) - Taiko no Tatsujin Clone / [Taiko Simulator Guide](https://guide.tjadataba.se/) / [Custom Charts](https://tjadataba.se/)
-* [Etterna](https://etternaonline.com/), [Quaver](https://quavergame.com/), [O2Mania](https://o2mania.info/), [RoBeats CS](https://www.roblox.com/games/4841678118) or [Funky Friday](https://www.roblox.com/games/6447798030/XMAS-Event-Funky-Friday) - O2Jam Clones / [Online Maps](http://www.flashflashrevolution.com/)
+* [Etterna](https://etternaonline.com/), [Quaver](https://quavergame.com/), [O2Mania](https://o2mania.info/) or [RoBeats CS](https://www.roblox.com/games/4841678118) - O2Jam Clones / [Online Maps](http://www.flashflashrevolution.com/)
 * [osu!](https://osu.ppy.sh/home), [opsu!](https://itdelatrisu.github.io/opsu/), [osu!droid](https://osudroid.moe/) or [McOsu](https://store.steampowered.com/app/607260/McOsu/) - Osu! Tatakae! Ouendan Clones
 * [PPD](https://projectdxxx.me/) - Project Diva Clone
 * [Sound Space Plus](https://discord.gg/ssp) or [Vulnus Archive](https://discord.gg/w3PdcaG) - Sound Space Clones
@@ -756,6 +756,7 @@
 * [ColdAPI](https://github.com/Rat431/ColdAPI_Steam) - Offline Steam Emulator
 * [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
 * [Steam Mover](https://www.traynier.com/software/steammover) - Store Steam Games on Multiple Drives
+* [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms w/ Steam
 * [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
 * [The Wheelhaus](https://thewheelhaus.com/) - Find Random Steam Games
