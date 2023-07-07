@@ -403,6 +403,7 @@
 * [ExRx.net](https://exrx.net/) - Exercise Resources
 * [Cronometer](https://cronometer.com/) or [Waistline](https://github.com/davidhealey/waistline) - Track Nutrition & Calories
 * [MyFoodData](https://www.myfooddata.com) - Food Nutrition Tools
+* [Food-E App](https://github.com/SuhasDissa/Food-E-App) - Food Additives Database App
 * [wger](https://wger.de/) - Self-Hosted Workout, Nutrition / Weight App / [GitHub](https://github.com/wger-project/wger)
 * [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
 * [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - Daily Diet Recommendations / Android
