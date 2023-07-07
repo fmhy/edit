@@ -96,7 +96,6 @@
 * [BehindTheName](https://www.behindthename.com/) - Name Etymologies
 * [GitKraken Timeline](https://timelines.gitkraken.com/), [Timeline Cascade](https://markwhen.com/) / [GitHub](https://github.com/mark-when/markwhen), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Create Timelines
 * [Timeliner](https://github.com/mholt/timeliner) - Create Personal Digital Timeline
-* [Graph / Diagram Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_graph_.2F_diagram_creators)
 * [Familypedia](https://familypedia.fandom.com/), [Gramps](https://gramps-project.org/blog/) or [WikiTree](https://wikitree.com/) - Family Trees
 * [Ravelry](https://ravelry.com) - Fiber Artist Tools
 * [DreamForth](https://www.dreamforth.com/) - Dream Interpretations
@@ -1478,12 +1477,14 @@
 * [Playboard](https://playboard.co) - YouTube Channel Stats
 * [vidIQ](https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl) - YouTube Viewership Data
 * [Video Reacp](https://videorecap.viewodyssey.com/) - YouTube Year in Review Stats
-* [Channel Crawler](https://channelcrawler.com/eng) - YouTube Channel Search
 * [youtube-cld](https://github.com/anatolykopyl/youtube-cdl) - Bulk YouTube Channel Downloader
 * [TubeArchivist](https://www.tubearchivist.com/) - Archival YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
 * [YouTube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) - YouTube Comment Download Script
+* [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Fix Youtube Search / Declutter Homepage
+* [Channel Crawler](https://channelcrawler.com/eng) or [YT-FTS](https://github.com/NotJoeMartinez/yt-fts) - Channel Search Tools
+* [YouTube Playlist Search](https://greasyfork.org/en/scripts/14370-youtube-playlist-search) - Quickly Search YouTube Playlists
 * [Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/), [YCS](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa?hl=en) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
-* [Filmot](https://filmot.com/), [ytks](https://ytks.app/) or [Video Search for Youtube](https://github.com/masasron/Video-Search-For-YouTube/) - Search Within YouTube Transcripts
+* [Filmot](https://filmot.com/), [ytks](https://ytks.app/) or [Video Search for Youtube](https://github.com/masasron/Video-Search-For-YouTube/) - Search within YouTube Transcripts
 * [Upvote Anywhere](https://github.com/z0ccc/voat-extension), [Voat](https://voat.me/) or [Karamel](https://github.com/odensc/karamel) - Replace YouTube Comments with Reddit Comments
 * [Kament](https://kament.io/) - Add Comments Sections on Comment Disabled Videos
 * [Timestamped YouTube Comments](https://chrome.google.com/webstore/detail/timestamped-youtube-comme/gnpppldhfbbagiaalkddddajadhlgofm) - View Timestamped Comments
@@ -1514,8 +1515,7 @@
 * [Vid Repeat](https://vidrepeat.com/) - Loop YouTube Videos
 * [AnnotationsRestored](https://github.com/isaackd/AnnotationsRestored) or [YouTube Annotations](https://archive.org/details/youtubeannotations) - Restore YouTube Annotations
 * [YouTube Notes](https://instadeq.com/youtube-notes/) - YouTube Note Taking Tool
-* [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels 
-* [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Fix Youtube Search / Declutter Homepage 
+* [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels
 * [youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Video Like / Dislike Hotkeys
 * [YouTube Chronological Order](https://github.com/SleekPanther/youtube-chronological-order) - Watch YouTube Videos in Chronological Order 
 * [YouTube Upload Time](https://chrome.google.com/webstore/detail/youtube-upload-time/nenoecmaibjcahoahnmeinahlapheblg) - Check YouTube Upload Date
@@ -1523,7 +1523,6 @@
 * [Video Speed Controller](https://github.com/codebicycle/videospeed), [YouTube Speed Control](https://github.com/avi12/youtube-speed-control) or [TimerHooker](https://timer.palerock.cn/en/) - Control Speed of YouTube Videos
 * [Watch Frame by Frame](http://www.watchframebyframe.com/) - Watch Videos Frame by Frame
 * [Anilyzer](https://anilyzer.com/) - Watch YouTube Videos in Slow Motion / Frame by Frame
-* [YouTube Playlist Search](https://greasyfork.org/en/scripts/14370-youtube-playlist-search) - Quickly Search YouTube Playlists
 * [Playlist Creator for YouTube](https://chrome.google.com/webstore/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) or [Playlists at YouTube](https://playlists.at/youtube/) - Easily Create Playlists
 * [ytcc](https://github.com/woefe/ytcc) - Playlist Manager
 * [Bookmark It](https://bookmark-it.happydevelopers.co/) - Bookmark YouTube Videos
