@@ -617,19 +617,19 @@ pass: paluch
 
 #### MorphVOX
 
-`aHR0cHM6Ly9maWxlY3IuY29tLz9zPU1vcnBoVk9YK1Bybw==`
+`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9TW9ycGhWT1grUHJv`
 
 *** 
 
 #### Parted Magic
 
-`aHR0cHM6Ly9maWxlY3IuY29tLz9zPVBhcnRlZCttYWdpYw==`
+`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9TW9ycGhWT1grUHJv`
 
 *** 
 
 #### WindowFX Premium
 
-`aHR0cHM6Ly9maWxlY3IuY29tLz9zPVdpbmRvd0ZY`
+`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9V2luZG93Rlg=`
 
 *** 
 
@@ -665,7 +665,7 @@ pass: paluch
 
 #### Dark Reader
 
-`aHR0cHM6Ly9maWxlY3IuY29tLz9zPWRhcmsrcmVhZGVy`
+`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9ZGFyaytyZWFkZXI=`
 
 *** 
 
@@ -677,19 +677,19 @@ pass: paluch
 
 #### BuzzKill
 
-`aHR0cHM6Ly9maWxlY3IuY29tLz9zPWJ1enpraWxs`
+`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9YnV6emtpbGw=`
 
 *** 
 
 #### Dumpster
 
-`aHR0cHM6Ly9maWxlY3IuY29tLz9zPUR1bXBzdGVy`
+`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9RHVtcHN0ZXI=`
 
 *** 
 
 #### SmartLauncher Pro
 
-`aHR0cHM6Ly9maWxlY3IuY29tLz9zPXNtYXJ0K2xhdW5jaGVy`
+`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9c21hcnQrbGF1bmNoZXI=`
 
 *** 
 
@@ -827,13 +827,13 @@ pass: paluch
 
 #### Dropzone
 
-`aHR0cHM6Ly9maWxlY3IuY29tLz9zPWRyb3B6b25l`
+`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9ZHJvcHpvbmU=`
 
 ***
 
 #### PDF Expert
 
-`aHR0cHM6Ly9maWxlY3IuY29tLz9zPXBkZitleHBlcnQ=`
+`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9cGRmK2V4cGVydA==`
 
 ***
 
@@ -947,13 +947,13 @@ pass: paluch
 
 #### IDM
 
-`aHR0cHM6Ly9uc2FuZWZvcnVtcy5jb20vdG9waWMvMzcxMDQ3LWRpc2N1c3Npb24taW50ZXJuZXQtZG93bmxvYWQtbWFuYWdlci1maXhlcy8KaHR0cHM6Ly9yZW50cnkub3JnL0lETQpodHRwczovL2ZpbGVjci5jb20vP3M9SW50ZXJuZXQrRG93bmxvYWQrTWFuYWdlcj09`
+`aHR0cHM6Ly9uc2FuZWZvcnVtcy5jb20vdG9waWMvMzcxMDQ3LWRpc2N1c3Npb24taW50ZXJuZXQtZG93bmxvYWQtbWFuYWdlci1maXhlcy8KaHR0cHM6Ly9yZW50cnkub3JnL0lETQpodHRwczovL2ZpbGVjci5jb20vc2VhcmNoLz9xdWVyeT1JbnRlcm5ldCtEb3dubG9hZCtNYW5hZ2Vy`
 
 ***
 
 #### StellarInfo
 
-`aHR0cHM6Ly9maWxlY3IuY29tLz9zPVN0ZWxsYXIrRGF0YStSZWNvdmVyeQ==`
+`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9U3RlbGxhcitEYXRhK1JlY292ZXJ5`
 
 ***
 
@@ -983,13 +983,13 @@ pass: paluch
 
 #### Acrobat Pro
 
-`aHR0cHM6Ly93MTQubW9ua3J1cy53cy9zZWFyY2gvbGFiZWwvQWNyb2JhdApodHRwczovL2ZpbGVjci5jb20vP3M9QWRvYmUrQWNyb2JhdCtQUk8rREM=`
+`aHR0cHM6Ly93MTQubW9ua3J1cy53cy9zZWFyY2gvbGFiZWwvQWNyb2JhdApodHRwczovL2ZpbGVjci5jb20vc2VhcmNoLz9xdWVyeT1BZG9iZStBY3JvYmF0K1BSTytEQw==`
 
 ***
 
 #### Bandicam
 
-`aHR0cHM6Ly9maWxlY3IuY29tLz9zPWJhbmRpY2Ft`
+`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9YmFuZGljYW0=`
 
 ***
 
@@ -1133,7 +1133,7 @@ pass: paluch
 
 #### Universal Copy
 
-`aHR0cHM6Ly9maWxlY3IuY29tLz9zPVVuaXZlcnNhbCtDb3B5JnN1YmNhdF9maWx0ZXI9JmNhdGVnb3J5LXR5cGU9MjM=`
+`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9VW5pdmVyc2FsK0NvcHk=`
 
 ***
 
@@ -1157,7 +1157,7 @@ pass: paluch
 
 #### Tower
 
-`aHR0cHM6Ly9maWxlY3IuY29tLz9zPXRvd2VyK2dpdA==`
+`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9dG93ZXIrZ2l0`
 
 ***
 
@@ -1247,7 +1247,7 @@ pass: paluch
 
 #### Win 10 ROG
 
-`aHR0cHM6Ly9maWxlY3IuY29tLz9zPXdpbmRvd3MrMTArcm9n`
+`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9d2luZG93cysxMCtyb2c=`
 
 ***
 
