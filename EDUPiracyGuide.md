@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/0Fr0vvp)** - For mobile users
+**[Table of Contents](https://ibb.co/hBYcLp1)** - For mobile users
 
 ***
 ***
@@ -252,10 +252,6 @@
 ***
 
 ## ▷ [Manual Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_manual_sites)
-
-***
-
-## ▷ [Reference Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_reference_sites)
 
 ***
 
@@ -1017,3 +1013,7 @@ Simulator
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Information Database
 * [us_hate_crimes](https://github.com/dessalines/essays/blob/master/us_hate_crimes.md) - US Hate Crime Databsase
 * [Political Simulator](http://filteries.com/politics) - Politics / Economics Simulator
+
+***
+
+## ▷ [Reference Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_reference_sites)
