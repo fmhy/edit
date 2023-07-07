@@ -618,7 +618,6 @@
 
 # ► Indian Languages
 
-* [Indian Piracy Index](https://github.com/anymeofu/Indian-Piracy-Index) - Piracy Site / Tool Index
 * [PCPriceTracker](https://pcpricetracker.in/) - Track PC Component Rupee Prices
 * [Indic-Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indian Language Android Keyboard
 * [Upier](https://upier.vercel.app/) - Create Shareable Link for UPI Payments
@@ -645,6 +644,8 @@
 * [MLWBD](https://mlwbd.skin/) - Movies / TV / Anime / [Telegram](https://t.me/mlwbdnew)
 * [SadRip](https://sadrip.blogspot.com/) - Movies / TV
 * [Movies Counter](https://moviescounter.lat/) - Movies
+* [BollyMaza](https://m.bollymaza.click/) - Movies / TV
+* [MoviesNation](https://moviesnation.io/) - [Telegram](https://t.me/+H9DVOEblQUNkM2Rl)
 * [DesireMovies](https://desiremovies.motorcycles/) - Movies / TV
 * [DotMovies](https://dotmovies.boats/) - Movies / TV / Cartoons
 * [FullyMaza](https://fullymaza.buzz/) - Movies / TV / Cartoons
@@ -672,8 +673,8 @@
 
 ## ▷ Torrenting
 
-* ⭐ **[TamilBlasters](https://tamilblasters.world/)** - Torrent / Movies / [Proxy](https://tamilblasters.unblockit.click/)
-* ⭐ **[TamilMV](https://www.1tamilmv.news/)** - Torrent / Movies
+* ⭐ **[TamilBlasters](https://tamilblasters.world/)** - Movies / [Proxy](https://tamilblasters.unblockit.click/)
+* ⭐ **[TamilMV](https://www.1tamilmv.news/)** - Movies
 
 ## ▷ Streaming
 
@@ -690,8 +691,10 @@
 * [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - Movies
 * [HHDMovies](https://hhdmovies.mom/) - Movies / TV
 * [OKJatt](https://okjatt.boats/) - Movies / TV
+* [9kmovies](https://9kmovies.expert/) - Movies
 * [Online Movies Hindi](https://111.90.159.132/) - Movies
 * [HindiLover](https://namasteserials.com/) - TV
+* [MirrorBD](https://mirrorbd.one/) - Movies / [Telegram](https://t.me/mirrorbd_req)
 * [playdesi](https://playdesi.net/) - Movies / TV
 * [MovieHDPlus](https://www.moviehdplus.com/) -  Movies / TV
 * [Desi Serials](https://www.desi-serials.cc/) - Movies / TV / Live
