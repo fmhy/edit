@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.ibb.co/whMPcJV/image.png)** - For mobile users
+**[Table of Contents](https://ibb.co/VT8KyW1)** - For mobile users
 
 ***
 ***
@@ -511,13 +511,13 @@
 
 ## ▷ Streaming
 
+* ⭐ **[kinoking](https://kinoking.cc/)** - Movies / TV / Anime
 * [StartSeite](https://startseite.to/) - Movies / TV / NSFW / List
 * [streamkiste](https://streamkiste.tv/), [2](https://streamkiste.ink/) - Movies / TV
 * [KinoX](https://www.kinox.sx/), [2](https://www2.kinox.to/) - Movies / TV
 * [filmpalast](https://filmpalast.to/) - Movies / TV
 * [Film Palast](https://filmpalast.info/) - Movies / TV
 * [TopStreamFilm](https://topstreamfilm.io/) - Movies / TV
-* [kinoking](https://kinoking.cc/) - Movies / TV / Anime
 * [serienstream](https://serienstream.me/) - TV / Anime
 * [Megakino](https://megakino.org/) - Movies / TV
 * [BS.TO](https://www.bs.to/), [2](https://burningseries.tw/) - TV / Anime / Cartoons / [App](https://github.com/DATL4G/Burning-Series)
@@ -594,82 +594,6 @@
 
 ***
 
-# ► Hindi
-
-## ▷ Downloading
-
-* ⭐ **[OlaMovies](https://olamovies.quest/)** - Movies / TV / [Telegram](https://telegram.me/olamovies_official_v3)
-* ⭐ **[Full4Movies](https://www.full4movies.golf/)** - Movies / TV / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
-* [MoviesMod](https://moviesmod.net.in/) - Movies / TV / [Telegram](https://t.me/moviesmodcom)
-* [MKV Mad](https://www.mkvmad.day/) - Movies / TV / [Telegram](https://t.me/mkvmadofficial)
-* [Movies Flix](https://hdmoviesflix.pw/) - Movies / NSFW / [Telegram](https://t.me/hdmflix)
-* [Dudefilms](https://dudefilms.pics/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
-* [The Movies Flix](https://themoviezflix.eu.com/) - Movies / NSFW / [Telegram](https://t.me/themoviezflixac)
-* [KatMovieHD](https://katmoviehd.vg/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
-* [MKVHub](https://www.mkvhub.baby/) - Movies / TV / [Telegram](https://t.me/MkvHubCOM)
-* [Roshiya](https://roshiya.me/) - Movies / TV / [Telegram](https://t.me/roshiyanews)
-* [Filmymeet](https://www2.filmymeet.com.ph/) - Dub Movies / TV / [Telegram](https://telegram.dog/filmymeet)
-* [MkvCinemas](https://ww1.mkvcinemas.lat/) - Movies / TV / Anime / [Telegram](https://t.me/+QzypxAlB1MGvVXFG)
-* [Bolly4u](https://bolly4u.cafe/) - Movies / [Telegram](https://t.me/bolly4ucc)
-* [9xflix](https://9xflix.qpon/) - Movies / [Telegram](https://t.me/ninexflix)
-* [HDVogo](https://www.hdvogo.cfd/) - Movies
-* [moviesfd](https://moviesfd.gay/) - Movies / [Telegram](https://t.me/+q9CFdd5YILBjYzM8)
-* [Moviehunt](https://moviehunt.us) - Movies / TV
-* [UncutHD](https://www.uncuthd.mom/) - Movies
-* [AnimeAcademy](https://animeacademy.in/) - Anime / [Telegram](https://t.me/AnimeAcademyTeam)
-* [ToonWorld4All](https://www.toonworld4all.me/) - Cartoons / Anime / [Discord](https://discord.com/invite/qp8RD4JEpf) / [Telegram](https://discord.com/invite/qp8RD4JEpf)
-* [TVToonsIndia](https://tvtoonsindia.com/) - Cartoons / Anime / [Telegram](https://t.me/tvtoonsindiaofficial)
-* [PureToons](https://puretoons.cc/) - Cartoons / Anime
-* [New Hindi Animes](https://t.me/New_Hindi_Animes) - Anime
-* [Hindi Cartoons](https://telegra.ph/All-of-my-Channels-List-02-18) - Cartoons
-* [DesiRulez](https://www.desirulez.cc/) - Video / Audio
-* [WapKing](https://wapking.name/) - Music
-* [Pagalworld](https://www.pagalworld.tv/) - Music / [Telegram](https://t.me/pagalworldasli)
-* [PagalSong](https://pagalsong.in/) - Soundtracks
-
-## ▷ Streaming
-
-* [IndianCine](https://indiancine.ma/) - 62k Indian Films / Short Films
-* [mxplayer](https://www.mxplayer.in) - Movies
-* [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - Movies
-* [HHDMovies](https://hhdmovies.mom/) - Movies / TV
-* [OKJatt](https://okjatt.boats/) - Movies / TV
-* [Online Movies Hindi](https://111.90.159.132/) - Movies
-* [HindiLover](https://namasteserials.com/) - TV
-* [playdesi](https://playdesi.net/) - Movies / TV
-* [MovieHDPlus](https://www.moviehdplus.com/) -  Movies / TV
-* [Desi Serials](https://www.desi-serials.cc/) - Movies / TV / Live
-* [HindiLinks4u](https://hindilinks4u.date/) - Movies / TV
-* [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies
-* [HindiPix](https://hindipix.com/) - Movies / TV
-* [cinemakick](https://www.cinemakick.com/) - Movies
-* [movieapne](https://movieapne.co) - Movies
-* [MoviesCounter](https://moviescounter.loan/) - Movies
-* [HindiMovie](https://m.vk.com/hindimovie) - Movies
-* [Movi](https://www.movi.pk/) - Movies
-* [serialbaba](https://serialbaba.co/) - TV
-* [DesiTVBox](https://www.desitellybox.me/) - TV
-* [Bollyfunserial](https://freewatchserialonline.com/) - TV
-* [PakBcn](http://www.pakbcn.one/) - TV / Live
-* [Dead Toons India](https://www.deadtoons.co/) - Cartoons / Anime
-* [ToonWorld4All](https://www.toonworld4all.me/) - Cartoons / Anime
-* [Anime World India](https://anime-world.in/) - Cartoons / Anime / [Discord](https://discord.com/invite/c3ete48q8H)
-* [PepCoding](https://www.pepcoding.com/resources/) - C++ / Java Programming Courses
-* [DesiRulez](https://www.desirulez.cc/) - Video / Audio
-* [kukufm.com](https://kukufm.com/) - Podcasts / Radio / Audiobooks
-* [gaana](https://gaana.com/) - Music
-* [hungama](https://www.hungama.com/music/) - Music
-* [jiosaavn](https://www.jiosaavn.com/) - Music / [API](https://github.com/cyberboysumanjay/JioSaavnAPI)
-* [PhysicsWallah](https://www.youtube.com/c/PhysicsWallah/) - Physics Lessons / [Website](https://www.pw.live/)
-
-## ▷ Reading
-
-* [BDEBooks](https://bdebooks.com/) - Books
-* [Sanskrit Documents](https://sanskritdocuments.org) - Sacred Texts
-* [aryasamajjamnagar.org](https://www.aryasamajjamnagar.org/homepage.htm) - Hinduism
-
-***
-
 # ► Hungarian
 
 * [TorrentEmpire](https://torrent-empire.me/) - Torrent Discussion
@@ -689,6 +613,123 @@
 ## ▷ Torrenting
 
 * [Deildu](https://deildu.net/) - Torrents
+
+***
+
+# ► Indian Languages
+
+* [Indian Piracy Index](https://github.com/anymeofu/Indian-Piracy-Index) - Piracy Site / Tool Index
+* [PCPriceTracker](https://pcpricetracker.in/) - Track PC Component Rupee Prices
+* [Indic-Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indian Language Android Keyboard
+* [Upier](https://upier.vercel.app/) - Create Shareable Link for UPI Payments
+
+## ▷ Downloading
+
+* ⭐ **[OlaMovies](https://olamovies.quest/)** - Movies / TV / [Telegram](https://telegram.me/olamovies_official_v3)
+* ⭐ **[Full4Movies](https://www.full4movies.golf/)** - Movies / TV / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
+* [MoviesMod](https://moviesmod.net.in/) - Movies / TV / [Telegram](https://t.me/moviesmodcom)
+* ⭐ **[FreeDriveMovie](https://freedrivemovie.lol/)** - Movies
+* [Mallumv](https://mallumv.bio/) - Movies / [Telegram](https://tttttt.me/mallumvoff)
+* [Movies Point](https://sdmoviespoint.health/) - Movies
+* [SSR Movies](https://www.ssrmovies.baby/) - Movies / [Telegram](https://t.me/SSRmovies2022), [2](https://telegram3.xyz/)
+* [MkvMoviesPoint](https://mkvmoviespoint.help/) - Movies / [Telegram](https://telegram.me/mkvpoint1)
+* [MKV Mad](https://www.mkvmad.day/) - Movies / TV / [Telegram](https://t.me/mkvmadofficial)
+* [Movies Flix](https://hdmoviesflix.pw/) - Movies / NSFW / [Telegram](https://t.me/hdmflix)
+* [Dudefilms](https://dudefilms.pics/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
+* [The Movies Flix](https://themoviezflix.eu.com/) - Movies / NSFW / [Telegram](https://t.me/themoviezflixac)
+* [KatMovieHD](https://katmoviehd.vg/) - Movies / TV / Anime / [Telegram](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
+* [MKVHub](https://www.mkvhub.baby/) - Movies / TV / [Telegram](https://t.me/MkvHubCOM)
+* [Roshiya](https://roshiya.me/) - Movies / TV / [Telegram](https://t.me/roshiyanews)
+* [Filmymeet](https://www2.filmymeet.com.ph/) - Dub Movies / TV / [Telegram](https://telegram.dog/filmymeet)
+* [MkvCinemas](https://ww1.mkvcinemas.lat/) - Movies / TV / Anime / [Telegram](https://t.me/+QzypxAlB1MGvVXFG)
+* [MLWBD](https://mlwbd.skin/) - Movies / TV / Anime / [Telegram](https://t.me/mlwbdnew)
+* [SadRip](https://sadrip.blogspot.com/) - Movies / TV
+* [Movies Counter](https://moviescounter.lat/) - Movies
+* [DesireMovies](https://desiremovies.motorcycles/) - Movies / TV
+* [DotMovies](https://dotmovies.boats/) - Movies / TV / Cartoons
+* [FullyMaza](https://fullymaza.buzz/) - Movies / TV / Cartoons
+* [CineVood](https://cinevood.makeup/) - Movies
+* [Bolly4u](https://bolly4u.cafe/) - Movies / [Telegram](https://t.me/bolly4ucc)
+* [9xflix](https://9xflix.qpon/) - Movies / [Telegram](https://t.me/ninexflix)
+* [HDVogo](https://www.hdvogo.cfd/) - Movies
+* [moviesfd](https://moviesfd.gay/) - Movies / [Telegram](https://t.me/+q9CFdd5YILBjYzM8)
+* [Moviehunt](https://moviehunt.us) - Movies / TV
+* [Isaimini](https://isaimini.day/) - Movies / Music
+* [EdithSeedbox](https://t.me/EdithSeedBox) - Movies / TV / [Login](https://pastebin.com/bQkQpee4)
+* [UncutHD](https://www.uncuthd.mom/) - Movies
+* [AnimeAcademy](https://animeacademy.in/) - Anime / [Telegram](https://t.me/AnimeAcademyTeam)
+* [ToonWorld4All](https://www.toonworld4all.me/) - Cartoons / Anime / [Discord](https://discord.com/invite/qp8RD4JEpf) / [Telegram](https://discord.com/invite/qp8RD4JEpf)
+* [TVToonsIndia](https://tvtoonsindia.com/) - Cartoons / Anime / [Telegram](https://t.me/tvtoonsindiaofficial)
+* [PureToons](https://puretoons.cc/) - Cartoons / Anime
+* [New Hindi Animes](https://t.me/New_Hindi_Animes) - Anime
+* [Hindi Cartoons](https://telegra.ph/All-of-my-Channels-List-02-18) - Cartoons
+* [DesiRulez](https://www.desirulez.cc/) - Video / Audio
+* [WapKing](https://wapking.name/) - Music
+* [Pendujatt](https://www.pendujatt.net/) - Music
+* [Indian Flac Songs](https://t.me/indianflacsongs) - Music
+* [Pagalworld](https://www.pagalworld.tv/) - Music / [Telegram](https://t.me/pagalworldasli)
+* [PagalSong](https://pagalsong.in/) - Soundtracks
+
+## ▷ Torrenting
+
+* ⭐ **[TamilBlasters](https://tamilblasters.world/)** - Torrent / Movies / [Proxy](https://tamilblasters.unblockit.click/)
+* ⭐ **[TamilMV](https://www.1tamilmv.news/)** - Torrent / Movies
+
+## ▷ Streaming
+
+* ⭐ **[Einthusan](https://einthusan.tv/)** - Movies / Music
+* [tamilgun](https://tamilgun.team/) -  Movies / TV
+* [uWatchFree](https://uwatchfree.be/) - Movies / TV
+* [khatrimazafull](https://khatrimazaful.wiki/) - Movies
+* [9xmovies](https://9xmovies.expert/) - Movies
+* [Movierulz](https://movierulzhd.rest/) - Movies / TV / [Telegram](https://t.me/movierulz28)
+* [5movierulz](https://5movierulz.cc/) - Movies
+* [Toroflix](https://hindilinks4u.app/) - Movies
+* [IndianCine](https://indiancine.ma/) - 62k Indian Films / Short Films
+* [mxplayer](https://www.mxplayer.in) - Movies
+* [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - Movies
+* [HHDMovies](https://hhdmovies.mom/) - Movies / TV
+* [OKJatt](https://okjatt.boats/) - Movies / TV
+* [Online Movies Hindi](https://111.90.159.132/) - Movies
+* [HindiLover](https://namasteserials.com/) - TV
+* [playdesi](https://playdesi.net/) - Movies / TV
+* [MovieHDPlus](https://www.moviehdplus.com/) -  Movies / TV
+* [Desi Serials](https://www.desi-serials.cc/) - Movies / TV / Live
+* [HindiLinks4u](https://hindilinks4u.date/) - Movies / TV
+* [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies
+* [HindiPix](https://hindipix.com/) - Movies / TV
+* [TamilCrow](https://www.1tamilcrow.net/) - Movies / TV
+* [TamilYogi](https://tamilyogi.how/) - Movies
+* [SunTamil5](https://www.suntamil5.net/) - TV
+* [cinemakick](https://www.cinemakick.com/) - Movies
+* [movieapne](https://movieapne.co) - Movies
+* [MoviesCounter](https://moviescounter.loan/) - Movies
+* [HindiMovie](https://m.vk.com/hindimovie) - Movies
+* [Movi](https://www.movi.pk/) - Movies
+* [serialbaba](https://serialbaba.co/) - TV
+* [DesiTVBox](https://www.desitellybox.me/) - TV
+* [Bollyfunserial](https://freewatchserialonline.com/) - TV
+* [PakBcn](http://www.pakbcn.one/) - TV / Live
+* [JioTV](https://github.com/avipatilpro/JioTV) - Live TV Streaming Script
+* [Dead Toons India](https://www.deadtoons.co/) - Cartoons / Anime
+* [ToonWorld4All](https://www.toonworld4all.me/) - Cartoons / Anime
+* [Anime World India](https://anime-world.in/) - Cartoons / Anime / [Discord](https://discord.com/invite/c3ete48q8H)
+* [PepCoding](https://www.pepcoding.com/resources/) - C++ / Java Programming Courses
+* [DesiRulez](https://www.desirulez.cc/) - Video / Audio
+* [BotAllen](https://botallen.com/) - Kodi Repo
+* [kukufm.com](https://kukufm.com/) - Podcasts / Radio / Audiobooks
+* [OnlineFMRadio](https://www.onlinefmradio.in/) - Radio
+* [gaana](https://gaana.com/) - Music
+* [hungama](https://www.hungama.com/music/) - Music
+* [jiosaavn](https://www.jiosaavn.com/) - Music / [API](https://github.com/cyberboysumanjay/JioSaavnAPI)
+* [PhysicsWallah](https://www.youtube.com/c/PhysicsWallah/) - Physics Lessons / [Website](https://www.pw.live/)
+
+## ▷ Reading
+
+* [BDEBooks](https://bdebooks.com/) - Books
+* [Digital Library of India](https://dli.sanskritdictionary.com) - Books
+* [Sanskrit Documents](https://sanskritdocuments.org) - Sacred Texts
+* [aryasamajjamnagar.org](https://www.aryasamajjamnagar.org/homepage.htm) - Hinduism
 
 ***
 
@@ -1742,28 +1783,6 @@
 
 ***
 
-# ► Tamil
-
-## ▷ Streaming
-
-* [TamilCrow](https://www.1tamilcrow.net/) - Movies / TV
-* [TamilYogi](https://tamilyogi.how/) - Movies
-* [SunTamil5](https://www.suntamil5.net/) - TV
-
-## ▷ Downloading
-
-* [Isaimini](https://isaimini.day/) - Movies / Music
-
-***
-
-# ► Telugu
-
-## ▷ Downloading
-
-* [EdithSeedbox](https://t.me/EdithSeedBox) - Movies / TV / [Login](https://pastebin.com/bQkQpee4)
-
-***
-
 # ► Thai
 
 ## ▷ Streaming
@@ -1989,43 +2008,6 @@
 * [Babla](https://www.babla.vn/) - Dictionary
 * [VDict](https://vdict.com/) - Dictionary
 * [VTuDien](https://vtudien.com/) - Dictionary
-
-***
-
-# ► Multi Indian Languages
-
-* ⭐ **[Einthusan](https://einthusan.tv/)** - Streaming / Movies / Music
-* ⭐ **[TamilBlasters](https://tamilblasters.world/)** - Torrent / Movies / [Proxy](https://tamilblasters.unblockit.click/)
-* ⭐ **[TamilMV](https://www.1tamilmv.news/)** - Torrent / Movies
-* ⭐ **[FreeDriveMovie](https://freedrivemovie.lol/)** - Download / Movies
-* [Indian Piracy Index](https://github.com/anymeofu/Indian-Piracy-Index) - Piracy Site / Tool Index
-* [JioTV](https://github.com/avipatilpro/JioTV) - Live TV Streaming Script
-* [tamilgun](https://tamilgun.team/) -  Streaming / Movies / TV
-* [uWatchFree](https://uwatchfree.be/) - Streaming / Movies / TV
-* [khatrimazafull](https://khatrimazaful.wiki/) - Streaming / Download / Movies
-* [9xmovies](https://9xmovies.expert/) - Streaming / Download / Movies
-* [Movierulz](https://movierulzhd.rest/) - Streaming / Movies / TV / [Telegram](https://t.me/movierulz28)
-* [5movierulz](https://5movierulz.cc/) - Streaming / Movies
-* [Toroflix](https://hindilinks4u.app/) - Streaming / Movies
-* [SadRip](https://sadrip.blogspot.com/) - Movies / TV
-* [Movies Counter](https://moviescounter.lat/) - Download / Movies
-* [MLWBD](https://mlwbd.skin/) - Download / Movies / TV / Anime / [Telegram](https://t.me/mlwbdnew)
-* [DesireMovies](https://desiremovies.motorcycles/) - Download / Movies / TV
-* [DotMovies](https://dotmovies.boats/) - Download / Movies / TV / Cartoons
-* [FullyMaza](https://fullymaza.buzz/) - Download / Movies / TV / Cartoons
-* [CineVood](https://cinevood.makeup/) - Download / Movies
-* [Mallumv](https://mallumv.bio/) - Download / Movies / [Telegram](https://tttttt.me/mallumvoff)
-* [Movies Point](https://sdmoviespoint.health/) - Download / Movies
-* [SSR Movies](https://www.ssrmovies.baby/) - Download / Movies / [Telegram](https://t.me/SSRmovies2022), [2](https://telegram3.xyz/)
-* [MkvMoviesPoint](https://mkvmoviespoint.help/) - Download / Movies / [Telegram](https://telegram.me/mkvpoint1)
-* [Pendujatt](https://www.pendujatt.net/) - Download / Music
-* [Indian Flac Songs](https://t.me/indianflacsongs) - Download / Music
-* [Digital Library of India](https://dli.sanskritdictionary.com) - Books
-* [OnlineFMRadio](https://www.onlinefmradio.in/) - Radio
-* [BotAllen](https://botallen.com/) - Kodi Repo
-* [PCPriceTracker](https://pcpricetracker.in/) - Track PC Component Rupee Prices
-* [Indic-Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indian Language Android Keyboard
-* [Upier](https://upier.vercel.app/) - Create Shareable Link for UPI Payments
 
 ***
 
