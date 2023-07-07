@@ -607,7 +607,6 @@
 * [ReadSomethingGreat](https://www.readsomethinggreat.com/) - Internet Articles
 * [Google Scholar](https://scholar.google.com/) - Articles
 * [Mendeley](https://www.mendeley.com/) - Articles / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/)
-* [DOAJ](https://doaj.org/) - Journals / Articles
 * [ResearchGate](https://www.researchgate.net/) - Science Articles
 * [SciLit](https://www.scilit.net/) - Science Articles
 * [ScienceDirect](https://www.sciencedirect.com/) - Science Articles
@@ -634,9 +633,11 @@
 * [Kaggle](https://www.kaggle.com/datasets) - Datasets
 * [Data Catalog](https://datacatalog.worldbank.org/) - Datasets
 * [DBpedia](https://www.dbpedia.org/) - Datasets
+* [DOAJ](https://doaj.org/) - Journals / Articles
+* [AcademicJournals](https://academicjournals.org/) - Journals / Articles
+* [DOAJ](https://www.doaj.org/) - Journals / Articles
 * [mdpi](https://www.mdpi.com/) - Articles
 * [longdom](https://www.longdom.org/) - Articles
-* [DOAJ](https://www.doaj.org/) - Journals / Articles
 * [Typewriter](https://tetw.org/) - Educational Articles & Essays The Electric
 * [Docracy](https://www.docracy.com/ ) - Legal Documents
 * [E-International Relations](https://www.e-ir.info/) - International Relation Articles
