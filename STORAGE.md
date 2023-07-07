@@ -3196,7 +3196,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Wallpapers
 
-* ⭐ **[wallhaven](https://wallhaven.cc/)**
+* ⭐ **[wallhaven](https://wallhaven.cc/)** / [Downloader](https://github.com/eramdam/WallbaseDirectDownloader)
 * ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)**
 * ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013344/)**
 * [linus](https://thanos.lol/linus/) - LinusTechTips Walls
