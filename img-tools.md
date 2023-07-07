@@ -465,7 +465,6 @@
 * [Pixiv](https://www.pixiv.net/en/) - User-Made Image Host / [Downloader](https://chrome.google.com/webstore/detail/pixiv-toolkit/ajlcnbbeidbackfknkgknjefhmbngdnj?hl=en), [2](https://github.com/Nandaka/PixivUtil2) / [Mobile App](https://github.com/alphasp/pxview)
 * [Librephotos](https://github.com/LibrePhotos/librephotos), [Photoprism](https://github.com/photoprism/photoprism), [Photoview](https://github.com/photoview/photoview) or [Ownphotos](https://github.com/hooram/ownphotos/) - Self-Hosted Google Photo Manager 
 * [Pixelfed](https://pixelfed.org/) or [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts / [Android](https://gitlab.shinice.net/pixeldroid/PixelDroid)
-* [Cryptee](https://crypt.ee/) - Encrypted Image Storage
 * [Google Photos Takeout Helper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Cleanup a Google Photos Takeout
 
 ***
@@ -519,7 +518,7 @@
 * [imgsed](https://imgsed.com/), [YooYing](https://www.yooying.com/), [Picuki](https://www.picuki.com/), [InstaNavigation](https://instanavigation.com/), [Instafreeview](https://instafreeview.com/), [profile-picture-viewer](https://github.com/Ademking/profile-picture-viewer) or [Dumpor](https://dumpoir.com/) - Instagram Viewers
 * [FeedInABox](https://t.me/FeedinboxBot) - Telegram Bot
 * [Instagram Search Tool](https://www.aware-online.com/en/osint-tools/instagram-search-tool/) - Search Tool 
-* [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram Analysis
+* [Osintgram](https://github.com/Datalux/Osintgram), [Toutatis](https://github.com/megadose/toutatis) or [Sterraxcyl](https://github.com/novitae/sterraxcyl) - Instagram OSINT Tools
 * [Instagram-Explorer](https://www.osintcombine.com/instagram-explorer) - Explore Pictures by Location 
 * [Save Instagram](https://gist.github.com/g-rohit/f47170c8b3b302bcbe214ba624d636bc) - Enable Right Click / Save on Instagram 
 * [StoriesDown](https://storiesdown.com/), [instasaved](https://instasaved.net/en) or [insta-stories-viewer](https://insta-stories-viewer.com/) - Story Downloaders
@@ -551,7 +550,8 @@
 * [Adversarial](https://adversarial.io/) - Make Images Machine-Unreadable 
 * [BetterCensorship](https://bc.betterrepack.com/) - Censor and De-censor Images
 * [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/), [OnlineEXIFViewer](https://onlineexifviewer.com/), [ExifLooter](https://github.com/aydinnyunus/exifLooter) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - EXIF / Metadata Viewers
-* [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [MGOnline](https://www.imgonline.com.ua/delete-exif.php), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [Metadata-Remover](https://github.com/Anish-M-code/Metadata-Remover), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data 
+* [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [MGOnline](https://www.imgonline.com.ua/delete-exif.php), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [Metadata-Remover](https://github.com/Anish-M-code/Metadata-Remover), [Image Scrubber](https://everestpipkin.github.io/image-scrubber/), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data 
+* [Cache Monkey](https://github.com/jamiepine/cache-monkey) - Convert, Browse & Clear Cached Images & Files 
 * [Pic2Map](https://www.pic2map.com/) - Image EXIF data viewer with GPS support
 * [TheExifer](https://www.thexifer.net/index.php) or [Exiv2](https://exiv2.org/) - Image EXIF Data Editors 
 * [Nameexif](https://us.digicamsoft.com/softnamexif.html) - Bulk Image EXIF Data Editor
