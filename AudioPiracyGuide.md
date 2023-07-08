@@ -279,6 +279,7 @@
 * [General Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "audio"
 * [The Last Disaster](https://thelastdisaster.vip/) - Metal / Hardcore / Rock / MP3 / FLAC
 * [SongsLover](https://songslover.vip/) - MP3
+* [Ezhevika](http://ezhevika.blogspot.com/) - MP3
 * [VKMusic](https://denr01.com/vkm/) - MP3 / User: anon / pass: 12345
 * [nodata](https://nodata.tv/) - MP3
 * [Black Organization](https://blackorganizationmp3.wixsite.com/music) - MP3
