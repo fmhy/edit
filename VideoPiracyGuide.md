@@ -26,45 +26,42 @@
 * [JustChill](https://www.justchill.tv/en) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/y49g2tgNak)
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
 * [WatchSeries 2.0](https://watchseriess.io/), [2](https://watchmovie.ac/) - Movies / TV / Anime / 1080p
+* [PogoLinks](https://pogolinks.pics/) - Movies / TV / Anime / 1080p
 * [Series9](https://series9.sh/) - Movies / TV / Anime / 1080p
+* [DailyFlix](https://main.dailyflix.stream/) - Movies / TV / Anime / 1080p / [Link Site](https://main.dailyflix.info/)
 * [Levidia](https://www.levidia.ch/) - Movies / TV / Anime / 1080p
 * [EuroPixHD](https://europixhd.pro/), [2](https://epxmovies.net/) - Movies / TV / Anime / 1080p
 * [xpWatch](https://xpwatch.vercel.app/) - Movies / TV / Anime / 1080p
-* [MovieSee](https://moviesee.live/) - Movies / TV / 720p
-* [eSubMovies](https://www.esubmovie.com/) - Movies / 720p
+* [Goojara](https://www.goojara.to/) - Movies / TV / Anime / 1080p
+* [Kinos](https://www.kinos.to/) - Movies / TV / 1080p / [Switch Language](https://i.ibb.co/n1Kb14T/64d0fb9444e1.png) (in options)
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 1080p
+* [YMovies](https://ymovies.vip/) - Movies / TV / Anime / 1080p
 * [YesHD](https://yeshd.net/) - Movies / TV / 1080p
-* [OnionPlay](https://onionplay.se/) - Movies / TV / 1080p / [Mirrors](https://onionplay.network/)
-* [MoviesLair](https://movielair.cc/) - Movies / TV / 720p
-* [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime / 720p
+* [0123movies](https://0123movies.to/) - Movies / TV / 1080p
 * [MoviesXK](https://moviexk.biz/) - Movies / TV / 1080p
 * [KissMovies](https://kissmovies.pro/) - Movies / TV / 1080p
-* [PogoLinks](https://pogolinks.pics/) - Movies / TV / Anime / 1080p
+* [VidCloud](https://membed1.com/) - Movies / TV / 1080p
+* [123MoviesFree](https://ww1.123moviesfree.net/) - Movies / TV / Anime / 1080p
+* [NetMovies](https://netmovies.to/) - Movies / TV / 1080p
+* [MovGoTV](https://movgotv.net/) - Movies / TV / Anime / 1080p
+* [Lovemovie](https://lovemovie.org/) - Movies / TV / 1080p
+* [MovieFFM](https://www.movieffm.net/) - Movies / TV / 1080p / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [Yesmovies.show](https://ww3.yesmovies.show/) - Movies / TV / Anime / 1080p
+* [123Moviesd](https://123moviesd.com/) - Movies / TV / 1080p
+* [OnionPlay](https://onionplay.se/) - Movies / TV / 1080p / [Mirrors](https://onionplay.network/)
+* [HollyMovieHD](https://hollymoviehd.cc/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime / 720p
+* [MovieSee](https://moviesee.live/) - Movies / TV / 720p
+* [eSubMovies](https://www.esubmovie.com/) - Movies / 720p
+* [MoviesLair](https://movielair.cc/) - Movies / TV / 720p
+* [WatchSeries](https://watchseries.cyou/) - Movies / TV / 720p
+* [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime / 720p
 * [ConTV](https://www.contv.com/) - Movies / 720p
-* [VidCloud](https://membed1.com/) - Movies / TV
-* [Rainierland](https://rainierland.to/) - Movies / TV
-* [Afdah](https://afdah2.com/) - Movies
-* [XXIKU](https://xxiku.com/) - Movies
-* [FilarMovies](https://filarmovies.com/) - Movies / TV
-* [Yesmovies.show](https://ww3.yesmovies.show/) - Movies / TV / Anime 
-* [DailyFlix](https://main.dailyflix.stream/) - Movies / TV / Anime / [Link Site](https://main.dailyflix.info/) 
-* [Openload Movies](https://openloadmovies.ch/) - Movies
-* [Lovemovie](https://lovemovie.org/) - Movies / TV
-* [OpenCulture](https://www.openculture.com/freemoviesonline) - Movies
-* [CimaClub](https://cima-club.cam/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [MovieFFM](https://www.movieffm.net/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [moviz-time](https://moviz-time.one/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [MovGoTV](https://movgotv.net/) - Movies / TV / Anime
-* [TorrentKingNow](https://torrentkingnow.pro/) - Movies
-* [HollyMovieHD](https://hollymoviehd.cc/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime
-* [YMovies](https://ymovies.vip/) - Movies / TV / Anime
-* [FreeGreatMovies](https://www.freegreatmovies.com/) - Movies
-* [NetMovies](https://netmovies.to/) - Movies / TV
-* [Kinos](https://www.kinos.to/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Switch Language](https://i.ibb.co/n1Kb14T/64d0fb9444e1.png) (in options)
-* [SolarMovie](https://wwv.solarmovie.one/) - Movies / TV / Anime
-* [WatchSeries](https://watchseries.cyou/) - Movies / TV
-* [123Moviesd](https://123moviesd.com/) - Movies / TV
-* [0123movies](https://0123movies.to/) - Movies / TV
+* [Afdah](https://afdah2.com/) - Movies / 720p
+* [FFilmClub](https://filmsclub.org/) - Movies / TV / 720p
+* [XXIKU](https://xxiku.com/) - Movies / 720p
+* [FilarMovies](https://filarmovies.com/) - Movies / TV / 720p
+* [OpenCulture](https://www.openculture.com/freemoviesonline) - Movies / 720p
+* [FreeGreatMovies](https://www.freegreatmovies.com/) - Movies / 720p
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
 * [VidSrc](https://vidsrc.me/) - Movies / TV / Anime / API
@@ -75,76 +72,61 @@
 
 ## ▷ Single Server
 
-* ⭐ **[Ask4Movies](https://ask4movie.net/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
-* ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / Invite Code: mpgh or 1hack
-* ⭐ **[Watch A Movie](https://watcha.movie/)** - Movies / TV / [Discord](https://discord.gg/PvAg9Rc7kQ)
-* ⭐ **[C1NE](https://c1ne.co/)** - Movies / TV / [Discord](https://discord.gg/nXUP8TxNSR)
-* ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / [Discord](https://discord.gg/r4QrghF4B9)
-* ⭐ **[SockShare](http://sockshare.ac/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones) / Use Adblock
-* ⭐ **[LookMovie](https://lookmovie2.to/)** - Movies / TV / [Mirrors](https://proxymirrorlookmovie.github.io/)
-* [Tubi](https://tubitv.com) - Movies / TV / Use Adblock / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
-* [2Now.tv](https://2now.tv/) - Movies / TV
-* [OpenloadMovies](https://openloadmov.com/) or [Yify TV](https://ytsmovie.tv/) - Movies / TV
-* [UniqueStream](https://uniquestream.net/) - Movies / TV
-* [FreeTubeSpot](https://www.freetubespot.com/) - Movies
-* [UltraMovies](https://ultramovies.net/) - Movies / TV
-* [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime
-* [Vumoo](https://vumoo.to/) - Movies / TV
-* [FshareTV](https://fsharetv.co/) - Movies
-* [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - Movies / TV / Anime
-* [Mov.onl](https://www.mov.onl/) - Movies / TV
-* [Plex](https://watch.plex.tv/) - Movies / TV
-* [NetFilm](https://netfilm.app/) - Movies / TV / Anime
-* [RidoMovies](https://ridomovies.pw/) - Movies
-* [StreamLord](http://www.streamlord.com/) - Movies / TV
-* [Vidlink](https://vidlink.org/) - Movies
-* [WapFever](https://wapfever.com/) - Movies
-* [Trailers.to](https://trailers.to/) - Movies / TV / [Bypass Quota](https://openvideofs.github.io/)
-* [MP4Mania](https://mp4mania1.net/) - Movies / [How to Use](https://i.imgur.com/CdFCNWA.mp4)
-* [9PM](https://9pm.to/) - Movies / TV
-* [Goojara](https://www.goojara.to/) - Movies / TV / Anime
-* [SpaceMov](https://spacemov.site/) - Movies / TV
-* [Voody](https://voody-online.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [FFilmClub](https://filmsclub.org/) - Movies / TV
-* [MovieXFilm](https://moviexfilm.com/) - Movies / TV
-* [1movies](https://1movies.life/), [2](https://real-primewire.club/), [3](https://couchtuner.fashion/), [4](https://ww2.new-primewire.com/) - Movies / TV / Anime
-* [123MoviesFree](https://ww1.123moviesfree.net/) - Movies / TV / Anime
-* [123Moviess](https://123moviess.net/) - Movies / TV
-* [Show Flix](https://showflix.in/lan/movie/English) - Movies / TV / Switch Audio Source in Settings
-* [VHMovies](https://vhmovies.to/) - Movies / TV / Anime
-* [Moviehdkh](https://www.moviehdkh.com/) - Movies
-* [VidStore](https://stream.vidzstore.com/) - Movies
-* [HDWatched](https://www.hdwatched.me/) - Movies / TV
-* [aflaam](https://aflaam.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [Tainio-Mania](https://tainio-mania.online/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [Filma24](http://filma24.ch/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [Shoffree](https://shoffree.com) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [imjw](https://www.mjw77.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [Ling.online](https://ling-online.net/en/videos/films/) - Movies / TV
-* [Daily iFlix](https://dailyiflix.com) - Movies / TV
-* [Afdah.live](https://afdah.live/) - Movies / TV
-* [English Movies](https://m.vk.com/english_movies) - Movies
-* [0xDB](https://0xdb.org/) - Movies / [How-to](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies#wiki_method_2_-_streaming)
-* [Flixtor](https://flixtor.to) - Movies / TV / Movies Older Than 6 Months For Premium Only
-* [GotyTV](https://gotytv.com/) - Movies / TV / Requires Signup
+* ⭐ **[Ask4Movies](https://ask4movie.net/)** - Movies / TV / 1080p / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
+* ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / 1080p / Invite Code: mpgh or 1hack
+* ⭐ **[C1NE](https://c1ne.co/)** - Movies / TV / 1080p / [Discord](https://discord.gg/nXUP8TxNSR)
+* ⭐ **[Watch A Movie](https://watcha.movie/)** - Movies / TV / 1080p / [Discord](https://discord.gg/PvAg9Rc7kQ)
+* ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
+* ⭐ **[2Now](https://2now.tv/)** - Movies / TV / 1080p
+* ⭐ **[FshareTV](https://fsharetv.co/)** - Movies / 1080p
+* ⭐ **[RidoMovies](https://ridomovies.pw/)** - Movies / 1080p
+* ⭐ **[Ling.online](https://ling-online.net/en/videos/films/)** - Movies / TV / 1080p
+* ⭐ **[SockShare](http://sockshare.ac/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sockshare_clones) / Use Adblock
+* [LookMovie](https://lookmovie2.to/) - Movies / TV / 720p / [Mirrors](https://proxymirrorlookmovie.github.io/)
+* [Tubi](https://tubitv.com) - Movies / TV / 720p / Use Adblock / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
+* [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime / 1080p
+* [UltraMovies](https://ultramovies.net/) - Movies / TV / 1080p
+* [UniqueStream](https://uniquestream.net/) - Movies / TV / 1080p
+* [English Movies](https://m.vk.com/english_movies) - Movies / 1080p
+* [aflaam](https://aflaam.com/) - Movies / TV / 1080p / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [StreamLord](http://www.streamlord.com/) - Movies / TV / 1080p
+* [MoviehdKH](https://www.moviehdkh.com/) - Movies / 1080p
+* [PopcornFlix](https://www.popcornflix.com/) - Movies / TV / 1080p
+* [Crackle](https://www.crackle.com/) - Movies / TV / 1080p
+* [Freevee](https://www.amazon.com/gp/video/storefront/ref=atv_hm_hom_c_9zZ8D2_1_3?contentType=home&contentId=freetv) - Movies / TV / 1080p
+* [Roku](https://therokuchannel.roku.com/) - Movies / TV / 1080p
+* [Vudu](https://www.vudu.com/content/movies/uxpage/View-All-Free-Movies-TV/207) - Movies / TV / 1080p
+* [ShoutFactoryTV](https://www.shoutfactorytv.com/) - Movies / TV / 1080p
+* [Shoffree](https://shoffree.com) - Movies / TV / Anime / 1080p / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [imjw](https://www.mjw77.com/) - Movies / TV / 1080p / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [Show Flix](https://showflix.in/lan/movie/English) - Movies / TV / 1080p / Switch Audio Source in Settings
+* [GotyTV](https://gotytv.com/) - Movies / TV / 1080p / Requires Signup
+* [123Moviess](https://123moviess.net/) - Movies / TV / 1080p
+* [Filma24](http://filma24.ch/) - Movies / TV / 1080p / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / 1080p / Library Card Required
+* Peacock - [Movies](https://www.peacocktv.com/stream/movies) / [TV](https://www.peacocktv.com/stream/tv) / [Kids](https://www.peacocktv.com/stream/kids) / 1080p
+* [7+](https://7plus.com.au/) - Movies / TV / 1080p
+* [Playary](https://www.playary.com/) - Movies / TV / 1080p
+* [Fawesome](https://fawesome.tv/) - Movies / TV / 1080p
+* [LokLok](https://loklok.com/) - Movies / TV / 1080p
+* [ARTE](https://www.arte.tv/en) - Movies / TV / 1080p
+* [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / 1080p / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required
+* [Mov.onl](https://www.mov.onl/) - Movies / TV / 720p
+* [OpenloadMovies](https://openloadmov.com/) or [Yify TV](https://ytsmovie.tv/) - Movies / TV / 720p
+* [SpaceMov](https://spacemov.site/) - Movies / TV / 720p
+* [WapFever](https://wapfever.com/) - Movies / 720p
+* [Pluto](http://pluto.tv/on-demand) - Movies / TV / 720p
+* [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - Movies / TV / Anime / 720p
+* [Vumoo](https://vumoo.to/) or [9PM](https://9pm.to/) - Movies / TV / 720p
+* [Vidlink](https://vidlink.org/) - Movies / 720p
+* [VidStore](https://stream.vidzstore.com/) - Movies / 720p
+* [MovieXFilm](https://moviexfilm.com/) - Movies / TV / 720p
+* [VHMovies](https://vhmovies.to/) - Movies / TV / Anime / 720p
+* [Plex](https://watch.plex.tv/) - Movies / TV / 720p
+* [Flixtor](https://flixtor.to) - Movies / TV / 720p / Movies Older Than 6 Months For Premium Only
+* [FreeTubeSpot](https://www.freetubespot.com/) - Movies / 480p
+* [MP4Mania](https://mp4mania1.net/) - Movies / 360p / [How to Use](https://i.imgur.com/CdFCNWA.mp4)
 * [TeamDrive Indexes](https://github.com/nbats/FMHYedit/blob/main/base64.md#google-teamdrives) - Movies / TV / Anime
-* [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / Library Card Required
-* [PopcornFlix](https://www.popcornflix.com/) - Movies / TV
-* [Crackle](https://www.crackle.com/) - Movies / TV
-* [Freevee](https://www.amazon.com/gp/video/storefront/ref=atv_hm_hom_c_9zZ8D2_1_3?contentType=home&contentId=freetv) - Movies / TV
-* [ShoutFactoryTV](https://www.shoutfactorytv.com/) - Movies / TV
-* [Roku](https://therokuchannel.roku.com/) - Movies / TV
-* [Pluto](http://pluto.tv/on-demand) - Movies / TV
-* Peacock - [Movies](https://www.peacocktv.com/stream/movies) / [TV](https://www.peacocktv.com/stream/tv) / [Kids](https://www.peacocktv.com/stream/kids)
-* [Vudu](https://www.vudu.com/) - Movies / TV
-* [PBS](https://www.pbs.org/video/) - Movies / TV
-* [7+](https://7plus.com.au/) - Movies / TV
-* [Playary](https://www.playary.com/) - Movies / TV
-* [Fawesome](https://fawesome.tv/) - Movies / TV
-* [LokLok](https://loklok.com/) - Movies / TV
-* [ARTE](https://www.arte.tv/en) - Movies / TV
-* [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required
-* [Amazon Free w/ Ads](https://www.amazon.com/free-ads/s?k=free+with+ads) - Movies / TV
 * [Free Netflix](https://rentry.co/Free-Netflix) - Free Netflix Method
 * [JustWatch](https://www.justwatch.com/), [Yidio](https://www.yidio.com/movies/filter/free) or [ReelGood](https://reelgood.com/) - Search Legal Streaming Hosts
 * [Manually Scrape Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manually_scrape_sites) - Search Sites Manually
@@ -225,6 +207,7 @@
 * [USNationalArchives](https://www.youtube.com/@USNationalArchives) - Movies / Short Films
 * [Viddsee](https://www.viddsee.com/), [MAFF](https://www.maff.tv/), [Short of the Week](https://www.shortoftheweek.com/), [Argo](https://web.watchargo.com/), [Shortly](https://watch.shortly.film/) or [Audpop](https://audpop.com/) - Short Films
 * [HuntleyArchives](https://www.huntleyarchives.com/) - Rare / Forgotten Short Films
+* [0xDB](https://0xdb.org/) - Rare Movies / [How-to](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-rare-movies#wiki_method_2_-_streaming)
 * [FootageFarm](https://footagefarm.com/) - Public Domain Films
 * [The Travel Film Archive](https://travelfilmarchive.com/) - Public Domain Stock Footage
 * [commons.wikimedia](https://commons.wikimedia.org/wiki/Category:Videos) - Wiki Commons Video Files
