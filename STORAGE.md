@@ -339,7 +339,7 @@
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)**
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)**
 
-[RapidTables](https://www.rapidtables.com/), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [Number Empire](https://www.numberempire.com/), [EasyCalculation](https://www.easycalculation.com/), [CalculatorHut](https://www.calculatorhut.com/), [Calculation Calculator](https://calculationcalculator.com/), [Calculator.net](https://www.calculator.net/), [Justfreetools](https://www.justfreetools.com/en/all-calculators), [Calculatio](https://calculat.io/), [Keisan Online Calculator](https://keisan.casio.com/), [calculator.com](https://calculator.com/), [Online Calculator](https://www.online-calculator.com/), [CalculatorT](https://calculatort.com/), [Ultra Calculator](https://www.ultracalculator.net/), [Calculator Online](https://calculator-online.net/), [GIGAcalculator](https://www.gigacalculator.com/), [All-In-One Calculator](https://www.allinonecalculator.com)
+[RapidTables](https://www.rapidtables.com/), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [Number Empire](https://www.numberempire.com/), [EasyCalculation](https://www.easycalculation.com/), [CalculatorHut](https://www.calculatorhut.com/), [Calculation Calculator](https://calculationcalculator.com/), [Calculator.net](https://www.calculator.net/), [Justfreetools](https://www.justfreetools.com/en/all-calculators), [Calculatio](https://calculat.io/), [Keisan Online Calculator](https://keisan.casio.com/), [calculator.com](https://calculator.com/), [Online Calculator](https://www.online-calculator.com/), [CalculatorT](https://calculatort.com/), [Ultra Calculator](https://www.ultracalculator.net/), [Calculator Online](https://calculator-online.net/), [GIGAcalculator](https://www.gigacalculator.com/), [All-In-One Calculator](https://www.allinonecalculator.com), [KeepFormula](https://keepformula.github.io/)
 
 ***
 
@@ -1823,7 +1823,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[PrivateBin](https://privatebin.info/directory/)**
 * ⭐ **[katb](https://katb.in/)**
 
-[TextBin](https://textbin.xyz/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [pst.moe](https://pst.moe/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [bin.idrix](https://bin.idrix.fr/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/) / [2](https://dpaste.org/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [fssquad](https://share.fssquad.com/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [paaster](https://paaster.io/), [nopaste](https://nopaste.ml/), [pastery](https://www.pastery.net/), [privatebin](https://privatebin.net/), [pastebin.pl](https://pastebin.pl/), [paste.gg](https://paste.gg/), [bpa](https://bpa.st/), [bin](https://bin.gy/), [paste.fo](https://paste.fo/), [sprunge](http://sprunge.us/), [nekobin](https://nekobin.com/), [hasbin](https://hashb.in), [Defuse](https://defuse.ca/pastebin.htm), [gocatgo](https://github.com/vaaleyard/gocatgo), [zerobin](https://zerobin.net/), [paste.vaa.red](https://paste.vaa.red/), [Hasty Paste](https://github.com/enchant97/hasty-paste), [bucketex](https://bucketex.com/), [hardbin](https://hardbin.com/), [hatebin](https://hatebin.com/), [pastemytxt](https://pastemytxt.com/), [txtpaste](https://txtpaste.com/), [pastecode](https://pastecode.io/), [pastehere](https://pastehere.xyz/), [txtnotes](https://txtnotes.co/), [paste.debian](https://paste.debian.net/), [ivpaste](https://ivpaste.com/), [centos](https://paste.centos.org/)
+[TextBin](https://textbin.xyz/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [pst.moe](https://pst.moe/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [bin.idrix](https://bin.idrix.fr/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/) / [2](https://dpaste.org/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [fssquad](https://share.fssquad.com/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [paaster](https://paaster.io/), [nopaste](https://nopaste.ml/), [pastery](https://www.pastery.net/), [privatebin](https://privatebin.net/), [pastebin.pl](https://pastebin.pl/), [paste.gg](https://paste.gg/), [bpa](https://bpa.st/), [bin](https://bin.gy/), [paste.fo](https://paste.fo/), [sprunge](http://sprunge.us/), [nekobin](https://nekobin.com/), [hasbin](https://hashb.in), [Defuse](https://defuse.ca/pastebin.htm), [gocatgo](https://github.com/vaaleyard/gocatgo), [zerobin](https://zerobin.net/), [paste.vaa.red](https://paste.vaa.red/), [Hasty Paste](https://github.com/enchant97/hasty-paste), [bucketex](https://bucketex.com/), [hardbin](https://hardbin.com/), [hatebin](https://hatebin.com/), [pastemytxt](https://pastemytxt.com/), [txtpaste](https://txtpaste.com/), [pastecode](https://pastecode.io/), [pastehere](https://pastehere.xyz/), [txtnotes](https://txtnotes.co/), [paste.debian](https://paste.debian.net/), [ivpaste](https://ivpaste.com/), [centos](https://paste.centos.org/), [rwtxt](https://rwtxt.com/), [blankslate](https://blankslate.io/)
 
 ***
 
@@ -2070,7 +2070,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### QR Code Generators
 
-[QR Tiger](https://www.qrcode-tiger.com/), [QRCodeMonkey](https://www.qrcode-monkey.com/), [qr-code-generator](https://mention.com/en/qr-code-generator/), [amazing-qr](https://github.com/x-hw/amazing-qr), [qr_code_generator](https://www.nirsoft.net/utils/qr_code_generator.html), [QR Code Generator](https://www.the-qrcode-generator.com/), [CodeTwo](https://www.codetwo.com/freeware/qr-code-desktop-reader/), [Zxing](http://zxing.appspot.com/generator), [barcodrod](https://barcodrod.io/)
+[QR Tiger](https://www.qrcode-tiger.com/), [QRCodeMonkey](https://www.qrcode-monkey.com/), [qr-code-generator](https://mention.com/en/qr-code-generator/), [amazing-qr](https://github.com/x-hw/amazing-qr), [qr_code_generator](https://www.nirsoft.net/utils/qr_code_generator.html), [QR Code Generator](https://www.the-qrcode-generator.com/), [CodeTwo](https://www.codetwo.com/freeware/qr-code-desktop-reader/), [Zxing](http://zxing.appspot.com/generator), [barcodrod](https://barcodrod.io/), [sharesnip](https://sharesnip.rosano.ca/)
 
 **Custom QR Code Generators**
 
@@ -2095,7 +2095,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Random Image Sites
 
-[r.sine.com](https://r.sine.com/index), [Pretty Flix](https://cvines528.github.io/Pretty-Flix/), [Cameron.Red](https://cameron.red/imgur/), [Funnyjunk](https://funnyjunk.com//), [f0ck](https://f0ck.me/), [ImgFlip](https://imgflip.com/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/), [IWasteSoMuchTime](https://www.iwastesomuchtime.com/), [iFunny](https://ifunny.co/), [Imageboard Scraper](https://nik.bot.nu/), [KongouCheats](https://kongoucheats.com/), [RandomWaffle](https://randomwaffle.gbs.fm/), [Wimp.com](https://www.wimp.com/)
+[r.sine.com](https://r.sine.com/index), [Pretty Flix](https://cvines528.github.io/Pretty-Flix/), [Cameron.Red](https://cameron.red/imgur/), [Funnyjunk](https://funnyjunk.com//), [f0ck](https://f0ck.me/), [ImgFlip](https://imgflip.com/), [9Gag](https://9gag.com/), [Thread-Puller](https://thread-puller.party/), [IWasteSoMuchTime](https://www.iwastesomuchtime.com/), [iFunny](https://ifunny.co/), [Imageboard Scraper](https://nik.bot.nu/), [KongouCheats](https://kongoucheats.com/), [RandomWaffle](https://randomwaffle.gbs.fm/), [Wimp.com](https://www.wimp.com/), [Heahy](https://www.heahy.com/)
 
 ***
 
@@ -2200,7 +2200,9 @@ Add the following commands to a search to manually scrape each site.
 
 **Extensions**
 
-[Feedbro](https://nodetics.com/feedbro/), [Brief](https://github.com/brief-rss/brief), [Smart-RSS](https://github.com/SmartRSS/Smart-RSS), [Fraidycat](https://fraidyc.at/)
+* ⭐ **[Feedbro](https://nodetics.com/feedbro/)**
+
+[Brief](https://github.com/brief-rss/brief), [Smart-RSS](https://github.com/SmartRSS/Smart-RSS), [Fraidycat](https://fraidyc.at/)
 
 ***
 
@@ -3093,7 +3095,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Video Chat
 
-[Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [kemeet](https://kemeet.vercel.app/), [MiroTalk](https://mirotalk.up.railway.app/), [p2p.chat](https://p2p.chat/) / [GitHub](https://github.com/tom-james-watson/p2p.chat), [Whereby](https://whereby.com/), [Videolink2me](https://videolink2me.com/), [TinyChat](https://tinychat.com/), [Noysi Meet](https://meet.noysi.com/), [Tlk](https://tlk.li/), [iqc](https://icq.com/), [Crewdle](https://crewdle.com/), [Briefing](https://brie.fi/ng), [Airmeet](https://www.airmeet.com/), [Brave Talk](https://talk.brave.com/), [Temasys](https://temasys.io/), [Talky](https://talky.io/), [Grain](https://grain.com/),  [Pyrite](https://github.com/garage44/pyrite)
+[Jitsi](https://desktop.jitsi.org/index.html) / [2](https://meet.jit.si/), [Zoom-Clone](https://github.com/Shouraya/Zoom-Clone), [kemeet](https://kemeet.vercel.app/), [MiroTalk](https://mirotalk.up.railway.app/), [p2p.chat](https://p2p.chat/) / [GitHub](https://github.com/tom-james-watson/p2p.chat), [Whereby](https://whereby.com/), [Videolink2me](https://videolink2me.com/), [TinyChat](https://tinychat.com/), [Noysi Meet](https://meet.noysi.com/), [Tlk](https://tlk.li/), [iqc](https://icq.com/), [Crewdle](https://crewdle.com/), [Briefing](https://brie.fi/ng), [Airmeet](https://www.airmeet.com/), [Brave Talk](https://talk.brave.com/), [Temasys](https://temasys.io/), [Talky](https://talky.io/), [Grain](https://grain.com/),  [Pyrite](https://github.com/garage44/pyrite), [GoTeam](https://goteam.video/)
 
 ***
 
