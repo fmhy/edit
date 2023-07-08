@@ -893,6 +893,7 @@
 * [MangaOwl](https://mangaowl.to/)
 * [MangaReader](https://mangareader.cc/)
 * [ReadMangaFree](https://readmangafree.net/)
+* [Manga Miso](https://mangamiso.net/)
 * [Colored Manga](https://coloredmanga.com/) - [Discord](https://discord.com/invite/j66bPX4z8M)
 * [Mangarolls](https://mangarolls.com/)
 * [Mangabtt](https://mangabtt.com/)
@@ -1128,7 +1129,7 @@
 * [ThoughtCo](https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215)
 * [Library of Congress Newspapers](https://www.loc.gov/rr/news/oltitles.html)
 * [Archive.org Newspapers](https://github.com/nbats/FMHYedit/blob/main/base64.md#archiveorg-newspapers)
-* [World-Newspapers](https://world-newspapers.com/) or [Paperboy](https://www.thepaperboy.com/) - Online Newspaper Index
+* [World-Newspapers](https://world-newspapers.com/), [NewsPaperIndex](https://www.newspaperindex.com/) or [Paperboy](https://www.thepaperboy.com/) - Online Newspaper Indexes
 * [LA Times](https://latimes.newspapers.com/)
 * [NYTimes-Compose](https://github.com/akshay2211/NYTimes-Compose) - NY Times Top Story App
 * [Europeana Newspapers](https://www.europeana.eu/en/collections/topic/18-newspapers) - European Historical Newspapers
