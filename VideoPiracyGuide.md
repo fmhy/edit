@@ -4,14 +4,14 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/XjkyYVB)** - For mobile users
+**[Table of Contents](https://ibb.co/5Lf5sFf)** - For mobile users
 
 ***
 ***
 
 # ► Streaming Sites
 
-## ▷ Multi Server
+## ▷ Multi Servers
 
 * ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / 1080p / [Discord](https://discord.gg/vXsRvye8BS)
 * ⭐ **[FMovies](https://fmovies.name/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
