@@ -140,7 +140,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 ### Streaming 📽
 
 **[FMovies](https://fmovies.name/) / [movie-web](https://movie-web.app/)** - Fast streaming
-**[Zoro](https://zoro.to/) / [Marin](https://marin.moe/) / [9Anime](https://www.9anime.to/)** - Fast anime streaming
+**[AniWatch](https://aniwatch.to/) / [Marin](https://marin.moe/) / [9Anime](https://www.9anime.to/)** - Fast anime streaming
 **[Dramacool](https://dramacool.cy/) / [KissAsian](https://kissasian.li/)** - Fast Asian drama streaming
 **[SportsSurge](https://sportsurge.net/)** - Live sports streaming
 **[Spotify](https://spotify.com/) / [YouTube Music](https://music.youtube.com/)** - Music & podcast streaming / [Spotify Adblock](https://github.com/amd64fox/SpotX)
