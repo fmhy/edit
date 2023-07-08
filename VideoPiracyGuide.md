@@ -4,14 +4,79 @@
 ***
 ***
 
-**[Table of Contents](https://i.ibb.co/zJ1b9qc/9dbbc10b0db2.png)** - For mobile users
+**[Table of Contents](https://ibb.co/XjkyYVB)** - For mobile users
 
 ***
 ***
 
 # ► Streaming Sites
 
-## ▷ Dedicated Hosts
+## ▷ Multi Server
+
+* ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / 1080p / [Discord](https://discord.gg/vXsRvye8BS)
+* ⭐ **[FMovies](https://fmovies.name/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
+* ⭐ **[Seez](https://seez.su/)** - Movies / TV / 1080p
+* ⭐ **[SmashyStream](https://embed.smashystream.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
+* ⭐ **[FlixHQ](https://flixhq.click/)** - Movies / TV / Anime / 1080p
+* ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
+* ⭐ **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
+* ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime / 1080p
+* ⭐ **[Kodi](https://kodi.tv/)** - Media Server / Streaming App / [Addons / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kodi_tools)
+* ⭐ **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - Multi-Site Search
+* [JustChill](https://www.justchill.tv/en) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/y49g2tgNak)
+* [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
+* [WatchSeries 2.0](https://watchseriess.io/), [2](https://watchmovie.ac/) - Movies / TV / Anime / 1080p
+* [Series9](https://series9.sh/) - Movies / TV / Anime / 1080p
+* [Cloudy](https://cloudy.pk/category/english/) - Movies / TV
+* [Levidia](https://www.levidia.ch/) - Movies / TV / Anime / 1080p
+* [EuroPixHD](https://europixhd.pro/), [2](https://epxmovies.net/) - Movies / TV / Anime / 1080p
+* [xpWatch](https://xpwatch.vercel.app/) - Movies / TV / Anime / 1080p
+* [MovieSee](https://moviesee.live/) - Movies / TV / 720p
+* [eSubMovies](https://www.esubmovie.com/) - Movies
+* [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
+* [YesHD](https://yeshd.net/) - Movies / TV / 1080p
+* [OnionPlay](https://onionplay.se/) - Movies / TV / [Mirrors](https://onionplay.network/)
+* [Filmxy](https://www.filmxy.online/) - Movies
+* [MoviesLair](https://movielair.cc/) - Movies / TV
+* [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime
+* [MoviesXK](https://moviexk.biz/) - Movies / TV
+* [KissMovies](https://kissmovies.pro/) - Movies / TV
+* [PogoLinks](https://pogolinks.pics/) - Movies / TV / Anime
+* [TamilRockerMovies](https://www.tamilrockermovies.cf/search/label/Hollywood) - Movies
+* [ConTV](https://www.contv.com/) - Movies
+* [VidCloud](https://membed1.com/) - Movies / TV
+* [Rainierland](https://rainierland.to/) - Movies / TV
+* [Afdah](https://afdah2.com/) - Movies
+* [XXIKU](https://xxiku.com/) - Movies
+* [FilarMovies](https://filarmovies.com/) - Movies / TV
+* [Yesmovies.show](https://ww3.yesmovies.show/) - Movies / TV / Anime 
+* [DailyFlix](https://main.dailyflix.stream/) - Movies / TV / Anime / [Link Site](https://main.dailyflix.info/) 
+* [Openload Movies](https://openloadmovies.ch/) - Movies
+* [Lovemovie](https://lovemovie.org/) - Movies / TV
+* [OpenCulture](https://www.openculture.com/freemoviesonline) - Movies
+* [CimaClub](https://cima-club.cam/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [MovieFFM](https://www.movieffm.net/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [moviz-time](https://moviz-time.one/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [MovGoTV](https://movgotv.net/) - Movies / TV / Anime
+* [TorrentKingNow](https://torrentkingnow.pro/) - Movies
+* [HollyMovieHD](https://hollymoviehd.cc/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime
+* [YMovies](https://ymovies.vip/) - Movies / TV / Anime
+* [FreeGreatMovies](https://www.freegreatmovies.com/) - Movies
+* [NetMovies](https://netmovies.to/) - Movies / TV
+* [Kinos](https://www.kinos.to/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Switch Language](https://i.ibb.co/n1Kb14T/64d0fb9444e1.png) (in options)
+* [SolarMovie](https://wwv.solarmovie.one/) - Movies / TV / Anime
+* [WatchSeries](https://watchseries.cyou/) - Movies / TV
+* [123Moviesd](https://123moviesd.com/) - Movies / TV
+* [0123movies](https://0123movies.to/) - Movies / TV
+* [GoMo](https://gomo.to/) - Movies / TV / Anime / API
+* [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
+* [VidSrc](https://vidsrc.me/) - Movies / TV / Anime / API
+* [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Telegram File Streaming
+* [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) - Add Stream Search Buttons to IMDb
+
+***
+
+## ▷ Single Server
 
 * ⭐ **[Ask4Movies](https://ask4movie.net/)** - Movies / TV / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
 * ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / Invite Code: mpgh or 1hack
@@ -87,71 +152,6 @@
 * [JustWatch](https://www.justwatch.com/), [Yidio](https://www.yidio.com/movies/filter/free) or [ReelGood](https://reelgood.com/) - Search Legal Streaming Hosts
 * [Manually Scrape Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manually_scrape_sites) - Search Sites Manually
 * [Dirtywarez Ranking](https://dirtywarez.org/cat/streaming), [Watch Movies Free](https://redd.it/rbpag2), [StreamingSites](https://streamingsites.com/), [3db7](https://3db7.xyz/stream/website) or [Movies-Play](https://movies-play.com/) - Streaming Site Lists
-
-***
-
-## ▷ Multi Hosts
-
-* ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / 1080p / [Discord](https://discord.gg/vXsRvye8BS)
-* ⭐ **[FMovies](https://fmovies.name/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
-* ⭐ **[Seez](https://seez.su/)** - Movies / TV / 1080p
-* ⭐ **[SmashyStream](https://embed.smashystream.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
-* ⭐ **[FlixHQ](https://flixhq.click/)** - Movies / TV / Anime / 1080p
-* ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
-* ⭐ **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
-* ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime / 1080p
-* ⭐ **[Kodi](https://kodi.tv/)** - Media Server / Streaming App / [Addons / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kodi_tools)
-* ⭐ **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - Multi-Site Search
-* [JustChill](https://www.justchill.tv/en) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/y49g2tgNak)
-* [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
-* [WatchSeries 2.0](https://watchseriess.io/), [2](https://watchmovie.ac/) - Movies / TV / Anime / 1080p
-* [Series9](https://series9.sh/) - Movies / TV / Anime / 1080p
-* [Cloudy](https://cloudy.pk/category/english/) - Movies / TV
-* [Levidia](https://www.levidia.ch/) - Movies / TV / Anime / 1080p
-* [EuroPixHD](https://europixhd.pro/), [2](https://epxmovies.net/) - Movies / TV / Anime / 1080p
-* [xpWatch](https://xpwatch.vercel.app/) - Movies / TV / Anime / 1080p
-* [MovieSee](https://moviesee.live/) - Movies / TV / 720p
-* [eSubMovies](https://www.esubmovie.com/) - Movies
-* [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
-* [YesHD](https://yeshd.net/) - Movies / TV / 1080p
-* [OnionPlay](https://onionplay.se/) - Movies / TV / [Mirrors](https://onionplay.network/)
-* [Filmxy](https://www.filmxy.online/) - Movies
-* [MoviesLair](https://movielair.cc/) - Movies / TV
-* [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime
-* [MoviesXK](https://moviexk.biz/) - Movies / TV
-* [KissMovies](https://kissmovies.pro/) - Movies / TV
-* [PogoLinks](https://pogolinks.pics/) - Movies / TV / Anime
-* [TamilRockerMovies](https://www.tamilrockermovies.cf/search/label/Hollywood) - Movies
-* [ConTV](https://www.contv.com/) - Movies
-* [VidCloud](https://membed1.com/) - Movies / TV
-* [Rainierland](https://rainierland.to/) - Movies / TV
-* [Afdah](https://afdah2.com/) - Movies
-* [XXIKU](https://xxiku.com/) - Movies
-* [FilarMovies](https://filarmovies.com/) - Movies / TV
-* [Yesmovies.show](https://ww3.yesmovies.show/) - Movies / TV / Anime 
-* [DailyFlix](https://main.dailyflix.stream/) - Movies / TV / Anime / [Link Site](https://main.dailyflix.info/) 
-* [Openload Movies](https://openloadmovies.ch/) - Movies
-* [Lovemovie](https://lovemovie.org/) - Movies / TV
-* [OpenCulture](https://www.openculture.com/freemoviesonline) - Movies
-* [CimaClub](https://cima-club.cam/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [MovieFFM](https://www.movieffm.net/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [moviz-time](https://moviz-time.one/) - Movies / TV / Anime / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [MovGoTV](https://movgotv.net/) - Movies / TV / Anime
-* [TorrentKingNow](https://torrentkingnow.pro/) - Movies
-* [HollyMovieHD](https://hollymoviehd.cc/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime
-* [YMovies](https://ymovies.vip/) - Movies / TV / Anime
-* [FreeGreatMovies](https://www.freegreatmovies.com/) - Movies
-* [NetMovies](https://netmovies.to/) - Movies / TV
-* [Kinos](https://www.kinos.to/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Switch Language](https://i.ibb.co/n1Kb14T/64d0fb9444e1.png) (in options)
-* [SolarMovie](https://wwv.solarmovie.one/) - Movies / TV / Anime
-* [WatchSeries](https://watchseries.cyou/) - Movies / TV
-* [123Moviesd](https://123moviesd.com/) - Movies / TV
-* [0123movies](https://0123movies.to/) - Movies / TV
-* [GoMo](https://gomo.to/) - Movies / TV / Anime / API
-* [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
-* [VidSrc](https://vidsrc.me/) - Movies / TV / Anime / API
-* [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Telegram File Streaming
-* [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) - Add Stream Search Buttons to IMDb
 
 ***
 
