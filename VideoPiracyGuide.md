@@ -128,6 +128,7 @@
 * [Rainierland](https://rainierland.to/) - Movies / TV
 * [Afdah](https://afdah2.com/) - Movies
 * [XXIKU](https://xxiku.com/) - Movies
+* [FilarMovies](https://filarmovies.com/) - Movies / TV
 * [Yesmovies.show](https://ww3.yesmovies.show/) - Movies / TV / Anime 
 * [DailyFlix](https://main.dailyflix.stream/) - Movies / TV / Anime / [Link Site](https://main.dailyflix.info/) 
 * [Openload Movies](https://openloadmovies.ch/) - Movies
