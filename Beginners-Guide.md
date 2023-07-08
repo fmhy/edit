@@ -45,7 +45,7 @@ No don't do that, windows defender is more than good enough, you don't need anot
 !!!warning Stay away from Avast, Norton and McAfee, these are "bloatware" and generally not safe software.
 
  > How do I bypass this paywalled article?? 
-Use [this](https://wallabag.nixnet.services/) to read the article easily. 
+Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/) / [2](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) to read the article easily. 
 
 > How do I download image from *insert stock site* ???
  You can use [this](https://downloader.la/) if this doesn't work you can find similar stock image downloaders [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_stock_photo_sites).
