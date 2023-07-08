@@ -27,7 +27,6 @@
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
 * [WatchSeries 2.0](https://watchseriess.io/), [2](https://watchmovie.ac/) - Movies / TV / Anime / 1080p
 * [Series9](https://series9.sh/) - Movies / TV / Anime / 1080p
-* [Cloudy](https://cloudy.pk/category/english/) - Movies / TV
 * [Levidia](https://www.levidia.ch/) - Movies / TV / Anime / 1080p
 * [EuroPixHD](https://europixhd.pro/), [2](https://epxmovies.net/) - Movies / TV / Anime / 1080p
 * [xpWatch](https://xpwatch.vercel.app/) - Movies / TV / Anime / 1080p
@@ -42,7 +41,6 @@
 * [MoviesXK](https://moviexk.biz/) - Movies / TV
 * [KissMovies](https://kissmovies.pro/) - Movies / TV
 * [PogoLinks](https://pogolinks.pics/) - Movies / TV / Anime
-* [TamilRockerMovies](https://www.tamilrockermovies.cf/search/label/Hollywood) - Movies
 * [ConTV](https://www.contv.com/) - Movies
 * [VidCloud](https://membed1.com/) - Movies / TV
 * [Rainierland](https://rainierland.to/) - Movies / TV
@@ -773,7 +771,6 @@
 * [Play](http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/) - [ZeroNet Required](https://zeronet.io/) / Movies / TV
 * [Vuze](https://www.vuze.com/content/) - Movies / TV 
 * [ATORRENTS](https://atorrents.com/) - Movies
-* [TorrentKingNow](https://torrentkingnow.pro/) - Movies
 * [Public Domain Movie Torrents](http://www.publicdomaintorrents.info/) - Movies
 * [YTS](https://yts.mx/) or [YifyMovies](https://yifymovies.xyz/) - Movies / [Google Buttons](https://github.com/cotnw/muvi) / [Mirrors](https://www.yifystatus.com/) / [Search](https://yify.netlify.app/) / Do [NOT](https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) Make Account
 * [General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f and type "video"
