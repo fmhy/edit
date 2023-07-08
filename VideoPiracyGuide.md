@@ -67,7 +67,6 @@
 * [GotyTV](https://gotytv.com/) - Movies / TV / Requires Signup
 * [TeamDrive Indexes](https://github.com/nbats/FMHYedit/blob/main/base64.md#google-teamdrives) - Movies / TV / Anime
 * [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / Library Card Required
-* [Filmzie](https://filmzie.com/) - Movies / TV
 * [PopcornFlix](https://www.popcornflix.com/) - Movies / TV
 * [Crackle](https://www.crackle.com/) - Movies / TV
 * [Freevee](https://www.amazon.com/gp/video/storefront/ref=atv_hm_hom_c_9zZ8D2_1_3?contentType=home&contentId=freetv) - Movies / TV
@@ -109,7 +108,7 @@
 * [Series9](https://series9.sh/) - Movies / TV / Anime / 1080p
 * [Cloudy](https://cloudy.pk/category/english/) - Movies / TV
 * [Levidia](https://www.levidia.ch/) - Movies / TV / Anime / 1080p
-* [EuroPixHD](https://europixhd.pro/), [2](https://epxmovies.net/) or [123EuroPix](https://123europix.pro/) - Movies / TV / Anime / 1080p
+* [EuroPixHD](https://europixhd.pro/), [2](https://epxmovies.net/) - Movies / TV / Anime / 1080p
 * [xpWatch](https://xpwatch.vercel.app/) - Movies / TV / Anime / 1080p
 * [MovieSee](https://moviesee.live/) - Movies / TV / 720p
 * [eSubMovies](https://www.esubmovie.com/) - Movies
