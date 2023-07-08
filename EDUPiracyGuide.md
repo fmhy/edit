@@ -29,6 +29,7 @@
 * [Cinetimes](https://cinetimes.org/en/)
 * [Docur](https://docur.co/)
 * [ThoughtMaybe](https://thoughtmaybe.com/)
+* [PBS](https://www.pbs.org/video/)
 * [Folkstreams](https://www.folkstreams.net/)
 * [Films For Action](https://www.filmsforaction.org/)
 * [/r/Documentaries](https://reddit.com/r/Documentaries)
