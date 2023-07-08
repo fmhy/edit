@@ -31,17 +31,16 @@
 * [EuroPixHD](https://europixhd.pro/), [2](https://epxmovies.net/) - Movies / TV / Anime / 1080p
 * [xpWatch](https://xpwatch.vercel.app/) - Movies / TV / Anime / 1080p
 * [MovieSee](https://moviesee.live/) - Movies / TV / 720p
-* [eSubMovies](https://www.esubmovie.com/) - Movies
-* [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
+* [eSubMovies](https://www.esubmovie.com/) - Movies / 720p
+* [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 1080p
 * [YesHD](https://yeshd.net/) - Movies / TV / 1080p
-* [OnionPlay](https://onionplay.se/) - Movies / TV / [Mirrors](https://onionplay.network/)
-* [Filmxy](https://www.filmxy.online/) - Movies
-* [MoviesLair](https://movielair.cc/) - Movies / TV
-* [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime
-* [MoviesXK](https://moviexk.biz/) - Movies / TV
-* [KissMovies](https://kissmovies.pro/) - Movies / TV
-* [PogoLinks](https://pogolinks.pics/) - Movies / TV / Anime
-* [ConTV](https://www.contv.com/) - Movies
+* [OnionPlay](https://onionplay.se/) - Movies / TV / 1080p / [Mirrors](https://onionplay.network/)
+* [MoviesLair](https://movielair.cc/) - Movies / TV / 720p
+* [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime / 720p
+* [MoviesXK](https://moviexk.biz/) - Movies / TV / 1080p
+* [KissMovies](https://kissmovies.pro/) - Movies / TV / 1080p
+* [PogoLinks](https://pogolinks.pics/) - Movies / TV / Anime / 1080p
+* [ConTV](https://www.contv.com/) - Movies / 720p
 * [VidCloud](https://membed1.com/) - Movies / TV
 * [Rainierland](https://rainierland.to/) - Movies / TV
 * [Afdah](https://afdah2.com/) - Movies
