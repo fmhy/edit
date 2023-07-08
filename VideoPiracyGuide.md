@@ -24,13 +24,11 @@
 * [2Now.tv](https://2now.tv/) - Movies / TV
 * [OpenloadMovies](https://openloadmov.com/) or [Yify TV](https://ytsmovie.tv/) - Movies / TV
 * [UniqueStream](https://uniquestream.net/) - Movies / TV
-* [Movies.cf](https://pirate-media.vercel.app/) - Movies / [Telegram](https://t.me/netflixvipbox)
 * [FreeTubeSpot](https://www.freetubespot.com/) - Movies
 * [UltraMovies](https://ultramovies.net/) - Movies / TV
 * [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime
 * [Vumoo](https://vumoo.to/) - Movies / TV
 * [FshareTV](https://fsharetv.co/) - Movies
-* [DanDanzan](https://www.dandanzan.com/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - Movies / TV / Anime
 * [Mov.onl](https://www.mov.onl/) - Movies / TV
 * [Plex](https://watch.plex.tv/) - Movies / TV
@@ -95,30 +93,28 @@
 
 ## ▷ Multi Hosts
 
-* ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / [Discord](https://discord.gg/vXsRvye8BS)
-* ⭐ **[FMovies](https://fmovies.name/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
-* ⭐ **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
-* ⭐ **[FlixHQ](https://flixhq.click/)** - Movies / TV / Anime
-* ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
-* ⭐ **[Seez](https://seez.su/)** - Movies / TV
-* ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime
+* ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / 1080p / [Discord](https://discord.gg/vXsRvye8BS)
+* ⭐ **[FMovies](https://fmovies.name/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
+* ⭐ **[Seez](https://seez.su/)** - Movies / TV / 1080p
+* ⭐ **[SmashyStream](https://embed.smashystream.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
+* ⭐ **[FlixHQ](https://flixhq.click/)** - Movies / TV / Anime / 1080p
+* ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
+* ⭐ **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
+* ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime / 1080p
 * ⭐ **[Kodi](https://kodi.tv/)** - Media Server / Streaming App / [Addons / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kodi_tools)
 * ⭐ **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - Multi-Site Search
-* [SmashyStream](https://embed.smashystream.com/) - Movies / TV / Anime / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
-* [AZMovies](https://azm.to/) - Movies
-* [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV
-* [WatchSeries 2.0](https://watchseriess.io/), [2](https://watchmovie.ac/) - Movies / TV / Anime
-* [JustChill](https://www.justchill.tv/en) - Movies / TV / Anime / [Discord](https://discord.gg/y49g2tgNak)
-* [Series9](https://series9.sh/) - Movies / TV / Anime
+* [JustChill](https://www.justchill.tv/en) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/y49g2tgNak)
+* [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
+* [WatchSeries 2.0](https://watchseriess.io/), [2](https://watchmovie.ac/) - Movies / TV / Anime / 1080p
+* [Series9](https://series9.sh/) - Movies / TV / Anime / 1080p
 * [Cloudy](https://cloudy.pk/category/english/) - Movies / TV
-* [Levidia](https://www.levidia.ch/) - Movies / TV / Anime
-* [EuroPixHD](https://europixhd.pro/) or [123EuroPix](https://123europix.pro/) - Movies / TV / Anime
-* [xpWatch](https://xpwatch.vercel.app/) - Movies / TV / Anime
-* [MovieSee](https://moviesee.live/) - Movies / TV
+* [Levidia](https://www.levidia.ch/) - Movies / TV / Anime / 1080p
+* [EuroPixHD](https://europixhd.pro/), [2](https://epxmovies.net/) or [123EuroPix](https://123europix.pro/) - Movies / TV / Anime / 1080p
+* [xpWatch](https://xpwatch.vercel.app/) - Movies / TV / Anime / 1080p
+* [MovieSee](https://moviesee.live/) - Movies / TV / 720p
 * [eSubMovies](https://www.esubmovie.com/) - Movies
-* [Sauflix](https://www.sauflix.com/) - Movies / TV
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies
-* [YesHD](https://yeshd.net/) - Movies / TV
+* [YesHD](https://yeshd.net/) - Movies / TV / 1080p
 * [OnionPlay](https://onionplay.se/) - Movies / TV / [Mirrors](https://onionplay.network/)
 * [Filmxy](https://www.filmxy.online/) - Movies
 * [MoviesLair](https://movielair.cc/) - Movies / TV
@@ -135,7 +131,6 @@
 * [Yesmovies.show](https://ww3.yesmovies.show/) - Movies / TV / Anime 
 * [DailyFlix](https://main.dailyflix.stream/) - Movies / TV / Anime / [Link Site](https://main.dailyflix.info/) 
 * [Openload Movies](https://openloadmovies.ch/) - Movies
-* [Vexmovies.space](http://vexmovies.space/) - Movies
 * [Lovemovie](https://lovemovie.org/) - Movies / TV
 * [OpenCulture](https://www.openculture.com/freemoviesonline) - Movies
 * [CimaClub](https://cima-club.cam/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -145,7 +140,6 @@
 * [TorrentKingNow](https://torrentkingnow.pro/) - Movies
 * [HollyMovieHD](https://hollymoviehd.cc/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime
 * [YMovies](https://ymovies.vip/) - Movies / TV / Anime
-* [FilarMovies](https://filarmovies.com/) - Movies / TV
 * [FreeGreatMovies](https://www.freegreatmovies.com/) - Movies
 * [NetMovies](https://netmovies.to/) - Movies / TV
 * [Kinos](https://www.kinos.to/) - Movies / TV / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) / [Switch Language](https://i.ibb.co/n1Kb14T/64d0fb9444e1.png) (in options)
