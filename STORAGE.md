@@ -1171,7 +1171,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ⭐ **[ImgBB](https://imgbb.com/)**
 * ⭐ **[Postimages](https://postimages.org/)**
-* ⭐ **[Cryptee](https://crypt.ee/)** - Encrypted Image Storage
 * [Imgur](https://imgur.com/)
 * Imgur Tools - [Frontends](https://rimgo.codeberg.page/), [2](https://git.voidnet.tech/kev/imgin), [3](https://codeberg.org/rimgo/rimgo), [4](https://codeberg.org/3np/rimgu), [5](https://rimgo.bus-hit.me/) / [Proxy](https://imgin.voidnet.tech/)
 * [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts 
@@ -1214,7 +1213,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 **Image Galleries / Optimization**
 
-⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
+* ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
+* ⭐ **[Cryptee](https://crypt.ee/)** - Encrypted Image Gallery
 
 [CloudImage](https://www.cloudimage.io/), [imagga](https://imagga.com/), [kraken](https://kraken.io/), [cloudinary](https://cloudinary.com/), [tiny.pictures](https://tiny.pictures/), [zara4](https://zara4.com/), [RawTherapee](https://www.rawtherapee.com/), [Digikam](https://www.digikam.org/), [picturama](https://picturama.github.io/), [Piwigo](https://piwigo.org/), [Photonix](https://photonix.org/), [PiGallery2](https://bpatrik.github.io/pigallery2/), [Immich](https://github.com/immich-app/immich), [narrative](https://narrative.so/), [ImageWorsener](https://entropymine.com/imageworsener/)
 
