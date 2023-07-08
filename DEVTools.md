@@ -66,6 +66,7 @@
 * [HowIStart Go](https://howistart.org/posts/go/1/) - Go Setup Guide
 * [Rust Learning](https://github.com/ctjhoa/rust-learning) - Rust Learning Resources
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) - Rust Programming Guidebook
+* [Rustlings](https://rustlings.cool/) - Rust Learning Exercises
 * [min-sized-rust](https://github.com/johnthagen/min-sized-rust) - How-to Reduce Rust Binary Size
 * [Regex Hub](https://projects.lukehaas.me/regexhub/) or [IHateRegex](https://ihateregex.io/) - Regex Cheat Sheets
 * [Simple Regex](https://simple-regex.com/), [learn-regex](https://github.com/ziishaned/learn-regex), [ReFrF](https://refrf.dev/), [Regex.info](http://regex.info/), [ReGexOne](https://regexone.com/), [RegExr](https://regexr.com/) or [RegexLearn](https://regexlearn.com/) - Learn Regex
@@ -1104,6 +1105,7 @@
 * [CarlosAG](https://www.carlosag.net/) - Coding Tools
 * [CodePad](http://codepad.org/) or [CodeChef](https://www.codechef.com/ide) - Online Compilers
 * [Decompiler](https://www.decompiler.com/) - Online Decompiler
+* [Disasm](https://disasm.pro/) - Online Assembler and Disassembler
 * [core-plot](https://github.com/core-plot/core-plot) - Core Plot Source Code / Apps
 * [awesome-livecoding](https://github.com/toplap/awesome-livecoding) - Livecoding Resources
 * [tuc](https://github.com/riquito/tuc) - Improved Code Cut
