@@ -291,7 +291,7 @@
 * ⭐ **[Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders)** - Record your Screen
 * ⭐ **[Multi-Site Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)** / [YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_converters)
 * ⭐ **[OBS](https://obsproject.com/)**, [Streamlabs-OBS](https://github.com/stream-labs/desktop), [SteamLabs](https://streamlabs.com/), [Restream](https://restream.io/), [Twitch Studio](https://www.twitch.tv/broadcast/studio), [FBX](https://fbx.gg/), [XSplit](https://www.xsplit.com/) or [TwitchChat](https://twitchat.fr/) - Live Stream Managers
-* ⭐ **OBS Tools** - [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT) / [Effects](https://github.com/Xaymar/obs-StreamFX) / [Phone Controller](https://github.com/Kounex/obs_blade)
+* ⭐ **OBS Tools** - [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT) / [Effects](https://github.com/Xaymar/obs-StreamFX) / [Phone Controller](https://github.com/Kounex/obs_blade) / [WebRTC Server](https://github.com/GRVYDEV/Project-Lightspeed)
 * ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Record, Convert and Stream Videos / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ffmpeg_tools)
 * [VideoTuts](https://videotuts.ru/) - Video Design Tutorials / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [VFX Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vfx_sites) - Download Video Effects / [VFX Video Guides](https://www.learnto.day/aftereffects)
@@ -796,6 +796,7 @@
 * [All about RSS](https://github.com/AboutRSS/ALL-about-RSS), [RSSTango](https://rentry.org/rrstango), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
 * [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - Follow RSS Feeds
 * [MoRSS](https://morss.it/), [rsspls](https://github.com/wezm/rsspls), [FetchRSS](https://fetchrss.com/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
+* [Exileed](http://feed.exileed.com/) - Social Media RSS Feeds
 * [RSSMail](https://git.panda-roux.dev/rssmail/about/) or [FeedButler](https://feedbutler.app/en) - RSS to Email
 * [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - RSS Feed for Sites Missing It
 * [Sift RSS](https://siftrss.com/) - RSS Feed Filters
@@ -1050,7 +1051,7 @@
 * [Refseek](https://www.refseek.com/) - Academic Search Engine 
 * [Sources.com](https://www.sources.com/) - Journalism Source Search
 * [GrayHatWarfare](https://buckets.grayhatwarfare.com/) - Amazon s3 Buckets Search
-* [UserSearch](https://usersearch.org/), [Sherlock](https://sherlock-project.github.io/), [Maigret](https://github.com/soxoj/maigret), [Nexfil](https://github.com/thewhiteh4t/nexfil), [Blackbird](https://github.com/p1ngul1n0/blackbird) or [WhatsMyName](https://whatsmyname.app/) - Username Search
+* [UserSearch](https://usersearch.org/), [Sherlock](https://sherlock-project.github.io/), [Maigret](https://github.com/soxoj/maigret), [Nexfil](https://github.com/thewhiteh4t/nexfil), [Lullar](https://lullar-com-3.appspot.com/), [Blackbird](https://github.com/p1ngul1n0/blackbird) or [WhatsMyName](https://whatsmyname.app/) - Username Search
 * [FindAGrave](https://findagrave.com/) - Gravestone Search
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - Telegram CSE
 * [ISearchFrom](http://isearchfrom.com/) - Change Location / Device for Google Search
@@ -1872,6 +1873,7 @@ Twitch Stream Tracker
 * [DeviceTests](https://devicetests.com/) - Multiple Device Tests
 * [ReadySunValley](https://github.com/builtbybel/ReadySunValley) -  Microsoft Health Check Replacement
 * [CoolerControl](https://gitlab.com/coolercontrol/coolercontrol) - Cooling Device Monitor
+* [KeebTalk](https://www.keebtalk.com/) - Keyboard Forums
 * [DreyMaR's](https://dreymar.colemak.org/) - Keyboard Tips and Resources
 * [Keyboard University](https://keyboard.university/) or [KDB](http://xahlee.info/kbd/keyboarding.html) - Mechanical Keyboard Building Guides
 * [NeatMouse](https://neatdecisions.com/products/neatmouse/) - Mouse / Keyboard Emulator
