@@ -694,6 +694,7 @@
 * [9kmovies](https://9kmovies.expert/) - Movies
 * [Online Movies Hindi](https://111.90.159.132/) - Movies
 * [HindiLover](https://namasteserials.com/) - TV
+* [Cloudy](https://cloudy.pk/category/english/) - Movies / TV
 * [MirrorBD](https://mirrorbd.one/) - Movies / [Telegram](https://t.me/mirrorbd_req)
 * [playdesi](https://playdesi.net/) - Movies / TV
 * [MovieHDPlus](https://www.moviehdplus.com/) -  Movies / TV
@@ -706,6 +707,7 @@
 * [SunTamil5](https://www.suntamil5.net/) - TV
 * [cinemakick](https://www.cinemakick.com/) - Movies
 * [movieapne](https://movieapne.co) - Movies
+* [TamilRockerMovies](https://www.tamilrockermovies.cf/) - Movies
 * [MoviesCounter](https://moviescounter.loan/) - Movies
 * [HindiMovie](https://m.vk.com/hindimovie) - Movies
 * [Movi](https://www.movi.pk/) - Movies
