@@ -1476,7 +1476,7 @@
 * [KinoGo](https://kinogo.la/), [2](https://kinogo.ca/) - Movies / TV / Anime / [Telegram](https://t.me/kinogoby)
 * [Kinotochka](https://kinotochka.co/) - Movies / TV / Anime
 * [kinokong](https://kinokong.pro/) - Movies / TV
-* [Zetflix](https://zetlix.zone/) - Movies / TV
+* [Zetflix](https://zetlix.zone/) - Movies / TV / Anime
 * [RussianFilmHub](https://russianfilmhub.com/) - Movies / TV
 * [viho.live](https://viho.live/) - Movies / TV / Anime
 * [EX-FS](https://ex-fs.net/) - Movies / TV / Anime
@@ -1868,9 +1868,12 @@
 * [JavaLibre](https://javalibre.com.ua/) - Books
 * [manga.in](https://manga.in.ua/) - Manga
 
+## ▷ Streaming
+* [Uakino](https://uakino.club/) - Movies / TV / Anime / Use VPN
+
 ***
 
-# ►Uzbek
+# ► Uzbek
 
 ## ▷ Downloading
 
