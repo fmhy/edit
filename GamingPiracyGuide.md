@@ -60,7 +60,7 @@
 * ⭐ **[DODI Repacks](http://dodi-repacks.site/)** - Download / Torrent / [Discord](https://discord.gg/uE273qJ) / [Forum](https://dodi-forums.win/)
 * ⭐ **[M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)** - Download / [Discord](https://discord.gg/693hNBdymb)
 * [Masquerade Repacks](https://web.archive.org/web/20220617004121/https://masquerade.site/) - Download / Torrent / [Discord](https://discord.gg/HP5sQ6c)
-* [ScOOter Repacks](https://web.archive.org/web/20230315064712/https://scooter-repacks.site/) - Download / Torrent
+* [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download / Torrent
 * [Darck Repacks](https://darckrepacks.com/) - Download
 * [Elamigos](https://elamigos.site/) - Download
 * [GameDrive](https://gamedrive.org/) - Download / Torrent / [Discord](https://gamedrive.org/discord)
