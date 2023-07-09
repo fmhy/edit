@@ -573,12 +573,6 @@ pass: paluch
 
 *** 
 
-#### Cyber Security Courses
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci93OFZIaFNhWSNmc00wQWRYbjhhM2JSbGpXZkpTZFZnCgo=`
-
-*** 
-
 #### Top Linux Interview Q&A'S
 
 `aHR0cHM6Ly9tZWdhLm56LyNGIUsxTW5sU3pKIWZ5TGhOQTdWX20xejlKWmZQVzBhbGc=`
