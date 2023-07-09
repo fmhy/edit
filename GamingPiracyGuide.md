@@ -185,7 +185,6 @@
 * [nwifiresticks](https://github.com/nbats/FMHYedit/blob/main/base64.md#nwifiresticks) - ROMs
 * [Rom Pack](https://www.ROMspack.com/) - ROMs
 * [Retrostic](https://www.retrostic.com/) - Emulators / ROMs
-* [ROMsUniverse](https://www.ROMsuniverse.com/) - Emulators / ROMs
 * [ROMsie](https://romzie.com/) - Emulators / ROMs
 * [Romsever](https://romsever.com) - Emulators / ROMs
 * [ROMs Games](https://www.ROMsgames.net/) - Emulators / ROMs
@@ -218,7 +217,6 @@
 * [DaROMs](http://daROMs.com/) - ROMs
 * [Arcade Punks](https://www.arcadepunks.com/) - ROMs
 * [NGR](https://www.nextgenroms.com/) - ROMs
-* [LoveROMs](https://www.loveROMs.online/) - ROMs
 * [FantasyAnime](https://fantasyanime.com/) - ROMs
 * [NesGM](https://nesgm.net/) - ROMs / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [ROM World](http://www.romworldonline.com/) - ROMs / [How-to](https://i.ibb.co/vYJSs4d/dd99f3e3768d.png)
