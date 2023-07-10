@@ -419,7 +419,7 @@
 * [MathOnline](http://mathonline.wikidot.com/) - Math / Courses
 * [Mathigon](https://mathigon.org/) - Math / Courses
 * [BetterExplained](https://betterexplained.com/) - Math / Guides / Courses
-* [Countle](https://www.countle.org/) - Daily Math Equations
+* [Countle](https://www.countle.org/) or [Cut The Knot](https://cut-the-knot.org/) - Math Equations
 * [IXL Learning](https://au.ixl.com/math/) - Math Practice / Quizzes
 * [Math Exercises](http://www.math-exercises.com/) or [MathBitsNotebook](http://mathbitsnotebook.com/) - Math Practice
 * [Pauls Online Math Notes](https://tutorial.math.lamar.edu/) - Math Practice / Guides
