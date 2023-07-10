@@ -30,7 +30,7 @@
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - RTorrent Web Frontend / [Themes](https://github.com/InAnimaTe/rutorrent-themes), [2](https://github.com/artyuum/3rd-party-ruTorrent-Themes)
 * [Linux x Technology](https://linuxdiscord.com/), [Ezlinux](https://ezlinux.net/), [Linux.Chat](https://discord.gg/linuxchat) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discussion / Forums
 * [die.net](https://linux.die.net/) - Linux Documentation
-* [BusyBox](https://frippery.org/busybox/) - Unix Tools
+* [BusyBox](https://frippery.org/busybox/) or [Obscure Unix](https://kkovacs.eu/cool-but-obscure-unix-tools/) - Unix Tools
 * [Awesome-shell](https://github.com/alebcay/awesome-shell), [AltBox](https://altbox.dev/) or [LinuxTools](https://github.com/rendick/LinuxTools) - Linux CLI Tools
 * [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - CPU Speed & Power Optimization Automation
 * [Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome) - GNOME Distro Resources
@@ -238,6 +238,7 @@
 * [dunst](https://dunst-project.org/) - Customizable Notification Daemon / [GitHub](https://github.com/dunst-project/dunst)
 * [Autokey](https://github.com/autokey/autokey) - Linux Automation Utility
 * [Crontab Generator](https://crontab-generator.org/) - Generate Crontab Syntax
+* [Crontab Guru](https://crontab.guru/) - Crontab Editor
 * [create-autorun](https://github.com/OneCDOnly/create-autorun) - Create QNAP NAS Autorun Environment
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
 * [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](http://remarkableapp.github.io/) - Markdown Editor
