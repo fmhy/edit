@@ -604,6 +604,7 @@
 * [Higher Intellect](https://preterhuman.net/) - Document Search
 * [qDoc](https://idoc.tips/) - Document Search
 * [Doc Search](https://parksdigital.com/doc-search/) - Document Search
+* [STC](https://standard--template--construct-org.ipns.dweb.link/) - Document / Article Text Search
 * [ReadSomethingGreat](https://www.readsomethinggreat.com/) - Internet Articles
 * [Google Scholar](https://scholar.google.com/) - Articles
 * [Mendeley](https://www.mendeley.com/) - Articles / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/)
