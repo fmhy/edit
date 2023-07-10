@@ -311,7 +311,7 @@
 * ⭐ **[DOS Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dos_games)** - DOS Game Sites
 * ⭐ **[Wad Archive](https://archive.org/details/wadarchive)** - 83k WAD Files
 * ⭐ **[RAZE](https://github.com/ZDoom/Raze)** or [BuildGDX](https://m210.duke4.net/) - Oldschool Shooter Engine / [Discord](https://discord.gg/zZw2eq3n7G) 
-* ⭐ **[Doom_wads](https://github.com/Akbar30Bill/DOOM_wads)**, [DoomsHack](https://doomshack.org/) or [Doom Wad Station](http://www.doomwadstation.net/) - Doom Wads 
+* ⭐ **[Doom_wads](https://github.com/Akbar30Bill/DOOM_wads)**, [DoomsHack](https://doomshack.org/), [Doom Pastebin](https://pastebin.com/3DWF3Msq) or [Doom Wad Station](http://www.doomwadstation.net/) - Doom WADs
 * ⭐ **[ZDoom](https://www.zdoom.org/downloads)** - Doom Source Port 
 * ⭐ **[ZDemon](https://www.zdaemon.org/)**, **[Doomseeker](http://doomseeker.drdteam.org/)**, [oDamex](https://odamex.net/), [DoomUtils](http://doomutils.ucoz.com/) or [Zandoronum](https://zandronum.com/) - Online Multiplayer Doom
 * [RocketLauncer2](https://github.com/Hypnotoad90/RocketLauncher2) - Doom Source Port Frontend
