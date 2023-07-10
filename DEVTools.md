@@ -461,6 +461,7 @@
 * [WireFlow](https://wireflow.co/) - Flow Prototype Maker
 * [Geekflare Tools](https://domsignal.com/toolbox) - Site Testing Tools
 * [LambDatest](https://www.lambdatest.com/) - Cross Browser Testing Cloud
+* [Lenis](https://lenis.studiofreight.com/) - Smooth Scroll Library
 * [UXTweak](https://www.uxtweak.com/) - Website Design Usability Improvement Tool
 * [Stark](https://www.getstark.co/), [deque](https://www.deque.com/axe/), [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [MagentaA11y](https://www.magentaa11y.com/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html), [A11ygator](https://a11ygator.chialab.io/) or [tota11y](https://khan.github.io/tota11y/) - Accessibility Evaluation Tools
 * [Contraste](https://contrasteapp.com/) - Test Text for Accessibility
@@ -634,7 +635,7 @@
 * [Lepton](https://hackjutsu.com/Lepton/) - Code Snippet Manager / [GitHub](https://github.com/hackjutsu/Lepton)
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - Captcha Systems
 * [Democaptcha](https://democaptcha.com/demo-form-eng/hcaptcha.html) or [ReCAPTCHA Demo](https://www.google.com/recaptcha/api2/demo) / [GitHub](https://patrickhlauke.github.io/recaptcha/) - Captcha Demo's
-* [SuperTokens](https://supertokens.com/) - User Authentication
+* [SuperTokens](https://supertokens.com/) or [Lucia](https://lucia-auth.com/) - User Authentication
 * [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO
 * [Discuzz](https://github.com/discuzz-app/discuzz) or [Remarkbox](https://www.remarkbox.com/) - Open Source Comment Systems
 * [DaButtonFactory](https://www.clickminded.com/button-generator/) or [ButtonOptimizer](http://buttonoptimizer.com/) - Button Generator
@@ -737,7 +738,7 @@
 * [LiveKit](https://livekit.io/) - Build Video / Audio Applications
 * [Dotnet Content Creators](https://github.com/matthiasjost/dotnet-content-creators) - .NET Content Creators Index
 * [Dotnet Releaser](https://github.com/xoofx/dotnet-releaser) - Automate Release of .NET Applications
-* [Cron AI](https://cron-ai.vercel.app/) - Words to Cron Expression
+* [Cron AI](https://cron-ai.vercel.app/) or [Cron Cat](https://www.crontabcat.com/) - Convert Words to Cron Expressions
 * [Pencil](http://pencil.evolus.vn/) - Software Mockup Tool / [GitHub](https://github.com/evolus/pencil)
 * [GNUnet](https://gnunet.org/en/) - Software Framework
 * [shadcn](https://ui.shadcn.com/) - Software Components
@@ -1097,7 +1098,8 @@
 * [Regex101](https://regex101.com/) or [Debuggex](https://www.debuggex.com/) - Regex Editor / Debuggers
 * [Regex Generator++](http://regex.inginf.units.it/) or [Regex Generator](https://regex-generator.olafneumann.org/) - Regex Generators
 * [AutoRegex](https://www.autoregex.xyz/) - Regex Converter
-* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding Resource Index 
+* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding Resource Index
+* [AirBroke](https://airbroke.icorete.ch/) - Self-Hosted Error Checking
 * [Algorithm Visualizer](https://algorithm-visualizer.org/) or [Sorting Algorithms Visuallizer](https://sadanandpai.github.io/sorting-visualizer/dist/) / [GitHub](https://github.com/sadanandpai/sorting-visualizer) - Visualize Code Algorithms 
 * [Code2Flow](https://app.code2flow.com/), [Flowchart.js](https://flowchart.js.org/) or [Flowchart Generator](https://github.com/MugilanGN/Flowchart-Generator) - Code to Flowchart Converter
 * [UMLet](https://www.umlet.com/) - Create UML Diagrams
@@ -1180,7 +1182,7 @@
 * [CodeGrepper](https://www.grepper.com/) - Code Search Extension
 * [ShortCode](https://shortcode.dev/), [Google Code Archive](https://code.google.com/archive/) or [CodeList](https://www.codelist.cc/) - Script / Code Indexes
 * [MoonScript](https://moonscript.org/) - Dynamic Scripting Language
-* [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/) / [2](https://carbon.now.sh/), [CodeImage](https://codeimage.dev/), [ray.so](https://ray.so/), [Chalk](https://chalk.ist/), [CodePNG](https://www.codepng.app/) or [Show Code](https://showcode.app/) - Create Code Screenshots
+* [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/) / [2](https://carbon.now.sh/), [CodeImage](https://codeimage.dev/), [ray.so](https://ray.so/), [Chalk](https://chalk.ist/), [CodePNG](https://www.codepng.app/), [Snapartify](https://snapartify.com) or [Show Code](https://showcode.app/) - Code Screenshots
 * [Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering) - Reverse Engineering Resource Index
 * [challenges.re](https://challenges.re/) - Reverse Engineer Code
 * [thefuck](https://github.com/nvbn/thefuck) - Corrects Previous Console Command
