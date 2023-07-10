@@ -252,7 +252,7 @@
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - Music Ripper
 * [FreyrJS](https://github.com/miraclx/freyr-js) - Spotify, Deezer and Apple Music Downloader
 * [GamDL](https://github.com/glomatico/gamdl) - Apple Music Downloader
-* [orpheusdl-deezer](https://github.com/uhwot/orpheusdl-deezer), [d-fi](https://notabug.org/sayem314/d-fi) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - Deezer Downloaders / [Telegram Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots)
+* [orpheusdl-deezer](https://github.com/uhwot/orpheusdl-deezer), [d-fi](https://notabug.org/sayem314/d-fi), [deezer-downloader](https://github.com/kmille/deezer-downloader) or [DL-Spt](https://notabug.org/dlspt/dl-spt) - Deezer Downloaders / [Telegram Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots)
 * [rsack](https://github.com/Slyyxp/rsack) - FLAC / MP3
 * [OFFMP3](https://offmp3.com/) or [Anything2MP3](https://anything2mp3.cc/) - Video to MP3 Converter
 * [Musify](https://github.com/gokadzev/Musify) - MP3
