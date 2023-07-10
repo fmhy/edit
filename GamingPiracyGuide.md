@@ -740,7 +740,6 @@
 * ⭐ **[Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator)** / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg), [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) or [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Steam Multiplayer Client Emulators
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
 * ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
-* ⭐ **[Andy's Steam Crack Guide](https://rentry.org/steamcrackguidebyanddy)** / [2](https://redd.it/pmim9t) - Add Cracked Games to Steam / [Client](https://mega.nz/file/mpdAXKTZ#3CVjRZG1i8K_Zn8b9IIARbIZZE73KdzazVHMDcaWZJc)
 * ⭐ **[SteamDB](https://steamdb.info/)** - Steam Insights Tool / [Extension](https://steamdb.info/extension/)
 * ⭐ **[A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)** or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tools Index
 * ⭐ **[LEGENDARY](https://github.com/derrod/legendary)**, [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) or [Rare](https://github.com/Dummerle/Rare) - Epic Games Launcher 
