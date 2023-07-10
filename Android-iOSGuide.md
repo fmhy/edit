@@ -50,7 +50,7 @@
 * [Divestos](https://divestos.org/), [LeoS](https://leos-gsi.de/), [GrapheneOS](https://grapheneos.org/), [Auditor](https://apkcombo.com/auditor-grapheneos-variant/app.attestation.auditor/) or [CalyXOS](https://calyxos.org/) - Privacy Based OS
 * [UPX Browser](https://www.upxb.net/) or [ceno-browser](https://censorship.no/en/index.html) / [GitHub](https://github.com/censorship-no/ceno-browser) - Proxy Browser
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - App Isolation
-* [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) - Encrypted File Explorer
+* [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) or [Secure File Manager](https://github.com/Secure-File-Manager/Secure-File-Manager) - Encrypted File Managers
 * [Wasted](https://github.com/x13a/Wasted) - Emergency Data Wipe
 * [UntrackMe](https://fedilab.app/wiki/untrackme/)  - Frontend Redirect / Unshorten Links / Cleanup URLs 
 * [Leon](https://f-droid.org/packages/com.svenjacobs.app.leon/) - Remove URL Tracking / [GitHub](https://github.com/svenjacobs/leon)
@@ -382,7 +382,7 @@
 * [Creator Studio](https://play.google.com/store/apps/details?id=com.facebook.creatorstudio) - Social Media Manager
 * [Google Lens](https://lens.google/) - Multiple Camera Tools
 * [FreeDcam](https://github.com/KillerInk/FreeDcam) - Enable Hidden Camera Features
-* [Photok](https://github.com/leonlatsch/Photok), [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery), [Stingle Photos](https://stingle.org/), [Ente](https://ente.io/), [QuickPic](https://github.com/WSTxda/QP-Gallery-Releases) or [Gallery](https://github.com/IacobIonut01/Gallery) - Photo / Video Galleries
+* [Photok](https://github.com/leonlatsch/Photok), [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery), [Stingle Photos](https://stingle.org/), [Ente](https://ente.io/), [QuickPic](https://github.com/WSTxda/QP-Gallery-Releases), [UhuruPhotos](https://github.com/savvasdalkitsis/uhuruphotos-android) or [Gallery](https://github.com/IacobIonut01/Gallery) - Photo / Video Galleries
 * [LeafPic](https://gitlab.com/HoraApps/LeafPic) - Image Viewer
 * [OneShot](https://github.com/ptrLx/OneShot) - Photo Diary
 * [Widgetshare](https://play.google.com/store/apps/details?id=com.galew.widgetshare) - Photo Sharing App
@@ -394,7 +394,7 @@
 * [Dittoed](https://dittoed.app/) - Improve Image Composition
 * [Pixelify-Google-Photos](https://github.com/BaltiApps/Pixelify-Google-Photos) - Add Google Pixel Features to Google Photos
 * [SGCam](https://t.me/googlecameramodbyshamimdg), [googlecameraport](https://www.celsoazevedo.com/files/android/google-camera), [DMGC](https://thedise.me/dmgc/) or [Camator](https://gcamator.com/) - Google Cam Downloads / [Telegram](https://t.me/googlecameraport) / [Mods](https://apkw.ru/) / [XML Configs](https://t.me/xmlshamimmod)
-* [Libre Camera](https://github.com/iakmds/librecamera) or [Open Camera](https://sourceforge.net/projects/opencamera/) - FOSS Camera Apps
+* [Libre Camera](https://github.com/iakmds/librecamera), [ProofMode](https://gitlab.com/guardianproject/proofmode/proofmode-android) or [Open Camera](https://sourceforge.net/projects/opencamera/) - FOSS Camera Apps
 * [ANXCamera](https://camera.aeonax.com/) - Miui Camera Port 
 * [PhotonCamera](https://play.google.com/store/apps/details?id=com.particlesdevs.photoncamera) - Enhanced Image Processing Camera App / [GitHub](https://github.com/eszdman/PhotonCamera)
 * [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play), [BinaryEye](https://github.com/markusfisch/BinaryEye) or [Code Scanner](https://github.com/czlucius/code-scanner) - QR / Barcode Scanners
@@ -536,7 +536,8 @@
 * [Sensify](https://github.com/JunkieLabs/sensify-android) - Sensor Visualizers
 * [Fire Toolbox](https://forum.xda-developers.com/t/windows-tool-fire-toolbox-v12-0.3889604/) - Fire Tablet Tools
 * [Pojav](https://pojavlauncherteam.github.io/) - Mobile Minecraft Launcher
-* [Mematic](https://www.mematic.net/) or [Memetastic](https://github.com/gsantner/memetastic) - Meme Creators 
+* [Mematic](https://www.mematic.net/) or [Memetastic](https://github.com/gsantner/memetastic) - Meme Creators
+* [FastLyrics](https://github.com/TecCheck/FastLyrics) - Find Lyrics for Playing Song
 * [LRC Editor](https://play.google.com/store/apps/details?id=com.cg.lrceditor) or [Audoir](https://audoir.com/) - Lyric Text Editor
 * [Reface](https://reface.app/) - Create Face Swap Videos 
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
@@ -977,7 +978,7 @@
 * ⭐ **[Hyperweb](https://hyperweb.app/)** - iOS Safari Improvement + Adblock Extension
 * ⭐ **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites / Apps
 * ⭐ **[Bitwarden](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744)**, [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/), [Loccker](https://www.loccker.in/) or [Strongbox](https://strongboxsafe.com/) - Password Manager
-* [OpenAI-ChatGPT](https://apps.apple.com/us/app/openai-chatgpt/id6448311069) - ChatGPT App
+* [OpenAI-ChatGPT](https://apps.apple.com/us/app/openai-chatgpt/id6448311069) or [Kai](https://trykai.app/) - ChatGPT Apps
 * [Waltr](https://softorino.com/waltr/) - Convert Files to iOS Formats
 * [Filza](http://cydia.saurik.com/package/com.tigisoftware.filza/), [FGet](https://apps.apple.com/us/app/fget-file-manager-browser/id1582654012), [Offline File Browser](https://apps.apple.com/us/app/offline-files-browser-docs/id1557618225) or [Santander](https://github.com/SerenaKit/Santander) - File Managers
 * [Dropbox Premium](https://testflight.apple.com/join/LBZaRq4I) - Cloud Storage
