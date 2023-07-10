@@ -58,7 +58,7 @@
 * [Background Removers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_background_removers) - Remove Image Backgrounds
 * [Party-ify](https://nathanielw.github.io/party-ify/) - Party-ify Images
 * [PFP.LGBT](https://pfp.lgbt/) - LGBTQ+fy Images
-* [ImageRemix](http://www.oyonale.com/imagemix.php) - Image Remixer
+* [ImageRemix](http://www.oyonale.com/imagemix.php) or [STI/L](https://antlii.work/STIIL-Generator) - Image Remixer
 * [SpiralBetty](https://www.spiralbetty.com/) - Image Spiralizer
 * [Caricaturer](https://caricaturer.io/) - Create Caricature of Your Face
 * [Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) - Create Sketch from Anime
