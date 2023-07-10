@@ -40,6 +40,7 @@
 * [Janitor AI](https://www.janitorai.com/) - Roleplaying Chatbots / [Discord](https://discord.com/invite/janitorai)
 * [Chub Venus](https://venus.chub.ai/) - Roleplaying Chatbots / [Discord](https://discord.com/invite/5byUMguqDA)
 * [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbot
+* [TavernAI](https://tavernai.net/) - Roleplaying / Adventure Chatbot
 * [Chai](https://www.chai-research.com/) - Entertainment Focused Chatbots
 * [DeepAI](https://deepai.org/chat) - GPT-2 Based Chatbot
 
@@ -64,13 +65,14 @@
 * [chat-llm-streaming](https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming) - Multiple Chatbots
 * [GPT4All](https://gpt4all.io/) - Open-Source Chatbot / [Github](https://github.com/nomic-ai/gpt4all) [Discord](https://discord.com/invite/mGZE39AS3e)
 * [Dalai](https://cocktailpeanut.github.io/dalai/) - Self-host / [Github](https://github.com/cocktailpeanut/dalai) / [Discord](https://discord.com/invite/WWfgrzzkCT) / [GPT-Style UI](https://github.com/ItsPi3141/dalai)
-* [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Stanford's Chatbot / [LoRA Implementation](https://github.com/tloen/alpaca-lora) / [GUI](https://github.com/ItsPi3141/alpaca-electron)
+* [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Stanford's Chatbot / [LoRA Implementation](https://github.com/tloen/alpaca-lora) / [GUI](https://github.com/ItsPi3141/alpaca-electron) / [WebUI](https://serge.chat/)
 * [FreedomGPT](https://freedomgpt.com/) - Alpaca Based Chatbot / [Github](https://github.com/ohmplatform/FreedomGPT/) / [Discord](https://discord.com/invite/h77wvJS4ga)
 * [PygmalionAI](https://discord.com/invite/pygmalionai) - Self-Hosted Roleplaying Chatbot / [Resources](https://rentry.co/PygmalionLinks)
 * [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
 * [SillyTavern](https://github.com/SillyTavern/SillyTavern) - UI for Roleplaying Chatbots
 * [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
 * [Chub](https://www.chub.ai/) - Characters for LLMs
+* [Dify](https://dify.ai/) - Create AI Apps
 
 ***
 
@@ -86,8 +88,9 @@
 * [ChatBlade](https://github.com/npiv/chatblade) - ChatGPT CLI
 * [engshell](https://github.com/emcf/engshell) or [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT in TUIs
 * [jsmsj](https://github.com/jsmsj/GPT4), [YakGPT](https://yakgpt.vercel.app/), [BetterGPT](https://bettergpt.chat/) or [TurboGPT.ai](https://turbogpt.ai/) - ChatGPT WebUIs
-* [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [PyGPT](https://pygpt.net/), [GPTChat](https://github.com/ian-kent/gptchat), [TurboGPT](https://github.com/mikebpech/turbogpt.ai) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
+* [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [PyGPT](https://pygpt.net/), [GPTChat](https://github.com/ian-kent/gptchat), [TurboGPT](https://github.com/mikebpech/turbogpt.ai), [SmolAI](https://github.com/smol-ai/menubar/) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
 * [Unriddle](https://www.unriddle.ai/) or [ChatDOC](https://chatdoc.com/) - Document Summary AIs
+* [PrivateGPT](https://github.com/imartinez/privateGPT/) - Private Offline Document Chatbot
 * [docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT Google Docs Addon
 * [ChatGPT File Uploader](https://chrome.google.com/webstore/detail/chatgpt-file-uploader/oaogphgfdbdbmhkiplemgehihiiececj) - File Upload Extension
 * [Discord ChatGPT](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chatgpt_discord_bots) - ChatGPT Discord Bots
@@ -180,10 +183,9 @@
 * [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/) - Essay Writing AI
 * [PerfectEssayWriter](https://www.perfectessaywriter.ai/) - Essay Writing AI
 * [Chat GPTPhantom](https://chatgpt-phantom.vercel.app/) - Article Writing AI
-* [Marmof](https://marmof.com/) - Creator / Marketing AI
 * [GPT4Chat](https://gpt4chat.net/) or [ChatGPT Writer](https://chatgptwriter.ai/) - Email Reply AI
 * [codex-readme](https://github.com/tom-doerr/codex-readme) - README AI Generator
-* [WTFDoesThisCompanyDo](https://wtfdoesthiscompanydo.vercel.app/) or [SiteExplainer](https://www.siteexplainer.com/) - AI Site Explanations
+* [SiteExplainer](https://www.siteexplainer.com/) - AI Site Explanations
 * [Transformer](https://transformer.huggingface.co/) - Text Autocomplete AI
 * [EleutherAI](https://6b.eleuther.ai/) - Text Autocomplete AI
 * [Talk to Transformer](https://app.inferkit.com/demo) - Text Autocomplete AI
@@ -288,7 +290,7 @@
 
 ## ▷ Stable Diffusion
 
-* ⭐ **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** - AI Image Generator / [Github](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
+* ⭐ **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** - AI Image Generator / [Github](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion) / [](https://github.com/Stability-AI/StableStudio)
 * ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - Self-Host / [Fork](https://github.com/vladmandic/automatic), [2](https://github.com/anapnoe/stable-diffusion-webui-ux) / [Infinite Zoom](https://github.com/v8hid/infinite-zoom-automatic1111-webui)
 * ⭐ **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** - Self-Host / [Discord](https://discord.com/invite/ZmtBAhwWhy)
 * ⭐ **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** - Self-Host
@@ -301,6 +303,7 @@
 * [Sygil WebUI](https://github.com/Sygil-Dev/sygil-webui) - Self-Host / [Discord](https://discord.com/invite/ttM8Tm6wge)
 * [Radiata](https://github.com/ddPn08/Radiata) - Self-Host
 * [NMKD Stable Diffusion GUI](https://github.com/n00mkrad/text2image-gui) - Self-Host
+* [StableStudio](https://github.com/Stability-AI/StableStudio) - Self-Host
 * [aiimag.es](https://sunija.itch.io/aiimages) - Self-Host / [Discord](https://discord.com/invite/Fge4dVHFM2)
 * [RandomSeed](https://randomseed.co/) - Online / [Discord](https://discord.com/invite/wbPsPtmpuK)
 * [Playgrounds](https://playgrounds.ai/) - Online
