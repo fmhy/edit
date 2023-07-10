@@ -404,7 +404,6 @@
 * [Plyr](https://plyr.io/) - Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
 * [zeroTube](http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb) - Decentralized Video Platform on ZeroNet using WebTorrent + [GitHub](https://github.com/rllola/zeroTube/)
 * [PiP-Tool](https://github.com/LionelJouin/PiP-Tool) - Use Picture-in-Picture on All Videos
-* [HoraHora](https://github.com/horahoradev/horahora) - Self-Hosted Video Host
 * [Marauder](https://github.com/Makeshift/Marauder) or [PlayVideo](https://playvideos.pages.dev/) - GDrive Video Players
 * [MotionMonkey](https://omega.gg/MotionMonkey/) - Stream Online Videos in Player
 * [StreamLink](https://streamlink.github.io/) - Extract Videos from Sites to Players / [Twitch Adblock](https://github.com/2bc4/streamlink-ttvlol)
@@ -513,6 +512,7 @@
 * [yt2pod](https://github.com/frou/yt2pod) - Create Podcasts from YouTube Channels 
 * [Deemixrr](https://github.com/TheUltimateC0der/Deemixrr) - Automated Music Manager 
 * [Arduino Audio Tools](https://github.com/pschatzmann/arduino-audio-tools) - Audio Recorder
+* [LED FX](https://www.ledfx.app/) - LED Music Sync
 * [SoundSync](https://soundsync.app/) or [SnapCast](https://github.com/badaix/snapcast) - Sound System Sync
 * [SonoBus](https://sonobus.net/) - Audio Server for Streaming
 * [Scream](https://github.com/duncanthrax/scream) - Virtual Network Sound Card 
@@ -728,6 +728,8 @@
 * [Statista](https://statista.com/) - Market Statistic Search
 * [GetFreeIMEBooks](https://www.getfreeimebooks.com/) - Digital Marketing Resources
 * [Systeme](https://systeme.io/) or [SendPulse](https://sendpulse.com/) - Marketing Tools
+* [Marmof](https://marmof.com/) - Creator / Marketing AI
+* [Marketing 2099](https://sintralabs.notion.site/Marketing-2099-Ultimate-ChatGPT-Marketing-Prompts-To-Copy-Paste-200-tasks-fc22c9142d6a4a4286a3fe755be932e6) - ChatGPT Marketing Prompts
 * [HLDMSIYS?](http://howlongdoesmarijuanastayinyoursystem.net/) - Drug Effect Duration / Testing Information
 * [Anti Money Laundering Toolbox](https://bin.disroot.org/?ed25a979891da67b#BffjWKHJNYTA1JdrWz9jpy5opjzncubeKFc1pBuptxdW) - Prevent Money Laundering / [AML Laws](https://www.bitsaboutmoney.com/archive/money-laundering-and-aml-compliance/)
 * [HomeBank](http://homebank.free.fr/), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/), [Ledger](https://ledger-cli.org/), [Paisa](https://github.com/RetroMusicPlayer/Paisa), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [actual](https://github.com/actualbudget/actual) or [Sushi](https://github.com/jerameel/sushi) - Finance Managers
@@ -1091,7 +1093,6 @@
 * ⭐ **[Check if Sites are Down](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_down_site_checkers)** - Check if Sites are Dead / Broken
 * ⭐ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls)** - URL Encoding / Decoding Tools
 * ⭐ **[Flagfox](https://flagfox.wordpress.com/)** - Displays Country's Flag on Sites / [Adds Many URL Tools](https://i.ibb.co/N7Mq56Q/889730aa3863.png)
-* ⭐ **[WTFDoesThisCompanyDo](https://wtfdoesthiscompanydo.vercel.app/)** - AI Site Explanations
 * ⭐ **[Reverse URL Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools)** - Domain Info Lookup Tools
 * ⭐ **[URL Unshorteners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_url_unshorteners)** - Unmask Shortened URLs
 * ⭐ **[Wiki Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - Wiki URL Shortener
@@ -1176,7 +1177,7 @@
 * ⭐ **[/r/multihub](https://www.reddit.com/r/multihub/top/?sort=top&t=all)** or [Multireddit List](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits) - Explore / Discover Multireddits
 * ⭐ **[Redditle](https://redditle.com/)**, [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0) / [2](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30) or [Better Reddit Search](https://betterredditsearch.web.app/) - Reddit Search Engines
 * /u/SaveVideo, [r2monkey](https://github.com/jijirae/r2monkey), [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RedditSave](https://rapidsave.com/), [redv.co](https://redv.co/) or [Reddit.tube](https://www.redd.tube/) - Download Reddit Videos
-* [saveddit](https://github.com/p-ranav/saveddit), [Gert](https://github.com/mcdallas/gert) or [SubredditMediaDownloader](https://github.com/Psycoguana/SubredditMediaDownloader) - Reddit Bulk Media Downloaders
+* [saveddit](https://github.com/p-ranav/saveddit), [Gert](https://github.com/mcdallas/gert), [RedditDownloader](https://redditdownloader.github.io/) or [SubredditMediaDownloader](https://github.com/Psycoguana/SubredditMediaDownloader) - Reddit Bulk Media Downloaders
 * [Unmute Reddit](https://greasyfork.org/en/scripts/445557) - Unmute Reddit Videos by Default
 * [Reddit Login Bypass Script](https://pastebin.com/raw/sU5tqwep) - Bypass Reddit Login
 * [Reddit Comber](https://redditcomber.com/) or [Sub Notification](https://redd.it/5mz9z5)  - Reddit Keyword Notifications
@@ -1186,7 +1187,7 @@
 * [KarmaDecay](http://karmadecay.com/) - Reddit Reverse Image Search 
 * [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/) or [Nuxtit](https://nuxtit.netlify.app/) - Alt Browsers / Web Clients
 * [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466), [Unedit](https://github.com/DenverCoder1/Unedit-for-Reddit), [Unddit](https://www.unddit.com/) / [2](https://camas.unddit.com/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - View Deleted Reddit Posts
-* [ReSavr](https://www.resavr.com/) or [Unreddit](https://github.com/pauldraper/unreddit) - View Deleted Reddit Comments 
+* [ReSavr](https://www.resavr.com/), [Comment History](https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee) or [Unreddit](https://github.com/pauldraper/unreddit) - Reddit Comment Archives
 * [Expanse](https://github.com/jc9108/expanse) or [Reddit Archive](http://www.redditarchive.com/) - Reddit Post Archive Tools / [Note](https://ibb.co/R9jC5bk)
 * [Reddit Highlighter](https://greasyfork.org/en/scripts/39312) - Highlights New Posts
 * [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlights New Comments
@@ -1637,15 +1638,16 @@ Twitch Stream Tracker
 * [TwitLonger](https://www.twitlonger.com/) - Make Longer Tweets
 * [Twuko](https://www.twuko.com/) - Twitter News Feed
 * [Typefully](https://typefully.com/) - Schedule Tweets
-* [Poet.so](https://poet.so/), [Twimage](https://twimage.vercel.app/) / [GitHub](https://github.com/drkPrince/tweet-to-image) or [Tweetlet](https://tweetlet.net/) - Create Twitter Post Images
+* [Poet.so](https://poet.so/), [Twimage](https://twimage.vercel.app/) / [GitHub](https://github.com/drkPrince/tweet-to-image), [TwitHelper](https://twithelper.com/) or [Tweetlet](https://tweetlet.net/) - Create Twitter Post Images
 * [Tall Tweets](https://talltweets.com/) - Turn Presentations into Twitter GIFs
 * [Tweetgen](https://www.tweetgen.com/) or [FakeTweetMaker](https://www.faketweetmaker.com/) - Create Fake Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chrome.google.com/webstore/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
 * [Thread Reader App](https://threadreaderapp.com/) - Unroll Twitter Threads / Search
 * [React Statis Tweets](https://github.com/transitive-bullshit/react-static-tweets) - Static Tweets Renderer
 * [Treeverse](https://treeverse.app/) - Twitter Conversation Visualizer
+* [ChatSalad](https://chatsalad.com/) - Twitter Chat Threads
 * [NoBlueTick](https://play.google.com/store/apps/details?id=com.indegy.nobluetick&hl=en&gl=US) - Avoid Read Receipts / Blue Tick
-* [Trends Map](https://www.trendsmap.com/), [Trends24](https://trends24.in/) or [Hashtagify](https://hashtagify.me/) - Trending Hashtags Trackers
+* [Trends Map](https://www.trendsmap.com/), [iTended](https://itrended.com/), [Trends24](https://trends24.in/) or [Hashtagify](https://hashtagify.me/) - Trending Hashtags Trackers
 * [Twitter Linker](https://twitterlinker.vercel.app/) or [Twitter Images](https://twitter-images.vercel.app/) - Generate Twitter Card for Your 
 * [Relink](https://www.relink.page/) - Fix Twitter Link Images
 * [OneMillionTweetMap](https://onemilliontweetmap.com/) - Real-Time Tweet Map 
