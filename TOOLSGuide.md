@@ -1465,6 +1465,7 @@
 * ⭐ **[YouTube Advanced Search](https://playlists.at/youtube/search/)**
 * ⭐ **[YouTube Video / Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_converters)**
 * ⭐ **[YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends)** - Ad-Free YouTube Frontends / Clients
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases/latest) - Commandline video downloader for and other platforms
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) 
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
 * [YouTube Encoding Guide](https://support.google.com/youtube/answer/1722171) - Recommended YouTube Encoding Settings
