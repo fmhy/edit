@@ -100,7 +100,7 @@
 * ⭐ **[m0nkrus](http://w14.monkrus.ws/)** - Adobe Software Archive / [How-to](https://rentry.co/adobesoftware)
 * [GloTorrents](https://glodls.to) - Video / Audio / Games / Books / Software / Android / NSFW
 * [MagnetDL](https://www.magnetdl.com/), [2]( https://www.magnetdl.org/) - Video / Audio / Games / Software / Books / [Onion](http://r5cena7erxpnxomyvoybuxh6fkgs55qqdg7bobf6yjx4j6vmywrqvlid.onion/)
-* [YggTorrent](https://ww3.yggtorrent.si/) - Video / Audio / Roms / Software / Books / Android / Comics
+* [YggTorrent](https://www3.yggtorrent.wtf/) - Video / Audio / Roms / Software / Books / Android / Comics
 * [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Software / Games / Books
 * [IsoHunt](https://isohunts.to/) or [IsoHunt.nz](https://isohunt.nz/) - Video / Audio / Games / Software / Books
 * [ExT](https://ext.to/), [2](https://site.extto.com/) - Video / Audio / Games / Software / Books
