@@ -937,6 +937,7 @@ Simulator
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
 * [Bonsai](https://bonsaibrowser.com/) - Research Web Browser
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
+* [Papertag](https://www.papertag.app/) - Attach Digital Content on Paper
 * [BookStack](https://www.bookstackapp.com/) - Self-Hosted Information Manager
 * [Graded](https://github.com/NightDreamGames/Graded) - Grades Tracker / Android
 * [Quizlet](https://quizlet.com/) / [Paywall Bypass](https://github.com/rospino74/Quizlet-Bypass)/ [2](https://discord.gg/VuD7WBvXCQ), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872) / [Explanations](https://greasyfork.org/en/scripts/434972), [2](https://greasyfork.org/en/scripts/438663)
@@ -992,9 +993,7 @@ Simulator
 
 * ⭐ **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/) or [UN Data](https://data.un.org/) - World Data & Statistics
 * ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
-* [Climate Data](https://climate-data.org/) or [Climate Explorer](https://crt-climate-explorer.nemac.org/) - Climate Change Data
-* [Nextstrain](https://nextstrain.org/) - Pathogen Evolution Tracking
-* [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - COVID Data
+* ⭐ **[The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)** - Global Economic Growth Data
 * [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets) - Public Datasets
 * [Location Data](https://locationdata.us/) or [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
@@ -1005,7 +1004,7 @@ Simulator
 * [Stat Counter](https://gs.statcounter.com/) - Search Engine, Browser and OS Statistics
 * [US Debt Clock](https://www.usdebtclock.org/) - US Debt Clock
 * [Statista](https://www.statista.com/) - Market Statistics
-* [OEC](https://oec.world/en) - International Trade Data
+* [OEC](https://oec.world/en) or [UN Comtrade](https://comtradeplus.un.org/) - Global Trade Data
 * [Netblocks](https://netblocks.org/cost/) - Find Impact of Internet Shutdown on Economy
 * [LittleSis](https://littlesis.org/) - Business / Government Connections Data
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
@@ -1013,6 +1012,9 @@ Simulator
 * [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Information Database
 * [us_hate_crimes](https://github.com/dessalines/essays/blob/master/us_hate_crimes.md) - US Hate Crime Databsase
+* [Climate Data](https://climate-data.org/) or [Climate Explorer](https://crt-climate-explorer.nemac.org/) - Climate Change Data
+* [Nextstrain](https://nextstrain.org/) - Pathogen Evolution Tracking
+* [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - COVID Data
 * [Political Simulator](http://filteries.com/politics) - Politics / Economics Simulator
 
 ***
