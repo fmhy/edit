@@ -314,6 +314,7 @@
 * [AnimeLandTV](https://w4.animeland.tv/) - Dub / 1080p
 * [Animeplyx](https://animeplyx.eu/) - Sub / 1080p
 * [KimAnime](https://kimanime.com/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/JdmpSF92N4)
+* [KissAnime](https://kissanime.help/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/w5ghWQG8uM)
 * [Animetake](https://animetake.tv/) - Sub / 1080p
 * [Anime OWL](https://anime-owl.net/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [ChiaAnime](https://chia-anime.su/) - Sub / 1080p
@@ -731,13 +732,14 @@
 * [NotFlix](https://github.com/Bugswriter/notflix) - Torrent Streaming Script
 * [Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) - Stream Torrents via Clients
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
-* [Bobarr](https://github.com/iam4x/bobarr) or [Nefarious](https://github.com/lardbit/nefarious) - Movie / TV autodownload / [Discord](https://discord.gg/PFwM4zk)
+* [Bobarr](https://github.com/iam4x/bobarr) or [Nefarious](https://github.com/lardbit/nefarious) - Movie / TV Autodownload / [Discord](https://discord.gg/PFwM4zk)
 * [SickChill](https://sickchill.github.io/) / [GitHub](https://github.com/SickChill/SickChill) or [CouchPotato](https://couchpota.to/) - Automatic Torrent / NZB Searching, Downloading & Processing
 * [wt](https://github.com/DegenCoden/wt), [GMDB](https://github.com/Dentrax/GMDB), [PeerFlix](https://github.com/mafintosh/peerflix) / [Server](https://github.com/asapach/peerflix-server) - Torrent Streaming CLIs
 * [Autosearch Extension](https://github.com/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension) - Sonarr/Radarr/Lidarr Autosearch Extension
+* [Unpackerr](https://unpackerr.zip/) - Automated Archive Extraction
 * [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - Stream Torrents in VLC
 * [webtorrent-mpv-hook](https://github.com/mrxdst/webtorrent-mpv-hook) - Stream Torrents in MPV
-* [PepperTorrent](https://github.com/husnuljahneer/PepperTorrent) - Discord Torrent Bot
+* [Requestrr](https://github.com/darkalfx/requestrr) or [PepperTorrent](https://github.com/husnuljahneer/PepperTorrent) - Discord Torrent Bots
 * [MovieTorrents_bot](https://t.me/MovieTorrents_bot) - Telegram Torrent Search Bot
 * [Iceetime](https://github.com/diericx/bevy) or [RapidBay](https://github.com/hauxir/rapidbay) - Self-Hosted Torrent Streaming 
 
@@ -800,7 +802,8 @@
 # ► Tracking / Discovery
 
 * ⭐ **[FlixMetrix](https://flickmetrix.com/)** - Combines IMDb, Rotten Tomatoes & Letterbox ratings
-* ⭐ **[Trakt](https://trakt.tv/)** - TV / Anime / Movies / [Apps](https://trakt.tv/apps) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [Duplicate Remover](https://huere.net/trakt/duplicate_removal/)
+* ⭐ **[Trakt](https://trakt.tv/)** - TV / Anime / Movies
+* ⭐ **Trakt Tools** - [Apps](https://trakt.tv/apps) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [Duplicate Remover](https://huere.net/trakt/duplicate_removal/) / [Create Lists](https://listrr.pro/)
 * ⭐ **[Letterboxd](https://letterboxd.com/)** - Movies
 * ⭐ **Letterboxd Tools** - [Multi Tool](https://www.letterboxd.tools/) / [Shortcuts](https://github.com/alandours/letterboxd-shortcuts) / [Watchlist Picker](https://watchlistpicker.com/) / [Collections](https://mrdys.github.io/letterboxd-completionist/)
 * ⭐ **[ICheckMovies](https://www.icheckmovies.com/)** - Movies / List Database / [Enhanced](https://greasyfork.org/en/scripts/11541-icheckmovies-enhanced)
@@ -951,7 +954,7 @@
 * [SRT2PRXML](https://srt2prxml.chdo.xyz/) - SRT to Premiere Pro XML Converter
 * [asstosrt-wasm](https://sorz.github.io/asstosrt-wasm/) - ASS / SSA to SRT Subtitles Converter
 * [RenameThemSubs](https://github.com/Eshaan7/RenameThemSubs) - Rename Sub Files to match Video
-* [Subvert](https://subvert.dev/), [pyTranscriber](https://pytranscriber.github.io/), [Auto-Subtitle](https://www.veed.io/tools/auto-subtitle-generator-online), [FreeSubtitlesAI](https://freesubtitles.ai/) or [autosub](https://github.com/agermanidis/autosub), [2](https://github.com/BingLingGroup/autosub) - Subtitle Generators
+* [Subvert](https://subvert.dev/), [pyTranscriber](https://pytranscriber.github.io/), [Auto-Subtitle](https://www.veed.io/tools/auto-subtitle-generator-online), [FreeSubtitlesAI](https://freesubtitles.ai/), [ecoute](https://github.com/SevaSk/ecoute) or [autosub](https://github.com/agermanidis/autosub), [2](https://github.com/BingLingGroup/autosub) - Video Transcribers
 * [CCaptioner](https://github.com/gorhill/ccaptioner) - Add Subtitles to Videos / Extension
 * [subtitle.js](https://github.com/gsantiago/subtitle.js) - Parse and manipulate SRT (SubRip)
 * [TranslatesSubtitles](https://translatesubtitles.com/), [FreeSubtitles](https://freesubtitles.org/) or [SubtitleTranslate](https://github.com/mepeichun/SubtitleTranslate) - Translate Subtitles
@@ -1494,9 +1497,10 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### Data Visualization Tools
 
 * ⭐ **[RAWGraphs](https://app.rawgraphs.io/)** - [GitHub](https://github.com/rawgraphs/rawgraphs-app)
+* ⭐ **[DataVizCatalogue](https://datavizcatalogue.com/)** - Data Visualization Wiki
 * [flowchart fun](https://flowchart.fun/) - Generate Flowchart From Text / [GitHub](https://github.com/tone-row/flowchart-fun)
 
-[Data GIF Maker](https://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [chartd](http://chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [Histogram Maker](https://histogrammaker.co/), [amCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://www.paraview.org/), [app.diagrams](https://app.diagrams.net/) / [Git](https://github.com/jgraph/drawio), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Draw](https://www.drawio.com/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [lybniz](https://github.com/thomasfuhringer/lybniz), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [graphonline](https://graphonline.ru/en/), [GraphGPT](https://graphgpt.vercel.app/), [Diagramify](https://diagramify.agiliq.com/)
+[Data GIF Maker](https://datagifmaker.withgoogle.com/), [Flourish](https://flourish.studio/), [Datawrapper](https://www.datawrapper.de/), [chartd](http://chartd.co/), [Chart.xkcd](https://timqian.com/chart.xkcd/), [QuickChart](https://quickchart.io/), [Percival](https://percival.ink/), [Histogram Maker](https://histogrammaker.co/), [amCharts](https://live.amcharts.com/), [ACME Chartmaker](https://acme.com/chartmaker/), [ParaView](https://www.paraview.org/), [app.diagrams](https://app.diagrams.net/) / [Git](https://github.com/jgraph/drawio), [Dia](http://dia-installer.de/), [RawGraphs](https://rawgraphs.io/), [Draw](https://www.drawio.com/), [yEd Live](https://www.yworks.com/yed-live/), [Mermaid](https://mermaid.live/), [lybniz](https://github.com/thomasfuhringer/lybniz), [LineGraphMaker](https://linegraphmaker.co/), [SwimLanes](https://swimlanes.io/), [Quiver](https://q.uiver.app/), [Gephi](https://gephi.org/), [Graphviz](https://graphviz.org/) / [Editor](https://edotor.net/), [graphonline](https://graphonline.ru/en/), [GraphGPT](https://graphgpt.vercel.app/), [Diagramify](https://diagramify.agiliq.com/), [Charts Builder](https://charts.hohli.com/), [diagramgpt](https://www.eraser.io/diagramgpt)
 
 ***
 
@@ -1583,7 +1587,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Domain Info Tools
 
-[WhoisRequest](https://whoisrequest.com/), [Rankchart](https://rankchart.org/), [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MXToolBox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/), [IPIP.NET](https://whois.ipip.net/), [BillCipher](https://github.com/84KaliPleXon3/BillCipher), [WebStatsDomain](https://webstatsdomain.org/), [AtSameIP](https://atsameip.intercode.ca/), [DNSlytics](https://dnslytics.com/), [DNSTwister](https://dnstwister.report/), [AnalyzeID](https://analyzeid.com/)
+[WhoisRequest](https://whoisrequest.com/), [Rankchart](https://rankchart.org/), [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MXToolBox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/), [IPIP.NET](https://whois.ipip.net/), [BillCipher](https://github.com/84KaliPleXon3/BillCipher), [WebStatsDomain](https://webstatsdomain.org/), [AtSameIP](https://atsameip.intercode.ca/), [DNSlytics](https://dnslytics.com/), [DNSTwister](https://dnstwister.report/), [AnalyzeID](https://analyzeid.com/), [LinkScope](https://accentusoft.com/)
 
 ***
 
@@ -2680,7 +2684,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[QotNews](https://news.t0.vc/)**
 
-[spidr](https://spidr.today/), [All Sides](https://www.allsides.com/), [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/), [freepo.st](https://freepo.st/), [TechMeme](https://www.techmeme.com/m/), [RealClearPolitics](https://www.realclearpolitics.com/), [Their News](https://www.their.news/), [Lobsters](https://lobste.rs/) / [Highlighter](https://greasyfork.org/en/scripts/40906), [68k News](http://68k.news/), [Readspike](https://readspike.com/), [sumi.news](https://sumi.news/), [Ground News](https://ground.news/), [The Brutalist Report](https://brutalist.report/), [Bastyon](https://bastyon.com/index), [Upstract](https://upstract.com/), [Otherweb](https://otherweb.com/), [AlDaily](https://www.aldaily.com/), [newsfeed.one](https://newsfeed.one/), [Fark](https://www.fark.com/), [FlipBoard](https://flipboard.com/), [jimmyr](http://www.jimmyr.com/)
+[spidr](https://spidr.today/), [All Sides](https://www.allsides.com/), [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/), [freepo.st](https://freepo.st/), [TechMeme](https://www.techmeme.com/m/), [RealClearPolitics](https://www.realclearpolitics.com/), [Their News](https://www.their.news/), [Lobsters](https://lobste.rs/) / [Highlighter](https://greasyfork.org/en/scripts/40906), [68k News](http://68k.news/), [Readspike](https://readspike.com/), [sumi.news](https://sumi.news/), [Ground News](https://ground.news/), [The Brutalist Report](https://brutalist.report/), [Bastyon](https://bastyon.com/index), [Upstract](https://upstract.com/), [Otherweb](https://otherweb.com/), [AlDaily](https://www.aldaily.com/), [newsfeed.one](https://newsfeed.one/), [Fark](https://www.fark.com/), [FlipBoard](https://flipboard.com/), [jimmyr](http://www.jimmyr.com/), [alltop](https://alltop.com/)
 
 ***
 
@@ -4525,9 +4529,10 @@ Add the following commands to a search to manually scrape each site.
 ## ▷ Open-Source Bots
 
 * ⭐ **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - LLM Leaderboard
+* ⭐ **[seait](https://github.com/diStyApps/seait)** - AI Installation Manager
 * ⭐ **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Chatbots / [Collab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
 * ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host LLaMa Based Chatbots
-* ⭐ **[Guanaco](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi)** - QLoRA based Chatbot / [Github](https://github.com/artidoro/qlora)
+* ⭐ **[Guanaco](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi)** - QLoRA Based Chatbot / [Github](https://github.com/artidoro/qlora)
 * ⭐ **[LMSYS](https://chat.lmsys.org/)** - Compare Models / [Github](https://github.com/lm-sys/FastChat) / [Discord](https://discord.com/invite/h6kCZb72G7)
 * [Awesome Totally Open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) - Open-Source LLMs Index
 * [Transfer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/) - LLM Timeline
@@ -4673,6 +4678,7 @@ Add the following commands to a search to manually scrape each site.
 * [SheetPlus](https://sheetplus.ai/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [FormulaBot](https://formulabot.com/) - Excel AI Tools
 * [GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) - Text Classification AI
 * [Image2Paragraph](https://github.com/showlab/Image2Paragraph) - Image to Descriptive Paragraph
+* [RoastMe](https://roastme.aleem.tv/) - Outfit Roasting AI
 * [Auto Text Expander](https://pastebin.com/TFPRieVN) - Shortcuts to Expand & Replace Text as you Type
 
 ***
@@ -4712,6 +4718,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[Zoo](https://zoo.replicate.dev/)** - Multi-AI Image Generators
 * ⭐ **[DeepFloyd IF](https://huggingface.co/spaces/DeepFloyd/IF)** - AI Image Generator / [Github](https://github.com/deep-floyd/IF) / [Colab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/deepfloyd_if_free_tier_google_colab.ipynb) / [Discord](https://discord.com/invite/TpBQ4fqThB)
+* ⭐ **[PIXYbot](https://t.me/piiixybot)** - MidJourney Telegram Bot
 * ⭐ **[Bing](https://www.bing.com/images/create)** - Dall-E Based AI Image Generator
 * ⭐ **[Craiyon](https://www.craiyon.com/)** - AI Image Generator / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
 * ⭐ **[Kandinsky2](https://fusionbrain.ai/diffusion)** - AI Image Generator / [Github](https://github.com/ai-forever/ru-dalle) / [Demo](https://rudalle.ru/kandinsky2)
@@ -5020,7 +5027,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[m0nkrus](http://w14.monkrus.ws/)** - Adobe Software Archive / [How-to](https://rentry.co/adobesoftware)
 * [GloTorrents](https://glodls.to) - Video / Audio / Games / Books / Software / Android / NSFW
 * [MagnetDL](https://www.magnetdl.com/), [2]( https://www.magnetdl.org/) - Video / Audio / Games / Software / Books / [Onion](http://r5cena7erxpnxomyvoybuxh6fkgs55qqdg7bobf6yjx4j6vmywrqvlid.onion/)
-* [YggTorrent](https://ww3.yggtorrent.si/) - Video / Audio / Roms / Software / Books / Android / Comics
+* [YggTorrent](https://www3.yggtorrent.wtf/) - Video / Audio / Roms / Software / Books / Android / Comics
 * [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Software / Games / Books
 * [IsoHunt](https://isohunts.to/) or [IsoHunt.nz](https://isohunt.nz/) - Video / Audio / Games / Software / Books
 * [ExT](https://ext.to/), [2](https://site.extto.com/) - Video / Audio / Games / Software / Books
@@ -6667,7 +6674,7 @@ pass: paluch
 * [primitive.js](https://ondras.github.io/primitive.js/) or [Geometrize](https://www.geometrize.co.uk/) - Redraw Images with Geometric Shapes 
 * [PBNify](https://pbnify.com/) - Paint by Number Tool
 * [Paint with Music](https://artsandculture.google.com/experiment/paint-with-music/YAGuJyDB-XbbWg) - Paint with Sound
-* [Segment Anything](https://segment-anything.com/) or [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Segment Objects in Photos
+* [Segment Anything](https://segment-anything.com/), [Samist](https://github.com/dibrale/samist) or [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Image Segmentation Tools
 * [Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://magicstudio.com/magiceraser), [Remover](https://remover.zmo.ai/), [Cleanup.pictures](https://cleanup.pictures/) - Remove Objects from Photos
 * [InsertFace](https://insertface.com/) - Selfie Frames, Backgrounds & Effects
 * [Frame360](https://frame360.net/) - Image Frames
@@ -9151,6 +9158,7 @@ pass: paluch
 * [NSA Archive](https://nsarchive.gwu.edu/) - Reports
 * [NAP](https://nap.nationalacademies.org/) - Reports
 * [WikiLeaks](https://wikileaks.org/) - Leaked Documents
+* [Cryptome](https://cryptome.org/) - Leaked Documents
 * [CensorBib](https://censorbib.nymity.ch/) or [censoredplanet.org](https://censoredplanet.org/) - Internet Censorship Research Papers
 * [Constitute Project](https://www.constituteproject.org/) - World Constitutions Database
 * [ArmyPubs](https://armypubs.army.mil/) or [US Military Manual Collection](https://archive.org/details/military-manuals) - Military Documents / Manuals
@@ -10688,6 +10696,7 @@ Simulator
 * [Taguette](https://app.taguette.org/) - Data Analysis Document Tagging
 * [Bonsai](https://bonsaibrowser.com/) - Research Web Browser
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
+* [Papertag](https://www.papertag.app/) - Attach Digital Content on Paper
 * [BookStack](https://www.bookstackapp.com/) - Self-Hosted Information Manager
 * [Graded](https://github.com/NightDreamGames/Graded) - Grades Tracker / Android
 * [Quizlet](https://quizlet.com/) / [Paywall Bypass](https://github.com/rospino74/Quizlet-Bypass)/ [2](https://discord.gg/VuD7WBvXCQ), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872) / [Explanations](https://greasyfork.org/en/scripts/434972), [2](https://greasyfork.org/en/scripts/438663)
@@ -10743,9 +10752,7 @@ Simulator
 
 * ⭐ **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/) or [UN Data](https://data.un.org/) - World Data & Statistics
 * ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
-* [Climate Data](https://climate-data.org/) or [Climate Explorer](https://crt-climate-explorer.nemac.org/) - Climate Change Data
-* [Nextstrain](https://nextstrain.org/) - Pathogen Evolution Tracking
-* [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - COVID Data
+* ⭐ **[The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)** - Global Economic Growth Data
 * [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets) - Public Datasets
 * [Location Data](https://locationdata.us/) or [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
@@ -10756,7 +10763,7 @@ Simulator
 * [Stat Counter](https://gs.statcounter.com/) - Search Engine, Browser and OS Statistics
 * [US Debt Clock](https://www.usdebtclock.org/) - US Debt Clock
 * [Statista](https://www.statista.com/) - Market Statistics
-* [OEC](https://oec.world/en) - International Trade Data
+* [OEC](https://oec.world/en) or [UN Comtrade](https://comtradeplus.un.org/) - Global Trade Data
 * [Netblocks](https://netblocks.org/cost/) - Find Impact of Internet Shutdown on Economy
 * [LittleSis](https://littlesis.org/) - Business / Government Connections Data
 * [World Births and Deaths](https://worldbirthsanddeaths.com/) - World Birth / Death Rates Visualization
@@ -10764,6 +10771,9 @@ Simulator
 * [Incarceration in Real Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/) - Incarceration Visualization / Facts
 * [Gun Violence Archive](https://www.gunviolencearchive.org/) - Gun Violence Information Database
 * [us_hate_crimes](https://github.com/dessalines/essays/blob/master/us_hate_crimes.md) - US Hate Crime Databsase
+* [Climate Data](https://climate-data.org/) or [Climate Explorer](https://crt-climate-explorer.nemac.org/) - Climate Change Data
+* [Nextstrain](https://nextstrain.org/) - Pathogen Evolution Tracking
+* [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html) - COVID Data
 * [Political Simulator](http://filteries.com/politics) - Politics / Economics Simulator
 
 ***
@@ -15125,6 +15135,7 @@ Twitch Stream Tracker
 * [Shizuku](https://github.com/RikkaApps/Shizuku) - Use System APIs Directly with ABD / Root 
 * [Algolia](https://www.algolia.com/), [TypeSense](https://typesense.org/), [StorkSearch](https://stork-search.net/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/), [Sphinx](http://sphinxsearch.com/) or [FusionBot](https://www.fusionbot.com/) - Search API
 * [Reacher](https://reacher.email/) - Email Verification API
+* [BotScout](https://botscout.com/) - Bot Check API
 * [Telegram Bot API](https://github.com/tdlib/telegram-bot-api) or [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - Telegram Bot API
 * [cf-workers-telegram-bot](https://github.com/codebam/cf-workers-telegram-bot) - Serverless Telegram Bot
 * [mqtt2telegram](https://zjor.github.io/mqtt2telegram/) - Telegram Messaging API
@@ -15377,6 +15388,7 @@ Twitch Stream Tracker
 * [MathURLs](https://mathurls.com/) - Math News
 * [DevURLs](https://devurls.com/) - Developer News
 * [TuxURLs](https://tuxurls.com/) - Linux News
+* [The Base Rate Times](https://www.baseratetimes.com/) - Market Prediction News
 * [Medievalists](https://www.medievalists.net/category/news/) - Medieval History News
 * [FinURLs](https://finurls.com/) - Finance & Business News
 * [Uriminzokkiri](http://www.uriminzokkiri.com/index.php?lang=eng) - Korean News
@@ -15654,9 +15666,14 @@ Twitch Stream Tracker
 
 * ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)**, [Turas](https://turas.app/), [CountryReports](https://www.countryreports.org/) or [TravelTips](https://www.traveltip.org/world_maps.php) - Travel Guides
 * ⭐ **[JourneyPlan](https://journeyplan.co)** or [TripNotes](https://tripnotes.ai/) - Trip Planning AIs
+* ⭐ **[twkids](https://www.twkids.app/)** - Find Theme Parks, Water Parks, Zoo's etc.
 * ⭐ **[Borderless](https://borderless.safetywing.com/)** - Travel Restrictions Guide
 * ⭐ **[MapChecking](https://www.mapchecking.com/)** - Crowd Size Estimation
 * ⭐ **[Gas Price Map](https://www.gasbuddy.com/gaspricemap)** - US Gas Prices
+* [Roadside America](https://www.roadsideamerica.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
+* [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Sites
+* [FreeCampSites](https://freecampsites.net/) - Free Camp Sites
+* [Traveler Map](https://travelermap.net/) - National Park Maps
 * [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](https://www.radarbox.com/) or [FlightAware](http://flightaware.com/) - Live Flight Trackers
 * [plane-notify](https://github.com/Jxck-S/plane-notify) - Plane Takeoff Notifications
 * [FlightConnections](https://www.flightconnections.com/) - Interactive Flight Routes
@@ -15665,10 +15682,6 @@ Twitch Stream Tracker
 * [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [MetroOrbits](http://mic-ro.com/metro/index.html) - Subway Maps / Data
 * [ChronoTrains](https://chronotrains-eu.vercel.app/) - European Trains Distances
-* [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Sites
-* [Roadside America](https://www.roadsideamerica.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
-* [FreeCampSites](https://freecampsites.net/) - Free Camp Sites
-* [Traveler Map](https://travelermap.net/) - National Park Maps
 * [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - Dialect Map
 * [Left vs. Right Side Driving Map](https://somerandomstuff1.files.wordpress.com/2019/02/left-or-right-side.png) - Left vs. Right Side Driving by Country
 * [Speed Limits Map](https://somerandomstuff1.files.wordpress.com/2019/02/highest-speed-limits-around-the-world.png) - Max Speed Limits
@@ -15691,6 +15704,7 @@ Twitch Stream Tracker
 * [Ancestry Images](http://www.ancestryimages.com/) or [Pastvu](https://pastvu.com/) - Historical Photo & Map Archive
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
+* [Color Brewer](https://colorbrewer2.org/) - Cartography Color Advice
 * [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
 * [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - Earth Viewer
 * [Snazzy Maps](https://snazzymaps.com/) - Google Maps Themes
@@ -16549,6 +16563,7 @@ Twitch Stream Tracker
 * ⭐ **[Library of Babel](https://libraryofbabel.info/)** - Every Book of Past, Present, and Future
 * [Things to Do](https://randomthingstodo.com/), [TheZen](https://thezen.zone/) or [bored.solutions](https://bored.solutions/) - Activity Suggestions
 * [Drinking Game Zone](https://drinkinggamezone.com/) - Drinking Games Encyclopedia
+* [BoozeTube](https://boozetube.netlify.app/) - Turn Videos in Drinking Games
 * [rrrather](http://rrrather.com/) - Would You Rather
 * [Scattergories](https://swellgarfo.com/scattergories) - Scattergories List Generator
 * [LooksLikeYouNeedIceland](https://www.visiticeland.com/) or [JUST SCREAM!](https://justscream.baby/) - Scream Into the Universe 
@@ -18152,7 +18167,7 @@ Twitch Stream Tracker
 
 ## ▷ Torrenting
 
-* [YggTorrent](https://ww3.yggtorrent.si/) - Video / Audio / Roms / Software / Books / Android / Comics
+* [YggTorrent](https://www3.yggtorrent.wtf/) - Video / Audio / Roms / Software / Books / Android / Comics
 * [Torrent9](https://www.torrent9.fm/), [2](https://www.torrent9.site/), [3](https://torrent9.app/), [4](https://ww2.torrentz9.fr/) - Video / Audio / Software / Games / Roms / Books
 * [Torrent911](https://www.torrent911.ws/)  - Video / Audio / Software / Games / Roms / Books
 * [OxTorrent](https://oxtorrents.co/) - Video / Audio / Software / Games / Roms / Books
@@ -18414,13 +18429,11 @@ Twitch Stream Tracker
 ## ▷ Streaming
 
 * ⭐ **[Einthusan](https://einthusan.tv/)** - Movies / Music
-* [tamilgun](https://tamilgun.team/) -  Movies / TV
 * [uWatchFree](https://uwatchfree.be/) - Movies / TV
 * [khatrimazafull](https://khatrimazaful.wiki/) - Movies
 * [9xmovies](https://9xmovies.expert/) - Movies
 * [Movierulz](https://movierulzhd.rest/) - Movies / TV / [Telegram](https://t.me/movierulz28)
 * [5movierulz](https://5movierulz.cc/) - Movies
-* [Toroflix](https://hindilinks4u.app/) - Movies
 * [IndianCine](https://indiancine.ma/) - 62k Indian Films / Short Films
 * [mxplayer](https://www.mxplayer.in) - Movies
 * [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - Movies
@@ -21250,6 +21263,8 @@ If you have any suggestions or questions feel free to join us in [Divolt](https:
 * [Otis_Inf Camera Mods](https://redd.it/hvttbd) - Game Camera Mods
 * [HedgeModManager](https://github.com/thesupersonic16/HedgeModManager) - Sonic Game Mod Manager
 * [Hidden Fallout 4 Mods](https://rentry.co/89gads), [2](https://docs.google.com/document/d/1Im5Mg-l2btRsYVOjaJa0slrjDcXNvi41J5pHw_Zuwqw/edit?usp=sharing) - Fallout 4 Mods Removed from Nexus
+* [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
+* [TF2 Classic](https://tf2classic.com/) - Team Fortress 2 Classic Mod
 * [Rekt](https://discord.com/invite/HqjQFCp) or [LinkerMod](https://github.com/Nukem9/LinkerMod) - Black Ops 1 Mod Projects
 * [Plutonium](https://plutonium.pw/) - Black Ops 2 & MW3 Mod Project / [Discord](https://discord.gg/d95y8ah)
 * [CoD4-Mod-Tools](https://github.com/promod/CoD4-Mod-Tools) - COD4 Mod Tools
@@ -21291,9 +21306,9 @@ If you have any suggestions or questions feel free to join us in [Divolt](https:
 
 # ► Tracking / Discovery
 
-* ⭐ **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database
 * ⭐ **[Glitchwave](https://glitchwave.com/)** - Game Tracker
 * ⭐ **[Grouvee](https://www.grouvee.com/)** - Game Tracker
+* ⭐ **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database
 * ⭐ **[TasteDive](https://tastedive.com/)** - Game Recommendations
 * [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
 * [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Game Recommendation Guides
