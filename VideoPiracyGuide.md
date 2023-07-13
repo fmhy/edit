@@ -314,6 +314,7 @@
 * [AnimeLandTV](https://w4.animeland.tv/) - Dub / 1080p
 * [Animeplyx](https://animeplyx.eu/) - Sub / 1080p
 * [KimAnime](https://kimanime.com/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/JdmpSF92N4)
+* [KissAnime](https://kissanime.help/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/w5ghWQG8uM)
 * [Animetake](https://animetake.tv/) - Sub / 1080p
 * [Anime OWL](https://anime-owl.net/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [ChiaAnime](https://chia-anime.su/) - Sub / 1080p
@@ -731,13 +732,14 @@
 * [NotFlix](https://github.com/Bugswriter/notflix) - Torrent Streaming Script
 * [Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) - Stream Torrents via Clients
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
-* [Bobarr](https://github.com/iam4x/bobarr) or [Nefarious](https://github.com/lardbit/nefarious) - Movie / TV autodownload / [Discord](https://discord.gg/PFwM4zk)
+* [Bobarr](https://github.com/iam4x/bobarr) or [Nefarious](https://github.com/lardbit/nefarious) - Movie / TV Autodownload / [Discord](https://discord.gg/PFwM4zk)
 * [SickChill](https://sickchill.github.io/) / [GitHub](https://github.com/SickChill/SickChill) or [CouchPotato](https://couchpota.to/) - Automatic Torrent / NZB Searching, Downloading & Processing
 * [wt](https://github.com/DegenCoden/wt), [GMDB](https://github.com/Dentrax/GMDB), [PeerFlix](https://github.com/mafintosh/peerflix) / [Server](https://github.com/asapach/peerflix-server) - Torrent Streaming CLIs
 * [Autosearch Extension](https://github.com/trossr32/sonarr-radarr-lidarr-autosearch-browser-extension) - Sonarr/Radarr/Lidarr Autosearch Extension
+* [Unpackerr](https://unpackerr.zip/) - Automated Archive Extraction
 * [VLC-Bittorrent](https://github.com/johang/vlc-bittorrent) or [StreamTim](https://streamtim.com/) - Stream Torrents in VLC
 * [webtorrent-mpv-hook](https://github.com/mrxdst/webtorrent-mpv-hook) - Stream Torrents in MPV
-* [PepperTorrent](https://github.com/husnuljahneer/PepperTorrent) - Discord Torrent Bot
+* [Requestrr](https://github.com/darkalfx/requestrr) or [PepperTorrent](https://github.com/husnuljahneer/PepperTorrent) - Discord Torrent Bots
 * [MovieTorrents_bot](https://t.me/MovieTorrents_bot) - Telegram Torrent Search Bot
 * [Iceetime](https://github.com/diericx/bevy) or [RapidBay](https://github.com/hauxir/rapidbay) - Self-Hosted Torrent Streaming 
 
@@ -800,7 +802,8 @@
 # ► Tracking / Discovery
 
 * ⭐ **[FlixMetrix](https://flickmetrix.com/)** - Combines IMDb, Rotten Tomatoes & Letterbox ratings
-* ⭐ **[Trakt](https://trakt.tv/)** - TV / Anime / Movies / [Apps](https://trakt.tv/apps) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [Duplicate Remover](https://huere.net/trakt/duplicate_removal/)
+* ⭐ **[Trakt](https://trakt.tv/)** - TV / Anime / Movies
+* ⭐ **Trakt Tools** - [Apps](https://trakt.tv/apps) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [Duplicate Remover](https://huere.net/trakt/duplicate_removal/) / [Create Lists](https://listrr.pro/)
 * ⭐ **[Letterboxd](https://letterboxd.com/)** - Movies
 * ⭐ **Letterboxd Tools** - [Multi Tool](https://www.letterboxd.tools/) / [Shortcuts](https://github.com/alandours/letterboxd-shortcuts) / [Watchlist Picker](https://watchlistpicker.com/) / [Collections](https://mrdys.github.io/letterboxd-completionist/)
 * ⭐ **[ICheckMovies](https://www.icheckmovies.com/)** - Movies / List Database / [Enhanced](https://greasyfork.org/en/scripts/11541-icheckmovies-enhanced)
@@ -951,7 +954,7 @@
 * [SRT2PRXML](https://srt2prxml.chdo.xyz/) - SRT to Premiere Pro XML Converter
 * [asstosrt-wasm](https://sorz.github.io/asstosrt-wasm/) - ASS / SSA to SRT Subtitles Converter
 * [RenameThemSubs](https://github.com/Eshaan7/RenameThemSubs) - Rename Sub Files to match Video
-* [Subvert](https://subvert.dev/), [pyTranscriber](https://pytranscriber.github.io/), [Auto-Subtitle](https://www.veed.io/tools/auto-subtitle-generator-online), [FreeSubtitlesAI](https://freesubtitles.ai/) or [autosub](https://github.com/agermanidis/autosub), [2](https://github.com/BingLingGroup/autosub) - Subtitle Generators
+* [Subvert](https://subvert.dev/), [pyTranscriber](https://pytranscriber.github.io/), [Auto-Subtitle](https://www.veed.io/tools/auto-subtitle-generator-online), [FreeSubtitlesAI](https://freesubtitles.ai/), [ecoute](https://github.com/SevaSk/ecoute) or [autosub](https://github.com/agermanidis/autosub), [2](https://github.com/BingLingGroup/autosub) - Video Transcribers
 * [CCaptioner](https://github.com/gorhill/ccaptioner) - Add Subtitles to Videos / Extension
 * [subtitle.js](https://github.com/gsantiago/subtitle.js) - Parse and manipulate SRT (SubRip)
 * [TranslatesSubtitles](https://translatesubtitles.com/), [FreeSubtitles](https://freesubtitles.org/) or [SubtitleTranslate](https://github.com/mepeichun/SubtitleTranslate) - Translate Subtitles
