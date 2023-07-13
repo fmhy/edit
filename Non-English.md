@@ -417,7 +417,7 @@
 
 ## ▷ Torrenting
 
-* [YggTorrent](https://ww3.yggtorrent.si/) - Video / Audio / Roms / Software / Books / Android / Comics
+* [YggTorrent](https://www3.yggtorrent.wtf/) - Video / Audio / Roms / Software / Books / Android / Comics
 * [Torrent9](https://www.torrent9.fm/), [2](https://www.torrent9.site/), [3](https://torrent9.app/), [4](https://ww2.torrentz9.fr/) - Video / Audio / Software / Games / Roms / Books
 * [Torrent911](https://www.torrent911.ws/)  - Video / Audio / Software / Games / Roms / Books
 * [OxTorrent](https://oxtorrents.co/) - Video / Audio / Software / Games / Roms / Books
@@ -679,13 +679,11 @@
 ## ▷ Streaming
 
 * ⭐ **[Einthusan](https://einthusan.tv/)** - Movies / Music
-* [tamilgun](https://tamilgun.team/) -  Movies / TV
 * [uWatchFree](https://uwatchfree.be/) - Movies / TV
 * [khatrimazafull](https://khatrimazaful.wiki/) - Movies
 * [9xmovies](https://9xmovies.expert/) - Movies
 * [Movierulz](https://movierulzhd.rest/) - Movies / TV / [Telegram](https://t.me/movierulz28)
 * [5movierulz](https://5movierulz.cc/) - Movies
-* [Toroflix](https://hindilinks4u.app/) - Movies
 * [IndianCine](https://indiancine.ma/) - 62k Indian Films / Short Films
 * [mxplayer](https://www.mxplayer.in) - Movies
 * [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - Movies
