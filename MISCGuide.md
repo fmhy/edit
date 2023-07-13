@@ -209,6 +209,7 @@
 * [MathURLs](https://mathurls.com/) - Math News
 * [DevURLs](https://devurls.com/) - Developer News
 * [TuxURLs](https://tuxurls.com/) - Linux News
+* [The Base Rate Times](https://www.baseratetimes.com/) - Market Prediction News
 * [Medievalists](https://www.medievalists.net/category/news/) - Medieval History News
 * [FinURLs](https://finurls.com/) - Finance & Business News
 * [Uriminzokkiri](http://www.uriminzokkiri.com/index.php?lang=eng) - Korean News
@@ -486,9 +487,14 @@
 
 * ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)**, [Turas](https://turas.app/), [CountryReports](https://www.countryreports.org/) or [TravelTips](https://www.traveltip.org/world_maps.php) - Travel Guides
 * ⭐ **[JourneyPlan](https://journeyplan.co)** or [TripNotes](https://tripnotes.ai/) - Trip Planning AIs
+* ⭐ **[twkids](https://www.twkids.app/)** - Find Theme Parks, Water Parks, Zoo's etc.
 * ⭐ **[Borderless](https://borderless.safetywing.com/)** - Travel Restrictions Guide
 * ⭐ **[MapChecking](https://www.mapchecking.com/)** - Crowd Size Estimation
 * ⭐ **[Gas Price Map](https://www.gasbuddy.com/gaspricemap)** - US Gas Prices
+* [Roadside America](https://www.roadsideamerica.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
+* [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Sites
+* [FreeCampSites](https://freecampsites.net/) - Free Camp Sites
+* [Traveler Map](https://travelermap.net/) - National Park Maps
 * [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](https://www.radarbox.com/) or [FlightAware](http://flightaware.com/) - Live Flight Trackers
 * [plane-notify](https://github.com/Jxck-S/plane-notify) - Plane Takeoff Notifications
 * [FlightConnections](https://www.flightconnections.com/) - Interactive Flight Routes
@@ -497,10 +503,6 @@
 * [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [MetroOrbits](http://mic-ro.com/metro/index.html) - Subway Maps / Data
 * [ChronoTrains](https://chronotrains-eu.vercel.app/) - European Trains Distances
-* [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Sites
-* [Roadside America](https://www.roadsideamerica.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
-* [FreeCampSites](https://freecampsites.net/) - Free Camp Sites
-* [Traveler Map](https://travelermap.net/) - National Park Maps
 * [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - Dialect Map
 * [Left vs. Right Side Driving Map](https://somerandomstuff1.files.wordpress.com/2019/02/left-or-right-side.png) - Left vs. Right Side Driving by Country
 * [Speed Limits Map](https://somerandomstuff1.files.wordpress.com/2019/02/highest-speed-limits-around-the-world.png) - Max Speed Limits
@@ -523,6 +525,7 @@
 * [Ancestry Images](http://www.ancestryimages.com/) or [Pastvu](https://pastvu.com/) - Historical Photo & Map Archive
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
+* [Color Brewer](https://colorbrewer2.org/) - Cartography Color Advice
 * [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
 * [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - Earth Viewer
 * [Snazzy Maps](https://snazzymaps.com/) - Google Maps Themes
@@ -1381,6 +1384,7 @@
 * ⭐ **[Library of Babel](https://libraryofbabel.info/)** - Every Book of Past, Present, and Future
 * [Things to Do](https://randomthingstodo.com/), [TheZen](https://thezen.zone/) or [bored.solutions](https://bored.solutions/) - Activity Suggestions
 * [Drinking Game Zone](https://drinkinggamezone.com/) - Drinking Games Encyclopedia
+* [BoozeTube](https://boozetube.netlify.app/) - Turn Videos in Drinking Games
 * [rrrather](http://rrrather.com/) - Would You Rather
 * [Scattergories](https://swellgarfo.com/scattergories) - Scattergories List Generator
 * [LooksLikeYouNeedIceland](https://www.visiticeland.com/) or [JUST SCREAM!](https://justscream.baby/) - Scream Into the Universe 
