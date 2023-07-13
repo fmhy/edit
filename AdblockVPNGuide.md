@@ -88,11 +88,11 @@
 
 ***
 
-## ▷ [Android Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_adblocking)
+## ▷ [Android Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_adblocking)
 
 ***
 
-## ▷ [iOS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_adblocking)
+## ▷ [iOS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_adblocking)
 
 ***
 
@@ -149,6 +149,7 @@
 * [SigThief](https://github.com/secretsquirrel/SigThief) - Signature Test 
 * [YARA](https://virustotal.github.io/yara/) - Malware Identification Tool
 * [Winitor](https://www.winitor.com/) - EXE Malware Assessment
+* [Any Run](https://app.any.run/) - Malware Analysis Sandbox
 * [WhatsApp Media Decrypt](https://github.com/ddz/whatsapp-media-decrypt) - Decrypt WhatsApp Media Files
 * [Package Analysis](https://github.com/ossf/package-analysis) - Open Source Package Analysis
 * [Manalyzer](https://manalyzer.org/) - PE File Scanner
@@ -454,11 +455,11 @@
 
 ***
 
-## ▷ [Android Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_privacy)
+## ▷ [Android Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_privacy)
 
 ***
 
-## ▷ [iOS Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_privacy)
+## ▷ [iOS Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_privacy)
 
 ***
 
