@@ -49,9 +49,10 @@
 ## ▷ Open-Source Bots
 
 * ⭐ **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - LLM Leaderboard
+* ⭐ **[seait](https://github.com/diStyApps/seait)** - AI Installation Manager
 * ⭐ **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Chatbots / [Collab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
 * ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host LLaMa Based Chatbots
-* ⭐ **[Guanaco](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi)** - QLoRA based Chatbot / [Github](https://github.com/artidoro/qlora)
+* ⭐ **[Guanaco](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi)** - QLoRA Based Chatbot / [Github](https://github.com/artidoro/qlora)
 * ⭐ **[LMSYS](https://chat.lmsys.org/)** - Compare Models / [Github](https://github.com/lm-sys/FastChat) / [Discord](https://discord.com/invite/h6kCZb72G7)
 * [Awesome Totally Open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) - Open-Source LLMs Index
 * [Transfer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/) - LLM Timeline
@@ -197,6 +198,7 @@
 * [SheetPlus](https://sheetplus.ai/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [FormulaBot](https://formulabot.com/) - Excel AI Tools
 * [GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) - Text Classification AI
 * [Image2Paragraph](https://github.com/showlab/Image2Paragraph) - Image to Descriptive Paragraph
+* [RoastMe](https://roastme.aleem.tv/) - Outfit Roasting AI
 * [Auto Text Expander](https://pastebin.com/TFPRieVN) - Shortcuts to Expand & Replace Text as you Type
 
 ***
@@ -236,6 +238,7 @@
 
 * ⭐ **[Zoo](https://zoo.replicate.dev/)** - Multi-AI Image Generators
 * ⭐ **[DeepFloyd IF](https://huggingface.co/spaces/DeepFloyd/IF)** - AI Image Generator / [Github](https://github.com/deep-floyd/IF) / [Colab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/deepfloyd_if_free_tier_google_colab.ipynb) / [Discord](https://discord.com/invite/TpBQ4fqThB)
+* ⭐ **[PIXYbot](https://t.me/piiixybot)** - MidJourney Telegram Bot
 * ⭐ **[Bing](https://www.bing.com/images/create)** - Dall-E Based AI Image Generator
 * ⭐ **[Craiyon](https://www.craiyon.com/)** - AI Image Generator / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
 * ⭐ **[Kandinsky2](https://fusionbrain.ai/diffusion)** - AI Image Generator / [Github](https://github.com/ai-forever/ru-dalle) / [Demo](https://rudalle.ru/kandinsky2)
