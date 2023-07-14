@@ -1474,6 +1474,7 @@
 * [YouTube Star Ratings](https://youtubestarrating.com/) - Restore YouTube Star Ratings
 * [Thumbnail Rating Bar](https://github.com/elliotwaite/thumbnail-rating-bar-for-youtube) - Add Rating Bar Under Video Thumbnails
 * [Disable Rounded Buttons](https://greasyfork.org/en/scripts/453802) - Disable Rounded YouTube Buttons
+* [DeArrow](https://dearrow.ajay.app/) - Reduce Sensationalism and Clickbait
 * [YouTubeFluent](https://github.com/LawOff/YouTubeFluent) - YouTube Fluent Theme
 * [YouTube Real Cinema Mode](https://userstyles.org/styles/122032/youtube-real-cinema-mode) or [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Cinema Mode
 * [Simple YouTube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) / [2](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - Bypass YouTube Age Restrictions
