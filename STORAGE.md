@@ -2649,7 +2649,6 @@ Add the following commands to a search to manually scrape each site.
 
 * [ROMSLAB](https://romslab.com/) - [Discord](https://discord.gg/uz3nZ7j9x4)
 * [NXBrew](https://nxbrew.com/) - (Scroll past Download Setup buttons)
-* [nsw2u](https://nsw2u.com/)
 * [Switchrls](https://switchrls.pro/)
 * [NswRoms](https://nswrom.com/)
 
