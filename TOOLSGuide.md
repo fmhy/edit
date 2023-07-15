@@ -1474,7 +1474,6 @@
 * [YouTube Star Ratings](https://youtubestarrating.com/) - Restore YouTube Star Ratings
 * [Thumbnail Rating Bar](https://github.com/elliotwaite/thumbnail-rating-bar-for-youtube) - Add Rating Bar Under Video Thumbnails
 * [Disable Rounded Buttons](https://greasyfork.org/en/scripts/453802) - Disable Rounded YouTube Buttons
-* [DeArrow](https://dearrow.ajay.app/) - Reduce Sensationalism and Clickbait
 * [YouTubeFluent](https://github.com/LawOff/YouTubeFluent) - YouTube Fluent Theme
 * [YouTube Real Cinema Mode](https://userstyles.org/styles/122032/youtube-real-cinema-mode) or [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Cinema Mode
 * [Simple YouTube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) / [2](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - Bypass YouTube Age Restrictions
@@ -1554,7 +1553,7 @@
 * [YouTube Watch Time Counter](https://chrome.google.com/webstore/detail/youtube-watch-time-counte/fpoooibdndpjcnoodfionoeakeojdjaj) - Track Time Spent on YouTube
 * [BlockTube](https://github.com/amitbl/blocktube) - YouTube Content Blocker
 * [Hide YouTube Shorts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_hide_youtube_shorts) - Extensions / Scripts to Block YouTube Shorts
-* [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Remove YouTube Thumbnails / Title Capitalization
+* [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) or [DeArrow](https://dearrow.ajay.app/) - Reduce Sensationalism and Clickbait
 * [YT Not Interested Button on Hover](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Easily Display Not Interested Button
 * [RapidTags](https://www.rapidtags.io/) or [YTubeTool](https://ytubetool.com/) - YouTube Tag Generators
 * [ChatReplay](https://chatreplay.stream/) - YouTube Live Stream Chat Replay
