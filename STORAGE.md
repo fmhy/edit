@@ -1724,10 +1724,12 @@ Add the following commands to a search to manually scrape each site.
 #### Open Source APKs
 
 * ⭐ **[F-Droid](https://f-droid.org/)**
-* ⭐ **F-Droid Tools** [Resources](https://fdroidfamily.codeberg.page/) / [Desktop](https://github.com/mvdan/fdroidcl) / [Classic Client](https://git.bubu1.eu/Bubu/fdroidclassic) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
+* ⭐ **F-Droid Tools** [Resources](https://fdroidfamily.codeberg.page/) / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
+* ⭐ **F-Droid Clients** - [Droid-ify](https://github.com/Iamlooker/Droid-ify) / [Classic Client](https://git.bubu1.eu/Bubu/fdroidclassic) / [gdroidclient](https://gitlab.com/gdroid/gdroidclient) / [Neo Store](https://github.com/NeoApplications/Neo-Store)
 * ⭐ **[Android FOSS](https://github.com/offa/android-foss)**
+* [IzzyOnDroid](https://android.izzysoft.de/applists.php) - App Repo / [F-Droid](https://apt.izzysoft.de/fdroid/index.php) 
 
-[FossDroid](https://fossdroid.com/) / [/r/fossdroid](https://reddit.com/r/fossdroid), [Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md), [Open-Source Android Apps](https://github.com/pcqpcq/open-source-android-apps), [/r/u_Jackie7610](https://redd.it/jhtvn4), [AAA](https://github.com/Psyhackological/AAA), [Cool FOSS](https://albertomosconi.github.io/foss-apps/) / [GitHub](https://github.com/albertomosconi/foss-apps), [Simple Mobile Tools](https://simplemobiletools.com/), [We Love Codeberg](https://welove.codeberg.page/)
+[FossDroid](https://fossdroid.com/) / [/r/fossdroid](https://reddit.com/r/fossdroid), [Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md), [Open-Source Android Apps](https://github.com/pcqpcq/open-source-android-apps), [/r/u_Jackie7610](https://redd.it/jhtvn4), [AAA](https://github.com/Psyhackological/AAA), [Cool FOSS](https://albertomosconi.github.io/foss-apps/) / [GitHub](https://github.com/albertomosconi/foss-apps), [Simple Mobile Tools](https://simplemobiletools.com/), [We Love Codeberg](https://welove.codeberg.page/), 
 
 ***
 
