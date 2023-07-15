@@ -9,74 +9,49 @@
 ***
 ### FAQ ❓
 
-==- How do I tell if a site or download is safe? Any tips? 
+> How do I tell if a site or download is safe? Any tips? 
 Check out [Booty Guard](https://rentry.org/bootyguard) our basic safety guide. 
 Still feel unsure? Reach out to us via [Divolt](https://redd.it/uto5vw).
-!!! 
-**In the end trust your gut & intuition, also make sure you've looked at sites/software we've listed as unsafe:** [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread)
-!!!
-==-
+!!!note **In the end trust your gut & intuition, also make sure you've looked at sites/software we've listed as unsafe:** [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread)
 
-==- I don't know what seeding means or *insert other term*. Please explain 
+> I don't know what seeding means or *insert other term*. Please explain 
 You will find almost all terms related to piracy & more on [The Piracy Glossary](https://rentry.org/the-piracy-glossary).
 Didn't find it and still confused? Reach out to us via [Divolt](https://redd.it/uto5vw).
-==-
 
-==- How do I download Photoshop/Adobe Products for free?? 
-You can download pre-cracked Adobe products from [M0nkrus](http://w14.monkrus.ws/) | [How to download from M0nkrus](https://rentry.co/adobesoftware) or Patch it yourself following these guides [here](https://www.reddit.com/r/GenP/wiki/index/) & for MacOS go [here](#macos)
+> How do I download Photoshop/Adobe Products for free?? 
+You can download pre-cracked Adobe products from [M0nkrus](http://w14.monkrus.ws/). If you need a guide follow [this,](https://rentry.co/adobesoftware) or Patch it yourself  [here](https://www.reddit.com/r/GenP/wiki/index/) & for MacOS  [here](#macos)
+!!!info M0nkrus is a well trusted and reputable source for adobe software in the piracy community. 
 
-!!!info 
-M0nkrus is a well trusted and reputable source for adobe software in the piracy community. 
-!!!
-==-
-
-==- How do I download Windows / activate Windows & Office ?
-For Windows check out this [section](#pirate-windows)<br>
+>  How do I download Windows / activate Windows & Office ?
+For Windows check out this [section](#pirate-windows)
 For Office check these [guides](https://github.com/fmhy/FMHYedit/blob/main/base64.md#microsoft-office-dl-guides)
-==-
 
-==- Where do I find *insert game title / movie title* ?
+> Where do I find *insert game title / movie title* ?
 For movies check out [this](https://whereyouwatch.com) and for new movies it's a good idea to keep an eye on [r/MovieLeaks](https://reddit.com/r/movieleaks). 
 For sites to stream from check out this [section](#streaming).
-
-!!!info 
-Pirated releases generally happen after a movie is digitally released or released via Blu-Ray / DVD, which can take 3 months+ after initially playing in theaters.
-!!!
-
+!!!info Pirated releases generally happen after a movie is digitally released or released via Blu-Ray / DVD, which can take 3 months+ after initially playing in 
 
 For games use [Rezi](https://rezi.one) or any site listed [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games) and for newly released games check [r/CrackWatch](https://reddit.com/r/crackwatch).
-!!!warning 
-Please avoid downloading games from The Pirate Bay or any site listed: [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread)
-==-
+!!!warning Please avoid downloading games from The Pirate Bay or any site listed: [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread)
 
-==- How do I unlock *insert random game title* DLCs ??
+> How do I unlock *insert random game title* DLCs ??
 Use the tools listed [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25B7_dlc_unlockers) to unlock DLCs.
-==-
 
-==- How do I get Canva Pro? Where can I get invite links?
+> How do I get Canva Pro? Where can I get invite links?
 You may find Canva Pro invites [here](https://blooem.pages.dev/wiki/canvapro/).
 
-!!!info 
-If the links no longer work, don't be afraid to contact the author of the site linked above.
-!!!
-==-
+!!!info If the links no longer work, don't be afraid to contact the author of the site linked above.
 
-==- Should I install & use *insert random anti-virus software* instead of using Windows Defender?
+> Should I install & use *insert random anti-virus software* instead of using Windows Defender?
 No. Don't do that, because Windows Defender is more than enough. You really won't need another anti-virus, but if you're set on installing a secondary AV the one worth installing is **Malwarebytes**. Please read the note [here](#anti-virus). 
+!!!warning Stay away from Avast, Norton and McAfee, these are "bloatware" and generally not safe software.
 
-!!!warning 
-Stay away from Avast, Norton and McAfee, these are "bloatware" and generally not safe software.
-!!!
-==-
-
-==- How do I bypass a paywalled article?
+> How do I bypass a paywalled article?
 Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/) / [2](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) to read the article easily. 
-==-
 
-==- How do I download image from *insert stock site*?
+> How do I download image from *insert stock site*?
 You can use [this](https://downloader.la/) if this doesn't work you can find similar stock image downloaders [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_stock_photo_sites).
 ***
-==-
 
 ### Pirate Windows 🖥
 
@@ -85,9 +60,7 @@ You can use [this](https://downloader.la/) if this doesn't work you can find sim
 + **[Windows Activation Guide](https://rentry.co/ActivateWin10)** - Activate Windows 
 + **[Massgrave](https://massgrave.dev)** - Windows and MS Office Activation scripts
 
-!!!
-Activating windows is not required, however it is recommended as it adds additional security updates, bug fixes and removes the watermark.
-!!!
+!!!note Activating windows is not required, however it is recommended as it adds additional security updates, bug fixes and removes the watermark.
 
 ***
 
@@ -131,9 +104,7 @@ Activating windows is not required, however it is recommended as it adds additio
 + **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers)** - Block Twitch Ads
 + **[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** - Bypass redirect sites
 
-!!!
-Piracy sites have ads, so it's highly recommended to install an adblocker along with filters. Also note that it's not recommended to use more than one adblocker at a time.
-!!!
+!!!note Piracy sites have ads, so it's highly recommended to install an adblocker along with filters. Also note that it's not recommended to use more than one adblocker at a time.
 
 ***
 
@@ -142,9 +113,7 @@ Piracy sites have ads, so it's highly recommended to install an adblocker along 
 + **[Guide for VirusTotal](https://rentry.org/Guide4VirusTotal)** - Virus Scan Results Guide
 + **[Malwarebytes Premium](https://github.com/fmhy/FMHYedit/blob/main/base64.md#malwarebytes-prem) / [Hitman Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#hitman-pro)** - Antivirus software
 
-!!!
-Antivirus software is usually bloatware. Stick to trusted sources for games and software and you will be fine with nothing but Windows Defender and an occasional Malwarebytes scan. Also remember to always scan setup / installation files and verify their hashes for download integrity (if provided).
-!!!
+!!!note Antivirus software is usually bloatware. Stick to trusted sources for games and software and you will be fine with nothing but Windows Defender and an occasional Malwarebytes scan. Also remember to always scan setup / installation files and verify their hashes for download integrity (if provided).
 
 ***
 
@@ -165,9 +134,7 @@ Antivirus software is usually bloatware. Stick to trusted sources for games and 
 + **[The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)** - Linux Privacy Guide
 + **[File Encryption Tools](https://fmhy.pages.dev/storage/#file-encryption-tools)** - File Encryption Apps / Tools
 
-!!!  
-Note that a VPN is not needed outside of torrenting. You can avoid the need for one altogether by sticking to  direct download and streaming sites.
-!!!
+!!!note Note that a VPN is not needed outside of torrenting. You can avoid the need for one altogether by sticking to  direct download and streaming sites.
 
 ***
 
@@ -199,16 +166,12 @@ Note that a VPN is not needed outside of torrenting. You can avoid the need for 
 + **[Game Download CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_download_cse)** - Multi-site game download search
 + **[Audio Download CSE](https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io) / [2](https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w) / [3](https://cse.google.com/cse?cx=aab218d0aa53e3578)** - Multi-site audio download search
 
-!!! 
-When using Direct Download Links it's generally recommended to use a download manager such as Internet Download Manager (IDM) or JDownloader, they improve the ease of downloading along with the speeds. You'll find them [here](#useful-stuff)
-!!!
+!!!note When using Direct Download Links it's generally recommended to use a download manager such as Internet Download Manager (IDM) or JDownloader, they improve the ease of downloading along with the speeds. You'll find them [here](#useful-stuff).
 
 ***
 
 ### Torrenting 🧲
-!!!warning 
-Torrenting can get you in trouble with your ISP, so make sure to use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn). Most VPNs offer a killswitch to prevent data leaks, but it's much more effective to [bind your VPN to your client](https://redd.it/ssy8vv), preventing it from connecting at all unless your VPN is on.
-!!!
+!!!warning Torrenting can get you in trouble with your ISP, so make sure to use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn). Most VPNs offer a killswitch to prevent data leaks, but it's much more effective to [bind your VPN to your client](https://redd.it/ssy8vv), preventing it from connecting at all unless your VPN is on.
 
 + **[qBittorrent](https://www.qbittorrent.org/) / [Transmission](https://transmissionbt.com/) / [Deluge](https://www.deluge-torrent.org/) / [Remote Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** - Torrent clients
 + **[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)** - Downloads torrents externally & uploads them to gdrive, avoiding the need for a VPN
