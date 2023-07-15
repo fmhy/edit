@@ -1203,12 +1203,6 @@ pass: paluch
 
 ***
 
-#### RIF
-
-`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1yaWYraXMrZnVuK2dvbGRlbitwbGF0aW51bStmb3IrUmVkZGl0JnNyPXRvcGljcyZzZj10aXRsZW9ubHk=`
-
-***
-
 #### Proxifier Keys
 
 `aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vZjByMzRjaGIzdDQvYTRmNTcyMzlkNzZjMjc4MjkwNjZlYWU4N2ZlM2E4Yjk=`
