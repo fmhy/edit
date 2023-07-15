@@ -219,7 +219,6 @@
 * [XiaZai001](https://xiazai001.org/) - Video / Audio / Software
 * [dytt8](https://dytt8.net/), [dy2018](https://dy2018.com/), [ygdy8](https://ygdy8.com/index.html) or [dydytt](https://www.dydytt.net) - Movies / TV / Anime
 * [ygdy8](https://www.ygdy8.net/) - Movies / TV / Anime
-* [Mini4k](https://www.mini4k.com/) - Movies / TV
 * [DoMP4](https://www.mp4us.com/) - Movies / TV
 * [cnwml](https://www.cnwml.com/) - Movies / TV
 * [Dytt8](https://dytt8.net/) - Movies / TV / Anime
