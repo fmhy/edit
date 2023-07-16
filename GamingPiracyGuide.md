@@ -231,6 +231,7 @@
 * [3DS ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - ROMs / 3DS
 * [NoPayStation](https://nopaystation.com/) or [SafeROMs](https://www.saferoms.com/) - ROMs / Playstation Consoles
 * [PKGPS4](https://www.pkgps4.click/), [Game-2U](https://game-2u.com/Category/game/ps4) or [Auctor](https://auctor.tv/) - ROMs / PS4
+* [PSVitaVPK](https://psvitavpk.com/), [2](https://psvitagamesdd.com/) - ROMs / PSP
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
 * [RomHacking](https://www.romhacking.net/) or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Translations and Hacks
 * [Marios Alternative](https://github.com/nbats/FMHYedit/blob/main/base64.md#hacked-super-mario) - Hacked Super Mario ROMs
@@ -551,7 +552,7 @@
 * [agar.io](https://agar.io/) - Become the Biggest Circle 
 * [Hole.io](https://hole-io.com/) - Become the Biggest Hole / [Discord](https://discord.gg/UA2HdpT) 
 * [Spinz.io](http://spinz.io/) - Fidget Spinner Battles
-* [Multiplayer.golf](https://multiplayer.golf/) or [Manygolf](https://manygolf.club/) - Multiplayer Golf
+* [Manygolf](https://manygolf.club/) - Multiplayer Golf
 * [Tanki](https://tankionline.com/) - Online Team VS Team Tank Game
 * [Pulsus](https://www.pulsus.cc/play/) - 3x3 Tile Board Rhythm Game
 * [Plink](http://labs.dinahmoe.com/plink/) - Music Game
@@ -571,7 +572,7 @@
 ## ▷ Board / Card / Dice
 
 * ⭐ **[Board Game Online](https://www.boardgame-online.com/)**, [Curlie Board Games](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Board_Games), [Board Game Arena](https://en.boardgamearena.com/) or [FunNode](https://www.funnode.com/) - Board Games
-* ⭐ **[GtkAtlantic](https://gtkatlantic.gradator.net/index.html)** or [Monopolie](http://monopolie.sourceforge.net/index.shtml) - Open Source Monopoly
+* ⭐ **[Monopolie](http://monopolie.sourceforge.net/index.shtml)** - Open Source Monopoly
 * [Richup](https://richup.io/) - Monopoly-Style Board Game
 * [AllBad.Cards](https://bad.cards/) or [CardsAgainstFormality](https://cardsagainstformality.io/) - Cards Against Humanity Online 
 * [Curlie Cards](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Cards) - Card Games Index
@@ -703,7 +704,8 @@
 * [WTM](https://whatthemovie.com/), [RT Daily](https://www.rottentomatoes.com/daily/), [Framed](https://framed.wtf/) or [Emovi](https://emovi.teuteuf.fr/) - Movie Guessing Games
 * [Heardle](https://www.heardle.app/) or [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - Song Guessing Games
 * [DanceMusic](http://dancemusic.wtf/) - Electronic Music Genre Guessing Game
-* [LanguageGuesser](https://languageguesser.com/) - Guess Music Video Languages 
+* [LanguageGuesser](https://languageguesser.com/) - Guess Music Video Languages
+* [Guess My Rank](https://guessmyrank.com/) - Guess Player Game Ranks
 * [The Higher Lower Game](http://www.higherlowergame.com/) or [GoogleFued](https://googlefeud.com/) - Guess What's Googled More
 * [Guess The Price](https://guesstheprice.net/) - Price Guessing Game
 * [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
@@ -968,7 +970,7 @@
 * ⭐ **[Game Libraries / Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_libraries_.2F_launcher)** - Manage / Launch Games
 * ⭐ **[HowLongToBeat](https://howlongtobeat.com/)** - Find Average Game Lengths 
 * ⭐ **[r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/)** - Find Games via Screenshot or Description
-* ⭐ **[DS4Windows](https://github.com/Ryochan7/DS4Windows)** / [2](https://docs.ds4windows.app/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [Input Remapper](https://github.com/sezanzeb/input-remapper) or [InputMapper](https://inputmapper.com/) - Gamepad Input Tools
+* ⭐ **[DS4Windows](https://github.com/Ryochan7/DS4Windows)**, [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [Input Remapper](https://github.com/sezanzeb/input-remapper) or [InputMapper](https://inputmapper.com/) - Gamepad Input Tools
 * ⭐ **[Pokemon Typechart](https://pokemondb.net/type)** - Pokemon Type Chart / [Image](https://img.pokemondb.net/images/typechart.png)
 * ⭐ **[Valve Archive](https://valvearchive.com/)** - Rare Valve Data Archive
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
@@ -1068,7 +1070,7 @@
 * ⭐ **[PCGamingWiki](https://www.pcgamingwiki.com/)** - Game Info, Bug Fixes & Optimization
 * ⭐ **[SystemRequirmentsLab](https://www.systemrequirementslab.com/cyri/)**, [Game Debate](https://game-debate.com/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Tests
 * ⭐ **[ProSettings](https://prosettings.net/)** - In-Game Settings Optimization Guides
-* ⭐ **[DisplayMagician](https://github.com/terrymacdonald/DisplayMagician)** - Per-Game Display Profiles
+* ⭐ **[DisplayMagician](https://github.com/terrymacdonald/DisplayMagician)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles
 * [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html) or [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - System Gaming Tweak Guides
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/), [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) or [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - Gaming Optimization Guides
 * [LinkRunner](https://github.com/romjacket/rj_linkrunner) - Per-Game Settings Manager
@@ -1261,6 +1263,7 @@
 * [Fabric-Bedrock-Miner](https://github.com/LXYan2333/Fabric-Bedrock-Miner) - Minecraft Bedrock Miner
 * [Outvoted](https://www.curseforge.com/minecraft/mc-mods/outvoted) - Outvoted Minecraft Live Mobs
 * [MCrev](https://github.com/mcrax/mcrev) - Windows 10 Minecraft License Bypasser
+* [Voyager](https://voyager.minedojo.org/) - Minecraft AI
 * [Baritone](https://github.com/cabaletta/baritone) - Minecraft Pathfinding System
 * [Sigma-Deleter](https://github.com/XatzClient/Sigma-Deleter) or [Sigma-Wiper](https://github.com/owersite/sigma-wiper) - Remove Sigma Miner
 
@@ -1313,7 +1316,7 @@
 * ⭐ **[GamingSmart](https://gamingsmart.com/)** - Game Sensitivity Converters
 * ⭐ **[Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/)** - Mouse Click Latency Chart
 * ⭐ **[Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/)** - Mousepad Comparison Chart
-* ⭐ **[Aim Lab](https://aimlab.gg/)**, [AimBooster](http://www.aimbooster.com/), [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://www.3daimtrainer.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training
+* ⭐ **[Aim Lab](https://aimlab.gg/)**, [Aim400kg](https://aim400kg.com/), [3D Aim Trainer](https://www.3daimtrainer.com/), [Aiming.Pro](https://aiming.pro/) or [AimTrainer](https://aimtrainer.io/) - Aim Training
 * ⭐ **[CPSCounter](https://cpscounter.org/)**, [ClickSpeeder](https://clickspeeder.com/) or [ClickSpeedTester](https://www.clickspeedtester.com/) - Click Speed Training
 * ⭐ **[Momentum](https://momentum-mod.org/)** - Movement Training
 * [Impossible Rush](http://tanksw.com/impossible-rush/) - Reflex Training
