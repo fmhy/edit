@@ -1632,7 +1632,7 @@ Twitch Stream Tracker
 * [Minimal Twitter](https://typefully.com/minimal-twitter) - Minimal Twitter Themes
 * [Tweak New Twitter](https://github.com/insin/control-panel-for-twitter) or [twttr](https://github.com/sr2echa/twttr) - Twitter Enhancement Extensions
 * [Twitonomy](https://www.twitonomy.com/) - Twitter Dashboard / Analytics
-* [TweetDeck](https://tweetdeck.twitter.com/) or [Tweeten](https://tweetenapp.com/) - Twitter Dashboard
+* [TweetDeck](https://tweetdeck.twitter.com/) / [Enhancement](https://better.tw/) or [Tweeten](https://tweetenapp.com/) - Twitter Dashboard
 * [TweetDuck](https://github.com/chylex/TweetDuck) - Twitter Desktop Client
 * [twXplorer](https://twxplorer.knightlab.com/), [Social Searcher](https://www.social-searcher.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - Search Twitter
 * [TwitLonger](https://www.twitlonger.com/) - Make Longer Tweets
@@ -1661,7 +1661,8 @@ Twitch Stream Tracker
 * [Foller](https://foller.me/) - Twitter Profile Analytics
 * [TagGPT](https://tagsgpt.com/) - Hashtag Generator
 * [Buhitter](https://buhitter.com/) - Twitter Illustration Search
-* [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - Download Twitter Videos 
+* [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - Download Twitter Videos
+* [Twitter Media Downloader](https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig) / [2](https://addons.mozilla.org/en-GB/firefox/addon/tw-media-downloader/) - Download images/videos from timeline
 * [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/) or [SocialBearing](https://socialbearing.com/) - Analyze Twitter Accounts
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
 * [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) or [TweetArchivist](https://www.tweetarchivist.com/) - Tweet Archiving
