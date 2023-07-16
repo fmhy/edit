@@ -1687,6 +1687,8 @@
 * [Flipax](https://flipax.es/) - Live Sports
 * [Teledeportiva2](https://teledeportiva2.blogspot.com/) - Live Sports
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Live Soccer / MMA
+* [El Plan](https://hackmd.io/@DEPORTES/AP-ID) - Live Sports Acestream IDs
+* [futbolgratis](https://futbolsinpagar.pages.dev/) - Live Sports Acestream IDs
 * [JKAnime](https://jkanime.net/) - Anime
 * [AnimeFénix](https://www.animefenix.tv/) - Anime
 * [TioAnime](https://tioanime.com/) - Anime
