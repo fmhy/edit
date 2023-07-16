@@ -868,7 +868,6 @@
 
 ## ▷ Reading
 
-* [itazuraneko](https://itazuraneko.neocities.org/) - Manga / Novels / Video Novels / Audiobooks
 * [Rawmangaz](https://rentry.co/rawmangaz) - List of Raw Manga Sites
 * [senmanga](https://raw.senmanga.com/) - Manga / Novels / NSFW
 * [rawdevart](https://endevart.com/) - Manga
@@ -1178,7 +1177,6 @@
 * [TugaFlix]( https://tugaflix.best/) - Movies / TV
 * [SuperFlix](https://superflix.ac/) - Movies / TV
 * [torrentdosfilmes](https://torrentdosfilmes.se/) - Movies / TV
-* [baixardownload](https://baixardownloadviatorrentgratis.blogspot.com/) - Movies / TV
 * [Legandas](https://www.legendas.co/) - Movies / TV
 * [Comando](https://comando.la/) - Movies / TV
 * [DownFilmes](https://downfilmes.org/) - Movies
@@ -1602,7 +1600,6 @@
 * [Descarga Cine Clasico](https://cineclasico.org/) - Classical Movies
 * [RetroCanal](https://retrocanal.net/) - Classical Movies / TV
 * [DCC](https://cineclasicodcc.com/) - Classical Movies / TV
-* [El desván del verdugo](https://eldesvandelverdugo.blogspot.com/) - Classical Movies
 * [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV / ED2K Links
 * [RebeldeMule](https://www.rebeldemule.org/) - Movies / Classics / TV / Documentaries / Reading / ED2K Links / [Telegram](https://telegram.me/rebeldemule)
 * [exploradoresp2p](http://exploradoresp2p.com/) - Movies / Classics / TV / Documentaries / ED2K Links
