@@ -17,7 +17,6 @@
 * ⭐ **[Wotaku](https://wotaku.its.moe/)**, [2](https://wotaku.pages.dev/), [3](https://wotaku.netlify.app/) - Japanese Piracy Index
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[Esoterica Avenue](https://ori5000.github.io/)** - Piracy Index / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
-* ⭐ **[PiratezParty](https://piratezparty.club/ )** - Piracy Index / [Telegram](https://t.me/piratezparty) / [GitHub](https://github.com/SpamVerse/Piratezparty)
 * ⭐ **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR)** - Site / Tool Index
 * ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
 * ⭐ **[Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)**, [2](https://github.com/Igglybuff/awesome-piracy), [3](https://github.com/Tosoju/awesome-piracy) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
@@ -64,7 +63,6 @@
 * [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
 * [Awesome Loginless](https://github.com/fiatjaf/awesome-loginless) - Loginless Site Index
 * [/u/fullnumberofcharacte's Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/g37lwb/megapiracywiki/g1lnle5/) - Site / Tool Index
-* [pomfcrawl](https://pomfcrawl.pythonanywhere.com/) - Site / Tool Index
 * [5000 Best](http://5000best.com/websites/) - Site / [Tool](http://5000best.com/tools/) Index
 * [alt3rnative](https://github.com/machiav3lli/alt3rnative) - Site / Tool Index
 * [Peelopaalu](https://peelopaalu.neocities.org/) - Site / Tool Index
@@ -76,9 +74,10 @@
 * [Product Hunt](https://www.producthunt.com/) - Site / Tool Index
 * [Useful Interweb](https://usefulinterweb.com/) or [Daily Useful Links](https://t.me/DailyUsefulLINKS) - Daily Websites
 * [Mostly Free](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) - Site / Tool Index
-* [heji](https://heji.ltd/) or [bajins](https://www.bajins.com/) - Chinese Site / Tool Index
+* [bajins](https://www.bajins.com/) - Chinese Site / Tool Index
 * [iBiblio](https://www.ibiblio.org/) - Site / Tool Index 
-* [Acme](http://www.acme.com/) - Site / Tool Index 
+* [Acme](http://www.acme.com/) - Site / Tool Index
+* [pomfcrawl](https://pomfcrawl.pythonanywhere.com/) - Site / Tool Index
 * [itch.io Tools](https://itch.io/tools/free) - Site / Tool Index
 * [Beej's Index](https://www.beej.us/) - Site / Tool Index
 * [Nicelist](https://github.com/alamehan/nice-list) - Site Index
@@ -365,7 +364,7 @@
 * [Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open-Source Agriculture / Gardening Tech
 * [Modern Farmer](https://modernfarmer.com/) - Agricultural News
 * [Chip Drop](https://getchipdrop.com/) - Free Mulch
-* [Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png), [Topps](https://topps.diku.dk/torbenm/maps.msp)  or [Plant Maps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
+* [Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png) or [Plant Maps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
 * [Cannabis Growing Subreddits](https://www.reddit.com/r/trees/wiki/entreddits_social#wiki_growing)
 * [/r/Microgrowery](https://reddit.com/r/microgrowery/) - Cannabis Growing Community
 
@@ -901,7 +900,6 @@
 * [Suggesty](https://chrome.google.com/webstore/detail/suggesty/hbiphmiliockggpepniplkkfmnhdihjh) - Human Like Search Results
 * [Query Side-By-Side](https://chrome.google.com/webstore/detail/double-shot-search-query/kddlkbpbepnaepdleclhdnfdpdogdhop) - Search Google & Bing at the Same Time
 * [SessionBox](https://chrome.google.com/webstore/detail/sessionbox-multi-login-to/megbklhjamjbcafknkgmokldgolkdfig?hl=en) - Multi-Account Login for any Site
-* [Allow Right-Click](https://chrome.google.com/webstore/detail/allow-right-click/hompjdfbfmmmgflfjdlnkohcplmboaeo/related?hl=en) - Force Enable Right Click on Videos
 * [Selectable](https://chrome.google.com/webstore/detail/selectable-for-fanfiction/jcidlhgdoojamkbpmhbpgldmajnobefd?ucbcb=1) - Force Enable Select Text
 * [CF-Purge](https://www.cf-purge.com/) - Purge CloudFare Cache / [GitHub](https://github.com/cracker4o/purge-cf-cache-chrome-extension)
 * [Night Shift Redux](https://nightshift.lu/) - Adapts Display Color to Time of Day
@@ -1031,7 +1029,6 @@
 * [Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/) - Mousepad Buying Guide / Reviews
 * [Cars.com](https://www.cars.com/research/compare/), [Vehicle Rankings](https://cars.usnews.com/cars-trucks/rankings), [Motor1](https://www.motor1.com/reviews/) or [Edmunds](https://www.edmunds.com/car-reviews/) - Vehicle Reviews / Comparisons
 * [carsized](https://www.carsized.com/) - Vehicle Size Comparisons
-* [Blahaj Quest](https://blahaj.quest/) - Blåhaj Tracking Map
 * [Chipscribe](https://chipscribe.com/) - Split Service Subscription Costs Anonymously 
 * [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
 * [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wish-list Creators
@@ -1164,7 +1161,6 @@
 * [BumpWorthy](https://www.bumpworthy.com/) - Adult Swim Bumps 
 * [Toonami Remastered](https://www.toonamiremastered.com/) - Remastered Toonami Content
 * [ThisXDoesNotExist](https://thisxdoesnotexist.com/) - Realistic-Looking Fake Versions of Things
-* [ThisPersonDoesNotExist](https://thispersondoesnotexist.xyz/) - People That Don't Exist
 * [NotRealCats](https://notrealcats.com/) - Cats That Don't Exist
 * [Anon Boards](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anonymous_image_boards) - Anonymous Image / Text Boards
 * [4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_4chan_archives) - Browse / Search 4Chan Archives
