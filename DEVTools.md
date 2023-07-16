@@ -354,7 +354,8 @@
 * [Balena](https://www.balena.io/) - Build / Manage  IoT Groups
 * [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty), [Awesome Bug Bounty Builder](https://github.com/0xJin/awesome-bugbounty-builder) or [Bug Bounty](https://github.com/sehno/Bug-bounty) - Bug Bounty Resources
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - CTF Resources
-* [Authorizer](https://github.com/authorizerdev/authorizer) - Developer Authentication App
+* [Authorizer](https://github.com/authorizerdev/authorizer) or [DefGuard](https://defguard.net/) - Developer Authentication Apps
+* [Infisical](https://infisical.com/) - Encrypted Secret Management Platform
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/), [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources), [awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security), [Infosec Resources](https://github.com/stong/infosec-resources) or [Anon Security](https://t.me/anon_server) - Cybersecurity Resources
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [The White Circle](https://twc1rcle.com/) - Cybersecurity Community
@@ -393,7 +394,6 @@
 * [Pylon](https://pylon.bot/) or [Bot Designer for Discord](https://apps.apple.com/us/app/bot-designer-for-discord/id1495536477) (Mac) - Discord Bot Builder
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
 * [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - C++ Library for Discord
-* [Birdsite](https://birdsite.slashdev.space/) - Twitter to ActivityPub Bridge
 * [rss-to-activitypub](https://portal.0svc.com/convert/) - RSS to ActivityPub Converter
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
 * [Constraints](https://zalo.github.io/blog/constraints/) - Find Minimum Movement Constraint
@@ -580,8 +580,7 @@
 * [ShapeDivider](https://www.shapedivider.app/) or [blobbb](https://www.blobbb.fun/)- Make SVG Shape Divider
 * [Lorem.space](https://lorem.space/), [Placeholdifier](https://github.com/pomber/placeholdifier), [PlaceHolder](https://placeholder.pics/), [PicSum](https://picsum.photos/) or [FakeIMG](https://fakeimg.pl/) - Site Placeholder Images
 * [MinimalAvatars](https://minimalavatars.com/) - Minimal Site Avatars
-* [GalleryProject](http://galleryproject.org/) - Manage / Host Photos on Website 
-* [PrivateDaddy](https://www.privatedaddy.com/) - Auto Hide Email Address'
+* [GalleryProject](http://galleryproject.org/) - Manage / Host Photos on Website
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - Mobile Friendly Page Test
 * [epub.js](https://github.com/futurepress/epub.js) - Render ePub Documents in Browser
 * [Shaka Player](https://github.com/shaka-project/shaka-player) - JavaScript Library for Adaptive Media
@@ -1416,6 +1415,7 @@
 * [OpenML](https://www.openml.org/) or [Hugging Face](https://huggingface.co/) - Machine Learning Datasets
 * [DVC](https://dvc.org/) - Machine Learning Version Control
 * [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep Learning Optimization Library
+* [FlowiseAI](https://flowiseai.com/) - LLM Flow Visualization
 * [TeachableMachine](https://teachablemachine.withgoogle.com/) or [TensorFlow](https://www.tensorflow.org/) - Create Machine Learning Models
 * [Netron](https://github.com/lutzroeder/netron) -  Visualizer for Neural Network, Deep Learning, and Machine Learning Models
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
