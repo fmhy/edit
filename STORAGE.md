@@ -2441,10 +2441,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### SockShare Clones
 
-* https://sockshare.fm/
-* https://sockshare.mn/
 * https://sockshare1.com/
-* https://www4.123movies.net/
 * https://www4.xmovies8.fm/
 * https://hdzer.com/
 * https://watchzer.com/
@@ -2456,13 +2453,10 @@ Add the following commands to a search to manually scrape each site.
 * https://putlocker.vc
 * https://123enjoy.net/
 * https://www2.putlockers.tw/
-* https://seriesonline.bz/
-* https://www2.putlockers.gy/
 * https://fmovies.onl/
 * https://www2.putlockers.ws/
 * https://movieload.net/
 * https://5movies.fm/
-* https://www1.ezlive.tv/
 * https://www1.f123movies.com/
 * https://vo32.com/
 
