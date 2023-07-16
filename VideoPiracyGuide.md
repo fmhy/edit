@@ -66,6 +66,7 @@
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
 * [VidSrc](https://vidsrc.me/) - Movies / TV / Anime / API
+* [VidDroid Desktop](https://github.com/callisto-jovy/viddroid_desktop) - Desktop Streaming App
 * [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Telegram File Streaming
 * [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) - Add Stream Search Buttons to IMDb
 
