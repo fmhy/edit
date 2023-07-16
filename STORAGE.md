@@ -1990,7 +1990,7 @@ Add the following commands to a search to manually scrape each site.
 
 [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Carnac](http://code52.org/carnac/), [Presen](https://presen-vid.com/), [mentimeter](https://www.mentimeter.com/), [beautiful.ai](https://www.beautiful.ai/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Deckdeckgo](https://deckdeckgo.com/), [Zoho Show](https://www.zoho.com/show/), [Webslides](https://webslides.tv/), [Desk](https://www.animaker.com/deck), [Slides](https://slides.com/), [FreeShow](https://freeshow.app/), [Presenta](https://play.presenta.cc/), [OpenLearning](https://www.openelearning.org/), [Slideshare](https://www.slideshare.net/) / [Gif Convert](https://gifdeck.in/), [ScreenRec](https://screenrec.com/), [Slides](https://maaslalani.com/slides/) / [GitHub](https://github.com/maaslalani/slides)
 
-* [GPTForSlides](https://www.gptforslides.app/) - Create Presentations via AI
+* [GPTForSlides](https://www.gptforslides.app/), [Presentator](https://github.com/Paillat-dev/presentator), [PPTX](https://github.com/AmNotAGoose/Python-PPTX-ChatGPT-Presentation-Generator) or [Chat-GPT-PPT](https://github.com/williamfzc/chat-gpt-ppt) - AI Presentation Generators
 * [GSlides Maker](https://github.com/vilmacio/gslides-maker) - Turn Wiki Pages into Google Slides
 
 **Presentation Templates**
