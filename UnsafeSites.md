@@ -19,7 +19,7 @@
 * cracked-games - Caught with malware
 * Wifi4Games - Caught with malware
 * GameFabrique - IGG uploads + [adware installers](https://rentry.co/GameFabrique_Adware/)
-* [Fake FitGirl Sites](https://i.imgur.com/v1vG1UH.png)
+* [Fake FitGirl Sites](https://rentry.co/FakeFitgirlwebsites)
 
 ***
 
