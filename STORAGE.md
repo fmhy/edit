@@ -432,7 +432,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Cooking YouTube Channels
 
-[Babish Culinary Universe](https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw), [Jamie Oliver](https://www.youtube.com/user/JamieOliver), [Bon Appétit](https://www.youtube.com/user/BonAppetitDotCom), [Mythical Kitchen](https://www.youtube.com/user/rhettandlink4), [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983), [Seonkyoung Longest](https://www.youtube.com/user/SeonkyoungLongest), [You Suck At Cooking](https://youtube.com/c/yousuckatcooking), [Nino's Home](https://www.youtube.com/c/NinosHome/), [Adam Ragusea](https://youtube.com/user/aragusea), [조꽁드Joconde's baking](https://m.youtube.com/c/%EC%A1%B0%EA%BD%81%EB%93%9CJocondesbaking), [Ruby Ka Kitchen](https://www.youtube.com/channel/UCMhx-uS3O-G_6_lTrYmDKLw)
+[Babish Culinary Universe](https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw), [Jamie Oliver](https://www.youtube.com/user/JamieOliver), [Kenji López-Alt](https://www.youtube.com/@JKenjiLopezAlt), [Bon Appétit](https://www.youtube.com/user/BonAppetitDotCom), [Mythical Kitchen](https://www.youtube.com/user/rhettandlink4), [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983), [Seonkyoung Longest](https://www.youtube.com/user/SeonkyoungLongest), [You Suck At Cooking](https://youtube.com/c/yousuckatcooking), [Nino's Home](https://www.youtube.com/c/NinosHome/), [Adam Ragusea](https://youtube.com/user/aragusea), [조꽁드Joconde's baking](https://m.youtube.com/c/%EC%A1%B0%EA%BD%81%EB%93%9CJocondesbaking), [Ruby Ka Kitchen](https://www.youtube.com/channel/UCMhx-uS3O-G_6_lTrYmDKLw)
 
 ***
 
