@@ -674,7 +674,6 @@
 * ⭐ **[AniDL](https://anidl.org/)** - Sub / Dub
 * ⭐ **[hi10anime](https://hi10anime.com/)** - Sub / [Discord](https://discord.com/invite/pWNeJfxa)
 * ⭐ **[Anime Senpai4U](https://www.animesenpai4u.com/)** - Sub / Dub
-* ⭐ **[AnimeKaizoku](https://animekaizoku.com/)** - Sub / Dub / [Dual Audio](https://github.com/AnimeKaizoku/KaizokuPatcher)
 * ⭐ **[Kayoanime](https://kayoanime.com/)** - Sub / Dub / [Telegram](https://t.me/AnimeKayo)
 * ⭐ **[Anime Download Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anime_download_apps)** - Anime Downloading Tools
 * ⭐ **[Telegram Anime Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_anime_downloads)** - Telegram Anime Download Channels
