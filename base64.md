@@ -1013,7 +1013,7 @@ pass: paluch
 
 #### Modded AceStream APK
 
-`aHR0cHM6Ly9yZW50cnkuY28vYWNlc3RyZWFtLW1vZC1hcGtz=`
+`aHR0cHM6Ly9yZW50cnkuY28vYWNlc3RyZWFtLW1vZC1hcGtz`
 
 ***
 
