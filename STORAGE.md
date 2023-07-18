@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/G5CjC5k)** - For mobile users
+**[Table of Contents](https://ibb.co/x2tkYQx)** - For mobile users
 
 ***
 ***
@@ -103,7 +103,6 @@
 #### Android Browsers
 
 * ⭐ **[Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)** - Debloated FF
-* [Android Browser Wiki](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers), [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers)
 
 [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi Browser](https://kiwibrowser.com/), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Berry Browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser), [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android), [AlohaBrowser](https://alohabrowser.com/), [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp), [Lynket](https://github.com/arunkumar9t2/lynket-browser), [Lightning Browser](https://github.com/anthonycr/Lightning-Browser), [Dot Browser](https://github.com/dothq/browser-android), [Float Browser](https://play.google.com/store/apps/details?id=com.xpp.floatbrowser), [Fulguris](https://github.com/Slion/Fulguris)
 
@@ -857,9 +856,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** / [Dark Theme](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/), [2](https://redd.it/q3xrgj), [3](https://draculatheme.com/jdownloader2) / [Debloat](https://rentry.org/jdownloader2), [2](https://rentry.org/jdownloader2opt) / [Captcha Solver](https://github.com/cracker0dks/CaptchaSolver)
 * ⭐ **[IDM](https://github.com/nbats/FMHYedit/blob/main/base64.md#idm)** / [IDMHelper](https://github.com/rip1s/IDMHelper) / [Trial Reset](https://github.com/J2TEAM/idm-trial-reset)
+* ⭐ **[XDM](https://xtremedownloadmanager.com/)**, [2](https://github.com/subhra74/xdm)
 * [Motrix](https://www.motrix.app/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/motrixwebextension/) / [Chrome](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix)
-* [XDM](https://github.com/subhra74/xdm), [2](https://subhra74.github.io/xdm/)
-* [Xtreme Downlaod Manager](https://xtremedownloadmanager.com/) / [Github](https://github.com/subhra74/xdm)
 * [pyLoad](https://pyload.net/)
 * [wfdownloader](https://www.wfdownloader.xyz/)
 * [Mipony](https://www.mipony.net/)
@@ -1870,7 +1868,7 @@ Add the following commands to a search to manually scrape each site.
 
 ⭐ **[Unblockit](https://unblockit.asia/)** / [/r/Unblockit](https://www.reddit.com/r/Unblockit/)
 
-[Knaben's Proxy List](https://knaben.info/), [unblockninja](https://unblockninja.com/), [uProxy](https://uproxy.to/), [unblocktorrent](https://unblocktorrent.com/), [TorrentBay](https://torrentbay.to/), [unblock.soy](https://unblock.soy/) / [2](https://en-proxy.com/) / [3](https://unb.how/) / [4](https://unblockedscene.com/), [piracyproxy](https://piracyproxy.page/), [unblockedfor](https://unblockedfor.me/), [unblocksource](https://unblocksource.top/), [dirproxy](https://dirproxy.cc/), [ProxyNinja](https://proxyninja.org/), [ABCProxy](https://abcproxy.org/),  [Squid Proxy](https://www.squid-proxy.net/)
+[Knaben's Proxy List](https://knaben.info/), [unblockninja](https://unblockninja.com/), [uProxy](https://uproxy.to/), [unblocktorrent](https://unblocktorrent.com/), [TorrentBay](https://torrentbay.to/), [unblock.soy](https://unblock.soy/) / [2](https://en-proxy.com/) / [3](https://unb.how/) / [4](https://unblockedscene.com/), [piracyproxy](https://piracyproxy.page/), [unblockedfor](https://unblockedfor.me/), [unblocksource](https://unblocksource.top/), [dirproxy](https://dirproxy.cc/), [ProxyNinja](https://proxyninja.org/), [ABCProxy](https://abcproxy.org/),  [Squid Proxy](https://www.squid-proxy.net/), [immortalproxy](https://immortalproxy.com/) 
 
 ***
 
@@ -2130,15 +2128,9 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-#### Reddit Desktop Apps
-
-[reditr](http://reditr.com/), [baconit](https://www.microsoft.com/en-us/p/baconit/9wzdncrfj0bc?rtc=1&activetab=pivot:overviewtab), [readit](https://www.microsoft.com/en-us/p/readit/9nblggh189c8?activetab=pivot:overviewtab), [reddit-on-reddhub](https://www.microsoft.com/en-us/p/reddit-on-reddhub/9wzdncrfj9m1?activetab=pivot:overviewtab), [reddplanet](https://www.microsoft.com/en-us/p/reddplanet/9nblggh4s44m?activetab=pivot:overviewtab)
-
-***
-
 #### Reddit Frontends
 
-[xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [Saturnus](https://saturnusapp.com/), [Inccogsnoo](https://incogsnoo.com/), [teddit](https://teddit.net/) / [2](https://codeberg.org/teddit/teddit), [troddit](https://www.troddit.com/), [kddit](https://kddit.kalli.st/), [libreddit](https://rentry.org/libredditclones) / [2](https://libreddit.librenesia.com/) / [3](https://libreddit.aosus.org/), [Photon](https://photon-reddit.com/)
+[Reeddit](https://reedditapp.com/), [Saturnus](https://saturnusapp.com/), [kddit](https://kddit.kalli.st/)
 
 ***
 
