@@ -938,9 +938,7 @@
 
 ## ▷ Browsers
 
-* ⭐ **[Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_web_browsers)**, [2](https://en.m.wikipedia.org/wiki/List_of_web_browsers), [3](https://avoidthehack.com/util/browser-comparison) - Normal Web Browsers
 * ⭐ **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - Privacy Focused Browsers 
-* ⭐ **[Lightweight Browsers](https://en.m.wikipedia.org/wiki/Comparison_of_lightweight_web_browsers)** - Lightweight Web Browsers
 * ⭐ **[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_extensions) / [UserScripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_userscripts)** 
 * ⭐ **[Browser Startpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)** - Custom Browser Homepages 
 * [Browser Automation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - Automate Internet Tasks
@@ -1176,7 +1174,7 @@
 * ⭐ **[Subreddit Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_subreddit_discovery)** - Explore / Discover Subreddits
 * ⭐ **[/r/multihub](https://www.reddit.com/r/multihub/top/?sort=top&t=all)** or [Multireddit List](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits) - Explore / Discover Multireddits
 * ⭐ **[Redditle](https://redditle.com/)**, [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0) / [2](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30) or [Better Reddit Search](https://betterredditsearch.web.app/) - Reddit Search Engines
-* /u/SaveVideo, [r2monkey](https://github.com/jijirae/r2monkey), [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RedditSave](https://rapidsave.com/), [redv.co](https://redv.co/) or [Reddit.tube](https://www.redd.tube/) - Download Reddit Videos
+* /u/SaveVideo, [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RedditSave](https://rapidsave.com/), [redv.co](https://redv.co/) or [Reddit.tube](https://www.redd.tube/) - Download Reddit Videos
 * [saveddit](https://github.com/p-ranav/saveddit), [Gert](https://github.com/mcdallas/gert), [RedditDownloader](https://redditdownloader.github.io/) or [SubredditMediaDownloader](https://github.com/Psycoguana/SubredditMediaDownloader) - Reddit Bulk Media Downloaders
 * [Unmute Reddit](https://greasyfork.org/en/scripts/445557) - Unmute Reddit Videos by Default
 * [Reddit Login Bypass Script](https://pastebin.com/raw/sU5tqwep) - Bypass Reddit Login
@@ -1189,17 +1187,14 @@
 * [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466), [Unedit](https://github.com/DenverCoder1/Unedit-for-Reddit), [Unddit](https://www.unddit.com/) / [2](https://camas.unddit.com/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - View Deleted Reddit Posts
 * [ReSavr](https://www.resavr.com/), [Comment History](https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee) or [Unreddit](https://github.com/pauldraper/unreddit) - Reddit Comment Archives
 * [Expanse](https://github.com/jc9108/expanse) or [Reddit Archive](http://www.redditarchive.com/) - Reddit Post Archive Tools / [Note](https://ibb.co/R9jC5bk)
-* [Reddit Highlighter](https://greasyfork.org/en/scripts/39312) - Highlights New Posts
 * [Reddit Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - Highlights New Comments
 * [rComments](https://github.com/iampueroo/rComments) - Explore Comments & Replies without Clicking a Post 
 * [UniversalScammerList](https://www.universalscammerlist.com/) - List of Reddit Scammers
 * [rAger](https://chrome.google.com/webstore/detail/rager/fohlpjahcdbkpcckapphhpahbiajccmj) - Display Account Age & Karma of Users
-* [RedditCake](https://github.com/tudorikas/RedditCake_ChromeExtension) - Display User Cake Days Automatically
 * [Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect) - Always Load Old Reddit Design
 * [Reddit Emojis](https://greasyfork.org/en/scripts/443011) - Emojis for Old Reddit
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
 * [custom-top-sort-for-reddit](https://github.com/arvidsandin/custom-top-sort-for-reddit) - Scroll to Top of Reddit
-* [Reddit Grid](https://redditgrid.com/) - Reddit Image Grid 
 * [Redinfinite](https://redinfinite.com/), [redditpx](https://www.redditpx.com/) or [Redditp](https://www.redditp.com/) - Reddit Image / Video Slideshows 
 *  [Up for Reddit](https://www.reddit-up.com/) - View Images Posted by User
 * [ScrollDrop](https://scrolldrop.com/) - Reddit Media Crawler
@@ -1208,7 +1203,6 @@
 * [3D for Reddit](https://3dforreddit.com/) - 3D Reddit Browser
 * [GmailKit](https://github.com/niturobert/gmailkit) - Gmail Style Viewer
 * [MSOutlookit](https://pcottle.github.io/MSOutlookit/) or [Routlookit](https://routlookit.com/) - Outlook Style Viewer
-* [CodeReddit](http://codereddit.com/) - Code Style Viewer
 * [RDDDeck](https://rdddeck.com/) - Twitter Style Viewer 
 * [Reddium](https://reddium.vercel.app/) - Medium Style Viewer
 * [SO Reddit](https://dutzi.github.io/so-reddit/) - Stack Overflow Style Viewer
@@ -1223,7 +1217,6 @@
 * [Find on Reddit](https://chrome.google.com/webstore/detail/find-on-reddit/jbcdpeekakanklckgooknpbonojhjncm) - Find Discussions of current URL
 * [Reddit Check](https://chrome.google.com/webstore/detail/reddit-check/mllceaiaedaingchlgolnfiibippgkmj) or [RedditRepostSleuth](https://github.com/barrycarey/RedditRepostSleuth) - Check for Reposts
 * [DelayForReddit](https://www.delayforreddit.com/) - Reddit Post Scheduler
-* [Reddit Desktop Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_desktop_apps) 
 * [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader), [DownloaderForReddit](https://github.com/MalloyDelacroix/DownloaderForReddit), [RedditScrape](https://github.com/NSFWUTILS/RedditScrape) or [ReScrapper](https://github.com/psantheus/ReScrapper) - Reddit Media Downloaders
 * [Bulk Downloader for Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Reddit Bulk Submission Downloader
 * [Pushshift.io](https://pushshift.io/) or [SocialGrep](https://socialgrep.com/) - Reddit Statistics
