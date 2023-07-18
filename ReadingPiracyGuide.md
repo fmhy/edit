@@ -1278,6 +1278,5 @@
 * [xMinutesToRead](https://xminutestoread.xyz/) - Article Time to Read Estimate
 * [RemoveWatermark](https://github.com/n0maj1o24/RemoveWatermark) - IT Ebook Watermark Remover
 * [DeDRM_tools](https://github.com/noDRM/DeDRM_tools), [PDF DRM](https://drive.google.com/file/d/1IeFsmgAbzC_JnRkUQPR0xdzy7NKbHjJq/view), or [Remove Ebook DRM](https://apprenticealf.wordpress.com/) - Ebook DRM Removal Tools / [Guide](https://pastebin.com/KwTBSjrK)
-* [DeGourou](https://github.com/bipinkrish/DeGourou) - Automatic Internet Archive DRM Remover
 * [DIY Book Scanner](https://diybookscanner.org/) - How-to Scan Books / [Example](https://i.ibb.co/YQLq42m/bdadbb08e5f7.png)
 * [The Submission Grinder](https://thegrinder.diabolicalplots.com/) - Find a Publisher
