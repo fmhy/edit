@@ -2160,13 +2160,15 @@ Add the following commands to a search to manually scrape each site.
 
 #### Remove Vocals
 
-[VocalRemover](https://vocalremover.org/) / [GUI](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [AIVocalRemover](https://aivocalremover.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb), [x-minus](https://x-minus.pro/ai), [online-vocal-remover](https://www.notta.ai/en/tools/online-vocal-remover), [Remove Vocals](https://www.remove-vocals.com/), [vocali](https://vocali.se/en), [voxremover](https://voxremover.com/), [mazmazika](https://www.mazmazika.com/), [demixor](https://demixor.com/), [karaoke-maker](http://humtools.com/karaoke-maker/), [mvsep](https://mvsep.com/)
+* ⭐ **[mvsep](https://mvsep.com/)**
+
+[VocalRemover](https://vocalremover.org/) / [GUI](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [AIVocalRemover](https://aivocalremover.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb), [x-minus](https://x-minus.pro/ai), [online-vocal-remover](https://www.notta.ai/en/tools/online-vocal-remover), [Remove Vocals](https://www.remove-vocals.com/), [vocali](https://vocali.se/en), [voxremover](https://voxremover.com/), [mazmazika](https://www.mazmazika.com/), [demixor](https://demixor.com/), [karaoke-maker](http://humtools.com/karaoke-maker/), [ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui)
 
 ***
 
 #### Resume Makers
 
-⭐ **[RX Resume ](https://rx-resume.web.app/)**
+* ⭐ **[RX Resume ](https://rx-resume.web.app/)**
 
 [cvmkr](https://cvmkr.com/), [resumonk](https://www.resumonk.com/), [ceev](https://ceev.io/), [creddle](http://creddle.io/), [flowcv](https://flowcv.com/), [cv2you](https://cv2you.com/), [cvservant](https://cvservant.com/cv/), [resume-nation](https://resume-nation.github.io/), [sajilocv](https://sajilocv.com/), [resumemaker](https://www.resumemaker.online/), [intelligentcv](https://www.intelligentcv.app/), [cakeresume](https://www.cakeresume.com/), [resumgo](https://www.resumgo.com/), [Reactive Resume](https://rxresu.me/), [kickresume](https://www.kickresume.com/en/), [resumake](https://latexresu.me/), [Covered](https://covered.works/)
 
