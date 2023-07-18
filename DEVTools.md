@@ -1400,6 +1400,7 @@
 * [MxPlayer-RestApi](https://github.com/KapilYadav-dev/MxPlayer-RestApi) - MxPlayer API
 * [PDF Bot](https://github.com/esbenp/pdf-bot) -  A Node queue API for generating PDFs
 * [aftership](https://www.aftership.com/) - Shipment Tracking API
+* [SunriseSunset.io](https://sunrisesunset.io/api/) - Sunrise and Sunset Times API
 * [ipinfo.io](https://ipinfo.io/) - IP Data API
 * [TheCatAPI](https://thecatapi.com/) - Cat Rating API
 * [SWAPI](https://pipedream.com/apps/swapi) - Star Wars APIs
