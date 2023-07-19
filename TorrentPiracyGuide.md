@@ -29,28 +29,18 @@
 * [Motrix](https://motrix.app/) - [Screenshot](https://i.ibb.co/SQqrdpW/2950c09df08a.png) / [GitHub](https://github.com/agalwood/Motrix)
 * [Picotorrent](https://picotorrent.org/) - [Screenshot](https://i.ibb.co/Pz4qb8Q/df96c0ff3912.png)
 * [BiglyBT](https://www.biglybt.com/) - [Screenshot](https://i.ibb.co/5TRkt1t/bfe91a771679.png) 
-* [NeoLoader](https://neoloader.com/) - [Screenshot](https://neoloader.com/neo/image1.jpg)
 * [LIII](https://codecpack.co/download/LIII-BitTorrent-Client.html) - [Screenshot](https://i.ibb.co/jRJR1cX/cecb8c47451d.png)
-* [BitTornado](http://bittornado.com/) - [Screenshot](https://i.ibb.co/80NNLJj/ef9fa92fb0f8.png)
 * [Distribyted](https://distribyted.com/) - [Screenshot](https://i.ibb.co/m8TQBPh/f5dfcb4b192f.png) / [GitHub](https://github.com/distribyted/distribyted)
 * [Crawfish](https://github.com/drakonkat/Crawfish) - [Screenshot](https://i.ibb.co/DVVVdpG/8406bc7e0a39.png)
-* [ByteStream](https://apps.microsoft.com/store/detail/bytestream-torrent/9PJT9PBVG7K8) - [Screenshot](https://i.ibb.co/cw2mtNG/c3ae27354e81.jpg)
 * [GoSpeed](https://github.com/GopeedLab/gopeed) - [Screenshot](https://github.com/GopeedLab/gopeed/blob/main/_docs/img/ui-demo.png)
-* [uTorrent 2.2.1](https://archive.org/details/utorrent_2.2.1_build_25302) - [Screenshot](https://i.ibb.co/vz3JQLX/1e6dbf4ded4f.png) / [Guide](https://rentry.co/spaqy) / Pre-Adware Version
 * [Tribler](https://www.tribler.org/) - Tor-inspired Client / [Screenshot](https://i.ibb.co/k4jt0FJ/20d3bd279896.png) / [Github](https://github.com/Tribler/tribler)
 * [aria2](https://aria2.github.io/) - Terminal Torrent Client / [Screenshot](https://i.ibb.co/SmsxmW3/3e213c54b148.png) / [Github](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [GUI](https://github.com/persepolisdm/persepolis) / [Frontend](http://ariang.mayswind.net/) / [WebUI](https://github.com/ziahamza/webui-aria2)
 * [XD-Torrent](https://xd-torrent.github.io/) - Anonymous P2P Torrent Client
-* [mtorrent](https://github.com/nektro/mtorrent) - Terminal Torrent Client 
-* [Mariner](https://gitlab.com/radek-sprta/mariner) - Navigate Torrents via CLI
-* [RakaPublicLeech](https://t.me/RakaPublicLeech) - Torrent to Telegram Bot
 * [libtorrent](https://www.libtorrent.org/) - C++ BitTorrent Client / [GitHub](https://github.com/arvidn/libtorrent)
-* [TrayTorrent](https://traytorrent.ru/) - Torrent Tray Client
-* [CloudTorrent](https://github.com/tofuliang/Google-Colab-CloudTorrent) - Google Colab Torrent Client
 * [BitSwarm](https://github.com/SuRGeoNix/BitSwarm/) - Bittorrent Client Library
 * [Instant.io](https://instant.io/) - Stream Torrents in Browser
 * [BTorrent](https://btorrent.xyz/) - Stream Torrents in Browser
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
-* [JSTorrent](https://www.jstorrent.com/) - Chrome
 * [BitFord](https://github.com/astro/bitford) - Chrome
 * [exatorrent](https://github.com/varbhat/exatorrent) - Self-Hosted Client
 * [Rats Search](https://github.com/DEgITx/rats-search) - Torrent Search Client / [Screenshot](https://github.com/DEgITx/rats-search#screenshots) 
