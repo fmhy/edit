@@ -1642,7 +1642,9 @@
 
 ## ▷ Streaming
 
-* ⭐ **[HDFull](https://hdfull.org/)**, [2](https://hdfull.store/), [3](https://dominioshdfull.com/) - Movies / TV / Anime / [Discord](https://discord.gg/BRKCXEe) / Castilian / Latino / VOSE
+* ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / [Discord](https://discord.gg/BRKCXEe) / Castilian / Latino / VOSE
+* ⭐ **[Playdede](https://dominiosplaydede.com/)** - Movies / TV / Anime / [Telegram](https://t.me/s/playdedeinformacion)
+* ⭐ **[Kodi Addon "Cristal Azul"](https://rentry.co/kodi-addon-cristal-azul/)** - Movies / TV / Live Sports / Castilian / [Telegram](https://t.me/addonfestaycristal/)
 * ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
 * [PelisPlus](https://www1.pelisplus.ws/) - Movies / TV
 * [PlusHD](https://ww3.pelisplus.to/) - Movies / TV / Anime
@@ -1650,7 +1652,6 @@
 * [Gnula.se](https://gnula.se/) - Movies / TV / Anime
 * [Gnula.nu](https://gnula.nu/) - Movies / TV
 * [CineHDPlus](https://cinehdplus.org/) - Movies / TV
-* [Playdede](https://playdede.to/), [2](https://dominiosplaydede.com/) - Movies / TV / Anime / [Telegram](https://t.me/s/playdedeinformacion)
 * [allcalidad](https://allcalidad.ms/) - Movies / TV
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime
 * [Repelis24](https://repelis24.co/) - Movies / TV
