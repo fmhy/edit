@@ -1604,7 +1604,7 @@
 * [RebeldeMule](https://www.rebeldemule.org/) - Movies / Classics / TV / Documentaries / Reading / ED2K Links / [Telegram](https://telegram.me/rebeldemule)
 * [exploradoresp2p](http://exploradoresp2p.com/) - Movies / Classics / TV / Documentaries / ED2K Links
 * [HispaMula](https://www.hispamula.club/), [2](https://www.hispashare.club/) - Movies / Classics / TV / Documentaries / ED2K Links
-* [Descargar videos de la tele](https://eljaviero.com/descargarvideosdelatele/) - TV
+* [Descargar videos de la tele](https://eljaviero.com/descargarvideosdelatele/) - TV / [Telegram](https://t.me/joinchat/DVUy6EgTA_kZnc3KAaVItg)
 * [Anime-ESP](https://anime-esp.com/) - Anime
 * [Ninjin Anime](https://ninjinanime.com/) - Anime
 * [Animegafirex](https://www.animegafirex.com/) - Anime
