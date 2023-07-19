@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/x2tkYQx)** - For mobile users
+**[Table of Contents](https://ibb.co/4MCYTpz)** - For mobile users
 
 ***
 ***
@@ -1414,7 +1414,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 **Self-Hosted**
 
-[HappyPanda X](https://happypandax.github.io/), [Tenma](https://github.com/Tenma-Server/Tenma), [KavitaReader](https://www.kavitareader.com/), [Komikku](https://gitlab.com/valos/Komikku), [Mango](https://getmango.app/), [Tanoshi](https://faldez.github.io/tanoshi/), [Komga](https://komga.org/) / [GitHub](https://github.com/gotson/komga) / [Discord](https://discord.gg/TdRpkDu)
+[HappyPanda X](https://happypandax.github.io/), [Tenma](https://github.com/Tenma-Server/Tenma), [KavitaReader](https://www.kavitareader.com/), [Komikku](https://gitlab.com/valos/Komikku), [Mango](https://getmango.app/), [Tanoshi](https://faldez.github.io/tanoshi/), [Komga](https://komga.org/) / [GitHub](https://github.com/gotson/komga) / [Discord](https://discord.gg/TdRpkDu), [atsumeru](https://atsumeru.xyz/)
 
 ***
 
@@ -1529,23 +1529,6 @@ Add the following commands to a search to manually scrape each site.
 #### Mouse Gestures
 
 [FoxyGestures (firefox)](https://github.com/marklieberman/foxygestures), [Gesturefy (firefox)](https://github.com/Robbendebiene/Gesturefy), [CrxMouse (chrome)](https://crxmouse.com/), [Simple Gesture (firefox)](https://github.com/utubo/firefox-simple_gesture)
-
-***
-
-#### Modded APKs
-
-* ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** /  [App](https://forum.mobilism.org/app/)
-* ⭐ **[FileCR](https://filecr.com/android/)**
-* ⭐ **[Androeed](https://androeed.store/)** / [Telegram](https://t.me/androeed_store)
-* ⭐ **[/r/ApkApps Mega](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)
-
-[TeamOS](https://www.teamos.xyz/), [nsane.down](https://nsaneforums.com/), [RevDl](https://www.revdl.com/), [Sbenny](https://sbenny.com/), [farsroid](https://www.farsroid.com/), [AndroidRepublic](https://androidrepublic.org/), [ApkModsApp](https://apkmodsapp.com/), [Android1](https://an1.com/), [DZAPK](https://dzapk.com/), [PDALife](https://pdalife.com/), [APK Home](https://apkhome.io/), [DL King](http://dl.king2net.com/soft%20android/), [Modding United](https://moddingunited.xyz/) / [Telegram](https://telegram.me/allapkforfree), [APKdownload](https://apkdownload.com/), [AKMods](https://www.akmods.in/), [APKKit](https://apkkit.com/), [modyolo](https://modyolo.com/)
-
-**Telegram**
-
-⭐ **[Modded Central](https://t.me/+yaL8VGyjS0Q0YTll)** / [Backup](https://t.me/moddedcentralbackup)
-
-[Streamiza](https://t.me/streamiza) / [Discord](https://linktr.ee/Streamiza), [MixRoot Mods](https://t.me/Mixrootmods), [DroidApks](https://t.me/DroidApks), [ModCombo](https://t.me/modcombo_en), [pcandroidsoftware](https://t.me/pcandroidsoftware/), [sserratty_hack](https://t.me/sserratty_hack/), [Glype](https://t.me/Glype), [alexstranniklite](https://t.me/alexstranniklite), [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL), [ANiK555_Mods](https://t.me/ANiK555_Mods), [AppKaMods](https://t.me/AppKaMods), [Paidapppcsoftware](https://t.me/paidappspcsoftware), [TharakMods](https://t.me/TharakMods), [marioworlds4u](https://t.me/marioworlds4u), [EasyAPK](https://t.me/EasyAPK), [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re), [dumpmods](https://t.me/dumpmods), [faloojein](https://t.me/faloojein), [IC_Mods](https://t.me/IC_Mods), [allapkforfree](https://t.me/allapkforfree), [Moderse](https://t.me/Moderse), [AyraProject](https://t.me/AyraProject), [Modules Repositor](https://t.me/modulesrepo)
 
 ***
 
@@ -1716,18 +1699,6 @@ Add the following commands to a search to manually scrape each site.
 #### Open Directory Search String Builder
 
 [strixx](https://strixx.vercel.app/), [lendx](http://lendx.org/), [eyeofjustice](https://www.eyeofjustice.com/od/), [lumpysoft](https://lumpysoft.com/), [opendirsearch](https://opendirsearch.abifog.com/), [Ewasion](https://ewasion.github.io/opendirectory-finder/), [Palined](http://palined.com/search/), [doyouneedmorehdd](https://doyou.needmorehdd.space/#), [FonetAsk](http://www.fonetask.com/), [Reecemercer](https://open-directories.reecemercer.dev/), [odfinder](https://odfinder.github.io/), [thuvien](https://thuvien.com/)
-
-***
-
-#### Open Source APKs
-
-* ⭐ **[F-Droid](https://f-droid.org/)**
-* ⭐ **F-Droid Tools** [Resources](https://fdroidfamily.codeberg.page/) / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
-* ⭐ **F-Droid Clients** - [Droid-ify](https://github.com/Iamlooker/Droid-ify) / [Classic Client](https://git.bubu1.eu/Bubu/fdroidclassic) / [gdroidclient](https://gitlab.com/gdroid/gdroidclient) / [Neo Store](https://github.com/NeoApplications/Neo-Store)
-* ⭐ **[Android FOSS](https://github.com/offa/android-foss)**
-* [IzzyOnDroid](https://android.izzysoft.de/applists.php) - App Repo / [F-Droid](https://apt.izzysoft.de/fdroid/index.php) 
-
-[FossDroid](https://fossdroid.com/) / [/r/fossdroid](https://reddit.com/r/fossdroid), [Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md), [Open-Source Android Apps](https://github.com/pcqpcq/open-source-android-apps), [/r/u_Jackie7610](https://redd.it/jhtvn4), [AAA](https://github.com/Psyhackological/AAA), [Cool FOSS](https://albertomosconi.github.io/foss-apps/) / [GitHub](https://github.com/albertomosconi/foss-apps), [Simple Mobile Tools](https://simplemobiletools.com/), [We Love Codeberg](https://welove.codeberg.page/), 
 
 ***
 
@@ -3043,14 +3014,6 @@ Add the following commands to a search to manually scrape each site.
 #### Unicode Font Generators
 
 [coolfont](https://coolfont.org/), [Font Meme](https://fontmeme.com/), [Font Generator Online](https://www.fontgeneratoronline.com/), [Getfancy](https://getfancy.io/), [Font Generator](https://www.toulr.com/), [DiscordFonts](https://lingojam.com/DiscordFonts), [MessLetters](https://www.messletters.com/), [Fancy Text](https://fancy-text.net/), [YayText](https://yaytext.com/), [Font-Generator](https://www.font-generator.com/), [lingojam](https://lingojam.com/WeirdTextGenerator), [fSymbols](https://fsymbols.com/generators/), [fontchangerguru](https://fontchangerguru.com/), [fontgenerator](https://fontgenerator.in/), [tell.wtf](https://tell.wtf/)
-
-***
-
-#### Untouched APKs
-
-⭐ **[APKMirror](https://www.apkmirror.com/)** / [Playstore Links](https://pastebin.com/TcsAJib6)
-
-[Android App](https://techy-transistor.notion.site/5359aca6d9494ed893e57823f55499e5?v=4a68e3958c1b443fa61e25c87f96d384), [UpToDown](https://en.uptodown.com/android), [APKPure](https://apkpure.com/), [APKCombo](https://apkcombo.com/), [APKBe](https://www.apkbe.com/), [MobileAPKFree](https://www.mobileapkfree.com/), [Top Androids](https://top-androids.com/), [APK Thing](https://www.apkthing.com/), [APKGit](https://apkgit.co/), [APKMonk](https://www.apkmonk.com/), [APKToy](https://www.apktoy.com/), [APKamp](https://apkamp.com/), [APKSum](https://www.apksum.com/), [apk.cafe](https://apk.cafe/), [Material-You-app-list](https://github.com/nyas1/Material-You-app-list)
 
 ***
 
