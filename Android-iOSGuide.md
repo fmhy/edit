@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/j5rsCHm)** - For mobile users
+**[Table of Contents](https://ibb.co/bPT412B)** - For mobile users
 
 ***
 ***
@@ -116,6 +116,7 @@
 * [Hash Droid](https://play.google.com/store/apps/details?id=com.hobbyone.HashDroid) or [Hask Checker](https://hash-checker.github.io/hash-checker.io/) - File Hash Checkers
 * [Redmi System Manager](https://play.google.com/store/apps/details?id=com.learnpainless.disable_system_apps&hl=en) - Uninstall Redmi System Apps
 * [LADB Builds](https://github.com/hyperio546/ladb-builds) or [aShell](https://gitlab.com/sunilpaulmathew/ashell) - ADB Shell
+* [ConnectBOt](https://play.google.com/store/apps/details?id=org.connectbot) - SSH Client
 * [Fire Toolbox](https://forum.xda-developers.com/t/windows-tool-fire-toolbox-v12-0.3889604/) - Fire Tablet Tools
 
 ***
@@ -290,7 +291,7 @@
 * [Stealth](https://gitlab.com/cosmosapps/stealth) - Reddit Frontend
 * [Clipious](https://github.com/lamarios/clipious) - YouTube Frontend
 * [XPrivacyLua](https://lua.xprivacy.eu/) / [GitHub](https://github.com/M66B/XPrivacyLua/) - Privacy Manager
-* [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard), [AppWarden](https://gitlab.com/AuroraOSS/AppWarden), [Permission Pilot](https://github.com/d4rken-org/permission-pilot) or [TrackerControl](https://trackercontrol.org/) - App Permission Managers
+* [Privacy Dashboard](https://play.google.com/store/apps/details?id=rk.android.app.privacydashboard), [AppWarden](https://gitlab.com/AuroraOSS/AppWarden), [Permission Pilot](https://github.com/d4rken-org/permission-pilot), [Yivi](https://github.com/privacybydesign/irmamobile) or [TrackerControl](https://trackercontrol.org/) - App Permission Managers
 * [Exodus](https://reports.exodus-privacy.eu.org/en/), [TrackerControl](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/) or [HideDroid](https://github.com/Mobile-IoT-Security-Lab/HideDroid) - Android App Tracker / Permission Index / [APK](https://github.com/Exodus-Privacy/exodus-android-app)
 * [LibChecker](https://github.com/LibChecker/LibChecker) - View App Third-Party Libraries
 * [OSS Release Tracker](https://github.com/jroddev/android-oss-release-tracker) - Open Source App Update Tracker
@@ -363,6 +364,7 @@
 * ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)** or [Vendetta](https://github.com/vendetta-mod/Vendetta) - Modded Discord Clients / [Rich Presence](https://github.com/dead8309/Kizzy)
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://github.com/PhilippC/keepass2android) - Password Managers
 * [PINCredible](https://github.com/cyb3rko/pincredible) - PIN Manager
+* [Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager) - Bookmark Manager
 * [UnLim](https://play.google.com/store/apps/details?id=com.kratosle.unlim&gl=US) - Cloud Storage
 * [RClone](https://github.com/x0b/rcx), [MetaCTRL](https://metactrl.com/), [extRact](https://github.com/newhinton/extRact) or [FolderSync](https://www.tacit.dk/) - Multi-Site Cloud Storage File Managers
 * [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - Test Internet Speed
@@ -371,6 +373,7 @@
 * [Appetize](https://appetize.io/) - Run Native Mobile Apps in Browser
 * [TxtNet Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - Browse Webpages via SMS
 * [Lagrange](https://skyjake.github.io/fdroid/repo/) or [Buran](https://github.com/Corewala/Buran) - Gemini Browsers
+* [NetClicker](https://netclicker.tv/) - Phone Browser Controller
 * [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - Article / Link Viewer
 * [Better Open With](https://play.google.com/store/apps/details?id=com.aboutmycode.betteropenwith) - Improved Link Handling
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - Easily Open Links in Text via Share Function
@@ -417,8 +420,6 @@
 * [NetShare](https://netshare.app/) - Create Wi-Fi Hotspot
 * [Gnirehtet](https://github.com/Genymobile/gnirehtet) - Reverse Tethering
 * [Gugal](https://gitlab.com/narektor/gugal) - Web Search App
-* [Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager) - Bookmark Manager
-* [NetClicker](https://netclicker.tv/) - Phone Browser Controller
 * [Page Scroll](https://play.google.com/store/apps/details?id=com.phonephreak.pagescroll) - Page Auto-Scroll
 * [Auto Scroll](https://play.google.com/store/apps/details?id=com.moumen.autoPlay) - TikTok Auto Scroll
 * [SubX](https://play.google.com/store/apps/details?id=com.alkapps.subx), [Billbot](https://play.google.com/store/apps/details?id=com.billbot) or [SubscriptionManager](https://play.google.com/store/apps/details?id=de.simolation.subscriptionmanager) - Track Subscription Services
@@ -509,23 +510,9 @@
 # ► Android APKs
 
 * ⭐ **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** / [CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) / [CSE 3](https://cse.google.com/cse?cx=a805854b6a196d6a6) or [ShowAppsLike](https://showappslike.com/) - APK Search Engines
-* ⭐ **[Modded APKs](https://github.com/nbats/FMHY/wiki/Storage#modded-apks)** / [2](https://fmhy.pages.dev/storage/#modded-apks) / [3](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_apks) - Modded APK Sites
-* ⭐ **[Untouched APKs](https://github.com/nbats/FMHY/wiki/Storage#untouched-apks)** / [2](https://fmhy.pages.dev/storage/#untouched-apks) / [3](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_untouched_apks) - Unmodified APK Sites
-* ⭐ **[FOSS APKs](https://github.com/nbats/FMHY/wiki/Storage#open-source-apks)** / [2](https://fmhy.pages.dev/storage/#open-source-apks) / [3](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_source_apks) - Open Source APK Sites
 * ⭐ **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - APK Repositories
 * ⭐ **[Lucky Patcher](https://www.luckypatchers.com/download/)** - App Patcher 
 * ⭐ **Lucky Patcher Tools** - [Guide](https://flixbox.github.io/lp-compat/docs/intro), [2](https://latestechnews.com/how-to-use-lucky-patcher/) / [Compatibility](https://flixbox.github.io/lp-compat/) / [Subreddit](https://www.reddit.com/r/luckypatcher/) / [Discord](https://discord.com/invite/RS5ddYf7mw)
-* [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - App Giveaway Sites
-* [Aero Apps](https://t.me/aerolla) - Modded Social Media Apps
-* [Aurora Store](https://auroraoss.com/), [2](https://gitlab.com/AuroraOSS/AuroraStore) - Alt App Store / [Bypass Limits](https://youtu.be/L5RrtxQUtVE)
-* [Aptoide](https://aptoide.com/) - Alt App Store
-* [Skydroid](https://github.com/redsolver/skydroid) - Alt App Store
-* [Accrescent](https://accrescent.app/) - Alt App Store
-* [AppTeka](https://appteka.store/) - Alt App Store
-* [Awesome Android Kotlin Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) - Kotlin App Index
-* [PalmDB](https://palmdb.net/) - Palm OS Apps / [Discord](https://discord.gg/YddKPpR)
-* [OpenRepos](https://openrepos.net/) - Harmattan / Sailfish OS Apps
-* [Android Auto Apps Downloader](https://github.com/shmykelsa/aaad) - Android Vehicle Apps
 * [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Add Direct DL Links to Google Play
 * [GBox](https://www.gboxlab.com/) - GMS Google Box
 * [APK Installer](https://play.google.com/store/apps/details?id=com.uptodown.installer&hl=en&gl=US) - APK Installers
@@ -540,6 +527,111 @@
 * [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) or [APKGrabber](https://github.com/hemker/apkgrabber) or [Obtainium](https://github.com/ImranR98/Obtainium/) - APK Updaters
 * [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) - Downgrade Apps on Android 12/13
 * [APKAdmin](https://apkadmin.com/) - APK Hosting Site
+
+***
+
+## ▷ Modded APKs
+
+* ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** /  [App](https://forum.mobilism.org/app/)
+* ⭐ **[FileCR](https://filecr.com/android/)**
+* ⭐ **[Androeed](https://androeed.store/)** / [Telegram](https://t.me/androeed_store)
+* ⭐ **[Modded Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_telegram_apks)**
+* ⭐ **[/r/ApkApps Mega](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)
+* [TeamOS](https://www.teamos.xyz/)
+* [nsane.down](https://nsaneforums.com/)
+* [RevDl](https://www.revdl.com/)
+* [Sbenny](https://sbenny.com/)
+* [farsroid](https://www.farsroid.com/)
+* [AndroidRepublic](https://androidrepublic.org/)
+* [ApkModsApp](https://apkmodsapp.com/)
+* [Android1](https://an1.com/)
+* [DZAPK](https://dzapk.com/)
+* [PDALife](https://pdalife.com/)
+* [APK Home](https://apkhome.io/)
+* [DL King](http://dl.king2net.com/soft%20android/)
+* [Modding United](https://moddingunited.xyz/) / [Telegram](https://telegram.me/allapkforfree)
+* [APKdownload](https://apkdownload.com/)
+* [AKMods](https://www.akmods.in/)
+* [APKKit](https://apkkit.com/)
+* [modyolo](https://modyolo.com/)
+* [Aero Apps](https://t.me/aerolla) - Modded Social Media Apps
+
+***
+
+## ▷ Untouched APKs
+
+* ⭐ **[APKMirror](https://www.apkmirror.com/)** / [Playstore Links](https://pastebin.com/TcsAJib6)
+* [Aurora Store](https://auroraoss.com/), [2](https://gitlab.com/AuroraOSS/AuroraStore) - Alt App Store / [Bypass Limits](https://youtu.be/L5RrtxQUtVE)
+* [Aptoide](https://aptoide.com/) - Alt App Store
+* [Skydroid](https://github.com/redsolver/skydroid) - Alt App Store
+* [Accrescent](https://accrescent.app/) - Alt App Store
+* [AppTeka](https://appteka.store/) - Alt App Store
+* [Android App](https://techy-transistor.notion.site/5359aca6d9494ed893e57823f55499e5?v=4a68e3958c1b443fa61e25c87f96d384)
+* [UpToDown](https://en.uptodown.com/android)
+* [APKPure](https://apkpure.com/)
+* [APKCombo](https://apkcombo.com/)
+* [APKBe](https://www.apkbe.com/)
+* [MobileAPKFree](https://www.mobileapkfree.com/)
+* [Top Androids](https://top-androids.com/)
+* [APK Thing](https://www.apkthing.com/)
+* [APKGit](https://apkgit.co/)
+* [APKMonk](https://www.apkmonk.com/)
+* [APKToy](https://www.apktoy.com/)
+* [APKamp](https://apkamp.com/)
+* [APKSum](https://www.apksum.com/)
+* [apk.cafe](https://apk.cafe/)
+* [Material-You-app-list](https://github.com/nyas1/Material-You-app-list)
+* [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - App Giveaway Sites
+
+***
+
+## ▷ FOSS APKs
+
+* ⭐ **[F-Droid](https://f-droid.org/)**
+* ⭐ **F-Droid Tools** [Resources](https://fdroidfamily.codeberg.page/) / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
+* ⭐ **F-Droid Clients** - [Droid-ify](https://github.com/Iamlooker/Droid-ify) / [Classic Client](https://git.bubu1.eu/Bubu/fdroidclassic) / [gdroidclient](https://gitlab.com/gdroid/gdroidclient) / [Neo Store](https://github.com/NeoApplications/Neo-Store)
+* ⭐ **[Android FOSS](https://github.com/offa/android-foss)**
+* [IzzyOnDroid](https://android.izzysoft.de/applists.php) - App Repo / [F-Droid](https://apt.izzysoft.de/fdroid/index.php) 
+* [FossDroid](https://fossdroid.com/) / [/r/fossdroid](https://reddit.com/r/fossdroid)
+* [Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md)
+* [Open-Source Android Apps](https://github.com/pcqpcq/open-source-android-apps)
+* [/r/u_Jackie7610](https://redd.it/jhtvn4)
+* [AAA](https://github.com/Psyhackological/AAA)
+* [Cool FOSS](https://albertomosconi.github.io/foss-apps/) / [GitHub](https://github.com/albertomosconi/foss-apps)
+* [Simple Mobile Tools](https://simplemobiletools.com/)
+* [We Love Codeberg](https://welove.codeberg.page/)
+* [Awesome Android Kotlin Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) - Kotlin App Index
+* [PalmDB](https://palmdb.net/) - Palm OS Apps / [Discord](https://discord.gg/YddKPpR)
+* [OpenRepos](https://openrepos.net/) - Harmattan / Sailfish OS Apps
+* [Android Auto Apps Downloader](https://github.com/shmykelsa/aaad) - Android Vehicle Apps
+
+***
+
+## ▷ TG Channels
+
+* ⭐ **[Modded Central](https://t.me/+yaL8VGyjS0Q0YTll)** / [Backup](https://t.me/moddedcentralbackup)
+* [Streamiza](https://t.me/streamiza) / [Discord](https://linktr.ee/Streamiza)
+* [MixRoot Mods](https://t.me/Mixrootmods), [DroidApks](https://t.me/DroidApks)
+* [ModCombo](https://t.me/modcombo_en)
+* [pcandroidsoftware](https://t.me/pcandroidsoftware/)
+* [sserratty_hack](https://t.me/sserratty_hack/)
+* [Glype](https://t.me/Glype)
+* [alexstranniklite](https://t.me/alexstranniklite)
+* [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL)
+* [ANiK555_Mods](https://t.me/ANiK555_Mods)
+* [AppKaMods](https://t.me/AppKaMods)
+* [Paidapppcsoftware](https://t.me/paidappspcsoftware)
+* [TharakMods](https://t.me/TharakMods)
+* [marioworlds4u](https://t.me/marioworlds4u)
+* [EasyAPK](https://t.me/EasyAPK)
+* [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re)
+* [dumpmods](https://t.me/dumpmods)
+* [faloojein](https://t.me/faloojein)
+* [IC_Mods](https://t.me/IC_Mods)
+* [allapkforfree](https://t.me/allapkforfree)
+* [Moderse](https://t.me/Moderse)
+* [AyraProject](https://t.me/AyraProject)
+* [Modules Repositor](https://t.me/modulesrepo)
 
 ***
 
@@ -869,6 +961,7 @@
 * [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - Text Based Shell
 * [The OldOS Project](https://github.com/zzanehip/The-OldOS-Project) - iOS 4 Recreation
 * [Fantastical](https://apps.apple.com/app/fantastical-2-for-iphone/id718043190?ls=1) - Calendar / Tasks App
+* [Grit](https://gritapp.net/) - Habit Tracker
 * [NoMoreSmallApps](https://www.sparkdev.me/package/com.spark.nomoresmallapps) - Force App Full Screen / [Discord](https://discord.com/invite/tvvJfbD)
 * [Sigma](https://apps.apple.com/us/app/sigma-your-feeds-united/id1594702352) - Combine Social Media Apps
 * [InsightBrowser](https://insightbrowser.com/), [Gear4](https://gear4.app/) or [Asobi](https://github.com/bdashore3/Asobi) - Browsers
@@ -946,6 +1039,7 @@
 * [magicplan](https://apps.apple.com/us/app/magicplan/id427424432) - AR & LiDAR Scanning
 * [Polycam](https://poly.cam/) - 3D Capture Tool
 * [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) or [Microsoft Lens](https://apps.apple.com/us/app/microsoft-lens-pdf-scanner/id975925059) - Scan & Digitize Documents
+* [Paperless](https://github.com/astubenbord/paperless-mobile) - Document Manager
 * [ILPDFKit](https://github.com/derekblair/ILPDFKit) - PDF Form Fill Toolkit
 * [Ringtones](https://apps.apple.com/us/app/ringtones-for-iphone-ringtune/id1036141497) - Custom Ringtone Creator
 * [Project Sandcastle](https://projectsandcastle.org/) - Android for the iPhone 
@@ -977,7 +1071,7 @@
 * [Sideloading Beginners Guide](https://redd.it/orqzau) or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - Sideloading Guide
 * [/r/sideloaded](https://reddit.com/r/sideloaded) - Sideloading Subreddit / [Wiki](https://www.reddit.com/r/sideloaded/wiki/index)
 * [Sideloadly](https://sideloadly.io/) or [SignTools](https://github.com/SignTools/SignTools) - Sideloading Tool
-* [IPSW](https://ipsw.me/) - Provides Jailbreak firmware
+* [IPSW](https://ipsw.me/) - Provides Jailbreak Firmware
 * [checkra1n](https://checkra.in/) - 5s - X Jailbreak / [Discord](https://discord.gg/NAxRYvysuc)
 * [palera1n](https://github.com/palera1n/palera1n) - 15.0-16.3.1 Jailbreak Semi-Tethered Jailbreak
 * [Dopamine](https://github.com/opa334/Dopamine) - 15.0-15.4.1 Semi-Untethered Jailbreak
