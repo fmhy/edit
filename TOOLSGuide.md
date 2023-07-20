@@ -57,9 +57,6 @@
 * [tuxi](https://github.com/Bugswriter/tuxi) - Question & Answer CLI
 * [Carbon Independent](https://www.carbonindependent.org/) - Carbon Footprint Calculator
 * [OpenTable](https://www.opentable.com/) - Restaurant Reservation Search
-* [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Concerts / Music Festival Search
-* [Refuge Restrooms](https://www.refugerestrooms.org/) - Find Public Restrooms
-* [Visa Guide](https://visaguide.world/) - Worldwide Travel Visa Guides
 * [KittySplit](https://www.kittysplit.com/en/) - Group Expense Splitting Calculator
 * [SleepyTime](https://sleepytime.cc/) - Bedtime Calculator
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - Bra Size Calculator
@@ -69,6 +66,7 @@
 * [DogSheep](https://dogsheep.github.io/) - Personal Analytics Tools
 * [Stretchly](https://hovancik.net/stretchly), [WorkRave](https://workrave.org/), [Take a Five](https://www.takeafive.com/), [BreakMessage](https://breakmessage.com/), [BreakTimer](https://breaktimer.app/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - Break Reminders / Trackers
 * [FigureRealm](https://www.figurerealm.com/) - Track Action Figure Collection
+* [GetOdds](https://getodds.win/) - Quick Football Odds
 * [Weather.com](https://weather.com/), [National Weather Service](https://www.weather.gov/), [ClearOutside](https://clearoutside.com/), [ForcastAdvisor](https://www.forecastadvisor.com/), [Weather Underground](https://www.wunderground.com/) or [wttr](https://wttr.in/) - Weather Reports
 * [IEMBot](https://weather.im/iembot/) - Weather Bot Monitor
 * [World Weather Online](https://www.worldweatheronline.com/) - Historical Weather Reports
@@ -93,7 +91,7 @@
 * [Pronoun Dressing Room](http://www.pronouns.failedslacker.com/) - Test Different Pronouns
 * [RandomNameGenerator](https://randomnamegenerator.info/) - Baby Name Generator
 * [MixedName](https://mixedname.com/) - Find Bilingual Baby Names
-* [BehindTheName](https://www.behindthename.com/) - Name Etymologies
+* [Forebears](https://forebears.io/) or [BehindTheName](https://www.behindthename.com/) - Name Etymologies
 * [GitKraken Timeline](https://timelines.gitkraken.com/), [Timeline Cascade](https://markwhen.com/) / [GitHub](https://github.com/mark-when/markwhen), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Create Timelines
 * [Timeliner](https://github.com/mholt/timeliner) - Create Personal Digital Timeline
 * [Familypedia](https://familypedia.fandom.com/), [Gramps](https://gramps-project.org/blog/) or [WikiTree](https://wikitree.com/) - Family Trees
@@ -717,6 +715,7 @@
 * [Invoicely](https://invoiceto.me/), [InvoiceNinja](https://invoiceninja.com/), [Akaunting](https://akaunting.com/) - Invoicing Tools
 * [Kimai](https://www.kimai.org/) - Working Hours Tracker
 * [Dataviz](https://github.com/nalgeon/dataviz) - Design Reports
+* [Job Description Generator](https://app.recrooit.com/job-description-generator) - Job Description AI
 * [Gerev](https://github.com/GerevAI/gerev) - Search Within Workplace Apps
 * [Zeoob](https://zeoob.com/) - Social Media Digital Marketing Post Simulator
 * [MedusaJS](https://medusajs.com/) - Open Source Commerce Store
@@ -797,7 +796,7 @@
 * [.new](https://whats.new/shortcuts) - New Project Shortcuts
 * [All about RSS](https://github.com/AboutRSS/ALL-about-RSS), [RSSTango](https://rentry.org/rrstango), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
 * [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - Follow RSS Feeds
-* [MoRSS](https://morss.it/), [rsspls](https://github.com/wezm/rsspls), [FetchRSS](https://fetchrss.com/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
+* [MoRSS](https://morss.it/), [rsspls](https://github.com/wezm/rsspls), [FetchRSS](https://fetchrss.com/), [Janicek](https://feed.janicek.co/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
 * [Exileed](http://feed.exileed.com/) - Social Media RSS Feeds
 * [RSSMail](https://git.panda-roux.dev/rssmail/about/) or [FeedButler](https://feedbutler.app/en) - RSS to Email
 * [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - RSS Feed for Sites Missing It
@@ -981,6 +980,7 @@
 * [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme
 * [BrowserParrot](https://www.browserparrot.com/) - Browser History Search Engine
 * [Hurl](https://github.com/U-C-S/Hurl) - Select Browser on URL Clicks
+* [Edge-Remover](https://rentry.co/uninstall_edge) - Microsoft Edge Removal Script
 * [NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge), [Edge_Removal.bat](https://github.com/AveYo/fox/blob/main/Edge_Removal.bat) / [2](https://gist.github.com/ishad0w/3b79bf829e9725aa102b2e8446bb5ef8) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
 * [xBrowserSync](https://github.com/xbrowsersync/app) - Sync Browser Data Browsers / Devices
 * [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)
@@ -1068,6 +1068,7 @@
 * [Matrix](https://matrix.itasoftware.com/) - Airfare Search
 * [Hunter.io](https://hunter.io/) - Business Email Address Search
 * [ImportYeti](https://www.importyeti.com/) - Search U.S. Customs Shipment Records 
+* [eShips](https://eships.net/) - World Shipping Register
 * [VK Watch](https://vk.watch/) - VK Profile Search
 * [Social-Analyzer](https://github.com/qeeqbox/social-analyzer) - Profile Search CLI
 * [SearchAllJunk](https://searchalljunk.com/) - Multi-Classifieds Search
@@ -1494,9 +1495,8 @@
 * [Tubeup](https://github.com/bibanon/tubeup) or [yark](https://github.com/Owez/yark) - Archive YouTube Videos and Playlists
 * [Unlisted Videos](https://unlistedvideos.com/) - Watch / Submit Unlisted YouTube Videos
 * [QuiteAPlaylist](https://quiteaplaylist.com/) - Find Deleted YouTube Videos
-* [Hobune](https://hobune.stream/) - Deleted YouTube Video Archive
 * [Recover My Video](https://www.recovermy.video/) - Recover Titles of Deleted / Private YouTube Videos
-* [youtubecrawl](https://archive.org/details/youtubecrawl) - YouTube Video Archive  
+* [Hobune](https://hobune.stream/), [FindYouTubeVideo](https://findyoutubevideo.thetechrobo.ca/) or [youtubecrawl](https://archive.org/details/youtubecrawl) - YouTube Video Archives
 * [myTube](https://apps.microsoft.com/store/detail/mytube/9WZDNCRCWF3L) - Bloat Free YouTube Client
 * [TwitchTheater](https://twitchtheater.tv/)[VidGrid](https://vidgrid.tk.gg/), [YouTube Multiplier](http://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
 * [Campfire](https://campfire.gg), [Walrus](https://joinwalrus.tv/), [SyncTube](https://synctube.xyz/), [Sync-Tube](https://sync-tube.de/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
@@ -1547,7 +1547,7 @@
 * [ChatReplay](https://chatreplay.stream/) - YouTube Live Stream Chat Replay
 * [LiveTL](https://kentonishi.com/LiveTL/) - YouTube Live Stream Translator
 * [YoutubeLiveChatFlusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - Bullet Chatting (Danmaku) for YouTube Live
-* [You-TLDR](https://www.you-tldr.com/) or [VideoHighlight](https://videohighlight.com/) - Summarize YouTube Videos
+* [You-TLDR](https://www.you-tldr.com/), [Solidpoint](https://solidpoint.ai/), [Eightify](https://eightify.app/) or [VideoHighlight](https://videohighlight.com/) - Summarize YouTube Videos
 * [Youtube Summarizer](https://share.streamlit.io/iamknownstranger/ytsummary/main) - YouTube Transcript Summarizers
 * [Youtube DataViewer](https://citizenevidence.amnestyusa.org/), [YouTube-MA](https://github.com/CorentinB/YouTube-MA), [YouTube-Grab](https://github.com/ArchiveTeam/youtube-grab) or [YouTube Metadata](https://mattw.io/youtube-metadata/) - YouTube Video Data Viewers
 * [YouBit](https://github.com/MeViMo/youbit) - Use YouTube as File Host
