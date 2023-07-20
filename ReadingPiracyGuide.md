@@ -543,6 +543,7 @@
 
 * ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / [Downloader](https://github.com/lorenzodifuccia/safaribooks) / Infinite trial by clearing cookies & making new account
 * ⭐ **[ForCoder](http://forcoder.su/)**, [ScanLibs](https://scanlibs.com/) or [CoderProg](https://coderprog.com/)
+* ⭐ **[Best-Books.dev](https://www.best-books.dev/)** - Developer Book Recommendations
 * [IT eBooks](https://it-ebooks.info/)
 * [FreeTechBooks](https://www.freetechbooks.com/)
 * [FreeComputerEbooks](https://freecomputerbooks.com/)
@@ -627,6 +628,7 @@
 * [DOKU.PUB](https://doku.pub/) - Science / Articles
 * [ESJI](http://www.esjindex.org/) - Science / Journals
 * [Clarivate](https://mjl.clarivate.com/) - Science / Journals
+* [Plos](https://plos.org/) - Science / Journals
 * [SciAlert](https://scialert.net/) - Science / Journals
 * [Crossref](https://search.crossref.org/) - Articles / Documents / Datasets
 * [Zenodo](https://zenodo.org/) - Articles / Documents / Datasets
@@ -1169,6 +1171,7 @@
 * [Shepherd](https://shepherd.com/) - Book Recommendations
 * [Literature-Map](https://www.literature-map.com/) - Book Recommendations
 * [Break the Bubble!](https://abooklikefoo.com/escape) - Book Recommendations
+* [PagePundit](https://pagepundit.com/) - Book Recommendations
 * [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) - Book Recommendations
 * [Litsy](https://www.litsy.com/) - Book Recommendation / Photo Sharing Community
 * [5000 Best](http://5000best.com/) - Top 5000 Books
