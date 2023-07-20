@@ -25,6 +25,7 @@
 * [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Chatbot
 * [Leon](https://getleon.ai/) - AI Assistant
 * [OpenAI-bot](https://openai-bot.com) - AI Assistants
+* [Big AGI](https://big-agi.com/) - Self-Hosted AI Assistant
 * [Pros 'n Cons](https://pros-cons.io/) - Decision Making AI
 * [AnimaAI](https://myanima.ai/) - Virtual Companion
 * [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) or [Awesome-GPT4](https://gpt4.tools/) or  - ChatGPT Resources
@@ -94,6 +95,7 @@
 * [Unriddle](https://www.unriddle.ai/) or [ChatDOC](https://chatdoc.com/) - Document Summary AIs
 * [PrivateGPT](https://github.com/imartinez/privateGPT/) - Private Offline Document Chatbot
 * [docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT Google Docs Addon
+* [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI
 * [ChatGPT File Uploader](https://chrome.google.com/webstore/detail/chatgpt-file-uploader/oaogphgfdbdbmhkiplemgehihiiececj) - File Upload Extension
 * [Discord ChatGPT](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chatgpt_discord_bots) - ChatGPT Discord Bots
 * [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) / [2](https://github.com/n3d1117/chatgpt-telegram-bot) / [3](https://github.com/watscho/chat-gpt-telegram-bot) or [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT for Telegram
@@ -103,6 +105,8 @@
 * [ChatGPT4Google](https://chatgpt4google.com/), [SublimeGPT](https://chrome.google.com/webstore/detail/sublimegpt-chatgpt-everyw/eecockeebhenbihmkaamjlgoehkngjea) or [GPTGO](https://gptgo.ai/) - Add ChatGPT to Search Results
 * [Andi](https://andisearch.com/) - AI Powered Search
 * [ShareGPT](https://sharegpt.com/) or [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats
+* [VizGPT](https://www.vizgpt.ai/) - Chat Data Visualization
+* [DeepSheet](https://deepsheet.dylancastillo.co/) - Data Visualization AI
 * [ChatGPT Notification](https://github.com/Correia-jpv/ChatGPT-Notification) - Receive Notifications
 * [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear Chats
 * [EditGPT](https://www.editgpt.app/) - Proofread Chats
@@ -125,10 +129,12 @@
 * [DataFit](https://datafit.ai/top-chatgpt-prompts) - Prompt Directory
 * [ChainBrain AI](https://www.chainbrainai.com/) - Prompt Directory
 * [PromptVine](https://promptvine.com/) - Prompt Directory
+* [AwesomeGPTPrompts](https://www.awesomegptprompts.com/) - Prompt Directory
 * [OrdinaryPeoplePrompts](https://www.ordinarypeopleprompts.com/) - Prompt Directory
+* [GPTea](https://gptea.io/) - Trending Prompts
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) or [PromptBot](https://www.messengerx.io/promptbot) - Prompt Generators
 * [PromptPerfect](https://promptperfect.jina.ai/) - Prompt Optimizer
-* [promptfoo](https://github.com/typpo/promptfoo) - Test / Compare Prompts
+* [promptfoo](https://github.com/typpo/promptfoo) or [PromptKnit](https://promptknit.com/) - Prompt Playgrounds
 * [botprompts](https://botprompts.net/) - Fun Prompts
 * [ChatGPT-History](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Prompt Management Extensions
 * [/r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/) or [/r/GPT_Jailbreaks](https://www.reddit.com/r/GPT_jailbreaks/) - GPT Jailbreak Subreddits
@@ -175,7 +181,7 @@
 
 # ► Text Generators
 
-* [Scrip AI](https://scripai.com/) - AI Writing Tools
+* [Scrip AI](https://scripai.com/), [InkForAll](https://app.inkforall.com/tools), [QuickPenAI](https://quickpenai.com/) - Online AI Text Tools
 * [NovelAI](https://novelai.net/) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz), [2](https://greasyfork.org/en/scripts/448926)
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [Unconventional Text Writer](https://unconventional-text-writer.netlify.app/) - Unconventional Text AI
@@ -184,6 +190,7 @@
 * [papertyper](https://papertyper.net/) - Essay Writing AI
 * [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/) - Essay Writing AI
 * [PerfectEssayWriter](https://www.perfectessaywriter.ai/) - Essay Writing AI
+* [EssayBuilder](https://essay-builder.ai/) - Essay Writing AI
 * [Chat GPTPhantom](https://chatgpt-phantom.vercel.app/) - Article Writing AI
 * [GPT4Chat](https://gpt4chat.net/) or [ChatGPT Writer](https://chatgptwriter.ai/) - Email Reply AI
 * [codex-readme](https://github.com/tom-doerr/codex-readme) - README AI Generator
@@ -195,7 +202,6 @@
 * [Basaran](https://github.com/hyperonym/basaran) - Text Autocomplete AI
 * [Cyborg Writer](https://cyborg.tenso.rs/) - Text Autocomplete AI
 * [Compose](https://www.compose.ai/) - Text Autocomplete AI Extension
-* [InkForAll](https://app.inkforall.com/tools) - Multiple AI Text Tools
 * [SheetPlus](https://sheetplus.ai/), [NumerousAI](https://workspace.google.com/marketplace/app/numerousai/575253125118) or [FormulaBot](https://formulabot.com/) - Excel AI Tools
 * [GPT-JT](https://huggingface.co/togethercomputer/GPT-JT-6B-v1) - Text Classification AI
 * [Image2Paragraph](https://github.com/showlab/Image2Paragraph) - Image to Descriptive Paragraph
@@ -225,6 +231,7 @@
 * [Hive Moderation](https://hivemoderation.com/ai-generated-content-detection)
 * [GLTR](http://gltr.io/dist/index.html)
 * [ZeroGPT](https://www.zerogpt.com/)
+* [ZeroGPTDetector](https://www.zerogptdetector.com/)
 * [DetectGPT](https://detectgpt.com/)
 * [chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)
 * [ai-content-detector](https://contentatscale.ai/ai-content-detector/)
@@ -245,7 +252,7 @@
 * ⭐ **[Kandinsky2](https://fusionbrain.ai/diffusion)** - AI Image Generator / [Github](https://github.com/ai-forever/ru-dalle) / [Demo](https://rudalle.ru/kandinsky2)
 * ⭐ **[Adobe Firefly](https://firefly.adobe.com/)** - AI Image Generator / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
 * ⭐ **[DeepAI](https://deepai.org/machine-learning-model/stable-diffusion)** / [2](https://deepai.org/machine-learning-model/text2img) - AI Image Generator / [Tools](https://deepai.org/apis)
-* ⭐ **[Lexica](https://lexica.art/)**, [PicFinder](https://picfinder.ai/), [SeaArt](https://www.seaart.ai/), [PixAI](https://pixai.art/), [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images), [One More AI](https://onemoreai.flutterflow.app/), [Maze.guru](https://maze.guru/gallery), [ArtHub.ai](https://arthub.ai/) or [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
+* ⭐ **[Lexica](https://lexica.art/)**, [PicFinder](https://picfinder.ai/), [SeaArt](https://www.seaart.ai/), [PixAI](https://pixai.art/), [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images), [One More AI](https://onemoreai.flutterflow.app/), [Maze.guru](https://maze.guru/gallery), [ArtHub.ai](https://arthub.ai/), [Vitalentum](https://vitalentum.net/) or [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
 * ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** / [2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Determine Likely Used Image Prompts
 * ⭐ **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
@@ -373,6 +380,7 @@
 * [Aiva](https://aiva.ai/)
 * [Boomy](https://boomy.com/)
 * [Riffusion](https://www.riffusion.com/)
+* [Drum Loop AI](https://www.drumloopai.com/) - Drum Loop Generator
 * [Musico](https://www.musi-co.com/listen/streams) - AI Generated Songs
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
 
