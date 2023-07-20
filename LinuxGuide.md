@@ -445,6 +445,7 @@
 * [Left on Read](https://leftonread.me/) - iMessage Client / [Github](https://github.com/Left-on-Read/leftonread)
 * [MacBing](https://goodsnooze.gumroad.com/l/macbing) - Bing Chat
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
+* [Aiko](https://sindresorhus.com/aiko) - Audio Transcriber
 * [Drafts](https://getdrafts.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Kyun](https://github.com/file-acomplaint/kyun) or [Voodoopad](http://www.voodoopad.com/) - Text Editors / Notes
 * [Taskpaper](https://www.taskpaper.com/) - To-Do Apps
 * [Stroke](https://stroke.lllllllllllllllll.com/) - Text (You Can't Delete) Editor
