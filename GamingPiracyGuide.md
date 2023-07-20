@@ -422,6 +422,7 @@
 * ⭐ **[Free Rice](https://freerice.com/)** - Earn Rice for the World Food Programme, turn off adblocker
 * [/r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
 * [Discord Games Lab](https://discord.gg/discordgameslab) - Discord Games
+* [chat-gpt-games](https://github.com/AdmTal/chat-gpt-games) - ChatGPT Games
 * [RobotStreamer](https://robotstreamer.com/) - Live Control Robots
 * [Free Rider HD](https://www.freeriderhd.com/) - Draw / Race Bike Tracks
 * [Superhot](https://superhotgame.com/superhot-prototype) - Browser FPS
@@ -580,7 +581,7 @@
 * [Wikidata Card Game Generator](https://cardgame.blinry.org/) - Generate "Top Trumps" Cards with Wikidata
 * [Solitaired](https://solitaired.com/) or [Solitr](https://www.solitr.com/) - Solitaire
 * [Free Spider Solitaire](https://freespidersolitaire.io/) - Spider Solitaire
-* [Mah-Jongg](https://www.mah-jongg.ch/) - Mahjongg Solitaire Games
+* [Mah-Jongg](https://www.mah-jongg.ch/) or [Mahjong4Friends](https://mahjong4friends.com/) - Mahjong Games
 * [Blackjack Break](https://blackjackbreak.com/) - Browser Blackjack
 * [Poker Now](https://www.pokernow.club/), [LiPoker](https://lipoker.io/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
 * [KDice](https://www.kdice.com/) - Multiplayer Dice War
@@ -691,7 +692,7 @@
 
 ## ▷ Guessing Games
 
-* ⭐ **[skribbl](https://skribbl.io/)**, [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
+* ⭐ **[skribbl](https://skribbl.io/)**, [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/), [Pictioner](https://www.pictioner.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * ⭐ **[GuessTheGame](https://guessthe.game/)** - Game Guessing Game
 * ⭐ **[GeoGuessr](https://www.geoguessr.com/)**, [Globle](https://globle-game.com/), [City Guesser](https://virtualvacation.us/guess), [Quizzity](https://david-peter.de/quizzity/), [Where Am I?](https://whereami.io/) or [Geotastic](https://geotastic.de/) - Location Guessing Game / [Guide](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
 * [20Q](http://www.20q.net/), [Guessdle](https://www.guessdle.com/) or [Akinator](https://en.akinator.com/) - 20 Questions
