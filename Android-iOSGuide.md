@@ -236,6 +236,7 @@
 * [HexViewer](https://github.com/Keidan/HexViewer) - Hex Viewer
 * [Aves](https://github.com/deckerst/aves) - Metadata Explorer
 * [FlutterMarkdownEditor](https://github.com/adityar224/FlutterMarkdownEditor) - Markdown Editor
+* [Katch](https://gokatch.com/) - AI Call Assistant
 * [Koler](https://github.com/Chooloo/koler) - Dialer App
 * [KONTXT](https://play.google.com/store/apps/details?id=com.realnetworks.kontxt.voice&hl=en&gl=US) - Preview Calls
 * [Get Unstuck](https://socratic.org/) - Homework Answers / Help
@@ -715,6 +716,7 @@
 * ⭐ **Tachiyomi Tools** - [Github Releases](https://github.com/tachiyomiorg/tachiyomi) / [Forks](https://tachiyomi.org/forks/#forks) / [Discord](https://discord.com/invite/tachiyomi) / [Open Local Files](https://tachiyomi.org/help/guides/local-manga/)
 * ⭐ **[Kotatsu](https://kotatsu.app/)** - Manga Reader
 * [Openreads](https://github.com/mateusz-bak/openreads-android), [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) or [Basmo](https://basmo.app/) - Book Managers / Trackers
+* [KafkaArchives](https://www.kafkaarchives.com/) - Archive.org Books / Audiobooks
 * [Moon+ Reader](http://www.moondownload.com/) - Ebook Reader
 * [CoolReader](https://apt.izzysoft.de/fdroid/index/apk/org.coolreader) - Ebook Reader
 * [BookReader](https://gitlab.com/axet/android-book-reader) - Ebook Reader
@@ -725,7 +727,7 @@
 * [KiyomiPDF](https://github.com/qinlili23333/KiyomiPDF) - PDF Reader
 * [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) - PDF Reader
 * [K2pdfopt](https://willus.com/k2pdfopt/) - Optimize PDF/DJVU Files for Mobile E-Readers
-* [Voice](https://github.com/PaulWoitaschek/Voice) - Audiobook Player 
+* [Voice](https://github.com/PaulWoitaschek/Voice) - Audiobook Player
 * [Simple Audiobook Player](https://play.google.com/store/apps/details?id=mdmt.sabp.free) - Audiobook Player
 * [Voice Audiobook Player](https://play.google.com/store/apps/details?id=de.ph1b.audiobook) - Audiobook Player
 * [Smart Audiobook Player](https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer) - Audiobook Player
