@@ -231,6 +231,7 @@
 # ► Food
 
 * ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Whisk](https://whisk.com/) or [Spoonacular](https://spoonacular.com/food-api) - Recipe Managers
+* ⭐ **[ChefDroyd](https://chefdroyd.com/)** or [ChefGPT](https://www.chefgpt.xyz/) - AI Recipe Generators
 * ⭐ **[Grocy](https://grocy.info/)** / [Android](https://github.com/patzly/grocy-android) or [Kitchen Owl](https://f-droid.org/en/packages/com.tombursch.kitchenowl/) - Grocery Managers
 * ⭐ **[Superbetize](http://superbetize.com/)** - Auto-Categorize Grocery List
 * ⭐ **[Just the Recipe](https://www.justtherecipe.com/)**, [Copy Me That](https://www.copymethat.com/), [PlainOldRecipe](https://www.plainoldrecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - Extract Ingredients from Recipe Pages
@@ -247,7 +248,6 @@
 * [DMC Cookbooks](https://archive.lib.msu.edu/DMC/cookbooks/) - Cookbooks
 * [Cook Bookshelf](https://t.me/cook_bookshelf) - Cookbooks / Telegram
 * [Southern Cookbook](https://archive.org/details/southerncookbook00lustrich/) - Cookbook Southern
-* [ChefGPT](https://www.chefgpt.xyz/) - AI Recipe Generators
 * [Search-22](https://search-22.com/recipe-search-tools) - Multi-Site Recipe Search
 * [SuperCook](https://www.supercook.com/) - Recipe Search
 * [MyFridgeFood](https://www.myfridgefood.com/) - Recipe Search
@@ -318,6 +318,7 @@
 * [Mac Cookie Recipe Easter Egg](https://i.ibb.co/QbkD5NN/6a31bb4d52d7.png) - Cookie Recipe / [How-to](https://pastebin.com/N8AyVfEf)
 * [Honey Ale](https://i.ibb.co/j3HXBSr/197281de59c1.jpg) or [Honey Porter](https://i.ibb.co/pw6mypt/69a11ac8d936.png) - The White House Brewing Recipes
 * [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee Making Guides
+* [Coffee Flavor Wheel](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
 * [MakeMyCocktail](http://makemycocktail.com/), [DrinNnation](https://www.drinknation.com/bar), [CocktailBuilder](https://www.cocktailbuilder.com/), [CocktailsAndShots](https://cocktailsandshots.com/cocktail-builder/) or [MyBar](https://makemeacocktail.com/mybar/) - Cocktail Builders
 * [Drinkable](https://github.com/MOIMOB/drinkable) - Create Cocktails from Home Ingredients
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes Site Index
@@ -485,13 +486,15 @@
 # ► Travel
 
 * ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)**, [Turas](https://turas.app/), [CountryReports](https://www.countryreports.org/), [Wikivoyage](https://www.wikivoyage.org) or [TravelTips](https://www.traveltip.org/world_maps.php) - Travel Guides
-* ⭐ **[JourneyPlan](https://journeyplan.co)** or [TripNotes](https://tripnotes.ai/) - Trip Planning AIs
+* ⭐ **[JourneyPlan](https://journeyplan.co)**, [RoamAround](https://www.roamaround.io/), [TravelPlan](https://www.travelplan-ai.com/#get-trip) or [TripNotes](https://tripnotes.ai/) - Trip Planning AIs
 * ⭐ **[twkids](https://www.twkids.app/)** - Find Theme Parks, Water Parks, Zoo's etc.
 * ⭐ **[Borderless](https://borderless.safetywing.com/)** - Travel Restrictions Guide
 * ⭐ **[MapChecking](https://www.mapchecking.com/)** - Crowd Size Estimation
 * ⭐ **[Gas Price Map](https://www.gasbuddy.com/gaspricemap)** - US Gas Prices
+* [Visa Guide](https://visaguide.world/) - Worldwide Travel Visa Guides
 * [Roadside America](https://www.roadsideamerica.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
 * [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Sites
+* [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Concerts / Music Festival Search
 * [FreeCampSites](https://freecampsites.net/) - Free Camp Sites
 * [Traveler Map](https://travelermap.net/) - National Park Maps
 * [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](https://www.radarbox.com/) or [FlightAware](http://flightaware.com/) - Live Flight Trackers
@@ -502,6 +505,7 @@
 * [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [MetroOrbits](http://mic-ro.com/metro/index.html) - Subway Maps / Data
 * [ChronoTrains](https://chronotrains-eu.vercel.app/) - European Trains Distances
+* [Refuge Restrooms](https://www.refugerestrooms.org/) - Find Public Restrooms
 * [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - Dialect Map
 * [Left vs. Right Side Driving Map](https://somerandomstuff1.files.wordpress.com/2019/02/left-or-right-side.png) - Left vs. Right Side Driving by Country
 * [Speed Limits Map](https://somerandomstuff1.files.wordpress.com/2019/02/highest-speed-limits-around-the-world.png) - Max Speed Limits
@@ -572,6 +576,7 @@
 * [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
 * [mapus](https://github.com/alyssaxuu/mapus) or [Scribble Maps](https://www.scribblemaps.com/create/) - Custom Location Map
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
+* [Land Viewer](https://eos.com/landviewer) - Satellite Image Data Analyzer
 * [dgi](http://www.dgi.inpe.br/catalogo/) - Match Satellite Images to Map
 * [How-to Draw a Map](http://www.fantasticmaps.com/2015/02/how-to-draw-a-map/) - Map Drawing Guide
 * [City Roads](https://anvaka.github.io/city-roads/) - Draw City Roads
