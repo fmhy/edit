@@ -187,11 +187,10 @@
 * [TrackerStatus](https://trackerstatus.info/) - Tracker Status Updates
 * [TrackerChecker](https://github.com/NDDDDDDDDD/TrackerChecker) - Check if Private Trackers Open Signups
 * [Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated) - Warez / Scene Site Index
-* [/r/OpenSignups](https://reddit.com/r/OpenSignups)
 * [/r/Invites](https://reddit.com/r/Invites)
 * [/r/trackers](https://reddit.com/r/trackers)
 * [MyAnonaMouse](https://www.myanonamouse.net/) - Open Applications
-* [CinemaZ](https://cinemaz.to/auth/register) - Movies / TV / Open Registrations
+* [CinemaZ](https://cinemaz.to/auth/register) - Non-Mainstream Movies / TV / Open Registrations
 * [AvistaZ](https://avistaz.to/auth/register) - Asian Movies / TV / Open Registrations
 * [TheShow](http://theshow.click/) - Open Registrations
 * [XtremeWrestlingTorrents](http://xtremewrestlingtorrents.net/) - Wrestling Private Tracker / Open Registrations
