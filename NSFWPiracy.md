@@ -297,7 +297,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [EAHentai](https://eahentai.com/)
 * [OmegaScans](https://omegascans.org/)
 * [manhwa18](https://manhwa18.com/)
-* [HAnime](https://hanime.tv/) / [Downloader](https://github.com/afroshyi/hanime-generator/)
+* [HAnime](https://hanime.tv/) / [Randomizer](https://github.com/afroshyi/hanime-generator/)
 * [NewToki69](https://newtoki96.com/)
 * [Anix.moe](https://www.anix.moe/)
 * [yande.re](https://yande.re/) 
