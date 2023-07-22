@@ -1665,7 +1665,6 @@ Twitch Stream Tracker
 * [Tweets Analyzer](https://github.com/x0rz/tweets_analyzer) - Tweet Metadata Scraper 
 * [GeoSocial Footprint](http://geosocialfootprint.com/) or [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint 
 * [TwiMap](https://twimap.com/) or [SmallWorld](https://smallworld.kiwi/) - Find Twitter Users Near You 
-* [Twitter Without Logging In](https://addons.mozilla.org/en-US/firefox/addon/twitter-without-logging-in/) - Twitter Login Wall Bypass
 * [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - Redirects Twitter to Frontend
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia), [Semiphemeral](https://semiphemeral.com/) - Twitter Auto Post Delete
 * [MegaBlock](https://megablock.xyz/) - Easily Block Twitter Users & Tweets
