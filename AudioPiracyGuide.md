@@ -431,6 +431,7 @@
 * [RockBox](https://rawkbawx.rocks/) - Metal / MP3
 * [PunkTorrents](https://www.punktorrents.com/) - Punk / MP3
 * [the /kpg/ torrent](https://kpg.neocities.org/) - 800gb+ K-Pop Torrent File
+* [The Joe Rogan Experience](https://pastebin.com/gqwPPRL6) - 2.5 TB, episodes 1-1476
 * [MixtapeTorrent](http://www.mixtapetorrent.com/) - Mixtapes / MP3
 * [TribalMixed](https://www.tribalmixes.com/) - DJ Mixes / MP3
 * [JaneMusic](http://torrent.janemusic.org/) - Neil Finn, Split Enz, Crowded House etc.
