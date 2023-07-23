@@ -117,7 +117,6 @@
 * [Mov.onl](https://www.mov.onl/) - Movies / TV / 720p
 * [OpenloadMovies](https://openloadmov.com/) or [Yify TV](https://ytsmovie.tv/) - Movies / TV / 720p
 * [SpaceMov](https://spacemov.site/) - Movies / TV / 720p
-* [WapFever](https://wapfever.com/) - Movies / 720p
 * [Pluto](http://pluto.tv/on-demand) - Movies / TV / 720p
 * [GDrivePlayer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_drive_search) - Movies / TV / Anime / 720p
 * [Vumoo](https://vumoo.to/) or [9PM](https://9pm.to/) - Movies / TV / 720p
@@ -172,7 +171,6 @@
 * [BitView](https://www.bitview.net/)
 * [Vidlii](https://www.vidlii.com/)
 * [Naver](https://tv.naver.com/)
-* [vdube](https://www.vdube.com/)
 * [ultimedia](https://www.ultimedia.com/)
 * [odysee](https://odysee.com/)
 * [Playeur](https://playeur.com/)
@@ -276,7 +274,6 @@
 * [No-Laughing Batsu Game List](https://redd.it/2fgm9p)
 * [TW Classics](https://twcclassics.com/) - Weather Channel Replays
 * [cytube](https://cytu.be/) - TV / Chat
-* [ScrubTV](https://dizz.tube/) - TV / Chat
 * [VaughnLive](https://vaughn.live/browse/misc) - TV / Chat
 * [Baked](https://baked.live/) - TV / Chat
 
@@ -295,7 +292,7 @@
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
 * ⭐ **[Wotaku](https://wotaku.its.moe/)**, [2](https://wotaku.pages.dev/), [3](https://wotaku.netlify.app/) - Japanese Piracy Index
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Media Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
-* [GoGoAnime](https://gogoanime.hu/), [2](https://gogoanime.vet/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/gogo) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime), [2](https://github.com/sdaqo/anipy-cli) / [Mirrors](https://gogotaku.info/)
+* [GoGoAnime](https://gogoanime.hu/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/gogo) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime), [2](https://github.com/sdaqo/anipy-cli) / [Mirrors](https://gogotaku.info/)
 * [AnimehHub](https://animehub.ac/) - Sub / Dub / 1080p [Discord](https://discord.com/invite/4rBPpfkp)
 * [Animixplay](https://animixplay.tube/) - Sub / Dub / 1080p
 * [123Anime](https://123animes.ru/) - Sub / Dub / 1080p
@@ -400,7 +397,7 @@
 ## ▷ Sports Streaming
 
 * ⭐ **[FullMatchTV](https://fullmatchtv.com/)** - Sports
-* ⭐ **[NBATVReplay](https://nbatvreplay.com/)** or [NBAHD](https://watchreplay.net/) - Basketball
+* ⭐ **[NBAHD](https://watchreplay.net/)** - Basketball
 * ⭐ **[NFL Replay](https://nflreplay.net/)** - Football
 * ⭐ **[WatchWrestlingUp](https://watchwrestlingup.live/)** - MMA / Wrestling
 * ⭐ **[F1 Full Races](https://f1fullraces.com/)** - F1
@@ -413,7 +410,6 @@
 * [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling
 * [WatchWrestling24](https://watchwrestling24.net/) - MMA / Wrestling
 * [WatchWrestlingOnline](https://watchwrestlingonline.net/) - MMA / Wrestling
-* [WatchProWrestling](https://watchprowrestling.org/) - MMA / Wrestling
 * [Full Fights](https://fullfights.net/) - MMA
 * [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing
 * [SportsReplay](https://discord.com/invite/2r4pj67gCv) - [F1](https://racereplay.net/) / [MMA](https://fullfights.net/)
@@ -433,7 +429,6 @@
 * ⭐ **[IPTV Web](https://dev-iptv.web.app/)** - TV / Sports
 * ⭐ **[Sports Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming)** - Sports
 * ⭐ **[RBTV](https://www.rbtv77.com/)** - Sports / [Telegram](https://t.me/+_xlFBUO08tQwZGJl)
-* ⭐ **[Score808TV](https://www.score808tv.com/)** - Sports
 * ⭐ **[Reddit Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_streams)** - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
 * ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)** or [IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) - IPTV Resources / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
@@ -469,7 +464,6 @@
 * [WorldCupFootball](http://hd.worldcupfootball.me/) - Sports
 * [SoccerWorldCup](https://soccerworldcup.me/) - Sports
 * [Icelz](https://icelz.newsrade.com/) - Sports
-* [Harley Quinn](https://live.harleyquinnwidget.live/) - Sports
 * [Sports Plus](https://en12.sportplus.live/) - Sports
 * [livetv](http://livetv.sx) - Sports
 * [WatchKobe](http://watchkobe.info/) - Sports
@@ -501,7 +495,6 @@
 * [MyP2P](https://myp2p.at/) - Sports
 * [BoxingStreams100](https://boxings.boxingstreams100.com/) - Boxing
 * [NBA Streams](https://nbabox.tv/) - NBA
-* [NBA3000](https://nba3000.ir/) - NBA
 * [NFL Streams](https://nflstreams.me/) - NFL
 * [MLB66](https://mlb66.ir/) - MLB
 * [LiveSoccer TV](https://www.livesoccertv.com/) - Soccer
