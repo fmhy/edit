@@ -891,7 +891,7 @@
 * [Synergy2k](https://synergy2k.net/) - NBA 2K MyCareer Mod Tool
 * [Forza Painter](https://github.com/forza-painter/forza-painter) - Import Images to Forza
 * [Silent Hill 2: Enhanced Edition](http://enhanced.townofsilenthill.com/SH2/) - Silent Hill 2 Mod Project
-* [ETS2Planet](https://www.ets2planet.net/) or [EuroTruckSimulator2](https://www.eurotrucksimulator2.uk/) - Euro Truck Simulator 2 Mods
+* [ETS2Planet](https://www.ets2planet.net/) - Euro Truck Simulator 2 Mod
 * [Small GD Mods](https://matcool.github.io/mods) - Geometry Dash Mods / [Discord](https://discord.com/invite/K9Kuh3hzTC)
 * [Geode](https://github.com/geode-sdk/geode) - Geometry Dash Mod Loader
 * [Superblt](https://superblt.znix.xyz/) - Payday 2 Modding Tool
