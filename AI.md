@@ -15,7 +15,6 @@
 * ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Dev Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ) / [GPT-4 Limit](https://ibb.co/5BWWftf)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai)
 * ⭐ **[BAI](https://chatbot.theb.ai/)** - GPT-3.5 Based Chatbot
-* ⭐ **[Ora](https://ora.sh/openai/chatgpt)** - GPT-3.5 Based Chatbots
 * ⭐ **[Poe](https://poe.com/)** - GPT-3.5 Based Chatbots by Quora
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Based Chatbot with Real-Time Voice / [Discord](https://discord.gg/Rfbzet5R3v)
 * ⭐ **[Claude](https://www.anthropic.com/index/claude-now-in-slack)** - Anthropic's Chatbot
@@ -30,6 +29,7 @@
 * [AnimaAI](https://myanima.ai/) - Virtual Companion
 * [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) or [Awesome-GPT4](https://gpt4.tools/) or  - ChatGPT Resources
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) or [Bing Chat for All Browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
+* [Ora](https://ora.ai/) - GPT-3.5 Based Chatbots
 * [Forefront](https://chat.forefront.ai/) - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/Wbc5cPPYSs)
 * [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain) - GPT-3.5 Based AI
 * [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT-3 Based Chatbot
@@ -75,6 +75,7 @@
 * [SillyTavern](https://github.com/SillyTavern/SillyTavern) - UI for Roleplaying Chatbots
 * [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
 * [Chub](https://www.chub.ai/) - Characters for LLMs
+* [AgentRunner](https://www.agentrunner.ai/) - Create Autonomous AI Agents
 * [Dify](https://dify.ai/) - Create AI Apps
 
 ***
@@ -131,6 +132,8 @@
 * [PromptVine](https://promptvine.com/) - Prompt Directory
 * [AwesomeGPTPrompts](https://www.awesomegptprompts.com/) - Prompt Directory
 * [OrdinaryPeoplePrompts](https://www.ordinarypeopleprompts.com/) - Prompt Directory
+* [UseThisPrompt](https://www.usethisprompt.io/) - Prompt Directory
+* [SnackPrompt](https://snackprompt.com/) - Prompt Directory
 * [GPTea](https://gptea.io/) - Trending Prompts
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) or [PromptBot](https://www.messengerx.io/promptbot) - Prompt Generators
 * [PromptPerfect](https://promptperfect.jina.ai/) - Prompt Optimizer
@@ -174,7 +177,6 @@
 * [OpenCV](https://opencv.org/) - A.I. Vision Library
 * [OpenCog](https://opencog.org/) or [AForge](https://github.com/andrewkirillov/AForge.NET) - Artificial Intelligence Frameworks
 * [free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - AI Learning Resources
-* [AI Reading List](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/) or [Daily Papers](https://huggingface.co/papers) - AI Research Papers
 
 ***
 ***
@@ -286,6 +288,7 @@
 * [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - AI Image Generator
 * [Diffuse The Rest](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest) - AI Image Generator
 * [Pollinations](https://pollinations.ai/) - AI Image Generator
+* [Playarti](https://www.playarti.com/) - AI Image Generator
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Gligen](https://huggingface.co/spaces/gligen/demo) - Open-Set Grounded Text-to-Image Generation
 * [AI Notebooks](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - AI Image Generation Colab
