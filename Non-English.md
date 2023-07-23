@@ -174,6 +174,7 @@
 * [Dianying](https://dianying.fm/) - Hash Search
 * [SooPAT](http://www2.soopat.com/) - Patent Search
 * [news_pdf](https://t.me/news_pdf), [TopHub](https://tophub.today/), [Chinadaily](http://cn.chinadaily.com.cn/) or [China Watch](http://www.chinadaily.com.cn/chinawatch_fr/index.html) - News
+* [IT Home](https://www.ithome.com/) - Tech News
 * [Fonts Free Chinese](https://www.freechinesefont.com/) or [Fonts.net](https://www.fonts.net.cn/) - Fonts
 * [CatoCR](https://catocr.com/) - Image to Text
 * [EmbyCrack](https://github.com/ultranijia/EmbyCrack) - Lift Emby Restrictions
@@ -674,6 +675,7 @@
 
 ## ▷ Streaming
 
+* ⭐ **[BanglaPlex(https://banglaplex.fun/)** - Movies / [Telegram](https://t.me/banglaplex)
 * ⭐ **[Einthusan](https://einthusan.tv/)** - Movies / Music
 * [uWatchFree](https://uwatchfree.be/) - Movies / TV
 * [khatrimazafull](https://khatrimazaful.wiki/) - Movies
@@ -1605,7 +1607,6 @@
 * [exploradoresp2p](http://exploradoresp2p.com/) - Movies / Classics / TV / Documentaries / ED2K Links
 * [HispaMula](https://www.hispamula.club/), [2](https://www.hispashare.club/) - Movies / Classics / TV / Documentaries / ED2K Links
 * [Descargar videos de la tele](https://eljaviero.com/descargarvideosdelatele/) - TV / [Telegram](https://t.me/joinchat/DVUy6EgTA_kZnc3KAaVItg)
-* [Anime-ESP](https://anime-esp.com/) - Anime
 * [Ninjin Anime](https://ninjinanime.com/) - Anime
 * [Animegafirex](https://www.animegafirex.com/) - Anime
 * [SphinxAnime](https://sphinxanime.com/) - Anime
