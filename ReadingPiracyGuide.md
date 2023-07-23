@@ -54,7 +54,7 @@
 
 # ► Reading Sites
 
-* ⭐ **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) / [5](https://ravebooksearch.com/) / [6](https://recherche-ebook.fr/en/) - Multi-Site Book Search
+* ⭐ **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39), [Rave](https://ravebooksearch.com/), [Recherche](https://recherche-ebook.fr/en/) or [Searcholic](https://searcholic.com/) - Multi-Site Book Search
 * ⭐ **[Anna’s Archive](https://annas-archive.org/)** - Books / Comics / Educational
 * ⭐ **[Z-Library](https://singlelogin.re/)**  - Books / Comics / Educational
 * ⭐ **Z-Lib Tools** - [Megathread](https://redd.it/zx6z62) / [I2P](http://kkd7tiqf5lv3olqfdnkw4znmmmmnjo2xqlxrp5ntthp6juowaiha.b32.i2p) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Subreddit](https://www.reddit.com/r/zlibrary/)
@@ -339,7 +339,7 @@
 * [HerbologyY](https://t.me/HerbologyY) - Herbology / Telegram
 * [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
 * [EasyPeasy](https://easypeasymethod.org/) - Painlessly Quit Pornography
-* [UFO Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#ufo-books) or [Xenology](http://www.xenology.info/Xeno.htm) - UFO / Xenology
+* [UFO Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#ufo-books)- UFO / Xenology
 * [MorbidKuriosity](https://morbidkuriosity.com/) - Conspiracies, Dark History, Crime, Myths etc.
 * [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
 * [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
@@ -624,7 +624,6 @@
 * [Papers We Love](https://paperswelove.org/) - Science / Articles / [GitHub](https://github.com/papers-we-love/papers-we-love)
 * [Awesome Detection Transformer](https://github.com/IDEA-Research/awesome-detection-transformer) - Transformer for Detection and Segmentation Papers
 * [Springer](https://link.springer.com/) - Science / Articles
-* [Liebertpub](https://liebertpub.com/) - Science / Journals / Papers / Books
 * [DOKU.PUB](https://doku.pub/) - Science / Articles
 * [ESJI](http://www.esjindex.org/) - Science / Journals
 * [Clarivate](https://mjl.clarivate.com/) - Science / Journals
