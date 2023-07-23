@@ -310,6 +310,7 @@
 * [Anify](https://anify.tv/) - Sub / 1080p
 * [AnimeDao](https://animedao.to/) - Sub / 1080p
 * [Animegg](https://www.animegg.org/) - Sub / Dub / 1080p
+* [YugenAnime](https://yugenanime.tv/) - Sub / Dub / 1080p [Discord](https://discord.gg/MQqwQREyCz)
 * [AnimeHeaven](https://animeheaven.ru/) - Sub / Dub / 1080p
 * [PactedAnime](https://pactedanime.com/) - Sub / 1080p / [Discord](https://discord.gg/pactedanime)
 * [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/q3N6eWMMNP)
