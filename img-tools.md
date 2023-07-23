@@ -555,7 +555,7 @@
 * [Pic2Map](https://www.pic2map.com/) - Image EXIF data viewer with GPS support
 * [TheExifer](https://www.thexifer.net/index.php) or [Exiv2](https://exiv2.org/) - Image EXIF Data Editors 
 * [Nameexif](https://us.digicamsoft.com/softnamexif.html) - Bulk Image EXIF Data Editor
-* [PictureCipher](https://keitharm.me/projects/picturecipher/index.php) or [Base64 Image](https://www.base64-image.de/) - Encrypt / Decrypt Images 
+* [Base64 Image](https://www.base64-image.de/) - Encrypt / Decrypt Images 
 * [BetaFace](https://www.betaface.com/demo.html) or [Face Recognition](https://github.com/ageitgey/face_recognition) - Facial Recognition
 * [FaceCheck](https://facecheck.id/) - Face Recognition Search Engine
 * [FALdetector](https://github.com/peterwang512/FALdetector) - Photoshopped Face Detector
