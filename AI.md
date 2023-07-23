@@ -12,7 +12,6 @@
 # ► AI Chatbots
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot / [Discord](https://discord.com/invite/openai)
-* ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Dev Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ) / [GPT-4 Limit](https://ibb.co/5BWWftf)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai)
 * ⭐ **[BAI](https://chatbot.theb.ai/)** - GPT-3.5 Based Chatbot
 * ⭐ **[Poe](https://poe.com/)** - GPT-3.5 Based Chatbots by Quora
@@ -29,6 +28,7 @@
 * [AnimaAI](https://myanima.ai/) - Virtual Companion
 * [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) or [Awesome-GPT4](https://gpt4.tools/) or  - ChatGPT Resources
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) or [Bing Chat for All Browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
+* [Feyn](https://www.feyn.ai/) - GPT-4 Q&A AI
 * [Ora](https://ora.ai/) - GPT-3.5 Based Chatbots
 * [Forefront](https://chat.forefront.ai/) - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/Wbc5cPPYSs)
 * [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain) - GPT-3.5 Based AI
@@ -36,10 +36,11 @@
 * [JackChat](https://www.jackchat.ai/) - GPT-3 Based Chatbot
 * [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Autonomous GPT-4 / [GUI](https://github.com/thecookingsenpai/autogpt-gui)
 * [MiniAGI](https://github.com/muellerberndt/mini-agi) - Autonomous GPT-3.5 / GPT-4
-* [Dreamshow](https://dreamshow.ai/) - Roleplaying Chatbots
-* [Spicychat.ai](https://spicychat.ai/) - Roleplaying Chatbots
 * [Janitor AI](https://www.janitorai.com/) - Roleplaying Chatbots / [Discord](https://discord.com/invite/janitorai)
 * [Chub Venus](https://venus.chub.ai/) - Roleplaying Chatbots / [Discord](https://discord.com/invite/5byUMguqDA)
+* [Dreamshow](https://dreamshow.ai/) - Roleplaying Chatbots
+* [Spicychat.ai](https://spicychat.ai/) - Roleplaying Chatbots
+* [Botify AI](https://botif.ai/) - Roleplaying Chatbots
 * [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbot
 * [TavernAI](https://tavernai.net/) - Roleplaying / Adventure Chatbot
 * [Chai](https://www.chai-research.com/) - Entertainment Focused Chatbots
@@ -150,6 +151,7 @@
 * ⭐ **[Futurepedia](https://www.futurepedia.io/)** - AI Directory
 * ⭐ **[AI-MF](https://whoisdsmith.gitbook.io/ai-mf/)** - AI Directory / [GitHub](https://github.com/whoisdsmith/AI-MTHRFCKR)
 * ⭐ **[AI Collection](https://github.com/ai-collection/ai-collection)** - AI Directory
+* ⭐ **[AI Scout](https://aiscout.net/)** - AI Directory
 * ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/)** - AI Directory
 * ⭐ **[A.I. Apps](https://appraven.net/collection.php?listId=63b5eef1904afd2a981cead0)** - AI iOS App Directory
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#free-content) - AI Resources / Learning
@@ -191,6 +193,7 @@
 * [papertyper](https://papertyper.net/) - Essay Writing AI
 * [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/) - Essay Writing AI
 * [PerfectEssayWriter](https://www.perfectessaywriter.ai/) - Essay Writing AI
+* [Textero](https://www.textero.ai/) - Essay Writing AI
 * [EssayBuilder](https://essay-builder.ai/) - Essay Writing AI
 * [Chat GPTPhantom](https://chatgpt-phantom.vercel.app/) - Article Writing AI
 * [GPT4Chat](https://gpt4chat.net/) or [ChatGPT Writer](https://chatgptwriter.ai/) - Email Reply AI
@@ -233,6 +236,7 @@
 * [GLTR](http://gltr.io/dist/index.html)
 * [ZeroGPT](https://www.zerogpt.com/)
 * [ZeroGPTDetector](https://www.zerogptdetector.com/)
+* [AICheatCheck](https://demo.aicheatcheck.com/)
 * [DetectGPT](https://detectgpt.com/)
 * [chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)
 * [ai-content-detector](https://contentatscale.ai/ai-content-detector/)
