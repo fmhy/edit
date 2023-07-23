@@ -77,7 +77,7 @@
 * [SymbianOS](https://t.me/symbianos) - Symbian OS Discussion
 * [VMOS](https://www.vmos.com/) or [x8sb](https://x8sb.com/) - Android on Android Virtual Machines
 * [EtchDroid](https://etchdroid.depau.eu/) - Write OS Images to USB Drive
-* [Will My Phone Work?](https://willmyphonework.net/) or [FrequencyCheck](https://www.frequencycheck.com/) - Phone Carrier Support Index
+* [Will My Phone Work?](https://willmyphonework.net/) - Phone Carrier Support Index
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
 * [MobileSpectrum](https://mobilespectrum.org/) - Mobile Network Spectrum by Country
 * [Plexus](https://plexus.techlore.tech/) - De-googled Device Compatibility List
@@ -385,7 +385,7 @@
 * [BBTV](https://github.com/bttv-android/bttv) or [Frosty](https://www.frostyapp.io/) - Modded Twitch App
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - Reddit Video Downloader
-* [Boost](https://github.com/nbats/FMHYedit/blob/main/base64.md#boost), [Joey](https://github.com/nbats/FMHYedit/blob/main/base64.md#joey), [Dawn](https://github.com/Tunous/Dawn), [Flex](https://play.google.com/store/apps/details?id=ai.brownian.flex4reddit), [BaconReader](https://baconreader.com/), [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) or [Relay](https://relayforreddit.com/index.html) - Reddit Clients
+* [Boost](https://github.com/nbats/FMHYedit/blob/main/base64.md#boost), [Joey](https://github.com/nbats/FMHYedit/blob/main/base64.md#joey), [Dawn](https://github.com/Tunous/Dawn), [BaconReader](https://baconreader.com/) or [Relay](https://relayforreddit.com/index.html) - Reddit Clients
 * [Offline Reddit](https://play.google.com/store/apps/details?id=yy.offlinereader) - Offline Reddit Client
 * [reveddit](https://play.google.com/store/apps/details?id=com.agreenbhm.reveddit) - View Deleted Reddit Posts
 * [Updoot](https://updoot.app/) - Reddit Saved Post / Comment Manager
@@ -720,7 +720,6 @@
 * [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Reader
 * [Omnivore](https://omnivore.app/) - Ebook Reader
 * [android-book-reader](https://gitlab.com/axet/android-book-reader/) - Ebook Reader
-* [MJ PDF Reader](https://play.google.com/store/apps/details?id=com.gitlab.mudlej.MjPdfReader) - PDF Reader
 * [KiyomiPDF](https://github.com/qinlili23333/KiyomiPDF) - PDF Reader
 * [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) - PDF Reader
 * [K2pdfopt](https://willus.com/k2pdfopt/) - Optimize PDF/DJVU Files for Mobile E-Readers
@@ -935,10 +934,10 @@
 
 * ⭐ **[Hyperweb](https://hyperweb.app/)** - iOS Safari Improvement + Adblock Extension
 * ⭐ **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Mobile Wallpaper Sites / Apps
-* ⭐ **[Bitwarden](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744)**, [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/), [Loccker](https://www.loccker.in/) or [Strongbox](https://strongboxsafe.com/) - Password Manager
+* ⭐ **[Bitwarden](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744)**, [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/), [Strongbox](https://strongboxsafe.com/) - Password Manager
 * [OpenAI-ChatGPT](https://apps.apple.com/us/app/openai-chatgpt/id6448311069) or [Kai](https://trykai.app/) - ChatGPT Apps
 * [Waltr](https://softorino.com/waltr/) - Convert Files to iOS Formats
-* [Filza](http://cydia.saurik.com/package/com.tigisoftware.filza/), [FGet](https://apps.apple.com/us/app/fget-file-manager-browser/id1582654012), [Offline File Browser](https://apps.apple.com/us/app/offline-files-browser-docs/id1557618225) or [Santander](https://github.com/SerenaKit/Santander) - File Managers
+* [FGet](https://apps.apple.com/us/app/fget-file-manager-browser/id1582654012), [Offline File Browser](https://apps.apple.com/us/app/offline-files-browser-docs/id1557618225) or [Santander](https://github.com/SerenaKit/Santander) - File Managers
 * [Dropbox Premium](https://testflight.apple.com/join/LBZaRq4I) - Cloud Storage
 * [DeDuplicate](https://deduplicate.app/) - Duplicate File Remover
 * [A-Shell](https://github.com/holzschu/a-shell) - Terminal Emulator
@@ -1041,10 +1040,11 @@
 * [Paperless](https://github.com/astubenbord/paperless-mobile) - Document Manager
 * [ILPDFKit](https://github.com/derekblair/ILPDFKit) - PDF Form Fill Toolkit
 * [Ringtones](https://apps.apple.com/us/app/ringtones-for-iphone-ringtune/id1036141497) - Custom Ringtone Creator
-* [Project Sandcastle](https://projectsandcastle.org/) - Android for the iPhone 
+* [Project Sandcastle](https://projectsandcastle.org/) - Android for the iPhone
 * [Imgur](https://testflight.apple.com/join/Qd42y5Pw) - Meme & GIF Maker
-* [Mematic](https://www.mematic.net/) - Meme Creator 
-* [Reface](https://reface.app/) - Create Face Swap Videos 
+* [Mematic](https://www.mematic.net/) - Meme Creator
+* [Reface](https://reface.app/) - Create Face Swap Videos
+* [Typpo](https://apps.apple.com/app/id1667857726) - Create Videos as you Speak
 * [Sim Daltoinism](https://michelf.ca/projects/sim-daltonism/) - Color Blindness Simulator
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
 * [1 Second Everyday](http://1se.co/) - 1 Second Video Diary
@@ -1293,7 +1293,6 @@
 
 ## ▷ iOS Live TV
 
-* [Airy TV](https://airy.tv/) - Legal / Live TV  
 * [STBEmu](https://apps.apple.com/app/stbemutv/id1567306197) - Emulate a STB and watch IPTV
 * [Strym](https://apps.apple.com/ca/app/strymtv/id1497450933) - M3U Sports 
 
