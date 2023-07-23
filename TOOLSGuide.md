@@ -216,7 +216,7 @@
 * [OfficeDocs](https://www.offidocs.com/) - Runs Desktop / Mobile Apps Online
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
 * [Baserow](https://gitlab.com/baserow/baserow), [Framacalc](https://framacalc.org/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheet
-* [TinySheet](https://tinysheet.com/), [Gnumeric](http://www.gnumeric.org/) or [EtherCalc](https://ethercalc.net/) - Spreadsheets
+* [TinySheet](https://tinysheet.com/), [Gnumeric](http://www.gnumeric.org/), [Quadratic](https://www.quadratichq.com/) or [EtherCalc](https://ethercalc.net/) - Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
 * [Diagram.codes](https://www.diagram.codes/) - Convert Text to Diagrams
 * [Dictation](https://dictation.io/speech), [SpeechTexter](https://www.speechtexter.com/), [ConvertSpeech](https://convertspeech.com/), [SpeechNotes](https://speechnotes.co/), [LilySpeech](https://lilyspeech.com/), [VoiceToText](https://voicetotext.org/), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
@@ -1016,7 +1016,7 @@
 * ⭐ **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)**, [2](https://cse.google.com/cse?cx=73948689c2c206528), [3](https://cse.google.com/cse?cx=a805854b6a196d6a6) - Search Android APK Sites
 * ⭐ **[Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102)** - Search Extension Sites
 * ⭐ **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)**, [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) or [awesome-custom-search-engines](https://github.com/davzoku/awesome-custom-search-engines) - Custom Search Engine Directories
-* [Metaphor](https://metaphor.systems/) - Descriptive AI Search Engine / [Discord](https://discord.com/invite/jvz7GS9W8Y)
+* [Komo](https://komo.ai/) or [Metaphor](https://metaphor.systems/) / [Discord](https://discord.com/invite/jvz7GS9W8Y) - AI Search Engines
 * [100 Search Engines](https://www.100searchengines.com/) - Search With 100 Search Engines
 * [pSearch](https://serjsx.github.io/wpSearch/), [Nix Search](http://nixsearch.rf.gd/), [Search All](https://www.searchall.net/), [CombinedSearch](https://combinedsearch.io/) or [AIO Search](https://www.aiosearch.com/) - Multi-Site Search
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1) - Search File Hosts
@@ -1222,7 +1222,7 @@
 * [Bulk Downloader for Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Reddit Bulk Submission Downloader
 * [Pushshift.io](https://pushshift.io/) or [SocialGrep](https://socialgrep.com/) - Reddit Statistics
 * [Upvote Stats](https://www.upvotestats.com/) - Upvote Stats
-* [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) or [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
+* [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System
 * [Base64 Decoder](https://openuserjs.org/scripts/DanielBlaze/Reddit_Base64_Decoder) - Auto Decode Base64 Links in Reddit
 * [Reddit Status](https://www.redditstatus.com/) - Check Reddit Status
@@ -1620,7 +1620,7 @@ Twitch Stream Tracker
 * [Minimal Twitter](https://typefully.com/minimal-twitter) - Minimal Twitter Themes
 * [Tweak New Twitter](https://github.com/insin/control-panel-for-twitter) or [twttr](https://github.com/sr2echa/twttr) - Twitter Enhancement Extensions
 * [Twitonomy](https://www.twitonomy.com/) - Twitter Dashboard / Analytics
-* [TweetDeck](https://tweetdeck.twitter.com/) / [Enhancement](https://better.tw/) or [Tweeten](https://tweetenapp.com/) - Twitter Dashboard
+* [TweetDeck](https://tweetdeck.twitter.com/) or [Tweeten](https://tweetenapp.com/) - Twitter Dashboard
 * [TweetDuck](https://github.com/chylex/TweetDuck) - Twitter Desktop Client
 * [twXplorer](https://twxplorer.knightlab.com/), [Social Searcher](https://www.social-searcher.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - Search Twitter
 * [TwitLonger](https://www.twitlonger.com/) - Make Longer Tweets
@@ -1666,27 +1666,12 @@ Twitch Stream Tracker
 * [GeoSocial Footprint](http://geosocialfootprint.com/) or [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint 
 * [TwiMap](https://twimap.com/) or [SmallWorld](https://smallworld.kiwi/) - Find Twitter Users Near You 
 * [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - Redirects Twitter to Frontend
-* [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia), [Semiphemeral](https://semiphemeral.com/) - Twitter Auto Post Delete
-* [MegaBlock](https://megablock.xyz/) - Easily Block Twitter Users & Tweets
-* [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites 
-* [Unfavinator](http://unfavinator.com/) - Delete Twitter Favorites
-* [TweetDelete](https://tweetdelete.net/) or [Twitter Cleaner](https://github.com/caarlos0/twitter-cleaner) - Delete Twitter Posts in Bulk
-* [Tokimeki Unfollow](https://tokimeki-unfollow.glitch.me/), [Who.Unfollowed](https://who.unfollowed.me/) or [Unfollow All](https://chrome.google.com/webstore/detail/twitter-unfollow-all/mgehkbclkipppdjiemnhmnledicalkld) - Twitter Unfollower
-* [Unfollow Monkey](https://unfollow-monkey.com/) - Unfollower Notifications
+* [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Twitter Auto Post Delete
+* [Unfollow All](https://chrome.google.com/webstore/detail/twitter-unfollow-all/mgehkbclkipppdjiemnhmnledicalkld) - Twitter Unfollower
 * [Fix Twitter Links](https://openuserjs.org/scripts/lucio-martinez/Fix_Twitter_links) - Unshorten Twitter Feed URLs 
 * [Twitter Detector](https://github.com/stilliard/Twitter-detector) - Detect Twitter Link on a Page
-* [TwitterAudit](https://twitteraudit.com/) - Check How Many of your Followers are Real
-* [ReSync](https://revsync.io/) - Sync Newletter Subs to Existing Tool
-* [ListCopy](http://projects.noahliebman.net/listcopy/connect.php) - Copy Twitter Lists 
-* [ExportData](https://www.exportdata.io/) or [Twlets](http://twlets.com/) - Export Twitter Data 
-* [Twint](https://github.com/twintproject/twint) or [TwitterScraper](https://github.com/taspinar/twitterscraper) - Twitter Scraping / OSINT Tool
 * [QuestionBox](https://peing.net/en/) - Anonymous Twitter Question Tool
-* [Fallacy Review](https://fallacy.review/) - Highlight Logical Fallacies on Twitter
-* [EmojiTracker](http://emojitracker.com/) - Real-Time Twitter Emoji Use 
 * [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) - Remove All Twitter Metrics
-* [Cheap Bots, Done Quick](https://cheapbotsdonequick.com/) - Create Twitter Bots
-* [Botometer](https://botometer.osome.iu.edu/) or [BotSlayer](https://osome.iu.edu/tools/botslayer) - Twitter Bot Check
-* [BlackMagic](https://blackmagic.so/) - Twitter Growth Tool
 
 ***
 
@@ -1717,17 +1702,13 @@ Twitch Stream Tracker
 ## ▷ Facebook Tools
 
 * ⭐ **[Decentralized Social Networks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_decentralized_social_networks)** - Twitter / Facebook Alternatives
-* [Facebook CSE](https://cse.google.com/cse?cx=65eb7b6b8baf5a5cb) - Search Facebook
 * [FBPurity](https://www.fbpurity.com/) or [Social Fixer](https://socialfixer.com/) - Facebook Enhancement Extension
-* [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) - Hide All Facebook Metrics
-* [L.O.C](https://chrome.google.com/webstore/detail/loc/eojdckfcadamkapabechhbnkleligand) - Facebook Management Extension
 * [Facebook Ad Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook) - Facebook Filters
 * [Social Tools](https://chrome.google.com/webstore/detail/social-tools/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) or [Unseen Message](https://chrome.google.com/webstore/detail/unseen-message/oapcfkclledjbalilncpoimgjgcndhdo) - Block "Sending" & "Seen" Facebook Chat Indicators 
 * [Messenger Dark Theme](https://github.com/jerry1100/messenger-dark-theme) or [Charcoal Dark Mode](https://chrome.google.com/webstore/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng) - Facebook Messenger Dark Mode
-* [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper), [2](https://github.com/NakulPoudel52/Ultimate-Facebook-Scraper-1) - Facebook Media Scraper
+* [Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - Facebook Media Scraper
 * [Facedown](http://www.vincentcheung.ca/facedown/) - Facebook Image Downloader
 * [FDown](https://fdown.net/), [GetFVid](https://www.getfvid.com/) or [Facebook DL](https://github.com/sdushantha/facebook-dl) - Facebook Video Downloaders
-* [FBvidzBot](https://telegram.me/FBvidzBot) - Telegram Facebook Video Downloader
 * [Story Saver](https://chrome.google.com/webstore/detail/story-saver/mafcolokinicfdmlidhaebadidhdehpk) - Facebook Story Downloader
 * [Caprine](https://sindresorhus.com/caprine/) - Facebook Desktop Messenger / [GitHub](https://github.com/sindresorhus/caprine)
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - Facebook Search Formulas 
