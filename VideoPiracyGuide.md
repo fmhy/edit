@@ -308,7 +308,6 @@
 * [AnimeNana](https://animenana.com/) - Sub / 1080p
 * [Anikatsu](https://anikatsu.me/) - Sub / Dub / 1080p / [Dicord](https://discord.com/invite/FrWnWRrZmk)
 * [Anify](https://anify.tv/) - Sub / 1080p
-* [AnimeDao](https://animedao.to/) - Sub / 1080p
 * [Animegg](https://www.animegg.org/) - Sub / Dub / 1080p
 * [YugenAnime](https://yugenanime.tv/) - Sub / Dub / 1080p [Discord](https://discord.gg/MQqwQREyCz)
 * [AnimeHeaven](https://animeheaven.ru/) - Sub / Dub / 1080p
