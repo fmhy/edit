@@ -539,7 +539,6 @@ Simulator
 * [ManuscriptMiniatures](https://manuscriptminiatures.com/) - Medieval Manuscript Images
 * [Sciphilos](http://sciphilos.info/) - Historical Discovery Timeline
 * [Royal Armouries Collections](https://collections.royalarmouries.org/) - Ancient Armaments Museum
-* [The First World War](https://www.firstworldwar.amdigital.co.uk/) - WW1 Study Material
 * [NuclearWeaponArchive](https://nuclearweaponarchive.org/) - Nuclear Weapons History
 * [911 Realtime](https://911realtime.org/) - 9/11 in Realtime
 * [The Food Timeline](https://www.foodtimeline.org/) - Food History Timeline
@@ -720,7 +719,7 @@ Simulator
 * [Ba Ba Dum](https://babadum.com/) - Language Learning Game
 * [clozemaster](https://www.clozemaster.com/) - Context Based Language Learning
 * [Sounter](https://sounter.com/) or [LyricFluent](https://lyricfluent.com/) - Learn Languages via Music
-* [Polyglotia](https://www.polyglotia.com/) - Learn Languages by Chatting w/ AI
+* [Polyglotia](https://www.polyglotia.com/) or [LearnLingo](https://demo.learnlingo.dev/) - Learn Languages via AI Conversation
 * [youglish](https://youglish.com/) - YouTube Word Pronunciations
 * [Language Roadmap](https://languageroadmap.com/) - Foreign Language Media Difficulty Guide
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi-Language Dictionary Index
