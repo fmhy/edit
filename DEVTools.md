@@ -19,7 +19,7 @@
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive
 * ⭐ **[30 Seconds of Code](https://www.30secondsofcode.org/)** - Find Code Snippets
 * ⭐ **[Free Courses by Xemu](https://github.com/nbats/FMHYedit/blob/main/base64.md#free-courses-by-xemu)** - Programming Course Drives
-* ⭐ **[Phind](https://www.phind.com/)** - Developer Q&A AI
+* ⭐ **[Phind](https://www.phind.com/)** / [Discord](https://discord.com/invite/S25yW8TebZ) or [OSSChat](https://osschat.io/) - GPT-4 Dev Q&A AI / [GPT-4 Limit](https://ibb.co/5BWWftf)
 * ⭐ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - Read / Download Programming Books
 * [Awesome Certificates](https://github.com/PanXProject/awesome-certificates) or [Awesome Learning Dev](https://www.learndev.info/en) - Dev Course Indexes
 * [DZone](https://dzone.com/) - Developer Tutorials
@@ -356,6 +356,7 @@
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [The White Circle](https://twc1rcle.com/) - Cybersecurity Community
 * [Advisory Database](https://github.com/github/advisory-database) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
+* [SSuite](https://spidersuite.github.io/SSuite/) - Web Security App
 * [osquery](https://github.com/osquery/osquery) - Security Monitor
 * [Nuclei](https://nuclei.projectdiscovery.io/) / [Github](https://github.com/projectdiscovery/nuclei) or [NVD](https://nvd.nist.gov/) - Vulnerability Tracking / Scanning
 * [CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) - Log4j2 CVE-2021-44228 Vulnerability Scanner
@@ -596,7 +597,7 @@
 * [Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing)- Penetration Testing Resources
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
 * [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - Archive, Scrape & Crawl Sites 
-* [Appwrite](https://appwrite.io/) - Open-Source Backend Server / [GitHub](https://github.com/appwrite/appwrite)
+* [Appwrite](https://appwrite.io/) or [Shuttle](https://www.shuttle.rs/) - Open-Source Backend Platforms
 * [squid](http://www.squid-cache.org/) - Caching Proxy / [MSI Installer](https://squid.diladele.com/) / [Site Blocking](http://www.thedumbterminal.co.uk/posts/2005/10/blocking_access_to_sites_when_using_squid.html) 
 * [What Is Googlebot](http://www.googlebot.com/bot.html) - How-to Block Googlebot
 * [Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare) - Cloudflare Resource Index
@@ -705,7 +706,7 @@
 
 ## ▷ Software Dev Tools
 
-* ⭐[**Electron**](https://www.electronjs.org/), [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [PowerPage](https://github.com/casualwriter/powerpage), [Flet](https://flet.dev/), [Felvin](https://www.felvin.com/) or [Tauri](https://tauri.app/) / [Resources](https://github.com/tauri-apps/awesome-tauri) - Desktop App Builders
+* ⭐[**Electron**](https://www.electronjs.org/), [MarsX](https://www.marsx.dev/), [Revery](https://www.outrunlabs.com/revery/), [Proton Native](https://proton-native.js.org/), [Neutralinojs](https://neutralino.js.org/), [PowerPage](https://github.com/casualwriter/powerpage), [Flet](https://flet.dev/), [Felvin](https://www.felvin.com/) or [Tauri](https://tauri.app/) / [Resources](https://github.com/tauri-apps/awesome-tauri) - Desktop App Builders
 * ⭐**Electron Tools** - [Notes](https://github.com/Automattic/simplenote-electron/tree/v2.17.0) / [App Store](https://www.electronjs.org/apps/) / [Debugger](https://github.com/pd4d10/debugtron) / [Mod Loader](https://kernel.fish/) / [Builder](https://www.electron.build/)
 * [Budibase](https://budibase.com/), [ToolJet](https://tooljet.com/), [retool](https://retool.com/) or [AppSmith](https://github.com/appsmithorg/appsmith) - Internal Tool Builders
 * [raylib technologie](https://raylibtech.itch.io/), [bookmarks](https://github.com/MorganGeek/bookmarks) or [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - Software Development Tools
@@ -793,7 +794,6 @@
 * [TV Samples](https://github.com/android/tv-samples) - Android TV App Samples
 * [PrivacyFlash-Pro](https://github.com/privacy-tech-lab/privacyflash-pro) - Generate iOS Privacy Policies
 * [Appleshouter](https://github.com/kosmigramma/appleshouter) - iOS notifications for PWAs and Web apps
-* [Crossbar.io](https://crossbar.io/) - App Networking
 * [MDB GO](https://mdbgo.com/) - Free App Hosting
 * [namae](https://namae.dev/) - App Name Availability Check
 * [Lich](https://github.com/line/lich) - Android Development Libraries
@@ -1275,7 +1275,7 @@
 
 ## ▷ Markup Tools
 
-* ⭐ **[HedgeDoc](https://hedgedoc.envs.net/)**, [Abricotine](http://abricotine.brrd.fr/), [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/), [Apostrophe](https://github.com/ApostropheEditor/Apostrophe), [Glow](https://github.com/charmbracelet/glow), [MarkdownLivePreview](https://markdownlivepreview.com/), [Proton](https://steventhanna.github.io/proton/) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editors
+* ⭐ **[HedgeDoc](https://hedgedoc.envs.net/)**, [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/), [Apostrophe](https://github.com/ApostropheEditor/Apostrophe), [Glow](https://github.com/charmbracelet/glow), [MarkdownLivePreview](https://markdownlivepreview.com/), [Proton](https://steventhanna.github.io/proton/) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editors
 * [markup.rocks](https://markup.rocks/) - Online Markup Editor
 * [HTML-Minifier](https://kangax.github.io/html-minifier/) - HTML Minifier
 * [HTML.com](https://html.com/) - HTML Guide / Cheat Sheet
