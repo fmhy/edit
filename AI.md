@@ -95,7 +95,7 @@
 * [jsmsj](https://github.com/jsmsj/GPT4), [YakGPT](https://yakgpt.vercel.app/), [BetterGPT](https://bettergpt.chat/) or [TurboGPT.ai](https://turbogpt.ai/) - ChatGPT WebUIs
 * [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [PyGPT](https://pygpt.net/), [GPTChat](https://github.com/ian-kent/gptchat), [TurboGPT](https://github.com/mikebpech/turbogpt.ai), [SmolAI](https://github.com/smol-ai/menubar/) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
 * [Unriddle](https://www.unriddle.ai/) or [ChatDOC](https://chatdoc.com/) - Document Summary AIs
-* [PrivateGPT](https://github.com/imartinez/privateGPT/) - Private Offline Document Chatbot
+* [PrivateGPT](https://github.com/imartinez/privateGPT/) or [ChatDocs](https://github.com/marella/chatdocs) - Offline Document Chatbots
 * [docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT Google Docs Addon
 * [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI
 * [ChatGPT File Uploader](https://chrome.google.com/webstore/detail/chatgpt-file-uploader/oaogphgfdbdbmhkiplemgehihiiececj) - File Upload Extension
@@ -441,6 +441,7 @@
 * [Voice Changer](https://voicechanger.io/) - Voice Changer
 * [voice-changer](https://www.voice-changer.org/) - Voice Changer
 * [MorphVOX](https://github.com/nbats/FMHYedit/blob/main/base64.md#morphvox) - Voice Changer
+* [RVC-GUI](https://github.com/Tiger14n/RVC-GUI) - Voice Changer
 * [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - Voice Changer
 * [MyVoiceMod](https://myvoicemod.com/) - Voice Changer
 * [Voice.ai](https://voice.ai/ai-voice-changer) - Voice Changer
@@ -454,6 +455,7 @@
 * [Beyondwords](https://beyondwords.io/) - Voice cloning
 * [VCloner](https://vocloner.com/) - Voice Cloning
 * [Controllable TalkNet](https://github.com/justinjohn0306/ControllableTalkNet) - Voice Cloning
+* [Musicfy](https://musicfy.lol/) - Voice Cloning
 * [tortoise](https://github.com/152334H/tortoise-tts-fast) - Voice Cloning / [Colab](https://colab.research.google.com/drive/1N8lXviiwfmrS9vYzuFdQnLHlddXMMMvU#scrollTo=vF1d-My9IXXt)
 * [AI Voice Clonig](https://git.ecker.tech/mrq/ai-voice-cloning/wiki) - Voice Cloning Guide
 
