@@ -67,6 +67,7 @@
 * [DogSheep](https://dogsheep.github.io/) - Personal Analytics Tools
 * [Stretchly](https://hovancik.net/stretchly), [WorkRave](https://workrave.org/), [Take a Five](https://www.takeafive.com/), [BreakMessage](https://breakmessage.com/), [BreakTimer](https://breaktimer.app/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - Break Reminders / Trackers
 * [FigureRealm](https://www.figurerealm.com/) - Track Action Figure Collection
+* [AllBadges](https://allbadges.net/en) - Track Badge Collection
 * [GetOdds](https://getodds.win/) - Quick Football Odds
 * [Weather.com](https://weather.com/), [National Weather Service](https://www.weather.gov/), [ClearOutside](https://clearoutside.com/), [ForcastAdvisor](https://www.forecastadvisor.com/), [Weather Underground](https://www.wunderground.com/) or [wttr](https://wttr.in/) - Weather Reports
 * [IEMBot](https://weather.im/iembot/) - Weather Bot Monitor
@@ -417,9 +418,9 @@
 * [WebcamTests](https://webcamtests.com/) - Test your Webcam
 * [VideoMail](https://www.videomail.io/) - Webcam to Email Tool
 * [VCam](https://www.xsplit.com/vcam) - Remove Webcam Background
-* [DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Webcam Face Swap Tool
 * [NVIDIA BROADCAST](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/), [Mini Video Me](https://github.com/maykbrito/mini-video-me) or [Webcamoid](https://webcamoid.github.io/) - Webcam Manager
-* [SimSwap](https://github.com/neuralchen/SimSwap) - Video Face Swap Tool
+* [DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Webcam Face Swap Tool
+* [SimSwap](https://github.com/neuralchen/SimSwap) or [Roop](https://github.com/s0md3v/roop) - Video Face Swap Tools
 * [DeepFaceLab](https://github.com/iperov/DeepFaceLab) or [Thin-Plate Spline](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - Deepfake Video Creators
 * [deepware](https://scanner.deepware.ai/) - Detect Deepfake Videos
 * [Air Pi Play](https://github.com/rahul-thakoor/balena-rpiplay) - Rasberry Pi Screen Sharing
@@ -739,6 +740,7 @@
 * [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) - Send TradingView Alerts to Various Apps / [Index](https://github.com/pAulseperformance/awesome-pinescript)
 * [neostox](https://neostox.com/) - Practice Stock Trading
 * [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
+* [Annual Reports](https://www.annualreports.com/) - Annual Company Reports
 * [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) - Determine Compund Interest Money Growth
 * [GamestonkTerminal](https://github.com/OpenBB-finance/OpenBBTerminal), [OpenBB Terminal](https://openbb.co/) or [KoyFin](https://www.koyfin.com/) - Investment Research Tools
 * [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Savings Tracking App
@@ -746,7 +748,7 @@
 * [Crypto Ecosystem 2021](https://docs.google.com/document/d/1RM7AoUKbXEqZ2qATTxGYLMexu3Jxrf3oYiwbsrXOXUQ) - Beginner's Guide to Crypto Ecosystem
 * [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16zcrypto.com/posts/article/crypto-readings-resources//) - Crypto Learning Resources
 * [MyTokenView](https://www.mytokenview.com/) - Compare Cryptocurrency A to B's Market Cap
-* [BlockChain](https://www.blockchain.com/explorer) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
+* [BlockChain](https://www.blockchain.com/explorer), [BlockChair](https://blockchair.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Cryptocurrency Prices
 * [ETFDB](https://etfdb.com/) - ETF Research / Analysis Platform
 * [protocol-reading-list](https://github.com/b-chiang/protocol-reading-list) - Crypto Protocols
 * [WalletExplorer](https://www.walletexplorer.com/) or [OXT](https://oxt.me/) - Bitcoin Block Explorers
@@ -795,7 +797,7 @@
 * [RustCat](https://github.com/robiot/rustcat) - Port Listener
 * [SerialPortAssistant](https://github.com/KangLin/SerialPortAssistant) - Serial Port Assistant
 * [.new](https://whats.new/shortcuts) - New Project Shortcuts
-* [All about RSS](https://github.com/AboutRSS/ALL-about-RSS), [RSSTango](https://rentry.org/rrstango), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
+* [All about RSS](https://github.com/AboutRSS/ALL-about-RSS), [RSSTango](https://rentry.org/rrstango), [To RSS](https://www.to-rss.xyz/), [Awesome RSS Feeds](https://github.com/plenaryapp/awesome-rss-feeds) or [RSS](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2) - RSS Feeds / Tools
 * [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - Follow RSS Feeds
 * [MoRSS](https://morss.it/), [rsspls](https://github.com/wezm/rsspls), [FetchRSS](https://fetchrss.com/), [Janicek](https://feed.janicek.co/) or [FiveFilters](https://createfeed.fivefilters.org/) - RSS Feed Generators
 * [Exileed](http://feed.exileed.com/) - Social Media RSS Feeds
@@ -1071,10 +1073,6 @@
 * [eShips](https://eships.net/) - World Shipping Register
 * [VK Watch](https://vk.watch/) - VK Profile Search
 * [Social-Analyzer](https://github.com/qeeqbox/social-analyzer) - Profile Search CLI
-* [SearchAllJunk](https://searchalljunk.com/) - Multi-Classifieds Search
-* [carVertical](https://www.carvertical.com/) - Vehicle History & VIN Search
-* [NHTSA](https://vpic.nhtsa.dot.gov/api/) - Vehicle Registration Database
-* [PartSouq](https://partsouq.com/) - Auto Parts Search
 * [Justia](https://trademarks.justia.com/) - Trademark Search
 * [TMHunt](http://www.tmhunt.com/) - Clothing Trademark Search
 * [BrownBook](https://www.brownbook.net/) - Business Listing Search
@@ -1522,13 +1520,15 @@
 * [Anilyzer](https://anilyzer.com/) - Watch YouTube Videos in Slow Motion / Frame by Frame
 * [Playlist Creator for YouTube](https://chrome.google.com/webstore/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) or [Playlists at YouTube](https://playlists.at/youtube/) - Easily Create Playlists
 * [ytcc](https://github.com/woefe/ytcc) - Playlist Manager
+* [YT Playlist Length](https://ytplaylist-len.sharats.dev/) - Playlist Length Checker
 * [Bookmark It](https://bookmark-it.happydevelopers.co/) - Bookmark YouTube Videos
 * [Blocked](https://watannetwork.com/tools/blocked/) or [YouTube Region Checker](http://polsy.org.uk/stuff/ytrestrict.cgi) - Youtube Region Restrictions Check
 * [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - Shows YouTube File Sizes 
 * [Auto Quality for YouTube](https://chrome.google.com/webstore/detail/auto-quality-for-youtube/iaddfgegjgjelgkanamleadckkpnjpjc?hl=en) - Automatically Switch to desired Quality
-* [h264ify](https://github.com/alextrv/enhanced-h264ify) - Use H.264 on YouTube 
+* [h264ify](https://github.com/alextrv/enhanced-h264ify) - Use H.264 on YouTube
+* [YouTube AV1](https://greasyfork.org/en/scripts/466127) - Use AV1 on Youtube
 * [YTAPI](https://www.ytapi.com/) - Alt YouTube Player
-* [YouTube CPU Tamer](https://greasyfork.org/en/scripts/431573), [2](https://greasyfork.org/en/scripts/418283) - YouTube CPU Optimization
+* [YouTube CPU Tamer](https://greasyfork.org/en/scripts/431573) / [2](https://greasyfork.org/en/scripts/418283) or [Unhold YouTube](https://greasyfork.org/en/scripts/457205) - YouTube CPU Optimization
 * [Ultrawidify](https://github.com/tamius-han/ultrawidify) - Fix YouTube Aspect Ratio
 * [FREEZE](https://chrome.google.com/webstore/detail/freeze/bejbbhcoefpmeejcnknjfepoocehopii) - Control YouTube via Webcam
 * [ProgressBar Preserver](https://greasyfork.org/scripts/394512) - Always Visible Progress Bar YouTube
@@ -1733,7 +1733,7 @@ Twitch Stream Tracker
 * ⭐ **[Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide)**, [Pastas](https://rentry.org/pastas#guides), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/), [SevenForums](https://www.sevenforums.com/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - Windows Guides / Tutorials
 * ⭐ **[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - Download Windows
 * ⭐ **[Windows Activators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation)** - Windows Activation Guides / Scripts / [Rentry](https://rentry.co/win-activate)
-* ⭐ **[Windows Optimization](https://rentry.co/mdl-optimize-guide)** - Windows Optimization Guide / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat) / [Resources](https://github.com/BoringBoredom/PC-Optimization-Hub)
+* ⭐ **[Windows Optimization](https://rentry.co/mdl-optimize-guide)** - Windows Optimization Guide / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat) / [Resources](https://github.com/BoringBoredom/PC-Optimization-Hub), [2](https://github.com/luke-beep/all-about-windows)
 * ⭐ **[Windows Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)** - Windows 10 Debloating Tools
 * ⭐ **[Rufus](https://rufus.ie/)**, [AIO Boot](https://www.aioboot.com/), [UUP](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x) / [2](https://uupdump.net/), [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) or [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) - Create Bootable USB Drives
 * ⭐ **[RDP / VNC Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remote_desktop_clients)** - Control Desktop Remotely
