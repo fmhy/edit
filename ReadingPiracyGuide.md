@@ -763,6 +763,7 @@
 * [lengusa](https://lengusa.com/) or [Fraze.it](https://fraze.it/) - Sentence Search
 * [Dictionary](https://www.dictionary.com/) - Dictionary / Thesaurus
 * [Thesaurus.com](https://www.thesaurus.com/) - Thesaurus / [Frontend](https://github.com/sigaloid/vocrab)
+* [PowerThesaurus](https://www.powerthesaurus.org/) - Thesaurus
 * [VisualThesaurus](https://www.visualthesaurus.com/) - Thesaurus
 * [DescribingWords](https://www.describingwords.io/) or [Lose The Very](https://www.losethevery.com/) - Adjectives
 * [Thsrs](http://www.ironicsans.com/thsrs/) - Synonyms
