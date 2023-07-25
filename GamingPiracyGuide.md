@@ -307,7 +307,8 @@
 
 ## ▷ Arcade / Retro
 
-* ⭐ **[My Abandonware](https://www.myabandonware.com/)** - ROMs
+* ⭐ **[Play Old PC Games](https://www.play-old-pc-games.com/)** - Retro PC Game Setup Guides
+* ⭐ **[My Abandonware](https://www.myabandonware.com/)**, [XTCabandonware](http://www.xtcabadonware.com/), [AbandonwareGames](https://abandonwaregames.net/), [PCGameAbandonware](https://www.pcgamesabandonware.com/) or [VETUSWARE](https://vetusware.com/category/Games/?cat=7) - ROMs / Abandonware
 * ⭐ **[GamesNostalgia](https://gamesnostalgia.com/)** - ROMs / Amiga
 * ⭐ **[DOS Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dos_games)** - DOS Game Sites
 * ⭐ **[Wad Archive](https://archive.org/details/wadarchive)** - 83k WAD Files
@@ -341,7 +342,6 @@
 * [TOSEC](https://github.com/nbats/FMHYedit/blob/main/base64.md#tosec) - The Old School Emulation Center
 * [Tiny8bit](https://floooh.github.io/tiny8bit/) or [Piepacker](https://piepacker.com/) - Retro Game Browser Emulators
 * [pc-98](https://github.com/nbats/FMHYedit/blob/main/base64.md#pc-98) - PC-98 Games
-* [XTCabandonware](http://www.xtcabandonware.com/) or [VETUSWARE](https://vetusware.com/category/Games/?cat=7) - Abandonware
 * [Gnarly Repacks](https://www.gnarly-repacks.site/) - ROMs / Arcade / Retro 
 * [Classic Games](https://classicdosgames.com/) - Classic & Retro Game Archive
 * [Old Game Finer](http://www.oldgamesfinder.com/?) - Classic Game Search Engine
@@ -1159,6 +1159,7 @@
 * [OP.GG](https://www.op.gg/) - League of Legends Leaderboards / Stats
 * [Porofessor](https://porofessor.gg/) - Live League of Legends Game Stats
 * [Dota2ProTracker](https://www.dota2protracker.com/) or [16-Bits](https://16-bits.org/) - Dota 2 Stats Tracker
+* [D4Builds](https://d4builds.gg/) - Diablo 4 Builds
 * [WoWProgress](https://www.wowprogress.com) or [CheckPVP](https://www.check-pvp.fr/) - WoW Rankings
 * [FallGuysStats](https://github.com/ShootMe/FallGuysStats) or [Fallalytics](https://fallalytics.com/) - Fall Guys Stat Trackers
 * [Pancake Patcher](https://gamebanana.com/tools/7382) - Fall Guys String Patcher
