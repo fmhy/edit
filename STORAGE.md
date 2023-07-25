@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/fNgz0KT)** - For mobile users
+**[Table of Contents](https://ibb.co/0Y53xXT)** - For mobile users
 
 ***
 ***
@@ -751,6 +751,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Free DNS Servers
 
+* https://www.opennic.org/
 * https://www.publicdns.xyz/
 * https://gernot-walzl.at/Miscellaneous/wikileaks_alternative_dns.html
 * https://wikileaks.org/wiki/Alternative_DNS
@@ -2433,7 +2434,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Sites / Programs**
 
-[Midomi](https://www.midomi.com/), [Aha Music](https://www.aha-music.com/identify-songs-music-recognition-online), [/r/NameThatSong](https://reddit.com/r/NameThatSong), [Dejavu](https://github.com/worldveil/dejavu) (python), [Audd](https://audd.io/) (api), [MusicRecognizer](https://github.com/NerdSmith/MusicRecognizer), [Mousai](https://github.com/SeaDve/Mousai), [AudioTag](https://audiotag.info/), [FolkTuneFinder](https://www.folktunefinder.com/), [MusTgbot](https://t.me/MusTgbot)
+[Midomi](https://www.midomi.com/), [Aha Music](https://www.aha-music.com/identify-songs-music-recognition-online), [/r/NameThatSong](https://reddit.com/r/NameThatSong), [Dejavu](https://github.com/worldveil/dejavu) (python), [Audd](https://audd.io/) (api), [MusicRecognizer](https://github.com/NerdSmith/MusicRecognizer), [Mousai](https://github.com/SeaDve/Mousai), [AudioTag](https://audiotag.info/), [FolkTuneFinder](https://www.folktunefinder.com/), [MusTgbot](https://t.me/MusTgbot), [WatZatSong](https://www.watzatsong.com/en)
 
 **Mobile Apps**
 
@@ -2693,53 +2694,6 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/audiobookjunkie
 * https://t.me/audiobooks_English
 * https://t.me/Ebooks_AudioBooks
-
-***
-
-#### Telegram Audio Download
-
-* [flacmusics](https://t.me/flacmusics/) - FLAC
-* [flacmusicalbumfree](https://t.me/flacmusicalbumfree/) - FLAC
-* [FLACSong](https://t.me/FLACSong) - FLAC
-* [flacmu5ic](https://t.me/flacmu5ic/) - FLAC
-* [SACDandDSD](https://t.me/SACDandDSD) - FLAC
-* [Songscave](https://t.me/songscave) - FLAC
-* [FLAC Musik](https://t.me/flacmuzik) - FLAC
-* [FLAC Album](https://t.me/FLAC_DSD_LOSSLESS_HIRES) - FLAC
-* [Music_Hunters](https://t.me/Music_Hunters)
-* [/Music](https://t.me/music)
-* [musicder_bot](https://t.me/musicder_bot) - MP3
-* [musical_freely](https://t.me/musical_freely) - MP3
-* [DeezEmpireBot](https://t.me/DeezEmpireBot) - MP3 / FLAC
-* [songspkmusic](https://t.me/songspkmusic) - MP3
-* [Spotify™ | DataBase](https://t.me/joinchat/CpMAJhkWaTwk8BVPepASZQ) - MP3 / FLAC
-* [bassmuzic](https://t.me/bassmuzic) - MP3
-* [MusicsHunterbot](https://t.me/MusicsHunterbot)
-* [ClassicalMusicMe](https://t.me/ClassicalMusicMe) - Classical
-* [MeditationRelaxMusic](https://t.me/MeditationRelaxMusic) - Meditation
-* [ElectronicMusicMe](https://t.me/ElectronicMusicMe) - Electronic
-* [DJ Download ME](https://t.me/edmdownloadme) - Electronic
-* [BluesJazz](https://t.me/BluesJazz) - Blues / Jazz
-
-***
-
-#### Telegram Audio Download Bots
-
-* [musicaiocloud](https://t.me/musicaiocloud) - Deezer, Qobuz, Tidal, Spotify
-* [LyBot](https://t.me/LyBot) - YouTube
-* [YouTube Audio Bot](https://t.me/YtbAudioBot) - YouTube
-* [YouTube Audio Download](https://t.me/YoutubeAudioDownloadBot) - YouTube
-* [Glomatico](https://t.me/GlomaticoAmazonMusicBot) - Amazon
-* [TidalMusic_DLbot](https://t.me/TidalMusic_DLbot) - Tidal
-* [VK Bot](https://t.me/vkmsaverbot) - VK
-* [Meph Bot](https://t.me/mephbot) - VK
-* [GlomaticoAppleMusicBot](https://t.me/GlomaticoAppleMusicBot) - Apple Music
-* [yamdbot](https://t.me/yamdbot) - Yandex
-* [MP3 downloader](https://t.me/TG_mp3downloader_bot) or [Murglar](https://telegra.ph/murglar-en-05-12) - Multi Site
-* [scdlbot](https://t.me/scdlbot) - Multi Site
-* [JioDLBot](https://t.me/JioDLBot) - Multi Site
-* [Song ID](https://t.me/SongIDbot) - Shazam Alike
-* [spotifysavebot](https://t.me/spotifysavebot) - Spotify
 
 ***
 
@@ -3226,7 +3180,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[CachedView](https://cachedview.com/)**
 * ⭐ **[ArchiveTeam](https://tracker.archiveteam.org/)** - Virtual Archiving Project
 
-[awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) / [2](https://github.com/iipc/awesome-web-archiving) / [3](https://github.com/BruceDone/awesome-crawler), [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox), [Collect](https://github.com/xarantolus/Collect), [grab-site](https://github.com/ArchiveTeam/grab-site), [Heritrix](https://github.com/internetarchive/heritrix3), [HTTrack](https://www.httrack.com/) / [Guide](https://rentry.co/cloneasite), [wail](https://github.com/machawk1/wail), [WikiTeam](https://github.com/WikiTeam/wikiteam), [wallabag](https://github.com/wallabag/docker), [Conifer](https://github.com/Rhizome-Conifer/conifer), [CrowLeer](https://erap320.github.io/CrowLeer/), [brozzler](https://github.com/internetarchive/brozzler), [Kiwix](https://www.kiwix.org/en/), [wpull](https://github.com/ArchiveTeam/wpull), [suckit](https://github.com/skallwar/suckit), [wget](https://www.gnu.org/software/wget/) / [wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/) / [Guide](https://web.archive.org/web/20210305122849/https://the-eye.eu/public/Wget_Windows_Guide.pdf), [zenscrape](https://zenscrape.com/), [scraping-bot](https://www.scraping-bot.io/), [webscraping](https://webscraping.ai/), [scrapingant](https://scrapingant.com/), [pyscrappy](https://pyscrappy.netlify.app/), [scrapestack](https://scrapestack.com/), [conifer](https://conifer.rhizome.org/), [archivy](https://archivy.github.io/), [archive.vn](https://archive.vn/), [cachedview](https://cachedview.nl/), [archivematica](https://www.archivematica.org/), [webarchive](https://www.webarchive.org.uk/), [cyotek-webcopy](https://www.cyotek.com/cyotek-webcopy), [Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader), [archive.ph](https://archive.ph/), [timetravel](http://timetravel.mementoweb.org/), [Eternal](https://eternal.report/), [oldweb](https://oldweb.today/), [vortimo](https://www.vortimo.com/), [22120](https://github.com/dosyago/DiskerNet) (Browser Controller), [ghostarchive](http://ghostarchive.org/), [webrecorder](https://webrecorder.net/), [web.scraper](https://web.scraper.workers.dev/), [archive.fo](https://archive.fo/), [cachedpages](http://www.cachedpages.com/), [stealth](https://github.com/tholian-network/stealth), [replayweb](https://replayweb.page/) / [GitHub](https://github.com/webrecorder/replayweb.page), [CopySite](https://xdan.ru/copysite/), [Scrapy](https://scrapy.org/), [DFK](https://dataflowkit.com/dfk), [grab](https://github.com/everdrone/grab), [mrscraper](https://mrscraper.com/), [Arquivo.pt] (https://arquivo.pt/?l=en)
+[awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) / [2](https://github.com/iipc/awesome-web-archiving) / [3](https://github.com/BruceDone/awesome-crawler), [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox), [Collect](https://github.com/xarantolus/Collect), [grab-site](https://github.com/ArchiveTeam/grab-site), [Heritrix](https://github.com/internetarchive/heritrix3), [HTTrack](https://www.httrack.com/) / [Guide](https://rentry.co/cloneasite), [wail](https://github.com/machawk1/wail), [WikiTeam](https://github.com/WikiTeam/wikiteam), [wallabag](https://github.com/wallabag/docker), [Conifer](https://github.com/Rhizome-Conifer/conifer), [CrowLeer](https://erap320.github.io/CrowLeer/), [brozzler](https://github.com/internetarchive/brozzler), [Kiwix](https://www.kiwix.org/en/), [wpull](https://github.com/ArchiveTeam/wpull), [suckit](https://github.com/skallwar/suckit), [wget](https://www.gnu.org/software/wget/) / [wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/) / [Guide](https://web.archive.org/web/20210305122849/https://the-eye.eu/public/Wget_Windows_Guide.pdf), [zenscrape](https://zenscrape.com/), [scraping-bot](https://www.scraping-bot.io/), [webscraping](https://webscraping.ai/), [scrapingant](https://scrapingant.com/), [pyscrappy](https://pyscrappy.netlify.app/), [scrapestack](https://scrapestack.com/), [conifer](https://conifer.rhizome.org/), [archivy](https://archivy.github.io/), [archive.vn](https://archive.vn/), [cachedview](https://cachedview.nl/), [archivematica](https://www.archivematica.org/), [webarchive](https://www.webarchive.org.uk/), [cyotek-webcopy](https://www.cyotek.com/cyotek-webcopy), [Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader), [archive.ph](https://archive.ph/), [timetravel](http://timetravel.mementoweb.org/), [Eternal](https://eternal.report/), [oldweb](https://oldweb.today/), [vortimo](https://www.vortimo.com/), [22120](https://github.com/dosyago/DiskerNet) (Browser Controller), [ghostarchive](http://ghostarchive.org/), [webrecorder](https://webrecorder.net/), [web.scraper](https://web.scraper.workers.dev/), [archive.fo](https://archive.fo/), [cachedpages](http://www.cachedpages.com/), [stealth](https://github.com/tholian-network/stealth), [replayweb](https://replayweb.page/) / [GitHub](https://github.com/webrecorder/replayweb.page), [CopySite](https://xdan.ru/copysite/), [Scrapy](https://scrapy.org/), [DFK](https://dataflowkit.com/dfk), [grab](https://github.com/everdrone/grab), [mrscraper](https://mrscraper.com/), [Arquivo.pt] (https://arquivo.pt/?l=en), [80legs](https://80legs.com/), [resurrect-pages](https://github.com/arantius/resurrect-pages), [crawly](https://crawly.diffbot.com/)
 
 **Extensions**
 
