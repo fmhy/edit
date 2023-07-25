@@ -3,7 +3,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.ibb.co/hKC5tmk/036df1eeb821.png)** - For mobile users
+**[Table of Contents](https://ibb.co/YTSPfKm)** - For mobile users
 
 ***
 ***
@@ -246,7 +246,6 @@
 * ⭐ **[Spotify Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_downloaders)** - Download from Spotify
 * ⭐ **[YouTube Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_converters)** - Download from YouTube
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - FLAC / MP3 / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
-* ⭐ **[Telegram Audio Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download)** - Telegram Audio Download Channels / [Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots)
 * [/r/xTrill](https://reddit.com/r/xTrill) - MP3 / FLAC / [Backup](https://reddit.com/r/xTrillBackup)
 * [streamrip](https://github.com/nathom/streamrip) - Deezer, TIDAL, Qobuz, YouTube, and SoundCloud Downloader / [Colab](https://github.com/r-piratedgames/rip)
 * [Orpheus](https://github.com/yarrm80s/orpheusdl) - Music Ripper
@@ -389,6 +388,7 @@
 * [GoldHipHop](https://goldhiphop.pro/) - Hip Hop / MP3 / FLAC
 * [Rapload](https://rapload.org/) - Hip Hop / MP3
 * [HipHopa](https://hiphopa.net/) - Hip Hop / MP3
+* [FlexyOkay](https://www15.flexyokay.com/) - Hip Hop / MP3
 * [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 /FLAC
 * [JPFlac](https://jpflac.com/) - Japanese / Korean / MP3 / FLAC
 * [KPopMusicDownload](https://kpopdownloadscmm.blogspot.com/) - K-Pop / MP3
@@ -408,6 +408,54 @@
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games 
 * [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/), [free stock music](https://www.free-stock-music.com/) or [Fugue](https://icons8.com/music) - Royalty Free Music
 * [Music Hoarders](https://discord.gg/d4hgc7GCAj) - Music Hoarding Community
+
+***
+
+## ▷ Telegram Channels
+
+* [DeezEmpireBot](https://t.me/DeezEmpireBot) - MP3 / FLAC
+* [Spotify™ | DataBase](https://t.me/joinchat/CpMAJhkWaTwk8BVPepASZQ) - MP3 / FLAC
+* [Music_Hunters](https://t.me/Music_Hunters) - MP3
+* [/Music](https://t.me/music) - MP3
+* [musicder_bot](https://t.me/musicder_bot) - MP3
+* [musical_freely](https://t.me/musical_freely) - MP3
+* [songspkmusic](https://t.me/songspkmusic) - MP3
+* [bassmuzic](https://t.me/bassmuzic) - MP3
+* [MusicsHunterbot](https://t.me/MusicsHunterbot) - MP3
+* [flacmusics](https://t.me/flacmusics/) - FLAC
+* [flacmusicalbumfree](https://t.me/flacmusicalbumfree/) - FLAC
+* [FLACSong](https://t.me/FLACSong) - FLAC
+* [flacmu5ic](https://t.me/flacmu5ic/) - FLAC
+* [SACDandDSD](https://t.me/SACDandDSD) - FLAC
+* [Songscave](https://t.me/songscave) - FLAC
+* [FLAC Musik](https://t.me/flacmuzik) - FLAC
+* [FLAC Album](https://t.me/FLAC_DSD_LOSSLESS_HIRES) - FLAC
+* [ClassicalMusicMe](https://t.me/ClassicalMusicMe) - Classical / MP3
+* [MeditationRelaxMusic](https://t.me/MeditationRelaxMusic) - Meditation / MP3
+* [ElectronicMusicMe](https://t.me/ElectronicMusicMe) - Electronic / MP3
+* [DJ Download ME](https://t.me/edmdownloadme) - Electronic / MP3
+* [BluesJazz](https://t.me/BluesJazz) - Blues / Jazz / MP3
+
+***
+
+## ▷ Telegram Bots
+
+* [musicaiocloud](https://t.me/musicaiocloud) - Deezer, Qobuz, Tidal, Spotify
+* [LyBot](https://t.me/LyBot) - YouTube
+* [YouTube Audio Bot](https://t.me/YtbAudioBot) - YouTube
+* [YouTube Audio Download](https://t.me/YoutubeAudioDownloadBot) - YouTube
+* [Glomatico](https://t.me/GlomaticoAmazonMusicBot) - Amazon
+* [TidalMusic_DLbot](https://t.me/TidalMusic_DLbot) - Tidal
+* [VK Bot](https://t.me/vkmsaverbot) - VK
+* [Meph Bot](https://t.me/mephbot) - VK
+* [GlomaticoAppleMusicBot](https://t.me/GlomaticoAppleMusicBot) - Apple Music
+* [yamdbot](https://t.me/yamdbot) - Yandex
+* [MP3 downloader](https://t.me/TG_mp3downloader_bot) or [Murglar](https://telegra.ph/murglar-en-05-12) - Multi Site
+* [scdlbot](https://t.me/scdlbot) - Multi Site
+* [JioDLBot](https://t.me/JioDLBot) - Multi Site
+* [Song ID](https://t.me/SongIDbot) - Shazam Alike
+* [spotifysavebot](https://t.me/spotifysavebot) - Spotify
+* [SpotifyRipBot](https://t.me/SpotifyRipBot) - Spotify
 
 ***
 
