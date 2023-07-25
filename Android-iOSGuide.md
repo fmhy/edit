@@ -864,7 +864,7 @@
 * ⭐ **[Android Video Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_video_players)**
 * ⭐ **[Android Smart TV Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25BA_smart_tv_.2F_firestick)** - Smart TV / Firestick Apps
 * ⭐ **[Trakt](https://play.google.com/store/apps/details?id=tv.trakt.trakt)**, [Showly 2.0](https://github.com/1RandomDev/showly-oss), [Cinexplore](https://fidloo.com/cinexplore/) or [SeriesGuide](https://seriesgui.de/) - Movie / TV Tracker
-* Aniyomi](https://github.com/jmir1/aniyomi) - Movies / TV / Anime
+* [Aniyomi](https://github.com/jmir1/aniyomi) - Movies / TV / Anime
 * [PopcornTime](http://popcorn-time.ga/) / [2](https://github.com/popcorn-official/popcorn-android) - Movies / TV / Anime / Chromecast / Use [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_vpn_guide)
 * [PikaShow](https://pikashows.com/) - Movies / TV
 * [BeeTV](https://beetvapp.me/) or [NovaTV](https://novatv.app/) - Movies / TV / Anime / Chromecast
@@ -892,7 +892,7 @@
 * [Float Tube](https://play.google.com/store/apps/details?id=com.xpp.tubeAssistant) - Floating YouTube Player
 * [Great Courses Plus Premium](https://forum.mobilism.org/search.php?keywords=great+courses+plus&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - Courses
 * [LikeWise](https://likewise.com/) - Media Recommendation App
-* [AnimePipe](https://github.com/InfinityLoop1308/AnimePipe) - Bilibili  / NicoNico Client
+* [PipePipe](https://codeberg.org/NullPointerException/PipePipe) - Bilibili  / NicoNico Client
 * [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) or [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) - Bilibili Client
 * [NicoTap](https://play.google.com/store/apps/details?id=com.yurafuca.nicotap) - NicoNico Client
 * [SubHub](https://github.com/FunkyMuse/SubHub) or [Guenmat](https://play.google.com/store/apps/details?id=com.guenmat.android.subtitles) - Subtitle Downloaders
