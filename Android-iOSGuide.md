@@ -261,7 +261,7 @@
 * [YouTubeAdAway](https://github.com/wanam/YouTubeAdAway) - YouTube Adblocker
 * [Aerowitter](https://aerowitter.com/) or [Twidere-X](https://github.com/TwidereProject/TwidereX-Android) - Ad-Free Twitter Apps
 * [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - Adblock Filters 
-* [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker) or [Hiya](https://www.hiya.com/) - Block Spam Calls
+* [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker), [Silence](https://f-droid.org/packages/me.lucky.silence), [NoPhoneSpam](https://gitlab.com/bitfireAT/NoPhoneSpam) or [Hiya](https://www.hiya.com/) - Block Spam Calls
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls 
 * [Should I Call Back?](https://should-i-call-back.binary-person.dev/), [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) or [Scammer.Info](https://scammer.info/) / [Discord](https://discord.com/invite/nUThJjK) - Scam Numbers Database
 * [Xtra](https://github.com/crackededed/Xtra), [PurpleTV](https://discord.gg/wrU7Ea6wvr), [TwitchMod](https://t.me/pubTw) or [Twire](https://f-droid.org/packages/com.perflyst.twire/) - Ad Free Twitch App
@@ -410,6 +410,7 @@
 * [Nightsnap](https://t.me/nightsnap_for_android) - Snapchat Dark Mode
 * [SimpleMail](https://framagit.org/dystopia-project/simple-email), [Monocles](https://f-droid.org/packages/de.monocles.mail/), [k9mail](https://k9mail.app/) or [FairCode](https://email.faircode.eu/) - Email Clients
 * [BlitzMail](https://github.com/grote/BlitzMail) - One Click Email App
+* [You Have Mail](https://github.com/LeanderBB/you-have-mail) - Email Notifications
 * [Delta Lab](https://github.com/adbenitez/deltalab-android) - Email Based Messenger
 * [Creator Studio](https://play.google.com/store/apps/details?id=com.facebook.creatorstudio) - Social Media Manager
 * [Eruda](https://pastebin.com/7qSZXjDS) - Mobile Browser Console / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [Github](https://github.com/liriliri/eruda)
@@ -461,7 +462,7 @@
 * [Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - Use Google Cam Without Google Play 
 * [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play), [BinaryEye](https://github.com/markusfisch/BinaryEye) or [Code Scanner](https://github.com/czlucius/code-scanner) - QR / Barcode Scanners
 * [background video recorder](https://play.google.com/store/apps/details?id=com.camera.secretvideorecorder) - Record Videos in Background
-* [Colorize It](https://play.google.com/store/apps/details?id=com.reaimagine.colorizeit), [Phototune](https://github.com/nbats/FMHYedit/blob/main/base64.md#phototune) or [Remini](https://github.com/nbats/FMHYedit/blob/main/base64.md#remini) / [2](https://play.google.com/store/apps/details?id=com.photoscan.enhancer.remini.photomyne.colorize.scanner) - Colorize Images
+* [Colorize It](https://play.google.com/store/apps/details?id=com.reaimagine.colorizeit), [Colorize Images](https://github.com/fmhy/FMHYedit/blob/main/base64.md#colorize-images), [Phototune](https://github.com/nbats/FMHYedit/blob/main/base64.md#phototune) or [Remini](https://github.com/nbats/FMHYedit/blob/main/base64.md#remini) / [2](https://play.google.com/store/apps/details?id=com.photoscan.enhancer.remini.photomyne.colorize.scanner) - Colorize Images
 * [QuiverVision](https://quivervision.com/) - Augmented Reality Coloring
 * [Photo Lab](https://ilixa.com/8bitphotolab.php) - Give Images a Retro Look 8Bit
 * [starryai](https://starryai.com/) - Generate Art from Text Prompt
@@ -579,6 +580,7 @@
 * [APKSum](https://www.apksum.com/)
 * [apk.cafe](https://apk.cafe/)
 * [Material-You-app-list](https://github.com/nyas1/Material-You-app-list)
+* [Shelf](https://play.google.com/store/apps/details?id=com.shelf.app) - App Recommendations
 * [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - App Giveaway Sites
 
 ***
@@ -795,6 +797,7 @@
 * [Super Sound](https://play.google.com/store/apps/details?id=com.tianxingjian.supersound&hl) - Audio Editor
 * [Music Maker JAM](https://www.loudly.com/musicmakerjam) - Music Creator / Mixer
 * [Up Tempo](https://play.google.com/store/apps/details?id=com.stonekick.tempo&hl=en&gl=US) - Audio Tempo Editor
+* [ViPER4Android](https://github.com/programminghoch10/ViPER4AndroidRepackaged) - Audio Modifier / Equalizer
 * [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) - Headphone Audio Equalizer
 * [GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient) - Galaxy Buds Manager
 * [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer), [RootlessJamesDSP](https://github.com/ThePBone/RootlessJamesDSP) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizer
