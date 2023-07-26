@@ -1772,7 +1772,7 @@ Twitch Stream Tracker
 * [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) - SMBIOS Generator
 * [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit) - Intel BIOS Settings Explanation
 * [BiOSBug](https://www.biosbug.com/) - Remove / Reset BiOS Password / [Tutorial](https://www.youtube.com/watch?v=GolIjI2HS5w)
-* [MSDN Files](https://msdn.rg-adguard.net/) or [Microsoft Downloads Dump](https://www.heidoc.net/php/myvsdump.php) - Verify ISO Legitimacy
+* [MSDN Files](https://msdn.rg-adguard.net/), [Microsoft Downloads Dump](https://www.heidoc.net/php/myvsdump.php) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
 * [GetCID](https://www.getcid.info/) - Obtain Windows Confirmation ID
 * [HDD Serial Spoofer](https://github.com/namazso/hdd_serial_spoofer) - Spoof HDD Serial Number
 * [How-To Crack Windows Passwords](https://samsclass.info/123/proj14/123p12winhash.htm) 
