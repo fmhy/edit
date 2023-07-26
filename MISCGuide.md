@@ -126,6 +126,7 @@
 * ⭐ **[Free Packages](https://steamdb.info/freepackages/)** - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
 * ⭐ **[Unlimited Trials](https://rentry.co/unlimited-trials)** - Unlimited Free Trials Guide
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/#/filter:&price/0/0)** - Games
+* [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-Claim Free Epic, Amazon, and GOG Games
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) or [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Auto-Claim Free Epic Games
 * [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [SteamGifts](https://www.steamgifts.com/) / [Auto Join](https://chrome.google.com/webstore/detail/autojoin-for-steamgifts/bchhlccjhoedhhegglilngpbnldfcidc?hl=en), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - Steam Games
 * [Games Free Today](https://gamesfree.today/) - Games
@@ -231,7 +232,7 @@
 # ► Food
 
 * ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Whisk](https://whisk.com/) or [Spoonacular](https://spoonacular.com/food-api) - Recipe Managers
-* ⭐ **[ChefDroyd](https://chefdroyd.com/)**, [BabaSelo](https://www.babaselo.com/) or [ChefGPT](https://www.chefgpt.xyz/) - AI Recipe Generators
+* ⭐ **[ChefDroyd](https://chefdroyd.com/)**, [BabaSelo](https://www.babaselo.com/), [LetsFoodie](https://letsfoodie.com/ai-recipe-generator/) or [ChefGPT](https://www.chefgpt.xyz/) - AI Recipe Generators
 * ⭐ **[Grocy](https://grocy.info/)** / [Android](https://github.com/patzly/grocy-android) or [Kitchen Owl](https://f-droid.org/en/packages/com.tombursch.kitchenowl/) - Grocery Managers
 * ⭐ **[Superbetize](http://superbetize.com/)** - Auto-Categorize Grocery List
 * ⭐ **[Just the Recipe](https://www.justtherecipe.com/)**, [Copy Me That](https://www.copymethat.com/), [PlainOldRecipe](https://www.plainoldrecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - Extract Ingredients from Recipe Pages
