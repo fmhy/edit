@@ -4,12 +4,12 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/DMrFzgD)** - For mobile users
+**[Table of Contents](https://ibb.co/C8x7LpH)** - For mobile users
 
 ***
 *** 
 
-# ► Learning / Cheat Sheets
+# ► Courses / Tutorials
 
 * ⭐ **[Programming / Coding Tutorials](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_coding_tutorials)**
 * ⭐ **[Programming Learning Resources](https://rentry.co/ProgrammingLearningResources)**
@@ -17,7 +17,6 @@
 * ⭐ **[StackOverflow](https://stackoverflow.com/)** / [Frontend](https://code.whatever.social/), [DecodingDevOps](https://www.decodingdevops.com/) or [Stack Roboflow](https://stackroboflow.com/) - Developer Q&A
 * ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Courses / [Infinite Trial](https://pastebin.com/aJ4v55ae)
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive
-* ⭐ **[30 Seconds of Code](https://www.30secondsofcode.org/)** - Find Code Snippets
 * ⭐ **[Free Courses by Xemu](https://github.com/nbats/FMHYedit/blob/main/base64.md#free-courses-by-xemu)** - Programming Course Drives
 * ⭐ **[Phind](https://www.phind.com/)** / [Discord](https://discord.com/invite/S25yW8TebZ) or [OSSChat](https://osschat.io/) - GPT-4 Dev Q&A AI / [GPT-4 Limit](https://ibb.co/5BWWftf)
 * ⭐ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - Read / Download Programming Books
@@ -26,7 +25,6 @@
 * [RedHat](https://developers.redhat.com/) - Development Tutorials
 * [Dev.tube](https://dev.tube/) - Developer Talks
 * [Roadmap](https://roadmap.sh/) - Developer Roadmaps / [Github](https://github.com/kamranahmedse/developer-roadmap)
-* [QuickRef.me](https://quickref.me/), [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
 * [Programming Challenges](https://i.ibb.co/J3ppPQ3/5bdea0d754ac.png), [DevPost](https://devpost.com/), [HackTheEarth](https://www.hackerearth.com/challenges/), [EMKC](https://emkc.org/challenges) or [Code Golf](https://codegolf.stackexchange.com/) - Programming Challenges
 * [WDTCD?](https://whatdoesthiscodedo.com/) or [Denigma](https://denigma.app/#demo) - AI Code Explanations
 * [Coding Problems](https://github.com/MTrajK/coding-problems) or [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - Solutions for Coding Problems
@@ -34,8 +32,6 @@
 * [mimo](https://mimo.org/) - Coding Tutorial App
 * [SO Documentation](https://sodocumentation.net/) - Programming Documentation / Tutorials
 * [Code With Mosh Courses](https://github.com/nbats/FMHYedit/blob/main/base64.md#code-with-mosh-courses)
-* [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/), [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
-* [Google Cloud Developer's Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/) - Google Cloud Developer Cheat Sheet / [GitHub](https://github.com/priyankavergadia/google-cloud-4-words)
 * [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming / Coding Learning Resources
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - Programming Courses
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - Programming Courses
@@ -68,7 +64,6 @@
 * [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) - Rust Programming Guidebook
 * [Rustlings](https://rustlings.cool/) - Rust Learning Exercises
 * [min-sized-rust](https://github.com/johnthagen/min-sized-rust) - How-to Reduce Rust Binary Size
-* [Regex Hub](https://projects.lukehaas.me/regexhub/) or [IHateRegex](https://ihateregex.io/) - Regex Cheat Sheets
 * [Simple Regex](https://simple-regex.com/), [learn-regex](https://github.com/ziishaned/learn-regex), [ReFrF](https://refrf.dev/), [Regex.info](http://regex.info/), [ReGexOne](https://regexone.com/), [RegExr](https://regexr.com/) or [RegexLearn](https://regexlearn.com/) - Learn Regex
 * [ReGeX](https://github.com/phikal/ReGeX) - ReGeX Learning Game / Android
 * [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering) - Reverse Engineering Course 
@@ -82,10 +77,30 @@
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - PostgreSQL Tutorial
 * [MySQL Tutorial](https://www.mysqltutorial.org/) - MySQL Tutorial
 * [Hasura](https://hasura.io/learn/) - GraphQL Courses
-* [SQL Cheat Sheet](https://i.ibb.co/Ctr0Tn8/e289a15e2246.jpg)
 * [systemd-by-example](https://systemd-by-example.com/) - Learn Systemd Interactively
 * Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/) 
 * [Slip](https://www.slip.so/) - Build Programming Courses
+
+***
+
+## ▷ Cheat Sheets
+
+* ⭐ **[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)**, [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
+* ⭐ **[QuickRef.me](https://quickref.me/)**, [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
+* ⭐ **[30 Seconds of Code](https://www.30secondsofcode.org/)** - Find Code Snippets
+* [Lepton](https://hackjutsu.com/Lepton/) - Code Snippet Manager / [GitHub](https://github.com/hackjutsu/Lepton)
+* [Google Cloud Developer's Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/) - Google Cloud Developer Cheat Sheet / [GitHub](https://github.com/priyankavergadia/google-cloud-4-words)
+* [Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - Code Algorithm Cheat Sheets
+* [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) or [SpeedSheet](https://speedsheet.io/) - Python Cheat Sheet
+ or [cppreference](https://en.cppreference.com/w/) - C++ Cheat Sheets
+* [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app) - React Typescript Cheat Sheets
+* [Regex Hub](https://projects.lukehaas.me/regexhub/) or [IHateRegex](https://ihateregex.io/) - Regex Cheat Sheets
+* [SQL Cheat Sheet](https://i.ibb.co/Ctr0Tn8/e289a15e2246.jpg) - SQL Cheat Sheet
+* [CSS Cheat Sheet](https://docs.emmet.io/cheat-sheet/) or [CSS Tricks](https://css-tricks.com/snippets/) - CSS Cheat Sheet
+* [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - CLI Commands Cheatsheet
+* [Vim Cheatsheet](https://i.ibb.co/FbdMMHN/460e75dd8543.png) or [rTorr](https://vim.rtorr.com/) - Vim Code Editor Cheat Sheets
+* [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
+* [HTML.com](https://html.com/) - HTML Guide / Cheat Sheet
 
 ***
 
@@ -109,7 +124,6 @@
 * [DefensiveCSS](https://defensivecss.dev/) - CSS Tips
 * [LearnCSSGrid](https://learncssgrid.com/) - CSS Grid Guide
 * [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS Demos
-* [CSS Tricks](https://css-tricks.com/snippets/) - CSS Code Snippets
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) or [EloquentJavascript](https://eloquentjavascript.net/) - Javascript Learning Books
 * [Javascript Questions](https://github.com/lydiahallie/javascript-questions) or [JavaScriptQuiz](https://javascriptquiz.com/)  - Javascript Questions for Practice
 * [33 JS Concepts](https://github.com/leonardomso/33-js-concepts) - Useful JavaScript Concepts
@@ -120,7 +134,6 @@
 * [backendlore](https://github.com/fpereiro/backendlore) - Backend Coding Guide
 * [backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - Backend Challenges for Practice
 * [Tackling TS](https://exploringjs.com/tackling-ts/toc.html) or [TypeScript Deep Drive](https://basarat.gitbook.io/typescript/getting-started) - TypeScript Guides
-* [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app) - React Typescript Cheatsheet
 * [Next](https://hendrixer.github.io/nextjs-course/) - Learn Next.js
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Node.js Style Guide
 * [LandChad](https://landchad.net/) or [learn.sadgrl.online](https://learn.sadgrl.online/) - Site Development Guides
@@ -162,7 +175,6 @@
 * ⭐ **[Leetcode](https://leetcode.com/)** - Coding Practice
 * ⭐ **Leetcode Tools** - [Discord](https://discord.com/invite/vAPMSZ5UwG) / [Solutions](https://walkccc.me/LeetCode/), [2](https://leetcode.ca/) / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/edit) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/fspv/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode)
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - Code Algorithms & Data Structures Tutorials
-[Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - Code Algorithm Cheatsheets
 * [VisualGo](https://visualgo.net/) - Data Structures & Algorithm Animations
 * [The Algorithms - C++](https://github.com/TheAlgorithms/C-Plus-Plus) 
 * [HackersFriend](https://www.hackersfriend.com/tutorials/) - Coding Practice
@@ -204,7 +216,6 @@
 * [Modern Python 3 Bootcamp Courses](https://github.com/nbats/FMHYedit/blob/main/base64.md#modern-python-3-bootcamp-courses)
 * [Tea Press](https://greenteapress.com/wp) - Python Learning Book
 * [python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) - Python Learning Picture
-* [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) or [SpeedSheet](https://speedsheet.io/) - Python Cheat Sheet
 * [Automate The Boring Stuff](https://automatetheboringstuff.com/) - Python Automation Book
 
 ***
@@ -216,7 +227,6 @@
 * [Learn C++](https://www.learncpp.com/) - Learn C++
 * [CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap) - Learn C++
 * [HowIStart C++](https://howistart.org/posts/cpp/1/) - C++ Setup Guide
- or [cppreference](https://en.cppreference.com/w/) - C++ Cheatsheets
 * [modern-cpp-tricks](https://github.com/rachitiitr/modern-cpp-tricks) - C++ Tips
 * [Makefile Tutorial](https://makefiletutorial.com/) - Makefile Tutorial
 
@@ -240,8 +250,6 @@
 
 ## ▷ Linux / CLI
 
-* [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - CLI Commands Cheatsheet
-* [Vim Cheatsheet](https://i.ibb.co/FbdMMHN/460e75dd8543.png) or [rTorr](https://vim.rtorr.com/) - Vim Code Editor Cheat Sheets
 * [OpenVim](https://www.openvim.com/) - Interactive Vim Tutorial
 * [Vim Adventures](https://vim-adventures.com/) - Vim Learning Game
 * [Vim University](https://github.com/wincent/vim-university) - Vim Tips
@@ -257,7 +265,6 @@
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - Git Learning Game
 * [Git-it](https://github.com/jlord/git-it-electron) - Git Desktop Learning App
 * [Git Time](https://git.bradwoods.io/) - Git Version Control System Learning Game
-* [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
 * [First Timers Only](https://www.firsttimersonly.com/) or [First Contributions](https://firstcontributions.github.io/) - Git Code Contribution Guides
 * [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git Branching Guide
 
@@ -615,7 +622,6 @@
 * [Apache](https://httpd.apache.org/) - HTTP Server
 * [h5ai](https://larsjung.de/h5ai/) - HTTP Web Server Index / [GitHub](https://github.com/lrsjng/h5ai)
 * [SyAgent](https://syagent.com/), [TA Vivo](https://github.com/ta-vivo/ta-vivo) or [HertzBeat](https://hertzbeat.com/) - Server Monitors
-* [Lepton](https://hackjutsu.com/Lepton/) - Code Snippet Manager / [GitHub](https://github.com/hackjutsu/Lepton)
 * [LibreCaptcha](https://github.com/librecaptcha/lc-core) or [mCaptcha](https://mcaptcha.org/) - Captcha Systems
 * [Democaptcha](https://democaptcha.com/demo-form-eng/hcaptcha.html) or [ReCAPTCHA Demo](https://www.google.com/recaptcha/api2/demo) / [GitHub](https://patrickhlauke.github.io/recaptcha/) - Captcha Demo's
 * [SuperTokens](https://supertokens.com/) or [Lucia](https://lucia-auth.com/) - User Authentication
@@ -1279,7 +1285,6 @@
 * ⭐ **[HedgeDoc](https://hedgedoc.envs.net/)**, [zettlr](https://www.zettlr.com/), [Dillinger](https://dillinger.io/), [Notable](https://notable.app/), [vnote](https://github.com/vnotex/vnote), [StackEdit](https://stackedit.io/), [MarkdownPad](http://markdownpad.com/), [Markdownify](https://markdownify.js.org/), [Apostrophe](https://github.com/ApostropheEditor/Apostrophe), [Glow](https://github.com/charmbracelet/glow), [MarkdownLivePreview](https://markdownlivepreview.com/), [Proton](https://steventhanna.github.io/proton/) or [Mark Text](https://github.com/marktext/marktext) - Markdown Editors
 * [markup.rocks](https://markup.rocks/) - Online Markup Editor
 * [HTML-Minifier](https://kangax.github.io/html-minifier/) - HTML Minifier
-* [HTML.com](https://html.com/) - HTML Guide / Cheat Sheet
 * [HTML Reference](https://htmlreference.io/) - HTML Guide
 * [HTML Notepad](https://html-notepad.com/) or [HTML Sandbox](https://apps.apple.com/us/app/html-sandbox-2/id6443393029) - HTML Editors
 * [PageRip](https://webpagerip.com/) or [CSSPeeper](https://csspeeper.com/) - HTML / CSS Extractors
@@ -1344,6 +1349,7 @@
 ## ▷ API Tools
 
 * [API List](https://apilist.fun/), [Public APIs](https://publicapis.dev/), [APIsList](https://apislist.com/), [API House](https://apihouse.vercel.app/), [Awesome APIs](https://github.com/TonnyL/Awesome_APIs), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) - API Indexes
+* [List of Providers](https://docs.consumet.org/list-of-providers) - Piracy Site APIs
 * [Insomnia](https://insomnia.rest/) - API Client
 * [Strapi](https://strapi.io/) or [Postman](https://www.postman.com/) - API Builders
 * [Directus](https://directus.io/) - SQL to API Platform
