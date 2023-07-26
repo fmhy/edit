@@ -292,7 +292,7 @@
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
 * ⭐ **[Wotaku](https://wotaku.its.moe/)**, [2](https://wotaku.pages.dev/), [3](https://wotaku.netlify.app/) - Japanese Piracy Index
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Media Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
-* [GoGoAnime](https://gogoanimehd.to/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/gogo) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime), [2](https://github.com/sdaqo/anipy-cli) / [Mirrors](https://gogotaku.info/)
+* [GoGoAnime](https://gogoanimehd.to/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/gogo) / [Mirrors](https://gogotaku.info/) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime), [2](https://github.com/sdaqo/anipy-cli) / [Download Script](https://greasyfork.org/en/scripts/465970), [2](https://greasyfork.org/en/scripts/426661) / [DL Guide](https://rentry.org/gogodlscript)
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / 1080p [Discord](https://discord.com/invite/4rBPpfkp)
 * [Animixplay](https://animixplay.tube/) - Sub / Dub / 1080p
 * [Anix](https://anix.to/) - Sub / Dub / 1080p
@@ -4194,10 +4194,11 @@ Add the following commands to a search to manually scrape each site.
 
 #### Windows 10 Debloater
 
-* ⭐ **[SophiApp](https://github.com/Sophia-Community/SophiApp)**
-* ⭐ **[win10script](https://github.com/ChrisTitusTech/winutil)** / [2](https://christitus.com/debloat-windows-10-2020/)
+**Warning** - Its not recommended to use debloaters unless you know what you're doing. Never just "Apply All" tweaks randomly, research what you're applying always and what its effects will be.
 
-[LTSC Debloat Guide](https://rentry.co/LTSC), [Better Windows (Guide)](https://rentry.co/better-windows), [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [Windows-Decrapifier](https://github.com/n1snt/Windows-Decrapifier), [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script), [Remove-Windows10-Bloat](https://gist.github.com/matthewjberger/2f4295887d6cb5738fa34e597f457b7f), [Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10), [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat), [WinRice](https://github.com/pratyakshm/WinRice), [TweakList](https://github.com/couleur-tweak-tips/TweakList), [Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins), [BRU](https://github.com/arcadesdude/BRU), [Windows-Bloatware-Removal](https://github.com/BallisticTurtle/Windows-Bloatware-Removal/blob/master/Remove%20Windows%20Bloatware.bat), [optimizer](https://github.com/hellzerg/optimizer/), [Ultimate Windows Utility](https://christitus.com/windows-tool/), [XToolbox](https://github.com/xemulat/XToolbox), [Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools), [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover), [Win10Debloat](https://github.com/Raphire/Win10Debloat), [windows_hardening.cmd](https://gist.github.com/ricardojba/ecdfe30dadbdab6c514a530bc5d51ef6), [Dism++](https://www.majorgeeks.com/files/details/dism.html)
+* ⭐ **[SophiApp](https://github.com/Sophia-Community/SophiApp)**
+
+[win10script](https://github.com/ChrisTitusTech/winutil) / [2](https://christitus.com/debloat-windows-10-2020/) / [3](https://christitus.com/windows-tool/), [LTSC Debloat Guide](https://rentry.co/LTSC), [Better Windows (Guide)](https://rentry.co/better-windows), [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [Windows-Decrapifier](https://github.com/n1snt/Windows-Decrapifier), [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script), [Remove-Windows10-Bloat](https://gist.github.com/matthewjberger/2f4295887d6cb5738fa34e597f457b7f), [Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10), [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat), [WinRice](https://github.com/pratyakshm/WinRice), [TweakList](https://github.com/couleur-tweak-tips/TweakList), [Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins), [BRU](https://github.com/arcadesdude/BRU), [Windows-Bloatware-Removal](https://github.com/BallisticTurtle/Windows-Bloatware-Removal/blob/master/Remove%20Windows%20Bloatware.bat), [optimizer](https://github.com/hellzerg/optimizer/), [XToolbox](https://github.com/xemulat/XToolbox), [Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools), [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover), [Win10Debloat](https://github.com/Raphire/Win10Debloat), [windows_hardening.cmd](https://gist.github.com/ricardojba/ecdfe30dadbdab6c514a530bc5d51ef6), [Dism++](https://www.majorgeeks.com/files/details/dism.html)
 
 ***
 
@@ -8320,7 +8321,7 @@ pass: paluch
 * ⭐ **[CyPwn](https://repo.cypwn.xyz/)**, [2](https://ipa.cypwn.xyz/) - App Repository / [Discord](https://discord.gg/cypwn)
 * ⭐ **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open Source App Index
 * ⭐ **[A.I. Apps](https://appraven.net/collection.php?listId=63b5eef1904afd2a981cead0)** - AI App Index
-* [TrollStore](https://github.com/opa334/TrollStore) - iOS Apps / 14.0-15.4.1
+* [TrollStore](https://github.com/opa334/TrollStore) - iOS Apps / 14.0-15.4.1 / [IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)
 * [Streamiza](https://t.me/streamiza) - Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)
 * [App Cake](https://www.iphonecake.com/) - Cracked Apps / [Discord](https://discord.com/invite/TgY2Qmb)
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312)
@@ -11070,10 +11071,11 @@ Simulator
 
 # ► Linux Adblock / Privacy
 
-* ⭐ **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** or [SShuttle](https://github.com/sshuttle/sshuttle) - Proxies
-* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) or [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) - Linux Privacy Guide
+* ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** - DPI circumvention
 * ⭐ **[Librewolf Linux](https://librewolf.net/)**/ [2](https://aur.archlinux.org/packages/firedragon) / [3](https://forum.garudalinux.org/t/firedragon-librewolf-fork/5018) or [Dot Browser](https://github.com/dothq/browser) - Privacy-Based Browser
 * ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)**, [spotify-adblock](https://github.com/abba23/spotify-adblock) or [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)  - Spotify Adblockers
+* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) or [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) - Linux Privacy Guide
+* [SShuttle](https://github.com/sshuttle/sshuttle) - Proxy
 * [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
 * [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
 * [Twilio Authy](https://snapcraft.io/authy) - Linux Two-Factor Authentication
@@ -13150,7 +13152,7 @@ Twitch Stream Tracker
 * [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) - SMBIOS Generator
 * [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit) - Intel BIOS Settings Explanation
 * [BiOSBug](https://www.biosbug.com/) - Remove / Reset BiOS Password / [Tutorial](https://www.youtube.com/watch?v=GolIjI2HS5w)
-* [MSDN Files](https://msdn.rg-adguard.net/) or [Microsoft Downloads Dump](https://www.heidoc.net/php/myvsdump.php) - Verify ISO Legitimacy
+* [MSDN Files](https://msdn.rg-adguard.net/), [Microsoft Downloads Dump](https://www.heidoc.net/php/myvsdump.php) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
 * [GetCID](https://www.getcid.info/) - Obtain Windows Confirmation ID
 * [HDD Serial Spoofer](https://github.com/namazso/hdd_serial_spoofer) - Spoof HDD Serial Number
 * [How-To Crack Windows Passwords](https://samsclass.info/123/proj14/123p12winhash.htm) 
