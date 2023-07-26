@@ -230,7 +230,6 @@
 * [Paid Courses for Free](https://paidcoursesforfree.com/) - Udemy Courses
 * [Online Free Course](https://www.onlinefreecourse.net/) - Udemy Courses
 * [Giga Course](https://gigacourse.com/) - Udemy Courses
-* [Pimp My Money](https://pimpmymoney.net/) - Digital Marketing Courses
 
 ***
 
@@ -674,7 +673,7 @@ Simulator
 
 ***
 
-## ▷ [Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_learning_.2F_cheat_sheets)
+## ▷ [Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_courses_.2F_tutorials)
 
 ***
 
