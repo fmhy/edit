@@ -4194,7 +4194,6 @@ Add the following commands to a search to manually scrape each site.
 
 #### Windows 10 Debloater
 
-* ⭐ **[QuickBoost](https://github.com/SanGraphic/QuickBoost)**
 * ⭐ **[win10script](https://github.com/ChrisTitusTech/winutil)** / [2](https://christitus.com/debloat-windows-10-2020/)
 
 [LTSC Debloat Guide](https://rentry.co/LTSC), [Better Windows (Guide)](https://rentry.co/better-windows), [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [Windows-Decrapifier](https://github.com/n1snt/Windows-Decrapifier), [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script), [Remove-Windows10-Bloat](https://gist.github.com/matthewjberger/2f4295887d6cb5738fa34e597f457b7f), [Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10), [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat), [SophiApp](https://github.com/Sophia-Community/SophiApp), [WinRice](https://github.com/pratyakshm/WinRice), [TweakList](https://github.com/couleur-tweak-tips/TweakList), [Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins), [BRU](https://github.com/arcadesdude/BRU), [Windows-Bloatware-Removal](https://github.com/BallisticTurtle/Windows-Bloatware-Removal/blob/master/Remove%20Windows%20Bloatware.bat), [optimizer](https://github.com/hellzerg/optimizer/), [Ultimate Windows Utility](https://christitus.com/windows-tool/), [XToolbox](https://github.com/xemulat/XToolbox), [Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools), [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover), [Win10Debloat](https://github.com/Raphire/Win10Debloat), [windows_hardening.cmd](https://gist.github.com/ricardojba/ecdfe30dadbdab6c514a530bc5d51ef6), [Dism++](https://www.majorgeeks.com/files/details/dism.html)
@@ -5833,7 +5832,7 @@ pass: paluch
 
 #### Windows Piracy Guides
 
-`aHR0cHM6Ly9yZW50cnkuY28vZnd0Cmh0dHBzOi8vcmVudHJ5LmNvL3dpbmRvd3NfZm9yX3JldGFyZHMKaHR0cHM6Ly9yZW50cnkub3JnL2luc3RhbGx3aW5kb3dz`
+`aHR0cHM6Ly9yZW50cnkub3JnL3dpbmRvd3NfcGlyYWN5Cmh0dHBzOi8vcmVudHJ5LmNvL3dpbmRvd3NfZm9yX3JldGFyZHMKaHR0cHM6Ly9yZW50cnkub3JnL2luc3RhbGx3aW5kb3dz`
 
 *** 
 
@@ -21200,7 +21199,6 @@ If you have any suggestions or questions feel free to join us in [Divolt](https:
 * [Switch Homebrew Discord Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_homebrew_discord_servers)
 * [/r/SwitchPirates](https://www.reddit.com/r/SwitchPirates/), [/r/SwitchHaxing](https://reddit.com/r/SwitchHaxing) or [/r/SwitchHacks](https://reddit.com/r/SwitchHacks) - Switch Homebrew Subreddits
 * [Switch Guide](https://nh-server.github.io/switch-guide/), [Switch Hacking Is Easy](https://rentry.org/SwitchHackingIsEasy) or [Switch.Homebrew](https://switch.homebrew.guide/) - Switch Homebrew Guide
-* [Tinfoil](https://tinfoil.io/) - Switch Title Manager / File Browser
 * [LAN Play Status](http://lan-play.com/) or [Switch-LAN-Play](https://github.com/spacemeowx2/switch-lan-play) / [Discord](https://discord.gg/PUEmfV4) - Multiplayer Switch Servers
 * [Tinfoil Shops](https://redd.it/10lqkmh) - Tinfoil Shop Status Megathread
 * [NSP Forwarder](https://nsp-forwarder.n8.io/) - Switch NSP Forwarder
