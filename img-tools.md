@@ -130,7 +130,7 @@
 * [Girl Friend Factory](https://hiroshiba.github.io/girl_friend_factory/) or [MakeGirlsMoe](https://make.girls.moe/) - Female Anime Icon Generator 
 * [FontSVG](https://fontsvg.com/) - Convert Font, Icon, Glyph to SVG
 * [Mimi](https://mimi-panda.com/) - Create Coloring Pages from Photos
-* [Photovisi](https://www.photovisi.com/) - Photo Collage Generator 
+* [Photovisi](https://www.photovisi.com/) or [PhotoJoiner](https://www.photojoiner.com/) - Collage Generators
 * [Make Photo Gallery](https://makephotogallery.net/) - Photo Gallery Creator
 * [Text-Image](https://www.text-image.com/) - Text Image Generator
 * [NoiseDeck](https://noisedeck.app/) - Art Generator
