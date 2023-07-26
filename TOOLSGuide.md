@@ -398,7 +398,7 @@
 * [Monzoom](https://www.monzoom.com/) - Video Assets
 * [MovieTools](https://movietools.info/) - Video Backgrounds
 * [Unscreen](https://www.unscreen.com/) or [Remove Video Background](https://socialbook.io/remove-video-background) - Remove Video Background
-* [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - Steam Movie-Making Tool
+* [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - Steam Movie-Making Tool / [Resources](https://sfmlab.com/)
 * [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5)
 * [Plyr](https://plyr.io/) - Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
 * [zeroTube](http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb) - Decentralized Video Platform on ZeroNet using WebTorrent + [GitHub](https://github.com/rllola/zeroTube/)
@@ -647,6 +647,7 @@
 * [LoopCV](https://www.loopcv.pro/) - Automated Job Search Tool
 * [Toby Tools](https://rentry.co/qnu6x) or [EuroJobs](https://eurojobs.com/) - Job Search Tools
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
+* [10xJobs](https://10xjobs.net/) - Tech Job Search
 * [80,000 Hours](https://80000hours.org/) - Explore Career Options
 * [Comparably](https://www.comparably.com/) or [GoodFirms](https://www.goodfirms.co/) - Compare Companies / Salaries
 * [Real Work From Anywhere](https://realworkfromanywhere.com/) - Global "Work-From-Anywhere" Job Board
@@ -686,6 +687,7 @@
 * [TryHackMe](https://tryhackme.com/), [AWS Training](https://www.aws.training/), [Comptia](https://www.comptia.org/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html), [UI.com](https://www.ui.com/training/), [CryptoHack](https://cryptohack.org/) - IT Training & Courses
 * [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - IT Certification Courses
 * [Marketing / Business Courses](https://github.com/nbats/FMHYedit/blob/main/base64.md#marketing-courses)
+* [Pimp My Money](https://pimpmymoney.net/) - Digital Marketing Course Torrents
 * [Traders Video Library](https://t.me/+SrWg6eTupAdnoXgY) - Trading Courses / [Mirror](https://t.me/TradersVideo_Library)
 * [Data.gov Resources](https://resources.data.gov/) - Data Management Tools & Training
 * [NIST](https://www.nist.gov/nice/apprenticeship-finder) - NICE Apprenticeship Program Finder
@@ -960,7 +962,7 @@
 * [Gemini Clients](https://gemini.circumlunar.space/clients.html), [Lagrange](https://github.com/skyjake/lagrange) or [Amfora](https://github.com/makew0rld/amfora) - Gemini Browsers
 * [Gemini Software](https://gemini.circumlunar.space/software/) - Tools & Software for Gemini
 * [Gemini Portal](https://portal.mozz.us/gemini/gemini.circumlunar.space/), [2](https://yesterweb.org/gemini) - Gemini to https Web Proxy Service
-* [StockBrowser](https://stackbrowser.com/), [Rambox](https://rambox.app/) or [Tangram](https://github.com/sonnyp/Tangram) - Web App Browser
+* [StockBrowser](https://stackbrowser.com/), [Rambox](https://rambox.app/), [Kera](https://desktop.kerahq.com/) or [Tangram](https://github.com/sonnyp/Tangram) - Web App Browsers
 * [Browserling](https://www.browserling.com/) - Browser Emulators
 * [n.eko](https://neko.m1k1o.net) / [Github](https://github.com/m1k1o/neko) - Self-Hosted Virtual Browser
 * [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Chrome without Google / [Launcher](https://github.com/henrypp/chrlauncher)
@@ -1420,7 +1422,7 @@
 * [WatgBridge](https://github.com/akshettrj/watgbridge) - Telegram to WhatsApp Bridge
 * [GoriThemes](https://t.me/GoriThemes) - Telegram Themes
 * [Callmebot](https://www.callmebot.com/) - Trigger Voice Calls or Chats
-* [Skeddy](https://skeddy.me/) - Telegram Reminder Bot
+* [Skeddy](https://skeddy.me/) - Telegram Reminder Bots
 * [SaveDay](https://www.save.day/) - Telegram Bookmarking AI
 * [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) / [2](https://github.com/n3d1117/chatgpt-telegram-bot) / [3](https://github.com/watscho/chat-gpt-telegram-bot) or [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT for Telegram
 * [TgStory](https://github.com/dishapatel010/TgStory) - Instagram Style Stories Bot
@@ -1434,7 +1436,7 @@
 * [Telegram Scraper](https://www.telegramscraper.com/) - Telegram Member / Group Export
 * [Telegram Email](https://t.me/etlgr_bot) - Send / Receive Emails via Telegram
 * [SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Save Restricted Content
-* [rss2tg_bot ](https://t.me/rss2tg_bot) - RSS Feed Bot
+* [rss2tg_bot ](https://t.me/rss2tg_bot) or [TheFeedReaderBot](https://t.me/TheFeedReaderBot) - RSS Feed Bots
 * [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - Telegram CSE
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot), [LinkShortenerZBot](https://t.me/LinkShortenerZBot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Link Shortener Bots 
 * [URL2IMGBot](https://t.me/URL2IMGBot) - Take URL Screenshots
@@ -1752,7 +1754,7 @@ Twitch Stream Tracker
 * [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) or [LogDissect](https://github.com/dogoncouch/logdissect/) - Log Analyzation Utility
 * [Windows 11 Fixer](https://github.com/99natmar99/Windows-11-Fixer) - Win 11 Improvement Tool
 * [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Identify why your PC isn't Windows 11 ready
-* [Windows 11 Debloater](https://github.com/teeotsa/windows-11-debloat), [win11SetupScript](https://github.com/fedoz13/win11SetupScript), [debloat-windows11](https://github.com/kdpuvvadi/debloat-windows11), [BloatyNosy](https://github.com/builtbybel/BloatyNosy) or [XToolbox](https://github.com/xemulat/XToolbox) - Windows 11 Debloaters
+* [Windows 11 Debloater](https://github.com/teeotsa/windows-11-debloat), [win11SetupScript](https://github.com/fedoz13/win11SetupScript), [debloat-windows11](https://github.com/kdpuvvadi/debloat-windows11), [JunkCtrl](https://github.com/builtbybel/JunkCtrl/), [BloatyNosy](https://github.com/builtbybel/BloatyNosy) or [XToolbox](https://github.com/xemulat/XToolbox) - Windows 11 Debloaters
 * [Awesome Windows 11](https://github.com/awesome-windows11/windows11) - Windows 11 Resource Index
 * [Medicat USB](https://medicatusb.com/) - USB Toolkit
 * [GParted](https://gparted.org/), [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
