@@ -100,7 +100,7 @@
 * [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI
 * [ChatGPT File Uploader](https://chrome.google.com/webstore/detail/chatgpt-file-uploader/oaogphgfdbdbmhkiplemgehihiiececj) - File Upload Extension
 * [Discord ChatGPT](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chatgpt_discord_bots) - ChatGPT Discord Bots
-* [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) / [2](https://github.com/n3d1117/chatgpt-telegram-bot) / [3](https://github.com/watscho/chat-gpt-telegram-bot) or [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT for Telegram
+* [ChatGPT Telegram Bot](https://github.com/karfly/chatgpt_telegram_bot) / [2](https://github.com/n3d1117/chatgpt-telegram-bot) / [3](https://github.com/watscho/chat-gpt-telegram-bot), [UnoAIBot](https://t.me/unoaibot) or [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) - ChatGPT for Telegram
 * [WeChat ChatGPT](https://github.com/fuergaosi233/wechat-chatgpt) - ChatGPT for WeChat
 * [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot) - ChatGPT for Slack
 * [ChatGPT Advanced](https://tools.zmo.ai/webchatgpt) - Add Search Results to ChatGPT / [Discord](https://discord.com/invite/pkZ3wwuT)
@@ -447,6 +447,7 @@
 * [Voice.ai](https://voice.ai/ai-voice-changer) - Voice Changer
 * [so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - Voice Changer
 * [FTM Voice Changer](https://lingojam.com/FemaletoMaleVoiceChanger) - Voice Changer
+* [VoiceConversionWebUI](https://huggingface.co/lj1995/VoiceConversionWebUI/) - Voice Changer
 * [voice-changer](https://github.com/w-okada/voice-changer) - Voice Changer
 * [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changer
 * [NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB) - Singing Voice Enhancer
