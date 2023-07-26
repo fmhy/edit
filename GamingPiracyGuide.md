@@ -131,6 +131,7 @@
 * ⭐ **[Multi System Emulators](https://emulation.gametechwiki.com/index.php/Multi-system_emulators)** - Emulators w/ Multiple Consoles
 * ⭐ **[Multiplayer Emulation](http://emulation.gametechwiki.com/index.php/Netplay)** - Multiplayer Emulation Tools
 * ⭐ **[Recommended Emulator Specs](https://emulation.gametechwiki.com/index.php/Computer_specs)**
+* ⭐ **[Skraper](http://skraper.net/)** - ROM Cover / Metadata Scraper
 * [RedSquirrel Project List](https://www.redsquirrel87.altervista.org/doku.php/projects-list) - Emulator Tool Index
 * [Eclipse](https://eclipseemu.me/play/) - Online Mobile Multi-Console Emulator 
 * [PlanetEmu](http://www.planetemu.net/) - Emulators
@@ -905,6 +906,7 @@
 * [BSMG](https://bsmg.wiki/) - Beat Saber Mods
 * [NFSMods](https://nfsmods.xyz/home) or [Project Unite](https://discord.com/invite/3F6vEyp) - Need for Speed Mods
 * [NFS Most Wanted AI](https://github.com/LupascuAndrei/nfs_most_wanted) - Need for Speed: Most Wanted AI / [Video](https://youtu.be/UkYxKu2pllw)
+* [SimPlaza](https://simplaza.org/) - Microsoft Flight Simulator Addons
 * [Project ECLISE & Grind Thousand](https://discord.gg/PtfwpAznUB) - Plants vs. Zombies 2 Rebalance Mods / [YouTube](https://www.youtube.com/c/goodpea2)
 * [Thunderstore](https://northstar.thunderstore.io/) - Northstar Mods
 * [Modding-OpenMW](https://modding-openmw.com/) - Morrowind Mods
