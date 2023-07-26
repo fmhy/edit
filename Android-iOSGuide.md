@@ -784,6 +784,7 @@
 * [AudioTube](https://invent.kde.org/multimedia/audiotube) - YouTube Audio Player / [GitHub](https://jbbgameich.github.io/kde/2021/03/13/audiotube.html)
 * [Cliggo](https://play.google.com/store/apps/details?id=com.cliggo.cliggo_music) - Streaming / Downloading
 * [Otter](https://github.com/apognu/otter) - Music Sharing App
+* [TuneDetective](https://github.com/n000tavailable/tunedetective) - Music Recommendation App
 * [HZP](https://hzp.co/) - Solfeggio Frequency Player
 * [Quorus](https://quorus.net/) - Collaborative Playlists
 * [unMix](https://unmix.ru/) - Remove Vocal Tracks
