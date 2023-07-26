@@ -194,7 +194,7 @@
 * ⭐ **[Documentary Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_documentaries)** - Documentaries
 * ⭐ **[Ubu](https://ubu.com/film/)** - Short Films / Avant-Garde
 * [ElectronicNostalgia1991](https://www.youtube.com/c/ElectronicNostalgia1991/) - Movie Commentaries
-* [Classic Cinema Online](https://classiccinemaonline.com/), [ClassixApp](https://www.classixapp.com/), [BnWMovies](https://bnwmovies.com/) or [Dumb Classic Movies](https://www.dumb.com/movies/) - Classic Films
+* [Classic Cinema Online](https://classiccinemaonline.com/), [ClassixApp](https://www.classixapp.com/), [BnWMovies](https://bnwmovies.com/), [The Classic Movies](https://www.the-classic-movies.com/) or [Dumb Classic Movies](https://www.dumb.com/movies/) - Classic Films
 * [TheFilmDetective](https://www.thefilmdetective.com/) - Classic Films / TV
 * [RetroVision Media](https://www.retrovisionmedia.com/) - Retro / Classic Films
 * [horror.watch](https://horror.watch/) - Classic Horror Films / May Need [OpenVideo](https://openvideofs.github.io)
