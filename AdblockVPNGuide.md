@@ -527,7 +527,7 @@
 
 * ⭐ **[Psiphon](https://psiphon.ca/)** - [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png)
 * ⭐ **[Lantern](https://lantern.io/)** 
-* ⭐ **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** - Local Proxy / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI)
+* ⭐ **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI) or [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - DPI circumvention
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/bypass-some-isp-blocks-with-just-firefox)** - Bypass ISP censorship with Firefox
 * [Acrylic](http://mayakron.altervista.org/)
 * [Tsunami](https://github.com/FogNetwork/Tsunami)
@@ -535,7 +535,6 @@
 * [FilterBypass](https://www.filterbypass.me/) 
 * [Proxifier](https://www.proxifier.com/) - [Keys](https://github.com/nbats/FMHYedit/blob/main/base64.md#proxifier-keys)
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy)
-* [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel)
 * [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
 * [Hysteria](https://github.com/apernet/hysteria)
 * [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt)
