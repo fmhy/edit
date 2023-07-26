@@ -647,7 +647,7 @@ pass: paluch
 
 #### Windows Piracy Guides
 
-`aHR0cHM6Ly9yZW50cnkub3JnL3dpbmRvd3NfcGlyYWN5Cmh0dHBzOi8vcmVudHJ5LmNvL2Z3dApodHRwczovL3JlbnRyeS5jby93aW5kb3dzX2Zvcl9yZXRhcmRzCmh0dHBzOi8vcmVudHJ5Lm9yZy9pbnN0YWxsd2luZG93cw==`
+`aHR0cHM6Ly9yZW50cnkub3JnL3dpbmRvd3NfcGlyYWN5Cmh0dHBzOi8vcmVudHJ5LmNvL3dpbmRvd3NfZm9yX3JldGFyZHMKaHR0cHM6Ly9yZW50cnkub3JnL2luc3RhbGx3aW5kb3dz`
 
 *** 
 
