@@ -20,7 +20,7 @@
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
 * ⭐ **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbots Index
-* [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Chatbot
+* [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Q&A AI
 * [Leon](https://getleon.ai/) - AI Assistant
 * [OpenAI-bot](https://openai-bot.com) - AI Assistants
 * [Big AGI](https://big-agi.com/) - Self-Hosted AI Assistant
@@ -29,6 +29,7 @@
 * [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) or [Awesome-GPT4](https://gpt4.tools/) or  - ChatGPT Resources
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) or [Bing Chat for All Browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
 * [Feyn](https://www.feyn.ai/) - GPT-4 Q&A AI
+* [NoowAI](https://noowai.com/) - Q&A AI
 * [Ora](https://ora.ai/) - GPT-3.5 Based Chatbots
 * [Forefront](https://chat.forefront.ai/) - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/Wbc5cPPYSs)
 * [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain) - GPT-3.5 Based AI
@@ -174,7 +175,6 @@
 * [WikiGPT3](https://www.wikigpt3.com/) - AI Directory
 * [SaaS GPTers](https://saasgpters.com/) - AI Directory
 * [ArtificialStudio](https://www.artificialstudio.ai/tools) - Browser Based AI
-* [RunwayML](https://runwayml.com/) - Browser Based AI
 * [Experiments with Google](https://labs.withgoogle.com/) - AI Experiments
 * [OpenCV](https://opencv.org/) - A.I. Vision Library
 * [free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - AI Learning Resources
@@ -285,6 +285,7 @@
 * [hypnogram](https://hypnogram.xyz/) - AI Image Generator
 * [InstantArt](https://instantart.io/) - AI Image Generator
 * [OpenArt](https://openart.ai/) - AI Image Generator
+* [MindsEye](https://multimodal.art/mindseye) - AI Image Generator
 * [iamfy](https://www.iamfy.co/studio) - AI Image Generator
 * [AI Art Generator](https://neural.love/ai-art-generator) - AI Image Generator
 * [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent) - AI Image Generator
