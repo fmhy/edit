@@ -73,9 +73,10 @@
 * [IEMBot](https://weather.im/iembot/) - Weather Bot Monitor
 * [World Weather Online](https://www.worldweatheronline.com/) - Historical Weather Reports
 * [Cricket Convert](https://www.weather.gov/epz/wxcalc_cricketconvert) - Estimate Temperature via Cricket Chirps
+* [Rain Alarm](https://www.rain-alarm.com/) - Rain Updates / Map
 * [UAVForcast](https://www.uavforecast.com/) - Flying Condition Forecasts
-* [Elevation](https://tikolu.net/elevation/) - Find Current Elevation
 * [BreezoMeter](https://www.breezometer.com/) - Air Quality Reports
+* [Elevation](https://tikolu.net/elevation/) - Find Current Elevation
 * [RTL-SDR](https://gist.github.com/fasiha/c123a9c6b6c78df7597bb45e0fed808f) - DIY FAA & EASA Satellite Feeds / Transponder
 * [Cool Generator](https://www.coolgenerator.com/), [The One Generator](https://theonegenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/), [BestRandoms](https://www.bestrandoms.com/), [Randommer](https://randommer.io/), [GeneratorFun](https://generatorfun.com/), [Springhole](https://www.springhole.net/writing_roleplaying_randomators/index.html), [Wiizard Generator](https://wiizard-generator.neocities.org/), [randomix](https://github.com/m-i-n-a-r/randomix) or [Random Lists](https://www.randomlists.com/) - Random Generators
 * [Score Count](https://scorecount.com/) - Online Sports Scoreboards
@@ -1978,10 +1979,10 @@ Twitch Stream Tracker
 
 ## ▷ Tweaking
 
-* ⭐ **[MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html)**, [XTR Toolbox](https://zeeex.github.io/XTR-Toolbox/) / [GitHub](https://github.com/Zeeex/XTR-Toolbox/), [TweakUtility](https://github.com/Craftplacer/TweakUtility), [MagicX Toolbox](https://github.com/ehsan18t/MagicX-Toolbox), [Sophia](https://github.com/farag2/Sophia-Script-for-Windows), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Post Tweaks](https://github.com/ArtanisInc/Post-Tweaks), [WinSlap](https://github.com/svenmauch/WinSlap) or [Cairo](https://cairoshell.com/) - Windows Tweaking Tools
 * ⭐ **[Redwan's Guide to Guides](https://docs.google.com/document/d/1hZeQkyDe-M9-zNy2eB-Koc3iOpN5-5KxkpvjQaNK60g/)**, [Couleur Tweak Tips](http://discord.gg/CTT), [PC-Tuning](https://github.com/amitxv/PC-Tuning), [Redwan Tweaks](https://discord.gg/4RhQurkFBZ) or [TweakCentral](https://tweakcentral.net/) - Windows Tweaking Guides
 * ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)** / [GitHub](https://github.com/microsoft/PowerToys), [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) / [Suite](https://apps.microsoft.com/store/detail/sysinternals-suite/9P7KNL5RWT25), [CWCodes](http://cwcodes.net/), [Progress Tools](https://www.progress-tools.x10.mx/), [Guru3D](https://www.guru3d.com/files-categories), [JaxCore](https://jaxcore.app/) or [JoeWare](https://www.joeware.net/freetools/index.htm) - System Tools
 * ⭐ **[f.lux](https://justgetflux.com/)**, [LightBulb](https://github.com/Tyrrrz/LightBulb), [ScreenTemperature](https://github.com/massaiTHEdog1/ScreenTemperature) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - Adjust Display Color / Temperature
+* [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [XTR Toolbox](https://zeeex.github.io/XTR-Toolbox/) / [GitHub](https://github.com/Zeeex/XTR-Toolbox/), [TweakUtility](https://github.com/Craftplacer/TweakUtility), [MagicX Toolbox](https://github.com/ehsan18t/MagicX-Toolbox), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Post Tweaks](https://github.com/ArtanisInc/Post-Tweaks), [WinSlap](https://github.com/svenmauch/WinSlap), [QuickBoost](https://github.com/SanGraphic/QuickBoost) or [Cairo](https://cairoshell.com/) - Windows Tweaking Tools / [Warning](https://i.imgur.com/dz0AzIx.png)
 * [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
 * [Win10 Widgets](https://win10widgets.com/), [BeWidgets](https://apps.microsoft.com/store/detail/bewidgets/9NQ07FG50H2Q) or [Eww](https://github.com/elkowar/eww) - Widgets for Windows 
 * [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - Windows 11 Powertoys
