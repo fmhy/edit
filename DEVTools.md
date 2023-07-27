@@ -423,6 +423,7 @@
 * [Locutus](https://github.com/freenet/locutus) - Create Decentralized Site Apps
 * [Screely](https://www.screely.com/) or [Screenshot to Code](https://github.com/emilwallner/Screenshot-to-code) - Generate Site Mockups / Code via Screenshots
 * [GoodBadISPs ](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
+* [Sentora](https://sentora.org/) - Web Hosting Control Panel
 * [Emanote](https://emanote.srid.ca/) - Create Sites from Plain-Text Notes / [GitHub](https://github.com/srid/emanote)
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
 * [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
@@ -665,7 +666,7 @@
 * [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) - Web App UI Creators
 * [OffBase](https://offbase.org/) - Offline Web App Creator
 * [Laravel](https://laravel.com/) or [Lona](https://lona-web.org/1.x/) - Web App Framework
-* [Sandstorm](https://sandstorm.io/) or [CloudRon](https://www.cloudron.io/) - Web App Hosts
+* [Sandstorm](https://sandstorm.io/), [Cosmos](https://cosmos-cloud.io/) or [CloudRon](https://www.cloudron.io/) - Web App Hosts
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
 * [LightHouse](https://github.com/GoogleChrome/lighthouse) - Web App Performance Test
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
@@ -914,7 +915,7 @@
 * [AICommand](https://github.com/keijiro/AICommand) - ChatGPT with Unity Editor
 * [Post-Processing](https://github.com/GarrettGunnell/Post-Processing) - Post Processing Pipeline For Unity
 * [Hekky](https://github.com/hyblocker/hekky-shaders) - Unity Shaders / [Docs](https://docs.hyblocker.dev/en/)
-* [CraftPix](https://craftpix.net/freebies/), [Kenney](https://www.kenney.nl/), [/r/GameAssets](https://www.reddit.com/r/gameassets/), [UnityAssets4Free](https://unityassets4free.com/), [Open Game Art](https://opengameart.org/), [UnityFreaks](https://www.unityfreaks.com/), [GameDevUE](https://t.me/GameDevUE), [SreamGridDB](https://www.steamgriddb.com/) or [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free) - Game Development Assets
+* [CraftPix](https://craftpix.net/freebies/), [Kenney](https://www.kenney.nl/), [/r/GameAssets](https://www.reddit.com/r/gameassets/), [UnityAssets4Free](https://unityassets4free.com/), [Open Game Art](https://opengameart.org/), [UnityFreaks](https://www.unityfreaks.com/), [GameDevUE](https://t.me/GameDevUE), [SreamGridDB](https://www.steamgriddb.com/), [Incern](https://www.incern.org/) or [GameDevAssets](https://www.gamedevmarket.net/category/3d/?type=free) - Game Development Assets
 * [AnyRPG](https://www.anyrpg.org/) - RPG Editor
 * [xonotic](https://github.com/xonotic), [Vanguard](https://github.com/VanguardDev/Vanguard) / [2](https://project-vanguard.netlify.app/index.html) or [Warsow](https://github.com/Warsow) - FPS Game Assets
 * [Pixel Art Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_pixel_art) - Tools to Create Sprites & Pixel Art
