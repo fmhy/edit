@@ -1739,6 +1739,7 @@ Twitch Stream Tracker
 * ⭐ **[Windows Activators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation)** - Windows Activation Guides / Scripts / [Rentry](https://rentry.co/win-activate)
 * ⭐ **[Windows Optimization](https://rentry.co/mdl-optimize-guide)** - Windows Optimization Guide / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat) / [Resources](https://github.com/BoringBoredom/PC-Optimization-Hub), [2](https://github.com/luke-beep/all-about-windows)
 * ⭐ **[Windows Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)** - Windows 10 Debloating Tools
+* ⭐ **[Windows Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)** - Windows Software Sites
 * ⭐ **[Rufus](https://rufus.ie/)**, [AIO Boot](https://www.aioboot.com/), [UUP](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x) / [2](https://uupdump.net/), [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) or [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) - Create Bootable USB Drives
 * ⭐ **[RDP / VNC Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remote_desktop_clients)** - Control Desktop Remotely
 * ⭐ **[AutoHotkey](https://www.autohotkey.com/)**, [MacroRecorder](https://www.macrorecorder.com/), [Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install), [sikulix](http://sikulix.com/), [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) or [AutoIt](https://www.autoitscript.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt) - Task Automation Tools
@@ -2095,26 +2096,18 @@ Twitch Stream Tracker
 * [DropIt](http://www.dropitproject.com/) or [Organize](https://github.com/tfeldmann/organize) - Automated File Manager
 * [What](https://github.com/bee-san/pyWhat) - Text / File Analyzer
 * [WhoLeaked](https://github.com/utkusen/wholeaked) - File Leak Tracker
-* [DownloadTimeCalculator](https://downloadtimecalculator.com/) - Calculate Time to Download Files
 * [Download Proxy](https://download-proxy.zhaofengying.com/) - File Proxy Server Downloader
-* [Files 2 Folder](https://www.dcmembers.com/skwire/download/files-2-folder/) - Create / Copy to Folders Created by File Name
 * [Path Copy Copy](https://pathcopycopy.github.io/) - Copy File Pathes via Context Menu
-* [File-Examples](https://file-examples.com/) - File Examples
-* [RollMyFile](https://rollmyfile.com/) - Open Files Online
+* [File-Examples](https://file-examples.com/) - Dummy File Examples
 * [AList](https://github.com/alist-org/alist) - File Listing Program
 * [unzip-http](https://github.com/saulpw/unzip-http) - Unzip via HTTP Without Downloading
 * [ProtectedZip](https://protectedzip.com/) - Encrypt Zip Files
-* [objectfixzip](https://www.essentialdatatools.com/products/objectfixzip/) - Repair Zip Files
-* [ZipFly](https://github.com/sandes/zipfly) - Zip Archive Generator
 * [WhatsLink](https://whatslink.info/) - View File Download Metadata
 * [Air Live Drive](https://www.airlivedrive.com/en/) - Mount Cloud Drives as Local Disks
 * [SFTPDrive](https://www.nsoftware.com/sftpdrive) - Mount SFTP Servers as Local Disks
-* [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - How-to Safely Archive Files on Cloud Storage Sites
-* [TCPDF](https://tcpdf.org/) / [Git](https://github.com/tecnickcom/tcpdf) - PDF Creator
 * [PDF Host](https://pdfhost.io/) - Upload, Store and Share PDF Files 
-* [PDFx](https://www.metachris.com/pdfx/) or [Tabula](https://tabula.technology/) - Extract Info / URLs from PDF
 * [PDFGrep](https://pdfgrep.org/) - PDF Text Search
-[invert-pdf.club](https://invert-pdf.club/) - Invert PDF Color / [Github](https://github.com/keotl/invert-pdf)
+* [invert-pdf.club](https://invert-pdf.club/) - Invert PDF Color / [Github](https://github.com/keotl/invert-pdf)
 * [invert-pdf.club](https://invert-pdf.club/) - PDF Color Inverter
 * [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
 * [PDFConverter](https://www.pdfconverter.com/) or [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Convters 
@@ -2259,6 +2252,7 @@ Twitch Stream Tracker
 * [infekt](https://infekt.ws/) / [GitHub](https://github.com/syndicodefront/infekt), [nfoview](https://otsaloma.io/nfoview/) / [GitHub](https://github.com/otsaloma/nfoview), [NFOReader](http://www.nforeader.com/) or [NFOmation](https://nfomation.net/) - NFO File Viewers
 * [text2img](https://master.ayra.ch/text2img/) - NFO Files to Image Converter
 * [TrueNAS](https://www.truenas.com/) - Storage System
+* [Cloud Storage Archiving Guide](https://pastebin.com/kLhLHsXg) - How-to Safely Archive Files on Cloud Storage Sites
 * [bookmarkfs](https://github.com/CoolElectronics/bookmarkfs) - Exploit Chrome's Profile Sync for Free Cloud Storage
 * [Linx Server](https://github.com/andreimarcu/linx-server), [SeaFile](https://www.seafile.com/en/home/) or [FileStash](https://www.filestash.app/) - Self-Hosted Cloud Storage / [Fork](https://github.com/ZizzyDizzyMC/linx-server/)
 * [Linux Reader](https://www.diskinternals.com/linux-reader/) - Access Linux Files on Windows
