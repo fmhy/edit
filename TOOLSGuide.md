@@ -41,7 +41,7 @@
 * [How Many Days Since](http://howmanydayssince.net/), [DateTimeCalculator](https://datetimecalculator.net/calculators), [CalcuDater](https://calcudater.com/), [HowLongAgoGo](https://howlongagogo.com/), [Days.to](https://days.to/) or [How Many Days Until](https://howmanydaysuntil.co/) - Time / Date Calculators
 * [e.gg Timer](https://e.ggtimer.com/), [Pomolectron](https://github.com/amitmerchant1990/pomolectron), [Pomodoro Kitty](https://pomodorokitty.com/), [Pomodor](https://pomodor.app/timer), [Hourglass](https://chris.dziemborowicz.com/apps/hourglass/), [Aesthetic Pomodoro](https://studywithme.io/aesthetic-pomodoro-timer/) or [Juicy Timer](https://juicytimer.com/) - Timers
 * [StageTimer](https://stagetimer.io/) - Event Timer
-* [SetAlarmClock](https://setalarmclock.net/) or [AlarmDJ](https://alarmdj.com/) - Online Alarm Clocks
+* [SetAlarmClock](https://setalarmclock.net/), [OnlineClock](https://free-onlineclock.com/) or [AlarmDJ](https://alarmdj.com/) - Online Alarm Clocks
 * [Countdowns](https://www.countdowns.live/) - Create Custom Countdowns
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
 * [Grocy](https://grocy.info/) - Grocery / Household Management Tool
@@ -280,6 +280,7 @@
 * ⭐ **[Media Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_servers)** - Servers to Host / Play Media 
 * ⭐ **[Video Stream Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_stream_sync)** - Video Streaming Sync / Watch Parties
 * ⭐ **[Video Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_editors)** - Video Editing Software & Sites
+* ⭐ **[VFX Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vfx_sites)** - Download Video Effects / [VFX Video Guides](https://www.learnto.day/aftereffects)
 * ⭐ **[Stock Videos](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_video_sites)** - Free Stock Video Footage
 * ⭐ **[Video Hosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_hosting_sites)** - Upload / Stream Videos 
 * ⭐ **[VideoHelp](https://www.videohelp.com/software)** - Video Software Archive 
@@ -293,7 +294,6 @@
 * ⭐ **OBS Tools** - [Virtual Cam](https://obsproject.com/forum/resources/obs-virtualcam.949/) / [Tweaks](http://discord.gg/CTT) / [Effects](https://github.com/Xaymar/obs-StreamFX) / [Phone Controller](https://github.com/Kounex/obs_blade) / [WebRTC Server](https://github.com/GRVYDEV/Project-Lightspeed)
 * ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** - Record, Convert and Stream Videos / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ffmpeg_tools)
 * [VideoTuts](https://videotuts.ru/) - Video Design Tutorials / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
-* [VFX Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vfx_sites) - Download Video Effects / [VFX Video Guides](https://www.learnto.day/aftereffects)
 * [Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers) - Video Codecs and Containers Guide
 * [Free-Codecs](https://www.free-codecs.com/) - Codec Packs & Multimedia Tools
 * [VideoSmaller](https://www.videosmaller.com/), [Compress Video Online](https://compress-video-online.com/), [8mb.video](https://8mb.video/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressors
@@ -379,6 +379,7 @@
 * [LibreSprite](https://libresprite.github.io/), [Pixel Compresor](https://makham.itch.io/pixel-composer), [JPixel](https://emad.itch.io/jpixel) or [SpookyGhost](https://encelo.itch.io/spookyghost) - Pixel Art Animation Tools
 * [Mixamo](https://www.mixamo.com/) or [Cascadeur](https://cascadeur.com/) - 3D Character Animation Tools
 * [MMHuman3D](https://github.com/open-mmlab/mmhuman3d) - 3D Human Model Creator
+* [Talking Face Avatar](https://github.com/saba99/Talking_Face_Avatar) - Talking Avatar Generator
 * [Video Ascii Art](http://www.kickjs.org/example/video_ascii_art/Video_Ascii_Art.html) - Video to Ascii Art
 * [NATRON](https://natrongithub.github.io/) - Compositing Software
 * [Blender Open Movies](https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz) - CGI Assets
@@ -843,7 +844,7 @@
 * [Remote Communication](https://libreplanet.org/wiki/Remote_Communication) - Communication Software Index
 * [Twist](https://twist.com/) - Collaboration Chat Manager
 * [Hack.chat](https://hack.chat/), [Shick](https://shick.me/), [Yap](https://yap.chat/), [Convene](https://letsconvene.im/), [Stinto](https://stin.to/en) or [tik.io](https://tlk.io/) - Minimal Account Free Chats 
-* [Cirlos](https://www.cirlos.net/), [Miranda NG](https://www.miranda-ng.org/en/) or [WeeChat](https://weechat.org/) - Chat App
+* [Cirlos](https://www.cirlos.net/), [Miranda NG](https://www.miranda-ng.org/en/), [Escargot](https://escargot.chat/) or [WeeChat](https://weechat.org/) - Chat Apps
 * [KiwiIRC](https://kiwiirc.com/) or [TheLounge](https://thelounge.chat/) - WebIRC Client
 * [AdiIRC](https://adiirc.com/), [Convos](https://convos.chat/), [PeerLinks](https://peerlinks.io/), [mIRC](https://www.mirc.com/get.html) or [Bitchx](https://bitchx.sourceforge.net/) - IRC Clients
 * [irc2go](https://en.irc2go.com/) - Browse IRC Chat Rooms
@@ -1774,6 +1775,7 @@ Twitch Stream Tracker
 * [BiOSBug](https://www.biosbug.com/) - Remove / Reset BiOS Password / [Tutorial](https://www.youtube.com/watch?v=GolIjI2HS5w)
 * [MSDN Files](https://msdn.rg-adguard.net/), [Microsoft Downloads Dump](https://www.heidoc.net/php/myvsdump.php) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
 * [GetCID](https://www.getcid.info/) - Obtain Windows Confirmation ID
+* [msdn](https://msdn.su/) - Microsoft Product Hashes
 * [HDD Serial Spoofer](https://github.com/namazso/hdd_serial_spoofer) - Spoof HDD Serial Number
 * [How-To Crack Windows Passwords](https://samsclass.info/123/proj14/123p12winhash.htm) 
 * [hashcat](https://hashcat.net/hashcat/) or [BIOS-PW](https://bios-pw.org/) - System Password Recovery Tools
