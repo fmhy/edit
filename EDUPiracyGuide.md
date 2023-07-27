@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/hBYcLp1)** - For mobile users
+**[Table of Contents](https://ibb.co/Sc9qvCk)** - For mobile users
 
 ***
 ***
@@ -316,15 +316,7 @@
 * [Flag Stories](https://flagstories.co/) - Flag Design Breakdowns
 * [The True Size](https://thetruesize.com/) - Compare Country Size
 * [Dollar Street](https://www.gapminder.org/dollar-street) - Compare Homes by Country / Income
-* [JoinUS World](https://www.joinusworld.org/) - Korean Culture Q&A Site
-* [Seeing Theory](https://seeing-theory.brown.edu/) or [Stat Trek](https://stattrek.com/) - Statistics & Probability Tutorials
-* [Awesome Mecheng](https://github.com/m2n037/awesome-mecheng) or [design-data-list](https://github.com/IDEALLab/design-data-list) - Mechanical Engineering Resources
-* [Sanfoundry](https://www.sanfoundry.com/) - Programming & Engineering Questions & Answers
-* [CESDB](https://www.cesdb.com/) - Civil Engineering Software
-* [How a Car Works](https://www.howacarworks.com/) - Car Mechanics / Automotive Engineering Guides
-* [Neptune](https://youtu.be/gTNVxHSemxA) or [ERS3D](http://www.ers3d.com/home/moduleInfo.do?moduleId=11&listId=92) - Marine Engineering Room Simulator
-* [HDLBits](https://hdlbits.01xz.net/) - Learn Circuit Design
-* [FliteTest](https://www.flitetest.com/) - DIY Drone Guides
+* [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Artcyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](http://wolfmanmuseum.org/), [DarkClassics](https://darkclassics.blogspot.com/), [Arts and Culture](https://artsandculture.google.com/), [WGA](https://www.wga.hu/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collections
 * [Traffic Simulation](https://traffic-simulation.de/) - Traffic Flow Simulation
 * [Bridge Command](https://www.bridgecommand.co.uk/) - Bridge Command Ship Simulator
 * [Sectional Anatomy](https://www.sectional-anatomy.org/) - Cross Sectional Educational MRI / CT Scans
@@ -334,13 +326,10 @@
 * [British & Exotic Mineralogy](https://www.c82.net/mineralogy/) or [Mindat](https://www.mindat.org/) - Mineralogy Database
 * [Global Volcanism Program](https://volcano.si.edu/) - Volcano Information Database
 * [8000ers](https://martin-laxenaire.fr/experiments/8000ers/#/everest) or [Mount Everest 3D](https://mount-everest3d.com/) - Mountain Visualizations & Info
-* Comic Lessons - [DNS](https://howdns.works/) / [DNSSEC](https://howdnssec.works/) / [HTTPS](https://howhttps.works/)
-* [NandGame](https://nandgame.com/) - Computer Building Puzzle
 * [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - Learn Wood Working
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
 * [Learn Origami](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_origami) - Origami Examples / Tutorials
-* [vads](https://vads.ac.uk/digital/), [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Art cyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](http://wolfmanmuseum.org/), [Arts and Culture](https://artsandculture.google.com/), [WGA](https://www.wga.hu/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collections
 * [Earth 2050](https://2050.earth/) - Future Predictions
 * [Nuclear Risk Calculator](https://app.hex.tech/399c4a29-5b7f-4f70-8b53-afa8da38dd72/app/def94910-d017-4508-847c-e1189d3b6042/latest) - Calculate Risk of Nuclear War
 * [Economics of The Office](http://economicsoftheoffice.com/) - Learn Economics via The Office
@@ -405,7 +394,6 @@
 * [Desmos](https://www.desmos.com/) - Graphing Calculator
 * [TicCalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
 * [TI-Basic Developer](http://tibasicdev.wikidot.com/) - TI-Basic Info Repository
-* [fxSolver](https://www.fxsolver.com/), [Calculator++](https://f-droid.org/packages/org.solovyev.android.calculator/), [Kalker](https://kalker.xyz/) / [GitHub](https://github.com/PaddiM8/kalker), [Calculatoria](https://www.calculatoria.com/) or [The Engineering ToolBox](https://www.engineeringtoolbox.com/) - Engineering / Scientific Calculators
 * [SciDAVis ](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotter
 * [FreeFEM](https://freefem.org/) - Partial Differential Equations Solver
 * [Approach0](https://approach0.xyz/search/) - Math Formula Search
@@ -427,6 +415,7 @@
 * [All Math Questions](https://www.docdroid.net/YupQ6Pp/khan-academy-all-math-questions-pdf) - Khan Academy Math Questions
 * [Math is Fun](https://www.mathsisfun.com/) - Math Tutorials / Puzzles / Games
 * [Project Euler](https://projecteuler.net/) - Math / Programming Problems
+* [Seeing Theory](https://seeing-theory.brown.edu/) or [Stat Trek](https://stattrek.com/) - Statistics & Probability Tutorials
 * [MathWords](http://www.mathwords.com/) - Math Term Dictionary
 * [arTIfiCE](https://yvantt.github.io/arTIfiCE/) - TI CE Calculator Jailbreak
 * [ASMHook](https://github.com/jacobly0/asmhook) - Add ASM Functionality to TI Calculators
@@ -457,6 +446,24 @@ Simulator
 * [LAMMPS](https://www.lammps.org/) - Molecular Dynamics (MD) Code
 * [avogadro](https://sourceforge.net/projects/avogadro/) - Molecular Editor
 * [Simuwaerm](https://github.com/file-acomplaint/simuwaerm) - Heat Simulator
+
+***
+
+## ▷ Engineering 
+
+* ⭐ **[The Engineering Toolbox](https://www.engineeringtoolbox.com/)** or [EngineersEdge](https://www.engineersedge.com/) - Engineering Tools and Resources
+* ⭐ **[Awesome Mecheng](https://github.com/m2n037/awesome-mecheng)** or [design-data-list](https://github.com/IDEALLab/design-data-list) - Mechanical Engineering Resources
+* ⭐ **[/r/AskEngineers](https://www.reddit.com/r/AskEngineers/)** - Engineering Q&A Sub / [Library](https://www.reddit.com/r/AskEngineers/wiki/library) / [Acronyms](https://www.reddit.com/r/AskEngineers/wiki/acronyms) / [FAQ](https://www.reddit.com/r/AskEngineers/wiki/faq) / [Work Tips](https://www.reddit.com/r/AskEngineers/wiki/workexperience#wiki_work_experience)
+* [/m/engineering](https://www.reddit.com/user/nbatman/m/engineering/) - Engineering Multireddit
+* [/r/engineering](https://www.reddit.com/r/engineering/) or [/r/AutomotiveEngineering](https://www.reddit.com/r/AutomotiveEngineering/) - Engineering Subreddits
+* [fxSolver](https://www.fxsolver.com/), [Calculator++](https://f-droid.org/packages/org.solovyev.android.calculator/), [Kalker](https://kalker.xyz/) / [GitHub](https://github.com/PaddiM8/kalker) or [Calculatoria](https://www.calculatoria.com/) - Engineering Calculators
+* [Sanfoundry](https://www.sanfoundry.com/) - Engineering Questions & Answers
+* [CESDB](https://www.cesdb.com/) - Civil Engineering Software
+* [How a Car Works](https://www.howacarworks.com/) - Car Mechanics / Automotive Engineering Guides
+* [Neptune](https://youtu.be/gTNVxHSemxA) or [ERS3D](http://www.ers3d.com/home/moduleInfo.do?moduleId=11&listId=92) - Marine Engineering Room Simulator
+* [HDLBits](https://hdlbits.01xz.net/) - Learn Circuit Design
+* [FliteTest](https://www.flitetest.com/) - DIY Drone Guides
+* [NandGame](https://nandgame.com/) - Computer Building Puzzle
 
 ***
 
@@ -882,7 +889,6 @@ Simulator
 * [MyAssignmentHelp](https://myassignmenthelp.com/free-tools.php) - Academic Tools
 * [CompSciLib](https://www.compscilib.com/) - Computer Science Tools
 * [nanoHUB](https://nanohub.org/) - Nanotechnology Tools
-* [The Engineering Toolbox](https://www.engineeringtoolbox.com/) - Engineering Tools and Resources
 * [5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk) - Grade School Educational Tools
 * [Brevity500](https://brevity500.com/) - Writing Practice
 * [GradesFixer](https://www.gradesfixer.com/) - Essay Samples
@@ -896,7 +902,6 @@ Simulator
 * [SciGen](https://pdos.csail.mit.edu/archive/scigen/) - CS Paper Generator
 * [pdfparanoia](https://github.com/kanzure/pdfparanoia) - Academic Paper Watermark Removal
 * [FireBird Help](https://discord.gg/Hqk3Sa4FmZ) or [HeroGenerator](https://t.me/HeroGeneratorPure)
-* [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project
 * [ImageJ](https://imagej.net/) or [Fiji](https://fiji.sc/) - Scientific Image Analyzers
 * [Altium](https://www.altium.com/viewer/) - Schematics Visualizer
 * [Wolfram Cloud](https://www.wolframcloud.com/) - Computational intelligence
@@ -936,6 +941,7 @@ Simulator
 * [Deepnote](https://deepnote.com/) - Data Science Notebook
 * [Papertag](https://www.papertag.app/) - Attach Digital Content on Paper
 * [BookStack](https://www.bookstackapp.com/) - Self-Hosted Information Manager
+* [General Index](https://archive.org/details/GeneralIndex) - Article Metadata Mining Project
 * [Graded](https://github.com/NightDreamGames/Graded) - Grades Tracker / Android
 * [Quizlet](https://quizlet.com/) / [Paywall Bypass](https://github.com/rospino74/Quizlet-Bypass)/ [2](https://discord.gg/VuD7WBvXCQ), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872) / [Explanations](https://greasyfork.org/en/scripts/434972), [2](https://greasyfork.org/en/scripts/438663)
 * [Knowt](https://knowt.io/) - Free Quizlet Alternative / AP Study Guides
