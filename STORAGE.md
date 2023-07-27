@@ -1686,8 +1686,12 @@ Add the following commands to a search to manually scrape each site.
 
 #### Office Suites
 
-* ⭐ **[Microsoft Office DL Guides](https://github.com/nbats/FMHYedit/blob/main/base64.md#microsoft-office-dl-guides)** / [Download](https://files.rg-adguard.net/) / [Hot Keys](https://i.ibb.co/0m9t95b/ebacd47bf83b.png) / [Account Creator](https://github.com/adityash4rma/bulk_microsoft_A1_creator)
+* ⭐ **[Microsoft Office](https://massgrave.dev/office_c2r_links.html)**
+* ⭐ **[Custom Microsoft Office](https://massgrave.dev/office_c2r_custom.html)**
+* ⭐ **[Microsoft Office DL Guides](https://github.com/nbats/FMHYedit/blob/main/base64.md#microsoft-office-dl-guides)** / 
 * [Activation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation) - Activate Microsoft Office
+* [MS Office Hot Keys](https://i.ibb.co/0m9t95b/ebacd47bf83b.png)
+* [MS Office Account Creator](https://github.com/adityash4rma/bulk_microsoft_A1_creator)
 * [LibreOffice](https://www.libreoffice.org/)
 * [FreeOffice](https://www.freeoffice.com/en/)
 * [Office Tool Plus](https://otp.landian.vip/en-us/)
@@ -3209,16 +3213,16 @@ Add the following commands to a search to manually scrape each site.
 
 #### Windows Activation
 
-* ⭐ **[Windows 10 Activation Guide](https://rentry.co/ActivateWin10)**, [2](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation) / [Discord](https://discord.gg/nWWfBMtBSk)
-* ⭐ **[Microsoft-Activation-Script](https://github.com/massgravel/Microsoft-Activation-Scripts/)**
+* ⭐ **[MAS](https://massgrave.dev/)** / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/) / [Discord](https://discord.gg/gjJEfq7ux8)
 * ⭐ **[KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
+* [Windows 10 Activation Guide](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation)
 * [KMS VL ALL](https://github.com/kkkgo/KMS_VL_ALL)
 * [hwid.kms38.gen.mk6](https://web.archive.org/web/20210328020828/https://www.saidit.net/s/sjain_guides) / [2](https://archive.md/8pdfC)
 * [MyDigitalLife](https://forums.mydigitallife.net/)
 * [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition)
 * [HEU_KMS](https://github.com/zbezj/HEU_KMS_Activator)
 * [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC) (Vista/7/Server 2008)
-* [Office Activation Fix](https://web.archive.org/web/20211014003224/https://windowsaddict.ml/office-license-is-not-genuine)
+* [Office Activation Fix](https://massgrave.dev/office-license-is-not-genuine.html)
 
 ***
 
@@ -3264,14 +3268,12 @@ Add the following commands to a search to manually scrape each site.
 **Untouched ISOs**
 
 * ⭐ **[rgadguard files](https://files.rg-adguard.net/)** / [Forum](https://forum.rg-adguard.net/)
-* ⭐ **[MAS Index](https://massgrave.dev/genuine-installation-media.html)** / [Discord](https://discord.gg/gjJEfq7ux8) / [MSDL](https://massgrave.dev/msdl/) / [WindowsAddict Archive](https://web.archive.org/web/20220301153730/https://windowsaddict.ml/readme-genuine-installation-media.html) / [Pastebin Archive](https://web.archive.org/web/20211231221536/https://pastebin.com/raw/jduBSazJ)
+* ⭐ **[MAS Index](https://massgrave.dev/genuine-installation-media.html)** / [Discord](https://discord.gg/gjJEfq7ux8) / [MSDL](https://massgrave.dev/msdl/)
 * ⭐ **[Bob Pony](https://bobpony.com/downloads/)**
 * ⭐ **[Windows 10 LTSC](https://aopc.dev/t/windows-10-ltsc-the-best-windows-10-version-ever.845/)**
 * [Windows ISO Google Doc](https://docs.google.com/spreadsheets/d/1zTF5uRJKfZ3ziLxAZHh47kF85ja34_OFB5C5bVSPumk/)
 * [VLSC](http://vlsc.ksu.ac.th/)
 * [Microsoft](https://www.microsoft.com/en-us/software-download/)
-* [jerryching](http://jerryching.spdns.de/Software/ISO%20Backup/)
-* [ISO GDrive](https://docs.google.com/spreadsheets/d/e/2PACX-1vSScnE8yYzjgTlMiTpoGZ4VwDKHDanTld2_BXXliZg_nTyVVJq0ppvDJHiRFuMEoAO9UKHZqCG2o97T/pubhtml#)
 * [Fido](https://github.com/pbatard/Fido) - Powershell Script
 * [OldSchoolOS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISO's
 * [MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Media Creation Tool Wrapper
