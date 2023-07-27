@@ -51,11 +51,13 @@
 * [123Moviesd](https://123moviesd.com/) - Movies / TV / 1080p
 * [OnionPlay](https://onionplay.se/) - Movies / TV / 1080p / [Mirrors](https://onionplay.network/)
 * [HollyMovieHD](https://hollymoviehd.cc/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime / 720p
+* [Supernova](https://supernova.to/) - Movies / TV / Anime / 720p
 * [MovieSee](https://moviesee.live/) - Movies / TV / 720p
 * [eSubMovies](https://www.esubmovie.com/) - Movies / 720p
 * [MoviesLair](https://movielair.cc/) - Movies / TV / 720p
 * [WatchSeries](https://watchseries.cyou/) - Movies / TV / 720p
 * [SlideMovies](https://slidemovies.org/) - Movies / TV / Anime / 720p
+* [MovieUniverse](https://movieuniverse.se/) - Movies / TV / Anime / 720p
 * [ConTV](https://www.contv.com/) - Movies / 720p
 * [Afdah](https://afdah2.com/) - Movies / 720p
 * [FFilmClub](https://filmsclub.org/) - Movies / TV / 720p
@@ -236,7 +238,7 @@
 * [Prelinger Archives](http://www.panix.com/~footage/) - Ephemeral Films [Archive](https://archive.org/details/prelinger)
 * [StageDork](http://stagedork.com/), [/r/MusicalBootlegs](https://www.reddit.com/r/MusicalBootlegs) or ["Slime Tutorials"](https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc) - Broadway Show Recordings
 * [GlobalShakespeares](https://globalshakespeares.mit.edu/) - Shakespeare Performance Recordings
-* [SidePlusLeaks](https://sideplusleaks.com/) or [FreeSidePlus](https://freesideplus.com/) - Sidemen Content  / [App](https://pixeldrain.com/u/PodC9xL2)
+* [SidePlusLeaks](https://sideplusleaks.com/), [Titan The Pirate](https://titan-the-pirate.com/) or [FreeSidePlus](https://freesideplus.com/) - Sidemen Content
 * [Unus Annus](https://archive.org/details/unus-annus) - Unus Annus Archive
 * [Daily Commercials](https://dailycommercials.com/) - Commercial Archive
 * [Yuzu4K Japanese Commercials](https://archive.org/details/jpcm_yuzu4k) - Japanese Commercial Archive
@@ -440,7 +442,7 @@
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [s365](https://www.s365.live/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
-* [VIP League](https://vipleague.im/) - Sports
+* [VIP League](https://vipleague.im/), [2](https://www.vipleague.st/) - Sports
 * [WeakStream](https://weakstream.org/) -
 * [720pStream](http://hdtv.720pstream.me/) - Sports
 * [FreeStreams](https://tv.freestreams-live1.tv/) - Sports / [Discord](https://discord.com/invite/eXXJzDPchU)
@@ -755,6 +757,7 @@
 * [CinemaZ](https://cinemaz.to/auth/register) - Rare Movies / TV / Open Registrations
 * [JapaneseTorrents](https://japanesetorrents.wordpress.com/) - Asian Drama
 * [AvistaZ](https://avistaz.to/auth/register) - Asian Drama / TV / Open Registrations
+* [TV-Nihon](https://tracker.tvnihon.com/) - Japanese Commercial Archive
 * [XtremeWrestlingTorrents](http://xtremewrestlingtorrents.net/) - Wrestling Private Tracker / Open Registrations
 * [IMDb Link em All](https://greasyfork.org/en/scripts/17154-imdb-link-em-all), [IMDb Scout](https://greasyfork.org/en/scripts/3967-imdb-scout), [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod), [IMDb Torrent Search](https://github.com/Crecket/imdb-torrent-search) or [TMDB-Torrent-Movie-Database](https://github.com/singhkumarpratik/TMDB-Torrent-Movie-Database) - Torrent Site Results on IMDb
 * [srrextra](https://github.com/srrDB/srrextra) - Scene Release Tracker on IMDb
