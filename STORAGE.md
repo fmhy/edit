@@ -3213,9 +3213,8 @@ Add the following commands to a search to manually scrape each site.
 
 #### Windows Activation
 
-* ⭐ **[MAS](https://massgrave.dev/)** / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/) / [Discord](https://discord.gg/gjJEfq7ux8)
+* ⭐ **[MAS](https://massgrave.dev/#Method_1_-_PowerShell)** / [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/) / [Discord](https://discord.gg/gjJEfq7ux8)
 * ⭐ **[KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
-* [Windows 10 Activation Guide](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation)
 * [KMS VL ALL](https://github.com/kkkgo/KMS_VL_ALL)
 * [hwid.kms38.gen.mk6](https://web.archive.org/web/20210328020828/https://www.saidit.net/s/sjain_guides) / [2](https://archive.md/8pdfC)
 * [MyDigitalLife](https://forums.mydigitallife.net/)
