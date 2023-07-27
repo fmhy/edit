@@ -29,12 +29,14 @@
 * [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) or [Awesome-GPT4](https://gpt4.tools/) or  - ChatGPT Resources
 * [bing-chat](https://github.com/transitive-bullshit/bing-chat) or [Bing Chat for All Browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
 * [Feyn](https://www.feyn.ai/) - GPT-4 Q&A AI
-* [NoowAI](https://noowai.com/) - Q&A AI
 * [Ora](https://ora.ai/) - GPT-3.5 Based Chatbots
 * [Forefront](https://chat.forefront.ai/) - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/Wbc5cPPYSs)
 * [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain) - GPT-3.5 Based AI
+* [Teach Anything](https://www.teach-anything.com/) - GPT-3.5 Q&A AI
 * [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT-3 Based Chatbot
 * [JackChat](https://www.jackchat.ai/) - GPT-3 Based Chatbot
+* [iAsk](https://iask.ai/) - GPT-3 Q&A AI
+* [NoowAI](https://noowai.com/) - Q&A AI
 * [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Autonomous GPT-4 / [GUI](https://github.com/thecookingsenpai/autogpt-gui)
 * [MiniAGI](https://github.com/muellerberndt/mini-agi) - Autonomous GPT-3.5 / GPT-4
 * [Janitor AI](https://www.janitorai.com/) - Roleplaying Chatbots / [Discord](https://discord.com/invite/janitorai)
