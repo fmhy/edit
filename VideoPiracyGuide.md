@@ -721,7 +721,7 @@
 * ⭐ **[Sonarr](https://sonarr.tv/)** / [GitHub](https://github.com/Sonarr/Sonarr), [SickGear](https://github.com/SickGear/SickGear), [SiCKRAGE](https://github.com/SiCKRAGE/SiCKRAGE), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - Autodownload TV Torrents / [Guide](https://wiki.servarr.com/)
 * ⭐ **[Autodownload Tools](https://redd.it/hbwnb2)** - List of Torrent Autodownload Tools
 * [Powder](https://powder.media/) - Torrent Streaming App
-* [Ace Stream](https://acestream.org/) - Torrent Streaming App / [Live Search](https://acestreamsearch.net/en/), [2](https://acestreamid.com/), [3](https://hackmd.io/@DEPORTES/AP-ID#EUR--RU--NA--SA---TV) / [Modded APK](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-acestream-apk)
+* [Ace Stream](https://acestream.org/) - Torrent Streaming App / [Live Search](https://acestreamsearch.net/en/), [2](https://acestreamid.com/), [3](https://hackmd.io/@DEPORTES/AP-ID#EUR--RU--NA--SA---TV) / [Modded APK](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-acestream-apk) / [Docker Image](https://github.com/magnetikonline/docker-acestream-server) / [Mpv Script](https://github.com/Digitalone1/mpv-acestream)
 * [WebTorrent](https://webtorrent.io/) - Torrent Streaming App
 * [PopcornTime](http://popcorn-time.ga/) / [2](https://github.com/popcorn-official/popcorn-desktop) -  Torrent Streaming App
 * [NotFlix](https://github.com/Bugswriter/notflix) - Torrent Streaming Script
