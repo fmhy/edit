@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/3sZY8kW)** - For mobile users
+**[Table of Contents](https://ibb.co/sJk2bJs)** - For mobile users
 
 ***
 ***
@@ -211,6 +211,7 @@
 * [Image2Paragraph](https://github.com/showlab/Image2Paragraph) - Image to Descriptive Paragraph
 * [RoastMe](https://roastme.aleem.tv/) - Outfit Roasting AI
 * [Auto Text Expander](https://pastebin.com/TFPRieVN) - Shortcuts to Expand & Replace Text as you Type
+* [HideGPT](https://hidegpt.app/) - Mask AI Written Text
 
 ***
 
@@ -227,22 +228,6 @@
 ***
 
 ## ▷ [Plagiarism Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection)
-
-***
-
-## ▷ AI Text Detection
-
-* [Hive Moderation](https://hivemoderation.com/ai-generated-content-detection)
-* [GLTR](http://gltr.io/dist/index.html)
-* [ZeroGPT](https://www.zerogpt.com/)
-* [ZeroGPTDetector](https://www.zerogptdetector.com/)
-* [AICheatCheck](https://demo.aicheatcheck.com/)
-* [DetectGPT](https://detectgpt.com/)
-* [chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)
-* [ai-content-detector](https://contentatscale.ai/ai-content-detector/)
-* [Corrector App](https://corrector.app/ai-content-detector/)
-* [openai-detector](https://openai-openai-detector--lvcsj.hf.space/) - Detect GPT-2 Text
-* [HideGPT](https://hidegpt.app/) - Mask AI Written Text
 
 ***
 ***
