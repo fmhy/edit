@@ -377,6 +377,7 @@
 * [PaintUp](http://technohippy.github.io/teddyjs/) - Make 2D Art Into 3D
 * [MyMiniFactory](https://www.myminifactory.com/) - Mini 3D Printer Models
 * [Embossify](https://www.embossify.com/) - Turn Images into 3D Printer Models
+* [CosplayStaticFigure](https://t.me/CosplayStaticFigure) - Cosplay / Figurine 3D Models
 * [3DBrute](https://3dbrute.com/), [3DZip](https://3dzip.org/) or [DesignConnected](https://www.designconnected.com/) - 3D Furniture Models
 * [Halloween.WannaThis](https://halloween.wannathis.one/) - 3D Halloween Models
 * [x6ud](https://x6ud.github.io/#/) - 3D Animal Skull Models
