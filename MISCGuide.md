@@ -129,7 +129,6 @@
 * [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-Claim Free Epic, Amazon, and GOG Games
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) or [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Auto-Claim Free Epic Games
 * [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [SteamGifts](https://www.steamgifts.com/) / [Auto Join](https://chrome.google.com/webstore/detail/autojoin-for-steamgifts/bchhlccjhoedhhegglilngpbnldfcidc?hl=en), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - Steam Games
-* [Games Free Today](https://gamesfree.today/) - Games
 * [FreeGames.codes](https://freegames.codes/) - Games / [Android](http://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes)
 * [IndieGala](https://freebies.indiegala.com/) - Games
 * [/r/freegames](https://www.reddit.com/r/freegames/) - Games
@@ -146,23 +145,17 @@
 * [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - APKs
 * [AppsFree](https://play.google.com/store/apps/details?id=com.appsfree.android) - APKs
 * [InstlApp](https://apps.apple.com/us/app/instlapp/id1502777382) - APKs
-* [PlaystoreSales](https://www.playstoresales.com/apps/free-apps/) - APKs
 * [AppSumo Freebies](https://appsumo.com/tools/freebies/) - Apps
-* [spamverse](https://t.me/spamverse) or [FreemiumBox](https://t.me/freemiumbox) - Giveaways and Freebies
-* [AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) - Products / Services
+* [FreemiumBox](https://t.me/freemiumbox) - Giveaways and Freebies
 * [FreeCycle](https://www.freecycle.org/) - People Giving Away Free Stuff
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
-* [Rivetedlit](https://rivetedlit.com/) - Books
 * [Dolly Parton’s Imagination Library](https://imaginationlibrary.com/) - Book Gifting Program (For Children)
 * [FreeSteamOffers_Bot](https://t.me/FreeSteamOffers_Bot/) - Telegram
 * [/r/FREE](https://reddit.com/r/FREE/)
 * [/r/eFreebies](https://reddit.com/r/eFreebies)
 * [/r/FreeGameFindings](https://reddit.com/r/FreeGameFindings) 
 * [/r/udemyfreebies](https://reddit.com/r/udemyfreebies) 
-* [/r/FREECoursesEveryday](https://reddit.com/r/FREECoursesEveryday) 
 * [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS)  
-* [/r/bookdownloads](https://reddit.com/r/bookdownloads/)
-* [/r/KindleFreebies](https://reddit.com/r/KindleFreebies/)
 * [/r/Freegamestuff](https://reddit.com/r/Freegamestuff)
 
 ***
