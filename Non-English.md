@@ -1126,92 +1126,90 @@
 
 * ⭐ **[Guia de Pirataria para Iniciantes](https://rentry.org/PiracyBG-PTBR)** - Portuguese Beginners Guide to Piracy
 * ⭐ **[Portuguese Piracy Sites](https://rentry.org/PortuguesePiracySites)** - Portuguese Piracy Sites
-* [Invetexto](https://www.invertexto.com/) - Multiple Online Tools
-* [SAPO](https://www.sapo.pt/) - Search
-* [LegendaOfficial](http://legendaoficial.net/), [LegendasDivx](https://www.legendasdivx.pt/), [Legendas.tv](http://legendas.tv/), [Legendas](https://legendas.co/), [Legendei](https://legendei.top/), [Legendas.dev](https://legendas.net/) or [Leganda-Zone](https://www.legendas-zone.org/) - Subtitles
-* [legendasbrasil](https://legendasbrasil.org/) - Subtitle Search App
-* [MD Saude](https://www.mdsaude.com/) or [Tua Saude](https://www.tuasaude.com/) - Health News
-* [Dieta Emagrece](https://dietaemagrece.com.br/) or [Beleza e Saude](https://belezaesaude.com/) - Health
+* [Invertexto](https://www.invertexto.com) - Multiple Online Tools
+* [SAPO](https://www.sapo.pt) - Search
+* [Legenda Oficial](http://legendaoficial.net), [LegendasDivx](https://www.legendasdivx.pt), [Legendas.TV](http://legendas.tv), [Legendas](https://legendas.co), [Legendei](https://legendei.top), [Legendas.net](https://legendas.net) or [Legendas Zone](https://www.legendas-zone.org) - Subtitles
+* [Legendas Brasil](https://legendasbrasil.org) - Subtitle Search App
+* [MD.Saúde](https://www.mdsaude.com) or [Tua Saúde](https://www.tuasaude.com) - Health News
+* [Dieta Emagrece](https://dietaemagrece.com.br) or [Beleza e Saúde](https://belezaesaude.com) - Health
 * [NONIOBlocker](https://github.com/DevTiagoCruz/NONIOBlocker) - News Site Adblocker
 * [Educa Mais Brasil](https://www.educamaisbrasil.com.br/enem/guia-enem) - ENEM Study Material
-* [Universia](https://www.universia.net/) - Portuguese University Search
+* [Universia](https://www.universia.net) - Portuguese University Search
 * [Flutterando](https://github.com/Flutterando/roadmap) - Flutter Guides
-* [Uol](https://escolakids.uol.com.br/) - Kids Learning
+* [Escola Kids](https://escolakids.uol.com.br) - Kids Learning
 * [Portuguese Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_browser_games)
-* [Atari2600](http://www.atari2600.com.br/) - Browser Emulator
-* [Racha Cuca](https://rachacuca.com.br/) - Puzzles / Trivia
-* [plagiarisma](http://plagiarisma.net/pt/) - Plagiarism Checker
-* [nomesdefantasia](https://www.nomesdefantasia.com/) - Fantasy Name Generator
-* [CatalogoApp](https://catalogoapp.mobi/) - Portuguese Product Catalog
-* [dicionariompb](https://dicionariompb.com.br/) - Top Song Charts
-* [Jogorama](https://jogorama.com.br/) - Game Index / Tips
-* [Arquivo.pt](https://arquivo.pt/) - History / Sociology / Linguistics Archives
+* [Atari2600](https://www.atari2600.com.br) - Browser Emulator
+* [Racha Cuca](https://rachacuca.com.br) - Puzzles / Trivia
+* [Plagiarisma](https://plagiarisma.net/pt/) - Plagiarism Checker
+* [Gerador de Nomes de Fantasia](https://www.nomesdefantasia.com) - Fantasy Name Generator
+* [CatálogoApp](https://catalogoapp.mobi) - Portuguese Product Catalog
+* [Dicionário MPB](https://dicionariompb.com.br) - Top Song Charts
+* [Jogorama](https://jogorama.com.br) - Game Index / Tips
+* [Arquivo.pt](https://arquivo.pt) - History / Sociology / Linguistics Archives
 
 ## ▷ Downloading
 
-* [Brazil Drive](https://discord.gg/5Bmu7AsEEN) - Video / Audio / Software / Games / Books / Anime
-* [ReidOSTorrents](https://reidostorrents.com/) - Video / Audio / Software / Games / Books
-* [Os Reformados](http://osreformados.com/) - Video / Audio / Magazines
-* [baixarseriesmp4](https://baixarseriesmp4.xyz/) - Movies / TV / Anime
-* [animestotais](https://www.animestotais.xyz/) - Movies / TV / Anime
-* [Anipakku](https://anipakku.blogspot.com/) - Anime / [Discord](https://discord.com/invite/Whu6RV9Gad)
+* [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Software / Games / Books
+* [Os Reformados](https://osreformados.com) - Video / Audio / Magazines
+* [Baixar Séries MP4](https://baixarseriesmp4.eu) - Movies / TV / Anime
+* [Animes Totais](https://www.animestotais.xyz) - Movies / TV / Anime
+* [Anipakku](https://anipakku.blogspot.com) - Anime / [Discord](https://discord.com/invite/Whu6RV9Gad)
 * [Series Empire](https://seriesempire.com/) - TV
-* [BiaxarSomGospel](https://www.baixarsomgospel.org/) - Gospel Music
-* [Gendou](http://gendou.com/) - Anime OSTs
-* [baixarvideo](https://baixarvideo.com.br/) - Portuguese Video Downloader
-* [OnlineCursoGatuitos](https://onlinecursosgratuitos.com/) - Courses
-* [escolaeducacao](https://escolaeducacao.com.br/estude-gratis/) - Courses
-* [wreducacional](https://www.wreducacional.com.br/) - Courses
-* [Mundo Ubuntu](https://www.mundoubuntu.com.br/) - Courses
+* [Baixar SOM Gospel](https://www.baixarsomgospel.org) - Gospel Music
+* [Gendou](http://gendou.com) - Anime OSTs
+* [Baixar Vídeo](https://baixarvideo.com.br) - Portuguese Video Downloader
+* [Online Cursos Gatuitos](https://onlinecursosgratuitos.com) - Courses
+* [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
+* [WR Educacional](https://www.wreducacional.com.br) - Courses
+* [Mundo Ubuntu](https://www.mundoubuntu.com.br) - Courses
 
 ## ▷ Torrenting
 
-* [ReidOSTorrents](https://reidostorrents.com/) - Video / Audio / Software / Games / Books
-* [Legende](https://legendei.net/) - Movies / TV
-* [MegaTorrents](https://megatorrents.co/) - Movies / TV
-* [TugaFlix]( https://tugaflix.best/) - Movies / TV
-* [SuperFlix](https://superflix.ac/) - Movies / TV
-* [torrentdosfilmes](https://torrentdosfilmes.se/) - Movies / TV
-* [Legandas](https://www.legendas.co/) - Movies / TV
-* [Comando](https://comando.la/) - Movies / TV
-* [DownFilmes](https://downfilmes.org/) - Movies
-* [FilmesMega](https://filmesmega.co/) - Movies
-* [FilmesPicos](http://www.filmesepicos.com/) - Movies
-* [TopDezFilmes](https://topdezfilmes.de/) - Movies
-* [Downloadcult](http://downloadcult.org/) - "Cult" Movies
-* [Anirrent](https://anirrent.fansubs.com.br/) - Anime
-* [Keroseed](https://www.keroseed.com/) - Anime
-* [AnskTracker](https://www.ansktracker.net/) - Anime WebIRC Tracker
-* [SuaMusica](https://www.suamusica.com.br/) - MP3
-* [Download Cursos](https://downloadcursos.top/) - Courses
-* [timaterial](https://timaterial.blogspot.com/) - Courses
+* [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Software / Games / Books
+* [Legendei](https://legendei.net/) - Movies / TV
+* [Mega Torrents](https://megatorrents.co) - Movies / TV
+* [tugaflix]( https://tugaflix.best) - Movies / TV / Use Adblock
+* [Torrent dos Filmes](https://torrentdosfilmes.se) - Movies / TV
+* [Legendas](https://www.legendas.co) - Movies / TV
+* [Comando](https://comando.la) - Movies / TV
+* [DownFilmes](https://downfilmes.org) - Movies
+* [Filmes Mega](https://filmesmega.co) - Movies
+* [Filmes Épicos](http://www.filmesepicos.com) - Movies
+* [Top Dez Filmes](https://topdezfilmes.de) - Movies
+* [Download Cult](http://downloadcult.org) - "Cult" Movies
+* [Anirrent](https://anirrent.fansubs.com.br) - Anime
+* [Keroseed](https://www.keroseed.com) - Anime
+* [Anime No Sekai](https://www.ansktracker.net) - Anime WebIRC Tracker
+* [Sua Música](https://www.suamusica.com.br) - MP3
+* [Download Cursos Grátis](https://downloadcursos.top) - Courses
+* [Livros e Cursos Downloada](https://timaterial.blogspot.com) - Courses
 
 ## ▷ Streaming
 
-* [WarezCDN](https://warezcdn.com/) - Movies / TV / Anime / API
-* [Os Teus Filmes Tuga](https://osteusfilmestuga.fun/) - Movies / TV / Anime / Cartoons
-* [Tugaflix](https://tugaflix.best/) Movies / TV / Use Adblock
-* [Bombozila](https://bombozila.com/) - Movies / TV
-* [LibreFlix](https://libreflix.org/) - Movies / TV
-* [Vizer.tv](https://vizer.tv/) - Movies/ TV / Anime
-* [GoFilmes](https://gofilmes.me/hd/) - Movies / TV
-* [supertela](https://supertela.co/) - Movies / TV / Anime
-* [NetMovies](http://www.netmovies.com.br/) - Movies / TV
-* [querofilmehd](https://www.querofilmeshd.ac/) - Movies / TV
+* [WarezCDN](https://warezcdn.com) - Movies / TV / Anime / API
+* [Os Teus Filmes Tuga](https://osteusfilmestuga.fun) - Movies / TV / Anime / Cartoons
+* [tugaflix](https://tugaflix.best) Movies / TV / Use Adblock
+* [Bombozila](https://bombozila.com) - Movies / TV
+* [Libreflix](https://libreflix.org) - Movies / TV
+* [Vizer](https://vizer.tv) - Movies / TV / Anime
+* [GoFilmes](https://gofilmes.me/m/) - Movies / TV
+* [SuperTela](https://supertela.gripe) - Movies / TV / Anime
+* [NetMovies](https://www.netmovies.com.br) - Movies / TV
+* [Quero Filmes HD](https://querofilmeshd.top/) - Movies / TV
 * [TopFlix](https://topflix.vc) - Movies / TV / Requires Login
-* [AnimeFire](https://animefire.net/) - Anime
-* [animeszone](https://animeszone.net/) - Anime
-* [NewZect](https://newzect.com/) - Asian Drama
-* [99 Media](https://www.99.media/pt/) - Documentaries
-* [verfutebol](https://verfutebol.net/) - Live Sports
-* [OLHosnaTV](http://www.olhosnatv.com.br/) - Live TV / Sports
-* [Aovivo](https://aovivo.pro/tv/) - Live TV / Sports
-* [MegaCanais](https://megacanais.com/) - Live TV / Sports
-* [CXTV](https://www.cxtv.com.br/) - Live TV
-* [TVGazeta](https://www.tvgazeta.com.br/aovivo/) - Live TV
-* [cultura](https://cultura.uol.com.br/aovivo/) - Live TV
-* [IPTVBrasil](https://iptvbrasilapk.com/) or [CanalOnline](https://play.google.com/store/apps/details?id=dev.devmatrixcode.canalonline) - IPTV Player
-* [Documentarios ](http://www.documentarios.blog.br/) - Documentaries
+* [AnimeFire](https://animefire.net) - Anime
+* [Animes Zone](https://animeszone.net) - Anime
+* [NewZect](https://newzect.com) - Asian Drama
+* [99](https://www.99.media/pt/) - Documentaries
+* [Ver Futebol TV](https://verfutebol.online) - Live Sports
+* [Olhos na TV](https://www.olhosnatv.com.br) - Live TV / Sports
+* [Assistir TV Online Grátis](https://aovivo.pro/onde/) - Live TV / Sports
+* [Mega Canais](https://megacanais.com/aovivo/) - Live TV / Sports
+* [CXTv](https://www.cxtv.com.br) - Live TV
+* [TV Gazeta](https://www.tvgazeta.com.br/aovivo/) - Live TV
+* [TV Cultura](https://cultura.uol.com.br/aovivo/) - Live TV
+* [IPTV Brasil](https://iptvbrasilapk.com) or [CanalOnline](https://play.google.com/store/apps/details?id=dev.devmatrixcode.canalonline) - IPTV Player
+* [Manic Documentários](http://www.documentarios.blog.br) - Documentaries
 * [CursoemVideo](https://www.cursoemvideo.com/) - Courses
 * [Kultivi](https://app.kultivi.com/) - Courses
 * [PrimeCursos](https://www.primecursos.com.br/) - Courses
@@ -1327,7 +1325,7 @@
 * [NomesBiblicos](https://www.nomesbiblicos.com/) - Biblical Name History
 * [estudos-biblicos](http://estudos-biblicos.net/), [2](https://estudos-biblicos.blogspot.com/) - Bible Studies
 * [apologeta](https://www.apologeta.com.br/) - Bible Commentary
-* [Biblia](https://biblia.com.br/) or [iguga](https://www.iguga.org/) - Biblical Dictionary
+* [Biblia](https://biblia.com.b) or [iguga](https://www.iguga.org) - Biblical Dictionary
 * [Portuguese Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_recipes)
 
 ***
