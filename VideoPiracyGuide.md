@@ -948,8 +948,6 @@
 * [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - Plex Subtitles
 * [Adjust Subs Like a Pro](https://graph.org/Adjust-subtitles-in-seconds-like-a-pro-07-17) - Subtitle Syncing Guide
 * [Subshifter](https://subshifter.bitsnbites.eu/), [subsync](https://github.com/sc0ty/subsync), [ffsubsync](https://github.com/smacke/ffsubsync), [autosubsync-mpv](https://github.com/joaquintorres/autosubsync-mpv), [Alass](https://github.com/kaegi/alass), [autosubsync](https://github.com/oseiskar/autosubsync) or [subslider.js](https://github.com/micheleb/subslider.js) / [2](https://micheleb.github.io/subslider.js/) - Sync Subtitles 
-* [SubtitleDLbot](https://t.me/SubtitleDLbot) or [subtitle_dl_bot](https://t.me/subtitle_dl_bot) - Telegram Subtitles Bot 
-* [MuxedBot](https://t.me/MuxedBot) - Merge Subtitles / Telegram
 * [vlsub](https://github.com/exebetche/vlsub) - VLC Subtitle Download
 * [SRT2PRXML](https://srt2prxml.chdo.xyz/) - SRT to Premiere Pro XML Converter
 * [asstosrt-wasm](https://sorz.github.io/asstosrt-wasm/) - ASS / SSA to SRT Subtitles Converter
