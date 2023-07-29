@@ -225,7 +225,7 @@
 # ► Food
 
 * ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Whisk](https://whisk.com/) or [Spoonacular](https://spoonacular.com/food-api) - Recipe Managers
-* ⭐ **[ChefDroyd](https://chefdroyd.com/)**, [BabaSelo](https://www.babaselo.com/), [LetsFoodie](https://letsfoodie.com/ai-recipe-generator/) or [ChefGPT](https://www.chefgpt.xyz/) - AI Recipe Generators
+* ⭐ **[ChefDroyd](https://chefdroyd.com/)**, [BabaSelo](https://www.babaselo.com/), [LetsFoodie](https://letsfoodie.com/ai-recipe-generator/), [RecipeRobot](https://reciperobot.ai/) or [ChefGPT](https://www.chefgpt.xyz/) - AI Recipe Generators
 * ⭐ **[Grocy](https://grocy.info/)** / [Android](https://github.com/patzly/grocy-android) or [Kitchen Owl](https://f-droid.org/en/packages/com.tombursch.kitchenowl/) - Grocery Managers
 * ⭐ **[Superbetize](http://superbetize.com/)** - Auto-Categorize Grocery List
 * ⭐ **[Just the Recipe](https://www.justtherecipe.com/)**, [Copy Me That](https://www.copymethat.com/), [PlainOldRecipe](https://www.plainoldrecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - Extract Ingredients from Recipe Pages
@@ -238,11 +238,12 @@
 * ⭐ **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
 * ⭐ **[HackTheMenu](http://hackthemenu.com/)** - Fast Food Secret Menu Items
 * ⭐ **[McBroken](https://mcbroken.com/)** - Check if McDonalds Ice Cream Machines are Broken
+* [Recipe Templates](https://wasabee.app/recipe-templates) - Recipe Card Generator
 * [cookEbooks](http://cookebooks.info/) - Cookbooks
 * [DMC Cookbooks](https://archive.lib.msu.edu/DMC/cookbooks/) - Cookbooks
 * [Cook Bookshelf](https://t.me/cook_bookshelf) - Cookbooks / Telegram
 * [Southern Cookbook](https://archive.org/details/southerncookbook00lustrich/) - Cookbook Southern
-* [Search-22](https://search-22.com/recipe-search-tools) - Multi-Site Recipe Search
+* [Search-22](https://search-22.com/recipe-search-tools) or [Recipea](https://recipea.co/) - Multi-Site Recipe Search
 * [SuperCook](https://www.supercook.com/) - Recipe Search
 * [MyFridgeFood](https://www.myfridgefood.com/) - Recipe Search
 * [Epicurious](https://www.epicurious.com/) - Recipe Search
@@ -525,6 +526,7 @@
 * [Historic Borders](https://historicborders.app/) - Historic Borders Map
 * [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US Historical Maps
 * [Ancestry Images](http://www.ancestryimages.com/) or [Pastvu](https://pastvu.com/) - Historical Photo & Map Archive
+* [Imperium](https://imperium.ahlfeldt.se/) - Roman Empire Map / Atlas
 * [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
 * [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
 * [Color Brewer](https://colorbrewer2.org/) - Cartography Color Advice
@@ -538,7 +540,7 @@
 * [Native-Land.ca](https://native-land.ca/) - Indigenous Territory Map
 * [Midgard Map](https://midgardmap.koboldpress.com/) - Midgard Map
 * [Map Crunch](https://www.mapcrunch.com/) or [RandomStreetView](https://randomstreetview.com/) - Random Street View
-* [1940's.nyc](https://1940s.nyc/) - Explore 1940's New York 
+* [1940's.nyc](https://1940s.nyc/) - Explore 1940's New York
 * [Snap Map](https://map.snapchat.com/) - Snap Chat Map
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
 * [U Meet Me Here!](https://www.umeetmehere.com/) or [WhatIsHalfway](https://www.whatshalfway.com/) - Find Closest Point Between Two Locations
@@ -552,9 +554,9 @@
 * [European License Plate Map](https://i.redd.it/wcazzhjir8941.png) - European License Plate Map
 * [aprs.fi](https://aprs.fi/) - Google Maps APRS
 * [satellite-map.gosur](https://satellite-map.gosur.com/), [MSN Weather Map](http://www.msn.com/en-us/weather/maps) or [Ventusky](https://www.ventusky.com/) - Weather Maps
+* [Cyclocane](https://www.cyclocane.com/) or [Tornado.live](https://tornado.live/) - Severe Weather Maps
 * [Windy](https://www.windy.com/) or [WebGL-Wind](https://mapbox.github.io/webgl-wind/demo/) - Wind Map 
 * [Jetstream](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
-* [Cyclocane](https://www.cyclocane.com/) - Cyclone and Hurricane Tracking
 * [Air Now](https://gispub.epa.gov/airnow/) or [Breezometer](https://www.breezometer.com/air-quality-map/) - Air Quality Map
 * [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality Near Ukraine
 * [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Climate Sim](https://space.geometrian.com/calcs/climate-sim.php) or [ClimateCharts](https://climatecharts.net/) - Climate Maps
@@ -1312,6 +1314,7 @@
 * ⭐ **[Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_virtual_tours)** - Virtual Tours / Travel Simulators
 * ⭐ **[Iceberg Charts](https://icebergcharts.com/)** - Explore Obscure Topics / [/r/IcebergCharts](https://www.reddit.com/r/IcebergCharts/)
 * ⭐ **[Conspiracy Theory Iceberg](https://ipfs.io/ipfs/QmWszAAzXjaD6hQZXbfhF9qBFWpnPwZVWU131HVf42WZej)** - Conspiracies / Occult / Mythology / [Video Playlist](https://www.youtube.com/watch?v=7I2KJL-gJPU&list=PLfeWBGty_481haNoS_ozOVdIyOpyXMjUC)
+* ⭐ **[InfiniteConversation](https://infiniteconversation.com/)** - Never-Ending Werner Herzog / Slavoj Žižek Conversation
 * ⭐ **[Ranker](https://www.ranker.com/)**, [Listography](https://listography.com/), [hero](https://hero.page/), [FlexLists](https://flexlists.com/), [TheTopsTens](https://www.thetoptens.com/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
 * ⭐ **[Fandom](https://www.fandom.com/)** - Fan Wikis / [Frontend](https://docs.breezewiki.com/Links.html) / [Old Style](https://greasyfork.org/en/scripts/438194-hydralize-fix-fandom-com)
 * ⭐ **[The Lost Media Wiki](https://lostmediawiki.com/)** / [Forum](https://forums.lostmediawiki.com/)
@@ -1351,7 +1354,8 @@
 * [Paper Plotter](https://felixboiii.github.io/paper-plotter/) - Create 3D Plots out of Paper
 * [Game a-b-street](https://github.com/a-b-street/abstreet) - Traffic Simulation
 * [Kalmany](https://www.kalmany.org/) - Mock Elections
-* [Moral Machine](https://www.moralmachine.net/) - Machine Intelligence Moral Decisions
+* [Talksmi](https://talksmi.com/) - Conversation Ideas
+* [Pros 'n Cons](https://pros-cons.io/) or [Moral Machine](https://www.moralmachine.net/) - Decision Making AIs
 * [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/) - Vote on Different Trolley Problem Versions
 * [WhereShouldILive?](https://www.whereshouldilive.co/) - Find Out Where You Should Live
 * [Judge My Music](https://pudding.cool/2020/12/judge-my-spotify/) - Have an AI Judge Your Taste in Music
@@ -1361,6 +1365,7 @@
 * [Strobe Illusion](https://strobe.cool/) - Hallucination Illusion
 * [Fun Trivia](https://www.funtrivia.com/), [Factle](https://factle.app/), [BeanBeanBean](https://beanbeanbean.com/) or [Sporcle](https://www.sporcle.com/) - Trivia
 * [ARealMe](https://www.arealme.com/) - Quiz Collection
+* [Ridella](https://ridella.xyz/) - Daily Riddles
 * [Notpron](http://www.notpron.com/) - Worlds Hardest Internet Riddle
 * [OpenPsychometrics](https://openpsychometrics.org/) or [16 Personalities](https://www.16personalities.com/) - Personality Tests
 * [theOtaku](http://theotaku.com/quizzes) - Anime Personality Quizzes
