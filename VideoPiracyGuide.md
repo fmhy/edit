@@ -887,7 +887,7 @@
 * [Age Rating JuJu](https://www.ageratingjuju.com/) - Media Age Ratings
 * [CommonSenseMedia](https://www.commonsensemedia.org/) - Age-Based Media Reviews
 * [unconsenting media](https://www.unconsentingmedia.org) - Database of Sexual Violence in Movies/Shows
-* [BingeClock](https://www.bingeclock.com/) or [tiii.me](https://tiii.me/) - TV Show Length Calculator
+* [BingeClock](https://www.bingeclock.com/), [Can I Binge?](https://canibinge.com/) or [tiii.me](https://tiii.me/) - TV Show Length Calculators
 * [DramaWiki](https://wiki.d-addicts.com/) - Asian Drama Wiki
 * [MyDramaList](https://mydramalist.com/) - Asian Drama Tracker
 * [MythBank](https://mythbank.com/) - Media Timelines / Watch Orders
