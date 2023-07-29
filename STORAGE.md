@@ -2052,7 +2052,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Wikiquote](https://en.wikiquote.org)**
 * ⭐ **[Quote Collections](https://redd.it/dlao3b)**
 
-[Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [BrainyQuote](https://www.brainyquote.com/), [AZQuotes](https://www.azquotes.com/),[QuoteGarden](https://www.quotegarden.com/)
+[Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [BrainyQuote](https://www.brainyquote.com/), [AZQuotes](https://www.azquotes.com/), [QuoteGarden](https://www.quotegarden.com/)
 
 ***
 
