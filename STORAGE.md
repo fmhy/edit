@@ -2272,7 +2272,6 @@ Add the following commands to a search to manually scrape each site.
 * https://putlockers.llc/
 * https://2kmovie.cc/
 * https://goku.sx/
-* https://www.sflix.pro/
 * https://cineb.net/
 * https://bingewatch.to/
 * https://www.divicast.com/
