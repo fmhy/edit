@@ -715,7 +715,7 @@
 * ⭐ **[Kotatsu](https://kotatsu.app/)** - Manga Reader
 * [Openreads](https://github.com/mateusz-bak/openreads-android), [NeverTooManyBooks](https://github.com/tfonteyn/NeverTooManyBooks) or [Basmo](https://basmo.app/) - Book Managers / Trackers
 * [KafkaArchives](https://www.kafkaarchives.com/) - Archive.org Books / Audiobooks
-* [Wikipedia Beta](https://play.google.com/store/apps/details?id=org.wikipedia.beta) - Wikipedia App
+* [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia) - Wikipedia App / [Beta](https://play.google.com/store/apps/details?id=org.wikipedia.beta)
 * [Moon+ Reader](http://www.moondownload.com/) - Ebook Reader
 * [CoolReader](https://apt.izzysoft.de/fdroid/index/apk/org.coolreader) - Ebook Reader
 * [BookReader](https://gitlab.com/axet/android-book-reader) - Ebook Reader
@@ -779,7 +779,6 @@
 * [BlackHole](https://github.com/Sangwan5688/BlackHole) - Streaming
 * [VK X](https://vkx.app/) - Streaming
 * [SoundBound](https://soundbound.shabinder.in/install) - Streaming
-* [BlackPlayer EX](https://rexdl.com/android/blackplayer-ex-apk.html/) - Streaming
 * [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming
 * [AudioTube](https://invent.kde.org/multimedia/audiotube) - YouTube Audio Player / [GitHub](https://jbbgameich.github.io/kde/2021/03/13/audiotube.html)
 * [Cliggo](https://play.google.com/store/apps/details?id=com.cliggo.cliggo_music) - Streaming / Downloading
