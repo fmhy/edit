@@ -1391,6 +1391,7 @@
 
 * ⭐ **[Random Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_sites)** - Random Site Generators
 * ⭐ **[Copypasta Text](https://copypastatext.com/)** or [CopyPastaDB](https://copypastadb.com/) - Copypasta Databases
+* ⭐ **[CreepyPasta](https://www.creepypasta.com/)** - Creepypasta Database
 * ⭐ **[TheOnion](https://theonion.com/)** or [DailyWrong](https://dailywrong.com/) - Fake News Articles
 * ⭐ **[PokeSmash](https://pokesmash.xyz/)** - Pokémon Smash or Pass
 * ⭐ **[Library of Babel](https://libraryofbabel.info/)** - Every Book of Past, Present, and Future
