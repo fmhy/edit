@@ -716,7 +716,7 @@ Simulator
 * [InternetPolyglot](https://www.internetpolyglot.com/) - Language Learning Lessons
 * [LingoDeer](https://www.lingodeer.com/) - Language Learning Lessons
 * [Busuu](https://www.busuu.com/en/) - Language Learning Lessons
-* [Duolingo](https://www.duolingo.com/) - Language Learning Lessons / [Guide]https://github.com/fmhy/FMHYedit/blob/main/base64.md#duolingo-guide), [2](https://duome.eu/tips)
+* [Duolingo](https://www.duolingo.com/) - Language Learning Lessons / [Guide][https://github.com/fmhy/FMHYedit/blob/main/base64.md#duolingo-guide), [2](https://duome.eu/tips)
 * [Language Drops](https://languagedrops.com/) - Language Learning App / [Premium](https://github.com/nbats/FMHYedit/blob/main/base64.md#language-drops-premium)
 * [10,000 Sentences](https://github.com/tkrajina/10000sentences) - Language Learning App
 * [Yojik](https://fsi-languages.yojik.eu/index.html) - Language Learning Courses
