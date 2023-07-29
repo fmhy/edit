@@ -4518,16 +4518,16 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [2](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc), [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://merlin.foyer.work/) - ChatGPT Extensions
 * ⭐ **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
 * ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
-* ⭐ **[ChatPDF](https://www.chatpdf.com/)**, [Ask Your PDF](https://askyourpdf.com/), [Vault AI](https://vault.pash.city/) or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
-* ⭐ **[UseChatGPT.AI](https://www.usechatgpt.ai/)** or [ChatWebpage](https://chatwebpage.com/) - Turn Webpages into Chatbots
 * ⭐ **[AI Playground](https://play.vercel.ai/)** or [ChatHub](https://chathub.gg/) - Compare AI Responses
+* ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn PDFs into Chatbots
+* ⭐ **[UseChatGPT.AI](https://www.usechatgpt.ai/)** or [ChatWebpage](https://chatwebpage.com/) - Turn Webpages into Chatbots
+*  [Vault AI](https://vault.pash.city/), [Humata](https://www.humata.ai/), [Unriddle](https://www.unriddle.ai/), [Sharly](https://app.sharly.ai/) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
+* [PrivateGPT](https://github.com/imartinez/privateGPT/) or [ChatDocs](https://github.com/marella/chatdocs) - Offline Document Chatbots
 * [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
 * [ChatBlade](https://github.com/npiv/chatblade) - ChatGPT CLI
 * [engshell](https://github.com/emcf/engshell) or [TGPT](https://github.com/aandrew-me/tgpt) - ChatGPT in TUIs
 * [jsmsj](https://github.com/jsmsj/GPT4), [YakGPT](https://yakgpt.vercel.app/), [BetterGPT](https://bettergpt.chat/) or [TurboGPT.ai](https://turbogpt.ai/) - ChatGPT WebUIs
 * [ChatGPT Desktop](https://github.com/sonnylazuardi/chat-ai-desktop), [PyGPT](https://pygpt.net/), [GPTChat](https://github.com/ian-kent/gptchat), [TurboGPT](https://github.com/mikebpech/turbogpt.ai), [SmolAI](https://github.com/smol-ai/menubar/) or [lencx](https://github.com/lencx/ChatGPT/) - Desktop Apps
-* [Unriddle](https://www.unriddle.ai/) or [ChatDOC](https://chatdoc.com/) - Document Summary AIs
-* [PrivateGPT](https://github.com/imartinez/privateGPT/) or [ChatDocs](https://github.com/marella/chatdocs) - Offline Document Chatbots
 * [docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT Google Docs Addon
 * [ParallelGPT](https://www.parallelgpt.ai/) - Data Processing AI
 * [ChatGPT File Uploader](https://chrome.google.com/webstore/detail/chatgpt-file-uploader/oaogphgfdbdbmhkiplemgehihiiececj) - File Upload Extension
@@ -5726,12 +5726,6 @@ pass: paluch
 #### Archive.org Newspapers
 
 `aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL25ld3NwYXBlcnM=`
-
-*** 
-
-#### KL-Teamdrive
-
-`aHR0cHM6Ly9ncm91cHMuZ29vZ2xlLmNvbS9nL2tsLXRlYW1kcml2ZQ==`
 
 *** 
 
@@ -19861,19 +19855,19 @@ Check out [Booty Guard](https://rentry.org/bootyguard) our basic safety guide.
 Still feel unsure? Reach out to us via [Divolt](https://redd.it/uto5vw).
 !!!note **In the end trust your gut & intuition, also make sure you've looked at sites/software we've listed as unsafe:** [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread)
 
-> I don't know what seeding means or *insert other term*. Please explain 
+> I don't know what seeding means or *insert other term*...
 You will find almost all terms related to piracy & more on [The Piracy Glossary](https://rentry.org/the-piracy-glossary)
 Didn't find it and still confused? Reach out to us via [Divolt](https://redd.it/uto5vw).
 
-> How do I download Photoshop/Adobe Products for free?? 
+> How do I download Photoshop/Adobe Products for free?
 You can download pre-cracked Adobe products from [M0nkrus](http://w14.monkrus.ws/) | [How to download from M0nkrus](https://rentry.co/adobesoftware) or Patch it yourself following these guides [here](https://www.reddit.com/r/GenP/wiki/index/) & for MacOS go [here](#macos)
 !!!info M0nkrus is a well trusted and reputable source for adobe software in the piracy community. 
 
-> How do I download windows / activate windows & Office ?
+> How do I download windows / activate windows & Office?
 For Windows check out this [section](#pirate-windows)
 For Office check these [guides](https://github.com/fmhy/FMHYedit/blob/main/base64.md#microsoft-office-dl-guides)
 
-> Where do I find *insert game title / movie title* ?
+> Where do I find *insert game title / movie title*?
 For movies check out [this](https://whereyouwatch.com) and for new movies it's a good idea to keep an eye on [r/movieleaks](https://reddit.com/r/movieleaks). 
 For sites to stream from check out this [section](#streaming).
 !!!info Pirated releases generally happen after a movie is digitally released or released via Blu-Ray / DVD, which can take 3 months+ after initially playing in theaters.
@@ -19881,21 +19875,21 @@ For sites to stream from check out this [section](#streaming).
 For games use [Rezi](https://rezi.one) or any site listed [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games) and for newly released games check [r/crackwatch](https://reddit.com/r/crackwatch).
 !!!warning Please avoid downloading games from The Pirate Bay or any site listed: [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread)
 
-> How do I unlock *insert random game title* DLCs ??
+> How do I unlock *insert random game title* DLCs?
 Use the tools listed [here](https://fmhy.pages.dev/gamingpiracyguide/#steam--epic) to unlock DLCs.
 
-> How do I get canva pro?? I need an invite please give
+> How do I get canva pro? I need an invite please give
 You may find Canva pro invites [here](https://blooem.pages.dev/wiki/canvapro/).
 !!!info If the links no longer work don't be afraid to contact the author of the site linked above.
 
-> Should I install & use *insert random anti-virus software* instead of using Windows Defender ?
+> Should I install & use *insert random anti-virus software* instead of using Windows Defender?
 No don't do that, windows defender is more than good enough, you don't need another anti-virus, but if you're set on installing a secondary AV the one worth installing is Malwarebytes. Please read the note [here](#anti-virus). 
 !!!warning Stay away from Avast, Norton and McAfee, these are "bloatware" and generally not safe software.
 
- > How do I bypass this paywalled article?? 
+ > How do I bypass this paywalled article?
 Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/) / [2](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) to read the article easily. 
 
-> How do I download image from *insert stock site* ???
+> How do I download image from *insert stock site*?
  You can use [this](https://downloader.la/) if this doesn't work you can find similar stock image downloaders [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_stock_photo_sites).
 ***
 
