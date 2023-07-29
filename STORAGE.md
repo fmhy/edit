@@ -3056,8 +3056,15 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)**
 * ⭐ **[Shotcut](https://shotcut.org/)**
+* [Remotion](https://www.remotion.dev/) / [GitHub](https://github.com/remotion-dev/remotion)
+* [Auto-Editor](https://auto-editor.com/) - CLI
+* [MoviePy](https://zulko.github.io/moviepy/) - Python
+* [Windows Movie Maker](https://www.majorgeeks.com/files/details/windows_movie_maker.html) / [2](https://archive.org/details/mm26enu_202002) / [3](https://archive.org/details/MM2.1And2.6_201903)
 
-[Olive](https://www.olivevideoeditor.org/), [VirtualDub2](https://sourceforge.net/projects/vdfiltermod/), [LosslessCut](https://github.com/mifi/lossless-cut), [EZVid](https://www.ezvid.com/), [OpenShot](https://www.openshot.org/), [kdenlive](https://kdenlive.org/en/), [Lightworks](https://lwks.com/), [VSDC](http://www.videosoftdev.com/), [Auto-Editor](https://auto-editor.com/) (CLI), [MoviePy](https://zulko.github.io/moviepy/) (Python), [avidemux](https://avidemux.sourceforge.net/), [Remotion](https://www.remotion.dev/) / [GitHub](https://github.com/remotion-dev/remotion)
+[Olive](https://www.olivevideoeditor.org/), [VirtualDub2](https://sourceforge.net/projects/vdfiltermod/), [LosslessCut](https://github.com/mifi/lossless-cut), [EZVid](https://www.ezvid.com/), [OpenShot](https://www.openshot.org/), [kdenlive](https://kdenlive.org/en/), [Lightworks](https://lwks.com/), [VSDC](http://www.videosoftdev.com/), [avidemux](https://avidemux.sourceforge.net/)
+
+
+
 
 **Online Editors**
 
