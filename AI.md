@@ -22,21 +22,18 @@
 * ⭐ **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbots Index
 * [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Q&A AI
 * [Leon](https://getleon.ai/) - AI Assistant
+* [Pi](https://pi.ai/talk) - AI Assistant
 * [OpenAI-bot](https://openai-bot.com) - AI Assistants
 * [Big AGI](https://big-agi.com/) - Self-Hosted AI Assistant
-* [Pros 'n Cons](https://pros-cons.io/) - Decision Making AI
 * [AnimaAI](https://myanima.ai/) - Virtual Companion
-* [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) or [Awesome-GPT4](https://gpt4.tools/) or  - ChatGPT Resources
-* [bing-chat](https://github.com/transitive-bullshit/bing-chat) or [Bing Chat for All Browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Bing's Chatbot / [API](https://github.com/acheong08/EdgeGPT)
+* [Awesome-GPT4](https://gpt4.tools/) - ChatGPT Resources
 * [Feyn](https://www.feyn.ai/) - GPT-4 Q&A AI
 * [Ora](https://ora.ai/) - GPT-3.5 Based Chatbots
 * [Forefront](https://chat.forefront.ai/) - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/Wbc5cPPYSs)
-* [LangChain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain) - GPT-3.5 Based AI
 * [Teach Anything](https://www.teach-anything.com/) - GPT-3.5 Q&A AI
 * [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT-3 Based Chatbot
 * [JackChat](https://www.jackchat.ai/) - GPT-3 Based Chatbot
 * [iAsk](https://iask.ai/) - GPT-3 Q&A AI
-* [NoowAI](https://noowai.com/) - Q&A AI
 * [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Autonomous GPT-4 / [GUI](https://github.com/thecookingsenpai/autogpt-gui)
 * [MiniAGI](https://github.com/muellerberndt/mini-agi) - Autonomous GPT-3.5 / GPT-4
 * [Janitor AI](https://www.janitorai.com/) - Roleplaying Chatbots / [Discord](https://discord.com/invite/janitorai)
@@ -47,7 +44,6 @@
 * [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbot
 * [TavernAI](https://tavernai.net/) - Roleplaying / Adventure Chatbot
 * [Chai](https://www.chai-research.com/) - Entertainment Focused Chatbots
-* [DeepAI](https://deepai.org/chat) - GPT-2 Based Chatbot
 
 ***
 
@@ -78,13 +74,12 @@
 * [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
 * [SillyTavern](https://github.com/SillyTavern/SillyTavern) - UI for Roleplaying Chatbots
 * [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
-* [Chub](https://www.chub.ai/) - Characters for LLMs
 * [AgentRunner](https://www.agentrunner.ai/) - Create Autonomous AI Agents
 * [Dify](https://dify.ai/) - Create AI Apps
 
 ***
 
-## ▷ ChatGPT  Tools
+## ▷ ChatGPT Tools
 
 * ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [2](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc), [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) or [Merlin](https://merlin.foyer.work/) - ChatGPT Extensions
 * ⭐ **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - Find No-Login Frontends
@@ -92,7 +87,7 @@
 * ⭐ **[AI Playground](https://play.vercel.ai/)** or [ChatHub](https://chathub.gg/) - Compare AI Responses
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn PDFs into Chatbots
 * ⭐ **[UseChatGPT.AI](https://www.usechatgpt.ai/)** or [ChatWebpage](https://chatwebpage.com/) - Turn Webpages into Chatbots
-*  [Vault AI](https://vault.pash.city/), [Humata](https://www.humata.ai/), [Unriddle](https://www.unriddle.ai/), [Sharly](https://app.sharly.ai/) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
+*  [Vault AI](https://vault.pash.city/), [Humata](https://www.humata.ai/), [Unriddle](https://www.unriddle.ai/), [Sharly](https://app.sharly.ai/), [Docalysis](https://docalysis.com/) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
 * [PrivateGPT](https://github.com/imartinez/privateGPT/) or [ChatDocs](https://github.com/marella/chatdocs) - Offline Document Chatbots
 * [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
 * [ChatBlade](https://github.com/npiv/chatblade) - ChatGPT CLI
@@ -125,7 +120,7 @@
 
 * ⭐ **[Awesome ChatGPT Prompts](https://prompts.chat/)** / [2](https://github.com/f/awesome-chatgpt-prompts) - Prompt Directory
 * ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)** or [Learn Prompting](https://learnprompting.org/) - Prompting Guides
-* ⭐ **[quickref](https://quickref.me/chatgpt)**  or [ChatGPT Cheat Sheet](https://imgur.com/a/08Cyqyf) - Prompt Cheatsheets
+* ⭐ **[quickref](https://quickref.me/chatgpt)** - Prompt Cheatsheets
 * ⭐ **[jailbreakchat](https://www.jailbreakchat.com/)**, **[jamessawyer](http://www.jamessawyer.co.uk/pub/gpt_jb.html)** or [DAN](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516)- Jailbreak Prompts
 * [Chatgptjailbreak](https://rentry.org/Chatgptjailbreak) - Prompt Directory
 * [500 Best Prompts](https://puzzle-jute-202.notion.site/500-Best-ChatGPT-Prompts-f5b4ad65deec4b6385316fdb8740af74) - Prompt Directory
@@ -145,6 +140,8 @@
 * [botprompts](https://botprompts.net/) - Fun Prompts
 * [ChatGPT-History](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Prompt Management Extensions
 * [/r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/) or [/r/GPT_Jailbreaks](https://www.reddit.com/r/GPT_jailbreaks/) - GPT Jailbreak Subreddits
+* [Chub](https://www.chub.ai/) or [Character Creator](https://oobabooga.github.io/character-creator) - Character Prompts
+* [Img-Resources](https://rentry.org/lmg-resources) - LLM CharacterResources
 
 ***
 ***
@@ -190,7 +187,6 @@
 * [NovelAI](https://novelai.net/) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz), [2](https://greasyfork.org/en/scripts/448926)
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
 * [Unconventional Text Writer](https://unconventional-text-writer.netlify.app/) - Unconventional Text AI
-* [Character Creator](https://oobabooga.github.io/character-creator) - Character Generation AI
 * [Essaytyper](http://www.essaytyper.com/) - Essay Writing AI
 * [papertyper](https://papertyper.net/) - Essay Writing AI
 * [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/) - Essay Writing AI
@@ -237,13 +233,10 @@
 # ► Image Generators
 
 * ⭐ **[Zoo](https://zoo.replicate.dev/)** - Multi-AI Image Generators
-* ⭐ **[DeepFloyd IF](https://huggingface.co/spaces/DeepFloyd/IF)** - AI Image Generator / [Github](https://github.com/deep-floyd/IF) / [Colab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/deepfloyd_if_free_tier_google_colab.ipynb) / [Discord](https://discord.com/invite/TpBQ4fqThB)
-* ⭐ **[PIXYbot](https://t.me/piiixybot)** - MidJourney Telegram Bot
 * ⭐ **[Bing](https://www.bing.com/images/create)** - Dall-E Based AI Image Generator
 * ⭐ **[Craiyon](https://www.craiyon.com/)** - AI Image Generator / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
 * ⭐ **[Kandinsky2](https://fusionbrain.ai/diffusion)** - AI Image Generator / [Github](https://github.com/ai-forever/ru-dalle) / [Demo](https://rudalle.ru/kandinsky2)
 * ⭐ **[Adobe Firefly](https://firefly.adobe.com/)** - AI Image Generator / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
-* ⭐ **[DeepAI](https://deepai.org/machine-learning-model/stable-diffusion)** / [2](https://deepai.org/machine-learning-model/text2img) - AI Image Generator / [Tools](https://deepai.org/apis)
 * ⭐ **[Lexica](https://lexica.art/)**, [PicFinder](https://picfinder.ai/), [SeaArt](https://www.seaart.ai/), [PixAI](https://pixai.art/), [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images), [One More AI](https://onemoreai.flutterflow.app/), [Maze.guru](https://maze.guru/gallery), [ArtHub.ai](https://arthub.ai/), [Vitalentum](https://vitalentum.net/) or [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
 * ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** / [2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Determine Likely Used Image Prompts
@@ -256,6 +249,7 @@
 * [StableCog](https://stablecog.com/) - AI Image Generator / [Discord](https://discord.com/invite/AJyYd6AUEn) / [Github](https://github.com/stablecog/stablecog)
 * [Pollination](https://pollinations.ai/) - AI Image Generator / [Discord](https://discord.com/invite/8HqSRhJVxn)
 * [Disco-Diffusion](https://replicate.com/nightmareai/disco-diffusion) - AI Image Generator / [Discord](https://discord.com/invite/AWXCCC6G2P)
+* [DeepAI](https://deepai.org/machine-learning-model/stable-diffusion) / [2](https://deepai.org/machine-learning-model/text2img) - AI Image Generator / [Tools](https://deepai.org/apis)
 * [Leonardo.ai](https://app.leonardo.ai/) - AI Image Generator
 * [Prodia](https://app.prodia.com/) - AI Image Generator
 * [Visuali](https://visuali.io/) - AI Image Generator
@@ -281,10 +275,11 @@
 * [Pollinations](https://pollinations.ai/) - AI Image Generator
 * [Playarti](https://www.playarti.com/) - AI Image Generator
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
+* [PIXYbot](https://t.me/piiixybot) - MidJourney Telegram Bot
 * [Gligen](https://huggingface.co/spaces/gligen/demo) - Open-Set Grounded Text-to-Image Generation
 * [AI Notebooks](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - AI Image Generation Colab
 * [NOP / WAS](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17) - AI Image Generation Colab
-* [Shap-e](https://github.com/openai/shap-e) - 3D Image Generator
+* [Shap-e](https://github.com/openai/shap-e) or [ThreeStudio](https://github.com/threestudio-project/threestudio) - 3D Image Generators
 * [AI Gahaku](https://ai-art.tokyo/en/), [Paint by Numbers](https://paint-by-number.com/pages/create-your-own-paint-by-number), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/) or [InstaPainting](https://www.instapainting.com/assets/) - Turn Photos into Artwork
 * [Pet AI](https://petai.art/) - Turn Pet Photos into Artwork
 * [Nightmare Machine](http://nightmare.mit.edu/) - Scary AI Generated Imagery
@@ -302,7 +297,7 @@
 * ⭐ **[PlaygroundAI](https://playgroundai.com/)** - Online
 * ⭐ **[Dezgo](https://dezgo.com/)** - Online / [Discord](https://discord.com/invite/RQrGpUhPhx)
 * ⭐ **[GetIMG.ai](https://getimg.ai/)** - Online / [Discord](https://discord.com/invite/5KsUXSzVwS)
-* ⭐ **[Anime Art Studio](https://animeart.studio/)**, [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion-v1-4/) or [BPModel](https://huggingface.co/Crosstyan/BPModel) - Anime Image Generators
+* ⭐ **[Anime Art Studio](https://animeart.studio/)**, [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion-v1-4/), [NijiJourney](https://nijijourney.com/en) or [BPModel](https://huggingface.co/Crosstyan/BPModel) - Anime Image Generators
 * ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - List of Stable Diffusion Models
 * [Easy Diffusion](https://stable-diffusion-ui.github.io/) - Self-Host
 * [Sygil WebUI](https://github.com/Sygil-Dev/sygil-webui) - Self-Host / [Discord](https://discord.com/invite/ttM8Tm6wge)
@@ -320,13 +315,13 @@
 * [DiffusionBee](https://diffusionbee.com/) - Self-Host for Macs / [Github](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
 * [SD InPainting](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) / [2](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting) / [3](https://replicate.com/stability-ai/stable-diffusion-inpainting) / [4](https://github.com/geekyutao/Inpaint-Anything) or [Lama Cleaner](https://github.com/Sanster/lama-cleaner) - AI Image Fill / Item Removal
 * [InPainter](https://inpainter.vercel.app/paint) - Online Inpainting / [Github](https://github.com/replicate/inpainter)
-* [MagicBrush](https://www.magicbru.sh/), [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - AI Image Transformers
+* [MagicBrush](https://www.magicbru.sh/), [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/), [DummyControlNet](https://rentry.org/dummycontrolnet) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - AI Image Transformers
 * [Photoshop StableDiffusion](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - Stable Diffusion for Photoshop
 * [a1111-sd-webui-lycoris](https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris) - Load Lycoris Models
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
 * [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) - AI Image Generation Colab
 * [Unprompted](https://github.com/ThereforeGames/unprompted) - Stable Diffusion Text Generator
-* [Prompt Book](https://openart.ai/discovery) - Prompt Guide/Discovery / [Discord](https://discord.com/invite/yTMNvk5z97)
+* [Prompt Book](https://openart.ai/discovery) / [Discord](https://discord.com/invite/yTMNvk5z97) or [PTSearch](https://www.ptsearch.info/tags/list/) - Image Prompts
 
 ***
 
@@ -353,11 +348,13 @@
 * ⭐ **[SD Compendium](https://www.sdcompendium.com/)** - Stable Diffusion Guide
 * ⭐ **[SD Quickstart](https://redd.it/xvhavo)** - Stable Diffusion Guide
 * ⭐ **[1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw)** - Stable Diffusion Guide
+* [TheAlly's Guide](https://civitai.com/models/22881/) -
 * [StableDiffusion Cheatsheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - Stable Diffusion Cheatsheet
 * [Textard](https://rentry.org/textard) - Textual Inversion Guide
 * [drfar](https://rentry.org/drfar) - InPainting Guide
 * [AnimAnon](https://rentry.org/AnimAnon) - AI Animation Guide
 * [The Other](https://rentry.org/59xed3), [DummyLoRA](https://rentry.org/dummylora), [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english), [ora_train](https://rentry.org/lora_train) or [lora-training-science](https://rentry.org/lora-training-science) - SD LoRA Guides
+* [SafeTensorsGuide](https://rentry.org/safetensorsguide) - How-to Convert .ckpt to .safetensors
 
 ***
 ***
