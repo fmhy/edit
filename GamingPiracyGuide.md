@@ -711,6 +711,7 @@
 * [Guess My Rank](https://guessmyrank.com/) - Guess Player Game Ranks
 * [The Higher Lower Game](http://www.higherlowergame.com/) or [GoogleFued](https://googlefeud.com/) - Guess What's Googled More
 * [Guess The Price](https://guesstheprice.net/) - Price Guessing Game
+* [Apparle](https://www.apparle.com/) - Apparel Price Guessing Game
 * [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
 * [Approved, or Not Approved?](https://approvednotapproved.com/) - Approved Advertising Guessing Game
 * [damn.dog](https://damn.dog/) - wikiHow Guessing Game
