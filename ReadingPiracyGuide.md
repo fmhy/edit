@@ -662,8 +662,9 @@
 * [PsyArXiv](https://psyarxiv.com/) - Articles / Psychological Sciences
 * [SkillCommons](https://www.skillscommons.org/) - Work Training Documents
 * [Institute of Education Sciences](https://eric.ed.gov/) - Documents / Texts / Papers
-* [Pandora](http://pandora.nla.gov.au/) - Australian Document Archive
 * [Parliament Archives](https://archives.parliament.uk/) - UK Parliamentary Documents
+* [SecretCanada](https://www.secretcanada.com/) - Canadian Document Archive
+* [Pandora](http://pandora.nla.gov.au/) - Australian Document Archive
 * [EThOS](https://ethos.bl.uk/SearchResults.do) - Doctoral Theses
 * [ndltd](http://search.ndltd.org/) - Search Theses and Dissertations
 * [UBIRA eTheses](https://etheses.bham.ac.uk/) - Theses
@@ -1250,7 +1251,7 @@
 
 # ► Helpful Sites / Apps
 
-* ⭐ **[ChatPDF](https://www.chatpdf.com/)**, [Ask Your PDF](https://askyourpdf.com/), [Vault AI](https://vault.pash.city/) or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
+* ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn PDFs into Chatbots
 * ⭐ **[Talk to Books](https://books.google.com/talktobooks/)** - AI Book Quote Search
 * ⭐ **[PlayText](https://playtext.app/)**, [AccelaReader](https://accelareader.com/), [Jiffy](https://www.jiffyreader.com/), [SwiftRead](https://swiftread.com/), [Notation](https://github.com/numanzamandipuu/Notation) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
 * ⭐ **[arch1ve](https://rentry.org/arch1ve)** or [Borrowing Picture Books](https://redd.it/fm1xpw) - Download Borrow Only Archive.org Books / [Script](https://redd.it/ofcqds)
