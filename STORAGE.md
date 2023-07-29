@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/0Y53xXT)** - For mobile users
+**[Table of Contents](https://ibb.co/st6T0Hw)** - For mobile users
 
 ***
 ***
@@ -980,6 +980,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [HDToday](https://hdtoday.ru/)
 * [yesmovies.at](https://yesmovies.at)
 * [0123movie](https://0123movie.onl/)
+* [sflix.pro](https://sflix.pro/)
 
 ***
 
@@ -2046,6 +2047,15 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
+#### Quotes
+
+* ⭐ **[Wikiquote](https://en.wikiquote.org)**
+* ⭐ **[Quote Collections](https://redd.it/dlao3b)**
+
+[Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [BrainyQuote](https://www.brainyquote.com/), [AZQuotes](https://www.azquotes.com/),[QuoteGarden](https://www.quotegarden.com/)
+
+***
+
 #### QR Code Generators
 
 [QR Tiger](https://www.qrcode-tiger.com/), [QRCodeMonkey](https://www.qrcode-monkey.com/), [qr-code-generator](https://mention.com/en/qr-code-generator/), [amazing-qr](https://github.com/x-hw/amazing-qr), [qr_code_generator](https://www.nirsoft.net/utils/qr_code_generator.html), [QR Code Generator](https://www.the-qrcode-generator.com/), [CodeTwo](https://www.codetwo.com/freeware/qr-code-desktop-reader/), [Zxing](http://zxing.appspot.com/generator), [barcodrod](https://barcodrod.io/), [sharesnip](https://sharesnip.rosano.ca/)
@@ -2601,6 +2611,17 @@ Add the following commands to a search to manually scrape each site.
 #### Sun / Moon Position
 
 [SunCalc](https://www.suncalc.org/), [Subsolar Point](https://rl.se/subsolarpoint), [ShadeMap](https://shademap.app/), [ShadowCalculator](http://shadowcalculator.eu/), [FindMyShadow](https://www.findmyshadow.com/), [MoonCalc](https://www.mooncalc.org/)
+
+***
+
+#### Survival
+
+* ⭐ **[do_k_ument](https://github.com/nbats/FMHYedit/blob/main/base64.md#do_k_ument)**
+* ⭐ **[Survivor Library](http://www.survivorlibrary.com/)**
+* [SurvivalManual](https://ligi.de/) / [GitHub](https://github.com/ligi/SurvivalManual)
+* [PrepperCollective](https://t.me/PrepperCollective) / [Index](https://t.me/PrepperCollectiveIndex)
+
+[OffGridDownload](https://t.me/offgriddownload), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/), [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare), [The Preparedness Encyclopedia](https://redd.it/muc9ff)
 
 ***
 
