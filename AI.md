@@ -348,7 +348,7 @@
 * ⭐ **[SD Compendium](https://www.sdcompendium.com/)** - Stable Diffusion Guide
 * ⭐ **[SD Quickstart](https://redd.it/xvhavo)** - Stable Diffusion Guide
 * ⭐ **[1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw)** - Stable Diffusion Guide
-* [TheAlly's Guide](https://civitai.com/models/22881/) -
+* [TheAlly's Guide](https://civitai.com/models/22881/) - Stable Diffusion Guide
 * [StableDiffusion Cheatsheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - Stable Diffusion Cheatsheet
 * [Textard](https://rentry.org/textard) - Textual Inversion Guide
 * [drfar](https://rentry.org/drfar) - InPainting Guide
