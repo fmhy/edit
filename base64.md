@@ -513,12 +513,6 @@ pass: paluch
 
 *** 
 
-#### KL-Teamdrive
-
-`aHR0cHM6Ly9ncm91cHMuZ29vZ2xlLmNvbS9nL2tsLXRlYW1kcml2ZQ==`
-
-*** 
-
 #### Xtremecloud
 
 `aHR0cHM6Ly9ncm91cHMuZ29vZ2xlLmNvbS9nL3h0cmVtZWNsb3VkLXRkZ3JvdXA=`
