@@ -92,6 +92,7 @@
 * ⭐ **[Poweramp](https://forum.mobilism.org/search.php?keywords=poweramp&sr=topics&sf=titleonly)**
 * ⭐ **[AIMP](http://www.aimp.ru/?do=download&os=android)**
 * ⭐ **[Musicolet Music Player](https://krosbits.in/musicolet/)**
+* ⭐ **[BlackPlayer EX](https://www.revdl.com/blackplayer-ex-apk-download.html/)**
 * ⭐ **[Symphony](https://github.com/zyrouge/symphony)**
 * ⭐ **[Harmonoid](https://harmonoid.com/)**
 * ⭐ **[Oto Music](https://play.google.com/store/apps/details?id=com.piyush.music)**
@@ -104,7 +105,7 @@
 
 * ⭐ **[Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)** - Debloated FF
 
-[Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi Browser](https://kiwibrowser.com/), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Berry Browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser), [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android), [AlohaBrowser](https://alohabrowser.com/), [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp), [Lynket](https://github.com/arunkumar9t2/lynket-browser), [Lightning Browser](https://github.com/anthonycr/Lightning-Browser), [Dot Browser](https://github.com/dothq/browser-android), [Float Browser](https://play.google.com/store/apps/details?id=com.xpp.floatbrowser), [Fulguris](https://github.com/Slion/Fulguris)
+[Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi Browser](https://kiwibrowser.com/), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Berry Browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser), [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android), [AlohaBrowser](https://alohabrowser.com/), [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp), [Lynket](https://github.com/arunkumar9t2/lynket-browser), [Lightning Browser](https://github.com/anthonycr/Lightning-Browser), [Float Browser](https://play.google.com/store/apps/details?id=com.xpp.floatbrowser), [Fulguris](https://github.com/Slion/Fulguris)
 
 ***
 
@@ -175,7 +176,7 @@
 
 * ⭐ **[Malwarebytes Premium](https://github.com/fmhy/FMHYedit/blob/main/base64.md#malwarebytes-prem)** / [Unlimited Trials](https://rentry.co/mbforever)
 
-[Hitman Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#hitman-pro), [Adaware Antivirus](https://www.adaware.com/free-antivirus-download), [Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/), [Immunet](https://www.immunet.com), [MalwareScanner](https://github.com/password123456/malwarescanner), [EsetKeyRobot](https://t.me/EsetKeyRobot), [ClamAV](https://www.clamav.net/)
+[Hitman Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#hitman-pro), [Adaware Antivirus](https://www.adaware.com/free-antivirus-download), [Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/), [Immunet](https://www.immunet.com), [EsetKeyRobot](https://t.me/EsetKeyRobot), [ClamAV](https://www.clamav.net/)
 
 ***
 
@@ -1552,7 +1553,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Multi Image Tool Sites
 
-[WebOasis Editors](https://weboasis.app/editors/), [Hotot](https://hotpot.ai/), [RedKetchup](https://redketchup.io/), [VertexShare](https://vertexshare.com/), [ImageConvert](https://imageconvert.org/), [MyPhotoFilter](https://www.myphotofilter.com/), [Img2Go](https://www.img2go.com/), [BrandFolder](https://brandfolder.com/workbench-suite), [fffuel](https://fffuel.co/), [ImgLarger](https://imglarger.com/), [Convertmyimage](https://convert-my-image.com/), [SocialBook](https://socialbook.io/), [Mara](https://mara.photos/), [StitchTool](https://www.jdeploy.com/~stitchtool) / [GitHub](https://github.com/Aeonss/StitchTool/), [Bloggif](https://en.bloggif.com/video), [BatchWatermark](https://batchwatermark.com/), [FastStone](https://www.faststone.org/index.htm), [ConvertImage](https://convertimage.net/), [PicWish](https://picwish.com/), [onlinejpgtools](https://onlinejpgtools.com/), [OnlinePNGTools](https://onlinepngtools.com/), [imageamigo](https://imageamigo.com), [AI Lab](https://ailab.wondershare.com/tools/)
+[WebOasis Editors](https://weboasis.app/editors/), [Hotot](https://hotpot.ai/), [RedKetchup](https://redketchup.io/), [VertexShare](https://vertexshare.com/), [ImageConvert](https://imageconvert.org/), [MyPhotoFilter](https://www.myphotofilter.com/), [Img2Go](https://www.img2go.com/), [BrandFolder](https://brandfolder.com/workbench-suite), [fffuel](https://fffuel.co/), [ImgLarger](https://imglarger.com/), [Convertmyimage](https://convert-my-image.com/), [SocialBook](https://socialbook.io/), [Mara](https://mara.photos/), [StitchTool](https://www.jdeploy.com/~stitchtool) / [GitHub](https://github.com/Aeonss/StitchTool/), [Bloggif](https://en.bloggif.com/video), [BatchWatermark](https://batchwatermark.com/), [FastStone](https://www.faststone.org/index.htm), [ConvertImage](https://convertimage.net/), [PicWish](https://picwish.com/), [onlinejpgtools](https://onlinejpgtools.com/), [OnlinePNGTools](https://onlinepngtools.com/), [imageamigo](https://imageamigo.com), [AI Lab](https://ailab.wondershare.com/tools/), [clipdrop](https://clipdrop.co/tools), [photoaid](https://photoaid.com/en/tools/)
 
 ***
 
@@ -1669,7 +1670,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[QotNews](https://news.t0.vc/)**
 
-[spidr](https://spidr.today/), [All Sides](https://www.allsides.com/), [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/), [freepo.st](https://freepo.st/), [TechMeme](https://www.techmeme.com/m/), [RealClearPolitics](https://www.realclearpolitics.com/), [Their News](https://www.their.news/), [Lobsters](https://lobste.rs/) / [Highlighter](https://greasyfork.org/en/scripts/40906), [68k News](http://68k.news/), [Readspike](https://readspike.com/), [sumi.news](https://sumi.news/), [Ground News](https://ground.news/), [The Brutalist Report](https://brutalist.report/), [Bastyon](https://bastyon.com/index), [Upstract](https://upstract.com/), [Otherweb](https://otherweb.com/), [AlDaily](https://www.aldaily.com/), [newsfeed.one](https://newsfeed.one/), [Fark](https://www.fark.com/), [FlipBoard](https://flipboard.com/), [jimmyr](http://www.jimmyr.com/), [alltop](https://alltop.com/)
+[spidr](https://spidr.today/), [All Sides](https://www.allsides.com/), [NewsNow](https://www.newsnow.co.uk/), [Google News](https://news.google.com/), [freepo.st](https://freepo.st/), [TechMeme](https://www.techmeme.com/m/), [RealClearPolitics](https://www.realclearpolitics.com/), [Their News](https://www.their.news/), [Lobsters](https://lobste.rs/) / [Highlighter](https://greasyfork.org/en/scripts/40906), [68k News](http://68k.news/), [Readspike](https://readspike.com/), [sumi.news](https://sumi.news/), [Ground News](https://ground.news/), [The Brutalist Report](https://brutalist.report/), [Bastyon](https://bastyon.com/index), [Upstract](https://upstract.com/), [Otherweb](https://otherweb.com/), [AlDaily](https://www.aldaily.com/), [newsfeed.one](https://newsfeed.one/), [Fark](https://www.fark.com/), [FlipBoard](https://flipboard.com/), [jimmyr](http://www.jimmyr.com/), [alltop](https://alltop.com/), [current.report](https://current.report/)
 
 ***
 
@@ -1802,6 +1803,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[disroot](https://bin.disroot.org/)** or [RIN Privatebin](https://privatebin.rinuploads.org/)
 * ⭐ **[PrivateBin](https://privatebin.info/directory/)**
 * ⭐ **[katb](https://katb.in/)**
+* [Snips.sh](https://snips.sh/) - Self-Hosted
 
 [TextBin](https://textbin.xyz/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [pst.moe](https://pst.moe/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [bin.idrix](https://bin.idrix.fr/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/) / [2](https://dpaste.org/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [fssquad](https://share.fssquad.com/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [paaster](https://paaster.io/), [pastery](https://www.pastery.net/), [privatebin](https://privatebin.net/), [pastebin.pl](https://pastebin.pl/), [paste.gg](https://paste.gg/), [bpa](https://bpa.st/), [bin](https://bin.gy/), [paste.fo](https://paste.fo/), [nekobin](https://nekobin.com/), [hasbin](https://hashb.in), [Defuse](https://defuse.ca/pastebin.htm), [gocatgo](https://github.com/vaaleyard/gocatgo), [zerobin](https://zerobin.net/), [paste.vaa.red](https://paste.vaa.red/), [Hasty Paste](https://github.com/enchant97/hasty-paste), [bucketex](https://bucketex.com/), [hardbin](https://hardbin.com/), [hatebin](https://hatebin.com/), [pastemytxt](https://pastemytxt.com/), [txtpaste](https://txtpaste.com/), [pastecode](https://pastecode.io/), [pastehere](https://pastehere.xyz/), [txtnotes](https://txtnotes.co/), [paste.debian](https://paste.debian.net/), [ivpaste](https://ivpaste.com/), [centos](https://paste.centos.org/), [rwtxt](https://rwtxt.com/), [blankslate](https://blankslate.io/)
 
@@ -2050,9 +2052,8 @@ Add the following commands to a search to manually scrape each site.
 #### Quotes
 
 * ⭐ **[Wikiquote](https://en.wikiquote.org)**
-* ⭐ **[Quote Collections](https://redd.it/dlao3b)**
 
-[Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [BrainyQuote](https://www.brainyquote.com/), [AZQuotes](https://www.azquotes.com/), [QuoteGarden](https://www.quotegarden.com/)
+[Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [BrainyQuote](https://www.brainyquote.com/), [AZQuotes](https://www.azquotes.com/), [QuoteGarden](https://www.quotegarden.com/), [Quote Collections](https://redd.it/dlao3b)
 
 ***
 
@@ -3244,6 +3245,10 @@ Add the following commands to a search to manually scrape each site.
 * [LTSC Debloat Guide](https://rentry.co/LTSC)
 
 [Windows 10 Debloater](https://github.com/Sycnex/Windows10Debloater), [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove), [BloatBox](https://github.com/builtbybel/bloatbox), [Optimize-Offline](https://github.com/DrEmpiricism/Optimize-Offline), [Windows-Decrapifier](https://github.com/n1snt/Windows-Decrapifier), [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script), [Remove-Windows10-Bloat](https://gist.github.com/matthewjberger/2f4295887d6cb5738fa34e597f457b7f), [Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10), [Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat), [WinRice](https://github.com/pratyakshm/WinRice), [TweakList](https://github.com/couleur-tweak-tips/TweakList), [Windows-On-Reins](https://github.com/gordonbay/Windows-On-Reins), [BRU](https://github.com/arcadesdude/BRU), [Windows-Bloatware-Removal](https://github.com/BallisticTurtle/Windows-Bloatware-Removal/blob/master/Remove%20Windows%20Bloatware.bat), [optimizer](https://github.com/hellzerg/optimizer/), [XToolbox](https://github.com/xemulat/XToolbox), [Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools), [Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover), [Win10Debloat](https://github.com/Raphire/Win10Debloat), [windows_hardening.cmd](https://gist.github.com/ricardojba/ecdfe30dadbdab6c514a530bc5d51ef6), [Dism++](https://www.majorgeeks.com/files/details/dism.html)
+
+**Windows 11**
+
+[Windows 11 Debloater](https://github.com/teeotsa/windows-11-debloat), [win11SetupScript](https://github.com/fedoz13/win11SetupScript), [debloat-windows11](https://github.com/kdpuvvadi/debloat-windows11), [JunkCtrl](https://github.com/builtbybel/JunkCtrl/), [BloatyNosy](https://github.com/builtbybel/BloatyNosy),[XToolbox](https://github.com/xemulat/XToolbox)
 
 ***
 
