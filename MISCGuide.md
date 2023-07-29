@@ -4,1284 +4,1479 @@
 ***
 ***
 
-**[Table of Contents](https://i.ibb.co/vx9L38t/6dcb469e7955.png)** - For mobile users
+**[Table of Contents](https://ibb.co/7S2G0Qv)** - For mobile users
 
 ***
-***
+*** 
 
-# ► Audiobook Sites
+# ► Indexes
 
-* ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)** or **[Rave Search](https://ravebooksearch.com/index-audiobooks)** - Multi-Site Audiobook Search
-* ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**
-* ⭐ **[Audiobook Bay](https://audiobookbay.li/)**, [2](https://audiobookbay.se/) - Torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png)
-* ⭐ **[Tokybook](https://tokybook.com/)** - Listen Online
-* ⭐ **[Top 1000 Audiobooks](https://github.com/nbats/FMHYedit/blob/main/base64.md#audiobook-megadrive)** - Audiobooks / Drive
-* [Telegram Audiobooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audiobook_downloads) - Telegram Audiobook Channels
-* [HotAudiobooks](https://hotaudiobooks.com) - Listen Online
-* [HDAudiobooks](https://hdaudiobooks.com/) - Listen Online
-* [BigAudiobooks](https://bigaudiobooks.com/) - Listen Online
-* [BookAudiobook](https://bookaudiobooks.com/) - Listen Online
-* [HD Audio Books](https://hdaudiobooks.com/) - Listen Online
-* [GalaxyAudiobooks](https://galaxyaudiobook.com/) - Listen Online
-* [Audiobooks Lab](https://audiobooklabs.com/) - Listen Online
-* [Legamus](https://legamus.eu/blog/) - Listen Online
-* [Audio AZ](https://audioaz.com/) - Listen Online
-* [AudioBooksBeyond](https://odysee.com/@AudioBooksBeyond:1) - Listen Online
-* [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - Listen Online / Select Playlists
-* [AudioBooksBee](https://audiobooksbee.com/)
-* [Audiobookss](https://audiobookss.com/)
-* [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks)
-* [Golden Audiobooks](https://goldenaudiobook.com/)
-* [LoudLit](http://loudlit.org/)
-* [Read For Me](https://www.readsforme.com/)
-* [DigitalBook](https://www.digitalbook.io/)
-* [Librivox](https://librivox.org/)
-* [AudioBB](https://audiobb.com/)
-* [Audiobooks For Soul](https://audiobooks4soul.com/)
-* [AppAudiobooks](https://appaudiobooks.com/)
-* [Litgu.ru](https://litgu.ru/)
-* [FreeClassicAudiobooks](https://www.freeclassicaudiobooks.com/) - Classic Audiobooks
-* [Storynory](https://www.storynory.com/) - Children Audio Stories
-* [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - Audiobooks / Poetry
-* [Audiobooks Unleashed](https://audiobooksunleashed.com/) - Audiobook Codes
-* [/r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
-* [/r/audiobookrequest](https://reddit.com/r/audiobookrequest) - Request Audiobooks
-* [audiobook-dl](https://github.com/jo1gi/audiobook-dl) or [Audiobook Downloader](https://github.com/ipriyam26/Audiobook) - Audiobook Download Tool
-* [OverDrive](https://github.com/chbrown/overdrive) - OverDrive Audiobook Download Script
-* [AudiobookShelf](https://www.audiobookshelf.org/) or [BookSonic](https://booksonic.org/) - Self-Hosted Audiobook Servers
-
-***
-
-# ► Reading Sites
-
-* ⭐ **[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8)** / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39), [Rave](https://ravebooksearch.com/), [Recherche](https://recherche-ebook.fr/en/) or [Searcholic](https://searcholic.com/) - Multi-Site Book Search
-* ⭐ **[Anna’s Archive](https://annas-archive.org/)** - Books / Comics / Educational
-* ⭐ **[Z-Library](https://singlelogin.re/)**  - Books / Comics / Educational
-* ⭐ **Z-Lib Tools** - [Megathread](https://redd.it/zx6z62) / [I2P](http://kkd7tiqf5lv3olqfdnkw4znmmmmnjo2xqlxrp5ntthp6juowaiha.b32.i2p) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Subreddit](https://www.reddit.com/r/zlibrary/)
-* ⭐ **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics
-* ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools) / [ACSM Plugin](https://github.com/Leseratte10/acsm-calibre-plugin) / [Libre Plugin](https://github.com/poochinski9/libgen-calibre-store-plugin)
-* ⭐ **[Library Genesis](https://libgen.is)** or [Libgen.fun](https://libgen.fun/) - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen__mirrors)
-* ⭐ **[eBookHunter](https://ebook-hunter.org/)** - Books / Comics / Use Adblocker
-* ⭐ **[Archive.org](https://archive.org/details/texts)** - Books / Audiobooks / Magazines / Newspapers
-* ⭐ **[Telegram Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_ebook_download)** - Telegram Book Channels
-* [Shadow Libraries](https://shadowlibraries.github.io/) - EBook Site Index
-* [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - Books
-* [Book Search Guide](https://docs.google.com/document/d/1ZwWs8JOrlkrrqiHwkQSwc4_NM85Zbzc9t9ifQ1rHZgM/mobilebasic) - Guide to Finding Articles / Books
-* [Download Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "Books / Comics / Magazines"
-* [Torrent Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f and type "Books / Comics / Magazines"
-* [IRC Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites) - Download Ebooks from IRC / [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/), [2](https://encyclopediadramatica.online/Bookz) / [mIRC](https://redd.it/znprct) / [Downloader](https://github.com/aghayes/rusty_book_pirate/), [2](https://github.com/evan-buss/openbooks), [3](https://github.com/Footsiefat/Openbooks-Downloader)
-* [The Library](https://discord.gg/mSyFJz9) - Book Discord Server
-* [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines
-* [ebook3000.co](https://www.ebook3000.co/) - Books / Magazines / NSFW
-* [just a digital library](https://github.com/nbats/FMHYedit/blob/main/base64.md#just-a-digital-library) - Books
-* [Read Any Book](https://www.readanybook.com/) - Books
-* [openlibrary](https://openlibrary.org/) - Books
-* [standardebooks](https://standardebooks.org) - Books
-* [Manybooks](https://manybooks.net/)  - Books
-* [dpgroup](https://www.dpgroup.org/) - Books / Magazines
-* [eBookBB](https://ebookbb.com/)  - Books
-* [2020ok](http://2020ok.com/)  - Books / Comics
-* [AllBooksWorld](https://allbooksworld.com/)  - Books
-* [The Library](https://discord.gg/cgSVDUwZs9) - Books
-* [Only Books](https://onlybooks.org/) - Books
-* [Ocean of EPUB](https://oceanofepub.com/) - Books / Manga
-* [PDFGet](https://pdfget.com/) - Books
-* [LetMeRead](https://www.letmeread.net/) - Books
-* [FreeBookSpot](http://www.freebookspot.club/) - Books
-* [BooksToLearn](https://www.booktolearn.com) - Books
-* [NovelLibrary](http://novellibrary.com/) - Books / [Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#novel-library-drive)
-* [iBookPile](https://ibookpile.net/) - Books
-* [DPLA](https://dp.la/) - Books
-* [Books'Cool](https://en.novelonlineread.com/) - Books
-* [Dirzon](https://www.dirzon.com/) - Books
-* [VK eBook Sharing Group](https://vk.com/club162811046) - Books / Also try `site:vk.com` in searches
-* [EBooksCart](https://ebookscart.com/) - Books
-* [Index of /Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#index-of-books) - Books
-* [Novel12](https://novel12.com/) - Books
-* [IsIDore](https://github.com/nbats/FMHYedit/blob/main/base64.md#isidore) - Books
-* [Global Grey](https://www.globalgreyebooks.com/index.html) - Books
-* [Bookyards](https://www.bookyards.com/en/welcome) - Books
-* [DigiLibraries](https://digilibraries.com/) - Books
-* [ibookscafe](https://bookscafe.net/) - Books / NSFW
-* [FullBooks](http://www.fullbooks.com/) - Books
-* [e-Book Mecca](https://ebook-mecca.com/) - Books
-* [eBook4Expert](https://ebook4expert.net/) - Books
-* [TheFreeOnlineNovel](https://thefreeonlinenovel.com/) - Books
-* [ReadOnlineFreeBook](https://readonlinefreebook.com/) - Books
-* [All Books Hub](https://allbookshub.com/) - Books
-* [ebooksz](https://www.ebooksz.net/) - Books
-* [BBooks](https://bbooks.info/) - Books
-* [myebooksfree](https://www.myebooksfree.com/) - Books
-* [English E-Reader](https://english-e-reader.net/) - Books
-* [Chapter1](https://chapter1.us/) - Books
-* [Bibliomania](http://www.bibliomania.com/bibliomania-static/index.html) - Books
-* [Authorama](http://www.authorama.com/) - Books
-* [E-Books Directory](http://www.e-booksdirectory.com/) - Books
-* [Free-eBooks](https://www.free-ebooks.net/best-books) - Books
-* [eBookHunter.net](https://www.ebookhunter.net/) - Books
-* [Planet eBook](https://www.planetebook.com/) - Books
-* [Loyal Books ](http://www.loyalbooks.com/) - Books
-* [obooko](https://www.obooko.com/) - Books
-* [Get Free eBooks](https://www.getfreeebooks.com/) - Books
-* [eBooksBag](https://ebooksbag.com/) - Books
-* [JustFreeBooks](https://www.justfreebooks.info/) - Books
-* [eBook Junkie](https://www.ebookjunkie.com/) - Books
-* [Sharing eBook](https://www.sharingebook.com/) - Books
-* [DigitalBook](https://www.digitalbook.io/) - Books
-* [Goodfileshare](https://goodfileshare.com/) - Books
-* [eBook Lobby](http://www.ebooklobby.com/) - Books
-* [Avalon Library](https://avalonlibrary.net/) - Books
-* [D-PDF](https://d-pdf.com/) - Books
-* [EReads](https://ereads.net/) - Books
-* [CentslessBooks](https://centslessbooks.com/) - Books
-* [Litgu.ru](https://litgu.ru/) - Books
-* [British Library](https://www.bl.uk/) - Books
-* [EbookLobby](http://ebooklobby.com/) - Books
-* [BookFrom.net](https://www.bookfrom.net/) - Books
-* [FreeEditorial](https://www.freeditorial.com/) - Books
-* [Zoboko](https://zoboko.com/) - Books
-* [Standard EBooks](https://standardebooks.org/) - Books
-* [Barnes & Noble](https://www.barnesandnoble.com/b/free-ebooks/ebooks-nook/_/N-ry0Z8qa) - Books
-* [Google Play Books](https://play.google.com/store/books/collection/topselling_free) - Books
-* [Smashwords](https://www.smashwords.com/shelves/home/1/free/any), [2](https://www.smashwords.com/books/category/1/newest/0/free/any) - Books
-* [lesatkins](http://www.lesatkins.com/books/epubfiles/) - Books
-* [Flibusta](https://flibusta.is/) - Books / [I2P](http://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) / Requires account
-* [The Free Book Library](http://ebooks.i2p/) - Books / I2P Required
-* [Weird Old Book Finder](https://weird-old-book-finder.glitch.me/) - Find Old Books
-* [FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Books
-* [Wikibooks](https://www.wikibooks.org/) - Wikimedia community
-* [ChestOfBooks](https://chestofbooks.com/) - Online Public Domain Books
-* [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - ZeroNet Required
-* [FileStore](http://filestore.orgfree.com/) - Emule Book Collections
-* [Just Another Library](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/) - Tor Required / NSFW
-* [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
-* [Rivetedlit](https://rivetedlit.com/) - Books
-* [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
-* [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
-* [/r/opendirectories](https://reddit.com/r/opendirectories)
-* [/r/EBook_Resources](https://reddit.com/r/EBook_Resources/)
-* [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS)
-* [/r/Freenookbooks](https://reddit.com/r/Freenookbooks/)
-* [/r/bookdownloads](https://reddit.com/r/bookdownloads/)
-* [/r/KindleFreebies](https://reddit.com/r/KindleFreebies/)
-* [WorldCat](https://www.worldcat.org/) or [TRL](https://www.trl.org/) - Search Local Libraries / [Extension](https://www.libraryextension.com/)
-* [Nexus Bot](https://t.me/nexus_search/84) - Create your own TG Book Bot / [Guide](https://youtu.be/i9TNgb9pjV8)
-
-***
-
-## ▷ PDF Search
-
-* ⭐ **[PDFDrive](https://pdfdrive.com/)** - Books
-* [8kun Library](https://8kun.top/pdfs/index.html) - Books
-* [Ocean of PDF](https://oceanofpdf.com/) - Books / Comics
-* [pdfroom](https://pdfroom.com/) - Books / Comics
-* [Pdfgeni](http://www.pdfgeni.com/) - Books
-* [PDFGrab](https://pdfgrab.com/) - Books
-* [Ebook PDF](https://ebookpdf.com/) - Books
-* [KuPDF](https://kupdf.net/) - Books
-* [ePDF](https://epdf.tips/) - Books
-* [PDFCoffee](https://pdfcoffee.com) - Books
-* [Moam](https://moam.info/) - Books
-* [PDFCookie](https://pdfcookie.com/) - Books
-* [PDFSearches](https://pdfsearches.com/) - Books
-* [OiiPDF](https://oiipdf.com/) - Books
-* [PDFSlide](https://pdfslide.net/) - Books
-* [iDoc](https://idoc.tips/) - Books
-* [PDFDuck](https://pdfduck.com/) - Books
-* [PDF Stop](https://pdfstop.com/) - Books
-* [freepdfbook](http://www.freepdfbook.com/) - Books
-* [Amazonaws](https://www.google.com/search?q=site%3As3.amazonaws.com+%3CSearch+term%3E+filetype%3Apdf) - Amazon PDF Search
-
-***
-
-## ▷ Classic Sites
-
-* [Classic Bookshelf](http://www.classicbookshelf.com/library/)
-* [Page by Page Books](https://www.pagebypagebooks.com/)
-* [Luminarium](http://www.luminarium.org/)
-* [Questia](https://www.gale.com/databases/questia)
-* [Balwin of Library](https://ufdc.ufl.edu/baldwin/all/thumbs)
-* [Read.gov](http://www.read.gov/books/)
-* [Classic Literature](https://classic-literature.co.uk/)
-* [Freeditorial](https://freeditorial.com/)
-* [Lit2Go](https://etc.usf.edu/lit2go/)
-* [Planet Publish](http://www.planetpublish.com/)
-* [sherlock-holm.es](https://sherlock-holm.es/) - Complete Sherlock Holmes Canon
-
-***
-
-## ▷ Religion / Esoterica
-
-* ⭐ **[Sacred Text Archive](https://www.sacred-texts.com/index.htm)** - Religion / Mythology / Folklore / Esoterica
-* ⭐ **[ARCHIVES](https://discord.gg/occult)** - Occult / Witchcraft / Religion
-* ⭐ **[/r/Echerdex](https://www.reddit.com/r/Echerdex/)** - Esoterica / [Repository](https://github.com/nbats/FMHYedit/blob/main/base64.md#echerdex-repository) / [Discord](https://discord.gg/dS5X3d7ype)
-* ⭐ **[WiLd's Occult Ebook Sources](https://github.com/nbats/FMHYedit/blob/main/base64.md#wilds-occult-ebook-sources)** - Occult / Esoterica
-* [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2) - Occult
-* [GodChecker](https://www.godchecker.com/) - Religion / Mythology
-* [Hermetic International](https://www.hermetics.net/) - Religion / Occult / Alchemy / Astrology / Freemasonry / Gnosticism / Hermetic / Kabbalah / Philosophy
-* [Hermetics](https://www.hermetics.org/library.html) - Ancient Texts / Mythology / Occult
-* [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - Religion / Esoterica / Occult
-* [Summa Theologiae](https://drbo.org/summa//) - Religion / Sacred Doctrine / Christianity
-* [Esoteric Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#esoteric-library) - Esoterica / Occult
-* [Biblioteca Pleyades](https://www.bibliotecapleyades.net/esp_tema.htm) - Mythology / Conspiracy / Esoterica
-* [Magic / Esoteric Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks) - Magic / Esoterica
-* [Dhamma Talks](https://www.dhammatalks.org/) - Sacred Texts / Religion / Buddhism
-* [Sutta Central](https://suttacentral.net/) - Sacred Texts / Religion / Buddhism
-* [Gnostic Society Library](http://www.gnosis.org/library.html) - Gnosticism
-* [Esoterica](https://github.com/nbats/FMHYedit/blob/main/base64.md#esoterica) - Esoterica / Philosophy / Gnosticism
-* [Logoi Library](http://logoilibrary.com/) - Gnosticism / Hermeticism
-* [766 Occult Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#766-occult-books) - Occult
-* [Messy Occult Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#messy-occult-library) - Occult / Esoterica / Gnosticism
-* [ObscUrban Legend Wiki](https://obscurban-legend.fandom.com/) - Mythology / Urban Legends
-* [FairyTalez](https://fairytalez.com/) - Mythology / Folklore / Fairy Tales
-* [Encyclopedia Mythica](https://pantheon.org/) - Mythology / Folklore / Religion
-* [Mythology.net](https://mythology.net/) - Mythology / Religion
-* [ABookOfCreatures](https://abookofcreatures.com/), [Demons of the Deep](https://seademons.weebly.com/) or [Bestiary](https://bestiary.ca/beasts.htm) - Mythological Encyclopedias
-* [Theoi](https://www.theoi.com/) - Greek Mythology
-* [Germanic Mythology](https://www.germanicmythology.com/index.html) - Germanic Mythology
-* [Japanese Mythology](https://japanesemythology.wordpress.com/) - Japanese Mythology
-* [The Myths of Mexico](https://archive.org/details/cu31924020419275/) - Mexican Mythology
-* [A Chinese Bestiary](https://archive.org/details/AChineseBestiary/) - Chinese Mythology
-* [Inuit Myths](https://www.inuitmyths.com/index.htm) - Inuit Mythology
-* [Bane Theresa Encyclopedia](https://archive.org/details/BaneTheresaEncyclopediaOfDemonsInWorldReligionsAndCultures/) - Demon Encyclopedia
-* [Encyclopedia of Vampire Myths](https://archive.org/details/EncyclopediaOfVampireMythologypdf) - Vampire Encyclopedia
-* [Encyclopedia of the Undead](https://archive.org/details/EncyclopediaOfUndead/) - Undead Encyclopedia
-* [BlackDrago](https://www.blackdrago.com/) - Dragon Encyclopedia
-* [Encyclopedia Of Fairies](https://archive.org/details/BriggsKatharineMaryAnEncyclopediaOfFairies/) - Fairy Encyclopedia
-* [LeftHandPath](https://github.com/nbats/FMHYedit/blob/main/base64.md#lefthandpath) - Luciferianism
-* [The Law of One](https://www.lawofone.info/) - The Law of One Sessions
-* [Esoteric Archive](http://esotericarchives.com/) - Esoterica
-* [/r/alexandria](https://www.reddit.com/r/alexandria/) - Esoteric / Occult
-* [Masonic Library](https://masonicshop.com/masonic-library/) - Esoterica / Freemasonry
-* [Golden Dawn](https://golden-dawn.com/nl/library.aspx) - Alchemy / Esoterica
-* [Darkbooks](https://darkbooks.org/collection/top250.html) - Occult
-* [Astrum Argenteum](https://www.astrumargenteum.org/library/) - Occult
-* [Azrk's library](https://github.com/nbats/FMHYedit/blob/main/base64.md#azrks-library) - Occult / Esoterica / Satanism / Religion / Ect.
-* [Rosicrucian Esotericism Lecture](https://rsarchive.org/) - Rosicrucian Esotericism
-* [Spirituality Megadrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#spirituality-megadrive)
-* [IAPSOP](http://iapsop.com/) - Spiritualist / Occult Periodicals
-* [Beyond Weird](https://www.beyondweird.com/) - Witchcraft / Conspiracies
-* [Archive](https://github.com/nbats/FMHYedit/blob/main/base64.md#archive) - Conspiracy / Occult / Metaphysics
-* [Dhushara Research](http://www.dhushara.com/index.htm) - Metaphysics / Conspiracies / Psychedelics
-* [CraftStuff](https://github.com/nbats/FMHYedit/blob/main/base64.md#craftstuff) - Witchcraft
-* [Witchcraft Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#witchcraft-library) - Witchcraft / Paganism
-* [Public Witchcraft Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#public-witchcraft-library) - Witchcraft / Paganism / Satanism
-* [SpellsOfMagic](https://www.spellsofmagic.com/) - Witchcraft / Magic
-* [Alchemy Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#alchemy-drive) - Alchemy
-* [Hellenistic Theism Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#hellenistic-theism)  - Hellenistic Theism
-* [The Theosophical Society](https://www.theosociety.org/) - Theosophy
-* [Grimoire Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#grimoires) - Grimoires
-* [Early Christian Writings](http://www.earlychristianwritings.com/index.html) - Christianity / Gnosticism
-* [HolyBooks](https://holybooks.com/) - Religious Texts
-* [Sounding Spirit](https://library.soundingspirit.org/) - Religious Songbooks
-* [The Dead Sea Scrolls](https://www.deadseascrolls.org.il/) - Dead Sea Scrolls Archive
-* [DigiVatLib](https://digi.vatlib.it/) - Digital Vatican Library
-* [BibleGateway](https://www.biblegateway.com/) or [Bible.com](https://www.bible.com/) - Christian Bible
-* [eSword](https://e-sword.net/) - Christian Bible Desktop App
-* [BibleTheLife](https://gitlab.com/hotlittlewhitedog/BibleTheLife) - Christian Bible / Android
-* [Bible](https://apps.apple.com/us/app/bible/id282935706) - Christian Bible / iOS
-* [Classics Ethereal Library](https://www.ccel.org/) - Christianity
-* [TheBrickBible](https://thebrickbible.com/) - The Bible Recreated with Lego
-* [BibleEmoji](http://www.bibleemoji.com/) - Convert Bible Verses to Emojis
-* [Hidden Bible](http://www.hiddenbible.com/enoch/online.html) - Enoch Translation
-* [GodAlone](http://www.godalone.org/) or [Quran](https://quran.com/) / [2](https://beta.quran.com/en) - Quran Translations / [Mobile](https://github.com/quran/quran_android), [2](https://quran.alfaazplus.com/)
-* [Awesome Islam](https://github.com/AhmedKamal/awesome-Islam) - Islam Related Projects / Apps
-* [OpenMaktaba](https://openmaktaba.com/) - Islamic Books
-* [TheIslam360](https://theislam360.com/) - Islamic Research App
-* [English Torah](http://englishtorah.com/) - Torah Translation
-* [Halakhah](https://www.halakhah.com/) - Talmud Translation
-* [Targum](http://targum.info/targumic-texts/) - Targum Translation
-* [Muslim Scholars](http://muslimscholars.info/) - Muslim Scholar Database
-* [2Muslims](https://www.2muslims.com/) or [IslamHouse](https://islamhouse.com/en) - Muslim Resources
-* [Five Prayers](https://github.com/Five-Prayers/five-prayers-android) - Muslim Tools App
-* [Questions on Islam](https://questionsonislam.com/) - Muslim Q&A
-* [Sunnah.com](https://sunnah.com/) - Hadith Translation
-* [84000](https://read.84000.co/) - Buddhism
-* [BuddhaNet](http://www.buddhanet.net/) - Buddhism
-* [Encyclopedia Of Buddhism](https://archive.org/details/EdwardA.IronsEncyclopediaOfBuddhismEncyclopediaOfWorldReligions/) - Buddhist Encyclopedia
-* [Buddhism Dictionary](http://www.buddhism-dict.net/ddb/) - Buddhist Dictionary
-* [Sankaracharya](http://www.sankaracharya.org/index.php) - Hinduism
-* [Vedanta Shastras](https://www.shastras.com/) - Hinduism
-* [Encyclopedia Of Hinduism](https://archive.org/details/ConstanceA.JonesJamesD.RyanEncyclopediaOfHinduism/) - Hinduism Encyclopedia
-* [Jainism Library of Jain Literature](http://www.atmadharma.com/index.html) - Sacred Texts / Religion / Multi Language
-* [Vedabase](https://vedabase.io/en/) - Bhaktivedanta Swami / Books / Transcripts / Letters
-
-***
-
-## ▷ Special Interest
-
-* ⭐ **[Cookbooks / Recipes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_food)** - Cookbook and Recipe Sites
-* ⭐ **[Wikiquote](https://en.wikiquote.org)**, [Quote Collections](https://redd.it/dlao3b), [Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [BrainyQuote](https://www.brainyquote.com/), [AZQuotes](https://www.azquotes.com/) or [QuoteGarden](https://www.quotegarden.com/) - Quotes
-* ⭐ **[do_k_ument](https://github.com/nbats/FMHYedit/blob/main/base64.md#do_k_ument)** - Survival, Forging, Smithing, Weapons Training, Field Manuals
-* [Short Stories](https://short-stories.co/) or [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
-* [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
-* [CreepyPasta](https://www.creepypasta.com/) - Creepypasta Database
-* [Poetry Foundation](https://www.poetryfoundation.org/), [PoemHunter](https://www.poemhunter.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
-* [FreeSFOnline](https://www.freesfonline.net/) - Sci-Fi / Fantasy
-* [EpubPuB](https://www.epub.pub/) - Romance / Fantasy
-* [TopMystery](http://www.topmystery.com/onlinebooks) - Mystery
-* [HourWolf](https://www.hourwolf.com/sfbooks/) - Fantasy
-* [Children's Library](http://en.childrenslibrary.org/),  [MagicKeys](http://www.magickeys.com/books/), [byGosh](https://bygosh.com), [StoryWhale](https://www.storywhale.com/), [Baldwin Library](https://ufdc.ufl.edu/juv) or [BookDash](https://github.com/bookdash/bookdash-android-app) - Children's
-* [BestArtbooks](https://t.me/BESTARTBOOKS) or [Artbooks.gala](https://artbooks.gala100.net/) - Artbooks
-* [PimpMyMind](https://pimpmymind.net/) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - Self-Help
-* [Optimize](https://www.heroic.us/optimize) - Self-Improvement Notes / Lessons
-* [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
-* [Survivor Library](http://www.survivorlibrary.com/), [PrepperCollective](https://t.me/PrepperCollective) / [Index](https://t.me/PrepperCollectiveIndex), [OffGridDownload](https://t.me/offgriddownload), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - Survival
-* [SurvivalManual](https://ligi.de/) or [The Preparedness Encyclopedia](https://redd.it/muc9ff) - Survival Guides / [GitHub](https://github.com/ligi/SurvivalManual)
-* [Appropedia](https://www.appropedia.org/) - Sustainability Wiki
-* [Auto-Brochures.com](https://www.auto-brochures.com/) - Auto Brochures
-* [QSL](https://github.com/nbats/FMHYedit/blob/main/base64.md#qsl) - Ham Radio & Antenna Books
-* [FoodTimeLine](https://www.foodtimeline.org/) - Food History
-* [How Many Plants](https://howmanyplants.com/) - House Plant Information
-* [Erowid](https://www.erowid.org/) - Psychoactive Information
-* [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) - Phychonauts Wiki
-* [Shroomery](https://www.shroomery.org/) - Magic Mushroom Forum
-* [HerbologyY](https://t.me/HerbologyY) - Herbology / Telegram
-* [HypnosisChatBooks](https://t.me/HypnosisChatBooks) - Hypnosis / Telegram
-* [EasyPeasy](https://easypeasymethod.org/) - Painlessly Quit Pornography
-* [UFO Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#ufo-books)- UFO / Xenology
-* [MorbidKuriosity](https://morbidkuriosity.com/) - Conspiracies, Dark History, Crime, Myths etc.
-* [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
-* [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
-* [Potions and Snitches](http://www.potionsandsnitches.org/) - Harry Potter Fanfiction
-* [Projectrho](http://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
-* [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG / [Archives](https://github.com/nbats/FMHYedit/blob/main/base64.md#the-trove-archives) / [/r/TheTroveIPFS](https://www.reddit.com/r/TheTroveIPFS/)
-* [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) or [TTRPG Torrent](https://github.com/nbats/FMHYedit/blob/main/base64.md#ttrpg-books) - TTRPG Books
-* [SimplyScripts](https://www.simplyscripts.com/) or [SubsLikeScript](https://subslikescript.com/) - Movie / TV Scripts
-* [The Anarchist Library](http://theanarchistlibrary.org/special/index) - Anarchism
-* [Anarcho-Copy](https://anarcho-copy.org/) - Anarchism
-* [Archive.Leftove.rs](https://archive.leftove.rs/) - Protest Documents
-* [Marxists Internet Archive](https://www.marxists.org/) - Socialism / Communism
-* [Liberation School](https://liberationschool.org/) - Communism
-* [Red Texts](https://redtexts.org/) - Communism
-* [marxist.space](https://marxist.space/) - Communism
-* [Communism Essays / FAQs](https://github.com/dessalines/essays) - Communism
-* [Third World Traveler](https://thirdworldtraveler.com/) - Human Rights / Conspiracies / Anti-War
-* [China-Dictatorship](https://github.com/cirosantilli/china-dictatorship) - Anti-Chinese Authoritarianism
-* [Rookie Road]( https://www.rookieroad.com/) - Sport Guides
-* [Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)
-
-***
-
-# ► Educational Sites
-
-* ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - [Interviews](https://www.myanonamouse.net/inviteapp.php)
-* ⭐ **[Digitalbookindex](http://www.digitalbookindex.org)**
-* ⭐ **[AcademicTorrents](https://academictorrents.com/)**
-* ⭐ **[IvyPanda](https://ivypanda.com/blog/1000-open-textbooks-and-learning-resources-for-all-subjects/)** - List of Educational Sites
-* ⭐ **[Everything I Know](https://wiki.nikiv.dev/)** - Articles Sorted by Topic
-* ⭐ **[Math Resource Guide](https://free-math-resources.netlify.app/)** - Curated list of math resources by /u/javacoder19
-* ⭐ **[Language Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_language_learning)** - Language Learning Tools, Books & Sites
-* [Institutional Access](https://www.facebook.com/groups/850609558335839) - Request Institutional Access PDFs
-* [Math and Physics Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#math-and-physics-books) - [Discord](https://discord.gg/v23hTtx)
-* [Library Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#library-drive)
-* [Openstax](https://openstax.org/)
-* [Online Books Page](https://onlinebooks.library.upenn.edu/)
-* [The Literature Network](http://www.online-literature.com/)
-* [Memory of the World](https://www.memoryoftheworld.org/)
-* [LibreTexts](https://libretexts.org/)
-* [PDFBooksWorld](https://www.pdfbooksworld.com/)
-* [Monoskop](https://monoskop.org/log/)
-* [ACM](https://dl.acm.org/)
-* [HathiTrust](https://www.hathitrust.org/)
-* [FreeBookCentre](https://freebookcentre.net/)
-* [OAPEN](https://oapen.org/)
-* [vdoc.pub](https://vdoc.pub/)
-* [Sciarium](https://sciarium.com/)
-* [OpenED](https://open.bccampus.ca/)
-* [doabooks](https://doabooks.org/)
-* [De Gruyter](https://www.degruyter.com/browse?submittedFilterId=by-type&access_4=open&pageSize=10&sort=datedescending&type_5=book), [2](https://www.degruyter.com/page/2045)
-* [The Online Books Page](https://onlinebooks.library.upenn.edu/search.html)
-* [Springer](https://link.springer.com/search?showAll=false&query=&facet-content-type=%22Book%22)
-* [Learn Anything / Books](https://github.com/learn-anything/books)
-* [Tradepub](https://knowfree.tradepub.com/)
-* [PupilGarage](http://www.pupilgarage.com/)
-* [Ed_Books](https://t.me/Ed_Books)
-* [eBookRoom](https://t.me/eBookRoom)
-* [Libribook](https://libribook.com/)
-* [Directory of Open Access Books](https://www.doabooks.org/)
-* [BookGoldMine](https://www.bookgoldmine.com/)
-* [Penn Libraries](http://digital.library.upenn.edu/) + [Index](http://digital.library.upenn.edu/books/)
-* [BitDL](https://github.com/nbats/FMHYedit/blob/main/base64.md#bitdl)
-* [SuperKuh](http://erewhon.superkuh.com/library/)
-* [Non_Fic](https://vk.com/non_fic)
-* [FreePLRDownloads](https://freeplrdownloads.com/)
-* [Uloz Archive](https://github.com/nbats/FMHYedit/blob/main/base64.md#uloz-archive)
-* [FreeBookCentre](http://www.freebookcentre.net/)
-* [Wikiversity](https://www.wikiversity.org/) - Learning Resources, Guides, Quizzes, Tools & More
-* [OpenEdition](https://www.openedition.org/) - Books / Journals
-* [JSTor](https://www.jstor.org/) - Books / Journals
-* [Dummies Store](https://t.me/dummiesbook) - Books for Dummies Collection
-* [Saylor Academy](https://learn.saylor.org/) - Courses
-* [eBookers](https://t.me/ebookers) - Telegram
-* [Textbook Search Engine](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers), [2](https://cse.google.com/cse?cx=001639227550064093264:dznewka3cca) - Search for Textbooks
-* [Open Textbook Library](https://open.umn.edu/opentextbooks/) - Textbooks
-* [grade12books](https://t.me/grade12books) - Textbooks
-* [TextBookGo](http://textbookgo.com/) - TextBooks
-* [Saylor](https://www.saylor.org/books/) - Textbooks
-* [Wikibooks](https://en.wikibooks.org/) - Open-Content Texbooks
-* [Pearson](https://redd.it/smm6ib) - Pearson Textbook Download Guide
-* [PowerInBooks](https://powerinbooks.xyz/temp/) - Textbook Solutions
-* [LearnCreative](https://learncreative.net/) - IIT, JEE, NEET & AIIMS Material
-* [JEEBooksPDF](https://m.youtube.com/c/JEEBooksPDF) - JEE Material / [Telegram](https://telegram.me/jeebookspdf) / DL's in Descriptions
-* [ck12](https://www.ck12.org/)- Interactive CK-12
-* [premium_ebooks](https://t.me/premium_ebooks) - Exam Books
-* [Oxford Bookworms](https://t.me/OxfordBookworms) - Books / Audiobooks / Telegram
-* [Digital Libraries / Archives](https://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/) - Online university libraries
-* [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) - Academic Repository Search
-* [Quantum Web Directory](https://qntm2017.github.io/qntm/OV.html) - Science / Tech / Math / Physics
-* [arXiv](https://arxiv.org/) - Science / Math / Physics / [Search](https://arxiv-sanity-lite.com/)
-* [IntechOpen](https://www.intechopen.com/) - Science
-* [Magazines Scientific](https://scientificmagazines.top/) - Science Magazines
-* [Naked Scientists](https://www.thenakedscientists.com/) - Podcasts / Shows / Science
-* [Science Forums](https://www.scienceforums.net/) - Forums / Science
-* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Astronomy & Physics](https://github.com/nbats/FMHYedit/blob/main/base64.md#astronomy--physics) - Books / Notes / Astronomy
-* [Institute of Mathematics](https://aimath.org/textbooks/) - Math / Books
-* [RealNotComplex](https://realnotcomplex.com/) - Math / Books
-* [Engineering Books PDF](https://engineeringbookspdf.com/) - Engineering
-* [EasyEngineering](https://easyengineering.net/) - Engineering
-* [EngineeringBooksPDF](https://www.engineeringbookspdf.com/) - Engineering
-* [EngineeringEBooks_civil](https://t.me/EngineeringEBooks_civil) - Civil Engineering
-* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#free-content) - Artificial Intelligence
-* [All About Circuits](https://www.allaboutcircuits.com/education/) - Electronics
-* [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - Electronics Schematics / Simulations
-* [SemiWiki](https://semiwiki.com/) - Semiconductor Wiki
-* [PDFiles](https://www.pdfiles.net/) - IT Books
-* [IT Book Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#it-books-drive) - IT Books
-* [Explanations](https://magcius.github.io/xplain/article/) - Advanced Computer Explanations
-* [The Ergonomic Development of Video Game Controllers](https://www.longdom.org/open-access/the-ergonomic-development-of-video-game-controllers-2165-7556-1000209.pdf)
-* [Bash Academy](https://guide.bash.academy/) - Bash Shell Guide
-* [biorxiv](https://www.biorxiv.org/) - Biology Preprints
-* [Textbook of Bacteriology](http://www.textbookofbacteriology.net/index.html) - Microbiology Textbooks
-* [Encyclopedia Of Agriculture And Food Systems](https://archive.org/details/Encyclopedia_Of_Agriculture_And_Food_Systems/)
-* [EveryCulture](https://www.everyculture.com/index.html) - World Culture Encyclopedia
-* [Encyclopaedia Iranica](https://www.iranicaonline.org/) - Iranian Culture Encyclopedia
-* [Encyclopedia Of Indo-European Culture](https://archive.org/details/EncyclopediaOfIndoEuropeanCulture/) - Indo-European Culture Encyclopedia
-* [Indigenous Peoples in Brazil](https://pib.socioambiental.org/en/Main_Page) - Brazilian Indigenous Culture Encyclopedia
-* [MadeHow](http://www.madehow.com/) - How Products Are Made
-* [TheDailyIdea](https://thedailyidea.org/reading-lists), [2](https://thedailyidea.org/philosophy-syllabi-collection/) - Philosophy
-* [APAOnline](https://www.apaonline.org/) - Philosophy
-* [Access Medicine](https://accessmedicine.mhmedical.com/books.aspx?view=library) - Medical
-* [PickPDF](https://pickpdfs.com/) - Medical
-* [FreeBooks4Doctors](http://freebooks4doctors.com/) - Medical
-* [MedicalStudyZone](https://medicalstudyzone.com/) - Medical
-* [Medical_Book_Bot](https://t.me/Medical_Book_Bot) - Medical / Telegram
-* [medrxiv](https://www.medrxiv.org/) - Medicine Preprints
-* [VetBooks](https://vetbooks.ir/) - Veterinary
-* [AllTradersLibrary](https://t.me/alltradersLibrary) - Market Trading Books
-* [businessbookmall](http://www.businessbookmall.com/), [2](http://www.textbooksfree.org/) - Accounting, Economics & Business
-* [Micronations Wiki](https://micronations.wiki/) - Micronations Wiki
-* [Brill](https://brill.com/) - International Law Books
-* [Camopedia](https://www.camopedia.org/) - Camouflage Wiki
-* [AirVectors](http://www.airvectors.net/) - Aircraft Wiki
-* [RationalWiki](https://rationalwiki.org/) - Pseudoscience Refutation Wiki
-* [Snopes](https://www.snopes.com/) - Urban Legends, Folklore, Misinformation
-* [STORY](https://archive.org/details/RobertMcKeeStorypdf/) - Screenwriting Principles
-* [Butterick’s Practical Typography](https://practicaltypography.com/) - Typography Guide Book
-* [Sewing8](https://t.me/sewing8) - Sewing / Pattern Making Books
-* [Robot Shop](https://community.robotshop.com/) - Robotics Forum
-* [Cro-Wood](https://www.cro-wood.com/) - Woodworking Forum
-* [Alt Law Forum](https://altlawforum.org/) - Alternative Law Forum
-* [Open Educational Resources](https://cdn-infographic.pressidium.com/wp-content/uploads/How-to-Search-for-Open-Educational-Resources-Infographic.jpg) - How to search for Open Educational Resources
-* [HowStuffWorks](https://www.howstuffworks.com/) - Learn How Things Work
-* [masterWiki](https://masterwiki.how/) - MasterClass Classes Republished as wikiHow Articles
-* [Critical Thinking](https://github.com/nbats/FMHYedit/blob/main/base64.md#critical-thinking) - Books / Guides / Pictures
-* [/r/textbook_piracy](https://reddit.com/r/textbook_piracy)
-* [/r/textbookrequest](https://reddit.com/r/textbookrequest)
-* [/r/eebooks](https://reddit.com/r/eebooks/)
-* [/r/mathbooks](https://reddit.com/r/mathbooks)
-* [/r/Scholar](https://reddit.com/r/Scholar)
-
-***
-
-## ▷ History Sites
-
-* ⭐ **[Project Gutenberg](https://www.gutenberg.org/)** - Historical Fiction / Nonfiction / [Australia](http://gutenberg.net.au/) / [Canada](http://gutenberg.ca/index.html) / [Nordic](http://runeberg.org/)
-* [Historical Audiobooks Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#historical-audiobooks-collection) - Audiobooks / Drive
-* [Media History](https://mediahistoryproject.org/) - Books / Magazines
-* [Duke University Library](https://repository.duke.edu/catalog?utf8=%E2%9C%93&search_scope=https%3A%2F%2Frepository.duke.edu%2Fcatalog&q=&search_field=all_fields) - Historical Books
-* [corpus scriptorum latinorum](https://www.forumromanum.org/literature/authors_a.html) - Latin Literature
-* [EarlyModernTexts](http://www.earlymoderntexts.com) - Historical Texts
-* [World History](https://www.worldhistory.org/) or [Livius](https://www.livius.org/) - History Encyclopedias
-* [Early English Books](https://quod.lib.umich.edu/e/eebogroup/) - Historical Texts / Books
-* [Making of America](https://quod.lib.umich.edu/m/moa/) - American History
-* [LibertyFund](https://oll.libertyfund.org/) - Historical Books on Liberty
-* [Encyclopedia Of Ancient Egypt](https://archive.org/details/EncyclopediaOfAncientEgypt_201802/) - Egyptian History Encyclopedia
-* [Encyclopedia Of Ancient Asian Civilizations](https://archive.org/details/EncyclopediaOfAncientAsianCivilizations/) - Asian History Encyclopedia
-* [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) - Classic / Greek / Roman / Arabic / Germanic
-* [Athena](http://athena.unige.ch/athena/) - Greek / History
-* [Encyclopedia Of The Ancient Greek World](https://archive.org/details/EncyclopediaOfTheAncientGreekWorld/) - Ancient Greece Encyclopedia
-* [Sarantakos](https://www.sarantakos.com/keimena.html) - Greek (Modern)
-* [biblior](https://biblior.net/) - French / English / Geography / History / Tales
-* [In Parenthesis](https://www.yorku.ca/inpar/) - Historic Tales
-* [EyewitnesstoHistory](http://www.eyewitnesstohistory.com/index.html) - Historical Eyewitness Testimonies
-* [CELT](https://celt.ucc.ie/) - Irish / History / Literature / Politics
-* [textfiles.com](http://textfiles.com/) - 1980's Text File Index
-* [Digital Archive](https://digitalarchive.wilsoncenter.org/collections) - Historical Documents
-* [Smithsonian Institution Archives](https://siarchives.si.edu/) - Historical Documents
-* [Archives.gov](https://archives.gov/) - US Historical Documents
-* [Europeana](https://www.europeana.eu/) - European Historical Documents
-* [The National Archives](https://nationalarchives.gov.uk/) - UK Historical Documents
-* [Jewish Virtual Library](https://www.jewishvirtuallibrary.org/) - Encyclopedia of Jewish / Israeli History
-* [PublicDomainReview](https://publicdomainreview.org/) - Reviews / Essays of Public Domain Material
-* [History Newsboys of 1899](https://github.com/nbats/FMHYedit/blob/main/base64.md#history-newsboys-of-1899) - Books / Documents
-* [ETHW](https://ethw.org/) - Engineering and Technology History Wiki
-* [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive
-* [The Morgan Library Museum](https://www.themorgan.org/music) or [DIAMM](https://www.diamm.ac.uk/) - Musical Manuscripts
-* [Lee B. Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#lee-b-drive) - Black History Books
-* [De Re Militari](https://deremilitari.org/articles/) - Medieval Military History
-* [ByzantineMilitary](https://byzantinemilitary.blogspot.com/) - Byzantine Military History
-* [WarshipsResearch](https://warshipsresearch.blogspot.com/) - Maritime History
-* [Carti](https://enryo.ro/carti/) - Japanese Martial Arts History Books
-* [Wiktenauer](https://wiktenauer.com/) - Historical European Martial Arts Wiki
-* [The History of Maritime Piracy](http://www.cindyvallar.com/pirates.html) - Piracy History Blog
-* [Van Gogh Letters](http://vangoghletters.org/vg/) or [VGGallery](http://vggallery.com/) - Vincent van Gogh Letters
-* [DigitalTransgenderArchive](https://www.digitaltransgenderarchive.net/) - Transgender History Archive
-
-***
-
-## ▷ Programming Sites
-
-* ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / [Downloader](https://github.com/lorenzodifuccia/safaribooks) / Infinite trial by clearing cookies & making new account
-* ⭐ **[ForCoder](http://forcoder.su/)**, [ScanLibs](https://scanlibs.com/) or [CoderProg](https://coderprog.com/)
-* ⭐ **[Best-Books.dev](https://www.best-books.dev/)** - Developer Book Recommendations
-* [IT eBooks](https://it-ebooks.info/)
-* [FreeTechBooks](https://www.freetechbooks.com/)
-* [FreeComputerEbooks](https://freecomputerbooks.com/)
-* [freepdf-books](https://freepdf-books.com/)
-* [Programming Motherfucker](http://programming-motherfucker.com/)
-* [OnlineProgrammingBooks](https://www.onlineprogrammingbooks.com/)
-* [TechBooksFree](https://techbooksforfree.com/)
-* [ITE Book Share](http://www.itebookshare.com/)
-* [WOWeBook](https://www.wowebook.org/)
-* [Ebooks-it](https://ebooks-it.org)
-* [Essential Programming Books](https://www.programming-books.io/)
-* [Foxebook](https://foxgreat.com/)
-* [free-programming-books](https://github.com/chrislgarry/free-programming-books)
-* [Free eBooks](https://books-pdf.blogspot.com/)
-* [goalkicker](https://goalkicker.com/)
-* [ebooks](https://github.com/XWHQSJ/ebooks)
-* [GoalKicker](https://books.goalkicker.com/)
-* [Flavio Copes](https://flaviocopes.com/page/ebooks/)
-* [Free Ebooks Download List](https://free-ebook-download-links.blogspot.com/)
-* [EbookFoundation Programming Books](https://github.com/EbookFoundation/free-programming-books/)
-* [free-python-books](https://github.com/pamoroso/free-python-books)
-* [ApressOpen](https://www.apress.com/us/apress-open/apressopen-titles) - Computer Science
-* [Veed](http://mqala.co.za/veed/) - Computer Science
-* [AllITBooks](https://allitebook.xyz/) - Computer Science
-* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science / [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook)
-* [Go Books](https://github.com/dariubs/GoBooks) - GoLang Books
-* [JSBooks](https://jsbooks.revolunet.com/) - Javascript Books
-* [DevDocs](https://devdocs.io/) - API Documentation
-* [Bzdnbot](https://t.me/Bzdnbot) - Telegram
-* [X-Files](https://doc.lagout.org/) - Tech / Programming
-* [#/g/sicp](https://g.sicp.me/books/) - Programming / Computer Science / Tech (35gb Torrent)
-* [TeachYourselfComputerScience](https://teachyourselfcs.com/) - Computer Science Book Recommendations
-* [ChessProgramming](https://www.chessprogramming.org/) - Chess Programming Wiki
-
-***
-
-## ▷ Documents / Articles
-
-* ⭐ **[TheFreeLibrary](https://www.thefreelibrary.com/)** - Articles
-* ⭐ **[Sci-Hub](https://sci-hub.se/)** - Science Articles / Research Papers
-* ⭐ **Sci-Hub Tools** - [Telegram](https://t.me/freescience) / [Mirrors](https://sci-hub.41610.org/), [2](http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down), [3](https://sci-hub.hkvisa.net/) / [TG Bot](https://t.me/scihubot) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Backup](https://redd.it/edwi9b) / [/r/scihub](https://reddit.com/r/scihub) / [VK](https://vk.com/sci_hub) / [DOI Redirect](https://greasyfork.org/en/scripts/412498)
-* [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - How to bypass article paywalls
-* [Wikisource](https://en.wikisource.org) - Poetry / Text / Documents
-* [Heystacks](https://heystacks.com/) - Public Google Docs
-* [IDEAS](https://ideas.repec.org/) - Economic Research Papers
-* [Alex Catalogue](http://www.infomotions.com/alex/) - English / Philosophy Documents
-* [FindPDFDoc](http://www.findpdfdoc.com/) - Document Search
-* [PDFSlide](https://pdfslide.net/) - Document Search
-* [EDoc](https://edoc.tips/) - Document Search
-* [IDoc](https://idoc.pub/) - Document Search
-* [lens](https://www.lens.org/) - Document Search
-* [base-search](https://www.base-search.net/) - Document Search
-* [dimensions](https://app.dimensions.ai/discover/publication) - Document Search
-* [Share OSF](https://share.osf.io/) - Document Search
-* [VDocuments ](https://vdocuments.site/) - Document Search
-* [repo.zenk](https://repo.zenk-security.com/) - Document Search
-* [docplayer](https://docplayer.net/) - Document Search
-* [DocDroid](https://www.google.com/search?q=site%3Adocdroid.net) - Document Search
-* [Higher Intellect](https://preterhuman.net/) - Document Search
-* [qDoc](https://idoc.tips/) - Document Search
-* [Doc Search](https://parksdigital.com/doc-search/) - Document Search
-* [STC](https://standard--template--construct-org.ipns.dweb.link/) - Document / Article Text Search
-* [ReadSomethingGreat](https://www.readsomethinggreat.com/) - Internet Articles
-* [Google Scholar](https://scholar.google.com/) - Articles
-* [Mendeley](https://www.mendeley.com/) - Articles / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/)
-* [ResearchGate](https://www.researchgate.net/) - Science Articles
-* [SciLit](https://www.scilit.net/) - Science Articles
-* [ScienceDirect](https://www.sciencedirect.com/) - Science Articles
-* [MyScienceWork](https://www.mysciencework.com/) - Science Articles
-* [BiologyOnline](https://www.biologyonline.com/) - Biology Articles
-* [Academia](https://www.academia.edu/) - Academic Papers
-* [Scinapse](https://scinapse.io/) - Academic Paper Search
-* [Semantic Scholar](https://www.semanticscholar.org/) - Scientific Paper Search
-* [Consensus](https://consensus.app/) or [Elicit](https://elicit.org/) - Scientific Paper Consensus Search
-* [Connected Papers](https://www.connectedpapers.com/) or [LitMaps](https://app.litmaps.co/) - Find Connected Academic Papers
-* [FreeFullPDF](https://freefullpdf.com/) - Science / Articles
-* [KUNDOC](https://coek.info/) - Science / Articles
-* [Papers We Love](https://paperswelove.org/) - Science / Articles / [GitHub](https://github.com/papers-we-love/papers-we-love)
-* [Awesome Detection Transformer](https://github.com/IDEA-Research/awesome-detection-transformer) - Transformer for Detection and Segmentation Papers
-* [Springer](https://link.springer.com/) - Science / Articles
-* [DOKU.PUB](https://doku.pub/) - Science / Articles
-* [ESJI](http://www.esjindex.org/) - Science / Journals
-* [Clarivate](https://mjl.clarivate.com/) - Science / Journals
-* [Plos](https://plos.org/) - Science / Journals
-* [SciAlert](https://scialert.net/) - Science / Journals
-* [Crossref](https://search.crossref.org/) - Articles / Documents / Datasets
-* [Zenodo](https://zenodo.org/) - Articles / Documents / Datasets
-* [Dataone](https://www.dataone.org/) - Datasets
-* [Kaggle](https://www.kaggle.com/datasets) - Datasets
-* [Data Catalog](https://datacatalog.worldbank.org/) - Datasets
-* [DBpedia](https://www.dbpedia.org/) - Datasets
-* [GBIF](https://www.gbif.org/) - Biodiversity Datasets
-* [DOAJ](https://doaj.org/) - Journals / Articles
-* [AcademicJournals](https://academicjournals.org/) - Journals / Articles
-* [DOAJ](https://www.doaj.org/) - Journals / Articles
-* [mdpi](https://www.mdpi.com/) - Articles
-* [longdom](https://www.longdom.org/) - Articles
-* [Typewriter](https://tetw.org/) - Educational Articles & Essays The Electric
-* [Docracy](https://www.docracy.com/ ) - Legal Documents
-* [E-International Relations](https://www.e-ir.info/) - International Relation Articles
-* [Legal Core](https://core.ac.uk/) - Papers / Academic
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Medical Journals
-* [OpenMD](https://openmd.com/) - Medical Journals
-* [Free Medical Journals](http://www.freemedicaljournals.com/) - Medical Journals
-* [Bioline](http://www.bioline.org.br/) - Bioscience Journals
-* [AI Reading List](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/) - AI Research Papers
-* [SSRN](https://www.ssrn.com/) - Early Stage Research Papers
-* [Open Knowledge Maps](https://openknowledgemaps.org/) - Research Papers
-* [Internet Archive Scholar](https://scholar.archive.org/) - Research Papers
-* [Paper Panda](https://paperpanda.app/) - Research Papers
-* [Open Access Library](https://www.oalib.com/) - Research Papers
-* [CyberLeninka](https://cyberleninka.org/) - Research Papers
-* [Paperity](https://paperity.org/) - Research Papers
-* [OpenAire](https://explore.openaire.eu/) - Research Papers
-* [Association for learning Technology](https://repository.alt.ac.uk/view/subjects/) - Research Papers
-* [RePEc](http://repec.org/) - Economic Research Papers
-* [TTS Paper](https://github.com/coqui-ai/TTS-papers) - Text to Speech Papers
-* [PsyArXiv](https://psyarxiv.com/) - Articles / Psychological Sciences
-* [SkillCommons](https://www.skillscommons.org/) - Work Training Documents
-* [Institute of Education Sciences](https://eric.ed.gov/) - Documents / Texts / Papers
-* [Pandora](http://pandora.nla.gov.au/) - Australian Document Archive
-* [Parliament Archives](https://archives.parliament.uk/) - UK Parliamentary Documents
-* [EThOS](https://ethos.bl.uk/SearchResults.do) - Doctoral Theses
-* [ndltd](http://search.ndltd.org/) - Search Theses and Dissertations
-* [UBIRA eTheses](https://etheses.bham.ac.uk/) - Theses
-* [Theses.fr](https://www.theses.fr/en/accueil.jsp) - Theses
-* [oatd](https://oatd.org/) - Theses / Dissertations
-* [Shodhganga](https://shodhganga.inflibnet.ac.in/) - Indian Theses / Dissertations
-* [lolmythesis](https://lolmythesis.com/) - Summarized Theses
-* [CIRES](https://cires.colorado.edu/) - Environmental Research Data
-* [WorldBank](https://www.worldbank.org/en/home) - Poverty Solution Research Data
-* [Einstein Papers](https://einsteinpapers.press.princeton.edu/) - Albert Einsteins Collected Papers Archive
-* [CIA Publications](https://www.cia.gov/resources/publications/) - History / Reports
-* [FBI Vault](https://vault.fbi.gov/) -  Declassified Documents
-* [The Black Vault](https://www.theblackvault.com/) - Declassified Documents
-* [DDOS](https://ddosecrets.com/) - Transparency Collective
-* [Open Payments](https://openpaymentsdata.cms.gov/) - Medical Device Company Payment Reports
-* [NSA Archive](https://nsarchive.gwu.edu/) - Reports
-* [NAP](https://nap.nationalacademies.org/) - Reports
-* [WikiLeaks](https://wikileaks.org/) - Leaked Documents
-* [Cryptome](https://cryptome.org/) - Leaked Documents
-* [CensorBib](https://censorbib.nymity.ch/) or [censoredplanet.org](https://censoredplanet.org/) - Internet Censorship Research Papers
-* [Constitute Project](https://www.constituteproject.org/) - World Constitutions Database
-* [ArmyPubs](https://armypubs.army.mil/) or [US Military Manual Collection](https://archive.org/details/military-manuals) - Military Documents / Manuals
-* [NASA NTRS](https://ntrs.nasa.gov/search.jsp) - NASA Documents
-* [PapalEncyclicals](https://www.papalencyclicals.net/) - Catholic Church Documents
-* [Aesthetics Archive](https://contempaesthetics.org/) - Aesthetics Articles / Notes Contemporary
-* [CourtListerner](https://www.courtlistener.com/recap/) - Pacer Documents
-* [Aleph](https://github.com/alephdata/aleph) - Document Index Tool
-* [Dataset Search](https://datasetsearch.research.google.com/) - Dataset Search Google
-* [PDF / Doc Search Engine](https://cse.google.com/cse?cx=000013508089310229747:qf70z1tyrs0)
-* [ZealDocs](https://zealdocs.org/) - Document Viewer
-* [Sioyek](https://sioyek.info/) or [ResearchRabbit](https://www.researchrabbit.ai/) - Research Paper / Technical Document Viewers
-
-***
-
-## ▷ Manual Sites
-
-* [Manuals & Schematics](https://redd.it/nlw3er), [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [Wedophones](http://wedophones.com/Manuals/), [manualzz](https://manualzz.com/), [ManualsNet](https://manualsnet.com/), [manua.ls](https://www.manua.ls/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
-* [ManualLib](https://www.manuallib.com/) - Manual Search
-* [Floss Manuals](https://www.flossmanuals.net/) - Software Manuals
-* [iFixIt](https://www.ifixit.com/Guide) - Repair Manuals
-* [RepairWiki](https://repair.wiki/w/Repair_Wiki) - Repair Articles
-* [WonderHowTo](https://www.wonderhowto.com/) - Tech How-to's
-* [manned.org](https://manned.org/) - Operating System Manuals
-* [Manuals Online](http://office.manualsonline.com/) - Computer Equipment Manuals
-* [C.H.A.R.M](https://charm.li/), [JDMFSM](http://jdmfsm.info/Auto/), [CarPDFManual](https://www.carpdfmanual.com/renault/) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
-* [Ownersman.com](https://ownersman.com/) - Car Owner Manuals
-* [PremierProduct](https://www.premierproducts-uk.co.uk/) - Vehicle Manuals
-* [David Kleinfeld Laboratory](https://neurophysics.ucsd.edu/Manuals/) - Lab Manuals
-* [replacementdocs](http://www.replacementdocs.com/) - Game Manuals
-* [Retrevo](http://www.retrevo.com/) - Product Manuals
-* [Building Instructions](https://www.lego.com/en-us/service/buildinginstructions) - Lego Instructions
-
-***
-
-## ▷ Reference Sites
-
-* ⭐ **[The Piracy Glossary](https://rentry.org/The-Piracy-Glossary)** - Piracy Dictionary
-* ⭐ **[Wikipedia](https://www.wikipedia.org/)**, [WikiWand](https://www.wikiwand.com/) or [Metastem](https://wiki.metastem.su/), [ModernWiki](https://www.modernwiki.app/) - Encyclopedia
-* ⭐ **Wikipedia Tools** - [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Page Connections](https://hyperleap.com/) / [Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) / [TUI](https://github.com/yashsinghcodes/wik) / [Galaxy View](https://wiki.polyfra.me/) / [Read Only](http://static.wiki/) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener) / [Phrase Search](http://densephrases.korea.ac.kr/) / [Location Search](https://wikinearby.toolforge.org/)
-* ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** or [TheSage](https://www.sequencepublishing.com/) - Dictionary / Thesaurus
-* ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)** / [Frontends](https://codeberg.org/zortazert/rural-dictionary/), [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slang.net/) - Slang Word / Phrase Dictionaries
-* ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary Search
-* ⭐ **[Dictionary Index](https://onelook.com/?d=all_gen)**
-* ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - Searchable Knowledgebase / [API Access](https://wolfreealpha.gitlab.io)
-* [Phrases.org](https://phrases.org.uk/) - Phrase Dictionary
-* [NinjaWords](http://ninjawords.com/) - Dictionary
-* [Wordnik](https://www.wordnik.com/) - Dictionary
-* [OxfordLearnersDictionaries](https://www.oxfordlearnersdictionaries.com/) - Dictionary
-* [Cambridge Dictionary](https://dictionary.cambridge.org/) - Dictionary
-* [LDOCE](https://www.ldoceonline.com/) - Dictionary
-* [Wiktionary](https://www.wiktionary.org/) - Dictionary
-* [Lexicool](https://www.lexicool.com/) - Dictionary
-* [Vocabulary](https://www.vocabulary.com/) - Dictionary
-* [WordSense](https://www.wordsense.eu/) - Dictionary
-* [MacmillanDictionary](https://www.macmillandictionary.com/) - Dictionary
-* [Spellorg](http://www.spellorg.com/) - Dictionary / Spell Check
-* [dict](https://github.com/BetaPictoris/dict) - Dictionary CLI
-* [Webopedia](https://www.webopedia.com/) or [TechTerms](https://techterms.com/) - Tech Dictionary
-* [Why The Fluff](https://www.whythefluff.com/) - Common Jargon Dictionary
-* [EtymOnline](https://www.etymonline.com/) or [The Tower of Babel](https://starlingdb.org/) - Etymologies
-* [Fandom](https://www.fandom.com/) - Fan Wikis / [Frontend](https://docs.breezewiki.com/Links.html) / [Old Style](https://greasyfork.org/en/scripts/438194-hydralize-fix-fandom-com)
-* [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi Language Dictionary Index
-* [Scholarpedia](http://www.scholarpedia.org/) - Peer-Reviewed Encyclopedia
-* [EverybodyWiki](https://en.everybodywiki.com/) - Encyclopedia
-* [Britannica](https://www.britannica.com/) - Encyclopedia
-* [Encyclopedia](https://www.encyclopedia.com/) - Encyclopedia
-* [NewWorldEncyclopedia](https://www.newworldencyclopedia.org/) - Encyclopedia
-* [Citizendium](https://citizendium.org/) - Encyclopedia
-* [Wikitia](https://wikitia.com/) - Encyclopedia
-* [Conze.pt](https://conze.pt/) - Encyclopedia
-* [InfoPlease](https://www.infoplease.com/) - Encyclopedia
-* [Refdesk](https://www.refdesk.com/factency.html) - Encyclopedias
-* [Abbreviations](https://www.abbreviations.com/) - Abbreviations
-* [AcronymFinder](https://www.acronymfinder.com/) - Abbreviations / Acronyms
-* [Chat Words Dictionary](https://chatworddictionary.com/) - Chat Abbreviations
-* [lengusa](https://lengusa.com/) or [Fraze.it](https://fraze.it/) - Sentence Search
-* [Dictionary](https://www.dictionary.com/) - Dictionary / Thesaurus
-* [Thesaurus.com](https://www.thesaurus.com/) - Thesaurus / [Frontend](https://github.com/sigaloid/vocrab)
-* [PowerThesaurus](https://www.powerthesaurus.org/) - Thesaurus
-* [VisualThesaurus](https://www.visualthesaurus.com/) - Thesaurus
-* [DescribingWords](https://www.describingwords.io/) or [Lose The Very](https://www.losethevery.com/) - Adjectives
-* [Thsrs](http://www.ironicsans.com/thsrs/) - Synonyms
-* [Synonym.com](https://www.synonym.com/) - Synonyms
-* [Feeels](https://feelu.now.sh/) - Emotion Synonym Chart
-* [WikiDiff](https://wikidiff.com/) - Difference Between Any Words
-* [ReverseDictionary](https://reversedictionary.org/) or [OneLook Reverse](https://onelook.com/reverse-dictionary.shtml) - Search for Words Using Their Meanings
-* [DoesNotTranslate](https://doesnottranslate.com/) - Words with No Translation
-* [Tip of my Tounge](https://chir.ag/projects/tip-of-my-tongue/) - Find Words you Can't Remember
-* [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html), [IEP](https://iep.utm.edu/) or [nLab](https://ncatlab.org/) - Philosophy Encyclopedias / [Search](https://www.visualizingsep.com/)
-* [Focal](http://www.focal.ie/) - Irish Dictionary
-* [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
-* [TheIdioms](https://www.theidioms.com/) - Idiom Dictionary
-* [Lexipedia](http://www.lexipedia.com/) or [WordWeb](https://wordwebs.app/) - Word Connections
-* [RhymeZones](https://www.rhymezone.com/) or [Rhymer](https://rhymer.com/) - Rhyme Dictionary
-* [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/) - Dictionary of Sorrows
-* [TheDevilsDictionary](http://www.thedevilsdictionary.com/) - Cynical Dictionary
-* [TagDef](https://tagdef.com/en/) - Social Media Tag Dictionary
-* [KnowYourMeme](https://knowyourmeme.com/) - Meme Database
-* [Forvo](https://forvo.com/) or [HowJSay](https://howjsay.com/) - Pronunciation Dictionary
-* [IEoP](https://iep.utm.edu/fallacy/) - Fallacy Encyclopaedia
-* [OEIS](https://oeis.org/) - Encyclopedia of Integer Sequences
-* [Time Traveler](https://www.merriam-webster.com/time-traveler) - See when a word was first used in print
-* [Omniglot](https://www.omniglot.com/index.htm) - Writing Systems & Languages Encyclopedia
-* [swear-words](https://github.com/chucknorris-io/swear-words) or [WordSafety](http://wordsafety.com/) - Swear Word Indexes
-* [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary
-* [SpanishDict](https://www.spanishdict.com/) - Spanish Translation Dictionary
-* [ASL Dictionary](https://www.signasl.org/) or [HandSpeak](https://www.handspeak.com/) - American Sign Language
-* [BSL Dictionary](https://www.signbsl.com/) - British Sign Language
-* [FreeMdict](https://freemdict.com/) - Dictionary Downloads / [Archive](https://downloads.freemdict.com/)
-* [Goldendict](http://www.goldendict.org/) - Dictionary Program
-* [PyGlossary](https://github.com/ilius/pyglossary) - Convert Dictionary Files
-* [wikipedia_ql](https://github.com/zverok/wikipedia_ql) - Wiki Data Extraction
-
-***
-
-# ► Visual Media Sites
-
-## ▷ Comic Sites
-
-* ⭐ **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-Site Comic Search
-* ⭐ **[ReadComicsOnline](https://readcomiconline.li/)**
-* ⭐ **[GetComics](https://getcomics.org/)** - Downloads / Read Online
-* ⭐ **[ComicExtra](https://www.comicextra.com/)** or [Comic Online Free](https://comiconlinefree.net/)
-* ⭐ **[XOXO Comics](https://xoxocomics.com/)** / [2](https://xoxocomics.net)
-* ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
-* ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Comics
-* ⭐ **[xkcd](https://xkcd.com/)** or [findxkcd](https://xkcd-search.typesense.org/) - xkcd Comics / [Explanations](https://www.explainxkcd.com/wiki/index.php/Main_Page)
-* [View Comics](https://viewcomics.co/)
-* [Read Comics Online](https://readcomicsonline.ru/)
-* [Comix-Load](https://comix-load.in/) - Downloads
-* [Zip Comic](https://www.zipcomic.com/) - Downloads
-* [BookGN](http://www.bookgn.com/) - Downloads
-* [NewComic](https://www.newcomic.info/) - Downloads
-* [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
-* [BookDL Comic & Manga](https://github.com/nbats/FMHYedit/blob/main/base64.md#booksdl) - Comics / Manga / Drive
-* [readcomicsfree](https://readcomicsfree.net/)
-* [Comic Castle](https://comicastle.org/)
-* [WallComic](https://wallcomic.com/)
-* [MyComicList](https://mycomiclist.com/)
-* [Comics Online](http://www.comicsonline.io/)
-* [ReadAllComics](https://readallcomics.com/)
-* [Read Full Comic](https://readfullcomic.com/) / [2](https://read-comic.com/) / [3](https://viewcomiconline.com/)
-* [KidsGen](https://www.kidsgen.com/comics/)
-* [DC Universe Infinite](https://www.dcuniverseinfinite.com/collections/free-to-read-row) - Free DC Comics
-* [Marvel.com](https://www.marvel.com/comics/list/623/get_started_with_free_issues?&options%5Boffset%5D=0&totalcount=76) - Free Marvel Comics
-* [British Comics](https://britishcomics.wordpress.com/) - Classic British Comics
-* [Comic Museum](https://digitalcomicmuseum.com/index.php) - Golden Age Comics
-* [GoComics](https://www.gocomics.com/) - Comics Strips
-* [Comics Kingdom](https://comicskingdom.com/) - Comics Strips
-* [Zahard](https://zahard.xyz/) - WebToons / [Telegram](https://t.me/fast_pass)
-* [RichieRichcomicsfanclub](https://richierichcomicsfanclub.wordpress.com/) - Richie Rich Comics
-* [PenLab](https://penlab.ink/) - Filipino Comics
-* [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - Tor required
-* [ComicEater](https://github.com/kanjieater/ComicEater) - Comic Archiving Tools
-* [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comics-DL](https://github.com/The-Eye-Team/Comics-DL), [Comic-DL](https://github.com/Xonshiz/comic-dl), [comicMaker](https://github.com/gunjannandy/comicMaker) or [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md) - Comic Downloaders
-* [Tapastic Comic Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - Tapas Comics Downloader
-* [Cover](http://www.frenchfrysoftware.com/cover/), [Komikku](https://gitlab.com/valos/Komikku), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Readers / Managers
-* [Free Dark Horse Digital Comics](https://digital.darkhorse.com/pages/free) / [Downloader](https://github.com/GrowAsguard/Dark-Horse-Comics-Converter)
-* [ComicFury](https://comicfury.com/) or [StripCreator](http://www.stripcreator.com/) - User-Made Comics
-* [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Web Comic Reader
-* [Webcomix](https://github.com/J-CPelletier/webcomix) - Webcomics Downloader
-* [ComicReader](https://comicreader.netlify.app/) or [KThoom](https://github.com/codedread/kthoom) - Online Reader
-* [Tenma](https://github.com/Tenma-Server/Tenma) or [Komga](https://komga.org/) - Comic / Manga Media Server / [Discord](https://discord.gg/TdRpkDu) / [GitHub](https://github.com/gotson/komga)
-* [Webtoons Downloader](http://www.mediafire.com/file/7243pcp72ttzisk/Webtoons_Downloader_by_RieqyNS13.zip/file) - Webtoons Downloader
-* [ComicTagger](https://github.com/comictagger/comictagger) - Comic Metadata Tagger
-
-***
-
-## ▷ Manga Sites
-
-* ⭐ **[MangaDex](https://mangadex.org/)** - [Downloader](https://github.com/mansuf/mangadex-downloader) / [Script](https://github.com/frozenpandaman/mangadex-dl)
-* ⭐ **[ComicK](https://comick.app/)** - [Discord](https://discord.gg/comick)
-* ⭐ **[MangaSee](https://mangasee123.com/)**, [2](https://manga4life.com/)
-* ⭐ **[MangaPark](https://mangapark.net/)** - [Discord](https://discord.gg/jctSzUBWyQ)
-* ⭐ **[MangaKatana](https://mangakatana.com/)**
-* ⭐ **[Cubari Proxy](https://proxy.cubari.moe/)** - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
-* ⭐ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)** - Read / Organize Manga
-* ⭐ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)** - Apps to Download Manga
-* ⭐ **[Manga CSE](https://cse.google.com/cse?cx=006516753008110874046:4im0fkhej3z)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:a5mavctjnsc#gsc.tab=0) - Multi-Site Manga Search
+* ⭐ **[/r/Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/index)**, [2](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki), [3](https://raddle.me/f/Piracy), [4](https://www.saidit.net/s/piracy/) - Piracy Index
+* ⭐ **[/r/PiratedGames Megathread](https://rentry.org/pgames)** - Gaming Piracy Index
+* ⭐ **[Champagne Wiki](https://champagne.pages.dev/)** - Piracy Index / [Discord](https://discord.gg/cH3ZkVc3Gd) / [Guides](https://rentry.org/champagne_guides/)
 * ⭐ **[Wotaku](https://wotaku.its.moe/)**, [2](https://wotaku.pages.dev/), [3](https://wotaku.netlify.app/) - Japanese Piracy Index
-* ⭐ **[The Index](https://theindex.moe)** - Japanese Media Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
-* [MangaPiracy](https://discord.gg/ZgMtAyxFSU) - Manga Piracy Server / [Subreddit](https://reddit.com/r/MangaPiracy)
-* [Great Discord Links](https://discord.gg/xAsyVb52a9) or [Mangadex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
-* [Madokami Manga Archive](https://github.com/nbats/FMHYedit/blob/main/base64.md#madokami)
-* [The Manga Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#the-manga-library)
-* [BookDL Comic & Manga](https://github.com/nbats/FMHYedit/blob/main/base64.md#booksdl)
-* [GoIndex](https://github.com/nbats/FMHYedit/blob/main/base64.md#goindex)
-* [MangaBuddy](https://mangabuddy.com)
-* [MangaHere](http://www.mangahere.cc)
-* [MangaNelo](https://m.manganelo.com/wwww), [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/)
-* [MangaFire](https://mangafire.to/) - [Discord](https://discord.com/invite/KRQQKzQ6CS)
-* [BATO.TO](https://bato.to/) - [Discord](https://discord.com/invite/batoto) / [Proxies](https://rentry.co/batoto)
-* [MangaReader](https://mangareader.to/) - [Discord](https://discord.com/invite/Bvc5mVcUqE) / [Subreddit](https://www.reddit.com/r/MangaReaderOfficial/)
-* [TCB Scans](https://onepiecechapters.com/) - [Discord](https://discord.com/invite/tcbscans)
-* [Atsumaru](https://atsu.moe/) - [Discord](https://discord.gg/Tj4QmEF4uV)
-* [MangaHub](https://mangahub.io/)
-* [MangaList](https://mangalist.com/)
-* [MangaTown](https://www.mangatown.com/)
-* [Disaster Scans](https://disasterscans.com/) - [Discord](https://discord.gg/JbcJCpv)
-* [MangaSail](https://www.mangasail.net/)
-* [Taadd](http://www.taadd.com/)
-* [BilingualManga](https://bilingualmanga.net/)
-* [MangaFreak](https://w12.mangafreak.net/)
-* [Mangageko](https://www.mangageko.com/)
-* [Mangairo](https://h.mangairo.com/)
-* [ReadMng](https://www.readmng.com/) or [MngDoom](https://www.mngdoom.com/)
-* [ReadKomik](https://readkomik.com/) - [Discord](https://discord.gg/bvB7Hk3xWV)
-* [DogManga](https://dogemanga.com/)
-* [Bunko](https://bunko.in/)
-* [MangaOwl](https://mangaowl.to/)
-* [MangaReader](https://mangareader.cc/)
-* [ReadMangaFree](https://readmangafree.net/)
-* [Manga Miso](https://mangamiso.net/)
-* [Colored Manga](https://coloredmanga.com/) - [Discord](https://discord.com/invite/j66bPX4z8M)
-* [Mangarolls](https://mangarolls.com/)
-* [Mangabtt](https://mangabtt.com/)
-* [Murimscan](https://murimscan.run/)
-* [Tenmanga](https://www.tenmanga.com/)
-* [Tenkoreader](https://tenkoreader.com/)
-* [OniManga](https://onimanga.com)
-* [MangaInn](https://mangainn.net/)
-* [KumaScans](https://kumascans.com/)
-* [Mangago](https://www.mangago.me/)
-* [MangaBat](https://m.mangabat.com/)
-* [ReadOPM](https://ww3.readopm.com/read-manga/)
-* [MangaEffect](https://mangaeffect.com/)
-* [FunManga](https://funmanga.com/)
-* [Manga Home ](http://www.mangahome.com/)
-* [MangaDig](https://mangadig.com/)
-* [Mangaski](https://www.mangasaki.net//)
-* [Manhwafull](https://manhwafull.com/)
-* [DeathTollScans](https://www.deathtollscans.net/)
-* [Tritinia](https://tritinia.com/)
-* [AsuraScans](https://asurascans.com/) - [Discord](https://discord.com/invite/asurascans1)
-* [MangaJar](https://mangajar.com/)
-* [LilyManga](https://lilymanga.com/)
-* [NineManga](http://www.ninemanga.com)
-* [MangaYeh](https://mangayeh.com)
-* [KomikKid](https://www.komikid.com/)
-* [MangaFox](https://fanfox.net/)
-* [ReadM](https://readm.org/)
-* [CMReader](https://www.cmreader.info/)
-* [mangapill](https://mangapill.com/)
-* [projectsuki](https://projectsuki.com/)
-* [NineAnime](https://www.nineanime.com/category/)
-* [Anime-Sharing](http://www.anime-sharing.com/forum/) - Anime / Manga Download Forum
-* [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
-* [WhereCanIReadManga?](https://wherecanireadmanga.com/) - Legal
-* [Raw Manga Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng#wiki_.25B7_reading10) - Japanese Manga Sites
-* [OtakuGallery](http://www.otakugallery.com/) - Manga Artbooks
-* [Kaizoku](https://github.com/oae/kaizoku) -  Self-Hosted Manga Downloader
-* [Manga APIs](https://rentry.co/manga-apis) - Manga Site API's
-* [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
-* [MangaEditor](https://moeka.me/mangaEditor/) - Online Manga Editor
-* [CBZ-Manga-Creator](https://github.com/PonyLucky/CBZ-Manga-Creator) - Image to CBZ Converter
-* [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en), [manga-translator](https://github.com/cameronkinsella/manga-translator) or [Scanlate](https://scanlate.io/) - Manga Translator
-* [TheJadedNetwork](http://thejadednetwork.com/sfx/) - Japanese SFX Translations / [PDF](https://drive.google.com/file/d/1ean3beoWJmz__yu67OqNa8CKNMlrvCSd/)
-* [Manga-Tagger](https://github.com/inpacchi/manga-tagger) - Manga Metadata
+* ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
+* ⭐ **[Esoterica Avenue](https://ori5000.github.io/)** - Piracy Index / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
+* ⭐ **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR)** - Site / Tool Index
+* ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
+* ⭐ **[Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)**, [2](https://github.com/Igglybuff/awesome-piracy), [3](https://github.com/Tosoju/awesome-piracy) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
+* ⭐ **[Track Awesome](https://www.trackawesomelist.com/)** - List Index
+* ⭐ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)** - Artificial Intelligence Indexes
+* ⭐ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
+* ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Archiving Tool
+* ⭐ **[FMHY Guides](https://fmhy.net/guides)**, [blooem](https://blooem.pages.dev/) / [2](https://blooem.its.moe) or [Pirate Haven](https://pirate-haven.github.io/) - Piracy Guides
+* ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
+* [WebOas.is](https://weboasis.app/), [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.com/) - Startpage / Site Index / [Forum](https://weboasis.app/forum/) / [Source Code](https://pastebin.com/CczqreS4) / [Archive](https://rentry.co/e9y6b) / [FAQ](https://bin.disroot.org/?6a50fab15330b762#7VwnxM9Jsvp8wWmW6eFmmxyXppWVjErn4CMgd8wii9pC)
+* [Alternative Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - Find Software / App Alternatives
+* [Similar Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_similar_site_indexes) - Find Sites Similar to Others
+* [Generated Awesomeness](https://github.com/orsinium-labs/generated-awesomeness) - Autogenerated List Index
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - List Index
+* [Awesome](https://github.com/sindresorhus/awesome) - List Index  / [Search](https://awesomelists.top/) / [Stumble](https://github.com/basharovV/StumbleUponAwesome) / [CLI](https://github.com/umutphp/awesome-cli)
+* [Awesome List Index](https://github.com/topics/awesome) - List Index
+* [GitHub Awesome](https://app.polymersearch.com/discover/github-awesome) - List Indexes
+* [lists](https://github.com/jnv/lists) - List Index
+* [Curlie](https://curlie.org/) - Topic Directory
+* [ooh.directory](https://ooh.directory/) - Blog Directory
+* [Open Source Intelligence Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_source_intelligence_indexes)
+* [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - Open Source Software Indexes
+* [No-Signup Tools](https://www.nosignup.tools/) - No-Signup Tool Index
+* [Neverland](http://web.archive.org/web/20221116192138/http://www.neverland.ws/index.html) - Piracy Index
+* [piracy](https://gitlab.com/piracy/piracy/-/tree/master/docs) - Piracy Index
+* [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/), [TopMillion](http://www.topmillion.net/), [HypeStat](https://hypestat.com/alexa-rank) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
+* [10 Words](https://discover.10words.io/) - App / Tool Discovery
+* [Ripped](https://ripped.guide/) - Piracy Index / [Discord](https://discord.ripped.guide/)
+* [pilssken](https://pilssken.neocities.org/warez/) - Piracy Index
+* [The Pirate List](https://thepiratelist.com/) - Piracy Index
+* [DuckLink](https://ducklink.pages.dev/) - Piracy Index / [Mirror](https://rentry.org/ducklink)
+* [The Goods](https://discord.gg/zapJ4w3XBN) - Piracy Index
+* [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - Japanese Piracy Index
+* [WAREZZ](https://piracy.vercel.app/) - Piracy Index / [Warning](https://i.ibb.co/Tb7gvtX/a6e53d3ca97c.png)
+* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Software / Tool Index
+* [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - Data Hoarding Tools Index
+* [DirtyWarez Tracker](https://dirtywarez.org/cat/tracker), [OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/) / [2](https://opentrackers.org/), [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) or [awesome-piracy](https://github.com/Igglybuff/awesome-piracy#public-trackers) - Torrent Site Indexes
+* [cata-list](https://cata-list.github.io/) - Site / Tool Index
+* [Website Hunt](https://www.websitehunt.co/) - Site / Tool Index
+* [Toolbox](https://gitlab.com/toolbox-resources/toolbox) - Site / Tool Index
+* [Prospector](https://www.prospector.cz/) - Site / Tool Index 
+* [The More You Know](https://marckoxx.github.io/) - Site / Tool Index
+* [Yesterlinks](https://links.yesterweb.org/) - Site / Tool Index
+* [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
+* [Awesome Loginless](https://github.com/fiatjaf/awesome-loginless) - Loginless Site Index
+* [/u/fullnumberofcharacte's Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/g37lwb/megapiracywiki/g1lnle5/) - Site / Tool Index
+* [5000 Best](http://5000best.com/websites/) - Site / [Tool](http://5000best.com/tools/) Index
+* [alt3rnative](https://github.com/machiav3lli/alt3rnative) - Site / Tool Index
+* [Peelopaalu](https://peelopaalu.neocities.org/) - Site / Tool Index
+* [RefDesk](https://www.refdesk.com/facts.html) - Site / Tool Index
+* [/g/'s good sites](https://rentry.co/sites), [2](https://web.archive.org/web/20211219234838/https://www.goodsites.tech/) - Site / Tool Index
+* [The Scene](https://lkrjangid1.github.io/Awesome-Warez/) - Site / Tool Index
+* [Cool Stuff I Found](https://rentry.org/cool-stuff-i-found-on-the-internet) - Site / Tool Index
+* [Cool Websites](https://rentry.co/cool_websites) - Site / Tool Index
+* [Product Hunt](https://www.producthunt.com/) - Site / Tool Index
+* [Useful Interweb](https://usefulinterweb.com/) or [Daily Useful Links](https://t.me/DailyUsefulLINKS) - Daily Websites
+* [Mostly Free](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) - Site / Tool Index
+* [bajins](https://www.bajins.com/) - Chinese Site / Tool Index
+* [iBiblio](https://www.ibiblio.org/) - Site / Tool Index 
+* [Acme](http://www.acme.com/) - Site / Tool Index
+* [pomfcrawl](https://pomfcrawl.pythonanywhere.com/) - Site / Tool Index
+* [itch.io Tools](https://itch.io/tools/free) - Site / Tool Index
+* [Beej's Index](https://www.beej.us/) - Site / Tool Index
+* [Nicelist](https://github.com/alamehan/nice-list) - Site Index
+* [num's link list](https://soda.privatevoid.net/num/links/) - Site Index
+* [NYPL Best of the Web](https://www.nypl.org/collections/nypl-recommendations/best-of-web) - Site Index
+* [Awesome Lite Websites](https://github.com/mdibaiee/awesome-lite-websites) - Lightweight Site Index
+* [Onion Directories](https://github.com/nbats/FMHYedit/blob/main/base64.md#onion-directories) - .onion Directories
+* [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public Domain Resource Index Awesome
+* [LinkLonk](https://linklonk.com/) - Link Aggregator & Voting
+* [Simple Tools](https://simpletools.info/doku.php) - Simple Programs Index 
+* [DMOZ](http://www.dmoztools.net/) or [SmartLinks](https://smartlinks.org/index.html) - Website Directory
+* [Archive-It](https://archive-it.org/) - Archive.org Collections
+* [Wikimedia](https://www.wikimedia.org/) - All Wikimedia Sources 
+* [Clone Wars](https://gourav.io/clone-wars) - Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars) 
+* [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps), [Awesome oss alternatives](https://github.com/RunaCapital/awesome-oss-alternatives), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Index
+* [Open Sustainable Technology](https://opensustain.tech/) - Sustainable Tech Project Index
+* [List of Lists](https://l-lists.com/en/) - List Index
+* [href.cool](https://href.cool/) - List of Old / Weird Sites
+* [Pointless Sites](https://www.pointlesssites.com/) - Pointless Site Index
+* [Websites From Hell](https://websitesfromhell.net/) - Shitty Website Index
+* [National Archives](http://www.nationalarchives.gov.uk/webarchive/) - UK Government Site Archive
+* [UKWA](https://www.webarchive.org.uk/ukwa/) - UK Site Archive
+* [The Hive Index](https://thehiveindex.com/) - Online Communities Index
+* [NetSplit](https://netsplit.de/) - IRC Channel Index
+* [Cyberlife](https://cyberpunk-life.neocities.org/) - Cyberpunk-Related Content / Sites Index
+* [Off-Grid](https://off-grid.net/links-directory/) - Off Grid Site Index
+* [sourcehut](https://sr.ht/) - Public Project Index
+* [PiracyBank](https://piracybank.org/websites) - List of sites tagged for copyright, mostly dead 
+* [Creamy's Homemade List](https://docs.google.com/document/d/1t10VI-sccy1CfAeMZHwmCS_7agIHFo_B5ipMjzsMtTg/edit) / [2](https://web.archive.org/web/20191130224152/https://pastebin.com/3e2RddP5), [ImageBoards](https://imageboards.net/), [Chan List](https://archive.is/Npzwl) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - Imageboard Index
+* [Awesome ACG](https://github.com/soruly/awesome-acg) - Anime Tool Index 
+* [Anilinks](https://anilinks.neocities.org/) - Anime Related Site Index 
+* [10kb Club](https://10kbclub.com/), [250kb Club](https://250kb.club/), [512kb Club](https://512kb.club/), [1MB Club](https://1mb.club/) - Websites that don't exceed a certain size
+* [LowTech Directory](https://emreed.net/LowTech_Directory.html) - Low Tech Site Index
+* [404PageFound](https://www.404pagefound.com/) - Old Site Indexes
+* [endoflife.date](https://endoflife.date/) - Tools & Technologies' End of life Index
+* [KilledByGoogle](https://killedbygoogle.com/) - Dead Google Project Index
+* [KilledByMicrosoft](https://killedbymicrosoft.info/) - Dead Microsoft Project Index
+* [Awesome Tech for Good](https://github.com/TechforgoodCAST/awesome-techforgood) - Social Impact Tech Index
 
 ***
 
-## ▷ Manhua / Manhwa
+# ► Free Stuff
 
-* ⭐ **[Webtoon](https://www.webtoons.com/)**
-* ⭐ **[Toonily](https://toonily.com/)**
-* [1st Kiss Manga](https://1stkissmanga.me/) / [2](https://1stkissmanga.love/)
-* [Manga3S](https://manga3s.com/) - [Discord](https://discord.gg/c3ydbYdYjb)
-* [Wuxia World](https://wuxiaworld.site/)
-* [Read Free Comics](https://readfreecomics.com/)
-* [Manhua Plus](https://manhuaplus.com/)
-* [Zinmanga](https://zinmanga.com/)
-* [Manga SY](https://www.mangasy.com/)
-* [Mangatoon](https://mangatoon.mobi/)
-* [Novelmic](https://novelmic.com)
-* [Bibi Manga](https://bibimanga.com/)
-* [Mangatx](https://mangatx.com/)
-* [Elarc Page](https://elarcpage.com/)
-* [Coffee Manga](https://coffeemanga.io/)
-* [Pian Manga](https://pianmanga.me/)
-* [Mangabob](https://mangabob.com/)
-* [Manga347](https://manga347.com/)
-* [247Manga](https://247manga.com/)
-* [Toomics](https://toomics.com/)
-* [ReadManhua](https://readmanhua.net/)
-* [Tapas](https://tapas.io/)
-* [Bilibili Comics](https://www.bilibilicomics.com/)
-* [MangaKomi](https://mangakomi.io/)
-* [Aqua Manga](https://aquamanga.com/)
-* [MangaWeebs](https://mangaweebs.in/)
-* [Dragon Tea](https://dragontea.ink/)
-* [Niadd](https://niadd.com/)
-* [Manhwa18](https://manhwa18.net/)
-* [Manhuafast](https://manhuafast.com/)
-* [ManhwaKool](https://manhwakool.com/)
-* [ManhuaScan](https://manhuascan.io/)
-* [Manhwatop](https://manhwatop.com/)
-* [Instamanhwa](https://www.instamanhwa.com/)
-* [Manhwa68](https://manhwa68.com/)
-* [Manhwa World](https://manhwaworld.com/)
-* [Comic Kiba](https://manhuagold.com/)
-* [ManhwaZ](https://manhwaz.com/)
-* [Manhwafull](https://manhwafull.com/)
-* [Top Manhua](https://www.topmanhua.com/)
-* [Manhua Mix](https://manhuamix.com/)
-* [Manhau ES](https://manhuaes.com/)
-* [ManhuaHot](https://manhuahot.com/)
-* [Todamic](https://todaymic.com)
-* [Manhua Zone](https://manhuazone.com/)
-* [Manhuaga](https://manhuaga.com/)
-* [Teenmanhua](https://teenmanhua.com/)
+* ⭐ **[OneHack](https://onehack.us/)** - Giveaway Community
+* ⭐ **[Give & Away](https://discord.gg/b4uTmX5PVq)** - Giveaway Server
+* ⭐ **[Free Packages](https://steamdb.info/freepackages/)** - Mass Activate All Free Steam Games / [Guide](https://youtu.be/svbdw-pYNT8)
+* ⭐ **[Unlimited Trials](https://rentry.co/unlimited-trials)** - Unlimited Free Trials Guide
+* ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/#/filter:&price/0/0)** - Games
+* [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-Claim Free Epic, Amazon, and GOG Games
+* [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) or [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Auto-Claim Free Epic Games
+* [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [SteamGifts](https://www.steamgifts.com/) / [Auto Join](https://chrome.google.com/webstore/detail/autojoin-for-steamgifts/bchhlccjhoedhhegglilngpbnldfcidc?hl=en), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - Steam Games
+* [FreeGames.codes](https://freegames.codes/) - Games / [Android](http://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes)
+* [IndieGala](https://freebies.indiegala.com/) - Games
+* [/r/freegames](https://www.reddit.com/r/freegames/) - Games
+* [/r/RandomActsOfGaming](https://www.reddit.com/r/RandomActsOfGaming/) - Games
+* [TemporarilyFreeGames](https://t.me/temporarilyfreegames) - Games
+* [GamePower](https://www.gamerpower.com/) - Games
+* [ClaimFreeGames](https://claimfreegames.com/) - Games
+* [GrabFreeGames](https://grabfreegames.com/) - Games
+* [Epic Games Free](https://www.epicgames.com/store/en-US/free-games), [egsnotifier_bot](https://t.me/egsnotifier_bot) or [Epic Free Games](https://t.me/epicfreegames) - Games
+* [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997) - Steam Mods
+* [/r/googleplaydeals](https://reddit.com/r/googleplaydeals) - APKs
+* [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - APKs
+* [App Sales](https://www.app-sales.net/) - APKs
+* [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - APKs
+* [AppsFree](https://play.google.com/store/apps/details?id=com.appsfree.android) - APKs
+* [InstlApp](https://apps.apple.com/us/app/instlapp/id1502777382) - APKs
+* [AppSumo Freebies](https://appsumo.com/tools/freebies/) - Apps
+* [FreemiumBox](https://t.me/freemiumbox) - Giveaways and Freebies
+* [FreeCycle](https://www.freecycle.org/) - People Giving Away Free Stuff
+* [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
+* [Dolly Parton’s Imagination Library](https://imaginationlibrary.com/) - Book Gifting Program (For Children)
+* [FreeSteamOffers_Bot](https://t.me/FreeSteamOffers_Bot/) - Telegram
+* [/r/FREE](https://reddit.com/r/FREE/)
+* [/r/eFreebies](https://reddit.com/r/eFreebies)
+* [/r/FreeGameFindings](https://reddit.com/r/FreeGameFindings) 
+* [/r/udemyfreebies](https://reddit.com/r/udemyfreebies) 
+* [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS)  
+* [/r/Freegamestuff](https://reddit.com/r/Freegamestuff)
 
 ***
 
-## ▷ Light Novel Sites
+# ► News
 
-* ⭐ **[TheIndex](https://theindex.moe/library/novels)** - Light Novel Site Index
-* ⭐ **[Novel Updates](https://www.novelupdates.com/)**
-* ⭐ **[Just Light Novels](https://www.justlightnovels.com/)**
-* ⭐ **[ThatNovelCorner](https://thatnovelcorner.com/)**
-* [Light Novel World](https://www.lightnovelworld.com/), [2](https://www.novelpub.com)
-* [Ranobes](https://ranobes.top/)
-* [Baka-Tsuki](https://www.baka-tsuki.org)
-* [Armaell's Library](https://armaell-library.net/)
-* [Novel Online Free](https://novelonlinefree.com/homepage), [2](https://novelonlinefull.com/), [3](https://bestlightnovel.com/)
-* [jNovels](https://jnovels.com/)
-* [MP4DIRECTS](https://mp4directs.com/)
-* [English Light Novels](https://englishlightnovels.com)
-* [Tensai Translations](https://tensaitranslations.wordpress.com/)
-* [Web Novel](https://www.webnovel.com/)
-* [Shin Translations](https://shintranslations.com/)
-* [wuxiaworld](https://www.wuxiaworld.com/)
-* [Henkan Epubs](https://henkanepubs.wordpress.com/)
-* [LNWNCentral](https://lnwncentral.wordpress.com/)
-* [Octiopii](https://octopii.co/)
-* [AsianHobbyist](https://www.asianhobbyist.com/)
-* [Read Light Novel](https://www.readlightnovel.me/)
-* [DaoNovel](https://daonovel.com/)
-* [List Novel](https://www.listnovel.com/)
-* [Novel Ringan](https://novelringan.com/)
-* [NovelLMAO](https://novelmao.com/)
-* [ReadNovelFull](https://readnovelfull.com)
-* [Panda Novel](https://www.panda-novel.com/)
-* [FreeWebNovel](https://freewebnovel.com/)
-* [NovelsOnline](https://novelsonline.net/)
-* [EnglishNovelsOnline](https://englishnovelonline.com/)
-* [LightNovelReader](https://lnreader.org/)
-* [AllNovel](https://allnovel.org)
-* [EliteNovel](https://elitenovel.net/)
-* [ReadWebNovels](https://readwebnovels.net)
-* [NovelTranslate](https://noveltranslate.com/)
-* [MyBoxNovel](https://myboxnovel.com/)
-* [MTLReader](https://mtlreader.com/)
-* [WebNovelFull](https://webnovelfull.net/)
-* [Foxaholic](https://www.foxaholic.com/)
-* [NovelHold](https://novelhold.com/)
-* [NovelNext](https://novelnext.com/)
-* [InfiniteNovelTranslations](https://infinitenoveltranslations.net/)
-* [NovelBuddy](https://novelbuddy.com/)
-* [WNMTL](http://wnmtl.org/)
-* [KoreanMTL](https://www.koreanmtl.online/)
-* [NeoSekaiTranslations](https://www.neosekaitranslations.com/)
-* [Wuxia Blog](https://www.wuxia.blog)
-* [Wuxia Here](https://www.wuxiahere.com/)
-* [Novel Translations](https://lightnovelstranslations.com/)
-* [WebNovelOnline](https://webnovelonline.com/)
-* [Readwn](https://www.readwn.com/)
-* [Nakimushitl](https://nakimushitl.wordpress.com/)
-* [LightNovelHeaven](https://lightnovelheaven.com)
-* [NovelCool](https://www.novelcool.com/)
-* [Novels.pl](https://www.novels.pl/)
-* [Scribblehub](https://www.scribblehub.com/)
-* [All Novel Full](https://allnovelfull.com/)
-* [LightNovelReader](https://lnreader.org/)
-* [NovelFull](https://novelfull.me/)
-* [MTL Nation](https://mtlnation.com/)
-* [Novel Hall](https://www.novelhall.com/)
-* [Rekt Novel Compilations](https://rektnovelcompilations.wordpress.com/)
-* [VolareNovels](https://www.volarenovels.com/)
-* [WoopRead](https://woopread.com/)
-* [Light Novel Archive](https://t.me/LightNovelArchives) or [LN_Index](https://t.me/LN_Index)
-* [Void Translations](https://voidtranslations.wordpress.com/)
-* [RnDNovels ](https://www.rndnovels.com/)
-* [MTL Novel](https://www.mtlnovel.com/)
-* [NovelFull](https://novelfull.com/)
-* [ExiledRebels](https://exiledrebelsscanlations.com/)
-* [Moon Bunny Cafe](https://moonbunnycafe.com/)
-* [Light Novel Archive](https://t.me/lightnovelarchive_bot) - Telegram / Bot
-* [Book Smelting Bot](https://t.me/epub_smelter_bot) - Telegram / Bot
-* [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - Novels / Audio Recordings
-* [NovelReader](https://github.com/Kevin-Umali/NovelReader) - Light Novel Reader
-* [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [novel-downloader](https://greasyfork.org/en/scripts/406070), [QuickNovel](https://github.com/LagradOst/QuickNovel), [anime-dl](https://github.com/vrienstudios/anime-dl) or [Novel-Grabber](https://github.com/Flameish/Novel-Grabber) - Light Novel Downloaders
-* [WebToEpub](https://github.com/dteviot/WebToEpub) - Novel to EPUB Converter
-* [LNMTL](https://lnmtl.com/) - Light Novel Translator
+* ⭐ **[News Feed Aggregators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_news_feed_aggregators)** - Multiple News Site Feeds
+* ⭐ **[Current Events Wiki](https://en.m.wikipedia.org/wiki/Portal:Current_events)** or [Slower News](https://www.slowernews.com/) - Breaking News
+* ⭐ **[5000 Best News Sites](http://5000best.com/websites/News/)** - New Site Index
+* ⭐ **[/m/news](https://www.reddit.com/user/nbatman/m/news/)** - News Multireddit
+* ⭐ **[InoReader](https://www.inoreader.com/)** - News Feed Manager
+* ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) - Piracy News
+* ⭐ **[Tech News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tech_news)** - Tech News
+* ⭐ **[YCombinator](https://news.ycombinator.com/)** / [Highlighter](https://greasyfork.org/en/scripts/39311), [Hacki](https://github.com/Livinglist/Hacki), [HarmonicHackerNews](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [Glider](https://github.com/Mosc/Glider) [hckrnws](https://www.hckrnws.com/), [algolia](https://hn.algolia.com/), [Hackers](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901), [news.social-protocols](https://news.social-protocols.org), [Hazumi](https://apps.apple.com/ie/app/hazumi/id1670237209) or [HackerWebApp](https://hackerwebapp.com/) - Hacker News
+* ⭐ **[BoringReport](https://www.boringreport.org/)**, [Artifact](https://artifact.news/) or [Volv](https://play.google.com/store/apps/details?id=com.volvmedia.volvapp) - Android News Apps
+* [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - How to bypass article paywalls
+* [JustRead](https://justread.link/) - Ad-Free Article Viewer
+* [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - Generate Article Summaries
+* [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index) - News Site Indexes 
+* [Google Alerts](https://www.google.com/alerts) - News Alerts by Topics
+* [Good News Network](https://www.goodnewsnetwork.org/) - Uplifting News
+* [Health News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_health_news) - Health News
+* [Top Stories](https://murmel.social/top) - Top Twitter News  
+* [PublicAlerts](https://google.org/publicalerts) - Important News / Disaster Alerts
+* [Riot Archive](https://riotarchive.com/) - Riot / Protest Videos
+* [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
+* [Liliputing](https://liliputing.com/) - Linux Mobile News
+* [Latest Privacy](https://latestprivacy.org/), [Talos Blog](https://blog.talosintelligence.com/), [IT Security Guru](https://www.itsecurityguru.org/), [ThreatPost](https://threatpost.com/), [Calyx](https://calyxinstitute.org/), [Privacy International](https://www.privacyinternational.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - Privacy / Security News
+* [Netblocks](https://netblocks.org/) - Censorship News
+* [CBM](https://comicbookmovie.com/) - Comic, Movie & TV News
+* [EmergentMind](https://www.emergentmind.com/) - AI News
+* [NewsNotFound](https://newsnotfound.com/) - Unbiased AI Generated News
+* [Tudum](https://www.netflix.com/tudum) - Netflix News
+* [Anime News Network](https://www.animenewsnetwork.com/) - Anime News
+* [Anime Corner](https://animecorner.me/) - Anime / Manga News
+* [Darknet Live News](http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/), [Darknet Stats](https://www.darknetstats.com/) or [Tape News](http://tape6m4x7swc7lwx2n2wtyccu4lt2qyahgwinx563gqfzeedn5nb4gid.onion/) - Dark Web News
+* [Interactive News Map](https://usa.liveuamap.com/) or [Atlas Politica](https://www.atlaspolitica.com/) - Geolocated News Alerts / Headlines U.S
+* [Nikkei Asia](https://asia.nikkei.com/) - Asian News
+* [China Daily Global](http://www.chinadailyglobal.com/) or [China Daily Asia](https://www.chinadailyasia.com/) - Chinese News
+* [MFA](https://www.mfa.gov.cn/eng/) - Ministry of Foreign Affairs of the People's Republic of China
+* [Legislation.gov](https://www.legislation.gov.uk/) - British Law News
+* [RT News](https://t.me/rtnews) - Russian News
+* [SciURLs](https://sciurls.com/), [NewScientist](https://www.newscientist.com/), [Nature.com](https://www.nature.com/), [Science.org](https://www.science.org/), [PopSci](https://www.popsci.com/), [Useful Science](https://usefulscience.org/), [ScienceDaily](https://www.sciencedaily.com/), [EurekAlert](https://www.eurekalert.org/) or [LiveScience](https://livescience.com/) - Science News
+* [MathURLs](https://mathurls.com/) - Math News
+* [DevURLs](https://devurls.com/) - Developer News
+* [TuxURLs](https://tuxurls.com/) - Linux News
+* [The Base Rate Times](https://www.baseratetimes.com/) - Market Prediction News
+* [Medievalists](https://www.medievalists.net/category/news/) - Medieval History News
+* [FinURLs](https://finurls.com/) - Finance & Business News
+* [Uriminzokkiri](http://www.uriminzokkiri.com/index.php?lang=eng) - Korean News
+* [Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspaper_sites) - Read & Download Newspapers
+* [EDIS](https://rsoe-edis.org/) - Emergency and Disaster Map 
+* [PlaneCrashInfo](http://www.planecrashinfo.com/) - Plane Crash Reports
+* [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)
+* [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
+* [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
+* [LiveScore](https://www.livescores.com/) - Live Sports Scores
+* [NBA Go](https://github.com/homerchen19/nba-go) - NBA Schedule / Scores CLI
+* [Scribe](https://scribe.bus-hit.me/) - Medium Frontend
+* [Read Something Interesting](https://readsomethinginteresting.com/) or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
+* [prompt.press](https://prompt.press/) - AI Art Inspired by News
+* [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/) or [HonestyMeter](https://www.honestymeter.com/) - Media Bias Check
+* [Jayto's Newsletter List](https://rentry.co/newsletters) - List of Newsletters
 
 ***
 
-## ▷ Magazine Sites
+# ► Food
 
-* ⭐ **[Mobilism Magazines](https://forum.mobilism.org/viewforum.php?f=123)**
-* ⭐ **[PDFMagazines](https://pdfmagazines.club/)**
-* ⭐ **[DownMagaz](https://downmagaz.net/)**
-* ⭐ **[MagazineLib](https://magazinelib.com/)**
-* [ENMagazine](https://t.me/enmagazine) - Telegram
-* [newspaper_archive](https://t.me/newspaper_archive) - Telegram
-* [World Mags](https://www.worldmags.net/)
-* [PDF Dude](https://pdfdude.com/)
-* [PDF Magazines Download](https://pdf-magazines-download.com/)
-* [PDF Magaz](https://www.pdfmagaz.in/)
-* [FreePDFMagazine](https://www.freepdfmagazine.com/)
-* [freemagazines](https://freemagazines.top/)
-* [Calameo](https://calameo.com/)
-* [eBookShelve](https://ebookshelve.top/)
-* [PDF Magazines Archive](https://pdf-magazines-archive.com/)
-* [Magazine Rack](https://github.com/nbats/FMHYedit/blob/main/base64.md#magazine-rack)
-* [Computer Magazines](https://github.com/nbats/FMHYedit/blob/main/base64.md#computer-magazines)
-* [Aeon](https://aeon.co/)
-* [Magzter](https://www.magzter.com/top-free-magazines)
-* [FlipHTML5](https://fliphtml5.com/exploring)
-* [MagDownload](https://magdownload.org/)
-* [Lainzine](https://lainzine.org/) - Lain-inspired Magazine
-* [Retromags](https://www.retromags.com/) or [Annarchive](https://www.annarchive.com/) - Retro Game Magazines
-* [PC Zone](http://pixsoriginadventures.co.uk/PCZone/) - PC Zone Magazines
-* [CGW Museum](https://www.cgwmuseum.org/) - Computer Gaming World Magazines
-* [Atari Magazines](https://www.atarimagazines.com/) - Classic Computer Magazine Archive
-* [HomePower](https://www.homepower.com/archive-browse ) - Home Power Magazines
-* [Archive Fashion for the World](https://www.archivepdf.net/) - Fashion Magazines
-* [Cutter's Guide](https://www.cuttersguide.com/) - Old Fashion Magazines
-* [Netflix Jr. Magazine](https://www.netflixjr.com/) - Free Children's Magazine
+* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Whisk](https://whisk.com/) or [Spoonacular](https://spoonacular.com/food-api) - Recipe Managers
+* ⭐ **[ChefDroyd](https://chefdroyd.com/)**, [BabaSelo](https://www.babaselo.com/), [LetsFoodie](https://letsfoodie.com/ai-recipe-generator/) or [ChefGPT](https://www.chefgpt.xyz/) - AI Recipe Generators
+* ⭐ **[Grocy](https://grocy.info/)** / [Android](https://github.com/patzly/grocy-android) or [Kitchen Owl](https://f-droid.org/en/packages/com.tombursch.kitchenowl/) - Grocery Managers
+* ⭐ **[Superbetize](http://superbetize.com/)** - Auto-Categorize Grocery List
+* ⭐ **[Just the Recipe](https://www.justtherecipe.com/)**, [Copy Me That](https://www.copymethat.com/), [PlainOldRecipe](https://www.plainoldrecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - Extract Ingredients from Recipe Pages
+* ⭐ **[Food Nutrition / Ingredients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nutrition_.2F_ingredients)** - Search / Scan Food for its Ingredients
+* ⭐ **[/m/food](https://www.reddit.com/user/Siryonkee/m/food/)** - Food Multireddit
+* ⭐ **[TasteJury](https://tastejury.com/)** - Find Specific Dishes
+* ⭐ **[Sporked](https://sporked.com/)** - Packaged Food Reviews
+* ⭐ **[Still Tasty](https://www.stilltasty.com/)** or [EatByDate](http://www.eatbydate.com/) - Shelf Life Guides 
+* ⭐ **[Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png)** / [2](https://i.ibb.co/SKq3GT7/ca6f633c898b.png)
+* ⭐ **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
+* ⭐ **[HackTheMenu](http://hackthemenu.com/)** - Fast Food Secret Menu Items
+* ⭐ **[McBroken](https://mcbroken.com/)** - Check if McDonalds Ice Cream Machines are Broken
+* [cookEbooks](http://cookebooks.info/) - Cookbooks
+* [DMC Cookbooks](https://archive.lib.msu.edu/DMC/cookbooks/) - Cookbooks
+* [Cook Bookshelf](https://t.me/cook_bookshelf) - Cookbooks / Telegram
+* [Southern Cookbook](https://archive.org/details/southerncookbook00lustrich/) - Cookbook Southern
+* [Search-22](https://search-22.com/recipe-search-tools) - Multi-Site Recipe Search
+* [SuperCook](https://www.supercook.com/) - Recipe Search
+* [MyFridgeFood](https://www.myfridgefood.com/) - Recipe Search
+* [Epicurious](https://www.epicurious.com/) - Recipe Search
+* [Recipe Search](https://recipe-search.typesense.org/) - Recipe Search
+* [RecipeRadar](https://www.reciperadar.com/) - Recipe Search
+* [Recipe Retrieve](https://reciperetrieve.com/) - Recipe Search
+* [DotNom](http://www.dotnom.com/) - Recipe Search
+* [SuperCook](https://supercook.com/) - Recipe Search
+* [Yummly](https://www.yummly.com/) - Recipe Search
+* [Recipeeper](https://www.recipeeper.com/) - Dietary Based Recipes
+* [Glorious Recipes](https://ck.booru.org/) - Vertical Image Recipes
+* [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) - Food Image to Recipe Tool
+* [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
+* [PakistAnatlas](https://pakistanatlas.com/) - Pakistani Traditional Food Map
+* [Cooking YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cooking_youtube_channels)
+* [Awesome Food](https://github.com/jzarca01/awesome-food) - Cooking Tools Index
+* [CookingForEngineers](http://www.cookingforengineers.com/) - Recipes / Cooking Tests
+* [ReluctantGourmet](https://www.reluctantgourmet.com/) - Recipes / Tutorials
+* [How2Heroes](http://how2heroes.com/) - Recipes
+* [All Recipes](https://www.allrecipes.com/) - Recipes
+* [Just the Darn Recipe](https://justthedarnrecipe.com/) - Recipes
+* [theSkullery](https://theskullery.net/) - Recipes
+* [Curlie Cooking](https://curlie.org/en/Home/Cooking/) - Recipes 
+* [Based Cooking](https://based.cooking/) - Recipes
+* [BHG](https://www.bhg.com/recipes/) - Recipes
+* [TheCookingGinn](http://www.thecookinginn.com/) - Recipes
+* [Bon Appétit](https://www.bonappetit.com/) - Recipes
+* [PunchFork](https://www.punchfork.com/) - Recipes
+* [Tasty](https://tasty.co/) - Recipes
+* [101Cookbooks](https://www.101cookbooks.com/) - Recipes
+* [SimplyRecipes](https://www.simplyrecipes.com/) - Recipes
+* [MyRecipes](https://www.myrecipes.com/) - Recipes
+* [JustAPinch](https://www.justapinch.com/) - Recipes
+* [Cooks](https://www.cooks.com/) - Recipes
+* [Food.com](https://www.food.com/recipe) - Recipes
+* [BBC Good Food](https://www.bbcgoodfood.com/recipes) - Recipes
+* [Food Network Recipes](https://www.foodnetwork.com/recipes) - Recipes
+* [CookBook](https://github.com/jlinder/cookbook) - Recipes 
+* [Wikibook Cookbooks](https://en.wikibooks.org/wiki/Category:Cookbook) - Recipes
+* [Cookpad](https://cookpad.com/us) - Recipes
+* [FoodGeeks](https://foodgeeks.com/) - Recipes
+* [SparkPeople](https://recipes.sparkpeople.com/) - Recipes
+* [KeyIngridient](https://www.keyingredient.com/) - Recipes
+* [CopyKat](https://copykat.com/) - Recipes
+* [Chowdown](https://chowdown.io/) - Recipes / [GitHub](https://github.com/clarklab/chowdown)
+* [RobbieHaf](http://recipes.robbiehaf.com/) - Recipes
+* [WhatsCookingAmerica](https://whatscookingamerica.net/Menu/MenuIndex.htm) - Recipes
+* [MJW](http://www.cs.cmu.edu/~mjw/recipes/) - Recipes
+* [BetterRecipes](https://www.bestrecipes.com.au/) - Recipes
+* [Astray](https://www.astray.com/recipes/) - Recipes
+* [zhabotyn](http://www.bios.unc.edu/~zhabotyn/recipes/) - Recipes
+* [FarmlandFoods](https://www.farmlandfoods.com/recipes/) - Recipes
+* [RecipeLand](https://recipeland.com/) - Recipes
+* [Budget Bytes](https://www.budgetbytes.com/) - Cheap Recipes
+* [What the Fuck Should I Make for Dinner?](http://www.whatthefuckshouldimakefordinner.com/) - Random Recipes
+* [Dish Dragon AI](https://www.dishdragon.ai/) - Find Ingredients That Go Well Together
+* [Edamam](https://developer.edamam.com/) - Food-Related APIs
+* [Recipe Puppy](http://www.recipepuppy.com/about/api/) - Recipe API
+* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course
+* [Cheese.com](https://cheese.com/) - Cheese Resources
+* [tacofancy](https://github.com/dansinker/tacofancy) - Taco Recipes
+* [AmazingRibs](https://amazingribs.com/) - Rib Recipes
+* [Bakerella](http://www.bakerella.com/) - Baking Recipes
+* [KingArthurBaking](https://www.kingarthurbaking.com/recipes) - Baking Recipes
+* [The Bread Code Manifesto](https://github.com/hendricius/the-bread-code) - Bread Baking Recipes 
+* [Sugarologie](https://www.sugarologie.com/recipes) - Cake Recipes
+* [Mac Cookie Recipe Easter Egg](https://i.ibb.co/QbkD5NN/6a31bb4d52d7.png) - Cookie Recipe / [How-to](https://pastebin.com/N8AyVfEf)
+* [Honey Ale](https://i.ibb.co/j3HXBSr/197281de59c1.jpg) or [Honey Porter](https://i.ibb.co/pw6mypt/69a11ac8d936.png) - The White House Brewing Recipes
+* [Coffee or Bust!](https://www.coffeeorbust.com/) - Coffee Making Guides
+* [Coffee Flavor Wheel](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
+* [MakeMyCocktail](http://makemycocktail.com/), [DrinNnation](https://www.drinknation.com/bar), [CocktailBuilder](https://www.cocktailbuilder.com/), [CocktailsAndShots](https://cocktailsandshots.com/cocktail-builder/) or [MyBar](https://makemeacocktail.com/mybar/) - Cocktail Builders
+* [Drinkable](https://github.com/MOIMOB/drinkable) - Create Cocktails from Home Ingredients
+* [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes Site Index
+* [Parsnip](https://www.parsnip.ai/) - Cooking Lessons / Skill Tracking App
+* [Chef2Chef](https://www.chef2chef.net/) - Cooking Lessons 
+* [TheCulinaryCook](https://theculinarycook.com/) - Cooking Lessons 
+* [Food Chemistry Course](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter), [2](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matte-2)
+* [auto-soylent](https://github.com/nick/auto-soylent) - Automatic Soylent Recipe Generator 
+* [/r/Cooking](https://reddit.com/r/Cooking) - Cooking Discussion / Tips
+* [/r/GifRecipes](https://reddit.com/r/GifRecipes) - Recipes in GIF Format
+* [/r/recipes](https://reddit.com/r/recipes) - Share Recipes
+* [/r/AskCulinary](https://reddit.com/r/AskCulinary) - Get Cooking Advice
+* [/r/IndianFood](https://reddit.com/r/IndianFood) - Indian Food Recipes / Tips
+* [Eat Jamacian](https://eatjamaican.com/recipes.html) - Jamaican Recipes
+* [Jamacian Recipe Rundown](http://worldstogethertravel.com/jamaica/recipe-rundown.htm) - Jamaican Recipes
+* [Portuguese Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_recipes)
+* [Nosh](https://nosh.tech/) - Food Management App
+* [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) - Food Expiration Tracker
+* [Eggspensive](https://pantryandlarder.com/eggspensive) - Egg Price Tracker
+* [McCheapest](https://pantryandlarder.com/mccheapest) - Big Mac Price Tracker
+* [Mealime](https://www.mealime.com/) or [Mealie](https://nightly.mealie.io/) - Meal Planning Apps
+* [node-deliveroo](https://github.com/jzarca01/node-deliveroo) - API for Deliveroo
+* [PizzaDash](https://github.com/mynamebrody/pizzadash) - Turn Amazon Dash Button into Pizza Delivery Button
+* [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) - SF Food Truck App
+* [The Worlds 50 Best Restaurants](https://www.theworlds50best.com/list/1-50) - Top Restaurants List
+* [Awesome Cafe](https://github.com/utilForever/awesome-cafe) - Korean Cafe List / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [FermenThings](https://wiki.fermenthings.be/) - Fermentation Wiki
+* [is-vegan](https://github.com/hmontazeri/is-vegan) - Vegan Food App
+* [Food Lab](https://github.com/Singh-Shivani/Food_Lab) - Food Blog App
 
 ***
 
-## ▷ Newspaper Sites
+# ► Gardening
 
-* ⭐ **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)**
-* ⭐ **[Google Newspaper Search](https://news.google.com/newspapers)**
-* [Burlesco](https://burles.co/en/) - Bypass the paywall on online newspapers
-* [Sanet.st](https://sanet.st/newspapers/)
-* [Elephind](https://www.elephind.com/) - Historical Newspaper Search
-* [Meta-Press](https://www.meta-press.es/) - Newspaper Search
-* [EngNewspapers](https://vk.com/engnewspapers) - Telegram
-* [newspaper_archive](https://t.me/newspaper_archive) - Telegram
-* [dailynewspaper88](https://t.me/dailynewspaper88) - Telegram
-* [Chronicling America](https://chroniclingamerica.loc.gov/newspapers/)
-* [Kiosko](https://en.kiosko.net/)
-* [Newspapers com](https://newspapers.com/)
-* [ThoughtCo](https://www.thoughtco.com/us-historical-newspapers-online-by-state-1422215)
-* [Library of Congress Newspapers](https://www.loc.gov/rr/news/oltitles.html)
-* [Archive.org Newspapers](https://github.com/nbats/FMHYedit/blob/main/base64.md#archiveorg-newspapers)
-* [World-Newspapers](https://world-newspapers.com/), [NewsPaperIndex](https://www.newspaperindex.com/) or [Paperboy](https://www.thepaperboy.com/) - Online Newspaper Indexes
-* [LA Times](https://latimes.newspapers.com/)
-* [NYTimes-Compose](https://github.com/akshay2211/NYTimes-Compose) - NY Times Top Story App
-* [Europeana Newspapers](https://www.europeana.eu/en/collections/topic/18-newspapers) - European Historical Newspapers
-* [Worldwide News Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index) - News Site Indexes
-* [Newspaper Map](https://newspapermap.com/) - Find / Translate Worldwide Newspapers
+* ⭐ **[TouchGrasss](https://rentry.co/TouchGrasss)** - Agriculture / Gardening Subreddits
+* ⭐ **[EarthEasy](https://learn.eartheasy.com/)**, [How To Garden](https://www.bhg.com/gardening/how-to-garden/), [HappySprout](https://www.happysprout.com), [Growing Guide](https://blog.planter.garden/), [Openfarm](https://openfarm.cc/), [GrowStuff](https://www.growstuff.org/) or [GrowVeg](https://www.growveg.com/) - Gardening Guides
+* ⭐ **[/r/Gardening](https://reddit.com/r/gardening)** -  Gardening Community
+* ⭐ **[/r/Whatsthisplant](https://www.reddit.com/r/whatsthisplant/)** or [iNaturalist](https://www.inaturalist.org/) - Plant Identification Communities
+* [PictureThis](https://www.picturethisai.com/) / [Premium](https://forum.mobilism.org/search.php?keywords=picturethis&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - Plant Identification Tool / [Android](https://play.google.com/store/apps/details?id=cn.danatech.xingseus) / [iOS](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129)
+* [MyGarden](https://gitlab.com/m9712/mygarden) - Garden Management App
+* [Florae](https://github.com/aeri/Florae) - Plant Care Reminders
+* [Garden Design](https://www.gardendesign.com/) - Garden Design Guides
+* [/r/UrbanGardening](https://www.reddit.com/r/UrbanGardening/) - Urban Gardening Community
+* [/r/Farming](https://reddit.com/r/farming/) - Farming Community
+* [Composting](https://learn.eartheasy.com/guides/composting/) - Composting Guides
+* [Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open-Source Agriculture / Gardening Tech
+* [Modern Farmer](https://modernfarmer.com/) - Agricultural News
+* [Chip Drop](https://getchipdrop.com/) - Free Mulch
+* [Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png) or [Plant Maps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
+* [Cannabis Growing Subreddits](https://www.reddit.com/r/trees/wiki/entreddits_social#wiki_growing)
+* [/r/Microgrowery](https://reddit.com/r/microgrowery/) - Cannabis Growing Community
 
 ***
 
-# ► Tracking / Discovery
+# ►  Health
 
-* ⭐ **[GoodReads](https://www.goodreads.com/)** / [Frontend](https://github.com/nesaku/BiblioReads) - Books / Comics / Manga / [DL Button](https://github.com/laxyapahuja/bunken)
-* ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels
-* ⭐ **MAL Tools** - [Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/)
-* ⭐ **[Anilist](https://anilist.co/home)** - Manga / Light Novels / Manhwa / Manhua / [Wrapper](https://github.com/butterstroke/Anilist-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
-* ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga (Has Obscure Stuff)
-* ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comics
-* ⭐ **[TasteDive](https://tastedive.com/)** - Book Recommendations
-* [Rec Charts](https://mega.nz/folder/kj5hWI6J#0cyw0-ZdvZKOJW3fPI6RfQ) - Books / Comics / Manga Recommendation Guides
-* [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Book / Comic Recommendations
-* [BookHype](https://bookhype.com/) - Books
-* [Oku](https://oku.club/) - Books
-* [StoryGraph](https://www.thestorygraph.com/) - Books
-* [Literal](https://literal.club/) - Books
-* [BookWyrm](https://bookwyrm.social/) - Books
-* [LibraryThings](https://www.librarything.com/) - Books
-* [CandlApp](https://www.candlapp.com/) - Books
-* [Anobii](https://www.anobii.com/) - Books
-* [Reddit Reads](https://www.redditreads.com/) - Book Recommendations
-* [What Should I Read Next?](https://www.whatshouldireadnext.com/) - Book Recommendations
-* [GNOD](https://www.gnod.com/) - Book Recommendations
-* [RecommendMeABook](https://recommendmeabook.com/) - Book Recommendations
-* [WhichBook](https://www.whichbook.net/) - Book Recommendations
-* [Readow](https://readow.ai/) - Book Recommendations
-* [Readgeek](https://www.readgeek.com/) - Book Recommendations
-* [Shepherd](https://shepherd.com/) - Book Recommendations
-* [Literature-Map](https://www.literature-map.com/) - Book Recommendations
-* [Break the Bubble!](https://abooklikefoo.com/escape) - Book Recommendations
-* [PagePundit](https://pagepundit.com/) - Book Recommendations
-* [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books) - Book Recommendations
-* [Litsy](https://www.litsy.com/) - Book Recommendation / Photo Sharing Community
-* [5000 Best](http://5000best.com/) - Top 5000 Books
-* [listal](https://www.listal.com/) - Book Database
-* [Books Search](https://books-search.typesense.org/) - Book Database
-* [ISFDB](http://www.isfdb.org/cgi-bin/index.cgi) - Speculative Fiction
-* [nooSFere](https://www.noosfere.org/) - Science Fiction
-* [BookStash](https://bookstash.io/) or [Glimbay](https://glimbay.netlify.app/) - Book Summaries
-* [/r/DCcomics Recommended](https://www.reddit.com/r/DCcomics/wiki/recommended) - DC Comic Recommendations
-* [Comic Book Reading Orders](https://comicbookreadingorders.com/) - Comic Book Reading Orders
-* [DC Superhero Era Timeline](https://i.ibb.co/FzpSw5d/3a88deff86fd.jpg) / [2](https://i.ibb.co/sJskjmn/46e727207409.jpg)
-* [Kitsu](https://kitsu.io/) - Manga
-* [Mangaki](https://mangaki.fr/) - Manga Recommendations
-* [spin.moe](https://spin.moe/) - Find Random Manga
-* [Anime-Planet](https://anime-planet.com/) - Manga
-* [kenmei](https://www.kenmei.co/) - Manga
-* [All Anime](https://allanime.to/) - Manga
-* [Manga Codex](https://mangacodex.com/) - Manga Infographics & Sales Stats
-* [vndb](https://vndb.org/) - Visual Novel
-* [rate.house](https://rate.house/) - Media Tracker
-* [libib](https://www.libib.com/) - Desktop Media Catalog
-* [MythBank](https://mythbank.com/) - Media Timelines / Watch Orders
+* ⭐ **[Awesome Health](https://github.com/lalaithan/awesome-health)** - Health Resources Index
+* ⭐ **[Health News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_health_news)** - Health News Sites
+* ⭐ **[/r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
+* ⭐ **[Food Nutrition / Ingredients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nutrition_.2F_ingredients)** - Search / Scan Food for its Ingredients
+* ⭐ **[Caffeine Calculator](https://caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
+* ⭐ **[Dehydration Chart](https://i.ibb.co/b3YxZzr/921f6c843cf0.png)** - Dehydration Color Chart
+* ⭐ **[BMI Chart](https://i.ibb.co/bL65m8F/995c00ec75ba.png)** - Healthy BMI Graph
+* ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)** - BMI Calculator
+* ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** or [SwoleHalla](https://www.swolehalla.com/) - Fitness Calculators
+* ⭐ **[/u/KNightNox Diagram](https://i.ibb.co/xCGRdM0/c3b977fa36fc.jpg)** - Zoomable Exercise Diagram
+* ⭐ **[Drugs.com](https://www.drugs.com/)** or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
+* [healthgrades](https://www.healthgrades.com/right-care/health-content-a-z), [epocrates](https://online.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
+* [osh](https://www.osh.net/) - Occupational Health and Safety Resources
+* [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
+* [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Habit / Mood Trackers
+* [BreakFree](https://breakfree-2c089.web.app/) - Break Smoking Habits
+* [ZeroPercent](https://zeropercent.club/) - Break Drinking Habits
+* [Sobriety](https://github.com/KiARC/Sobriety) - Sobriety Tracker
+* [/r/NoSurf](https://www.reddit.com/r/nosurf/) - Digital Detox Community / [Discord](https://discordapp.com/invite/QFhXt2F)
+* [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-based Research
+* [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - Harvard University Health Website
+* [Liam Rosen's Fitness Guide](http://liamrosen.com/fitness.html) - Beginners Health & Fitness Guide
+* [jamesflorentino-fitness](https://github.com/jamesflorentino/fitness) or [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info 
+* [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
+* [Google Fit](https://www.google.com/fit/) - Activity Coach
+* [No Equipment Ab Exercises](https://i.ibb.co/YdNy3K2/12df795c3938.jpg) - Ab Exercise Diagram
+* [fastnfitness](https://github.com/brodeurlv/fastnfitness) - Track Your Exercise Progress
+* [CalorieScope](https://f-droid.org/packages/org.dynamicsoft.caloriescope/) or [PFCTE](https://github.com/SecUSo/privacy-friendly-circuit-training-exercises) - Exercise & Activity Tracker
+* [ExRx.net](https://exrx.net/) - Exercise Resources
+* [Cronometer](https://cronometer.com/) or [Waistline](https://github.com/davidhealey/waistline) - Track Nutrition & Calories
+* [MyFoodData](https://www.myfooddata.com) - Food Nutrition Tools
+* [Food-E App](https://github.com/SuhasDissa/Food-E-App) - Food Additives Database App
+* [wger](https://wger.de/) - Self-Hosted Workout, Nutrition / Weight App / [GitHub](https://github.com/wger-project/wger)
+* [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
+* [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - Daily Diet Recommendations / Android
+* [EatThisMuch](https://www.eatthismuch.com/), [FitMenCook](https://fitmencook.com/) or [MealPrePro](https://mealpreppro.com/) - Diet Tool / iOS / Android 
+* [Examine.com](https://examine.com/) - Supplement & Nutrition Analysis
+* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course 
+* [Kids Health](https://www.kidshealth.org/) - Kids Health Information
+* [openScale](https://f-droid.org/packages/com.health.openscale/) - Weight & Body Metrics Tracker
+* [Effective Fitness](https://www.e-fitness.org/) - Fitness Discussion / [Discord](https://discord.gg/fitness)
+* [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE Calculator
+* [/r/BodyweightFitness](https://www.reddit.com/r/BodyweightFitness) - Bodyweight Fitness Subreddit / [Discord](https://discord.gg/bwf)
+* [Start Bodyweight](http://www.startbodyweight.com/) - Bodyweight Training
+* [Bodyweight Fitness Progressions](https://docs.google.com/spreadsheets/d/1a8tlZ-zbF695HA3Lmm20OIYeYYxo1lmUOczUXKLoL4s/)
+* [/r/LoseIt](https://www.reddit.com/r/loseit/) - Weight Loss Subreddit
+* [MOVE! Coach](https://mobile.va.gov/app/move-coach) - Weight Loss Program
+* [Weight Loss Side Effects](https://weight-loss-side-effects.netlify.app/) - Weight Loss Side Effect Mitigation
+* [BodyVisualizer](https://bodyvisualizer.com/) - Exercise Benefit Visualization
+* [Muscleandstrength](https://muscleandstrength.com/) or [Feeel](https://gitlab.com/enjoyingfoss/feeel) - Workout Plans & Tools
+* [/r/GainIt](https://www.reddit.com/r/gainit/) - Healthy Weight Gain Subreddit
+* [/r/Fexibility](https://www.reddit.com/r/flexibility/) - Flexibility Subreddit
+* [My Pacer](https://www.mypacer.com/) - Fitness App / Pedometer
+* [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness / Health App
+* [FitoTrack](https://codeberg.org/jannis/FitoTrack) or [openScale](https://github.com/oliexdev/openScale) - Fitness Trackers
+* [Liftosaur](https://www.liftosaur.com/) - Weight Lifting Tracker / [GitHub](https://github.com/astashov/liftosaur)
+* [MuscleWiki](https://musclewiki.com/) - Muscle / Exercise Information Tool 
+* [SPSS Tutorials](https://www.spss-tutorials.com/) - SPSS Practice & Examples
+* [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
+* [Fitocracy](https://www.fitocracy.com/) - Create Workout Plans
+* [DAREBEE](https://darebee.com/) - Fitness Plans / Workouts
+* [Hevy](https://www.hevyapp.com/), [Iron](https://github.com/kabouzeid/Iron), [Massive](https://gitea.presley.nz/brandon.presley/Massive), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines) or [FitHero](https://fithero.app/) - Workout Trackers
+* [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
+* [GoldenCheetah](https://www.goldencheetah.org/), [AAT](https://bailu.ch/aat/) or [BikeComputer](https://f-droid.org/packages/de.nulide.bikecomputer/) - Biking Trackers
+* [AllTrails](https://www.alltrails.com/) - Hiking Routes
+* [MapMyWalk](https://www.mapmywalk.com/) - Walking Tracker
+* [RunnerUp](https://github.com/jonasoreland/runnerup) or [Strava](https://www.strava.com/) - Run Trackers
+* [Bikemap](https://www.bikemap.net/) - Running Routes
+* [Charity Miles](https://charitymiles.org/) - Donate to Charity While Running / Biking
+* [Zombies, Run!](https://apps.apple.com/us/app/zombies-run/id503519713) - Zombie Running Adventure Game
+* [Runlytics](https://www.runlytics.app/) - Running Analytics
+* [Bone Health Tracker](https://bonehealthtracker.com/) - Track Bone Health
+* [Plees Tracker](https://github.com/vmiklos/plees-tracker) - Sleep Tracker
+* [Benefits of Good Posture](https://youtu.be/OyK0oE5rwFY) - Posture Importance Lesson
+* [StuffThatWorks](https://www.stuffthatworks.health/) - Chronic Condition Info / Treatments
+* [Tone-Deafness Test](https://www.themusiclab.org/quizzes/td) - Pitch Perception Test
+* [INCIDecoder](https://incidecoder.com/) - Skincare Ingredient Lists
+* [Healthline](https://www.healthline.com/health/sore-tongue-remedy) - Remedies for Sores on Tongue
+* [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html) - Interactive Self Care Guide
+* [deskspace](https://npckc.itch.io/deskspace) - Self-Care App
+* [DrugFree](https://drugfree.org/) - Drug Abuse Prevention & Recovery Help
+* [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - Mindfulness / Stress Reduction Tips
+* [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
+* [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
+* [Year In Pixels](https://year-in-pixels.glitch.me/) - Mood Tracking Calendar
+* [Did I Take My Meds?](https://github.com/CorruptedArk/did-i-take-my-meds) - Medical Data Log
+* [Simpill](https://gitlab.com/simpilldev/simpill) - Medication Reminders
+* [Insomnia Coach](https://mobile.va.gov/app/insomnia-coach) - Insomnia Prevention Tips
+* [eXHALeR](https://www.xhalr.com/) - Yoga / Meditation Breathing Tool 
+* [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
+* [Meditation Timer](https://meditation.koti.cloud/) - Meditation Timer / Session Tracker
+* [PixelThoughts](http://www.pixelthoughts.co/) - 60 Second Relaxation Tool
+* [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health) or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Index
+* [One Mind PsyberGuide](https://onemindpsyberguide.org/) - Mental Health App Reviews
+* [7 Cups](https://www.7cups.com/) or [OnlineCounselling4u](https://www.onlinecounselling4u.com/) - Free Counseling & Therapy
+* [BlahTherapy](https://blahtherapy.com/) - Vent to Strangers
+* [Online Psych Services](https://redd.it/nryig4) - Centers Offering Free Online Psych Services
+* [Balance](https://balance.dvy.io/) - Challenge Anxious Thoughts w/ AI
+* [babycenter](https://www.babycenter.com/) - Pregnancy and Parenting Resources
+* [Pregnancy Calculator](https://americanpregnancy.org/resources/pregnancy-calculator/) - Due Date Calculator
+* [DoItRight](https://doitright.ph/) or [Scarleteen](https://www.scarleteen.com/) - Sex Education Resources
+* [Euki](https://eukiapp.com/) - Sexual / Reproductive Health App
+* [Abortion Resources](https://redd.it/phrcrn) / [2](https://redd.it/vm56bs), [PlannedParenthood](https://www.plannedparenthood.org/) or [Safe2Choose](https://safe2choose.org/) - Abortion Resources
+* [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics
+* [WomenOnWeb](https://www.womenonweb.org/) - Free Abortion Pills
+* [AS Resources](https://www.everydaybattle.com/resources/) - Ankylosing Spondylitis Resources
+* [Drip](https://bloodyhealth.gitlab.io) - Open Source E2EE Period Tracking App
+* [What Dogs Can Eat](https://www.pawmenow.com/what-dogs-can-eat/) - Search Safe Human Food for Dogs
 
 ***
 
-# ► Ebook Readers
+# ► Travel
 
-* ⭐ **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)** - List of Ebook Readers
-* ⭐ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading) Readers** - Mobile Browser Readers
-* ⭐ **[Google Play Books](https://play.google.com/books)** - Store Pirated Books / Get Meta Data Automatically
-* ⭐ **[Foxit](https://www.foxitsoftware.com/pdf-reader/)** - PDF Reader / PC / Android / iOS / Linux / Mac
-* ⭐ **[Koodo](https://koodo.960960.xyz/)** - Ebook Reader / PC / Mac / Linux / [GitHub](https://github.com/troyeguo/koodo-reader)
-* ⭐ **[eBoox](https://eboox.ru/en/)** - Ebook Reader / Android / iOS
-* ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader.html)** - PDF Reader
-* ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / Android / iOS
-* ⭐ **[Raven Reader](https://ravenreader.app/)** - Article Reader / Manager
-* ⭐ **[Mobile Read](https://www.mobileread.com/)** - Ebook / Reader Discussion Forum
-* [Ubooquity](http://vaemendis.net/ubooquity/) - Manager / Reader / PC / Android / iOS
-* [Librum](https://github.com/Librum-Reader/Librum) - Ebook Reader / PC / Android / iOS / Linux / Mac
-* [EBook Reader](https://epub-reader.online/) - Ebook Reader / PC / Android / iOS / Mac
-* [KoReader](http://koreader.rocks/) - Ebook Reader / PC / Android
-* [FBReader](https://fbreader.org/) - Ebook Reader / PC / Android / iOS
-* [Thorium](https://www.edrlab.org/software/thorium-reader/) - Ebook Reader / PC / Mac / Linux
-* [CoolReader](https://github.com/buggins/coolreader) - Ebook Reader / PC / Linux
-* [Icecream eBook Reader](https://icecreamapps.com/Ebook-Reader/) - Ebook Reader / PC
-* [Aquile](https://apps.microsoft.com/store/detail/aquile-reader-modern-epub-ebook-reader/9P08T4JLTQNK?hl=en) - Ebook Reader / PC
-* [Eplee](https://github.com/Janglee123/eplee) - Ebook Reader / PC
-* [Okular](https://okular.kde.org/) - PDF Reader / Linux / PC / Mac
-* [Foliate](https://johnfactotum.github.io/foliate/) - Ebook Reader / Linux
-* [Buka](https://github.com/oguzhaninan/Buka) - Ebook Reader / Linux
-* [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) - PDF Reader / PC
-* [qPDFview](https://launchpad.net/qpdfview) - PDF Reader / PC
-* [PDFLite](http://www.pdflite.com/) - PDF Reader / PC
-* [mupdf](https://mupdf.com/) - PDF Reader / PC
-* [Evince](https://wiki.gnome.org/Apps/Evince) - PDF / DjVu Reader / Linux
-* [FF PDF](https://github.com/sdushantha/ff-pdf/) - PDF Reader / Linux
-* [PdfPreviewbot](https://t.me/PdfPreviewbot) - Telegram PDF Reader
-* [WinDjView](https://windjview.sourceforge.io/) - DjVu Reader / PC
-* [DjVuLibr](http://djvu.sourceforge.net/) - DjVu Reader / PC
-* [bookworm](https://github.com/babluboy/bookworm) - Elementary OS Ebook Reader
-* [AnyFlip](https://anyflip.com/) - Interactive Flipbook Reader
-* [All My Books](https://www.bolidesoft.com/allmybooks.html) - Book Catalog
-* [Open Media Library](https://openmedialibrary.com/) - Online Book Manager
-* [Cubari](https://cubari.moe/) - Image Proxy / Reader
-* [EinkBro](https://github.com/plateaukao/einkbro) - E-Ink Browser
+* ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)**, [Turas](https://turas.app/), [CountryReports](https://www.countryreports.org/), [Wikivoyage](https://www.wikivoyage.org) or [TravelTips](https://www.traveltip.org/world_maps.php) - Travel Guides
+* ⭐ **[JourneyPlan](https://journeyplan.co)**, [RoamAround](https://www.roamaround.io/), [TravelPlan](https://www.travelplan-ai.com/#get-trip), [Eddy](https://chat.eddytravels.com/) or [TripNotes](https://tripnotes.ai/) - Trip Planning AIs
+* ⭐ **[twkids](https://www.twkids.app/)** - Find Theme Parks, Water Parks, Zoo's etc.
+* ⭐ **[Borderless](https://borderless.safetywing.com/)** - Travel Restrictions Guide
+* ⭐ **[MapChecking](https://www.mapchecking.com/)** - Crowd Size Estimation
+* ⭐ **[Gas Price Map](https://www.gasbuddy.com/gaspricemap)** - US Gas Prices
+* [Visa Guide](https://visaguide.world/) - Worldwide Travel Visa Guides
+* [Roadside America](https://www.roadsideamerica.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
+* [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Sites
+* [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Concerts / Music Festival Search
+* [FreeCampSites](https://freecampsites.net/) - Free Camp Sites
+* [Traveler Map](https://travelermap.net/) - National Park Maps
+* [SkyDB](https://www.skydb.net/) - Skyscraper Locations / Info
+* [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](https://www.radarbox.com/) or [FlightAware](http://flightaware.com/) - Live Flight Trackers
+* [plane-notify](https://github.com/Jxck-S/plane-notify) - Plane Takeoff Notifications
+* [FlightConnections](https://www.flightconnections.com/) - Interactive Flight Routes
+* [SkyVector](https://skyvector.com/) - Flight Planner
+* [WikiRoutes](https://wikiroutes.info/) - Public Transport Routes
+* [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
+* [MetroOrbits](http://mic-ro.com/metro/index.html) - Subway Maps / Data
+* [ChronoTrains](https://chronotrains-eu.vercel.app/) - European Trains Distances
+* [Refuge Restrooms](https://www.refugerestrooms.org/) - Find Public Restrooms
+* [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - Dialect Map
+* [JoinUS World](https://www.joinusworld.org/) - Korean Culture Q&A Site
+* [Left vs. Right Side Driving Map](https://somerandomstuff1.files.wordpress.com/2019/02/left-or-right-side.png) - Left vs. Right Side Driving by Country
+* [Speed Limits Map](https://somerandomstuff1.files.wordpress.com/2019/02/highest-speed-limits-around-the-world.png) - Max Speed Limits
+* [Hate Map](http://splcenter.org/hate-map) - Hate Group Locations
+* [LiveUAMap](https://liveuamap.com/) - Ukraine Conflict Areas LiveFeed
+
+***
+
+# ► Maps
+
+* ⭐ **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Index
+* ⭐ **[Satellite / Street View Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_satellite_.26amp.3B_street_view_maps)**
+* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** / [3D View](https://streets.gl/) / [Search](https://nominatim.openstreetmap.org/ui/search.html), [2](https://overpass-turbo.eu/), [KartaView](https://kartaview.org/landing), [Waze](https://www.waze.com/) / [Editor](https://www.waze.com/en-US/editor), [Open Infrastructure Map](https://openinframap.org/), [FacilMap](https://facilmap.org/), [OutdoorMaps](https://outdoormaps.eu/), [ABC Map](https://abc-map.fr/) or [Mapillary](https://www.mapillary.com/) - Street Maps
+* ⭐ **[Routora](https://chrome.google.com/webstore/detail/routora-google-maps-route/jdddfnfohdeaklgkpglonlofgapjgfbp)** - Google Maps Route Optimization
+* ⭐ **[History Maps](https://history-maps.com/)**, [AP World History Notes Visual](https://worldmap.harvard.edu/maps/5565) or [Geacron](http://geacron.com/) - World History Learning Maps
+* [Cronobook](https://cronobook.com/), [EuraAtlas](https://euratlas.com/), [Historical City Maps]( https://redd.it/61fdp6), [GeoGarage](http://rumsey.geogarage.com/index.html), [Digital Collection](https://digitalcollections.nypl.org/search/index?filters[physicalLocation_mtxt_s][]=Map+Division),[Loc Maps](https://www.loc.gov/collections/general-maps/), [GeoGarage](http://rumsey.geogarage.com/index.html), [OpenHistoricalMap](https://www.openhistoricalmap.org/), [MapHistory](https://www.maphistory.info/index.html) - Historical Maps
+* [OldMapsOnline](https://www.oldmapsonline.org/) - Historical Maps Tool
+* [Historic Borders](https://historicborders.app/) - Historic Borders Map
+* [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US Historical Maps
+* [Ancestry Images](http://www.ancestryimages.com/) or [Pastvu](https://pastvu.com/) - Historical Photo & Map Archive
+* [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
+* [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
+* [Color Brewer](https://colorbrewer2.org/) - Cartography Color Advice
+* [Beacon](https://beacon.schneidercorp.com/) - Property Info / Map Search
+* [FixPhrase](https://fixphrase.com/) or [TextToMap](https://www.textomap.com/) - Text Based Map Search
+* [zoom.earth](https://zoom.earth/) or [GoogleEarth](https://earth.google.com/web/) - Earth Viewer
+* [Copernix](https://copernix.io/) - Explore a Map w/ Wikipedia
+* [Snazzy Maps](https://snazzymaps.com/) - Google Maps Themes
+* [GeoVisual Search](https://search.descarteslabs.com/) - Object Recognition Map
+* [Sirens In UA](https://sirens.in.ua/) - Ukraine Air Raid Siren Map
+* [Native-Land.ca](https://native-land.ca/) - Indigenous Territory Map
+* [Midgard Map](https://midgardmap.koboldpress.com/) - Midgard Map
+* [Map Crunch](https://www.mapcrunch.com/) or [RandomStreetView](https://randomstreetview.com/) - Random Street View
+* [1940's.nyc](https://1940s.nyc/) - Explore 1940's New York 
+* [Snap Map](https://map.snapchat.com/) - Snap Chat Map
+* [Flickr Map](https://www.flickr.com/map/) - Flickr Map
+* [U Meet Me Here!](https://www.umeetmehere.com/) or [WhatIsHalfway](https://www.whatshalfway.com/) - Find Closest Point Between Two Locations
+* [Where Is This](https://www.where-is-this.com/) - Find Location of Place by Image
+* [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
+* [Maps We Love](https://www.esri.com/en-us/maps-we-love/gallery), [CoolMaps](https://coolmaps.esri.com/#0), [SoGeografia](https://www.sogeografia.com.br/Mapas/) or [/r/MapPorn](https://reddit.com/r/MapPorn) - Multiple Maps 
+* [Mappin](https://app.mappin.pro/) - Printable Maps
+* [Human Terrain](https://pudding.cool/2018/10/city_3d/) - Human Population Map
+* [Flags of the World](https://i.redd.it/lxtu47hf5ll51.jpg) - Worldwide Flag Map
+* [License Plates Map](https://i.redd.it/ue2r7cdb2s861.png) - License Plate Map
+* [European License Plate Map](https://i.redd.it/wcazzhjir8941.png) - European License Plate Map
+* [aprs.fi](https://aprs.fi/) - Google Maps APRS
+* [satellite-map.gosur](https://satellite-map.gosur.com/), [MSN Weather Map](http://www.msn.com/en-us/weather/maps) or [Ventusky](https://www.ventusky.com/) - Weather Maps
+* [Windy](https://www.windy.com/) or [WebGL-Wind](https://mapbox.github.io/webgl-wind/demo/) - Wind Map 
+* [Jetstream](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forcast Map
+* [Cyclocane](https://www.cyclocane.com/) - Cyclone and Hurricane Tracking
+* [Air Now](https://gispub.epa.gov/airnow/) or [Breezometer](https://www.breezometer.com/air-quality-map/) - Air Quality Map
+* [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality Near Ukraine
+* [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Climate Sim](https://space.geometrian.com/calcs/climate-sim.php) or [ClimateCharts](https://climatecharts.net/) - Climate Maps
+* [MacroStrat](https://macrostrat.org/) - Geological Data Maps
+* [Global Hyrdo Data](https://www.esri.com/arcgis-blog/products/product/water/global-hydro-data-its-here-here-here/) - Global Hydro Data / Mapping
+* [Depth Map](https://usa.fishermap.org/depth-map/) or [Bathymetry](https://www.ncei.noaa.gov/maps/bathymetry/) - Water Depth Maps
+* [River Runner](https://river-runner.samlearner.com/) - River Map / [3D Map](https://river-runner-global.samlearner.com/)
+* [Gloric](https://www.hydrosheds.org/page/gloric) - River Type Database / Mapping
+* [Global Wetlands](https://www2.cifor.org/global-wetlands/) - Wetlands Map
+* [Mindat](https://www.mindat.org/countrylist.php) - Mineral Deposits Map
+* [Terrain Party](https://terrain.party/) - Terrain Height Map
+* [PeakFinder](https://www.peakfinder.org/) or [EveryMountain](http://everymountainintheworld.com/) - Mountain Maps
+* [topo maps](http://www.onlinetopomaps.net/) - Topographic Maps
+* [OpenRailwayMap](https://www.openrailwaymap.org/) - Railway Map
+* [AbandonedRails](https://www.abandonedrails.com/) - Abandoned Railway Map
+* [Earth](https://earth.nullschool.net/) - Global Map of Wind, Weather, Ocean & Pollution Conditions
+* [Blitzortung](https://www.blitzortung.org/en/live_lightning_maps.php) - Thunderstorm and Lightning Maps
+* [Sun / Moon Position Calculators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sun_.2F_moon_position) - Sun / Moon Position and Phase Calculators
+* [Wikimapia](http://wikimapia.org/) - Online Editable Map
+* [AmCharts](https://www.amcharts.com/svg-maps/) - SVG Maps
+* [MapSCII](https://github.com/rastapasta/mapscii) - Braille & ASCII World Map
+* [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
+* [mapus](https://github.com/alyssaxuu/mapus) or [Scribble Maps](https://www.scribblemaps.com/create/) - Custom Location Map
+* [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
+* [Land Viewer](https://eos.com/landviewer) - Satellite Image Data Analyzer
+* [dgi](http://www.dgi.inpe.br/catalogo/) - Match Satellite Images to Map
+* [How-to Draw a Map](http://www.fantasticmaps.com/2015/02/how-to-draw-a-map/) - Map Drawing Guide
+* [City Roads](https://anvaka.github.io/city-roads/) - Draw City Roads
+* [Mobac](https://mobac.sourceforge.io/) - Mobile Atlas Creator
+* [Falling Fruit](https://fallingfruit.org/) - Urban Harvesting Map
+* [Infrapedia](https://www.infrapedia.com/) - Network / Datacenter Map
+* [CellMapper](https://www.cellmapper.net/) - Cell Tower Map
+* [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
+* [Wigle](https://wigle.net/) - 802.11 Wireless Network Map
+* [Broadband Map](https://broadbandmap.fcc.gov/) - Fixed Broadband Deployment Map
+* [KCG2](https://prop.kc2g.com/) - Ionospheric Conditions Map
+* [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/) - Vegetation and Moisture Map
+* [Waqi.info](http://waqi.info/) - Air Pollution Map
+* [Light Pollution Map](https://lightpollutionmap.info/) - Light Pollution Map
+* [NightBlight](https://nightblight.cpre.org.uk/maps/) - England Light Pollution Map
+* [PowerOutage](https://poweroutage.us/) - Power Outage Map
+* [ElectricityMap](https://app.electricitymap.org/) - Electricity CO₂ Emissions Map
+* [City Generator](https://probabletrain.itch.io/city-generator) or [CityGenerator](https://oskarstalberg.com/game/CityGenerator/) - City Map Generator
+* [EDIS](https://rsoe-edis.org/) - Emergency and Disaster Map 
+* [NCEI](https://www.ncei.noaa.gov/maps/hazards/) - Real Time Natural Hazard Map
+* [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Real Time Fires Map
+* [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
+* [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
+* [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)
+* [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
+* [LightningMaps](https://lightningmaps.org/) - Lightning Maps
+* [maps.ie](https://www.maps.ie/) - Map of Ireland
+* [2GIS](https://2gis.ae) - Map of the UAE
+* [MarineTraffic](https://www.marinetraffic.com/), [BoatNerd](https://ais.boatnerd.com/), [MarineVesselTraffic](https://www.marinevesseltraffic.com/2013/04/marine-traffic.html) or [VesselFinder](http://vesselfinder.com/) - Live Ship Trackers
+* [Fishing Watch](https://globalfishingwatch.org/map) - Fishing Activity Map
+* [Ocearch](https://www.ocearch.org/tracker/) - Shark Tracker
+* [IKnowWhereYourCatLives](https://iknowwhereyourcatlives.com/) - Cat Tracker
+* [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
+* [SubMarineCableMap](https://www.submarinecablemap.com/) - Fiber Optic Cable Map
+* [Cost of Living](https://www.numbeo.com/cost-of-living/) or [MoveMap](https://www.movemap.io/) - Cost of Living Map
+* [Mapfrappe](http://mapfrappe.com/?show=46142) or [scale-a-tron](https://stamen.github.io/scale-a-tron/) - Compare True Sizes on Land
+* [Mikavaa](http://mapmerizer.mikavaa.com/) - Compare Cities
+* [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sound Map
+* [Notable People](https://tjukanovt.github.io/notable-people) or [People Map](https://pudding.cool/2019/05/people-map/) - Notable People Maps
+* [NUKEMAP](https://nuclearsecrecy.com/nukemap/) or [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Interactive Damage Effect Maps
+* [convert_lat_long](https://andrew.hedges.name/experiments/convert_lat_long/) - Convert Latitude/Longitude to Decimal
+* [What3Words](https://what3words.com/) - 3 Word Address'
+* [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Maps / Satellite View
+* [CAD Mapper](https://cadmapper.com/) - Free CAD Files
+
+***
+
+# ►  Fonts
+
+* ⭐ **[Font Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_font_sites)**
+* ⭐ **[Font Download Guide](https://redd.it/8tqfg6)**
+* ⭐ **[Unicode Font Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_unicode_font_generators)** - Generate Typed Text Fonts
+* ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www10.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](http://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators
+* ⭐ **[WhatTheFont](https://www.myfonts.com/WhatTheFont/)**, [Identifont](http://www.identifont.com/), [WhatFont](http://www.chengyinliu.com/whatfont.html) or [What Font Is](https://www.whatfontis.com/) - Font Identification Tools
+* [DS Fusion](https://ds-fusion.github.io/) - AI Typography Generator
+* [Formito](https://formito.com/tools/logo) - Typography Logo Maker
+* [FontFlipper](https://fontflipper.com/) - Add Text to images
+* [enFont](https://enfont.javierarce.com/), [Calligraphr](https://www.calligraphr.com/en/) or [Fontstruct](https://fontstruct.com/) - Custom Font Creators
+* [Phase](https://www.eliashanzer.com/phase/) - Variable Fonts Generator
+* [V-Fonts](https://v-fonts.com/) - Variable Fonts Tester
+* [Fontjoy](https://experiments.withgoogle.com/fontjoy) - Generate Font Combinations
+* [FontSprite](https://adamstrange.itch.io/fontsprite) - FonstSprite Editor
+* [Textcraft](https://textcraft.net/) or [TextDrom](https://en.textdrom.com/) - Styled Font Generator
+* [Cava's Pixel Resources](https://caveras.net/) - Pixel Fonts
+* [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - Oldschool PC Fonts
+* [Textanim](https://textanim.com/) or [Space Type Generator](https://spacetypegenerator.com/) - Animated Text Generator 
+* [3DText2GIF](https://3dtext2gif.com/) or [TextsStudio](https://textstudio.co/) - Animated 3D Text Generator
+* [Batname](https://batname.vercel.app/) - Batman (2022) Font Generator
+* [Codeface](https://github.com/chrissimpkins/codeface) - Fonts for Coding
+* [Metropolis](https://github.com/dw5/Metropolis) - Modern Typeface
+* [FiraCode](https://github.com/tonsky/FiraCode) - Monospace Fonts
+* [NFG's Arcade Font Maker](https://nfggames.com/games/fontmaker/) or [Arcade Font Writer](http://arcade.photonstorm.com/) - Arcade Font Engine
+* [Glitch](https://glitchtextgenerator.com/) - Glitch Text Generator
+* [Text Color Fader](http://patorjk.com/text-color-fader) - Rainbow Text Generator
+* [Handwrite](https://github.com/cod-ed/handwrite) - Generate Font from Handwriting
+* [JoyPixels](https://www.joypixels.com/) - Emoji Font Generator
+* [MacType](https://github.com/snowie2000/mactype/releases) - Use Mac fonts on Windows
+* [Picas](https://picas.vercel.app/) - Google Font Logo Generator
+* [Bitfontmaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitFont Creator
+* [FontJoy](https://fontjoy.com/) - Font Pairings Generator
+* [Typerip](http://badnoise.net/TypeRip/) - Adobe Font Ripper / [GitHub](https://github.com/CodeZombie/TypeRip)
+* [Nerd Fonts](https://www.nerdfonts.com/) - Iconic Font Aggregator
+* [FontEdit](https://github.com/ayoy/fontedit), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/) or [Font Forge](https://fontforge.org/en-US/) - Font Editor 
+* [Transfonter](https://transfonter.org/) - Font Converter
+* [FontBase](https://fontba.se/) or [Xiles](https://www.xiles.app/) - Font Manager
+* [Font List](https://wavian.com/font-list.html) or [So You Need A Typeface](https://ianli.github.io/so-you-need-a-typeface/) - Examples of Font Styles
+
+***
+
+# ► Extensions 
+
+## ▷ Multi Browser
+
+* ⭐ **[add0n](https://add0n.com/) or [MyBrowserAddon](https://mybrowseraddon.com/)** - Open-Source Extension Indexes
+* ⭐ **[Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_adblocking_extensions) / [Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_extensions) Extensions**
+* ⭐ **[Dark Reader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) or [222](https://github.com/dolegi/222) - Dark Mode
+* ⭐ **[Zoom WE](https://pastebin.com/SpCdPywv)** or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - Improves Zoom Functionality
+* ⭐ **[ScrollAnywhere](https://pastebin.com/W3jwbBac)** - Improves Scrolling Functionality
+* ⭐ **[Clipboard2File](https://pastebin.com/JjDzqq8x)** - Upload Images from Clipboard
+* ⭐ **[Privacy Pass](https://privacypass.github.io/)** - Skip Captchas
+* ⭐ **[Redirector](https://einaregilsson.com/redirector/)** - Page Redirector
+* ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)**, [OpenAI Translator](https://github.com/yetone/openai-translator), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/), [Linguist Translator](https://github.com/translate-tools/linguist), [S3Translator](http://www.s3blog.org/s3translator.html), [Mate Translate](https://gikken.co/mate-translate) or [ImTranslator](https://imtranslator.net/) - Translation Extensions 
+* [Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102) - Multi-Site Extension Search
+* [Into The Black Hole](https://pastebin.com/sTMkqJWD) - Dark Mode Browser Theme
+* [Browser Automation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - Browser Automation Extensions
+* [Buster](https://github.com/dessant/buster) or [JKCS](https://git.coom.tech/araragi/JKCS)  - Auto Captcha Solvers
+* [Omni](https://github.com/alyssaxuu/omni) - Bookmark, Tab & History Manager
+* [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [VimC](https://github.com/1995eaton/chromium-vim), [Web Search Navigator](https://github.com/infokiller/web-search-navigator) or [Vimium C](https://github.com/gdh1995/vimium-c) - Keyboard Shortcuts 
+* [Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/) or [Link Clump](https://github.com/benblack86/linkclump) - Select & Open Multiple Links at Once 
+* [Glitter Drag](https://github.com/harytfw/glitterdrag) - Adds Actions on Dragging 
+* [Scroll to Top](https://mybrowseraddon.com/scroll-to-top.html) - Scroll to Top Button on all Sites
+* [Customizable New Tab Page](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page) - Customize New Tab Page
+* [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - Quickly Switch between Current & Recently Closed Tabs 
+* [Always Right](https://github.com/autonome/Always-Right/) - Always Open New Tabs to the Right
+* [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - Manage & Organize Bookmarks 
+* [Saka](https://saka.io/) - Tab, History & Bookmark Search
+* [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - Sort Bookmarks by Multiple Criteria 
+* [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - Search Bookmarks 
+* [WebMemex](https://blog.webmemex.org/) - Organize & Store Webpages 
+* [Bandwidth Hero](https://bandwidth-hero.com/) - Reduce Browsing Data Usage
+* [Save-Data: On](https://www.daniel.priv.no/web-extensions/save-data.html) - Auto-Enable Data Savings Mode
+* [Auto Tab Discard](https://add0n.com/tab-discard.html), [Tab Wrangler](https://github.com/tabwrangler/tabwrangler), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs) or [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) - Discard Inactive Tabs to Reduce Memory / CPU Usage
+* [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
+* [Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers) - Group & Manage Browser Tabs
+* [AutoRefresh](https://autorefresh.io/) or [Tab Auto Refresh](https://mybrowseraddon.com/tab-auto-refresh.html) - Refresh Tabs
+* [Tab for a Cause](https://tab.gladly.io/) - New Tabs = Charity Donation
+* [Panic Button](https://pastebin.com/mDWBZ7fQ) - Quickly Close All Tabs
 * [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - Read Books in Browser
-* [dotepub](https://dotepub.com/) - Convert Webpages to EBooks
-* [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
-* [Ebook Sender](https://telegram.me/to_kindle_bot), [SendEpubToKindle](https://www.sendepubtokindle.com/), [Kobo](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - Send Ebooks to Kindle
-* [Kindle Server](https://github.com/edgartaor/kindleServer) - Send HTML to Kindle
-* [md2mobi](https://md2mobi.lapw.at/) - HTML to Kindle Converter
-* [Kindle Software Jailbreak](https://www.mobileread.com/forums/showthread.php?t=346037&highlight=Jailbreak) - Jailbreak Kindle
-* [KoboCloud](https://github.com/fsantini/KoboCloud) - Sync Kobo to Cloud Services
-* [The Open Book](https://github.com/joeycastillo/The-Open-Book) - DIY Ebook Reader
+* [Dictionaries](https://github.com/pnlpal/dictionariez), [Dictionary Anywhere](https://github.com/meetDeveloper/Dictionary-Anywhere), [phlinx](https://phlinx.com/) or [Definer](https://lumetrium.com/definer/) - Popup Dictionary
+* [CustomRightClickMenu](https://github.com/SanderRonde/CustomRightClickMenu) - Custom Right Click Menu
+* [PantherBar](https://pantherbar-app.com/) or [BigSearch](https://github.com/garywill/BigSearch) - Context Search
+* [HyperSearch](https://github.com/abhinavsharma/hypersearch) - Search Result Sidebar
+* [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - Magnify Webpages
+* [Print Edit WE](https://pastebin.com/LJeT3NyB) - Edit Pages to Make them Printable 
+* [Grammarly](https://www.grammarly.com/) - Grammar Checker
+* [Mouse Gestures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mouse_gestures) - Control Browser via Gestures
+* [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/) - Merges a Sites "Next" Pages
+* [Don't Bug Me](https://github.com/vantezzen/dontbugme) - Find / Share Site Logins
+* [DownThemAll](https://www.downthemall.org/) or [Turbo Download Manager](https://add0n.com/turbo-download-manager-v2.html) / [GitHub](https://github.com/inbasic/turbo-download-manager-v2/) - File Download Managers
+* [Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - Video Download Managers
+* [Vimeomate](https://vimeomate.com/) - Vimeo Video Downloader
+* [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - Play Videos in Theater Mode
+* [Zoom Redirector](https://github.com/arkadiyt/zoom-redirector) - Redirect Zoom Links to Web Client 
+* [GlobalSpeed](https://github.com/polywock/globalSpeed) - Set Default Video / Audio Speed
+* [Skip Silence](https://github.com/vantezzen/skip-silence) - Skip Silent Parts in Videos
+* [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - Audio Recorder
+* [Mute Tab](https://mybrowseraddon.com/mute-tab.html) - Easily Mute All Tabs
+* [Web-Scrobbler](https://web-scrobbler.com/) - Scrobble with Last.fm, Libre.fm, etc.
+* [Form History Control](https://stephanmahieu.github.io/fhc-home/) or [Simple Form Fill](https://github.com/sblask/webextension-simple-form-fill) - Formfiller Managers
+* [Fake Data](https://www.fakedata.pro/) - Fill Forms With Fake Data
+* [External App Button](https://add0n.com/external-application-button.html) - Connect Browser to External Apps
+* [xBrowserSync](https://www.xbrowsersync.org/) - Browser Syncing
+* [Stylus](https://add0n.com/stylus.html), [Stylish](https://userstyles.org/) / [2](https://uso.kkx.one/) or [UserStyles](https://userstyles.world/) - Custom Website Color Schemes
+* [Stylebot](https://stylebot.dev/) - Modify Webpages
+* [Night Mode](https://mybrowseraddon.com/night-mode.html) - Adapts Display Color to Time of Day
+* [Screen Color Temperature](https://mybrowseraddon.com/screen-color-temperature.html) - Adjust Screen Color Temperature
+* [Font Changer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_webfont_changer) - WebFont Changer 
+* [ColorZilla](https://www.colorzilla.com/), [ColorFish](https://ui.vision/colorfish) or [ColorPick](https://vidsbee.com/ColorPick/) - Color Picker
+* [Clippings](https://aecreations.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - Clipboard Manager
+* [Emoji](https://github.com/Sav22999/emoji) - Quickly Copy / Paste Emojis
+* [Auto Text Expander](https://pastebin.com/TFPRieVN) - Create Shortcuts to Expand & Replace Text as you Type 
+* [DontFuckWithPaste](https://github.com/jswanner/DontF-WithPaste) - Prevents the Blocking of Pasting into Input Fields
+* [Absolute Enable Right Click](https://pastebin.com/G7Juu6xc) or [Allow Right Click](https://add0n.com/allow-right-click.html) / [GitHub](https://github.com/lunu-bounir/allow-right-click) - Force Enable Right Click
+* [Copycat](https://github.com/BlackGlory/Copycat) - Copy Content in Multiple Formats & Markdowns 
+* [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - Copy Text as Markdown 
+* [CopyFish](https://ocr.space/copyfish) or [Image Reader](https://mybrowseraddon.com/image-reader.html) - Grab Text from Images 
+* [Text to Image](https://mybrowseraddon.com/text-to-image.html) - Format & Save Text as a Image
+* [Talkie](https://joelpurra.com/projects/talkie/) or [Offline Text to Speech](https://virejdasani.github.io/OfflineTextToSpeech-Extension/) - Text to Speech
+* [Text Link](https://piro.sakura.ne.jp/xul/textlink/index.html.en) - Make Non-Hyperlinked URL's Clickable 
+* [Link Alert](https://www.cwesson.net/projects/LinkAlert/) - Link Type Indicator 
+* [Mitaka](https://github.com/ninoseki/mitaka) - Domain Info Lookup Tool
+* [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete), [Consentomatic](https://consentomatic.au.dk/) or [I Don't Care About Cookies](https://github.com/Darthagnon/idontcareaboutcookies-backup) (Pre-Avast) - Auto Delete Cookies
+* [Cookie Quick Manager](https://github.com/ysard/cookie-quick-manager), [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - Cookies Manager
+* [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporter
+* [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - Follow RSS Feeds
+* [Google Unblocked](https://github.com/Ibit-to/google-unlocked) - Uncensored Google Search
+* [Google search link fix](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_search_link_fix) - Prevent Search Pages from Modifying Result Links 
+* [Restore Classic Google Icons](https://pastebin.com/7iU4Qidx)
+* [Link Gopher](https://sites.google.com/site/linkgopher/) or [CopyLinks++](https://github.com/MichelePezza/CopyLinksplusplus) - Extract Links from Webpages 
+* [Link to text Fragment](https://github.com/GoogleChromeLabs/link-to-text-fragment) - Highlight Certain Text on Webpage
+* [Linkpack](https://www.linkpack.io/) - Save Links to Dropbox
+* [Survol](https://survol.me/) - Preview Links 
+* [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - Page Change Detection / Notification 
+* [Block Site](https://add0n.com/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs), [TabWave](https://www.tabwave.app/), [Forest](https://pastebin.com/rYuAivA0), [StayFocused](https://www.stayfocusd.com/) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - Site Blockers
+* [SuperStop](https://github.com/gavinsharp/SuperStop/) - Stop Active Animations, Videos, JS, WebSocket & XHR
+* [Nuke Anything](https://pastebin.com/9TwxjU1r) - Block/Hide Anything on a Page  
+* [Block Image Video](https://mybrowseraddon.com/block-image-video.html) - Block All Images & Videos
+* [Offline Mode](https://mybrowseraddon.com/offline-mode.html) - Disconnect Browser from the Internet
+* [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - Archive, Scrape & Crawl Sites 
+* [WaybackEverywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox) - Auto Load Archived Versions of Dead Pages
+* [Sticky Notes](https://blog.kumabook.tokyo/stickynotes/index.html) or [Insert Learning](https://insertlearning.com/) - Browser Notes 
+* [Draw on Page](https://mybrowseraddon.com/draw-on-page.html) - Draw on Webpages
+* [Page Edit](https://mybrowseraddon.com/page-edit.html) - Turn Webpages into Editable Documents
+* [Save Page WE](https://pastebin.com/vbhUaG8E), [SingleFile](https://github.com/gildas-lormeau/SingleFile) or [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Save Webpages as HTML 
+* [Listly](https://www.listly.io/) - Webpage to Spreadsheet Converter
+* [Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)
+* [Favicon Detector](https://github.com/BlackGlory/favicon-detector) - Detect Website Favicons
+* [behind!](https://github.com/kubuzetto/behind) - View Background Images
+* [UI.Vision RPA](https://ui.vision/) - Workflow Automation  
+* [AugmentedSteam](https://augmentedsteam.com/) - Steam Enhancement suite 
+* [Steam Database](https://steamdb.info/extension/) - Adds Steam Database Link to Steam Community & Store 
+* [Gmail Labels as Tabs](https://tuladhar.github.io/gmail-labels-as-tabs/) - Organize Labels as Gmail Tabs
+* [Streak](https://www.streak.com/) - Email Engagement Tracker
+* [Native HLS](https://github.com/Palethorn/native-adaptive-streaming/) - Allows HLS & MPEG-Dash native playback 
+* [The Stream Detector](https://github.com/rowrawer/stream-detector/) - Detects Playlists & Subtitles used by HLS/DASH/HDS/MSS Streams 
+* [Happydia](https://github.com/Ademking/happydia) - Clean Sad / Annoying Media from Social Sites 
+* [Session Alive](https://github.com/arunelias/session-alive/) - Keep Website Sessions Alive 
+* [Caffeine](https://add0n.com/caffeine.html) - Prevent OS From Sleeping 
+* [Broken Link Checker](https://add0n.com/broken-link-checker.html) - Checks Page for Broken Links 
+* [ViewImage](https://github.com/bijij/ViewImage) or [Make GIS Great Again](https://github.com/devunt/make-gis-great-again) - Adds Back "View Image" Button to Google Image Search 
+* [Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search) - Reverse Image Search Extensions / Sites
+* [GoFullPage](https://gofullpage.com/) or [FireShot](https://addons.mozilla.org/en-GB/firefox/addon/fireshot/) - Full Page Screenshots
+* [NooBox](https://github.com/AInoob/NooBox) - Reverse Image Search, Extract Images, Screenshot & Search 
+* [Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders) - Record your Screen
+* [Booru Slideshow](https://github.com/Chirmaya/BooruSlideshow) - Make Slideshows Easier to Navigate
+* [Textmarker](https://github.com/ufb/Textmarker) - Text Highlighter 
+* [Bulk URL Opener](https://bulkurlopener.com/) or [Open-Multiple-URLs](https://github.com/htrinter/Open-Multiple-URLs/) - Open Multiple URL's in One Click 
+* [Forecastfox](http://www.s3blog.org/forecastfox.html) - Weather Addon
+* [PronounDB](https://pronoundb.org/) - Pronoun Addon
+* [Timer](https://eccorem.com/apps/timer.html) - Timer, Alarm & Stopwatch 
+* [Dollchan](https://dollchan.net/) - Imageboard Features
+* [XKit](https://github.com/new-xkit/XKit) - Make Tumblr More Usable
+* [Breeze Duo for KDE Plasma](https://github.com/vfrico/firefox-breeze-duo) - Breeze Theme for better KDE Integration 
+* [Tab Session Manager](https://tab-session-manager.sienori.com/) or [Session Buddy](https://sessionbuddy.com/) - Session Manager 
+* [User-Agent Switcher](https://mybrowseraddon.com/useragent-switcher.html) - Easily Switch User-Agent
+* [SimpleModifyHeaders](https://github.com/didierfred/SimpleModifyHeaders) - Modify Headers
+* [X-Forwarded-For Header](https://github.com/MisterPhilip/x-forwarded-for) - Set X-Forwarded-For HTTP Header
+* [Peek](https://github.com/corbindavenport/peek) - Shows Images & Videos Behind Links & Thumbnails 
+* [Not For You](https://bengrosser.com/projects/not-for-you/) - Confuse Tik-Toks Recommendation Algorithm
+* [OctoShop](https://www.instok.org/octoshop) - In-Stock Alerts
 
 ***
 
-# ► Helpful Sites / Apps
+## ▷ Firefox
 
-* ⭐ **[ChatPDF](https://www.chatpdf.com/)**, [Ask Your PDF](https://askyourpdf.com/), [Vault AI](https://vault.pash.city/) or [Humata](https://www.humata.ai/) - Turn Files into Chatbots
-* ⭐ **[Talk to Books](https://books.google.com/talktobooks/)** - AI Book Quote Search
-* ⭐ **[PlayText](https://playtext.app/)**, [AccelaReader](https://accelareader.com/), [Jiffy](https://www.jiffyreader.com/), [SwiftRead](https://swiftread.com/), [Notation](https://github.com/numanzamandipuu/Notation) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
-* ⭐ **[arch1ve](https://rentry.org/arch1ve)** or [Borrowing Picture Books](https://redd.it/fm1xpw) - Download Borrow Only Archive.org Books / [Script](https://redd.it/ofcqds)
-* ⭐ **[DownloadBookFromIPFS](https://greasyfork.org/en/scripts/428894-downloadbookfromipfs)** - Add Button to Download Books from IPFS
-* ⭐ **[EBook Converter Wiki](https://wiki.mobileread.com/wiki/E-book_conversion)**, [Ebook-Converter](https://ebook-converter.com/) or [Ebook-Online-Convert](https://ebook.online-convert.com/) - Ebook Converters
-* ⭐ **[Kindle Comic Converter](https://kcc.iosphe.re/)** - Convert Ebooks to EPUB
-* [txtpaper](https://txtpaper.com/) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to Ebook Converter
-* [CrowBook](https://github.com/lise-henry/crowbook) - Markdown to EPUB Converter
-* [Libby](https://libbyapp.com/) - Library Search
-* [How-to Get Library Card Online](https://rentry.co/9b3vdo)
-* [BookInfo](https://lordgnomembe.github.io/BookInfo/) - Get Book Info via ISBN
-* [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - Generate Text / Article Summaries
-* [FiveFilters](https://www.fivefilters.org/) - Multiple Article Accessibility Tools
-* [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)
-* [BookCut](https://github.com/costis94/bookcut) - Ebook Download Tool
-* [GoBooDo](https://github.com/vaibhavk97/GoBooDo) - Google Book Downloader w/ Proxy Support
-* [DocDownloader](https://docdownloader.com/), [SCFull](https://scfull.com/), [scribd.vpdfs](https://scribd.vpdfs.com/) or [guIHelp](https://discord.gg/rgF9jY8CpH) - [Scribd](https://www.scribd.com/) Document Downloaders
-* [Scribd Download Guide](https://redd.it/kfv1c6)
-* [GROBID](https://github.com/kermitt2/grobid) - Extract / Organize Scientific Document Info
-* [FicHub](https://fichub.net/) or [FanFictionDownloader](https://fanfictiondownloader.net/) - Fanfiction Downloader
-* [Sigil Ebook](https://sigil-ebook.com/) - EPUB Editor
-* [Audiobook Splitter](https://gist.github.com/izderadicka/0efc16bd150d70b7c504ab15f95c11ab) - Split Audiobooks in Smaller Files
-* [SmartStich](https://github.com/MechTechnology/SmartStitch) - Stitch Together Webtoons
-* [FanFicFare](https://github.com/JimmXinu/FanFicFare) - Generate Ebooks from Stories / Fanfiction
-* [HowLongToRead](https://howlongtoread.com/) - Average Book Reading Times
-* [Audiobook Speed Calculator](https://asc.pixelofink.com/) - Average Audiobook Listening Times
-* [xMinutesToRead](https://xminutestoread.xyz/) - Article Time to Read Estimate
-* [RemoveWatermark](https://github.com/n0maj1o24/RemoveWatermark) - IT Ebook Watermark Remover
-* [DeDRM_tools](https://github.com/noDRM/DeDRM_tools), [PDF DRM](https://drive.google.com/file/d/1IeFsmgAbzC_JnRkUQPR0xdzy7NKbHjJq/view), or [Remove Ebook DRM](https://apprenticealf.wordpress.com/) - Ebook DRM Removal Tools / [Guide](https://pastebin.com/KwTBSjrK)
-* [DIY Book Scanner](https://diybookscanner.org/) - How-to Scan Books / [Example](https://i.ibb.co/YQLq42m/bdadbb08e5f7.png)
-* [The Submission Grinder](https://thegrinder.diabolicalplots.com/) - Find a Publisher
+* ⭐ **[Firefox Addons](https://addons.mozilla.org/en-US/firefox/extensions/)**
+* ⭐ **[Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)**, [Container Tab Groups](https://addons.mozilla.org/en-US/firefox/addon/container-tab-groups/) or [Temporary Containers](https://github.com/stoically/temporary-containers) - Separate Firefox Sessions / [Guide](https://www.thechiefmeat.com/guides/containers.html)
+* ⭐ **[FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/)** - Multiple Tab Related Actions
+* ⭐ **[Context Search](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/)** - Search Selected Text / Multi Site Search
+* [PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - Install Progressive Web Apps
+* [keyconfig](https://addons.palemoon.org/addon/keyconfig/) - Firefox Key Binds 
+* [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - Multiple Link Related Actions 
+* [Firefox Download Managers](https://addons.mozilla.org/en-US/firefox/search/?category=download-management&recommended=true&sort=recommended%2Cusers&type=extension) - Download Managers for Firefox
+* [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager
+* [cliget](https://addons.mozilla.org/en-US/firefox/addon/cliget/) - Download Files from Command Line
+* [ShadowFox](https://overdodactyl.github.io/ShadowFox/) or [Dark Background and Light Text](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text/) - Dark Mode
+* [FX Cast](https://hensm.github.io/fx_cast/) - Enable Chromecast in Firefox
+* [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - Chrome Extensions in Firefox
+* [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - Pick Site that Opens in New Tabs 
+* [Keep or Delete Bookmarks](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) - Keep Bookmark Folder Clean 
+* [Default Bookmark Folder](https://addons.mozilla.org/en-US/firefox/addon/default-bookmark-folder/) - Change Default Bookmark Folder
+* [SaveForReadLater](https://addons.mozilla.org/en-US/firefox/addon/saveforreadlater/) - Save Pages to Read Later 
+* [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search Search 
+* [PopUp Encyclopedia](https://addons.mozilla.org/en-US/firefox/addon/popup-encyclopedia/) or [Multilingual-fox](https://github.com/parksb/multilingual-fox) - Popup Encyclopedias / Dictionaries
+* [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain 
+* [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
+* [OnelineProton](https://github.com/newmanls/OnelineProton) - Proton Theme for Firefox
+* [Dark Background for Firefox New Tabs](https://fedidat.com/640-dark-newtab-firefox/)
+* [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - Force Enable Right Click
+* [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) - Make Non-Hyperlinked URL's Clickable
+* [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) - Translator
+* [hide-scrollbars](https://addons.mozilla.org/en-US/firefox/addon/hide-scrollbars/) - Hide Browser Scrollbar
+* [AutoPagerize Advanced](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - Merge Multiple Pages
+* [Profile Switcher](https://addons.mozilla.org/en-US/firefox/addon/profile-switcher/) - Profile Manager
+* [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) or [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Non-Avast Fork / Block Cookie Consent Popups
+* [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - Easily Switch User-Agent
+* [SoundFixer](https://github.com/valpackett/soundfixer) - Fixes Audio Playing in 1 Channel
+* [Volume Control Tabs](https://addons.mozilla.org/en-US/firefox/addon/volume-control-tabs/) - Control Individual Tab Volume
+* [Mute Sites By Default](https://addons.mozilla.org/en-US/firefox/addon/mute-sites-by-default/) - Mute All Sites by Default 
+* [Read Aloud](https://readaloud.app/) - Text to Speech
+* [Sage-Like](https://addons.mozilla.org/en-US/firefox/addon/sage-like/) - RSS Feed Reader
+* [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
+* [Rooster Todo Manager](https://addons.mozilla.org/en-US/firefox/addon/rooster-todos/) - To-Do Manager 
+* [Morning Coffee Quantum](https://addons.mozilla.org/en-US/firefox/addon/morning-coffee-quantum/) - Open Custom Website Lists 
+* [Wiper](https://github.com/davidahmed/wiper) - Block Sites
+* [Resurrect Pages](https://addons.mozilla.org/nl/firefox/addon/resurrect-pages/) - View Archived / Cached Webpages
+* [Firefox Voice](https://commonvoice.mozilla.org/en) - Use Firefox with your Voice 
+* [Canvas](https://addons.mozilla.org/en-US/firefox/addon/canvas-google-images/) - View & Edit Google Images 
+* [Sitemod](https://sitemod.io/) - Inspect Element Changes to a Website
+* [Plasma Integration](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/) - Control Browser via Plasma 
+* [Session Sync](https://addons.mozilla.org/en-US/firefox/addon/session-sync/) - Session Manager 
+* [DelayWebpage](https://addons.mozilla.org/en-US/firefox/addon/delaywebpage/) - Set Webpage Loading Delays
+
+***
+
+## ▷ Chrome
+
+**Note** - Chromium is implementing Manifest V3 which may [handicap adblocking](https://www.eff.org/deeplinks/2021/12/chrome-users-beware-manifest-v3-deceitful-and-threatening)
+
+*** 
+
+* ⭐ **[Chrome Web Store](https://chrome.google.com/webstore/category/extensions?hl=en)**
+* ⭐ **[Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)** or [Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) - Extension Managers
+* [hektCaptcha](https://github.com/Wikidepia/hektCaptcha-extension) - Captcha Solver
+* [Crx4Chrome](https://www.crx4chrome.com/) - Alt Google App Store
+* [WebCRX](https://webcrx.io/) - Install Chrome CRX Files
+* [Foxified](https://foxified.org/) - Use Firefox Extensions in Chrome
+* [Edge Chrome Extensions](https://greasyfork.org/en/scripts/439922) - Use Edge Extensions in Chrome
+* [chrome-extensions](https://github.com/learn-anything/chrome-extensions) or [Chrome-Extension](https://github.com/harshita214/Chrome-Extension) - Chrome Extensions 
+* [ChromeStats](https://chrome-stats.com/) - Compare / Analyze Chrome Extensions
+* [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Add Extensions to Ungoogled Chromium 
+* [CRX Viewer](https://github.com/Rob--W/crxviewer) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
+* [MarvellousSuspender](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - Tab Suspender
+* [Darkness](https://chrome.google.com/webstore/detail/darkness-beautiful-dark-t/imilbobhamcfahccagbncamhpnbkaenm) or [Dark Mode Chrome](https://chrome.google.com/webstore/detail/dark-mode-chrome/pdhdailechlgicdgnmdbenhnappgobpp) - Dark Mode
+* [PolyMod](https://polymod.dev/) - Site Themes / [Discord](https://discord.com/invite/pacPH8b9gx)
+* [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) - Picture-in-Picture Mode
+* [OVC](https://chrome.google.com/webstore/detail/ovc-one-video-control/analeldnikfgekckpcppegfekineelbb) - Video Controller
+* [Say Play](https://thanesh.dev/say-play) - Video Control Voice Commands
+* [Audio Channel](https://chrome.google.com/webstore/detail/audio-channel/hafdgamhnmiioimpcdhhbhgcjndgmphd) - Tab Audio Manager
+* [Smart Mute](https://chrome.google.com/webstore/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh) - Tab Mute Manager
+* [Audio Capture](https://github.com/arblast/Chrome-Audio-Capturer) - Audio Recorder
+* [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) or [Volume Master](https://chrome.google.com/webstore/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke) - Increase Browser Volume
+* [Audion](https://github.com/GoogleChrome/audion) - Web Audio Graph Visualizer
+* [Compose](https://www.compose.ai/) - Text Autocomplete AI
+* [tl;dr chrome](https://chrome.google.com/webstore/detail/tldr-chrome/khkpnmmnkenbelkljphmpbjgbmobgonn) - Text Summary Generator
+* [Text Blaze](https://blaze.today/) - Create Text Snippets
+* [Blackbox](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) - Copy Text from Videos and Images
+* [Copy Text Easily](https://chrome.google.com/webstore/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo) - Simple Text Copy
+* [Chrome Signature Parser](https://parsio.io/chrome-signature-parser/) - Extract Contact Detail from Emails
+* [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en) - Extract Email ID's from Webpages
+* [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - Download Multiple Links at Once
+* [Download Sorter](https://chrome.google.com/webstore/detail/download-sorter/mebfblkahpknogabckmdjcmjbnpfdpcj/related) - Sort Downloads into Folders
+* [Refgen](https://github.com/reorx/refgen) - Generate Markdown Style Links
+* [Hover](https://chrome.google.com/webstore/detail/hover/eiiibfemcfcehadokcldlcdljfdlmolj) - Link Previews
+* [Fetcher](https://fetcher.page/) - Feed Grabber
+* [Multimedia Search](https://multimediasearchapp.com/) - Browser File Search
+* [Suggesty](https://chrome.google.com/webstore/detail/suggesty/hbiphmiliockggpepniplkkfmnhdihjh) - Human Like Search Results
+* [Query Side-By-Side](https://chrome.google.com/webstore/detail/double-shot-search-query/kddlkbpbepnaepdleclhdnfdpdogdhop) - Search Google & Bing at the Same Time
+* [SessionBox](https://chrome.google.com/webstore/detail/sessionbox-multi-login-to/megbklhjamjbcafknkgmokldgolkdfig?hl=en) - Multi-Account Login for any Site
+* [Selectable](https://chrome.google.com/webstore/detail/selectable-for-fanfiction/jcidlhgdoojamkbpmhbpgldmajnobefd?ucbcb=1) - Force Enable Select Text
+* [CF-Purge](https://www.cf-purge.com/) - Purge CloudFare Cache / [GitHub](https://github.com/cracker4o/purge-cf-cache-chrome-extension)
+* [Night Shift Redux](https://nightshift.lu/) - Adapts Display Color to Time of Day
+* [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - Smooth Key Scrolling
+* [Wheel Smooth Scroller](https://chrome.google.com/webstore/detail/chromium-wheel-smooth-scr/khpcanbeojalbkpgpmjpdkjnkfcgfkhb?hl=en) - Smooth Scrolling
+* [Get RSS Feed URL](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn) - RSS Feed Generator
+* [NudgeWare](https://nudgeware.io/), [Minto](https://chrome.google.com/webstore/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chrome.google.com/webstore/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia), [Manganum](https://manganum.app/) or [HabitLab](https://habitlab.github.io/) - Productivity Managers / Site Blockers
+* [Web Activity Time Tracker](https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm?hl=en) - Track Browser Activity
+* [Simple Todo](https://chrome.google.com/webstore/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf) or [Todoist](https://chrome.google.com/webstore/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh?hl=en) - To-Do List
+* [Blueticks](https://chrome.google.com/webstore/detail/blueticks/adgnjhngogijkkppficiiepmjebijinl) - WhatsApp Scheduler
+* [Beanote](https://chrome.google.com/webstore/detail/beanote-note-taking-on-we/nikccehomlnjkmgmhnieecolhgdafajb) or [Page Pad](https://chrome.google.com/webstore/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn) - Web Page Note Taking
+* [ProjectNaptha](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf) - Manipulate Browser Image Text
+* [Text to Image](https://chrome.google.com/webstore/detail/text-to-image/nkljaohokglebeljcgchmehnhdieakda) - Text to Image
+* [A+ Font Size Changer](https://chrome.google.com/webstore/detail/a%20-fontsize-changer-lite/ckihgechpahhpompcinglebkgcdgpkil) - Change Browser Font Size & Color
+* [Sticky Notes](https://www.getstickynotes.com/) - Browser Sticky Notes
+* [Toby](https://www.gettoby.com/), [Prune](https://chrome.google.com/webstore/detail/prune/gblddboefgbljpngfhgekbpoigikbenh), [Freezetab](https://freezetab.com/), [Tab Modifier](https://github.com/furybee/chrome-tab-modifier) or [Tabs Outliner](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - Tab Managers
+* [Dualless](https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd) or [Tab Resize](https://chrome.google.com/webstore/detail/tab-resize-split-screen-l/bkpenclhmiealbebdopglffmfdiilejc) - Split Browser Window 
+* [Rearrange Tabs](https://chrome.google.com/webstore/detail/rearrange-tabs/ccnnhhnmpoffieppjjkhdakcoejcpbga?hl=en) - Rearrange Tabs
+* [chromewm](https://gitlab.com/EduCampi/chromewm) - Tile Windows / Emulate Workspaces
+* [Better OneTab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg) - Merge & Organize Tabs
+* [Share Tabs](https://chrome.google.com/webstore/detail/share-tabs/dneibnomihlihbnibiblbmeppafmeacg) - Share Tabs Other Browser
+* [Popup Tab Switcher](https://chrome.google.com/webstore/detail/popup-tab-switcher/cehdjppppegalmaffcdffkkpmoflfhkc) - Improved Tab Switching
+* [Relative Bookmarks](https://github.com/duiker101/relative_bookmarks) - Add Relative Bookmarks
+* [improved Potato](https://github.com/patheticGeek/improved-potato) - Export Bookmarks
+* [Remarkable](https://github.com/samueldobbie/remarkable-extension) - Remove Dead Bookmarks / Refresh Icons
+* [Mercury Reader](https://reader.postlight.com/) - Clear Clutter From Articles / [GitHub](https://github.com/postlight/parser)
+* [OpenDyslexic](https://chrome.google.com/webstore/detail/opendyslexic-for-chrome/cdnapgfjopgaggbmfgbiinmmbdcglnam) - Increase Page Readability
+* [Read Progress](https://chrome.google.com/webstore/detail/website-read-progress/cpmfchlofecflfioofchboebmocaelip) - Display Read Progress on WebPage
+* [Amino](https://aminoeditor.com/) - Customize Webpage CSS
+* [NFT to Silly JPEG](https://github.com/k-wong/nft-to-silly-jpeg) - Replace NFT Images
+* [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en) - Image / Video Album Downloader / [Script](https://openuserjs.org/scripts/indream/DownAlbum) 
+* [BetterViewer](https://github.com/Ademking/Betterviewer) - Improved Image Viewer
+* [Resizing](https://resizing.app/) - Resize Images
+* [Vasai](https://chrome.google.com/webstore/detail/vasai-free-screen-recorde/ppbdhdggkcfgcghiaimfknmfemkegleo) - Screen Recorder
+* [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en) - Color Picker
+* [SiteScrubber](https://chrome.google.com/webstore/detail/sitescrubber/ffadalgofahhohaciekjchkikcglcpla) - Hide Offensive / Swear Words on Sites
+* [Show Keys](https://chrome.google.com/webstore/detail/show-keys/bkcpmidbgmfbbeanejhepkjakagfaaon) - Show Keys As You Type
+* [ShowPassword](https://chrome.google.com/webstore/detail/showpassword/bbiclfnbhommljbjcoelobnnnibemabl?hl=en) - Show Passwords on Hover
+* [Typio Form Recovery](https://typiorecovery.github.io/), [2](https://chrome.google.com/webstore/detail/typio-form-recovery/djkbihbnjhkjahbhjaadbepppbpoedaa) - Autosave Input Data in Forms
+* [Spoiled](https://lucasrowe.github.io/spoiled/) - Customizable Phrase / Spoiler Blocker
+* [Flip This](https://chrome.google.com/webstore/detail/flip-this/donljlliiecjcagcenoeohjmabfegkph?hl=en) - Rotate Page & HTML Elements
+* [adam:ONE Assistant](https://chrome.google.com/webstore/detail/adamone%C2%AE-assistant/fdmpekabnlekabjlimjkfmdjajnddgpc?hl=en) - Find Site Dependencies
+* [IPvFoo](https://github.com/pmarks-net/ipvfoo) - View Site IP Address
+* [Pip](https://www.getpip.com/pip-extension) - Web3 Payment Extension
+* [Fake Profile Detector](https://chrome.google.com/webstore/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc) - Detect Fake Online Profiles
+* [Source Downloader](https://mybrowseraddon.com/extension-source-downloader.html) - View Extension Source Code
+* [EveryComment](https://everycomment.top/) - Add Comments to All Sites
+* [NicoNico SPEENYA](https://github.com/chimerast/niconico-speenya) - Presentation Style Comments
+* [Current Moon Phase](https://chrome.google.com/webstore/detail/current-moon-phase/ippnbhhbamibfpljlfmgogaondodicgi) - Current Moon Phases
+* [Nicosapo](https://github.com/yurafuca/nicosapo) - Add Features to Nico Nico
+* [N-Bot](https://chrome.google.com/webstore/detail/n-bot-google-meet-online/cpcenjbkciljcgglpgcmghcphjcbkffg?hl=en%E2%80%8E) - Bot to Attend Your Meetings / Classes
+* [Zoom Scheduler](https://zoom.us/download#chrome_ext) - Zoom Meeting Scheduler
+* [Clippy](https://github.com/capJavert/clippy) - Add Clippy Assistant to Pages
+* [Typewriter](https://chrome.google.com/webstore/detail/typewriter/jfghikfjnjkjkdpndeecjheealfoabhc) - Typing Typewriter Sounds
+* [Extpose](https://extpose.com/) - Track Performance of your own Extensions
+
+***
+
+## ▷ Safari
+
+* [‎Momentum](https://apps.apple.com/us/app/momentum/id1564329434) - Custom New Tab Page
+* [Dark Reader](https://github.com/nbats/FMHYedit/blob/main/base64.md#dark-reader), [NightLight](https://apps.apple.com/us/app/nightlight-for-safari/id1429386865?mt=12), [Night Eye](https://apps.apple.com/us/app/night-eye-for-safari/id1450504903?mt=12), [Dark Reader Script](https://gist.github.com/kfur/266c456dd69072eb7533f457ee5f18a0) or [Dark Mode](https://apps.apple.com/us/app/dark-mode-for-safari/id1397180934?mt=12) - Dark Mode
+* [Tab Space](https://apps.apple.com/us/app/tab-space/id1473726602?mt=12) or [‎StartPage.ai](https://apps.apple.com/us/app/startpage-ai/id1584727895) - Tab Manager
+* [Amerigo](https://apps.apple.com/us/app/amerigo-file-manager/id605569663) - File Download Manager
+* [Keyword Search](https://apps.apple.com/us/app/keyword-search/id1558453954?mt=12) - Keyword Search Bar
+* [PiPifier](https://apps.apple.com/us/app/pipifier/id1234771095) - Picture in Picture Mode
+* [Web Inspector](https://apps.apple.com/us/app/web-inspector/id1584825745) - Inspect Element Tools for Safari
+* [Safari Snippets](https://apps.apple.com/us/app/safari-snippets/id1126048257) - Insert Code into Safari
+
+***
+
+## ▷ Userscripts
+
+* ⭐ **[Userscript Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_userscript_managers)**
+* ⭐ **[Userscripts Guide](https://rentry.co/userscript-guide)**
+* ⭐ **[Greasy Fork](https://greasyfork.org/en)**, [OpenUserJS](https://openuserjs.org/) or [Userscripts](https://userscripts-mirror.org/) or  - Install Userscripts / [Git Install](https://greasyfork.org/en/scripts/6456)
+* ⭐ **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/431584) / [Helper](https://greasyfork.org/en/scripts/393396) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Cleanup Script](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336) / [Dark Theme](https://greasyfork.org/en/scripts/404443)
+* [Awesome Userscripts](https://github.com/awesome-scripts/awesome-userscripts), [XIU2](https://github.com/XIU2/UserScript), [Scripts](https://gitlab.com/loopvid/scripts) or [Userscript.zone](https://www.userscript.zone/) - Userscript Indexes
+* [darkmode.js](https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c) - Dark Mode Script
+* [SB.js](https://github.com/mchangrh/sb.js) - SponsorBlock Userscript
+* [2ch-captcha-solver](https://gitgud.io/IeatMonkeysLOL/2ch-captcha-solver-plugin/-/tree/master/) - 2CH Captcha Solver
+* [Solved Media Plus](https://greasyfork.org/en/scripts/422074-solved-media-plus) - Image Captcha Solver
+* [Bypass Google Sorry](https://greasyfork.org/en/scripts/447130), [Bypass Google reCaptcha](https://gist.github.com/Tomas2D/ed9e0a5ff196704d205b2fbd3a9880f6) / [2](https://gist.github.com/alperensert/ea02f8ec6129bc2289a8ad12d9a76e55) - Bypass Google reCAPTCHA
+* [Remove Web Limits](https://greasyfork.org/en/scripts/28497), [2](https://greasyfork.org/en/scripts/386908), [3](https://greasyfork.org/en/scripts/14146), [4](https://greasyfork.org/en/scripts/23772) - Force Enable Right Click
+* [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Select Text Inside Links
+* [Select All Checkboxes](https://greasyfork.org/en/scripts/22587) - Auto Check All Boxes
+* [Always Remember Me](https://openuserjs.org/scripts/Patabugen/Always_Remember_Me) - Always Tick "Remember Me" 
+* [Anti-Cookies Consent](https://greasyfork.org/en/scripts/432050-anti-cookies-consent) - Remove Cookie Consent Popups
+* [Direct Links Out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Remove "You are Leaving" Site Popups
+* [Sleek YouTube Downloader](https://greasyfork.org/en/scripts/438233) - Add Download Buttons to YouTube
+* [Google Cleaner](https://greasyfork.org/en/scripts/33313-google-cleaner) - Minimalist Google
+* [Google Hit Hider](https://greasyfork.org/en/scripts/1682) - Hide Sites in Search Results
+* [altsearch links](https://greasyfork.org/en/scripts/13542-altsearch-links) - Adds General Search Engines to Results
+* [DownloadAllContent](https://greasyfork.org/en/scripts/25068) - Download Content from Pages
+* [Microsoft Store Direct Download](https://greasyfork.org/en/scripts/394420-microsoft-store-direct-download) - Microsoft Store Direct Downloads
+* [y2monkey](https://github.com/jijirae/y2monkey) - Download YouTube videos by pressing "SHIFT+D" (opens y2mate.com)
+* [r2monkey](https://github.com/jijirae/r2monkey) - Download Reddit videos by pressing "SHIFT+D" (opens RapidSave.com)
+* [Maximize Video](https://greasyfork.org/en/scripts/4870) - Maximize Playing Videos via Button
+* [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5)
+* [Picviewer CE+](https://greasyfork.org/en/scripts/24204) - Image Viewing Tool
+* [Show Image Dimensions](https://greasyfork.org/scripts/401432) - Add Image Dimensions to Google
+* [Google DWIMages](https://greasyfork.org/en/scripts/29420) - Add Direct Image Links
+* [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) - Google Search Endless Scrolling 
+* [Extra Search Buttons](https://greasyfork.org/en/scripts/7543-google-search-extra-buttons) - Extra Google Search Buttons
+* [Google Bangs](https://greasyfork.org/en/scripts/424160) - DDG !bangs in Google
+* [Pagetual](https://hoothin.github.io/PagetualGuide/en/) - Merges a Sites "Next" Pages
+* [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
+* [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/394820-mouseover-popup-image-viewer) - Shows Images & Videos Behind Links & Thumbnails
+* [DisableAMP](https://github.com/AdguardTeam/DisableAMP) - Disable Google AMP Links
+
+***
+
+# ► Shopping
+
+* ⭐ **[Reddit Favorites](https://redditfavorites.com/)**, [Kit.co](https://kit.co/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product / Service Reviews
+* ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** or **[Didn't Know I Wanted That](https://www.didntknowiwantedthat.com/)** - Find Interesting Things to Buy
+* ⭐ **[Giftasic](https://giftastic.ai/)** - Gift Ideas AI
+* [Pepper](https://www.pepper.com/) - Shopping Community
+* [AllArk](https://allark.io/) - Buy Stuff via Crypto
+* [BitRefill](https://www.bitrefill.com/) - Buy Gift Cards via Crypto
+* [Randomicle](https://randomicle.com/) - Random Amazon Products
+* [Amazon International Links](https://greasyfork.org/en/scripts/38639-amazon-international-links) - international Amazon Products
+* [Facebook Ad Library](https://www.facebook.com/ads/library/) - Find Deals via Facebook Ad Search
+* [AllCraigslistSearch](https://allcraigslistsearch.com/) or [Craigs List Search](https://craigs-list-search.com/) - Craigslist Search
+* [SearchAllJunk](https://searchalljunk.com/) - Multi-Classifieds Search
+* [PicFlick](https://picclick.com/) - Ebay Quick Search
+* [Type Hound](https://typohound.com/) - Ebay Typo Search
+* [BTOD](https://www.btod.com/blog/category/buying-guides/) - Office Chair Buying Guides / Reviews
+* [Mousepad Mastersheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/) - Mousepad Buying Guide / Reviews
+* [Cars.com](https://www.cars.com/research/compare/), [Vehicle Rankings](https://cars.usnews.com/cars-trucks/rankings), [Motor1](https://www.motor1.com/reviews/) or [Edmunds](https://www.edmunds.com/car-reviews/) - Vehicle Reviews / Comparisons
+* [carsized](https://www.carsized.com/) - Vehicle Size Comparisons
+* [CarVertical](https://www.carvertical.com/) or [Car Owners](https://carsowners.net/) - Vehicle History & VIN Search
+* [NHTSA](https://vpic.nhtsa.dot.gov/api/) - Vehicle Registration Database
+* [PartSouq](https://partsouq.com/) - Auto Parts Search
+* [Chipscribe](https://chipscribe.com/) - Split Service Subscription Costs Anonymously 
+* [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
+* [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wish-list Creators
+* [Microsoft Rewards Generator](https://greasyfork.org/en/scripts/457702), [2](https://github.com/jack-mil/bing-rewards), [3](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2), [4](https://github.com/Tom60chat/Microsoft-Rewards-Farmer-Sharp), [5](https://github.com/3kh0/bing-rewards), [6](https://github.com/Prem-ium/BingRewards) - Automate Microsoft Reward Points
+* [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Nintendo Shop Music on Shopping Sites
+* [Ooak Finder](https://www.ooakfinder.com/) - Product Reverse Image Search
+* [Desenmascara](https://desenmascara.me/) - Spot Counterfeit Sites
+* [/r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community
+* [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
+* [Fuck Nestlé](https://www.fucknestle.art/) - Nestlé Brand Database
+* [B2B Tradeshows](https://b2btradeshows.net/) - Tradeshow Calendar
+
+***
+
+## ▷ Electronics
+
+* ⭐ **[PCPartPicker](https://pcpartpicker.com/)**, [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder),  [Build Redux](https://buildredux.com/), [CGDirector](https://www.cgdirector.com/pc-builder/) or [NZXTBld](https://nzxt.com/category/gaming-pcs/build) - PC Building Sites
+* ⭐ **[/r/PCMasterrace Wiki](https://www.reddit.com/r/pcmasterrace/wiki/builds/)**, [/r/BuildaPC Wiki](https://www.reddit.com/r/buildapc/wiki/index) or [Logical Increments](https://www.logicalincrements.com/) - PC Building Guides / **[Video](https://youtu.be/BL4DCEp7blY)**
+* ⭐ **[NanoReview](https://nanoreview.net/en)**, [Octoparts](https://octopart.com/), [Technical City](https://technical.city/), [TechPowerup](https://www.techpowerup.com/) or [Techspecs](https://techspecs.io/) - Hardware Comparisons
+* ⭐ **[rtings](https://www.rtings.com/)** - Hardware Reviews
+* ⭐ **[Open Benchmarking](https://openbenchmarking.org/)** - Hardware Benchmarks
+* ⭐ **[CPUBenchmark](https://www.cpubenchmark.net/)** or [NoteBenchcheck](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html) - GPU / CPU Benchmarks
+* ⭐ **[MechMap](https://www.mechmap.tech/)** / [Discord](https://discord.com/invite/mechkeys) or [Alexotos](https://www.alexotos.com/keyboard-vendor-list/) / [Discord](https://discord.com/invite/xMQArAaGRB) - Mechanical Keyboard Recommendations
+* [LabGopher](https://www.labgopher.com/) - eBay Hardware Price Comparisons 
+* [/r/buildapc](https://reddit.com/r/buildapc) - PC Building Community / [Discord](https://discord.com/invite/buildapc)
+* [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - PC Building Community
+* [/r/SuggestAPC](https://reddit.com/r/SuggestAPC) - PC Suggestion Community
+* [NewMaxx's SSD Site](https://borecraft.com/), [JohnnyLucky](https://www.johnnylucky.org/data-storage/ssd-database.html) or [SSD Chart](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/) - SSD Buying Comparisons
+* [Disk Prices](https://diskprices.com/) - Disk Price Tracker
+* [Shucks](https://shucks.top/) - External Drive Price Tracker
+* [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Laptop Deals](https://laptopsdeals.net/our-gaming-laptops-guide-list/), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
+* [Laptop Knowledge Database](https://laptops.miraheze.org/wiki/Main_Page) or [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Databases
+* [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [/r/MouseReview Wiki](https://www.reddit.com/r/MouseReview/wiki/index/) - Mouse Buying Guides
+* [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - Mouse Click Latency Chart
+* [MechGroupBuys](https://www.mechgroupbuys.com/) - Group Mechanical Keyboard Buying / [Discord](https://discord.com/invite/mechgroupbuys) / [Reddit](https://www.reddit.com/r/MechGroupBuys/)
+* [PSU Tier List](https://cultists.network/140/psu-tier-list/) - PSU Buying Guide
+* [PC Monitors](https://pcmonitors.info/), [Monitor Spreadsheet](https://pastebin.com/tkmakRNW) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
+* [DisplayWars](http://www.displaywars.com/), [sven dpi](https://www.sven.de/dpi/) or [Screen Sizes](https://screensiz.es/) - Screen Size Comparisons
+* [Erin's Audio Corner](https://www.erinsaudiocorner.com/) or [Equipboard](https://equipboard.com/) - Audio Equipment Comparisons
+* [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
+* [PhoneDB](https://phonedb.net/), [GSMChoice](https://www.gsmchoice.com/en/), [Kimovil](https://www.kimovil.com/en/) or [GSMArena](https://www.gsmarena.com/) - Compare Phones / Prices
+*[Digicamfinder](https://digicamfinder.com/) - Digital Camera Database
+* [Don’t kill my app!](https://dontkillmyapp.com/) - Manufacturer Battery Life vs. App Functionality
+* [PhoneSized](https://phonesized.com/) - Phone Size Comparisons
+* [DXOMARK](https://www.dxomark.com/) - Smartphone Quality Testing
+* [DVDReleaseDates](https://www.dvdsreleasedates.com/) - DVD Release Dates
+
+***
+
+## ▷ Games
+
+* ⭐ **[GG.deals](https://gg.deals/)**
+* ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/)** 
+* ⭐ **[SteamDB](https://steamdb.info/sales/)**
+* [AllKeyShop](https://www.allkeyshop.com/blog/) or [PSPrices](https://psprices.com/)
+* [EpicGamesDC](https://epicgamesdb.info/) - Epic Store Price Tracker
+* [PriceCharting](https://www.pricecharting.com/) - Game, Comic & Trading Card Price Tracker
+* [DekuDeals](https://www.dekudeals.com/) or [NTDeals](https://ntdeals.net/) - Switch Game Price Trackers
+* [PS Deals](https://psdeals.net/) - PlayStation Game Price Tracker
+
+***
+
+## ▷ Price Tracking
+
+* ⭐ **[Keepa](https://keepa.com/)** or **[CamelCamelCamel](https://camelcamelcamel.com/)** - Amazon Price Tracker / [App](https://play.google.com/store/apps/details?id=com.offertadelgiorno.offertadelgiorno)
+* [Vetted](https://vetted.ai/), [Real Price Tracker](https://www.realpricetracker.com/) or [FlipsHope](https://flipshope.com/ ) - Price Tracking Extensions
+* [Search Ebay Sold](https://chrome.google.com/webstore/detail/search-ebay-sold/mhlcjbhhieanjjafbcoeclghpnjhepif) - Ebay Sold Item Search
+* [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - Online Appraisals
+* [Craftie](https://www.craftle.app/) - Furniture Price Calculator
+* [DiaperGrid](https://diapergrid.com/) - Diaper Price Tracker
+* [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
+* [SlyToday](https://slytoday.com/) - Price Comparison Search
+* [Valuta EX](https://valuta.exchange/)  or [Currency World](https://currency.world/)- Currency Converters / [Firefox](https://addons.mozilla.org/en-US/firefox/search/?q=currency%20converter&sort=relevance&type=extension) / [Chrome](https://chrome.google.com/webstore/search/currency%20converter?hl=en&_category=extensions)
+
+***
+
+# ► Fun Sites
+
+## ▷ Chat / Forums
+
+* ⭐ **[/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/wiki/listofsubreddits/)** - List of Subreddits
+* ⭐ **[Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits)** - List of Multireddits
+* ⭐ **[Knockout](https://knockout.chat/)** / [Discord](https://discord.gg/wjWpapC) or [SomethingAwful](https://forums.somethingawful.com/) - General Forums
+* ⭐ **[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)** - Chat with AI
+* ⭐ **[Our World of Text](https://ourworldoftext.com/)** or [Your World of Text](https://www.yourworldoftext.com/) - Infinite Community Text Grid
+* [Doodle Place](https://doodle-place.glitch.me/) - Virtual Drawing World
+* [Anon Boards](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anonymous_image_boards) - Anonymous Image / Text Boards
+* [Posting.Cool](https://posting.cool/) - Random Topic Forum
+* [Gossip’s Café](https://gossips.cafe/) - Text / Music Board
+* [Earth Reviews](https://neal.fun/earth-reviews/) - Help Improve the Simulation
+* [Virtual World List](https://virtualworldslist.neocities.org/) - Virtual World List
+* [Hubs by Mozzila](https://hubs.mozilla.com/) - VRChat-like hangout room (PC & PCVR)
+* [Flat.Social](https://flat.social/f/hn-virtual-xmas) - Virtual Christmas Party
+* [Omegle](https://www.omegle.com/) or [Chatiw](https://www.chatiw.me/) - Random Chat Rooms
+* [ASCII Roulette](https://github.com/dialup-inc/ascii) - Random ASCII Chat Rooms
+* [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
+* [SuperBay](https://forum.suprbay.org/) - Piracy Discussion
+* [Piracy Subs](https://www.reddit.com/r/Piracy/wiki/megathread/related_subreddits) - Piracy Subreddits
+* [Marijuana Subs](https://www.reddit.com/r/trees/wiki/entreddits_social) - Marijuana Subreddits
+* [TheRPF](https://www.therpf.com/forums/) - Movie Costume / Prop Forum
+* [Websleuths](https://www.websleuths.com/) - Crime Solving Forum
+* [Translation Party](https://www.translationparty.com/) - Translation Parties
+* [RolePlayer](https://www.roleplayer.me/) - Roleplaying Social Network
+* [Myth Weavers](https://www.myth-weavers.com/) - Roleplaying Forum
+* [Status.Cafe](https://status.cafe/) - Share Current Status
+* [TwoCansAndAString](https://twocansandstring.com/) - Anonymous Q&A
+* [IsItNormal](https://isitnormal.com/) - Ask if Things are Normal
+* [FutureMe](https://www.futureme.org/) or [MessageToTheFuture](https://messagetothefutu.re/) - Send Messages to Future Self
+* [PostSecret](https://postsecret.com/) - Share Secrets via Postcard
+* [PenPal World](https://www.penpalworld.com/) or [GlobalPenFriends](https://www.globalpenfriends.com/) - Pen Pal Community
+* [WriteAPrisoner](https://writeaprisoner.com/) - Pen Pals for Inmates
+* [Tinder for Bananas](https://tinderforbananas.com/) - Tinder for Bananas
+* [Talk-Bot](http://www.frontiernet.net/~wcowart/aachatbot.html) - Chat with Robot
+* [Madam Zena](http://www.madamzena.com/) - Chat with Fortune Teller
+* [Magic Crystal Ball](https://www.oproot.com/ball/) - Get Messages from Beyond
+
+***
+
+## ▷ Image / Video
+
+* ⭐ **[Images Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_image_sites)** - View / Download Images
+* ⭐ **[GIF Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_gif_tools)** - View / Download GIFs
+* ⭐ **[KnowYourMeme](https://knowyourmeme.com/)** or [FndThatMeme](https://findthatmeme.com/) - Meme Databases
+* ⭐ **[DeviantArt](https://www.deviantart.com/)** or [ArtStation](https://www.artstation.com/) / [Downloader](https://github.com/findix/ArtStationDownloader) - User-Made Art
+* ⭐ **[Live Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)** - Watch Live Webcams
+* [SfwChan](http://boards.swfchan.net/) - SFW Archive
+* [wtf.rentry](https://wtf.rentry.co/) or [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
+* [DreamWidth](https://www.dreamwidth.org/) - User-Made Images & Stories
+* [World Dream Bank](http://www.worlddreambank.org/) - Dream Images & Stories
+* [stringers.live](https://stringers.live/) - Live Freelance Journalist Streams
+* [Retro TV Simulator](https://www.myretrotvs.com/) - Simulate Oldschool TV Channels
+* [BumpWorthy](https://www.bumpworthy.com/) - Adult Swim Bumps 
+* [Toonami Remastered](https://www.toonamiremastered.com/) - Remastered Toonami Content
+* [ThisXDoesNotExist](https://thisxdoesnotexist.com/) - Realistic-Looking Fake Versions of Things
+* [NotRealCats](https://notrealcats.com/) - Cats That Don't Exist
+* [Anon Boards](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_anonymous_image_boards) - Anonymous Image / Text Boards
+* [4chan Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_4chan_archives) - Browse / Search 4Chan Archives
+* [SakugaBooru](https://www.sakugabooru.com/) - Anime Animation Booru
+* [Different Strokes](https://swsteffes.itch.io/different-strokes) - Online User-Made Art Gallery
+* [Creative Uncut](https://www.creativeuncut.com/) - Video Game Art
+* [IndieGameBooru](https://indiegame.booru.org/) - Indie Game Image Booru
+* [Random Screenshot](https://randomscreenshot.com/) or [Random Prnt.sc](https://chrishannah.me/prntsc/) - Random Screenshots
+* [Archillect](https://archillect.com/archive) - Image Posting Bot
+* [ArtVote](https://qcpages.qc.cuny.edu/~chanusa/artvote/) - Judge Art
+* [Random Comic Generator 3.0](https://explosm.net/rcg) - Explosm Random Comic Generator
+* [blhaj-nra.art](https://xn--blhaj-nra.art/) - Blåhaj Images
+* [cachemonet](http://cachemonet.com/) - Randomly Generated GIFs / Backgrounds
+* [Chris Shier](https://www.csh.bz/) - Canvas Animations / GIFs
+* [Three.js](https://threejs.org/) - JavaScript 3D library 
+* [88x31](https://cyber.dabamos.de/88x31/index.html) - Classic 88x31 Buttons
+* [The Office Stare Machine](http://theofficestaremachine.com/) - The Office Video Emotions 
+* [Vintage Ad Browser](http://www.vintageadbrowser.com/) - 100,000+ Vintage Advertisements
+* [/r/Place Atlas](https://place-atlas.stefanocoding.me/) - /r/Place Info
+* [LameBook](https://www.lamebook.com/) - Funny Facebook Status'
+* [Kittenwar!](http://www.kittenwar.com/) - Rate Kittens
+* [procatinator](https://procatinator.com/) - Cat GIFs & Music
+* [Open Puppies](https://openpuppies.com/) - Random Dog GIFs
+* [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts) - Terminal Pokémon Sprites
+* [Star Wars Intro Creator](https://starwarsintrocreator.kassellabs.io/) - Create Star Wars Intros
+* [ASCIIMATION](http://www.asciimation.co.nz/) - Star Wars ASCII Animation
+* [Mirage Gallery](https://www.miragegallery.ai/) - AI Art Gallery
+* [Nightmare Machine](http://nightmare.mit.edu/) - Scary AI Generated Imagery
+* [Matchbox Dan](https://matchbox-dan.com/) - Matchbox Car Picture Archive
+* [Pixels Fighting](http://pixelsfighting.com/) - Watch A Pixel Battle 
+* [Floor796](https://floor796.com/) - Ever-Expanding Animated Scene
+* [Zoomquilt](https://www.zoomquilt.org/) / [2](http://zoomquilt2.com/), [Infinite Zoom](https://infinitezoom.net/) or [Arkadia](http://arkadia.xyz/) - Infinite Zooming Paintings
+* [Blue Ball Machine 2](https://blueballmachine2.ytmnd.com/) - Full Page Chain Reaction Image
+* [FootballShirtMaker](https://footballshirtmaker.com/en-us/) - Create Custom Football T-Shirts
+* [Cake](http://www.redkid.net/generator/cake/) - Cake Writing Generator
+* [Magnet Poetry](https://sadgrl.online/magnet-poetry) - Magnet Poetry
+* [Fake Text Message](https://ifaketextmessage.com/) or [iFake](https://ifaketextmessage.com/) - Make Fake Text Conversation
+* [Useless Certifications](https://uselesscertifications.com/) - Useless Certifications
+* [ViralPostGenerator](https://viralpostgenerator.com/) - Generate Cringe LinkedIn Post
+* [AwesomeCars](https://awesomecars.neocities.org/) - Drip Car Memes
+* [Anime Girls Holding Programming Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/)
+* [webgbcam](https://maple.pet/webgbcam/) - Gameboy Camera in Browser
+* [rroll.to](https://rroll.to/) - Rick Roll Link Shortener
+* [Rick Astley Remixer](http://dinahmoelabs.com/rickastley) - Remix Rick Roll
+* [thisvid2 Web Edition](https://projectlounge.pw/thisvid2) - (Funny) Twitter Video Downloader
+* [Terminal Video Player](https://github.com/TheRealOrange/terminalvideoplayer) - Cursed Terminal Video Player
+* [Watching Grass Grow](https://www.watching-grass-grow.com/) - Watch Grass Grow
+
+***
+
+## ▷ Interactive
+
+* ⭐ **[Fun Stuff Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fun_indexes)** - Toys, Games, Experiments etc.
+* ⭐ **[Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_browser_games)** - Browser Game Sites
+* ⭐ **[Painting / Drawing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_painting_.2F_drawing)** - Painting / Drawing Tools
+* ⭐ **[sandspiel.club](https://sandspiel.club/)** - Falling Sand Physics Sandbox
+* ⭐ **[Genetic Cars 2](https://rednuht.org/genetic_cars_2/)** - Random 2D Car Generator 
+* ⭐ **[Human Benchmark](https://humanbenchmark.com/)** - Brain Games & Cognitive Tests
+* [Got Rhythm?](https://www.concerthotels.com/got-rhythm) - Rhythm / Tempo Test
+* [1000 Seconds](https://mattround.com/usvsth3m/1000-seconds/) - Test of Patience
+* [Just a Minute](https://jinay.dev/just-a-minute/) - Estimate a Minute
+* [Oracle](https://roadtolarissa.com/oracle/) - Try to Trick an AI
+* [Are You You?](https://www.areyouyou.eu/) - Try to Fool Face Recognition Software
+* [Word Blanks](https://www.wordblanks.com/) or [Plot Generator](https://www.plot-generator.org.uk/) - Online Mad Libs
+* [David.li](http://david.li/) - Physics Games
+* [MagicKeyboard](http://magickeyboard.io/) - Try "feross", "hexbin", "rain", or "semi"
+* [Just Type Stuff](https://web.archive.org/web/20191229101209/https://justtypestuff.com/) - Type Things into Existence
+* [deardiary](https://deardiary.wtf/) - Machine Learning Diary / [Concept Video](https://youtu.be/Zc3qayGmYZQ)
+* [Windows93](http://www.windows93.net/) or [RacerTrash](https://racertrash.com/) - Retro Windows Emulator
+* [EmuOS](https://github.com/Emupedia/emupedia.github.io/) - Run Classic Games / Apps In Browser
+* [Kamogo](https://www.kamogo.com/faq/) - Useless Web Apps
+* [larsberg](http://www.larsberg.net/), [substack](https://substack.net/) or [mrdoob](https://mrdoob.neocities.org/) - Trippy 3D Experiments
+* [Google Doodles](https://www.google.com/doodles?q=interactive) - Interactive Google Doodles
+* [DriveMeInsane](http://drivemeinsane.com/) - Control a Home Automation System
+* [Genetic Walkers](https://rednuht.org/genetic_walkers/) - Genetic Algorithm Walkers
+* [DrivingSimulator](https://framesynthesis.com/drivingsimulator/maps/) - 2D Driving Simulator
+* [OpenScope](https://www.openscope.co/) - Air Traffic Control Simulator
+* [cnnix-steership](https://edition.cnn.com/interactive/2021/03/cnnix-steership/) - Steer through the Suez Canal
+* [Ballooning](https://alexanderperrin.com.au/triangles/ballooning/) - Procedurally Generated Balloon Simulator
+* [The Fed](https://thefed.app/) - Central Banking Game
+* [Tamajoji](https://aericode.itch.io/tamajoji) - Browser Tamagotchi
+* [Gifypet](https://gifypet.neocities.org/) - Create Your Own Cute Pet
+* [Koi Pond](https://koipond.fish/) - Feed Koi
+* [xrDinosaurs](https://www.xrdinosaurs.com/) - VR Dino Park
+* [This Is Sand](https://thisissand.com/) - Make Sand Art
+* [Orb.Farm](https://orb.farm/) - Virtual Aquatic Ecosystem
+* [Generativeplanets](https://zehfernandes.com/generativeplanets/builder) or [Planet](http://oskarstalberg.com/game/planet/planet.html) - Planet Generators
+* [Bouncy Balls](https://bouncyballs.org/) or [Balls Simulation](https://phydemo.app/balls-simulation/) - Ball Physics Simulator
+* [Gravity Points](https://codepen.io/akm2/full/rHIsa) or [dmilin1](https://dmilin1.github.io/PrincipiaJS/build/index.html) - Play with Gravity 
+* [Google Gravity](https://mrdoob.com/projects/chromeexperiments/google-gravity/) - Falling Google
+* [Fluid Simulation WebGL](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) or [WebGL Fluid Experiment](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/) - Fluid Simulation
+* [WebGL Water](http://madebyevan.com/webgl-water/) - Water Simulation
+* [Origami Simulator](https://origamisimulator.org/) - Origami Simulation
+* [Fold & Cut](https://www.onemotion.com/fold-cut-paper/) - Make Digital Paper Snowflakes
+* [Iceberger](https://joshdata.me/iceberger.html) - Draw an Iceberg, See how it Floats
+* [BubblesPop](https://bubblespop.netlify.app/) - Pop Bubble Wrap
+* [Bubbles](https://oimo.io/works/bubbles/) - Blow Bubbles
+* [Fidget Page](https://www.fidgetpage.com/) - Play w/ Fidget Spinner
+* [Keep calm and poke me.](https://calm.ovh/) - Poke & Pull
+* [Elastic Man](https://www.adultswim.com/etcetera/elastic-man/) - Elastic Morty
+* [Screentoys](https://www.screentoys.com/) - Photo Morphing Toy
+* [Smash The Walls](https://smashthewalls.com/) - Smash Walls
+* [Koalas to the Max](http://www.koalastothemax.com/) - Make Smaller & Smaller Dots
+* [Checkboxes](http://www.jezzamon.com/checkboxes/index.html) - Check Boxes
+* [Popcat](https://popcat.click/) - Worldwide Popcat Clicking Competition
+* [DrawAurora](https://www.drawaurora.com/) - Draw Auroras
+* [Neonflames](https://29a.ch/sandbox/2011/neonflames/) - Draw Nebulas
+* [Leapy Grid](https://codepen.io/Godje/full/mOzpEY/) - Play with Rainbow Grid
+* [Plink](https://plink.in/) / [2](http://dinahmoelabs.com/plink/) - Multiplayer Music Maker
+* [Typatone](https://www.typatone.com/) - Play Music by Typing
+* [Drawing Garden](https://drawing.garden/) - Create Sounds via Mouse Movement
+* [Fractal Sound Explorer](https://codeparade.itch.io/fractal-sound-explorer) - Create Sounds via Fractals
+* [typedrummer](http://typedrummer.com/) - Drum by Typing 
+* [Soundscape](https://soundscape.world/) - Beat Builder / Visualizer
+* [MikuTap](https://aidn.jp/mikutap/) - Click to Make Sounds / Graphics
+* [Patatap](https://www.patatap.com/) - Type to Create Melodies / Moving Shapes 
+* [Touch Pianist](http://touchpianist.com/) - Magical Piano App 
+* [A.I. DUET](https://experiments.withgoogle.com/ai/ai-duet/view/) - AI Piano Duet
+* [MultiplayerPiano](https://multiplayerpiano.com/) - Multiplayer Piano
+* [Blob Opera](https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?hl=en) - Lead a Blob Opera
+* [Incredibox](https://www.incredibox.com/demo/) - Make Beatboxing Beats
+* [bongo.cat](https://bongo.cat/) - Become Bongo Cat
+* [SND](https://s-n-d.si/) - Strange Scrollable Story
+* [Draw a Stickman](https://drawastickman.com/) - Stickman Adventure
+* [Wonder of Wonder Art](https://aidn.jp/wowa/) - Create a Dancing Character
+* [Cursor Car](https://papercookies.itch.io/cursor-car) - Play with Car Cursor
+* [Web Neko](https://webneko.net/) - Nekos on the Web
+
+***
+
+## ▷ Interesting
+
+* ⭐ **[Virtual Tours](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_virtual_tours)** - Virtual Tours / Travel Simulators
+* ⭐ **[Iceberg Charts](https://icebergcharts.com/)** - Explore Obscure Topics / [/r/IcebergCharts](https://www.reddit.com/r/IcebergCharts/)
+* ⭐ **[Conspiracy Theory Iceberg](https://ipfs.io/ipfs/QmWszAAzXjaD6hQZXbfhF9qBFWpnPwZVWU131HVf42WZej)** - Conspiracies / Occult / Mythology / [Video Playlist](https://www.youtube.com/watch?v=7I2KJL-gJPU&list=PLfeWBGty_481haNoS_ozOVdIyOpyXMjUC)
+* ⭐ **[Ranker](https://www.ranker.com/)**, [Listography](https://listography.com/), [hero](https://hero.page/), [FlexLists](https://flexlists.com/), [TheTopsTens](https://www.thetoptens.com/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
+* ⭐ **[Fandom](https://www.fandom.com/)** - Fan Wikis / [Frontend](https://docs.breezewiki.com/Links.html) / [Old Style](https://greasyfork.org/en/scripts/438194-hydralize-fix-fandom-com)
+* ⭐ **[The Lost Media Wiki](https://lostmediawiki.com/)** / [Forum](https://forums.lostmediawiki.com/)
+* [Internet Map](http://internet-map.net/) - Map of the Internet
+* [Wikiverse](http://wikiverse.io/) - 3D Wiki Visualizer
+* [DamnInteresting](https://www.damninteresting.com/) - Interesting Stories
+* [Fucking Homepage](https://fuckinghomepage.com/) - Daily Interesting Stuff Homepage
+* [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - Unused Video Game Content Research
+* [SongMeanings](https://songmeanings.com/) - Discover Song Meanings
+* [ColorNames](https://colornames.org/) - Help Name Colors
+* [House Creep](https://www.housecreep.com/) - Homes With A Curious or Criminal History
+* [UFO Casebook](https://www.ufocasebook.com/), [UFO Discovery](https://app.polymersearch.com/polymerexamples/UFO_Sightings) or [UFO Sighting Chart](https://i.redd.it/0l9ugv9kz4091.jpg) - UFO Sighting Lists / Tracking
+* [BFRO](https://bfro.net/) - Bigfoot Research Site
+* [TheShadowlands](http://theshadowlands.net/) - Oldschool Paranormal Research Site
+* [Spec Wiki](https://speculativeevolution.fandom.com/wiki/Main_Page) - Speculative Evolution Wiki
+* [FutureTimeline](https://www.futuretimeline.net/) - Timeline of Future Predictions
+* [Nested](http://orteil.dashnet.org/nested) - Explore the Universe in a File System
+* [Letters of Note](https://news.lettersofnote.com/) - Historical Letters
+* [Unsent Letter](https://unsent-letters.netlify.app/) - Read Random Unsent Letters
+* [Endless Summer Times](https://times.endlessvmmer.com/) - Retro Summer Vibe News Archive
+* [Roadside America](https://www.roadsideamerica.com/) - Roadside Attraction Index
+* [Roller Coaster Database](https://rcdb.com/) - World Roller Coaster Index
+* [SaveTheSounds](http://savethesounds.info/) - Museum of Endangered Sounds
+* [Pokémon Fossil Museum](https://my.matterport.com/show/?m=P9WCbyCBGBM) - Explore Pokémon Fossil Museum
+* [Pushing Pixels](https://www.pushing-pixels.org/fui/) or [Saji8k](https://www.saji8k.com/kit-fui/) - Imaginary UI from Movies
+* [Nestflix](https://nestflix.fun/) - Fictional Media in Media Database
+* [TheFoodPlace](https://thefoodplace.cafe/) - Food / Beverages from The Good Place
+* [Quarter Maester](https://quartermaester.info/) - Interactive Game of Thrones Map 
+* [Awesome Lego](https://github.com/ad-si/awesome-lego) - Lego Resource Index
+* [BrickLink Studio](https://www.bricklink.com/v2/build/studio.page) - Lego Building Software
+* [Brickit](https://brickit.app/) - Scan Lego Collection for Build Ideas
+* [Building Instructions](https://www.lego.com/en-us/service/buildinginstructions) - Download Lego Instructions
+* [Instructables](https://www.instructables.com/) - Free Projects / Crafts
+* [Toys from Trash](http://www.arvindguptatoys.com/toys.html) - Use Everyday Items to Make Toys 
+* [Fold N Fly](https://www.foldnfly.com/) - Paper Airplane Guides
+* [Learn Origami](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_origami) - Origami Examples / Tutorials
+* [Paper Plotter](https://felixboiii.github.io/paper-plotter/) - Create 3D Plots out of Paper
+* [Game a-b-street](https://github.com/a-b-street/abstreet) - Traffic Simulation
+* [Kalmany](https://www.kalmany.org/) - Mock Elections
+* [Moral Machine](https://www.moralmachine.net/) - Machine Intelligence Moral Decisions
+* [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/) - Vote on Different Trolley Problem Versions
+* [WhereShouldILive?](https://www.whereshouldilive.co/) - Find Out Where You Should Live
+* [Judge My Music](https://pudding.cool/2020/12/judge-my-spotify/) - Have an AI Judge Your Taste in Music
+* [Common Voice](https://www.saveriomorelli.com/commonvoice/) - Help Teach a Machine How to Talk 
+* [Tapology](https://www.tapology.com/) - Make MMA Fight Picks
+* [Michaelbach](https://michaelbach.de/ot/) - Optical Illusions
+* [Strobe Illusion](https://strobe.cool/) - Hallucination Illusion
+* [Fun Trivia](https://www.funtrivia.com/), [Factle](https://factle.app/), [BeanBeanBean](https://beanbeanbean.com/) or [Sporcle](https://www.sporcle.com/) - Trivia
+* [ARealMe](https://www.arealme.com/) - Quiz Collection
+* [Notpron](http://www.notpron.com/) - Worlds Hardest Internet Riddle
+* [OpenPsychometrics](https://openpsychometrics.org/) or [16 Personalities](https://www.16personalities.com/) - Personality Tests
+* [theOtaku](http://theotaku.com/quizzes) - Anime Personality Quizzes
+* [SexValues](https://sexvalues.github.io/) - Sexual Values Quiz
+* [Six Triangles](https://sixtriangles.github.io/), [9 Axes](https://9axes.github.io/), [8dreams](https://8dreams.github.io/), [ISideWith](https://www.isidewith.com/) or [8 Values](https://8values.github.io/) - Political Alignment Test
+* [HowNormalAmI?](https://www.hownormalami.eu/) - Face Judge A.I.
+* [OnThisDay](https://www.onthisday.com/) - What Happened on Specific Days
+* [What Happened in my Birthyear](http://whathappenedinmybirthyear.com/) - Find out what happened on your Birth Year
+* [You're Getting Old](http://you.regettingold.com/) - Age Perspective
+* [DeathDate.info](http://deathdate.info/), [DeathDate.org](https://www.deathdate.org/), [Fortunteller Deathdate](https://www.free-fortuneteller.com/deathdate), [DeathClock.com](http://deathclock.com/) or [Death-Clock](https://www.death-clock.org/) - Calculate Your Day of *DEATH* (how fun!)
+* [HeyFromTheFuture](https://heyfromthefuture.com/) - What People Wish they knew at your Age
+* [MyGrandmothersLingo](https://www.sbs.com.au/mygrandmotherslingo/) - Interactive Story
+* [Emoji to Scale](https://javier.xyz/emoji-to-scale/) - Emoji Size Scale
+* [Park My Spaceship](https://parkmyspaceship.com/) -  Spaceship Size Scale
+* [Cube Rule](https://cuberule.com/) - The Cube Rule of Food
+* [The GIF Pronunciation Page](http://www.olsenhome.com/gif/) - How to Pronouce "GIF"
+* [D-E-F-I-N-I-T-E-L-Y](https://d-e-f-i-n-i-t-e-l-y.com/) - How to Spell Definitely
+* [The Gyllenhaal Experiment](https://pudding.cool/2019/02/gyllenhaal/) - Common Pop Star Misspellings
+* [TheCrowBox](https://thecrowbox.com/) - Help Train Crows
+* [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](http://trackdollar.com/) - Dollar Tracking
+* [WordCount](https://www.vidarholen.net/contents/wordcount/) - Most Common Linux kernal source code Words
+* [DeletedCity](http://deletedcity.net/) - Geocities Visualizer 
+* [info.cern](http://info.cern.ch/) - First Website on the Internet
+
+***
+
+## ▷ Random
+
+* ⭐ **[Random Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_sites)** - Random Site Generators
+* ⭐ **[Copypasta Text](https://copypastatext.com/)** or [CopyPastaDB](https://copypastadb.com/) - Copypasta Databases
+* ⭐ **[TheOnion](https://theonion.com/)** or [DailyWrong](https://dailywrong.com/) - Fake News Articles
+* ⭐ **[PokeSmash](https://pokesmash.xyz/)** - Pokémon Smash or Pass
+* ⭐ **[Library of Babel](https://libraryofbabel.info/)** - Every Book of Past, Present, and Future
+* [Things to Do](https://randomthingstodo.com/), [TheZen](https://thezen.zone/) or [bored.solutions](https://bored.solutions/) - Activity Suggestions
+* [Drinking Game Zone](https://drinkinggamezone.com/) - Drinking Games Encyclopedia
+* [BoozeTube](https://boozetube.netlify.app/) - Turn Videos in Drinking Games
+* [rrrather](http://rrrather.com/) - Would You Rather
+* [Scattergories](https://swellgarfo.com/scattergories) - Scattergories List Generator
+* [LooksLikeYouNeedIceland](https://www.visiticeland.com/) or [JUST SCREAM!](https://justscream.baby/) - Scream Into the Universe 
+* [VentScape](https://www.ventscape.life/) or [PostSecretVoicemail](https://www.postsecretvoicemail.com/) - Speak into a Void
+* [Gizoogle](http://www.gizoogle.net/) - Google Shiznit
+* [Presence](https://presence.mrarich.com/) - Unwrap Presents Remotely
+* [WindowSwap](https://window-swap.com/window) or [VisualVacation](https://virtualvacation.us/window) - Open Random Windows
+* [Land Lines](https://lines.chromeexperiments.com/) - Explore Google Earth via Gestures
+* [Judgey](http://playjudgey.com/) - Judge A Book By Its Cover
+* [MoodLight](https://www.moodlight.org/) or [Defonic MoodLight](https://defonic.com/moodlight.html) - Turn Screen into Strobe / Mood Light
+* [HYDRA](https://hydra.ojack.xyz/) - Live Coding Networked Visuals / [Discord](https://discord.gg/ZQjfHkNHXC)
+* [see. hear. party.](http://www.seehearparty.com/) - List Things You Want to See... Party
+* [The Endless Acid Banger](http://www.vitling.com/toys/acid-banger/) - Endless Autogenerated Song
+* [Pokémon Fusion](https://pokemon.alexonsager.net/) - Fuse Pokémon
+* [Poke Palettes](https://pokepalettes.com/) - Pokémon Color Palettes
+* [The Editing Room](https://www.the-editing-room.com/) - Funny Abridged Movie Scripts
+* [Gen-Z AI](https://openai-quickstart-node-1.vercel.app/) - AI Generated Urban Dictionary Definitions
+* [LetMeGoogleThat](https://letmegooglethat.com/) or [GIYBF](http://giybf.com/) - Remind People that Google Exists
+* [AfterTheTone](https://afterthetone.com/) - Random Answering Machine Messages
+* [Talk Obama To Me](http://talkobamato.me/) - Make Obama Say Stuff
+* [Pink Trombone](https://dood.al/pinktrombone/) - Human Pitch Generator
+* [Purrli](https://purrli.com/) - Cat Purr Generator
+* [LongestPoemInTheWorld](http://www.longestpoemintheworld.com/) - Form Rhymes from Tweets
+* [The Nicest Place](https://thenicestplace.net/) - Internet Hugs
+* [InspiroBot](https://inspirobot.me/) - Inspirational Quote Generator
+* [Hypochondriapp](http://hypochondriapp.io/) - Get a Terrible Diagnosis
+* [Waifu Labs](https://waifulabs.com/) - Meet your Waifu 
+* [Satania](https://satania.moe/) - Satania Waifu / [GitHub](https://github.com/Pizzacus/satania.moe)
+* [Deep Fried Web](https://deepfriedweb.mschfmag.com/) - Deep Fry Web Pages
+* [Skynet](http://pierrepapierciseaux.net/.skynet/?lang=en) - View Websites like they're from the 90's
+* [CameronsWorld](https://www.cameronsworld.net/) - 90's Themed Website
+* [Worlds Highest Website](https://worlds-highest-website.com/) - Worlds Longest Website
+* [Classic GTA Sites](https://classicgtasites.com/) - Original GTA Site
+* [Space Jam 1996](https://www.spacejam.com/1996/) - Original Space Jam Site
+* [Mario Mayhem](https://www.mariomayhem.com/) - Mario Fansite
+* [ILoveJarJarBinks](https://ilovejarjarbinks.tripod.com/) - Jar Jar Binks Fansite
+* [User Inyerface](https://userinyerface.com/) - Worlds Most Annoying Website
+* [Terminal 00](https://angusnicneven.com/) or [angelangelangel](https://angelangelangelangelangel.com/) - Cursed Sites 
+* [TheMostAmazingWebsiteOnTheInternet](http://www.themostamazingwebsiteontheinternet.com/) - The Internets Best Website
+* [MotherFuckingWebsite](http://motherfuckingwebsite.com/), [BetterMotherFuckingWebsite](http://bettermotherfuckingwebsite.com/), [EvenBetterMotherFuckingWebsite](https://evenbettermotherfucking.website/) or [TheBestMotherFuckingWebsite](https://thebestmotherfuckingwebsite.co/)
+* [Objection!](https://objection.lol/) - Ace Attorney Objecting on Your Behalf
+* [UpJoke](https://upjoke.com/) - Jokes for Any Topic
+* [BilingualJokes](https://bilingualjokes.com/) - Multi-Language Jokes
+* [DadJokeCLI](https://github.com/Anupya/dadjoke-cli) - Get Dad Jokes in Command Line
+* [CSS Puns](https://saijogeorge.com/css-puns/) - CSS Puns
+* [Peter Answers](https://www.peteranswers.com/) - Create Fake Questions & Answers / [Tutorial](https://peteranswers.info/peter-answers-hack)
+* [April Fools Day On The Web](https://aprilfoolsdayontheweb.com/) - Find April Fools Pranks Played by Websites 
+* [PrankHotline](https://prankhotline.com/) or [Fake All](https://apps.apple.com/us/app/fake-all-call-chat-message/id1518594150) - Phone Pranks
+* [GeekPrank](https://geekprank.com/) - Windows Pranks
+* [Update Faker](https://updatefaker.com/) - Fake System Update Prank
+* [DownloadHardware](https://downloadhardware.com/) - Download Computer Hardware
+* [DownloadMoreRam](https://downloadmoreram.com/) - Download More Ram
+* [The Restart Page](http://www.therestartpage.com/) - Vintage Operating System Reboots
+* [Windows XP Error Worm](https://ybenbihi.github.io/windows-error-worm/) - Click & Drag Windows Errors 
+* [Hair on Screen](https://chrome.google.com/webstore/detail/hair-on-screen/egkikapjpndmjflbjjoondbihalgdjco) - Fake Hair on Screen Prank
+* [Hacktyper](https://hackertyper.net/), [Hoacks](https://hoacks.com/) or [Geektyper](https://geektyper.com/) - Fake Hacking Screen
+* [FOAAS](https://github.com/tomdionysus/foaas) - Automate Telling People to Fuck Off
+* [Busy Simulator](https://busysimulator.com/) - Pretend You're Busy
+* [Bouncing DVD Logo](https://www.bouncingdvdlogo.com/) - DVD Logo Screen
+* [Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator) - Pretend You Have Macbook Pro
+* [PointerPointer](https://pointerpointer.com/) - Get Your Pointer Pointed At
+* [Moments of Happiness](https://moments.epic.net/) - Animated WebGL Animals
+* [Pablo The Flamingo](https://pablotheflamingo.com/) - Party with Pablo
+* [The Pug in the Rug](https://puginarug.com/) - Watch the Pug be in the Rug
+* [MTA](http://mta.me/) - Create Sounds via NY Subway Movement
+* [Robotics.ovh](https://robotics.ovh/) - Robotics Dance
+* [StaggeringBeauty](http://www.staggeringbeauty.com/) - Party Worm (Warning: Contains Flashing Images)
+* [Slap Kirk](https://www.slapkirk.com/) - Slap Captain Kirk
+* [Slap Chris](https://slapchris.com/) - Slap Chris Rock
+* [Eel Slap](http://www.eelslap.com/) - Slap Guy with Eel
+* [Slide Ventura](https://slideventura.com/) - Ace Ventura Sliding Door Simulator
+* [CAT BOUNCE!](https://cat-bounce.com/) - Bounce Cats
+* [Long Doge Challenge](https://longdogechallenge.com/) - Worlds Longest Doge
+* [Endless Horse](http://endless.horse/) - Worlds Longest Horse
+* [Money printer go BRRR](https://brrr.money/) - Print it, baby!
+* [You wouldn't steal a website](https://youwouldntsteala.website/) - Steal a Website
+* [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) - Terminal Color Scripts
+* [Bad Licenses](https://github.com/ErikMcClure/bad-licenses) - Funny Open Source Licenses Index
+* [Vim Cubed](https://github.com/oakes/vim_cubed) - Generate Cube Vim Text Editor
+* [Fontbutts](https://fontbutts.netlify.app/) - Create Butts with Different Fonts
+* [Do not open the door](http://mexicans.eu/) - Don't you dare...
+* [Dial Up Sound](https://www.dialupsound.com/) - Dial Up Sounds
+* [RandomColour](http://www.randomcolour.com/) - Random Color
