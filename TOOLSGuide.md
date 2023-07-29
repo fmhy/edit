@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/y61Vs3N)** - For mobile users
+**[Table of Contents](https://ibb.co/sgkGHDK)** - For mobile users
 
 ***
 *** 
@@ -944,7 +944,6 @@
 ## ▷ Browsers
 
 * ⭐ **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - Privacy Focused Browsers 
-* ⭐ **[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_extensions) / [UserScripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_userscripts)** 
 * ⭐ **[Browser Startpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)** - Custom Browser Homepages 
 * [Browser Automation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - Automate Internet Tasks
 * [Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly) 
@@ -994,6 +993,10 @@
 * [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - User Agent Archive
 * [danmaku2ass](https://github.com/m13253/danmaku2ass) - Convert Niconico/AcFun/Bilibili Comments to ASS
 * [Gopher Proxy](https://gopherproxy.meulie.net/) - View Gopher Content in Browser
+
+***
+
+## ▷ [Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_extensions)
 
 ***
 
