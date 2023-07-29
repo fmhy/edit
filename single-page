@@ -948,8 +948,6 @@
 * [Sub-Zero](https://github.com/pannal/Sub-Zero.bundle) - Plex Subtitles
 * [Adjust Subs Like a Pro](https://graph.org/Adjust-subtitles-in-seconds-like-a-pro-07-17) - Subtitle Syncing Guide
 * [Subshifter](https://subshifter.bitsnbites.eu/), [subsync](https://github.com/sc0ty/subsync), [ffsubsync](https://github.com/smacke/ffsubsync), [autosubsync-mpv](https://github.com/joaquintorres/autosubsync-mpv), [Alass](https://github.com/kaegi/alass), [autosubsync](https://github.com/oseiskar/autosubsync) or [subslider.js](https://github.com/micheleb/subslider.js) / [2](https://micheleb.github.io/subslider.js/) - Sync Subtitles 
-* [SubtitleDLbot](https://t.me/SubtitleDLbot) or [subtitle_dl_bot](https://t.me/subtitle_dl_bot) - Telegram Subtitles Bot 
-* [MuxedBot](https://t.me/MuxedBot) - Merge Subtitles / Telegram
 * [vlsub](https://github.com/exebetche/vlsub) - VLC Subtitle Download
 * [SRT2PRXML](https://srt2prxml.chdo.xyz/) - SRT to Premiere Pro XML Converter
 * [asstosrt-wasm](https://sorz.github.io/asstosrt-wasm/) - ASS / SSA to SRT Subtitles Converter
@@ -2463,7 +2461,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **Jellyfin Tools** - /r/JellyfinShares / [Anime Plugin](https://github.com/jellyfin-archive/jellyfin-plugin-anime) / [Desktop Client](https://github.com/jellyfin/jellyfin-media-player) / [Android](https://github.com/jarnedemeulemeester/findroid) / [Last.fm](https://github.com/jesseward/jellyfin-plugin-lastfm) / [Playlist Export](https://github.com/pyluyten/jellyfin_playlist_exporter) / [Customization Guide](https://youtu.be/F85qMyBeiDI) / [Themes](https://jellyfin.org/docs/general/clients/css-customization.html#community-themes) / [Minimal Skin](https://github.com/prayag17/JellySkin) / [Setup Guide](https://www.fuzzygrim.com/posts/media-server) / [User Requests](https://github.com/Fallenbagel/jellyseerr)
 * ⭐ **[Auto Torrent Tools List](https://redd.it/hbwnb2)**, [Prowlarr](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
-* [Organizr](https://github.com/causefx/Organizr), [Muximux](https://github.com/mescon/Muximux) or [Homarr](https://github.com/ajnart/homarr) - Media Server Managers
+* [Organizr](https://github.com/causefx/Organizr) or [Homarr](https://github.com/ajnart/homarr) - Media Server Managers
 * [Emby](https://emby.media/) + [/r/EmbyShare](https://www.reddit.com/r/EmbyShare/)
 * [Universal Media Server](https://www.universalmediaserver.com/)
 * [OSMC](https://osmc.tv/)
@@ -2474,7 +2472,6 @@ Add the following commands to a search to manually scrape each site.
 * [Gerbera](https://gerbera.io/)
 * [Homehost](https://github.com/ridhwaans/homehost)
 * [Serviio](https://www.serviio.org/)
-* [MediaBox](https://apps.microsoft.com/store/detail/mediabox/9WZDNCRFJJK7?hl=en-us&gl=us)
 * [Dim](https://github.com/Dusk-Labs/dim)
 * [WatchIt](https://github.com/ZorrillosDev/watchit-app)
 * [Rygel](https://wiki.gnome.org/Projects/Rygel)
@@ -3206,7 +3203,7 @@ Add the following commands to a search to manually scrape each site.
 
 ⭐ **[OBS](https://obsproject.com/)** / [Guide](https://youtu.be/7fuFGDFDzUY)
 
-[Bandicam](https://github.com/nbats/FMHYedit/blob/main/base64.md#bandicam), [FFmpeg](https://ffmpeg.org/), [Nchsoftware](https://www.nchsoftware.com/capture/), [RecordMyDesktop](https://enselic.github.io/recordmydesktop/), [SRERecorder](https://srecorder.com/), [CamStudio](https://camstudio.org/), [EZVid](https://www.ezvid.com/), [Kap](https://getkap.co/), [oCam](https://ohsoft.net/eng/ocam/download.php?cate=1002), [WebMCam](https://github.com/michaelmob/WebMCam), [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/), [Kalmuri](https://global.kilho.net/kalmuri/), [Wink](https://www.debugmode.com/wink/), [Vileo](https://lukasbach.github.io/vileo/), [Shar.ec](https://shar.ec/), [Scre.io](https://scre.io/), [Screen Recorder](https://github.com/akon47/ScreenRecorder), [ScreenREC](https://screen-rec.vercel.app/), [RecordCast](https://www.recordcast.com/), [RecordScreen](https://recordscreen.io/), [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG), [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder), [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/)
+[Bandicam](https://github.com/nbats/FMHYedit/blob/main/base64.md#bandicam), [FFmpeg](https://ffmpeg.org/), [Nchsoftware](https://www.nchsoftware.com/capture/), [RecordMyDesktop](https://enselic.github.io/recordmydesktop/), [SRERecorder](https://srecorder.com/), [CamStudio](https://camstudio.org/), [Kap](https://getkap.co/), [oCam](https://ohsoft.net/eng/ocam/download.php?cate=1002), [WebMCam](https://github.com/michaelmob/WebMCam), [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/), [Kalmuri](https://global.kilho.net/kalmuri/), [Wink](https://www.debugmode.com/wink/), [Vileo](https://lukasbach.github.io/vileo/), [Shar.ec](https://shar.ec/), [Scre.io](https://scre.io/), [Screen Recorder](https://github.com/akon47/ScreenRecorder), [ScreenREC](https://screen-rec.vercel.app/), [RecordCast](https://www.recordcast.com/), [RecordScreen](https://recordscreen.io/), [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG), [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder), [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/)
 
 **Browser Extensions**
 
@@ -4036,11 +4033,16 @@ Add the following commands to a search to manually scrape each site.
 
 **Programs**
 
-[Olive](https://www.olivevideoeditor.org/), [VirtualDub2](https://sourceforge.net/projects/vdfiltermod/), [LosslessCut](https://github.com/mifi/lossless-cut), [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Shotcut](https://shotcut.org/), [EZVid](https://www.ezvid.com/), [OpenShot](https://www.openshot.org/), [Shotcut](https://www.shotcut.org/), [HitFilm](https://fxhome.com/product/hitfilm), [kdenlive](https://kdenlive.org/en/), [Lightworks](https://lwks.com/), [Windows Movie Maker](https://www.majorgeeks.com/files/details/windows_movie_maker.html) / [2](https://archive.org/details/MM2.1And2.6_201903) / [3](https://archive.org/details/mm26enu_202002), [SimMusicoletpleMovieMaking](https://simplemoviemaking.com/), [VSDC](http://www.videosoftdev.com/), [Auto-Editor](https://auto-editor.com/) (CLI), [MoviePy](https://zulko.github.io/moviepy/) (Python), [avidemux](https://avidemux.sourceforge.net/), [GOMlab](https://gomlab.com/), [Remotion](https://www.remotion.dev/) / [GitHub](https://github.com/remotion-dev/remotion), [Microsoft 3D Movie Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker), [MiniTool](https://moviemaker.minitool.com/), [Moovly](https://www.moovly.com/), [FXHome](https://fxhome.com/), [Adobe Premiere Rush](https://www.adobe.com/products/premiere-rush.html), [ssemble](https://www.ssemble.com/)
+* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)**
+* ⭐ **[Shotcut](https://shotcut.org/)**
+
+[Olive](https://www.olivevideoeditor.org/), [VirtualDub2](https://sourceforge.net/projects/vdfiltermod/), [LosslessCut](https://github.com/mifi/lossless-cut), [EZVid](https://www.ezvid.com/), [OpenShot](https://www.openshot.org/), [kdenlive](https://kdenlive.org/en/), [Lightworks](https://lwks.com/), [VSDC](http://www.videosoftdev.com/), [Auto-Editor](https://auto-editor.com/) (CLI), [MoviePy](https://zulko.github.io/moviepy/) (Python), [avidemux](https://avidemux.sourceforge.net/), [Remotion](https://www.remotion.dev/) / [GitHub](https://github.com/remotion-dev/remotion)
 
 **Online Editors**
 
-[Clideo](https://clideo.com/), [Kapwing](https://www.kapwing.com/), [InVideo](https://invideo.io/), [Biteable](https://biteable.com/), [Mastershot](https://mastershot.app/), [Panzoid](https://panzoid.com/), [KeepChangeIt](https://keepchangeit.com/), [veed.io](https://www.veed.io/tools/video-editor), [FastReel](https://www.fastreel.com/), [Convert2Video](https://convert2video.com/), [Video Cutter](https://video-cutter-js.com/), [FlexClip](https://www.flexclip.com/), [Vididoo](https://vididoo.vercel.app/), [VideoToolbox](https://www.videotoolbox.com/), [VideoCandy](https://videocandy.com/), [Animoto](https://animoto.com/), [Flixier](https://editor.flixier.com/), [descript](https://www.descript.com/)
+* ⭐ **[Mastershot](https://mastershot.app/)**
+
+[Clideo](https://clideo.com/), [Kapwing](https://www.kapwing.com/), [InVideo](https://invideo.io/), [Panzoid](https://panzoid.com/), [KeepChangeIt](https://keepchangeit.com/), [veed.io](https://www.veed.io/tools/video-editor), [Convert2Video](https://convert2video.com/), [Video Cutter](https://video-cutter-js.com/), [FlexClip](https://www.flexclip.com/), [Vididoo](https://vididoo.vercel.app/), [VideoToolbox](https://www.videotoolbox.com/), [VideoCandy](https://videocandy.com/), [Animoto](https://animoto.com/), [Flixier](https://editor.flixier.com/), [descript](https://www.descript.com/)
 
 ***
 
@@ -4072,8 +4074,8 @@ Add the following commands to a search to manually scrape each site.
 
 **Video Player Tools**
 
-* MPV Tools - [Tools](https://github.com/VideoPlayerCode/mpv-tools) / [Scripts](https://github.com/mpv-player/mpv/wiki/User-Scripts) / [Clip Tool](https://github.com/Ajatt-Tools/videoclip) / [WebM Tool](https://github.com/ekisu/mpv-webm) / [Torrent Stream](https://github.com/noctuid/mpv-webtorrent-hook) / [Plugin Manager](https://github.com/Nudin/mplug) / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [Alt UI](https://github.com/cyl0/ModernX), [2](https://github.com/Zren/mpv-osc-tethys), [2](https://github.com/tomasklaen/uosc) / [Context Menu](https://gitlab.com/carmanaught/mpvcontextmenu) / [WebUI Controller](https://github.com/open-dynaMIX/simple-mpv-webui) / [Sub Navigation](https://github.com/perogiue/mpv-scripts/releases/) / [Sub Sync](https://github.com/joaquintorres/autosubsync-mpv) / [SponsorBlock](https://github.com/po5/mpv_sponsorblock) / [Config Guide](https://rentry.co/MPV-Config), [2](https://kokomins.wordpress.com/2019/10/14/), [3](https://hooke007-github-io.translate.goog/unofficial/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) / [File Associations](https://github.com/shinchiro/mpv-packaging) / [Play With MPV](https://greasyfork.org/en/scripts/416271), [2](https://github.com/woodruffw/ff2mpv) / [Thumbnails](https://github.com/po5/thumbfast) / [FidelityFX](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5)
-* VLC Tools - [Resources](https://github.com/mfkl/awesome-vlc) / [Stream Downloads](https://rentry.co/vlcstream) / [Browser Control](https://mybrowseraddon.com/remote-vlc-player.html) / [Sub Downloader](https://github.com/exebetche/vlsub) / [OpenWithVLC](https://addons.mozilla.org/en-US/firefox/addon/open-with-vlc/) / [Slow Seek Fix](https://redd.it/os6f1q) / [Skins](https://rentry.co/VLC-skin)
+* MPV Tools - [Scripts](https://github.com/mpv-player/mpv/wiki/User-Scripts) / [Clip Tool](https://github.com/Ajatt-Tools/videoclip) / [WebM Tool](https://github.com/ekisu/mpv-webm) / [Torrent Stream](https://github.com/noctuid/mpv-webtorrent-hook) / [Plugin Manager](https://github.com/Nudin/mplug) / [Frontends](https://github.com/mpv-player/mpv/wiki/Applications-using-mpv) / [Alt UI](https://github.com/cyl0/ModernX), [2](https://github.com/Zren/mpv-osc-tethys), [2](https://github.com/tomasklaen/uosc) / [Context Menu](https://gitlab.com/carmanaught/mpvcontextmenu) / [WebUI Controller](https://github.com/open-dynaMIX/simple-mpv-webui) / [Sub Navigation](https://github.com/perogiue/mpv-scripts/releases/) / [Sub Sync](https://github.com/joaquintorres/autosubsync-mpv) / [SponsorBlock](https://github.com/po5/mpv_sponsorblock) / [Config Guide](https://rentry.co/MPV-Config), [2](https://kokomins.wordpress.com/2019/10/14/), [3](https://hooke007-github-io.translate.goog/unofficial/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) / [Play With MPV](https://greasyfork.org/en/scripts/416271), [2](https://github.com/woodruffw/ff2mpv) / [Thumbnails](https://github.com/po5/thumbfast) / [FidelityFX](https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5)
+* VLC Tools - [Resources](https://github.com/mfkl/awesome-vlc) / [Sub Downloader](https://github.com/exebetche/vlsub) / [Slow Seek Fix](https://redd.it/os6f1q) / [Skins](https://rentry.co/VLC-skin)
 * [Video Player Codecs](http://www.codecguide.com/download_kl.htm)
 * [Windows Media Player Skins](https://web.archive.org/web/20100827223732/http://windows.microsoft.com/en-US/windows/downloads/windows-media-player/skins?T1=all) / [2](https://wmpskinsarchive.neocities.org/)
 
@@ -11395,7 +11397,7 @@ Software
 ***
 ***
 
-**[Table of Contents](https://ibb.co/y61Vs3N)** - For mobile users
+**[Table of Contents](https://ibb.co/sgkGHDK)** - For mobile users
 
 ***
 *** 
@@ -12335,7 +12337,6 @@ Software
 ## ▷ Browsers
 
 * ⭐ **[Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - Privacy Focused Browsers 
-* ⭐ **[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_extensions) / [UserScripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_userscripts)** 
 * ⭐ **[Browser Startpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_startpages)** - Custom Browser Homepages 
 * [Browser Automation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_automation_tools) - Automate Internet Tasks
 * [Firefox Keyboard Shortcuts](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly) 
@@ -12385,6 +12386,10 @@ Software
 * [WhatIsMyBrowser](https://developers.whatismybrowser.com/) - User Agent Archive
 * [danmaku2ass](https://github.com/m13253/danmaku2ass) - Convert Niconico/AcFun/Bilibili Comments to ASS
 * [Gopher Proxy](https://gopherproxy.meulie.net/) - View Gopher Content in Browser
+
+***
+
+## ▷ [Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_extensions)
 
 ***
 
@@ -15289,7 +15294,6 @@ Twitch Stream Tracker
 * [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-Claim Free Epic, Amazon, and GOG Games
 * [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) or [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Auto-Claim Free Epic Games
 * [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [SteamGifts](https://www.steamgifts.com/) / [Auto Join](https://chrome.google.com/webstore/detail/autojoin-for-steamgifts/bchhlccjhoedhhegglilngpbnldfcidc?hl=en), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - Steam Games
-* [Games Free Today](https://gamesfree.today/) - Games
 * [FreeGames.codes](https://freegames.codes/) - Games / [Android](http://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes)
 * [IndieGala](https://freebies.indiegala.com/) - Games
 * [/r/freegames](https://www.reddit.com/r/freegames/) - Games
@@ -15306,23 +15310,17 @@ Twitch Stream Tracker
 * [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - APKs
 * [AppsFree](https://play.google.com/store/apps/details?id=com.appsfree.android) - APKs
 * [InstlApp](https://apps.apple.com/us/app/instlapp/id1502777382) - APKs
-* [PlaystoreSales](https://www.playstoresales.com/apps/free-apps/) - APKs
 * [AppSumo Freebies](https://appsumo.com/tools/freebies/) - Apps
-* [spamverse](https://t.me/spamverse) or [FreemiumBox](https://t.me/freemiumbox) - Giveaways and Freebies
-* [AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) - Products / Services
+* [FreemiumBox](https://t.me/freemiumbox) - Giveaways and Freebies
 * [FreeCycle](https://www.freecycle.org/) - People Giving Away Free Stuff
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
-* [Rivetedlit](https://rivetedlit.com/) - Books
 * [Dolly Parton’s Imagination Library](https://imaginationlibrary.com/) - Book Gifting Program (For Children)
 * [FreeSteamOffers_Bot](https://t.me/FreeSteamOffers_Bot/) - Telegram
 * [/r/FREE](https://reddit.com/r/FREE/)
 * [/r/eFreebies](https://reddit.com/r/eFreebies)
 * [/r/FreeGameFindings](https://reddit.com/r/FreeGameFindings) 
 * [/r/udemyfreebies](https://reddit.com/r/udemyfreebies) 
-* [/r/FREECoursesEveryday](https://reddit.com/r/FREECoursesEveryday) 
 * [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS)  
-* [/r/bookdownloads](https://reddit.com/r/bookdownloads/)
-* [/r/KindleFreebies](https://reddit.com/r/KindleFreebies/)
 * [/r/Freegamestuff](https://reddit.com/r/Freegamestuff)
 
 ***
@@ -18919,92 +18917,90 @@ Twitch Stream Tracker
 
 * ⭐ **[Guia de Pirataria para Iniciantes](https://rentry.org/PiracyBG-PTBR)** - Portuguese Beginners Guide to Piracy
 * ⭐ **[Portuguese Piracy Sites](https://rentry.org/PortuguesePiracySites)** - Portuguese Piracy Sites
-* [Invetexto](https://www.invertexto.com/) - Multiple Online Tools
-* [SAPO](https://www.sapo.pt/) - Search
-* [LegendaOfficial](http://legendaoficial.net/), [LegendasDivx](https://www.legendasdivx.pt/), [Legendas.tv](http://legendas.tv/), [Legendas](https://legendas.co/), [Legendei](https://legendei.top/), [Legendas.dev](https://legendas.net/) or [Leganda-Zone](https://www.legendas-zone.org/) - Subtitles
-* [legendasbrasil](https://legendasbrasil.org/) - Subtitle Search App
-* [MD Saude](https://www.mdsaude.com/) or [Tua Saude](https://www.tuasaude.com/) - Health News
-* [Dieta Emagrece](https://dietaemagrece.com.br/) or [Beleza e Saude](https://belezaesaude.com/) - Health
+* [Invertexto](https://www.invertexto.com) - Multiple Online Tools
+* [SAPO](https://www.sapo.pt) - Search
+* [Legenda Oficial](http://legendaoficial.net), [LegendasDivx](https://www.legendasdivx.pt), [Legendas.TV](http://legendas.tv), [Legendas](https://legendas.co), [Legendei](https://legendei.top), [Legendas.net](https://legendas.net) or [Legendas Zone](https://www.legendas-zone.org) - Subtitles
+* [Legendas Brasil](https://legendasbrasil.org) - Subtitle Search App
+* [MD.Saúde](https://www.mdsaude.com) or [Tua Saúde](https://www.tuasaude.com) - Health News
+* [Dieta Emagrece](https://dietaemagrece.com.br) or [Beleza e Saúde](https://belezaesaude.com) - Health
 * [NONIOBlocker](https://github.com/DevTiagoCruz/NONIOBlocker) - News Site Adblocker
 * [Educa Mais Brasil](https://www.educamaisbrasil.com.br/enem/guia-enem) - ENEM Study Material
-* [Universia](https://www.universia.net/) - Portuguese University Search
+* [Universia](https://www.universia.net) - Portuguese University Search
 * [Flutterando](https://github.com/Flutterando/roadmap) - Flutter Guides
-* [Uol](https://escolakids.uol.com.br/) - Kids Learning
+* [Escola Kids](https://escolakids.uol.com.br) - Kids Learning
 * [Portuguese Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_browser_games)
-* [Atari2600](http://www.atari2600.com.br/) - Browser Emulator
-* [Racha Cuca](https://rachacuca.com.br/) - Puzzles / Trivia
-* [plagiarisma](http://plagiarisma.net/pt/) - Plagiarism Checker
-* [nomesdefantasia](https://www.nomesdefantasia.com/) - Fantasy Name Generator
-* [CatalogoApp](https://catalogoapp.mobi/) - Portuguese Product Catalog
-* [dicionariompb](https://dicionariompb.com.br/) - Top Song Charts
-* [Jogorama](https://jogorama.com.br/) - Game Index / Tips
-* [Arquivo.pt](https://arquivo.pt/) - History / Sociology / Linguistics Archives
+* [Atari2600](https://www.atari2600.com.br) - Browser Emulator
+* [Racha Cuca](https://rachacuca.com.br) - Puzzles / Trivia
+* [Plagiarisma](https://plagiarisma.net/pt/) - Plagiarism Checker
+* [Gerador de Nomes de Fantasia](https://www.nomesdefantasia.com) - Fantasy Name Generator
+* [CatálogoApp](https://catalogoapp.mobi) - Portuguese Product Catalog
+* [Dicionário MPB](https://dicionariompb.com.br) - Top Song Charts
+* [Jogorama](https://jogorama.com.br) - Game Index / Tips
+* [Arquivo.pt](https://arquivo.pt) - History / Sociology / Linguistics Archives
 
 ## ▷ Downloading
 
-* [Brazil Drive](https://discord.gg/5Bmu7AsEEN) - Video / Audio / Software / Games / Books / Anime
-* [ReidOSTorrents](https://reidostorrents.com/) - Video / Audio / Software / Games / Books
-* [Os Reformados](http://osreformados.com/) - Video / Audio / Magazines
-* [baixarseriesmp4](https://baixarseriesmp4.xyz/) - Movies / TV / Anime
-* [animestotais](https://www.animestotais.xyz/) - Movies / TV / Anime
-* [Anipakku](https://anipakku.blogspot.com/) - Anime / [Discord](https://discord.com/invite/Whu6RV9Gad)
+* [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Software / Games / Books
+* [Os Reformados](https://osreformados.com) - Video / Audio / Magazines
+* [Baixar Séries MP4](https://baixarseriesmp4.eu) - Movies / TV / Anime
+* [Animes Totais](https://www.animestotais.xyz) - Movies / TV / Anime
+* [Anipakku](https://anipakku.blogspot.com) - Anime / [Discord](https://discord.com/invite/Whu6RV9Gad)
 * [Series Empire](https://seriesempire.com/) - TV
-* [BiaxarSomGospel](https://www.baixarsomgospel.org/) - Gospel Music
-* [Gendou](http://gendou.com/) - Anime OSTs
-* [baixarvideo](https://baixarvideo.com.br/) - Portuguese Video Downloader
-* [OnlineCursoGatuitos](https://onlinecursosgratuitos.com/) - Courses
-* [escolaeducacao](https://escolaeducacao.com.br/estude-gratis/) - Courses
-* [wreducacional](https://www.wreducacional.com.br/) - Courses
-* [Mundo Ubuntu](https://www.mundoubuntu.com.br/) - Courses
+* [Baixar SOM Gospel](https://www.baixarsomgospel.org) - Gospel Music
+* [Gendou](http://gendou.com) - Anime OSTs
+* [Baixar Vídeo](https://baixarvideo.com.br) - Portuguese Video Downloader
+* [Online Cursos Gatuitos](https://onlinecursosgratuitos.com) - Courses
+* [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
+* [WR Educacional](https://www.wreducacional.com.br) - Courses
+* [Mundo Ubuntu](https://www.mundoubuntu.com.br) - Courses
 
 ## ▷ Torrenting
 
-* [ReidOSTorrents](https://reidostorrents.com/) - Video / Audio / Software / Games / Books
-* [Legende](https://legendei.net/) - Movies / TV
-* [MegaTorrents](https://megatorrents.co/) - Movies / TV
-* [TugaFlix]( https://tugaflix.best/) - Movies / TV
-* [SuperFlix](https://superflix.ac/) - Movies / TV
-* [torrentdosfilmes](https://torrentdosfilmes.se/) - Movies / TV
-* [Legandas](https://www.legendas.co/) - Movies / TV
-* [Comando](https://comando.la/) - Movies / TV
-* [DownFilmes](https://downfilmes.org/) - Movies
-* [FilmesMega](https://filmesmega.co/) - Movies
-* [FilmesPicos](http://www.filmesepicos.com/) - Movies
-* [TopDezFilmes](https://topdezfilmes.de/) - Movies
-* [Downloadcult](http://downloadcult.org/) - "Cult" Movies
-* [Anirrent](https://anirrent.fansubs.com.br/) - Anime
-* [Keroseed](https://www.keroseed.com/) - Anime
-* [AnskTracker](https://www.ansktracker.net/) - Anime WebIRC Tracker
-* [SuaMusica](https://www.suamusica.com.br/) - MP3
-* [Download Cursos](https://downloadcursos.top/) - Courses
-* [timaterial](https://timaterial.blogspot.com/) - Courses
+* [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Software / Games / Books
+* [Legendei](https://legendei.net/) - Movies / TV
+* [Mega Torrents](https://megatorrents.co) - Movies / TV
+* [tugaflix]( https://tugaflix.best) - Movies / TV / Use Adblock
+* [Torrent dos Filmes](https://torrentdosfilmes.se) - Movies / TV
+* [Legendas](https://www.legendas.co) - Movies / TV
+* [Comando](https://comando.la) - Movies / TV
+* [DownFilmes](https://downfilmes.org) - Movies
+* [Filmes Mega](https://filmesmega.co) - Movies
+* [Filmes Épicos](http://www.filmesepicos.com) - Movies
+* [Top Dez Filmes](https://topdezfilmes.de) - Movies
+* [Download Cult](http://downloadcult.org) - "Cult" Movies
+* [Anirrent](https://anirrent.fansubs.com.br) - Anime
+* [Keroseed](https://www.keroseed.com) - Anime
+* [Anime No Sekai](https://www.ansktracker.net) - Anime WebIRC Tracker
+* [Sua Música](https://www.suamusica.com.br) - MP3
+* [Download Cursos Grátis](https://downloadcursos.top) - Courses
+* [Livros e Cursos Downloada](https://timaterial.blogspot.com) - Courses
 
 ## ▷ Streaming
 
-* [WarezCDN](https://warezcdn.com/) - Movies / TV / Anime / API
-* [Os Teus Filmes Tuga](https://osteusfilmestuga.fun/) - Movies / TV / Anime / Cartoons
-* [Tugaflix](https://tugaflix.best/) Movies / TV / Use Adblock
-* [Bombozila](https://bombozila.com/) - Movies / TV
-* [LibreFlix](https://libreflix.org/) - Movies / TV
-* [Vizer.tv](https://vizer.tv/) - Movies/ TV / Anime
-* [GoFilmes](https://gofilmes.me/hd/) - Movies / TV
-* [supertela](https://supertela.co/) - Movies / TV / Anime
-* [NetMovies](http://www.netmovies.com.br/) - Movies / TV
-* [querofilmehd](https://www.querofilmeshd.ac/) - Movies / TV
+* [WarezCDN](https://warezcdn.com) - Movies / TV / Anime / API
+* [Os Teus Filmes Tuga](https://osteusfilmestuga.fun) - Movies / TV / Anime / Cartoons
+* [tugaflix](https://tugaflix.best) Movies / TV / Use Adblock
+* [Bombozila](https://bombozila.com) - Movies / TV
+* [Libreflix](https://libreflix.org) - Movies / TV
+* [Vizer](https://vizer.tv) - Movies / TV / Anime
+* [GoFilmes](https://gofilmes.me/m/) - Movies / TV
+* [SuperTela](https://supertela.gripe) - Movies / TV / Anime
+* [NetMovies](https://www.netmovies.com.br) - Movies / TV
+* [Quero Filmes HD](https://querofilmeshd.top/) - Movies / TV
 * [TopFlix](https://topflix.vc) - Movies / TV / Requires Login
-* [AnimeFire](https://animefire.net/) - Anime
-* [animeszone](https://animeszone.net/) - Anime
-* [NewZect](https://newzect.com/) - Asian Drama
-* [99 Media](https://www.99.media/pt/) - Documentaries
-* [verfutebol](https://verfutebol.net/) - Live Sports
-* [OLHosnaTV](http://www.olhosnatv.com.br/) - Live TV / Sports
-* [Aovivo](https://aovivo.pro/tv/) - Live TV / Sports
-* [MegaCanais](https://megacanais.com/) - Live TV / Sports
-* [CXTV](https://www.cxtv.com.br/) - Live TV
-* [TVGazeta](https://www.tvgazeta.com.br/aovivo/) - Live TV
-* [cultura](https://cultura.uol.com.br/aovivo/) - Live TV
-* [IPTVBrasil](https://iptvbrasilapk.com/) or [CanalOnline](https://play.google.com/store/apps/details?id=dev.devmatrixcode.canalonline) - IPTV Player
-* [Documentarios ](http://www.documentarios.blog.br/) - Documentaries
+* [AnimeFire](https://animefire.net) - Anime
+* [Animes Zone](https://animeszone.net) - Anime
+* [NewZect](https://newzect.com) - Asian Drama
+* [99](https://www.99.media/pt/) - Documentaries
+* [Ver Futebol TV](https://verfutebol.online) - Live Sports
+* [Olhos na TV](https://www.olhosnatv.com.br) - Live TV / Sports
+* [Assistir TV Online Grátis](https://aovivo.pro/onde/) - Live TV / Sports
+* [Mega Canais](https://megacanais.com/aovivo/) - Live TV / Sports
+* [CXTv](https://www.cxtv.com.br) - Live TV
+* [TV Gazeta](https://www.tvgazeta.com.br/aovivo/) - Live TV
+* [TV Cultura](https://cultura.uol.com.br/aovivo/) - Live TV
+* [IPTV Brasil](https://iptvbrasilapk.com) or [CanalOnline](https://play.google.com/store/apps/details?id=dev.devmatrixcode.canalonline) - IPTV Player
+* [Manic Documentários](http://www.documentarios.blog.br) - Documentaries
 * [CursoemVideo](https://www.cursoemvideo.com/) - Courses
 * [Kultivi](https://app.kultivi.com/) - Courses
 * [PrimeCursos](https://www.primecursos.com.br/) - Courses
@@ -19120,7 +19116,7 @@ Twitch Stream Tracker
 * [NomesBiblicos](https://www.nomesbiblicos.com/) - Biblical Name History
 * [estudos-biblicos](http://estudos-biblicos.net/), [2](https://estudos-biblicos.blogspot.com/) - Bible Studies
 * [apologeta](https://www.apologeta.com.br/) - Bible Commentary
-* [Biblia](https://biblia.com.br/) or [iguga](https://www.iguga.org/) - Biblical Dictionary
+* [Biblia](https://biblia.com.b) or [iguga](https://www.iguga.org) - Biblical Dictionary
 * [Portuguese Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_recipes)
 
 ***
