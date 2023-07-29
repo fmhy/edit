@@ -141,7 +141,7 @@
 * [ChatGPT-History](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Prompt Management Extensions
 * [/r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/) or [/r/GPT_Jailbreaks](https://www.reddit.com/r/GPT_jailbreaks/) - GPT Jailbreak Subreddits
 * [Chub](https://www.chub.ai/) or [Character Creator](https://oobabooga.github.io/character-creator) - Character Prompts
-* [Img-Resources](https://rentry.org/lmg-resources) - LLM CharacterResources
+* [Img-Resources](https://rentry.org/lmg-resources) - LLM Character Resources
 
 ***
 ***
