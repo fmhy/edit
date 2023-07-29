@@ -311,8 +311,8 @@
 ## ▷ Special Interest
 
 * ⭐ **[Cookbooks / Recipes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_food)** - Cookbook and Recipe Sites
-* ⭐ **[do_k_ument](https://github.com/nbats/FMHYedit/blob/main/base64.md#do_k_ument)** - Survival, Forging, Smithing, Weapons Training, Field Manuals
-* ⭐ **[Wikiquote](https://en.wikiquote.org)**, **[Quote Collections](https://redd.it/dlao3b)**, [Wisdom of Chopra](http://www.wisdomofchopra.com/), [SearchQuotes](https://www.searchquotes.com/), [Stoic Quotes](https://stoic-quotes.com/), [QuotationsPage](http://www.quotationspage.com/), [BrainyQuote](https://www.brainyquote.com/), [AZQuotes](https://www.azquotes.com/) or [QuoteGarden](https://www.quotegarden.com/) - Quotes
+* ⭐ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)** - Survival Guidebooks
+* ⭐ **[Quote Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_quotes)** - Search Famous Quotes
 * [Short Stories](https://short-stories.co/) or [Library of Short Stories](https://www.libraryofshortstories.com/) - Short Stories
 * [Everything2](https://everything2.com/) - Short Stories / Poetry / Writing Help
 * [Poetry Foundation](https://www.poetryfoundation.org/), [PoemHunter](https://www.poemhunter.com/) or [Poetry.com](https://www.poetry.com/) - Poetry
@@ -325,8 +325,6 @@
 * [PimpMyMind](https://pimpmymind.net/) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - Self-Help
 * [Optimize](https://www.heroic.us/optimize) - Self-Improvement Notes / Lessons
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
-* [Survivor Library](http://www.survivorlibrary.com/), [PrepperCollective](https://t.me/PrepperCollective) / [Index](https://t.me/PrepperCollectiveIndex), [OffGridDownload](https://t.me/offgriddownload), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/) or [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - Survival
-* [SurvivalManual](https://ligi.de/) or [The Preparedness Encyclopedia](https://redd.it/muc9ff) - Survival Guides / [GitHub](https://github.com/ligi/SurvivalManual)
 * [Appropedia](https://www.appropedia.org/) - Sustainability Wiki
 * [Auto-Brochures.com](https://www.auto-brochures.com/) - Auto Brochures
 * [QSL](https://github.com/nbats/FMHYedit/blob/main/base64.md#qsl) - Ham Radio & Antenna Books
