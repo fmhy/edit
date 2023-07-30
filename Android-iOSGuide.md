@@ -534,6 +534,7 @@
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** /  [App](https://forum.mobilism.org/app/)
 * ⭐ **[FileCR](https://filecr.com/android/)**
 * ⭐ **[Androeed](https://androeed.store/)** / [Telegram](https://t.me/androeed_store)
+* ⭐ **[Modyolo](https://modyolo.com/)**
 * ⭐ **[/r/ApkApps Mega](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)
 * [TeamOS](https://www.teamos.xyz/)
 * [nsane.down](https://nsaneforums.com/)
@@ -548,10 +549,8 @@
 * [APK Home](https://apkhome.io/)
 * [DL King](http://dl.king2net.com/soft%20android/)
 * [Modding United](https://moddingunited.xyz/) / [Telegram](https://telegram.me/allapkforfree)
-* [APKdownload](https://apkdownload.com/)
 * [AKMods](https://www.akmods.in/)
 * [APKKit](https://apkkit.com/)
-* [modyolo](https://modyolo.com/)
 * [Aero Apps](https://t.me/aerolla) - Modded Social Media Apps
 
 ***
