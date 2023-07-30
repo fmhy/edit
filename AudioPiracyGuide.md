@@ -107,6 +107,7 @@
 * ⭐ **[Radio Garden](https://radio.garden/)** - Worldwide Radio Globe
 * ⭐ **[Drive n Listen](https://drivenlisten.com/)** or [Drive & Listen](https://driveandlisten.herokuapp.com/)  - Radio Driving Simulators
 * ⭐ **[Daft Punk Cafe](https://daftpunk.cafe/)** - Daft Punk Radio
+* ⭐ **[Hardcore History](https://pixeldrain.com/l/FtuV9te3)** - Dan Carlin's History Podcast
 * ⭐ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
 * [Podchaser](https://podchaser.com/) or [Listen Notes](https://www.listennotes.com/) - Podcast Databases / Trackers
 * [iHeartRadio](https://www.iheart.com/) - Podcasts / Radio
