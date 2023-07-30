@@ -1152,6 +1152,7 @@
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Software / Games / Books
 * [Os Reformados](https://osreformados.com) - Video / Audio / Magazines
 * [Baixar Séries MP4](https://baixarseriesmp4.eu) - Movies / TV / Anime
+* [KSensei](https://karinsensei.com) - Anime
 * [Animes Totais](https://www.animestotais.xyz) - Movies / TV / Anime
 * [Anipakku](https://anipakku.blogspot.com) - Anime / [Discord](https://discord.com/invite/Whu6RV9Gad)
 * [Series Empire](https://seriesempire.com/) - TV
@@ -1177,7 +1178,7 @@
 * [Filmes Épicos](http://www.filmesepicos.com) - Movies
 * [Top Dez Filmes](https://topdezfilmes.de) - Movies
 * [Download Cult](http://downloadcult.org) - "Cult" Movies
-* [Anirrent](https://anirrent.fansubs.com.br) - Anime
+* [Dark Animes](https://darkmahou.org) - Anime
 * [Keroseed](https://www.keroseed.com) - Anime
 * [Anime No Sekai](https://www.ansktracker.net) - Anime WebIRC Tracker
 * [Sua Música](https://www.suamusica.com.br) - MP3
@@ -1245,9 +1246,7 @@
 * [Rádios7](http://www.radios7.com) - Radio
 * [Antena 1](https://www.antena1.com.br) - Radio
 * [CXRadio](https://www.cxradio.com.br) - Radio
-* [Harpa Cristã](https://harpacrista.org) - Christian Music
-* [Harpa Cristã](https://apps.microsoft.com/store/detail/harpa-crist%C3%A3/9WZDNCRDPDWC) - Christian Music
-* [Harpa Cristã](https://play.google.com/store/apps/details?id=br.com.masterapps.harpacristagratis) - Christian Music
+* [Harpa Cristã](https://harpacrista.org), [2](https://apps.microsoft.com/store/detail/harpa-crist%C3%A3/9WZDNCRDPDWC), [3](https://play.google.com/store/apps/details?id=br.com.masterapps.harpacristagratis) - Christian Music
 * [Flow Podcast](https://nv99.com.br/flow) - Political Podcast
 * [99Vidas](http://99vidas.com.br) - Gaming Podcast
 * [cinematório](https://www.cinematorio.com.br) - Movie Podcasts
