@@ -1624,53 +1624,31 @@ Twitch Stream Tracker
 * [TumblThree](https://github.com/TumblThreeApp/TumblThree) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumbl Backup Tools
 * [Minimal Twitter](https://typefully.com/minimal-twitter) - Minimal Twitter Themes
 * [Tweak New Twitter](https://github.com/insin/control-panel-for-twitter) or [twttr](https://github.com/sr2echa/twttr) - Twitter Enhancement Extensions
-* [Twitonomy](https://www.twitonomy.com/) - Twitter Dashboard / Analytics
 * [TweetDeck](https://tweetdeck.twitter.com/) or [Tweeten](https://tweetenapp.com/) - Twitter Dashboard
 * [TweetDuck](https://github.com/chylex/TweetDuck) - Twitter Desktop Client
-* [twXplorer](https://twxplorer.knightlab.com/), [Social Searcher](https://www.social-searcher.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - Search Twitter
+* [Social Searcher](https://www.social-searcher.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - Search Twitter
 * [TwitLonger](https://www.twitlonger.com/) - Make Longer Tweets
-* [Twuko](https://www.twuko.com/) - Twitter News Feed
 * [Typefully](https://typefully.com/) - Schedule Tweets
-* [Poet.so](https://poet.so/), [Twimage](https://twimage.vercel.app/) / [GitHub](https://github.com/drkPrince/tweet-to-image), [TwitHelper](https://twithelper.com/) or [Tweetlet](https://tweetlet.net/) - Create Twitter Post Images
+* [TwitHelper](https://twithelper.com/) - Create Twitter Post Images
 * [Tall Tweets](https://talltweets.com/) - Turn Presentations into Twitter GIFs
 * [Tweetgen](https://www.tweetgen.com/) or [FakeTweetMaker](https://www.faketweetmaker.com/) - Create Fake Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chrome.google.com/webstore/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
 * [Thread Reader App](https://threadreaderapp.com/) - Unroll Twitter Threads / Search
-* [React Statis Tweets](https://github.com/transitive-bullshit/react-static-tweets) - Static Tweets Renderer
-* [Treeverse](https://treeverse.app/) - Twitter Conversation Visualizer
-* [ChatSalad](https://chatsalad.com/) - Twitter Chat Threads
-* [NoBlueTick](https://play.google.com/store/apps/details?id=com.indegy.nobluetick&hl=en&gl=US) - Avoid Read Receipts / Blue Tick
-* [Trends Map](https://www.trendsmap.com/), [iTended](https://itrended.com/), [Trends24](https://trends24.in/) or [Hashtagify](https://hashtagify.me/) - Trending Hashtags Trackers
-* [Twitter Linker](https://twitterlinker.vercel.app/) or [Twitter Images](https://twitter-images.vercel.app/) - Generate Twitter Card for Your 
+* [Trends24](https://trends24.in/) or [Hashtagify](https://hashtagify.me/) - Trending Hashtags Trackers
 * [Relink](https://www.relink.page/) - Fix Twitter Link Images
 * [OneMillionTweetMap](https://onemilliontweetmap.com/) - Real-Time Tweet Map 
-* [BirdFeeder](https://getbirdfeeder.com/) - Twitter Bookmark Manager
-* [Twitter Bookmark Archiver](https://twitter-bookmark-archiver.glitch.me/) - Download Twitter Bookmarks
-* [TwikTwok](https://twiktwok.github.io/) - Swipe Through Twitter Videos
 * [Klear](https://klear.com/free-tools/find-twitter-influencers) - Find Influencers 
-* [Twiangulate](https://twiangulate.com/search/) - Compare Twitter User Followers
 * [FollowerWonk](https://followerwonk.com/) - Find, Analyze & Optimize Followers
-* [Foller](https://foller.me/) - Twitter Profile Analytics
 * [TagGPT](https://tagsgpt.com/) - Hashtag Generator
 * [Buhitter](https://buhitter.com/) - Twitter Illustration Search
-* [Twitter Media Downloader](https://addons.mozilla.org/en-GB/firefox/addon/tw-media-downloader/) / [2](https://chrome.google.com/webstore/detail/twitter-media-downloader/cblpjenafgeohmnjknfhpdbdljfkndig) - Download Media from Timeline
-* [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - Download Twitter Videos
-* [accountanalysis](https://accountanalysis.app/) or [SocialBearing](https://socialbearing.com/) - Analyze Twitter Accounts
+* [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/) or [sssTwitter](https://ssstwitter.com/) - Download Twitter Videos
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
-* [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) or [TweetArchivist](https://www.tweetarchivist.com/) - Tweet Archiving
-* [TweeterID](https://tweeterid.com/) - Twitter User ID & Username Converter 
-* [Spoonbill](https://spoonbill.io/) - Track Profile Changes of People you Follow 
+* [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) - Tweet Archiving
 * [Twitual](http://twitual.com/) - Follower / Following Analysis 
 * [Twitter Intelligence](https://github.com/batuhaniskr/twitter-intelligence) - Python Twitter Tracking & Analysis Tool
-* [TweetTopicExplorer](http://tweettopicexplorer.neoformix.com/) - See a Users Most Common Words 
 * [Twayback Machine](http://staringispolite.github.io/twayback-machine/) - View a Users Old Tweets
-* [FirstTweets](https://firsttweets.glitch.me/) - Views Worlds  First Tweets
 * [Hoaxy](https://hoaxy.osome.iu.edu/) - Twitter Info Spread Data
-* [Tweets Analyzer](https://github.com/x0rz/tweets_analyzer) - Tweet Metadata Scraper 
-* [GeoSocial Footprint](http://geosocialfootprint.com/) or [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint 
-* [TwiMap](https://twimap.com/) or [SmallWorld](https://smallworld.kiwi/) - Find Twitter Users Near You 
-* [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - Redirects Twitter to Frontend
-* [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Twitter Auto Post Delete
+* [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint 
 * [Unfollow All](https://chrome.google.com/webstore/detail/twitter-unfollow-all/mgehkbclkipppdjiemnhmnledicalkld) - Twitter Unfollower
 * [Fix Twitter Links](https://openuserjs.org/scripts/lucio-martinez/Fix_Twitter_links) - Unshorten Twitter Feed URLs 
 * [Twitter Detector](https://github.com/stilliard/Twitter-detector) - Detect Twitter Link on a Page
