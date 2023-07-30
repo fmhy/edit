@@ -348,7 +348,7 @@
 
 # ► Linux Gaming
 
-* ⭐ **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** / [2](https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?utm_source=share&utm_medium=web2x&context=3) - Linux Gaming Guides
+* ⭐ **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** / [2](https://web.archive.org/web/20221022121735/https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?context=3) - Linux Gaming Guides
 * ⭐ **[protondb](https://www.protondb.com/)**, **[Lutris](https://lutris.net/)** or [Proton](https://github.com/ValveSoftware/Proton) - Play Windows games on Linux
 * ⭐ **[Kapital Sin](https://kapitalsin.com/)** - Linux Games
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
