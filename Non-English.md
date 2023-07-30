@@ -1128,7 +1128,7 @@
 * ⭐ **[Portuguese Piracy Sites](https://rentry.org/PortuguesePiracySites)** - Portuguese Piracy Sites
 * [Invertexto](https://www.invertexto.com) - Multiple Online Tools
 * [SAPO](https://www.sapo.pt) - Search
-* [Legenda Oficial](http://legendaoficial.net), [LegendasDivx](https://www.legendasdivx.pt), [Legendas.TV](http://legendas.tv), [Legendas](https://legendas.co), [Legendei](https://legendei.top), [Legendas.net](https://legendas.net) or [Legendas Zone](https://www.legendas-zone.org) - Subtitles
+* [Legendei.TV](https://legendei.tv), [Legendas.net](https://legendas.net), [Legenda Oficial](http://legendaoficial.net), [Legendas](https://legendas.co), [Legendas.TV](http://legendas.tv), or [Legendas Zone](https://www.legendas-zone.org) - Subtitles
 * [Legendas Brasil](https://legendasbrasil.org) - Subtitle Search App
 * [MD.Saúde](https://www.mdsaude.com) or [Tua Saúde](https://www.tuasaude.com) - Health News
 * [Dieta Emagrece](https://dietaemagrece.com.br) or [Beleza e Saúde](https://belezaesaude.com) - Health
@@ -1167,11 +1167,9 @@
 ## ▷ Torrenting
 
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Software / Games / Books
-* [Legendei](https://legendei.net/) - Movies / TV
 * [Mega Torrents](https://megatorrents.co) - Movies / TV
 * [tugaflix]( https://tugaflix.best) - Movies / TV / Use Adblock
 * [Torrent dos Filmes](https://torrentdosfilmes.se) - Movies / TV
-* [Legendas](https://www.legendas.co) - Movies / TV
 * [Comando](https://comando.la) - Movies / TV
 * [DownFilmes](https://downfilmes.org) - Movies
 * [Filmes Mega](https://filmesmega.co) - Movies
