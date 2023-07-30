@@ -247,6 +247,7 @@
 * [uvod.tv](https://www.uvod.tv/) - Movies / TV / Anime
 * [Btutv](https://www.btutv.com/) - Movies / TV / Anime
 * [555dy](https://555dy1.com/) - Movies / TV / Anime / NSFW
+* [VidHub](https://vidhub.tv/) - Movies / TV / Anime
 * [IcDrama](http://icdrama.video/) - Movies / TV
 * [iMeiju](https://www.imeiju.net/) - Movies / TV
 * [Nunu Cinema](https://www.nunuyy5.org/) - Movies / TV
