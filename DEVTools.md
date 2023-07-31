@@ -18,7 +18,6 @@
 * ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Courses / [Infinite Trial](https://pastebin.com/aJ4v55ae)
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive
 * ⭐ **[Free Courses by Xemu](https://github.com/nbats/FMHYedit/blob/main/base64.md#free-courses-by-xemu)** - Programming Course Drives
-* ⭐ **[Phind](https://www.phind.com/)** / [Discord](https://discord.com/invite/S25yW8TebZ) or [OSSChat](https://osschat.io/) - GPT-4 Dev Q&A AI / [GPT-4 Limit](https://ibb.co/5BWWftf)
 * ⭐ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - Read / Download Programming Books
 * [Awesome Certificates](https://github.com/PanXProject/awesome-certificates) or [Awesome Learning Dev](https://www.learndev.info/en) - Dev Course Indexes
 * [DZone](https://dzone.com/) - Developer Tutorials
