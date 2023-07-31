@@ -23,7 +23,6 @@
 ## ▷ Adblocking Extensions
 
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Adblocker / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) / [Lite](https://github.com/gorhill/uBlock/releases?q=uBOLite)
-* ⭐ **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** - Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Merge Filters](https://realityripple.com/Tools/AdBlock++/)
 * ⭐ **[Adblock Defenders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_adblock_defenders)** - Prevent Sites from Detecting Adblockers / [Test Defenders](https://blockads.fivefilters.org/), [2](https://www.detectadblock.com/)
 * ⭐ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers)** - Block Twitch Ads
 * ⭐ **[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** - Bypass Redirects / [Skip Timers](https://greasyfork.org/en/scripts/372673) / [Additional Bypass](https://greasyfork.org/en/scripts/443888)
@@ -31,6 +30,7 @@
 * ⭐ **[Popup Blockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - Block Malicious Popups / Tabs
 * ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)**, [Demodal](https://addons.mozilla.org/firefox/addon/demodal), [f ck overlays](https://chrome.google.com/webstore/detail/fck-overlays/ppedokobpbdajgiejhnjfbdjlgobcpkp/related) or [Behind The Overlay Revival](https://addons.mozilla.org/en-US/firefox/addon/behind-the-overlay-revival/) - Hide Website Overlays 
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Play Videos in Ad-Free Player
+* [Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters) - Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Merge Filters](https://realityripple.com/Tools/AdBlock++/)
 * [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker / [Guide](https://rentry.co/adblock) / [Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt)
 * [AdNauseam](https://adnauseam.io/) - Adblocker / Fakes Clicks to Confuse Tracking
 * [TBlock](https://tblock.me/) - Adblocker / [Filters](https://codeberg.org/tblock/filters)
@@ -52,8 +52,6 @@
 * ⭐ **[YogaDNS](https://yogadns.com/)** - DNS Adblocking
 * ⭐ **[ControlD](https://controld.com/)**, [DNS Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/), [ChrisPC DNS Switch](https://www.majorgeeks.com/files/details/chrispc_dns_switch.html) or [Hetzner](https://www.hetzner.com/dns-console?country=us) - DNS Managers / Switchers
 * ⭐ **[serverless-dns](https://github.com/serverless-dns/serverless-dns)** - Serverless DNS
-* ⭐ **[Warp](https://1.1.1.1/)** / [Zero-Trust](https://rentry.org/cloudflare-warp-free-zero-trust) or [DNS Resolver Privacy-First](http://doh.tiar.app/) - DNS Resolvers
-* ⭐ **Warp Tools** - [Unlimited Data](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED), [2](https://github.com/nxvvvv/warp-plus) / [Script](https://github.com/fscarmen/warp) / [Warp Warning](https://rentry.co/warpwarning)
 * [Adguard DNS](https://adguard-dns.io/) - DNS Adblocking
 * [Pi-Hole](https://pi-hole.net/) - DNS Adblocking / Self-Hosted
 * Pi-Hole Tools - [Install Script](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filter](https://firebog.net/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine) / [Antitelemetry](https://github.com/MoralCode/pihole-antitelemetry)
@@ -478,6 +476,8 @@
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN 
 * ⭐ **[Softether](https://www.softether.org/)** - Free VPN / [VPN Gate](https://www.vpngate.net/en/download.aspx) / [Note](https://pastebin.com/TrSw7EpF)
 * ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Manager](https://github.com/perara/wg-manager) / [WebUI](https://hub.docker.com/r/weejewel/wg-easy)
+* ⭐ **[Warp](https://1.1.1.1/)** / [Zero-Trust](https://rentry.org/cloudflare-warp-free-zero-trust) or [DNS Resolver Privacy-First](http://doh.tiar.app/) - Resolvers
+* ⭐ **Warp Tools** - [Unlimited Data](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED), [2](https://github.com/nxvvvv/warp-plus) / [Script](https://github.com/fscarmen/warp) / [Warp Warning](https://rentry.co/warpwarning)
 * [VPNSecure](https://www.vpnsecure.me/) - [Pricing](https://ibb.co/c2BdyG1)
 * [Mullvad](https://mullvad.net/) - [Pricing](https://i.ibb.co/sHB33GJ/daf48a5ee585.png) / [NetNS](https://github.com/chutz/mullvad-netns) / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
 * [IVPN](https://www.ivpn.net/) - [Pricing](https://i.ibb.co/6sQKrQL/e06bea93c5ba.png) / [Free Trial](https://redd.it/nzjmqa) / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/)
