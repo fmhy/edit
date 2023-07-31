@@ -20,6 +20,7 @@
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
 * ⭐ **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbots Index
+* ⭐ **[Phind](https://www.phind.com)** - Developer Q&A AI
 * [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Q&A AI
 * [Leon](https://getleon.ai/) - AI Assistant
 * [Pi](https://pi.ai/talk) - AI Assistant
