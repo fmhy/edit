@@ -430,6 +430,7 @@
 
 * ⭐ **[Sportsurge](https://sportsurge.net/)**- Sports / Stream Locator
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - TV / Sports
+* ⭐ **[FreeSports](https://freesports.to/)** or [TheHomeSports](https://thehomesport.net/) - Sports
 * ⭐ **[IPTV Web](https://dev-iptv.web.app/)** - TV / Sports
 * ⭐ **[Sports Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming)** - Sports
 * ⭐ **[RBTV](https://www.rbtv77.com/)** - Sports / [Telegram](https://t.me/+_xlFBUO08tQwZGJl)
@@ -480,7 +481,6 @@
 * [SportsOnline](https://sportsonline.gl/) - Sports
 * [BestNHL](https://bestnhl.com/) - Sports
 * [MARKKY](https://markkystreams.com/) - Sports
-* [TheHomeSports](https://thehomesport.net/) - Sports
 * [SportsW](https://sportsw.me/) - Sports
 * [CricHD](https://mc2.crichd.com/) - Sports
 * [WorldStreams](https://worldstreams.net/) - Sports
