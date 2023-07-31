@@ -93,7 +93,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 ### Adblocking 🚫
 
 **[uBlock Origin](https://github.com/gorhill/uBlock#installation)**  - The most popular (and best) adblocking extension
-**[Adblock Filters](https://rentry.co/FilterStalker)** - Increase effectiveness of adblocker
 **[Adblock Defenders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_adblock_defenders)** - Prevent sites from detecting adblocker
 **[System-Wide Adblock Guide](https://champagne.pages.dev/before-you-begin/important-tools/#free-system-wide-adblocking-for-ios-mac-android--windows)** - Free System-Wide Adblocking for iOS, MAC, Android & Windows
 **[Pop-up Blockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - Block all pop-ups
