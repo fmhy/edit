@@ -12,6 +12,7 @@
 # ► AI Chatbots
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot / [Discord](https://discord.com/invite/openai)
+* ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Q&A AI / [GPT-4 Limit](https://ibb.co/5BWWftf) / [Discord](https://discord.com/invite/S25yW8TebZ)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai)
 * ⭐ **[BAI](https://chatbot.theb.ai/)** - GPT-3.5 Based Chatbot
 * ⭐ **[Poe](https://poe.com/)** - GPT-3.5 Based Chatbots by Quora
@@ -28,6 +29,7 @@
 * [AnimaAI](https://myanima.ai/) - Virtual Companion
 * [Awesome-GPT4](https://gpt4.tools/) - ChatGPT Resources
 * [Feyn](https://www.feyn.ai/) - GPT-4 Q&A AI
+* [OSSChat](https://osschat.io/) - GPT-4 Q&A AI
 * [Ora](https://ora.ai/) - GPT-3.5 Based Chatbots
 * [Forefront](https://chat.forefront.ai/) - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/Wbc5cPPYSs)
 * [Teach Anything](https://www.teach-anything.com/) - GPT-3.5 Q&A AI
