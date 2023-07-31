@@ -49,10 +49,7 @@
 * [Jango](https://jango.com/) - Browser Music
 * [musify](https://musify.club/) - Browser Music
 * [Jamendo](https://www.jamendo.com/) - Browser Music
-* [Flowful](https://flowful.app/) - Browser Music
-* [Kainet](https://kainet.rocks/) - Browser Music
 * [Last.fm](https://www.last.fm/) - Browser Music
-* [YesPlayMusic](https://music.qier222.com/) - Browser Music
 * [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
 * [Tancpol](https://tancpol.net/) - Browser Music
 * [Cliggo](https://music.cliggo.com/) - Browser Music
@@ -63,7 +60,6 @@
 * [Vapor Archive](https://vaporarchive.neocities.org/) - Vaporwave
 * [hypem](https://hypem.com/popular) - Rising
 * [datpiff](https://www.datpiff.com/) - Mixtapes
-* [pumpyouup](http://www.pumpyouup.com/) - Indie Dubstep
 * [CitizenFreak](http://citizenfreak.com/) - Canadian Music
 * [Classical Music Only](https://classicalmusiconly.com/) - Classical Music
 * [musopen](https://musopen.org/music/) - Classical Music
@@ -79,12 +75,8 @@
 * [ListenToThis](https://listentothis.nanoshinono.me/) or [Samplette](https://samplette.io/) - Random Songs
 * [The Nostalgia Machine](http://thenostalgiamachine.com/) - Random Songs by Year
 * [Map of Metal](http://mapofmetal.com/) - Interactive Map of Metal History
-* [The Cultural Borders of Songs](https://pudding.cool/2018/06/music-map/?date=202102) - #1 Songs from 3,000 Countries
 * [LostMyspace](http://lostmyspace.com/) - Lost Myspace Songs
-* [Unreleased Goa Project](https://goatrance.xyz/) - Rare / Unreleased Trance
 * [Mideastunes](https://mideastunes.com/) - Underground Music
-* [Wacht](https://wacht.tv/) - Music Video Upvoting
-* [/r/Yedits](https://www.reddit.com/r/Yedits/) - User-Made Remixes
 * [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - User-Made PluggnB Songs
 * [Musico](https://www.musi-co.com/listen/streams) - AI Generated Songs
 * [BitMidi](https://bitmidi.com/) - Stream / Download MIDI Files
@@ -256,7 +248,6 @@
 * [OFFMP3](https://offmp3.com/) or [Anything2MP3](https://anything2mp3.cc/) - Video to MP3 Converter
 * [Musify](https://github.com/gokadzev/Musify) - MP3
 * [Music Kraken](https://github.com/HeIIow2/music-downloader/) - MP3
-* [MP3Jam](https://www.mp3jam.org/) - MP3
 * [RedSea](https://github.com/Dniel97/RedSea), [Tidal Media Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) / [Pro](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) or [orpheusdl-tidal](https://github.com/Dniel97/orpheusdl-tidal) - Tidal Music Downloaders
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Free BandCamp Downloader](https://github.com/7x11x13/free-bandcamp-downloader), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - Bandcamp Downloader
 * [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders) - Soundcloud Download Tools
