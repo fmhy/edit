@@ -204,7 +204,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### Mobile 📱
 
-**[Bromite](https://github.com/uazo/bromite-buildtools/releases), [2](https://www.bromite.org/) / [Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)/ [Mull](https://github.com/Divested-Mobile/Mull-Fenix) / [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US&gl=US)** - Android web browsers
+**[Cromite](https://github.com/uazo/cromite) / [Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)/ [Mull](https://github.com/Divested-Mobile/Mull-Fenix) / [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US&gl=US)** - Android web browsers
 **[Insight](https://insightbrowser.com/) / [Aloha](https://alohabrowser.com/) / [Kagi](https://testflight.apple.com/join/DeC8ZDnu)**  - iOS web browsers / [Improve Safari](https://hyperweb.app/)
 **[AdGuard Premium](https://forum.mobilism.org/search.php?keywords=adguard+&sr=topics&sf=titleonly) / [Adguard iOS](https://forum.mobilism.org/search.php?keywords=AdGuard+Pro&sr=topics&sf=titleonly) / [Blokada](https://blokada.org/)** -  Mobile adblocking apps
 **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398) / [FileCR](https://filecr.com/android/) - Modded APKs
