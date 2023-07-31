@@ -23,7 +23,7 @@ You can download pre-cracked Adobe products from [M0nkrus](http://w14.monkrus.ws
 
 > How do I download windows / activate windows & Office?
 For Windows check out this [section](#pirate-windows)
-For Office check these [guides](https://github.com/fmhy/FMHYedit/blob/main/base64.md#microsoft-office-dl-guides)
+For Office check these [guides](https://fmhy.pages.dev/storage/#office-suites)
 
 > Where do I find *insert game title / movie title*?
 For movies check out [this](https://whereyouwatch.com) and for new movies it's a good idea to keep an eye on [r/movieleaks](https://reddit.com/r/movieleaks). 
