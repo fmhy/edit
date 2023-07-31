@@ -1152,10 +1152,10 @@
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Software / Games / Books
 * [Os Reformados](https://osreformados.com) - Video / Audio / Magazines
 * [Baixar Séries MP4](https://baixarseriesmp4.eu) - Movies / TV / Anime
+* [Animes Totais](https://www.animestotais.xyz) - Movies / TV / Anime / Cartoons
+* [Series Empire](https://seriesempire.com) - TV
 * [KSensei](https://karinsensei.com) - Anime
-* [Animes Totais](https://www.animestotais.xyz) - Movies / TV / Anime
 * [Anipakku](https://anipakku.blogspot.com) - Anime / [Discord](https://discord.com/invite/Whu6RV9Gad)
-* [Series Empire](https://seriesempire.com/) - TV
 * [Baixar SOM Gospel](https://www.baixarsomgospel.org) - Gospel Music
 * [Gendou](http://gendou.com) - Anime OSTs
 * [Baixar Vídeo](https://baixarvideo.com.br) - Portuguese Video Downloader
@@ -1167,14 +1167,14 @@
 ## ▷ Torrenting
 
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Software / Games / Books
-* [Mega Torrents](https://megatorrents.co) - Movies / TV
-* [tugaflix]( https://tugaflix.best) - Movies / TV / Use Adblock
+* [DownFilmes](https://downfilmes.org) - Movies / TV
 * [Torrent dos Filmes](https://torrentdosfilmes.se) - Movies / TV
 * [Comando](https://comando.la) - Movies / TV
-* [DownFilmes](https://downfilmes.org) - Movies
-* [Filmes Mega](https://filmesmega.co) - Movies
+* [tugaflix](https://tugaflix.best) - Movies / TV / Use Adblock
+* [Filmes Mega](https://filmesmega.co) - Movies / TV
+* [Top Dez Filmes](https://topdezfilmes.de) - Movies / TV
+* [Mega Torrents](https://megatorrents.co) - Movies / TV
 * [Filmes Épicos](http://www.filmesepicos.com) - Movies
-* [Top Dez Filmes](https://topdezfilmes.de) - Movies
 * [Download Cult](http://downloadcult.org) - "Cult" Movies
 * [Dark Animes](https://darkmahou.org) - Anime
 * [Keroseed](https://www.keroseed.com) - Anime
@@ -1186,17 +1186,17 @@
 ## ▷ Streaming
 
 * [WarezCDN](https://warezcdn.com) - Movies / TV / Anime / API
+* [Vizer](https://vizer.tv) - Movies / TV / Anime
+* [SuperTela](https://supertela.gripe) - Movies / TV / Anime
+* [Quero Filmes HD](https://querofilmeshd.top) - Movies / TV
+* [TopFlix](https://topflix.tv) - Movies / TV
+* [GoFilmes](https://gofilmes.me/m/) - Movies / TV
 * [Os Teus Filmes Tuga](https://osteusfilmestuga.fun) - Movies / TV / Anime / Cartoons
 * [tugaflix](https://tugaflix.best) Movies / TV / Use Adblock
-* [Bombozila](https://bombozila.com) - Movies / TV
-* [Libreflix](https://libreflix.org) - Movies / TV
-* [Vizer](https://vizer.tv) - Movies / TV / Anime
-* [GoFilmes](https://gofilmes.me/m/) - Movies / TV
-* [SuperTela](https://supertela.gripe) - Movies / TV / Anime
-* [NetMovies](https://www.netmovies.com.br) - Movies / TV
-* [Quero Filmes HD](https://querofilmeshd.top) - Movies / TV
 * [Filmes Online HD](https://www.filmesonlinehdgratis.com.br) - Movies / TV
-* [TopFlix](https://topflix.tv) - Movies / TV / Requires Login
+* [NetMovies](https://www.netmovies.com.br) - Movies / TV / Requires Login
+* [Bombozila](https://bombozila.com) - Movies / TV / Requires Login
+* [Libreflix](https://libreflix.org) - Movies / TV
 * [Anitube](https://www.anitube.vip) - Anime
 * [NewZect](https://newzect.com) - Asian Drama
 * [99](https://www.99.media/pt/) - Documentaries
@@ -1268,16 +1268,12 @@
 * [Online Cursos Gatuitos](https://onlinecursosgratuitos.com) - Books
 * [Biblioteca Virtual](https://www.sp.senac.br/jsp/default.jsp?newsID=a21382.htm&testeira=386) - Open Digital Libraries
 * [Cultura Acadêmica](https://www.culturaacademica.com.br) - Educational Books
+* [Toomics](https://global.toomics.com/br) - Comics
 * [Arte HQs](http://www.artehqs.com.br) - Comics
 * [Tropa BR](https://tropabrscans.blogspot.com) - Comics
-* [MegaMeeya](https://megameeya.wordpress.com) - Manga
-* [Toomics](https://global.toomics.com/br) - Manga
+* [Mundo Webtoon](https://mundowebtoon.com) - Manga
+* [Mangás Chan](https://mangaschan.com) - Manga
 * [BR Mangás](https://www.brmangas.net) - Manga
-* [Random Scan](https://randomscans.com) - Manga
-* [Neox Scans](https://neoxscans.net) - Manga
-* [Argos Scan](https://argosscan.com) - Manga
-* [Rainbow Fairy Scan](https://rainbowfairyscan.com) - Manga
-* [Instinto Mangaká](https://www.instintomangaka.com/baixar-mangas/) - Manga
 * [Kiniga](https://kiniga.com) - Light Novels
 * [Novel Mania](https://novelmania.com.br) - Light Novels
 * [Central Novel](https://centralnovel.com) - Light Novels
