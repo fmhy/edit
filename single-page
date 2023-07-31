@@ -3097,7 +3097,7 @@ Add the following commands to a search to manually scrape each site.
 #### Read Paywalled Articles
 
 * ⭐ **[wallabag](https://wallabag.nixnet.services/)** / [Discord Bot](https://github.com/FahadBinHussain/wallabot)
-* ⭐ **[bypass-paywalls-firefox-clean](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/)** / [Chrome](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
+* ⭐ **[bypass-paywalls-firefox-clean](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/master/)** / [Chrome](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) / [uBlock Filter](https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt)
 * [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) - Bypass Scientific Document Paywalls
 * [unpaywall](https://unpaywall.org/) - Bypass Scholarly Article Paywalls
 * [Scribe](https://scribe.rip/) - Unlimited Articles on Medium
@@ -4447,6 +4447,7 @@ Add the following commands to a search to manually scrape each site.
 # ► AI Chatbots
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot / [Discord](https://discord.com/invite/openai)
+* ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai)
 * ⭐ **[BAI](https://chatbot.theb.ai/)** - GPT-3.5 Based Chatbot
 * ⭐ **[Poe](https://poe.com/)** - GPT-3.5 Based Chatbots by Quora
@@ -4463,6 +4464,7 @@ Add the following commands to a search to manually scrape each site.
 * [AnimaAI](https://myanima.ai/) - Virtual Companion
 * [Awesome-GPT4](https://gpt4.tools/) - ChatGPT Resources
 * [Feyn](https://www.feyn.ai/) - GPT-4 Q&A AI
+* [OSSChat](https://osschat.io/) - GPT-4 Q&A AI
 * [Ora](https://ora.ai/) - GPT-3.5 Based Chatbots
 * [Forefront](https://chat.forefront.ai/) - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/Wbc5cPPYSs)
 * [Teach Anything](https://www.teach-anything.com/) - GPT-3.5 Q&A AI
@@ -7427,7 +7429,7 @@ pass: paluch
 
 * ⭐ **[System Wide Adblocking](https://champagne.pages.dev/before-you-begin/important-tools/)** / [2](https://redd.it/oyfmr1) - System Wide Adblocking Guides
 * ⭐ **[AdGuard Premium](https://github.com/nbats/FMHYedit/blob/main/base64.md#adguard-premium)** - Adblocking App
-* ⭐ **[Bromite](https://github.com/uazo/bromite-buildtools/releases)** / [2](https://www.bromite.org/), [jQuarks](https://f-droid.org/packages/com.oF2pks.jquarks/) or [Monument](https://play.google.com/store/apps/details?id=br.marcelo.monumentbrowser) - Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite)
+* ⭐ **[Cromite](https://github.com/uazo/cromite)**, [Bromite](https://github.com/uazo/bromite-buildtools/releases) / [2](https://www.bromite.org/), [jQuarks](https://f-droid.org/packages/com.oF2pks.jquarks/) or [Monument](https://play.google.com/store/apps/details?id=br.marcelo.monumentbrowser) - Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite)
 * ⭐ **uBlock Origin** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Yandex](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) & [Kiwi](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) 
 * ⭐ **[Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)**, [NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid), [MultiApp](https://github.com/WaxMoon/MultiApp) or [WebApps](https://github.com/tobykurien/WebApps/) - App Containers
 * [RedReader](https://github.com/QuantumBadger/RedReader) or [Stealth](https://f-droid.org/packages/com.cosmos.unreddit/) / [2](https://gitlab.com/cosmosapps/stealth) - Ad Free Reddit Clients
@@ -8506,6 +8508,53 @@ pass: paluch
 * [NovelLoop](https://apps.apple.com/in/app/novelloop/id1170755867) - Light Novels
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - Borrow Digital Library Books
 * [K2pdfopt](https://willus.com/k2pdfopt/) - Optimize PDF/DJVU Files for Mobile E-Readers
+A tier list of the sites in this guide can be found **[here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/raresitetier).**
+
+Remember to check sites like IMDb and Letterboxd for alternative and foreign titles of the movie you're looking for. 
+
+***
+***
+
+## Method 1 - CSE
+
+**[Custom Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_search_tools)** 
+
+These search multiple sites at once. If you're getting too many results, try clicking the name of each site to see their contents individually, or get rid of a site by typing -"sitename" without quotes. 
+
+***
+
+## Method 2 - Streaming
+
+**[Video](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_video_hosts) / [Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video)**  
+
+[NoodleMagazine](https://noodlemagazine.com), [OK](https://ok.ru/video), [VK](https://vk.com/video), [YouTube](https://www.youtube.com/), [xpWatch](https://xpwatch.vercel.app/), [0xDB](https://0xdb.org/), [xMovies8](https://www4.xmovies8.fm/), [M4UFree](http://ww1.m4ufree.com/), [LookMovie](https://lookmovie2.to/), [MyMail](https://my.mail.ru/video), [RareFilmm](https://rarefilmm.com/), [Facebook](https://www.facebook.com/watch/search/?query=fmhy), [Olgply](https://olgply.com/), [Vimeo](https://vimeo.com/), [Dailymotion](https://www.dailymotion.com/us), [Archive](https://archive.org/), [Veoh](https://www.veoh.com/), [BiliBili](https://www.bilibili.com/), [MetaCafe](https://www.metacafe.com/), [NicoVideo](https://www.nicovideo.jp/), [Tubi](https://tubitv.com/), [FZMovies](https://fzmovies.net/), [HiMovies](https://www3.himovies.to/), [DutaFilm](https://dutafilm.network/), [FMovies](https://fmovies.name/), [Kollafilm](https://kollafilm.com), [OpenLoadMov](https://openloadmov.net/), [SolarMovies](https://www2.solarmovie.to/), [Movies123](https://www.movies123.email/), [Kanopy](https://kanopy.com/) (Library Card Required), [GDrivePlayerDatabase](https://databasegdriveplayer.xyz/), [JustWatch](https://www.justwatch.com/)
+
+Use [OpenVideo](https://openvideofs.github.io) to view full [0xDB](https://0xdb.org/) videos. You can also press ctrl+I, find the content labeled "video," [copy the address](https://i.imgur.com/dgwVZaQ.png) up to "webm," then paste it into your address bar. 
+
+Add the following command to a search: 
+
+`site:my.mail.ru`
+`site:noodlemagazine.com`
+
+***
+
+## Method 3 - DL / Torrent 
+
+**[Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) / [Torrent](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
+
+[WorldCinema](http://worldscinema.org/), [MovieParadise](https://movieparadise.org) (Needs Account), [MyDuckIsDead](http://www.myduckisdead.org/), [Sanet](https://sanet.st/), [Uloz](https://ulozto.net/), [RareLust](https://rarelust.com/), [BT4G](https://bt4g.org/), [RarBG](https://rarbg.to), [1337](https://www.1337x.to/), [YTS](https://yts.mx/), [RLSBB](https://rlsbb.ru/), [Magnet4You](http://magnet4you.me/library.php), [UHDMV](https://uhdmv.org/), [FileListing](https://filelisting.com/), [WatchSoMuch](https://watchsomuch.org/), [RUTracker](https://rutracker.org/forum/index.php), [Rutor](http://rutor.info/), [Puzo](https://www.puzo.org/index.php?showforum=60), [Psycho](http://psychodownloads.com/forumdisplay.php?21-Video-Audio), [WarezHeaven](https://www.warezheaven.com/index.php?forums/movies.6/), [WarezJungle](https://wjungle.net/viewforum.php?f=6&sid=ab394282320783375454184f66c63503), [DreamTeam](https://www.dreamteamdownloads1.com/13/movies/), [AllYouLike](https://allyoulike.org/category/movies/), [FilmSofts](https://www.filmsofts.com/films/), [TehParadox](https://www.tehparadox.net/movies/)
+
+Use [JDownloader](https://jdownloader.org/) for downloads and a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) / [Client](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) for torrents. 
+
+***
+
+## Method 4 - Niche Sites
+
+**[Ubu](https://ubu.com/film/)** (Avant-Garde), **[HistoricFilms](https://historicfilms.com/)** (Historic), **[NSFW Sites](https://saidit.net/s/freemediafuckyeah/wiki/index#wiki_nsfw_movies)** (Adult Films)
+
+**[Non-English Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng)**
+
+[IndianCine](https://indiancine.ma/) (Indian), [Elonet](https://elonet.finna.fi/) (Finnish), [Farsiland](https://farsiland.com/) (Iranian), [PinoyMoviesHub](https://pinoymovieshub.su/) (Filipino), [StreamKiste](https://streamkiste.tv/) (German), [FilmPlanet](https://www1.filmplanet.to) (Czech), [ElTube](https://www.eltube.gr/) (Greek), [Greek Movies](https://greek-movies.com/) (Greek), [V.qq](https://v.qq.com/) (Japanese / Chinese), [JP-Films](https://jp-films.com/) (Japanese), [HK Movies](https://vinspirezhk.blogspot.com/) (Chinese), [DramaCool](https://www1.dramacool.vc/) (Asian), [037hdmovie](https://www.037hdmovie.com/) (Thai)
 ***
 ***
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
@@ -8553,7 +8602,6 @@ pass: paluch
 * [Audiobooks Poetry](https://archive.org/details/audio_bookspoetry) - Audiobooks / Poetry
 * [Audiobooks Unleashed](https://audiobooksunleashed.com/) - Audiobook Codes
 * [/r/audiobooksonyoutube](https://reddit.com/r/audiobooksonyoutube)
-* [/r/audiobookrequest](https://reddit.com/r/audiobookrequest) - Request Audiobooks
 * [audiobook-dl](https://github.com/jo1gi/audiobook-dl) or [Audiobook Downloader](https://github.com/ipriyam26/Audiobook) - Audiobook Download Tool
 * [OverDrive](https://github.com/chbrown/overdrive) - OverDrive Audiobook Download Script
 * [AudiobookShelf](https://www.audiobookshelf.org/) or [BookSonic](https://booksonic.org/) - Self-Hosted Audiobook Servers
@@ -13748,7 +13796,6 @@ Twitch Stream Tracker
 * ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Courses / [Infinite Trial](https://pastebin.com/aJ4v55ae)
 * ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - Programming / Courses / Interactive
 * ⭐ **[Free Courses by Xemu](https://github.com/nbats/FMHYedit/blob/main/base64.md#free-courses-by-xemu)** - Programming Course Drives
-* ⭐ **[Phind](https://www.phind.com/)** / [Discord](https://discord.com/invite/S25yW8TebZ) or [OSSChat](https://osschat.io/) - GPT-4 Dev Q&A AI / [GPT-4 Limit](https://ibb.co/5BWWftf)
 * ⭐ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - Read / Download Programming Books
 * [Awesome Certificates](https://github.com/PanXProject/awesome-certificates) or [Awesome Learning Dev](https://www.learndev.info/en) - Dev Course Indexes
 * [DZone](https://dzone.com/) - Developer Tutorials
@@ -17292,10 +17339,7 @@ Twitch Stream Tracker
 * [Jango](https://jango.com/) - Browser Music
 * [musify](https://musify.club/) - Browser Music
 * [Jamendo](https://www.jamendo.com/) - Browser Music
-* [Flowful](https://flowful.app/) - Browser Music
-* [Kainet](https://kainet.rocks/) - Browser Music
 * [Last.fm](https://www.last.fm/) - Browser Music
-* [YesPlayMusic](https://music.qier222.com/) - Browser Music
 * [SoundClick](https://www.soundclick.com/default.cfm) - Browser Music
 * [Tancpol](https://tancpol.net/) - Browser Music
 * [Cliggo](https://music.cliggo.com/) - Browser Music
@@ -17306,7 +17350,6 @@ Twitch Stream Tracker
 * [Vapor Archive](https://vaporarchive.neocities.org/) - Vaporwave
 * [hypem](https://hypem.com/popular) - Rising
 * [datpiff](https://www.datpiff.com/) - Mixtapes
-* [pumpyouup](http://www.pumpyouup.com/) - Indie Dubstep
 * [CitizenFreak](http://citizenfreak.com/) - Canadian Music
 * [Classical Music Only](https://classicalmusiconly.com/) - Classical Music
 * [musopen](https://musopen.org/music/) - Classical Music
@@ -17322,12 +17365,8 @@ Twitch Stream Tracker
 * [ListenToThis](https://listentothis.nanoshinono.me/) or [Samplette](https://samplette.io/) - Random Songs
 * [The Nostalgia Machine](http://thenostalgiamachine.com/) - Random Songs by Year
 * [Map of Metal](http://mapofmetal.com/) - Interactive Map of Metal History
-* [The Cultural Borders of Songs](https://pudding.cool/2018/06/music-map/?date=202102) - #1 Songs from 3,000 Countries
 * [LostMyspace](http://lostmyspace.com/) - Lost Myspace Songs
-* [Unreleased Goa Project](https://goatrance.xyz/) - Rare / Unreleased Trance
 * [Mideastunes](https://mideastunes.com/) - Underground Music
-* [Wacht](https://wacht.tv/) - Music Video Upvoting
-* [/r/Yedits](https://www.reddit.com/r/Yedits/) - User-Made Remixes
 * [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - User-Made PluggnB Songs
 * [Musico](https://www.musi-co.com/listen/streams) - AI Generated Songs
 * [BitMidi](https://bitmidi.com/) - Stream / Download MIDI Files
@@ -17499,7 +17538,6 @@ Twitch Stream Tracker
 * [OFFMP3](https://offmp3.com/) or [Anything2MP3](https://anything2mp3.cc/) - Video to MP3 Converter
 * [Musify](https://github.com/gokadzev/Musify) - MP3
 * [Music Kraken](https://github.com/HeIIow2/music-downloader/) - MP3
-* [MP3Jam](https://www.mp3jam.org/) - MP3
 * [RedSea](https://github.com/Dniel97/RedSea), [Tidal Media Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) / [Pro](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) or [orpheusdl-tidal](https://github.com/Dniel97/orpheusdl-tidal) - Tidal Music Downloaders
 * [BandCamp-DL](https://github.com/iheanyi/bandcamp-dl), [Free BandCamp Downloader](https://github.com/7x11x13/free-bandcamp-downloader), [Download Bandcamp](https://downloadmusicschool.com/bandcamp/), [bcdl](https://github.com/daot/bcdl) or [Bandcamp Downloader](https://github.com/Otiel/BandcampDownloader) - Bandcamp Downloader
 * [Soundcloud Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_soundcloud_downloaders) - Soundcloud Download Tools
@@ -18931,7 +18969,7 @@ Twitch Stream Tracker
 * ⭐ **[Portuguese Piracy Sites](https://rentry.org/PortuguesePiracySites)** - Portuguese Piracy Sites
 * [Invertexto](https://www.invertexto.com) - Multiple Online Tools
 * [SAPO](https://www.sapo.pt) - Search
-* [Legenda Oficial](http://legendaoficial.net), [LegendasDivx](https://www.legendasdivx.pt), [Legendas.TV](http://legendas.tv), [Legendas](https://legendas.co), [Legendei](https://legendei.top), [Legendas.net](https://legendas.net) or [Legendas Zone](https://www.legendas-zone.org) - Subtitles
+* [Legendei.TV](https://legendei.tv), [Legendas.net](https://legendas.net), [Legenda Oficial](http://legendaoficial.net), [Legendas](https://legendas.co), [Legendas.TV](http://legendas.tv), or [Legendas Zone](https://www.legendas-zone.org) - Subtitles
 * [Legendas Brasil](https://legendasbrasil.org) - Subtitle Search App
 * [MD.Saúde](https://www.mdsaude.com) or [Tua Saúde](https://www.tuasaude.com) - Health News
 * [Dieta Emagrece](https://dietaemagrece.com.br) or [Beleza e Saúde](https://belezaesaude.com) - Health
@@ -18955,9 +18993,10 @@ Twitch Stream Tracker
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Software / Games / Books
 * [Os Reformados](https://osreformados.com) - Video / Audio / Magazines
 * [Baixar Séries MP4](https://baixarseriesmp4.eu) - Movies / TV / Anime
-* [Animes Totais](https://www.animestotais.xyz) - Movies / TV / Anime
+* [Animes Totais](https://www.animestotais.xyz) - Movies / TV / Anime / Cartoons
+* [Series Empire](https://seriesempire.com) - TV
+* [KSensei](https://karinsensei.com) - Anime
 * [Anipakku](https://anipakku.blogspot.com) - Anime / [Discord](https://discord.com/invite/Whu6RV9Gad)
-* [Series Empire](https://seriesempire.com/) - TV
 * [Baixar SOM Gospel](https://www.baixarsomgospel.org) - Gospel Music
 * [Gendou](http://gendou.com) - Anime OSTs
 * [Baixar Vídeo](https://baixarvideo.com.br) - Portuguese Video Downloader
@@ -18969,39 +19008,37 @@ Twitch Stream Tracker
 ## ▷ Torrenting
 
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Software / Games / Books
-* [Legendei](https://legendei.net/) - Movies / TV
-* [Mega Torrents](https://megatorrents.co) - Movies / TV
-* [tugaflix]( https://tugaflix.best) - Movies / TV / Use Adblock
+* [DownFilmes](https://downfilmes.org) - Movies / TV
 * [Torrent dos Filmes](https://torrentdosfilmes.se) - Movies / TV
-* [Legendas](https://www.legendas.co) - Movies / TV
 * [Comando](https://comando.la) - Movies / TV
-* [DownFilmes](https://downfilmes.org) - Movies
-* [Filmes Mega](https://filmesmega.co) - Movies
+* [tugaflix](https://tugaflix.best) - Movies / TV / Use Adblock
+* [Filmes Mega](https://filmesmega.co) - Movies / TV
+* [Top Dez Filmes](https://topdezfilmes.de) - Movies / TV
+* [Mega Torrents](https://megatorrents.co) - Movies / TV
 * [Filmes Épicos](http://www.filmesepicos.com) - Movies
-* [Top Dez Filmes](https://topdezfilmes.de) - Movies
 * [Download Cult](http://downloadcult.org) - "Cult" Movies
-* [Anirrent](https://anirrent.fansubs.com.br) - Anime
+* [Dark Animes](https://darkmahou.org) - Anime
 * [Keroseed](https://www.keroseed.com) - Anime
 * [Anime No Sekai](https://www.ansktracker.net) - Anime WebIRC Tracker
 * [Sua Música](https://www.suamusica.com.br) - MP3
 * [Download Cursos Grátis](https://downloadcursos.top) - Courses
-* [Livros e Cursos Downloada](https://timaterial.blogspot.com) - Courses
+* [Livros e Cursos Download](https://timaterial.blogspot.com) - Courses
 
 ## ▷ Streaming
 
 * [WarezCDN](https://warezcdn.com) - Movies / TV / Anime / API
+* [Vizer](https://vizer.tv) - Movies / TV / Anime
+* [SuperTela](https://supertela.gripe) - Movies / TV / Anime
+* [Quero Filmes HD](https://querofilmeshd.top) - Movies / TV
+* [TopFlix](https://topflix.tv) - Movies / TV
+* [GoFilmes](https://gofilmes.me/m/) - Movies / TV
 * [Os Teus Filmes Tuga](https://osteusfilmestuga.fun) - Movies / TV / Anime / Cartoons
 * [tugaflix](https://tugaflix.best) Movies / TV / Use Adblock
-* [Bombozila](https://bombozila.com) - Movies / TV
+* [Filmes Online HD](https://www.filmesonlinehdgratis.com.br) - Movies / TV
+* [NetMovies](https://www.netmovies.com.br) - Movies / TV / Requires Login
+* [Bombozila](https://bombozila.com) - Movies / TV / Requires Login
 * [Libreflix](https://libreflix.org) - Movies / TV
-* [Vizer](https://vizer.tv) - Movies / TV / Anime
-* [GoFilmes](https://gofilmes.me/m/) - Movies / TV
-* [SuperTela](https://supertela.gripe) - Movies / TV / Anime
-* [NetMovies](https://www.netmovies.com.br) - Movies / TV
-* [Quero Filmes HD](https://querofilmeshd.top/) - Movies / TV
-* [TopFlix](https://topflix.vc) - Movies / TV / Requires Login
-* [AnimeFire](https://animefire.net) - Anime
-* [Animes Zone](https://animeszone.net) - Anime
+* [Anitube](https://www.anitube.vip) - Anime
 * [NewZect](https://newzect.com) - Asian Drama
 * [99](https://www.99.media/pt/) - Documentaries
 * [Ver Futebol TV](https://verfutebol.online) - Live Sports
@@ -19013,122 +19050,109 @@ Twitch Stream Tracker
 * [TV Cultura](https://cultura.uol.com.br/aovivo/) - Live TV
 * [IPTV Brasil](https://iptvbrasilapk.com) or [CanalOnline](https://play.google.com/store/apps/details?id=dev.devmatrixcode.canalonline) - IPTV Player
 * [Manic Documentários](http://www.documentarios.blog.br) - Documentaries
-* [CursoemVideo](https://www.cursoemvideo.com/) - Courses
-* [Kultivi](https://app.kultivi.com/) - Courses
-* [PrimeCursos](https://www.primecursos.com.br/) - Courses
-* [uniasselvi](https://portal.uniasselvi.com.br/cursolivre) - Courses
-* [canaldoensino](https://canaldoensino.com.br/blog/) - Courses
-* [Academy.omie](https://academy.omie.com.br/) - Courses
-* [moocs.ggte](https://moocs.ggte.unicamp.br/) - Courses
-* [download-de-livros-gratis](https://download-de-livros-gratis.webnode.com/) - Courses
-* [canaldoensino](https://canaldoensino.com.br/) - Courses
-* [Cursos Online](https://gyncursos.com.br/) - Courses
-* [pensarcursos](https://www.pensarcursos.com.br/) - Courses
-* [Núcleo do Conhecimento](https://www.nucleodoconhecimento.com.br/) - Courses
-* [iestudar](https://iestudar.com/) - Courses
-* [openuped](https://www.openuped.eu/courses) - Courses
-* [escolavirtual](https://www.escolavirtual.gov.br/catalogo) - Courses
-* [EV](https://www.ev.org.br/) - Courses
-* [veduca](https://veduca.org/) - Courses
-* [unasus](https://www.unasus.gov.br/cursos/busca) - Courses
-* [DigitalInnovations](https://www.dio.me/) - Development Courses
-* [PalcoMP3](https://www.palcomp3.com.br/) - Music
-* [RadioJHero](https://radiojhero.com/) - Radio
-* [Radios.com](https://www.radios.com.br/) - Radio
-* [radiosaovivo](https://radiosaovivo.net/) - Radio
-* [br.radio](https://br.radio.net/) - Radio
-* [tudoradio](https://tudoradio.com/) - Radio
-* [RadioRock](https://www.radiorock.com.br/) - Radio
-* [Tupi](https://www.tupi.fm/) - Radio
-* [Vagalume](https://vagalume.fm/) - Radio
-* [Hunter.fm](https://hunter.fm/) - Radio
-* [m80](https://m80.pt/) - Radio
-* [tsf](https://www.tsf.pt/) - Radio
-* [megahits](https://megahits.sapo.pt/) - Radio
-* [Radio.pt](https://www.radio.pt/) - Radio
-* [Radio7](http://www.radios7.com/) - Radio
-* [Antena1](https://www.antena1.com.br/) - Radio
-* [CXRadio](https://www.cxradio.com.br/) - Radio
-* [HarpaCrista](https://harpacrista.org/) - Christian Music
-* [Christian Harp](https://apps.microsoft.com/store/detail/harpa-crist%C3%A3/9WZDNCRDPDWC) - Christian Music
-* [HarpaCrista](https://play.google.com/store/apps/details?id=br.com.masterapps.harpacristagratis&hl=en_US&gl=US) - Christian Music
-* [flowpodcast](https://nv99.com.br/flow) - Political Podcast
-* [99Vidas](http://99vidas.com.br/) - Gaming Podcast
-* [cinematorio](https://www.cinematorio.com.br/) - Movie Podcasts
-* [cinemacomrapadura](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - Podcasts
-* [Omelete](https://originals.omelete.com.br/) - Podcasts
-* [Redegeek](https://redegeek.com.br/blog/) - Podcasts
-* [papodegordo](https://www.papodegordo.com.br/category/podcast/) - Podcasts
-* [mundopodcast](https://mundopodcast.com.br/) - Podcasts
-* [kboingfm](https://www.kboingfm.com.br/podcast/) - Podcasts
-* [topflixapk](https://topflixapk.com/) - Streaming APK
-* [Flitch](https://gitlab.com/alexrintt/flitch) - Android Anime Streaming
+* [Curso em Vídeo](https://www.cursoemvideo.com) - Courses
+* [Kultivi](https://app.kultivi.com) - Courses
+* [Prime Cursos](https://www.primecursos.com.br) - Courses
+* [UNIASSELVI](https://portal.uniasselvi.com.br/cursolivre) - Courses
+* [Canal do Ensino](https://canaldoensino.com.br/blog/) - Courses
+* [Omie](https://academy.omie.com.br) - Courses
+* [MOOC GGTE](https://moocs.ggte.unicamp.br) - Courses
+* [Download de Livros Grátis](https://download-de-livros-gratis.webnode.page) - Courses
+* [Gyn Cursos](https://gyncursos.com.br) - Courses
+* [Pensar Cursos](https://www.pensarcursos.com.br) - Courses
+* [Núcleo do Conhecimento](https://www.nucleodoconhecimento.com.br) - Courses
+* [iEstudar Cursos](https://iestudar.com) - Courses
+* [OpenupEd](https://www.openuped.eu/courses) - Courses
+* [Escola Virtual Gov](https://www.escolavirtual.gov.br/catalogo) - Courses
+* [Escola Virtual](https://www.ev.org.br) - Courses
+* [Veduca](https://veduca.org) - Courses
+* [UNA-SUS](https://www.unasus.gov.br/cursos/busca) - Courses
+* [DIO](https://www.dio.me) - Development Courses
+* [Palco MP3](https://www.palcomp3.com.br) - Music
+* [Rádio J-Hero](https://radiojhero.com) - Radio
+* [Radios.com.br](https://www.radios.com.br) - Radio
+* [Radiosaovivo.net](https://radiosaovivo.net) - Radio
+* [radio.net](https://br.radio.net) - Radio
+* [tudoradio.com](https://tudoradio.com) - Radio
+* [A Rádio Rock](https://www.radiorock.com.br) - Radio
+* [Super Rádio Tupi](https://www.tupi.fm) - Radio
+* [Vagalume FM](https://vagalume.fm) - Radio
+* [Hunter.FM](https://hunter.fm) - Radio
+* [M80 Rádio](https://m80.pt) - Radio
+* [TSF](https://www.tsf.pt) - Radio
+* [MEGA HITS](https://megahits.sapo.pt) - Radio
+* [Radio.pt](https://www.radio.pt) - Radio
+* [Rádios7](http://www.radios7.com) - Radio
+* [Antena 1](https://www.antena1.com.br) - Radio
+* [CXRadio](https://www.cxradio.com.br) - Radio
+* [Harpa Cristã](https://harpacrista.org), [2](https://apps.microsoft.com/store/detail/harpa-crist%C3%A3/9WZDNCRDPDWC), [3](https://play.google.com/store/apps/details?id=br.com.masterapps.harpacristagratis) - Christian Music
+* [Flow Podcast](https://nv99.com.br/flow) - Political Podcast
+* [99Vidas](http://99vidas.com.br) - Gaming Podcast
+* [cinematório](https://www.cinematorio.com.br) - Movie Podcasts
+* [RapaduraCast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - Podcasts
+* [Omelete Originals](https://originals.omelete.com.br) - Podcasts
+* [Rede Geek](https://redegeek.com.br/blog/) - Podcasts
+* [Papo de Gordo](https://www.papodegordo.com.br/category/podcast/) - Podcasts
+* [Mundo Podcast](https://mundopodcast.com.br) - Podcasts
+* [Kboing FM](https://www.kboingfm.com.br/podcast/) - Podcasts
 * [TV Aberta](https://apkpure.com/br/tv-aberta-lite/tv.aberta.lite) - Live TV APK
-* [filmesonlinehdgratis](https://www.filmesonlinehdgratis.com.br/) - Movies / TV
-* [TasteMade](https://www.tastemade.com.br/) - Recipe Videos
+* [Tastemade](https://www.tastemade.com.br) - Recipe Videos
 
 ## ▷ Reading
 
-* [bussolaescolar](http://www.bussolaescolar.com.br/) - Educational Search Engine
-* [LiverosNarrados](https://livrosnarrados.blogspot.com/) - Audiobooks
-* [Tudo De Bom em Audiolivros](https://tudodebomemaudiobooks.blogspot.com/) - Audiobooks
-* [universidadefalada](https://www.universidadefalada.com.br/audiolivros-gratis-audio-livro-gratuito.html) - Audiobooks
-* [Biblioteca Brasiliana](https://digital.bbm.usp.br/) - Books
-* [baixelivros](https://www.baixelivros.com.br/) - Books
-* [EbooksBrasil](https://ebooksbrasil.org/) - Books
-* [OnlineCursoGatuitos](https://onlinecursosgratuitos.com/) - Books
+* [Bússola Escolar](http://www.bussolaescolar.com.br) - Educational Search Engine
+* [Livros Narrados](https://livrosnarrados.blogspot.com) - Audiobooks
+* [Tudo de Bom em Audiolivros](https://tudodebomemaudiobooks.blogspot.com) - Audiobooks
+* [Biblioteca Brasiliana](https://digital.bbm.usp.br/handle/bbm/1) - Books
+* [Baixe Livros](https://www.baixelivros.com.br) - Books
+* [eBooksBrasil](https://ebooksbrasil.org) - Books
+* [Online Cursos Gatuitos](https://onlinecursosgratuitos.com) - Books
 * [Biblioteca Virtual](https://www.sp.senac.br/jsp/default.jsp?newsID=a21382.htm&testeira=386) - Open Digital Libraries
-* [culturaacademica](https://www.culturaacademica.com.br/) - Educational Books
-* [ArteHQs](http://www.artehqs.com.br/) - Comics
-* [TropaBRScans](https://tropabrscans.blogspot.com/) - Comics
-* [MegaMeeya](https://megameeya.wordpress.com/) - Manga
-* [TsukiMangas](https://www.tsukimangas.com/) - Manga
-* [Global.Toomics](https://global.toomics.com/br) - Manga
-* [brmangas](https://www.brmangas.net/) - Manga
-* [randomscans](https://randomscans.com/) - Manga
-* [NeoxScans](https://neoxscans.net/) - Manga
-* [argosscan](https://argosscan.com/) - Manga
-* [rainbowfairyscan](https://rainbowfairyscan.com/) - Manga
-* [instintomangaka](https://www.instintomangaka.com/baixar-mangas/) - Manga
-* [Kiniga](https://kiniga.com/) - Light Novels
-* [NovelMania](https://novelmania.com.br/) - Light Novels
-* [CentralNovel](https://centralnovel.com/) - Light Novels
-* [Tsundoku](https://tsundoku.com.br/) - Light Novels
-* [EmpireNovels](https://empirenovels.com.br/) - Light Novels
-* [MyLightNovel](http://www.mylightnovel.com.br/) - Light Novels
-* [1412.rest](https://www.1412.rest/) - Web Novels
-* [Revista Programar](https://www.revista-programar.info/) - Programming Magazine
-* [DND5ED](http://dnd5ed.github.io/) - Dungeons and Dragons Guides
-* [Escritas](https://www.escritas.org/) - Poetry / Quotes
-* [Luso Poemas](https://www.luso-poemas.net/) - Poetry
-* [poesiasonline](https://www.poesiasonline.com/) - Poetry
-* [sitedepoesias](https://sitedepoesias.com/) - Poetry
-* [poesiaspoemaseversos](https://poemassemerros.wordpress.com/) - Poetry
-* [Poeta](http://poeta.ws/) - Poetry
-* [super.abril](https://super.abril.com.br/superarquivo/) - Magazines
-* [Jornais E Revistas](https://www.jornaiserevistas.com/) - Magazines
-* [VerCapas](https://www.vercapas.com.br/) - Magazines
-* [Revista Do Linux](http://augustocampos.net/revista-do-linux/index.html) - Linux Magazine
-* [jornaisbrasileiros](http://www.jornaisbrasileiros.net.br/) - News App
+* [Cultura Acadêmica](https://www.culturaacademica.com.br) - Educational Books
+* [Toomics](https://global.toomics.com/br) - Comics
+* [Arte HQs](http://www.artehqs.com.br) - Comics
+* [Tropa BR](https://tropabrscans.blogspot.com) - Comics
+* [Mundo Webtoon](https://mundowebtoon.com) - Manga
+* [Mangás Chan](https://mangaschan.com) - Manga
+* [BR Mangás](https://www.brmangas.net) - Manga
+* [Kiniga](https://kiniga.com) - Light Novels
+* [Novel Mania](https://novelmania.com.br) - Light Novels
+* [Central Novel](https://centralnovel.com) - Light Novels
+* [Tsundoku Traduções](https://tsundoku.com.br) - Light Novels
+* [Empire Novels](https://empirenovels.com.br) - Light Novels
+* [My Light Novel](http://www.mylightnovel.com.br) - Light Novels
+* [Revista PROGRAMAR](https://www.revista-programar.info) - Programming Magazine
+* [D&D 5e BR](https://dnd5ed.github.io) - Dungeons and Dragons Guides
+* [Escritas.org](https://www.escritas.org) - Poetry / Quotes
+* [Luso-Poemas](https://www.luso-poemas.net) - Poetry
+* [Poesias Online](https://www.poesiasonline.com) - Poetry
+* [Site de Poesias](https://sitedepoesias.com) - Poetry
+* [A Magia da Poesia](https://poemassemerros.wordpress.com) - Poetry
+* [Poeta](https://poeta.ws) - Poetry
+* [Superarquivo](https://super.abril.com.br/superarquivo/) - Magazines
+* [Jornais e Revistas](https://www.jornaiserevistas.com) - Magazines
+* [VerCapas](https://www.vercapas.com.br) - Magazines
+* [Revista do Linux](https://augustocampos.net/revista-do-linux/index.html) - Linux Magazine
+* [Jornais Brasileiros](https://www.jornaisbrasileiros.net.br) - News App
 * [Microsoft Learn](https://learn.microsoft.com/pt-br/training/) - Development Tutorials
-* [guiadofrontend](https://github.com/arthurspk/guiadofrontend) - Front-End Development Guide
-* [Toda Materia](https://www.todamateria.com.br/) - Learning Material
-* [Brasil Escola](https://brasilescola.uol.com.br/) - Learning Material
-* [Mundo Educacao](https://mundoeducacao.uol.com.br/) - Math / History
-* [acessaber](https://acessaber.com.br/) - Math Lessons
-* [Library Of Congress](https://www.loc.gov/collections/world-digital-library/) - Historical Documents / Images
-* [Obrasraras](https://obrasraras.usp.br/) - Historical Documents
-* [de-comunicacao-para](https://catracalivre.com.br/criatividade/285-livros-de-comunicacao-para-download/) - Communication / Culture Books
-* [Apocalipse2000](http://apocalipse2000.com.br/) - Paranormal / UFO / Scary Short Stories
-* [recantodasletras](https://www.recantodasletras.com.br/) - Text Archive
-* [RetroArquivo](https://retroarquivo.wordpress.com/) - Portuguese Game Magazines
+* [Guia do Desenvolvedor Front-end](https://github.com/arthurspk/guiadofrontend) - Front-End Development Guide
+* [Toda Matéria](https://www.todamateria.com.br) - Learning Material
+* [Brasil Escola](https://brasilescola.uol.com.br) - Learning Material
+* [Mundo Educação](https://mundoeducacao.uol.com.br) - Math / History
+* [Acessaber](https://acessaber.com.br) - Math Lessons
+* [Library Of Congress](https://www.loc.gov/collections/world-digital-library) - Historical Documents / Images
+* [BORE](https://obrasraras.usp.br) - Historical Documents
+* [Catraca Livre](https://catracalivre.com.br/criatividade/285-livros-de-comunicacao-para-download) - Communication / Culture Books
+* [Apocalipse2000](http://apocalipse2000.com.br) - Paranormal / UFO / Scary Short Stories
+* [Recanto das Letras](https://www.recantodasletras.com.br) - Text Archive
+* [RetroArquivo](https://retroarquivo.wordpress.com) - Portuguese Game Magazines
 * [Portuguese Dictionaries / Thesaurus' / Symbols](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_dictionaries_.2F_thesaurus)
 * [Portuguese Grammar Tips & Lessons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_grammar_tips_.26amp.3B_lessons)
 * [Portuguese Bibles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_bibles)
-* [NomesBiblicos](https://www.nomesbiblicos.com/) - Biblical Name History
-* [estudos-biblicos](http://estudos-biblicos.net/), [2](https://estudos-biblicos.blogspot.com/) - Bible Studies
-* [apologeta](https://www.apologeta.com.br/) - Bible Commentary
-* [Biblia](https://biblia.com.b) or [iguga](https://www.iguga.org) - Biblical Dictionary
+* [Nomes Bíblicos](https://www.nomesbiblicos.com) - Biblical Name History
+* [Estudos Bíblicos](https://estudos-biblicos.net), [2](https://estudos-biblicos.blogspot.com) - Bible Studies
+* [Apologeta](https://www.apologeta.com.br) - Bible Commentary
+* [biblia.com.br](https://biblia.com.br) or [iGuga](https://www.iguga.org) - Biblical Dictionary
 * [Portuguese Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_recipes)
 
 ***
@@ -20039,7 +20063,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### Mobile 📱
 
-**[Bromite](https://github.com/uazo/bromite-buildtools/releases), [2](https://www.bromite.org/) / [Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)/ [Mull](https://github.com/Divested-Mobile/Mull-Fenix) / [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US&gl=US)** - Android web browsers
+**[Cromite](https://github.com/uazo/cromite) / [Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)/ [Mull](https://github.com/Divested-Mobile/Mull-Fenix) / [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US&gl=US)** - Android web browsers
 **[Insight](https://insightbrowser.com/) / [Aloha](https://alohabrowser.com/) / [Kagi](https://testflight.apple.com/join/DeC8ZDnu)**  - iOS web browsers / [Improve Safari](https://hyperweb.app/)
 **[AdGuard Premium](https://forum.mobilism.org/search.php?keywords=adguard+&sr=topics&sf=titleonly) / [Adguard iOS](https://forum.mobilism.org/search.php?keywords=AdGuard+Pro&sr=topics&sf=titleonly) / [Blokada](https://blokada.org/)** -  Mobile adblocking apps
 **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398) / [FileCR](https://filecr.com/android/) - Modded APKs
