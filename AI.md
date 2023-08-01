@@ -15,6 +15,7 @@
 * ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai)
 * ⭐ **[BAI](https://chatbot.theb.ai/)** - GPT-3.5 Based Chatbot
+* ⭐ **[Poe](https://poe.com/)** - GPT-3.5 Based Chatbots by Quora
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Based Chatbot with Real-Time Voice / [Discord](https://discord.gg/Rfbzet5R3v)
 * ⭐ **[Claude](https://www.anthropic.com/index/claude-now-in-slack)** - Anthropic's Chatbot
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
