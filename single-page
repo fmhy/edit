@@ -1044,7 +1044,7 @@
 
 * ⭐ **[AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra)** - [Script](https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js)
 
-[Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt), [Assassinate Ad Block Blockers](https://greasyfork.org/en/scripts/382482-assassinate-ad-block-blockers), [Test Adblock Defender](https://blockads.fivefilters.org/), [fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/)
+[Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt), [Assassinate Ad Block Blockers](https://greasyfork.org/en/scripts/382482-assassinate-ad-block-blockers), [Test Adblock Defender](https://blockads.fivefilters.org/)
 
 ***
 
@@ -3979,11 +3979,10 @@ Add the following commands to a search to manually scrape each site.
 
 #### uBlock Filters
 
-* ⭐ **[FilterStalker](https://rentry.co/FilterStalker)**
 * ⭐ **[Unsafe / Untrusted  Filter](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw)**
 * [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)
 
-[yokoffing/filterlists](https://github.com/yokoffing/filterlists), [dbl.oisd.nl](https://oisd.nl/) / [2](https://hosts.oisd.nl/), [FilterLists](https://filterlists.com/), [webannoyances](https://github.com/yourduskquibbles/webannoyances), [fuck fuckadblock](https://bogachenko.github.io/fuckfuckadblock/), [The Block List Project](https://blocklistproject.github.io/Lists/), [ADFILT](https://github.com/DandelionSprout/adfilt), [EasyList](https://easylist.to/) / [Forum](https://forums.lanik.us/), [urlhaus-filter](https://gitlab.com/malware-filter/urlhaus-filter), [iBlocklist](https://www.iblocklist.com/), [LetBlock.it](https://letsblock.it/), [Energized Protection](https://github.com/EnergizedProtection/block), [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts), [PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection), [fanboy](https://www.fanboy.co.nz/), [NoTracking blocklist](https://github.com/notracking/hosts-blocklists), [d3ward](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt), [notracking](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt), [lan-block](https://raw.githubusercontent.com/gwarser/filter-lists/master/lan-block.txt), [developerdan](https://www.github.developerdan.com/hosts/), [scamblocklist](https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt), [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt), [iploggerfilter](https://github.com/piperun/iploggerfilter), [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs), [GoodbyeAds](https://goodbyeads.weebly.com/), [neodevhost](https://github.com/neodevpro/neodevhost), [jmdugan/blocklists](https://github.com/jmdugan/blocklists), [referrer-spam-list)](https://github.com/matomo-org/referrer-spam-list), [black-mirror](https://github.com/T145/black-mirror), [CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists), [hblock](https://hblock.molinero.dev/), [spam404](https://www.spam404.com/), [blacklist](https://github.com/anudeepND/blacklist), [energized](https://energized.pro/), [Clear URLs](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt), [TheFuckingList](https://github.com/eded333/TheFuckingList), [minoplhy filters](https://github.com/minoplhy/filters), [Little Snitch](https://github.com/fabston/little-snitch-blocklist), [dns-blocklists](https://github.com/hagezi/dns-blocklists), [uBlock-combo](https://github.com/iam-py-test/uBlock-combo)
+[FilterStalker](https://rentry.co/FilterStalker), [yokoffing/filterlists](https://github.com/yokoffing/filterlists), [dbl.oisd.nl](https://oisd.nl/) / [2](https://hosts.oisd.nl/), [FilterLists](https://filterlists.com/), [webannoyances](https://github.com/yourduskquibbles/webannoyances), [The Block List Project](https://blocklistproject.github.io/Lists/), [ADFILT](https://github.com/DandelionSprout/adfilt), [EasyList](https://easylist.to/) / [Forum](https://forums.lanik.us/), [urlhaus-filter](https://gitlab.com/malware-filter/urlhaus-filter), [iBlocklist](https://www.iblocklist.com/), [LetBlock.it](https://letsblock.it/), [Energized Protection](https://github.com/EnergizedProtection/block), [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts), [PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection), [fanboy](https://www.fanboy.co.nz/), [NoTracking blocklist](https://github.com/notracking/hosts-blocklists), [d3ward](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt), [notracking](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt), [lan-block](https://raw.githubusercontent.com/gwarser/filter-lists/master/lan-block.txt), [developerdan](https://www.github.developerdan.com/hosts/), [scamblocklist](https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt), [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt), [iploggerfilter](https://github.com/piperun/iploggerfilter), [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs), [GoodbyeAds](https://goodbyeads.weebly.com/), [neodevhost](https://github.com/neodevpro/neodevhost), [jmdugan/blocklists](https://github.com/jmdugan/blocklists), [referrer-spam-list)](https://github.com/matomo-org/referrer-spam-list), [black-mirror](https://github.com/T145/black-mirror), [CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists), [hblock](https://hblock.molinero.dev/), [spam404](https://www.spam404.com/), [blacklist](https://github.com/anudeepND/blacklist), [energized](https://energized.pro/), [Clear URLs](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt), [TheFuckingList](https://github.com/eded333/TheFuckingList), [minoplhy filters](https://github.com/minoplhy/filters), [Little Snitch](https://github.com/fabston/little-snitch-blocklist), [dns-blocklists](https://github.com/hagezi/dns-blocklists), [uBlock-combo](https://github.com/iam-py-test/uBlock-combo)
 
 ***
 
@@ -8508,53 +8507,6 @@ pass: paluch
 * [NovelLoop](https://apps.apple.com/in/app/novelloop/id1170755867) - Light Novels
 * [Libby](https://apps.apple.com/us/app/libby-by-overdrive/id1076402606) - Borrow Digital Library Books
 * [K2pdfopt](https://willus.com/k2pdfopt/) - Optimize PDF/DJVU Files for Mobile E-Readers
-A tier list of the sites in this guide can be found **[here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/raresitetier).**
-
-Remember to check sites like IMDb and Letterboxd for alternative and foreign titles of the movie you're looking for. 
-
-***
-***
-
-## Method 1 - CSE
-
-**[Custom Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_search_tools)** 
-
-These search multiple sites at once. If you're getting too many results, try clicking the name of each site to see their contents individually, or get rid of a site by typing -"sitename" without quotes. 
-
-***
-
-## Method 2 - Streaming
-
-**[Video](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_video_hosts) / [Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video)**  
-
-[NoodleMagazine](https://noodlemagazine.com), [OK](https://ok.ru/video), [VK](https://vk.com/video), [YouTube](https://www.youtube.com/), [xpWatch](https://xpwatch.vercel.app/), [0xDB](https://0xdb.org/), [xMovies8](https://www4.xmovies8.fm/), [M4UFree](http://ww1.m4ufree.com/), [LookMovie](https://lookmovie2.to/), [MyMail](https://my.mail.ru/video), [RareFilmm](https://rarefilmm.com/), [Facebook](https://www.facebook.com/watch/search/?query=fmhy), [Olgply](https://olgply.com/), [Vimeo](https://vimeo.com/), [Dailymotion](https://www.dailymotion.com/us), [Archive](https://archive.org/), [Veoh](https://www.veoh.com/), [BiliBili](https://www.bilibili.com/), [MetaCafe](https://www.metacafe.com/), [NicoVideo](https://www.nicovideo.jp/), [Tubi](https://tubitv.com/), [FZMovies](https://fzmovies.net/), [HiMovies](https://www3.himovies.to/), [DutaFilm](https://dutafilm.network/), [FMovies](https://fmovies.name/), [Kollafilm](https://kollafilm.com), [OpenLoadMov](https://openloadmov.net/), [SolarMovies](https://www2.solarmovie.to/), [Movies123](https://www.movies123.email/), [Kanopy](https://kanopy.com/) (Library Card Required), [GDrivePlayerDatabase](https://databasegdriveplayer.xyz/), [JustWatch](https://www.justwatch.com/)
-
-Use [OpenVideo](https://openvideofs.github.io) to view full [0xDB](https://0xdb.org/) videos. You can also press ctrl+I, find the content labeled "video," [copy the address](https://i.imgur.com/dgwVZaQ.png) up to "webm," then paste it into your address bar. 
-
-Add the following command to a search: 
-
-`site:my.mail.ru`
-`site:noodlemagazine.com`
-
-***
-
-## Method 3 - DL / Torrent 
-
-**[Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) / [Torrent](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
-
-[WorldCinema](http://worldscinema.org/), [MovieParadise](https://movieparadise.org) (Needs Account), [MyDuckIsDead](http://www.myduckisdead.org/), [Sanet](https://sanet.st/), [Uloz](https://ulozto.net/), [RareLust](https://rarelust.com/), [BT4G](https://bt4g.org/), [RarBG](https://rarbg.to), [1337](https://www.1337x.to/), [YTS](https://yts.mx/), [RLSBB](https://rlsbb.ru/), [Magnet4You](http://magnet4you.me/library.php), [UHDMV](https://uhdmv.org/), [FileListing](https://filelisting.com/), [WatchSoMuch](https://watchsomuch.org/), [RUTracker](https://rutracker.org/forum/index.php), [Rutor](http://rutor.info/), [Puzo](https://www.puzo.org/index.php?showforum=60), [Psycho](http://psychodownloads.com/forumdisplay.php?21-Video-Audio), [WarezHeaven](https://www.warezheaven.com/index.php?forums/movies.6/), [WarezJungle](https://wjungle.net/viewforum.php?f=6&sid=ab394282320783375454184f66c63503), [DreamTeam](https://www.dreamteamdownloads1.com/13/movies/), [AllYouLike](https://allyoulike.org/category/movies/), [FilmSofts](https://www.filmsofts.com/films/), [TehParadox](https://www.tehparadox.net/movies/)
-
-Use [JDownloader](https://jdownloader.org/) for downloads and a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn) / [Client](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients) for torrents. 
-
-***
-
-## Method 4 - Niche Sites
-
-**[Ubu](https://ubu.com/film/)** (Avant-Garde), **[HistoricFilms](https://historicfilms.com/)** (Historic), **[NSFW Sites](https://saidit.net/s/freemediafuckyeah/wiki/index#wiki_nsfw_movies)** (Adult Films)
-
-**[Non-English Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng)**
-
-[IndianCine](https://indiancine.ma/) (Indian), [Elonet](https://elonet.finna.fi/) (Finnish), [Farsiland](https://farsiland.com/) (Iranian), [PinoyMoviesHub](https://pinoymovieshub.su/) (Filipino), [StreamKiste](https://streamkiste.tv/) (German), [FilmPlanet](https://www1.filmplanet.to) (Czech), [ElTube](https://www.eltube.gr/) (Greek), [Greek Movies](https://greek-movies.com/) (Greek), [V.qq](https://v.qq.com/) (Japanese / Chinese), [JP-Films](https://jp-films.com/) (Japanese), [HK Movies](https://vinspirezhk.blogspot.com/) (Chinese), [DramaCool](https://www1.dramacool.vc/) (Asian), [037hdmovie](https://www.037hdmovie.com/) (Thai)
 ***
 ***
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
@@ -16728,7 +16680,6 @@ Twitch Stream Tracker
 ## ▷ Adblocking Extensions
 
 * ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** - Adblocker / [Guide](https://addons.mozilla.org/blog/ublock-origin-everything-you-need-to-know-about-the-ad-blocker/) / [Lite](https://github.com/gorhill/uBlock/releases?q=uBOLite)
-* ⭐ **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** - Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Merge Filters](https://realityripple.com/Tools/AdBlock++/)
 * ⭐ **[Adblock Defenders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_adblock_defenders)** - Prevent Sites from Detecting Adblockers / [Test Defenders](https://blockads.fivefilters.org/), [2](https://www.detectadblock.com/)
 * ⭐ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers)** - Block Twitch Ads
 * ⭐ **[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** - Bypass Redirects / [Skip Timers](https://greasyfork.org/en/scripts/372673) / [Additional Bypass](https://greasyfork.org/en/scripts/443888)
@@ -16736,6 +16687,7 @@ Twitch Stream Tracker
 * ⭐ **[Popup Blockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - Block Malicious Popups / Tabs
 * ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)**, [Demodal](https://addons.mozilla.org/firefox/addon/demodal), [f ck overlays](https://chrome.google.com/webstore/detail/fck-overlays/ppedokobpbdajgiejhnjfbdjlgobcpkp/related) or [Behind The Overlay Revival](https://addons.mozilla.org/en-US/firefox/addon/behind-the-overlay-revival/) - Hide Website Overlays 
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Play Videos in Ad-Free Player
+* [Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters) - Filters for Adblockers / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Merge Filters](https://realityripple.com/Tools/AdBlock++/)
 * [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker / [Guide](https://rentry.co/adblock) / [Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt)
 * [AdNauseam](https://adnauseam.io/) - Adblocker / Fakes Clicks to Confuse Tracking
 * [TBlock](https://tblock.me/) - Adblocker / [Filters](https://codeberg.org/tblock/filters)
@@ -16757,8 +16709,6 @@ Twitch Stream Tracker
 * ⭐ **[YogaDNS](https://yogadns.com/)** - DNS Adblocking
 * ⭐ **[ControlD](https://controld.com/)**, [DNS Jumper](https://www.sordum.org/7952/dns-jumper-v2-2/), [ChrisPC DNS Switch](https://www.majorgeeks.com/files/details/chrispc_dns_switch.html) or [Hetzner](https://www.hetzner.com/dns-console?country=us) - DNS Managers / Switchers
 * ⭐ **[serverless-dns](https://github.com/serverless-dns/serverless-dns)** - Serverless DNS
-* ⭐ **[Warp](https://1.1.1.1/)** / [Zero-Trust](https://rentry.org/cloudflare-warp-free-zero-trust) or [DNS Resolver Privacy-First](http://doh.tiar.app/) - DNS Resolvers
-* ⭐ **Warp Tools** - [Unlimited Data](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED), [2](https://github.com/nxvvvv/warp-plus) / [Script](https://github.com/fscarmen/warp) / [Warp Warning](https://rentry.co/warpwarning)
 * [Adguard DNS](https://adguard-dns.io/) - DNS Adblocking
 * [Pi-Hole](https://pi-hole.net/) - DNS Adblocking / Self-Hosted
 * Pi-Hole Tools - [Install Script](https://github.com/DesktopECHO/Pi-Hole-for-WSL1) / [Filter](https://firebog.net/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/alanine/) / [Chrome](https://chrome.google.com/webstore/detail/alanine/lohlpbknpcngpjifmofkidennikljlfi) / [Docker](https://hub.docker.com/repository/docker/kulda22/alanine) / [Antitelemetry](https://github.com/MoralCode/pihole-antitelemetry)
@@ -16779,6 +16729,7 @@ Twitch Stream Tracker
 * [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Smart TV Ads
 * [ZoneWatcher](https://zonewatcher.com/) - DNS Backup Tool
 * [DNS Redirector](http://dnsredirector.com/) - DNS Redirector
+* [DNS Resolver Privacy-First](http://doh.tiar.app/) - DNS Resolver
 * [Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)
 * [Technitium](https://technitium.com/dns) or [Trust DNS](https://github.com/bluejekyll/trust-dns) - Self-Hosted DNS Server
 * [DNS Perf](https://dnsperf.com/dns-speed-benchmark) or [NameBench](https://code.google.com/archive/p/namebench/) - DNS Speed Tests
@@ -16851,7 +16802,7 @@ Twitch Stream Tracker
 * [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) - Bypass Ransomware Attacks
 * [Ransomwhere](https://ransomwhe.re/) - Ransomware Tracker
 * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - Ransomware Identification Tool
-* [SigThief](https://github.com/secretsquirrel/SigThief) - Signature Test 
+* [SigThief](https://github.com/secretsquirrel/SigThief) - Signature Test
 * [YARA](https://virustotal.github.io/yara/) - Malware Identification Tool
 * [Winitor](https://www.winitor.com/) - EXE Malware Assessment
 * [Any Run](https://app.any.run/) - Malware Analysis Sandbox
@@ -17183,6 +17134,8 @@ Twitch Stream Tracker
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN 
 * ⭐ **[Softether](https://www.softether.org/)** - Free VPN / [VPN Gate](https://www.vpngate.net/en/download.aspx) / [Note](https://pastebin.com/TrSw7EpF)
 * ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Manager](https://github.com/perara/wg-manager) / [WebUI](https://hub.docker.com/r/weejewel/wg-easy)
+* ⭐ **[Warp](https://1.1.1.1/)** - Traffic Encryption VPN
+* ⭐ **Warp Tools** - [Unlimited Data](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED), [2](https://github.com/nxvvvv/warp-plus) / [Script](https://github.com/fscarmen/warp) / [Warp Warning](https://rentry.co/warpwarning)
 * [VPNSecure](https://www.vpnsecure.me/) - [Pricing](https://ibb.co/c2BdyG1)
 * [Mullvad](https://mullvad.net/) - [Pricing](https://i.ibb.co/sHB33GJ/daf48a5ee585.png) / [NetNS](https://github.com/chutz/mullvad-netns) / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
 * [IVPN](https://www.ivpn.net/) - [Pricing](https://i.ibb.co/6sQKrQL/e06bea93c5ba.png) / [Free Trial](https://redd.it/nzjmqa) / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/)
@@ -19882,7 +19835,7 @@ You can download pre-cracked Adobe products from [M0nkrus](http://w14.monkrus.ws
 
 > How do I download windows / activate windows & Office?
 For Windows check out this [section](#pirate-windows)
-For Office check these [guides](https://github.com/fmhy/FMHYedit/blob/main/base64.md#microsoft-office-dl-guides)
+For Office check these [guides](https://fmhy.pages.dev/storage/#office-suites)
 
 > Where do I find *insert game title / movie title*?
 For movies check out [this](https://whereyouwatch.com) and for new movies it's a good idea to keep an eye on [r/movieleaks](https://reddit.com/r/movieleaks). 
@@ -19952,7 +19905,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 ### Adblocking 🚫
 
 **[uBlock Origin](https://github.com/gorhill/uBlock#installation)**  - The most popular (and best) adblocking extension
-**[Adblock Filters](https://rentry.co/FilterStalker)** - Increase effectiveness of adblocker
 **[Adblock Defenders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_adblock_defenders)** - Prevent sites from detecting adblocker
 **[System-Wide Adblock Guide](https://champagne.pages.dev/before-you-begin/important-tools/#free-system-wide-adblocking-for-ios-mac-android--windows)** - Free System-Wide Adblocking for iOS, MAC, Android & Windows
 **[Pop-up Blockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - Block all pop-ups
