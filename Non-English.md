@@ -674,7 +674,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[BanglaPlex(https://banglaplex.fun/)** - Movies / [Telegram](https://t.me/banglaplex)
+* ⭐ **[BanglaPlex](https://banglaplex.fun/)** - Movies / [Telegram](https://t.me/banglaplex)
 * ⭐ **[Einthusan](https://einthusan.tv/)** - Movies / Music
 * [uWatchFree](https://uwatchfree.be/) - Movies / TV
 * [khatrimazafull](https://khatrimazaful.wiki/) - Movies
