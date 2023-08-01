@@ -577,6 +577,7 @@
 * [APKSum](https://www.apksum.com/)
 * [apk.cafe](https://apk.cafe/)
 * [Material-You-app-list](https://github.com/nyas1/Material-You-app-list)
+* [Fine Lock](https://finelock.app/) - Samsung Galaxy Apps
 * [Shelf](https://play.google.com/store/apps/details?id=com.shelf.app) - App Recommendations
 * [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - App Giveaway Sites
 
