@@ -105,7 +105,6 @@
 * ⭐ **[VToncolab](https://rentry.org/vtoncolab)** - Scan Files Without Downloading Them
 * ⭐ **[Virus File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scan_files)** - Individual File Scanners
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** or [Ultra Adware Killer](https://www.carifred.com/ultra_adware_killer/) - Anti-Adware
-* ⭐ **[TronScript](https://old.reddit.com/r/TronScript/)** / [DL](https://www.reddit.com/r/TronScript/wiki/downloads) - Virus Removal Script
 * [Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check) - URL Scanners
 * [RevealQR](https://revealqr.app/) - Scan QR Codes
 * [Security / Antivirus Multireddit](https://old.reddit.com/user/goretsky/m/security/)
