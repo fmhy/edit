@@ -66,6 +66,7 @@
 * Mcafee - Preinstalled Bloatware
 * Avast - Known for selling user data
 * AVG - Owned by Avast
+* Gen Digital / Norton - Owned by Avast
 * CCleaner - Owned by Avast, best to use built in win 11 tool or bleachbit
 * Private Internet Access - Owned by [malware distributor Kape](https://redd.it/q3lepv)
 * ExpressVPN / ZenMate / CyberGhost - Owned by [Kape](https://rentry.co/i8dwr)
