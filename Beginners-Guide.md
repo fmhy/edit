@@ -1,4 +1,3 @@
-# ![PirateLogo](https://i.ibb.co/dW42gHF/pirateskull.png)
 # -> ***Beginners Guide to Piracy*** <-
 
 ***
@@ -10,8 +9,7 @@
 
 > How do I tell if a site or download is safe? Any tips? 
 Check out [Booty Guard](https://rentry.org/bootyguard) our basic safety guide. 
-Still feel unsure? Reach out to us via [Divolt](https://redd.it/uto5vw).
-!!!note **In the end trust your gut & intuition, also make sure you've looked at sites/software we've listed as unsafe:** [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread)
+Still feel unsure? Reach out to us via [Divolt](https://redd.it/uto5vw) & make sure you've looked at sites/software we've listed as unsafe:** [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread)
 
 > I don't know what seeding means or *insert other term*...
 You will find almost all terms related to piracy & more on [The Piracy Glossary](https://rentry.org/the-piracy-glossary)
@@ -117,7 +115,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### Privacy 🔐
 **[Privacy Guides](https://www.privacyguides.org/)** - Privacy Guides 
-**[Privacytools.io](https://www.privacytools.io/)** - Privacy tool index
 **[Security List](https://security-list.js.org/)** - Security Checklist
 **[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons / **[Search Engine Recommendations](https://avoidthehack.com/best-private-search)** 
 **[DuckDuckGo](https://duckduckgo.com/) / [Mojeek](https://www.mojeek.com/)** - Tracker free web search
@@ -230,12 +227,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[OpenSubtitles](https://opensubtitles.org/)** - Most popular subtitles site
 **[Multi-Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_tool_sites)** - Sites with multiple tools
 **[Unsafe Sites / Software](https://redd.it/10bh0h9)** - Things we feel should be avoided
-
-***
-
-Source: **[/r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-
-If you have any suggestions or questions feel free to join us in [Divolt](https://redd.it/uto5vw) ♡
 
 ***
 
