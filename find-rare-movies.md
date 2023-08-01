@@ -1,5 +1,3 @@
-A tier list of the sites in this guide can be found **[here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/raresitetier).**
-
 Remember to check sites like IMDb and Letterboxd for alternative and foreign titles of the movie you're looking for. 
 
 ***
