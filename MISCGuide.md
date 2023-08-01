@@ -169,6 +169,7 @@
 * ⭐ **[InoReader](https://www.inoreader.com/)** - News Feed Manager
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) - Piracy News
 * ⭐ **[Tech News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tech_news)** - Tech News
+* ⭐ **[KrebsOnSecurity](https://krebsonsecurity.com/)**, [Latest Privacy](https://latestprivacy.org/), [Talos Blog](https://blog.talosintelligence.com/), [IT Security Guru](https://www.itsecurityguru.org/), [ThreatPost](https://threatpost.com/), [Calyx](https://calyxinstitute.org/), [Privacy International](https://www.privacyinternational.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - Privacy / Security News
 * ⭐ **[YCombinator](https://news.ycombinator.com/)** / [Highlighter](https://greasyfork.org/en/scripts/39311), [Hacki](https://github.com/Livinglist/Hacki), [HarmonicHackerNews](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [Glider](https://github.com/Mosc/Glider) [hckrnws](https://www.hckrnws.com/), [algolia](https://hn.algolia.com/), [Hackers](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901), [news.social-protocols](https://news.social-protocols.org), [Hazumi](https://apps.apple.com/ie/app/hazumi/id1670237209) or [HackerWebApp](https://hackerwebapp.com/) - Hacker News
 * ⭐ **[BoringReport](https://www.boringreport.org/)**, [Artifact](https://artifact.news/) or [Volv](https://play.google.com/store/apps/details?id=com.volvmedia.volvapp) - Android News Apps
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - How to bypass article paywalls
@@ -183,7 +184,6 @@
 * [Riot Archive](https://riotarchive.com/) - Riot / Protest Videos
 * [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
 * [Liliputing](https://liliputing.com/) - Linux Mobile News
-* [Latest Privacy](https://latestprivacy.org/), [Talos Blog](https://blog.talosintelligence.com/), [IT Security Guru](https://www.itsecurityguru.org/), [ThreatPost](https://threatpost.com/), [Calyx](https://calyxinstitute.org/), [Privacy International](https://www.privacyinternational.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - Privacy / Security News
 * [Netblocks](https://netblocks.org/) - Censorship News
 * [CBM](https://comicbookmovie.com/) - Comic, Movie & TV News
 * [EmergentMind](https://www.emergentmind.com/) - AI News
