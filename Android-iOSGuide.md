@@ -493,7 +493,6 @@
 * [Palette](https://play.google.com/store/apps/details?id=com.ald.devs47.sam.beckman.palettesetups) - Custom Home Screens
 * [Codo Dodo](http://www.codododo.com/) - Navigation Bar Customization
 * [Panels](https://play.google.com/store/apps/details?id=com.fossor.panels&hl=en_US&gl=QA) or [1 Edge](https://play.google.com/store/apps/details?id=com.hiruffy.controller) - Android Sidebar Panel
-* [Custom Volume Panel](https://play.google.com/store/apps/details?id=com.codingbatch.volumepanelcustomizer) - Customize Volume Bar
 * [Statusbar Icon Hider](https://play.google.com/store/apps/details?id=com.cooliehat.statusbariconhider) - Hide Status Bar Items
 * [Substratum Tweaks](https://github.com/luisbocanegra/substratum-tweaks) - System Theme
 * [HomeScreens](https://homescreens.org/) - Custom Phone Home Screen Examples
