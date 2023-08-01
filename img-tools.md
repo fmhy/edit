@@ -589,7 +589,6 @@
 * [Anime Study General](https://discord.gg/3bwdfRk) - Anime Production Community
 * [McLelun](http://www.mclelun.com/p/tutorial.html) - Anime Style Background Tutorial
 * [AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch) - Anime Machine Learning
-* [Photoshop Courses](https://github.com/nbats/FMHYedit/blob/main/base64.md#photoshop-courses) - Photoshop Course Drive
 * [PhotoshopTutorials.ws](https://www.photoshoptutorials.ws/) - Photoshop Tutorials
 * [DomDesigns](https://www.youtube.com/c/DomDesigns/) - Illustrator Tutorials
 * [PhotoshopTraining](https://www.youtube.com/@PhotoshopTrainingChannel), [Phlearn](https://www.youtube.com/@phlearn) or [PiXimperfect](https://www.youtube.com/@PiXimperfect) - Photoshop YouTube Tutorials
