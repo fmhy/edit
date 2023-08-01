@@ -32,7 +32,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [ThePornMap](https://thepornmap.com/) 
 * [PornBox](http://pornbox.org/)
 * [PrimePornList](https://www.primepornlist.com/)
-* [Porn Sites Banned in India](https://www.scribd.com/doc/273372869/List-of-porn-websites-banned-in-India#fullscreen&from_embed) 
 * [look1](https://look1.club/), [2](https://that8.xyz/), [3](https://lady3.info/) - Chinese Site Index
 * [Excel Today](https://t.me/excel_today) - NSFW Telegram List
 * [DirtyWarez Adult](https://dirtywarez.org/cat/adult) - Alexa Adult Site Rankings
@@ -65,7 +64,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [thesextube](https://thesextube.net/)
 * [PornGO](https://www.porngo.com/) 
 * [PornTrex](https://www.porntrex.com/)
-* [NutChaser](https://www.nutchaser.com/) 
 * [Lion's Hub](https://discord.gg/4CHxqPWyWn) 
 * [AnonVideos](https://anonvideos.com/)
 * [HotPornFile](https://www.hotpornfile.org/)
@@ -98,7 +96,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Clip Fuck](https://clipf.com/) 
 * [Porn-Star](https://www.porn-star.com/)
 * [ChatPic](https://chatpic.org/)
-* [Sex-Student](https://sex-studentki.vip/)
 * [kemono.party](https://kemono.party/) - Porn / Hentai / Use Adblock
 * [Permanent Booru](http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)
 * [mcb3id.onion](http://ik4kzum3ocg6dhx4jhzteko4jzijmxnwsbkcqenf33as3i74i3mcb3id.onion/) 
@@ -165,12 +162,8 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [jdc](https://discord.gg/jdc) - Asian Porn Discord
 * [XXXTelegramBot](https://t.me/XXXTelegramBot) - Telegram
 * [altar_of_elders](https://t.me/altar_of_elders) - Telegram
-* [AAAAAFfX6Mz1ZiUwM3uWkA](https://t.me/joinchat/AAAAAFfX6Mz1ZiUwM3uWkA) - Telegram
-* [eroticinclinations](https://t.me/eroticinclinations) - Telegram
 * [internetjuice](https://t.me/internetjuice) - Telegram
-* [punahele](https://t.me/punahele) - Telegram
 * [lowqualityjournal](https://t.me/lowqualityjournal) - Telegram
-* [aesthetic_dvite](https://t.me/aesthetic_dvite) - Telegram
 * [destructiveaddiction](https://t.me/destructiveaddiction) - Telegram
 * @PornMirror - Telegram
 * [Boob Bot](https://www.boobbot.us/), [CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) or [multporn-image-downloader-v2](https://github.com/Official-Husko/multporn-image-downloader-v2) - Porn Image Downloaders
