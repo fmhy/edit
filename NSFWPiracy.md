@@ -379,6 +379,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [electric.smut](https://nsfwai.com/) or [PornPen](https://pornpen.ai/) - NSFW Image Generators
 * [MoanMyIP](https://www.moanmyip.com/) - Sexy Girls Moaning Your IP
 * [AdultOpenAI](http://adultopenai.pythonanywhere.com/) or [Unhinged](https://www.unhinged.ai/) - NSFW Ai Chatbots
+* [SmutBase](https://smutba.se/) - NSFW Model Download
 
 ***
 
