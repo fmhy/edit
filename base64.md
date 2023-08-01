@@ -573,12 +573,6 @@ pass: paluch
 
 *** 
 
-#### Photoshop Courses
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9ZNlJYWEtiSiNwbkFkY2RrU1h3N3d1alRJaE41Qmx3`
-
-*** 
-
 #### Mandarin Chinese
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL3UvMC9tb2JpbGUvZm9sZGVycy8xNTJvZUhRb2VxdkM5UlZNazZrSmkxaXJBbFNTcDdOVms/dXNwPXNoYXJpbmc=`
