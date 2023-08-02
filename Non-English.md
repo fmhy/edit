@@ -746,7 +746,6 @@
 ## ▷ Streaming
 
 * [Bioskopkeren](https://download.bioskopkeren.sbs/) - Movies / TV
-* [Dramamu](https://45.141.56.103/) - Movies / TV
 * [otakudesu](https://otakudesu.lol/) - Anime
 * [anoBoy](https://anoboy.monster/) - Anime
 * [kuramanime](https://kuramanime.net/) - Anime
