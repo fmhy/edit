@@ -101,7 +101,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * ⭐ **[My Duck Is Dead](http://www.myduckisdead.org/)**
 * [WIPFilms](https://wipfilms.net/)
 * [EroGarga](https://www.erogarga.com/)
-* [Eroticity](https://t.me/+tsnDzTFK30A5NTc0)
 * [EroticAge](https://www.eroticage.net/)
 * [VintageClassix](http://www.vintageclassix.com/)
 * [paradisehill](https://en.paradisehill.cc/)
@@ -124,6 +123,27 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 ***
 
 ## ▷ Live Cams
+
+* [Cam4](https://www.cam4.com/)
+* [Stripchat](https://stripchat.com/)
+* [Cherry.tv](https://cherry.tv/)
+* [PDCams](https://pdcams.com/)
+* [XLoveCam](https://www.xlovecam.com/en/)
+* [Flirt4Free](https://www.flirt4free.com/)
+* [Bongacams](https://bongacams.com/)
+* [Streamate](https://streamate.com/)
+* [LiveJasmin](https://www.livejasmin.com/en/girls/)
+* [TokenFox](https://tokenfox.com/)
+* [Bimbim](https://bimbim.com/en/)
+* [Peeks Social](https://www.peeks.com/channel/group)
+* [ImLive](https://imlive.com/webcam-girls/)
+* [MyFreeCams.com](https://www.myfreecams.com/#Homepage)
+* [jerkmate](https://www.jerkmatelive.org/)
+* [amateur.tv](https://www.amateur.tv/)
+* [Slutroulette](https://slutroulette.com/)
+* [Islive](https://www.islive.com/)
+* [Free cam girls](https://flirtymania.com/en/p)
+* [SakuraLive](https://www.sakuralive.com/index.shtml) - Japanese
 
 ***
 
