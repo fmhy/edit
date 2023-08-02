@@ -227,6 +227,11 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 # ► Images / Reels
 
+* [xfree](https://www.xfree.com/) - NSFW Reels
+* [fap.bar](https://fap.bar/) - NSFW Reels
+* [FIQFUQ](https://fiqfuq.com/) - Random NSFW Reddit GIFs
+* [cakeslip](https://www.cakeslip.com/) - NSFW Reddit GIFs
+* [NSFWSwipe](https://nsfwswipe.com/v/6716209) - NSFW GIFs
 * [NSFW Monster](https://nsfwmonster.com/) - NSFW GIFs
 * [ChatPic](https://chatpic.org/) - Create Chat Rooms and share images
 
@@ -252,6 +257,19 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 ***
 
 ## ▷ TikTok
+
+* ⭐ **[FlixFap](https://fikfap.com/)** - NSFW TikTok
+* ⭐ **[fyptt](https://fyptt.to/)** - NSFW TikTok
+* [xxxtik](https://xxxtik.com/) - NSFW TikTok
+* [Tik.porn](https://tik.porn/) - NSFW TikTok
+* [TikPorn.tube](https://tikporn.tube/)- NSFW TikTok
+* [tt8teen](https://tt8teen.com/) -NSFW TikTok
+* [tiktits](https://tiktits.com/) - NSFW TikTok
+* [OnlyTik](https://onlytik.com/) - NSFW TikTok
+* [Xfollow](https://www.xfollow.com/) - NSFW TikTok
+* [Tik.pm](https://tik.pm/) - NSFW TikTok
+* [r/tiktokporn](https://www.reddit.com/r/tiktokporn/) - NSFW TikTok Subreddit
+* [r/Tiktokthots](https://www.reddit.com/r/tiktokthots/) - NSFW TikTok Subreddit
 
 ***
 
