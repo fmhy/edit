@@ -62,6 +62,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [thesextube](https://thesextube.net/)
 * [PornGO](https://www.porngo.com/) 
 * [PornTrex](https://www.porntrex.com/)
+* [Lion's Hub](https://discord.gg/4CHxqPWyWn) 
 * [AnonVideos](https://anonvideos.com/)
 * [HotPornFile](https://www.hotpornfile.org/)
 * [hobby.porn](https://hobby.porn/)
@@ -149,6 +150,19 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 ## ▷ Asian
 
+* [ChatPic](https://chatpic.org/)
+* [kemono.party](https://kemono.party/) - Porn / Hentai / Use Adblock
+* [Permanent Booru](http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)
+* [mcb3id.onion](http://ik4kzum3ocg6dhx4jhzteko4jzijmxnwsbkcqenf33as3i74i3mcb3id.onion/) 
+* [The Asenheim Project](https://www.asenheim.org/)
+* [NetU Search](https://netu.tv/view_page.php?pid=4) - Click [blue box](https://i.ibb.co/s6RffT3/74fce8d0ebb1.png)
+* [GalleryCherry](https://github.com/RobbWatershed/GalleryCherry) - Gallery Archiving Android App
+* [fap.bar](https://fap.bar/) - NSFW Reddit Video Browser
+* [nsfw.xxx](https://nsfw.xxx/), [Scroller](https://scrolller.com/) or [reddnight](https://reddnight.com/) - NSFW Reddit Image & Video Browser
+* [MrCong](https://mrcong.com/), [babes.gallery](https://babes.gallery/), [sxypix](https://sxypix.com/), [Porn Images](https://porn-images-xxx.com/), [traht](https://traht.org/), [Babepedia](https://www.babepedia.com/), [realbooru](https://realbooru.com/) or [girlsreleased](https://girlsreleased.com/) - Images
+* [Ana Dias Photography](https://www.anadiasphotography.com/) or [PmateHunter](https://pmatehunter.com/) - Playboy Images
+* [Simple-Costplay](https://www.simply-cosplay.com/) or [Hentai Costplays](https://hentai-cosplays.com) - Cosplay Images
+* [Rule34World](https://rule34.world/) - Rule 34 Images
 * [Republic of Korea](https://republic-of-korea.com/) - Asian Porn
 * [yadongkorea](https://yadongkorea.net/) - Asian Porn
 * [365next2](https://www.365next2.com/) - Asian Porn
@@ -194,6 +208,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * @PornMirror - Telegram
 * [Boob Bot](https://www.boobbot.us/), [CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) or [multporn-image-downloader-v2](https://github.com/Official-Husko/multporn-image-downloader-v2) - Porn Image Downloaders
 * [Pornhub DL Script](https://redd.it/ks5sba), [TubeOffline](https://www.tubeoffline.com/download-PornHub-videos.php) or [Savido Pornhub](https://www.savido.net/sites/pornhub) - Pornhub Downloader
+* [SmutBase](https://smutba.se/) - NSFW Models
 * [FC2 Gather](https://github.com/supsupsuperstar/fc2_gather) - FC2 Image Scraper
 
 ***
@@ -319,6 +334,11 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [shikotch](https://shikotch.net/)
 * [MangaGenki](https://mangagenki.com/)
 * [Doujinantena](https://doujinantena.top/)
+* [Hentai IMG](https://hentai-img.com/)
+* [HentaiWorld](https://hentaiworld.tv/)
+* [Wholesome Hentai](https://wholesomelist.com/)
+* [Anime-Sharing Hentai](http://www.anime-sharing.com/forum/hentai-ovas-36/)
+* [Porndude Hentai](https://theporndude.com/hentai-porn-sites)
 * [Fakku Search Script](https://redd.it/u0fnpf)
 * [Manhwas](https://www.manhwas.net/) - Spanish
 * [TMOHentai](https://tmohentai.com/) - Spanish

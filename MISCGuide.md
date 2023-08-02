@@ -55,8 +55,8 @@
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - Data Hoarding Tools Index
 * [DirtyWarez Tracker](https://dirtywarez.org/cat/tracker), [OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/) / [2](https://opentrackers.org/), [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) or [awesome-piracy](https://github.com/Igglybuff/awesome-piracy#public-trackers) - Torrent Site Indexes
 * [cata-list](https://cata-list.github.io/) - Site / Tool Index
-* [Website Hunt](https://www.websitehunt.co/) - Site / Tool Index
-* [Toolbox](https://gitlab.com/toolbox-resources/toolbox) - Site / Tool Index
+* [Website Hunt](https://github.com/cata-list/cata-list.github.io) - Site / Tool Index
+* [Toolbox](https://tool-box.pages.dev/) - Site / Tool Index
 * [Prospector](https://www.prospector.cz/) - Site / Tool Index 
 * [The More You Know](https://marckoxx.github.io/) - Site / Tool Index
 * [Yesterlinks](https://links.yesterweb.org/) - Site / Tool Index
@@ -64,29 +64,23 @@
 * [Awesome Loginless](https://github.com/fiatjaf/awesome-loginless) - Loginless Site Index
 * [/u/fullnumberofcharacte's Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/g37lwb/megapiracywiki/g1lnle5/) - Site / Tool Index
 * [5000 Best](http://5000best.com/websites/) - Site / [Tool](http://5000best.com/tools/) Index
-* [alt3rnative](https://github.com/machiav3lli/alt3rnative) - Site / Tool Index
 * [Peelopaalu](https://peelopaalu.neocities.org/) - Site / Tool Index
 * [RefDesk](https://www.refdesk.com/facts.html) - Site / Tool Index
-* [/g/'s good sites](https://rentry.co/sites), [2](https://web.archive.org/web/20211219234838/https://www.goodsites.tech/) - Site / Tool Index
 * [The Scene](https://lkrjangid1.github.io/Awesome-Warez/) - Site / Tool Index
 * [Cool Stuff I Found](https://rentry.org/cool-stuff-i-found-on-the-internet) - Site / Tool Index
 * [Cool Websites](https://rentry.co/cool_websites) - Site / Tool Index
 * [Product Hunt](https://www.producthunt.com/) - Site / Tool Index
-* [Useful Interweb](https://usefulinterweb.com/) or [Daily Useful Links](https://t.me/DailyUsefulLINKS) - Daily Websites
+* [Useful Interweb](https://usefulinterweb.com/) - Daily Websites
 * [Mostly Free](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) - Site / Tool Index
 * [bajins](https://www.bajins.com/) - Chinese Site / Tool Index
 * [iBiblio](https://www.ibiblio.org/) - Site / Tool Index 
-* [Acme](http://www.acme.com/) - Site / Tool Index
 * [pomfcrawl](https://pomfcrawl.pythonanywhere.com/) - Site / Tool Index
 * [itch.io Tools](https://itch.io/tools/free) - Site / Tool Index
 * [Beej's Index](https://www.beej.us/) - Site / Tool Index
 * [Nicelist](https://github.com/alamehan/nice-list) - Site Index
 * [num's link list](https://soda.privatevoid.net/num/links/) - Site Index
-* [NYPL Best of the Web](https://www.nypl.org/collections/nypl-recommendations/best-of-web) - Site Index
-* [Awesome Lite Websites](https://github.com/mdibaiee/awesome-lite-websites) - Lightweight Site Index
 * [Onion Directories](https://github.com/nbats/FMHYedit/blob/main/base64.md#onion-directories) - .onion Directories
 * [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public Domain Resource Index Awesome
-* [LinkLonk](https://linklonk.com/) - Link Aggregator & Voting
 * [Simple Tools](https://simpletools.info/doku.php) - Simple Programs Index 
 * [DMOZ](http://www.dmoztools.net/) or [SmartLinks](https://smartlinks.org/index.html) - Website Directory
 * [Archive-It](https://archive-it.org/) - Archive.org Collections
@@ -94,7 +88,6 @@
 * [Clone Wars](https://gourav.io/clone-wars) - Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars) 
 * [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps), [Awesome oss alternatives](https://github.com/RunaCapital/awesome-oss-alternatives), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Index
 * [Open Sustainable Technology](https://opensustain.tech/) - Sustainable Tech Project Index
-* [List of Lists](https://l-lists.com/en/) - List Index
 * [href.cool](https://href.cool/) - List of Old / Weird Sites
 * [Pointless Sites](https://www.pointlesssites.com/) - Pointless Site Index
 * [Websites From Hell](https://websitesfromhell.net/) - Shitty Website Index
@@ -169,8 +162,7 @@
 * ⭐ **[InoReader](https://www.inoreader.com/)** - News Feed Manager
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) - Piracy News
 * ⭐ **[Tech News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tech_news)** - Tech News
-* ⭐ **[KrebsOnSecurity](https://krebsonsecurity.com/)**, [Latest Privacy](https://latestprivacy.org/), [Talos Blog](https://blog.talosintelligence.com/), [IT Security Guru](https://www.itsecurityguru.org/), [ThreatPost](https://threatpost.com/), [Calyx](https://calyxinstitute.org/), [Privacy International](https://www.privacyinternational.org/) or [RestorePrivacy](https://restoreprivacy.com/category/news-reports/) - Privacy / Security News
-* ⭐ **[YCombinator](https://news.ycombinator.com/)** / [Highlighter](https://greasyfork.org/en/scripts/39311), [Hacki](https://github.com/Livinglist/Hacki), [HarmonicHackerNews](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [Glider](https://github.com/Mosc/Glider) [hckrnws](https://www.hckrnws.com/), [algolia](https://hn.algolia.com/), [Hackers](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901), [news.social-protocols](https://news.social-protocols.org), [Hazumi](https://apps.apple.com/ie/app/hazumi/id1670237209) or [HackerWebApp](https://hackerwebapp.com/) - Hacker News
+* ⭐ **[Security / Hacking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_security_.2F_hacking_news)** - Security / Hacking News
 * ⭐ **[BoringReport](https://www.boringreport.org/)**, [Artifact](https://artifact.news/) or [Volv](https://play.google.com/store/apps/details?id=com.volvmedia.volvapp) - Android News Apps
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - How to bypass article paywalls
 * [JustRead](https://justread.link/) - Ad-Free Article Viewer

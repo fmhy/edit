@@ -1752,6 +1752,7 @@
 ## ▷ Streaming
 
 * [SVT Play](https://www.svtplay.se/) - Movies / TV
+* [DreamFilmsW](https://dreamfilmsw.net/) - Movies / TV
 * [Filmarkivet](https://www.filmarkivet.se/) - Short Films
 
 ***

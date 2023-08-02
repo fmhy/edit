@@ -560,6 +560,7 @@
 * [Pulsus](https://www.pulsus.cc/play/) - 3x3 Tile Board Rhythm Game
 * [Plink](http://labs.dinahmoe.com/plink/) - Music Game
 * [Make It Meme](https://makeitmeme.com/) - Meme Party Game
+* [Rooms](https://rooms.xyz/) - Room Design Game / [Discord](https://discord.gg/rooms)
 * [Fishington](https://fishington.io/) - Fishing Game
 * [Too Many Chefs](https://www.toomanychefs.party/) - Text-Based Coop Cooking Game 
 * [Haxball](https://www.haxball.com/) - Physics Based Soccer
