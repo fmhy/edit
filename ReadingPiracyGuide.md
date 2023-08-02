@@ -881,7 +881,6 @@
 * [Disaster Scans](https://disasterscans.com/) - [Discord](https://discord.gg/JbcJCpv)
 * [MangaSail](https://www.mangasail.net/)
 * [Taadd](http://www.taadd.com/)
-* [BilingualManga](https://bilingualmanga.net/)
 * [MangaFreak](https://w12.mangafreak.net/)
 * [Mangageko](https://www.mangageko.com/)
 * [Mangairo](https://h.mangairo.com/)
