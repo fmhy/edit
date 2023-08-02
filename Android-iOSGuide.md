@@ -253,6 +253,7 @@
 * [Blokada](https://blokada.org/) / [v4](https://go.blokada.org/apk4) - Adblocking App
 * [AdAway](https://adaway.org/) - Adblocking App / [GitHub](https://github.com/AdAway/AdAway)
 * [ad-free](https://abertschi.github.io/ad-free/landing/) - Adblocking App
+* [InviZible](https://github.com/Gedsh/InviZible) - Adblocking App
 * [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) / [F-Droid](https://f-droid.org/packages/dnsfilter.android), [Rethink](https://rethinkdns.com/app) / [Blocklists](https://rethinkdns.com/app#blocklists), [BhanUpratpys](https://github.com/bhanupratapys/dnswarden), [DNS66](https://f-droid.org/en/packages/org.jak_linux.dns66/), [2](https://jak-linux.org/projects/dns66/) / [GitHub](https://github.com/julian-klode/dns66), [TrustDNS](https://surfshark.com/trust-dns) or [Pi-Droid](https://f-droid.org/en/packages/friimaind.piholedroid/)  - DNS Adblocker 
 * [Daedalus](https://github.com/iTXTech/Daedalus) or [Smokescreen](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen)- DNS Modifier
 * [DNS Speed Test & Changer](https://github.com/nbats/FMHYedit/blob/main/base64.md#dns-speed-test--changer) - DNS Speed Test
@@ -321,7 +322,6 @@
 * [Private Lock](https://github.com/wesaphzt/privatelock) or [WTMP](https://play.google.com/store/apps/details?id=com.wtmp.svdsoftware) - Detect When Phone is Touched
 * [Intruder Detector](https://play.google.com/store/apps/details?id=com.evezzon.intruderdetector) - Takes Photo of Phone Intruders
 * [XSCamera](https://play.google.com/store/apps/details?id=me.jagar.xscamera) - Hidden Camera Recorder
-* [Invizible](https://invizible.net/en/) - Unblock Sites and Encrypt Traffic
 * [TrustDevice-Android](https://github.com/trustdecision/trustdevice-android) - Create Device Identifiers
 * [Keyoxide](https://codeberg.org/Berker/keyoxide-flutter) - Verify Decentralized Cryptographic Identities
 * [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android&amp;hl=en_US) - Tor Proxy
@@ -384,7 +384,7 @@
 * [BBTV](https://github.com/bttv-android/bttv) or [Frosty](https://www.frostyapp.io/) - Modded Twitch App
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - Reddit Video Downloader
-* [Boost](https://github.com/nbats/FMHYedit/blob/main/base64.md#boost), [Joey](https://github.com/nbats/FMHYedit/blob/main/base64.md#joey), [Dawn](https://github.com/Tunous/Dawn), [BaconReader](https://baconreader.com/) or [Relay](https://relayforreddit.com/index.html) - Reddit Clients
+* [Boost](https://github.com/nbats/FMHYedit/blob/main/base64.md#boost), [Joey](https://github.com/nbats/FMHYedit/blob/main/base64.md#joey), [Dawn](https://github.com/Tunous/Dawn), [BaconReader](https://baconreader.com/), [Geddit](https://kaangiray26.github.io/geddit-app/) or [Relay](https://relayforreddit.com/index.html) - Reddit Clients
 * [Offline Reddit](https://play.google.com/store/apps/details?id=yy.offlinereader) - Offline Reddit Client
 * [reveddit](https://play.google.com/store/apps/details?id=com.agreenbhm.reveddit) - View Deleted Reddit Posts
 * [Updoot](https://updoot.app/) - Reddit Saved Post / Comment Manager
