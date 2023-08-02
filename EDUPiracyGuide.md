@@ -779,7 +779,6 @@ Simulator
 * [LearnNatively](https://learnnatively.com/) - Learn Japanese with Books
 * [Memento](https://github.com/ripose-jp/Memento) - Japanese Learning Video Player
 * [JapaneseWithAnime](https://www.japanesewithanime.com/) - Learn Japanese with Anime
-* [BilingualManga](https://bilingualmanga.net/) - Learn Japanese with Manga
 * [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - Japanese Practice Material
 * [Learn Japanese Grammar](https://kimallen.sheepdogdesign.net/) - Basic Principles of Japanese Grammar
 * [Jotoba](https://jotoba.de/), [Fujiten](https://github.com/odrevet/fujiten), [core6000](https://core6000.neocities.org/), [Tagaini](https://www.tagaini.net/), [Takoboto](https://takoboto.jp/), [Jisho](https://jisho.org/), [Massif](https://github.com/rsimmons/massif), [‎Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380), [JapBase](https://japbase.neocities.org/), [Weblio](https://ejje.weblio.jp/), [Goo Dictionary](https://dictionary.goo.ne.jp/) or [rtk-search](https://hochanh.github.io/rtk/) - Japanese Dictionaries / Phrases
