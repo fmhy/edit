@@ -357,7 +357,11 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 ## ▷ Illustrations
 
+* ⭐ **[Danbooru](https://danbooru.donmai.us/)**
+* [Gelbooru](https://gelbooru.com/)
 * [yande.re](https://yande.re/)
+* [Sankaku Complex](https://beta.sankakucomplex.com/tag/en)
+* [TBIB](https://tbib.org/index.php?page=post&s=list)
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - Booru Client / [Telegram](https://t.me/Flexbooru/161)
 
 ***
