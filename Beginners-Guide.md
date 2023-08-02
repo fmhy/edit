@@ -154,7 +154,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/) / [GOG-Games](https://gog-games.to/)** - Game download sites / [FitGirl Discord](https://discord.gg/Up3YARe4RW)
 **[AlvRo](https://github.com/nbats/FMHYedit/blob/main/base64.md#alvro) / [Vimms Lair](https://vimm.net/)** - ROM download sites / [Emulators](https://emulation.gametechwiki.com/)
 **[Firehawk52](https://rentry.org/firehawk52)** - Music Ripping Guide
-**[Slavart](https://discord.gg/NgPJTt3WK3) / [DoubleDouble](https://doubledouble.top/)** - Multi-Site Audio Download
+**[Slavart](https://discord.gg/zjwjvuzH) / [DoubleDouble](https://doubledouble.top/)** - Multi-Site Audio Download
 **[Free MP3 Download](https://free-mp3-download.net/)** - MP3 / FLAC downloads
 **[Soulseek](https://slsknet.org/)** - Audio download app
 **[Download CSE](https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z) / [2](https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h)** - Multi-site download search
