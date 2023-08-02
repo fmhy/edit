@@ -177,7 +177,7 @@
 * [Take Notes](https://github.com/the-rebooted-coder/Take-Notes) - Convert Text to Handwritten Notes
 * [RemoteMouse](https://www.remotemouse.net/) or [TouchDroid](https://github.com/vitaminncpp/TouchDroid) - Use Android as Mouse / Touch Pad
 * [Raise To Answer](https://github.com/TheLastProject/RaiseToAnswer) - Answer Phone by Raising to Ear
-* [Clima](https://codeberg.org/Lacerte/clima), [Rain](https://github.com/DarkMooNight/Rain), [KWeather](https://invent.kde.org/utilities/kweather), [Flux](https://play.google.com/store/apps/details?id=de.bendix.flux), [GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather), [Prognoza](https://github.com/davidtakac/prognoza) or [OMWeather](https://github.com/woheller69/omweather) - Weather Apps
+* [Breezy Weather](https://github.com/breezy-weather/breezy-weather), [Clima](https://codeberg.org/Lacerte/clima), [Rain](https://github.com/DarkMooNight/Rain), [KWeather](https://invent.kde.org/utilities/kweather), [Flux](https://play.google.com/store/apps/details?id=de.bendix.flux), [GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather), [Prognoza](https://github.com/davidtakac/prognoza) or [OMWeather](https://github.com/woheller69/omweather) - Weather Apps
 * [WeatherRadar](https://github.com/dh4/WeatherRadar) - Doppler Radar Weather Images
 * [Sunny Side / TiseRise](https://www.tobianoapps.com/) - UV Index / Minimal Hourglass
 * [Aftership](https://play.google.com/store/apps/details?id=com.aftership.AfterShip&hl=en&gl=US) - Package Tracker
