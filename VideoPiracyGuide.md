@@ -284,7 +284,7 @@
 ## ▷ Anime Streaming
 
 * ⭐ **[AniWatch](https://aniwatch.to/)**, [2](https://4anime.gg/), [3](https://kaido.to/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/RRaf5JkkKu) / [Auto-Focus](https://greasyfork.org/en/scripts/464019) / [Mirrors](https://zoroanime.net/)
-* ⭐ **[9Anime](https://www.9anime.to/)** - Sub / Dub / 1080p / [Mirrors](https://9anime.me/) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher) / [Ad Scripts](https://redd.it/c330dx)
+* ⭐ **[AniWave](https://aniwave.to/)** - Sub / Dub / 1080p / [Mirrors](https://9anime.me/) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher) / [Ad Scripts](https://redd.it/c330dx)
 * ⭐ **[AllAnime](https://allanime.to/)** - Sub / Dub / 1080p
 * ⭐ **[marin.moe](https://marin.moe)** - Sub / Dub / 1080p / Blu-Ray
 * ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / 1080p / Mini Encoded Blu-Ray / [Downloader](https://github.com/KevCui/animepahe-dl)
