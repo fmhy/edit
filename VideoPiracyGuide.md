@@ -801,7 +801,7 @@
 
 # ► Tracking / Discovery
 
-* ⭐ **[FlixMetrix](https://flickmetrix.com/)** - Combines IMDb, Rotten Tomatoes & Letterbox ratings
+* ⭐ **[FlixMetrix](https://flickmetrix.com/)** - Combines IMDb, Rotten Tomatoes & Letterboxd ratings
 * ⭐ **[Trakt](https://trakt.tv/)** - TV / Anime / Movies
 * ⭐ **Trakt Tools** - [Apps](https://trakt.tv/apps) / [Universal Scrobble](https://github.com/trakt-tools/universal-trakt-scrobbler) / [Duplicate Remover](https://huere.net/trakt/duplicate_removal/) / [Create Lists](https://listrr.pro/)
 * ⭐ **[Letterboxd](https://letterboxd.com/)** - Movies
