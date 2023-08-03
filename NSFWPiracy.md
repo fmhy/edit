@@ -399,7 +399,6 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Hentai Manga Sites](https://theporndude.com/hentai-manga-sites) - Hentai Sites List
 * [NClientV2](https://github.com/Dar9586/NClientV2) - Android NHentai
 * [TachiyomiSY](https://tachiyomi.org/forks/TachiyomiSY/) - Android Hentai
-* [EhViewer](https://gitlab.com/NekoInverter/EhViewer) - Android Hentai
 * [Violet](https://github.com/project-violet/violet) - Android Hentai/ [Discord](https://discord.com/invite/fqrtRxC)
 * [Hentoid](https://github.com/avluis/Hentoid) - Android Hentai
 * [FEhViewer](https://github.com/honjow/FEhViewer) - iOS Hentai
