@@ -1172,12 +1172,12 @@
 * ⭐ **[CyPwn](https://repo.cypwn.xyz/)**, [2](https://ipa.cypwn.xyz/) - App Repository / [Discord](https://discord.gg/cypwn)
 * ⭐ **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open Source App Index
 * ⭐ **[A.I. Apps](https://appraven.net/collection.php?listId=63b5eef1904afd2a981cead0)** - AI App Index
-* [AppDB](https://appdb.to) - App Store
 * [TrollStore](https://github.com/opa334/TrollStore) - iOS Apps / 14.0-15.4.1 / [IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)
 * [Streamiza](https://t.me/streamiza) - Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)
 * [App Cake](https://www.iphonecake.com/) - Cracked Apps / [Discord](https://discord.com/invite/TgY2Qmb)
 * [Mobilism iOS Apps](https://forum.mobilism.org/viewforum.php?f=312)
 * [fnd](https://fnd.io/) - App Store Search
+* [AppDB](https://appdb.to) - App Store
 * [TweakBox](https://www.tweakboxapp.com/) - App Store
 * [Cydia](https://cydia.saurik.com/) - App Store / [Paid Apps](https://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown) / [Updates](https://t.me/cydiaupdate)
 * [BuildStore](https://builds.io/) - App Store
