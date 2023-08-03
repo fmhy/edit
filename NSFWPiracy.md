@@ -349,10 +349,11 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 ## ▷ Hentai Anime
 
 * ⭐ **[The Index](https://theindex.moe/library/hentai)** - Hentai Sites List
+* ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Torrents
+* ⭐ **[HentaiWorld](https://hentaiworld.tv/)** - Hentai Streaming / [Discord](https://discord.com/invite/uyHFDgcUJR)
 * [PornDude Hentai](https://theporndude.com/hentai-streaming-sites) - Hentai Sites List
 * [kemono.party](https://kemono.party/) - Porn / Hentai / Use Adblock
 * [Hentai.tv](https://hentai.tv/)
-* [Nyaa Sukebei](https://sukebei.nyaa.si/) 
 * [Haho](https://haho.moe/)
 * [HentaiStream](https://hentaistream.moe/)
 * [HentaiDude](https://hentaidude.com/)
@@ -371,37 +372,67 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 
 ## ▷ Hentai Manga / Comics
 
-* [Wholesome Hentai](https://wholesomelist.com/)
-* [Panda Chaika](https://panda.chaika.moe/)
-* [EAHentai](https://eahentai.com/)
-* [OmegaScans](https://omegascans.org/)
-* [manhwa18](https://manhwa18.com/)
-* [toonily](https://toonily.me/)
-* [MyReadingManga](https://myreadingmanga.info/)
-* [manhwas.men](https://manhwas.men/)
-* [tumanhwas](https://tumanhwas.club/)
-* [Jraws](http://jraws.net/)
-* [ComicBox](https://www.comicbox.xyz/)
-* [Mangadass](https://mangadass.com/)
+* ⭐ **[e-hentai](https://e-hentai.org/)** / [exhentai](https://exhentai.org/) - Hentai Manga / [Android Client](https://github.com/honjow/FEhViewer) / [Deleted Galleries Backup](https://panda.chaika.moe/)
+* ⭐ **[Hitomi](https://hitomi.la/)** - Hentai Manga
+* ⭐ **[IMHentai](https://imhentai.xxx/)** - Hentai Manga / Comics / [Discord](https://discord.com/invite/GRTKFhavEG)
+* ⭐ **[NHentai](https://nhentai.net/)** - Hentai Manga / [Android Client](https://github.com/Dar9586/NClientV2)
+* ⭐ **[Multporn](https://multporn.net/)** - Hentai Manga / Comics
+* ⭐ **[AllPornComic](https://allporncomic.com/)** - Comics
+* ⭐ **[Toonily](https://toonily.me/)** - Pornhwa
+* ⭐ **[Manhwa18](https://manhwa18.com/)** - Pornhwa
+* ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Manga Torrents
+* ⭐ **[Wholesome Hentai](https://wholesomelist.com/)** - Wholesome Manga Index / [Discord](https://discord.com/invite/688T4TaE)
+* [Hentai2Read](https://hentai2read.com/) or [HentaiHere](https://hentaihere.com/) - Hentai Manga
+* [HentaiFox](https://hentaifox.com/) - Hentai Manga
+* [Pururin](https://pururin.to/) - Hentai Manga / [Discord](https://discord.com/invite/PtrzM4aVFv)
+* [Simply Hentai](https://www.simply-hentai.com/web) - Hentai Manga
+* [AsmHentai](https://asmhentai.com/) - Hentai Manga
+* [8Muses](https://8muses.io/) - Hentai Manga / Comics
+* [HentaiEnvy](https://hentaienvy.com/) - Hentai Manga / Comics
+* [XlecX](https://xlecx.one/) - Hentai Manga / Comics
+* [HentaiRox](https://hentairox.com/) - Hentai Manga
+* [EAHentai](https://eahentai.com/) - Hentai Manga
+* [HentaiEra](https://hentaiera.com/) - Hentai Manga
+* [HentaiRead](https://hentairead.com/) - Hentai Manga
+* [HentaiHand](https://hentaihand.com/en/) - Hentai Manga
+* [HentaiZap](https://hentaizap.com/) - Hentai Manga
+* [M-Hentai](https://m-hentai.net/) - Hentai Manga
+* [Doujins.com](https://doujins.com/) - Hentai Manga / [Discord](https://discord.com/invite/EPnJqPf7xh)
+* [MyHentaiGallery](https://myhentaigallery.com/) - Comics
+* [FreeAdultComix](https://freeadultcomix.com/) - Comics
+* [ComixZilla](https://comixzilla.com/) - Comics
+* [My Hentai Comics](https://myhentaicomics.com/) - Comics
+* [Mult34](https://mult34.com/) - Comics
+* [PornComixOne](https://porncomixone.net/)
+* [Erofus](https://www.erofus.com/) - Comics / [Discord](https://discord.com/invite/ZKCV4CmhaD)
+* [SVSComics](https://svscomics.com/) - Comics
+* [BestPornComix](https://bestporncomix.com/) - Comics
+* [NXTComics](https://nxt-comics.net/) - Comics
+* [KingComicX](https://kingcomix.com/) - Comics
+* [Porn Comics](https://porncomics.to/) - Comics
+* [ILikeComix](https://ilikecomix.com/all-porncomic-com/) - Comics
+* [XYZ Porn Comics](https://xyzcomics.com/) - Comics
+* [manhwas.men](https://manhwas.men/) - Pornhwa / [Discord](https://discord.com/invite/7t4DfpG)
+* [Manytoon](https://manytoon.com/) - Pornhwa
+* [Mangadass](https://mangadass.com/) - Pornhwa
+* [ManhwaHentai.me](https://manhwahentai.me/) - Pornhwa
+* [MangaHentai](https://mangahentai.me/) - Pornhwa
+* [Hentaiwebtoon](https://hentaiwebtoon.com/) - Pornhwa
+* [MangaGenki](https://mangagenki.com/) - Pornhwa
+* [OmegaScans](https://omegascans.org/) - Pornhwa / [Discord](https://discord.com/invite/BrkUm8jeng)
 * [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46)
-* [manhwaland](https://manhwaland.guru/)
 * [shikotch](https://shikotch.net/)
-* [MangaGenki](https://mangagenki.com/)
-* [Doujinantena](https://doujinantena.top/)
 * [Hentai IMG](https://hentai-img.com/)
-* [HentaiWorld](https://hentaiworld.tv/)
-* [Wholesome Hentai](https://wholesomelist.com/)
 * [Anime-Sharing Hentai](http://www.anime-sharing.com/forum/hentai-ovas-36/)
-* [Porndude Hentai](https://theporndude.com/hentai-porn-sites)
-* [Fakku Search Script](https://redd.it/u0fnpf)
-* [Manhwas](https://www.manhwas.net/) - Spanish
-* [TMOHentai](https://tmohentai.com/) - Spanish
-* [Hentai Manga Sites](https://theporndude.com/hentai-manga-sites) - Hentai Sites List
-* [NClientV2](https://github.com/Dar9586/NClientV2) - Android NHentai
+* [MyReadingManga](https://myreadingmanga.info/) - LGBTQ+ Hentai Manga
+* [Doujinantena](https://doujinantena.top/) - Japanese Hentai Manga
+* [ComicBox](https://www.comicbox.xyz/) - Chinese Pornhwa
+* [TMOHentai](https://tmohentai.com/) - Spanish Hentai Manga
+* [Manhwas](https://www.manhwas.net/) - Spanish Pornhwa
+* [tumanhwas](https://tumanhwas.club/) - Spanish Pornhwa
 * [TachiyomiSY](https://tachiyomi.org/forks/TachiyomiSY/) - Android Hentai
-* [EhViewer](https://gitlab.com/NekoInverter/EhViewer) - Android Hentai
 * [Violet](https://github.com/project-violet/violet) - Android Hentai/ [Discord](https://discord.com/invite/fqrtRxC)
-* [Hentoid](https://github.com/avluis/Hentoid) - Android Hentai
+* [Hentoid](https://github.com/avluis/Hentoid) - Android Hentai / [Discord](https://discord.com/invite/QEZ3qk9)
 * [FEhViewer](https://github.com/honjow/FEhViewer) - iOS Hentai
 * [pandaforever](https://gitlab.com/squishydreams/pandaforever), [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader), [X Comic Downloader](https://lowmaster.itch.io/x-comic-downloader) or [Panda Chaika](https://panda.chaika.moe/) [nhentai](https://github.com/RicterZ/nhentai) - Hentai Downloaders
 
