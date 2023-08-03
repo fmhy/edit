@@ -1637,6 +1637,7 @@
 * [PelisFlix](https://pelisflix.chat/), [2](https://pelisflix2.bid/) - Movies / TV
 * [pelisplushd](https://pelisplushd.nz/) - Movies / TV / Anime
 * [PelisForte](https://pelisforte.nu/) - Movies / TV
+* [Cuevana2](https://www.cuevana2.icu/) - Movies / TV
 * [EntrePeliculasySeries](https://entrepeliculasyseries.pro/), [2](https://entrepeliculasyseries.nz/) - Movies / TV / Anime
 * [SeriesGrey](https://www.seriesgrey.com/) - Movies / TV / Anime
 * [Cine.Arplay](https://play.cine.ar/) - Movies / TV
