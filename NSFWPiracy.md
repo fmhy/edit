@@ -205,11 +205,12 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 ## ▷ Asian
 
 * ⭐ **[SexTB](https://sextb.net/)** - Japanese
-* ⭐ **[SupeJav](https://supjav.com/)** - Japanese
+* ⭐ **[SupJav](https://supjav.com/)** - Japanese
 * ⭐ **[JAVSeen](https://javseen.tv/)** - Japanese
-* ⭐ **[MissAV](https://missav.com/en)** or [ThisAV](https://thisav.com/) - Japanese
+* ⭐ **[MissAV](https://missav.com/en)**, [myAV](https://myav.com/) or [ThisAV](https://thisav.com/) - Japanese
 * ⭐ **[JavGuru](https://jav.guru/)** - Japanese
 * [Javtiful](https://javtiful.com/) - Japanese
+* [JavHDPorn](https://www2.javhdporn.net/) - Japanese
 * [JAV Quick](https://javquick.com/) - Japanese
 * [JAVHD.today](https://javhd.today/) - Japanese
 * [VJAV](https://vjav.com/main/) - Japanese
@@ -223,29 +224,27 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [JAVMost](https://www5.javmost.com/) - Japanese
 * [Javfinder](https://javfinder.sb/) - Japanese
 * [Sex JAV](https://sexjav.tv/) - Japanese
+* [OPJAV](https://opjav.com/) - Japanese
+* [JAV19](https://www.jav19.com/) - Japanese
 * [WatchJAVonline](https://watchjavonline.com/) - Japanese
 * [JavBangers](https://www.javbangers.com/) - Japanese
 * [JavFindX](https://javfindx.com/) - Japanese
+* [JavEnglish](http://javenglish.cc/) - Japanese
 * [JavDoe](https://javdoe.to/) - Japanese
 * [7MMTV](https://7mmtv.sx/) - Japanese
 * [JAVFC2](https://javfc2.net/) - Japanese
 * [JAVBabe](https://ww1.javbabe.net/) - Japanese
+* [Roshutu-Shuuti](https://roshutu-shuuti.net/) - Japanese
+* [Video.fc2](https://video.fc2.com/a/) - Japanese
 * [BlackedJAV](https://blackedjav.com/) - Interracial Japanese
 * [KissJAV](https://kissjav.com/) - Asian
+* [TokyoMotion](https://tokyomotion.com/) - Asian
 * [Republic of Korea](https://republic-of-korea.com/) - Asian
 * [yadongkorea](https://yadongkorea.net/) - Asian
 * [365next2](https://www.365next2.com/) - Asian
 * [JavRank](https://javrank.com/) - Asian
+* [FunLove](https://funlove.info/) - Asian
 * [HereXXX](https://herexxx.com/) - Asian
-* [ArcJav](https://arcjav.com/) - Japanese
-* [SEGNECK](https://discord.gg/jP5BHAUbeu) - Japanese
-* [vjav](https://vjav.com/main/) - Japanese
-* [JavHDPorn](https://www2.javhdporn.net/) - Japanese
-* [javtiful](https://javtiful.com/) - Japanese
-* [141Jav](https://www.141ppv.com/) - Japanese
-* [Roshutu-Shuuti](https://roshutu-shuuti.net/) - Japanese
-* [Video.fc2](https://video.fc2.com/a/) - Japanese
-* [JavEnglish](http://javenglish.cc/) - Japanese
 * [ChinaBabe](https://ww2.chinababe.net/) - Chinese
 * [91Porn](https://91porn.com/index.php) - Amateur Chinese
 * [sjhs301](https://sjhs301.github.io/) - Chinese
@@ -270,6 +269,8 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Anix.moe](https://www.anix.moe/)
 * [SweetPorn](https://sweetporn.org/)
 * [RemaxHD](https://remaxhd.live/)
+* [MaxJAV](https://maxjav.com/)
+* [ArcJav](https://arcjav.com/) - Japanese
 * [Download Piracy Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "nsfw"
 * [CamVault](https://camvault.xyz/) - DL Chaturbate, MyFreeCams & CAM4 Recordings
 * [XXXTelegramBot](https://t.me/XXXTelegramBot) - Telegram
@@ -290,6 +291,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Pornoslon](http://pornoslon.me/)
 * [PornBBS](http://pornbbs.org/) 
 * [jdc](https://discord.gg/jdc) - Asian Porn Discord
+* [SEGNECK](https://discord.gg/jP5BHAUbeu) - Asian Porn Discord
 * [Lion's Hub](https://discord.gg/4CHxqPWyWn) 
   
 ***
