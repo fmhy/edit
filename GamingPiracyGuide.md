@@ -1159,7 +1159,6 @@
 * [League of Graphs](https://www.leagueofgraphs.com/) - Champion Rankings
 * [Rewind.lol](https://rewind.lol/) or [LoLEcho](http://lolecho.com/) - League of Legends Match History
 * [Teemo](https://teemo.gg/) - LoL, TeamFight & Wild Rift Models
-* [Surrenderat20](https://www.surrenderat20.net/) - League of Legends News
 * [OP.GG](https://www.op.gg/) - League of Legends Leaderboards / Stats
 * [Porofessor](https://porofessor.gg/) - Live League of Legends Game Stats
 * [Dota2ProTracker](https://www.dota2protracker.com/) or [16-Bits](https://16-bits.org/) - Dota 2 Stats Tracker
