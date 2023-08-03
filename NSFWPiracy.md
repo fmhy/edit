@@ -389,6 +389,7 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [AsmHentai](https://asmhentai.com/) - Hentai Manga
 * [8Muses](https://8muses.io/) - Hentai Manga / Comics
 * [HentaiEnvy](https://hentaienvy.com/) - Hentai Manga / Comics
+* [Comic Porn XXX](https://comicporn.xxx/) - Hentai Manga / Comics
 * [XlecX](https://xlecx.one/) - Hentai Manga / Comics
 * [HentaiRox](https://hentairox.com/) - Hentai Manga
 * [EAHentai](https://eahentai.com/) - Hentai Manga
@@ -400,16 +401,23 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Doujins.com](https://doujins.com/) - Hentai Manga / [Discord](https://discord.com/invite/EPnJqPf7xh)
 * [MyHentaiGallery](https://myhentaigallery.com/) - Comics
 * [FreeAdultComix](https://freeadultcomix.com/) - Comics
+* [Shentai](https://shentai.org/) - Comics
 * [ComixZilla](https://comixzilla.com/) - Comics
 * [My Hentai Comics](https://myhentaicomics.com/) - Comics
 * [Mult34](https://mult34.com/) - Comics
-* [PornComixOne](https://porncomixone.net/)
+* [ComicsValley](https://comicsvalley.com/) - Comics
+* [LaComics](https://lacomics.net/) - Comics
+* [PornComixOne](https://porncomixone.net/) - Comics
+* [AllPornComix.net](https://allporncomix.net/) - Comics
 * [Erofus](https://www.erofus.com/) - Comics / [Discord](https://discord.com/invite/ZKCV4CmhaD)
 * [SVSComics](https://svscomics.com/) - Comics
 * [BestPornComix](https://bestporncomix.com/) - Comics
 * [NXTComics](https://nxt-comics.net/) - Comics
 * [KingComicX](https://kingcomix.com/) - Comics
+* [GoldenComics](https://goldencomics.art/) - Comics
 * [Porn Comics](https://porncomics.to/) - Comics
+* [BondageComixxx](https://bondagecomixxx.net/) - Comics
+* [Xcomics](https://xcomics.se/) - Comics
 * [ILikeComix](https://ilikecomix.com/all-porncomic-com/) - Comics
 * [XYZ Porn Comics](https://xyzcomics.com/) - Comics
 * [manhwas.men](https://manhwas.men/) - Pornhwa / [Discord](https://discord.com/invite/7t4DfpG)
@@ -425,6 +433,8 @@ Note - This list only contains sites / tools not found on [PornDude](https://the
 * [Hentai IMG](https://hentai-img.com/)
 * [Anime-Sharing Hentai](http://www.anime-sharing.com/forum/hentai-ovas-36/)
 * [MyReadingManga](https://myreadingmanga.info/) - LGBTQ+ Hentai Manga
+* [Yiffer](https://yiffer.xyz/) - Furry Comics
+* [SavitaHD](https://savitahd.net/) - Indian Sex Comics
 * [Doujinantena](https://doujinantena.top/) - Japanese Hentai Manga
 * [ComicBox](https://www.comicbox.xyz/) - Chinese Pornhwa
 * [TMOHentai](https://tmohentai.com/) - Spanish Hentai Manga
