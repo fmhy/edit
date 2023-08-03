@@ -640,7 +640,7 @@
 * [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime / 1080p
 * [Privatemoviez](https://privatemoviez.cloud/) - Movies / TV / 1080p
 * [Nollyverse](https://www.nollyverse.com/) - Movies / TV / 1080p
-* [ARMGDDN](https://t.me/ARMGDDNGames) - 3D Movies / 1080p / High-speed
+* [ARMGDDN](https://t.me/AGBrowser) - 3D Movies / 1080p / High-speed
 * [FilmGo](https://www.filmgo.live/) - Movies / TV / 720p
 * [FZMovies](https://fzmovies.host/) - Movies / 720p
 * [YourSerie](https://www.yourserie.com/) - Movies / TV / 720p
