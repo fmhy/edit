@@ -518,7 +518,7 @@
 * [WeirdSpot](https://www.weirdspot.fyi/) - Create Playlist from Words
 * [UpcomingPlaylists](https://www.upcomingplaylists.com/) - Playlists of Artists Playing Live Near You
 * [Obscurify](https://obscurifymusic.com/) or [MusicTaste](https://musictaste.space/) - Compare Music Taste to Others
-* [Dubolt](https://dubolt.com/) or [Chosic](https://www.chosic.com/) - Song Discovery Tools
+* [Dubolt](https://dubolt.com/), [Maroofy](https://maroofy.com/) or [Chosic](https://www.chosic.com/) - Song Discovery Tools
 * [UnknownMusicBot](https://t.me/UnknownMusicBot) - Play a Random Rare Song from YouTube 
 * [Random Album Bookmark Script](https://pastebin.com/rR4qrvnX) - Find Random Albums
 * [1001 Albums Generator](https://1001albumsgenerator.com/) - Generates Random Album Each Weekday 
