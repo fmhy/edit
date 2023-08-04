@@ -322,6 +322,7 @@
 * [MrCong](https://mrcong.com/), [babes.gallery](https://babes.gallery/), [sxypix](https://sxypix.com/), [traht](https://traht.org/), [Babepedia](https://www.babepedia.com/), [realbooru](https://realbooru.com/) or [girlsreleased](https://girlsreleased.com/) - Images
 * [Ana Dias Photography](https://www.anadiasphotography.com/) or [PmateHunter](https://pmatehunter.com/) - Playboy Images
 * [Simple-Costplay](https://www.simply-cosplay.com/) or [Hentai Costplays](https://hentai-cosplays.com) - Cosplay Images
+* [Realbooru](https://realbooru.com/)
 * [ChatPic](https://chatpic.org/) - Create Chat Rooms and share images
 
 ## ▷ Leaks
@@ -406,8 +407,12 @@
 * [HentaiDude](https://hentaidude.com/) - Hentai Streaming
 * [sakuracircle](https://sakuracircle.com/) - Hentai DDL 
 * [Hentai Upscales](https://t.me/+4zMgLbnhiF5hZGRk) - Hentai DDL
+* [FapForFun](https://fapforfun.net/) - Hentai Torrents / [Discord](https://discord.com/invite/vJvN87tt)
 * [Rule34Video](https://rule34video.com/) - 3D Porn
+* [Naughty Machinima](https://www.naughtymachinima.com/) - 3D Porn
+* [Studio Flow](https://studiofow.com/movies/) - 3D Porn / [Discord](https://discord.com/invite/zUgDe3B)
 * [HentaiLA](https://www3.hentaila.com/) - Spanish
+* [Fapservice](https://fapservice.com/) - Compilation of echhi anime scenes / [Discord](https://discord.com/invite/sTaEawE)
 * [/cumg/](https://rentry.co/coom) - Hentai Resources
 
 ***
@@ -428,6 +433,7 @@
 * [Hentai2Read](https://hentai2read.com/) or [HentaiHere](https://hentaihere.com/) - Hentai Manga
 * [HentaiFox](https://hentaifox.com/) - Hentai Manga
 * [Pururin](https://pururin.to/) - Hentai Manga / [Discord](https://discord.com/invite/PtrzM4aVFv)
+* [Luscious](https://www.luscious.net/) - Hentai Manga / Comics
 * [Simply Hentai](https://www.simply-hentai.com/web) - Hentai Manga
 * [AsmHentai](https://asmhentai.com/) - Hentai Manga
 * [8Muses](https://8muses.io/) - Hentai Manga / Comics
@@ -442,6 +448,7 @@
 * [HentaiZap](https://hentaizap.com/) - Hentai Manga
 * [M-Hentai](https://m-hentai.net/) - Hentai Manga
 * [Doujins.com](https://doujins.com/) - Hentai Manga / [Discord](https://discord.com/invite/EPnJqPf7xh)
+* [Hentaifromhell](https://hentaifromhell.org/) - Hentai Manga / Comics
 * [MyHentaiGallery](https://myhentaigallery.com/) - Comics
 * [FreeAdultComix](https://freeadultcomix.com/) - Comics
 * [Shentai](https://shentai.org/) - Comics
@@ -518,16 +525,39 @@
 
 ## ▷ Illustrations
 
+* ⭐ **[Pixiv](https://www.pixiv.net/en/)**
 * ⭐ **[Danbooru](https://danbooru.donmai.us/)**
+* ⭐ **[Rule 34](https://rule34.xxx/)**
+* ⭐ **[Rule34.dev](https://rule34.dev/)** - Multi-Booru Aggregator
+* ⭐ **[Hentai Foundry](https://www.hentai-foundry.com/)** / [Discord](https://discord.com/invite/gMtgEcZuk4)
 * [kemono.party](https://kemono.party/)
 * [Gelbooru](https://gelbooru.com/)
 * [yande.re](https://yande.re/)
+* [Konachan](https://konachan.com/)
 * [Sankaku Complex](https://beta.sankakucomplex.com/tag/en)
-* [TBIB](https://tbib.org/index.php?page=post&s=list)
-* [Rule34World](https://rule34.world/) - Rule 34 Images
+* [Kurowanka](https://kusowanka.com/)
+* [Nozomi.la](https://nozomi.la/)
+* [Rule 34 Paheal](https://rule34.paheal.net/)
+* [Rule34.xyz](https://rule34.xyz/) / [Discord](https://discord.com/invite/GVfjtug)
+* [Rule34.us](https://rule34.us/)
+* [Rule34Hentai](https://rule34hentai.net/)
+* [Rule34World](https://rule34.world/)
+* [TBIB](https://tbib.org/)
+* [Xbooru](https://xbooru.com/)
+* [The Hentai World](https://thehentaiworld.com/)
+* [WHentai](https://whentai.com/)
+* [Foot-Fetish-Booru](https://footfetishbooru.booru.org/)- Foot Fetish Art
+* [Hypno Hub](https://hypnohub.net/) - Hypno Fetish Art / [Discord](https://discord.com/invite/4Y82pB6)
+* [Giantess Booru](https://giantessbooru.com/) - Giantess Fetish Art
+* [e621](https://e621.net/) - Furry Art
+* [FurryBooru](https://furry.booru.org/) - Furry Art
+* [Fur Affinity](https://www.furaffinity.net/) - Furry Art
+* [Derpibooru](https://derpibooru.org/) - Furry Art
+* [InkBunny](https://inkbunny.net/) - Furry Art
 * [Permanent Booru](http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)
 * [mcb3id.onion](http://ik4kzum3ocg6dhx4jhzteko4jzijmxnwsbkcqenf33as3i74i3mcb3id.onion/) 
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - Booru Clients / [Telegram](https://t.me/Flexbooru/161)
+* * [Rule 34 App](https://r34.app/) - PWA Booru Client
 
 ***
 
