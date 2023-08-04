@@ -619,6 +619,7 @@
 * [Awesome Detection Transformer](https://github.com/IDEA-Research/awesome-detection-transformer) - Transformer for Detection and Segmentation Papers
 * [Springer](https://link.springer.com/) - Science / Articles
 * [DOKU.PUB](https://doku.pub/) - Science / Articles
+* [Nexus Bot](https://t.me/science_nexus_bot) - Science / Articles / [Twitter](https://twitter.com/the_superpirate) / [Mastadon](https://kolektiva.social/@the_superpirate)
 * [ESJI](http://www.esjindex.org/) - Science / Journals
 * [Clarivate](https://mjl.clarivate.com/) - Science / Journals
 * [Plos](https://plos.org/) - Science / Journals
