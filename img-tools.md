@@ -99,7 +99,7 @@
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime Image Colorization
 * [Replicate](https://replicate.com/sczhou/codeformer), [GPEN-Colab](https://github.com/bycloudai/GPEN-colab), [Photo Face Restorer](https://www.restorephotos.io/) or [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Restoration / Colorization Tool
 * [Color-Dragon](https://www.color-dragon.tk/) - Add more Color to Images
-* [style2paints](https://github.com/lllyasviel/style2paints) or [PaintsChainer](https://github.com/pfnet/PaintsChainer) - Lineart Colorization Tool
+* [style2paints](https://github.com/lllyasviel/style2paints) or [Petalica Paint](https://github.com/pfnet/PaintsChainer) - Lineart Colorization Tool
 * [AdverseCleaner](https://github.com/lllyasviel/AdverseCleaner) - Image Noise Reduction
 * [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/) - Image Dithering
 * [SmartDeblur](http://smartdeblur.net/index.html) - De-blurring / Stabilization Tools
