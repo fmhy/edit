@@ -1449,7 +1449,7 @@ Add the following commands to a search to manually scrape each site.
 
 [MediaMonkey](https://www.mediamonkey.com/), [mnamer](https://github.com/jkwill87/mnamer), [MediaInfo](https://mediaarea.net/en/MediaInfo) / [Online](https://mediaarea.net/MediaInfoOnline), [tinyMediaManager](https://www.tinymediamanager.org/), [Bruji](https://www.bruji.com/), [FileBot](https://www.filebot.net/), [MediaElch](https://www.kvibes.de/mediaelch/)
 
-* [TVNamer](https://github.com/dbr/tvnamer), [TVRename](https://www.tvrename.com/) - TV File Data Automation
+* [TVNamer](https://github.com/dbr/tvnamer) or [TVRename](https://www.tvrename.com/) - TV File Data Automation
 * [Shoko](https://github.com/shokoanime) or [Anitomy](https://github.com/erengy/anitomy) - Anime File Data Automation
 
 ***
