@@ -36,10 +36,10 @@
 * ⭐ **[sxyprn](https://www.sxyprn.com/)**
 * ⭐ **[SpankBang](https://spankbang.com/)**
 * ⭐ **[xvideos](https://www.xvideos.com/)**
+* ⭐ **[xhamster](https://xhamster.com/)**
 * ⭐ **[Pornhub](https://www.pornhub.com/)**
 * ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/)
 * ⭐ **[bellesa](https://www.bellesa.co/)** - Porn Videos for women
-* [xhamster](https://xhamster.com/)
 * [xnxx](https://www.xnxx.com/)
 * [TNAFlix](https://www.tnaflix.com/)
 * [Pornobae](https://pornobae.com/)
@@ -164,17 +164,16 @@
 * [pandamovie](https://pandamovie.in/)
 * [pornxtheatre](https://pornxtheatre.com/)
 * [openload](https://xopenload.me/)
-* [xHamster](https://xhamster.com/categories/vintage?min-duration=40)
 * [AdultLoad](https://adultload.ws/)
-* [xVideos](https://www.xvideos.com/tags/d:20min_more/movie)
-* [xxxBunker](https://xxxbunker.com/search/film?duration=long&sort=duration) 
-* [TubePorn](https://tubepornclassic.com/most-popular/272/?sort_by=video_viewed&duration_from=3000)
 * [EffedUpMovies](https://www.effedupmovies.com/) - Disturbing Horror Movies
 
 ***
 
 ## ▷ Live Cams
 
+* ⭐ **[Chaturbate](https://chaturbate.com/)**
+* ⭐ **[JerkMate](https://www.jerkmatelive.org/)**
+* ⭐ **[CamSoda](https://www.camsoda.com/)**
 * [Cam4](https://www.cam4.com/)
 * [Stripchat](https://stripchat.com/)
 * [Cherry.tv](https://cherry.tv/)
@@ -182,19 +181,21 @@
 * [XLoveCam](https://www.xlovecam.com/en/)
 * [Flirt4Free](https://www.flirt4free.com/)
 * [Bongacams](https://bongacams.com/)
+* [BimBim](https://www.bimbim.com/en/)
 * [Streamate](https://streamate.com/)
-* [LiveJasmin](https://www.livejasmin.com/en/girls/)
+* [LiveJasmin](https://www.livejasmin.com/)
 * [TokenFox](https://tokenfox.com/)
 * [Bimbim](https://bimbim.com/en/)
 * [Peeks Social](https://www.peeks.com/channel/group)
 * [ImLive](https://imlive.com/webcam-girls/)
 * [MyFreeCams.com](https://www.myfreecams.com/#Homepage)
-* [jerkmate](https://www.jerkmatelive.org/)
 * [amateur.tv](https://www.amateur.tv/)
 * [Slutroulette](https://slutroulette.com/)
 * [Islive](https://www.islive.com/)
 * [Free cam girls](https://flirtymania.com/en/p)
-* [SakuraLive](https://www.sakuralive.com/index.shtml) - Japanese
+* [SakuraLive](https://www.sakuralive.com/index.shtml) - Asian
+* [LiveSexAsian](https://www.livesexasian.com/) - Asian
+* [AsianBabeCams](https://www.asianbabecams.com/) - Asian
 
 ***
 
@@ -405,10 +406,14 @@
 * [HentaisTube](https://www.hentais.tube/) - Hentai Streaming
 * [Watch Hentai](https://watchhentai.net/) - Hentai Streaming
 * [HentaiDude](https://hentaidude.com/) - Hentai Streaming
+* [CartoonPornVideos](https://www.cartoonpornvideos.com/) - Hentai Streaming
 * [sakuracircle](https://sakuracircle.com/) - Hentai DDL 
 * [Hentai Upscales](https://t.me/+4zMgLbnhiF5hZGRk) - Hentai DDL
 * [FapForFun](https://fapforfun.net/) - Hentai Torrents / [Discord](https://discord.com/invite/vJvN87tt)
 * [Rule34Video](https://rule34video.com/) - 3D Porn
+* [Rule34Porn](https://rule34porn.net/) - 3D Porn
+* [ZZCartoon](https://www.zzcartoon.com/) - 3D Porn
+* [3D Sex Anime](https://www.3dsexanime.xyz/) - 3D Porn
 * [Naughty Machinima](https://www.naughtymachinima.com/) - 3D Porn
 * [Studio Flow](https://studiofow.com/movies/) - 3D Porn / [Discord](https://discord.com/invite/zUgDe3B)
 * [HentaiLA](https://www3.hentaila.com/) - Spanish
@@ -537,6 +542,7 @@
 * [Sankaku Complex](https://beta.sankakucomplex.com/tag/en)
 * [Kurowanka](https://kusowanka.com/)
 * [Nozomi.la](https://nozomi.la/)
+* [Slushe](https://slushe.com/) / [Discord](https://discord.com/invite/GYjEXqeXSJ)
 * [Rule 34 Paheal](https://rule34.paheal.net/)
 * [Rule34.xyz](https://rule34.xyz/) / [Discord](https://discord.com/invite/GVfjtug)
 * [Rule34.us](https://rule34.us/)
