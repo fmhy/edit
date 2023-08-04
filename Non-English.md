@@ -791,12 +791,8 @@
 * [ilgeniodellostreaming](https://ilgeniodellostreaming.lat/) - Movies / TV / Anime
 * [cinemalibero](https://cinemalibero.cafe/) - Movies / TV / Anime
 * [casacinema](https://casacinema.media/) - Movies / TV / Anime
-* [allstreaming](https://allstreaming.online/) - Movies / TV / Anime
-* [StreamingCommunity](https://streamingcommunity.dance/) - Movies / TV / [Telegram](https://t.me/+jlXmmprhtakxYWJh)
-* [TantiFilm](https://www.tantifilm.energy/) - Movies / TV
 * [cinemalibero](https://cinemalibero.cafe/) - Movies / TV
 * [filmsenzalimiti](https://hds.filmsenzalimiti.me/) - Movies / TV
-* [euroStreaming](https://eurostreaming.quest/) - TV
 * [filmsenzalimiti](https://filmsenzalimiti.name/) - Movies / TV
 * [Arcoiris TV](https://www.arcoiris.tv/) - TV
 * [SerieHD](https://www.seriehd.sbs/) - TV
@@ -2006,7 +2002,6 @@
 * [lupiteam](https://lupiteam.net/) - Corsican / Manga
 * [animesrbija](https://www.animesrbija.com/) - Serbian / Streaming / Anime
 * [Filma24](http://filma24.ch/) - Albanian / Streaming / Movies / TV
-* [Asenshu](https://asenshu.com/) - Albanian / Streaming / Anime
 * [DJPunjab](https://djpunjab.is/) - Punjabi / Download / MP3
 * [Paper](https://paper.naya.com.np/) - Nepali Text Tools
 * [iptv-ch.github](https://iptv-ch.github.io/) - Swiss IPTV Resources
