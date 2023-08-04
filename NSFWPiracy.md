@@ -262,7 +262,6 @@
 * [PornFile](https://pornfile.cz/) 
 * [0xxx](https://0xxx.ws/) 
 * [Kimochi](https://kimochi.tv/) 
-* [Anix.moe](https://www.anix.moe/)
 * [SweetPorn](https://sweetporn.org/)
 * [RemaxHD](https://remaxhd.live/)
 * [MaxJAV](https://maxjav.com/)
@@ -371,23 +370,45 @@
 
 * ⭐ **[The Index](https://theindex.moe/library/hentai)** - Hentai Sites List
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Torrents
+* ⭐ **[Anime-Sharing](https://www.anime-sharing.com/forum/#downloads-requests)** - Hentai DDL
+* ⭐ **[Hanime.tv](https://hanime.tv/)** - Hentai Streaming
 * ⭐ **[HentaiWorld](https://hentaiworld.tv/)** - Hentai Streaming / [Discord](https://discord.com/invite/uyHFDgcUJR)
-* [PornDude Hentai](https://theporndude.com/hentai-streaming-sites) - Hentai Sites List
-* [kemono.party](https://kemono.party/) - Porn / Hentai / Use Adblock
-* [Hentai.tv](https://hentai.tv/)
-* [Haho](https://haho.moe/)
-* [HentaiStream](https://hentaistream.moe/)
-* [HentaiDude](https://hentaidude.com/)
-* [sakuracircle](https://sakuracircle.com/) 
-* [Hentai Upscales](https://t.me/+4zMgLbnhiF5hZGRk)
-* [HAnime](https://hanime.tv/) / [Randomizer](https://github.com/afroshyi/hanime-generator/)
-* [NewToki69](https://newtoki96.com/)
-* [Anix.moe](https://www.anix.moe/)
-* [HentaiWorld](https://hentaiworld.tv/)
-* [Anime-Sharing Hentai](http://www.anime-sharing.com/forum/hentai-ovas-36/)
-* [Porndude Hentai](https://theporndude.com/hentai-porn-sites)
+* ⭐ **[NSFW Rule 34](https://nsfwr34.com/)** - Western Hentai Streaming
+* [Ohentai](https://ohentai.org/) - Hentai Streaming / [Discord](https://discord.com/invite/UD3fFTj)
+* [Hentai.tv](https://hentai.tv/) - Hentai Streaming
+* [HentaiFox.tv](https://hentaifox.tv/) - Hentai Streaming
+* [AnimeIDHentai](https://animeidhentai.com/) - Hentai Streaming
+* [hentai.tv](https://hentai.tv/) - Hentai Streaming
+* [HentaiMama](https://hentaimama.io/) - Hentai Streaming
+* [hstream.moe](https://hstream.moe/) - Hentai Streaming / [Discord](https://discord.com/invite/yAqgVKNgG5)
+* [Hentai Moon](https://hentai-moon.com/) - Hentai Streaming
+* [HentaiPlay](https://hentaiplay.net/) - Hentai Streaming
+* [HentaiSea](https://hentaisea.com/) - Hentai Streaming
+* [AniPorn](https://aniporn.com/) - Hentai Streaming
+* [MioHentai](https://miohentai.com/) - Hentai Streaming
+* [Uncensored Hentai ](https://uncensoredhentai.xxx/) - Hentai Streaming
+* [Hentai Haven](https://hentaihaven.xxx/) - Hentai Streaming
+* [HentaiFreak](https://hentaifreak.org/) - Hentai Streaming
+* [Haho](https://haho.moe/) - Hentai Streaming
+* [Hentai Stream](https://tube.hentaistream.com/) - Hentai Streaming [Discord](https://discord.com/invite/Bkf4Nps)
+* [Hentai City](https://www.hentaicity.com/) - Hentai Streaming
+* [HentaiYes](https://hentaiyes.com/) - Hentai Streaming
+* [hentaigasm](http://hentaigasm.com/) - Hentai Streaming
+* [HentaiX](https://hentaix.io/) - Hentai Streaming
+* [UnderHentai](https://www.underhentai.net/) - Hentai Streaming
+* [HentaiPRN](https://hentaiprn.com/) - Hentai Streaming
+* [XAnimePorn](https://www.xanimeporn.com/) - Hentai Streaming
+* [HentaiTube.online](https://www.hentaitube.online/)
+* [MuchoHentai](https://muchohentai.com/?ref=porndude) - Hentai Streaming
+* [HentaiCloud](https://www.hentaicloud.com/) - Hentai Streaming
+* [HentaisTube](https://www.hentais.tube/) - Hentai Streaming
+* [Watch Hentai](https://watchhentai.net/) - Hentai Streaming
+* [HentaiDude](https://hentaidude.com/) - Hentai Streaming
+* [sakuracircle](https://sakuracircle.com/) - Hentai DDL 
+* [Hentai Upscales](https://t.me/+4zMgLbnhiF5hZGRk) - Hentai DDL
+* [Rule34Video](https://rule34video.com/) - 3D Porn
 * [HentaiLA](https://www3.hentaila.com/) - Spanish
-* [/cumg/](https://rentry.co/coom) - Hentai Tools
+* [/cumg/](https://rentry.co/coom) - Hentai Resources
 
 ***
 
@@ -402,6 +423,7 @@
 * ⭐ **[Toonily](https://toonily.me/)** - Pornhwa
 * ⭐ **[Manhwa18](https://manhwa18.com/)** - Pornhwa
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Manga Torrents
+* ⭐ **[Anime-Sharing](https://www.anime-sharing.com/forum/#downloads-requests)** - Hentai Manga DDL
 * ⭐ **[Wholesome Hentai](https://wholesomelist.com/)** - Wholesome Manga Index / [Discord](https://discord.com/invite/688T4TaE)
 * [Hentai2Read](https://hentai2read.com/) or [HentaiHere](https://hentaihere.com/) - Hentai Manga
 * [HentaiFox](https://hentaifox.com/) - Hentai Manga
@@ -474,6 +496,7 @@
 
 * ⭐ **[F95Zone](https://f95zone.to/)**
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)**
+* ⭐ **[Anime-Sharing](https://www.anime-sharing.com/forum/#downloads-requests)** - Hentai Games DDL
 * [Ryuugames](https://ryuugames.com/) 
 * [CPG Repacks](https://cpgrepacks.site/) - [Discord](https://discord.gg/dtBSZ9N)
 * [PornDude Games](https://theporndude.com/best-porn-games), [2](https://theporndude.com/free-sex-games)
@@ -496,6 +519,7 @@
 ## ▷ Illustrations
 
 * ⭐ **[Danbooru](https://danbooru.donmai.us/)**
+* [kemono.party](https://kemono.party/)
 * [Gelbooru](https://gelbooru.com/)
 * [yande.re](https://yande.re/)
 * [Sankaku Complex](https://beta.sankakucomplex.com/tag/en)
