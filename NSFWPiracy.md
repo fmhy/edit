@@ -1,7 +1,3 @@
-Note - This list only contains sites / tools not found on [PornDude](https://theporndude.com/).
-
-***
-
 # ► NSFW Indexes
 
 * ⭐ **[PornDude](https://theporndude.com/)** / [More Sites](https://theporndude.com/hall-of-fame)
