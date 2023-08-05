@@ -2890,7 +2890,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[QuillBot AI](https://quillbot.com/)**
 * ⭐ **QuillBot  Tools** - [Premium Unlock](https://github.com/blueagler/QuillBot-Premium-Crack), [2](https://github.com/Raguggg/quillbot-premium-for-free) / [Token](https://pastebin.com/ezkjxWd1) / [Script](https://pastebin.com/Wj3cuKvJ)
 
-[Rewrite Tool](https://rewritetool.net/), [Paraphraz](https://paraphraz.it/), [Rewriter](https://rewriter.tools/), [Spinbot](https://spinbot.com/), [Paraphrasing Tool](https://paraphrasetool.com/), [ArticleReword](https://www.articlereword.com/), [Rephrasely](https://rephrasely.com/), [Paraphraser](https://www.paraphraser.io/), [SmartArticleWriter](https://smartarticlerewriter.com/), [Paraphrase-Online](https://paraphrase-online.com/), [articlerewritertool](https://articlerewritertool.com/), [Turbo Spinner](http://script4.prothemes.biz/), [rephraser](https://www.rephraser.net/rewording-tool/), [summarizetool](https://www.summarizing.biz/article-summarizer-online/), [caligonia](https://caligonia.com/a2/rewrite.php), [paraphrasing-tool](https://paraphrasing-tool.com/), [freearticlespinning](https://www.freearticlespinning.com/), [article-spinner](https://free-article-spinner.com/), [csgenerator](https://www.csgenerator.com/), [paraphrasingtool](https://paraphrasingtool.ai/), [paraphraseai](https://paraphraseai.app/), [henshu](https://www.henshu.ai/) 
+[Rewrite Tool](https://rewritetool.net/), [Paraphraz](https://paraphraz.it/), [Rewriter](https://rewriter.tools/), [Spinbot](https://spinbot.com/), [Paraphrasing Tool](https://paraphrasetool.com/), [ArticleReword](https://www.articlereword.com/), [Rephrasely](https://rephrasely.com/), [Paraphraser](https://www.paraphraser.io/), [SmartArticleWriter](https://smartarticlerewriter.com/), [Paraphrase-Online](https://paraphrase-online.com/), [articlerewritertool](https://articlerewritertool.com/), [Turbo Spinner](http://script4.prothemes.biz/), [rephraser](https://www.rephraser.net/rewording-tool/), [summarizetool](https://www.summarizing.biz/article-summarizer-online/), [caligonia](https://caligonia.com/a2/rewrite.php), [paraphrasing-tool](https://paraphrasing-tool.com/), [freearticlespinning](https://www.freearticlespinning.com/), [article-spinner](https://free-article-spinner.com/), [csgenerator](https://www.csgenerator.com/), [paraphrasingtool](https://paraphrasingtool.ai/), [paraphraseai](https://paraphraseai.app/), [henshu](https://www.henshu.ai/), [rewritingtools](https://rewritingtools.com/) 
 
 ***
 
@@ -3389,12 +3389,11 @@ Add the following commands to a search to manually scrape each site.
 * [VueTube](https://github.com/VueTubeApp/VueTube)
 * [SkyTube](https://github.com/SkyTubeTeam/SkyTube)
 * [FreeTubeCordova](https://github.com/MarmadileManteater/FreeTubeCordova)
-* [ReVanced Patches](https://github.com/inotia00/revanced-patches)
 * [ReVanced Patcher](https://github.com/decipher3114/Revancify)
 
 **ReVanced App Builders**
 
-[ReVanced Creator](https://github.com/XDream8/revanced-creator), [ReVanced Builder](https://mega.nz/file/Omxn2T6L#PAJJ5V_ricfBt78CSqg21rL6rt-hP9RIUWbSyspEqQk), [revanced-build-template](https://github.com/n0k0m3/revanced-build-template), [RVX Builder](https://github.com/inotia00/rvx-builder), [Docker-Py-ReVanced](https://github.com/nikhilbadyal/docker-py-revanced), [YT-AT](https://github.com/kakathic/YT-AT)
+[ReVanced Creator](https://github.com/XDream8/revanced-creator), [ReVanced Builder](https://mega.nz/file/Omxn2T6L#PAJJ5V_ricfBt78CSqg21rL6rt-hP9RIUWbSyspEqQk), [revanced-build-template](https://github.com/n0k0m3/revanced-build-template), [Docker-Py-ReVanced](https://github.com/nikhilbadyal/docker-py-revanced), [YT-AT](https://github.com/kakathic/YT-AT)
 
 ***
 
