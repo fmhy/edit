@@ -13,7 +13,7 @@ links: # top bar
     icon: https://divolt.xyz/assets/icons/monochrome.svg
   - text: Search
     link: https://fmhy-search.streamlit.app/
-    icon: https://www.svgrepo.com/show/469738/search.svg
+    icon: https://www.svgrepo.com/show/520925/search-sort.svg
   - text: Reddit
     link: https://www.reddit.com/r/FREEMEDIAHECKYEAH/
     icon: https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png
