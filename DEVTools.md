@@ -263,6 +263,7 @@
 * [Git Tutorial](https://4geeksacademy.github.io/git-interactive-tutorial/) - Interactive Git Tutorial
 * [Oh My Git!](https://ohmygit.org/), [2](https://ohshitgit.com/) - Git Learning Game
 * [Git-it](https://github.com/jlord/git-it-electron) - Git Desktop Learning App
+* [Git Coach](https://github.com/vishal2376/git-coach) - Git Android Learning App
 * [Git Time](https://git.bradwoods.io/) - Git Version Control System Learning Game
 * [First Timers Only](https://www.firsttimersonly.com/) or [First Contributions](https://firstcontributions.github.io/) - Git Code Contribution Guides
 * [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git Branching Guide
@@ -1249,6 +1250,7 @@
 * [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross Platform IDE
 * [Thonny](https://thonny.org/) - Python IDE
 * [SciTE](https://www.scintilla.org/SciTE.html) - Source Code Editor for Win32 and X
+* [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) - AI Code Generator
 * [OpenChakra](https://openchakra.app/) - Visual Editor & Code Generator for React / [GitHub](https://github.com/premieroctet/openchakra)
 * [Package Control](https://packagecontrol.io/) - Code Editor Package Manager
 * [editorcornfig](https://editorconfig.org/) - Maintain consistent code styles across editors
@@ -1265,7 +1267,7 @@
 * [cloud](https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76#file-cloud-md) - Cloud Platform Index
 * [Openshift](https://workspaces.openshift.com/) - Cloud IDE / Eclipse Che 
 * [Arduino](https://cloud.arduino.cc/) - Cloud IDE for Arduino
-* [Blazepack](https://github.com/ameerthehacker/blazepack) - Self-Hosted Development Environment
+* [Blazepack](https://github.com/ameerthehacker/blazepack) or [DevPod](https://devpod.sh) - Development Environment
 * [bloop](https://bloop.ai/) - IDE AI Suggestion Extension
 * [glot.io](https://glot.io/) - Pastebin with Runnable Snippets, API & Compiler
 * [Fig](https://fig.io/) - IDE-Style Autocomplete for Terminal
