@@ -159,7 +159,7 @@
 ## ▷ ROM Sites
 
 * ⭐ **[Vimms Lair](https://vimm.net/)** - Emulators / ROMs
-* ⭐ **[No-Intro](https://github.com/nbats/FMHYedit/blob/main/base64.md#no-intro)** - ROMs
+* ⭐ **[No-Intro](https://github.com/nbats/FMHYedit/blob/main/base64.md#no-intro)** - ROMs / [Downloader](https://github.com/silverlays/NoIntro-Roms-Downloader)
 * ⭐ **[Rom Center](https://r-roms.github.io/)**, [2](https://r-roms.gitlab.io/megathread/), [3](https://pastelink.net/24dhn) - ROMs / [Pastebins](https://github.com/nbats/FMHYedit/blob/main/base64.md#romcenter)
 * ⭐ **[Myrient](https://myrient.erista.me/)** - ROMs
 * ⭐ **[AlvRo](https://github.com/nbats/FMHYedit/blob/main/base64.md#alvro)** - ROMs / pw: ByAlvRo
@@ -233,6 +233,7 @@
 * [3DS ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - ROMs / 3DS
 * [NoPayStation](https://nopaystation.com/) or [SafeROMs](https://www.saferoms.com/) - ROMs / Playstation Consoles
 * [PKGPS4](https://www.pkgps4.click/), [Game-2U](https://game-2u.com/Category/game/ps4) or [Auctor](https://auctor.tv/) - ROMs / PS4
+* [/r/PkgLinks1](https://www.reddit.com/r/PkgLinks1/) - PS1 / PS2 Games for Modded PS4
 * [PSVitaVPK](https://psvitavpk.com/), [2](https://psvitagamesdd.com/) - ROMs / PSP
 * [xbarchive](https://github.com/codemasterv/xbarchive) - ROMs / Xbox Consoles
 * [Marios Alternative](https://github.com/nbats/FMHYedit/blob/main/base64.md#hacked-super-mario) - Hacked Super Mario ROMs
@@ -772,7 +773,8 @@
 * [Steam Python](https://github.com/ValvePython/steam) - Interact with Steam via Python
 * [Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) or [IdleDaddy](https://play.google.com/store/apps/details?id=com.steevsapps.idledaddy) - Steam Card Automation
 * [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - Steam Achievement Manager 
-* [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) / [2](https://steamid.uk/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup 
+* [SteamRep](https://steamrep.com/), [SteamID](https://steamid.io/) / [2](https://steamid.uk/) or [SteamFinder](https://steamidfinder.com/) - Steam ID Lookup
+* [SteamGuard](https://github.com/dyc3/steamguard-cli) - Generate Steam 2FA Codes
 * [Steam++](https://steampp.net/) - Enhance Steam Functionality / [GitHub](https://github.com/BeyondDimension/SteamTools)
 * [AugmentedSteam](https://augmentedsteam.com/) - Steam Web Enhancement Extension 
 * [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
@@ -1273,6 +1275,7 @@
 * [Voyager](https://voyager.minedojo.org/) - Minecraft AI
 * [Baritone](https://github.com/cabaletta/baritone) - Minecraft Pathfinding System
 * [Sigma-Deleter](https://github.com/XatzClient/Sigma-Deleter) or [Sigma-Wiper](https://github.com/owersite/sigma-wiper) - Remove Sigma Miner
+* [MCDF](https://mcdf.wiki.gg/) - Discontinued Minecraft Features Wiki
 
 ***
 
