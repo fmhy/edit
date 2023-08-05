@@ -170,7 +170,7 @@
 * [Anti-Ad](https://anti-ad.net/) - Adblock Filters
 * [GameLoop](https://syzs.qq.com/) - Android Emulator
 * [Thanox](https://github.com/Tornaco/Thanox) - Android System Manager
-* [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
+* [Baidu](https://www.baidu.com/), [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
 * [Dianying](https://dianying.fm/) - Hash Search
 * [SooPAT](http://www2.soopat.com/) - Patent Search
 * [news_pdf](https://t.me/news_pdf), [TopHub](https://tophub.today/), [Chinadaily](http://cn.chinadaily.com.cn/) or [China Watch](http://www.chinadaily.com.cn/chinawatch_fr/index.html) - News
@@ -1352,6 +1352,7 @@
 * [TLauncher Legacy](https://tlaun.ch/) - Minecraft Client / Cracked Minecraft
 * [Proxy-Checker](https://proxy-checker.net/) - Proxy Checker
 * [RKN Dump Check](https://t.me/u2ckbot) - Russian Censorship Check
+* [Mail.ru](https://mail.ru/) or [r0.ru](https://r0.ru/) - Search Engines
 * [Kribrum](https://kribrum.io/search) - Social Media Search Engine
 * [tgstat](https://tgstat.ru/) - Russian Telegram Channel Stats
 * [EDA](https://eda.ru/) - Recipes
