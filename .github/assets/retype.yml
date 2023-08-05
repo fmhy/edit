@@ -1,11 +1,26 @@
 input: .
 output: .retype
-url: freemediaheckyeah.pages.dev
+url: fmhy.pages.dev
 branding:
   logo: /static/fmhy.ico
   logoDark: /static/fmhy.ico
   title: FMHY
 favicon: /static/favicon.ico
+
+links: # top bar
+  - text: Chat
+    link: https://fmhy.divolt.xyz/
+    icon: https://divolt.xyz/assets/icons/monochrome.svg
+  - text: Search
+    link: https://fmhy-search.streamlit.app/
+    icon: https://www.svgrepo.com/show/469738/search.svg
+  - text: Reddit
+    link: https://www.reddit.com/r/FREEMEDIAHECKYEAH/
+    icon: https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png
+  - text: Github
+    link: https://github.com/fmhy
+    icon: mark-github
+
 footer:
   copyright: ""
 meta:
