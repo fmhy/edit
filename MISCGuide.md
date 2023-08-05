@@ -490,6 +490,7 @@
 * [SkyDB](https://www.skydb.net/) - Skyscraper Locations / Info
 * [FlightRadar24](https://www.flightradar24.com/), [FlightStats](https://www.flightstats.com/), [PlaneFinder](http://planefinder.net/), [ADS-B Exchange](https://globe.adsbexchange.com/), [Radarbox](https://www.radarbox.com/) or [FlightAware](http://flightaware.com/) - Live Flight Trackers
 * [plane-notify](https://github.com/Jxck-S/plane-notify) - Plane Takeoff Notifications
+* [Misery Map](https://flightaware.com/miserymap/) - Flight Delay Map
 * [FlightConnections](https://www.flightconnections.com/) - Interactive Flight Routes
 * [SkyVector](https://skyvector.com/) - Flight Planner
 * [WikiRoutes](https://wikiroutes.info/) - Public Transport Routes
@@ -501,6 +502,7 @@
 * [JoinUS World](https://www.joinusworld.org/) - Korean Culture Q&A Site
 * [Left vs. Right Side Driving Map](https://somerandomstuff1.files.wordpress.com/2019/02/left-or-right-side.png) - Left vs. Right Side Driving by Country
 * [Speed Limits Map](https://somerandomstuff1.files.wordpress.com/2019/02/highest-speed-limits-around-the-world.png) - Max Speed Limits
+* [Travel Safe](https://www.travelsafe-abroad.com/) - Travel Destination Safety Ratings
 * [Hate Map](http://splcenter.org/hate-map) - Hate Group Locations
 * [LiveUAMap](https://liveuamap.com/) - Ukraine Conflict Areas LiveFeed
 
@@ -756,7 +758,7 @@
 * [Link to text Fragment](https://github.com/GoogleChromeLabs/link-to-text-fragment) - Highlight Certain Text on Webpage
 * [Linkpack](https://www.linkpack.io/) - Save Links to Dropbox
 * [Survol](https://survol.me/) - Preview Links 
-* [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - Page Change Detection / Notification 
+* [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - Page Change Detection / Notification
 * [Block Site](https://add0n.com/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs), [TabWave](https://www.tabwave.app/), [Forest](https://pastebin.com/rYuAivA0), [StayFocused](https://www.stayfocusd.com/) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - Site Blockers
 * [SuperStop](https://github.com/gavinsharp/SuperStop/) - Stop Active Animations, Videos, JS, WebSocket & XHR
 * [Nuke Anything](https://pastebin.com/9TwxjU1r) - Block/Hide Anything on a Page  
@@ -772,6 +774,7 @@
 * [Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)
 * [Favicon Detector](https://github.com/BlackGlory/favicon-detector) - Detect Website Favicons
 * [behind!](https://github.com/kubuzetto/behind) - View Background Images
+* [Smart Upscale](https://tanalin.com/en/projects/smart-upscale/) - Browser Image Upscaling
 * [UI.Vision RPA](https://ui.vision/) - Workflow Automation  
 * [AugmentedSteam](https://augmentedsteam.com/) - Steam Enhancement suite 
 * [Steam Database](https://steamdb.info/extension/) - Adds Steam Database Link to Steam Community & Store 
@@ -1350,6 +1353,7 @@
 * [Pros 'n Cons](https://pros-cons.io/) or [Moral Machine](https://www.moralmachine.net/) - Decision Making AIs
 * [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/) - Vote on Different Trolley Problem Versions
 * [WhereShouldILive?](https://www.whereshouldilive.co/) - Find Out Where You Should Live
+* [Chirper](https://chirper.ai/) - AI Generated Twitter
 * [Judge My Music](https://pudding.cool/2020/12/judge-my-spotify/) - Have an AI Judge Your Taste in Music
 * [Common Voice](https://www.saveriomorelli.com/commonvoice/) - Help Teach a Machine How to Talk 
 * [Tapology](https://www.tapology.com/) - Make MMA Fight Picks
