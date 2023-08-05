@@ -63,7 +63,7 @@
 * [Search-Engine](https://start.me/p/wM7y15/search-engine) - Index
 * [Leta](https://leta.mullvad.net) - Mullvad VPN required
 
-[Bing](https://www.bing.com/), [OceanHero](https://oceanhero.today/), [Lycos](https://www.lycos.com/), [Advangle](http://advangle.com/), [WebCrawler](https://www.webcrawler.com/), [Million Short](https://millionshort.com/), [Wiby](https://www.wiby.me/), [Andi](https://andisearch.com/), [Excite](https://search.excite.com/), [search](https://www.search.com/), [Metacrawler](https://www.metacrawler.com/), [fefoo](https://fefoo.com/), [entireweb](https://www.entireweb.com/), [ChatNoir](https://www.chatnoir.eu/), [Exalead](https://www.exalead.com/search/), [Carrot2](https://search.carrot2.org/#/web), [4Search](https://www.4search.com/), [Info.com](https://www.info.com/), [Yahoo](https://www.yahoo.com/), [FrogFind!](http://frogfind.com/), [Visymo Search](https://search.visymo.com/), [AOL](https://search.aol.com/), [All in One](https://all-io.net/), [All the Internet](https://www.alltheinternet.com/), [eTools.ch](https://www.etools.ch/), [BizNar](https://biznar.com/biznar/desktop/en/search.html), [ZincSearch](https://github.com/zincsearch/zincsearch), [Whoogle Search](https://benbusby.com/projects/whoogle-search/), [infospace](https://www.infospace.com/), [2lingual](https://www.2lingual.com/)
+[Bing](https://www.bing.com/), [OceanHero](https://oceanhero.today/), [Lycos](https://www.lycos.com/), [Advangle](http://advangle.com/), [WebCrawler](https://www.webcrawler.com/), [Million Short](https://millionshort.com/), [Wiby](https://www.wiby.me/), [Andi](https://andisearch.com/), [Excite](https://search.excite.com/), [search](https://www.search.com/), [Metacrawler](https://www.metacrawler.com/), [fefoo](https://fefoo.com/), [entireweb](https://www.entireweb.com/), [ChatNoir](https://www.chatnoir.eu/), [Exalead](https://www.exalead.com/search/), [Carrot2](https://search.carrot2.org/#/web), [4Search](https://www.4search.com/), [Info.com](https://www.info.com/), [Yahoo](https://www.yahoo.com/), [FrogFind!](http://frogfind.com/), [Visymo Search](https://search.visymo.com/), [AOL](https://search.aol.com/), [All in One](https://all-io.net/), [All the Internet](https://www.alltheinternet.com/), [eTools.ch](https://www.etools.ch/), [BizNar](https://biznar.com/biznar/desktop/en/search.html), [WorldWideScience](https://worldwidescience.org/), [ZincSearch](https://github.com/zincsearch/zincsearch), [Whoogle Search](https://benbusby.com/projects/whoogle-search/), [infospace](https://www.infospace.com/), [2lingual](https://www.2lingual.com/)
 
 ***
 
@@ -334,7 +334,7 @@
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)**
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)**
 
-[RapidTables](https://www.rapidtables.com/), [CalculatorSoup](https://www.calculatorsoup.com/), [Number Empire](https://www.numberempire.com/), [EasyCalculation](https://www.easycalculation.com/), [Calculation Calculator](https://calculationcalculator.com/), [Calculator.net](https://www.calculator.net/), [KeepFormula](https://keepformula.github.io/)
+[CalculatorSoup](https://www.calculatorsoup.com/), [Number Empire](https://www.numberempire.com/), [EasyCalculation](https://www.easycalculation.com/), [Calculator.net](https://www.calculator.net/), [KeepFormula](https://keepformula.github.io/), [CalculatorHut](https://www.calculatorhut.com/), [Keisan](https://keisan.casio.com/), [GigaCalculator](https://www.gigacalculator.com/)
 
 ***
 
