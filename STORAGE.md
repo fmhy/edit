@@ -618,7 +618,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Drive Formatting / File Deletion
 
-[Eraser](https://eraser.heidi.ie/), [File Shredder](https://fileshredder.org/), [SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete), [Lethe](https://github.com/rafael-santiago/lethe), [ATS File Shredder](https://www.atomtechsoft.com/file-shredder-tool.html), [WIPERAPP](https://wiperapp.com/), [O&O FileErase](https://www.oo-software.com/en/products/oofileerase), [Permanent Delete](http://www.puransoftware.com/Permanent-Delete.html), [UltraShredder](https://www.majorgeeks.com/files/details/ultrashredder.html), [Easy File Shredder](https://patoghu.com/gonagon/usefull_tool/17305-easy-file-shredder.html), [HDShredder](https://www.miray-software.com/products/applications/hdshredder.html#), [SSuite File Shredder and Burner](https://www.ssuiteoffice.com/software/ssuitefileshredder.htm), [Low Level Format](https://www.lowlevelformat.info/), [Zer0](http://kcsoftwares.com/index.php?zero), [Alternate File Shredder](http://www.alternate-tools.com/pages/c_fileshredder.php?lang=ENG), [Permadelete](https://developerstree.github.io/permadelete/)
+[Eraser](https://eraser.heidi.ie/), [File Shredder](https://fileshredder.org/), [SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete), [Lethe](https://github.com/rafael-santiago/lethe), [ATS File Shredder](https://www.atomtechsoft.com/file-shredder-tool.html), [WIPERAPP](https://wiperapp.com/), [O&O FileErase](https://www.oo-software.com/en/products/oofileerase), [Permanent Delete](http://www.puransoftware.com/Permanent-Delete.html), [UltraShredder](https://www.majorgeeks.com/files/details/ultrashredder.html), [Easy File Shredder](https://patoghu.com/gonagon/usefull_tool/17305-easy-file-shredder.html), [HDShredder](https://www.miray-software.com/products/applications/hdshredder.html#), [SSuite File Shredder and Burner](https://www.ssuiteoffice.com/software/ssuitefileshredder.htm), [Low Level Format](https://www.lowlevelformat.info/), [Zer0](http://kcsoftwares.com/index.php?zero), [Alternate File Shredder](http://www.alternate-tools.com/pages/c_fileshredder.php?lang=ENG), [Permadelete](https://developerstree.github.io/permadelete/), [nwipe](https://github.com/martijnvanbrummelen/nwipe), [ShredOS](https://github.com/PartialVolume/shredos.x86_64)
 
 ***
 
@@ -881,7 +881,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### File Encryption Tools
 
-[EncFS MP](https://encfsmp.sourceforge.io/index.html), [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/), [GPG4Win](https://www.gpg4win.org/), [Encrypto](https://macpaw.com/encrypto), [FreeCrypt](https://freecrypt.org/), [Vmola](https://vmola.com/), [Kryptor](https://www.kryptor.co.uk/), [SecureFolderFS](https://github.com/securefolderfs-community/SecureFolderFS), [wdcrypt](https://github.com/stefins/wdcrypt), [Picocrypt](https://github.com/HACKERALERT/Picocrypt)
+[VeraCrypt](https://www.veracrypt.fr/en/Home.html), [CryptSetup](https://gitlab.com/cryptsetup/cryptsetup), [EncFS MP](https://encfsmp.sourceforge.io/index.html), [Hat](https://hat.sh/), [GNUPG](https://gnupg.org/), [GPG4Win](https://www.gpg4win.org/), [Encrypto](https://macpaw.com/encrypto), [FreeCrypt](https://freecrypt.org/), [Vmola](https://vmola.com/), [Kryptor](https://www.kryptor.co.uk/), [SecureFolderFS](https://github.com/securefolderfs-community/SecureFolderFS), [wdcrypt](https://github.com/stefins/wdcrypt), [Picocrypt](https://github.com/HACKERALERT/Picocrypt)
+
+* [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS partition 
 
 ***
 
