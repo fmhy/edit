@@ -14,6 +14,12 @@ links: # top bar
   - text: Search
     link: https://fmhy-search.streamlit.app/
     icon: https://www.svgrepo.com/show/469738/search.svg
+  - text: Reddit
+    link: https://www.reddit.com/r/FREEMEDIAHECKYEAH/
+    icon: https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png
+  - text: Github
+    link: https://github.com/fmhy
+    icon: mark-github
 
 footer:
   copyright: ""
