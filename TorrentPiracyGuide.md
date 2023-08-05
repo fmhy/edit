@@ -103,7 +103,6 @@
 * [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/) - [ZeroNet Required](https://zeronet.io/) / Video / Audio / Software / Games
 * [4chan /t/](https://boards.4chan.org/t/) - Torrents / Imageboard / Some NSFW 
 * [8kun /t/](https://8kun.top/index.html) - Torrents / Imageboard
-* [Rip RARBG](https://riprarbg.pw/) - RARBG Magnet Archive
 * [DirtyWarez Tracker](https://dirtywarez.org/cat/tracker) or [OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/) / [2](https://opentrackers.org/) - Torrent Site Indexes
 
 ***
