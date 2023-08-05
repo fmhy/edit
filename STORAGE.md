@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/b3xqdYQ)** - For mobile users
+**[Table of Contents](https://ibb.co/8z4FVdf)** - For mobile users
 
 ***
 ***
@@ -338,7 +338,7 @@
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)**
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)**
 
-[RapidTables](https://www.rapidtables.com/), [CalculatorSoup](https://www.calculatorsoup.com/), [QuickMath](https://quickmath.com/), [Number Empire](https://www.numberempire.com/), [EasyCalculation](https://www.easycalculation.com/), [CalculatorHut](https://www.calculatorhut.com/), [Calculation Calculator](https://calculationcalculator.com/), [Calculator.net](https://www.calculator.net/), [Justfreetools](https://www.justfreetools.com/en/all-calculators), [Calculatio](https://calculat.io/), [Keisan Online Calculator](https://keisan.casio.com/), [calculator.com](https://calculator.com/), [Online Calculator](https://www.online-calculator.com/), [CalculatorT](https://calculatort.com/), [Ultra Calculator](https://www.ultracalculator.net/), [Calculator Online](https://calculator-online.net/), [GIGAcalculator](https://www.gigacalculator.com/), [All-In-One Calculator](https://www.allinonecalculator.com), [KeepFormula](https://keepformula.github.io/)
+[RapidTables](https://www.rapidtables.com/), [CalculatorSoup](https://www.calculatorsoup.com/), [Number Empire](https://www.numberempire.com/), [EasyCalculation](https://www.easycalculation.com/), [Calculation Calculator](https://calculationcalculator.com/), [Calculator.net](https://www.calculator.net/), [KeepFormula](https://keepformula.github.io/)
 
 ***
 
@@ -1745,7 +1745,6 @@ Add the following commands to a search to manually scrape each site.
 * [Quantum Playground](http://www.quantumplayground.net/) - Quantum Computer Simulator
 * [Win11.vercel](https://win11.vercel.app/), [BlueEdge](https://win11.blueedge.me/), [Rajaniraiyn](https://rajaniraiyn.github.io/windows11/) or [Win11 in React](https://win11.blueedge.me/)/ [GitHub](https://github.com/blueedgetechno/win11React) - Online Windows 11 Emulator
 * [daedalOS](https://dustinbrett.com/) - Online Windows 10 Emulator
-* [JSLinux](https://bellard.org/jslinux/) - Linux Browser Emulator
 
 ***
 
@@ -1986,39 +1985,43 @@ Add the following commands to a search to manually scrape each site.
 
 #### Privacy Based Browsers
 
-
 * ⭐ **[Tor Browser](https://www.torproject.org/)** or [Lokinet](https://lokinet.org/) / [Directory](https://session.directory/) - Onion-Routed Browser
 * ⭐ **[Tor Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tor_tools)** - Tor Tools / Guides
 * ⭐ **[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / [2](https://librewolf.net/)
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)**
-* ⭐ **[Privacy Hardened Firefox](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_hardened_firefox)** - Firefox Privacy Profiles / Guides
+* [Dot HQ](https://github.com/dothq/browser) / [Discord](https://discord.com/invite/WRDEK2D)
+* [Otter](https://otter-browser.org/)
+* [BadWolf](https://hacktivis.me/projects/badwolf)
 
-[Otter](https://otter-browser.org/), [BadWolf](https://hacktivis.me/projects/badwolf), [Dot HQ](https://github.com/dothq/browser) / [Discord](https://discord.com/invite/WRDEK2D)
+**Browser Privacy Tweaks**
+
+* ⭐ **[user.js Warning](https://i.ibb.co/Vpkrsg4/44160f4625bc.png)** - Firefox
+* ⭐ **[ffprofile](https://ffprofile.com/)** - Firefox
+* ⭐ **[Betterfox](https://github.com/yokoffing/Betterfox)** - Firefox
+* ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** - Firefox
+* ⭐ **[Firefox Setup Guide](https://brainfucksec.github.io/firefox-hardening-guide)** / [2](https://12bytes.org/articles/tech/firefox/the-firefox-privacy-guide-for-dummies/)
+* [Firefox Setup Video](https://youtu.be/F7-bW2y6lcI)
+* [pyllyukko](https://github.com/pyllyukko/user.js/) - Firefox
+* [hnhx](https://github.com/hnhx/user.js) - Firefox
+* [Narsil](https://git.nixnet.services/Narsil/desktop_user.js) - Firefox
+* [Brave Setup Guide](https://gitlab.com/CHEF-KOCH/brave-browser-hardening)
 
 **Android**
 
 * ⭐ **[FFUpdater](https://github.com/Tobi823/ffupdater)** - Multi-Browser Updater
-
-[Mull-Fenix](https://github.com/Divested-Mobile/Mull-Fenix), [DuckDuckGo Privacy Browser](https://duckduckgo.com/app), [SmartCookieWeb](https://smartcookieweb.com/), [Privacy Browser](https://www.stoutner.com/privacy-browser-android/), [friendly](https://friendly.io/), [Thor](https://gitlab.com/remmer.wilts/thor), [Scoute-Dich](https://github.com/scoute-dich/browser)
+* [Mull-Fenix](https://github.com/Divested-Mobile/Mull-Fenix)
+* [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
+* [SmartCookieWeb](https://smartcookieweb.com/)
+* [Privacy Browser](https://www.stoutner.com/privacy-browser-android/)
+* [friendly](https://friendly.io/)
+* [Thor](https://gitlab.com/remmer.wilts/thor)
+* [Scoute-Dich](https://github.com/scoute-dich/browser)
 
 ***
 
 #### Privacy Guides
 
 [Surveillance Self-Defense](https://ssd.eff.org/), [Defensive Computing Checklist](https://defensivecomputingchecklist.com/), [Security In A Box](https://securityinabox.org/en/), [AvoidTheHack](https://avoidthehack.com/), [Eldritch Data](https://eldritchdata.neocities.org/), [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html), [madaidans-insecurities](https://madaidans-insecurities.github.io/), [The Hitchhiker’s Guide](https://anonymousplanet.org/) / [2](https://raw.githubusercontent.com/Anon-Planet/thgtoa/master/guide.md)
-
-***
-
-#### Privacy Hardened Firefox
-
-* ⭐ **[user.js Warning](https://i.ibb.co/Vpkrsg4/44160f4625bc.png)**
-* ⭐ **[ffprofile](https://ffprofile.com/)**
-* ⭐ **[Betterfox](https://github.com/yokoffing/Betterfox)**
-* ⭐ **[arkenfox](https://github.com/arkenfox/user.js)**
-* [pyllyukko](https://github.com/pyllyukko/user.js/)
-* [hnhx](https://github.com/hnhx/user.js)
-* [Narsil](https://git.nixnet.services/Narsil/desktop_user.js)
-* [Setup Guide](https://brainfucksec.github.io/firefox-hardening-guide), [2](https://12bytes.org/articles/tech/firefox/the-firefox-privacy-guide-for-dummies/) / [Video](https://youtu.be/F7-bW2y6lcI)
 
 ***
 
@@ -2077,6 +2080,12 @@ Add the following commands to a search to manually scrape each site.
 **Internet Radio**
 
 [Turntable](https://turntable.fm/), [CoreRadio](https://coreradio.online/listen), [CMD](https://cmd.to/fm), [lainchan](https://lainchan.org/radio), [RadioParadise](https://radioparadise.com/), [IndieSHuffle](https://www.indieshuffle.com/), [You42](https://www.you42.com/), [Jango](https://www.jango.com/), [RadioTunes](https://www.radiotunes.com/), [Live365](https://live365.com/), [AccuraRadio](https://www.accuradio.com/), [Radio.dubbeh](https://radio.dubbeh.net/), [Tilderadio](https://tilderadio.org/), [AnonRadio](https://anonradio.net/), [UpBeat](https://upbeatradio.net/) / [Discord](https://upbeat.pw/discord), [Radios.yt](https://radios.yt/), [SomaFM](https://somafm.com/), [ShoutCast](https://directory.shoutcast.com/), [Internet-Radio](https://internet-radio.com/)
+
+***
+
+#### Random Generators
+
+[Cool Generator](https://www.coolgenerator.com/), [The One Generator](https://theonegenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/), [BestRandoms](https://www.bestrandoms.com/), [Randommer](https://randommer.io/), [GeneratorFun](https://generatorfun.com/), [Springhole](https://www.springhole.net/writing_roleplaying_randomators/index.html), [Wiizard Generator](https://wiizard-generator.neocities.org/), [randomix](https://github.com/m-i-n-a-r/randomix), [NumberGenerator](https://numbergenerator.org/), [Random Lists](https://www.randomlists.com/)
 
 ***
 
@@ -2482,7 +2491,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[bypass.vip](https://bypass.vip/)**
 * ⭐ **[Bypass FileCrypt](https://greasyfork.org/en/scripts/403170)** - View Original FileCrypt Links
 
-[AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser), [skip-redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/) / [Chrome](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon), [krnl-and-linkvertise-bypasser](https://greasyfork.org/en/scripts/427869-krnl-and-linkvertise-bypasser), [Linkvertise-Bypasser](https://github.com/venaxyt/Linkvertise-Bypasser), [Linkvertise-Bypass](https://github.com/Lufzys/Linkvertise-Bypass), [TheBypasser](https://thebypasser.com/), [Bypass-Links](https://github.com/amitsingh-007/bypass-links), [Auto link bypasser](https://chrome.google.com/webstore/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh), [Bypasser](https://yuumari.com/bypass/), [short link to direct link](https://t.me/ATBYPASSBOT), [UploadHEaven](https://greasyfork.org/en/scripts/442019), [Bypasser Online](https://bypasser.online/), [work.ink bypasser](https://greasyfork.org/en/scripts/463481)
+[AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser), [skip-redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/) / [Chrome](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon), [krnl-and-linkvertise-bypasser](https://greasyfork.org/en/scripts/427869-krnl-and-linkvertise-bypasser), [Linkvertise-Bypasser](https://github.com/venaxyt/Linkvertise-Bypasser), [Linkvertise-Bypass](https://github.com/Lufzys/Linkvertise-Bypass), [TheBypasser](https://thebypasser.com/), [Bypass-Links](https://github.com/amitsingh-007/bypass-links), [Auto link bypasser](https://chrome.google.com/webstore/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh), [Bypasser](https://yuumari.com/bypass/), [short link to direct link](https://t.me/ATBYPASSBOT), [UploadHEaven](https://greasyfork.org/en/scripts/442019), [Bypasser Online](https://bypasser.online/)
 
 ***
 
