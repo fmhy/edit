@@ -8,5 +8,5 @@ html.dark ul.flex-col > li > a > svg {
 }
 
 :not(html.dark) ul.flex-col > li > a > svg  {
-  color: black;
+  color: rgb(47 51 72/var(--tw-text-opacity));
 }
