@@ -4,5 +4,4 @@
 * If you're adding a new site, please [search](https://raw.githubusercontent.com/nbats/FMHYedit/main/single-page) first to make sure we don't already have it.
 * Approved edits will be applied to this site and all [backups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups).
 * You can send us stuff directly via [💬 Divolt](https://redd.it/uto5vw).
-* You can discuss about the wiki or any particular site on our [Lemmy](https://lemmy.fmhy.ml/c/freemediaheckyeah).
 * You can also checkout our subreddit, [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/) to know about any major updates to the wiki.
