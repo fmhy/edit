@@ -171,7 +171,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 **[qBittorrent](https://www.qbittorrent.org/) / [Transmission](https://transmissionbt.com/) / [Deluge](https://www.deluge-torrent.org/) / [Remote Torrenting](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25B7_remote_torrenting)** - Torrent clients
 **[Torrent to GDrive](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_torrent_to_gdrive)** - Downloads torrents externally & uploads them to gdrive, avoiding the need for a VPN
-**[1337x](https://1337x.to/) / [RuTracker](http://rutracker.org)** - Torrent video, audio, games, software & more /  Only download from reputable users on 1337x & RuTracker in the end its still public trackers where anyone can upload
+**[RuTracker](http://rutracker.org) / [TorrentGalaxy](https://torrentgalaxy.to/)** - Torrent video, audio, games, software & more /  Only download from reputable users on 1337x & RuTracker in the end its still public trackers where anyone can upload
 **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Trusted game repacker
 **[Stremio](https://www.stremio.com/)** - Torrent video streaming app
 **[EZTV](https://eztv.re/)** - TV / Anime torrents
