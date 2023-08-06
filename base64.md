@@ -1031,7 +1031,7 @@ pass: paluch
 
 #### FL Studio
 
-`aHR0cHM6Ly93d3cuZG93bmxvYWRoYS5jb20vP3M9Zmwrc3R1ZGlv`
+`aHR0cHM6Ly9ydXRyYWNrZXIub3JnL2ZvcnVtL3ZpZXd0b3BpYy5waHA/dD02MzcyNTc4`
 
 ***
 
