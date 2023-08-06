@@ -38,7 +38,6 @@
 * ⭐ **[xvideos](https://www.xvideos.com/)**
 * ⭐ **[xhamster](https://xhamster.com/)**
 * ⭐ **[Pornhub](https://www.pornhub.com/)** / [Add Features](https://sleazyfork.org/en/scripts/380711)
-* ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/)
 * ⭐ **[bellesa](https://www.bellesa.co/)** - Porn Videos for women
 * [xnxx](https://www.xnxx.com/)
 * [TNAFlix](https://www.tnaflix.com/)
@@ -84,7 +83,6 @@
 * [Whoreshub](https://www.whoreshub.com/)
 * [Porn300](https://www.porn300.com/)
 * [Pornktube](https://www.pornktube.club/) or [TubXPorn](https://tubxporn.xxx/)
-* [PornMD](https://pornmd.com/)
 * [Palimas](https://palimas.tv/)
 * [mega-xxx](https://www.mega-xxx.tv/)
 * [5porno](https://5porno.pro/)
@@ -128,6 +126,39 @@
 * [Porn-Star](https://www.porn-star.com/)
 * [Porn App](https://porn-app.com/) - Android Porn App / [Discord](https://discord.com/invite/XRjPBGa)
 * [NsfwBox](https://github.com/Kisspeace/NsfwBox) - Android Porn App
+
+***
+
+## ▷ Aggregators
+
+* ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/) - Search Engine
+* ⭐ **[iXXX](https://www.ixxx.com/)** - Aggregator
+* [TubeSafari](https://tubesafari.com/) - Aggregator
+* [Thumbzilla](https://www.thumbzilla.com/) - Aggregator
+* [Fuq](https://www.fuq.com/) - Aggregator
+* [Porzo](https://www.porzo.com/) - Aggregator
+* [PornKai](https://pornkai.com/) - Aggregator
+* [Xvidzz](https://www.xvidzz.com/) - Aggregator
+* [TubeGalore](https://www.tubegalore.com/) - Aggregator
+* [XNEON](https://xneon.com/) - Aggregator
+* [LobsterTube](https://www.lobstertube.com/) - Aggregator
+* [DinoTube](https://www.dinotube.com/) - Aggregator
+* [TubePornstars](https://www.tubepornstars.com/) - Aggregator
+* [Tonic Movies](https://tonicmovies.com/) - Aggregator
+* [Aloha Tube](https://www.alohatube.com/) - Aggregator
+* [FuckMoral](https://fuckmoral.com/) - Aggregator
+* [iWank](https://iwank.tv/) - Aggregator
+* [PornoGO](https://pornogo.tv/) - Aggregator
+* [pornSOS](https://www.pornsos.com/) - Aggregator
+* [Tiava](https://www.tiava.com/) - Aggregator
+* [4Porn](https://4porn.com/) - Aggregator
+* [MelonsTube](https://www.melonstube.com/) - Aggregator
+* [NudeVista](https://www.nudevista.com/) - Search Engines
+* [Xfantazy](https://xfantazy.com/) - Search Engines
+* [PornMD](https://pornmd.com/) - Search Engine
+* [Porndex](https://www.porndex.com/) - Search Engines
+* [Ro89](https://ro89.com/) - Search Engines
+* [Mature Tube](https://www.maturetube.com/) - MILF Focused Aggregator
 
 ***
 
@@ -588,15 +619,16 @@
 
 # ► Tools
 
-* ⭐ **[Panic Button](https://pastebin.com/mDWBZ7fQ)** - Quickly Close All Tabs
-* ⭐ **[SauceNao](https://saucenao.com/)** - NSFW Reverse Image Search / [JAV Search](https://www.zenra.net/free-jav-reverse-image-search) / [Extension](https://saucenao.com/tools/)
-* ⭐ **[Bypass Subreddit Blocks](https://pastebin.com/gAAEQnqn)**
+* ⭐ **[PornStarByFace](https://pornstarbyface.com/)** - NSFW Image Reverse Search
+* ⭐ **[SauceNao](https://saucenao.com/)** - Fictional NSFW Reverse Image Search / [Extension](https://saucenao.com/tools/)
 * ⭐ **[Internet Adult Film Database](https://www.iafd.com/)** or [MyPornStarBook](https://www.mypornstarbook.net/) - Adult Film Databases / Reviews
+* ⭐ **[NameThatPorn](https://namethatporn.com/)**, [NameThatPornstar](https://namethatpornstar.com/), [r/pornID](https://www.reddit.com/r/pornID/) or [r/tipofmypenis](https://www.reddit.com/r/tipofmypenis/) - Porn Identification Communities
 * ⭐ **[Stash](https://stashapp.cc/)** - Porn File Manager
+* ⭐ **[Bypass Subreddit Blocks](https://pastebin.com/gAAEQnqn)**
+* [Panic Button](https://pastebin.com/mDWBZ7fQ) - Quickly Close All Tabs
 * [UploadingPorn](https://uploadingporn.com/) - NSFW File Host
 * [Javinizer](https://github.com/jvlflame/Javinizer) - JAV File Organizer
 * [DeepMosaics](https://github.com/HypoX64/DeepMosaics) or [DeepCreamPy](https://github.com/styler00dollar/Colab-DeepCreamPy/blob/master/Colab-DeepCreamPy-2.2.ipynb) - Remove Mosaics from Porn
-* [NameThatPorn](https://namethatporn.com/) - Porn Identification Tool
 * [ThePornDB](https://metadataapi.net/) - Porn Metadata
 * [Bypass Age Verification](https://greasyfork.org/en/scripts/393525-bypass-age-verification-deviantart-com) - Bypass Deviantart Age Restriction
 * [Sleazy Fork](https://sleazyfork.org/en/scripts) - Adult User Scripts
