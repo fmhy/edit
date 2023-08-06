@@ -1,3 +1,12 @@
-h1      {
+h1 {
     text-align: center;
+}
+
+/* Icons */
+html.dark ul.flex-col > li > a > svg {
+  color: white !important;
+}
+
+:not(html.dark) ul.flex-col > li > a > svg  {
+  color: black;
 }
