@@ -452,7 +452,7 @@
 * ⭐ **[Koushoku](https://ksk.moe/)** - Fakku/Irodori Rips
 * ⭐ **[Hitomi](https://hitomi.la/)** - Hentai Manga
 * ⭐ **[IMHentai](https://imhentai.xxx/)** - Hentai Manga / Comics / [Discord](https://discord.com/invite/GRTKFhavEG)
-* ⭐ **[NHentai](https://nhentai.net/)** - Hentai Manga / [Client](https://github.com/honjow/FEhViewer) / [Android Client](https://github.com/Dar9586/NClientV2) / [Downloader](https://github.com/RicterZ/nhentai)
+* ⭐ **[NHentai](https://nhentai.net/)** - Hentai Manga / [Android Client](https://github.com/Dar9586/NClientV2) / [Downloader](https://github.com/RicterZ/nhentai)
 * ⭐ **[Multporn](https://multporn.net/)** - Hentai Manga / Comics
 * ⭐ **[AllPornComic](https://allporncomic.com/)** - Comics
 * ⭐ **[Toonily](https://toonily.me/)** - Pornhwa
