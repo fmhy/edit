@@ -818,41 +818,41 @@
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - Multiple Link Related Actions 
 * [Firefox Download Managers](https://addons.mozilla.org/en-US/firefox/search/?category=download-management&recommended=true&sort=recommended%2Cusers&type=extension) - Download Managers for Firefox
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager
-* [cliget](https://addons.mozilla.org/en-US/firefox/addon/cliget/) - Download Files from Command Line
-* [ShadowFox](https://overdodactyl.github.io/ShadowFox/) or [Dark Background and Light Text](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text/) - Dark Mode
+* [cliget](https://github.com/zaidka/cliget) - Download Files from Command Line
+* [ShadowFox](https://overdodactyl.github.io/ShadowFox/) or [Dark Background and Light Text](https://github.com/m-khvoinitsky/dark-background-light-text-extension) - Dark Mode
 * [FX Cast](https://hensm.github.io/fx_cast/) - Enable Chromecast in Firefox
 * [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - Chrome Extensions in Firefox
 * [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - Pick Site that Opens in New Tabs 
 * [Keep or Delete Bookmarks](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) - Keep Bookmark Folder Clean 
-* [Default Bookmark Folder](https://addons.mozilla.org/en-US/firefox/addon/default-bookmark-folder/) - Change Default Bookmark Folder
+* [Default Bookmark Folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - Change Default Bookmark Folder
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search Search 
-* [PopUp Encyclopedia](https://addons.mozilla.org/en-US/firefox/addon/popup-encyclopedia/) or [Multilingual-fox](https://github.com/parksb/multilingual-fox) - Popup Encyclopedias / Dictionaries
+* [PopUp Encyclopedia](https://github.com/pncnmnp/PopUp-Encyclopedia) or [Multilingual-fox](https://github.com/parksb/multilingual-fox) - Popup Encyclopedias / Dictionaries
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain 
-* [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
+* [Firefox Color](https://color.firefox.com/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
 * [OnelineProton](https://github.com/newmanls/OnelineProton) - Proton Theme for Firefox
 * [Dark Background for Firefox New Tabs](https://fedidat.com/640-dark-newtab-firefox/)
 * [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - Force Enable Right Click
 * [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) - Make Non-Hyperlinked URL's Clickable
 * [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) - Translator
-* [hide-scrollbars](https://addons.mozilla.org/en-US/firefox/addon/hide-scrollbars/) - Hide Browser Scrollbar
+* [hide-scrollbars](https://github.com/quinton-ashley/firefox-hide-scrollbars) - Hide Browser Scrollbar
 * [AutoPagerize Advanced](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - Merge Multiple Pages
-* [Profile Switcher](https://addons.mozilla.org/en-US/firefox/addon/profile-switcher/) - Profile Manager
+* [Profile Switcher](https://github.com/null-dev/firefox-profile-switcher) - Profile Manager
 * [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) or [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Non-Avast Fork / Block Cookie Consent Popups
-* [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - Easily Switch User-Agent
+* [User-Agent Switcher](https://gitlab.com/ntninja/user-agent-switcher) - Easily Switch User-Agent
 * [SoundFixer](https://github.com/valpackett/soundfixer) - Fixes Audio Playing in 1 Channel
-* [Volume Control Tabs](https://addons.mozilla.org/en-US/firefox/addon/volume-control-tabs/) - Control Individual Tab Volume
-* [Mute Sites By Default](https://addons.mozilla.org/en-US/firefox/addon/mute-sites-by-default/) - Mute All Sites by Default 
+* [Volume Control Tabs](https://github.com/vzze/volume-control) - Control Individual Tab Volume
+* [Mute Sites By Default](https://github.com/abba23/mute-sites-by-default) - Mute All Sites by Default 
 * [Read Aloud](https://readaloud.app/) - Text to Speech
 * [Sage-Like](https://addons.mozilla.org/en-US/firefox/addon/sage-like/) - RSS Feed Reader
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
 * [Morning Coffee Quantum](https://addons.mozilla.org/en-US/firefox/addon/morning-coffee-quantum/) - Open Custom Website Lists 
 * [Wiper](https://github.com/davidahmed/wiper) - Block Sites
-* [Resurrect Pages](https://addons.mozilla.org/nl/firefox/addon/resurrect-pages/) - View Archived / Cached Webpages
+* [Resurrect Pages](https://github.com/arantius/resurrect-pages) - View Archived / Cached Webpages
 * [Canvas](https://addons.mozilla.org/en-US/firefox/addon/canvas-google-images/) - View & Edit Google Images 
 * [Sitemod](https://sitemod.io/) - Inspect Element Changes to a Website
 * [Plasma Integration](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/) - Control Browser via Plasma 
 * [Session Sync](https://addons.mozilla.org/en-US/firefox/addon/session-sync/) - Session Manager 
-* [DelayWebpage](https://addons.mozilla.org/en-US/firefox/addon/delaywebpage/) - Set Webpage Loading Delays
+* [DelayWebpage](https://github.com/OskarDamkjaer/FirefoxDelayWebpage) - Set Webpage Loading Delays
 
 ***
 
@@ -874,9 +874,9 @@
 * [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Add Extensions to Ungoogled Chromium 
 * [CRX Viewer](https://github.com/Rob--W/crxviewer) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
 * [MarvellousSuspender](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - Tab Suspender
-* [Darkness](https://chrome.google.com/webstore/detail/darkness-beautiful-dark-t/imilbobhamcfahccagbncamhpnbkaenm) - Dark Mode
+* [Darkness](https://darkness.app/) - Dark Mode
 * [PolyMod](https://polymod.dev/) - Site Themes / [Discord](https://discord.com/invite/pacPH8b9gx)
-* [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) - Picture-in-Picture Mode
+* [Picture-in-Picture](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension) - Picture-in-Picture Mode
 * [OVC](https://chrome.google.com/webstore/detail/ovc-one-video-control/analeldnikfgekckpcppegfekineelbb) - Video Controller
 * [Say Play](https://thanesh.dev/say-play) - Video Control Voice Commands
 * [Audio Channel](https://chrome.google.com/webstore/detail/audio-channel/hafdgamhnmiioimpcdhhbhgcjndgmphd) - Tab Audio Manager
