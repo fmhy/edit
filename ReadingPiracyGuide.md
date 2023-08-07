@@ -173,7 +173,6 @@
 * [Ocean of PDF](https://oceanofpdf.com/) - Books / Comics
 * [pdfroom](https://pdfroom.com/) - Books / Comics
 * [Pdfgeni](http://www.pdfgeni.com/) - Books
-* [PDFGrab](https://pdfgrab.com/) - Books
 * [Ebook PDF](https://ebookpdf.com/) - Books
 * [KuPDF](https://kupdf.net/) - Books
 * [ePDF](https://epdf.tips/) - Books
