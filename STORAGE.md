@@ -3408,7 +3408,7 @@ Add the following commands to a search to manually scrape each site.
 
 * [Official YouTube Movies](https://www.youtube.com/feed/storefront?bp=kgEDCPYDogUCKAU%3D) / [TV](https://www.youtube.com/feed/storefront?bp=kgEDCO8HogUCKAU%3D)
 * [YouTube Streaming Channels](https://rentry.co/YT-Movies)
-* [Video Dictionary](https://videodictionary.kwebpia.net/)
+* [Video Dictionary](https://videodictionary.kwebpia.net/?m=Full_Movies)
 * [MoviesFoundOnline](https://moviesfoundonline.com/)
 * [FREEMOVIESNOW](https://www.youtube.com/c/FREEMOVIESNOW/featured)
 * [FreeGreatMovies](https://www.freegreatmovies.com/)
