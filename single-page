@@ -3785,6 +3785,7 @@
 * [Toby Tools](https://rentry.co/qnu6x) or [EuroJobs](https://eurojobs.com/) - Job Search Tools
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
 * [10xJobs](https://10xjobs.net/) - Tech Job Search
+* [Arvrok](https://www.arvrok.com/) - Immersive Tech Job Search
 * [80,000 Hours](https://80000hours.org/) - Explore Career Options
 * [Comparably](https://www.comparably.com/) or [GoodFirms](https://www.goodfirms.co/) - Compare Companies / Salaries
 * [Real Work From Anywhere](https://realworkfromanywhere.com/) - Global "Work-From-Anywhere" Job Board
@@ -15990,12 +15991,9 @@ Software
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
 * [LiveScore](https://www.livescores.com/) - Live Sports Scores
-* [NBA Go](https://github.com/homerchen19/nba-go) - NBA Schedule / Scores CLI
 * [Scribe](https://scribe.bus-hit.me/) - Medium Frontend
 * [Read Something Interesting](https://readsomethinginteresting.com/) or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
-* [prompt.press](https://prompt.press/) - AI Art Inspired by News
 * [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/) or [HonestyMeter](https://www.honestymeter.com/) - Media Bias Check
-* [Jayto's Newsletter List](https://rentry.co/newsletters) - List of Newsletters
 
 ***
 
@@ -16606,44 +16604,41 @@ Software
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - Multiple Link Related Actions 
 * [Firefox Download Managers](https://addons.mozilla.org/en-US/firefox/search/?category=download-management&recommended=true&sort=recommended%2Cusers&type=extension) - Download Managers for Firefox
 * [Multithreaded Download Manager](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) - Download Manager
-* [cliget](https://addons.mozilla.org/en-US/firefox/addon/cliget/) - Download Files from Command Line
-* [ShadowFox](https://overdodactyl.github.io/ShadowFox/) or [Dark Background and Light Text](https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text/) - Dark Mode
+* [cliget](https://github.com/zaidka/cliget) - Download Files from Command Line
+* [ShadowFox](https://overdodactyl.github.io/ShadowFox/) or [Dark Background and Light Text](https://github.com/m-khvoinitsky/dark-background-light-text-extension) - Dark Mode
 * [FX Cast](https://hensm.github.io/fx_cast/) - Enable Chromecast in Firefox
 * [Firefox Scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - Chrome Extensions in Firefox
 * [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - Pick Site that Opens in New Tabs 
 * [Keep or Delete Bookmarks](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) - Keep Bookmark Folder Clean 
-* [Default Bookmark Folder](https://addons.mozilla.org/en-US/firefox/addon/default-bookmark-folder/) - Change Default Bookmark Folder
-* [SaveForReadLater](https://addons.mozilla.org/en-US/firefox/addon/saveforreadlater/) - Save Pages to Read Later 
+* [Default Bookmark Folder](https://github.com/teddy-gustiaux/default-bookmark-folder) - Change Default Bookmark Folder
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search Search 
-* [PopUp Encyclopedia](https://addons.mozilla.org/en-US/firefox/addon/popup-encyclopedia/) or [Multilingual-fox](https://github.com/parksb/multilingual-fox) - Popup Encyclopedias / Dictionaries
+* [PopUp Encyclopedia](https://github.com/pncnmnp/PopUp-Encyclopedia) or [Multilingual-fox](https://github.com/parksb/multilingual-fox) - Popup Encyclopedias / Dictionaries
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain 
-* [Firefox Color](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
+* [Firefox Color](https://color.firefox.com/) or [SwiftTheme](https://addons.mozilla.org/en-US/firefox/addon/swifttheme/) - Custom Firefox Theme Creation
 * [OnelineProton](https://github.com/newmanls/OnelineProton) - Proton Theme for Firefox
 * [Dark Background for Firefox New Tabs](https://fedidat.com/640-dark-newtab-firefox/)
 * [Happy Right-Click](https://addons.mozilla.org/en-US/firefox/addon/%E5%BF%AB%E4%B9%90%E5%8F%B3%E9%94%AE/) - Force Enable Right Click
 * [Linkificator](https://addons.mozilla.org/en-US/firefox/addon/linkificator/) - Make Non-Hyperlinked URL's Clickable
 * [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/) - Translator
-* [hide-scrollbars](https://addons.mozilla.org/en-US/firefox/addon/hide-scrollbars/) - Hide Browser Scrollbar
+* [hide-scrollbars](https://github.com/quinton-ashley/firefox-hide-scrollbars) - Hide Browser Scrollbar
 * [AutoPagerize Advanced](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - Merge Multiple Pages
-* [Profile Switcher](https://addons.mozilla.org/en-US/firefox/addon/profile-switcher/) - Profile Manager
+* [Profile Switcher](https://github.com/null-dev/firefox-profile-switcher) - Profile Manager
 * [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) or [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Non-Avast Fork / Block Cookie Consent Popups
-* [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/uaswitcher/) - Easily Switch User-Agent
+* [User-Agent Switcher](https://gitlab.com/ntninja/user-agent-switcher) - Easily Switch User-Agent
 * [SoundFixer](https://github.com/valpackett/soundfixer) - Fixes Audio Playing in 1 Channel
-* [Volume Control Tabs](https://addons.mozilla.org/en-US/firefox/addon/volume-control-tabs/) - Control Individual Tab Volume
-* [Mute Sites By Default](https://addons.mozilla.org/en-US/firefox/addon/mute-sites-by-default/) - Mute All Sites by Default 
+* [Volume Control Tabs](https://github.com/vzze/volume-control) - Control Individual Tab Volume
+* [Mute Sites By Default](https://github.com/abba23/mute-sites-by-default) - Mute All Sites by Default 
 * [Read Aloud](https://readaloud.app/) - Text to Speech
 * [Sage-Like](https://addons.mozilla.org/en-US/firefox/addon/sage-like/) - RSS Feed Reader
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
-* [Rooster Todo Manager](https://addons.mozilla.org/en-US/firefox/addon/rooster-todos/) - To-Do Manager 
 * [Morning Coffee Quantum](https://addons.mozilla.org/en-US/firefox/addon/morning-coffee-quantum/) - Open Custom Website Lists 
 * [Wiper](https://github.com/davidahmed/wiper) - Block Sites
-* [Resurrect Pages](https://addons.mozilla.org/nl/firefox/addon/resurrect-pages/) - View Archived / Cached Webpages
-* [Firefox Voice](https://commonvoice.mozilla.org/en) - Use Firefox with your Voice 
+* [Resurrect Pages](https://github.com/arantius/resurrect-pages) - View Archived / Cached Webpages
 * [Canvas](https://addons.mozilla.org/en-US/firefox/addon/canvas-google-images/) - View & Edit Google Images 
 * [Sitemod](https://sitemod.io/) - Inspect Element Changes to a Website
 * [Plasma Integration](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/) - Control Browser via Plasma 
 * [Session Sync](https://addons.mozilla.org/en-US/firefox/addon/session-sync/) - Session Manager 
-* [DelayWebpage](https://addons.mozilla.org/en-US/firefox/addon/delaywebpage/) - Set Webpage Loading Delays
+* [DelayWebpage](https://github.com/OskarDamkjaer/FirefoxDelayWebpage) - Set Webpage Loading Delays
 
 ***
 
@@ -16660,14 +16655,14 @@ Software
 * [WebCRX](https://webcrx.io/) - Install Chrome CRX Files
 * [Foxified](https://foxified.org/) - Use Firefox Extensions in Chrome
 * [Edge Chrome Extensions](https://greasyfork.org/en/scripts/439922) - Use Edge Extensions in Chrome
-* [chrome-extensions](https://github.com/learn-anything/chrome-extensions) or [Chrome-Extension](https://github.com/harshita214/Chrome-Extension) - Chrome Extensions 
+* [Chrome-Extension](https://github.com/harshita214/Chrome-Extension) - Chrome Extensions 
 * [ChromeStats](https://chrome-stats.com/) - Compare / Analyze Chrome Extensions
 * [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Add Extensions to Ungoogled Chromium 
 * [CRX Viewer](https://github.com/Rob--W/crxviewer) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
 * [MarvellousSuspender](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - Tab Suspender
-* [Darkness](https://chrome.google.com/webstore/detail/darkness-beautiful-dark-t/imilbobhamcfahccagbncamhpnbkaenm) or [Dark Mode Chrome](https://chrome.google.com/webstore/detail/dark-mode-chrome/pdhdailechlgicdgnmdbenhnappgobpp) - Dark Mode
+* [Darkness](https://darkness.app/) - Dark Mode
 * [PolyMod](https://polymod.dev/) - Site Themes / [Discord](https://discord.com/invite/pacPH8b9gx)
-* [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) - Picture-in-Picture Mode
+* [Picture-in-Picture](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension) - Picture-in-Picture Mode
 * [OVC](https://chrome.google.com/webstore/detail/ovc-one-video-control/analeldnikfgekckpcppegfekineelbb) - Video Controller
 * [Say Play](https://thanesh.dev/say-play) - Video Control Voice Commands
 * [Audio Channel](https://chrome.google.com/webstore/detail/audio-channel/hafdgamhnmiioimpcdhhbhgcjndgmphd) - Tab Audio Manager
@@ -16680,11 +16675,9 @@ Software
 * [Text Blaze](https://blaze.today/) - Create Text Snippets
 * [Blackbox](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) - Copy Text from Videos and Images
 * [Copy Text Easily](https://chrome.google.com/webstore/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo) - Simple Text Copy
-* [Chrome Signature Parser](https://parsio.io/chrome-signature-parser/) - Extract Contact Detail from Emails
 * [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en) - Extract Email ID's from Webpages
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - Download Multiple Links at Once
 * [Download Sorter](https://chrome.google.com/webstore/detail/download-sorter/mebfblkahpknogabckmdjcmjbnpfdpcj/related) - Sort Downloads into Folders
-* [Refgen](https://github.com/reorx/refgen) - Generate Markdown Style Links
 * [Hover](https://chrome.google.com/webstore/detail/hover/eiiibfemcfcehadokcldlcdljfdlmolj) - Link Previews
 * [Fetcher](https://fetcher.page/) - Feed Grabber
 * [Multimedia Search](https://multimediasearchapp.com/) - Browser File Search
@@ -21538,7 +21531,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[CachedView](https://cachedview.com/)**
 * ⭐ **[ArchiveTeam](https://tracker.archiveteam.org/)** - Virtual Archiving Project
 
-[awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) / [2](https://github.com/iipc/awesome-web-archiving) / [3](https://github.com/BruceDone/awesome-crawler), [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox), [Collect](https://github.com/xarantolus/Collect), [grab-site](https://github.com/ArchiveTeam/grab-site), [Heritrix](https://github.com/internetarchive/heritrix3), [HTTrack](https://www.httrack.com/) / [Guide](https://rentry.co/cloneasite), [wail](https://github.com/machawk1/wail), [WikiTeam](https://github.com/WikiTeam/wikiteam), [wallabag](https://github.com/wallabag/docker), [Conifer](https://github.com/Rhizome-Conifer/conifer), [CrowLeer](https://erap320.github.io/CrowLeer/), [brozzler](https://github.com/internetarchive/brozzler), [Kiwix](https://www.kiwix.org/en/), [wpull](https://github.com/ArchiveTeam/wpull), [suckit](https://github.com/skallwar/suckit), [wget](https://www.gnu.org/software/wget/) / [wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/) / [Guide](https://web.archive.org/web/20210305122849/https://the-eye.eu/public/Wget_Windows_Guide.pdf), [zenscrape](https://zenscrape.com/), [scraping-bot](https://www.scraping-bot.io/), [webscraping](https://webscraping.ai/), [scrapingant](https://scrapingant.com/), [pyscrappy](https://pyscrappy.netlify.app/), [scrapestack](https://scrapestack.com/), [conifer](https://conifer.rhizome.org/), [archivy](https://archivy.github.io/), [archive.vn](https://archive.vn/), [cachedview](https://cachedview.nl/), [archivematica](https://www.archivematica.org/), [webarchive](https://www.webarchive.org.uk/), [cyotek-webcopy](https://www.cyotek.com/cyotek-webcopy), [Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader), [archive.ph](https://archive.ph/), [timetravel](http://timetravel.mementoweb.org/), [Eternal](https://eternal.report/), [oldweb](https://oldweb.today/), [vortimo](https://www.vortimo.com/), [22120](https://github.com/dosyago/DiskerNet) (Browser Controller), [ghostarchive](http://ghostarchive.org/), [webrecorder](https://webrecorder.net/), [web.scraper](https://web.scraper.workers.dev/), [archive.fo](https://archive.fo/), [cachedpages](http://www.cachedpages.com/), [stealth](https://github.com/tholian-network/stealth), [replayweb](https://replayweb.page/) / [GitHub](https://github.com/webrecorder/replayweb.page), [CopySite](https://xdan.ru/copysite/), [Scrapy](https://scrapy.org/), [DFK](https://dataflowkit.com/dfk), [grab](https://github.com/everdrone/grab), [mrscraper](https://mrscraper.com/), [Arquivo.pt] (https://arquivo.pt/?l=en), [80legs](https://80legs.com/), [resurrect-pages](https://github.com/arantius/resurrect-pages), [crawly](https://crawly.diffbot.com/)
+[awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) / [2](https://github.com/iipc/awesome-web-archiving) / [3](https://github.com/BruceDone/awesome-crawler), [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox), [Collect](https://github.com/xarantolus/Collect), [grab-site](https://github.com/ArchiveTeam/grab-site), [Heritrix](https://github.com/internetarchive/heritrix3), [HTTrack](https://www.httrack.com/) / [Guide](https://rentry.co/cloneasite), [wail](https://github.com/machawk1/wail), [WikiTeam](https://github.com/WikiTeam/wikiteam), [wallabag](https://github.com/wallabag/docker), [Conifer](https://github.com/Rhizome-Conifer/conifer), [CrowLeer](https://erap320.github.io/CrowLeer/), [brozzler](https://github.com/internetarchive/brozzler), [Kiwix](https://www.kiwix.org/en/), [wpull](https://github.com/ArchiveTeam/wpull), [suckit](https://github.com/skallwar/suckit), [wget](https://www.gnu.org/software/wget/) / [wget2](https://gitlab.com/gnuwget/wget2) / [Commands](https://www.whatismybrowser.com/developers/tools/wget-wizard/) / [Guide](https://web.archive.org/web/20210305122849/https://the-eye.eu/public/Wget_Windows_Guide.pdf), [zenscrape](https://zenscrape.com/), [scraping-bot](https://www.scraping-bot.io/), [webscraping](https://webscraping.ai/), [scrapingant](https://scrapingant.com/), [pyscrappy](https://pyscrappy.netlify.app/), [scrapestack](https://scrapestack.com/), [conifer](https://conifer.rhizome.org/), [archivy](https://archivy.github.io/), [archive.vn](https://archive.vn/), [cachedview](https://cachedview.nl/), [archivematica](https://www.archivematica.org/), [webarchive](https://www.webarchive.org.uk/), [cyotek-webcopy](https://www.cyotek.com/cyotek-webcopy), [Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader), [archive.ph](https://archive.ph/), [timetravel](http://timetravel.mementoweb.org/), [Eternal](https://eternal.report/), [oldweb](https://oldweb.today/), [vortimo](https://www.vortimo.com/), [22120](https://github.com/dosyago/DiskerNet) (Browser Controller), [ghostarchive](http://ghostarchive.org/), [webrecorder](https://webrecorder.net/), [web.scraper](https://web.scraper.workers.dev/), [archive.fo](https://archive.fo/), [cachedpages](http://www.cachedpages.com/), [stealth](https://github.com/tholian-network/stealth), [replayweb](https://replayweb.page/) / [GitHub](https://github.com/webrecorder/replayweb.page), [CopySite](https://xdan.ru/copysite/), [Scrapy](https://scrapy.org/), [DFK](https://dataflowkit.com/dfk), [grab](https://github.com/everdrone/grab), [mrscraper](https://mrscraper.com/), [Arquivo.pt] (https://arquivo.pt/?l=en), [80legs](https://80legs.com/), [resurrect-pages](https://github.com/arantius/resurrect-pages) / [2](https://github.com/Albirew/resurrect-pages-isup-edition), [crawly](https://crawly.diffbot.com/)
 
 **Extensions**
 
@@ -21790,7 +21783,6 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[xvideos](https://www.xvideos.com/)**
 * ⭐ **[xhamster](https://xhamster.com/)**
 * ⭐ **[Pornhub](https://www.pornhub.com/)** / [Add Features](https://sleazyfork.org/en/scripts/380711)
-* ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/)
 * ⭐ **[bellesa](https://www.bellesa.co/)** - Porn Videos for women
 * [xnxx](https://www.xnxx.com/)
 * [TNAFlix](https://www.tnaflix.com/)
@@ -21836,7 +21828,6 @@ Add the following commands to a search to manually scrape each site.
 * [Whoreshub](https://www.whoreshub.com/)
 * [Porn300](https://www.porn300.com/)
 * [Pornktube](https://www.pornktube.club/) or [TubXPorn](https://tubxporn.xxx/)
-* [PornMD](https://pornmd.com/)
 * [Palimas](https://palimas.tv/)
 * [mega-xxx](https://www.mega-xxx.tv/)
 * [5porno](https://5porno.pro/)
@@ -21880,6 +21871,39 @@ Add the following commands to a search to manually scrape each site.
 * [Porn-Star](https://www.porn-star.com/)
 * [Porn App](https://porn-app.com/) - Android Porn App / [Discord](https://discord.com/invite/XRjPBGa)
 * [NsfwBox](https://github.com/Kisspeace/NsfwBox) - Android Porn App
+
+***
+
+## ▷ Aggregators
+
+* ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/) - Search Engine
+* ⭐ **[iXXX](https://www.ixxx.com/)** - Aggregator
+* [TubeSafari](https://tubesafari.com/) - Aggregator
+* [Thumbzilla](https://www.thumbzilla.com/) - Aggregator
+* [Fuq](https://www.fuq.com/) - Aggregator
+* [Porzo](https://www.porzo.com/) - Aggregator
+* [PornKai](https://pornkai.com/) - Aggregator
+* [Xvidzz](https://www.xvidzz.com/) - Aggregator
+* [TubeGalore](https://www.tubegalore.com/) - Aggregator
+* [XNEON](https://xneon.com/) - Aggregator
+* [LobsterTube](https://www.lobstertube.com/) - Aggregator
+* [DinoTube](https://www.dinotube.com/) - Aggregator
+* [TubePornstars](https://www.tubepornstars.com/) - Aggregator
+* [Tonic Movies](https://tonicmovies.com/) - Aggregator
+* [Aloha Tube](https://www.alohatube.com/) - Aggregator
+* [FuckMoral](https://fuckmoral.com/) - Aggregator
+* [iWank](https://iwank.tv/) - Aggregator
+* [PornoGO](https://pornogo.tv/) - Aggregator
+* [pornSOS](https://www.pornsos.com/) - Aggregator
+* [Tiava](https://www.tiava.com/) - Aggregator
+* [4Porn](https://4porn.com/) - Aggregator
+* [MelonsTube](https://www.melonstube.com/) - Aggregator
+* [NudeVista](https://www.nudevista.com/) - Search Engines
+* [Xfantazy](https://xfantazy.com/) - Search Engines
+* [PornMD](https://pornmd.com/) - Search Engine
+* [Porndex](https://www.porndex.com/) - Search Engines
+* [Ro89](https://ro89.com/) - Search Engines
+* [Mature Tube](https://www.maturetube.com/) - MILF Focused Aggregator
 
 ***
 
@@ -22169,16 +22193,18 @@ Add the following commands to a search to manually scrape each site.
 
 ## ▷ Hentai Manga / Comics
 
-* ⭐ **[e-hentai](https://e-hentai.org/)** / [exhentai](https://exhentai.org/) - Hentai Manga / [Android Client](https://github.com/honjow/FEhViewer) / [Deleted Galleries Backup](https://panda.chaika.moe/)
+* ⭐ **[E-Hentai](https://e-hentai.org/)** / [ExHentai](https://exhentai.org/) - Hentai Manga / [Android Client](https://github.com/honjow/FEhViewer) / [Deleted Galleries Backup](https://panda.chaika.moe/) / [Downloader](https://gitlab.com/squishydreams/pandaforever), [2](https://github.com/ccloli/E-Hentai-Downloader),
+* ⭐ **[Koushoku](https://ksk.moe/)** - Fakku/Irodori Rips
 * ⭐ **[Hitomi](https://hitomi.la/)** - Hentai Manga
 * ⭐ **[IMHentai](https://imhentai.xxx/)** - Hentai Manga / Comics / [Discord](https://discord.com/invite/GRTKFhavEG)
-* ⭐ **[NHentai](https://nhentai.net/)** - Hentai Manga / [Android Client](https://github.com/Dar9586/NClientV2)
+* ⭐ **[NHentai](https://nhentai.net/)** - Hentai Manga / [Android Client](https://github.com/Dar9586/NClientV2) / [Downloader](https://github.com/RicterZ/nhentai)
 * ⭐ **[Multporn](https://multporn.net/)** - Hentai Manga / Comics
 * ⭐ **[AllPornComic](https://allporncomic.com/)** - Comics
 * ⭐ **[Toonily](https://toonily.me/)** - Pornhwa
 * ⭐ **[Manhwa18](https://manhwa18.com/)** - Pornhwa
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Manga Torrents
 * ⭐ **[Anime-Sharing](https://www.anime-sharing.com/forum/#downloads-requests)** - Hentai Manga DDL
+* ⭐ **[Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)** or **[Hakuneko](https://hakuneko.download/)** - Multi-Site Downloaders
 * ⭐ **[Wholesome Hentai](https://wholesomelist.com/)** - Wholesome Manga Index / [Discord](https://discord.com/invite/688T4TaE)
 * [Hentai2Read](https://hentai2read.com/) or [HentaiHere](https://hentaihere.com/) - Hentai Manga
 * [HentaiFox](https://hentaifox.com/) - Hentai Manga
@@ -22244,8 +22270,6 @@ Add the following commands to a search to manually scrape each site.
 * [Violet](https://github.com/project-violet/violet) - Android Hentai/ [Discord](https://discord.com/invite/fqrtRxC)
 * [Hentoid](https://github.com/avluis/Hentoid) - Android Hentai / [Discord](https://discord.com/invite/QEZ3qk9)
 * [GalleryCherry](https://github.com/RobbWatershed/GalleryCherry) - Android Hentai / [Discord](https://discord.com/invite/waTF8vw)
-* [FEhViewer](https://github.com/honjow/FEhViewer) - iOS Hentai
-* [pandaforever](https://gitlab.com/squishydreams/pandaforever), [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader), [X Comic Downloader](https://lowmaster.itch.io/x-comic-downloader) or [Panda Chaika](https://panda.chaika.moe/) [nhentai](https://github.com/RicterZ/nhentai) - Hentai Downloaders
 
 ***
 
@@ -22340,15 +22364,16 @@ Add the following commands to a search to manually scrape each site.
 
 # ► Tools
 
-* ⭐ **[Panic Button](https://pastebin.com/mDWBZ7fQ)** - Quickly Close All Tabs
-* ⭐ **[SauceNao](https://saucenao.com/)** - NSFW Reverse Image Search / [JAV Search](https://www.zenra.net/free-jav-reverse-image-search) / [Extension](https://saucenao.com/tools/)
-* ⭐ **[Bypass Subreddit Blocks](https://pastebin.com/gAAEQnqn)**
+* ⭐ **[PornStarByFace](https://pornstarbyface.com/)** - NSFW Image Reverse Search
+* ⭐ **[SauceNao](https://saucenao.com/)** - Fictional NSFW Reverse Image Search / [Extension](https://saucenao.com/tools/)
 * ⭐ **[Internet Adult Film Database](https://www.iafd.com/)** or [MyPornStarBook](https://www.mypornstarbook.net/) - Adult Film Databases / Reviews
+* ⭐ **[NameThatPorn](https://namethatporn.com/)**, [NameThatPornstar](https://namethatpornstar.com/), [r/pornID](https://www.reddit.com/r/pornID/) or [r/tipofmypenis](https://www.reddit.com/r/tipofmypenis/) - Porn Identification Communities
 * ⭐ **[Stash](https://stashapp.cc/)** - Porn File Manager
+* ⭐ **[Bypass Subreddit Blocks](https://pastebin.com/gAAEQnqn)**
+* [Panic Button](https://pastebin.com/mDWBZ7fQ) - Quickly Close All Tabs
 * [UploadingPorn](https://uploadingporn.com/) - NSFW File Host
 * [Javinizer](https://github.com/jvlflame/Javinizer) - JAV File Organizer
 * [DeepMosaics](https://github.com/HypoX64/DeepMosaics) or [DeepCreamPy](https://github.com/styler00dollar/Colab-DeepCreamPy/blob/master/Colab-DeepCreamPy-2.2.ipynb) - Remove Mosaics from Porn
-* [NameThatPorn](https://namethatporn.com/) - Porn Identification Tool
 * [ThePornDB](https://metadataapi.net/) - Porn Metadata
 * [Bypass Age Verification](https://greasyfork.org/en/scripts/393525-bypass-age-verification-deviantart-com) - Bypass Deviantart Age Restriction
 * [Sleazy Fork](https://sleazyfork.org/en/scripts) - Adult User Scripts
