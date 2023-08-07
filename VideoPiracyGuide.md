@@ -146,7 +146,7 @@
 * ⭐ **[OK](https://ok.ru/video)**
 * ⭐ **[VK](https://vk.com/video)**
 * ⭐ **[NoodleMagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://exporntoons.net/recent), [6](https://actionviewphotography.com/) - Some NSFW / Also try `site:noodlemagazine.com` in searches
-* ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced](https://playlists.at/youtube/search/) / [Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_youtube_tools)
+* ⭐ **[YouTube](https://www.youtube.com/)** / [Advanced](https://playlists.at/youtube/search/) / [Movie Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_movies) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_youtube_tools)
 * ⭐ **[Archive](https://archive.org/)** - Movies / TV
 * ⭐ **[Dailymotion](https://www.dailymotion.com/us)**
 * ⭐ **[BiliBili](https://www.bilibili.com/)** / [Client](https://github.com/Richasy/Bili.Uwp)
