@@ -205,12 +205,9 @@
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
 * [LiveScore](https://www.livescores.com/) - Live Sports Scores
-* [NBA Go](https://github.com/homerchen19/nba-go) - NBA Schedule / Scores CLI
 * [Scribe](https://scribe.bus-hit.me/) - Medium Frontend
 * [Read Something Interesting](https://readsomethinginteresting.com/) or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
-* [prompt.press](https://prompt.press/) - AI Art Inspired by News
 * [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/) or [HonestyMeter](https://www.honestymeter.com/) - Media Bias Check
-* [Jayto's Newsletter List](https://rentry.co/newsletters) - List of Newsletters
 
 ***
 
@@ -828,7 +825,6 @@
 * [New Tab Override](https://www.soeren-hentzschel.at/firefox-webextensions/new-tab-override/) - Pick Site that Opens in New Tabs 
 * [Keep or Delete Bookmarks](https://www.soeren-hentzschel.at/firefox-webextensions/keep-or-delete-bookmarks/) - Keep Bookmark Folder Clean 
 * [Default Bookmark Folder](https://addons.mozilla.org/en-US/firefox/addon/default-bookmark-folder/) - Change Default Bookmark Folder
-* [SaveForReadLater](https://addons.mozilla.org/en-US/firefox/addon/saveforreadlater/) - Save Pages to Read Later 
 * [Multi Tabs](https://addons.mozilla.org/en-US/firefox/addon/search-multi-tabs/) - Multi Tab Word Search Search 
 * [PopUp Encyclopedia](https://addons.mozilla.org/en-US/firefox/addon/popup-encyclopedia/) or [Multilingual-fox](https://github.com/parksb/multilingual-fox) - Popup Encyclopedias / Dictionaries
 * [Search Site WE](https://addons.mozilla.org/en-US/firefox/addon/search-site-we/) - Search Current Domain 
@@ -849,11 +845,9 @@
 * [Read Aloud](https://readaloud.app/) - Text to Speech
 * [Sage-Like](https://addons.mozilla.org/en-US/firefox/addon/sage-like/) - RSS Feed Reader
 * [Want My RSS](https://github.com/Reeywhaar/want-my-rss) - Restores Firefox RSS Features
-* [Rooster Todo Manager](https://addons.mozilla.org/en-US/firefox/addon/rooster-todos/) - To-Do Manager 
 * [Morning Coffee Quantum](https://addons.mozilla.org/en-US/firefox/addon/morning-coffee-quantum/) - Open Custom Website Lists 
 * [Wiper](https://github.com/davidahmed/wiper) - Block Sites
 * [Resurrect Pages](https://addons.mozilla.org/nl/firefox/addon/resurrect-pages/) - View Archived / Cached Webpages
-* [Firefox Voice](https://commonvoice.mozilla.org/en) - Use Firefox with your Voice 
 * [Canvas](https://addons.mozilla.org/en-US/firefox/addon/canvas-google-images/) - View & Edit Google Images 
 * [Sitemod](https://sitemod.io/) - Inspect Element Changes to a Website
 * [Plasma Integration](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/) - Control Browser via Plasma 
@@ -875,12 +869,12 @@
 * [WebCRX](https://webcrx.io/) - Install Chrome CRX Files
 * [Foxified](https://foxified.org/) - Use Firefox Extensions in Chrome
 * [Edge Chrome Extensions](https://greasyfork.org/en/scripts/439922) - Use Edge Extensions in Chrome
-* [chrome-extensions](https://github.com/learn-anything/chrome-extensions) or [Chrome-Extension](https://github.com/harshita214/Chrome-Extension) - Chrome Extensions 
+* [Chrome-Extension](https://github.com/harshita214/Chrome-Extension) - Chrome Extensions 
 * [ChromeStats](https://chrome-stats.com/) - Compare / Analyze Chrome Extensions
 * [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Add Extensions to Ungoogled Chromium 
 * [CRX Viewer](https://github.com/Rob--W/crxviewer) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
 * [MarvellousSuspender](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - Tab Suspender
-* [Darkness](https://chrome.google.com/webstore/detail/darkness-beautiful-dark-t/imilbobhamcfahccagbncamhpnbkaenm) or [Dark Mode Chrome](https://chrome.google.com/webstore/detail/dark-mode-chrome/pdhdailechlgicdgnmdbenhnappgobpp) - Dark Mode
+* [Darkness](https://chrome.google.com/webstore/detail/darkness-beautiful-dark-t/imilbobhamcfahccagbncamhpnbkaenm) - Dark Mode
 * [PolyMod](https://polymod.dev/) - Site Themes / [Discord](https://discord.com/invite/pacPH8b9gx)
 * [Picture-in-Picture](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg) - Picture-in-Picture Mode
 * [OVC](https://chrome.google.com/webstore/detail/ovc-one-video-control/analeldnikfgekckpcppegfekineelbb) - Video Controller
@@ -895,11 +889,9 @@
 * [Text Blaze](https://blaze.today/) - Create Text Snippets
 * [Blackbox](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) - Copy Text from Videos and Images
 * [Copy Text Easily](https://chrome.google.com/webstore/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo) - Simple Text Copy
-* [Chrome Signature Parser](https://parsio.io/chrome-signature-parser/) - Extract Contact Detail from Emails
 * [Email Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en) - Extract Email ID's from Webpages
 * [Batch Link Downloader](https://chrome.google.com/webstore/detail/aiahkbnnpafepcgnhhecilboebmmolnn) or [Simple Mass Downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - Download Multiple Links at Once
 * [Download Sorter](https://chrome.google.com/webstore/detail/download-sorter/mebfblkahpknogabckmdjcmjbnpfdpcj/related) - Sort Downloads into Folders
-* [Refgen](https://github.com/reorx/refgen) - Generate Markdown Style Links
 * [Hover](https://chrome.google.com/webstore/detail/hover/eiiibfemcfcehadokcldlcdljfdlmolj) - Link Previews
 * [Fetcher](https://fetcher.page/) - Feed Grabber
 * [Multimedia Search](https://multimediasearchapp.com/) - Browser File Search
