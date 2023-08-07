@@ -61,8 +61,6 @@
 * [ConTV](https://www.contv.com/) - Movies / 720p
 * [Afdah](https://afdah2.com/) - Movies / 720p
 * [FFilmClub](https://filmsclub.org/) - Movies / TV / 720p
-* [XXIKU](https://xxiku.com/) - Movies / 720p
-* [FilarMovies](https://filarmovies.com/) - Movies / TV / 720p
 * [OpenCulture](https://www.openculture.com/freemoviesonline) - Movies / 720p
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
