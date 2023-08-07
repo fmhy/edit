@@ -3411,6 +3411,7 @@ Add the following commands to a search to manually scrape each site.
 * [Video Dictionary](https://videodictionary.kwebpia.net/)
 * [MoviesFoundOnline](https://moviesfoundonline.com/)
 * [FREEMOVIESNOW](https://www.youtube.com/c/FREEMOVIESNOW/featured)
+* [FreeGreatMovies](https://www.freegreatmovies.com/)
 * [YT Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - YouTube Streaming Subs
 
 ***
