@@ -64,7 +64,6 @@
 * [XXIKU](https://xxiku.com/) - Movies / 720p
 * [FilarMovies](https://filarmovies.com/) - Movies / TV / 720p
 * [OpenCulture](https://www.openculture.com/freemoviesonline) - Movies / 720p
-* [FreeGreatMovies](https://www.freegreatmovies.com/) - Movies / 720p
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
 * [VidSrc](https://vidsrc.me/) - Movies / TV / Anime / API
