@@ -106,7 +106,6 @@
 * [Vudu](https://www.vudu.com/content/movies/uxpage/View-All-Free-Movies-TV/207) - Movies / TV / 1080p
 * [ShoutFactoryTV](https://www.shoutfactorytv.com/) - Movies / TV / 1080p
 * [Kanopy](https://kanopy.com/) or [Hoopla](https://www.hoopladigital.com/) - Movies / TV / 1080p / Library Card Required
-* Peacock - [Movies](https://www.peacocktv.com/stream/movies) / [TV](https://www.peacocktv.com/stream/tv) / [Kids](https://www.peacocktv.com/stream/kids) / 1080p
 * [7+](https://7plus.com.au/) - Movies / TV / 1080p
 * [Playary](https://www.playary.com/) - Movies / TV / 1080p
 * [Fawesome](https://fawesome.tv/) - Movies / TV / 1080p
