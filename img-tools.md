@@ -540,6 +540,7 @@
 
 ## ▷ Photo Forensics
 
+* ⭐ **[Fawkes](http://sandlab.cs.uchicago.edu/fawkes/)** or **[Lowkey](https://lowkey.umiacs.umd.edu/)** - Facial Cloaking
 * [Photo OSINT](https://start.me/p/0PgzqO/photo-osint) - Image OSINT Resources
 * [FotoForensics](https://www.fotoforensics.com/), [Forensically](https://29a.ch/photo-forensics/) or [Ghiro](http://www.getghiro.org/) - Photo Forensics Tool
 * [GeoEstimation](https://labs.tib.eu/geoestimation) - Estimate Image Geolocation 
@@ -562,7 +563,6 @@
 * [FaceCheck](https://facecheck.id/) - Face Recognition Search Engine
 * [FALdetector](https://github.com/peterwang512/FALdetector) - Photoshopped Face Detector
 * [Shoop](https://colab.research.google.com/drive/1AQ0XSKWjzJBhGXXJ0XrA4DckFdv6Ul5N) - Detect if Image is Photoshopped
-* [Fawkes](http://sandlab.cs.uchicago.edu/fawkes/) - Image Cloaking
 * [Redact.Photo](https://redact.photo/) - Image Redaction Tool
 * [Squoosh](https://squoosh.app/) - Image Codec Comparison
 * [jPhotoDNA](https://github.com/jankais3r/jPhotoDNA) - Image CSAM Identification Algorithm
