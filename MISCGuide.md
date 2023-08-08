@@ -865,6 +865,7 @@
 
 * ⭐ **[Chrome Web Store](https://chrome.google.com/webstore/category/extensions?hl=en)**
 * ⭐ **[Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)** or [Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) - Extension Managers
+* [Extension Source Downloader](https://chrome.google.com/webstore/detail/extension-source-download/dlbdalfhhfecaekoakmanjflmdhmgpea) - Bypass age restriction
 * [hektCaptcha](https://github.com/Wikidepia/hektCaptcha-extension) - Captcha Solver
 * [Crx4Chrome](https://www.crx4chrome.com/) - Alt Google App Store
 * [WebCRX](https://webcrx.io/) - Install Chrome CRX Files
