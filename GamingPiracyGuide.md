@@ -1227,6 +1227,7 @@
 * [DigiMinecraft](https://www.digminecraft.com/) - Minecraft Guides
 * [Couleur Tweak Tips](http://discord.gg/CTT) - Minecraft Tweaks / Tips
 * [OptiFine Alternatives](https://lambdaurora.dev/optifine_alternatives/) - Minecraft OptiFine Alternatives for Fabric
+* [Modrinthify](https://github.com/devBoi76/modrinthify) - Redirects CurseForge mods to Modrinth / [1](https://chrome.google.com/webstore/detail/modrinthify/gjjlcbppchpjacimpkjhoancdbdmpcoc), [2](https://chrome.google.com/webstore/detail/modrinthify/gjjlcbppchpjacimpkjhoancdbdmpcoc), [Script](https://greasyfork.org/en/scripts/445993-modrinthify)
 * [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - Minecraft Utility Mod
 * [Minecraft Performance Flags](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks) - Java Minecraft Benchmarks
 * [No Telemetry](https://modrinth.com/mod/no-telemetry) - Disable Telemetry Data
