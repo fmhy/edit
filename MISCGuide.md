@@ -873,7 +873,7 @@
 * [Chrome-Extension](https://github.com/harshita214/Chrome-Extension) - Chrome Extensions 
 * [ChromeStats](https://chrome-stats.com/) - Compare / Analyze Chrome Extensions
 * [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Add Extensions to Ungoogled Chromium 
-* [CRX Viewer](https://github.com/Rob--W/crxviewer) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
+* [CRX Viewer](https://github.com/Rob--W/crxviewer) or [Extension Source Downloader](https://chrome.google.com/webstore/detail/extension-source-download/dlbdalfhhfecaekoakmanjflmdhmgpea) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
 * [MarvellousSuspender](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - Tab Suspender
 * [Darkness](https://darkness.app/) - Dark Mode
 * [PolyMod](https://polymod.dev/) - Site Themes / [Discord](https://discord.com/invite/pacPH8b9gx)
