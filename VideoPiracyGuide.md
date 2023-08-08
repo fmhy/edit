@@ -583,7 +583,6 @@
 * [MovieExplit](https://moviexplit.pw/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/moviexplit)
 * [SomosMovies](https://somosmovies.com/) - Movies / 1080p
 * [Best HD Movies](https://besthdmovies.hair/) - Movies / 1080p
-* [Full4Movies](https://www.full4movies.golf/) - Movies / TV / 1080p
 * [MovieSeriesTV](https://www.movieseriestv.net/) - Movies / TV / 1080p
 * [SeriesVault](https://seriesvault.tk/), [2](https://seriesvault.win/) - TV / Anime / 1080p
 * [MoviezAddiction](https://45.143.223.244/) - Movies / TV / 4K / [Telegram](https://tttttt.me/moviezaddiction4//)
