@@ -25,6 +25,7 @@
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) - Listen Online
 * [Audiobooks Lab](https://audiobooklabs.com/) - Listen Online
 * [Legamus](https://legamus.eu/blog/) - Listen Online
+* [Find Audiobook](https://findaudiobook.com/) - Listen Online
 * [Audio AZ](https://audioaz.com/) - Listen Online
 * [AudioBooksBeyond](https://odysee.com/@AudioBooksBeyond:1) - Listen Online
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - Listen Online / Select Playlists
