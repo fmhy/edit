@@ -1510,7 +1510,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[Fabric Modlist](https://github.com/weebi/fabric-modlist)**
 
-[UsefulMods](https://github.com/TheUsefulLists/UsefulMods), [CurseForge](https://www.curseforge.com/minecraft/mc-mods) / [Search](https://superstormer.github.io/cf-search/), [Planet Minecraft](https://www.planetminecraft.com/), [Modrinth](https://modrinth.com/), [MC Archive](https://mcarchive.net/), [Alternatives](https://microcontrollersdev.github.io/Alternatives/)
+[UsefulMods](https://github.com/TheUsefulLists/UsefulMods), [CurseForge](https://www.curseforge.com/minecraft/mc-mods) / [Search](https://superstormer.github.io/cf-search/), [Planet Minecraft](https://www.planetminecraft.com/), [Modrinth](https://modrinth.com/) / [Redirector](https://github.com/devBoi76/modrinthify), [MC Archive](https://mcarchive.net/), [Alternatives](https://microcontrollersdev.github.io/Alternatives/)
 
 ***
 
