@@ -540,7 +540,7 @@
 
 ## ▷ Photo Forensics
 
-* ⭐ **[Fawkes](http://sandlab.cs.uchicago.edu/fawkes/)** - Facial Cloaking
+* ⭐ **[Fawkes](http://sandlab.cs.uchicago.edu/fawkes/)** or **[Lowkey](https://lowkey.umiacs.umd.edu/)** - Facial Cloaking
 * [Photo OSINT](https://start.me/p/0PgzqO/photo-osint) - Image OSINT Resources
 * [FotoForensics](https://www.fotoforensics.com/), [Forensically](https://29a.ch/photo-forensics/) or [Ghiro](http://www.getghiro.org/) - Photo Forensics Tool
 * [GeoEstimation](https://labs.tib.eu/geoestimation) - Estimate Image Geolocation 
