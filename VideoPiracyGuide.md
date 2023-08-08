@@ -557,7 +557,6 @@
 * ⭐ **[OlaMovies](https://olamovies.space/)** - Movies / TV / 1080p
 * ⭐ **[Pahe](https://pahe.li/)** - Movies / TV / Anime / 4K / [Discord](https://discord.gg/4AvaCsd2J4) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper) / [Redirect Buttons](https://greasyfork.org/en/scripts/443277)
 * ⭐ **[PSARips](https://psa.re/)** - Movies / TV / 4K / [Scrape](https://github.com/NandiyaLive/PSALinkGrabber)
-* ⭐ **[UHDMovies](https://uhdmovies.cc/)** - Movies / 4K
 * ⭐ **[DDLBase](https://ddlbase.net/)** - Movies / TV / 4K
 * ⭐ **[Worlds Cinema](http://worldscinema.org/)** - Classic / Cult Films / 1080p
 * ⭐ **[MovieParadise](https://movieparadise.org/)** - Movies / TV / 1080p / Account Required for 1ficher links / [DM for Invite](https://www.reddit.com/message/compose?to=nbatman)
