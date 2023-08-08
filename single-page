@@ -7381,7 +7381,7 @@ Filter list for adblockers with sites from this thread.
 * ⭐ **[arch1ve](https://rentry.org/arch1ve)** or [Borrowing Picture Books](https://redd.it/fm1xpw) - Download Borrow Only Archive.org Books / [Script](https://redd.it/ofcqds)
 * ⭐ **[DownloadBookFromIPFS](https://greasyfork.org/en/scripts/428894-downloadbookfromipfs)** - Add Button to Download Books from IPFS
 * ⭐ **[EBook Converter Wiki](https://wiki.mobileread.com/wiki/E-book_conversion)**, [Ebook-Converter](https://ebook-converter.com/) or [Ebook-Online-Convert](https://ebook.online-convert.com/) - Ebook Converters
-* ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Convert Ebooks to EPUB
+* ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi Format Converter
 * [txtpaper](https://txtpaper.com/) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to Ebook Converter
 * [CrowBook](https://github.com/lise-henry/crowbook) - Markdown to EPUB Converter
 * [Libby](https://libbyapp.com/) - Library Search
@@ -7950,6 +7950,7 @@ Filter list for adblockers with sites from this thread.
 
 ## ▷ Photo Forensics
 
+* ⭐ **[Fawkes](http://sandlab.cs.uchicago.edu/fawkes/)** - Facial Cloaking
 * [Photo OSINT](https://start.me/p/0PgzqO/photo-osint) - Image OSINT Resources
 * [FotoForensics](https://www.fotoforensics.com/), [Forensically](https://29a.ch/photo-forensics/) or [Ghiro](http://www.getghiro.org/) - Photo Forensics Tool
 * [GeoEstimation](https://labs.tib.eu/geoestimation) - Estimate Image Geolocation 
@@ -7972,7 +7973,6 @@ Filter list for adblockers with sites from this thread.
 * [FaceCheck](https://facecheck.id/) - Face Recognition Search Engine
 * [FALdetector](https://github.com/peterwang512/FALdetector) - Photoshopped Face Detector
 * [Shoop](https://colab.research.google.com/drive/1AQ0XSKWjzJBhGXXJ0XrA4DckFdv6Ul5N) - Detect if Image is Photoshopped
-* [Fawkes](http://sandlab.cs.uchicago.edu/fawkes/) - Image Cloaking
 * [Redact.Photo](https://redact.photo/) - Image Redaction Tool
 * [Squoosh](https://squoosh.app/) - Image Codec Comparison
 * [jPhotoDNA](https://github.com/jankais3r/jPhotoDNA) - Image CSAM Identification Algorithm
@@ -16260,6 +16260,7 @@ Software
 * ⭐ **[Borderless](https://borderless.safetywing.com/)** - Travel Restrictions Guide
 * ⭐ **[MapChecking](https://www.mapchecking.com/)** - Crowd Size Estimation
 * ⭐ **[Gas Price Map](https://www.gasbuddy.com/gaspricemap)** - US Gas Prices
+* [Parkopedia](https://www.parkopedia.com/) - Car Parking Locations and Prices
 * [Visa Guide](https://visaguide.world/) - Worldwide Travel Visa Guides
 * [Roadside America](https://www.roadsideamerica.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
 * [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Sites
