@@ -26,6 +26,7 @@
 * [ThePornMap](https://thepornmap.com/) 
 * [PornBox](http://pornbox.org/)
 * [PrimePornList](https://www.primepornlist.com/)
+* [Best Hentai Sites](https://besthentaisites.github.io/) - Hentai Sites Index
 * [look1](https://look1.club/), [2](https://that8.xyz/), [3](https://lady3.info/) - Chinese Site Index
 * [DirtyWarez Adult](https://dirtywarez.org/cat/adult) - Alexa Adult Site Rankings
 
@@ -466,7 +467,6 @@
 * [Hentai.tv](https://hentai.tv/) - Hentai Streaming
 * [HentaiFox.tv](https://hentaifox.tv/) - Hentai Streaming
 * [AnimeIDHentai](https://animeidhentai.com/) - Hentai Streaming
-* [hentai.tv](https://hentai.tv/) - Hentai Streaming
 * [HentaiMama](https://hentaimama.io/) - Hentai Streaming
 * [hstream.moe](https://hstream.moe/) - Hentai Streaming / [Discord](https://discord.com/invite/yAqgVKNgG5)
 * [Hentai Moon](https://hentai-moon.com/) - Hentai Streaming
@@ -474,6 +474,7 @@
 * [HentaiSea](https://hentaisea.com/) - Hentai Streaming
 * [AniPorn](https://aniporn.com/) - Hentai Streaming
 * [MioHentai](https://miohentai.com/) - Hentai Streaming
+* [999Hentai](https://999hentai.to/) - Hentai Streaming
 * [Uncensored Hentai ](https://uncensoredhentai.xxx/) - Hentai Streaming
 * [Hentai Haven](https://hentaihaven.xxx/) - Hentai Streaming
 * [HentaiFreak](https://hentaifreak.org/) - Hentai Streaming
@@ -487,7 +488,7 @@
 * [HentaiPRN](https://hentaiprn.com/) - Hentai Streaming
 * [XAnimePorn](https://www.xanimeporn.com/) - Hentai Streaming
 * [HentaiTube.online](https://www.hentaitube.online/)
-* [MuchoHentai](https://muchohentai.com/?ref=porndude) - Hentai Streaming
+* [MuchoHentai](https://muchohentai.com/) - Hentai Streaming
 * [HentaiCloud](https://www.hentaicloud.com/) - Hentai Streaming
 * [HentaisTube](https://www.hentais.tube/) - Hentai Streaming
 * [Watch Hentai](https://watchhentai.net/) - Hentai Streaming
@@ -514,7 +515,7 @@
 * ⭐ **[Koushoku](https://ksk.moe/)** - Fakku/Irodori Rips
 * ⭐ **[Hitomi](https://hitomi.la/)** - Hentai Manga
 * ⭐ **[IMHentai](https://imhentai.xxx/)** - Hentai Manga / Comics / [Discord](https://discord.com/invite/GRTKFhavEG)
-* ⭐ **[NHentai](https://nhentai.net/)** - Hentai Manga / [Android Client](https://github.com/Dar9586/NClientV2) / [Downloader](https://github.com/RicterZ/nhentai)
+* ⭐ **[NHentai](https://nhentai.net/)** - Hentai Manga / [Android Client](https://github.com/Dar9586/NClientV2), [2](https://ttdyce.com/apps/nhviewer/) / [Downloader](https://github.com/RicterZ/nhentai)
 * ⭐ **[Multporn](https://multporn.net/)** - Hentai Manga / Comics
 * ⭐ **[AllPornComic](https://allporncomic.com/)** - Comics
 * ⭐ **[Toonily](https://toonily.me/)** - Pornhwa
@@ -528,6 +529,7 @@
 * [Pururin](https://pururin.to/) - Hentai Manga / [Discord](https://discord.com/invite/PtrzM4aVFv)
 * [Luscious](https://www.luscious.net/) - Hentai Manga / Comics
 * [Simply Hentai](https://www.simply-hentai.com/web) - Hentai Manga
+* [9Hentai](https://9hentai.to/) - Hentai Manga
 * [AsmHentai](https://asmhentai.com/) - Hentai Manga
 * [8Muses](https://8muses.io/) - Hentai Manga / Comics
 * [HentaiEnvy](https://hentaienvy.com/) - Hentai Manga / Comics
@@ -561,6 +563,7 @@
 * [Porn Comics](https://porncomics.to/) - Comics
 * [BondageComixxx](https://bondagecomixxx.net/) - Comics
 * [Xcomics](https://xcomics.se/) - Comics
+* [Porn Comics](https://porncomics.to/) - Comics
 * [ILikeComix](https://ilikecomix.com/all-porncomic-com/) - Comics
 * [XYZ Porn Comics](https://xyzcomics.com/) - Comics
 * [manhwas.men](https://manhwas.men/) - Pornhwa / [Discord](https://discord.com/invite/7t4DfpG)
@@ -583,6 +586,7 @@
 * [TMOHentai](https://tmohentai.com/) - Spanish Hentai Manga
 * [Manhwas](https://www.manhwas.net/) - Spanish Pornhwa
 * [tumanhwas](https://tumanhwas.club/) - Spanish Pornhwa
+* [Mihentai](https://mihentai.com/) - Indo Hentai Manga
 * [TachiyomiSY](https://tachiyomi.org/forks/TachiyomiSY/) - Android Hentai
 * [Violet](https://github.com/project-violet/violet) - Android Hentai/ [Discord](https://discord.com/invite/fqrtRxC)
 * [Hentoid](https://github.com/avluis/Hentoid) - Android Hentai / [Discord](https://discord.com/invite/QEZ3qk9)
