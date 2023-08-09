@@ -1159,7 +1159,7 @@
 * ⭐ **[DeviantArt](https://www.deviantart.com/)** or [ArtStation](https://www.artstation.com/) / [Downloader](https://github.com/findix/ArtStationDownloader) - User-Made Art
 * ⭐ **[Live Webcams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_live_webcams)** - Watch Live Webcams
 * [SfwChan](http://boards.swfchan.net/) - SFW Archive
-* [wtf.rentry](https://wtf.rentry.co/) or [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
+* [z0r](https://z0r.de/) - Random Music GIFs / Some NSFW
 * [DreamWidth](https://www.dreamwidth.org/) - User-Made Images & Stories
 * [World Dream Bank](http://www.worlddreambank.org/) - Dream Images & Stories
 * [stringers.live](https://stringers.live/) - Live Freelance Journalist Streams
