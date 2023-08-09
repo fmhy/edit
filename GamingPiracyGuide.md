@@ -1155,6 +1155,7 @@
 * [Tracker.gg](https://tracker.gg/) - Game Leaderboards / Stats
 * [TrueGameData](https://truegamedata.com/) - COD Leaderboards
 * [Warzone Loadout](https://warzoneloadout.games/) - Warzone Loadouts and Builds
+* [Karl.gg](https://karl.gg/) - Deep Rock Galactic Loadouts and Builds
 * [DMZ Calculator](https://sebranly.github.io/dmz/) - DMZ Currency to Cooldown Converter
 * [u.gg](https://u.gg/), [MobaFire](https://www.mobafire.com/), [ProBuilds](https://www.probuilds.net/) or [LoLalytics](https://lolalytics.com/) - League of Legends Build Guides & Tiers
 * [Zar](https://zar.gg) - LoL In-Game Coaching Overlay
