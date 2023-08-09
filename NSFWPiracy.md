@@ -345,7 +345,8 @@
 * [xBunker](https://xbunker.nu/)
 * [jdc](https://discord.gg/jdc) - Asian Porn Discord
 * [SEGNECK](https://discord.gg/jP5BHAUbeu) - Asian Porn Discord
-* [Lion's Hub](https://discord.gg/4CHxqPWyWn) 
+* [Lion's Hub](https://discord.gg/4CHxqPWyWn)
+* [CuteFunny.art](https://cutefunny.art/)
   
 ***
 
