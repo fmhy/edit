@@ -519,7 +519,7 @@
 * ⭐ **[Multporn](https://multporn.net/)** - Hentai Manga / Comics
 * ⭐ **[AllPornComic](https://allporncomic.com/)** - Comics
 * ⭐ **[Toonily](https://toonily.me/)** - Pornhwa
-* ⭐ **[Manhwa18](https://manhwa18.com/)** - Pornhwa
+* ⭐ **[Manhwa18](https://manhwa18.com/)** / [2](https://manhwa18.com/) / [3](https://pornwa.club/) - Pornhwa
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Manga Torrents
 * ⭐ **[Anime-Sharing](https://www.anime-sharing.com/forum/#downloads-requests)** - Hentai Manga DDL
 * ⭐ **[Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)** or **[Hakuneko](https://hakuneko.download/)** - Multi-Site Downloaders
@@ -566,14 +566,17 @@
 * [Porn Comics](https://porncomics.to/) - Comics
 * [ILikeComix](https://ilikecomix.com/all-porncomic-com/) - Comics
 * [XYZ Porn Comics](https://xyzcomics.com/) - Comics
+* [Manhwa18.cc](https://manhwa18.cc/)
 * [manhwas.men](https://manhwas.men/) - Pornhwa / [Discord](https://discord.com/invite/7t4DfpG)
 * [Manytoon](https://manytoon.com/) - Pornhwa
 * [Mangadass](https://mangadass.com/) - Pornhwa
 * [ManhwaHentai.me](https://manhwahentai.me/) - Pornhwa
 * [MangaHentai](https://mangahentai.me/) - Pornhwa
+* [Hentaidexy](https://hentaidexy.net/) - Pornhwa
 * [Hentaiwebtoon](https://hentaiwebtoon.com/) - Pornhwa
 * [MangaGenki](https://mangagenki.com/) - Pornhwa
 * [OmegaScans](https://omegascans.org/) - Pornhwa / [Discord](https://discord.com/invite/BrkUm8jeng)
+* [manhwahentai.to](https://manhwahentai.to/) - Pornhwa
 * [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46)
 * [shikotch](https://shikotch.net/)
 * [Hentai IMG](https://hentai-img.com/)
