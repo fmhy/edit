@@ -1148,6 +1148,7 @@
 * [Talk-Bot](http://www.frontiernet.net/~wcowart/aachatbot.html) - Chat with Robot
 * [Madam Zena](http://www.madamzena.com/) - Chat with Fortune Teller
 * [Magic Crystal Ball](https://www.oproot.com/ball/) - Get Messages from Beyond
+* [SilverLadder](http://www.silverladder.com/) - Weird Rabbit hole site
 
 ***
 
