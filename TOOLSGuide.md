@@ -215,7 +215,7 @@
 * [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - Create Parallel Text Web
 * [TextRepeater](https://textrepeater.com/) - Repeat Text
 * [Count Duplicates](https://www.somacon.com/p568.php), [DuplicateWord](https://duplicateword.com/) or [MyNikko](http://www.mynikko.com/tools/tool_duplicateremover.html) - Count / Remove Duplicates in a List
-* [TextCompare](https://www.textcompare.org/) or [DiffNow](https://www.diffnow.com/) - Compare Text
+* [TextCompare](https://www.textcompare.org/), [Text-Compare](https://text-compare.com/) or [DiffNow](https://www.diffnow.com/) - Compare Text
 * [Count Wordsworth](https://countwordsworth.com/) - Count Words in a List
 * [OfficeDocs](https://www.offidocs.com/) - Runs Desktop / Mobile Apps Online
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
