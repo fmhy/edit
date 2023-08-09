@@ -346,7 +346,7 @@
 * [jdc](https://discord.gg/jdc) - Asian Porn Discord
 * [SEGNECK](https://discord.gg/jP5BHAUbeu) - Asian Porn Discord
 * [Lion's Hub](https://discord.gg/4CHxqPWyWn)
-* [CuteFunny.art](https://cutefunny.art/) - Hentai Descord-like community
+* [CuteFunny.art](https://cutefunny.art/) - Pixiv Matrix community
   
 ***
 
