@@ -346,7 +346,7 @@
 * [jdc](https://discord.gg/jdc) - Asian Porn Discord
 * [SEGNECK](https://discord.gg/jP5BHAUbeu) - Asian Porn Discord
 * [Lion's Hub](https://discord.gg/4CHxqPWyWn)
-* [CuteFunny.art](https://cutefunny.art/)
+* [CuteFunny.art](https://cutefunny.art/) - Hentai Descord-like community
   
 ***
 
@@ -506,7 +506,6 @@
 * [HentaiLA](https://www3.hentaila.com/) - Spanish
 * [Fapservice](https://fapservice.com/) - Compilation of echhi anime scenes / [Discord](https://discord.com/invite/sTaEawE)
 * [/cumg/](https://rentry.co/coom) - Hentai Resources
-
 ***
 
 ## ▷ Hentai Manga / Comics
@@ -651,6 +650,7 @@
 * [mcb3id.onion](http://ik4kzum3ocg6dhx4jhzteko4jzijmxnwsbkcqenf33as3i74i3mcb3id.onion/) 
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - Booru Clients / [Telegram](https://t.me/Flexbooru/161)
 * * [Rule 34 App](https://r34.app/) - PWA Booru Client
+* [Pixiv navirank](https://pixiv.navirank.com/) - Contains Pixiv artwork archive/backups
 
 ***
 
