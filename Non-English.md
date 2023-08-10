@@ -676,32 +676,31 @@
 * ⭐ **[BanglaPlex](https://banglaplex.fun/)** - Movies / [Telegram](https://t.me/banglaplex)
 * ⭐ **[Einthusan](https://einthusan.tv/)** - Movies / Music
 * [uWatchFree](https://uwatchfree.be/) - Movies / TV
-* [khatrimazafull](https://khatrimazaful.wiki/) - Movies
-* [9xmovies](https://9xmovies.expert/) - Movies
-* [5movierulz](https://5movierulz.cc/) - Movies
+* [khatrimazafull](https://khatrimazaful.ink/) - Movies
+* [9xmovies](https://9xmovies.charity/) - Movies
+* [5movierulz](https://ww4.5movierulz.ac/) - Movies
 * [IndianCine](https://indiancine.ma/) - 62k Indian Films / Short Films
 * [mxplayer](https://www.mxplayer.in) - Movies
 * [Bolly2Tolly](https://www.bolly2tolly.net/), [2](https://www.bolly2tolly.com/) - Movies
 * [HHDMovies](https://hhdmovies.mom/) - Movies / TV
-* [OKJatt](https://okjatt.boats/) - Movies / TV
-* [9kmovies](https://9kmovies.expert/) - Movies
+* [OKJatt](https://okjatt.bond/) - Movies / TV
+* [9kmovies](https://9kmovies.center/) - Movies
 * [Online Movies Hindi](https://111.90.159.132/) - Movies
 * [HindiLover](https://namasteserials.com/) - TV
-* [Cloudy](https://cloudy.pk/category/english/) - Movies / TV
+* [Cloudy](https://cloudy.pk/) - Movies / TV / [Telegram](https://t.me/cloudy_pk)
 * [MirrorBD](https://mirrorbd.one/) - Movies / [Telegram](https://t.me/mirrorbd_req)
 * [playdesi](https://playdesi.net/) - Movies / TV
 * [MovieHDPlus](https://www.moviehdplus.com/) -  Movies / TV
 * [Desi Serials](https://www.desi-serials.cc/) - Movies / TV / Live
-* [HindiLinks4u](https://hindilinks4u.date/) - Movies / TV
+* [HindiLinks4u](https://hindilinks4u.monster/) - Movies / TV
 * [HindiMoviesTV](https://www.hindimoviestv.com/) - Movies
 * [HindiPix](https://hindipix.com/) - Movies / TV
 * [TamilCrow](https://www.1tamilcrow.net/) - Movies / TV
-* [TamilYogi](https://tamilyogi.how/) - Movies
+* [TamilYogi](https://tamilyogi.band/) - Movies
 * [SunTamil5](https://www.suntamil5.net/) - TV
 * [cinemakick](https://www.cinemakick.com/) - Movies
-* [movieapne](https://movieapne.co) - Movies
 * [TamilRockerMovies](https://www.tamilrockermovies.cf/) - Movies
-* [MoviesCounter](https://moviescounter.loan/) - Movies
+* [MoviesCounter](https://moviescounter.singles/) - Movies
 * [HindiMovie](https://m.vk.com/hindimovie) - Movies
 * [Movi](https://www.movi.pk/) - Movies
 * [serialbaba](https://serialbaba.co/) - TV
@@ -709,8 +708,8 @@
 * [Bollyfunserial](https://freewatchserialonline.com/) - TV
 * [PakBcn](http://www.pakbcn.one/) - TV / Live
 * [JioTV](https://github.com/avipatilpro/JioTV) - Live TV Streaming Script
-* [Dead Toons India](https://www.deadtoons.co/) - Cartoons / Anime
-* [ToonWorld4All](https://toonworld4all.me/) - Cartoons / Anime
+* [Dead Toons India](https://www.deadtoons.to/) - Cartoons / Anime / [Discord](https://discord.com/invite/gTvBpWfbDH) / [Telegram](https://telegram.me/deadtoonsdti)
+* [ToonWorld4All](https://toonworld4all.me/) - Cartoons / Anime / [Discord](https://discord.com/invite/qp8RD4JEpf) / [Telegram](https://t.me/+GoVKCk6B6t84MmY1)
 * [Anime World India](https://anime-world.in/) - Cartoons / Anime / [Discord](https://discord.com/invite/c3ete48q8H)
 * [PepCoding](https://www.pepcoding.com/resources/) - C++ / Java Programming Courses
 * [DesiRulez](https://desirulez.co/) - Video / Audio
