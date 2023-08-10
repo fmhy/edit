@@ -10,3 +10,11 @@ html.dark ul.flex-col > li > a > svg {
 :not(html.dark) ul.flex-col > li > a > svg  {
   color: rgb(47 51 72/var(--tw-text-opacity));
 }
+
+/* Hide filter from sidebar */
+div.left-0:nth-child(2) {
+  display: none;
+}
+aside ul:nth-child(3) {
+  margin-top: 1em;
+}
