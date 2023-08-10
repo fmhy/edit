@@ -1725,7 +1725,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### OS Emulators
 
-* ⭐ **[Computers Offline](https://dinopirate06.wixsite.com/dynopirate)** or [Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops) - OS Emulator Indexes
+* ⭐ **[Computers Offline](https://dinopirate.dinopirate.repl.co/ComputersOffline/)** or [Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops) - OS Emulator Indexes
 * [Qemu](https://gitlab.com/qemu-project/) - OS Emulator & Virtualization / [iOS Emulator](https://github.com/TrungNguyen1909/qemu-t8030)
 * [copy.sh](https://copy.sh/v86/), [OnWorks](https://www.onworks.net/), [simone.computer](https://simone.computer/#/webdesktops), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows//) or [Virtual Desktop](http://www.virtualdesktop.org/) - Multiple OS Emulators
 * [WinXP.now](https://winxp.vercel.app/), [Windows XP Netify](https://windows-xp.netlify.app/) or [WinXP](https://winxp.vercel.app/) - Windows XP Browser Emulators
