@@ -6026,7 +6026,7 @@ Filter list for adblockers with sites from this thread.
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN 
 * ⭐ **[Softether](https://www.softether.org/)** - Free VPN / [VPN Gate](https://www.vpngate.net/en/download.aspx) / [Note](https://pastebin.com/TrSw7EpF)
 * ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Manager](https://github.com/perara/wg-manager) / [WebUI](https://hub.docker.com/r/weejewel/wg-easy)
-* ⭐ **[Warp](https://1.1.1.1/)** - Traffic Encryption VPN
+* ⭐ **[Warp](https://1.1.1.1/)**, [2](https://1.0.0.1/) - Traffic Encryption VPN
 * ⭐ **Warp Tools** - [Unlimited Data](https://github.com/nxvvvv/warp-plus) / [Script](https://github.com/fscarmen/warp) / [Warp Warning](https://rentry.co/warpwarning)
 * [VPNSecure](https://www.vpnsecure.me/) - [Pricing](https://ibb.co/c2BdyG1)
 * [Mullvad](https://mullvad.net/) - [Pricing](https://i.ibb.co/sHB33GJ/daf48a5ee585.png) / [NetNS](https://github.com/chutz/mullvad-netns) / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
@@ -16528,7 +16528,7 @@ Software
 * [Mitaka](https://github.com/ninoseki/mitaka) - Domain Info Lookup Tool
 * [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete), [Consentomatic](https://consentomatic.au.dk/) or [I Don't Care About Cookies](https://github.com/Darthagnon/idontcareaboutcookies-backup) (Pre-Avast) - Auto Delete Cookies
 * [Cookie Quick Manager](https://github.com/ysard/cookie-quick-manager), [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - Cookies Manager
-* [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporter
+* [Get-cookies.txt](https://github.com/kairi003/Get-cookies.txt-LOCALLY) or [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporter
 * [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - Follow RSS Feeds
 * [Google Unblocked](https://github.com/Ibit-to/google-unlocked) - Uncensored Google Search
 * [Google search link fix](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_search_link_fix) - Prevent Search Pages from Modifying Result Links 
@@ -16567,7 +16567,7 @@ Software
 * [Broken Link Checker](https://add0n.com/broken-link-checker.html) - Checks Page for Broken Links 
 * [ViewImage](https://github.com/bijij/ViewImage) or [Make GIS Great Again](https://github.com/devunt/make-gis-great-again) - Adds Back "View Image" Button to Google Image Search 
 * [Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search) - Reverse Image Search Extensions / Sites
-* [GoFullPage](https://gofullpage.com/) or [FireShot](https://addons.mozilla.org/en-GB/firefox/addon/fireshot/) - Full Page Screenshots
+* [GoFullPage](https://gofullpage.com/), [Easy Screenshot](https://webextension.org/listing/screenshot.html) or [FireShot](https://addons.mozilla.org/en-GB/firefox/addon/fireshot/) - Full Page Screenshots
 * [NooBox](https://github.com/AInoob/NooBox) - Reverse Image Search, Extract Images, Screenshot & Search 
 * [Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders) - Record your Screen
 * [Booru Slideshow](https://github.com/Chirmaya/BooruSlideshow) - Make Slideshows Easier to Navigate
@@ -19461,7 +19461,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)**
 * ⭐ **[Upscale Wiki](https://upscale.wiki/wiki/Main_Page)** - Image Upscaling Wiki
 
-[Waifu2x](https://github.com/nagadomi/waifu2x), [Upscayl](https://github.com/upscayl/upscayl), [GigaPixel](https://github.com/nbats/FMHYedit/blob/main/base64.md#gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [Upscaler Stockphotos](https://upscaler.stockphotos.com/), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/), [Upscale Media](https://www.upscale.media/), [Zyro Upscaler](https://zyro.com/tools/image-upscaler), [Nicescaler](https://jangystudio.itch.io/nicescaler), [DFDNet](https://github.com/csxmli2016/DFDNet), [Nero AI](https://ai.nero.com/image-upscaler), [SDUpscale](https://rentry.org/sdupscale), [JPEG Quantsmooth](https://github.com/ilyakurdyukov/jpeg-quantsmooth), [imgupscaler](https://imgupscaler.com/), [torch-srgan](https://deepai.org/machine-learning-model/torch-srgan), [ultimate-upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111), [multidiffusion-upscaler](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
+[Waifu2x](https://github.com/nagadomi/waifu2x), [Upscayl](https://github.com/upscayl/upscayl), [GigaPixel](https://github.com/nbats/FMHYedit/blob/main/base64.md#gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [Upscaler Stockphotos](https://upscaler.stockphotos.com/), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/), [Upscale Media](https://www.upscale.media/), [Zyro Upscaler](https://zyro.com/tools/image-upscaler), [Nicescaler](https://github.com/Djdefrag/NiceScaler), [DFDNet](https://github.com/csxmli2016/DFDNet), [Nero AI](https://ai.nero.com/image-upscaler), [SDUpscale](https://rentry.org/sdupscale), [JPEG Quantsmooth](https://github.com/ilyakurdyukov/jpeg-quantsmooth), [imgupscaler](https://imgupscaler.com/), [torch-srgan](https://deepai.org/machine-learning-model/torch-srgan), [ultimate-upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111), [multidiffusion-upscaler](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
 
 **Waifu2x Tools**
 
