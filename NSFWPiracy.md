@@ -158,6 +158,7 @@
 * [XoZilla](https://www.xozilla.com/)
 * [PornWex](https://www.pornwex.tv/)
 * [ThePornFull](https://thepornfull.com/)
+* [HClips](https://hclips.com/), [WatchMyGF](https://www.watchmygf.me/)
 * [JustIncestPorn](https://justincestporn.com/), [Family Porn](https://familyporn.tv/), [FamilyPornHD](https://familypornhd.com/), [TabooDaddy](https://taboodaddy.com/), [TabooTube](https://www.tabootube.xxx/), [MotherSonTube](https://mothersontube.com/), [Whose UR Daddy](https://whoseurdaddy.net/), [TabooPorn](https://www.tabooporn.tv/) - Incest Porn
 * [MilfNut](https://milfnut.com/) - MILF Porn
 * [TeenagePornX](https://teenagepornx.com/) - Teenage (18+) Porn
@@ -234,11 +235,12 @@
 
 ## ▷ Live Cams
 
-* ⭐ **[Chaturbate](https://chaturbate.com/)** / [Improve Functionality](https://openuserjs.org/scripts/stixmaster/Chaturbate_Enhanced), [2](https://openuserjs.org/scripts/ladroop/Chaturbate_Clean)
+* ⭐ **[Chaturbate](https://chaturbate.com/)** / [Improve Functionality](https://openuserjs.org/scripts/stixmaster/Chaturbate_Enhanced), [2](https://openuserjs.org/scripts/ladroop/Chaturbate_Clean) / [Archives](https://recurbate.com/), [2](https://chaturflix.cam/)
 * ⭐ **[JerkMate](https://www.jerkmatelive.org/)**
 * ⭐ **[CamSoda](https://www.camsoda.com/)**
+* ⭐ **[Stripchat](https://stripchat.com/)**
+* ⭐ **[Archivebate](https://archivebate.com/)** - Cam Video Archives
 * [Cam4](https://www.cam4.com/)
-* [Stripchat](https://stripchat.com/)
 * [Cherry.tv](https://cherry.tv/)
 * [PDCams](https://pdcams.com/)
 * [XLoveCam](https://www.xlovecam.com/en/)
@@ -393,6 +395,7 @@
 * [NSFW Monster](https://nsfwmonster.com/) - NSFW GIFs
 * [PornAMinute](https://porninaminute.org/) - NSFW GIFs
 * [HotScope](https://hotscope.tv/) - Snapchat / OnlyFans NSFW
+* [EroMe](https://www.erome.com/explore) - Amateur NSFW
 * [r/snapleaks](https://www.reddit.com/r/snapleaks/), [r/NSFW_Snapchat](https://www.reddit.com/r/NSFW_Snapchat/) or [r/DirtySnapchat](https://www.reddit.com/r/DirtySnapchat/) - NSFW Snapchat Subreddits
 * [Fapeza](https://fapeza.com/) - Instagram Models
 * [MrCong](https://mrcong.com/), [babes.gallery](https://babes.gallery/), [sxypix](https://sxypix.com/), [traht](https://traht.org/), [Babepedia](https://www.babepedia.com/), [realbooru](https://realbooru.com/), [girlsreleased](https://girlsreleased.com/) or [TNApics](https://www.tnapics.com/) - Images
