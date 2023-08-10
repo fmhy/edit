@@ -670,7 +670,6 @@
 ## ▷ Torrenting
 
 * ⭐ **[TamilBlasters](https://tamilblasters.world/)** - Movies / [Proxy](https://tamilblasters.unblockit.click/)
-* ⭐ **[TamilMV](https://www.1tamilmv.news/)** - Movies
 
 ## ▷ Streaming
 
