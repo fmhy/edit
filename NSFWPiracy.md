@@ -153,6 +153,8 @@
 * [XoZilla](https://www.xozilla.com/)
 * [PornWex](https://www.pornwex.tv/)
 * [ThePornFull](https://thepornfull.com/)
+* [JustIncestPorn](https://justincestporn.com/), [Family Porn](https://familyporn.tv/), [FamilyPornHD](https://familypornhd.com/), [TabooDaddy](https://taboodaddy.com/), [TabooTube](https://www.tabootube.xxx/), [MotherSonTube](https://mothersontube.com/), [Whose UR Daddy](https://whoseurdaddy.net/), [TabooPorn](https://www.tabooporn.tv/) - Incest Porn
+* [MilfNut](https://milfnut.com/) - MILF Porn
 * [SheFreaky](https://www.shesfreaky.com/) - Black Women Porn
 * [IcePornCasting](https://iceporncasting.net/) - Casting Couch Porn
 * [Porn App](https://porn-app.com/) - Android Porn App / [Discord](https://discord.com/invite/XRjPBGa)
@@ -462,6 +464,8 @@
 * ⭐ **[Anime-Sharing](https://www.anime-sharing.com/forum/#downloads-requests)** - Hentai DDL
 * ⭐ **[Hanime.tv](https://hanime.tv/)** - Hentai Streaming
 * ⭐ **[HentaiWorld](https://hentaiworld.tv/)** - Hentai Streaming / [Discord](https://discord.com/invite/uyHFDgcUJR)
+* ⭐ **[PorCore](https://porcore.com/)** - 3D Porn
+* ⭐ **[Porn3DX](https://porn3dx.com/)** - 3D Porn
 * ⭐ **[NSFW Rule 34](https://nsfwr34.com/)** - Western Hentai Streaming
 * [Ohentai](https://ohentai.org/) - Hentai Streaming / [Discord](https://discord.com/invite/UD3fFTj)
 * [Hentai.tv](https://hentai.tv/) - Hentai Streaming
@@ -499,10 +503,12 @@
 * [FapForFun](https://fapforfun.net/) - Hentai Torrents / [Discord](https://discord.com/invite/vJvN87tt)
 * [Rule34Video](https://rule34video.com/) - 3D Porn
 * [Rule34Porn](https://rule34porn.net/) - 3D Porn
+* [XAnimu](https://xanimu.com/) - 3D Porn
 * [ZZCartoon](https://www.zzcartoon.com/) - 3D Porn
 * [3D Sex Anime](https://www.3dsexanime.xyz/) - 3D Porn
 * [Naughty Machinima](https://www.naughtymachinima.com/) - 3D Porn
 * [Studio Flow](https://studiofow.com/movies/) - 3D Porn / [Discord](https://discord.com/invite/zUgDe3B)
+* [SFM Compile](https://sfmcompile.club/) - 3D Porn
 * [HentaiLA](https://www3.hentaila.com/) - Spanish
 * [Fapservice](https://fapservice.com/) - Compilation of echhi anime scenes / [Discord](https://discord.com/invite/sTaEawE)
 * [/cumg/](https://rentry.co/coom) - Hentai Resources
@@ -519,7 +525,7 @@
 * ⭐ **[Multporn](https://multporn.net/)** - Hentai Manga / Comics
 * ⭐ **[AllPornComic](https://allporncomic.com/)** - Comics
 * ⭐ **[Toonily](https://toonily.me/)** - Pornhwa
-* ⭐ **[Manhwa18](https://manhwa18.com/)** / [2](https://manhwa18.com/) / [3](https://pornwa.club/) - Pornhwa
+* ⭐ **[Manhwa18](https://manhwa18.net/)** / [2](https://manhwa18.com/) / [3](https://pornwa.club/) - Pornhwa
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Manga Torrents
 * ⭐ **[Anime-Sharing](https://www.anime-sharing.com/forum/#downloads-requests)** - Hentai Manga DDL
 * ⭐ **[Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)** or **[Hakuneko](https://hakuneko.download/)** - Multi-Site Downloaders
@@ -623,7 +629,7 @@
 
 ## ▷ Illustrations
 
-* ⭐ **[Pixiv](https://www.pixiv.net/en/)**
+* ⭐ **[Pixiv](https://www.pixiv.net/en/)** / [Rankings](https://pixiv.navirank.com/)
 * ⭐ **[Danbooru](https://danbooru.donmai.us/)**
 * ⭐ **[Rule 34](https://rule34.xxx/)**
 * ⭐ **[Rule34.dev](https://rule34.dev/)** - Multi-Booru Aggregator
