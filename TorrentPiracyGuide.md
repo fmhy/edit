@@ -145,7 +145,7 @@
 * [0Mag](https://www.0mag.net/), [2](https://9mag.net/), [3](https://3mag.net/)
 * [TorrentDownloads](https://www.torrentdownloads.pro/)
 * [concen](https://www.concen.org/torrents)
-* [BTSearch](https://www.btsearch.ml/)
+* [BTSearch](https://www.btsearch.love/)
 * [EXT Torrents](https://extranet.torrentbay.to/)
 * [SolidTorrents](https://solidtorrents.to/) - [/r/SolidTorrents](https://reddit.com/r/SolidTorrents)
 * [TorrentSeeker](https://torrentseeker.com)
