@@ -39,6 +39,7 @@
 * ⭐ **[xvideos](https://www.xvideos.com/)**
 * ⭐ **[xhamster](https://xhamster.com/)**
 * ⭐ **[Pornhub](https://www.pornhub.com/)** / [Add Features](https://sleazyfork.org/en/scripts/380711)
+* ⭐ **[Perverzila](https://tube.perverzija.com/)** - Full Length Videos / [Discord](https://tube.perverzija.com/)
 * ⭐ **[WhereIsMyPorn](https://whereismyporn.com/)** - Full Length Videos
 * ⭐ **[bellesa](https://www.bellesa.co/)** - Porn Videos for women
 * [PornFeat](https://www.pornfeat.com/)
@@ -50,6 +51,7 @@
 * [EPorner](https://www.eporner.com/)
 * [Daftsex](https://daft.sex/)
 * [HQPorner](https://hqporner.com/)
+* [ThePornArea](https://thepornarea.com/)
 * [Fullporner](https://fullporner.com/)
 * [DrTuber](https://www.drtuber.desi/)
 * [Pornhits](https://www.pornhits.com/main/)
@@ -66,6 +68,8 @@
 * [XXX Yespornplease XXX](https://yespornpleasexxx.com/)
 * [Hitprn](https://www.hitprn.com/)
 * [xmoviesforyou](https://xmoviesforyou.com/)
+* [Porn4Days](https://porn4days.red/)
+* [PornHD3x](https://www.pornhd3x.tv/)
 * [vxxx](https://vxxx.com/)
 * [veporn](https://veporn.com/)
 * [Americass](https://americass.net/)
@@ -149,12 +153,14 @@
 * [LatestPorn](https://latestporn.co/)
 * [MegaTube](https://www.megatube.xxx/)
 * [Siska](https://siska.video/)
+* [GalaxyPorn](https://galaxyporn.net/)
 * [EmpFlix](https://www.empflix.com/)
 * [XoZilla](https://www.xozilla.com/)
 * [PornWex](https://www.pornwex.tv/)
 * [ThePornFull](https://thepornfull.com/)
 * [JustIncestPorn](https://justincestporn.com/), [Family Porn](https://familyporn.tv/), [FamilyPornHD](https://familypornhd.com/), [TabooDaddy](https://taboodaddy.com/), [TabooTube](https://www.tabootube.xxx/), [MotherSonTube](https://mothersontube.com/), [Whose UR Daddy](https://whoseurdaddy.net/), [TabooPorn](https://www.tabooporn.tv/) - Incest Porn
 * [MilfNut](https://milfnut.com/) - MILF Porn
+* [TeenagePornX](https://teenagepornx.com/) - Teenage (18+) Porn
 * [SheFreaky](https://www.shesfreaky.com/) - Black Women Porn
 * [IcePornCasting](https://iceporncasting.net/) - Casting Couch Porn
 * [Porn App](https://porn-app.com/) - Android Porn App / [Discord](https://discord.com/invite/XRjPBGa)
@@ -317,7 +323,8 @@
 * [Search4Porn](https://search4porn.net/) - NSFW File Search
 * [PornFactors](http://pornfactors.com/) 
 * [Best-MovieZ](https://www.best-moviez.ws/category/porn-18/) 
-* [HugeWarez](http://hugewarez.net/xxx-full-movies/) 
+* [HugeWarez](http://hugewarez.net/xxx-full-movies/)
+* [CumSwallowingMovies](https://cumswallowingmovies.co/)
 * [PornFile](https://pornfile.cz/) 
 * [0xxx](https://0xxx.ws/) 
 * [Kimochi](https://kimochi.tv/) 
@@ -371,6 +378,10 @@
 
 # ► Images / Reels
 
+* ⭐ **[NSFWMonster](https://nsfwmonster.com/)** - NSFW Images / GIFs
+* [GifHQ](https://gifhq.com/) - NSFW Images / GIFs
+* [GifSauce](https://gifsauce.com/) - NSFW Images / GIFs
+* [HardGIF](https://hardgif.com/) - NSFW GIFs
 * [xfree](https://www.xfree.com/) - NSFW Reels
 * [fap.bar](https://fap.bar/) - NSFW Reels
 * [FIQFUQ](https://fiqfuq.com/) - Random NSFW Reddit GIFs
