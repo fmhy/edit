@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/wrnkqmR)** - For mobile users
+**[Table of Contents](https://ibb.co/sRDrnjz)** - For mobile users
 
 ***
 ***
@@ -539,7 +539,7 @@
 
 ***
 
-# ► Mac Adblock / Privacy
+## ▷ Adblock / Privacy
 
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
 * ⭐ **[System Wide Adblocking](https://champagne.pages.dev/before-you-begin/important-tools/)** / [2](https://redd.it/oyfmr1) - System Wide Adblocking Guides
