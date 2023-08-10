@@ -4,12 +4,46 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/sRDrnjz)** - For mobile users
+**[Table of Contents](https://ibb.co/tmmBpQ2)** - For mobile users
 
 ***
 ***
 
 # ► Linux Tools
+
+## ▷ Adblock / Privacy
+
+* ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** - DPI circumvention
+* ⭐ **[Librewolf Linux](https://librewolf.net/)**/ [2](https://aur.archlinux.org/packages/firedragon) / [3](https://forum.garudalinux.org/t/firedragon-librewolf-fork/5018) or [Dot Browser](https://github.com/dothq/browser) - Privacy-Based Browser
+* ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)**, [spotify-adblock](https://github.com/abba23/spotify-adblock) or [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)  - Spotify Adblockers
+* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) or [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) - Linux Privacy Guide
+* [SShuttle](https://github.com/sshuttle/sshuttle) - Proxy
+* [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
+* [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
+* [Twilio Authy](https://snapcraft.io/authy) - Linux Two-Factor Authentication
+* [Lockigest](https://github.com/elmsec/lockigest) - Screen Locker
+* [Mistborn](https://gitlab.com/cyber5k/mistborn) - Manage Cloud Security Apps
+* [OpenSnitch](https://github.com/evilsocket/opensnitch) or [gufw](https://github.com/costales/gufw) - Linux Firewalls
+* [Tracee](https://github.com/aquasecurity/tracee) - Runtime Security and Forensics
+* [Mofolinux](https://mofolinux.com/), [Tails](https://tails.boum.org/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - Privacy-Based Linux Operating System
+* [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - VPN Tunnel
+* [Openconnect VPN Server](http://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
+* [zapret](https://github.com/bol-van/zapret) - DPI Circumvention Tool
+* [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
+* [ShuffleStacks](https://shufflecake.net/) - Create Hidden Volumes
+* [Tomb](https://dyne.org/software/tomb//) - File Encryption
+* [Collision](https://flathub.org/apps/details/dev.geopjr.Collision) - Check File Hashes
+* [WhoAmI Project](https://github.com/owerdogan/whoami-project) - Privacy / Anonymity Tool
+* [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS Partition
+* [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Secure Linux Server Guide
+* [BhanUpratpys](https://github.com/bhanupratapys/dnswarden) - DNS Adblocking
+* [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Arch Linux base with Deluge, Privoxy & OpenVPN
+* [Anon-SMS](https://github.com/HACK3RY2J/Anon-SMS) - Send Anonymous SMS Messages
+* [Firejail](https://firejail.wordpress.com/) - Security Sandbox
+* [Bubblewrap](https://github.com/containers/bubblewrap) -  Unprivileged Sandboxing Tool
+* [GoogleTeller](https://github.com/berthubert/googerteller) - Google Tracking Notifications
+
+***
 
 ## ▷ Linux System
 
@@ -74,7 +108,7 @@
 * ⭐ **[List of Backup Software](https://github.com/restic/others)** - Linux Backup Solutions
 * ⭐ **[WineHQ](https://appdb.winehq.org/)** - Wine Compatibility Database
 * ⭐ **[Q4Wine](https://sourceforge.net/projects/q4wine/)** - Wine GUI
-* [winapps](https://github.com/Fmstrat/winapps), [Cassowary](https://github.com/casualsnek/cassowary), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - Run Windows Apps in Linux
+* [winapps](https://github.com/Fmstrat/winapps), [Cassowary](https://github.com/casualsnek/cassowary), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - Run Windows Apps on Linux
 * [wslu](https://github.com/wslutilities/wslu) - Utilities for Windows 10 Linux Subsystem
 * [Darling](https://www.darlinghq.org/) - Run MacOS Apps on Linux
 * [FlameGApps](https://github.com/flamegapps/flamegapps) - Google Apps Installer
@@ -265,40 +299,6 @@
 * [Neo Matrix Git](https://aur.archlinux.org/packages/neo-matrix-git/) - Simulate Matrix Digital Rain
 * [Terminal Locomotive Train](https://pastebin.com/ayrFjrh6) - Train Terminal Easter Egg
 * [ASCIIQuarium](https://robobunny.com/projects/asciiquarium/html/) - Fish in Terminal
-
-***
-
-## ▷ Adblock / Privacy
-
-* ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** - DPI circumvention
-* ⭐ **[Librewolf Linux](https://librewolf.net/)**/ [2](https://aur.archlinux.org/packages/firedragon) / [3](https://forum.garudalinux.org/t/firedragon-librewolf-fork/5018) or [Dot Browser](https://github.com/dothq/browser) - Privacy-Based Browser
-* ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)**, [spotify-adblock](https://github.com/abba23/spotify-adblock) or [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)  - Spotify Adblockers
-* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) or [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) - Linux Privacy Guide
-* [SShuttle](https://github.com/sshuttle/sshuttle) - Proxy
-* [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
-* [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
-* [Twilio Authy](https://snapcraft.io/authy) - Linux Two-Factor Authentication
-* [Lockigest](https://github.com/elmsec/lockigest) - Screen Locker
-* [Mistborn](https://gitlab.com/cyber5k/mistborn) - Manage Cloud Security Apps
-* [OpenSnitch](https://github.com/evilsocket/opensnitch) or [gufw](https://github.com/costales/gufw) - Linux Firewalls
-* [Tracee](https://github.com/aquasecurity/tracee) - Runtime Security and Forensics
-* [Mofolinux](https://mofolinux.com/), [Tails](https://tails.boum.org/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - Privacy-Based Linux Operating System
-* [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - VPN Tunnel
-* [Openconnect VPN Server](http://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
-* [zapret](https://github.com/bol-van/zapret) - DPI Circumvention Tool
-* [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
-* [ShuffleStacks](https://shufflecake.net/) - Create Hidden Volumes
-* [Tomb](https://dyne.org/software/tomb//) - File Encryption
-* [Collision](https://flathub.org/apps/details/dev.geopjr.Collision) - Check File Hashes
-* [WhoAmI Project](https://github.com/owerdogan/whoami-project) - Privacy / Anonymity Tool
-* [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS Partition
-* [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Secure Linux Server Guide
-* [BhanUpratpys](https://github.com/bhanupratapys/dnswarden) - DNS Adblocking
-* [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Arch Linux base with Deluge, Privoxy & OpenVPN
-* [Anon-SMS](https://github.com/HACK3RY2J/Anon-SMS) - Send Anonymous SMS Messages
-* [Firejail](https://firejail.wordpress.com/) - Security Sandbox
-* [Bubblewrap](https://github.com/containers/bubblewrap) -  Unprivileged Sandboxing Tool
-* [GoogleTeller](https://github.com/berthubert/googerteller) - Google Tracking Notifications
 
 ***
 
