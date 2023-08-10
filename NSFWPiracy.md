@@ -315,7 +315,6 @@
 * [ChinaBabe](https://ww2.chinababe.net/) - Chinese
 * [91Porn](https://91porn.com/index.php) - Amateur Chinese
 * [sjhs301](https://sjhs301.github.io/) - Chinese
-* [SexKbj](https://sexkbj.com/) - Korean Camgirls
 * [pinayflix](https://pinayflix.tv/) - Filipino
 * [aagmaals](https://aagmaals.net/) - Indian
 * [sexfullmovies](https://www.sexfullmovies.com/) - Indian
@@ -734,6 +733,9 @@
 * [Yupdates](https://yupdates.neocities.org/) - Gay Porn Artwork / [Drives](https://cat.yupdates.art/) / [Discord](https://discord.com/invite/ECFKuBawQg)
 * [PBC](https://pbc.xxx/) - Gay Porn Encyclopedia
 * [BLCollection](https://blcollection.co/) - Boys Love Manga
+* [ShemaleVids.org](https://shemalevids.org/) - Trans Streaming
+* [Shemale777.org](https://shemale777.com/) - Trans Streaming
+* [TransPorn](https://transporn.cc/) - Trans DDL
 
 ***
 
