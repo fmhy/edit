@@ -676,7 +676,7 @@
 * [Permanent Booru](http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)
 * [mcb3id.onion](http://ik4kzum3ocg6dhx4jhzteko4jzijmxnwsbkcqenf33as3i74i3mcb3id.onion/) 
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - Booru Clients / [Telegram](https://t.me/Flexbooru/161)
-* * [Rule 34 App](https://r34.app/) - PWA Booru Client
+* [Rule 34 App](https://r34.app/) - PWA Booru Client
 
 ***
 
@@ -703,7 +703,6 @@
 * [Pornderful](https://pornderful.ai/)
 * [PornAI.tv](https://pornai.tv/)
 * [r/AIpornhub](https://www.reddit.com/r/AIpornhub/) - NSFW AI Subreddit
-
 
 ***
 
