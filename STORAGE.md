@@ -14,9 +14,9 @@
 * ⭐ **[Blender](https://www.blender.org/)**
 * ⭐ **Blender Tools** - [Resources](https://github.com/agmmnn/awesome-blender) / [Tutorials](https://www.3dbestie.com/) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [Plugins](https://t.me/blenderplugs) / [AI Render](https://github.com/benrugg/AI-Render)
 
-[Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketchMe](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [ChokokuCAD](https://github.com/itta611/ChokokuCAD), [POV-Ray](http://www.povray.org/), [FreeCAD](https://www.freecad.org/), [picoCAD](https://johanpeitz.itch.io/picocad), [Vectary](https://www.vectary.com/), [LibreCAD](https://librecad.org/), [Art of Illusion](https://aoi.sourceforge.net/), [BRL-CAD](https://brlcad.org/), [Posturize](https://get.posturize-app.com/), [Morflax](https://studio.morflax.com/)
+[Spline](https://spline.design/), [Anim8or](https://www.anim8or.com/), [Wings 3D](http://www.wings3d.com/), [JustSketchMe](https://justsketch.me/), [Tinkercad](https://www.tinkercad.com/), [ChokokuCAD](https://github.com/itta611/ChokokuCAD), [POV-Ray](http://www.povray.org/), [FreeCAD](https://www.freecad.org/), [picoCAD](https://johanpeitz.itch.io/picocad), [Vectary](https://www.vectary.com/), [LibreCAD](https://librecad.org/), [Art of Illusion](https://aoi.sourceforge.net/), [BRL-CAD](https://brlcad.org/), [Posturize](https://get.posturize-app.com/), [Morflax](https://studio.morflax.com/),
 [Daz Studio Free Edition](https://www.daz3d.com/)
-[Daz_Pirate](https://dinopirate.dinopirate.repl.co/DazPirate/) - Cracked Daz Studio Pro with pirated assets
+* [Daz_Pirate](https://dinopirate.dinopirate.repl.co/DazPirate/) - Cracked Daz Studio Pro with pirated assets
 
 ***
 
