@@ -1868,7 +1868,7 @@ Twitch Stream Tracker
 * [Deskreen](https://deskreen.com/) or [SpaceDesk](https://www.spacedesk.net/) - Use Mobile Device as Monitor / [GitHub](https://github.com/pavlobu/deskreen)
 * [NVDA](https://www.nvaccess.org/download/) - Screen Reader for Blind Users / [Github](https://github.com/nvaccess/nvda)
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
-* [PC Manger](https://pcmanager-en.microsoft.com/), [Parted Magic](https://github.com/nbats/FMHYedit/blob/main/base64.md#parted-magic) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Manager / Cleanup
+* [PC Manger](https://pcmanager-en.microsoft.com/) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Manager / Cleanup
 * [Scrutiny](https://github.com/AnalogJ/scrutiny), [GSmartControl](https://gsmartcontrol.shaduri.dev/) or [smartmontools](https://www.smartmontools.org/) - Hard Drive Monitors
 * [GoldMemory](https://www.goldmemory.cz/) or [Testmem5](https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/) - Memory Benchmarking
 * [MemTest](https://www.memtest.org/) - Memory Diagnostic Tool
