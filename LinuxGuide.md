@@ -13,7 +13,7 @@
 
 ## ▷ Adblock / Privacy
 
-* ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** - DPI circumvention
+* ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** or [zapret](https://github.com/bol-van/zapret) - DPI circumvention
 * ⭐ **[Librewolf Linux](https://librewolf.net/)**/ [2](https://aur.archlinux.org/packages/firedragon) / [3](https://forum.garudalinux.org/t/firedragon-librewolf-fork/5018) or [Dot Browser](https://github.com/dothq/browser) - Privacy-Based Browser
 * ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)**, [spotify-adblock](https://github.com/abba23/spotify-adblock) or [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)  - Spotify Adblockers
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) or [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) - Linux Privacy Guide
@@ -28,7 +28,6 @@
 * [Mofolinux](https://mofolinux.com/), [Tails](https://tails.boum.org/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - Privacy-Based Linux Operating System
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - VPN Tunnel
 * [Openconnect VPN Server](http://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
-* [zapret](https://github.com/bol-van/zapret) - DPI Circumvention Tool
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
 * [ShuffleStacks](https://shufflecake.net/) - Create Hidden Volumes
 * [Tomb](https://dyne.org/software/tomb//) - File Encryption
