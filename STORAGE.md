@@ -2793,7 +2793,6 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/English_Hindi_Novels_Magazine
 * https://t.me/BooksThief
 * https://t.me/booksmania
-* https://t.me/ebooksdlbot
 * https://t.me/libsan_bot
 * https://t.me/joinchat/RGzvjJF-0op3SRR1 
 * https://t.me/yourlibraries
