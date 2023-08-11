@@ -30,7 +30,6 @@
 * [RoboMind](https://www.robomind.net/) or [Checki0](https://checkio.org/) - Code Learning Games
 * [mimo](https://mimo.org/) - Coding Tutorial App
 * [SO Documentation](https://sodocumentation.net/) - Programming Documentation / Tutorials
-* [Code With Mosh Courses](https://github.com/nbats/FMHYedit/blob/main/base64.md#code-with-mosh-courses)
 * [Awesome Learn To Code](https://github.com/mike-north/awesome-learn-to-code) or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - Programming / Coding Learning Resources
 * [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources) - Programming Courses
 * [Learn to Program](https://github.com/karlhorky/learn-to-program) - Programming Courses
