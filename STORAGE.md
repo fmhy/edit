@@ -2792,9 +2792,7 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/free_ebooks_pdfs
 * https://t.me/English_Hindi_Novels_Magazine
 * https://t.me/BooksThief
-* https://t.me/iBooks_Bot
 * https://t.me/booksmania
-* https://t.me/bookdownbot
 * https://t.me/ebooksdlbot
 * https://t.me/libsan_bot
 * https://t.me/joinchat/RGzvjJF-0op3SRR1 
@@ -2804,7 +2802,6 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/Dao_Qigong_Taiji_TCM_ebooks
 * https://t.me/lib_of_dos_old_vk
 * https://t.me/LibrariesofTelegram
-* https://t.me/libraryofdos
 * [More Telegram eBook Channels](https://duckduckgo.com/?q=site%3At.me+books&ia=web)
 
 ***
