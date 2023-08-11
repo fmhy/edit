@@ -158,11 +158,12 @@
 * [XoZilla](https://www.xozilla.com/)
 * [PornWex](https://www.pornwex.tv/)
 * [ThePornFull](https://thepornfull.com/)
-* [HClips](https://hclips.com/), [WatchMyGF](https://www.watchmygf.me/)
+* [Adultism](https://www.adultism.com/), [YourAmateurPorn](https://www.youramateurporn.com/), [Terk](https://www.terk.nl/), [Hobby Porn](https://hobby.porn/), [RealGFporn](https://www.realgfporn.com/), [HClips](https://hclips.com/), [MyLust](https://mylust.com/), [RulePorn](https://ruleporn.com/) or [WatchMyGF](https://www.watchmygf.me/) - Amateur Porn
 * [JustIncestPorn](https://justincestporn.com/), [Family Porn](https://familyporn.tv/), [FamilyPornHD](https://familypornhd.com/), [TabooDaddy](https://taboodaddy.com/), [TabooTube](https://www.tabootube.xxx/), [MotherSonTube](https://mothersontube.com/), [Whose UR Daddy](https://whoseurdaddy.net/), [TabooPorn](https://www.tabooporn.tv/) - Incest Porn
 * [MilfNut](https://milfnut.com/) - MILF Porn
 * [TeenagePornX](https://teenagepornx.com/) - Teenage (18+) Porn
 * [SheFreaky](https://www.shesfreaky.com/) - Black Women Porn
+* [XXBrits](https://www.xxbrits.com/) - British Porn
 * [IcePornCasting](https://iceporncasting.net/) - Casting Couch Porn
 * [Porn App](https://porn-app.com/) - Android Porn App / [Discord](https://discord.com/invite/XRjPBGa)
 * [NsfwBox](https://github.com/Kisspeace/NsfwBox) - Android Porn App
@@ -239,7 +240,7 @@
 * ⭐ **[JerkMate](https://www.jerkmatelive.org/)**
 * ⭐ **[CamSoda](https://www.camsoda.com/)**
 * ⭐ **[Stripchat](https://stripchat.com/)**
-* ⭐ **[Archivebate](https://archivebate.com/)** - Cam Video Archives
+* ⭐ **[Archivebate](https://archivebate.com/)**, **[CamCaps](https://camcaps.ac/)**, **[Peachurbate](https://peachurbate.com/en)**, [OnCam](https://oncam.me/), [Cam Show Download](https://camshowdownload.com/), [Curbate](https://curbate.tv/) or [CamSmut](https://camsmut.com/) - Cam Video Archives
 * [Cam4](https://www.cam4.com/)
 * [Cherry.tv](https://cherry.tv/)
 * [PDCams](https://pdcams.com/)
@@ -261,6 +262,8 @@
 * [SakuraLive](https://www.sakuralive.com/index.shtml) - Asian
 * [LiveSexAsian](https://www.livesexasian.com/) - Asian
 * [AsianBabeCams](https://www.asianbabecams.com/) - Asian
+* [CamBro](https://www.cambro.tv/), [OnScreens](https://camcaps.ac/) or [WebcamRips](https://webcamrips.to/) - Cam Videos
+* [TubeAsianCams](https://tubeasiancams.com/), [KoreanBJ](https://koreanbj.club/) or [SKBJ](https://skbj.tv/) - Asian Cam Archives
 
 ***
 
@@ -307,11 +310,11 @@
 * [365next2](https://www.365next2.com/) - Asian
 * [JavRank](https://javrank.com/) - Asian
 * [FunLove](https://funlove.info/) - Asian
+* [Watch Free JAV](https://s2.watchfreejavonline.co/) - Asian
 * [HereXXX](https://herexxx.com/) - Asian
 * [ChinaBabe](https://ww2.chinababe.net/) - Chinese
 * [91Porn](https://91porn.com/index.php) - Amateur Chinese
 * [sjhs301](https://sjhs301.github.io/) - Chinese
-* [SexKbj](https://sexkbj.com/) - Korean Camgirls
 * [pinayflix](https://pinayflix.tv/) - Filipino
 * [aagmaals](https://aagmaals.net/) - Indian
 * [sexfullmovies](https://www.sexfullmovies.com/) - Indian
@@ -410,11 +413,12 @@
 * ⭐ **[Fapello](https://fapello.com/)** - OnlyFans / Patreon
 * ⭐ **[Hotleak](https://hotleak.vip/)** - OnlyFans / Patreon
 * ⭐ **[kemono.party](https://kemono.su/)** - Patreon
+* ⭐ **[SimpCity](https://simpcity.su/)** - OnlyFans / Patreon
 * [MissingToofff](https://missingtoofff.com/) - OnlyFans Leak Site List
-* [SimpCity](https://simpcity.su/) - OnlyFans / Patreon
 * [ProThots](https://prothots.com/) - OnlyFans / Patreon
 * [InternetChicks](https://internetchicks.com/) - OnlyFans / Patreon
 * [Coomer.Party](https://coomer.party/artists) - OnlyFans
+* [ViralPorn](https://viralpornhub.com/) - OnlyFans
 * [InfluencersGoneWild](https://influencersgonewild.com/) - OnlyFans / Patreon
 * [DirtyShip](https://dirtyship.com/) - OnlyFans / Patreon
 * [PornTN](https://porntn.com/) - OnlyFans / Patreon
@@ -676,7 +680,33 @@
 * [Permanent Booru](http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)
 * [mcb3id.onion](http://ik4kzum3ocg6dhx4jhzteko4jzijmxnwsbkcqenf33as3i74i3mcb3id.onion/) 
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - Booru Clients / [Telegram](https://t.me/Flexbooru/161)
-* * [Rule 34 App](https://r34.app/) - PWA Booru Client
+* [Rule 34 App](https://r34.app/) - PWA Booru Client
+
+***
+
+## ▷ AI Generated
+
+* [eHentai.ai](https://ehentai.ai/) / [Discord](https://ehentai.ai/)
+* [Made.Porn](https://made.porn/) / [Discord](https://discord.com/invite/TE5eUxU2mz)
+* [Dopamine Girl](https://dopaminegirl.com/)
+* [PromptChan](https://promptchan.ai/)
+* [Pornstars.ai](https://www.pornstars.ai/)
+* [Nonolo.ai](https://no.nolo.ai/)
+* [DreamGF](https://dreamgf.ai/)
+* [AIPorn](https://www.aiporn.net/)
+* [pornpen.ai](https://pornpen.ai/feed)
+* [Pornshow](https://app.pornshow.ai/)
+* [OnlyFakes](https://onlyfakes.app/feed)
+* [Pornify](https://pornify.cc/)
+* [Deepfake.com](https://www.deepfake.com/guests/)
+* [AIHentai.co](https://aihentai.co/)
+* [PornSword.io](https://pornsword.io/)
+* [TryNectar](https://trynectar.ai/)
+* [Spicy Porn](https://spicy.porn/)
+* [Seduced.ai](https://www.seduced.ai/)
+* [Pornderful](https://pornderful.ai/)
+* [PornAI.tv](https://pornai.tv/)
+* [r/AIpornhub](https://www.reddit.com/r/AIpornhub/) - NSFW AI Subreddit
 
 ***
 
@@ -703,6 +733,9 @@
 * [Yupdates](https://yupdates.neocities.org/) - Gay Porn Artwork / [Drives](https://cat.yupdates.art/) / [Discord](https://discord.com/invite/ECFKuBawQg)
 * [PBC](https://pbc.xxx/) - Gay Porn Encyclopedia
 * [BLCollection](https://blcollection.co/) - Boys Love Manga
+* [ShemaleVids.org](https://shemalevids.org/) - Trans Streaming
+* [Shemale777.org](https://shemale777.com/) - Trans Streaming
+* [TransPorn](https://transporn.cc/) - Trans DDL
 
 ***
 
