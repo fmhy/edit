@@ -13,7 +13,7 @@
 
 ## ▷ Adblock / Privacy
 
-* ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)** or **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** or [zapret](https://github.com/bol-van/zapret) - DPI circumvention
+* ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)**, [zapret](https://github.com/bol-van/zapret) or **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** - DPI circumvention
 * ⭐ **[Librewolf Linux](https://librewolf.net/)**/ [2](https://aur.archlinux.org/packages/firedragon) / [3](https://forum.garudalinux.org/t/firedragon-librewolf-fork/5018) or [Dot Browser](https://github.com/dothq/browser) - Privacy-Based Browser
 * ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)**, [spotify-adblock](https://github.com/abba23/spotify-adblock) or [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)  - Spotify Adblockers
 * [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) or [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) - Linux Privacy Guide
@@ -49,6 +49,7 @@
 * ⭐ **[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_distros)** - Download Linux Distros
 * ⭐ **[Linux.Chat](https://discord.gg/linuxchat)**, [Linux x Technology](https://linuxdiscord.com/), [Ezlinux](https://ezlinux.net/) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discussion / Forums
 * ⭐ **[Archwiki](https://wiki.archlinux.org/)** - Arch Linux Wiki / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
+* ⭐ **[Ventoy](https://github.com/ventoy/Ventoy)** - Create Bootable USB Linux Drives
 * ⭐ **[Bpytop](https://github.com/aristocratos/bpytop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [vtop](https://github.com/MrRio/vtop), [neofetch](https://github.com/dylanaraps/neofetch) / [Themes](https://github.com/chick2d/neofetch-themes), [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [Stacer](https://github.com/oguzhaninan/Stacer) - System Info / Resource Monitors
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
@@ -60,9 +61,7 @@
 * [die.net](https://linux.die.net/) - Linux Documentation
 * [HowtoForge](https://www.howtoforge.com/), [Sindresorhus Guides](https://github.com/sindresorhus/guides), [Erik Dubois](https://www.youtube.com/c/ErikDubois), [LinuxJourney](https://linuxjourney.com/), [Mayfrost Guides](https://github.com/mayfrost/guides) or [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA) - Linux Guides / Tutorials
 * [Linux Filesystem Chart](https://i.ibb.co/ChF9HMH/02e105ba72c1.png) - File System Guide
-* [Asus-Linux](https://asus-linux.org/) - Linux ASUS Notebook Guide
 * [howtodebuntu](https://github.com/themagicalmammal/howtolinux) - Tweaks for Debian Based Distros
-* [MultiBoot USB](https://github.com/hackerncoder/multibootusb) - Create Bootable USB Linux Drives
 * [WoeUSB](https://github.com/WoeUSB/WoeUSB) or [Windows2USB](https://github.com/ValdikSS/windows2usb) - Create Bootable USB Windows Drives
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) - Windows, Mac & Linux Bootloader / [Config](https://mackie100projects.altervista.org/)
 * [Linux Heads](https://osresearch.net/) - Minimal CoreBoot / [GitHub](https://github.com/osresearch/heads)
@@ -70,14 +69,9 @@
 * [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - Arch Linux Installer
 * [Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome) - GNOME Distro Resources
 * [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
+* [ChromeOS Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chromeos_tools) - Chrome OS / Chromebook Tools
 * [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - One-Click Remote Desktop
 * [InstantBox](https://github.com/instantbox/instantbox) - Temporary Linux Systems
-* [Brunch](https://github.com/sebanc/brunch) or [Chromefy](https://github.com/imperador/chromefy) - ChromeOS Installer
-* [MrChromeBox](https://mrchromebox.tech/), [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/) / [Guide](https://support.google.com/chromeosflex/answer/11552529?hl=en), [FydeOS](https://fydeos.io/download) or [WayneOS](https://wayne-os.com/) - ChromeOS Based OS
-* [Chromebrew](https://github.com/chromebrew/chromebrew) - Package Manager for ChromeOS
-* [Chrome100](https://chrome100.dev/) - ChromeOS Recovery Images
-* [Sh1mmer](https://sh1mmer.me/) - Unenroll Enterprise-Managed Chromebooks
-* [Crouton](https://github.com/dnschneid/crouton) - Chromebook Linux OS
 * [CoreELEC](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) - Kodi-Based Operating System
 * [WSL](https://learn.microsoft.com/en-us/windows/wsl/) or [Tunic](https://github.com/mikeslattery/tunic) - Run Linux on Windows / [Resources](https://github.com/sirredbeard/Awesome-WSL) / [Startup Launcher](https://github.com/nullpo-head/wsl-distrod) / [Wayland / X Server](https://github.com/microsoft/wslg)
 * [DistroSea](https://distrosea.com/) or [JSLinux](https://bellard.org/jslinux/) - Linux Browser Emulators
@@ -96,7 +90,6 @@
 * [coreboot](https://coreboot.org/) or [Libreboot](https://libreboot.org/) - Replace Proprietary BIOS/UEFI Firmware 
 * [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
 * [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux Open GPU Kernel Module
-* [ckb-next](https://github.com/ckb-next/ckb-next) - Corsair RGB Driver for Linux
 * [nosystemd](https://nosystemd.org/) - Reasons Why Systemd is Disliked
 
 ***
