@@ -825,12 +825,6 @@ pass: paluch
 
 ***
 
-#### Code With Mosh Courses
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci85WmNraUxMSiNqSDNDY3NnSjFxNVN0c1BDMjl6UC1R`
-
-***
-
 #### Canva Premium 
 
 `aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1DYW52YSsmc3I9dG9waWNzJnNmPXRpdGxlb25seQ==`
