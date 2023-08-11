@@ -153,8 +153,8 @@
 
 #### Anime Download Apps
 
-* ⭐ **[HakuNeko](https://hakuneko.download/), [Github](https://github.com/manga-download/hakuneko)**
-* [Anime-dl](https://github.com/gabelluardo/anime-dl), [Github](https://github.com/vrienstudios/anime-dl)
+* ⭐ **[HakuNeko](https://hakuneko.download/) - [Github](https://github.com/manga-download/hakuneko)**
+* [Anime-dl](https://github.com/gabelluardo/anime-dl) - [Github](https://github.com/vrienstudios/anime-dl)
 
 [adl](https://github.com/RaitaroH/adl), [anigrab](https://github.com/ngomile/anigrab), [animdl](https://github.com/justfoolingaround/animdl)
 
