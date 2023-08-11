@@ -2797,7 +2797,7 @@ Add the following commands to a search to manually scrape each site.
 * https://t.me/bookdownbot
 * https://t.me/ebooksdlbot
 * https://t.me/libsan_bot
-* https://t.me/alejandriak
+* https://t.me/joinchat/RGzvjJF-0op3SRR1 
 * https://t.me/yourlibraries
 * https://t.me/TheEbookStop
 * https://t.me/bookhome3
