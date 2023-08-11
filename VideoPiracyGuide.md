@@ -344,7 +344,6 @@
 
 * ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcofun.com/), [3](https://www.wcostream.org/) - Anime / Cartoons / [Downloader](https://github.com/NobilityDeviant/Wcofun.com_Downloader)
 * ⭐ **[KimCartoon](https://kimcartoon.li/)**
-* ⭐ **[KissCartoon](https://kisscartoon.help/)**
 * [TopCartoons](https://www.topcartoons.tv/)
 * [KissCartoon.info](https://kisscartoon.info/) - Anime / Cartoons
 * [Kimcartoon.si](https://kimcartoon.si/) - Anime / Cartoons
@@ -665,7 +664,6 @@
 * ⭐ **[AnimeOut](https://www.animeout.xyz/)** - Sub / [Discord](https://discord.com/invite/yDURwdC)
 * ⭐ **[Judas Discord](https://discord.gg/vbJ7RTn)** - Sub / Dub / [TeamDrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#judas-teamdrive)
 * ⭐ **[Erai-Raws](https://www.erai-raws.info/)** - Sub / [Discord](https://discord.gg/tEeaXzD4KH)
-* ⭐ **[AniDL](https://anidl.org/)** - Sub / Dub
 * ⭐ **[hi10anime](https://hi10anime.com/)** - Sub / [Discord](https://discord.com/invite/pWNeJfxa)
 * ⭐ **[Anime Senpai4U](https://www.animesenpai4u.com/)** - Sub / Dub
 * ⭐ **[Kayoanime](https://kayoanime.com/)** - Sub / Dub / [Telegram](https://t.me/AnimeKayo)
