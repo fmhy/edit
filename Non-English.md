@@ -35,10 +35,8 @@
 * [Cima4U](https://fc22.cimaa4u.net/) - Movies / TV / [Telegram](https://t.me/cima4u10) / Changes Domains Monthly
 * [w.arlionz](https://arlionztv.click/) - Movies / TV
 * [aflaam](https://aflaam.com/) - Movies / TV
-* [cinemana](https://cinemana.co/main/) - Movies / TV
 * [LODYNET](https://lodynet.link/) - Movies / TV
 * [Fushaar](https://www.fushaar.com/), [2](https://fushaar.info/) - Movies / TV
-* [CimaNow](https://cimanow.cc/) - Movies / TV
 * [egydead](https://a23.egydead.live/) - Movies / TV / Anime
 * [akwam](https://ak.sv/) - Movies / TV
 * [ShahidToday](https://ww.shahid2day.com/) - Movies / TV
@@ -57,19 +55,14 @@
 * [AnimeTak](https://animetak.org/) - Anime
 * [shahiid](https://shahiid-anime.net/) - Anime
 * [witanime](https://witanime.org/) - Anime
-* [animestarz](https://www.animestarz.com/) - Anime
-* [egyanime](https://www.egyanime.com/) - Anime
 * [animeblkom](https://animeblkom.net/) - Anime
 * [xsAnime](https://v.xsanime.com/) - Anime
 * [arabseed](https://xn--fhd75-tkh.arabseed.ws/) - Anime
 * [animetitans](https://animetitans.com/) - Anime
 * [gatecima](https://gatecima.com/) - Anime
-* [animelek](https://animelek.me/) - Anime
 * [anime4up](https://anime4up.site/) - Anime
 * [animerco](https://animerco.com/) - Anime
 * [Arabsama](https://arabsama.net/) - Anime
-* [Okanime](https://tv.okanime.cc/) - Anime
-* [Animeyat](https://www.animeiat.tv/) - Anime
 * [fomny](https://fomny.info/) - Live TV
 * [qayadat](https://play.qayadat.org/channels) - Live TV
 * [elahmad](http://www.elahmad.com/tv/arabic-channel.php) - Live TV
@@ -89,7 +82,6 @@
 * [Abjjad](https://www.abjjad.com/) - Books
 * [manganoon](https://oxapk.com/) - Manga / [Discord](https://discord.com/invite/Wcc69EyMs2)
 * [3asq](https://3asq.org/) - Manga / [Discord](https://discord.com/invite/3asqmanga-tm-485359530482335765)
-* [Team-X](https://team1x1.fun/) - Manga
 * [GManga](https://gmanga.me/) - Manga
 * [galaxymanga](https://galaxymanga.org/) - Manga
 * [hijala](https://hijala.blogspot.com/) - Manga / [Discord](https://discord.com/invite/sGTBCDeE2J)
