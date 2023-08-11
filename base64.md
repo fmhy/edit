@@ -963,12 +963,6 @@ pass: paluch
 
 ***
 
-#### booksdl
-
-`aHR0cDovL2Jvb2tzZGwub3JnL2NvbWljczAv`
-
-***
-
 #### Cold Turkey Premium 
 
 `aHR0cHM6Ly9wYXN0ZWJpbi5jb20vaGltQkVBeHM=`
@@ -993,12 +987,6 @@ pass: paluch
 
 ***
 
-#### Scrivener
-
-`aHR0cHM6Ly93d3cuZHJvcGJveC5jb20vcy9ibnN5c2p1YnN5cTQ1dWQvU2NyaXZlbmVyLTEuOS4wLjFiZXRhLXg4Nl82NF9sYW5ndWFnZV9wYWNrLkFwcEltYWdlLnRhci5neg==`
-
-***
-
 #### Free Courses By Xemu
 
 `aHR0cHM6Ly9yZW50cnkub3JnL0ZyZWVDb3Vyc2VzQnlYZW0g`
@@ -1020,18 +1008,6 @@ pass: paluch
 #### OpenDirectory
 
 `aHR0cHM6Ly93d3cub3BlbmRpci5jbG91ZC8=`
-
-***
-
-#### Goindex
-
-`aHR0cHM6Ly9saXRlcmF0dXJlLnRkLWluZGV4LndvcmtlcnMuZGV2LzA6L01hbmdhLw==`
-
-***
-
-#### VSTs & Packs
-
-`aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvMXhnajUtVzJmMEVTc1NhWUxQclQ1ZGZiTVFjSk05TlpFYkFHSXZzelRiVHMv`
 
 ***
 
@@ -1149,22 +1125,9 @@ pass: paluch
 
 ***
 
-#### Shiba
-
-`aHR0cHM6Ly9zaGliYXVwbG9hZHMueHl6Lw==`
-
-***
-
 #### Win 10 ROG
 
 `aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9d2luZG93cysxMCtyb2c=`
-
-***
-
-#### papaonwork
-
-
-`aHR0cHM6Ly9tLnBhcGFvbndvcmsud29ya2Vycy5kZXYvMDov`
 
 ***
 
