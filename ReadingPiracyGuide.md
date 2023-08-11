@@ -814,7 +814,6 @@
 * [BookGN](http://www.bookgn.com/) - Downloads
 * [NewComic](https://www.newcomic.info/) - Downloads
 * [4chan /co/](https://boards.4channel.org/co/catalog#s=official%20win) - Weekly Downloads
-* [BookDL Comic & Manga](https://github.com/nbats/FMHYedit/blob/main/base64.md#booksdl) - Comics / Manga / Drive
 * [readcomicsfree](https://readcomicsfree.net/)
 * [Comic Castle](https://comicastle.org/)
 * [WallComic](https://wallcomic.com/)
@@ -865,8 +864,6 @@
 * [Great Discord Links](https://discord.gg/xAsyVb52a9) or [Mangadex Groups](https://mangadex.org/groups) - Manga Scanlation Groups
 * [Madokami Manga Archive](https://github.com/nbats/FMHYedit/blob/main/base64.md#madokami)
 * [The Manga Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#the-manga-library)
-* [BookDL Comic & Manga](https://github.com/nbats/FMHYedit/blob/main/base64.md#booksdl)
-* [GoIndex](https://github.com/nbats/FMHYedit/blob/main/base64.md#goindex)
 * [MangaBuddy](https://mangabuddy.com)
 * [MangaHere](http://www.mangahere.cc)
 * [MangaNelo](https://m.manganelo.com/wwww), [Manganato](https://manganato.com/) or [Mangakakalot](https://mangakakalot.com/)
