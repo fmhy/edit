@@ -1866,7 +1866,6 @@ Twitch Stream Tracker
 * [CenterOfMyScreen](https://centerofmyscreen.com/) - Find Center of Monitor
 * [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - Show Desktop For Only One Monitor
 * [Deskreen](https://deskreen.com/) or [SpaceDesk](https://www.spacedesk.net/) - Use Mobile Device as Monitor / [GitHub](https://github.com/pavlobu/deskreen)
-* [Duet Display](https://github.com/fmhy/FMHYedit/blob/main/base64.md#display-duet) - Use iPad as Monitor
 * [NVDA](https://www.nvaccess.org/download/) - Screen Reader for Blind Users / [Github](https://github.com/nvaccess/nvda)
 * [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) or [CCISOBench](https://ccsiobench.com/) - Disk Benchmarking Tools
 * [PC Manger](https://pcmanager-en.microsoft.com/), [Parted Magic](https://github.com/nbats/FMHYedit/blob/main/base64.md#parted-magic) or [CleanmgrPlus](https://github.com/builtbybel/CleanmgrPlus) - Disk Manager / Cleanup
