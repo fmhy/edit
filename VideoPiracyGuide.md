@@ -662,7 +662,6 @@
 
 * ⭐ **[Tokyo Insider](https://www.tokyoinsider.com/)** - Sub / Dub
 * ⭐ **[AnimeOut](https://www.animeout.xyz/)** - Sub / [Discord](https://discord.com/invite/yDURwdC)
-* ⭐ **[Judas Discord](https://discord.gg/vbJ7RTn)** - Sub / Dub / [TeamDrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#judas-teamdrive)
 * ⭐ **[Erai-Raws](https://www.erai-raws.info/)** - Sub / [Discord](https://discord.gg/tEeaXzD4KH)
 * ⭐ **[hi10anime](https://hi10anime.com/)** - Sub / [Discord](https://discord.com/invite/pWNeJfxa)
 * ⭐ **[Anime Senpai4U](https://www.animesenpai4u.com/)** - Sub / Dub
@@ -681,11 +680,9 @@
 * [AnimeLand](https://w4.animeland.tv/) - Dub
 * [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - Sub
 * [Mix Bag of Anime](https://github.com/nbats/FMHYedit/blob/main/base64.md#mix-bag-of-anime) - Sub / Dub
-* [ANIME___](https://github.com/nbats/FMHYedit/blob/main/base64.md#anime___) - Sub
 * [Chiby](https://www.animechiby.com/) - Sub / [Discord](https://discord.com/invite/WagHbBz)
 * [Anime Flix](https://animeflix.net.in/) - Sub / Dub
 * [anime7.download](http://anime7.download/) - Sub
-* [37.187.6.206](https://github.com/nbats/FMHYedit/blob/main/base64.md#371876206) - Sub
 * [176.36.86.211](https://github.com/nbats/FMHYedit/blob/main/base64.md#1763686211) - Sub / Dub
 * [166.84.7.155](https://github.com/nbats/FMHYedit/blob/main/base64.md#166847155) - Sub / Dub
 * [ns3309227](https://github.com/nbats/FMHYedit/blob/main/base64.md#ns3309227) - Sub / Dub
