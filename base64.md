@@ -555,12 +555,6 @@ pass: paluch
 
 *** 
 
-#### Parted Magic
-
-`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9TW9ycGhWT1grUHJv`
-
-*** 
-
 #### WindowFX Premium
 
 `aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9V2luZG93Rlg=`
