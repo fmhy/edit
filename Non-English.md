@@ -17,7 +17,7 @@
 
 ## ▷ Downloading
 
-* [arabseed](https://k50.arabseed.ink/) - Movies / TV
+* [arabseed](https://xn--fhd75-tkh.arabseed.ws/) - Movies / TV
 * [arteenz](https://www.arteenz.com/) - Cartoons / Anime
 * [Shazam Music](https://t.me/shazam_music_uz) - Music / Telegram
 * [NullNoss](https://www.nullnoss.org/) - Courses
@@ -32,43 +32,41 @@
 
 * ⭐ **[FaselHD](https://www.faselhd.vip/)** - Movies / TV / Anime
 * ⭐ **[64kLive](https://64k.live/)** - Anime
-* [Cima4U](https://xn--v-hga.cimaa4u.net/) - Movies / TV / Changes Domains Monthly
-* [w.arlionz](https://arlionztv.site/) - Movies / TV / [Telegram](https://t.me/ArabLionz5)
+* [Cima4U](https://fc22.cimaa4u.net/) - Movies / TV / [Telegram](https://t.me/cima4u10) / Changes Domains Monthly
+* [w.arlionz](https://arlionztv.click/) - Movies / TV
 * [aflaam](https://aflaam.com/) - Movies / TV
 * [cinemana](https://cinemana.co/main/) - Movies / TV
 * [LODYNET](https://lodynet.link/) - Movies / TV
 * [Fushaar](https://www.fushaar.com/), [2](https://fushaar.info/) - Movies / TV
 * [CimaNow](https://cimanow.cc/) - Movies / TV
-* [egydead](https://a7.egydead.live/) - Movies / TV / Anime
-* [akwam](https://akw.to/) - Movies / TV
-* [ShahidToday](https://o.shahid2day.com/) - Movies / TV
-* [wecima](https://xn--mycima15-91a.wecima.cam/) - Movies / TV / Anime / Cartoons / Wrestling
+* [egydead](https://a23.egydead.live/) - Movies / TV / Anime
+* [akwam](https://ak.sv/) - Movies / TV
+* [ShahidToday](https://ww.shahid2day.com/) - Movies / TV
+* [wecima](https://xn--cdn5-8cgaaa.wecima.watch/) - Movies / TV / Anime / Cartoons / Wrestling
 * [Shooflive](https://r.shooflive.co/) - Movies / TV / Anime
 * [Shafilm](https://shafilm.vip/) - Movies / TV / Anime / Cartoons
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons
 * [ArabLionz](https://arablionz.watch/) - Movies / TV
-* [cima-club](https://cima-club.cam/) - TV / Anime
+* [cima-club](https://cima-club.vip/) - TV / Anime
 * [eshiq](https://e3sk.com/) - Turkish TV
 * [asia2tv](https://asia2tv.cn/) - Asian Drama
 * [animebdk](https://animebdk.blogspot.com/) - Anime
 * [jotorrent](https://www.jotorrent.com/) - Anime / Open-Signups Each Month
 * [gateanime](https://e.gateanime.com/) - Anime
 * [AnimeFlick](https://animeflick.net/) - Anime
-* [AnimeTak](https://tk.animetak.vip/) - Anime
+* [AnimeTak](https://animetak.org/) - Anime
 * [shahiid](https://shahiid-anime.net/) - Anime
-* [witanime](https://witanime.com/) - Anime
+* [witanime](https://witanime.org/) - Anime
 * [animestarz](https://www.animestarz.com/) - Anime
 * [egyanime](https://www.egyanime.com/) - Anime
 * [animeblkom](https://animeblkom.net/) - Anime
 * [xsAnime](https://v.xsanime.com/) - Anime
-* [arabseed](https://f1.arabseed.ink/) - Anime
-* [animetv](https://animetv.night-city.online/) - Anime
-* [animetitans](https://animetitans.net/) - Anime
+* [arabseed](https://xn--fhd75-tkh.arabseed.ws/) - Anime
+* [animetitans](https://animetitans.com/) - Anime
 * [gatecima](https://gatecima.com/) - Anime
 * [animelek](https://animelek.me/) - Anime
-* [anime4up](https://w1.anime4up.tv/) - Anime
+* [anime4up](https://anime4up.site/) - Anime
 * [animerco](https://animerco.com/) - Anime
-* [xsanime](https://v.xsanime.com/) - Anime
 * [Arabsama](https://arabsama.net/) - Anime
 * [Okanime](https://tv.okanime.cc/) - Anime
 * [Animeyat](https://www.animeiat.tv/) - Anime
@@ -76,7 +74,7 @@
 * [qayadat](https://play.qayadat.org/channels) - Live TV
 * [elahmad](http://www.elahmad.com/tv/arabic-channel.php) - Live TV
 * [YallAlive](https://yallalive.id/) - Live Soccer
-* [livehd7](https://livehd7.net/) - Live Soccer
+* [livehd7](https://livehd7.bio/) - Live Soccer
 * [melody4arab](https://melody4arab.com/) - Music
 * [al-fann](https://www.al-fann.net/) - Music
 * [arab-zik](https://arab-zik.com/) - Music
@@ -84,18 +82,18 @@
 ## ▷ Reading
 
 * [dopdfwn](https://www.dopdfwn.com/) - PDF Search Engine
-* [Noor Book](https://www.noor-book.com/en/)
+* [Noor Book](https://www.noor-book.com/) - Books
 * [books-library](https://books-library.website/) - Books
-* [EbookSar](https://www.ebooksar.com/) - Books
+* [EbookSar](https://www.ebooksar.com/) - Books / [Telegram](https://t.me/ebooksar)
 * [AlarabiMag](https://www.alarabimag.com/) - Books
 * [Abjjad](https://www.abjjad.com/) - Books
-* [manganoon](https://manganoon.com/) - Manga
-* [3asq](https://3asq.org/) - Manga
+* [manganoon](https://oxapk.com/) - Manga / [Discord](https://discord.com/invite/Wcc69EyMs2)
+* [3asq](https://3asq.org/) - Manga / [Discord](https://discord.com/invite/3asqmanga-tm-485359530482335765)
 * [Team-X](https://team1x1.fun/) - Manga
 * [GManga](https://gmanga.me/) - Manga
 * [galaxymanga](https://galaxymanga.org/) - Manga
-* [hijala](https://hijala.blogspot.com/) - Manga
-* [Aldiwan](https://www.aldiwan.net/) - Poems
+* [hijala](https://hijala.blogspot.com/) - Manga / [Discord](https://discord.com/invite/sGTBCDeE2J)
+* [Aldiwan](https://www.aldiwan.net/) - Poems / [Telegram](https://t.me/AldiwanNet)
 
 ***
 
@@ -108,7 +106,7 @@
 * [IQGAW](https://t.me/IQGamer_PDFStore) - PDF library for BD HSC candidates
 * [BengaliEbooks](https://www.bengaliboi.com/) - Books
 * [GoBanglaBooks](https://www.gobanglabooks.com/) - Books
-* [FussilatBD](https://www.fussilatbd.com/) - Books / Educational
+* [BanglaBookshelf](https://www.banglabookshelf.com/) - Books / Educational
 * [AmarBooks](https://www.amarbooks.org/) - Books
 * [BanglaBooks](https://banglabooks4free.blogspot.com/) - Books
 * [BengaliEbook](https://www.worldmets.com/) - Books
@@ -563,6 +561,7 @@
 
 * [adjaranet](https://www.adjaranet.com/) - Movies / TV
 * [AsianDrama](https://asiandrama.ge/) - Drama
+* [animetv](https://animetv.night-city.online/) - Anime
 
 ***
 
