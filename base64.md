@@ -62,27 +62,9 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ***
 
-#### Judas TeamDrive
-
-`aHR0cHM6Ly9ncm91cHMuZ29vZ2xlLmNvbS9kL2ZvcnVtL2p1ZGFzZGRsIApodHRwczovL3JlbnRyeS5jby9qdWRhcy1kZGw=`
-
-***
-
 #### Mix Bag of Anime
 
 `aHR0cHM6Ly9yZWRkLml0L25zYTh5Zw==`
-
-***
-
-#### ANIME___
-
-`aHR0cHM6Ly9zdG9yYWdlLmthbnpha2kucnUvQU5JTUVfX18v`
-
-***
-
-#### 37.187.6.206
-
-`aHR0cDovLzM3LjE4Ny42LjIwNi8=`
 
 ***
 
@@ -284,21 +266,9 @@ pass: paluch
 
 ***
 
-#### Audiobook Megadrive
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9oNDhIR0FiYSM5OFlPdHAzbmhnRHRLcGVTTzdQcVNRCmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvRzVNUURiNUsjbEo5RjNjbG1sUFZ0U2FhYTctNWw2Zw==`
-
-***
-
 #### just a digital library
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWlRTWRxNXlLMEVCcWExZmdrbVFUZlc3RVdTZUpXWXZU`
-
-***
-
-#### Novel Library Drive
-
-`aHR0cDovL2RsLm5vdmVsbGlicmFyeS5jb20v`
 
 ***
 
@@ -399,12 +369,6 @@ pass: paluch
 
 ***
 
-#### do_k_ument
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9RRVYwaktZWiMtQlZWU2NleTZkcmFMMzB5Ql9Lb3dB`
-
-***
-
 #### QSL
 
 `aHR0cHM6Ly93d3cucXNsLm5ldC93L3c3bGsvbWlzYyUyMHBkZiUyMGZpbGVzLw==`
@@ -414,12 +378,6 @@ pass: paluch
 #### UFO Books
 
 `aHR0cHM6Ly9maWxlcy5hZnUuc2UvRG93bmxvYWRzLwpodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZHJpdmUvZm9sZGVycy8xdmxZNTEyaXdHMHlyVEZFM0hoYV9fbGhCWnE5emF2UUU=`
-
-***
-
-#### The Trove Archives
-
-`aHR0cHM6Ly8wYmluLm5ldC9wYXN0ZS8rOXo5QXlSViNqQUJzK2JXa3o5bnpDVVRWQmx5RVVWUG9iTmZHWHQrNCtqUXJuaS1rTkF6`
 
 ***
 
@@ -513,12 +471,6 @@ pass: paluch
 
 *** 
 
-#### Xtremecloud
-
-`aHR0cHM6Ly9ncm91cHMuZ29vZ2xlLmNvbS9nL3h0cmVtZWNsb3VkLXRkZ3JvdXA=`
-
-*** 
-
 #### SmolOD
 
 `aHR0cHM6Ly9yZW50cnkuY28vc21vbE9E`
@@ -551,7 +503,7 @@ pass: paluch
 
 #### Course Megadrives
 
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9lbEVsa0tUSSNhQ1FidFRRNzl0dTV5RV9ZRkI2X3N3Cmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvcEFsMHdSS0sjRklaemJZamtUXzA5cVJUNUJTMkdYUSAKaHR0cHM6Ly9tZWdhLm56L2ZvbGRlci80dDRoaENUYSN6SWlNWkJSVkFpYkFUdEh4d1EyYl93IApodHRwczovL21lZ2EubnovZm9sZGVyL2lJc0VrYjRCIzR0ZE5IVVlUS1RKRGVJeEkyRlpFM0EgCmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvQjlCMWlJWkwjMUdZeGVWYVRqM3ByeFNSOGtEeVJ5USAKaHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9zaHB6MEFDUSN0ZHlhUWk5SGNWTS1vS0g5TnhWZXdBIApodHRwczovL21lZ2EubnovZm9sZGVyL2xtNWxnUXhUI1FoNTJZcUUwLWt3UF8tZVdvaE1CYncgCmh0dHBzOi8vbWVnYS5uei9mb2xkZXIveXU0UzNCSlEjYmh0QS1PSWVRMmJudU0yYlBjVTJ3US9mb2xkZXIvSHI0R1hUNEw=`
+`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9lbEVsa0tUSSNhQ1FidFRRNzl0dTV5RV9ZRkI2X3N3Cmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvcEFsMHdSS0sjRklaemJZamtUXzA5cVJUNUJTMkdYUSAKaHR0cHM6Ly9tZWdhLm56L2ZvbGRlci80dDRoaENUYSN6SWlNWkJSVkFpYkFUdEh4d1EyYl93IApodHRwczovL21lZ2EubnovZm9sZGVyL2lJc0VrYjRCIzR0ZE5IVVlUS1RKRGVJeEkyRlpFM0EgCmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvc2hwejBBQ1EjdGR5YVFpOUhjVk0tb0tIOU54VmV3QSAKaHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9sbTVsZ1F4VCNRaDUyWXFFMC1rd1BfLWVXb2hNQmJ3IApodHRwczovL21lZ2EubnovZm9sZGVyL3l1NFMzQkpRI2JodEEtT0llUTJibnVNMmJQY1Uyd1EvZm9sZGVyL0hyNEdYVDRM`
 
 *** 
 
@@ -684,18 +636,6 @@ pass: paluch
 #### Grammarly Keyboard Premium 
 
 `aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1ncmFtbWFybHkmc3I9dG9waWNzJnNmPXRpdGxlb25seQ==`
-
-*** 
-
-#### Boost
-
-`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1ib29zdCtmb3IrcmVkZGl0JnRlcm1zPWFsbCZhdXRob3I9JnNjPTEmc2Y9dGl0bGVvbmx5JnNyPXRvcGljcyZzaz10JnNkPWQmc3Q9MCZjaD0zMDAmdD0wJnN1Ym1pdD1TZWFyY2g=`
-
-*** 
-
-#### Joey
-
-`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1qb2V5K2ZvcityZWRkaXQmdGVybXM9YWxsJmF1dGhvcj0mc2M9MSZzZj10aXRsZW9ubHkmc3I9dG9waWNzJnNrPXQmc2Q9ZCZzdD0wJmNoPTMwMCZ0PTAmc3VibWl0PVNlYXJjaA==`
 
 *** 
 
@@ -1297,12 +1237,6 @@ pass: paluch
 #### Redtopia
 
 `aHR0cHM6Ly9naXQuZnV3YWZ1d2EubW9lL2NhaXJuL1JlZHRvcGlh`
-
-***
-
-#### Display Duet
-
-`aHR0cHM6Ly9zZWFyY2guc3RhcmZpbGVzLmNvLyMvP3E9RHVldF9EaXNwbGF5`
 
 ***
 
