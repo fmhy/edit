@@ -675,7 +675,6 @@
 
 * ⭐ **[BanglaPlex](https://banglaplex.fun/)** - Movies / [Telegram](https://t.me/banglaplex)
 * ⭐ **[Einthusan](https://einthusan.tv/)** - Movies / Music
-* [uWatchFree](https://uwatchfree.be/) - Movies / TV
 * [khatrimazafull](https://khatrimazaful.ink/) - Movies
 * [9xmovies](https://9xmovies.charity/) - Movies
 * [5movierulz](https://ww4.5movierulz.ac/) - Movies
