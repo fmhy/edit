@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/8z4FVdf)** - For mobile users
+**[Table of Contents](https://ibb.co/hy7jqwg)** - For mobile users
 
 ***
 ***
@@ -363,6 +363,17 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### ChatGPT Discord Bots
 
 [chatgpt-discord-bot](https://github.com/TuringAI-Team/chatgpt-discord-bot), [ChatGPTDiscord](https://github.com/ausbitbank/ChatGPTDiscord), [CharacterAI](https://github.com/drizzle-mizzle/CharacterAI-Discord-Bot), [Erin](https://erin.ac/), [SallyBot](https://github.com/DeSinc/SallyBot/), [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot)
+
+***
+
+#### ChromeOS Tools
+
+* [Brunch](https://github.com/sebanc/brunch) or [Chromefy](https://github.com/imperador/chromefy) - ChromeOS Installer
+* [MrChromeBox](https://mrchromebox.tech/), [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/) / [Guide](https://support.google.com/chromeosflex/answer/11552529?hl=en), [FydeOS](https://fydeos.io/download) or [WayneOS](https://wayne-os.com/) - ChromeOS Based OS
+* [Chromebrew](https://github.com/chromebrew/chromebrew) - Package Manager for ChromeOS
+* [Chrome100](https://chrome100.dev/) - ChromeOS Recovery Images
+* [Sh1mmer](https://sh1mmer.me/) - Unenroll Enterprise-Managed Chromebooks
+* [Crouton](https://github.com/dnschneid/crouton) - Chromebook Linux OS
 
 ***
 
@@ -2640,7 +2651,6 @@ Add the following commands to a search to manually scrape each site.
 
 #### Survival
 
-* ⭐ **[do_k_ument](https://github.com/nbats/FMHYedit/blob/main/base64.md#do_k_ument)**
 * ⭐ **[Survivor Library](http://www.survivorlibrary.com/)**
 * [SurvivalManual](https://ligi.de/) / [GitHub](https://github.com/ligi/SurvivalManual)
 * [PrepperCollective](https://t.me/PrepperCollective) / [Index](https://t.me/PrepperCollectiveIndex)
