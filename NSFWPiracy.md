@@ -34,16 +34,16 @@
 
 # ► Streaming
 
-* ⭐ **[sxyprn](https://www.sxyprn.com/)**
+* ⭐ **[SexyPorn](https://www.sxyprn.com/)**
 * ⭐ **[SpankBang](https://spankbang.com/)**
-* ⭐ **[xvideos](https://www.xvideos.com/)**
-* ⭐ **[xhamster](https://xhamster.com/)**
-* ⭐ **[Pornhub](https://www.pornhub.com/)** / [Add Features](https://sleazyfork.org/en/scripts/380711) / [DL Script](https://gist.github.com/Riboe/58acabe04abe74421e88b4269cbdf41e)
+* ⭐ **[XVideos](https://www.xvideos.com/)**
+* ⭐ **[xHamster](https://xhamster.com/)**
+* ⭐ **[PornHub](https://www.pornhub.com/)** / [Add Features](https://sleazyfork.org/en/scripts/380711) / [DL Script](https://gist.github.com/Riboe/58acabe04abe74421e88b4269cbdf41e)
 * ⭐ **[Perverzila](https://tube.perverzija.com/)** - Full Length Videos / [Discord](https://tube.perverzija.com/)
 * ⭐ **[WhereIsMyPorn](https://whereismyporn.com/)** - Full Length Videos
-* ⭐ **[bellesa](https://www.bellesa.co/)** - Porn Videos for women
+* ⭐ **[Bellesa](https://www.bellesa.co/)** - Porn Videos for women
 * [PornFeat](https://www.pornfeat.com/)
-* [xnxx](https://www.xnxx.com/)
+* [XNXX](https://www.xnxx.com/)
 * [TNAFlix](https://www.tnaflix.com/)
 * [Pornobae](https://pornobae.com/)
 * [Youjizz](https://www.youjizz.com/)
@@ -404,7 +404,7 @@
 
 ## ▷ Leaks
 
-* [Leak CSE](https://cse.google.com/cse?cx=d638aa7da557546d5), [2](https://cse.google.com/cse?cx=230603009f774dff1) - Leak Custom Search Engines
+* ⭐ **[Leak CSE](https://cse.google.com/cse?cx=d638aa7da557546d5)**, [2](https://cse.google.com/cse?cx=230603009f774dff1) - Leak Custom Search Engines
 * ⭐ **[Fapello](https://fapello.com/)** - OnlyFans / Patreon
 * ⭐ **[Hotleak](https://hotleak.vip/)** - OnlyFans / Patreon
 * ⭐ **[kemono.party](https://kemono.su/)** - Patreon
@@ -624,7 +624,7 @@
 * [Ryuugames](https://ryuugames.com/) 
 * [CPG Repacks](https://cpgrepacks.site/) - [Discord](https://discord.gg/dtBSZ9N)
 * [PornDude Games](https://theporndude.com/best-porn-games), [2](https://theporndude.com/free-sex-games)
-* [The Asenheim Project](https://www.asenheim.org/)
+* [The Asenheim Project](https://www.asenheim.org) / [Play Online](https://tss.asenheim.org/)
 * [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46) 
 * [GGBases](https://www.ggbases.com/)
 * [BetterRepack](https://dl.betterrepack.com/public/) - [Discord](https://discord.gg/pSGZ4uz)
@@ -669,10 +669,10 @@
 * [Giantess Booru](https://giantessbooru.com/) - Giantess Fetish Art
 * [e621](https://e621.net/) - Furry Art
 * [FurryBooru](https://furry.booru.org/) - Furry Art
-* [Fur Affinity](https://www.furaffinity.net/) - Furry Art
+* [Fur Affinity](https://www.furaffinity.net/) - Furry Art / [Reverse Image Search](https://kheina.com/)
 * [Derpibooru](https://derpibooru.org/) - Furry Art
 * [InkBunny](https://inkbunny.net/) - Furry Art
-* [SmutBase](https://smutba.se/) - NSFW Models
+* [SmutBase](https://smutba.se/) - NSFW 3D Models
 * [Permanent Booru](http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)
 * [mcb3id.onion](http://ik4kzum3ocg6dhx4jhzteko4jzijmxnwsbkcqenf33as3i74i3mcb3id.onion/) 
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - Booru Clients / [Telegram](https://t.me/Flexbooru/161)
@@ -703,6 +703,7 @@
 * [Seduced.ai](https://www.seduced.ai/)
 * [Pornderful](https://pornderful.ai/)
 * [PornAI.tv](https://pornai.tv/)
+* [sexy.ai](https://sexy.ai/)
 * [r/AIpornhub](https://www.reddit.com/r/AIpornhub/) - NSFW AI Subreddit
 
 ***
