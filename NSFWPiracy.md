@@ -161,6 +161,7 @@
 * [ThePornFull](https://thepornfull.com/)
 * [Adultism](https://www.adultism.com/), [YourAmateurPorn](https://www.youramateurporn.com/), [Terk](https://www.terk.nl/), [Hobby Porn](https://hobby.porn/), [RealGFporn](https://www.realgfporn.com/), [HClips](https://hclips.com/), [MyLust](https://mylust.com/), [RulePorn](https://ruleporn.com/) or [WatchMyGF](https://www.watchmygf.me/) - Amateur Porn
 * [JustIncestPorn](https://justincestporn.com/), [Family Porn](https://familyporn.tv/), [FamilyPornHD](https://familypornhd.com/), [TabooDaddy](https://taboodaddy.com/), [TabooTube](https://www.tabootube.xxx/), [MotherSonTube](https://mothersontube.com/), [Whose UR Daddy](https://whoseurdaddy.net/), [TabooPorn](https://www.tabooporn.tv/) - Incest Porn
+* [eFukt](https://efukt.com/), [DarknessPorn](https://darknessporn.com/) or [CrazyShit](https://crazyshit.com/) - Extreme Porn
 * [MilfNut](https://milfnut.com/) - MILF Porn
 * [TeenagePornX](https://teenagepornx.com/) - Teenage (18+) Porn
 * [SheFreaky](https://www.shesfreaky.com/) - Black Women Porn
@@ -320,14 +321,6 @@
 * [aagmaals](https://aagmaals.net/) - Indian
 * [sexfullmovies](https://www.sexfullmovies.com/) - Indian
 * [onlyindianporn](https://onlyindianporn.me/) - Indian
-
-***
-
-## ▷ Weird / Extreme
-
-* [eFukt](https://efukt.com/)
-* [DarknessPorn](https://darknessporn.com/)
-* [CrazyShit](https://crazyshit.com/)
 
 ***
 
