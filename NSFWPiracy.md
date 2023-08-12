@@ -38,7 +38,7 @@
 * ⭐ **[SpankBang](https://spankbang.com/)**
 * ⭐ **[xvideos](https://www.xvideos.com/)**
 * ⭐ **[xhamster](https://xhamster.com/)**
-* ⭐ **[Pornhub](https://www.pornhub.com/)** / [Add Features](https://sleazyfork.org/en/scripts/380711)
+* ⭐ **[Pornhub](https://www.pornhub.com/)** / [Add Features](https://sleazyfork.org/en/scripts/380711) / [DL Script](https://gist.github.com/Riboe/58acabe04abe74421e88b4269cbdf41e)
 * ⭐ **[Perverzila](https://tube.perverzija.com/)** - Full Length Videos / [Discord](https://tube.perverzija.com/)
 * ⭐ **[WhereIsMyPorn](https://whereismyporn.com/)** - Full Length Videos
 * ⭐ **[bellesa](https://www.bellesa.co/)** - Porn Videos for women
@@ -343,11 +343,6 @@
 * [altar_of_elders](https://t.me/altar_of_elders) - Telegram
 * [internetjuice](https://t.me/internetjuice) - Telegram
 * [lowqualityjournal](https://t.me/lowqualityjournal) - Telegram
-* [destructiveaddiction](https://t.me/destructiveaddiction) - Telegram
-* @PornMirror - Telegram
-* [Boob Bot](https://www.boobbot.us/), [CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) or [multporn-image-downloader-v2](https://github.com/Official-Husko/multporn-image-downloader-v2) - Porn Image Downloaders
-* [Pornhub DL Script](https://redd.it/ks5sba), [TubeOffline](https://www.tubeoffline.com/download-PornHub-videos.php) or [Savido Pornhub](https://www.savido.net/sites/pornhub) - Pornhub Downloader
-* [SmutBase](https://smutba.se/) - NSFW Models
 * [FC2 Gather](https://github.com/supsupsuperstar/fc2_gather) - FC2 Image Scraper
 
 ***
@@ -546,7 +541,7 @@
 * ⭐ **[Manhwa18](https://manhwa18.net/)** / [2](https://manhwa18.com/) / [3](https://pornwa.club/) - Pornhwa
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Manga Torrents
 * ⭐ **[Anime-Sharing](https://www.anime-sharing.com/forum/#downloads-requests)** - Hentai Manga DDL
-* ⭐ **[Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)** or **[Hakuneko](https://hakuneko.download/)** - Multi-Site Downloaders
+* ⭐ **[Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)**, **[Hakuneko](https://hakuneko.download/)** or [NN Downloader](https://github.com/Official-Husko/NN-Downloader) - Multi-Site Downloaders
 * ⭐ **[Wholesome Hentai](https://wholesomelist.com/)** - Wholesome Manga Index / [Discord](https://discord.com/invite/688T4TaE)
 * [Hentai2Read](https://hentai2read.com/) or [HentaiHere](https://hentaihere.com/) - Hentai Manga
 * [HentaiFox](https://hentaifox.com/) - Hentai Manga
@@ -677,11 +672,13 @@
 * [Fur Affinity](https://www.furaffinity.net/) - Furry Art
 * [Derpibooru](https://derpibooru.org/) - Furry Art
 * [InkBunny](https://inkbunny.net/) - Furry Art
+* [SmutBase](https://smutba.se/) - NSFW Models
 * [Permanent Booru](http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)
 * [mcb3id.onion](http://ik4kzum3ocg6dhx4jhzteko4jzijmxnwsbkcqenf33as3i74i3mcb3id.onion/) 
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - Booru Clients / [Telegram](https://t.me/Flexbooru/161)
 * [Rule 34 App](https://r34.app/) - PWA Booru Client
-
+* [Boob Bot](https://www.boobbot.us/), [CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) - Porn Image Downloaders
+  
 ***
 
 ## ▷ AI Generated
