@@ -324,20 +324,18 @@
 * [Homebrew](https://brew.sh/), [yay](https://github.com/Jguer/yay) or [NixOS](https://nixos.org/) / [Manager](https://github.com/nix-community/home-manager) - Package Manager
 * [Pacstall](https://pacstall.dev/) - AUR-Inspired Package Manager for Ubuntu
 * [Repology](https://repology.org/) - Package Repository Tracker
-* [AppImageHub](https://appimage.github.io/) or [get-appimate](https://g.srev.in/get-appimage/) - Download AppImages / [CLI](https://zap.srev.in/)
+* [AppImageHub](https://www.appimagehub.com/), [Pling](https://www.pling.com/), [AppImages](https://appimage.github.io/) or [get-appimate](https://g.srev.in/get-appimage/) - Download AppImages
+* [AppImagePool](https://github.com/prateekmedia/appimagepool) or [Zap](https://zap.srev.in/) - Appimage Package Managers
 * [Flathub](https://flathub.org/)
 * [SnapCraft](https://snapcraft.io/store)
 * [Linux Apps](https://www.linux-apps.com/)
 * [tlanyan](https://itlanyan.com/)
 * [yay](https://github.com/Jguer/yay), [paru](https://github.com/morganamilo/paru) or [aura](https://github.com/fosskers/aura) - Arch User Repository Helpers
 * [KDE's Applications](https://apps.kde.org/education)
-* [Pling](https://www.pling.com/)
 * [IzzySoft Apt Repositories](https://apt.izzysoft.de/)
 * [Awesome KDE](https://github.com/francoism90/awesome-kde)
 * [Plan9Port](https://github.com/9fans/plan9port)
 * [apps.gnome](https://apps.gnome.org/en-GB/) - GNOME Apps
-* [AppImagePool](https://github.com/prateekmedia/appimagepool) - Linux App Images
-* [AppImages](https://www.appimagehub.com/) - Linux App Images
 
 ***
 
