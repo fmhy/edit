@@ -74,7 +74,6 @@
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines
 * [ebook3000.co](https://www.ebook3000.co/) - Books / Magazines / NSFW
 * [just a digital library](https://github.com/nbats/FMHYedit/blob/main/base64.md#just-a-digital-library) - Books
-* [Read Any Book](https://www.readanybook.com/) - Books
 * [openlibrary](https://openlibrary.org/) - Books
 * [standardebooks](https://standardebooks.org) - Books
 * [Manybooks](https://manybooks.net/)  - Books
