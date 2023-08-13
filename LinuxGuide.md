@@ -323,7 +323,7 @@
 * ⭐ **[Kapital Sin](https://kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * [Flathub](https://flathub.org/) - Flatpak Repository
 * [SnapCraft](https://snapcraft.io/store) - Snap Repository
-* [Homebrew](https://brew.sh/), [yay](https://github.com/Jguer/yay) or [NixOS](https://nixos.org/) / [Manager](https://github.com/nix-community/home-manager) - Package Manager
+* [NixOS](https://nixos.org/) / [Manager](https://github.com/nix-community/home-manager) or [Homebrew](https://brew.sh/) - Package Managers
 * [AppImageHub](https://www.appimagehub.com/), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download AppImages
 * [AppImagePool](https://github.com/prateekmedia/appimagepool), [Zap](https://github.com/srevinsaju/zap) or [AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) - Appimage Package Managers
 * [yay](https://github.com/Jguer/yay), [paru](https://github.com/morganamilo/paru) or [aura](https://github.com/fosskers/aura) - Arch User Repository Helpers
