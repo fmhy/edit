@@ -739,8 +739,8 @@
 * [Fandom](https://www.fandom.com/) - Fan Wikis / [Frontend](https://docs.breezewiki.com/Links.html) / [Old Style](https://greasyfork.org/en/scripts/438194-hydralize-fix-fandom-com)
 * [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi Language Dictionary Index
 * [Scholarpedia](http://www.scholarpedia.org/) - Peer-Reviewed Encyclopedia
-* [EverybodyWiki](https://en.everybodywiki.com/) - Encyclopedia
 * [Britannica](https://www.britannica.com/) - Encyclopedia
+* [EverybodyWiki](https://en.everybodywiki.com/) - Encyclopedia
 * [Encyclopedia](https://www.encyclopedia.com/) - Encyclopedia
 * [NewWorldEncyclopedia](https://www.newworldencyclopedia.org/) - Encyclopedia
 * [Citizendium](https://citizendium.org/) - Encyclopedia
