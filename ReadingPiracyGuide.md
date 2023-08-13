@@ -30,7 +30,7 @@
 * [AudioBooksBeyond](https://odysee.com/@AudioBooksBeyond:1) - Listen Online
 * [Spotify Audiobooks](https://open.spotify.com/artist/1FSWXfsYsosTxjcV9WoLax) - Listen Online / Select Playlists
 * [AudioBooksBee](https://audiobooksbee.com/)
-* [Audiobookss](https://audiobookss.com/)
+* [Audiibooks](https://audiibooks.com//)
 * [LearnOutLoud](https://www.learnoutloud.com/Free-Audiobooks)
 * [Golden Audiobooks](https://goldenaudiobook.com/)
 * [LoudLit](http://loudlit.org/)
@@ -107,7 +107,7 @@
 * [TheFreeOnlineNovel](https://thefreeonlinenovel.com/) - Books
 * [ReadOnlineFreeBook](https://readonlinefreebook.com/) - Books
 * [All Books Hub](https://allbookshub.com/) - Books
-* [ebooksz](https://www.ebooksz.net/) - Books
+* [ebooksz](https://ebooksz.net/) - Books
 * [BBooks](https://bbooks.info/) - Books
 * [English E-Reader](https://english-e-reader.net/) - Books
 * [BookPDF](https://en.bookpdf.org/) - Books
@@ -157,8 +157,6 @@
 * [/r/opendirectories](https://reddit.com/r/opendirectories)
 * [/r/EBook_Resources](https://reddit.com/r/EBook_Resources/)
 * [/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS)
-* [/r/Freenookbooks](https://reddit.com/r/Freenookbooks/)
-* [/r/bookdownloads](https://reddit.com/r/bookdownloads/)
 * [/r/KindleFreebies](https://reddit.com/r/KindleFreebies/)
 * [WorldCat](https://www.worldcat.org/) or [TRL](https://www.trl.org/) - Search Local Libraries / [Extension](https://www.libraryextension.com/)
 * [Nexus Bot](https://t.me/nexus_search/84) - Create your own TG Book Bot / [Guide](https://youtu.be/i9TNgb9pjV8)
@@ -184,7 +182,7 @@
 * [iDoc](https://idoc.tips/) - Books
 * [PDFDuck](https://pdfduck.com/) - Books
 * [PDF Stop](https://pdfstop.com/) - Books
-* [freepdfbook](http://freepdfbook.com/) - Books
+* [freepdfbook](https://freepdfbook.com/) - Books
 * [Amazonaws](https://www.google.com/search?q=site%3As3.amazonaws.com+%3CSearch+term%3E+filetype%3Apdf) - Amazon PDF Search
 
 ***
@@ -295,7 +293,7 @@
 * [BuddhaNet](http://www.buddhanet.net/) - Buddhism
 * [Encyclopedia Of Buddhism](https://archive.org/details/EdwardA.IronsEncyclopediaOfBuddhismEncyclopediaOfWorldReligions/) - Buddhist Encyclopedia
 * [Buddhism Dictionary](http://www.buddhism-dict.net/ddb/) - Buddhist Dictionary
-* [Sankaracharya](http://www.sankaracharya.org/index.php) - Hinduism
+* [Sankaracharya](https://www.sankaracharya.org/index.php) - Hinduism
 * [Vedanta Shastras](https://www.shastras.com/) - Hinduism
 * [Encyclopedia Of Hinduism](https://archive.org/details/ConstanceA.JonesJamesD.RyanEncyclopediaOfHinduism/) - Hinduism Encyclopedia
 * [Jainism Library of Jain Literature](https://www.atmadharma.com/index.html) - Sacred Texts / Religion / Multi Language
@@ -479,7 +477,6 @@
 * [Critical Thinking](https://github.com/nbats/FMHYedit/blob/main/base64.md#critical-thinking) - Books / Guides / Pictures
 * [/r/textbook_piracy](https://reddit.com/r/textbook_piracy)
 * [/r/textbookrequest](https://reddit.com/r/textbookrequest)
-* [/r/eebooks](https://reddit.com/r/eebooks/)
 * [/r/mathbooks](https://reddit.com/r/mathbooks)
 * [/r/Scholar](https://reddit.com/r/Scholar)
 
@@ -734,7 +731,7 @@
 * [Lexicool](https://www.lexicool.com/) - Dictionary
 * [Vocabulary](https://www.vocabulary.com/) - Dictionary
 * [WordSense](https://www.wordsense.eu/) - Dictionary
-* [Spellorg](https://www.spellorg.com/) - Dictionary / Spell Check
+* [Spellcheck](https://www.spellcheck.net/) - Dictionary / Spell Check
 * [dict](https://github.com/BetaPictoris/dict) - Dictionary CLI
 * [Webopedia](https://www.webopedia.com/) or [TechTerms](https://techterms.com/) - Tech Dictionary
 * [Why The Fluff](https://www.whythefluff.com/) - Common Jargon Dictionary
@@ -759,10 +756,10 @@
 * [Thesaurus.com](https://www.thesaurus.com/) - Thesaurus / [Frontend](https://github.com/sigaloid/vocrab)
 * [PowerThesaurus](https://www.powerthesaurus.org/) - Thesaurus
 * [VisualThesaurus](https://www.visualthesaurus.com/) - Thesaurus
-* [DescribingWords](https://www.describingwords.io/) or [Lose The Very](https://www.losethevery.com/) - Adjectives
+* [DescribingWords](https://describingwords.io/) or [Lose The Very](https://www.losethevery.com/) - Adjectives
 * [Thsrs](https://www.ironicsans.com/thsrs/) - Synonyms
 * [Synonym.com](https://www.synonym.com/) - Synonyms
-* [Feeels](https://feelu.now.sh/) - Emotion Synonym Chart
+* [Feeels](https://feelu.vercel.app/) - Emotion Synonym Chart
 * [WikiDiff](https://wikidiff.com/) - Difference Between Any Words
 * [ReverseDictionary](https://reversedictionary.org/) or [OneLook Reverse](https://onelook.com/reverse-dictionary.shtml) - Search for Words Using Their Meanings
 * [DoesNotTranslate](https://doesnottranslate.com/) - Words with No Translation
@@ -801,7 +798,7 @@
 * ⭐ **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-Site Comic Search
 * ⭐ **[ReadComicsOnline](https://readcomiconline.li/)**
 * ⭐ **[GetComics](https://getcomics.org/)** - Downloads / Read Online
-* ⭐ **[ComicExtra](https://www.comicextra.com/)** or [Comic Online Free](https://comiconlinefree.net/)
+* ⭐ **[ComicExtra](https://comicextra.net/)** or [Comic Online Free](https://comiconlinefree.net/)
 * ⭐ **[XOXO Comics](https://xoxocomics.net/)**
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
 * ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Comics
@@ -834,7 +831,7 @@
 * [ComicEater](https://github.com/kanjieater/ComicEater) - Comic Archiving Tools
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comics-DL](https://github.com/The-Eye-Team/Comics-DL), [Comic-DL](https://github.com/Xonshiz/comic-dl), [comicMaker](https://github.com/gunjannandy/comicMaker) or [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md) - Comic Downloaders
 * [Tapastic Comic Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - Tapas Comics Downloader
-* [Cover](https://www.frenchfrysoftware.com/cover/), [Komikku](https://gitlab.com/valos/Komikku), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Readers / Managers
+* [Cover](https://frenchfrysoftware.com/cover//), [Komikku](https://gitlab.com/valos/Komikku), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Readers / Managers
 * [Free Dark Horse Digital Comics](https://digital.darkhorse.com/pages/free) / [Downloader](https://github.com/GrowAsguard/Dark-Horse-Comics-Converter)
 * [ComicFury](https://comicfury.com/) or [StripCreator](http://www.stripcreator.com/) - User-Made Comics
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Web Comic Reader
@@ -885,7 +882,7 @@
 * [DogManga](https://dogemanga.com/)
 * [Bunko](https://bunko.in/)
 * [MangaOwl](https://mangaowl.to/)
-* [MangaReader](https://mangareader.cc/)
+* [MangaReader](https://mangareader.mobi/)
 * [ReadMangaFree](https://readmangafree.net/)
 * [Manga Miso](https://mangamiso.net/)
 * [Colored Manga](https://coloredmanga.com/) - [Discord](https://discord.com/invite/j66bPX4z8M)
@@ -920,7 +917,7 @@
 * [mangapill](https://mangapill.com/)
 * [projectsuki](https://projectsuki.com/)
 * [NineAnime](https://www.nineanime.com/category/)
-* [Anime-Sharing](http://www.anime-sharing.com/forum/) - Anime / Manga Download Forum
+* [Anime-Sharing](https://www.anime-sharing.com/) - Anime / Manga Download Forum
 * [MP4DIRECTS](https://mp4directs.com/) - Manga / Light Novels Download Forum
 * [WhereCanIReadManga?](https://wherecanireadmanga.com/) - Legal
 * [Raw Manga Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng#wiki_.25B7_reading10) - Japanese Manga Sites
@@ -982,7 +979,7 @@
 * [Manhau ES](https://manhuaes.com/)
 * [ManhuaHot](https://manhuahot.com/)
 * [Todamic](https://todaymic.com)
-* [Manhua Zone](https://manhuazone.net/)
+* [Manhua Zone](https://manhuazone.org/)
 * [Manhuaga](https://manhuaga.com/)
 * [Teenmanhua](https://teenmanhua.com/)
 
@@ -1012,7 +1009,7 @@
 * [AsianHobbyist](https://www.asianhobbyist.com/)
 * [Read Light Novel](https://www.readlightnovel.me/)
 * [DaoNovel](https://daonovel.com/)
-* [List Novel](https://www.listnovel.com/)
+* [List Novel](https://listnovel.com/)
 * [Novel Ringan](https://novelringan.com/)
 * [NovelLMAO](https://novelmao.com/)
 * [ReadNovelFull](https://readnovelfull.com)
@@ -1174,7 +1171,7 @@
 * [spin.moe](https://spin.moe/) - Find Random Manga
 * [Anime-Planet](https://anime-planet.com/) - Manga
 * [kenmei](https://www.kenmei.co/) - Manga
-* [All Anime](https://allanime.to/) - Manga
+* [All Anime](https://allmanga.to/) - Manga
 * [Manga Codex](https://mangacodex.com/) - Manga Infographics & Sales Stats
 * [vndb](https://vndb.org/) - Visual Novel
 * [rate.house](https://rate.house/) - Media Tracker
