@@ -327,8 +327,8 @@
 * [AppImageHub](https://www.appimagehub.com/), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download AppImages
 * [AppImagePool](https://github.com/prateekmedia/appimagepool), [Zap](https://github.com/srevinsaju/zap) or [AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) - Appimage Package Managers
 * [yay](https://github.com/Jguer/yay), [paru](https://github.com/morganamilo/paru) or [aura](https://github.com/fosskers/aura) - Arch User Repository Helpers
-* [apps.gnome](https://apps.gnome.org/en-GB/) - GNOME Apps
-* [KDE's Applications](https://apps.kde.org/education) - KDE Apps
+* [Apps for GNOME](https://apps.gnome.org/) - GNOME Apps
+* [KDE Applications](https://apps.kde.org/) - KDE Apps
 * [IzzySoft Apt Repositories](https://apt.izzysoft.de/)
 * [Repology](https://repology.org/) - Package Repository Tracker
 * [Pling](https://www.pling.com/)
