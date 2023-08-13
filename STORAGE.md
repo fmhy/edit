@@ -2823,7 +2823,6 @@ Add the following commands to a search to manually scrape each site.
 * [Mobile movies request bot](https://t.me/cc_mmrequestbot) - Movies / 480p
 * [iPapkornBot](https://t.me/iPapkornBot) - Movies
 * [ProSearch4Bot](https://t.me/ProSearch4Bot) - Movies
-* [ZestFlix](https://t.me/+vxfKtaB4sXtmNjY1) - Movies / TV / [Archives](https://t.me/+iuTSrLAp27c4OTE1)
 * [TVSeriesArchive](https://t.me/TvSeriesArchive) - TV
 * [pre_code](https://t.me/pre_code) - Classic
 * [ZwartwitFilms](https://t.me/ZwartwitFilms) - Classic
