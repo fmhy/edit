@@ -273,7 +273,6 @@
 * [OpenArt](https://openart.ai/) - AI Image Generator
 * [MindsEye](https://multimodal.art/mindseye) - AI Image Generator
 * [iamfy](https://www.iamfy.co/studio) - AI Image Generator
-* [AI Art Generator](https://neural.love/ai-art-generator) - AI Image Generator
 * [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent) - AI Image Generator
 * [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - AI Image Generator
 * [Diffuse The Rest](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest) - AI Image Generator
