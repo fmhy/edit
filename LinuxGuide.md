@@ -319,7 +319,7 @@
 # ► Linux Software
 
 * ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
-* ⭐ **[Open Source Linux Programs](https://i.ibb.co/KyTkKHz/ae00a5177857.png)** or [List of applications](https://wiki.archlinux.org/title/list_of_applications), [2](https://wiki.installgentoo.com/index.php/List_of_recommended_GNU/Linux_software)
+* ⭐ **[Open Source Linux Programs](https://i.ibb.co/KyTkKHz/ae00a5177857.png)** or [ArchWiki List of Applications](https://wiki.archlinux.org/title/list_of_applications)
 * ⭐ **[Kapital Sin](https://kapitalsin.com/)**
 * [Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/), [2](https://github.com/inputsh/awesome-linux), [3](https://github.com/crackerica/Awesome-Linux-Software)
 * [Homebrew](https://brew.sh/), [yay](https://github.com/Jguer/yay) or [NixOS](https://nixos.org/) / [Manager](https://github.com/nix-community/home-manager) - Package Manager
@@ -327,7 +327,6 @@
 * [Repology](https://repology.org/) - Package Repository Tracker
 * [AppImageHub](https://appimage.github.io/) or [get-appimate](https://g.srev.in/get-appimage/) - Download AppImages / [CLI](https://zap.srev.in/)
 * [Flathub](https://flathub.org/)
-* [ArchLinux](https://wiki.archlinux.org/title/List_of_applications)
 * [SnapCraft](https://snapcraft.io/store)
 * [Linux Apps](https://www.linux-apps.com/)
 * [tlanyan](https://itlanyan.com/)
