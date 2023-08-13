@@ -324,7 +324,7 @@
 * [Homebrew](https://brew.sh/), [yay](https://github.com/Jguer/yay) or [NixOS](https://nixos.org/) / [Manager](https://github.com/nix-community/home-manager) - Package Manager
 * [Pacstall](https://pacstall.dev/) - AUR-Inspired Package Manager for Ubuntu
 * [Repology](https://repology.org/) - Package Repository Tracker
-* [AppImageHub](https://www.appimagehub.com/), [Pling](https://www.pling.com/), [AppImages](https://appimage.github.io/) or [get-appimate](https://g.srev.in/get-appimage/) - Download AppImages
+* [AppImageHub](https://www.appimagehub.com/), [Pling](https://www.pling.com/), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download AppImages
 * [AppImagePool](https://github.com/prateekmedia/appimagepool) or [Zap](https://zap.srev.in/) - Appimage Package Managers
 * [Flathub](https://flathub.org/)
 * [SnapCraft](https://snapcraft.io/store)
