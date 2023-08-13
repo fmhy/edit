@@ -325,7 +325,7 @@
 * [Pacstall](https://pacstall.dev/) - AUR-Inspired Package Manager for Ubuntu
 * [Repology](https://repology.org/) - Package Repository Tracker
 * [AppImageHub](https://www.appimagehub.com/), [Pling](https://www.pling.com/), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download AppImages
-* [AppImagePool](https://github.com/prateekmedia/appimagepool) or [Zap](https://github.com/srevinsaju/zap) or [AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) - Appimage Package Managers
+* [AppImagePool](https://github.com/prateekmedia/appimagepool), [Zap](https://github.com/srevinsaju/zap) or [AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) - Appimage Package Managers
 * [Flathub](https://flathub.org/)
 * [SnapCraft](https://snapcraft.io/store)
 * [Linux Apps](https://www.linux-apps.com/)
