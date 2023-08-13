@@ -7,6 +7,7 @@
 * [One Porn List](https://onepornlist.com/)
 * [BigPornList](http://bigpornlist.net/)
 * [MrPornGeek](https://www.mrporngeek.com/)
+* [The Best Fetish Sites](https://thebestfetishsites.com/)
 * [The Big List of Porn](https://www.tblop.com/) 
 * [Porn Sites XXX](https://pornsites.xxx/) 
 * [Top Porn Sites](https://toppornsites.com/)
@@ -34,21 +35,21 @@
 
 # ► Streaming
 
-* ⭐ **[sxyprn](https://www.sxyprn.com/)**
+* ⭐ **[SexyPorn](https://www.sxyprn.com/)**
 * ⭐ **[SpankBang](https://spankbang.com/)**
-* ⭐ **[xvideos](https://www.xvideos.com/)**
-* ⭐ **[xhamster](https://xhamster.com/)**
-* ⭐ **[Pornhub](https://www.pornhub.com/)** / [Add Features](https://sleazyfork.org/en/scripts/380711)
+* ⭐ **[XVideos](https://www.xvideos.com/)**
+* ⭐ **[xHamster](https://xhamster.com/)**
+* ⭐ **[EPorner](https://www.eporner.com/)**
+* ⭐ **[PornHub](https://www.pornhub.com/)** / [Add Features](https://sleazyfork.org/en/scripts/380711) / [DL Script](https://gist.github.com/Riboe/58acabe04abe74421e88b4269cbdf41e)
 * ⭐ **[Perverzila](https://tube.perverzija.com/)** - Full Length Videos / [Discord](https://tube.perverzija.com/)
 * ⭐ **[WhereIsMyPorn](https://whereismyporn.com/)** - Full Length Videos
-* ⭐ **[bellesa](https://www.bellesa.co/)** - Porn Videos for women
+* ⭐ **[Bellesa](https://www.bellesa.co/)** - Porn Videos for women
 * [PornFeat](https://www.pornfeat.com/)
-* [xnxx](https://www.xnxx.com/)
+* [XNXX](https://www.xnxx.com/)
 * [TNAFlix](https://www.tnaflix.com/)
 * [Pornobae](https://pornobae.com/)
 * [Youjizz](https://www.youjizz.com/)
 * [Youporn](https://www.youporn.com/)
-* [EPorner](https://www.eporner.com/)
 * [Daftsex](https://daft.sex/)
 * [HQPorner](https://hqporner.com/)
 * [ThePornArea](https://thepornarea.com/)
@@ -160,6 +161,7 @@
 * [ThePornFull](https://thepornfull.com/)
 * [Adultism](https://www.adultism.com/), [YourAmateurPorn](https://www.youramateurporn.com/), [Terk](https://www.terk.nl/), [Hobby Porn](https://hobby.porn/), [RealGFporn](https://www.realgfporn.com/), [HClips](https://hclips.com/), [MyLust](https://mylust.com/), [RulePorn](https://ruleporn.com/) or [WatchMyGF](https://www.watchmygf.me/) - Amateur Porn
 * [JustIncestPorn](https://justincestporn.com/), [Family Porn](https://familyporn.tv/), [FamilyPornHD](https://familypornhd.com/), [TabooDaddy](https://taboodaddy.com/), [TabooTube](https://www.tabootube.xxx/), [MotherSonTube](https://mothersontube.com/), [Whose UR Daddy](https://whoseurdaddy.net/), [TabooPorn](https://www.tabooporn.tv/) - Incest Porn
+* [eFukt](https://efukt.com/), [DarknessPorn](https://darknessporn.com/) or [CrazyShit](https://crazyshit.com/) - Extreme Porn
 * [MilfNut](https://milfnut.com/) - MILF Porn
 * [TeenagePornX](https://teenagepornx.com/) - Teenage (18+) Porn
 * [SheFreaky](https://www.shesfreaky.com/) - Black Women Porn
@@ -325,29 +327,32 @@
 # ► Download 
 
 * ⭐ **[FapNationBot](https://discord.gg/d39hJGxwvX)** - Premium Porn Download Bot / [Free Bot](https://cutt.ly/4CnMP8x) / [Guide](https://rentry.co/seremfreeharem)
+* ⭐ **[SeaPorn](https://www.seaporn.org/)**
+* ⭐ **[0xxx](https://0xxx.ws/)**
 * [Search4Porn](https://search4porn.net/) - NSFW File Search
+* [SiteRips](https://www.siterips.org/)
 * [PornFactors](http://pornfactors.com/) 
 * [Best-MovieZ](https://www.best-moviez.ws/category/porn-18/) 
 * [HugeWarez](http://hugewarez.net/xxx-full-movies/)
+* [XXXCollections](https://xxxcollections.net/)
 * [CumSwallowingMovies](https://cumswallowingmovies.co/)
+* [TopModelz](https://top-modelz.org/)
 * [PornFile](https://pornfile.cz/) 
-* [0xxx](https://0xxx.ws/) 
-* [Kimochi](https://kimochi.tv/) 
+* [Kimochi](https://kimochi.tv/)
 * [SweetPorn](https://sweetporn.org/)
 * [RemaxHD](https://remaxhd.live/)
+* [Keep2porn](https://keep2porn.net/)
 * [MaxJAV](https://maxjav.com/)
 * [ArcJav](https://arcjav.com/) - Japanese
+* [3XPlanet](https://3xplanet.com/) - Japanese
+* [JavLibrary](https://www.javlibrary.com/en/) - Japanese
+* [MixFemdomCC](https://mixfemdomcc.com/), [FetishFemdom](https://fetishfemdom.adult/), [FemdomZzz](https://femdomzzz.com/) or [FemdomUp](https://femdomup.net/) - Femdom Fetish
 * [Download Piracy Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "nsfw"
 * [CamVault](https://camvault.xyz/) - DL Chaturbate, MyFreeCams & CAM4 Recordings
 * [XXXTelegramBot](https://t.me/XXXTelegramBot) - Telegram
 * [altar_of_elders](https://t.me/altar_of_elders) - Telegram
 * [internetjuice](https://t.me/internetjuice) - Telegram
 * [lowqualityjournal](https://t.me/lowqualityjournal) - Telegram
-* [destructiveaddiction](https://t.me/destructiveaddiction) - Telegram
-* @PornMirror - Telegram
-* [Boob Bot](https://www.boobbot.us/), [CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) or [multporn-image-downloader-v2](https://github.com/Official-Husko/multporn-image-downloader-v2) - Porn Image Downloaders
-* [Pornhub DL Script](https://redd.it/ks5sba), [TubeOffline](https://www.tubeoffline.com/download-PornHub-videos.php) or [Savido Pornhub](https://www.savido.net/sites/pornhub) - Pornhub Downloader
-* [SmutBase](https://smutba.se/) - NSFW Models
 * [FC2 Gather](https://github.com/supsupsuperstar/fc2_gather) - FC2 Image Scraper
 
 ***
@@ -357,6 +362,7 @@
 * [Pornoslon](http://pornoslon.me/)
 * [PornBBS](http://pornbbs.org/)
 * [CyberLeaks](https://cyberleaks.org/)
+* [PlanetSuzy](http://www.planetsuzy.org/)
 * [xBunker](https://xbunker.nu/)
 * [jdc](https://discord.gg/jdc) - Asian Porn Discord
 * [SEGNECK](https://discord.gg/jP5BHAUbeu) - Asian Porn Discord
@@ -366,6 +372,7 @@
 
 ## ▷ Torrents
 
+* ⭐ **[myporn.club](https://myporn.club/)**
 * [PornLeech](http://pornleech.ch/)
 * [Sexy-Pics](https://www.sexy-pics.us/)
 * [色花堂-98堂](https://www.sehuatang.net/)
@@ -383,33 +390,64 @@
 
 # ► Images / Reels
 
+* ⭐ **[ImageFap](https://www.imagefap.com/)**
 * ⭐ **[NSFWMonster](https://nsfwmonster.com/)** - NSFW Images / GIFs
+* [Realbooru](https://realbooru.com/)
+* [PimpAndHost](https://pimpandhost.com/site/trending)
+* [PornedUp](https://pornedup.com/)
+* [Sexy Girls Pics](https://sexygirlspics.com/)
+* [PornPaw](https://www.pornpaw.com/)
 * [GifHQ](https://gifhq.com/) - NSFW Images / GIFs
 * [GifSauce](https://gifsauce.com/) - NSFW Images / GIFs
 * [HardGIF](https://hardgif.com/) - NSFW GIFs
 * [xfree](https://www.xfree.com/) - NSFW Reels
 * [fap.bar](https://fap.bar/) - NSFW Reels
-* [FIQFUQ](https://fiqfuq.com/) - Random NSFW Reddit GIFs
-* [cakeslip](https://www.cakeslip.com/) - NSFW Reddit GIFs
-* [ViralPorn](https://viralporn.com/) - NSFW Reddit GIFs
+* [FIQFUQ](https://fiqfuq.com/) - NSFW Reddit Posts
+* [Reddxxx](https://reddxxx.com/) - NSFW Reddit Posts
+* [Reddit Gone Wild](https://gonewildbrowser.com/) - NSFW Reddit Posts
+* [cakeslip](https://www.cakeslip.com/) - NSFW Reddit Posts
+* [ViralPorn](https://viralporn.com/) - NSFW Reddit Posts
 * [nsfw.xxx](https://nsfw.xxx/) - NSFW Reddit Images
 * [Scroller](https://scrolller.com/) - NSFW Reddit Images
 * [NSFWSwipe](https://nsfwswipe.com/v/6716209) - NSFW GIFs
 * [NSFW Monster](https://nsfwmonster.com/) - NSFW GIFs
 * [PornAMinute](https://porninaminute.org/) - NSFW GIFs
-* [HotScope](https://hotscope.tv/) - Snapchat / OnlyFans NSFW
 * [EroMe](https://www.erome.com/explore) - Amateur NSFW
 * [r/snapleaks](https://www.reddit.com/r/snapleaks/), [r/NSFW_Snapchat](https://www.reddit.com/r/NSFW_Snapchat/) or [r/DirtySnapchat](https://www.reddit.com/r/DirtySnapchat/) - NSFW Snapchat Subreddits
 * [Fapeza](https://fapeza.com/) - Instagram Models
-* [MrCong](https://mrcong.com/), [babes.gallery](https://babes.gallery/), [sxypix](https://sxypix.com/), [traht](https://traht.org/), [Babepedia](https://www.babepedia.com/), [realbooru](https://realbooru.com/), [girlsreleased](https://girlsreleased.com/) or [TNApics](https://www.tnapics.com/) - Images
-* [Ana Dias Photography](https://www.anadiasphotography.com/) or [PmateHunter](https://pmatehunter.com/) - Playboy Images
-* [Simple-Costplay](https://www.simply-cosplay.com/), [Hentai Costplays](https://hentai-cosplays.com) or [NudeCosplayGirls](https://nudecosplaygirls.com/) - Cosplay Images
-* [Realbooru](https://realbooru.com/)
+* [Simple-Costplay](https://www.simply-cosplay.com/), [Mitaku](https://mitaku.net/), [Hentai Costplays](https://hentai-cosplays.com) or [NudeCosplayGirls](https://nudecosplaygirls.com/) - Cosplay Images
 * [ChatPic](https://chatpic.org/) - Create Chat Rooms and share images
 
-## ▷ Leaks
+*** 
 
-* [Leak CSE](https://cse.google.com/cse?cx=d638aa7da557546d5), [2](https://cse.google.com/cse?cx=230603009f774dff1) - Leak Custom Search Engines
+## ▷ Models
+
+* [Sex.com](https://www.sex.com/)
+* [PornPics](https://www.pornpics.com/)
+* [MrCong](https://mrcong.com/)
+* [Pictoa](https://www.pictoa.com/)
+* [BabeSource](https://babesource.com/)
+* [babes.gallery](https://babes.gallery/)
+* [HQBabes](https://www.hqbabes.com/)
+* [GirlsTop.info](https://en.girlstop.info/)
+* [Nude-Gals](https://nude-gals.com/)
+* [sxypix](https://sxypix.com/)
+* [Pichunter](https://www.pichunter.com/)
+* [traht](https://traht.org/)
+* [Babepedia](https://www.babepedia.com/)
+* [girlsreleased](https://girlsreleased.com/)
+* [TNApics](https://www.tnapics.com/)
+* [Fuskator](https://fuskator.com/)
+* [JJGirls](https://jjgirls.com/) - JAV Models
+* [Ana Dias Photography](https://www.anadiasphotography.com/) - Playboy Images
+* [PmateHunter](https://pmatehunter.com/) - Playboy Images
+* [Adult Photo Sets](https://adultphotosets.best/) or [Top Nude Modelz](https://nude-modelz.com/) - Photosets DDL
+  
+***
+
+## ▷ Social Media Leaks
+
+* ⭐ **[Leak CSE](https://cse.google.com/cse?cx=d638aa7da557546d5)**, [2](https://cse.google.com/cse?cx=230603009f774dff1) - Leak Custom Search Engines
 * ⭐ **[Fapello](https://fapello.com/)** - OnlyFans / Patreon
 * ⭐ **[Hotleak](https://hotleak.vip/)** - OnlyFans / Patreon
 * ⭐ **[kemono.party](https://kemono.su/)** - Patreon
@@ -425,6 +463,7 @@
 * [NSFW247](https://nsfw247.to/) - OnlyFans
 * [Thothub](https://thothub.to/) - OnlyFans
 * [ThotsLife](https://thotslife.com/) - OnlyFans
+* [HotScope](https://hotscope.tv/) - OnlyFans / Snapchat
 * [Fapopedia](https://fapopedia.net/) - OnlyFans / Patreon / Snapchat
 * [BitchesGirls](https://bitchesgirls.com/) - OnlyFans / Patreon
 * [NudoStar](https://nudostar.com/) - OnlyFans / Patreon
@@ -545,7 +584,7 @@
 * ⭐ **[Manhwa18](https://manhwa18.net/)** / [2](https://manhwa18.com/) / [3](https://pornwa.club/) - Pornhwa
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Manga Torrents
 * ⭐ **[Anime-Sharing](https://www.anime-sharing.com/forum/#downloads-requests)** - Hentai Manga DDL
-* ⭐ **[Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)** or **[Hakuneko](https://hakuneko.download/)** - Multi-Site Downloaders
+* ⭐ **[Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)**, **[Hakuneko](https://hakuneko.download/)** or [NN Downloader](https://github.com/Official-Husko/NN-Downloader) - Multi-Site Downloaders
 * ⭐ **[Wholesome Hentai](https://wholesomelist.com/)** - Wholesome Manga Index / [Discord](https://discord.com/invite/688T4TaE)
 * [Hentai2Read](https://hentai2read.com/) or [HentaiHere](https://hentaihere.com/) - Hentai Manga
 * [HentaiFox](https://hentaifox.com/) - Hentai Manga
@@ -600,6 +639,7 @@
 * [MangaGenki](https://mangagenki.com/) - Pornhwa
 * [OmegaScans](https://omegascans.org/) - Pornhwa / [Discord](https://discord.com/invite/BrkUm8jeng)
 * [manhwahentai.to](https://manhwahentai.to/) - Pornhwa
+* [MadaraDex](https://madaradex.org/) - Pornhwa / [Discord](https://discord.com/invite/mubnYvjFEY)
 * [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46)
 * [shikotch](https://shikotch.net/)
 * [Hentai IMG](https://hentai-img.com/)
@@ -628,7 +668,7 @@
 * [Ryuugames](https://ryuugames.com/) 
 * [CPG Repacks](https://cpgrepacks.site/) - [Discord](https://discord.gg/dtBSZ9N)
 * [PornDude Games](https://theporndude.com/best-porn-games), [2](https://theporndude.com/free-sex-games)
-* [The Asenheim Project](https://www.asenheim.org/)
+* [The Asenheim Project](https://www.asenheim.org) / [Play Online](https://tss.asenheim.org/)
 * [Mikocon](https://www.mikocon.com/forum.php?mod=forumdisplay&fid=46) 
 * [GGBases](https://www.ggbases.com/)
 * [BetterRepack](https://dl.betterrepack.com/public/) - [Discord](https://discord.gg/pSGZ4uz)
@@ -673,14 +713,16 @@
 * [Giantess Booru](https://giantessbooru.com/) - Giantess Fetish Art
 * [e621](https://e621.net/) - Furry Art
 * [FurryBooru](https://furry.booru.org/) - Furry Art
-* [Fur Affinity](https://www.furaffinity.net/) - Furry Art
+* [Fur Affinity](https://www.furaffinity.net/) - Furry Art / [Reverse Image Search](https://kheina.com/)
 * [Derpibooru](https://derpibooru.org/) - Furry Art
 * [InkBunny](https://inkbunny.net/) - Furry Art
+* [SmutBase](https://smutba.se/) - NSFW 3D Models
 * [Permanent Booru](http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)
 * [mcb3id.onion](http://ik4kzum3ocg6dhx4jhzteko4jzijmxnwsbkcqenf33as3i74i3mcb3id.onion/) 
 * [Flexbooru](https://github.com/flexbooru/flexbooru), [BooruSphere](https://github.com/nullxception/boorusphere), [Yummybooru](https://github.com/Yochyo/Yummybooru) or [Animes Boxes](http://animebox.es/) - Booru Clients / [Telegram](https://t.me/Flexbooru/161)
 * [Rule 34 App](https://r34.app/) - PWA Booru Client
-
+* [Boob Bot](https://www.boobbot.us/), [CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) - Porn Image Downloaders
+  
 ***
 
 ## ▷ AI Generated
@@ -705,6 +747,7 @@
 * [Seduced.ai](https://www.seduced.ai/)
 * [Pornderful](https://pornderful.ai/)
 * [PornAI.tv](https://pornai.tv/)
+* [sexy.ai](https://sexy.ai/)
 * [r/AIpornhub](https://www.reddit.com/r/AIpornhub/) - NSFW AI Subreddit
 
 ***
@@ -717,7 +760,8 @@
 * [PDF Dude](https://pdfdude.com/category/adult/)
 * [Mags Guru](https://www.mags.guru/c/adult/)
 * [adultload](https://adultload.ws/category/magazines/) 
-* [classic-porn](http://classic-porn.cc/) 
+* [classic-porn](http://classic-porn.cc/)
+* [AdultMagazine](https://adultmagazine.net/)
 * [v9k9 Mags](https://redd.it/ouuakm) - Japanese Magazines
 * pdfmagazines.club/adult 
 * pdfmagazines.club/for-men 
@@ -758,20 +802,20 @@
 * [Awesome-Buttplug](https://github.com/buttplugio/awesome-buttplug) - Buttplug Project Index
 * [Buttplug.io](https://buttplug.io/) - Sex Toy Control Software
 * [Thunder's Place](https://thunders.place/) - Penis Enlargement Discussion & Safety
-* [electric.smut](https://nsfwai.com/) or [PornPen](https://pornpen.ai/) - NSFW Image Generators
 * [MoanMyIP](https://www.moanmyip.com/) - Sexy Girls Moaning Your IP
-* [AdultOpenAI](http://adultopenai.pythonanywhere.com/) or [Unhinged](https://www.unhinged.ai/) - NSFW Ai Chatbots
+* [Unhinged](https://www.unhinged.ai/) - NSFW AI Chatbots
 
 ***
 
 # ► NoFap
 
 * ⭐ **[EasyPeasy](https://easypeasymethod.org/)** - Painlessly Quit Pornography
-* [ChadGuard](https://github.com/LaGuerrePiece/ChadGuard), [beta-censoring](https://github.com/silveredgold/beta-censoring), [beta-protection](https://github.com/silveredgold/beta-protection), [Web Cleaner](https://github.com/Web-Cleaner/Web_Cleaner/), [Wingman](https://github.com/wingman-jr-addon/wingman_jr) or [NSFW Filters](https://nsfw-filter.com/) - Porn Blocking Extensions
+* ⭐ **[NoFap Forums](https://forum.nofap.com/index.php)**
+* [beta-censoring](https://github.com/silveredgold/beta-censoring), [beta-protection](https://github.com/silveredgold/beta-protection) or [Wingman](https://github.com/wingman-jr-addon/wingman_jr) - Porn Blocking Extensions
 * [Block Site](https://add0n.com/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs), [TabWave](https://www.tabwave.app/), [Forest](https://pastebin.com/rYuAivA0), [StayFocused](https://www.stayfocusd.com/) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - Site Blockers
 * [Brainbuddy](https://www.brainbuddyapp.com/) - Porn Blocker / Android / iOS
 * [SelfControlApp](https://selfcontrolapp.com/) - Mac Site Blocker
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
 * [cringeMDb](https://cringemdb.com/), [Age Rating JuJu](https://www.ageratingjuju.com/), [CommonSenseMedia](https://www.commonsensemedia.org/) or [unconsenting media](https://www.unconsentingmedia.org) - Find SFW Movies
 * [movie-parser](https://github.com/dynamite-ready/movie-parser) or [practical-ai-autodetecting-nsfw](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies
-* [Puri.fy](https://pury.fi/) or [NSFW-Filter](https://github.com/nsfw-filter/nsfw-filter) - Block NSFW Images
+* [Puri.fy](https://pury.fi/) or [NSFW-Filter](https://nsfw-filter.com/) - Block NSFW Images
