@@ -321,20 +321,21 @@
 * ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
 * ⭐ **[Open Source Linux Programs](https://i.ibb.co/KyTkKHz/ae00a5177857.png)**, [ArchWiki List of Applications](https://wiki.archlinux.org/title/list_of_applications), [Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/), [2](https://github.com/inputsh/awesome-linux), [3](https://github.com/crackerica/Awesome-Linux-Software) or [Awesome KDE](https://github.com/francoism90/awesome-kde)
 * ⭐ **[Kapital Sin](https://kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* [Flathub](https://flathub.org/) - Flatpak Repository
+* [SnapCraft](https://snapcraft.io/store) - Snap Repository
 * [Homebrew](https://brew.sh/), [yay](https://github.com/Jguer/yay) or [NixOS](https://nixos.org/) / [Manager](https://github.com/nix-community/home-manager) - Package Manager
-* [Pacstall](https://pacstall.dev/) - AUR-Inspired Package Manager for Ubuntu
-* [Repology](https://repology.org/) - Package Repository Tracker
-* [AppImageHub](https://www.appimagehub.com/), [Pling](https://www.pling.com/), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download AppImages
+* [AppImageHub](https://www.appimagehub.com/), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download AppImages
 * [AppImagePool](https://github.com/prateekmedia/appimagepool), [Zap](https://github.com/srevinsaju/zap) or [AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) - Appimage Package Managers
-* [Flathub](https://flathub.org/)
-* [SnapCraft](https://snapcraft.io/store)
-* [Linux Apps](https://www.linux-apps.com/)
-* [tlanyan](https://itlanyan.com/)
 * [yay](https://github.com/Jguer/yay), [paru](https://github.com/morganamilo/paru) or [aura](https://github.com/fosskers/aura) - Arch User Repository Helpers
-* [KDE's Applications](https://apps.kde.org/education)
-* [IzzySoft Apt Repositories](https://apt.izzysoft.de/)
-* [Plan9Port](https://github.com/9fans/plan9port)
 * [apps.gnome](https://apps.gnome.org/en-GB/) - GNOME Apps
+* [KDE's Applications](https://apps.kde.org/education) - KDE Apps
+* [IzzySoft Apt Repositories](https://apt.izzysoft.de/)
+* [Repology](https://repology.org/) - Package Repository Tracker
+* [Pling](https://www.pling.com/)
+* [Linux Apps](https://www.linux-apps.com/)
+* [Pacstall](https://pacstall.dev/) - AUR-Inspired Package Manager for Ubuntu
+* [Plan9Port](https://github.com/9fans/plan9port)
+* [tlanyan](https://itlanyan.com/)
 
 ***
 
