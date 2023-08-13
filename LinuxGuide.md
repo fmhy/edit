@@ -319,9 +319,8 @@
 # ► Linux Software
 
 * ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
-* ⭐ **[Open Source Linux Programs](https://i.ibb.co/KyTkKHz/ae00a5177857.png)** or [ArchWiki List of Applications](https://wiki.archlinux.org/title/list_of_applications)
+* ⭐ **[Open Source Linux Programs](https://i.ibb.co/KyTkKHz/ae00a5177857.png)**, [ArchWiki List of Applications](https://wiki.archlinux.org/title/list_of_applications) or [Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/), [2](https://github.com/inputsh/awesome-linux), [3](https://github.com/crackerica/Awesome-Linux-Software)
 * ⭐ **[Kapital Sin](https://kapitalsin.com/)**
-* [Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/), [2](https://github.com/inputsh/awesome-linux), [3](https://github.com/crackerica/Awesome-Linux-Software)
 * [Homebrew](https://brew.sh/), [yay](https://github.com/Jguer/yay) or [NixOS](https://nixos.org/) / [Manager](https://github.com/nix-community/home-manager) - Package Manager
 * [Pacstall](https://pacstall.dev/) - AUR-Inspired Package Manager for Ubuntu
 * [Repology](https://repology.org/) - Package Repository Tracker
