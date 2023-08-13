@@ -331,8 +331,7 @@
 * [KDE Applications](https://apps.kde.org/) - KDE Apps
 * [IzzySoft Apt Repositories](https://apt.izzysoft.de/)
 * [Repology](https://repology.org/) - Package Repository Tracker
-* [Pling](https://www.pling.com/)
-* [Linux Apps](https://www.linux-apps.com/)
+* [Pling](https://www.pling.com/) / [2](https://www.linux-apps.com/) - Linux Apps and Themes
 * [Pacstall](https://pacstall.dev/) - AUR-Inspired Package Manager for Ubuntu
 * [Plan9Port](https://github.com/9fans/plan9port)
 * [tlanyan](https://itlanyan.com/)
