@@ -181,6 +181,7 @@
 * [Experiments with Google](https://labs.withgoogle.com/) - AI Experiments
 * [OpenCV](https://opencv.org/) - A.I. Vision Library
 * [free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - AI Learning Resources
+* [NaNAI.tools] (https://nanai.tools) - AI Directory
 
 ***
 ***
