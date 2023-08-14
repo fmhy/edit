@@ -343,7 +343,6 @@
 * [JustGetMyData](https://justgetmydata.com/) - Links to Obtain Your Data from Websites 
 * [Privacy Score](https://privacyscore.org/) - Website Privacy Score Rankings
 * [LMT Anti-Logger](https://leminhthanh.me/antilogger/) - Anti-Loggers (e.g. Keyloggers)
-* [QFX KeyScrambler](https://github.com/nbats/FMHYedit/blob/main/base64.md#qfx-keyscrambler) - Scramble Keyboard Inputs
 * [logknife](https://github.com/natesales/logknife) - Remove Sensitive Data from Log Files
 * [WhoTracksMe](https://whotracks.me/) or [Trackography](https://trackography.org/) - Site Tracking Info  
 * [YourAdChoices](https://optout.aboutads.info/?c=2&lang=EN) - Check Your Current IBA Status
