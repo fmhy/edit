@@ -429,7 +429,6 @@
 
 * [Voice Changer](https://voicechanger.io/) - Voice Changer
 * [voice-changer](https://www.voice-changer.org/) - Voice Changer
-* [MorphVOX](https://github.com/nbats/FMHYedit/blob/main/base64.md#morphvox) - Voice Changer
 * [RVC-GUI](https://github.com/Tiger14n/RVC-GUI) - Voice Changer
 * [Lyrebird](https://github.com/lyrebird-voice-changer/lyrebird) - Voice Changer
 * [MyVoiceMod](https://myvoicemod.com/) - Voice Changer
