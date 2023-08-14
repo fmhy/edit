@@ -96,6 +96,7 @@
 * ⭐ **[Colorize Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_colorization)** - Image Colorization Tools
 * [FenoPhoto](https://www.fenophoto.com/) or [PhotoRestore](https://www.photorestore.io/) - Image Restoration Tools
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) / [2](https://replicate.com/nightmareai/real-esrgan) - Image Restoration Algorithms
+* [/r/estoration](https://www.reddit.com/r/estoration/) - Photo Restoration Requests
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime Image Colorization
 * [Replicate](https://replicate.com/sczhou/codeformer), [GPEN-Colab](https://github.com/bycloudai/GPEN-colab), [Photo Face Restorer](https://www.restorephotos.io/) or [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Restoration / Colorization Tool
 * [Color-Dragon](https://www.color-dragon.tk/) - Add more Color to Images
@@ -416,7 +417,7 @@
 * ⭐ **[Image to Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_to_text)** - Extract Text from Images
 * ⭐ **[Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes)** - Color Scheme / Palette Tools / [Guide](https://i.ibb.co/cCRn3y1/5eb0a8de7dac.jpg)
 * ⭐ **[Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers)** - Extract Color from Pictures / Webpages
-* ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)** or [VisiPics](http://www.visipics.info/) - Duplicate Image Removers
+* ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)**, [cbird](https://github.com/scrubbbbs/cbird) or [VisiPics](http://www.visipics.info/) - Duplicate Image Removers
 * [Awesome Colab nNotebooks]( https://github.com/amrzv/awesome-colab-notebooks) - Image Colab Tools
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
