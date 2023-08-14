@@ -3306,7 +3306,7 @@
 * [phraseup](https://www.phraseup.com/) - Autocomplete Common Phrases
 * [Text Generator](https://deepai.org/machine-learning-model/text-generator) - Generate Text from Prompt
 * [Lyrist](https://lyrist.app) - Write Lyrics w/ Beats
-* [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) - Lyrics Generators
+* [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) or [Lyricistant](https://lyricistant.app/) - Lyrics Generators
 * [Deep Beat](https://deepbeat.org/) - Rap Lyrics Generator
 * [Random Poem](https://random-poem.com/) - Poem Generator
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
@@ -3411,6 +3411,7 @@
 * ⭐ **[Video Stream Sync](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_stream_sync)** - Video Streaming Sync / Watch Parties
 * ⭐ **[Video Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_editors)** - Video Editing Software & Sites
 * ⭐ **[VFX Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vfx_sites)** - Download Video Effects / [VFX Video Guides](https://www.learnto.day/aftereffects)
+* ⭐ **[EyeCndy](https://eycndy.co/)** - Visual Technique Library
 * ⭐ **[Stock Videos](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_video_sites)** - Free Stock Video Footage
 * ⭐ **[Video Hosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_hosting_sites)** - Upload / Stream Videos 
 * ⭐ **[VideoHelp](https://www.videohelp.com/software)** - Video Software Archive 
@@ -4683,6 +4684,7 @@
 * [RapidTags](https://www.rapidtags.io/) or [YTubeTool](https://ytubetool.com/) - YouTube Tag Generators
 * [ChatReplay](https://chatreplay.stream/) - YouTube Live Stream Chat Replay
 * [LiveTL](https://kentonishi.com/LiveTL/) - YouTube Live Stream Translator
+* [Super Fast Chat](https://greasyfork.org/en/scripts/469878) - YouTube Chat Performance Enhancer
 * [YoutubeLiveChatFlusher](https://github.com/ys-j/YoutubeLiveChatFlusher) - Bullet Chatting (Danmaku) for YouTube Live
 * [You-TLDR](https://www.you-tldr.com/), [Solidpoint](https://solidpoint.ai/), [Eightify](https://eightify.app/) or [VideoHighlight](https://videohighlight.com/) - Summarize YouTube Videos
 * [Youtube Summarizer](https://share.streamlit.io/iamknownstranger/ytsummary/main) - YouTube Transcript Summarizers
@@ -4755,6 +4757,7 @@ Twitch Stream Tracker
 * [/r/Twitter](https://reddit.com/r/Twitter) - Twitter Subreddit
 * [TumblThree](https://github.com/TumblThreeApp/TumblThree) or [Thread Safe](https://github.com/dkaslovsky/thread-safe) - Twitter / Tumbl Backup Tools
 * [Minimal Twitter](https://typefully.com/minimal-twitter) - Minimal Twitter Themes
+* [OldTwitter](https://github.com/dimdenGD/OldTwitter) - Original Twitter Theme
 * [Tweak New Twitter](https://github.com/insin/control-panel-for-twitter) or [twttr](https://github.com/sr2echa/twttr) - Twitter Enhancement Extensions
 * [TweetDeck](https://tweetdeck.twitter.com/) or [Tweeten](https://tweetenapp.com/) - Twitter Dashboard
 * [TweetDuck](https://github.com/chylex/TweetDuck) - Twitter Desktop Client
@@ -4816,6 +4819,7 @@ Twitch Stream Tracker
 ## ▷ Facebook Tools
 
 * ⭐ **[Decentralized Social Networks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_decentralized_social_networks)** - Twitter / Facebook Alternatives
+* ⭐ **[Caprine](https://sindresorhus.com/caprine/)** - Facebook Desktop Messenger / [GitHub](https://github.com/sindresorhus/caprine)
 * [FBPurity](https://www.fbpurity.com/) or [Social Fixer](https://socialfixer.com/) - Facebook Enhancement Extension
 * [Facebook Ad Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook) - Facebook Filters
 * [Social Tools](https://chrome.google.com/webstore/detail/social-tools/llbdoljkknpjgfcnbnoiehjcgancpjmd/related) or [Unseen Message](https://chrome.google.com/webstore/detail/unseen-message/oapcfkclledjbalilncpoimgjgcndhdo) - Block "Sending" & "Seen" Facebook Chat Indicators 
@@ -4824,7 +4828,6 @@ Twitch Stream Tracker
 * [Facedown](http://www.vincentcheung.ca/facedown/) - Facebook Image Downloader
 * [FDown](https://fdown.net/), [GetFVid](https://www.getfvid.com/) or [Facebook DL](https://github.com/sdushantha/facebook-dl) - Facebook Video Downloaders
 * [Story Saver](https://chrome.google.com/webstore/detail/story-saver/mafcolokinicfdmlidhaebadidhdehpk) - Facebook Story Downloader
-* [Caprine](https://sindresorhus.com/caprine/) - Facebook Desktop Messenger / [GitHub](https://github.com/sindresorhus/caprine)
 * [Facebook Matrix](https://plessas.net/facebookmatrix) - Facebook Search Formulas 
 * [Graph.tips](https://graph.tips/beta/) - Advanced Facebook Search Tool
 * [WhoPostedWhat](https://whopostedwhat.com/) - Facebook Post Search
@@ -7491,6 +7494,7 @@ Filter list for adblockers with sites from this thread.
 * ⭐ **[Colorize Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_colorization)** - Image Colorization Tools
 * [FenoPhoto](https://www.fenophoto.com/) or [PhotoRestore](https://www.photorestore.io/) - Image Restoration Tools
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) / [2](https://replicate.com/nightmareai/real-esrgan) - Image Restoration Algorithms
+* [/r/estoration](https://www.reddit.com/r/estoration/) - Photo Restoration Requests
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime Image Colorization
 * [Replicate](https://replicate.com/sczhou/codeformer), [GPEN-Colab](https://github.com/bycloudai/GPEN-colab), [Photo Face Restorer](https://www.restorephotos.io/) or [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Restoration / Colorization Tool
 * [Color-Dragon](https://www.color-dragon.tk/) - Add more Color to Images
@@ -7811,7 +7815,7 @@ Filter list for adblockers with sites from this thread.
 * ⭐ **[Image to Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_to_text)** - Extract Text from Images
 * ⭐ **[Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes)** - Color Scheme / Palette Tools / [Guide](https://i.ibb.co/cCRn3y1/5eb0a8de7dac.jpg)
 * ⭐ **[Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers)** - Extract Color from Pictures / Webpages
-* ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)** or [VisiPics](http://www.visipics.info/) - Duplicate Image Removers
+* ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)**, [cbird](https://github.com/scrubbbbs/cbird) or [VisiPics](http://www.visipics.info/) - Duplicate Image Removers
 * [Awesome Colab nNotebooks]( https://github.com/amrzv/awesome-colab-notebooks) - Image Colab Tools
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
@@ -8990,6 +8994,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ## ▷ Single Server
 
+* ⭐ **[The Movie Archive](https://themoviearchive.site/)** - Movies / 4K / 1080p 
 * ⭐ **[Ask4Movies](https://ask4movie.nl/)** - Movies / TV / 1080p / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
 * ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / 1080p / Invite Code: mpgh or 1hack
 * ⭐ **[C1NE](https://c1ne.co/)** - Movies / TV / 1080p / [Discord](https://discord.gg/nXUP8TxNSR)
@@ -9003,6 +9008,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [LookMovie](https://lookmovie2.to/) - Movies / TV / 720p / [Mirrors](https://proxymirrorlookmovie.github.io/)
 * [Tubi](https://tubitv.com) - Movies / TV / 720p / Use Adblock / [Downloader](https://github.com/warren-bank/node-hls-downloader-tubitv)
 * [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime / 1080p
+* [MovieScene](https://moviescene.cc/) - Movies / 1080p
 * [UltraMovies](https://ultramovies.net/) - Movies / TV / 1080p
 * [UniqueStream](https://uniquestream.net/) - Movies / TV / 1080p
 * [English Movies](https://m.vk.com/english_movies) - Movies / 1080p
@@ -9470,8 +9476,8 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 ***
 
 * ⭐ **[Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr)** / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578)
-* ⭐ **[OlaMovies](https://olamovies.sbs/)** - Movies / TV / 4K / 1080p / [Telegram](https://t.me/olamovies_official_v3)
-* ⭐ **[Pahe](https://pahe.li/)** - Movies / TV / Anime / 4K / [Discord](https://discord.gg/4AvaCsd2J4) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper) / [Redirect Buttons](https://greasyfork.org/en/scripts/443277)
+* ⭐ **[OlaMovies](https://olamovies.pics/)** - Movies / TV / 4K / 1080p / [Telegram](https://t.me/olamovies_official_v3)
+* ⭐ **[Pahe](https://pahe.li/)** - Movies / TV / Anime / 4K / [Discord](https://discord.gg/4AvaCsd2J4) / [Telegram](https://t.me/ppaahhee) / [Scrape](https://github.com/roofman2008/Pahe.ph-Scraper) / [Redirect Buttons](https://greasyfork.org/en/scripts/443277)
 * ⭐ **[PSARips](https://psa.wf/)** - Movies / TV / 4K / [Scrape](https://github.com/NandiyaLive/PSALinkGrabber)
 * ⭐ **[DDLBase](https://ddlbase.net/)** - Movies / TV / 4K
 * ⭐ **[Worlds Cinema](http://worldscinema.org/)** - Classic / Cult Films / 1080p
@@ -9491,7 +9497,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [FilmDuty](https://filmduty.com/) - Movies / TV / Anime / 1080p
 * [Reqzone](https://reqzone.com/) - Movies / TV / 1080p
 * [MegaDDL](https://megaddl.co/) - Movies / TV / 1080p / Some Paywalled
-* [UHDMovies](https://uhdmovies.ink/) - Movies / 4K
+* [UHDMovies](https://uhdmovies.actor/) - Movies / 4K
 * [Best-Movies](https://best-movies.info/) - Movies / TV / 4K
 * [Onkyo4k](https://onkyo4k.com/) - Movies / TV / 4K
 * [ShareSpark](https://ww1.sharespark.cfd/) - Movies / TV / 1080p
@@ -9499,37 +9505,35 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Free Movies](https://free-movies.to/) - Movies / TV / 1080p
 * [MovieExplit](https://moviexplit.pw/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/moviexplit)
 * [SomosMovies](https://somosmovies.com/) - Movies / 1080p
-* [Best HD Movies](https://besthdmovies.hair/) - Movies / 1080p
+* [Best HD Movies](https://besthdmovies.boutique/) - Movies / 1080p
 * [MovieSeriesTV](https://www.movieseriestv.net/) - Movies / TV / 1080p
 * [SeriesVault](https://seriesvault.tk/), [2](https://seriesvault.win/) - TV / Anime / 1080p
 * [MoviezAddiction](https://45.143.223.244/) - Movies / TV / 4K / [Telegram](https://tttttt.me/moviezaddiction4//)
 * [FilmFans](https://filmfans.org/) - Movies / 4K
 * [ShowBox](https://www.showbox.media/) - Movies / TV / 4K / [How-to](https://rentry.co/febbox)
-* [WorldFree4u](https://worldfree4u.gay/) - Movies / 1080p
-* [SSR Movies](https://www.ssrmovies.tools/) - Movies / TV / 1080p / [Telegram](https://t.me/SSRmovies2022)
+* [WorldFree4u](https://worldfree4u.hair/) - Movies / 1080p
+* [SSR Movies](https://www.ssrmovies.estate/) - Movies / TV / 1080p / [Telegram](https://t.me/SSRmovies2022)
 * [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV / 1080p
-* [MovieLegacy](https://movieslegacy.site/) - Movies / 4K
 * [SeriezLoaded NG](https://www.seriezloaded.com.ng/) - Movies / TV / 1080p
 * [ShareMania](https://sharemania.us/) - Movies / TV / 4K
-* [GdriveMovies](https://gdrivemovies.xyz/) - Movies / 4K
+* [GdriveMovies](https://gdrivemovies.xyz/) - Movies / 4K / [Telegram](https://t.me/+VJeqrXLHsHsg8JzI)
 * [TinyDL](https://tinydl.org/) - Movies / TV / 1080p
 * [TwitchDL](https://dl2.twitchdl.us/) - Movies / TV / Anime / 1080p
-* [Privatemoviez](https://privatemoviez.cloud/) - Movies / TV / 1080p
+* [Privatemoviez](https://privatemoviez.skin/) - Movies / TV / 1080p
 * [Nollyverse](https://www.nollyverse.com/) - Movies / TV / 1080p
 * [FilmGo](https://www.filmgo.live/) - Movies / TV / 720p
 * [FZMovies](https://fzmovies.host/) - Movies / 720p
 * [YourSerie](https://www.yourserie.com/) - Movies / TV / 720p
 * [SeriesWay](https://seriesway.com/) - Movies / TV / 720p
 * [TV Shows](https://tvshows.me/) - TV / 720p
-* [TVShows.today](https://tvshows.me/) - TV / 720p
 * [TVSBoy](https://tvsboy.com/) - TV / 720p
-* [nKiri](https://nkiri.com/) - Movies / TV / 720p
+* [nKiri](https://nkiri.com/) - Movies / TV / 720p / [Telegram](https://t.me/nkiridotcomchannel)
 * [TodayTVSeries](http://www.todaytvseries2.com/) - TV / 720p
 * [MobileTVShows](https://www.mobiletvshows.net/) - TV / Anime / 480p
 * [TvShows4Mobile](https://tvshows4mobile.com/) - TV / Anime / 480p / [Telegram](https://t.me/o2tvseries_official)
 * [NetNaija](https://netnaija.xyz/) - Movies / 480p
 * [FZMoviesz](https://fzmoviesz.com/) - Movies / TV / 480p
-* [weeFilm](https://www.weefilm.live/) - Movies / TV / Anime / 480p
+* [weeFilm](https://www.weefilm.live/) - Movies / TV / Anime / 480p / [Telegram](https://t.me/cribtvchannel)
 * [Naijavault](https://www.naijavault.com/) - Movies / TV / 480p
 * [KimoiTV](https://www.kimoitv.com/) - Movies / TV / Anime / 360p
 * [Cartoons Raw](https://sites.google.com/view/cartoonraws-disney/home) - Cartoons
@@ -9550,6 +9554,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ## ▷ Drives / Directories 
 
+* ⭐ **[Dhokla](http://dhokla.net/)** - Movies / TV / Anime / [Discord](https://discord.gg/QtAwpdFKU5)
 * ⭐ **[50TB](https://github.com/nbats/FMHYedit/blob/main/base64.md#50tb-mega-drive)** - Movies
 * ⭐ **[Rek's Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#reks-drive)** - Movies / Anime
 * [Telegram Video Download](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_video_download)
@@ -12010,7 +12015,7 @@ Software
 * [RedditOldResponsive](https://git.kaki87.net/KaKi87/userscripts/src/branch/master/redditOldResponsive) - Old Reddit Script
 * [Updoot](https://updoot.app/) - Reddit Saved Post / Comment Manager
 * [BlueClover](https://github.com/nnuudev/BlueClover), [MobiChan](https://github.com/Rukkaitto/mobichan), [Kuroba](https://github.com/K1rakishou/Kuroba-Experimental) / [2](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4Chan Apps
-* [Jerboa](https://github.com/dessalines/jerboa), [Infinity](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients
+* [Jerboa](https://github.com/dessalines/jerboa), [LiftOff](https://github.com/liftoff-app/liftoff), [Infinity](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients
 * [Uploadgram App](https://github.com/Uploadgram/app) - Uploadgram Frontend
 * [Instander](https://thedise.me/instander/) - Modded Instagram Client / [Telegram](https://t.me/instander) / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android) / [Secrets](https://ngl.link/) 
 * [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) or [LC_Reborn](https://t.me/s/Facebook_LC_Reborn) - Facebook Clients
@@ -12122,6 +12127,7 @@ Software
 * [Candybar](https://github.com/zixpo/candybar) or [Iconify](https://github.com/Mahmud0808/Iconify) - Custom App Icons
 * [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons) - App Themed Icons
 * [Arcticons](https://arcticons.onnno.nl/) - Monotone Icon Pack
+* [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon&hl=en_IN&gl=US) - Make Icons Bigger
 * [IconRequest](https://github.com/Kaiserdragon2/IconRequest) - Find Missing Icons
 * [TabletFriend](https://github.com/Martenfur/TabletFriend) - Custom Tablet Toolbars
 
@@ -12951,7 +12957,7 @@ Software
 ***
 ***
 
-**[Table of Contents](https://ibb.co/JC7Vpqw)** - For mobile users
+**[Table of Contents](https://ibb.co/qdKwYnf)** - For mobile users
 
 ***
 ***
@@ -13270,6 +13276,7 @@ Software
 # ► Czech
 
 * [Seznam](https://www.seznam.cz/), [Atlas](https://searchatlas.centrum.cz/) or [Centrum](https://search.centrum.cz/) - Search Engines
+* [CSFD](https://www.csfd.cz/) - Czech Film Database
 
 ## ▷ Downloading
 
@@ -14457,13 +14464,20 @@ Software
 
 # ► Slovak
 
-* [Najdi.si](https://www.najdi.si/) - Search
+* [SKCinema](http://www.skcinema.sk/arl-sfu/cs/index/) - Slovak Film Database
 
 ## ▷ Streaming
 
 * [jOj Archive](https://www.joj.sk/archiv) - Movies / TV
 * [Markiza](https://www.markiza.sk/) - Movies / TV
 * [rtvs](https://www.rtvs.sk/televizia/archiv) - TV
+
+***
+
+# ► Slovene 
+
+* [Najdi.si](https://www.najdi.si/) - Search
+* [BSF](https://bsf.si/) - Slovene Film Database
 
 ***
 
@@ -14797,6 +14811,7 @@ Software
 
 * [CocCoc](https://coccoc.com/search) - Search
 * [Speedtest](https://speedtest.vn/), [SCTV](http://speedtest.sctv.com.vn/), [Vinahost](https://speedtest.vinahost.vn/) - Internet Speed Test
+* [Baomoi](https://baomoi.com/) - News Aggregator / [Mobile](https://play.google.com/store/apps/details?id=com.epi&hl=en_US)
 * [BizTime](https://biztime.com.vn/), [HahaLolo](https://www.hahalolo.com/) or [Lotus](https://lotus.vn/) - Social Network
 * [Forumvi](https://www.forumvi.com/) - Create a Forum
 * [SapTet](https://www.saptet.com/) - New Year Countdown
@@ -15693,6 +15708,7 @@ Software
 * [RT News](https://t.me/rtnews) - Russian News
 * [SciURLs](https://sciurls.com/), [NewScientist](https://www.newscientist.com/), [Nature.com](https://www.nature.com/), [Science.org](https://www.science.org/), [PopSci](https://www.popsci.com/), [Useful Science](https://usefulscience.org/), [ScienceDaily](https://www.sciencedaily.com/), [EurekAlert](https://www.eurekalert.org/) or [LiveScience](https://livescience.com/) - Science News
 * [MathURLs](https://mathurls.com/) - Math News
+* [Dailynous](https://dailynous.com/) - Philosophy News
 * [DevURLs](https://devurls.com/) - Developer News
 * [TuxURLs](https://tuxurls.com/) - Linux News
 * [The Base Rate Times](https://www.baseratetimes.com/) - Market Prediction News
@@ -18209,6 +18225,7 @@ Simulator
 **Online Audio Editors**
 
 * ⭐ **[Audioalter](https://audioalter.com/)**
+* ⭐ **[WavaCity](https://wavacity.com/)**
 
 [AudioStudio](https://www.redcoolmedia.net/web-browser-extension-utilities/audio-editor-audiostudio-chrome-firefox-extension), [Audiotool](https://www.audiotool.com/), [Soundtrap](https://www.soundtrap.com/), [BeepBox](https://www.beepbox.co/), [Efflux](https://www.igorski.nl/application/efflux/), [TwistedWave](https://twistedwave.com/online), [AudioToolSet](https://audiotoolset.com/), [Online Tone Generator](https://onlinetonegenerator.com/), [afreestudio](https://www.afreestudio.com/), [Safeaudiokit](https://safeaudiokit.com/), [Soundation](https://soundation.com/studio-tools)
 
@@ -20131,7 +20148,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Raddle](https://raddle.me/)** / [onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/)
 * ⭐ **[Saidit](https://saidit.net/)**
 
-[/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives), [postmill](https://postmill.xyz/), [Sqwok](https://sqwok.im/), [kddit](http://kddit.kallist4mcluuxbjnr5p2asdlmdhaos3pcrvhk3fbzmiiiftwg6zncid.onion/), [tildes](https://tildes.net/), [talk](https://www.talk.lol/), [communities](https://communities.win/), [FlingUp](https://flingup.com/), [Upvote](https://upvo.to/), [Hexbear](https://www.hexbear.net/)
+[/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives), [postmill](https://postmill.xyz/), [Sqwok](https://sqwok.im/), [kddit](http://kddit.kallist4mcluuxbjnr5p2asdlmdhaos3pcrvhk3fbzmiiiftwg6zncid.onion/), [tildes](https://tildes.net/), [talk](https://www.talk.lol/), [communities](https://communities.win/), [FlingUp](https://flingup.com/), [Upvote](https://upvo.to/), [Hexbear](https://www.hexbear.net/), [Squabblr](https://squabblr.co/)
 
 ***
 
@@ -20499,7 +20516,6 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[bypass.city](https://bypass.city/)** / [Discord](https://discord.com/invite/uMEtrpRvAf)
 * ⭐ **[Link Bypasser](https://github.com/TheCaduceus/Link-Bypasser)** / [TG Bot](https://t.me/drlinkbot) / [2](https://github.com/TheCaduceus/Link-Bypasser-Bot)
 * ⭐ **[bypass.vip](https://bypass.vip/)**
-* ⭐ **[Bypass FileCrypt](https://greasyfork.org/en/scripts/403170)** - View Original FileCrypt Links
 
 [AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser), [skip-redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/) / [Chrome](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon), [krnl-and-linkvertise-bypasser](https://greasyfork.org/en/scripts/427869-krnl-and-linkvertise-bypasser), [Linkvertise-Bypasser](https://github.com/venaxyt/Linkvertise-Bypasser), [Linkvertise-Bypass](https://github.com/Lufzys/Linkvertise-Bypass), [TheBypasser](https://thebypasser.com/), [Bypass-Links](https://github.com/amitsingh-007/bypass-links), [Auto link bypasser](https://chrome.google.com/webstore/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh), [Bypasser](https://yuumari.com/bypass/), [short link to direct link](https://t.me/ATBYPASSBOT), [UploadHEaven](https://greasyfork.org/en/scripts/442019), [Bypasser Online](https://bypasser.online/)
 
