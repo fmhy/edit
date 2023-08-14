@@ -563,7 +563,6 @@
 
 # ► Mac Software
 
-* ⭐ **[FileCR](https://filecr.com/macos/)**
 * [Macintosh Garden](http://macintoshgarden.org/)
 * [nMac](https://nmac.to/)
 * [MacBed](https://www.macbed.com/)
