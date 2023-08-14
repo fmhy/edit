@@ -11,13 +11,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * https://github.com/nbats/FMHYedit/blob/main/base64.md
 * https://notabug.org/nbatman/freemediaheckyeah/wiki/base64
 * https://rentry.co/FMHYBase64
-
-***
-
-#### QFX KeyScrambler
-
-`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9UUZY`
-
+* 
 ***
 
 #### 50TB Mega Drive
@@ -549,18 +543,6 @@ pass: paluch
 
 *** 
 
-#### MorphVOX
-
-`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9TW9ycGhWT1grUHJv`
-
-*** 
-
-#### WindowFX Premium
-
-`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9V2luZG93Rlg=`
-
-*** 
-
 #### Safari Windows
 
 `aHR0cHM6Ly9tZWdhLm56L2ZpbGUvenFvRVdaYVEjcU5BTjhKblZfNzlnSUk0b2ZNczRad01BY3lkWkFRdzZHZG5nX1FFeU5Edw==`
@@ -591,33 +573,9 @@ pass: paluch
 
 *** 
 
-#### Dark Reader
-
-`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9ZGFyaytyZWFkZXI=`
-
-*** 
-
 #### Font Collections
 
 `aHR0cHM6Ly9tZWdhLm56L2ZpbGUvUVVOQVNJUVojUkRSQS1RMGJWcmNhdzVpN2NoSlhES1lzU20xbWpvN0l4SVZTcU5mM2VkSQpodHRwczovL21lZ2EubnovZm9sZGVyL3d6WUZpWUpRI1FHem9oTGl2dzFhaGRFeHBzMWNRV0EKaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8wQjdPTkVBRVh3UGFxYzJnNFVFZHpibVpFVEc4L2VkaXQ/cmVzb3VyY2VrZXk9MC1ZazM2b01ON3U5M1BzdDF4bjVfejhBCmh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzFhSlZLc2xLMHZfa0t4dkVkNUtWM0tTQ2ZZMGVwWE56MD91c3A9c2hhcmluZwpodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZmlsZS9kLzF4N29oNzltMW9vajlCblB4RW54RWdaWTM5UlZjWHBsZS92aWV3P3VzcD1zaGFyaW5nCmh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9kcml2ZS9mb2xkZXJzLzFhSlZLc2xLMHZfa0t4dkVkNUtWM0tTQ2ZZMGVwWE56MApodHRwczovL2RyaXZlLmdvb2dsZS5jb20vZmlsZS9kLzBCN0lvVmFHVU1EVnNlRnB2UTNOS1RsTnlkbWMvdmlldz9yZXNvdXJjZWtleT0wLTdpQ2dpT25YeEJ0aWxZMHRKMk5pa2cKaHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWhQVjRvOGZteFkyQWI5dFhpODRsMHZWT1VRRWdGSWJV`
-
-*** 
-
-#### BuzzKill
-
-`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9YnV6emtpbGw=`
-
-*** 
-
-#### Dumpster
-
-`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9RHVtcHN0ZXI=`
-
-*** 
-
-#### SmartLauncher Pro
-
-`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9c21hcnQrbGF1bmNoZXI=`
 
 *** 
 
@@ -741,18 +699,6 @@ pass: paluch
 
 ***
 
-#### Dropzone
-
-`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9ZHJvcHpvbmU=`
-
-***
-
-#### PDF Expert
-
-`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9cGRmK2V4cGVydA==`
-
-***
-
 #### Free Cloud Linux Server
 
 `aHR0cHM6Ly9yZW50cnkuY28vNHN4NjQ=`
@@ -837,12 +783,6 @@ pass: paluch
 
 ***
 
-#### Hitman Pro
-
-`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9aGl0bWFucHJv`
-
-***
-
 #### /u/BitterApple69 Plugins
 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXZnQkNMZlNGbkhtQnpVRlB6b2cwd1ZkemlBRUFkaTBw`
@@ -852,18 +792,6 @@ pass: paluch
 #### Envato Elements Collection
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9qM29FV2E2USNwLW1haW1oNVc0V0ZXT0x3VFZ3MEZnL2ZvbGRlci96cXhTMEtUWQ==`
-
-***
-
-#### IDM
-
-`aHR0cHM6Ly9naXRodWIuY29tL1dpbmRvd3NBZGRpY3QvSURNLUFjdGl2YXRpb24tU2NyaXB0Cmh0dHBzOi8vcmVudHJ5Lm9yZy9JRE0KaHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9SW50ZXJuZXQrRG93bmxvYWQrTWFuYWdlcg==`
-
-***
-
-#### StellarInfo
-
-`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9U3RlbGxhcitEYXRhK1JlY292ZXJ5`
 
 ***
 
@@ -879,27 +807,9 @@ pass: paluch
 
 ***
 
-#### GigaPixel
-
-`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaD9xdWVyeT1Ub3BheiUyMEdpZ2FwaXhlbA==`
-
-***
-
 #### Microsoft Office DL Guides
 
 `aHR0cHM6Ly9yZW50cnkuY28vb2ZmaWNlLWd1aWRlCgpodHRwczovL3JlbnRyeS5vcmcvb2ZmaWNlZ3VpZGVmb3Jub29icwoKaHR0cHM6Ly9yZW50cnkub3JnL0NMRUFOLUlOU1RBTEwtTUlDUk9TT0ZULU9GRklDRQ==`
-
-***
-
-#### Acrobat Pro
-
-`aHR0cHM6Ly93MTQubW9ua3J1cy53cy9zZWFyY2gvbGFiZWwvQWNyb2JhdApodHRwczovL2ZpbGVjci5jb20vc2VhcmNoLz9xdWVyeT1BZG9iZStBY3JvYmF0K1BSTytEQw==`
-
-***
-
-#### Bandicam
-
-`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9YmFuZGljYW0=`
 
 ***
 
@@ -1023,12 +933,6 @@ pass: paluch
 
 ***
 
-#### Universal Copy
-
-`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9VW5pdmVyc2FsK0NvcHk=`
-
-***
-
 #### Perfect Viewer
 
 `aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1wZXJmZWN0K3ZpZXdlciZ0ZXJtcz1hbGwmYXV0aG9yPSZzYz0xJnNmPXRpdGxlb25seSZzcj10b3BpY3Mmc2s9dCZzZD1kJnN0PTAmY2g9MzAwJnQ9MCZzdWJtaXQ9U2VhcmNo`
@@ -1047,21 +951,9 @@ pass: paluch
 
 ***
 
-#### Tower
-
-`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9dG93ZXIrZ2l0`
-
-***
-
 #### r/moviegod
 
 `aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL2E6dDVfZ2pnODcvdG9wLz90PWFsbCAKaHR0cHM6Ly9wYXN0ZWJpbi5jb20vS0NNbVdXTEY=`
-
-***
-
-#### Burp
-
-`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9YnVycA==`
 
 ***
 
@@ -1122,12 +1014,6 @@ pass: paluch
 #### Producer Plug Sheet
 
 `aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvMXljbjZHNmhpLS04OS0xZUVJQmJsMkxnbTRuSHozT055NUJJNFJJSWdkcUkv`
-
-***
-
-#### Win 10 ROG
-
-`aHR0cHM6Ly9maWxlY3IuY29tL3NlYXJjaC8/cXVlcnk9d2luZG93cysxMCtyb2c=`
 
 ***
 
