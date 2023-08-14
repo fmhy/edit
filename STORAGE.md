@@ -172,7 +172,7 @@
 
 * ⭐ **[Malwarebytes Premium](https://github.com/fmhy/FMHYedit/blob/main/base64.md#malwarebytes-prem)** / [Unlimited Trials](https://rentry.co/mbforever)
 
-[Hitman Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#hitman-pro), [Adaware Antivirus](https://www.adaware.com/free-antivirus-download), [Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/), [Immunet](https://www.immunet.com), [EsetKeyRobot](https://t.me/EsetKeyRobot), [ClamAV](https://www.clamav.net/)
+[Adaware Antivirus](https://www.adaware.com/free-antivirus-download), [Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/), [Immunet](https://www.immunet.com), [EsetKeyRobot](https://t.me/EsetKeyRobot), [ClamAV](https://www.clamav.net/)
 
 ***
 
@@ -180,7 +180,7 @@
 
 * ⭐ **[Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher&hl=en&gl=US)**
 * ⭐ **[Lawnchair](https://lawnchair.app/)** - [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) / [Lawnfeed](https://github.com/LawnchairLauncher/lawnfeed)
-* ⭐ **[Smart Launcher](https://www.smartlauncher.net/)** - [Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#smartlauncher-pro)
+* ⭐ **[Smart Launcher](https://www.smartlauncher.net/)** 
 * ⭐ **[Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers)** - Launcher Quick Switch
 
 [Neo Launcher](https://github.com/NeoApplications/Neo-Launcher), [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher), [Olauncher](https://github.com/OlauncherCF/OlauncherCF), [Unlauncher](https://github.com/jkuester/unlauncher), [Ratio](https://blloc.com/), [Edge Card Launcher](https://play.google.com/store/apps/details?id=com.reactivstudios.android.edge4), [Stario Launcher](https://play.google.com/store/apps/details?id=com.stario.launcher), [Discreet Launcher](https://github.com/falzonv/discreet-launcher), [Taskbar](https://play.google.com/store/apps/details?id=com.farmerbb.taskbar), [Kvaesitso](https://kvaesitso.mm20.de/), [Inure App Manager](https://github.com/Hamza417/Inure), [KISS launcher](https://kisslauncher.com/), [Lynx Launcher](https://www.lynxlauncher.de/), [Slim launcher](https://github.com/sduduzog/slim-launcher), [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher), [Nova Launcher](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/), [Skit](https://play.google.com/store/apps/details?id=com.pavelrekun.skit), [Lunar Launcher](https://github.com/iamrasel/lunar-launcher)
@@ -864,7 +864,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### File Download Managers
 
 * ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** / [Dark Theme](https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme/), [2](https://redd.it/q3xrgj), [3](https://draculatheme.com/jdownloader2) / [Debloat](https://rentry.org/jdownloader2), [2](https://rentry.org/jdownloader2opt) / [Captcha Solver](https://github.com/cracker0dks/CaptchaSolver)
-* ⭐ **[IDM](https://github.com/nbats/FMHYedit/blob/main/base64.md#idm)** / [IDMHelper](https://github.com/rip1s/IDMHelper) / [Trial Reset](https://github.com/J2TEAM/idm-trial-reset)
 * ⭐ **[XDM](https://xtremedownloadmanager.com/)**, [2](https://github.com/subhra74/xdm)
 * [Motrix](https://www.motrix.app/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/motrixwebextension/) / [Chrome](https://github.com/gautamkrishnar/motrix-webextension/) / [GitHub](https://github.com/agalwood/Motrix)
 * [pyLoad](https://pyload.net/)
@@ -896,7 +895,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### File Recovery Tools
 
-[R-Undelete](https://www.r-undelete.com/Download.shtml), [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec), [StellarInfo](https://github.com/nbats/FMHYedit/blob/main/base64.md#stellarinfo), [Windows File Recovery](https://apps.microsoft.com/store/detail/windows-file-recovery/9N26S50LN705), [DMDE](https://dmde.com/download.html), [Recuva](https://www.ccleaner.com/recuva), [TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Download)
+[R-Undelete](https://www.r-undelete.com/Download.shtml), [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec), [Windows File Recovery](https://apps.microsoft.com/store/detail/windows-file-recovery/9N26S50LN705), [DMDE](https://dmde.com/download.html), [Recuva](https://www.ccleaner.com/recuva), [TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Download)
 
 ***
 
@@ -1188,7 +1187,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)**
 * ⭐ **[Upscale Wiki](https://upscale.wiki/wiki/Main_Page)** - Image Upscaling Wiki
 
-[Waifu2x](https://github.com/nagadomi/waifu2x), [Upscayl](https://github.com/upscayl/upscayl), [GigaPixel](https://github.com/nbats/FMHYedit/blob/main/base64.md#gigapixel), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [Upscaler Stockphotos](https://upscaler.stockphotos.com/), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/), [Upscale Media](https://www.upscale.media/), [Zyro Upscaler](https://zyro.com/tools/image-upscaler), [Nicescaler](https://github.com/Djdefrag/NiceScaler), [DFDNet](https://github.com/csxmli2016/DFDNet), [Nero AI](https://ai.nero.com/image-upscaler), [SDUpscale](https://rentry.org/sdupscale), [JPEG Quantsmooth](https://github.com/ilyakurdyukov/jpeg-quantsmooth), [imgupscaler](https://imgupscaler.com/), [torch-srgan](https://deepai.org/machine-learning-model/torch-srgan), [ultimate-upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111), [multidiffusion-upscaler](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
+[Waifu2x](https://github.com/nagadomi/waifu2x), [Upscayl](https://github.com/upscayl/upscayl), [upscaler](https://icons8.com/upscaler), [Bigjpg](https://bigjpg.com/), [Crunch](https://github.com/chrissimpkins/Crunch), [PNG-Upscale](https://github.com/Araxeus/PNG-Upscale), [Cupscale](https://github.com/n00mkrad/cupscale), [Upscaler Stockphotos](https://upscaler.stockphotos.com/), [ImageUpscaler](https://imageupscaler.com/) / [2](https://image-upscaler.beatsnoop.com/), [Upscale Media](https://www.upscale.media/), [Zyro Upscaler](https://zyro.com/tools/image-upscaler), [Nicescaler](https://github.com/Djdefrag/NiceScaler), [DFDNet](https://github.com/csxmli2016/DFDNet), [Nero AI](https://ai.nero.com/image-upscaler), [SDUpscale](https://rentry.org/sdupscale), [JPEG Quantsmooth](https://github.com/ilyakurdyukov/jpeg-quantsmooth), [imgupscaler](https://imgupscaler.com/), [torch-srgan](https://deepai.org/machine-learning-model/torch-srgan), [ultimate-upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111), [multidiffusion-upscaler](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
 
 **Waifu2x Tools**
 
@@ -1826,8 +1825,6 @@ Add the following commands to a search to manually scrape each site.
 
 **Programs**
 
-⭐ **[Acrobat Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#acrobat-pro)** / [Guide](https://rentry.co/adobesoftware)
-
 [xPDFReader](http://www.xpdfreader.com/), [PDFBox](https://pdfbox.apache.org/), [PDFescape](https://www.pdfescape.com/), [OpenPDF](https://github.com/LibrePDF/OpenPDF), [PDFedit](http://pdfedit.cz/en/index.html), [PDFSam](https://pdfsam.org/), [PDFCore](https://www.pdfcore.com/), [PDFEraser](https://www.pdferaser.net/), [PDFShaper](https://www.pdfshaper.com/), [PoDoFo](https://github.com/podofo/podofo), [pdftkb](http://www.angusj.com/pdftkb/), [pdf-analyzer](https://pdf-analyzer.com/mdownloads.html), [PDF Forge](https://www.pdfforge.org/), [PDFInsider](https://pdfinsider.com/), [PDFChef](https://pdfchef.com/online-pdf-tools.html), [Didier Stevens PDF Tools](https://blog.didierstevens.com/programs/pdf-tools/) (CLI)
 
 ***
@@ -2231,7 +2228,7 @@ Add the following commands to a search to manually scrape each site.
 
 ⭐ **[OBS](https://obsproject.com/)** / [Guide](https://youtu.be/7fuFGDFDzUY)
 
-[Bandicam](https://github.com/nbats/FMHYedit/blob/main/base64.md#bandicam), [FFmpeg](https://ffmpeg.org/), [Nchsoftware](https://www.nchsoftware.com/capture/), [RecordMyDesktop](https://enselic.github.io/recordmydesktop/), [SRERecorder](https://srecorder.com/), [CamStudio](https://camstudio.org/), [Kap](https://getkap.co/), [oCam](https://ohsoft.net/eng/ocam/download.php?cate=1002), [WebMCam](https://github.com/michaelmob/WebMCam), [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/), [Kalmuri](https://global.kilho.net/kalmuri/), [Wink](https://www.debugmode.com/wink/), [Vileo](https://lukasbach.github.io/vileo/), [Shar.ec](https://shar.ec/), [Scre.io](https://scre.io/), [Screen Recorder](https://github.com/akon47/ScreenRecorder), [ScreenREC](https://screen-rec.vercel.app/), [RecordCast](https://www.recordcast.com/), [RecordScreen](https://recordscreen.io/), [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG), [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder), [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/)
+[FFmpeg](https://ffmpeg.org/), [Nchsoftware](https://www.nchsoftware.com/capture/), [RecordMyDesktop](https://enselic.github.io/recordmydesktop/), [SRERecorder](https://srecorder.com/), [CamStudio](https://camstudio.org/), [Kap](https://getkap.co/), [oCam](https://ohsoft.net/eng/ocam/download.php?cate=1002), [WebMCam](https://github.com/michaelmob/WebMCam), [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/), [Kalmuri](https://global.kilho.net/kalmuri/), [Wink](https://www.debugmode.com/wink/), [Vileo](https://lukasbach.github.io/vileo/), [Shar.ec](https://shar.ec/), [Scre.io](https://scre.io/), [Screen Recorder](https://github.com/akon47/ScreenRecorder), [ScreenREC](https://screen-rec.vercel.app/), [RecordCast](https://www.recordcast.com/), [RecordScreen](https://recordscreen.io/), [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG), [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder), [Google Screen Recorder](https://toolbox.googleapps.com/apps/screen_recorder/)
 
 **Browser Extensions**
 
@@ -3352,7 +3349,6 @@ Add the following commands to a search to manually scrape each site.
 * [ggOS](https://discord.gg/A5BHSQV) - Custom Windows 10 20H2
 * [Windows Sun Valley](https://archive.org/details/windows-sv-pro-v-1) - Custom Windows 10 21H1
 * [Ghost Spectre](https://youtube.com/playlist?list=PLLP5vMyczsRwwyDQQBRJQfQtxozNkEWwk) - Custom Windows 10
-* [ROG](https://github.com/nbats/FMHYedit/blob/main/base64.md#win-10-rog) - Custom Windows 10
 * [RekOS](https://discord.com/invite/YNFFN4W52y) - Custom Windows 10
 * [KernelOS](https://discord.gg/GYmNPtfwfs)  - Custom Windows 10
 * [TheWorldofPC](https://nexusliteos.blogspot.com/)  - Custom Windows 10
