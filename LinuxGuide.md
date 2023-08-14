@@ -90,7 +90,7 @@
 * [coreboot](https://coreboot.org/) or [Libreboot](https://libreboot.org/) - Replace Proprietary BIOS/UEFI Firmware 
 * [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
 * [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux Open GPU Kernel Module
-* [nosystemd](https://nosystemd.org/) - Reasons Why Systemd is Disliked
+* [nosystemd](https://nosystemd.org/) - Alternatives to Systemd
 
 ***
 
@@ -319,27 +319,22 @@
 # ► Linux Software
 
 * ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
-* ⭐ **[Open Source Linux Programs](https://i.ibb.co/KyTkKHz/ae00a5177857.png)**
-* ⭐ **[Kapital Sin](https://kapitalsin.com/)**
-* [Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/), [2](https://github.com/inputsh/awesome-linux), [3](https://github.com/crackerica/Awesome-Linux-Software)
-* [Homebrew](https://brew.sh/), [yay](https://github.com/Jguer/yay) or [NixOS](https://nixos.org/) / [Manager](https://github.com/nix-community/home-manager) - Package Manager
-* [Pacstall](https://pacstall.dev/) - AUR-Inspired Package Manager for Ubuntu
-* [Repology](https://repology.org/) - Package Repository Tracker
-* [AppImageHub](https://appimage.github.io/) or [get-appimate](https://g.srev.in/get-appimage/) - Download AppImages / [CLI](https://zap.srev.in/)
-* [Flathub](https://flathub.org/)
-* [ArchLinux](https://wiki.archlinux.org/title/List_of_applications)
-* [SnapCraft](https://snapcraft.io/store)
-* [Linux Apps](https://www.linux-apps.com/)
-* [tlanyan](https://itlanyan.com/)
+* ⭐ **[Open Source Linux Programs](https://i.ibb.co/KyTkKHz/ae00a5177857.png)**, [ArchWiki List of Applications](https://wiki.archlinux.org/title/list_of_applications), [Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/), [2](https://github.com/inputsh/awesome-linux), [3](https://github.com/crackerica/Awesome-Linux-Software) or [Awesome KDE](https://github.com/francoism90/awesome-kde)
+* ⭐ **[Kapital Sin](https://kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* [Flathub](https://flathub.org/) - Flatpak Repository
+* [SnapCraft](https://snapcraft.io/store) - Snap Repository
+* [NixOS](https://nixos.org/) / [Manager](https://github.com/nix-community/home-manager) or [Homebrew](https://brew.sh/) - Package Managers
+* [AppImageHub](https://www.appimagehub.com/), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download AppImages
+* [AppImagePool](https://github.com/prateekmedia/appimagepool), [Zap](https://github.com/srevinsaju/zap) or [AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) - Appimage Package Managers
 * [yay](https://github.com/Jguer/yay), [paru](https://github.com/morganamilo/paru) or [aura](https://github.com/fosskers/aura) - Arch User Repository Helpers
-* [KDE's Applications](https://apps.kde.org/education)
-* [Pling](https://www.pling.com/)
+* [Apps for GNOME](https://apps.gnome.org/) - GNOME Apps
+* [KDE Applications](https://apps.kde.org/) - KDE Apps
 * [IzzySoft Apt Repositories](https://apt.izzysoft.de/)
-* [Awesome KDE](https://github.com/francoism90/awesome-kde)
+* [Repology](https://repology.org/) - Package Repository Tracker
+* [Pling](https://www.pling.com/) / [2](https://www.linux-apps.com/) - Linux Apps and Themes
+* [Pacstall](https://pacstall.dev/) - AUR-Inspired Package Manager for Ubuntu
 * [Plan9Port](https://github.com/9fans/plan9port)
-* [apps.gnome](https://apps.gnome.org/en-GB/) - GNOME Apps
-* [AppImagePool](https://github.com/prateekmedia/appimagepool) - Linux App Images
-* [AppImages](https://www.appimagehub.com/) - Linux App Images
+* [tlanyan](https://itlanyan.com/)
 
 ***
 
@@ -347,7 +342,7 @@
 
 * ⭐ **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** / [2](https://web.archive.org/web/20221022121735/https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?context=3) - Linux Gaming Guides
 * ⭐ **[protondb](https://www.protondb.com/)**, **[Lutris](https://lutris.net/)** or [Proton](https://github.com/ValveSoftware/Proton) - Play Windows games on Linux
-* ⭐ **[Kapital Sin](https://kapitalsin.com/)** - Linux Games
+* ⭐ **[Kapital Sin](https://kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
 * ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games
 * [winesapOS](https://github.com/LukeShortCloud/winesapOS) - Play Games on Storage Devices 
