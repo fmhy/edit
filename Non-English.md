@@ -323,6 +323,7 @@
 # ► Czech
 
 * [Seznam](https://www.seznam.cz/), [Atlas](https://searchatlas.centrum.cz/) or [Centrum](https://search.centrum.cz/) - Search Engines
+* [CSFD](https://www.csfd.cz/) - Czech Film Database
 
 ## ▷ Downloading
 
@@ -1510,6 +1511,8 @@
 
 # ► Slovak
 
+* [SKCinema](http://www.skcinema.sk/arl-sfu/cs/index/) - Slovak Film Database
+
 ## ▷ Streaming
 
 * [jOj Archive](https://www.joj.sk/archiv) - Movies / TV
@@ -1521,6 +1524,7 @@
 # ► Slovene 
 
 * [Najdi.si](https://www.najdi.si/) - Search
+* [BSF](https://bsf.si/) - Slovene Film Database
 
 ***
 
@@ -1854,6 +1858,7 @@
 
 * [CocCoc](https://coccoc.com/search) - Search
 * [Speedtest](https://speedtest.vn/), [SCTV](http://speedtest.sctv.com.vn/), [Vinahost](https://speedtest.vinahost.vn/) - Internet Speed Test
+* [Baomoi](https://baomoi.com/) - News Aggregator / [Mobile](https://play.google.com/store/apps/details?id=com.epi&hl=en_US)
 * [BizTime](https://biztime.com.vn/), [HahaLolo](https://www.hahalolo.com/) or [Lotus](https://lotus.vn/) - Social Network
 * [Forumvi](https://www.forumvi.com/) - Create a Forum
 * [SapTet](https://www.saptet.com/) - New Year Countdown
@@ -1885,7 +1890,6 @@
 * [EPhoto360](https://ephoto360.com/), [ThiepMung](https://thiepmung.com/), [HieuUngAnh](https://hieuunganh.com/), [ThiepHay](https://thiephay.com/), [KhungAnh](https://khunganhonline.com/) or [TaoCover](https://taocover.com/) - Photo Effects
 * [KiemTraIP](https://kiemtraip.com/), [IPCuaToi](https://ipcuatoi.com/) - IP Checkers
 * [hostsVN](https://bigdargon.github.io/hostsVN/), [iBlockAds](https://iblockads.net/) or [FMSF2](https://nmtrung.com/fmsf-2/) - Vietnamese Adblock Filters
-* [Baomoi](https://baomoi.com/)/[Google Play App](https://play.google.com/store/apps/details?id=com.epi&hl=en_US) - Vietnamese News Aggregator
 
 ## ▷ Downloading
 
