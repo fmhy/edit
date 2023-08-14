@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/JC7Vpqw)** - For mobile users
+**[Table of Contents](https://ibb.co/qdKwYnf)** - For mobile users
 
 ***
 ***
@@ -1510,13 +1510,17 @@
 
 # ► Slovak
 
-* [Najdi.si](https://www.najdi.si/) - Search
-
 ## ▷ Streaming
 
 * [jOj Archive](https://www.joj.sk/archiv) - Movies / TV
 * [Markiza](https://www.markiza.sk/) - Movies / TV
 * [rtvs](https://www.rtvs.sk/televizia/archiv) - TV
+
+***
+
+# ► Slovene 
+
+* [Najdi.si](https://www.najdi.si/) - Search
 
 ***
 
