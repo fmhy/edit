@@ -257,6 +257,7 @@
 
 * ⭐ **[Linux Shells](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_command_line_shells)** or [Modern Unix](https://github.com/ibraheemdev/modern-unix) - Alternative Command Line Shells
 * ⭐ **[Awesome-shell](https://github.com/alebcay/awesome-shell)**, [tldr](https://github.com/tldr-pages/tldr/), [AltBox](https://altbox.dev/) or [LinuxTools](https://github.com/rendick/LinuxTools) - Linux Shell Tools
+* ⭐ **[Awesome TUIs](https://github.com/rothgar/awesome-tuis)** - Terminal User Interface Applications Index
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)**, [nnn](https://github.com/jarun/nnn), [clifm](https://github.com/leo-arch/clifm), [fm](https://github.com/mistakenelf/fm), [Joshuto](https://github.com/kamiyaa/joshuto), [gdu](https://github.com/dundee/gdu) or [NCDU](https://github.com/rofl0r/ncdu) - Terminal File Manager / Disk Usage Analyzers
 * ⭐ **[Alacritty](https://github.com/alacritty/alacritty)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, [Simple Terminal](https://st.suckless.org/), [yakuake](https://apps.kde.org/yakuake/), [emacs-eat](https://codeberg.org/akib/emacs-eat) or [tabby](https://tabby.sh/) - Terminal Emulators
 * [utils](https://github.com/Loupeznik/utils) or [UsefulLinuxShellScripts](https://github.com/jackrabbit335/UsefulLinuxShellScripts) - Linux Shell Tool Scripts
@@ -297,7 +298,6 @@
 ## ▷ Customization
 
 * ⭐ **[Linux Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_themes)** - Themes for Linux
-* ⭐ **[Awesome TUIs](https://github.com/rothgar/awesome-tuis)** - Linux TUI Index
 * ⭐ **[Ricepedia](https://rizonrice.club/Main_Page)** - Linux Ricing Tools
 * [ricemood](https://github.com/fhadiel/ricemood) or [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
 * [Akira](https://github.com/akiraux/Akira) - UI/UX Customization
