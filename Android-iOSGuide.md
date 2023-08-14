@@ -17,7 +17,7 @@
 * ⭐ **[Custom Android Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_operating_systems)**
 * ⭐ **[AutumnBox](https://github.com/zsh2401/AutumnBox/releases)** or [ADBAppControl](https://adbappcontrol.com/en/) - Android Device Managers / Root Tool / [Features](https://i.ibb.co/ZYysg2c/5546649b4d89.png)
 * ⭐ **[App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers)** - Android App Launchers / Managers
-* ⭐ **[ntfy](https://ntfy.sh/)**, [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2) or [BuzzKill](https://github.com/nbats/FMHYedit/blob/main/base64.md#buzzkill) - Custom Push Notifications
+* ⭐ **[ntfy](https://ntfy.sh/)** or [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2) - Custom Push Notifications
 * ⭐ **[MacroDroid](http://macrodroid.com/)**, [Automate](https://llamalab.com/automate/) or [AutomateIt](https://www.automateitapp.com/) - Android Automation
 * ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
 * ⭐ **Magisk Tools** - [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager), [2](https://github.com/ya0211/MRepo) / [SafteyNet Fix](https://github.com/kdrag0n/safetynet-fix) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
@@ -39,7 +39,6 @@
 * [Ponydroid](https://github.com/nbats/FMHYedit/blob/main/base64.md#ponydroid), [Jdownloader](https://my.jdownloader.org/), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager), [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager.adm.lite), [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) or [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Download File Manager
 * [Android File Explorers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_file_explorers) - File Explorers / Managers
 * [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
-* [Dumpster](https://github.com/nbats/FMHYedit/blob/main/base64.md#dumpster) - File Recovery Tool
 * [Aethersx2](https://www.aethersx2.com/archive/) - File Directory Lister
 * [DeDuplicate](https://deduplicate.app/) - Duplicate File Remover
 * [Adebar](https://codeberg.org/izzy/Adebar), [Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup), [Swift Backup](https://swiftapps.org/), [Neo Backup](https://github.com/NeoApplications/Neo-Backup) - Device Backup Tools
@@ -141,7 +140,6 @@
 * [App Blocker](https://play.google.com/store/apps/details?id=com.mobteq.appblocker) - Block Apps
 * [openboard](https://github.com/openboard-team/openboard), [Simple Keyboard](https://github.com/rkkr/simple-keyboard), [Thumb-Key](https://github.com/dessalines/thumb-key) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
 * [Grammarly](https://github.com/nbats/FMHYedit/blob/main/base64.md#grammarly-keyboard-premium) - Grammarly Keyboard Premium
-* [Universal Copy](https://github.com/nbats/FMHYedit/blob/main/base64.md#universal-copy) - Copy Any Text
 * [ZeeArchiver-Android](https://github.com/mahmoudgalal/ZeeArchiver-Android) - Unzip / Compress Files
 * [icq](https://icq.com/) - Messaging App
 * [TextFree](https://www.textfree.us/) - Free Texting App
