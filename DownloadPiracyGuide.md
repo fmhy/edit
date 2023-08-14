@@ -158,7 +158,6 @@
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - [Mobile App](https://forum.mobilism.org/app/)
 * ⭐ **[YasDL](https://yasdl.com/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)**
-* ⭐ **[FileCR](https://filecr.com/en/)** or [Pesktop](https://pesktop.com/en/) - [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass) / [Anti-Adblock Fix](https://rentry.co/FileCRBypass)
 * ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** or [Rave Search](https://ravesoftwaresearch.pages.dev/) - Multi-Site Software Search
 * [4Download](https://www.4download.net/)
 * [Diakov](https://diakov.net/)
