@@ -1885,6 +1885,7 @@
 * [EPhoto360](https://ephoto360.com/), [ThiepMung](https://thiepmung.com/), [HieuUngAnh](https://hieuunganh.com/), [ThiepHay](https://thiephay.com/), [KhungAnh](https://khunganhonline.com/) or [TaoCover](https://taocover.com/) - Photo Effects
 * [KiemTraIP](https://kiemtraip.com/), [IPCuaToi](https://ipcuatoi.com/) - IP Checkers
 * [hostsVN](https://bigdargon.github.io/hostsVN/), [iBlockAds](https://iblockads.net/) or [FMSF2](https://nmtrung.com/fmsf-2/) - Vietnamese Adblock Filters
+* [Baomoi](https://baomoi.com/)/[Google Play App](https://play.google.com/store/apps/details?id=com.epi&hl=en_US) - Vietnamese News Aggregator
 
 ## ▷ Downloading
 
