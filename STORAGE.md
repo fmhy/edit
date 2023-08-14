@@ -205,6 +205,7 @@
 **Online Audio Editors**
 
 * ⭐ **[Audioalter](https://audioalter.com/)**
+* ⭐ **[WavaCity](https://wavacity.com/)**
 
 [AudioStudio](https://www.redcoolmedia.net/web-browser-extension-utilities/audio-editor-audiostudio-chrome-firefox-extension), [Audiotool](https://www.audiotool.com/), [Soundtrap](https://www.soundtrap.com/), [BeepBox](https://www.beepbox.co/), [Efflux](https://www.igorski.nl/application/efflux/), [TwistedWave](https://twistedwave.com/online), [AudioToolSet](https://audiotoolset.com/), [Online Tone Generator](https://onlinetonegenerator.com/), [afreestudio](https://www.afreestudio.com/), [Safeaudiokit](https://safeaudiokit.com/), [Soundation](https://soundation.com/studio-tools)
 
@@ -2127,7 +2128,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Raddle](https://raddle.me/)** / [onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/)
 * ⭐ **[Saidit](https://saidit.net/)**
 
-[/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives), [postmill](https://postmill.xyz/), [Sqwok](https://sqwok.im/), [kddit](http://kddit.kallist4mcluuxbjnr5p2asdlmdhaos3pcrvhk3fbzmiiiftwg6zncid.onion/), [tildes](https://tildes.net/), [talk](https://www.talk.lol/), [communities](https://communities.win/), [FlingUp](https://flingup.com/), [Upvote](https://upvo.to/), [Hexbear](https://www.hexbear.net/)
+[/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives), [postmill](https://postmill.xyz/), [Sqwok](https://sqwok.im/), [kddit](http://kddit.kallist4mcluuxbjnr5p2asdlmdhaos3pcrvhk3fbzmiiiftwg6zncid.onion/), [tildes](https://tildes.net/), [talk](https://www.talk.lol/), [communities](https://communities.win/), [FlingUp](https://flingup.com/), [Upvote](https://upvo.to/), [Hexbear](https://www.hexbear.net/), [Squabblr](https://squabblr.co/)
 
 ***
 
@@ -2495,7 +2496,6 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[bypass.city](https://bypass.city/)** / [Discord](https://discord.com/invite/uMEtrpRvAf)
 * ⭐ **[Link Bypasser](https://github.com/TheCaduceus/Link-Bypasser)** / [TG Bot](https://t.me/drlinkbot) / [2](https://github.com/TheCaduceus/Link-Bypasser-Bot)
 * ⭐ **[bypass.vip](https://bypass.vip/)**
-* ⭐ **[Bypass FileCrypt](https://greasyfork.org/en/scripts/403170)** - View Original FileCrypt Links
 
 [AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser), [skip-redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/) / [Chrome](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon), [krnl-and-linkvertise-bypasser](https://greasyfork.org/en/scripts/427869-krnl-and-linkvertise-bypasser), [Linkvertise-Bypasser](https://github.com/venaxyt/Linkvertise-Bypasser), [Linkvertise-Bypass](https://github.com/Lufzys/Linkvertise-Bypass), [TheBypasser](https://thebypasser.com/), [Bypass-Links](https://github.com/amitsingh-007/bypass-links), [Auto link bypasser](https://chrome.google.com/webstore/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh), [Bypasser](https://yuumari.com/bypass/), [short link to direct link](https://t.me/ATBYPASSBOT), [UploadHEaven](https://greasyfork.org/en/scripts/442019), [Bypasser Online](https://bypasser.online/)
 
