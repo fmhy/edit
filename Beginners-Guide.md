@@ -69,7 +69,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 #### MacOS 🍎
 **[Team OS](https://www.teamos.xyz/)** - Download MacOS
-**[FileCR](https://filecr.com/macos/) / [MacIntosh Garden](http://macintoshgarden.org/)** - MacOS Software
+**[MacIntosh Garden](http://macintoshgarden.org/)** - MacOS Software
 **[Torrminatorr](https://forum.torrminatorr.com/)** - Download MacOS Games
 **[Adobe Creative Cloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#mac-adoGuide)** - Adobe CC Guide
  
@@ -148,7 +148,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### Downloading ⬇
 
-**[FileCR](https://filecr.com/en/) / [RSLOAD](https://rsload.net/)** - Trusted software sites / [Assistant Bypass](https://greasyfork.org/en/scripts/448254-filecr-assistant-bypass)
+**[RSLOAD](https://rsload.net/)/ [LRRepacks](https://lrepacks.net/)** - Trusted software sites
 **[50TB Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#50tb-mega-drive)** - Fast video downloads
 **[AnimeKaizoku](https://animekaizoku.com/)** - Fast anime downloads
 **[FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/) / [GOG-Games](https://gog-games.to/)** - Game download sites / [FitGirl Discord](https://discord.gg/Up3YARe4RW)
@@ -203,7 +203,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[Cromite](https://github.com/uazo/cromite) / [Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)/ [Mull](https://github.com/Divested-Mobile/Mull-Fenix) / [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US&gl=US)** - Android web browsers
 **[Insight](https://insightbrowser.com/) / [Aloha](https://alohabrowser.com/) / [Kagi](https://testflight.apple.com/join/DeC8ZDnu)**  - iOS web browsers / [Improve Safari](https://hyperweb.app/)
 **[AdGuard Premium](https://forum.mobilism.org/search.php?keywords=adguard+&sr=topics&sf=titleonly) / [Adguard iOS](https://forum.mobilism.org/search.php?keywords=AdGuard+Pro&sr=topics&sf=titleonly) / [Blokada](https://blokada.org/)** -  Mobile adblocking apps
-**[Mobilism](https://forum.mobilism.org/viewforum.php?f=398) / [FileCR](https://filecr.com/android/) - Modded APKs
+**[Mobilism](https://forum.mobilism.org/viewforum.php?f=398) - Modded APKs
 **[/r/ApkApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** - Updated list of modded APKs / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)
 **[APKMirror](https://www.apkmirror.com/)** - Untouched APKs
 **[F-Droid](https://f-droid.org/)** - FOSS Android Apps
