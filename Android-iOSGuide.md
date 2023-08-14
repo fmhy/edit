@@ -19,7 +19,7 @@
 * ⭐ **[App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers)** - Android App Launchers / Managers
 * ⭐ **[ntfy](https://ntfy.sh/)** or [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2) - Custom Push Notifications
 * ⭐ **[MacroDroid](http://macrodroid.com/)**, [Automate](https://llamalab.com/automate/) or [AutomateIt](https://www.automateitapp.com/) - Android Automation
-* ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
+* ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [Pixel Launcher](https://github.com/saitamasahil/Pixel-Launcher-Extended) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
 * ⭐ **Magisk Tools** - [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager), [2](https://github.com/ya0211/MRepo) / [SafteyNet Fix](https://github.com/kdrag0n/safetynet-fix) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
 * ⭐ **[Termux](https://termux.com/)**, [Limbo](https://github.com/limboemu/limbo), [Andronix](https://andronix.app/) / [Git](https://github.com/AndronixApp) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulators / OS Environments
 * ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/termux/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
@@ -383,6 +383,7 @@
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - Reddit Video Downloader
 * [Geddit](https://kaangiray26.github.io/geddit-app/) or [Relay](https://relayforreddit.com/index.html) - Reddit Clients
+* [Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic) - How-To Patch 3rd Party Reddit Clients
 * [Offline Reddit](https://play.google.com/store/apps/details?id=yy.offlinereader) - Offline Reddit Client
 * [RedditOldResponsive](https://git.kaki87.net/KaKi87/userscripts/src/branch/master/redditOldResponsive) - Old Reddit Script
 * [Updoot](https://updoot.app/) - Reddit Saved Post / Comment Manager
@@ -530,7 +531,6 @@
 ## ▷ Modded APKs
 
 * ⭐ **[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** /  [App](https://forum.mobilism.org/app/)
-* ⭐ **[FileCR](https://filecr.com/android/)**
 * ⭐ **[Androeed](https://androeed.store/)** / [Telegram](https://t.me/androeed_store)
 * ⭐ **[Modyolo](https://modyolo.com/)**
 * ⭐ **[/r/ApkApps Mega](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)
