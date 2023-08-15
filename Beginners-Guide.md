@@ -68,7 +68,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[ani-cli](https://github.com/pystardust/ani-cli)** - Anime Streaming Terminal
 
 #### MacOS 🍎
-**[Team OS](https://www.teamos.xyz/)** - Download MacOS
+
 **[MacIntosh Garden](http://macintoshgarden.org/)** - MacOS Software
 **[Torrminatorr](https://forum.torrminatorr.com/)** - Download MacOS Games
 **[Adobe Creative Cloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#mac-adoGuide)** - Adobe CC Guide
