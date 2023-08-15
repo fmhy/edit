@@ -169,6 +169,7 @@
 * [AI Center](https://aicenter.ai/) - AI Directory
 * [Wiki AI Tools](https://www.wikiaitools.com/) - AI Directory
 * [TopApps.Ai](https://topapps.ai/) - AI Directory
+* [NaNAI.tools] (https://nanai.tools) - AI Directory
 * [Cookup AI](https://cookup.ai/) - AI Directory
 * [SuperTools](https://supertools.therundown.ai/) - AI Directory
 * [Toolspedia](https://www.toolspedia.io/) - AI Directory
@@ -181,7 +182,6 @@
 * [Experiments with Google](https://labs.withgoogle.com/) - AI Experiments
 * [OpenCV](https://opencv.org/) - A.I. Vision Library
 * [free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - AI Learning Resources
-* [NaNAI.tools] (https://nanai.tools) - AI Directory
 
 ***
 ***
