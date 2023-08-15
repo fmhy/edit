@@ -16,9 +16,9 @@
 * ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)**, [zapret](https://github.com/bol-van/zapret) or **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** - DPI circumvention
 * ⭐ **[Librewolf Linux](https://librewolf.net/)**/ [2](https://aur.archlinux.org/packages/firedragon) / [3](https://forum.garudalinux.org/t/firedragon-librewolf-fork/5018) or [Dot Browser](https://github.com/dothq/browser) - Privacy-Based Browser
 * ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)**, [spotify-adblock](https://github.com/abba23/spotify-adblock) or [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)  - Spotify Adblockers
-* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) or [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) - Linux Privacy Guide
-* [SShuttle](https://github.com/sshuttle/sshuttle) - Proxy
+* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide), [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) or [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Linux Hardening Guides
 * [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
+* [SShuttle](https://github.com/sshuttle/sshuttle) - Proxy
 * [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
 * [Twilio Authy](https://snapcraft.io/authy) - Linux Two-Factor Authentication
 * [Lockigest](https://github.com/elmsec/lockigest) - Screen Locker
@@ -28,18 +28,17 @@
 * [Mofolinux](https://mofolinux.com/), [Tails](https://tails.boum.org/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - Privacy-Based Linux Operating System
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - VPN Tunnel
 * [Openconnect VPN Server](http://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
+* [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker with Torrent client and VPN on Arch Linux base
+* [wireguird](https://github.com/UnnoTed/wireguird) - GUI For Wireguard
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
 * [ShuffleStacks](https://shufflecake.net/) - Create Hidden Volumes
 * [Tomb](https://dyne.org/software/tomb//) - File Encryption
 * [Collision](https://flathub.org/apps/details/dev.geopjr.Collision) - Check File Hashes
 * [WhoAmI Project](https://github.com/owerdogan/whoami-project) - Privacy / Anonymity Tool
 * [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS Partition
-* [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Secure Linux Server Guide
 * [BhanUpratpys](https://github.com/bhanupratapys/dnswarden) - DNS Adblocking
-* [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Arch Linux base with Deluge, Privoxy & OpenVPN
 * [Anon-SMS](https://github.com/HACK3RY2J/Anon-SMS) - Send Anonymous SMS Messages
-* [Firejail](https://firejail.wordpress.com/) - Security Sandbox
-* [Bubblewrap](https://github.com/containers/bubblewrap) -  Unprivileged Sandboxing Tool
+* [Firejail](https://firejail.wordpress.com/) or [Bubblewrap](https://github.com/containers/bubblewrap) - Sandboxing tools
 * [GoogleTeller](https://github.com/berthubert/googerteller) - Google Tracking Notifications
 
 ***
@@ -192,7 +191,7 @@
 * ⭐ **[syncthing](https://syncthing.net/)** or [portal](https://github.com/SpatiumPortae/portal) - File Sync
 * ⭐ **[Soulseek](https://www.slsknet.org/SoulseekQt/Linux/SoulseekQt-2018-1-30-64bit-appimage.tgz)** - File Sharing App
 * ⭐ **[TorrFlix](https://github.com/infinity-plus/TorrFlix)** - Torrent Streaming CLI
-* ⭐ **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)**, **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](https://bitflu.workaround.ch/), [Torrentor](https://github.com/guidopola/torrentor), [WireGuard](https://github.com/UnnoTed/wireguird) or [kTorrent](https://apps.kde.org/ktorrent/) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Clients
+* ⭐ **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)**, **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](https://bitflu.workaround.ch/), [Torrentor](https://github.com/guidopola/torrentor) or [kTorrent](https://apps.kde.org/ktorrent/) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Clients
 * ⭐ **[qBittorrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)**
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - RTorrent Web Frontend / [Themes](https://github.com/InAnimaTe/rutorrent-themes), [2](https://github.com/artyuum/3rd-party-ruTorrent-Themes)
 * rTorrent Tools - [Extended](https://github.com/pyroscope/rtorrent-ps) / [Tools](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [All Seeders Column](https://github.com/AkdM/rutorrent-all-seeders) / [Docker Build](https://github.com/binhex/arch-rtorrentvpn)
@@ -258,6 +257,7 @@
 
 * ⭐ **[Linux Shells](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_command_line_shells)** or [Modern Unix](https://github.com/ibraheemdev/modern-unix) - Alternative Command Line Shells
 * ⭐ **[Awesome-shell](https://github.com/alebcay/awesome-shell)**, [tldr](https://github.com/tldr-pages/tldr/), [AltBox](https://altbox.dev/) or [LinuxTools](https://github.com/rendick/LinuxTools) - Linux Shell Tools
+* ⭐ **[Awesome TUIs](https://github.com/rothgar/awesome-tuis)** - Terminal User Interface Applications Index
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)**, [nnn](https://github.com/jarun/nnn), [clifm](https://github.com/leo-arch/clifm), [fm](https://github.com/mistakenelf/fm), [Joshuto](https://github.com/kamiyaa/joshuto), [gdu](https://github.com/dundee/gdu) or [NCDU](https://github.com/rofl0r/ncdu) - Terminal File Manager / Disk Usage Analyzers
 * ⭐ **[Alacritty](https://github.com/alacritty/alacritty)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, [Simple Terminal](https://st.suckless.org/), [yakuake](https://apps.kde.org/yakuake/), [emacs-eat](https://codeberg.org/akib/emacs-eat) or [tabby](https://tabby.sh/) - Terminal Emulators
 * [utils](https://github.com/Loupeznik/utils) or [UsefulLinuxShellScripts](https://github.com/jackrabbit335/UsefulLinuxShellScripts) - Linux Shell Tool Scripts
@@ -298,7 +298,6 @@
 ## ▷ Customization
 
 * ⭐ **[Linux Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_themes)** - Themes for Linux
-* ⭐ **[Awesome TUIs](https://github.com/rothgar/awesome-tuis)** - Linux TUI Index
 * ⭐ **[Ricepedia](https://rizonrice.club/Main_Page)** - Linux Ricing Tools
 * [ricemood](https://github.com/fhadiel/ricemood) or [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
 * [Akira](https://github.com/akiraux/Akira) - UI/UX Customization
