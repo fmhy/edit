@@ -256,8 +256,6 @@
 * [Mobile Verification Toolkit](https://github.com/mvt-project/mvt) - Test for Potential Compromises on Android / iOS
 * [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) - Vehicle Security Resources Index
 * [uBeacSec](https://ubeacsec.org/) - Ultrasound Frequency Filter
-* [Fingerprint Suite](https://github.com/apify/fingerprint-suite) - Browser Fingerprinting Tools / Scraping Anonymization 
-* [NoScriptFingerprint](https://noscriptfingerprint.com/) - How JavaScript Fingerprinting Works
 * [GoFOSS](https://gofoss.net/) - Why You Should Use FOSS Alternatives
 
 ***
@@ -370,8 +368,10 @@
 * [Link Cleaner](https://linkcleaner.app/) - Remove Tracking Elements / Extra Garbage from URLs / [Script](https://gist.github.com/htsign/455bd76d107be1f810c5caa4072c8275)
 * [whoer](https://whoer.net/), [encrypted-sni](https://www.cloudflare.com/ssl/encrypted-sni/) or [f.vision](http://www.f.vision/) - Check Network / Browser Security
 * [browserrecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [PixelScan](https://pixelscan.net/), [Unique Machine](https://uniquemachine.org/) or [AmIUnique](https://amiunique.org/) / [Timeline](https://amiunique.org/timeline) - Browser Fingerprinting Test
-* [fluxfonts](https://github.com/da2x/fluxfonts) - Hide Unique Font Fingerprint
+* [Fingerprint Suite](https://github.com/apify/fingerprint-suite) - Browser Fingerprinting Tools / Scraping Anonymization 
 * [Extension Fingerprints](https://github.com/z0ccc/extension-fingerprints) - Extension Fingerprinting Tests
+* [fluxfonts](https://github.com/da2x/fluxfonts) - Hide Unique Font Fingerprint
+* [NoScriptFingerprint](https://noscriptfingerprint.com/) - How JavaScript Fingerprinting Works
 * [dataskydd](https://webbkoll.dataskydd.net/) or [Blacklight](https://themarkup.org/blacklight) - Check what data-protecting measures a site has taken
 * [uBO-Scope](https://github.com/gorhill/uBO-Scope) - Measure 3rd Party Exposure 
 * [Wikiless](https://wikiless.org/) - Wikipedia Frontend
