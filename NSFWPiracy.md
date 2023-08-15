@@ -275,6 +275,7 @@
 * ⭐ **[SexTB](https://sextb.net/)** - Japanese
 * ⭐ **[SupJav](https://supjav.com/)** - Japanese
 * ⭐ **[JAVSeen](https://javseen.tv/)** - Japanese
+* ⭐ **[JAVGG](https://javgg.net/)** - Japanese
 * ⭐ **[MissAV](https://missav.com/en)**, [myAV](https://myav.com/) or [ThisAV](https://thisav.com/) - Japanese
 * ⭐ **[JavGuru](https://jav.guru/)** - Japanese
 * [Javtiful](https://javtiful.com/) - Japanese
@@ -400,6 +401,9 @@
 ## ▷ Torrents
 
 * ⭐ **[myporn.club](https://myporn.club/)**
+* ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Japanese
+* ⭐ **[OneJAV](https://onejav.com/)** - Japanese
+* ⭐ **[Next JAV](https://nextjav.com/)** - Japanese
 * [PornLeech](http://pornleech.ch/)
 * [Sexy-Pics](https://www.sexy-pics.us/)
 * [色花堂-98堂](https://www.sehuatang.net/)
@@ -409,6 +413,7 @@
 * [JavBus](https://www.javbus.com/en) - Japanese
 * [141Jav](https://www.141jav.com/) - Japanese
 * [Tokyo Tosho](https://tokyo-tosho.net/) - Japanese
+* [JAVdb](https://javdb.com/) - Japanese
 * [Torrent Piracy Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)- ctrl+f and type "nsfw"
 * [Cheggit](http://www.cheggit.me/register.php), [BitSexy](https://bitsexy.org/signup.php) or [HappyFappy](https://www.happyfappy.org/users/register) - Private Trackers / Open-Signups
 * [srrXXX](https://www.srrxxx.com/) - Scene Release Tracker
