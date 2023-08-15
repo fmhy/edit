@@ -615,7 +615,6 @@
 * [VPN Un-Blocking](https://medium.com/@innovativehazard/vpn-un-blocking-e0374b9c4d35) - Unblock Cloudflare Warp VPN Services
 * [CFScanner](https://github.com/MortezaBashsiz/CFScanner/), [scanner](https://ircfspace.github.io/scanner/) or [cf-ip-scanner-py](https://github.com/vfarid/cf-ip-scanner-py) - Cloudflare IP Scanners
 * [cloudflare-ip-tester-app](https://github.com/xianshenglu/cloudflare-ip-tester-app/) - Cloudflare IP Tester
-* [wgcf](https://github.com/ViRb3/wgcf) - Generate Cloudflare Warp Wireguard Config
 * [console.watch](https://console.watch/) - Remote Console Polyfill for Cloudflare Workers
 * [LightTPD](http://www.lighttpd.net/) or [Caddy](https://caddyserver.com/) - Web Server
 * [Bash-web-server](https://github.com/dzove855/Bash-web-server) - Bash Web Server
