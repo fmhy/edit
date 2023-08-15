@@ -229,6 +229,7 @@
 * [Porndex](https://www.porndex.com/) - Search Engines
 * [Ro89](https://ro89.com/) - Search Engines
 * [Mature Tube](https://www.maturetube.com/) - MILF Focused Aggregator
+* [LesbianPornVideos](https://www.lesbianpornvideos.com/) - Lesbian Focused Aggregator
 
 ***
 
