@@ -6022,7 +6022,6 @@ Filter list for adblockers with sites from this thread.
 * ⭐ **[Softether](https://www.softether.org/)** - Free VPN / [VPN Gate](https://www.vpngate.net/en/download.aspx) / [Note](https://pastebin.com/TrSw7EpF)
 * ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Manager](https://github.com/perara/wg-manager) / [WebUI](https://hub.docker.com/r/weejewel/wg-easy)
 * ⭐ **[Warp](https://1.1.1.1/)**, [2](https://1.0.0.1/) - Traffic Encryption VPN
-* ⭐ **Warp Tools** - [Unlimited Data](https://github.com/nxvvvv/warp-plus) / [Script](https://github.com/fscarmen/warp) / [Warp Warning](https://rentry.co/warpwarning)
 * [VPNSecure](https://www.vpnsecure.me/) - [Pricing](https://ibb.co/c2BdyG1)
 * [Mullvad](https://mullvad.net/) - [Pricing](https://i.ibb.co/sHB33GJ/daf48a5ee585.png) / [NetNS](https://github.com/chutz/mullvad-netns) / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
 * [IVPN](https://www.ivpn.net/) - [Pricing](https://i.ibb.co/6sQKrQL/e06bea93c5ba.png) / [Free Trial](https://redd.it/nzjmqa) / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/)
@@ -8076,7 +8075,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[ani-cli](https://github.com/pystardust/ani-cli)** - Anime Streaming Terminal
 
 #### MacOS 🍎
-**[Team OS](https://www.teamos.xyz/)** - Download MacOS
+
 **[MacIntosh Garden](http://macintoshgarden.org/)** - MacOS Software
 **[Torrminatorr](https://forum.torrminatorr.com/)** - Download MacOS Games
 **[Adobe Creative Cloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#mac-adoGuide)** - Adobe CC Guide
@@ -8637,6 +8636,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [AI Center](https://aicenter.ai/) - AI Directory
 * [Wiki AI Tools](https://www.wikiaitools.com/) - AI Directory
 * [TopApps.Ai](https://topapps.ai/) - AI Directory
+* [NaNAI.tools] (https://nanai.tools) - AI Directory
 * [Cookup AI](https://cookup.ai/) - AI Directory
 * [SuperTools](https://supertools.therundown.ai/) - AI Directory
 * [Toolspedia](https://www.toolspedia.io/) - AI Directory
@@ -11048,9 +11048,9 @@ pass: paluch
 * ⭐ **[SpoofDPI](https://github.com/xvzc/SpoofDPI)**, [zapret](https://github.com/bol-van/zapret) or **[PowerTunnel](https://github.com/krlvm/PowerTunnel)** - DPI circumvention
 * ⭐ **[Librewolf Linux](https://librewolf.net/)**/ [2](https://aur.archlinux.org/packages/firedragon) / [3](https://forum.garudalinux.org/t/firedragon-librewolf-fork/5018) or [Dot Browser](https://github.com/dothq/browser) - Privacy-Based Browser
 * ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)**, [spotify-adblock](https://github.com/abba23/spotify-adblock) or [SpotifyNoPremium](https://github.com/Daksh777/SpotifyNoPremium)  - Spotify Adblockers
-* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) or [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) - Linux Privacy Guide
-* [SShuttle](https://github.com/sshuttle/sshuttle) - Proxy
+* [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide), [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) or [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Linux Hardening Guides
 * [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
+* [SShuttle](https://github.com/sshuttle/sshuttle) - Proxy
 * [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
 * [Twilio Authy](https://snapcraft.io/authy) - Linux Two-Factor Authentication
 * [Lockigest](https://github.com/elmsec/lockigest) - Screen Locker
@@ -11060,18 +11060,17 @@ pass: paluch
 * [Mofolinux](https://mofolinux.com/), [Tails](https://tails.boum.org/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - Privacy-Based Linux Operating System
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - VPN Tunnel
 * [Openconnect VPN Server](http://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
+* [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker with Torrent client and VPN on Arch Linux base
+* [wireguird](https://github.com/UnnoTed/wireguird) - GUI For Wireguard
 * [Howdy](https://github.com/boltgolt/howdy) - Linux Facial Authentication
 * [ShuffleStacks](https://shufflecake.net/) - Create Hidden Volumes
 * [Tomb](https://dyne.org/software/tomb//) - File Encryption
 * [Collision](https://flathub.org/apps/details/dev.geopjr.Collision) - Check File Hashes
 * [WhoAmI Project](https://github.com/owerdogan/whoami-project) - Privacy / Anonymity Tool
 * [Yubikey Full Disk Encryption](https://github.com/agherzan/yubikey-full-disk-encryption) - Use YubiKey to unlock a LUKS Partition
-* [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Secure Linux Server Guide
 * [BhanUpratpys](https://github.com/bhanupratapys/dnswarden) - DNS Adblocking
-* [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Arch Linux base with Deluge, Privoxy & OpenVPN
 * [Anon-SMS](https://github.com/HACK3RY2J/Anon-SMS) - Send Anonymous SMS Messages
-* [Firejail](https://firejail.wordpress.com/) - Security Sandbox
-* [Bubblewrap](https://github.com/containers/bubblewrap) -  Unprivileged Sandboxing Tool
+* [Firejail](https://firejail.wordpress.com/) or [Bubblewrap](https://github.com/containers/bubblewrap) - Sandboxing tools
 * [GoogleTeller](https://github.com/berthubert/googerteller) - Google Tracking Notifications
 
 ***
@@ -11082,7 +11081,7 @@ pass: paluch
 * ⭐ **[Linux.Chat](https://discord.gg/linuxchat)**, [Linux x Technology](https://linuxdiscord.com/), [Ezlinux](https://ezlinux.net/) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discussion / Forums
 * ⭐ **[Archwiki](https://wiki.archlinux.org/)** - Arch Linux Wiki / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
 * ⭐ **[Ventoy](https://github.com/ventoy/Ventoy)** - Create Bootable USB Linux Drives
-* ⭐ **[Bpytop](https://github.com/aristocratos/bpytop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [vtop](https://github.com/MrRio/vtop), [neofetch](https://github.com/dylanaraps/neofetch) / [Themes](https://github.com/chick2d/neofetch-themes), [LM Sensors](https://github.com/lm-sensors/lm-sensors) or [Stacer](https://github.com/oguzhaninan/Stacer) - System Info / Resource Monitors
+* ⭐ **[Bpytop](https://github.com/aristocratos/bpytop)**, **[pfetch](https://github.com/dylanaraps/pfetch)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [vtop](https://github.com/MrRio/vtop), [neofetch](https://github.com/dylanaraps/neofetch) / [Themes](https://github.com/chick2d/neofetch-themes) or [LM Sensors](https://github.com/lm-sensors/lm-sensors) - System Info / Resource Monitors
 * [SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - Monitor / Log System Activity
 * [Nanobench](https://github.com/andreas-abel/nanoBench) - CPU Microbenchmark / [Documentation](https://nanobench.ankerl.com/)
 * [ScanMem](https://github.com/scanmem/scanmem) - Memory Scanner / Debugger
@@ -11224,7 +11223,7 @@ pass: paluch
 * ⭐ **[syncthing](https://syncthing.net/)** or [portal](https://github.com/SpatiumPortae/portal) - File Sync
 * ⭐ **[Soulseek](https://www.slsknet.org/SoulseekQt/Linux/SoulseekQt-2018-1-30-64bit-appimage.tgz)** - File Sharing App
 * ⭐ **[TorrFlix](https://github.com/infinity-plus/TorrFlix)** - Torrent Streaming CLI
-* ⭐ **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)**, **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](https://bitflu.workaround.ch/), [Torrentor](https://github.com/guidopola/torrentor), [WireGuard](https://github.com/UnnoTed/wireguird) or [kTorrent](https://apps.kde.org/ktorrent/) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Clients
+* ⭐ **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)**, **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](https://bitflu.workaround.ch/), [Torrentor](https://github.com/guidopola/torrentor) or [kTorrent](https://apps.kde.org/ktorrent/) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Clients
 * ⭐ **[qBittorrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)**
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - RTorrent Web Frontend / [Themes](https://github.com/InAnimaTe/rutorrent-themes), [2](https://github.com/artyuum/3rd-party-ruTorrent-Themes)
 * rTorrent Tools - [Extended](https://github.com/pyroscope/rtorrent-ps) / [Tools](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [All Seeders Column](https://github.com/AkdM/rutorrent-all-seeders) / [Docker Build](https://github.com/binhex/arch-rtorrentvpn)
@@ -11290,6 +11289,7 @@ pass: paluch
 
 * ⭐ **[Linux Shells](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_command_line_shells)** or [Modern Unix](https://github.com/ibraheemdev/modern-unix) - Alternative Command Line Shells
 * ⭐ **[Awesome-shell](https://github.com/alebcay/awesome-shell)**, [tldr](https://github.com/tldr-pages/tldr/), [AltBox](https://altbox.dev/) or [LinuxTools](https://github.com/rendick/LinuxTools) - Linux Shell Tools
+* ⭐ **[Awesome TUIs](https://github.com/rothgar/awesome-tuis)** - Terminal User Interface Applications Index
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)**, [nnn](https://github.com/jarun/nnn), [clifm](https://github.com/leo-arch/clifm), [fm](https://github.com/mistakenelf/fm), [Joshuto](https://github.com/kamiyaa/joshuto), [gdu](https://github.com/dundee/gdu) or [NCDU](https://github.com/rofl0r/ncdu) - Terminal File Manager / Disk Usage Analyzers
 * ⭐ **[Alacritty](https://github.com/alacritty/alacritty)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, [Simple Terminal](https://st.suckless.org/), [yakuake](https://apps.kde.org/yakuake/), [emacs-eat](https://codeberg.org/akib/emacs-eat) or [tabby](https://tabby.sh/) - Terminal Emulators
 * [utils](https://github.com/Loupeznik/utils) or [UsefulLinuxShellScripts](https://github.com/jackrabbit335/UsefulLinuxShellScripts) - Linux Shell Tool Scripts
@@ -11330,7 +11330,6 @@ pass: paluch
 ## ▷ Customization
 
 * ⭐ **[Linux Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_themes)** - Themes for Linux
-* ⭐ **[Awesome TUIs](https://github.com/rothgar/awesome-tuis)** - Linux TUI Index
 * ⭐ **[Ricepedia](https://rizonrice.club/Main_Page)** - Linux Ricing Tools
 * [ricemood](https://github.com/fhadiel/ricemood) or [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
 * [Akira](https://github.com/akiraux/Akira) - UI/UX Customization
@@ -14087,6 +14086,7 @@ Software
 
 ## ▷ Downloading
 
+* ⭐ **[WR Educacional](https://www.wreducacional.com.br)** - Courses
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Software / Games / Books
 * [Os Reformados](https://osreformados.com) - Video / Audio / Magazines
 * [Baixar Séries MP4](https://baixarseriesmp4.eu) - Movies / TV / Anime
@@ -14099,11 +14099,11 @@ Software
 * [Baixar Vídeo](https://baixarvideo.com.br) - Portuguese Video Downloader
 * [Online Cursos Gatuitos](https://onlinecursosgratuitos.com) - Courses
 * [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
-* [WR Educacional](https://www.wreducacional.com.br) - Courses
 * [Mundo Ubuntu](https://www.mundoubuntu.com.br) - Courses
 
 ## ▷ Torrenting
 
+* ⭐ **[Download Cursos Grátis](https://downloadcursos.top)** - Courses / Use Adblock
 * [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Software / Games / Books
 * [DownFilmes](https://downfilmes.org) - Movies / TV
 * [Torrent dos Filmes](https://torrentdosfilmes.se) - Movies / TV
@@ -14118,11 +14118,13 @@ Software
 * [Keroseed](https://www.keroseed.com) - Anime
 * [Anime No Sekai](https://www.ansktracker.net) - Anime WebIRC Tracker
 * [Sua Música](https://www.suamusica.com.br) - MP3
-* [Download Cursos Grátis](https://downloadcursos.top) - Courses
 * [Livros e Cursos Download](https://timaterial.blogspot.com) - Courses
 
 ## ▷ Streaming
 
+* ⭐ **[Gyn Cursos](https://gyncursos.com.br)** - Courses
+* ⭐ **[iEstudar Cursos](https://iestudar.com)** - Courses
+* ⭐ **[Pensar Cursos](https://www.pensarcursos.com.br)** - Courses
 * [WarezCDN](https://warezcdn.com) - Movies / TV / Anime / API
 * [Vizer](https://vizer.tv) - Movies / TV / Anime
 * [SuperTela](https://supertela.gripe) - Movies / TV / Anime
@@ -14155,10 +14157,7 @@ Software
 * [Omie](https://academy.omie.com.br) - Courses
 * [MOOC GGTE](https://moocs.ggte.unicamp.br) - Courses
 * [Download de Livros Grátis](https://download-de-livros-gratis.webnode.page) - Courses
-* [Gyn Cursos](https://gyncursos.com.br) - Courses
-* [Pensar Cursos](https://www.pensarcursos.com.br) - Courses
 * [Núcleo do Conhecimento](https://www.nucleodoconhecimento.com.br) - Courses
-* [iEstudar Cursos](https://iestudar.com) - Courses
 * [OpenupEd](https://www.openuped.eu/courses) - Courses
 * [Escola Virtual Gov](https://www.escolavirtual.gov.br/catalogo) - Courses
 * [Escola Virtual](https://www.ev.org.br) - Courses
@@ -21482,7 +21481,6 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[PornDude](https://theporndude.com/)** / [More Sites](https://theporndude.com/hall-of-fame)
 * ⭐ **[Reddit Doesn't Like This Site](https://www.reddit-doesnt-like-this.site/)**
 * ⭐ **[NSFW Subreddits](https://www.reddit.com/r/NSFW411/wiki/index)**, [2](http://electronsoup.net/nsfw_subreddits/), [3](https://bin.disroot.org/?81af22c09e92865d#FYLXmjaKbaojaELwAv1szcfy7rahuA77ntnFu2HBEBGf), [4](https://redd.it/brypgf), [5](https://theporndude.com/best-nsfw-reddit-sites)
-* [Full Length Porn CSE](https://cse.google.com/cse?cx=6c02fb377e50d493c)
 * [One Porn List](https://onepornlist.com/)
 * [BigPornList](http://bigpornlist.net/)
 * [MrPornGeek](https://www.mrporngeek.com/)
@@ -21655,6 +21653,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/) - Search Engine
 * ⭐ **[iXXX](https://www.ixxx.com/)** - Aggregator
+* [Full Length Porn CSE](https://cse.google.com/cse?cx=6c02fb377e50d493c) - Aggregators CSE
 * [TubeSafari](https://tubesafari.com/) - Aggregator
 * [Thumbzilla](https://www.thumbzilla.com/) - Aggregator
 * [Fuq](https://www.fuq.com/) - Aggregator
@@ -21743,6 +21742,7 @@ Add the following commands to a search to manually scrape each site.
 * [SakuraLive](https://www.sakuralive.com/index.shtml) - Asian
 * [LiveSexAsian](https://www.livesexasian.com/) - Asian
 * [AsianBabeCams](https://www.asianbabecams.com/) - Asian
+* [Live Dosti](https://www.livedosti.com/) - Indian
 * [CamBro](https://www.cambro.tv/), [OnScreens](https://camcaps.ac/) or [WebcamRips](https://webcamrips.to/) - Cam Videos
 * [TubeAsianCams](https://tubeasiancams.com/), [KoreanBJ](https://koreanbj.club/) or [SKBJ](https://skbj.tv/) - Asian Cam Archives
 
@@ -21753,6 +21753,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[SexTB](https://sextb.net/)** - Japanese
 * ⭐ **[SupJav](https://supjav.com/)** - Japanese
 * ⭐ **[JAVSeen](https://javseen.tv/)** - Japanese
+* ⭐ **[JAVGG](https://javgg.net/)** - Japanese
 * ⭐ **[MissAV](https://missav.com/en)**, [myAV](https://myav.com/) or [ThisAV](https://thisav.com/) - Japanese
 * ⭐ **[JavGuru](https://jav.guru/)** - Japanese
 * [Javtiful](https://javtiful.com/) - Japanese
@@ -21800,6 +21801,32 @@ Add the following commands to a search to manually scrape each site.
 * [aagmaals](https://aagmaals.net/) - Indian
 * [sexfullmovies](https://www.sexfullmovies.com/) - Indian
 * [onlyindianporn](https://onlyindianporn.me/) - Indian
+
+***
+
+## ▷ Indian
+
+* [FSIBlog](https://www.fsiblog4.com/)
+* [AAGmaal](https://aagmaal.com/) / [2](https://10hd.xyz/) / [3](https://aagmaal.pics/) / [4](https://aagmaal.pics/) / [5](https://webmaal.cyou/) / [6](https://sohot.cyou/)
+* [ChiggyWiggy](https://chiggywiggy.com/)
+* [MyDesi](https://www.mydesi3.com/)
+* [UncutMaza](https://uncutmaza.cc/)
+* [IxiPorn](https://ixiporn.cc/)
+* [NangiVideos](https://video.nangiphotos.com/)
+* [IndianPornGirl](https://indianporngirl2.com/index.html)
+* [KamaBaba](https://www.kamababa.desi/)
+* [RemaxHD](https://remaxhd.homes/) / [Telegram](https://t.me/remaxhdnew)
+* [DesiBP](https://desibp.com/)
+* [Antarvasna BF](https://www.antarvasnabf.com/)
+* [JanuFlix](https://januflix.expert/)
+* [Hindi XXX HD](https://hindixxxhd.com/)
+* [XXX Video Indian](https://www.xxxvideoindian.com/)
+* [Aagmaal.run](https://aagmaal.run/)
+* [Aagmaal.mov](https://aagmaal.mov/)
+* [Aagmaals.org](https://aagmaals.me/)
+* [AyzVid](https://ayzvid.xyz/)
+* [ViralVideoTube](https://viralvideotube.pro/) or [Happy2Hub](https://happy2hub.eu/homepage/) - Movies
+* [GotXX](https://www.gotxx.net/) - Softcore Indian Movies
 
 ***
 
@@ -21852,6 +21879,9 @@ Add the following commands to a search to manually scrape each site.
 ## ▷ Torrents
 
 * ⭐ **[myporn.club](https://myporn.club/)**
+* ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Japanese
+* ⭐ **[OneJAV](https://onejav.com/)** - Japanese
+* ⭐ **[Next JAV](https://nextjav.com/)** - Japanese
 * [PornLeech](http://pornleech.ch/)
 * [Sexy-Pics](https://www.sexy-pics.us/)
 * [色花堂-98堂](https://www.sehuatang.net/)
@@ -21861,6 +21891,7 @@ Add the following commands to a search to manually scrape each site.
 * [JavBus](https://www.javbus.com/en) - Japanese
 * [141Jav](https://www.141jav.com/) - Japanese
 * [Tokyo Tosho](https://tokyo-tosho.net/) - Japanese
+* [JAVdb](https://javdb.com/) - Japanese
 * [Torrent Piracy Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)- ctrl+f and type "nsfw"
 * [Cheggit](http://www.cheggit.me/register.php), [BitSexy](https://bitsexy.org/signup.php) or [HappyFappy](https://www.happyfappy.org/users/register) - Private Trackers / Open-Signups
 * [srrXXX](https://www.srrxxx.com/) - Scene Release Tracker
