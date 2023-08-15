@@ -382,7 +382,7 @@
 * [BBTV](https://github.com/bttv-android/bttv) or [Frosty](https://www.frostyapp.io/) - Modded Twitch App
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - Reddit Video Downloader
-* [Geddit](https://kaangiray26.github.io/geddit-app/) or [Relay](https://relayforreddit.com/index.html) - Reddit Clients
+* [Geddit](https://kaangiray26.github.io/geddit-app/), [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit&hl=en_US) or [Relay](https://relayforreddit.com/index.html) - Reddit Clients
 * [Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic) - How-To Patch 3rd Party Reddit Clients
 * [Offline Reddit](https://play.google.com/store/apps/details?id=yy.offlinereader) - Offline Reddit Client
 * [RedditOldResponsive](https://git.kaki87.net/KaKi87/userscripts/src/branch/master/redditOldResponsive) - Old Reddit Script
@@ -535,7 +535,6 @@
 * ⭐ **[Androeed](https://androeed.store/)** / [Telegram](https://t.me/androeed_store)
 * ⭐ **[Modyolo](https://modyolo.com/)**
 * ⭐ **[/r/ApkApps Mega](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)
-* [TeamOS](https://www.teamos.xyz/)
 * [nsane.down](https://nsaneforums.com/)
 * [RevDl](https://www.revdl.com/)
 * [Sbenny](https://sbenny.com/)
@@ -545,6 +544,7 @@
 * [Android1](https://an1.com/)
 * [DZAPK](https://dzapk.com/)
 * [PDALife](https://pdalife.com/)
+* [TeamOS](https://www.teamos.xyz/)
 * [APK Home](https://apkhome.io/)
 * [DL King](http://dl.king2net.com/soft%20android/)
 * [Modding United](https://moddingunited.xyz/) / [Telegram](https://telegram.me/allapkforfree)
