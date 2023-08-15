@@ -159,11 +159,12 @@
 * [PornWex](https://www.pornwex.tv/)
 * [ThePornFull](https://thepornfull.com/)
 * [Adultism](https://www.adultism.com/), [YourAmateurPorn](https://www.youramateurporn.com/), [Terk](https://www.terk.nl/), [Hobby Porn](https://hobby.porn/), [RealGFporn](https://www.realgfporn.com/), [HClips](https://hclips.com/), [MyLust](https://mylust.com/), [RulePorn](https://ruleporn.com/) or [WatchMyGF](https://www.watchmygf.me/) - Amateur Porn
-* [JustIncestPorn](https://justincestporn.com/), [Family Porn](https://familyporn.tv/), [FamilyPornHD](https://familypornhd.com/), [TabooDaddy](https://taboodaddy.com/), [TabooTube](https://www.tabootube.xxx/), [MotherSonTube](https://mothersontube.com/), [Whose UR Daddy](https://whoseurdaddy.net/), [TabooPorn](https://www.tabooporn.tv/) - Incest Porn
+* [JustIncestPorn](https://justincestporn.com/), [Family Porn](https://familyporn.tv/), [FamilyPornHD](https://familypornhd.com/), [TabooDaddy](https://taboodaddy.com/), [TabooTube](https://www.tabootube.xxx/), [MotherSonTube](https://mothersontube.com/), [Whose UR Daddy](https://whoseurdaddy.net/) or [TabooPorn](https://www.tabooporn.tv/) - Incest Porn
 * [eFukt](https://efukt.com/), [DarknessPorn](https://darknessporn.com/) or [CrazyShit](https://crazyshit.com/) - Extreme Porn
 * [MilfNut](https://milfnut.com/) - MILF Porn
 * [TeenagePornX](https://teenagepornx.com/) - Teenage (18+) Porn
-* [SheFreaky](https://www.shesfreaky.com/) - Black Women Porn
+* [Porno Carioca](https://www.pornocarioca.com/), [Xnalgas](https://www.xnalgas.com/), [EspaPorn](https://espaporn.com/), [Putaria69](https://putaria69.com/), [Nao Conto](https://www.naoconto.com/), [Pornolandia](https://www.pornolandia.xxx/), [Novinhas Do Zap Zap](https://novinhasdozapzap.com/) or [Xpaja](https://www.xpaja.net/) - Latina Porn
+* [FreeArabSexx](https://freearabsexx.com/), [ArabySexy](https://arabysexy.com/), [Sex4ArabXXX](https://sex4arab.xxx/), [SexSaoy](https://sexsaoy.com/) or [SexAlArab](https://sexalarab.com/) - Arabic Porn
 * [XXBrits](https://www.xxbrits.com/) - British Porn
 * [IcePornCasting](https://iceporncasting.net/) - Casting Couch Porn
 * [Porn App](https://porn-app.com/) - Android Porn App / [Discord](https://discord.com/invite/XRjPBGa)
@@ -195,6 +196,7 @@
 * [pornSOS](https://www.pornsos.com/) - Aggregator
 * [Tiava](https://www.tiava.com/) - Aggregator
 * [4Porn](https://4porn.com/) - Aggregator
+* [EbonyGalore](https://www.ebonygalore.com/) - Aggregator
 * [MelonsTube](https://www.melonstube.com/) - Aggregator
 * [NudeVista](https://www.nudevista.com/) - Search Engines
 * [Xfantazy](https://xfantazy.com/) - Search Engines
@@ -352,6 +354,24 @@
 
 ***
 
+## ▷ Ebony
+
+* [SheFreaky](https://www.shesfreaky.com/)
+* [IponSex](https://iponsex.com/)
+* [BangHer](https://www.bangher.net/)
+* [PornInBlack](https://porninblack.com/)
+* [Azz For Days](https://azzfordays.co/)
+* [Mzansi Porn](https://mzansiporn.mobi/)
+* [Mzansi Videos](https://mzansipornvideos.com/)
+* [BaddiesOnly](https://baddiesonly.tv/)
+* [Baddies24/7](https://baddies247.com/)
+* [HomeGrownFreaks](https://homegrownfreaks.net/)
+* [Ebony Pulse](https://ebonypulse.tv/)
+* [RahaPorn](https://www.rahaporn.com/)
+* [TastyBlacks](https://tastyblacks.com/)
+
+***
+
 # ► Download 
 
 * ⭐ **[FapNationBot](https://discord.gg/d39hJGxwvX)** - Premium Porn Download Bot / [Free Bot](https://cutt.ly/4CnMP8x) / [Guide](https://rentry.co/seremfreeharem)
@@ -359,7 +379,9 @@
 * ⭐ **[0xxx](https://0xxx.ws/)**
 * [Search4Porn](https://search4porn.net/) - NSFW File Search
 * [SiteRips](https://www.siterips.org/)
-* [PornFactors](http://pornfactors.com/) 
+* [PornFactors](http://pornfactors.com/)
+* [PornoRips](https://pornorips.to/)
+* [BestPornstars](https://www.bestpornstars.org/)
 * [Best-MovieZ](https://www.best-moviez.ws/category/porn-18/) 
 * [HugeWarez](http://hugewarez.net/xxx-full-movies/)
 * [XXXCollections](https://xxxcollections.net/)
@@ -371,6 +393,7 @@
 * [RemaxHD](https://remaxhd.live/)
 * [Keep2porn](https://keep2porn.net/)
 * [MaxJAV](https://maxjav.com/)
+* [Pornmagnet](https://pornmagnet.org/) - VR Porn
 * [ArcJav](https://arcjav.com/) - Japanese
 * [3XPlanet](https://3xplanet.com/) - Japanese
 * [JavLibrary](https://www.javlibrary.com/en/) - Japanese
@@ -402,18 +425,22 @@
 
 * ⭐ **[myporn.club](https://myporn.club/)**
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Japanese
+* ⭐ **[ProjectJav](https://projectjav.com/)** - Japanese
 * ⭐ **[OneJAV](https://onejav.com/)** - Japanese
+* ⭐ **[141Jav](https://www.141jav.com/)** / **[141PPV](https://www.141ppv.com/)** - Japanese
 * ⭐ **[Next JAV](https://nextjav.com/)** - Japanese
 * [PornLeech](http://pornleech.ch/)
 * [Sexy-Pics](https://www.sexy-pics.us/)
 * [色花堂-98堂](https://www.sehuatang.net/)
 * [6Mag](https://6mag.net/)
+* [PornoLab](http://pornolab.net/forum/index.php)
 * [LoveTorrent](https://lovetorrent.net/), [2](https://5pornotorrent.net/)
 * [PornRips](https://pornrips.to/) - HEVC Porn Rips
 * [JavBus](https://www.javbus.com/en) - Japanese
-* [141Jav](https://www.141jav.com/) - Japanese
 * [Tokyo Tosho](https://tokyo-tosho.net/) - Japanese
 * [JAVdb](https://javdb.com/) - Japanese
+* [My JAV Bay](https://myjavbay.com/) - Japanese
+* [JAVJunkies](http://javjunkies.org/main/) - Japanese
 * [Torrent Piracy Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)- ctrl+f and type "nsfw"
 * [Cheggit](http://www.cheggit.me/register.php), [BitSexy](https://bitsexy.org/signup.php) or [HappyFappy](https://www.happyfappy.org/users/register) - Private Trackers / Open-Signups
 * [srrXXX](https://www.srrxxx.com/) - Scene Release Tracker
@@ -513,6 +540,7 @@
 * [OnlyFaps](https://faps.club/) - OnlyFans
 * [ThotHD](https://thothd.com/) - OnlyFans / Patreon
 * [BadGirlsArchive](https://badgirlsarchive.site/) - OnlyFans / Patreon
+* [ThotsGirls](https://thotsgirls.com/) - OnlyFans / Chaturbate
 * [LeakHive](https://leakhive.com/) - OnlyFans
 * [PureLeaks](https://pureleaks.net/) - OnlyFans
 * [Fan Leaks Club](https://fanleaks.club/) - OnlyFans
@@ -794,6 +822,7 @@
 * [adultload](https://adultload.ws/category/magazines/) 
 * [classic-porn](http://classic-porn.cc/)
 * [AdultMagazine](https://adultmagazine.net/)
+* [Adult Magazines PDF](https://adultmagazinespdf.com/)
 * [v9k9 Mags](https://redd.it/ouuakm) - Japanese Magazines
 * pdfmagazines.club/adult 
 * pdfmagazines.club/for-men 
