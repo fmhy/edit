@@ -44,7 +44,7 @@
 * ⭐ **[WhereIsMyPorn](https://whereismyporn.com/)** - Full Length Videos
 * ⭐ **[Bellesa](https://www.bellesa.co/)** - Porn Videos for women
 * [PornFeat](https://www.pornfeat.com/)
-* [XNXX](https://www.xnxx.com/)
+* [XNXX](https://www.xnxx.com/) / [Forum](https://forum.xnxx.com/)
 * [TNAFlix](https://www.tnaflix.com/)
 * [Pornobae](https://pornobae.com/)
 * [Youjizz](https://www.youjizz.com/)
