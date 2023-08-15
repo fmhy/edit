@@ -382,7 +382,6 @@
 
 # ► Mac Tools / Apps
 
-* ⭐ **[Team OS](https://www.teamos.xyz/)** or [gibMacOS](https://github.com/corpnewt/gibMacOS) - Download MacOS
 * ⭐ **[Readdle](https://readdle.com/documents)** - Multipurpose File Tool
 * ⭐ **[The Unarchiver](https://theunarchiver.com/)**, [unxip](https://github.com/saagarjha/unxip) or [Keka](https://www.keka.io/) - File Archiver / Unzipper
 * ⭐ **[qBittorrent](https://www.qbittorrent.org/)** - Torrent Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)
@@ -393,6 +392,7 @@
 * ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
 * ⭐ **[alt-tab-macos](https://alt-tab-macos.netlify.app/)** - Alt-Tab for Mac
 * ⭐ **[Fantastical](https://flexibits.com/fantastical)** - Calendar
+* [gibMacOS](https://github.com/corpnewt/gibMacOS) - Download MacOS
 * [Advanced MacOS Commands](https://saurabhs.org/advanced-macos-commands) - Advanced Command-Line Tools
 * [AnimeNow](https://github.com/AnimeNow-Team/AnimeNow) or [Novee](https://github.com/ZhichGaming/Novee) - Anime Streaming Apps
 * [DMHY](https://github.com/yaqinking/DMHY) - Anime Torrent Autodownloader 
