@@ -632,7 +632,6 @@
 * [mdpi](https://www.mdpi.com/) - Articles
 * [longdom](https://www.longdom.org/) - Articles
 * [Typewriter](https://tetw.org/) - Educational Articles & Essays The Electric
-* [Docracy](https://www.docracy.com/ ) - Legal Documents
 * [E-International Relations](https://www.e-ir.info/) - International Relation Articles
 * [Legal Core](https://core.ac.uk/) - Papers / Academic
 * [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Medical Journals
