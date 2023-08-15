@@ -3,7 +3,6 @@
 * ⭐ **[PornDude](https://theporndude.com/)** / [More Sites](https://theporndude.com/hall-of-fame)
 * ⭐ **[Reddit Doesn't Like This Site](https://www.reddit-doesnt-like-this.site/)**
 * ⭐ **[NSFW Subreddits](https://www.reddit.com/r/NSFW411/wiki/index)**, [2](http://electronsoup.net/nsfw_subreddits/), [3](https://bin.disroot.org/?81af22c09e92865d#FYLXmjaKbaojaELwAv1szcfy7rahuA77ntnFu2HBEBGf), [4](https://redd.it/brypgf), [5](https://theporndude.com/best-nsfw-reddit-sites)
-* [Full Length Porn CSE](https://cse.google.com/cse?cx=6c02fb377e50d493c)
 * [One Porn List](https://onepornlist.com/)
 * [BigPornList](http://bigpornlist.net/)
 * [MrPornGeek](https://www.mrporngeek.com/)
@@ -176,6 +175,7 @@
 
 * ⭐ **[Noodlemagazine](https://noodlemagazine.com)**, [2](https://mat6tube.com/), [3](https://18.tyler-brown.com/), [4](https://waterdamagesandiego.org/), [5](https://hot.exporntoons.net/), [6](https://actionviewphotography.com/) - Search Engine
 * ⭐ **[iXXX](https://www.ixxx.com/)** - Aggregator
+* [Full Length Porn CSE](https://cse.google.com/cse?cx=6c02fb377e50d493c) - Aggregators CSE
 * [TubeSafari](https://tubesafari.com/) - Aggregator
 * [Thumbzilla](https://www.thumbzilla.com/) - Aggregator
 * [Fuq](https://www.fuq.com/) - Aggregator
@@ -264,6 +264,7 @@
 * [SakuraLive](https://www.sakuralive.com/index.shtml) - Asian
 * [LiveSexAsian](https://www.livesexasian.com/) - Asian
 * [AsianBabeCams](https://www.asianbabecams.com/) - Asian
+* [Live Dosti](https://www.livedosti.com/) - Indian
 * [CamBro](https://www.cambro.tv/), [OnScreens](https://camcaps.ac/) or [WebcamRips](https://webcamrips.to/) - Cam Videos
 * [TubeAsianCams](https://tubeasiancams.com/), [KoreanBJ](https://koreanbj.club/) or [SKBJ](https://skbj.tv/) - Asian Cam Archives
 
@@ -274,6 +275,7 @@
 * ⭐ **[SexTB](https://sextb.net/)** - Japanese
 * ⭐ **[SupJav](https://supjav.com/)** - Japanese
 * ⭐ **[JAVSeen](https://javseen.tv/)** - Japanese
+* ⭐ **[JAVGG](https://javgg.net/)** - Japanese
 * ⭐ **[MissAV](https://missav.com/en)**, [myAV](https://myav.com/) or [ThisAV](https://thisav.com/) - Japanese
 * ⭐ **[JavGuru](https://jav.guru/)** - Japanese
 * [Javtiful](https://javtiful.com/) - Japanese
@@ -321,6 +323,32 @@
 * [aagmaals](https://aagmaals.net/) - Indian
 * [sexfullmovies](https://www.sexfullmovies.com/) - Indian
 * [onlyindianporn](https://onlyindianporn.me/) - Indian
+
+***
+
+## ▷ Indian
+
+* [FSIBlog](https://www.fsiblog4.com/)
+* [AAGmaal](https://aagmaal.com/) / [2](https://10hd.xyz/) / [3](https://aagmaal.pics/) / [4](https://aagmaal.pics/) / [5](https://webmaal.cyou/) / [6](https://sohot.cyou/)
+* [ChiggyWiggy](https://chiggywiggy.com/)
+* [MyDesi](https://www.mydesi3.com/)
+* [UncutMaza](https://uncutmaza.cc/)
+* [IxiPorn](https://ixiporn.cc/)
+* [NangiVideos](https://video.nangiphotos.com/)
+* [IndianPornGirl](https://indianporngirl2.com/index.html)
+* [KamaBaba](https://www.kamababa.desi/)
+* [RemaxHD](https://remaxhd.homes/) / [Telegram](https://t.me/remaxhdnew)
+* [DesiBP](https://desibp.com/)
+* [Antarvasna BF](https://www.antarvasnabf.com/)
+* [JanuFlix](https://januflix.expert/)
+* [Hindi XXX HD](https://hindixxxhd.com/)
+* [XXX Video Indian](https://www.xxxvideoindian.com/)
+* [Aagmaal.run](https://aagmaal.run/)
+* [Aagmaal.mov](https://aagmaal.mov/)
+* [Aagmaals.org](https://aagmaals.me/)
+* [AyzVid](https://ayzvid.xyz/)
+* [ViralVideoTube](https://viralvideotube.pro/) or [Happy2Hub](https://happy2hub.eu/homepage/) - Movies
+* [GotXX](https://www.gotxx.net/) - Softcore Indian Movies
 
 ***
 
@@ -373,6 +401,9 @@
 ## ▷ Torrents
 
 * ⭐ **[myporn.club](https://myporn.club/)**
+* ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Japanese
+* ⭐ **[OneJAV](https://onejav.com/)** - Japanese
+* ⭐ **[Next JAV](https://nextjav.com/)** - Japanese
 * [PornLeech](http://pornleech.ch/)
 * [Sexy-Pics](https://www.sexy-pics.us/)
 * [色花堂-98堂](https://www.sehuatang.net/)
@@ -382,6 +413,7 @@
 * [JavBus](https://www.javbus.com/en) - Japanese
 * [141Jav](https://www.141jav.com/) - Japanese
 * [Tokyo Tosho](https://tokyo-tosho.net/) - Japanese
+* [JAVdb](https://javdb.com/) - Japanese
 * [Torrent Piracy Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)- ctrl+f and type "nsfw"
 * [Cheggit](http://www.cheggit.me/register.php), [BitSexy](https://bitsexy.org/signup.php) or [HappyFappy](https://www.happyfappy.org/users/register) - Private Trackers / Open-Signups
 * [srrXXX](https://www.srrxxx.com/) - Scene Release Tracker
