@@ -1146,7 +1146,7 @@
 * [Baixar Vídeo](https://baixarvideo.com.br) - Portuguese Video Downloader
 * [Online Cursos Gatuitos](https://onlinecursosgratuitos.com) - Courses
 * [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
-* [WR Educacional](https://www.wreducacional.com.br) - Courses
+* ⭐ **[WR Educacional](https://www.wreducacional.com.br)** - Courses
 * [Mundo Ubuntu](https://www.mundoubuntu.com.br) - Courses
 
 ## ▷ Torrenting
@@ -1165,7 +1165,7 @@
 * [Keroseed](https://www.keroseed.com) - Anime
 * [Anime No Sekai](https://www.ansktracker.net) - Anime WebIRC Tracker
 * [Sua Música](https://www.suamusica.com.br) - MP3
-* [Download Cursos Grátis](https://downloadcursos.top) - Courses
+* ⭐ **[Download Cursos Grátis](https://downloadcursos.top)** - Courses / Use Adblock
 * [Livros e Cursos Download](https://timaterial.blogspot.com) - Courses
 
 ## ▷ Streaming
@@ -1202,10 +1202,10 @@
 * [Omie](https://academy.omie.com.br) - Courses
 * [MOOC GGTE](https://moocs.ggte.unicamp.br) - Courses
 * [Download de Livros Grátis](https://download-de-livros-gratis.webnode.page) - Courses
-* [Gyn Cursos](https://gyncursos.com.br) - Courses
-* [Pensar Cursos](https://www.pensarcursos.com.br) - Courses
+* ⭐ **[Gyn Cursos](https://gyncursos.com.br)** - Courses
+* ⭐ **[Pensar Cursos](https://www.pensarcursos.com.br)** - Courses
 * [Núcleo do Conhecimento](https://www.nucleodoconhecimento.com.br) - Courses
-* [iEstudar Cursos](https://iestudar.com) - Courses
+* ⭐ **[iEstudar Cursos](https://iestudar.com)** - Courses
 * [OpenupEd](https://www.openuped.eu/courses) - Courses
 * [Escola Virtual Gov](https://www.escolavirtual.gov.br/catalogo) - Courses
 * [Escola Virtual](https://www.ev.org.br) - Courses
