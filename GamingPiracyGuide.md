@@ -1112,7 +1112,6 @@
 * [RDRFSR2](https://github.com/RealIndica/RDRFSR2) - RDR2 FidelityFX Super Resolution Mod
 * [Genshin Impact FPS Unlocker](https://github.com/34736384/genshin-fps-unlock) - Unlock Genshin Impact FPS Cap
 * [Optimize Dying Light 2](https://rentry.co/opto-dl2) - DL2 Optimization Mods
-* [RoSeal](https://www.roseal.live/) - Roblox Enhancement Extension
 * [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) - Roblox Player Bootstrapper
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
 * [Roblox Performance](https://rentry.co/roblox-player-studio-performance), [he3als](https://blog.he3als.xyz/roblox-optimisation-guide.html) or [Mr. Goose](https://docs.google.com/document/d/1_XH3IMpaCtoKR1U38Zh08kbJr-WwptsxHSza-G7UKGU/) - Roblox Optimization Guides
@@ -1180,6 +1179,7 @@
 * [Roblox Account Manager](https://github.com/ic3w0lf22/Roblox-Account-Manager) - Roblox Account Manager
 * [RoPro](https://ropro.io/), [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040) or [RoGold](https://discord.gg/XMHn9zV3UA) - Enhance Roblox Website
 * [ROBLOX Low Ping Finder](http://low-ping.dino.icu/) - Find Low Ping Roblox Servers
+* [RoSeal](https://www.roseal.live/) - Roblox Enhancement Extension
 * [VRCList](https://vrclist.com/) - Find VRChat Worlds
 
 ***
