@@ -115,7 +115,7 @@
 * ⭐ **[AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_image_generators)**
 * [more.graphics](https://more.graphics/) - Graphic Generators
 * [Rough.js](https://roughjs.com/) - Hand Drawn Graphic Generator
-* [Erlich](https://replicate.com/laion-ai/erlich), [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - Icon / Logo Generators
+* [FontIcon](https://gauger.io/fonticon/), [PFPMaker](https://pfpmaker.com/), [ProfilePictureMaker](https://profilepicturemaker.com/), [IconsFlow](https://iconsflow.com/), [Flat-Icon-Surge](https://flat-icon.surge.sh/) or [Favic-o-Matic](https://favicomatic.com/) - Icon / Logo Generators
 * [Logo Makr](https://logomakr.com/), [Hatchful](https://www.shopify.com/tools/logo-maker), [Logomak](https://logomak.com/), [The Logo Wizard](https://www.thelogowizard.com/), [DesignEvo](https://designevo.com/), [LogoFreeway](https://logofreeway.com/logos.php), [Logoshi](https://www.logoshi.com/), [ShapeFactory](https://logo.shapefactory.co/), [OnlineLogoMaker](https://www.onlinelogomaker.com/), [Free Logo Maker](https://freelogomaker.net/), [LogoMaker](https://www.namecheap.com/logo-maker/app/new/)) or [ACME](https://acme.com/labelmaker/) - Logo Creators / [Note](https://i.ibb.co/B3Mn3Hq/b7a4cf526ad1.png)
 * [JSLogo](https://www.calormen.com/jslogo/) - Logo Interpreter
 * [ArtFlow](https://app.artflow.ai/), [Avatar Mixer](https://kenney.itch.io/avatar-mixer), [Bitmoji](https://www.bitmoji.com/), [Avatar Maker](https://avatarmaker.com/), [Pravatar](https://pravatar.cc/), [MultiAvatar](https://multiavatar.com/), [Personas](https://personas.draftbit.com/), [react-nice-avatar](https://github.com/dapi-labs/react-nice-avatar) or [Avataaars](https://getavataaars.com/) - Face / Avatar Creators
@@ -136,10 +136,8 @@
 * [Text-Image](https://www.text-image.com/) - Text Image Generator
 * [NoiseDeck](https://noisedeck.app/) - Art Generator
 * [Uji](https://doersino.github.io/uji/) or [Turtletoy](https://turtletoy.net/) - Minimalist Art Generators
-* [Mosaic](https://github.com/Roman-/mosaic) - Rubik's Cube Mosaic Generator
 * [MandalaGaba](https://www.mandalagaba.com/) / [Pro Version](https://pro.mandalagaba.com/), [Mandala App](https://mandala-app.com/) or [DigitalDoily](https://codymoose.github.io/web-applications/DigitalDoily/index.html) - Zen Geometry Tool
 * [Silk](http://weavesilk.com/) - Create Geometric Silk Art
-* [Turtle](https://play.google.com/store/apps/details?id=com.amrdeveloper.turtle) - Create Shapes 
 * [Inspirograph](https://nathanfriend.io/inspiral-web/) or [SpirographN](http://seedcode.com/SpirographN/sgn.html) - Spirograph Tool
 * [myMrLx](https://codepen.io/davidpanik/full/myMrLx/) - Spiral Art Generators
 * [Paper Quilling Art](https://pissang.github.io/paper-quilling-art/) - Paper Quilling Art Generator
@@ -322,7 +320,6 @@
 * [PimEyes](https://pimeyes.com/en/) - Reverse Face Image Search 
 * [trace.moe](https://trace.moe/) - Anime Scene Reverse Image Search 
 * [Multicolr](https://labs.tineye.com/multicolr/) - Color Based Reverse Image Search
-* [icon_finder](https://codeberg.org/cauf/icon_finder) - Search for Icons via Patterns
 * [pfps.gg](https://pfps.gg/) - Profile Picture Index
 * [OpenMoji](https://openmoji.org/) - Emojis
 * [PixelJoint](https://pixeljoint.com/) - Pixel Art
@@ -421,8 +418,8 @@
 * [Awesome Colab nNotebooks]( https://github.com/amrzv/awesome-colab-notebooks) - Image Colab Tools
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
-* [GlanceBack](https://glanceback.info/) - Daily Webcam Photo Journal
 * [DataFilm](http://datafilm.io/) - Notebook for Film Photographers
+* [GlanceBack](https://glanceback.info/) - Daily Webcam Photo Journal
 * [Image Color Summarizer](http://mkweb.bcgsc.ca/color-summarizer/) - Image Color Summarizer
 * [ImgOps](https://imgops.com/) - Image Operations Meta-Tool
 * [FontAwesomePS](http://creativedo.co/FontAwesomePS) - Photoshop Icon Manager
@@ -497,9 +494,9 @@
 
 ## ▷  Image Converters
 
-* [imverter](https://www.imverter.com/), [Raw Pics](https://raw.pics.io/), [Converseen](https://converseen.fasterland.net/), [JINAConvert](https://jinaconvert.com/), [Vector Magic](https://vectormagic.com/), [WEBPtoJPG](https://webptojpg.com/), [AnyWebP](https://anywebp.com/), [WEBPtoPNG](https://webptopng.com/), [WEBTtoGIF](https://webptogif.com/), [JPGtoPNG](https://jpgtopngconverter.com/), [PNGtoJPG](https://pngtojpg.com/), [avif.io](https://github.com/justinschmitz97/avif.io/), [HEICtoJPG](https://heicjpeg.com/) / [2](https://heicconvert.io/) or [WebP Converter](https://webp-converter.com/) - Image Converters 
-* [ImageMagick](http://www.imagemagick.org/script/index.php) - Image Editor / Converter
-* [PaperFile](http://www.paperfile.net/) or [StructuRise](http://structurise.com/screenshot-ocr/) - Convert Image Text to Text File
+* ⭐ **[ImageMagick](http://www.imagemagick.org/script/index.php)** - Image Editor / Converter
+* [imverter](https://www.imverter.com/), [Raw Pics](https://raw.pics.io/), [Converseen](https://converseen.fasterland.net/), [JINAConvert](https://jinaconvert.com/), [Vector Magic](https://vectormagic.com/), [WEBPtoJPG](https://webptojpg.com/), [AnyWebP](https://anywebp.com/), [WEBPtoPNG](https://webptopng.com/), [WEBTtoGIF](https://webptogif.com/), [JPGtoPNG](https://jpgtopngconverter.com/), [PNGtoJPG](https://pngtojpg.com/), [avif.io](https://avif.io/), [HEICtoJPG](https://heicjpeg.com/) / [2](https://heicconvert.io/) or [WebP Converter](https://webp-converter.com/) - Image Converters 
+* [StructuRise](http://structurise.com/screenshot-ocr/) - Convert Image Text to Text File
 * [svgco](https://svgco.de/) - Image to SVG Converter
 * [AnsiLove](https://www.ansilove.org/downloads.html) or [convert-ascii-to-image](https://onlinetools.com/ascii/convert-ascii-to-image) - ANSI / ASCII Art to PNG Converters
 * [Vector Express](https://vector.express/) - Vector Converter
@@ -513,7 +510,6 @@
 
 * [Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/) or [InstaFollowers](https://www.instafollowers.co/instagram-tools) - Multiple Tools 
 * [GridsApp](https://gridsapp.net/) - Desktop Client
-* [InstaKiller](https://github.com/yamin8000/InstaCLI) - Instagram CLI
 * [Bypass Login](https://greasyfork.org/en/scripts/420604) - Bypass Instagram Login Redirects
 * [AeroInsta](https://aeroinsta.com/) or [Instander](https://thedise.me/instander/) - Modded Android App
 * [WhatIsRhino](https://lemamichael.github.io/WhatIsRhino/) - Modded iOS App
