@@ -782,7 +782,6 @@
 * [Flutter Login Page Design](https://github.com/afgprogrammer/Flutter-Login-Page-Design) or [LoginCritter](https://github.com/cgoldsby/LoginCritter) - Login Page Designs
 * [App ideas](https://github.com/florinpop17/app-ideas) - Collection of App Ideas
 * [Fastlane](https://fastlane.tools/) - App Development Automation / [GitHub](https://github.com/fastlane/fastlane)
-* [I wish there was app](https://iwishtherewas.app/) - Get App Ideas From Twitter
 * [Blisk](https://blisk.io/) - Cross-Device Testing
 * [Percy](https://percy.io/) - Visual App Review Platform
 * [Booster](https://github.com/didi/booster) - Mobile App Optimization
