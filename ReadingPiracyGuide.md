@@ -796,6 +796,7 @@
 
 * ⭐ **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-Site Comic Search
 * ⭐ **[ReadComicsOnline](https://readcomiconline.li/)**
+* ⭐ **[ReadAllComics](https://readallcomics.com/)**
 * ⭐ **[GetComics](https://getcomics.org/)** - Downloads / Read Online
 * ⭐ **[ComicExtra](https://comicextra.net/)** or [Comic Online Free](https://comiconlinefree.net/)
 * ⭐ **[XOXO Comics](https://xoxocomics.net/)**
@@ -814,7 +815,6 @@
 * [WallComic](https://wallcomic.com/)
 * [MyComicList](https://mycomiclist.com/)
 * [Comics Online](http://www.comicsonline.io/)
-* [ReadAllComics](https://readallcomics.com/)
 * [Read Full Comic](https://readfullcomic.com/) / [2](https://viewcomiconline.com/)
 * [KidsGen](https://www.kidsgen.com/comics/)
 * [DC Universe Infinite](https://www.dcuniverseinfinite.com/collections/free-to-read-row) - Free DC Comics
