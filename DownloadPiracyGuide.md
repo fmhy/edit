@@ -160,15 +160,12 @@
 * ⭐ **[nsane.down](https://www.nsaneforums.com/)**
 * ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** or [Rave Search](https://ravesoftwaresearch.pages.dev/) - Multi-Site Software Search
 * [4Download](https://www.4download.net/)
-* [Diakov](https://diakov.net/)
 * [AIOWares](https://www.aiowares.com/)
 * [Mr. SzzS](https://www.youtube.com/channel/UCcf3dtQFVb5zfy0jGYNpA0w)
 * [TheMicroTech](https://programs.themicrotech.net/)
 * [downloadly.ir](https://downloadly.ir/)
 * [soft98](https://soft98.ir/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Mutaz.net](https://www.mutaz.net/)
-* [SCloud](https://scloud.ws/)
-* [AllPCWorld](https://allpcworld.com/)
 * [Heidoc](https://www.heidoc.net/joomla/)
 * [RetroSystemRevival](https://retrosystemsrevival.blogspot.com/)
 * [SamLab](https://samlab.ws/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
