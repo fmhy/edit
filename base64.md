@@ -14,12 +14,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 * 
 ***
 
-#### 50TB Mega Drive
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci8wMUYyWGJnQSN1MlNpNUpMMlZkMGhBZDdzWVU1OWlnL2ZvbGRlci9BbzEySEJRSQ==`
-
-***
-
 #### Rek's Drive
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9pWVEzU1liQSNfbzllTzRvMWVpQ2Q4UXNDVFU3aVV3`
