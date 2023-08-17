@@ -457,6 +457,7 @@
 * [CORS Proxy](https://corsproxy.github.io/) - Free CORS Proxy
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
 * [Octopus](https://octopus.do/sitemap) - Site Planning Tool
+* [Browser Default Styles](https://browserdefaultstyles.com/) - Default Browser Style Search
 * [Utom Design](https://utom.design/measure) - Sketch Measure
 * [WireFlow](https://wireflow.co/) - Flow Prototype Maker
 * [Geekflare Tools](https://domsignal.com/toolbox) - Site Testing Tools
@@ -474,7 +475,6 @@
 * [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) - Compare Website Performance
 * [Visual Mind AI](https://myraah.io/index.php/visualmind) - Site Visual Score
 * [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
-* [Contrast Checker](https://contrast-checker.glitch.me/) - Contrast Checker
 * [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
 * [free-website-translation](http://free-website-translation.com/), [transdict](http://transdict.com/meta/website.html) or [conveythis](https://www.conveythis.com/) - Website Translators
 * [Statically](https://statically.io/) - Load Websites Faster
@@ -1062,7 +1062,7 @@
 * [uiGradients](https://uigradients.com/) - Hex Gradients
 * [ShaderToy](https://www.shadertoy.com/browse) - User-Made Shaders
 * [Alphredo](https://alphredo.app/) - Create Translucent Colors
-* [Contrast Checker](https://webaim.org/resources/contrastchecker/) - Background / Text Contrast Checker
+* [Contrast Checker](https://contrast-checker.glitch.me/) or [contrastchecker](https://webaim.org/resources/contrastchecker/) - Background / Text Contrast Checker
 
 ***
 
@@ -1203,6 +1203,7 @@
 * [Regulex](https://jex.im/regulex/) or [Regexper](https://regexper.com/) - Regular Expression Visualizers
 * [anime.js](https://animejs.com/) - JavaScript Animation Library / [GitHub](https://github.com/juliangarnier/anime/)
 * [randomcolor](https://randomcolor.lllllllllllllllll.com/) - Random Javascript Color Generator
+* [ASTExplorer](https://astexplorer.net/) - AST Viewer
 * [Microdiff](https://github.com/AsyncBanana/microdiff) - Object and Array Comparison Library
 * [Adoptium](https://adoptium.net/) - Download OpenJDK Binaries
 * [trzsz](https://github.com/trzsz/trzsz.js) - Make trzsz Compatible with tmux in Terminal
@@ -1353,7 +1354,7 @@
 
 ## ▷ API Tools
 
-* [API List](https://apilist.fun/), [Public APIs](https://publicapis.dev/), [APIsList](https://apislist.com/), [API House](https://apihouse.vercel.app/), [Awesome APIs](https://github.com/TonnyL/Awesome_APIs), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) - API Indexes
+* [API List](https://apilist.fun/), [Public APIs](https://publicapis.dev/), [APIsList](https://apislist.com/), [API House](https://apihouse.vercel.app/), [APIs Guru](https://apis.guru/), [Awesome APIs](https://github.com/TonnyL/Awesome_APIs), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) - API Indexes
 * [List of Providers](https://docs.consumet.org/list-of-providers) - Piracy Site APIs
 * [Insomnia](https://insomnia.rest/) - API Client
 * [Strapi](https://strapi.io/) or [Postman](https://www.postman.com/) - API Builders
