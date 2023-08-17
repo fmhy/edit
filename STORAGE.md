@@ -1665,7 +1665,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Name & Identity Generators
 
-[Fake Data](https://www.fakedata.pro/), [minirandom](https://minirandom.com/), [namegenerators](https://namegenerators.org/), [online-generator.com](https://online-generator.com/index.php), [igopaygo](https://names.igopaygo.com/), [Fake Name Generator](https://www.fakenamegenerator.com/), [fakepersongenerator](https://www.fakepersongenerator.com/), [datafakegenerator](https://datafakegenerator.com/), [elfqrin](https://www.elfqrin.com/), [fakedetail](https://fakedetail.com/), [fauxid](https://fauxid.com/), [fakexy](https://www.fakexy.com/), [Temp Name](https://temp-name.org/)
+[Fake Data](https://www.fakedata.pro/), [minirandom](https://minirandom.com/), [namegenerators](https://namegenerators.org/), [online-generator.com](https://online-generator.com/index.php), [igopaygo](https://names.igopaygo.com/), [Fake Name Generator](https://www.fakenamegenerator.com/), [fakepersongenerator](https://www.fakepersongenerator.com/), [datafakegenerator](https://datafakegenerator.com/), [elfqrin](https://www.elfqrin.com/), [fakedetail](https://fakedetail.com/), [Fakeinfo](https://fakeinfo.net/), [fauxid](https://fauxid.com/), [fakexy](https://www.fakexy.com/), [Temp Name](https://temp-name.org/)
 
 **Address Generators**
 
