@@ -179,12 +179,10 @@
 * [Squid Proxy](https://github.com/nbats/FMHYedit/blob/main/base64.md#squid-proxy) - ROMs
 * [Rom GDrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#rom-gdrive) - ROMs
 * [Arquivista ROMs](https://github.com/nbats/FMHYedit/blob/main/base64.md#arquivista) - ROMs
-* [@Storage_Manager](https://github.com/nbats/FMHYedit/blob/main/base64.md#storage_manager) - ROMs / Zip 
 * [FinalBurn Neo](https://github.com/nbats/FMHYedit/blob/main/base64.md#finalburn-neo) - ROMs / Zip 
 * [Everdrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#everdrive) - ROMs / Zip
 * [Many Dumped Games](https://github.com/nbats/FMHYedit/blob/main/base64.md#many-dumped-games) - ROMs
 * [nwifiresticks](https://github.com/nbats/FMHYedit/blob/main/base64.md#nwifiresticks) - ROMs
-* [Rom Pack](https://www.ROMspack.com/) - ROMs
 * [Retrostic](https://www.retrostic.com/) - Emulators / ROMs
 * [ROMsie](https://romzie.com/) - Emulators / ROMs
 * [Romsever](https://romsever.com) - Emulators / ROMs
@@ -192,21 +190,16 @@
 * [ConsoleROMs](https://www.consoleROMs.com/) - Emulators / ROMs
 * [HexRom](https://hexrom.com/) - Emulators / ROMs
 * [GameGinie](https://gameginie.com/) - Emulators / ROMs
-* [Rom Hustler](https://romhustler.org/) - Emulators / ROMs
 * [Technosagar](https://roms.technosagar.com/) - ROMs
 * [80s](https://github.com/nbats/FMHYedit/blob/main/base64.md#80s) - Emulators / ROMs 
-* [ROMsDownload](https://ROMsdownload.net/) - Emulators / ROMs
 * [The Old Computer](https://www.theoldcomputer.com/) - Emulators / ROMs
 * [Emulator Games](https://www.emulatorgames.net/) - Emulators / ROMs
-* [ROMsGet](https://www.ROMsget.io/) - Emulators / ROMs
 * [Emuparadise](https://www.emuparadise.me/) - Emulators / ROMs / [Forum](https://www.epforums.org/)
 * [ROMsPURE](https://ROMspure.cc/) - Emulators / ROMs
 * [Romspedia](https://www.romspedia.com/) - Emulators / ROMs
 * [ROMs Games](https://www.romsgames.net/) - Emulators / ROMs
 * [ROMs DL](https://romsdl.com/) - Emulators / ROMs
 * [HappyROMs](https://happyroms.com/) - Emulators / ROMs
-* [DownloadArea81](https://www.downarea51.com/) - Emulators / ROMs
-* [ROMs Planet](https://romsplanet.com/) - Emulators / ROMs
 * [RPGOnly](https://rpgonly.com) - ROMs
 * [RomToHome](https://romtohome.com/) - ROMs
 * [Sundby](https://github.com/nbats/FMHYedit/blob/main/base64.md#sundby) - ROMs
@@ -220,14 +213,11 @@
 * [NGR](https://www.nextgenroms.com/) - ROMs
 * [FantasyAnime](https://fantasyanime.com/) - ROMs
 * [NesGM](https://nesgm.net/) - ROMs / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
-* [ROM World](http://www.romworldonline.com/) - ROMs / [How-to](https://i.ibb.co/vYJSs4d/dd99f3e3768d.png)
-* [LegendaryRepacks](https://discord.gg/RUSNHSk) - ROMs
 * [Rom Magnet Links](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites#BitTorrent) - ROMs / Torrent
 * [ROM CSE](https://cse.google.com/cse?cx=f47f68e49301a07ac) / [CSE 2](https://cse.google.com/cse?cx=744926a50bd7eb010) - Multi-Site ROM Search
 * [DDL](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) / [Torrent](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent) - ctrl+f ROMs
 * [Switch ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - ROMs / Switch
 * [MarioCube](https://mariocube.com/) - ROMs / Wii / Gamecube
-* [All N64 ROMs](https://alln64roms.blogspot.com/) - ROMs / N64
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [3DS ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - ROMs / 3DS
 * [NoPayStation](https://nopaystation.com/) or [SafeROMs](https://www.saferoms.com/) - ROMs / Playstation Consoles

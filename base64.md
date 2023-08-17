@@ -178,12 +178,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ***
 
-#### @Storage_Manager
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL0BzdG9yYWdlX21hbmFnZXI=`
-
-***
-
 #### FinalBurn Neo
 
 `aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzLzIwMjBfMDFfMDZfZmJu`
