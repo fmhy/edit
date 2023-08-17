@@ -54,7 +54,6 @@
 * [APKKit](https://apkkit.com/)
 * [Blackmod](https://blackmod.net/) - Modded Games
 * [p30afzar](https://dl.p30afzar.com/Games/) - Modded Games
-* [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
 * [Aero Apps](https://t.me/aerolla) - Modded Social Media Apps
 
 ***
@@ -136,6 +135,7 @@
 * [Moderse](https://t.me/Moderse)
 * [AyraProject](https://t.me/AyraProject)
 * [Modules Repositor](https://t.me/modulesrepo)
+* [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
 
 ***
 
