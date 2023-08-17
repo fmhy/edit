@@ -88,7 +88,7 @@
 ## ▷ FOSS APKs
 
 * ⭐ **[F-Droid](https://f-droid.org/)**
-* ⭐ **F-Droid Tools** [Resources](https://fdroidfamily.codeberg.page/) / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
+* ⭐ **F-Droid Tools** - [Resources](https://fdroidfamily.codeberg.page/) / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
 * ⭐ **F-Droid Clients** - [Droid-ify](https://github.com/Iamlooker/Droid-ify) / [Classic Client](https://git.bubu1.eu/Bubu/fdroidclassic) / [gdroidclient](https://gitlab.com/gdroid/gdroidclient) / [Neo Store](https://github.com/NeoApplications/Neo-Store)
 * ⭐ **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - F-Droid Repositories
 * ⭐ **[Android FOSS](https://github.com/offa/android-foss)**
