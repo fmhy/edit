@@ -227,7 +227,7 @@
 * [PangzITV](https://pangzitv.com/) - Movies / TV / Anime
 * [tangrenjie](https://www.tangrenjie.tv/) - Movies / TV / Anime
 * [ddrk](https://ddrk.me/) - Movies / TV / Anime
-* [Tencent Video](https://v.qq.com/) - Movies / TV / Anime
+* [Tencent Video](https://v.qq.com/) - Movies / TV / Anime / [Downloader](https://weibomiaopai.com/online-video-downloader/tencent)
 * [MoMoVOD](https://momovod.app/) - Movies / TV / Anime
 * [uvod.tv](https://www.uvod.tv/) - Movies / TV / Anime
 * [Btutv](https://www.btutv.com/) - Movies / TV / Anime
