@@ -24,7 +24,7 @@
 * [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) - APK Editor
 * [APKTool](https://github.com/iBotPeaches/Apktool) - APK Reverse Engineering Tool
 * [BlackDex](https://github.com/CodingGay/BlackDex) - APK Unpacking Tool
-[FOSS Package Creator](https://un.pixel-fy.com/) - Create Open Source APK Packages
+* [FOSS Package Creator](https://un.pixel-fy.com/) - Create Open Source APK Packages
 * [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) or [APKGrabber](https://github.com/hemker/apkgrabber) or [Obtainium](https://github.com/ImranR98/Obtainium/) - APK Updaters
 * [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) - Downgrade Apps on Android 12/13
 * [APKAdmin](https://apkadmin.com/) - APK Hosting Site
