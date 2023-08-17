@@ -988,7 +988,7 @@
 * [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme
 * [BrowserParrot](https://www.browserparrot.com/) - Browser History Search Engine
 * [Hurl](https://github.com/U-C-S/Hurl) - Select Browser on URL Clicks
-* [Edge-Remover](https://rentry.co/uninstall_edge) - Microsoft Edge Removal Script
+* [Uninstall Edge](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6) or [Edge-Remover](https://rentry.co/uninstall_edge) - Microsoft Edge Removal Script
 * [NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge), [Edge_Removal.bat](https://github.com/AveYo/fox/blob/main/Edge_Removal.bat) / [2](https://gist.github.com/ishad0w/3b79bf829e9725aa102b2e8446bb5ef8) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
 * [xBrowserSync](https://github.com/xbrowsersync/app) - Sync Browser Data Browsers / Devices
 * [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)
@@ -1890,7 +1890,7 @@ Twitch Stream Tracker
 ## ▷ Customization
 
 * ⭐ **[Wallpaper Sites / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)** - Download Wallpapers
-* ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals) 
+* ⭐ **[Rainmeter](https://www.rainmeter.net/)** - Desktop Customization / [Skins](https://github.com/khanhas/MagickMeter), [2](https://visualskins.com/) / [Utilities](https://github.com/Jax-Core), [2](https://www.deviantart.com/jaxoriginals) 
 * ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9), [Catppuccin](https://github.com/catppuccin) / [Discord](https://discord.gg/r6Mdz5dpFc), [Aura Theme](https://github.com/daltonmenezes/aura-theme) or [theme.park](https://theme-park.dev/) - Custom App Themes
 * [XDesktopSoft](https://www.xwidget.com/) - Desktop Customization
 * [winthemers](https://discord.com/invite/8FFWAqdtc4) - Customization Community
@@ -1909,7 +1909,7 @@ Twitch Stream Tracker
 * [LineStep](http://litestep.net/) - Customize Desktop Interface
 * [Windows10PowerShellReimaging](https://github.com/aesser11/windows-reimage-script) - Windows Auto Personalization / Debloating Script
 * [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Windows 10 Auto Dark Mode
-* [OpenRGB](https://openrgb.org/), [SignalRGB](https://www.signalrgb.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/), [FireLight](https://github.com/nicolasdeory/firelight) or [Aurora](https://github.com/antonpup/Aurora) - System Lighting Control / [GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB)
+* [OpenRGB](https://openrgb.org/), [SignalRGB](https://www.signalrgb.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [RBGSync](https://rgbsync.com/), [WLED](https://kno.wled.ge/), [FireLight](https://github.com/nicolasdeory/firelight) or [Aurora](https://github.com/antonpup/Aurora) - System Lighting Control / [GitLab](https://gitlab.com/CalcProgrammer1/OpenRGB)
 * [ShaderGlass](https://github.com/mausimus/ShaderGlass) - Custom Screen Shaders
 * [DiscordChroma](https://github.com/DELUUXE/DiscordChroma) or [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - Discord System Lighting Control
 * [KeyboardVisualizer](https://gitlab.com/CalcProgrammer1/KeyboardVisualizer) - Audio Visualizer / FX Engine for Keyboards, Mice & Accessories
