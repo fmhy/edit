@@ -113,11 +113,9 @@
 ## ▷ TG Channels
 
 * ⭐ **[Modded Central](https://t.me/+yaL8VGyjS0Q0YTll)** / [Backup](https://t.me/moddedcentralbackup)
-* [Streamiza](https://t.me/streamiza) / [Discord](https://linktr.ee/Streamiza)
 * [MixRoot Mods](https://t.me/Mixrootmods), [DroidApks](https://t.me/DroidApks)
 * [ModCombo](https://t.me/modcombo_en)
 * [pcandroidsoftware](https://t.me/pcandroidsoftware/)
-* [sserratty_hack](https://t.me/sserratty_hack/)
 * [Glype](https://t.me/Glype)
 * [alexstranniklite](https://t.me/alexstranniklite)
 * [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL)
@@ -678,7 +676,6 @@
 * [SMAPI](https://github.com/ZaneYork/SMAPI-Android-Installer) - Multiplayer Stardew Valley
 * [Pinball for Android](https://github.com/fexed/Pinball-on-Android) - Space Cadet Pinball
 * [WhoSaidThat](https://www.whosaidthat.uk/) - Guess Who Said What
-* [ExitLag](https://play.google.com/store/apps/details?id=com.exitlag.gamebooster&hl=en&gl=US) - Decrease Ping
 
 ***
 
@@ -719,7 +716,6 @@
 * [BookReader](https://gitlab.com/axet/android-book-reader) - Ebook Reader
 * [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Reader
 * [Omnivore](https://omnivore.app/) - Ebook Reader
-* [android-book-reader](https://gitlab.com/axet/android-book-reader/) - Ebook Reader
 * [KiyomiPDF](https://github.com/qinlili23333/KiyomiPDF) - PDF Reader
 * [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) - PDF Reader
 * [K2pdfopt](https://willus.com/k2pdfopt/) - Optimize PDF/DJVU Files for Mobile E-Readers
