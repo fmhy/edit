@@ -165,7 +165,6 @@
 
 ## ▷ PDF Search
 
-* ⭐ **[PDFDrive](https://pdfdrive.com/)** - Books
 * [8kun Library](https://8kun.top/pdfs/index.html) - Books
 * [Ocean of PDF](https://oceanofpdf.com/) - Books / Comics
 * [pdfroom](https://pdfroom.com/) - Books / Comics
