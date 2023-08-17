@@ -349,10 +349,6 @@
 * [91Porn](https://91porn.com/index.php) - Amateur Chinese
 * [sjhs301](https://sjhs301.github.io/) - Chinese
 * [pinayflix](https://pinayflix.tv/) - Filipino
-* [aagmaals](https://aagmaals.net/) - Indian
-* [sexfullmovies](https://www.sexfullmovies.com/) - Indian
-* [onlyindianporn](https://onlyindianporn.me/) - Indian
-
 ***
 
 ## ▷ Indian
@@ -376,6 +372,9 @@
 * [Aagmaal.mov](https://aagmaal.mov/)
 * [Aagmaals.org](https://aagmaals.me/)
 * [AyzVid](https://ayzvid.xyz/)
+* [aagmaals](https://aagmaals.net/)
+* [sexfullmovies](https://www.sexfullmovies.com/)
+* [onlyindianporn](https://onlyindianporn.me/) 
 * [ViralVideoTube](https://viralvideotube.pro/) or [Happy2Hub](https://happy2hub.eu/homepage/) - Movies
 * [GotXX](https://www.gotxx.net/) - Softcore Indian Movies
 
