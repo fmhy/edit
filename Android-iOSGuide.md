@@ -12,7 +12,6 @@
 # ► Android APKs
 
 * ⭐ **[Android APK CSE](https://cse.google.com/cse?cx=e0d1769ccf74236e8)** / [CSE 2](https://cse.google.com/cse?cx=73948689c2c206528) / [CSE 3](https://cse.google.com/cse?cx=a805854b6a196d6a6) or [ShowAppsLike](https://showappslike.com/) - APK Search Engines
-* ⭐ **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - APK Repositories
 * ⭐ **[Lucky Patcher](https://www.luckypatchers.com/download/)** - App Patcher 
 * ⭐ **Lucky Patcher Tools** - [Guide](https://flixbox.github.io/lp-compat/docs/intro), [2](https://latestechnews.com/how-to-use-lucky-patcher/) / [Compatibility](https://flixbox.github.io/lp-compat/) / [Subreddit](https://www.reddit.com/r/luckypatcher/) / [Discord](https://discord.com/invite/RS5ddYf7mw)
 * [Direct Download From Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Add Direct DL Links to Google Play
@@ -91,6 +90,7 @@
 * ⭐ **[F-Droid](https://f-droid.org/)**
 * ⭐ **F-Droid Tools** [Resources](https://fdroidfamily.codeberg.page/) / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
 * ⭐ **F-Droid Clients** - [Droid-ify](https://github.com/Iamlooker/Droid-ify) / [Classic Client](https://git.bubu1.eu/Bubu/fdroidclassic) / [gdroidclient](https://gitlab.com/gdroid/gdroidclient) / [Neo Store](https://github.com/NeoApplications/Neo-Store)
+* ⭐ **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - F-Droid Repositories
 * ⭐ **[Android FOSS](https://github.com/offa/android-foss)**
 * [IzzyOnDroid](https://android.izzysoft.de/applists.php) - App Repo / [F-Droid](https://apt.izzysoft.de/fdroid/index.php) 
 * [FossDroid](https://fossdroid.com/) / [/r/fossdroid](https://reddit.com/r/fossdroid)
