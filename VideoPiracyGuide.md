@@ -347,6 +347,7 @@
 * ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcofun.com/), [3](https://www.wcostream.org/) - Anime / Cartoons / [Downloader](https://github.com/NobilityDeviant/Wcofun.com_Downloader)
 * ⭐ **[KimCartoon](https://kimcartoon.li/)**
 * [TopCartoons](https://www.topcartoons.tv/)
+* [WatchCartoonsOnline](https://www1.watchcartoononline.bz/) -
 * [KissCartoon.info](https://kisscartoon.info/) - Anime / Cartoons
 * [Kimcartoon.si](https://kimcartoon.si/) - Anime / Cartoons
 * [Anime World India](https://anime-world.in/) - Anime / Cartoons / [Discord](https://discord.com/invite/c3ete48q8H)
@@ -580,7 +581,7 @@
 * [Best-Movies](https://best-movies.info/) - Movies / TV / 4K
 * [Onkyo4k](https://onkyo4k.com/) - Movies / TV / 4K
 * [ShareSpark](https://ww1.sharespark.cfd/) - Movies / TV / 1080p
-* [Full4Movies](https://www.full4movies.stream/) - Movies / TV / 1080p / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
+* [Full4Movies](https://www.full4movies.mobi/) - Movies / TV / 1080p / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
 * [Free Movies](https://free-movies.to/) - Movies / TV / 1080p
 * [MovieExplit](https://moviexplit.pw/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/moviexplit)
 * [SomosMovies](https://somosmovies.com/) - Movies / 1080p
@@ -710,7 +711,7 @@
 * ⭐ **[Jackett](https://github.com/Jackett/Jackett)**, [nefarious](https://lardbit.github.io/nefarious/), [Traktarr](https://github.com/l3uddz/traktarr) or [Watcher](https://nosmokingbandit.github.io/) - Autodownload Torrents
 * ⭐ **[Radarr](https://radarr.video/)** - Autodownload Movie Torrents / [GitHub](https://github.com/Radarr/Radarr)
 * ⭐ **[Sonarr](https://sonarr.tv/)** / [GitHub](https://github.com/Sonarr/Sonarr), [SickGear](https://github.com/SickGear/SickGear), [SiCKRAGE](https://github.com/SiCKRAGE/SiCKRAGE), [DuckieTV](https://schizoduckie.github.io/DuckieTV/) or [Medusa](https://pymedusa.com/) - Autodownload TV Torrents / [Guide](https://wiki.servarr.com/)
-* ⭐ **[Autodownload Tools](https://redd.it/hbwnb2)** - List of Torrent Autodownload Tools
+* ⭐ **[Autodownload Tools](https://redd.it/hbwnb2)** - List of Torrent Autodownload Tools / [Multi Installer](https://github.com/LordZeuss/arr-installer)
 * [Powder](https://powder.media/) - Torrent Streaming App
 * [Ace Stream](https://acestream.org/) - Torrent Streaming App / [Live Search](https://acestreamsearch.net/en/), [2](https://acestreamid.com/), [3](https://hackmd.io/@DEPORTES/AP-ID#EUR--RU--NA--SA---TV) / [Modded APK](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-acestream-apk) / [Docker Image](https://github.com/magnetikonline/docker-acestream-server) / [Mpv Script](https://github.com/Digitalone1/mpv-acestream)
 * [WebTorrent](https://webtorrent.io/) - Torrent Streaming App
