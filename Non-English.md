@@ -607,7 +607,7 @@
 
 ## ▷ Downloading
 
-* ⭐ **[OlaMovies](https://olamovies.sbs/)** - Movies / TV / [Telegram](https://telegram.me/olamovies_official_v3)
+* ⭐ **[OlaMovies](https://olamovies.pics/)** - Movies / TV / [Telegram](https://telegram.me/olamovies_official_v3)
 * ⭐ **[FreeDriveMovie](https://freedrivemovie.lol/)** - Movies / [Telegram](https://t.me/fdm_again)
 * ⭐ **[Full4Movies](https://www.full4movies.mobi/)** - Movies / TV / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
 * [MoviesMod](https://moviesmod.vip/) - Movies / TV / [Telegram](https://telegram.dog/moviesmodorg)
@@ -618,23 +618,22 @@
 * [MKV Mad](https://www.mkvmad.bio/) - Movies / TV / [Telegram](https://t.me/mkvmadofficial)
 * [Movies Flix](https://moviesflix.bet/) - Movies / NSFW / [Telegram](https://t.me/mvsflix)
 * [Dudefilms](https://dudefilms.today/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
-* [The Movies Flix](https://themoviesflix.com.de/) - Movies / NSFW / [Telegram](https://t.me/themoviezflixac)
+* [The Movies Flix](https://themoviesflix.gr.com) - Movies / NSFW / [Telegram](https://t.me/themoviezflixac)
 * [KatMovieHD](https://katmoviehd.mov/) - Movies / TV / Anime / [Telegram](https://t.me/+lY88WXVDmsFiYTJk), [2](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [MKVHub](https://www.mkvhub.makeup/) - Movies / TV / [Telegram](https://t.me/MkvHubCOM)
-* [Roshiya](https://roshiya.me/) - Movies / TV / [Telegram](https://t.me/roshiyanews)
-* [Filmymeet](https://filmymeet1.com.de/) - Dub Movies / TV / [Telegram](https://telegram.dog/+VV_6NFqFLTc1N2E1)
+* [Roshiya](https://roshiya.me/) - Movies / TV / [Telegram](https://t.me/roshiyamovies)
+* [Filmymeet](https://filmymeet1.com/) - Dub Movies / TV / [Telegram](https://telegram.dog/+VV_6NFqFLTc1N2E1)
 * [MkvCinemas](https://mkvcinemas.bio/) - Movies / TV / Anime / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
 * [MLWBD](https://mlwbd.media/) - Movies / TV / Anime / [Telegram](https://t.me/mlwbdnew)
-* [SadRip](https://sadrip.blogspot.com/) - Movies / TV
 * [Movies Counter](https://moviescounter.lat/) - Movies
 * [BollyMaza](https://m.bollymaza.click/) - Movies / TV
 * [MoviesNation](https://moviesnation.cx/) - [Telegram](https://t.me/+CQizt5B7q880ZDQ9/)
-* [DesireMovies](https://desiremovies.observer/) - Movies / TV
-* [DotMovies](https://dotmovies.rest/) - Movies / TV / Cartoons
+* [DesireMovies](https://desiremovies.cafe/) - Movies / TV
+* [DotMovies](https://dotmovies.hair/) - Movies / TV / Cartoons
 * [FullyMaza](https://fullymaza.one/) - Movies / TV / Cartoons
-* [CineVood](https://cinevood.gay/) - Movies
-* [Bolly4u](https://bolly4u.expert/) - Movies / [Telegram](https://t.me/bolly4ucc)
-* [9xflix](https://9xflix.lat/m/) - Movies / NSFW / [Telegram](https://t.me/ninexflix)
+* [CineVood](https://cinevood.motorcycles/) - Movies
+* [Bolly4u](https://bolly4u.center/) - Movies / [Telegram](https://t.me/bolly4uofficial1)
+* [9xflix](https://9xflix.monster/) - Movies / NSFW / [Telegram](https://t.me/ninexflix)
 * [HDVogo](https://www.hdvogo.click/) - Movies
 * [moviesfd](https://moviesfd.cfd) - Movies / [Telegram](https://t.me/+q9CFdd5YILBjYzM8)
 * [Moviehunt](https://moviehunt.us) - Movies / TV
@@ -656,7 +655,7 @@
 
 ## ▷ Torrenting
 
-* ⭐ **[TamilBlasters](https://www.1tamilblasters.info/)** - Movies / [Proxy](https://tamilblasters.unblockit.click/)
+* ⭐ **[TamilBlasters](https://www.1tamilblasters.info/)** - Movies / [Proxy](https://tamilblasters.unblockit.vegas/)
 
 ## ▷ Streaming
 
@@ -686,7 +685,7 @@
 * [SunTamil5](https://www.suntamil5.net/) - TV
 * [cinemakick](https://www.cinemakick.com/) - Movies
 * [TamilRockerMovies](https://www.tamilrockermovies.cf/) - Movies
-* [MoviesCounter](https://moviescounter.singles/) - Movies
+* [MoviesCounter](https://moviescounter.singles/) - Movies / [Telegram](https://t.me/moviescounter_live)
 * [HindiMovie](https://m.vk.com/hindimovie) - Movies
 * [Movi](https://www.movi.pk/) - Movies
 * [serialbaba](https://serialbaba.co/) - TV
