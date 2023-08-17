@@ -52,6 +52,9 @@
 * [Modding United](https://moddingunited.xyz/) / [Telegram](https://telegram.me/allapkforfree)
 * [AKMods](https://www.akmods.in/)
 * [APKKit](https://apkkit.com/)
+* [Blackmod](https://blackmod.net/) - Modded Games
+* [p30afzar](https://dl.p30afzar.com/Games/) - Modded Games
+* [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
 * [Aero Apps](https://t.me/aerolla) - Modded Social Media Apps
 
 ***
@@ -121,7 +124,7 @@
 * [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL)
 * [ANiK555_Mods](https://t.me/ANiK555_Mods)
 * [AppKaMods](https://t.me/AppKaMods)
-* [Paidapppcsoftware](https://t.me/paidappspcsoftware)
+* [Paid Apps](https://t.me/joinchat/ShQEPsG-v7LZWT0v)
 * [TharakMods](https://t.me/TharakMods)
 * [marioworlds4u](https://t.me/marioworlds4u)
 * [EasyAPK](https://t.me/EasyAPK)
@@ -663,16 +666,12 @@
 
 # ► Android Gaming
 
-* [Blackmod](https://blackmod.net/) - Modded Games
-* [p30afzar](https://dl.p30afzar.com/Games/) - Modded Games
-* [Android_hacked_games](https://t.me/Android_hacked_games) - Modded Games
 * [PlatinMods](https://platinmods.com/) - Modded / Private Game Servers
 * [Now.gg](https://now.gg/) - Online Android Gaming Emulator
 * [PGS](https://www.pgsharp.com/) - Modded Pokémon GO
 * [Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - PokemonGO Resources
 * [UniteAPI](https://uniteapi.dev/) - Pokémon UNITE Leaderboards
 * [GameEye](https://play.google.com/store/apps/details?id=com.hairyharri.gameye) - Video Game Tracking App
-* [OpenMicroWave](https://omw.xyz.is/) - Morrowind for Android
 * [HMCL-PE](https://github.com/huanghongxun/HMCL-PE) or [Pojav](https://pojavlauncherteam.github.io/) - Mobile Minecraft Launchers
 * [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher_iOS) - Minecraft Java Edition Launcher
 * [MinecraftPE Mods](https://minecraftpe-mods.com/) - Mobile Minecraft Mods
