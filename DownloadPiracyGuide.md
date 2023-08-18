@@ -48,10 +48,10 @@
 * ⭐ **[Archive.org](https://archive.org/)** - Video / Audio / Magazines / Newspapers / ROMs / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader) / [CLI](https://github.com/jjjake/internetarchive)
 * ⭐ **[The-Eye](https://the-eye.eu/)** - Audio / ROMs / Books / Comics / Magazines / Software / [Discord](https://discord.com/invite/6hr2Xsm)
 * ⭐ **[DownloadHa](https://www.downloadha.com)** - Video / Software / Games / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* ⭐ **[DirtyWarez](https://forum.dirtywarez.com/)** - Video / Audio / Games / Software / Books / Comics
 * ⭐ **[Bitdownload](http://bitdownload.ir/)** - Video / Audio / Software / Games / Android / Courses / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* ⭐ **[DirtyWarez](https://forum.dirtywarez.com/)** - Video / Audio / Games / Software / Books / Comics
 * ⭐ **[/r/DataHoarder](https://reddit.com/r/DataHoarder)**, [Data Horde](https://datahorde.org/), [Archive Team](https://wiki.archiveteam.org/) / [Subreddit](https://www.reddit.com/r/Archiveteam/), [Gnutella Forums](https://www.gnutellaforums.com/) or [FileSharingTalk](https://filesharingtalk.com/forum.php) - File Hoarding Forums
-* [SoftArchive](https://sanet.st) or [Sanet.lc](https://sanet.lc/) - Video / Audio / Games / Software / Android / Books / Comics / Newspapers / Magazines / [Status](https://sastatus.com/)
+* [WorldSRC](https://www.worldsrc.net/) - Video / Audio / Games / Software / Android / [Donate](https://www.worldsrc.net/service_end)
 * [WarezForums](https://warezforums.com/) - Video / Audio / Games / ROMs / Software / Books / Comics / Android / [Account Application](https://t.me/joinchat/AAAAAFRH5fns4IiE-T2TcA)
 * [rlsbb](http://rlsbb.ru/), [2](https://rlsbb.to/), [3](https://comment.rlsbb.cc/) - Video / Audio / Games / Software / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker)
 * [AsanDL](http://asandl.com/) - Video / Audio / Games / Software / Books / Magazines / Android / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -86,7 +86,6 @@
 * [The Ambassador](https://ambassadorddl.site/) - Video / Games / Books
 * [WarezMagazine](https://warezmagazine.us/) - Video / Software / Books
 * [Leaker](https://leaker.me/) - Video / Audio / Games
-* [WorldSRC](https://www.worldsrc.net/) - Video / Audio / Games / Software / Android / [Donate](https://www.worldsrc.net/service_end)
 * [TehParadox](https://www.tehparadox.net/) - Video / Audio / Software / Games / Books / Magazines / ROMs / Android
 * [wJungle](https://wjungle.net/) - Video / Audio / Books / Games / Android / NSFW
 * [PuZo](https://www.puzo.org/) - Video / Audio / Games / Software / Android / Books / Audiobooks / NSFW
@@ -103,6 +102,7 @@
 * [Warez-World](https://warez-world.org/) - Video / Audio / Games / Software / Android / Books / Magazines / NSFW
 * [0DayDDL](https://0dayddl.com/) - Video / Audio / Games / Software / Books / Magazines
 * [Downturk.net](https://www.downturk.net/) -  Video / Audio / Games / Software / Android / Books
+* [SoftArchive](https://sanet.st) or [Sanet.lc](https://sanet.lc/) - Video / Audio / Books / Comics / Newspapers / Magazines / **[Avoid Software / Games](https://pastebin.com/DyXv0MGR)** / [Status](https://sastatus.com/) 
 * [Pouet](https://www.pouet.net/prodlist.php) - Demos / Cracktros
 * [Redump](http://redump.org/) - Disc Preservation Project
 * [DemoZoo](https://demozoo.org/) or [scene.org](https://files.scene.org/) - Demoscene Archive / [Wiki](https://en.wikipedia.org/wiki/Demoscene)
