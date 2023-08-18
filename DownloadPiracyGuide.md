@@ -153,6 +153,10 @@
 
 # ► Software Sites
 
+**Note** - Remember to always scan software before installing with tools like **[VToncolab](https://rentry.org/vtoncolab)** and **[Sandboxie](https://rentry.co/sandboxie-guide)**.
+
+***
+
 * ⭐ **[RSLOAD](https://rsload.net/)**
 * ⭐ **[LRepacks](https://lrepacks.net/)** - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * ⭐ **[Mobilism](https://forum.mobilism.org/)** - [Mobile App](https://forum.mobilism.org/app/)
