@@ -37,7 +37,7 @@
 * [Docuwiki](https://docuwiki.net/) - [Emule required](https://www.emule-project.net/)
 * [Open-Video](https://open-video.org/)
 * [Documentaries & Archive](https://t.me/joinchat/S6gY9zmO5Ubl15CW)
-* [Nebula's Essence](https://discord.com/invite/HvrQefs3Cw) - Nebula / Curiosity Documentaries
+* [Nebula's Essence](https://idoiso.in/nebula) - Nebula / Curiosity Documentaries / [Divolt](https://isoneb.divolt.xyz) / [Discord](https://discord.com/invite/HvrQefs3Cw)
 * [Videoneat](https://www.videoneat.com/)
 * [MVGroup](https://forums.mvgroup.org/)
 
