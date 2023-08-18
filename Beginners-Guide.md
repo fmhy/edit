@@ -53,9 +53,8 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 **[Windows Piracy Guide](https://github.com/nbats/FMHYedit/blob/main/base64.md#windows-piracy-guides)** - Pirate windows
 **[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - Download Windows
-**[Windows Activation Guide](https://rentry.co/ActivateWin10)** - Activate Windows 
+**[Windows Activation](https://massgrave.dev/#Method_1_-_PowerShell)** - Activate Windows 
 
-!!!note Activating windows is not required, however it is recommended as it adds additional security updates, bug fixes and removes the watermark.
 ***
 
 ### Linux / MacOS Piracy
