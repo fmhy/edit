@@ -356,7 +356,7 @@
 * [MergeMP4](https://maple3142.github.io/mergemp4/) - Merge MP4 Video & Audio
 * [VidLouder](https://www.videolouder.com/) - Increase Video Volume
 * [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md) - AI Video Toolbox
-* [text2video](https://github.com/kabachuha/sd-webui-text2video), [Make A Vid](https://huggingface.co/spaces/TempoFunk/makeavid-sd-jax), [Text To Video Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab), [text-to-video](https://text-to-video.vercel.app), [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) or [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Text to Video AI
+* [text2video](https://github.com/kabachuha/sd-webui-text2video), [Make A Vid](https://huggingface.co/spaces/TempoFunk/makeavid-sd-jax), [Text To Video Synthesis Colab](https://github.com/camenduru/text-to-video-synthesis-colab), [text-to-video](https://text-to-video.vercel.app), [Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero), [Pika Labs](https://www.pika.art/) or [Damo](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis) - Text to Video AIs
 * [TXT-2-IMG-2-MUSIC](https://huggingface.co/spaces/DGSpitzer/TXT-2-IMG-2-MUSIC-2-VIDEO-w-RIFFUSION) - Text to Image to Music to Video
 * [Video Cleaner](https://videocleaner.com/) or [Video Enhance AI](https://www.topazlabs.com/topaz-video-ai) - Video Enhancement Tool 
 * [Flowframes](https://nmkd.itch.io/flowframes) / [Beta](https://kemono.party/patreon/user/19695417), [fpska](https://github.com/andreiyv/fpska) or [SVP](https://www.svp-team.com/) - Video Interpolation / Increase FPS
@@ -593,7 +593,7 @@
 * [Praat](https://www.fon.hum.uva.nl/praat/) - Analyze, Synthesize & Manipulate Speech / [GitHub](https://github.com/praat/praat)
 * [Adobe Enhance](https://podcast.adobe.com/enhance) - Speech Enhancer
 * [Fadr](https://fadr.com/) - STEM Creator / Editor
-* [Splitter](https://www.splitter.ai/), [splitmysong](https://www.splitmysong.com/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
+* [Splitter](https://www.splitter.ai/), [splitmysong](https://www.splitmysong.com/), [free-music-demixer](https://sevag.xyz/free-music-demixer/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
 * [Remove Vocals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remove_vocals) - Remove Vocal Tracks
 * [Acapella-Extractor](https://www.acapella-extractor.com/) - Remove Background Tracks from Songs
 * [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) / [CLI](https://github.com/IniasP/rnnoise-cli) - Noise Suppression Tools
@@ -2258,7 +2258,6 @@ Twitch Stream Tracker
 * [VMWare](https://gist.github.com/rkennesson/2c4595bf062aaab387dccf1210accf98) - Hide Virtual Machine
 * [QuickEmu](https://github.com/quickemu-project/quickemu) or [Dexpot](https://www.dexpot.de/) - Virtual Machine Creator
 * [vBoxSysInfoMod](https://github.com/JayMontana36/vBoxSysInfoMod) - Modify VM System Info
-* [Windows Sandbox](https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview) or [Sandboxie Plus](https://sandboxie-plus.com/) - Sandbox Environment
 * [Blink](https://github.com/jart/blink) - Linux Emulator for Windows
 * [GWSL-Source](https://github.com/Opticos/GWSL-Source) or [GWSL](https://opticos.github.io/gwsl/) - Run Linux Apps on Windows
 * [gter](https://github.com/raoofha/gter) - Embed a GUI app Inside a Terminal Window
