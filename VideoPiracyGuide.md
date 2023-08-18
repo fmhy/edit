@@ -284,7 +284,7 @@
 * ⭐ **[AllAnime](https://allanime.to/)** - Sub / Dub / 1080p
 * ⭐ **[marin.moe](https://marin.moe)** - Sub / Dub / 1080p / Blu-Ray
 * ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / 1080p / Mini Encoded Blu-Ray / [Downloader](https://github.com/KevCui/animepahe-dl)
-* ⭐ **[KickAssAnime](https://kaas.am/)** - Sub / Dub / 1080p / [Mirrors](https://kickassanimes.info/) / [Discord](https://discord.com/invite/kaa)
+* ⭐ **[KickAssAnime](https://kickassanime.am/)** - Sub / Dub / 1080p / [Mirrors](https://kickassanimes.info/) / [Discord](https://discord.com/invite/kaa)
 * ⭐ **[Animension](https://animension.to/)** - Sub / Dub / 1080p
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
@@ -298,6 +298,7 @@
 * [AnimeLon](https://animelon.com/) - Sub / Learn Japanese / 1080p
 * [Kaguya](https://kaguya.app/) - Sub / 1080p / [Discord](https://discord.gg/382BEFfER6)
 * [Genoanime](https://genoanime.com/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/TMe9eVs2YY)
+* [Animeflix](https://animeflix.live/) - Sub / Dub / 1080p
 * [Animeow](https://animeow.me/) - Sub / Dub / 1080p / [Discord](https://discord.gg/FT5MnbcDWz)
 * [AnimeSuge](https://animesuge.to/) - Sub / Dub / 1080p
 * [Playtaku](https://anihdplay.com/) - Sub / Dub / 1080p
@@ -328,8 +329,9 @@
 * [KissCartoon.info](https://kisscartoon.info/) - Sub / Dub / Cartoons / 720p
 * [Kawaiifu](https://kawaiifu.com/) - Sub / Dub / 720p
 * [AnimeOnsen](https://animeonsen.xyz/) - Sub / 720p
-* [LMAnime](https://lmanime.com/) - Chinese Anime / Sub / 1080p
 * [AnimeXin](https://animexin.vip/) - Chinese Anime / Sub / 1080p
+* [Lucifer Donghua](https://luciferdonghua.in/) - Chinese Anime / Sub / 1080p / [Telegram](https://telegram.me/luciferdonghuaz)
+* [LMAnime](https://lmanime.com/) - Chinese Anime / Sub / 1080p
 * [MyAnime](https://myanime.live/) - Chine Anime / Sub / 1080p
 * [Crimsonfansubs](https://crimsonfansubs.com/) - Chine Anime / Sub / 1080p / [Discord](https://discord.com/invite/wnK38MjB)
 * [Yuna](https://yuna.moe/) - Anime Streaming App / [GitHub](https://github.com/BeeeQueue/yuna)
