@@ -75,6 +75,7 @@
 * [SillyTavern](https://github.com/SillyTavern/SillyTavern) - UI for Roleplaying Chatbots
 * [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
 * [AgentRunner](https://www.agentrunner.ai/) - Create Autonomous AI Agents
+* [Instrukt](https://github.com/blob42/Instrukt) - AI Testing Environment
 * [Dify](https://dify.ai/) - Create AI Apps
 * [Free AI APIs](https://github.com/NovaOSS/free-ai-apis) - AI APIs
 
