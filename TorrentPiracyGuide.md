@@ -186,8 +186,6 @@
 * [TrackerStatus](https://trackerstatus.info/) - Tracker Status Updates
 * [TrackerChecker](https://github.com/NDDDDDDDDD/TrackerChecker) - Check if Private Trackers Open Signups
 * [Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated) - Warez / Scene Site Index
-* [/r/OpenSignups](https://reddit.com/r/OpenSignups)
-* [/r/Invites](https://reddit.com/r/Invites)
 * [/r/trackers](https://reddit.com/r/trackers)
 * [TheShow](http://theshow.click/) - Open Registrations
 * [MyAnonaMouse](https://www.myanonamouse.net/) - Open Applications
