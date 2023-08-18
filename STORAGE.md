@@ -908,9 +908,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[Cloud Storage Comparisions](https://eylenburg.github.io/cloud_comparison.htm)** - Compare Cloud Storage Polices
 * ⭐ **[GDrive](https://drive.google.com/)**
 * ⭐ **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz)
-* ⭐ **[disk.yandex](https://disk.yandex.com/)**
 
-[dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/), [internxt](https://internxt.com/), [MrOwl](https://www.mrowl.com/), [storj](https://www.storj.io/), [PCloud](https://www.pcloud.com/), [myDrive](https://mydrive-storage.com/), [KodCloud](https://kodcloud.com/), [Infinity Upload](https://infinity-upload.com/), [Blackhole](https://blackhole.run/), [filelu](https://filelu.com/), [File.love](https://file.love/), [Blomp](https://www.blomp.com/) / [200GB Trick](https://pastebin.com/aPWjWbqn), [T-Drive](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN), [JumpShare](https://jumpshare.com/), [xpipe](https://github.com/xpipe-io/xpipe)
+[dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [disk.yandex](https://disk.yandex.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/), [internxt](https://internxt.com/), [MrOwl](https://www.mrowl.com/), [storj](https://www.storj.io/), [PCloud](https://www.pcloud.com/), [myDrive](https://mydrive-storage.com/), [KodCloud](https://kodcloud.com/), [Infinity Upload](https://infinity-upload.com/), [Blackhole](https://blackhole.run/), [filelu](https://filelu.com/), [File.love](https://file.love/), [Blomp](https://www.blomp.com/) / [200GB Trick](https://pastebin.com/aPWjWbqn), [T-Drive](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN), [JumpShare](https://jumpshare.com/), [xpipe](https://github.com/xpipe-io/xpipe)
 
 **Multi Host Uploaders**
 
@@ -3341,21 +3340,6 @@ Add the following commands to a search to manually scrape each site.
 * [Fido](https://github.com/pbatard/Fido) - Powershell Script
 * [OldSchoolOS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISO's
 * [MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Media Creation Tool Wrapper
-
-**Modded ISOs**
-
-* [Team OS](https://www.teamos.xyz/)
-* [malwarewatch](https://dl.malwarewatch.org/windows/)
-* [ggOS](https://discord.gg/A5BHSQV) - Custom Windows 10 20H2
-* [Windows Sun Valley](https://archive.org/details/windows-sv-pro-v-1) - Custom Windows 10 21H1
-* [Ghost Spectre](https://youtube.com/playlist?list=PLLP5vMyczsRwwyDQQBRJQfQtxozNkEWwk) - Custom Windows 10
-* [RekOS](https://discord.com/invite/YNFFN4W52y) - Custom Windows 10
-* [KernelOS](https://discord.gg/GYmNPtfwfs)  - Custom Windows 10
-* [TheWorldofPC](https://nexusliteos.blogspot.com/)  - Custom Windows 10
-* [FoxOS](https://discord.gg/A5Y76ymyBY) - Custom Windows 7
-* [EagleOS](https://discord.gg/GCRxX8JE) - Custom Windows 7
-* Windows "Tiny" Editions - [Win10](https://twitter.com/ntdev_/status/1505656808576372753) / [Win11](https://archive.org/details/windows11tinyedition) / [Self Build](https://rentry.co/build-tiny11-yourself-note-by-ctt)
-* [Windows 10 Building](https://www.teamos.xyz/threads/windows-10-building-and-modding-and-custom-os-s.129309/) - How-to Make Custom Windows 10 ISOs
 
 ***
 
