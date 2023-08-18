@@ -465,6 +465,7 @@
 * [FSHistory](https://s-macke.github.io/FSHistory/) - Play Classic Flight Simulator 
 * [Magnetic Scripts](https://msmemorial.if-legends.org/msa2/msa2.html) - Magnetic Scrolls 
 * [SpaceCadetPinball](https://alula.github.io/SpaceCadetPinball) - Browser Space Cadet Pinball
+* [Ski Free](https://archive.org/details/win3_SKIFREE) - Browser Ski Free
 * [Neopets](http://www.neopets.com/), [tamaNOTchi](https://tamanotchi.world/) or [Marapets](https://www.marapets.com) - Virtual Pet Game 
 * [Gaia Online](https://www.gaiaonline.com/) - Anime Virtual Pet 
 * [Super Auto Pets](https://teamwood.itch.io/super-auto-pets) - Pet Battle Game
@@ -509,6 +510,7 @@
 * ⭐ **[DelugeRPG](https://www.delugerpg.com/)** or [Pokemon Legends](https://www.pokemongods.com/) - Pokemon MMO
 * ⭐ **[Pokemon Showdown](https://pokemonshowdown.com/)** - Online Pokemon Battles 
 * ⭐ **[GarticPhone](https://garticphone.com/)** - Telephone Game
+* ⭐ **[RPS101](https://rps101.pythonanywhere.com/)** - 101 Object Rock, Paper, Scissors
 * [Awesome Pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - PokemonGO Resources
 * [skribbl](https://skribbl.io/), [Sketchful](https://sketchful.io/), [Drawize](https://www.drawize.com/) or [Gartic](https://gartic.io/) - Drawing / Guessing Game / Multiplayer
 * [PlayingCards](https://playingcards.io/) 
@@ -599,10 +601,11 @@
 * [Real Board](https://github.com/karayaman/lichess-with-a-real-board) - Play Lichess w/ Real Chess Board
 * [Gambit](https://github.com/maaslalani/gambit) - Linux Terminal Chess
 * [Chess24](https://chess24.com/) - Real-Time Chess Tournaments
+* [Laser](https://playlaser.xyz/) - Alt Style Chess
 * [lichess4545](https://www.lichess4545.com/) - Lichess Leagues
 * [Chess Monitor](https://www.chessmonitor.com/) - Track Chess Analytics
 * [OpeningTree](https://www.openingtree.com/) - Download / Visualize Chess Games
-* [Decode Chess](https://app.decodechess.com/) - Chess Move Analyzer
+* [Decode Chess](https://app.decodechess.com/) or [Chess Vision](https://chessvision.ai/) - Chess Move Analyzers
 * [Bill Wall's Chess Page](http://billwall.phpwebhosting.com/) or [365Chess](https://www.365chess.com/) - Chess History / Lessons
 * [/r/Chess Books](https://reddit.com/r/chess/wiki/books) - Recommended Chess Books
 * [Chessable](https://www.chessable.com/ ) or [Chess Factor](https://www.chessfactor.com/) - Chess Courses
@@ -737,7 +740,7 @@
 * ⭐ **[SmokeAPI](https://github.com/acidicoala/SmokeAPI)** - Steam DLC Unlocker / [Auto Installer](https://github.com/pointfeev/CreamInstaller)
 * ⭐ **[Goldberg](https://gitlab.com/Mr_Goldberg/goldberg_emulator)** / [GUI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=111152&hilit=goldberg), [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102) or [GreenLuma](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709) - Steam Multiplayer Client Emulators
 * ⭐ **[Steamless](https://github.com/atom0s/Steamless)** - Steam DRM Remover
-* ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
+* ⭐ **[Steam-Auto-Crack](https://github.com/oureveryday/Steam-auto-crack)** or [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) - Auto Apply Goldberg + Steamless / [Guide](https://codeberg.org/fernbacher/How-To-Crack)
 * ⭐ **[SteamDB](https://steamdb.info/)** - Steam Insights Tool / [Extension](https://steamdb.info/extension/)
 * ⭐ **[A Collection of Steam Tools](https://steamcommunity.com/sharedfiles/filedetails/?id=451698754)** or [SteamInternals](https://cs.rin.ru/forum/viewtopic.php?f=10&t=65887) - Steam Tools Index
 * ⭐ **[LEGENDARY](https://github.com/derrod/legendary)**, [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) or [Rare](https://github.com/Dummerle/Rare) - Epic Games Launcher 
@@ -1031,6 +1034,7 @@
 * [AltCtrls](https://altctrls.info/) - Custom Controller Crafting Resources
 * [Gamesoft](http://www.gamesoft.com/) - Gaming News Feed Manager
 * [Shmuplations](https://shmuplations.com/) - Japanese Developer Interviews
+* [wiki.gg](https://wiki.gg/) - Game Wikis / [Discord](https://discord.gg/rTnST57tuW)
 * [Doom Wiki](https://doomwiki.org/wiki/Entryway) - Doom Community Project Documentation
 * [Hard Drop](https://harddrop.com/wiki/Tetris_Wiki) or [Tetris.wiki](https://tetris.wiki/) - Tetris Wikis
 * [Fumen](https://harddrop.com/fumen/) - Tetris Field Editor
@@ -1158,6 +1162,7 @@
 * [FallGuysStats](https://github.com/ShootMe/FallGuysStats) or [Fallalytics](https://fallalytics.com/) - Fall Guys Stat Trackers
 * [Pancake Patcher](https://gamebanana.com/tools/7382) - Fall Guys String Patcher
 * [FallGuysDB](https://fallguys-db.pages.dev/) - Fall Guys Store & Show Rotations
+* [Fall Guys Perfect Match](https://fall-guys-perfect-match.netlify.app/) - Fall Guys Fruit Tracker
 * [Fortnite Tracker](https://fortnitetracker.com/) - Fortnite Leaderboards / Stats
 * [FortniteEXP](https://www.fortnitexp.net/) - Fortnite XP Progression / Leveling Rates
 * [Universal VPN Fixer](https://github.com/samfisherirl/VPNGamingPauser/) - Auto Pause VPN While Gaming Online
