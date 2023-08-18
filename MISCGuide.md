@@ -36,7 +36,7 @@
 * [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - Open Source Software Indexes
 * [No-Signup Tools](https://www.nosignup.tools/) - No-Signup Tool Index
 * [Neverland](http://web.archive.org/web/20221116192138/http://www.neverland.ws/index.html) - Piracy Index
-* [DirtyWarez](https://dirtywarez.org/), [HypeStat](https://hypestat.com/alexa-rank) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
+* [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/), [HypeStat](https://hypestat.com/alexa-rank), [TopMillion](http://www.topmillion.net/) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
 * [10 Words](https://discover.10words.io/) - App / Tool Discovery
 * [blooem](https://blooem.pages.dev/) / [2](https://blooem.its.moe) or [Pirate Haven](https://pirate-haven.github.io/) - Piracy Guides
 * [Ripped](https://ripped.guide/) - Piracy Index / [Discord](https://discord.ripped.guide/)
@@ -65,13 +65,16 @@
 * [pomfcrawl](https://pomfcrawl.pythonanywhere.com/) - Site / Tool Index
 * [itch.io Tools](https://itch.io/tools/free) - Site / Tool Index
 * [Beej's Index](https://www.beej.us/) - Site / Tool Index
+* [iBiblio](https://www.ibiblio.org/) - Site / Tool Index 
 * [Nicelist](https://github.com/alamehan/nice-list) - Site Index
 * [num's link list](https://soda.privatevoid.net/num/links/) - Site Index
 * [Onion Directories](https://github.com/nbats/FMHYedit/blob/main/base64.md#onion-directories) - .onion Directories
 * [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public Domain Resource Index Awesome
 * [Simple Tools](https://simpletools.info/doku.php) - Simple Programs Index 
 * [SmartLinks](https://smartlinks.org/index.html) - Website Directory
-* [Wikimedia](https://www.wikimedia.org/) - All Wikimedia Sources 
+* [Archive-It](https://archive-it.org/) - Archive.org Collections
+* [Wikimedia](https://www.wikimedia.org/) - All Wikimedia Sources
+* [Useful Interweb](https://usefulinterweb.com/) - Daily Websites
 * [Clone Wars](https://gourav.io/clone-wars) - Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars) 
 * [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps), [Awesome oss alternatives](https://github.com/RunaCapital/awesome-oss-alternatives), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Index
 * [Open Sustainable Technology](https://opensustain.tech/) - Sustainable Tech Project Index
