@@ -14,8 +14,8 @@
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai)
+* ⭐ **[Ora](https://ora.ai/openai/chatgpt)** - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/G8W5VHZhTR)
 * ⭐ **[BAI](https://beta.theb.ai/)** - GPT-3.5 Based Chatbot
-* ⭐ **[Poe](https://poe.com/)** - GPT-3.5 Based Chatbots by Quora
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Based Chatbot with Real-Time Voice / [Discord](https://discord.gg/Rfbzet5R3v)
 * ⭐ **[Claude](https://www.anthropic.com/index/claude-now-in-slack)** - Anthropic's Chatbot
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
@@ -24,13 +24,10 @@
 * [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Q&A AI
 * [Leon](https://getleon.ai/) - AI Assistant
 * [Pi](https://pi.ai/talk) - AI Assistant
-* [OpenAI-bot](https://openai-bot.com) - AI Assistants
-* [Big AGI](https://big-agi.com/) - Self-Hosted AI Assistant
-* [AnimaAI](https://myanima.ai/) - Virtual Companion
+* [AiryChat](https://airychat.com/) - AI Assistants
 * [Awesome-GPT4](https://gpt4.tools/) - ChatGPT Resources
 * [Feyn](https://www.feyn.ai/) - GPT-4 Q&A AI
 * [OSSChat](https://osschat.io/) - GPT-4 Q&A AI
-* [Ora](https://ora.ai/) - GPT-3.5 Based Chatbots
 * [Forefront](https://chat.forefront.ai/) - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/Wbc5cPPYSs)
 * [Teach Anything](https://www.teach-anything.com/) - GPT-3.5 Q&A AI
 * [Poe](https://poe.com/) - GPT-3.5 Based Chatbots by Quora
