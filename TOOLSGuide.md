@@ -527,6 +527,7 @@
 * [Mod Archive](https://modarchive.org/) - Audio Modules
 * [Mixxx](https://mixxx.org/), [rekordbox](https://rekordbox.com/en/) or [Serato](https://serato.com/) - DJ Software 
 * [Repetito](https://repetito.com/) - Multichannel Looper
+* [MoFi](https://mofi.loud.red/) - Create Audio Loops
 * [MP3Louder](https://mp3louder.com/) - Increase MP3 Volume
 * [Chrome Song Maker](https://musiclab.chromeexperiments.com/Song-Maker/), [Bosca Ceoil](https://terrycavanagh.itch.io/bosca-ceoil), [AdventureMachine](https://adventuremachine.4thfloorcreative.co.uk//) or [Strofe](https://www.strofe.com/) - Simple Audio Creators
 * [WD-1](https://www.worteldrie.com/WD5/), [Until AM](http://mix.until.am/) or [YOU.DJ](https://you.dj/) - Online DJ / Beat Creators 
@@ -793,7 +794,7 @@
 * [OpenSSH](https://www.openssh.com/) - OpenSSH Client / Server
 * [TCP Optimizer](https://www.speedguide.net/downloads.php/) - Network Optimizer
 * [NetLimiter](https://www.netlimiter.com/) or [Netbalancer](https://netbalancer.com/) - Internet Traffic Control / Monitor 
-* [Natlas](https://github.com/natlas/natlas) or [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) - Network Scanner 
+* [Natlas](https://github.com/natlas/natlas), [AngryIP](https://angryip.org/) or [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) - Network / IP Scanners
 * [WiFi Analyzer](https://apps.microsoft.com/store/detail/wifi-analyzer/9NBLGGH33N0N) - WiFi Analyzer
 * [Arcai](https://arcai.com/) - WiFi Speed Control
 * [Nmap](https://nmap.org/) - Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)
@@ -1631,7 +1632,6 @@ Twitch Stream Tracker
 * [Minimal Twitter](https://typefully.com/minimal-twitter) - Minimal Twitter Themes
 * [OldTwitter](https://github.com/dimdenGD/OldTwitter) - Original Twitter Theme
 * [Tweak New Twitter](https://github.com/insin/control-panel-for-twitter) or [twttr](https://github.com/sr2echa/twttr) - Twitter Enhancement Extensions
-* [TweetDeck](https://tweetdeck.twitter.com/) or [Tweeten](https://tweetenapp.com/) - Twitter Dashboard
 * [TweetDuck](https://github.com/chylex/TweetDuck) - Twitter Desktop Client
 * [Social Searcher](https://www.social-searcher.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - Search Twitter
 * [TwitLonger](https://www.twitlonger.com/) - Make Longer Tweets
@@ -2247,7 +2247,7 @@ Twitch Stream Tracker
 
 ## ▷ Virtual Machines
 
-* ⭐ **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/), [Looking Glass](https://looking-glass.io/), [Qemu](https://gitlab.com/qemu-project/), [Denodo Test](https://www.denodo.com/en/denodo-platform/test-drives?utm_source=homepage&utm_medium=bn) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machines / [Preinstalled VMS](https://www.osboxes.org/)
+* ⭐ **[VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/), [Looking Glass](https://looking-glass.io/), [Qemu](https://gitlab.com/qemu-project/), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows//), [Denodo Test](https://www.denodo.com/en/denodo-platform/test-drives?utm_source=homepage&utm_medium=bn) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - Virtual Machines / [Preinstalled VMS](https://www.osboxes.org/)
 * ⭐ **[Hackintosh](https://hackintosh.com/)**, [Emaculation](https://www.emaculation.com/), [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - MacOS Virtual Machines
 * ⭐ **Hackintosh Tools** - [Guide](https://github.com/dortania/macOS-VMware-Guide), [2](https://www.tonymacx86.com/) / [Installer](https://github.com/huangyz0918/Hackintosh-Installer-University) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
 * ⭐ **[Operating System Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_os_emulators)** - Emulate Alternate OS
