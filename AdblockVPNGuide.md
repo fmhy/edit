@@ -102,7 +102,8 @@
 * ⭐ **[How to Avoid Malware](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)** - Malware Avoidance Guide
 * ⭐ **[How to Remove Malware](https://redd.it/33evdi)** - Malware Removal Guide
 * ⭐ **[Guide4VirusTotal](https://rentry.org/Guide4VirusTotal)** - Virus Scan Results Guide / [Source](https://www.reddit.com/r/Piracy/comments/n62da6/comment/gx4whhz/)
-* ⭐ **[VToncolab](https://rentry.org/vtoncolab)** - Scan Files Without Downloading Them
+* ⭐ **[VToncolab](https://rentry.org/vtoncolab)** - How-to Scan Files Without Downloading Them
+* ⭐ **[Sandboxie Guide](https://rentry.co/sandboxie-guide)** - How-to Scan Files in a Sandbox
 * ⭐ **[Virus File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scan_files)** - Individual File Scanners
 * ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** or [Ultra Adware Killer](https://www.carifred.com/ultra_adware_killer/) - Anti-Adware
 * [Site Legitimacy Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_legitimacy_check) - URL Scanners
