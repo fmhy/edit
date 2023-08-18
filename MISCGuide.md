@@ -23,12 +23,11 @@
 * ⭐ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)** - Artificial Intelligence Indexes
 * ⭐ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
-* ⭐ **[Track Awesome](https://www.trackawesomelist.com/)**, [Awesome List Index](https://github.com/topics/awesome) or [Awesome](https://github.com/sindresorhus/awesome) - Awesome List Indexes / [Search](https://awesomelists.top/) / [Stumble](https://github.com/basharovV/StumbleUponAwesome) / [CLI](https://github.com/umutphp/awesome-cli)
+* ⭐ **[Track Awesome](https://www.trackawesomelist.com/)**, [GitHub Awesome](https://app.polymersearch.com/discover/github-awesome), [Awesome List Index](https://github.com/topics/awesome), [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness), [Generated Awesomeness](https://github.com/orsinium-labs/generated-awesomeness) or [Awesome](https://github.com/sindresorhus/awesome) - Awesome List Indexes 
+* ⭐ **Awesome List Tools** - [Search](https://awesomelists.top/) / [Stumble](https://github.com/basharovV/StumbleUponAwesome) / [CLI](https://github.com/umutphp/awesome-cli)
 * [WebOas.is](https://weboasis.app/), [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.com/) - Startpage / Site Index / [Source Code](https://pastebin.com/CczqreS4) / [Archive](https://rentry.co/e9y6b) / [FAQ](https://bin.disroot.org/?6a50fab15330b762#7VwnxM9Jsvp8wWmW6eFmmxyXppWVjErn4CMgd8wii9pC)
 * [Alternative Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - Find Software / App Alternatives
 * [Similar Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_similar_site_indexes) - Find Sites Similar to Others
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - List Index
-* [GitHub Awesome](https://app.polymersearch.com/discover/github-awesome) - List Indexes
 * [lists](https://github.com/jnv/lists) - List Index
 * [Curlie](https://curlie.org/) - Topic Directory
 * [ooh.directory](https://ooh.directory/) - Blog Directory
