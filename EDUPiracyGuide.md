@@ -275,6 +275,7 @@
 * [Highbrow](https://gohighbrow.com/) - Daily Lessons
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - 5-Minute Audio Lessons / iOS
 * [WTF Fun Fact](https://wtffunfact.com/) - Daily Facts
+* [Fact Check](https://toolbox.google.com/factcheck/) - Quick Fact Check
 * [AWAD Challenge](http://awadchallenge.com/) or [Word Smith](https://wordsmith.org/) - Learn New Words Daily
 * [LabXchange](https://www.labxchange.org/) or [EduMedia](https://www.edumedia-sciences.com/en/) - Interactive Science Simulations
 * [Answers.com](https://www.answers.com/) or [Quora](https://www.quora.com/) / [Bypass](https://redd.it/ywml2b) / [Frontend](https://github.com/zyachel/quetre) - Q&A Communities
@@ -774,8 +775,7 @@ Simulator
 * ⭐ **[AnimeLon](https://animelon.com/)** - Streaming / Anime / Learn Japanese
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
-* [jidoujisho](https://github.com/lrorpilla/jidoujisho) - Learn Japanese via Books
-* [LearnNatively](https://learnnatively.com/) - Learn Japanese with Books
+* [jidoujisho](https://github.com/lrorpilla/jidoujisho), [LearnNatively](https://learnnatively.com/) or [Manabi](https://reader.manabi.io/) - Learn Japanese via Books
 * [Memento](https://github.com/ripose-jp/Memento) - Japanese Learning Video Player
 * [JapaneseWithAnime](https://www.japanesewithanime.com/) - Learn Japanese with Anime
 * [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - Japanese Practice Material
