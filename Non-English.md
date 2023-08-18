@@ -182,6 +182,7 @@
 * [itaigi](https://itaigi.tw/) - Chinese to Taiwanese Translator
 * [Flash.cn](https://www.flash.cn/) - Chinese Flash Player
 * [Winmoes](https://winmoes.com/) - Anime Windows Themes / Wallpapers
+* [Bangumi](https://bangumi.tv/), [2](https://bangumi.tv/), [3](https://chii.in/) - Media Database  / [Android Client](https://github.com/czy0729/Bangumi)
 * [MissEvan](https://www.missevan.com/) - Audio Comics, Songs and Podcasts
 * [Kilamanbo](https://www.kilamanbo.com/) - Audio Comic Drama
 * [Etoland](https://etoland.co.kr/) - Bulletin Board
@@ -213,6 +214,7 @@
 * [Dy2018](https://www.dy2018.com/) - Movies
 * [shinybbs](https://sub.shinybbs.vip/) - TV
 * [ACG.rip](https://acg.rip/) - Anime / Music
+* [dmhy](https://dmhy.org/) - Anime
 * [Snow-Raws](https://snow-raws.com/) - Anime / [Official Tracker](https://www.skyey2.com/)
 * [mikanani](https://mikanani.me/) - Anime
 * [AnimeTrackerList](https://github.com/DeSireFire/animeTrackerList) - Anime Tracker List
@@ -717,7 +719,7 @@
 
 # ► Indonesian
 
-* [bebasid](https://github.com/bebasid/bebasid) - Indonesian Site Unblock Proxy / [DNS](https://github.com/bebasid/bebasdns)
+* [bebasid](https://github.com/bebasid/bebasid) - Indonesian Site Unblock Proxies / [DNS](https://github.com/bebasid/bebasdns) / [Script](https://gist.github.com/mul14/eb05e88fcec5bb195cbb)
 
 ## ▷ Downloading
 
@@ -872,6 +874,7 @@
 * [manga1000](https://manga1000.top/) - Manga
 * [mangaraw](https://mangaraw.io/) - Manga
 * [shobonnexus](https://shobonnexus.com/) - Novels / Magazines
+* [ErogameScape](https://erogamescape.org/~ap2/ero/toukei_kaiseki/) - Visual Novel Database
 * [watanoc](http://watanoc.com/), [yourei](https://yourei.jp/) or [n-lab](http://www.n-lab.org/library/mondai/) - Learn / Practice Japanese
 * [kakijun](https://kakijun.jp/) - Learn Japanese Writing
 * [Nihongo Monash](http://nihongo.monash.edu/onlinejdic.html), [jitenon](https://jitenon.jp/), [kotobank](https://kotobank.jp/), [aozorasearch](https://github.com/myokoym/aozorasearch) or [Weblio](https://www.weblio.jp/) - Dictionaries
