@@ -3901,14 +3901,14 @@
 * ⭐ **[ntfy](https://ntfy.sh/)** or [PingMe](https://github.com/kha7iq/pingme) - Custom Push Notifications
 * [Yandex Disk](https://disk.yandex.com/), [VK WorkSpace](https://biz.mail.ru/) or [OpenDesktop](https://www.opendesktop.org/) - Multiple Cloud Services 
 * [deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - Self-Hosted Cloud Services
-* [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/), [web2desk](https://appmaker.xyz/web2desk/) or [Pake](https://github.com/tw93/Pake) - Turn Webpages into Desktop Apps
+* [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/) or [Pake](https://github.com/tw93/Pake) - Turn Webpages into Desktop Apps
 * [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - Test Internet Speed
 * [Packet Loss Test](https://packetlosstest.com/) - Packet Loss Test
 * [Pinging](https://www.pinging.net/) - Internet Uptime Monitor
 * [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) or [WLan10](https://github.com/afit/wlan10) - Network Manager
 * [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
 * [OONI](https://ooni.org/) - Test Site Blocking / Network Speed
-* [OpenSSH](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=gui) - OpenSSH Client / Server
+* [OpenSSH](https://www.openssh.com/) - OpenSSH Client / Server
 * [TCP Optimizer](https://www.speedguide.net/downloads.php/) - Network Optimizer
 * [NetLimiter](https://www.netlimiter.com/) or [Netbalancer](https://netbalancer.com/) - Internet Traffic Control / Monitor 
 * [Natlas](https://github.com/natlas/natlas) or [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) - Network Scanner 
@@ -4107,7 +4107,7 @@
 * [BrowserParrot](https://www.browserparrot.com/) - Browser History Search Engine
 * [Hurl](https://github.com/U-C-S/Hurl) - Select Browser on URL Clicks
 * [Edge-Remover](https://rentry.co/uninstall_edge) - Microsoft Edge Removal Script
-* [NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge), [Edge_Removal.bat](https://github.com/AveYo/fox/blob/main/Edge_Removal.bat) / [2](https://gist.github.com/ishad0w/3b79bf829e9725aa102b2e8446bb5ef8) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
+* [NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge), [Edge_Removal.bat](https://github.com/AveYo/fox/blob/main/Edge_Removal.bat) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
 * [xBrowserSync](https://github.com/xbrowsersync/app) - Sync Browser Data Browsers / Devices
 * [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)
 * [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt Browser Data
@@ -4579,6 +4579,7 @@
 
 * ⭐ **[Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube)**, [ImprovedTube](http://improvedtube.com/), [Iridium](https://github.com/ParticleCore/Iridium), [Improve YouTube!](https://github.com/code-charity/youtube), [Nova YouTube](https://greasyfork.org/en/scripts/433360) or [Magic Actions for YouTube](https://www.mycinema.pro/) - YouTube Enhancement Addons 
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
+* ⭐ **[DeArrow](https://dearrow.ajay.app/)** or [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Reduce Sensationalism and Clickbait
 * ⭐ **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/) / [Discord](https://discord.com/invite/mYnESY4Md5)
 * ⭐ **[Video Resumer](https://pastebin.com/avtHzp4W)** - Resume Videos Where You Left Off
 * ⭐ **[Fast-forward for YT Shorts](https://greasyfork.org/en/scripts/466438)** - Adds Shortcut Skip Keys to Shorts
@@ -4669,7 +4670,6 @@
 * [YouTube Watch Time Counter](https://chrome.google.com/webstore/detail/youtube-watch-time-counte/fpoooibdndpjcnoodfionoeakeojdjaj) - Track Time Spent on YouTube
 * [BlockTube](https://github.com/amitbl/blocktube) - YouTube Content Blocker
 * [Hide YouTube Shorts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_hide_youtube_shorts) - Extensions / Scripts to Block YouTube Shorts
-* [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) or [DeArrow](https://dearrow.ajay.app/) - Reduce Sensationalism and Clickbait
 * [YT Not Interested Button on Hover](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Easily Display Not Interested Button
 * [RapidTags](https://www.rapidtags.io/) or [YTubeTool](https://ytubetool.com/) - YouTube Tag Generators
 * [ChatReplay](https://chatreplay.stream/) - YouTube Live Stream Chat Replay
@@ -8044,9 +8044,8 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 **[Windows Piracy Guide](https://github.com/nbats/FMHYedit/blob/main/base64.md#windows-piracy-guides)** - Pirate windows
 **[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - Download Windows
-**[Windows Activation Guide](https://rentry.co/ActivateWin10)** - Activate Windows 
+**[Windows Activation](https://massgrave.dev/#Method_1_-_PowerShell)** - Activate Windows 
 
-!!!note Activating windows is not required, however it is recommended as it adds additional security updates, bug fixes and removes the watermark.
 ***
 
 ### Linux / MacOS Piracy
@@ -8410,8 +8409,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [TrackerStatus](https://trackerstatus.info/) - Tracker Status Updates
 * [TrackerChecker](https://github.com/NDDDDDDDDD/TrackerChecker) - Check if Private Trackers Open Signups
 * [Scene Related](https://opentrackers.org/links/warez-scene/#scenerelated) - Warez / Scene Site Index
-* [/r/OpenSignups](https://reddit.com/r/OpenSignups)
-* [/r/Invites](https://reddit.com/r/Invites)
 * [/r/trackers](https://reddit.com/r/trackers)
 * [TheShow](http://theshow.click/) - Open Registrations
 * [MyAnonaMouse](https://www.myanonamouse.net/) - Open Applications
@@ -8465,8 +8462,8 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai)
+* ⭐ **[Ora](https://ora.ai/openai/chatgpt)** - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/G8W5VHZhTR)
 * ⭐ **[BAI](https://beta.theb.ai/)** - GPT-3.5 Based Chatbot
-* ⭐ **[Poe](https://poe.com/)** - GPT-3.5 Based Chatbots by Quora
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Based Chatbot with Real-Time Voice / [Discord](https://discord.gg/Rfbzet5R3v)
 * ⭐ **[Claude](https://www.anthropic.com/index/claude-now-in-slack)** - Anthropic's Chatbot
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
@@ -8475,13 +8472,10 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Q&A AI
 * [Leon](https://getleon.ai/) - AI Assistant
 * [Pi](https://pi.ai/talk) - AI Assistant
-* [OpenAI-bot](https://openai-bot.com) - AI Assistants
-* [Big AGI](https://big-agi.com/) - Self-Hosted AI Assistant
-* [AnimaAI](https://myanima.ai/) - Virtual Companion
+* [AiryChat](https://airychat.com/) - AI Assistants
 * [Awesome-GPT4](https://gpt4.tools/) - ChatGPT Resources
 * [Feyn](https://www.feyn.ai/) - GPT-4 Q&A AI
 * [OSSChat](https://osschat.io/) - GPT-4 Q&A AI
-* [Ora](https://ora.ai/) - GPT-3.5 Based Chatbots
 * [Forefront](https://chat.forefront.ai/) - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/Wbc5cPPYSs)
 * [Teach Anything](https://www.teach-anything.com/) - GPT-3.5 Q&A AI
 * [Poe](https://poe.com/) - GPT-3.5 Based Chatbots by Quora
@@ -8931,7 +8925,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * ⭐ **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - Multi-Site Search
 * [MovieScene](https://moviescene.cc/) - Movies / 1080p
 * [NetFilm](https://netfilm.app/) - Movies / TV / Anime / 1080p
-* [JustChill](https://www.justchill.tv/en) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/y49g2tgNak)
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
 * [WatchSeries 2.0](https://watchseriess.io/), [2](https://watchmovie.ac/) - Movies / TV / Anime / 1080p
 * [PogoLinks](https://pogolinks.pics/) - Movies / TV / Anime / 1080p
@@ -9548,7 +9541,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Extreme Mirror](https://github.com/nbats/FMHYedit/blob/main/base64.md#extreme-mirror) - Movies / TV / Anime
 * [r/moviegod](https://github.com/nbats/FMHYedit/blob/main/base64.md#rmoviegod) - Movies
 * [مسلسلات اجنبية‬‎](https://github.com/nbats/FMHYedit/blob/main/base64.md#%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A9) - TV
-* [iDoISO + Nebula's Essence](https://isoneb.divolt.xyz/) - HD Movies / TV / ISO
+* [iDoISO](https://idoiso.in/dex) - HD Movies / TV / ISO / [Divolt](https://isoneb.divolt.xyz/)
 * [Remux Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#17tb-mega-drive) - HD Movies
 * [4K Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#4k-movie-collection) - HD Movies
 * [Search OD Index](https://gitlab.com/Rust1667/search-od-index) - Movie / TV / Anime Open Directory Search
@@ -13527,7 +13520,7 @@ Software
 
 ## ▷ Downloading
 
-* ⭐ **[OlaMovies](https://olamovies.sbs/)** - Movies / TV / [Telegram](https://telegram.me/olamovies_official_v3)
+* ⭐ **[OlaMovies](https://olamovies.pics/)** - Movies / TV / [Telegram](https://telegram.me/olamovies_official_v3)
 * ⭐ **[FreeDriveMovie](https://freedrivemovie.lol/)** - Movies / [Telegram](https://t.me/fdm_again)
 * ⭐ **[Full4Movies](https://www.full4movies.mobi/)** - Movies / TV / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
 * [MoviesMod](https://moviesmod.vip/) - Movies / TV / [Telegram](https://telegram.dog/moviesmodorg)
@@ -13538,23 +13531,22 @@ Software
 * [MKV Mad](https://www.mkvmad.bio/) - Movies / TV / [Telegram](https://t.me/mkvmadofficial)
 * [Movies Flix](https://moviesflix.bet/) - Movies / NSFW / [Telegram](https://t.me/mvsflix)
 * [Dudefilms](https://dudefilms.today/) - Movies / TV / [Telegram](https://telegram.dog/dudefilmsofficial)
-* [The Movies Flix](https://themoviesflix.com.de/) - Movies / NSFW / [Telegram](https://t.me/themoviezflixac)
+* [The Movies Flix](https://themoviesflix.gr.com) - Movies / NSFW / [Telegram](https://t.me/themoviezflixac)
 * [KatMovieHD](https://katmoviehd.mov/) - Movies / TV / Anime / [Telegram](https://t.me/+lY88WXVDmsFiYTJk), [2](https://t.me/joinchat/TMuzf8VYH7M1YWVh)
 * [MKVHub](https://www.mkvhub.makeup/) - Movies / TV / [Telegram](https://t.me/MkvHubCOM)
-* [Roshiya](https://roshiya.me/) - Movies / TV / [Telegram](https://t.me/roshiyanews)
-* [Filmymeet](https://filmymeet1.com.de/) - Dub Movies / TV / [Telegram](https://telegram.dog/+VV_6NFqFLTc1N2E1)
+* [Roshiya](https://roshiya.me/) - Movies / TV / [Telegram](https://t.me/roshiyamovies)
+* [Filmymeet](https://filmymeet1.com/) - Dub Movies / TV / [Telegram](https://telegram.dog/+VV_6NFqFLTc1N2E1)
 * [MkvCinemas](https://mkvcinemas.bio/) - Movies / TV / Anime / [Telegram](https://t.me/+WzLYNDSawQk1MTk1)
 * [MLWBD](https://mlwbd.media/) - Movies / TV / Anime / [Telegram](https://t.me/mlwbdnew)
-* [SadRip](https://sadrip.blogspot.com/) - Movies / TV
 * [Movies Counter](https://moviescounter.lat/) - Movies
 * [BollyMaza](https://m.bollymaza.click/) - Movies / TV
 * [MoviesNation](https://moviesnation.cx/) - [Telegram](https://t.me/+CQizt5B7q880ZDQ9/)
-* [DesireMovies](https://desiremovies.observer/) - Movies / TV
-* [DotMovies](https://dotmovies.rest/) - Movies / TV / Cartoons
+* [DesireMovies](https://desiremovies.cafe/) - Movies / TV
+* [DotMovies](https://dotmovies.hair/) - Movies / TV / Cartoons
 * [FullyMaza](https://fullymaza.one/) - Movies / TV / Cartoons
-* [CineVood](https://cinevood.gay/) - Movies
-* [Bolly4u](https://bolly4u.expert/) - Movies / [Telegram](https://t.me/bolly4ucc)
-* [9xflix](https://9xflix.lat/m/) - Movies / NSFW / [Telegram](https://t.me/ninexflix)
+* [CineVood](https://cinevood.motorcycles/) - Movies
+* [Bolly4u](https://bolly4u.center/) - Movies / [Telegram](https://t.me/bolly4uofficial1)
+* [9xflix](https://9xflix.monster/) - Movies / NSFW / [Telegram](https://t.me/ninexflix)
 * [HDVogo](https://www.hdvogo.click/) - Movies
 * [moviesfd](https://moviesfd.cfd) - Movies / [Telegram](https://t.me/+q9CFdd5YILBjYzM8)
 * [Moviehunt](https://moviehunt.us) - Movies / TV
@@ -13576,7 +13568,7 @@ Software
 
 ## ▷ Torrenting
 
-* ⭐ **[TamilBlasters](https://www.1tamilblasters.info/)** - Movies / [Proxy](https://tamilblasters.unblockit.click/)
+* ⭐ **[TamilBlasters](https://www.1tamilblasters.info/)** - Movies / [Proxy](https://tamilblasters.unblockit.vegas/)
 
 ## ▷ Streaming
 
@@ -13606,7 +13598,7 @@ Software
 * [SunTamil5](https://www.suntamil5.net/) - TV
 * [cinemakick](https://www.cinemakick.com/) - Movies
 * [TamilRockerMovies](https://www.tamilrockermovies.cf/) - Movies
-* [MoviesCounter](https://moviescounter.singles/) - Movies
+* [MoviesCounter](https://moviescounter.singles/) - Movies / [Telegram](https://t.me/moviescounter_live)
 * [HindiMovie](https://m.vk.com/hindimovie) - Movies
 * [Movi](https://www.movi.pk/) - Movies
 * [serialbaba](https://serialbaba.co/) - TV
@@ -15497,19 +15489,15 @@ Software
 * ⭐ **[Esoterica Avenue](https://ori5000.github.io/)** - Piracy Index / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * ⭐ **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR)** - Site / Tool Index
 * ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
-* ⭐ **[Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)**, [2](https://github.com/Igglybuff/awesome-piracy), [3](https://github.com/Tosoju/awesome-piracy) - Piracy Index / [Android](https://github.com/Ri-tik/PiracyOrb)
-* ⭐ **[Track Awesome](https://www.trackawesomelist.com/)** - List Index
+* ⭐ **[Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)** - Piracy Index
 * ⭐ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)** - Artificial Intelligence Indexes
 * ⭐ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
-* ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Archiving Tool
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
-* [WebOas.is](https://weboasis.app/), [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.com/) - Startpage / Site Index / [Forum](https://weboasis.app/forum/) / [Source Code](https://pastebin.com/CczqreS4) / [Archive](https://rentry.co/e9y6b) / [FAQ](https://bin.disroot.org/?6a50fab15330b762#7VwnxM9Jsvp8wWmW6eFmmxyXppWVjErn4CMgd8wii9pC)
+* ⭐ **[Track Awesome](https://www.trackawesomelist.com/)**, [Awesome List Index](https://github.com/topics/awesome) or [Awesome](https://github.com/sindresorhus/awesome) - Awesome List Indexes / [Search](https://awesomelists.top/) / [Stumble](https://github.com/basharovV/StumbleUponAwesome) / [CLI](https://github.com/umutphp/awesome-cli)
+* [WebOas.is](https://weboasis.app/), [2](https://ndsamuelson.github.io/weboas-is/), [3](https://oasis.h7x.co/wo/), [4](https://weboasis.mon5termatt.com/) - Startpage / Site Index / [Source Code](https://pastebin.com/CczqreS4) / [Archive](https://rentry.co/e9y6b) / [FAQ](https://bin.disroot.org/?6a50fab15330b762#7VwnxM9Jsvp8wWmW6eFmmxyXppWVjErn4CMgd8wii9pC)
 * [Alternative Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites) - Find Software / App Alternatives
 * [Similar Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_similar_site_indexes) - Find Sites Similar to Others
-* [Generated Awesomeness](https://github.com/orsinium-labs/generated-awesomeness) - Autogenerated List Index
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - List Index
-* [Awesome](https://github.com/sindresorhus/awesome) - List Index  / [Search](https://awesomelists.top/) / [Stumble](https://github.com/basharovV/StumbleUponAwesome) / [CLI](https://github.com/umutphp/awesome-cli)
-* [Awesome List Index](https://github.com/topics/awesome) - List Index
 * [GitHub Awesome](https://app.polymersearch.com/discover/github-awesome) - List Indexes
 * [lists](https://github.com/jnv/lists) - List Index
 * [Curlie](https://curlie.org/) - Topic Directory
@@ -15518,8 +15506,7 @@ Software
 * [Awesome Open Source](https://awesomeopensource.com/) or [Opensource Builders](https://opensource.builders/) - Open Source Software Indexes
 * [No-Signup Tools](https://www.nosignup.tools/) - No-Signup Tool Index
 * [Neverland](http://web.archive.org/web/20221116192138/http://www.neverland.ws/index.html) - Piracy Index
-* [piracy](https://gitlab.com/piracy/piracy/-/tree/master/docs) - Piracy Index
-* [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/), [TopMillion](http://www.topmillion.net/), [HypeStat](https://hypestat.com/alexa-rank) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
+* [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/), [HypeStat](https://hypestat.com/alexa-rank), [TopMillion](http://www.topmillion.net/) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
 * [10 Words](https://discover.10words.io/) - App / Tool Discovery
 * [blooem](https://blooem.pages.dev/) / [2](https://blooem.its.moe) or [Pirate Haven](https://pirate-haven.github.io/) - Piracy Guides
 * [Ripped](https://ripped.guide/) - Piracy Index / [Discord](https://discord.ripped.guide/)
@@ -15528,41 +15515,36 @@ Software
 * [DuckLink](https://ducklink.pages.dev/) - Piracy Index / [Mirror](https://rentry.org/ducklink)
 * [The Goods](https://discord.gg/zapJ4w3XBN) - Piracy Index
 * [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - Japanese Piracy Index
-* [WAREZZ](https://piracy.vercel.app/) - Piracy Index / [Warning](https://i.ibb.co/Tb7gvtX/a6e53d3ca97c.png)
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Software / Tool Index
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - Data Hoarding Tools Index
 * [DirtyWarez Tracker](https://dirtywarez.org/cat/tracker), [OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/) / [2](https://opentrackers.org/), [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) or [awesome-piracy](https://github.com/Igglybuff/awesome-piracy#public-trackers) - Torrent Site Indexes
-* [cata-list](https://cata-list.github.io/) - Site / Tool Index
 * [Website Hunt](https://github.com/cata-list/cata-list.github.io) - Site / Tool Index
-* [Toolbox](https://tool-box.pages.dev/) - Site / Tool Index
 * [Prospector](https://www.prospector.cz/) - Site / Tool Index 
 * [The More You Know](https://marckoxx.github.io/) - Site / Tool Index
 * [Yesterlinks](https://links.yesterweb.org/) - Site / Tool Index
 * [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
-* [Awesome Loginless](https://github.com/fiatjaf/awesome-loginless) - Loginless Site Index
 * [/u/fullnumberofcharacte's Links](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/g37lwb/megapiracywiki/g1lnle5/) - Site / Tool Index
 * [5000 Best](http://5000best.com/websites/) - Site / [Tool](http://5000best.com/tools/) Index
 * [Peelopaalu](https://peelopaalu.neocities.org/) - Site / Tool Index
 * [RefDesk](https://www.refdesk.com/facts.html) - Site / Tool Index
-* [The Scene](https://lkrjangid1.github.io/Awesome-Warez/) - Site / Tool Index
 * [Cool Stuff I Found](https://rentry.org/cool-stuff-i-found-on-the-internet) - Site / Tool Index
 * [Cool Websites](https://rentry.co/cool_websites) - Site / Tool Index
 * [Product Hunt](https://www.producthunt.com/) - Site / Tool Index
-* [Useful Interweb](https://usefulinterweb.com/) - Daily Websites
 * [Mostly Free](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) - Site / Tool Index
 * [bajins](https://www.bajins.com/) - Chinese Site / Tool Index
-* [iBiblio](https://www.ibiblio.org/) - Site / Tool Index 
 * [pomfcrawl](https://pomfcrawl.pythonanywhere.com/) - Site / Tool Index
 * [itch.io Tools](https://itch.io/tools/free) - Site / Tool Index
 * [Beej's Index](https://www.beej.us/) - Site / Tool Index
+* [iBiblio](https://www.ibiblio.org/) - Site / Tool Index 
 * [Nicelist](https://github.com/alamehan/nice-list) - Site Index
 * [num's link list](https://soda.privatevoid.net/num/links/) - Site Index
 * [Onion Directories](https://github.com/nbats/FMHYedit/blob/main/base64.md#onion-directories) - .onion Directories
 * [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public Domain Resource Index Awesome
 * [Simple Tools](https://simpletools.info/doku.php) - Simple Programs Index 
-* [DMOZ](http://www.dmoztools.net/) or [SmartLinks](https://smartlinks.org/index.html) - Website Directory
+* [SmartLinks](https://smartlinks.org/index.html) - Website Directory
 * [Archive-It](https://archive-it.org/) - Archive.org Collections
-* [Wikimedia](https://www.wikimedia.org/) - All Wikimedia Sources 
+* [Wikimedia](https://www.wikimedia.org/) - All Wikimedia Sources
+* [Useful Interweb](https://usefulinterweb.com/) - Daily Websites
 * [Clone Wars](https://gourav.io/clone-wars) - Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars) 
 * [Appscope](https://appsco.pe/), [findPWA](https://findpwa.com/), [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps), [Awesome oss alternatives](https://github.com/RunaCapital/awesome-oss-alternatives), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Index
 * [Open Sustainable Technology](https://opensustain.tech/) - Sustainable Tech Project Index
@@ -15587,6 +15569,7 @@ Software
 * [KilledByGoogle](https://killedbygoogle.com/) - Dead Google Project Index
 * [KilledByMicrosoft](https://killedbymicrosoft.info/) - Dead Microsoft Project Index
 * [Awesome Tech for Good](https://github.com/TechforgoodCAST/awesome-techforgood) - Social Impact Tech Index
+* [datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown) - Index to Markdown Archiving Tool
 
 ***
 
@@ -16993,7 +16976,7 @@ Software
 * [Docuwiki](https://docuwiki.net/) - [Emule required](https://www.emule-project.net/)
 * [Open-Video](https://open-video.org/)
 * [Documentaries & Archive](https://t.me/joinchat/S6gY9zmO5Ubl15CW)
-* [Nebula's Essence](https://discord.com/invite/HvrQefs3Cw) - Nebula / Curiosity Documentaries
+* [Nebula's Essence](https://idoiso.in/nebula) - Nebula / Curiosity Documentaries / [Divolt](https://isoneb.divolt.xyz) / [Discord](https://discord.com/invite/HvrQefs3Cw)
 * [Videoneat](https://www.videoneat.com/)
 * [MVGroup](https://forums.mvgroup.org/)
 
@@ -18890,9 +18873,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[Cloud Storage Comparisions](https://eylenburg.github.io/cloud_comparison.htm)** - Compare Cloud Storage Polices
 * ⭐ **[GDrive](https://drive.google.com/)**
 * ⭐ **[mega](https://mega.nz/)** / [GitHub](https://github.com/meganz)
-* ⭐ **[disk.yandex](https://disk.yandex.com/)**
 
-[dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/), [internxt](https://internxt.com/), [MrOwl](https://www.mrowl.com/), [storj](https://www.storj.io/), [PCloud](https://www.pcloud.com/), [myDrive](https://mydrive-storage.com/), [KodCloud](https://kodcloud.com/), [Infinity Upload](https://infinity-upload.com/), [Blackhole](https://blackhole.run/), [filelu](https://filelu.com/), [File.love](https://file.love/), [Blomp](https://www.blomp.com/) / [200GB Trick](https://pastebin.com/aPWjWbqn), [T-Drive](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN), [JumpShare](https://jumpshare.com/), [xpipe](https://github.com/xpipe-io/xpipe)
+[dropbox](https://www.dropbox.com/) / [Client](https://github.com/SamSchott/maestral), [disk.yandex](https://disk.yandex.com/), [unlimcloud](https://www.unlimcloud.cloud/), [terabox](https://terabox.com/), [icedrive](https://icedrive.net/), [trainbit](https://trainbit.com/), [degoo](https://degoo.com/), [alfafile](https://www.alfafile.net/), [aliyundrive](https://www.aliyundrive.com/), [backblaze](https://www.backblaze.com/), [perkeep](https://perkeep.org/), [filen](https://filen.io/), [internxt](https://internxt.com/), [MrOwl](https://www.mrowl.com/), [storj](https://www.storj.io/), [PCloud](https://www.pcloud.com/), [myDrive](https://mydrive-storage.com/), [KodCloud](https://kodcloud.com/), [Infinity Upload](https://infinity-upload.com/), [Blackhole](https://blackhole.run/), [filelu](https://filelu.com/), [File.love](https://file.love/), [Blomp](https://www.blomp.com/) / [200GB Trick](https://pastebin.com/aPWjWbqn), [T-Drive](https://apps.microsoft.com/store/detail/tdrive/9MVD1PKDTXSN), [JumpShare](https://jumpshare.com/), [xpipe](https://github.com/xpipe-io/xpipe)
 
 **Multi Host Uploaders**
 
@@ -21323,21 +21305,6 @@ Add the following commands to a search to manually scrape each site.
 * [Fido](https://github.com/pbatard/Fido) - Powershell Script
 * [OldSchoolOS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISO's
 * [MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Media Creation Tool Wrapper
-
-**Modded ISOs**
-
-* [Team OS](https://www.teamos.xyz/)
-* [malwarewatch](https://dl.malwarewatch.org/windows/)
-* [ggOS](https://discord.gg/A5BHSQV) - Custom Windows 10 20H2
-* [Windows Sun Valley](https://archive.org/details/windows-sv-pro-v-1) - Custom Windows 10 21H1
-* [Ghost Spectre](https://youtube.com/playlist?list=PLLP5vMyczsRwwyDQQBRJQfQtxozNkEWwk) - Custom Windows 10
-* [RekOS](https://discord.com/invite/YNFFN4W52y) - Custom Windows 10
-* [KernelOS](https://discord.gg/GYmNPtfwfs)  - Custom Windows 10
-* [TheWorldofPC](https://nexusliteos.blogspot.com/)  - Custom Windows 10
-* [FoxOS](https://discord.gg/A5Y76ymyBY) - Custom Windows 7
-* [EagleOS](https://discord.gg/GCRxX8JE) - Custom Windows 7
-* Windows "Tiny" Editions - [Win10](https://twitter.com/ntdev_/status/1505656808576372753) / [Win11](https://archive.org/details/windows11tinyedition) / [Self Build](https://rentry.co/build-tiny11-yourself-note-by-ctt)
-* [Windows 10 Building](https://www.teamos.xyz/threads/windows-10-building-and-modding-and-custom-os-s.129309/) - How-to Make Custom Windows 10 ISOs
 
 ***
 
