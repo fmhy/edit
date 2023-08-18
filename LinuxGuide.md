@@ -318,8 +318,15 @@
 # ► Linux Software
 
 * ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
-* ⭐ **[Open Source Linux Programs](https://i.ibb.co/KyTkKHz/ae00a5177857.png)**, [ArchWiki List of Applications](https://wiki.archlinux.org/title/list_of_applications), [Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/), [2](https://github.com/inputsh/awesome-linux), [3](https://github.com/crackerica/Awesome-Linux-Software) or [Awesome KDE](https://github.com/francoism90/awesome-kde)
+* ⭐ **[Open Source Linux Programs](https://i.ibb.co/KyTkKHz/ae00a5177857.png)**
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* [Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/), [2](https://github.com/inputsh/awesome-linux)
+* [Awesome-Linux-Software](https://github.com/crackerica/Awesome-Linux-Software)
+* [Awesome KDE](https://github.com/francoism90/awesome-kde)
+* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+* [ArchWiki List of Applications](https://wiki.archlinux.org/title/list_of_applications)
+* [Plan9Port](https://github.com/9fans/plan9port)
+* [tlanyan](https://itlanyan.com/)
 * [Flathub](https://flathub.org/) - Flatpak Repository
 * [SnapCraft](https://snapcraft.io/store) - Snap Repository
 * [NixOS](https://nixos.org/) / [Manager](https://github.com/nix-community/home-manager) or [Homebrew](https://brew.sh/) - Package Managers
@@ -332,8 +339,6 @@
 * [Repology](https://repology.org/) - Package Repository Tracker
 * [Pling](https://www.pling.com/) / [2](https://www.linux-apps.com/) - Linux Apps and Themes
 * [Pacstall](https://pacstall.dev/) - AUR-Inspired Package Manager for Ubuntu
-* [Plan9Port](https://github.com/9fans/plan9port)
-* [tlanyan](https://itlanyan.com/)
 
 ***
 
@@ -370,8 +375,9 @@
 * [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
 * [yuzu-ea-updater-for-linux](https://github.com/lem6ns/yuzu-ea-updater-for-linux) - Linux Yuzu Updater
 * [mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Minecraft Android Bedrock Edition Launcher for Linux
-* [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - Roblox Manager for Linux
-* [Paimon Launcher](https://notabug.org/loentar/paimon-launcher) - Run Genshin Impact on Linux
+* [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - Roblox Manager
+* [Bloxstrap](https://discord.com/invite/nKjV3mGq6R) - Roblox Launcher
+* [Paimon Launcher](https://notabug.org/loentar/paimon-launcher) - Run Genshin Impact
 * [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in your Terminal (Recreation)
 * [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Gameboy Emulator
 * [Gambit](https://github.com/maaslalani/gambit) - Terminal Chess
