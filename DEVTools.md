@@ -335,7 +335,6 @@
 * [Hunspell](https://github.com/hunspell/hunspell) - Spellchecking Library
 * [Media Chrome](https://www.media-chrome.org/) - Media Player Elements / [GitHub](https://github.com/muxinc/media-chrome)
 * [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - README Template 
-* [codex-readme](https://github.com/tom-doerr/codex-readme) - Generate README with AI
 * [Read the Docs](https://readthedocs.org/), [MkDocs](https://www.mkdocs.org/), [Mintlify](https://mintlify.com/) or [mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - Documentation Creators / [Theme](https://github.com/squidfunk/mkdocs-material)
 * [Changie](https://changie.dev/) - Automated Changelog / [GitHub](https://github.com/miniscruff/changie)
 * [ChooseALicense](https://choosealicense.com/) - List of Open Source License's & Help Choosing Them 
@@ -863,7 +862,7 @@
 * [Playerio](https://playerio.com/) - Online Game Engine
 * [RPG Playground](https://rpgplayground.com/) - Simple RPG Creator
 * [Game-Editor](http://game-editor.com/Main_Page) or [microStudio](https://microstudio.itch.io/microstudio) - Game Creators
-* [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker](https://gamemaker.io/) / [Online](https://yellowafterlife.github.io/GMEdit/), [PixelVision8](https://pixelvision8.itch.io/pv8) / [GitHub](https://github.com/PixelVision8/PixelVision8), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://charliezip.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop) / [2](https://gdevelop.io/), [Bitsy](http://ledoux.io/bitsy/editor.html), [LIKO 12](https://github.com/LIKO-12/LIKO-12), [Script 8](https://script-8.github.io/), [Tic80](https://tic80.com/), [GDPS](https://gdpseditor.com/) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - 2D Game Creators
+* [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker](https://gamemaker.io/) / [Online](https://yellowafterlife.github.io/GMEdit/), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://charliezip.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop) / [2](https://gdevelop.io/), [Bitsy](https://make.bitsy.org/), [LIKO 12](https://github.com/LIKO-12/LIKO-12), [Script 8](https://script-8.github.io/), [Tic80](https://tic80.com/), [GDPS](https://gdpseditor.com/) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - 2D Game Creators
 * [3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models) - 3D Models / Tools
 * [Unreal Engine](https://www.unrealengine.com/) - 3D Creation Tool / [Python](https://github.com/20tab/UnrealEnginePython) / [C#](https://gamefromscratch.com/getting-started-with-unrealclr/) / [3D Scans](https://quixel.com/megascans) / [File Explorer](https://github.com/4sval/FModel), [2](https://fmodel.app/) / [Console Unlocker](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)
 * [Tommti Systems](http://www.tommti-systems.de/go.html?http://www.tommti-systems.de/main-Dateien/files.html) - 3D Benchmark Tools
@@ -1070,9 +1069,9 @@
 # ► Programming / Coding 
 
 * ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists
-* ⭐ **[Shell GPT](https://github.com/TheR1D/shell_gpt)**, [Cursor](https://www.cursor.so), [Codeium](https://codeium.com/), [tabnine](https://www.tabnine.com/), [ImageCook](https://github.com/imgcook/imgcook), [CodeWhisperer](https://aws.amazon.com/codewhisperer/), [Telosys](http://www.telosys.org/), [AIAC](https://github.com/gofireflyio/aiac) or [Copilot](https://github.com/features/copilot/) / [Docs](https://github.com/github/copilot-docs) - Coding AIs
 * ⭐ **[Starcoder](https://huggingface.co/spaces/bigcode/bigcode-playground)**, [TurboPilot](https://github.com/ravenscroftj/turbopilot) or [Safurai](https://www.safurai.com/) / [Discord](https://discord.com/invite/JYXue8DD4w) 
 * ⭐ **[RevShells](https://www.revshells.com/)** - Reverse Shell Generator
+* [Cursor](https://www.cursor.so), [Codeium](https://codeium.com/), [tabnine](https://www.tabnine.com/), [ImageCook](https://github.com/imgcook/imgcook), [CodeWhisperer](https://aws.amazon.com/codewhisperer/), [Telosys](http://www.telosys.org/) or [Copilot](https://github.com/features/copilot/) / [Docs](https://github.com/github/copilot-docs) - Coding AIs
 * [Programming Language Benchmarks](https://programming-language-benchmarks.vercel.app/) - Programming Language / Compiler Benchmarks
 * [AI Code Translator](https://ai-code-translator.vercel.app/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - Code Converters
 * [Literally Anything](https://www.literallyanything.io/) - Generate Code via Prompts
