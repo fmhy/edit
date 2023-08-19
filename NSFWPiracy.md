@@ -541,6 +541,7 @@
 * ⭐ **[Hotleak](https://hotleak.vip/)** - OnlyFans / Patreon
 * ⭐ **[kemono.party](https://kemono.su/)** - Patreon
 * ⭐ **[SimpCity](https://simpcity.su/)** - OnlyFans / Patreon
+* [OnlyFans420](https://rentry.co/OnlyFans420) / [2](https://rentry.org/OnlyFans421) - OnlyFans
 * [MissingToofff](https://missingtoofff.com/) - OnlyFans Leak Site List
 * [ProThots](https://prothots.com/) - OnlyFans / Patreon
 * [InternetChicks](https://internetchicks.com/) - OnlyFans / Patreon
@@ -608,11 +609,13 @@
 * ⭐ **[The Index](https://theindex.moe/library/hentai)** - Hentai Sites List
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Torrents
 * ⭐ **[Anime-Sharing](https://www.anime-sharing.com/forum/#downloads-requests)** - Hentai DDL
+* ⭐ **[Oppai.Stream](https://oppai.stream/)** - Hentai Streaming
 * ⭐ **[Hanime.tv](https://hanime.tv/)** - Hentai Streaming
 * ⭐ **[HentaiWorld](https://hentaiworld.tv/)** - Hentai Streaming / [Discord](https://discord.com/invite/uyHFDgcUJR)
 * ⭐ **[PorCore](https://porcore.com/)** - 3D Porn
 * ⭐ **[Porn3DX](https://porn3dx.com/)** - 3D Porn
 * ⭐ **[NSFW Rule 34](https://nsfwr34.com/)** - Western Hentai Streaming
+* ⭐ **[get-sauce](https://github.com/gan-of-culture/get-sauce)** - Hentai CLI Downloader
 * [Ohentai](https://ohentai.org/) - Hentai Streaming / [Discord](https://discord.com/invite/UD3fFTj)
 * [Hentai.tv](https://hentai.tv/) - Hentai Streaming
 * [HentaiFox.tv](https://hentaifox.tv/) - Hentai Streaming
@@ -625,6 +628,7 @@
 * [AniPorn](https://aniporn.com/) - Hentai Streaming
 * [MioHentai](https://miohentai.com/) - Hentai Streaming
 * [999Hentai](https://999hentai.to/) - Hentai Streaming
+* [HentaiStream](https://hentaistream.xxx/) - Hentai Streaming
 * [Uncensored Hentai ](https://uncensoredhentai.xxx/) - Hentai Streaming
 * [Hentai Haven](https://hentaihaven.xxx/) - Hentai Streaming
 * [HentaiFreak](https://hentaifreak.org/) - Hentai Streaming
@@ -633,6 +637,7 @@
 * [Hentai City](https://www.hentaicity.com/) - Hentai Streaming
 * [HentaiYes](https://hentaiyes.com/) - Hentai Streaming
 * [hentaigasm](http://hentaigasm.com/) - Hentai Streaming
+* [HentaiVideos.net](https://hentaivideos.net/) - Hentai Streaming
 * [HentaiX](https://hentaix.io/) - Hentai Streaming
 * [UnderHentai](https://www.underhentai.net/) - Hentai Streaming
 * [HentaiPRN](https://hentaiprn.com/) - Hentai Streaming
@@ -643,7 +648,10 @@
 * [HentaisTube](https://www.hentais.tube/) - Hentai Streaming
 * [Watch Hentai](https://watchhentai.net/) - Hentai Streaming
 * [HentaiDude](https://hentaidude.com/) - Hentai Streaming
+* [HentaiPulse](https://hentaipulse.com/) - Hentai Streaming
+* [LatestHentai](https://latesthentai.com/) - Hentai Streaming
 * [CartoonPornVideos](https://www.cartoonpornvideos.com/) - Hentai Streaming
+* [Hentai2w](https://hentai2w.com/) - Hentai Streaming
 * [sakuracircle](https://sakuracircle.com/) - Hentai DDL 
 * [Hentai Upscales](https://t.me/+4zMgLbnhiF5hZGRk) - Hentai DDL
 * [FapForFun](https://fapforfun.net/) - Hentai Torrents / [Discord](https://discord.com/invite/vJvN87tt)
@@ -655,6 +663,7 @@
 * [Naughty Machinima](https://www.naughtymachinima.com/) - 3D Porn
 * [Studio Flow](https://studiofow.com/movies/) - 3D Porn / [Discord](https://discord.com/invite/zUgDe3B)
 * [SFM Compile](https://sfmcompile.club/) - 3D Porn
+* [Iwara](https://www.iwara.tv/) - MMD Porn / [Discord](https://discord.com/invite/WAa9XXyBVq)
 * [HentaiLA](https://www3.hentaila.com/) - Spanish
 * [Fapservice](https://fapservice.com/) - Compilation of echhi anime scenes / [Discord](https://discord.com/invite/sTaEawE)
 * [/cumg/](https://rentry.co/coom) - Hentai Resources
@@ -667,7 +676,7 @@
 * ⭐ **[Koushoku](https://ksk.moe/)** - Fakku/Irodori Rips
 * ⭐ **[Hitomi](https://hitomi.la/)** - Hentai Manga
 * ⭐ **[IMHentai](https://imhentai.xxx/)** - Hentai Manga / Comics / [Discord](https://discord.com/invite/GRTKFhavEG)
-* ⭐ **[NHentai](https://nhentai.net/)** - Hentai Manga / [Android Client](https://github.com/Dar9586/NClientV2), [2](https://ttdyce.com/apps/nhviewer/) / [Downloader](https://github.com/RicterZ/nhentai)
+* ⭐ **[NHentai](https://nhentai.net/)** - Hentai Manga / [Android Client](https://github.com/Dar9586/NClientV2), [2](https://ttdyce.com/apps/nhviewer/) / [Downloader](https://github.com/RicterZ/nhentai), [2](https://github.com/Xwilarg/NHentaiDownloader)
 * ⭐ **[Multporn](https://multporn.net/)** - Hentai Manga / Comics
 * ⭐ **[AllPornComic](https://allporncomic.com/)** - Comics
 * ⭐ **[Toonily](https://toonily.me/)** - Pornhwa
@@ -695,6 +704,7 @@
 * [HentaiZap](https://hentaizap.com/) - Hentai Manga
 * [M-Hentai](https://m-hentai.net/) - Hentai Manga
 * [Doujins.com](https://doujins.com/) - Hentai Manga / [Discord](https://discord.com/invite/EPnJqPf7xh)
+* [Doujin.sexy](https://doujin.sexy/)
 * [Hentaifromhell](https://hentaifromhell.org/) - Hentai Manga / Comics
 * [MyHentaiGallery](https://myhentaigallery.com/) - Comics
 * [FreeAdultComix](https://freeadultcomix.com/) - Comics
@@ -788,6 +798,7 @@
 * [Sankaku Complex](https://beta.sankakucomplex.com/tag/en)
 * [Kurowanka](https://kusowanka.com/)
 * [Nozomi.la](https://nozomi.la/)
+* [booru.io](https://booru.io/)
 * [Slushe](https://slushe.com/) / [Discord](https://discord.com/invite/GYjEXqeXSJ)
 * [Rule 34 Paheal](https://rule34.paheal.net/)
 * [Rule34.xyz](https://rule34.xyz/) / [Discord](https://discord.com/invite/GVfjtug)
