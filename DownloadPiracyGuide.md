@@ -167,7 +167,6 @@
 * [AIOWares](https://www.aiowares.com/)
 * [Mr. SzzS](https://www.youtube.com/channel/UCcf3dtQFVb5zfy0jGYNpA0w)
 * [TheMicroTech](https://programs.themicrotech.net/)
-* [downloadly.ir](https://downloadly.ir/)
 * [soft98](https://soft98.ir/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Mutaz.net](https://www.mutaz.net/)
 * [Heidoc](https://www.heidoc.net/joomla/)
