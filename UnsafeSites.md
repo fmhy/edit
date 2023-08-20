@@ -61,7 +61,7 @@
 ### Software / Apps
 
 * Limewire - Dead for years, anything claiming to be them now should be avoided
-* Downloadly (video downloader) - Crypto miner / Note that downloadly.ir is [unrelated](https://i.imgur.com/1v46duO.png)
+* Downloadly (video downloader) - Crypto miner
 * Opera (browser) - Poor [privacy practices](https://www.kuketz-blog.de/opera-datensendeverhalten-desktop-version-browser-check-teil13/), [2](https://rentry.co/operagx) / [Predatory Loan Apps](https://www.androidpolice.com/2020/01/21/opera-predatory-loans/)
 * Mcafee - Preinstalled Bloatware
 * Avast - Known for selling user data
