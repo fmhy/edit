@@ -288,7 +288,7 @@
 * [LCD Games](http://bdrgames.nl/lcdgames/) - Retro LCD Game Emulator
 * [File-Hunter](https://www.file-hunter.com/) - MSX / Amiga Browser Emulator
 * [MSXGamesWorld](https://www.msxgamesworld.com/) or [CheatMSX](https://www.cheatmsx.com/) - MSX Browser Emulators
-* [C64Online](https://c64online.com/) - C64 Browser Emulator
+* [CommodoreGames](https://www.commodoregames.net/) or [C64Online](https://c64online.com/) - C64 Browser Emulators
 * [Super Mario Bros](https://supermariobros.io/), [SuperMarioBrosGames](https://supermariobrosgames.com/) or [SMBGames](https://smbgames.be/) - Super Mario Browser Emulators
 * [SMWGames](https://www.smwgames.com/) - Hacked Super Mario World Browser Emulators
 * [Mega Man Games](https://www.megamangames.net/) - Mega Man Browser Emulator
