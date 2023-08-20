@@ -49,7 +49,6 @@
 * [Lovemovie](https://lovemovie.org/) - Movies / TV / 1080p
 * [MovieFFM](https://www.movieffm.net/) - Movies / TV / 1080p / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Yesmovies.show](https://ww3.yesmovies.show/) - Movies / TV / Anime / 1080p
-* [123Moviesd](https://123moviesd.com/) - Movies / TV / 1080p
 * [OnionPlay](https://onionplay.se/) - Movies / TV / 1080p / [Mirrors](https://onionplay.network/)
 * [HollyMovieHD](https://hollymoviehd.cc/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime / 720p
 * [Supernova](https://supernova.to/) - Movies / TV / Anime / 720p
