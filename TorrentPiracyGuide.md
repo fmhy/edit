@@ -29,6 +29,7 @@
 * [Picotorrent](https://picotorrent.org/) - [Screenshot](https://i.ibb.co/Pz4qb8Q/df96c0ff3912.png)
 * [BiglyBT](https://www.biglybt.com/) - [Screenshot](https://i.ibb.co/5TRkt1t/bfe91a771679.png) 
 * [LIII](https://codecpack.co/download/LIII-BitTorrent-Client.html) - [Screenshot](https://i.ibb.co/jRJR1cX/cecb8c47451d.png)
+* [PikaTorrent](https://www.pikatorrent.com/) - [Screenshot](https://ibb.co/zGyT1tc) / [GitHub](https://github.com/G-Ray/pikatorrent)
 * [Distribyted](https://distribyted.com/) - [Screenshot](https://i.ibb.co/m8TQBPh/f5dfcb4b192f.png) / [GitHub](https://github.com/distribyted/distribyted)
 * [Crawfish](https://github.com/drakonkat/Crawfish) - [Screenshot](https://i.ibb.co/DVVVdpG/8406bc7e0a39.png)
 * [GoSpeed](https://github.com/GopeedLab/gopeed) - [Screenshot](https://github.com/GopeedLab/gopeed/blob/main/_docs/img/ui-demo.png)
