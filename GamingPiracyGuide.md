@@ -16,8 +16,8 @@
 # ► Download Games
 
 * ⭐ **[CS.RIN.RU](https://cs.rin.ru/)** - Download / Forum / [Status](https://csrinstaff.writeas.com/) / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod)
-* ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download
 * ⭐ **[GamesDrive](https://gamesdrive.net/)** - Download / [Discord](https://discord.gg/wXdNEhf73x) / [Divolt](https://gamesdrive.divolt.xyz/) / [Telegram](https://t.me/+qkrAOiq7k7ozNzRk)
+* ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Torrent / [Discord](https://discord.gg/hj8dU5BFHE) / pw: 1234
 * ⭐ **[CrackHub](https://crackhub.site/)** - Download / [Divolt](https://divolt.xyz/invite/82nEH5Sp) / [RSS](https://scene.crackhub.site/category/iso/feed/)
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / Torrent / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
@@ -30,6 +30,7 @@
 * [Seven Gamers](https://www.seven-gamers.com/) - Download / Torrent
 * [Leeching Hell](http://www.leechinghell.pw/) - Download
 * [Xatab Repacks](https://byxatab.com/), [2](https://otxatabs.net/)  - Torrent
+* [GamePCFull](https://gamepcfull.com/) - Download
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [F2P Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_f2p_games) - Free to Play Games
 * [VGPErson](https://vgperson.com/games/) - Japanese Translated Freeware Games
@@ -77,7 +78,7 @@
 * ⭐ **[Modded Minecraft Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_modded_minecraft_launchers)** - F2P Minecraft Clients / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_minecraft_tools) / [Beta Clients](https://betacraft.uk/) / [Bedrock / Java](https://redd.it/xj5w9m)
 * ⭐ **[CsWarzOnE](https://cswarzone.com/)** - Counter-Strike Downloads / [Discord](https://discord.gg/Jd2yfTA)
 * ⭐ **[Fortnite-Builds](https://github.com/notsamicc/Fortnite-Builds)** - Previous Fortnite Seasons
-* [Minetest](https://www.minetest.net/) - Open Source Minecraft Alternative
+* [Minetest](https://www.minetest.net/) or [Cassicube](https://www.classicube.net/) - Open-Source Minecraft Alternatives
 * [JustEmuTarkov](https://justemutarkov.eu/) - Escape from Tarkov Emulator
 * [CWA](https://www.cwaemu.com/) - Clone Wars Adventures Emulator / [Discord](https://discord.gg/a3Ugb9dzzv)
 * [NR2003](https://wildkustomcars.weebly.com/) - Modded Nascar 2003
@@ -602,6 +603,7 @@
 * [Gambit](https://github.com/maaslalani/gambit) - Linux Terminal Chess
 * [Chess24](https://chess24.com/) - Real-Time Chess Tournaments
 * [Laser](https://playlaser.xyz/) - Alt Style Chess
+* [Star Wars Chess](https://archive.org/details/msdos_Star_Wars_Chess_1993) - Star Wars Style Chess / [Manual](https://archive.org/details/star-wars-chess-manual/)
 * [lichess4545](https://www.lichess4545.com/) - Lichess Leagues
 * [Chess Monitor](https://www.chessmonitor.com/) - Track Chess Analytics
 * [OpeningTree](https://www.openingtree.com/) - Download / Visualize Chess Games
@@ -754,6 +756,7 @@
 * [ColdAPI](https://github.com/Rat431/ColdAPI_Steam) - Offline Steam Emulator
 * [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink) - Stream Steam Library to TV
 * [Steam Mover](https://www.traynier.com/software/steammover) - Store Steam Games on Multiple Drives
+* [Steam Piracy](https://greasyfork.org/en/scripts/460862) - Add Piracy Site Links to Steam Store
 * [BoilR](https://github.com/PhilipK/BoilR) - Sync Game Platforms w/ Steam
 * [UWPHook](https://briano.dev/UWPHook/) - Add Windows Store Games to Steam
 * [Steam Rom Manager](https://github.com/SteamGridDB/steam-rom-manager) - Add ROMs to Steam
@@ -987,7 +990,8 @@
 * [Save Editor Online](https://www.saveeditonline.com/) - Game Save Editor
 * [CyberCAT-SimpleGUI](https://github.com/Deweh/CyberCAT-SimpleGUI) - Cyberpunk 2077 Save Editor
 * [Map Genie](https://mapgenie.io/), [GameMaps](https://www.gamemaps.com/) or [VGMaps](http://www.vgmaps.com/)  - Game Maps 
-* [noclip](https://noclip.website/) - Explore Game Maps 
+* [noclip](https://noclip.website/) - Explore Game Maps
+* [KudosPrime](https://www.kudosprime.com/) - Racing Game Maps
 * [bspview](https://github.com/sbuggay/bspview) - Explore Quake & GoldSRC Maps
 * [NES Maps](https://www.nesmaps.com/) - NES Game Maps 
 * [SNES Maps](https://www.snesmaps.com/) - SNES Game Maps
@@ -1139,14 +1143,17 @@
 * [Swat4Stats](https://swat4stats.com/servers/) - Online Swat 4 Server Browser
 * [GDM-Windows](https://github.com/AlizerUncaged/GDM-Windows) - Play Geometry Dash Multiplayer / [Discord](https://discord.gg/YVUgzuNyuw)
 * [Overwolf](https://www.overwolf.com/) - Create In-Game Overlay Apps
+* [Tracker.gg](https://tracker.gg/) - Game Leaderboards / Stats
 * [FaceItFinder](https://faceitfinder.com/) - FaceIt Stats Search
 * [BF2142 Reclamation](https://battlefield2142.co/) - BF2142 Multiplayer Project / [Discord](https://discord.gg/MEwBW9U)
 * [Mobalytics](https://mobalytics.gg/) - Game Performance & Stats Analyzer
 * [StatsVerse](http://statsverse.com/) - Battlefield Leaderboards
 * [Sym.gg](https://sym.gg/) - Battlefield Info & Weapon Stats
-* [Tracker.gg](https://tracker.gg/) - Game Leaderboards / Stats
+* [PaladinsGuru](https://paladins.guru/) - Paladins Leaderboards
 * [TrueGameData](https://truegamedata.com/) - COD Leaderboards
 * [Warzone Loadout](https://warzoneloadout.games/) - Warzone Loadouts and Builds
+* [Braytech](https://bray.tech/) - Destiny 2 Stats
+* [Leaf](https://leafapp.co/) or [HaloDataHive](https://halodatahive.com/) - Halo Infinite Leaderboards / Stats
 * [DMZ Calculator](https://sebranly.github.io/dmz/) - DMZ Currency to Cooldown Converter
 * [u.gg](https://u.gg/), [MobaFire](https://www.mobafire.com/), [ProBuilds](https://www.probuilds.net/) or [LoLalytics](https://lolalytics.com/) - League of Legends Build Guides & Tiers
 * [Zar](https://zar.gg) - LoL In-Game Coaching Overlay
@@ -1157,6 +1164,7 @@
 * [OP.GG](https://www.op.gg/) - League of Legends Leaderboards / Stats
 * [Porofessor](https://porofessor.gg/) - Live League of Legends Game Stats
 * [Dota2ProTracker](https://www.dota2protracker.com/) or [16-Bits](https://16-bits.org/) - Dota 2 Stats Tracker
+* [SmiteGuru](https://smite.guru/) - Smite Leaderboards
 * [D4Builds](https://d4builds.gg/) - Diablo 4 Builds
 * [WoWProgress](https://www.wowprogress.com) or [CheckPVP](https://www.check-pvp.fr/) - WoW Rankings
 * [FallGuysStats](https://github.com/ShootMe/FallGuysStats) or [Fallalytics](https://fallalytics.com/) - Fall Guys Stat Trackers
