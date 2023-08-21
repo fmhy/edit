@@ -3360,8 +3360,9 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[Invidious](https://invidious.io/)** / [2](https://tube.cadence.moe/) / [3](https://redirect.invidious.io/)
 * ⭐ **Invidious Tools** - [Instances](https://api.invidious.io/), [2](https://invidio.us/) / [Alt Frontend](https://github.com/bocchilorenzo/invuedious) / [TUI](https://github.com/darkhz/invidtui) / [Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search)
+* ⭐ **[FreeTubeApp](https://freetubeapp.io/)** / [Github](https://github.com/FreeTubeApp/FreeTube) - Open source YouTube desktop player for privacy
 
-[FreeTubeApp](https://freetubeapp.io/), [ViewTube](https://github.com/ViewTube/viewtube), [Piped](https://github.com/TeamPiped/Piped) / [2](https://piped.kavin.rocks/) / [3](https://piped-material.১.net/), [PSTube](https://github.com/prateekmedia/pstube), [Youtube-local](https://github.com/user234683/youtube-local), [tube.cadence](https://tube.cadence.moe/)
+[ViewTube](https://github.com/ViewTube/viewtube), [Piped](https://github.com/TeamPiped/Piped) / [2](https://piped.kavin.rocks/) / [3](https://piped-material.১.net/), [PSTube](https://github.com/prateekmedia/pstube), [Youtube-local](https://github.com/user234683/youtube-local), [tube.cadence](https://tube.cadence.moe/)
 
 ***
 
