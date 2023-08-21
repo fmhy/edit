@@ -394,6 +394,7 @@
 * [LazyPY](https://lazypy.ro/tts/)
 * [Murf.ai](https://murf.ai/)
 * [Fish Diffusion](https://github.com/fishaudio/fish-diffusion)
+* [Audio-WebUI](https://github.com/gitmylo/audio-webui)
 * [Vanilla Voice](https://www.vanillavoice.com/)
 * [Sam](https://discordier.github.io/sam/), [2](https://simulationcorner.net/index.php?page=sam) / [BetterSam](https://imrane03.github.io/better-sam/)
 * [MicrosoftSamOnline](https://lingojam.com/MicrosoftSamOnline)
