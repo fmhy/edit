@@ -410,7 +410,8 @@
 * [DAREBEE](https://darebee.com/) - Fitness Plans / Workouts
 * [Hevy](https://www.hevyapp.com/), [Iron](https://github.com/kabouzeid/Iron), [Massive](https://gitea.presley.nz/brandon.presley/Massive), [GymRoutines](https://codeberg.org/noahjutz/GymRoutines) or [FitHero](https://fithero.app/) - Workout Trackers
 * [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
-* [GoldenCheetah](https://www.goldencheetah.org/), [AAT](https://bailu.ch/aat/) or [BikeComputer](https://f-droid.org/packages/de.nulide.bikecomputer/) - Biking Trackers
+* [GoldenCheetah](https://www.goldencheetah.org/), [AAT](https://bailu.ch/aat/) or [BikeComputer](https://f-droid.org/packages/de.nulide.bikecomputer/) - Cycling / Biking Trackers
+* [Eurovelo](https://en.eurovelo.com/) - European Cycling Routes
 * [AllTrails](https://www.alltrails.com/) - Hiking Routes
 * [MapMyWalk](https://www.mapmywalk.com/) - Walking Tracker
 * [RunnerUp](https://github.com/jonasoreland/runnerup) or [Strava](https://www.strava.com/) - Run Trackers
@@ -463,11 +464,14 @@
 * ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)**, [Turas](https://turas.app/), [CountryReports](https://www.countryreports.org/), [Wikivoyage](https://www.wikivoyage.org) or [TravelTips](https://www.traveltip.org/world_maps.php) - Travel Guides
 * ⭐ **[JourneyPlan](https://journeyplan.co)**, [RoamAround](https://www.roamaround.io/), [TravelPlan](https://www.travelplan-ai.com/#get-trip), [Eddy](https://chat.eddytravels.com/) or [TripNotes](https://tripnotes.ai/) - Trip Planning AIs
 * ⭐ **[twkids](https://www.twkids.app/)** - Find Theme Parks, Water Parks, Zoo's etc.
+* ⭐ **[Passport Index](https://www.passportindex.org/)** - Passport Ratings
+* ⭐ **[Visa Guide](https://visaguide.world/)** - Worldwide Travel Visa Guides
 * ⭐ **[Borderless](https://borderless.safetywing.com/)** - Travel Restrictions Guide
 * ⭐ **[MapChecking](https://www.mapchecking.com/)** - Crowd Size Estimation
 * ⭐ **[Gas Price Map](https://www.gasbuddy.com/gaspricemap)** - US Gas Prices
-* [Parkopedia](https://www.parkopedia.com/) - Car Parking Locations and Prices
-* [Visa Guide](https://visaguide.world/) - Worldwide Travel Visa Guides
+* ⭐ **[Parkopedia](https://www.parkopedia.com/)** - Car Parking Locations and Prices
+* ⭐ **[Refuge Restrooms](https://www.refugerestrooms.org/)** - Find Public Restrooms
+* [Best Times to Visit](https://www.thebesttimetovisit.com/) - Find Best Times to Visit Countries
 * [Roadside America](https://www.roadsideamerica.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
 * [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Sites
 * [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Concerts / Music Festival Search
@@ -483,9 +487,9 @@
 * [MiniTokyo3D](https://minitokyo3d.com/) - Tokyo Public Transport Map
 * [MetroOrbits](http://mic-ro.com/metro/index.html) - Subway Maps / Data
 * [ChronoTrains](https://chronotrains-eu.vercel.app/) - European Trains Distances
-* [Refuge Restrooms](https://www.refugerestrooms.org/) - Find Public Restrooms
 * [The International Dialects of English Archive](https://www.dialectsarchive.com/globalmap) - Dialect Map
 * [JoinUS World](https://www.joinusworld.org/) - Korean Culture Q&A Site
+* [WorldStandards](https://www.worldstandards.eu/) - World Electricity and Driving Standards 
 * [Left vs. Right Side Driving Map](https://somerandomstuff1.files.wordpress.com/2019/02/left-or-right-side.png) - Left vs. Right Side Driving by Country
 * [Speed Limits Map](https://somerandomstuff1.files.wordpress.com/2019/02/highest-speed-limits-around-the-world.png) - Max Speed Limits
 * [Travel Safe](https://www.travelsafe-abroad.com/) - Travel Destination Safety Ratings
