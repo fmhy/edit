@@ -555,7 +555,7 @@
 * [Nameexif](https://us.digicamsoft.com/softnamexif.html) - Bulk Image EXIF Data Editor
 * [Base64 Image](https://www.base64-image.de/) - Encrypt / Decrypt Images 
 * [BetaFace](https://www.betaface.com/demo.html) or [Face Recognition](https://github.com/ageitgey/face_recognition) - Facial Recognition
-* [FaceCheck](https://facecheck.id/) - Face Recognition Search Engine
+* [FaceCheck](https://facecheck.id/) or [Faceagle](https://faceagle.com/) - Face Recognition Search Engines
 * [FALdetector](https://github.com/peterwang512/FALdetector) - Photoshopped Face Detector
 * [Shoop](https://colab.research.google.com/drive/1AQ0XSKWjzJBhGXXJ0XrA4DckFdv6Ul5N) - Detect if Image is Photoshopped
 * [Redact.Photo](https://redact.photo/) - Image Redaction Tool
