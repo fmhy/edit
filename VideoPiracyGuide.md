@@ -39,7 +39,6 @@
 * [Downloads-Anymovies](https://www.downloads-anymovies.co/) - Movies / 1080p
 * [YMovies](https://ymovies.vip/) - Movies / TV / Anime / 1080p
 * [YesHD](https://yeshd.net/) - Movies / TV / 1080p
-* [0123movies](https://0123movies.to/) - Movies / TV / 1080p
 * [MoviesXK](https://moviexk.biz/) - Movies / TV / 1080p
 * [KissMovies](https://kissmovies.pro/) - Movies / TV / 1080p
 * [VidCloud](https://membed1.com/) - Movies / TV / 1080p
