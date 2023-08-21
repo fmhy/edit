@@ -155,7 +155,7 @@
 * [Anti-Ad](https://anti-ad.net/) - Adblock Filters
 * [GameLoop](https://syzs.qq.com/) - Android Emulator
 * [Thanox](https://github.com/Tornaco/Thanox) - Android System Manager
-* [Baidu](https://www.baidu.com/), [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
+* [Baidu](https://www.baidu.com/), [Toutiao](https://www.toutiao.com/), [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
 * [Dianying](https://dianying.fm/) - Hash Search
 * [SooPAT](http://www2.soopat.com/) - Patent Search
 * [news_pdf](https://t.me/news_pdf), [TopHub](https://tophub.today/), [Chinadaily](http://cn.chinadaily.com.cn/) or [China Watch](http://www.chinadaily.com.cn/chinawatch_fr/index.html) - News
@@ -214,9 +214,9 @@
 * [Dy2018](https://www.dy2018.com/) - Movies
 * [shinybbs](https://sub.shinybbs.vip/) - TV
 * [ACG.rip](https://acg.rip/) - Anime / Music
-* [dmhy](https://dmhy.org/) - Anime
 * [Snow-Raws](https://snow-raws.com/) - Anime / [Official Tracker](https://www.skyey2.com/)
 * [mikanani](https://mikanani.me/) - Anime
+* [dmhy](https://dmhy.org/) - Cartoons
 * [AnimeTrackerList](https://github.com/DeSireFire/animeTrackerList) - Anime Tracker List
 
 ## ▷ Streaming
@@ -962,6 +962,7 @@
 * [Free VPN Telegram Channels](https://bin.disroot.org/?85b66e37980b245e#DRbHouuNMfXGRdqPs68y6nGLULhHdvdXzuPdDmBxsyi2) - Free VPN / Telegram
 * [Targoman](http://targoman.ir/) - Translator / [GitHub](https://github.com/targoman)
 * [Wiki Censorship](https://wikicensorship.github.io/) - Internet Censorship Encyclopedia
+* [cscot](https://cscot.pages.dev/) - V2Ray GeoIP Guide
 * [Persian Calendar](https://github.com/persian-calendar/persian-calendar) - Android Persian Calendar
 * [parseek](http://www.parseek.com/) - Search
 
@@ -977,7 +978,7 @@
 * [Download.ir](https://download.ir/) - Software / Video / Android / Games / Roms
 * [Patoghu](https://patoghu.com/) - Video / Audio / Software / Android / Games
 * [Doostihaa](https://www.doostihaa.com/) - Video / Audio / Software / Games
-* [dl1.3rver](https://dl1.3rver.org/), [2](https://dl2.3rver.org/), [3](https://dl3.3rver.org/) - Movies / TV
+* [dl1.3rver](https://dl1.3rver.org/), [2](https://dl3.3rver.org/) - Movies / TV
 * [dlfars](https://dlfars.pw/) - Movies / TV / Anime
 * [RooDL](https://roozdl1.com/) - Movies / TV / Anime
 * [ZarFilm](https://zfilm.cc/) - Movies / TV
@@ -1000,7 +1001,6 @@
 * [HexDownload](https://hexdownload.co/) - Movies / TV
 * [pishgammovie](https://pishgammovie.ir/) - Movies / TV
 * [CenterDL](https://centerdl.ir/) - Movies / TV
-* [FastMovie](https://dl2.fastmovie.ir/Animation/) - Animated Movies
 * [animesubtitle](https://animesubtitle.ir/) - Anime
 * [pop-music](https://pop-music.ir/) - MP3
 * [Just Music](https://just-music.ir/) - MP3
@@ -1068,7 +1068,6 @@
 ## ▷ Torrenting
 
 * [BitNova](https://bitnova.info/) - Video / Audio / Software / Games / Books / NSFW
-* [darmowe](https://darmowe-torenty.pl/) - Video / Audio / Software / Games / Books / NSFW
 * [polskie-torrenty](https://polskie-torrenty.net.pl/) or [helltorrents](http://helltorrents.com/) - Video / Audio / Software / Games / Books / NSFW
 * [devil-torrents](https://devil-torrents.pl/) - Video / Audio / Software / Games / Books / NSFW
 * [TorrentCity](https://torrentcity.pl/) - Video / Audio / Software / Games / Books / Comics / NSFW
@@ -1356,6 +1355,7 @@
 * [Што за шрифт?](https://t.me/+lZD1qlHA3sFhMzQy) - Fonts
 * [3DArchive](https://t.me/ArchiveStl) - 3D Models
 * [World Art](http://www.world-art.ru/) - Movie / Anime / Game Reviews and Art Display
+* [Cute Chan](https://kpop.re/) - K-Pop Imageboard
 
 ## ▷ Downloading
 
@@ -1673,7 +1673,6 @@
 * [AnimeFLV.io](https://animeflv.io/) - Anime
 * [serieslan](https://serieslan.com/) - Cartoons
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
-* [DangoToons](https://dangotoons.net/) - Anime / Cartoons
 * [Eventoshq](https://www.eventoshq.me/) - WWE
 * [LegalMentegratis](http://legalmentegratis.com/) - YouTube Movies
 * [Edutin Academy](https://edutin.com/) - Courses
@@ -1867,7 +1866,6 @@
 * [abProxy](https://proxy.abtech.vn/) - Web Proxy
 * [VSpell](https://vspell.com/Spell) - Vietnamese Spell Checker
 * [NguoiLa](https://nguoila.io/) or [CVNL](https://cvnl.app/) - Random Chat
-* [PhuDeViet](http://phudeviet.org/) - Subtitles
 * [XaBuon](https://xabuon.com/), [Xem](https://xem.vn/) - Meme
 * [GameVui](https://gamevui.vn/) or [Game24h](https://game24h.vn/) - Browser Games
 * [KiTuHay](https://kituhay.com/), [Symbols](https://symbols.vn/), [KTDB](https://ktdb.vn/) or [KiTuAz](https://kituaz.com/) - Special Characters
