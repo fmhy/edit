@@ -800,8 +800,8 @@
 * ⭐ **[ComicExtra](https://comicextra.net/)** or [Comic Online Free](https://comiconlinefree.net/)
 * ⭐ **[XOXO Comics](https://xoxocomics.net/)**
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
-* ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Comics
-* ⭐ **[xkcd](https://xkcd.com/)** or [findxkcd](https://xkcd-search.typesense.org/) - xkcd Comics / [Explanations](https://www.explainxkcd.com/wiki/index.php/Main_Page)
+* ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Web Comics
+* ⭐ **[xkcd](https://xkcd.com/)** or [findxkcd](https://xkcd-search.typesense.org/) - xkcd Web Comics / [Explanations](https://www.explainxkcd.com/wiki/index.php/Main_Page)
 * [View Comics](https://viewcomics.co/)
 * [Read Comics Online](https://readcomicsonline.ru/)
 * [Comix-Load](https://comix-load.in/) - Downloads
@@ -822,7 +822,8 @@
 * [Comic Museum](https://digitalcomicmuseum.com/index.php) - Golden Age Comics
 * [GoComics](https://www.gocomics.com/) - Comics Strips
 * [Comics Kingdom](https://comicskingdom.com/) - Comics Strips
-* [Zahard](https://zahard.xyz/) - WebToons / [Telegram](https://t.me/fast_pass)
+* [Zahard](https://zahard.xyz/) - Web Comics / [Telegram](https://t.me/fast_pass)
+* [The Oatmeal](https://theoatmeal.com/) - Web Comics
 * [RichieRichcomicsfanclub](https://richierichcomicsfanclub.wordpress.com/) - Richie Rich Comics
 * [PenLab](https://penlab.ink/) - Filipino Comics
 * [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - Tor required
