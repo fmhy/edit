@@ -149,6 +149,7 @@
 * [Manuskript](https://www.theologeek.ch/manuskript/) - Writing Organizer / Planner
 * [WorkFlowy](https://workflowy.com/) - Work Organizer
 * [KiloDoc](https://www.kilodoc.com/), [Edit-Document](https://edit-document.com/) or [GroupDocs](https://products.groupdocs.app/viewer/total) - Online Document Editors
+* [Docuseal](https://www.docuseal.co/) - Document Signing
 * [docz](https://www.docz.site/) - Write and Publish Interactive Documentation
 * [EncryptPad](https://evpo.net/encryptpad/) - Encrypted Text Editor
 * [Calculist](https://calculist.io/) - Note Taking for Problem Solving
@@ -456,7 +457,7 @@
 * ⭐ **[Equalizer APO](https://equalizerapo.com/)**, **[AutoEq](https://github.com/jaakkopasanen/AutoEq)**, [PeaceEqualizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) or [SonyHeadphonesClient](https://github.com/Plutoberth/SonyHeadphonesClient) - Audio Equalizers
 * ⭐ **[Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)** - Audio Visualization Resource Index
 * ⭐ **[Whisper](https://github.com/openai/whisper)** or [Vosk](https://github.com/alphacep/vosk-api) - Speech Recognition
-* ⭐ **[Fakin' The Funk?](https://fakinthefunk.net/)**, [Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](https://spek.cc/), [DFT](https://webfft.net/dft/) or [Spectro](http://spectro.enpts.com/) - Determine Audio Quality / Spectograms / [Guide](https://redd.it/3l0yxp)
+* ⭐ **[Fakin' The Funk?](https://fakinthefunk.net/)**, [Lossless Audio Checker](https://losslessaudiochecker.com/), [Spek](https://spek.cc/), [DFT](https://webfft.net/dft/), [Friture](https://friture.org/) or [Spectro](http://spectro.enpts.com/) - Determine Audio Quality / Spectograms / [Guide](https://redd.it/3l0yxp)
 * ⭐ **[Comparison of Audio Compression](https://nigelcoldwell.co.uk/audio/)** - Audio Compression Examples
 * ⭐ **[Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification)** - Identify Playing Songs
 * [Scarbir](https://www.scarbir.com/) or [Crinacle](https://crinacle.com/) - Headset & Earphone Comparisons
@@ -653,6 +654,8 @@
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
 * [10xJobs](https://10xjobs.net/) - Tech Job Search
 * [Arvrok](https://www.arvrok.com/) - Immersive Tech Job Search
+* [EconJobRumors](https://www.econjobrumors.com/) - Economic Job Market Forum
+* [SocJobRumors](https://www.socjobrumors.com/) - Sociology Job Market Forum
 * [80,000 Hours](https://80000hours.org/) - Explore Career Options
 * [Comparably](https://www.comparably.com/) or [GoodFirms](https://www.goodfirms.co/) - Compare Companies / Salaries
 * [Real Work From Anywhere](https://realworkfromanywhere.com/) - Global "Work-From-Anywhere" Job Board
@@ -1490,6 +1493,7 @@
 * [Video Reacp](https://videorecap.viewodyssey.com/) - YouTube Year in Review Stats
 * [youtube-cld](https://github.com/anatolykopyl/youtube-cdl) - Bulk YouTube Channel Downloader
 * [TubeArchivist](https://www.tubearchivist.com/) - Archival YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
+* [YTArchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Recorder
 * [YouTube Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) - YouTube Comment Download Script
 * [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - Fix Youtube Search / Declutter Homepage
 * [Channel Crawler](https://channelcrawler.com/eng) or [YT-FTS](https://github.com/NotJoeMartinez/yt-fts) - Channel Search Tools
@@ -2050,6 +2054,7 @@ Twitch Stream Tracker
 * ⭐ **[File Hosting / Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)** - Share, Store and Sync Files
 * ⭐ **[LocalSend](https://localsend.org/)** / [Platforms](https://i.ibb.co/nsfMf04/8010dd28ed2d.png), [Warpinator](https://github.com/linuxmint/warpinator), [QRServ](https://github.com/uintdev/qrserv) or [MyPhoneExplorer](https://www.fjsoft.at/) - Sync Files Between Phone / Desktop
 * ⭐ **[Multi-Site Cloud Storage Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_cloud_storage_managers)** - Manage Cloud Files on Multiple Sites
+* ⭐ **[SD Drive](https://github.com/jsmsj/sa-drive/)** - Service Account Drive Manager
 * ⭐ **[Windows File Explorers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_file_explorers)** - Improved Windows File Explorers / [Preload Thumbnails](https://github.com/bruhov/WinThumbsPreloader/) 
 * ⭐ **[File Backup Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_backup_tools)** - File / Data Backup Tools
 * ⭐ **[File Conversion Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_conversion_tools)** - Tools to Convert Files
