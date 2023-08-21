@@ -574,6 +574,7 @@
 * [MacBed](https://www.macbed.com/)
 * [Pure Mac](https://www.pure-mac.com/)
 * [Macupdate](https://www.macupdate.com/)
+* [Cmacked](https://cmacked.com/)
 * [Mac Torrents](https://www.torrentmac.net/)
 * [MacTorrents](https://mactorrents.io/)
 * [InsMac](https://insmac.org/)
