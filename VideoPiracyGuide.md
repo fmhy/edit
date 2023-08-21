@@ -112,7 +112,7 @@
 * [LokLok](https://loklok.com/) - Movies / TV / 1080p
 * [ARTE](https://www.arte.tv/en) - Movies / TV / 1080p
 * [BBC iPlayer](https://www.bbc.co.uk/iplayer) - Movies / TV / 1080p / [Downloader](https://github.com/get-iplayer/get_iplayer) / UK VPN required
-* [SusFlix](https://hbosus.com), [2](https://www.susmovies.lol/), [3](https://sushbo.com/) - Movies / TV / Anime / 720p / [Discord](https://discord.gg/BE7kTVezBN)
+* [SusFlix](https://susflix.tv/), [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 720p / [Discord](https://discord.gg/BE7kTVezBN)
 * [Mov.onl](https://www.mov.onl/) - Movies / TV / 720p
 * [OpenloadMovies](https://openloadmov.com/) or [Yify TV](https://ytsmovie.tv/) - Movies / TV / 720p
 * [SpaceMov](https://spacemov.site/) - Movies / TV / 720p
