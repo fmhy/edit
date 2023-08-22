@@ -339,7 +339,6 @@
 * [KRX18](https://krx18.com/) - Asian
 * [TokyoMotion](https://tokyomotion.com/) - Asian
 * [Republic of Korea](https://republic-of-korea.com/) - Asian
-* [yadongkorea](https://yadongkorea.net/) - Asian
 * [365next2](https://www.365next2.com/) - Asian
 * [JavRank](https://javrank.com/) - Asian
 * [FunLove](https://funlove.info/) - Asian
@@ -349,6 +348,7 @@
 * [91Porn](https://91porn.com/index.php) - Amateur Chinese
 * [sjhs301](https://sjhs301.github.io/) - Chinese
 * [pinayflix](https://pinayflix.tv/) - Filipino
+
 ***
 
 ## ▷ Indian
