@@ -150,7 +150,6 @@
 * [HMDRIVE](https://t.me/HMDRIVE_OFFICIAL) - Courses
 * [Iit jee lectures](https://t.me/Iitjeeinveins2), [Codex](https://t.me/CODEX_JEE), [Rankers](https://t.me/+mcZ0RHaH9vRlM2Y1) or [Genetry](https://genetry.carrd.co/) - JEE Lectures
 * [CoursesDaddy](http://coursesdaddy.com/) - Courses
-* [Course Drive](https://coursedrive.org/) - Courses
 * [Courses Pastebins](https://github.com/nbats/FMHYedit/blob/main/base64.md#course-pastebins) - Courses
 * [Super Huge Course Collection](https://babia.to/threads/%F0%9F%94%A5%F0%9F%94%A5-super-huge-course-collection-700-courses-3tb-data-%F0%9F%94%A5%F0%9F%94%A5.40041/) - Courses
 * [online-courses](https://online-courses.club/) - Courses
@@ -388,7 +387,7 @@
 * [Weboasis Convert](https://weboasis.app/convert/) - Conversion Calculators
 * [PecentageTools](https://percentagetools.com/) - Percentage Calculators
 * [Matrix Multiplication](http://matrixmultiplication.xyz/) - Matrix Multiplication Calculator
-* [Unit Conversion](https://conversao.net/eng/), [CoolConversion](https://coolconversion.com/), [UnitConverters](https://www.unitconverters.net/), [Converter Pro](https://f-droid.org/packages/com.ferrarid.converterpro/), [ConvertUnits](https://www.convertunits.com/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converters
+* [CoolConversion](https://coolconversion.com/), [UnitConverters](https://www.unitconverters.net/), [Converter Pro](https://f-droid.org/packages/com.ferrarid.converterpro/), [ConvertUnits](https://www.convertunits.com/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converters
 * [Derivative Calculator](https://www.derivative-calculator.net/) - Derivative Calculator
 * [Integral Calculator](https://www.integral-calculator.com/) - Integral Calculator
 * [Desmos](https://www.desmos.com/) - Graphing Calculator
@@ -851,7 +850,6 @@ Simulator
 * [South Asian Languages](https://discord.gg/TrdqTDdMba) - South Asian Language Learning
 * [Urdu Resource List](https://docs.google.com/document/d/1GRTK_E0YGybMNYZjFToM40sOHNkR1NJXc_dL8HW2Q_0/) or [UrduNotes](https://urdunotes.com/) - Urdu Learning Resources
 * [Urdupod101](https://www.urdupod101.com/blog/2021/03/18/urdu-grammar-overview/) - Urdu Grammar Overview / [Video](https://youtu.be/X5J_kXigPWE)
-* [Urdu Grammar](http://ilovelanguages.org/urdu_grammar.php) - Urdu Grammar Lessons
 * [Learn Sanskrit](https://www.learnsanskrit.org/) or [Sanskrit Studio](https://sanskritstudio.wordpress.com/) - Sanskrit Lessons and Tools
 * [UBC Sanskrit Learning Tools](https://ubcsanskrit.ca/) - UBC Sanskrit Lessons
 * [Sanskrit Subreddit](https://www.reddit.com/r/sanskrit/) / [Resources](https://www.reddit.com/r/sanskrit/comments/kx3xyu/sanskrit_resources_compilation_post/) - Sanskrit Resources / Discussion
