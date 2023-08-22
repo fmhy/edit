@@ -132,7 +132,6 @@
 * [BGESTV](https://bgestv.com) - TV / Sub / Dub / 720p
 * [TubeBG](https://www.tubebg.com/) - TV / Sub / Dub / 720p
 * [Gledai-me](https://gledai-me.com/) - TV / Sub / 720p
-* [TVSerialSite](https://tvserial.site/) - TV / Sub / 720p
 
 ***
 
@@ -233,12 +232,12 @@
 * [MoMoVOD](https://momovod.app/) - Movies / TV / Anime
 * [uvod.tv](https://www.uvod.tv/) - Movies / TV / Anime
 * [Btutv](https://www.btutv.com/) - Movies / TV / Anime
-* [555dy](https://555dy1.com/) - Movies / TV / Anime / NSFW
 * [VidHub](https://vidhub.tv/) - Movies / TV / Anime
 * [IcDrama](http://icdrama.video/) - Movies / TV
 * [iMeiju](https://www.imeiju.net/) - Movies / TV
 * [Nunu Cinema](https://www.nunuyy5.org/) - Movies / TV
 * [Fun.tv](http://www.fun.tv/) - Movies / TV
+* [555dy](https://555dy1.com/) - Movies / TV / Anime / NSFW
 * [MeWatch](https://www.mewatch.sg/) - Movies / TV
 * [3g1.cc](https://www.3g1.cc/) - Movies / TV
 * [KokoTV](https://kokotv.me/) - Drama
@@ -263,7 +262,6 @@
 * [haodoo](https://haodoo.net/) - Books
 * [Pilibook](https://www.pilibook.com/) - Books
 * [ixdzs](https://tw.ixdzs.com/) - Books
-* [LoreFree](https://lorefree.com/) - Books
 * [shuhai](https://www.shuhai.vip/) - Books
 * [xxbiqudu](https://www.xxbiqudu.com) - Books
 * [lingjingxingzhe](https://lingjingxingzhe.com/) - Books
@@ -278,7 +276,6 @@
 * [BiliBili](https://manga.bilibili.com/) - Manga
 * [manhuagui](https://www.manhuagui.com/) - Manga
 * [manwa](https://manwa.me/) - Manga
-* [Rimanb](https://rimanb.com/) - Manga
 * [DMZJ](https://www.dmzj.com/) - Manga
 * [xlsmh](https://www.xlsmh.com) - Manga
 * [Laimanhua](https://www.laimanhua8.com/) - Manga
@@ -294,7 +291,6 @@
 * [118book](https://www.118book.com/) - Light-Novels
 * [ffxs8](https://ffxs8.com/) - Light-Novels
 * [Piaotian](https://www.ptwxz.com/) - Light-Novels
-* [woshucheng](https://www.woshucheng.com/) - Light-Novels
 * [Shuquge](https://www.ishuquge.org/) - Light-Novels
 * [Baozimh](https://www.baozimh.com/) - Webtoons
 * [Doujin Fiction Network](https://www.trxs.me/) or [Readfine](https://t.me/Readfine) / [Discussion](https://t.me/ReadfineChat) - FanFiction
@@ -403,7 +399,7 @@
 ## ▷ Torrenting
 
 * [YggTorrent](https://www3.yggtorrent.wtf/) - Video / Audio / Roms / Software / Books / Android / Comics
-* [Torrent9](https://www.torrent9.fm/), [2](https://www.torrent9.site/), [3](https://torrent9.app/), [4](https://ww2.torrentz9.fr/) - Video / Audio / Software / Games / Roms / Books
+* [Torrent9](https://www.torrent9.fm/), [2](https://www.torrent9.site/), [3](https://torrent9.app/) - Video / Audio / Software / Games / Roms / Books
 * [Torrent911](https://www.torrent911.me/)  - Video / Audio / Software / Games / Roms / Books
 * [OxTorrent](https://oxtorrents.co/) - Video / Audio / Software / Games / Roms / Books
 * [Cpasbien](https://www.cpasbien.tw/) - Video / Audio / Books / Software / Games / ROMs
@@ -445,7 +441,6 @@
 ## ▷ Reading
 
 * [BookDDL](http://www.bookddl.com/) - Books / Magazines / Newspapers / Audiobooks
-* [pdf-ebookys](https://french.pdf-ebookys.com/) - Books / Magazines
 * [Bookys](https://ww8.bookys-ebooks.com/) - Books / Comics / Magazines / Newspapers / NSFW
 * [1001ebooks](https://1001ebooks.net/) - Books
 * [Planet-DB](https://planete-bd.org/) - Comics / Manga
@@ -734,7 +729,6 @@
 * [otakudesu](https://otakudesu.lol/) - Anime
 * [anoBoy](https://anoboy.monster/) - Anime
 * [kuramanime](https://kuramanime.net/) - Anime
-* [Akashinime](https://akashinime.pro/) - Anime
 * [ANIsub](https://anisub.monster/) - Anime
 
 ## ▷ Reading
@@ -1139,7 +1133,6 @@
 * [KSensei](https://karinsensei.com) - Anime
 * [Anipakku](https://anipakku.blogspot.com) - Anime / [Discord](https://discord.com/invite/Whu6RV9Gad)
 * [Baixar SOM Gospel](https://www.baixarsomgospel.org) - Gospel Music
-* [Gendou](http://gendou.com) - Anime OSTs
 * [Baixar Vídeo](https://baixarvideo.com.br) - Portuguese Video Downloader
 * [Online Cursos Gatuitos](https://onlinecursosgratuitos.com) - Courses
 * [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
@@ -1402,7 +1395,6 @@
 * [DDGroupClub](http://ddgroupclub.win/) - Video / Audio / Software / Games / Roms / Books
 * [Utor.pp](http://utor.pp.ua/) - Video / Audio / Software / Games / Roms / Books
 * [Fast torrent](http://fast-torrent.ru/) - Movies / TV / Anime
-* [FireBit](http://firebit.org/) - Video / Audio / Software / Games / Books
 * [BigFanGroup](https://bigfangroup.org/) - Movies / TV / Anime
 * [ByTorent](http://bytorent.ru/) - Video / Audio / Software
 * [Animelayer](http://animelayer.ru/) - Anime
@@ -1422,7 +1414,7 @@
 * [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Android / Aggregator / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * [baskino](http://baskino.me/) - Movies
 * [Gidonline](https://gidonline.io/) - Movies
-* [KinoGo](https://kinogo.la/), [2](https://kinogo.ca/) - Movies / TV / Anime / [Telegram](https://t.me/kinogoby)
+* [KinoGo](https://kinogo.la/) - Movies / TV / Anime / [Telegram](https://t.me/kinogoby)
 * [Kinotochka](https://kinotochka.co/) - Movies / TV / Anime
 * [kinokong](https://kinokong.pro/) - Movies / TV
 * [Zetflix](https://zetlix.zone/) - Movies / TV / Anime
@@ -1501,7 +1493,7 @@
 * [militera](http://militera.org/) - Military History
 * [Arzamas](https://arzamas.academy/) - Cultural History
 * [Playing Soviet](https://commons.princeton.edu/soviet/) - Children's Books
-* [Baza Knig](https://baza-knig.ru/), [Flibusta_Anglysky](https://t.me/flibusta_anglysky), [Аудиокниги Клуб](https://akniga.org/), [Bibl](https://m.bibl.us/), [Knizhkin](https://knizhkin.net/), [Aknigi Online](https://audioknigi-online.ru/), [A Book Club](http://abook-club.ru/), [Bibl.us](https://bibl.us/) - Audiobooks
+* [Baza Knig](https://baza-knig.ru/), [Flibusta_Anglysky](https://t.me/flibusta_anglysky), [Аудиокниги Клуб](https://akniga.org/), [Bibl](https://m.bibl.us/), [Knizhkin](https://knizhkin.net/), [A Book Club](http://abook-club.ru/), [Bibl.us](https://bibl.us/) - Audiobooks
 * [Science Lab](https://fantlab.ru/) - Sci-Fi Book Discussion
 
 ***
@@ -1545,7 +1537,6 @@
 * ⭐ **[DescargasDD](https://descargasdd.org/)** - Video / Audio / Software / Games / Castilian / Latino / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
 * ⭐ **[ForoWarez](https://forowarez.info/)** - Video / Audio / Reading / NSFW / Software / Games / Castilian / Latino
 * [identi](https://identi.io/) - Video / Audio / Reading / Software / Games / Latino / Castilian
-* [BladeMaster666](https://blademaster666.com/) - Video / Audio / Reading / NSFW / Software / Games
 * [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Software / Games
 * [Guns's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Games
 * [Cultura Para Todos](https://culturaparatodos.eu/) - Video / Audio / Reading / Software / Games
@@ -1686,7 +1677,6 @@
 * [La Pirateca](https://lapirateca.com/) - Books
 * [Lectulandia](https://ww2.lectulandia.com/), [2](https://www.lectulandia.co/) - Books
 * [ePub Gratis](https://www.epubgratis.info/) - Books
-* [Espaebook2](https://www.espaebook2.com/) - Books
 * [Todolibros](https://todolibros.net/) - Books
 * [BibliotecaEpub](https://bibliotecaepub.com/) - Books
 * [Lectuepub](https://lectuepub2.com/) - Books
@@ -1897,7 +1887,6 @@
 * [NhacHay360](https://nhachayvn.net/) - Music
 * [NhacRemix](https://nhacremixs.com/) - Music
 * [NgheNhac123](https://nghenhac123.com/) - Music
-* [DJ24h](https://dj24h.com/) - Music
 
 ## ▷ Torrenting
 
@@ -1918,7 +1907,6 @@
 * [Phim1080](https://xem1080.com/) - Movies / TV
 * [PhimTor](https://phimtor.com/) - Movies
 * [HoatHinhTQ](https://hoathinhtrungquoc.top/) - Chinese Animation
-* [HHTQtv](https://hhtqvietsub.org/) - Chinese Animation
 * [HHPanda](https://hhpanda.net/) - Chinese Animation
 * [HoatHinh3D](https://hoathinh3d.com/) - Chinese Animation
 * [HHNinja](https://hhninja.tv/) - Chinese Animation
