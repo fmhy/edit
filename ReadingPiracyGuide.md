@@ -693,7 +693,6 @@
 
 * [Manuals & Schematics](https://redd.it/nlw3er), [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [Wedophones](http://wedophones.com/Manuals/), [manualzz](https://manualzz.com/), [ManualsNet](https://manualsnet.com/), [manua.ls](https://www.manua.ls/) or [ManualsLib](https://www.manualslib.com/) - Manual Directories
 * [ManualLib](https://www.manuallib.com/) - Manual Search
-* [Floss Manuals](https://www.flossmanuals.net/) - Software Manuals
 * [iFixIt](https://www.ifixit.com/Guide) - Repair Manuals
 * [RepairWiki](https://repair.wiki/w/Repair_Wiki) - Repair Articles
 * [WonderHowTo](https://www.wonderhowto.com/) - Tech How-to's
@@ -713,7 +712,7 @@
 
 * ⭐ **[The Piracy Glossary](https://rentry.org/The-Piracy-Glossary)** - Piracy Dictionary
 * ⭐ **[Wikipedia](https://www.wikipedia.org/)**, [WikiWand](https://www.wikiwand.com/) or [Metastem](https://wiki.metastem.su/), [ModernWiki](https://www.modernwiki.app/) - Encyclopedia
-* ⭐ **Wikipedia Tools** - [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Page Connections](https://hyperleap.com/) / [Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) / [TUI](https://github.com/yashsinghcodes/wik) / [Galaxy View](https://wiki.polyfra.me/) / [Offline View](http://cdpedia.python.org.ar/index.en.es.html) / [Read Only](http://static.wiki/) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener) / [Phrase Search](http://densephrases.korea.ac.kr/) / [Location Search](https://wikinearby.toolforge.org/)
+* ⭐ **Wikipedia Tools** - [Top Pages](https://top.hatnote.com/) / [Deleted Pages](https://deletionpedia.org/en/Main_Page) / [Page Connections](https://hyperleap.com/) / [Dark Mode](https://en.wikipedia.org/wiki/Wikipedia:Dark_mode) / [TUI](https://github.com/yashsinghcodes/wik) / [Galaxy View](https://wiki.polyfra.me/) / [Offline View](http://cdpedia.python.org.ar/index.en.es.html) / [Read Only](http://static.wiki/) / [Extract Text](https://github.com/attardi/wikiextractor) / [Shorten URLs](https://meta.wikimedia.org/wiki/Special:UrlShortener) / [Location Search](https://wikinearby.toolforge.org/)
 * ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** or [TheSage](https://www.sequencepublishing.com/) - Dictionary / Thesaurus
 * ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)** / [Frontends](https://codeberg.org/zortazert/rural-dictionary/), [Lingo2Word](https://www.lingo2word.com/) or [Slangit](https://slang.net/) - Slang Word / Phrase Dictionaries
 * ⭐ **[OneLook](https://onelook.com/)** - Multi Dictionary Search
@@ -1018,7 +1017,6 @@
 * [EnglishNovelsOnline](https://englishnovelonline.com/)
 * [ReadLightNovel](https://readlightnovel.app/)
 * [AllNovel](https://allnovel.org)
-* [EliteNovel](https://elitenovel.net/)
 * [ReadWebNovels](https://readwebnovels.net)
 * [NovelTranslate](https://noveltranslate.com/)
 * [MyBoxNovel](https://myboxnovel.com/)
@@ -1239,7 +1237,7 @@
 * ⭐ **[DownloadBookFromIPFS](https://greasyfork.org/en/scripts/428894-downloadbookfromipfs)** - Add Button to Download Books from IPFS
 * ⭐ **[EBook Converter Wiki](https://wiki.mobileread.com/wiki/E-book_conversion)**, [Ebook-Converter](https://ebook-converter.com/) or [Ebook-Online-Convert](https://ebook.online-convert.com/) - Ebook Converters
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi Format Converter
-* [txtpaper](https://txtpaper.com/) or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to Ebook Converter
+* [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to Ebook Converter
 * [CrowBook](https://github.com/lise-henry/crowbook) - Markdown to EPUB Converter
 * [Libby](https://libbyapp.com/) - Library Search
 * [How-to Get Library Card Online](https://rentry.co/9b3vdo)
