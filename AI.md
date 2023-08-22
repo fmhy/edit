@@ -150,7 +150,6 @@
 * ⭐ **[AI Collection](https://github.com/ai-collection/ai-collection)** - AI Directory
 * ⭐ **[AI Scout](https://aiscout.net/)** - AI Directory
 * ⭐ **[AIcyclopedia](https://www.aicyclopedia.com/)** - AI Directory
-* ⭐ **[A.I. Apps](https://appraven.net/collection.php?listId=63b5eef1904afd2a981cead0)** - AI iOS App Directory
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#free-content) - AI Resources / Learning
 * [Favird](https://favird.com/) - AI Directory
 * [FutureTools](https://www.futuretools.io/?pricing-model=free) - AI Directory
@@ -251,7 +250,6 @@
 * [Leonardo.ai](https://app.leonardo.ai/) - AI Image Generator
 * [Prodia](https://app.prodia.com/) - AI Image Generator
 * [Visuali](https://visuali.io/) - AI Image Generator
-* [Ocriador](https://ocriador.app/) - AI Image Generator
 * [StableBoost](https://stableboost.ai/) - AI Image Generator
 * [BlueWillow](https://www.bluewillow.ai/) - AI Image Generator
 * [Artsio](https://artsio.xyz/) - AI Image Generator
@@ -369,7 +367,6 @@
 * [Boomy](https://boomy.com/)
 * [Riffusion](https://www.riffusion.com/)
 * [Drum Loop AI](https://www.drumloopai.com/) - Drum Loop Generator
-* [Musico](https://www.musi-co.com/listen/streams) - AI Generated Songs
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
 
 ***
