@@ -72,7 +72,6 @@
 * [DarkSoftware](https://darksoftware.net/) - Video / Audio / Games / ROMs
 * [Team OS](https://www.teamos.xyz/) - Software / Games / Books / Android
 * [WarezBook](https://www.warezbook.org/) - Video / Audio / Software / Games / Books
-* [WawaCity](https://www.wawacity.video/) - Video / Audio / Books / Magazines / Software / Android / Use AdBlocker
 * [2DDL](https://2ddl.it/) - Video / Audio / Software / Games / Books / Comics / Magazines
 * [WarezLover](https://warezlover.xyz/) - Video / Audio / Software / Games / Android / ROMs / Books / Magazines
 * [TFPDL](https://tfpdl.se/), [2](https://tfpdl.to/) - Video / Software / Games / Magazines / NSFW
@@ -84,7 +83,6 @@
 * [FrostClick](https://www.frostclick.com/wp/) - Video / Audio / Software / Games / Books
 * [20Links](https://20links.com/) - Video / Audio / Software / Games / Books
 * [The Ambassador](https://ambassadorddl.site/) - Video / Games / Books
-* [WarezMagazine](https://warezmagazine.us/) - Video / Software / Books
 * [Leaker](https://leaker.me/) - Video / Audio / Games
 * [TehParadox](https://www.tehparadox.net/) - Video / Audio / Software / Games / Books / Magazines / ROMs / Android
 * [wJungle](https://wjungle.net/) - Video / Audio / Books / Games / Android / NSFW
