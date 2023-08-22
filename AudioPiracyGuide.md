@@ -35,7 +35,7 @@
 ## ▷ Streaming Sites
 
 * ⭐ **[Spotify](https://open.spotify.com/)** - Browser Music
-* ⭐ **Spotify Browser Tools** - [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Listen Together](http://jqbx.fm/) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
+* ⭐ **Spotify Browser Tools** - [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
 * ⭐ **[YouTube Music](https://music.youtube.com/)**, **[YTMP](https://ytmp.itsvg.in/)**, [Hyperpipe](https://hyperpipe.surge.sh), [InfiGroove](https://www.infigroove.com/), [Beatbump](https://beatbump.io/) or [Spotify One](https://spotfy.one/) - YouTube Music WebUIs
 * ⭐ **YouTube Music Tools** - [Lag Fix](https://greasyfork.org/en/scripts/432304-youtube-music-fix-performance) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
@@ -72,7 +72,7 @@
 * [Exotica](https://www.exotica.org.uk/) - Retro Gaming Music Wiki
 * [MusicDex](https://musicdex.org/) - Anime Soundtracks / [Discord](https://discord.gg/yCXJkbdCHt)
 * [Musicmap](https://musicmap.info/) - Genealogy / History of Music Genres
-* [ListenToThis](https://listentothis.nanoshinono.me/) or [Samplette](https://samplette.io/) - Random Songs
+* [Samplette](https://samplette.io/) - Random Songs
 * [The Nostalgia Machine](http://thenostalgiamachine.com/) - Random Songs by Year
 * [Map of Metal](http://mapofmetal.com/) - Interactive Map of Metal History
 * [LostMyspace](http://lostmyspace.com/) - Lost Myspace Songs
@@ -209,7 +209,7 @@
 * [VibeOcean](https://defonic.com/vibeocean.html) - Ambient Ocean Sounds
 * [Calm](https://www.calm.com/app) - Meditation / Sleep Music 
 * [Tide.fm](https://tide.fm/) - Meditation / Sleep Sounds
-* [WhiteNoiseFan](https://www.whitenoisefan.com/) or [Ambie](https://github.com/jenius-apps/ambie) - White Noise Generators
+* [Ambie](https://github.com/jenius-apps/ambie) - White Noise Generators
 * [ChillOuts](http://www.chillouts.com/) - Meditation Aid
 * [August Ambiance](https://augustambience.com/) - Ambient Summer Sounds / Relaxation 
 * [VirtCcean](https://virtocean.com/) - Ambient Ocean Sounds
@@ -306,7 +306,6 @@
 * [FLAC Attack](https://flacattack.net/) or [Lossless-Music](https://lossless-music.org/) - FLAC
 * [Losslessma](https://losslessma.net/) - FLAC
 * [LosslessBest](https://flacdl.com/) - FLAC
-* [FLAC World](http://flac.world/) - FLAC
 * [FlacMusic](https://www.flacmusic.info/) - FLAC
 * [Music HiRes](https://music-hires.blogspot.com/) - FLAC
 * [FLAC.xyz](http://flac.xyz/) - FLAC
@@ -381,7 +380,6 @@
 * [HipHopa](https://hiphopa.net/) - Hip Hop / MP3
 * [FlexyOkay](https://www15.flexyokay.com/) - Hip Hop / MP3
 * [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 /FLAC
-* [JPFlac](https://jpflac.com/) - Japanese / Korean / MP3 / FLAC
 * [KPopMusicDownload](https://kpopdownloadscmm.blogspot.com/) - K-Pop / MP3
 * [KPopTap](https://kpoptap.com/) - K-Pop / MP3
 * [MikuDB](http://mikudb.moe/) - Vocaloid / MP3
