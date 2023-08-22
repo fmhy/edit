@@ -504,7 +504,7 @@
 * [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) or [MetaTags](https://metatags.io/) - Meta Tag Generator
 * [Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools)
 * [Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools) - Domain Information Lookup Tools
-* [BrandSnap](https://brandsnap.ai/), [AIconicDomain](https://aiconicdomain.com/), [namy.ai](https://namy.ai/), [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [IWantMyName](https://iwantmyname.com/), [expireddomains](https://www.expireddomains.net/), [atlaq](https://atlaq.com/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
+* [BrandSnap](https://brandsnap.ai/), [atlaq](https://atlaq.com/), [AIconicDomain](https://aiconicdomain.com/), [namy.ai](https://namy.ai/), [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [IWantMyName](https://iwantmyname.com/), [expireddomains](https://www.expireddomains.net/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
 * [TinyDomain](https://tinydomain.net/) - Short Domain Suggestions
 * [DNForum](https://www.dnforum.com/) - Domain Name Forum
 * [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
@@ -866,7 +866,7 @@
 * [3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models) - 3D Models / Tools
 * [Unreal Engine](https://www.unrealengine.com/) - 3D Creation Tool / [Python](https://github.com/20tab/UnrealEnginePython) / [C#](https://gamefromscratch.com/getting-started-with-unrealclr/) / [3D Scans](https://quixel.com/megascans) / [File Explorer](https://github.com/4sval/FModel), [2](https://fmodel.app/) / [Console Unlocker](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)
 * [Tommti Systems](http://www.tommti-systems.de/go.html?http://www.tommti-systems.de/main-Dateien/files.html) - 3D Benchmark Tools
-* [XeSS](https://github.com/intel/xess/blob/main/doc/XeSS%20Developer%20Guide%20English%20v1.1.pdf) - Increase Framerate of Game
+* [XeSS](https://github.com/intel/xess) - Increase Framerate of Game
 * [Serpent.ai](http://serpent.ai/) - Game Agent Framework
 * [Tracy Profiler](https://github.com/wolfpld/tracy) - Frame Profiler
 * [PlanetSide](https://planetside.co.uk/) - CG Environment Generator
@@ -1295,7 +1295,7 @@
 * [HTML Reference](https://htmlreference.io/) - HTML Guide
 * [HTML Notepad](https://html-notepad.com/) or [HTML Sandbox](https://apps.apple.com/us/app/html-sandbox-2/id6443393029) - HTML Editors
 * [PageRip](https://webpagerip.com/) or [CSSPeeper](https://csspeeper.com/) - HTML / CSS Extractors
-* [TryIt HTML](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro), [HTML-Online](https://html-online.com/editor/), [pell](https://jaredreich.com/pell/), [html.cafe](https://html.cafe/) or [jsTester](https://www.cs.iupui.edu/~ajharris/webprog/jsTester.html) - Online HTML Editors
+* [TryIt HTML](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro), [HTML-Online](https://html-online.com/editor/) or [html.cafe](https://html.cafe/) - Online HTML Editors
 * [GrapeJS](https://grapesjs.com/) - HTML Template Editor
 * [Broken Link Checker](https://github.com/stevenvachon/broken-link-checker) - Find Broken Links in HTML
 * [Markup Validation Service](https://validator.w3.org/) - Validate Your Markup Language Structure
