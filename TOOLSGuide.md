@@ -37,7 +37,7 @@
 * [hikaku-sitatter](https://hikaku-sitatter.com/en/) or [Mulmetric](https://multmetric.com/) - Height Comparison Tool
 * [Paper Sizes](https://papersizes.io/) - Common Paper Sizes
 * [NST](https://time.gov/), [Qlock](http://www.qlock.com/), [WorldTimeBuddy](https://www.worldtimebuddy.com/), [TheClockApp](https://theclockapp.vercel.app/), [TimeAndDate](https://www.timeanddate.com/) or [EveryTime Zone](https://everytimezone.com/) - World Clocks
-* [FlipClockWeb](https://flipclock.tk/), [TheColourClock](http://thecolourclock.com/), [FlipClocker](https://flipclocker.com/) or [HexClock](https://www.jacopocolo.com/hexclock/) - Fullscreen Clocks
+* [FlipClockWeb](https://flipclock.tk/), [TheColourClock](http://thecolourclock.com/) or [HexClock](https://www.jacopocolo.com/hexclock/) - Fullscreen Clocks
 * [Epoch Converter](https://www.epochconverter.com/) - Epoch / Unix Timestamp Conversion Tools
 * [How Many Days Since](http://howmanydayssince.net/), [DateTimeCalculator](https://datetimecalculator.net/calculators), [CalcuDater](https://calcudater.com/), [HowLongAgoGo](https://howlongagogo.com/), [Days.to](https://days.to/) or [How Many Days Until](https://howmanydaysuntil.co/) - Time / Date Calculators
 * [e.gg Timer](https://e.ggtimer.com/), [Pomolectron](https://github.com/amitmerchant1990/pomolectron), [Pomodoro Kitty](https://pomodorokitty.com/), [Pomodor](https://pomodor.app/timer), [Hourglass](https://chris.dziemborowicz.com/apps/hourglass/), [Aesthetic Pomodoro](https://studywithme.io/aesthetic-pomodoro-timer/) or [Juicy Timer](https://juicytimer.com/) - Timers
@@ -479,7 +479,7 @@
 * [/r/samplesforall](https://www.reddit.com/r/samplesforall/), [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [RKHive](https://rkhive.com/), [Sounds MP3](https://allsoundsaround.com/) or [SamplesTorrent](https://samplestorrent.com/) - Audio Samples
 * [AirWindows](https://www.airwindows.com/) - Reverbs / Equalizers / Plugins
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - Learn How to Play Music
-* [Jukebox](https://jukebox.today/) or [Mu Sync](https://www.mu-sync.com/) - Music Sync / Listening Parties
+* [Jukebox](https://jukebox.today/) - Music Sync / Listening Parties
 * [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyrics Finder for Spotify, Tidal & VLC
 * [Whyp](https://whyp.it/) - Audio Host
 * [Aux](https://aux.app/) - Audio Project Host
@@ -702,7 +702,6 @@
 * [AWS re/Start](https://aws.amazon.com/training/restart/) - Cloud Career Training
 * [awesome-startup-tools-list](https://github.com/Ibexoft/awesome-startup-tools-list) or [500+ Free Tools For Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Tools
 * [BetaList](https://betalist.com/), [PowerModeAI](https://powermodeai.com/) or [IdeasAI](https://ideasai.com/) - Get Startup Ideas
-* [HalfBakedIdeas](https://halfbakedideas.app/feed) - Share Startup Ideas
 * [Failory](https://www.failory.com/graveyard) - Learn Why Startups & Products Failed
 * [PatentsExpiringToday](https://patentsexpiringtoday.com/) - Find Expired Patents
 * [WellFound](https://wellfound.com/) - Startup Community
@@ -1117,7 +1116,6 @@
 * [bitly](https://bitly.com/) - `bit.ly/3cmqPIu` / [Reveal URL](https://i.ibb.co/tQVKYRq/3a97e5dd64b2.png)
 * [TinyUrl](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / [Reveal URL](https://i.ibb.co/Wv90gT4/0d2992342fc7.png)
 * [id](https://home.s.id/) - `s.id/EQBsg`
-* [v.ht](https://v.ht/) - `v.ht/rM7Q`
 * [Tiny.cc](https://tiny.cc/) - `tiny.cc/akl1mz`
 * [1kb](https://1kb.link/) - `1kb.link/acc0a`
 * [x.gd](https://x.gd/) `x.gd/rcg0Z`
@@ -1233,7 +1231,6 @@
 * [Bulk Downloader for Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Reddit Bulk Submission Downloader
 * [Wiki Downloader](https://github.com/michealespinola/reddit.wikidownloader) - Reddit Wiki Page Scraper
 * [SocialGrep](https://socialgrep.com/) - Reddit Statistics
-* [Upvote Stats](https://www.upvotestats.com/) - Upvote Stats
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [RedditRaffler](https://www.redditraffler.com/) - Reddit Raffle System
 * [Base64 Decoder](https://openuserjs.org/scripts/DanielBlaze/Reddit_Base64_Decoder) - Auto Decode Base64 Links in Reddit
@@ -2131,7 +2128,6 @@ Twitch Stream Tracker
 * [mega-account-generator](https://github.com/lem6ns/mega-account-generator), [2](https://github.com/crackhub-dev/mega-account-generator) - Mega Account Generators
 * [Mega Checker](https://github.com/Titoot/mega-checker) - Mega Link Checker
 * [Unlimited Mega Storage](https://redd.it/ffrkf3) - Unlimited Mega Storage Guide
-* [GetMega](https://getmega.net/) - Direct Mega Links 
 * [Mega-index-heroku](https://github.com/developeranaz/Mega-index-heroku) - Serve Mega to HTTP via Heroku
 * [GDrive Guides](https://t.me/gdriveguides) - GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)
 * [Any File to GDrive](https://github.com/menukaonline/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarshaketh/Bhadoo-Cloud-Drive) - DDL to GDrive Tool
@@ -2234,7 +2230,6 @@ Twitch Stream Tracker
 * [Random Executor](https://sneakysnail.net/random-executor/) - Random File Executor
 * [HeavenTools](http://www.heaventools.net/) - PE File Editors
 * [pe_tree](https://github.com/blackberry/pe_tree) - PE File Tree View
-* [PEDump](https://pedump.me/) - PE File Dump
 * [AXEL](https://github.com/axel-download-accelerator/axel) - Lightweight CLI Download Accelerator
 * [HxD](https://mh-nexus.de/en/hxd/), [Hexyl](https://github.com/sharkdp/hexyl) or [Hexinator](https://hexinator.com/) - Hex Editors
 * [webhex.net](https://en.webhex.net/) - Online Hex Viewer
@@ -2279,7 +2274,6 @@ Twitch Stream Tracker
 * [Gradient Terminal](https://github.com/aurora-0025/gradient-terminal) - Display Terminal Output as Gradient
 * [ss64](https://ss64.com/) - Command Line Reference Index
 * [Command Challenge](https://cmdchallenge.com/) - Command Line Learning
-* [ZimTools](https://zimtools.xyz/) - Command Line Tool Configs
 * [Clink](https://github.com/chrisant996/clink) - Command Line Editing
 * [Terminal Icons](https://github.com/devblackops/Terminal-Icons) - File and Folder Icons in Terminal
 * [Alacritty](https://github.com/alacritty/alacritty), [yakuake](https://apps.kde.org/yakuake/), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://eugeny.github.io/tabby/), [Wives](https://github.com/KRTirtho/wives), [ExtraTerm](https://extraterm.org/) or [Terminus](https://github.com/Eugeny/tabby) - Terminal Emulators
