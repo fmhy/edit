@@ -300,7 +300,7 @@
 ## ▷ Arcade / Retro
 
 * ⭐ **[Play Old PC Games](https://www.play-old-pc-games.com/)** - Retro PC Game Setup Guides
-* ⭐ **[My Abandonware](https://www.myabandonware.com/)**, [XTCabandonware](http://www.xtcabadonware.com/), [AbandonwareGames](https://abandonwaregames.net/), [PCGameAbandonware](https://www.pcgamesabandonware.com/) or [VETUSWARE](https://vetusware.com/category/Games/?cat=7) - ROMs / Abandonware
+* ⭐ **[My Abandonware](https://www.myabandonware.com/)**, [AbandonwareGames](https://abandonwaregames.net/), [PCGameAbandonware](https://www.pcgamesabandonware.com/) or [VETUSWARE](https://vetusware.com/category/Games/?cat=7) - ROMs / Abandonware
 * ⭐ **[GamesNostalgia](https://gamesnostalgia.com/)** - ROMs / Amiga
 * ⭐ **[DOS Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dos_games)** - DOS Game Sites
 * ⭐ **[Wad Archive](https://archive.org/details/wadarchive)** - 83k WAD Files
@@ -702,7 +702,7 @@
 * [English Sandwhich](https://englishsandwich.github.io/) - Guess Where Dishes are From
 * [FlightGuesser](https://flightguesser.com/) - Flight Path Guessing Game
 * [WTM](https://whatthemovie.com/), [RT Daily](https://www.rottentomatoes.com/daily/), [Framed](https://framed.wtf/) or [Emovi](https://emovi.teuteuf.fr/) - Movie Guessing Games
-* [Heardle](https://www.heardle.app/) or [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - Song Guessing Games
+* [Music Challenge](https://pudding.cool/2020/04/music-challenge/) - Song Guessing Games
 * [DanceMusic](http://dancemusic.wtf/) - Electronic Music Genre Guessing Game
 * [LanguageGuesser](https://languageguesser.com/) - Guess Music Video Languages
 * [Guess My Rank](https://guessmyrank.com/) - Guess Player Game Ranks
@@ -715,7 +715,7 @@
 * [Wikitrivia](https://wikitrivia.tomjwatson.com/) - Guess Which Event Came First
 * [Gearoid Pokemon](https://gearoid.me/pokemon/) - Pokemon Guessing Game
 [Human or Not](https://app.humanornot.ai/) - AI or Human Guessing Game
-* [SusAI](https://susai.io/) or [AI Bingo](https://ai-bingo.lipsumar.io/) - AI Art Guessing Games
+* [AI Bingo](https://ai-bingo.lipsumar.io/) - AI Art Guessing Games
 
 ***
 
@@ -775,7 +775,7 @@
 * [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
 * [SteaScree](https://steascree.download/) - Steam Cloud Screenshot Uploader
 * [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Conformation
-* [Steam Customizer](https://community.steamcustomizer.com/) or [SteamSkins](http://steamskins.org/) - Steam Skins
+* [SteamSkins](http://steamskins.org/) - Steam Skins
 * [SteamDarkMode](https://github.com/SleepDaemon/Modern-Steam) - Steam Dark Mode Skin
 * [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) - Steam GNOME Skin
 * [Backgrounds.Gallery](https://backgrounds.gallery/) - Steam Backgrounds
@@ -1112,7 +1112,7 @@
 * [Optimize Dying Light 2](https://rentry.co/opto-dl2) - DL2 Optimization Mods
 * [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) - Roblox Player Bootstrapper
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - Roblox Studio Bootstrapper
-* [Roblox Performance](https://rentry.co/roblox-player-studio-performance), [he3als](https://blog.he3als.xyz/roblox-optimisation-guide.html) or [Mr. Goose](https://docs.google.com/document/d/1_XH3IMpaCtoKR1U38Zh08kbJr-WwptsxHSza-G7UKGU/) - Roblox Optimization Guides
+* [Roblox Performance](https://rentry.co/roblox-player-studio-performance) or [Mr. Goose](https://docs.google.com/document/d/1_XH3IMpaCtoKR1U38Zh08kbJr-WwptsxHSza-G7UKGU/) - Roblox Optimization Guides
 * [RBXFPSUnlocker](https://github.com/axstin/rbxfpsunlocker) - Unlock Roblox FPS Cap / [Note](https://pastebin.com/rB4BEf5b)
 * [RE4HD](https://www.re4hd.com/) - Resident Evil 4 HD Mod
 * [ChimeraOS](https://chimeraos.org/) - Gaming Focused OS / [Discord](https://discord.gg/fKsUbrt)
@@ -1160,7 +1160,6 @@
 * [LoL Math](https://lolmath.net/) - League of Legends Build Calculator
 * [League of Graphs](https://www.leagueofgraphs.com/) - Champion Rankings
 * [Rewind.lol](https://rewind.lol/) or [LoLEcho](http://lolecho.com/) - League of Legends Match History
-* [Teemo](https://teemo.gg/) - LoL, TeamFight & Wild Rift Models
 * [OP.GG](https://www.op.gg/) - League of Legends Leaderboards / Stats
 * [Porofessor](https://porofessor.gg/) - Live League of Legends Game Stats
 * [Dota2ProTracker](https://www.dota2protracker.com/) or [16-Bits](https://16-bits.org/) - Dota 2 Stats Tracker
@@ -1195,7 +1194,6 @@
 * [GTAAll](https://www.gtaall.com/), [GTAInside](https://gtainside.com/), [GameModding](https://gamemodding.com/), [GTAGarage](https://gtagarage.com/) or [LibertyCity](https://libertycity.net/) - GTA Mods, Cheats, Walkthroughs & more
 * [Rainbomizer](https://rainbomizer.com/) - GTA Randomizer Mods
 * [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - GTAV FidelityFX Super Resolution Mod
-* [Essential Menu](https://github.com/anonik9900/Essential-Menu) - GTAV Mod Menu
 * [GTAV-SimpleGangWar](https://github.com/David-Lor/GTAV-SimpleGangWar) - GTAV Gang War Script
 * [GTA 5 Grand Roleplay](https://gta5grand.com/) - GTAV Roleplay Server
 * [Wanted-Music-IV](https://github.com/ClonkAndre/Wanted-Music-IV) - GTAV Wanted Music in GTAIV
@@ -1221,7 +1219,7 @@
 * [Awesome Minecraft](https://github.com/bs-community/awesome-minecraft) - Minecraft Resource Index
 * [Minecraft Tools](https://minecraft.tools/en/) - Minecraft Tools 
 * [Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods) - Minecraft Mod Collections 
-* [Charm](https://svenhjol.github.io/Charm/), [Essential](https://essential.gg/), [Vanillatweaks](https://www.vanillatweaks.net/) or [Quark](https://quarkmod.net/) - Mincraft Quality of Life Mods
+* [Charm](https://svenhjol.github.io/Charm/), [Essential](https://essential.gg/), [Quark](https://quarkmod.net/) or [Vanillatweaks](https://www.vanillatweaks.net/) - Mincraft Quality of Life Mods
 * [Minecraft QOL Mods](https://rentry.co/mc-qol) or [sk1er.club](https://sk1er.club/) - Minecraft Quality of Life Mod List
 * [MCPEDL](https://mcpedl.com/) - Minecraft PE/Bedrock Mods, Maps & Resources
 * [modsman](https://github.com/sargunv/modsman), [Pax](https://github.com/froehlichA/pax) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
@@ -1284,7 +1282,6 @@
 ## ▷ Terraria Tools
 
 * ⭐ **[Terranion](https://yal.cc/r/terranion/)** - Terraria Wiki
-* ⭐ **[tModLoader](https://www.tmodloader.net/)** - Create / Play Terraria Mods / [64bit](https://github.com/Dradonhunter11/tModLoader64bit), [2](https://steamcommunity.com/sharedfiles/filedetails/?id=2127290869)
 * [TerraLauncher](https://github.com/trigger-segfault/TerraLauncher) - Terraria Launcher
 * [TConvert](https://github.com/trigger-segfault/TConvert) - Terraria Content Manager
 * [N-Terraria](https://forums.terraria.org/index.php?threads/n-terraria-mod-rpg-races-classes-quests-and-other-things.542/) - Terraria Mod
