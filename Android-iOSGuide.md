@@ -253,7 +253,7 @@
 ## ▷ Android Utilities
 
 * ⭐ **[Note Taking / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)** - Note Taking / To-Do Apps
-* ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [microMathematics](https://github.com/mkulesh/microMathematics), [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator), [TapeCalc](https://play.google.com/store/apps/details?id=com.browndwarf.tapecalc) or [Unitto](https://sadellie.github.io/unitto/) - Calculators
+* ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [microMathematics](https://github.com/mkulesh/microMathematics), [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) or [TapeCalc](https://play.google.com/store/apps/details?id=com.browndwarf.tapecalc) - Calculators
 * ⭐ **[AutomaTag](http://automatag.com/)** or [AutoTagger](https://autotagger.ru/) - Metadata Organizers
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - How-to Run Docker on Android
 * [JulioverneHYI](https://julio.hackyouriphone.org/) - Repository for Piracy Tools
@@ -293,7 +293,6 @@
 * [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - Text Font Generator
 * [chatgpt-android](https://github.com/skydoves/chatgpt-android) or [ChatGPT-android-app](https://github.com/matthaigh27/ChatGPT-android-app) - ChatGPT for Android
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [Arna Translate](https://github.com/MahanRahmati/translate), [Instalate](https://gitlab.com/concept1tech/instalate), [TranslateYou](https://github.com/Bnyro/TranslateYou) or [SimplyTranslate](https://github.com/ManeraKai/simplytranslate_mobile) - Translation Apps
-* [Binko](https://www.binko.ai/) - Translation Chat App
 * [VoiceGPT](https://voicegpt.net/) or [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistants
 * [Audio-Recorder](https://gitlab.com/axet/android-audio-recorder/tree/HEAD), [Mic Check](https://play.google.com/store/apps/details?id=com.jlong.miccheck), [android-audio-recorder](https://gitlab.com/axet/android-audio-recorder) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - Audio Recorders
 * [Noiseun Canceller](https://play.google.com/store/apps/details?id=com.jazibkhan.noiseuncanceller) - Audio Surrounding Recorder
@@ -1112,7 +1111,6 @@
 * [ReProvision](https://github.com/Matchstic/ReProvision) - On-device signing utility
 * [HackYouriPhone Repo](https://repo.hackyouriphone.org/) - Jailbreak / Tweaks 
 * [isecureos](https://isecureos.idevicecentral.com/repo/) - Jailbreak Antivirus Tweak
-* [SHSH Host](https://shsh.host/) - Save SHSH blobs to upgrade/downgrade iOS versions 
 * [iOS-OTA-Downgrader](https://github.com/LukeZGD/Legacy-iOS-Kit) - OTA Downgrade iOS
 * [Procursus](https://github.com/ProcursusTeam/Procursus) - OS Bootstrap
 * [BlobSaver](https://github.com/airsquared/blobsaver) - GUI for Saving SHSH Blobs
