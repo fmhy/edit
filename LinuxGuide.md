@@ -307,7 +307,7 @@
 * [Windows-10](https://github.com/B00merang-Project/Windows-10) - Windows 10 Theme
 * [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme), [Moka](https://snwh.org/moka), [Numix](https://github.com/numixproject/numix-icon-theme) or [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Linux Icon Themes
 * [xScreensaver](https://www.jwz.org/xscreensaver/) - Linux Screensavers
-* [HydraPaper](https://hydrapaper.gabmus.org/), [Fondo](https://github.com/calo001/fondo), [styli.sh](https://github.com/thevinter/styli.sh) or [Komorebi](https://github.com/cheesecakeufo/komorebi) - Wallpaper Manager
+* [Fondo](https://github.com/calo001/fondo), [HydraPaper](https://hydrapaper.gabmus.org/), [styli.sh](https://github.com/thevinter/styli.sh) or [Komorebi](https://github.com/cheesecakeufo/komorebi) - Wallpaper Managers
 * [Video Wallpaper](https://github.com/ghostlexly/gpu-video-wallpaper) - Use Videos as Animated Wallpaper
 * [Polychromatic](https://polychromatic.app/) - Linux System Light Control
 * [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - Window Closing Effects
