@@ -328,7 +328,7 @@
 * [Plant Illustrations](http://www.plantillustrations.org/) - Plant Illustrations
 * [Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters) - Movie / TV Covers & Posters
 * [Film.ai](https://beta.flim.ai/) or [Film Grab](https://film-grab.com/) - Movie Screenshots
-* [CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](https://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com), [maxpixel](https://www.maxpixel.net/), [PNGHut](https://pnghut.com/) or [OpenClipart](https://openclipart.org/) - PNG Images / Clipart
+* [CleanPNG](https://www.cleanpng.com/), [PNGWing](https://www.pngwing.com/), [PNGEgg](https://www.pngegg.com/), [AnyRGB](https://www.anyrgb.com/), [HiClipart](https://www.hiclipart.com/), [HDClipArtAll](https://hdclipartall.com/), [pngmart](https://www.pngmart.com/), [pngall](https://www.pngall.com/), [pngplay](https://www.pngplay.com/), [freepngimg](https://www.freepngimg.com/), [KindPNG](https://www.kindpng.com/), [FreePNGLogos](https://www.freepnglogos.com/), [PNGFind](https://www.pngfind.com) or [PNGHut](https://pnghut.com/) - PNG Images / Clipart
 * [Sankaku](https://sankaku.app/), [Anime Pictures](https://anime-pictures.net/) or [ZeroChan](https://zerochan.net/) - Anime Images / Some NSFW / [Chrome](https://github.com/Disrc/SankakuComplexAddon)
 * [Buhitter](https://buhitter.com/) - Twitter Illustration Search
 * [Footyrenders](https://www.footyrenders.com/) - Football Related Images
@@ -339,7 +339,7 @@
 * [AnthonyBoyd](https://www.anthonyboyd.graphics/) - Mockups & Textures
 * [Behance](https://behance.net/) - Design Projects
 * [Placeit](https://placeit.net/) - Image Templates
-* [Worldvectorlogo](https://worldvectorlogo.com/), [PNGGrid](https://pnggrid.com/), [Logos & Badges Bundle](https://github.com/nbats/FMHYedit/blob/main/base64.md#logos--badges-bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [logospire](https://logospire.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [logotouse](https://www.logotouse.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
+* [Worldvectorlogo](https://worldvectorlogo.com/), [Logos & Badges Bundle](https://github.com/nbats/FMHYedit/blob/main/base64.md#logos--badges-bundle), [Brands of the World](https://www.brandsoftheworld.com/), [Logos Download](https://logos-download.com/), [Logodust](https://logodust.com/), [Logowik](https://logowik.com/), [Logo Wine](https://www.logo.wine/), [logospire](https://logospire.com/), [LogoSearch](https://logosear.ch/), [logopond](https://logopond.com/), [logotouse](https://www.logotouse.com/), [logolounge](https://www.logolounge.com/), [logomoose](https://www.logomoose.com/) - Logo Designs
 * [MariaLetta](https://github.com/MariaLetta/mega-doodles-pack) - Free Doodles
 * [Replacement Sky](https://replacement-sky.com/) - Skies for Photoshop
 * [AmbientCG](https://ambientcg.com/), [TextureTown](https://textures.neocities.org/), [Lost and Taken](https://lostandtaken.com/), [3D textures](https://icons8.com/l/3d-textures/), [Textureking](https://www.textureking.com/), [Texture Labs](https://texturelabs.org/), [Transparent Textures](https://www.transparenttextures.com/), [Texture Club](https://www.sketchuptextureclub.com/), [TexturesForFree](https://texturesforfree.com/), [fatstrawberry](https://www.fatstrawberry.co.uk/), [PBR_Textures](https://t.me/PBR_Textures) or [Texture Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#texture-collection) - Download Textures
@@ -414,7 +414,7 @@
 * ⭐ **[Image to Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_to_text)** - Extract Text from Images
 * ⭐ **[Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes)** - Color Scheme / Palette Tools / [Guide](https://i.ibb.co/cCRn3y1/5eb0a8de7dac.jpg)
 * ⭐ **[Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers)** - Extract Color from Pictures / Webpages
-* ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)**, [cbird](https://github.com/scrubbbbs/cbird) or [VisiPics](http://www.visipics.info/) - Duplicate Image Removers
+* ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)** or [cbird](https://github.com/scrubbbbs/cbird) - Duplicate Image Removers
 * [Awesome Colab nNotebooks]( https://github.com/amrzv/awesome-colab-notebooks) - Image Colab Tools
 * [Creator Resources](https://www.newgrounds.com/wiki/creator-resources/) - Art & Animation Resource Index
 * [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
