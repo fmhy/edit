@@ -14,6 +14,7 @@
 ## ▷ Multi Server
 
 * ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / 1080p / [Discord](https://discord.gg/vXsRvye8BS)
+* ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 4K / [Discord](https://discord.gg/BE7kTVezBN)
 * ⭐ **[The Movie Archive](https://themoviearchive.site/)** - Movies / 4K / 1080p 
 * ⭐ **[FMovies](https://fmovies.name/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[Seez](https://seez.su/)**, [2](https://flixerplus.com/) - Movies / TV / 1080p
@@ -49,7 +50,6 @@
 * [MovieFFM](https://www.movieffm.net/) - Movies / TV / 1080p / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Yesmovies.show](https://ww3.yesmovies.show/) - Movies / TV / Anime / 1080p
 * [OnionPlay](https://onionplay.se/) - Movies / TV / 1080p / [Mirrors](https://onionplay.network/)
-* [SusFlix](https://susflix.tv/), [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 720p / [Discord](https://discord.gg/BE7kTVezBN)
 * [HollyMovieHD](https://hollymoviehd.cc/) or [NovaMovie](https://novamovie.net/) - Movies / TV / Anime / 720p
 * [Supernova](https://supernova.to/) - Movies / TV / Anime / 720p
 * [MovieSee](https://moviesee.live/) - Movies / TV / 720p
