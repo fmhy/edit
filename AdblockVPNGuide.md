@@ -213,7 +213,7 @@
 * [Name & Identity Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_name_.26amp.3B_identity_generators) - Generate Fake Names, Identities & Address'
 * [Random User Generator](https://randomuser.me/) - Generate Fake User Details 
 * [FakePhoneNumber](https://fakephonenumber.net/) - Generate Fake Phone Numbers
-* [Tails](https://tails.boum.org/) or [Qubes](https://www.qubes-os.org/) - Privacy-Based Operating Systems
+* [Tails](https://tails.net/) or [Qubes](https://www.qubes-os.org/) - Privacy-Based Operating Systems
 * [Track This]( https://trackthis.link/) - Confuse Personal Advertising by opening 100 tabs 
 * [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography) - Cryptography Resources
 * [Decrypt.Hashhackers](https://decrypt.hashhackers.com/) - Encrypt / Decrypt GDrive
