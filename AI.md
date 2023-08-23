@@ -105,7 +105,7 @@
 * [VizGPT](https://www.vizgpt.ai/) - Chat Data Visualization
 * [DeepSheet](https://deepsheet.dylancastillo.co/) - Data Visualization AI
 * [ChatGPT Notification](https://github.com/Correia-jpv/ChatGPT-Notification) - Receive Notifications
-* [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Autoclear Chats
+* [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) or [ChatGPT Prompt Library](https://chrome.google.com/webstore/detail/chatgpt-prompt-library-te/hkabkcpdocmhidhbgfcpbadafacnekkl) - Autoclear Chats
 * [EditGPT](https://www.editgpt.app/) - Proofread Chats
 * [RepeatGPT](https://repeatgpt.com/) - Schedule Chats
 * [ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Matrix Theme
@@ -189,6 +189,7 @@
 * [PerfectEssayWriter](https://www.perfectessaywriter.ai/) - Essay Writing AI
 * [Textero](https://www.textero.ai/) - Essay Writing AI
 * [EssayBuilder](https://essay-builder.ai/) - Essay Writing AI
+* [EssayService](https://www.essayservice.ai/) - Essay Writing AI
 * [Chat GPTPhantom](https://chatgpt-phantom.vercel.app/) - Article Writing AI
 * [GPT4Chat](https://gpt4chat.net/) or [ChatGPT Writer](https://chatgptwriter.ai/) - Email Reply AI
 * [codex-readme](https://github.com/tom-doerr/codex-readme) - README AI Generator
