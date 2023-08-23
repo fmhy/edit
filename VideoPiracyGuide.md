@@ -78,6 +78,7 @@
 * ⭐ **[C1NE](https://c1ne.co/)** - Movies / TV / 1080p / [Discord](https://discord.gg/nXUP8TxNSR)
 * ⭐ **[Watch A Movie](https://watcha.movie/)** - Movies / TV / 1080p / [Discord](https://discord.gg/PvAg9Rc7kQ)
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
+* ⭐ **[Jump1](https://jump1.net/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/DgZwMjhbu)
 * ⭐ **[2Now](https://2now.tv/)** - Movies / TV / 1080p
 * ⭐ **[FshareTV](https://fsharetv.co/)** - Movies / 1080p
 * ⭐ **[RidoMovies](https://ridomovies.pw/)** - Movies / 1080p
@@ -88,7 +89,6 @@
 * [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime / 1080p
 * [UltraMovies](https://ultramovies.net/) - Movies / TV / 1080p
 * [UniqueStream](https://uniquestream.net/) - Movies / TV / 1080p
-* [Jump1](https://jump1.net/) - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/DgZwMjhbu)
 * [English Movies](https://m.vk.com/english_movies) - Movies / 1080p
 * [Rewatch](https://rewatch.to/) - Movies / TV / 1080p
 * [aflaam](https://aflaam.com/) - Movies / TV / 1080p / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
