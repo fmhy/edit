@@ -102,6 +102,7 @@
 * [DreamForth](https://www.dreamforth.com/) - Dream Interpretations
 * [Delphi](https://delphi.allenai.org/) - Morality Judgement A.I.
 * [ThistoThat](http://www.thistothat.com/) - How to Glue Anything to Anything
+* [Stain Solutions](https://web.extension.illinois.edu/stain/) - Stain Solution Index
 * [My Car Makes Noise](https://mycarmakesnoise.com/) - Diagnose Car Problems via Sounds
 * [CarComplaints](https://www.carcomplaints.com/) - Car Problems, Car Complaints and Repairs
 * [/r/CarHacking](https://www.reddit.com/r/CarHacking/) - Car Hacking Community
