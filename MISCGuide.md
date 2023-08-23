@@ -42,6 +42,7 @@
 * [The Pirate List](https://thepiratelist.com/) - Piracy Index
 * [DuckLink](https://ducklink.pages.dev/) - Piracy Index / [Mirror](https://rentry.org/ducklink)
 * [The Goods](https://discord.gg/zapJ4w3XBN) - Piracy Index
+* [EverythingMoe](https://everythingmoe.com/) - Japanese Piracy Index / [Discord](https://discord.gg/GuueaDgKdS)
 * [Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources) - Japanese Piracy Index
 * [Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding) - Data Hoarding Tools Index
 * [DirtyWarez Tracker](https://dirtywarez.org/cat/tracker), [OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/) / [2](https://opentrackers.org/), [Tracker Tracker](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) or [awesome-piracy](https://github.com/Igglybuff/awesome-piracy#public-trackers) - Torrent Site Indexes
@@ -1008,6 +1009,7 @@
 * ⭐ **[Reddit Favorites](https://redditfavorites.com/)**, [Kit.co](https://kit.co/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product / Service Reviews
 * ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** or **[Didn't Know I Wanted That](https://www.didntknowiwantedthat.com/)** - Find Interesting Things to Buy
 * ⭐ **[Giftasic](https://giftastic.ai/)** - Gift Ideas AI
+* ⭐ **[DarkPatternsTipline](https://darkpatternstipline.org/)** - Deceptive Service Design Tipline
 * [Pepper](https://www.pepper.com/) - Shopping Community
 * [AllArk](https://allark.io/) - Buy Stuff via Crypto
 * [BitRefill](https://www.bitrefill.com/) - Buy Gift Cards via Crypto
@@ -1265,6 +1267,7 @@
 * [Koalas to the Max](http://www.koalastothemax.com/) - Make Smaller & Smaller Dots
 * [Checkboxes](http://www.jezzamon.com/checkboxes/index.html) - Check Boxes
 * [Popcat](https://popcat.click/) - Worldwide Popcat Clicking Competition
+* [Spherical Trochoids](https://claytonmain.github.io/spherical-trochoids/) - Experiment w/ Spherical Trochoids
 * [DrawAurora](https://www.drawaurora.com/) - Draw Auroras
 * [Neonflames](https://29a.ch/sandbox/2011/neonflames/) - Draw Nebulas
 * [Leapy Grid](https://codepen.io/Godje/full/mOzpEY/) - Play with Rainbow Grid
