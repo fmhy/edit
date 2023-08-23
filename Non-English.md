@@ -598,7 +598,7 @@
 
 # ► Indian Languages
 
-* [PCPriceTracker](https://pcpricetracker.in/) - Track PC Component Rupee Prices
+* [PCPriceTracker](https://pcpricetracker.in/) or [UnboxParadigm](https://gaming.unboxparadigm.com/) - Track PC Component Rupee Prices
 * [Indic-Keyboard](https://gitlab.com/indicproject/indic-keyboard) - Indian Language Android Keyboard
 * [Upier](https://upier.vercel.app/) - Create Shareable Link for UPI Payments
 
