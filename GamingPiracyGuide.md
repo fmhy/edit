@@ -578,7 +578,7 @@
 * [Solitaired](https://solitaired.com/) or [Solitr](https://www.solitr.com/) - Solitaire
 * [Free Spider Solitaire](https://freespidersolitaire.io/) - Spider Solitaire
 * [Mah-Jongg](https://www.mah-jongg.ch/) or [Mahjong4Friends](https://mahjong4friends.com/) - Mahjong Games
-* [Blackjack Break](https://blackjackbreak.com/) - Browser Blackjack
+* [Blackjack Break](https://blackjackbreak.com/) or [HTML5 Blackjack](https://www.html5blackjack.net/) - Browser Blackjack
 * [Poker Now](https://www.pokernow.club/), [LiPoker](https://lipoker.io/) or [247 Free Poker](https://www.247freepoker.com/) - Multiplayer Poker
 * [KDice](https://www.kdice.com/) - Multiplayer Dice War
 * [Curlie Yahtzee](https://curlie.org/en/Games/Video_Games/Recreation/Browser_Based/Dice/Yahtzee) - Yahtzee Sites Collection
