@@ -687,6 +687,7 @@ Simulator
 * ⭐ **[Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/)** - Online Learning Collections / Tours
 * ⭐ **[CityHop](https://www.cityhop.cafe/)**, [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [Outside Simulator](https://outsidesimulator.com/), [Japan Walkaround](https://thatguyedd.github.io/), [CityWalks](https://citywalks.live/), [Explordle](https://www.explordle.com/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulators
 * [Gez.la](https://gez.la/) - Virtual Tours Map
+* [Wiki Spaces](https://wiki-spaces.org/) - Virtual Tours
 * [NaturalHistory](https://naturalhistory.si.edu/visit/virtual-tour) - Natural History Museum Virtual Tour
 * [Digital Giza](https://giza.mused.org/) - Great Pyramid Virtual Tours
 * [Persepolis Reimagined](https://persepolis.getty.edu/) - Explore Persepolis Recreation
@@ -998,6 +999,7 @@ Simulator
 * [Location Data](https://locationdata.us/) or [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
 * [If It Were My Home](https://www.ifitweremyhome.com/), [GlobalEdge](https://globaledge.msu.edu/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
+* [WorldPoverty](https://worldpoverty.io/) - World Poverty Data
 * [Unequal Scenes](https://unequalscenes.com/) - Scenes of Inequality Around the World
 * [EverySecond](https://everysecond.io/) - Visualize Per Second Data
 * [Internet Live Stats](https://www.internetlivestats.com/) - Live Internet Statistics
