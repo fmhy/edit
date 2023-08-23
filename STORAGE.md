@@ -1462,6 +1462,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Jellyfin](https://jellyfin.org/)**
 * ⭐ **Jellyfin Tools** - /r/JellyfinShares / [Anime Plugin](https://github.com/jellyfin-archive/jellyfin-plugin-anime) / [Desktop Client](https://github.com/jellyfin/jellyfin-media-player) / [Android](https://github.com/jarnedemeulemeester/findroid) / [Last.fm](https://github.com/jesseward/jellyfin-plugin-lastfm) / [Playlist Export](https://github.com/pyluyten/jellyfin_playlist_exporter) / [Customization Guide](https://youtu.be/F85qMyBeiDI) / [Themes](https://jellyfin.org/docs/general/clients/css-customization.html#community-themes) / [Minimal Skin](https://github.com/prayag17/JellySkin) / [Setup Guide](https://www.fuzzygrim.com/posts/media-server) / [User Requests](https://github.com/Fallenbagel/jellyseerr)
 * ⭐ **[Auto Torrent Tools List](https://redd.it/hbwnb2)**, [Prowlarr](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
+* [Kodi](https://kodi.tv/) - /r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
 * [Organizr](https://github.com/causefx/Organizr) or [Homarr](https://github.com/ajnart/homarr) - Media Server Managers
 * [Emby](https://emby.media/) + [/r/EmbyShare](https://www.reddit.com/r/EmbyShare/)
@@ -1484,7 +1485,6 @@ Add the following commands to a search to manually scrape each site.
 * [MediaPortal](https://www.team-mediaportal.com/)
 * [nano-dlna](https://github.com/gabrielmagno/nano-dlna)
 * [Frames](https://github.com/Eleven-am/frames) - GDrive Server
-* [Kodi](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kodi)
 * [Vigilio](https://vigilio.tugcan.net/) - [GitHub](https://github.com/tugcanolgun/vigilio)
 * [ErsatzTV](https://ersatztv.org/) - Live Channel Media Server
 * [dizqueTV](https://github.com/vexorian/dizquetv) - Live Channel Media Server
