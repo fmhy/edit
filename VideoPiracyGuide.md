@@ -923,7 +923,7 @@
 * [kitsuneko](https://kitsunekko.net/) - Anime Subtitles
 * [DownSub](https://downsub.com/) - Download Subs from Video Sites
 * [Loadtup](https://loadtup.com/) or [Whisper](https://huggingface.co/spaces/BatuhanYilmaz/Whisper-Auto-Subtitled-Video-Generator) - YouTube Video Transcribers
-* [YT Sub Downloader](https://greasyfork.org/en/scripts/5368) - Download Subs from YouTube Videos
+* [YT Sub Downloader](https://greasyfork.org/en/scripts/5368) or [youtube_subtitle_downloader](https://t.me/youtube_subtitle_downloader_bot) - Download Subs from YouTube Videos
 * [amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - Add Subs to Youtube Videos / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi) / [Chrome](https://chrome.google.com/webstore/detail/subtitles-for-youtube/oanhbddbfkjaphdibnebkklpplclomal)
 * [YouTube Subtitle Position](https://addons.mozilla.org/en-US/firefox/addon/youtube-subtitle-position/) - Change Position of YouTube Subtitles
 * [LiveTL](https://kentonishi.github.io/LiveTL/) - YouTube Live Stream
@@ -985,3 +985,4 @@
 * [Awesome ACG](https://github.com/soruly/awesome-acg) - Anime Tool Index 
 * [Anilinks](https://anilinks.neocities.org/) - Anime Related Site Index
 * [Spoiler Protection 2.0](https://spoilerprotection.wecdev.com/) - Keyword / Spoiler Blocker
+* [Sprocket School](https://www.sprocketschool.org/) - Film Exhibition Wiki
