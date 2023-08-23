@@ -261,7 +261,7 @@
 
 * ⭐ **[remove.bg](https://www.remove.bg/)** - [GIMP Plugin](https://github.com/manu12121999/RemoveBG-GIMP)
 
-[Remove BG](https://pixlr.com/remove-background/), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background), [Background Remover](https://icons8.com/bgremover), [Removal.AI](https://removal.ai/upload/), [Trace](https://www.stickermule.com/trace), [BackgroundCut](https://backgroundcut.co/), [Retoucher Online](https://retoucher.online/), [Erase.bg](https://www.erase.bg/en/upload), [FocoClipping](https://www.fococlipping.com/), [Fotor](https://www.fotor.com/features/background-remover), [Clipping Magic](https://clippingmagic.com/), [Bg Eraser](https://bgeraser.com/), [BgSub](https://bgsub.com/), [Background Remover AI](https://backgroundremoverai.com/), [background-removal-js](https://github.com/imgly/background-removal-js)
+[Remove BG](https://pixlr.com/remove-background/), [Rembg](https://github.com/danielgatis/rembg), [Adobe Express Background Remover](https://www.adobe.com/express/feature/image/remove-background), [Background Remover](https://icons8.com/bgremover), [Removal.AI](https://removal.ai/upload/), [Trace](https://www.stickermule.com/trace), [BackgroundCut](https://backgroundcut.co/), [Retoucher Online](https://retoucher.online/), [Erase.bg](https://www.erase.bg/en/upload), [FocoClipping](https://www.fococlipping.com/), [Fotor](https://www.fotor.com/features/background-remover), [Clipping Magic](https://clippingmagic.com/), [Bg Eraser](https://bgeraser.com/), [BgSub](https://bgsub.com/), [Background Remover AI](https://backgroundremoverai.com/), [background-removal-js](https://github.com/imgly/background-removal-js), [bg_remove_ai_bot](https://t.me/bg_remove_ai_bot)
 
 ***
 
@@ -911,7 +911,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 **File Hosts**
 
 * ⭐ **[Recommended Host List](https://rentry.co/File-Hosts)** / [2](https://dirtywarez.org/cat/filehost)
-* ⭐ **[Pixeldrain](https://pixeldrain.com/)**
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - [Speedtest File](https://pixeldrain.com/api/misc/speedtest)
 * ⭐ **[1fichier](https://1fichier.com/)**
 * ⭐ **[mediafire](https://www.mediafire.com/)**
 * ⭐ **[bowfile](https://bowfile.com/)**
@@ -2126,7 +2126,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Reddit Frontends
 
-[Reeddit](https://reedditapp.com/), [Saturnus](https://saturnusapp.com/), [kddit](https://kddit.kalli.st/)
+[Reeddit](https://reedditapp.com/), [Saturnus](https://saturnusapp.com/), [kddit](https://kddit.kalli.st/), [Photon](https://photon-reddit.com/)
 
 ***
 
@@ -2359,6 +2359,7 @@ Add the following commands to a search to manually scrape each site.
 * [IMSLP](https://cn.imslp.org/wiki/Main_Page)
 * [awesome-sheet-music](https://github.com/ad-si/awesome-sheet-music)
 * [Music Reader](https://music-reader.com/) - Practice Reading Sheet Music
+* [SheetHost](https://sheet.host/) - Publish Sheet Music
 * [/r/sheetmusic](https://reddit.com/r/sheetmusic)
 * [8notes](https://www.8notes.com/)
 * [imslp](https://imslp.org/wiki/Main_Page)
