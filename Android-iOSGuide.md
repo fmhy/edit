@@ -113,7 +113,7 @@
 
 ## ▷ TG Channels
 
-* ⭐ **[Modded Central](https://t.me/+yaL8VGyjS0Q0YTll)** / [Backup](https://t.me/moddedcentralbackup)
+* ⭐ **[Modded Central](https://t.me/+MYR2XRdK3_pmZDRl)** / [Backup](https://t.me/moddedcentralbackup)
 * [MixRoot Mods](https://t.me/Mixrootmods), [DroidApks](https://t.me/DroidApks)
 * [ModCombo](https://t.me/modcombo_en)
 * [pcandroidsoftware](https://t.me/pcandroidsoftware/)
