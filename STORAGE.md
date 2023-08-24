@@ -2988,7 +2988,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### uBlock Filters
 
-* ⭐ **[Unsafe / Untrusted  Filter](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw)**
+* ⭐ **[Unsafe / Untrusted Filter](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw)**
 * [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook) (uBO reddit)
 
 **Collections & Suggestions**
@@ -3005,7 +3005,7 @@ Add the following commands to a search to manually scrape each site.
 * [EasyList](https://easylist.to/) / [Fanboy](https://www.fanboy.co.nz/) / [Forum](https://forums.lanik.us/) (already in uBO)
 * [Spam404](https://github.com/Spam404/lists/blob/master/adblock-list.txt)
 * [minoplhy filters](https://github.com/minoplhy/filters) (beta)
-* [URLhaus Malicious URL Blocklist](https://gitlab.com/malware-filter/urlhaus-filter)
+* [URLhaus Malicious URL Blocklist](https://gitlab.com/malware-filter/urlhaus-filter) (already in uBO)
 * [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
 * [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
 
