@@ -3027,15 +3027,6 @@ Add the following commands to a search to manually scrape each site.
 * [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
 * [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
 
-**Other; or not available in adblock format**
-* [Little Snitch](https://github.com/fabston/little-snitch-blocklist)
-* [TheFuckingList](https://github.com/eded333/TheFuckingList) (not updated since 2022)
-* [referrer-spam-list)](https://github.com/matomo-org/referrer-spam-list)
-* [jmdugan/blocklists](https://github.com/jmdugan/blocklists) (not updated since 2021)
-* [notracking](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt) [abandoned](https://github.com/notracking/hosts-blocklists/issues/900)
-* [iBlocklist](https://www.iblocklist.com/)
-* [CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) (low quality; too large for actual use)
-
 ***
 
 #### Udemy Coupons
