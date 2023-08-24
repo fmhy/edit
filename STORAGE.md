@@ -2992,52 +2992,49 @@ Add the following commands to a search to manually scrape each site.
 * :star: [yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)
 * [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)
 
+**Search**
+* [FilterLists.com](https://filterlists.com/)
+
 **Collections & Suggestions**
 * [FilterStalker](https://rentry.co/FilterStalker)
 * [kowith337 PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection)
 * [LetBlock.it](https://letsblock.it/)
 
-**DNS-based**
+**DNS/Host/IP based**
 * :star: [Hagezi DNS Blocklists](https://github.com/hagezi/dns-blocklists)
 * [OISD](https://oisd.nl/)
-* [d3ward](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt)
+* [d3ward](https://github.com/d3ward/toolz)
+* [Anudeep's Blacklist](https://github.com/anudeepND/blacklist)
+* [Lightswitch05's ads-and-tracking-extended (DeveloperDan)](https://www.github.developerdan.com/hosts/)
+* [black-mirror](https://github.com/T145/black-mirror)
+* [durablenapkin's Scam Blocklist](https://github.com/durablenapkin/scamblocklist)
+* [hBlock](https://hblock.molinero.dev/)
+* [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts)
+* [neodevhost](https://github.com/neodevpro/neodevhost)
+* [Piperun's IP-Logger Filter](https://github.com/piperun/iploggerfilter)
+* [Block Outsider Intrusion into LAN](https://github.com/gwarser/filter-lists)
+* [GoodbyeAds](https://jerryn70.github.io/GoodbyeAds/)
 
 **Filters**
-* [DandelionSprout Adlift](https://github.com/DandelionSprout/adfilt)
+* [DandelionSprout Adlift](https://github.com/DandelionSprout/adfilt) | [Clear URLs](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
 * [uBlock-combo](https://github.com/iam-py-test/uBlock-combo)
 * [webannoyances](https://github.com/yourduskquibbles/webannoyances)
 * [The Block List Project](https://blocklistproject.github.io/Lists/)
 * [EasyList](https://easylist.to/) / [Fanboy](https://www.fanboy.co.nz/) / [Forum](https://forums.lanik.us/)
+* [Spam404](https://github.com/Spam404/lists/blob/master/adblock-list.txt)
+* [minoplhy filters](https://github.com/minoplhy/filters) (beta)
+* [URLhaus Malicious URL Blocklist](https://gitlab.com/malware-filter/urlhaus-filter)
+* [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
+* [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
 
-**Search**
-* [FilterLists.com](https://filterlists.com/)
-
-
-
-[notracking](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt)
-
-[urlhaus-filter](https://gitlab.com/malware-filter/urlhaus-filter)
-[iBlocklist](https://www.iblocklist.com/)
-[Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts)
-[lan-block](https://raw.githubusercontent.com/gwarser/filter-lists/master/lan-block.txt)
-[developerdan](https://www.github.developerdan.com/hosts/)
-[durablenapkin's Scam Blocklist](https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt)
-[NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
-[iploggerfilter](https://github.com/piperun/iploggerfilter)
-[Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
-[GoodbyeAds](https://goodbyeads.weebly.com/)
-[neodevhost](https://github.com/neodevpro/neodevhost)
-[jmdugan/blocklists](https://github.com/jmdugan/blocklists)
-[referrer-spam-list)](https://github.com/matomo-org/referrer-spam-list)
-[black-mirror](https://github.com/T145/black-mirror)
-[CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists)
-[hblock](https://hblock.molinero.dev/)
-[Spam404](https://www.spam404.com/)
-[Anudeep's Blacklist](https://github.com/anudeepND/blacklist)
-[Clear URLs](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
-[TheFuckingList](https://github.com/eded333/TheFuckingList)
-[minoplhy filters](https://github.com/minoplhy/filters)
-[Little Snitch](https://github.com/fabston/little-snitch-blocklist) 
+**Other; or not available in adblock format**
+* [Little Snitch](https://github.com/fabston/little-snitch-blocklist)
+* [TheFuckingList](https://github.com/eded333/TheFuckingList) (not updated since 2022)
+* [referrer-spam-list)](https://github.com/matomo-org/referrer-spam-list)
+* [jmdugan/blocklists](https://github.com/jmdugan/blocklists) (not updated since 2021)
+* [notracking](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt) [abandoned](https://github.com/notracking/hosts-blocklists/issues/900)
+* [iBlocklist](https://www.iblocklist.com/)
+* [CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists) (low quality; too large for actual use)
 
 ***
 
