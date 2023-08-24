@@ -3012,7 +3012,6 @@ Add the following commands to a search to manually scrape each site.
 [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts)
 [PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection)
 [fanboy](https://www.fanboy.co.nz/)
-[NoTracking blocklist](https://github.com/notracking/hosts-blocklists)
 [d3ward](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt)
 [notracking](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt)
 [lan-block](https://raw.githubusercontent.com/gwarser/filter-lists/master/lan-block.txt)
