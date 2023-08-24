@@ -875,6 +875,7 @@
 * [MangaFreak](https://w12.mangafreak.net/)
 * [Mangageko](https://www.mangageko.com/)
 * [Mangairo](https://h.mangairo.com/)
+* [VyvyManga](https://vyvymanga.net/)
 * [ReadMng](https://www.readmng.com/) or [MngDoom](https://www.mngdoom.com/)
 * [ReadKomik](https://readkomik.com/) - [Discord](https://discord.gg/bvB7Hk3xWV)
 * [DogManga](https://dogemanga.com/)
@@ -989,6 +990,7 @@
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)**
 * ⭐ **[Just Light Novels](https://www.justlightnovels.com/)**
 * ⭐ **[ThatNovelCorner](https://thatnovelcorner.com/)**
+* [Vynovel](https://vynovel.com/)
 * [Light Novel World](https://www.lightnovelworld.com/), [2](https://www.novelpub.com)
 * [Ranobes](https://ranobes.top/)
 * [Baka-Tsuki](https://www.baka-tsuki.org)
