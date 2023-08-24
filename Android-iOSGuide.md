@@ -915,6 +915,7 @@
 * [Kazahana](https://github.com/yukino-org/kazahana)
 * [Akiyama](https://github.com/Fmaldonado6/Akiyama)
 * [AnimeChicken](https://animechicken.app/)
+* [Miru](https://miru.js.org/en/)
 * [animity](https://github.com/kl3jvi/animity) / [Discord](https://discord.com/invite/eNuX9U57SM)
 * [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) - Anime Download App
 * [MALClient](https://github.com/Drutol/MALClient), [MyAnimeList Client](https://play.google.com/store/apps/details?id=net.myanimelist.app), [Anidex](https://github.com/rajarsheechatterjee/anidex-app), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Otraku](https://play.google.com/store/apps/details?id=com.otraku.app), [Moelist](https://moelist.net/), [AniTrend](https://anitrend.co/) / [GitHub](https://github.com/AniTrend/anitrend-app ) or [AniLib](https://anilib.onrender.com/) - Anime Trackers
@@ -1280,7 +1281,6 @@
 
 * [AnimeNow](https://github.com/AnimeNow-Team/AnimeNow)
 * [NineAnimator](https://nineanimator.marcuszhou.com/) - [Discord](https://discord.gg/dzTVzeW)
-* [AnimeChicken](https://animechicken.app/)
 * [Ketsu](https://ketsu.app/download.html) - [Discord](https://discord.gg/gjcy6MQ)
 * [Tweaked Crunchyroll ++](http://www.iosemulatorspot.com/tweaked-crunchyroll/) - Tweaked Crunchyroll
 * [Katarogu](https://apoorvaaditya.github.io/katarogu/), [MyAnimeList Client](https://apps.apple.com/us/app/myanimelist-official/id1469330778) or [Anidex](https://github.com/rajarsheechatterjee/anidex-app) - MyAnimeList Client
@@ -1310,7 +1310,6 @@
 * [EBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers) - List of eBook Readers
 * [Omnivore](https://omnivore.app/) - Ebook Reader
 * [BookPlayer](https://github.com/TortugaPower/BookPlayer) - Audiobook Player
-* [AnimeChicken](https://animechicken.app/) - Manga Reader
 * [MangaToon](https://apps.apple.com/us/app/mangatoon-manga-reader/id1385287093) - Manga Reader
 * [ZETSU](https://apps.apple.com/us/app/zetsu-by-orion/id1510161371) - Manga Reader
 * [Atsumaru](https://github.com/TheUndo/Atsumaru) - Manga Reader
