@@ -307,6 +307,7 @@
 * [CCams](http://www.ccamc.co/) - Chinese Character Search
 * [CBeta](http://www.cbeta.org/) - Chinese Buddhist Scriptures
 * [21dzk](https://21dzk.l.u-tokyo.ac.jp/SAT/index.html) - Chinese Buddhist Scriptures
+* [Open Literature](http://open-lit.com/html/) - Classic Chinese Novels
 * [Legado](https://github.com/gedoor/legado) - Android Ebook Reader
 * [wenku](https://pypi.org/project/wenku/) - Baidu Wenku Downloader
 * [Trtag](https://trtag.com/) - Movies / TV Encyclopaedia
