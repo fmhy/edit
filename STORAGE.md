@@ -2989,19 +2989,28 @@ Add the following commands to a search to manually scrape each site.
 #### uBlock Filters
 
 * ⭐ **[Unsafe / Untrusted  Filter](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw)**
-* :star: [yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)
-* [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)
-
-**Search**
-* [FilterLists.com](https://filterlists.com/)
+* [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook) (uBO reddit)
 
 **Collections & Suggestions**
+* :star: [**yokoffing's Recommended Filters**](https://github.com/yokoffing/filterlists)
 * [FilterStalker](https://rentry.co/FilterStalker)
 * [kowith337 PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection)
 * [LetBlock.it](https://letsblock.it/)
 
+**Filters**
+* [DandelionSprout adlift](https://github.com/DandelionSprout/adfilt) | [Legitimate URL Shortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt) | [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
+* [uBlock-combo](https://github.com/iam-py-test/uBlock-combo)
+* [webannoyances](https://github.com/yourduskquibbles/webannoyances)
+* [The Block List Project](https://github.com/blocklistproject/Lists#the-block-list-project)
+* [EasyList](https://easylist.to/) / [Fanboy](https://www.fanboy.co.nz/) / [Forum](https://forums.lanik.us/) (already in uBO)
+* [Spam404](https://github.com/Spam404/lists/blob/master/adblock-list.txt)
+* [minoplhy filters](https://github.com/minoplhy/filters) (beta)
+* [URLhaus Malicious URL Blocklist](https://gitlab.com/malware-filter/urlhaus-filter)
+* [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
+* [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
+
 **DNS/Host/IP based**
-* :star: [Hagezi DNS Blocklists](https://github.com/hagezi/dns-blocklists)
+* :star: [**Hagezi DNS Blocklists**](https://github.com/hagezi/dns-blocklists)
 * [OISD](https://oisd.nl/)
 * [d3ward](https://github.com/d3ward/toolz)
 * [Anudeep's Blacklist](https://github.com/anudeepND/blacklist)
@@ -3012,20 +3021,11 @@ Add the following commands to a search to manually scrape each site.
 * [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts)
 * [neodevhost](https://github.com/neodevpro/neodevhost)
 * [Piperun's IP-Logger Filter](https://github.com/piperun/iploggerfilter)
-* [Block Outsider Intrusion into LAN](https://github.com/gwarser/filter-lists)
+* [Block Outsider Intrusion into LAN](https://github.com/gwarser/filter-lists) (already in uBO)
 * [GoodbyeAds](https://jerryn70.github.io/GoodbyeAds/)
 
-**Filters**
-* [DandelionSprout Adlift](https://github.com/DandelionSprout/adfilt) | [Clear URLs](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
-* [uBlock-combo](https://github.com/iam-py-test/uBlock-combo)
-* [webannoyances](https://github.com/yourduskquibbles/webannoyances)
-* [The Block List Project](https://blocklistproject.github.io/Lists/)
-* [EasyList](https://easylist.to/) / [Fanboy](https://www.fanboy.co.nz/) / [Forum](https://forums.lanik.us/)
-* [Spam404](https://github.com/Spam404/lists/blob/master/adblock-list.txt)
-* [minoplhy filters](https://github.com/minoplhy/filters) (beta)
-* [URLhaus Malicious URL Blocklist](https://gitlab.com/malware-filter/urlhaus-filter)
-* [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
-* [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
+**Search**
+* [FilterLists.com](https://filterlists.com/)
 
 ***
 
