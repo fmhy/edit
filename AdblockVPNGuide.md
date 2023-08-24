@@ -257,6 +257,7 @@
 * [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) - Vehicle Security Resources Index
 * [uBeacSec](https://ubeacsec.org/) - Ultrasound Frequency Filter
 * [GoFOSS](https://gofoss.net/) - Why You Should Use FOSS Alternatives
+* [Opsec101](https://opsec101.org/) - Basic Opsec Guide
 
 ***
 
