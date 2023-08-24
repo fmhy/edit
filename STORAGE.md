@@ -2991,14 +2991,13 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Unsafe / Untrusted Filter](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw)**
 * [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook) (uBO reddit)
 
-**Collections & Suggestions**
-* :star: [**yokoffing's Recommended Filters**](https://github.com/yokoffing/filterlists)
+**Suggestions & Guides**
+* ⭐ [**yokoffing's Recommended Filters**](https://github.com/yokoffing/filterlists)
 * [FilterStalker](https://rentry.co/FilterStalker)
-* [kowith337 PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection)
-* [LetBlock.it](https://letsblock.it/)
 
 **Filters**
 * [DandelionSprout adlift](https://github.com/DandelionSprout/adfilt) | [Legitimate URL Shortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt) | [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
+* [LetBlock.it](https://letsblock.it/)
 * [uBlock-combo](https://github.com/iam-py-test/uBlock-combo)
 * [webannoyances](https://github.com/yourduskquibbles/webannoyances)
 * [The Block List Project](https://github.com/blocklistproject/Lists#the-block-list-project)
@@ -3008,9 +3007,10 @@ Add the following commands to a search to manually scrape each site.
 * [URLhaus Malicious URL Blocklist](https://gitlab.com/malware-filter/urlhaus-filter) (already in uBO)
 * [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
 * [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
+* [kowith337 PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection)
 
 **DNS/Host/IP based**
-* :star: [**Hagezi DNS Blocklists**](https://github.com/hagezi/dns-blocklists)
+* ⭐ [**Hagezi DNS Blocklists**](https://github.com/hagezi/dns-blocklists)
 * [OISD](https://oisd.nl/)
 * [d3ward](https://github.com/d3ward/toolz)
 * [Anudeep's Blacklist](https://github.com/anudeepND/blacklist)
