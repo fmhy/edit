@@ -304,6 +304,7 @@
 * [Animeow](https://animeow.me/) - Sub / Dub / 1080p / [Discord](https://discord.gg/FT5MnbcDWz)
 * [AnimeSuge](https://animesuge.to/) - Sub / Dub / 1080p
 * [Playtaku](https://anihdplay.com/) - Sub / Dub / 1080p
+* [AnimeHeaven](https://animeheaven.me/) - Sub / 1080p
 * [AnimeNana](https://animenana.com/) - Sub / 1080p
 * [Anikatsu](https://anikatsu.me/) - Sub / Dub / 1080p / [Dicord](https://discord.com/invite/FrWnWRrZmk)
 * [Anify](https://anify.tv/) - Sub / 1080p
@@ -333,7 +334,7 @@
 * [LMAnime](https://lmanime.com/) - Chinese Anime / Sub / 1080p
 * [MyAnime](https://myanime.live/) - Chine Anime / Sub / 1080p
 * [Crimsonfansubs](https://crimsonfansubs.com/) - Chine Anime / Sub / 1080p / [Discord](https://discord.com/invite/wnK38MjB)
-* [Yuna](https://yuna.moe/) - Anime Streaming App / [GitHub](https://github.com/BeeeQueue/yuna)
+* [Yuna](https://yuna.moe/) or [Miru](https://miru.js.org/en/) - Anime Streaming Apps
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/) / [Intro Skip](https://github.com/lexesjan/typescript-aniskip-extension)
 * [because.moe](https://because.moe/) - Legal Anime Sites Search 
 * [Themes.moe](https://themes.moe/) or [AnimeThemes](https://animethemes.moe/) - Anime Themes
