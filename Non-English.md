@@ -268,7 +268,7 @@
 * [Shuxiangjia](https://www.shuxiangjia.cn/) - Books
 * [52shuku](https://www.52shuku.vip/) - Books / Light-Novels
 * [ttkan](https://www.ttkan.co) - Books / Light-Novels
-* [qqszz](https://www.qqszz.com/) - Books / Light-Novels
+* [qqszz](https://www.qqszz.net/) - Books / Light-Novels
 * [Huangdizhijia](https://www.huangdizhijia.com/index.html) - Books / Light-Novels
 * [118book](https://www.118book.com/) - Books / Light-Novels
 * [ptwxz](https://www.ptwxz.com/) - Books / Light-Novels
