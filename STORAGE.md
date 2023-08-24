@@ -2992,31 +2992,36 @@ Add the following commands to a search to manually scrape each site.
 * :star: [yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)
 * [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)
 
-**Guides**
+**Collections & Suggestions**
 * [FilterStalker](https://rentry.co/FilterStalker)
+* [kowith337 PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection)
+* [LetBlock.it](https://letsblock.it/)
 
 **DNS-based**
 * :star: [Hagezi DNS Blocklists](https://github.com/hagezi/dns-blocklists)
 * [OISD](https://oisd.nl/)
+* [d3ward](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt)
+
+**Filters**
+* [DandelionSprout Adlift](https://github.com/DandelionSprout/adfilt)
 * [uBlock-combo](https://github.com/iam-py-test/uBlock-combo)
+* [webannoyances](https://github.com/yourduskquibbles/webannoyances)
+* [The Block List Project](https://blocklistproject.github.io/Lists/)
+* [EasyList](https://easylist.to/) / [Fanboy](https://www.fanboy.co.nz/) / [Forum](https://forums.lanik.us/)
 
 **Search**
-[FilterLists](https://filterlists.com/)
-[webannoyances](https://github.com/yourduskquibbles/webannoyances)
-[The Block List Project](https://blocklistproject.github.io/Lists/)
-[ADFILT](https://github.com/DandelionSprout/adfilt)
-[EasyList](https://easylist.to/) / [Forum](https://forums.lanik.us/),
+* [FilterLists.com](https://filterlists.com/)
+
+
+
+[notracking](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt)
+
 [urlhaus-filter](https://gitlab.com/malware-filter/urlhaus-filter)
 [iBlocklist](https://www.iblocklist.com/)
-[LetBlock.it](https://letsblock.it/)
 [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts)
-[PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection)
-[fanboy](https://www.fanboy.co.nz/)
-[d3ward](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt)
-[notracking](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt)
 [lan-block](https://raw.githubusercontent.com/gwarser/filter-lists/master/lan-block.txt)
 [developerdan](https://www.github.developerdan.com/hosts/)
-[scamblocklist](https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt)
+[durablenapkin's Scam Blocklist](https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt)
 [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
 [iploggerfilter](https://github.com/piperun/iploggerfilter)
 [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
@@ -3027,8 +3032,8 @@ Add the following commands to a search to manually scrape each site.
 [black-mirror](https://github.com/T145/black-mirror)
 [CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists)
 [hblock](https://hblock.molinero.dev/)
-[spam404](https://www.spam404.com/)
-[blacklist](https://github.com/anudeepND/blacklist)
+[Spam404](https://www.spam404.com/)
+[Anudeep's Blacklist](https://github.com/anudeepND/blacklist)
 [Clear URLs](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
 [TheFuckingList](https://github.com/eded333/TheFuckingList)
 [minoplhy filters](https://github.com/minoplhy/filters)
