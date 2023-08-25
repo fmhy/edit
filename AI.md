@@ -164,6 +164,7 @@
 * [NaNAI.tools] (https://nanai.tools) - AI Directory
 * [Cookup AI](https://cookup.ai/) - AI Directory
 * [SuperTools](https://supertools.therundown.ai/) - AI Directory
+* [GPTE](https://gpte.ai/) - AI Directory
 * [Toolspedia](https://www.toolspedia.io/) - AI Directory
 * [TheCrazyTool](https://www.thecrazytool.com/) - AI Directory
 * [iLib](https://www.ilib.com/) -  AI Directory
