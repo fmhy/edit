@@ -583,7 +583,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### DNS Filters
 
-[1Hosts](https://o0.pages.dev/), [DNS for Family](https://dnsforfamily.com/), [CleanBrowsing](https://cleanbrowsing.org/filters/), [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/), [hBlock](https://github.com/hectorm/hblock), [how to make the internet not suck (as much)](https://someonewhocares.org/hosts/), [MVPS HOSTS](https://winhelp2002.mvps.org/hosts.htm), [Hosts File Aggregator](https://github.com/StevenBlack/hosts), [Spamhaus](https://www.spamhaus.org/), [NxFilter](https://nxfilter.org/), [dns-blocklists](https://github.com/hagezi/dns-blocklists)
+[1Hosts](https://o0.pages.dev/), [DNS for Family](https://dnsforfamily.com/), [CleanBrowsing](https://cleanbrowsing.org/filters/), [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/), [hBlock](https://github.com/hectorm/hblock), [someonewhocares](https://someonewhocares.org/hosts/), [MVPS HOSTS](https://winhelp2002.mvps.org/hosts.htm), [Hosts File Aggregator](https://github.com/StevenBlack/hosts), [Spamhaus](https://www.spamhaus.org/), [NxFilter](https://nxfilter.org/), [dns-blocklists](https://github.com/hagezi/dns-blocklists), [OISD](https://oisd.nl/), [d3ward](https://github.com/d3ward/toolz), [Anudeep's Blacklist](https://github.com/anudeepND/blacklist), [Lightswitch05](https://www.github.developerdan.com/hosts/), [black-mirror](https://github.com/T145/black-mirror), [Scam Blocklist](https://github.com/durablenapkin/scamblocklist), [hBlock](https://hblock.molinero.dev/), [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts), [neodevhost](https://github.com/neodevpro/neodevhost), [Piperun's IP-Logger Filter](https://github.com/piperun/iploggerfilter), [GoodbyeAds](https://jerryn70.github.io/GoodbyeAds/)
 
 ***
 
@@ -2988,44 +2988,21 @@ Add the following commands to a search to manually scrape each site.
 
 #### uBlock Filters
 
+* ⭐ **[yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)**
 * ⭐ **[Unsafe / Untrusted Filter](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw)**
-* [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook) (uBO reddit)
-
-**Suggestions & Guides**
-* ⭐ [**yokoffing's Recommended Filters**](https://github.com/yokoffing/filterlists)
 * [FilterStalker](https://rentry.co/FilterStalker)
-
-**Filters**
-* [DandelionSprout adlift](https://github.com/DandelionSprout/adfilt) | [Legitimate URL Shortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt) | [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
+* [FilterLists.com](https://filterlists.com/) - Search
+* [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)
 * [LetBlock.it](https://letsblock.it/)
 * [uBlock-combo](https://github.com/iam-py-test/uBlock-combo)
 * [webannoyances](https://github.com/yourduskquibbles/webannoyances)
 * [The Block List Project](https://github.com/blocklistproject/Lists#the-block-list-project)
-* [EasyList](https://easylist.to/) / [Fanboy](https://www.fanboy.co.nz/) / [Forum](https://forums.lanik.us/) (already in uBO)
 * [Spam404](https://github.com/Spam404/lists/blob/master/adblock-list.txt)
-* [minoplhy filters](https://github.com/minoplhy/filters) (beta)
-* [URLhaus Malicious URL Blocklist](https://gitlab.com/malware-filter/urlhaus-filter) (already in uBO)
+* [minoplhy filters](https://github.com/minoplhy/filters)
 * [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt)
 * [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs)
-* [kowith337 PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection)
-
-**DNS/Host/IP based**
-* ⭐ [**Hagezi DNS Blocklists**](https://github.com/hagezi/dns-blocklists)
-* [OISD](https://oisd.nl/)
-* [d3ward](https://github.com/d3ward/toolz)
-* [Anudeep's Blacklist](https://github.com/anudeepND/blacklist)
-* [Lightswitch05's ads-and-tracking-extended (DeveloperDan)](https://www.github.developerdan.com/hosts/)
-* [black-mirror](https://github.com/T145/black-mirror)
-* [durablenapkin's Scam Blocklist](https://github.com/durablenapkin/scamblocklist)
-* [hBlock](https://hblock.molinero.dev/)
-* [Additional Undesired Hosts](https://github.com/DRSDavidSoft/additional-hosts)
-* [neodevhost](https://github.com/neodevpro/neodevhost)
-* [Piperun's IP-Logger Filter](https://github.com/piperun/iploggerfilter)
-* [Block Outsider Intrusion into LAN](https://github.com/gwarser/filter-lists) (already in uBO)
-* [GoodbyeAds](https://jerryn70.github.io/GoodbyeAds/)
-
-**Search**
-* [FilterLists.com](https://filterlists.com/)
+* [PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection)
+* [DandelionSprout adlift](https://github.com/DandelionSprout/adfilt) - [URL Shortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt) / [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
 
 ***
 
