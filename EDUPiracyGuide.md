@@ -439,9 +439,10 @@
 * [Physics forums](https://www.physicsforums.com/) - Forum / Physics / Science
 * [Quantum Web Directory](https://qntm2017.github.io/qntm/OV.html) - Science / Tech / Math / Physics
 * [Compare Pendulum](https://www.myphysicslab.com/pendulum/compare-pendulum-en.html) - Pendulum Simulator
-* [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/) or [Sim Flow](https://sim-flow.com/) - Fluid Dynamics Simulators
+* [OpenFoam](https://openfoam.org/), [PC Progress](https://www.pc-progress.com/), [Fluid Simulation WebGL](https://paveldogreat.github.io/WebGL-Fluid-Simulation/), [WebGL Fluid Experiment](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/) or [Sim Flow](https://sim-flow.com/) - Fluid Dynamics Simulators
 * [SimScale](https://www.simscale.com/) or [CFDTool](https://www.cfdtool.com/) - Fluid Dynamics & Heat Transfer
-Simulator
+* [Bouncy Balls](https://bouncyballs.org/) or [Balls Simulation](https://phydemo.app/balls-simulation/) - Ball Physics Simulator
+* [WebGL Water](http://madebyevan.com/webgl-water/) - Water Simulation
 * [LAMMPS](https://www.lammps.org/) - Molecular Dynamics (MD) Code
 * [avogadro](https://sourceforge.net/projects/avogadro/) - Molecular Editor
 * [Simuwaerm](https://github.com/file-acomplaint/simuwaerm) - Heat Simulator
@@ -475,6 +476,7 @@ Simulator
 * [A-Z Animal](https://a-z-animals.com/) - Animal Encyclopedia
 * [Ocearch](https://www.ocearch.org/?list) - Track Marine Life
 * [The Deep Sea](https://neal.fun/deep-sea/) - Interactive Deep Sea Life Guide
+* [TheAquariumWiki](https://www.theaquariumwiki.com/) - Aquarium Wiki
 * [Pattern Radio](https://patternradio.withgoogle.com/) - Listen to Whale Songs
 * [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
 * [BirdSounds](https://experiments.withgoogle.com/ai/bird-sounds/view/) - Thousands of Bird Sounds Visualized
@@ -575,6 +577,7 @@ Simulator
 * [Transit Finder](https://transit-finder.com/) - ISS Transit Finder
 * [SpaceX Media 2015](http://web.archive.org/web/20150328140645/http://www.spacex.com/media) / [2019](http://web.archive.org/web/20191122175115/https://www.spacex.com/media) - SpaceX Media Archive
 * [Leolabs Space](https://platform.leolabs.space/visualization) - Low Earth Orbit Simulator
+* [Gravity Points](https://codepen.io/akm2/full/rHIsa), [Hermann](https://www.hermann.is/gravity/) or [dmilin1](https://dmilin1.github.io/PrincipiaJS/build/index.html) - Gravity Simulators
 * [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/), [SpaceEye](https://spaceeye.app/) or [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
 * [Open Access Hub](https://scihub.copernicus.eu/) - Copernicus Satellite Data Copernicus
 * [Satellite Map](https://satellitemap.space/) - Satellite Orbit Map
