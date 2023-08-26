@@ -204,7 +204,6 @@
 * [Label Buddy](https://github.com/jeromedockes/labelbuddy) - Annotation Tool
 * [Image to Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_to_text) - Extract Text from Images
 * [Lonliness Translate](https://loneliness.one/translate) - Re-translate Phrases
-* [Jamaican Translator](http://www.jamaicantranslator.com/) - Translate Text to Jamaican 
 * [InternetSlangTranslator](https://lingojam.com/InternetSlangTranslator2-0) - Translate Text to Slang
 * [The Pirate Translator](https://pirate.monkeyness.com/translate) - Translate Text to Pirate
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
@@ -1736,8 +1735,9 @@ Twitch Stream Tracker
 * [r/TechSupport](https://www.reddit.com/r/techsupport/) / [Wiki](https://rtech.support/) / [Discord](https://discord.gg/2EDwzWa), [Windows 10 Forums](https://www.windowsphoneinfo.com/), [MSFN](https://msfn.org/board/), [Hardforum](https://hardforum.com/), [VinaFix](https://vinafix.com/), [TechSupportForum](https://www.techsupportforum.com/) or [CatandAndrew](https://www.youtube.com/@CatandAndrew) - Tech Support
 * [GetHuman](https://gethuman.com/) or [ContactFound](https://contactfound.com/) - Tech Support Numbers
 * [Ozone3D](https://www.ozone3d.net/index_softwares.php) - System Benchmarking
+* [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Software Uninstallation Tool
 * [O&O App Buster](https://www.oo-software.com/en/ooappbuster) or [PyDebloatX](https://github.com/Teraskull/PyDebloatX) - Remove Pre-Installed Microsoft Apps
-* [BleachBit](https://www.bleachbit.org/) or [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - Clean System Memory
+* [BleachBit](https://www.bleachbit.org/), [memreduct](https://github.com/henrypp/memreduct) or [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - Clean System Memory
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html), [winfetch](https://github.com/lptstr/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tools
 * [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](https://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - Process Monitor
 * [CoreTemp](https://www.alcpu.com/CoreTemp/) - Processor Temperature Monitor
@@ -1797,6 +1797,7 @@ Twitch Stream Tracker
 * [WinCDEmu](https://wincdemu.sysprogs.org/) - CD/DVD/BD Emulator
 * [Technical Documentation](https://learn.microsoft.com/en-us/docs/) - Microsoft Technical Documentations
 * [x64dbg](https://github.com/x64dbg/x64dbg) - Windows Debugging Tool
+* [ErrorLookup](https://github.com/henrypp/errorlookup) - Error Lookup Tool
 * [UptimeFaker](https://github.com/CookiePLMonster/UptimeFaker) - System Uptime Debugger
 * [JitMagic](https://github.com/mrexodia/JitMagic) - Run Multiple Just-In-Time Debuggers
 * [Awesome Forensics](https://github.com/cugu/awesome-forensics) - System Forensic Tools
