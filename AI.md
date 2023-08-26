@@ -272,7 +272,6 @@
 * [Pollinations](https://pollinations.ai/) - AI Image Generator
 * [Playarti](https://www.playarti.com/) - AI Image Generator
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
-* [PIXYbot](https://t.me/piiixybot) - MidJourney Telegram Bot
 * [Gligen](https://huggingface.co/spaces/gligen/demo) - Open-Set Grounded Text-to-Image Generation
 * [AI Notebooks](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - AI Image Generation Colab
 * [NOP / WAS](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17) - AI Image Generation Colab
