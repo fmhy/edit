@@ -205,6 +205,7 @@
 * [SymbianOS](https://t.me/symbianos) - Symbian OS Discussion
 * [VMOS](https://www.vmos.com/) or [x8sb](https://x8sb.com/) - Android on Android Virtual Machines
 * [EtchDroid](https://etchdroid.depau.eu/) - Write OS Images to USB Drive
+* [Winlator](https://github.com/brunodev85/winlator) - Run Windows Apps
 * [Will My Phone Work?](https://willmyphonework.net/) - Phone Carrier Support Index
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
 * [MobileSpectrum](https://mobilespectrum.org/) - Mobile Network Spectrum by Country
@@ -255,6 +256,7 @@
 * ⭐ **[Note Taking / To-Do](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)** - Note Taking / To-Do Apps
 * ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [microMathematics](https://github.com/mkulesh/microMathematics), [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) or [TapeCalc](https://play.google.com/store/apps/details?id=com.browndwarf.tapecalc) - Calculators
 * ⭐ **[AutomaTag](http://automatag.com/)** or [AutoTagger](https://autotagger.ru/) - Metadata Organizers
+* ⭐ **[BoringReport](https://www.boringreport.org/)**, [Artifact](https://artifact.news/) or [Volv](https://volvmedia.com/) - Android News Apps
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - How-to Run Docker on Android
 * [JulioverneHYI](https://julio.hackyouriphone.org/) - Repository for Piracy Tools
 * [Free Basics](https://play.google.com/store/apps/details?id=com.freebasics) - Use Apps via SMS
@@ -998,6 +1000,7 @@
 * [Tailor](http://www.trytailor.com/) - Automatic Screenshot Stitching
 * [ToonMe](https://toonme.com/) - Turn Photos into Cartoons
 * [Fimo](https://apps.apple.com/us/app/fimo-analog-camera/id1454219307) - Vintage Image Filters
+* [Lightme](https://apps.apple.com/app/id1509033790) - Light Meter
 * [Luma AI](https://lumalabs.ai/) - Capture 3D Images
 * [Alderis](https://github.com/hbang/Alderis) - iOS Color Picker
 * [Universal Control](https://apps.apple.com/us/app/tv-remote-universal-control/id1539090879) - Universal Remote
