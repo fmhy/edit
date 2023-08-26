@@ -227,7 +227,7 @@
 * ⭐ **[Airsonic](https://airsonic.github.io/)** - [Airsonic Advanced](https://github.com/airsonic-advanced/airsonic-advanced) / [Advanced UI](https://github.com/tamland/airsonic-refix)
 * ⭐ **[koel](https://koel.dev/)** - [Docker](https://github.com/0xcaff/docker-koel)
 
-[mStream](https://mstream.io/), [Mopidy](https://mopidy.com/), [Fidbak](https://fidbak.audio/), [Madsonic](https://www.madsonic.org/pages/index.jsp), [Navidrome](https://www.navidrome.org/), [KooZic](https://koozic.net/), [Serviio](https://www.serviio.org/), [Polaris](https://github.com/agersant/polaris), [Echo](https://github.com/anhthii/Echo), [Black Candy](https://github.com/blackcandy-org/black_candy), [Gonic](https://github.com/sentriz/gonic)
+[mStream](https://mstream.io/), [Mopidy](https://mopidy.com/), [Fidbak](https://fidbak.audio/), [Madsonic](https://www.madsonic.org/pages/index.jsp), [Navidrome](https://www.navidrome.org/), [KooZic](https://koozic.net/), [Serviio](https://www.serviio.org/), [Polaris](https://github.com/agersant/polaris), [Echo](https://github.com/anhthii/Echo), [Black Candy](https://github.com/blackcandy-org/black_candy), [Gonic](https://github.com/sentriz/gonic), [SynchronousAudioRouter](https://github.com/eiz/SynchronousAudioRouter)
 
 ***
 
@@ -516,7 +516,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[Mastodon](https://joinmastodon.org/)**
 * ⭐ **[Pleroma](https://pleroma.social/)**
 * ⭐ **[diaspora*](https://diasporafoundation.org/)**, [2](https://diasp.org/)
-* ⭐ **[Fediverse](https://fediverse.party/)**, [sub.rehab](https://sub.rehab/)  or [Fediverse Observer](https://mastodon.fediverse.observer/) - Fediverse Community / Instance Search
+* ⭐ **[Fediverse](https://fediverse.party/)**, [Fediverse.space](https://fediverse.space/), [sub.rehab](https://sub.rehab/)  or [Fediverse Observer](https://mastodon.fediverse.observer/) - Fediverse Community / Instance Search
 * ⭐ **[Fedi Tips](https://fedi.tips/)** - Mastodon / Fediverse Guide
 * ⭐ **[Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse)** - Fediverse Resources
 
@@ -1333,7 +1333,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### LibGen Tools
 
-[Desktop](https://wiki.mhut.org/software:libgen_desktop) / [Mobile](https://github.com/manuelvargastapia/libgen_mobile_app), [2](https://github.com/FunkyMuse/Aurora) / [Search Extension](https://chrome.google.com/webstore/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Python Script](https://github.com/NadalVRoMa/PyLibGen) / [CLI](https://github.com/carterprince/libby) / [Backup](https://redd.it/edwi9b) / [/r/libgen](https://reddit.com/r/libgen)
+[Desktop](https://wiki.mhut.org/software:libgen_desktop) / [Mobile](https://github.com/manuelvargastapia/libgen_mobile_app), [2](https://github.com/FunkyMuse/Aurora) / [Search Extension](https://chrome.google.com/webstore/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Python Script](https://github.com/NadalVRoMa/PyLibGen) / [Telegram Bot](https://t.me/amazingbookdownloaderbot) / [CLI](https://github.com/carterprince/libby) / [Backup](https://redd.it/edwi9b) / [/r/libgen](https://reddit.com/r/libgen)
 
 ***
 
@@ -1457,14 +1457,14 @@ Add the following commands to a search to manually scrape each site.
 #### Media Servers
 
 * ⭐ **[Plex](https://www.plex.tv/)**
-* ⭐ **Plex Tools** - [Guide](https://www.plxplainers.xyz/) / [Shares](https://www.reddit.com/r/plexsharesnew/) / [Plugins](https://normantheidiot.neocities.org/superplex/) / [Plugin Frontend](https://github.com/pannal/Kitana) / [Free Server](https://discord.gg/8Jv792Rs7m) / [Media Sync](https://synclounge.tv/) / [Audio / Sub Changer](https://www.pastatool.com/) / [Mount GDrive](https://github.com/plexdrive/plexdrive), [2](https://docs.ultra.cc/books/rclone/page/rclone-vfs-and-mergerfs-setup) / [Hosters](https://pastebin.com/AUqx5N3X) / [Setup Guide](https://redd.it/ma1hlm), [2](https://hoarding.me/) / [Plex Pass](https://github.com/binhex/arch-plexpass) / [User Requests](https://overseerr.dev/) / [Monitor](https://tautulli.com/) / [Leftist Films](https://www.solidaritycinema.com/) / [Debrid](https://github.com/itsToggle/plex_debrid) / [Docker](https://github.com/linuxserver/docker-plex), [2](https://github.com/plexinc/pms-docker)
+* ⭐ **Plex Tools** - [Guide](https://www.plxplainers.xyz/) / [Plugins](https://normantheidiot.neocities.org/superplex/) / [Plugin Frontend](https://github.com/pannal/Kitana) / [Free Server](https://discord.gg/8Jv792Rs7m) / [Media Sync](https://synclounge.tv/) / [Audio / Sub Changer](https://www.pastatool.com/) / [Mount GDrive](https://github.com/plexdrive/plexdrive), [2](https://docs.ultra.cc/books/rclone/page/rclone-vfs-and-mergerfs-setup) / [Hosters](https://pastebin.com/AUqx5N3X) / [Setup Guide](https://redd.it/ma1hlm), [2](https://hoarding.me/) / [Plex Pass](https://github.com/binhex/arch-plexpass) / [User Requests](https://overseerr.dev/) / [Monitor](https://tautulli.com/) / [Leftist Films](https://www.solidaritycinema.com/) / [Debrid](https://github.com/itsToggle/plex_debrid) / [Docker](https://github.com/linuxserver/docker-plex), [2](https://github.com/plexinc/pms-docker)
 * ⭐ **[Jellyfin](https://jellyfin.org/)**
 * ⭐ **Jellyfin Tools** - /r/JellyfinShares / [Anime Plugin](https://github.com/jellyfin-archive/jellyfin-plugin-anime) / [Desktop Client](https://github.com/jellyfin/jellyfin-media-player) / [Android](https://github.com/jarnedemeulemeester/findroid) / [Last.fm](https://github.com/jesseward/jellyfin-plugin-lastfm) / [Playlist Export](https://github.com/pyluyten/jellyfin_playlist_exporter) / [Customization Guide](https://youtu.be/F85qMyBeiDI) / [Themes](https://jellyfin.org/docs/general/clients/css-customization.html#community-themes) / [Minimal Skin](https://github.com/prayag17/JellySkin) / [Setup Guide](https://www.fuzzygrim.com/posts/media-server) / [User Requests](https://github.com/Fallenbagel/jellyseerr)
 * ⭐ **[Auto Torrent Tools List](https://redd.it/hbwnb2)**, [Prowlarr](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [/r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
 * [Kodi](https://kodi.tv/) - /r/Addons4Kodi / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
 * [Organizr](https://github.com/causefx/Organizr) or [Homarr](https://github.com/ajnart/homarr) - Media Server Managers
-* [Emby](https://emby.media/) + [/r/EmbyShare](https://www.reddit.com/r/EmbyShare/)
+* [Emby](https://emby.media/)
 * [Universal Media Server](https://www.universalmediaserver.com/)
 * [OSMC](https://osmc.tv/)
 * [Olaris](https://gitlab.com/olaris/olaris-server/tree/master)
@@ -1716,7 +1716,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Awesome OSINT](https://github.com/jivoi/awesome-osint)**
 * ⭐ **[AsINT_Collection](https://start.me/p/b5Aow7/asint_collection)**
 
-[OSINT All](https://bin.disroot.org/?4e0f2f4f714641d1#GsU9NwvyyqUFmgLv2f5s6dtBZJYFARzwzdDMDk3tnkSD) / [2](https://start.me/p/0PwOGl/osint-all),  [OSINT Essentials](https://www.osintessentials.com/), [OSINT Collection](https://github.com/Ph055a/OSINT_Collection), [OSINT Sources](https://github.com/imuledx/OSINT_sources), [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools), [geoint](https://start.me/p/W1kDAj/geoint), [OSINT Tools](https://start.me/p/wMdQMQ/tools), [Sector035](https://sector035.nl/), [Nixintel's OSINT](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list), [datajournalism-resources](https://github.com/r3mlab/datajournalism-resources/blob/master/README.md), [UK-OSINT](https://www.uk-osint.net/index.html), [OSINTGeek](https://osintgeek.de/tools), [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT), [Hackers Arise OSINT](https://www.hackers-arise.com/osint), [osint.link](https://osint.link/), [osinttechniques](https://www.osinttechniques.com/osint-tools.html), [Ressources](https://github.com/tzkuat/Ressources/blob/master/OSINT.md), [whatisosint](https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it), [osintdojo](https://www.osintdojo.com/resources/), [300m](https://300m.com/osint/), [einvestigator](https://www.einvestigator.com/open-source-intelligence-tools/), [researchclinic](https://researchclinic.net/), [toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/), [reuser](https://rr.reuser.biz/), [booleanstrings](https://booleanstrings.com/tools/), [coreysdigs](https://www.coreysdigs.com/take-action/must-have-tools-for-digging-videos-podcasts/), [Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/), [cProject Owl](https://discord.gg/projectowl), [RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources), [Quick_OSINT_bot](https://t.me/Quick_OSINT_bot), [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools), [OSINT Collection](https://rentry.co/o89dd), [cipher387](https://github.com/cipher387), [osint4all](https://start.me/p/L1rEYQ/osint4all), [OSINT Tools](https://pastebin.com/CJ9ExTn5), [osint](https://bin.disroot.org/?191675922ac1cbac#Dc6GZQUviM5mfQhoUsYhaBykx9RQAJkDp8yDAe8QqB1m), [asint_collection](https://bin.disroot.org/?5524218c228099ec#G6BxBj17tFtZhhGuYBfSRceFppigZyt8abJtqVceMgcN), [dig intel](https://start.me/p/ZME8nR/osint), [inteltechniques](https://inteltechniques.com/tools/Communities.html), [Social Media ](https://start.me/p/4K0DXg/social-media), [midasearch](https://midasearch.org/), [osint-resources](https://start.me/p/1kAP0b/osint-resources), [Malfrat's Industries Map](https://map.malfrats.industries/), [OSHINT](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
+[OSINT All](https://bin.disroot.org/?4e0f2f4f714641d1#GsU9NwvyyqUFmgLv2f5s6dtBZJYFARzwzdDMDk3tnkSD) / [2](https://start.me/p/0PwOGl/osint-all),  [OSINT Essentials](https://www.osintessentials.com/), [OSINT Collection](https://github.com/Ph055a/OSINT_Collection), [OSINT Sources](https://github.com/imuledx/OSINT_sources), [Investigator Tools](https://start.me/p/gyaOJz/investigator-tools), [geoint](https://start.me/p/W1kDAj/geoint), [OSINT Tools](https://start.me/p/wMdQMQ/tools), [Sector035](https://sector035.nl/), [Nixintel's OSINT](https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list), [datajournalism-resources](https://github.com/r3mlab/datajournalism-resources/blob/master/README.md), [UK-OSINT](https://www.uk-osint.net/index.html), [OSINTGeek](https://osintgeek.de/tools), [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT), [Hackers Arise OSINT](https://www.hackers-arise.com/osint), [osint.link](https://osint.link/), [osinttechniques](https://www.osinttechniques.com/osint-tools.html), [Ressources](https://github.com/tzkuat/Ressources/blob/master/OSINT.md), [whatisosint](https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it), [osintdojo](https://www.osintdojo.com/resources/), [300m](https://300m.com/osint/), [einvestigator](https://www.einvestigator.com/open-source-intelligence-tools/), [researchclinic](https://researchclinic.net/), [toddington](https://www.toddington.com/resources/free-osint-resources-open-source-intelligence-search-tools-research-tools-online-investigation/), [reuser](https://rr.reuser.biz/), [booleanstrings](https://booleanstrings.com/tools/), [coreysdigs](https://www.coreysdigs.com/take-action/must-have-tools-for-digging-videos-podcasts/), [Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/), [cProject Owl](https://discord.gg/projectowl), [RedTeam-Resources](https://github.com/J0hnbX/RedTeam-Resources), [Quick_OSINT_bot](https://t.me/Quick_OSINT_bot), [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools), [OSINT Collection](https://rentry.co/o89dd), [cipher387](https://github.com/cipher387), [osint4all](https://start.me/p/L1rEYQ/osint4all), [OSINT Tools](https://pastebin.com/CJ9ExTn5), [osint](https://bin.disroot.org/?191675922ac1cbac#Dc6GZQUviM5mfQhoUsYhaBykx9RQAJkDp8yDAe8QqB1m), [asint_collection](https://bin.disroot.org/?5524218c228099ec#G6BxBj17tFtZhhGuYBfSRceFppigZyt8abJtqVceMgcN), [dig intel](https://start.me/p/ZME8nR/osint), [inteltechniques](https://inteltechniques.com/tools/Communities.html), [Social Media](https://start.me/p/4K0DXg/social-media), [midasearch](https://midasearch.org/), [osint-resources](https://start.me/p/1kAP0b/osint-resources), [Malfrat's Industries Map](https://map.malfrats.industries/), [OSHINT](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
 
 ***
 
@@ -2403,8 +2403,8 @@ Add the following commands to a search to manually scrape each site.
 * [free-scores](https://www.free-scores.com/free-sheet-music.php)
 * [bandmusicpdf](https://bandmusicpdf.org/)
 * [publicdomainsherpa](http://www.publicdomainsherpa.com/free-sheet-music.html)
-* [JMSheetMusic](https://t.me/JMSheetMusic) (Jewish Music)
-* [VGLeadSheets](https://www.vgleadsheets.com/) (Video Game Music)
+* [JMSheetMusic](https://t.me/JMSheetMusic)
+* [VGLeadSheets](https://www.vgleadsheets.com/ or [GameMusicThemes](https://www.gamemusicthemes.com/) - Video Games
 
 ***
 
@@ -2767,7 +2767,7 @@ Add the following commands to a search to manually scrape each site.
 * [MEGA Uploader X](https://t.me/MegaUploadXbot) or [Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Remote Mega File Upload Bot
 * [OneDrive X](https://t.me/onedrivexbot) - Remote OneDrive File Upload Bot
 * [AIO Uploader](https://t.me/aiouploaderbot), [LinkForFilebot](https://t.me/LinkForFilebot) or [MultiUpload-Bot](https://github.com/oVoIndia/MultiUpload-Bot) - Telegram to File Host Upload Bot
-* [MediaDownBot](https://t.me/mediadownbot) - Social Media Downloader
+* [MediaDownBot](https://t.me/mediadownbot) or [DownloadsMasterBot](https://t.me/DownloadsMasterBot) - Social Media Downloader
 * [ILovePDF](https://github.com/nabilanavab/ilovepdf) - Telegram File to PDF Converter
 * [ConvertVideoTGBot](https://t.me/ConvertVideoTGBot), [FileConvertRobot](https://t.me/FileConvertRobot) or [File2videoconvbot](https://t.me/File2videoconvbot) - Video File Converters
 * [Unzip Bot](https://github.com/EDM115/unzip-bot) - File Extractor / Unzipper
@@ -3074,14 +3074,11 @@ Add the following commands to a search to manually scrape each site.
 
 [Olive](https://www.olivevideoeditor.org/), [VirtualDub2](https://sourceforge.net/projects/vdfiltermod/), [LosslessCut](https://github.com/mifi/lossless-cut), [EZVid](https://www.ezvid.com/), [OpenShot](https://www.openshot.org/), [kdenlive](https://kdenlive.org/en/), [Lightworks](https://lwks.com/), [VSDC](http://www.videosoftdev.com/), [avidemux](https://avidemux.sourceforge.net/)
 
-
-
-
 **Online Editors**
 
 * ⭐ **[Mastershot](https://mastershot.app/)**
 
-[Clideo](https://clideo.com/), [Kapwing](https://www.kapwing.com/), [InVideo](https://invideo.io/), [Panzoid](https://panzoid.com/), [KeepChangeIt](https://keepchangeit.com/), [veed.io](https://www.veed.io/tools/video-editor), [Convert2Video](https://convert2video.com/), [Video Cutter](https://video-cutter-js.com/), [FlexClip](https://www.flexclip.com/), [Vididoo](https://vididoo.vercel.app/), [VideoToolbox](https://www.videotoolbox.com/), [VideoCandy](https://videocandy.com/), [Animoto](https://animoto.com/), [Flixier](https://editor.flixier.com/), [descript](https://www.descript.com/)
+[Clideo](https://clideo.com/), [Kapwing](https://www.kapwing.com/), [InVideo](https://invideo.io/), [Panzoid](https://panzoid.com/), [KeepChangeIt](https://keepchangeit.com/), [veed.io](https://www.veed.io/tools/video-editor), [Convert2Video](https://convert2video.com/), [Video Cutter](https://video-cutter-js.com/), [FlexClip](https://www.flexclip.com/), [Vididoo](https://vididoo.vercel.app/), [VideoToolbox](https://www.videotoolbox.com/), [VideoCandy](https://videocandy.com/), [Animoto](https://animoto.com/), [Flixier](https://editor.flixier.com/), [descript](https://www.descript.com/), [vidmix](https://vidmix.app/)
 
 ***
 
@@ -3319,7 +3316,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Worldwide News Sites Index
 
-[ABYZNews](http://www.abyznewslinks.com/), [AllYouCanRead](https://www.allyoucanread.com/), [W3Newspapers.com](https://www.w3newspapers.com/), [World-Newspapers](https://world-newspapers.com/), [OnlineNewspapers](https://www.onlinenewspapers.com), [4IMN](https://www.4imn.com/)
+[ABYZNews](http://www.abyznewslinks.com/), [AllYouCanRead](https://www.allyoucanread.com/), [W3Newspapers.com](https://www.w3newspapers.com/), [World-Newspapers](https://world-newspapers.com/), [OnlineNewspapers](https://www.onlinenewspapers.com), [4IMN](https://www.4imn.com/), [newspapersglobal](https://www.newspapersglobal.com/)
 
 ***
 
