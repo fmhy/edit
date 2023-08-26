@@ -1592,7 +1592,6 @@
 * [PasateaTorrent](https://pasateatorrent.org/) - Movies / TV
 * [Cinecalidad](https://cinecalidad.one/) - Movies / TV
 * [Tlandia](https://torrentlandia.site/) - Movies
-* [SomosTorrent](https://somostorrent.com/) - Movies / TV / [Telegram](https://t.me/s/pelistorrentoficial)
 * [DiXvA](https://www.dixva.com/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
 * [unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
@@ -1695,7 +1694,6 @@
 * [Manuales de instrucciones](https://www.manualpdf.es/) - Manuals
 * [SciELO Chile](https://scielo.conicyt.cl/) - Scientific Journals
 * [albalearning](https://albalearning.com/) - Audiobooks
-* [Audioteka](https://t.me/+S3ssdd7ny9oyM2M0) - Audiobooks
 * [mangadoor](http://mangadoor.com/) - Manga
 * [TuMangaOnline](https://lectortmo.com/) - Manga
 * [Lector TMO](https://lectortmo.org/) - Manga
