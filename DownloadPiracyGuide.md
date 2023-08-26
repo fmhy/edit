@@ -188,8 +188,6 @@
 * [ZXPInstaller](https://github.com/elements-storage/ZXPInstaller) - Adobe Extension Installer
 * [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator 
 * [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
-* [Update Notifier](http://cleansofts.org/view/update-notifier.html) - Scan Computer for Software Updates 
-* [Revo Uninstaller](https://www.revouninstaller.com/), [Soft Organizer](https://github.com/nbats/FMHYedit/blob/main/base64.md#soft-organizer), [Geek Uninstaller](https://geekuninstaller.com/), [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) or [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Software Uninstallation Tool
 * [Adobe CC](https://github.com/nbats/FMHYedit/blob/main/base64.md#adobe-cc) - Adobe Creative Cloud Piracy Guide
 
 ***
