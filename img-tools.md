@@ -132,6 +132,7 @@
 * [FontSVG](https://fontsvg.com/) - Convert Font, Icon, Glyph to SVG
 * [Mimi](https://mimi-panda.com/) - Create Coloring Pages from Photos
 * [Photovisi](https://www.photovisi.com/) or [PhotoJoiner](https://www.photojoiner.com/) - Collage Generators
+* [Piczel](https://piczel.tv/) - Online Art Gallery
 * [Make Photo Gallery](https://makephotogallery.net/) - Photo Gallery Creator
 * [Text-Image](https://www.text-image.com/) - Text Image Generator
 * [NoiseDeck](https://noisedeck.app/) - Art Generator
