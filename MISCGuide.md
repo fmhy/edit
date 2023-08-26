@@ -150,7 +150,6 @@
 * ⭐ **[TorrentFreak](https://torrentfreak.com/)** / [Telegram](https://t.me/torrentfreaks) - Piracy News
 * ⭐ **[Tech News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tech_news)** - Tech News
 * ⭐ **[Security / Hacking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_security_.2F_hacking_news)** - Security / Hacking News
-* ⭐ **[BoringReport](https://www.boringreport.org/)**, [Artifact](https://artifact.news/) or [Volv](https://play.google.com/store/apps/details?id=com.volvmedia.volvapp) - Android News Apps
 * [Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles) - How to bypass article paywalls
 * [JustRead](https://justread.link/) or [Unclutter](https://unclutter.it/) - Article Viewers
 * [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - Generate Article Summaries
@@ -281,6 +280,7 @@
 * [Recipe Puppy](http://www.recipepuppy.com/about/api/) - Recipe API
 * [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course
 * [Cheese.com](https://cheese.com/) - Cheese Resources
+* [PizzaRecipe](https://www.pizzarecipe.org/) - Pizza Recipes
 * [tacofancy](https://github.com/dansinker/tacofancy) - Taco Recipes
 * [AmazingRibs](https://amazingribs.com/) - Rib Recipes
 * [Bakerella](http://www.bakerella.com/) - Baking Recipes
@@ -1249,11 +1249,7 @@
 * [This Is Sand](https://thisissand.com/) - Make Sand Art
 * [Orb.Farm](https://orb.farm/) - Virtual Aquatic Ecosystem
 * [Generativeplanets](https://zehfernandes.com/generativeplanets/builder) or [Planet](http://oskarstalberg.com/game/planet/planet.html) - Planet Generators
-* [Bouncy Balls](https://bouncyballs.org/) or [Balls Simulation](https://phydemo.app/balls-simulation/) - Ball Physics Simulator
-* [Gravity Points](https://codepen.io/akm2/full/rHIsa) or [dmilin1](https://dmilin1.github.io/PrincipiaJS/build/index.html) - Play with Gravity 
 * [Google Gravity](https://mrdoob.com/projects/chromeexperiments/google-gravity/) - Falling Google
-* [Fluid Simulation WebGL](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) or [WebGL Fluid Experiment](http://haxiomic.github.io/GPU-Fluid-Experiments/html5/) - Fluid Simulation
-* [WebGL Water](http://madebyevan.com/webgl-water/) - Water Simulation
 * [Origami Simulator](https://origamisimulator.org/) - Origami Simulation
 * [Fold & Cut](https://www.onemotion.com/fold-cut-paper/) - Make Digital Paper Snowflakes
 * [Iceberger](https://joshdata.me/iceberger.html) - Draw an Iceberg, See how it Floats
@@ -1321,6 +1317,7 @@
 * [Endless Summer Times](https://times.endlessvmmer.com/) - Retro Summer Vibe News Archive
 * [Roadside America](https://www.roadsideamerica.com/) - Roadside Attraction Index
 * [Roller Coaster Database](https://rcdb.com/) - World Roller Coaster Index
+* [FirstVersions](https://www.firstversions.com/) - Find First Versions of Anything
 * [SaveTheSounds](http://savethesounds.info/) - Museum of Endangered Sounds
 * [Pokémon Fossil Museum](https://my.matterport.com/show/?m=P9WCbyCBGBM) - Explore Pokémon Fossil Museum
 * [Pushing Pixels](https://www.pushing-pixels.org/fui/) or [Saji8k](https://www.saji8k.com/kit-fui/) - Imaginary UI from Movies
