@@ -146,7 +146,7 @@
 * [Mondrian And Me](https://mondrianandme.com/) - Mondrian Art Creator
 * [Periodicity](https://williamhoza.com/periodicity/) - Harmonic Motion Patterns
 * [Cubes.io](https://cubes.io/) - Cellular Automata
-* [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [Valentina](https://gitlab.com/smart-pattern/valentina) or [Haikei](https://app.haikei.app/) - Pattern Generators
+* [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [Valentina](https://gitlab.com/smart-pattern/valentina), [tylify](https://tylify.app/) or [Haikei](https://app.haikei.app/) - Pattern Generators
 * [Hide.Lizz](https://hide.lizz.website/) - Camouflage Pattern Generator
 * [Tabbied](https://tabbied.com/) or [Slopes](https://tinkersynth.com/slopes/) - Art Pattern Generators
 * [05x5](https://csh.bz/line/05x5.html) - Rainbow Pattern Generator
@@ -447,6 +447,7 @@
 * [DeepSort](https://github.com/CorentinB/DeepSort/) or [WiseTagger](https://github.com/0xb8/WiseTagger) - Image Tagger
 * [BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - Booru Image Tagger
 * [Cluttr](https://gitlab.com/bearjaws/cluttr) - Automatically Organize & Tag Photos
+* [DigicamControl](https://digicamcontrol.com/) - Camera Controller
 * [Camera Wiki](http://camera-wiki.org/) - Camera Model Wiki
 * [Canon Camera Museum](https://global.canon/en/c-museum/camera-series.html) - History of Canon Cameras
 * [Something to Draw](https://something-to-draw.com/) - Find Things to Draw
@@ -459,6 +460,7 @@
 * ⭐ **[Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosts)** - Image Hosting Sites
 * ⭐ **[Image Viewers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_viewers)** - Image Viewing Programs
 * ⭐ **[hydrus](https://hydrusnetwork.github.io/hydrus/)** - Booru-Style Media Tagger / [Github](https://github.com/hydrusnetwork/hydrus)
+* [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow
 * [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
 * [FEMBOY](https://github.com/k1rak1ra/FEMBOY) - Anime Image Manager
 * [Pinry](https://docs.getpinry.com/) or [Bookmarkd](https://github.com/ferrufinob/Bookmarkd_Frontend) - Image Tiling / Pinterest Alternatives
