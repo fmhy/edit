@@ -1831,6 +1831,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Personal Link Homepages
 
+* ⭐ **[Linkstack](https://linkstack.org)** / [Linksta.cc](https://linksta.cc) - Self-hosted linktree alternative
 * ⭐ **[Linktree](https://linktr.ee/)**
 
 [Ichi](https://ichi.city), [Bento](https://bento.me/), [Beacon](https://beacons.ai/), [MyURLs](https://myurls.co/), [Carrd](https://carrd.co/), [Bio.link](https://bio.link/), [FlowCode](https://www.flowcode.com/page), [Solo.to](https://solo.to/), [Ayo.so](https://ayo.so/), [CreatorSites](https://creatorsites.net/), [ContactInBio](https://www.contactinbio.com/), [Campsite](https://campsite.bio/), [bizzl.ink](https://bizzl.ink/), [Horizon](https://hrzn.bio/), [LinkFree](https://linkfree.io/), [itsmy.fyi](https://itsmy.fyi/), [dialo](https://dialo.app/), [linkr](https://linkr.com/), [omg.lol](https://home.omg.lol/)
