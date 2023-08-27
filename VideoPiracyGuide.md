@@ -438,7 +438,6 @@
 * [TOTV](http://totv.org/) - TV / Sport
 * [DaddyLive](https://daddylivehd.sx/) - TV / Sport
 * [XUMO](https://www.xumo.tv/channels) - TV
-* [femboys.live](https://femboys.live/) - Sports
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [s365](https://www.s365.live/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
