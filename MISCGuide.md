@@ -17,6 +17,7 @@
 * ⭐ **[Wotaku](https://wotaku.its.moe/)**, [2](https://wotaku.pages.dev/), [3](https://wotaku.netlify.app/) - Japanese Piracy Index
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ⭐ **[Esoterica Avenue](https://ori5000.github.io/)** - Piracy Index / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
+* ⭐ **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.ripped.guide/)
 * ⭐ **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR)** - Site / Tool Index
 * ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
 * ⭐ **[Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)** - Piracy Index
@@ -37,7 +38,6 @@
 * [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/), [HypeStat](https://hypestat.com/alexa-rank), [TopMillion](http://www.topmillion.net/) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
 * [10 Words](https://discover.10words.io/) - App / Tool Discovery
 * [blooem](https://blooem.pages.dev/) / [2](https://blooem.its.moe) or [Pirate Haven](https://pirate-haven.github.io/) - Piracy Guides
-* [Ripped](https://ripped.guide/) - Piracy Index / [Discord](https://discord.ripped.guide/)
 * [pilssken](https://pilssken.neocities.org/warez/) - Piracy Index
 * [The Pirate List](https://thepiratelist.com/) - Piracy Index
 * [DuckLink](https://ducklink.pages.dev/) - Piracy Index / [Mirror](https://rentry.org/ducklink)
