@@ -18,7 +18,7 @@
 * [GBox](https://www.gboxlab.com/) - GMS Google Box
 * [APK Installer](https://play.google.com/store/apps/details?id=com.uptodown.installer&hl=en&gl=US) - APK Installers
 * [Raccoon](https://raccoon.onyxbits.de/) - Private APK Downloader
-* [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - CLI APK Download Tool
+* [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) or [APKeep](https://github.com/EFForg/apkeep) - APK Download CLIs
 * [APK Generator](https://play.google.com/store/apps/details?id=com.aksapps.apkgenerator) or [APK Saver](https://play.google.com/store/apps/details?id=com.sdkdevelopers.apksaver) - Save APK File for Installed Apps
 * [Kanade](https://github.com/alexrintt/kanade), [Apk Extractor](https://play.google.com/store/apps/details?id=com.ext.ui) or [APKExtractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) - APK Extractors
 * [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) - APK Editor
@@ -104,6 +104,7 @@
 * [Cool FOSS](https://albertomosconi.github.io/foss-apps/) / [GitHub](https://github.com/albertomosconi/foss-apps)
 * [Simple Mobile Tools](https://simplemobiletools.com/)
 * [We Love Codeberg](https://welove.codeberg.page/)
+* [OnyxBits](https://onyxbits.de/)
 * [Awesome Android Kotlin Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) - Kotlin App Index
 * [PalmDB](https://palmdb.net/) - Palm OS Apps / [Discord](https://discord.gg/YddKPpR)
 * [OpenRepos](https://openrepos.net/) - Harmattan / Sailfish OS Apps
@@ -266,6 +267,7 @@
 * [Volta](https://github.com/x13a/Volta) - Remap Volume Keys
 * [Folder in Folder](https://play.google.com/store/apps/details?id=com.ss.folderinfolder) - Create Subfolders
 * [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) - Create App Shortcuts
+* [Touch The Notch](https://play.google.com/store/apps/details?id=com.notch.touch) - Use Camera Notch as Button
 * [Shelter](https://gitea.angry.im/PeterCxy/Shelter) or [Insular](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps
 * [Uninstaller](https://play.google.com/store/apps/details?id=com.splendapps.shark) or [Bulk Uninstall](https://play.google.com/store/apps/details?id=com.bulk.uninstall) - App Uninstallers
 * [AppBrain](https://www.appbrain.com/) - Analyze Android App Changes
@@ -377,7 +379,7 @@
 * ⭐ **[AdGuard Premium](https://github.com/nbats/FMHYedit/blob/main/base64.md#adguard-premium)** - Adblocking App
 * ⭐ **[Cromite](https://github.com/uazo/cromite)**, [Bromite](https://github.com/uazo/bromite-buildtools/releases) / [2](https://www.bromite.org/), [jQuarks](https://f-droid.org/packages/com.oF2pks.jquarks/) or [Monument](https://play.google.com/store/apps/details?id=br.marcelo.monumentbrowser) - Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite)
 * ⭐ **uBlock Origin** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Yandex](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) & [Kiwi](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) 
-* ⭐ **[Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)**, [NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid), [MultiApp](https://github.com/WaxMoon/MultiApp) or [WebApps](https://github.com/tobykurien/WebApps/) - App Containers
+* ⭐ **[Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)**, [NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid), [Incognito](https://play.google.com/store/apps/details?id=md.elway.webapp), [MultiApp](https://github.com/WaxMoon/MultiApp) or [WebApps](https://github.com/tobykurien/WebApps/) - Web App Containers
 * [RedReader](https://github.com/QuantumBadger/RedReader) or [Stealth](https://f-droid.org/packages/com.cosmos.unreddit/) / [2](https://gitlab.com/cosmosapps/stealth) - Ad Free Reddit Clients
 * [Blokada](https://blokada.org/) / [v4](https://go.blokada.org/apk4) - Adblocking App
 * [AdAway](https://adaway.org/) - Adblocking App / [GitHub](https://github.com/AdAway/AdAway)
@@ -444,7 +446,7 @@
 * [SimpleLogin](https://github.com/simple-login/Simple-Login-Android) or [Anonaddy](https://gitlab.com/Stjin/anonaddy-android) - Email Forwarding
 * [Temp Email Apps](https://rentry.co/v92q6), [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/), [Temp Mail](https://play.google.com/store/apps/details?id=temporary.disposable.mail), [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957), [Ten Minute Mail](https://play.google.com/store/apps/details?id=com.tenminutemail) or [‎InstAddr](https://play.google.com/store/apps/details?id=air.kukulive.mailnow) - Temp Mail Apps
 * [Maps](https://gitlab.com/divested-mobile/maps) - Privacy Focused Google Maps Wrapper
-* [Fake GPS Location](https://play.google.com/store/apps/details?id=com.evezzon.fakegps), [Android-Mock-Location](https://github.com/warren-bank/Android-Mock-Location) or [GPS JoyStick Guide](http://gpsjoystick.theappninjas.com/faq/) - Fake GPS Location 
+* [Fake GPS Location](https://play.google.com/store/apps/details?id=com.evezzon.fakegps), [Android-Mock-Location](https://github.com/warren-bank/Android-Mock-Location), [FakeGPS](https://play.google.com/store/apps/details?id=com.gsmartstudio.fakegps) or [GPS JoyStick Guide](http://gpsjoystick.theappninjas.com/faq/) - Fake GPS Location 
 * [MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - Track Devices Following You
 * [RadiusLocker](https://www.radiuslocker.co/) - Lock Phone When its not Near You
 * [WPS](https://gitlab.com/nuntius35/wps) - Lock Phone After Multiple Failed Logins
@@ -488,7 +490,7 @@
 
 * ⭐ **[Android Web Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)**
 * ⭐ **[File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)** - Tools to Share / Sync Files
-* ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)** or [Vendetta](https://github.com/vendetta-mod/Vendetta) - Modded Discord Clients / [Rich Presence](https://github.com/dead8309/Kizzy)
+* ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)**, [OpenCord](https://github.com/MateriiApps/OpenCord) or [Vendetta](https://github.com/vendetta-mod/Vendetta) - Modded Discord Clients / [Rich Presence](https://github.com/dead8309/Kizzy)
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://github.com/PhilippC/keepass2android) - Password Managers
 * [PINCredible](https://github.com/cyb3rko/pincredible) - PIN Manager
 * [Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager) - Bookmark Manager
@@ -1120,7 +1122,7 @@
 * [BlobSaver](https://github.com/airsquared/blobsaver) - GUI for Saving SHSH Blobs
 * [TSSChecker](https://github.com/tihmstar/tsschecker) - Check TSS Signing Status
 * [FutureRestore](https://github.com/tihmstar/futurerestore) - Restore to Unsigned Firmware / [GUI](https://github.com/CoocooFroggy/FutureRestore-GUI/)
-* [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/), [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app), [AppTapp Installer](https://apptapp.me/repo) / [Discord](https://discordapp.com/invite/kkwKTB8), [Saily](https://github.com/SailyTeam/Saily), [App Manager](https://muntashirakon.github.io/AppManager/) or [Zebra](https://getzbra.com/) - Package Managers
+* [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/), [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app), [AppTapp Installer](https://apptapp.me/repo) / [Discord](https://discordapp.com/invite/kkwKTB8), [Saily](https://github.com/SailyTeam/Saily), [App Manager](https://muntashirakon.github.io/AppManager/), [AppManager](https://github.com/MuntashirAkon/AppManager) or [Zebra](https://getzbra.com/) - Package Managers
 
 ***
 
