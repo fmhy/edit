@@ -146,7 +146,7 @@
 * [Mondrian And Me](https://mondrianandme.com/) - Mondrian Art Creator
 * [Periodicity](https://williamhoza.com/periodicity/) - Harmonic Motion Patterns
 * [Cubes.io](https://cubes.io/) - Cellular Automata
-* [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [Valentina](https://gitlab.com/smart-pattern/valentina) or [Haikei](https://app.haikei.app/) - Pattern Generators
+* [DoodDad](https://doodad.dev/pattern-generator), [Repeater](https://repeater.space/), [PatternPad](https://patternpad.com/), [patternico](https://patternico.com/), [Repeater](https://www.richardwestenra.com/repeater/), [Valentina](https://gitlab.com/smart-pattern/valentina), [tylify](https://tylify.app/) or [Haikei](https://app.haikei.app/) - Pattern Generators
 * [Hide.Lizz](https://hide.lizz.website/) - Camouflage Pattern Generator
 * [Tabbied](https://tabbied.com/) or [Slopes](https://tinkersynth.com/slopes/) - Art Pattern Generators
 * [05x5](https://csh.bz/line/05x5.html) - Rainbow Pattern Generator
@@ -447,6 +447,7 @@
 * [DeepSort](https://github.com/CorentinB/DeepSort/) or [WiseTagger](https://github.com/0xb8/WiseTagger) - Image Tagger
 * [BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - Booru Image Tagger
 * [Cluttr](https://gitlab.com/bearjaws/cluttr) - Automatically Organize & Tag Photos
+* [DigicamControl](https://digicamcontrol.com/) - Camera Controller
 * [Camera Wiki](http://camera-wiki.org/) - Camera Model Wiki
 * [Canon Camera Museum](https://global.canon/en/c-museum/camera-series.html) - History of Canon Cameras
 * [Something to Draw](https://something-to-draw.com/) - Find Things to Draw
@@ -459,6 +460,7 @@
 * ⭐ **[Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosts)** - Image Hosting Sites
 * ⭐ **[Image Viewers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_viewers)** - Image Viewing Programs
 * ⭐ **[hydrus](https://hydrusnetwork.github.io/hydrus/)** - Booru-Style Media Tagger / [Github](https://github.com/hydrusnetwork/hydrus)
+* [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow
 * [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
 * [FEMBOY](https://github.com/k1rak1ra/FEMBOY) - Anime Image Manager
 * [Pinry](https://docs.getpinry.com/) or [Bookmarkd](https://github.com/ferrufinob/Bookmarkd_Frontend) - Image Tiling / Pinterest Alternatives
@@ -819,6 +821,7 @@
 * [WarezBot](https://github.com/enzobes/WarezBot) - Discord Scene Release Tracker
 * [btcache](https://btcache.me/), [iTorrents](https://itorrents.org) or [Torrage](https://torrage.info/) - Torrent Storage Cache
 * [WebTorrent Checker](https://checker.openwebtorrent.com/) - Check Health of a Torrent
+* [TorrentTags](https://torrenttags.com/) - Check Torrents for Copyright Claims
 * [MagLit](https://maglit.me/) or [mgnet](http://mgnet.me/) - Magnet Link Shorteners
 * [Magnet Link Generator](https://magnetlinkgenerator.com/) - Magnet Link Generator
 * [RSSFeedz](https://t.me/rssfeedz) - Torrent RSS Feed
@@ -2807,7 +2810,7 @@ Filter list for adblockers with sites from this thread.
 * [GBox](https://www.gboxlab.com/) - GMS Google Box
 * [APK Installer](https://play.google.com/store/apps/details?id=com.uptodown.installer&hl=en&gl=US) - APK Installers
 * [Raccoon](https://raccoon.onyxbits.de/) - Private APK Downloader
-* [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - CLI APK Download Tool
+* [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) or [APKeep](https://github.com/EFForg/apkeep) - APK Download CLIs
 * [APK Generator](https://play.google.com/store/apps/details?id=com.aksapps.apkgenerator) or [APK Saver](https://play.google.com/store/apps/details?id=com.sdkdevelopers.apksaver) - Save APK File for Installed Apps
 * [Kanade](https://github.com/alexrintt/kanade), [Apk Extractor](https://play.google.com/store/apps/details?id=com.ext.ui) or [APKExtractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) - APK Extractors
 * [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) - APK Editor
@@ -2893,6 +2896,7 @@ Filter list for adblockers with sites from this thread.
 * [Cool FOSS](https://albertomosconi.github.io/foss-apps/) / [GitHub](https://github.com/albertomosconi/foss-apps)
 * [Simple Mobile Tools](https://simplemobiletools.com/)
 * [We Love Codeberg](https://welove.codeberg.page/)
+* [OnyxBits](https://onyxbits.de/)
 * [Awesome Android Kotlin Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps) - Kotlin App Index
 * [PalmDB](https://palmdb.net/) - Palm OS Apps / [Discord](https://discord.gg/YddKPpR)
 * [OpenRepos](https://openrepos.net/) - Harmattan / Sailfish OS Apps
@@ -3055,6 +3059,7 @@ Filter list for adblockers with sites from this thread.
 * [Volta](https://github.com/x13a/Volta) - Remap Volume Keys
 * [Folder in Folder](https://play.google.com/store/apps/details?id=com.ss.folderinfolder) - Create Subfolders
 * [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) - Create App Shortcuts
+* [Touch The Notch](https://play.google.com/store/apps/details?id=com.notch.touch) - Use Camera Notch as Button
 * [Shelter](https://gitea.angry.im/PeterCxy/Shelter) or [Insular](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps
 * [Uninstaller](https://play.google.com/store/apps/details?id=com.splendapps.shark) or [Bulk Uninstall](https://play.google.com/store/apps/details?id=com.bulk.uninstall) - App Uninstallers
 * [AppBrain](https://www.appbrain.com/) - Analyze Android App Changes
@@ -3166,7 +3171,7 @@ Filter list for adblockers with sites from this thread.
 * ⭐ **[AdGuard Premium](https://github.com/nbats/FMHYedit/blob/main/base64.md#adguard-premium)** - Adblocking App
 * ⭐ **[Cromite](https://github.com/uazo/cromite)**, [Bromite](https://github.com/uazo/bromite-buildtools/releases) / [2](https://www.bromite.org/), [jQuarks](https://f-droid.org/packages/com.oF2pks.jquarks/) or [Monument](https://play.google.com/store/apps/details?id=br.marcelo.monumentbrowser) - Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite)
 * ⭐ **uBlock Origin** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Yandex](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) & [Kiwi](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) 
-* ⭐ **[Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)**, [NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid), [MultiApp](https://github.com/WaxMoon/MultiApp) or [WebApps](https://github.com/tobykurien/WebApps/) - App Containers
+* ⭐ **[Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)**, [NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid), [Incognito](https://play.google.com/store/apps/details?id=md.elway.webapp), [MultiApp](https://github.com/WaxMoon/MultiApp) or [WebApps](https://github.com/tobykurien/WebApps/) - Web App Containers
 * [RedReader](https://github.com/QuantumBadger/RedReader) or [Stealth](https://f-droid.org/packages/com.cosmos.unreddit/) / [2](https://gitlab.com/cosmosapps/stealth) - Ad Free Reddit Clients
 * [Blokada](https://blokada.org/) / [v4](https://go.blokada.org/apk4) - Adblocking App
 * [AdAway](https://adaway.org/) - Adblocking App / [GitHub](https://github.com/AdAway/AdAway)
@@ -3233,7 +3238,7 @@ Filter list for adblockers with sites from this thread.
 * [SimpleLogin](https://github.com/simple-login/Simple-Login-Android) or [Anonaddy](https://gitlab.com/Stjin/anonaddy-android) - Email Forwarding
 * [Temp Email Apps](https://rentry.co/v92q6), [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/), [Temp Mail](https://play.google.com/store/apps/details?id=temporary.disposable.mail), [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957), [Ten Minute Mail](https://play.google.com/store/apps/details?id=com.tenminutemail) or [‎InstAddr](https://play.google.com/store/apps/details?id=air.kukulive.mailnow) - Temp Mail Apps
 * [Maps](https://gitlab.com/divested-mobile/maps) - Privacy Focused Google Maps Wrapper
-* [Fake GPS Location](https://play.google.com/store/apps/details?id=com.evezzon.fakegps), [Android-Mock-Location](https://github.com/warren-bank/Android-Mock-Location) or [GPS JoyStick Guide](http://gpsjoystick.theappninjas.com/faq/) - Fake GPS Location 
+* [Fake GPS Location](https://play.google.com/store/apps/details?id=com.evezzon.fakegps), [Android-Mock-Location](https://github.com/warren-bank/Android-Mock-Location), [FakeGPS](https://play.google.com/store/apps/details?id=com.gsmartstudio.fakegps) or [GPS JoyStick Guide](http://gpsjoystick.theappninjas.com/faq/) - Fake GPS Location 
 * [MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - Track Devices Following You
 * [RadiusLocker](https://www.radiuslocker.co/) - Lock Phone When its not Near You
 * [WPS](https://gitlab.com/nuntius35/wps) - Lock Phone After Multiple Failed Logins
@@ -3277,7 +3282,7 @@ Filter list for adblockers with sites from this thread.
 
 * ⭐ **[Android Web Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)**
 * ⭐ **[File Sharing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_sharing_tools)** - Tools to Share / Sync Files
-* ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)** or [Vendetta](https://github.com/vendetta-mod/Vendetta) - Modded Discord Clients / [Rich Presence](https://github.com/dead8309/Kizzy)
+* ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)**, [OpenCord](https://github.com/MateriiApps/OpenCord) or [Vendetta](https://github.com/vendetta-mod/Vendetta) - Modded Discord Clients / [Rich Presence](https://github.com/dead8309/Kizzy)
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://github.com/PhilippC/keepass2android) - Password Managers
 * [PINCredible](https://github.com/cyb3rko/pincredible) - PIN Manager
 * [Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager) - Bookmark Manager
@@ -3909,7 +3914,7 @@ Filter list for adblockers with sites from this thread.
 * [BlobSaver](https://github.com/airsquared/blobsaver) - GUI for Saving SHSH Blobs
 * [TSSChecker](https://github.com/tihmstar/tsschecker) - Check TSS Signing Status
 * [FutureRestore](https://github.com/tihmstar/futurerestore) - Restore to Unsigned Firmware / [GUI](https://github.com/CoocooFroggy/FutureRestore-GUI/)
-* [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/), [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app), [AppTapp Installer](https://apptapp.me/repo) / [Discord](https://discordapp.com/invite/kkwKTB8), [Saily](https://github.com/SailyTeam/Saily), [App Manager](https://muntashirakon.github.io/AppManager/) or [Zebra](https://getzbra.com/) - Package Managers
+* [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/), [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app), [AppTapp Installer](https://apptapp.me/repo) / [Discord](https://discordapp.com/invite/kkwKTB8), [Saily](https://github.com/SailyTeam/Saily), [App Manager](https://muntashirakon.github.io/AppManager/), [AppManager](https://github.com/MuntashirAkon/AppManager) or [Zebra](https://getzbra.com/) - Package Managers
 
 ***
 
@@ -6424,7 +6429,7 @@ Filter list for adblockers with sites from this thread.
 # ► File Leeches
 
 * ⭐ **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)** or [leechlisting](https://www.leechlisting.com/) - Leech Lists
-* [@Transload](https://t.me/transload) or [@deltaleechbot](https://t.me/deltaleechbot) - Telegram Leech Bots
+* [@Transload](https://t.me/transload) - Telegram Leech Bots
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Send Premium Files to Leeches
 * [RapidGrab](https://rapidgrab.pl/) - Leech
 * [Newscon](https://www.newscon.net/d1/) - Leech
@@ -6856,7 +6861,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Color Palette Generators
 
-[Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/), [ColorSpace](https://mycolor.space/), [Material Palette](https://www.materialpalette.com/), [Adobe Color](https://color.adobe.com/), [0to255](https://0to255.com/), [Bootflat](https://bootflat.github.io/color-picker.html), [BrandColors](https://brandcolors.net/), [colorful gradients](https://colorfulgradients.tumblr.com/), [COLOURlovers](https://www.colourlovers.com/), [CoolHue](https://webkul.github.io/coolhue/), [Flat UI Colors 2](https://flatuicolors.com/), [Material UI](https://materialui.co/colors/), [Color Hunt](https://colorhunt.co/), [ColorsWall](https://colorswall.com/), [Pigment](https://pigment.shapefactory.co/), [Image to Color Palette Generator](http://www.patorjk.com/color-palette-generator/), [ColourCode](https://www.toptal.com/designers/colourcode/), [Colorscales](http://www.colorscales.com/), [colors.lol](https://colors.lol/), [Color Palette Generator](https://www.degraeve.com/color-palette), [ColorBox](https://colorbox.io/), [Eva Design System](https://colors.eva.design/), [Scale](https://hihayk.github.io/scale/), [calcolor.co](https://calcolor.co/), [Color Lisa](https://colorlisa.com/), [Cohesive Colors](https://javier.xyz/cohesive-colors/), [Color Leap](https://colorleap.app/), [ColorHuddle](https://colorhuddle.co/), [Coolors](https://coolors.co/), [UI Colors](https://uicolors.app/create), [Randoma11y](https://randoma11y.com/), [Pywal](https://github.com/dylanaraps/pywal), [ColorKit](https://colorkit.co/color-palette-generator/), [Color Picker](https://colorsupplyyy.com/app), [Huemint](https://huemint.com/), [accessiblepalette](https://accessiblepalette.com/), [colorcolor](https://colorcolor.in/)
+[Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/), [ColorSpace](https://mycolor.space/), [Material Palette](https://www.materialpalette.com/), [Adobe Color](https://color.adobe.com/), [0to255](https://0to255.com/), [Bootflat](https://bootflat.github.io/color-picker.html), [BrandColors](https://brandcolors.net/), [colorful gradients](https://colorfulgradients.tumblr.com/), [COLOURlovers](https://www.colourlovers.com/), [CoolHue](https://webkul.github.io/coolhue/), [Flat UI Colors 2](https://flatuicolors.com/), [Material UI](https://materialui.co/colors/), [Color Hunt](https://colorhunt.co/), [ColorsWall](https://colorswall.com/), [Pigment](https://pigment.shapefactory.co/), [Image to Color Palette Generator](http://www.patorjk.com/color-palette-generator/), [ColourCode](https://www.toptal.com/designers/colourcode/), [Colorscales](http://www.colorscales.com/), [colors.lol](https://colors.lol/), [Color Palette Generator](https://www.degraeve.com/color-palette), [ColorBox](https://colorbox.io/), [Eva Design System](https://colors.eva.design/), [Scale](https://hihayk.github.io/scale/), [calcolor.co](https://calcolor.co/), [Color Lisa](https://colorlisa.com/), [Cohesive Colors](https://javier.xyz/cohesive-colors/), [Color Leap](https://colorleap.app/), [ColorHuddle](https://colorhuddle.co/), [Coolors](https://coolors.co/), [UI Colors](https://uicolors.app/create), [Randoma11y](https://randoma11y.com/), [Pywal](https://github.com/dylanaraps/pywal), [ColorKit](https://colorkit.co/color-palette-generator/), [Color Picker](https://colorsupplyyy.com/app), [Huemint](https://huemint.com/), [accessiblepalette](https://accessiblepalette.com/), [colorcolor](https://colorcolor.in/), [copypalette](https://copypalette.app/), [couleur.io](https://couleur.io/)
 
 ***
 
@@ -7379,7 +7384,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[SyncThing](https://github.com/Catfriend1/syncthing-android)**
 * ⭐ **[Snapdrop Android](https://github.com/fm-sys/snapdrop-android)**
 
-[dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) / [croc](https://github.com/howeyc/crocgui), [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard), [xShare](https://github.com/tsudoko/xshare), [InShare](https://play.google.com/store/apps/details?id=sharefiles.sharemusic.shareapps.filetransfer), [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc), [syncopoli](https://gitlab.com/fengshaun/syncopoli), [ShareX](https://github.com/akanshSirohi/ShareX)
+[dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) / [croc](https://github.com/howeyc/crocgui), [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard), [xShare](https://github.com/tsudoko/xshare), [InShare](https://play.google.com/store/apps/details?id=sharefiles.sharemusic.shareapps.filetransfer), [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc), [syncopoli](https://gitlab.com/fengshaun/syncopoli), [ShareX](https://github.com/akanshSirohi/ShareX), [Save n Device](https://github.com/lmj0011/save-on-device)
 
 ***
 
@@ -8191,7 +8196,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **WinGet Tools** - [Tools](https://github.com/jdhitsolutions/WingetTools) / [Winget UI](https://github.com/marticliment/WingetUI) / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Automation](https://github.com/topgrade-rs/topgrade) / [Pac-Man](https://github.com/rami3l/pacaptr)
 * [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI)
 
-[CouleursToolbox](https://github.com/couleurm/couleurstoolbox), [Patch My PC](https://patchmypc.com/home-updater), [WinInstall](https://winstall.app/), [Scoop The Installer](https://github.com/couleur-tweak-tips/the-installer), [RuckZuck](https://ruckzuck.tools/), [0Install](https://0install.net/), [portableapps](https://portableapps.com/download) 
+[CouleursToolbox](https://github.com/couleurm/couleurstoolbox), [Patch My PC](https://patchmypc.com/home-updater), [WinInstall](https://winstall.app/), [Scoop The Installer](https://github.com/couleur-tweak-tips/the-installer), [RuckZuck](https://ruckzuck.tools/), [0Install](https://0install.net/), [portableapps](https://portableapps.com/download), [Baulk](https://github.com/baulk/baulk) 
 
 ***
 
@@ -9631,9 +9636,10 @@ Add the following commands to a search to manually scrape each site.
 * [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) - Auto Switch Light / Dark Mode Wallpapers
 * [Dynamic Wallpaper](https://play.google.com/store/apps/details?id=rk.android.app.dynamic.wallpaper) - Wallpapers that Change Based on Battery
 * [koncius](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Android Video to Wallpaper
+* [WallClaimer](https://www.wallclaimer.com/) - Snag Friends Wallpapers
 * [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - iOS Wallpaper App
 
-[Wallpaper Engine](https://www.wallpaperengine.io/android/en), [wallhaven](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait), [wallpaperfusion](https://www.wallpaperfusion.com/Apps/), [wallpaperaccess](https://wallpaperaccess.com/cat/devices), [wallpapers.com](https://wallpapers.com/mobile), [wallpapersafari](https://wallpapersafari.com/), [wallpapercave](https://wallpapercave.com/categories/devices), [positrondream](https://www.positrondream.com/wallpapers-all), [simpledesktops](http://simpledesktops.com/app/android/), [wallpapertip](https://www.wallpapertip.com/), [wallpaperflare](https://www.wallpaperflare.com/search?wallpaper=vertical), [hdqwalls](https://hdqwalls.com/), [wallpapersden](https://wallpapersden.com/), [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) / [2](https://photos.google.com/share/AF1QipNi8VN2pw2Ya_xCV8eFgzEZmiXDy1-GwhXbqFtvXoH3HypF10as9puV8FdoVZpOZA?key=WkZjQTIxQTM5a01oZkNUYTE2ZllKTVJKZk1CMTR3), [VectorifyDaHome](https://github.com/enricocid/VectorifyDaHome), [backiee](https://backiee.com/), [Wallpapers_Phone_Mobile](https://t.me/Wallpapers_Phone_Mobile/), [iphone11papers](https://iphone11papers.com/), [Wallpapers Clan](https://wallpapers-clan.com/), [Wallme](https://github.com/Alaory/WallMe-Wallpaper), [WallYou](https://github.com/Bnyro/WallYou), [Mobcup](https://mobcup.net/), [Absolutely Walls](https://photos.app.goo.gl/CxHuPTVjmPUSu2sUA), [/r/iWallpaper](https://www.reddit.com/r/iWallpaper/), [WalliApp](https://www.walliapp.com/), [/r/Verticalwallpapers](https://www.reddit.com/r/Verticalwallpapers/), [/r/MobileWallpaper](https://www.reddit.com/r/MobileWallpaper/), [Zedge](https://www.zedge.net/)
+[Wallpaper Engine](https://www.wallpaperengine.io/android/en), [wallhaven](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait), [wallpaperfusion](https://www.wallpaperfusion.com/Apps/), [wallpaperaccess](https://wallpaperaccess.com/cat/devices), [wallpapers.com](https://wallpapers.com/mobile), [wallpapersafari](https://wallpapersafari.com/), [wallpapercave](https://wallpapercave.com/categories/devices), [positrondream](https://www.positrondream.com/wallpapers-all), [simpledesktops](http://simpledesktops.com/app/android/), [wallpapertip](https://www.wallpapertip.com/), [wallpaperflare](https://www.wallpaperflare.com/search?wallpaper=vertical), [hdqwalls](https://hdqwalls.com/), [wallpapersden](https://wallpapersden.com/), [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) / [2](https://photos.google.com/share/AF1QipNi8VN2pw2Ya_xCV8eFgzEZmiXDy1-GwhXbqFtvXoH3HypF10as9puV8FdoVZpOZA?key=WkZjQTIxQTM5a01oZkNUYTE2ZllKTVJKZk1CMTR3), [VectorifyDaHome](https://github.com/enricocid/VectorifyDaHome), [backiee](https://backiee.com/), [Wallpapers_Phone_Mobile](https://t.me/Wallpapers_Phone_Mobile/), [iphone11papers](https://iphone11papers.com/), [Wallpapers Clan](https://wallpapers-clan.com/), [Wallme](https://github.com/Alaory/WallMe-Wallpaper), [WallYou](https://github.com/Bnyro/WallYou), [Mobcup](https://mobcup.net/), [Absolutely Walls](https://photos.app.goo.gl/CxHuPTVjmPUSu2sUA), [/r/iWallpaper](https://www.reddit.com/r/iWallpaper/), [WalliApp](https://www.walliapp.com/), [/r/Verticalwallpapers](https://www.reddit.com/r/Verticalwallpapers/), [/r/MobileWallpaper](https://www.reddit.com/r/MobileWallpaper/), [Zedge](https://www.zedge.net/, [Wallman](https://apt.izzysoft.de/fdroid/index/apk/com.colorata.wallman)
 
 ***
 
@@ -10048,6 +10054,7 @@ Add the following commands to a search to manually scrape each site.
 * [typ3r](https://typ3r.aavi.me/) - tRaNSlAtE tEXT lik3 THiS
 * [Gematrinator](https://gematrinator.com/calculator) or [Gematrix](https://www.gematrix.org/) - Gematria Calculators
 * [SoftMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
+* [FixSpell](https://www.fixspell.com/) - Convert US Spellings to International English
 * [Delim](https://delim.co/) - Comma Separating Tool
 * [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - Create Parallel Text Web
 * [TextRepeater](https://textrepeater.com/) - Repeat Text
@@ -10145,7 +10152,7 @@ Add the following commands to a search to manually scrape each site.
 * [How-to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/)
 * [How to Rip Videos from Disney+](https://redd.it/ncyxzx), [2](https://web.archive.org/web/20210516014412/https://old.reddit.com/r/Piracy/comments/ncyxzx/tutorial_how_to_rip_moviesshows_from_disney_plus/)
 * [Chat-Downloader](https://github.com/xenova/chat-downloader) - Retrieve Chat Messages from Livestreams
-* [PlayPhrase](https://playphrase.me/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/), [2](https://getyarn.io/) - Clip Quote Search Engine
+* [PlayPhrase](https://playphrase.me/), [ClipBase](https://clipbase.xyz/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/), [2](https://getyarn.io/) - Clip Quote Search Engine
 * [VideoProc](https://www.videoproc.com/) - Video Processing Software
 * [DJV](https://darbyjohnston.github.io/DJV/) - Professional Video Review Player
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - SWF to Video Converter
@@ -10314,6 +10321,7 @@ Add the following commands to a search to manually scrape each site.
 * [/r/findthepreset](https://www.reddit.com/r/findthepreset) - Find Presets from Songs
 * [MilkyTracker](https://milkytracker.org/) - .MOD & .XM Module Creator
 * [/r/samplesforall](https://www.reddit.com/r/samplesforall/), [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [RKHive](https://rkhive.com/), [Sounds MP3](https://allsoundsaround.com/) or [SamplesTorrent](https://samplestorrent.com/) - Audio Samples
+* [AudioStellar](https://audiostellar.xyz/) - AI Powered Audio Sampling
 * [AirWindows](https://www.airwindows.com/) - Reverbs / Equalizers / Plugins
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - Learn How to Play Music
 * [Jukebox](https://jukebox.today/) - Music Sync / Listening Parties
@@ -10880,7 +10888,7 @@ Add the following commands to a search to manually scrape each site.
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - DuckDuckGo !bang Meta Serarch / [GitHub](https://github.com/MoserMichael/duckduckbang)
 * [Jumps](https://jumps.io/) or [Yubnub](https://yubnub.org/) - Site Quick Search
 * [Soovle](https://soovle.com/), [Keyword.io](https://www.keyword.io/), [SearchEngineReports](https://searchenginereports.net/), [ContentIdeas](https://contentideas.io/) or [Keyword Tool](https://keywordtool.io/) - Popular Keyword Search
-* [KeywordSheeter](https://keywordsheeter.com/) - Keyword Research Tool
+* [KeywordSheeter](https://keywordsheeter.com/) or [Spyfu](https://www.spyfu.com/) - Keyword Research Tools
 * [Esteroids](https://esteroids.eth.limo/#) - Decentralized Web Search Engine
 * [Social-Searcher](https://www.social-searcher.com/), [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap), [Social Media CSE](https://cse.google.com/cse?cx=73dda67fd05b4405f#gsc.tab=1&gsc.sort=) or [Social Mention](https://www.socialmention.com/) - Social Media Search Engine  
 * [BoardReader](https://boardreader.com/), [CrowdView](https://crowdview.ai/) or [FindAForum](https://www.findaforum.net/Home/Search/) - Forum Search Engine 
@@ -11422,7 +11430,7 @@ Add the following commands to a search to manually scrape each site.
 * [Twitchls](https://twitchls.com/) - HTML5 Twitch Stream Player
 * [Alternate Player for Twitch.tv](https://pastebin.com/Z7NWxSfA) - Alt Twitch Player
 * [Orion](https://alamminsalo.github.io/orion/), [Twitch App](https://gitlab.com/twitch-application/application) or [Tress](https://gitlab.com/Ignamarte/tress) - Twitch Desktop Clients
-* [Twitch Replay](https://www.twitch-replay.com/), [Multi](https://multi.raredrop.co/), [Twitchmultivod](![Uploading image.png…]()), [MultiStre.am](https://multistre.am/), [TwitchTheater](https://twitchtheater.tv/) or [MultiTwitch](https://www.multitwitch.tv/) - Sync Twitch Videos
+* [Twitch Replay](https://www.twitch-replay.com/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/), [TwitchTheater](https://twitchtheater.tv/) or [MultiTwitch](https://www.multitwitch.tv/) - Sync Twitch Videos
 * [Twitch DVR](https://github.com/caeleel/twitch-dvr) - Enable DVR on Twitch
 * [Twitch Now](https://addons.mozilla.org/en-US/firefox/addon/twitch-now_/) or [Gumbo](https://github.com/seldszar/gumbo) - 
 Twitch Stream Tracker
@@ -13268,12 +13276,12 @@ pass: paluch
 * ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/BE7kTVezBN)
 * ⭐ **[The Movie Archive](https://themoviearchive.site/)** - Movies / 4K / 1080p 
 * ⭐ **[FMovies](https://fmovies.name/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
-* ⭐ **[Seez](https://seez.su/)**, [2](https://flixerplus.com/) - Movies / TV / 1080p
-* ⭐ **[SmashyStream](https://embed.smashystream.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
 * ⭐ **[FlixHQ](https://flixhq.click/)** - Movies / TV / Anime / 1080p
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
-* ⭐ **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
+* ⭐ **[Seez](https://seez.su/)**, [2](https://flixerplus.com/) - Movies / TV / 1080p
+* ⭐ **[SmashyStream](https://embed.smashystream.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
 * ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime / 1080p
+* ⭐ **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * ⭐ **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - Multi-Site Search
 * [MovieScene](https://moviescene.cc/) - Movies / 1080p
 * [NetFilm](https://netfilm.app/) - Movies / TV / Anime / 1080p
@@ -14113,6 +14121,7 @@ pass: paluch
 * [What's on Netflix](https://www.whats-on-netflix.com/library/), [uNoGS](https://unogs.com/), [FlixWatch](https://www.flixwatch.co/) or [Flixable](https://flixable.com/) - Browse Netflix Library
 * [Netflix Top 10](https://top10.netflix.com/) - Netflix Most-Watched Chart
 * [Netflix Codes](https://www.netflix-codes.com/) - Netflix Category Codes
+* [Dsny.pl](https://dsny.pl/library/en/us) - Browse Disney+ Library
 * [FilmFlow](https://meetfebin.com/apps/filmflow) - Emotional Movie Ratings
 * [ReelScary](http://www.reelscary.com/) - Scary Movie Ratings
 * [Film Genre Wiki](https://en.wikipedia.org/wiki/Template:Film_genres) - Movie Genre List
@@ -15288,8 +15297,8 @@ pass: paluch
 ## ▷ Color Schemes
 
 * ⭐ **[Color Palette Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_palette_generators)** - Generate Color Palettes
-* [Realtime Colors](https://realtimecolors.com/) - Preview Color Palettes
-* [SpyColor](https://www.spycolor.com/) - Color Model Conversions
+* ⭐ **[Realtime Colors](https://realtimecolors.com/)** - Preview Color Palettes
+* ⭐ **[SpyColor](https://www.spycolor.com/)** or [Colouris](https://colouris.surge.sh/) - Color Model Conversions
 * [Colorful](https://github.com/Siddharth11/Colorful) - Curated List of Color Scheme Resources 
 * [ColorsAndFonts](https://www.colorsandfonts.com/) - Quickly Copy Colors & Typography Combinations 
 * [ColorHexa](https://www.colorhexa.com/) - Color Hex Encyclopedia  
@@ -15390,6 +15399,7 @@ pass: paluch
 * [typejuice](https://github.com/galvez/typejuice) - Documentation Generator for TypeScript Declaration Files
 * [Boxed](https://github.com/swan-io/boxed) - TypeScript Utility Types / Functions
 * [Clean Code TypeScripts](https://github.com/labs42io/clean-code-typescript) - Clean Code for TypeScript
+* [Motion Canvas](https://motioncanvas.io/) - Animated Video TypeScript Library
 * [Ruff](https://github.com/charliermarsh/ruff) - Python Linter
 * [Trunk](https://trunk.io/) - Run Linters/Formatters/Checkers Simultaneously
 * [Mega Linter](https://github.com/oxsecurity/megalinter) or [TCA](https://github.com/Tencent/CodeAnalysis) - Code Analyzer
@@ -15706,7 +15716,7 @@ pass: paluch
 * ⭐ **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR)** - Site / Tool Index
 * ⭐ **[Wotaku](https://wotaku.its.moe/)**, [2](https://wotaku.pages.dev/), [3](https://wotaku.netlify.app/) - Japanese Piracy Index
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
-* ⭐ **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index / [Discord](https://discord.gg/GuueaDgKdS)
+* ⭐ **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index
 * ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
 * ⭐ **[Esoterica Avenue](https://ori5000.github.io/)** - Piracy Index / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * ⭐ **[Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)** - Piracy Index
@@ -16376,7 +16386,7 @@ pass: paluch
 * [WebMemex](https://blog.webmemex.org/) - Organize & Store Webpages 
 * [Bandwidth Hero](https://bandwidth-hero.com/) - Reduce Browsing Data Usage
 * [Save-Data: On](https://www.daniel.priv.no/web-extensions/save-data.html) - Auto-Enable Data Savings Mode
-* [Auto Tab Discard](https://add0n.com/tab-discard.html), [Tab Wrangler](https://github.com/tabwrangler/tabwrangler), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs) or [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) - Discard Inactive Tabs to Reduce Memory / CPU Usage
+* [Auto Tab Discard](https://add0n.com/tab-discard.html), [Tab Wrangler](https://github.com/tabwrangler/tabwrangler), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs) or [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) - Discard Inactive Tabs
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
 * [Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers) - Group & Manage Browser Tabs
 * [AutoRefresh](https://autorefresh.io/) or [Tab Auto Refresh](https://mybrowseraddon.com/tab-auto-refresh.html) - Refresh Tabs
@@ -16809,7 +16819,7 @@ pass: paluch
 * [Virtual World List](https://virtualworldslist.neocities.org/) - Virtual World List
 * [Hubs by Mozzila](https://hubs.mozilla.com/) - VRChat-like hangout room (PC & PCVR)
 * [Flat.Social](https://flat.social/f/hn-virtual-xmas) - Virtual Christmas Party
-* [Omegle](https://www.omegle.com/) or [Chatiw](https://www.chatiw.me/) - Random Chat Rooms
+* [Omegle](https://www.omegle.com/), [Monkey](https://www.monkey.app/) or [Chatiw](https://www.chatiw.me/) - Random Chat Rooms
 * [ASCII Roulette](https://github.com/dialup-inc/ascii) - Random ASCII Chat Rooms
 * [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
 * [SuperBay](https://forum.suprbay.org/) - Piracy Discussion
@@ -19797,7 +19807,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Dark Site Finder](https://darksitefinder.com/), [DarkSkyMap](https://darkskymap.com/) or [GoStarGazing](https://gostargazing.co.uk/) - Star Gazing Site Locators
 * [DeepSkyCamera](https://play.google.com/store/apps/details?id=de.seebi.deepskycamera&gl=US) - Astrophotography App
 * [SpaceEngine](https://spaceengine.org/) - Universe Simulator
-* [The Scale of the Universe](https://www.htwins.net/) - Universe Scale Simulator
+* [The Scale of the Universe](https://www.htwins.net/) or [Universe in a Nutshell](https://play.google.com/store/apps/details?id=org.kurzgesagt.app.Universe) - Universe Scale Simulators
 * [CDS](https://cds.u-strasbg.fr/) - Astronomical Database
 * [The Universe Through Time](https://i.ibb.co/85S7rG4/01bbe9083644.jpg) - Universe Timeline
 
