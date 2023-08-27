@@ -92,7 +92,7 @@
 * [Warez Heaven](https://www.warezheaven.com/index.php) - Video / Audio  / ROMs / Books / NSFW
 * [Download.ir](https://download.ir/) - Video / ROMs
 * [SceneSource](https://www.scnsrc.me/), [2](https://www.scenesource.me/) - Video / Audio / ROMs / Books
-* [Amader Forum](http://amaderforum.us/) - Video/ Books / NSFW
+* [Amader Forum](http://amaderforum.us/) - Video / Books / NSFW
 * [Download For All](https://dl4all.org/), [2](https://dl4all.biz/) - Video / Audio / Books / Magazines
 * [ddlspot](https://www.ddlspot.com/) - Video / Audio 
 * [Uploadgig](https://uploadgig.me/) - Video / Audio / Books / Audiobooks / Magazines  / NSFW
