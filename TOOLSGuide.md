@@ -211,6 +211,7 @@
 * [typ3r](https://typ3r.aavi.me/) - tRaNSlAtE tEXT lik3 THiS
 * [Gematrinator](https://gematrinator.com/calculator) or [Gematrix](https://www.gematrix.org/) - Gematria Calculators
 * [SoftMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
+* [FixSpell](https://www.fixspell.com/) - Convert US Spellings to International English
 * [Delim](https://delim.co/) - Comma Separating Tool
 * [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - Create Parallel Text Web
 * [TextRepeater](https://textrepeater.com/) - Repeat Text
@@ -308,7 +309,7 @@
 * [How-to Rip Videos from Amazon](https://web.archive.org/web/20210102125108/https://www.reddit.com/r/Piracy/comments/kmodia/improved_text_video_tutorial_on_how_to_rip_from/), [2](https://web.archive.org/web/20210112204744/https://old.reddit.com/r/Piracy/comments/km1pkl/how_to_rip_from_amazon_loselessly/)
 * [How to Rip Videos from Disney+](https://redd.it/ncyxzx), [2](https://web.archive.org/web/20210516014412/https://old.reddit.com/r/Piracy/comments/ncyxzx/tutorial_how_to_rip_moviesshows_from_disney_plus/)
 * [Chat-Downloader](https://github.com/xenova/chat-downloader) - Retrieve Chat Messages from Livestreams
-* [PlayPhrase](https://playphrase.me/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/), [2](https://getyarn.io/) - Clip Quote Search Engine
+* [PlayPhrase](https://playphrase.me/), [ClipBase](https://clipbase.xyz/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/), [2](https://getyarn.io/) - Clip Quote Search Engine
 * [VideoProc](https://www.videoproc.com/) - Video Processing Software
 * [DJV](https://darbyjohnston.github.io/DJV/) - Professional Video Review Player
 * [Swivel](https://www.newgrounds.com/wiki/creator-resources/flash-resources/swivel) - SWF to Video Converter
@@ -477,6 +478,7 @@
 * [/r/findthepreset](https://www.reddit.com/r/findthepreset) - Find Presets from Songs
 * [MilkyTracker](https://milkytracker.org/) - .MOD & .XM Module Creator
 * [/r/samplesforall](https://www.reddit.com/r/samplesforall/), [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [RKHive](https://rkhive.com/), [Sounds MP3](https://allsoundsaround.com/) or [SamplesTorrent](https://samplestorrent.com/) - Audio Samples
+* [AudioStellar](https://audiostellar.xyz/) - AI Powered Audio Sampling
 * [AirWindows](https://www.airwindows.com/) - Reverbs / Equalizers / Plugins
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - Learn How to Play Music
 * [Jukebox](https://jukebox.today/) - Music Sync / Listening Parties
@@ -1043,7 +1045,7 @@
 * [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - DuckDuckGo !bang Meta Serarch / [GitHub](https://github.com/MoserMichael/duckduckbang)
 * [Jumps](https://jumps.io/) or [Yubnub](https://yubnub.org/) - Site Quick Search
 * [Soovle](https://soovle.com/), [Keyword.io](https://www.keyword.io/), [SearchEngineReports](https://searchenginereports.net/), [ContentIdeas](https://contentideas.io/) or [Keyword Tool](https://keywordtool.io/) - Popular Keyword Search
-* [KeywordSheeter](https://keywordsheeter.com/) - Keyword Research Tool
+* [KeywordSheeter](https://keywordsheeter.com/) or [Spyfu](https://www.spyfu.com/) - Keyword Research Tools
 * [Esteroids](https://esteroids.eth.limo/#) - Decentralized Web Search Engine
 * [Social-Searcher](https://www.social-searcher.com/), [WeVerify](https://cse.google.com/cse?cx=006976128084956795641:ad1xj14zfap), [Social Media CSE](https://cse.google.com/cse?cx=73dda67fd05b4405f#gsc.tab=1&gsc.sort=) or [Social Mention](https://www.socialmention.com/) - Social Media Search Engine  
 * [BoardReader](https://boardreader.com/), [CrowdView](https://crowdview.ai/) or [FindAForum](https://www.findaforum.net/Home/Search/) - Forum Search Engine 
@@ -1585,7 +1587,7 @@
 * [Twitchls](https://twitchls.com/) - HTML5 Twitch Stream Player
 * [Alternate Player for Twitch.tv](https://pastebin.com/Z7NWxSfA) - Alt Twitch Player
 * [Orion](https://alamminsalo.github.io/orion/), [Twitch App](https://gitlab.com/twitch-application/application) or [Tress](https://gitlab.com/Ignamarte/tress) - Twitch Desktop Clients
-* [Twitch Replay](https://www.twitch-replay.com/), [Multi](https://multi.raredrop.co/), [Twitchmultivod](![Uploading image.png…]()), [MultiStre.am](https://multistre.am/), [TwitchTheater](https://twitchtheater.tv/) or [MultiTwitch](https://www.multitwitch.tv/) - Sync Twitch Videos
+* [Twitch Replay](https://www.twitch-replay.com/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/), [TwitchTheater](https://twitchtheater.tv/) or [MultiTwitch](https://www.multitwitch.tv/) - Sync Twitch Videos
 * [Twitch DVR](https://github.com/caeleel/twitch-dvr) - Enable DVR on Twitch
 * [Twitch Now](https://addons.mozilla.org/en-US/firefox/addon/twitch-now_/) or [Gumbo](https://github.com/seldszar/gumbo) - 
 Twitch Stream Tracker
