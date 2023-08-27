@@ -241,7 +241,6 @@
 * [Giara](https://gitlab.com/gabmus/giara) - GTK Reddit App
 * [gettit](https://github.com/Solirs/gettit/) - Reddit CLI Video Downloader
 * [rainbowstream](https://github.com/orakaro/rainbowstream) - Twitter CLI
-* [ramme](https://github.com/terkelg/ramme) - Instagram Client
 * [LiMP](https://git.coom.tech/eternal-coomer/LiMP) - Local Booru
 * [Nextcord](https://github.com/nextcord/nextcord) - Discord API Wrapper
 * [Discover](https://github.com/trigg/Discover) - Discord Overlay
