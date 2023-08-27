@@ -619,7 +619,7 @@
 * [Dark Site Finder](https://darksitefinder.com/), [DarkSkyMap](https://darkskymap.com/) or [GoStarGazing](https://gostargazing.co.uk/) - Star Gazing Site Locators
 * [DeepSkyCamera](https://play.google.com/store/apps/details?id=de.seebi.deepskycamera&gl=US) - Astrophotography App
 * [SpaceEngine](https://spaceengine.org/) - Universe Simulator
-* [The Scale of the Universe](https://www.htwins.net/) - Universe Scale Simulator
+* [The Scale of the Universe](https://www.htwins.net/) or [Universe in a Nutshell](https://play.google.com/store/apps/details?id=org.kurzgesagt.app.Universe) - Universe Scale Simulators
 * [CDS](https://cds.u-strasbg.fr/) - Astronomical Database
 * [The Universe Through Time](https://i.ibb.co/85S7rG4/01bbe9083644.jpg) - Universe Timeline
 
