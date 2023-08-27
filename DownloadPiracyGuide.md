@@ -70,7 +70,6 @@
 * [patoghu](https://patoghu.com/) - Video / Audio / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [MaxRelease](http://max-rls.com/) - Video / Audio / Magazines
 * [DarkSoftware](https://darksoftware.net/) - Video / Audio / ROMs
-* [Team OS](https://www.teamos.xyz/) - Software  / Books 
 * [WarezBook](https://www.warezbook.org/) - Video / Audio  / Books
 * [2DDL](https://2ddl.it/) - Video / Audio  / Books / Comics / Magazines
 * [WarezLover](https://warezlover.xyz/) - Video / Audio   / ROMs / Books / Magazines
