@@ -18,7 +18,7 @@
 * ⭐ **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR)** - Site / Tool Index
 * ⭐ **[Wotaku](https://wotaku.its.moe/)**, [2](https://wotaku.pages.dev/), [3](https://wotaku.netlify.app/) - Japanese Piracy Index
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
-* ⭐ **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index / [Discord](https://discord.gg/GuueaDgKdS)
+* ⭐ **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index
 * ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
 * ⭐ **[Esoterica Avenue](https://ori5000.github.io/)** - Piracy Index / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * ⭐ **[Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)** - Piracy Index
@@ -688,7 +688,7 @@
 * [WebMemex](https://blog.webmemex.org/) - Organize & Store Webpages 
 * [Bandwidth Hero](https://bandwidth-hero.com/) - Reduce Browsing Data Usage
 * [Save-Data: On](https://www.daniel.priv.no/web-extensions/save-data.html) - Auto-Enable Data Savings Mode
-* [Auto Tab Discard](https://add0n.com/tab-discard.html), [Tab Wrangler](https://github.com/tabwrangler/tabwrangler), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs) or [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) - Discard Inactive Tabs to Reduce Memory / CPU Usage
+* [Auto Tab Discard](https://add0n.com/tab-discard.html), [Tab Wrangler](https://github.com/tabwrangler/tabwrangler), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs) or [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) - Discard Inactive Tabs
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
 * [Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers) - Group & Manage Browser Tabs
 * [AutoRefresh](https://autorefresh.io/) or [Tab Auto Refresh](https://mybrowseraddon.com/tab-auto-refresh.html) - Refresh Tabs
@@ -1121,7 +1121,7 @@
 * [Virtual World List](https://virtualworldslist.neocities.org/) - Virtual World List
 * [Hubs by Mozzila](https://hubs.mozilla.com/) - VRChat-like hangout room (PC & PCVR)
 * [Flat.Social](https://flat.social/f/hn-virtual-xmas) - Virtual Christmas Party
-* [Omegle](https://www.omegle.com/) or [Chatiw](https://www.chatiw.me/) - Random Chat Rooms
+* [Omegle](https://www.omegle.com/), [Monkey](https://www.monkey.app/) or [Chatiw](https://www.chatiw.me/) - Random Chat Rooms
 * [ASCII Roulette](https://github.com/dialup-inc/ascii) - Random ASCII Chat Rooms
 * [Wireclub](https://www.wireclub.com/) - Topic Chat Rooms
 * [SuperBay](https://forum.suprbay.org/) - Piracy Discussion
