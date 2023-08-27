@@ -977,7 +977,6 @@
 * [Film2Media](https://www.f2m.top/) - Movies / TV
 * [AIOFilm](https://aiofilm.org/) - Movies / TV / Anime
 * [iranianfilmarch](https://t.me/iranianfilmarch) - Movies / Telegram
-* [9movie](https://9movies.cfd/) - Movies / TV / Anime / Iranian VPN Needed
 * [alefmovie](https://alefmovie.website/) - Movies / TV / Iranian VPN Needed
 * [ValaMovie](https://valamovie.club/) - Movies / TV
 * [dlrozaneh](https://dlrozaneh.ir/) - Movies
