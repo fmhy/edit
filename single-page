@@ -916,7 +916,7 @@
 * [standardebooks](https://standardebooks.org) - Books
 * [Manybooks](https://manybooks.net/)  - Books
 * [dpgroup](https://www.dpgroup.org/) - Books / Magazines
-* [eBookBB](https://ebookbb.com/)  - Books
+* [eBookBB](https://ebookbb.in/) or [iBookPile](https://ibookpile.in/) - Books
 * [2020ok](http://2020ok.com/)  - Books / Comics
 * [AllBooksWorld](https://allbooksworld.com/)  - Books
 * [The Library](https://discord.gg/cgSVDUwZs9) - Books
@@ -926,7 +926,6 @@
 * [LetMeRead](https://www.letmeread.net/) - Books
 * [FreeBookSpot](https://www.freebookspot.club/) - Books
 * [BooksToLearn](https://www.booktolearn.com) - Books
-* [iBookPile](https://ibookpile.net/) - Books
 * [DPLA](https://dp.la/) - Books
 * [Books'Cool](https://en.novelonlineread.com/) - Books
 * [Dirzon](https://www.dirzon.com/) - Books
@@ -3238,7 +3237,7 @@ Filter list for adblockers with sites from this thread.
 * [SimpleLogin](https://github.com/simple-login/Simple-Login-Android) or [Anonaddy](https://gitlab.com/Stjin/anonaddy-android) - Email Forwarding
 * [Temp Email Apps](https://rentry.co/v92q6), [Guerilla Mail](https://f-droid.org/en/packages/cf.theonewiththebraid.guerrilla_mail/), [Temp Mail](https://play.google.com/store/apps/details?id=temporary.disposable.mail), [‎InstAddr](https://apps.apple.com/us/app/instaddr/id806157957), [Ten Minute Mail](https://play.google.com/store/apps/details?id=com.tenminutemail) or [‎InstAddr](https://play.google.com/store/apps/details?id=air.kukulive.mailnow) - Temp Mail Apps
 * [Maps](https://gitlab.com/divested-mobile/maps) - Privacy Focused Google Maps Wrapper
-* [Fake GPS Location](https://play.google.com/store/apps/details?id=com.evezzon.fakegps), [Android-Mock-Location](https://github.com/warren-bank/Android-Mock-Location), [FakeGPS](https://play.google.com/store/apps/details?id=com.gsmartstudio.fakegps) or [GPS JoyStick Guide](http://gpsjoystick.theappninjas.com/faq/) - Fake GPS Location 
+* [Fake GPS Location](https://play.google.com/store/apps/details?id=com.evezzon.fakegps), [Android-Mock-Location](https://github.com/warren-bank/Android-Mock-Location) or [GPS JoyStick Guide](http://gpsjoystick.theappninjas.com/faq/) - Fake GPS Location 
 * [MetaRadar](https://github.com/Semper-Viventem/MetaRadar) - Track Devices Following You
 * [RadiusLocker](https://www.radiuslocker.co/) - Lock Phone When its not Near You
 * [WPS](https://gitlab.com/nuntius35/wps) - Lock Phone After Multiple Failed Logins
@@ -6482,8 +6481,7 @@ Filter list for adblockers with sites from this thread.
 #### Adblock Defenders
 
 * ⭐ **[AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra)** - [Script](https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js)
-
-[Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt), [Assassinate Ad Block Blockers](https://greasyfork.org/en/scripts/382482-assassinate-ad-block-blockers), [Test Adblock Defender](https://blockads.fivefilters.org/)
+* [Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt)
 
 ***
 
@@ -6538,7 +6536,7 @@ Filter list for adblockers with sites from this thread.
 
 #### Android Browsers
 
-* ⭐ **[Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)** - Debloated FF
+* ⭐ **[Firefox](https://www.mozilla.org/)** - [F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) / [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/)
 
 [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi Browser](https://kiwibrowser.com/), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Berry Browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser), [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android), [AlohaBrowser](https://alohabrowser.com/), [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp), [Lynket](https://github.com/arunkumar9t2/lynket-browser), [Lightning Browser](https://github.com/anthonycr/Lightning-Browser), [Float Browser](https://play.google.com/store/apps/details?id=com.xpp.floatbrowser), [Fulguris](https://github.com/Slion/Fulguris)
 
@@ -6901,10 +6899,11 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Compression Programs
 
-* ⭐ **[Conversion Tutorial Index](https://fileforums.com/showthread.php?t=96782)**
-* ⭐ **[7-Zip](https://www.7-zip.org/)** - [Fork](https://github.com/M2Team/NanaZip) / [Colab](https://github.com/dropcreations/7zip-in-Google-Colab) / [Dark Mode](https://github.com/huanrenfeng/7zipDarkmode) / [Benchmarks](https://s1.hoffart.de/7zip-bench/)
-* ⭐ **[WinRAR](https://www.win-rar.com/)** - [Licenses](https://github.com/nbats/FMHYedit/blob/main/base64.md#winrar-licenses) / [Remove Pop-up](http://cooltricksb.blogspot.com/2015/03/how-to-remove-40-days-trial-period.html?m=1)
-* ⭐ **[TurboBench](https://github.com/powturbo/TurboBench)** - Compression Benchmark
+* ⭐ **[7-Zip](https://www.7-zip.org/)**  - [Colab](https://github.com/dropcreations/7zip-in-Google-Colab) / [Dark Mode](https://github.com/huanrenfeng/7zipDarkmode) / [Benchmarks](https://s1.hoffart.de/7zip-bench/)
+* ⭐ **[NanaZip](https://github.com/M2Team/NanaZip)**
+* [WinRAR](https://www.win-rar.com/) - [Licenses](https://github.com/nbats/FMHYedit/blob/main/base64.md#winrar-licenses) / [Remove Pop-up](http://cooltricksb.blogspot.com/2015/03/how-to-remove-40-days-trial-period.html?m=1)
+* [TurboBench](https://github.com/powturbo/TurboBench) - Compression Benchmark
+* [Conversion Tutorial Index](https://fileforums.com/showthread.php?t=96782)**
 
 [SuperCompression](https://supercompression.ru/), [PeaZip](https://peazip.github.io/), [Hamster ZIP Archiver](https://hamstersoft.com/), [unzip-online](https://unzip-online.com/en), [pigz](https://zlib.net/pigz/), [GNU Gzip](http://www.gnu.org/software/gzip/), [ezyZip](https://www.ezyzip.com/), [FreeArc](https://sourceforge.net/projects/freearc/), [UltraARC](https://www.fileforums.com/showpost.php?p=476660&postcount=1135), [p7zip-zstd](https://github.com/jinfeihan57/p7zip), [RazorX 2](https://fileforums.com/showthread.php?t=103577&highlight=Razorx), [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer), [bzip2](http://sourceware.org/bzip2/), [Bandizip](http://www.bandisoft.com/bandizip/), [TUGZip](http://www.tugzip.com/), [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd), [Unrar.online](https://unrar.online/), [IZArc](https://www.izarc.org/), [ZIP Extractor](https://zipextractor.app/), [Zipware](https://www.zipware.org/), [WinZip](https://www.winzip.com/), [Efficient Compression Tool](https://github.com/fhanau/Efficient-Compression-Tool), [Minuimus](https://birds-are-nice.me/software/minuimus.html)
 
@@ -9734,7 +9733,6 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Bob Pony](https://bobpony.com/downloads/)**
 * ⭐ **[Windows 10 LTSC](https://aopc.dev/t/windows-10-ltsc-the-best-windows-10-version-ever.845/)**
 * [GezoeSloog](https://opendirectory.luzea.de/GezoeSloog/OS/)
-* [VLSC](http://vlsc.ksu.ac.th/)
 * [Microsoft](https://www.microsoft.com/en-us/software-download/)
 * [Fido](https://github.com/pbatard/Fido) - Powershell Script
 * [OldSchoolOS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISO's
@@ -16672,7 +16670,7 @@ pass: paluch
 * [SB.js](https://github.com/mchangrh/sb.js) - SponsorBlock Userscript
 * [2ch-captcha-solver](https://gitgud.io/IeatMonkeysLOL/2ch-captcha-solver-plugin/-/tree/master/) - 2CH Captcha Solver
 * [Solved Media Plus](https://greasyfork.org/en/scripts/422074-solved-media-plus) - Image Captcha Solver
-* [Bypass Google Sorry](https://greasyfork.org/en/scripts/447130), [Bypass Google reCaptcha](https://gist.github.com/Tomas2D/ed9e0a5ff196704d205b2fbd3a9880f6) / [2](https://gist.github.com/alperensert/ea02f8ec6129bc2289a8ad12d9a76e55) - Bypass Google reCAPTCHA
+* [Bypass Google Sorry](https://greasyfork.org/en/scripts/447130) - Bypass Google reCAPTCHA
 * [Remove Web Limits](https://greasyfork.org/en/scripts/28497), [2](https://greasyfork.org/en/scripts/386908), [3](https://greasyfork.org/en/scripts/14146), [4](https://greasyfork.org/en/scripts/23772) - Force Enable Right Click
 * [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Select Text Inside Links
 * [Select All Checkboxes](https://greasyfork.org/en/scripts/22587) - Auto Check All Boxes
