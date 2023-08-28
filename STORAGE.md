@@ -43,8 +43,7 @@
 #### Adblock Defenders
 
 * ⭐ **[AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra)** - [Script](https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js)
-
-[Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt), [Assassinate Ad Block Blockers](https://greasyfork.org/en/scripts/382482-assassinate-ad-block-blockers), [Test Adblock Defender](https://blockads.fivefilters.org/)
+* [Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt)
 
 ***
 
