@@ -1122,12 +1122,12 @@
 * [Os Reformados](https://osreformados.com) - Video / Audio / Magazines
 * [Baixar Séries MP4](https://baixarseriesmp4.eu) - Movies / TV / Anime
 * [Animes Totais](https://www.animestotais.xyz) - Movies / TV / Anime / Cartoons
-* [Series Empire](https://seriesempire.com) - TV
+* [Séries Empire](https://seriesempire.com) - TV
 * [KSensei](https://karinsensei.com) - Anime
 * [Anipakku](https://anipakku.blogspot.com) - Anime / [Discord](https://discord.com/invite/Whu6RV9Gad)
 * [Baixar SOM Gospel](https://www.baixarsomgospel.org) - Gospel Music
 * [Baixar Vídeo](https://baixarvideo.com.br) - Portuguese Video Downloader
-* [Online Cursos Gatuitos](https://onlinecursosgratuitos.com) - Courses
+* [Online Cursos Gratuitos](https://onlinecursosgratuitos.com) - Courses
 * [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
 * [Mundo Ubuntu](https://www.mundoubuntu.com.br) - Courses
 
