@@ -78,7 +78,7 @@
 * [standardebooks](https://standardebooks.org) - Books
 * [Manybooks](https://manybooks.net/)  - Books
 * [dpgroup](https://www.dpgroup.org/) - Books / Magazines
-* [eBookBB](https://ebookbb.com/)  - Books
+* [eBookBB](https://ebookbb.in/) or [iBookPile](https://ibookpile.in/) - Books
 * [2020ok](http://2020ok.com/)  - Books / Comics
 * [AllBooksWorld](https://allbooksworld.com/)  - Books
 * [The Library](https://discord.gg/cgSVDUwZs9) - Books
@@ -88,7 +88,6 @@
 * [LetMeRead](https://www.letmeread.net/) - Books
 * [FreeBookSpot](https://www.freebookspot.club/) - Books
 * [BooksToLearn](https://www.booktolearn.com) - Books
-* [iBookPile](https://ibookpile.net/) - Books
 * [DPLA](https://dp.la/) - Books
 * [Books'Cool](https://en.novelonlineread.com/) - Books
 * [Dirzon](https://www.dirzon.com/) - Books
