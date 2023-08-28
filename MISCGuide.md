@@ -974,7 +974,7 @@
 * [SB.js](https://github.com/mchangrh/sb.js) - SponsorBlock Userscript
 * [2ch-captcha-solver](https://gitgud.io/IeatMonkeysLOL/2ch-captcha-solver-plugin/-/tree/master/) - 2CH Captcha Solver
 * [Solved Media Plus](https://greasyfork.org/en/scripts/422074-solved-media-plus) - Image Captcha Solver
-* [Bypass Google Sorry](https://greasyfork.org/en/scripts/447130), [Bypass Google reCaptcha](https://gist.github.com/Tomas2D/ed9e0a5ff196704d205b2fbd3a9880f6) / [2](https://gist.github.com/alperensert/ea02f8ec6129bc2289a8ad12d9a76e55) - Bypass Google reCAPTCHA
+* [Bypass Google Sorry](https://greasyfork.org/en/scripts/447130) - Bypass Google reCAPTCHA
 * [Remove Web Limits](https://greasyfork.org/en/scripts/28497), [2](https://greasyfork.org/en/scripts/386908), [3](https://greasyfork.org/en/scripts/14146), [4](https://greasyfork.org/en/scripts/23772) - Force Enable Right Click
 * [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Select Text Inside Links
 * [Select All Checkboxes](https://greasyfork.org/en/scripts/22587) - Auto Check All Boxes
