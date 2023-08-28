@@ -3295,7 +3295,6 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Bob Pony](https://bobpony.com/downloads/)**
 * ⭐ **[Windows 10 LTSC](https://aopc.dev/t/windows-10-ltsc-the-best-windows-10-version-ever.845/)**
 * [GezoeSloog](https://opendirectory.luzea.de/GezoeSloog/OS/)
-* [VLSC](http://vlsc.ksu.ac.th/)
 * [Microsoft](https://www.microsoft.com/en-us/software-download/)
 * [Fido](https://github.com/pbatard/Fido) - Powershell Script
 * [OldSchoolOS](https://www.oldschoolos.com/), [OS Vault](https://osvault.weebly.com/directory.html), [VETUSWARE](https://vetusware.com/) or [WinWorldPC](https://winworldpc.com/) - Oldschool ISO's
