@@ -98,7 +98,7 @@
 
 #### Android Browsers
 
-* ⭐ **[Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)** - Debloated FF
+* ⭐ **[Firefox](https://www.mozilla.org/)** - [F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) / [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/)
 
 [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi Browser](https://kiwibrowser.com/), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Berry Browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser), [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android), [AlohaBrowser](https://alohabrowser.com/), [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp), [Lynket](https://github.com/arunkumar9t2/lynket-browser), [Lightning Browser](https://github.com/anthonycr/Lightning-Browser), [Float Browser](https://play.google.com/store/apps/details?id=com.xpp.floatbrowser), [Fulguris](https://github.com/Slion/Fulguris)
 
