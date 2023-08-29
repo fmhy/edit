@@ -18,7 +18,7 @@
 * [GBox](https://www.gboxlab.com/) - GMS Google Box
 * [APK Installer](https://play.google.com/store/apps/details?id=com.uptodown.installer&hl=en&gl=US) - APK Installers
 * [Raccoon](https://raccoon.onyxbits.de/) - Private APK Downloader
-* [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) or [APKeep](https://github.com/EFForg/apkeep) - APK Download CLIs
+* [APKeep](https://github.com/EFForg/apkeep) - APK Download CLIs
 * [APK Generator](https://play.google.com/store/apps/details?id=com.aksapps.apkgenerator) or [APK Saver](https://play.google.com/store/apps/details?id=com.sdkdevelopers.apksaver) - Save APK File for Installed Apps
 * [Kanade](https://github.com/alexrintt/kanade), [Apk Extractor](https://play.google.com/store/apps/details?id=com.ext.ui) or [APKExtractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) - APK Extractors
 * [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) - APK Editor
@@ -152,12 +152,11 @@
 * ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [Pixel Launcher](https://github.com/saitamasahil/Pixel-Launcher-Extended) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
 * ⭐ **Magisk Tools** - [Mods](https://t.me/magiskmod_update) / [Support Layer](https://github.com/axonasif/rusty-magisk) / [Manager](https://github.com/Fox2Code/FoxMagiskModuleManager), [2](https://github.com/ya0211/MRepo) / [SafteyNet Fix](https://github.com/kdrag0n/safetynet-fix) / [Modules](https://www.androidacy.com/magisk-modules-repository/) / [Alt Repo](https://github.com/Magisk-Modules-Alt-Repo)
 * ⭐ **[Termux](https://termux.com/)**, [Limbo](https://github.com/limboemu/limbo), [Andronix](https://andronix.app/) / [Git](https://github.com/AndronixApp) or [TermOne Plus](https://termoneplus.com/) - Terminal Emulators / OS Environments
-* ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/htr-tech/bash2mp4), [2](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/termux/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
-* [PlainApp](https://github.com/ismartcoding/plain-app), [scrcpy](https://github.com/Genymobile/scrcpy), [WebADB](https://app.webadb.com/) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/), [2](https://github.com/Tomotoes/scrcpy-gui)
+* ⭐ **Termux Tools** - [YT-DL](https://github.com/OzakIOne/termux-youtube-dl), [2](https://github.com/khansaad1275/Termux-YTD) / [Video Downloader](https://github.com/AbirHasan2005/LR-YTDL) / [GUI](https://github.com/termux/termux-gui) / [ADB / Fastboot Tools](https://github.com/MasterDevX/Termux-ADB) / [Beautify](https://github.com/mayTermux/myTermux)
+* [PlainApp](https://github.com/ismartcoding/plain-app), [scrcpy](https://github.com/Genymobile/scrcpy), [WebADB](https://app.webadb.com/) or [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Control Android via Desktop / [GUI](https://guiscrcpy.srev.in/)
 * [AVNC](https://github.com/gujjwal00/avnc) - Remote Desktop Client for Android
 * [ApkShellExt2](http://www.apkshellext.com/) - Desktop App Manager
 * [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu) - Android Power Menu Replacement
-* [Wake on Lan](https://play.google.com/store/apps/details?id=de.florianisme.wakeonlan) - Control Devices via Wake on Lan
 * [PixelLauncherMods](https://github.com/KieronQuinn/PixelLauncherMods) - Enable Features in Stock App Launcher
 * [QuickSwitch](https://github.com/skittles9823/QuickSwitch) - Enable Quickstep in Launchers 
 * [Activity Launcher](https://github.com/butzist/ActivityLauncher) - Activity Launch Shortcuts
@@ -190,7 +189,6 @@
 * [Caffeine](https://lab.zhs.moe/caffeine/) - Keep Screen On
 * [FakeStandby](https://fakestandby.jonasbernard.de/) - Turn Off Screen While App is Running
 * [WaveUp](https://gitlab.com/juanitobananas/wave-up) - Turn On Display via Waving
-* [Pineapple Lock Screen](https://github.com/BLumia/pineapple-lock-screen) - Turn Off Display without Power Button
 * [Pinnit](https://github.com/msasikanth/pinnit) - Notification History / Pinning
 * [B.D.T](https://bdt.jepfa.de/) - Time with Between Time Notifications
 * [aodNotify](https://play.google.com/store/apps/details?id=com.jamworks.alwaysondisplay) - Notification LED
@@ -206,7 +204,7 @@
 * [SymbianOS](https://t.me/symbianos) - Symbian OS Discussion
 * [VMOS](https://www.vmos.com/) or [x8sb](https://x8sb.com/) - Android on Android Virtual Machines
 * [EtchDroid](https://etchdroid.depau.eu/) - Write OS Images to USB Drive
-* [Winlator](https://github.com/brunodev85/winlator) - Run Windows Apps
+* [Winlator](https://github.com/brunodev85/winlator) or [Exagear](https://www.exagear.wiki/) / [Discord](https://discord.gg/q842JB4gCm) - Android Windows Emulators
 * [Will My Phone Work?](https://willmyphonework.net/) - Phone Carrier Support Index
 * [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
 * [MobileSpectrum](https://mobilespectrum.org/) - Mobile Network Spectrum by Country
@@ -296,6 +294,8 @@
 * [Clipboarded](https://github.com/TrianguloY/SimpleClipboardEditor), [Clipboard CopyPaste](http://www.evvasoft.com/ccp.html) or [Clipboard History](https://play.google.com/store/apps/details?id=com.rubbishcollector.clipboardhistory) - Clipboard Managers
 * [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - Text Font Generator
 * [chatgpt-android](https://github.com/skydoves/chatgpt-android) or [ChatGPT-android-app](https://github.com/matthaigh27/ChatGPT-android-app) - ChatGPT for Android
+* [Botify AI](https://botif.ai/) or [Chai](https://www.chai-research.com/) - Roleplaying Chatbots
+* [hellohistory](https://www.hellohistory.ai/) - Historical Roleplaying Chatbot
 * [DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid), [Arna Translate](https://github.com/MahanRahmati/translate), [Instalate](https://gitlab.com/concept1tech/instalate), [TranslateYou](https://github.com/Bnyro/TranslateYou) or [SimplyTranslate](https://github.com/ManeraKai/simplytranslate_mobile) - Translation Apps
 * [VoiceGPT](https://voicegpt.net/) or [Dicio](https://github.com/Stypox/dicio-android) - Voice Assistants
 * [Audio-Recorder](https://gitlab.com/axet/android-audio-recorder/tree/HEAD), [Mic Check](https://play.google.com/store/apps/details?id=com.jlong.miccheck), [android-audio-recorder](https://gitlab.com/axet/android-audio-recorder) or [Audio Recorder](https://github.com/vivekweb2013/audio-recorder) - Audio Recorders
@@ -341,6 +341,7 @@
 * [MicroIOT](https://gitlab.com/micro-iot-platform/projects) - Motion, Light & Humidity Detectors
 * [GeoMag](https://github.com/ya0211/geomag) - Geomagnetic Field Calculator
 * [Sensify](https://github.com/JunkieLabs/sensify-android) - Sensor Visualizers
+* [SongSync](https://github.com/Lambada10/SongSync) - Download Lyrics
 * [FastLyrics](https://github.com/TecCheck/FastLyrics) - Find Lyrics for Playing Song
 * [LRC Editor](https://play.google.com/store/apps/details?id=com.cg.lrceditor) or [Audoir](https://audoir.com/) - Lyric Text Editor
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
@@ -416,7 +417,8 @@
 * [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) - App Isolation
 * [DroidFS](https://forge.chapril.org/hardcoresushi/DroidFS) or [Secure File Manager](https://github.com/Secure-File-Manager/Secure-File-Manager) - Encrypted File Managers
 * [Wasted](https://github.com/x13a/Wasted) - Emergency Data Wipe
-* [UntrackMe](https://fedilab.app/wiki/untrackme/)  - Frontend Redirect / Unshorten Links / Cleanup URLs 
+* [UntrackMe](https://fedilab.app/wiki/untrackme/)  - Frontend Redirect / Unshorten Links / Cleanup URLs
+* [MastodonRedirect](https://github.com/zacharee/MastodonRedirect) - Fediverse Frontend Redirect
 * [Leon](https://f-droid.org/packages/com.svenjacobs.app.leon/) - Remove URL Tracking / [GitHub](https://github.com/svenjacobs/leon)
 * [Stealth](https://gitlab.com/cosmosapps/stealth) - Reddit Frontend
 * [Clipious](https://github.com/lamarios/clipious) - YouTube Frontend
@@ -521,7 +523,7 @@
 * [RedditOldResponsive](https://git.kaki87.net/KaKi87/userscripts/src/branch/master/redditOldResponsive) - Old Reddit Script
 * [Updoot](https://updoot.app/) - Reddit Saved Post / Comment Manager
 * [BlueClover](https://github.com/nnuudev/BlueClover), [MobiChan](https://github.com/Rukkaitto/mobichan), [Kuroba](https://github.com/K1rakishou/Kuroba-Experimental) / [2](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4Chan Apps
-* [Jerboa](https://github.com/dessalines/jerboa), [LiftOff](https://github.com/liftoff-app/liftoff), [Infinity](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients
+* [Jerboa](https://github.com/dessalines/jerboa), [LiftOff](https://github.com/liftoff-app/liftoff), [Voyager](https://github.com/aeharding/voyager), [Infinity](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients
 * [Uploadgram App](https://github.com/Uploadgram/app) - Uploadgram Frontend
 * [Instander](https://thedise.me/instander/) - Modded Instagram Client / [Telegram](https://t.me/instander) / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android) / [Secrets](https://ngl.link/) 
 * [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) or [LC_Reborn](https://t.me/s/Facebook_LC_Reborn) - Facebook Clients
@@ -723,6 +725,7 @@
 * [Prestigio](https://play.google.com/store/apps/details?id=com.prestigio.ereader) - Ebook Reader
 * [Omnivore](https://omnivore.app/) - Ebook Reader
 * [KiyomiPDF](https://github.com/qinlili23333/KiyomiPDF) - PDF Reader
+* [Sav PDF Viewer Pro](https://github.com/Sav22999/sav-pdf-viewer-pro) - PDF Reader
 * [Secure PDF Viewer](https://github.com/GrapheneOS/PdfViewer) - PDF Reader
 * [K2pdfopt](https://willus.com/k2pdfopt/) - Optimize PDF/DJVU Files for Mobile E-Readers
 * [Voice](https://github.com/PaulWoitaschek/Voice) - Audiobook Player
