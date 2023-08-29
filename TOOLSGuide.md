@@ -118,8 +118,8 @@
 * [Sweet Home 3D](http://www.sweethome3d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
 * [Interiorai](https://interiorai.com/) - AI Interior Design Tool
 * [Text to Room](https://lukashoel.github.io/text-to-room/) - AI Interior Design Generator
-* [EasyEDA](https://easyeda.com/editor) - Electronic Circuit Design Tool
-* [TemplateMaker](https://www.templatemaker.nl/) - Package & Box Templates
+* [BlockLayer](https://www.blocklayer.com/) - Construction / Remodeling Calculators
+* [TemplateMaker](https://www.templatemaker.nl/) - Package / Box Templates
 * [WebQR](https://www.webqr.com/) - QR Code Scanner
 * [QR Code Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qr_code_generators) - Generate QR Codes
 * [findhelp.org](https://www.findhelp.org/) - Find Assistive Programs
@@ -141,7 +141,7 @@
 * ⭐ **[Translation Sites / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_translation_sites)** - Text Translation Tools
 * ⭐ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - Grammar Checking Tools
 * ⭐ **[Multiple Text Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_text_tool_sites)** - Sites with Multiple Text Tools
-* ⭐ **[Emojipedia](https://emojipedia.org/)**, [EmojiBatch](https://www.emojibatch.com/), [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/), [Words2Emoji](https://www.words2emoji.com/), [PicMo](https://picmojs.com/) or [GetEmoji](https://getemoji.com/) - Emoji Indexes
+* ⭐ **[Emojipedia](https://emojipedia.org/)**, [EmojiBatch](https://www.emojibatch.com/), [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/), [Words2Emoji](https://www.words2emoji.com/), [PicMo](https://picmojs.com/), [Emoji Engine](https://www.emojiengine.com/) or [GetEmoji](https://getemoji.com/) - Emoji Indexes
 * [GhostText](https://ghosttext.fregante.com/) - Use Text Editor in Browser
 * [Sticky Notes](https://fdossena.com/?p=stickynotes/i.frag) - Desktop Sticky Notes
 * [ChecklistGenerator](https://checklistgenerator.co/) - Checklist Generator
@@ -791,6 +791,7 @@
 * [Nativefier](https://github.com/nativefier/nativefier), [WebCatalog](https://webcatalog.io/) or [Pake](https://github.com/tw93/Pake) - Turn Webpages into Desktop Apps
 * [Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test) - Test Internet Speed
 * [Packet Loss Test](https://packetlosstest.com/) - Packet Loss Test
+* [PacketSender](https://packetsender.com/) - Packet Sender
 * [Pinging](https://www.pinging.net/) - Internet Uptime Monitor
 * [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) or [WLan10](https://github.com/afit/wlan10) - Network Manager
 * [NetBlocks](https://api.webprobe.org/) or [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - Internet Performance Monitor
@@ -1257,6 +1258,7 @@
 * ⭐ **[Revolt](https://revolt.chat/)** or [Guilded](https://www.guilded.gg/) / [Mod](https://github.com/ReGuilded/ReGuilded/) - Discord Alternatives
 * ⭐ **Revolt Tools** - [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) / [Divolt Resources](https://github.com/ggtylerr/awesome-divolt)
 * ⭐ **[Discord ChatGPT](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chatgpt_discord_bots)** - ChatGPT Discord Bots
+* ⭐ **[CustomRP](https://www.customrp.xyz/)** - Customize Discord Rich Presence 
 * [Velocity](https://velocity-discord.netlify.app/) - Discord Client Mod
 * [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - Discord Tools
 * [ArmCord](https://github.com/ArmCord/ArmCord) - Lightweight Discord Client
@@ -1314,7 +1316,6 @@
 * [Disbox](https://disboxapp.github.io/web/) - Discord Cloud Storage
 * [CloneCord](https://github.com/Rekulous/CloneCord-bot) - GClone Cloud Storage File Manager in Discord
 * [Discord RPC Index](https://github.com/topics/discord-rich-presence) - Discord Rich Presence Index
-* [Custom Discord RPC](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_custom_rich_discord_presence) - Customize Discord Rich Presence 
 * [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - Discord Rich Presence Manager
 * [FetchCord](https://github.com/fetchcord/FetchCord) - OS Discord Rich Presence
 * [RichPresence for Discord](https://chrome.google.com/webstore/detail/richpresence-for-discord/glpejjlbjjegcemceejaipihnhjkaddf) - Chrome Discord Rich Presence
@@ -1587,7 +1588,8 @@
 * [Twitchls](https://twitchls.com/) - HTML5 Twitch Stream Player
 * [Alternate Player for Twitch.tv](https://pastebin.com/Z7NWxSfA) - Alt Twitch Player
 * [Orion](https://alamminsalo.github.io/orion/), [Twitch App](https://gitlab.com/twitch-application/application) or [Tress](https://gitlab.com/Ignamarte/tress) - Twitch Desktop Clients
-* [Twitch Replay](https://www.twitch-replay.com/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/), [TwitchTheater](https://twitchtheater.tv/) or [MultiTwitch](https://www.multitwitch.tv/) - Sync Twitch Videos
+* [Twitch Replay](https://www.twitch-replay.com/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/), [TwitchTheater](https://twitchtheater.tv/) or [MultiTwitch](https://www.multitwitch.tv/) - Sync Twitch Videos w/ Friends
+* [VodSync](https://vodsync.tv/) - Sync Streamer Perspectives
 * [Twitch DVR](https://github.com/caeleel/twitch-dvr) - Enable DVR on Twitch
 * [Twitch Now](https://addons.mozilla.org/en-US/firefox/addon/twitch-now_/) or [Gumbo](https://github.com/seldszar/gumbo) - 
 Twitch Stream Tracker
@@ -1635,6 +1637,7 @@ Twitch Stream Tracker
 * [OldTwitter](https://github.com/dimdenGD/OldTwitter) - Original Twitter Theme
 * [Tweak New Twitter](https://github.com/insin/control-panel-for-twitter) or [twttr](https://github.com/sr2echa/twttr) - Twitter Enhancement Extensions
 * [TweetDuck](https://github.com/chylex/TweetDuck) - Twitter Desktop Client
+* [Twitter Plus](https://greasyfork.org/en/scripts/387969) - View Twitter Origin Images
 * [Social Searcher](https://www.social-searcher.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - Search Twitter
 * [TwitLonger](https://www.twitlonger.com/) - Make Longer Tweets
 * [Typefully](https://typefully.com/) - Schedule Tweets
@@ -1650,10 +1653,10 @@ Twitch Stream Tracker
 * [FollowerWonk](https://followerwonk.com/) - Find, Analyze & Optimize Followers
 * [TagGPT](https://tagsgpt.com/) - Hashtag Generator
 * [Buhitter](https://buhitter.com/) - Twitter Illustration Search
-* [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/) or [sssTwitter](https://ssstwitter.com/) - Download Twitter Videos
+* [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [TwitterVid](https://twittervid.com/) or [sssTwitter](https://ssstwitter.com/) - Download Twitter Videos
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
 * [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) - Tweet Archiving
-* [Twitual](http://twitual.com/) - Follower / Following Analysis 
+* [Twitual](http://twitual.com/) - Follower / Following Analysis
 * [Twitter Intelligence](https://github.com/batuhaniskr/twitter-intelligence) - Python Twitter Tracking & Analysis Tool
 * [Twayback Machine](http://staringispolite.github.io/twayback-machine/) - View a Users Old Tweets
 * [Hoaxy](https://hoaxy.osome.iu.edu/) - Twitter Info Spread Data
@@ -2162,7 +2165,7 @@ Twitch Stream Tracker
 * [onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - Self-Hosted Directory
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4gb
 * [mf-dl](https://gitgud.io/Pyxia/mf-dl/) or [mediafire_bulk_downloader](https://github.com/NicKoehler/mediafire_bulk_downloader) - Mediafire File Downloader
-* [One Leaf](https://oneleaf.icu/) - Baidu Netdisk Downloader
+* [One Leaf](https://oneleaf.icu/) or [PanDownload](https://baidu.gamesdrive.net/) - Baidu Netdisk Downloaders
 * [Download from Pan.Baidu w/o Account](http://web.archive.org/web/20220815091218/https://gist.github.com/mfiro/b0bdf5f4054a34c36bf3a8e6d9bf5397)
 * [InfiniDrive](https://github.com/nicomda/InfiniDrive) - Unlimited Cloud Drive using Amazon Prime Photos
 * [Nextcloud](https://nextcloud.com/) - Safe data storage / [Unofficial Providers](https://nextcloud.com/signup/)
