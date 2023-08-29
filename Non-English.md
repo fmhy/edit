@@ -26,7 +26,7 @@
 
 ## ▷ Torrenting
 
-* [ArabP2P](https://www.arabp2p.net/) - Video / Software / Games / Android
+* [ArabP2P](https://www.arabp2p.net/) - Video   
 
 ## ▷ Streaming
 
@@ -45,7 +45,7 @@
 * [Shafilm](https://shafilm.vip/) - Movies / TV / Anime / Cartoons
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons
 * [ArabLionz](https://arablionz.watch/) - Movies / TV
-* [cima-club](https://cimaclllb.mom/) - TV / Anime
+* [cima-club](https://cima-club.vip/) - TV / Anime
 * [eshiq](https://e3sk.com/) - Turkish TV
 * [asia2tv](https://asia2tv.cn/) - Asian Drama
 * [animebdk](https://animebdk.blogspot.com/) - Anime
@@ -115,7 +115,7 @@
 
 ## ▷ Torrenting
 
-* [Zamunda](https://zamunda.net/) - Registration Required / Video / Audio / Software / Games / Books / NSFW
+* [Zamunda](https://zamunda.net/) - Registration Required / Video / Audio/ Books / NSFW
 
 ## ▷ Streaming
 
@@ -198,11 +198,11 @@
 
 ## ▷ Torrenting
 
-* [Csze BT](https://bt.orzx.im/) - Video / Audio / Software / Games / Books
-* [acgnx](https://www.acgnx.se/) - Video / Audio / Software / Books / NSFW
-* [Share.dmhy](http://share.dmhy.org/) - Anime / Manga / Games / Music
-* [VGMUpdate](http://www.vgmupdate.com/) - Video / Games / Manga / NSFW
-* [XiaZai001](https://xiazai001.org/) - Video / Audio / Software
+* [Csze BT](https://bt.orzx.im/) - Video / Audio/ Books
+* [acgnx](https://www.acgnx.se/) - Video / Audio  / Books / NSFW
+* [Share.dmhy](http://share.dmhy.org/) - Anime / Manga  / Music
+* [VGMUpdate](http://www.vgmupdate.com/) - Video  / Manga / NSFW
+* [XiaZai001](https://xiazai001.org/) - Video / Audio 
 * [dytt8](https://dytt8.net/), [dy2018](https://dy2018.com/), [ygdy8](https://ygdy8.com/index.html) or [dydytt](https://www.dydytt.net) - Movies / TV / Anime
 * [ygdy8](https://www.ygdy8.net/) - Movies / TV / Anime
 * [DoMP4](https://www.mp4us.com/) - Movies / TV
@@ -227,7 +227,7 @@
 * [Movie Forest](https://549.tv/) - Index of Chinese Streaming Sites
 * [PangzITV](https://pangzitv.com/) - Movies / TV / Anime
 * [tangrenjie](https://www.tangrenjie.tv/) - Movies / TV / Anime
-* [ddrk](https://ddrk.me/) - Movies / TV / Anime
+* [ddrk](https://ddys.pro/) - Movies / TV / Anime
 * [Tencent Video](https://v.qq.com/) - Movies / TV / Anime / [Downloader](https://weibomiaopai.com/online-video-downloader/tencent)
 * [MoMoVOD](https://momovod.app/) - Movies / TV / Anime
 * [uvod.tv](https://www.uvod.tv/) - Movies / TV / Anime
@@ -291,7 +291,7 @@
 * [118book](https://www.118book.com/) - Light-Novels
 * [ffxs8](https://ffxs8.com/) - Light-Novels
 * [Piaotian](https://www.ptwxz.com/) - Light-Novels
-* [Shuquge](https://www.ishuquge.la/) - Light-Novels
+* [Shuquge](https://www.ishuquge.org/) - Light-Novels
 * [Baozimh](https://www.baozimh.com/) - Webtoons
 * [Doujin Fiction Network](https://www.trxs.me/) or [Readfine](https://t.me/Readfine) / [Discussion](https://t.me/ReadfineChat) - FanFiction
 * [ishare.iask](https://ishare.iask.sina.com.cn/) - Documents
@@ -321,12 +321,12 @@
 
 ## ▷ Downloading
 
-* [War-Forum](https://war-forum.net/) - Video / Audio / Software / Games / Books / Magazines / Comics / NSFW
-* [WarezCenter](https://warcenter.cz/) - Video / Audio / Software / Games / Books / Android / NSFW
+* [War-Forum](https://war-forum.net/) - Video / Audio/ Books / Magazines / Comics / NSFW
+* [WarezCenter](https://warcenter.cz/) - Video / Audio/ Books  / NSFW
 
 ## ▷ Torrenting
 
-* [hd-cztorrent](http://www.hd-cztorrent.cz/) - Video / Audio / Software / Games / NSFW
+* [hd-cztorrent](http://www.hd-cztorrent.cz/) - Video / Audio/ NSFW
 
 ## ▷ Streaming
 
@@ -389,7 +389,7 @@
 * [mega-p2p](https://www.mega-p2p.net/) - Warez Lists
 * [Seekr](https://w7w.files-seekr.com/) - Download Search Files
 * [Pixel Downloader](https://github.com/valentintintin/pixel-downloader) - French / Download Search Tool
-* [WawaCity](https://www.wawacity.bet/) - Video / Audio / Books / Magazines / Software / Android / Use AdBlocker
+* [WawaCity](https://www.wawacity.bet/) - Video / Audio / Books / Magazines/ Use AdBlocker
 * [9docu](https://9docu.org/) - Documentaries
 * [DBFree](http://dbfree.me/) - Books
 * [FRDownMags](https://fr.downmagaz.net/) - Magazines
@@ -399,19 +399,19 @@
 
 ## ▷ Torrenting
 
-* [YggTorrent](https://www3.yggtorrent.wtf/) - Video / Audio / Roms / Software / Books / Android / Comics
-* [Torrent9](https://www.torrent9.fm/), [2](https://www.torrent9.site/), [3](https://torrent9.app/) - Video / Audio / Software / Games / Roms / Books
-* [Torrent911](https://www.torrent911.me/)  - Video / Audio / Software / Games / Roms / Books
-* [OxTorrent](https://oxtorrents.co/) - Video / Audio / Software / Games / Roms / Books
-* [Cpasbien](https://www.cpasbien.tw/) - Video / Audio / Books / Software / Games / ROMs
-* [Zetorrents](https://www.zetorrents.pw/) - Video / Audio / Software / Games / ROMs / Books
-* [Torrent411](https://www.torrent411.to/) - Video / Audio / Software / Games / ROMs / Books
-* [Sharewood](https://www.sharewood.tv/) - Video / Audio / Software / Games / ROMs / Books
+* [YggTorrent](https://www3.yggtorrent.wtf/) - Video / Audio / Roms  / Books  / Comics
+* [Torrent9](https://www.torrent9.fm/), [2](https://www.torrent9.site/), [3](https://torrent9.app/) - Video / Audio/ Roms / Books
+* [Torrent911](https://www.torrent911.me/)  - Video / Audio/ Roms / Books
+* [OxTorrent](https://oxtorrents.co/) - Video / Audio/ Roms / Books
+* [Cpasbien](https://www.cpasbien.tw/) - Video / Audio / Books/ ROMs
+* [Zetorrents](https://www.zetorrents.pw/) - Video / Audio/ ROMs / Books
+* [Torrent411](https://www.torrent411.to/) - Video / Audio/ ROMs / Books
+* [Sharewood](https://www.sharewood.tv/) - Video / Audio/ ROMs / Books
 
 ## ▷ Streaming
 
 * ⭐ **[Sadisflix](https://sadisflix.day/)** - Movies / TV / [Telegram](https://t.me/sadisflix)
-* [WawaCity](https://www.wawacity.bet/) - Video / Audio / Books / Magazines / Software / Android / Use Adblocker
+* [WawaCity](https://www.wawacity.bet/) - Video / Audio / Books / Magazines/ Use Adblocker
 * [kinoger](https://kinoger.com/), [2](https://www.kinoger.to/) - Movies / TV / Anime
 * [quedustreaming](https://wawa-streams.com/) - Movies / TV / Anime
 * [MesFilms](https://mesfilms.sbs/) - Movies / TV / Anime
@@ -474,27 +474,27 @@
 * [Crawli](https://crawli.net/) - Download Search
 * [ArchivX](https://www.archivx.to/) - Warez / List
 * [LinkR](https://www.linkr.top/index.php) - Warez / List
-* [DarkLight](https://board.darklight.to/) - Video / Audio / Games / ROMs / Software / Books / Magazines / NSFW
-* [Goldesel](https://goldesel.bz/) - Video / Audio / Software / Games / Android / NSFW
-* [byte.to](https://byte.to/) - Video / Audio / Software / Android / Books / NSFW
-* [ngb](https://ngb.to/) - Video / Software / Audio / Books / Android
-* [Warez-World](https://warez-world.org/) - Video / Audio / Games / Books / Magazines / NSFW
+* [DarkLight](https://board.darklight.to/) - Video / Audio  / ROMs  / Books / Magazines / NSFW
+* [Goldesel](https://goldesel.bz/) - Video / Audio / NSFW
+* [byte.to](https://byte.to/) - Video / Audio/ Books / NSFW
+* [ngb](https://ngb.to/) - Video  / Audio / Books 
+* [Warez-World](https://warez-world.org/) - Video / Audio  / Books / Magazines / NSFW
 * [hd-source](https://hd-source.to/) - Video / NSFW
 * [MLCBoard](https://mlcboard.com/) - Movies
 * [Nima4k](https://nima4k.org/) - Movies / TV / Documentaries / Music
 * [Deutsche Filme](https://t.me/deutsche_filme_german_movies) or [GERMAN MOVIES](https://t.me/german_movie_channel)- Movies / Telegram
-* [Boerse](https://myboerse.bz/) - Video / Audio / Software / Android / NSFW
+* [Boerse](https://myboerse.bz/) - Video / Audio/ NSFW
 * [Animes.so](https://www.animes.so/) - Anime
 * [37.187.112](http://37.187.112.153/) - Anime
 * [serienjunkies](https://serienjunkies.org/) - TV
 * [CannaPower](https://canna-power.to/) - Music / Audiobooks
-* [DDL-Warez](https://ddl-warez.cc/) - Movies / TV / Games / Software / NSFW
+* [DDL-Warez](https://ddl-warez.cc/) - Movies / TV/ NSFW
 
 ## ▷ Streaming
 
 * ⭐ **[kinoking](https://kinoking.cc/)** - Movies / TV / Anime
 * [StartSeite](https://startseite.to/) - Movies / TV / NSFW / List
-* [streamkiste](https://streamkiste.tv/), [2](https://streamkiste.fan/) - Movies / TV
+* [streamkiste](https://streamkiste.fan/) - Movies / TV
 * [filmpalast](https://filmpalast.to/) - Movies / TV
 * [Film Palast](https://filmpalast.info/) - Movies / TV
 * [TopStreamFilm](https://topstreamfilm.io/) - Movies / TV
@@ -540,11 +540,10 @@
 
 ## ▷ Downloading
 
-* [Warez.Ge](http://warez.ge/) - Video / Audio / Games / Software / Android
+* [Warez.Ge](http://warez.ge/) - Video / Audio   
 
 ## ▷ Streaming
 
-* [adjaranet](https://www.adjaranet.com/) - Movies / TV
 * [AsianDrama](https://asiandrama.ge/) - Drama
 * [animetv](https://animetv.night-city.online/) - Anime
 
@@ -751,14 +750,16 @@
 
 ## ▷ Downloading
 
-* [eurekaddl](https://eurekaddl.skin/) - Video / Audio / Software / Games / Books / Magazines / Comics / Android / NSFW
-* [OverDay](https://overday.info/) - Software / Games / Android / Courses / Books
+* [eurekaddl](https://eurekaddl.skin/) - Video / Audio/ Books / Magazines / Comics  / NSFW
+* [OverDay](https://overday.info/) - Software/ Courses / Books
 * [HD4Me](https://hd4me.net/) - Movies
 * [BMZone](https://github.com/nbats/FMHYedit/blob/main/base64.md#bmzone) - Anime
 * [XDCC Mule](https://www.xdccmule.org/) - IRC Download Search
 
 ## ▷ Torrenting
 
+* [ilCorSaRoNeRo](https://ilcorsaronero.link/) - Video / Audio  
+* [icv-crew](https://www.icv-crew.com/) - Video / Audio  
 * [MIRCrew](https://mircrew-releases.org/) - Movies / TV / Anime
 
 ## ▷ Streaming
@@ -798,9 +799,9 @@
 
 ## ▷ Downloading
 
-* [Akiba-Online](https://www.akiba-online.com/) - Video / Audio / Games / Comics / NSFW
-* [Asia Media Blog](https://asiamediablog.com/) - Video / Audio / Software / Games / Magazines
-* [Japan Media Blog](https://t.me/japanmusicfree) - Video / Audio / Software / Games
+* [Akiba-Online](https://www.akiba-online.com/) - Video / Audio  / Comics / NSFW
+* [Asia Media Blog](https://asiamediablog.com/) - Video / Audio/ Magazines
+* [Japan Media Blog](https://t.me/japanmusicfree) - Video / Audio  
 * [JPFILES](https://jpfiles.eu/) - Video / Audio / Books / NSFW
 * [jpddl](https://jpddl.com/) - Manga / Anime / Music / Drama
 * [JPLearner](http://www.jplearner.to/) - Video / Manga / Magazines
@@ -889,7 +890,7 @@
 ## ▷ Downloading
 
 * [JPFILES](https://jpfiles.eu/) - Video / Audio / Books / NSFW
-* [PDPop](https://www.pdpop.com/) - Video / Games / Books / NSFW
+* [PDPop](https://www.pdpop.com/) - Video  / Books / NSFW
 * [WeDisk](https://www.wedisk.co.kr/) - Movies / TV
 * [CinEast](https://cineaste.co.kr/) - Movies
 * [J-pop Music Download](https://jpop.xyz/) - Music
@@ -902,7 +903,7 @@
 
 ## ▷ Torrenting
 
-* [TorrentHaja](https://torrenthaja.com/) - Video / Audio / Games / Software / Books
+* [TorrentHaja](https://torrenthaja.com/) - Video / Audio/ Books
 
 ## ▷ Streaming
 
@@ -913,7 +914,7 @@
 ## ▷ Reading
 
 * [kakao](https://page.kakao.com/) - Manga
-* [MangaViewAndroid](https://github.com/junheah/MangaViewAndroid) - Manga / Android
+* [MangaViewAndroid](https://github.com/junheah/MangaViewAndroid) - Manga 
 * [Dict.Naver](https://dict.naver.com/) - Korean Dictionary
 * [Namu Wiki](https://namu.wiki/) - Korean Wiki
 
@@ -960,15 +961,15 @@
 
 ## ▷ Downloading
 
-* ⭐ **[downloadha](https://www.downloadha.com/)** - Video / Audio / Software / Games / Android
+* ⭐ **[downloadha](https://www.downloadha.com/)** - Video / Audio   
 * [TelFiles_Bot](https://t.me/TelFiles_Bot) - Persian File to Direct Link Telegram Bot
 * [soft98](https://soft98.ir/) - Software / Courses / eBooks
 * [Persian Telegram Courses](https://rentry.co/sn66v)
 * [Old Persian Games](https://oldpersiangames.org/) - Iranian Made and Persian Dubbed Games
 * [TeleLeecherbot](https://t.me/TeleLeecherbot) or [kLeechBot](https://t.me/kLeechBot) - Persian Movie Leech Telegram Bots
 * [FilmgramBot](https://t.me/FilmgramBot) or [FileMovieBot](https://t.me/FileMovieBot) - Persian Movie Search Telegram Bots
-* [Download.ir](https://download.ir/) - Software / Video / Android / Games / Roms
-* [Patoghu](https://patoghu.com/) - Video / Audio / Software / Android / Games
+* [Download.ir](https://download.ir/) - Software / Video/ Roms
+* [Patoghu](https://patoghu.com/) - Video / Audio   
 * [dl1.3rver](https://dl1.3rver.org/), [2](https://dl3.3rver.org/) - Movies / TV
 * [dlfars](https://dlfars.pw/) - Movies / TV / Anime
 * [RooDL](https://roozdl1.com/) - Movies / TV / Anime
@@ -1044,21 +1045,20 @@
 
 ## ▷ Downloading
 
-* [BlueWarez](https://www.bluewarez.pl/) - Video / Audio / Games / Software / Books / Audiobooks / NSFW
-* [pobieramy24](https://pobieramy24.xyz/) - Video / Audio / Software / Games / Android / Books / Audiobooks / NSFW
-* [Pijafka](https://pijafka.pl/) - Video / Audio / Software / Games / Books / Comics
-* [Files4You](https://www.files4you.org/) - Video / Audio / Software / Games / Android / Books / Audiobooks / NSFW
-* [Warezik](https://www.warezik.eu/) - Video / Audio / Software / Games / Books
-* [Dark Machine](https://darkmachine.pl/) - Video / Audio / Games / Software / Books / Audiobooks / Android / NSFW
+* [BlueWarez](https://www.bluewarez.pl/) - Video / Audio/ Books / Audiobooks / NSFW
+* [pobieramy24](https://pobieramy24.xyz/) - Video / Audio / Books / Audiobooks / NSFW
+* [Files4You](https://www.files4you.org/) - Video / Audio / Books / Audiobooks / NSFW
+* [Warezik](https://www.warezik.eu/) - Video / Audio/ Books
+* [Dark Machine](https://darkmachine.pl/) - Video / Audio/ Books / Audiobooks  / NSFW
 * [animezone](https://www.animezone.pl/) - Anime
 
 ## ▷ Torrenting
 
-* [BitNova](https://bitnova.info/) - Video / Audio / Software / Games / Books / NSFW
-* [polskie-torrenty](https://polskie-torrenty.net.pl/) or [helltorrents](http://helltorrents.com/) - Video / Audio / Software / Games / Books / NSFW
-* [devil-torrents](https://devil-torrents.pl/) - Video / Audio / Software / Games / Books / NSFW
-* [TorrentCity](https://torrentcity.pl/) - Video / Audio / Software / Games / Books / Comics / NSFW
-* [VTorrent](https://vtorrent.pl/) - Video / Audio / Software / Games / Books / NSFW
+* [BitNova](https://bitnova.info/) - Video / Audio/ Books / NSFW
+* [polskie-torrenty](https://polskie-torrenty.net.pl/) or [helltorrents](http://helltorrents.com/) - Video / Audio/ Books / NSFW
+* [devil-torrents](https://devil-torrents.pl/) - Video / Audio/ Books / NSFW
+* [TorrentCity](https://torrentcity.pl/) - Video / Audio/ Books / Comics / NSFW
+* [VTorrent](https://vtorrent.pl/) - Video / Audio/ Books / NSFW
 * [PolishSource](https://polishsource.cz/)
 
 ## ▷ Streaming
@@ -1118,7 +1118,7 @@
 ## ▷ Downloading
 
 * ⭐ **[WR Educacional](https://www.wreducacional.com.br)** - Courses
-* [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Software / Games / Books
+* [Rei dos Torrents](https://reidostorrents.com) - Video / Audio/ Books
 * [Os Reformados](https://osreformados.com) - Video / Audio / Magazines
 * [Baixar Séries MP4](https://baixarseriesmp4.eu) - Movies / TV / Anime
 * [Animes Totais](https://www.animestotais.xyz) - Movies / TV / Anime / Cartoons
@@ -1134,7 +1134,7 @@
 ## ▷ Torrenting
 
 * ⭐ **[Download Cursos Grátis](https://downloadcursos.top)** - Courses / Use Adblock
-* [Rei dos Torrents](https://reidostorrents.com) - Video / Audio / Software / Games / Books
+* [Rei dos Torrents](https://reidostorrents.com) - Video / Audio/ Books
 * [DownFilmes](https://downfilmes.info) - Movies / TV
 * [Torrent dos Filmes](https://torrentdosfilmes.se) - Movies / TV
 * [Comando](https://comando.la) - Movies / TV
@@ -1343,15 +1343,15 @@
 
 ## ▷ Downloading
 
-* ⭐ **[HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html)** - Movies / TV / Anime / Android / Aggregator / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
+* ⭐ **[HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html)** - Movies / TV / Anime  / Aggregator / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * ⭐ **[4PDA](https://4pda.to/forum/)** - Android / iOS
 * [DC Hublist](https://dchublist.ru/hubs/) - Warez / List
 * [rublacklist](https://reestr.rublacklist.net/?status=1&gov=4&paginate_by=50), [2](https://reestr.rublacklist.net/?status=1&gov=24&paginate_by=50) - Warez list
-* [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio / Software / Games / Android
-* [rsload](https://rsload.net/) - Software / Android / Games
-* [m0nkrus](https://w14.monkrus.ws/) - Warez / Software
+* [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio   
+* [rsload](https://rsload.net/) - Software  
+* [m0nkrus](https://w14.monkrus.ws/) - Warez 
 * [Flibustier](https://flibustier64.com/) - Software / OS
-* [2BakSa](http://2baksa.ws/) - Video / Audio / Games / Software / Books
+* [2BakSa](http://2baksa.ws/) - Video / Audio/ Books
 * [Allmults](https://allmults.org/) - Cartoons
 * [tancpol](https://tancpol.net/) - MP3
 * [z2.fm](https://z2.fm/) - MP3
@@ -1366,28 +1366,28 @@
 
 ## ▷ Torrenting
 
-* ⭐ **[RuTracker](https://rutracker.nl/)**, [2](http://rutracker.org), [3](https://rutracker.net/) - Video / Audio / Games / Software / Android / Comics / Magazines
+* ⭐ **[RuTracker](https://rutracker.nl/)**, [2](http://rutracker.org), [3](https://rutracker.net/) - Video / Audio Software / Comics / Magazines
 * [toptracker](https://toptracker.ru/) - Torrent Site List
 * [UpTracker](https://www.uptracker.ru/) - Torrent Tracker Index
 * [krasfs](https://krasfs.ru/) - Torrent Search
 * [torrent.by](http://torrent.by/) - Torrent Search
-* [rutracker.ru](http://rutracker.ru/) - Video / Audio / Games / Books / Software / Android / NSFW
-* [rutor](http://rutor.info/) - Video / Audio / Games / Software / Books / Roms / Magazines
-* [NNTT](http://www.nntt.org/) - Video / Audio / Software / Games / Books / Magazines / Android
-* [PB.wtf](https://pb.wtf/) - Video / Audio / Software / Games / Books / Comics / Magazines / Android / NSFW
-* [Riper.AM](http://riperam.org/) - Video / Audio / Software / Games / Books / Magazines / Android / NSFW
-* [Tapochek](https://tapochek.net/) - Video / Audio / Software / Games / Books
-* [Korsars](http://korsars.pro/) - Video / Audio / Software / Games / Books
-* [nionDHT](http://uniondht.org/) - Video / Audio / Software / Games / Books / NSFW
-* [SeedOff](https://seedoff.zannn.top/) - Video / Audio / Software / Games / Books
-* [rustorka](http://rustorka.com/forum/index.php) - Games / Roms / Audio / Books / Magazines / Software / Android / Video
-* [NNM-Club](https://nnmclub.to/) - Video / Audio / Software / Games
-* [Spaider](http://spaider.net/) - Video / Audio / Software / Games / Roms
-* [DDGroupClub](http://ddgroupclub.win/) - Video / Audio / Software / Games / Roms / Books
-* [Utor.pp](http://utor.pp.ua/) - Video / Audio / Software / Games / Roms / Books
+* [rutracker.ru](http://rutracker.ru/) - Video / Audio  / Books / NSFW
+* [rutor](http://rutor.info/) - Video / Audio/ Books / Roms / Magazines
+* [NNTT](http://www.nntt.org/) - Video / Audio/ Books / Magazines 
+* [PB.wtf](https://pb.wtf/) - Video / Audio/ Books / Comics / Magazines  / NSFW
+* [Riper.AM](http://riperam.org/) - Video / Audio / Books / Magazines  / NSFW
+* [Tapochek](https://tapochek.net/) - Video / Audio/ Books
+* [Korsars](http://korsars.pro/) - Video / Audio / Books
+* [nionDHT](http://uniondht.org/) - Video / Audio/ Books / NSFW
+* [SeedOff](https://seedoff.zannn.top/) - Video / Audio / Books
+* [rustorka](http://rustorka.com/forum/index.php) - Games / Roms / Audio / Books / Magazines/ Video
+* [NNM-Club](https://nnmclub.to/) - Video / Audio  
+* [Spaider](http://spaider.net/) - Video / Audio/ Roms
+* [DDGroupClub](http://ddgroupclub.win/) - Video / Audio/ Roms / Books
+* [Utor.pp](http://utor.pp.ua/) - Video / Audio/ Roms / Books
 * [Fast torrent](http://fast-torrent.ru/) - Movies / TV / Anime
 * [BigFanGroup](https://bigfangroup.org/) - Movies / TV / Anime
-* [ByTorent](http://bytorent.ru/) - Video / Audio / Software
+* [ByTorent](http://bytorent.ru/) - Video / Audio 
 * [Animelayer](http://animelayer.ru/) - Anime
 * [kinozal](http://kinozal.tv/) - Movies
 * [androidkino](https://androidkino.net/) - Movies / TV
@@ -1402,7 +1402,7 @@
 * ⭐ **[rezka](https://rezka.ag/)** - Movies / TV / Anime
 * ⭐ **[Yohoho](https://yohoho.cc/), [2](https://4h0y.gitlab.io/)** - Movies / Anime
 * ⭐ **[KinoProfi](https://content.kinoprofi.club/)** -  Movies / Series / Cartoons
-* [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Android / Aggregator / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
+* [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime  / Aggregator / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * [baskino](http://baskino.me/) - Movies
 * [KinoGo](https://kinogo.la/) - Movies / TV / Anime / [Telegram](https://t.me/kinogoby)
 * [Kinotochka](https://kinotochka.co/) - Movies / TV / Anime
@@ -1522,13 +1522,13 @@
 
 ## ▷ Downloading
 
-* ⭐ **[DescargasDD](https://descargasdd.org/)** - Video / Audio / Software / Games / Castilian / Latino / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
-* ⭐ **[ForoWarez](https://forowarez.info/)** - Video / Audio / Reading / NSFW / Software / Games / Castilian / Latino
-* [identi](https://identi.io/) - Video / Audio / Reading / Software / Games / Latino / Castilian
-* [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Software / Games
-* [Guns's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Games
-* [Cultura Para Todos](https://culturaparatodos.eu/) - Video / Audio / Reading / Software / Games
-* [Flipax2](https://flipax2.me/) - Video / Audio / Reading / Software / Games
+* ⭐ **[DescargasDD](https://descargasdd.org/)** - Video / Audio/ Castilian / Latino / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
+* ⭐ **[ForoWarez](https://forowarez.info/)** - Video / Audio / Reading / NSFW/ Castilian / Latino
+* [identi](https://identi.io/) - Video / Audio / Reading/ Latino / Castilian
+* [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading  
+* [Guns's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading 
+* [Cultura Para Todos](https://culturaparatodos.eu/) - Video / Audio / Reading  
+* [Flipax2](https://flipax2.me/) - Video / Audio / Reading  
 * [La Taberna Del Cangrejo](http://www.latabernadelcangrejo.eu/) - Video / Audio
 * [Zypeliculashd](https://zypeliculashd.net/) - Movies / TV / Anime
 * [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / Latino / Castilian
@@ -1567,7 +1567,7 @@
 
 ## ▷ Torrenting
 
-* ⭐ **[DonTorrent](https://dontorrent.company/)**, [2](https://donproxies.com/) - Movies / TV / Documentaries / Games / Castilian / [Telegram](https://t.me/s/dontorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
+* ⭐ **[DonTorrent](https://dontorrent.company/)**, [2](https://donproxies.com/) - Movies / TV / Documentaries  / Castilian / [Telegram](https://t.me/s/dontorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
 * ⭐ **[MejorTorrent](https://www1.mejortorrent.rip/)** -  Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/MejorTorrentAp)
 * ⭐ **[Grantorrent.wtf](https://grantorrent.wtf/)** - Movies / TV / Documentaries / Castilian
 * ⭐ **[Elitetorrent](https://www.elitetorrent.wf/)** - Movies / TV / Anime / Castilian / Latino / VOSE
@@ -1863,7 +1863,7 @@
 
 ## ▷ Downloading
 
-* [Fshare](https://timfshare.com/) - Video / Audio / Software / Games
+* [Fshare](https://timfshare.com/) - Video / Audio  
 * [PhimDidibkk](https://phim.didibkk.com/) - Movies / TV / Anime
 * [CineTV](https://thuviencine.com/) - Movies / TV / Anime
 * [ThuvienHD](https://thuvienhd.com/) - Movies / TV / Anime
@@ -1875,8 +1875,8 @@
 
 ## ▷ Torrenting
 
-* [NetHD](https://nethd.org/) - Video / Audio / Software / Games
-* [3ChangTrai](https://3changtrai.com/) - Video / Audio / Software
+* [NetHD](https://nethd.org/) - Video / Audio  
+* [3ChangTrai](https://3changtrai.com/) - Video / Audio 
 
 ## ▷ Streaming
 
@@ -1960,7 +1960,7 @@
 * [Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drama_streaming)
 * [Einthusan](https://einthusan.tv/intro/) - South Asian Films Archive
 * [Jainism Library of Jain Literature](http://www.atmadharma.com/index.html) - Sacred Texts / Religion / Multi Language
-* [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio / Software / Games / Books / Comics
+* [BalkanDownload](https://balkandownload.org/) - Croatian / Download / Video / Audio/ Books / Comics
 * [AnimeBalkan](https://animebalkan.org/) - Croatian / Streaming / Anime
 * [wlext](https://wlext.is/) - Turkish / Filipino / Thai / Streaming / Movies
 * [tagalogdubbed](https://tagalogdubbed.com/) - Tagalog / Streaming / Movies / TV
