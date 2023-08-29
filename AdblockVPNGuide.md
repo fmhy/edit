@@ -147,6 +147,7 @@
 * [SigThief](https://github.com/secretsquirrel/SigThief) - Signature Test
 * [YARA](https://virustotal.github.io/yara/) - Malware Identification Tool
 * [Winitor](https://www.winitor.com/) - EXE Malware Assessment
+* [Farbar](https://www.bleepingcomputer.com/forums/t/781976/) - Malware Analysis Tool
 * [Any Run](https://app.any.run/) - Malware Analysis Sandbox
 * [WhatsApp Media Decrypt](https://github.com/ddz/whatsapp-media-decrypt) - Decrypt WhatsApp Media Files
 * [Package Analysis](https://github.com/ossf/package-analysis) - Open Source Package Analysis
