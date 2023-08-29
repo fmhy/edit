@@ -59,8 +59,6 @@
 * [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Stanford's Chatbot / [LoRA Implementation](https://github.com/tloen/alpaca-lora) / [GUI](https://github.com/ItsPi3141/alpaca-electron) / [WebUI](https://serge.chat/)
 * [FreedomGPT](https://freedomgpt.com/) - Alpaca Based Chatbot / [Github](https://github.com/ohmplatform/FreedomGPT/) / [Discord](https://discord.com/invite/h77wvJS4ga)
 * [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
-* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Autonomous GPT-4 / [GUI](https://github.com/thecookingsenpai/autogpt-gui)
-* [MiniAGI](https://github.com/muellerberndt/mini-agi) - Autonomous GPT-3.5 / GPT-4
 * [AgentRunner](https://www.agentrunner.ai/) - Create Autonomous AI Agents
 * [Instrukt](https://github.com/blob42/Instrukt) - AI Testing Environment
 * [Dify](https://dify.ai/) - Create AI Apps
