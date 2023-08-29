@@ -2962,16 +2962,16 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-#### Typing Lessons
+#### Typing Tests and Lessons
 
-* ⭐ **[TypingSoft](https://typingsoft.com/)**
-* ⭐ **[TypeLit.io](https://www.typelit.io/)**
-* [Typing Finger Positions](https://i.ibb.co/L8VY6xR/Finger-position-on-a-keyboard.png) - Typing Finger Position Cheatsheet
-* [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - Touch Typing Tutorial
-
-**Lessons** - [keybr](https://www.keybr.com/), [Monkey Type](https://monkeytype.com/), [Typing.com](https://www.typing.com/), [Colemak Academy](https://www.colemak.academy/), [klavaro](https://klavaro.sourceforge.io/), [TIPP10](https://www.tipp10.com/), [RapidTyping](https://rapidtyping.com/), [Typing Club](https://www.typingclub.com/), [Ratatype](https://www.ratatype.com/), [JustType](http://www.greatis.com/utilities/justtype/), [Rasyti](https://www.blueseal.eu/rasyti/), [SoloTyping](https://solo.nabiraem.ru/), [TypeFast](https://typefast.io/), [TypingBolt](https://www.typingbolt.com/), [AmpheType](https://code.google.com/archive/p/amphetype/), [Stamina](https://typingsoft.com/stamina.htm),[goodtyping](https://www.goodtyping.com/),  [Typing-Fingers](http://www.typing-fingers.com/), [Typing Arena](http://www.typingarena.com/), [TheTypingCat](https://thetypingcat.com/), [typing.academy](https://www.typing.academy/), [TechTypingTutor](https://sourceforge.net/projects/tachtypingtutor/), [klavaro](https://sourceforge.net/projects/klavaro/), [TypingTest](https://www.typingtest.com/), [10fastfingers](https://10fastfingers.com/), [onlinetyping](https://onlinetyping.org/), [Thokr](https://github.com/jrnxf/thokr), [Ttyper](https://github.com/max-niederman/ttyper), [TermTyper](https://github.com/kraanzu/termtyper), [CodeType](https://code-type.vercel.app/), [kbs](https://kbs.im/), [TypingStudy](https://www.typingstudy.com/), [Mavis Beacon Teaches Typing](https://archive.org/details/msdos_Mavis_Beacon_Teaches_Typing_1987), [EduClub](https://www.edclub.com/)
-
-**Games** - [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/), [NitroType](https://www.nitrotype.com/), [TypeRush](https://www.typerush.com/)
+* ⭐ **[MonkeyType](https://monkeytype.com/)** - Highly Customizable Typing Tests
+* [TypeLit.io](https://www.typelit.io/) - Practice Typing by Retyping Books
+* [Typing.com](https://www.typing.com/) - Interactive Typing Lessons with Achievements
+* [ColemakAcademy](https://www.colemak.academy/), [klavaro](https://klavaro.sourceforge.io/), [TypingStudy](https://www.typingstudy.com/) - Alternative / Custom Keyboard Typing Tests and Lessons
+* [TypingClub](https://www.typingclub.com/), [typing.academy](https://www.typing.academy/) - Typing Lessons
+* [Ttyper](https://github.com/max-niederman/ttyper) - Terminal Typing Tests
+* [10fastfingers](https://10fastfingers.com/) - Typing Competitions
+* [TypeRacer](https://play.typeracer.com/), [TypeRush](https://www.typerush.com/) - Typing Games
 
 ***
 
