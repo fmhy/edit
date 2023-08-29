@@ -1559,7 +1559,7 @@ Add the following commands to a search to manually scrape each site.
 
 ⭐ **[Online Fix](https://online-fix.me/)** / [Discord](https://discord.gg/yExgFYncMD)
 
-[GameRanger](https://www.gameranger.com/), [zerotier](https://www.zerotier.com/), [wippien](http://www.wippien.com/), [FreeLan](https://www.freelan.org/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/), [XTag](https://www.teamxlink.co.uk/), [P2P Lan Server](https://github.com/kangol11/p2p-online-lan-play/wiki/p2p-lan-server---client-play-lan-games-online-with-anyone), [Blu-Games](https://blu-games.tk/), [softether](https://www.softether.org/), [ZLOEmu](https://zloemu.net/)
+[zerotier](https://www.zerotier.com/), [Radmin](https://www.radmin-vpn.com/), [Hamachi](https://vpn.net/), [XTag](https://www.teamxlink.co.uk/), [Blu-Games](https://blu-games.tk/), [softether](https://www.softether.org/), [ZLOEmu](https://zloemu.net/)
 
 ***
 
