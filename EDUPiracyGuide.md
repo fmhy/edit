@@ -258,7 +258,7 @@
 * ⭐ **[PhET](https://phet.colorado.edu/)**, [Oak National Academy](https://teachers.thenational.academy/), [Academo](https://academo.org/) or [Runestone Interactive](https://runestone.academy/) - Interactive Lessons
 * ⭐ **[vads](https://vads.ac.uk/digital/)**, [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Artcyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](http://wolfmanmuseum.org/), [DarkClassics](https://darkclassics.blogspot.com/), [Arts and Culture](https://artsandculture.google.com/), [WGA](https://www.wga.hu/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collections
 * ⭐ **[Untools](https://untools.co/)** - Better Thinking Tools / Frameworks
-* ⭐ **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)** - Learn to Type Faster
+* ⭐ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)** - Learn to Type Faster
 * [Spreeder](https://www.spreeder.com/) - Learn to Read Faster
 * [/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/) - Have Anything Explained Very Simply
 * [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - Learn With GIFs
@@ -345,7 +345,7 @@
 ## ▷ Games
 
 * ⭐ **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
-* ⭐ **[Typing Lessons & Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
+* ⭐ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
 * ⭐ **[Puzzle Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_puzzle_games)**
 * [Starfall](https://www.starfall.com/)
 * [ABCya!](https://www.abcya.com/)
@@ -393,7 +393,8 @@
 * [Desmos](https://www.desmos.com/) - Graphing Calculator
 * [TicCalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
 * [TI-Basic Developer](http://tibasicdev.wikidot.com/) - TI-Basic Info Repository
-* [SciDAVis ](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotter
+* [insect](https://insect.sh/) - Scientific Calculator
+* ISciDAVis ](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotter
 * [FreeFEM](https://freefem.org/) - Partial Differential Equations Solver
 * [Approach0](https://approach0.xyz/search/) - Math Formula Search
 * [Online Math Tools](https://onlinemathtools.com/) - Multiple Math Tools
@@ -462,6 +463,7 @@
 * [How a Car Works](https://www.howacarworks.com/) - Car Mechanics / Automotive Engineering Guides
 * [Neptune](https://youtu.be/gTNVxHSemxA) or [ERS3D](http://www.ers3d.com/home/moduleInfo.do?moduleId=11&listId=92) - Marine Engineering Room Simulator
 * [HDLBits](https://hdlbits.01xz.net/) - Learn Circuit Design
+* [EasyEDA](https://easyeda.com/editor) - Electronic Circuit Design Tool
 * [FliteTest](https://www.flitetest.com/) - DIY Drone Guides
 * [NandGame](https://nandgame.com/) - Computer Building Puzzle
 
@@ -489,6 +491,7 @@
 * [Get Body Smart](https://www.getbodysmart.com/) - Learn about Human Anatomy and Physiology
 * [NIH Print](https://3d.nih.gov/) - Biomedical Science 3D Models
 * [Glass AI](https://glass.health/ai) - Medical Diagnoses' Training AI
+* [Radiopaedia](https://radiopaedia.org/) - Radiology Resources
 * [WhyDoCatsAndDogs...?](https://whydocatsanddogs.com/) - Pet Q&A Site
 * [Backyard Chickens](https://www.backyardchickens.com/) - Chicken Raising Forum
 
@@ -570,6 +573,7 @@
 * [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration Website / [Images](https://images.nasa.gov/) / [Audio](https://www.nasa.gov/connect/sounds/index.html) / [Documents](https://ntrs.nasa.gov/search.jsp)
 * [ESA](https://www.esa.int/) - European Space Agency Website
 * [Space.com](https://www.space.com/) - Space News
+* [NASA History](https://history.nasa.gov/series95.html) - NASA History Books
 * [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Math and Physics Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#math-and-physics-books) - Astronomy Books
 * [Planet Globe](https://nbremer.github.io/planet-globe/) - Virtual Globes
 * [ISS Sim](https://iss-sim.spacex.com/) - ISS Docking Simulator
