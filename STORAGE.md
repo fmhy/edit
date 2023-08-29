@@ -1,3 +1,4 @@
+
 ***
 ***
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
@@ -497,7 +498,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Custom Rich Discord Presence
 
-[CustomRP](https://www.customrp.xyz/), [CustomDiscordRPC](https://github.com/hohltier/CustomDiscordRPC), [DiscordRPCMaker](https://drpcm.t1c.dev/)
+* ⭐ **[CustomRP](https://www.customrp.xyz/)**
 
 ***
 
@@ -557,19 +558,18 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Discord Embed Generators
 
-* ⭐ **[Rauf's Embed Generator](https://embed.rauf.wtf)**
+* ⭐ **[Discohook](https://discohook.org/)** - [Discohook Utils](https://dutils.shay.cat/)
 
-[PSDiscord](https://github.com/EvotecIT/PSDiscord), [Discohook](https://discohook.org/), [Embed Generator](https://message.style/), [0x71 Discord Embed API](https://em.0x71.cc/), [TitanEmbeds](https://titanembeds.com/)
-
+[PSDiscord](https://github.com/EvotecIT/PSDiscord), [Embed Generator](https://message.style/)
 ***
 
 #### Discord Server / Bot Lists
 
-[DISBOARD](https://disboard.org/), [Discord Labs](https://www.discordlabs.org/), [Discord Servers](https://discordservers.com/), [Discadia](https://discadia.com/), [DiscordList](https://discordlist.me/), [Discords.com](https://discords.com/), [Discord Me](https://discord.me/), [Disforge](https://disforge.com/), [Find a Discord](https://findadiscord.com/), [Open Source Projects](https://discord.com/open-source)
+[DISBOARD](https://disboard.org/), [Discord Servers](https://discordservers.com/), [Discadia](https://discadia.com/), [Discords.com](https://discords.com/), [Discord Me](https://discord.me/), [Disforge](https://disforge.com/), [Find a Discord](https://findadiscord.com/), [Open Source Projects](https://discord.com/open-source)
 
 **Bots**
 
-[BotBlock](https://botblock.org/), [Top.gg](https://top.gg/), [Bots on Discord](https://bots.ondiscord.xyz/), [Discord Bots](https://discord.bots.gg/), [Top Bots](https://gist.github.com/advaith1/451dcbca2d7c3503d4f48d63eb918cb0), [Motion Botlist](https://motiondevelopment.top/bot), [Infinity Bot List](https://infinitybots.gg/), [Discord Services](https://discordservices.net/), [DiscordBots](https://discordbots.co/), [Discord Bot List](https://discordbotlist.com/), [Carbon Bot List](https://www.carbonitex.net/discord/bots), [Botlist.me](https://botlist.me/), [TopCord](https://topcord.xyz/), [YABL](https://yabl.xyz/), [Wonder Bot List](https://wonderbotlist.com/), [Void Bots](https://voidbots.net/), [Discord Botlist](https://discord-botlist.eu/)
+[BotBlock](https://botblock.org/), [Top.gg](https://top.gg/), [Bots on Discord](https://bots.ondiscord.xyz/), [Discord Bots](https://discord.bots.gg/), [Top Bots](https://gist.github.com/advaith1/451dcbca2d7c3503d4f48d63eb918cb0), [Motion Botlist](https://motiondevelopment.top/bot), [Infinity Bot List](https://infinitybots.gg/), [Discord Services](https://discordservices.net/), [DiscordBots](https://discordbots.co/), [Discord Bot List](https://discordbotlist.com/), [Carbon Bot List](https://www.carbonitex.net/discord/bots), [Botlist.me](https://botlist.me/), [TopCord](https://topcord.xyz/), [Void Bots](https://voidbots.net/), [Discord Botlist](https://discord-botlist.eu/)
 
 ***
 
