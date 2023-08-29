@@ -296,7 +296,8 @@
 # ► Developer Tools
 
 * ⭐ **[Developer Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_developer_tools)** - Dev Tool Sites
-* ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists 
+* ⭐ **[Awesome Subreddits](https://github.com/iCHAIT/awesome-subreddits)** - Programming Subreddits
+* ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists
 * ⭐ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)** - Download Icons for Projects
 * ⭐ **[Security / Hacking News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_security_.2F_hacking_news)**
 * [DevToys](https://github.com/ObuchiYuki/DevToysMac) or [DevUtils](https://devutils.com/) - Mac Dev Tools
@@ -701,7 +702,7 @@
 * [Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes) - Themes for Wordpress
 * [Timber](https://upstatement.com/timber/) - WordPress Theme Creator / [GitHub](https://github.com/timber/timber)
 * [KokoAnalytics](https://www.kokoanalytics.com/) - Wordpress Analytics
-* [vichan](https://github.com/vichan-devel/vichan) - Imageboard Hosting
+* [vichan](https://github.com/vichan-devel/vichan) or [overscript](https://overscript.net/) - Imageboard Hosting
 * [ProBoards](https://www.proboards.com/) - Forum & Imageboard Hosting
 * [MyBB](http://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - Forum Hosting
 * [Media Wiki](https://www.mediawiki.org/), [xWiki](http://www.xwiki.org/xwiki/bin/view/Main/), [tWiki ](https://twiki.org/), [DokuWiki](https://www.dokuwiki.org/dokuwiki), [Miraheze](https://miraheze.org/) or [Fandom](https://www.fandom.com/) - Host Free Wiki
