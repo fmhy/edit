@@ -890,7 +890,7 @@
 * ⭐ **[SauceNao](https://saucenao.com/)** - Fictional NSFW Reverse Image Search / [Extension](https://saucenao.com/tools/)
 * ⭐ **[Internet Adult Film Database](https://www.iafd.com/)** or [MyPornStarBook](https://www.mypornstarbook.net/) - Adult Film Databases / Reviews
 * ⭐ **[NameThatPorn](https://namethatporn.com/)**, [NameThatPornstar](https://namethatpornstar.com/), [r/pornID](https://www.reddit.com/r/pornID/) or [r/tipofmypenis](https://www.reddit.com/r/tipofmypenis/) - Porn Identification Communities
-* ⭐ **[Stash](https://stashapp.cc/)** - Porn File Manager
+* ⭐ **[Stash](https://stashapp.cc/)** or [AdultMediaManager](https://github.com/adultmm/AdultMediaManager) - Porn File Managers
 * ⭐ **[Bypass Subreddit Blocks](https://pastebin.com/gAAEQnqn)**
 * [Panic Button](https://pastebin.com/mDWBZ7fQ) - Quickly Close All Tabs
 * [UploadingPorn](https://uploadingporn.com/) - NSFW File Host
@@ -915,6 +915,7 @@
 * ⭐ **[NoFap Forums](https://forum.nofap.com/index.php)**
 * [beta-censoring](https://github.com/silveredgold/beta-censoring), [beta-protection](https://github.com/silveredgold/beta-protection) or [Wingman](https://github.com/wingman-jr-addon/wingman_jr) - Porn Blocking Extensions
 * [Block Site](https://add0n.com/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs), [TabWave](https://www.tabwave.app/), [Forest](https://pastebin.com/rYuAivA0), [StayFocused](https://www.stayfocusd.com/) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - Site Blockers
+* [Pluckeye](https://www.pluckeye.net/) - Content Filter
 * [Brainbuddy](https://www.brainbuddyapp.com/) - Porn Blocker / Android / iOS
 * [SelfControlApp](https://selfcontrolapp.com/) - Mac Site Blocker
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
