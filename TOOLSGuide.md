@@ -1331,7 +1331,6 @@
 * [SteamRPC](https://github.com/Crementif/SteamRPC) - Convert Steam Rich Presence to Discord Rich Presence
 * [Discord-Linux](https://discord-linux.com/) - Linux Container Bot 
 * [Discord.io](https://discord.io/) or [dsc.gg](https://dsc.gg/) - Create Custom Discord Invites
-* [1337x-Bot ](https://github.com/brandongallagher1999/1337x-Bot) - 1337x Discord Bot
 * [Chuu](https://github.com/ishwi/Chuu) - Last.fm Discord Bot
 * [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling
 * [Craig](https://craig.chat/) - Voice Channel Recorder / [Backup](https://craig.chat/giarc/)
