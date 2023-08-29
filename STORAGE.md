@@ -2966,11 +2966,16 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-#### Typing Lessons
+#### Typing Lessons / Tests
 
-* ⭐ **[Monkey Type](https://monkeytype.com/)**
+* ⭐ **[Monkey Type](https://monkeytype.com/)** - Customizable Typing Tests
+* [Colemak Academy](https://www.colemak.academy/) - Alternative / Custom Keyboard Based Typing Tests
+* [Ttyper](https://github.com/max-niederman/ttyper), [TermTyper](https://github.com/kraanzu/termtyper) - Terminal Typing Tests
+* [TypeLit.io](https://www.typelit.io/) - Practice Typing by Retyping Books
+* [10fastfingers](https://10fastfingers.com/) - Typing Competitions
+* [klavaro](https://klavaro.sourceforge.io/), [TypingStudy](https://www.typingstudy.com/), [TypeFast](https://typefast.io/) - Multilingual Typing Lessons / Tests
 
-**Lessons** - [keybr](https://www.keybr.com/), [Typing.com](https://www.typing.com/), [Colemak Academy](https://www.colemak.academy/), [RapidTyping](https://rapidtyping.com/), [Typing Club](https://www.typingclub.com/), [TypeFast](https://typefast.io/), [typing.academy](https://www.typing.academy/), [klavaro](https://sourceforge.net/projects/klavaro/), [10fastfingers](https://10fastfingers.com/), [Ttyper](https://github.com/max-niederman/ttyper), [TermTyper](https://github.com/kraanzu/termtyper), [kbs](https://kbs.im/), [TypingStudy](https://www.typingstudy.com/), [TypeLit.io](https://www.typelit.io/)
+**Lessons** - [keybr](https://www.keybr.com/), [Typing.com](https://www.typing.com/), [Typing Club](https://www.typingclub.com/), [typing.academy](https://www.typing.academy/)
 
 **Games** - [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/), [TypeRush](https://www.typerush.com/)
 
