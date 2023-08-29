@@ -2962,16 +2962,15 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-#### Typing Tests and Lessons
+#### Typing Lessons
 
-* ⭐ **[MonkeyType](https://monkeytype.com/)** - Highly Customizable Typing Tests
-* [TypeLit.io](https://www.typelit.io/) - Practice Typing by Retyping Books
-* [Typing.com](https://www.typing.com/) - Interactive Typing Lessons with Achievements
-* [ColemakAcademy](https://www.colemak.academy/), [klavaro](https://klavaro.sourceforge.io/), [TypingStudy](https://www.typingstudy.com/) - Alternative / Custom Keyboard Typing Tests and Lessons
-* [TypingClub](https://www.typingclub.com/), [typing.academy](https://www.typing.academy/) - Typing Lessons
-* [Ttyper](https://github.com/max-niederman/ttyper) - Terminal Typing Tests
-* [10fastfingers](https://10fastfingers.com/) - Typing Competitions
-* [TypeRacer](https://play.typeracer.com/), [TypeRush](https://www.typerush.com/) - Typing Games
+* ⭐ **[Monkey Type](https://monkeytype.com/)**
+* [Typing Finger Positions](https://i.ibb.co/L8VY6xR/Finger-position-on-a-keyboard.png) - Typing Finger Position Cheatsheet
+* [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - Touch Typing Tutorial
+
+**Lessons** - [keybr](https://www.keybr.com/), [Typing.com](https://www.typing.com/), [Colemak Academy](https://www.colemak.academy/), [klavaro](https://klavaro.sourceforge.io/), [TIPP10](https://www.tipp10.com/), [RapidTyping](https://rapidtyping.com/), [Typing Club](https://www.typingclub.com/), [Ratatype](https://www.ratatype.com/), [TypeFast](https://typefast.io/), [typing.academy](https://www.typing.academy/), [klavaro](https://sourceforge.net/projects/klavaro/), [10fastfingers](https://10fastfingers.com/), [Ttyper](https://github.com/max-niederman/ttyper), [TermTyper](https://github.com/kraanzu/termtyper), [kbs](https://kbs.im/), [TypingStudy](https://www.typingstudy.com/), [TypeLit.io](https://www.typelit.io/)
+
+**Games** - [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/), [TypeRush](https://www.typerush.com/)
 
 ***
 
