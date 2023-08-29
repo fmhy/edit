@@ -322,6 +322,7 @@
 * [Awesome-Linux-Software](https://github.com/crackerica/Awesome-Linux-Software)
 * [Awesome KDE](https://github.com/francoism90/awesome-kde)
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+* [Ultimate Cheatsheet](https://gist.github.com/bgoonz/be5c5be77169ef333b431bc37d331176)
 * [ArchWiki List of Applications](https://wiki.archlinux.org/title/list_of_applications)
 * [Plan9Port](https://github.com/9fans/plan9port)
 * [tlanyan](https://itlanyan.com/)
