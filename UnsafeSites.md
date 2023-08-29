@@ -54,7 +54,7 @@
 * BitTorrent / BitComet - Adware
 * Frostwire - [Adware](https://www.virustotal.com/gui/file/6a501792717fd86635d80fb258979b823fd53000c6d683904e2fb2407f1706fd)
 * BitLord - Adware
-* [Fake 1337x Sites](https://redd.it/117fq8t)
+* 1337x - Caught with [malware](https://www.reddit.com/r/PiratedGames/comments/15j4n4d/alleged_proof_that_1337x_is_unsafe)
 
 ***
 
