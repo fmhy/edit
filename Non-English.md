@@ -311,6 +311,7 @@
 * [Legado](https://github.com/gedoor/legado) - Android Ebook Reader
 * [wenku](https://pypi.org/project/wenku/) - Baidu Wenku Downloader
 * [Trtag](https://trtag.com/) - Movies / TV Encyclopaedia
+* [Taiwan Ebook Lover](https://taiwan-ebook-lover.github.io/) - Compare Book Prices
 
 ***
 
@@ -385,6 +386,7 @@
 
 ## ▷ Downloading
 
+* ⭐ **[French DDL Google Docs](https://discord.com/invite/AwAcRHXZ5m)** - [Films](https://docs.google.com/document/d/1f-CCNWh_pVSNQhivKEDixndBoM37XslJBR9OJqFeeBA/) / [Series](https://docs.google.com/document/d/1fb2yM3BW7Dn2-ueXldW5IN8EKCEfDQtesCF_xXpYTl0/) / [Anime](https://docs.google.com/document/d/1Bk84UHCvs6pUWL4OkJqgMsdiSkrFeJRmkGOTBlzuI7M/) / [Books](https://docs.google.com/document/d/1uPE4t6QfOxQE8KFl9dkbRmNgGlknDLMEw8bdAI5FMgs/)
 * [NextWarez](https://nextwarez.com/) - Warez Lists
 * [mega-p2p](https://www.mega-p2p.net/) - Warez Lists
 * [Seekr](https://w7w.files-seekr.com/) - Download Search Files
@@ -423,6 +425,7 @@
 * [Anime-Ultime](http://www.anime-ultime.net/), [2](https://v5.anime-ultime.net/) - Anime
 * [universanime](https://www.universanime.co/) - Anime
 * [mavanimes](https://mavanimes.cc/) - Anime
+* [French Anime](https://french-anime.com/) - Anime
 * [VoirAnime](https://voiranime.com/) - Anime
 * [Animevost.fr](https://animevost.fr/) - Anime
 * [sekai](https://sekai.one/) - Anime
@@ -716,6 +719,7 @@
 
 ## ▷ Downloading
 
+* [KusoAnime](https://kusonime.com/) - Anime / [Discord](https://discord.com/invite/4A7RqFraZW)
 * [AniBatch](https://anibatch.anibatch.moe/), [2](https://www.animebatch.id/) - Anime
 * [Drivenime](https://drivenime.com/) - Anime
 * [IndonesiaEbook](https://ebook.twointomedia.com/) - Books
@@ -792,6 +796,7 @@
 * [Poipiku](https://poipiku.com/) - User-Made Images
 * [Marshmallow](https://marshmallow-qa.com/) - Send / Receive Positive Messages
 * [Annict](https://annict.com/) - Anime Tracker
+* [Japanese Subtitles](https://gist.github.com/tatsumoto-ren/78ba4e5b7c53c7ed2c987015fa05cc2b) - Subtitles
 * [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Anime Subtitles
 * [Japan Reference](https://jref.com/) - Japanese Culture Forum
 * [fuseji](http://fuseji.net/) - Hidden Character Search
@@ -1779,6 +1784,7 @@
 * [Kuflu](https://www.kuflu.com/forums/e-kitap.58/) - Books / Magazines
 * [Hattusa](https://hattusa.co/) - Books
 * [turkcecizgiroman](https://turkcecizgiroman.blogspot.com/) - Comics
+* [MangaDenizi](https://www.mangadenizi.net/) - Manga / [Discord](https://discord.com/invite/8zBMSGZ)
 * [Manga-TR](https://manga-tr.com/) - Manga
 * [manga-ay](https://manga-ay.com/) - Manga
 * [mavimanga](https://mavimanga.com/) - Manga
