@@ -1,11 +1,10 @@
-
 ***
 ***
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 ***
 
-**[Table of Contents](https://ibb.co/hy7jqwg)** - For mobile users
+**[Table of Contents](https://ibb.co/HNSR98N)** - For mobile users
 
 ***
 ***
@@ -183,7 +182,7 @@
 * ⭐ **[Smart Launcher](https://www.smartlauncher.net/)** 
 * ⭐ **[Launchers Quick Tile](https://play.google.com/store/apps/details?id=com.gocalsd.quicktile.launchers)** - Launcher Quick Switch
 
-[Neo Launcher](https://github.com/NeoApplications/Neo-Launcher), [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher), [Olauncher](https://github.com/OlauncherCF/OlauncherCF), [Unlauncher](https://github.com/jkuester/unlauncher), [Ratio](https://blloc.com/), [Edge Card Launcher](https://play.google.com/store/apps/details?id=com.reactivstudios.android.edge4), [Stario Launcher](https://play.google.com/store/apps/details?id=com.stario.launcher), [Discreet Launcher](https://github.com/falzonv/discreet-launcher), [Taskbar](https://play.google.com/store/apps/details?id=com.farmerbb.taskbar), [Kvaesitso](https://kvaesitso.mm20.de/), [Inure App Manager](https://github.com/Hamza417/Inure), [KISS launcher](https://kisslauncher.com/), [Lynx Launcher](https://www.lynxlauncher.de/), [Slim launcher](https://github.com/sduduzog/slim-launcher), [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher), [Nova Launcher](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/), [Skit](https://play.google.com/store/apps/details?id=com.pavelrekun.skit), [Lunar Launcher](https://github.com/iamrasel/lunar-launcher)
+[Neo Launcher](https://github.com/NeoApplications/Neo-Launcher), [Microsoft Launcher](https://play.google.com/store/apps/details?id=com.microsoft.launcher), [Olauncher](https://github.com/OlauncherCF/OlauncherCF), [Unlauncher](https://github.com/jkuester/unlauncher), [Ratio](https://blloc.com/), [Edge Card Launcher](https://play.google.com/store/apps/details?id=com.reactivstudios.android.edge4), [Stario Launcher](https://play.google.com/store/apps/details?id=com.stario.launcher), [Discreet Launcher](https://github.com/falzonv/discreet-launcher), [Taskbar](https://play.google.com/store/apps/details?id=com.farmerbb.taskbar), [Kvaesitso](https://kvaesitso.mm20.de/), [Inure App Manager](https://github.com/Hamza417/Inure), [KISS launcher](https://kisslauncher.com/), [Lynx Launcher](https://www.lynxlauncher.de/), [Slim launcher](https://github.com/sduduzog/slim-launcher), [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher), [Nova Launcher](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/), [Skit](https://play.google.com/store/apps/details?id=com.pavelrekun.skit), [Lunar Launcher](https://github.com/iamrasel/lunar-launcher), [Go Minimal](https://play.google.com/store/apps/details?id=com.beforesoft.launcher)
 
 ***
 
@@ -496,12 +495,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ***
 
-#### Custom Rich Discord Presence
-
-* ⭐ **[CustomRP](https://www.customrp.xyz/)**
-
-***
-
 #### Data Visualization Tools
 
 * ⭐ **[RAWGraphs](https://app.rawgraphs.io/)** - [GitHub](https://github.com/rawgraphs/rawgraphs-app)
@@ -561,6 +554,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[Discohook](https://discohook.org/)** - [Discohook Utils](https://dutils.shay.cat/)
 
 [PSDiscord](https://github.com/EvotecIT/PSDiscord), [Embed Generator](https://message.style/)
+
 ***
 
 #### Discord Server / Bot Lists
@@ -1549,8 +1543,9 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[SkLauncher](https://skmedix.pl/)**
 * ⭐ **[ATLauncher](https://atlauncher.com/)** / [Crack](https://github.com/Domaman202/ATLauncher-Crack)
 * ⭐ **[PrismLauncher](https://prismlauncher.org/)** / [GitHub](https://github.com/PrismLauncher/PrismLauncher) / [Offline Patch](https://git.sr.ht/~reggie/prismlauncher-offline), [2](https://rentry.co/Prism4Free)
+* [MC Version Launcher](https://github.com/MCMrARM/mc-w10-version-launcher) - Multi-Version Launcher
 
-[MultiMC](https://multimc.org/), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [Feather Client](https://feathermc.com/) / [Discord](https://discord.com/invite/feather), [GDLauncher](https://gdlauncher.com/), [X Minecraft Launcher](https://xmcl.app/)
+[MultiMC](https://multimc.org/), [Badlion](https://www.badlion.net/), [OG tLauncher](https://tlaun.ch/), [HMCL](https://github.com/huanghongxun/HMCL), [TechnicPack](https://www.technicpack.net/), [RPMLauncher](https://github.com/RPMTW/RPMLauncher), [LabyMod](https://www.labymod.net/), [Crystal Launcher](https://crystal-launcher.net/), [Feather Client](https://feathermc.com/) / [Discord](https://discord.com/invite/feather), [GDLauncher](https://gdlauncher.com/), [X Minecraft Launcher](https://xmcl.app/), [Salwyrr Launcher](https://www.salwyrr.com/), [MultiMC5-Cracked](https://github.com/UltimMC/Launcher) 
 
 ***
 
@@ -2940,6 +2935,8 @@ Add the following commands to a search to manually scrape each site.
 ***
 
 #### Tracker Lists
+
+* ⭐ **[ngosang](https://ngosang.github.io/trackerslist/)** / [2](https://ngosang.github.io/trackerslist/trackers_all.txt)
 
 [trackerslist](https://trackerslist.com/) / [2](https://github.com/XIU2/TrackersListCollection), [fossbytes list](https://fossbytes.com/torrent-trackers-list/), [NewTrackOn](https://newtrackon.com/list)
 
