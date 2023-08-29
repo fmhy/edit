@@ -1527,7 +1527,11 @@ Add the following commands to a search to manually scrape each site.
 
 #### Minecraft Servers
 
-[MineColab](https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb) / [GitHub](https://github.com/thecoder-001/MineColab), [MineFort](https://minefort.com/), [Minehut](https://minehut.com/), [PloudOS](https://ploudos.com/), [Aternos](https://aternos.org/), [FreeMCServer](https://freemcserver.net/) / [uBO Filter](https://pastebin.com/C2aiXG8p), [Cuberite](https://cuberite.org/)
+* [MineColab](https://colab.research.google.com/github/thecoder-001/MineColab/blob/master/MineColab.ipynb) - [GitHub](https://github.com/thecoder-001/MineColab)
+* [Playit.gg](https://playit.gg/) - [Discord](https://discord.gg/AXAbujx)
+* [FreeMCServer](https://freemcserver.net/) - [uBO Filter](https://pastebin.com/C2aiXG8p)
+
+[MineFort](https://minefort.com/), [Minehut](https://minehut.com/), [PloudOS](https://ploudos.com/), [Aternos](https://aternos.org/), [Cuberite](https://cuberite.org/)
 
 ***
 
@@ -1619,7 +1623,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[Mr Free Tools](https://mrfreetools.com/)**
 
-[PineTools](https://pinetools.com/), [123Apps](https://123apps.com/), [iTools](http://itools.com/), [Framasoft](https://framasoft.org/), [Browserling Tools](https://www.browserling.com/tools/), [Dan's Tools](https://www.danstools.com/), [WebBrowserTools](https://webbrowsertools.com/), [ManyTools](https://manytools.org/), [Comment Picker](https://commentpicker.com/other-tools.php), [OSINT Combine](https://www.osintcombine.com/tools), [MxToolbox](https://mxtoolbox.com/NetworkTools.aspx), [Rumkin](https://rumkin.com/tools/), [Sumo](https://sumo.app/), [Melobytes](https://melobytes.com/en), [UnitPedia](https://unitpedia.com/), [prepostseo](https://prepostseo.com/), [Digital Methods](https://wiki.digitalmethods.net/Dmi/ToolDatabase), [Flippity](https://www.flippity.net/), [AppsCyborg](https://appscyborg.com/), [JNCK Media](https://jnckmedia.com/), [BlackHost](http://www.blackhost.xyz/), [BfoTool](https://bfotool.com/), [SeoMagnifier](https://seomagnifier.com/), [Romanr](http://www.romanr.info/), [Prepostseo](https://www.prepostseo.com/), [FreeToolOnline](https://freetoolonline.com/), [10015.io](https://10015.io/), [JMMG Tools](https://tools.jmmgc.com/), [0wx.org](https://www.0wx.org/), [tinywow](https://tinywow.com/), [Self Publishing Titans](https://www.selfpublishingtitans.com/), [Inettools](https://inettools.net/), [TuckTools](https://www.tucktools.com/), [Ian Coleman](https://iancoleman.io/), [Media.io](https://www.media.io/), [URL Decode](https://url-decode.com/cat/all), [Onlitools](https://www.onlitools.com/), [ChatONS](https://entraide.chatons.org/en/), [FreeToolOnline](https://freetoolonline.com/tags.html), [goonlinetools](https://goonlinetools.com/), [garyshood](https://www.garyshood.com/), [RandomTools](https://randomtools.io/), [Toptal](https://www.toptal.com/utilities-tools), [piliapp](https://www.piliapp.com/), [KodyTools](https://www.kodytools.com/), [aruljohn](https://aruljohn.com/), [Argyle](https://argyle.geopjr.dev/), [WDZSoftware](https://wdzsoft.com/), [Toolki](https://toolki.com/), [aionlinetools](https://aionlinetools.com/), [Trom](https://trom.tf/)
+[PineTools](https://pinetools.com/), [123Apps](https://123apps.com/), [iTools](http://itools.com/), [Framasoft](https://framasoft.org/), [Browserling Tools](https://www.browserling.com/tools/), [Dan's Tools](https://www.danstools.com/), [WebBrowserTools](https://webbrowsertools.com/), [ManyTools](https://manytools.org/), [Comment Picker](https://commentpicker.com/other-tools.php), [OSINT Combine](https://www.osintcombine.com/tools), [MxToolbox](https://mxtoolbox.com/NetworkTools.aspx), [Rumkin](https://rumkin.com/tools/), [Sumo](https://sumo.app/), [Melobytes](https://melobytes.com/en), [UnitPedia](https://unitpedia.com/), [prepostseo](https://prepostseo.com/), [Digital Methods](https://wiki.digitalmethods.net/Dmi/ToolDatabase), [Flippity](https://www.flippity.net/), [AppsCyborg](https://appscyborg.com/), [JNCK Media](https://jnckmedia.com/), [BlackHost](http://www.blackhost.xyz/), [BfoTool](https://bfotool.com/), [SeoMagnifier](https://seomagnifier.com/), [Romanr](http://www.romanr.info/), [Prepostseo](https://www.prepostseo.com/), [FreeToolOnline](https://freetoolonline.com/), [10015.io](https://10015.io/), [JMMG Tools](https://tools.jmmgc.com/), [0wx.org](https://www.0wx.org/), [tinywow](https://tinywow.com/), [Self Publishing Titans](https://www.selfpublishingtitans.com/), [Inettools](https://inettools.net/), [TuckTools](https://www.tucktools.com/), [Ian Coleman](https://iancoleman.io/), [Media.io](https://www.media.io/), [URL Decode](https://url-decode.com/cat/all), [Onlitools](https://www.onlitools.com/), [ChatONS](https://entraide.chatons.org/en/), [FreeToolOnline](https://freetoolonline.com/tags.html), [goonlinetools](https://goonlinetools.com/), [garyshood](https://www.garyshood.com/), [RandomTools](https://randomtools.io/), [Toptal](https://www.toptal.com/utilities-tools), [piliapp](https://www.piliapp.com/), [KodyTools](https://www.kodytools.com/), [aruljohn](https://aruljohn.com/), [Argyle](https://argyle.geopjr.dev/), [WDZSoftware](https://wdzsoft.com/), [Toolki](https://toolki.com/), [aionlinetools](https://aionlinetools.com/), [Trom](https://trom.tf/), [madza.dev](https://www.madza.dev/code)
 
 ***
 
@@ -2622,7 +2626,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[redditlist](https://redditlist.com/)**
 
-[sayit](https://anvaka.github.io/sayit/), [Vizit](http://redditstuff.github.io/sna/vizit/), [Map of Reddit](https://anvaka.github.io/map-of-reddit), [RedditViz](https://redditviz.info/), [subreddits](http://subreddits.org/), [/r/DiscoverReddit Index](https://www.reddit.com/r/DiscoverReddit/wiki/index), [/r/Serendipity](https://www.reddit.com/r/Serendipity), [/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/), [/r/wowthissubexists](https://www.reddit.com/r/wowthissubexists/), [/r/findareddit](https://www.reddit.com/r/findareddit/), [/r/trendingsubreddits](https://www.reddit.com/r/trendingsubreddits), [/r/TrendingReddits/](https://www.reddit.com/r/TrendingReddits/), [subreddit_map](http://www.jacobsilterra.com/subreddit_map/network/index.html), [SubredditMentionsGraph](https://dmarx.github.io/SubredditMentionsGraph/network/), [Subreddit User-Overlap](https://subredditstats.com/subreddit-user-overlaps/), [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/), [redsim](https://anvaka.github.io/redsim/)
+[sayit](https://anvaka.github.io/sayit/), [Vizit](http://redditstuff.github.io/sna/vizit/), [Map of Reddit](https://anvaka.github.io/map-of-reddit), [RedditViz](https://redditviz.info/), [subreddits](http://subreddits.org/), [/r/DiscoverReddit Index](https://www.reddit.com/r/DiscoverReddit/wiki/index), [/r/Serendipity](https://www.reddit.com/r/Serendipity), [/r/ListOfSubreddits](https://www.reddit.com/r/ListOfSubreddits/), [/r/wowthissubexists](https://www.reddit.com/r/wowthissubexists/), [/r/findareddit](https://www.reddit.com/r/findareddit/), [/r/trendingsubreddits](https://www.reddit.com/r/trendingsubreddits), [/r/TrendingReddits/](https://www.reddit.com/r/TrendingReddits/), [subreddit_map](http://www.jacobsilterra.com/subreddit_map/network/index.html), [SubredditMentionsGraph](https://dmarx.github.io/SubredditMentionsGraph/network/), [Subreddit Stats](https://subredditstats.com/), [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/), [redsim](https://anvaka.github.io/redsim/)
 
 ***
 
@@ -2965,8 +2969,6 @@ Add the following commands to a search to manually scrape each site.
 #### Typing Lessons
 
 * ⭐ **[Monkey Type](https://monkeytype.com/)**
-* [Typing Finger Positions](https://i.ibb.co/L8VY6xR/Finger-position-on-a-keyboard.png) - Typing Finger Position Cheatsheet
-* [Dance Mat Typing](https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr) - Touch Typing Tutorial
 
 **Lessons** - [keybr](https://www.keybr.com/), [Typing.com](https://www.typing.com/), [Colemak Academy](https://www.colemak.academy/), [klavaro](https://klavaro.sourceforge.io/), [RapidTyping](https://rapidtyping.com/), [Typing Club](https://www.typingclub.com/), [TypeFast](https://typefast.io/), [typing.academy](https://www.typing.academy/), [klavaro](https://sourceforge.net/projects/klavaro/), [10fastfingers](https://10fastfingers.com/), [Ttyper](https://github.com/max-niederman/ttyper), [TermTyper](https://github.com/kraanzu/termtyper), [kbs](https://kbs.im/), [TypingStudy](https://www.typingstudy.com/), [TypeLit.io](https://www.typelit.io/)
 
@@ -3105,6 +3107,7 @@ Add the following commands to a search to manually scrape each site.
 * [uView](https://www.idruf.com/)
 * [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player)
 * [KikoPlay](https://kikoplay.fun/) - [GitHub](https://github.com/KikoPlayProject/KikoPlay/)
+* [AVPlayer](http://www.awesomevideoplayer.com/) or [GridPlayer](https://github.com/vzhd1701/gridplayer) - Multi-Video Players
 * [SPlayer](https://www.splayer.org/) - Video Player w/ Smart Translation
 
 **Video Player Tools**
@@ -3176,8 +3179,9 @@ Add the following commands to a search to manually scrape each site.
 **Animated Wallpapers**
 
 * ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)** - Wallpapers that Move with Cursor
+* [N0va](https://n0vadp.hoyoverse.com) - Anime
 
-[/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [wallpaperwaifu](https://wallpaperwaifu.com/), [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations), [MyLiveWallpapers](https://mylivewallpapers.com/), [AutoWall](https://github.com/SegoCode/AutoWall), [AnimatedBackgrounds](https://animatedbackgrounds.me/), [Lively](https://www.rocksdanister.com/lively/) (Create)
+[/r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [wallpaperwaifu](https://wallpaperwaifu.com/), [Scenic Illustrations](https://www.pixeltrue.com/scenic-illustrations), [MyLiveWallpapers](https://mylivewallpapers.com/), [AutoWall](https://github.com/SegoCode/AutoWall), [AnimatedBackgrounds](https://animatedbackgrounds.me/), [livelybg](https://livelybg.com/)
 
 **Wallpaper Managers**
 
