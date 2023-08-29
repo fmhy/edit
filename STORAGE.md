@@ -2970,7 +2970,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[Monkey Type](https://monkeytype.com/)**
 
-**Lessons** - [keybr](https://www.keybr.com/), [Typing.com](https://www.typing.com/), [Colemak Academy](https://www.colemak.academy/), [klavaro](https://klavaro.sourceforge.io/), [RapidTyping](https://rapidtyping.com/), [Typing Club](https://www.typingclub.com/), [TypeFast](https://typefast.io/), [typing.academy](https://www.typing.academy/), [klavaro](https://sourceforge.net/projects/klavaro/), [10fastfingers](https://10fastfingers.com/), [Ttyper](https://github.com/max-niederman/ttyper), [TermTyper](https://github.com/kraanzu/termtyper), [kbs](https://kbs.im/), [TypingStudy](https://www.typingstudy.com/), [TypeLit.io](https://www.typelit.io/)
+**Lessons** - [keybr](https://www.keybr.com/), [Typing.com](https://www.typing.com/), [Colemak Academy](https://www.colemak.academy/), [RapidTyping](https://rapidtyping.com/), [Typing Club](https://www.typingclub.com/), [TypeFast](https://typefast.io/), [typing.academy](https://www.typing.academy/), [klavaro](https://sourceforge.net/projects/klavaro/), [10fastfingers](https://10fastfingers.com/), [Ttyper](https://github.com/max-niederman/ttyper), [TermTyper](https://github.com/kraanzu/termtyper), [kbs](https://kbs.im/), [TypingStudy](https://www.typingstudy.com/), [TypeLit.io](https://www.typelit.io/)
 
 **Games** - [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/), [TypeRush](https://www.typerush.com/)
 
