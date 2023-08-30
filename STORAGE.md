@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/HNSR98N)** - For mobile users
+**[Table of Contents](https://ibb.co/RSGCRBS)** - For mobile users
 
 ***
 ***
@@ -2625,7 +2625,15 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-#### Summary Generator
+#### Text Rephrashing
+
+* ⭐ **[QuillBot AI](https://quillbot.com/)**
+* ⭐ **QuillBot  Tools** - [Premium Unlock](https://github.com/blueagler/QuillBot-Premium-Crack), [2](https://github.com/Raguggg/quillbot-premium-for-free) / [Token](https://pastebin.com/ezkjxWd1) / [Script](https://pastebin.com/Wj3cuKvJ)
+* ⭐ **[paraphrasetool](https://paraphrasetool.com/)**
+
+[Rewrite Tool](https://rewritetool.net/), [Paraphraz](https://paraphraz.it/), [Rewriter](https://rewriter.tools/), [Spinbot](https://spinbot.com/), [Paraphrasing Tool](https://paraphrasetool.com/), [ArticleReword](https://www.articlereword.com/), [Rephrasely](https://rephrasely.com/), [Paraphraser](https://www.paraphraser.io/), [SmartArticleWriter](https://smartarticlerewriter.com/), [Paraphrase-Online](https://paraphrase-online.com/), [articlerewritertool](https://articlerewritertool.com/), [Turbo Spinner](http://script4.prothemes.biz/), [rephraser](https://www.rephraser.net/rewording-tool/), [summarizetool](https://www.summarizing.biz/article-summarizer-online/), [caligonia](https://caligonia.com/a2/rewrite.php), [paraphrasing-tool](https://paraphrasing-tool.com/), [freearticlespinning](https://www.freearticlespinning.com/), [article-spinner](https://free-article-spinner.com/), [csgenerator](https://www.csgenerator.com/), [paraphrasingtool](https://paraphrasingtool.ai/), [paraphraseai](https://paraphraseai.app/), [henshu](https://www.henshu.ai/), [rewritingtools](https://rewritingtools.com/)
+
+**Summary Generators**
 
 [SummaryGenerator](https://summarygenerator.com/), [Scholarcy](https://www.scholarcy.com) / [Chrome](https://chrome.google.com/webstore/detail/scholarcy-research-paper/oekgknkmgmaehhpegfeioenikocgbcib), [Resoomer](http://www.resoomer.com/), [SMMRY](https://smmry.com/), [Summari](https://www.summari.com/), [summarize.site](https://github.com/clmnin/summarize.site/), [kagi](https://kagi.com/summarizer/index.html), [whatispoint](https://www.whatispoint.xyz/), [MyReader](https://www.myreader.io/), [summate](https://summate.it/), [Recast](https://www.letsrecast.ai/)
 
@@ -2867,15 +2875,6 @@ Add the following commands to a search to manually scrape each site.
 * [JustNotePad](https://justnotepad.com/)
 * [Write Box](https://write-box.appspot.com/)
 * [Org](https://orgmode.org/)
-
-***
-
-#### Text Rephrashing
-
-* ⭐ **[QuillBot AI](https://quillbot.com/)**
-* ⭐ **QuillBot  Tools** - [Premium Unlock](https://github.com/blueagler/QuillBot-Premium-Crack), [2](https://github.com/Raguggg/quillbot-premium-for-free) / [Token](https://pastebin.com/ezkjxWd1) / [Script](https://pastebin.com/Wj3cuKvJ)
-
-[Rewrite Tool](https://rewritetool.net/), [Paraphraz](https://paraphraz.it/), [Rewriter](https://rewriter.tools/), [Spinbot](https://spinbot.com/), [Paraphrasing Tool](https://paraphrasetool.com/), [ArticleReword](https://www.articlereword.com/), [Rephrasely](https://rephrasely.com/), [Paraphraser](https://www.paraphraser.io/), [SmartArticleWriter](https://smartarticlerewriter.com/), [Paraphrase-Online](https://paraphrase-online.com/), [articlerewritertool](https://articlerewritertool.com/), [Turbo Spinner](http://script4.prothemes.biz/), [rephraser](https://www.rephraser.net/rewording-tool/), [summarizetool](https://www.summarizing.biz/article-summarizer-online/), [caligonia](https://caligonia.com/a2/rewrite.php), [paraphrasing-tool](https://paraphrasing-tool.com/), [freearticlespinning](https://www.freearticlespinning.com/), [article-spinner](https://free-article-spinner.com/), [csgenerator](https://www.csgenerator.com/), [paraphrasingtool](https://paraphrasingtool.ai/), [paraphraseai](https://paraphraseai.app/), [henshu](https://www.henshu.ai/), [rewritingtools](https://rewritingtools.com/) 
 
 ***
 
