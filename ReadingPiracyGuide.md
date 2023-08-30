@@ -1244,7 +1244,7 @@
 * [Libby](https://libbyapp.com/) - Library Search
 * [How-to Get Library Card Online](https://rentry.co/9b3vdo)
 * [BookInfo](https://lordgnomembe.github.io/BookInfo/) - Get Book Info via ISBN
-* [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_summary_generator) - Generate Text / Article Summaries
+* [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing) - Generate Text / Article Summaries
 * [FiveFilters](https://www.fivefilters.org/) - Multiple Article Accessibility Tools
 * [Readarr](https://readarr.com/) or [LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian) - Book Torrent Autodownload / Manager / [GitHub](https://github.com/Readarr/Readarr)
 * [BookCut](https://github.com/costis94/bookcut) - Ebook Download Tool
