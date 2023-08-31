@@ -345,7 +345,7 @@
 
 ## ▷ Cartoon Streaming
 
-* ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcofun.com/), [3](https://www.wcostream.org/) - Anime / Cartoons / [Downloader](https://github.com/NobilityDeviant/Wcofun.com_Downloader)
+* ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcofun.org/), [3](https://www.wcostream.org/) - Anime / Cartoons / [Downloader](https://github.com/NobilityDeviant/Wcofun.com_Downloader)
 * ⭐ **[KimCartoon](https://kimcartoon.li/)**
 * [TopCartoons](https://www.topcartoons.tv/)
 * [WatchCartoonsOnline](https://www1.watchcartoononline.bz/) -
