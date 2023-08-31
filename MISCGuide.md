@@ -1058,6 +1058,7 @@
 * [NewMaxx's SSD Site](https://borecraft.com/), [JohnnyLucky](https://www.johnnylucky.org/data-storage/ssd-database.html) or [SSD Chart](https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/) - SSD Buying Comparisons
 * [Disk Prices](https://diskprices.com/) - Disk Price Tracker
 * [Shucks](https://shucks.top/) - External Drive Price Tracker
+* [FindBoard](https://www.findboard.cn) - Compare Computer Boards
 * [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Laptop Deals](https://laptopsdeals.net/our-gaming-laptops-guide-list/), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
 * [Laptop Knowledge Database](https://laptops.miraheze.org/wiki/Main_Page) or [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Databases
 * [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [/r/MouseReview Wiki](https://www.reddit.com/r/MouseReview/wiki/index/) - Mouse Buying Guides
