@@ -128,9 +128,9 @@
 * [MP4Mania](https://mp4mania1.net/) - Movies / 360p / [How to Use](https://i.imgur.com/CdFCNWA.mp4)
 * [TeamDrive Indexes](https://github.com/nbats/FMHYedit/blob/main/base64.md#google-teamdrives) - Movies / TV / Anime
 * [Free Netflix](https://rentry.co/Free-Netflix) - Free Netflix Method
-* [JustWatch](https://www.justwatch.com/), [Yidio](https://www.yidio.com/movies/filter/free) or [ReelGood](https://reelgood.com/) - Search Legal Streaming Hosts
+* [JustWatch](https://www.justwatch.com/) - Search Legal Streaming Hosts
 * [Manually Scrape Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manually_scrape_sites) - Search Sites Manually
-* [Dirtywarez Ranking](https://dirtywarez.org/cat/streaming), [Watch Movies Free](https://redd.it/rbpag2), [StreamingSites](https://streamingsites.com/), [3db7](https://3db7.xyz/stream/website) or [Movies-Play](https://movies-play.com/) - Streaming Site Lists
+* [Dirtywarez Ranking](https://dirtywarez.org/cat/streaming), [3db7](https://3db7.xyz/stream/website) or [Movies-Play](https://movies-play.com/) - Streaming Site Lists
 
 ***
 
