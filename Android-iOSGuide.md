@@ -527,7 +527,7 @@
 * [BlueClover](https://github.com/nnuudev/BlueClover), [MobiChan](https://github.com/Rukkaitto/mobichan), [Kuroba](https://github.com/K1rakishou/Kuroba-Experimental) / [2](https://github.com/Adamantcheese/Kuroba) or [Chan](https://github.com/moffatman/chan) - 4Chan Apps
 * [Jerboa](https://github.com/dessalines/jerboa), [LiftOff](https://github.com/liftoff-app/liftoff), [Voyager](https://github.com/aeharding/voyager), [Infinity](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients
 * [Uploadgram App](https://github.com/Uploadgram/app) - Uploadgram Frontend
-* [Instander](https://thedise.me/instander/) - Modded Instagram Client / [Telegram](https://t.me/instander) / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android) / [Secrets](https://ngl.link/) 
+* [Instander](https://thedise.me/instander/), [AeroInsta](https://aeroinsta.com/) - Modded Instagram Client / [Telegram](https://t.me/instander) / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android) / [Secrets](https://ngl.link/) 
 * [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) or [LC_Reborn](https://t.me/s/Facebook_LC_Reborn) - Facebook Clients
 * [NoFBEventScraper](https://github.com/akaessens/NoFbEventScraper) - Scrape Facebook for Events without Account
 * [Shitter](https://github.com/nuclearfog/Shitter) or [Harpy](https://github.com/robertodoering/harpy) - Twitter Client
