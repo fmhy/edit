@@ -447,6 +447,7 @@
 * [AESports](https://aesport.tv/) - Sports
 * [720pStream](http://hdtv.720pstream.me/) - Sports
 * [CrackStreams](https://crackstreams.io/), [2](https://the.crackstreams.me/) - Sports
+* [MrGamingStreams](https://mrgamingstreams.com/) - Tv / Sports
 * [BuffStream](https://buffstream.io/) - Sports
 * [SportSala](https://www.sportsala.cc/) or [123Cric](https://123cric.com/) - Sports
 * [Pluto](http://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports
