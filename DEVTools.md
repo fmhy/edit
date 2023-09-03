@@ -416,6 +416,7 @@
 * [CLIP-as-service](https://github.com/jina-ai/clip-as-service) - Embed Images / Sentences via CLIP Models
 * [OS Dev](https://wiki.osdev.org/) - Operation System Development Wiki
 * [devSwag](https://devswag.io/) - Developer Giveaways
+* [Transluna](https://transluna.net/) - JSON translation tool
 
 ***
 
