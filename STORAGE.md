@@ -2627,7 +2627,7 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
-#### Text Rephrashing
+#### Text Rephrasing
 
 * ⭐ **[QuillBot AI](https://quillbot.com/)**
 * ⭐ **QuillBot  Tools** - [Premium Unlock](https://github.com/blueagler/QuillBot-Premium-Crack), [2](https://github.com/Raguggg/quillbot-premium-for-free) / [Token](https://pastebin.com/ezkjxWd1) / [Script](https://pastebin.com/Wj3cuKvJ)
