@@ -230,16 +230,17 @@
 ***
 
 * ⭐ **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** / [Github](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
-* ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
-* [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
 * [Kandinsky2](https://fusionbrain.ai/diffusion) / [Github](https://github.com/ai-forever/ru-dalle) / [Demo](https://rudalle.ru/kandinsky2)
-* [Craiyon](https://www.craiyon.com/) / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
 * [Adobe Firefly](https://firefly.adobe.com/) / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
-* [Bing](https://www.bing.com/images/create) - Dall-E Based
+* [Craiyon](https://www.craiyon.com/) / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
+* [Dall-E](https://www.bing.com/images/create)
+* [Disco Diffusion](https://replicate.com/nightmareai/disco-diffusion) / [Github](https://github.com/jina-ai/discoart) / [Discord](https://discord.com/invite/AWXCCC6G2P)
+* [Pollinations](https://pollinations.ai/) / [Discord](https://discord.com/invite/8HqSRhJVxn)
+* [Dream by Wombo](https://dream.ai/)
 
 ***
 
-## ▷ SD Models
+## ▷ SD Based Models
 
 * ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - SD Models Index
 * [Deliberate](https://civitai.com/models/4823/deliberate) - General Purpose
@@ -249,6 +250,7 @@
 * [ReV Animated](https://civitai.com/models/7371/rev-animated) - Illustrations
 * [Counterfeit](https://civitai.com/models/4468/counterfeit-v30) - Anime Images
 * [MeinaMix](https://civitai.com/models/7240/meinamix) - Anime Girls / [Discord](https://discord.com/invite/meinaverse)
+* [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion-v1-4/) - Anime Girls
 
 ***
 
@@ -271,55 +273,28 @@
 ## ▷ Online Generators
 
 * ⭐ **[Zoo](https://zoo.replicate.dev/)**
-* ⭐ **[PlaygroundAI](https://playgroundai.com/)**
-* ⭐ **[Dezgo](https://dezgo.com/)** / [Discord](https://discord.com/invite/RQrGpUhPhx)
-* ⭐ **[GetIMG.ai](https://getimg.ai/)** / [Discord](https://discord.com/invite/5KsUXSzVwS)
-* ⭐ **[Anime Art Studio](https://animeart.studio/)**, [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion-v1-4/), [NijiJourney](https://nijijourney.com/en) or [BPModel](https://huggingface.co/Crosstyan/BPModel) - Anime Image Generators
-* [Stable Horde](https://stablehorde.net/) - AI Image Generator / [Client](https://dbzer0.itch.io/lucid-creations)
-* [RandomSeed](https://randomseed.co/) - Online / [Discord](https://discord.com/invite/wbPsPtmpuK)
-* [Playgrounds](https://playgrounds.ai/) - Online
-* [Stable UI](https://aqualxx.github.io/stable-ui/) - Online
-* [StableDiffusionOnline](https://stablediffusiononline.net/) - Online
-* [Mage](https://www.mage.space/) - Online / [Discord](https://discord.com/invite/GT9bPgxyFP)
-* [Stable Diffusion Web](https://stablediffusionweb.com/) - Online
-* [OpenJourney](https://replicate.com/prompthero/openjourney) - Online / Tuned w/ Midjourney
-* [Pinegraph](https://pinegraph.com/create) - Image Transformation / Sketchpad
-* [Patience.ai](https://www.patience.ai/) - Multiple AI Image Generators
-* [StableCog](https://stablecog.com/) - AI Image Generator / [Discord](https://discord.com/invite/AJyYd6AUEn) / [Github](https://github.com/stablecog/stablecog)
-* [Pollination](https://pollinations.ai/) - AI Image Generator / [Discord](https://discord.com/invite/8HqSRhJVxn)
-* [Disco-Diffusion](https://replicate.com/nightmareai/disco-diffusion) - AI Image Generator / [Discord](https://discord.com/invite/AWXCCC6G2P)
-* [DeepAI](https://deepai.org/machine-learning-model/stable-diffusion) / [2](https://deepai.org/machine-learning-model/text2img) - AI Image Generator / [Tools](https://deepai.org/apis)
-* [Leonardo.ai](https://app.leonardo.ai/) - AI Image Generator
-* [Prodia](https://app.prodia.com/) - AI Image Generator
-* [Visuali](https://visuali.io/) - AI Image Generator
-* [StableBoost](https://stableboost.ai/) - AI Image Generator
-* [BlueWillow](https://www.bluewillow.ai/) - AI Image Generator
-* [Artsio](https://artsio.xyz/) - AI Image Generator
-* [ArtBot](https://tinybots.net/artbot) - AI Image Generator
-* [Uranus AI](https://uranus.ai/) - AI Image Generator
-* [Artificy](https://artificy.com/) - AI Image Generator
-* [Dream Studio](https://beta.dreamstudio.ai/dream) - AI Image Generator
-* [Dream.ai](https://dream.ai/) - AI Image Generator
-* [DreamLike](https://dreamlike.art) - AI Image Generator
-* [hypnogram](https://hypnogram.xyz/) - AI Image Generator
-* [InstantArt](https://instantart.io/) - AI Image Generator
-* [OpenArt](https://openart.ai/) - AI Image Generator
-* [MindsEye](https://multimodal.art/mindseye) - AI Image Generator
-* [iamfy](https://www.iamfy.co/studio) - AI Image Generator
-* [NightCafe](https://creator.nightcafe.studio/create/text-to-image?algo=coherent) - AI Image Generator
-* [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - AI Image Generator
-* [Diffuse The Rest](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest) - AI Image Generator
-* [Pollinations](https://pollinations.ai/) - AI Image Generator
-* [Playarti](https://www.playarti.com/) - AI Image Generator
-* [AI Notebooks](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - AI Image Generation Colab
+* ⭐ **[PlaygroundAI](https://playgroundai.com/)** / 1K Images Daily
+* ⭐ **[Dezgo](https://dezgo.com/)** / [Discord](https://discord.com/invite/RQrGpUhPhx) / Unlimited
+* ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP) / Unlimited
+* [Prodia](https://app.prodia.com/) / [Discord](https://discord.com/invite/495hz6vrFN) / Unlimited
+* [GetIMG.ai](https://getimg.ai/) / [Discord](https://discord.com/invite/5KsUXSzVwS) / 100 Images Monthly
+* [Patience.ai](https://www.patience.ai/) / [Discord](https://discord.com/invite/ppM5yzYX4P) / Unlimited
+* [OpenArt](https://openart.ai/home) / [Discord](https://discord.com/invite/yTMNvk5z97) / Unlimited
+* [Leonardo.ai](https://app.leonardo.ai/) / 30 images daily
+* [Artsio](https://artsio.xyz/) / 20 images daily
+* [DreamLike](https://dreamlike.art) / [Discord](https://discord.com/invite/QyGR2FxsKU) / 12 images daily
+* [Stable Horde](https://stablehorde.net/) - Distributed Network of GPUs running Stable Diffusion / [Interface](https://aqualxx.github.io/stable-ui/), [2](https://tinybots.net/artbot), [3](https://artificial-art.eu/)
+* [DeepAI](https://deepai.org/machine-learning-model/stable-diffusion) / [2](https://deepai.org/machine-learning-model/text2img)
+* [Uranus AI](https://uranus.ai/)
+* [Diffuse The Rest](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest)
 * [NOP / WAS](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17) - AI Image Generation Colab
 * [MagicBrush](https://www.magicbru.sh/), [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) - AI Image Transformers
-* [SD InPainting](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) / [2](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting) / [3](https://github.com/geekyutao/Inpaint-Anything) or [Lama Cleaner](https://github.com/Sanster/lama-cleaner) - AI Image Fill / Item Removal
+* [SD Inpainting](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting), [Inpaint Anything](https://github.com/geekyutao/Inpaint-Anything) or [Lama Cleaner](https://github.com/Sanster/lama-cleaner) - Image Fill / Item Removal
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
-* [Shap-e](https://github.com/openai/shap-e) or [ThreeStudio](https://github.com/threestudio-project/threestudio) - 3D Image Generators
+* [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [ThreeStudio](https://github.com/threestudio-project/threestudio) - 3D Image Generators
 * [Interiorai](https://interiorai.com/) - AI Interior Design Tool
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) - Protect Digital Art from AI Copies
-
+  
 ***
 
 ## ▷ Image Prompts
@@ -358,7 +333,9 @@
 * [The Other](https://rentry.org/59xed3), [DummyLoRA](https://rentry.org/dummylora), [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english), [ora_train](https://rentry.org/lora_train) or [lora-training-science](https://rentry.org/lora-training-science) - SD LoRA Guides
 * [SafeTensorsGuide](https://rentry.org/safetensorsguide) - How-to Convert .ckpt to .safetensors
 * [DummyControlNet](https://rentry.org/dummycontrolnet) - ControlNet Guide
-
+* [Unstable Diffusion](https://discord.com/invite/unstablediffusion) - AI Image Community
+* [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
+  
 ***
 
 ## ▷ [Image Restoration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_restoration)
