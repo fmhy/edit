@@ -3201,7 +3201,7 @@ Filter list for adblockers with sites from this thread.
 ## ▷ Android Privacy
 
 * ⭐ **[Awesome Android Security](https://github.com/ashishb/android-security-awesome)** - Android Security Resources 
-* ⭐ **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)** - Browsers with a focus on Privacy 
+* ⭐ **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_browsers)** - Browsers with a focus on Privacy 
 * ⭐ **[DPITunnel](https://github.com/nomoresat/DPITunnel-android)**, [Intra](https://getintra.org), [PowerTunnel](https://github.com/krlvm/PowerTunnel-Android) or [Xandroid](https://github.com/XndroidDev/Xndroid) - Proxies
 * ⭐ **[Aegis](https://getaegis.app/)**, [Authy](https://play.google.com/store/apps/details?id=com.authy.authy), [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro), [Mauth](https://github.com/X1nto/Mauth) or [andOTP](https://github.com/andOTP/andOTP) - Two-Factor Authentication 
 * [Gear VPN](https://github.com/KaustubhPatange/Gear-VPN), [Adguard VPN](https://adguard.com/en/blog/introducing-adguard-vpn-for-android.html), [Vpnify](https://vpnifyapp.com/), [YourFreedomVPN](https://apkcombo.com/your-freedom-vpn-client/de.resolution.yf_android/), [GoFLy](https://play.google.com/store/apps/details?id=com.ambrose.overwall), [VPNhub](https://www.vpnhub.com/) or [Clash](https://github.com/Kr328/ClashForAndroid/) - Free VPNs
@@ -6554,8 +6554,20 @@ Filter list for adblockers with sites from this thread.
 #### Android Browsers
 
 * ⭐ **[Firefox](https://www.mozilla.org/)** - [F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) / [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/)
+* ⭐ **[FFUpdater](https://github.com/Tobi823/ffupdater)** - Multi-Browser Updater
 
 [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi Browser](https://kiwibrowser.com/), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Berry Browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser), [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android), [AlohaBrowser](https://alohabrowser.com/), [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp), [Lynket](https://github.com/arunkumar9t2/lynket-browser), [Lightning Browser](https://github.com/anthonycr/Lightning-Browser), [Float Browser](https://play.google.com/store/apps/details?id=com.xpp.floatbrowser), [Fulguris](https://github.com/Slion/Fulguris)
+
+**Privacy Based**
+
+* ⭐ **[Mull](https://f-droid.org/packages/us.spotco.fennec_dos/)**
+* [Mull-Fenix](https://github.com/Divested-Mobile/Mull-Fenix)
+* [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
+* [SmartCookieWeb](https://smartcookieweb.com/)
+* [Privacy Browser](https://www.stoutner.com/privacy-browser-android/)
+* [friendly](https://friendly.io/)
+* [Thor](https://gitlab.com/remmer.wilts/thor)
+* [Scoute-Dich](https://github.com/scoute-dich/browser)
 
 ***
 
@@ -8460,17 +8472,6 @@ Add the following commands to a search to manually scrape each site.
 * [Narsil](https://git.nixnet.services/Narsil/desktop_user.js) - Firefox
 * [Brave Setup Guide](https://gitlab.com/CHEF-KOCH/brave-browser-hardening)
 
-**Android**
-
-* ⭐ **[FFUpdater](https://github.com/Tobi823/ffupdater)** - Multi-Browser Updater
-* [Mull-Fenix](https://github.com/Divested-Mobile/Mull-Fenix)
-* [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
-* [SmartCookieWeb](https://smartcookieweb.com/)
-* [Privacy Browser](https://www.stoutner.com/privacy-browser-android/)
-* [friendly](https://friendly.io/)
-* [Thor](https://gitlab.com/remmer.wilts/thor)
-* [Scoute-Dich](https://github.com/scoute-dich/browser)
-
 ***
 
 #### Privacy Guides
@@ -9480,9 +9481,9 @@ Add the following commands to a search to manually scrape each site.
 
 #### Userscript Managers
 
-* ⭐ **[Greasymonkey](https://www.greasespot.net/)**
 * ⭐ **[Violentmonkey](https://violentmonkey.github.io/)**
-* [Tampermonkey](https://www.tampermonkey.net/)
+* ⭐ **[Tampermonkey](https://www.tampermonkey.net/)**
+* [Greasemonkey](https://www.greasespot.net/)
 * [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/)
 
 ***
@@ -13710,6 +13711,7 @@ pass: paluch
 * ⭐ **[Reddit Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_streams)** - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
 * ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)** or [IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) - IPTV Resources / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
+* [SusFlix](https://susflix.tv/)** - TV / Sports / [Discord](https://discord.gg/BE7kTVezBN)
 * [TOTV](http://totv.org/) - TV / Sport
 * [DaddyLive](https://daddylivehd.sx/) - TV / Sport
 * [XUMO](https://www.xumo.tv/channels) - TV
@@ -17957,7 +17959,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [StepMania](https://www.stepmania.com/), [Project OutFox](https://projectoutfox.com/) or [NotITG](https://www.noti.tg/) - DDR Clones
 * [PumpSanity](https://pumpsanity.net/) - Pump It Up Clone
 * [Malody](https://m.mugzone.net/) - Rhythm Game
-* [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki) / [IIDX Install Guide](https://docs.google.com/document/d/1SFfRb9nQK-riCdKChFprocVr97TqUxYra63wSK2fplo/edit?usp=drivesdk)
+* [beatoraja](https://mocha-repository.info/) - BMS Player as Alternative to IIDX / [beatoraja English Guide](https://github.com/wcko87/beatoraja-english-guide/wiki) / [IIDX Install Guide](https://rentry.org/iidxdump)
 * [Unnamed SDVX clone](https://github.com/Drewol/unnamed-sdvx-clone) - Sound Voltex Clone
 * [OpenTaiko](https://github.com/0auBSQ/OpenTaiko) - Taiko no Tatsujin Clone / [Taiko Simulator Guide](https://guide.tjadataba.se/) / [Custom Charts](https://tjadataba.se/)
 * [Etterna](https://etternaonline.com/), [Quaver](https://quavergame.com/), [O2Mania](https://o2mania.info/) or [RoBeats CS](https://www.roblox.com/games/4841678118) - O2Jam Clones / [Online Maps](http://www.flashflashrevolution.com/)
@@ -18028,7 +18030,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * ⭐ **[CDRomance](https://cdromance.com/)** - ROMs
 * ⭐ **[Ziperto](https://ziperto.com/)** - ROMs
 * ⭐ **[ROMhacking](https://www.romhacking.net/)** or [Reality Incorporated](https://sites.google.com/view/bonmarioinc/rom-hacks/released-rom-hacks) - ROM Fan Translations
-* ⭐ **[WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases)**, [WiiU ROMs](https://wiiuroms.net/) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
+* ⭐ **[WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader)**, [WiiU USB Helper](https://github.com/FailedShack/USBHelperInstaller/releases), [WiiU ROMs](https://wiiuroms.net/) or [JNUSTool](https://gbatemp.net/threads/jnustool-nusgrabber-and-cdecrypt-combined.413179/) - ROMs / Wii U
 * ⭐ **[ROM Site Index](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)**
 * [/r/ROMs](https://www.reddit.com/r/ROMs/) - Discussion Sub
 * [ROM Managers](http://emulation.gametechwiki.com/index.php/ROM_managers) - List of ROM Managers
