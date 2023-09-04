@@ -308,6 +308,7 @@
 * ⭐ **[Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search)** - Search by Image
 * ⭐ **[Random Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_random_image_sites)** - Random Image Sites / Some NSFW
 * ⭐ **[Stock Photo Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_stock_photo_sites)** - Download Stock Photos / Vectors / Illustrations / [Multi-Site Search](https://chrome.google.com/webstore/detail/stocks-house/mpdkicmbmbljbgncgphonhgjebnapfop)
+* ⭐ **[AI Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_prompts_.2F_galleries)** - AI Generated Images
 * ⭐ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)** - Download Icons
 * ⭐ **[Kemono](https://kemono.su/)** - Patreon Content / Some NSFW / Use Adblock
 * ⭐ **[gallery-dl](https://github.com/mikf/gallery-dl)**, [RipMe](https://github.com/RipMeApp/ripme), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) or [Image Extractor](https://extract.pics/) - Image Download Tools
