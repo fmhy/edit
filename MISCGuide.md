@@ -359,6 +359,7 @@
 * ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** or [SwoleHalla](https://www.swolehalla.com/) - Fitness Calculators
 * ⭐ **[/u/KNightNox Diagram](https://i.ibb.co/xCGRdM0/c3b977fa36fc.jpg)** - Zoomable Exercise Diagram
 * ⭐ **[Drugs.com](https://www.drugs.com/)** or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
+* ⭐ **[/r/NoSurf](https://www.reddit.com/r/nosurf/wiki/index)** - Digital Detox Community / [Discord](https://discordapp.com/invite/QFhXt2F)
 * [healthgrades](https://www.healthgrades.com/right-care/health-content-a-z), [epocrates](https://online.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
 * [osh](https://www.osh.net/) - Occupational Health and Safety Resources
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
@@ -366,7 +367,6 @@
 * [BreakFree](https://breakfree-2c089.web.app/) - Break Smoking Habits
 * [ZeroPercent](https://zeropercent.club/) - Break Drinking Habits
 * [Sobriety](https://github.com/KiARC/Sobriety) - Sobriety Tracker
-* [/r/NoSurf](https://www.reddit.com/r/nosurf/) - Digital Detox Community / [Discord](https://discordapp.com/invite/QFhXt2F)
 * [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-based Research
 * [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - Harvard University Health Website
 * [Liam Rosen's Fitness Guide](http://liamrosen.com/fitness.html) - Beginners Health & Fitness Guide
@@ -452,8 +452,9 @@
 * [DoItRight](https://doitright.ph/) or [Scarleteen](https://www.scarleteen.com/) - Sex Education Resources
 * [Euki](https://eukiapp.com/) - Sexual / Reproductive Health App
 * [Abortion Resources](https://redd.it/phrcrn) / [2](https://redd.it/vm56bs), [PlannedParenthood](https://www.plannedparenthood.org/) or [Safe2Choose](https://safe2choose.org/) - Abortion Resources
-* [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics
 * [WomenOnWeb](https://www.womenonweb.org/) - Free Abortion Pills
+* [Tubal Sterilization](https://docs.google.com/spreadsheets/d/1Djia_WkrVO3S4jKn6odNwQk7pOcpcL4x00FMNekrb7Q/) - Tubal Sterilization Gynecologists
+* [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics
 * [AS Resources](https://www.everydaybattle.com/resources/) - Ankylosing Spondylitis Resources
 * [Drip](https://bloodyhealth.gitlab.io) - Open Source E2EE Period Tracking App
 * [What Dogs Can Eat](https://www.pawmenow.com/what-dogs-can-eat/) - Search Safe Human Food for Dogs
@@ -900,7 +901,7 @@
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - Smooth Key Scrolling
 * [Wheel Smooth Scroller](https://chrome.google.com/webstore/detail/chromium-wheel-smooth-scr/khpcanbeojalbkpgpmjpdkjnkfcgfkhb?hl=en) - Smooth Scrolling
 * [Get RSS Feed URL](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn) - RSS Feed Generator
-* [NudgeWare](https://nudgeware.io/), [Minto](https://chrome.google.com/webstore/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chrome.google.com/webstore/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia), [Manganum](https://manganum.app/) or [HabitLab](https://habitlab.github.io/) - Productivity Managers / Site Blockers
+* [NudgeWare](https://nudgeware.io/), [Minto](https://chrome.google.com/webstore/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chrome.google.com/webstore/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia), [Manganum](https://manganum.app/), [UnDistracted](https://www.undistracted.app/) or [HabitLab](https://habitlab.github.io/) - Productivity Managers / Site Blockers
 * [Web Activity Time Tracker](https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm?hl=en) - Track Browser Activity
 * [Simple Todo](https://chrome.google.com/webstore/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf) or [Todoist](https://chrome.google.com/webstore/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh?hl=en) - To-Do List
 * [Blueticks](https://chrome.google.com/webstore/detail/blueticks/adgnjhngogijkkppficiiepmjebijinl) - WhatsApp Scheduler
