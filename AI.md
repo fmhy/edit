@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/8jBx2sK)** - For mobile users
+**[Table of Contents](https://ibb.co/JKfrzgP)** - For mobile users
 
 ***
 ***
@@ -225,21 +225,18 @@
 
 # ► Image Generation
 
-* **Note** - Because Stable Diffusion is open source and gives great results, it has garnered a huge community and most of the innovation in image generation is happening using it as the base model. As such, almost all sections and links are based on stable diffusion, unless stated otherwise.
+* **Note** - Because Stable Diffusion works so well most innovation in image generation is happening using it as the base model. As such, almost all sections and links are based on SD, unless stated otherwise.
+
+***
 
 * ⭐ **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** / [Github](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
+* ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - SD Models Index
+* ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)**
+* [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
 * [Kandinsky2](https://fusionbrain.ai/diffusion) / [Github](https://github.com/ai-forever/ru-dalle) / [Demo](https://rudalle.ru/kandinsky2)
 * [Craiyon](https://www.craiyon.com/) / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
 * [Adobe Firefly](https://firefly.adobe.com/) / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
 * [Bing](https://www.bing.com/images/create) - Dall-E Based
-
-***
-
-## ▷ SD Based Models
-
-* **Note** - By taking the base stable diffusion model and training it on different types of images, it can be used to generate images of a specific theme or type. Countless models of such kind are created and updated everyday, so this is not an exhaustive list.
-
-* ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - SD Models Index
 * [Deliberate](https://civitai.com/models/4823/deliberate) - General Purpose
 * [DreamShaper](https://civitai.com/models/4384/dreamshaper) - Oil-Painting like Images
 * [AbsoluteReality](https://civitai.com/models/81458/absolutereality) - Realistic Images
@@ -250,9 +247,7 @@
 
 ***
 
-## ▷ Frontends
-
-* **Note** - These are the UIs to run different image generation models locally on your system. Everything runs offline and you have full control over the entire process.
+## ▷ Local Frontends
 
 * ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** / [Fork](https://github.com/anapnoe/stable-diffusion-webui-ux) / [Collab](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) / [Photoshop Plugin]((https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) / [Templates](https://github.com/ThereforeGames/unprompted)
 * [InvokeAI](https://github.com/invoke-ai/InvokeAI) / [Discord](https://discord.com/invite/ZmtBAhwWhy)
@@ -264,13 +259,11 @@
 * [Radiata](https://github.com/ddPn08/Radiata)
 * [NMKD Stable Diffusion GUI](https://github.com/n00mkrad/text2image-gui)
 * [aiimag.es](https://sunija.itch.io/aiimages) / [Discord](https://discord.com/invite/Fge4dVHFM2)
-* [DiffusionBee](https://diffusionbee.com/) - For Macs / [Github](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
+* [DiffusionBee](https://diffusionbee.com/) - MacsOS / [Github](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
 
 ***
 
-## ▷ Online Generation
-
-* **Note** - To prevent overloading their servers, most sites restrict the number of image generations allowed on their site. These restrictions can increase or decrease depending on the populaity and load on the site's server.
+## ▷ Online Generators
 
 * ⭐ **[Zoo](https://zoo.replicate.dev/)**
 * ⭐ **[PlaygroundAI](https://playgroundai.com/)**
@@ -324,7 +317,7 @@
 
 ***
 
-## ▷ Image Prompts / Gallery
+## ▷ Image Prompts
 
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** / [2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Determine Likely Used Image Prompts
 * ⭐ **[PromptMania](https://promptomania.com/)**
@@ -360,13 +353,6 @@
 * [The Other](https://rentry.org/59xed3), [DummyLoRA](https://rentry.org/dummylora), [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english), [ora_train](https://rentry.org/lora_train) or [lora-training-science](https://rentry.org/lora-training-science) - SD LoRA Guides
 * [SafeTensorsGuide](https://rentry.org/safetensorsguide) - How-to Convert .ckpt to .safetensors
 * [DummyControlNet](https://rentry.org/dummycontrolnet) - ControlNet Guide
-
-***
-
-## ▷ Communities
-
-* ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)**
-* [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
 
 ***
 
