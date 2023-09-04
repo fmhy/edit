@@ -602,6 +602,7 @@
 * [BiologyOnline](https://www.biologyonline.com/) - Biology Articles
 * [Academia](https://www.academia.edu/) - Academic Papers
 * [Scinapse](https://scinapse.io/) - Academic Paper Search
+* [Science.gov](https://www.science.gov/) - Scientific Paper Search
 * [Semantic Scholar](https://www.semanticscholar.org/) - Scientific Paper Search
 * [Consensus](https://consensus.app/) or [Elicit](https://elicit.org/) - Scientific Paper Consensus Search
 * [Connected Papers](https://www.connectedpapers.com/) or [LitMaps](https://app.litmaps.co/) - Find Connected Academic Papers
@@ -1241,7 +1242,8 @@
 * [ebook-converter-bot](https://github.com/yshalsager/ebook-converter-bot) - Telegram Ebook Converter
 * [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to Ebook Converter
 * [CrowBook](https://github.com/lise-henry/crowbook) - Markdown to EPUB Converter
-* [Libby](https://libbyapp.com/) - Library Search
+* [AudioBookConverter](https://github.com/yermak/AudioBookConverter) or [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) - Audiobook Converters
+* [Libby](https://libbyapp.com/) - Library Search / [Downloader](https://github.com/bookbonobo/libby-download-extension)
 * [How-to Get Library Card Online](https://rentry.co/9b3vdo)
 * [BookInfo](https://lordgnomembe.github.io/BookInfo/) - Get Book Info via ISBN
 * [Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrasing) - Generate Text / Article Summaries
