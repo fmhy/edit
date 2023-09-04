@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/JKfrzgP)** - For mobile users
+**[Table of Contents](https://ibb.co/chsTqzC)** - For mobile users
 
 ***
 ***
@@ -230,13 +230,18 @@
 ***
 
 * ⭐ **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** / [Github](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
-* ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - SD Models Index
-* ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)**
+* ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
 * [Kandinsky2](https://fusionbrain.ai/diffusion) / [Github](https://github.com/ai-forever/ru-dalle) / [Demo](https://rudalle.ru/kandinsky2)
 * [Craiyon](https://www.craiyon.com/) / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
 * [Adobe Firefly](https://firefly.adobe.com/) / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
 * [Bing](https://www.bing.com/images/create) - Dall-E Based
+
+***
+
+## ▷ SD Models
+
+* ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - SD Models Index
 * [Deliberate](https://civitai.com/models/4823/deliberate) - General Purpose
 * [DreamShaper](https://civitai.com/models/4384/dreamshaper) - Oil-Painting like Images
 * [AbsoluteReality](https://civitai.com/models/81458/absolutereality) - Realistic Images
