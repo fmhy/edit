@@ -280,9 +280,9 @@
 * [GetIMG.ai](https://getimg.ai/) / [Discord](https://discord.com/invite/5KsUXSzVwS) / 100 Images Monthly
 * [Patience.ai](https://www.patience.ai/) / [Discord](https://discord.com/invite/ppM5yzYX4P) / Unlimited
 * [OpenArt](https://openart.ai/home) / [Discord](https://discord.com/invite/yTMNvk5z97) / Unlimited
-* [Leonardo.ai](https://app.leonardo.ai/) / 30 images daily
-* [Artsio](https://artsio.xyz/) / 20 images daily
-* [DreamLike](https://dreamlike.art) / [Discord](https://discord.com/invite/QyGR2FxsKU) / 12 images daily
+* [Leonardo.ai](https://app.leonardo.ai/) / 30 Images Daily
+* [Artsio](https://artsio.xyz/) / 20 Images Daily
+* [DreamLike](https://dreamlike.art) / [Discord](https://discord.com/invite/QyGR2FxsKU) / 12 Images Daily
 * [Stable Horde](https://stablehorde.net/) - Distributed Network of GPUs running Stable Diffusion / [Interface](https://aqualxx.github.io/stable-ui/), [2](https://tinybots.net/artbot), [3](https://artificial-art.eu/)
 * [DeepAI](https://deepai.org/machine-learning-model/stable-diffusion) / [2](https://deepai.org/machine-learning-model/text2img)
 * [Uranus AI](https://uranus.ai/)
