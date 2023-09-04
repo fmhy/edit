@@ -1009,7 +1009,6 @@
 
 * ⭐ **[Reddit Favorites](https://redditfavorites.com/)**, [Kit.co](https://kit.co/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product / Service Reviews
 * ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** or **[Didn't Know I Wanted That](https://www.didntknowiwantedthat.com/)** - Find Interesting Things to Buy
-* ⭐ **[Giftasic](https://giftastic.ai/)** - Gift Ideas AI
 * ⭐ **[DarkPatternsTipline](https://darkpatternstipline.org/)** - Deceptive Service Design Tipline
 * [Pepper](https://www.pepper.com/) - Shopping Community
 * [AllArk](https://allark.io/) - Buy Stuff via Crypto
