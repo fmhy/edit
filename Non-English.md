@@ -32,7 +32,7 @@
 
 * ⭐ **[FaselHD](https://www.faselhd.vip/)** - Movies / TV / Anime
 * ⭐ **[64kLive](https://64k.live/)** - Anime
-* [Cima4U](https://fc22.cimaa4u.net/) - Movies / TV / [Telegram](https://t.me/cima4u10) / Changes Domains Monthly
+* [Cima4U](https://fc22.cimaa4u.net/) - Movies / TV / [Telegram](https://t.me/cima4u11) / Changes Domains Monthly
 * [w.arlionz](https://arlionztv.click/) - Movies / TV
 * [aflaam](https://aflaam.com/) - Movies / TV
 * [LODYNET](https://lodynet.link/) - Movies / TV
