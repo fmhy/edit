@@ -134,6 +134,8 @@
 * [TextPieces](https://github.com/liferooter/textpieces) - Quick Text Transformations
 * [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI
 * [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
+* [VirtScreen](https://github.com/kbumsik/VirtScreen) - Use Mobile Device as Monitor
+* [Weylus](https://github.com/H-M-H/Weylus) - Use Mobile Device as Trackpad
 * [nyrna](https://github.com/Merrit/nyrna) - Suspend Apps / Games
 * [bluetuith](https://github.com/darkhz/bluetuith) - Bluetooth Manager
 * [QR Scan](https://github.com/sayanarijit/qrscan) - QR Code Scanner
