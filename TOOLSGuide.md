@@ -994,7 +994,7 @@
 * [ThemeBeta](https://www.themebeta.com/) - Change Chrome Theme
 * [BrowserParrot](https://www.browserparrot.com/) - Browser History Search Engine
 * [Hurl](https://github.com/U-C-S/Hurl) - Select Browser on URL Clicks
-* [Edge-Remover](https://rentry.co/uninstall_edge) - Microsoft Edge Removal Script
+* [Edge-Remover](https://rentry.co/uninstallmsedge) - Microsoft Edge Removal Script
 * [NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge), [Edge_Removal.bat](https://github.com/AveYo/fox/blob/main/Edge_Removal.bat) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
 * [xBrowserSync](https://github.com/xbrowsersync/app) - Sync Browser Data Browsers / Devices
 * [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)
