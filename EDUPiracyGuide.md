@@ -887,7 +887,7 @@
 * ⭐ **[Data Visualization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)** - Create Chart / Visualize Data
 * ⭐ **[Q&A Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)** - Ask Questions to AI
 * ⭐ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - Grammar Checking Tools
-* ⭐ **[Text Rephrashing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing)** - Rephrase / Paraphrase Tools
+* ⭐ **[Text Rephrasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrasing)** - Rephrase / Paraphrase Tools
 * [OpenBoard](https://openboard.ch/), [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
 * [NCES](https://nces.ed.gov/) - Education Statistics and Tools
 * [MyAssignmentHelp](https://myassignmenthelp.com/free-tools.php) - Academic Tools
