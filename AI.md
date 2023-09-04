@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/chsTqzC)** - For mobile users
+**[Table of Contents](https://ibb.co/w6xdzJj)** - For mobile users
 
 ***
 ***
@@ -297,7 +297,7 @@
   
 ***
 
-## ▷ Image Prompts
+## ▷ Prompts / Galleries
 
 * ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** / [2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Determine Likely Used Image Prompts
 * ⭐ **[PromptMania](https://promptomania.com/)**
@@ -311,6 +311,7 @@
 * [Maze.guru](https://maze.guru/gallery)
 * [ArtHub.ai](https://arthub.ai/)
 * [Vitalentum](https://vitalentum.net/)
+* [POKEIT](https://pokeit.ai/)
 * [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz)
 * [Prompt Book](https://openart.ai/discovery) / [Discord](https://discord.com/invite/yTMNvk5z97)
 * [PTSearch](https://www.ptsearch.info/tags/list/)
@@ -432,6 +433,7 @@
 * [ClownFish](https://clownfish-translator.com/voicechanger/) - Voice Changer
 * [NeuralSVB](https://github.com/MoonInTheRiver/NeuralSVB) - Singing Voice Enhancer
 * [Voice Cloning App](https://github.com/BenAAndrew/Voice-Cloning-App) - Voice Cloning
+* [Kits AI](https://www.kits.ai/) - Voice Cloning
 * [Real Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Voice Cloning
 * [Beyondwords](https://beyondwords.io/) - Voice cloning
 * [VCloner](https://vocloner.com/) - Voice Cloning
@@ -439,6 +441,7 @@
 * [Musicfy](https://musicfy.lol/) - Voice Cloning
 * [tortoise](https://github.com/152334H/tortoise-tts-fast) - Voice Cloning / [Colab](https://colab.research.google.com/drive/1N8lXviiwfmrS9vYzuFdQnLHlddXMMMvU#scrollTo=vF1d-My9IXXt)
 * [AI Voice Clonig](https://git.ecker.tech/mrq/ai-voice-cloning/wiki) - Voice Cloning Guide
+* [AI hub](https://discord.gg/aihub) - AI Voice Profiles
 
 ***
 
