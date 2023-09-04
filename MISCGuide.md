@@ -24,6 +24,7 @@
 * ⭐ **[Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)** - Piracy Index
 * ⭐ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)** - Artificial Intelligence Indexes
 * ⭐ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
+* ⭐ **[FMHY Guides](https://rentry.co/fmhy-guides)** - Automated List of Rentry Guides
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
 * ⭐ **[Awesome List Index](https://github.com/topics/awesome)**, [Track Awesome](https://www.trackawesomelist.com/), [GitHub Awesome](https://app.polymersearch.com/discover/github-awesome), [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness), [Generated Awesomeness](https://github.com/orsinium-labs/generated-awesomeness) or [Awesome](https://github.com/sindresorhus/awesome) - Awesome List Indexes 
 * ⭐ **Awesome List Tools** - [Search](https://awesomelists.top/) / [Stumble](https://github.com/basharovV/StumbleUponAwesome) / [CLI](https://github.com/umutphp/awesome-cli) / [Markdown Extractor](https://github.com/evilsh3ll/datahoarder-website-to-markdown)
