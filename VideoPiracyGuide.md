@@ -435,6 +435,7 @@
 * ⭐ **[Reddit Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_streams)** - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
 * ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)** or [IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) - IPTV Resources / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
+* [SusFlix](https://susflix.tv/)** - TV / Sports / [Discord](https://discord.gg/BE7kTVezBN)
 * [TOTV](http://totv.org/) - TV / Sport
 * [DaddyLive](https://daddylivehd.sx/) - TV / Sport
 * [XUMO](https://www.xumo.tv/channels) - TV
