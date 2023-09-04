@@ -99,8 +99,20 @@
 #### Android Browsers
 
 * ⭐ **[Firefox](https://www.mozilla.org/)** - [F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/) / [Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/)
+* ⭐ **[FFUpdater](https://github.com/Tobi823/ffupdater)** - Multi-Browser Updater
 
 [Iceraven Browser](https://github.com/fork-maintainers/iceraven-browser), [Kiwi Browser](https://kiwibrowser.com/), [Stargon Browser](https://play.google.com/store/apps/details?id=net.onecook.browser), [Berry Browser](https://play.google.com/store/apps/details?id=jp.ejimax.berrybrowser), [Ecosia](https://play.google.com/store/apps/details?id=com.ecosia.android), [AlohaBrowser](https://alohabrowser.com/), [Via Browser](https://play.google.com/store/apps/details?id=mark.via.gp), [Lynket](https://github.com/arunkumar9t2/lynket-browser), [Lightning Browser](https://github.com/anthonycr/Lightning-Browser), [Float Browser](https://play.google.com/store/apps/details?id=com.xpp.floatbrowser), [Fulguris](https://github.com/Slion/Fulguris)
+
+**Privacy Based**
+
+* ⭐ **[Mull](https://f-droid.org/packages/us.spotco.fennec_dos/)**
+* [Mull-Fenix](https://github.com/Divested-Mobile/Mull-Fenix)
+* [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
+* [SmartCookieWeb](https://smartcookieweb.com/)
+* [Privacy Browser](https://www.stoutner.com/privacy-browser-android/)
+* [friendly](https://friendly.io/)
+* [Thor](https://gitlab.com/remmer.wilts/thor)
+* [Scoute-Dich](https://github.com/scoute-dich/browser)
 
 ***
 
@@ -2005,17 +2017,6 @@ Add the following commands to a search to manually scrape each site.
 * [Narsil](https://git.nixnet.services/Narsil/desktop_user.js) - Firefox
 * [Brave Setup Guide](https://gitlab.com/CHEF-KOCH/brave-browser-hardening)
 
-**Android**
-
-* ⭐ **[FFUpdater](https://github.com/Tobi823/ffupdater)** - Multi-Browser Updater
-* [Mull-Fenix](https://github.com/Divested-Mobile/Mull-Fenix)
-* [DuckDuckGo Privacy Browser](https://duckduckgo.com/app)
-* [SmartCookieWeb](https://smartcookieweb.com/)
-* [Privacy Browser](https://www.stoutner.com/privacy-browser-android/)
-* [friendly](https://friendly.io/)
-* [Thor](https://gitlab.com/remmer.wilts/thor)
-* [Scoute-Dich](https://github.com/scoute-dich/browser)
-
 ***
 
 #### Privacy Guides
@@ -3025,9 +3026,9 @@ Add the following commands to a search to manually scrape each site.
 
 #### Userscript Managers
 
-* ⭐ **[Greasymonkey](https://www.greasespot.net/)**
 * ⭐ **[Violentmonkey](https://violentmonkey.github.io/)**
-* [Tampermonkey](https://www.tampermonkey.net/)
+* ⭐ **[Tampermonkey](https://www.tampermonkey.net/)**
+* [Greasemonkey](https://www.greasespot.net/)
 * [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/)
 
 ***
