@@ -641,7 +641,6 @@
 * [AnimeAcademy](https://animeacademy.in/) - Anime / [Telegram](https://t.me/AnimeAcademyTeam)
 * [ToonWorld4All](https://toonworld4all.me/) - Cartoons / Anime / [Discord](https://discord.com/invite/qp8RD4JEpf) / [Telegram](https://t.me/+GoVKCk6B6t84MmY1)
 * [TVToonsIndia](https://tvtoonsindia.com/) - Cartoons / Anime / [Telegram](https://t.me/tvtoonsindiaofficial)
-* [PureToons](https://puretoons.cc/) - Cartoons / Anime
 * [New Hindi Animes](https://t.me/New_Hindi_Animes) - Anime
 * [Hindi Cartoons](https://telegra.ph/All-of-my-Channels-List-02-18) - Cartoons
 * [DesiRulez](https://desirulez.co/) - Video / Audio
