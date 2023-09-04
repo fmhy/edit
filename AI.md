@@ -223,20 +223,68 @@
 ***
 ***
 
-# ► Image Generators
+# ► Image Generation
 
-* ⭐ **[Zoo](https://zoo.replicate.dev/)** - Multi-AI Image Generators
-* ⭐ **[Bing](https://www.bing.com/images/create)** - Dall-E Based AI Image Generator
-* ⭐ **[Craiyon](https://www.craiyon.com/)** - AI Image Generator / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
-* ⭐ **[Kandinsky2](https://fusionbrain.ai/diffusion)** - AI Image Generator / [Github](https://github.com/ai-forever/ru-dalle) / [Demo](https://rudalle.ru/kandinsky2)
-* ⭐ **[Adobe Firefly](https://firefly.adobe.com/)** - AI Image Generator / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
-* ⭐ **[Lexica](https://lexica.art/)**, [PicFinder](https://picfinder.ai/), [SeaArt](https://www.seaart.ai/), [PixAI](https://pixai.art/), [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images), [One More AI](https://onemoreai.flutterflow.app/), [Maze.guru](https://maze.guru/gallery), [ArtHub.ai](https://arthub.ai/), [Vitalentum](https://vitalentum.net/) or [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz) - AI Image Search
-* ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)** - AI Image Community
-* ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** / [2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Determine Likely Used Image Prompts
-* ⭐ **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
-* ⭐ **[PromptMania](https://promptomania.com/)** - AI Image Prompt Generator
-* [PublicPrompts](https://publicprompts.art/) - AI Image Prompts / [Discord](https://discord.com/invite/jvQJFFFx26)
+* **Note** - Because Stable Diffusion is open source and gives great results, it has garnered a huge community and most of the innovation in image generation is happening using it as the base model. As such, almost all sections and links are based on stable diffusion, unless stated otherwise.
+
+* ⭐ **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** / [Github](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
+* [Kandinsky2](https://fusionbrain.ai/diffusion) / [Github](https://github.com/ai-forever/ru-dalle) / [Demo](https://rudalle.ru/kandinsky2)
+* [Craiyon](https://www.craiyon.com/) / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
+* [Adobe Firefly](https://firefly.adobe.com/) / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
+* [Bing](https://www.bing.com/images/create) - Dall-E Based
+
+***
+
+## ▷ SD Based Models
+
+* **Note** - By taking the base stable diffusion model and training it on different types of images, it can be used to generate images of a specific theme or type. Countless models of such kind are created and updated everyday, so this is not an exhaustive list.
+
+* ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - SD Models Index
+* [Deliberate](https://civitai.com/models/4823/deliberate) - General Purpose
+* [DreamShaper](https://civitai.com/models/4384/dreamshaper) - Oil-Painting like Images
+* [AbsoluteReality](https://civitai.com/models/81458/absolutereality) - Realistic Images
+* [Realitic Vision](https://civitai.com/models/4201/realistic-vision-v51) - Realistic Images
+* [ReV Animated](https://civitai.com/models/7371/rev-animated) - Illustrations
+* [Counterfeit](https://civitai.com/models/4468/counterfeit-v30) - Anime Images
+* [MeinaMix](https://civitai.com/models/7240/meinamix) - Anime Girls / [Discord](https://discord.com/invite/meinaverse)
+
+***
+
+## ▷ Frontends
+
+* **Note** - These are the UIs to run different image generation models locally on your system. Everything runs offline and you have full control over the entire process.
+
+* ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** / [Fork](https://github.com/anapnoe/stable-diffusion-webui-ux) / [Collab](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) / [Photoshop Plugin]((https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) / [Templates](https://github.com/ThereforeGames/unprompted)
+* [InvokeAI](https://github.com/invoke-ai/InvokeAI) / [Discord](https://discord.com/invite/ZmtBAhwWhy)
+* [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+* [StableStudio](https://github.com/Stability-AI/StableStudio)
+* [Easy Diffusion](https://stable-diffusion-ui.github.io/)
+* [SD.Next](https://github.com/vladmandic/automatic)
+* [Sygil WebUI](https://github.com/Sygil-Dev/sygil-webui) / [Discord](https://discord.com/invite/ttM8Tm6wge)
+* [Radiata](https://github.com/ddPn08/Radiata)
+* [NMKD Stable Diffusion GUI](https://github.com/n00mkrad/text2image-gui)
+* [aiimag.es](https://sunija.itch.io/aiimages) / [Discord](https://discord.com/invite/Fge4dVHFM2)
+* [DiffusionBee](https://diffusionbee.com/) - For Macs / [Github](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
+
+***
+
+## ▷ Online Generation
+
+* **Note** - To prevent overloading their servers, most sites restrict the number of image generations allowed on their site. These restrictions can increase or decrease depending on the populaity and load on the site's server.
+
+* ⭐ **[Zoo](https://zoo.replicate.dev/)**
+* ⭐ **[PlaygroundAI](https://playgroundai.com/)**
+* ⭐ **[Dezgo](https://dezgo.com/)** / [Discord](https://discord.com/invite/RQrGpUhPhx)
+* ⭐ **[GetIMG.ai](https://getimg.ai/)** / [Discord](https://discord.com/invite/5KsUXSzVwS)
+* ⭐ **[Anime Art Studio](https://animeart.studio/)**, [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion-v1-4/), [NijiJourney](https://nijijourney.com/en) or [BPModel](https://huggingface.co/Crosstyan/BPModel) - Anime Image Generators
 * [Stable Horde](https://stablehorde.net/) - AI Image Generator / [Client](https://dbzer0.itch.io/lucid-creations)
+* [RandomSeed](https://randomseed.co/) - Online / [Discord](https://discord.com/invite/wbPsPtmpuK)
+* [Playgrounds](https://playgrounds.ai/) - Online
+* [Stable UI](https://aqualxx.github.io/stable-ui/) - Online
+* [StableDiffusionOnline](https://stablediffusiononline.net/) - Online
+* [Mage](https://www.mage.space/) - Online / [Discord](https://discord.com/invite/GT9bPgxyFP)
+* [Stable Diffusion Web](https://stablediffusionweb.com/) - Online
+* [OpenJourney](https://replicate.com/prompthero/openjourney) - Online / Tuned w/ Midjourney
 * [Pinegraph](https://pinegraph.com/create) - Image Transformation / Sketchpad
 * [Patience.ai](https://www.patience.ai/) - Multiple AI Image Generators
 * [StableCog](https://stablecog.com/) - AI Image Generator / [Discord](https://discord.com/invite/AJyYd6AUEn) / [Github](https://github.com/stablecog/stablecog)
@@ -265,53 +313,60 @@
 * [Diffuse The Rest](https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest) - AI Image Generator
 * [Pollinations](https://pollinations.ai/) - AI Image Generator
 * [Playarti](https://www.playarti.com/) - AI Image Generator
-* [MemeCam](https://www.memecam.io/) - AI Meme Generator
-* [Gligen](https://huggingface.co/spaces/gligen/demo) - Open-Set Grounded Text-to-Image Generation
 * [AI Notebooks](https://colab.research.google.com/github/lstein/stable-diffusion/blob/main/notebooks/Stable_Diffusion_AI_Notebook.ipynb) - AI Image Generation Colab
 * [NOP / WAS](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17) - AI Image Generation Colab
+* [MagicBrush](https://www.magicbru.sh/), [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/) - AI Image Transformers
+* [SD InPainting](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) / [2](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting) / [3](https://github.com/geekyutao/Inpaint-Anything) or [Lama Cleaner](https://github.com/Sanster/lama-cleaner) - AI Image Fill / Item Removal
+* [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Shap-e](https://github.com/openai/shap-e) or [ThreeStudio](https://github.com/threestudio-project/threestudio) - 3D Image Generators
-* [AI Gahaku](https://ai-art.tokyo/en/), [Paint by Numbers](https://paint-by-number.com/pages/create-your-own-paint-by-number), [SunCatcher Studio](https://suncatcherstudio.com/photo-to-painting/) or [InstaPainting](https://www.instapainting.com/assets/) - Turn Photos into Artwork
-* [Pet AI](https://petai.art/) - Turn Pet Photos into Artwork
-* [Nightmare Machine](http://nightmare.mit.edu/) - Scary AI Generated Imagery
 * [Interiorai](https://interiorai.com/) - AI Interior Design Tool
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) - Protect Digital Art from AI Copies
 
 ***
 
-## ▷ Stable Diffusion
+## ▷ Image Prompts / Gallery
 
-* ⭐ **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** - AI Image Generator / [Github](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion) / [Desktop App](https://github.com/Stability-AI/StableStudio)
-* ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** - Self-Host / [Fork](https://github.com/vladmandic/automatic), [2](https://github.com/anapnoe/stable-diffusion-webui-ux) / [Infinite Zoom](https://github.com/v8hid/infinite-zoom-automatic1111-webui)
-* ⭐ **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** - Self-Host / [Discord](https://discord.com/invite/ZmtBAhwWhy)
-* ⭐ **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** - Self-Host
-* ⭐ **[PlaygroundAI](https://playgroundai.com/)** - Online
-* ⭐ **[Dezgo](https://dezgo.com/)** - Online / [Discord](https://discord.com/invite/RQrGpUhPhx)
-* ⭐ **[GetIMG.ai](https://getimg.ai/)** - Online / [Discord](https://discord.com/invite/5KsUXSzVwS)
-* ⭐ **[Anime Art Studio](https://animeart.studio/)**, [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion-v1-4/), [NijiJourney](https://nijijourney.com/en) or [BPModel](https://huggingface.co/Crosstyan/BPModel) - Anime Image Generators
-* ⭐ **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - List of Stable Diffusion Models
-* [Easy Diffusion](https://stable-diffusion-ui.github.io/) - Self-Host
-* [Sygil WebUI](https://github.com/Sygil-Dev/sygil-webui) - Self-Host / [Discord](https://discord.com/invite/ttM8Tm6wge)
-* [Radiata](https://github.com/ddPn08/Radiata) - Self-Host
-* [NMKD Stable Diffusion GUI](https://github.com/n00mkrad/text2image-gui) - Self-Host
-* [StableStudio](https://github.com/Stability-AI/StableStudio) - Self-Host
-* [aiimag.es](https://sunija.itch.io/aiimages) - Self-Host / [Discord](https://discord.com/invite/Fge4dVHFM2)
-* [RandomSeed](https://randomseed.co/) - Online / [Discord](https://discord.com/invite/wbPsPtmpuK)
-* [Playgrounds](https://playgrounds.ai/) - Online
-* [Stable UI](https://aqualxx.github.io/stable-ui/) - Online
-* [StableDiffusionOnline](https://stablediffusiononline.net/) - Online
-* [Mage](https://www.mage.space/) - Online / [Discord](https://discord.com/invite/GT9bPgxyFP)
-* [Stable Diffusion Web](https://stablediffusionweb.com/) - Online
-* [OpenJourney](https://replicate.com/prompthero/openjourney) - Online / Tuned w/ Midjourney
-* [DiffusionBee](https://diffusionbee.com/) - Self-Host for Macs / [Github](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) / [Discord](https://discord.com/invite/t6rC5RaJQn)
-* [SD InPainting](https://huggingface.co/spaces/fffiloni/stable-diffusion-inpainting) / [2](https://huggingface.co/spaces/runwayml/stable-diffusion-inpainting) / [3](https://replicate.com/stability-ai/stable-diffusion-inpainting) / [4](https://github.com/geekyutao/Inpaint-Anything) or [Lama Cleaner](https://github.com/Sanster/lama-cleaner) - AI Image Fill / Item Removal
-* [InPainter](https://inpainter.vercel.app/paint) - Online Inpainting / [Github](https://github.com/replicate/inpainter)
-* [MagicBrush](https://www.magicbru.sh/), [image-mixer-demo](https://huggingface.co/spaces/lambdalabs/image-mixer-demo), [AITransformer](https://aitransformer.net/), [DummyControlNet](https://rentry.org/dummycontrolnet) or [Img2Img](https://huggingface.co/spaces/trysem/SD-2.1-Img2Img) - AI Image Transformers
-* [Photoshop StableDiffusion](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - Stable Diffusion for Photoshop
-* [a1111-sd-webui-lycoris](https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris) - Load Lycoris Models
+* ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** / [2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Determine Likely Used Image Prompts
+* ⭐ **[PromptMania](https://promptomania.com/)**
+* ⭐ **[Lexica](https://lexica.art/)**
+* [PublicPrompts](https://publicprompts.art/) / [Discord](https://discord.com/invite/jvQJFFFx26)
+* [PicFinder](https://picfinder.ai/)
+* [SeaArt](https://www.seaart.ai/)
+* [PixAI](https://pixai.art/)
+* [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images)
+* [One More AI](https://onemoreai.flutterflow.app/)
+* [Maze.guru](https://maze.guru/gallery)
+* [ArtHub.ai](https://arthub.ai/)
+* [Vitalentum](https://vitalentum.net/)
+* [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz)
+* [Prompt Book](https://openart.ai/discovery) / [Discord](https://discord.com/invite/yTMNvk5z97)
+* [PTSearch](https://www.ptsearch.info/tags/list/)
+
+***
+
+## ▷ Guides / Indexes
+
+* ⭐ **[A Traveler’s Guide to the Latent Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f)** - AI Art Guide
+* ⭐ **[Voldy](https://rentry.org/voldy)** - Stable Diffusion Guide
+* ⭐ **[SD Compendium](https://www.sdcompendium.com/)** - Stable Diffusion Guide
+* ⭐ **[SD Quickstart](https://redd.it/xvhavo)** - Stable Diffusion Guide
+* ⭐ **[1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw)** - Stable Diffusion Guide
+* ⭐ **[RentrySD](https://rentry.org/RentrySD/)**, **[Pharmapsychotic](https://pharmapsychotic.com/tools.html)**, [Paper2GUI](https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md), [SD Goldmine](https://rentry.org/sdgoldmine), [Akashic](https://github.com/Maks-s/sd-akashic), [sdg-link](https://rentry.org/sdg-link), [SDTools](https://sdtools.org) or [AI Creation Tools](https://docs.google.com/spreadsheets/d/1zYJUM-srhgIA7wrj4Pe4QqepAsHIEC00DydoTPv4PWg/edit#gid=0) - AI Image Resources
+* [TheAlly's Guide](https://civitai.com/models/22881/) - Stable Diffusion Guide
+* [StableDiffusion Cheatsheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - Stable Diffusion Cheatsheet
+* [Textard](https://rentry.org/textard) - Textual Inversion Guide
+* [drfar](https://rentry.org/drfar) - InPainting Guide
+* [AnimAnon](https://rentry.org/AnimAnon) - AI Animation Guide
+* [The Other](https://rentry.org/59xed3), [DummyLoRA](https://rentry.org/dummylora), [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english), [ora_train](https://rentry.org/lora_train) or [lora-training-science](https://rentry.org/lora-training-science) - SD LoRA Guides
+* [SafeTensorsGuide](https://rentry.org/safetensorsguide) - How-to Convert .ckpt to .safetensors
+* [DummyControlNet](https://rentry.org/dummycontrolnet) - ControlNet Guide
+
+***
+
+## ▷ Communities
+
+* ⭐ **[Unstable Diffusion](https://discord.com/invite/unstablediffusion)**
 * [/r/sdforall](https://www.reddit.com/r/sdforall/) - Stable Diffusion Subreddit
-* [StableDiffusionUI](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) - AI Image Generation Colab
-* [Unprompted](https://github.com/ThereforeGames/unprompted) - Stable Diffusion Text Generator
-* [Prompt Book](https://openart.ai/discovery) / [Discord](https://discord.com/invite/yTMNvk5z97) or [PTSearch](https://www.ptsearch.info/tags/list/) - Image Prompts
 
 ***
 
@@ -328,23 +383,6 @@
 ***
 
 ## ▷ [Background Removal](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_background_removers)
-
-***
-
-## ▷ Generator Guides
-
-* ⭐ **[A Traveler’s Guide to the Latent Space](https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f)** - AI Art Guide
-* ⭐ **[Voldy](https://rentry.org/voldy)** - Stable Diffusion Guide
-* ⭐ **[SD Compendium](https://www.sdcompendium.com/)** - Stable Diffusion Guide
-* ⭐ **[SD Quickstart](https://redd.it/xvhavo)** - Stable Diffusion Guide
-* ⭐ **[1 Min Stable Diffusion](https://youtu.be/l3JjTDvyVdw)** - Stable Diffusion Guide
-* [TheAlly's Guide](https://civitai.com/models/22881/) - Stable Diffusion Guide
-* [StableDiffusion Cheatsheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - Stable Diffusion Cheatsheet
-* [Textard](https://rentry.org/textard) - Textual Inversion Guide
-* [drfar](https://rentry.org/drfar) - InPainting Guide
-* [AnimAnon](https://rentry.org/AnimAnon) - AI Animation Guide
-* [The Other](https://rentry.org/59xed3), [DummyLoRA](https://rentry.org/dummylora), [ezlora](https://rentry.org/ezlora), [Dreambooth](https://rentry.org/2chAI_LoRA_Dreambooth_guide_english), [ora_train](https://rentry.org/lora_train) or [lora-training-science](https://rentry.org/lora-training-science) - SD LoRA Guides
-* [SafeTensorsGuide](https://rentry.org/safetensorsguide) - How-to Convert .ckpt to .safetensors
 
 ***
 ***
