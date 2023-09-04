@@ -438,6 +438,7 @@
 * [SusFlix](https://susflix.tv/)** - TV / Sports / [Discord](https://discord.gg/BE7kTVezBN)
 * [TOTV](http://totv.org/) - TV / Sport
 * [DaddyLive](https://daddylivehd.sx/) - TV / Sport
+* [MrGamingStreams](https://mrgamingstreams.com/) - TV / Sports
 * [XUMO](https://www.xumo.tv/channels) - TV
 * [Sportsurge.club](https://sportsurge.club/) - Sports
 * [PrimaSport](https://primasport.one/) - Sports / [Telegram](https://t.me/totalsportweb)
