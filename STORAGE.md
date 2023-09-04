@@ -3337,7 +3337,7 @@ Add the following commands to a search to manually scrape each site.
 * [VueTube](https://github.com/VueTubeApp/VueTube)
 * [SkyTube](https://github.com/SkyTubeTeam/SkyTube)
 * [FreeTubeCordova](https://github.com/MarmadileManteater/FreeTubeCordova)
-* [ReVanced Patcher](https://github.com/decipher3114/Revancify)
+* [ReVanced Patcher](https://github.com/decipher3114/Revancify) or [ReX-patches](https://github.com/YT-Advanced/ReX-patches) - ReVanced Patches
 
 **ReVanced App Builders**
 
