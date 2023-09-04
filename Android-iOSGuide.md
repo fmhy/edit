@@ -25,7 +25,7 @@
 * [APKTool](https://github.com/iBotPeaches/Apktool) - APK Reverse Engineering Tool
 * [BlackDex](https://github.com/CodingGay/BlackDex) - APK Unpacking Tool
 * [FOSS Package Creator](https://un.pixel-fy.com/) - Create Open Source APK Packages
-* [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) or [APKGrabber](https://github.com/hemker/apkgrabber) or [Obtainium](https://github.com/ImranR98/Obtainium/) - APK Updaters
+* [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll), [APKUpdater](https://github.com/rumboalla/apkupdater) or [APKGrabber](https://github.com/hemker/apkgrabber) or [Obtainium](https://github.com/ImranR98/Obtainium/) - APK Updaters
 * [Let Me Downgrade](https://github.com/DavidBerdik/Let-Me-Downgrade) - Downgrade Apps on Android 12/13
 * [APKAdmin](https://apkadmin.com/) - APK Hosting Site
 
@@ -711,7 +711,7 @@
 # ► Android Reading
 
 * ⭐ **[Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers)** - List of Multi-Platform Ebook Readers
-* ⭐ **[Mobilism](https://forum.mobilism.org/app/)** or [Project Gutenberg](https://github.com/Pool-Of-Tears/Myne) - Ebook Site Apps
+* ⭐ **[Mobilism](https://forum.mobilism.org/app/)**, [Openlib](https://github.com/dstark5/Openlib) or [Project Gutenberg](https://github.com/Pool-Of-Tears/Myne) - Ebook Site Apps
 * ⭐ **[Librera](http://librera.mobi/)** - Ebook Reader
 * ⭐ **[Lithium](https://play.google.com/store/apps/details?id=com.faultexception.reader)** - Ebook Reader
 * ⭐ **[Readera](https://play.google.com/store/apps/details?id=org.readera)** - PDF Reader
@@ -792,6 +792,7 @@
 * [TuneDetective](https://github.com/n000tavailable/tunedetective) - Music Recommendation App
 * [HZP](https://hzp.co/) - Solfeggio Frequency Player
 * [Quorus](https://quorus.net/) - Collaborative Playlists
+* [UpNext GPT](https://github.com/dokar3/upnext-gpt) - Playlist Generator
 * [unMix](https://unmix.ru/) - Remove Vocal Tracks
 * [MusicSpeedChanger](https://musicspeedchanger.com/) - Music Speed Changer
 * [Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots) - Download / FLAC / MP3
