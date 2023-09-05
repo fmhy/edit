@@ -62,7 +62,7 @@
 * [AgentRunner](https://www.agentrunner.ai/) - Create Autonomous AI Agents
 * [Instrukt](https://github.com/blob42/Instrukt) - AI Testing Environment
 * [Dify](https://dify.ai/) - Create AI Apps
-* [Free AI APIs](https://github.com/NovaOSS/free-ai-apis) - AI APIs
+* [Free AI APIs](https://github.com/NovaOSS/free-ai-apis) or [Nova OSS](https://nova-oss.com/) - AI APIs
 
 ***
 
