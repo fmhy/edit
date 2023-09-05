@@ -298,6 +298,7 @@
 * [Anix](https://anix.to/) - Sub / Dub / 1080p
 * [123Anime](https://123animes.ru/) - Sub / Dub / 1080p
 * [AnimeLon](https://animelon.com/) - Sub / Learn Japanese / 1080p
+* [Ryuk](https://ryuk.to/) - Sub / Dub / 1080p / [Dicord](https://discord.com/invite/FrWnWRrZmk)
 * [Kaguya](https://kaguya.app/) - Sub / 1080p / [Discord](https://discord.gg/382BEFfER6)
 * [Genoanime](https://genoanime.com/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/TMe9eVs2YY)
 * [Animeflix](https://animeflix.live/) - Sub / Dub / 1080p
@@ -306,7 +307,6 @@
 * [Playtaku](https://anihdplay.com/) - Sub / Dub / 1080p
 * [AnimeHeaven](https://animeheaven.me/) - Sub / 1080p
 * [AnimeNana](https://animenana.com/) - Sub / 1080p
-* [Anikatsu](https://anikatsu.me/) - Sub / Dub / 1080p / [Dicord](https://discord.com/invite/FrWnWRrZmk)
 * [Anify](https://anify.tv/) - Sub / 1080p
 * [Animegg](https://www.animegg.org/) - Sub / Dub / 1080p
 * [YugenAnime](https://yugenanime.tv/) - Sub / Dub / 1080p / [Discord](https://discord.gg/MQqwQREyCz)
