@@ -292,7 +292,7 @@
 * [Pluma](https://plumareader.com/), [Feeder](https://gitlab.com/spacecowboy/Feeder), [FeedMe](https://github.com/seazon/FeedMe), [news](https://github.com/bubelov/news) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers
 * [UnicodePad](https://github.com/Ryosuke839/UnicodePad) or [Kaomoji](https://play.google.com/store/apps/details?id=ru.kaomoji.kaomojiapp) - Emoji / Unicode Manager
 * [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix) - Combine Emojis
-* [Clipboarded](https://github.com/TrianguloY/SimpleClipboardEditor), [Clipboard CopyPaste](http://www.evvasoft.com/ccp.html) or [Clipboard History](https://play.google.com/store/apps/details?id=com.rubbishcollector.clipboardhistory) - Clipboard Managers
+* [Clipboarded](https://github.com/TrianguloY/SimpleClipboardEditor), [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian), [Clipboard CopyPaste](http://www.evvasoft.com/ccp.html) or [Clipboard History](https://play.google.com/store/apps/details?id=com.rubbishcollector.clipboardhistory) - Clipboard Managers
 * [Irregular Expressions](https://play.google.com/store/apps/details?id=mf.asciitext.lite) - Text Font Generator
 * [chatgpt-android](https://github.com/skydoves/chatgpt-android) or [ChatGPT-android-app](https://github.com/matthaigh27/ChatGPT-android-app) - ChatGPT for Android
 * [Botify AI](https://botif.ai/) or [Chai](https://www.chai-research.com/) - Roleplaying Chatbots
