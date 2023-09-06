@@ -356,7 +356,6 @@
 * ⭐ **[Digitalbookindex](http://www.digitalbookindex.org)**
 * ⭐ **[AcademicTorrents](https://academictorrents.com/)**
 * ⭐ **[IvyPanda](https://ivypanda.com/blog/1000-open-textbooks-and-learning-resources-for-all-subjects/)** - List of Educational Sites
-* ⭐ **[Math Resource Guide](https://free-math-resources.netlify.app/)** - Curated list of math resources by /u/javacoder19
 * ⭐ **[Language Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_language_learning)** - Language Learning Tools, Books & Sites
 * [Institutional Access](https://www.facebook.com/groups/850609558335839) - Request Institutional Access PDFs
 * [Math and Physics Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#math-and-physics-books) - [Discord](https://discord.gg/v23hTtx)
@@ -406,7 +405,6 @@
 * [Saylor](https://www.saylor.org/books/) - Textbooks
 * [Wikibooks](https://en.wikibooks.org/) - Open-Content Texbooks
 * [Pearson](https://redd.it/smm6ib) - Pearson Textbook Download Guide
-* [PowerInBooks](https://powerinbooks.xyz/temp/) - Textbook Solutions
 * [LearnCreative](https://learncreative.net/) - IIT, JEE, NEET & AIIMS Material
 * [JEEBooksPDF](https://m.youtube.com/c/JEEBooksPDF) - JEE Material / [Telegram](https://telegram.me/jeebookspdf) / DL's in Descriptions
 * [ck12](https://www.ck12.org/)- Interactive CK-12
@@ -643,7 +641,6 @@
 * [Alexandria](https://www.alexandria.ucsb.edu/) - Research Papers
 * [Paper Panda](https://paperpanda.app/) - Research Papers
 * [Open Access Library](https://www.oalib.com/) - Research Papers
-* [CyberLeninka](https://cyberleninka.org/) - Research Papers
 * [Paperity](https://paperity.org/) - Research Papers
 * [OpenAire](https://explore.openaire.eu/) - Research Papers
 * [Association for learning Technology](https://repository.alt.ac.uk/view/subjects/) - Research Papers
