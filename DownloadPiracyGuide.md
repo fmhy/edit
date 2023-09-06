@@ -120,7 +120,6 @@
 * ⭐ **[Hatt](https://github.com/FrenchGithubUser/Hatt)** - File Search App
 * [File Host Search](https://cse.google.com/cse?cx=90a35b59cee2a42e1)
 * [scnlog](https://scnlog.me/)
-* [FileNinja](https://fileninja.net/)
 * [filesearch.link](http://filesearch.link/)
 * [Linktury](https://www.linktury.com/)
 * [WarezOmen](https://warezomen.com/) - Indexer / Search Engine
@@ -263,7 +262,6 @@
 
 * ⭐ **[Soulseek](https://slsknet.org/)** or [Nicotine+](https://nicotine-plus.org/) - File Sharing App / [Stats](https://github.com/mrusse/Slsk-Upload-Stats-Tracker) / [Server App](https://github.com/slskd/slskd)
 * [Shareaza](http://shareaza.sourceforge.net/) - File Sharing App
-* [MLDonkey](http://mldonkey.sourceforge.net/Main_Page) - File Sharing App
 * [Fopnu](https://fopnu.com/) - File Sharing App
 * [DC++](https://dcplusplus.sourceforge.io/index.html) - File Sharing App / [Clients](https://dchublists.com/clients/) / [Hubs](https://dchublists.com/), [2](https://dchublist.org/), [3](https://dchublist.biz/)
 * [eMule](https://www.emule-project.net/) or [eMule Plus](https://sourceforge.net/projects/emuleplus/) - File Sharing App
@@ -303,7 +301,7 @@
 * [NZBFinder](https://nzbfinder.ws/)
 * [NZBKing](http://nzbking.com/)
 * [g4u](https://g4u.to/) - Download Games via Usenet / pw: 404
-* [UsenetArchives](https://usenetarchives.com/) or [OldUSe](https://article.olduse.net/) - Search Usenet Articles
+* [OldUSe](https://article.olduse.net/) - Search Usenet Articles
 * [althub](https://althub.co.za) - Unlimited Free Trials
 * [nZEDb](https://github.com/nZEDb/nZEDb) - Self-Hosted
 * [Spotweb](https://github.com/spotweb/spotweb) - Spotnet Client
