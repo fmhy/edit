@@ -180,7 +180,6 @@
 * [Moneiac Course](https://t.me/moneiac_course) - Courses / Telegram
 * [learningDL](https://learningdl.net/) - Courses / Leech required
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - Courses / Tutorials
-* [Course Code Drive](https://ddpanda.net/code/) - Courses
 * [FreetutsDownload.com](https://freetutsdownload.com/) - Courses / GDrive Host
 * [iTunes U](https://github.com/nbats/FMHYedit/blob/main/base64.md#itunesu-lectures) - Lectures
 * [ScalerFullStack](https://t.me/scalerfullstack), [ScalerNerds](https://t.me/scalerds) or [scalerfullstackproductmanagement](https://t.me/scalerfullstackproductmanagement) - Scaler Courses
@@ -951,6 +950,7 @@
 * [Graded](https://github.com/NightDreamGames/Graded) - Grades Tracker / Android
 * [Quizlet](https://quizlet.com/) / [Paywall Bypass](https://github.com/rospino74/Quizlet-Bypass)/ [2](https://discord.gg/VuD7WBvXCQ), [Shmoop](https://www.shmoop.com/) or [SparkNotes](https://www.sparknotes.com/) - Quizzes / Study Material / [Show Hidden](https://greasyfork.org/en/scripts/423872) / [Explanations](https://greasyfork.org/en/scripts/434972), [2](https://greasyfork.org/en/scripts/438663)
 * [Knowt](https://knowt.io/) - Free Quizlet Alternative / AP Study Guides
+* [Grades?](https://discord.gg/KeE9xtjA9W) or [Study Space](https://discord.gg/Hmvb2yM57s) / [2](https://discord.gg/BbmNHtnwnJ) / [3](https://discord.gg/J24ZH3u2Gs) - Unlock Courses (Chegg, Bartleby, StuDocu etc.)
 * [guIHelp](https://discord.gg/rgF9jY8CpH) - Bartleby, Quizlet, Coursehero & Scribd Bot
 * [Quizizz](https://quizizz.com/) - Create Quizzes, Lessons, Flashcards & Presentations
 * [Anki](https://apps.ankiweb.net/) / [CLI](https://github.com/TBS1996/speki), [Flashcards.io](https://flashcards.io/), [Scholarcy Flashcards](https://article-summarizer.scholarcy.com/summarizer), [StudyLib](https://www.studylib.net/), [FlashcardX](https://ai.flashcardx.com/) or [Flashcard Machine](https://www.flashcardmachine.com/) - Flash Card Tools
