@@ -160,7 +160,7 @@
 * [stripegenerator](http://www.stripegenerator.com/) - Stripe Generator 
 * [MakeTintAndShade](https://maketintsandshades.com/) - Tint and Shade Generator
 * [Flow Field](https://github.com/romellogoodman/flow-field.js) - Flow Field Generator
-* [Stooge](https://stooge.me/) or [MakeBeliefsComix](https://makebeliefscomix.com/) - Comic Creators
+* [MakeBeliefsComix](https://makebeliefscomix.com/) - Comic Creators
 * [Zine Machine](https://zine-machine.glitch.me/) or [Electric Zine Maker](http://unicornycopia.com/ezm/) - Create / Print Zines
 * [BannerEasy](https://www.bannereasy.com) or [Bannery](https://bannery.app/) - Create Custom Banners
 * [Mind Your Banners](https://www.mindyourbanners.com/) - Social Media Banner Creator
