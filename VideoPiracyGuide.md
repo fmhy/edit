@@ -736,6 +736,7 @@
 
 * ⭐ **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)**
 * ⭐ **[1337x Movies](https://1337x.to/top-100-movies)** - Movies / TV / Anime
+* ⭐ **[RuTracker Movies](https://rutracker.org/forum/index.php?c=2)** - Movies / TV / Anime
 * [EZTV](https://eztv.re/) - TV / Anime / Do [NOT](https://thetechzone.online/do-not-register-on-this-torrent-website-filter-your-data-to-hollywood/) Make Account 
 * [RARBG Lite](https://rarbglite.github.io/) - RARBG Movie Magnet Archive
 * [MSearch](https://msearch.vercel.app/) - Movies / TV
