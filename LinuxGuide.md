@@ -577,7 +577,6 @@
 * [Macupdate](https://www.macupdate.com/)
 * [Cmacked](https://cmacked.com/)
 * [Mac Torrents](https://www.torrentmac.net/)
-* [MacTorrents](https://mactorrents.io/)
 * [InsMac](https://insmac.org/)
 * [MacX](https://macx.ws/)
 * [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
