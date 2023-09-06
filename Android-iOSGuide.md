@@ -20,7 +20,7 @@
 * [Raccoon](https://raccoon.onyxbits.de/) - Private APK Downloader
 * [APKeep](https://github.com/EFForg/apkeep) - APK Download CLIs
 * [APK Generator](https://play.google.com/store/apps/details?id=com.aksapps.apkgenerator) or [APK Saver](https://play.google.com/store/apps/details?id=com.sdkdevelopers.apksaver) - Save APK File for Installed Apps
-* [Kanade](https://github.com/alexrintt/kanade), [Apk Extractor](https://play.google.com/store/apps/details?id=com.ext.ui) or [APKExtractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) - APK Extractors
+* [Kanade](https://github.com/alexrintt/kanade) or [APKExtractor](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor) - APK Extractors
 * [APK Editor Studio](https://qwertycube.com/apk-editor-studio/) - APK Editor
 * [APKTool](https://github.com/iBotPeaches/Apktool) - APK Reverse Engineering Tool
 * [BlackDex](https://github.com/CodingGay/BlackDex) - APK Unpacking Tool
@@ -815,7 +815,7 @@
 * [Audify](https://play.google.com/store/apps/details?id=in.codeseed.audify) - Reduce Notification Distractions
 * [Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification) - Identify Playing Songs
 * [skipTrackLongPressVolume](https://github.com/Cilenco/skipTrackLongPressVolume) or [Volumee](https://maslanka.app/volumee/) - Volume Button Track Control
-* [CAPod](https://play.google.com/store/apps/details?id=eu.darken.capod) or [PodsCompanion](https://github.com/Domi04151309/PodsCompanion) - Extra AirPod Features
+* [PodsCompanion](https://github.com/Domi04151309/PodsCompanion) - Extra AirPod Features
 * [OpenPods](https://github.com/adolfintel/OpenPods) - Monitor AirPods
 * [MImport](https://julioverne.github.io/description.html?id=com.julioverne.mimport) - Audio Import Tool
 
@@ -882,7 +882,6 @@
 * [Bouncy](https://github.com/WeeklyProblem/Bouncy) - Movies / TV / Anime / Chromecast
 * [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) - Movies / TV / Anime
 * [FilmPlus](https://filmplus.app/) - Movies / TV
-* [IsraTV](https://isratv.netlify.app/) - Movies / TV / Live TV
 * WiWiCenter - [Movies / TV](https://cinema.wiwicenter.com/) / [Anime](https://anime.wiwicenter.com/) - Use Adblocker
 * [Upflix](https://www.upflix.net/) - Movies / TV
 * [TeaTV](https://forum.mobilism.org/search.php?keywords=teatv&sr=topics&sf=titleonly) - Movies / TV
@@ -1178,7 +1177,6 @@
 * ⭐ **[ReJail](https://rejail.ru/)** - App / Tweak Repository
 * ⭐ **[CyPwn](https://repo.cypwn.xyz/)**, [2](https://ipa.cypwn.xyz/) - App Repository / [Discord](https://discord.gg/cypwn)
 * ⭐ **[Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** - Open Source App Index
-* ⭐ **[A.I. Apps](https://appraven.net/collection.php?listId=63b5eef1904afd2a981cead0)** - AI App Index
 * [TrollStore](https://github.com/opa334/TrollStore) - iOS Apps / 14.0-15.4.1 / [IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)
 * [Streamiza](https://t.me/streamiza) - Tweaked Apps / Telegram / [Discord](https://linktr.ee/Streamiza)
 * [App Cake](https://www.iphonecake.com/) - Cracked Apps / [Discord](https://discord.com/invite/TgY2Qmb)
