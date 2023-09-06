@@ -149,13 +149,12 @@
 * [jialezi](https://blog.jialezi.net/) - Chinese Tutorials
 * [Kaiheila](https://www.kookapp.cn/) - Chinese Discord
 * [Diaosi Forum](https://assbbs.com/) or [WangChao](https://www.wangchao.info/) - Piracy Discussion
-* [zimuku](https://zimuku.org/), [assrt](https://assrt.net/), [SubHD](https://www.subhdtw.com/sub/tv), [YYSub](https://www.yysub.net/), [zimuku](https://zimuku.org/), [a4k](https://a4k.net/) or [SubHD](https://subhd.tv/) - Subtitles
+* [zimuku](https://zimuku.org/), [assrt](https://assrt.net/), [zimuku](https://zimuku.org/) or [SubHD](https://subhd.tv/) - Subtitles
 * [ChineseSubtitleConversionTool](https://github.com/xiaoxinpro/ChineseSubtitleConversionTool) - Traditional and Simplified Chinese Subtitle Conversion Tool
 * [Anti-Ad](https://anti-ad.net/) - Adblock Filters
 * [GameLoop](https://syzs.qq.com/) - Android Emulator
 * [Thanox](https://github.com/Tornaco/Thanox) - Android System Manager
 * [Baidu](https://www.baidu.com/), [Toutiao](https://www.toutiao.com/), [sogou](https://www.sogou.com/) or [yisou](http://yisou.com/) - Search Engines
-* [Dianying](https://dianying.fm/) - Hash Search
 * [SooPAT](http://www2.soopat.com/) - Patent Search
 * [news_pdf](https://t.me/news_pdf), [TopHub](https://tophub.today/), [Chinadaily](http://cn.chinadaily.com.cn/) or [China Watch](http://www.chinadaily.com.cn/chinawatch_fr/index.html) - News
 * [IT Home](https://www.ithome.com/) - Tech News
@@ -1876,7 +1875,6 @@
 * [TinMp3](https://tinmp3.com/) - Music
 * [NhacHay360](https://nhachayvn.net/) - Music
 * [NhacRemix](https://nhacremixs.com/) - Music
-* [NgheNhac123](https://nghenhac123.com/) - Music
 
 ## ▷ Torrenting
 
@@ -1886,7 +1884,6 @@
 ## ▷ Streaming
 
 * [BiluTV](https://bilutv.link/) - Movies / TV / Anime
-* [xemphim1080](https://xemphim1080.com/) - Movies / TV
 * [MotChill](https://motchill.tv/) - Movies / TV
 * [PhimChill](https://phimmoichillb.net/) - Movies / TV
 * [XemPhim](https://xemphim.app/) - Movies / TV
