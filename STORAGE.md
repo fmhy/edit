@@ -120,7 +120,7 @@
 
 * ⭐ **[MiXplorer](https://mixplorer.com/)**, [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) - [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
 
-[rcx](https://x0b.github.io/), [Amaze File Manager](https://teamamaze.xyz/), [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager), [Ghost Commander](https://sourceforge.net/projects/ghostcommander/), [Solid Explorer](https://github.com/nbats/FMHYedit/blob/main/base64.md#solid-explorer), [Material Files](https://github.com/zhanghai/MaterialFiles), [ES File Explorer](https://archive.org/details/es-file-explorergood-version), [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), [IrkFM](https://github.com/lfuelling/lrkFM), [File Manager](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager), [Astro](https://play.google.com/store/apps/details?id=com.metago.astro), [SD Maid SE](https://github.com/d4rken-org/sdmaid-se), [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch)
+[rcx](https://x0b.github.io/), [Amaze File Manager](https://teamamaze.xyz/), [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager), [Ghost Commander](https://sourceforge.net/projects/ghostcommander/), [Solid Explorer](https://github.com/nbats/FMHYedit/blob/main/base64.md#solid-explorer), [Material Files](https://github.com/zhanghai/MaterialFiles), [ES File Explorer](https://archive.org/details/es-file-explorergood-version), [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), [IrkFM](https://github.com/lfuelling/lrkFM), [SD Maid SE](https://github.com/d4rken-org/sdmaid-se), [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch)
 
 ***
 
@@ -433,7 +433,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Color Palette Generators
 
-[Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/), [ColorSpace](https://mycolor.space/), [Material Palette](https://www.materialpalette.com/), [Adobe Color](https://color.adobe.com/), [0to255](https://0to255.com/), [Bootflat](https://bootflat.github.io/color-picker.html), [BrandColors](https://brandcolors.net/), [colorful gradients](https://colorfulgradients.tumblr.com/), [COLOURlovers](https://www.colourlovers.com/), [CoolHue](https://webkul.github.io/coolhue/), [Flat UI Colors 2](https://flatuicolors.com/), [Material UI](https://materialui.co/colors/), [Color Hunt](https://colorhunt.co/), [ColorsWall](https://colorswall.com/), [Pigment](https://pigment.shapefactory.co/), [Image to Color Palette Generator](http://www.patorjk.com/color-palette-generator/), [ColourCode](https://www.toptal.com/designers/colourcode/), [Colorscales](http://www.colorscales.com/), [colors.lol](https://colors.lol/), [Color Palette Generator](https://www.degraeve.com/color-palette), [ColorBox](https://colorbox.io/), [Eva Design System](https://colors.eva.design/), [Scale](https://hihayk.github.io/scale/), [calcolor.co](https://calcolor.co/), [Color Lisa](https://colorlisa.com/), [Cohesive Colors](https://javier.xyz/cohesive-colors/), [Color Leap](https://colorleap.app/), [ColorHuddle](https://colorhuddle.co/), [Coolors](https://coolors.co/), [UI Colors](https://uicolors.app/create), [Randoma11y](https://randoma11y.com/), [Pywal](https://github.com/dylanaraps/pywal), [ColorKit](https://colorkit.co/color-palette-generator/), [Color Picker](https://colorsupplyyy.com/app), [Huemint](https://huemint.com/), [accessiblepalette](https://accessiblepalette.com/), [colorcolor](https://colorcolor.in/), [copypalette](https://copypalette.app/), [couleur.io](https://couleur.io/)
+[Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/), [ColorSpace](https://mycolor.space/), [Material Palette](https://www.materialpalette.com/), [Adobe Color](https://color.adobe.com/), [0to255](https://0to255.com/), [Bootflat](https://bootflat.github.io/color-picker.html), [BrandColors](https://brandcolors.net/), [colorful gradients](https://colorfulgradients.tumblr.com/), [COLOURlovers](https://www.colourlovers.com/), [CoolHue](https://webkul.github.io/coolhue/), [Flat UI Colors 2](https://flatuicolors.com/), [Material UI](https://materialui.co/colors/), [Color Hunt](https://colorhunt.co/), [ColorsWall](https://colorswall.com/), [Pigment](https://pigment.shapefactory.co/), [Image to Color Palette Generator](http://www.patorjk.com/color-palette-generator/), [ColourCode](https://www.toptal.com/designers/colourcode/), [Colorscales](http://www.colorscales.com/), [colors.lol](https://colors.lol/), [Color Palette Generator](https://www.degraeve.com/color-palette), [ColorBox](https://colorbox.io/), [Eva Design System](https://colors.eva.design/), [Scale](https://hihayk.github.io/scale/), [calcolor.co](https://calcolor.co/), [Color Lisa](https://colorlisa.com/), [Cohesive Colors](https://javier.xyz/cohesive-colors/), [Color Leap](https://colorleap.app/), [ColorHuddle](https://colorhuddle.co/), [Coolors](https://coolors.co/), [UI Colors](https://uicolors.app/create), [Randoma11y](https://randoma11y.com/), [Pywal](https://github.com/dylanaraps/pywal), [ColorKit](https://colorkit.co/color-palette-generator/), [Huemint](https://huemint.com/), [accessiblepalette](https://accessiblepalette.com/), [colorcolor](https://colorcolor.in/), [copypalette](https://copypalette.app/), [couleur.io](https://couleur.io/)
 
 ***
 
@@ -549,7 +549,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)**
 * ⭐ **[JetBrains](https://jetbrains.com/)** - [Trial Script](https://gist.github.com/Gkhnzdmr/29fe3f1c4cf3d3984df4cf380e490074) / [License Server](https://github.com/crazy-max/docker-jetbrains-license-server)
 
-[Free-for-students](https://shalvah.me/Free-for-students/), [DevToys](https://devtoys.app/), [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse Foundation](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Developer Stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [Clean CSS](https://www.cleancss.com/), [Dev Resources](https://devresourc.es/), [Developer Tools and Resources](https://github.com/IliasHad/Developer-Tools-and-Resources), [FreeFormatter.com](https://freeformatter.com/), [Utilities and Tools Online](https://utilities-online.info/), [Free Online Tools for Everyone](https://online-toolz.com/), [String Functions](https://string-functions.com/), [Online String Tools](https://onlinestringtools.com/), [Convert String](https://convertstring.com/), [Coders Tool](https://www.coderstool.com/), [Coder’s Toolbox](https://coderstoolbox.net/), [elmah.io](https://elmah.io/tools/), [Prototypr](https://prototypr.io/toolbox/page/1), [AppDevTools](https://appdevtools.com/), [IT Tools](https://it-tools.tech/), [Addy](https://toolkit.addy.codes/), [toolki](https://toolki.com/en), [Coding Tools](https://coding.tools/), [Tavernhell](https://tavernhell.github.io/useful-stuff/)
+[Free-for-students](https://shalvah.me/Free-for-students/), [DevToys](https://devtoys.app/), [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse Foundation](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Developer Stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [Clean CSS](https://www.cleancss.com/), [Dev Resources](https://devresourc.es/), [Developer Tools and Resources](https://github.com/IliasHad/Developer-Tools-and-Resources), [FreeFormatter.com](https://freeformatter.com/), [Utilities and Tools Online](https://utilities-online.info/), [Free Online Tools for Everyone](https://online-toolz.com/), [String Functions](https://string-functions.com/), [Online String Tools](https://onlinestringtools.com/), [Convert String](https://convertstring.com/), [Coders Tool](https://www.coderstool.com/), [Coder’s Toolbox](https://coderstoolbox.net/), [elmah.io](https://elmah.io/tools/), [Prototypr](https://prototypr.io/toolbox/page/1), [AppDevTools](https://appdevtools.com/), [IT Tools](https://it-tools.tech/), [Addy](https://toolkit.addy.codes/), [toolki](https://toolki.com/en), [Coding Tools](https://coding.tools/)
 
 ***
 
@@ -814,13 +814,11 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * https://sshkit.com/
 * https://www.flyssh.com/
 * https://www.jagoanssh.com/
-* http://criarssh.com/
 * https://dewassh.net/
 * https://digitalssh.net/
 * https://sshaccess.com/
 * https://www.speedssh.com/
 * https://www.fastssh.com/
-* https://sharevpn.org/
 * https://www.mytunneling.com/
 * https://createssh.net/
 * https://opentunnel.net/
@@ -854,7 +852,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[File Converter](https://file-converter.org/)** / [GitHub](https://github.com/Tichau/FileConverter)
 * ⭐ **[CloudConvert](https://cloudconvert.com/)**
 
-[Bear File Converter](https://www.ofoct.com/), [FreeConvert](https://www.freeconvert.com/), [Online Convert](https://www.online-convert.com/), [Convertio](https://convertio.co/), [Zamzar](https://www.zamzar.com/), [Online Converter](https://www.onlineconverter.com/), [Format Factory](http://www.pcfreetime.com/formatfactory/index.php?language=en), [File-Coversion](https://www.files-conversion.com/), [PPT Online](https://www.aspose.app/), [File-Conversion](https://www.files-conversion.com/), [AnyConvert](https://anyconv.com/), [Converter 365](https://www.converter365.com/), [MiConv](https://miconv.com/), [11zon](https://www.11zon.com/), [Webp2JPGjs](https://webp2jpgjs.com/), [Convert Town](https://convert.town/), [ACConvert](https://www.aconvert.com/), [ConvertFiles](https://www.convertfiles.com/), [.to Sites](https://rentry.co/nsq29), [Better Converter](https://better-converter.com/), [xConvert](https://www.xconvert.com/), [conversion-tool](https://www.conversion-tool.com/), [onlineconvertfree](https://onlineconvertfree.com/), [go4convert](https://go4convert.com/), [videoutils](https://www.videoutils.com/), [101convert](https://www.101convert.com/), [FormatSwap](https://formatswap.com/)
+[Bear File Converter](https://www.ofoct.com/), [FreeConvert](https://www.freeconvert.com/), [Online Convert](https://www.online-convert.com/), [Convertio](https://convertio.co/), [Zamzar](https://www.zamzar.com/), [Online Converter](https://www.onlineconverter.com/), [Format Factory](http://www.pcfreetime.com/formatfactory/index.php?language=en), [File-Coversion](https://www.files-conversion.com/), [PPT Online](https://www.aspose.app/), [File-Conversion](https://www.files-conversion.com/), [AnyConvert](https://anyconv.com/), [Converter 365](https://www.converter365.com/), [MiConv](https://miconv.com/), [11zon](https://www.11zon.com/), [Convert Town](https://convert.town/), [ACConvert](https://www.aconvert.com/), [ConvertFiles](https://www.convertfiles.com/), [.to Sites](https://rentry.co/nsq29), [Better Converter](https://better-converter.com/), [xConvert](https://www.xconvert.com/), [conversion-tool](https://www.conversion-tool.com/), [onlineconvertfree](https://onlineconvertfree.com/), [go4convert](https://go4convert.com/), [videoutils](https://www.videoutils.com/), [101convert](https://www.101convert.com/), [FormatSwap](https://formatswap.com/)
 
 **Telegram Bots**
 
@@ -1048,7 +1046,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * https://katdrive.net/
 * https://yushare.my.id/
 * https://yamidrive.com/
-* https://gdtot.pro/ - Proxy
 
 ***
 
@@ -1203,7 +1200,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)**
 
-[Text Grab](https://github.com/TheJoeFin/Text-Grab), [TextShot](https://github.com/ianzhao05/textshot), [OnlineOCR](https://onlineocr.org/), [IMG2TXT](https://img2txt.com/), [NewOCR](https://www.newocr.com/), [OCR.SPACE](https://ocr.space/), [Project Naptha](https://projectnaptha.com/), [Extract text from image](https://brandfolder.com/workbench/extract-text-from-image), [2ocr](https://2ocr.com/), [free-online-ocr](http://www.free-online-ocr.com/), [i2ocr](https://www.i2ocr.com/), [ImageToText](https://www.imagetotext.info/), [OnlineOCR](https://www.onlineocr.net/), [pomodoro](https://pomodoro.semlab.io/), [ImageScanOCR](https://github.com/ttop32/ImageScanOCR)
+[Text Grab](https://github.com/TheJoeFin/Text-Grab), [TextShot](https://github.com/ianzhao05/textshot), [OnlineOCR](https://onlineocr.org/), [IMG2TXT](https://img2txt.com/), [NewOCR](https://www.newocr.com/), [OCR.SPACE](https://ocr.space/), [Project Naptha](https://projectnaptha.com/), [Extract text from image](https://brandfolder.com/workbench/extract-text-from-image), [2ocr](https://2ocr.com/), [i2ocr](https://www.i2ocr.com/), [ImageToText](https://www.imagetotext.info/), [OnlineOCR](https://www.onlineocr.net/), [pomodoro](https://pomodoro.semlab.io/), [ImageScanOCR](https://github.com/ttop32/ImageScanOCR)
 
 ***
 
@@ -1212,7 +1209,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[IrfanView](https://www.irfanview.com/)**
 * ⭐ **[JPEGView](https://github.com/sylikc/jpegview)**
 
-[qimgv](https://github.com/easymodo/qimgv), [nomacs](https://nomacs.org/), [ImageGlass](https://imageglass.org/), [PhotoQt](https://github.com/luspi/photoqt), [PicView](https://github.com/Ruben2776/PicView), [Image Eye](https://www.fmjsoft.com/imageeye.html), [qView](https://interversehq.com/qview/), [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/) / [Git](https://github.com/ModuleArt/quick-picture-viewer), [Fragment](https://www.fragmentapp.info/), [qView](https://github.com/jurplel/qView), [HoneyView](https://en.bandisoft.com/honeyview/), [Visum](https://apps.microsoft.com/store/detail/visum-photo-viewer/9N1X3Z50BLM8)
+[qimgv](https://github.com/easymodo/qimgv), [ImageGlass](https://imageglass.org/), [PhotoQt](https://github.com/luspi/photoqt), [PicView](https://github.com/Ruben2776/PicView), [Image Eye](https://www.fmjsoft.com/imageeye.html), [qView](https://interversehq.com/qview/), [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/) / [Git](https://github.com/ModuleArt/quick-picture-viewer), [Fragment](https://www.fragmentapp.info/), [qView](https://github.com/jurplel/qView), [HoneyView](https://en.bandisoft.com/honeyview/), [Visum](https://apps.microsoft.com/store/detail/visum-photo-viewer/9N1X3Z50BLM8)
 
 **Image Galleries / Optimization**
 
@@ -1333,7 +1330,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * https://whereislibgen.vercel.app/
 * http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down
 * https://sguru.org/libgen-proxy/
-* https://libgen.lc/
 * https://libgen.fun/
 * https://libgen.li/ (more than just libgen)
 
@@ -1347,7 +1343,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Link Protectors
 
-[SafeLinking](https://safelinking.net/), [bdwp](https://imwcr.cn/api/bdwp/), [Gdrivez](https://gdrivez.xyz/), [UpToLink](https://uptolink1.com/), [TSU.one](https://tsu.one/), [externallink](https://externallink.xyz/), [BrBushare](https://brbushare.info/), [KeepLinks](https://www.keeplinks.org/), [ShortLinkto](https://shortlinkto.xyz/)
+[SafeLinking](https://safelinking.net/), [bdwp](https://imwcr.cn/api/bdwp/), [Gdrivez](https://gdrivez.xyz/), [UpToLink](https://uptolink1.com/), [TSU.one](https://tsu.one/), [externallink](https://externallink.xyz/), [KeepLinks](https://www.keeplinks.org/), [ShortLinkto](https://shortlinkto.xyz/)
 
 ***
 
@@ -1615,7 +1611,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[Download Helper](https://www.downloadhelper.net/)**
 
-[Video Downloader](https://provd.net/), [AddonCrop](https://addoncrop.com/v25/), [Cococut](https://cococut.net/), [skyload](http://skyload.io/), [SVD](https://chrome.google.com/webstore/detail/svd-video-downloader/jbialncfijnjojchcmhfmjgjggbbdghb/related?hl=en), [Video Downloader Professional](https://chrome.google.com/webstore/detail/video-downloader-professi/dlpiaeofjhnjeckpjcbhmnifdejoikpa), [Easy Video Downloader](https://add0n.com/easy-video-downloader.html), [Unlimited_downloader](https://greasyfork.org/en/scripts/445751), [y2monkey](https://github.com/jijirae/y2monkey), [FetchV](https://fetchv.net/)
+[Video Downloader](https://provd.net/), [AddonCrop](https://addoncrop.com/v25/), [Cococut](https://cococut.net/), [skyload](http://skyload.io/), [SVD](https://chrome.google.com/webstore/detail/svd-video-downloader/jbialncfijnjojchcmhfmjgjggbbdghb/related?hl=en), [Video Downloader Professional](https://chrome.google.com/webstore/detail/video-downloader-professi/dlpiaeofjhnjeckpjcbhmnifdejoikpa), [Easy Video Downloader](https://add0n.com/easy-video-downloader.html), [y2monkey](https://github.com/jijirae/y2monkey), [FetchV](https://fetchv.net/)
 
 ***
 
@@ -1991,7 +1987,7 @@ Add the following commands to a search to manually scrape each site.
 
 ⭐ **[PROXY List](https://github.com/TheSpeedX/PROXY-List)**
 
-[Free-Proxy-List](https://free-proxy-list.net/), [Proxy-Daily](https://proxy-daily.com/), [Cool-Proxy](https://www.cool-proxy.net/), [Proxy4Parsing](https://github.com/proxy4parsing) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://github.com/roosterkid/openproxylist), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hidemy.name/en/proxy-list/), [FreeProxyLists](https://www.freeproxylists.net/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [premproxy](https://www.premproxy.com/list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [web-proxylist](http://free-proxy.cz/en/web-proxylist), [freeproxyupdate](https://freeproxyupdate.com/), [proxypedia](https://proxypedia.org), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [free-proxy-list](https://free-proxy-list.com/), [proxydb](http://proxydb.net/), [freeproxy](https://freeproxy.world/), [premiumproxy](https://premiumproxy.net/), [proxyservers](https://proxyservers.pro/), [advanced.name](https://advanced.name/freeproxy), [http-proxy-list](https://github.com/mertguvencli/http-proxy-list), [monosans list](https://github.com/monosans/proxy-list), [jetkai list](https://github.com/jetkai/proxy-list), [nntime](http://nntime.com/),[megaproxylist](https://www.megaproxylist.net/)
+[Free-Proxy-List](https://free-proxy-list.net/), [Proxy-Daily](https://proxy-daily.com/), [Cool-Proxy](https://www.cool-proxy.net/), [Proxy4Parsing](https://github.com/proxy4parsing) / [Telegram](https://t.me/proxy4parsing), [OpenProxyList](https://github.com/roosterkid/openproxylist), [ProxyScrape](https://www.proxyscrape.com/free-proxy-list), [proxy-list](https://github.com/mmpx12/proxy-list), [hide.my proxy list](https://hidemy.name/en/proxy-list/), [FreeProxyLists](https://www.freeproxylists.net/), [ProxyNations](https://www.proxynations.com/), [spys.one](https://spys.one/en/free-proxy-list/), [cyber-gateway](https://cyber-gateway.net/get-proxy/free-proxy), [ree-proxy-list](https://free-proxy-list.net/web-proxy.html), [geonode](https://geonode.com/free-proxy-list/), [web-proxylist](http://free-proxy.cz/en/web-proxylist), [freeproxyupdate](https://freeproxyupdate.com/), [proxypedia](https://proxypedia.org), [proxydocker](https://www.proxydocker.com/en/proxylist/), [proxyhub](https://proxyhub.me/), [proxy-list](https://proxy-list.download/), [free-proxy-list](https://free-proxy-list.com/), [proxydb](http://proxydb.net/), [freeproxy](https://freeproxy.world/), [premiumproxy](https://premiumproxy.net/), [proxyservers](https://proxyservers.pro/), [advanced.name](https://advanced.name/freeproxy), [http-proxy-list](https://github.com/mertguvencli/http-proxy-list), [monosans list](https://github.com/monosans/proxy-list), [jetkai list](https://github.com/jetkai/proxy-list), [megaproxylist](https://www.megaproxylist.net/)
 
 ***
 
@@ -2127,7 +2123,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Reddit Frontends
 
-[Reeddit](https://reedditapp.com/), [Saturnus](https://saturnusapp.com/), [kddit](https://kddit.kalli.st/), [Photon](https://photon-reddit.com/)
+[Reeddit](https://reedditapp.com/), [Saturnus](https://saturnusapp.com/), [Photon](https://photon-reddit.com/), [kddit](https://kddit.kalli.st/)
 
 ***
 
@@ -2147,7 +2143,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[VPS Comparison Chart](https://lowendstock.com/)** - VPS Comparisons
 
-[RDPEmpire](https://discord.io/RDPEmpire2711), [TigerVNC](https://tigervnc.org/), [Oracle VPS](https://rentry.co/oraclevps), [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz), [w-colab](https://github.com/akuhnet/w-colab), [FreeVPS](https://rentry.co/freevps), [AppOnFly](https://app.apponfly.com/trial)
+[TigerVNC](https://tigervnc.org/), [Oracle VPS](https://rentry.co/oraclevps), [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz), [w-colab](https://github.com/akuhnet/w-colab), [FreeVPS](https://rentry.co/freevps), [AppOnFly](https://app.apponfly.com/trial)
 
 **Multi-Computer**
 
@@ -2334,7 +2330,6 @@ Add the following commands to a search to manually scrape each site.
 * https://moviecracker.net/
 * https://fmovieshd.vip/
 * https://moviesjoy.to/
-* https://fullmoviehd4k.com/
 * https://cataz.net/
 * https://tinyzonetv.to/
 * https://tinyzonetv.cc/
@@ -2352,7 +2347,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### SFX / Loops
 
-[Adobe Audition Downloads](https://offers.adobe.com/en/na/audition/offers/audition_dlc.html), [Free-Loops](https://free-loops.com/), [FreeSOundEffects](https://www.freesoundeffects.com/), [Freesound](https://freesound.org/), [soundbible](https://soundbible.com/), [flashkit](https://board.flashkit.com/), [ZapsPlat](https://www.zapsplat.com/), [OrangeFreeSounds](https://orangefreesounds.com/), [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) / [Downloader](https://github.com/FThompson/BBCSoundDownloader), [looperman](https://www.looperman.com/loops), [sonniss2019](http://ftpmirror.your.org/pub/misc/sonniss2019/), [storyblocks](https://www.storyblocks.com/), [LabChirp](http://labbed.net/software/labchirp/), [Bfxr](https://www.bfxr.net/), [Noizable](https://noizable.media/), [sampleswap](https://sampleswap.org/), [samplefocus](https://samplefocus.com/), [soundpacks](https://soundpacks.com/), [Soundfishing](https://www.soundfishing.eu/), [SampleScope](https://samplescope.app/), [splice](https://splice.com/), [MeowPad](https://meowpad.me/), [/r/LoopKits](https://www.reddit.com/r/loopkits/), [freesound](https://freesound.org/), [sampleswap](https://sampleswap.org/), [audiostorrent](https://audiostorrent.com/), [GoAudio](https://goaudio.me/), [VSTHouse](http://vsthouse.ru/), [Audio Plugin](https://audioplugin.net/), [VST-Platinum](https://vst-platinum.com/), [SamplesHome](https://sampleshome.com/), [Magesy](https://magesy.blog/), [MagesyPro](https://www.magesypro.com/), [Music-Create](https://music-create.org/), [Audio.Tools](https://audio.tools/), [jbouchat](http://jbouchat.ucoz.com/), [Audioz](https://audioz.download/), [FreeSoundLibrary](https://www.freesoundslibrary.com/)
+[Adobe Audition Downloads](https://offers.adobe.com/en/na/audition/offers/audition_dlc.html), [Free-Loops](https://free-loops.com/), [FreeSOundEffects](https://www.freesoundeffects.com/), [Freesound](https://freesound.org/), [soundbible](https://soundbible.com/), [flashkit](https://board.flashkit.com/), [ZapsPlat](https://www.zapsplat.com/), [OrangeFreeSounds](https://orangefreesounds.com/), [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) / [Downloader](https://github.com/FThompson/BBCSoundDownloader), [looperman](https://www.looperman.com/loops), [sonniss2019](http://ftpmirror.your.org/pub/misc/sonniss2019/), [storyblocks](https://www.storyblocks.com/), [LabChirp](http://labbed.net/software/labchirp/), [Bfxr](https://www.bfxr.net/), [Noizable](https://noizable.media/), [sampleswap](https://sampleswap.org/), [samplefocus](https://samplefocus.com/), [soundpacks](https://soundpacks.com/), [Soundfishing](https://www.soundfishing.eu/), [SampleScope](https://samplescope.app/), [splice](https://splice.com/), [MeowPad](https://meowpad.me/), [/r/LoopKits](https://www.reddit.com/r/loopkits/), [freesound](https://freesound.org/), [sampleswap](https://sampleswap.org/), [audiostorrent](https://audiostorrent.com/), [GoAudio](https://goaudio.me/), [VSTHouse](http://vsthouse.ru/), [Audio Plugin](https://audioplugin.net/), [VST-Platinum](https://vst-platinum.com/), [SamplesHome](https://sampleshome.com/), [Magesy](https://magesy.blog/), [MagesyPro](https://www.magesypro.com/), [Music-Create](https://music-create.org/), [Audio.Tools](https://audio.tools/), [jbouchat](http://jbouchat.ucoz.com/), [Audioz](https://audioz.download/), [FreeSoundLibrary](https://www.freesoundslibrary.com/), [findsounds](https://www.findsounds.com/)
 
 ***
 
@@ -2373,7 +2368,6 @@ Add the following commands to a search to manually scrape each site.
 * [Sheet Music International](https://sheetmusicinternational.com/)
 * [1230james](https://1230james.xyz/music/)
 * [CosandScores](http://waltercosand.com/CosandScores/)
-* [librescore](https://demo.librescore.org/) / [Downloader](https://github.com/LibreScore/dl-librescore)
 * [Free Scores](https://m.free-scores.com/)
 * [torbybrand](https://torbybrand.com/sheet-music/)
 * [SheetMusicForFree](https://sheetmusicforfree.com/)
@@ -2597,7 +2591,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Vectors**
 
-[vectorportal](https://www.vectorportal.com/), [publicdomainvectors](https://publicdomainvectors.org/), [vecteezy](https://www.vecteezy.com/), [freevectors](http://www.freevectors.org/), [123freevectors](https://www.123freevectors.com/), [freevector](https://www.freevector.com/), [freevectors](https://www.freevectors.net/), [free-vectors](https://free-vectors.com/), [vector4free](https://www.vector4free.com/), [ddpanda](https://ddpanda.net/collection/vectors/)
+[vectorportal](https://www.vectorportal.com/), [publicdomainvectors](https://publicdomainvectors.org/), [vecteezy](https://www.vecteezy.com/), [freevectors](http://www.freevectors.org/), [123freevectors](https://www.123freevectors.com/), [freevector](https://www.freevector.com/), [freevectors](https://www.freevectors.net/), [free-vectors](https://free-vectors.com/), [vector4free](https://www.vector4free.com/)
 
 **Telegrams**
 
@@ -3056,7 +3050,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[HandBrake](https://handbrake.fr/)** / [Guide](https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake)
 * ⭐ **[FFmpeg](https://github.com/FFmpeg/FFmpeg)**
 
-[XMedia Recode](https://www.xmedia-recode.de/en/), [staxrip](https://github.com/staxrip/staxrip/) / [Guide](https://telegra.ph/HEVC-Encoding-with-StaxRip-Settings-for-best-compression-included-05-12 ), [FastFlix](https://fastflix.org/), [AVC](https://www.any-video-converter.com/), [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes), [MP4.to](https://mp4.to/), [Evano](https://evano.com/online-video-converter), [OnlineVideoConverter](https://onlinevideoconverter.party/), [WebmtoMP4](https://webmtomp4.com/), [WebM.to](https://webm.to/), [MakeMKV](https://www.makemkv.com/), [Video2Edit](https://www.video2edit.com/), [Winnydows](https://winnydows.com/en/), [RipBot264](https://www.videohelp.com/software/RipBot264), [MeGUI](https://www.videohelp.com/software/MeGUI), [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator), [FastFlix](https://github.com/cdgriffith/FastFlix), [avisynth](http://avisynth.nl/index.php/Main_Page), [ShutterEncode](https://www.shutterencoder.com/en/), [Video Express Converter](https://vc.germanov.dev/), [SafeVideoConverter](https://safevideoconverter.com/), [Av1an](https://github.com/master-of-zen/Av1an), [MediaCoderHQ](https://www.mediacoderhq.com/), [Seven Converter](https://converter.sevenbytes.com/) / [GitHub](https://github.com/SevenbytesSoftware/SevenConverter), [JS Video Converter](https://js-video-converter.com/), [nmkoder](https://github.com/n00mkrad/nmkoder), [AVS4YOU](https://www.avs4you.com/), [VideoConverter](https://videoconverter.com/), [FrameGUI](https://github.com/DaGooseYT/FrameGUI), [Boram](https://github.com/Kagami/boram/), [selur](https://www.selur.de/)
+[XMedia Recode](https://www.xmedia-recode.de/en/), [staxrip](https://github.com/staxrip/staxrip/) / [Guide](https://telegra.ph/HEVC-Encoding-with-StaxRip-Settings-for-best-compression-included-05-12 ), [FastFlix](https://fastflix.org/), [AVC](https://www.any-video-converter.com/), [NEAV1E](https://github.com/Alkl58/NotEnoughAV1Encodes), [MP4.to](https://mp4.to/), [Evano](https://evano.com/online-video-converter), [OnlineVideoConverter](https://onlinevideoconverter.party/), [WebmtoMP4](https://webmtomp4.com/), [WebM.to](https://webm.to/), [MakeMKV](https://www.makemkv.com/), [Video2Edit](https://www.video2edit.com/), [Winnydows](https://winnydows.com/en/), [RipBot264](https://www.videohelp.com/software/RipBot264), [MeGUI](https://www.videohelp.com/software/MeGUI), [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator), [FastFlix](https://github.com/cdgriffith/FastFlix), [avisynth](http://avisynth.nl/index.php/Main_Page), [ShutterEncode](https://www.shutterencoder.com/en/), [Video Express Converter](https://vc.germanov.dev/), [SafeVideoConverter](https://safevideoconverter.com/), [Av1an](https://github.com/master-of-zen/Av1an), [MediaCoderHQ](https://www.mediacoderhq.com/), [Seven Converter](https://converter.sevenbytes.com/) / [GitHub](https://github.com/SevenbytesSoftware/SevenConverter), [nmkoder](https://github.com/n00mkrad/nmkoder), [AVS4YOU](https://www.avs4you.com/), [VideoConverter](https://videoconverter.com/), [FrameGUI](https://github.com/DaGooseYT/FrameGUI), [Boram](https://github.com/Kagami/boram/), [selur](https://www.selur.de/)
 
 **VVC Encode / Decode**
 
@@ -3094,7 +3088,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[upstream](https://upstream.to/)**
 * [HoraHora](https://github.com/horahoradev/horahora) or [minv](https://sr.ht/~thecashewtrader/minv/) - Self-Hosted
 
-[vudeo (8tb)](https://vudeo.co/), [vidyard](https://www.vidyard.com/), [supervideo](https://supervideo.tv/), [ydb](https://youdboox.com/), [cloudvideo](https://cloudvideo.tv/),  [powvideo](http://powvideo.net/), [streamable](https://streamable.com/), [abyss](https://abyss.to/), [videy](https://videy.co/), [wolfstream](https://wolfstream.tv/), [vidcloud](https://vidcloud.co/), [vidoza](https://vidoza.net/), [fileone](https://fileone.tv/), [uqload](https://uqload.co/), [speedostream](https://www.speedostream.com/), [sendvid](https://sendvid.com/), [VTube](https://vtube.to/)
+[vudeo (8tb)](https://vudeo.co/), [vidyard](https://www.vidyard.com/), [supervideo](https://supervideo.tv/), [ydb](https://youdboox.com/), [cloudvideo](https://cloudvideo.tv/),  [powvideo](http://powvideo.net/), [streamable](https://streamable.com/), [abyss](https://abyss.to/), [videy](https://videy.co/), [wolfstream](https://wolfstream.tv/), [vidcloud](https://vidcloud.co/), [vidoza](https://vidoza.net/), [fileone](https://fileone.tv/), [uqload](https://uqload.co/), [sendvid](https://sendvid.com/), [VTube](https://vtube.to/)
 
 ***
 
@@ -3134,7 +3128,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Kosmi](https://kosmi.io/)** (videos, games, music, and other apps)
 * ⭐ **[neko](https://neko.m1k1o.net/)** / [GitHub](https://github.com/m1k1o/neko) (Self-Hosted)
 
-[Giggl](https://giggl.app/), [HyperBeam](https://hyperbeam.com/) / [VIP](https://greasyfork.org/en/scripts/457795), [Trast](https://trast.live/), [bear.cat](https://bear.cat/), [Metastream](https://getmetastream.com/), [Caracal Club](https://caracal.club/)
+[HyperBeam](https://hyperbeam.com/) / [VIP](https://greasyfork.org/en/scripts/457795), [Trast](https://trast.live/), [bear.cat](https://bear.cat/), [Metastream](https://getmetastream.com/), [Caracal Club](https://caracal.club/)
 
 ***
 
@@ -3387,7 +3381,7 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[YTMDL](https://ytmdl.deepjyoti30.dev/)** / [GitHub](https://github.com/deepjyoti30/ytmdl)
 * ⭐ **[Ripping Guide](https://redd.it/vv27dy)**
 
-[mps-youtube](https://github.com/mps-youtube/yewtube), [YouTube to MP3 Converter](https://www.mediahuman.com/), [loader](https://loader.to/), [Yout](https://yout.com/),[AudioJack](http://blue9.github.io/AudioJack-GUI/), [y2mp3](https://www.y2mp3.net/), [myfreemp3](https://myfreemp3.to/), [topsandtees](https://getn.topsandtees.space/), [VrTube](https://www.vrttube.com/), [dirpy](https://dirpy.com/),  [soundloaders](https://www.soundloaders.com/)
+[mps-youtube](https://github.com/mps-youtube/yewtube), [YouTube to MP3 Converter](https://www.mediahuman.com/), [loader](https://loader.to/), [Yout](https://yout.com/),[AudioJack](http://blue9.github.io/AudioJack-GUI/), [y2mp3](https://www.y2mp3.net/),  [topsandtees](https://getn.topsandtees.space/), [VrTube](https://www.vrttube.com/), [dirpy](https://dirpy.com/),  [soundloaders](https://www.soundloaders.com/)
 
 **MP4 Only**
 
