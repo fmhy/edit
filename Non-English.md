@@ -282,12 +282,16 @@
 * [Ythuiju](https://www.ythuiju.com/) - Manga
 * [uukanshu](https://www.uukanshu.com/) - Light-Novels
 * [linovelib](https://www.linovelib.com/) - Light-Novels
+* [vvbiquge](http://www.vvbiquge.cc/) - Light-Novels
 * [lightnovel.us](https://www.lightnovel.us/) - Light-Novels
 * [txt900](https://www.txt990.org/) - Light-Novels
 * [69shu](https://www.69shu.com) - Light-Novels
+* [beqege](https://www.beqege.cc/) - Light-Novels
 * [Zongheng](https://www.zongheng.com/) - Light-Novels
 * [Bixiange](https://www.bixiange.top/) - Light-Novels
+* [ijjjxs](http://www.ijjjxs.net/) - Light-Novels
 * [118book](https://www.118book.com/) - Light-Novels
+* [qinkan](https://www.qinkan.net/) - Light-Novels
 * [ffxs8](https://ffxs8.com/) - Light-Novels
 * [Piaotian](https://www.ptwxz.com/) - Light-Novels
 * [Shuquge](https://www.ishuquge.org/) - Light-Novels
@@ -1248,6 +1252,7 @@
 * [Central Novel](https://centralnovel.com) - Light Novels
 * [Tsundoku Traduções](https://tsundoku.com.br) - Light Novels
 * [Empire Novels](https://empirenovels.com.br) - Light Novels
+* [kakuyomu](https://kakuyomu.jp/) - Light Novels
 * [My Light Novel](http://www.mylightnovel.com.br) - Light Novels
 * [Revista PROGRAMAR](https://www.revista-programar.info) - Programming Magazine
 * [D&D 5e BR](https://dnd5ed.github.io) - Dungeons and Dragons Guides
@@ -1631,7 +1636,6 @@
 * [Dilo](https://www.dilo.nu/) - TV / Anime / Latino / Castilian
 * [asialiveaction](https://asialiveaction.com/) - Asian Drama
 * [doramasyt](https://www.doramasyt.com/) - Asian Drama
-* [DoramasFlix](https://doramasflixs.com/) - Asian Drama
 * [El Bucanero del Deporte](https://deportebucanero.wordpress.com/) - Sports Piracy Directory
 * [Flipax](https://flipax.es/) - Live Sports
 * [Teledeportiva](https://teledeportiva4.blogspot.com/), [2](https://teledeportiva2.blogspot.com/) - Live Sports
