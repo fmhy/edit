@@ -193,7 +193,7 @@
 * [80s](https://github.com/nbats/FMHYedit/blob/main/base64.md#80s) - Emulators / ROMs 
 * [The Old Computer](https://www.theoldcomputer.com/) - Emulators / ROMs
 * [Emulator Games](https://www.emulatorgames.net/) - Emulators / ROMs
-* [Emuparadise](https://www.emuparadise.me/) - Emulators / ROMs / [Forum](https://www.epforums.org/)
+* [Emuparadise](https://www.emuparadise.me/) - Emulators / ROMs / [Forum](https://www.epforums.org/) / [Workaround Script](https://web.archive.org/web/20230115181306/https://gist.github.com/byzantium225/484101c7846ce18e514b7b10bf4815c2)
 * [ROMsPURE](https://ROMspure.cc/) - Emulators / ROMs
 * [Romspedia](https://www.romspedia.com/) - Emulators / ROMs
 * [ROMs Games](https://www.romsgames.net/) - Emulators / ROMs
@@ -885,6 +885,8 @@
 * [VeniceUnleashed](https://veniceunleashed.net/) (BF3) and [Warsaw-Revamped](https://warsaw-revamped.com/) (BF4) - Battlefield Mod Projects
 * [Open Carnage](https://opencarnage.net/) / [Discord](https://discord.com/invite/2pf3Yjb), [Reclaimers](https://reclaimers.net/) / [Discord](https://discord.com/invite/reclaimers) or [Halo Mods](https://discord.com/invite/WuurKwr) - Halo Modding Community
 * [Halo 3](https://store.steampowered.com/app/1695791/Halo_3_Mod_Tools__MCC/), [Halo 2](https://store.steampowered.com/app/1613450/Halo_2_Mod_Tools__MCC/) or [Halo CE](https://store.steampowered.com/app/1532190/Halo_CE_Mod_Tools__MCC/) - Halo Modding Tools
+* [H2Maps](http://www.h2maps.net/) - Custom Halo 2 Maps
+* [HaloMaps](http://www.halomaps.org/) - Halo CE Maps
 * [Flatout 2 Fan Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2414295888) - Patch for Flatout 2
 * [SWAT: Elite Force](https://www.moddb.com/mods/swat-elite-force) - Swat 4 Enhancement Mod
 * [Synergy2k](https://synergy2k.net/) - NBA 2K MyCareer Mod Tool
@@ -1123,9 +1125,10 @@
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
 * [Server.pro](https://server.pro/) - Game Server Hosting
 * [Streamer Mode](https://github.com/taskinoz/Streamer-Mode) - Hide Player Names to Avoid Stream Sniping
-* [BakkesMod](https://bakkesmod.com/) - Rocket League Trainer
 * [Tilted Online](https://github.com/tiltedphoques/TiltedEvolution) - Multiplayer Skyrim & Fallout 4 / [Discord](https://discord.gg/skyrimtogether) / [Setup Guide](https://youtu.be/ytSftFoQQHA)
 * [NV:MP](https://nv-mp.com/) - Fallout: New Vegas Multiplayer
+* [Project Cartographer](https://www.halo2.online/) - Halo 2 Online Servers
+* [Halo Custom Edition](https://www.haloce.org/) - Halo CE Online Servers
 * [csgo-mm-server-picker](https://github.com/Jyben/csgo-mm-server-picker) - CS:GO Server Picker
 * [Simple Radar](https://readtldr.gg/simpleradar) - Improved CS:GO Radar
 * [CSGO Trader](https://csgotrader.app/) - CS:GO Trading Enhancements
@@ -1283,7 +1286,8 @@
 * [RoSeal](https://www.roseal.live/) - Roblox Enhancement Extension
 * [RoPro](https://ropro.io/), [Roblox+](https://chrome.google.com/webstore/detail/roblox%20/jfbnmfgkohlfclfnplnlenbalpppohkm), [BTRoblox](https://twitter.com/AntiBoomz/status/1378597179556823040) or [RoGold](https://discord.gg/XMHn9zV3UA) - Enhance Roblox Website
 * [ROBLOX Low Ping Finder](http://low-ping.dino.icu/) - Find Low Ping Roblox Servers
-* [Roblox Archive](https://archive.roblonium.com/) - Roblox Client Archive 
+* [Roblox Archive](https://archive.roblonium.com/) - Roblox Client Archive
+* [Roblox Studio](https://create.roblox.com/) - Roblox Dev Tool
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
 
 ***
@@ -1345,6 +1349,7 @@
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
 * [TASVideos](https://tasvideos.org/) - Watch and Publish Tool Assisted Speedruns
 * [MacroGamer](https://www.itoady.com/) - Game Macro Recorder
+* [BakkesMod](https://bakkesmod.com/) - Rocket League Trainer
 * [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - MKW Techniques, Glitches, & Exploits
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
 * [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching
