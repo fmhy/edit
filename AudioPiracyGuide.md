@@ -68,6 +68,7 @@
 * [Audius](https://audius.co/) - User Made Music Platform
 * [AudionautiX](https://audionautix.com/) - Mood Based Streaming
 * [mood.gg](https://mood.gg/) - League of Legends Character Based Playlists
+* [Squidify](https://www.squidify.org) - Video Game / Anime Soundtracks
 * [Khinsider](https://downloads.khinsider.com/), [retro.sx](https://retro.sx/), [VIP VGM](https://www.vipvgm.net/), [Cirrus Retro](https://cirrusretro.com/) or [Zophar's](https://www.zophar.net/music) - Video Game Soundtracks
 * [NSF j](http://nsf.nesbbs.com/) - NES Game Music
 * [Exotica](https://www.exotica.org.uk/) - Retro Gaming Music Wiki
@@ -148,7 +149,7 @@
 * [Radiooooo](https://radiooooo.com/) - Radio / Time Machine
 * [Campus FM](https://www.campus-fm.com/) - College Radio
 * [420.moe](https://420.moe/) - 420 Radio
-* [Listen To The Clouds](http://listentothe.cloud/) or [LiveATC](https://www.liveatc.net/) - Air Traffic Radio Chatter
+* [Listen To The Clouds](http://listentothe.cloud/), [LoFiATC](https://www.lofiatc.com/) or [LiveATC](https://www.liveatc.net/) - Air Traffic Radio Chatter
 * [Broadcastify](https://www.broadcastify.com/) - Live Emergency, Aircraft and Rail Radio
 * [OpenMHz](https://openmhz.com/) - Live Police Radio
 * [RadioReference](https://www.radioreference.com/) or [morsecode.me](http://morsecode.me/) - Morse Code Radio / Communication
@@ -389,7 +390,7 @@
 * [Guitars101](https://www.guitars101.com/) - Live Audio / Video
 * [Download-Soundtracks](http://download-soundtracks.com/), [3ost](https://3ost.ru/), [joshw](https://pc.joshw.info/) / [Search](https://vgm.hcs64.com/) or [tanikal](https://www.tanikal.com/) - Soundtracks 
 * [GTA Radio Stations Music](https://github.com/nbats/FMHYedit/blob/main/base64.md#gta-radio-stations) - GTA Radio Stations
-* [AniPlaylist](https://aniplaylist.com/), [OSAnime](https://osanime.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - Anime Soundtracks 
+* [AniPlaylist](https://aniplaylist.com/), [SakuraOST](https://www.sakuraost.com/), [HiyoriOST](https://www.hiyoriost.com/), [OSAnime](https://osanime.com/) or [Anime Sharing](http://koe.anime-sharing.com/Packlist/) - Anime Soundtracks 
 * [OtakuOst](https://otakuost.net/) - Anime Soundtracks & Japanese Music 
 * [KDramaOST](https://kdramaost.com/en) - Asian Drama Soundtracks
 * [Doujin Cafe](https://discord.com/invite/doujincafe) or [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Music
