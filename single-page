@@ -2860,7 +2860,6 @@ Filter list for adblockers with sites from this thread.
 * [Aptoide](https://aptoide.com/) - Alt App Store
 * [Skydroid](https://github.com/redsolver/skydroid) - Alt App Store
 * [Accrescent](https://accrescent.app/) - Alt App Store
-* [AppTeka](https://appteka.store/) - Alt App Store
 * [Android App](https://techy-transistor.notion.site/5359aca6d9494ed893e57823f55499e5?v=4a68e3958c1b443fa61e25c87f96d384)
 * [APKCombo](https://apkcombo.com/)
 * [APKBe](https://www.apkbe.com/)
@@ -8254,6 +8253,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**
 * ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry)
+* ⭐ **[snty](https://snty.hkau.org/)**
 * ⭐ **[disroot](https://bin.disroot.org/)** or [RIN Privatebin](https://privatebin.rinuploads.org/)
 * ⭐ **[PrivateBin](https://privatebin.info/directory/)**
 * ⭐ **[katb](https://katb.in/)**
@@ -10498,14 +10498,11 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Development Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_learning_.2F_cheat_sheets)** - Developer Learning Tools
 * ⭐ **[Website Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_web_development)** - Site Development Tools
 * [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
-* [GitHub Résumé](https://github.com/resume/resume.github.com) - Generate Resume from GitHub Activity
-* [AskEdith](https://www.askedith.ai/demo) - Ask AI Job / Business Questions
 * [LoopCV](https://www.loopcv.pro/) - Automated Job Search Tool
 * [Toby Tools](https://rentry.co/qnu6x) or [EuroJobs](https://eurojobs.com/) - Job Search Tools
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
-* [10xJobs](https://10xjobs.net/) - Tech Job Search
+* [10xJobs](https://10xjobs.net/) - Find High Paying Tech Jobs
 * [Arvrok](https://www.arvrok.com/) - Immersive Tech Job Search
-* [EconJobRumors](https://www.econjobrumors.com/) - Economic Job Market Forum
 * [SocJobRumors](https://www.socjobrumors.com/) - Sociology Job Market Forum
 * [80,000 Hours](https://80000hours.org/) - Explore Career Options
 * [Comparably](https://www.comparably.com/) or [GoodFirms](https://www.goodfirms.co/) - Compare Companies / Salaries
@@ -13691,13 +13688,13 @@ pass: paluch
 * ⭐ **[FreeSports](https://freesports.to/)** or [TheHomeSports](https://thehomesport.net/) - Sports
 * ⭐ **[IPTV Web](https://dev-iptv.web.app/)** - TV / Sports
 * ⭐ **[Sports Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming)** - Sports
-* ⭐ **[RBTV](https://www.rbtv77.com/)** - Sports / [Telegram](https://t.me/+_xlFBUO08tQwZGJl)
+* ⭐ **[RBTV](https://www.rbtv77.com/)**, [2](https://www.rbtv77.digital/), [3](https://www.rbtv77.guru/) - Sports / [Telegram](https://t.me/+_xlFBUO08tQwZGJl)
 * ⭐ **[Reddit Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_streams)** - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
 * ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)** or [IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) - IPTV Resources / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
 * [SusFlix](https://susflix.tv/)** - TV / Sports / [Discord](https://discord.gg/BE7kTVezBN)
 * [TOTV](http://totv.org/) - TV / Sport
-* [DaddyLive](https://daddylivehd.sx/) - TV / Sport
+* [DaddyLive](https://dlhd.sx/) - TV / Sport
 * [MrGamingStreams](https://mrgamingstreams.com/) - TV / Sports
 * [XUMO](https://www.xumo.tv/channels) - TV
 * [Sportsurge.club](https://sportsurge.club/) - Sports
@@ -13753,7 +13750,7 @@ pass: paluch
 * [UFCKhabib](http://sportsurge.stream/) - Sports
 * [TotalSportek](https://totalsportek.pro/), [2](https://www.totalsportek.to/) - Sports
 * [NodelayTV](http://nodelaytv.pw/) - Sports
-* [Rojadirecta](https://www.rojadirecta.watch/) - Sports
+* [Rojadirecta](https://www.rojadirecta.direct/) - Sports
 * [MyP2P](https://myp2p.at/) - Sports
 * [BoxingStreams100](https://boxings.boxingstreams100.com/) - Boxing
 * [NBA Streams](https://nbabox.tv/) - NBA
@@ -17376,7 +17373,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[Cromite](https://github.com/uazo/cromite) / [Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)/ [Mull](https://github.com/Divested-Mobile/Mull-Fenix) / [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US&gl=US)** - Android web browsers
 **[Insight](https://insightbrowser.com/) / [Aloha](https://alohabrowser.com/) / [Kagi](https://testflight.apple.com/join/DeC8ZDnu)**  - iOS web browsers / [Improve Safari](https://hyperweb.app/)
 **[AdGuard Premium](https://forum.mobilism.org/search.php?keywords=adguard+&sr=topics&sf=titleonly) / [Adguard iOS](https://forum.mobilism.org/search.php?keywords=AdGuard+Pro&sr=topics&sf=titleonly) / [Blokada](https://blokada.org/)** -  Mobile adblocking apps
-**[Mobilism](https://forum.mobilism.org/viewforum.php?f=398) - Modded APKs
+**[Mobilism](https://forum.mobilism.org/viewforum.php?f=398)** - Modded APKs
 **[/r/ApkApps Megathread](https://apksapps.notion.site/apksapps/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)** - Updated list of modded APKs / [Subreddit](https://www.reddit.com/r/ApksApps) / [Discord](https://discord.gg/Kr5EWKZU5Y) / [Telegram](https://t.me/joinchat/MwYScFfTq3XkY0wIEDLA3g)
 **[APKMirror](https://www.apkmirror.com/)** - Untouched APKs
 **[F-Droid](https://f-droid.org/)** - FOSS Android Apps
