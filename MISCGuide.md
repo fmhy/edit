@@ -24,7 +24,7 @@
 * ⭐ **[Awesome Piracy](https://github.com/Shakil-Shahadat/awesome-piracy)** - Piracy Index
 * ⭐ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)** - Artificial Intelligence Indexes
 * ⭐ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
-* ⭐ **[FMHY Guides](https://rentry.co/fmhy-guides)** - Automated List of Rentry Guides / [Script](https://gist.github.com/Rust1667/e21e92ae385e71f0d87e869bed90fff2)
+* ⭐ **[FMHY Guides](https://rentry.co/fmhy-guides)** - Automated List of Rentry Guides / [Script](https://gist.github.com/Rust1667/e21e92ae385e71f0d87e869bed90fff2) / [Download](https://gist.github.com/Rust1667/efc055debaf4876e4de39cc0d32f18c1)
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
 * ⭐ **[Awesome List Index](https://github.com/topics/awesome)**, [Track Awesome](https://www.trackawesomelist.com/), [GitHub Awesome](https://app.polymersearch.com/discover/github-awesome), [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness), [Generated Awesomeness](https://github.com/orsinium-labs/generated-awesomeness) or [Awesome](https://github.com/sindresorhus/awesome) - Awesome List Indexes 
 * ⭐ **Awesome List Tools** - [Search](https://awesomelists.top/) / [Stumble](https://github.com/basharovV/StumbleUponAwesome) / [CLI](https://github.com/umutphp/awesome-cli) / [Markdown Extractor](https://github.com/evilsh3ll/datahoarder-website-to-markdown)
@@ -476,6 +476,7 @@
 * [Roadside America](https://www.roadsideamerica.com/) or [MakeMyDriveFun](https://makemydrivefun.com/) - Roadside Attraction Guides
 * [TheSalmons](http://www.thesalmons.org/lynn/whgmap.html) or [World Heritage Sites](https://world-heritage.mapspot.co/) - World Heritage Sites
 * [SongKick](https://www.songkick.com/) or [FindYourFest](https://www.findyourfest.com/) - Concerts / Music Festival Search
+* [AnimeCons](https://animecons.com/) - Find Anime Conventions
 * [FreeCampSites](https://freecampsites.net/) - Free Camp Sites
 * [Traveler Map](https://travelermap.net/) - National Park Maps
 * [SkyDB](https://www.skydb.net/) - Skyscraper Locations / Info
@@ -1295,7 +1296,7 @@
 * ⭐ **[Conspiracy Theory Iceberg](https://ipfs.io/ipfs/QmWszAAzXjaD6hQZXbfhF9qBFWpnPwZVWU131HVf42WZej)** - Conspiracies / Occult / Mythology / [Video Playlist](https://www.youtube.com/watch?v=7I2KJL-gJPU&list=PLfeWBGty_481haNoS_ozOVdIyOpyXMjUC)
 * ⭐ **[InfiniteConversation](https://infiniteconversation.com/)** - Never-Ending Werner Herzog / Slavoj Žižek Conversation
 * ⭐ **[Ranker](https://www.ranker.com/)**, [Listography](https://listography.com/), [hero](https://hero.page/), [FlexLists](https://flexlists.com/), [TheTopsTens](https://www.thetoptens.com/), [CopyPasteList](https://copypastelist.co/) or [ListVerse](https://listverse.com/) - Create / Explore Lists
-* ⭐ **[Fandom](https://www.fandom.com/)** - Fan Wikis / [Frontend](https://docs.breezewiki.com/Links.html) / [Old Style](https://greasyfork.org/en/scripts/438194-hydralize-fix-fandom-com)
+* ⭐ **[Fandom](https://www.fandom.com/)** - Fan Wikis / [Frontend](https://docs.breezewiki.com/Links.html) / [Old Style](https://greasyfork.org/en/scripts/438194-hydralize-fix-fandom-com) / [Search](https://getindie.wiki/)
 * ⭐ **[The Lost Media Wiki](https://lostmediawiki.com/)** / [Forum](https://forums.lostmediawiki.com/)
 * [Internet Map](http://internet-map.net/) - Map of the Internet
 * [Wikiverse](http://wikiverse.io/) - 3D Wiki Visualizer
