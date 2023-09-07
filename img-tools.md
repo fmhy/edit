@@ -44,6 +44,7 @@
 * [WeGreyScale](https://www.wegrayscale.com/) - Greyscale Videos / Images
 * [DuoTones](https://duotones.co/) - Dual Tone Effect Generator
 * [ImageGoNord](https://ign.schrodinger-hat.it/) - Convert Images to NordTheme Palette / [GitHub](https://github.com/Schrodinger-Hat/ImageGoNord)
+* [Fotosketcher](https://fotosketcher.com/) - Turn Photos into Artwork
 * [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization), [Image To Cartoon](https://imagetocartoon.com/) or [Cartoonize](https://cartoonize-lkqov62dia-de.a.run.app/cartoonize) - Turn Photos into Cartoons
 * [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) / [2](https://github.com/TachibanaYoshino/AnimeGANv2) / [3](https://github.com/TachibanaYoshino/AnimeGANv3) - Turn Photos into Anime
 * [AIDraw](https://ai-draw.tokyo/en/) or [ArtLine](https://github.com/vijishmadhavan/ArtLine) - Turn Photos into Line Art
@@ -313,13 +314,14 @@
 * ⭐ **[Kemono](https://kemono.su/)** - Patreon Content / Some NSFW / Use Adblock
 * ⭐ **[gallery-dl](https://github.com/mikf/gallery-dl)**, [RipMe](https://github.com/RipMeApp/ripme), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) or [Image Extractor](https://extract.pics/) - Image Download Tools
 * [GFX Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources) - Graphic Design Resources
+* [Search System](https://www.searchsystem.co/) - Design Examples
 * [Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)
 * [Have I Been Trained?](https://haveibeentrained.com/) - AI Image Search
 * [Clip Retrieval](https://rom1504.github.io/clip-retrieval/) - Clip Retrieval System
 * [RootAbout](https://rootabout.com/) - Archive / OpenlLibrary Reverse Image Search 
 * [PicTriev](http://www.pictriev.com/) - Find Look-Alike Images 
 * [PimEyes](https://pimeyes.com/en/) - Reverse Face Image Search 
-* [trace.moe](https://trace.moe/) - Anime Scene Reverse Image Search 
+* [trace.moe](https://trace.moe/) or [Saucekudasai](https://saucekudasai.com/) - Anime Reverse Image Search 
 * [Multicolr](https://labs.tineye.com/multicolr/) - Color Based Reverse Image Search
 * [pfps.gg](https://pfps.gg/) - Profile Picture Index
 * [OpenMoji](https://openmoji.org/) - Emojis
@@ -462,6 +464,7 @@
 * ⭐ **[Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosts)** - Image Hosting Sites
 * ⭐ **[Image Viewers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_viewers)** - Image Viewing Programs
 * ⭐ **[hydrus](https://hydrusnetwork.github.io/hydrus/)** - Booru-Style Media Tagger / [Github](https://github.com/hydrusnetwork/hydrus)
+* [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
 * [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow
 * [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
 * [FEMBOY](https://github.com/k1rak1ra/FEMBOY) - Anime Image Manager
