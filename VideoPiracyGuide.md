@@ -427,13 +427,13 @@
 * ⭐ **[FreeSports](https://freesports.to/)** or [TheHomeSports](https://thehomesport.net/) - Sports
 * ⭐ **[IPTV Web](https://dev-iptv.web.app/)** - TV / Sports
 * ⭐ **[Sports Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sports_streaming)** - Sports
-* ⭐ **[RBTV](https://www.rbtv77.com/)** - Sports / [Telegram](https://t.me/+_xlFBUO08tQwZGJl)
+* ⭐ **[RBTV](https://www.rbtv77.com/)**, [2](https://www.rbtv77.digital/), [3](https://www.rbtv77.guru/) - Sports / [Telegram](https://t.me/+_xlFBUO08tQwZGJl)
 * ⭐ **[Reddit Streams](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_streams)** - Sports
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
 * ⭐ **[Awesome IPTV](https://github.com/iptv-org/awesome-iptv)** or [IPTV Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_tools) - IPTV Resources / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/)
 * [SusFlix](https://susflix.tv/)** - TV / Sports / [Discord](https://discord.gg/BE7kTVezBN)
 * [TOTV](http://totv.org/) - TV / Sport
-* [DaddyLive](https://daddylivehd.sx/) - TV / Sport
+* [DaddyLive](https://dlhd.sx/) - TV / Sport
 * [MrGamingStreams](https://mrgamingstreams.com/) - TV / Sports
 * [XUMO](https://www.xumo.tv/channels) - TV
 * [Sportsurge.club](https://sportsurge.club/) - Sports
@@ -489,7 +489,7 @@
 * [UFCKhabib](http://sportsurge.stream/) - Sports
 * [TotalSportek](https://totalsportek.pro/), [2](https://www.totalsportek.to/) - Sports
 * [NodelayTV](http://nodelaytv.pw/) - Sports
-* [Rojadirecta](https://www.rojadirecta.watch/) - Sports
+* [Rojadirecta](https://www.rojadirecta.direct/) - Sports
 * [MyP2P](https://myp2p.at/) - Sports
 * [BoxingStreams100](https://boxings.boxingstreams100.com/) - Boxing
 * [NBA Streams](https://nbabox.tv/) - NBA
