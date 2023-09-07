@@ -1808,6 +1808,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**
 * ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry)
+* ⭐ **[snty](https://snty.hkau.org/)**
 * ⭐ **[disroot](https://bin.disroot.org/)** or [RIN Privatebin](https://privatebin.rinuploads.org/)
 * ⭐ **[PrivateBin](https://privatebin.info/directory/)**
 * ⭐ **[katb](https://katb.in/)**
