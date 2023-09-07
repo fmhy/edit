@@ -87,6 +87,7 @@
 * ⭐ **RuTracker Tools** - [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/) / [Search API](https://github.com/nikityy/rutracker-api)
 * ⭐ **[TorrentGalaxy](https://torrentgalaxy.to/)** - Video / Audio / Games / Software / NSFW / [Mirrors](https://proxygalaxy.me/)
 * ⭐ **[m0nkrus](http://w14.monkrus.ws/)** - Adobe Software Archive / [How-to](https://rentry.co/adobesoftware) / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* [TheRarBg](https://therarbg.com/) / [2](https://t-rb.org) - RARBG Revival Project / [/r/TheRarBg](https://www.reddit.com/r/TheRarBg/) / [Discord](https://therarbg.com/discord/)
 * [1337x](https://1337x.to/) - Video / Audio / NSFW / **[Avoid Software / Games](https://pastebin.com/Rc9MYMZ7)**
 * 1337x Tools - [Mirrors](https://1337x.to/about) / [User Ranks](https://i.ibb.co/WfNhvtB/ebc2def26433.png) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Proxy](https://redd.it/tz7nyx), [2](https://pastebin.com/3n5K0QrP) / [Enhancements](https://greasyfork.org/en/scripts/33379) / [Magnets](https://greasyfork.org/en/scripts/373230) / [Subtitles](https://greasyfork.org/en/scripts/29467) / [Timezone Fix](https://greasyfork.org/en/scripts/421635)
 * [GloTorrents](https://glodls.to) - Video / Audio / Games / Books / Software / Android / NSFW
