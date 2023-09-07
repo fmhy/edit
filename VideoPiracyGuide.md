@@ -489,7 +489,7 @@
 * [UFCKhabib](http://sportsurge.stream/) - Sports
 * [TotalSportek](https://totalsportek.pro/), [2](https://www.totalsportek.to/) - Sports
 * [NodelayTV](http://nodelaytv.pw/) - Sports
-* [Rojadirecta](https://www.rojadirecta.watch/) - Sports
+* [Rojadirecta](https://www.rojadirecta.direct/) - Sports
 * [MyP2P](https://myp2p.at/) - Sports
 * [BoxingStreams100](https://boxings.boxingstreams100.com/) - Boxing
 * [NBA Streams](https://nbabox.tv/) - NBA
