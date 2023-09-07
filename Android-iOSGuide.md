@@ -49,7 +49,7 @@
 * [TeamOS](https://www.teamos.xyz/)
 * [APK Home](https://apkhome.io/)
 * [DL King](http://dl.king2net.com/soft%20android/)
-* [Modding United](https://moddingunited.xyz/) / [Telegram](https://telegram.me/allapkforfree)
+* [Modding United](https://moddingunited.xyz/)
 * [AKMods](https://www.akmods.in/)
 * [APKKit](https://apkkit.com/)
 * [Blackmod](https://blackmod.net/) - Modded Games
@@ -112,15 +112,12 @@
 ## ▷ TG Channels
 
 * ⭐ **[Modded Central](https://t.me/+MYR2XRdK3_pmZDRl)** / [Backup](https://t.me/moddedcentralbackup)
-* [MixRoot Mods](https://t.me/Mixrootmods), [DroidApks](https://t.me/DroidApks)
-* [ModCombo](https://t.me/modcombo_en)
+* [DroidApks](https://t.me/DroidApks)
 * [pcandroidsoftware](https://t.me/pcandroidsoftware/)
 * [Glype](https://t.me/Glype)
 * [alexstranniklite](https://t.me/alexstranniklite)
 * [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL)
 * [ANiK555_Mods](https://t.me/ANiK555_Mods)
-* [AppKaMods](https://t.me/AppKaMods)
-* [Paid Apps](https://t.me/joinchat/ShQEPsG-v7LZWT0v)
 * [TharakMods](https://t.me/TharakMods)
 * [marioworlds4u](https://t.me/marioworlds4u)
 * [EasyAPK](https://t.me/EasyAPK)
@@ -128,7 +125,6 @@
 * [dumpmods](https://t.me/dumpmods)
 * [faloojein](https://t.me/faloojein)
 * [IC_Mods](https://t.me/IC_Mods)
-* [allapkforfree](https://t.me/allapkforfree)
 * [Moderse](https://t.me/Moderse)
 * [AyraProject](https://t.me/AyraProject)
 * [Modules Repositor](https://t.me/modulesrepo)
