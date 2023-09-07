@@ -44,6 +44,7 @@
 * [WeGreyScale](https://www.wegrayscale.com/) - Greyscale Videos / Images
 * [DuoTones](https://duotones.co/) - Dual Tone Effect Generator
 * [ImageGoNord](https://ign.schrodinger-hat.it/) - Convert Images to NordTheme Palette / [GitHub](https://github.com/Schrodinger-Hat/ImageGoNord)
+* [Fotosketcher](https://fotosketcher.com/) - Turn Photos into Artwork
 * [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization), [Image To Cartoon](https://imagetocartoon.com/) or [Cartoonize](https://cartoonize-lkqov62dia-de.a.run.app/cartoonize) - Turn Photos into Cartoons
 * [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) / [2](https://github.com/TachibanaYoshino/AnimeGANv2) / [3](https://github.com/TachibanaYoshino/AnimeGANv3) - Turn Photos into Anime
 * [AIDraw](https://ai-draw.tokyo/en/) or [ArtLine](https://github.com/vijishmadhavan/ArtLine) - Turn Photos into Line Art
@@ -313,13 +314,14 @@
 * ⭐ **[Kemono](https://kemono.su/)** - Patreon Content / Some NSFW / Use Adblock
 * ⭐ **[gallery-dl](https://github.com/mikf/gallery-dl)**, [RipMe](https://github.com/RipMeApp/ripme), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) or [Image Extractor](https://extract.pics/) - Image Download Tools
 * [GFX Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_design_resources) - Graphic Design Resources
+* [Search System](https://www.searchsystem.co/) - Design Examples
 * [Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)
 * [Have I Been Trained?](https://haveibeentrained.com/) - AI Image Search
 * [Clip Retrieval](https://rom1504.github.io/clip-retrieval/) - Clip Retrieval System
 * [RootAbout](https://rootabout.com/) - Archive / OpenlLibrary Reverse Image Search 
 * [PicTriev](http://www.pictriev.com/) - Find Look-Alike Images 
 * [PimEyes](https://pimeyes.com/en/) - Reverse Face Image Search 
-* [trace.moe](https://trace.moe/) - Anime Scene Reverse Image Search 
+* [trace.moe](https://trace.moe/) or [Saucekudasai](https://saucekudasai.com/) - Anime Reverse Image Search 
 * [Multicolr](https://labs.tineye.com/multicolr/) - Color Based Reverse Image Search
 * [pfps.gg](https://pfps.gg/) - Profile Picture Index
 * [OpenMoji](https://openmoji.org/) - Emojis
@@ -462,6 +464,7 @@
 * ⭐ **[Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosts)** - Image Hosting Sites
 * ⭐ **[Image Viewers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_viewers)** - Image Viewing Programs
 * ⭐ **[hydrus](https://hydrusnetwork.github.io/hydrus/)** - Booru-Style Media Tagger / [Github](https://github.com/hydrusnetwork/hydrus)
+* [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend
 * [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow
 * [The Slideshow](https://theslideshow.net/) - Google Image Slideshow
 * [FEMBOY](https://github.com/k1rak1ra/FEMBOY) - Anime Image Manager
@@ -700,6 +703,7 @@
 * ⭐ **RuTracker Tools** - [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/) / [Search API](https://github.com/nikityy/rutracker-api)
 * ⭐ **[TorrentGalaxy](https://torrentgalaxy.to/)** - Video / Audio / Games / Software / NSFW / [Mirrors](https://proxygalaxy.me/)
 * ⭐ **[m0nkrus](http://w14.monkrus.ws/)** - Adobe Software Archive / [How-to](https://rentry.co/adobesoftware) / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* [TheRarBg](https://therarbg.com/) / [2](https://t-rb.org) - RARBG Revival Project / [/r/TheRarBg](https://www.reddit.com/r/TheRarBg/) / [Discord](https://therarbg.com/discord/)
 * [1337x](https://1337x.to/) - Video / Audio / NSFW / **[Avoid Software / Games](https://pastebin.com/Rc9MYMZ7)**
 * 1337x Tools - [Mirrors](https://1337x.to/about) / [User Ranks](https://i.ibb.co/WfNhvtB/ebc2def26433.png) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Proxy](https://redd.it/tz7nyx), [2](https://pastebin.com/3n5K0QrP) / [Enhancements](https://greasyfork.org/en/scripts/33379) / [Magnets](https://greasyfork.org/en/scripts/373230) / [Subtitles](https://greasyfork.org/en/scripts/29467) / [Timezone Fix](https://greasyfork.org/en/scripts/421635)
 * [GloTorrents](https://glodls.to) - Video / Audio / Games / Books / Software / Android / NSFW
@@ -2842,7 +2846,7 @@ Filter list for adblockers with sites from this thread.
 * [TeamOS](https://www.teamos.xyz/)
 * [APK Home](https://apkhome.io/)
 * [DL King](http://dl.king2net.com/soft%20android/)
-* [Modding United](https://moddingunited.xyz/) / [Telegram](https://telegram.me/allapkforfree)
+* [Modding United](https://moddingunited.xyz/)
 * [AKMods](https://www.akmods.in/)
 * [APKKit](https://apkkit.com/)
 * [Blackmod](https://blackmod.net/) - Modded Games
@@ -2857,7 +2861,6 @@ Filter list for adblockers with sites from this thread.
 * ⭐ **[UpToDown](https://en.uptodown.com/android)**
 * ⭐ **[APKPure](https://apkpure.com/)**
 * [Aurora Store](https://auroraoss.com/), [2](https://gitlab.com/AuroraOSS/AuroraStore) - Alt App Store / [Bypass Limits](https://youtu.be/L5RrtxQUtVE)
-* [Skydroid](https://github.com/redsolver/skydroid) - Alt App Store
 * [Accrescent](https://accrescent.app/) - Alt App Store
 * [Android App](https://techy-transistor.notion.site/5359aca6d9494ed893e57823f55499e5?v=4a68e3958c1b443fa61e25c87f96d384)
 * [APKCombo](https://apkcombo.com/)
@@ -2883,7 +2886,7 @@ Filter list for adblockers with sites from this thread.
 
 * ⭐ **[F-Droid](https://f-droid.org/)**
 * ⭐ **F-Droid Tools** - [Resources](https://fdroidfamily.codeberg.page/) / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
-* ⭐ **F-Droid Clients** - [Droid-ify](https://github.com/Iamlooker/Droid-ify) / [Classic Client](https://git.bubu1.eu/Bubu/fdroidclassic) / [gdroidclient](https://gitlab.com/gdroid/gdroidclient) / [Neo Store](https://github.com/NeoApplications/Neo-Store)
+* ⭐ **F-Droid Clients** - [Droid-ify](https://github.com/Iamlooker/Droid-ify) / [Classic Client](https://git.bubu1.eu/Bubu/fdroidclassic) / [Neo Store](https://github.com/NeoApplications/Neo-Store)
 * ⭐ **[Known Repositories](https://forum.f-droid.org/t/known-repositories/)** - F-Droid Repositories
 * ⭐ **[Android FOSS](https://github.com/offa/android-foss)**
 * [IzzyOnDroid](https://android.izzysoft.de/applists.php) - App Repo / [F-Droid](https://apt.izzysoft.de/fdroid/index.php) 
@@ -2906,15 +2909,12 @@ Filter list for adblockers with sites from this thread.
 ## ▷ TG Channels
 
 * ⭐ **[Modded Central](https://t.me/+MYR2XRdK3_pmZDRl)** / [Backup](https://t.me/moddedcentralbackup)
-* [MixRoot Mods](https://t.me/Mixrootmods), [DroidApks](https://t.me/DroidApks)
-* [ModCombo](https://t.me/modcombo_en)
+* [DroidApks](https://t.me/DroidApks)
 * [pcandroidsoftware](https://t.me/pcandroidsoftware/)
 * [Glype](https://t.me/Glype)
 * [alexstranniklite](https://t.me/alexstranniklite)
 * [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL)
 * [ANiK555_Mods](https://t.me/ANiK555_Mods)
-* [AppKaMods](https://t.me/AppKaMods)
-* [Paid Apps](https://t.me/joinchat/ShQEPsG-v7LZWT0v)
 * [TharakMods](https://t.me/TharakMods)
 * [marioworlds4u](https://t.me/marioworlds4u)
 * [EasyAPK](https://t.me/EasyAPK)
@@ -2922,7 +2922,6 @@ Filter list for adblockers with sites from this thread.
 * [dumpmods](https://t.me/dumpmods)
 * [faloojein](https://t.me/faloojein)
 * [IC_Mods](https://t.me/IC_Mods)
-* [allapkforfree](https://t.me/allapkforfree)
 * [Moderse](https://t.me/Moderse)
 * [AyraProject](https://t.me/AyraProject)
 * [Modules Repositor](https://t.me/modulesrepo)
@@ -3716,6 +3715,7 @@ Filter list for adblockers with sites from this thread.
 * [Akiyama](https://github.com/Fmaldonado6/Akiyama)
 * [AnimeChicken](https://animechicken.app/)
 * [Miru](https://miru.js.org/en/)
+* [Kaizoyu](https://github.com/astarivi/Kaizoyu)
 * [animity](https://github.com/kl3jvi/animity) / [Discord](https://discord.com/invite/eNuX9U57SM)
 * [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) - Anime Download App
 * [MALClient](https://github.com/Drutol/MALClient), [MyAnimeList Client](https://play.google.com/store/apps/details?id=net.myanimelist.app), [Anidex](https://github.com/rajarsheechatterjee/anidex-app), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Otraku](https://play.google.com/store/apps/details?id=com.otraku.app), [Moelist](https://moelist.net/), [AniTrend](https://anitrend.co/) / [GitHub](https://github.com/AniTrend/anitrend-app ) or [AniLib](https://anilib.onrender.com/) - Anime Trackers
@@ -4110,6 +4110,7 @@ Filter list for adblockers with sites from this thread.
 * ⭐ **[Aidoku](https://aidoku.app/)** - Manga Reader
 * [EBook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_ebook_readers) - List of eBook Readers
 * [Omnivore](https://omnivore.app/) - Ebook Reader
+* [SideBooks](https://apps.apple.com/us/app/sidebooks/id409777225) - PDF Reader
 * [BookPlayer](https://github.com/TortugaPower/BookPlayer) - Audiobook Player
 * [MangaToon](https://apps.apple.com/us/app/mangatoon-manga-reader/id1385287093) - Manga Reader
 * [ZETSU](https://apps.apple.com/us/app/zetsu-by-orion/id1510161371) - Manga Reader
@@ -4404,12 +4405,16 @@ Filter list for adblockers with sites from this thread.
 * [Ythuiju](https://www.ythuiju.com/) - Manga
 * [uukanshu](https://www.uukanshu.com/) - Light-Novels
 * [linovelib](https://www.linovelib.com/) - Light-Novels
+* [vvbiquge](http://www.vvbiquge.cc/) - Light-Novels
 * [lightnovel.us](https://www.lightnovel.us/) - Light-Novels
 * [txt900](https://www.txt990.org/) - Light-Novels
 * [69shu](https://www.69shu.com) - Light-Novels
+* [beqege](https://www.beqege.cc/) - Light-Novels
 * [Zongheng](https://www.zongheng.com/) - Light-Novels
 * [Bixiange](https://www.bixiange.top/) - Light-Novels
+* [ijjjxs](http://www.ijjjxs.net/) - Light-Novels
 * [118book](https://www.118book.com/) - Light-Novels
+* [qinkan](https://www.qinkan.net/) - Light-Novels
 * [ffxs8](https://ffxs8.com/) - Light-Novels
 * [Piaotian](https://www.ptwxz.com/) - Light-Novels
 * [Shuquge](https://www.ishuquge.org/) - Light-Novels
@@ -5370,6 +5375,7 @@ Filter list for adblockers with sites from this thread.
 * [Central Novel](https://centralnovel.com) - Light Novels
 * [Tsundoku Traduções](https://tsundoku.com.br) - Light Novels
 * [Empire Novels](https://empirenovels.com.br) - Light Novels
+* [kakuyomu](https://kakuyomu.jp/) - Light Novels
 * [My Light Novel](http://www.mylightnovel.com.br) - Light Novels
 * [Revista PROGRAMAR](https://www.revista-programar.info) - Programming Magazine
 * [D&D 5e BR](https://dnd5ed.github.io) - Dungeons and Dragons Guides
@@ -5753,7 +5759,6 @@ Filter list for adblockers with sites from this thread.
 * [Dilo](https://www.dilo.nu/) - TV / Anime / Latino / Castilian
 * [asialiveaction](https://asialiveaction.com/) - Asian Drama
 * [doramasyt](https://www.doramasyt.com/) - Asian Drama
-* [DoramasFlix](https://doramasflixs.com/) - Asian Drama
 * [El Bucanero del Deporte](https://deportebucanero.wordpress.com/) - Sports Piracy Directory
 * [Flipax](https://flipax.es/) - Live Sports
 * [Teledeportiva](https://teledeportiva4.blogspot.com/), [2](https://teledeportiva2.blogspot.com/) - Live Sports
@@ -14350,7 +14355,8 @@ pass: paluch
 * [CSS Cheat Sheet](https://docs.emmet.io/cheat-sheet/) or [CSS Tricks](https://css-tricks.com/snippets/) - CSS Cheat Sheet
 * [BEM Cheat Sheet](https://bem-cheat-sheet.9elements.com/) - BEM Cheet Sheet 
 * [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - CLI Commands Cheat Sheet
-* [Vim Cheatsheet](https://i.ibb.co/FbdMMHN/460e75dd8543.png) or [rTorr](https://vim.rtorr.com/) - Vim Code Editor Cheat Sheets
+* [Vim Cheatsheet](https://i.ibb.co/FbdMMHN/460e75dd8543.png) or [rTorr](https://vim.rtorr.com/) - Vim Editor Cheat Sheets
+* [VimTip](https://vim.fandom.com/wiki/Category:VimTip) - Vim Editor Tips
 * [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
 * [HTML.com](https://html.com/) - HTML Guide / Cheat Sheet
 * [SEO Cheet Sheet](https://seo-cheat-sheet.9elements.com/) - SEO Cheet Sheet
@@ -20563,6 +20569,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [Ultimate Cheatsheet](https://gist.github.com/bgoonz/be5c5be77169ef333b431bc37d331176)
 * [ArchWiki List of Applications](https://wiki.archlinux.org/title/list_of_applications)
+* [LinuxAlt](https://www.linuxalt.com/)
 * [Plan9Port](https://github.com/9fans/plan9port)
 * [tlanyan](https://itlanyan.com/)
 * [Flathub](https://flathub.org/) - Flatpak Repository
