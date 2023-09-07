@@ -826,7 +826,7 @@
 * [ComicEater](https://github.com/kanjieater/ComicEater) - Comic Archiving Tools
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comics-DL](https://github.com/The-Eye-Team/Comics-DL), [Comic-DL](https://github.com/Xonshiz/comic-dl), [comicMaker](https://github.com/gunjannandy/comicMaker) or [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md) - Comic Downloaders
 * [Tapastic Comic Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - Tapas Comics Downloader
-* [Cover](https://frenchfrysoftware.com/cover//), [Komikku](https://gitlab.com/valos/Komikku), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Readers / Managers
+* [Cover](https://frenchfrysoftware.com/cover//), [Komikku](https://gitlab.com/valos/Komikku), [MComix](https://sourceforge.net/projects/mcomix/), [CBR Reader](https://www.cdisplayex.com/), [comic-book-reader](https://github.com/binarynonsense/comic-book-reader), [OpenComic](https://github.com/ollm/OpenComic) or [YACReader](https://yacreader.com/) - Readers / Managers
 * [Free Dark Horse Digital Comics](https://digital.darkhorse.com/pages/free) / [Downloader](https://github.com/GrowAsguard/Dark-Horse-Comics-Converter)
 * [ComicFury](https://comicfury.com/) or [StripCreator](http://www.stripcreator.com/) - User-Made Comics
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Web Comic Reader
@@ -906,6 +906,8 @@
 * [LilyManga](https://lilymanga.com/)
 * [NineManga](https://www.ninemanga.com)
 * [MangaYeh](https://mangayeh.com)
+* [Mangahasu](https://mangahasu.se/)
+* [MangaForest](https://mangaforest.me/) / [2](https://mangamirror.com/)
 * [KomikKid](https://www.komikid.com/)
 * [MangaFox](https://fanfox.net/)
 * [ReadM](https://readm.org/)
@@ -923,7 +925,7 @@
 * [Webcomic Reader](https://openuserjs.org/scripts/anka-213/Webcomic_Reader) - Preloads Images, Remembers Progress and Keyboard Support
 * [MangaEditor](https://moeka.me/mangaEditor/) - Online Manga Editor
 * [CBZ-Manga-Creator](https://github.com/PonyLucky/CBZ-Manga-Creator) - Image to CBZ Converter
-* [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en), [manga-translator](https://github.com/cameronkinsella/manga-translator), [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md) or [Scanlate](https://scanlate.io/) - Manga Translators
+* [Manga Translator](https://chrome.google.com/webstore/detail/manga-translator/oooikipggipaohjibkmoiacmmlilgokn?hl=en), [manga-translator](https://github.com/cameronkinsella/manga-translator), [BallonsTranslator](https://github.com/dmMaze/BallonsTranslator/blob/master/README_EN.md), [Cotrans](https://cotrans.touhou.ai/) or [Scanlate](https://scanlate.io/) - Manga Translators
 * [TheJadedNetwork](http://thejadednetwork.com/sfx/) - Japanese SFX Translations / [PDF](https://drive.google.com/file/d/1ean3beoWJmz__yu67OqNa8CKNMlrvCSd/)
 * [Manga-Tagger](https://github.com/inpacchi/manga-tagger) - Manga Metadata
 
@@ -997,7 +999,6 @@
 * [MP4DIRECTS](https://mp4directs.com/)
 * [English Light Novels](https://englishlightnovels.com)
 * [Tensai Translations](https://tensaitranslations.wordpress.com/)
-* [Web Novel](https://www.webnovel.com/)
 * [Shin Translations](https://shintranslations.com/)
 * [wuxiaworld](https://www.wuxiaworld.com/)
 * [Henkan Epubs](https://henkanepubs.wordpress.com/)
@@ -1022,6 +1023,7 @@
 * [MTLReader](https://mtlreader.com/)
 * [WebNovelFull](https://webnovelfull.net/)
 * [Foxaholic](https://www.foxaholic.com/)
+* [Comrade Mao](https://comrademao.com/)
 * [NovelNext](https://novelnext.com/)
 * [InfiniteNovelTranslations](https://infinitenoveltranslations.net/)
 * [NovelBuddy](https://novelbuddy.com/)
@@ -1051,6 +1053,8 @@
 * [NovelFull](https://novelfull.com/)
 * [ExiledRebels](https://exiledrebelsscanlations.com/)
 * [Moon Bunny Cafe](https://moonbunnycafe.com/)
+* [Web Novel](https://www.webnovel.com/) - Web Novels
+* [Royal Road](https://www.royalroad.com/) - Web Novels
 * [Light Novel Archive](https://t.me/lightnovelarchive_bot) - Telegram / Bot
 * [Book Smelting Bot](https://t.me/epub_smelter_bot) - Telegram / Bot
 * [Baka-Tsuki](https://www.baka-tsuki.org/project/?title=Main_Page) - Novels / Audio Recordings
@@ -1058,6 +1062,7 @@
 * [Lightnovel Crawler](https://github.com/dipu-bd/lightnovel-crawler/), [novel-downloader](https://greasyfork.org/en/scripts/406070), [QuickNovel](https://github.com/LagradOst/QuickNovel), [anime-dl](https://github.com/vrienstudios/anime-dl) or [Novel-Grabber](https://github.com/Flameish/Novel-Grabber) - Light Novel Downloaders
 * [WebToEpub](https://github.com/dteviot/WebToEpub) - Novel to EPUB Converter
 * [LNMTL](https://lnmtl.com/) - Light Novel Translator
+* [Scan Updates](https://www.scanupdates.com/) - Scan Release Updates
 
 ***
 
@@ -1125,7 +1130,7 @@
 
 * ⭐ **[GoodReads](https://www.goodreads.com/)** / [Frontend](https://github.com/nesaku/BiblioReads) - Books / Comics / Manga / [DL Button](https://github.com/laxyapahuja/bunken)
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - Manga / Light Novels
-* ⭐ **MAL Tools** - [Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/)
+* ⭐ **MAL Tools** - [Redesign](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) / [Extension](https://anime.plus/) / [Scripts](https://myanimelist.net/forum/?topicid=1849731) / [Search Helper](https://greasyfork.org/en/scripts/429784) / [Site Sync](https://malsync.moe/) / [MALSync Discord](https://discord.com/invite/cTH4yaw) / [API](https://jikan.moe/) / [Graph](https://sekai.rl404.com/)
 * ⭐ **[Anilist](https://anilist.co/home)** - Manga / Light Novels / Manhwa / Manhua / [Wrapper](https://github.com/butterstroke/Anilist-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
 * ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - Manga (Has Obscure Stuff)
 * ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - Comics
@@ -1169,7 +1174,8 @@
 * [kenmei](https://www.kenmei.co/) - Manga
 * [All Anime](https://allmanga.to/) - Manga
 * [Manga Codex](https://mangacodex.com/) - Manga Infographics & Sales Stats
-* [vndb](https://vndb.org/) - Visual Novel
+* [vndb](https://vndb.org/) - Visual Novels / [Stats](https://vnstat.net/)
+* [/r/VisualNovel Recs](https://sites.google.com/view/rvisualnovels-recs/) or [VN Recs](https://vnrecs.github.io/) - Visual Novel Recommendations
 * [rate.house](https://rate.house/) - Media Tracker
 * [libib](https://www.libib.com/) - Desktop Media Catalog
 * [MythBank](https://mythbank.com/) - Media Timelines / Watch Orders
@@ -1229,7 +1235,7 @@
 
 # ► Helpful Sites / Apps
 
-* ⭐ **[ChatPDF](https://www.chatpdf.com/)** or [Ask Your PDF](https://askyourpdf.com/) - Turn PDFs into Chatbots
+* ⭐ **[ChatPDF](https://www.chatpdf.com/)**, [PaperBrain](https://www.paperbrain.study/) or [Ask Your PDF](https://askyourpdf.com/) - Turn PDFs into Chatbots
 * ⭐ **[Talk to Books](https://books.google.com/talktobooks/)** - AI Book Quote Search
 * ⭐ **[PlayText](https://playtext.app/)**, [AccelaReader](https://accelareader.com/), [Jiffy](https://www.jiffyreader.com/), [SwiftRead](https://swiftread.com/), [Notation](https://github.com/numanzamandipuu/Notation) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
 * ⭐ **[arch1ve](https://rentry.org/arch1ve)** or [Borrowing Picture Books](https://redd.it/fm1xpw) - Download Borrow Only Archive.org Books / [Script](https://redd.it/ofcqds)
