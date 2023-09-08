@@ -116,7 +116,7 @@
 ***
 
 * ⭐ **[Torrentz2](https://torrentz2.nz/)**
-* ⭐ **[BTDigg](https://btdig.com/index.htm)**, [2](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/) - [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/) / [i2p](http://btdigg.i2p/)
+* ⭐ **[BTDigg](https://btdig.com/index.htm)**, [2](https://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/) - [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/) / [i2p](http://btdigg.i2p/)
 * ⭐ **[FileListing](https://filelisting.com)** 
 * ⭐ **[snowfl](https://snowfl.com/)** 
 * ⭐ **[Knaben](https://knaben.eu/)**
