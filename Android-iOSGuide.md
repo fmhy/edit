@@ -372,7 +372,7 @@
 
 * ⭐ **[System Wide Adblocking](https://champagne.pages.dev/before-you-begin/important-tools/)** / [2](https://redd.it/oyfmr1) - System Wide Adblocking Guides
 * ⭐ **[AdGuard Premium](https://github.com/nbats/FMHYedit/blob/main/base64.md#adguard-premium)** - Adblocking App
-* ⭐ **[Cromite](https://github.com/uazo/cromite)**, [Bromite](https://github.com/uazo/bromite-buildtools/releases) / [2](https://www.bromite.org/), [jQuarks](https://f-droid.org/packages/com.oF2pks.jquarks/) or [Monument](https://play.google.com/store/apps/details?id=br.marcelo.monumentbrowser) - Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite)
+* ⭐ **[Cromite](https://github.com/uazo/cromite)**, [jQuarks](https://f-droid.org/packages/com.oF2pks.jquarks/) or [Monument](https://play.google.com/store/apps/details?id=br.marcelo.monumentbrowser) - Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite)
 * ⭐ **uBlock Origin** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Yandex](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) & [Kiwi](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) 
 * ⭐ **[Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)**, [NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid), [Incognito](https://play.google.com/store/apps/details?id=md.elway.webapp), [MultiApp](https://github.com/WaxMoon/MultiApp) or [WebApps](https://github.com/tobykurien/WebApps/) - Web App Containers
 * [RedReader](https://github.com/QuantumBadger/RedReader) or [Stealth](https://f-droid.org/packages/com.cosmos.unreddit/) / [2](https://gitlab.com/cosmosapps/stealth) - Ad Free Reddit Clients
