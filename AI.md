@@ -166,6 +166,7 @@
 * [GPTE](https://gpte.ai/) - AI Directory
 * [Toolspedia](https://www.toolspedia.io/) - AI Directory
 * [TheCrazyTool](https://www.thecrazytool.com/) - AI Directory
+* [HD Robots](https://hdrobots.com/) - AI Directory
 * [iLib](https://www.ilib.com/) -  AI Directory
 * [GPT Resources](https://airtable.com/shrWat9yoXFwOXWQ0/tblxXHpcpjn1POWnh) - AI Directory
 * [WikiGPT3](https://www.wikigpt3.com/) - AI Directory
@@ -174,7 +175,6 @@
 * [Experiments with Google](https://labs.withgoogle.com/) - AI Experiments
 * [OpenCV](https://opencv.org/) - A.I. Vision Library
 * [free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - AI Learning Resources
-* [HD Robots](https://hdrobots.com/) - AI Directory
 
 ***
 ***
