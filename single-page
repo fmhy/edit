@@ -732,7 +732,7 @@
 ***
 
 * ⭐ **[Torrentz2](https://torrentz2.nz/)**
-* ⭐ **[BTDigg](https://btdig.com/index.htm)** - [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/) / [i2p](http://btdigg.i2p/)
+* ⭐ **[BTDigg](https://btdig.com/index.htm)** - [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/), [2](https://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion.ly/) / [i2p](http://btdigg.i2p/)
 * ⭐ **[FileListing](https://filelisting.com)** 
 * ⭐ **[snowfl](https://snowfl.com/)** 
 * ⭐ **[Knaben](https://knaben.eu/)**
@@ -992,7 +992,7 @@
 * [ChestOfBooks](https://chestofbooks.com/) - Online Public Domain Books
 * [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - ZeroNet Required
 * [FileStore](http://filestore.orgfree.com/) - Emule Book Collections
-* [Just Another Library](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/) - Tor Required / NSFW
+* [Just Another Library](https://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion.ly/) / [.onion](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/) - Tor Required / NSFW
 * [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
 * [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
@@ -1665,7 +1665,7 @@
 * [The Oatmeal](https://theoatmeal.com/) - Web Comics
 * [RichieRichcomicsfanclub](https://richierichcomicsfanclub.wordpress.com/) - Richie Rich Comics
 * [PenLab](https://penlab.ink/) - Filipino Comics
-* [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - Tor required
+* [Comic Book Library](https://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion.ly/) / [.onion](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - Tor required
 * [ComicEater](https://github.com/kanjieater/ComicEater) - Comic Archiving Tools
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comics-DL](https://github.com/The-Eye-Team/Comics-DL), [Comic-DL](https://github.com/Xonshiz/comic-dl), [comicMaker](https://github.com/gunjannandy/comicMaker) or [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md) - Comic Downloaders
 * [Tapastic Comic Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - Tapas Comics Downloader
@@ -2519,9 +2519,8 @@
 
 ## ▷ Search Engines
 
-* ⭐ **[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons
 * ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bangs) / [Search Scraper](https://github.com/JohnScooby/DuckDuckGo-Scraper)
-* ⭐ **[searx](https://asciimoo.github.io/searx/)** - [Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_searx_instances) / [Desktop](https://notabug.org/CYBERDEViL/searx-qt)
+* ⭐ **[SearXNG](https://docs.searxng.org/)** - [Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_searx_instances) / [Desktop](https://notabug.org/CYBERDEViL/searx-qt) / [GitHub](https://asciimoo.github.io/searx/)
 * ⭐ **[Mojeek](https://www.mojeek.com/)**
 * [Qwant](https://www.qwant.com/)
 * [Swisscows](https://swisscows.com/)
@@ -2533,7 +2532,7 @@
 * [Kagi](https://kagi.com/) 
 * [ekoru](https://ekoru.org/)
 * [Gibiru](https://gibiru.com/)
-* [Whoogle](https://github.com/benbusby/whoogle-search) or [librengine](https://github.com/liameno/librengine) - Self-Hosted Encrypted Search Engines
+* [Whoogle](https://github.com/benbusby/whoogle-search) - Self-Hosted Encrypted Search Engines
 
 ***
 
@@ -2608,7 +2607,6 @@
 * [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN w/ Adblocking Capabilities 
 * [Syntropy](https://www.syntropystack.com/vpn), [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood), [n2n](https://github.com/ntop/n2n), [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) - Self-Hosted VPN
 * [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)
-* [Kaspersky](https://www.kaspersky.com/vpn-secure-connection) - Free VPN / 200 MB per day / No Account Required
 * [OpenConnect](https://www.infradead.org/openconnect/) - SSL VPN / [GUI](https://openconnect.github.io/openconnect-gui/)
 * [Free VPN Online](http://freevpnonline.com/) - Free VPN
 * [VpnHood](https://github.com/vpnhood/VpnHood) - Free VPN
@@ -2639,7 +2637,6 @@
 
 ## ▷ Proxy Apps
 
-* ⭐ **[Psiphon](https://psiphon.ca/)** - [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png)
 * ⭐ **[Lantern](https://lantern.io/)** 
 * ⭐ **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) or [NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) - Local Proxies
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/bypass-some-isp-blocks-with-just-firefox)** - Bypass ISP censorship with Firefox
@@ -2647,7 +2644,6 @@
 * [Tsunami](https://github.com/FogNetwork/Tsunami)
 * [Shadowsocks](https://shadowsocks.org/) - [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows)
 * [Proxifier](https://www.proxifier.com/) - [Keys](https://github.com/nbats/FMHYedit/blob/main/base64.md#proxifier-keys)
-* [Hola Proxy](https://github.com/Snawoot/hola-proxy)
 * [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
 * [Hysteria](https://github.com/apernet/hysteria)
 * [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt)
@@ -2925,7 +2921,6 @@ Filter list for adblockers with sites from this thread.
 * [marioworlds4u](https://t.me/marioworlds4u)
 * [EasyAPK](https://t.me/EasyAPK)
 * [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re)
-* [dumpmods](https://t.me/dumpmods)
 * [faloojein](https://t.me/faloojein)
 * [IC_Mods](https://t.me/IC_Mods)
 * [Moderse](https://t.me/Moderse)
@@ -3176,7 +3171,7 @@ Filter list for adblockers with sites from this thread.
 
 * ⭐ **[System Wide Adblocking](https://champagne.pages.dev/before-you-begin/important-tools/)** / [2](https://redd.it/oyfmr1) - System Wide Adblocking Guides
 * ⭐ **[AdGuard Premium](https://github.com/nbats/FMHYedit/blob/main/base64.md#adguard-premium)** - Adblocking App
-* ⭐ **[Cromite](https://github.com/uazo/cromite)**, [Bromite](https://github.com/uazo/bromite-buildtools/releases) / [2](https://www.bromite.org/), [jQuarks](https://f-droid.org/packages/com.oF2pks.jquarks/) or [Monument](https://play.google.com/store/apps/details?id=br.marcelo.monumentbrowser) - Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite)
+* ⭐ **[Cromite](https://github.com/uazo/cromite)**, [jQuarks](https://f-droid.org/packages/com.oF2pks.jquarks/) or [Monument](https://play.google.com/store/apps/details?id=br.marcelo.monumentbrowser) - Adblocking Browser / [Filter](https://github.com/xarantolus/filtrite)
 * ⭐ **uBlock Origin** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Yandex](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) & [Kiwi](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) 
 * ⭐ **[Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)**, [NativeAlphaForAndroid](https://github.com/cylonid/NativeAlphaForAndroid), [Incognito](https://play.google.com/store/apps/details?id=md.elway.webapp), [MultiApp](https://github.com/WaxMoon/MultiApp) or [WebApps](https://github.com/tobykurien/WebApps/) - Web App Containers
 * [RedReader](https://github.com/QuantumBadger/RedReader) or [Stealth](https://f-droid.org/packages/com.cosmos.unreddit/) / [2](https://gitlab.com/cosmosapps/stealth) - Ad Free Reddit Clients
@@ -3189,7 +3184,7 @@ Filter list for adblockers with sites from this thread.
 * [DNS Speed Test & Changer](https://github.com/nbats/FMHYedit/blob/main/base64.md#dns-speed-test--changer) - DNS Speed Test
 * [DNS Changer](https://play.google.com/store/apps/details?id=com.technoapps.dnschanger) - DNS Changer
 * [YouTubeAdAway](https://github.com/wanam/YouTubeAdAway) - YouTube Adblocker
-* [Aerowitter](https://aerowitter.com/) or [Twidere-X](https://github.com/TwidereProject/TwidereX-Android) - Ad-Free Twitter Apps
+* [Aerowitter](https://aerowitter.com/) - Ad-Free Twitter App
 * [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - Adblock Filters 
 * [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker), [Silence](https://f-droid.org/packages/me.lucky.silence), [NoPhoneSpam](https://gitlab.com/bitfireAT/NoPhoneSpam) or [Hiya](https://www.hiya.com/) - Block Spam Calls
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls 
@@ -3303,7 +3298,6 @@ Filter list for adblockers with sites from this thread.
 * [TxtNet Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - Browse Webpages via SMS
 * [Lagrange](https://skyjake.github.io/fdroid/repo/) or [Buran](https://github.com/Corewala/Buran) - Gemini Browsers
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
-* [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - Article / Link Viewer
 * [Better Open With](https://play.google.com/store/apps/details?id=com.aboutmycode.betteropenwith) - Improved Link Handling
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - Easily Open Links in Text via Share Function
 * [LinkSheet](https://github.com/1fexd/LinkSheet) - Restore URL App Chooser
@@ -3326,7 +3320,6 @@ Filter list for adblockers with sites from this thread.
 * [Instander](https://thedise.me/instander/) - Modded Instagram Client / [Telegram](https://t.me/instander) / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android) / [Secrets](https://ngl.link/) 
 * [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) or [LC_Reborn](https://t.me/s/Facebook_LC_Reborn) - Facebook Clients
 * [NoFBEventScraper](https://github.com/akaessens/NoFbEventScraper) - Scrape Facebook for Events without Account
-* [Shitter](https://github.com/nuclearfog/Shitter) or [Harpy](https://github.com/robertodoering/harpy) - Twitter Client
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [Nekogram](https://nekogram.app/), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram X](https://github.com/CatogramX/CatogramX), [Nagram](https://github.com/nextalone/nagram), [Telegraher](https://github.com/nikitasius/Telegraher/), [exteraGram](https://github.com/exteraSquad/exteraGram), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [Nullgram](https://github.com/qwq233/Nullgram/), [MDGramYou](https://play.google.com/store/apps/details?id=org.telegram.mdgram) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram Clients
 * [Uploadgram](https://github.com/Uploadgram/app) - Telegram File Upload
 * [Telegram Themer](https://play.google.com/store/apps/details?id=com.therxmv.telegramthemer) - Custom Telegram Themes
@@ -3345,7 +3338,6 @@ Filter list for adblockers with sites from this thread.
 * [You Have Mail](https://github.com/LeanderBB/you-have-mail) - Email Notifications
 * [Delta Lab](https://github.com/adbenitez/deltalab-android) - Email Based Messenger
 * [Endless](https://kaangiray26.github.io/endless/) - Combine Social Media Apps
-* [Creator Studio](https://play.google.com/store/apps/details?id=com.facebook.creatorstudio) - Social Media Manager
 * [Eruda](https://pastebin.com/7qSZXjDS) - Mobile Browser Console / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [Github](https://github.com/liriliri/eruda)
 * [Andure](https://github.com/leohku/andure) - Android Chrome Dev Tools
 * [MobiDevTools](https://addons.mozilla.org/en-US/firefox/addon/mobidevtools/) - Firefox Inspect Element
@@ -3627,8 +3619,6 @@ Filter list for adblockers with sites from this thread.
 * [Podbean](https://play.google.com/store/apps/details?id=com.podbean.app.podcast) - Podcasts
 * [PocketCasts](https://www.pocketcasts.com/) - Podcasts
 * [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict ) - Podcasts 
-* [Tsacdop](https://play.google.com/store/apps/details?id=com.stonegate.tsacdop) - Podcasts
-* [Stitcher](http://www.stitcher.com/) - Podcasts
 * [Pocket Casts](https://github.com/Automattic/pocket-casts-android) - Podcasts
 * [Transistor](https://codeberg.org/y20k/transistor) - Radio
 * [DisasterRadio](https://f-droid.org/en/packages/tk.giesecke.disaster_radio/) - Radio
@@ -3637,7 +3627,7 @@ Filter list for adblockers with sites from this thread.
 * [SpiritF](https://www.apkmirror.com/apk/xiaomi-inc/miui-fm-radio/miui-fm-radio-1-0-478-release/) or [Next Radio](https://play.google.com/store/apps/details?id=com.nextradioapp.nextradio) - FM Radio
 * [DI.FM](https://play.google.com/store/apps/details?id=com.audioaddict.di) - Electronic Radio
 * [LISTEN.moe](https://play.google.com/store/apps/details?id=me.echeung.moemoekyun) - K-Pop Radio
-* [AntennaPod](https://antennapod.org/) / [2](https://github.com/AntennaPod/AntennaPod), [Tsacdop](https://www.tsacdop.app/), [Snipd](https://www.snipd.com/) or [AudioAnchor](https://github.com/flackbash/AudioAnchor) - Podcast Players 
+* [AntennaPod](https://antennapod.org/) / [2](https://github.com/AntennaPod/AntennaPod), [Snipd](https://www.snipd.com/) or [AudioAnchor](https://github.com/flackbash/AudioAnchor) - Podcast Players 
 * [AntennaPod](https://github.com/AntennaPod/AntennaPod) - Podcast Manager
 * [Muviz](https://www.sparkine.com/muviz/) or [Muviz Edge](https://www.sparkine.com/muviz-edge/) - Navbar Audio Visualizer
 * [Inspod](https://play.google.com/store/apps/details?id=com.kdanmobile.android.podsnote) - Podcast Notes
@@ -8668,7 +8658,7 @@ https://codeberg.org/hkau/entry
 
 #### Scan Files
 
-* ⭐ **[VirusTotal](https://www.virustotal.com/)** / [CLI](https://github.com/VirusTotal/vt-cli), [2](https://virustotal.github.io/vt-cli/) / [Telegram Bot](https://t.me/virus_total_scan_bot) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader)
+* ⭐ **[VirusTotal](https://www.virustotal.com/)** / [CLI](https://github.com/VirusTotal/vt-cli), [2](https://virustotal.github.io/vt-cli/) / [Telegram Bot](https://t.me/virus_total_scan_bot) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader) / [Lite Version](https://www.virustotal.com/old-browsers/)
 * ⭐ **[Hybrid-Analysis](https://hybrid-analysis.com/)**
 
 [Any.Run](https://any.run/), [Triage](https://tria.ge/), [Malware Initial Assessment](https://www.winitor.com/), [Intezer Analyze](https://analyze.intezer.com/), [Cuckoo](https://cuckoosandbox.org/) / [2](https://cuckoo.cert.ee/), [VirSCAN](https://www.virscan.org/), [Joe Sandbox](https://www.joesandbox.com/), [MetaDefender](https://metadefender.opswat.com/?lang=en), [Fortiguard](https://www.fortiguard.com/faq/onlinescanner), [Jotti](https://virusscan.jotti.org/en), [Virus Desk](https://opentip.kaspersky.com/), [Antiscan](https://www.antiscan.me/), [MalShare](https://www.malshare.com/), [Amnpardaz](https://jevereg.amnpardaz.com/), [Cuckoo](https://sandbox.pikker.ee/)
@@ -17300,9 +17290,9 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 ***
 
 ### Privacy 🔐
+
 **[Privacy Guides](https://www.privacyguides.org/)** - Privacy Guides 
 **[Security List](https://security-list.js.org/)** - Security Checklist
-**[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons / **[Search Engine Recommendations](https://avoidthehack.com/best-private-search)** 
 **[DuckDuckGo](https://duckduckgo.com/) / [Mojeek](https://www.mojeek.com/)** - Tracker free web search
 **[ProtonMail](https://protonmail.com/) / [SkiffMail](https://skiff.com/mail)** - Encrypted email service
 **[Temp Email Sites](https://fmhy.pages.dev/storage/#temp-email-sites)** - Temporary emails
@@ -17585,6 +17575,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [GPTE](https://gpte.ai/) - AI Directory
 * [Toolspedia](https://www.toolspedia.io/) - AI Directory
 * [TheCrazyTool](https://www.thecrazytool.com/) - AI Directory
+* [HD Robots](https://hdrobots.com/) - AI Directory
 * [iLib](https://www.ilib.com/) -  AI Directory
 * [GPT Resources](https://airtable.com/shrWat9yoXFwOXWQ0/tblxXHpcpjn1POWnh) - AI Directory
 * [WikiGPT3](https://www.wikigpt3.com/) - AI Directory
