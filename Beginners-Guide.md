@@ -113,9 +113,9 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 ***
 
 ### Privacy 🔐
+
 **[Privacy Guides](https://www.privacyguides.org/)** - Privacy Guides 
 **[Security List](https://security-list.js.org/)** - Security Checklist
-**[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons / **[Search Engine Recommendations](https://avoidthehack.com/best-private-search)** 
 **[DuckDuckGo](https://duckduckgo.com/) / [Mojeek](https://www.mojeek.com/)** - Tracker free web search
 **[ProtonMail](https://protonmail.com/) / [SkiffMail](https://skiff.com/mail)** - Encrypted email service
 **[Temp Email Sites](https://fmhy.pages.dev/storage/#temp-email-sites)** - Temporary emails
