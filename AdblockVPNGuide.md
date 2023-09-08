@@ -403,9 +403,8 @@
 
 ## ▷ Search Engines
 
-* ⭐ **[Search Engine Party](https://searchengine.party/)** - Privacy Search Engine Comparisons
 * ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bangs) / [Search Scraper](https://github.com/JohnScooby/DuckDuckGo-Scraper)
-* ⭐ **[searx](https://asciimoo.github.io/searx/)** - [Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_searx_instances) / [Desktop](https://notabug.org/CYBERDEViL/searx-qt)
+* ⭐ **[SearXNG](https://docs.searxng.org/)** - [Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_searx_instances) / [Desktop](https://notabug.org/CYBERDEViL/searx-qt) / [GitHub](https://asciimoo.github.io/searx/)
 * ⭐ **[Mojeek](https://www.mojeek.com/)**
 * [Qwant](https://www.qwant.com/)
 * [Swisscows](https://swisscows.com/)
@@ -417,7 +416,7 @@
 * [Kagi](https://kagi.com/) 
 * [ekoru](https://ekoru.org/)
 * [Gibiru](https://gibiru.com/)
-* [Whoogle](https://github.com/benbusby/whoogle-search) or [librengine](https://github.com/liameno/librengine) - Self-Hosted Encrypted Search Engines
+* [Whoogle](https://github.com/benbusby/whoogle-search) - Self-Hosted Encrypted Search Engines
 
 ***
 
@@ -492,7 +491,6 @@
 * [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN w/ Adblocking Capabilities 
 * [Syntropy](https://www.syntropystack.com/vpn), [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood), [n2n](https://github.com/ntop/n2n), [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) - Self-Hosted VPN
 * [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)
-* [Kaspersky](https://www.kaspersky.com/vpn-secure-connection) - Free VPN / 200 MB per day / No Account Required
 * [OpenConnect](https://www.infradead.org/openconnect/) - SSL VPN / [GUI](https://openconnect.github.io/openconnect-gui/)
 * [Free VPN Online](http://freevpnonline.com/) - Free VPN
 * [VpnHood](https://github.com/vpnhood/VpnHood) - Free VPN
@@ -523,7 +521,6 @@
 
 ## ▷ Proxy Apps
 
-* ⭐ **[Psiphon](https://psiphon.ca/)** - [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png)
 * ⭐ **[Lantern](https://lantern.io/)** 
 * ⭐ **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) or [NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) - Local Proxies
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/bypass-some-isp-blocks-with-just-firefox)** - Bypass ISP censorship with Firefox
@@ -531,7 +528,6 @@
 * [Tsunami](https://github.com/FogNetwork/Tsunami)
 * [Shadowsocks](https://shadowsocks.org/) - [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows)
 * [Proxifier](https://www.proxifier.com/) - [Keys](https://github.com/nbats/FMHYedit/blob/main/base64.md#proxifier-keys)
-* [Hola Proxy](https://github.com/Snawoot/hola-proxy)
 * [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
 * [Hysteria](https://github.com/apernet/hysteria)
 * [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt)
