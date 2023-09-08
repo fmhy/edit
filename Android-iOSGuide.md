@@ -122,7 +122,6 @@
 * [marioworlds4u](https://t.me/marioworlds4u)
 * [EasyAPK](https://t.me/EasyAPK)
 * [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re)
-* [dumpmods](https://t.me/dumpmods)
 * [faloojein](https://t.me/faloojein)
 * [IC_Mods](https://t.me/IC_Mods)
 * [Moderse](https://t.me/Moderse)
@@ -500,7 +499,6 @@
 * [TxtNet Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - Browse Webpages via SMS
 * [Lagrange](https://skyjake.github.io/fdroid/repo/) or [Buran](https://github.com/Corewala/Buran) - Gemini Browsers
 * [NetClicker](https://netclicker.tv/) - Phone Browser Controller
-* [Flynx](https://play.google.com/store/apps/details?id=com.flynx) - Article / Link Viewer
 * [Better Open With](https://play.google.com/store/apps/details?id=com.aboutmycode.betteropenwith) - Improved Link Handling
 * [EasyOpenLink](https://codeberg.org/marc.nause/easyopenlink) - Easily Open Links in Text via Share Function
 * [LinkSheet](https://github.com/1fexd/LinkSheet) - Restore URL App Chooser
@@ -523,7 +521,6 @@
 * [Instander](https://thedise.me/instander/) - Modded Instagram Client / [Telegram](https://t.me/instander) / [Tools](https://play.google.com/store/apps/details?id=com.dageek.socialtoolbox_android) / [Secrets](https://ngl.link/) 
 * [Frost for Facebook](https://github.com/AllanWang/Frost-for-Facebook) or [LC_Reborn](https://t.me/s/Facebook_LC_Reborn) - Facebook Clients
 * [NoFBEventScraper](https://github.com/akaessens/NoFbEventScraper) - Scrape Facebook for Events without Account
-* [Shitter](https://github.com/nuclearfog/Shitter) or [Harpy](https://github.com/robertodoering/harpy) - Twitter Client
 * [Nekogram X](https://github.com/NekoX-Dev/NekoX), [Nekogram](https://nekogram.app/), [TelegramAndroid](https://github.com/Forkgram/TelegramAndroid), [Catogram X](https://github.com/CatogramX/CatogramX), [Nagram](https://github.com/nextalone/nagram), [Telegraher](https://github.com/nikitasius/Telegraher/), [exteraGram](https://github.com/exteraSquad/exteraGram), [Cherrygram](https://github.com/arsLan4k1390/Cherrygram), [Nullgram](https://github.com/qwq233/Nullgram/), [MDGramYou](https://play.google.com/store/apps/details?id=org.telegram.mdgram) or [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Telegram Clients
 * [Uploadgram](https://github.com/Uploadgram/app) - Telegram File Upload
 * [Telegram Themer](https://play.google.com/store/apps/details?id=com.therxmv.telegramthemer) - Custom Telegram Themes
@@ -542,7 +539,6 @@
 * [You Have Mail](https://github.com/LeanderBB/you-have-mail) - Email Notifications
 * [Delta Lab](https://github.com/adbenitez/deltalab-android) - Email Based Messenger
 * [Endless](https://kaangiray26.github.io/endless/) - Combine Social Media Apps
-* [Creator Studio](https://play.google.com/store/apps/details?id=com.facebook.creatorstudio) - Social Media Manager
 * [Eruda](https://pastebin.com/7qSZXjDS) - Mobile Browser Console / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [Github](https://github.com/liriliri/eruda)
 * [Andure](https://github.com/leohku/andure) - Android Chrome Dev Tools
 * [MobiDevTools](https://addons.mozilla.org/en-US/firefox/addon/mobidevtools/) - Firefox Inspect Element
@@ -824,8 +820,6 @@
 * [Podbean](https://play.google.com/store/apps/details?id=com.podbean.app.podcast) - Podcasts
 * [PocketCasts](https://www.pocketcasts.com/) - Podcasts
 * [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict ) - Podcasts 
-* [Tsacdop](https://play.google.com/store/apps/details?id=com.stonegate.tsacdop) - Podcasts
-* [Stitcher](http://www.stitcher.com/) - Podcasts
 * [Pocket Casts](https://github.com/Automattic/pocket-casts-android) - Podcasts
 * [Transistor](https://codeberg.org/y20k/transistor) - Radio
 * [DisasterRadio](https://f-droid.org/en/packages/tk.giesecke.disaster_radio/) - Radio
@@ -834,7 +828,7 @@
 * [SpiritF](https://www.apkmirror.com/apk/xiaomi-inc/miui-fm-radio/miui-fm-radio-1-0-478-release/) or [Next Radio](https://play.google.com/store/apps/details?id=com.nextradioapp.nextradio) - FM Radio
 * [DI.FM](https://play.google.com/store/apps/details?id=com.audioaddict.di) - Electronic Radio
 * [LISTEN.moe](https://play.google.com/store/apps/details?id=me.echeung.moemoekyun) - K-Pop Radio
-* [AntennaPod](https://antennapod.org/) / [2](https://github.com/AntennaPod/AntennaPod), [Tsacdop](https://www.tsacdop.app/), [Snipd](https://www.snipd.com/) or [AudioAnchor](https://github.com/flackbash/AudioAnchor) - Podcast Players 
+* [AntennaPod](https://antennapod.org/) / [2](https://github.com/AntennaPod/AntennaPod), [Snipd](https://www.snipd.com/) or [AudioAnchor](https://github.com/flackbash/AudioAnchor) - Podcast Players 
 * [AntennaPod](https://github.com/AntennaPod/AntennaPod) - Podcast Manager
 * [Muviz](https://www.sparkine.com/muviz/) or [Muviz Edge](https://www.sparkine.com/muviz-edge/) - Navbar Audio Visualizer
 * [Inspod](https://play.google.com/store/apps/details?id=com.kdanmobile.android.podsnote) - Podcast Notes
