@@ -149,7 +149,7 @@
 * [ChestOfBooks](https://chestofbooks.com/) - Online Public Domain Books
 * [Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - ZeroNet Required
 * [FileStore](http://filestore.orgfree.com/) - Emule Book Collections
-* [Just Another Library](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/) - Tor Required / NSFW
+* [Just Another Library](https://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion.ly/) / [.onion](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/) - Tor Required / NSFW
 * [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
 * [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
 * [eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)
@@ -822,7 +822,7 @@
 * [The Oatmeal](https://theoatmeal.com/) - Web Comics
 * [RichieRichcomicsfanclub](https://richierichcomicsfanclub.wordpress.com/) - Richie Rich Comics
 * [PenLab](https://penlab.ink/) - Filipino Comics
-* [Comic Book Library](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - Tor required
+* [Comic Book Library](https://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion.ly/) / [.onion](http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/) - Tor required
 * [ComicEater](https://github.com/kanjieater/ComicEater) - Comic Archiving Tools
 * [Omnibus](https://github.com/fireshaper/Omnibus), [Comics Downloader](https://github.com/Girbons/comics-downloader), [mylar3](https://github.com/mylar3/mylar3), [Comics-DL](https://github.com/The-Eye-Team/Comics-DL), [Comic-DL](https://github.com/Xonshiz/comic-dl), [comicMaker](https://github.com/gunjannandy/comicMaker) or [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md) - Comic Downloaders
 * [Tapastic Comic Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - Tapas Comics Downloader
