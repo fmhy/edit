@@ -2213,7 +2213,7 @@ https://codeberg.org/hkau/entry
 
 #### Scan Files
 
-* ⭐ **[VirusTotal](https://www.virustotal.com/)** / [CLI](https://github.com/VirusTotal/vt-cli), [2](https://virustotal.github.io/vt-cli/) / [Telegram Bot](https://t.me/virus_total_scan_bot) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader)
+* ⭐ **[VirusTotal](https://www.virustotal.com/)** / [CLI](https://github.com/VirusTotal/vt-cli), [2](https://virustotal.github.io/vt-cli/) / [Telegram Bot](https://t.me/virus_total_scan_bot) / [Uploader](https://github.com/SamuelTulach/VirusTotalUploader) / [Lite Version](https://www.virustotal.com/old-browsers/)
 * ⭐ **[Hybrid-Analysis](https://hybrid-analysis.com/)**
 
 [Any.Run](https://any.run/), [Triage](https://tria.ge/), [Malware Initial Assessment](https://www.winitor.com/), [Intezer Analyze](https://analyze.intezer.com/), [Cuckoo](https://cuckoosandbox.org/) / [2](https://cuckoo.cert.ee/), [VirSCAN](https://www.virscan.org/), [Joe Sandbox](https://www.joesandbox.com/), [MetaDefender](https://metadefender.opswat.com/?lang=en), [Fortiguard](https://www.fortiguard.com/faq/onlinescanner), [Jotti](https://virusscan.jotti.org/en), [Virus Desk](https://opentip.kaspersky.com/), [Antiscan](https://www.antiscan.me/), [MalShare](https://www.malshare.com/), [Amnpardaz](https://jevereg.amnpardaz.com/), [Cuckoo](https://sandbox.pikker.ee/)
