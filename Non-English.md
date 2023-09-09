@@ -223,7 +223,7 @@
 * [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)
 * [beyondHD ](https://t.me/beyondHD) - Movies / Subs
 * [Watch HK Movies Online](https://vinspirezhk.blogspot.com/) - Rare Chinese Movies / English Subs
-* [Movie Forest](https://549.tv/) or [klyingshi](https://klyingshi.com/) - Indexs of Chinese Streaming Sites
+* [Movie Forest](https://549.tv/) or [klyingshi](https://klyingshi.com/) - Indexes of Chinese Streaming Sites
 * [PangzITV](https://pangzitv.com/) - Movies / TV / Anime
 * [tangrenjie](https://www.tangrenjie.tv/) - Movies / TV / Anime
 * [ddrk](https://ddys.pro/) - Movies / TV / Anime
