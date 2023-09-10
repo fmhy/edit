@@ -539,7 +539,6 @@
 * [anonymoX](https://anonymox.net/en) - Free Proxy Service Browser Extension
 * [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
 * [GoFly](https://play.google.com/store/apps/details?id=com.ambrose.overwall&gl=US) - Free Proxy Service for Android
-* [Fri-Gate](https://fri-gate.org/) - Paid VPN App for iOS 
 * [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
 
 ***
