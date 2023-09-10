@@ -2088,7 +2088,7 @@
 * [ebook-converter-bot](https://github.com/yshalsager/ebook-converter-bot) - Telegram Ebook Converter
 * [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to Ebook Converter
 * [CrowBook](https://github.com/lise-henry/crowbook) - Markdown to EPUB Converter
-* [AudioBookConverter](https://github.com/yermak/AudioBookConverter) or [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) - Audiobook Converters
+* [AudioBookConverter](https://github.com/yermak/AudioBookConverter), [Audible Tools](https://audible-tools.kamsker.at/) or [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) - Audiobook Converters
 * [Libby](https://libbyapp.com/) - Library Search / [Downloader](https://github.com/bookbonobo/libby-download-extension)
 * [How-to Get Library Card Online](https://rentry.co/9b3vdo)
 * [BookInfo](https://lordgnomembe.github.io/BookInfo/) - Get Book Info via ISBN
@@ -4064,7 +4064,7 @@ Filter list for adblockers with sites from this thread.
 * [RSS Player](https://apps.apple.com/us/app/rss-video-player/id885311320) - KDrama / [Feed](http://allrss.se/dramas)
 * [Wako-TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - Movies / TV / Anime / Real Debrid required
 * [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962), [SPlayer](https://splayer.dev/), [Loader](https://apps.apple.com/us/app/documents-loader/id1442498151), [Pojobox](https://apps.apple.com/us/app/pojo-4k-hd-video-music-player/id1454098557) or [‎Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
-* [YT Tweaked](https://github.com/nbats/FMHYedit/blob/main/base64.md#yt-tweaked-ipas), [uYouPlus](https://github.com/qnblackcat/uYouPlus) or [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPA / [Reddit Post](https://redd.it/olsxri)
+* [uYouPlusExtra](https://github.com/arichorn/uYouPlusExtra), [YT Tweaked](https://github.com/nbats/FMHYedit/blob/main/base64.md#yt-tweaked-ipas) or [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPA / [Reddit Post](https://redd.it/olsxri)
 * [Yattee](https://github.com/yattee/yattee) - YouTube Frontend
 * [Block iPhone YouTube Ads](https://redd.it/xg5jkn) - How-to Block YouTube Ads
 * [Tunity](https://tunity.com/) - Hear Any Muted TV
@@ -9945,6 +9945,7 @@ https://codeberg.org/hkau/entry
 * [IRuler](https://iruler.net/) - Turn Device into Ruler
 * [HairFinder](https://www.hairfinder.com/) - View / Find Hairstyles
 * [Pronoun Dressing Room](http://www.pronouns.failedslacker.com/) - Test Different Pronouns
+* [Acoustic Gender](https://acousticgender.space/) - Measure Voice Pitch
 * [RandomNameGenerator](https://randomnamegenerator.info/) - Baby Name Generator
 * [MixedName](https://mixedname.com/) - Find Bilingual Baby Names
 * [Forebears](https://forebears.io/) or [BehindTheName](https://www.behindthename.com/) - Name Etymologies
@@ -10074,7 +10075,7 @@ https://codeberg.org/hkau/entry
 * [OfficeDocs](https://www.offidocs.com/) - Runs Desktop / Mobile Apps Online
 * [Text / Code Collaboration](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_.2F_code_collaboration) - Text / Code Collaboration Tools
 * [Baserow](https://gitlab.com/baserow/baserow), [Framacalc](https://framacalc.org/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheet
-* [TinySheet](https://tinysheet.com/), [Gnumeric](http://www.gnumeric.org/), [Quadratic](https://www.quadratichq.com/) or [EtherCalc](https://ethercalc.net/) - Spreadsheets
+* [TinySheet](https://tinysheet.com/), [Tree Sheets](https://strlen.com/treesheets/), [Gnumeric](http://www.gnumeric.org/), [Quadratic](https://www.quadratichq.com/) or [EtherCalc](https://ethercalc.net/) - Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
 * [Diagram.codes](https://www.diagram.codes/) - Convert Text to Diagrams
 * [Dictation](https://dictation.io/speech), [SpeechTexter](https://www.speechtexter.com/), [ConvertSpeech](https://convertspeech.com/), [SpeechNotes](https://speechnotes.co/), [LilySpeech](https://lilyspeech.com/), [VoiceToText](https://voicetotext.org/), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
@@ -10339,7 +10340,7 @@ https://codeberg.org/hkau/entry
 * [Whyp](https://whyp.it/) - Audio Host
 * [Aux](https://aux.app/) - Audio Project Host
 * [Audiocheck](https://www.audiocheck.net/) - Audio Tests 
-* [Online Mic Test](https://onlinemictest.com/), [Mic Tests](https://mictests.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test  
+* [Online Mic Test](https://onlinemictest.com/), [Mic Tests](https://mictests.com/) or [Check Mic](https://webcammictest.com/check-mic.html) - Mic Test
 * [Sound Meter](https://mybrowseraddon.com/sound-meter.html) - Measure Surrounding Sound Level
 * [SoundSwitch](https://soundswitch.aaflalo.me/) - Switch Playback or Recording Device with Hotkey / [GitHub](https://github.com/Belphemur/SoundSwitch)
 * [Ultimate Realtek HD Audio Driver Mod](https://github.com/nbats/FMHYedit/blob/main/base64.md#ultimate-realtek-hd-audio-driver-mod) or [Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic) - Realtek Audio Driver
@@ -10396,7 +10397,7 @@ https://codeberg.org/hkau/entry
 * [Melody Generator](https://dopeloop.ai/melody-generator), [Signal](https://signal.vercel.app/), [Rosegarden](https://rosegardenmusic.com/) or [Ariamaestosa](https://ariamaestosa.github.io/ariamaestosa/docs/index.html) - MIDI Editors
 * [MIDI City](https://midicity-2000.glitch.me/) - City Style MIDI Editor
 * [MIDI Recorder](https://midi-recorder.web.app/) - MIDI Keyboard Recorder
-* [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/)- MIDI Files
+* [BitMidi](https://bitmidi.com/) or [VGMusic](http://www.vgmusic.com/) - MIDI Files
 * [AmazingMIDI](http://www.pluto.dti.ne.jp/araki/amazingmidi/) - Transcribe WAV to MIDI / [Archive](https://archive.org/details/tucows_327319_AmazingMIDI)
 * [Basic Pitch](https://basicpitch.spotify.com/) - Create MIDI via Sound
 * [Orca](https://hundredrabbits.itch.io/orca) or [Slang](http://slang.kylestetz.com/) - Create Audio with Code
@@ -10450,7 +10451,7 @@ https://codeberg.org/hkau/entry
 * [Praat](https://www.fon.hum.uva.nl/praat/) - Analyze, Synthesize & Manipulate Speech / [GitHub](https://github.com/praat/praat)
 * [Adobe Enhance](https://podcast.adobe.com/enhance) - Speech Enhancer
 * [Fadr](https://fadr.com/) - STEM Creator / Editor
-* [Splitter](https://www.splitter.ai/), [splitmysong](https://www.splitmysong.com/), [free-music-demixer](https://sevag.xyz/free-music-demixer/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
+* [Splitter](https://www.splitter.ai/), [AudioChum](https://audiochum.com/), [splitmysong](https://www.splitmysong.com/), [free-music-demixer](https://sevag.xyz/free-music-demixer/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
 * [Remove Vocals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remove_vocals) - Remove Vocal Tracks
 * [Acapella-Extractor](https://www.acapella-extractor.com/) - Remove Background Tracks from Songs
 * [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) / [CLI](https://github.com/IniasP/rnnoise-cli) - Noise Suppression Tools
@@ -14149,7 +14150,7 @@ pass: paluch
 * [CommonSenseMedia](https://www.commonsensemedia.org/) - Age-Based Media Reviews
 * [unconsenting media](https://www.unconsentingmedia.org) - Database of Sexual Violence in Movies/Shows
 * [BingeClock](https://www.bingeclock.com/), [Can I Binge?](https://canibinge.com/) or [tiii.me](https://tiii.me/) - TV Show Length Calculators
-* [DramaWiki](https://wiki.d-addicts.com/) - Asian Drama Wiki
+* [DramaWiki](https://wiki.d-addicts.com/), [KoreanDrama](https://www.koreandrama.org/) or [HanCinema](https://www.hancinema.net/) - Asian Drama Wikis
 * [MyDramaList](https://mydramalist.com/) - Asian Drama Tracker
 * [MythBank](https://mythbank.com/) - Media Timelines / Watch Orders
 * [MCU Precise Chronological Order](https://i.ibb.co/B4Fcymc/cc70ea1fcbb7.jpg)
@@ -14560,6 +14561,7 @@ pass: paluch
 # ► Developer Tools
 
 * ⭐ **[Developer Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_developer_tools)** - Dev Tool Sites
+* ⭐ **[Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin)** - System Admin Tools
 * ⭐ **[Awesome Subreddits](https://github.com/iCHAIT/awesome-subreddits)** - Programming Subreddits
 * ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists
 * ⭐ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)** - Download Icons for Projects
@@ -18024,6 +18026,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * ⭐ **[Rom Center](https://r-roms.github.io/)**, [2](https://r-roms.gitlab.io/megathread/), [3](https://pastelink.net/24dhn) - ROMs / [Pastebins](https://github.com/nbats/FMHYedit/blob/main/base64.md#romcenter)
 * ⭐ **[Myrient](https://myrient.erista.me/)** - ROMs
 * ⭐ **[AlvRo](https://github.com/nbats/FMHYedit/blob/main/base64.md#alvro)** - ROMs / pw: ByAlvRo
+* ⭐ **[BlueRoms](https://www.blueroms.ws/)** - Emulators / ROMs
 * ⭐ **[CrocDB](https://crocdb.net/)** - Emulators / ROMs
 * ⭐ **[CDRomance](https://cdromance.com/)** - ROMs
 * ⭐ **[Ziperto](https://ziperto.com/)** - ROMs
@@ -18571,6 +18574,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [The Higher Lower Game](http://www.higherlowergame.com/) or [GoogleFued](https://googlefeud.com/) - Guess What's Googled More
 * [Guess The Price](https://guesstheprice.net/) - Price Guessing Game
 * [Apparle](https://www.apparle.com/) - Apparel Price Guessing Game
+* [Metazooa](https://metazooa.com/) - Animal Guessing Game
 * [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
 * [Approved, or Not Approved?](https://approvednotapproved.com/) - Approved Advertising Guessing Game
 * [damn.dog](https://damn.dog/) - wikiHow Guessing Game
@@ -19696,6 +19700,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Alien](https://alien-project.org/) - Artificial Life Simulator / [GitHub](https://github.com/chrxh/alien) / [Video](https://youtu.be/w9R6zrdl6jM)
 * [Lost and Found Nature](https://www.lostandfoundnature.com/) - Re-Discovered Animals / Plants
 * [A-Z Animal](https://a-z-animals.com/) - Animal Encyclopedia
+* [Metazooa](https://metazooa.com/) - Species Connection Game
 * [Ocearch](https://www.ocearch.org/?list) - Track Marine Life
 * [The Deep Sea](https://neal.fun/deep-sea/) - Interactive Deep Sea Life Guide
 * [TheAquariumWiki](https://www.theaquariumwiki.com/) - Aquarium Wiki
