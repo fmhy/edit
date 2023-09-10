@@ -518,8 +518,8 @@
 
 ## ▷ Proxy Apps
 
-* ⭐ **[Psiphon](https://psiphon.ca/)** - [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png)
-* ⭐ **[Lantern](https://lantern.io/)** 
+* ⭐ **[Psiphon](https://psiphon.ca/)** - Free Proxy/VPN Service / [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png)
+* ⭐ **[Lantern](https://lantern.io/)** - Free Proxy/VPN Service
 * ⭐ **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel), [NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) or [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy) / [Test](https://www.howsmyssl.com/) - DPI Circumvention Local Proxies
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/bypass-some-isp-blocks-with-just-firefox)** - Bypass ISP censorship with Firefox
 * [Acrylic](http://mayakron.altervista.org/) - Local DNS Proxy
