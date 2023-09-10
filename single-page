@@ -2382,14 +2382,13 @@
 
 * ⭐ **[LibreDirect](https://libredirect.github.io/)** / [2](https://github.com/libredirect/libredirect) or [Proxy Redirect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect) - Frontend Redirect
 * ⭐ **[ClearURLs](https://github.com/ClearURLs/Addon/releases)** / [2](https://gitlab.com/ClearURLs/ClearUrls), [Link Cleaner](https://mybrowseraddon.com/link-cleaner.html), [dont-track-me-google](https://github.com/Rob--W/dont-track-me-google) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - Remove Tracking Elements from URLs
-* ⭐ **[LocalCDN](https://www.localcdn.org/)**, [WhatCampaign](https://addons.mozilla.org/en-US/firefox/addon/whatcampaign/), [Decentraleyes](https://decentraleyes.org/), [Ping Blocker](https://github.com/dessant/ping-blocker), [OptMeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) or [TrackMeNot](http://trackmenot.io/) - Tracking Protection
+* ⭐ **[LocalCDN](https://www.localcdn.org/)**, [Decentraleyes](https://decentraleyes.org/), [OptMeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) or [TrackMeNot](http://trackmenot.io/) - Tracking Protection
 * [CRXcavator](https://crxcavator.io/) - Check Browser Extension Security
 * [File Guard](https://mybrowseraddon.com/file-encryptor.html) - File Encryption / Decryption
 * [Site Bleacher](https://github.com/wooque/site-bleacher) - Auto Remove Cookies, Local Storages, etc.
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
 * [Anti-Grabify](https://github.com/Konnor88/anti-grabify) - Block IP Grabbers
 * [CanvasBlocker](https://pastebin.com/2RgYzu6u) or [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/) - Prevent Canvas Fingerprinting
-* [Refer Deez Nuts](https://addons.mozilla.org/en-US/firefox/addon/refer-deez-nuts/) - Hide Referral Code Clicks
 * [GNU LibreJS](https://www.gnu.org/software/librejs/) - Block Trivial Javascript
 * [PortAuthority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/) - Block Javascript Port Scan on Sites
 * [First Party Isolation](https://github.com/mozfreddyb/webext-firstpartyisolation) - Like blocking Third-party cookies, but more exhaustively
@@ -2399,21 +2398,15 @@
 * [HTTP Tracker](https://github.com/venukbh/http-tracker) - Track Network on Browser
 * [Twitter Direct](https://greasyfork.org/en/scripts/404632) - Removes t.co Tracking from Twitter
 * [chrome-utm-stripper](https://github.com/jparise/chrome-utm-stripper) - Remove Tracking Tokens
-* [Re-Consent](https://cliqz.com/en/magazine/re-consent) - Opt Out of Data Collection
 * [SocialSharePrivacy](https://panzi.github.io/SocialSharePrivacy/) - Turn Off Social Sharing Buttons
 * [Spoof Timezone](https://add0n.com/spoof-timezone.html) - Hide Real Timezone
-* [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) - Browser Firewall
 * [UglyEmail](https://uglyemail.com/) or [PixelBlock](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem/) - Block Email Trackers 
 * [FlowCrypt](https://flowcrypt.com/) - Gmail Encryption
 * [Chameleon](https://sereneblue.github.io/chameleon/), [UA Switcher & Manager](https://add0n.com/useragent-switcher.html) or [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg) - User-Agent Spoofer
 * [Vytal](https://chrome.google.com/webstore/detail/vytal/ncbknoohfjmcfneopnfkapmkblaenokb) - Changes Geolocation to match VPN IP address
 * [Firefox Privacy Settings](https://addons.mozilla.org/en-US/firefox/addon/privacy-settings/) or [SnowHaze](https://github.com/snowhaze/firefox-extension) - Firefox Privacy Settings Manager
 * [VPNTabs](https://github.com/Nickguitar/VPNTabs) - Force Firefox Tabs through VPN or Tor
-* [Smart Referer](https://gitlab.com/smart-referrer/smart-referer) - Limit Referer Information Leaks 
-* [Privacy-Oriented Origin Policy](https://claustromaniac.github.io/poop/) - Prevents Sending Origin Headers 
-* [GAOptOut](https://tools.google.com/dlpage/gaoptout) or [Trackless](https://github.com/ascorbic/trackless) - Google Analytics Opt Out
-* [Opt Out Tools](https://add0n.com/opt-out.html) - Prevents JavaScript from sending Google info  
-* [Luminous](https://gbaptista.github.io/luminous/doc/en-US/) - JavaScript Events Blocker 
+* [GAOptOut](https://tools.google.com/dlpage/gaoptout) - Google Analytics Opt Out
 * [Behave!](https://github.com/mindedsecurity/behave) - IP Protection 
 * [WebRTC Control](https://mybrowseraddon.com/webrtc-control.html) or [WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) - Enable / Disable WebRTC 
 * [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) - WebRTC Network Traffic Config 
@@ -2425,7 +2418,6 @@
 * [History-AutoDelete](https://github.com/naresh97/History-AutoDelete-Rebooted) - Browser History Manager 
 * [eCleaner](https://add0n.com/ecleaner.html) or [History & Cache Cleaner ](https://chrome.google.com/webstore/detail/history-cache-cleaner/oiecpgbfcchalgdchgoplichofjadhmk/related?hl=en) - History & Cache Cleaner
 * [CopyGuard](https://github.com/roedesh/copyguard) - Clipboard Hijacking Notifications
-* [Nuke-Reddit-History](https://github.com/sr33/ares) - Reddit Auto Post Delete
 * [WhatsApp Privacy Extension](https://pfwa.lukaslen.com/) - Hide WhatsApp Messages Until Hovered Over / [GitHub](https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web)
 * [AudioContext Fingerprint Test](https://audiofingerprint.openwpm.com/) - AudioContext / Canvas API Fingerprinting Test
 * [AudioContext Fingerprint Defender](https://mybrowseraddon.com/audiocontext-defender.html) - Stop AudioContext fingerprinting 
@@ -2436,7 +2428,6 @@
 * [Open Two Factor Authenticator](https://add0n.com/two-factor-authenticator.html) - Two-Factor Authentication Addon 
 * [WAIncognito](https://chrome.google.com/webstore/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil?hl=en) - Disable WhatsApps Read Receipts & Presence Updates 
 * [IndicateTLS](https://github.com/jannispinter/indicatetls) - Display a Sites the TLS Protocol Version 
-* [Lightbeam](https://github.com/princiya/lightbeam-we) - Tracker Visualization 
 
 ***
 
@@ -2607,6 +2598,7 @@
 * [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN w/ Adblocking Capabilities 
 * [Syntropy](https://www.syntropystack.com/vpn), [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood), [n2n](https://github.com/ntop/n2n), [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) - Self-Hosted VPN
 * [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)
+* [Kaspersky](https://www.kaspersky.com/vpn-secure-connection) - Free VPN / 200 MB per day / No Account Required
 * [OpenConnect](https://www.infradead.org/openconnect/) - SSL VPN / [GUI](https://openconnect.github.io/openconnect-gui/)
 * [Free VPN Online](http://freevpnonline.com/) - Free VPN
 * [VpnHood](https://github.com/vpnhood/VpnHood) - Free VPN
@@ -2637,6 +2629,7 @@
 
 ## ▷ Proxy Apps
 
+* ⭐ **[Psiphon](https://psiphon.ca/)** - [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png)
 * ⭐ **[Lantern](https://lantern.io/)** 
 * ⭐ **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) or [NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) - Local Proxies
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/bypass-some-isp-blocks-with-just-firefox)** - Bypass ISP censorship with Firefox
@@ -2645,6 +2638,7 @@
 * [Shadowsocks](https://shadowsocks.org/) - [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows)
 * [Proxifier](https://www.proxifier.com/) - [Keys](https://github.com/nbats/FMHYedit/blob/main/base64.md#proxifier-keys)
 * [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
+* [Hola Proxy](https://github.com/Snawoot/hola-proxy)
 * [Hysteria](https://github.com/apernet/hysteria)
 * [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt)
 * [Xray](https://github.com/XTLS/Xray-core) - [Telegram](https://t.me/projectXray)
@@ -4342,7 +4336,7 @@ Filter list for adblockers with sites from this thread.
 * [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)
 * [beyondHD ](https://t.me/beyondHD) - Movies / Subs
 * [Watch HK Movies Online](https://vinspirezhk.blogspot.com/) - Rare Chinese Movies / English Subs
-* [Movie Forest](https://549.tv/) - Index of Chinese Streaming Sites
+* [Movie Forest](https://549.tv/) or [klyingshi](https://klyingshi.com/) - Chinese Streaming Site Indexes
 * [PangzITV](https://pangzitv.com/) - Movies / TV / Anime
 * [tangrenjie](https://www.tangrenjie.tv/) - Movies / TV / Anime
 * [ddrk](https://ddys.pro/) - Movies / TV / Anime
@@ -4550,6 +4544,7 @@ Filter list for adblockers with sites from this thread.
 * [French Anime](https://french-anime.com/) - Anime
 * [VoirAnime](https://voiranime.com/) - Anime
 * [Animevost.fr](https://animevost.fr/) - Anime
+* [Animeo TV](https://animeovf.fr) - Anime
 * [sekai](https://sekai.one/) - Anime
 * [senpai](https://senpai.cc/) - Anime
 * [vostanime](https://vostanime.fr/) - Anime
@@ -7089,9 +7084,11 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Email Forwarding
 
+* ⭐ **[SimpleLogin](https://simplelogin.io/)**
+* ⭐ **[addy.io](https://addy.io/)**
 * ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)**
 
-[Forward Email](https://forwardemail.net/), [SimpleLogin](https://simplelogin.io/), [Firefox Relay](https://relay.firefox.com/), [spamgourmet](https://www.spamgourmet.com/index.pl), [Burner Mail](https://burnermail.io/), [scr.im](http://scr.im/), [Mailsac](https://mailsac.com/), [addy.io](https://addy.io/), [altmails](https://altmails.com/), [Mail.cx](https://mail.cx/), [YOPmail](https://yopmail.com/en/), [Mailgw](https://mailgw.com/), [erine.email](https://erine.email/)
+[Forward Email](https://forwardemail.net/), [Firefox Relay](https://relay.firefox.com/), [spamgourmet](https://www.spamgourmet.com/index.pl), [Burner Mail](https://burnermail.io/), [scr.im](http://scr.im/), [Mailsac](https://mailsac.com/), , [altmails](https://altmails.com/), [Mail.cx](https://mail.cx/), [YOPmail](https://yopmail.com/en/), [Mailgw](https://mailgw.com/), [erine.email](https://erine.email/), [33mail](https://33mail.com/)
 
 **Telegram Bots**
 
@@ -8520,7 +8517,7 @@ https://codeberg.org/hkau/entry
 * ⭐ **[List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)**
 * ⭐ **[Radio Browser](https://www.radio-browser.info/users)** - Radio App / Site Index
 
-[iHeartRadio](https://www.iheart.com/), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/), [WebSDR](http://www.websdr.org/), [System Bus Radio](https://fulldecent.github.io/system-bus-radio/), [myTuner](https://mytuner-radio.com/), [Radio Browser](https://www.radio-browser.info/), [Deep Web Radio](http://anonyradixhkgh5myfrkarggfnmdzzhhcgoy2v66uf7sml27to5n2tid.onion/), [Zeno](https://zeno.fm/), [TuneYou](https://tuneyou.com/), [Tvradiotuner](https://tvradiotuner.com/), [Instant.audio](https://instant.audio/), [Radiodeck](https://www.radiodeck.com/), [VRadio](http://www.akouradio.com/), [WorldRadioMap](https://worldradiomap.com/), [Streema](https://streema.com/), [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp), [Radio.net](https://www.radio.net/), [TheOneStopRadio](https://theonestopradio.com/), [Radio Guide](https://www.radioguide.fm/), [Xiph](https://dir.xiph.org/)
+[iHeartRadio](https://www.iheart.com/), [OnlineRadioBox](https://onlineradiobox.com/), [LiveOnlineRadio](https://liveonlineradio.net/), [WebSDR](http://www.websdr.org/), [System Bus Radio](https://fulldecent.github.io/system-bus-radio/), [myTuner](https://mytuner-radio.com/), [Radio Browser](https://www.radio-browser.info/), [Zeno](https://zeno.fm/), [TuneYou](https://tuneyou.com/), [Tvradiotuner](https://tvradiotuner.com/), [Instant.audio](https://instant.audio/), [Radiodeck](https://www.radiodeck.com/), [VRadio](http://www.akouradio.com/), [WorldRadioMap](https://worldradiomap.com/), [Streema](https://streema.com/), [vTuner](https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp), [Radio.net](https://www.radio.net/), [TheOneStopRadio](https://theonestopradio.com/), [Radio Guide](https://www.radioguide.fm/), [Xiph](https://dir.xiph.org/)
 
 **Internet Radio**
 
@@ -8566,7 +8563,7 @@ https://codeberg.org/hkau/entry
 * ⭐ **[Raddle](https://raddle.me/)** / [onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/)
 * ⭐ **[Saidit](https://saidit.net/)**
 
-[/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives), [postmill](https://postmill.xyz/), [Sqwok](https://sqwok.im/), [kddit](http://kddit.kallist4mcluuxbjnr5p2asdlmdhaos3pcrvhk3fbzmiiiftwg6zncid.onion/), [tildes](https://tildes.net/), [talk](https://www.talk.lol/), [communities](https://communities.win/), [FlingUp](https://flingup.com/), [Upvote](https://upvo.to/), [Hexbear](https://www.hexbear.net/), [Squabblr](https://squabblr.co/), [Discuit](https://discuit.net/)
+[/r/RedditAlternatives](https://reddit.com/r/RedditAlternatives), [postmill](https://postmill.xyz/), [Sqwok](https://sqwok.im/), [tildes](https://tildes.net/), [talk](https://www.talk.lol/), [communities](https://communities.win/), [FlingUp](https://flingup.com/), [Upvote](https://upvo.to/), [Hexbear](https://www.hexbear.net/), [Squabblr](https://squabblr.co/), [Discuit](https://discuit.net/)
 
 ***
 
@@ -9147,7 +9144,7 @@ https://codeberg.org/hkau/entry
 * ⭐ **[smailpro](https://smailpro.com/)** (gmail)
 * ⭐ **[Emailnator](https://www.emailnator.com/)** (gmail)
 
-[getnada](https://getnada.com/), [10 Minute Mail](https://temp-mail.org/en/10minutemail), [Temp Mail](https://temp-mail.org/), [maildrop](https://maildrop.cc/), [mailinator](https://www.mailinator.com/), [mailnesia](https://mailnesia.com/), [10minutemail](https://10minutemail.com/), [spamgourmet](https://www.spamgourmet.com/), [tempmail.ninja](https://tempmail.ninja/), [disposable](https://github.com/0x19/disposable), [anonbox](https://anonbox.net/), [Generator.email](https://generator.email/), [kuku](https://m.kuku.lu/), [Email on Deck](https://www.emailondeck.com/), [Mohmal](https://www.mohmal.com/en), [Mohmal](https://www.mohmal.com/en), [tempmail](https://github.com/sdushantha/tmpmail) (terminal), [Temp Mail](https://rapidapi.com/Privatix/api/temp-mail) (api), [33mail](https://33mail.com/), [Guerillamail](https://www.guerrillamail.com/), [edumail](https://edumail.icu/), [Mail.tm](https://mail.tm/en), [temporarymail](https://temporarymail.com/), [FakeMailGenerator](http://www.fakemailgenerator.com/), [emailfake](https://emailfake.com/), [tempmailo](https://tempmailo.com/), [10minutesemail](https://10minutesemail.net/), [emailondeck](https://emailondeck.com/), [tempm](https://tempm.com/), [tempail](https://tempail.com/), [eyepaste](https://www.eyepaste.com/), [mintemail](https://www.mintemail.com/), [mytemp](https://mytemp.email/), [sharklasers](https://www.sharklasers.com/), [yopmail](https://www.yopmail.com/en/), [mail.td](https://mail.td/), [dropmail](https://dropmail.me/en/), [cryptogmail](https://cryptogmail.com/), [inboxkitten](https://inboxkitten.com/), [anonymmail](https://anonymmail.net/), [tmailweb](https://tmailweb.com/), [one-off](https://one-off.email/), [another-temp-mail](https://www.another-temp-mail.com/), [tempr](https://tempr.email/en/), [fakemail](https://www.fakemail.net/), [throwawaymail](https://www.throwawaymail.com/), [hour](https://www.hour.email/), [harakirimail](https://harakirimail.com/), [33mail](https://www.33mail.com/), [hottempmail](https://hottempmail.com/), [dispomail](https://dispomail.xyz/), [tempmail](https://tempmail.dev/), [email-generator](https://yopmail.com/en/email-generator), [moakt](https://www.moakt.com/), [24mail](http://24mail.chacuo.net/), [linshi-email](https://www.linshi-email.com/), [mail1s](https://en.mail1s.com/), [mailmenot](https://www.mailmenot.io/), [gmailcity](https://gmailcity.com/), [haribu](https://haribu.net/), [disposablemail](https://www.disposablemail.com/), [trashmail](https://trashmail.ws/), [emailsensei](http://emailsensei.com/), [emailtemporanee](https://emailtemporanee.com/), [fakermail](https://fakermail.com/), [10minutesmail](http://10minutesmail.com/), [mailtemp](https://mailtemp.top/), [rsolution](http://rsolution.be/free-temporary-disposable-email.RSolution), [temporary-email](https://temporary-email.com/), [/tempmail.plus](https://tempmail.plus/en/), [mail-temp](https://mail-temp.com/), [temp-mail](https://temp-mail.us/), [20minutemail](https://www.20minutemail.com/), [easytrashmail](https://www.easytrashmail.com/), [1secmail](https://www.1secmail.com/), [10minutemail](https://www.lite14.us/10minutemail/), [fex](https://fex.plus/en/), [email-fake](https://email-fake.com/), [mintemail](https://www.mintemail.com/), [luxusmail](https://luxusmail.org/), [tempmail](https://tempmail.zone/), [spambox](https://spambox.xyz/), [tempmails](https://tempmails.net/), [receivemail](https://www.receivemail.org/), [rainmail](https://rainmail.xyz/), [tempemail](https://tempemail.co/), [burner](https://burner.kiwi/), [mailpoof](https://mailpoof.com/), [tempmail.altmails](https://tempmail.altmails.com/), [instant-email](https://instant-email.org/), [temp-mail.io](https://temp-mail.io/), [temp-inbox](https://temp-inbox.com/), [minutemailbox](https://www.minutemailbox.com/), [tempmaili](https://tempmaili.com/), [minuteinbox](https://minuteinbox.com/), [emailhippo](https://tools.emailhippo.com/), [emailtemp](https://emailtemp.org/), [hour.emai](https://hour.email/), [tempmailid](https://tempmailid.com/), [emaildrop](https://www.emaildrop.io/), [10minutemail](https://10minutemail.net/), [temprmail](https://temprmail.com/), [10minemail](https://10minemail.com/), [tempmail.email](https://tempmail.email/), [temps-mail.com](https://temps-mail.com/), [tempinbox](https://www.tempinbox.xyz/), [yopmail](https://yopmail.com/), [faketempmail](https://faketempmail.com/), [tmailor](https://tmailor.com/), [temp-mailbox](https://temp-mailbox.com/), [bottlemail](https://bottlemail.org/), [internxt](https://internxt.com/temporary-email), [mytrashmailer](https://www.mytrashmailer.com/), [tmail.gg](https://tmail.gg/en)
+[getnada](https://getnada.com/), [10 Minute Mail](https://temp-mail.org/en/10minutemail), [Temp Mail](https://temp-mail.org/), [maildrop](https://maildrop.cc/), [mailinator](https://www.mailinator.com/), [mailnesia](https://mailnesia.com/), [10minutemail](https://10minutemail.com/), [spamgourmet](https://www.spamgourmet.com/), [tempmail.ninja](https://tempmail.ninja/), [disposable](https://github.com/0x19/disposable), [anonbox](https://anonbox.net/), [Generator.email](https://generator.email/), [kuku](https://m.kuku.lu/), [Email on Deck](https://www.emailondeck.com/), [Mohmal](https://www.mohmal.com/en), [Mohmal](https://www.mohmal.com/en), [tempmail](https://github.com/sdushantha/tmpmail) (terminal), [Temp Mail](https://rapidapi.com/Privatix/api/temp-mail) (api), [Guerillamail](https://www.guerrillamail.com/), [edumail](https://edumail.icu/), [Mail.tm](https://mail.tm/en), [temporarymail](https://temporarymail.com/), [FakeMailGenerator](http://www.fakemailgenerator.com/), [emailfake](https://emailfake.com/), [tempmailo](https://tempmailo.com/), [10minutesemail](https://10minutesemail.net/), [emailondeck](https://emailondeck.com/), [tempm](https://tempm.com/), [tempail](https://tempail.com/), [eyepaste](https://www.eyepaste.com/), [mintemail](https://www.mintemail.com/), [mytemp](https://mytemp.email/), [sharklasers](https://www.sharklasers.com/), [yopmail](https://www.yopmail.com/en/), [mail.td](https://mail.td/), [dropmail](https://dropmail.me/en/), [cryptogmail](https://cryptogmail.com/), [inboxkitten](https://inboxkitten.com/), [anonymmail](https://anonymmail.net/), [tmailweb](https://tmailweb.com/), [one-off](https://one-off.email/), [another-temp-mail](https://www.another-temp-mail.com/), [tempr](https://tempr.email/en/), [fakemail](https://www.fakemail.net/), [throwawaymail](https://www.throwawaymail.com/), [hour](https://www.hour.email/), [harakirimail](https://harakirimail.com/), [hottempmail](https://hottempmail.com/), [dispomail](https://dispomail.xyz/), [tempmail](https://tempmail.dev/), [email-generator](https://yopmail.com/en/email-generator), [moakt](https://www.moakt.com/), [24mail](http://24mail.chacuo.net/), [linshi-email](https://www.linshi-email.com/), [mail1s](https://en.mail1s.com/), [mailmenot](https://www.mailmenot.io/), [gmailcity](https://gmailcity.com/), [haribu](https://haribu.net/), [disposablemail](https://www.disposablemail.com/), [trashmail](https://trashmail.ws/), [emailsensei](http://emailsensei.com/), [emailtemporanee](https://emailtemporanee.com/), [fakermail](https://fakermail.com/), [10minutesmail](http://10minutesmail.com/), [mailtemp](https://mailtemp.top/), [rsolution](http://rsolution.be/free-temporary-disposable-email.RSolution), [temporary-email](https://temporary-email.com/), [/tempmail.plus](https://tempmail.plus/en/), [mail-temp](https://mail-temp.com/), [temp-mail](https://temp-mail.us/), [20minutemail](https://www.20minutemail.com/), [easytrashmail](https://www.easytrashmail.com/), [1secmail](https://www.1secmail.com/), [10minutemail](https://www.lite14.us/10minutemail/), [fex](https://fex.plus/en/), [email-fake](https://email-fake.com/), [mintemail](https://www.mintemail.com/), [luxusmail](https://luxusmail.org/), [tempmail](https://tempmail.zone/), [spambox](https://spambox.xyz/), [tempmails](https://tempmails.net/), [receivemail](https://www.receivemail.org/), [rainmail](https://rainmail.xyz/), [tempemail](https://tempemail.co/), [burner](https://burner.kiwi/), [mailpoof](https://mailpoof.com/), [tempmail.altmails](https://tempmail.altmails.com/), [instant-email](https://instant-email.org/), [temp-mail.io](https://temp-mail.io/), [temp-inbox](https://temp-inbox.com/), [minutemailbox](https://www.minutemailbox.com/), [tempmaili](https://tempmaili.com/), [minuteinbox](https://minuteinbox.com/), [emailhippo](https://tools.emailhippo.com/), [emailtemp](https://emailtemp.org/), [hour.emai](https://hour.email/), [tempmailid](https://tempmailid.com/), [emaildrop](https://www.emaildrop.io/), [10minutemail](https://10minutemail.net/), [temprmail](https://temprmail.com/), [10minemail](https://10minemail.com/), [tempmail.email](https://tempmail.email/), [temps-mail.com](https://temps-mail.com/), [tempinbox](https://www.tempinbox.xyz/), [yopmail](https://yopmail.com/), [faketempmail](https://faketempmail.com/), [tmailor](https://tmailor.com/), [temp-mailbox](https://temp-mailbox.com/), [bottlemail](https://bottlemail.org/), [internxt](https://internxt.com/temporary-email), [mytrashmailer](https://www.mytrashmailer.com/), [tmail.gg](https://tmail.gg/en)
 
 **Temp Mail Lists**
 
@@ -10501,11 +10498,14 @@ https://codeberg.org/hkau/entry
 * ⭐ **[Development Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_learning_.2F_cheat_sheets)** - Developer Learning Tools
 * ⭐ **[Website Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_web_development)** - Site Development Tools
 * [KickResume](https://www.kickresume.com/en/help-center/resume-samples/) or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
+* [GitHub Résumé](https://github.com/resume/resume.github.com) - Generate Resume from GitHub Activity
+* [AskEdith](https://www.askedith.ai/demo) - Ask AI Job / Business Questions
 * [LoopCV](https://www.loopcv.pro/) - Automated Job Search Tool
 * [Toby Tools](https://rentry.co/qnu6x) or [EuroJobs](https://eurojobs.com/) - Job Search Tools
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
-* [10xJobs](https://10xjobs.net/) - Find High Paying Tech Jobs
+* [10xJobs](https://10xjobs.net/) - Tech Job Search
 * [Arvrok](https://www.arvrok.com/) - Immersive Tech Job Search
+* [EconJobRumors](https://www.econjobrumors.com/) - Economic Job Market Forum
 * [SocJobRumors](https://www.socjobrumors.com/) - Sociology Job Market Forum
 * [80,000 Hours](https://80000hours.org/) - Explore Career Options
 * [Comparably](https://www.comparably.com/) or [GoodFirms](https://www.goodfirms.co/) - Compare Companies / Salaries
@@ -11069,6 +11069,7 @@ https://codeberg.org/hkau/entry
 * [RDDDeck](https://rdddeck.com/) - Twitter Style Viewer 
 * [Reddium](https://reddium.vercel.app/) - Medium Style Viewer
 * [SO Reddit](https://dutzi.github.io/so-reddit/) - Stack Overflow Style Viewer
+* [Pholder](https://pholder.com/) - Article Style Viewer
 * [Unim.Press](https://unim.press/) - Newspapers Style Viewer
 * [Unreadit](https://app.mailbrew.com/unreadit) - Reddit Newsletters
 * [Roffline](https://github.com/Darkle/Roffline) - Offline Reddit Viewer
@@ -13282,12 +13283,13 @@ pass: paluch
 * ⭐ **[The Movie Archive](https://themoviearchive.site/)** - Movies / 4K / 1080p 
 * ⭐ **[FMovies](https://fmovies.name/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[FlixHQ](https://flixhq.click/)** - Movies / TV / Anime / 1080p
+* ⭐ **[Ask4Movies](https://ask4movie.nl/)** - Movies / TV / 1080p / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
 * ⭐ **[Seez](https://seez.su/)**, [2](https://flixerplus.com/) - Movies / TV / 1080p
 * ⭐ **[SmashyStream](https://embed.smashystream.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
 * ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime / 1080p
-* ⭐ **[M4uFree](https://ww2.m4ufree.com/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * ⭐ **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - Multi-Site Search
+* [M4uFree](https://ww2.m4ufree.com/) - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [MovieScene](https://moviescene.cc/) - Movies / 1080p
 * [NetFilm](https://netfilm.app/) - Movies / TV / Anime / 1080p
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
@@ -13333,12 +13335,11 @@ pass: paluch
 
 ## ▷ Single Server
 
-* ⭐ **[Ask4Movies](https://ask4movie.nl/)** - Movies / TV / 1080p / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
 * ⭐ **[EE3](https://ee3.me/)** or [RIPS](https://rips.cc/) - Movies / 1080p / Invite Code: mpgh or 1hack
 * ⭐ **[C1NE](https://c1ne.co/)** - Movies / TV / 1080p / [Discord](https://discord.gg/nXUP8TxNSR)
 * ⭐ **[Watch A Movie](https://watcha.movie/)** - Movies / TV / 1080p / [Discord](https://discord.gg/PvAg9Rc7kQ)
 * ⭐ **[PressPlay](https://www.pressplay.top/)** - Movies / TV / 1080p / [Discord](https://discord.gg/r4QrghF4B9)
-* ⭐ **[Jump1](https://jump1.net/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/DgZwMjhbu)
+* ⭐ **[Jump1](https://jump1.net/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/JCJSbgqH2)
 * ⭐ **[2Now](https://2now.tv/)** - Movies / TV / 1080p
 * ⭐ **[FshareTV](https://fsharetv.co/)** - Movies / 1080p
 * ⭐ **[RidoMovies](https://ridomovies.pw/)** - Movies / 1080p
@@ -20529,7 +20530,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Extension Manager](https://github.com/mjakeman/extension-manager) - GNOME Shell Extensions 
 * [Distrobox](https://github.com/89luca89/distrobox) - Use Distros via Terminal
 * [htop](https://htop.dev/) - Interactive Process Viewer / [GitHub](https://github.com/htop-dev/htop)
-* [exa](https://the.exa.website/) - Modern ls replacement
+* [eza](https://github.com/eza-community/eza) - Modern ls replacement
 * [explainshell.com](https://explainshell.com/) - Match Command-Line Arguments to Help Text
 * [PowerShell](https://github.com/powershell/powershell) - PowerShell
 * [Tmux](https://github.com/tmux/tmux) - Terminal Multiplexer / [Cheatsheet](https://tmuxcheatsheet.com/)
@@ -20822,6 +20823,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 # ► Mac Software
 
+* [AppsTorrent](https://appstorrent.ru/)
 * [Macintosh Garden](http://macintoshgarden.org/)
 * [nMac](https://nmac.to/)
 * [MacBed](https://www.macbed.com/)
