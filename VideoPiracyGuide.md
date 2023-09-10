@@ -880,7 +880,7 @@
 * [CommonSenseMedia](https://www.commonsensemedia.org/) - Age-Based Media Reviews
 * [unconsenting media](https://www.unconsentingmedia.org) - Database of Sexual Violence in Movies/Shows
 * [BingeClock](https://www.bingeclock.com/), [Can I Binge?](https://canibinge.com/) or [tiii.me](https://tiii.me/) - TV Show Length Calculators
-* [DramaWiki](https://wiki.d-addicts.com/) - Asian Drama Wiki
+* [DramaWiki](https://wiki.d-addicts.com/), [KoreanDrama](https://www.koreandrama.org/) or [HanCinema](https://www.hancinema.net/) - Asian Drama Wikis
 * [MyDramaList](https://mydramalist.com/) - Asian Drama Tracker
 * [MythBank](https://mythbank.com/) - Media Timelines / Watch Orders
 * [MCU Precise Chronological Order](https://i.ibb.co/B4Fcymc/cc70ea1fcbb7.jpg)
