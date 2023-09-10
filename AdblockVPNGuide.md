@@ -488,6 +488,7 @@
 * [TunnelBear](https://www.tunnelbear.com/) - Free VPN / 500mb
 * [VPNBook](https://www.vpnbook.com/) - Free VPN Accounts
 * [VPNGate](https://www.vpngate.net/en/) - Free VPN Relay Servers
+* [GoFly](https://play.google.com/store/apps/details?id=com.ambrose.overwall&gl=US) - Free VPN for Android
 
 ***
 
@@ -522,23 +523,22 @@
 * ⭐ **[Lantern](https://lantern.io/)** - Free Proxy/VPN Service
 * ⭐ **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel), [NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) or [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy) / [Test](https://www.howsmyssl.com/) - DPI Circumvention Local Proxies
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/bypass-some-isp-blocks-with-just-firefox)** - Bypass ISP censorship with Firefox
-* [Acrylic](http://mayakron.altervista.org/) - Local DNS Proxy
-* [Tsunami](https://github.com/FogNetwork/Tsunami) - Self-hostable Proxy Website
-* [Shadowsocks](https://shadowsocks.org/) / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows) - Proxy Client and Self-hostable Server
-* [Proxifier](https://www.proxifier.com/) - Add proxy functionality to applications / [Keys](https://github.com/nbats/FMHYedit/blob/main/base64.md#proxifier-keys)
+* [anonymoX](https://anonymox.net/en) - Free Proxy Service Browser Extension
+* [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for "Hola" Free Proxy Service
+* [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
+* [Acrylic](https://mayakron.altervista.org/) - DNS Cache Local Proxy
+* [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - DNS Encryption Local Proxy
+* [Tsunami](https://github.com/FogNetwork/Tsunami) - Self-hosted Proxy Website
 * [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - Self-hosted Proxy Website
-* [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Proxy Service
-* [Hysteria](https://github.com/apernet/hysteria) - Proxy Client and Self-hostable Server
-* [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - Local DNS Proxy
-* [Xray](https://github.com/XTLS/Xray-core) - Proxy Client and Self-hostable Server / [Telegram](https://t.me/projectXray)
-* [Privoxy](https://www.privoxy.org/) - Self-hosted Proxy Website / [Docker Build](https://github.com/binhex/arch-privoxyvpn)
-* [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - Analyze and modify HTTPS traffic
 * [NginxProxyManager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Self-hosted Proxy Server
+* [Privoxy](https://www.privoxy.org/) - Self-hosted Proxy Website / [Docker Build](https://github.com/binhex/arch-privoxyvpn)
+* [Shadowsocks](https://shadowsocks.org/) / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows) - Proxy Client and Self-hostable Server
+* [Hysteria](https://github.com/apernet/hysteria) - Proxy Client and Self-hostable Server
+* [Xray](https://github.com/XTLS/Xray-core) - Proxy Client and Self-hostable Server / [Telegram](https://t.me/projectXray)
+* [Proxifier](https://www.proxifier.com/) - Add proxy functionality to applications / [Keys](https://github.com/nbats/FMHYedit/blob/main/base64.md#proxifier-keys)
+* [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - Analyze and modify HTTPS traffic
 * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Proxy Manager Browser Extension
 * [FoxyProxy](https://getfoxyproxy.org/), [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - Proxy Manager Extensions for Firefox
-* [anonymoX](https://anonymox.net/en) - Free Proxy Service Browser Extension
-* [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
-* [GoFly](https://play.google.com/store/apps/details?id=com.ambrose.overwall&gl=US) - Free Proxy Service for Android
 * [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
 
 ***
