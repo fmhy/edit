@@ -266,14 +266,13 @@
 
 * ⭐ **[LibreDirect](https://libredirect.github.io/)** / [2](https://github.com/libredirect/libredirect) or [Proxy Redirect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect) - Frontend Redirect
 * ⭐ **[ClearURLs](https://github.com/ClearURLs/Addon/releases)** / [2](https://gitlab.com/ClearURLs/ClearUrls), [Link Cleaner](https://mybrowseraddon.com/link-cleaner.html), [dont-track-me-google](https://github.com/Rob--W/dont-track-me-google) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - Remove Tracking Elements from URLs
-* ⭐ **[LocalCDN](https://www.localcdn.org/)**, [WhatCampaign](https://addons.mozilla.org/en-US/firefox/addon/whatcampaign/), [Decentraleyes](https://decentraleyes.org/), [Ping Blocker](https://github.com/dessant/ping-blocker), [OptMeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) or [TrackMeNot](http://trackmenot.io/) - Tracking Protection
+* ⭐ **[LocalCDN](https://www.localcdn.org/)**, [Decentraleyes](https://decentraleyes.org/), [OptMeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) or [TrackMeNot](http://trackmenot.io/) - Tracking Protection
 * [CRXcavator](https://crxcavator.io/) - Check Browser Extension Security
 * [File Guard](https://mybrowseraddon.com/file-encryptor.html) - File Encryption / Decryption
 * [Site Bleacher](https://github.com/wooque/site-bleacher) - Auto Remove Cookies, Local Storages, etc.
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
 * [Anti-Grabify](https://github.com/Konnor88/anti-grabify) - Block IP Grabbers
 * [CanvasBlocker](https://pastebin.com/2RgYzu6u) or [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/) - Prevent Canvas Fingerprinting
-* [Refer Deez Nuts](https://addons.mozilla.org/en-US/firefox/addon/refer-deez-nuts/) - Hide Referral Code Clicks
 * [GNU LibreJS](https://www.gnu.org/software/librejs/) - Block Trivial Javascript
 * [PortAuthority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/) - Block Javascript Port Scan on Sites
 * [First Party Isolation](https://github.com/mozfreddyb/webext-firstpartyisolation) - Like blocking Third-party cookies, but more exhaustively
@@ -283,21 +282,15 @@
 * [HTTP Tracker](https://github.com/venukbh/http-tracker) - Track Network on Browser
 * [Twitter Direct](https://greasyfork.org/en/scripts/404632) - Removes t.co Tracking from Twitter
 * [chrome-utm-stripper](https://github.com/jparise/chrome-utm-stripper) - Remove Tracking Tokens
-* [Re-Consent](https://cliqz.com/en/magazine/re-consent) - Opt Out of Data Collection
 * [SocialSharePrivacy](https://panzi.github.io/SocialSharePrivacy/) - Turn Off Social Sharing Buttons
 * [Spoof Timezone](https://add0n.com/spoof-timezone.html) - Hide Real Timezone
-* [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) - Browser Firewall
 * [UglyEmail](https://uglyemail.com/) or [PixelBlock](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem/) - Block Email Trackers 
 * [FlowCrypt](https://flowcrypt.com/) - Gmail Encryption
 * [Chameleon](https://sereneblue.github.io/chameleon/), [UA Switcher & Manager](https://add0n.com/useragent-switcher.html) or [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg) - User-Agent Spoofer
 * [Vytal](https://chrome.google.com/webstore/detail/vytal/ncbknoohfjmcfneopnfkapmkblaenokb) - Changes Geolocation to match VPN IP address
 * [Firefox Privacy Settings](https://addons.mozilla.org/en-US/firefox/addon/privacy-settings/) or [SnowHaze](https://github.com/snowhaze/firefox-extension) - Firefox Privacy Settings Manager
 * [VPNTabs](https://github.com/Nickguitar/VPNTabs) - Force Firefox Tabs through VPN or Tor
-* [Smart Referer](https://gitlab.com/smart-referrer/smart-referer) - Limit Referer Information Leaks 
-* [Privacy-Oriented Origin Policy](https://claustromaniac.github.io/poop/) - Prevents Sending Origin Headers 
-* [GAOptOut](https://tools.google.com/dlpage/gaoptout) or [Trackless](https://github.com/ascorbic/trackless) - Google Analytics Opt Out
-* [Opt Out Tools](https://add0n.com/opt-out.html) - Prevents JavaScript from sending Google info  
-* [Luminous](https://gbaptista.github.io/luminous/doc/en-US/) - JavaScript Events Blocker 
+* [GAOptOut](https://tools.google.com/dlpage/gaoptout) - Google Analytics Opt Out
 * [Behave!](https://github.com/mindedsecurity/behave) - IP Protection 
 * [WebRTC Control](https://mybrowseraddon.com/webrtc-control.html) or [WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) - Enable / Disable WebRTC 
 * [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) - WebRTC Network Traffic Config 
@@ -309,7 +302,6 @@
 * [History-AutoDelete](https://github.com/naresh97/History-AutoDelete-Rebooted) - Browser History Manager 
 * [eCleaner](https://add0n.com/ecleaner.html) or [History & Cache Cleaner ](https://chrome.google.com/webstore/detail/history-cache-cleaner/oiecpgbfcchalgdchgoplichofjadhmk/related?hl=en) - History & Cache Cleaner
 * [CopyGuard](https://github.com/roedesh/copyguard) - Clipboard Hijacking Notifications
-* [Nuke-Reddit-History](https://github.com/sr33/ares) - Reddit Auto Post Delete
 * [WhatsApp Privacy Extension](https://pfwa.lukaslen.com/) - Hide WhatsApp Messages Until Hovered Over / [GitHub](https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web)
 * [AudioContext Fingerprint Test](https://audiofingerprint.openwpm.com/) - AudioContext / Canvas API Fingerprinting Test
 * [AudioContext Fingerprint Defender](https://mybrowseraddon.com/audiocontext-defender.html) - Stop AudioContext fingerprinting 
@@ -320,7 +312,6 @@
 * [Open Two Factor Authenticator](https://add0n.com/two-factor-authenticator.html) - Two-Factor Authentication Addon 
 * [WAIncognito](https://chrome.google.com/webstore/detail/waincognito/alhmbbnlcggfcjjfihglopfopcbigmil?hl=en) - Disable WhatsApps Read Receipts & Presence Updates 
 * [IndicateTLS](https://github.com/jannispinter/indicatetls) - Display a Sites the TLS Protocol Version 
-* [Lightbeam](https://github.com/princiya/lightbeam-we) - Tracker Visualization 
 
 ***
 
@@ -491,6 +482,7 @@
 * [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN w/ Adblocking Capabilities 
 * [Syntropy](https://www.syntropystack.com/vpn), [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood), [n2n](https://github.com/ntop/n2n), [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) - Self-Hosted VPN
 * [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)
+* [Kaspersky](https://www.kaspersky.com/vpn-secure-connection) - Free VPN / 200 MB per day / No Account Required
 * [OpenConnect](https://www.infradead.org/openconnect/) - SSL VPN / [GUI](https://openconnect.github.io/openconnect-gui/)
 * [Free VPN Online](http://freevpnonline.com/) - Free VPN
 * [VpnHood](https://github.com/vpnhood/VpnHood) - Free VPN
@@ -521,6 +513,7 @@
 
 ## ▷ Proxy Apps
 
+* ⭐ **[Psiphon](https://psiphon.ca/)** - [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png)
 * ⭐ **[Lantern](https://lantern.io/)** 
 * ⭐ **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) or [NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) - Local Proxies
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/bypass-some-isp-blocks-with-just-firefox)** - Bypass ISP censorship with Firefox
@@ -529,6 +522,7 @@
 * [Shadowsocks](https://shadowsocks.org/) - [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows)
 * [Proxifier](https://www.proxifier.com/) - [Keys](https://github.com/nbats/FMHYedit/blob/main/base64.md#proxifier-keys)
 * [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
+* [Hola Proxy](https://github.com/Snawoot/hola-proxy)
 * [Hysteria](https://github.com/apernet/hysteria)
 * [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt)
 * [Xray](https://github.com/XTLS/Xray-core) - [Telegram](https://t.me/projectXray)
