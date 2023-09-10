@@ -44,7 +44,6 @@
 * [AndroidRepublic](https://androidrepublic.org/)
 * [ApkModsApp](https://apkmodsapp.com/)
 * [Android1](https://an1.com/)
-* [DZAPK](https://dzapk.com/)
 * [PDALife](https://pdalife.com/)
 * [TeamOS](https://www.teamos.xyz/)
 * [APK Home](https://apkhome.io/)
