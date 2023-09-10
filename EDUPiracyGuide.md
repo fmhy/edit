@@ -476,6 +476,7 @@
 * [Alien](https://alien-project.org/) - Artificial Life Simulator / [GitHub](https://github.com/chrxh/alien) / [Video](https://youtu.be/w9R6zrdl6jM)
 * [Lost and Found Nature](https://www.lostandfoundnature.com/) - Re-Discovered Animals / Plants
 * [A-Z Animal](https://a-z-animals.com/) - Animal Encyclopedia
+* [Metazooa](https://metazooa.com/) - Species Connection Game
 * [Ocearch](https://www.ocearch.org/?list) - Track Marine Life
 * [The Deep Sea](https://neal.fun/deep-sea/) - Interactive Deep Sea Life Guide
 * [TheAquariumWiki](https://www.theaquariumwiki.com/) - Aquarium Wiki
