@@ -2120,7 +2120,7 @@
 ***
 ***
 
-**[Table of Contents](https://i.ibb.co/r3fLSCY/20bd0d349137.png)** - For mobile users
+**[Table of Contents](https://ibb.co/NZS012q)** - For mobile users
 
 ***
 ***
@@ -2572,7 +2572,6 @@
 
 * ⭐ **[VPN Comparison Chart](https://web.archive.org/web/20221029202548/https://privacymelon.com/stealth-vpn-guide/vpn-comparison-table/)** / [2](https://techlore.tech/vpn) / [3](https://redd.it/rikthc) - VPN Comparisons
 * ⭐ **[VPS Comparison Chart](https://lowendstock.com/)** - VPS Comparisons
-* ⭐ **[How-to Bind VPN to Client](https://redd.it/ssy8vv)** - Bind VPN to Client to Avoid ISP Letters
 * ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - VPN Help and Discussion 
 * ⭐ **[AirVPN](https://airvpn.org/)** - [Pricing](https://i.ibb.co/8rVJ5JB/c4b813a6b6bc.png)
 * ⭐ **[Perfect Privacy](https://www.perfect-privacy.com/)** - [Pricing](https://i.ibb.co/PYNFn4K/0f638a6f3523.png) / [No Logging](https://www.perfect-privacy.com/en/warrant-canary)
@@ -2581,7 +2580,6 @@
 * ⭐ **[CryptoStorm](https://cryptostorm.is/)** - [Pricing](https://i.ibb.co/3m849CX/afe46b2ec3ec.png)
 * ⭐ **[Riseup](https://riseup.net/en/vpn)** - Free VPN 
 * ⭐ **[Softether](https://www.softether.org/)** - Free VPN / [VPN Gate](https://www.vpngate.net/en/download.aspx) / [Note](https://pastebin.com/TrSw7EpF)
-* ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Manager](https://github.com/perara/wg-manager) / [WebUI](https://hub.docker.com/r/weejewel/wg-easy)
 * ⭐ **[Warp](https://1.1.1.1/)**, [2](https://1.0.0.1/) - Traffic Encryption VPN / [Client](https://github.com/ViRb3/wgcf) / [Unlimited Data](https://github.com/nxvvvv/warp-plus) / [WireGuard Guide](https://rentry.co/foss-warp) / [Warp Warning](https://rentry.co/warpwarning)
 * [VPNSecure](https://www.vpnsecure.me/) - [Pricing](https://ibb.co/c2BdyG1)
 * [Mullvad](https://mullvad.net/) - [Pricing](https://i.ibb.co/sHB33GJ/daf48a5ee585.png) / [NetNS](https://github.com/chutz/mullvad-netns) / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
@@ -2594,12 +2592,8 @@
 * [TitaniumNetwork VPN](https://tnvpn.com/) - [Pricing](https://i.ibb.co/r6CjtrB/282248084c76.png)
 * [Malwarebytes VPN](https://malwarebytes.com/vpn) - [Pricing](https://ibb.co/dPpYfT9)
 * [Adguard VPN](https://adguard-vpn.com/en/welcome.html) - VPN Extension / 3GB Free / [Pricing](https://ibb.co/rt0DS0N)
-* [StrongSwan](https://www.strongswan.org/) - IPsec VPN
-* [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN w/ Adblocking Capabilities 
-* [Syntropy](https://www.syntropystack.com/vpn), [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood), [n2n](https://github.com/ntop/n2n), [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) - Self-Hosted VPN
 * [PrivadoVPN](https://privadovpn.com/) - Free VPN / Unlimited Accounts via [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)
 * [Kaspersky](https://www.kaspersky.com/vpn-secure-connection) - Free VPN / 200 MB per day / No Account Required
-* [OpenConnect](https://www.infradead.org/openconnect/) - SSL VPN / [GUI](https://openconnect.github.io/openconnect-gui/)
 * [Free VPN Online](http://freevpnonline.com/) - Free VPN
 * [VpnHood](https://github.com/vpnhood/VpnHood) - Free VPN
 * [HideMe](https://hide.me/) - Free VPN
@@ -2610,11 +2604,22 @@
 * [TunnelBear](https://www.tunnelbear.com/) - Free VPN / 500mb
 * [VPNBook](https://www.vpnbook.com/) - Free VPN Accounts
 * [VPNGate](https://www.vpngate.net/en/) - Free VPN Relay Servers
+
+***
+
+## ▷ VPN Tools
+
+* ⭐ **[How-to Bind VPN to Client](https://redd.it/ssy8vv)** - Bind VPN to Client to Avoid ISP Letters
+* ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN Tunnel / [Setup Guide](https://github.com/amritb/poor-mans-vpn) / [Tools](https://guardline-vpn.github.io/wireguard-tools/) / [Manager](https://github.com/perara/wg-manager) / [WebUI](https://hub.docker.com/r/weejewel/wg-easy)
 * [OpenVPN](https://openvpn.net/) or [TincVPN](http://www.tinc-vpn.org/) - VPN Tunnels
 * [Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs) - Free VPN Tunnel Configs
+* [StrongSwan](https://www.strongswan.org/) - IPsec VPN
+* [WireHole](https://github.com/IAmStoxe/wirehole) - Wireguard VPN w/ Adblocking Capabilities 
+* [Syntropy](https://www.syntropystack.com/vpn), [Self Hosted VPN](https://github.com/rajannpatel/Pi-Hole-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-Wireguard-VPN-Configs), [VpnHood](https://github.com/vpnhood/VpnHood), [n2n](https://github.com/ntop/n2n), [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) or [Outline](https://getoutline.org/) - Self-Hosted VPN
+* [OpenConnect](https://www.infradead.org/openconnect/) - SSL VPN / [GUI](https://openconnect.github.io/openconnect-gui/)
 * [Gluetun](https://github.com/qdm12/gluetun) - Tunnel your Docker containers through a VPN
 * [PiVPN](https://pivpn.io/) - Raspberry Pi VPN / [GitHub](https://github.com/pivpn/pivpn)
-* [Enterprise](https://pritunl.com/) - VPN Server 
+* [Pritunl](https://pritunl.com/) - VPN Server
 * [Algo VPN](https://github.com/trailofbits/algo) - Cloud VPN
 * [Amnezia](https://github.com/amnezia-vpn/amnezia-client) - Self-hosted VPN
 * [Self-hosted VPN Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/selfhost-vpn) - Self-hosted VPN guide by /u/Kaxry
@@ -2837,7 +2842,6 @@ Filter list for adblockers with sites from this thread.
 * [AndroidRepublic](https://androidrepublic.org/)
 * [ApkModsApp](https://apkmodsapp.com/)
 * [Android1](https://an1.com/)
-* [DZAPK](https://dzapk.com/)
 * [PDALife](https://pdalife.com/)
 * [TeamOS](https://www.teamos.xyz/)
 * [APK Home](https://apkhome.io/)
