@@ -161,6 +161,7 @@
 * ⭐ **[Rom Center](https://r-roms.github.io/)**, [2](https://r-roms.gitlab.io/megathread/), [3](https://pastelink.net/24dhn) - ROMs / [Pastebins](https://github.com/nbats/FMHYedit/blob/main/base64.md#romcenter)
 * ⭐ **[Myrient](https://myrient.erista.me/)** - ROMs
 * ⭐ **[AlvRo](https://github.com/nbats/FMHYedit/blob/main/base64.md#alvro)** - ROMs / pw: ByAlvRo
+* ⭐ **[BlueRoms](https://www.blueroms.ws/)** - Emulators / ROMs
 * ⭐ **[CrocDB](https://crocdb.net/)** - Emulators / ROMs
 * ⭐ **[CDRomance](https://cdromance.com/)** - ROMs
 * ⭐ **[Ziperto](https://ziperto.com/)** - ROMs
@@ -708,6 +709,7 @@
 * [The Higher Lower Game](http://www.higherlowergame.com/) or [GoogleFued](https://googlefeud.com/) - Guess What's Googled More
 * [Guess The Price](https://guesstheprice.net/) - Price Guessing Game
 * [Apparle](https://www.apparle.com/) - Apparel Price Guessing Game
+* [Metazooa](https://metazooa.com/) - Animal Guessing Game
 * [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game
 * [Approved, or Not Approved?](https://approvednotapproved.com/) - Approved Advertising Guessing Game
 * [damn.dog](https://damn.dog/) - wikiHow Guessing Game
