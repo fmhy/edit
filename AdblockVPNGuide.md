@@ -530,10 +530,8 @@
 * [FoxyProxy](https://getfoxyproxy.org/), [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - Proxy Manager Extensions for Firefox
 * [Acrylic](https://mayakron.altervista.org/) - DNS Cache Local Proxy
 * [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - DNS Encryption Local Proxy
-* [Tsunami](https://github.com/FogNetwork/Tsunami) - Self-hosted Proxy Website
-* [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - Self-hosted Proxy Website
+* [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet), [Privoxy](https://www.privoxy.org/) / [Docker Build](https://github.com/binhex/arch-privoxyvpn) or [Tsunami](https://github.com/FogNetwork/Tsunami)  - Self-hosted Proxy Websites
 * [NginxProxyManager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Self-hosted Proxy Server
-* [Privoxy](https://www.privoxy.org/) - Self-hosted Proxy Website / [Docker Build](https://github.com/binhex/arch-privoxyvpn)
 * [Shadowsocks](https://shadowsocks.org/) / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows) - Proxy Client and Self-hostable Server
 * [Hysteria](https://github.com/apernet/hysteria) - Proxy Client and Self-hostable Server
 * [Xray](https://github.com/XTLS/Xray-core) - Proxy Client and Self-hostable Server / [Telegram](https://t.me/projectXray)
