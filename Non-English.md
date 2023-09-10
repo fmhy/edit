@@ -223,7 +223,7 @@
 * [Chinese Drama Site Index](https://www.reddit.com/r/CDrama/wiki/streaming)
 * [beyondHD ](https://t.me/beyondHD) - Movies / Subs
 * [Watch HK Movies Online](https://vinspirezhk.blogspot.com/) - Rare Chinese Movies / English Subs
-* [Movie Forest](https://549.tv/) or [klyingshi](https://klyingshi.com/) - Indexes of Chinese Streaming Sites
+* [Movie Forest](https://549.tv/) or [klyingshi](https://klyingshi.com/) - Chinese Streaming Site Indexes
 * [PangzITV](https://pangzitv.com/) - Movies / TV / Anime
 * [tangrenjie](https://www.tangrenjie.tv/) - Movies / TV / Anime
 * [ddrk](https://ddys.pro/) - Movies / TV / Anime
@@ -428,10 +428,10 @@
 * [Anime-Ultime](http://www.anime-ultime.net/), [2](https://v5.anime-ultime.net/) - Anime
 * [universanime](https://www.universanime.co/) - Anime
 * [mavanimes](https://mavanimes.cc/) - Anime
-* [Animeo TV](https://animeovf.fr) - Anime
 * [French Anime](https://french-anime.com/) - Anime
 * [VoirAnime](https://voiranime.com/) - Anime
 * [Animevost.fr](https://animevost.fr/) - Anime
+* [Animeo TV](https://animeovf.fr) - Anime
 * [sekai](https://sekai.one/) - Anime
 * [senpai](https://senpai.cc/) - Anime
 * [vostanime](https://vostanime.fr/) - Anime
