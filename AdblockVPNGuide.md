@@ -488,6 +488,7 @@
 * [TunnelBear](https://www.tunnelbear.com/) - Free VPN / 500mb
 * [VPNBook](https://www.vpnbook.com/) - Free VPN Accounts
 * [VPNGate](https://www.vpngate.net/en/) - Free VPN Relay Servers
+* [GoFly](https://play.google.com/store/apps/details?id=com.ambrose.overwall&gl=US) - Free VPN for Android
 
 ***
 
@@ -518,26 +519,24 @@
 
 ## ▷ Proxy Apps
 
-* ⭐ **[Psiphon](https://psiphon.ca/)** - [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png)
-* ⭐ **[Lantern](https://lantern.io/)** 
-* ⭐ **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) or [NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) - Local Proxies
+* ⭐ **[Psiphon](https://psiphon.ca/)** - Free Proxy/VPN Service / [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png)
+* ⭐ **[Lantern](https://lantern.io/)** - Free Proxy/VPN Service
+* ⭐ **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel), [NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) or [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy) / [Test](https://www.howsmyssl.com/) - DPI Circumvention Local Proxies
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/bypass-some-isp-blocks-with-just-firefox)** - Bypass ISP censorship with Firefox
-* [Acrylic](http://mayakron.altervista.org/)
-* [Tsunami](https://github.com/FogNetwork/Tsunami)
-* [Shadowsocks](https://shadowsocks.org/) - [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows)
-* [Proxifier](https://www.proxifier.com/) - [Keys](https://github.com/nbats/FMHYedit/blob/main/base64.md#proxifier-keys)
-* [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
-* [Hola Proxy](https://github.com/Snawoot/hola-proxy)
-* [Hysteria](https://github.com/apernet/hysteria)
-* [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt)
-* [Xray](https://github.com/XTLS/Xray-core) - [Telegram](https://t.me/projectXray)
-* [Privoxy](http://www.privoxy.org/) - [Docker Build](https://github.com/binhex/arch-privoxyvpn)
-* [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy) - TLS Proxy / [Test](https://www.howsmyssl.com/)
-* [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - HTTPS Proxy
-* [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) or [NginxProxyManager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Proxy Manager
-* [FoxyProxy](https://getfoxyproxy.org/), [anonymoX](https://anonymox.net/en), [Ambrose](https://play.google.com/store/apps/details?id=com.ambrose.overwall&gl=US) or [Snowflake](https://snowflake.torproject.org/) - Proxy Browser Extensions
-* [Fri-Gate](https://fri-gate.org/) - Advanced Proxy Settings Addon  
-* [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - Limit Proxy Usage by Private Windows 
+* [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service
+* [anonymoX](https://anonymox.net/en) - Free Proxy Service Browser Extension
+* [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
+* [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Proxy Manager Browser Extension
+* [FoxyProxy](https://getfoxyproxy.org/), [Proxy Privacy Ruler](https://github.com/JustOff/proxy-privacy-ruler) - Proxy Manager Extensions for Firefox
+* [Acrylic](https://mayakron.altervista.org/) - DNS Cache Local Proxy
+* [SimpleDnsCrypt](https://github.com/instantsc/SimpleDnsCrypt) - DNS Encryption Local Proxy
+* [Proxifier](https://www.proxifier.com/) - Add proxy functionality to applications / [Keys](https://github.com/nbats/FMHYedit/blob/main/base64.md#proxifier-keys)
+* [mitmproxy](https://mitmproxy.org/) / [GitHub](https://github.com/mitmproxy/mitmproxy) - Analyze and modify HTTPS traffic
+* [NginxProxyManager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Self-hosted Proxy Server
+* [Shadowsocks](https://shadowsocks.org/) / [Free Servers](https://github.com/ruanfei/cross), [2](https://github.com/learnhard-cn/free_proxy_ss) / [Client](https://github.com/shadowsocks/shadowsocks-windows) - Proxy Client and Self-hostable Server
+* [Hysteria](https://github.com/apernet/hysteria) - Proxy Client and Self-hostable Server
+* [Xray](https://github.com/XTLS/Xray-core) - Proxy Client and Self-hostable Server / [Telegram](https://t.me/projectXray)
+* [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet), [Privoxy](https://www.privoxy.org/) / [Docker Build](https://github.com/binhex/arch-privoxyvpn) or [Tsunami](https://github.com/FogNetwork/Tsunami)  - Self-hosted Proxy Websites
 * [1337x Proxy](https://redd.it/tz7nyx) - 1337x Proxy Guide / [Example](https://pastebin.com/3n5K0QrP)
 
 ***
@@ -568,7 +567,7 @@
 * [Proxyium](https://proxyium.com/)
 * [Proxy Site](https://proxysite.cloud/)
 * [AtozProxy](https://www.atozproxy.com/)
-* [Cloudflare Workers Proxy](https://rentry.org/champagne_guides/#how-to-proxy-any-website-using-cloudflare-workers) - How-to Use Cloudflare Workers as a Proxy
+* [Cloudflare Workers Proxy](https://champagne.pages.dev/non-piracy-stuff/proxy-websites/) - How-to Use Cloudflare Workers as a Proxy
 * [Google Translate](https://translate.google.com/) - [How to use](https://redd.it/fawkjy)
 * [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - Python Library for Retrieving Free Proxies
 * [Proxy-Checker](https://proxy-checker.net/), [Proxy Checker Genius](https://www.proxychecker.ge/), [proxy-scraper](https://github.com/iw4p/proxy-scraper), [ProxyScraper_v1](https://github.com/WTSTiNy/DeCryPt_ProxyScraper_v1), [What is my Proxy](http://www.whatismyproxy.com/), [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker), [Socker](https://github.com/TheSpeedX/socker) or [Unfx Proxy Checker](https://github.com/openproxyspace/unfx-proxy-checker)  - Proxy Scrapers / Checkers
