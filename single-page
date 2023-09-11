@@ -902,7 +902,7 @@
 * ⭐ **[Z-Library](https://singlelogin.re/)**  - Books / Comics / Educational
 * ⭐ **Z-Lib Tools** - [Desktop / Extensions](https://go-to-zlibrary.se/) / [Megathread](https://redd.it/zx6z62) / [I2P](http://kkd7tiqf5lv3olqfdnkw4znmmmmnjo2xqlxrp5ntthp6juowaiha.b32.i2p) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Subreddit](https://www.reddit.com/r/zlibrary/) / [Telegram](https://t.me/zlibrary_official)
 * ⭐ **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics
-* ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools) / [ACSM Plugin](https://github.com/Leseratte10/acsm-calibre-plugin) / [Libre Plugin](https://github.com/poochinski9/libgen-calibre-store-plugin)
+* ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools) / [ACSM Plugin](https://github.com/Leseratte10/acsm-calibre-plugin) / [Libre Plugin](https://github.com/poochinski9/libgen-calibre-store-plugin) / [Scraper](https://github.com/gnur/demeter)
 * ⭐ **[Library Genesis](https://libgen.is)** or [Libgen.fun](https://libgen.fun/) - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen__mirrors)
 * ⭐ **[eBookHunter](https://ebook-hunter.org/)** - Books / Comics / Use Adblocker
 * ⭐ **[Archive.org](https://archive.org/details/texts)** - Books / Audiobooks / Magazines / Newspapers / [Downloader](https://bookripper.neocities.org/)
@@ -2918,6 +2918,7 @@ Filter list for adblockers with sites from this thread.
 * [TharakMods](https://t.me/TharakMods)
 * [marioworlds4u](https://t.me/marioworlds4u)
 * [EasyAPK](https://t.me/EasyAPK)
+* [Tech Day](https://t.me/s/tech_d4y)
 * [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re)
 * [faloojein](https://t.me/faloojein)
 * [IC_Mods](https://t.me/IC_Mods)
@@ -3187,7 +3188,7 @@ Filter list for adblockers with sites from this thread.
 * [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker), [Silence](https://f-droid.org/packages/me.lucky.silence), [NoPhoneSpam](https://gitlab.com/bitfireAT/NoPhoneSpam) or [Hiya](https://www.hiya.com/) - Block Spam Calls
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls 
 * [Should I Call Back?](https://should-i-call-back.binary-person.dev/), [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) or [Scammer.Info](https://scammer.info/) / [Discord](https://discord.com/invite/nUThJjK) - Scam Numbers Database
-* [Xtra](https://github.com/crackededed/Xtra), [PurpleTV](https://discord.gg/wrU7Ea6wvr), [TwitchMod](https://t.me/pubTw) or [Twire](https://f-droid.org/packages/com.perflyst.twire/) - Ad Free Twitch App
+* [Xtra](https://github.com/crackededed/Xtra), [PurpleTV](https://purpletv.aeong.one/) / [Discord](https://discord.gg/wrU7Ea6wvr), [TwitchMod](https://t.me/pubTw) or [Twire](https://f-droid.org/packages/com.perflyst.twire/) - Ad Free Twitch App
 * [Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) - Remove Sponsored Telegram Messages
 
 ***
@@ -4066,7 +4067,6 @@ Filter list for adblockers with sites from this thread.
 * [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962), [SPlayer](https://splayer.dev/), [Loader](https://apps.apple.com/us/app/documents-loader/id1442498151), [Pojobox](https://apps.apple.com/us/app/pojo-4k-hd-video-music-player/id1454098557) or [‎Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
 * [uYouPlusExtra](https://github.com/arichorn/uYouPlusExtra), [YT Tweaked](https://github.com/nbats/FMHYedit/blob/main/base64.md#yt-tweaked-ipas) or [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPA / [Reddit Post](https://redd.it/olsxri)
 * [Yattee](https://github.com/yattee/yattee) - YouTube Frontend
-* [Block iPhone YouTube Ads](https://redd.it/xg5jkn) - How-to Block YouTube Ads
 * [Tunity](https://tunity.com/) - Hear Any Muted TV
 * [Pipifier](https://apps.apple.com/us/app/pipifier/id1234771095) - Picture in Picture
 
@@ -6584,8 +6584,10 @@ Filter list for adblockers with sites from this thread.
 #### Android Operating Systems
 
 * ⭐ **[Android ROM List](https://github.com/musabcel/android_rom_list)**
-* ⭐ **[OpenAndroidInstaller](https://openandroidinstaller.org/)** - Install Android Operating Systems
 * ⭐ **[LineageOS](https://www.lineageos.org/)**
+* ⭐ **[CustomROMBay](https://customrombay.org/)** - Compatibility Search
+* ⭐ **[OpenAndroidInstaller](https://openandroidinstaller.org/)** - OS Installer
+
 
 [ProtonAOSP](https://protonaosp.org/), [Anarchy-Droid](https://anarchy-droid.com/), [Replicant](https://www.replicant.us/), [crDroid](https://crdroid.net/), [Havoc-OS](https://sourceforge.net/projects/havoc-os/), [BlissRoms](https://downloads.blissroms.org/), [Paranoid Android](https://paranoidandroid.co/), [PixelExperience](https://get.pixelexperience.org/), [Evolution X](https://evolution-x.org/), [e Foundation](https://e.foundation/), [BeyondROM](https://t.me/BeyondROM_S20)
 
@@ -14963,7 +14965,7 @@ pass: paluch
 * [Nginx-Admins-Handbook](https://github.com/trimstray/nginx-admins-handbook) - Improve NGINX Performance
 * [Visual CSS Editor](https://chrome.google.com/webstore/detail/visual-css-editor/cibffnhhlfippmhdmdkcfecncoaegdkh) - WordPress Site Designer
 * [Mantiq](https://wpmantiq.com/) - Wordpress Visual Backend
-* [WPSQLite](https://github.com/hasinhayder/wpsqlite) - Wordpress Site Deployment Tool
+* [WPSQLite](https://github.com/hasinhayder/wpsqlite) or [LocalWP](https://localwp.com) - Wordpress Site Deployment Tools
 * [Nulled Scripts](https://www.null-scripts.net/), [NullJungle](https://nulljungle.com/) or [Null PHP Script](https://nullphpscript.com/) - Nulled Scripts
 * [faustjs](https://github.com/wpengine/faustjs) - Wordpress Framework
 * [Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes) - Themes for Wordpress
@@ -14993,6 +14995,7 @@ pass: paluch
 * [Gummy](https://gummyjs.vercel.app/) - Easily Build Javascript Programs
 * [NASM](https://www.nasm.us/) - Program Assembler
 * [Radicle](https://radicle.xyz/) - P2P Software Development
+* [MSYS2(https://www.msys2.org/) - Windows Software Creator
 * [Pakkly](https://pakkly.com/) - Desktop App Deployment
 * [Nomad](https://www.nomadproject.io/) / [GitHub](https://github.com/hashicorp/nomad), [MRSK](https://mrsk.dev/) / [Discord](https://discord.gg/YgHVT7GCXS) or [Waypoint](https://www.waypointproject.io) - App Deployment Automation
 * [LiveKit](https://livekit.io/) - Build Video / Audio Applications
@@ -17430,7 +17433,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ)
-* ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai)
+* ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai) / [Llama Version](https://labs.perplexity.ai/)
 * ⭐ **[Ora](https://ora.ai/openai/chatgpt)** - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/G8W5VHZhTR)
 * ⭐ **[BAI](https://beta.theb.ai/)** - GPT-3.5 Based Chatbot
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Based Chatbot with Real-Time Voice / [Discord](https://discord.gg/Rfbzet5R3v)
@@ -17458,7 +17461,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * ⭐ **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - LLM Leaderboard
 * ⭐ **[seait](https://github.com/diStyApps/seait)** - AI Installation Manager
 * ⭐ **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Chatbots / [Collab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
-* ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host LLaMa Based Chatbots / [WebUI](https://labs.perplexity.ai/)
+* ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host LLaMa Based Chatbots
 * ⭐ **[Guanaco](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi)** - QLoRA Based Chatbot / [Github](https://github.com/artidoro/qlora)
 * ⭐ **[LMSYS](https://chat.lmsys.org/)** - Compare Models / [Github](https://github.com/lm-sys/FastChat) / [Discord](https://discord.com/invite/h6kCZb72G7)
 * [Awesome Totally Open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) - Open-Source LLMs Index
@@ -20800,7 +20803,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
 * ⭐ **[System Wide Adblocking](https://champagne.pages.dev/before-you-begin/important-tools/)** / [2](https://redd.it/oyfmr1) - System Wide Adblocking Guides
-* ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)**, [SpotifyAdBlocker-macOS](https://github.com/amgxv/SpotifyAdBlocker-macOS), [Spotify Adblock Guide](https://redd.it/y2zt58) or [Mac_Spotify_Adblock](https://github.com/Devanshu-17/Mac_Spotify_Adblock) - Spotify Adblockers
+* ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)**, [Spotify Adblock Guide](https://redd.it/y2zt58) or [Mac_Spotify_Adblock](https://github.com/Devanshu-17/Mac_Spotify_Adblock) - Spotify Adblockers
 * [MacOS Security Tools](https://github.com/ashishb/osx-and-ios-security-awesome) - Mac Security Tools
 * [MacOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [Sentinel](https://getsentinel.io/) - Two-Factor Authentication
