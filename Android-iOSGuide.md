@@ -120,6 +120,7 @@
 * [TharakMods](https://t.me/TharakMods)
 * [marioworlds4u](https://t.me/marioworlds4u)
 * [EasyAPK](https://t.me/EasyAPK)
+* [Tech Day](https://t.me/s/tech_d4y)
 * [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re)
 * [faloojein](https://t.me/faloojein)
 * [IC_Mods](https://t.me/IC_Mods)
@@ -389,7 +390,7 @@
 * [Should I Answer?](http://www.shouldianswer.net/), [Yet Another Call Blocker](https://f-droid.org/en/packages/dummydomain.yetanothercallblocker/) / [GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker), [Silence](https://f-droid.org/packages/me.lucky.silence), [NoPhoneSpam](https://gitlab.com/bitfireAT/NoPhoneSpam) or [Hiya](https://www.hiya.com/) - Block Spam Calls
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls 
 * [Should I Call Back?](https://should-i-call-back.binary-person.dev/), [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) or [Scammer.Info](https://scammer.info/) / [Discord](https://discord.com/invite/nUThJjK) - Scam Numbers Database
-* [Xtra](https://github.com/crackededed/Xtra), [PurpleTV](https://discord.gg/wrU7Ea6wvr), [TwitchMod](https://t.me/pubTw) or [Twire](https://f-droid.org/packages/com.perflyst.twire/) - Ad Free Twitch App
+* [Xtra](https://github.com/crackededed/Xtra), [PurpleTV](https://purpletv.aeong.one/) / [Discord](https://discord.gg/wrU7Ea6wvr), [TwitchMod](https://t.me/pubTw) or [Twire](https://f-droid.org/packages/com.perflyst.twire/) - Ad Free Twitch App
 * [Killergram](https://github.com/Xposed-Modules-Repo/com.shatyuka.killergram) - Remove Sponsored Telegram Messages
 
 ***
@@ -1268,7 +1269,6 @@
 * [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962), [SPlayer](https://splayer.dev/), [Loader](https://apps.apple.com/us/app/documents-loader/id1442498151), [Pojobox](https://apps.apple.com/us/app/pojo-4k-hd-video-music-player/id1454098557) or [‎Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
 * [uYouPlusExtra](https://github.com/arichorn/uYouPlusExtra), [YT Tweaked](https://github.com/nbats/FMHYedit/blob/main/base64.md#yt-tweaked-ipas) or [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPA / [Reddit Post](https://redd.it/olsxri)
 * [Yattee](https://github.com/yattee/yattee) - YouTube Frontend
-* [Block iPhone YouTube Ads](https://redd.it/xg5jkn) - How-to Block YouTube Ads
 * [Tunity](https://tunity.com/) - Hear Any Muted TV
 * [Pipifier](https://apps.apple.com/us/app/pipifier/id1234771095) - Picture in Picture
 
