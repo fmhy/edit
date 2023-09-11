@@ -567,7 +567,7 @@
 * [Proxyium](https://proxyium.com/)
 * [Proxy Site](https://proxysite.cloud/)
 * [AtozProxy](https://www.atozproxy.com/)
-* [Cloudflare Workers Proxy](https://rentry.org/champagne_guides/#how-to-proxy-any-website-using-cloudflare-workers) - How-to Use Cloudflare Workers as a Proxy
+* [Cloudflare Workers Proxy](https://champagne.pages.dev/non-piracy-stuff/proxy-websites/) - How-to Use Cloudflare Workers as a Proxy
 * [Google Translate](https://translate.google.com/) - [How to use](https://redd.it/fawkjy)
 * [Proxy Scrape](https://github.com/JaredLGillespie/proxyscrape) - Python Library for Retrieving Free Proxies
 * [Proxy-Checker](https://proxy-checker.net/), [Proxy Checker Genius](https://www.proxychecker.ge/), [proxy-scraper](https://github.com/iw4p/proxy-scraper), [ProxyScraper_v1](https://github.com/WTSTiNy/DeCryPt_ProxyScraper_v1), [What is my Proxy](http://www.whatismyproxy.com/), [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker), [Socker](https://github.com/TheSpeedX/socker) or [Unfx Proxy Checker](https://github.com/openproxyspace/unfx-proxy-checker)  - Proxy Scrapers / Checkers
