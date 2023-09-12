@@ -320,7 +320,7 @@
 * ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
 * ⭐ **[Open Source Linux Programs](https://i.ibb.co/KyTkKHz/ae00a5177857.png)**
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
-* [RuTracker](https://rutracker.org/forum/viewforum.php?f=1381) / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* ⭐ **[RuTracker](https://rutracker.org/forum/viewforum.php?f=1381)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * [Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/), [2](https://github.com/inputsh/awesome-linux)
 * [Awesome-Linux-Software](https://github.com/crackerica/Awesome-Linux-Software)
 * [Awesome KDE](https://github.com/francoism90/awesome-kde)
@@ -573,6 +573,7 @@
 
 # ► Mac Software
 
+* [MacSerialJunkie](https://macserialjunkie.com/) - Serials / Cracks
 * [AppsTorrent](https://appstorrent.ru/)
 * [Macintosh Garden](http://macintoshgarden.org/)
 * [nMac](https://nmac.to/)
