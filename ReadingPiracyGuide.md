@@ -1063,6 +1063,7 @@
 * [WebToEpub](https://github.com/dteviot/WebToEpub) - Novel to EPUB Converter
 * [LNMTL](https://lnmtl.com/) - Light Novel Translator
 * [Scan Updates](https://www.scanupdates.com/) - Scan Release Updates
+* [Light Novel Downloader Google Colab](https://colab.research.google.com/github/HongYue1/LightNovel-Crawler-Colab/blob/main/lightnovel_crawler.ipynb) / [GitHub](https://github.com/HongYue1/LightNovel-Crawler-Colab) - Use LighNovel Crawler in Google Colab to download light novels with MultiUpload option.
 
 ***
 
