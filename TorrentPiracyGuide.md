@@ -85,24 +85,24 @@
 * ⭐ **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n) / [librex](https://github.com/hnhx/librex) - Multi Site Search
 * ⭐ **[RuTracker](http://rutracker.org)**, [2](https://rutracker.nl/), [3](https://rutracker.net/) - Video / Audio / Games / Software / Android / Comics / Magazines / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **RuTracker Tools** - [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/) / [Search API](https://github.com/nikityy/rutracker-api)
-* ⭐ **[TorrentGalaxy](https://torrentgalaxy.to/)** - Video / Audio / Games / Software / NSFW / [Mirrors](https://proxygalaxy.me/)
+* ⭐ **[TorrentGalaxy](https://torrentgalaxy.to/)** - Video / Audio / NSFW / [Mirrors](https://proxygalaxy.me/)
 * ⭐ **[m0nkrus](http://w14.monkrus.ws/)** - Adobe Software Archive / [How-to](https://rentry.co/adobesoftware) / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * [TheRarBg](https://therarbg.com/) / [2](https://t-rb.org) - RARBG Revival Project / [/r/TheRarBg](https://www.reddit.com/r/TheRarBg/) / [Discord](https://therarbg.com/discord/)
 * [1337x](https://1337x.to/) - Video / Audio / NSFW / **[Avoid Software / Games](https://pastebin.com/Rc9MYMZ7)**
 * 1337x Tools - [Mirrors](https://1337x.to/about) / [User Ranks](https://i.ibb.co/WfNhvtB/ebc2def26433.png) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Proxy](https://redd.it/tz7nyx), [2](https://pastebin.com/3n5K0QrP) / [Enhancements](https://greasyfork.org/en/scripts/33379) / [Magnets](https://greasyfork.org/en/scripts/373230) / [Subtitles](https://greasyfork.org/en/scripts/29467) / [Timezone Fix](https://greasyfork.org/en/scripts/421635)
-* [GloTorrents](https://glodls.to) - Video / Audio / Games / Books / Software / Android / NSFW
-* [MagnetDL](https://www.magnetdl.com/), [2]( https://www.magnetdl.org/) - Video / Audio / Games / Software / Books / [Onion](http://r5cena7erxpnxomyvoybuxh6fkgs55qqdg7bobf6yjx4j6vmywrqvlid.onion/)
-* [YggTorrent](https://www3.yggtorrent.wtf/) - Video / Audio / Roms / Software / Books / Android / Comics
-* [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Software / Games / Books
-* [IsoHunt](https://isohunts.to/) or [IsoHunt.nz](https://isohunt.nz/) - Video / Audio / Games / Software / Books
-* [ExT](https://ext.to/), [2](https://site.extto.com/) - Video / Audio / Games / Software / Books
-* [rutor.info](http://rutor.info) or [rutor.is](http://rutor.is/) - Video / Audio / Games / Software / Books / Roms / Magazines / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
-* [NNM-Club](https://nnmclub.to/) - Video / Audio / Software / Games / [Note](https://i.ibb.co/MPRttDC/6a35c3c79cde.png)
-* [Torrentz2k](https://torrentz2k.xyz/) - Video / Audio / Software / Games / NSFW
-* [Torrenting](https://www.torrenting.com/) - Video / Audio / Games / Software / Books / NSFW
+* [GloTorrents](https://glodls.to) - Video / Audio / Books / Android / NSFW
+* [MagnetDL](https://www.magnetdl.com/), [2]( https://www.magnetdl.org/) - Video / Audio / Books / [Onion](http://r5cena7erxpnxomyvoybuxh6fkgs55qqdg7bobf6yjx4j6vmywrqvlid.onion/)
+* [YggTorrent](https://www3.yggtorrent.wtf/) - Video / Audio / Roms / Books / Android / Comics
+* [LimeTorrents](https://www.limetorrents.lol/) - Video / Audio / Books
+* [IsoHunt](https://isohunts.to/) or [IsoHunt.nz](https://isohunt.nz/) - Video / Audio / Books
+* [ExT](https://ext.to/), [2](https://site.extto.com/) - Video / Audio / Books
+* [rutor.info](http://rutor.info) or [rutor.is](http://rutor.is/) - Video / Audio / Books / Roms / Magazines / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* [NNM-Club](https://nnmclub.to/) - Video / Audio / [Note](https://i.ibb.co/MPRttDC/6a35c3c79cde.png)
+* [Torrentz2k](https://torrentz2k.xyz/) - Video / Audio / NSFW
+* [Torrenting](https://www.torrenting.com/) - Video / Audio / Books / NSFW
 * [Tigole](https://infogalactic.com/info/Tigole#Getting_Tigole_torrents) - Torrent Index
 * [Telegram Torrents](https://duckduckgo.com/?q=site%3At.me+torrent&ia=web) - Telegram Torrent Channels
-* [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/) - [ZeroNet Required](https://zeronet.io/) / Video / Audio / Software / Games
+* [ZeroTorrent](http://127.0.0.1:43110/ZeroTorrent.bit/) - [ZeroNet Required](https://zeronet.io/) / Video / Audio
 * [4chan /t/](https://boards.4chan.org/t/) - Torrents / Imageboard / Some NSFW 
 * [8kun /t/](https://8kun.top/index.html) - Torrents / Imageboard
 * [DirtyWarez Tracker](https://dirtywarez.org/cat/tracker) or [OpenTrackers](https://opentrackers.org/links/publicly-tracked-torrents/) / [2](https://opentrackers.org/) - Torrent Site Indexes
