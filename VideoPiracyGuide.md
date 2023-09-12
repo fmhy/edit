@@ -16,7 +16,7 @@
 * ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / 1080p / [Discord](https://discord.gg/vXsRvye8BS)
 * ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/BE7kTVezBN)
 * ⭐ **[The Movie Archive](https://themoviearchive.site/)**, [2](https://tma.lol) - Movies / 4K / 1080p
-* ⭐ **[FMovies](https://fmovies.name/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
+* ⭐ **[FMovies](https://fmoviesz.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[FlixHQ](https://flixhq.click/)** - Movies / TV / Anime / 1080p
 * ⭐ **[Ask4Movies](https://ask4movie.nl/)** - Movies / TV / 1080p / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
@@ -85,6 +85,7 @@
 * [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime / 1080p
 * [UltraMovies](https://ultramovies.net/) - Movies / TV / 1080p
 * [UniqueStream](https://uniquestream.net/) - Movies / TV / 1080p
+* [NFMirror](https://netflixmirror.com/home) - Movies / TV / 1080p
 * [English Movies](https://m.vk.com/english_movies) - Movies / 1080p
 * [Rewatch](https://rewatch.to/) - Movies / TV / 1080p
 * [aflaam](https://aflaam.com/) - Movies / TV / 1080p / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
