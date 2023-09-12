@@ -79,6 +79,7 @@
 * [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
 * [Chub](https://www.chub.ai/) or [Character Creator](https://oobabooga.github.io/character-creator) - Character Prompts
 * [Img-Resources](https://rentry.org/lmg-resources) - LLM Character Resources
+* [LMG Template](https://rentry.org/lmg_template) - LLM Templates
 
 ***
 
@@ -89,7 +90,7 @@
 * ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
 * ⭐ **[AI Playground](https://play.vercel.ai/)**, [h2oGPT](https://gpt.h2o.ai/) or [ChatHub](https://chathub.gg/) - Compare AI Responses
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)**, [PaperBrain](https://www.paperbrain.study/) or [Ask Your PDF](https://askyourpdf.com/) - Turn PDFs into Chatbots
-* ⭐ **[UseChatGPT.AI](https://www.usechatgpt.ai/)** or [ChatWebpage](https://chatwebpage.com/) - Turn Webpages into Chatbots
+*  [ChatWebpage](https://chatwebpage.com/) - Turn Webpages into Chatbots
 *  [Vault AI](https://vault.pash.city/), [Humata](https://www.humata.ai/), [Unriddle](https://www.unriddle.ai/), [Sharly](https://app.sharly.ai/), [Docalysis](https://docalysis.com/) or [ChatDOC](https://chatdoc.com/) - Turn Documents into Chatbots
 * [PrivateGPT](https://github.com/imartinez/privateGPT/) or [ChatDocs](https://github.com/marella/chatdocs) - Offline Document Chatbots
 * [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
@@ -184,6 +185,7 @@
 * [Scrip AI](https://scripai.com/), [InkForAll](https://app.inkforall.com/tools), [QuickPenAI](https://quickpenai.com/) - Online AI Text Tools
 * [NovelAI](https://novelai.net/) - Story Writing AI / [Limit Bypass](https://pastebin.com/JDyvqZcz), [2](https://greasyfork.org/en/scripts/448926)
 * [Dreamily](https://dreamily.ai/) - Story Writing AI
+* [NightSaga](https://nightsaga.ai/) - Story Writing AI
 * [Essaytyper](http://www.essaytyper.com/) - Essay Writing AI
 * [papertyper](https://papertyper.net/) - Essay Writing AI
 * [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/) - Essay Writing AI
