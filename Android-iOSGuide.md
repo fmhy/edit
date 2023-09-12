@@ -179,7 +179,7 @@
 * [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) or [TapTap](https://github.com/KieronQuinn/TapTap) - Android Back Gesture Controls
 * [Quick Cursor](https://play.google.com/store/apps/details?id=com.quickcursor) - Cursor for Large Smartphones
 * [Caffeine](https://lab.zhs.moe/caffeine/) - Keep Screen On
-* [FakeStandby](https://fakestandby.jonasbernard.de/) - Turn Off Screen While App is Running
+* [FakeStandby](https://fakestandby.jonasbernard.de/) or [Extinguish](https://play.google.com/store/apps/details?id=own.moderpach.extinguish) - Turn Off Screen While App is Running
 * [WaveUp](https://gitlab.com/juanitobananas/wave-up) - Turn On Display via Waving
 * [Pinnit](https://github.com/msasikanth/pinnit) - Notification History / Pinning
 * [B.D.T](https://bdt.jepfa.de/) - Time with Between Time Notifications
@@ -807,6 +807,7 @@
 * [PodsCompanion](https://github.com/Domi04151309/PodsCompanion) - Extra AirPod Features
 * [OpenPods](https://github.com/adolfintel/OpenPods) - Monitor AirPods
 * [MImport](https://julioverne.github.io/description.html?id=com.julioverne.mimport) - Audio Import Tool
+* [Musekit](https://github.com/Kwasow/Musekit) - Tuning Fork / Metronome
 
 ***
 
