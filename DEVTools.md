@@ -561,7 +561,7 @@
 * [vite](https://vitejs.dev/) - Frontend Development Tool / [GitHub](https://github.com/vitejs/vite)
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend Development Resources
 * [Boilerplate](https://github.com/h5bp/html5-boilerplate) - Website Frontend Template HTML5
-* [Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates) or [Undraw](https://evie.undraw.co/)  - Site Templates
+* [Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates) or [Undraw](https://evie.undraw.co/) - Site Templates
 * [an idea for a website](https://anideafora.website/) - Random Website Ideas
 * [Templatemo](https://www.templatemo.com/) or [Tooplate](https://www.tooplate.com/) - HTML Site Templates
 * [HTML5 Temp](https://rentry.co/HTML5Temp) - HTML5 Templates & Themes
@@ -604,6 +604,7 @@
 * [onlinegenerator](https://onlinegenerator.net/) - Site Generation Tools
 * [Box-Shadow](https://box-shadow.art/) - Box Shadow Generator
 * [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - CSS Shadow Generator
+* [Floating UI](https://floating-ui.com/) - Floating UI Javascript
 * [MapBox](https://www.mapbox.com/) or [leafletjs](https://leafletjs.com/) - Live Maps, Location Search & More
 * [Maps-Core](https://openmobilemaps.io/) - Mobile Map SDK
 * [Kontactr](https://kontactr.com/), [Tally](https://tally.so/), [JotForm](https://www.jotform.com/), [99Inbound](https://www.99inbound.com/), [Forms.id](https://forms.id/), [PHPForm](https://www.phpform.org/) or [Form.taxi](https://form.taxi/) - Form Creators
