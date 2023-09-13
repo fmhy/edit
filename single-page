@@ -3822,7 +3822,7 @@ Filter list for adblockers with sites from this thread.
 * [Watusi](https://watusi.fouadraheb.com/) - Modded WhatsApp
 * [Whatspad++](https://iosninja.io/ipa-library/download-whatspad-ipa-ios) - iPad WhatsApp
 * [AppLibraryEnabler](https://github.com/tomaszpoliszuk/AppLibraryEnabler) - Enable App Library on iPad
-* [GeekBench](https://apps.apple.com/us/app/geekbench-5/id1435082259) - iOS Benchmark Tests
+* [GeekBench](https://apps.apple.com/us/app/geekbench-6/id1565728895) - iOS Benchmark Tests
 * [GoodLinks](https://goodlinks.app/) or [DoMarks](https://www.domarks.app/) - Bookmark Manager
 * [Flarify](http://www.flairify.com/) - Touchscreen Typing Practice 
 * [Selvy PenScript](https://apps.apple.com/us/app/selvy-penscript/id1027637212) - Handwriting to Text Keyboard
@@ -4239,6 +4239,7 @@ Filter list for adblockers with sites from this thread.
 
 * [Ucha.se](https://ucha.se/) - Educational Videos and Exam Questions
 * [Film4e](https://film4e.com/) - Movies / TV / Cartoons / Sub / Dub / 1080p
+* [NovaPlay](https://play.nova.bg/) - TV / Sub / Dub / 1080p
 * [VSI4KIFILMI](https://vsi4kifilmi.com/) - Movies / TV / Cartoons / Sub / Dub / 720p / Customizable Subtitles
 * [BGTVNET](https://bgtvnet.com/) - Movies / TV / Cartoons / Sub / 720p
 * [Filmite.Info](https://filmi99.com/) - Movies / TV / Cartoons / Sub / 720p
@@ -8257,7 +8258,8 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[Pastebin Search](https://cse.google.com/cse?cx=0cd79b819f26af9d0)**
 * ⭐ **[Rentry](https://rentry.co/)** / [CLI](https://github.com/radude/rentry)
-* ⭐ **[snty](https://snty.hkau.org/)**, [2](https://sentrytwo.com/) / [source code](https://codeberg.org/hkau/entry)
+* ⭐ **[snty](https://snty.hkau.org/)**, [2](https://sentrytwo.com/) / [Codeberg](https://codeberg.org/hkau/entry)
+
 * ⭐ **[disroot](https://bin.disroot.org/)** or [RIN Privatebin](https://privatebin.rinuploads.org/)
 * ⭐ **[PrivateBin](https://privatebin.info/directory/)**
 * ⭐ **[katb](https://katb.in/)**
