@@ -62,6 +62,7 @@
 * [Kajiwoto](https://kajiwoto.ai/), [Miku](https://docs.miku.gg/) / [Discord](https://discord.gg/3XPdpUdGgV) or [Agnai](https://agnai.chat/) - AI Builders
 * [AgentRunner](https://www.agentrunner.ai/) - Create Autonomous AI Agents
 * [Instrukt](https://github.com/blob42/Instrukt) - AI Testing Environment
+* [LLM Benchmarks](https://benchmarks.llmonitor.com/) - LLM Benchmarks
 * [Dify](https://dify.ai/) - Create AI Apps
 * [Free AI APIs](https://github.com/NovaOSS/free-ai-apis) or [Nova OSS](https://nova-oss.com/) - AI APIs
 
@@ -71,6 +72,7 @@
 
 * ⭐ **[Character AI](https://beta.character.ai/)** - Roleplaying Chatbots / [Extract Params](https://rentry.org/reverseCAI)
 * [Janitor AI](https://www.janitorai.com/) - Roleplaying Chatbots / [Discord](https://discord.com/invite/janitorai)
+* [GPT Call](https://gptcall.net/) - Roleplaying Chatbots / [Discord](https://discord.gg/88fQT5Bgfe)
 * [Dreamshow](https://dreamshow.ai/) - Roleplaying Chatbots
 * [Spicychat.ai](https://spicychat.ai/) - Roleplaying Chatbots
 * [TavernAI](https://tavernai.net/) - Roleplaying / Adventure Chatbot
@@ -78,8 +80,7 @@
 * [SillyTavern](https://github.com/SillyTavern/SillyTavern) - UI for Roleplaying Chatbots
 * [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) / [2](https://github.com/henk717/KoboldAI) - GUI for Roleplaying Chatbots / [Web App](https://lite.koboldai.net/)
 * [Chub](https://www.chub.ai/) or [Character Creator](https://oobabooga.github.io/character-creator) - Character Prompts
-* [Img-Resources](https://rentry.org/lmg-resources) - LLM Character Resources
-* [LMG Template](https://rentry.org/lmg_template) - LLM Templates
+* [Img-Resources](https://rentry.org/lmg-resources) - LLM Character Resources / [Templates](https://rentry.org/lmg_template)
 
 ***
 
@@ -162,10 +163,10 @@
 * [Wiki AI Tools](https://www.wikiaitools.com/) - AI Directory
 * [TopApps.Ai](https://topapps.ai/) - AI Directory
 * [NaNAI.tools] (https://nanai.tools) - AI Directory
-* [Cookup AI](https://cookup.ai/) - AI Directory
 * [SuperTools](https://supertools.therundown.ai/) - AI Directory
 * [GPTE](https://gpte.ai/) - AI Directory
 * [Toolspedia](https://www.toolspedia.io/) - AI Directory
+* [Hayo](https://www.hayo.com/tools) - AI Directory
 * [TheCrazyTool](https://www.thecrazytool.com/) - AI Directory
 * [HD Robots](https://hdrobots.com/) - AI Directory
 * [iLib](https://www.ilib.com/) -  AI Directory
