@@ -45,7 +45,7 @@
 * ⭐ **[Guanaco](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi)** - QLoRA Based Chatbot / [Github](https://github.com/artidoro/qlora)
 * ⭐ **[LMSYS](https://chat.lmsys.org/)** - Compare Models / [Github](https://github.com/lm-sys/FastChat) / [Discord](https://discord.com/invite/h6kCZb72G7)
 * [Awesome Totally Open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt) - Open-Source LLMs Index
-* [SecondBrain](https://secondbrain.sh/), [ImStudio](https://lmstudio.ai/) or [Faraday](https://faraday.dev/) - LLM Desktop Apps
+* [SecondBrain](https://secondbrain.sh/), [ImStudio](https://lmstudio.ai/), [OnPrem](https://amaiya.github.io/onprem/) or [Faraday](https://faraday.dev/) - LLM Desktop Apps
 * [Transfer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/) - LLM Timeline
 * [Falcon](https://huggingface.co/tiiuae/falcon-40b-instruct) - TII's Model
 * [ChatRWKV](https://huggingface.co/spaces/BlinkDL/ChatRWKV-gradio) - RWKV Based Chatbot / [Discord](https://discord.com/invite/bDSBUMeFpc)
@@ -277,6 +277,7 @@
 ## ▷ Online Generators
 
 * ⭐ **[Zoo](https://zoo.replicate.dev/)**
+* ⭐ **[PromptJungle](https://discord.gg/fhxAGWTFKt)** / Unlimited
 * ⭐ **[PlaygroundAI](https://playgroundai.com/)** / 1K Images Daily
 * ⭐ **[Dezgo](https://dezgo.com/)** / [Discord](https://discord.com/invite/RQrGpUhPhx) / Unlimited
 * ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP) / Unlimited
