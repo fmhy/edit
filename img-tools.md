@@ -531,7 +531,7 @@
 * [StoriesDown](https://storiesdown.com/), [instasaved](https://instasaved.net/en) or [insta-stories-viewer](https://insta-stories-viewer.com/) - Story Downloaders
 * [SaveFromWeb](https://www.savefromweb.com/), [High-Resolution-Downloader](https://github.com/ehmorris/High-Resolution-Downloader-For-Instagram), [Downloadgram](https://downloadgram.org/) or [Instagram-crawler](https://github.com/hehpollon/Instagram-crawler) - Video / Picture / Story Downloaders 
 * [Picnob](https://www.picnob.com/) or [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper) - Picture / Story Downloaders
-* [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [InstaLooter](https://github.com/althonos/InstaLooter), [Instaloader](https://github.com/instaloader/instaloader) or [instapick](https://www.instapick.net/) - Picture / Video Downloader
+* [ThumbTube](https://thumbtube.com/download-instagram-photos-videos), [Instagram Scraper](https://github.com/dankmemes/instagram-scraper), [InstaLooter](https://github.com/althonos/InstaLooter), [scraper-instagram-gui-desktop](https://git.kaki87.net/KaKi87/scraper-instagram-gui-desktop), [Instaloader](https://github.com/instaloader/instaloader) or [instapick](https://www.instapick.net/) - Picture / Video Downloader
 * [4K Stogram](https://www.4kdownload.com/products/stogram-8) or [InstaLoader](https://instaloader.github.io/) - Picture Downloader
 * [Photo Map](https://levionsoftware.com/) - Interactive Map For Your Photos
 * [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) - Video Downloader
