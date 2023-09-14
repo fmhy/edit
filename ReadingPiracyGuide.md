@@ -88,6 +88,7 @@
 * [LetMeRead](https://www.letmeread.net/) - Books
 * [FreeBookSpot](https://www.freebookspot.club/) - Books
 * [BooksToLearn](https://www.booktolearn.com) - Books
+* [PDFDrive.to](https://pdfdrive.to/) - Books
 * [DPLA](https://dp.la/) - Books
 * [Books'Cool](https://en.novelonlineread.com/) - Books
 * [Dirzon](https://www.dirzon.com/) - Books
@@ -218,7 +219,6 @@
 * [Dhamma Talks](https://www.dhammatalks.org/) - Sacred Texts / Religion / Buddhism
 * [Sutta Central](https://suttacentral.net/) - Sacred Texts / Religion / Buddhism
 * [Gnostic Society Library](http://www.gnosis.org/library.html) - Gnosticism
-* [Esoterica](https://github.com/nbats/FMHYedit/blob/main/base64.md#esoterica) - Esoterica / Philosophy / Gnosticism
 * [Logoi Library](https://logoilibrary.com/) - Gnosticism / Hermeticism
 * [766 Occult Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#766-occult-books) - Occult
 * [Messy Occult Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#messy-occult-library) - Occult / Esoterica / Gnosticism
