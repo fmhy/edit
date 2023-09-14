@@ -510,7 +510,7 @@
 * [BBTV](https://github.com/bttv-android/bttv) or [Frosty](https://www.frostyapp.io/) - Modded Twitch App
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - Reddit Video Downloader
-* [Geddit](https://kaangiray26.github.io/geddit-app/), [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit&hl=en_US) or [Relay](https://relayforreddit.com/index.html) - Reddit Clients
+* [Geddit](https://kaangiray26.github.io/geddit-app/), [Infinity](https://github.com/KhoalaS/Infinity-For-Reddit), [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit&hl=en_US) or [Relay](https://relayforreddit.com/index.html) - Reddit Clients
 * [Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic) - How-To Patch 3rd Party Reddit Clients
 * [Offline Reddit](https://play.google.com/store/apps/details?id=yy.offlinereader) - Offline Reddit Client
 * [RedditOldResponsive](https://git.kaki87.net/KaKi87/userscripts/src/branch/master/redditOldResponsive) - Old Reddit Script
@@ -539,6 +539,7 @@
 * [You Have Mail](https://github.com/LeanderBB/you-have-mail) - Email Notifications
 * [Delta Lab](https://github.com/adbenitez/deltalab-android) - Email Based Messenger
 * [Endless](https://kaangiray26.github.io/endless/) - Combine Social Media Apps
+* [GrayJay](https://grayjay.app/) - Manage Content Creator Subscriptions
 * [Eruda](https://pastebin.com/7qSZXjDS) - Mobile Browser Console / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [Github](https://github.com/liriliri/eruda)
 * [Andure](https://github.com/leohku/andure) - Android Chrome Dev Tools
 * [MobiDevTools](https://addons.mozilla.org/en-US/firefox/addon/mobidevtools/) - Firefox Inspect Element
@@ -579,6 +580,7 @@
 * [Widgetshare](https://play.google.com/store/apps/details?id=com.galew.widgetshare) - Photo Sharing App
 * [PhotoSync](https://www.photosync-app.com/home.html) - Transfer Photos Between Devices
 * [APhotoManager](https://github.com/k3b/APhotoManager/) - Create Photo Maps
+* [Grab Photos](https://play.google.com/store/apps/details?id=nathanhaze.com.videoediting) - Extract Photos from Videos
 * [ImageToolbox](https://github.com/T8RIN/ImageToolbox) or [Pixomatic](https://pixomatic.us/) - Image Editors
 * [Mematic](https://www.mematic.net/) or [Memetastic](https://github.com/gsantner/memetastic) - Meme Creators
 * [VES](https://github.com/VincentEngel/VES-Image-Compare) - Compare Two Images
@@ -1109,8 +1111,9 @@
 * [SuccessionRestore](https://github.com/Samgisaninja/SuccessionRestore) - Restore iOS without a computer (without updating)
 * [odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) - Checkra1n / Odysseyra1n Installation Distro / [GUI](https://github.com/23Aaron/Betelguese)
 * [sh0wer](https://github.com/beerpiss/sh0wer) - Alt Linux Distro for checkn1x
+* [3uTools](http://www.3u.com/) - Device Manager / Jailbreak Tool
 * [ReProvision](https://github.com/Matchstic/ReProvision) - On-device signing utility
-* [HackYouriPhone Repo](https://repo.hackyouriphone.org/) - Jailbreak / Tweaks 
+* [HackYouriPhone Repo](https://repo.hackyouriphone.org/) - Jailbreak / Tweaks
 * [isecureos](https://isecureos.idevicecentral.com/repo/) - Jailbreak Antivirus Tweak
 * [iOS-OTA-Downgrader](https://github.com/LukeZGD/Legacy-iOS-Kit) - OTA Downgrade iOS
 * [Procursus](https://github.com/ProcursusTeam/Procursus) - OS Bootstrap
@@ -1268,7 +1271,7 @@
 * [RSS Player](https://apps.apple.com/us/app/rss-video-player/id885311320) - KDrama / [Feed](http://allrss.se/dramas)
 * [Wako-TV](https://apps.apple.com/us/app/wako-tv/id1456393880) - Movies / TV / Anime / Real Debrid required
 * [VLC](https://apps.apple.com/ca/app/vlc-for-mobile/id650377962), [SPlayer](https://splayer.dev/), [Loader](https://apps.apple.com/us/app/documents-loader/id1442498151), [Pojobox](https://apps.apple.com/us/app/pojo-4k-hd-video-music-player/id1454098557) or [‎Infuse 6](https://apps.apple.com/us/app/infuse-6/id1136220934) - Video Players
-* [uYouPlusExtra](https://github.com/arichorn/uYouPlusExtra), [YT Tweaked](https://github.com/nbats/FMHYedit/blob/main/base64.md#yt-tweaked-ipas) or [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPA / [Reddit Post](https://redd.it/olsxri)
+* [uYouPlusExtra](https://github.com/arichorn/uYouPlusExtra), [YouTubeRebornPlus](https://github.com/arichorn/YouTubeRebornPlus/), [YTLitePlus](https://github.com/Balackburn/YTLitePlus/), [YT Tweaked](https://github.com/nbats/FMHYedit/blob/main/base64.md#yt-tweaked-ipas) or [Cercube](https://rejail.ru/pack/cercube) - Modded YouTube iPAs / [Reddit Post](https://redd.it/olsxri)
 * [Yattee](https://github.com/yattee/yattee) - YouTube Frontend
 * [Tunity](https://tunity.com/) - Hear Any Muted TV
 * [Pipifier](https://apps.apple.com/us/app/pipifier/id1234771095) - Picture in Picture
