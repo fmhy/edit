@@ -161,9 +161,9 @@
 * ⭐ **[Software CSE](https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4)** - Multi-Site Software Search
 * [4Download](https://www.4download.net/)
 * [AIOWares](https://www.aiowares.com/)
-* [Mr. SzzS](https://www.youtube.com/channel/UCcf3dtQFVb5zfy0jGYNpA0w)
 * [TheMicroTech](https://programs.themicrotech.net/)
 * [soft98](https://soft98.ir/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+* [Softlay](https://www.softlay.com/downloads/)
 * [Mutaz.net](https://www.mutaz.net/)
 * [Heidoc](https://www.heidoc.net/joomla/)
 * [RetroSystemRevival](https://retrosystemsrevival.blogspot.com/)
