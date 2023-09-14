@@ -81,6 +81,7 @@
 * [OSX-KVM](https://github.com/kholia/OSX-KVM), [OneClick-macOS-Simple-KVM](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) or [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - MacOS Virtual
 * [RockstarKernel_WSL2](https://github.com/Dhruvgera/RockstarKernel_WSL2) - Windows Subsystem Kernel
 * [kmon](https://kmon.cli.rs/) - Kernel Manager and Activity Monitor
+* [Kernel Map](https://makelinux.github.io/kernel/map/) - Interactive Linux Kernel Map
 * [UbuntuCleaner](https://github.com/gerardpuig/ubuntu-cleaner) - Easily clean Ubuntu(-based) Systems
 * [SystemRescue](https://www.system-rescue.org/) or [Super Grub2 Disk](https://www.supergrubdisk.org/super-grub2-disk/) - Bootable System Rescue Toolkits
 * [Boot-Repair](https://help.ubuntu.com/community/Boot-Repair) - Grub Repair Guide for Linux Systems
@@ -352,9 +353,9 @@
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
 * ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games
+* [GameHub](https://tkashkin.github.io/projects/gamehub/), [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) or [Steal](https://github.com/AbdelrhmanNile/steal) - Game Managers
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * [winesapOS](https://github.com/LukeShortCloud/winesapOS) - Play Games on Storage Devices 
-* [GameHub](https://tkashkin.github.io/projects/gamehub/) or [Steal](https://github.com/AbdelrhmanNile/steal) - Game Managers
 * [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/) - Wiki for Linux Gaming / [Sub Wiki](https://linux-gaming.kwindu.eu/)
 * [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)
 * [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) or [proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Install & Manage Proton-GE for Steam / Wine
@@ -434,6 +435,7 @@
 * [What Route](https://whatroute.net/) - Network Diagnostic Tool
 * [Windows 10 MBR](https://github.com/toru173/Windows-10-MBR-USB-Creation-Tool) or [Create Bootable](https://taig.medium.com/create-a-bootable-windows-10-usb-from-macos-395773d4782e) - Windows 10 Media Creation Tool
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - UEFI Kexts
+* [File Find](https://gitlab.com/Pixel-Mqster/File-Find) - File Explorer / Manager
 * [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913) or [Progressive Downloader](https://macpsd.net/) - File Download Manager
 * [AirDrop to Windows](https://redd.it/vthltc) - AirDrop to Windows Guide
 * [maestral](https://maestral.app/) or [NearDrop](https://github.com/grishka/NearDrop) - File Sharing Apps
@@ -476,7 +478,6 @@
 * [Sloth](https://github.com/sveinbjornt/Sloth) - MacOS Process Manager
 * [pongoOS](https://github.com/checkra1n/pongoOS) - Mac Pre-Boot Executor
 * [Yabai](https://github.com/koekeishiya/yabai) or [Rectangle](https://rectangleapp.com/) - Window Tiling Apps
-* [Homebrew](https://brew.sh/) - Package Manager
 * [AlDente](https://github.com/davidwernhart/AlDente-Charge-Limiter) - MacOS Charging Manager
 * [Unlocker](https://github.com/paolo-projects/unlocker) - VMware Unlocker
 * [USBMap](https://github.com/corpnewt/USBMap) - Map MacOS USB Ports
@@ -573,7 +574,7 @@
 
 # ► Mac Software
 
-* [MacSerialJunkie](https://macserialjunkie.com/) - Serials / Cracks
+* ⭐ **[MacSerialJunkie](https://macserialjunkie.com/)** - Serials / Cracks
 * [AppsTorrent](https://appstorrent.ru/)
 * [Macintosh Garden](http://macintoshgarden.org/)
 * [nMac](https://nmac.to/)
@@ -588,6 +589,7 @@
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 * [WebCatalog](https://webcatalog.io/)
 * [Mac Menu Bar](https://macmenubar.com/) - Menu Bar Apps
+* [Homebrew](https://brew.sh/) or [AppLite](https://aerolite.dev/applite/index.html) - Package Managers
 * [Awesome macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Open Source
 Software
 
