@@ -22,6 +22,7 @@
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * ⭐ **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbots Index
 * [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Q&A AI
+* [SydneyQt](https://github.com/juzeon/SydneyQt) - Jailbroken Bing AI Chatbot
 * [Leon](https://getleon.ai/) - AI Assistant
 * [Pi](https://pi.ai/talk) - AI Assistant
 * [AiryChat](https://airychat.com/) - AI Assistants
