@@ -366,7 +366,8 @@
 * [fluxfonts](https://github.com/da2x/fluxfonts) - Hide Unique Font Fingerprint
 * [NoScriptFingerprint](https://noscriptfingerprint.com/) - How JavaScript Fingerprinting Works
 * [dataskydd](https://webbkoll.dataskydd.net/) or [Blacklight](https://themarkup.org/blacklight) - Check what data-protecting measures a site has taken
-* [uBO-Scope](https://github.com/gorhill/uBO-Scope) - Measure 3rd Party Exposure 
+* [uBO-Scope](https://github.com/gorhill/uBO-Scope) - Measure 3rd Party Exposure
+* [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirector
 * [SafeTwitch](https://codeberg.org/dragongoose/safetwitch) - Twitch Frontend
 * [Wikiless](https://wikiless.org/) - Wikipedia Frontend
 * [Nitter](https://nitter.net/) - Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)
