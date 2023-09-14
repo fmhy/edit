@@ -36,7 +36,7 @@
 
 * ⭐ **[Spotify](https://open.spotify.com/)** - Browser Music
 * ⭐ **Spotify Browser Tools** - [Adblocker](https://gist.github.com/Simonwep/24f8cdcd6d32d86e929004013bd660ae) / [Mute Ads](https://github.com/guihkx/spotishush) / [Customize](https://github.com/Darkempire78/Spotify-Customizer) / [Lyrics](https://github.com/mantou132/Spotify-Lyrics)
-* ⭐ **[YouTube Music](https://music.youtube.com/)**, **[YTMP](https://ytmp.itsvg.in/)**, [Hyperpipe](https://hyperpipe.surge.sh), [InfiGroove](https://www.infigroove.com/), [Beatbump](https://beatbump.io/) or [Spotify One](https://spotfy.one/) - YouTube Music WebUIs
+* ⭐ **[YouTube Music](https://music.youtube.com/)**, **[YTMP](https://ytmp.itsvg.in/)**, [Hyperpipe](https://hyperpipe.surge.sh), [InfiGroove](https://www.infigroove.com/), [Beatbump](https://beatbump.io/), [Nonoki](https://nonoki.com/) or [Spotify One](https://spotfy.one/) - YouTube Music WebUIs
 * ⭐ **YouTube Music Tools** - [Lag Fix](https://greasyfork.org/en/scripts/432304-youtube-music-fix-performance) / [Library Delete](https://github.com/apastel/ytmusic-deleter) / [Upload Delete](https://rentry.co/tv4uo)
 * ⭐ **[Reddit Music Player](https://reddit.musicplayer.io/)** - Subreddit Music Player
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - User Made Songs / [Spotify Theme](https://userstyles.world/style/5470/soundfy-v3) / [Dark Theme](https://github.com/huds0nx/soundcloud-luna)
