@@ -740,7 +740,7 @@
 * [WatchSoMuch](https://watchsomuch.com/) - Movies / TV / Anime / [Proxy](https://watchsomuchproxy.com/)
 * [GaoQing](https://gaoqing.fm/) - Movies / TV / Anime / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 * [Play](http://127.0.0.1:43110/1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp/) - [ZeroNet Required](https://zeronet.io/) / Movies / TV
-* [Vuze](https://www.vuze.com/content/) -
+* [Vuze](https://www.vuze.com/content/) - Movies / TV
 * [ATORRENTS](https://atorrents.com/) - Movies
 * [YAPs](https://yaps.cc/) - Movies / TV / [GitHub](https://github.com/the-rarbg/yaps)
 * [Public Domain Movie Torrents](http://www.publicdomaintorrents.info/) - Movies
