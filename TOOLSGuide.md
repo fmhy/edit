@@ -337,7 +337,6 @@
 * [Kalidoface 3D](https://3d.kalidoface.com/), [Animaze](https://www.animaze.us/), [TransTube](https://girkovarpa.itch.io/transtube) or [Gazo Tuber](https://risunz.itch.io/gazo-tuber) - VTuber Characters
 * [avatarify-python](https://github.com/alievk/avatarify-python) or [veadotube](https://olmewe.itch.io/veadotube-mini) - Video Call Avatars
 * [screengif](https://github.com/dergachev/screengif), [gifcap](https://gifcap.dev/) / [GitHub](https://github.com/joaomoreno/gifcap) or [licecap](https://www.cockos.com/licecap/) - Turn Screencasts into GIFs
-* [Stream Recorder](https://www.hlsloader.com/) - Streaming Video Recorder
 * [tldv](https://tldv.io/), [ZoomRec](https://github.com/kastldratza/zoomrec) or [ZoomDL](https://github.com/Battleman/zoomdl) - Record Google Meets / Zoom Calls
 * [GifW00t](https://github.com/yaronn/GifW00t) - Javascript Web Recorder
 * [Jupitrr](https://jupitrr.com/) - Create Videos from Voice Recordings
