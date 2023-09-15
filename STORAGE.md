@@ -1283,7 +1283,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### IPTV Tools
 
-[Forum](https://iptv.community/) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Manager](https://cabernetwork.github.io/) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/) / [m3u to txt](https://siptv.eu/converter/) / [M3U Editor](https://m3u4u.com/) / [M3U Downloader](https://github.com/nilaoda/N_m3u8DL-RE), [2](https://webextension.org/listing/hls-downloader.html), [3](http://m3u8.dev/) / [Dummy EPG](https://github.com/yurividal/dummyepgxml) / [HLS Downloader](https://github.com/puemos/hls-downloader) / [CLI](https://github.com/nilaoda/N_m3u8DL-CLI)
+[Forum](https://iptv.community/) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Manager](https://cabernetwork.github.io/) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/) / [m3u to txt](https://siptv.eu/converter/) / [M3U Editor](https://m3u4u.com/) / [M3U Downloader](https://github.com/nilaoda/N_m3u8DL-RE), [2](https://webextension.org/listing/hls-downloader.html), [3](http://m3u8.dev/), [4](https://github.com/puemos/hls-downloader), [5](https://www.hlsloader.com/) / [Dummy EPG](https://github.com/yurividal/dummyepgxml) / [CLI](https://github.com/nilaoda/N_m3u8DL-CLI)
 
 ***
 
@@ -3331,7 +3331,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Youtube Android Apps
 
-* ⭐ **[Revanced](https://revanced.app)**, [ReVanced APKs](https://revanced-apks.pages.dev/) or [RVX Lite](https://t.me/rvx_lite) - Latest Revanced Apps
+* ⭐ **[Revanced](https://revanced.app)** / [Extended](https://github.com/inotia00/ReVanced_Extended), [ReVanced APKs](https://revanced-apks.pages.dev/) or [RVX Lite](https://t.me/rvx_lite) - Latest Revanced Apps
 * ⭐ **[ReVanced Manager](https://github.com/revanced/revanced-manager)** / [Guide](https://www.reddit.com/r/revancedapp/comments/xlcny9/revanced_manager_guide_for_dummies/)
 * ⭐ **[ReVanced Magisk Module](https://github.com/j-hc/revanced-magisk-module)**
 * ⭐ **[LibreTube](https://github.com/libre-tube/LibreTube)**
