@@ -9,7 +9,7 @@
 
 > How do I tell if a site or download is safe? Any tips? 
 Check out [Booty Guard](https://rentry.org/bootyguard) our basic safety guide. 
-Still feel unsure? Reach out to us via [Divolt](https://redd.it/uto5vw) & make sure you've looked at sites/software we've listed as unsafe:** [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread)
+Still feel unsure? Reach out to us via [Divolt](https://redd.it/uto5vw) & make sure you've looked at sites/software we've listed as unsafe: [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread)
 
 > I don't know what seeding means or *insert other term*...
 You will find almost all terms related to piracy & more on [The Piracy Glossary](https://rentry.org/the-piracy-glossary)
