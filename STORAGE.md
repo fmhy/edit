@@ -185,7 +185,7 @@
 
 * ⭐ **[Malwarebytes Premium](https://github.com/fmhy/FMHYedit/blob/main/base64.md#malwarebytes-prem)** / [Unlimited Trials](https://rentry.co/mbforever)
 
-[Adaware Antivirus](https://www.adaware.com/free-antivirus-download), [Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/), [Immunet](https://www.immunet.com), [EsetKeyRobot](https://t.me/EsetKeyRobot), [ClamAV](https://www.clamav.net/)
+[Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/), [Immunet](https://www.immunet.com), [EsetKeyRobot](https://t.me/EsetKeyRobot)
 
 ***
 
