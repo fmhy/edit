@@ -776,8 +776,6 @@
 * [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
 * [SteaScree](https://steascree.download/) - Steam Cloud Screenshot Uploader
 * [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Conformation
-* [SteamSkins](http://steamskins.org/) - Steam Skins
-* [SteamDarkMode](https://github.com/SleepDaemon/Modern-Steam) - Steam Dark Mode Skin
 * [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) - Steam GNOME Skin
 * [Backgrounds.Gallery](https://backgrounds.gallery/) - Steam Backgrounds
 * [Steam.Design](https://steam.design/) - Steam Background Cropper
