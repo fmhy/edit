@@ -790,14 +790,14 @@
 ## ▷ Comic Sites
 
 * ⭐ **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-Site Comic Search
+* ⭐ **[GetComics](https://getcomics.org/)** - Download Comics / [Discord](https://discord.gg/bSvFhwJ)
 * ⭐ **[ReadComicsOnline](https://readcomiconline.li/)**
 * ⭐ **[ReadAllComics](https://readallcomics.com/)**
-* ⭐ **[GetComics](https://getcomics.org/)** - Downloads / Read Online
 * ⭐ **[ComicExtra](https://comicextra.net/)** or [Comic Online Free](https://comiconlinefree.net/)
-* ⭐ **[XOXO Comics](https://xoxocomics.net/)**
 * ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - Golden Age Comics
 * ⭐ **[Explosm](https://explosm.net/rcg)** - Cyanide & Happiness Web Comics
 * ⭐ **[xkcd](https://xkcd.com/)** or [findxkcd](https://xkcd-search.typesense.org/) - xkcd Web Comics / [Explanations](https://www.explainxkcd.com/wiki/index.php/Main_Page)
+* [XOXO Comics](https://xoxocomics.net/)
 * [View Comics](https://viewcomics.co/)
 * [Read Comics Online](https://readcomicsonline.ru/)
 * [Comix-Load](https://comix-load.in/) - Downloads
