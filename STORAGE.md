@@ -2339,7 +2339,7 @@ Add the following commands to a search to manually scrape each site.
 * https://moviecracker.net/
 * https://fmovieshd.vip/
 * https://moviesjoy.to/
-* https://cataz.net/
+* https://cataz.to
 * https://tinyzonetv.to/
 * https://tinyzonetv.cc/
 * https://tinyzonetv.to/
