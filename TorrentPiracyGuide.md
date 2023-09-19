@@ -201,7 +201,7 @@
 
 # ► Helpful Sites / Apps
 
-* ⭐ **[PreDB](https://predb.me/)** / [2](https://predb.de/), [PreDB Live](https://predb.live/), [M2V](https://m2v.ru/), [Xrel](https://www.xrel.to/) or [srrDB](https://www.srrdb.com/) - Scene Release Tracker
+* ⭐ **[PreDB.me](https://predb.me/)** / [PreDB.net](https://predb.de/), [M2V](https://m2v.ru/), [Xrel](https://www.xrel.to/) or [srrDB](https://www.srrdb.com/) - Scene Release Tracker
 * ⭐ **[Tracker Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tracker_lists)** - Updated lists of BitTorrent trackers 
 * ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](http://torrentkittyurl.com/tk/) / [3](https://www.torrentkitty.net/) / [4](https://www.torrentkitty.lol/) - Torrent to Magnet Converter
 * ⭐ **[Magnet2Torrent](https://magnet2torrent.com/)** - Magnet to Torrent Converter
