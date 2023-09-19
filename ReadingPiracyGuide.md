@@ -790,7 +790,7 @@
 ## ▷ Comic Sites
 
 * ⭐ **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - Multi-Site Comic Search
-* ⭐ **[GetComics](https://getcomics.org/)** - Download Comics
+* ⭐ **[GetComics](https://getcomics.org/)** - Download Comics / [Discord](https://discord.gg/bSvFhwJ)
 * ⭐ **[ReadComicsOnline](https://readcomiconline.li/)**
 * ⭐ **[ReadAllComics](https://readallcomics.com/)**
 * ⭐ **[ComicExtra](https://comicextra.net/)** or [Comic Online Free](https://comiconlinefree.net/)
