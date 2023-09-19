@@ -34,6 +34,10 @@ For games use [Rezi](https://rezi.one) or any site listed [here](https://www.red
 > How do I unlock *insert random game title* DLCs?
 Use the tools listed [here](https://fmhy.pages.dev/gamingpiracyguide/#steam--epic) to unlock DLCs.
 
+> How do I get canva pro? I need an invite please give
+You may find Canva pro invites [here](https://blooem.pages.dev/wiki/canvapro/).
+!!!info If the links no longer work don't be afraid to contact the author of the site linked above.
+
 > Should I install & use *insert random anti-virus software* instead of using Windows Defender?
 No don't do that, windows defender is more than good enough, you don't need another anti-virus, but if you're set on installing a secondary AV the one worth installing is Malwarebytes. Please read the note [here](#anti-virus). 
 !!!warning Stay away from Avast, Norton and McAfee, these are "bloatware" and generally not safe software.
