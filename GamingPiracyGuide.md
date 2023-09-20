@@ -204,6 +204,7 @@
 * [RomToHome](https://romtohome.com/) - ROMs
 * [Sundby](https://github.com/nbats/FMHYedit/blob/main/base64.md#sundby) - ROMs
 * [GLoad](https://gload.to/) - ROMs
+* [AllMyROMs](https://www.allmyroms.net/) - ROMs
 * [ROMsFun](https://ROMsfun.com/) - ROMs
 * [FreeROMs](https://www.freeROMs.com/) - ROMs
 * [RetroZone](https://retrozone.co/) - ROMs
@@ -662,7 +663,7 @@
 * [Oh, My Dots!](https://www.ohmydots.com/) - Connect the Dots Game
 * [eWordChallenge](https://www.ewordchallenge.net/) - Multiplayer Boggle
 * [Click Click Click](https://clickclickclick.click/) - Browser Based Clicking Puzzle
-* [WordPlays](https://www.wordplays.com/) or [WorduUnscrambler](https://www.wordunscrambler.net/) - Cheat at Scrabble, Words with Friends & Crossword Puzzles
+* [WordPlays](https://www.wordplays.com/), [Unscramble](https://unscramble.me/) or [WorduUnscrambler](https://www.wordunscrambler.net/) - Cheat at Scrabble, Words with Friends & Crossword Puzzles
 
 ***
 
