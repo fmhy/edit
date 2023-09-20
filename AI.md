@@ -277,9 +277,10 @@
 
 ## ▷ Online Generators
 
-* ⭐ **[Zoo](https://zoo.replicate.dev/)**
+* ⭐ **[Zoo](https://zoo.replicate.dev/)** / Unlimited
 * ⭐ **[PromptJungle](https://discord.gg/fhxAGWTFKt)** / Unlimited
 * ⭐ **[PlaygroundAI](https://playgroundai.com/)** / 1K Images Daily
+* ⭐ **[Ideogram](https://ideogram.ai/)** / Unlimited
 * ⭐ **[Dezgo](https://dezgo.com/)** / [Discord](https://discord.com/invite/RQrGpUhPhx) / Unlimited
 * ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP) / Unlimited
 * [Prodia](https://app.prodia.com/) / [Discord](https://discord.com/invite/495hz6vrFN) / Unlimited
