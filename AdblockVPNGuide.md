@@ -153,6 +153,7 @@
 * [Package Analysis](https://github.com/ossf/package-analysis) - Open Source Package Analysis
 * [Manalyzer](https://manalyzer.org/) - PE File Scanner
 * [PyWhat](https://github.com/bee-san/pyWhat) - .pcap File Scanner
+* [Grype](https://github.com/anchore/grype) - Docker Container Vulnerability Scanner
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - Penetration Testing Index
 * [Defender Control](https://www.sordum.org/9480/defender-control-v2-1/) or [KillDefender](https://github.com/pwn1sher/KillDefender) - Enable / Disable Windows Defender
 * [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Configure Windows Defender Settings
