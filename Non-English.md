@@ -578,6 +578,7 @@
 ## ▷ Streaming
 
 * [JFC](https://jfc.org.il/) - Movies
+* [ktuvit](https://www.ktuvit.me/) or [wizdom](https://wizdom.xyz/) - Subtitles
 
 ***
 
