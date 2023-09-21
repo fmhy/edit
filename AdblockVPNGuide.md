@@ -397,15 +397,15 @@
 
 ## ▷ Search Engines
 
-* ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bangs) / [Search Scraper](https://github.com/JohnScooby/DuckDuckGo-Scraper)
 * ⭐ **[SearXNG](https://docs.searxng.org/)** - [Instances](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_searx_instances) / [Desktop](https://notabug.org/CYBERDEViL/searx-qt) / [GitHub](https://asciimoo.github.io/searx/)
-* ⭐ **[Mojeek](https://www.mojeek.com/)**
-* [Metager](https://metager.org/)
+* ⭐ **[Metager](https://metager.org/)**
+* ⭐ **[Stract](https://trystract.com/)**
+* ⭐ **[DuckDuckGo](https://duckduckgo.com/)** - [Shortcuts](https://duckduckgo.com/bangs) / [Search Scraper](https://github.com/JohnScooby/DuckDuckGo-Scraper)
+* [Mojeek](https://www.mojeek.com/)
 * [Qwant](https://www.qwant.com/)
 * [Swisscows](https://swisscows.com/)
 * [YaCy](https://yacy.net/) 
 * [Startpage](https://www.startpage.com/)
-* [Stract](https://trystract.com/)
 * [Brave Search](https://search.brave.com/)
 * [Search Encrypt](https://www.searchencrypt.com/)
 * [ekoru](https://ekoru.org/)
