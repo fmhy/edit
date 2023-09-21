@@ -613,6 +613,7 @@
 * [Nexus Bot](https://t.me/science_nexus_bot) - Science / Articles / [Twitter](https://twitter.com/the_superpirate) / [Mastadon](https://kolektiva.social/@the_superpirate)
 * [ESJI](http://www.esjindex.org/) - Science / Journals
 * [Clarivate](https://mjl.clarivate.com/) - Science / Journals
+* [Sci Journal Club](https://t.me/+C6SZ8Itn88A3MTVi) - Science / Journals
 * [Plos](https://plos.org/) - Science / Journals
 * [SciAlert](https://scialert.net/) - Science / Journals
 * [Crossref](https://search.crossref.org/) - Articles / Documents / Datasets
