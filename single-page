@@ -829,7 +829,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Praat](https://www.fon.hum.uva.nl/praat/) - Analyze, Synthesize & Manipulate Speech / [GitHub](https://github.com/praat/praat)
 * [Adobe Enhance](https://podcast.adobe.com/enhance) - Speech Enhancer
 * [Fadr](https://fadr.com/) - STEM Creator / Editor
-* [Splitter](https://www.splitter.ai/), [AudioChum](https://audiochum.com/), [splitmysong](https://www.splitmysong.com/), [free-music-demixer](https://sevag.xyz/free-music-demixer/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
+* [Splitter](https://www.splitter.ai/), [AudioChum](https://audiochum.com/), [splitmysong](https://www.splitmysong.com/), [free-music-demixer](https://freemusicdemixer.com/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
 * [Remove Vocals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remove_vocals) - Remove Vocal Tracks
 * [Acapella-Extractor](https://www.acapella-extractor.com/) - Remove Background Tracks from Songs
 * [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) / [CLI](https://github.com/IniasP/rnnoise-cli) - Noise Suppression Tools
@@ -3980,6 +3980,7 @@ Twitch Stream Tracker
 * [Package Analysis](https://github.com/ossf/package-analysis) - Open Source Package Analysis
 * [Manalyzer](https://manalyzer.org/) - PE File Scanner
 * [PyWhat](https://github.com/bee-san/pyWhat) - .pcap File Scanner
+* [Grype](https://github.com/anchore/grype) - Docker Container Vulnerability Scanner
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - Penetration Testing Index
 * [Defender Control](https://www.sordum.org/9480/defender-control-v2-1/) or [KillDefender](https://github.com/pwn1sher/KillDefender) - Enable / Disable Windows Defender
 * [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - Configure Windows Defender Settings
@@ -6166,7 +6167,7 @@ Twitch Stream Tracker
 * [ArcadePrehacks](http://www.arcadeprehacks.com/) - Hacked Games
 * [WBKidsGo](https://www.wbkidsgo.com/) or [PBS Kids Games](https://pbskids.org/games/) - Games for Kids
 
-[Armor Games](https://armorgames.com/), [Kongregate](https://www.kongregate.com/), [Weboasis Arcade](https://weboasis.app/arcade/), [Addicting Games](https://www.addictinggames.com/), [OneMoreLevel](http://www.onemorelevel.com/), [Miniclip](https://miniclip.com/), [Not Doppler](http://www.notdoppler.com/), [Nitrome](https://www.nitrome.com/), [Poki](https://poki.com/), [Y8](https://www.y8.com/), [Arkadium](https://www.arkadium.com/), [Crazy Games](https://www.crazygames.com/), [GamezHero](https://www.gamezhero.com/), [Yandex Games](https://yandex.com/games/), [Nicky Case](https://ncase.me/), [Gamepix](https://www.gamepix.com/), [KibaGames](https://www.kibagames.com/), [yell0wsuit](https://yell0wsuit.page/games.html), [Kizi](https://kizi.com/), [Gamaverse](https://gamaverse.com/), [FOG](https://www.freeonlinegames.com/), [RoundGames](https://www.roundgames.com/), [Radon Games](https://radon-games.glitch.me/), [Snokido](https://www.snokido.com), [2amGames](http://www.2amgames.com/), [Game Game](https://game-game.com/), [ArcadeSpot](https://arcadespot.com/), [N-Arcade](https://n-arcade.io/), [watabou](https://watabou.itch.io/), [Key Games](https://keygames.com/), [GamesFlare](https://gameflare.com/), [Gaming Wonderland](https://www.gamingwonderland.com/), [Game Top](https://www.gametop.com/online/index.html), [Foddy](http://www.foddy.net/category/games/browser/), [ALFY](https://www.alfy.com/), [GameKB](https://www.gamekb.com/), [Andkon](http://andkon.com/arcade/), [DAN-BALL](http://dan-ball.jp/en/), [Play-Games](https://play-games.com), [KBHGames](https://kbhgames.com/), [Unity3DGames](http://www.unity3dgames.net/), [FreeGames](https://freegames.org/), [PrimaryGames](https://www.primarygames.com/), [MSM Games](https://zone.msn.com/en-us/home), [CAMLBOY](https://linoscope.github.io/CAMLBOY/), [Cartoon Network Games](https://www.cartoonnetworkhq.com/games) / [2](https://www.cartoonnetworkasia.com/games), [Disney Games](https://disneynow.com/all-games), [Lego Games](https://www.lego.com/en-us/kids/games), [Friv](https://friv.com/) / [2](https://web.archive.org/web/*/Friv.com), [RetroGMZ](https://retrogmz.com/)
+[Armor Games](https://armorgames.com/), [Kongregate](https://www.kongregate.com/), [Weboasis Arcade](https://weboasis.app/arcade/), [Addicting Games](https://www.addictinggames.com/), [OneMoreLevel](http://www.onemorelevel.com/), [Miniclip](https://miniclip.com/), [Not Doppler](http://www.notdoppler.com/), [Nitrome](https://www.nitrome.com/), [Poki](https://poki.com/), [Y8](https://www.y8.com/), [Arkadium](https://www.arkadium.com/), [Crazy Games](https://www.crazygames.com/), [GamezHero](https://www.gamezhero.com/), [Yandex Games](https://yandex.com/games/), [Nicky Case](https://ncase.me/), [Gamepix](https://www.gamepix.com/), [KibaGames](https://www.kibagames.com/), [yell0wsuit](https://yell0wsuit.page/games.html), [Kizi](https://kizi.com/), [Gamaverse](https://gamaverse.com/), [FOG](https://www.freeonlinegames.com/), [RoundGames](https://www.roundgames.com/), [Radon Games](https://radon-games.glitch.me/), [Snokido](https://www.snokido.com), [2amGames](http://www.2amgames.com/), [Game Game](https://game-game.com/), [ArcadeSpot](https://arcadespot.com/), [N-Arcade](https://n-arcade.io/), [watabou](https://watabou.itch.io/), [Key Games](https://keygames.com/), [GamesFlare](https://gameflare.com/), [Gaming Wonderland](https://www.gamingwonderland.com/), [Game Top](https://www.gametop.com/online/index.html), [Foddy](http://www.foddy.net/category/games/browser/), [ALFY](https://www.alfy.com/), [GameKB](https://www.gamekb.com/), [Andkon](http://andkon.com/arcade/), [DAN-BALL](http://dan-ball.jp/en/), [Play-Games](https://play-games.com), [KBHGames](https://kbhgames.com/), [Unity3DGames](http://www.unity3dgames.net/), [FreeGames](https://freegames.org/), [PrimaryGames](https://www.primarygames.com/), [MSM Games](https://zone.msn.com/en-us/home), [CAMLBOY](https://linoscope.github.io/CAMLBOY/), [Cartoon Network Games](https://www.cartoonnetworkhq.com/games) / [2](https://www.cartoonnetworkasia.com/games), [Disney Games](https://disneynow.com/all-games), [Lego Games](https://www.lego.com/en-us/kids/games), [Friv](https://friv.com/) / [2](https://web.archive.org/web/*/Friv.com), [RetroGMZ](https://retrogmz.com/), [FreeWebArcade](https://www.freewebarcade.com/)
 
 ***
 
@@ -6812,7 +6813,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[SyncThing](https://github.com/Catfriend1/syncthing-android)**
 * ⭐ **[Snapdrop Android](https://github.com/fm-sys/snapdrop-android)**
 
-[dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) / [croc](https://github.com/howeyc/crocgui), [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard), [xShare](https://github.com/tsudoko/xshare), [InShare](https://play.google.com/store/apps/details?id=sharefiles.sharemusic.shareapps.filetransfer), [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc), [syncopoli](https://gitlab.com/fengshaun/syncopoli), [ShareX](https://github.com/akanshSirohi/ShareX), [Save n Device](https://github.com/lmj0011/save-on-device), [BetterTogether](https://www.android.com/better-together/nearby-share-app/)
+[dropbox](https://www.dropbox.com/) / [Sync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) / [croc](https://github.com/howeyc/crocgui), [Clipt](https://play.google.com/store/apps/details?id=studio.onelab.clipboard), [xShare](https://github.com/tsudoko/xshare), [InShare](https://play.google.com/store/apps/details?id=sharefiles.sharemusic.shareapps.filetransfer), [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc), [syncopoli](https://gitlab.com/fengshaun/syncopoli), [ShareX](https://github.com/akanshSirohi/ShareX), [Save n Device](https://github.com/lmj0011/save-on-device), [Nearby Share](https://www.android.com/better-together/nearby-share-app/)
 
 ***
 
@@ -7192,7 +7193,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * http://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down
 * https://sguru.org/libgen-proxy/
 * https://libgen.fun/
+* http://llhlf.com/
 * https://libgen.li/ (more than just libgen)
+
 
 ***
 
@@ -11198,9 +11201,10 @@ Filter list for adblockers with sites from this thread.
 
 ## ▷ Online Generators
 
-* ⭐ **[Zoo](https://zoo.replicate.dev/)**
+* ⭐ **[Zoo](https://zoo.replicate.dev/)** / Unlimited
 * ⭐ **[PromptJungle](https://discord.gg/fhxAGWTFKt)** / Unlimited
 * ⭐ **[PlaygroundAI](https://playgroundai.com/)** / 1K Images Daily
+* ⭐ **[Ideogram](https://ideogram.ai/)** / Unlimited
 * ⭐ **[Dezgo](https://dezgo.com/)** / [Discord](https://discord.com/invite/RQrGpUhPhx) / Unlimited
 * ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP) / Unlimited
 * [Prodia](https://app.prodia.com/) / [Discord](https://discord.com/invite/495hz6vrFN) / Unlimited
@@ -13993,6 +13997,7 @@ pass: paluch
 * ⭐ **[webtor](https://webtor.io/)** - Torrent to Cloud and Stream
 * [Bitport](https://bitport.io/welcome) - Torrent to Cloud and Stream
 * [TorrentSafe](https://www.torrentsafe.com/) - Torrent to Cloud and Stream
+* [TorBox](https://torbox.app/) - Torrent to Cloud and Stream
 * [TorrentCheap](https://my.torrentcheap.com/) - Torrent to Cloud and Stream
 * [ZBIGZ](https://zbigz.com/) - Torrent to Cloud and Stream
 * [Loadbt](https://www.loadbt.com/) - Torrent to Cloud and Stream
@@ -14020,7 +14025,7 @@ pass: paluch
 * ⭐ **RuTracker Tools** - [Addon](https://addons.mozilla.org/en-US/firefox/addon/rutracker_torrent_search/) / [Search API](https://github.com/nikityy/rutracker-api)
 * ⭐ **[TorrentGalaxy](https://torrentgalaxy.to/)** - Video / Audio / NSFW / [Mirrors](https://proxygalaxy.me/)
 * ⭐ **[m0nkrus](http://w14.monkrus.ws/)** - Adobe Software Archive / [How-to](https://rentry.co/adobesoftware) / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
-* [TheRarBg](https://therarbg.com/) / [2](https://t-rb.org) - RARBG Revival Project / [/r/TheRarBg](https://www.reddit.com/r/TheRarBg/) / [Discord](https://therarbg.com/discord/)
+* [TheRarBg](https://therarbg.com/), [2](https://t-rb.org) - RARBG Revival Project / [/r/TheRarBg](https://www.reddit.com/r/TheRarBg/) / [Discord](https://therarbg.com/discord/)
 * [1337x](https://1337x.to/) - Video / Audio / NSFW / **[Avoid Software / Games](https://pastebin.com/Rc9MYMZ7)**
 * 1337x Tools - [Mirrors](https://1337x.to/about) / [User Ranks](https://i.ibb.co/WfNhvtB/ebc2def26433.png) / [Discord Bot](https://github.com/brandongallagher1999/1337x-Bot) / [Telegram Bot](https://t.me/search_content_bot), [2](https://github.com/xbIm/1337x-torrent-telegram-bot) / [IMDb Ratings](https://github.com/kotylo/1337imdb) / [Proxy](https://redd.it/tz7nyx), [2](https://pastebin.com/3n5K0QrP) / [Enhancements](https://greasyfork.org/en/scripts/33379) / [Magnets](https://greasyfork.org/en/scripts/373230) / [Subtitles](https://greasyfork.org/en/scripts/29467) / [Timezone Fix](https://greasyfork.org/en/scripts/421635)
 * [GloTorrents](https://glodls.to) - Video / Audio / Books / Android / NSFW
@@ -14134,7 +14139,7 @@ pass: paluch
 
 # ► Helpful Sites / Apps
 
-* ⭐ **[PreDB](https://predb.me/)** / [2](https://predb.de/), [PreDB Live](https://predb.live/), [M2V](https://m2v.ru/), [Xrel](https://www.xrel.to/) or [srrDB](https://www.srrdb.com/) - Scene Release Tracker
+* ⭐ **[PreDB.me](https://predb.me/)** / [PreDB.net](https://predb.de/), [M2V](https://m2v.ru/), [Xrel](https://www.xrel.to/) or [srrDB](https://www.srrdb.com/) - Scene Release Tracker
 * ⭐ **[Tracker Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tracker_lists)** - Updated lists of BitTorrent trackers 
 * ⭐ **[T2M](https://nutbread.github.io/t2m/)** / [2](https://github.com/nutbread/t2m) or [Torrent Kitty](https://www.torrentkitty.tv/) / [2](http://torrentkittyurl.com/tk/) / [3](https://www.torrentkitty.net/) / [4](https://www.torrentkitty.lol/) - Torrent to Magnet Converter
 * ⭐ **[Magnet2Torrent](https://magnet2torrent.com/)** - Magnet to Torrent Converter
@@ -14738,6 +14743,7 @@ pass: paluch
 ## ▷ Streaming
 
 * [JFC](https://jfc.org.il/) - Movies
+* [ktuvit](https://www.ktuvit.me/) or [wizdom](https://wizdom.xyz/) - Subtitles
 
 ***
 
@@ -20285,6 +20291,7 @@ Software
 * [RomToHome](https://romtohome.com/) - ROMs
 * [Sundby](https://github.com/nbats/FMHYedit/blob/main/base64.md#sundby) - ROMs
 * [GLoad](https://gload.to/) - ROMs
+* [AllMyROMs](https://www.allmyroms.net/) - ROMs
 * [ROMsFun](https://ROMsfun.com/) - ROMs
 * [FreeROMs](https://www.freeROMs.com/) - ROMs
 * [RetroZone](https://retrozone.co/) - ROMs
@@ -20743,7 +20750,7 @@ Software
 * [Oh, My Dots!](https://www.ohmydots.com/) - Connect the Dots Game
 * [eWordChallenge](https://www.ewordchallenge.net/) - Multiplayer Boggle
 * [Click Click Click](https://clickclickclick.click/) - Browser Based Clicking Puzzle
-* [WordPlays](https://www.wordplays.com/) or [WorduUnscrambler](https://www.wordunscrambler.net/) - Cheat at Scrabble, Words with Friends & Crossword Puzzles
+* [WordPlays](https://www.wordplays.com/), [Unscramble](https://unscramble.me/) or [WorduUnscrambler](https://www.wordunscrambler.net/) - Cheat at Scrabble, Words with Friends & Crossword Puzzles
 
 ***
 
