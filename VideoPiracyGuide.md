@@ -424,6 +424,7 @@
 ## ▷ Live TV / Sports 
 
 * ⭐ **[Sportsurge](https://sportsurge.net/)**- Sports / Stream Locator
+* ⭐ **[Time4TV](http://time4tv.stream/)** - TV / Sports
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - TV / Sports
 * ⭐ **[FreeSports](https://freesports.to/)** or [TheHomeSports](https://thehomesport.net/) - Sports
 * ⭐ **[IPTV Web](https://dev-iptv.web.app/)** - TV / Sports
@@ -450,7 +451,6 @@
 * [BuffStream](https://buffstream.io/) - Sports
 * [SportSala](https://www.sportsala.cc/) or [123Cric](https://123cric.com/) - Sports
 * [Pluto](http://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports
-* [Time4TV](http://time4tv.stream/) - TV / Sports
 * [StitichSports](https://stitichsports.com/tv/) - TV / Sports
 * [CXtv](https://www.cxtvlive.com/) - TV / Sports
 * [ProLive](https://prolive.tv/) - TV / Sports
