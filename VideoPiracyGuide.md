@@ -25,7 +25,7 @@
 * ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime / 1080p
 * ⭐ **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - Multi-Site Search
 * [M4uFree](https://ww2.m4ufree.com/) - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
-* [MovieScene](https://moviescene.cc/) - Movies / TV / 1080p
+* [MovieScene](https://moviescene.cc/) - Movies / TV / 4K / 1080p
 * [NetFilm](https://netfilm.app/) - Movies / TV / Anime / 1080p
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
 * [WatchSeries 2.0](https://watchseriess.io/), [2](https://watchmovie.ac/) - Movies / TV / Anime / 1080p
@@ -62,6 +62,7 @@
 * [GoMo](https://gomo.to/) - Movies / TV / Anime / API
 * [SuperEmbed](https://www.superembed.stream/) - Movies / TV / API
 * [VidSrc](https://vidsrc.me/) - Movies / TV / Anime / API
+* [BlackVid](https://blackvid.space/) - Movies / TV / API
 * [VidDroid Desktop](https://github.com/callisto-jovy/viddroid_desktop) - Streaming App
 * [TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Telegram File Streaming
 * [IMDb Scout](https://greasyfork.org/en/scripts/407284-imdb-scout-mod) - Add Stream Search Buttons to IMDb
