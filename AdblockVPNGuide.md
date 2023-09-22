@@ -193,7 +193,7 @@
 * [Open Source Guides](https://opensource.guide/) - Open Source Guide / [GitHub](https://github.com/github/opensource.guide)
 * [catgirl.cloud](https://catgirl.cloud/) - Privacy-Respecting Services
 * [Privacy.Sexy](https://privacy.sexy/) - Privacy Scripts 
-* [Privacy Settings](https://github.com/the-weird-aquarian/privacy-settings) - Privacy Setting Guides
+* [Privacy Settings](https://github.com/StellarSand/privacy-settings) - Privacy Setting Guides
 * [Smart Sec Cam](https://github.com/scottbarnesg/smart-sec-cam) or [ZoneMinder](https://zoneminder.com/) - Security Camera System
 * [Vault](https://www.vaultproject.io/) - Data Security Service / [GitHub](https://github.com/hashicorp/vault)
 * [Team Elite](https://www.te-home.net/) or [Technet24](https://technet24.ir/) - Security Software / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
