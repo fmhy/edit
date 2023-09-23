@@ -776,6 +776,7 @@
 * [Steam URL Opener](https://github.com/veteran29/steam-url-open-extension) - Open URLs Inside Steam Client
 * [SteaScree](https://steascree.download/) - Steam Cloud Screenshot Uploader
 * [Steam Age Bypass](https://greasyfork.org/en/scripts/18450-steam-bypass-age-confirmation-prompts) - Bypass Age Conformation
+* [Modern Steam](https://github.com/SleepDaemon/Modern-Steam) - Steam Darkmode Skin / [Patcher](https://github.com/ShadowMonster99/millennium-steam-patcher)
 * [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) - Steam GNOME Skin
 * [Backgrounds.Gallery](https://backgrounds.gallery/) - Steam Backgrounds
 * [Steam.Design](https://steam.design/) - Steam Background Cropper
@@ -1348,6 +1349,7 @@
 * [CrossOver](https://github.com/lacymorrow/crossover) or [HudSight](https://hudsight.com/) - Crosshair Overlay
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
 * [TASVideos](https://tasvideos.org/) - Watch and Publish Tool Assisted Speedruns
+* [Tomatoanus](https://www.youtube.com/@tomatoanus/) - Speedrun Breakdowns
 * [MacroGamer](https://www.itoady.com/) - Game Macro Recorder
 * [BakkesMod](https://bakkesmod.com/) - Rocket League Trainer
 * [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - MKW Techniques, Glitches, & Exploits
