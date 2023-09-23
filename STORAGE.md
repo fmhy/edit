@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/DzGt3f6)** - For mobile users
+**[Table of Contents](https://ibb.co/J2d8vXw)** - For mobile users
 
 ***
 ***
@@ -23,12 +23,6 @@
 * ⭐ **[Thingiverse](https://www.thingiverse.com/)**
 
 [CG Persia](https://cgpersia.com/), [Clara.io](https://clara.io/library), [Sketchfab](https://sketchfab.com/), [GrabCAD](https://grabcad.com/), [3DCU](https://www.3dcu.com/), [3DLOAD](https://3dru.net/), [CGdownloads](https://cgdownloads.com/), [Pack 3d models](https://p3dm.ru/), [3DLOAD](https://3d-load.net/), [cgtrader](https://www.cgtrader.com/free-3d-models), [Free3D](https://free3d.com/), [VRModels](https://vrmodels.store/), [CadNav](https://www.cadnav.com/), [Blend Swap](https://www.blendswap.com/), [3DModelsCC0](https://www.3dmodelscc0.com/), [Blender 3D Models](https://www.blender-models.com/), [Render-State](https://render-state.to/), [Open3dModel](https://open3dmodel.com/), [KiCad](https://kicad.github.io/), [Archive3D](https://archive3d.net/), [TopGFX](http://topgfx.info/index.php), [3dpirate](https://3dpirate.net/), [3DExport](https://3dexport.com/free-3d-models), [3DMili Free Shop](https://shop3dmili.com/free), [ArchibasePlanet](https://archibaseplanet.com/), [Cults](https://cults3d.com/), [3dsky](https://3dsky.org/), [TurboSquid](https://www.turbosquid.com/Search/3D-Models/free), [3D Warehouse](https://3dwarehouse.sketchup.com/), [BlenderKit](https://www.blenderkit.com/), [3DMili](https://3dmili.com/), [poly.pizza](https://poly.pizza/), [RIGModels](https://rigmodels.com/), [Printables](https://www.printables.com/), [Thangs](https://thangs.com/), [Pinshape](https://pinshape.com/), [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models/printable), [CG World](https://t.me/cgworld_1), [Blender Add-on](https://t.me/blender_addon), [3D Find It](https://www.3dfindit.com/en/), [free3dbase](https://free3dbase.com/), [open3dlab](https://open3dlab.com/)
-
-***
-
-#### 3DS ROMs
-
-[3DS ROMS](https://3dsroms.org), [hShop](https://hshop.erista.me/)
 
 ***
 
@@ -654,7 +648,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 **Telegram Bots**
 
-[Fake Mail](https://t.me/FakemailBot), [DropMail.me](https://t.me/DropmailBot), [💳 Credit Card Generator 💳](https://t.me/ccgen_robot)
+[Fake Mail](https://t.me/FakemailBot), [DropMail.me](https://t.me/DropmailBot)
 
 **Extensions**
 
