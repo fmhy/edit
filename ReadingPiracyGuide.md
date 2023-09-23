@@ -409,7 +409,6 @@
 * [JEEBooksPDF](https://m.youtube.com/c/JEEBooksPDF) - JEE Material / [Telegram](https://telegram.me/jeebookspdf) / DL's in Descriptions
 * [ck12](https://www.ck12.org/)- Interactive CK-12
 * [premium_ebooks](https://t.me/premium_ebooks) - Exam Books
-* [Oxford Bookworms](https://t.me/OxfordBookworms) - Books / Audiobooks / Telegram
 * [Digital Libraries / Archives](https://oedb.org/ilibrarian/250-plus-killer-digital-libraries-and-archives/) - Online university libraries
 * [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) - Academic Repository Search
 * [Quantum Web Directory](https://qntm2017.github.io/qntm/OV.html) - Science / Tech / Math / Physics
