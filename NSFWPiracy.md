@@ -1,4 +1,4 @@
-![image](https://github.com/fmhy/FMHYedit/assets/110323644/995727d4-7a66-487c-80c8-16c637782a77)# ► NSFW Indexes
+# ► NSFW Indexes
 
 * ⭐ **[PornDude](https://theporndude.com/)** / [More Sites](https://theporndude.com/hall-of-fame)
 * ⭐ **[Reddit Doesn't Like This Site](https://www.reddit-doesnt-like-this.site/)**
