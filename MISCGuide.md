@@ -751,7 +751,7 @@
 * [Linkpack](https://www.linkpack.io/) - Save Links to Dropbox
 * [Survol](https://survol.me/) - Preview Links 
 * [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - Page Change Detection / Notification
-* [Pluckeye](https://www.pluckeye.net/) - Content Filter
+* [Plucky](https://pluckyfilter.com/) - Content Filter
 * [Block Site](https://add0n.com/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs), [TabWave](https://www.tabwave.app/), [Forest](https://pastebin.com/rYuAivA0), [StayFocused](https://www.stayfocusd.com/) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - Site Blockers
 * [SuperStop](https://github.com/gavinsharp/SuperStop/) - Stop Active Animations, Videos, JS, WebSocket & XHR
 * [Nuke Anything](https://pastebin.com/9TwxjU1r) - Block or Hide Anything on a Page  
@@ -900,7 +900,7 @@
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - Smooth Key Scrolling
 * [Wheel Smooth Scroller](https://chrome.google.com/webstore/detail/chromium-wheel-smooth-scr/khpcanbeojalbkpgpmjpdkjnkfcgfkhb?hl=en) - Smooth Scrolling
 * [Get RSS Feed URL](https://chrome.google.com/webstore/detail/get-rss-feed-url/kfghpdldaipanmkhfpdcjglncmilendn) - RSS Feed Generator
-* [NudgeWare](https://nudgeware.io/), [Minto](https://chrome.google.com/webstore/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chrome.google.com/webstore/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia), [Manganum](https://manganum.app/), [UnDistracted](https://www.undistracted.app/) or [HabitLab](https://habitlab.github.io/) - Productivity Managers / Site Blockers
+* [NudgeWare](https://nudgeware.io/), [Minto](https://chrome.google.com/webstore/detail/minto/hcgkjlalkeaekjkelpilagbjcengeebl), [GoGo Productivity](https://chrome.google.com/webstore/detail/gogo-productivity/mgefagaoblmbfcjoaiibbmobmkgoljia), [UnDistracted](https://www.undistracted.app/) or [HabitLab](https://habitlab.github.io/) - Productivity Managers / Site Blockers
 * [Web Activity Time Tracker](https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm?hl=en) - Track Browser Activity
 * [Simple Todo](https://chrome.google.com/webstore/detail/simple-todo/kobeijgkgkcgknodjkganceliljepmjf) or [Todoist](https://chrome.google.com/webstore/detail/todoist-for-chrome/jldhpllghnbhlbpcmnajkpdmadaolakh?hl=en) - To-Do List
 * [Blueticks](https://chrome.google.com/webstore/detail/blueticks/adgnjhngogijkkppficiiepmjebijinl) - WhatsApp Scheduler
