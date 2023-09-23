@@ -96,7 +96,7 @@
 
 * ⭐ **[Colorize Images](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_colorization)** - Image Colorization Tools
 * [FenoPhoto](https://www.fenophoto.com/) or [PhotoRestore](https://www.photorestore.io/) - Image Restoration Tools
-* [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) / [2](https://replicate.com/nightmareai/real-esrgan) - Image Restoration Algorithms
+* [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms
 * [/r/estoration](https://www.reddit.com/r/estoration/) - Photo Restoration Requests
 * [AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Anime Image Colorization
 * [Replicate](https://replicate.com/sczhou/codeformer), [GPEN-Colab](https://github.com/bycloudai/GPEN-colab), [Photo Face Restorer](https://www.restorephotos.io/) or [GFPGAN](https://github.com/TencentARC/GFPGAN) - Face Restoration / Colorization Tool
