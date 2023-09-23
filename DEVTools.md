@@ -1172,11 +1172,11 @@
 * [asdf](https://asdf-vm.com/) - Multi-Runtime Management CLI
 * [The SHA-256 Project](https://github.com/oconnor663/sha256_project) - Develop SHA-256 from Scratch
 * [substitute](https://github.com/comex/substitute) - Free Runtime Modification Library
-* [Sourcegraph](https://sourcegraph.com/) or [Ag](https://geoff.greer.fm/ag/) / [GitHub](https://github.com/ggreer/the_silver_searcher) - Code Searching
+* [Sourcegraph](https://sourcegraph.com/), [SeaGOAT](https://github.com/kantord/SeaGOAT) or [Ag](https://geoff.greer.fm/ag/) / [GitHub](https://github.com/ggreer/the_silver_searcher) - Code Searching
+* [CodeGrepper](https://www.grepper.com/) - Code Search Extension
 * [searchcode](http://searchcode.com/) or [PublicWWW](http://publicwww.com/) - Source Code Search
 * [Sourcecodester](https://www.sourcecodester.com/), [Code Projects](https://www.code-projects.org/), [Codastro](https://codeastro.com/), [Kashipara](https://www.kashipara.com/) or [ItSourceCode](https://www.itsourcecode.com/) - Source Code Projects
 * [magic-string](https://github.com/Rich-Harris/magic-string) - String Editor
-* [CodeGrepper](https://www.grepper.com/) - Code Search Extension
 * [ShortCode](https://shortcode.dev/), [Google Code Archive](https://code.google.com/archive/) or [CodeList](https://www.codelist.cc/) - Script / Code Indexes
 * [MoonScript](https://moonscript.org/) - Dynamic Scripting Language
 * [Carbon](https://dreamy-ptolemy-eb4e80.netlify.app/) / [2](https://carbon.now.sh/), [CodeImage](https://codeimage.dev/), [ray.so](https://ray.so/), [Chalk](https://chalk.ist/), [CodePNG](https://www.codepng.app/), [Snapartify](https://snapartify.com) or [Show Code](https://showcode.app/) - Code Screenshots
