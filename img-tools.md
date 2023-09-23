@@ -242,6 +242,7 @@
 * [MapMemes](https://www.mapmemes.com/) - Map Meme Generator
 * [WashYourLyrics](https://washyourlyrics.com/) - Hand Washing Meme Generator
 * [O RLY Cover Generator](https://dev.to/rly) - O RLY Meme Book Cover Generator
+* [AnimorphGenerator](https://animorphgenerator.com/) - Animorph Image Generator
 
 ***
 
