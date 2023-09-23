@@ -980,7 +980,7 @@
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
 * [TCNO](https://github.com/TCNOco/TcNo-Acc-Switcher) - Platform Account Switcher / [Tutorial](https://youtu.be/0h-xjiW9M7Y)
 * [humble-cli](https://github.com/smbl64/humble-cli) - Humble Bundle CLI
-* [Sunshine](https://github.com/loki-47-6F-64/sunshine) / [2](https://github.com/LizardByte/Sunshine) - GPU Streaming Client
+* [Moonlight Stream](https://moonlight-stream.org/) / [Server](https://github.com/LizardByte/Sunshine)  - Remote Desktop Client
 * [Geforce Now](https://www.nvidia.com/en-gb/geforce-now/) - Game Streaming / [Web App](https://play.geforcenow.com/mall/)
 * [Cloud Morph](https://github.com/giongto35/cloud-morph) or [Remotly](https://remotly.com/) - Cloud Gaming Apps
 * [Mogul](https://play.google.com/store/apps/details?id=com.mogul.flutte&hl=en&gl=US) or [Chikii](https://play.google.com/store/apps/details?id=com.dianyun.chikii&hl=en&gl=US) - Cloud Gaming Android Apps
@@ -1032,7 +1032,6 @@
 * [ACPatterns](https://acpatterns.com/) - Animal Crossing Pattern Tool / [Discord](https://discord.com/invite/9rGkZNk)
 * [LP Archives](https://lparchive.org/) - Let's Play Archive
 * [TwitchArchive](https://twitcharchive.com/) - Twitch Video Archive
-* [Moonlight Stream](https://moonlight-stream.org/) - PC Remote Play Client / [GitHub](https://github.com/moonlight-stream)
 * [Medal](https://medal.tv/) - Nvidia Shadowplay for non Nicosia cards
 * [Achievement Watcher](https://github.com/xan105/Achievement-Watcher) - Achievement File Parser, Notifications & Playtime Tracker
 * [AreWeAntiCheatYet?](https://areweanticheatyet.com/) - Check if Games is Anti-Cheat
