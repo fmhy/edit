@@ -95,7 +95,7 @@
 * [Acoustic Gender](https://acousticgender.space/) - Measure Voice Pitch
 * [RandomNameGenerator](https://randomnamegenerator.info/) - Baby Name Generator
 * [MixedName](https://mixedname.com/) - Find Bilingual Baby Names
-* [BehindTheName](https://www.behindthename.com/) - Name Etymologies
+* [Forebears](https://forebears.io/) or [BehindTheName](https://www.behindthename.com/) - Name Etymologies
 * [GitKraken Timeline](https://timelines.gitkraken.com/), [Timeline Cascade](https://markwhen.com/) / [GitHub](https://github.com/mark-when/markwhen), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - Create Timelines
 * [Timeliner](https://github.com/mholt/timeliner) - Create Personal Digital Timeline
 * [Familypedia](https://familypedia.fandom.com/), [Gramps](https://gramps-project.org/blog/) or [WikiTree](https://wikitree.com/) - Family Trees
