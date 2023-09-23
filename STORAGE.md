@@ -1218,10 +1218,11 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 **Image Galleries / Optimization**
 
+* ⭐ **[Digikam](https://www.digikam.org/)**
 * ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
 * ⭐ **[Cryptee](https://crypt.ee/)** - Encrypted Image Gallery
 
-[CloudImage](https://www.cloudimage.io/), [imagga](https://imagga.com/), [kraken](https://kraken.io/), [cloudinary](https://cloudinary.com/), [tiny.pictures](https://tiny.pictures/), [zara4](https://zara4.com/), [RawTherapee](https://www.rawtherapee.com/), [Digikam](https://www.digikam.org/), [picturama](https://picturama.github.io/), [Piwigo](https://piwigo.org/), [Photonix](https://photonix.org/), [PiGallery2](https://bpatrik.github.io/pigallery2/), [Immich](https://github.com/immich-app/immich), [narrative](https://narrative.so/), [ImageWorsener](https://entropymine.com/imageworsener/)
+[CloudImage](https://www.cloudimage.io/), [imagga](https://imagga.com/), [kraken](https://kraken.io/), [cloudinary](https://cloudinary.com/), [tiny.pictures](https://tiny.pictures/), [zara4](https://zara4.com/), [RawTherapee](https://www.rawtherapee.com/), [picturama](https://picturama.github.io/), [Piwigo](https://piwigo.org/), [Photonix](https://photonix.org/), [PiGallery2](https://bpatrik.github.io/pigallery2/), [Immich](https://github.com/immich-app/immich), [narrative](https://narrative.so/), [ImageWorsener](https://entropymine.com/imageworsener/)
 
 ***
 
@@ -1608,7 +1609,7 @@ Add the following commands to a search to manually scrape each site.
 
 **Sites / Programs**
 
-* ⭐ **[cobalt](https://co.wukko.me/)**
+* ⭐ **[cobalt](https://cobalt.tools/)**
 * ⭐ **[9xbuddy](https://9xbuddy.xyz/)**, [2](https://9xbuddy.com/)
 * ⭐ **[Lux](https://github.com/iawia002/lux)**
 
