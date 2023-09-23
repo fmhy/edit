@@ -219,7 +219,7 @@
 * [Switch ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms) - ROMs / Switch
 * [MarioCube](https://mariocube.com/) - ROMs / Wii / Gamecube
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
-* [3DS ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3ds_roms) - ROMs / 3DS
+* [3DS ROMS](https://3dsroms.org) or [hShop](https://hshop.erista.me/) - ROMs / 3DS
 * [NoPayStation](https://nopaystation.com/) or [SafeROMs](https://www.saferoms.com/) - ROMs / Playstation Consoles
 * [PKGPS4](https://www.pkgps4.click/), [Game-2U](https://game-2u.com/Category/game/ps4) or [Auctor](https://auctor.tv/) - ROMs / PS4
 * [/r/PkgLinks1](https://www.reddit.com/r/PkgLinks1/) - PS1 / PS2 Games for Modded PS4
