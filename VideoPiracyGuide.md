@@ -272,6 +272,7 @@
 * [cytube](https://cytu.be/) - TV / Chat
 * [VaughnLive](https://vaughn.live/browse/misc) - TV / Chat
 * [Baked](https://baked.live/) - TV / Chat
+* [Fun.Cube](https://funcube.space/) - TV / Chat
 
 ***
 
@@ -446,6 +447,7 @@
 * [VIP League](https://vipleague.im/), [2](https://www.vipleague.st/) - Sports
 * [WeakStream](https://weakstream.org/) - Sports
 * [AESports](https://aesport.tv/) - Sports
+* [FreeStreams-Live](https://freestreams-live1.se/) - Sports
 * [720pStream](http://hdtv.720pstream.me/) - Sports
 * [CrackStreams](https://crackstreams.io/), [2](https://the.crackstreams.me/) - Sports
 * [BuffStream](https://buffstream.io/) - Sports
@@ -501,6 +503,8 @@
 * [FootEM](https://www.footem.site/) - Soccer
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Soccer / MMA
 * [Cyfo Streams](http://www.cyfostreams.com/) - Soccer / Cycling
+* [Aceztrims](https://aceztrims.pages.dev/) - Motorsports
+* [DD12](https://dd12streams.com/) - Nascar
 * [NHLstream](https://nhlstream.net/) - NHL
 * [NHL66](https://nhl66.ir/) - NHL
 * [PakCric](https://pakcric.net/) - Cricket
