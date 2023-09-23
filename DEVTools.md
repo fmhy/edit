@@ -1246,7 +1246,6 @@
 * [ThemesElection](https://themeselection.com/) - Programming UI Themes
 * [Dev Fonts](https://devfonts.gafi.dev/) - Coding Fonts
 * [Monocraft](https://github.com/IdreesInc/Monocraft) - Minecraft Coding Font
-* [ClassyFont](https://www.classyfont.com/) - Css Font Generator
 
 ***
 
@@ -1323,6 +1322,7 @@
 * [Water.css](https://watercss.kognise.dev/) - CSS Styles
 * [Style Stage](https://stylestage.dev/) - Modern CSS Styles
 * [USA.css](https://bennettfeely.com/usacss/) - USA CSS Style
+* [ClassyFont](https://www.classyfont.com/) - CSS Font Generator
 * [Leon's CSS](https://leonarnott.neocities.org/) or [Wordart](https://codepen.io/kathykato/details/omxPap) - CSS Text Styles
 * [Hover.CSS](https://ianlunn.github.io/Hover/) - CSS Hover Effects
 * [Clippy](https://bennettfeely.com/clippy/) - CSS Clip Creator
