@@ -239,7 +239,6 @@
 * [Adobe Firefly](https://firefly.adobe.com/) / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
 * [Craiyon](https://www.craiyon.com/) / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
 * [Dall-E](https://www.bing.com/images/create)
-* [Disco Diffusion](https://replicate.com/nightmareai/disco-diffusion) / [Github](https://github.com/jina-ai/discoart) / [Discord](https://discord.com/invite/AWXCCC6G2P)
 * [Pollinations](https://pollinations.ai/) / [Discord](https://discord.com/invite/8HqSRhJVxn)
 * [Dream by Wombo](https://dream.ai/)
 
