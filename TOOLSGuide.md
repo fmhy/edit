@@ -1218,6 +1218,7 @@
 * [RDDDeck](https://rdddeck.com/) - Twitter Style Viewer 
 * [Reddium](https://reddium.vercel.app/) - Medium Style Viewer
 * [SO Reddit](https://dutzi.github.io/so-reddit/) - Stack Overflow Style Viewer
+* [Pholder](https://pholder.com/) - Article Style Viewer
 * [Unim.Press](https://unim.press/) - Newspapers Style Viewer
 * [Unreadit](https://app.mailbrew.com/unreadit) - Reddit Newsletters
 * [Roffline](https://github.com/Darkle/Roffline) - Offline Reddit Viewer
