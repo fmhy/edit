@@ -1246,6 +1246,7 @@
 * [ThemesElection](https://themeselection.com/) - Programming UI Themes
 * [Dev Fonts](https://devfonts.gafi.dev/) - Coding Fonts
 * [Monocraft](https://github.com/IdreesInc/Monocraft) - Minecraft Coding Font
+* [ClassyFont](https://www.classyfont.com/) - Css Font Generator
 
 ***
 
