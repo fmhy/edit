@@ -574,7 +574,6 @@
 
 # ► Mac Software
 
-* ⭐ **[MacSerialJunkie](https://macserialjunkie.com/)** - Serials / Cracks
 * [AppsTorrent](https://appstorrent.ru/)
 * [Macintosh Garden](http://macintoshgarden.org/)
 * [nMac](https://nmac.to/)
