@@ -106,7 +106,6 @@
 * [Stain Solutions](https://web.extension.illinois.edu/stain/) - Stain Solution Index
 * [My Car Makes Noise](https://mycarmakesnoise.com/) - Diagnose Car Problems via Sounds
 * [CarComplaints](https://www.carcomplaints.com/) - Car Problems, Car Complaints and Repairs
-* [/r/CarHacking](https://www.reddit.com/r/CarHacking/) - Car Hacking Community
 * [PlateRecognizer](https://platerecognizer.com/) - License Plate Recognition
 * [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.net/) - Perfume / Fragrance Databases
 * [Safe Substance](https://safesubstance.com/) - Drug Combination Info / Harm Reduction
@@ -225,7 +224,7 @@
 * [TinySheet](https://tinysheet.com/), [Tree Sheets](https://strlen.com/treesheets/), [Gnumeric](http://www.gnumeric.org/), [Quadratic](https://www.quadratichq.com/) or [EtherCalc](https://ethercalc.net/) - Spreadsheets
 * [Jamovi](https://www.jamovi.org/) - Statistical Spreadsheets
 * [Diagram.codes](https://www.diagram.codes/) - Convert Text to Diagrams
-* [Dictation](https://dictation.io/speech), [SpeechTexter](https://www.speechtexter.com/), [ConvertSpeech](https://convertspeech.com/), [SpeechNotes](https://speechnotes.co/), [LilySpeech](https://lilyspeech.com/), [VoiceToText](https://voicetotext.org/), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
+* [Dictation](https://dictation.io/speech), [SpeechTexter](https://www.speechtexter.com/), [SpeechNotes](https://speechnotes.co/), [LilySpeech](https://lilyspeech.com/), [VoiceToText](https://voicetotext.org/), [TalkTyper](https://talktyper.com/) or [VoiceNotebook](https://voicenotebook.com/) - Speech to Text
 * [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) or [HandWrittner](https://handwrittner.com/?lang=en) - Text to Handwriting Converter
 * [WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor) - Extract Text From Any Window
 * [ExtractMailAddress](https://extractemailaddress.com/) - Extract Email's, URLs and Numbers from Text
@@ -475,9 +474,8 @@
 * [Plugin Clouds Archive](https://t.me/plugincloudsarchive) - DAW Plugins
 * [FlsAudio](https://flsaudio.com/en/gb/) - FLStudio Samples / Presets / Plugins
 * [VeryLeaks](https://veryleaks.cz/), [DKL](https://discord.com/invite/69zpb6XH8f) or [Producerwav](https://producerwav.com/free/) - Drum Kits
-* [/r/findthepreset](https://www.reddit.com/r/findthepreset) - Find Presets from Songs
 * [MilkyTracker](https://milkytracker.org/) - .MOD & .XM Module Creator
-* [/r/samplesforall](https://www.reddit.com/r/samplesforall/), [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [RKHive](https://rkhive.com/), [Sounds MP3](https://allsoundsaround.com/) or [SamplesTorrent](https://samplestorrent.com/) - Audio Samples
+* [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [RKHive](https://rkhive.com/), [Sounds MP3](https://allsoundsaround.com/) or [SamplesTorrent](https://samplestorrent.com/) - Audio Samples
 * [AudioStellar](https://audiostellar.xyz/) - AI Powered Audio Sampling
 * [AirWindows](https://www.airwindows.com/) - Reverbs / Equalizers / Plugins
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - Learn How to Play Music
@@ -661,7 +659,7 @@
 * [80,000 Hours](https://80000hours.org/) - Explore Career Options
 * [Comparably](https://www.comparably.com/) or [GoodFirms](https://www.goodfirms.co/) - Compare Companies / Salaries
 * [Real Work From Anywhere](https://realworkfromanywhere.com/) - Global "Work-From-Anywhere" Job Board
-* [Summer 2024 Internships](https://github.com/pittcsc/Summer2024-Internships) - List of Internships
+* [Summer 2024 Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - List of Internships
 * [SkillIcons](https://skillicons.dev/) - Skill Badges for GitHub Readmes / Resumes
 * [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
 * [PostGenerator](https://www.postgenerator.app/) - LinkedIn PostGenerator
@@ -721,7 +719,7 @@
 * [Candor](https://candor.co/hiring-freezes/) - Hiring Freezes
 * [GoodJobsFirst](https://goodjobsfirst.org/) - Subsidy Tracker
 * [Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms) - Project Management Tools
-* [Airtable](https://www.airtable.com/) or [API Table](https://apitable.com/) / [GitHub](https://github.com/apitable/apitable) - Build Collaborative Apps
+* [Airtable](https://www.airtable.com/) - Build Collaborative Apps
 * [PolyWork](https://www.polywork.com/) - Collaboration Search
 * [Cody](https://meetcody.ai/) - Company Management AI
 * [PHPCRM](https://www.phpcrm.com/) - Company Management Software
@@ -970,7 +968,7 @@
 * [Artic Fox](https://github.com/rmottola/Arctic-Fox) - Classic Pale Moon
 * [Ghost Browser](https://ghostbrowser.com/) - Multi-Session Browser
 * [woob](https://woob.tech/) - Use Sites Without a Browser
-* [Gemini Clients](https://gemini.circumlunar.space/clients.html), [Lagrange](https://github.com/skyjake/lagrange) or [Amfora](https://github.com/makew0rld/amfora) - Gemini Browsers
+* [Gemini Clients](https://geminiprotocol.net/clients.html), [Lagrange](https://github.com/skyjake/lagrange) or [Amfora](https://github.com/makew0rld/amfora) - Gemini Browsers
 * [Gemini Software](https://gemini.circumlunar.space/software/) - Tools & Software for Gemini
 * [Gemini Portal](https://portal.mozz.us/gemini/gemini.circumlunar.space/), [2](https://yesterweb.org/gemini) - Gemini to https Web Proxy Service
 * [StockBrowser](https://stackbrowser.com/), [Rambox](https://rambox.app/), [Kera](https://desktop.kerahq.com/) or [Tangram](https://github.com/sonnyp/Tangram) - Web App Browsers
@@ -996,7 +994,7 @@
 * [BrowserParrot](https://www.browserparrot.com/) - Browser History Search Engine
 * [Hurl](https://github.com/U-C-S/Hurl) - Select Browser on URL Clicks
 * [Edge-Remover](https://rentry.co/uninstall_edge) - Microsoft Edge Removal Script
-* [NoMoreEdge](https://github.com/HarshalKudale/NoMoreEdge), [Edge_Removal.bat](https://github.com/AveYo/fox/blob/main/Edge_Removal.bat) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
+* [NoMoreEdge](https://github.com/KodeByWrath/NoMoreEdge), [Edge_Removal.bat](https://github.com/AveYo/fox/blob/main/Edge_Removal.bat) or [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - Redirect Microsoft Edge
 * [xBrowserSync](https://github.com/xbrowsersync/app) - Sync Browser Data Browsers / Devices
 * [Floccus](https://floccus.org/) - Browser Bookmark Sync / [GitHub](https://github.com/floccusaddon/floccus)
 * [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt Browser Data
@@ -1136,7 +1134,7 @@
 * [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
 * [wal.ee](https://wal.ee/) - `wal.ee/zluqo`
 * [n9.cl](https://n9.cl/) - `n9.cl/6gjfj`
-* [xy2.eu](http://xy2.eu/) - `xy2.eu/p7YP`
+* [xy2.eu](https://xy2.eu/) - `xy2.eu/p7YP`
 * [goo.su](https://goo.su/) - `goo.su/7pNRjy7` / [Extension](https://chrome.google.com/webstore/detail/free-link-shortener-goosu/clcoifeibkncgnegebeehkodandleohn)
 * [tny.im](https://tny.im) - `tny.im/rw-`
 * [ai6.net](https://ai6.net/) - `ai6.net/nm3tyz`
@@ -1148,7 +1146,7 @@
 * [Anon.to](https://anon.to/) - Anonymous URLs - `anon.to/7SWqpG`
 * [Thinfi](https://thinfi.com/) - Password protect a short URL - `thinfi.com/q8aw`
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Telegram Link Shortener Bot 
-* [suri](https://github.com/jstayton/suri), [Wormholes](https://wormholes.dev/), [urlhum](https://urlhum.com/) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
+* [suri](https://github.com/jstayton/suri), [Wormholes](https://noquark.com/products/wormholes), [urlhum](https://urlhum.com/) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
 * [shrtcode](https://shrtco.de/tools/) or [cuttly](https://cutt.ly/) - Multiple URL Tools
 * [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - Checks If File Links are Alive or Not
 * [Open Bulk URL](https://openbulkurl.com/) or [OpenAllURLs](https://www.openallurls.com/) - URL Bulk Opener
@@ -1209,7 +1207,7 @@
 * [Reddit Emojis](https://greasyfork.org/en/scripts/443011) - Emojis for Old Reddit
 * [Reddit Preview](https://redditpreview.com/) - Preview Reddit Posts
 * [custom-top-sort-for-reddit](https://github.com/arvidsandin/custom-top-sort-for-reddit) - Scroll to Top of Reddit
-* [Redinfinite](https://redinfinite.com/), [redditpx](https://www.redditpx.com/) or [Redditp](https://www.redditp.com/) - Reddit Image / Video Slideshows 
+* [Redinfinite](https://redinfinite.com/), [redditpx](https://www.redditpx.com/) or [Redditp](https://redditp.com/) - Reddit Image / Video Slideshows 
 * [Up for Reddit](https://www.reddit-up.com/) - View Images Posted by User
 * [ScrollDrop](https://scrolldrop.com/) - Reddit Media Crawler
 * [rrip](https://github.com/mahesh-hegde/rrip) - Reddit Bulk Image Downloader
@@ -1267,7 +1265,6 @@
 * [ArmCord](https://github.com/ArmCord/ArmCord) - Lightweight Discord Client
 * [Replugged](https://replugged.dev/) - Lightweight Discord Client
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
-* [Dark-Discord](https://github.com/discord-modifications/dark-discord) - Dark Theme for BetterDiscord & Powercord
 * [bdCompat](https://github.com/Juby210/bdCompat) - Use BD Plugins in Powercord
 * [Revert Rebrand](https://betterdiscord.app/theme/Revert%20Rebrand) - Revert Discord’s Rebrand on BetterDiscord & Powercord / [GitHub](https://github.com/Goose-Nest/GT-RevertRebrand)
 * [Discord Portable](https://portapps.io/app/discord-portable/) - Portable Discord Stable & [PTB PortApps](https://portapps.io/app/discord-ptb-portable/)
@@ -1364,8 +1361,7 @@
 * [Discord Backup](https://github.com/itschasa/Discord-Backup) - Backup and Restore Discord Accounts
 * [Multi-Accounts 1 Email](https://rentry.co/altmethod) - How-to Create Multiple Accounts on One Email
 * [Dyno](https://dyno.gg/) - Change Discord Discriminator w/o Nitro / [How-To](https://i.ibb.co/wMKZp36/55bd85a6ef87.png) 
-* [Discord Lookup](https://id.nerrix.ovh/) - Lookup a Discord User or Bot ID 
-* [Discord Markdown Guide](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51), [2](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-), [3](https://c.r74n.com/discord/formatting), [4](https://pbs.twimg.com/media/EhCUbVnWAAE5tHx?format=png&name=900x900) - Discord Markdown Guides
+* [Discord Lookup](https://discord.id/) - Lookup a Discord User or Bot ID 
 * [Discord-Avatar](https://discord-avatar.com/) or [Toolscord](https://toolscord.com/) - Download Discord Avatars
 * [Discord Avatar Maker](https://discord-avatar-maker.app/) - Make Discord Avatars
 * [Better Default Discord](https://better-default-discord.netlify.app/) - Default Discord Avatars
@@ -1419,7 +1415,7 @@
 * [Bulk download from Telegram](https://zebradil.me/post/2018-04-18-bulk-download-from-telegram/) - Telegram Media Download Method
 * [SnapchatStoriesBot](https://github.com/dishapatel010/SnapchatStoriesBot) - Get Snapchat Stories on Telegram
 * [Now Playing](https://t.me/nowplaybot) - Now Playing Audio Bot
-* [ongaku](https://github.com/gibcheesepuffs/Ongaku) - Display Playing Android Audio in Status
+* [ongaku](https://github.com/likeadragonmaid/Ongaku) - Display Playing Android Audio in Status
 * [Telesco.pe](https://telesco.pe/) - Telegram Round Video Recorder
 * [Video Stream](https://github.com/lntechnical2/videostream) - Telegram Video Player
 * [YTSZBot](https://t.me/YTSZBot) - YouTube Search Bot
@@ -1475,7 +1471,6 @@
 * [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/) 
 * [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Reduce Sensationalism and Clickbait
 * [YouTube Spammer Purge](https://github.com/ThioJoe/YT-Spammer-Purge) - Delete All YouTube Spam Comments / [Domain List](https://github.com/ThioJoe/YT-Spam-Lists)
-* [YouTube Encoding Guide](https://support.google.com/youtube/answer/1722171) - Recommended YouTube Encoding Settings
 * [TubeSync](https://github.com/meeb/tubesync) - Sync YouTube Channels / Playlists to a Media Server
 * [Focused YouTube](https://github.com/makaroni4/focused_youtube) - Minimalist YouTube
 * [YouTube Redux](https://github.com/omnidevZero/YouTubeRedux) - Restore Classic YouTube Layout
@@ -1500,7 +1495,7 @@
 * [Channel Crawler](https://channelcrawler.com/eng) or [YT-FTS](https://github.com/NotJoeMartinez/yt-fts) - Channel Search Tools
 * [Comment Viewer](https://commentviewer.com/), [Hadzy](https://hadzy.com/), [YCS](https://chrome.google.com/webstore/detail/ycs-youtube-comment-searc/pmfhcilikeembgbiadjiojgfgcfbcoaa?hl=en) or [YCF](https://ytcomment.kmcat.uk/) - YouTube Comment Search
 * [Filmot](https://filmot.com/), [ytks](https://ytks.app/) or [Video Search for Youtube](https://github.com/masasron/Video-Search-For-YouTube/) - Search within YouTube Transcripts
-* [Upvote Anywhere](https://github.com/z0ccc/voat-extension) or [Karamel](https://github.com/odensc/karamel) - Replace YouTube Comments with Reddit Comments
+* [Upvote Anywhere](https://github.com/z0ccc/comet) or [Karamel](https://github.com/odensc/karamel) - Replace YouTube Comments with Reddit Comments
 * [Kament](https://kament.io/) - Add Comments Sections on Comment Disabled Videos
 * [Timestamped YouTube Comments](https://chrome.google.com/webstore/detail/timestamped-youtube-comme/gnpppldhfbbagiaalkddddajadhlgofm) - View Timestamped Comments
 * [TabView YouTube](https://greasyfork.org/en/scripts/428651) - View Comments / Info in Tab View
@@ -1513,7 +1508,7 @@
 * [Recover My Video](https://www.recovermy.video/) - Recover Titles of Deleted / Private YouTube Videos
 * [Hobune](https://hobune.stream/), [FindYouTubeVideo](https://findyoutubevideo.thetechrobo.ca/) or [youtubecrawl](https://archive.org/details/youtubecrawl) - YouTube Video Archives
 * [myTube](https://apps.microsoft.com/store/detail/mytube/9WZDNCRCWF3L) - Bloat Free YouTube Client
-* [TwitchTheater](https://twitchtheater.tv/)[VidGrid](https://vidgrid.tk.gg/), [YouTube Multiplier](http://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
+* [TwitchTheater](https://twitchtheater.tv/)[VidGrid](https://vidgrid.tk.gg/), [YouTube Multiplier](https://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - Watch Multiple YouTube Videos
 * [Campfire](https://campfire.gg), [Walrus](https://joinwalrus.tv/), [SyncTube](https://synctube.xyz/), [Sync-Tube](https://sync-tube.de/) or [Hergetto](https://hergetto.live/) - YouTube Watch Parties
 * [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer) - Video Web Player
 * [Youtube Livestream Theatre](https://gitlab.com/-/snippets/2099898) - Twitch-style Theatre mode for YouTube Live
@@ -1640,11 +1635,10 @@ Twitch Stream Tracker
 * [Tweak New Twitter](https://github.com/insin/control-panel-for-twitter) or [twttr](https://github.com/sr2echa/twttr) - Twitter Enhancement Extensions
 * [TweetDuck](https://github.com/chylex/TweetDuck) - Twitter Desktop Client
 * [Twitter Plus](https://greasyfork.org/en/scripts/387969) - View Twitter Origin Images
-* [Social Searcher](https://www.social-searcher.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - Search Twitter
+* [Social Searcher](https://www.social-searcher.com/) - Search Twitter
 * [TwitLonger](https://www.twitlonger.com/) - Make Longer Tweets
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [TwitHelper](https://twithelper.com/) - Create Twitter Post Images
-* [Tall Tweets](https://talltweets.com/) - Turn Presentations into Twitter GIFs
 * [Tweetgen](https://www.tweetgen.com/) or [FakeTweetMaker](https://www.faketweetmaker.com/) - Create Fake Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chrome.google.com/webstore/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
 * [Thread Reader App](https://threadreaderapp.com/) - Unroll Twitter Threads / Search
@@ -1656,7 +1650,7 @@ Twitch Stream Tracker
 * [TagGPT](https://tagsgpt.com/) - Hashtag Generator
 * [Buhitter](https://buhitter.com/) - Twitter Illustration Search
 * [TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) - Twitter Media Downloader
-* [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [TwitterVid](https://twittervid.com/) or [sssTwitter](https://ssstwitter.com/) - Download Twitter Videos
+* [GetVideoBot](https://twitsave.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [TwitterVid](https://twittervid.com/) or [sssTwitter](https://ssstwitter.com/) - Download Twitter Videos
 * [memory.lol](https://github.com/travisbrown/memory.lol/) - Twitter Account Archive
 * [Twitter Archive Parser](https://github.com/timhutton/twitter-archive-parser) - Tweet Archiving
 * [Twitual](http://twitual.com/) - Follower / Following Analysis
@@ -1934,10 +1928,10 @@ Twitch Stream Tracker
 * [Modern Flyouts](https://apps.microsoft.com/store/detail/modernflyouts-preview/9MT60QV066RP) - Modern Context Menus / [GitHub](https://github.com/ModernFlyouts-Community/ModernFlyouts)
 * [WindowFX](https://www.stardock.com/products/windowfx/) - System Animation Effects
 * [BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10 Search Appearance Tweaker
-* [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) or [Valaut](http://www.valaut.phpnet.us/) - Taskbar Customization Tools
+* [Taskbar Tweaker](https://tweaker.ramensoftware.com/), [NiceTaskbar](https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5) - Taskbar Customization Tools
 * [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) - Modify Windows 11 Taskbar
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Translucent Windows Taskbar 
-* [RoundedTB](https://github.com/Erisa/RoundedTB) - Rounded Taskbar Corners
+* [RoundedTB](https://github.com/RoundedTB/RoundedTB) - Rounded Taskbar Corners
 * [TaskbarX](https://chrisandriessen.nl/taskbarx/) - Change Taskbar Icon Positions 
 * [WinCenterTile](https://github.com/valinet/WinCenterTitle) - Center Windows Titlebar Text
 * [RetroBar](https://github.com/dremin/RetroBar) - Retro Classic Taskbars
@@ -2082,7 +2076,7 @@ Twitch Stream Tracker
 * [FileConverto](https://fileconverto.com/), [AiseeSoft](https://aiseesoft.com/) or [TinyWow](https://tinywow.com/) - Multiple File Tools
 * [horsicq](https://horsicq.github.io/) - Multiple File Programs / [GitHub](https://github.com/horsicq/)
 * [Pandoc](https://pandoc.org/) or [CometDocs](https://www.cometdocs.com/) - Document Converter
-* [Interior Generator](https://powerkdp.com/interior-generator/) / [2](https://designer.bookbolt.io/interior-generator.php) - Document Interior Generator
+* [Interior Generator](https://powerkdp.com/interior-generator/) - Document Interior Generator
 * [ConvertCSV](https://www.convertcsv.com/) - CSV Data Conversion
 * [Encoding Converter](https://encoding-converter.netlify.app/) - File Encoding Converter
 * [Deark](https://entropymine.com/deark/) - Decode and Convert Files / [GitHub](https://github.com/jsummers/deark)
@@ -2134,13 +2128,13 @@ Twitch Stream Tracker
 * [Mega-Downloader](https://github.com/ZonD80/mega-downloader) - Mega Download Script
 * [Mega.nz-Rclone-Index-Heroku](https://github.com/developeranaz/Mega-index-heroku) - Mega to HTTP
 * [Keep Mega Alive](https://github.com/3ncod3/keep-mega-alive) - Mega Account Auto-Login
-* [MegaKeep](https://github.com/xCryptic/MegaKeep) - Login to Multiple Mega Accounts
+* [MegaKeep](https://github.com/maybecryptic/MegaKeep) - Login to Multiple Mega Accounts
 * [mega-account-generator](https://github.com/lem6ns/mega-account-generator), [2](https://github.com/crackhub-dev/mega-account-generator) - Mega Account Generators
 * [Mega Checker](https://github.com/Titoot/mega-checker) - Mega Link Checker
 * [Unlimited Mega Storage](https://redd.it/ffrkf3) - Unlimited Mega Storage Guide
 * [Mega-index-heroku](https://github.com/developeranaz/Mega-index-heroku) - Serve Mega to HTTP via Heroku
 * [GDrive Guides](https://t.me/gdriveguides) - GDrive Guides / Discussion / [Support](https://t.me/CloneSupport)
-* [Any File to GDrive](https://github.com/menukaonline/Any-file-to-Google-Drive) or [Bhadoo Cloud Drive](https://github.com/adarshaketh/Bhadoo-Cloud-Drive) - DDL to GDrive Tool
+* [Any File to GDrive](https://github.com/menukaonline/Any-file-to-Google-Drive) - DDL to GDrive Tool
 * [DriveUploader](https://driveuploader.com/) - Receive Files via GDrive
 * [rcrypt](https://rentry.co/rcrypt) - File to GDrive Encrypted Backup Guide
 * [GDriveCLI](https://github.com/prasmussen/gdrive) or [ODrive](https://liberodark.github.io/ODrive/) - GDrive CLI
