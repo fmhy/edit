@@ -574,7 +574,8 @@
 
 # ► Mac Software
 
-* [AppsTorrent](https://appstorrent.ru/)
+* ⭐ [AppsTorrent](https://appstorrent.ru/) - Account needed for some apps (eg. CleanMyMac X)
+* [AllMacWorlds](https://allmacworlds.com)
 * [Macintosh Garden](http://macintoshgarden.org/)
 * [nMac](https://nmac.to/)
 * [MacBed](https://www.macbed.com/)
