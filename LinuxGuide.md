@@ -574,7 +574,7 @@
 
 # ► Mac Software
 
-* ⭐ [AppsTorrent](https://appstorrent.ru/) - Account needed for some apps (eg. CleanMyMac X)
+* ⭐ [AppsTorrent](https://appstorrent.ru/) - Russian UI, Account needed for some apps (eg. CleanMyMac X)
 * [AllMacWorlds](https://allmacworlds.com)
 * [Macintosh Garden](http://macintoshgarden.org/)
 * [nMac](https://nmac.to/)
