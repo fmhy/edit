@@ -977,8 +977,9 @@
 * [SAT Reading](https://rentry.co/satreading) - Suggested SAT Reading
 * [SAT_Files_discussion](https://t.me/SAT_Files_discussion) - SAT Exam Discussion
 * [Examveda](https://www.examveda.com/), [SaveMyExams](https://www.savemyexams.co.uk/) or [Aglasem](https://aglasem.com/) - Exam Practice
-* [MajorTests](https://www.majortests.com/) - Practice Tests
+* [MajorTests](https://www.majortests.com/)- Practice Tests
 * [CrackAP](https://www.crackap.com/) - Practice AP Exams
+* [AllFreeDumps](https://www.allfreedumps.com/) - Exam Dumps
 * [IndiaBIX](https://www.indiabix.com/) - Aptitude Tests
 * [/r/ApStudents Resources](https://github.com/nbats/FMHYedit/blob/main/base64.md#rapstudents-resources) - Former AP Exams
 * [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
