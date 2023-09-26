@@ -574,7 +574,7 @@
 
 # ► Mac Software
 
-* [AppsTorrent](https://appstorrent.ru/)
+* ⭐ **[AppsTorrent](https://appstorrent.ru/)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * [Macintosh Garden](http://macintoshgarden.org/)
 * [nMac](https://nmac.to/)
 * [MacBed](https://www.macbed.com/)
@@ -582,6 +582,7 @@
 * [Macupdate](https://www.macupdate.com/)
 * [Cmacked](https://cmacked.com/)
 * [Mac Torrents](https://www.torrentmac.net/)
+* [AllMacWorlds](https://allmacworlds.com/)
 * [InsMac](https://insmac.org/)
 * [MacX](https://macx.ws/)
 * [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
