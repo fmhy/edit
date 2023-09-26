@@ -26,6 +26,7 @@
 * ⭐ **[Streaming CSE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_streaming_site_cse)** - Multi-Site Search
 * [M4uFree](https://ww2.m4ufree.com/) - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m4ufree_clones)
 * [MovieScene](https://moviescene.cc/) - Movies / TV / 4K / 1080p
+* [Filmxy](https://www.filmxy.vip/) - Movies / TV / Anime / 1080p
 * [NetFilm](https://netfilm.app/) - Movies / TV / Anime / 1080p
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
 * [WatchSeries 2.0](https://watchseriess.io/), [2](https://watchmovie.ac/) - Movies / TV / Anime / 1080p
@@ -85,7 +86,6 @@
 * [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime / 1080p
 * [UltraMovies](https://ultramovies.net/) - Movies / TV / 1080p
 * [UniqueStream](https://uniquestream.net/) - Movies / TV / 1080p
-* [NFMirror](https://netflixmirror.com/home) - Movies / TV / 1080p
 * [English Movies](https://m.vk.com/english_movies) - Movies / 1080p
 * [Rewatch](https://rewatch.to/) - Movies / TV / 1080p
 * [aflaam](https://aflaam.com/) - Movies / TV / 1080p / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -193,6 +193,7 @@
 * [Classic Cinema Online](https://classiccinemaonline.com/), [ClassixApp](https://www.classixapp.com/), [BnWMovies](https://bnwmovies.com/), [The Classic Movies](https://www.the-classic-movies.com/), [RetroFlix](https://retroflix.org/) or [Dumb Classic Movies](https://www.dumb.com/movies/) - Classic Films
 * [TheFilmDetective](https://www.thefilmdetective.com/) - Classic Films / TV
 * [RetroVision Media](https://www.retrovisionmedia.com/) - Retro / Classic Films
+* [RetroStrange](https://live.retrostrange.com/) - Live Retro Streams
 * [horror.watch](https://horror.watch/) - Classic Horror Films / May Need [OpenVideo](https://openvideofs.github.io)
 * [Silent Hall of Fame](https://silent-hall-of-fame.org/) - Silent Films
 * [Wu Tang Collection](https://www.thewutangcollection.com/) - Martial Arts Films
@@ -281,7 +282,6 @@
 * ⭐ **[AniWatch](https://aniwatch.to/)**, [2](https://4anime.gg/), [3](https://kaido.to/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/RRaf5JkkKu) / [Auto-Focus](https://greasyfork.org/en/scripts/464019) / [Mirrors](https://zoroanime.net/)
 * ⭐ **[AniWave](https://aniwave.to/)** - Sub / Dub / 1080p / [Mirrors](https://9anime.me/) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher) / [Ad Scripts](https://redd.it/c330dx)
 * ⭐ **[AllAnime](https://allanime.to/)** - Sub / Dub / 1080p
-* ⭐ **[marin.moe](https://marin.moe)** - Sub / Dub / 1080p / Blu-Ray
 * ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / 1080p / Mini Encoded Blu-Ray / [Downloader](https://github.com/KevCui/animepahe-dl)
 * ⭐ **[KickAssAnime](https://kickassanime.am/)** - Sub / Dub / 1080p / [Mirrors](https://kickassanimes.info/) / [Discord](https://discord.com/invite/kaa)
 * ⭐ **[Animension](https://animension.to/)** - Sub / Dub / 1080p
@@ -401,7 +401,8 @@
 * ⭐ **[SoccerCatch](https://soccercatch.com/)** - Soccer
 * ⭐ **[WatchWrestling24](https://watchwrestling24.net/)** - MMA / Wrestling
 * ⭐ **[WatchWrestlingUp](https://watchwrestlingup.live/)** - MMA / Wrestling
-* ⭐ **[F1 Full Races](https://f1fullraces.com/)** - F1
+* ⭐ **[Race Replay](https://racereplay.net/)** - Motorsports
+* [SportsReplay](https://discord.com/invite/2r4pj67gCv) - Sports
 * [FootballOrigin](https://www.footballorgin.com/) - Soccer
 * [Footballia](https://footballia.net/) - Soccer
 * [Footyfull](https://footyfull.com/) - Soccer
@@ -410,15 +411,16 @@
 * [WatchWrestling.ae](https://watchwrestling.ae/) - MMA / Wrestling
 * [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling
 * [WatchWrestlingOnline](https://watchwrestlingonline.net/) - MMA / Wrestling
+* [FullFights](https://fullfights.net/) - MMA / Wrestling
 * [Full Fights](https://fullfights.net/) - MMA
 * [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing
-* [SportsReplay](https://discord.com/invite/2r4pj67gCv) - [F1](https://racereplay.net/) / [MMA](https://fullfights.net/)
 * [Hula8](https://www.hula8.net/) - MMA
 * [Bellator](https://www.bellator.com/video) - MMA
 * [MMACore](https://www.mma-core.com) - MMA
 * [BoxingBoxingvideoideo](https://boxingvideo.org/) - Boxing
 * [AllTheBestFights](https://www.allthebestfights.com/) - MMA / Boxing / K1
 * [/r/MotorsportsReplays](https://reddit.com/r/MotorsportsReplays) - Motorsports
+* [F1 Full Races](https://f1fullraces.com/) - F1
 
 ***
 
@@ -830,7 +832,7 @@
 * [My Episodes](https://www.myepisodes.com/) - TV
 * [Movieo](https://movieo.me/) - Movies / TV / Anime
 * [AllMovie](https://www.allmovie.com/) - Movies / TV / Anime
-* [Episode Calender](https://episodecalendar.com/) - TV Calendar / [Torrent Links](https://greasyfork.org/en/scripts/27367)
+* [Episode Calender](https://episodecalendar.com/) or [Next Episode](https://next-episode.net/) - TV Schedules / [Torrent Links](https://greasyfork.org/en/scripts/27367)
 * [dunno](https://m-dunno.netlify.app/) - Movies / TV
 * [showRSS](https://showrss.info/)  - RSS / TV
 * [AniChart](https://anichart.net), [Monthly](https://www.monthly.moe/), [AnimeSchedule](https://animeschedule.net/), [Anica](https://anica.jp/), [AnimeCountdown](https://animecountdown.com/), [Senpai](https://www.senpai.moe/) or [LiveChart](https://www.livechart.me/) - Anime Release Charts
