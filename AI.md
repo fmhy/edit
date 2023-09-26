@@ -167,6 +167,7 @@
 * [NaNAI.tools] (https://nanai.tools) - AI Directory
 * [SuperTools](https://supertools.therundown.ai/) - AI Directory
 * [GPTE](https://gpte.ai/) - AI Directory
+* [EasyWithAI](https://easywithai.com/) - AI Directory
 * [Toolspedia](https://www.toolspedia.io/) - AI Directory
 * [Hayo](https://www.hayo.com/tools) - AI Directory
 * [TheCrazyTool](https://www.thecrazytool.com/) - AI Directory
