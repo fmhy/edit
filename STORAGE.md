@@ -2169,9 +2169,9 @@ Add the following commands to a search to manually scrape each site.
 
 #### Resume Makers
 
-* ⭐ **[RX Resume](https://rx-resume.web.app/)**
+* ⭐ **[RX Resume](https://rxresu.me/)**
 
-[cvmkr](https://cvmkr.com/), [resumonk](https://www.resumonk.com/), [ceev](https://ceev.io/), [creddle](http://creddle.io/), [flowcv](https://flowcv.com/), [cv2you](https://cv2you.com/), [cvservant](https://cvservant.com/cv/), [resume-nation](https://resume-nation.github.io/), [sajilocv](https://sajilocv.com/), [resumemaker](https://www.resumemaker.online/), [intelligentcv](https://www.intelligentcv.app/), [cakeresume](https://www.cakeresume.com/), [resumgo](https://www.resumgo.com/), [Reactive Resume](https://rxresu.me/), [resumake](https://latexresu.me/), [Covered](https://covered.works/), [open-resume](https://www.open-resume.com/), [rxresu.me](https://rxresu.me/), [novoresume](https://novoresume.com/)
+[cvmkr](https://cvmkr.com/), [resumonk](https://www.resumonk.com/), [ceev](https://ceev.io/), [creddle](http://creddle.io/), [flowcv](https://flowcv.com/), [cv2you](https://cv2you.com/), [cvservant](https://cvservant.com/cv/), [resume-nation](https://resume-nation.github.io/), [sajilocv](https://sajilocv.com/), [resumemaker](https://www.resumemaker.online/), [intelligentcv](https://www.intelligentcv.app/), [cakeresume](https://www.cakeresume.com/), [resumgo](https://www.resumgo.com/), [resumake](https://latexresu.me/), [Covered](https://covered.works/), [open-resume](https://www.open-resume.com/), [novoresume](https://novoresume.com/)
 
 ***
 
