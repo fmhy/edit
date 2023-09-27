@@ -1122,7 +1122,7 @@
 * ⭐ **[Multiplayer Fixes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multiplayer_fixes)** - Play Pirated Multiplayer Games Online
 * ⭐ **[TrackyServer](https://www.trackyserver.com/)** - Find Private Multiplayer Servers
 * ⭐ **[Find-PlayDate](https://www.find-playdate.com/)** - Find People to Play Games With
-* [Blitz.gg](https://blitz.gg/) - Post Match Performance Analyzer / [Adblocker](https://kandi.openweaver.com/javascript/lulzsun/blitz-app-adblock), [2](https://github.com/lulzsun/blitz-app-adblock)
+* [Blitz.gg](https://blitz.gg/) - Post Match Performance Analyzer
 * [DiIiS](https://github.com/blizzless/blizzless-diiis) - Open-Source Diablo III Local Server
 * [Server.pro](https://server.pro/) - Game Server Hosting
 * [Streamer Mode](https://github.com/taskinoz/Streamer-Mode) - Hide Player Names to Avoid Stream Sniping
