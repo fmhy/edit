@@ -34,7 +34,8 @@
 * [Ethio Tech](https://gpt3.ethio-tech.com/) - GPT-3 Based Chatbot
 * [JackChat](https://www.jackchat.ai/) - GPT-3 Based Chatbot
 * [iAsk](https://iask.ai/) - GPT-3 Q&A AI
-
+* [Broken Bear](https://www.brokenbear.com/) - Vent to a GPT-J Teddy Bear AI for free, online, and anonymously
+  
 ***
 
 ## ▷ Open-Source Bots
