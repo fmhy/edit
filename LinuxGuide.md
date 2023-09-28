@@ -25,7 +25,7 @@
 * [Mistborn](https://gitlab.com/cyber5k/mistborn) - Manage Cloud Security Apps
 * [OpenSnitch](https://github.com/evilsocket/opensnitch) or [gufw](https://github.com/costales/gufw) - Linux Firewalls
 * [Tracee](https://github.com/aquasecurity/tracee) - Runtime Security and Forensics
-* [Mofolinux](https://mofolinux.com/), [Tails](https://tails.boum.org/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - Privacy-Based Linux Operating System
+* [Mofolinux](https://mofolinux.com/), [Tails](https://tails.boum.org/) or [Kodachi](https://www.digi77.com/linux-kodachi/) - Privacy-Based Operating System
 * [OpenVPN Wrapper](https://github.com/slingamn/namespaced-openvpn) - VPN Tunnel
 * [Openconnect VPN Server](http://ocserv.gitlab.io/www/index.html) - Linux SSL VPN Server
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker with Torrent client and VPN on Arch Linux base
@@ -45,7 +45,9 @@
 
 ## ▷ Linux System
 
-* ⭐ **[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_distros)** - Download Linux Distros
+* 🌐 **[Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome)** - GNOME Resources
+* ↪️ **[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_distros)**
+* ↪️ **[ChromeOS Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chromeos_tools)**
 * ⭐ **[Linux.Chat](https://discord.gg/linuxchat)**, [Linux x Technology](https://linuxdiscord.com/), [Ezlinux](https://ezlinux.net/) or [Discord-Linux](https://discord.gg/discord-linux) - Linux Discussion / Forums
 * ⭐ **[Archwiki](https://wiki.archlinux.org/)** - Arch Linux Wiki / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
 * ⭐ **[Ventoy](https://github.com/ventoy/Ventoy)** - Create Bootable USB Linux Drives
@@ -66,9 +68,7 @@
 * [Linux Heads](https://osresearch.net/) - Minimal CoreBoot / [GitHub](https://github.com/osresearch/heads)
 * [GParted](https://gparted.org/) - Partition Manager
 * [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus), [archinstall](https://github.com/archlinux/archinstall) or [Anarchy](https://anarchyinstaller.gitlab.io/) - Arch Linux Installer
-* [Awesome Gnome](https://github.com/Kazhnuz/awesome-gnome) - GNOME Distro Resources
 * [Pop!_OS Shell](https://github.com/pop-os/shell) - Pop-Shell for GNOME
-* [ChromeOS Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chromeos_tools) - Chrome OS / Chromebook Tools
 * [OneClickDesktop](https://github.com/Har-Kuun/OneClickDesktop) - One-Click Remote Desktop
 * [InstantBox](https://github.com/instantbox/instantbox) - Temporary Linux Systems
 * [CoreELEC](https://github.com/CoreELEC/CoreELEC) or [LibreELEC](https://libreelec.tv/) - Kodi-Based Operating System
@@ -96,9 +96,9 @@
 
 ## ▷ Linux Apps
 
-* ⭐ **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
+* 🌐 **[Linux File Backup](https://github.com/restic/others)** - File Backup App List
+* ↪️ **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
 * ⭐ **[mpv](https://mpv.io/)** - Video Player / [Frontend](https://github.com/celluloid-player/celluloid)
-* ⭐ **[List of Backup Software](https://github.com/restic/others)** - Linux Backup Solutions
 * ⭐ **[WineHQ](https://appdb.winehq.org/)** - Wine Compatibility Database
 * ⭐ **[Q4Wine](https://sourceforge.net/projects/q4wine/)** - Wine GUI
 * [winapps](https://github.com/Fmstrat/winapps), [Cassowary](https://github.com/casualsnek/cassowary), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - Run Windows Apps on Linux
@@ -189,16 +189,14 @@
 
 ## ▷ Linux Internet
 
-* ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)** or [Sharing](https://github.com/parvardegr/sharing) - Sync Files Between Phone / Desktop
-* ⭐ **[syncthing](https://syncthing.net/)** or [portal](https://github.com/SpatiumPortae/portal) - File Sync
+* ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)**, [syncthing](https://syncthing.net/), [portal](https://github.com/SpatiumPortae/portal) or [Sharing](https://github.com/parvardegr/sharing) - File Sync Apps
 * ⭐ **[Soulseek](https://www.slsknet.org/SoulseekQt/Linux/SoulseekQt-2018-1-30-64bit-appimage.tgz)** - File Sharing App
 * ⭐ **[TorrFlix](https://github.com/infinity-plus/TorrFlix)** - Torrent Streaming CLI
-* ⭐ **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)**, **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](https://bitflu.workaround.ch/), [Torrentor](https://github.com/guidopola/torrentor) or [kTorrent](https://apps.kde.org/ktorrent/) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Clients
-* ⭐ **[qBittorrent Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)**
+* ⭐ **[qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Installing-qBittorrent#linux)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools), **[rTorrent](https://rakshasa.github.io/rtorrent/)** / [2](https://github.com/rakshasa/rtorrent), [BitFlu](https://bitflu.workaround.ch/), [Torrentor](https://github.com/guidopola/torrentor) or [kTorrent](https://apps.kde.org/ktorrent/) / [2](https://invent.kde.org/network/ktorrent) - Linux Torrent Clients
 * [RuTorrent](https://github.com/Novik/ruTorrent) or [flood](https://flood.js.org/) - RTorrent Web Frontend / [Themes](https://github.com/InAnimaTe/rutorrent-themes), [2](https://github.com/artyuum/3rd-party-ruTorrent-Themes)
 * rTorrent Tools - [Extended](https://github.com/pyroscope/rtorrent-ps) / [Tools](https://github.com/pyroscope/pyrocore) / [Mods](https://calomel.org/rtorrent_mods.html) / [All Seeders Column](https://github.com/AkdM/rutorrent-all-seeders) / [Docker Build](https://github.com/binhex/arch-rtorrentvpn)
 * [Luakit](https://luakit.github.io/) - Lightweight Linux Browser 
-* [browsh](https://www.brow.sh/) - Text based Browser
+* [browsh](https://www.brow.sh/) - Text Based Browser
 * [Thorium](https://thorium.rocks/) - Chromium-Based Browser / [GitHub](https://github.com/Alex313031/Thorium)
 * [aerc](https://aerc-mail.org/), [ElectronMail](https://github.com/vladimiry/ElectronMail) or [dodo](https://github.com/akissinger/dodo) - Email Clients
 * [pass](https://www.passwordstore.org/) - Unix Password Manager 
@@ -256,9 +254,10 @@
 
 ## ▷ Terminal / Shell
 
-* ⭐ **[Linux Shells](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_command_line_shells)** or [Modern Unix](https://github.com/ibraheemdev/modern-unix) - Alternative Command Line Shells
-* ⭐ **[Awesome-shell](https://github.com/alebcay/awesome-shell)**, [tldr](https://github.com/tldr-pages/tldr/), [AltBox](https://altbox.dev/) or [LinuxTools](https://github.com/rendick/LinuxTools) - Linux Shell Tools
-* ⭐ **[Awesome TUIs](https://github.com/rothgar/awesome-tuis)** - Terminal User Interface Applications Index
+* 🌐 **[Awesome-shell](https://github.com/alebcay/awesome-shell)**, [tldr](https://github.com/tldr-pages/tldr/), [AltBox](https://altbox.dev/) or [LinuxTools](https://github.com/rendick/LinuxTools) - Linux Shell Resources
+* 🌐 **[Awesome TUIs](https://github.com/rothgar/awesome-tuis)** - List of TUIs
+* 🌐 **[awesome-for-oneliner](https://github.com/sheepla/awesome-for-oneliner)**, [Helmanual](https://helpmanual.io/), [Linux Command Library](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcommandbibliotheca) or  [CommandlineFU](https://www.commandlinefu.com/) - Unix Commands
+* ↪️ **[Linux Shell Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_command_line_shells)** or [Modern Unix](https://github.com/ibraheemdev/modern-unix)
 * ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)**, [nnn](https://github.com/jarun/nnn), [clifm](https://github.com/leo-arch/clifm), [fm](https://github.com/mistakenelf/fm), [Joshuto](https://github.com/kamiyaa/joshuto), [gdu](https://github.com/dundee/gdu) or [NCDU](https://github.com/rofl0r/ncdu) - Terminal File Manager / Disk Usage Analyzers
 * ⭐ **[Alacritty](https://github.com/alacritty/alacritty)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, [Simple Terminal](https://st.suckless.org/), [yakuake](https://apps.kde.org/yakuake/), [emacs-eat](https://codeberg.org/akib/emacs-eat) or [tabby](https://tabby.sh/) - Terminal Emulators
 * [utils](https://github.com/Loupeznik/utils) or [UsefulLinuxShellScripts](https://github.com/jackrabbit335/UsefulLinuxShellScripts) - Linux Shell Tool Scripts
@@ -275,7 +274,6 @@
 * [zx](https://github.com/google/zx) - Javascript Bash
 * [Basher](https://www.basher.it/) - Bash Script Package Manager
 * [hush](https://github.com/hush-shell/hush) - Unix Shell
-* [Helmanual](https://helpmanual.io/), [Linux Command Library](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcommandbibliotheca), [CommandlineFU](https://www.commandlinefu.com/) or [awesome-for-oneliner](https://github.com/sheepla/awesome-for-oneliner) - Unix Commands
 * [Extension Manager](https://github.com/mjakeman/extension-manager) - GNOME Shell Extensions 
 * [Distrobox](https://github.com/89luca89/distrobox) - Use Distros via Terminal
 * [htop](https://htop.dev/) - Interactive Process Viewer / [GitHub](https://github.com/htop-dev/htop)
@@ -298,8 +296,8 @@
 
 ## ▷ Customization
 
-* ⭐ **[Linux Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_themes)** - Themes for Linux
-* ⭐ **[Ricepedia](https://rizonrice.club/Main_Page)** - Linux Ricing Tools
+* 🌐 **[Ricepedia](https://rizonrice.club/Main_Page)** - Linux Ricing Tools
+* ↪️ **[Linux Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_themes)** - Themes for Linux
 * [ricemood](https://github.com/fhadiel/ricemood) or [wpgtk](https://deviantfero.github.io/wpgtk) - Fully Customizable Unix Color Schemer
 * [Akira](https://github.com/akiraux/Akira) - UI/UX Customization
 * [Kvantum](https://github.com/tsujan/Kvantum) - Linux QT / KDE Theme Engine
@@ -318,13 +316,10 @@
 
 # ► Linux Software
 
-* ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
-* ⭐ **[Open Source Linux Programs](https://i.ibb.co/KyTkKHz/ae00a5177857.png)**
+* 🌐 **[Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/)**, [Awesome-Linux-Software](https://github.com/crackerica/Awesome-Linux-Software) or [Awesome KDE](https://github.com/francoism90/awesome-kde) - FOSS Software / [Image](https://i.ibb.co/KyTkKHz/ae00a5177857.png)
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[RuTracker](https://rutracker.org/forum/viewforum.php?f=1381)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
-* [Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/), [2](https://github.com/inputsh/awesome-linux)
-* [Awesome-Linux-Software](https://github.com/crackerica/Awesome-Linux-Software)
-* [Awesome KDE](https://github.com/francoism90/awesome-kde)
+* ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [Ultimate Cheatsheet](https://gist.github.com/bgoonz/be5c5be77169ef333b431bc37d331176)
 * [ArchWiki List of Applications](https://wiki.archlinux.org/title/list_of_applications)
@@ -348,6 +343,7 @@
 
 # ► Linux Gaming
 
+* 🌐 **[Awesome-ttygames](https://github.com/ligurio/awesome-ttygames)** - Unix ASCII Games
 * ⭐ **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** / [2](https://web.archive.org/web/20221022121735/https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?context=3) - Linux Gaming Guides
 * ⭐ **[protondb](https://www.protondb.com/)**, **[Lutris](https://lutris.net/)** or [Proton](https://github.com/ValveSoftware/Proton) - Play Windows games on Linux
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
@@ -369,7 +365,6 @@
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Epic Games Launcher
 * [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - GOG Client
 * [proton-gog-install](https://github.com/myyc/proton-gog-install) - Windows to Linux GOG Game Installer
-* [Unix ASCII Games](https://github.com/ligurio/awesome-ttygames) - Unix ASCII Games
 * [CWordle](https://github.com/velorek1/cwordle) - Wordle in Unix Terminal 
 * [NVBurner](https://github.com/iloveichigo/NVBurner) or [CoreCTRL](https://gitlab.com/corectrl/corectrl) - Overclocking Tool
 * [dxvk](https://github.com/doitsujin/dxvk) - D3D9, D3D10 and D3D11 for Linux / Wine
@@ -393,17 +388,18 @@
 
 # ► Mac Tools / Apps
 
+* 🌐 **[gibMacOS](https://github.com/corpnewt/gibMacOS)** or [OldSchoolOS](https://www.oldschoolos.com/) - Download MacOS
+* ↪️ **[Mac Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
 * ⭐ **[Readdle](https://readdle.com/documents)** - Multipurpose File Tool
-* ⭐ **[The Unarchiver](https://theunarchiver.com/)**, [unxip](https://github.com/saagarjha/unxip) or [Keka](https://www.keka.io/) - File Archiver / Unzipper
+* ⭐ **[The Unarchiver](https://theunarchiver.com/)**, [unxip](https://github.com/saagarjha/unxip) or [Keka](https://www.keka.io/) - File Archivers
 * ⭐ **[qBittorrent](https://www.qbittorrent.org/)** - Torrent Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)
-* ⭐ **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
+* ⭐ **[NearDrop](https://github.com/grishka/NearDrop)** or [maestral](https://maestral.app/) - File Sharing Apps
 * ⭐ **[shottr](https://shottr.cc/)** or [MagicCap](https://magiccap.me/) - Screenshot Tool
 * ⭐ **[Aptonic](https://aptonic.com/)** - Mac Productivity App
 * ⭐ **[Alfred](https://www.alfredapp.com/)** or [Raycast](https://www.raycast.com/) - Keystroke Launchers 
 * ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/) or [ShortcutKeeper](https://shortcutkeeper.com/) - Custom Keyboard Shortcuts
 * ⭐ **[alt-tab-macos](https://alt-tab-macos.netlify.app/)** - Alt-Tab for Mac
 * ⭐ **[Fantastical](https://flexibits.com/fantastical)** - Calendar
-* [gibMacOS](https://github.com/corpnewt/gibMacOS) - Download MacOS
 * [Advanced MacOS Commands](https://saurabhs.org/advanced-macos-commands) - Advanced Command-Line Tools
 * [AnimeNow](https://github.com/AnimeNow-Team/AnimeNow) or [Novee](https://github.com/ZhichGaming/Novee) - Anime Streaming Apps
 * [DMHY](https://github.com/yaqinking/DMHY) - Anime Torrent Autodownloader 
@@ -431,14 +427,12 @@
 * [Progress](https://github.com/Xfennec/progress) - Show Copied Data Progress
 * [DPCIManager](https://github.com/MuntashirAkon/DPCIManager) - PCI Hardware Info 
 * [Clean-Me](https://kevin-de-koninck.github.io/Clean-Me/) - MacOS System Cleanup
-* [OpenSourceApple](https://opensource.apple.com/) - System Tools
 * [What Route](https://whatroute.net/) - Network Diagnostic Tool
 * [Windows 10 MBR](https://github.com/toru173/Windows-10-MBR-USB-Creation-Tool) or [Create Bootable](https://taig.medium.com/create-a-bootable-windows-10-usb-from-macos-395773d4782e) - Windows 10 Media Creation Tool
 * [Kexts](https://www.tonymacx86.com/resources/categories/kexts.11/) - UEFI Kexts
 * [File Find](https://gitlab.com/Pixel-Mqster/File-Find) - File Explorer / Manager
 * [Download Shuttle](https://apps.apple.com/in/app/download-shuttle-fast-file/id847809913) or [Progressive Downloader](https://macpsd.net/) - File Download Manager
 * [AirDrop to Windows](https://redd.it/vthltc) - AirDrop to Windows Guide
-* [maestral](https://maestral.app/) or [NearDrop](https://github.com/grishka/NearDrop) - File Sharing Apps
 * [Adobe Creative Cloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#mac-adobe-cc) - Adobe CC Guides
 * [Adobe Packager](https://github.com/Drovosek01/adobe-packager) - Adobe Portable Installer Script
 * [ss64 OSX](https://ss64.com/osx/) - MacOS Bash Commands
@@ -494,7 +488,6 @@
 * [Plash](https://github.com/sindresorhus/Plash) - Use Website as Wallpaper
 * [100 macOS Screensavers](https://github.com/bjdehang/100-macos-screensavers) - Minimalist Screensavers
 * [DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) or [ThemeKit](https://github.com/luckymarmot/ThemeKit) - System Dark Mode Apps
-* [OldSchoolOS](https://www.oldschoolos.com/) - Old MacOS ISOs
 * [Bootcamp Drivers](https://bootcampdrivers.com/) - Mac Bootcamp AMD Drivers
 * [IINA](https://iina.io/) - Video Player
 * [Gifski](https://sindresorhus.com/gifski) - Image to GIF Converter / [GitHub](https://github.com/sindresorhus/Gifski)
@@ -519,7 +512,6 @@
 * [AnimeBox](https://www.animebox.es/) - Booru Client
 * [Hachidori](https://malupdaterosx.moe/hachidori/) - Automatically Update MAL/Anilist/Kitsu Lists
 * [Magit!](https://magit.vc/) - Git Text-Based UI
-* [Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_code_editors) - Code Editing Apps
 * [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
 * [NHCalc](https://github.com/KhaosT/nhcalc) - Compute Image NeuralHash
 * [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert NeuralHash for CSAM Detection to ONNX / [Collision Finder](https://github.com/anishathalye/neural-hash-collider)
@@ -539,10 +531,10 @@
 
 ## ▷ Adblock / Privacy
 
+* 🌐 **[Awesome OSX Security](https://github.com/ashishb/osx-and-ios-security-awesome)** - Mac Security Resources
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
-* ⭐ **[System Wide Adblocking](https://champagne.pages.dev/before-you-begin/important-tools/)** / [2](https://redd.it/oyfmr1) - System Wide Adblocking Guides
+* ⭐ **[System Wide Adblocking](https://champagne.pages.dev/before-you-begin/important-tools/)** - System Wide Adblocking Guide
 * ⭐ **[SpotX-Bash](https://github.com/jetfir3/SpotX-Bash)**, [Spotify Adblock Guide](https://redd.it/y2zt58) or [Mac_Spotify_Adblock](https://github.com/Devanshu-17/Mac_Spotify_Adblock) - Spotify Adblockers
-* [MacOS Security Tools](https://github.com/ashishb/osx-and-ios-security-awesome) - Mac Security Tools
 * [MacOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [Sentinel](https://getsentinel.io/) - Two-Factor Authentication
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
@@ -574,7 +566,10 @@
 
 # ► Mac Software
 
+* 🌐 **[Awesome MacOS](https://github.com/iCHAIT/awesome-macOS)**, [OpenSourceApple](https://opensource.apple.com/), [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) or [Awesome OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - FOSS App Indexes
+* 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Index
 * ⭐ **[AppsTorrent](https://appstorrent.ru/)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* ⭐ **[Homebrew](https://brew.sh/)** or [AppLite](https://aerolite.dev/applite/index.html) - Package Managers
 * [Macintosh Garden](http://macintoshgarden.org/)
 * [nMac](https://nmac.to/)
 * [MacBed](https://www.macbed.com/)
@@ -585,24 +580,16 @@
 * [AllMacWorlds](https://allmacworlds.com/)
 * [InsMac](https://insmac.org/)
 * [MacX](https://macx.ws/)
-* [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
-* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 * [WebCatalog](https://webcatalog.io/)
-* [Mac Menu Bar](https://macmenubar.com/) - Menu Bar Apps
-* [Homebrew](https://brew.sh/) or [AppLite](https://aerolite.dev/applite/index.html) - Package Managers
-* [Awesome macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Open Source
-Software
 
 ***
 
 # ► Mac Gaming
 
+* ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** - Mac Game Fixes / Compatibility
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)**
-* [AppleGamingWiki](https://applegamingwiki.com/) - Mac Game Fixes / Compatibility
 * [SCNLOG](https://scnlog.me/)
-* [Macgamefiles](http://www.macgamefiles.com/)
-* [NXMac](https://nxmac.com/)
-* [MacTorrents](https://mactorrents.io/)
+* [nMac](https://nmac.to/)
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Epic Games Launcher
 * [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - Gamecube iso.dec to ISO Converter
 * [rbxfpsunlocker-osx](https://github.com/lanylow/rbxfpsunlocker-osx) - Roblox FPS Unlocker
