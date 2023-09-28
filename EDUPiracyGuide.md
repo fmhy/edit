@@ -47,6 +47,9 @@
 
 ## ▷ Streaming
 
+* 🌐 **[Awesome Courses](https://github.com/prakhar1989/awesome-courses/)** - Courses
+* 🌐 **[Limnology](https://limnology.co/)** - Educational YouTube Channels
+* ↪️ **[Udemy Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons)**
 * ⭐ **[Coursera](https://www.coursera.org/)** - Courses / [Financial Aid](https://github.com/abdelrahmaan/Financial-aid-on-coursera-) / [Download](https://github.com/raffaem/cs-dlp), [2](https://github.com/coursera-dl/coursera-dl)
 * ⭐ **[edX](https://www.edx.org/)** - Courses / [Downloader](https://github.com/rehmatworks/edx-downloader)
 * ⭐ **[Future Learn](https://www.futurelearn.com/)** - Courses
@@ -56,8 +59,6 @@
 * ⭐ **[Git.ir](https://git.ir/)** - Courses
 * ⭐ **[PluralSight](https://www.pluralsight.com/)** - Free for 1 Month
 * ⭐ **[O'Reilly](https://www.oreilly.com/)** - Tech / Programming / Infinite trial by clearing cookies & making new account
-* ⭐ **[Limnology](https://limnology.co/)** - Educational YouTube Channel Index
-* [Awesome CS](https://github.com/prakhar1989/awesome-courses/) - Courses
 * [OpenLearn](https://www.open.edu/openlearn/) - Courses
 * [Alison](https://alison.com/) - Courses
 * [moo](https://github.com/nbats/FMHYedit/blob/main/base64.md#moo) - Courses
@@ -127,7 +128,6 @@
 * [freecourseweb](https://t.me/freecourseweb) - Udemy Courses / Telegram
 * [udemyforu](https://t.me/udemyforu) - Udemy Courses / Telegram
 * [CGPERS](https://t.me/CGPERS) - Udemy Courses / Telegram
-* [Udemy Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons) - Udemy Coupon Sites
 * [UdemyBot](https://github.com/gautamajay52/UdemyBot), [UdemyScrapperZBot](https://t.me/UdemyScrapperZBot) or [UdemyPy](https://github.com/dylannalex/UdemyPy) - Udemy Course Bots
 * [GUdemyBot](https://t.me/GUdemyBot) - Udemy Coupon Bot
 * [Fresh Coupons](https://github.com/KajanM/fresh-coupons) - Automatically Apply Discount Coupons on Udemy Courses / [Chrome](https://chrome.google.com/webstore/detail/fresh-coupons/pbnfeejfjlmmjfgnmmfpalhlpjidlgie)
@@ -141,11 +141,11 @@
 
 ***
 
+* ↪️ **[Course Megadrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#course-megadrives)** or [Large Collection of Useful Mega DL's](https://github.com/nbats/FMHYedit/blob/main/base64.md#large-collection-of-useful-mega-dls)
 * ⭐ **[freesoff](https://freesoff.com/)** - Courses
 * ⭐ **[TutFlix](https://tutflix.org/)** - Courses / Drives
 * ⭐ **[OneHack](https://onehack.us/)** - Courses
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
-* ⭐ **[Course Megadrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#course-megadrives)** or **[Large Collection of Useful Mega DL's](https://github.com/nbats/FMHYedit/blob/main/base64.md#large-collection-of-useful-mega-dls)**  - Courses / Drives
 * [Course Download CSE](https://cse.google.com/cse?cx=a02efb0346a176b46) - Multi-Site Course Search
 * [Reks Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#reks-drive) - Courses
 * [CourseDL](https://github.com/nbats/FMHYedit/blob/main/base64.md#coursedl) - Courses
@@ -259,15 +259,16 @@
 
 # ► Learning Sites
 
-* ⭐ **[The Free Learning List](https://freelearninglist.org/)** or [/sci/ guide](https://sites.google.com/site/scienceandmathguide/) - Free Educational Sites / Tool Index
-* ⭐ **[LearnAwesome](https://learnawesome.org/)**, [Learn Anything](https://learn-anything.xyz/), [Learning Lab](https://learn.uno/) / [Discord](https://discord.com/invite/FCzYt8u), [Quester](https://quester.io/) or [Learney](https://maps.joindeltaacademy.com/) - Learning Resources
+* 🌐 **[The Free Learning List](https://freelearninglist.org/)**, **[LearnAwesome](https://learnawesome.org/),** [Learn Anything](https://learn-anything.xyz/), [Learning Lab](https://learn.uno/), [Quester](https://quester.io/), [Learney](https://maps.joindeltaacademy.com/) or [/sci/ guide](https://sites.google.com/site/scienceandmathguide/) - Learning Resources
+* 🌐 **[Untools](https://untools.co/)** - Better Thinking Tools
+* ↪️ **[Typing Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
+* ↪️ **[Origami Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_origami)**
 * ⭐ **[PhET](https://phet.colorado.edu/)**, [Oak National Academy](https://teachers.thenational.academy/), [Academo](https://academo.org/) or [Runestone Interactive](https://runestone.academy/) - Interactive Lessons
+* ⭐ **[/r/coolguides](https://reddit.com/r/coolguides/)**, [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
+* ⭐ **[/r/educationalgifs](https://reddit.com/r/educationalgifs)**  - Learn With GIFs
+* ⭐ **[/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/)** - Have Anything Explained Very Simply
+* ⭐ **[Spreeder](https://www.spreeder.com/)** - Learn to Read Faster
 * ⭐ **[vads](https://vads.ac.uk/digital/)**, [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Artcyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](http://wolfmanmuseum.org/), [DarkClassics](https://darkclassics.blogspot.com/), [Arts and Culture](https://artsandculture.google.com/), [WGA](https://www.wga.hu/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collections
-* ⭐ **[Untools](https://untools.co/)** - Better Thinking Tools / Frameworks
-* ⭐ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)** - Learn to Type Faster
-* [Spreeder](https://www.spreeder.com/) - Learn to Read Faster
-* [/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/) - Have Anything Explained Very Simply
-* [/r/educationalgifs](https://reddit.com/r/educationalgifs)  - Learn With GIFs
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
 * [Eylenburg](https://eylenburg.github.io/) - Infographs, Maps & Papers
 * [Matthen](https://blog.matthen.com/) - Math & Science Animations
@@ -276,7 +277,6 @@
 * [Explorabl.es](https://explorabl.es/), [MinuteLabs](https://minutelabs.io/), [Wikiversity](https://www.wikiversity.org/), [Learnamic](https://www.learnamic.com/) or [TurtleDiary](https://www.turtlediary.com/) - Quizzes / Guides / Games
 * [SoftSchools](https://www.softschools.com/) or [EnchantedLearning](https://www.enchantedlearning.com/) - Worksheets / Games / Quizzes
 * [BrainPOP Jr.](https://jr.brainpop.com/) - Quizzes / Animations
-* [/r/coolguides](https://reddit.com/r/coolguides/), [info.stylee32](https://info.stylee32.net/) or [coolguid.es](https://coolguid.es/) - Guides & Tutorials
 * [Highbrow](https://gohighbrow.com/) - Daily Lessons
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - 5-Minute Audio Lessons / iOS
 * [WTF Fun Fact](https://wtffunfact.com/) - Daily Facts
@@ -334,7 +334,6 @@
 * [DavidReedSmith](http://www.davidreedsmith.com/Articles.htm) - Learn Wood Working
 * [Animated Knots](https://www.animatedknots.com/) or [NetKnots](https://www.netknots.com/) - Learn to Tie Knots
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/) - Learn to Tie Shoelaces
-* [Learn Origami](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_origami) - Origami Examples / Tutorials
 * [Earth 2050](https://2050.earth/) - Future Predictions
 * [Nuclear Risk Calculator](https://app.hex.tech/399c4a29-5b7f-4f70-8b53-afa8da38dd72/app/def94910-d017-4508-847c-e1189d3b6042/latest) - Calculate Risk of Nuclear War
 * [Economics of The Office](http://economicsoftheoffice.com/) - Learn Economics via The Office
@@ -344,15 +343,14 @@
 * [Symbols](https://www.symbols.com/) - Symbol Database
 * [Hate on Display](https://www.adl.org/hate-symbols) - Hate Symbol Database
 * [P2PU](https://www.p2pu.org/) - Join Learning Groups Using Free Courses
-* [Reddit-wiki-programming](https://github.com/antariksh17/Reddit-wiki-programming) or [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - Computer Science Learning Resources
 
 ***
 
 ## ▷ Games
 
-* ⭐ **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
-* ⭐ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
-* ⭐ **[Puzzle Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_puzzle_games)**
+* 🌐 **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - Educational Games Index
+* ↪️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_typing_lessons)**
+* ↪️ **[Puzzle Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_puzzle_games)**
 * [Starfall](https://www.starfall.com/)
 * [ABCya!](https://www.abcya.com/)
 * [Funbrain](https://www.funbrain.com/games)
@@ -374,10 +372,10 @@
 
 ## ▷ Math
 
-* ⭐ **[Awesome Math](https://github.com/rossant/awesome-math)** or [Math Resources](https://docs.google.com/document/d/1rtokzhpvkUPnymudl_ZVmfAA7H33VIyLQUpujNGwrTo/) - Math Resources
-* ⭐ **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)** - List of Interactive Math Sites
+* 🌐 **[Awesome Math](https://github.com/rossant/awesome-math)** or [Math Resources](https://docs.google.com/document/d/1rtokzhpvkUPnymudl_ZVmfAA7H33VIyLQUpujNGwrTo/) - Math Resources
+* ↪️ **[Interactive Math Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_interactive_math_sites)**
+* ↪️ **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)**
 * ⭐ **[Number Academy](https://number.academy/)** - Encyclopedia of Numbers
-* ⭐ **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - Sites with Multiple Calculators
 * ⭐ **[Microsoft Math Solver](https://math.microsoft.com/)**, [SpeedCrunch](https://speedcrunch.org/) or [MathPapa](https://www.mathpapa.com/algebra-calculator.html) - Advanced Calculator
 * ⭐ **[Cymath](https://www.cymath.com/)**, [MathGPT](https://mathgpt.streamlit.app/), [PhotoMath](https://github.com/nbats/FMHYedit/blob/main/base64.md#photomath) / [iOS](https://apps.apple.com/us/app/photomath/id919087726), [Mathway](https://www.mathway.com/), [EverydayCalculation](https://answers.everydaycalculation.com/), [Math Solver](https://mathsolver.microsoft.com/en), [Tiger Algebra](https://www.tiger-algebra.com/) or [Symbolab](https://www.symbolab.com/) - Math Problem Solvers
 * [Qalculate](https://qalculate.github.io/) - Desktop Calculator
@@ -400,7 +398,7 @@
 * [TicCalc](https://www.ticalc.org/pub/) - TI Graphing Calculator Files
 * [TI-Basic Developer](http://tibasicdev.wikidot.com/) - TI-Basic Info Repository
 * [insect](https://insect.sh/) - Scientific Calculator
-* ISciDAVis ](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotter
+* [ISciDAVis ](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotter
 * [FreeFEM](https://freefem.org/) - Partial Differential Equations Solver
 * [Approach0](https://approach0.xyz/search/) - Math Formula Search
 * [Online Math Tools](https://onlinemathtools.com/) - Multiple Math Tools
@@ -430,15 +428,15 @@
 
 ## ▷ Physics
 
-* ⭐ **[The Feynman Lectures](https://www.feynmanlectures.caltech.edu/)** - Physics Lectures
+* 🌐 **[The Feynman Lectures](https://www.feynmanlectures.caltech.edu/)** - Physics Lectures
+* 🌐 **[Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php)** - Physics Tools
+* ↪️ **[Math and Physics Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#math-and-physics-books)**
 * ⭐ **[phys](https://phys.org/)** - Latest / News / Article / Physics
-* [Math and Physics Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#math-and-physics-books)
-* [Falstad](http://www.falstad.com/) - Math & Physics Apps / Simulations
-* [Mujoco](https://github.com/deepmind/mujoco), [Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
+* ⭐ **[Falstad](http://www.falstad.com/)** - Math & Physics Apps / Simulations
+* ⭐ **[Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html)**, [Mujoco](https://github.com/deepmind/mujoco), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
 * [PhysicsClassroom](https://www.physicsclassroom.com/) - Physics Lessons
 * [PhysicsTravelGuide](https://physicstravelguide.com/) - Physics Explanations
 * [Physics and Maths Tutor](https://www.physicsandmathstutor.com/) - UK High School Notes & Papers
-* [Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php) - Physics Tools
 * [Algodoo](http://www.algodoo.com/) - Interactive Physics Tool
 * [QPaths](https://qpaths.deqart.com/) - Learn Basic Quantum Terms
 * [quantum](https://play.google.com/store/apps/details?id=brychta.stepan.quantum_en) - Quantum Physics Learning App
@@ -458,11 +456,11 @@
 
 ## ▷ Engineering 
 
-* ⭐ **[The Engineering Toolbox](https://www.engineeringtoolbox.com/)** or [EngineersEdge](https://www.engineersedge.com/) - Engineering Tools and Resources
-* ⭐ **[Awesome Mecheng](https://github.com/m2n037/awesome-mecheng)** or [design-data-list](https://github.com/IDEALLab/design-data-list) - Mechanical Engineering Resources
+* 🌐 **[The Engineering Toolbox](https://www.engineeringtoolbox.com/)** or [EngineersEdge](https://www.engineersedge.com/) - Engineering Resources
+* 🌐 **[Awesome Mecheng](https://github.com/m2n037/awesome-mecheng)** or [design-data-list](https://github.com/IDEALLab/design-data-list) - Mechanical Engineering Resources
 * ⭐ **[/r/AskEngineers](https://www.reddit.com/r/AskEngineers/)** - Engineering Q&A Sub / [Library](https://www.reddit.com/r/AskEngineers/wiki/library) / [Acronyms](https://www.reddit.com/r/AskEngineers/wiki/acronyms) / [FAQ](https://www.reddit.com/r/AskEngineers/wiki/faq) / [Work Tips](https://www.reddit.com/r/AskEngineers/wiki/workexperience#wiki_work_experience)
-* [/m/engineering](https://www.reddit.com/user/nbatman/m/engineering/) - Engineering Multireddit
-* [/r/engineering](https://www.reddit.com/r/engineering/) or [/r/AutomotiveEngineering](https://www.reddit.com/r/AutomotiveEngineering/) - Engineering Subreddits
+* ⭐ **[/m/engineering](https://www.reddit.com/user/nbatman/m/engineering/)** - Engineering Multireddit
+* ⭐ **[/r/engineering](https://www.reddit.com/r/engineering/)** or [/r/AutomotiveEngineering](https://www.reddit.com/r/AutomotiveEngineering/) - Engineering Subreddits
 * [fxSolver](https://www.fxsolver.com/), [Calculator++](https://f-droid.org/packages/org.solovyev.android.calculator/), [Kalker](https://kalker.xyz/) / [GitHub](https://github.com/PaddiM8/kalker) or [Calculatoria](https://www.calculatoria.com/) - Engineering Calculators
 * [Sanfoundry](https://www.sanfoundry.com/) - Engineering Questions & Answers
 * [CESDB](https://www.cesdb.com/) - Civil Engineering Software
@@ -477,11 +475,10 @@
 
 ## ▷ Biology
 
-* ⭐ **[Wikispecies](https://species.wikimedia.org/)** or [The Catalogue of Life](https://www.catalogueoflife.org/) - Species Directory
-* [OneZoom](http://www.onezoom.org/) - Tree of Life Explorer
+* ⭐ **[Wikispecies](https://species.wikimedia.org/)**, [A-Z Animal](https://a-z-animals.com/) or [The Catalogue of Life](https://www.catalogueoflife.org/) - Species Directories
+* ⭐ **[OneZoom](http://www.onezoom.org/)** - Tree of Life Explorer
+* ⭐ **[Lost and Found Nature](https://www.lostandfoundnature.com/)** - Re-Discovered Animals / Plants
 * [Alien](https://alien-project.org/) - Artificial Life Simulator / [GitHub](https://github.com/chrxh/alien) / [Video](https://youtu.be/w9R6zrdl6jM)
-* [Lost and Found Nature](https://www.lostandfoundnature.com/) - Re-Discovered Animals / Plants
-* [A-Z Animal](https://a-z-animals.com/) - Animal Encyclopedia
 * [Metazooa](https://metazooa.com/) - Species Connection Game
 * [Ocearch](https://www.ocearch.org/?list) - Track Marine Life
 * [The Deep Sea](https://neal.fun/deep-sea/) - Interactive Deep Sea Life Guide
@@ -491,10 +488,6 @@
 * [BirdSounds](https://experiments.withgoogle.com/ai/bird-sounds/view/) - Thousands of Bird Sounds Visualized
 * [Macroinvertebrates](https://www.macroinvertebrates.org/) - Freshwater Macroinvertebrates Atlas
 * [Life Under the Ice](https://lifeundertheice.org/) - View Antarctic Microbes
-* [WorldFloraOnline](http://www.worldfloraonline.org/) - Plant / Flora Database
-* [Candide](https://candide.com/GB/identify-plants) or [Pl@ntNet](https://identify.plantnet.org/) - Plant Identifiers
-* [WildFlowerSearch](https://wildflowersearch.org/) - Flower Identifier
-* [WorldOfSucculents](https://worldofsucculents.com/) or [SucculentGuide](https://www.succulentguide.com/) - Succulent Database
 * [Get Body Smart](https://www.getbodysmart.com/) - Learn about Human Anatomy and Physiology
 * [NIH Print](https://3d.nih.gov/) - Biomedical Science 3D Models
 * [Glass AI](https://glass.health/ai) - Medical Diagnoses' Training AI
@@ -506,8 +499,9 @@
 
 ## ▷ Chemistry
 
+* 🌐 **[Wolfram Alpha Chemistry](https://wolframalpha.com/examples/science-and-technology/chemistry)** - Chemistry Calculators / Tools
+* ↪️ **[Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables)** / [App](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 * ⭐ **[Lab Safety Guide / Intro](https://labmode.co.uk/)**
-* ⭐ **[Periodic Table Of Elements](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_periodic_tables)** - Online Periodic Tables / [App](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 * ⭐ **[LibreTexts Chemistry](https://chem.libretexts.org)** - Chemistry Texts
 * ⭐ **[Internet Chemistry](https://www.internetchemistry.com/search.php)** - Search Index
 * [Chemistry Basics](https://saylordotorg.github.io/text_the-basics-of-general-organic-and-biological-chemistry/index.html) - Basics of General, Organic, and Biological Chemistry
@@ -532,7 +526,6 @@
 * [Electronic Journals Library - University of Regensburg](http://ezb.ur.de/ezeit/fl.phtml?bibid=AAAAA&colors=7&lang=en&notation=V), [abc-chemistry](https://abc-chemistry.org/), [arkat-usa](https://www.arkat-usa.org/) - Journals
 * [Martindale's Virtual Chemistry Center](https://martindalecenter.com/calculators3b.html) - Calculators
 * [WebQC Balance Calculator](https://webqc.org/balance.php) - Chemical Equation Balance Calculator
-* [Wolfram Alpha Chemistry](https://wolframalpha.com/examples/science-and-technology/chemistry) - Chemistry Calculators and Tools
 * [Chemexper Chemical Directory](http://www.chemexper.com/) - Chemical Directory
 * [OrgSyn](http://orgsyn.org/Default.aspx) - Chemistry Prep Guides
 
@@ -540,9 +533,9 @@
 
 ## ▷ History
 
-* ⭐ **[History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_history_sites)**
+* ↪️ **[History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_history_sites)**
+* ↪️ **[Historical / Modern Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)** - Map Resources
 * ⭐ **[Historic Films](https://www.historicfilms.com/)** or [National Film Preservation Foundation](https://www.filmpreservation.org/) - Historic Footage / Films
-* ⭐ **[Historical / Modern Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)** - Map Resources
 * ⭐ **[Histography](https://histography.io/)** or [Oldest](https://www.oldest.org/) - History Timelines
 * [Smithsonian Institution Archives](https://siarchives.si.edu/) - Historical Photos / Documents
 * [Imperial War Museums](https://www.iwm.org.uk/) - Historic War Footage
@@ -575,14 +568,16 @@
 
 ## ▷ Space
 
+* 🌐 **[Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources)** - Astronomy Resources
+* ↪️ **[Math and Physics Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#math-and-physics-books)** 
+* ↪️ **[Sun / Moon Position Calculators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sun_.2F_moon_position)**
 * ⭐ **[/r/Space](https://reddit.com/r/Space)** - Space Subreddit
 * ⭐ **[Space Dashboard](https://spacedashboard.com/)** - Space Live Stream Dashboard
 * ⭐ **[EarthData](https://worldview.earthdata.nasa.gov/)** - Daily Satellite Replays
-* [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration Website / [Images](https://images.nasa.gov/) / [Audio](https://www.nasa.gov/connect/sounds/index.html) / [Documents](https://ntrs.nasa.gov/search.jsp)
+* ⭐ **[NASA](https://www.nasa.gov/)** - National Aeronautics and Space Administration Website / [Images](https://images.nasa.gov/) / [Audio](https://www.nasa.gov/connect/sounds/index.html) / [Documents](https://ntrs.nasa.gov/search.jsp)
 * [ESA](https://www.esa.int/) - European Space Agency Website
 * [Space.com](https://www.space.com/) - Space News
 * [NASA History](https://history.nasa.gov/series95.html) - NASA History Books
-* [Free Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources) or [Math and Physics Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#math-and-physics-books) - Astronomy Books
 * [Planet Globe](https://nbremer.github.io/planet-globe/) - Virtual Globes
 * [ISS Sim](https://iss-sim.spacex.com/) - ISS Docking Simulator
 * [HDEV Payload](https://video.ibm.com/channel/iss-hdev-payload) or [ISS UStream](https://www.nasa.gov/multimedia/nasatv/iss_ustream.html) - Live ISS Streams
@@ -601,7 +596,6 @@
 * [Interactive Apollo Missions](https://apolloinrealtime.org/) or [FirstMenOnTheMoon](https://www.firstmenonthemoon.com/) - Apollo in Realtime
 * [Moon.Nasa](https://moon.nasa.gov/) - Explore the Moon
 * [Earth and Moon Viewer](https://www.fourmilab.ch/cgi-bin/Earth) - Earth / Moon Latitude and Longitude Viewer
-* [Sun / Moon Position Calculators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sun_.2F_moon_position) - Sun / Moon Position and Phase Calculators
 * [SDO Dashboard](https://sdo.gsfc.nasa.gov/data/dashboard/) - Live Sun Feed
 * [Earth and Sun](https://ciechanow.ski/earth-and-sun/) - Interactive Day-Night Cycles Lesson
 * [CelesTrack](https://celestrak.org/) - Earth Orbit Visualization
@@ -639,8 +633,9 @@
 
 ## ▷ Music
 
-* ⭐  **[Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)**
-* [Music Outfitters](https://musicoutfitters.com/) - Music Services / Information
+* 🌐 **[Awesome Music Theory](https://github.com/vpavlenko/study-music)** - Music Theory Resources
+* 🌐 **[Music Outfitters](https://musicoutfitters.com/)** - Music Services / Information
+* ↪️ **[Sheet Music Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sheet_music_sites)**
 * [OpenSong](http://www.opensong.org/) - Track Lyrics, Chords, Sheets & more
 * [Circle of Fifths](https://muted.io/circle-of-fifths/) - Visualize Notes, Cords & Keys
 * [ScoreCloud](https://scorecloud.com/) or [Chordify](https://chordify.net/) - Chord Detection / Transcriber
@@ -649,7 +644,6 @@
 * [LilyPond](http://lilypond.org/) - Music Engraving Program
 * [Learning Music](https://learningmusic.ableton.com/)
 * [Musica](https://www.musicca.com/)
-* [Awesome Music Theory](https://github.com/vpavlenko/study-music) - Music Theory Resources
 * [Muted](https://muted.io/) - Music Theory
 * [Teoria](https://www.teoria.com/index.php) - Music Theory
 * [LightNote](https://www.lightnote.co/) - Music Theory
@@ -699,7 +693,7 @@
 
 ## ▷ Virtual Tours
 
-* ⭐ **[Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/)** - Online Learning Collections / Tours
+* 🌐 **[Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/)** - Online Museums
 * ⭐ **[CityHop](https://www.cityhop.cafe/)**, [Travel Remotely](https://travel-remotely.netlify.app/), [Walk with Feel](https://walkwithfeel.vercel.app/), [Outside Simulator](https://outsidesimulator.com/), [Japan Walkaround](https://thatguyedd.github.io/), [CityWalks](https://citywalks.live/), [Explordle](https://www.explordle.com/) or [Virtual Vacations](https://virtualvacation.us/) - Travel Simulators
 * [Gez.la](https://gez.la/) - Virtual Tours Map
 * [Wiki Spaces](https://wiki-spaces.org/) - Virtual Tours
@@ -720,10 +714,15 @@
 
 ## ▷ Multi-Language
 
+* 🌐 **[Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8)** or [/r/LanguageLearning Resources](https://www.reddit.com/r/languagelearning/wiki/index) - Language Learning Resources
+* 🌐 **[Speechling](https://speechling.com/tools)** - Language Learning Tools
+* 🌐  **[LexiLogos](https://www.lexilogos.com/english/index.htm)** - Multi-Language Dictionary Index
+* ↪️ **[Language Learning Networks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_language_learning_networks)**
+* ↪️ **[Languages & Linguistics](https://github.com/nbats/FMHYedit/blob/main/base64.md#languages--linguistics)**
+* ⭐ **[Polyglotia](https://www.polyglotia.com/)** or [LearnLingo](https://demo.learnlingo.dev/) - Learn Languages via AI Conversation
 * ⭐ **[Language Reactor](https://www.languagereactor.com/)** - Learn Languages via Media
-* ⭐ **[Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8)** or [/r/LanguageLearning Resources](https://www.reddit.com/r/languagelearning/wiki/index) - Language Learning Resources
-* ⭐ **[Language Learning Networks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_language_learning_networks)** - Learn Languages via Conversation
-* ⭐ **[Languages & Linguistics](https://github.com/nbats/FMHYedit/blob/main/base64.md#languages--linguistics)**
+* ⭐ **[PolyReads](https://polyreads.com/)** - Learn Languages via Reading
+* ⭐ **[Readlang](https://readlang.com/)** - Learn a Language via Web Browsing
 * [Languagelearning.site](https://languagelearning.site/) - Language Learning Torrents
 * [Language Transfer](https://www.languagetransfer.org/) - Language Learning Lectures
 * [refold.la](https://refold.la/) - Language Learning Roadmap
@@ -735,17 +734,12 @@
 * [Language Drops](https://languagedrops.com/) - Language Learning App / [Premium](https://github.com/nbats/FMHYedit/blob/main/base64.md#language-drops-premium)
 * [10,000 Sentences](https://github.com/tkrajina/10000sentences) - Language Learning App
 * [Yojik](https://fsi-languages.yojik.eu/index.html) - Language Learning Courses
-* [Speechling](https://speechling.com/tools) - Language Learning Tools
 * [Ba Ba Dum](https://babadum.com/) - Language Learning Game
 * [clozemaster](https://www.clozemaster.com/) - Context Based Language Learning
 * [Sounter](https://sounter.com/) or [LyricFluent](https://lyricfluent.com/) - Learn Languages via Music
-* [Polyglotia](https://www.polyglotia.com/) or [LearnLingo](https://demo.learnlingo.dev/) - Learn Languages via AI Conversation
-* [PolyReads](https://polyreads.com/) - Learn Languages via Reading
 * [youglish](https://youglish.com/) - YouTube Word Pronunciations
 * [Language Roadmap](https://languageroadmap.com/) - Foreign Language Media Difficulty Guide
-* [LexiLogos](https://www.lexilogos.com/english/index.htm) - Multi-Language Dictionary Index
 * [WordReference](https://www.wordreference.com/), [Glosbe](https://glosbe.com/) or [Reverso](https://reverso.net/) - Translation Dictionary
-* [Readlang](https://readlang.com/) - Learn a Language While Web Browsing
 * [Hey! Lingo](https://www.heylingo.com/) or [LearnWithOliver](https://www.learnwitholiver.com/) - Language Learning Flashcards
 * [MyLanguages](http://mylanguages.org/) - Grammar / Vocabulary Language Learning
 * [Vocatra](https://esite.ch/vocatra/) - Vocabulary Trainer
@@ -756,10 +750,10 @@
 
 ## ▷ English
 
-* ⭐ **[Many Things](http://www.manythings.org/)** - ESL Resources
+* 🌐 **[Many Things](http://www.manythings.org/)** - ESL Resources
+* 🌐 **[ESOL](https://www.esolcourses.com/)** - English Learning Resources
+* ↪️ **[Vocab / Pronunciation Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#e-books_432)**
 * [The Internet TESL Journal](http://iteslj.org/) - Resources for EFL and ESL Teachers
-* [E-books_432](https://github.com/nbats/FMHYedit/blob/main/base64.md#e-books_432) - Vocabulary & Pronunciation Books
-* [ESOL](https://www.esolcourses.com/) - English Learning Resources
 * [Learn English Online](https://www.learn-english-online.org/)
 * [EnglishCentral](https://www.englishcentral.com/)
 * [ESLFast](https://www.eslfast.com/)
@@ -786,7 +780,8 @@
 
 ## ▷ Japanese
 
-* ⭐ **[GaijinRyman's Resources](https://github.com/GaijinRyman/JapaneseResources)**, [Nihongo](https://nihongo-e-na.com/eng/), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/), [AnimeCards](https://animecards.site/) or [Gakuu](https://web.archive.org/web/20201113022338/http://gakuu.com/resources/) - Japanese Learning Resources
+* 🌐 **[GaijinRyman's Resources](https://github.com/GaijinRyman/JapaneseResources)**, [Nihongo](https://nihongo-e-na.com/eng/), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/), [AnimeCards](https://animecards.site/) or [Gakuu](https://web.archive.org/web/20201113022338/http://gakuu.com/resources/) - Japanese Learning Resources
+* 🌐 **[Japanese Pitch Accent Resources](https://github.com/olety/japanese-pitch-accent-resources)** - Japanese Accent Resources
 * ⭐ **[TheMoeWay](https://learnjapanese.moe/)** / [Discord](https://discord.gg/nhqjydaR8j), [Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/), [IMABI](https://imabi.net/), [NativShark](https://www.nativshark.com/), [Donkuri](https://donkuri.github.io/learn-japanese/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese
 * ⭐ **[AnimeLon](https://animelon.com/)** - Streaming / Anime / Learn Japanese
 * [Minato](https://minato-jf.jp/) - Japanese Courses
@@ -798,7 +793,6 @@
 * [Learn Japanese Grammar](https://kimallen.sheepdogdesign.net/) - Basic Principles of Japanese Grammar
 * [Jotoba](https://jotoba.de/), [Fujiten](https://github.com/odrevet/fujiten), [core6000](https://core6000.neocities.org/), [Tagaini](https://www.tagaini.net/), [Takoboto](https://takoboto.jp/), [Jisho](https://jisho.org/), [Massif](https://github.com/rsimmons/massif), [‎Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380), [JapBase](https://japbase.neocities.org/), [Weblio](https://ejje.weblio.jp/), [Goo Dictionary](https://dictionary.goo.ne.jp/) or [rtk-search](https://hochanh.github.io/rtk/) - Japanese Dictionaries / Phrases
 * [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - Japanese Accent Dictionary
-* [Japanese pitch accent resources](https://github.com/olety/japanese-pitch-accent-resources) - Japanese Accent Resources
 * [ichi.moe](https://ichi.moe/) - Japanese to English Phrase Translation
 * [Jlpt N3](https://dethitiengnhat.com/en/) or [JapaneseTest4You](https://japanesetest4you.com/) - Jlpt Exam Questions / [Grammar](https://jlptgrammarlist.neocities.org/)
 * [GetKanda](https://getkana.com/app/), [Nihonoari](https://github.com/aeri/Nihonoari-App) or [RealKana](https://realkana.com/) - Learn Kana
@@ -810,7 +804,7 @@
 
 ## ▷ Korean
 
-* [Learn Korean](https://discord.gg/e3H9Pde) - Korean Learning Discord
+* ⭐ **[Learn Korean](https://discord.gg/e3H9Pde)** - Korean Learning Discord
 * [Read Korean Letters](https://readkoreanletters.com/) - Learn Korean Characters
 * [KR Dict](https://krdict.korean.go.kr/eng/) - Korean Learning Dictionary
 * [HowToStudyKorean](https://www.howtostudykorean.com/) - Korean Lessons / Practice
@@ -828,13 +822,14 @@
 
 ## ▷ Chinese
 
-* [/r/ChineseLanguage](https://www.reddit.com/r/ChineseLanguage/) - Chinese Learning Community / [Discord](https://discord.gg/PAjBET7)
+* 🌐 **[YellowBridge](https://www.yellowbridge.com/)** or [DigMandarin](https://www.digmandarin.com/) - Chinese Learning Tools
+* 🌐 **[Cantonese sheik](http://www.cantonese.sheik.co.uk/)** or [SinoSplice](https://www.sinosplice.com/) - Chinese Learning Resources
+* ↪️ [Mandarin Chinese Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#mandarin-chinese)
+* ⭐ **[/r/ChineseLanguage](https://www.reddit.com/r/ChineseLanguage/)** - Chinese Learning Community / [Discord](https://discord.gg/PAjBET7)
+* ⭐ **[Zhongwen](http://zhongwen.com/gudian.htm)** - Learn via Classic Chinese Literature
 * [Train Chinese](https://www.trainchinese.com/), [ChineseSkill](https://www.chineseskill.com/) or [HelloChinese](http://hellochinese.cc/) - Chinese Learning App
-* [Cantonese sheik](http://www.cantonese.sheik.co.uk/) or [SinoSplice](https://www.sinosplice.com/) - Chinese Learning Resources
-* [DigMandarin](https://www.digmandarin.com/) - Chinese Learning Tools
 * [KongLongMandarin](https://www.konglongmandarin.com/) - Chinese Lessons
 * [HackingChinese](https://www.hackingchinese.com/archive-2/) - Chinese Learning Articles
-* [Zhongwen](http://zhongwen.com/gudian.htm) - Learn via Classic Chinese Literature
 * [Cantonese.ca](https://cantonese.ca/) - Chinese Vocabulary
 * [MDBG](https://www.mdbg.net/) - Chinese Dictionary
 * [Jukuu](http://www.jukuu.com/) - Chinese to English Word Comparisons
@@ -845,15 +840,13 @@
 * [ArchChinese](https://www.archchinese.com/) or [Hanzi Grids](https://www.hanzigrids.com/) - Chinese Writing Lessons
 * [The Chairman's Bao](https://www.thechairmansbao.com/) - Chinese Reading Practice / News Articles
 * [Pleco](https://www.pleco.com/) - Chinese Flashcards / Dictionary
-* [YellowBridge](https://www.yellowbridge.com/) - Chinese Learning Tools
-* [Mandarin Chinese](https://github.com/nbats/FMHYedit/blob/main/base64.md#mandarin-chinese) - Mandarin Chinese Learning Books
 * [Chinese Flashcards](https://www.chineseflashcards.io/) - Chinese Flashcards
 
 ***
 
 ## ▷ European
 
-* [StudySpanish](https://studyspanish.com/) or [LibreLingo](https://librelingo.app/) - Learn Spanish
+* ⭐ **[StudySpanish](https://studyspanish.com/)** or [LibreLingo](https://librelingo.app/) - Learn Spanish
 * [SpanishDict](https://www.spanishdict.com/) - Spanish Translation Dictionary
 * [The French Tutorial](http://www.frenchtutorial.com/) - French Learning Tutorials
 * [LCSpeakFrench](https://t.me/LCSpeakFrench) - Live French Lessons
@@ -864,10 +857,10 @@
 
 ## ▷ South Asian
 
+* 🌐 **[Urdu Resource List](https://docs.google.com/document/d/1GRTK_E0YGybMNYZjFToM40sOHNkR1NJXc_dL8HW2Q_0/)** or [UrduNotes](https://urdunotes.com/) - Urdu Learning Resources
+* 🌐 **[Learn Sanskrit](https://www.learnsanskrit.org/) or [Sanskrit Studio](https://sanskritstudio.wordpress.com/)** - Sanskrit Lessons and Tools
 * [South Asian Languages](https://discord.gg/TrdqTDdMba) - South Asian Language Learning
-* [Urdu Resource List](https://docs.google.com/document/d/1GRTK_E0YGybMNYZjFToM40sOHNkR1NJXc_dL8HW2Q_0/) or [UrduNotes](https://urdunotes.com/) - Urdu Learning Resources
 * [Urdupod101](https://www.urdupod101.com/blog/2021/03/18/urdu-grammar-overview/) - Urdu Grammar Overview / [Video](https://youtu.be/X5J_kXigPWE)
-* [Learn Sanskrit](https://www.learnsanskrit.org/) or [Sanskrit Studio](https://sanskritstudio.wordpress.com/) - Sanskrit Lessons and Tools
 * [UBC Sanskrit Learning Tools](https://ubcsanskrit.ca/) - UBC Sanskrit Lessons
 * [Sanskrit Subreddit](https://www.reddit.com/r/sanskrit/) / [Resources](https://www.reddit.com/r/sanskrit/comments/kx3xyu/sanskrit_resources_compilation_post/) - Sanskrit Resources / Discussion
 * [Ambuda](https://ambuda.org/texts/) - Sanskrit Dictionaries / Texts
@@ -876,7 +869,8 @@
 
 ## ▷ Other Languages
 
-* [ASL Resources](https://t.me/ASLresources) - American Sign Language Resources
+* 🌐 **[LexCity](http://lexicity.com/)** - Ancient Language Learning Tools & Resources
+* 🌐 **[ASL Resources](https://t.me/ASLresources)** - American Sign Language Resources
 * [ASL Dictionary](https://www.signasl.org/), [SignSpaces](https://signspaces.com/) or [HandSpeak](https://www.handspeak.com/) - Learn American Sign Language
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)
 * [BSL Dictionary](https://www.signbsl.com/) - British Sign Language
@@ -885,29 +879,29 @@
 * [Interactive IPA Chart](https://www.ipachart.com/) - Learn Phonetic Alphabet Symbols
 * [Asian Script Differentiation Guide](https://i.ibb.co/f1YwHBM/50cb83cedf34.png)
 * [Omniglot](https://omniglot.com/) - Writing System & Language Encyclopedia
-* [LexCity](http://lexicity.com/) - Ancient Language Learning Tools & Resources
 * [Plover](https://www.openstenoproject.org/plover/) - Stenography Engine / [GitHub](https://github.com/openstenoproject/plover) / [Discord](https://discord.gg/NAzMz7C3wq)
 
 ***
 
 # ► Educational Tools
 
-* ⭐ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)** - Presentation Tools / Templates
-* ⭐ **[Data Visualization Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)** - Create Chart / Visualize Data
-* ⭐ **[Q&A Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)** - Ask Questions to AI
-* ⭐ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)** - Grammar Checking Tools
-* ⭐ **[Text Rephrasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrasing)** - Rephrase / Paraphrase Tools
-* [OpenBoard](https://openboard.ch/), [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
-* [NCES](https://nces.ed.gov/) - Education Statistics and Tools
-* [MyAssignmentHelp](https://myassignmenthelp.com/free-tools.php) - Academic Tools
-* [CompSciLib](https://www.compscilib.com/) - Computer Science Tools
-* [nanoHUB](https://nanohub.org/) - Nanotechnology Tools
-* [5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk) - Grade School Educational Tools
+* 🌐 **[NCES](https://nces.ed.gov/)** or [MyAssignmentHelp](https://myassignmenthelp.com/free-tools.php) - Educational Tools
+* 🌐 **[CompSciLib](https://www.compscilib.com/)** - Computer Science Tools
+* 🌐 **[nanoHUB](https://nanohub.org/)** - Nanotechnology Tools
+* 🌐 **[5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk)** - Grade School Tools
+* 🌐 **[ScienceTrek](https://sciencetrek.org/)** - Teaching Resources
+* ↪️ **[Presentation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
+* ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
+* ↪️ **[Q&A Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_chatbots)**
+* ↪️ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_grammar_check)**
+* ↪️ **[Text Rephrasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrasing)**
+* ↪️ **[Plagiarism Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection)**
+* ⭐ **[OpenBoard](https://openboard.ch/)**, [Witeboard](https://witeboard.com/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
+* ⭐ **[Refseek](https://www.refseek.com/)**, [Occamm](https://www.occamm.com/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
 * [Brevity500](https://brevity500.com/) - Writing Practice
 * [GradesFixer](https://www.gradesfixer.com/) - Essay Samples
 * [Springer](http://www.springer.com) or [Biomed Central](http://www.biomedcentral.com) - Scientific Publishers
 * [Zooniverse](https://www.zooniverse.org/) - Crowdsourced Research
-* [Refseek](https://www.refseek.com/), [Occamm](https://www.occamm.com/) or [Merlot](https://www.merlot.org/merlot/index.htm) - Academic Search Engines
 * [Citation Generator](https://www.citationgenerator.com/), [mybib](https://www.mybib.com/), [citemaker](https://www.citemaker.com/), [formatically](https://formatically.com/), [zbib](https://zbib.org/), [CitationMachine](https://citationmachine.net/), [CiteFast](https://www.citefast.com) or [Cite This For Me](https://www.citethisforme.com/) - Generate Citations / [Chrome](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle)
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish) - Citation Analyzer
 * [M-Journal](https://m-journal.org/) - Turn Wikipedia into a Citeable Academic Paper
@@ -924,23 +918,21 @@
 * [Niche](https://www.niche.com/), [TheUniGuide](https://www.theuniguide.co.uk/), [Alumnius](https://alumnius.net/) or [Top Universities](https://www.topuniversities.com/) - University / School Comparisons
 * [RateMyDorm](https://ratemydorm.com) or [:)](https://docs.google.com/document/d/14Mn1CrA-CV5YZAkOZtrMKTmn2O4oL-2EhIXhzXZbO0A/edit#) - College Dorm Reviews
 * [RateMyProfessor](https://www.ratemyprofessors.com/) - Professor Ratings
-* [ScienceTrek](https://sciencetrek.org/) - Teaching Resources
 * [Socrative](https://www.socrative.com/) - Teaching App
 * [ClassroomScreen](https://www.classroomscreen.com/) - Digital Teaching Widgets
 * [Wordwall](https://wordwall.net/) - Lesson Creator
-* [Plagiarism Detection Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_plagiarism_detection) - Detect Plagiarized Content
 * [The Chomsky Index](https://github.com/jasons-gh/the-chomsky-index) - Noam Chomsky Content Index Tool
 
 ***
 
 ## ▷ Study / Research
 
-* ⭐ **[Note Taking Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps)** - Note Taking / To-Do Apps
+* 🌐 **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [KausalFlow](https://tools.kausalflow.com/), [Zotero](https://www.zotero.org/) or [Scrible](https://www.scrible.com/)  - Research Tools
+* ↪️ **[Note Taking Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps)**
 * ⭐ **[Note Garden](https://notegarden.web.app/)**, [2](https://notegarden.io/) - Note Taking / Auto Courses
 * ⭐ **[StudyLion](https://github.com/StudyLions/StudyLion)** - Study Tracker / Productivity Discord Bot
 * ⭐ **[Coursicle](https://www.coursicle.com/)** - Class Schedule Tracker / Android
 * ⭐ **[OpenSyllabus](https://opensyllabus.org/)** or [LanguageDrops](https://languagedrops.com/) - Syllabus Search / Info
-* ⭐ **[Awesome Research](https://github.com/emptymalei/awesome-research)**, [KausalFlow](https://tools.kausalflow.com/), [Zotero](https://www.zotero.org/) or [Scrible](https://www.scrible.com/)  - Research Tools
 * [ExpertFile](https://expertfile.com/) or [ExpertiseFinder](https://expertisefinder.com/) - Industry / Academic Expert Search
 * [Studify](https://github.com/cmcodes1/Studify) - Study Tracker / Android
 * [Remind](https://apps.apple.com/us/app/remind-school-communication/id522826277) - Educational Communication / iOS
@@ -1010,11 +1002,11 @@
 
 ## ▷ World Data
 
+* 🌐 **[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)** - Public Datasets
 * ⭐ **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/), [Soar](https://soar.earth/) or [UN Data](https://data.un.org/) - World Data & Statistics
 * ⭐ **[Our World in Data](https://ourworldindata.org/)** - World Problem Database
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[Soar](https://soar.earth/)** - Digital Atlas
-* [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets) - Public Datasets
 * [Location Data](https://locationdata.us/) or [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
 * [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
 * [If It Were My Home](https://www.ifitweremyhome.com/), [GlobalEdge](https://globaledge.msu.edu/) or [MyLifeElsewhere](https://www.mylifeelsewhere.com/) - Country Data Comparisons
