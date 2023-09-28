@@ -15,27 +15,28 @@
 
 ***
 
-* ⭐ **[Open Directory Indexes](https://github.com/nbats/FMHYedit/blob/main/base64.md#open-directory-indexes)**
-* ⭐ **[/r/opendirectories](https://www.reddit.com/r/opendirectories/)** - Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / /u/ODScanner
+* 🌐 **[Awesome IRC](https://github.com/davisonio/awesome-irc)** - IRC Resources
+* 🌐 **[/r/opendirectories](https://www.reddit.com/r/opendirectories/)** - Open Directories Subreddit / [Telegram](https://t.me/r_OpenDirectories) / /u/ODScanner
+* 🌐 **[smolOD](https://github.com/nbats/FMHYedit/blob/main/base64.md#smolod)** - Small Open Directories
+* ↪️ **[Open Directory Indexes](https://github.com/nbats/FMHYedit/blob/main/base64.md#open-directory-indexes)**
+* ↪️ **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
+* ↪️ **[Google TeamDrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#google-teamdrives)**
+* ↪️ **[Google Piracy Groups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_piracy_discussion_groups)**
+* ⭐ **[Directory Lister](https://directorylister.com/)** - Open Directory Explorer
 * ⭐ **[EyeDex](https://www.eyedex.org/)**, [ODCrawler](https://odcrawler.xyz/), [OpenSho](https://opendirindex.opensho.com/), [ODS](https://sites.google.com/view/l33tech/tools/ods) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engines
-* ⭐ **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
 * ⭐ **[mega.archive](https://discord.gg/R3zEZUPp3Q)** / [Chat](https://discord.gg/ZRhpUtzvkC) - Megadrive Archive
 * ⭐ **[IRC / XDCC Tutorial](https://rentry.org/irc)**, [2](https://github.com/mayfrost/guides/blob/master/IRC.md), [3](https://libera.chat/guides/), [4](https://www.theloadguru.com/xdcc-irc-beginners-guide/)
-* ⭐ **[Awesome IRC](https://github.com/davisonio/awesome-irc)** - IRC Resource Index
-* [Google TeamDrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#google-teamdrives)
 * [GDrive Server](https://telegra.ph/GDrive-Server-Direct-Links-06-28)
-* [smolOD](https://github.com/nbats/FMHYedit/blob/main/base64.md#smolod) - Small Open Directories
 * [Napalm FTP](https://www.searchftps.net/), [Mamont](https://www.mmnt.ru/int/) or [Search-22](https://search-22.com/ftp-search-tools) - FTP Search
 * [dedigger](https://www.dedigger.com/) - GDrive File Search
 * [Sala De Espera](https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org) / [Discord](https://discord.gg/ZRhpUtzvkC) or [No Bucks Given](https://discord.gg/By53hyhUFS) / [Revolt](https://divolt.xyz/invite/BM9hvM0E) - Drive Sharing Communities
 * [MegaDownload](http://megadownload.net/) - Mega File Search
 * [Create Open Directory Search Engine](https://redd.it/d3w2fu)
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) or [AutoIndex](http://autoindex.sourceforge.net/) - Open Directory Indexer
-* [Directory Lister](https://directorylister.com/) - Open Directory Explorer
 * [Pastebin CSE](https://cse.google.com/cse?cx=0cd79b819f26af9d0) - Search Pastebin Directories
 * [CD.TextFiles](http://cd.textfiles.com/) - CD Text File Archive
 * [Defacto2](https://defacto2.net/home) - Scene / Sub-Scene Database
-* [Google Piracy Groups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_piracy_discussion_groups) - Use these to join TeamDrives
+
 
 ***
 
@@ -104,7 +105,6 @@
 * [Redump](http://redump.org/) - Disc Preservation Project
 * [DemoZoo](https://demozoo.org/) or [scene.org](https://files.scene.org/) - Demoscene Archive / [Wiki](https://en.wikipedia.org/wiki/Demoscene)
 * [Ubu](https://ubuweb.com/) - Avant-Garde Artifacts
-* Alexa Rankings - [Sites](https://dirtywarez.org/cat/blog) / [Forums](https://dirtywarez.org/cat/forum)
 
 ***
 
@@ -182,71 +182,68 @@
 * [WLSetup-All](https://github.com/nbats/FMHYedit/blob/main/base64.md#wlsetup-all) - Windows Live Essentials 2012 Archive
 * [GenP](https://www.reddit.com/r/GenP/wiki/index) - Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)
 * [ZXPInstaller](https://github.com/elements-storage/ZXPInstaller) - Adobe Extension Installer
-* [Spinel](https://spinel.ovh/) - Multi-Program Install Script Generator 
-* [Silent Install](https://www.silentinstall.org/) - Build Multi-Program Installers
 * [Adobe CC](https://github.com/nbats/FMHYedit/blob/main/base64.md#adobe-cc) - Adobe Creative Cloud Piracy Guide
 
 ***
 
 ## ▷ Freeware Sites
 
-* ⭐ **[Major Geeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html)**
-* ⭐ **[SourceForge](https://sourceforge.net/)**
-* ⭐ **[FossHub](https://www.fosshub.com/)**
-* ⭐ **[Free Software Directory](https://directory.fsf.org/wiki/Main_Page)**
-* ⭐ **[Fossies](https://fossies.org/all.html)**
-* ⭐ **[FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories)**
-* ⭐ **[OldVersion](http://www.oldversion.com/)** - Old Versions of Software
-* ⭐ **[Alternative Software / App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites)** - Software / App Alternatives
-* ⭐ **[Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**, [2](https://gitlab.com/awesome-selfhosted/awesome-selfhosted) - Selfhosted Software Index
-* ⭐ **[Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_package_managers)** - Install / Update Multiple Programs at Once
+* 🌐 **[Awesome Free Software](https://github.com/johnjago/awesome-free-software)** or [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Freeware Indexes
+* 🌐 **[Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**, [2](https://gitlab.com/awesome-selfhosted/awesome-selfhosted) - Selfhosted Software Index
+* 🌐 **[Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)** - Python App Index
+* 🌐 **[Major Geeks](https://www.majorgeeks.com/content/page/top_freeware_picks.html)** - Freeware Index
+* 🌐 **[SourceForge](https://sourceforge.net/)** - Freeware Index
+* 🌐 **[FossHub](https://www.fosshub.com/)** - Freeware Index
+* 🌐 **[Free Software Directory](https://directory.fsf.org/wiki/Main_Page)** - Freeware Index
+* 🌐 **[Fossies](https://fossies.org/all.html)** - Freeware Index 
+* 🌐 **[FOSS Wiki](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories)** - Freeware Index
+* 🌐 **[OldVersion](http://www.oldversion.com/)** - Old Versions of Software
+* ↪️ **[Software Package Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_package_managers)**
+* ↪️ **[Alternative Software Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_software_.2F_app_sites)**
+* ↪️ **[Portable App Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portable_apps)**
+* ⭐ **[FluentStore](https://github.com/yoshiask/FluentStore)** - Microsoft Store Frontend
+* ⭐ **[Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore)** or [Reinstall Preinstalled](https://pastebin.com/5NnBEqnm) / [Guide](https://youtu.be/EQo53hvWy8Q) - Add Microsoft Store to Windows
 * ⭐ **[store.rg](https://store.rg-adguard.net/)** - Paid Microsoft Store Link Generator / [Guide](https://rentry.co/paidAppsMsStore)
-* [Windows Ultimate Collection](https://forum.xda-developers.com/t/windows-ultimate-collection-guides.4507867/)
-* [OlderGeeks](https://oldergeeks.com/)
-* [Free Software MF](https://whoisdsmith.gitbook.io/free-software-mf)
-* [Softpedia](https://www.softpedia.com/)
-* [Chiefs Big List of Programs](https://github.com/TheChiefMeat/Chiefs-Big-List-of-Programs/)
-* [Simple Tools](https://simpletools.info/doku.php)
-* [Handmade Network](https://handmade.network/)
-* [Realityripple](https://realityripple.com/)
-* [Software Informer](https://software.informer.com/)
-* [Awesome Open Source](https://awesomeopensource.com/)
-* [Open-Source Alternatives](https://github.com/btw-so/open-source-alternatives) 
-* [Opensource Builders](https://opensource.builders/)
-* [Freeware Directory](http://www.freewaredirectory.net/)
-* [FreewareStop](https://www.freewarestop.com/)
-* [LO4D](https://www.lo4d.com/)
-* [FilePuma](https://www.filepuma.com/)
-* [ListOfFreeWare](https://listoffreeware.com/)
-* [GRC](https://www.grc.com/freepopular.htm)
-* [TinyApps](https://tinyapps.org/)
-* [DonationCoder](https://www.donationcoder.com/)
-* [Antp](http://www.antp.be/)
-* [Phrozen](https://www.phrozen.io/)
-* [FileEagle](https://www.fileeagle.com/)
-* [Perkele](https://perkele.cc/software)
-* [Patorjk](https://www.patorjk.com/)
-* [OSDN](https://osdn.net/)
+* ⭐ **[Alt App Installer](https://github.com/m-jishnu/alt-app-installer)** - Microsoft Store App Installer
+* [Windows Ultimate Collection](https://forum.xda-developers.com/t/windows-ultimate-collection-guides.4507867/) - Freeware Index
+* [OlderGeeks](https://oldergeeks.com/) - Freeware Index
+* [Free Software MF](https://whoisdsmith.gitbook.io/free-software-mf) - Freeware Index
+* [Softpedia](https://www.softpedia.com/) - Freeware Index
+* [Chiefs Big List of Programs](https://github.com/TheChiefMeat/Chiefs-Big-List-of-Programs/) - Freeware Index
+* [Simple Tools](https://simpletools.info/doku.php) - Freeware Index
+* [Handmade Network](https://handmade.network/) - Freeware Index
+* [Realityripple](https://realityripple.com/) - Freeware Index
+* [Software Informer](https://software.informer.com/) - Freeware Index
+* [Awesome Open Source](https://awesomeopensource.com/) - Freeware Index
+* [Open-Source Alternatives](https://github.com/btw-so/open-source-alternatives) - Freeware Index
+* [Opensource Builders](https://opensource.builders/) - Freeware Index
+* [Freeware Directory](http://www.freewaredirectory.net/) - Freeware Index
+* [FreewareStop](https://www.freewarestop.com/) - Freeware Index
+* [LO4D](https://www.lo4d.com/) - Freeware Index
+* [FilePuma](https://www.filepuma.com/) - Freeware Index
+* [ListOfFreeWare](https://listoffreeware.com/) - Freeware Index
+* [GRC](https://www.grc.com/freepopular.htm) - Freeware Index
+* [TinyApps](https://tinyapps.org/) - Freeware Index
+* [DonationCoder](https://www.donationcoder.com/) - Freeware Index
+* [Antp](http://www.antp.be/) - Freeware Index
+* [Phrozen](https://www.phrozen.io/) - Freeware Index
+* [FileEagle](https://www.fileeagle.com/) - Freeware Index
+* [Perkele](https://perkele.cc/software) - Freeware Index
+* [Patorjk](https://www.patorjk.com/) - Freeware Index
+* [OSDN](https://osdn.net/) - Freeware Index
 * [Uwe Sieber's Homepage](https://www.uwe-sieber.de/english.html)
-* [Awesome Free Software](https://github.com/johnjago/awesome-free-software)
 * [Nirsoft](https://www.nirsoft.net/) - Windows Software
 * [Windows-Utilities](https://orga.cat/windows-utilities) - Windows Software
 * [OS Vault](https://osvault.weebly.com/directory.html) - Windows Software
 * [WinTools](https://www.wintools.info/) - Windows Software
-* [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - Windows Software Index
 * [UWP Community](https://uwpcommunity.com/) - Universal Windows Programs / [Discord](https://discord.gg/eBHZSKG)
 * [RaymondFreeSoftware](https://t.me/raymondfreesoftware) - Telegram / [Index](https://t.me/rfsnotes)
 * [Suckless](https://suckless.org/) - Simple Software Archive
-* [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications) - Python Apps
 * [WinWorldPC](https://winworldpc.com/) - Abandonware / Operating Systems
 * [VETUSWARE](https://vetusware.com/) - Abandonware / Operating Systems / Games
 * [MS-DOS Index](http://www.lanet.lv/simtel.net/msdos/index-msdos.html) - MS-DOS Software
 * [The Vintage Software Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#the-vintage-software-collection) or [SCiZE's Classic Warez Collection](https://scenelist.org/) - Retro Software
-* [Portable Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portable_apps) - Portable Apps for USB / SD / External Storage
 * [BelowAverage](https://belowaverage.org/) - I.T. Software
-* [FluentStore](https://github.com/yoshiask/FluentStore) - Microsoft Store Frontend
-* [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) or [Reinstall Preinstalled](https://pastebin.com/5NnBEqnm) / [Guide](https://youtu.be/EQo53hvWy8Q) - Add Microsoft Store to Windows
-* [Alt App Installer](https://github.com/m-jishnu/alt-app-installer) - Install Microsoft Store Apps
 
 ***
 
@@ -277,13 +274,13 @@
 
 # ► Usenet
 
+* 🌐 **[Usenet Tools / Services](https://curlie.org/en/Computers/Usenet)** or [UsenetTools](http://www.usenettools.net/)
 * ⭐ **[Usenet Guide / Automation Setup](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic)** / [2](https://redd.it/4x2mc9) / [3](https://www.iitk.ac.in/LDP/HOWTO/Usenet-News-HOWTO/x27.html) / [4](https://graph.org/EVERYTHING-YOU-NEED-TO-KNOW-ABOUT-USENET-09-04) / [5](https://www.reddit.com/r/usenet/wiki/index/) / [6](https://blog.decryption.net.au/t/a-fully-automated-usenet-piracy-machine-with-plex-sabnzbd-and-sonarr/130)
-* ⭐ **[Usenet Tools / Services](https://curlie.org/en/Computers/Usenet)** or [UsenetTools](http://www.usenettools.net/)
 * [Usenet-Uploaders](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders), [ngPost](https://github.com/mbruel/ngPost) or [Nyuu](https://github.com/animetosho/Nyuu) - Usenet Uploaders
 
 ## ▷ Indexers
 
-* [Indexer List](https://www.reddit.com/r/usenet/wiki/indexers#wiki_free_membership_sites) - Indexer List
+* 🌐 **[Indexer List](https://www.reddit.com/r/usenet/wiki/indexers#wiki_free_membership_sites)** - Indexer List
 * [NZBHydra2](https://github.com/theotherp/nzbhydra2) / [2](https://github.com/theotherp/nzbhydra) - NZB Meta search
 * [nzbplanet](https://nzbplanet.net/)
 * [orionoid](https://orionoid.com/)
@@ -311,12 +308,13 @@
 
 ## ▷ Providers
 
-* [/r/usenet Providers](https://www.reddit.com/r/usenet/wiki/providers) - Provider Lists
+* 🌐 **[/r/usenet Providers](https://www.reddit.com/r/usenet/wiki/providers)** - Provider Lists
+* 🌐 **[/r/usenet Deals](https://www.reddit.com/r/usenet/wiki/providerdeals)** - Provider Deals
 * [usenetmax](https://www.usenetmax.com/)
 * [xsusenet](https://xsusenet.com/)
 * [usenet.farm](https://usenet.farm/#trial)
 * [Free Trials](https://www.ngprovider.com/free-usenet-trials.php)
-* [/r/usenet Deals](https://www.reddit.com/r/usenet/wiki/providerdeals)
+
 
 ## ▷ Downloaders
 
@@ -329,7 +327,7 @@
 
 # ► File Leeches
 
-* ⭐ **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)** or [leechlisting](https://www.leechlisting.com/) - Leech Lists
+* 🌐 **[Free Premium Leech Wiki](https://filehostlist.miraheze.org/wiki/Main_Page)** or [leechlisting](https://www.leechlisting.com/) - Leech Lists
 * [@Transload](https://t.me/transload) - Telegram Leech Bots
 * [Multi-OCH Helper](https://greasyfork.org/en/scripts/13884-multi-och-helper) - Send Premium Files to Leeches
 * [RapidGrab](https://rapidgrab.pl/) - Leech
