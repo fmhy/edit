@@ -238,7 +238,7 @@
 
 ## ▷ Video Tools
 
-*  **[Awesome Video](https://github.com/krzemienski/awesome-video)** - Video Tool Index
+* 🌐 **[Awesome Video](https://github.com/krzemienski/awesome-video)** - Video Tool Index
 * 🌐 **[Awesome Streaming](https://github.com/juancarlospaco/awesome-streaming-tools)** or [VDO Ninja](https://vdo.ninja/) - Streaming Tool Index
 * 🌐 **[Video Help](https://www.videohelp.com/software)** - Video Software Archive
 * ↪️ **[Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders)** / [YouTube](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_converters) / [TikTok](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tiktok_video_downloaders) / [DailyMotion](https://dmvideo.download/) / [Pinterest](https://pincase.xyz/)
