@@ -130,15 +130,15 @@
 
 ## ▷ Android Device
 
-* 🌐 **[Will My Phone Work?](https://willmyphonework.net/)** - Phone Carrier Support Index
-* 🌐 **[Plexus](https://plexus.techlore.tech/)** - De-googled Device Compatibility
-* 🌐 **[MobileSpectrum](https://mobilespectrum.org/)** or [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Mobile Network Comparisons
 * 🌐 **[Root Essentials](https://sites.google.com/view/superthomaslab/root-essentials)** - Multiple Root Tools
+* 🌐 **[Will My Phone Work?](https://willmyphonework.net/)** - Phone Carrier Support Index
 * ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)**
 * ↪️ **[Custom Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_operating_systems)**
 * ↪️ **[App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers)**
 * ↪️ **[File Explorers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_file_explorers)**
-* ⭐ **[AutumnBox](https://github.com/zsh2401/AutumnBox/releases)**, [Octi](https://github.com/d4rken-org/octi) or [ADBAppControl](https://adbappcontrol.com/en/) - Android Device Managers / Root Tool / [Features](https://i.ibb.co/ZYysg2c/5546649b4d89.png)
+* ⭐ **[MobileSpectrum](https://mobilespectrum.org/)** or [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Mobile Network Comparisons
+* ⭐ **[Plexus](https://plexus.techlore.tech/)** - De-googled Device Compatibility
+*  **[AutumnBox](https://github.com/zsh2401/AutumnBox/releases)**, [Octi](https://github.com/d4rken-org/octi) or [ADBAppControl](https://adbappcontrol.com/en/) - Android Device Managers / Root Tool / [Features](https://i.ibb.co/ZYysg2c/5546649b4d89.png)
 * ⭐ **[ntfy](https://ntfy.sh/)** or [Notification Maker](https://play.google.com/store/apps/details?id=com.wagner.valentin.notificationmaker2) - Custom Push Notifications
 * ⭐ **[MacroDroid](http://macrodroid.com/)**, [Automate](https://llamalab.com/automate/) or [AutomateIt](https://www.automateitapp.com/) - Android Automation
 * ⭐ **[Magisk](https://github.com/topjohnwu/Magisk)**, [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet), [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal), [Pixel Launcher](https://github.com/saitamasahil/Pixel-Launcher-Extended) or [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su) - Android Root Tools
