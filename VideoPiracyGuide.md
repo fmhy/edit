@@ -344,7 +344,7 @@
 * ⭐ **[WCO](https://www.wco.tv/)**, [2](https://www.wcofun.org/), [3](https://www.wcostream.org/) - Anime / Cartoons / [Downloader](https://github.com/NobilityDeviant/Wcofun.com_Downloader)
 * ⭐ **[KimCartoon](https://kimcartoon.li/)**
 * [TopCartoons](https://www.topcartoons.tv/)
-* [WatchCartoonsOnline](https://www1.watchcartoononline.bz/) -
+* [WatchCartoonsOnline](https://www1.watchcartoononline.bz/)
 * [KissCartoon.info](https://kisscartoon.info/) - Anime / Cartoons
 * [Kimcartoon.si](https://kimcartoon.si/) - Anime / Cartoons
 * [Anime World India](https://anime-world.in/) - Anime / Cartoons / [Discord](https://discord.com/invite/c3ete48q8H)
