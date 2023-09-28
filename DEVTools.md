@@ -814,7 +814,7 @@
 * [Sketchbook Compose](https://github.com/GetStream/sketchbook-compose) - Jetpack Sketchbook
 * [androidx](https://github.com/androidx/androidx) - Android Development Environment for Jetpack Extensions
 * [XDGuru](https://www.xdguru.com/) - Adobe XD Resources
-* [GoNative](https://gonative.io/) - Convert Websites to Mobile Apps
+* [Median.co](https://median.co/) - Convert Websites to Mobile Apps (formerly GoNative.io)
 * [Media Kit](https://github.com/alexmercerind/media_kit) - Video / Audio Library for Flutter and Dart
 * [Cryptography](https://github.com/dint-dev/cryptography) - Dart and Flutter Cryptography Library
 * [Kali NetHunter](https://store.nethunter.com/en/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
