@@ -12,6 +12,7 @@
 # ► AI Chatbots
 
 * 🌐 **[Awesome-GPT4](https://gpt4.tools/)** - ChatGPT Resources
+* 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbot Index
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai) / [Llama Version](https://labs.perplexity.ai/)
@@ -21,7 +22,6 @@
 * ⭐ **[Nova AI](https://nova-oss.com/)** - Free GPT-4 Tokens / API / [Chat](https://chat.nova-oss.com/)
 * ⭐ **[Claude](https://www.anthropic.com/index/claude-now-in-slack)** - Anthropic's Chatbot
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
-* ⭐ **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbots Index
 * [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Q&A AI
 * [SydneyQt](https://github.com/juzeon/SydneyQt) - Jailbroken Bing AI Chatbot
 * [Leon](https://getleon.ai/) - AI Assistant
