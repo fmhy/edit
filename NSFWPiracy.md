@@ -1,8 +1,8 @@
 # ► NSFW Indexes
 
-* ⭐ **[PornDude](https://theporndude.com/)** / [More Sites](https://theporndude.com/hall-of-fame)
-* ⭐ **[Reddit Doesn't Like This Site](https://www.reddit-doesnt-like-this.site/)**
-* ⭐ **[NSFW Subreddits](https://www.reddit.com/r/NSFW411/wiki/index)**, [2](http://electronsoup.net/nsfw_subreddits/), [3](https://bin.disroot.org/?81af22c09e92865d#FYLXmjaKbaojaELwAv1szcfy7rahuA77ntnFu2HBEBGf), [4](https://redd.it/brypgf), [5](https://theporndude.com/best-nsfw-reddit-sites)
+* 🌐 **[PornDude](https://theporndude.com/)** / [More Sites](https://theporndude.com/hall-of-fame)
+* 🌐 **[Reddit Doesn't Like This Site](https://www.reddit-doesnt-like-this.site/)**
+* 🌐 **[NSFW Subreddits](https://www.reddit.com/r/NSFW411/wiki/index)**, [2](http://electronsoup.net/nsfw_subreddits/), [3](https://bin.disroot.org/?81af22c09e92865d#FYLXmjaKbaojaELwAv1szcfy7rahuA77ntnFu2HBEBGf), [4](https://redd.it/brypgf), [5](https://theporndude.com/best-nsfw-reddit-sites)
 * [One Porn List](https://onepornlist.com/)
 * [BigPornList](https://bigpornlist.net/)
 * [MrPornGeek](https://www.mrporngeek.com/)
@@ -171,9 +171,7 @@
 * [PornWex](https://www.pornwex.tv/)
 * [ThePornFull](https://thepornfull.com/)
 * [Adultism](https://www.adultism.com/), [YourAmateurPorn](https://www.youramateurporn.com/), [Terk](https://www.terk.nl/), [Hobby Porn](https://hobby.porn/), [RealGFporn](https://www.realgfporn.com/), [HClips](https://hclips.com/), [MyLust](https://mylust.com/), [RulePorn](https://ruleporn.com/), [LoveHomePorn](https://lovehomeporn.com/) or [WatchMyGF](https://www.watchmygf.me/) - Amateur Porn
-* [eFukt](https://efukt.com/), [DarknessPorn](https://darknessporn.com/) or [CrazyShit](https://crazyshit.com/) - Extreme Porn
 * [MilfNut](https://milfnut.com/) - MILF Porn
-* [TeenagePornX](https://teenagepornx.com/) - Teenage (18+) Porn
 * [Porno Carioca](https://www.pornocarioca.com/), [Xnalgas](https://www.xnalgas.com/), [EspaPorn](https://espaporn.com/), [Putaria69](https://putaria69.com/), [Nao Conto](https://www.naoconto.com/), [Pornolandia](https://www.pornolandia.xxx/), [Novinhas Do Zap Zap](https://novinhasdozapzap.com/) or [Xpaja](https://www.xpaja.net/) - Latina Porn
 * [FreeArabSexx](https://freearabsexx.com/), [ArabySexy](https://arabysexy.com/), [Sex4ArabXXX](https://sex4arab.xxx/), [SexSaoy](https://sexsaoy.com/) or [SexAlArab](https://sexalarab.com/) - Arabic Porn
 * [XXBrits](https://www.xxbrits.com/) - British Porn
@@ -394,6 +392,7 @@
 
 # ► Download 
 
+* ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
 * ⭐ **[FapNationBot](https://discord.gg/d39hJGxwvX)** - Premium Porn Download Bot / [Free Bot](https://cutt.ly/4CnMP8x) / [Guide](https://rentry.co/seremfreeharem)
 * ⭐ **[SeaPorn](https://www.seaporn.org/)**
 * ⭐ **[0xxx](https://0xxx.ws/)**
@@ -417,7 +416,6 @@
 * [3XPlanet](https://3xplanet.com/) - Japanese
 * [JavLibrary](https://www.javlibrary.com/en/) - Japanese
 * [MixFemdomCC](https://mixfemdomcc.com/), [FetishFemdom](https://fetishfemdom.adult/), [FemdomZzz](https://femdomzzz.com/) or [FemdomUp](https://femdomup.net/) - Femdom Fetish
-* [Download Piracy Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download) - ctrl+f and type "nsfw"
 * [CamVault](https://camvault.xyz/) - DL Chaturbate, MyFreeCams & CAM4 Recordings
 * [XXXTelegramBot](https://t.me/XXXTelegramBot) - Telegram
 * [altar_of_elders](https://t.me/altar_of_elders) - Telegram
@@ -442,6 +440,7 @@
 
 ## ▷ Torrents
 
+* ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
 * ⭐ **[myporn.club](https://myporn.club/)**
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Japanese
 * ⭐ **[ProjectJav](https://projectjav.com/)** - Japanese
@@ -460,7 +459,6 @@
 * [JAVdb](https://javdb.com/) - Japanese
 * [My JAV Bay](https://myjavbay.com/) - Japanese
 * [JAVJunkies](http://javjunkies.org/main/) - Japanese
-* [Torrent Piracy Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)- ctrl+f and type "nsfw"
 * [Cheggit](https://www.cheggit.me/register.php), [BitSexy](https://bitsexy.org/signup.php) or [HappyFappy](https://www.happyfappy.org/users/register) - Private Trackers / Open-Signups
 * [srrXXX](https://www.srrxxx.com/) - Scene Release Tracker
 
@@ -598,7 +596,8 @@
 
 ## ▷ Hentai Anime
 
-* ⭐ **[The Index](https://theindex.moe/library/hentai)** - Hentai Sites List
+* 🌐 **[The Index](https://theindex.moe/library/hentai)** - Hentai Site List
+* 🌐 **[/cumg/](https://rentry.co/coom)** - Hentai Resources
 * ⭐ **[Nyaa Sukebei](https://sukebei.nyaa.si/)** - Hentai Torrents
 * ⭐ **[Anime-Sharing](https://www.anime-sharing.com/#downloads-requests)** - Hentai DDL
 * ⭐ **[Oppai.Stream](https://oppai.stream/)** - Hentai Streaming
@@ -657,14 +656,13 @@
 * [SFM Compile](https://sfmcompile.club/) - 3D Porn
 * [Iwara](https://www.iwara.tv/) - MMD Porn / [Discord](https://discord.com/invite/WAa9XXyBVq)
 * [HentaiLA](https://www3.hentaila.com/) - Spanish
-* [Fapservice](https://fapservice.com/) - Compilation of echhi anime scenes / [Discord](https://discord.com/invite/sTaEawE)
-* [/cumg/](https://rentry.co/coom) - Hentai Resources
+* [Fapservice](https://fapservice.com/) - Compilation of Echhi Anime Scenes / [Discord](https://discord.com/invite/sTaEawE)
 
 ***
 
 ## ▷ Hentai Manga / Comics
 
-* ⭐ **[E-Hentai](https://e-hentai.org/)** / [ExHentai](https://exhentai.org/) - Hentai Manga / [Android Client](https://github.com/honjow/FEhViewer) / [Deleted Galleries Backup](https://panda.chaika.moe/) / [Downloader](https://gitlab.com/squishydreams/pandaforever), [2](https://github.com/ccloli/E-Hentai-Downloader),
+* ⭐ **[E-Hentai](https://e-hentai.org/)** / [ExHentai](https://exhentai.org/) - Hentai Manga / [Android Client](https://github.com/honjow/FEhViewer) / [Deleted Galleries Backup](https://panda.chaika.moe/) / [Downloader](https://gitlab.com/squishydreams/pandaforever), [2](https://github.com/ccloli/E-Hentai-Downloader)
 * ⭐ **[Koushoku](https://ksk.moe/)** - Fakku/Irodori Rips
 * ⭐ **[Hitomi](https://hitomi.la/)** - Hentai Manga
 * ⭐ **[IMHentai](https://imhentai.xxx/)** - Hentai Manga / Comics / [Discord](https://discord.com/invite/GRTKFhavEG)
@@ -737,7 +735,6 @@
 * [shikotch](https://shikotch.net/)
 * [Hentai IMG](https://hentai-img.com/)
 * [Anime-Sharing Hentai](https://www.anime-sharing.com/forum/hentai-ovas-36/)
-* [MyReadingManga](https://myreadingmanga.info/) - LGBTQ+ Hentai Manga
 * [Yiffer](https://yiffer.xyz/) - Furry Comics
 * [SavitaHD](https://savitahd.net/) - Indian Sex Comics
 * [Doujinantena](https://doujinantena.top/) - Japanese Hentai Manga
@@ -865,10 +862,11 @@
 
 # ► LGBTQ+
 
-* ⭐ **[MyGaySites](https://mygaysites.com/)** - List of Gay Porn Sites
+* 🌐 **[MyGaySites](https://mygaysites.com/)** - Gay Porn Site Index
 * [Gay-Hotfile](https://gay-hotfile.errio.net/) - Downloads
 * [Yupdates](https://yupdates.neocities.org/) - Gay Porn Artwork / [Drives](https://cat.yupdates.art/) / [Discord](https://discord.com/invite/ECFKuBawQg)
 * [PBC](https://pbc.xxx/) - Gay Porn Encyclopedia
+* [MyReadingManga](https://myreadingmanga.info/) - LGBTQ+ Hentai
 * [BLCollection](https://blcollection.co/) - Boys Love Manga
 * [ShemaleVids.org](https://shemalevids.org/) - Trans Streaming
 * [Shemale777.org](https://shemale777.com/) - Trans Streaming
