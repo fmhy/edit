@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/xgSfQmJ)** - For mobile users
+**[Table of Contents](https://ibb.co/pPqgFM8)** - For mobile users
 
 ***
 ***
@@ -31,13 +31,6 @@
 * ⭐ **[boards.4channel](https://boards.4channel.org/search)**, [2](https://boards.4chan.org/search)
 
 [4GBs of 4chan Threads](https://archive.org/details/4chan-threads-2009-2012), [Ten Billion](https://archive.org/details/4chan_threads_archive_10_billion), [old.sage](https://old.sage.moe/), [BibAnon](https://vyrd.bibanon.org/), [4Museum](https://4museum.neocities.org/), [Archive.4plebs](https://archive.4plebs.org/), [arch.b4k](https://arch.b4k.co/), [Sup/tg/](https://suptg.thisisnotatrueending.com/), [4chanSearch](https://4chansearch.com/), [4search](https://4search.neocities.org/), [palanq](https://archive.palanq.win/), [desuarchive](https://desuarchive.org/), [neet.tv](https://catalog.neet.tv/), [archived.moe](https://archived.moe/) / [2](https://thebarchive.com/)
-
-***
-
-#### Adblock Defenders
-
-* ⭐ **[AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra)** - [Script](https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js)
-* [Easylist](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt)
 
 ***
 
