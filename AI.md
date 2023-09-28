@@ -166,7 +166,7 @@
 * [AI Center](https://aicenter.ai/) - AI Directory
 * [Wiki AI Tools](https://www.wikiaitools.com/) - AI Directory
 * [TopApps.Ai](https://topapps.ai/) - AI Directory
-* [NaNAI.tools] (https://nanai.tools) - AI Directory
+* [NaNAI.tools](https://nanai.tools) - AI Directory
 * [SuperTools](https://supertools.therundown.ai/) - AI Directory
 * [GPTE](https://gpte.ai/) - AI Directory
 * [EasyWithAI](https://easywithai.com/) - AI Directory
