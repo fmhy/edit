@@ -428,11 +428,10 @@
 
 ## ▷ Physics
 
-* 🌐 **[The Feynman Lectures](https://www.feynmanlectures.caltech.edu/)** - Physics Lectures
-* 🌐 **[Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php)** - Physics Tools
+* 🌐 **[Physics Saviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php)** or [Falstad](http://www.falstad.com/) - Physics Tools
 * ↪️ **[Math and Physics Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#math-and-physics-books)**
 * ⭐ **[phys](https://phys.org/)** - Latest / News / Article / Physics
-* ⭐ **[Falstad](http://www.falstad.com/)** - Math & Physics Apps / Simulations
+* ⭐ **[The Feynman Lectures](https://www.feynmanlectures.caltech.edu/)** - Physics Lectures
 * ⭐ **[Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html)**, [Mujoco](https://github.com/deepmind/mujoco), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
 * [PhysicsClassroom](https://www.physicsclassroom.com/) - Physics Lessons
 * [PhysicsTravelGuide](https://physicstravelguide.com/) - Physics Explanations
