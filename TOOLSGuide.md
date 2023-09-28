@@ -1551,6 +1551,7 @@ Twitch Stream Tracker
 * [StreamLadder](https://streamladder.com/) or [Quavy](https://www.quavy.app/) - Social Media Templates for Twitch Clips
 * [TwitchLeak](https://twitchleak.netlify.app/) - Twitch Top Earners Table
 * [Twitch Inspector](https://inspector.twitch.tv/) - Twitch Connection Troubleshooting
+* [Clipsey](https://clipsey.com/) - Twitch Clip Downloader
 
 ***
 
