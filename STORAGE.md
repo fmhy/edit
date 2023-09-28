@@ -57,7 +57,7 @@
 
 * ⭐ **[AlternativeTo](https://alternativeto.net/)**
 
-[Ethical](https://ethical.net/resources/), [Slant](https://www.slant.co/), [SaaSHub](https://www.saashub.com/), [switching.software](https://switching.software/), [ALTERNATIVES TO BLOATWARE](https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md), [Alternative.me](https://alternative.me/), [Top Best Alternatives](https://www.topbestalternatives.com/), [gofoss.net](https://gitlab.com/curlycrixus/gofoss), [Open Source Alternative To](https://www.opensourcealternative.to/), [TopAlter.com](https://topalter.com/), [PRISM Break](https://prism-break.org/), [ListAlternative](https://www.listalternative.com/), [Free Competitors](https://notabug.org/jyamihud/FreeCompetitors), [AppMus](https://appmus.com/)
+[Ethical](https://ethical.net/resources/), [Slant](https://www.slant.co/), [SaaSHub](https://www.saashub.com/), [switching.software](https://switching.software/), [Alternative.me](https://alternative.me/), [Top Best Alternatives](https://www.topbestalternatives.com/), [gofoss.net](https://gitlab.com/curlycrixus/gofoss), [Open Source Alternative To](https://www.opensourcealternative.to/), [TopAlter.com](https://topalter.com/), [PRISM Break](https://prism-break.org/), [ListAlternative](https://www.listalternative.com/), [Free Competitors](https://notabug.org/jyamihud/FreeCompetitors), [AppMus](https://appmus.com/)
 
 ***
 
@@ -172,7 +172,7 @@
 
 * ⭐ **[Malwarebytes Premium](https://github.com/fmhy/FMHYedit/blob/main/base64.md#malwarebytes-prem)** / [Unlimited Trials](https://rentry.co/mbforever)
 
-[Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/), [Immunet](https://www.immunet.com), [EsetKeyRobot](https://t.me/EsetKeyRobot), [Kaspersky Beta](https://eap.kaspersky.com/category/12/news)
+[Emsisoft Emergency Kit](https://www.emsisoft.com/en/home/emergencykit/), [EsetKeyRobot](https://t.me/EsetKeyRobot), [Kaspersky Beta](https://eap.kaspersky.com/category/12/news)
 
 ***
 
