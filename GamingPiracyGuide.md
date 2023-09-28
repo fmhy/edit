@@ -853,7 +853,6 @@
 * 🌐 **[Otis_Inf Camera Mods](https://redd.it/hvttbd)** - Game Camera Mods
 * ↪️ **[Game Mod Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_mods)**
 * ⭐ **[ChronoCrash](http://www.chronocrash.com/forum/)** - Game Modding Forum
-* ⭐ **[SweetFX](https://sfx.thelazy.net/)** or [ENBSeries](http://enbdev.com/) - Game Graphic Mods
 * [HedgeModManager](https://github.com/thesupersonic16/HedgeModManager) - Sonic Game Mod Manager
 * [Hidden Fallout 4 Mods](https://rentry.co/89gads), [2](https://docs.google.com/document/d/1Im5Mg-l2btRsYVOjaJa0slrjDcXNvi41J5pHw_Zuwqw/edit?usp=sharing) - Fallout 4 Mods Removed from Nexus
 * [OpenFortress](https://openfortress.fun/) - Team Fortress 2 Mod
@@ -1053,7 +1052,7 @@
 * ⭐ **[MSI Afterburner](https://www.msi.com/Landing/afterburner)**, [GPU Tweak lll](https://www.asus.com/campaign/GPU-Tweak-III/index.php) or [EVGA Precision X1](https://www.evga.com/precisionx1/) - GPU Overclocking / [Guide](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE/)
 * ⭐ **[MSI Kombustor](https://msikombustor.com/)** - GPU Benchmark Test
 * ⭐ **[SystemRequirmentsLab](https://www.systemrequirementslab.com/cyri/)**, [Game Debate](https://game-debate.com/) or [PCGameBenchmark](https://www.pcgamebenchmark.com/) - Game Requirements Tests
-* ⭐ **[ProSettings](https://prosettings.net/)**, [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html) or [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - Settings Optimization Guides
+* ⭐ **[ProSettings](https://prosettings.net/)**, [Share Gaming Tweaks](https://www.tenforums.com/gaming/117377-share-gaming-tweaks-chec-my-comprehensive-list-will-blow-your-mind.html), [SweetFX](https://sfx.thelazy.net/), [ENBSeries](http://enbdev.com) or [Use Gaming Tweaks](https://github.com/PrincessAkira/Use-Gaming-Tweaks) - Settings Optimization Guides
 * ⭐ **[DisplayMagician](https://github.com/terrymacdonald/DisplayMagician)** or [AutoActions](https://github.com/Codectory/AutoActions) - Per-Game Display Profiles
 * [LinkRunner](https://github.com/romjacket/rj_linkrunner) - Per-Game Settings Manager
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/), [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) or [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - Gaming Optimization Guides
