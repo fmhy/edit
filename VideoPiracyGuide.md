@@ -325,6 +325,7 @@
 * [KissCartoon.info](https://kisscartoon.info/) - Sub / Dub / Cartoons / 720p
 * [Kawaiifu](https://kawaiifu.com/) - Sub / Dub / 720p
 * [AnimeOnsen](https://animeonsen.xyz/) - Sub / 720p
+* [AnimeKhor](https://animekhor.xyz/) - Chinese Anime / Sub / 1080p / [Telegram](https://t.me/AnimeKhorOfficial)
 * [AnimeXin](https://animexin.vip/) - Chinese Anime / Sub / 1080p
 * [Lucifer Donghua](https://luciferdonghua.in/) - Chinese Anime / Sub / 1080p / [Telegram](https://telegram.me/luciferdonghuaz)
 * [LMAnime](https://lmanime.com/) - Chinese Anime / Sub / 1080p
