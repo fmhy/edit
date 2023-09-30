@@ -902,7 +902,6 @@
 ## ▷ Android Anime
 
 * ⭐ **[Aniyomi](https://aniyomi.org/)** - Movies / TV / Anime / [GitHub](https://github.com/jmir1/aniyomi)
-* ⭐ **[Saikou](https://github.com/saikou-app/saikou)** - [TV App](https://github.com/kemuriXD/SaikouTV) / [Web App](https://saikou.pages.dev/) / [Discord](https://discord.com/invite/2T7TunuwFZ )
 * [Crunrchyroll Mod](https://github.com/nbats/FMHYedit/blob/main/base64.md#crunchyroll-mod) - Anime / Premium Crunchyroll
 * [ZAnime](https://github.com/linkkader/zanime) / [Discord](https://rebrand.ly/linkkaderdiscord)
 * [Kazahana](https://github.com/yukino-org/kazahana)
