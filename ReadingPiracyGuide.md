@@ -55,8 +55,8 @@
 # ► Reading Sites
 
 * 🌐 **[Shadow Libraries](https://shadowlibraries.github.io/)** - Ebook Site Index
-* 🌐 **[eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)** - Ebook Subreddit Index
-* 🌐 **[/r/EBook_Resources](https://reddit.com/r/EBook_Resources/)** - Ebook Resources
+* 🌐 **[Ebook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)** - Ebook Subreddit Index
+* 🌐 **[/r/Ebook_Resources](https://reddit.com/r/EBook_Resources/)** - Ebook Resources
 * ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
 * ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
 * ↪️ **[IRC Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites)** - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/), [2](https://encyclopediadramatica.online/Bookz) / [mIRC](https://redd.it/znprct) / [Downloader](https://github.com/aghayes/rusty_book_pirate/), [2](https://github.com/evan-buss/openbooks), [3](https://github.com/Footsiefat/Openbooks-Downloader)
@@ -615,6 +615,7 @@
 * [Crossref](https://search.crossref.org/) - Articles / Documents / Datasets
 * [Zenodo](https://zenodo.org/) - Articles / Documents / Datasets
 * [Dataone](https://www.dataone.org/) - Datasets
+* [Science Nexus](https://www.reddit.com/r/science_nexus/) - Datasets / Papers
 * [Kaggle](https://www.kaggle.com/datasets) - Datasets
 * [Data Catalog](https://datacatalog.worldbank.org/) - Datasets
 * [DBpedia](https://www.dbpedia.org/) - Datasets
