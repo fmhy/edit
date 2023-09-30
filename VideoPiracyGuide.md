@@ -126,7 +126,6 @@
 * [Flixtor](https://flixtor.to) - Movies / TV / 720p / Movies Older Than 6 Months For Premium Only
 * [FreeTubeSpot](https://www.freetubespot.com/) - Movies / 480p
 * [MP4Mania](https://mp4mania1.net/) - Movies / 360p / [How to Use](https://i.imgur.com/CdFCNWA.mp4)
-* [Free Netflix](https://rentry.co/Free-Netflix) - Free Netflix Method
 * [JustWatch](https://www.justwatch.com/) - Search Legal Streaming Hosts
 
 ***
@@ -328,8 +327,9 @@
 * [AnimeXin](https://animexin.vip/) - Chinese Anime / Sub / 1080p
 * [Lucifer Donghua](https://luciferdonghua.in/) - Chinese Anime / Sub / 1080p / [Telegram](https://telegram.me/luciferdonghuaz)
 * [LMAnime](https://lmanime.com/) - Chinese Anime / Sub / 1080p
-* [MyAnime](https://myanime.live/) - Chine Anime / Sub / 1080p
-* [Crimsonfansubs](https://crimsonfansubs.com/) - Chine Anime / Sub / 1080p / [Discord](https://discord.com/invite/wnK38MjB)
+* [MyAnime](https://myanime.live/) - Chinese Anime / Sub / 1080p
+* [Animekhor](https://animekhor.xyz/) - Chinese Anime / Sub / 1080p
+* [Crimsonfansubs](https://crimsonfansubs.com/) - Chinese Anime / Sub / 1080p / Sub / 1080p / [Discord](https://discord.com/invite/wnK38MjB)
 * [Yuna](https://yuna.moe/) or [Miru](https://miru.js.org/en/) - Anime Streaming Apps
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/) / [Intro Skip](https://github.com/lexesjan/typescript-aniskip-extension)
 * [because.moe](https://because.moe/) - Legal Anime Sites Search 
