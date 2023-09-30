@@ -388,8 +388,8 @@
 
 # ► Mac Tools / Apps
 
-* 🌐 **[gibMacOS](https://github.com/corpnewt/gibMacOS)** or [OldSchoolOS](https://www.oldschoolos.com/) - Download MacOS
 * ↪️ **[Mac Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
+* ⭐ **[gibMacOS](https://github.com/corpnewt/gibMacOS)** or [OldSchoolOS](https://www.oldschoolos.com/) - Download MacOS
 * ⭐ **[Readdle](https://readdle.com/documents)** - Multipurpose File Tool
 * ⭐ **[The Unarchiver](https://theunarchiver.com/)**, [unxip](https://github.com/saagarjha/unxip) or [Keka](https://www.keka.io/) - File Archivers
 * ⭐ **[qBittorrent](https://www.qbittorrent.org/)** - Torrent Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)
