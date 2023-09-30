@@ -27,7 +27,6 @@
 * [Leon](https://getleon.ai/) - AI Assistant
 * [Pi](https://pi.ai/talk) - AI Assistant
 * [AiryChat](https://airychat.com/) - AI Assistants
-* [Feyn](https://www.feyn.ai/) - GPT-4 Q&A AI
 * [OSSChat](https://osschat.io/) - GPT-4 Q&A AI
 * [Forefront](https://chat.forefront.ai/) - GPT-3.5 Based Chatbots / [Discord](https://discord.com/invite/Wbc5cPPYSs)
 * [Teach Anything](https://www.teach-anything.com/) - GPT-3.5 Q&A AI
