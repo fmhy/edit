@@ -388,8 +388,8 @@
 
 # ► Mac Tools / Apps
 
-* 🌐 **[gibMacOS](https://github.com/corpnewt/gibMacOS)** or [OldSchoolOS](https://www.oldschoolos.com/) - Download MacOS
 * ↪️ **[Mac Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
+* ⭐ **[gibMacOS](https://github.com/corpnewt/gibMacOS)** or [OldSchoolOS](https://www.oldschoolos.com/) - Download MacOS
 * ⭐ **[Readdle](https://readdle.com/documents)** - Multipurpose File Tool
 * ⭐ **[The Unarchiver](https://theunarchiver.com/)**, [unxip](https://github.com/saagarjha/unxip) or [Keka](https://www.keka.io/) - File Archivers
 * ⭐ **[qBittorrent](https://www.qbittorrent.org/)** - Torrent Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_qbitorrent_tools)
@@ -5786,7 +5786,7 @@ Twitch Stream Tracker
 * [Technosagar](https://roms.technosagar.com/) - ROMs
 * [80s](https://github.com/nbats/FMHYedit/blob/main/base64.md#80s) - Emulators / ROMs 
 * [The Old Computer](https://www.theoldcomputer.com/) - Emulators / ROMs
-* [Emulator Games](https://www.emulatorgames.net/) - Emulators / ROMs
+* [Emulator Games](https://www.emulatorgames.net/) or [FreeROMsDownload](https://freeromsdownload.com/) - Emulators / ROMs
 * [Emuparadise](https://www.emuparadise.me/) - Emulators / ROMs / [Forum](https://www.epforums.org/) / [Workaround Script](https://web.archive.org/web/20230115181306/https://gist.github.com/byzantium225/484101c7846ce18e514b7b10bf4815c2)
 * [ROMsPURE](https://ROMspure.cc/) - Emulators / ROMs
 * [Romspedia](https://www.romspedia.com/) - Emulators / ROMs
@@ -5931,6 +5931,7 @@ Twitch Stream Tracker
 * [ClassicGame](https://www.classicgame.com/) - Browser Games
 * [ClassicGamesArcade](https://classicgamesarcade.com/) - Browser Games
 * [Radyolojinet](https://www.radyolojinet.com/retro/) - Browser Games
+* [WePlayOld](https://www.weplayold.com/) or [RetroGames](https://retrogames.fun) - Browser Games
 * [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
 * [FunGame](http://www.fungame.pe.kr/main_eng.htm) - Java Browser Games
 * [OpenRA](https://openra.net/) - Command & Conquer Recreation 
@@ -7475,6 +7476,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
 * [50Hacks](https://50hacks.co/) - Productivity Tips
 * [Philosophy Bro](https://www.philosophybro.com/) or [PhilosophyBasics](https://www.philosophybasics.com/) - Learn about Philosophy
+* [Antinatalism Resources](https://rentry.co/Antinatalism_) - Learn about Antinatalism 
 * [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
 * [Brainkit](https://www.braink.it/) - Learn Helpful Principles
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
@@ -11416,8 +11418,8 @@ pass: paluch
 # ► Reading Sites
 
 * 🌐 **[Shadow Libraries](https://shadowlibraries.github.io/)** - Ebook Site Index
-* 🌐 **[eBook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)** - Ebook Subreddit Index
-* 🌐 **[/r/EBook_Resources](https://reddit.com/r/EBook_Resources/)** - Ebook Resources
+* 🌐 **[Ebook Subreddits](https://www.reddit.com/r/BookRelatedSubs/wiki/sublist)** - Ebook Subreddit Index
+* 🌐 **[/r/Ebook_Resources](https://reddit.com/r/EBook_Resources/)** - Ebook Resources
 * ↪️ **[General DDL Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download)**
 * ↪️ **[General Torrent Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent)**
 * ↪️ **[IRC Ebooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_irc_book_sites)** - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/), [2](https://encyclopediadramatica.online/Bookz) / [mIRC](https://redd.it/znprct) / [Downloader](https://github.com/aghayes/rusty_book_pirate/), [2](https://github.com/evan-buss/openbooks), [3](https://github.com/Footsiefat/Openbooks-Downloader)
@@ -11976,6 +11978,7 @@ pass: paluch
 * [Crossref](https://search.crossref.org/) - Articles / Documents / Datasets
 * [Zenodo](https://zenodo.org/) - Articles / Documents / Datasets
 * [Dataone](https://www.dataone.org/) - Datasets
+* [Science Nexus](https://www.reddit.com/r/science_nexus/) - Datasets / Papers
 * [Kaggle](https://www.kaggle.com/datasets) - Datasets
 * [Data Catalog](https://datacatalog.worldbank.org/) - Datasets
 * [DBpedia](https://www.dbpedia.org/) - Datasets
@@ -17361,6 +17364,7 @@ Add the following commands to a search to manually scrape each site.
 
 * 🌐 **[Awesome-GPT4](https://gpt4.tools/)** - ChatGPT Resources
 * 🌐 **[LifeArchitect](https://lifearchitect.ai/models-table/)** - Chatbot Index
+* 🌐 **[Free AI APIs](https://github.com/NovaOSS/free-ai-apis) or [Nova OSS](https://nova-oss.com/)** - AI APIs
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot / [Discord](https://discord.com/invite/openai)
 * ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Q&A AI / [Discord](https://discord.com/invite/S25yW8TebZ)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Q&A AI / [Discord](https://discord.com/invite/perplexity-ai) / [Llama Version](https://labs.perplexity.ai/)
@@ -17388,7 +17392,6 @@ Add the following commands to a search to manually scrape each site.
 
 * 🌐 **[Awesome Totally Open ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)** - Open-Source LLMs Index
 * 🌐 **[Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)** - LLM Leaderboard
-* 🌐 **[Free AI APIs](https://github.com/NovaOSS/free-ai-apis) or [Nova OSS](https://nova-oss.com/)** - AI APIs
 * ⭐ **[seait](https://github.com/diStyApps/seait)** - AI Installation Manager
 * ⭐ **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Chatbots / [Collab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
 * ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host LLaMa Based Chatbots
@@ -17437,7 +17440,7 @@ Add the following commands to a search to manually scrape each site.
 
 ## ▷ ChatGPT Tools
 
-* 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)**, **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) or [jsmsj](https://github.com/jsmsj/GPT4) - ChatGPT WebUIs
+* 🌐 **[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)**, **[FOFA](https://en.fofa.info/result?qbase64=ImxvYWRpbmctd3JhcCIgJiYgImJhbGxzIiAmJiAiY2hhdCIgJiYgaXNfZG9tYWluPXRydWU%3D)** / [2](https://en.fofa.info/result?qbase64=dGl0bGU9PSJDaGF0R1BUIFdlYiI%3D) - ChatGPT WebUIs
 * ↪️ **[ChatGPT Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chatgpt_extensions)**
 * ↪️ **[Discord ChatGPT](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chatgpt_discord_bots)**
 * ⭐ **[/r/ChatGPT](https://www.reddit.com/r/ChatGPT/)** - ChatGPT Subreddit
