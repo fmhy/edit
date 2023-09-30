@@ -187,7 +187,7 @@
 * [Technosagar](https://roms.technosagar.com/) - ROMs
 * [80s](https://github.com/nbats/FMHYedit/blob/main/base64.md#80s) - Emulators / ROMs 
 * [The Old Computer](https://www.theoldcomputer.com/) - Emulators / ROMs
-* [Emulator Games](https://www.emulatorgames.net/) - Emulators / ROMs
+* [Emulator Games](https://www.emulatorgames.net/) or [FreeROMsDownload](https://freeromsdownload.com/) - Emulators / ROMs
 * [Emuparadise](https://www.emuparadise.me/) - Emulators / ROMs / [Forum](https://www.epforums.org/) / [Workaround Script](https://web.archive.org/web/20230115181306/https://gist.github.com/byzantium225/484101c7846ce18e514b7b10bf4815c2)
 * [ROMsPURE](https://ROMspure.cc/) - Emulators / ROMs
 * [Romspedia](https://www.romspedia.com/) - Emulators / ROMs
@@ -332,6 +332,7 @@
 * [ClassicGame](https://www.classicgame.com/) - Browser Games
 * [ClassicGamesArcade](https://classicgamesarcade.com/) - Browser Games
 * [Radyolojinet](https://www.radyolojinet.com/retro/) - Browser Games
+* [WePlayOld](https://www.weplayold.com/) or [RetroGames](https://retrogames.fun) - Browser Games
 * [Necromanthus](https://necromanthus.com/) - 3D Shockwave Games
 * [FunGame](http://www.fungame.pe.kr/main_eng.htm) - Java Browser Games
 * [OpenRA](https://openra.net/) - Command & Conquer Recreation 
