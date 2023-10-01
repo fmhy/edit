@@ -2513,7 +2513,7 @@ Add the following commands to a search to manually scrape each site.
 * [bandmusicpdf](https://bandmusicpdf.org/)
 * [publicdomainsherpa](http://www.publicdomainsherpa.com/free-sheet-music.html)
 * [JMSheetMusic](https://t.me/JMSheetMusic)
-* [VGLeadSheets](https://www.vgleadsheets.com/ or [GameMusicThemes](https://www.gamemusicthemes.com/) - Video Games
+* [VGLeadSheets](https://www.vgleadsheets.com/) or [GameMusicThemes](https://www.gamemusicthemes.com/) - Video Games
 
 ***
 
@@ -3126,7 +3126,7 @@ Add the following commands to a search to manually scrape each site.
 
 #### Twitch Video Downloaders
 
-[twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl), [ClipsGameLab](https://clipsgamelab.github.io/), [Clipr](https://clipr.xyz/), [Twiclips](https://twiclips.com/), [Twitch Downloader](https://github.com/lay295/TwitchDownloader), [TwitchLink](https://twitchlink.github.io/), [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader)
+[twitch-downloader](https://github.com/jybp/twitch-downloader), [twitch-dl](https://github.com/ihabunek/twitch-dl), [ClipsGameLab](https://clipsgamelab.github.io/), [Clipr](https://clipr.xyz/), [Twiclips](https://twiclips.com/), [Twitch Downloader](https://github.com/lay295/TwitchDownloader), [TwitchLink](https://twitchlink.github.io/), [Twitch clips downloader](https://github.com/TorbenCapiau/Twitch-Clips-Downloader), [clipsey](https://clipsey.com/)
 
 ***
 
@@ -3356,7 +3356,7 @@ Add the following commands to a search to manually scrape each site.
 * [WallClaimer](https://www.wallclaimer.com/) - Snag Friends Wallpapers
 * [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - iOS Wallpaper App
 
-[Wallpaper Engine](https://www.wallpaperengine.io/android/en), [wallhaven](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait), [wallpaperfusion](https://www.wallpaperfusion.com/Apps/), [wallpaperaccess](https://wallpaperaccess.com/cat/devices), [wallpapers.com](https://wallpapers.com/mobile), [wallpapersafari](https://wallpapersafari.com/), [wallpapercave](https://wallpapercave.com/categories/devices), [positrondream](https://www.positrondream.com/wallpapers-all), [simpledesktops](http://simpledesktops.com/app/android/), [wallpapertip](https://www.wallpapertip.com/), [wallpaperflare](https://www.wallpaperflare.com/search?wallpaper=vertical), [hdqwalls](https://hdqwalls.com/), [wallpapersden](https://wallpapersden.com/), [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) / [2](https://photos.google.com/share/AF1QipNi8VN2pw2Ya_xCV8eFgzEZmiXDy1-GwhXbqFtvXoH3HypF10as9puV8FdoVZpOZA?key=WkZjQTIxQTM5a01oZkNUYTE2ZllKTVJKZk1CMTR3), [VectorifyDaHome](https://github.com/enricocid/VectorifyDaHome), [backiee](https://backiee.com/), [Wallpapers_Phone_Mobile](https://t.me/Wallpapers_Phone_Mobile/), [iphone11papers](https://iphone11papers.com/), [Wallpapers Clan](https://wallpapers-clan.com/), [Wallme](https://github.com/Alaory/WallMe-Wallpaper), [WallYou](https://github.com/Bnyro/WallYou), [Mobcup](https://mobcup.net/), [Absolutely Walls](https://photos.app.goo.gl/CxHuPTVjmPUSu2sUA), [/r/iWallpaper](https://www.reddit.com/r/iWallpaper/), [WalliApp](https://www.walliapp.com/), [/r/Verticalwallpapers](https://www.reddit.com/r/Verticalwallpapers/), [/r/MobileWallpaper](https://www.reddit.com/r/MobileWallpaper/), [Zedge](https://www.zedge.net/, [Wallman](https://apt.izzysoft.de/fdroid/index/apk/com.colorata.wallman)
+[Wallpaper Engine](https://www.wallpaperengine.io/android/en), [wallhaven](https://wallhaven.cc/search?categories=110&purity=100&ratios=portrait), [wallpaperfusion](https://www.wallpaperfusion.com/Apps/), [wallpaperaccess](https://wallpaperaccess.com/cat/devices), [wallpapers.com](https://wallpapers.com/mobile), [wallpapersafari](https://wallpapersafari.com/), [wallpapercave](https://wallpapercave.com/categories/devices), [positrondream](https://www.positrondream.com/wallpapers-all), [simpledesktops](http://simpledesktops.com/app/android/), [wallpapertip](https://www.wallpapertip.com/), [wallpaperflare](https://www.wallpaperflare.com/search?wallpaper=vertical), [hdqwalls](https://hdqwalls.com/), [wallpapersden](https://wallpapersden.com/), [iOS Wallpapers](https://goo.gl/photos/ZVpabTtcezd35XBa9/) / [2](https://photos.google.com/share/AF1QipNi8VN2pw2Ya_xCV8eFgzEZmiXDy1-GwhXbqFtvXoH3HypF10as9puV8FdoVZpOZA?key=WkZjQTIxQTM5a01oZkNUYTE2ZllKTVJKZk1CMTR3), [VectorifyDaHome](https://github.com/enricocid/VectorifyDaHome), [backiee](https://backiee.com/), [Wallpapers_Phone_Mobile](https://t.me/Wallpapers_Phone_Mobile/), [iphone11papers](https://iphone11papers.com/), [Wallpapers Clan](https://wallpapers-clan.com/), [Wallme](https://github.com/Alaory/WallMe-Wallpaper), [WallYou](https://github.com/Bnyro/WallYou), [Mobcup](https://mobcup.net/), [Absolutely Walls](https://photos.app.goo.gl/CxHuPTVjmPUSu2sUA), [/r/iWallpaper](https://www.reddit.com/r/iWallpaper/), [WalliApp](https://www.walliapp.com/), [/r/Verticalwallpapers](https://www.reddit.com/r/Verticalwallpapers/), [/r/MobileWallpaper](https://www.reddit.com/r/MobileWallpaper/), [Zedge](https://www.zedge.net/), [Wallman](https://apt.izzysoft.de/fdroid/index/apk/com.colorata.wallman)
 
 ***
 
