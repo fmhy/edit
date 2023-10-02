@@ -1107,7 +1107,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Game Soundtracks
 
-* ⭐ **[Squid-Board](https://www.squid-board.org/)** - Account Required
 * [Khinsider](https://downloads.khinsider.com/) - [Downloader](https://codeberg.org/sun/VGMLoader) / [2](https://github.com/obskyr/khinsider) / [3](https://github.com/weespin/KhinsiderDownloader)
 
 [Duke4 SC-55](https://sc55.duke4.net/games.php), [Project2612](https://project2612.org/index.php), [retro.sx](https://retro.sx/), [GameOST](https://gameost.net/), [VGMRips](https://vgmrips.net/packs/), [VGMPF](http://www.vgmpf.com/), [Zophar's](https://www.zophar.net/music)
@@ -1229,10 +1228,10 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 **Editing Software**
 
-⭐ **[Gimp](https://www.gimp.org/)**, [2](https://github.com/cttynul/gimpshop-reloaded) / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP)
+* ⭐ **[Gimp](https://www.gimp.org/)**, [2](https://github.com/cttynul/gimpshop-reloaded) / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP)
 * [DragGAN](https://github.com/XingangPan/DragGAN) - AI Image Editor
 
-[PhotoDemon](https://github.com/tannerhelland/PhotoDemon), [Paint.net](https://www.getpaint.net/index.html), [Photoscape](http://www.photoscape.org/), [PhotoFiltre](https://www.photofiltre-studio.com/), [Polarr](https://www.polarr.com/), [ImageMagick](https://imagemagick.org/index.php) / [Scripts](http://www.fmwconcepts.com/imagemagick/index.php), [Pinta Project](https://www.pinta-project.com/), [RawTherapee](https://rawtherapee.com/), [Pixeluvo](http://www.pixeluvo.com/), [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) (VS Code), [Gimel Studio](https://gimelstudio.github.io/), [Luminar](https://skylum.com/luminar), [MagickUtils](https://github.com/n00mkrad/magick-utils)
+[PhotoDemon](https://github.com/tannerhelland/PhotoDemon), [Paint.net](https://www.getpaint.net/index.html), [Photoscape](http://www.photoscape.org/), [PhotoFiltre](https://www.photofiltre-studio.com/), [Polarr](https://www.polarr.com/), [ImageMagick](https://imagemagick.org/index.php) / [Scripts](http://www.fmwconcepts.com/imagemagick/index.php), [Pinta Project](https://www.pinta-project.com/), [RawTherapee](https://rawtherapee.com/), [Luna Paint](https://marketplace.visualstudio.com/items?itemName=Tyriar.luna-paint) (VS Code), [Gimel Studio](https://gimelstudio.github.io/), [MagickUtils](https://github.com/n00mkrad/magick-utils)
 
 **Online Editors**
 
@@ -1300,7 +1299,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### Interactive Math Sites
 
-⭐ **[AoPS Alcumus](https://artofproblemsolving.com/alcumus)**
+* ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/alcumus)**
 
 [Cut The Knot](http://www.cut-the-knot.org/), [Mathlets](https://mathlets.org/), [GeoGebra](https://www.geogebra.org/), [Mathspad](https://www.mathspad.co.uk/resources.php?interactives=1)
 
