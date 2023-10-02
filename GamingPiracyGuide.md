@@ -1224,7 +1224,7 @@
 * 🌐 **[Awesome PokemonGO](https://github.com/tobiasbueschel/awesome-pokemon)** - PokemonGO Resources
 * ⭐ **[PokeList](https://pokemonlist.netlify.app/)**, [Pokedex](https://github.com/skydoves/Pokedex) or [PokeAPI](https://pokeapi.co/) - Pokedexes
 * ⭐ **[Pokémon Typechart](https://pokemondb.net/type)** - Pokémon Type Charts / [Image](https://img.pokemondb.net/images/typechart.png)
-* ⭐ **[DelugeRPG](https://www.delugerpg.com/)** or [Pokemon Legends](https://www.pokemongods.com/) or [PokemonRevolution](https://pokemonrevolution.net/) - Pokémon MMOs
+* ⭐ **[DelugeRPG](https://www.delugerpg.com/)**, [Pokemon Legends](https://www.pokemongods.com/) or [PokemonRevolution](https://pokemonrevolution.net/) - Pokémon MMOs
 * ⭐ **[Pokémon Showdown](https://pokemonshowdown.com/)** - Online Pokémon Battles
 * [PokeGB](https://github.com/binji/pokegb) - Pokémon Blue Emulator
 * [PokemonLog](https://pokemonlog.com/), [PokeHarbor](https://www.pokeharbor.com/) or [Pokémon Coders](https://www.pokemoncoders.com/) - Hacked Pokémon ROMs
