@@ -5,7 +5,7 @@
 [TOC2]
 
 ***
-### FAQ ❓
+### FAQ
 
 > How do I tell if a site or download is safe? Any tips? 
 Check out [Booty Guard](https://rentry.org/bootyguard) our basic safety guide. 
@@ -49,7 +49,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
  You can use [this](https://downloader.la/) if this doesn't work you can find similar stock image downloaders [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_stock_photo_sites).
 ***
 
-### Pirate Windows 🖥
+### Pirate Windows
 
 **[Windows Piracy Guide](https://github.com/nbats/FMHYedit/blob/main/base64.md#windows-piracy-guides)** - Pirate windows
 **[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - Download Windows
@@ -59,14 +59,14 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### Linux / MacOS Piracy
 
-#### Linux 🐧
+#### Linux
 **[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_distros)** - Download Linux Distros 
 **[Linux Piracy](https://rentry.co/LinuxPiracy) / [Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** - Piracy Guide for Linux 
 **[Torrminatorr](https://forum.torrminatorr.com/) / [Kapital Sin](https://kapitalsin.com/)** - Download Linux Games
 **[TorrFlix](https://github.com/infinity-plus/TorrFlix)** - Torrent Streaming CLI
 **[ani-cli](https://github.com/pystardust/ani-cli)** - Anime Streaming Terminal
 
-#### MacOS 🍎
+#### MacOS
 
 **[MacIntosh Garden](http://macintoshgarden.org/)** - MacOS Software
 **[Torrminatorr](https://forum.torrminatorr.com/)** - Download MacOS Games
@@ -74,7 +74,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
  
 ***
 
-### Browser 🌐
+### Browser
 
 **[Firefox](https://www.mozilla.org/en-US/firefox/new/)** / **[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / **[Browser Comparisons](https://avoidthehack.com/util/browser-comparison)**
 **[Browser Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_extensions) / [Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7_userscripts)** - Add features & functionality to browser
@@ -87,7 +87,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ***
 
-### Adblocking 🚫
+### Adblocking
 
 **[uBlock Origin](https://github.com/gorhill/uBlock#installation)**  - The most popular (and best) adblocking extension
 **[Adblock Defenders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_adblock_defenders)** - Prevent sites from detecting adblocker
@@ -102,7 +102,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ***
 
-### Anti-virus 🛡
+### Anti-virus
 
 **[VirusTotal](https://www.virustotal.com)  / [Kaspersky Cloud](https://opentip.kaspersky.com/)** - Test the safety of files
 **[Guide for VirusTotal](https://rentry.org/Guide4VirusTotal)** - Virus Scan Results Guide
@@ -112,7 +112,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ***
 
-### Privacy 🔐
+### Privacy
 
 **[Privacy Guides](https://www.privacyguides.org/)** - Privacy Guides 
 **[Security List](https://security-list.js.org/)** - Security Checklist
@@ -132,7 +132,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ***
 
-### Streaming 📽
+### Streaming
 
 **[FMovies](https://fmovies.name/) / [movie-web](https://movie-web.app/) / [SusFlix](https://susflix.tv/)** - Fast streaming
 **[AniWatch](https://aniwatch.to/) / [AniWave](https://aniwave.to/)** - Fast anime streaming
@@ -145,7 +145,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ***
 
-### Downloading ⬇
+### Downloading
 
 **[LRRepacks](https://lrepacks.net/)** - Trusted software site
 **[OlaMovies](https://olamovies.rest/)** - Fast video downloads
@@ -164,7 +164,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 !!!note When using DDL it's generally recommended to use a download manager such as Internet Download Manager(IDM) or JDownloader, they improve the ease of downloading along with the speeds. You'll find them [here](#useful-stuff)
 ***
 
-### Torrenting 🧲
+### Torrenting
 
 !!!warning Torrenting can get you in trouble with your ISP, so make sure to use a [VPN](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25BA_vpn). Most VPNs offer a killswitch to prevent data leaks, but it's much more effective to  [bind your VPN to your client](https://redd.it/ssy8vv), preventing it from connecting at all unless your VPN is on.
 
@@ -183,7 +183,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ***
 
-### Reading 📖
+### Reading
 
 **[Mobilism](https://forum.mobilism.org) / [Library Genesis](http://libgen.rs/) / [Z-Library](https://singlelogin.re/) / [Annas Archive](https://annas-archive.org/)** - Books, audiobooks, comics & more
 **[Audiobook Bay](http://audiobookbay.ws/)** - Audiobook torrents / Avoid Fake DL links, Use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png)
@@ -197,7 +197,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ***
 
-### Mobile 📱
+### Mobile
 
 **[Cromite](https://github.com/uazo/cromite) / [Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/)/ [Mull](https://github.com/Divested-Mobile/Mull-Fenix) / [Kiwi](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US&gl=US)** - Android web browsers
 **[Insight](https://insightbrowser.com/) / [Aloha](https://alohabrowser.com/) / [Kagi](https://testflight.apple.com/join/DeC8ZDnu)**  - iOS web browsers / [Improve Safari](https://hyperweb.app/)
@@ -215,7 +215,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ***
 
-### Useful Stuff 💡
+### Useful Stuff
 
 **[Video Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_players) / [Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_media_servers)** - Host & play videos
 **[Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players) / [Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_servers)** - Host & play audio
