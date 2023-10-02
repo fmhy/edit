@@ -641,7 +641,6 @@
 * [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide 
 * [TryHackMe](https://tryhackme.com/), [AWS Training](https://www.aws.training/), [Comptia](https://www.comptia.org/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html), [UI.com](https://www.ui.com/training/), [CryptoHack](https://cryptohack.org/) - IT Training & Courses
 * [Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - IT Certification Courses
-* [Marketing / Business Courses](https://github.com/nbats/FMHYedit/blob/main/base64.md#marketing-courses)
 * [Pimp My Money](https://pimpmymoney.net/) - Digital Marketing Course Torrents
 * [Traders Video Library](https://t.me/+SrWg6eTupAdnoXgY) - Trading Courses / [Mirror](https://t.me/TradersVideo_Library)
 * [Data.gov Resources](https://resources.data.gov/) - Data Management Tools & Training
