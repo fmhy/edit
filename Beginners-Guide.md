@@ -147,7 +147,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### Downloading ⬇
 
-**[RSLOAD](https://rsload.net/) / [LRRepacks](https://lrepacks.net/)** - Trusted software sites
+**[LRRepacks](https://lrepacks.net/)** - Trusted software site
 **[OlaMovies](https://olamovies.rest/)** - Fast video downloads
 **[AnimeKaizoku](https://animekaizoku.com/)** - Fast anime downloads
 **[FitGirl Repacks](https://fitgirl-repacks.site/) / [SteamRIP](https://steamrip.com/) / [GOG-Games](https://gog-games.to/)** - Game download sites / [FitGirl Discord](https://discord.gg/Up3YARe4RW)
