@@ -975,12 +975,6 @@ pass: paluch
 
 ***
 
-#### Marketing Courses
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci82SnBUVUtZUSNEMmM1dDF1QnZ5aGVkM2loZnI2amlRCmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvVUFaVEFJaEwjV0ZjcHBoeWlKTGhnYUZOUUQ5TmI0UQ==`
-
-***
-
 #### Producer Plug Sheet
 
 `aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvMXljbjZHNmhpLS04OS0xZUVJQmJsMkxnbTRuSHozT055NUJJNFJJSWdkcUkv`
