@@ -2588,6 +2588,10 @@ Add the following commands to a search to manually scrape each site.
 
 ***
 
+#### Song Lyrics
+
+***
+
 #### Skip Redirect
 
 * ⭐ **[FastForward](https://fastforward.team/)** / [Discord](https://discord.gg/RSAf7b5njt)
