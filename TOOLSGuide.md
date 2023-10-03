@@ -1096,7 +1096,7 @@
 * [Delta Chat](https://delta.chat/en/) - Email Based Messenger
 * [Fedora Email](https://fedora.email/) - Email Web Client
 * [Postsack](https://github.com/terhechte/postsack) - Email Visualizer
-* [BeFree](https://beefree.io/templates/free/) - Email Templates
+* [BeFree](https://beefree.io/templates/free/) or [Briskine](https://www.briskine.com/) - Email Templates
 * [FreeMail](https://extrassl.actalis.it/portal/uapub/freemail?lang=en) - Free Mail Certificate
 * [Boomerang](https://www.boomeranggmail.com/), [NudgeMail](https://nudgemail.com/) or [FollowupThen](https://www.followupthen.com/) - Scheduled Email Sending & Reminders 
 * [Email Tracker](https://snov.io/email-tracker), [GetNotify](https://www.getnotify.com/) or [Mailtrack](https://mailtrack.io/) - Email Engagement 
@@ -1110,7 +1110,6 @@
 * [Email Valid](https://ivit.pro/services/email-valid/) or [Ychecker](https://ychecker.com/) - Check Email Validity & Usage
 * [Holehe](https://github.com/megadose/holehe) - Find Accounts Connected to Emails
 * [Useplaintext](https://useplaintext.email/) - How-To Use Plaintext Email 
-* [Briskine](https://www.briskine.com/) - Email Templates
 * [Signature Maker](https://signature-maker.net/) or [SignatureHound](https://signaturehound.com/) - Email Signature Creators
 * [InternetBumperStickers](https://www.internetbumperstickers.com/) - Images for Signatures
 * [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers 
