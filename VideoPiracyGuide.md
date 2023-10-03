@@ -281,25 +281,24 @@
 * 🌐 **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources)** - Japanese Piracy Index
 * ⭐ **[AniWatch](https://aniwatch.to/)**, [2](https://4anime.gg/), [3](https://kaido.to/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/RRaf5JkkKu) / [Auto-Focus](https://greasyfork.org/en/scripts/464019) / [Mirrors](https://zoroanime.net/)
-* ⭐ **[AniWave](https://aniwave.to/)** - Sub / Dub / 1080p / [Mirrors](https://9anime.me/) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher) / [Ad Scripts](https://redd.it/c330dx)
+* ⭐ **[AniWave](https://aniwave.to/)** - Sub / Dub / 1080p /[Lite](https://lite.aniwave.to) [Mirrors](https://aniwave.tv/) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher) / [Ad Scripts](https://redd.it/c330dx)
 * ⭐ **[AllAnime](https://allanime.to/)** - Sub / Dub / 1080p
 * ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / 1080p / Mini Encoded Blu-Ray / [Downloader](https://github.com/KevCui/animepahe-dl)
 * ⭐ **[KickAssAnime](https://kickassanime.am/)** - Sub / Dub / 1080p / [Mirrors](https://kickassanimes.info/) / [Discord](https://discord.com/invite/kaa)
-* ⭐ **[Animension](https://animension.to/)** - Sub / Dub / 1080p
+* ⭐ **[Anix](https://anix.to/)**, Alternatives - [2](https://animesuge.to/) [3](https://gogoanimex.to/home), [4](https://zorox.to/) - Sub / Dub / 1080p
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
-* [GoGoAnime](https://gogoanimehd.to/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/gogo) / [Mirrors](https://gogotaku.info/) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [CLI](https://github.com/DemonKingSwarn/gogo-cli) / [Downloader](https://github.com/notmarek/GOgogoanime), [2](https://github.com/sdaqo/anipy-cli) / [Download Script](https://greasyfork.org/en/scripts/465970), [2](https://greasyfork.org/en/scripts/426661) / [DL Guide](https://rentry.org/gogodlscript)
+* [GoGoAnime](https://gogoanimehd.io/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/gogo) / [Mirrors](https://gogotaku.info/) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [CLI](https://github.com/DemonKingSwarn/gogo-cli) / [Downloader](https://github.com/notmarek/GOgogoanime), [2](https://github.com/sdaqo/anipy-cli) / [Download Script](https://greasyfork.org/en/scripts/465970), [2](https://greasyfork.org/en/scripts/426661) / [DL Guide](https://rentry.org/gogodlscript)
 * [AnimeHub](https://animehub.ac/) - Sub / Dub / 1080p [Discord](https://discord.com/invite/4rBPpfkp)
-* [Animixplay](https://animixplay.tube/) - Sub / Dub / 1080p
-* [Anix](https://anix.to/) - Sub / Dub / 1080p
+* [Animixplay](https://animixplay.tube/) [2](https://animixplay.fun) [3](https://animixplay.name) - Sub / Dub / 1080p
 * [123Anime](https://123animes.ru/) - Sub / Dub / 1080p
 * [AnimeLon](https://animelon.com/) - Sub / Learn Japanese / 1080p
 * [Ryuk](https://ryuk.to/) - Sub / Dub / 1080p / [Dicord](https://discord.com/invite/FrWnWRrZmk)
 * [Kaguya](https://kaguya.app/) - Sub / 1080p / [Discord](https://discord.gg/382BEFfER6)
 * [Genoanime](https://genoanime.com/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/TMe9eVs2YY)
+* [Animension](https://animension.to) - Sub / Dub / 1080p
 * [Animeflix](https://animeflix.live/) - Sub / Dub / 1080p
 * [Animeow](https://animeow.me/) - Sub / Dub / 1080p / [Discord](https://discord.gg/FT5MnbcDWz)
-* [AnimeSuge](https://animesuge.to/) - Sub / Dub / 1080p
 * [Playtaku](https://anihdplay.com/) - Sub / Dub / 1080p
 * [AnimeHeaven](https://animeheaven.me/) - Sub / 1080p
 * [AnimeNana](https://animenana.com/) - Sub / 1080p
