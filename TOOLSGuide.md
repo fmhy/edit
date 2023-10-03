@@ -1637,7 +1637,7 @@ Twitch Stream Tracker
 * [Graph.tips](https://graph.tips/beta/) - Advanced Facebook Search Tool
 * [WhoPostedWhat](https://whopostedwhat.com/) - Facebook Post Search
 * [Color Themes](https://chrome.google.com/webstore/detail/color-themes-for-facebook/oohbdcphbnpnoohnbddhcfplalanfbmm), [Coloreatuface](https://www.coloreatuface.com/), [FB.Zone](https://fb.zone/) or [Color Changer](https://chrome.google.com/webstore/detail/color-changer-for-faceboo/blfkmmfngackeejimehjkmendglnabnm) - Color Themes for Facebook
-* [Kill Fbclid](https://chrome.google.com/webstore/detail/kill-fbclid/jlmdkcaiejonohbmkgickmkgbpceokmn) or [Remove FBclid](https://chrome.google.com/webstore/detail/remove-fbclid-and-utm/ehkdoijaaigomfliimepliikhjkoipob) Removes fbclid and utm_ query parameters in URLs
+* [Kill Fbclid](https://chrome.google.com/webstore/detail/kill-fbclid/jlmdkcaiejonohbmkgickmkgbpceokmn) or [Remove FBclid](https://chrome.google.com/webstore/detail/remove-fbclid-and-utm/ehkdoijaaigomfliimepliikhjkoipob) - Removes fbclid and utm_ query parameters in URLs
 * [Delete All Messages](https://chrome.google.com/webstore/detail/delete-all-messages-on-fa/hdigpgnfpockednepfiinhdjebkmpicn) - Remove All Messages
 * [Delete My Posts](https://www.deletemyposts.com/) - Bulk Delete Facebook Content / 50 Per Day Free
 * [News Feed Eradicator](https://west.io/news-feed-eradicator/) - Hide Facebook News Feed
