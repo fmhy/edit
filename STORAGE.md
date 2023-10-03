@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/pPqgFM8)** - For mobile users
+**[Table of Contents](https://ibb.co/FW40t6n)** - For mobile users
 
 ***
 ***
@@ -2117,7 +2117,9 @@ Add the following commands to a search to manually scrape each site.
 
 #### Privacy Guides
 
-[Surveillance Self-Defense](https://ssd.eff.org/), [Defensive Computing Checklist](https://defensivecomputingchecklist.com/), [Security In A Box](https://securityinabox.org/en/), [AvoidTheHack](https://avoidthehack.com/), [Eldritch Data](https://eldritchdata.neocities.org/), [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html), [madaidans-insecurities](https://madaidans-insecurities.github.io/), [The Hitchhiker’s Guide](https://anonymousplanet.org/) / [2](https://raw.githubusercontent.com/Anon-Planet/thgtoa/master/guide.md)
+* ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** / [2](https://raw.githubusercontent.com/Anon-Planet/thgtoa/master/guide.md)
+
+[Surveillance Self-Defense](https://ssd.eff.org/), [Defensive Computing Checklist](https://defensivecomputingchecklist.com/), [Security In A Box](https://securityinabox.org/en/), [AvoidTheHack](https://avoidthehack.com/), [Eldritch Data](https://eldritchdata.neocities.org/), [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html), [madaidans-insecurities](https://madaidans-insecurities.github.io/), 
 
 ***
 
@@ -2125,8 +2127,9 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[privacyguides](https://www.privacyguides.org/)**
 * ⭐ **[Security List](https://security-list.js.org/)**
+* ⭐ **[The New Oil](https://thenewoil.org/index.html)**
 
-[Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting), [Awesome Privacy](https://github.com/pluja/awesome-privacy), [online-tools-for-the-pandemic](https://etherpad.wikimedia.org/p/online-tools-for-the-pandemic), [Privacy Tools List](https://privacytoolslist.com/), [chef-koch](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/) / [2](https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn) / [3](https://gitlab.com/CHEF-KOCH/privacy-tools-list-by-chef-koch) / [4](https://github.com/CKs-Technology-News/PrivacyTools), [Snopyta](https://snopyta.org/), [Hostux](https://hostux.network/), [Awesome Security](https://github.com/sbilly/awesome-security), [Awesome Privacy](https://github.com/KevinColemanInc/awesome-privacy), [Thunix](https://thunix.net/), [Zero Data App](https://0data.app/), [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/), [Alternative Internet](https://github.com/redecentralize/alternative-internet), [Awesome Windows Security](https://github.com/chryzsh/awesome-windows-security), [Tzkuat Ressources](https://gitlab.com/tzkuat/Ressources), [PrivacySavvy](https://privacysavvy.com/), [The New Oil](https://thenewoil.org/index.html), [awesome-humane-tech](https://codeberg.org/teaserbot-labs/delightful-humane-design)
+[Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting), [Awesome Privacy](https://github.com/pluja/awesome-privacy), [online-tools-for-the-pandemic](https://etherpad.wikimedia.org/p/online-tools-for-the-pandemic), [Privacy Tools List](https://privacytoolslist.com/), [chef-koch](https://chef-koch.bearblog.dev/privacy-tools-list-by-chef-koch/) / [2](https://gitlab.com/ck-s-technology-news/privacy-tools-list-by-cktn) / [3](https://gitlab.com/CHEF-KOCH/privacy-tools-list-by-chef-koch) / [4](https://github.com/CKs-Technology-News/PrivacyTools), [Snopyta](https://snopyta.org/), [Hostux](https://hostux.network/), [Awesome Security](https://github.com/sbilly/awesome-security), [Awesome Privacy](https://github.com/KevinColemanInc/awesome-privacy), [Thunix](https://thunix.net/), [Zero Data App](https://0data.app/), [De-google-ify Internet](https://degooglisons-internet.org/en/alternatives/), [Alternative Internet](https://github.com/redecentralize/alternative-internet), [Awesome Windows Security](https://github.com/chryzsh/awesome-windows-security), [Tzkuat Ressources](https://gitlab.com/tzkuat/Ressources), [PrivacySavvy](https://privacysavvy.com/), [awesome-humane-tech](https://codeberg.org/teaserbot-labs/delightful-humane-design)
 
 ***
 
@@ -2550,29 +2553,6 @@ Add the following commands to a search to manually scrape each site.
 ⭐ **[URL Void](https://www.urlvoid.com/)**
 
 [ThreatStop](https://www.threatstop.com/check-ioc), [urlscan.io](https://urlscan.io/), [Scamadviser](https://www.scamadviser.com/), [SiteSheck](https://sitecheck.sucuri.net/), [IsLegitSite](https://www.islegitsite.com/), [scanurl](https://scanurl.net/), [Dr. Web](https://vms.drweb.ru/online/), [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search), [Online Link Scan](http://onlinelinkscan.com/)
-
-***
-
-#### SockShare Clones
-
-* https://sockshare1.com/
-* https://www4.xmovies8.fm/
-* https://hdzer.com/
-* https://watchzer.com/
-* https://wat32.tv/
-* https://www.fast32.com/
-* https://www1.xmovies8.io/
-* https://fastzer.com/
-* https://moviesonline.fm/
-* https://putlocker.vc
-* https://123enjoy.net/
-* https://www2.putlockers.tw/
-* https://fmovies.onl/
-* https://www2.putlockers.ws/
-* https://movieload.net/
-* https://5movies.fm/
-* https://www1.f123movies.com/
-* https://vo32.com/
 
 ***
 
