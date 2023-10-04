@@ -38,7 +38,7 @@
 * CracksHash - Caught with [malware](https://redd.it/lklst7)
 * haxNode - Caught with [malware](https://www.virustotal.com/gui/file/e6318aa4432c304b234df65f5d87bf2577b930ed68ac7e68efcb76b465dc0784)
 * IGI30 - Caught with malware
-* CyberMania - Caught with malware and owner has hacked others
+* CyberMania - Caught with malware and owner has [hacked others](https://imgur.com/lsBSx58)
 * MainRepo / MRepo - Caught with [malware](https://rentry.co/zu3i6) / Note the the Magisk Module MRepo is unrelated 
 * AppValley / TutuBox / Ignition - History of [ddos attacks](https://github.com/nbats/FMHYedit/pull/307)
 * CNET / Download.com / ZDNET - History of [adware](https://www.reddit.com/r/software/comments/9s7wyb/whats_the_deal_with_sites_like_cnet_softonic_and/e8mtye9/)
