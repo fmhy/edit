@@ -964,6 +964,7 @@
 * [ManhwaKool](https://manhwakool.com/)
 * [ManhuaScan](https://manhuascan.io/)
 * [Manhwatop](https://manhwatop.com/)
+* [Manhwasco](https://manhwasco.net/)
 * [Instamanhwa](https://www.instamanhwa.com/)
 * [Manhwa68](https://manhwa68.com/)
 * [Manhwa World](https://manhwaworld.com/)
