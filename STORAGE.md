@@ -1249,7 +1249,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[Postimages](https://postimages.org/)**
 * [Imgur](https://imgur.com/)
 * Imgur Tools - [Frontends](https://rimgo.codeberg.page/), [2](https://git.voidnet.tech/kev/imgin), [3](https://codeberg.org/rimgo/rimgo), [4](https://codeberg.org/3np/rimgu), [5](https://rimgo.bus-hit.me/) / [Proxy](https://imgin.voidnet.tech/)
-* [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts 
+* [Unsee](https://unsee.cc/) - Decentralized / Temporary Image Hosts
+* [Dutov Image Hosting](https://dutov.org/)
 
 [WebOasis IPFS](https://weboasis.app/ipfs/), [imghut](https://imghut.com/), [Shutterfly](https://www.shutterfly.com/), [FreeImage.Host](https://freeimage.host/), [snipboard](https://snipboard.io/), [vaa.red](https://upload.vaa.red/), [imgbox](https://imgbox.com/), [pasteboard](https://www.pasteboard.co/), [vgy](https://vgy.me/), [i](https://tikolu.net/i/), [tixte](https://tixte.com/), [linkpicture](https://www.linkpicture.com/), [imagebam](https://www.imagebam.com/), [imagevenue](https://www.imagevenue.com/), [pixelfed](https://pixelfed.org/) / [2](https://pixelfed.social/), [talaikis](https://ipfs.talaikis.com/upload), [imgchest](https://imgchest.com/), [ụphinh](https://uphinh.vn/), [upanhtv](https://upanh.tv/), [sendpic](http://sendpic.org/), [Lutim](https://lutim.lagout.org/), [Lensdump](https://lensdump.com/) / [Discord](https://discord.gg/Vuzr6xaaZN), [prnt.sc](https://prnt.sc/), [anhsieuviet](https://anhsieuviet.com/?lang=en), [Slowpoke Pics](https://slow.pics/), [lookimg](https://lookimg.com/)
 
@@ -2386,6 +2387,8 @@ Add the following commands to a search to manually scrape each site.
 #### SEO Tools
 
 [CuratedSEOTools](https://github.com/sneg55/curatedseotools), [BulkLink](http://bulklink.org/), [websiterankpro](https://www.websiterankpro.com/), [SEOCheckFree](https://seocheckfree.com/), [busywithseo](https://busywithseo.com/), [seowagon](https://seowagon.com/), [smallseotoolz](https://smallseotoolz.net/), [smartseotools](https://smartseotools.org/), [99WebTools](https://99webtools.com/), [SmallSEOTools](https://smallseotools.com/), [seochecker](https://www.seochecker.it/web-tools), [seotoolscentre](https://seotoolscentre.com/), [sitescorechecker](https://sitescorechecker.com/tools)
+* [INSTANTLY ANALYZE YOUR SEO ISSUES](https://scorank.com/)
+* [SEO REVIEW](https://scoseo.com/)
 
 **Extensions**
 
