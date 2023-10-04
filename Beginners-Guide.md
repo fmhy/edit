@@ -134,7 +134,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 ### Streaming
 
-**[FMovies](https://fmovies.name/) / [movie-web](https://movie-web.app/) / [SusFlix](https://susflix.tv/)** - Fast streaming
+**[FMovies](https://fmoviesz.to/) / [movie-web](https://movie-web.app/) / [SusFlix](https://susflix.tv/)** - Fast streaming
 **[AniWatch](https://aniwatch.to/) / [AniWave](https://aniwave.to/)** - Fast anime streaming
 **[Dramacool](https://dramacool.cy/) / [KissAsian](https://kissasian.li/)** - Fast Asian drama streaming
 **[SportsSurge](https://sportsurge.net/)** - Live sports streaming
