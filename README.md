@@ -6,3 +6,11 @@
 * You can send us stuff directly via [💬 Divolt](https://redd.it/uto5vw).
 * You can discuss the wiki or anything you'd like on our [🐭 Lemmy](https://lemmy.dbzer0.com/c/freemediaheckyeah).
 * You can also checkout our subreddit, [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/) to know about any major updates to the wiki.
+
+***
+
+Emoji Legend:
+
+* 🌐 - 3rd Party Indexes
+* ↪️ - Storage Page Links
+* ⭐ - Community Recommendations
