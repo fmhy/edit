@@ -331,7 +331,7 @@
 * ⭐ **[ACCOUNTKILLER](https://www.accountkiller.com/)** or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - Find / Terminate Old Accounts 
 * [How Secure is My Password](https://www.security.org/how-secure-is-my-password/) - Password Strength Checker
 * [h8Mail](https://github.com/khast3x/h8mail) or [FirefoxMonitor](https://monitor.firefox.com/) - Data Breach Check
-* [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/), [Trufflehog](https://github.com/trufflesecurity/trufflehog) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engine
+* [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/), [Trufflehog](https://github.com/trufflesecurity/trufflehog), [Database Search](https://search.0t.rocks/) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engines
 * [DataBunker](https://databunker.org/) - Data Leak Prevention
 * [Creepjs](https://abrahamjuliot.github.io/creepjs) or [LocateJS](https://locatejs.com/) - Check for Browser / Extension Leaks
 * [Canarytokens](https://canarytokens.org/generate) - Network Breach Check 
