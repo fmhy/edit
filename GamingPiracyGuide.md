@@ -717,6 +717,7 @@
 * [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Browser Games
 * [The Flash Emulation Repair Shop](https://github.com/nbats/FMHYedit/blob/main/base64.md#the-flash-emulation-repair-shop) - Flash Games Under Repair
 * [Arcade Prehacks](http://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
+* [](http://flashpointarchive.org/)
 
 ***
 
