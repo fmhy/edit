@@ -929,33 +929,21 @@
 * ↪️ **[Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test)**
 * ⭐ **[Hyperweb](https://hyperweb.app/)** - iOS Safari Improvement + Adblock Extension
 * ⭐ **[Bitwarden](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744)**, [Keepassium](https://keepassium.com/), [AuthPass](https://authpass.app/), [Strongbox](https://strongboxsafe.com/) - Password Manager
-* [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/), [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app), [AppTapp Installer](https://apptapp.me/repo) / [Discord](https://discordapp.com/invite/kkwKTB8), [Saily](https://github.com/SailyTeam/Saily), [App Manager](https://muntashirakon.github.io/AppManager/), [AppManager](https://github.com/MuntashirAkon/AppManager) or [Zebra](https://getzbra.com/) - Package Managers
+* [Warden](https://forum.xda-developers.com/t/app-5-0-warden-app-manager.4122227/), [Sileo](https://cydia.saurik.com/api/share#?source=https://repo.getsileo.app), [AppTapp Installer](https://apptapp.me/repo) / [Discord](https://discordapp.com/invite/kkwKTB8), [App Manager](https://muntashirakon.github.io/AppManager/), [AppManager](https://github.com/MuntashirAkon/AppManager) or [Zebra](https://getzbra.com/) - Package Managers
 * [OpenAI-ChatGPT](https://apps.apple.com/us/app/openai-chatgpt/id6448311069) or [Kai](https://trykai.app/) - ChatGPT Apps
-* [Waltr](https://softorino.com/waltr/) - Convert Files to iOS Formats
 * [FGet](https://apps.apple.com/us/app/fget-file-manager-browser/id1582654012), [Offline File Browser](https://apps.apple.com/us/app/offline-files-browser-docs/id1557618225) or [Santander](https://github.com/SerenaKit/Santander) - File Managers
 * [Dropbox Premium](https://testflight.apple.com/join/LBZaRq4I) - Cloud Storage
 * [DeDuplicate](https://deduplicate.app/) - Duplicate File Remover
 * [A-Shell](https://github.com/holzschu/a-shell) - Terminal Emulator
 * [iEmulators](https://iemulators.com/) - Emulator Apps
-* [HappyChick](http://www.happychick.hk/download.html) or [8090Games](https://apps.apple.com/us/app/8090games/id1514980629) - Game Emulators
-* [iSSB Play](https://iosninja.io/ipa-library/download-issb-ipa-ios) - Super Smash. Bros on iOS / [GitHub](https://github.com/lufinkey/iSSB)
-* [Infinity](https://github.com/fullpwn/infinity) - Run Android 10(Q) on iPhone
 * [Downgrade Apps](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy/) - How-to Downgrade Apps
-* [iDOS](https://iosninja.io/ipa-library/download-idos-ipa-ios) - DOS Emulator / [GitHub](https://github.com/litchie/dospad)
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - Office Suite 
 * [Drafts](https://getdrafts.com/) or [Bear](https://apps.apple.com/us/app/bear/id1016366447) - Note Taking App
 * [Serenity Notes](https://www.serenity.re/en/notes) - Collaborative Notes
 * [Papertag](https://www.papertag.app/) - Attach Digital Content on Paper
 * [Decisions](https://github.com/markusfisch/Libra) - Decision Making App
-* [BatteryBuddy](https://github.com/Traurige/BatteryBuddy) - Cute Battery Life Indicator
-* [Powercuff](https://rpetri.ch/cydia/powercuff/) - Throttle iOS to Increase Battery Life
-* [CocaoTop](https://github.com/D0m0/CocoaTop) - iOS Process Viewer
 * [iSH Shell](https://ish.app/) - Linux-like Shell
 * [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - Text Based Shell
-* [The OldOS Project](https://github.com/zzanehip/The-OldOS-Project) - iOS 4 Recreation
-* [Fantastical](https://apps.apple.com/app/fantastical-2-for-iphone/id718043190?ls=1) - Calendar / Tasks App
-* [Grit](https://gritapp.net/) - Habit Tracker
-* [NoMoreSmallApps](https://www.sparkdev.me/package/com.spark.nomoresmallapps) - Force App Full Screen / [Discord](https://discord.com/invite/tvvJfbD)
 * [Sigma](https://apps.apple.com/us/app/sigma-your-feeds-united/id1594702352) - Combine Social Media Apps
 * [InsightBrowser](https://insightbrowser.com/), [Gear4](https://gear4.app/) or [Asobi](https://github.com/bdashore3/Asobi) - Browsers
 * [Kagi](https://apps.apple.com/us/app/kagi/id1484498200) or [Orion](https://testflight.apple.com/join/DeC8ZDnu) - Browser w/ Firefox & Chrome Extension Support
