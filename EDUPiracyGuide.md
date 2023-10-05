@@ -987,6 +987,7 @@
 * [GaryChamberlainLectureNotes](https://github.com/paulgp/GaryChamberlainLectureNotes) - Econometrics Lecture Notes
 * [GCE Guide](https://gceguide.com/) - Cambridge Assessment Guide
 * [IB Docs](https://ibdocs.org/) - The International Baccalaureate Resources
+* [IB Survival](https://ibsurvival.com/) - IB Student Forums
 * [ITExams](https://www.itexams.com/) - IT Exam Collection
 * [Lecture Links for Placement Preparation in Computer Science](https://github.com/riti2409/Resources-for-preparation-Of-Placements)
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / Stem Career Study Guides
