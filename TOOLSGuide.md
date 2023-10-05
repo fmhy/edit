@@ -153,9 +153,6 @@
 * [Text File Splitter](https://textfilesplitter.com/) - Text File Splitter
 * [phraseup](https://www.phraseup.com/) - Autocomplete Common Phrases
 * [Text Generator](https://deepai.org/machine-learning-model/text-generator) - Generate Text from Prompt
-* [Lyrist](https://lyrist.app) - Write Lyrics w/ Beats
-* [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) or [Lyricistant](https://lyricistant.app/) - Lyrics Generators
-* [Deep Beat](https://deepbeat.org/) - Rap Lyrics Generator
 * [Random Poem](https://random-poem.com/) - Poem Generator
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [Infinite Story](https://infinite-story.com/), [Storylocks](https://www.storylocks.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Story Writing
@@ -189,7 +186,7 @@
 * [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - Create Parallel Text Web
 * [TextRepeater](https://textrepeater.com/) - Repeat Text
 * [Count Duplicates](https://www.somacon.com/p568.php), [DuplicateWord](https://duplicateword.com/) or [MyNikko](http://www.mynikko.com/tools/tool_duplicateremover.html) - Count / Remove Duplicates in a List
-* [TextCompare](https://www.textcompare.org/), [Text-Compare](https://text-compare.com/) or [DiffNow](https://www.diffnow.com/) - Compare Text
+* [diffr](https://loilo.github.io/diffr/), [TextCompare](https://www.textcompare.org/), [Text-Compare](https://text-compare.com/) or [DiffNow](https://www.diffnow.com/) - Compare Text
 * [Count Wordsworth](https://countwordsworth.com/) - Count Words in a List
 * [OfficeDocs](https://www.offidocs.com/) - Runs Desktop / Mobile Apps Online
 * [Baserow](https://gitlab.com/baserow/baserow), [Framacalc](https://framacalc.org/), [NocoDB](https://github.com/nocodb/nocodb) or [AirTable](https://airtable.com/) - Collaborative Spreadsheet
@@ -377,7 +374,7 @@
 * [NVIDIA BROADCAST](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/), [Mini Video Me](https://github.com/maykbrito/mini-video-me) or [Webcamoid](https://webcamoid.github.io/) - Webcam Manager
 * [DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Webcam Face Swap Tool
 * [SimSwap](https://github.com/neuralchen/SimSwap) or [Roop](https://github.com/s0md3v/roop) - Video Face Swap Tools
-* [DeepFaceLab](https://github.com/iperov/DeepFaceLab) or [Thin-Plate Spline](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - Deepfake Video Creators
+* [DeepFaceLab](https://github.com/iperov/DeepFaceLab), [Wav2Lip](https://colab.research.google.com/drive/1IjFW1cLevs6Ouyu4Yht4mnR4yeuMqO7Y#scrollTo=MH1m608OymLH) or [Thin-Plate Spline](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - Deepfake Video Creators
 * [deepware](https://scanner.deepware.ai/) - Detect Deepfake Videos
 * [Air Pi Play](https://github.com/rahul-thakoor/balena-rpiplay) - Rasberry Pi Screen Sharing
 * [4K Media](https://4kmedia.org/) - Free 4K Video Demos
@@ -402,6 +399,7 @@
 * ↪️ **[Remove Vocals](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remove_vocals)**
 * ↪️ **[Album Artwork](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
 * ↪️ **[Audio Quality Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_audio_quality)**
+* ↪️ **[Lyric Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_lyric_sites)**
 * ↪️ **[Song Identification Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_song_identification)**
 * ↪️ **[Free Sound Effects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sfx_.2F_loops)**
 * ⭐ **[Team V.R releases](https://codec.kiev.ua/releases.html)** - Professional Video, Audio & Adobe Software / Plugins
@@ -427,7 +425,6 @@
 * [AirWindows](https://www.airwindows.com/) - Reverbs / Equalizers / Plugins
 * [Music Learning Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_music_learning) - Learn How to Play Music
 * [Jukebox](https://jukebox.today/) - Music Sync / Listening Parties
-* [Versefy](https://versefy.app/) or [Lyrics-In-Terminal](https://github.com/Jugran/lyrics-in-terminal) - Lyrics Finder for Spotify, Tidal & VLC
 * [Whyp](https://whyp.it/) - Audio Host
 * [Aux](https://aux.app/) - Audio Project Host
 * [Audiocheck](https://www.audiocheck.net/) - Audio Tests 
@@ -444,8 +441,6 @@
 * [VCV Rack](https://vcvrack.com/) - Eurorack Simulator
 * [Cable](https://vb-audio.com/Cable/) - Virtual Audio Cable
 * [Sunamu](https://github.com/NyaomiDEV/Sunamu) - Now Playing Songs Display
-* [FindMusicByLyrics](https://findmusicbylyrics.com/) - Multi-Site Lyrics Search
-* [dumb](https://github.com/rramiachraf/dumb) - Genius Lyrics Frontend
 * [EXP Soundboard](https://sourceforge.net/projects/expsoundboard/), [Soundux](https://soundux.rocks/) / [GitHub](https://github.com/Soundux/Soundux) or [Resanance](https://resanance.com/) - Soundboard Program
 * [MyInstants](https://www.myinstants.com/index/us/), [Blerp](https://blerp.com/), [InternetsFun](https://instantsfun.es/), [101soundboards](https://www.101soundboards.com/) or [Soundboard.com](https://www.soundboard.com/) - Online Soundboards
 * [Soundpad](https://www.leppsoft.com/soundpad/) - Voicechat Soundboard
