@@ -615,6 +615,8 @@
 * ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www10.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](http://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators
 * ⭐ **[WhatTheFont](https://www.myfonts.com/WhatTheFont/)**, [Identifont](http://www.identifont.com/), [WhatFont](http://www.chengyinliu.com/whatfont.html), [Fonty.io](https://fonty.io/) or [What Font Is](https://www.whatfontis.com/) - Font Identification Tools
 * ⭐ **[FontDrop](https://fontdrop.info/)** - Analyze Font Files
+* [Typewolf](https://www.typewolf.com/) or [Typ.io](https://typ.io/) - Trending Website Fonts
+* [Modern Fonts Stacks](https://modernfontstacks.com/) - CSS Fonts
 * [DS Fusion](https://ds-fusion.github.io/) - AI Typography Generator
 * [Formito](https://formito.com/tools/logo) - Typography Logo Maker
 * [FontFlipper](https://fontflipper.com/) - Add Text to images
@@ -999,6 +1001,7 @@
 
 * ⭐ **[Reddit Favorites](https://redditfavorites.com/)**, [Kit.co](https://kit.co/), [Looria](https://www.looria.com/), [ProductHunt](https://producthunt.com/) or [Consumer Reports](https://consumerreports.org/) - Product / Service Reviews
 * ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** or **[Didn't Know I Wanted That](https://www.didntknowiwantedthat.com/)** - Find Interesting Things to Buy
+* ⭐ **[Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/)** - Product Privacy Reviews / Voting
 * ⭐ **[DarkPatternsTipline](https://darkpatternstipline.org/)** - Deceptive Service Design Tipline
 * [Pepper](https://www.pepper.com/) - Shopping Community
 * [AllArk](https://allark.io/) - Buy Stuff via Crypto
