@@ -268,6 +268,7 @@
 * [Direct Links](https://t.me/direct_llinks) - Telegram / Video / Software / Games
 * [VK Files Bot](https://t.me/VKFiles_Bot) - VK File DL Telegram Bot
 * [Real-Debrid](https://real-debrid.com/) - File Download App / Paid / [Torrent Client](https://github.com/rogerfar/rdt-client)
+* [Debrid-Link](https://debrid-link.com) - Debrid w/ Free Tier / [Limits](https://i.imgur.com/vZtlvtA.png)
 
 ***
 
