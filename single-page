@@ -4144,7 +4144,7 @@ Twitch Stream Tracker
 ***
 ***
 
-**[Table of Contents](https://ibb.co/C8x7LpH)** - For mobile users
+**[Table of Contents](https://ibb.co/zNVDCGQ)** - For mobile users
 
 ***
 *** 
@@ -4217,31 +4217,6 @@ Twitch Stream Tracker
 * [Hasura](https://hasura.io/learn/) - GraphQL Courses
 * [systemd-by-example](https://systemd-by-example.com/) - Learn Systemd Interactively
 * [Slip](https://www.slip.so/) - Build Programming Courses
-
-***
-
-## ▷ Cheat Sheets
-
-* 🌐 **[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)**, [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
-* ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
-* ⭐ **[QuickRef.me](https://quickref.me/)**, [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
-* ⭐ **[30 Seconds of Code](https://www.30secondsofcode.org/)** or [HTML-Dom](https://phuoc.ng/collection/html-dom/) - Find Code Snippets
-* [Lepton](https://hackjutsu.com/Lepton/) - Code Snippet Manager / [GitHub](https://github.com/hackjutsu/Lepton)
-* [Google Cloud Developer's Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/) - Google Cloud Developer Cheat Sheet / [GitHub](https://github.com/priyankavergadia/google-cloud-4-words)
-* [Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - Code Algorithm Cheat Sheets
-* [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) or [SpeedSheet](https://speedsheet.io/) - Python Cheat Sheet
- or [cppreference](https://en.cppreference.com/w/) - C++ Cheat Sheets
-* [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app) - React Typescript Cheat Sheets
-* [Regex Hub](https://projects.lukehaas.me/regexhub/) or [IHateRegex](https://ihateregex.io/) - Regex Cheat Sheets
-* [SQL Cheat Sheet](https://i.ibb.co/Ctr0Tn8/e289a15e2246.jpg) - SQL Cheat Sheet
-* [CSS Cheat Sheet](https://docs.emmet.io/cheat-sheet/) or [CSS Tricks](https://css-tricks.com/snippets/) - CSS Cheat Sheet
-* [Easings](https://easings.net/) - CSS Animation Cheat Sheet
-* [BEM Cheat Sheet](https://bem-cheat-sheet.9elements.com/) - BEM Cheet Sheet 
-* [Vim Cheatsheet](https://i.ibb.co/FbdMMHN/460e75dd8543.png) or [rTorr](https://vim.rtorr.com/) - Vim Editor Cheat Sheets
-* [VimTip](https://vim.fandom.com/wiki/Category:VimTip) - Vim Editor Tips
-* [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
-* [HTML.com](https://html.com/) - HTML Guide / Cheat Sheet
-* [SEO Cheet Sheet](https://seo-cheat-sheet.9elements.com/) - SEO Cheet Sheet
 
 ***
 
@@ -4444,9 +4419,7 @@ Twitch Stream Tracker
 * 🌐 **[Awesome Bots](https://github.com/DopplerHQ/awesome-bots)** - Developer Bot Index
 * 🌐 **[Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)** - Design Pattern Resources
 * 🌐 **[Awesome DataScience](https://github.com/academic/awesome-datascience)** or [Best Data Science Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources) - Data Science Resources
-* 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Resources
 * 🌐 **[Awesome Bug Bounty Builder](https://github.com/0xJin/awesome-bugbounty-builder)** or [Bug Bounty](https://github.com/sehno/Bug-bounty) - Bug Bounty Resources
-* 🌐 **[Awesome Big Data](https://github.com/newTendermint/awesome-bigdata)** - Big Data Resources
 * 🌐 **[Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security)** - CI/CD Security Resources
 * ↪️ **[Developer Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_developer_tools)**
 * ↪️ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)**
@@ -4459,7 +4432,6 @@ Twitch Stream Tracker
 * [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - Brand Design Tools
 * [Mage](https://www.mage.ai/) - Data Science Pipelines
 * [SuperNova](https://www.supernova.io/) - Design System Manager
-* [Grafana](https://grafana.com/), [Tigris Data](https://www.tigrisdata.com/) or [MongoDB](https://www.mongodb.com/) - Dev Data Dashboards
 * [Interplay](https://interplayapp.com/) - Product Design Tool
 * [Libera Chat](https://libera.chat/) - IRC Network for Project Collaboration
 * [DevDeals](https://www.devdeals.org/) - Free Tools / Promotions for Developers
@@ -4494,9 +4466,7 @@ Twitch Stream Tracker
 * [Webhook.site](https://webhook.site/) or [HookDeck](https://hookdeck.com/) - Webhook Tools
 * [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Draw Sequence Diagrams 
 * [ASCII Flow](https://asciiflow.com/) or [Tree](https://tree.nathanfriend.io/) - Create ASCII Diagrams
-* [DBeaver](https://dbeaver.io/) - Universal Database Tool
 * [Egui Node Graph](https://github.com/setzer22/egui_node_graph) or [litegraph.js](https://github.com/jagenjo/litegraph.js) - Build Node Graphs
-* Generate Fake Data - [Ruby](https://github.com/faker-ruby/faker) / [Swift](https://github.com/vadymmarkov/Fakery)
 * [Gorse](https://github.com/gorse-io/gorse) - Universal Recommendation System
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
 * [Deps.dev](https://deps.dev/) - Open Source Package Search
@@ -4525,7 +4495,6 @@ Twitch Stream Tracker
 * [Devtron](https://devtron.ai/) - Kubernetes Tool Integration
 * [Hajimari](https://hajimari.io/) - Kubernetes Startpage
 * [LibreLogos](https://www.librelogos.org/) or [LogoTaco](https://www.logotaco.com/) - Project Logos
-* [Rejoiner](https://github.com/google/rejoiner) - Uniform GraphQL Schema from gRPC Microservices
 * [CFDocs](https://cfdocs.org/) - CFML Documentation Reference
 * [Input Delay Test](https://input-delay.glitch.me/) - Input Delay Experiment
 * [Asynchronous Messaging](https://github.com/clemensv/messaging) - Asynchronous Messaging Resources
@@ -4548,6 +4517,31 @@ Twitch Stream Tracker
 * [CLIP-as-service](https://github.com/jina-ai/clip-as-service) - Embed Images / Sentences via CLIP Models
 * [OS Dev](https://wiki.osdev.org/) - Operation System Development Wiki
 * [devSwag](https://devswag.io/) - Developer Giveaways
+
+***
+
+## ▷ Cheat Sheets
+
+* 🌐 **[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)**, [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
+* ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
+* ⭐ **[QuickRef.me](https://quickref.me/)**, [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
+* ⭐ **[30 Seconds of Code](https://www.30secondsofcode.org/)** or [HTML-Dom](https://phuoc.ng/collection/html-dom/) - Find Code Snippets
+* [Lepton](https://hackjutsu.com/Lepton/) - Code Snippet Manager / [GitHub](https://github.com/hackjutsu/Lepton)
+* [Google Cloud Developer's Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/) - Google Cloud Developer Cheat Sheet / [GitHub](https://github.com/priyankavergadia/google-cloud-4-words)
+* [Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - Code Algorithm Cheat Sheets
+* [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) or [SpeedSheet](https://speedsheet.io/) - Python Cheat Sheet
+ or [cppreference](https://en.cppreference.com/w/) - C++ Cheat Sheets
+* [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app) - React Typescript Cheat Sheets
+* [Regex Hub](https://projects.lukehaas.me/regexhub/) or [IHateRegex](https://ihateregex.io/) - Regex Cheat Sheets
+* [SQL Cheat Sheet](https://i.ibb.co/Ctr0Tn8/e289a15e2246.jpg) - SQL Cheat Sheet
+* [CSS Cheat Sheet](https://docs.emmet.io/cheat-sheet/) or [CSS Tricks](https://css-tricks.com/snippets/) - CSS Cheat Sheet
+* [Easings](https://easings.net/) - CSS Animation Cheat Sheet
+* [BEM Cheat Sheet](https://bem-cheat-sheet.9elements.com/) - BEM Cheet Sheet 
+* [Vim Cheatsheet](https://i.ibb.co/FbdMMHN/460e75dd8543.png) or [rTorr](https://vim.rtorr.com/) - Vim Editor Cheat Sheets
+* [VimTip](https://vim.fandom.com/wiki/Category:VimTip) - Vim Editor Tips
+* [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
+* [HTML.com](https://html.com/) - HTML Guide / Cheat Sheet
+* [SEO Cheet Sheet](https://seo-cheat-sheet.9elements.com/) - SEO Cheet Sheet
 
 ***
 
@@ -4624,19 +4618,8 @@ Twitch Stream Tracker
 * [Rest Test Test](http://resttesttest.com/) - Test REST / CORS Services
 * [WebUI](https://webui.me/) - Embed WebUI Libaries in Project
 * [Dagu](https://github.com/dagu-dev/dagu) - WebUI Job Manager
-* [HeidiSQL](https://www.heidisql.com/) - SQL Manager
-* [QueryStorm](https://querystorm.com/) - SQL and .NET programming in Excel
 * [httpbin](https://httpbin.org/) or [Requestbin](https://pipedream.com/requestbin) - HTTP Request & Response Service
-* [Adminer](https://www.adminer.org/) - Database Manager
-* [RemoteMySQL](https://www.remotemysql.com/) - Remote MySQL Database
-* [DoIt](https://github.com/dolthub/dolt) - SQL Database
-* [DB4Free](https://db4free.net/) or [SQLFIddle](http://sqlfiddle.com/) - SQL Testing
-* [AI2SQL](https://app.ai2sql.io/) or [BlazeSQL](https://www.blazesql.com/) - SQL Generators
-* [franchise](https://franchise.cloud/) - SQL Notebook
 * [Illegal Analytics Scanner](https://illegal.analyticsscanner.com/) - Check if your Analytics Break Laws
-* [OceanBase](https://open.oceanbase.com/) - Relational Database / [GitHub](https://github.com/oceanbase/oceanbase)
-* [NocoDB](https://www.nocodb.com/) - Turn Database into Smart Spreadsheet / [GitHub](https://github.com/nocodb/nocodb)
-* [PooShock](http://pooshock.ru/) - Apache 2 Test Page
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
 * [Easegress](https://github.com/megaease/easegress) - Traffic Orchestration System
 * [HITS](https://hits.seeyoufarm.com/) - Website Traffic Badges
@@ -4700,10 +4683,9 @@ Twitch Stream Tracker
 * [RoughAnnotations](https://roughnotation.com/) - Webpage Annotations / Animations
 * [Pattern Monster](https://pattern.monster/) - SVG Pattern Generator
 * [Broider](https://maxbittker.github.io/broider/) - Create Border Designs
-* [ShapeDivider](https://www.shapedivider.app/ - Make SVG Shape Divider
+* [ShapeDivider](https://www.shapedivider.app/) - Make SVG Shape Divider
 * [Lorem.space](https://lorem.space/), [Placeholdifier](https://github.com/pomber/placeholdifier), [PlaceHolder](https://placeholder.pics/), [PicSum](https://picsum.photos/) or [FakeIMG](https://fakeimg.pl/) - Site Placeholder Images
 * [MinimalAvatars](https://minimalavatars.com/) - Minimal Site Avatars
-* [GalleryProject](https://galleryrevival.com/) - Manage / Host Photos on Website
 * [Bug](https://auz.github.io/Bug/) - Add Crawling Bugs to Website
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - Mobile Friendly Page Test
 * [epub.js](https://github.com/futurepress/epub.js) - Render ePub Documents in Browser
@@ -4858,10 +4840,9 @@ Twitch Stream Tracker
 * [98.css](https://jdan.github.io/98.css/) - Build Windows 98 Themed Interfaces / [GitHub](https://github.com/jdan/98.css)
 * [Radare](https://rada.re/r/), [Flare IDA](https://github.com/mandiant/flare-ida), [Reverse Engineer's Toolkit](https://github.com/mentebinaria/retoolkit), [Rizin](https://rizin.re/), [Frida](https://frida.re/), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://github.com/rizinorg/cutter) - Reverse Engineering 
 * [RETeam](http://www.reteam.org/board/index.php) - Reverse Engineering Forums
-* [aarch64-sysreg-ida](https://github.com/TrungNguyen1909/aarch64-sysreg-ida) - IDA Plugin to View Armv8 MSRs
 * [Kubeorbit](https://github.com/teamcode-inc/kubeorbit) - Application Testing / Debugging
 * [Redis](https://redis.io/) - Key-Value Database
-* [Inno Setup](https://jrsoftware.org/isinfo.php), [Fileforums Premade Installers](https://github.com/LeFishe/fileforums-premade-installers), [InstallForge](https://www.installforge.net/) or [ActualInstaller](https://www.actualinstaller.com/) - Create Installation Programs
+* [Inno Setup](https://jrsoftware.org/isinfo.php) or [InstallForge](https://www.installforge.net/) - Create Installation Programs
 * [7.css](https://khang-nd.github.io/7.css/) or [Botox Party](https://botoxparty.github.io/XP.css/) - Create Oldschool Style UI's
 * [Amplication](https://amplication.com/) - Create Node.js Apps
 * [Textualize](https://www.textualize.io/) - Create Text User Interfaces
@@ -5171,6 +5152,28 @@ Twitch Stream Tracker
 * [ShaderToy](https://www.shadertoy.com/browse) - User-Made Shaders
 * [Alphredo](https://alphredo.app/) - Create Translucent Colors
 * [Contrast Checker](https://contrast-checker.glitch.me/) or [contrastchecker](https://webaim.org/resources/contrastchecker/) - Background / Text Contrast Checker
+
+***
+
+# ► Database Tools
+
+* 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Resources
+* 🌐 **[Awesome Big Data](https://github.com/newTendermint/awesome-bigdata)** - Big Data Resources
+* [Grafana](https://grafana.com/), [Tigris Data](https://www.tigrisdata.com/) or [MongoDB](https://www.mongodb.com/) - Dev Data Dashboards
+* [DBeaver](https://dbeaver.io/) - Universal Database Tool
+* [HeidiSQL](https://www.heidisql.com/) - SQL Manager
+* [QueryStorm](https://querystorm.com/) - SQL and .NET programming in Excel
+* [Adminer](https://www.adminer.org/) - Database Manager
+* [RemoteMySQL](https://www.remotemysql.com/) - Remote MySQL Database
+* [DoIt](https://github.com/dolthub/dolt) - SQL Database
+* [DB4Free](https://db4free.net/) or [SQLFIddle](http://sqlfiddle.com/) - SQL Testing
+* [AI2SQL](https://app.ai2sql.io/) or [BlazeSQL](https://www.blazesql.com/) - SQL Generators
+* [franchise](https://franchise.cloud/) - SQL Notebook
+* [OceanBase](https://open.oceanbase.com/) - Relational Database / [GitHub](https://github.com/oceanbase/oceanbase)
+* [NocoDB](https://www.nocodb.com/) - Turn Database into Smart Spreadsheet / [GitHub](https://github.com/nocodb/nocodb)
+* [PooShock](http://pooshock.ru/) - Apache 2 Test Page
+* [GalleryProject](https://galleryrevival.com/) - Manage / Host Photos on Website
+* Generate Fake Data - [Ruby](https://github.com/faker-ruby/faker) / [Swift](https://github.com/vadymmarkov/Fakery)
 
 ***
 
@@ -6255,7 +6258,7 @@ Twitch Stream Tracker
 
 ## ▷ Flash Games
 
-* 🌐 **[Flashpoint](http://bluemaxima.org/flashpoint/)** / [Discord](https://discord.gg/Z4gGtJvvn8), [Flash Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#software-library-flash), [Rek's Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#reks-flash-game-collection) or [ClassicGames.rar](https://github.com/nbats/FMHYedit/blob/main/base64.md#classicgamesrar) (pw:paluch) - Flash Game Archives 
+* 🌐 **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8), [Flash Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#software-library-flash), [Rek's Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#reks-flash-game-collection) or [ClassicGames.rar](https://github.com/nbats/FMHYedit/blob/main/base64.md#classicgamesrar) (pw:paluch) - Flash Game Archives 
 * ↪️ **[Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools)**
 * ⭐ **[How-to Play Flash Games](https://rentry.co/oc4wc)** - Browser Flash Game Tutorial
 * [Flash by Night](http://flashbynight.com/) - Browser Games
@@ -9701,10 +9704,10 @@ pass: paluch
 ## ▷ Multi Server
 
 * ⭐ **[movie-web](https://movie-web.app/)** - Movies / TV / 1080p / [Discord](https://discord.gg/vXsRvye8BS)
-* ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/BE7kTVezBN)
 * ⭐ **[The Movie Archive](https://themoviearchive.site/)**, [2](https://tma.lol) - Movies / 4K / 1080p
 * ⭐ **[FMovies](https://fmoviesz.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fmovies_clones)
 * ⭐ **[FlixHQ](https://flixhq.click/)** - Movies / TV / Anime / 1080p
+* ⭐ **[SusFlix](https://susflix.tv/)**, [2](https://www.susmovies.lol/), [3](https://sushbo.com/), [4](https://hbosus.com) - Movies / TV / Anime / 4K / 1080p / [Discord](https://discord.gg/BE7kTVezBN)
 * ⭐ **[Ask4Movies](https://ask4movie.nl/)** - Movies / TV / 1080p / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
 * ⭐ **[Seez](https://seez.su/)**, [2](https://flixerplus.com/) - Movies / TV / 1080p
@@ -9996,7 +9999,6 @@ pass: paluch
 * [Animetake](https://animetake.tv/) - Sub / 1080p
 * [Anime OWL](https://anime-owl.net/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/xHYcvdMvZ2)
 * [ChiaAnime](https://chia-anime.su/) - Sub / 1080p
-* [AnimeGo](https://reddit.animekisa.to/) - Sub / Dub / 1080p
 * [AnimeFox](https://animefox.in/)  - Sub / Dub / 1080p
 * [AnimeZia](https://www.animezia.com/) - Sub / Dub / 1080p / [Telegram](https://telegram.dog/anime_complex) 
 * [NAnime](https://www.nanime.one/) - Sub / Dub / 1080p
@@ -14459,8 +14461,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 #### Internet Speed Test
 
 * ⭐ **[fast](https://fast.com/)** / [CLI](https://github.com/sindresorhus/fast-cli)
+* ⭐ **[Cloudflare Speed Test](https://speed.cloudflare.com/)**
 
-[LibreSpeed](https://librespeed.org/), [Xfinity Speed Test](https://speedtest.xfinity.com/), [DLS Reports](http://www.dslreports.com/tools), [Bandwidth Place](https://www.bandwidthplace.com/), [Cloudflare](https://speed.cloudflare.com/), [Speedtest](https://www.speedtest.net/), [wifiman](http://wifiman.com/), [Net Speed Meter](https://www.microsoft.com/en-gb/p/app/9nmbx01pxz4l), [PeerFast](https://diegorbaquero.github.io/PeerFast/) (P2P), [Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker), [GoogleFiber](http://speedtest.googlefiber.net/), [speedtestcustom](https://pcmag.speedtestcustom.com/), [SpeedOf.Me](https://speedof.me/), [BroadbandSpeedChecker](https://broadbandspeedchecker.co.uk/), [speed.io](https://speed.io/), [att](https://www.att.com/support/speedtest/), [speedcheck](https://www.speedcheck.org/), [testmyspeed](https://testmyspeed.onl/), [testmy](https://testmy.net/), [Meter](https://www.meter.net/), [CIRA](https://performance.cira.ca/), [Speedsmart](https://speedsmart.net/), [OpenSpeedTest](https://openspeedtest.com/)
+[LibreSpeed](https://librespeed.org/), [Xfinity Speed Test](https://speedtest.xfinity.com/), [DLS Reports](http://www.dslreports.com/tools), [Bandwidth Place](https://www.bandwidthplace.com/), [Speedtest](https://www.speedtest.net/), [wifiman](http://wifiman.com/), [Net Speed Meter](https://www.microsoft.com/en-gb/p/app/9nmbx01pxz4l), [PeerFast](https://diegorbaquero.github.io/PeerFast/) (P2P), [Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker), [GoogleFiber](http://speedtest.googlefiber.net/), [speedtestcustom](https://pcmag.speedtestcustom.com/), [SpeedOf.Me](https://speedof.me/), [BroadbandSpeedChecker](https://broadbandspeedchecker.co.uk/), [speed.io](https://speed.io/), [att](https://www.att.com/support/speedtest/), [speedcheck](https://www.speedcheck.org/), [testmyspeed](https://testmyspeed.onl/), [testmy](https://testmy.net/), [Meter](https://www.meter.net/), [CIRA](https://performance.cira.ca/), [Speedsmart](https://speedsmart.net/), [OpenSpeedTest](https://openspeedtest.com/)
 
 **Android Apps**
 
@@ -15279,8 +15282,9 @@ Add the following commands to a search to manually scrape each site.
 #### Privacy Guides
 
 * ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** / [2](https://raw.githubusercontent.com/Anon-Planet/thgtoa/master/guide.md)
+* ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)**
 
-[Surveillance Self-Defense](https://ssd.eff.org/), [Defensive Computing Checklist](https://defensivecomputingchecklist.com/), [Security In A Box](https://securityinabox.org/en/), [AvoidTheHack](https://avoidthehack.com/), [Eldritch Data](https://eldritchdata.neocities.org/), [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html), [madaidans-insecurities](https://madaidans-insecurities.github.io/), 
+[Defensive Computing Checklist](https://defensivecomputingchecklist.com/), [Security In A Box](https://securityinabox.org/en/), [AvoidTheHack](https://avoidthehack.com/), [Eldritch Data](https://eldritchdata.neocities.org/), [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/index.html), [madaidans-insecurities](https://madaidans-insecurities.github.io/), 
 
 ***
 
@@ -15539,9 +15543,8 @@ Add the following commands to a search to manually scrape each site.
 **Hacking**
 
 * ⭐ **[YCombinator](https://news.ycombinator.com/)** - [Highlighter](https://greasyfork.org/en/scripts/39311)
-* [hckrnws](https://www.hckrnws.com/) - [Search](https://hn-recommend.julienc.me/) / [Chat AI](https://chathn.vercel.app/)
 
-[Hacki](https://github.com/Livinglist/Hacki), [HarmonicHackerNews](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [Glider](https://github.com/Mosc/Glider), [algolia](https://hn.algolia.com/), [Hackers](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901), [news.social-protocols](https://news.social-protocols.org), [Hazumi](https://apps.apple.com/ie/app/hazumi/id1670237209),[HackerWebApp](https://hackerwebapp.com/)
+[Hacki](https://github.com/Livinglist/Hacki), [HarmonicHackerNews](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews), [Glider](https://github.com/Mosc/Glider), [algolia](https://hn.algolia.com/), [Hackers](https://apps.apple.com/us/app/hackers-for-hacker-news/id603503901), [news.social-protocols](https://news.social-protocols.org), [HackerWebApp](https://hackerwebapp.com/)
 
 
 ***
@@ -15952,6 +15955,8 @@ Add the following commands to a search to manually scrape each site.
 ***
 
 #### Tech News
+
+* [hckrnws](https://www.hckrnws.com/) - [Search](https://hn-recommend.julienc.me/) / [Chat AI](https://chathn.vercel.app/)
 
 [GHacks](https://www.ghacks.net/), [TechURLs](https://techurls.com/), [Ars Technica](https://arstechnica.com/), [Geeks3D](https://www.geeks3d.com/), [SingularityHub](https://singularityhub.com/), [Toms Hardware](https://www.tomshardware.com/), [Overclock3d](https://overclock3d.net/), [NeoWin](https://www.neowin.net/), [DigitalTrends](https://www.digitaltrends.com/), [Slashdot](https://slashdot.org/), [mosfet](https://mosfet.net/), [tweaktown](https://www.tweaktown.com/), [anandtech](https://www.anandtech.com/), [Dupple](https://www.dupple.com/techpresso-archives)
 
@@ -22086,7 +22091,6 @@ Add the following commands to a search to manually scrape each site.
 ## ▷ Hentai Manga / Comics
 
 * ⭐ **[E-Hentai](https://e-hentai.org/)** / [ExHentai](https://exhentai.org/) - Hentai Manga / [Android Client](https://github.com/honjow/FEhViewer) / [Deleted Galleries Backup](https://panda.chaika.moe/) / [Downloader](https://gitlab.com/squishydreams/pandaforever), [2](https://github.com/ccloli/E-Hentai-Downloader)
-* ⭐ **[Koushoku](https://ksk.moe/)** - Fakku/Irodori Rips
 * ⭐ **[Hitomi](https://hitomi.la/)** - Hentai Manga
 * ⭐ **[IMHentai](https://imhentai.xxx/)** - Hentai Manga / Comics / [Discord](https://discord.com/invite/GRTKFhavEG)
 * ⭐ **[NHentai](https://nhentai.net/)** - Hentai Manga / [Android Client](https://github.com/Dar9586/NClientV2), [2](https://ttdyce.com/apps/nhviewer/) / [Downloader](https://github.com/RicterZ/nhentai), [2](https://github.com/Xwilarg/NHentaiDownloader)
