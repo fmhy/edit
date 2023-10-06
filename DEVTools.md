@@ -1033,7 +1033,7 @@
 * [OceanBase](https://open.oceanbase.com/) - Relational Database / [GitHub](https://github.com/oceanbase/oceanbase)
 * [NocoDB](https://www.nocodb.com/) - Turn Database into Smart Spreadsheet / [GitHub](https://github.com/nocodb/nocodb)
 * [PooShock](http://pooshock.ru/) - Apache 2 Test Page
- * [GalleryProject](https://galleryrevival.com/) - Manage / Host Photos on Website
+* [GalleryProject](https://galleryrevival.com/) - Manage / Host Photos on Website
 * Generate Fake Data - [Ruby](https://github.com/faker-ruby/faker) / [Swift](https://github.com/vadymmarkov/Fakery)
 
 ***
