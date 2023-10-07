@@ -68,7 +68,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 #### MacOS
 
-**[MacIntosh Garden](http://macintoshgarden.org/)** - MacOS Software
+**[AppsTorrent](https://appstorrent.ru/)** - Download MacOS Software
 **[Torrminatorr](https://forum.torrminatorr.com/)** - Download MacOS Games
 **[Adobe Creative Cloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#mac-adoGuide)** - Adobe CC Guide
  
@@ -81,18 +81,13 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[Dark Reader](https://darkreader.org/)** - Dark mode for all sites
 **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** - View YouTube dislikes
 **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate sites
-**[Privacy Badger](https://privacybadger.org/)** - Blocks invisible trackers.
-**[Buster](https://github.com/dessant/buster)** - Auto captcha solver
-**[Privacy Pass](https://privacypass.github.io/)** - Auto captcha skipper
 
 ***
 
 ### Adblocking
 
 **[uBlock Origin](https://github.com/gorhill/uBlock#installation)**  - The most popular (and best) adblocking extension
-**[Adblock Defenders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_adblock_defenders)** - Prevent sites from detecting adblocker
 **[System-Wide Adblock Guide](https://champagne.pages.dev/before-you-begin/important-tools/#free-system-wide-adblocking-for-ios-mac-android--windows)** - Free System-Wide Adblocking for iOS, MAC, Android & Windows
-**[Pop-up Blockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - Block all pop-ups
 **[SponsorBlock](https://sponsor.ajay.app/)** - Skip sponsored YouTube Ads
 **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - Block Spotify Ads
 **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers)** - Block Twitch Ads
@@ -173,7 +168,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[RuTracker](http://rutracker.org) / [TorrentGalaxy](https://torrentgalaxy.to/)** - Torrent video, audio, games, software & more /  Only download from reputable users
 **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Trusted game repacker
 **[Stremio](https://www.stremio.com/)** - Torrent video streaming app
-**[EZTV](https://eztv.re/)** - TV / Anime torrents
 **[Nyaa](https://nyaa.si/)** - Anime Torrents
 **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj) / [2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n)** - Multi-site torrent search
 **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)** - Multi-site video torrent search
