@@ -272,7 +272,6 @@
 
 # ► Developer Tools
 
-* 🌐 **[Awesome-Cyber-Security](https://github.com/fabionoth/awesome-cyber-security)**, [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/), [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources), [Infosec Resources](https://github.com/stong/infosec-resources) or [Anon Security](https://t.me/anon_server) - Cybersecurity Resources
 * 🌐 **[Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin)** - System Admin Resources
 * 🌐 **[Awesome Microservices](https://github.com/mfornos/awesome-microservices)** - Microservice Architecture Resources
 * 🌐 **[Awesome Subreddits](https://github.com/iCHAIT/awesome-subreddits)** - Programming Subreddits
@@ -280,10 +279,8 @@
 * 🌐 **[Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)** - Design Pattern Resources
 * 🌐 **[Awesome DataScience](https://github.com/academic/awesome-datascience)** or [Best Data Science Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources) - Data Science Resources
 * 🌐 **[Awesome Bug Bounty Builder](https://github.com/0xJin/awesome-bugbounty-builder)** or [Bug Bounty](https://github.com/sehno/Bug-bounty) - Bug Bounty Resources
-* 🌐 **[Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security)** - CI/CD Security Resources
 * ↪️ **[Developer Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_developer_tools)**
 * ↪️ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)**
-* ↪️ **[Security / Hacking News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_security_.2F_hacking_news)**
 * ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources)** or [Open Source Design](https://opensourcedesign.net/)
 * ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists
 * [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - Open Source Development Software
@@ -336,21 +333,7 @@
 * [Balena](https://www.balena.io/) - Build / Manage  IoT Groups
 * [Authorizer](https://github.com/authorizerdev/authorizer) or [DefGuard](https://defguard.net/) - Developer Authentication Apps
 * [Infisical](https://infisical.com/) - Encrypted Secret Management Platform
-* [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
-* [Advisory Database](https://github.com/github/advisory-database) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
-* [SSuite](https://spidersuite.github.io/SSuite/) - Web Security App
-* [osquery](https://github.com/osquery/osquery) - Security Monitor
-* [Nuclei](https://nuclei.projectdiscovery.io/) / [Github](https://github.com/projectdiscovery/nuclei) or [NVD](https://nvd.nist.gov/) - Vulnerability Tracking / Scanning
-* [Crowdsec](https://crowdsec.net/) - Crowd-Sourced Intrusion Detection / Prevention / [GitHub](https://github.com/crowdsecurity/crowdsec)
-* [X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Security Threat Intelligence Platform
-* [ThreatMap](https://threatmap.checkpoint.com/) or [CyberMap](https://cybermap.kaspersky.com/) - Live Malware Distribution Maps
-* [VirusShare](https://virusshare.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malware Search
-* [The Void](https://www.thevoid.community/) - Software Incident Reports
-* [Fail2Ban](https://www.fail2ban.org/wiki/index.php/Main_Page) - Protect Servers from Brute Force Attacks / [GitHub](https://github.com/fail2ban/fail2ban)
-* [Pentest Contracts](https://github.com/cure53/Contracts) - Security Contract Templates
 * [Earthly](https://earthly.dev/) - CD/CD Framework Pipeline
-* [OpenSCA-CLI](https://github.com/XmirrorSecurity/OpenSCA-cli) - Composition Analysis for Third Party Components
-* [Unblob](https://unblob.org/) - Extraction Suite
 * [Kubescape](https://github.com/kubescape/kubescape) - Kubernetes Tool
 * [Kubespray](https://github.com/kubernetes-sigs/kubespray) - Kubernetes Cluster
 * [Devtron](https://devtron.ai/) - Kubernetes Tool Integration
@@ -507,13 +490,6 @@
 * [Partytown](https://github.com/BuilderIO/partytown) - Relocate Scripts to Web Worker
 * [Tempesta FW](https://github.com/tempesta-tech/tempesta) - DDoS / Web Attack Protection
 * [Shisho](https://shisho.dev/) - Infrastructure Code Security Patcher
-* [Security Onion Solutions](https://securityonionsolutions.com/), [Wazuh](https://wazuh.com/) or [Snyk](https://snyk.io/) / [GitHub](https://github.com/snyk/cli) - Site Security Monitor
-* [securitytxt](https://securitytxt.org/) - Create security.txt Files
-* [Greenbone](https://github.com/greenbone) - Vulnerability Management
-* [Teler](https://github.com/kitabisa/teler) - HTTP Intrusion Detection
-* [HTTPToolkit](https://httptoolkit.com/) - Debug, Test & Build with HTTP(S)
-* [GHH](https://ghh.sourceforge.net/) or [IP Intelligence](http://getipintel.net/) - Malicious Web Traffic Protection
-* [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTP Sites Leak Information
 * [DNSDumpster](https://dnsdumpster.com/), [DNS Watch](https://dnswatch.info) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security
 * [Plow](https://github.com/six-ddc/plow) - HTTP Benchmarking
 * [IPv6 Leak Test](https://ip6.nl/), [Test-IPv6](https://test-ipv6.com/) or [IPv6 Test](https://ipv6-test.com/) - IPV6 Test
@@ -703,9 +679,7 @@
 * [BugSnag](https://www.bugsnag.com/) - Application Stability Monitor
 * [98.css](https://jdan.github.io/98.css/) - Build Windows 98 Themed Interfaces / [GitHub](https://github.com/jdan/98.css)
 * [Radare](https://rada.re/r/), [Flare IDA](https://github.com/mandiant/flare-ida), [Reverse Engineer's Toolkit](https://github.com/mentebinaria/retoolkit), [Rizin](https://rizin.re/), [Frida](https://frida.re/), [GHIDRA](https://ghidra-sre.org/) or [Cutter](https://github.com/rizinorg/cutter) - Reverse Engineering 
-* [RETeam](http://www.reteam.org/board/index.php) - Reverse Engineering Forums
 * [Kubeorbit](https://github.com/teamcode-inc/kubeorbit) - Application Testing / Debugging
-* [Redis](https://redis.io/) - Key-Value Database
 * [Inno Setup](https://jrsoftware.org/isinfo.php) or [InstallForge](https://www.installforge.net/) - Create Installation Programs
 * [7.css](https://khang-nd.github.io/7.css/) or [Botox Party](https://botoxparty.github.io/XP.css/) - Create Oldschool Style UI's
 * [Amplication](https://amplication.com/) - Create Node.js Apps
@@ -769,16 +743,10 @@
 * [XDGuru](https://www.xdguru.com/) - Adobe XD Resources
 * [Median](https://median.co/) - Convert Websites to Mobile Apps
 * [Media Kit](https://github.com/alexmercerind/media_kit) - Video / Audio Library for Flutter and Dart
-* [Cryptography](https://github.com/dint-dev/cryptography) - Dart and Flutter Cryptography Library
-* [Kali NetHunter](https://store.nethunter.com/en/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
-* [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
 * [Uiautomator2](https://github.com/openatx/uiautomator2), [ABD](https://github.com/ashishb/adb-enhanced) or [Appium](http://appium.io/) / [GitHub](https://github.com/appium/appium) - Automated App Testing
 * [SigNoz](https://signoz.io/) - Detect App Issues
-* [MSTG](https://github.com/OWASP/owasp-mastg) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
-* [YASNAC](https://github.com/RikkaW/YASNAC) - SafetyNet Attestation Checker
 * [jadx](https://github.com/skylot/jadx) - Dex to Java Decompiler
 * [Privado](https://github.com/Privado-Inc/privado) - Generate App Privacy Reports
-* [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App
 * [Pluto](https://androidpluto.com/) - Android Debug Framework
 * [PM2](https://pm2.keymetrics.io/) - Process Manager
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
@@ -1019,6 +987,41 @@
 
 ***
 
+# ► Cybersecurity Tools
+
+* 🌐 **[Awesome-Cyber-Security](https://github.com/fabionoth/awesome-cyber-security)**, [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/), [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources), [Infosec Resources](https://github.com/stong/infosec-resources) or [Anon Security](https://t.me/anon_server) - Cybersecurity Resources
+* 🌐 **[Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security)** - CI/CD Security Resources
+* ↪️ **[Security / Hacking News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_security_.2F_hacking_news)**
+* [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
+* [Advisory Database](https://github.com/github/advisory-database) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
+* [SSuite](https://spidersuite.github.io/SSuite/) - Web Security App
+* [osquery](https://github.com/osquery/osquery) - Security Monitor
+* [Nuclei](https://nuclei.projectdiscovery.io/) / [Github](https://github.com/projectdiscovery/nuclei) or [NVD](https://nvd.nist.gov/) - Vulnerability Tracking / Scanning
+* [Crowdsec](https://crowdsec.net/) - Crowd-Sourced Intrusion Detection / Prevention / [GitHub](https://github.com/crowdsecurity/crowdsec)
+* [X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Security Threat Intelligence Platform
+* [ThreatMap](https://threatmap.checkpoint.com/) or [CyberMap](https://cybermap.kaspersky.com/) - Live Malware Distribution Maps
+* [VirusShare](https://virusshare.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malware Search
+* [The Void](https://www.thevoid.community/) - Software Incident Reports
+* [Fail2Ban](https://www.fail2ban.org/wiki/index.php/Main_Page) - Protect Servers from Brute Force Attacks / [GitHub](https://github.com/fail2ban/fail2ban)
+* [Pentest Contracts](https://github.com/cure53/Contracts) - Security Contract Templates
+* [OpenSCA-CLI](https://github.com/XmirrorSecurity/OpenSCA-cli) - Composition Analysis for Third Party Components
+* [Unblob](https://unblob.org/) - Extraction Suite
+* [Security Onion Solutions](https://securityonionsolutions.com/), [Wazuh](https://wazuh.com/) or [Snyk](https://snyk.io/) / [GitHub](https://github.com/snyk/cli) - Site Security Monitor
+* [securitytxt](https://securitytxt.org/) - Create security.txt Files
+* [Greenbone](https://github.com/greenbone) - Vulnerability Management
+* [Teler](https://github.com/kitabisa/teler) - HTTP Intrusion Detection
+* [HTTPToolkit](https://httptoolkit.com/) - Debug, Test & Build with HTTP(S)
+* [IP Intelligence](http://getipintel.net/) - Malicious Web Traffic Protection
+* [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTP Sites Leak Information
+* [Cryptography](https://github.com/dint-dev/cryptography) - Dart and Flutter Cryptography Library
+* [Kali NetHunter](https://store.nethunter.com/en/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
+* [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
+* [MSTG](https://github.com/OWASP/owasp-mastg) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
+* [YASNAC](https://github.com/RikkaW/YASNAC) - SafetyNet Attestation Checker
+* [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App
+
+***
+
 # ► Database Tools
 
 * 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Resources
@@ -1038,6 +1041,7 @@
 * [PooShock](http://pooshock.ru/) - Apache 2 Test Page
 * [GalleryProject](https://galleryrevival.com/) - Manage / Host Photos on Website
 * Generate Fake Data - [Ruby](https://github.com/faker-ruby/faker) / [Swift](https://github.com/vadymmarkov/Fakery)
+* [Redis](https://redis.io/) - Key-Value Database
 
 ***
 
