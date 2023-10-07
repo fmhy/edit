@@ -142,7 +142,6 @@
 ***
 
 * ↪️ **[Course Megadrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#course-megadrives)** or [Large Collection of Useful Mega DL's](https://github.com/nbats/FMHYedit/blob/main/base64.md#large-collection-of-useful-mega-dls)
-* ⭐ **[freesoff](https://freesoff.com/)** - Courses
 * ⭐ **[TutFlix](https://tutflix.org/)** - Courses / Drives
 * ⭐ **[OneHack](https://onehack.us/)** - Courses
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
