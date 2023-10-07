@@ -647,6 +647,7 @@
 * [FontEdit](https://github.com/ayoy/fontedit), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/) or [Font Forge](https://fontforge.org/en-US/) - Font Editor 
 * [Transfonter](https://transfonter.org/) - Font Converter
 * [FontBase](https://fontba.se/) or [Xiles](https://www.xiles.app/) - Font Manager
+* [ShapeCatcher](https://shapecatcher.com/) - Unicode Identification
 * [Font List](https://wavian.com/font-list.html) or [So You Need A Typeface](https://ianli.github.io/so-you-need-a-typeface/) - Examples of Font Styles
 
 ***
@@ -672,7 +673,6 @@
 * ⭐ **[Zoom WE](https://pastebin.com/SpCdPywv)** or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - Improves Zoom Functionality
 * ⭐ **[ScrollAnywhere](https://pastebin.com/W3jwbBac)** - Improves Scrolling Functionality
 * ⭐ **[Clipboard2File](https://pastebin.com/JjDzqq8x)** - Upload Images from Clipboard
-* ⭐ **[Privacy Pass](https://privacypass.github.io/)** - Skip Captchas
 * ⭐ **[Redirector](https://einaregilsson.com/redirector/)** - Page Redirector
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)**, [OpenAI Translator](https://github.com/yetone/openai-translator), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/), [Linguist Translator](https://github.com/translate-tools/linguist), [S3Translator](http://www.s3blog.org/s3translator.html), [Mate Translate](https://gikken.co/mate-translate) or [ImTranslator](https://imtranslator.net/) - Translation Extensions 
 * [Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102) - Multi-Site Extension Search
@@ -1428,7 +1428,7 @@
 * [GeekPrank](https://geekprank.com/) - Windows Pranks
 * [Update Faker](https://updatefaker.com/) - Fake System Update Prank
 * [DownloadHardware](https://downloadhardware.com/) - Download Computer Hardware
-* [DownloadMoreRam](https://downloadmoreram.com/) - Download More Ram
+* [DownloadMoreRam](https://downloadmoreram.com/) - Download More RAM
 * [The Restart Page](http://www.therestartpage.com/) - Vintage Operating System Reboots
 * [Windows XP Error Worm](https://ybenbihi.github.io/windows-error-worm/) - Click & Drag Windows Errors 
 * [Hair on Screen](https://chrome.google.com/webstore/detail/hair-on-screen/egkikapjpndmjflbjjoondbihalgdjco) - Fake Hair on Screen Prank
