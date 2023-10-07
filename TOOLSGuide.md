@@ -1206,7 +1206,8 @@
 * [Revert Rebrand](https://betterdiscord.app/theme/Revert%20Rebrand) - Revert Discord’s Rebrand on BetterDiscord & Powercord / [GitHub](https://github.com/Goose-Nest/GT-RevertRebrand)
 * [Discord Portable](https://portapps.io/app/discord-portable/) - Portable Discord Stable & [PTB PortApps](https://portapps.io/app/discord-ptb-portable/)
 * [Unicord](https://github.com/UnicordDev/Unicord) - Open Source Discord Client / [Discord](https://discord.gg/64g7M5Y) 
-* [Fosscord](https://github.com/spacebarchat/spacebarchat) - FOSS Discord Client
+* [abaddon](https://github.com/uowuo/abaddon) - Open Source Discord client
+* [Fosscord](https://github.com/spacebarchat/spacebarchat) - Open Source Discord Client
 * [Quarrel](https://github.com/UWPCommunity/Quarrel) - Universal Windows Platform Discord Client
 * [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) or [WebCord](https://github.com/SpacingBat3/WebCord) - Discord Web Client / [Discord](https://discord.gg/Vm4CwZx)
 * [discord-PWA](https://github.com/NeverDecaf/discord-PWA) - Discord PWA Client
