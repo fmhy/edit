@@ -1233,14 +1233,13 @@
 
 # ► Helpful Sites / Apps
 
-* 🌐 **[EBook Converter Wiki](https://wiki.mobileread.com/wiki/E-book_conversion)**, [Ebook-Converter](https://ebook-converter.com/) or [Ebook-Online-Convert](https://ebook.online-convert.com/) - Ebook Converter Indexes
-* 🌐 **[DeDRM_tools](https://github.com/noDRM/DeDRM_tools)**, [PDF DRM](https://drive.google.com/file/d/1IeFsmgAbzC_JnRkUQPR0xdzy7NKbHjJq/view), or [Remove Ebook DRM](https://apprenticealf.wordpress.com/) - Ebook DRM Removal Tools / [Guide](https://pastebin.com/KwTBSjrK)
+* 🌐 **[Ebook Converters Wiki](https://wiki.mobileread.com/wiki/E-book_conversion)**, [Ebook-Converter](https://ebook-converter.com/) or [Ebook-Online-Convert](https://ebook.online-convert.com/) - Ebook Converter Indexes
+* 🌐 **[DeDRM_tools](https://github.com/noDRM/DeDRM_tools)** - Ebook DRM Removal Tools
 * ↪️ **[Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrasing)**
 * ⭐ **[ChatPDF](https://www.chatpdf.com/)**, [PaperBrain](https://www.paperbrain.study/) or [Ask Your PDF](https://askyourpdf.com/) - Turn PDFs into Chatbots
 * ⭐ **[Talk to Books](https://books.google.com/talktobooks/)** - AI Book Quote Search
 * ⭐ **[PlayText](https://playtext.app/)**, [AccelaReader](https://accelareader.com/), [Jiffy](https://www.jiffyreader.com/), [SwiftRead](https://swiftread.com/), [Notation](https://github.com/numanzamandipuu/Notation) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
 * ⭐ **[arch1ve](https://rentry.org/arch1ve)** or [Borrowing Picture Books](https://redd.it/fm1xpw) - Download Borrow Only Archive.org Books / [Script](https://redd.it/ofcqds)
-* ⭐ **[DownloadBookFromIPFS](https://greasyfork.org/en/scripts/428894-downloadbookfromipfs)** - Add Button to Download Books from IPFS
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi Format Converter
 * [ebook-converter-bot](https://github.com/yshalsager/ebook-converter-bot) - Telegram Ebook Converter
 * [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to Ebook Converter
