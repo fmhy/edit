@@ -1801,7 +1801,8 @@
 * [Revert Rebrand](https://betterdiscord.app/theme/Revert%20Rebrand) - Revert Discord’s Rebrand on BetterDiscord & Powercord / [GitHub](https://github.com/Goose-Nest/GT-RevertRebrand)
 * [Discord Portable](https://portapps.io/app/discord-portable/) - Portable Discord Stable & [PTB PortApps](https://portapps.io/app/discord-ptb-portable/)
 * [Unicord](https://github.com/UnicordDev/Unicord) - Open Source Discord Client / [Discord](https://discord.gg/64g7M5Y) 
-* [Fosscord](https://github.com/spacebarchat/spacebarchat) - FOSS Discord Client
+* [abaddon](https://github.com/uowuo/abaddon) - Open Source Discord client
+* [Fosscord](https://github.com/spacebarchat/spacebarchat) - Open Source Discord Client
 * [Quarrel](https://github.com/UWPCommunity/Quarrel) - Universal Windows Platform Discord Client
 * [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) or [WebCord](https://github.com/SpacingBat3/WebCord) - Discord Web Client / [Discord](https://discord.gg/Vm4CwZx)
 * [discord-PWA](https://github.com/NeverDecaf/discord-PWA) - Discord PWA Client
@@ -4453,6 +4454,7 @@ Twitch Stream Tracker
 * [Responsively](https://responsively.app/) - Responsive Dev Design Tool
 * [SREWorks](https://github.com/alibaba/SREWorks) - Operation & Maintenance Platform
 * [the component gallery](https://component.gallery/) - Design Components Gallery
+* [Scrollbar.app](https://scrollbar.app/) - Design Custom Scrollbars
 * [Hunspell](https://github.com/hunspell/hunspell) - Spellchecking Library
 * [Media Chrome](https://www.media-chrome.org/) - Media Player Elements / [GitHub](https://github.com/muxinc/media-chrome)
 * [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - README Template 
@@ -4539,6 +4541,7 @@ Twitch Stream Tracker
 * [BEM Cheat Sheet](https://bem-cheat-sheet.9elements.com/) - BEM Cheet Sheet 
 * [Vim Cheatsheet](https://i.ibb.co/FbdMMHN/460e75dd8543.png) or [rTorr](https://vim.rtorr.com/) - Vim Editor Cheat Sheets
 * [VimTip](https://vim.fandom.com/wiki/Category:VimTip) - Vim Editor Tips
+* [Underdash](https://surma.github.io/underdash/) - JS Snippets
 * [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
 * [HTML.com](https://html.com/) - HTML Guide / Cheat Sheet
 * [SEO Cheet Sheet](https://seo-cheat-sheet.9elements.com/) - SEO Cheet Sheet
@@ -4654,6 +4657,8 @@ Twitch Stream Tracker
 * [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTP Sites Leak Information
 * [DNSDumpster](https://dnsdumpster.com/), [DNS Watch](https://dnswatch.info) or [WhatsMyDNS](https://whatsmydns.net/) - DNS Lookup / Security
 * [Plow](https://github.com/six-ddc/plow) - HTTP Benchmarking
+* [IPv6 Leak Test](https://ip6.nl/), [Test-IPv6](https://test-ipv6.com/) or [IPv6 Test](https://ipv6-test.com/) - IPV6 Test
+* [How-To Turn off IPv6](https://www.itechguides.com/disable-ipv6-windows-10/) - Prevent IPv6 Leaks
 * [Flounder](https://flounder.online/) - Gemini Website Builder
 * [Transform](https://transform.tools/) - Polyglot Web Converter
 * [Framer](https://www.framer.com/) - Interactive Site / App Design Tool
@@ -5166,7 +5171,7 @@ Twitch Stream Tracker
 * [Adminer](https://www.adminer.org/) - Database Manager
 * [RemoteMySQL](https://www.remotemysql.com/) - Remote MySQL Database
 * [DoIt](https://github.com/dolthub/dolt) - SQL Database
-* [DB4Free](https://db4free.net/) or [SQLFIddle](http://sqlfiddle.com/) - SQL Testing
+* [DB4Free](https://db4free.net/), [sqlime](https://sqlime.org/) or [SQLFIddle](http://sqlfiddle.com/) - SQL Testing
 * [AI2SQL](https://app.ai2sql.io/) or [BlazeSQL](https://www.blazesql.com/) - SQL Generators
 * [franchise](https://franchise.cloud/) - SQL Notebook
 * [OceanBase](https://open.oceanbase.com/) - Relational Database / [GitHub](https://github.com/oceanbase/oceanbase)
@@ -6967,7 +6972,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 #### MacOS
 
-**[MacIntosh Garden](http://macintoshgarden.org/)** - MacOS Software
+**[AppsTorrent](https://appstorrent.ru/)** - Download MacOS Software
 **[Torrminatorr](https://forum.torrminatorr.com/)** - Download MacOS Games
 **[Adobe Creative Cloud](https://github.com/nbats/FMHYedit/blob/main/base64.md#mac-adoGuide)** - Adobe CC Guide
  
@@ -6980,18 +6985,13 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[Dark Reader](https://darkreader.org/)** - Dark mode for all sites
 **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** - View YouTube dislikes
 **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)** - Translate sites
-**[Privacy Badger](https://privacybadger.org/)** - Blocks invisible trackers.
-**[Buster](https://github.com/dessant/buster)** - Auto captcha solver
-**[Privacy Pass](https://privacypass.github.io/)** - Auto captcha skipper
 
 ***
 
 ### Adblocking
 
 **[uBlock Origin](https://github.com/gorhill/uBlock#installation)**  - The most popular (and best) adblocking extension
-**[Adblock Defenders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_adblock_defenders)** - Prevent sites from detecting adblocker
 **[System-Wide Adblock Guide](https://champagne.pages.dev/before-you-begin/important-tools/#free-system-wide-adblocking-for-ios-mac-android--windows)** - Free System-Wide Adblocking for iOS, MAC, Android & Windows
-**[Pop-up Blockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)** - Block all pop-ups
 **[SponsorBlock](https://sponsor.ajay.app/)** - Skip sponsored YouTube Ads
 **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)** - Block Spotify Ads
 **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers)** - Block Twitch Ads
@@ -7072,7 +7072,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[RuTracker](http://rutracker.org) / [TorrentGalaxy](https://torrentgalaxy.to/)** - Torrent video, audio, games, software & more /  Only download from reputable users
 **[FitGirl Repacks](https://fitgirl-repacks.site/)** - Trusted game repacker
 **[Stremio](https://www.stremio.com/)** - Torrent video streaming app
-**[EZTV](https://eztv.re/)** - TV / Anime torrents
 **[Nyaa](https://nyaa.si/)** - Anime Torrents
 **[Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:0led5tukccj) / [2](https://cse.google.com/cse?cx=006516753008110874046:kh3piqxus6n)** - Multi-site torrent search
 **[Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j)** - Multi-site video torrent search
@@ -12741,10 +12740,10 @@ pass: paluch
 * 🌐 **[Awesome Anti Censorship](https://github.com/danoctavian/awesome-anti-censorship)**, [Your Freedom](https://www.your-freedom.net/), [Geneva](https://geneva.cs.umd.edu/), [Cloak](https://github.com/cbeuw/Cloak) or [FreeBrowser](https://freebrowser.org/) / [Wiki](https://github.com/greatfire/wiki) - Anti-Censorship Resources
 * ↪️ **[Privacy Tools / Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_tools)**
 * ↪️ **[Encrypted Messaging Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_messengers)** / [2](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU) / [3](https://www.securemessagingapps.com/)
-* ↪️ **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)** - Anonymous Text Verification
+* ↪️ **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)**
 * ↪️ **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
-* ↪️ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_encryption_tools)** - File Encryption Apps / Tools
-* ↪️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_drive_formatting_.2F_file_deletion)** - Wipe / Overwrite Hard Drive Data 
+* ↪️ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_encryption_tools)**
+* ↪️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_drive_formatting_.2F_file_deletion)**
 * ↪️ **[Decentralized Social Networks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_decentralized_social_networks)**
 * ↪️ **[Windows 10 Antispy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_antispy_tools)**
 * ↪️ **[Password Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_generators)**
@@ -12841,7 +12840,7 @@ pass: paluch
 * [CanvasBlocker](https://pastebin.com/2RgYzu6u) or [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/) - Prevent Canvas Fingerprinting
 * [GNU LibreJS](https://www.gnu.org/software/librejs/) - Block Trivial Javascript
 * [PortAuthority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/) - Block Javascript Port Scan on Sites
-* [First Party Isolation](https://github.com/mozfreddyb/webext-firstpartyisolation) - Like blocking Third-party cookies, but more exhaustively
+* [First Party Isolation](https://github.com/mozfreddyb/webext-firstpartyisolation) - First Party Isolation Extension
 * [Location Guard](https://pastebin.com/n20LcQSM) - Hide Browsers Geolocation
 * [SafeToOpen](https://safetoopen.com/) - Protect Yourself From Phishing Attacks
 * [Language Switch](https://addons.mozilla.org/en-US/firefox/addon/languageswitch/) - Change Language Identifier
@@ -12899,14 +12898,11 @@ pass: paluch
 * [h8Mail](https://github.com/khast3x/h8mail) or [FirefoxMonitor](https://monitor.firefox.com/) - Data Breach Check
 * [BreachDirectory](https://breachdirectory.org), [Snusbase](https://snusbase.com/), [Leak Lookup](http://leak-lookup.com/), [Trufflehog](https://github.com/trufflesecurity/trufflehog), [Database Search](https://search.0t.rocks/) or [leakpeek](https://leakpeek.com/) - Data Breach Search Engines
 * [DataBunker](https://databunker.org/) - Data Leak Prevention
-* [Creepjs](https://abrahamjuliot.github.io/creepjs) or [LocateJS](https://locatejs.com/) - Check for Browser / Extension Leaks
+* [LocateJS](https://locatejs.com/) - Check for Browser / Extension Leaks
 * [Canarytokens](https://canarytokens.org/generate) - Network Breach Check 
 * [JustGetMyData](https://justgetmydata.com/) - Links to Obtain Your Data from Websites 
 * [Privacy Score](https://privacyscore.org/) - Website Privacy Score Rankings
-* [LMT Anti-Logger](https://leminhthanh.me/antilogger/) - Anti-Loggers (e.g. Keyloggers)
-* [logknife](https://github.com/natesales/logknife) - Remove Sensitive Data from Log Files
 * [WhoTracksMe](https://whotracks.me/) or [Trackography](https://trackography.org/) - Site Tracking Info  
-* [YourAdChoices](https://optout.aboutads.info/?c=2&lang=EN) - Check Your Current IBA Status
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P)
 * [I2Pd Browser](https://i2pd.website/) - I2P Browser / [GitHub](https://github.com/PurpleI2P/i2pd)
 * [CookieStatus](https://www.cookiestatus.com/) or [PrivacyTests](https://privacytests.org/) - Browser Tracking Protection Comparisons
@@ -12915,8 +12911,6 @@ pass: paluch
 * [DNSCookie](http://dnscookie.com/) - Identify Related Network Flows
 * [Microsoft Security Intelligence](https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest) or [MalSite](https://rentry.co/malsite) - Report Unsafe Sites
 * [Phish.Report](https://phish.report/), [OpenPhish](https://openphish.com/), [PhishStats](https://phishstats.info/) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
-* [How-To Turn off IPv6](https://www.itechguides.com/disable-ipv6-windows-10/) - Prevent IP Leaks
-* [IPv6 Leak Test](https://ip6.nl/), [Test-IPv6](https://test-ipv6.com/) or [IPv6 Test](https://ipv6-test.com/) - IPv6 Leak Test
 * [Voidsec](https://ip.voidsec.com/) or [WebRTC Leak Test](https://www.expressvpn.com/webrtc-leak-test) - WebRTC Leak Test
 * [webwormhole](https://github.com/saljam/webwormhole) - Peer Authenticated WebRTC
 * [WhatIsMyBrowser](https://www.whatismybrowser.com/detect/what-is-my-user-agent) - User-Agent Detection 
@@ -12927,8 +12921,8 @@ pass: paluch
 * [Dark Launch Referer Test](https://www.darklaunch.com/tools/test-referer) - Check Link Referrer
 * [Anonymizer](https://www.lolinez.com/ ) - Anonymize Links
 * [Link Cleaner](https://linkcleaner.app/) - Remove Tracking Elements / Extra Garbage from URLs / [Script](https://gist.github.com/htsign/455bd76d107be1f810c5caa4072c8275)
-* [whoer](https://whoer.net/), [encrypted-sni](https://www.cloudflare.com/ssl/encrypted-sni/) or [f.vision](http://www.f.vision/) - Check Network / Browser Security
-* [browserrecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [PixelScan](https://pixelscan.net/), [Unique Machine](https://uniquemachine.org/) or [AmIUnique](https://amiunique.org/) / [Timeline](https://amiunique.org/timeline) - Browser Fingerprinting Test
+* [encrypted-sni](https://www.cloudflare.com/ssl/encrypted-sni/) - Check Network / Browser Security
+* [browserrecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [Unique Machine](https://uniquemachine.org/), [Creepjs](https://abrahamjuliot.github.io/creepjs) or [AmIUnique](https://amiunique.org/) / [Timeline](https://amiunique.org/timeline) - Browser Fingerprinting Tests
 * [Fingerprint Suite](https://github.com/apify/fingerprint-suite) - Browser Fingerprinting Tools / Scraping Anonymization 
 * [Extension Fingerprints](https://github.com/z0ccc/extension-fingerprints) - Extension Fingerprinting Tests
 * [fluxfonts](https://github.com/da2x/fluxfonts) - Hide Unique Font Fingerprint
@@ -13087,7 +13081,7 @@ pass: paluch
 ## ▷ Proxy Apps
 
 * ⭐ **[Psiphon](https://psiphon.ca/)** - Free Proxy / VPN / [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png)
-* ⭐ **[Lantern](https://lantern.io/)** - Free Proxy/VPN Service
+* ⭐ **[Lantern](https://lantern.io/)** - Free Proxy / VPN
 * ⭐ **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel), [NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) or [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy) / [Test](https://www.howsmyssl.com/) - DPI Circumvention Local Proxies
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/bypass-some-isp-blocks-with-just-firefox)** - Bypass ISP censorship with Firefox
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service
@@ -18399,6 +18393,7 @@ Add the following commands to a search to manually scrape each site.
 * [FontEdit](https://github.com/ayoy/fontedit), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/) or [Font Forge](https://fontforge.org/en-US/) - Font Editor 
 * [Transfonter](https://transfonter.org/) - Font Converter
 * [FontBase](https://fontba.se/) or [Xiles](https://www.xiles.app/) - Font Manager
+* [ShapeCatcher](https://shapecatcher.com/) - Unicode Identification
 * [Font List](https://wavian.com/font-list.html) or [So You Need A Typeface](https://ianli.github.io/so-you-need-a-typeface/) - Examples of Font Styles
 
 ***
@@ -18424,7 +18419,6 @@ Add the following commands to a search to manually scrape each site.
 * ⭐ **[Zoom WE](https://pastebin.com/SpCdPywv)** or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - Improves Zoom Functionality
 * ⭐ **[ScrollAnywhere](https://pastebin.com/W3jwbBac)** - Improves Scrolling Functionality
 * ⭐ **[Clipboard2File](https://pastebin.com/JjDzqq8x)** - Upload Images from Clipboard
-* ⭐ **[Privacy Pass](https://privacypass.github.io/)** - Skip Captchas
 * ⭐ **[Redirector](https://einaregilsson.com/redirector/)** - Page Redirector
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)**, [OpenAI Translator](https://github.com/yetone/openai-translator), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/), [Linguist Translator](https://github.com/translate-tools/linguist), [S3Translator](http://www.s3blog.org/s3translator.html), [Mate Translate](https://gikken.co/mate-translate) or [ImTranslator](https://imtranslator.net/) - Translation Extensions 
 * [Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102) - Multi-Site Extension Search
@@ -19180,7 +19174,7 @@ Add the following commands to a search to manually scrape each site.
 * [GeekPrank](https://geekprank.com/) - Windows Pranks
 * [Update Faker](https://updatefaker.com/) - Fake System Update Prank
 * [DownloadHardware](https://downloadhardware.com/) - Download Computer Hardware
-* [DownloadMoreRam](https://downloadmoreram.com/) - Download More Ram
+* [DownloadMoreRam](https://downloadmoreram.com/) - Download More RAM
 * [The Restart Page](http://www.therestartpage.com/) - Vintage Operating System Reboots
 * [Windows XP Error Worm](https://ybenbihi.github.io/windows-error-worm/) - Click & Drag Windows Errors 
 * [Hair on Screen](https://chrome.google.com/webstore/detail/hair-on-screen/egkikapjpndmjflbjjoondbihalgdjco) - Fake Hair on Screen Prank
