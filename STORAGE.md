@@ -378,7 +378,9 @@
 
 **World Event Calendars**
 
-[Office Holidays](https://www.officeholidays.com/), [Forekast](https://forekast.com/), [Progress](https://neal.fun/progress/) - Worldwide 
+* [Progress](https://neal.fun/progress/) - Worldwide
+
+[Office Holidays](https://www.officeholidays.com/), [Forekast](https://forekast.com/) 
 
 ***
 
@@ -398,13 +400,13 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### ChatGPT Discord Bots
 
-[chatgpt-discord-bot](https://github.com/TuringAI-Team/chatgpt-discord-bot), [Erin](https://erin.ac/), [SallyBot](https://github.com/DeSinc/SallyBot/)
+[Turing](https://github.com/TuringAI-Team/chatgpt-discord-bot), [Erin](https://erin.ac/), [SallyBot](https://github.com/DeSinc/SallyBot/)
 
 ***
 
 #### ChatGPT Extensions
 
-* ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [Chrome](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc)
+* ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** - [Chrome](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc)
 
 [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md), [Harpa](https://harpa.ai/), [Merlin](https://merlin.foyer.work/) / [Unlimited](https://rentry.co/MerlinAI-Unlim), [Glimpse](https://glimpse.surf/)
 
