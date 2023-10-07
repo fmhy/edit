@@ -16,7 +16,6 @@
 * ⭐ **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/), [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) or [AmIUnique](https://amiunique.org/) - Adblocking Tests
 * [YouT-ube](https://www.yout-ube.com/) - Ad-Free YouTube Web Player
 * [Simple Opt Out](https://simpleoptout.com/) - Turn off Targeted Ads
-* [Privaxy](https://github.com/Barre/privaxy) - Adblocking App
 
 ***
 
@@ -30,7 +29,7 @@
 * ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** or [Butter](https://butter.sonnet.io/) - Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast) / [Script](https://github.com/mchangrh/sb.js), [2](https://greasyfork.org/en/scripts/453320)
 * ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)** or [Behind The Overlay Revival](https://addons.mozilla.org/en-US/firefox/addon/behind-the-overlay-revival/) - Hide Website Overlays 
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Play Videos in Ad-Free Player
-* [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker / [Guide](https://rentry.co/adblock) / [Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt)
+* [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker / [Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt)
 * [AdNauseam](https://adnauseam.io/) - Adblocker / Fakes Clicks to Confuse Tracking
 * [TBlock](https://tblock.me/) - Adblocker / [Filters](https://codeberg.org/tblock/filters)
 * [Ka-Block!](https://apps.apple.com/us/app/ka-block/id1037173557), [BlockBear](https://apps.apple.com/ca/app/blockbear/id1023924541) or [Adblock Plus for iOS](https://gitlab.com/eyeo/adblockplus/adblock-plus-for-safari) - Safari Adblockers
@@ -42,6 +41,10 @@
 ***
 
 ## ▷ DNS Adblocking
+
+* **Note** - If your goal is to block browser ads its best to just stick with uBlock Origin, as additional filters can cause conflicts or antiadblock. 
+
+***
 
 * 🌐 **[DNS Providers](https://adguard-dns.io/kb/general/dns-providers/)** - DNS Provider Index
 * ↪️ **[DNS Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dns_filters)**
@@ -291,8 +294,6 @@
 * [Vytal](https://chrome.google.com/webstore/detail/vytal/ncbknoohfjmcfneopnfkapmkblaenokb) - Changes Geolocation to match VPN IP address
 * [Firefox Privacy Settings](https://addons.mozilla.org/en-US/firefox/addon/privacy-settings/) or [SnowHaze](https://github.com/snowhaze/firefox-extension) - Firefox Privacy Settings Manager
 * [VPNTabs](https://github.com/Nickguitar/VPNTabs) - Force Firefox Tabs through VPN or Tor
-* [GAOptOut](https://tools.google.com/dlpage/gaoptout) - Google Analytics Opt Out
-* [Behave!](https://github.com/mindedsecurity/behave) - IP Protection 
 * [WebRTC Control](https://mybrowseraddon.com/webrtc-control.html) or [WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) - Enable / Disable WebRTC 
 * [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) - WebRTC Network Traffic Config 
 * [GPSDetect](https://github.com/allanlw/gps-detect) - Alerts user when JPEG contains EXIF GPS coordinates  
