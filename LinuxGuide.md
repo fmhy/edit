@@ -109,7 +109,7 @@
 * [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - App Image Launcher
 * [DeskCut](https://github.com/NayamAmarshe/DeskCut) - Desktop Shortcuts App
 * [nativefier_tauri](https://github.com/hamza72x/web2app) - Turn Webpages into Desktop Apps
-* [BusyBox](https://frippery.org/busybox/) or [Obscure Unix](https://kkovacs.eu/cool-but-obscure-unix-tools/) - Unix Tools
+* [Obscure Unix](https://kkovacs.eu/cool-but-obscure-unix-tools/) - Unix Tools
 * [Autokey](https://github.com/autokey/autokey) - Linux Automation Utility
 * [Crontab Guru](https://crontab.guru/) - Crontab Editor / Job Scheduler
 * [Crontab Generator](https://crontab-generator.org/) - Generate Crontab Syntax
