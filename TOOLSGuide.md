@@ -1083,7 +1083,7 @@
 ## ▷ Email Tools
 
 * ↪️ **[Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_clients)**
-* ↪️ **[Encrypted Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_services)**
+* ↪️ **[Encrypted Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_tools)**
 * ↪️ **[No Verification Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_sites)**
 * ↪️ **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)**
 * ⭐ **[nosms](https://rentry.co/nosms)** - Create Infinite Gmail Accounts
@@ -1200,13 +1200,13 @@
 * ⭐ **Revolt Tools** - [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) / [Divolt Resources](https://github.com/ggtylerr/awesome-divolt)
 * [Velocity](https://velocity-discord.netlify.app/) - Discord Client Mod
 * [ArmCord](https://github.com/ArmCord/ArmCord) - Lightweight Discord Client
+* [abaddon](https://github.com/uowuo/abaddon) - Lightweight Discord Client
 * [Replugged](https://replugged.dev/) - Lightweight Discord Client
 * [Discordo](https://github.com/ayn2op/discordo) - Discord Terminal Client
 * [bdCompat](https://github.com/Juby210/bdCompat) - Use BD Plugins in Powercord
 * [Revert Rebrand](https://betterdiscord.app/theme/Revert%20Rebrand) - Revert Discord’s Rebrand on BetterDiscord & Powercord / [GitHub](https://github.com/Goose-Nest/GT-RevertRebrand)
 * [Discord Portable](https://portapps.io/app/discord-portable/) - Portable Discord Stable & [PTB PortApps](https://portapps.io/app/discord-ptb-portable/)
 * [Unicord](https://github.com/UnicordDev/Unicord) - Open Source Discord Client / [Discord](https://discord.gg/64g7M5Y) 
-* [abaddon](https://github.com/uowuo/abaddon) - Open Source Discord client
 * [Fosscord](https://github.com/spacebarchat/spacebarchat) - Open Source Discord Client
 * [Quarrel](https://github.com/UWPCommunity/Quarrel) - Universal Windows Platform Discord Client
 * [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) or [WebCord](https://github.com/SpacingBat3/WebCord) - Discord Web Client / [Discord](https://discord.gg/Vm4CwZx)
