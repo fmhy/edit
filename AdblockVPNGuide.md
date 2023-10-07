@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/NZS012q)** - For mobile users
+**[Table of Contents](https://ibb.co/FndFxzS)** - For mobile users
 
 ***
 ***
@@ -68,6 +68,7 @@
 * [BIND](https://gitlab.isc.org/isc-projects/bind9) - Portable DNS Protocol
 * [Maza](https://maza-ad-blocking.andros.dev/) - Local DNS Adblocking 
 * [DNS Party](https://encrypted-dns.party/) - DNS Config Profiles for Apple Devices Encrypted 
+* [no-google](https://github.com/nickspaargaren/no-google) - Block All Google Services 
 * [Samsung Smart TV Adblock](https://redd.it/gn7fw5) - Block Smart TV Ads
 * [ZoneWatcher](https://zonewatcher.com/) - DNS Backup Tool
 * [DNS Redirector](http://dnsredirector.com/) - DNS Redirector
@@ -346,22 +347,19 @@
 * [DNSCookie](http://dnscookie.com/) - Identify Related Network Flows
 * [Microsoft Security Intelligence](https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest) or [MalSite](https://rentry.co/malsite) - Report Unsafe Sites
 * [Phish.Report](https://phish.report/), [OpenPhish](https://openphish.com/), [PhishStats](https://phishstats.info/) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
-* [Voidsec](https://ip.voidsec.com/) or [WebRTC Leak Test](https://www.expressvpn.com/webrtc-leak-test) - WebRTC Leak Test
 * [webwormhole](https://github.com/saljam/webwormhole) - Peer Authenticated WebRTC
 * [WhatIsMyBrowser](https://www.whatismybrowser.com/detect/what-is-my-user-agent) - User-Agent Detection 
 * [Google Takeout](https://takeout.google.com/) - Google Data Request
-* [no-google](https://github.com/nickspaargaren/no-google) - Block All Google Services 
-* [Nixory](http://nixory.sourceforge.net/) - Antispyware Browser Tool 
 * [Alternative Internet](https://redecentralize.github.io/alternative-internet/) - Decentralization Networks
 * [Dark Launch Referer Test](https://www.darklaunch.com/tools/test-referer) - Check Link Referrer
-* [Anonymizer](https://www.lolinez.com/ ) - Anonymize Links
+* [AnonymousRedirect](https://adguardteam.github.io/AnonymousRedirect/) - Anonymize Links
 * [Link Cleaner](https://linkcleaner.app/) - Remove Tracking Elements / Extra Garbage from URLs / [Script](https://gist.github.com/htsign/455bd76d107be1f810c5caa4072c8275)
 * [encrypted-sni](https://www.cloudflare.com/ssl/encrypted-sni/) - Check Network / Browser Security
 * [browserrecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [Unique Machine](https://uniquemachine.org/), [Creepjs](https://abrahamjuliot.github.io/creepjs) or [AmIUnique](https://amiunique.org/) / [Timeline](https://amiunique.org/timeline) - Browser Fingerprinting Tests
 * [Fingerprint Suite](https://github.com/apify/fingerprint-suite) - Browser Fingerprinting Tools / Scraping Anonymization 
-* [Extension Fingerprints](https://github.com/z0ccc/extension-fingerprints) - Extension Fingerprinting Tests
+* [Extension Detector](https://github.com/z0ccc/extension-detector) - Extension Fingerprinting Tests
 * [fluxfonts](https://github.com/da2x/fluxfonts) - Hide Unique Font Fingerprint
-* [NoScriptFingerprint](https://noscriptfingerprint.com/) - How JavaScript Fingerprinting Works
+* [NoScriptFingerprint](https://noscriptfingerprint.com/) - Non-JavaScript Fingerprinting
 * [dataskydd](https://webbkoll.dataskydd.net/) or [Blacklight](https://themarkup.org/blacklight) - Check what data-protecting measures a site has taken
 * [uBO-Scope](https://github.com/gorhill/uBO-Scope) - Measure 3rd Party Exposure
 * [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirector
@@ -376,7 +374,6 @@
 * [GeoSocial Footprint](http://geosocialfootprint.com/) or [tinfoleak](https://tinfoleak.com/) - View Your Geosocial Footprint 
 * [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Reddit Auto Post Delete
 * [Mine](https://saymineapp.com/) - View / Manage Digital Footprint
-* [Redact](https://redact.dev/) - Delete Entire Online History / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
 * [Freenet Project](https://freenetproject.org/) - Browse / Publish Freenet Sites 
 * [Mat2](https://0xacab.org/jvoisin/mat2) / [Desktop](https://metadatacleaner.romainvigier.fr/), [2](https://0xacab.org/jvoisin/mat2-web), [metadata-cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - Remove Metadata from Files
 * [SecLists](https://seclists.org/) - Security Mailing List Archive 
@@ -405,7 +402,7 @@
 
 ***
 
-## ▷ Email Services
+## ▷ Email Tools
 
 * ↪️ **[Encrypted Email Services](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_email_services)**
 * ↪️ **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)**
@@ -452,7 +449,6 @@
 * 🌐 **[VPS Comparison Chart](https://lowendstock.com/)** - VPS Comparisons
 * ⭐ **[/r/VPNs](https://www.reddit.com/r/vpns/)** - VPN Help and Discussion 
 * ⭐ **[AirVPN](https://airvpn.org/)** - [Pricing](https://i.ibb.co/8rVJ5JB/c4b813a6b6bc.png)
-* ⭐ **[Perfect Privacy](https://www.perfect-privacy.com/)** - [Pricing](https://i.ibb.co/PYNFn4K/0f638a6f3523.png) / [No Logging](https://www.perfect-privacy.com/en/warrant-canary)
 * ⭐ **[Windscribe](https://windscribe.com)** - [Pricing](https://ibb.co/tPZZDhC) / Free Version Available / [Improved App](https://github.com/Windscribe/Desktop-App)
 * ⭐ **[Proton](https://protonvpn.com)** - [Pricing](https://ibb.co/gg4VCDR) / No Torrenting w/ Free Version
 * ⭐ **[CryptoStorm](https://cryptostorm.is/)** - [Pricing](https://i.ibb.co/3m849CX/afe46b2ec3ec.png)
@@ -463,6 +459,7 @@
 * [Mullvad](https://mullvad.net/) - [Pricing](https://i.ibb.co/sHB33GJ/daf48a5ee585.png) / [NetNS](https://github.com/chutz/mullvad-netns) / [No-Logging](https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/) / [Port Warning](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
 * [IVPN](https://www.ivpn.net/) - [Pricing](https://i.ibb.co/6sQKrQL/e06bea93c5ba.png) / [Free Trial](https://redd.it/nzjmqa) / [No Logging](https://www.ivpn.net/knowledgebase/privacy/how-do-we-react-when-requested-by-an-authority-for-information-relating-to-a-customer/) / [Port Warning](https://www.ivpn.net/blog/gradual-removal-of-port-forwarding/)
 * [OVPN](https://www.ovpn.com/) - [Pricing](https://ibb.co/BNmCJdS) / [No Logging](https://www.ovpn.com/en/blog/ovpn-wins-court-order)
+* [Perfect Privacy](https://www.perfect-privacy.com/) - [Pricing](https://i.ibb.co/PYNFn4K/0f638a6f3523.png) / [No Logging](https://www.perfect-privacy.com/en/warrant-canary)
 * [Tailscale](https://tailscale.com/) - [Pricing](https://ibb.co/VDz3kxp) / [Discord](https://discord.com/invite/n3vtSwc)
 * [TorGuard](https://torguard.net/) - [Pricing](https://ibb.co/fHyN9F1)
 * [PandaVPN](https://pandavpnpro.com/) - [Pricing](https://ibb.co/PCPsv2t)
