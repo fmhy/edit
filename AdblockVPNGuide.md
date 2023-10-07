@@ -347,7 +347,7 @@
 * [Microsoft Security Intelligence](https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest) or [MalSite](https://rentry.co/malsite) - Report Unsafe Sites
 * [Phish.Report](https://phish.report/), [OpenPhish](https://openphish.com/), [PhishStats](https://phishstats.info/) or [PhishTank](https://phishtank.org/) - Report Phishing Sites
 * [How-To Turn off IPv6](https://www.itechguides.com/disable-ipv6-windows-10/) - Prevent IP Leaks
-* [IPv6 Leak Test](https://ip6.nl/), [Test-IPv6](https://test-ipv6.com/) or [IPv6 Test](https://ipv6-test.com/) - IPv6 Leak Test
+* [IPv6 Leak Test](https://ip6.nl/) or [Test-IPv6](https://test-ipv6.com/) - IPv6 Leak Test
 * [Voidsec](https://ip.voidsec.com/) or [WebRTC Leak Test](https://www.expressvpn.com/webrtc-leak-test) - WebRTC Leak Test
 * [webwormhole](https://github.com/saljam/webwormhole) - Peer Authenticated WebRTC
 * [WhatIsMyBrowser](https://www.whatismybrowser.com/detect/what-is-my-user-agent) - User-Agent Detection 
