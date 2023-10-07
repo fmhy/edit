@@ -363,7 +363,7 @@
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)**
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)**
 
-[CalculatorSoup](https://www.calculatorsoup.com/), [Number Empire](https://www.numberempire.com/), [EasyCalculation](https://www.easycalculation.com/), [Calculator.net](https://www.calculator.net/), [KeepFormula](https://keepformula.github.io/), [CalculatorHut](https://www.calculatorhut.com/), [Keisan](https://keisan.casio.com/), [GigaCalculator](https://www.gigacalculator.com/)
+[CalculatorSoup](https://www.calculatorsoup.com/), [Number Empire](https://www.numberempire.com/), [EasyCalculation](https://www.easycalculation.com/), [Calculator.net](https://www.calculator.net/), [KeepFormula](https://keepformula.github.io/), [CalculatorHut](https://www.calculatorhut.com/), [GigaCalculator](https://www.gigacalculator.com/)
 
 ***
 
