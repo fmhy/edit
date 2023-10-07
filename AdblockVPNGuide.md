@@ -325,7 +325,7 @@
 * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls)**
 * ↪️ **[IP / DNS Leak Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_dns_leak_tests)**
 * ↪️ **[Reddit Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_frontends)**
-* ⭐ **[Vytal.io](https://vytal.io/)**, [EverySiteKnows](http://everysiteknows.ferrucc.io/), [FirstPartySimulator](https://firstpartysimulator.org/), [PersonalData](https://personaldata.info/) or [WEBKAY](https://webkay.robinlinus.com/) - Browser Tracking Tests
+* ⭐ **[Vytal.io](https://vytal.io/)**, [FirstPartySimulator](https://firstpartysimulator.org/), [PersonalData](https://personaldata.info/) or [WEBKAY](https://webkay.robinlinus.com/) - Browser Tracking Tests
 * ⭐ **[CloakStream](https://proxy-download.cdxfedcxadsdcsdxz.workers.dev/)** - Encrypt Download URLs
 * ⭐ **[PrivacySpy](https://privacyspy.org/)** - Grades a Sites Privacy Policies 
 * ⭐ **[ACCOUNTKILLER](https://www.accountkiller.com/)** or [JustDeleteMe](https://justdeleteme.xyz/), [2](https://backgroundchecks.org/justdeleteme/) - Find / Terminate Old Accounts 
@@ -341,7 +341,7 @@
 * [I2P](https://geti2p.net/en/) - Encrypted Private Network Layer / [Guide](https://rentry.co/CBGI2P)
 * [I2Pd Browser](https://i2pd.website/) - I2P Browser / [GitHub](https://github.com/PurpleI2P/i2pd)
 * [CookieStatus](https://www.cookiestatus.com/) or [PrivacyTests](https://privacytests.org/) - Browser Tracking Protection Comparisons
-* [Device Info](https://www.deviceinfo.me/), [Privacy Test](https://privacy.net/analyzer/), [IPX](https://ipx.ac/run) or [Sploit](https://sploit.io/test.php) - Browser Data Leak Test
+* [Device Info](https://www.deviceinfo.me/), [Privacy Test](https://privacy.net/analyzer/) or [IPX](https://ipx.ac/run) - Browser Data Leak Test
 * [SSL Labs](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html) - SSL/TLS Browser Capabilities Test
 * [DNSCookie](http://dnscookie.com/) - Identify Related Network Flows
 * [Microsoft Security Intelligence](https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest) or [MalSite](https://rentry.co/malsite) - Report Unsafe Sites
@@ -366,7 +366,6 @@
 * [uBO-Scope](https://github.com/gorhill/uBO-Scope) - Measure 3rd Party Exposure
 * [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirector
 * [SafeTwitch](https://codeberg.org/dragongoose/safetwitch) - Twitch Frontend
-* [Wikiless](https://wikiless.org/) - Wikipedia Frontend
 * [Nitter](https://nitter.net/) - Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)
 * [ProxiTok](https://proxitok.pabloferreiro.es/) - TikTok Frontend / [GitHub](https://github.com/pablouser1/ProxiTok)
 * [Cusdis](https://cusdis.com/) - Privacy-Focused Comment System / [GitHub](https://github.com/djyde/cusdis)
@@ -379,11 +378,9 @@
 * [Mine](https://saymineapp.com/) - View / Manage Digital Footprint
 * [Redact](https://redact.dev/) - Delete Entire Online History / [Warning](https://i.ibb.co/pdg4hRr/0b0d78219f05.png)
 * [Freenet Project](https://freenetproject.org/) - Browse / Publish Freenet Sites 
-* [pdf-redact-tools](https://github.com/firstlookmedia/pdf-redact-tools) - Remove Metadata from Documents / PDF Files 
 * [Mat2](https://0xacab.org/jvoisin/mat2) / [Desktop](https://metadatacleaner.romainvigier.fr/), [2](https://0xacab.org/jvoisin/mat2-web), [metadata-cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - Remove Metadata from Files
 * [SecLists](https://seclists.org/) - Security Mailing List Archive 
 * [Panopticlick](https://coveryourtracks.eff.org/) - Test if your Browser Blocks Tracking 
-* [Am I FLoCed?](https://amifloced.org/) or [FLoC Demo](https://floc.glitch.me/) - Check if Chrome Ad-Targeting is Enabled
 * [Yggdrasil](https://yggdrasil-network.github.io/), [2](https://github.com/yggdrasil-network) - IPv6 Network / [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go/)
 * [anoNet](http://www.anonet.org/) - Anonymous IP Network
 
