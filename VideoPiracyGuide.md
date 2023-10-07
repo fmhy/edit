@@ -456,7 +456,6 @@
 * [FreeInterTV](http://www.freeintertv.com/) - TV / Sports
 * [Stream4Free Live](https://www.stream4free.live/) - TV / Sports
 * [vipotv](https://vipotv.com/) - TV / Sports
-* [uStream](https://www.ustream.to/index.html) - TV / Sports
 * [WwiTv](https://wwitv.com/) - TV
 * [SquidTV](https://www.squidtv.net/) - TV
 * [PhotoCall](https://photocall.tv/) - TV
