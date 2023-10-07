@@ -412,7 +412,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### ChromeOS Tools
 
-* [Brunch](https://github.com/sebanc/brunch) or [Chromefy](https://github.com/imperador/chromefy) - ChromeOS Installer
+* [Brunch](https://github.com/sebanc/brunch) - ChromeOS Installer
 * [MrChromeBox](https://mrchromebox.tech/), [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/) / [Guide](https://support.google.com/chromeosflex/answer/11552529?hl=en), [FydeOS](https://fydeos.io/download) or [WayneOS](https://wayne-os.com/) - ChromeOS Based OS
 * [Chromebrew](https://github.com/chromebrew/chromebrew) - Package Manager for ChromeOS
 * [Chrome100](https://chrome100.dev/) - ChromeOS Recovery Images
