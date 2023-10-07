@@ -687,7 +687,7 @@
 * [Ink](https://github.com/vadimdemedes/ink) - Create Interactive CLI Apps
 * [smenu](https://github.com/p-gen/smenu) - Create CLI Menus
 * [Enquirer](https://github.com/enquirer/enquirer) or [Prompts](https://github.com/terkelg/prompts) - Create CLI Prompts
-* [blessed-contrib](https://github.com/yaronn/blessed-contrib), [BubbleTea](https://github.com/charmbracelet/bubbletea) or [tui-rs](https://github.com/fdehau/tui-rs) - Create Terminal Applications
+* [blessed-contrib](https://github.com/yaronn/blessed-contrib) or [BubbleTea](https://github.com/charmbracelet/bubbletea) - Create Terminal Applications
 * [Etebase](https://www.etebase.com/) - Encrypted App Backend
 * [UWP](https://www.telerik.com/uwp/) - Telerik UI for UWP / [Github](https://github.com/telerik/UI-For-UWP)
 * [FluentWPF](https://github.com/sourcechord/FluentWPF) - Fluent Design System for WPF
@@ -785,13 +785,8 @@
 * 🌐 **[Awesome Gamedev](https://github.com/mbrukman/awesome-gamedev)**, [Game Dev Resources](https://www.newgrounds.com/wiki/creator-resources/game-dev-resources), [Magic Tools](https://github.com/ellisonleao/magictools), [LibGDX](https://github.com/rafaskb/awesome-libgdx) or [VG resource](https://www.vg-resource.com/) - Game Development Resources
 * 🌐 **[Awesome-One-Person-Games](https://github.com/Yonaba/awesome-one-person-games)** - Single Dev Game Examples
 * ↪️ **[Free Game Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_engines)**
+* ↪️ **[3D Models / Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models)**
 * [HiddenPalace](https://hiddenpalace.org/) - Game Development Media Archive
-* [Playerio](https://playerio.com/) - Online Game Engine
-* [RPG Playground](https://rpgplayground.com/) - Simple RPG Creator
-* [Game-Editor](http://game-editor.com/Main_Page) or [microStudio](https://microstudio.itch.io/microstudio) - Game Creators
-* [HaxeFlixel](https://haxeflixel.com/), [GB Studio](https://www.gbstudio.dev/) / [GitHub](https://github.com/chrismaltby/gb-studio), [Flame](https://flame-engine.org/), [GameMaker](https://gamemaker.io/) / [Online](https://yellowafterlife.github.io/GMEdit/), [Arcade Game Designer](https://jonathan-cauldwell.itch.io/multi-platform-arcade-game-designer) / [2](https://jonathan-cauldwell.itch.io/arcade-game-designer), [Pixelbox](https://pixwlk.itch.io/pixelbox), [LIKO-12](https://ramilego4game.itch.io/liko12), [PQ93](https://charliezip.itch.io/pq93), [GDevelop](https://4ian.itch.io/gdevelop) / [2](https://gdevelop.io/), [Bitsy](https://make.bitsy.org/), [LIKO 12](https://github.com/LIKO-12/LIKO-12), [Script 8](https://script-8.github.io/), [Tic80](https://tic80.com/), [GDPS](https://gdpseditor.com/) or [Engine Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) - 2D Game Creators
-* [3D Models](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/img-tools#wiki_.25B7_3d_models) - 3D Models / Tools
-* [Unreal Engine](https://www.unrealengine.com/) - 3D Creation Tool / [Python](https://github.com/20tab/UnrealEnginePython) / [C#](https://gamefromscratch.com/getting-started-with-unrealclr/) / [3D Scans](https://quixel.com/megascans) / [File Explorer](https://github.com/4sval/FModel), [2](https://fmodel.app/) / [Console Unlocker](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)
 * [Tommti Systems](http://www.tommti-systems.de/go.html?http://www.tommti-systems.de/main-Dateien/files.html) - 3D Benchmark Tools
 * [XeSS](https://github.com/intel/xess) - Increase Framerate of Game
 * [Serpent.ai](http://serpent.ai/) - Game Agent Framework
