@@ -1640,6 +1640,7 @@
 * [Dilo](https://www.dilo.nu/) - TV / Anime / Latino / Castilian
 * [asialiveaction](https://asialiveaction.com/) - Asian Drama
 * [doramasyt](https://www.doramasyt.com/) - Asian Drama
+* [Tele Gratis Online](https://telegratis.online/) - Live TV
 * [El Bucanero del Deporte](https://deportebucanero.wordpress.com/) - Sports Piracy Directory
 * [Flipax](https://flipax.es/) - Live Sports
 * [Teledeportiva](https://teledeportiva4.blogspot.com/), [2](https://teledeportiva2.blogspot.com/) - Live Sports
