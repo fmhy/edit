@@ -1490,6 +1490,27 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Lyrist](https://lyrist.app) - Write Lyrics w/ Beats
 * [song-lyrics-generator](https://www.song-lyrics-generator.org.uk/) or [Lyricistant](https://lyricistant.app/) - Lyrics Generators
 * [Deep Beat](https://deepbeat.org/) - Rap Lyrics Generator
+* [](https://genius.com/)
+* [](https://letssingit.com/)
+* [](https://lingoclip.com/)
+* [](https://lyricfind.com/)
+* [](https://lyricfinder.org/)
+* [](https://lyricsfreak.com/)
+* [](https://lyricsgaps.com/)
+* [](https://lyricsmania.com/)
+* [](https://lyricsmode.com/)
+* [](https://lyricsondemand.com/)
+* [](https://lyricstraining.com/)
+* [](https://lyricstudio.net/)
+* [](https://lyricsvault.eu/)
+* [](https://lyricsvault.info/)
+* [](https://lyricsvault.mobi/)
+* [](https://lyricsvault.net/)
+* [](https://lyricsvault.org/)
+* [](https://lyricsworld.com/)
+* [](https://musixmatch.com/)
+* [](https://songlyrics.com/)
+* [](https://stlyrics.com/)
 
 ***
 
