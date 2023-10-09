@@ -861,7 +861,6 @@
 * [CRX Viewer](https://github.com/Rob--W/crxviewer) or [Extension Source Downloader](https://chrome.google.com/webstore/detail/extension-source-download/dlbdalfhhfecaekoakmanjflmdhmgpea) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
 * [MarvellousSuspender](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - Tab Suspender
 * [Darkness](https://darkness.app/) - Dark Mode
-* [PolyMod](https://polymod.dev/) - Site Themes / [Discord](https://discord.com/invite/pacPH8b9gx)
 * [Picture-in-Picture](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension) - Picture-in-Picture Mode
 * [OVC](https://chrome.google.com/webstore/detail/ovc-one-video-control/analeldnikfgekckpcppegfekineelbb) - Video Controller
 * [Say Play](https://thanesh.dev/say-play) - Video Control Voice Commands
