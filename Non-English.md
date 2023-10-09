@@ -1541,6 +1541,7 @@
 * [Cultura Para Todos](https://culturaparatodos.eu/) - Video / Audio / Reading  
 * [Flipax2](https://flipax2.me/) - Video / Audio / Reading
 * [Fiuxy](https://fiuxy2.co/) - Video / Audio / Reading / NSFW
+* [SeriesTV](https://www.seriestv.in/) - Video / Audio / Reading / NSFW
 * [La Taberna Del Cangrejo](http://www.latabernadelcangrejo.eu/) - Video / Audio
 * [Zypeliculashd](https://zypeliculashd.net/) - Movies / TV / Anime
 * [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / Latino / Castilian
