@@ -1658,6 +1658,7 @@
 * [Animeflv.net](https://www3.animeflv.net/) - Anime
 * [mundodonghua](https://www.mundodonghua.com/) - Anime
 * [animeonline](https://www1.animeonline.ninja/) - Anime
+* [OtakusTV](https://www1.otakustv.com/) - Anime
 * [ytanime](https://ytanime.tv/) - Anime
 * [AnimeID](https://www.animeid.tv/) - Anime
 * [animeyt](https://animeyt.es/) - Anime
