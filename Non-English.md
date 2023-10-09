@@ -1594,6 +1594,7 @@
 * [Cinecalidad](https://cinecalidad.one/) - Movies / TV
 * [Tlandia](https://torrentlandia.site/) - Movies
 * [DiXvA](https://www.dixva.com/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
+* [Frozen-Layer](https://www.frozen-layer.com/) - Anime
 * [unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Akiba-kei](http://akiba-team.org/) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
