@@ -1566,6 +1566,7 @@
 * [Animegafirex](https://www.animegafirex.com/) - Anime
 * [SphinxAnime](https://sphinxanime.com/) - Anime
 * [Anime4Mega](https://anime4mega.net/) - Anime
+* [TioDonghua](https://anime.tiodonghua.com/) - Anime
 * [Japan Paw!](https://japan-paw.net/) - Anime
 * [ivanime](https://www.ivanime.com/) - Anime
 * [Fukou-Da!](https://fukou-da.net/) - Anime / Light Novels
@@ -1716,6 +1717,7 @@
 * [olympusscan](https://olympusscan.top/) - Manga
 * [Nova](https://novelasligeras.net/) - Manga / Light Novels
 * [Izicomics](https://www.izicomics.com/) - Manga / Comics
+* [MegaComicsTV3](https://megacomicstv3.blogspot.com/) - Comics
 * [MangasEnPdf](https://t.me/MangasEnPdf) - Manga / Telegram
 * [tupropiaaventura_bot](https://t.me/tupropiaaventura_bot) - Books / Telegram
 * [Recetas Vegetarianas](https://recetasvegetarianas.netlify.app/) -  Vegan Recipes
