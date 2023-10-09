@@ -88,7 +88,7 @@
 * [Class Central](https://www.classcentral.com/) - Search for Courses
 * [cs1000](https://cs1000.vercel.app/) - Educational Video
 * [media.ccc.de](https://media.ccc.de/) or [SlidePlayer](https://slideplayer.com/) - Educational Presentations
-* UC Berkeley Webcast project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://odysee.com/@UCBerkeley) - Lectures
+* UC Berkeley Webcast Project - [Archive](https://archive.org/details/ucberkeley-webcast) or [lbry](https://odysee.com/@UCBerkeley)
 * [iTunes U](https://wiki.archiveteam.org/index.php/ITunes_U) - Lectures
 * [Video Lectures](http://videolectures.net/) - Lectures
 * [Ted Talks](https://www.ted.com/) - Inspiring and Educational Talks
@@ -267,6 +267,7 @@
 * ⭐ **[/r/educationalgifs](https://reddit.com/r/educationalgifs)**  - Learn With GIFs
 * ⭐ **[/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/)** - Have Anything Explained Very Simply
 * ⭐ **[Spreeder](https://www.spreeder.com/)** - Learn to Read Faster
+* ⭐ **[The Punctuation Guide](https://www.thepunctuationguide.com/)** - Punctuation Guide
 * ⭐ **[vads](https://vads.ac.uk/digital/)**, [rijksstudio](https://www.rijksmuseum.nl/en/rijksstudio), [Artcyclopedia](http://www.artcyclopedia.com/), [The Wolfman Museum of Art](http://wolfmanmuseum.org/), [DarkClassics](https://darkclassics.blogspot.com/), [Arts and Culture](https://artsandculture.google.com/), [WGA](https://www.wga.hu/) or [WikiArt](https://www.wikiart.org/) - Digital Art Collections
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
 * [Eylenburg](https://eylenburg.github.io/) - Infographs, Maps & Papers
@@ -288,14 +289,12 @@
 * [Kialo](https://www.kialo.com/) or [Level Point](https://levelpoint.app/) - Debates / Discussion
 * [Tabby Cat](https://github.com/TabbycatDebate/tabbycat) - Debate Tournament Tabulation Software
 * [LitCharts](https://www.litcharts.com/) - Literature Guides
-* [The Punctuation Guide](https://www.thepunctuationguide.com/) - Punctuation Guide
 * [TypeTerms](https://www.supremo.co.uk/typeterms/) - Typography Cheat Sheet
 * [Electromagnetic Radiation Spectrum Chart](https://i.ibb.co/XCyQNB7/01930032e368.jpg)
 * [The Problem Site](https://www.theproblemsite.com/) - Problems / Puzzles / Games
 * [PuzzlePrime](https://www.puzzleprime.com/) - Problems / Puzzles
 * [50Hacks](https://50hacks.co/) - Productivity Tips
 * [Philosophy Bro](https://www.philosophybro.com/) or [PhilosophyBasics](https://www.philosophybasics.com/) - Learn about Philosophy
-* [Antinatalism Resources](https://rentry.co/Antinatalism_) - Learn about Antinatalism 
 * [Social Engineers](https://web.archive.org/web/20221208021915/https://www.socialengineers.net) - Social Engineering Guides
 * [Brainkit](https://www.braink.it/) - Learn Helpful Principles
 * [YouLogicalFallacyIs](https://yourlogicalfallacyis.com/), [FallacyFiles](https://fallacyfiles.org/index.html) or [LogicalFallacies](https://www.logicalfallacies.org/) - Learn about Logical Fallacies
