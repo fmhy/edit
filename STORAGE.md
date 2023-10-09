@@ -344,7 +344,7 @@
 
 **Extensions**
 
-[MyMark.me](https://www.mymark.me/), [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/), [Save to Bookmark OS](https://addons.mozilla.org/en-US/firefox/addon/bookmarkos/), [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer), [Omni](https://github.com/alyssaxuu/omni), [Centroly](https://centroly.com/)
+[myMark.me](https://www.mymark.me/), [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/), [Save to Bookmark OS](https://addons.mozilla.org/en-US/firefox/addon/bookmarkos/), [Bookmarks Organizer](https://github.com/cadeyrn/bookmarks-organizer), [Omni](https://github.com/alyssaxuu/omni), [Centroly](https://centroly.com/)
 
 ***
 
@@ -363,7 +363,7 @@
 * ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)**
 * ⭐ **[Omni Calculator](https://www.omnicalculator.com/)**
 
-[CalculatorSoup](https://www.calculatorsoup.com/), [Number Empire](https://www.numberempire.com/), [EasyCalculation](https://www.easycalculation.com/), [Calculator.net](https://www.calculator.net/), [KeepFormula](https://keepformula.github.io/), [CalculatorHut](https://www.calculatorhut.com/), [Keisan](https://keisan.casio.com/), [GigaCalculator](https://www.gigacalculator.com/)
+[CalculatorSoup](https://www.calculatorsoup.com/), [Number Empire](https://www.numberempire.com/), [EasyCalculation](https://www.easycalculation.com/), [Calculator.net](https://www.calculator.net/), [KeepFormula](https://keepformula.github.io/), [CalculatorHut](https://www.calculatorhut.com/), [GigaCalculator](https://www.gigacalculator.com/)
 
 ***
 
@@ -378,7 +378,9 @@
 
 **World Event Calendars**
 
-[Office Holidays](https://www.officeholidays.com/), [Forekast](https://forekast.com/), [Progress](https://neal.fun/progress/) - Worldwide 
+* [Progress](https://neal.fun/progress/) - Worldwide
+
+[Office Holidays](https://www.officeholidays.com/), [Forekast](https://forekast.com/) 
 
 ***
 
@@ -398,13 +400,13 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### ChatGPT Discord Bots
 
-[chatgpt-discord-bot](https://github.com/TuringAI-Team/chatgpt-discord-bot), [Erin](https://erin.ac/), [SallyBot](https://github.com/DeSinc/SallyBot/)
+[Turing](https://github.com/TuringAI-Team/chatgpt-discord-bot), [Erin](https://erin.ac/), [SallyBot](https://github.com/DeSinc/SallyBot/)
 
 ***
 
 #### ChatGPT Extensions
 
-* ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** / [Chrome](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc)
+* ⭐ **[SuperPower ChatGPT](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)** - [Chrome](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc)
 
 [ChatGPTBox](https://github.com/josStorer/chatGPTBox), [ChatGPT Apps](https://github.com/adamlui/chatgpt-apps), [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md), [Harpa](https://harpa.ai/), [Merlin](https://merlin.foyer.work/) / [Unlimited](https://rentry.co/MerlinAI-Unlim), [Glimpse](https://glimpse.surf/)
 
@@ -412,7 +414,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 #### ChromeOS Tools
 
-* [Brunch](https://github.com/sebanc/brunch) or [Chromefy](https://github.com/imperador/chromefy) - ChromeOS Installer
+* [Brunch](https://github.com/sebanc/brunch) - ChromeOS Installer
 * [MrChromeBox](https://mrchromebox.tech/), [ArnoldTheBat](https://chromium.arnoldthebat.co.uk/), [ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/) / [Guide](https://support.google.com/chromeosflex/answer/11552529?hl=en), [FydeOS](https://fydeos.io/download) or [WayneOS](https://wayne-os.com/) - ChromeOS Based OS
 * [Chromebrew](https://github.com/chromebrew/chromebrew) - Package Manager for ChromeOS
 * [Chrome100](https://chrome100.dev/) - ChromeOS Recovery Images
