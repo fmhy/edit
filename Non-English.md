@@ -1667,6 +1667,7 @@
 * [serieslan](https://serieslan.com/) - Cartoons
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
 * [Eventoshq](https://www.eventoshq.me/) - WWE
+* [Cine Libre Online](https://www.cinelibreonline.com/) - YouTube Movies
 * [LegalMentegratis](http://legalmentegratis.com/) - YouTube Movies
 * [Edutin Academy](https://edutin.com/) - Courses
 
