@@ -3149,7 +3149,6 @@ Add the following commands to a search to manually scrape each site.
 #### uBlock Filters
 
 * ⭐ **[yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)**
-* ⭐ **[Unsafe / Untrusted Filter](https://gist.githubusercontent.com/Rust1667/df78d493cf3c00340c535d93e303c4f9/raw)**
 * [DandelionSprout adlift](https://github.com/DandelionSprout/adfilt) - [URL Shortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt) / [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
 * [FilterLists.com](https://filterlists.com/) - Search
 
