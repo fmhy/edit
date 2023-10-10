@@ -1541,6 +1541,7 @@
 * [Cultura Para Todos](https://culturaparatodos.eu/) - Video / Audio / Reading  
 * [Flipax2](https://flipax2.me/) - Video / Audio / Reading
 * [Fiuxy](https://fiuxy2.co/) - Video / Audio / Reading / NSFW
+* [SeriesTV](https://www.seriestv.in/) - Video / Audio / Reading / NSFW
 * [La Taberna Del Cangrejo](http://www.latabernadelcangrejo.eu/) - Video / Audio
 * [Zypeliculashd](https://zypeliculashd.net/) - Movies / TV / Anime
 * [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / Latino / Castilian
@@ -1566,6 +1567,7 @@
 * [Animegafirex](https://www.animegafirex.com/) - Anime
 * [SphinxAnime](https://sphinxanime.com/) - Anime
 * [Anime4Mega](https://anime4mega.net/) - Anime
+* [TioDonghua](https://anime.tiodonghua.com/) - Anime
 * [Japan Paw!](https://japan-paw.net/) - Anime
 * [ivanime](https://www.ivanime.com/) - Anime
 * [Fukou-Da!](https://fukou-da.net/) - Anime / Light Novels
@@ -1592,7 +1594,9 @@
 * [Cinecalidad](https://cinecalidad.one/) - Movies / TV
 * [Tlandia](https://torrentlandia.site/) - Movies
 * [DiXvA](https://www.dixva.com/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
+* [Frozen-Layer](https://www.frozen-layer.com/) - Anime
 * [unionfansub](https://foro.unionfansub.com/index.php) - Anime
+* [Akiba-kei](http://akiba-team.org/) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
 
 ## ▷ Streaming
@@ -1655,6 +1659,7 @@
 * [Animeflv.net](https://www3.animeflv.net/) - Anime
 * [mundodonghua](https://www.mundodonghua.com/) - Anime
 * [animeonline](https://www1.animeonline.ninja/) - Anime
+* [OtakusTV](https://www1.otakustv.com/) - Anime
 * [ytanime](https://ytanime.tv/) - Anime
 * [AnimeID](https://www.animeid.tv/) - Anime
 * [animeyt](https://animeyt.es/) - Anime
@@ -1665,6 +1670,7 @@
 * [serieslan](https://serieslan.com/) - Cartoons
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
 * [Eventoshq](https://www.eventoshq.me/) - WWE
+* [Cine Libre Online](https://www.cinelibreonline.com/) - YouTube Movies
 * [LegalMentegratis](http://legalmentegratis.com/) - YouTube Movies
 * [Edutin Academy](https://edutin.com/) - Courses
 
@@ -1716,6 +1722,7 @@
 * [olympusscan](https://olympusscan.top/) - Manga
 * [Nova](https://novelasligeras.net/) - Manga / Light Novels
 * [Izicomics](https://www.izicomics.com/) - Manga / Comics
+* [MegaComicsTV3](https://megacomicstv3.blogspot.com/) - Comics
 * [MangasEnPdf](https://t.me/MangasEnPdf) - Manga / Telegram
 * [tupropiaaventura_bot](https://t.me/tupropiaaventura_bot) - Books / Telegram
 * [Recetas Vegetarianas](https://recetasvegetarianas.netlify.app/) -  Vegan Recipes
