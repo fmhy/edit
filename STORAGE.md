@@ -1976,7 +1976,7 @@ Add the following commands to a search to manually scrape each site.
 
 * ⭐ **[Unblockit](https://unblockit.asia/)** / [/r/Unblockit](https://www.reddit.com/r/Unblockit/)
 
-[Knaben's Proxy List](https://knaben.info/), [unblockninja](https://unblockninja.com/), [uProxy](https://uproxy.to/), [unblocktorrent](https://unblocktorrent.com/), [TorrentBay](https://torrentbay.to/), [unblock.soy](https://unblock.soy/) / [2](https://en-proxy.com/) / [3](https://unb.how/) / [4](https://unblockedscene.com/), [piracyproxy](https://piracyproxy.page/), [unblockedfor](https://unblockedfor.me/), [unblocksource](https://unblocksource.top/), [dirproxy](https://dirproxy.cc/), [ProxyNinja](https://proxyninja.org/), [ABCProxy](https://abcproxy.org/),  [Squid Proxy](https://www.squid-proxy.net/), [immortalproxy](https://immortalproxy.com/) 
+[Knaben's Proxy List](https://knaben.info/), [unblockninja](https://unblockninja.com/), [uProxy](https://uproxy.to/), [unblocktorrent](https://unblocktorrent.com/), [TorrentBay](https://torrentbay.net/), [unblock.soy](https://unblock.soy/) / [2](https://en-proxy.com/) / [3](https://unb.how/) / [4](https://unblockedscene.com/), [piracyproxy](https://piracyproxy.page/), [unblockedfor](https://unblockedfor.me/), [unblocksource](https://unblocksource.top/), [dirproxy](https://dirproxy.cc/), [ProxyNinja](https://proxyninja.org/), [ABCProxy](https://abcproxy.org/),  [Squid Proxy](https://www.squid-proxy.net/), [immortalproxy](https://immortalproxy.com/) 
 
 ***
 
