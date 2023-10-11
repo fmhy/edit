@@ -119,7 +119,6 @@
 
 ## ▷ Streaming
 
-* [Ucha.se](https://ucha.se/) - Educational Videos and Exam Questions
 * [Film4e](https://film4e.com/) - Movies / TV / Cartoons / Sub / Dub / 1080p
 * [NovaPlay](https://play.nova.bg/) - TV / Sub / Dub / 1080p
 * [VSI4KIFILMI](https://vsi4kifilmi.com/) - Movies / TV / Cartoons / Sub / Dub / 720p / Customizable Subtitles
