@@ -238,7 +238,6 @@
 
 ## ▷ Android Utilities
 
-* 🌐 **[JulioverneHYI](https://julio.hackyouriphone.org/)** - Piracy Tools
 * ↪️ **[Note / To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_note_apps)**
 * ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [Calculator++](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator), [microMathematics](https://github.com/mkulesh/microMathematics), [Calculator-inator](https://github.com/prathameshmm02/Calculator-inator) or [TapeCalc](https://play.google.com/store/apps/details?id=com.browndwarf.tapecalc) - Calculator Apps
 * ⭐ **[AutomaTag](http://automatag.com/)** or [AutoTagger](https://autotagger.ru/) - Metadata Organizers
@@ -925,6 +924,7 @@
 
 # ► iOS Tools
 
+* 🌐 **[JulioverneHYI](https://julio.hackyouriphone.org/)** - Piracy Tools
 * ↪️ **[Mobile Wallpapers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wallpapers)**
 * ↪️ **[Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test)**
 * ⭐ **[Hyperweb](https://hyperweb.app/)** - iOS Safari Improvement + Adblock Extension
