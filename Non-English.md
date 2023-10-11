@@ -1359,7 +1359,6 @@
 * [DC Hublist](https://dchublist.ru/hubs/) - Warez / List
 * [rublacklist](https://reestr.rublacklist.net/?status=1&gov=4&paginate_by=50), [2](https://reestr.rublacklist.net/?status=1&gov=24&paginate_by=50) - Warez list
 * [CWER](http://cwer.ru/), [2](http://cwer.ws/) - Video / Audio   
-* [rsload](https://rsload.net/) - Software  
 * [m0nkrus](https://w14.monkrus.ws/) - Warez 
 * [Flibustier](https://flibustier64.com/) - Software / OS
 * [2BakSa](http://2baksa.ws/) - Video / Audio/ Books
