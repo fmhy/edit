@@ -1543,16 +1543,16 @@
 * [Fiuxy](https://fiuxy2.co/) - Video / Audio / Reading / NSFW
 * [SeriesTV](https://www.seriestv.in/) - Video / Audio / Reading / NSFW
 * [La Taberna Del Cangrejo](http://www.latabernadelcangrejo.eu/) - Video / Audio
-* [Zypeliculashd](https://zypeliculashd.net/) - Movies / TV / Anime
+* [Zypeliculashd](https://zypeliculashd.net/) - Movies / TV / Anime / Latino
 * [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / Latino / Castilian
-* [Filmoteca Hawkmenblues](https://hawkmenblues.net/) - Movies
 * [SomosMovies](https://somosmovies.com/) - Movies / TV
 * [SeiresHD](https://serieslandia.com/), [2](https://seireshd.com/) - Movies / TV / Animation / [Telegram](https://t.me/joinchat/XOpQX51f2-tmOTBh)
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries
 * [DLShared](https://dlshareds.blogspot.com/?m=1) - Movies / Music
-* [mirandopeliculas](https://mirandopeliculas.com/) - Movies / TV
+* [mirandopeliculas](https://mirandopeliculas.com/) - Movies / TV / Latino
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
 * [gnula](https://gnula.nu/) - Movies / TV
+* [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino
 * [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation
 * [Descarga Cine Clasico](https://cineclasico.org/) - Classical Movies
@@ -1577,7 +1577,6 @@
 * [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)
 * [Niroqui](https://niroqui.com/) - Courses
 * [Descargar De Todo](https://pasteprivado.blogspot.com/) - Courses / [Bypasser script](https://greasyfork.org/en/scripts/462492-bypass-some-spanish-link-shorteners)
-* [ProgramasVirtualesPC](https://www.programasvirtualespc.net/) - Software / Movies / TV
 
 ## ▷ Torrenting
 
@@ -1592,7 +1591,7 @@
 * [Zonatorrent](https://zonatorrent.in/) - Movies / TV / [Bypasser script](https://greasyfork.org/en/scripts/462510-spanish-torrent-sites-short-link-bypasser)
 * [PasateaTorrent](https://pasateatorrent.org/) - Movies / TV
 * [Cinecalidad](https://cinecalidad.one/) - Movies / TV
-* [Tlandia](https://torrentlandia.site/) - Movies
+* [Tlandia](https://torrentlandia.site/) - Movies / Latino
 * [DiXvA](https://www.dixva.com/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
 * [Frozen-Layer](https://www.frozen-layer.com/) - Anime
 * [unionfansub](https://foro.unionfansub.com/index.php) - Anime
