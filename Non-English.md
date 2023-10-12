@@ -1609,7 +1609,7 @@
 * [PlusHD](https://ww3.pelisplus.to/) - Movies / TV / Anime / Latino
 * [PelisPedia.is](https://pelispedia.is/) - Movies / TV
 * [PelisPedia.club](https://pelispedia.club/) - Movies / TV / Latino
-* [PelisPedia3](https://io.pelispedia.io/) - Movies / TV / Latino
+* [PelisPedia3](https://io.pelispedia.io/) - Movies / TV / Anime / Latino
 * [Gnula.se](https://gnula.se/) - Movies / TV / Anime
 * [Gnula.nu](https://gnula.nu/) - Movies / TV
 * [Gnula.uno](https://gnula.uno/) - Movies / TV / Anime / Latino
