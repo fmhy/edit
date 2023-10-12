@@ -1551,7 +1551,7 @@
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
 * [gnula](https://gnula.nu/) - Movies / TV
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino
-* [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram
+* [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram / Latino
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation
 * [Descarga Cine Clasico](https://cineclasico.org/) - Classical Movies
 * [RetroCanal](https://retrocanal.net/) - Classical Movies / TV
