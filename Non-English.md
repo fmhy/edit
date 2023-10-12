@@ -1604,7 +1604,12 @@
 * ⭐ **[Playdede](https://dominiosplaydede.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/s/playdedeinformacion)
 * ⭐ **[Kodi Addon "Cristal Azul"](https://rentry.co/kodi-addon-cristal-azul/)** - Movies / TV / Live Sports / [Telegram](https://t.me/addonfestaycristal/)
 * ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
+* [Cuevana3](https://cuevana3.ms/) - Movies / TV / 1080p / [Telegram](https://t.me/cuevana_3_io)
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
+* [PelisMaraton](https://pelismaraton.nu/) - Movies / TV / Anime / 1080p / Latino
+* [Movidy](https://movidy.one/) - Movies / TV / Anime / 1080p / Latino
+* [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Animes / Doramas / 1080p / [Telegram](https://t.me/pelisplushd_nu)
+* [PelisPlusHD.so](https://pelisplushd.so/) - Movies / TV / 1080p / Castilian
 * [PelisPlus](https://www1.pelisplus.ws/) - Movies / TV
 * [PlusHD](https://ww3.pelisplus.to/) - Movies / TV / Anime / Latino
 * [PelisPedia.is](https://pelispedia.is/) - Movies / TV
@@ -1620,19 +1625,16 @@
 * [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV / Castilian
 * [Inkapelis](https://inkapelis.in/) - Movies / TV / Latino
 * [PelisFlix](https://pelisflix.media/), [2](https://pelisflix2.host/) - Movies / TV
-* [pelisplushd](https://pelisplushd.nz/) - Movies / TV / Anime / Latino / [Telegram](https://t.me/pelisplushd_nu)
 * [PelisForte](https://pelisforte.nu/) - Movies / TV
 * [Cuevana2](https://www.cuevana2.icu/), [2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
 * [Cuevana](https://cuevana.fans/) - Movies / TV / Anime / Latino
 * [EntrePeliculasySeries](https://entrepeliculasyseries.nz/) - Movies / TV / Anime
 * [Cine.Arplay](https://play.cine.ar/) - Movies / TV
 * [locopelis](https://www.locopelis.com/) - Movies / NSFW / Latino
-* [Movidy](https://movidy.ws/) - Movies / TV / Anime / Latino
-* [PelisMaraton](https://pelismaraton.nu/) - Movies / TV / Anime
 * [Fanpelis](https://fanpelis.la/) - Movies / TV / Anime / Latino
 * [SeriesYonkis](https://seriesyonkis.cx/) - Movies / TV
 * [Miradetodo](https://miradetodo.de/) - Movies / TV
-* [VerPeliculas](https://verpeliculasultra.com/) - Movies / TV
+* [VerPeliculas](https://verpeliculasultra.com/) - Movies
 * [Descarga Cine Clasico](https://cineclasico.org/) - Classical Movies
 * [Cine Libre Online](https://www.cinelibreonline.com/) - YouTube Movies
 * [LegalMentegratis](http://legalmentegratis.com/) - YouTube Movies
