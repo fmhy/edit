@@ -1648,7 +1648,6 @@
 * [Television Gratis](https://www.televisiongratishd.com/) - Live TV / Latino
 * [El Bucanero del Deporte](https://deportebucanero.wordpress.com/) - Sports Piracy Directory
 * [Flipax](https://flipax.es/) - Live Sports
-* [Teledeportiva](https://teledeportiva4.blogspot.com/), [2](https://teledeportiva2.blogspot.com/) - Live Sports
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Live Soccer / MMA
 * [JKAnime](https://jkanime.net/) - Anime
 * [AnimeFénix](https://www.animefenix.tv/) - Anime
