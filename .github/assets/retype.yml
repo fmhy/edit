@@ -23,6 +23,9 @@ links: # Top bar. Icons from FontAwesome 6.4.2.
   - text: Updates
     link: https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/updates/
     icon: log
+  - text: Backups
+    link: https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups
+    icon: shield-lock
 
 footer:
   copyright: ""
