@@ -1598,8 +1598,8 @@
 
 ## ▷ Streaming
 
-* ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / [Discord](https://discord.gg/BRKCXEe) / Castilian / Latino / VOSE
-* ⭐ **[Playdede](https://dominiosplaydede.com/)** - Movies / TV / Anime / [Telegram](https://t.me/s/playdedeinformacion)
+* ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/BRKCXEe) / Castilian / Latino / VOSE
+* ⭐ **[Playdede](https://dominiosplaydede.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/s/playdedeinformacion)
 * ⭐ **[Kodi Addon "Cristal Azul"](https://rentry.co/kodi-addon-cristal-azul/)** - Movies / TV / Live Sports / [Telegram](https://t.me/addonfestaycristal/)
 * ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
 * [PelisPlus](https://www1.pelisplus.ws/) - Movies / TV
