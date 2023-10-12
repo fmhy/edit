@@ -1604,11 +1604,15 @@
 * ⭐ **[Playdede](https://dominiosplaydede.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/s/playdedeinformacion)
 * ⭐ **[Kodi Addon "Cristal Azul"](https://rentry.co/kodi-addon-cristal-azul/)** - Movies / TV / Live Sports / [Telegram](https://t.me/addonfestaycristal/)
 * ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
+* [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
 * [PelisPlus](https://www1.pelisplus.ws/) - Movies / TV
 * [PlusHD](https://ww3.pelisplus.to/) - Movies / TV / Anime / Latino
-* [Pelispedia](https://pelispedia.one/) - Movies / TV / Latino
+* [PelisPedia.is](https://pelispedia.is/) - Movies / TV
+* [PelisPedia.club](https://pelispedia.club/) - Movies / TV / Latino
+* [PelisPedia3](https://io.pelispedia.io/) - Movies / TV / 720p / Latino
 * [Gnula.se](https://gnula.se/) - Movies / TV / Anime
 * [Gnula.nu](https://gnula.nu/) - Movies / TV
+* [Gnula.uno](https://gnula.uno/) - Movies / TV / Anime / Latino
 * [CineHDPlus](https://cinehdplus.org/) - Movies / TV
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / Latino
 * [Repelis24](https://www1.repelis24.yt/) - Movies / TV / Latino
