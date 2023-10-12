@@ -1629,7 +1629,7 @@
 * [SeriesYonkis](https://seriesyonkis.cx/) - Movies / TV
 * [Miradetodo](https://miradetodo.de/) - Movies / TV
 * [VerPeliculasUltra](https://verpeliculasultra.com/) - Movies
-* [Dilo](https://www.dilo.nu/) - Movies / TV / Anime / Castilian
+* [Dilo](https://www.dilo.nu/) - Movies / TV / Anime
 * [novelas360](https://novelas360.com/) - TV
 * [Vix](https://www.vix.com/tv/) - TV
 * [asialiveaction](https://asialiveaction.com/) - Asian Drama
