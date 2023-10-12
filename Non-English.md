@@ -1604,7 +1604,6 @@
 * ⭐ **[Kodi Addon "Cristal Azul"](https://rentry.co/kodi-addon-cristal-azul/)** - Movies / TV / Live Sports / [Telegram](https://t.me/addonfestaycristal/)
 * ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
-* [PelisMaraton](https://pelismaraton.nu/) - Movies / TV / Anime / 1080p / Latino
 * [Movidy](https://movidy.one/) - Movies / TV / Anime / 1080p / Latino
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
 * [Repelis24](https://www1.repelis24.yt/) - Movies / TV / Latino
@@ -1615,6 +1614,7 @@
 * [Gnula.se](https://gnula.se/) - Movies / TV / Anime
 * [Gnula.nu](https://gnula.nu/) - Movies / TV
 * [Gnula.uno](https://gnula.uno/) - Movies / TV / Anime / Latino
+* [PelisMaraton](https://pelismaraton.nu/) - Movies / TV / Anime
 * [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Anime / [Telegram](https://t.me/pelisplushd_nu)
 * [PelisPlusHD.so](https://pelisplushd.so/) - Movies / TV
 * [CineHDPlus](https://cinehdplus.org/) - Movies / TV
