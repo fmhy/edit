@@ -1608,7 +1608,9 @@
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
 * [PelisMaraton](https://pelismaraton.nu/) - Movies / TV / Anime / 1080p / Latino
 * [Movidy](https://movidy.one/) - Movies / TV / Anime / 1080p / Latino
+* [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
 * [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Animes / Doramas / 1080p / [Telegram](https://t.me/pelisplushd_nu)
+* [Repelis24](https://www1.repelis24.yt/) - Movies / TV / Latino
 * [PelisPlusHD.so](https://pelisplushd.so/) - Movies / TV
 * [PlusHD](https://ww3.pelisplus.to/) - Movies / TV / Anime / Latino
 * [PelisPedia.is](https://pelispedia.is/) - Movies / TV
@@ -1618,8 +1620,6 @@
 * [Gnula.nu](https://gnula.nu/) - Movies / TV
 * [Gnula.uno](https://gnula.uno/) - Movies / TV / Anime / Latino
 * [CineHDPlus](https://cinehdplus.org/) - Movies / TV
-* [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / Latino
-* [Repelis24](https://www1.repelis24.yt/) - Movies / TV / Latino
 * [Cinecalidad](https://cinecalidad.gg/) - Movies / TV / Animation / Latino / [Telegram](https://t.me/cinecalidadchat)
 * [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV / Castilian
 * [Inkapelis](https://www1.inkapelis.li/) - Movies / TV / Latino
