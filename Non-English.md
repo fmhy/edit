@@ -1553,7 +1553,6 @@
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino
 * [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram / Latino
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation
-* [Descarga Cine Clasico](https://cineclasico.org/) - Classical Movies
 * [RetroCanal](https://retrocanal.net/) - Classical Movies / TV
 * [DCC](https://cineclasicodcc.com/) - Classical Movies / TV
 * [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV / ED2K Links
@@ -1632,8 +1631,7 @@
 * [Fanpelis](https://fanpelis.la/) - Movies / TV / Anime / Latino
 * [SeriesYonkis](https://seriesyonkis.cx/) - Movies / TV
 * [Miradetodo](https://miradetodo.de/) - Movies / TV
-* [VerPeliculas](https://verpeliculasultra.com/) - Movies
-* [Descarga Cine Clasico](https://cineclasico.org/) - Classical Movies
+* [VerPeliculasUltra](https://verpeliculasultra.com/) - Movies
 * [Cine Libre Online](https://www.cinelibreonline.com/) - YouTube Movies
 * [LegalMentegratis](http://legalmentegratis.com/) - YouTube Movies
 * [Argentine Cinema](https://www.youtube.com/@argentinecinemawithenglish4476/) - Argentine YouTube Movies
