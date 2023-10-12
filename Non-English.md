@@ -1607,29 +1607,29 @@
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
 * [Repelis24](https://www1.repelis24.yt/) - Movies / TV / Latino
 * [PlusHD](https://ww3.pelisplus.to/) - Movies / TV / Anime / Latino
-* [PelisPedia.is](https://pelispedia.is/) - Movies / TV
 * [PelisPedia.club](https://pelispedia.club/) - Movies / TV / Latino
 * [PelisPedia3](https://io.pelispedia.io/) - Movies / TV / Anime / Latino
-* [Gnula.se](https://gnula.se/) - Movies / TV / Anime
-* [Gnula.nu](https://gnula.nu/) - Movies / TV
 * [Gnula.uno](https://gnula.uno/) - Movies / TV / Anime / Latino
-* [PelisMaraton](https://pelismaraton.nu/) - Movies / TV / Anime
-* [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Anime / [Telegram](https://t.me/pelisplushd_nu)
-* [PelisPlusHD.so](https://pelisplushd.so/) - Movies / TV
-* [CineHDPlus](https://cinehdplus.org/) - Movies / TV
 * [Cinecalidad](https://cinecalidad.gg/) - Movies / TV / Animation / Latino / [Telegram](https://t.me/cinecalidadchat)
-* [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV / Castilian
 * [Inkapelis](https://www1.inkapelis.li/) - Movies / TV / Latino
-* [PelisFlix](https://pelisflix.media/), [2](https://pelisflix2.host/) - Movies / TV
-* [PelisForte](https://pelisforte.nu/) - Movies / TV
-* [Cuevana3](https://cuevana3.ms/) - Movies / TV / [Telegram](https://t.me/cuevana_3_io)
 * [Cuevana2](https://www.cuevana2.icu/), [2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
-* [EntrePeliculasySeries](https://entrepeliculasyseries.nz/) - Movies / TV / Anime
 * [locopelis](https://www.locopelis.com/) - Movies / NSFW / Latino
 * [Fanpelis](https://fanpelis.la/) - Movies / TV / Anime / Latino
+* [Cuevana3](https://cuevana3.ms/) - Movies / TV / [Telegram](https://t.me/cuevana_3_io)
+* [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Anime / [Telegram](https://t.me/pelisplushd_nu)
+* [PelisPlusHD.so](https://pelisplushd.so/) - Movies / TV
+* [PelisPedia.is](https://pelispedia.is/) - Movies / TV
+* [Gnula.se](https://gnula.se/) - Movies / TV / Anime
+* [Gnula.nu](https://gnula.nu/) - Movies / TV
+* [PelisMaraton](https://pelismaraton.nu/) - Movies / TV / Anime
+* [CineHDPlus](https://cinehdplus.org/) - Movies / TV
+* [PelisFlix](https://pelisflix.media/), [2](https://pelisflix2.host/) - Movies / TV
+* [PelisForte](https://pelisforte.nu/) - Movies / TV
+* [EntrePeliculasySeries](https://entrepeliculasyseries.nz/) - Movies / TV / Anime
 * [SeriesYonkis](https://seriesyonkis.cx/) - Movies / TV
 * [Miradetodo](https://miradetodo.de/) - Movies / TV
 * [VerPeliculasUltra](https://verpeliculasultra.com/) - Movies
+* [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV / Castilian
 * [Cine Libre Online](https://www.cinelibreonline.com/) - YouTube Movies
 * [LegalMentegratis](http://legalmentegratis.com/) - YouTube Movies
 * [Argentine Cinema](https://www.youtube.com/@argentinecinemawithenglish4476/) - Argentine YouTube Movies
