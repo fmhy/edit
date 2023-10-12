@@ -1588,7 +1588,7 @@
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
 * [Zonatorrent](https://zonatorrent.in/) - Movies / TV / [Bypasser script](https://greasyfork.org/en/scripts/462510-spanish-torrent-sites-short-link-bypasser)
 * [PasateaTorrent](https://pasateatorrent.org/) - Movies / TV
-* [Cinecalidad](https://cinecalidad.one/) - Movies / TV
+* [Cinecalidad](https://cinecalidad.one/) - Movies / TV / Latino
 * [Tlandia](https://torrentlandia.site/) - Movies / Latino
 * [DiXvA](https://www.dixva.com/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
 * [Frozen-Layer](https://www.frozen-layer.com/) - Anime
@@ -1611,7 +1611,7 @@
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / Latino
 * [Repelis24](https://repelis24.co/) - Movies / TV / Latino
 * [Argentine Cinema](https://www.youtube.com/@argentinecinemawithenglish4476/) - Argentine Movies
-* [Cinecalidad](https://cinecalidad.gg/) - Movies / TV / Animation / [Telegram](https://t.me/cinecalidadchat)
+* [Cinecalidad](https://cinecalidad.gg/) - Movies / TV / Animation / Latino / [Telegram](https://t.me/cinecalidadchat)
 * [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV / Castilian
 * [Inkapelis](https://inkapelis.in/) - Movies / TV / Latino
 * [PelisFlix](https://pelisflix.media/), [2](https://pelisflix2.host/) - Movies / TV
