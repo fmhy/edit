@@ -1623,7 +1623,7 @@
 * [Repelis24](https://www1.repelis24.yt/) - Movies / TV / Latino
 * [Cinecalidad](https://cinecalidad.gg/) - Movies / TV / Animation / Latino / [Telegram](https://t.me/cinecalidadchat)
 * [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV / Castilian
-* [Inkapelis](https://inkapelis.in/) - Movies / TV / Latino
+* [Inkapelis](https://www1.inkapelis.li/) - Movies / TV / Latino
 * [PelisFlix](https://pelisflix.media/), [2](https://pelisflix2.host/) - Movies / TV
 * [PelisForte](https://pelisforte.nu/) - Movies / TV
 * [Cuevana2](https://www.cuevana2.icu/), [2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
