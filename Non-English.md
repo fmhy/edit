@@ -1549,7 +1549,6 @@
 * [DLShared](https://dlshareds.blogspot.com/?m=1) - Movies / Music
 * [mirandopeliculas](https://mirandopeliculas.com/) - Movies / TV / Latino
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
-* [gnula](https://gnula.nu/) - Movies / TV
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino
 * [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram / Latino
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation
@@ -1599,7 +1598,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/BRKCXEe) / Castilian / Latino / VOSE
+* ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/BRKCXEe)
 * ⭐ **[Playdede](https://dominiosplaydede.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/s/playdedeinformacion)
 * ⭐ **[Kodi Addon "Cristal Azul"](https://rentry.co/kodi-addon-cristal-azul/)** - Movies / TV / Live Sports / [Telegram](https://t.me/addonfestaycristal/)
 * ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
