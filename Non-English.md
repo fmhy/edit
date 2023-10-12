@@ -1609,8 +1609,7 @@
 * [PelisMaraton](https://pelismaraton.nu/) - Movies / TV / Anime / 1080p / Latino
 * [Movidy](https://movidy.one/) - Movies / TV / Anime / 1080p / Latino
 * [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Animes / Doramas / 1080p / [Telegram](https://t.me/pelisplushd_nu)
-* [PelisPlusHD.so](https://pelisplushd.so/) - Movies / TV / 1080p / Castilian
-* [PelisPlus](https://www1.pelisplus.ws/) - Movies / TV
+* [PelisPlusHD.so](https://pelisplushd.so/) - Movies / TV
 * [PlusHD](https://ww3.pelisplus.to/) - Movies / TV / Anime / Latino
 * [PelisPedia.is](https://pelispedia.is/) - Movies / TV
 * [PelisPedia.club](https://pelispedia.club/) - Movies / TV / Latino
