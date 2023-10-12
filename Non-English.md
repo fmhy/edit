@@ -1603,7 +1603,6 @@
 * ⭐ **[Playdede](https://dominiosplaydede.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/s/playdedeinformacion)
 * ⭐ **[Kodi Addon "Cristal Azul"](https://rentry.co/kodi-addon-cristal-azul/)** - Movies / TV / Live Sports / [Telegram](https://t.me/addonfestaycristal/)
 * ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
-* [Cuevana3](https://cuevana3.ms/) - Movies / TV / 1080p / [Telegram](https://t.me/cuevana_3_io)
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
 * [PelisMaraton](https://pelismaraton.nu/) - Movies / TV / Anime / 1080p / Latino
 * [Movidy](https://movidy.one/) - Movies / TV / Anime / 1080p / Latino
@@ -1624,6 +1623,7 @@
 * [Inkapelis](https://www1.inkapelis.li/) - Movies / TV / Latino
 * [PelisFlix](https://pelisflix.media/), [2](https://pelisflix2.host/) - Movies / TV
 * [PelisForte](https://pelisforte.nu/) - Movies / TV
+* [Cuevana3](https://cuevana3.ms/) - Movies / TV / [Telegram](https://t.me/cuevana_3_io)
 * [Cuevana2](https://www.cuevana2.icu/), [2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
 * [EntrePeliculasySeries](https://entrepeliculasyseries.nz/) - Movies / TV / Anime
 * [locopelis](https://www.locopelis.com/) - Movies / NSFW / Latino
