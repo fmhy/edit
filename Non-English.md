@@ -1579,7 +1579,7 @@
 ## ▷ Torrenting
 
 * ⭐ **[DonTorrent](https://dontorrent.party/)**, [2](https://donproxies.com/) - Movies / TV / Documentaries  / Castilian / [Telegram](https://t.me/s/DonTorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
-* ⭐ **[MejorTorrent](https://www1.mejortorrent.rip/)** -  Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/MejorTorrentAp)
+* ⭐ **[MejorTorrent](https://www7.mejortorrent.rip/)** -  Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/MejorTorrentAp)
 * ⭐ **[Grantorrent.wtf](https://grantorrent.wtf/)** - Movies / TV / Documentaries / Castilian
 * ⭐ **[Elitetorrent](https://www.elitetorrent.wf/)** - Movies / TV / Anime / Castilian / Latino / VOSE
 * [Descargas2020](https://descargas2020.net/) - Movies / TV
@@ -1611,7 +1611,7 @@
 * [Gnula.nu](https://gnula.nu/) - Movies / TV
 * [CineHDPlus](https://cinehdplus.org/) - Movies / TV
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / Latino
-* [Repelis24](https://repelis24.co/) - Movies / TV / Latino
+* [Repelis24](https://www1.repelis24.yt/) - Movies / TV / Latino
 * [Cinecalidad](https://cinecalidad.gg/) - Movies / TV / Animation / Latino / [Telegram](https://t.me/cinecalidadchat)
 * [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV / Castilian
 * [Inkapelis](https://inkapelis.in/) - Movies / TV / Latino
