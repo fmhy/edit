@@ -1625,7 +1625,6 @@
 * [PelisFlix](https://pelisflix.media/), [2](https://pelisflix2.host/) - Movies / TV
 * [PelisForte](https://pelisforte.nu/) - Movies / TV
 * [Cuevana2](https://www.cuevana2.icu/), [2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
-* [Cuevana](https://cuevana.fans/) - Movies / TV / Anime / Latino
 * [EntrePeliculasySeries](https://entrepeliculasyseries.nz/) - Movies / TV / Anime
 * [locopelis](https://www.locopelis.com/) - Movies / NSFW / Latino
 * [Fanpelis](https://fanpelis.la/) - Movies / TV / Anime / Latino
