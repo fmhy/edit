@@ -1603,30 +1603,30 @@
 * ⭐ **[Kodi Addon "Cristal Azul"](https://rentry.co/kodi-addon-cristal-azul/)** - Movies / TV / Live Sports / [Telegram](https://t.me/addonfestaycristal/)
 * ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
 * [PelisPlus](https://www1.pelisplus.ws/) - Movies / TV
-* [PlusHD](https://ww3.pelisplus.to/) - Movies / TV / Anime
-* [Pelispedia](https://pelispedia.one/) - Movies / TV
+* [PlusHD](https://ww3.pelisplus.to/) - Movies / TV / Anime / Latino
+* [Pelispedia](https://pelispedia.one/) - Movies / TV / Latino
 * [Gnula.se](https://gnula.se/) - Movies / TV / Anime
 * [Gnula.nu](https://gnula.nu/) - Movies / TV
 * [CineHDPlus](https://cinehdplus.org/) - Movies / TV
 * [allcalidad](https://allcalidad.ms/) - Movies / TV
-* [Solo Latino](https://sololatino.net/) - Movies / TV / Anime
-* [Repelis24](https://repelis24.co/) - Movies / TV
+* [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / Latino
+* [Repelis24](https://repelis24.co/) - Movies / TV / Latino
 * [Argentine Cinema](https://www.youtube.com/@argentinecinemawithenglish4476/) - Argentine Movies
-* [Cinecalidad](https://cinecalidad.cat/) - Movies / TV / Animation / [Telegram](https://t.me/cinecalidadchat)
+* [Cinecalidad](https://cinecalidad.gg/) - Movies / TV / Animation / [Telegram](https://t.me/cinecalidadchat)
 * [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV / Castilian
-* [Inkapelis](https://inkapelis.in/) - Movies / TV
-* [PelisFlix](https://pelisflix.chat/), [2](https://pelisflix2.bid/) - Movies / TV
-* [pelisplushd](https://pelisplushd.nz/) - Movies / TV / Anime
+* [Inkapelis](https://inkapelis.in/) - Movies / TV / Latino
+* [PelisFlix](https://pelisflix.media/), [2](https://pelisflix2.host/) - Movies / TV
+* [pelisplushd](https://pelisplushd.nz/) - Movies / TV / Anime / Latino / [Telegram](https://t.me/pelisplushd_nu)
 * [PelisForte](https://pelisforte.nu/) - Movies / TV
-* [Cuevana2](https://www.cuevana2.icu/) - Movies / TV
-* [EntrePeliculasySeries](https://entrepeliculasyseries.pro/), [2](https://entrepeliculasyseries.nz/) - Movies / TV / Anime
+* [Cuevana2](https://www.cuevana2.icu/) - Movies / TV / Latino
+* [EntrePeliculasySeries](https://entrepeliculasyseries.nz/) - Movies / TV / Anime
 * [SeriesGrey](https://www.seriesgrey.com/) - Movies / TV / Anime
 * [Cine.Arplay](https://play.cine.ar/) - Movies / TV
-* [locopelis](https://www.locopelis.com/) - Movies / NSFW
+* [locopelis](https://www.locopelis.com/) - Movies / NSFW / Latino
 * [Cuevana](https://xcuevana3.io/) - Movies / TV / Anime / Latino
-* [Movidy](https://movidy.ws/) - Movies / TV / Anime
+* [Movidy](https://movidy.ws/) - Movies / TV / Anime / Latino
 * [PelisMaraton](https://pelismaraton.nu/) - Movies / TV / Anime
-* [Fanpelis](https://fanpelis.la/) - Movies / TV / Anime
+* [Fanpelis](https://fanpelis.la/) - Movies / TV / Anime / Latino
 * [SeriesYonkis](https://seriesyonkis.cx/) - Movies / TV
 * [Miradetodo](https://miradetodo.de/) - Movies / TV
 * [VerPeliculas](https://verpeliculasultra.com/) - Movies / TV
