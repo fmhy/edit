@@ -1629,6 +1629,11 @@
 * [SeriesYonkis](https://seriesyonkis.cx/) - Movies / TV
 * [Miradetodo](https://miradetodo.de/) - Movies / TV
 * [VerPeliculasUltra](https://verpeliculasultra.com/) - Movies
+* [Dilo](https://www.dilo.nu/) - Movies / TV / Anime / Castilian
+* [novelas360](https://novelas360.com/) - TV
+* [Vix](https://www.vix.com/tv/) - TV
+* [asialiveaction](https://asialiveaction.com/) - Asian Drama
+* [doramasyt](https://www.doramasyt.com/) - Asian Drama
 * [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV / Castilian
 * [Cine Libre Online](https://www.cinelibreonline.com/) - YouTube Movies
 * [LegalMentegratis](http://legalmentegratis.com/) - YouTube Movies
@@ -1639,16 +1644,6 @@
 * [Naranjas de Hiroshima](https://www.naranjasdehiroshima.com/) - Documentaries / Archives
 * [DocumaniaTV](https://www.documaniatv.com/) - Documentaries
 * [Area Documental](https://www.area-documental.com/) - Documentaries
-* [novelas360](https://novelas360.com/) - TV
-* [Vix](https://www.vix.com/tv/) - TV
-* [Dilo](https://www.dilo.nu/) - TV / Anime / Latino / Castilian
-* [asialiveaction](https://asialiveaction.com/) - Asian Drama
-* [doramasyt](https://www.doramasyt.com/) - Asian Drama
-* [Tele Gratis Online](https://telegratis.online/) - Live TV
-* [Television Gratis](https://www.televisiongratishd.com/) - Live TV / Latino
-* [El Bucanero del Deporte](https://deportebucanero.wordpress.com/) - Sports Piracy Directory
-* [Flipax](https://flipax.es/) - Live Sports
-* [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Live Soccer / MMA
 * [JKAnime](https://jkanime.net/) - Anime
 * [AnimeFénix](https://www.animefenix.tv/) - Anime
 * [TioAnime](https://tioanime.com/) - Anime
@@ -1668,6 +1663,11 @@
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
 * [Eventoshq](https://www.eventoshq.me/) - WWE
 * [Edutin Academy](https://edutin.com/) - Courses
+* [Tele Gratis Online](https://telegratis.online/) - Live TV
+* [Television Gratis](https://www.televisiongratishd.com/) - Live TV / Latino
+* [El Bucanero del Deporte](https://deportebucanero.wordpress.com/) - Sports Piracy Directory
+* [Flipax](https://flipax.es/) - Live Sports
+* [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Live Soccer / MMA
 
 ## ▷ Reading
 
