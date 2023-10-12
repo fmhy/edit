@@ -1615,9 +1615,9 @@
 * [Cuevana2](https://www.cuevana2.icu/), [2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
 * [locopelis](https://www.locopelis.com/) - Movies / NSFW / Latino
 * [Fanpelis](https://fanpelis.la/) - Movies / TV / Anime / Latino
+* [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Anime / Latino / [Telegram](https://t.me/pelisplushd_nu)
+* [PelisPlusHD.so](https://pelisplushd.so/) - Movies / TV / Latino
 * [Cuevana3](https://cuevana3.ms/) - Movies / TV / [Telegram](https://t.me/cuevana_3_io)
-* [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Anime / [Telegram](https://t.me/pelisplushd_nu)
-* [PelisPlusHD.so](https://pelisplushd.so/) - Movies / TV
 * [PelisPedia.is](https://pelispedia.is/) - Movies / TV
 * [Gnula.se](https://gnula.se/) - Movies / TV / Anime
 * [Gnula.nu](https://gnula.nu/) - Movies / TV
