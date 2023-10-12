@@ -1608,7 +1608,6 @@
 * [Gnula.se](https://gnula.se/) - Movies / TV / Anime
 * [Gnula.nu](https://gnula.nu/) - Movies / TV
 * [CineHDPlus](https://cinehdplus.org/) - Movies / TV
-* [allcalidad](https://allcalidad.ms/) - Movies / TV
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / Latino
 * [Repelis24](https://repelis24.co/) - Movies / TV / Latino
 * [Argentine Cinema](https://www.youtube.com/@argentinecinemawithenglish4476/) - Argentine Movies
@@ -1620,7 +1619,6 @@
 * [PelisForte](https://pelisforte.nu/) - Movies / TV
 * [Cuevana2](https://www.cuevana2.icu/) - Movies / TV / Latino
 * [EntrePeliculasySeries](https://entrepeliculasyseries.nz/) - Movies / TV / Anime
-* [SeriesGrey](https://www.seriesgrey.com/) - Movies / TV / Anime
 * [Cine.Arplay](https://play.cine.ar/) - Movies / TV
 * [locopelis](https://www.locopelis.com/) - Movies / NSFW / Latino
 * [Cuevana](https://xcuevana3.io/) - Movies / TV / Anime / Latino
