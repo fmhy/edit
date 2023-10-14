@@ -1517,8 +1517,7 @@
 * [Twitch Replay](https://www.twitch-replay.com/), [Multi](https://multi.raredrop.co/), [MultiStre.am](https://multistre.am/), [TwitchTheater](https://twitchtheater.tv/) or [MultiTwitch](https://www.multitwitch.tv/) - Sync Twitch Videos w/ Friends
 * [VodSync](https://vodsync.tv/) - Sync Streamer Perspectives
 * [Twitch DVR](https://github.com/caeleel/twitch-dvr) - Enable DVR on Twitch
-* [Twitch Now](https://addons.mozilla.org/en-US/firefox/addon/twitch-now_/) or [Gumbo](https://github.com/seldszar/gumbo) - 
-Twitch Stream Tracker
+* [Twitch Now](https://addons.mozilla.org/en-US/firefox/addon/twitch-now_/) or [Gumbo](https://github.com/seldszar/gumbo) - Twitch Stream Tracker
 * [Twitch Lurker](https://github.com/mikeyaworski/Twitch-Lurker) - Twitch Stream Auto-Open
 * [Unwanted Twitch](https://github.com/kwaschny/unwanted-twitch) - Hide Twitch Categories / Channels
 * [Twitch Wownik](https://twitch.wownik.ru/en) - Return Follows / Follwers Buttons
