@@ -486,6 +486,7 @@
 * [ViralPorn](https://viralporn.com/) - NSFW Reddit Posts
 * [nsfw.xxx](https://nsfw.xxx/) - NSFW Reddit Images
 * [Scroller](https://scrolller.com/) - NSFW Reddit Images
+* [ArchiveOfSins](https://archiveofsins.com/hc/) - NSFW 4Chan Archive
 * [NSFWSwipe](https://nsfwswipe.com/v/6716209) - NSFW GIFs
 * [NSFW Monster](https://nsfwmonster.com/) - NSFW GIFs
 * [PornAMinute](https://porninaminute.org/) - NSFW GIFs
