@@ -594,7 +594,6 @@
 * ⭐ **[KickResume](https://www.kickresume.com/en/help-center/resume-samples/)** or [ThisResumeDoesNotExist](https://thisresumedoesnotexist.com/) - Resume Samples
 * ⭐ **[Reverse Interview](https://github.com/viraptor/reverse-interview)** or [job-interview-questions](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - Questions to ask Potential Employers
 * ⭐ **[Kimai](https://www.kimai.org/)** - Working Hours Tracker
-* [Carousel Hero](https://carouselhero.com) - Carousel maker for social media
 * [GitHub Résumé](https://github.com/resume/resume.github.com) - Generate Resume from GitHub Activity
 * [LoopCV](https://www.loopcv.pro/) - Automated Job Search Tool
 * [Toby Tools](https://rentry.co/qnu6x) or [EuroJobs](https://eurojobs.com/) - Job Search Tools
@@ -607,7 +606,8 @@
 * [Summer 2024 Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - List of Internships
 * [SkillIcons](https://skillicons.dev/) - Skill Badges for GitHub Readmes / Resumes
 * [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
-* [PostGenerator](https://www.postgenerator.app/) - LinkedIn PostGenerator
+* [PostGenerator](https://www.postgenerator.app/) - LinkedIn Post Generator
+* [Carousel Hero](https://carouselhero.com) - LinkedIn Carousel Generator
 * [CoFolios](https://cofolios.com/) - Portfolio Sharing
 * [PortfolioVisualizer](https://www.portfoliovisualizer.com/) - Visualize Portfolio
 * [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - Cover Page Templates
@@ -737,7 +737,7 @@
 * [OONI](https://ooni.org/) - Test Site Blocking / Network Speed
 * [OpenSSH](https://www.openssh.com/) - OpenSSH Client / Server
 * [TCP Optimizer](https://www.speedguide.net/downloads.php/) - Network Optimizer
-* [NetLimiter](https://www.netlimiter.com/) or [Netbalancer](https://netbalancer.com/) - Internet Traffic Control / Monitor 
+* [NetLimiter](https://www.netlimiter.com/) or [Netbalancer](https://netbalancer.com/) - Internet Traffic Control / Monitor
 * [WiFi Analyzer](https://apps.microsoft.com/store/detail/wifi-analyzer/9NBLGGH33N0N) - WiFi Analyzer
 * [Arcai](https://arcai.com/) - WiFi Speed Control
 * [Nmap](https://nmap.org/) - Network Security / Discovery Utility / [Compare Results](https://nmap.org/ndiff/)
