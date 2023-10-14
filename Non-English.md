@@ -1600,7 +1600,7 @@
 
 * ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/BRKCXEe)
 * ⭐ **[Playdede](https://dominiosplaydede.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/s/playdedeinformacion)
-* ⭐ **[Kodi Addon "Cristal Azul"](https://rentry.co/kodi-addon-cristal-azul/)** - Movies / TV / Live Sports / [Telegram](https://t.me/addonfestaycristal/)
+* ⭐ **[Kodi Addon "Cristal Azul"](https://rentry.co/kodi-addon-cristal-azul/)** - Movies / TV / Live Sports / Castilian / [Telegram](https://t.me/addonfestaycristal/)
 * ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
 * [Movidy.one](https://movidy.one/) - Movies / TV / Anime / 1080p / Latino
