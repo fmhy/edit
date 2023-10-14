@@ -2280,7 +2280,7 @@ Add the following commands to a search to manually scrape each site.
 
 [Parsec](https://parsec.app/), [ChromeRemoteDesktop](https://remotedesktop.google.com/), [AnyDesk](https://anydesk.com/en), [TeamViewer](https://www.teamviewer.com/en-us/), [NoMachine](https://www.nomachine.com/), [Remmina](https://remmina.org/), [UltraViewer](https://ultraviewer.net/), [SplashTop](https://www.splashtop.com/products/personal), [MSP360](https://www.msp360.com/remote-desktop/), [Ammyy](https://www.ammyy.com/en/), [Apache Guacamole](https://guacamole.apache.org/), [FreeRDP](https://www.freerdp.com/), [SimpleHelp](https://simple-help.com/), [Myrtille](https://cedrozor.github.io/myrtille/), [Aspia](https://aspia.org/doku.php), [TightVNC](https://www.tightvnc.com/), [getscreen](https://getscreen.me/), [remoteutilities](https://www.remoteutilities.com/), [p2p](https://github.com/miroslavpejic85/p2p), [Pop](https://pop.com/), [UVNC](https://uvnc.com/), [DistantDesktop](https://www.distantdesktop.com/), [RDP](https://github.com/yahya-ait-talb/RDP), [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks), [ChimeraDesk](https://github.com/morrolinux/ChimeraDesk), [PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop), [Screego](https://app.screego.net/) / [GitHub](https://github.com/screego/server/), [Screensy](https://screensy.marijn.it/) / [GitHub](https://github.com/screensy/screensy), [here.fm](https://here.fm/), [SharpRDP](https://github.com/0xthirteen/SharpRDP), [HopToDesk](https://www.hoptodesk.com/), [CoScreen](https://www.coscreen.co/)
 
-**VNC / VPS**
+## VNC / VPS
 
 * ⭐ **[VPS Comparison Chart](https://lowendstock.com/)** - VPS Comparisons
 
