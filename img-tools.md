@@ -124,7 +124,7 @@
 * [PixelMe](https://xsgames.co/pixelme/) - 8bit Avatar Creator
 * [Random-Face-Generator](https://github.com/adityar224/Random-Face-Generator) - Face Generator
 * [Mirro-Ai](https://mirror-ai.com/) - Get Stickers With Your Face
-* [EmojiMix](https://tikolu.net/emojimix) or [Emoji Kitchen](https://emoji.supply/kitchen/) - Combine Emojis
+* [EmojiMix](https://tikolu.net/emojimix) or [Emoji Kitchen](https://emojikitchen.dev/) - Combine Emojis
 * [Emojination](https://www.emojination.io/), [EmoteStud](https://emotestud.io/), [Emoji Factory](https://codepen.io/oliviale/full/qLYNbE) or [Ccclaymoji](https://fffuel.co/ccclaymoji/) - Emoji Creators
 * [imgsli](https://imgsli.com/) - Before & After Slider Generator
 * [DCGAN](http://mattya.github.io/chainer-DCGAN/) - Anime Icon Generator 
