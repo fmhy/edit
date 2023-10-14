@@ -663,6 +663,7 @@
 ## ▷ Hentai Manga / Comics
 
 * ⭐ **[E-Hentai](https://e-hentai.org/)** / [ExHentai](https://exhentai.org/) - Hentai Manga / [Android Client](https://github.com/honjow/FEhViewer) / [Deleted Galleries Backup](https://panda.chaika.moe/) / [Downloader](https://gitlab.com/squishydreams/pandaforever), [2](https://github.com/ccloli/E-Hentai-Downloader)
+* ⭐ **[Koushoku](https://ksk.moe/)** - Fakku/Irodori Rips
 * ⭐ **[Hitomi](https://hitomi.la/)** - Hentai Manga
 * ⭐ **[IMHentai](https://imhentai.xxx/)** - Hentai Manga / Comics / [Discord](https://discord.com/invite/GRTKFhavEG)
 * ⭐ **[NHentai](https://nhentai.net/)** - Hentai Manga / [Android Client](https://github.com/Dar9586/NClientV2), [2](https://ttdyce.com/apps/nhviewer/) / [Downloader](https://github.com/RicterZ/nhentai), [2](https://github.com/Xwilarg/NHentaiDownloader)
@@ -853,9 +854,9 @@
 * [AdultMagazine](https://adultmagazine.net/)
 * [Adult Magazines PDF](https://adultmagazinespdf.com/)
 * [v9k9 Mags](https://redd.it/ouuakm) - Japanese Magazines
-* pdfmagazines.club/adult 
-* pdfmagazines.club/for-men 
-* pdfmagazines.club/japan/page
+* https://pdfmagazines.club/adult
+* https://pdfmagazines.club/for-men 
+* https://pdfmagazines.club/japan/page
 
 ***
 
