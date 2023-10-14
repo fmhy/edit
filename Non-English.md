@@ -1532,8 +1532,8 @@
 ## ▷ Downloading
 
 * ⭐ **[DescargasDD](https://descargasdd.org/)** - Video / Audio/ Castilian / Latino / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
-* ⭐ **[ForoWarez](https://forowarez.info/)** - Video / Audio / Reading / NSFW/ Castilian / Latino
-* [identi](https://identi.io/) - Video / Audio / Reading/ Latino / Castilian
+* ⭐ **[ForoWarez](https://forowarez.info/)** - Video / Audio / Reading / NSFW / Castilian / Latino
+* [identi](https://identi.io/) - Video / Audio / Reading / Latino / Castilian
 * [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading  
 * [Guns's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading 
 * [Cultura Para Todos](https://culturaparatodos.eu/) - Video / Audio / Reading  
