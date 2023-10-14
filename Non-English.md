@@ -1532,12 +1532,12 @@
 ## ▷ Downloading
 
 * ⭐ **[DescargasDD](https://descargasdd.org/)** - Video / Audio/ Castilian / Latino / [Telegram](https://t.me/joinchat/VAWOu0TNfOXfnauA)
-* ⭐ **[ForoWarez](https://forowarez.info/)** - Video / Audio / Reading / NSFW/ Castilian / Latino
-* [identi](https://identi.io/) - Video / Audio / Reading/ Latino / Castilian
-* [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading  
-* [Guns's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading 
+* ⭐ **[ForoWarez](https://forowarez.info/)** - Video / Audio / Reading / NSFW / Castilian / Latino
+* [identi](https://identi.io/) - Video / Audio / Reading / Latino / Castilian
+* [ExVagos](https://www.exvagos.org/) - Video / Audio / Reading / Castilian
+* [Guns's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Castilian
 * [Cultura Para Todos](https://culturaparatodos.eu/) - Video / Audio / Reading  
-* [Flipax2](https://flipax2.me/) - Video / Audio / Reading
+* [Flipax2](https://flipax2.me/) - Video / Audio / Reading / Castilian
 * [Fiuxy](https://fiuxy2.co/) - Video / Audio / Reading / NSFW
 * [SeriesTV](https://www.seriestv.in/) - Video / Audio / Reading / NSFW
 * [La Taberna Del Cangrejo](http://www.latabernadelcangrejo.eu/) - Video / Audio
@@ -1576,19 +1576,19 @@
 
 ## ▷ Torrenting
 
-* ⭐ **[DonTorrent](https://dontorrent.party/)**, [2](https://donproxies.com/) - Movies / TV / Documentaries  / Castilian / [Telegram](https://t.me/s/DonTorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
+* ⭐ **[DonTorrent](https://dontorrent.party/)**, [2](https://donproxies.com/) - Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/DonTorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
 * ⭐ **[MejorTorrent](https://www7.mejortorrent.rip/)** -  Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/MejorTorrentAp)
 * ⭐ **[Grantorrent.wtf](https://grantorrent.wtf/)** - Movies / TV / Documentaries / Castilian
 * ⭐ **[Elitetorrent](https://www.elitetorrent.wf/)** - Movies / TV / Anime / Castilian / Latino / VOSE
 * [Descargas2020](https://descargas2020.net/) - Movies / TV
-* [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries
-* [PediaTorrent](https://pediatorrent.com/) - Movies / TV / Documentaries
-* [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
-* [Zonatorrent](https://zonatorrent.in/) - Movies / TV / [Bypasser script](https://greasyfork.org/en/scripts/462510-spanish-torrent-sites-short-link-bypasser)
-* [PasateaTorrent](https://pasateatorrent.org/) - Movies / TV
+* [CalidadTorrent](https://calidadtorrent.com/) - Movies / TV / Documentaries / Castilian
+* [PediaTorrent](https://pediatorrent.com/) - Movies / TV / Documentaries / Castilian
+* [MoviesDVDR](https://www.moviesdvdr.co/) - Movies / Castilian
+* [PasateaTorrent](https://pasateatorrent.org/) - Movies / TV / Castilian
 * [Cinecalidad](https://cinecalidad.one/) - Movies / TV / Latino
 * [Tlandia](https://torrentlandia.site/) - Movies / Latino
 * [DiXvA](https://www.dixva.com/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
+* [Zonatorrent](https://zonatorrent.in/) - Movies / TV / Castilian / [Bypasser script](https://greasyfork.org/en/scripts/462510-spanish-torrent-sites-short-link-bypasser)
 * [Frozen-Layer](https://www.frozen-layer.com/) - Anime
 * [unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Akiba-kei](http://akiba-team.org/) - Anime
@@ -1619,8 +1619,8 @@
 * [PelisPlusHD.so](https://pelisplushd.so/) - Movies / TV / Latino
 * [Cuevana3](https://cuevana3.ms/) - Movies / TV / [Telegram](https://t.me/cuevana_3_io)
 * [PelisPedia.is](https://pelispedia.is/) - Movies / TV
-* [Gnula.se](https://gnula.se/) - Movies / TV / Anime
-* [Gnula.nu](https://gnula.nu/) - Movies / TV
+* [Gnula.se](https://gnula.se/) - TV / Anime
+* [Gnula.nu](https://gnula.nu/) - Movies
 * [Movidy.lat](https://movidy.lat/) - Movies / TV / Anime
 * [PelisMaraton](https://pelismaraton.nu/) - Movies / TV / Anime
 * [CineHDPlus](https://cinehdplus.org/) - Movies / TV
