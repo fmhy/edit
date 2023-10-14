@@ -38,7 +38,7 @@
 * [GamePCFull](https://gamepcfull.com/) - Download
 * [IRC Games](https://redd.it/x804wg) - Download Games via IRC
 * [VGPErson](https://vgperson.com/games/) - Japanese Translated Freeware Games
-* [Gamdie](https://gamdie.com/) / [Discord](https://discord.gg/hH9sedx4de), [itch.io](https://itch.io/games/new-and-popular/featured/free) / [Downloader](https://github.com/Emersont1/itchio) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
+* [Gamdie](https://gamdie.com/) / [Discord](https://discord.gg/hH9sedx4de), [itch.io](https://itch.io/games/new-and-popular/featured/free) / [Downloader](https://github.com/Emersont1/itchio), [DigiPen](https://games.digipen.edu/) or [Game Jolt](https://gamejolt.com/games?price=free) - Indie Games
 * [Alpha Beta Gamer](https://alphabetagamer.com/) - Play games in Alpha or Beta Testing
 * [RPG Maker Games](https://rpgmaker.net/games/?name_filter=&amp;engine=&amp;status=&amp;rating=&amp;commercial=exclude&amp;sort=&amp;portal=None) - Games made via RPG Maker
 * [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Games
@@ -1165,9 +1165,9 @@
 * ↪️ **[Minecraft Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_mods)**
 * ↪️ **[Minecraft Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_optimization_mods)**
 * ↪️ **[Free Minecraft Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_minecraft_servers)**
+* ⭐ **[Minecraft Wiki](https://minecraft.wiki/)** or [DigiMinecraft](https://www.digminecraft.com/) - Minecraft Resources / Guides
 * ⭐ **[MCModdingGuide](https://rentry.org/MCModdingGuide)** - Minecraft Modding Guide 
 * ⭐ **[Couleur Tweak Tips](http://discord.gg/CTT)** - Minecraft Tweaks / Tips
-* ⭐ **[DigiMinecraft](https://www.digminecraft.com/)** - Minecraft Guides
 * ⭐ **[paper-optimization](https://paper-chan.moe/paper-optimization/)** or [minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) - Server Optimization Guides
 * ⭐ **[Villager Trading Cheatsheet](https://i.ibb.co/sKBjbzg/e9f8d80e2376.png)**
 * [Charm](https://svenhjol.github.io/Charm/), [Essential](https://essential.gg/), [Quark](https://quarkmod.net/) or [Vanillatweaks](https://www.vanillatweaks.net/) - Mincraft Quality of Life Mods
@@ -1248,6 +1248,7 @@
 * [GTA5 FSR](https://github.com/NarutoUA/gta5_fsr) - GTAV FidelityFX Super Resolution Mod
 * [GTAV-SimpleGangWar](https://github.com/David-Lor/GTAV-SimpleGangWar) - GTAV Gang War Script
 * [GTA 5 Grand Roleplay](https://gta5grand.com/) - GTAV Roleplay Server
+* [OpenIV](https://openiv.com/) - Rockstar Game Modding Tool
 * [Wanted-Music-IV](https://github.com/ClonkAndre/Wanted-Music-IV) - GTAV Wanted Music in GTAIV
 * [D.E.P](https://www.definitive-edition-project.com/) - Fix GTA PC Port Bugs
 * [Vice City: Multiplayer](https://vc-mp.org/) - Mutiplayer GTAVC
