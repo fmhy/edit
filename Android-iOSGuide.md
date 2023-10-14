@@ -502,7 +502,7 @@
 * [BBTV](https://github.com/bttv-android/bttv) or [Frosty](https://www.frostyapp.io/) - Modded Twitch App
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - Reddit Video Downloader
-* [Geddit](https://kaangiray26.github.io/geddit-app/), [Infinity](https://github.com/KhoalaS/Infinity-For-Reddit) / [Builder](https://www.reddit.com/r/Infinity_For_Reddit/comments/14c2v5x/build_your_own_apk_with_your_personal_api_key_in/), [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit&hl=en_US) or [Relay](https://relayforreddit.com/index.html) - Reddit Clients
+* [Geddit](https://kaangiray26.github.io/geddit-app/), [Infinity](https://github.com/KhoalaS/Infinity-For-Reddit) / [Builder](https://redd.it/14c2v5x), [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit&hl=en_US) or [Relay](https://relayforreddit.com/index.html) - Reddit Clients
 * [Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic) - How-To Patch 3rd Party Reddit Clients
 * [Offline Reddit](https://play.google.com/store/apps/details?id=yy.offlinereader) - Offline Reddit Client
 * [RedditOldResponsive](https://git.kaki87.net/KaKi87/userscripts/src/branch/master/redditOldResponsive) - Old Reddit Script
@@ -642,7 +642,7 @@
 * [PhoenixOS Darkmatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - Android Desktop OS / [Discord](https://discord.com/invite/AcGAGrzZ4e)
 * [AOPC](https://aopc.dev/) - Android Desktop OS Forums
 * [Docker Android](https://github.com/budtmo/docker-android) - Android in Docker
-* [BareNox](https://forum.xda-developers.com/t/tool-guide-barenox-modded-nox-android-emulator.4468425/) or [Nox](https://www.bignox.com/) - [Screenshot](https://i.ibb.co/MkdmtYr/647f0f4f051c.jpg) / [Debloat Guide](https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/) / [Video](https://youtu.be/IjI_-pQUOhQ)
+* [BareNox](https://forum.xda-developers.com/t/tool-guide-barenox-modded-nox-android-emulator.4468425/) or [Nox](https://www.bignox.com/) - [Screenshot](https://i.ibb.co/MkdmtYr/647f0f4f051c.jpg) / [Debloat Guide](https://gist.github.com/Log1x/12d330ef7685d6fbc611d1d57efb5c29), [2](https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/) / [Video](https://youtu.be/IjI_-pQUOhQ)
 * [GameLoop](https://www.gameloop.com/) - [Screenshot](https://i.ibb.co/WyggSQM/26828a9408f1.png)
 * [MuMu](https://www.mumuglobal.com/) - [Screenshot](https://i.ibb.co/vwBrY5M/bfa89c699ff7.png)
 * [MeMu](https://www.memuplay.com/) - [Screenshot](https://i.ibb.co/FsMfk68/6b4ce185773e.png) / [Debloater](https://gist.github.com/TameemS/603686cec857ff1f91e68607e374b0d8)
@@ -885,6 +885,7 @@
 * [Float Tube](https://play.google.com/store/apps/details?id=com.xpp.tubeAssistant) - Floating YouTube Player
 * [Great Courses Plus Premium](https://forum.mobilism.org/search.php?keywords=great+courses+plus&terms=all&author=&sc=1&sf=titleonly&sr=topics&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - Courses
 * [LikeWise](https://likewise.com/) - Media Recommendation App
+* [Plex Manager](https://github.com/sikelio/plexmanager) - Plex Server Manager
 * [PipePipe](https://codeberg.org/NullPointerException/PipePipe) - Bilibili  / NicoNico Client
 * [Bilibili Evolved](https://github.com/the1812/Bilibili-Evolved) or [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client) - Bilibili Client
 * [NicoTap](https://play.google.com/store/apps/details?id=com.yurafuca.nicotap) - NicoNico Client
