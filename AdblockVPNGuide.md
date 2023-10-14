@@ -11,6 +11,7 @@
 
 # ► Adblocking
 
+* ↪️ **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Merge Filters](https://realityripple.com/Tools/AdBlock++/)
 * ↪️ **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)**
 * ↪️ **[Ad-Free YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends)**
 * ⭐ **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/), [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) or [AmIUnique](https://amiunique.org/) - Adblocking Tests
@@ -21,7 +22,6 @@
 
 ## ▷ Adblocking Extensions
 
-* ↪️ **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Merge Filters](https://realityripple.com/Tools/AdBlock++/)
 * ↪️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_twitch_adblockers)**
 * ↪️ **[Redirect Skippers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_skip_redirect)** / [Skip Timers](https://greasyfork.org/en/scripts/372673) / [Additional Bypass](https://greasyfork.org/en/scripts/443888)
 * ↪️ **[Popup Blockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_popup_blocker_links)**
@@ -30,7 +30,6 @@
 * ⭐ **[BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay)** or [Behind The Overlay Revival](https://addons.mozilla.org/en-US/firefox/addon/behind-the-overlay-revival/) - Hide Website Overlays 
 * ⭐ **[OpenVideo](https://openvideofs.github.io)** or [Stream-Bypass](https://github.com/ByteDream/stream-bypass) - Play Videos in Ad-Free Player
 * [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#installation) - Adblocker / [Unblock Search Ads](https://filters.adtidy.org/extension/chromium/filters/10.txt)
-* [YouTube Anti-AntiAdblocker](https://rentry.co/YTAntiAntiAdBlock) - uBlock Filter to block YouTube Anti Adblock
 * [AdNauseam](https://adnauseam.io/) - Adblocker / Fakes Clicks to Confuse Tracking
 * [TBlock](https://tblock.me/) - Adblocker / [Filters](https://codeberg.org/tblock/filters)
 * [Ka-Block!](https://apps.apple.com/us/app/ka-block/id1037173557), [BlockBear](https://apps.apple.com/ca/app/blockbear/id1023924541) or [Adblock Plus for iOS](https://gitlab.com/eyeo/adblockplus/adblock-plus-for-safari) - Safari Adblockers
