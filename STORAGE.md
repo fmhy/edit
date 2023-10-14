@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/3MdwhbD)** - For mobile users
+**[Table of Contents](https://ibb.co/KmGGnhX)** - For mobile users
 
 ***
 ***
@@ -1533,28 +1533,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 ## Self-Hosted
 
 [HappyPanda X](https://happypandax.github.io/), [Tenma](https://github.com/Tenma-Server/Tenma), [KavitaReader](https://www.kavitareader.com/), [Komikku](https://gitlab.com/valos/Komikku), [Mango](https://getmango.app/), [Tanoshi](https://faldez.github.io/tanoshi/), [Komga](https://komga.org/) / [GitHub](https://github.com/gotson/komga) / [Discord](https://discord.gg/TdRpkDu), [atsumeru](https://atsumeru.xyz/)
-
-***
-
-# Manually Scrape Sites
-
-Add the following commands to a search to manually scrape each site.
-
-**Try on [google](https://www.google.com/), [duckduckgo](https://duckduckgo.com/), [yandex](https://yandex.com) & [yahoo.](https://search.yahoo.com/web)**
-
-`site:vup.to`
-
-`site:vidlox.me`
-
-`site:videobin.co`
-
-`site:vidoza.net`
-
-`site:vk.com`
-
-`site:drive.google.com`
-
-`-inurl:(htm|html|php|pls|txt) intitle:index.of “last modified” (mp4|wma|aac|avi)`(Archive Scrape)
 
 ***
 
