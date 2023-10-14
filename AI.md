@@ -290,6 +290,7 @@
 * [GetIMG.ai](https://getimg.ai/) / [Discord](https://discord.com/invite/5KsUXSzVwS) / 100 Images Monthly
 * [Patience.ai](https://www.patience.ai/) / [Discord](https://discord.com/invite/ppM5yzYX4P) / Unlimited
 * [OpenArt](https://openart.ai/home) / [Discord](https://discord.com/invite/yTMNvk5z97) / Unlimited
+* [SD 2.1 Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited
 * [Leonardo.ai](https://app.leonardo.ai/) / 30 Images Daily
 * [Artsio](https://artsio.xyz/) / 20 Images Daily
 * [DreamLike](https://dreamlike.art) / [Discord](https://discord.com/invite/QyGR2FxsKU) / 12 Images Daily
