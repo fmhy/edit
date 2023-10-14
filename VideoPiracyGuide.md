@@ -171,7 +171,6 @@
 * [Google Videos](https://www.google.com/?tbm=vid)
 * [Yandex Videos](https://yandex.ru/video)
 * [DuckDuckGo Videos](https://duckduckgo.com/?q=freemediaheckyeah&iar=videos&iax=videos&ia=videos)
-* `site:my.mail.ru` (add to search)
 
 ***
 
@@ -325,7 +324,7 @@
 * [MyAnime](https://myanime.live/) - Chinese Anime / Sub / 1080p
 * [Animekhor](https://animekhor.xyz/) - Chinese Anime / Sub / 1080p
 * [Crimsonfansubs](https://crimsonfansubs.com/) - Chinese Anime / Sub / 1080p / Sub / 1080p / [Discord](https://discord.com/invite/wnK38MjB)
-* [Yuna](https://yuna.moe/) or [Miru](https://miru.js.org/en/) - Anime Streaming Apps
+* [Yuna](https://yuna.moe/), [NineAnimator](https://github.com/Layendan/NineAnimator-Tauri) or [Miru](https://miru.js.org/en/) - Anime Streaming Apps
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/) / [Intro Skip](https://github.com/lexesjan/typescript-aniskip-extension)
 * [because.moe](https://because.moe/) - Legal Anime Sites Search 
 * [Themes.moe](https://themes.moe/) or [AnimeThemes](https://animethemes.moe/) - Anime Themes
