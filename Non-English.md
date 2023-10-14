@@ -1549,11 +1549,9 @@
 * [DLShared](https://dlshareds.blogspot.com/?m=1) - Movies / Music
 * [mirandopeliculas](https://mirandopeliculas.com/) - Movies / TV / Latino
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
-* [gnula](https://gnula.nu/) - Movies / TV
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino
-* [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram
+* [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram / Latino
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation
-* [Descarga Cine Clasico](https://cineclasico.org/) - Classical Movies
 * [RetroCanal](https://retrocanal.net/) - Classical Movies / TV
 * [DCC](https://cineclasicodcc.com/) - Classical Movies / TV
 * [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV / ED2K Links
@@ -1578,8 +1576,8 @@
 
 ## ▷ Torrenting
 
-* ⭐ **[DonTorrent](https://dontorrent.company/)**, [2](https://donproxies.com/) - Movies / TV / Documentaries  / Castilian / [Telegram](https://t.me/s/dontorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
-* ⭐ **[MejorTorrent](https://www1.mejortorrent.rip/)** -  Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/MejorTorrentAp)
+* ⭐ **[DonTorrent](https://dontorrent.party/)**, [2](https://donproxies.com/) - Movies / TV / Documentaries  / Castilian / [Telegram](https://t.me/s/DonTorrent) / [.onion](https://dontorufwmbqhnoe2wvko5ynis6axf7bqod6wkmdvxmjyek64tantlqd.onion/)
+* ⭐ **[MejorTorrent](https://www7.mejortorrent.rip/)** -  Movies / TV / Documentaries / Castilian / [Telegram](https://t.me/s/MejorTorrentAp)
 * ⭐ **[Grantorrent.wtf](https://grantorrent.wtf/)** - Movies / TV / Documentaries / Castilian
 * ⭐ **[Elitetorrent](https://www.elitetorrent.wf/)** - Movies / TV / Anime / Castilian / Latino / VOSE
 * [Descargas2020](https://descargas2020.net/) - Movies / TV
@@ -1588,67 +1586,65 @@
 * [MoviesDVDR](https://www.moviesdvdr.co/) - Movies
 * [Zonatorrent](https://zonatorrent.in/) - Movies / TV / [Bypasser script](https://greasyfork.org/en/scripts/462510-spanish-torrent-sites-short-link-bypasser)
 * [PasateaTorrent](https://pasateatorrent.org/) - Movies / TV
-* [Cinecalidad](https://cinecalidad.one/) - Movies / TV
+* [Cinecalidad](https://cinecalidad.one/) - Movies / TV / Latino
 * [Tlandia](https://torrentlandia.site/) - Movies / Latino
 * [DiXvA](https://www.dixva.com/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
 * [Frozen-Layer](https://www.frozen-layer.com/) - Anime
 * [unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Akiba-kei](http://akiba-team.org/) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
+* [El Plan](https://hackmd.io/@w8tAmGnzT-qbgHkemaly6A/SEGUNDA-PARTE), [2](https://www.reddit.com/user/No_Land656) - Live Sports Acestream IDs
+* [elcano](https://sg.hideip.co/direct/aHR0cDovL2VsY2Fuby50b3Av), [2](https://sg.4everproxy.com/direct/aHR0cDovL2VsY2Fuby50b3Av) - Live Sports Acestream IDs / [Matrix](https://matrix.to/#/!zrcckivBbqZjmykTPi:sibnsk.net?via=matrix.org&via=sibnsk.net) / [Link Scraper](https://github.com/ddgarciad03/IDS-Export)
 
 ## ▷ Streaming
 
-* ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / [Discord](https://discord.gg/BRKCXEe) / Castilian / Latino / VOSE
-* ⭐ **[Playdede](https://dominiosplaydede.com/)** - Movies / TV / Anime / [Telegram](https://t.me/s/playdedeinformacion)
+* ⭐ **[HDFull](https://dominioshdfull.com/)** - Movies / TV / Anime / 1080p / [Discord](https://discord.gg/BRKCXEe)
+* ⭐ **[Playdede](https://dominiosplaydede.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/s/playdedeinformacion)
 * ⭐ **[Kodi Addon "Cristal Azul"](https://rentry.co/kodi-addon-cristal-azul/)** - Movies / TV / Live Sports / [Telegram](https://t.me/addonfestaycristal/)
 * ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
-* [PelisPlus](https://www1.pelisplus.ws/) - Movies / TV
-* [PlusHD](https://ww3.pelisplus.to/) - Movies / TV / Anime
-* [Pelispedia](https://pelispedia.one/) - Movies / TV
+* [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
+* [Movidy.one](https://movidy.one/) - Movies / TV / Anime / 1080p / Latino
+* [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
+* [Repelis24](https://www1.repelis24.yt/) - Movies / TV / Latino
+* [PlusHD](https://ww3.pelisplus.to/) - Movies / TV / Anime / Latino
+* [PelisPedia.club](https://pelispedia.club/) - Movies / TV / Latino
+* [PelisPedia3](https://io.pelispedia.io/) - Movies / TV / Anime / Latino
+* [Gnula.uno](https://gnula.uno/) - Movies / TV / Anime / Latino
+* [Cinecalidad](https://cinecalidad.gg/) - Movies / TV / Animation / Latino / [Telegram](https://t.me/cinecalidadchat)
+* [Inkapelis](https://www1.inkapelis.li/) - Movies / TV / Latino
+* [Cuevana2](https://www.cuevana2.icu/), [2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
+* [locopelis](https://www.locopelis.com/) - Movies / NSFW / Latino
+* [Fanpelis](https://fanpelis.la/) - Movies / TV / Anime / Latino
+* [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Anime / Latino / [Telegram](https://t.me/pelisplushd_nu)
+* [PelisPlusHD.so](https://pelisplushd.so/) - Movies / TV / Latino
+* [Cuevana3](https://cuevana3.ms/) - Movies / TV / [Telegram](https://t.me/cuevana_3_io)
+* [PelisPedia.is](https://pelispedia.is/) - Movies / TV
 * [Gnula.se](https://gnula.se/) - Movies / TV / Anime
 * [Gnula.nu](https://gnula.nu/) - Movies / TV
-* [CineHDPlus](https://cinehdplus.org/) - Movies / TV
-* [allcalidad](https://allcalidad.ms/) - Movies / TV
-* [Solo Latino](https://sololatino.net/) - Movies / TV / Anime
-* [Repelis24](https://repelis24.co/) - Movies / TV
-* [Argentine Cinema](https://www.youtube.com/@argentinecinemawithenglish4476/) - Argentine Movies
-* [Cinecalidad](https://cinecalidad.cat/) - Movies / TV / Animation / [Telegram](https://t.me/cinecalidadchat)
-* [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV / Castilian
-* [Inkapelis](https://inkapelis.in/) - Movies / TV
-* [PelisFlix](https://pelisflix.chat/), [2](https://pelisflix2.bid/) - Movies / TV
-* [pelisplushd](https://pelisplushd.nz/) - Movies / TV / Anime
-* [PelisForte](https://pelisforte.nu/) - Movies / TV
-* [Cuevana2](https://www.cuevana2.icu/) - Movies / TV
-* [EntrePeliculasySeries](https://entrepeliculasyseries.pro/), [2](https://entrepeliculasyseries.nz/) - Movies / TV / Anime
-* [SeriesGrey](https://www.seriesgrey.com/) - Movies / TV / Anime
-* [Cine.Arplay](https://play.cine.ar/) - Movies / TV
-* [locopelis](https://www.locopelis.com/) - Movies / NSFW
-* [Cuevana](https://xcuevana3.io/) - Movies / TV / Anime / Latino
-* [Movidy](https://movidy.ws/) - Movies / TV / Anime
+* [Movidy.lat](https://movidy.lat/) - Movies / TV / Anime
 * [PelisMaraton](https://pelismaraton.nu/) - Movies / TV / Anime
-* [Fanpelis](https://fanpelis.la/) - Movies / TV / Anime
+* [CineHDPlus](https://cinehdplus.org/) - Movies / TV
+* [PelisFlix](https://pelisflix.media/), [2](https://pelisflix2.host/) - Movies / TV
+* [PelisForte](https://pelisforte.nu/) - Movies / TV
+* [EntrePeliculasySeries](https://entrepeliculasyseries.nz/) - Movies / TV / Anime
 * [SeriesYonkis](https://seriesyonkis.cx/) - Movies / TV
 * [Miradetodo](https://miradetodo.de/) - Movies / TV
-* [VerPeliculas](https://verpeliculasultra.com/) - Movies / TV
-* [Descarga Cine Clasico](https://cineclasico.org/) - Classical Movies
+* [VerPeliculasUltra](https://verpeliculasultra.com/) - Movies
+* [Dilo](https://www.dilo.nu/) - Movies / TV / Anime
+* [novelas360](https://novelas360.com/) - TV
+* [Vix](https://www.vix.com/tv/) - TV
+* [asialiveaction](https://asialiveaction.com/) - Asian Drama
+* [doramasyt](https://www.doramasyt.com/) - Asian Drama
+* [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV / Castilian
+* [Cine Libre Online](https://www.cinelibreonline.com/) - YouTube Movies
+* [LegalMentegratis](http://legalmentegratis.com/) - YouTube Movies
+* [Argentine Cinema](https://www.youtube.com/@argentinecinemawithenglish4476/) - Argentine YouTube Movies
+* [Cine.Arplay](https://play.cine.ar/) - Argentinian Movies / TV
 * [Cinemargentino](https://cinemargentino.com/) - Movies / Documentaries
 * [Rincon Cinefilo](https://www.rinconcinefilo.com/) - Movies / Documentaries
 * [Naranjas de Hiroshima](https://www.naranjasdehiroshima.com/) - Documentaries / Archives
 * [DocumaniaTV](https://www.documaniatv.com/) - Documentaries
 * [Area Documental](https://www.area-documental.com/) - Documentaries
-* [novelas360](https://novelas360.com/) - TV
-* [Vix](https://www.vix.com/tv/) - TV
-* [Dilo](https://www.dilo.nu/) - TV / Anime / Latino / Castilian
-* [asialiveaction](https://asialiveaction.com/) - Asian Drama
-* [doramasyt](https://www.doramasyt.com/) - Asian Drama
-* [Tele Gratis Online](https://telegratis.online/) - Live TV
-* [Television Gratis](https://www.televisiongratishd.com/) - Live TV / Latino
-* [El Bucanero del Deporte](https://deportebucanero.wordpress.com/) - Sports Piracy Directory
-* [Flipax](https://flipax.es/) - Live Sports
-* [Teledeportiva](https://teledeportiva4.blogspot.com/), [2](https://teledeportiva2.blogspot.com/) - Live Sports
-* [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Live Soccer / MMA
-* [El Plan](https://hackmd.io/@w8tAmGnzT-qbgHkemaly6A/SEGUNDA-PARTE) - Live Sports Acestream IDs
-* [elcano](https://sg.hideip.co/direct/aHR0cDovL2VsY2Fuby50b3Av), [2](https://sg.4everproxy.com/direct/aHR0cDovL2VsY2Fuby50b3Av) - Live Sports Acestream IDs / [Matrix](https://matrix.to/#/!zrcckivBbqZjmykTPi:sibnsk.net?via=matrix.org&via=sibnsk.net) / [Link Scraper](https://github.com/ddgarciad03/IDS-Export)
 * [JKAnime](https://jkanime.net/) - Anime
 * [AnimeFénix](https://www.animefenix.tv/) - Anime
 * [TioAnime](https://tioanime.com/) - Anime
@@ -1667,9 +1663,12 @@
 * [serieslan](https://serieslan.com/) - Cartoons
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
 * [Eventoshq](https://www.eventoshq.me/) - WWE
-* [Cine Libre Online](https://www.cinelibreonline.com/) - YouTube Movies
-* [LegalMentegratis](http://legalmentegratis.com/) - YouTube Movies
 * [Edutin Academy](https://edutin.com/) - Courses
+* [Tele Gratis Online](https://telegratis.online/) - Live TV
+* [Television Gratis](https://www.televisiongratishd.com/) - Live TV / Latino
+* [El Bucanero del Deporte](https://deportebucanero.wordpress.com/) - Sports Piracy Directory
+* [Flipax](https://flipax.es/) - Live Sports
+* [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Live Soccer / MMA
 
 ## ▷ Reading
 
