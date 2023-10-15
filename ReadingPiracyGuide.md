@@ -209,7 +209,7 @@
 * ↪️ **[Magic / Esoteric Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_magic_.2F_esoteric_telegram_ebooks)**
 * [Grimoar.cz](http://english.grimoar.cz/?Loc=key&Lng=2) - Occult
 * [GodChecker](https://www.godchecker.com/) - Religion / Mythology
-* [Hermetic International](https://www.hermetics.net/) - Religion / Occult / Alchemy / Astrology / Freemasonry / Gnosticism / Hermetic / Kabbalah / Philosophy
+* [Hermetic International](https://www.hermetics.net/) - Religion / Occult / Gnosticism / Hermetic / Philosophy
 * [Hermetics](https://www.hermetics.org/library.html) - Ancient Texts / Mythology / Occult
 * [Awakening-Intuition](https://www.awakening-intuition.com/ebooks.html) - Religion / Esoterica / Occult
 * [Summa Theologiae](https://drbo.org/summa//) - Religion / Sacred Doctrine / Christianity
