@@ -163,7 +163,7 @@
 * [Flow Field](https://github.com/romellogoodman/flow-field.js) - Flow Field Generator
 * [MakeBeliefsComix](https://makebeliefscomix.com/) - Comic Creators
 * [Zine Machine](https://zine-machine.glitch.me/) or [Electric Zine Maker](http://unicornycopia.com/ezm/) - Create / Print Zines
-* [BannerEasy](https://www.bannereasy.com) or [Bannery](https://bannery.app/) - Create Custom Banners
+* [Bannery](https://bannery.app/) - Create Custom Banners
 * [Mind Your Banners](https://www.mindyourbanners.com/) - Social Media Banner Creator
 * [CoverView](https://coverview.vercel.app/) - Blog Banner Creator
 * [Thumbnail.ai](https://thumbnail.ai/) - Create Social Media Images from Blog Posts
@@ -314,7 +314,7 @@
 * ↪️ **[AI Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_prompts_.2F_galleries)**
 * ↪️ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)**
 * ↪️ **[Media Covers / Posters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
-* ⭐ **[ddmm](https://ddmm.ai/)**, [Search Anything](https://search.anything.io/), [Yandex Images](https://yandex.ru/images) or [Google Images](https://images.google.com/) - Image Search Engines
+* ⭐ **[Search Anything](https://search.anything.io/)**, [Yandex Images](https://yandex.ru/images) or [Google Images](https://images.google.com/) - Image Search Engines
 * ⭐ **[Kemono](https://kemono.su/)** - Patreon Content / Some NSFW / Use Adblock
 * ⭐ **[gallery-dl](https://github.com/mikf/gallery-dl)**, [RipMe](https://github.com/RipMeApp/ripme), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) or [Image Extractor](https://extract.pics/) - Image Download Tools
 * [Search System](https://www.searchsystem.co/) - Design Examples
@@ -554,7 +554,6 @@
 * [Unredacter](https://github.com/BishopFox/unredacter) - Crack Pixelated Images 
 * [Image Scrubber](https://everestpipkin.github.io/image-scrubber/)- Blur Images / Scrub Metadata
 * [Schizoware](https://sourceforge.net/projects/schizoware/) - Image Name / Hash Randomizer
-* [Adversarial](https://adversarial.io/) - Make Images Machine-Unreadable 
 * [BetterCensorship](https://bc.betterrepack.com/) - Censor and De-censor Images
 * [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php), [Jimpl](https://jimpl.com/), [ExifData](https://exifdata.com/), [OnlineEXIFViewer](https://onlineexifviewer.com/), [ExifLooter](https://github.com/aydinnyunus/exifLooter), [CameraSummary](https://camerasummary.com/) or [JPEGsnoop](https://www.impulseadventure.com/photo/jpeg-snoop.html) - EXIF / Metadata Viewers
 * [exiftool](https://exiftool.org/), [ExifCleaner](https://exifcleaner.com/), [EXIFRemove](https://www.exifremove.com/), [MGOnline](https://www.imgonline.com.ua/delete-exif.php), [scrambled-exif](https://gitlab.com/juanitobananas/scrambled-exif), [Metadata-Remover](https://github.com/Anish-M-code/Metadata-Remover), [Image Scrubber](https://everestpipkin.github.io/image-scrubber/), [adarsus](https://www.adarsus.com/en/remove-metadata-online-document-image-video/) or [VerExif](https://www.verexif.com/en/) - Remove Meta / EXIF Data 
