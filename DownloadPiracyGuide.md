@@ -78,7 +78,6 @@
 * [Katz DDL](https://katzddl.net/) - Video / Audio / Books / NSFW
 * [FreshWAP](https://www.freshwap.us/), [2](https://freshwap.cc/) - Video / Audio / Books / Magazines  
 * [BadshahUploads](https://badshahuploads.xyz/) - Video / Audio / Books / Leech Required
-* [sarzamindownload](https://www.sarzamindownload.com/) - Games 
 * [FrostClick](https://www.frostclick.com/wp/) - Video / Audio / Books
 * [20Links](https://20links.com/) - Video / Audio / Books
 * [The Ambassador](https://ambassadorddl.site/) - Video / Books
@@ -263,7 +262,7 @@
 * [WinMX](https://patch.winmxconex.com/) - File Sharing App / [Forum](https://forum.winmxworld.com/)
 * [WireShare](https://sourceforge.net/projects/wireshare/) - File Sharing App / LimeWire Fork
 * [TGMoviesBot](https://t.me/TGMoviesBot) - Telegram File Search Bot
-* [Direct Links](https://t.me/direct_llinks) - Telegram / Video / Software / Games
+* [Direct Links](https://t.me/direct_llinks) - Telegram / Video
 * [VK Files Bot](https://t.me/VKFiles_Bot) - VK File DL Telegram Bot
 * [Real-Debrid](https://real-debrid.com/) - File Download App / Paid / [Torrent Client](https://github.com/rogerfar/rdt-client)
 * [Debrid-Link](https://debrid-link.com) - Debrid w/ Free Tier / [Limits](https://i.imgur.com/vZtlvtA.png)
