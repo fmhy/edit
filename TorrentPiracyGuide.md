@@ -40,7 +40,6 @@
 * [BTorrent](https://btorrent.xyz/) - Stream Torrents in Browser
 * [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents in Browser
 * [BitFord](https://github.com/astro/bitford) - Chrome
-* [exatorrent](https://github.com/varbhat/exatorrent) - Self-Hosted Client
 * [Rats Search](https://github.com/DEgITx/rats-search) - Torrent Search Client / [Screenshot](https://github.com/DEgITx/rats-search#screenshots) 
 * [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
 * [SpreadsheetUI](https://github.com/JohnDoee/spreadsheetui) - Speadsheet Torrent webUI 
