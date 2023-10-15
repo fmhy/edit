@@ -602,19 +602,14 @@
 * [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - Discord Code Blocks
 * [discord.py](https://github.com/Rapptz/discord.py), [Kord](https://github.com/kordlib/kord) or [Discord4J](https://discord4j.com/) - Discord API Wrapper
 * [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - Community Libraries for Discord API
-* [Discord-panel](https://github.com/Notavone/discord-panel) - Discord Bot Server Manager
 * [Javacord](https://javacord.org/) - Discord Bot Creation Library
-* [Pylon](https://pylon.bot/) or [Bot Designer for Discord](https://apps.apple.com/us/app/bot-designer-for-discord/id1495536477) (Mac) - Discord Bot Builder
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
 * [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - C++ Library for Discord
 * [rss-to-activitypub](https://portal.0svc.com/convert/) - RSS to ActivityPub Converter
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
-* [Constraints](https://zalo.github.io/blog/constraints/) - Find Minimum Movement Constraint
-* [XunLei](https://www.xunlei.com/) - Shared Computing / Blockchain
 * [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulator
 * [Tesseract](https://tesseract-ocr.github.io/) - Open Source OCR Engine / [GitHub](https://github.com/tesseract-ocr/tesseract)
 * [CLIP-as-service](https://github.com/jina-ai/clip-as-service) - Embed Images / Sentences via CLIP Models
-* [OS Dev](https://wiki.osdev.org/) - Operation System Development Wiki
 * [devSwag](https://devswag.io/) - Developer Giveaways
 
 ***
