@@ -176,7 +176,6 @@
 * [InternetSlangTranslator](https://lingojam.com/InternetSlangTranslator2-0) - Translate Text to Slang
 * [The Pirate Translator](https://pirate.monkeyness.com/translate) - Translate Text to Pirate
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
-* [eeemo](https://eeemo.net/) - Cursed Text
 * [uwu]( https://github.com/Daniel-Liu-c0deb0t/uwu) - Text uwuifier
 * [typ3r](https://typ3r.aavi.me/) - tRaNSlAtE tEXT lik3 THiS
 * [Gematrinator](https://gematrinator.com/calculator) or [Gematrix](https://www.gematrix.org/) - Gematria Calculators
@@ -274,7 +273,7 @@
 * [OM_Midi](https://github.com/otomad/om_midi) - Otomad/YTPMV Script for After Effects
 * [VDO.Ninja](https://vdo.ninja/) - Remote Camera Video Production
 * [Stream Elements](https://streamelements.com/) - Streaming Service Manager
-* [LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) / [Display Chat](https://github.com/MrBrax/twitch-vod-chat), [LiveRecord](https://github.com/lovezzzxxx/liverecord) or [Biliup](https://www.biliup.org/) - Live Stream Recorders
+* [LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) / [Display Chat](https://github.com/MrBrax/twitch-vod-chat), [LiveRecord](https://github.com/lovezzzxxx/liverecord) - Live Stream Recorders
 * [LiveMonitor](https://github.com/lovezzzxxx/livemonitor) - Live Stream Detection
 * [real-url](https://github.com/wbt5/real-url) - Copy Live Stream URLs
 * [StreamerFreebies](https://streamerfreebies.com/) - Free Streamer Resources
@@ -354,7 +353,6 @@
 * [Source Filmmaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) - Steam Movie-Making Tool / [Resources](https://sfmlab.com/)
 * [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5)
 * [Plyr](https://plyr.io/) - Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
-* [zeroTube](http://127.0.0.1:43110/1FUQPLXHimgCvYHH7v3bJXspJ7bMBUXcEb) - Decentralized Video Platform on ZeroNet using WebTorrent + [GitHub](https://github.com/rllola/zeroTube/)
 * [PiP-Tool](https://github.com/LionelJouin/PiP-Tool) - Use Picture-in-Picture on All Videos
 * [Marauder](https://github.com/Makeshift/Marauder) or [PlayVideo](https://playvideos.pages.dev/) - GDrive Video Players
 * [MotionMonkey](https://omega.gg/MotionMonkey/) - Stream Online Videos in Player
@@ -756,7 +754,6 @@
 * [Sift RSS](https://siftrss.com/) - RSS Feed Filters
 * [Feed Visualizer](https://github.com/code2k13/feed-visualizer) - RSS Feed Visualizer
 * [Spinner](https://spinner.fullcontentrss.com/) - RSS Article Rewriter
-* [sheet-posting](https://www.sheet-posting.me/) - Convert Google Spreadsheets into Blogs & RSS Feeds
 * [Kill the Newsletter](https://kill-the-newsletter.com/) - Convert email newsletters into Atom Feeds
 * [Google Guidebooks](https://guidebooks.google.com/) - Google Product Guides
 * [PyPasser](https://github.com/xHossein/PyPasser) - Bypass ReCaptcha v3 & v2
@@ -770,11 +767,10 @@
 * [Social Media Hacker List](https://github.com/MobileFirstLLC/social-media-hacker-list) - Social Media Apps / Tools
 * [SocialBlade](https://socialblade.com/) or [NoxInfluencer](https://www.noxinfluencer.com/) - Social Media Stats
 * [LiveCounts](https://livecounts.io/) - Live Social Media Stats
-* [Abogrow](https://www.abogrow.com/compose) - Preview Social Media Posts
 * [OPoster](https://github.com/OrienteerBAP/OPoster) or [OneUp](https://www.oneupapp.io/) - Social Media Post Schedulers
 * [you-get](https://github.com/soimort/you-get) - Download Media Contents from Webpages
 * [Login Reminder Remover](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover) - Remove Login Popup from Sites
-* [BugMeNot](https://bugmenot.com/), [Parolja](http://en.parolja.net/), [Login2.me](https://login2.me/), [FreeAccount](https://freeaccount.biz/) or [Password Login](http://password-login.com/) - Access & Share Throwaway Accounts
+* [BugMeNot](https://bugmenot.com/), [Parolja](http://en.parolja.net/), [FreeAccount](https://freeaccount.biz/) or [Password Login](http://password-login.com/) - Access & Share Throwaway Accounts
 * [Voice Dictation](https://dictation.io/) - Type with Voice
 * [Instapaper](https://www.instapaper.com/) - Bookmarking Tool
 * [Pilgrim](http://pilgrim.are.na/) - Tree Style Path Bookmarking
@@ -804,7 +800,7 @@
 * [TikTok Chat Reader](https://tiktok-chat-reader.zerody.one/) - Live TikTok Chat Reader
 * [GoldFish](https://goldfish.social/) - Open-Source TikTok Alternative
 * [Urlebird](https://urlebird.com/) - 3rd Party TikTok with better UI
-* [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Nertivia Chat](https://nertivia.net/), [Mumble](https://www.mumble.info/), [Zoiper](https://www.zoiper.com/) or [Google Voice](https://voice.google.com/) - Voice Chat 
+* [Jam](https://jam.systems/), [TeaSpeak](https://teaspeak.de/gb/), [TeamSpeak](https://www.teamspeak.com/) / [Warning](https://pastebin.com/479TbKq5), [Mumble](https://www.mumble.info/), [Zoiper](https://www.zoiper.com/) or [Google Voice](https://voice.google.com/) - Voice Chat 
 * [IMumble](https://www.imumble.nl/) or [Guildbit](https://guildbit.com/) - Voice Chat Servers
 * [DJ3D](https://dj3d.io/), [Gather](https://gather.town/), [Vircadia](https://vircadia.com/) or [OpenSimulator](http://opensimulator.org/) - Virtual World Server
 * [FireStorm Viewer](https://www.firestormviewer.org/) - Virtual World Viewer
@@ -1025,7 +1021,6 @@
 * [Tiny.cc](https://tiny.cc/) - `tiny.cc/akl1mz`
 * [1kb](https://1kb.link/) - `1kb.link/acc0a`
 * [x.gd](https://x.gd/) `x.gd/rcg0Z`
-* [shrtcode](https://shrtco.de/) - `shrtco.de/lsoWP`
 * [bom.so](https://bom.so/) - `bom.so/VevMJv`
 * [by.com.vn](https://by.com.vn/) - `by.com.vn/tKYeSo`
 * [sum.vn](https://sum.vn/) - `sum.vn/DTrXk`
@@ -1051,7 +1046,7 @@
 * [Thinfi](https://thinfi.com/) - Password protect a short URL - `thinfi.com/q8aw`
 * [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - Telegram Link Shortener Bot 
 * [suri](https://github.com/jstayton/suri), [Wormholes](https://noquark.com/products/wormholes), [urlhum](https://urlhum.com/) or [mpngin](https://github.com/thewalkingtoast/mpngin) - Self-Hosted Link Shorteners
-* [shrtcode](https://shrtco.de/tools/) or [cuttly](https://cutt.ly/) - Multiple URL Tools
+* [cuttly](https://cutt.ly/) - Multiple URL Tools
 * [W.A.R. Links Checker Premium](https://greasyfork.org/en/scripts/2024) - Checks If File Links are Alive or Not
 * [Open Bulk URL](https://openbulkurl.com/) or [OpenAllURLs](https://www.openallurls.com/) - URL Bulk Opener
 * [ListURLs](https://listurls.com/) - URL List Generator
@@ -1552,7 +1547,7 @@
 ## ▷ Twitter Tools
 
 * ↪️ **[Decentralized Twitter Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_decentralized_social_networks)**
-* ⭐ **[Nitter](https://nitter.net/)** - Twitter Frontend / [Manage Feeds](https://feetter.r3d.red/)
+* ⭐ **[Nitter](https://nitter.net/)** - Twitter Frontend
 * ⭐ **[Trends24](https://trends24.in/)** or [Hashtagify](https://hashtagify.me/) - Trending Hashtags Trackers
 * ⭐ **[NoFT](https://noft.gg/)** - Automatically Block all NFT Profile Pictures / [GitHub](https://github.com/ottomated/noft)
 * ⭐ **[Eight Dollars](https://github.com/wseagar/eight-dollars)** - Show Twitter Blue vs. Real Verified Users
@@ -1667,7 +1662,7 @@
 * ↪️ **[Remote Desktop Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remote_desktop_clients)**
 * ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Information Tools
 * ⭐ **[Windows Optimization Guide](https://rentry.co/mdl-optimize-guide)** / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat)
-* ⭐ **[Ventoy](https://www.ventoy.net/en/index.html)**, **[Rufus](https://rufus.ie/)**, [AIO Boot](https://www.aioboot.com/), [UUP](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x) / [2](https://uupdump.net/) or [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Create Bootable USB Drives
+* ⭐ **[Ventoy](https://www.ventoy.net/en/index.html)**, **[Rufus](https://rufus.ie/)**, [AIO Boot](https://www.aioboot.com/), [UUP](https://pastebin.com/ybvKNan6) / [2](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x) or [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Create Bootable USB Drives
 * ⭐ **[GParted](https://gparted.org/)**, [Rescuezilla](https://rescuezilla.com/), [CloneZilla](https://clonezilla.org/) or [AOMEI](https://www.diskpart.com/) - Partition Managers
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)** - Bulk Uninstallation Tool
 * [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide), [Pastas](https://rentry.org/pastas#guides), [Eleven Forums Guides](https://www.elevenforum.com/tutorials/) or [Ten Forums Guides](https://www.tenforums.com/tutorials/) - Windows Guides
@@ -1698,7 +1693,6 @@
 * [BiOSBug](https://www.biosbug.com/) - Remove / Reset BiOS Password / [Tutorial](https://www.youtube.com/watch?v=GolIjI2HS5w)
 * [MSDN Files](https://msdn.rg-adguard.net/), [Microsoft Downloads Dump](https://www.heidoc.net/php/myvsdump.php) or [MVS dump](https://awuctl.github.io/mvs/) - Verify ISO Legitimacy
 * [GetCID](https://www.getcid.info/) - Obtain Windows Confirmation ID
-* [msdn](https://msdn.su/) - Microsoft Product Hashes
 * [HDD Serial Spoofer](https://github.com/namazso/hdd_serial_spoofer) - Spoof HDD Serial Number
 * [How-To Crack Windows Passwords](https://samsclass.info/123/proj14/123p12winhash.htm) 
 * [hashcat](https://hashcat.net/hashcat/) or [BIOS-PW](https://bios-pw.org/) - System Password Recovery Tools
@@ -1871,7 +1865,6 @@
 * [Emoji.ico](https://github.com/davzoku/emoji.ico) - Emoji Folder Icons
 * [Win98Icons](https://win98icons.alexmeub.com/) - Classic Win98 Icons
 * [Recycle Bin Themes](https://github.com/sdushantha/recycle-bin-themes) - Custom Recycle Bin Icons
-* [Windows 10's icons dedicated .dll files location](https://pastebin.com/tMiSV6WT)
 * [Cursors 4U](https://www.cursors-4u.com/), [Cursor Mania Archive](https://archive.org/details/cursormania), [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor), [Cursors Pastebin](https://pastebin.com/BrAbMy4n) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - MacOS Cursors for Windows
 * [AngryWindows](https://github.com/ch3rn0byl/AngryWindows) - Custom Blue Screen of Death
@@ -1898,7 +1891,7 @@
 ## ▷ Tweaking
 
 * ⭐ **[Redwan's Guide to Guides](https://docs.google.com/document/d/1hZeQkyDe-M9-zNy2eB-Koc3iOpN5-5KxkpvjQaNK60g/)**, [Couleur Tweak Tips](http://discord.gg/CTT), [PC-Tuning](https://github.com/amitxv/PC-Tuning) or [TweakCentral](https://tweakcentral.net/) - Windows Tweaking Guides
-* ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)** / [GitHub](https://github.com/microsoft/PowerToys), [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) / [Suite](https://apps.microsoft.com/store/detail/sysinternals-suite/9P7KNL5RWT25), [CWCodes](http://cwcodes.net/), [Progress Tools](https://www.progress-tools.x10.mx/), [Guru3D](https://www.guru3d.com/files-categories), [JaxCore](https://jaxcore.app/) or [JoeWare](https://www.joeware.net/freetools/index.htm) - System Tools
+* ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)** / [GitHub](https://github.com/microsoft/PowerToys), [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) / [Suite](https://apps.microsoft.com/store/detail/sysinternals-suite/9P7KNL5RWT25), [CWCodes](http://cwcodes.net/), [Progress Tools](https://www.progress-tools.x10.mx/), [JaxCore](https://jaxcore.app/) or [JoeWare](https://www.joeware.net/freetools/index.htm) - System Tools
 * ⭐ **[f.lux](https://justgetflux.com/)**, [LightBulb](https://github.com/Tyrrrz/LightBulb), [ScreenTemperature](https://github.com/massaiTHEdog1/ScreenTemperature) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - Adjust Display Color / Temperature
 * [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [XTR Toolbox](https://zeeex.github.io/XTR-Toolbox/) / [GitHub](https://github.com/Zeeex/XTR-Toolbox/), [TweakUtility](https://github.com/Craftplacer/TweakUtility), [MagicX Toolbox](https://github.com/ehsan18t/MagicX-Toolbox), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Post Tweaks](https://github.com/ArtanisInc/Post-Tweaks), [WinSlap](https://github.com/svenmauch/WinSlap), [QuickBoost](https://github.com/SanGraphic/QuickBoost) or [Cairo](https://cairoshell.com/) - Windows Tweaking Tools / [Warning](https://i.imgur.com/dz0AzIx.png)
 * [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
@@ -1999,7 +1992,7 @@
 * ⭐ **[SA Drive](https://github.com/jsmsj/sa-drive/)** - Service Account Drive Manager
 * ⭐ **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** or [MiXLab](https://github.com/shirooo39/MiXLab) - Google Drive Tools Colab / [GitHub](https://github.com/biplobsd/OneClickRun) / [Features](https://i.ibb.co/BfF3djW/f0ab560a3aef.png) / Use Throwaways
 * ⭐ **[Mega-to-Google-Drive](https://github.com/menukaonline/Mega-to-Google-Drive)** - Transfer Files from Mega to GDrive
-* ⭐ **[megabasterd](https://github.com/tonikelope/megabasterd)** - MEGA Quota Bypass / [Proxies](https://github.com/tonikelope/megabasterd/blob/proxy_list/proxy.txt), [2](https://rentry.co/megaproxies) / [Guides](https://www.notion.so/Bypass-MEGA-Download-Quota-limit-4ecfa9ca89f94079b849e00db3373ecd?pvs=4)
+* ⭐ **[megabasterd](https://github.com/tonikelope/megabasterd)** - MEGA Quota Bypass / [Proxies](https://rentry.co/megaproxies) / [Guides](https://www.notion.so/Bypass-MEGA-Download-Quota-limit-4ecfa9ca89f94079b849e00db3373ecd?pvs=4)
 * ⭐ **[OpenWith](https://www.openwith.org/)**, [OpenMyFiles](https://www.openmyfiles.com/), [OpenFile](https://www.openfile.me/) or [File.org](https://file.org/) - How-to Open Any File Types
 * ⭐ **[SaveLocation](https://savelocation.net/)** - Find Software / Game Save Locations
 * ⭐ **[Cyberduck](https://cyberduck.io/)** - Libre Server / Cloud Storage Browser
@@ -2047,7 +2040,6 @@
 * [Issuu](https://issuu.com/) - Convert PDF Files to Webpages, Flipbooks, Brochures & More / [Downloader](https://docdownloader.com/), [2](https://vebuka.com/)
 * [WebToPDF](https://webtopdf.com/) or [PDFmyURL](https://pdfmyurl.com/) - Webpage to PDF Converter
 * [PPT To PDF](https://www.adobe.com/acrobat/online/ppt-to-pdf.html) - Convert PowerPoint to PDF Adobe
-* [Protect PDF](https://chrome.google.com/webstore/detail/protect-pdf-by-pdfliteco/ehiinfpgjdeejgicaecceplicndinpgb) - PDF Watermarks
 * [watermark-remover](https://github.com/cpappen/watermark-remover), [pdf-remove-watermarks](https://github.com/matthiasbock/pdf-remove-watermarks), [Aspose](https://products.aspose.app/pdf/annotation) or [pdf-unstamper](https://github.com/hwding/pdf-unstamper) - PDF Watermark Remover
 * [Scan Your PDF](https://www.scanyourpdf.com/) - Make a PDF look like it was Scanned
 * [PDF Fixer](https://pdffixer.com/) - Repair Damaged PDFs
