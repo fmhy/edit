@@ -56,7 +56,6 @@
 * [WarezForums](https://warezforums.com/) - Video / Audio / ROMs / Books / Comics  / [Account Application](https://t.me/joinchat/AAAAAFRH5fns4IiE-T2TcA)
 * [rlsbb](http://rlsbb.ru/), [2](https://rlsbb.to/), [3](https://comment.rlsbb.cc/) - Video / Audio / Books / Magazines / [Track Shows](https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker)
 * [AsanDL](http://asandl.com/) - Video / Audio / Books / Magazines / Use [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* [SceneP2P](https://www.scenep2p.com) - Video / Audio / ROMs / Books / Magazines
 * [Adit-HD](https://www.adit-hd.com/) - Video / Audio / Books
 * [Novanon](https://novanon.net/) - Video / Audio   / Magazines / Comics / Books / Courses
 * [psychodownloads](https://psychodownloads.com/) - Video / Audio / ROMs / Books / Magazines / NSFW
@@ -88,7 +87,6 @@
 * [wJungle](https://wjungle.net/) - Video / Audio / Books / NSFW
 * [PuZo](https://www.puzo.org/) - Video / Audio   / Books / Audiobooks / NSFW
 * [Warez-Serbia](https://www.warez-serbia.com/) - Video / Audio   / Books / Magazines / NSFW
-* [DownArchive](http://downarchive.org/) - Video / Audio / ROMs / Books / Magazines
 * [OneDDL](https://oneddl.org/) - Video / Audio / Books
 * [Warez Heaven](https://www.warezheaven.com/index.php) - Video / Audio  / ROMs / Books / NSFW
 * [Download.ir](https://download.ir/) - Video / ROMs
