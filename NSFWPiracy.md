@@ -139,7 +139,6 @@
 * [Pornjam](https://www.pornjam.com/)
 * [Netfapx](https://netfapx.com/)
 * [xmegadrive](https://www.xmegadrive.com/)
-* [solocompilations](https://solocompilations.com/)
 * [InsaneList](https://insanelist.com/)
 * [FreePornSex](https://www.freepornsex.net/)
 * [FuxnXX](https://fuxnxx.com/) 
@@ -581,7 +580,6 @@
 * [xxxtik](https://xxxtik.com/) - NSFW TikTok
 * [Tik.porn](https://tik.porn/) - NSFW TikTok
 * [TikPorn.tube](https://tikporn.tube/)- NSFW TikTok
-* [tt8teen](https://tt8teen.com/) -NSFW TikTok
 * [tiktits](https://tiktits.com/) - NSFW TikTok
 * [OnlyTik](https://onlytik.com/) - NSFW TikTok
 * [Xfollow](https://www.xfollow.com/) - NSFW TikTok
@@ -655,8 +653,7 @@
 * [Naughty Machinima](https://www.naughtymachinima.com/) - 3D Porn
 * [Studio Flow](https://studiofow.com/movies/) - 3D Porn / [Discord](https://discord.com/invite/zUgDe3B)
 * [SFM Compile](https://sfmcompile.club/) - 3D Porn
-* [Iwara](https://www.iwara.tv/) - MMD Porn / [Discord](https://discord.com/invite/WAa9XXyBVq)
-* [HentaiLA](https://www3.hentaila.com/) - Spanish
+* [HentaiLA](https://www4.hentaila.com/) - Spanish
 * [Fapservice](https://fapservice.com/) - Compilation of Echhi Anime Scenes / [Discord](https://discord.com/invite/sTaEawE)
 
 ***
@@ -800,14 +797,7 @@
 * [Xbooru](https://xbooru.com/)
 * [The Hentai World](https://thehentaiworld.com/)
 * [WHentai](https://whentai.com/)
-* [Foot-Fetish-Booru](https://footfetishbooru.booru.org/)- Foot Fetish Art
 * [Hypno Hub](https://hypnohub.net/) - Hypno Fetish Art / [Discord](https://discord.com/invite/4Y82pB6)
-* [Giantess Booru](https://giantessbooru.com/) - Giantess Fetish Art
-* [e621](https://e621.net/) - Furry Art
-* [FurryBooru](https://furry.booru.org/) - Furry Art
-* [Fur Affinity](https://www.furaffinity.net/) - Furry Art / [Reverse Image Search](https://kheina.com/)
-* [Derpibooru](https://derpibooru.org/) - Furry Art
-* [InkBunny](https://inkbunny.net/) - Furry Art
 * [SmutBase](https://smutba.se/) - NSFW 3D Models
 * [Permanent Booru](http://owmvhpxyisu6fgd7r2fcswgavs7jly4znldaey33utadwmgbbp4pysad.onion/)
 * [mcb3id.onion](http://ik4kzum3ocg6dhx4jhzteko4jzijmxnwsbkcqenf33as3i74i3mcb3id.onion/) 
