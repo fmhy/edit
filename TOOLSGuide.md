@@ -254,7 +254,7 @@
 * ⭐ **[Video Encoding Guide](https://sometimes-archives-things.github.io/archived-things/)**, [2](https://encoding-guide.neocities.org/) - Learn how to Encode Videos
 * ⭐ **[Basics to the Art of Remuxing](https://rentry.co/Remuxing)** or [fs927](https://rentry.org/fs927) - Learn how to Remux Videos
 * ⭐ **[EyeCndy](https://eycndy.co/)** - Visual Technique Library
-* ⭐ **[PlayPhrase](https://playphrase.me/)**, [ClipBase](https://clipbase.xyz/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/), [2](https://getyarn.io/) - Internet Clip Quote Search
+* ⭐ **[PlayPhrase](https://playphrase.me/)**, [ClipBase](https://clipbase.xyz/), [Filmot](https://filmot.com/) or [Yarn](https://yarn.co/) / [2](https://getyarn.io/) - Internet Clip Quote Search
 * [VideoTuts](https://videotuts.ru/) - Video Design Tutorials / [Translator](https://github.com/FilipePS/Traduzir-paginas-web)
 * [Free-Codecs](https://www.free-codecs.com/) - Codec Packs & Multimedia Tools
 * [VideoSmaller](https://www.videosmaller.com/), [Compress Video Online](https://compress-video-online.com/), [8mb.video](https://8mb.video/) or [MP4Compress](https://www.mp4compress.com/) - Video Compressors
@@ -580,8 +580,7 @@
 * 🌐 **[Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)** - Remote Job Resources
 * 🌐 **[Awesome Startup](https://github.com/Ibexoft/awesome-startup-tools-list)** or [Tools for Startups](https://docs.google.com/spreadsheets/d/1s6-hGBh0_tqa-jd23fsdYuwbmS8UPmElPqaH-Rnoa_A/htmlview) - Startup Resources
 * 🌐 **[Awesome Interview](https://github.com/DopplerHQ/awesome-interview-questions)**, [Common Q&As](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers) or [30-sec](https://30secondsofinterviews.org/) - Interview Resources
-* ↪️ **[Development Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_learning_.2F_cheat_sheets)**
-* ↪️ **[Website Development](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_web_development)**
+* ↪️ **[Developer Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_courses_.2F_tutorials)**
 * ↪️ **[Resume Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_resume_makers)**
 * ↪️ **[Project Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms)**
 * ⭐ **[AskEdith](https://www.askedith.ai/demo)** - Ask AI Job / Business Questions
