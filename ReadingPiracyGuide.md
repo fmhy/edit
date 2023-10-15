@@ -24,7 +24,6 @@
 * [HD Audio Books](https://hdaudiobooks.com/) - Listen Online
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) - Listen Online
 * [Audiobooks Lab](https://audiobooklabs.com/) - Listen Online
-* [Legamus](https://legamus.eu/blog/) - Listen Online
 * [Find Audiobook](https://findaudiobook.com/) - Listen Online
 * [Audio AZ](https://audioaz.com/) - Listen Online
 * [AudioBooksBeyond](https://odysee.com/@AudioBooksBeyond:1) - Listen Online
@@ -66,7 +65,7 @@
 * ⭐ **Z-Lib Tools** - [Desktop / Extensions](https://go-to-zlibrary.se/) / [Megathread](https://redd.it/zx6z62) / [I2P](http://kkd7tiqf5lv3olqfdnkw4znmmmmnjo2xqlxrp5ntthp6juowaiha.b32.i2p) / [Scraper](https://github.com/SofianeHamlaoui/b-ok-scraper) / [Subreddit](https://www.reddit.com/r/zlibrary/) / [Telegram](https://t.me/zlibrary_official)
 * ⭐ **[Mobilism](https://forum.mobilism.org)** - Books / Audiobooks / Magazines / Newspapers / Comics
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Manager / Downloader / [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_tools) / [ACSM Plugin](https://github.com/Leseratte10/acsm-calibre-plugin) / [Libre Plugin](https://github.com/poochinski9/libgen-calibre-store-plugin) / [Scraper](https://github.com/gnur/demeter)
-* ⭐ **[Library Genesis](https://libgen.is)** or [Libgen.fun](https://libgen.fun/) - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen__mirrors)
+* ⭐ **[Library Genesis](https://libgen.is)** - Books / Comics / Manga / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen__mirrors)
 * ⭐ **[The Library](https://discord.gg/mSyFJz9)** - Book Discord Server
 * ⭐ **[eBookHunter](https://ebook-hunter.org/)** - Books / Comics / Use Adblocker
 * ⭐ **[Archive.org](https://archive.org/details/texts)** - Books / Audiobooks / Magazines / Newspapers / [Downloader](https://bookripper.neocities.org/)
@@ -1016,7 +1015,6 @@
 * [EnglishNovelsOnline](https://englishnovelonline.com/)
 * [ReadLightNovel](https://readlightnovel.app/)
 * [AllNovel](https://allnovel.org)
-* [ReadWebNovels](https://readwebnovels.net)
 * [NovelTranslate](https://noveltranslate.com/)
 * [MyBoxNovel](https://myboxnovel.com/)
 * [MTLReader](https://mtlreader.com/)
@@ -1052,7 +1050,6 @@
 * [NovelFull](https://novelfull.com/)
 * [ExiledRebels](https://exiledrebelsscanlations.com/)
 * [Moon Bunny Cafe](https://moonbunnycafe.com/)
-* [Web Novel](https://www.webnovel.com/) - Web Novels
 * [Royal Road](https://www.royalroad.com/) - Web Novels
 * [Light Novel Archive](https://t.me/lightnovelarchive_bot) - Telegram / Bot
 * [Book Smelting Bot](https://t.me/epub_smelter_bot) - Telegram / Bot
