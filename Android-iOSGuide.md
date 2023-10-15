@@ -196,8 +196,6 @@
 * [VMOS](https://www.vmos.com/) or [x8sb](https://x8sb.com/) - Android on Android Virtual Machines
 * [EtchDroid](https://etchdroid.depau.eu/) - Write OS Images to USB Drive
 * [Winlator](https://github.com/brunodev85/winlator) or [Exagear](https://www.exagear.wiki/) / [Discord](https://discord.gg/q842JB4gCm) - Android Windows Emulators
-* [Migrate](https://play.google.com/store/apps/details?id=balti.migrate) - Migration Tool / Root Required
-* [How to Root](https://www.xda-developers.com/root/) - Android Root Guide
 * [Root Checker](https://play.google.com/store/apps/details?id=com.joeykrim.rootcheck) - Root Checker
 * [Android Tool](https://github.com/fast-geek/Android-Tool) or [ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) - ABD / Fastboot Programs
 * [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot&hl=en_IN) - Logcat / Dmesg Boot Animation
@@ -479,7 +477,7 @@
 * ↪️ **[Internet Speed Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_internet_speed_test)**
 * ⭐ **[Aliucord](https://github.com/Aliucord/Aliucord)**, [OpenCord](https://github.com/MateriiApps/OpenCord) or [Vendetta](https://github.com/vendetta-mod/Vendetta) - Modded Discord Clients / [Rich Presence](https://github.com/dead8309/Kizzy)
 * ⭐ **[Voyager](https://github.com/aeharding/voyager)**, [Jerboa](https://github.com/dessalines/jerboa), [LiftOff](https://github.com/liftoff-app/liftoff), [Infinity](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) or [Thunder](https://github.com/thunder-app/thunder) - Lemmy Clients
-* ⭐ **[Tusky](https://tusky.app/),** [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Megalodon](https://sk22.github.io/megalodon/), [Husky](https://git.mentality.rip/FWGS/Husky) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients / [Improved Notifications](https://github.com/LucasGGamerM/moshidon)
+* ⭐ **[Tusky](https://tusky.app/),** [SubwayTooter](https://github.com/tateisu/SubwayTooter), [Megalodon](https://sk22.github.io/megalodon/) or [Dimett](https://github.com/MateriiApps/Dimett) - Mastodon Clients / [Improved Notifications](https://github.com/LucasGGamerM/moshidon)
 * ⭐ **[KeePassDX](https://www.keepassdx.com/)**, **[BitWarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)**, [Keyspace](https://keyspace.cloud/), [AuthPass](https://authpass.app/), [KeyPass](https://github.com/yogeshpaliyal/KeyPass) or [Keepass2Android](https://github.com/PhilippC/keepass2android) - Password Managers
 * [PINCredible](https://github.com/cyb3rko/pincredible) - PIN Manager
 * [Link Manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager) - Bookmark Manager
@@ -502,7 +500,7 @@
 * [BBTV](https://github.com/bttv-android/bttv) or [Frosty](https://www.frostyapp.io/) - Modded Twitch App
 * [DankChat](https://github.com/flex3r/DankChat) - Talk in Multiple Twitch Chats at Once
 * [Viddit](https://play.google.com/store/apps/details?id=aculix.viddit.downloader) - Reddit Video Downloader
-* [Geddit](https://kaangiray26.github.io/geddit-app/), [Infinity](https://github.com/KhoalaS/Infinity-For-Reddit) / [Builder](https://redd.it/14c2v5x), [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit&hl=en_US) or [Relay](https://relayforreddit.com/index.html) - Reddit Clients
+* [Geddit](https://kaangiray26.github.io/geddit-app/), [Infinity](https://github.com/KhoalaS/Infinity-For-Reddit) / [Builder](https://redd.it/14c2v5x), [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit&hl=en_US) - Reddit Clients
 * [Patch Reddit Clients](https://docs.google.com/document/u/0/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/mobilebasic) - How-To Patch 3rd Party Reddit Clients
 * [Offline Reddit](https://play.google.com/store/apps/details?id=yy.offlinereader) - Offline Reddit Client
 * [RedditOldResponsive](https://git.kaki87.net/KaKi87/userscripts/src/branch/master/redditOldResponsive) - Old Reddit Script
@@ -776,7 +774,6 @@
 * [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app) - Streaming
 * [Cliggo](https://play.google.com/store/apps/details?id=com.cliggo.cliggo_music) - Streaming / Downloading
 * [Otter](https://github.com/apognu/otter) - Music Sharing App
-* [TuneDetective](https://github.com/n000tavailable/tunedetective) - Music Recommendation App
 * [HZP](https://hzp.co/) - Solfeggio Frequency Player
 * [Quorus](https://quorus.net/) - Collaborative Playlists
 * [UpNext GPT](https://github.com/dokar3/upnext-gpt) - Playlist Generator
@@ -1046,7 +1043,7 @@
 
 ## ▷ iOS Jailbreaking
 
-* 🌐 **[Complete Jailbreak Chart](https://appledb.dev/)**, [HackYouriPhone Repo](https://repo.hackyouriphone.org/), [IPA Apps](https://ipa-apps.me/) or [IPACandy](https://ipacandy.com/) - Jailbreaking Tool Indexes
+* 🌐 **[Complete Jailbreak Chart](https://appledb.dev/)**, [HackYouriPhone Repo](https://repo.hackyouriphone.org/) or [IPA Apps](https://ipa-apps.me/)- Jailbreaking Tool Indexes
 * ⭐ **[iOS Jailbreak Guide](https://ios.cfw.guide/)** - Jailbreaking Guide
 * ⭐ **[/r/jailbreak](https://reddit.com/r/jailbreak)** - Jailbreaking Subreddit / [Wiki](https://www.reddit.com/r/jailbreak/wiki/index)
 * ⭐ **[Sideloading Beginners Guide](https://redd.it/orqzau)** or [Noob Guide to Sideloading](https://www.reddit.com/r/Piracy/comments/pt5uv9/noob_guide_to_sideloading_in_ios/) - Sideloading Guide
