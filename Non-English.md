@@ -1533,7 +1533,9 @@
 * [SeiresHD](https://serieslandia.com/), [2](https://seireshd.com/) - Movies / TV / Animation / [Telegram](https://t.me/joinchat/XOpQX51f2-tmOTBh)
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries
 * [DLShared](https://dlshareds.blogspot.com/?m=1) - Movies / Music
+* [CompucaliTV](https://www.compucalitv.com/) - Movies / TV / Latino
 * [mirandopeliculas](https://mirandopeliculas.com/) - Movies / TV / Latino
+* [TodoPelisHD](https://todopelishd.com/) - Movies / Latino
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino
 * [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram / Latino
@@ -1599,10 +1601,11 @@
 * [Cinecalidad](https://cinecalidad.gg/) - Movies / TV / Animation / Latino / [Telegram](https://t.me/cinecalidadchat)
 * [Inkapelis](https://www1.inkapelis.li/) - Movies / TV / Latino
 * [Cuevana2](https://www.cuevana2.icu/), [2](https://www.cuevana2espanol.net/) - Movies / TV / Latino
-* [locopelis](https://www.locopelis.com/) - Movies / NSFW / Latino
+* [locopelis](https://www.locopelis.com/), [2](https://www.repelis.net/) - Movies / NSFW / Latino
 * [Fanpelis](https://fanpelis.la/) - Movies / TV / Anime / Latino
 * [PelisPlusHD.nz](https://pelisplushd.nz/) - Movies / TV / Anime / Latino / [Telegram](https://t.me/pelisplushd_nu)
 * [PelisPlusHD.so](https://pelisplushd.so/) - Movies / TV / Latino
+* [PelisxD](https://www.pelisxd.com/) - Movies / TV / Latino
 * [Cuevana3](https://cuevana3.ms/) - Movies / TV / [Telegram](https://t.me/cuevana_3_io)
 * [PelisPedia.is](https://pelispedia.is/) - Movies / TV
 * [Gnula.se](https://gnula.se/) - TV / Anime
@@ -1617,10 +1620,13 @@
 * [Miradetodo](https://miradetodo.de/) - Movies / TV
 * [VerPeliculasUltra](https://verpeliculasultra.com/) - Movies
 * [Dilo](https://www.dilo.nu/) - Movies / TV / Anime
-* [novelas360](https://novelas360.com/) - TV
+* [novelas360](https://novelas360.com/) - TV / Drama
+* [Tlnovelas](https://tlnovelas.net/) - TV / Drama
 * [Vix](https://www.vix.com/tv/) - TV
 * [asialiveaction](https://asialiveaction.com/) - Asian Drama
 * [doramasyt](https://www.doramasyt.com/) - Asian Drama
+* [DoramasMp4](https://doramasmp4.io/) - Asian Drama
+* [DramasEmisiones](https://t.me/dramasemisiones), [2](https://t.me/Imundodoramas) - Asian Drama / Telegram
 * [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV / Castilian
 * [Cine Libre Online](https://www.cinelibreonline.com/) - YouTube Movies
 * [LegalMentegratis](http://legalmentegratis.com/) - YouTube Movies
