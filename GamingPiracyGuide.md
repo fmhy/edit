@@ -130,8 +130,7 @@
 * ⭐ **[Skraper](http://skraper.net/)** - ROM Cover / Metadata Scraper
 * ⭐ **[Dolphin Guide](https://github.com/shiiion/dolphin/wiki/Performance-Guide)** - Dolphin Setup Guide
 * ⭐ **[Cemu Guide](https://cemu.cfw.guide/)** or [/r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - WiiU / BOTW Setup Guides
-* ⭐ **[Switch Emu Guide](https://github.com/Abd-007/Switch-Emulators-Guide)**, [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) / [2](https://docs.google.com/document/d/1weVLWey3RePzn8LubFRFHRVkoczCbLkvSf8fNfp1yZ0/edit) / [3](https://github.com/PrincessAkira/road-to-yuzu-without-switch) / [4](https://rentry.org/128bb), [Ryujinx Guide](https://docs.google.com/document/d/1prxOJaE4WhPeYNHW17W5UaWZxDgB8e5wNHxt2O4FKvs/edit) - Switch Emulator Setup Guides
-* [Eclipse](https://eclipseemu.me/play/) - Online Mobile Multi-Console Emulator 
+* ⭐ **[Switch Emu Guide](https://github.com/Abd-007/Switch-Emulators-Guide)**, [Yuzu Guide](https://docs.google.com/document/d/13mr48D9voqouyS-Dk4CnMpuQm4nN5y5h8uLmHmuULf4/edit) / [2](https://docs.google.com/document/d/1weVLWey3RePzn8LubFRFHRVkoczCbLkvSf8fNfp1yZ0/edit) / [3](https://github.com/PrincessAkira/road-to-yuzu-without-switch) / [4](https://rentry.org/128bb) or [Ryujinx Guide](https://docs.google.com/document/d/1prxOJaE4WhPeYNHW17W5UaWZxDgB8e5wNHxt2O4FKvs/edit) - Switch Emulator Setup Guides
 * [Xbox Emulation Hub](https://discord.com/invite/7pcAbZzpXj) - Xbox Emulation Discord
 * [EmuDeck](https://www.emudeck.com/) or [GameImage](https://gitlab.com/formigoni/gameimage) - Steam Deck Emulator
 * [Motion Support Bypass](https://redd.it/gobcne) - Fix Cemu BOTW Motion Shrines / [DL](https://mega.nz/file/1Uo3BI6L#X5m-bPK27-X-IijzJH1o4MloivkUqP33zsUJE_kpOdc)
@@ -148,7 +147,7 @@
 
 ## ▷ ROM Sites
 
-* 🌐 **[ROM Sites](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)** - List of ROM Download Sites
+* 🌐 **[ROM Sites Wiki](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites)** - List of ROM Download Sites
 * 🌐 **[ROM Managers](http://emulation.gametechwiki.com/index.php/ROM_managers)** - List of ROM Managers
 * ↪️ **[Switch ROMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_switch_roms)**
 * ⭐ **[Vimms Lair](https://vimm.net/)** - Emulators / ROMs
@@ -234,6 +233,7 @@
 * ⭐ **[RetroGames](https://www.retrogames.cz/)**
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)**
 * ⭐ **[retrogames.cc](https://www.retrogames.cc/)** - [Download Guide](https://i.ibb.co/bWnVCpd/75d053e68a13.png)
+* [Eclipse](https://eclipseemu.me/play/) - Multi-Console Browser Emulator
 * [ClassicReload](https://classicreload.com/)
 * [Retro Games Bot](https://retrogamesbot.com/)
 * [AtariMania](http://www.atarimania.com/index.html)
@@ -898,8 +898,8 @@
 
 # ► Tracking / Discovery
 
-* ⭐ **[Glitchwave](https://glitchwave.com/)** - Game Tracker
 * ⭐ **[Grouvee](https://www.grouvee.com/)** - Game Tracker
+* ⭐ **[Glitchwave](https://glitchwave.com/)** - Game Tracker
 * ⭐ **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database
 * ⭐ **[TasteDive](https://tastedive.com/)** - Game Recommendations
 * [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
@@ -948,14 +948,14 @@
 
 # ► Gaming Tools
 
-* 🌐 **[Valve Archive](https://valvearchive.com/)** - Rare Valve Data Archive
-* 🌐 **[Library of Codexes](http://libraryofcodexes.com/)** - Game Codex Library
 * ↪️ **[Game Libraries / Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_game_libraries_.2F_launcher)**
 * ↪️ **[Media Posters / Covers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_covers_.2F_posters)**
-* ⭐ **[HowLongToBeat](https://howlongtobeat.com/)** - Find Average Game Lengths 
+* ⭐ **[Library of Codexes](http://libraryofcodexes.com/)** - Game Codex Library
+* ⭐ **[HowLongToBeat](https://howlongtobeat.com/)** - Find Average Game Lengths
 * ⭐ **[r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/)** - Find Games via Screenshot or Description
 * ⭐ **[Game Pauser](https://madebyjase.com/game-pauser/)** - Pause Unpausable Cutscenes
 * ⭐ **[DS4Windows](https://github.com/Ryochan7/DS4Windows)**, [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [DualSenseX](https://github.com/Paliverse/DualSenseX), [Input Remapper](https://github.com/sezanzeb/input-remapper) or [InputMapper](https://inputmapper.com/) - Gamepad Input Tools
+* ⭐ **[Valve Archive](https://valvearchive.com/)** - Rare Valve Data Archive
 * [GameHUB Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648) - Rainmeter Game Launcher
 * [humble-cli](https://github.com/smbl64/humble-cli) - Humble Bundle CLI
 * [Moonlight Stream](https://moonlight-stream.org/) / [Server](https://github.com/LizardByte/Sunshine)  - Remote Desktop Client
@@ -1331,7 +1331,6 @@
 * [Piper](https://github.com/libratbag/piper) - Gaming Mouse Config Tool
 * [ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec) - ArminC's CS:GO Config
 * [Use ESDF](http://www.use-esdf.org/) - OG FPS Control Combo
-* [CrossOver](https://github.com/lacymorrow/crossover) or [HudSight](https://hudsight.com/) - Crosshair Overlay
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
 * [TASVideos](https://tasvideos.org/) - Watch and Publish Tool Assisted Speedruns
 * [Tomatoanus](https://www.youtube.com/@tomatoanus/) - Speedrun Breakdowns
