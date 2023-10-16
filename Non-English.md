@@ -1622,11 +1622,11 @@
 * [Dilo](https://www.dilo.nu/) - Movies / TV / Anime
 * [novelas360](https://novelas360.com/) - TV / Drama
 * [Tlnovelas](https://tlnovelas.net/) - TV / Drama
-* [Vix](https://www.vix.com/tv/) - TV
 * [asialiveaction](https://asialiveaction.com/) - Asian Drama
 * [doramasyt](https://www.doramasyt.com/) - Asian Drama
 * [DoramasMp4](https://doramasmp4.io/) - Asian Drama
 * [DramasEmisiones](https://t.me/dramasemisiones), [2](https://t.me/Imundodoramas) - Asian Drama / Telegram
+* [Vix](https://www.vix.com/tv/) - TV / Latino
 * [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV / Castilian
 * [Cine Libre Online](https://www.cinelibreonline.com/) - YouTube Movies
 * [LegalMentegratis](http://legalmentegratis.com/) - YouTube Movies
