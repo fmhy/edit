@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/PrQd7QD)** - For mobile users
+**[Table of Contents](https://ibb.co/mGG9NMJ)** - For mobile users
 
 ***
 *** 
@@ -270,6 +270,104 @@
 
 ***
 
+# ► Developer Tools
+
+* 🌐 **[Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin)** - System Admin Resources
+* 🌐 **[Awesome Microservices](https://github.com/mfornos/awesome-microservices)** - Microservice Architecture Resources
+* 🌐 **[Awesome Subreddits](https://github.com/iCHAIT/awesome-subreddits)** - Programming Subreddits
+* 🌐 **[Awesome Bots](https://github.com/DopplerHQ/awesome-bots)** - Developer Bot Index
+* 🌐 **[Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)** - Design Pattern Resources
+* 🌐 **[Awesome DataScience](https://github.com/academic/awesome-datascience)** or [Best Data Science Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources) - Data Science Resources
+* 🌐 **[Awesome Bug Bounty Builder](https://github.com/0xJin/awesome-bugbounty-builder)** or [Bug Bounty](https://github.com/sehno/Bug-bounty) - Bug Bounty Resources
+* ↪️ **[Developer Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_developer_tools)**
+* ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists
+* [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - Open Source Development Software
+* [DevToys](https://github.com/ObuchiYuki/DevToysMac) or [DevUtils](https://devutils.com/) - Mac Dev Tools
+* [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
+* [Mage](https://www.mage.ai/) - Data Science Pipelines
+* [Libera Chat](https://libera.chat/) - IRC Network for Project Collaboration
+* [DevDeals](https://www.devdeals.org/) - Free Tools / Promotions for Developers
+* [CodeProject](https://www.codeproject.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/)  - Developer Forum
+* [Tech-Blogs](https://tech-blogs.dev/) - Blogs for Developers
+* [The Devs Network](https://thedevs.network/) - Developer Chat
+* [StackShare](https://stackshare.io/) - Tech Stack Collaboration
+* [Codever](https://www.codever.dev/) - Bookmarks Manager for Developers
+* [sli.dev](https://sli.dev/) - Markdown to Slideshow
+* [Volume](https://www.volumestories.com/) - Create Immersive Reading Experiences
+* [daily.dev](https://daily.dev/) - Replace New Tab Page with Developer Articles
+* [Hunspell](https://github.com/hunspell/hunspell) - Spellchecking Library
+* [Media Chrome](https://www.media-chrome.org/) - Media Player Elements / [GitHub](https://github.com/muxinc/media-chrome)
+* [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - README Template 
+* [Read the Docs](https://readthedocs.org/), [MkDocs](https://www.mkdocs.org/), [Mintlify](https://mintlify.com/) or [mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - Documentation Creators / [Theme](https://github.com/squidfunk/mkdocs-material)
+* [Changie](https://changie.dev/) - Automated Changelog / [GitHub](https://github.com/miniscruff/changie)
+* [ChooseALicense](https://choosealicense.com/) - List of Open Source License's & Help Choosing Them 
+* [MKLicense](https://github.com/cezaraugusto/mklicense) - License Generation CLI
+* [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/) or [PrivacyLabel](https://www.privacylabel.org/) - Generate Privacy Policies
+* [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform
+* [Mysterium Network](https://www.mysterium.network/) - Open Web Protocols
+* [Webhook.site](https://webhook.site/) or [HookDeck](https://hookdeck.com/) - Webhook Tools
+* [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Draw Sequence Diagrams 
+* [ASCII Flow](https://asciiflow.com/) or [Tree](https://tree.nathanfriend.io/) - Create ASCII Diagrams
+* [Egui Node Graph](https://github.com/setzer22/egui_node_graph) or [litegraph.js](https://github.com/jagenjo/litegraph.js) - Build Node Graphs
+* [Gorse](https://github.com/gorse-io/gorse) - Universal Recommendation System
+* [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
+* [Deps.dev](https://deps.dev/) - Open Source Package Search
+* [pnpm](https://pnpm.io/) - Package Manager / Deployment
+* [WebInstall](https://webinstall.dev/) - Easily Install Dev Packages
+* [Balena](https://www.balena.io/) - Build / Manage  IoT Groups
+* [Authorizer](https://github.com/authorizerdev/authorizer) or [DefGuard](https://defguard.net/) - Developer Authentication Apps
+* [Infisical](https://infisical.com/) - Encrypted Secret Management Platform
+* [Earthly](https://earthly.dev/) - CD/CD Framework Pipeline
+* [Kubescape](https://github.com/kubescape/kubescape) - Kubernetes Tool
+* [Kubespray](https://github.com/kubernetes-sigs/kubespray) - Kubernetes Cluster
+* [Devtron](https://devtron.ai/) - Kubernetes Tool Integration
+* [Hajimari](https://hajimari.io/) - Kubernetes Startpage
+* [CFDocs](https://cfdocs.org/) - CFML Documentation Reference
+* [Input Delay Test](https://input-delay.glitch.me/) - Input Delay Experiment
+* [Asynchronous Messaging](https://github.com/clemensv/messaging) - Asynchronous Messaging Resources
+* [CoreFTP](http://www.coreftp.com/) - FTP Client
+* [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - Integrate Services with Discord
+* [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - Discord Code Blocks
+* [discord.py](https://github.com/Rapptz/discord.py), [Kord](https://github.com/kordlib/kord) or [Discord4J](https://discord4j.com/) - Discord API Wrapper
+* [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - Community Libraries for Discord API
+* [Javacord](https://javacord.org/) - Discord Bot Creation Library
+* [botwiki](https://botwiki.org/) - Learn How to Make Bots
+* [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - C++ Library for Discord
+* [rss-to-activitypub](https://portal.0svc.com/convert/) - RSS to ActivityPub Converter
+* [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
+* [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulator
+* [Tesseract](https://tesseract-ocr.github.io/) - Open Source OCR Engine / [GitHub](https://github.com/tesseract-ocr/tesseract)
+* [CLIP-as-service](https://github.com/jina-ai/clip-as-service) - Embed Images / Sentences via CLIP Models
+* [devSwag](https://devswag.io/) - Developer Giveaways
+
+***
+
+## ▷ Cheat Sheets
+
+* 🌐 **[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)**, [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
+* ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
+* ⭐ **[QuickRef.me](https://quickref.me/)**, [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
+* ⭐ **[30 Seconds of Code](https://www.30secondsofcode.org/)** or [HTML-Dom](https://phuoc.ng/collection/html-dom/) - Find Code Snippets
+* [Lepton](https://hackjutsu.com/Lepton/) - Code Snippet Manager / [GitHub](https://github.com/hackjutsu/Lepton)
+* [Google Cloud Developer's Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/) - Google Cloud Developer Cheat Sheet / [GitHub](https://github.com/priyankavergadia/google-cloud-4-words)
+* [Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - Code Algorithm Cheat Sheets
+* [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) or [SpeedSheet](https://speedsheet.io/) - Python Cheat Sheet
+* [cppreference](https://en.cppreference.com/w/) - C++ Cheat Sheets
+* [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app) - React Typescript Cheat Sheets
+* [Regex Hub](https://projects.lukehaas.me/regexhub/) or [IHateRegex](https://ihateregex.io/) - Regex Cheat Sheets
+* [SQL Cheat Sheet](https://i.ibb.co/Ctr0Tn8/e289a15e2246.jpg) - SQL Cheat Sheet
+* [CSS Cheat Sheet](https://docs.emmet.io/cheat-sheet/) or [CSS Tricks](https://css-tricks.com/snippets/) - CSS Cheat Sheet
+* [Easings](https://easings.net/) - CSS Animation Cheat Sheet
+* [BEM Cheat Sheet](https://bem-cheat-sheet.9elements.com/) - BEM Cheet Sheet 
+* [Vim Cheatsheet](https://i.ibb.co/FbdMMHN/460e75dd8543.png) or [rTorr](https://vim.rtorr.com/) - Vim Editor Cheat Sheets
+* [VimTip](https://vim.fandom.com/wiki/Category:VimTip) - Vim Editor Tips
+* [Underdash](https://surma.github.io/underdash/) - JS Snippets
+* [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
+* [HTML.com](https://html.com/) - HTML Guide / Cheat Sheet
+* [SEO Cheet Sheet](https://seo-cheat-sheet.9elements.com/) - SEO Cheet Sheet
+
+***
+
 ## ▷ Web Dev Tools
 
 * 🌐 **[Awesome Static Generators](https://github.com/myles/awesome-static-generators)** - Static Site Resources
@@ -477,7 +575,7 @@
 
 ***
 
-# ► Frontend
+## ▷ Frontend Tools
 
 * 🌐 **[Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation)** - Web Animation Resources
 * ↪️ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)**
@@ -541,102 +639,6 @@
 * [Floating UI](https://floating-ui.com/) - Floating UI Javascript
 * [Error404](https://error404.fun/) - Free 404 Pages
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
-
-# ► Developer Tools
-
-* 🌐 **[Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin)** - System Admin Resources
-* 🌐 **[Awesome Microservices](https://github.com/mfornos/awesome-microservices)** - Microservice Architecture Resources
-* 🌐 **[Awesome Subreddits](https://github.com/iCHAIT/awesome-subreddits)** - Programming Subreddits
-* 🌐 **[Awesome Bots](https://github.com/DopplerHQ/awesome-bots)** - Developer Bot Index
-* 🌐 **[Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)** - Design Pattern Resources
-* 🌐 **[Awesome DataScience](https://github.com/academic/awesome-datascience)** or [Best Data Science Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources) - Data Science Resources
-* 🌐 **[Awesome Bug Bounty Builder](https://github.com/0xJin/awesome-bugbounty-builder)** or [Bug Bounty](https://github.com/sehno/Bug-bounty) - Bug Bounty Resources
-* ↪️ **[Developer Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_developer_tools)**
-* ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists
-* [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - Open Source Development Software
-* [DevToys](https://github.com/ObuchiYuki/DevToysMac) or [DevUtils](https://devutils.com/) - Mac Dev Tools
-* [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
-* [Mage](https://www.mage.ai/) - Data Science Pipelines
-* [Libera Chat](https://libera.chat/) - IRC Network for Project Collaboration
-* [DevDeals](https://www.devdeals.org/) - Free Tools / Promotions for Developers
-* [CodeProject](https://www.codeproject.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/)  - Developer Forum
-* [Tech-Blogs](https://tech-blogs.dev/) - Blogs for Developers
-* [The Devs Network](https://thedevs.network/) - Developer Chat
-* [StackShare](https://stackshare.io/) - Tech Stack Collaboration
-* [Codever](https://www.codever.dev/) - Bookmarks Manager for Developers
-* [sli.dev](https://sli.dev/) - Markdown to Slideshow
-* [Volume](https://www.volumestories.com/) - Create Immersive Reading Experiences
-* [daily.dev](https://daily.dev/) - Replace New Tab Page with Developer Articles
-* [Hunspell](https://github.com/hunspell/hunspell) - Spellchecking Library
-* [Media Chrome](https://www.media-chrome.org/) - Media Player Elements / [GitHub](https://github.com/muxinc/media-chrome)
-* [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - README Template 
-* [Read the Docs](https://readthedocs.org/), [MkDocs](https://www.mkdocs.org/), [Mintlify](https://mintlify.com/) or [mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - Documentation Creators / [Theme](https://github.com/squidfunk/mkdocs-material)
-* [Changie](https://changie.dev/) - Automated Changelog / [GitHub](https://github.com/miniscruff/changie)
-* [ChooseALicense](https://choosealicense.com/) - List of Open Source License's & Help Choosing Them 
-* [MKLicense](https://github.com/cezaraugusto/mklicense) - License Generation CLI
-* [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/) or [PrivacyLabel](https://www.privacylabel.org/) - Generate Privacy Policies
-* [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform
-* [Mysterium Network](https://www.mysterium.network/) - Open Web Protocols
-* [Webhook.site](https://webhook.site/) or [HookDeck](https://hookdeck.com/) - Webhook Tools
-* [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Draw Sequence Diagrams 
-* [ASCII Flow](https://asciiflow.com/) or [Tree](https://tree.nathanfriend.io/) - Create ASCII Diagrams
-* [Egui Node Graph](https://github.com/setzer22/egui_node_graph) or [litegraph.js](https://github.com/jagenjo/litegraph.js) - Build Node Graphs
-* [Gorse](https://github.com/gorse-io/gorse) - Universal Recommendation System
-* [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
-* [Deps.dev](https://deps.dev/) - Open Source Package Search
-* [pnpm](https://pnpm.io/) - Package Manager / Deployment
-* [WebInstall](https://webinstall.dev/) - Easily Install Dev Packages
-* [Balena](https://www.balena.io/) - Build / Manage  IoT Groups
-* [Authorizer](https://github.com/authorizerdev/authorizer) or [DefGuard](https://defguard.net/) - Developer Authentication Apps
-* [Infisical](https://infisical.com/) - Encrypted Secret Management Platform
-* [Earthly](https://earthly.dev/) - CD/CD Framework Pipeline
-* [Kubescape](https://github.com/kubescape/kubescape) - Kubernetes Tool
-* [Kubespray](https://github.com/kubernetes-sigs/kubespray) - Kubernetes Cluster
-* [Devtron](https://devtron.ai/) - Kubernetes Tool Integration
-* [Hajimari](https://hajimari.io/) - Kubernetes Startpage
-* [CFDocs](https://cfdocs.org/) - CFML Documentation Reference
-* [Input Delay Test](https://input-delay.glitch.me/) - Input Delay Experiment
-* [Asynchronous Messaging](https://github.com/clemensv/messaging) - Asynchronous Messaging Resources
-* [CoreFTP](http://www.coreftp.com/) - FTP Client
-* [Discord Developer Portal](https://discord.com/developers/docs/topics/community-resources) - Integrate Services with Discord
-* [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - Discord Code Blocks
-* [discord.py](https://github.com/Rapptz/discord.py), [Kord](https://github.com/kordlib/kord) or [Discord4J](https://discord4j.com/) - Discord API Wrapper
-* [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - Community Libraries for Discord API
-* [Javacord](https://javacord.org/) - Discord Bot Creation Library
-* [botwiki](https://botwiki.org/) - Learn How to Make Bots
-* [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - C++ Library for Discord
-* [rss-to-activitypub](https://portal.0svc.com/convert/) - RSS to ActivityPub Converter
-* [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
-* [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulator
-* [Tesseract](https://tesseract-ocr.github.io/) - Open Source OCR Engine / [GitHub](https://github.com/tesseract-ocr/tesseract)
-* [CLIP-as-service](https://github.com/jina-ai/clip-as-service) - Embed Images / Sentences via CLIP Models
-* [devSwag](https://devswag.io/) - Developer Giveaways
-
-***
-
-## ▷ Cheat Sheets
-
-* 🌐 **[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)**, [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
-* ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
-* ⭐ **[QuickRef.me](https://quickref.me/)**, [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
-* ⭐ **[30 Seconds of Code](https://www.30secondsofcode.org/)** or [HTML-Dom](https://phuoc.ng/collection/html-dom/) - Find Code Snippets
-* [Lepton](https://hackjutsu.com/Lepton/) - Code Snippet Manager / [GitHub](https://github.com/hackjutsu/Lepton)
-* [Google Cloud Developer's Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/) - Google Cloud Developer Cheat Sheet / [GitHub](https://github.com/priyankavergadia/google-cloud-4-words)
-* [Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - Code Algorithm Cheat Sheets
-* [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) or [SpeedSheet](https://speedsheet.io/) - Python Cheat Sheet
-* [cppreference](https://en.cppreference.com/w/) - C++ Cheat Sheets
-* [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app) - React Typescript Cheat Sheets
-* [Regex Hub](https://projects.lukehaas.me/regexhub/) or [IHateRegex](https://ihateregex.io/) - Regex Cheat Sheets
-* [SQL Cheat Sheet](https://i.ibb.co/Ctr0Tn8/e289a15e2246.jpg) - SQL Cheat Sheet
-* [CSS Cheat Sheet](https://docs.emmet.io/cheat-sheet/) or [CSS Tricks](https://css-tricks.com/snippets/) - CSS Cheat Sheet
-* [Easings](https://easings.net/) - CSS Animation Cheat Sheet
-* [BEM Cheat Sheet](https://bem-cheat-sheet.9elements.com/) - BEM Cheet Sheet 
-* [Vim Cheatsheet](https://i.ibb.co/FbdMMHN/460e75dd8543.png) or [rTorr](https://vim.rtorr.com/) - Vim Editor Cheat Sheets
-* [VimTip](https://vim.fandom.com/wiki/Category:VimTip) - Vim Editor Tips
-* [Underdash](https://surma.github.io/underdash/) - JS Snippets
-* [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
-* [HTML.com](https://html.com/) - HTML Guide / Cheat Sheet
-* [SEO Cheet Sheet](https://seo-cheat-sheet.9elements.com/) - SEO Cheet Sheet
 
 ***
 
@@ -1403,4 +1405,3 @@
 * [PromptPapers](https://github.com/thunlp/PromptPapers) - Pre-Trained Language Model Tuning Papers
 * [VIAM](https://www.viam.com/) - Develop Robotics Projects
 * [Cyberbotics](https://cyberbotics.com/) - Robot Simulator
-
