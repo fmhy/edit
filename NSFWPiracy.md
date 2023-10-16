@@ -414,7 +414,7 @@
 * [ArcJav](https://arcjav.com/) - Japanese
 * [3XPlanet](https://3xplanet.com/) - Japanese
 * [JavLibrary](https://www.javlibrary.com/en/) - Japanese
-* [MixFemdomCC](https://mixfemdomcc.com/), [FetishFemdom](https://fetishfemdom.adult/), [FemdomZzz](https://femdomzzz.com/) or [FemdomUp](https://femdomup.net/) - Femdom Fetish
+* [Femdom Joi](https://femdom-joi.com/), [FemDomPlanet](https://femdomplanet.blogspot.com/) or [JoiVideos](https://joivideos.blogspot.com/) - Femdom Fetish
 * [CamVault](https://camvault.xyz/) - DL Chaturbate, MyFreeCams & CAM4 Recordings
 * [XXXTelegramBot](https://t.me/XXXTelegramBot) - Telegram
 * [altar_of_elders](https://t.me/altar_of_elders) - Telegram
