@@ -50,6 +50,7 @@
 * [Transfer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/) - LLM Timeline
 * [Falcon](https://huggingface.co/tiiuae/falcon-40b-instruct) - TII's Model
 * [ChatRWKV](https://huggingface.co/spaces/BlinkDL/ChatRWKV-gradio) - RWKV Based Chatbot / [Discord](https://discord.com/invite/bDSBUMeFpc)
+* [GlobalGPT](https://www.globalgpt.nspiketech.com/#/) - Modularized Chatbot
 * [LLaVA](https://llava.hliu.cc/) - Chatbot with Image Support / [GitHub](https://github.com/haotian-liu/LLaVA)
 * [StableLM](https://colab.research.google.com/github/Stability-AI/StableLM/blob/main/notebooks/stablelm-alpha.ipynb) - StabilityAI's Chatbot / [Github](https://github.com/stability-AI/stableLM/)
 * [Open Assistant](https://open-assistant.io/) - LAION's Chatbot / [Github](https://github.com/LAION-AI/Open-Assistant) / [Discord](https://discord.com/invite/H769HxZyb5)
