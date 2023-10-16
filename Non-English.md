@@ -1641,7 +1641,8 @@
 * [AnimeFénix](https://www.animefenix.tv/) - Anime
 * [TioAnime](https://tioanime.com/) - Anime
 * [HenaoJara](https://henaojara.com/) - Anime
-* [Animeflv.net](https://www3.animeflv.net/) - Anime
+* [AnimeFLV.net](https://www3.animeflv.net/) - Anime
+* [AnimeFLV.io](https://animeflv.io/) - Anime
 * [mundodonghua](https://www.mundodonghua.com/) - Anime
 * [animeonline](https://www1.animeonline.ninja/) - Anime
 * [OtakusTV](https://www1.otakustv.com/) - Anime
@@ -1651,7 +1652,6 @@
 * [animeblix](https://animeblix.com/) - Anime
 * [Anime Online Sub](https://www.animeonlinesub.com/) - Anime
 * [Monoschinos](https://monoschinos2.com/) - Anime
-* [AnimeFLV.io](https://animeflv.io/) - Anime
 * [serieslan](https://serieslan.com/) - Cartoons
 * [LACartoons](https://www.lacartoons.com/) - Cartoons
 * [Eventoshq](https://www.eventoshq.me/) - WWE
