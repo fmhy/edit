@@ -1702,6 +1702,8 @@
 * [scambertraslator](https://scambertraslator.com/) - Manga
 * [mangatigre](https://www.mangatigre.net/) - Manga
 * [olympusscan](https://olympusscan.top/) - Manga
+* [Leer Manga](https://r2.leermanga.xyz/) - Manga
+* [MangaCrab](https://manga-crab.com/) - Manga
 * [Nova](https://novelasligeras.net/) - Manga / Light Novels
 * [Izicomics](https://www.izicomics.com/) - Manga / Comics
 * [MegaComicsTV3](https://megacomicstv3.blogspot.com/) - Comics
