@@ -470,7 +470,7 @@
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - Menu Bar Toggle Switches
 * [Sloth](https://github.com/sveinbjornt/Sloth) - MacOS Process Manager
 * [pongoOS](https://github.com/checkra1n/pongoOS) - Mac Pre-Boot Executor
-* [Yabai](https://github.com/koekeishiya/yabai) or [Rectangle](https://rectangleapp.com/) - Window Tiling Apps
+* [Yabai](https://github.com/koekeishiya/yabai), [Spaces](https://spacesformac.xyz/) or [Rectangle](https://rectangleapp.com/) - Window Tiling Apps
 * [AlDente](https://github.com/davidwernhart/AlDente-Charge-Limiter) - MacOS Charging Manager
 * [Unlocker](https://github.com/paolo-projects/unlocker) - VMware Unlocker
 * [USBMap](https://github.com/corpnewt/USBMap) - Map MacOS USB Ports
