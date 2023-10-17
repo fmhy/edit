@@ -373,25 +373,13 @@
 * 🌐 **[Awesome Static Generators](https://github.com/myles/awesome-static-generators)** - Static Site Resources
 * 🌐 **[Awesome PHP](https://github.com/ziadoz/awesome-php)** - PHP Resources
 * 🌐 **[Awesome-Tunneling](https://github.com/anderspitman/awesome-tunneling)** - Tunneling Resources
-* 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resources
 * 🌐 **[Awesome list of secrets in environment variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables)** - Environment Variables Secrets 
 * ↪️ **[Website Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_creators)**
-* ↪️ **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
-* ↪️ **[Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)**
-* ↪️ **[Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools)**
 * ↪️ **[Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools)**
-* ↪️ **[Site Analytics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_analytics)**
 * ↪️ **[Search Engine Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_seo_tools)**
 * ↪️ **[Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes)**
 * ↪️ **[Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools)** 
-* ⭐ **[Offshore.CAT](https://offshore.cat/)** - DMCA Ignoring Hosting List
 * [Locutus](https://github.com/freenet/locutus) - Create Decentralized Site Apps
-* [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
-* [Sentora](https://sentora.org/) - Web Hosting Control Panel
-* [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
-* [GRC DNSBench](https://www.grc.com/dns/benchmark.htm) - DNS Benchmark
-* [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - HTTPS DoH Queries
-* [DNS Propagation](https://dnspropagation.net/) - DNS Checker
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
 * [CSSMatic](https://www.cssmatic.com/) - CSS Web Design Tools
 * [Sympli](https://sympli.io/), [AnimaApp](https://www.animaapp.com/) or [ZeroHeight](https://zeroheight.com/) - Development Collaboration Tool
@@ -438,18 +426,6 @@
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
 * [Easegress](https://github.com/megaease/easegress) - Traffic Orchestration System
 * [HITS](https://hits.seeyoufarm.com/) - Website Traffic Badges
-* [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) or [MetaTags](https://metatags.io/) - Meta Tag Generator
-* [BrandSnap](https://brandsnap.ai/), [atlaq](https://atlaq.com/), [AIconicDomain](https://aiconicdomain.com/), [namy.ai](https://namy.ai/), [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [IWantMyName](https://iwantmyname.com/), [expireddomains](https://www.expireddomains.net/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
-* [TinyDomain](https://tinydomain.net/) - Short Domain Suggestions
-* [DNForum](https://www.dnforum.com/) - Domain Name Forum
-* [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
-* [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
-* [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
-* [takingnames](https://takingnames.io/blog/instant-subdomains), [GetFreeDomain](https://www.getfreedomain.name/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains 
-* [TheDev](https://thedev.id/) - Free Developer Subdomains
-* [redirect.name](https://redirect.name/) - URL Forwarding
-* [StatPing](https://github.com/statping/statping), [checkthe.website](https://checkthe.website/), [Better Uptime](https://betterstack.com/better-uptime), [CheckServer](https://check-host.net/), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [AreWeDown?](https://github.com/shukriadams/arewedown), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - Site Uptime Monitors
-* [UseMe](https://useme.org/) or [PingDom](https://tools.pingdom.com) - Ping Website
 * [Measure](https://web.dev/measure/) - Site Functionality Test
 * [Site Inspector](https://www.getsiteinspector.com/) - Check Site for Spelling / Grammatical Errors
 * [UX Check](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) - Site Heuristic Evaluation
@@ -508,13 +484,6 @@
 * [StackWhats](https://stackwhats.com/) - Add Whatsapp Chat to Your Site
 * [Pay 2 Email](https://pay2.email/) - Simple Website Contact Form
 * [Twitcker](https://twitcker.com/) - Add Twitter Feed Ticker to Site
-* [HandShake](https://handshake.org/) - Decentralized Certificate Authority & Naming
-* [Hitch](https://hitch-tls.org/) - SSL / TLS Proxy
-* [Let's Encrypt](https://letsencrypt.org/) - Free TLS Certificates
-* [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
-* [mkcert](https://github.com/FiloSottile/mkcert) - Locally Trusted Development Certificates
-* [OpenSSL](https://www.openssl.org/) - SSL / TLS Toolkit
-* [SSL Config Generator](https://ssl-config.mozilla.org/) - Generate SSL Configurations
 * [MinIO](https://min.io/) or [Filebase](https://filebase.com/) - Cloud Native Object Storage
 * [Traefik](https://traefik.io/) - Cloud Native Stack
 * [Amazon S3](https://aws.amazon.com/s3) - Cloud Object Storage Amazon Simple Service Storage / [Desktop](https://s3browser.com/)
@@ -536,7 +505,6 @@
 * [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) - Web App UI Creators
 * [OffBase](https://offbase.org/) - Offline Web App Creator
 * [Laravel](https://laravel.com/) or [Lona](https://lona-web.org/1.x/) - Web App Framework
-* [Sandstorm](https://sandstorm.io/), [Cosmos](https://cosmos-cloud.io/) or [CloudRon](https://www.cloudron.io/) - Web App Hosts
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
 * [LightHouse](https://github.com/GoogleChrome/lighthouse) - Web App Performance Test
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
@@ -565,12 +533,6 @@
 * [faustjs](https://github.com/wpengine/faustjs) - Wordpress Framework
 * [Timber](https://upstatement.com/timber/) - WordPress Theme Creator / [GitHub](https://github.com/timber/timber)
 * [KokoAnalytics](https://www.kokoanalytics.com/) - Wordpress Analytics
-* [vichan](https://github.com/vichan-devel/vichan) or [overscript](https://overscript.net/) - Imageboard Hosting
-* [ProBoards](https://www.proboards.com/) - Forum & Imageboard Hosting
-* [MyBB](http://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - Forum Hosting
-* [Media Wiki](https://www.mediawiki.org/), [xWiki](http://www.xwiki.org/xwiki/bin/view/Main/), [tWiki ](https://twiki.org/), [DokuWiki](https://www.dokuwiki.org/dokuwiki), [Miraheze](https://miraheze.org/) or [Fandom](https://www.fandom.com/) - Host Free Wiki
-* [HumHub](https://www.humhub.com) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
-* [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Tracker Hosting
 * [UUID Tools](https://www.uuidtools.com/) - UUID Generator
 
 ***
@@ -639,6 +601,49 @@
 * [Floating UI](https://floating-ui.com/) - Floating UI Javascript
 * [Error404](https://error404.fun/) - Free 404 Pages
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
+
+***
+
+## ▷ Hosting Tools
+
+* 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resources
+* ↪️ **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
+* ↪️ **[Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)**
+* ↪️ **[Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools)**
+* ↪️ **[Site Analytics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_analytics)**
+* ⭐ **[Offshore.CAT](https://offshore.cat/)** - DMCA Ignoring Hosting List
+* [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
+* [Sentora](https://sentora.org/) - Web Hosting Control Panel
+* [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
+* [GRC DNSBench](https://www.grc.com/dns/benchmark.htm) - DNS Benchmark
+* [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - HTTPS DoH Queries
+* [DNS Propagation](https://dnspropagation.net/) - DNS Checker
+* [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) or [MetaTags](https://metatags.io/) - Meta Tag Generator
+* [BrandSnap](https://brandsnap.ai/), [atlaq](https://atlaq.com/), [AIconicDomain](https://aiconicdomain.com/), [namy.ai](https://namy.ai/), [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [IWantMyName](https://iwantmyname.com/), [expireddomains](https://www.expireddomains.net/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
+* [TinyDomain](https://tinydomain.net/) - Short Domain Suggestions
+* [DNForum](https://www.dnforum.com/) - Domain Name Forum
+* [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
+* [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
+* [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
+* [takingnames](https://takingnames.io/blog/instant-subdomains), [GetFreeDomain](https://www.getfreedomain.name/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains 
+* [TheDev](https://thedev.id/) - Free Developer Subdomains
+* [redirect.name](https://redirect.name/) - URL Forwarding
+* [StatPing](https://github.com/statping/statping), [checkthe.website](https://checkthe.website/), [Better Uptime](https://betterstack.com/better-uptime), [CheckServer](https://check-host.net/), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [AreWeDown?](https://github.com/shukriadams/arewedown), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - Site Uptime Monitors
+* [UseMe](https://useme.org/) or [PingDom](https://tools.pingdom.com) - Ping Website
+* [HandShake](https://handshake.org/) - Decentralized Certificate Authority & Naming
+* [Hitch](https://hitch-tls.org/) - SSL / TLS Proxy
+* [Let's Encrypt](https://letsencrypt.org/) - Free TLS Certificates
+* [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
+* [mkcert](https://github.com/FiloSottile/mkcert) - Locally Trusted Development Certificates
+* [OpenSSL](https://www.openssl.org/) - SSL / TLS Toolkit
+* [SSL Config Generator](https://ssl-config.mozilla.org/) - Generate SSL Configurations
+* [Sandstorm](https://sandstorm.io/), [Cosmos](https://cosmos-cloud.io/) or [CloudRon](https://www.cloudron.io/) - Web App Hosts
+* [vichan](https://github.com/vichan-devel/vichan) or [overscript](https://overscript.net/) - Imageboard Hosting
+* [ProBoards](https://www.proboards.com/) - Forum & Imageboard Hosting
+* [MyBB](http://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - Forum Hosting
+* [Media Wiki](https://www.mediawiki.org/), [xWiki](http://www.xwiki.org/xwiki/bin/view/Main/), [tWiki ](https://twiki.org/), [DokuWiki](https://www.dokuwiki.org/dokuwiki), [Miraheze](https://miraheze.org/) or [Fandom](https://www.fandom.com/) - Host Free Wiki
+* [HumHub](https://www.humhub.com) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
+* [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Tracker Hosting
 
 ***
 
