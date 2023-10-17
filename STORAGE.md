@@ -1970,7 +1970,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ## Portable Apps
 
-[PortableApps.com](https://portableapps.com/), [Portapps](https://portapps.io/), [FC Portables](https://www.fcportables.com/), [Portable Freeware](https://www.portablefreeware.com/), [Windows Portable Apps](https://windowsportableapps.blogspot.com/), [PortableAppZ](https://portableappz.blogspot.com/)
+[PortableApps.com](https://portableapps.com/), [Portapps](https://portapps.io/), [FC Portables](https://www.fcportables.com/), [Windows Portable Apps](https://windowsportableapps.blogspot.com/), [PortableAppZ](https://portableappz.blogspot.com/)
 
 ***
 
