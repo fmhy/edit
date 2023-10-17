@@ -1561,7 +1561,7 @@
 * [N+2](https://nmasmas2.blogspot.com/) - Animated Movies / Cartoons
 * [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)
 * [Niroqui](https://niroqui.com/) - Courses
-* [Descargar De Todo](https://pasteprivado.blogspot.com/) - Courses / [Bypasser script](https://greasyfork.org/en/scripts/462492-bypass-some-spanish-link-shorteners)
+* [Cursos En Mega](https://t.me/s/cursosenmega) - Courses
 
 ## ▷ Torrenting
 
