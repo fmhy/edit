@@ -376,6 +376,7 @@
 * [Fake Music Generator](https://www.fakemusicgenerator.com/)
 * [Jingle](https://aidn.jp/jingle/)
 * [BeatOven](https://www.beatoven.ai/)
+* [Waveformer](https://waveformer.replicate.dev/)
 * [SoundDraw](https://soundraw.io/)
 * [Aiva](https://aiva.ai/)
 * [Boomy](https://boomy.com/)
