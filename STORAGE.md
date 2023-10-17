@@ -3316,7 +3316,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ### Telegram Wallpaper Channels
 
-[wallpapers](https://t.me/wallpapers/), [ull_HD_4K_wallpapers](https://t.me/Full_HD_4K_wallpapers/), [WallpapersGram](https://t.me/WallpapersGram/), [picsart_hd_background](https://t.me/picsart_hd_background), [Anime_WallpapersHD](https://t.me/Anime_WallpapersHD/), [allwallpaper](https://t.me/allwallpaper), [Wallpaper](https://t.me/Wallpaper), [ZedgeImagesBot](https://t.me/ZedgeImagesBot), [picsart_hd_background](https://t.me/picsart_hd_background), [wallpaperselection](https://t.me/wallpaperselection), [Hk3To](https://t.me/Hk3To), [G_Walls](https://t.me/G_Walls), [EZwalls](https://t.me/EZwalls), [pengwyn](https://t.me/pengwyn), [wallpapersite](https://www.wallpapersite.com/)
+[wallpapers](https://t.me/wallpapers/), [ull_HD_4K_wallpapers](https://t.me/Full_HD_4K_wallpapers/), [WallpapersGram](https://t.me/WallpapersGram/), [Anime_WallpapersHD](https://t.me/Anime_WallpapersHD/), [allwallpaper](https://t.me/allwallpaper), [Wallpaper](https://t.me/Wallpaper), [ZedgeImagesBot](https://t.me/ZedgeImagesBot), [picsart_hd_background](https://t.me/picsart_hd_background), [wallpaperselection](https://t.me/wallpaperselection), [Hk3To](https://t.me/Hk3To), [G_Walls](https://t.me/G_Walls), [EZwalls](https://t.me/EZwalls), [pengwyn](https://t.me/pengwyn), [wallpapersite](https://www.wallpapersite.com/)
 
 ### Animated Wallpapers
 
