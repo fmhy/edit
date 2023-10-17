@@ -1530,7 +1530,6 @@
 * [La Taberna Del Cangrejo](http://www.latabernadelcangrejo.eu/) - Video / Audio
 * [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / Latino / Castilian
 * [SomosMovies](https://somosmovies.com/) - Movies / TV
-* [SeiresHD](https://serieslandia.com/), [2](https://seireshd.com/) - Movies / TV / Animation / [Telegram](https://t.me/joinchat/XOpQX51f2-tmOTBh)
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries
 * [DLShared](https://dlshareds.blogspot.com/?m=1) - Movies / Music
 * [CompucaliTV](https://www.compucalitv.com/) - Movies / TV / Latino
@@ -1539,6 +1538,7 @@
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation
+* [SeiresHD](https://serieslandia.com/), [2](https://seireshd.com/) - Movies / TV / Animation / [Bypasser script](https://greasyfork.org/en/scripts/477591-bypass-seireshd-com-serieslandia-com-short-link-ad-paywall/code)
 * [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram / Latino
 * [DramasEmisiones](https://t.me/dramasemisiones), [2](https://t.me/Imundodoramas) - Asian Drama / Telegram
 * [RetroCanal](https://retrocanal.net/) - Classical Movies / TV
