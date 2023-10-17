@@ -480,6 +480,7 @@
 * [MousePoint](https://creativetechguy.com/mousepoint) - Mouse Pointing Game
 * [FindTwin](https://github.com/klimaleksus/FindTwin) - Find the Twins
 * [Spot the Differences](https://www.spotthedifference.com/) - Find the Differences
+* [Kuku Kube](https://kuku-kube.com/) - Find the Different Squares
 * [Find the Invisible Cow](http://www.findtheinvisiblecow.com/) - Find an Invisible Cow with Sound
 * [Alternate History Simulator](http://abw.blue/) - Write Alternate History 
 * [NationStates](https://www.nationstates.net/) - Nation Simulation Game 
