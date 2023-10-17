@@ -505,6 +505,7 @@
 * [ETHW](https://ethw.org/) - Engineering and Technology History Wiki
 * [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive
 * [The Morgan Library Museum](https://www.themorgan.org/music) or [DIAMM](https://www.diamm.ac.uk/) - Musical Manuscripts
+* [HornTip](https://www.horntip.com/) - Military Songbooks
 * [Lee B. Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#lee-b-drive) - Black History Books
 * [NASA History](https://history.nasa.gov/series95.html) - NASA History Books
 * [De Re Militari](https://deremilitari.org/articles/) - Medieval Military History
