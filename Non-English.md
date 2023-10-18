@@ -1680,7 +1680,6 @@
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
 * [BladeMaster666](https://blademaster666.com/) - Newspapers / Magazines / Spain / NSFW
 * [FreeLibros](https://www.freelibros.net/) - Textbooks / Books / Audiobooks / Magazines / Courses / Documentaries
-* [El Solucionario](https://www.elsolucionario.org/) - Textbooks
 * [Librotecarios](https://librotecarios.blogspot.com/) - Textbooks
 * [Libros de la Nube](https://librosdelanube.blogspot.com/) - Textbooks
 * [booksmedicos](https://booksmedicos.org/) - Medical Textbooks
