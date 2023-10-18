@@ -838,7 +838,7 @@
 
 ## ▷ Manga Sites
 
-* 🌐 **[Wotaku](https://wotaku.its.moe/)**, [2](https://wotaku.pages.dev/), [3](https://wotaku.netlify.app/) - Japanese Piracy Index
+🌐 **[Wotaku](https://wotaku.moe/)** - Japanese Piracy Index / [Discord](https://discord.wotaku.moe/)
 * 🌐 **[The Index](https://theindex.moe)** - Japanese Media Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * ↪️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
 * ↪️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
