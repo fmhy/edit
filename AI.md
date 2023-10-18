@@ -195,7 +195,6 @@
 * [Essaytyper](http://www.essaytyper.com/) - Essay Writing AI
 * [papertyper](https://papertyper.net/) - Essay Writing AI
 * [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/) - Essay Writing AI
-* [PerfectEssayWriter](https://www.perfectessaywriter.ai/) - Essay Writing AI
 * [Textero](https://www.textero.ai/) - Essay Writing AI
 * [EssayBuilder](https://essay-builder.ai/) - Essay Writing AI
 * [EssayService](https://www.essayservice.ai/) - Essay Writing AI
@@ -239,7 +238,6 @@
 ***
 
 * ⭐ **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** / [Github](https://github.com/Stability-AI/stablediffusion) / [Discord](https://discord.com/invite/stablediffusion)
-* ⭐ **[Fooocus](https://github.com/lllyasviel/Fooocus)** / [Colab](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/colab/colab.ipynb)
 * [Kandinsky2](https://fusionbrain.ai/diffusion) / [Github](https://github.com/ai-forever/ru-dalle) / [Demo](https://rudalle.ru/kandinsky2)
 * [Adobe Firefly](https://firefly.adobe.com/) / [Discord](https://discord.com/invite/dJnsV5s8PZ) / Sign-Up Required
 * [Craiyon](https://www.craiyon.com/) / [Github](https://github.com/borisdayma/dalle-mini) / [Colab](https://colab.research.google.com/github/borisdayma/dalle-mini/blob/main/tools/inference/inference_pipeline.ipynb)
@@ -266,7 +264,8 @@
 ## ▷ Local Frontends
 
 * ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** / [Fork](https://github.com/anapnoe/stable-diffusion-webui-ux) / [Collab](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) / [Photoshop Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) / [Templates](https://github.com/ThereforeGames/unprompted)
-* [InvokeAI](https://github.com/invoke-ai/InvokeAI) / [Discord](https://discord.com/invite/ZmtBAhwWhy)
+* ⭐ **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** / [Discord](https://discord.com/invite/ZmtBAhwWhy)
+* ⭐ **[Fooocus](https://github.com/lllyasviel/Fooocus)** / [Colab](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/colab/colab.ipynb)
 * [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 * [StableStudio](https://github.com/Stability-AI/StableStudio)
 * [Easy Diffusion](https://stable-diffusion-ui.github.io/)
