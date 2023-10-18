@@ -1579,6 +1579,7 @@
 * [DiXvA](https://www.dixva.com/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
 * [Zonatorrent](https://zonatorrent.in/) - Movies / TV / Castilian / [Bypasser script](https://greasyfork.org/en/scripts/462510-spanish-torrent-sites-short-link-bypasser)
 * [Frozen-Layer](https://www.frozen-layer.com/) - Anime
+* [unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Akiba-kei](http://akiba-team.org/) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
 * [El Plan](https://hackmd.io/@w8tAmGnzT-qbgHkemaly6A/SEGUNDA-PARTE), [2](https://www.reddit.com/user/No_Land656) - Live Sports Acestream IDs
