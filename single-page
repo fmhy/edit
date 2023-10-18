@@ -4134,7 +4134,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/mGG9NMJ)** - For mobile users
+**[Table of Contents](https://ibb.co/Yykszjp)** - For mobile users
 
 ***
 *** 
@@ -4503,28 +4503,13 @@
 * 🌐 **[Awesome Static Generators](https://github.com/myles/awesome-static-generators)** - Static Site Resources
 * 🌐 **[Awesome PHP](https://github.com/ziadoz/awesome-php)** - PHP Resources
 * 🌐 **[Awesome-Tunneling](https://github.com/anderspitman/awesome-tunneling)** - Tunneling Resources
-* 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resources
 * 🌐 **[Awesome list of secrets in environment variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables)** - Environment Variables Secrets 
 * ↪️ **[Website Creators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_creators)**
-* ↪️ **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
-* ↪️ **[Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)**
-* ↪️ **[Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools)**
 * ↪️ **[Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools)**
-* ↪️ **[Site Analytics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_analytics)**
 * ↪️ **[Search Engine Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_seo_tools)**
-* ↪️ **[Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes)**
 * ↪️ **[Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools)** 
-* ⭐ **[Offshore.CAT](https://offshore.cat/)** - DMCA Ignoring Hosting List
 * [Locutus](https://github.com/freenet/locutus) - Create Decentralized Site Apps
-* [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
-* [Sentora](https://sentora.org/) - Web Hosting Control Panel
-* [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
-* [GRC DNSBench](https://www.grc.com/dns/benchmark.htm) - DNS Benchmark
-* [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - HTTPS DoH Queries
-* [DNS Propagation](https://dnspropagation.net/) - DNS Checker
 * [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
-* [CSSMatic](https://www.cssmatic.com/) - CSS Web Design Tools
-* [Sympli](https://sympli.io/), [AnimaApp](https://www.animaapp.com/) or [ZeroHeight](https://zeroheight.com/) - Development Collaboration Tool
 * [Grav](https://getgrav.org/) - Flat-File CMS
 * [Flux](https://www.runonflux.io/) - Decentralized Cloud Infrastructure
 * [URLPages](https://github.com/jstrieb/urlpages) - Store Entire Pages in URLs
@@ -4568,18 +4553,6 @@
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
 * [Easegress](https://github.com/megaease/easegress) - Traffic Orchestration System
 * [HITS](https://hits.seeyoufarm.com/) - Website Traffic Badges
-* [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) or [MetaTags](https://metatags.io/) - Meta Tag Generator
-* [BrandSnap](https://brandsnap.ai/), [atlaq](https://atlaq.com/), [AIconicDomain](https://aiconicdomain.com/), [namy.ai](https://namy.ai/), [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [IWantMyName](https://iwantmyname.com/), [expireddomains](https://www.expireddomains.net/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
-* [TinyDomain](https://tinydomain.net/) - Short Domain Suggestions
-* [DNForum](https://www.dnforum.com/) - Domain Name Forum
-* [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
-* [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
-* [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
-* [takingnames](https://takingnames.io/blog/instant-subdomains), [GetFreeDomain](https://www.getfreedomain.name/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains 
-* [TheDev](https://thedev.id/) - Free Developer Subdomains
-* [redirect.name](https://redirect.name/) - URL Forwarding
-* [StatPing](https://github.com/statping/statping), [checkthe.website](https://checkthe.website/), [Better Uptime](https://betterstack.com/better-uptime), [CheckServer](https://check-host.net/), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [AreWeDown?](https://github.com/shukriadams/arewedown), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - Site Uptime Monitors
-* [UseMe](https://useme.org/) or [PingDom](https://tools.pingdom.com) - Ping Website
 * [Measure](https://web.dev/measure/) - Site Functionality Test
 * [Site Inspector](https://www.getsiteinspector.com/) - Check Site for Spelling / Grammatical Errors
 * [UX Check](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) - Site Heuristic Evaluation
@@ -4638,13 +4611,6 @@
 * [StackWhats](https://stackwhats.com/) - Add Whatsapp Chat to Your Site
 * [Pay 2 Email](https://pay2.email/) - Simple Website Contact Form
 * [Twitcker](https://twitcker.com/) - Add Twitter Feed Ticker to Site
-* [HandShake](https://handshake.org/) - Decentralized Certificate Authority & Naming
-* [Hitch](https://hitch-tls.org/) - SSL / TLS Proxy
-* [Let's Encrypt](https://letsencrypt.org/) - Free TLS Certificates
-* [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
-* [mkcert](https://github.com/FiloSottile/mkcert) - Locally Trusted Development Certificates
-* [OpenSSL](https://www.openssl.org/) - SSL / TLS Toolkit
-* [SSL Config Generator](https://ssl-config.mozilla.org/) - Generate SSL Configurations
 * [MinIO](https://min.io/) or [Filebase](https://filebase.com/) - Cloud Native Object Storage
 * [Traefik](https://traefik.io/) - Cloud Native Stack
 * [Amazon S3](https://aws.amazon.com/s3) - Cloud Object Storage Amazon Simple Service Storage / [Desktop](https://s3browser.com/)
@@ -4666,7 +4632,6 @@
 * [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) - Web App UI Creators
 * [OffBase](https://offbase.org/) - Offline Web App Creator
 * [Laravel](https://laravel.com/) or [Lona](https://lona-web.org/1.x/) - Web App Framework
-* [Sandstorm](https://sandstorm.io/), [Cosmos](https://cosmos-cloud.io/) or [CloudRon](https://www.cloudron.io/) - Web App Hosts
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
 * [LightHouse](https://github.com/GoogleChrome/lighthouse) - Web App Performance Test
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
@@ -4695,12 +4660,6 @@
 * [faustjs](https://github.com/wpengine/faustjs) - Wordpress Framework
 * [Timber](https://upstatement.com/timber/) - WordPress Theme Creator / [GitHub](https://github.com/timber/timber)
 * [KokoAnalytics](https://www.kokoanalytics.com/) - Wordpress Analytics
-* [vichan](https://github.com/vichan-devel/vichan) or [overscript](https://overscript.net/) - Imageboard Hosting
-* [ProBoards](https://www.proboards.com/) - Forum & Imageboard Hosting
-* [MyBB](http://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - Forum Hosting
-* [Media Wiki](https://www.mediawiki.org/), [xWiki](http://www.xwiki.org/xwiki/bin/view/Main/), [tWiki ](https://twiki.org/), [DokuWiki](https://www.dokuwiki.org/dokuwiki), [Miraheze](https://miraheze.org/) or [Fandom](https://www.fandom.com/) - Host Free Wiki
-* [HumHub](https://www.humhub.com) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
-* [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Tracker Hosting
 * [UUID Tools](https://www.uuidtools.com/) - UUID Generator
 
 ***
@@ -4710,6 +4669,7 @@
 * 🌐 **[Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation)** - Web Animation Resources
 * ↪️ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)**
 * ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources)** or [Open Source Design](https://opensourcedesign.net/)
+* ↪️ **[Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes)**
 * ⭐ **[Front-End Checklist](https://frontendchecklist.io/)** - Front-End Development Checklist
 * [Screenshot to Code](https://github.com/emilwallner/Screenshot-to-code) - Generate Site Mockups / Code via Screenshots
 * [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - Brand Design Tools
@@ -4769,6 +4729,49 @@
 * [Floating UI](https://floating-ui.com/) - Floating UI Javascript
 * [Error404](https://error404.fun/) - Free 404 Pages
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
+
+***
+
+## ▷ Hosting Tools
+
+* 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resources
+* ↪️ **[Free Webhosting Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_webhosting_sites)**
+* ↪️ **[Free DNS Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_servers)**
+* ↪️ **[Domain Info Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_domain_info_tools)**
+* ↪️ **[Site Analytics](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_site_analytics)**
+* ⭐ **[Offshore.CAT](https://offshore.cat/)** - DMCA Ignoring Hosting List
+* [GoodBadISPs](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/GoodBadISPs) - Best ISPs for Tor Hosting
+* [Sentora](https://sentora.org/) - Web Hosting Control Panel
+* [DNSPerf](https://www.dnsperf.com/dns-providers-list/) - DNS Provider Rankings
+* [GRC DNSBench](https://www.grc.com/dns/benchmark.htm) - DNS Benchmark
+* [DNS over HTTPS](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - HTTPS DoH Queries
+* [DNS Propagation](https://dnspropagation.net/) - DNS Checker
+* [Meta Tag Gen](https://lewdev.github.io/apps/meta-tag-gen/) or [MetaTags](https://metatags.io/) - Meta Tag Generator
+* [BrandSnap](https://brandsnap.ai/), [atlaq](https://atlaq.com/), [AIconicDomain](https://aiconicdomain.com/), [namy.ai](https://namy.ai/), [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [IWantMyName](https://iwantmyname.com/), [expireddomains](https://www.expireddomains.net/) or [Domainr](https://domainr.com/) - Domain Availability Checkers
+* [TinyDomain](https://tinydomain.net/) - Short Domain Suggestions
+* [DNForum](https://www.dnforum.com/) - Domain Name Forum
+* [WorthBuck](https://worthbuck.com/) or [SitePriace](https://www.siteprice.org/) - Domain Price Estimations
+* [HaveIBeenSquatted](https://haveibeensquatted.com) - Typosquatting Discovery Tool
+* [iana](https://www.iana.org/), [arin](https://www.arin.net/), [lacnic](https://www.lacnic.net/), [afrinic](https://www.afrinic.net/) or [apnic](https://www.apnic.net/) - Internet Registry Sites
+* [takingnames](https://takingnames.io/blog/instant-subdomains), [GetFreeDomain](https://www.getfreedomain.name/) or [EU.org](https://nic.eu.org/) / [2](https://nic.ua/en/domains/.pp.ua) - Free Subdomains 
+* [TheDev](https://thedev.id/) - Free Developer Subdomains
+* [redirect.name](https://redirect.name/) - URL Forwarding
+* [StatPing](https://github.com/statping/statping), [checkthe.website](https://checkthe.website/), [Better Uptime](https://betterstack.com/better-uptime), [CheckServer](https://check-host.net/), [Uptime Kuma](https://github.com/louislam/uptime-kuma), [AreWeDown?](https://github.com/shukriadams/arewedown), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - Site Uptime Monitors
+* [UseMe](https://useme.org/) or [PingDom](https://tools.pingdom.com) - Ping Website
+* [HandShake](https://handshake.org/) - Decentralized Certificate Authority & Naming
+* [Hitch](https://hitch-tls.org/) - SSL / TLS Proxy
+* [Let's Encrypt](https://letsencrypt.org/) - Free TLS Certificates
+* [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
+* [mkcert](https://github.com/FiloSottile/mkcert) - Locally Trusted Development Certificates
+* [OpenSSL](https://www.openssl.org/) - SSL / TLS Toolkit
+* [SSL Config Generator](https://ssl-config.mozilla.org/) - Generate SSL Configurations
+* [Sandstorm](https://sandstorm.io/), [Cosmos](https://cosmos-cloud.io/) or [CloudRon](https://www.cloudron.io/) - Web App Hosts
+* [vichan](https://github.com/vichan-devel/vichan) or [overscript](https://overscript.net/) - Imageboard Hosting
+* [ProBoards](https://www.proboards.com/) - Forum & Imageboard Hosting
+* [MyBB](http://www.mybb.com/), [FreeFlarum](https://freeflarum.com/) or [PHPBB](https://www.phpbb.com/) - Forum Hosting
+* [Media Wiki](https://www.mediawiki.org/), [xWiki](http://www.xwiki.org/xwiki/bin/view/Main/), [tWiki ](https://twiki.org/), [DokuWiki](https://www.dokuwiki.org/dokuwiki), [Miraheze](https://miraheze.org/) or [Fandom](https://www.fandom.com/) - Host Free Wiki
+* [HumHub](https://www.humhub.com) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
+* [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Tracker Hosting
 
 ***
 
@@ -7892,6 +7895,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
 * [jidoujisho](https://github.com/lrorpilla/jidoujisho), [LearnNatively](https://learnnatively.com/) or [Manabi](https://reader.manabi.io/) - Learn Japanese via Books
+* [HayILearn](https://www.hayailearn.com/) - Learn Japanese via YouTube
 * [Memento](https://github.com/ripose-jp/Memento) - Japanese Learning Video Player
 * [JapaneseWithAnime](https://www.japanesewithanime.com/) - Learn Japanese with Anime
 * [Daily leisurely Japanese teacher](https://nihongonosensei.net/) - Japanese Practice Material
@@ -13036,8 +13040,8 @@ pass: paluch
 
 ## ▷ Proxy Apps
 
-* ⭐ **[Psiphon](https://psiphon.ca/)** - Free Proxy / VPN / [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png)
 * ⭐ **[Lantern](https://lantern.io/)** - Free Proxy / VPN
+* ⭐ **[Psiphon](https://psiphon.ca/)** - Free Proxy / VPN / [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png)
 * ⭐ **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel), [NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) or [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy) / [Test](https://www.howsmyssl.com/) - DPI Circumvention Local Proxies
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/enable-ech)** - Bypass ISP censorship with Firefox
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service
@@ -18704,7 +18708,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Chipscribe](https://chipscribe.com/) - Split Service Subscription Costs Anonymously 
 * [StockInformer](https://www.stockinformer.com/) - Product Stock Notifications
 * [GiftWhale](https://giftwhale.com/) or [Wishlephant](https://wishlephant.com/) - Wish-list Creators
-* [Microsoft Rewards Generator](https://greasyfork.org/en/scripts/457702), [2](https://github.com/jack-mil/bing-rewards), [3](https://github.com/farshadz1997/Microsoft-Rewards-bot-GUI-V2), [4](https://github.com/Tom60chat/Microsoft-Rewards-Farmer-Sharp), [5](https://github.com/3kh0/bing-rewards), [6](https://github.com/Prem-ium/BingRewards) - Automate Microsoft Reward Points
+* [Microsoft Rewards Generator](https://greasyfork.org/en/scripts/457702), [2](https://github.com/jack-mil/bing-rewards), [3](https://github.com/3kh0/bing-rewards) - Automate Microsoft Reward Points
 * [Wii Shop Extension](https://github.com/corbindavenport/wii-shop-extension) - Play Nintendo Shop Music on Shopping Sites
 * [Ooak Finder](https://www.ooakfinder.com/) - Product Reverse Image Search
 * [Desenmascara](https://desenmascara.me/) - Spot Counterfeit Sites
@@ -20673,7 +20677,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [La Taberna Del Cangrejo](http://www.latabernadelcangrejo.eu/) - Video / Audio
 * [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / Latino / Castilian
 * [SomosMovies](https://somosmovies.com/) - Movies / TV
-* [SeiresHD](https://serieslandia.com/), [2](https://seireshd.com/) - Movies / TV / Animation / [Telegram](https://t.me/joinchat/XOpQX51f2-tmOTBh)
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries
 * [DLShared](https://dlshareds.blogspot.com/?m=1) - Movies / Music
 * [CompucaliTV](https://www.compucalitv.com/) - Movies / TV / Latino
@@ -20682,6 +20685,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
 * [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation
+* [SeiresHD](https://serieslandia.com/), [2](https://seireshd.com/) - Movies / TV / Animation / Latino / [Bypasser script](https://greasyfork.org/en/scripts/477591-bypass-seireshd-com-serieslandia-com-short-link-ad-paywall)
 * [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram / Latino
 * [DramasEmisiones](https://t.me/dramasemisiones), [2](https://t.me/Imundodoramas) - Asian Drama / Telegram
 * [RetroCanal](https://retrocanal.net/) - Classical Movies / TV
@@ -20704,7 +20708,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [N+2](https://nmasmas2.blogspot.com/) - Animated Movies / Cartoons
 * [Spanish Anime Telegram Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spanish_anime_telegram)
 * [Niroqui](https://niroqui.com/) - Courses
-* [Descargar De Todo](https://pasteprivado.blogspot.com/) - Courses / [Bypasser script](https://greasyfork.org/en/scripts/462492-bypass-some-spanish-link-shorteners)
+* [Cursos En Mega](https://t.me/s/cursosenmega) - Courses
 
 ## ▷ Torrenting
 
