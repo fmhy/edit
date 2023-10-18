@@ -1545,7 +1545,7 @@
 * [DCC](https://cineclasicodcc.com/) - Classical Movies / TV
 * [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV / ED2K Links
 * [RebeldeMule](https://www.rebeldemule.org/) - Movies / Classics / TV / Documentaries / Reading / ED2K Links / [Telegram](https://telegram.me/rebeldemule)
-* [exploradoresp2p](http://exploradoresp2p.com/) - Movies / Classics / TV / Documentaries / ED2K Links / [Telegram](https://t.me/+fLbhvUbvrZwzYmI0)
+* [exploradoresp2p](https://exploradoresp2p.com/) - Movies / Classics / TV / Documentaries / ED2K Links / [Telegram](https://t.me/+fLbhvUbvrZwzYmI0)
 * [HispaMula](https://www.hispamula.club/) - Movies / Classics / TV / Documentaries / ED2K Links / [Telegram](https://t.me/HispaMulaCLUB) / Castilian
 * [Descargar videos de la tele](https://eljaviero.com/descargarvideosdelatele/) - TV / [Telegram](https://t.me/joinchat/DVUy6EgTA_kZnc3KAaVItg) / Castilian
 * [Ninjin Anime](https://ninjinanime.com/) - Anime
@@ -1579,7 +1579,6 @@
 * [DiXvA](https://www.dixva.com/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
 * [Zonatorrent](https://zonatorrent.in/) - Movies / TV / Castilian / [Bypasser script](https://greasyfork.org/en/scripts/462510-spanish-torrent-sites-short-link-bypasser)
 * [Frozen-Layer](https://www.frozen-layer.com/) - Anime
-* [unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Akiba-kei](http://akiba-team.org/) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
 * [El Plan](https://hackmd.io/@w8tAmGnzT-qbgHkemaly6A/SEGUNDA-PARTE), [2](https://www.reddit.com/user/No_Land656) - Live Sports Acestream IDs
@@ -1644,7 +1643,7 @@
 * [AnimeFLV.net](https://www3.animeflv.net/) - Anime
 * [AnimeFLV.io](https://animeflv.io/) - Anime
 * [mundodonghua](https://www.mundodonghua.com/) - Anime
-* [animeonline](https://www1.animeonline.ninja/) - Anime
+* [animeonline](https://ww3.animeonline.ninja/) - Anime
 * [OtakusTV](https://www1.otakustv.com/) - Anime
 * [ytanime](https://ytanime.tv/) - Anime
 * [AnimeID](https://www.animeid.tv/) - Anime
