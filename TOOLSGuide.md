@@ -1117,22 +1117,19 @@
 
 * 🌐 **[Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse)** - Fediverse Resources
 * ↪️ **[Mastodon Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mastodon_tools)**
-* ⭐ **[Mastodon](https://joinmastodon.org/)**
-* ⭐ **[Lemmy](https://join-lemmy.org/)** /  [Stats](https://the-federation.info/), [2](https://fedidb.org/)
+* ⭐ **[Fediverse](https://fediverse.party/)**, [Fediverse.space](https://fediverse.space/), [sub.rehab](https://sub.rehab/)  or [Fediverse Observer](https://mastodon.fediverse.observer/) - Fediverse Instance Search
 * ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
-* ⭐ **[Pleroma](https://pleroma.social/)**
-* ⭐ **[diaspora*](https://diasporafoundation.org/)**, [2](https://diasp.org/)
-* ⭐ **[Fediverse](https://fediverse.party/)**, [Fediverse.space](https://fediverse.space/), [sub.rehab](https://sub.rehab/)  or [Fediverse Observer](https://mastodon.fediverse.observer/) - Fediverse Community / Instance Search
-* ⭐ **[Fedi Tips](https://fedi.tips/)** - Mastodon / Fediverse Guide
-* [Misskey](https://join.misskey.page/en/)
-* [Twetch](https://twetch.app/welcome)
-* [Manyverse](https://www.manyver.se/)
-* [Friendica](https://friendi.ca/)
-* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project)
-* [Movim](https://movim.eu/)
-* [Pixelfed](https://pixelfed.org/)
-* [GoToSocial](https://docs.gotosocial.org/en/latest/)
-* [LIBRANET.de](https://libranet.de/)
+* ⭐ **[Lemmy](https://join-lemmy.org/)** /  [Stats](https://the-federation.info/), [2](https://fedidb.org/) - Federated Reddit Alternative
+* ⭐ **[Mastodon](https://joinmastodon.org/)** - Federated Microblogging 
+* ⭐ **[Pleroma](https://pleroma.social/)** - Federated Microblogging 
+* ⭐ **[Pixelfed](https://pixelfed.org/)** - Federated Microblogging 
+* ⭐ **[diaspora*](https://diasporafoundation.org/)**, [2](https://diasp.org/) - Federated Microblogging 
+* [Misskey](https://join.misskey.page/en/) - Federated Microblogging 
+* [Friendica](https://friendi.ca/) - Federated Microblogging 
+* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Federated Microblogging 
+* [GoToSocial](https://docs.gotosocial.org/en/latest/) - Federated Microblogging 
+* [Fedi Tips](https://fedi.tips/) - Fediverse Guide
+* [Fediverse Stats](https://the-federation.info/) or [FediDB](https://fedidb.org/) - Fediverse statistics
 
 ***
 
