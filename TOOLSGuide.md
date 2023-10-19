@@ -1545,7 +1545,7 @@
 
 ## ▷ Twitter Tools
 
-* ↪️ **[Decentralized Twitter Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_decentralized_social_networks)**
+* ↪️ **[Decentralized Twitter Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fediverse)**
 * ⭐ **[Nitter](https://nitter.net/)** - Twitter Frontend
 * ⭐ **[Trends24](https://trends24.in/)** or [Hashtagify](https://hashtagify.me/) - Trending Hashtags Trackers
 * ⭐ **[NoFT](https://noft.gg/)** - Automatically Block all NFT Profile Pictures / [GitHub](https://github.com/ottomated/noft)
@@ -1614,7 +1614,7 @@
 
 ## ▷ Facebook Tools
 
-* ↪️ **[Decentralized Facebook Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_decentralized_social_networks)**
+* ↪️ **[Decentralized Facebook Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_fediverse)**
 * ⭐ **[Caprine](https://sindresorhus.com/caprine/)** - Facebook Desktop Messenger / [GitHub](https://github.com/sindresorhus/caprine)
 * ⭐ **[Social Fixer](https://socialfixer.com/)** or [FBPurity](https://www.fbpurity.com/) - Facebook Enhancement Extensions
 * ⭐ **[Facebook Ad Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)** - Facebook Filters
