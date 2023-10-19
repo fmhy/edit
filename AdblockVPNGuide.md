@@ -183,7 +183,6 @@
 * ↪️ **[Password Data Breach Detection](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_data_breach_check)**
 * ↪️ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_encryption_tools)**
 * ↪️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_drive_formatting_.2F_file_deletion)**
-* ↪️ **[Decentralized Social Networks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_decentralized_social_networks)**
 * ↪️ **[Windows 10 Antispy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_antispy_tools)**
 * ↪️ **[Password Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_generators)**
 * ↪️ **[Privacy / Safety Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_guides)**
