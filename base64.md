@@ -260,12 +260,6 @@ pass: paluch
 
 ***
 
-#### Esoteric Library
-
-`aHR0cHM6Ly9tZWdhLm56LyNGIWpOOEdUU2FKIXhONng1UHY5ZGhxVDZ5TGhPNnIyT3c=`
-
-***
-
 #### 766 Occult Books
 
 `aHR0cDovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvYWJnZ3B6Y2R4djA5dzgwL2Jvb2tzLnppcA==`
