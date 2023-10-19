@@ -194,6 +194,7 @@
 * ↪️ **[Food Nutrition Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nutrition_.2F_ingredients)**
 * ↪️ **[Food Storage Tips](https://i.redd.it/qmcas4yuc2w81.png)** / [2](https://i.ibb.co/SKq3GT7/ca6f633c898b.png)
 * ↪️ **[YouTube Cooking Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cooking_youtube_channels)**
+* ↪️ **[General Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_general_recipes)**
 * ↪️ **[Portuguese Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_recipes)**
 * ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Whisk](https://whisk.com/), [Pestle](https://apps.apple.com/au/app/pestle-kitchen-recipe-manager/id1574776971) or [Spoonacular](https://spoonacular.com/food-api) - Recipe Managers
 * ⭐ **[Just the Recipe](https://www.justtherecipe.com/)**, [Copy Me That](https://www.copymethat.com/), [PlainOldRecipe](https://www.plainoldrecipe.com/) or [Recipe Filter](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) - Extract Ingredients from Recipe Pages
@@ -231,42 +232,6 @@
 * [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
 * [PakistAnatlas](https://pakistanatlas.com/) - Pakistani Traditional Food Map
 * [CookingForEngineers](http://www.cookingforengineers.com/) - Recipes / Cooking Tests
-* [ReluctantGourmet](https://www.reluctantgourmet.com/) - Recipes / Tutorials
-* [How2Heroes](http://how2heroes.com/) - Recipes
-* [All Recipes](https://www.allrecipes.com/) - Recipes
-* [Just the Darn Recipe](https://justthedarnrecipe.com/) - Recipes
-* [theSkullery](https://theskullery.net/) - Recipes
-* [Curlie Cooking](https://curlie.org/en/Home/Cooking/) - Recipes 
-* [Based Cooking](https://based.cooking/) - Recipes
-* [BHG](https://www.bhg.com/recipes/) - Recipes
-* [TheCookingGinn](http://www.thecookinginn.com/) - Recipes
-* [Bon Appétit](https://www.bonappetit.com/) - Recipes
-* [PunchFork](https://www.punchfork.com/) - Recipes
-* [Tasty](https://tasty.co/) - Recipes
-* [101Cookbooks](https://www.101cookbooks.com/) - Recipes
-* [SimplyRecipes](https://www.simplyrecipes.com/) - Recipes
-* [MyRecipes](https://www.myrecipes.com/) - Recipes
-* [JustAPinch](https://www.justapinch.com/) - Recipes
-* [Cooks](https://www.cooks.com/) - Recipes
-* [Food.com](https://www.food.com/recipe) - Recipes
-* [BBC Good Food](https://www.bbcgoodfood.com/recipes) - Recipes
-* [Food Network Recipes](https://www.foodnetwork.com/recipes) - Recipes
-* [CookBook](https://github.com/jlinder/cookbook) - Recipes 
-* [Wikibook Cookbooks](https://en.wikibooks.org/wiki/Category:Cookbook) - Recipes
-* [Cookpad](https://cookpad.com/us) - Recipes
-* [FoodGeeks](https://foodgeeks.com/) - Recipes
-* [SparkPeople](https://recipes.sparkpeople.com/) - Recipes
-* [KeyIngridient](https://www.keyingredient.com/) - Recipes
-* [CopyKat](https://copykat.com/) - Recipes
-* [Chowdown](https://chowdown.io/) - Recipes / [GitHub](https://github.com/clarklab/chowdown)
-* [RobbieHaf](http://recipes.robbiehaf.com/) - Recipes
-* [WhatsCookingAmerica](https://whatscookingamerica.net/Menu/MenuIndex.htm) - Recipes
-* [MJW](http://www.cs.cmu.edu/~mjw/recipes/) - Recipes
-* [BetterRecipes](https://www.bestrecipes.com.au/) - Recipes
-* [Astray](https://www.astray.com/recipes/) - Recipes
-* [zhabotyn](http://www.bios.unc.edu/~zhabotyn/recipes/) - Recipes
-* [FarmlandFoods](https://www.farmlandfoods.com/recipes/) - Recipes
-* [RecipeLand](https://recipeland.com/) - Recipes
 * [Budget Bytes](https://www.budgetbytes.com/) - Cheap Recipes
 * [What the Fuck Should I Make for Dinner?](http://www.whatthefuckshouldimakefordinner.com/) - Random Recipes
 * [Dish Dragon AI](https://www.dishdragon.ai/) - Find Ingredients That Go Well Together
