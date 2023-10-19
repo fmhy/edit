@@ -272,7 +272,7 @@
 
 ## ▷ Anime Streaming
 
-* 🌐 **[Wotaku](https://wotaku.its.moe/)**, [2](https://wotaku.pages.dev/), [3](https://wotaku.netlify.app/) - Japanese Piracy Index
+🌐 **[Wotaku](https://wotaku.moe/)** - Japanese Piracy Index / [Discord](https://discord.wotaku.moe/)
 * 🌐 **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources)** - Japanese Piracy Index
