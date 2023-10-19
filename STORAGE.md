@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/KmGGnhX)** - For mobile users
+**[Table of Contents](https://ibb.co/hBsDnJJ)** - For mobile users
 
 ***
 ***
@@ -583,38 +583,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ***
 
-## Fediverse 
-
-* ⭐ **[Fediverse](https://fediverse.party/)**, [Fediverse.space](https://fediverse.space/) or [Fediverse Observer](https://fediverse.observer/) - Fediverse Community / Instance Search
-* ⭐ **[Fedi Tips](https://fedi.tips/)** - Mastodon / Fediverse Guide
-* ⭐ **[Fediverse Stats](https://the-federation.info/) or [FediDB](https://fedidb.org/)** - Fediverse statistics
-* ⭐ **[Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse)** - Fediverse Resources
-* ⭐ **[Mastodon](https://joinmastodon.org/)** - Federated microblogging / X(Twitter) Alternative / [Mastodon Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_mastodon_tools)
-* ⭐ **[Pixelfed](https://pixelfed.org/)** - Federated image sharing platform / Instagram Alternative
-* ⭐ **[Pleroma](https://pleroma.social/)** - Federated Microblogging 
-* [Friendica](https://friendi.ca/) - Federated Macroblogging / Facebook Alternative
-* [diaspora*](https://diasporafoundation.org/), [2](https://diasp.org/) - Federated Macroblogging / Google+ Alternative 
-* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Federated feature-rich Macroblogging
-* [Misskey](https://join.misskey.page/en/) or [Firefish](https://joinfirefish.org/) - Federated feature-rich Microblogging
-* [GoToSocial](https://docs.gotosocial.org/en/latest/) - Safety & Privacy-focused Federated Microblogging
-* [Lemmy](https://join-lemmy.org/) - Link Aggregator/ Federated Reddit Alternative / [Lemmy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_lemmy_tools)
-* [Kbin](https://kbin.pub/) - Federated Link Aggregator & Microblogging
-* [Funkwhale](https://funkwhale.audio/) - Decentralized audio sharing 
-* [Bookwyrm](https://joinbookwyrm.com/) - Federated Social reading & Book tracking / Goodreads Alternative 
-* [Peertube](https://joinpeertube.org/en), [2](https://search.joinpeertube.org/) / [Instances](https://instances.joinpeertube.org/instances) - Decentralized video hosting
-* [Castopod](https://castopod.org/) - Federated podcast hosting 
-
-### Mastodon Tools
-
-[Web Client](https://pinafore.social/) / [Desktop Client](https://tuba.geopjr.dev/), [2](https://kaiteki.app/) / [Schedule](https://scheduler.mastodon.tools/) / [Twitter Sync](https://github.com/klausi/mastodon-twitter-sync) / [Instances](https://instances.social/) / [Twitter Account Link](https://moaparty.com/) / [Embedded Feeds](https://www.mastofeed.com/) / [Timelines](https://mastovue.glitch.me/) / [Create Bots](https://cheapbotstootsweet.com/)
-
-### Lemmy Tools 
-
-* [sub.rehab](https://sub.rehab/) - Find subreddits on Lemmy
-* [Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
-
-***
-
 ## Design Resources
 
 * ⭐ **[Design Resources](https://rentry.co/dt92f)**
@@ -1150,12 +1118,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ***
 
-## General Recipes 
-
-[ReluctantGourmet](https://www.reluctantgourmet.com/), [How2Heroes](http://how2heroes.com/), [All Recipes](https://www.allrecipes.com/), [Just the Darn Recipe](https://justthedarnrecipe.com/), [theSkullery](https://theskullery.net/), [Curlie Cooking](https://curlie.org/en/Home/Cooking/), [Based Cooking](https://based.cooking/), [BHG](https://www.bhg.com/recipes/), [TheCookingGinn](http://www.thecookinginn.com/), [Bon Appétit](https://www.bonappetit.com/), [PunchFork](https://www.punchfork.com/), [Tasty](https://tasty.co/), [101Cookbooks](https://www.101cookbooks.com/), [SimplyRecipes](https://www.simplyrecipes.com/), [MyRecipes](https://www.myrecipes.com/), [JustAPinch](https://www.justapinch.com/), [Cooks](https://www.cooks.com/), [Food.com](https://www.food.com/recipe), [BBC Good Food](https://www.bbcgoodfood.com/recipes), [Food Network Recipes](https://www.foodnetwork.com/recipes), [CookBook](https://github.com/jlinder/cookbook), [Wikibook Cookbooks](https://en.wikibooks.org/wiki/Category:Cookbook), [Cookpad](https://cookpad.com/us), [FoodGeeks](https://foodgeeks.com/), [SparkPeople](https://recipes.sparkpeople.com/), [KeyIngridient](https://www.keyingredient.com/), [CopyKat](https://copykat.com/), [Chowdown](https://chowdown.io/), [RobbieHaf](http://recipes.robbiehaf.com/), [WhatsCookingAmerica](https://whatscookingamerica.net/Menu/MenuIndex.htm), [MJW](http://www.cs.cmu.edu/~mjw/recipes/), [BetterRecipes](https://www.bestrecipes.com.au/), [Astray](https://www.astray.com/recipes/), [zhabotyn](http://www.bios.unc.edu/~zhabotyn/recipes/), [FarmlandFoods](https://www.farmlandfoods.com/recipes/), [RecipeLand](https://recipeland.com/)
-
-***
-
 ## Git Projects
 
 * [GitHub Rankings](https://evanli.github.io/Github-Ranking/) - Git Project Rankings
@@ -1163,6 +1125,12 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Active Github Forks](https://techgaun.github.io/active-forks/) - List of active github forks
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) - View a Repositories Forks
 * [Git Search Engine](https://zzollo.co/) or [GitHub Memory](https://githubmemory.com/) - Search GitHub, GitLab etc.
+
+***
+
+## General Recipes
+
+[ReluctantGourmet](https://www.reluctantgourmet.com/), [How2Heroes](http://how2heroes.com/), [All Recipes](https://www.allrecipes.com/), [Just the Darn Recipe](https://justthedarnrecipe.com/), [theSkullery](https://theskullery.net/), [Curlie Cooking](https://curlie.org/en/Home/Cooking/), [Based Cooking](https://based.cooking/), [BHG](https://www.bhg.com/recipes/), [TheCookingGinn](http://www.thecookinginn.com/), [Bon Appétit](https://www.bonappetit.com/), [PunchFork](https://www.punchfork.com/), [Tasty](https://tasty.co/), [101Cookbooks](https://www.101cookbooks.com/), [SimplyRecipes](https://www.simplyrecipes.com/), [MyRecipes](https://www.myrecipes.com/), [JustAPinch](https://www.justapinch.com/), [Cooks](https://www.cooks.com/), [Food.com](https://www.food.com/recipe), [BBC Good Food](https://www.bbcgoodfood.com/recipes), [Food Network Recipes](https://www.foodnetwork.com/recipes), [CookBook](https://github.com/jlinder/cookbook), [Wikibook Cookbooks](https://en.wikibooks.org/wiki/Category:Cookbook), [Cookpad](https://cookpad.com/us), [FoodGeeks](https://foodgeeks.com/), [SparkPeople](https://recipes.sparkpeople.com/), [KeyIngridient](https://www.keyingredient.com/), [CopyKat](https://copykat.com/), [Chowdown](https://chowdown.io/), [RobbieHaf](http://recipes.robbiehaf.com/), [WhatsCookingAmerica](https://whatscookingamerica.net/Menu/MenuIndex.htm), [MJW](http://www.cs.cmu.edu/~mjw/recipes/), [BetterRecipes](https://www.bestrecipes.com.au/), [Astray](https://www.astray.com/recipes/), [zhabotyn](http://www.bios.unc.edu/~zhabotyn/recipes/), [FarmlandFoods](https://www.farmlandfoods.com/recipes/), [RecipeLand](https://recipeland.com/)
 
 ***
 
@@ -1522,6 +1490,12 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 ## M4UFree Clones
 
 [M4uFree](https://ww1.m4ufree.tv/), [Streamm4u](http://streamm4u.com) / [2](https://streamm4u.ws/), [m4ufree.to](https://m4ufree.to/), [m4uhd](https://m4uhd.tv/) / [2](https://m4uhd.cc/), [m4umv](https://m4umv.org/)
+
+***
+
+## Mastodon Tools
+
+[Web Client](https://pinafore.social/) / [Desktop Client](https://tuba.geopjr.dev/), [2](https://kaiteki.app/) / [Schedule](https://scheduler.mastodon.tools/) / [Twitter Sync](https://github.com/klausi/mastodon-twitter-sync) / [Instances](https://instances.social/) / [Twitter Account Link](https://moaparty.com/) / [Embedded Feeds](https://www.mastofeed.com/) / [Timelines](https://mastovue.glitch.me/) / [Create Bots](https://cheapbotstootsweet.com/)
 
 ***
 
@@ -2242,8 +2216,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ## Reddit Alternatives
 
-* ⭐ **[Lemmy](https://join-lemmy.org/)** /  [Stats](https://the-federation.info/), [2](https://fedidb.org/)
-* ⭐ **[Lemmy Explorer](https://lemmyverse.net/)**, [Community-Browser](https://browse.feddit.de/) or [Awesome Instances](https://github.com/maltfield/awesome-lemmy-instances) - Lemmy Instances
 * ⭐ **[Raddle](https://raddle.me/)** / [onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion/)
 * ⭐ **[Saidit](https://saidit.net/)**
 
