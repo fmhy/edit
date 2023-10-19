@@ -36,7 +36,7 @@
 
 ## Alternative Search Engines
 
-* ⭐ **[Privacy Focused Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy##wiki_.25B7_search_engines)**
+* ⭐ **[Privacy Focused Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
 * ⭐ **[Lets Search!](https://letssearch.org/)** - Advanced Search Engine
 * ⭐ **[Yandex](https://yandex.com/)**
 * ⭐ **[Ecosia](https://www.ecosia.org/)** - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/) / [Chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
@@ -162,7 +162,7 @@
 
 ## Anonymous Image Boards
 
-* ⭐ **[4chan](https://4chan.org/)** - [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc##wiki_.25B7_4chan_tools)
+* ⭐ **[4chan](https://4chan.org/)** - [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-misc#wiki_.25B7_4chan_tools)
 
 [Post Office](https://afternoon.dynu.com/), [crystal.cafe](https://crystal.cafe/), [BUS STOP](https://bus-stop.net/)
 
@@ -189,7 +189,7 @@
 
 ## Audio Converters
 
-* ⭐ **[FFmpeg](https://ffmpeg.org/)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage##wiki_ffmpeg_tools)
+* ⭐ **[FFmpeg](https://ffmpeg.org/)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ffmpeg_tools)
 
 [Online Audio Converter](https://online-audio-converter.com/), [fre:ac](https://www.freac.org/), [FlicFlac](https://github.com/DannyBen/FlicFlac), [LameXP](https://sourceforge.net/projects/lamexp/), [FFaudioConverter](https://github.com/Bleuzen/FFaudioConverter/), [SoX](https://sox.sourceforge.net/), [dBpoweramp](https://www.dbpoweramp.com/dmc.htm), [FLAC2iTunes](https://github.com/pathartl/FLAC2iTunes/), [M4A to MP3 Converter](https://m4amp3.com/)
 
@@ -331,7 +331,7 @@
 * ⭐ **[WebOasis](https://weboasis.app/)**, [2](https://ndsamuelson.github.io/weboas-is/) - [Source Code](https://pastebin.com/CczqreS4)
 * ⭐ **[MONKNOW](https://www.monknow.com/)**
 
-[8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/), [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage), [StartTree](https://github.com/Paul-Houser/StartTree), [New Tab Addons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage##wiki_customizable_new_tab_page), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Atavi](https://atavi.com/), [Homepage Ninja](https://homepage.ninja/), [Bookmarkee](https://www.bookmarkee.com/), [Pearltrees](https://www.pearltrees.com/), [Lasso](https://www.lasso.net/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Homepage](https://github.com/Jaredk3nt/homepage), [Fluidity](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/)
+[8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Startpage Emporium](https://startpages.github.io/), [Awesome Startpage](https://github.com/jnmcfly/awesome-startpage), [StartTree](https://github.com/Paul-Houser/StartTree), [New Tab Addons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Atavi](https://atavi.com/), [Homepage Ninja](https://homepage.ninja/), [Bookmarkee](https://www.bookmarkee.com/), [Pearltrees](https://www.pearltrees.com/), [Lasso](https://www.lasso.net/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [ez.lol](https://ez.lol/), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Homepage](https://github.com/Jaredk3nt/homepage), [Fluidity](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/)
 
 ***
 
@@ -388,7 +388,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ## Calibre Tools
 
-* [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage##wiki_calibre_libraries), [2](https://reddit.com/r/opencalibre) - [Search](https://www.shodan.io/search?query=server%3A+calibre) / [Web App](https://github.com/janeczku/calibre-web)
+* [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries), [2](https://reddit.com/r/opencalibre) - [Search](https://www.shodan.io/search?query=server%3A+calibre) / [Web App](https://github.com/janeczku/calibre-web)
 
 ***
 
@@ -463,9 +463,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 ## Code Editors
 
 * ⭐ **[VSCodium](https://vscodium.com/)** - Code Editor
-* ⭐ **[VSCode Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage##wiki_vscode_tools)** - Tools / Themes for VS Code
+* ⭐ **[VSCode Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vscode_tools)** - Tools / Themes for VS Code
 * ⭐ **[Neovim](https://neovim.io/)** - Code Editor
-* ⭐ **[Vim Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage##wiki_vim_tools)** - Tools / Themes for Vim
+* ⭐ **[Vim Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vim_tools)** - Tools / Themes for Vim
 * ⭐ **[Emacs](https://www.gnu.org/software/emacs/)** - [Docs](https://emacsdocs.org/)
 * ⭐ **[Bluefish](https://bluefish.openoffice.nl/index.html)** - [Templates](https://templates.openoffice.org/en)
 
@@ -520,7 +520,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ## Copy Google Drives
 
-[GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb), [Google Drive Copy Folder](https://github.com/ericyd/gdrive-copy), [googledrive-copy-downloader](https://github.com/jonathanTIE/googledrive-copy-downloader), [TgFolderClone](https://github.com/Loli-Killer/TgFolderClone), [Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot), [Copy Folder](https://chrome.google.com/webstore/detail/copy-folder/kfbicpdhiofpicipfggljdhjokjblnhl), [gdrive-clone](https://github.com/alx-xlx/gdrive-clone), [Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage##wiki_telegram_file_tools), [Google Drive Clone Bot](https://jsmsj.github.io/GdriveCloneBot/)
+[GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb), [Google Drive Copy Folder](https://github.com/ericyd/gdrive-copy), [googledrive-copy-downloader](https://github.com/jonathanTIE/googledrive-copy-downloader), [TgFolderClone](https://github.com/Loli-Killer/TgFolderClone), [Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot), [Copy Folder](https://chrome.google.com/webstore/detail/copy-folder/kfbicpdhiofpicipfggljdhjokjblnhl), [gdrive-clone](https://github.com/alx-xlx/gdrive-clone), [Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools), [Google Drive Clone Bot](https://jsmsj.github.io/GdriveCloneBot/)
 
 ***
 
@@ -814,7 +814,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ⭐ **[FreeToGame](https://www.freetogame.com/games)**
 
-[Free Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc##wiki_.25BA_free_stuff), [Acid Play](https://acid-play.com/), [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games), [GoGoFreeGames](https://www.gogofreegames.com/)
+[Free Game Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff), [Acid Play](https://acid-play.com/), [/v/'s recommended games wiki](https://vsrecommendedgames.fandom.com/wiki/Freeware_Games), [GoGoFreeGames](https://www.gogofreegames.com/)
 
 ***
 
@@ -1360,7 +1360,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ## IPTV Tools
 
-[Forum](https://iptv.community/) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage##wiki_m3u_players) / [Manager](https://cabernetwork.github.io/) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage##wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage##wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/) / [m3u to txt](https://siptv.eu/converter/) / [M3U Editor](https://m3u4u.com/) / [M3U Downloader](https://github.com/nilaoda/N_m3u8DL-RE), [2](https://webextension.org/listing/hls-downloader.html), [3](http://m3u8.dev/), [4](https://github.com/puemos/hls-downloader), [5](https://www.hlsloader.com/) / [Dummy EPG](https://github.com/yurividal/dummyepgxml) / [CLI](https://github.com/nilaoda/N_m3u8DL-CLI)
+[Forum](https://iptv.community/) / [Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_m3u_players) / [Manager](https://cabernetwork.github.io/) / [SmartTV Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_tv_iptv_players) / [Playlists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_iptv_playlists) / [Search](https://www.foodieguide.com/iptvsearch/) / [m3u to txt](https://siptv.eu/converter/) / [M3U Editor](https://m3u4u.com/) / [M3U Downloader](https://github.com/nilaoda/N_m3u8DL-RE), [2](https://webextension.org/listing/hls-downloader.html), [3](http://m3u8.dev/), [4](https://github.com/puemos/hls-downloader), [5](https://www.hlsloader.com/) / [Dummy EPG](https://github.com/yurividal/dummyepgxml) / [CLI](https://github.com/nilaoda/N_m3u8DL-CLI)
 
 ***
 
@@ -1783,7 +1783,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[Microsoft Office](https://massgrave.dev/office_c2r_links.html)**
 * ⭐ **[Custom Microsoft Office](https://massgrave.dev/office_c2r_custom.html)**
 * [Microsoft Office DL Guides](https://github.com/nbats/FMHYedit/blob/main/base64.md##microsoft-office-dl-guides)
-* [Activation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage##wiki_windows_activation) - Activate Microsoft Office
+* [Activation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation) - Activate Microsoft Office
 * [MS Office Hot Keys](https://i.ibb.co/0m9t95b/ebacd47bf83b.png)
 * [MS Office Account Creator](https://github.com/adityash4rma/bulk_microsoft_A1_creator)
 * [LibreOffice](https://www.libreoffice.org/)
@@ -2091,7 +2091,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 ## Privacy Based Browsers
 
 * ⭐ **[Tor Browser](https://www.torproject.org/)** - Onion-Routed Browser / [Directory](https://session.directory/) 
-* ⭐ **[Tor Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage##wiki_tor_tools)** - Tor Tools / Guides
+* ⭐ **[Tor Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tor_tools)** - Tor Tools / Guides
 * ⭐ **[Librewolf](https://gitlab.com/librewolf-community/browser/windows)** / [2](https://librewolf.net/)
 * ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)**
 * [Otter](https://otter-browser.org/)
@@ -3116,7 +3116,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[yokoffing's Recommended Filters](https://github.com/yokoffing/filterlists)**
 * [DandelionSprout adlift](https://github.com/DandelionSprout/adfilt) - [URL Shortener](https://github.com/DandelionSprout/adfilt/blob/master/LegitimateURLShortener.txt) / [Clear URLs for uBO](https://github.com/DandelionSprout/adfilt/blob/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt)
 * [FilterLists.com](https://filterlists.com/) - Search
-* [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions##wiki_facebook)
+* [Facebook Filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions#wiki_facebook)
 
 [FilterStalker](https://rentry.co/FilterStalker), [LetBlock.it](https://letsblock.it/), [webannoyances](https://github.com/yourduskquibbles/webannoyances), [The Block List Project](https://github.com/blocklistproject/Lists##the-block-list-project), [Spam404](https://github.com/Spam404/lists/blob/master/adblock-list.txt), [minoplhy filters](https://github.com/minoplhy/filters), [NoADS_RU](https://raw.githubusercontent.com/Zalexanninev15/NoADS_RU/main/ads_list.txt), [Anifiltrs](https://github.com/Karmesinrot/Anifiltrs), [PersonalFilterListCollection](https://github.com/kowith337/PersonalFilterListCollection)
 
@@ -3363,7 +3363,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[Web Scraping Tutorial](https://github.com/MorvanZhou/easy-scraping-tutorial)**
 * ⭐ **[datahoarder-website-to-markdown](https://github.com/evilsh3ll/datahoarder-website-to-markdown)** - Index to Markdown Archiving Tool
 * ⭐ **[Wayback Machine](http://web.archive.org/)**
-* ⭐ **Wayback Machine Tools** - [Downloader](https://github.com/hartator/wayback-machine-downloader), [2](https://github.com/jsvine/waybackpack) / [Classic Frontend](https://wayback-classic.net/) / [Addon](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage##wiki_wayback_machine_extension) / [Script](https://github.com/overcast07/wayback-machine-spn-scripts) / [Toolkit](https://github.com/wabarc/wayback)
+* ⭐ **Wayback Machine Tools** - [Downloader](https://github.com/hartator/wayback-machine-downloader), [2](https://github.com/jsvine/waybackpack) / [Classic Frontend](https://wayback-classic.net/) / [Addon](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wayback_machine_extension) / [Script](https://github.com/overcast07/wayback-machine-spn-scripts) / [Toolkit](https://github.com/wabarc/wayback)
 * ⭐ **[CachedView](https://cachedview.com/)**
 * ⭐ **[ArchiveTeam](https://tracker.archiveteam.org/)** - Virtual Archiving Project
 
