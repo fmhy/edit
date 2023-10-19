@@ -1673,6 +1673,7 @@
 * [ePub Gratis](https://www.epubgratis.info/) - Books
 * [Todolibros](https://todolibros.net/) - Books
 * [Lectuepub](https://lectuepub2.com/) - Books
+* [LectuEpubGratis](https://lectuepubgratis2.com/) - Books
 * [MundoEpubGratis](https://mundoepubgratis2.com/) - Books
 * [libronube](https://www.libronube.com/) - Books
 * [DebeLeer](https://www.debeleer.com/) - Books
