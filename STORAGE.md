@@ -1135,6 +1135,12 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ***
 
+## General Recipes 
+
+[ReluctantGourmet](https://www.reluctantgourmet.com/), [How2Heroes](http://how2heroes.com/), [All Recipes](https://www.allrecipes.com/), [Just the Darn Recipe](https://justthedarnrecipe.com/), [theSkullery](https://theskullery.net/), [Curlie Cooking](https://curlie.org/en/Home/Cooking/), [Based Cooking](https://based.cooking/), [BHG](https://www.bhg.com/recipes/), [TheCookingGinn](http://www.thecookinginn.com/), [Bon Appétit](https://www.bonappetit.com/), [PunchFork](https://www.punchfork.com/), [Tasty](https://tasty.co/), [101Cookbooks](https://www.101cookbooks.com/), [SimplyRecipes](https://www.simplyrecipes.com/), [MyRecipes](https://www.myrecipes.com/), [JustAPinch](https://www.justapinch.com/), [Cooks](https://www.cooks.com/), [Food.com](https://www.food.com/recipe), [BBC Good Food](https://www.bbcgoodfood.com/recipes), [Food Network Recipes](https://www.foodnetwork.com/recipes), [CookBook](https://github.com/jlinder/cookbook), [Wikibook Cookbooks](https://en.wikibooks.org/wiki/Category:Cookbook), [Cookpad](https://cookpad.com/us), [FoodGeeks](https://foodgeeks.com/), [SparkPeople](https://recipes.sparkpeople.com/), [KeyIngridient](https://www.keyingredient.com/), [CopyKat](https://copykat.com/), [Chowdown](https://chowdown.io/), [RobbieHaf](http://recipes.robbiehaf.com/), [WhatsCookingAmerica](https://whatscookingamerica.net/Menu/MenuIndex.htm), [MJW](http://www.cs.cmu.edu/~mjw/recipes/), [BetterRecipes](https://www.bestrecipes.com.au/), [Astray](https://www.astray.com/recipes/), [zhabotyn](http://www.bios.unc.edu/~zhabotyn/recipes/), [FarmlandFoods](https://www.farmlandfoods.com/recipes/), [RecipeLand](https://recipeland.com/)
+
+***
+
 ## Git Projects
 
 * [GitHub Rankings](https://evanli.github.io/Github-Ranking/) - Git Project Rankings
