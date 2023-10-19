@@ -231,42 +231,6 @@
 * [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
 * [PakistAnatlas](https://pakistanatlas.com/) - Pakistani Traditional Food Map
 * [CookingForEngineers](http://www.cookingforengineers.com/) - Recipes / Cooking Tests
-* [ReluctantGourmet](https://www.reluctantgourmet.com/) - Recipes / Tutorials
-* [How2Heroes](http://how2heroes.com/) - Recipes
-* [All Recipes](https://www.allrecipes.com/) - Recipes
-* [Just the Darn Recipe](https://justthedarnrecipe.com/) - Recipes
-* [theSkullery](https://theskullery.net/) - Recipes
-* [Curlie Cooking](https://curlie.org/en/Home/Cooking/) - Recipes 
-* [Based Cooking](https://based.cooking/) - Recipes
-* [BHG](https://www.bhg.com/recipes/) - Recipes
-* [TheCookingGinn](http://www.thecookinginn.com/) - Recipes
-* [Bon Appétit](https://www.bonappetit.com/) - Recipes
-* [PunchFork](https://www.punchfork.com/) - Recipes
-* [Tasty](https://tasty.co/) - Recipes
-* [101Cookbooks](https://www.101cookbooks.com/) - Recipes
-* [SimplyRecipes](https://www.simplyrecipes.com/) - Recipes
-* [MyRecipes](https://www.myrecipes.com/) - Recipes
-* [JustAPinch](https://www.justapinch.com/) - Recipes
-* [Cooks](https://www.cooks.com/) - Recipes
-* [Food.com](https://www.food.com/recipe) - Recipes
-* [BBC Good Food](https://www.bbcgoodfood.com/recipes) - Recipes
-* [Food Network Recipes](https://www.foodnetwork.com/recipes) - Recipes
-* [CookBook](https://github.com/jlinder/cookbook) - Recipes 
-* [Wikibook Cookbooks](https://en.wikibooks.org/wiki/Category:Cookbook) - Recipes
-* [Cookpad](https://cookpad.com/us) - Recipes
-* [FoodGeeks](https://foodgeeks.com/) - Recipes
-* [SparkPeople](https://recipes.sparkpeople.com/) - Recipes
-* [KeyIngridient](https://www.keyingredient.com/) - Recipes
-* [CopyKat](https://copykat.com/) - Recipes
-* [Chowdown](https://chowdown.io/) - Recipes / [GitHub](https://github.com/clarklab/chowdown)
-* [RobbieHaf](http://recipes.robbiehaf.com/) - Recipes
-* [WhatsCookingAmerica](https://whatscookingamerica.net/Menu/MenuIndex.htm) - Recipes
-* [MJW](http://www.cs.cmu.edu/~mjw/recipes/) - Recipes
-* [BetterRecipes](https://www.bestrecipes.com.au/) - Recipes
-* [Astray](https://www.astray.com/recipes/) - Recipes
-* [zhabotyn](http://www.bios.unc.edu/~zhabotyn/recipes/) - Recipes
-* [FarmlandFoods](https://www.farmlandfoods.com/recipes/) - Recipes
-* [RecipeLand](https://recipeland.com/) - Recipes
 * [Budget Bytes](https://www.budgetbytes.com/) - Cheap Recipes
 * [What the Fuck Should I Make for Dinner?](http://www.whatthefuckshouldimakefordinner.com/) - Random Recipes
 * [Dish Dragon AI](https://www.dishdragon.ai/) - Find Ingredients That Go Well Together
