@@ -1545,7 +1545,7 @@
 * [DCC](https://cineclasicodcc.com/) - Classical Movies / TV
 * [DivX Clásico](http://www.divxclasico.com/) - Classical Movies / TV / ED2K Links
 * [RebeldeMule](https://www.rebeldemule.org/) - Movies / Classics / TV / Documentaries / Reading / ED2K Links / [Telegram](https://telegram.me/rebeldemule)
-* [exploradoresp2p](http://exploradoresp2p.com/) - Movies / Classics / TV / Documentaries / ED2K Links / [Telegram](https://t.me/+fLbhvUbvrZwzYmI0)
+* [exploradoresp2p](https://exploradoresp2p.com/) - Movies / Classics / TV / Documentaries / ED2K Links / [Telegram](https://t.me/+fLbhvUbvrZwzYmI0)
 * [HispaMula](https://www.hispamula.club/) - Movies / Classics / TV / Documentaries / ED2K Links / [Telegram](https://t.me/HispaMulaCLUB) / Castilian
 * [Descargar videos de la tele](https://eljaviero.com/descargarvideosdelatele/) - TV / [Telegram](https://t.me/joinchat/DVUy6EgTA_kZnc3KAaVItg) / Castilian
 * [Ninjin Anime](https://ninjinanime.com/) - Anime
@@ -1644,7 +1644,7 @@
 * [AnimeFLV.net](https://www3.animeflv.net/) - Anime
 * [AnimeFLV.io](https://animeflv.io/) - Anime
 * [mundodonghua](https://www.mundodonghua.com/) - Anime
-* [animeonline](https://www1.animeonline.ninja/) - Anime
+* [animeonline](https://ww3.animeonline.ninja/) - Anime
 * [OtakusTV](https://www1.otakustv.com/) - Anime
 * [ytanime](https://ytanime.tv/) - Anime
 * [AnimeID](https://www.animeid.tv/) - Anime
@@ -1667,41 +1667,39 @@
 * ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** / [SMAGX](https://smagx.com/) - Multi-Site Book Search
 * [epublibre](https://www.epublibre.org/) - Books
 * [eBiblioteca](https://ebiblioteca.org/) - Books
-* [Ebookelo](https://www.ebookelo.com/) - Books
+* [Ebookelo](https://ww2.ebookelo.com/) - Books
 * [La Pirateca](https://lapirateca.com/) - Books
-* [Lectulandia](https://ww2.lectulandia.com/), [2](https://www.lectulandia.co/) - Books
+* [Lectulandia](https://ww3.lectulandia.com/), [2](https://ww3.lectulandia.co/) - Books
 * [ePub Gratis](https://www.epubgratis.info/) - Books
 * [Todolibros](https://todolibros.net/) - Books
-* [BibliotecaEpub](https://bibliotecaepub.com/) - Books
 * [Lectuepub](https://lectuepub2.com/) - Books
-* [LectuEpubGratis](https://lectuepubgratis2.com/) - Books
 * [MundoEpubGratis](https://mundoepubgratis2.com/) - Books
 * [libronube](https://www.libronube.com/) - Books
 * [DebeLeer](https://www.debeleer.com/) - Books
 * [Elejandría](https://www.elejandria.com/) - Books
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
+* [BladeMaster666](https://blademaster666.com/) - Newspapers / Magazines / Spain / NSFW
 * [FreeLibros](https://www.freelibros.net/) - Textbooks / Books / Audiobooks / Magazines / Courses / Documentaries
-* [El Solucionario](https://www.elsolucionario.org/) - Textbooks
 * [Librotecarios](https://librotecarios.blogspot.com/) - Textbooks
 * [Libros de la Nube](https://librosdelanube.blogspot.com/) - Textbooks
 * [booksmedicos](https://booksmedicos.org/) - Medical Textbooks
 * [Manuales de instrucciones](https://www.manualpdf.es/) - Manuals
 * [SciELO Chile](https://scielo.conicyt.cl/) - Scientific Journals
 * [albalearning](https://albalearning.com/) - Audiobooks
-* [mangadoor](http://mangadoor.com/) - Manga
-* [TuMangaOnline](https://lectortmo.com/) - Manga
+* [mangadoor](https://mangadoor.com/) - Manga
+* [TuMangaOnline](https://visortmo.com/) - Manga
 * [Lector TMO](https://lectortmo.org/) - Manga
 * [Manga en Español](https://t.me/manga_es) - Manga
 * [HeavenManga](http://heavenmanga.com/) - Manga
 * [InManga](https://inmanga.com/) - Manga
 * [manhuako](https://manhuako.com/) - Manga
 * [lexmangas](https://www.lexmangas.com/) - Manga
-* [yugenmangas](https://yugenmangas.com/) - Manga
+* [yugenmangas](https://yugenmangas.lat/) - Manga
 * [miauscan](https://miauscan.com/) - Manga
 * [Mangaesp](https://mangaesp.co/) - Manga
-* [senpaiediciones](http://senpaiediciones.com/) - Manga
+* [senpaiediciones](https://senpaiediciones.com/) - Manga
 * [anzmangashd](https://www.anzmangashd.com/) - Manga
-* [vermanhwa](https://vermanhwa.es/) - Manga
+* [vermanhwa](https://vermanhwa.com/) - Manga
 * [faneo](https://www.faneo.es/) - Manga
 * [mangatigre](https://www.mangatigre.net/) - Manga
 * [daprob](https://daprob.com/) - Manga
