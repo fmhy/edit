@@ -1582,6 +1582,7 @@
 * [unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Akiba-kei](http://akiba-team.org/) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
+* [epublibre](https://www.epublibre.org/) - Books
 * [El Plan](https://hackmd.io/@w8tAmGnzT-qbgHkemaly6A/SEGUNDA-PARTE), [2](https://www.reddit.com/user/No_Land656) - Live Sports Acestream IDs
 * [elcano](https://sg.hideip.co/direct/aHR0cDovL2VsY2Fuby50b3Av), [2](https://sg.4everproxy.com/direct/aHR0cDovL2VsY2Fuby50b3Av) - Live Sports Acestream IDs / [Matrix](https://matrix.to/#/!zrcckivBbqZjmykTPi:sibnsk.net?via=matrix.org&via=sibnsk.net) / [Link Scraper](https://github.com/ddgarciad03/IDS-Export)
 
@@ -1665,18 +1666,16 @@
 ## ▷ Reading
 
 * ⭐ **[Spanish Reading CSE](https://cse.google.com/cse?cx=85e4a562f2abf40f6)** / [SMAGX](https://smagx.com/) - Multi-Site Book Search
-* [epublibre](https://www.epublibre.org/) - Books
+* [MundoEpubGratis](https://mundoepubgratis2.com/) - Books
+* [libronube](https://www.libronube.com/) - Books
 * [eBiblioteca](https://ebiblioteca.org/) - Books
+* [Lectuepub](https://lectuepub2.com/) - Books
 * [Ebookelo](https://ww2.ebookelo.com/) - Books
 * [La Pirateca](https://lapirateca.com/) - Books
 * [EspaEbook](https://www.espaebook2.com/) - Books
 * [Lectulandia](https://ww3.lectulandia.com/), [2](https://ww3.lectulandia.co/) - Books
 * [ePub Gratis](https://www.epubgratis.info/) - Books
-* [Todolibros](https://todolibros.net/) - Books
-* [Lectuepub](https://lectuepub2.com/) - Books
 * [LectuEpubGratis](https://lectuepubgratis2.com/) - Books
-* [MundoEpubGratis](https://mundoepubgratis2.com/) - Books
-* [libronube](https://www.libronube.com/) - Books
 * [DebeLeer](https://www.debeleer.com/) - Books
 * [Elejandría](https://www.elejandria.com/) - Books
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
