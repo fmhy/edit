@@ -1576,7 +1576,7 @@
 * [PasateaTorrent](https://pasateatorrent.org/) - Movies / TV / Castilian
 * [Cinecalidad](https://cinecalidad.one/) - Movies / TV / Latino
 * [Tlandia](https://torrentlandia.site/) - Movies / Latino
-* [DiXvA](https://www.dixva.com/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
+* [DiXvA](https://www.dixva.com/), [2](https://www.sinsitio.site/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
 * [Zonatorrent](https://zonatorrent.in/) - Movies / TV / Castilian / [Bypasser script](https://greasyfork.org/en/scripts/462510-spanish-torrent-sites-short-link-bypasser)
 * [Frozen-Layer](https://www.frozen-layer.com/) - Anime
 * [unionfansub](https://foro.unionfansub.com/index.php) - Anime
