@@ -1669,6 +1669,7 @@
 * [eBiblioteca](https://ebiblioteca.org/) - Books
 * [Ebookelo](https://ww2.ebookelo.com/) - Books
 * [La Pirateca](https://lapirateca.com/) - Books
+* [EspaEbook](https://www.espaebook2.com/) - Books
 * [Lectulandia](https://ww3.lectulandia.com/), [2](https://ww3.lectulandia.co/) - Books
 * [ePub Gratis](https://www.epubgratis.info/) - Books
 * [Todolibros](https://todolibros.net/) - Books
