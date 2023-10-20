@@ -1670,12 +1670,12 @@
 * [libronube](https://www.libronube.com/) - Books
 * [eBiblioteca](https://ebiblioteca.org/) - Books
 * [ePub Gratis](https://www.epubgratis.info/) - Books
-* [Lectuepub](https://lectuepub2.com/) - Books
+* [LectuEpub](https://lectuepub2.com/) - Books
+* [LectuEpubGratis](https://lectuepubgratis2.com/) - Books
 * [Ebookelo](https://ww2.ebookelo.com/) - Books
-* [La Pirateca](https://lapirateca.com/) - Books
 * [EspaEbook](https://www.espaebook2.com/) - Books
 * [Lectulandia](https://ww3.lectulandia.com/), [2](https://ww3.lectulandia.co/) - Books
-* [LectuEpubGratis](https://lectuepubgratis2.com/) - Books
+* [La Pirateca](https://lapirateca.com/) - Books
 * [DebeLeer](https://www.debeleer.com/) - Books
 * [Elejandría](https://www.elejandria.com/) - Books
 * [El Libro Total](https://www.ellibrototal.com/ltotal/) - Books / Audiobooks
