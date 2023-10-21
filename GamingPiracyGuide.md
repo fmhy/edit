@@ -802,6 +802,7 @@
 * [WiiBrew](https://wiibrew.org/), [Wii Softmod Guide](https://sites.google.com/site/completesg) or [Wii Guide](https://wii.guide/) - Wii Homebrew Guides
 * [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - WiiU Homebrew Subreddit
 * [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - Wii Homebrew Installer / [Find MAC](https://en-americas-support.nintendo.com/app/products/detail/p/604)
+* [Retro Rewind](https://wiki.tockdom.com/wiki/Retro_Rewind) - Every Retro Mario Kart Track for MKW
 * [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - MKW Rebalanced Mod / [Discord](https://discord.gg/YZxyK4f3EU)
 * [MKW Texture Hacks](https://wiki.tockdom.com/wiki/Texture_Hack_Distribution) - Custom MKW Textures
 * [Custom Track Tutorial](https://wiki.tockdom.com/wiki/Custom_Track_Tutorial) - How-to Make Custom MKW Tracks
@@ -1338,6 +1339,7 @@
 * [MacroGamer](https://www.itoady.com/) - Game Macro Recorder
 * [BakkesMod](https://bakkesmod.com/) - Rocket League Trainer
 * [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - MKW Techniques, Glitches, & Exploits
+* [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
 * [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching
 * [Four-tris](https://github.com/fiorescarlatto/four-tris) - Tetris Training Client
