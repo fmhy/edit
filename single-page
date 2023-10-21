@@ -2158,7 +2158,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 ## Minecraft Mods
 
 * ⭐ **[Fabric Modlist](https://github.com/weebi/fabric-modlist)**
-* ⭐  **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)**
+* ⭐ **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)**
 
 [CurseForge](https://www.curseforge.com/minecraft/mc-mods) / [Search](https://superstormer.github.io/cf-search/), [Planet Minecraft](https://www.planetminecraft.com/), [Modrinth](https://modrinth.com/) / [Redirector](https://github.com/devBoi76/modrinthify), [MC Archive](https://mcarchive.net/), [Alternatives](https://microcontrollersdev.github.io/Alternatives/)
 
@@ -2167,7 +2167,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 ## Minecraft Optimization Mods
 
 * ⭐ **[Fabulously Optimised](https://github.com/Fabulously-Optimized/fabulously-optimized)**
-* ⭐ **[Sodium](https://modrinth.com/mod/sodium)** / [Indium](https://github.com/comp500/Indium/) / [Extra](https://modrinth.com/mod/sodium-extra)
+* [Sodium](https://modrinth.com/mod/sodium) / [Indium](https://github.com/comp500/Indium/) / [Extra](https://modrinth.com/mod/sodium-extra)
 
 [OptiFine](https://optifine.net/), [Phosphor](https://modrinth.com/mod/phosphor), [Ferrite Core](https://modrinth.com/mod/ferrite-core), [Caffeine](https://github.com/CaffeineMC), [Lithium](https://modrinth.com/mod/lithium), [Ares](https://www.aresclient.com/), [MinecraftTweaker](https://minecrafttweaker.net/), [VulkanMod](https://github.com/xCollateral/VulkanMod)
 
@@ -5439,7 +5439,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [PBNify](https://pbnify.com/) - Paint by Number Tool
 * [Paint with Music](https://artsandculture.google.com/experiment/paint-with-music/YAGuJyDB-XbbWg) - Paint with Sound
 * [Segment Anything](https://segment-anything.com/), [Samist](https://github.com/dibrale/samist), [EditAnything](https://www.editanything.ai/) or [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Image Segmentation Tools
-* [Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://magicstudio.com/magiceraser), [Remover](https://remover.zmo.ai/), [Cleanup.pictures](https://cleanup.pictures/) - Remove Objects from Photos
+* [Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://magicstudio.com/magiceraser), [Remover](https://remover.zmo.ai/), [Cleanup.pictures](https://cleanup.pictures/) or [ObjectRemover](https://objectremover.com/) - Remove Objects from Images
 * [InsertFace](https://insertface.com/) - Selfie Frames, Backgrounds & Effects
 * [Frame360](https://frame360.net/) - Image Frames
 * [Supershots](https://superblog.ai/supershots/) - Add Backgrounds to Images
@@ -5469,12 +5469,12 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Croppola](https://croppola.com/), [Freehand Cropper](https://half-6.github.io/lf-freehand-cropper/), [Bulk Image Crop](https://bulkimagecrop.com/), [Innocenzi](https://avatar.innocenzi.dev/), [CropHere](https://crophere.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools
 * [Seopix](https://www.seopix.io/), [Shrink Media](https://www.shrink.media/) or [Reduce Images](https://www.reduceimages.com/) - Resize / Compress Images
 * [Simple Image Resizer](https://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [fixpicture](https://www.fixpicture.org/), [PicResize](https://picresize.com/), [resize-image](https://resize-image.net/), [Birme](https://www.birme.net/), [ImageResizeOnline](https://www.imageresizeonline.com/), [OnlineResizeImage](https://www.onlineresizeimage.com/), [ResizeNow](https://www.resizenow.com/en), [BulkResizePhotos](https://bulkresizephotos.com/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - Resize Images
-* [Resize App Icon](https://resizeappicon.com/) - Resize Square Images 
+* [Resize App Icon](https://resizeappicon.com/) - Resize Square Images
 * [SSizes](https://ssizes.com/) or [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
 * [SVGO](https://github.com/svg/svgo) - SVG Optimization Tool / [GUI](https://jakearchibald.github.io/svgomg/)
-* [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [ImageDiamond](https://www.imagediamond.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [CrushImage](https://crushimage.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Compressor](https://compressor.io/) or [Batch Compress](https://batchcompress.com/en) - Image Compressor 
-* [TinyPNG](https://tinypng.com/), [Compress PNG](https://compresspng.com/), [OxiPNG](https://github.com/shssoichiro/oxipng) or [PNGQuant](https://pngquant.org/) - PNG Compressors 
-* [JPEG.rocks](https://jpeg.rocks/) - JPEG Re-Encoder 
+* [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [ImageCompresser](https://imagecompresser.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [ImageDiamond](https://www.imagediamond.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [CrushImage](https://crushimage.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Compressor](https://compressor.io/) or [Batch Compress](https://batchcompress.com/en) - Image Compressors 
+* [TinyPNG](https://tinypng.com/), [Compress PNG](https://compresspng.com/), [OxiPNG](https://github.com/shssoichiro/oxipng) or [PNGQuant](https://pngquant.org/) - PNG Compressors
+* [JPEG.rocks](https://jpeg.rocks/) - JPEG Re-Encoder
 
 *** 
 
@@ -5843,8 +5843,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ***
 
-## ▷  Hosting / Viewing 
+## ▷  Hosting / Viewing
 
+* 🌐 **[FOSS Photo Libraries](https://github.com/meichthys/foss_photo_libraries)** - Open-Source Photo Libraries
 * ↪️ **[Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosts)**
 * ↪️ **[Image Viewers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_viewers)**
 * ⭐ **[hydrus](https://hydrusnetwork.github.io/hydrus/)** - Booru-Style Media Tagger / [Github](https://github.com/hydrusnetwork/hydrus)
@@ -6428,6 +6429,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [watch.lonelil](https://watch.lonelil.com/tv) - TV / Sports / [Discord](https://discord.com/invite/BKts6Jb5sA)
 * [TNS-LIVE](https://live.tnsicn.com/) - TV / Sports / [Discord](https://discord.com/invite/mJyWFkGwQw)
 * [TOTV](http://totv.org/) - TV / Sport
+* [TheTVApp](https://thetvapp.to/) - TV / Sports
 * [DaddyLive](https://dlhd.sx/) - TV / Sport
 * [MrGamingStreams](https://mrgamingstreams.com/) - TV / Sports
 * [XUMO](https://www.xumo.tv/channels) - TV
@@ -6567,6 +6569,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
 * [FilmDuty](https://filmduty.com/) - Movies / TV / Anime / 1080p
 * [Reqzone](https://reqzone.com/) - Movies / TV / 1080p
+* [RLSXTVT](https://rlsxtvt.icu/) - Movies / TV / 1080p
 * [MegaDDL](https://megaddl.co/) - Movies / TV / 1080p / Some Paywalled
 * [UHDMovies](https://uhdmovies.wiki/) - Movies / 4K / [Telegram](https://t.me/moviesmodorg)
 * [Best-Movies](https://best-movies.info/) - Movies / TV / 4K
@@ -7004,7 +7007,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [HDAudiobooks](https://hdaudiobooks.com/) - Listen Online
 * [BigAudiobooks](https://bigaudiobooks.com/) - Listen Online
 * [BookAudiobook](https://bookaudiobooks.com/) - Listen Online
-* [HD Audio Books](https://hdaudiobooks.com/) - Listen Online
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) - Listen Online
 * [Audiobooks Lab](https://audiobooklabs.com/) - Listen Online
 * [Find Audiobook](https://findaudiobook.com/) - Listen Online
@@ -8377,7 +8379,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[NovelWriter](https://novelwriter.io/)** - Markdown Style Novel Editor
 * ⭐ **[TextCleanr](https://www.textcleanr.com/)** - Bulk Text Editor
 * ⭐ **[Cliche Info](http://cliche.theinfo.org/)** - Detect Cliché's
-* [Here and Now](https://here-and-now.glitch.me/) - Daily Reflections Journal
 * [Deardiary AI](https://deardiary.ai/) - Generate Songs for Journal Entries
 * [ChecklistGenerator](https://checklistgenerator.co/) - Checklist Generator
 * [Wonder](https://wonder-bot.com/) - Remember Things Easily
@@ -9330,7 +9331,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ↪️ **[Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_clients)**
 * ↪️ **[Encrypted Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_tools)**
-* ↪️ **[No Verification Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_sites)**
 * ↪️ **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)**
 * ⭐ **[nosms](https://rentry.co/nosms)** - Create Infinite Gmail Accounts
 * ⭐ **[Yandex Account Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator)** - Create Infinite Yandex Accounts
@@ -10601,6 +10601,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Codevolution](https://www.youtube.com/@Codevolution) - Web Dev Video Lessons
 * [HTMLDog](https://htmldog.com/) - HTML/CSS and JavaScript Tutorials
 * [Codepip](https://codepip.com/games/), [Grid Garden](https://cssgridgarden.com/), [CSS Battle](https://cssbattle.dev/), [CSS Speedrun](https://css-speedrun.netlify.app/) or [CSS Diner](https://flukeout.github.io/) - CSS Learning Games
+* [Flexbox Froggy](https://flexboxfroggy.com/) - CSS Flexbox Learning Game
 * [DefensiveCSS](https://defensivecss.dev/) - CSS Tips
 * [LearnCSSGrid](https://learncssgrid.com/) - CSS Grid Guide
 * [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS Demos
@@ -10910,7 +10911,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [CookieMetrix](https://www.cookiemetrix.com/) - EU Cookie Violation Test
 * [Violating GDPR](https://www.violating-gdpr.com/) - GDPR Violation Test
 * [Color Oracle](https://colororacle.org/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Test
-* [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) - Compare Website Performance
+* [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests
 * [Visual Mind AI](https://myraah.io/index.php/visualmind) - Site Visual Score
 * [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
 * [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
@@ -10993,13 +10994,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Improvemx](https://improvmx.com/) - Domain Email Forwarding
 * [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/ospfranco/link-preview-js) - Create Link Previews
 * [IP Intelligence](http://getipintel.com/) - Proxy / VPN / Bad IP Detection
-* [V2Ray](https://www.v2ray.com/) - Proxy Software
+* [V2Ray](https://www.v2fly.org/) - Proxy Software
 * [Traefik](https://traefik.io/traefik/), [frp](https://github.com/fatedier/frp) or [reverse-proxy](https://github.com/microsoft/reverse-proxy) - Reverse Proxies
-* [caddy-reverse-proxy](https://github.com/DanyTPG/caddy-reverse-proxy) - 1-Click Reverse Proxy
 * [Certbot](https://certbot.eff.org/) - Enable HTTPS Automatically
-* [MachineID](http://www.ionworx.com/machineid.html) - Hardware Identifier
-* [TrackMyBacklink](https://trackmybacklink.com/) - Backlink Tracker
-* [Free Backlink Builder](http://www.freebacklinkbuilder.net/) - Backlink Generator
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
 * [Bubble](https://bubble.io/), [WeWeb](https://www.weweb.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/), [Symfony](https://symfony.com/) / [CLI](https://github.com/symfony-cli/symfony-cli), [Create-react-app](https://github.com/facebook/create-react-app), [Lowdefy](https://lowdefy.com/) or [Sktch.io](https://sktch.io/) - Web App Creators
 * [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) - Web App UI Creators
@@ -11011,7 +11008,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [w3af](http://w3af.org/) or [ZAP](https://www.zaproxy.org/) - Web App Security Testing
 * [PWA Screenshot Generator](https://progressier.com/pwa-screenshots-generator) - Generate PWA Screenshots
 * [Form To Chatbot](https://formtochatbot.com/) - Convert Google Form to Chatbot
-* [Herosaver](https://github.com/amerrigan/HeroSaver-v2) - Save Site Configuration and STLs
 * [Termible](https://termible.io/) - Docker Powered Site Terminals
 * [Stackbit](https://www.stackbit.com/) - JamStack Tools 
 * [the New Dynamic](https://www.tnd.dev/) - JamStack Directory
@@ -11066,8 +11062,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Pixelfika](https://pixelfika.com/) - Site Design Examples
 * [WebDesignMuseum](https://www.webdesignmuseum.org/) - Website Designs Over Time
 * [CSS Zen Garden](http://www.csszengarden.com/) - CSS Site Examples
-* [Bootstrap](https://getbootstrap.com/) - Mobile Site Creator / [Icons](https://github.com/twbs/icons) / [Snippets](https://bootsnipp.com/)
-* [PsdRepo](https://psdrepo.com/) - Templates, Mockups, Logos, Video
+* [Bootstrap](https://getbootstrap.com/) - Mobile Site Creator / [Icons](https://github.com/twbs/icons) / [Snippets](https://bootsnipp.com/) / [UI Components](https://mdbootstrap.com/)
+* [PsdRepo](https://psdrepo.com/) - Templates, Mockups, Logos, Videos
 * [Daft Page](https://daftpage.com/) - Landing Page Creator
 * [LandingPage](https://landingpage.fyi/index.html) - Landing Page Tool Index
 * [SaaS Pages](https://saaspages.xyz/), [SaaS Landing Page](https://saaslandingpage.com/) or [lapa](https://www.lapa.ninja/) - Landing Page Templates / Ideas
@@ -11253,6 +11249,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Aspect](https://sample-code.aspect.app/) - Copy React Code from Any Site
 * [Refine](https://refine.dev/) - React App Builder
 * [Alright](https://github.com/DoneDeal0/alright-react-app) - Generate React Apps
+* [Radx UI](https://www.radix-ui.com/) - React App Component Library
 * [Codux](https://www.codux.com/) - Visual IDE for React
 * [React95](https://react95.io/) - Windows 95 React Components
 * [Zorm](https://github.com/esamattis/react-zorm) - ype-safe <form> for React
@@ -11470,6 +11467,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [ColorsAndFonts](https://www.colorsandfonts.com/) - Quickly Copy Colors & Typography Combinations 
 * [Paletton](https://paletton.com/) - Color Scheme Designer
 * [Duo](https://duo.alexpate.uk/) - Color Combinations
+* [Palettte](https://palettte.app/) - Color Palette Editor
 * [PaletteGenerator](https://palettegenerator.com/) or [Alwane](https://alwane.io/) - Color Palette Extractor
 * [Colorable](https://colorable.jxnblk.com/) / [GitHub](https://github.com/jxnblk/colorable), [accessible-color-matrix](https://toolness.github.io/accessible-color-matrix/) or [Accessible Brand Colors](https://abc.useallfive.com/) - Accessible Color Pallette Builders
 * [Simpler Color](https://github.com/arnelenero/simpler-color) - Create Web Color System
@@ -11572,6 +11570,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [tuc](https://github.com/riquito/tuc) - Improved Code Cut
 * [Mystb.in](https://mystb.in/) or [snippet.host](https://snippet.host/) - Code Pastebins
 * [0xacab](https://about.0xacab.org/) - Code Host
+* [Mockaroo](https://mockaroo.com/) - Generate Mock Data
 * [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
 * [Autosaved](https://github.com/nikochiko/autosaved) - Autosave Code / [GitHub](https://github.com/tkellogg/dura)
 * [Tasuku](https://github.com/privatenumber/tasuku) - Node.js Task Runner
@@ -11655,6 +11654,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Beautifier](https://beautifier.io/) - JavaScript Beautifier
 * [UglifyJS](https://skalman.github.io/UglifyJS-online/) or [JavaScript Compressor](https://javascriptcompressor.com/) - JavaScript Minifier
 * [bytecode-viewer](https://github.com/Konloch/bytecode-viewer), [JDec](https://jdec.app/), [jd-gui](https://github.com/java-decompiler/jd-gui), [Krakatau](https://github.com/Storyyeller/Krakatau), [Luyten](https://github.com/deathmarine/Luyten) or [Fernflower](https://github.com/fesh0r/fernflower) - Java Decompilers
+* [Obfuscator](https://obfuscator.io/) - JavaScript Obfuscator
 * [anime.js](https://animejs.com/) - JavaScript Animation Library / [GitHub](https://github.com/juliangarnier/anime/)
 * [randomcolor](https://randomcolor.lllllllllllllllll.com/) - Random Javascript Color Generator
 * [ASTExplorer](https://astexplorer.net/) - AST Viewer
@@ -11666,7 +11666,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Transluna](https://transluna.net/) - JSON Translator
 * [JMESPath](https://jmespath.org/) - Query Language for JSON / [Tutorial](https://jmespath.org/tutorial.html)
 * [zio-json](https://github.com/zio/zio-json) - JSON Library
-* [Mock Turtle](https://mockturtle.net/) - Generate Mock JSON Data
+* [Mock Turtle](https://mockturtle.net/)- Generate Mock JSON Data
 * [JSON Bin](https://jsonbin.io/) - JSON Host
 * [Countries](https://github.com/mledoze/countries) - World Countries in JSON, CSV, XML & YAML
 * [PlantText](https://www.planttext.com/) - UML Editor
@@ -11799,9 +11799,11 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds), [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://codioful.com/), [GradientMagic](https://www.gradientmagic.com/), [heropatterns](https://heropatterns.com/), [thepatternlibrary](http://thepatternlibrary.com/), [Blend](http://colinkeany.com/blend/), [GradHunt](https://gradihunt.com/), [Color Morph](https://www.color-morph.com/), [CSSGradient](https://cssgradient.io/) or [uigradients](https://uigradients.com/) - CSS Patterns / Gradients
 * [CSS Doodle](https://css-doodle.com/) - CSS Pattern Generator
 * [CSS3 Transform](https://css-transform.moro.es/) - 2D & 3D CSS Transform Functions Visualizer
+* [Gradient.style](https://gradient.style/) - CSS Gradient Generator
 * [Gradient Animator](https://www.gradient-animator.com/) - Animated CSS Gradient Generator
 * [LCH Colour Picker](https://css.land/lch/) or [147colors](https://147colors.com/) - CSS Color Pickers
 * [Color Blend](https://meyerweb.com/eric/tools/color-blend/) - CSS Color Blender
+* [FilterBlend](https://ilyashubin.github.io/FilterBlend/) - CSS Blend Modes
 * [Animista](https://animista.net/), [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate), [EasyEasings](https://easyeasings.com/) or [Woah.css](https://www.joerezendes.com/projects/Woah.css/) - CSS Animations
 * [Glass UI](https://ui.glass/generator/) - Glassmorphism CSS Generator
 * [Tableconvert](https://tableconvert.com/) - Markdown / Code Converter
@@ -11831,6 +11833,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Beeceptor](https://beeceptor.com/) - Mock REST APIs
 * [Insomnia](https://insomnia.rest/) - API Client
 * [Strapi](https://strapi.io/) or [Postman](https://www.postman.com/) - API Builders
+* [API Together](https://api.together.xyz/playground) - AI App API
 * [Siesta](https://github.com/bustoutsolutions/siesta) - Write REST API Clients for iOS / macOS
 * [Poll2Hook](https://poll2hook.com/) - REST API to Webhooks
 * [WebAuthn](https://webauthn.io/) - Data Security Authentication API
@@ -15187,7 +15190,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) - Create App Shortcuts
 * [Touch The Notch](https://play.google.com/store/apps/details?id=com.notch.touch) - Use Camera Notch as Button
 * [Shelter](https://gitea.angry.im/PeterCxy/Shelter) or [Insular](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps
-* [Uninstaller](https://play.google.com/store/apps/details?id=com.splendapps.shark) or [Bulk Uninstall](https://play.google.com/store/apps/details?id=com.bulk.uninstall) - App Uninstallers
+* [Uninstaller](https://play.google.com/store/apps/details?id=com.splendapps.shark), [Canta](https://github.com/samolego/Canta) or [Bulk Uninstall](https://play.google.com/store/apps/details?id=com.bulk.uninstall) - App Uninstallers
 * [AppBrain](https://www.appbrain.com/) - Analyze Android App Changes
 * [App Blocker](https://play.google.com/store/apps/details?id=com.mobteq.appblocker) - Block Apps
 * [openboard](https://github.com/openboard-team/openboard), [Simple Keyboard](https://github.com/rkkr/simple-keyboard), [Thumb-Key](https://github.com/dessalines/thumb-key) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
@@ -15466,7 +15469,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [You Have Mail](https://github.com/LeanderBB/you-have-mail) - Email Notifications
 * [Delta Lab](https://github.com/adbenitez/deltalab-android) - Email Based Messenger
 * [Endless](https://kaangiray26.github.io/endless/) - Combine Social Media Apps
-* [GrayJay](https://grayjay.app/) - Manage Content Creator Subscriptions
+* [GrayJay](https://grayjay.app/) - Manage Content Creator Subscriptions / [Gitlab](https://gitlab.futo.org/videostreaming/grayjay) / [Plugins](https://gitlab.futo.org/videostreaming/plugins)
 * [Eruda](https://pastebin.com/7qSZXjDS) - Mobile Browser Console / [Userscript](https://greasyfork.org/en/scripts/400760-console-for-mobile-browsers-eruda) / [Github](https://github.com/liriliri/eruda)
 * [Andure](https://github.com/leohku/andure) - Android Chrome Dev Tools
 * [MobiDevTools](https://addons.mozilla.org/en-US/firefox/addon/mobidevtools/) - Firefox Inspect Element
@@ -15689,7 +15692,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ↪️ **[Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots)**
 * ⭐ **[xManager](https://www.xmanagerapp.com/)** or [Modded Spotify](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-spotify-apk) - Ad Free Spotify
 * ⭐ **xManager Tools** - [Discord](https://discord.gg/Zu3JyxHD) / [Friend Activity](https://spotivity.me//) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
-* ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, [AudioTube](https://invent.kde.org/multimedia/audiotube), [Harmony Music](https://github.com/anandnet/Harmony-Music), [SimpMusic](https://github.com/maxrave-dev/SimpMusic), [Gyawun](https://github.com/sheikhhaziq/gyawun) or [MellowMusic](https://github.com/SuhasDissa/MellowMusic) - YouTube Music Players
+* ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, [AudioTube](https://invent.kde.org/multimedia/audiotube), [Harmony Music](https://github.com/anandnet/Harmony-Music), [SimpMusic](https://github.com/maxrave-dev/SimpMusic), [Gyawun](https://github.com/jhelumcorp/gyawun) or [MellowMusic](https://github.com/SuhasDissa/MellowMusic) - YouTube Music Players
 * ⭐ **[Soulseek](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)** - Audio Download App
 * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream PC Audio to Phone
 * ⭐ **[pScrobbler](https://github.com/kawaiiDango/pScrobbler)** - Android Scrobbler
@@ -16709,7 +16712,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * 🌐 **[smolOD](https://github.com/nbats/FMHYedit/blob/main/base64.md#smolod)** - Small Open Directories
 * ↪️ **[Open Directory Indexes](https://github.com/nbats/FMHYedit/blob/main/base64.md#open-directory-indexes)**
 * ↪️ **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
-* ↪️ **[Google TeamDrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#google-teamdrives)**
 * ↪️ **[Google Piracy Groups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_piracy_discussion_groups)**
 * ⭐ **[Directory Lister](https://directorylister.com/)** - Open Directory Explorer
 * ⭐ **[EyeDex](https://www.eyedex.org/)**, [ODCrawler](https://odcrawler.xyz/), [OpenSho](https://opendirindex.opensho.com/), [ODS](https://sites.google.com/view/l33tech/tools/ods) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engines
@@ -17600,6 +17602,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * ↪️ **[Font Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_font_sites)**
 * ↪️ **[Unicode Font Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_unicode_font_generators)**
 * ⭐ **[Font Download Guide](https://redd.it/8tqfg6)**
+* ⭐ **[Fontogen](https://github.com/SerCeMan/fontogen)** - Custom AI Font Generator
 * ⭐ **[Nerd Fonts](https://www.nerdfonts.com/)** - Iconic Font Aggregator
 * ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www10.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](http://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators
 * ⭐ **[WhatTheFont](https://www.myfonts.com/WhatTheFont/)**, [Identifont](http://www.identifont.com/), [WhatFont](http://www.chengyinliu.com/whatfont.html), [Fonty.io](https://fonty.io/) or [What Font Is](https://www.whatfontis.com/) - Font Identification Tools
@@ -17664,6 +17667,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * ⭐ **[Clipboard2File](https://pastebin.com/JjDzqq8x)** - Upload Images from Clipboard
 * ⭐ **[Redirector](https://einaregilsson.com/redirector/)** - Page Redirector
 * ⭐ **[Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web)**, [OpenAI Translator](https://github.com/yetone/openai-translator), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/), [Linguist Translator](https://github.com/translate-tools/linguist), [S3Translator](http://www.s3blog.org/s3translator.html), [Mate Translate](https://gikken.co/mate-translate) or [ImTranslator](https://imtranslator.net/) - Translation Extensions 
+* [CRX Viewer](https://robwu.nl/crxviewer/) - View Extension Source Code
 * [Extensions CSE](https://cse.google.com/cse?cx=86d64a73544824102) - Multi-Site Extension Search
 * [Into The Black Hole](https://pastebin.com/sTMkqJWD) - Dark Mode Browser Theme
 * [Buster](https://github.com/dessant/buster) or [JKCS](https://git.coom.tech/araragi/JKCS)  - Auto Captcha Solvers
@@ -17847,7 +17851,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [hektCaptcha](https://github.com/Wikidepia/hektCaptcha-extension) - Captcha Solver
 * [WebCRX](https://webcrx.io/) - Install Chrome CRX Files
 * [ChromeStats](https://chrome-stats.com/) - Compare / Analyze Chrome Extensions
-* [CRX Viewer](https://github.com/Rob--W/crxviewer) or [Extension Source Downloader](https://chrome.google.com/webstore/detail/extension-source-download/dlbdalfhhfecaekoakmanjflmdhmgpea) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
+* [Extension Source Downloader](https://chrome.google.com/webstore/detail/extension-source-download/dlbdalfhhfecaekoakmanjflmdhmgpea) - View Extension Source Code / [Guide](https://gist.github.com/paulirish/78d6c1406c901be02c2d)
 * [MarvellousSuspender](https://chrome.google.com/webstore/detail/the-marvellous-suspender/noogafoofpebimajpfpamcfhoaifemoa) - Tab Suspender
 * [Darkness](https://darkness.app/) - Dark Mode
 * [Picture-in-Picture](https://github.com/GoogleChromeLabs/picture-in-picture-chrome-extension) - Picture-in-Picture Mode
@@ -17872,7 +17876,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Query Side-By-Side](https://chrome.google.com/webstore/detail/double-shot-search-query/kddlkbpbepnaepdleclhdnfdpdogdhop) - Search Google & Bing at the Same Time
 * [SessionBox](https://chrome.google.com/webstore/detail/sessionbox-multi-login-to/megbklhjamjbcafknkgmokldgolkdfig?hl=en) - Multi-Account Login for any Site
 * [Selectable](https://chrome.google.com/webstore/detail/selectable-for-fanfiction/jcidlhgdoojamkbpmhbpgldmajnobefd?ucbcb=1) - Force Enable Select Text
-* [CF-Purge](https://www.cf-purge.com/) - Purge CloudFare Cache / [GitHub](https://github.com/cracker4o/purge-cf-cache-chrome-extension)
 * [Night Shift Redux](https://nightshift.lu/) - Adapts Display Color to Time of Day
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - Smooth Key Scrolling
 * [Wheel Smooth Scroller](https://chrome.google.com/webstore/detail/chromium-wheel-smooth-scr/khpcanbeojalbkpgpmjpdkjnkfcgfkhb?hl=en) - Smooth Scrolling
@@ -17957,7 +17960,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Select Text Inside Links
 * [Select All Checkboxes](https://greasyfork.org/en/scripts/22587) - Auto Check All Boxes
 * [Always Remember Me](https://openuserjs.org/scripts/Patabugen/Always_Remember_Me) - Always Tick "Remember Me" 
-* [Anti-Cookies Consent](https://greasyfork.org/en/scripts/432050-anti-cookies-consent) - Remove Cookie Consent Popups
 * [Direct Links Out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Remove "You are Leaving" Site Popups
 * [Sleek YouTube Downloader](https://greasyfork.org/en/scripts/438233) - Add Download Buttons to YouTube
 * [Google Cleaner](https://greasyfork.org/en/scripts/33313-google-cleaner) - Minimalist Google
@@ -17988,7 +17990,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** or **[Didn't Know I Wanted That](https://www.didntknowiwantedthat.com/)** - Find Interesting Things to Buy
 * ⭐ **[DarkPatternsTipline](https://darkpatternstipline.org/)** - Deceptive Service Design Tipline
 * [Pepper](https://www.pepper.com/) - Shopping Community
-* [AllArk](https://allark.io/) - Buy Stuff via Crypto
+* [AllArk](https://allark.io/) or [Monerica](https://monerica.com/) - Buy Stuff via Crypto
 * [BitRefill](https://www.bitrefill.com/) - Buy Gift Cards via Crypto
 * [Randomicle](https://randomicle.com/) - Random Amazon Products
 * [Amazon International Links](https://greasyfork.org/en/scripts/38639-amazon-international-links) - international Amazon Products
@@ -18467,7 +18469,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * ⭐ **[BAI](https://beta.theb.ai/)** - GPT-3.5 Based Chatbot
 * ⭐ **[Call Annie](https://callannie.ai/)** - GPT-3.5 Based Chatbot with Real-Time Voice / [Discord](https://discord.gg/Rfbzet5R3v)
 * ⭐ **[Nova AI](https://nova-oss.com/)** - Free GPT-4 Tokens / API / [Chat](https://chat.nova-oss.com/)
-* ⭐ **[Claude](https://www.anthropic.com/index/claude-now-in-slack)** - Anthropic's Chatbot
+* ⭐ **[Claude](https://claude.ai/)** - Anthropic's Chatbot
 * ⭐ **[Bard](https://bard.google.com/)** - Google's Chatbot
 * [FastGPT](https://labs.kagi.com/fastgpt) - Claude Based Q&A AI
 * [SydneyQt](https://github.com/juzeon/SydneyQt) - Jailbroken Bing AI Chatbot
@@ -18492,7 +18494,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * ⭐ **[llama.cpp](https://github.com/ggerganov/llama.cpp)** - Self-Host LLaMa Based Chatbots
 * ⭐ **[Guanaco](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi)** - QLoRA Based Chatbot / [Github](https://github.com/artidoro/qlora)
 * ⭐ **[LMSYS](https://chat.lmsys.org/)** - Compare Models / [Github](https://github.com/lm-sys/FastChat) / [Discord](https://discord.com/invite/h6kCZb72G7)
-* [SecondBrain](https://secondbrain.sh/), [ImStudio](https://lmstudio.ai/), [OnPrem](https://amaiya.github.io/onprem/) or [Faraday](https://faraday.dev/) - LLM Desktop Apps
+* [SecondBrain](https://secondbrain.sh/), [Mistral](https://mistral.ai/), [ImStudio](https://lmstudio.ai/), [OnPrem](https://amaiya.github.io/onprem/) or [Faraday](https://faraday.dev/) - LLM Desktop Apps
 * [Transfer Models Timeline](https://ai.v-gar.de/ml/transformer/timeline/) - LLM Timeline
 * [Falcon](https://huggingface.co/tiiuae/falcon-40b-instruct) - TII's Model
 * [ChatRWKV](https://huggingface.co/spaces/BlinkDL/ChatRWKV-gradio) - RWKV Based Chatbot / [Discord](https://discord.com/invite/bDSBUMeFpc)
@@ -19708,6 +19710,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [WiiBrew](https://wiibrew.org/), [Wii Softmod Guide](https://sites.google.com/site/completesg) or [Wii Guide](https://wii.guide/) - Wii Homebrew Guides
 * [/r/WiiHacks](https://www.reddit.com/r/WiiHacks/) - WiiU Homebrew Subreddit
 * [LetterBomb](https://please.hackmii.com/) or [str2hax](https://gbatemp.net/threads/a-channel-less-sd-less-entry-point-str2hax.523210/) - Wii Homebrew Installer / [Find MAC](https://en-americas-support.nintendo.com/app/products/detail/p/604)
+* [Retro Rewind](https://wiki.tockdom.com/wiki/Retro_Rewind) - Every Retro Mario Kart Track for MKW
 * [RiiBalanced](https://drive.google.com/file/d/1AKJH3s0YpxQ09eud0EEd2YVFJ56f9VuO/view) - MKW Rebalanced Mod / [Discord](https://discord.gg/YZxyK4f3EU)
 * [MKW Texture Hacks](https://wiki.tockdom.com/wiki/Texture_Hack_Distribution) - Custom MKW Textures
 * [Custom Track Tutorial](https://wiki.tockdom.com/wiki/Custom_Track_Tutorial) - How-to Make Custom MKW Tracks
@@ -20244,6 +20247,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [MacroGamer](https://www.itoady.com/) - Game Macro Recorder
 * [BakkesMod](https://bakkesmod.com/) - Rocket League Trainer
 * [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - MKW Techniques, Glitches, & Exploits
+* [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
 * [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching
 * [Four-tris](https://github.com/fiorescarlatto/four-tris) - Tetris Training Client
