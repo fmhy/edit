@@ -429,6 +429,7 @@
 * [watch.lonelil](https://watch.lonelil.com/tv) - TV / Sports / [Discord](https://discord.com/invite/BKts6Jb5sA)
 * [TNS-LIVE](https://live.tnsicn.com/) - TV / Sports / [Discord](https://discord.com/invite/mJyWFkGwQw)
 * [TOTV](http://totv.org/) - TV / Sport
+* [TheTVApp](https://thetvapp.to/) - TV / Sports
 * [DaddyLive](https://dlhd.sx/) - TV / Sport
 * [MrGamingStreams](https://mrgamingstreams.com/) - TV / Sports
 * [XUMO](https://www.xumo.tv/channels) - TV
@@ -568,6 +569,7 @@
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
 * [FilmDuty](https://filmduty.com/) - Movies / TV / Anime / 1080p
 * [Reqzone](https://reqzone.com/) - Movies / TV / 1080p
+* [RLSXTVT](https://rlsxtvt.icu/) - Movies / TV / 1080p
 * [MegaDDL](https://megaddl.co/) - Movies / TV / 1080p / Some Paywalled
 * [UHDMovies](https://uhdmovies.wiki/) - Movies / 4K / [Telegram](https://t.me/moviesmodorg)
 * [Best-Movies](https://best-movies.info/) - Movies / TV / 4K
