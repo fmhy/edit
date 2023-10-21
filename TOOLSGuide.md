@@ -126,7 +126,6 @@
 * ⭐ **[NovelWriter](https://novelwriter.io/)** - Markdown Style Novel Editor
 * ⭐ **[TextCleanr](https://www.textcleanr.com/)** - Bulk Text Editor
 * ⭐ **[Cliche Info](http://cliche.theinfo.org/)** - Detect Cliché's
-* [Here and Now](https://here-and-now.glitch.me/) - Daily Reflections Journal
 * [Deardiary AI](https://deardiary.ai/) - Generate Songs for Journal Entries
 * [ChecklistGenerator](https://checklistgenerator.co/) - Checklist Generator
 * [Wonder](https://wonder-bot.com/) - Remember Things Easily
@@ -1079,7 +1078,6 @@
 
 * ↪️ **[Email Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_clients)**
 * ↪️ **[Encrypted Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_email_tools)**
-* ↪️ **[No Verification Email](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_email_sites)**
 * ↪️ **[Temp Emails](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_temp_email_sites)**
 * ⭐ **[nosms](https://rentry.co/nosms)** - Create Infinite Gmail Accounts
 * ⭐ **[Yandex Account Creator](https://github.com/hendrikbgr/YandexMail-Account-Creator)** - Create Infinite Yandex Accounts
