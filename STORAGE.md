@@ -1592,7 +1592,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 ## Minecraft Mods
 
 * ⭐ **[Fabric Modlist](https://github.com/weebi/fabric-modlist)**
-* ⭐  **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)**
+* ⭐ **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)**
 
 [CurseForge](https://www.curseforge.com/minecraft/mc-mods) / [Search](https://superstormer.github.io/cf-search/), [Planet Minecraft](https://www.planetminecraft.com/), [Modrinth](https://modrinth.com/) / [Redirector](https://github.com/devBoi76/modrinthify), [MC Archive](https://mcarchive.net/), [Alternatives](https://microcontrollersdev.github.io/Alternatives/)
 
@@ -1601,7 +1601,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 ## Minecraft Optimization Mods
 
 * ⭐ **[Fabulously Optimised](https://github.com/Fabulously-Optimized/fabulously-optimized)**
-* ⭐ **[Sodium](https://modrinth.com/mod/sodium)** / [Indium](https://github.com/comp500/Indium/) / [Extra](https://modrinth.com/mod/sodium-extra)
+* [Sodium](https://modrinth.com/mod/sodium) / [Indium](https://github.com/comp500/Indium/) / [Extra](https://modrinth.com/mod/sodium-extra)
 
 [OptiFine](https://optifine.net/), [Phosphor](https://modrinth.com/mod/phosphor), [Ferrite Core](https://modrinth.com/mod/ferrite-core), [Caffeine](https://github.com/CaffeineMC), [Lithium](https://modrinth.com/mod/lithium), [Ares](https://www.aresclient.com/), [MinecraftTweaker](https://minecrafttweaker.net/), [VulkanMod](https://github.com/xCollateral/VulkanMod)
 
