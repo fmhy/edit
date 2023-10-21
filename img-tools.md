@@ -53,7 +53,7 @@
 * [PBNify](https://pbnify.com/) - Paint by Number Tool
 * [Paint with Music](https://artsandculture.google.com/experiment/paint-with-music/YAGuJyDB-XbbWg) - Paint with Sound
 * [Segment Anything](https://segment-anything.com/), [Samist](https://github.com/dibrale/samist), [EditAnything](https://www.editanything.ai/) or [sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Image Segmentation Tools
-* [Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://magicstudio.com/magiceraser), [Remover](https://remover.zmo.ai/), [Cleanup.pictures](https://cleanup.pictures/) - Remove Objects from Photos
+* [Lama Cleaner](https://lama-cleaner-docs.vercel.app/), [Inpaint](https://theinpaint.com/), [Magic Eraser](https://magicstudio.com/magiceraser), [Remover](https://remover.zmo.ai/), [Cleanup.pictures](https://cleanup.pictures/) or [ObjectRemover](https://objectremover.com/) - Remove Objects from Images
 * [InsertFace](https://insertface.com/) - Selfie Frames, Backgrounds & Effects
 * [Frame360](https://frame360.net/) - Image Frames
 * [Supershots](https://superblog.ai/supershots/) - Add Backgrounds to Images
@@ -83,12 +83,12 @@
 * [Croppola](https://croppola.com/), [Freehand Cropper](https://half-6.github.io/lf-freehand-cropper/), [Bulk Image Crop](https://bulkimagecrop.com/), [Innocenzi](https://avatar.innocenzi.dev/), [CropHere](https://crophere.com/) or [Avatar Cropper](https://avatarcropper.com/) - Cropping Tools
 * [Seopix](https://www.seopix.io/), [Shrink Media](https://www.shrink.media/) or [Reduce Images](https://www.reduceimages.com/) - Resize / Compress Images
 * [Simple Image Resizer](https://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [fixpicture](https://www.fixpicture.org/), [PicResize](https://picresize.com/), [resize-image](https://resize-image.net/), [Birme](https://www.birme.net/), [ImageResizeOnline](https://www.imageresizeonline.com/), [OnlineResizeImage](https://www.onlineresizeimage.com/), [ResizeNow](https://www.resizenow.com/en), [BulkResizePhotos](https://bulkresizephotos.com/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - Resize Images
-* [Resize App Icon](https://resizeappicon.com/) - Resize Square Images 
+* [Resize App Icon](https://resizeappicon.com/) - Resize Square Images
 * [SSizes](https://ssizes.com/) or [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
 * [SVGO](https://github.com/svg/svgo) - SVG Optimization Tool / [GUI](https://jakearchibald.github.io/svgomg/)
-* [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [ImageDiamond](https://www.imagediamond.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [CrushImage](https://crushimage.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Compressor](https://compressor.io/) or [Batch Compress](https://batchcompress.com/en) - Image Compressor 
-* [TinyPNG](https://tinypng.com/), [Compress PNG](https://compresspng.com/), [OxiPNG](https://github.com/shssoichiro/oxipng) or [PNGQuant](https://pngquant.org/) - PNG Compressors 
-* [JPEG.rocks](https://jpeg.rocks/) - JPEG Re-Encoder 
+* [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [ImageCompresser](https://imagecompresser.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [ImageDiamond](https://www.imagediamond.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [CrushImage](https://crushimage.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Compressor](https://compressor.io/) or [Batch Compress](https://batchcompress.com/en) - Image Compressors 
+* [TinyPNG](https://tinypng.com/), [Compress PNG](https://compresspng.com/), [OxiPNG](https://github.com/shssoichiro/oxipng) or [PNGQuant](https://pngquant.org/) - PNG Compressors
+* [JPEG.rocks](https://jpeg.rocks/) - JPEG Re-Encoder
 
 *** 
 
@@ -457,8 +457,9 @@
 
 ***
 
-## ▷  Hosting / Viewing 
+## ▷  Hosting / Viewing
 
+* 🌐 **[FOSS Photo Libraries](https://github.com/meichthys/foss_photo_libraries)** - Open-Source Photo Libraries
 * ↪️ **[Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_hosts)**
 * ↪️ **[Image Viewers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_viewers)**
 * ⭐ **[hydrus](https://hydrusnetwork.github.io/hydrus/)** - Booru-Style Media Tagger / [Github](https://github.com/hydrusnetwork/hydrus)
