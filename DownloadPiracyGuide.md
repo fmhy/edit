@@ -20,7 +20,6 @@
 * 🌐 **[smolOD](https://github.com/nbats/FMHYedit/blob/main/base64.md#smolod)** - Small Open Directories
 * ↪️ **[Open Directory Indexes](https://github.com/nbats/FMHYedit/blob/main/base64.md#open-directory-indexes)**
 * ↪️ **[Open Directory Search String Builders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_open_directory_search_string_builder)**, [2](https://redd.it/933pzm), [3](https://redd.it/g4kfem), [4](https://redd.it/lj0a1e), [5](http://torrbot.com/)
-* ↪️ **[Google TeamDrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#google-teamdrives)**
 * ↪️ **[Google Piracy Groups](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_piracy_discussion_groups)**
 * ⭐ **[Directory Lister](https://directorylister.com/)** - Open Directory Explorer
 * ⭐ **[EyeDex](https://www.eyedex.org/)**, [ODCrawler](https://odcrawler.xyz/), [OpenSho](https://opendirindex.opensho.com/), [ODS](https://sites.google.com/view/l33tech/tools/ods) or [mmnt](https://www.mmnt.net/) - Open Directory Search Engines
