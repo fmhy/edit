@@ -21,7 +21,6 @@
 * [HDAudiobooks](https://hdaudiobooks.com/) - Listen Online
 * [BigAudiobooks](https://bigaudiobooks.com/) - Listen Online
 * [BookAudiobook](https://bookaudiobooks.com/) - Listen Online
-* [HD Audio Books](https://hdaudiobooks.com/) - Listen Online
 * [GalaxyAudiobooks](https://galaxyaudiobook.com/) - Listen Online
 * [Audiobooks Lab](https://audiobooklabs.com/) - Listen Online
 * [Find Audiobook](https://findaudiobook.com/) - Listen Online
