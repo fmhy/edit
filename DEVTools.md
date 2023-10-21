@@ -98,6 +98,7 @@
 * [Codevolution](https://www.youtube.com/@Codevolution) - Web Dev Video Lessons
 * [HTMLDog](https://htmldog.com/) - HTML/CSS and JavaScript Tutorials
 * [Codepip](https://codepip.com/games/), [Grid Garden](https://cssgridgarden.com/), [CSS Battle](https://cssbattle.dev/), [CSS Speedrun](https://css-speedrun.netlify.app/) or [CSS Diner](https://flukeout.github.io/) - CSS Learning Games
+* [Flexbox Froggy](https://flexboxfroggy.com/) - CSS Flexbox Learning Game
 * [DefensiveCSS](https://defensivecss.dev/) - CSS Tips
 * [LearnCSSGrid](https://learncssgrid.com/) - CSS Grid Guide
 * [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS Demos
@@ -407,7 +408,7 @@
 * [CookieMetrix](https://www.cookiemetrix.com/) - EU Cookie Violation Test
 * [Violating GDPR](https://www.violating-gdpr.com/) - GDPR Violation Test
 * [Color Oracle](https://colororacle.org/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Test
-* [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) - Compare Website Performance
+* [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests
 * [Visual Mind AI](https://myraah.io/index.php/visualmind) - Site Visual Score
 * [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
 * [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
@@ -490,13 +491,9 @@
 * [Improvemx](https://improvmx.com/) - Domain Email Forwarding
 * [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/ospfranco/link-preview-js) - Create Link Previews
 * [IP Intelligence](http://getipintel.com/) - Proxy / VPN / Bad IP Detection
-* [V2Ray](https://www.v2ray.com/) - Proxy Software
+* [V2Ray](https://www.v2fly.org/) - Proxy Software
 * [Traefik](https://traefik.io/traefik/), [frp](https://github.com/fatedier/frp) or [reverse-proxy](https://github.com/microsoft/reverse-proxy) - Reverse Proxies
-* [caddy-reverse-proxy](https://github.com/DanyTPG/caddy-reverse-proxy) - 1-Click Reverse Proxy
 * [Certbot](https://certbot.eff.org/) - Enable HTTPS Automatically
-* [MachineID](http://www.ionworx.com/machineid.html) - Hardware Identifier
-* [TrackMyBacklink](https://trackmybacklink.com/) - Backlink Tracker
-* [Free Backlink Builder](http://www.freebacklinkbuilder.net/) - Backlink Generator
 * [Wappalyzer](https://www.wappalyzer.com/) - Identify Technologies on Websites / [Addons](https://www.wappalyzer.com/apps/)
 * [Bubble](https://bubble.io/), [WeWeb](https://www.weweb.io/), [opensilver](https://opensilver.net/), [Anvil](https://anvil.works/), [Symfony](https://symfony.com/) / [CLI](https://github.com/symfony-cli/symfony-cli), [Create-react-app](https://github.com/facebook/create-react-app), [Lowdefy](https://lowdefy.com/) or [Sktch.io](https://sktch.io/) - Web App Creators
 * [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) - Web App UI Creators
@@ -508,7 +505,6 @@
 * [w3af](http://w3af.org/) or [ZAP](https://www.zaproxy.org/) - Web App Security Testing
 * [PWA Screenshot Generator](https://progressier.com/pwa-screenshots-generator) - Generate PWA Screenshots
 * [Form To Chatbot](https://formtochatbot.com/) - Convert Google Form to Chatbot
-* [Herosaver](https://github.com/amerrigan/HeroSaver-v2) - Save Site Configuration and STLs
 * [Termible](https://termible.io/) - Docker Powered Site Terminals
 * [Stackbit](https://www.stackbit.com/) - JamStack Tools 
 * [the New Dynamic](https://www.tnd.dev/) - JamStack Directory
@@ -563,8 +559,8 @@
 * [Pixelfika](https://pixelfika.com/) - Site Design Examples
 * [WebDesignMuseum](https://www.webdesignmuseum.org/) - Website Designs Over Time
 * [CSS Zen Garden](http://www.csszengarden.com/) - CSS Site Examples
-* [Bootstrap](https://getbootstrap.com/) - Mobile Site Creator / [Icons](https://github.com/twbs/icons) / [Snippets](https://bootsnipp.com/)
-* [PsdRepo](https://psdrepo.com/) - Templates, Mockups, Logos, Video
+* [Bootstrap](https://getbootstrap.com/) - Mobile Site Creator / [Icons](https://github.com/twbs/icons) / [Snippets](https://bootsnipp.com/) / [UI Components](https://mdbootstrap.com/)
+* [PsdRepo](https://psdrepo.com/) - Templates, Mockups, Logos, Videos
 * [Daft Page](https://daftpage.com/) - Landing Page Creator
 * [LandingPage](https://landingpage.fyi/index.html) - Landing Page Tool Index
 * [SaaS Pages](https://saaspages.xyz/), [SaaS Landing Page](https://saaslandingpage.com/) or [lapa](https://www.lapa.ninja/) - Landing Page Templates / Ideas
@@ -750,6 +746,7 @@
 * [Aspect](https://sample-code.aspect.app/) - Copy React Code from Any Site
 * [Refine](https://refine.dev/) - React App Builder
 * [Alright](https://github.com/DoneDeal0/alright-react-app) - Generate React Apps
+* [Radx UI](https://www.radix-ui.com/) - React App Component Library
 * [Codux](https://www.codux.com/) - Visual IDE for React
 * [React95](https://react95.io/) - Windows 95 React Components
 * [Zorm](https://github.com/esamattis/react-zorm) - ype-safe <form> for React
@@ -967,6 +964,7 @@
 * [ColorsAndFonts](https://www.colorsandfonts.com/) - Quickly Copy Colors & Typography Combinations 
 * [Paletton](https://paletton.com/) - Color Scheme Designer
 * [Duo](https://duo.alexpate.uk/) - Color Combinations
+* [Palettte](https://palettte.app/) - Color Palette Editor
 * [PaletteGenerator](https://palettegenerator.com/) or [Alwane](https://alwane.io/) - Color Palette Extractor
 * [Colorable](https://colorable.jxnblk.com/) / [GitHub](https://github.com/jxnblk/colorable), [accessible-color-matrix](https://toolness.github.io/accessible-color-matrix/) or [Accessible Brand Colors](https://abc.useallfive.com/) - Accessible Color Pallette Builders
 * [Simpler Color](https://github.com/arnelenero/simpler-color) - Create Web Color System
@@ -1069,6 +1067,7 @@
 * [tuc](https://github.com/riquito/tuc) - Improved Code Cut
 * [Mystb.in](https://mystb.in/) or [snippet.host](https://snippet.host/) - Code Pastebins
 * [0xacab](https://about.0xacab.org/) - Code Host
+* [Mockaroo](https://mockaroo.com/) - Generate Mock Data
 * [OneLang IDE](https://ide.onelang.io/) - Convert Code to Multiple Languages
 * [Autosaved](https://github.com/nikochiko/autosaved) - Autosave Code / [GitHub](https://github.com/tkellogg/dura)
 * [Tasuku](https://github.com/privatenumber/tasuku) - Node.js Task Runner
@@ -1152,6 +1151,7 @@
 * [Beautifier](https://beautifier.io/) - JavaScript Beautifier
 * [UglifyJS](https://skalman.github.io/UglifyJS-online/) or [JavaScript Compressor](https://javascriptcompressor.com/) - JavaScript Minifier
 * [bytecode-viewer](https://github.com/Konloch/bytecode-viewer), [JDec](https://jdec.app/), [jd-gui](https://github.com/java-decompiler/jd-gui), [Krakatau](https://github.com/Storyyeller/Krakatau), [Luyten](https://github.com/deathmarine/Luyten) or [Fernflower](https://github.com/fesh0r/fernflower) - Java Decompilers
+* [Obfuscator](https://obfuscator.io/) - JavaScript Obfuscator
 * [anime.js](https://animejs.com/) - JavaScript Animation Library / [GitHub](https://github.com/juliangarnier/anime/)
 * [randomcolor](https://randomcolor.lllllllllllllllll.com/) - Random Javascript Color Generator
 * [ASTExplorer](https://astexplorer.net/) - AST Viewer
@@ -1163,7 +1163,7 @@
 * [Transluna](https://transluna.net/) - JSON Translator
 * [JMESPath](https://jmespath.org/) - Query Language for JSON / [Tutorial](https://jmespath.org/tutorial.html)
 * [zio-json](https://github.com/zio/zio-json) - JSON Library
-* [Mock Turtle](https://mockturtle.net/) - Generate Mock JSON Data
+* [Mock Turtle](https://mockturtle.net/)- Generate Mock JSON Data
 * [JSON Bin](https://jsonbin.io/) - JSON Host
 * [Countries](https://github.com/mledoze/countries) - World Countries in JSON, CSV, XML & YAML
 * [PlantText](https://www.planttext.com/) - UML Editor
@@ -1296,9 +1296,11 @@
 * [MagicPattern](https://www.magicpattern.design/tools/css-backgrounds), [css3patterns](https://projects.verou.me/css3patterns/), [gradienta](https://codioful.com/), [GradientMagic](https://www.gradientmagic.com/), [heropatterns](https://heropatterns.com/), [thepatternlibrary](http://thepatternlibrary.com/), [Blend](http://colinkeany.com/blend/), [GradHunt](https://gradihunt.com/), [Color Morph](https://www.color-morph.com/), [CSSGradient](https://cssgradient.io/) or [uigradients](https://uigradients.com/) - CSS Patterns / Gradients
 * [CSS Doodle](https://css-doodle.com/) - CSS Pattern Generator
 * [CSS3 Transform](https://css-transform.moro.es/) - 2D & 3D CSS Transform Functions Visualizer
+* [Gradient.style](https://gradient.style/) - CSS Gradient Generator
 * [Gradient Animator](https://www.gradient-animator.com/) - Animated CSS Gradient Generator
 * [LCH Colour Picker](https://css.land/lch/) or [147colors](https://147colors.com/) - CSS Color Pickers
 * [Color Blend](https://meyerweb.com/eric/tools/color-blend/) - CSS Color Blender
+* [FilterBlend](https://ilyashubin.github.io/FilterBlend/) - CSS Blend Modes
 * [Animista](https://animista.net/), [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate), [EasyEasings](https://easyeasings.com/) or [Woah.css](https://www.joerezendes.com/projects/Woah.css/) - CSS Animations
 * [Glass UI](https://ui.glass/generator/) - Glassmorphism CSS Generator
 * [Tableconvert](https://tableconvert.com/) - Markdown / Code Converter
@@ -1328,6 +1330,7 @@
 * [Beeceptor](https://beeceptor.com/) - Mock REST APIs
 * [Insomnia](https://insomnia.rest/) - API Client
 * [Strapi](https://strapi.io/) or [Postman](https://www.postman.com/) - API Builders
+* [API Together](https://api.together.xyz/playground) - AI App API
 * [Siesta](https://github.com/bustoutsolutions/siesta) - Write REST API Clients for iOS / macOS
 * [Poll2Hook](https://poll2hook.com/) - REST API to Webhooks
 * [WebAuthn](https://webauthn.io/) - Data Security Authentication API
