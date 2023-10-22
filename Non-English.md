@@ -1515,6 +1515,7 @@
 * [Bliscop](https://www.bliscop.com/) - Online Payment Software
 * [El Museo de los 8 bits](http://www.museo8bits.es/) / [2](https://museo8bits.com/) - History of Computing
 * [TrustScam](https://trustscam.es/) - Website Security Analysis
+* [Steamcito](https://emilianog94.github.io/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos/landing/index.html) - Converts Steam Prices to Argentine Pesos
 
 ## ▷ Downloading
 
@@ -1963,7 +1964,6 @@
 
 * [Keyman](https://keyman.com/) - Multi-Language Keyboard Files
 * [Non-English Ebook & Audiobook Sites](https://redd.it/gehkl0)
-* [Zoro.to](https://zoro.to/) - Multiple Language Subtitles / Anime
 * [Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drama_streaming)
 * [Einthusan](https://einthusan.tv/intro/) - South Asian Films Archive
 * [Jainism Library of Jain Literature](http://www.atmadharma.com/index.html) - Sacred Texts / Religion / Multi Language
@@ -1984,4 +1984,3 @@
 * [zoom.lk](https://zoom.lk/) - Sinhalese / Subtitles
 * [Kurdsubtitle](https://kurdsubtitle.net) - Kurdish / Subtitles
 * [KurdCinema](https://www.kurdcinama.com/) - Kurdish / Streaming / Movies / TV / Anime / Cartoons
-* [Steamcito](https://emilianog94.github.io/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos/landing/index.html) - Converts Steam Prices to Argentine Pesos
