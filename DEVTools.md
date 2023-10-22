@@ -1,5 +1,3 @@
-![image](https://github.com/fmhy/FMHYedit/assets/110323644/2ebaef5d-cca5-4b0e-b2dc-839476fe32a3)![image](https://github.com/fmhy/FMHYedit/assets/110323644/3c62fa49-14b3-4626-9295-f95168c564bd)***
-***
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 ***
 ***
