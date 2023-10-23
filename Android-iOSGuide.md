@@ -87,8 +87,9 @@
 
 ## ▷ FOSS APKs
 
-* 🌐  **[Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md)**, [FossDroid](https://fossdroid.com/), [OS Apps](https://github.com/pcqpcq/open-source-android-apps), [AAA](https://github.com/Psyhackological/AAA), [/r/u_Jackie7610](https://redd.it/jhtvn4), [Cool FOSS](https://albertomosconi.github.io/foss-apps/) or [Android FOSS](https://github.com/offa/android-foss) - FOSS App Indexes
-* 🌐  **[Awesome Android Kotlin Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)** - Kotlin App Index
+* 🌐 **[Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md)**, [FossDroid](https://fossdroid.com/), [OS Apps](https://github.com/pcqpcq/open-source-android-apps), [AAA](https://github.com/Psyhackological/AAA), [/r/u_Jackie7610](https://redd.it/jhtvn4), [Cool FOSS](https://albertomosconi.github.io/foss-apps/) or [Android FOSS](https://github.com/offa/android-foss) - FOSS App Indexes
+* 🌐 **[Awesome Kotlin](https://github.com/androiddevnotes/awesome-android-kotlin-apps)** - Kotlin App Index
+* 🌐 **[Awesome Shizuku](https://github.com/ThePBone/awesome-shizuku)** - Shizuku App Index
 * ⭐ **[F-Droid](https://f-droid.org/)** - FOSS App Installer
 * ⭐ **F-Droid Tools** - [Resources](https://fdroidfamily.codeberg.page/) / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
 * ⭐ **F-Droid Clients** - [Droid-ify](https://github.com/Iamlooker/Droid-ify) / [Classic Client](https://git.bubu1.eu/Bubu/fdroidclassic) / [Neo Store](https://github.com/NeoApplications/Neo-Store)
@@ -752,7 +753,7 @@
 * ↪️ **[Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots)**
 * ⭐ **[xManager](https://www.xmanagerapp.com/)** or [Modded Spotify](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-spotify-apk) - Ad Free Spotify
 * ⭐ **xManager Tools** - [Discord](https://discord.gg/Zu3JyxHD) / [Friend Activity](https://spotivity.me//) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
-* ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, [AudioTube](https://invent.kde.org/multimedia/audiotube), [Harmony Music](https://github.com/anandnet/Harmony-Music), [SimpMusic](https://github.com/maxrave-dev/SimpMusic), [Gyawun](https://github.com/jhelumcorp/gyawun) or [MellowMusic](https://github.com/SuhasDissa/MellowMusic) - YouTube Music Players
+* ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, [Namida](https://github.com/namidaco/namida), [AudioTube](https://invent.kde.org/multimedia/audiotube), [Harmony Music](https://github.com/anandnet/Harmony-Music), [SimpMusic](https://github.com/maxrave-dev/SimpMusic), [Gyawun](https://github.com/jhelumcorp/gyawun) or [MellowMusic](https://github.com/SuhasDissa/MellowMusic) - YouTube Music Players
 * ⭐ **[Soulseek](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)** - Audio Download App
 * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream PC Audio to Phone
 * ⭐ **[pScrobbler](https://github.com/kawaiiDango/pScrobbler)** - Android Scrobbler
