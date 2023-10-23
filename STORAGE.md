@@ -1682,6 +1682,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[cobalt](https://cobalt.tools/)**
 * ⭐ **[9xbuddy](https://9xbuddy.xyz/)**, [2](https://9xbuddy.com/)
 * ⭐ **[Lux](https://github.com/iawia002/lux)**
+* [CD[R]M-Project](https://discord.gg/eeUUgJuhz2) - Streamfab Crack
 
 [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader), [ytDownloader](https://ytdn.netlify.app/), [savieo](https://savieo.com/), [TubeOffline](https://www.tubeoffline.com/), [clipconverter](https://www.clipconverter.cc/2/), [clipgrab](https://clipgrab.org/), [4kdownload](https://www.4kdownload.com/), [bitdownloader](https://bitdownloader.io/), [you-get](https://you-get.org/), [catchvideo](https://catchvideo.net/), [Catch-Tube](https://catch.tube/), [SaveVideo.me](https://savevideo.me/), [LocoDownloader](https://locoloader.com/), [Yout](https://yout.com/), [Keepv.id](https://keepv.id/), [downloader-ui](https://github.com/Mqlhaha/downloader-ui), [Vividl](https://sourceforge.net/projects/vividl/), [ddownloader](https://ddownloader.com/), [pastedownload](https://pastedownload.com/), [weibomiaopai](https://weibomiaopai.com/download-video-parser.php), [gramvio](https://www.gramvio.com/), [tubeninja](https://www.tubeninja.net/), [savethevideo](https://www.savethevideo.com/), [dodoconverter](https://dodoconverter.com/), [zasasa](http://www.zasasa.com/), [ByClickDownloader](https://www.byclickdownloader.com/), [Lux](https://github.com/iawia002/lux), [superparse](https://superparse.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler), [GrabFrom](https://www.grabfrom.com/), [very.ninja](https://very.ninja/), [videograbber](https://www.videograbber.net/), [godownloader](https://godownloader.com/), [dobd](https://www.dobd.xyz/), [webvideo-downloader](https://github.com/jaysonlong/webvideo-downloader)
 
@@ -1778,8 +1779,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ⭐ **[Microsoft Office](https://massgrave.dev/office_c2r_links.html)**
 * ⭐ **[Custom Microsoft Office](https://massgrave.dev/office_c2r_custom.html)**
+* ⭐ **[OnHook](https://massgrave.dev/ohook.html)** or [Activation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation) - Activate Microsoft Office
 * [Microsoft Office DL Guides](https://github.com/nbats/FMHYedit/blob/main/base64.md##microsoft-office-dl-guides)
-* [Activation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation) - Activate Microsoft Office
 * [MS Office Hot Keys](https://i.ibb.co/0m9t95b/ebacd47bf83b.png)
 * [MS Office Account Creator](https://github.com/adityash4rma/bulk_microsoft_A1_creator)
 * [LibreOffice](https://www.libreoffice.org/)
