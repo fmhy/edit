@@ -343,7 +343,6 @@
 * [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
 * [VidCoder](https://vidcoder.net/) or [DVDDecrypter](http://dvddecrypter.org.uk/) - DVD / Blu-Ray Ripping
 * [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-Ray Ripping
-* [DVDFab](https://www.dvdfab.cn/free.htm) - Free DVD Related Programs
 * [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder
 * [hdr10plus_tool](https://github.com/quietvoid/hdr10plus_tool) - HDR10+ CLI Utility
 * [Monzoom](https://www.monzoom.com/) - Video Assets
