@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/Ybf8gzc)** - For mobile users
+**[Table of Contents](https://ibb.co/nDm2yJj)** - For mobile users
 
 ***
 ***
@@ -497,7 +497,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ## Color Palette Generators
 
-[Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/), [ColorSpace](https://mycolor.space/), [Material Palette](https://www.materialpalette.com/), [Adobe Color](https://color.adobe.com/), [0to255](https://0to255.com/), [Bootflat](https://bootflat.github.io/color-picker.html), [BrandColors](https://brandcolors.net/), [colorful gradients](https://colorfulgradients.tumblr.com/), [COLOURlovers](https://www.colourlovers.com/), [CoolHue](https://webkul.github.io/coolhue/), [Flat UI Colors 2](https://flatuicolors.com/), [Material UI](https://materialui.co/colors/), [Color Hunt](https://colorhunt.co/), [ColorsWall](https://colorswall.com/), [Pigment](https://pigment.shapefactory.co/), [Image to Color Palette Generator](http://www.patorjk.com/color-palette-generator/), [ColourCode](https://www.toptal.com/designers/colourcode/), [Colorscales](http://www.colorscales.com/), [colors.lol](https://colors.lol/), [Color Palette Generator](https://www.degraeve.com/color-palette), [ColorBox](https://colorbox.io/), [Eva Design System](https://colors.eva.design/), [Scale](https://hihayk.github.io/scale/), [calcolor.co](https://calcolor.co/), [Color Lisa](https://colorlisa.com/), [Cohesive Colors](https://javier.xyz/cohesive-colors/), [Color Leap](https://colorleap.app/), [ColorHuddle](https://colorhuddle.co/), [Coolors](https://coolors.co/), [UI Colors](https://uicolors.app/create), [Randoma11y](https://randoma11y.com/), [Pywal](https://github.com/dylanaraps/pywal), [ColorKit](https://colorkit.co/color-palette-generator/), [Huemint](https://huemint.com/), [accessiblepalette](https://accessiblepalette.com/), [colorcolor](https://colorcolor.in/), [copypalette](https://copypalette.app/), [couleur.io](https://couleur.io/), [poolors](https://poolors.com/), [supercolorpalette](https://supercolorpalette.com/), [easycolour](https://easycolour.app/), [goodpalette](https://goodpalette.io/), [hue.tools](https://hue.tools/), [huey](https://huey.design/)
+[Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/), [ColorSpace](https://mycolor.space/), [Material Palette](https://www.materialpalette.com/), [Adobe Color](https://color.adobe.com/), [0to255](https://0to255.com/), [Bootflat](https://bootflat.github.io/color-picker.html), [BrandColors](https://brandcolors.net/), [colorful gradients](https://colorfulgradients.tumblr.com/), [COLOURlovers](https://www.colourlovers.com/), [CoolHue](https://webkul.github.io/coolhue/), [Flat UI Colors 2](https://flatuicolors.com/), [Material UI](https://materialui.co/colors/), [Color Hunt](https://colorhunt.co/), [ColorsWall](https://colorswall.com/), [Pigment](https://pigment.shapefactory.co/), [Image to Color Palette Generator](http://www.patorjk.com/color-palette-generator/), [ColourCode](https://www.toptal.com/designers/colourcode/), [Colorscales](http://www.colorscales.com/), [colors.lol](https://colors.lol/), [Color Palette Generator](https://www.degraeve.com/color-palette), [ColorBox](https://colorbox.io/), [Eva Design System](https://colors.eva.design/), [Scale](https://hihayk.github.io/scale/), [calcolor.co](https://calcolor.co/), [Color Lisa](https://colorlisa.com/), [Cohesive Colors](https://javier.xyz/cohesive-colors/), [Color Leap](https://colorleap.app/), [ColorHuddle](https://colorhuddle.co/), [Coolors](https://coolors.co/), [UI Colors](https://uicolors.app/create), [Randoma11y](https://randoma11y.com/), [Pywal](https://github.com/dylanaraps/pywal), [ColorKit](https://colorkit.co/color-palette-generator/), [Huemint](https://huemint.com/), [accessiblepalette](https://accessiblepalette.com/), [colorcolor](https://colorcolor.in/), [copypalette](https://copypalette.app/), [couleur.io](https://couleur.io/), [poolors](https://poolors.com/), [supercolorpalette](https://supercolorpalette.com/), [easycolour](https://easycolour.app/), [goodpalette](https://goodpalette.io/), [hue.tools](https://hue.tools/), [huey](https://huey.design/), [Schemist](https://schemist.fglt.fr/)
 
 ***
 
@@ -1162,7 +1162,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ## Graphic Design Tools
 
-* ⭐ **[Canva Pro](https://blooem.pages.dev/wiki/canvapro/)** or [CanvaPro365](https://t.me/canvapro365free)
+* [CanvaPro365](https://t.me/canvapro365free) - Canva Pro Free
 
 [Design Cap](https://www.designcap.com/), [lunacy](https://icons8.com/lunacy), [Desygner](https://desygner.com/), [Canva](http://canva.com/), [Stencil](https://getstencil.com/), [Design Studio](https://designstudio.smallseotools.com/), [Snappa](https://snappa.com/), [FotoJet](https://www.fotojet.com/), [Emaze](https://www.emaze.com/), [ArtBoard](https://artboard.studio/), [Venngage](https://venngage.com/), [VistaCreate](https://create.vista.com/), [PosterMyWall](https://www.postermywall.com/), [Pixelied](https://pixelied.com/), [blush]( https://blush.design/)
 
@@ -1682,7 +1682,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[cobalt](https://cobalt.tools/)**
 * ⭐ **[9xbuddy](https://9xbuddy.xyz/)**, [2](https://9xbuddy.com/)
 * ⭐ **[Lux](https://github.com/iawia002/lux)**
-* [CD[R]M-Project](https://discord.gg/eeUUgJuhz2) - Streamfab Crack
+* [CD[R]M-Project](https://discord.gg/eeUUgJuhz2) - StreamFab Crack
 
 [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader), [ytDownloader](https://ytdn.netlify.app/), [savieo](https://savieo.com/), [TubeOffline](https://www.tubeoffline.com/), [clipconverter](https://www.clipconverter.cc/2/), [clipgrab](https://clipgrab.org/), [4kdownload](https://www.4kdownload.com/), [bitdownloader](https://bitdownloader.io/), [you-get](https://you-get.org/), [catchvideo](https://catchvideo.net/), [Catch-Tube](https://catch.tube/), [SaveVideo.me](https://savevideo.me/), [LocoDownloader](https://locoloader.com/), [Yout](https://yout.com/), [Keepv.id](https://keepv.id/), [downloader-ui](https://github.com/Mqlhaha/downloader-ui), [Vividl](https://sourceforge.net/projects/vividl/), [ddownloader](https://ddownloader.com/), [pastedownload](https://pastedownload.com/), [weibomiaopai](https://weibomiaopai.com/download-video-parser.php), [gramvio](https://www.gramvio.com/), [tubeninja](https://www.tubeninja.net/), [savethevideo](https://www.savethevideo.com/), [dodoconverter](https://dodoconverter.com/), [zasasa](http://www.zasasa.com/), [ByClickDownloader](https://www.byclickdownloader.com/), [Lux](https://github.com/iawia002/lux), [superparse](https://superparse.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler), [GrabFrom](https://www.grabfrom.com/), [very.ninja](https://very.ninja/), [videograbber](https://www.videograbber.net/), [godownloader](https://godownloader.com/), [dobd](https://www.dobd.xyz/), [webvideo-downloader](https://github.com/jaysonlong/webvideo-downloader)
 
@@ -1779,7 +1779,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ⭐ **[Microsoft Office](https://massgrave.dev/office_c2r_links.html)**
 * ⭐ **[Custom Microsoft Office](https://massgrave.dev/office_c2r_custom.html)**
-* ⭐ **[OnHook](https://massgrave.dev/ohook.html)** or [Activation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation) - Activate Microsoft Office
+* [Activation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation) - Activate Microsoft Office
 * [Microsoft Office DL Guides](https://github.com/nbats/FMHYedit/blob/main/base64.md##microsoft-office-dl-guides)
 * [MS Office Hot Keys](https://i.ibb.co/0m9t95b/ebacd47bf83b.png)
 * [MS Office Account Creator](https://github.com/adityash4rma/bulk_microsoft_A1_creator)
@@ -1940,7 +1940,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 * ⭐ **[Unblockit](https://unblockit.asia/)** / [/r/Unblockit](https://www.reddit.com/r/Unblockit/)
 
-[Knaben's Proxy List](https://knaben.info/), [unblockninja](https://unblockninja.com/), [uProxy](https://uproxy.to/), [unblocktorrent](https://unblocktorrent.com/), [TorrentBay](https://torrentbay.net/), [unblock.soy](https://unblock.soy/) / [2](https://en-proxy.com/) / [3](https://unb.how/) / [4](https://unblockedscene.com/), [piracyproxy](https://piracyproxy.page/), [unblockedfor](https://unblockedfor.me/), [unblocksource](https://unblocksource.top/), [dirproxy](https://dirproxy.cc/), [ProxyNinja](https://proxyninja.org/), [ABCProxy](https://abcproxy.org/),  [Squid Proxy](https://www.squid-proxy.net/), [immortalproxy](https://immortalproxy.com/) 
+[Knaben's Proxy List](https://knaben.info/), [unblockninja](https://unblockninja.com/), [uProxy](https://uproxy.to/), [unblocktorrent](https://unblocktorrent.com/), [TorrentBay](https://torrentbay.net/), [unblock.soy](https://unblock.soy/) / [2](https://en-proxy.com/) / [3](https://unb.how/) / [4](https://unblockedscene.com/), [piracyproxy](https://piracyproxy.page/), [unblocksource](https://unblocksource.top/), [dirproxy](https://dirproxy.cc/), [ProxyNinja](https://proxyninja.org/), [ABCProxy](https://abcproxy.org/), [immortalproxy](https://immortalproxy.com/) 
 
 ***
 
@@ -3354,6 +3354,14 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 ### Simple Site Creators
 
 [Straw.Page](https://straw.page/), [Own Free Website](https://www.own-free-website.com), [itty.bitty](https://itty.bitty.site/), [mmm](https://build.mmm.page/), [cargo](https://cargo.site/), [Talium](https://talium.co/), [Jigsy](https://jigsy.com/), [Temper](https://temper.one/), [Neocities](https://neocities.org/), [Mobirise](https://mobirise.com/), [Silex](https://www.silex.me/), [Publii](https://getpublii.com/), [11ty](https://11ty.dev/)
+
+***
+
+## Website Templates
+
+* [Boilerplate](https://github.com/h5bp/html5-boilerplate) - Website Frontend Template HTML5
+
+[Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/), [nicepage](https://nicepage.com/website-templates), [Templatemo](https://www.templatemo.com/), [Tooplate](https://www.tooplate.com/), [CSS Bed](https://www.cssbed.com/), [Repth Themes](https://repth.neocities.org/theme), [beercss](https://www.beercss.com/) / [GitHub](https://github.com/beercss/beercss), [free-css-templates](https://www.free-css.com/free-css-templates), [zerotheme](https://www.zerotheme.com/), [html5up](https://html5up.net/), [templated](https://templated.co/), [html5xcss3](https://www.html5xcss3.com/)
 
 ***
 
