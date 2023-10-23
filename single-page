@@ -5412,11 +5412,12 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ↪️ **[Graphic Design Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_graphic_design_tools)**
 * ↪️ **[Background Removers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_background_removers)**
 * ⭐ **[PhotoMosh](https://photomosh.com/)**, [jpg-glitch-electron](https://snorpey.github.io/jpg-glitch-electron/), [glitch-this!](https://github.com/TotallyNotChase/glitch-this), [GlitchyImage](https://glitchyimage.com/) or [Image Glitch Tool](https://github.com/snorpey/jpg-glitch) - Glitch Images
-* [Crayon](https://designstripe.com/crayon) - Animate SVGs
-* [Glaxnimate](https://glaxnimate.mattbas.org/) - Animate Vectors
 * [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [theinspirationgrid](https://theinspirationgrid.com/) or [inspirationde](https://www.inspirationde.com/) - Graphic Design Inspirations
 * [IRA Design](https://iradesign.io/) - Illustration Creator
 * [Method](https://editor.method.ac/) - SVG Editor
+* [SVGFilters](https://svgfilters.com/) - SVG Filter Builder
+* [Crayon](https://designstripe.com/crayon) or [SVGArtista](https://svgartista.net/) - SVG Animation Tools
+* [Glaxnimate](https://glaxnimate.mattbas.org/) - Vector Animation Tool
 * [Scribus](https://www.scribus.net/) - Page Layout & Typesetting Program
 * [PhotoFunia](https://photofunia.com/) or [Designify](https://designify.com/) - Photo Effects / Filters
 * [FilmDev](https://filmdev.org/) - Film Development Recipes
@@ -5480,7 +5481,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Simple Image Resizer](https://www.simpleimageresizer.com/), [ImageResizer](https://imageresizer.com/), [fixpicture](https://www.fixpicture.org/), [PicResize](https://picresize.com/), [resize-image](https://resize-image.net/), [Birme](https://www.birme.net/), [ImageResizeOnline](https://www.imageresizeonline.com/), [OnlineResizeImage](https://www.onlineresizeimage.com/), [ResizeNow](https://www.resizenow.com/en), [BulkResizePhotos](https://bulkresizephotos.com/) or [Batch Image Resizer](https://vovsoft.com/software/batch-image-resizer/) - Resize Images
 * [Resize App Icon](https://resizeappicon.com/) - Resize Square Images
 * [SSizes](https://ssizes.com/) or [PixelHunter](https://pixelhunter.io/) - Resize Images for Different Sites
-* [SVGO](https://github.com/svg/svgo) - SVG Optimization Tool / [GUI](https://jakearchibald.github.io/svgomg/)
+* [SVGO](https://github.com/svg/svgo) or [SVGCrop](https://svgcrop.com/) - SVG Optimization / [GUI](https://jakearchibald.github.io/svgomg/)
 * [CompressOrDie](https://compress-or-die.com/), [TinyJPG](https://tinyjpg.com/), [ImageCompresser](https://imagecompresser.com/), [Caesium](https://saerasoft.com/caesium/), [ImageSmaller](https://www.imagesmaller.com/), [ImageDiamond](https://www.imagediamond.com/), [Compress JPEG](https://compressjpeg.com/), [CompressImage](https://compressimage.io/), [CrushImage](https://crushimage.com/), [ShrinkMe](https://shrinkme.app/), [Crushee](https://crushee.app/), [Compressor](https://compressor.io/) or [Batch Compress](https://batchcompress.com/en) - Image Compressors 
 * [TinyPNG](https://tinypng.com/), [Compress PNG](https://compresspng.com/), [OxiPNG](https://github.com/shssoichiro/oxipng) or [PNGQuant](https://pngquant.org/) - PNG Compressors
 * [JPEG.rocks](https://jpeg.rocks/) - JPEG Re-Encoder
@@ -5770,7 +5771,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Anaglyph Maker](https://www.stereoeye.jp/software/index_e.html) - Make 3D Images
 * [Vectary](https://www.vectary.com/) - Online 3D Image Editor
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
-* [3DThis](https://3dthis.com/) - 3D Animation Tools 
+* [3DThis](https://3dthis.com/) - 3D Animation Tools
 * [PaintUp](http://technohippy.github.io/teddyjs/) - Make 2D Art Into 3D
 * [MyMiniFactory](https://www.myminifactory.com/) - Mini 3D Printer Models
 * [Embossify](https://www.embossify.com/) - Turn Images into 3D Printer Models
@@ -7323,6 +7324,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [diyhpluswiki](https://diyhpl.us/wiki/) - DIY Biohacking
 * [Archive of Our Own](https://archiveofourown.org/) - Fanfiction Archive / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
 * [Potions and Snitches](http://www.potionsandsnitches.org/) - Harry Potter Fanfiction
+* [SCP Foundation](https://scp-wiki.wikidot.com/) - Fictional Story Colab / [Wiki](https://en.wikipedia.org/wiki/SCP_Foundation)
 * [Projectrho](https://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
 * [The Trove](https://web.archive.org/web/20210614215400/https://thetrove.is/) - Books / Fantasy / TTRPG
 * [DriveThruRPG](https://www.drivethrurpg.com/browse.php?pfrom=&pto=0&x=0&y=0) or [TTRPG Torrent](https://github.com/nbats/FMHYedit/blob/main/base64.md#ttrpg-books) - TTRPG Books
@@ -8605,7 +8607,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [ImgBurn](https://www.majorgeeks.com/files/details/imgburn.html), [DVDStyler](https://www.dvdstyler.org/en/), [DeepBurner](https://www.deepburner.com/) or [Alcohol Soft](https://www.alcohol-soft.com/) - CD / DVD Burning
 * [VidCoder](https://vidcoder.net/) or [DVDDecrypter](http://dvddecrypter.org.uk/) - DVD / Blu-Ray Ripping
 * [BatchGuy](https://github.com/yaboy58/BatchGuy) - Blu-Ray Ripping
-* [DVDFab](https://www.dvdfab.cn/free.htm) - Free DVD Related Programs
 * [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder
 * [hdr10plus_tool](https://github.com/quietvoid/hdr10plus_tool) - HDR10+ CLI Utility
 * [Monzoom](https://www.monzoom.com/) - Video Assets
@@ -10698,7 +10699,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Python AI](https://community.uuki.live/course/tdb3Vsl1/python-course/aitutor) - AI Python Tutor
 * [CodingBat](https://codingbat.com/) or [PyQuickie](https://chrome.google.com/webstore/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - Python / Java Practice
 * [AmigosCode](https://www.youtube.com/@amigoscode) - Java Tutorials
-* [Python4Everyone](https://py4e.com/), [A Byte of Python](https://python.swaroopch.com/), [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/), [Learn Python](https://www.learnpython.org/), [Learn-Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
+* [Python4Everyone](https://py4e.com/), [A Byte of Python](https://python.swaroopch.com/), [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/), [datacamp](https://cdn.datacamp.com/), [Learn Python](https://www.learnpython.org/), [Learn-Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
 * [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - Python Lessons
 * [Real Python](https://realpython.com/), [Reeborg](https://reeborg.ca/docs/en/) or [AskPython](https://www.askpython.com/) - Python Tutorials
 * [FutureCoder](https://futurecoder.io/), [CS50](https://cs50.harvard.edu/python/), [Python Full Course](https://youtu.be/XKHEtdqhLK8) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - Python Course
@@ -10917,6 +10918,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) - Site Accessibility Guidelines
 * [CookieMetrix](https://www.cookiemetrix.com/) - EU Cookie Violation Test
 * [Violating GDPR](https://www.violating-gdpr.com/) - GDPR Violation Test
+* [SSLMate CAA](https://sslmate.com/caa/) - CAA Record Helper
 * [Color Oracle](https://colororacle.org/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Test
 * [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests
 * [Visual Mind AI](https://myraah.io/index.php/visualmind) - Site Visual Score
@@ -10939,7 +10941,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Responsive Viewer](https://responsiveviewer.org/) - Test Site on Multiple Screen Types / [Chrome](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en)
 * [Testmail](https://testmail.app/) - Site Signup Test
 * [Responsivize](https://virejdasani.github.io/Responsivize/) - Website Responsiveness Test
-* [PageSpeed](https://pagespeed.web.dev/), [PageSpeed Compare](https://pagespeed.compare/), [GTmetrix](https://gtmetrix.com/) or [Websu](https://websu.io/) - Test Webpage Speed
+* [PageSpeed](https://pagespeed.web.dev/), [SpeedVitals](https://speedvitals.com/), [PageSpeed Compare](https://pagespeed.compare/), [GTmetrix](https://gtmetrix.com/) or [Websu](https://websu.io/) - Test Webpage Speed
 * [Partytown](https://github.com/BuilderIO/partytown) - Relocate Scripts to Web Worker
 * [Tempesta FW](https://github.com/tempesta-tech/tempesta) - DDoS / Web Attack Protection
 * [Shisho](https://shisho.dev/) - Infrastructure Code Security Patcher
@@ -11044,6 +11046,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * 🌐 **[Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation)** - Web Animation Resources
 * ↪️ **[Icon Download Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_icon_download_sites)**
 * ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources)** or [Open Source Design](https://opensourcedesign.net/)
+* ↪️ **[Website Templates](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_website_templates)**
 * ↪️ **[Wordpress Themes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_wordpress_themes)**
 * ⭐ **[Front-End Checklist](https://frontendchecklist.io/)** - Front-End Development Checklist
 * [Screenshot to Code](https://github.com/emilwallner/Screenshot-to-code) - Generate Site Mockups / Code via Screenshots
@@ -11068,7 +11071,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Pixelfika](https://pixelfika.com/) - Site Design Examples
 * [WebDesignMuseum](https://www.webdesignmuseum.org/) - Website Designs Over Time
 * [CSS Zen Garden](https://csszengarden.com/) - CSS Site Examples
-* [Bootstrap](https://getbootstrap.com/) - Mobile Site Creator / [Icons](https://github.com/twbs/icons) / [Snippets](https://bootsnipp.com/) / [UI Components](https://mdbootstrap.com/)
+* [Bootstrap](https://getbootstrap.com/) - Mobile Site Creator / [Icons](https://github.com/twbs/icons) / [Snippets](https://bootsnipp.com/) / [UI Components](https://mdbootstrap.com/) / [Templates](https://bootswatch.com/), [2](https://bootstraptaste.com/)
 * [PsdRepo](https://psdrepo.com/) - Templates, Mockups, Logos, Videos
 * [Daft Page](https://daftpage.com/) - Landing Page Creator
 * [LandingPage](https://landingpage.fyi/index.html) - Landing Page Tool Index
@@ -11078,16 +11081,14 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Codebases](https://github.com/reacttips-dev/codebases) - ReactJS Project Source Codes
 * [vite](https://vitejs.dev/) - Frontend Development Tool / [GitHub](https://github.com/vitejs/vite)
 * [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend Development Resources
-* [Boilerplate](https://github.com/h5bp/html5-boilerplate) - Website Frontend Template HTML5
-* [Bootstrap](https://bootstrapmade.com/), [TheMeWagon](https://themewagon.com/) or [nicepage](https://nicepage.com/website-templates) - Site Templates
-* [Templatemo](https://www.templatemo.com/) or [Tooplate](https://www.tooplate.com/) - HTML Site Templates
-* [CSS Bed](https://www.cssbed.com/), [Repth Themes](https://repth.neocities.org/theme), [beercss](https://www.beercss.com/) / [GitHub](https://github.com/beercss/beercss) or [free-css-templates](https://www.free-css.com/free-css-templates) - CSS Themes / Templates
 * [Hydrogen](https://github.com/Shopify/hydrogen) - Online Store Templates
 * [MicroCopy](https://www.microcopy.me) - Copy Common Website Text
 * [RoughAnnotations](https://roughnotation.com/) - Webpage Annotations / Animations
+* [SVG2JSX](https://svg2jsx.com/) - SVG to JSX Converter
 * [Pattern Monster](https://pattern.monster/) - SVG Pattern Generator
 * [Broider](https://maxbittker.github.io/broider/) - Create Border Designs
 * [ShapeDivider](https://www.shapedivider.app/) - Make SVG Shape Divider
+* [SVG Path](https://svg-path-visualizer.netlify.app/) - SVG Path Visualizer
 * [Lorem.space](https://lorem.space/), [Placeholdifier](https://github.com/pomber/placeholdifier), [PlaceHolder](https://placeholder.pics/), [PicSum](https://picsum.photos/) or [FakeIMG](https://fakeimg.pl/) - Site Placeholder Images
 * [MinimalAvatars](https://minimalavatars.com/) - Minimal Site Avatars
 * [Visiwig](https://www.visiwig.com/) - Copy / Paste Site Graphics
@@ -11257,6 +11258,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Radx UI](https://www.radix-ui.com/) - React App Component Library
 * [Codux](https://www.codux.com/) - Visual IDE for React
 * [React95](https://react95.io/) - Windows 95 React Components
+* [React SVG](https://react-svgr.com/playground/) - Convert SVG to React Components
 * [Zorm](https://github.com/esamattis/react-zorm) - ype-safe <form> for React
 * [Million](https://github.com/aidenybai/million) - React Replacement
 * [novu](https://novu.co/) - Real-Time React Notifications / [GitHub](https://github.com/novuhq/novu)
@@ -11555,7 +11557,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ⭐ **[Literally Anything](https://www.literallyanything.io/)** - Generate Code via Prompts
 * ⭐ **[RevShells](https://www.revshells.com/)** - Reverse Shell Generator
 * ⭐ **[JSON Hero](https://jsonhero.io/)**, [Jayson](https://apps.apple.com/us/app/jayson/id1447750768) or [JSONView](https://jsonview.com/) - JSON Viewers / Editors
-* ⭐ **[Regex Vis](https://regex-vis.com/)**, [Regulex](https://jex.im/regulex/) or [Regexper](https://regexper.com/) - Regex Visualizers
+* ⭐ **[Regex Vis](https://regex-vis.com/)**, [Regulex](https://jex.im/regulex/) or [Regexper](https://regexper.com/) - Regex Visualizers / [Batch Editor](https://github.com/antfu/rex)
 * ⭐ **[grex](https://pemistahl.github.io/grex-js/)**, [Regex Generator++](http://regex.inginf.units.it/) or [Regex Generator](https://regex-generator.olafneumann.org/) - Regex Generators
 * [Cursor](https://cursor.sh/), [Codeium](https://codeium.com/), [tabnine](https://www.tabnine.com/), [ImageCook](https://github.com/imgcook/imgcook), [CodeWhisperer](https://aws.amazon.com/codewhisperer/), [Telosys](http://www.telosys.org/) or [Copilot](https://github.com/features/copilot/) / [Docs](https://github.com/github/copilot-docs) - Coding AIs
 * [AI Code Translator](https://ai-code-translator.vercel.app/) or [Source Code Converters](https://www.tangiblesoftwaresolutions.com/) - Code Converters
@@ -11566,7 +11568,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [AirBroke](https://airbroke.icorete.ch/) - Self-Hosted Error Checking
 * [Algorithm Visualizer](https://algorithm-visualizer.org/) or [Sorting Algorithms Visuallizer](https://sadanandpai.github.io/sorting-visualizer/dist/) / [GitHub](https://github.com/sadanandpai/sorting-visualizer) - Visualize Code Algorithms 
 * [Code2Flow](https://app.code2flow.com/), [Flowchart.js](https://flowchart.js.org/) or [Flowchart Generator](https://github.com/MugilanGN/Flowchart-Generator) - Code to Flowchart Converter
-* [UMLet](https://www.umlet.com/) - Create UML Diagrams
+* [UMLet](https://www.umlet.com/) or [JDL Studio](https://start.jhipster.tech/jdl-studio/) - Create UML Diagrams
 * [WAPM](https://wapm.io/) - WebAssembly Apps / Libraries
 * [CodePad](http://codepad.org/) or [CodeChef](https://www.codechef.com/ide) - Online Compilers
 * [Decompiler](https://www.decompiler.com/) - Online Decompiler
@@ -11587,6 +11589,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [ShellcodeTemplate](https://github.com/Cracked5pider/ShellcodeTemplate) - Modifiable Shellcode Template 
 * [Spork](https://github.com/atek-cloud/spork) - P2P Sockets CLI / [Discord](https://discord.gg/UUCVrFYksv)
 * [egui](https://github.com/emilk/egui) - Rust GUI
+* [Play Rust](https://play.rust-lang.org/) - Rust Playground
 * [This Week in Rust](https://this-week-in-rust.org/) - Rust News / Updates
 * [Diskord](https://gitlab.com/diskord/diskord) - Kotlin Client for Discord
 * [lo](https://github.com/samber/lo) - Go Library
@@ -11626,6 +11629,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [SharpSystemTriggers](https://github.com/cube0x0/SharpSystemTriggers) - C# Remote Authentication Triggers
 * [Carbon](https://github.com/carbon-language/carbon-lang) - Carbon Language Repository
 * [GCC](https://gcc.gnu.org/) - GNU Compiler Frontends
+* [sed.js](https://sed.js.org/) - GNU sed Live Editor
 * [asdf](https://asdf-vm.com/) - Multi-Runtime Management CLI
 * [The SHA-256 Project](https://github.com/oconnor663/sha256_project) - Develop SHA-256 from Scratch
 * [substitute](https://github.com/comex/substitute) - Free Runtime Modification Library
@@ -11641,7 +11645,8 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [thefuck](https://github.com/nvbn/thefuck) - Corrects Previous Console Command
 * [DelphiTools](https://www.delphitools.info/) - Code Profiler / Delphi Tools
 * [OhMyPosh](https://ohmyposh.dev/) - Terminal Theme Engine
-* [Zero Dark Matrix](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - Chrome Devtools Dark Theme 
+* [Zero Dark Matrix](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - Chrome Devtools Dark Theme
+* [RubyFiddle](http://rubyfiddle.com/) - Ruby Snippets in Browser
 * [Tantiny](https://github.com/baygeldin/tantiny) - Full-Text Ruby Search
 * [GNU Octave](https://octave.org/) - Scientific Programming Language
 * [NodeJS](https://nodejs.org/en/) - JavaScript Runtime Environment
@@ -11713,9 +11718,10 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ↪️ **[Code Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_code_editors)**
 * ↪️ **[Vim Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_vim_tools)**
 * ⭐ **[Competitive Editor](https://cpeditor.org/)** - Competitive Programming Editor
-* ⭐ **[WebDen](https://webden.dev/)**, [Riju](https://riju.codes/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
-* [GoPlay](https://goplay.space/) - Go Playground
+* ⭐ **[WebDen](https://webden.dev/)**, [Riju](https://riju.codes/), [tech.io](https://tech.io/), [CodingGround](https://www.tutorialspoint.com/codingground.htm) or [Online Tools](https://onlinetool.io/) - Code Playgrounds
+* [GoPlay](https://goplay.space/) or [Go Lang](https://play.go-lang.org/) - Go Playgrounds
 * [RoslynPad](https://roslynpad.net/) - C# Editor
+* [DotNetFiddle](https://dotnetfiddle.net/) - C# Compiler
 * [Recaf](https://www.coley.software/Recaf/) - Java Bytecode Editor
 * [Rescript](https://rescript-lang.org/) - Javascript Editor / Language
 * [Apache NetBeans](https://netbeans.apache.org/) - Cross Platform IDE
@@ -11775,6 +11781,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [TryIt HTML](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro), [HTML-Online](https://html-online.com/editor/) or [html.cafe](https://html.cafe/) - Online HTML Editors
 * [GrapeJS](https://grapesjs.com/) - HTML Template Editor
 * [Broken Link Checker](https://github.com/stevenvachon/broken-link-checker) - Find Broken Links in HTML
+* [HTML CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) - HTML Coding Standard Check
 * [Markup Validation Service](https://validator.w3.org/) - Validate Your Markup Language Structure
 * [typeset](https://typeset.lllllllllllllllll.com/) - HTML Typography Pre-Processor
 * [HTMLColorCodes](https://htmlcolorcodes.com/) - HTML Color Codes
@@ -13425,15 +13432,11 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 # ► Spanish
 
 * ⭐ **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - Telegram Channel Index
-* [jogos10](http://www.jogos10.com/) or [Minijuegos](https://www.minijuegos.com/) - Browser Games
+* [Minijuegos](https://www.minijuegos.com/) - Browser Games
 * [EmojiTool](https://emojitool.com/) - Emoji Database
-* [Catflix](https://www.championcat.cl/catflix/) - Cats!
 * [AIfindy](https://aifindy.com/) - AI Tools Index
-* [Aprender Gratis](https://aprendergratis.es/) - File Tools
 * [ElHacker](https://wiki.elhacker.net/) - Security Guides
 * [Diccionario RAE en un clic](https://chrome.google.com/webstore/detail/diccionario-rae-en-un-cli/gejdeepcjkfbepfkcfdgiodgoglakiii) - Dictionary Extension
-* [GermanDeutsch](https://t.me/GermanDeutsch) - Learn German
-* [Bliscop](https://www.bliscop.com/) - Online Payment Software
 * [El Museo de los 8 bits](http://www.museo8bits.es/) / [2](https://museo8bits.com/) - History of Computing
 * [TrustScam](https://trustscam.es/) - Website Security Analysis
 * [Steamcito](https://emilianog94.github.io/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos/landing/index.html) - Converts Steam Prices to Argentine Pesos
@@ -13637,7 +13640,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [MegaComicsTV3](https://megacomicstv3.blogspot.com/) - Comics
 * [MangasEnPdf](https://t.me/MangasEnPdf) - Manga / Telegram
 * [tupropiaaventura_bot](https://t.me/tupropiaaventura_bot) - Books / Telegram
-* [Recetas Vegetarianas](https://recetasvegetarianas.netlify.app/) -  Vegan Recipes
 
 ***
 
@@ -14666,6 +14668,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [AntiMoon](https://www.antimoon.com/)
 * [Oxford Online](https://www.oxfordonlineenglish.com/free-english-lessons)
 * [Cambridge Online](https://www.cambridgeenglish.org/learning-english/)
+* [WriteAndImprove](https://writeandimprove.com/)
 * [Elsaspeak](https://elsaspeak.com/en/)
 * [Voscreen](https://voscreen.com/)
 * [yell0wsuit](https://yell0wsuit.page/english.html)
@@ -14674,7 +14677,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * [Listening Lab](https://www.esl-lab.com/) - English Listening Practice
 * [Stimuler IELTS Speaking Buddy](https://play.google.com/store/apps/details?id=com.stimuler) - English Speaking Practice
 * [BeyondPlayer](https://circleapps.co/) - YouTube Player for English Learners
-* [Langeek](https://langeek.co/) - Grammar / Vocabulary Language Learning
+* [Langeek](https://langeek.co/) or [Ozdic](https://ozdic.com/) - Grammar / Vocabulary Language Learning
 * [Xuga](https://eng.ichacha.net/mpr/xuga.html) - Word Pronunciation Tool
 * [EnglishAccentMap](https://www.englishaccentsmap.com/) - English Accent Videos / Map
 * [EnglishBanana](https://www.englishbanana.com/) - English Learning Worksheets
@@ -15031,8 +15034,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 
 ## ▷ FOSS APKs
 
-* 🌐  **[Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md)**, [FossDroid](https://fossdroid.com/), [OS Apps](https://github.com/pcqpcq/open-source-android-apps), [AAA](https://github.com/Psyhackological/AAA), [/r/u_Jackie7610](https://redd.it/jhtvn4), [Cool FOSS](https://albertomosconi.github.io/foss-apps/) or [Android FOSS](https://github.com/offa/android-foss) - FOSS App Indexes
-* 🌐  **[Awesome Android Kotlin Apps](https://github.com/androiddevnotes/awesome-android-kotlin-apps)** - Kotlin App Index
+* 🌐 **[Awesome Android](https://gitlab.com/linuxcafefederation/awesome-android/-/blob/main/README.md)**, [FossDroid](https://fossdroid.com/), [OS Apps](https://github.com/pcqpcq/open-source-android-apps), [AAA](https://github.com/Psyhackological/AAA), [/r/u_Jackie7610](https://redd.it/jhtvn4), [Cool FOSS](https://albertomosconi.github.io/foss-apps/) or [Android FOSS](https://github.com/offa/android-foss) - FOSS App Indexes
+* 🌐 **[Awesome Kotlin](https://github.com/androiddevnotes/awesome-android-kotlin-apps)** - Kotlin App Index
+* 🌐 **[Awesome Shizuku](https://github.com/ThePBone/awesome-shizuku)** - Shizuku App Index
 * ⭐ **[F-Droid](https://f-droid.org/)** - FOSS App Installer
 * ⭐ **F-Droid Tools** - [Resources](https://fdroidfamily.codeberg.page/) / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status)
 * ⭐ **F-Droid Clients** - [Droid-ify](https://github.com/Iamlooker/Droid-ify) / [Classic Client](https://git.bubu1.eu/Bubu/fdroidclassic) / [Neo Store](https://github.com/NeoApplications/Neo-Store)
@@ -15696,7 +15700,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://185.215.227.81:
 * ↪️ **[Telegram Deezer Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_deezer_bots)**
 * ⭐ **[xManager](https://www.xmanagerapp.com/)** or [Modded Spotify](https://github.com/nbats/FMHYedit/blob/main/base64.md#modded-spotify-apk) - Ad Free Spotify
 * ⭐ **xManager Tools** - [Discord](https://discord.gg/Zu3JyxHD) / [Friend Activity](https://spotivity.me//) / [Mute Ads](https://play.google.com/store/apps/details?id=live.teekamsuthar.mutify), [2](https://github.com/aghontpi/ad-silence) / [Stats](https://stats.fm/)
-* ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, [AudioTube](https://invent.kde.org/multimedia/audiotube), [Harmony Music](https://github.com/anandnet/Harmony-Music), [SimpMusic](https://github.com/maxrave-dev/SimpMusic), [Gyawun](https://github.com/jhelumcorp/gyawun) or [MellowMusic](https://github.com/SuhasDissa/MellowMusic) - YouTube Music Players
+* ⭐ **[InnerTune](https://github.com/z-huang/InnerTune)**, [Namida](https://github.com/namidaco/namida), [AudioTube](https://invent.kde.org/multimedia/audiotube), [Harmony Music](https://github.com/anandnet/Harmony-Music), [SimpMusic](https://github.com/maxrave-dev/SimpMusic), [Gyawun](https://github.com/jhelumcorp/gyawun) or [MellowMusic](https://github.com/SuhasDissa/MellowMusic) - YouTube Music Players
 * ⭐ **[Soulseek](https://play.google.com/store/apps/details?id=com.companyname.andriodapp1)** - Audio Download App
 * ⭐ **[AudioRelay](https://audiorelay.net/)** - Stream PC Audio to Phone
 * ⭐ **[pScrobbler](https://github.com/kawaiiDango/pScrobbler)** - Android Scrobbler
@@ -17660,7 +17664,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * ↪️ **[RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers)**
 * ↪️ **[Customizable New Tab Page](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page)**
 * ↪️ **[Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools)**
-* ⭐ **[Midnight Lizard](https://midnight-lizard.org/)**, [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) or [222](https://github.com/dolegi/222) - Dark Mode
+* ⭐ **[DarkReader](https://darkreader.org/)**, [Midnight Lizard](https://midnight-lizard.org/), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) or [222](https://github.com/dolegi/222) - Dark Mode
 * ⭐ **[Zoom WE](https://pastebin.com/SpCdPywv)** or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - Improves Zoom Functionality
 * ⭐ **[ScrollAnywhere](https://pastebin.com/W3jwbBac)** - Improves Scrolling Functionality
 * ⭐ **[Clipboard2File](https://pastebin.com/JjDzqq8x)** - Upload Images from Clipboard
@@ -19275,7 +19279,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)
 * [Mars 3D](https://mars3d-game.wixsite.com/index) - Mars 3D Translation & Remake
-* [Super Mario Bros Crossover](https://explodingrabbit.com/games/super-mario-bros-crossover/) - Play SMB with Alternative Characters
+* [Super Mario Bros Crossover](https://archive.org/details/SuperMarioCrossoverOffline) - Play SMB with Alternative Characters
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
 * [sm64](https://github.com/n64decomp/sm64) - Super Mario 64 Decompilation / [Guide](https://youtu.be/rQVpfWYT0eg) 
 * [wide-snes](https://github.com/VitorVilela7/wide-snes) - Widescreen Super Mario World
@@ -20243,9 +20247,9 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
 * [TASVideos](https://tasvideos.org/) - Watch and Publish Tool Assisted Speedruns
 * [Tomatoanus](https://www.youtube.com/@tomatoanus/) - Speedrun Breakdowns
-* [MacroGamer](https://www.itoady.com/) - Game Macro Recorder
 * [BakkesMod](https://bakkesmod.com/) - Rocket League Trainer
 * [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - MKW Techniques, Glitches, & Exploits
+* [GamesDatabase](https://www.gamesdatabase.org/) - Game Manuals
 * [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
 * [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching
