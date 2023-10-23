@@ -580,6 +580,8 @@
 * [InsMac](https://insmac.org/)
 * [MacX](https://macx.ws/)
 * [WebCatalog](https://webcatalog.io/)
+* [MacBB](https://macbb.org/)
+* [MacSerialJunkie](https://macserialjunkie.com/)
 
 ***
 
@@ -587,6 +589,8 @@
 
 * ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** - Mac Game Fixes / Compatibility
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)**
+* [MacBB](https://macbb.org/)
+* [MacSerialJunkie](https://macserialjunkie.com/)
 * [SCNLOG](https://scnlog.me/)
 * [nMac](https://nmac.to/)
 * [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Epic Games Launcher
