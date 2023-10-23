@@ -453,12 +453,6 @@ pass: paluch
 
 *** 
 
-#### Adobe CC
-
-`aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vZG9jdW1lbnQvZC8xX01lMVRRelhxQ1lBU2xzN1A1WnQ1bUFTTnNQYW15TlZuWmZ1NDh0XzVZdy8=`
-
-*** 
-
 #### The Vintage Software Collection
 
 `aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL3ZpbnRhZ2Vzb2Z0d2FyZQ==`
