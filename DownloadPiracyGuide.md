@@ -177,7 +177,6 @@
 * [WLSetup-All](https://github.com/nbats/FMHYedit/blob/main/base64.md#wlsetup-all) - Windows Live Essentials 2012 Archive
 * [GenP](https://www.reddit.com/r/GenP/wiki/index) - Adobe Software Patcher / [Discord](https://discord.com/invite/X9ZuegSM4N)
 * [ZXPInstaller](https://github.com/elements-storage/ZXPInstaller) - Adobe Extension Installer
-* [Adobe CC](https://github.com/nbats/FMHYedit/blob/main/base64.md#adobe-cc) - Adobe Creative Cloud Piracy Guide
 
 ***
 
