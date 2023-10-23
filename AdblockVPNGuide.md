@@ -512,8 +512,8 @@
 * ⭐ **[Lantern](https://lantern.io/)** - Free Proxy / VPN
 * ⭐ **[Psiphon](https://psiphon.ca/)** - Free Proxy / VPN / [Bypass Blocks](https://media.discordapp.net/attachments/953145730736996382/953730963735707719/Screenshot_20220316220604.png)
 * ⭐ **[SecureDNSClient](https://github.com/msasanmh/SecureDNSClient)** - DNS Proxy GUI
-* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel), [NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) or [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy) / [Test](https://www.howsmyssl.com/) - DPI Circumvention Local Proxies
 * ⭐ **[Bypass ISP Blocks](https://rentry.co/enable-ech)** - Bypass ISP censorship with Firefox
+* [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/) / [GUI](https://github.com/mguludag/GUI-for-GoodbyeDPI), [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel), [NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) or [GFW-knocker](https://github.com/GFW-knocker/gfw_resist_tls_proxy) / [Test](https://www.howsmyssl.com/) - DPI Circumvention Local Proxies
 * [Hola Proxy](https://github.com/Snawoot/hola-proxy) - Alternative Client for Hola Free Proxy Service
 * [anonymoX](https://anonymox.net/en) - Free Proxy Service Browser Extension
 * [Snowflake](https://snowflake.torproject.org/) - Tor Proxy Browser Extension
