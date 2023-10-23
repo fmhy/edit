@@ -368,7 +368,7 @@
 * [Arx Libertatis](https://arx-libertatis.org/) - Arx Fatalis PC Port
 * [OpenSA](https://github.com/Dzierzan/OpenSA) - Swarm Assault Recreation / [OpenRA Required](https://www.moddb.com/mods/opensa) / [Non OpenRA Version](https://dzierzan.itch.io/opensa)
 * [Mars 3D](https://mars3d-game.wixsite.com/index) - Mars 3D Translation & Remake
-* [Super Mario Bros Crossover](https://explodingrabbit.com/games/super-mario-bros-crossover/) - Play SMB with Alternative Characters
+* [Super Mario Bros Crossover](https://archive.org/details/SuperMarioCrossoverOffline) - Play SMB with Alternative Characters
 * [Jelly Mario](https://jellymar.io/) - Jelly Super Mario
 * [sm64](https://github.com/n64decomp/sm64) - Super Mario 64 Decompilation / [Guide](https://youtu.be/rQVpfWYT0eg) 
 * [wide-snes](https://github.com/VitorVilela7/wide-snes) - Widescreen Super Mario World
@@ -1336,9 +1336,9 @@
 * [LiveSplit](https://livesplit.org/) - Customizable Speedrun Timer
 * [TASVideos](https://tasvideos.org/) - Watch and Publish Tool Assisted Speedruns
 * [Tomatoanus](https://www.youtube.com/@tomatoanus/) - Speedrun Breakdowns
-* [MacroGamer](https://www.itoady.com/) - Game Macro Recorder
 * [BakkesMod](https://bakkesmod.com/) - Rocket League Trainer
 * [Mario Kart Wii Tips](https://docs.google.com/document/u/1/d/e/2PACX-1vRZObe4loAptsyRU5Ba-k0WdNQPnT_1DhG_r4H7wKZFm6BsKs28aPREV_649xTRT2cPZdz26GOB3zbR/pub) - MKW Techniques, Glitches, & Exploits
+* [GamesDatabase](https://www.gamesdatabase.org/) - Game Manuals
 * [SNES Manuals](https://sites.google.com/view/snesmanuals) - SNES Game Manuals
 * [FOUR.lol](https://four.lol/) - Tetris Openers Wiki
 * [Underdogs Cup Lounge](https://discord.gg/QCbC9cA) - Tetris Resources & Coaching
