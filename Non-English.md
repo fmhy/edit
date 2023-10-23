@@ -1504,15 +1504,11 @@
 # ► Spanish
 
 * ⭐ **[Awesome Telegram Redcarpet](https://listados.gitlab.io/awesome-telegram-redcarpet/)**, [2](https://gitlab.com/listados/awesome-telegram) - Telegram Channel Index
-* [jogos10](http://www.jogos10.com/) or [Minijuegos](https://www.minijuegos.com/) - Browser Games
+* [Minijuegos](https://www.minijuegos.com/) - Browser Games
 * [EmojiTool](https://emojitool.com/) - Emoji Database
-* [Catflix](https://www.championcat.cl/catflix/) - Cats!
 * [AIfindy](https://aifindy.com/) - AI Tools Index
-* [Aprender Gratis](https://aprendergratis.es/) - File Tools
 * [ElHacker](https://wiki.elhacker.net/) - Security Guides
 * [Diccionario RAE en un clic](https://chrome.google.com/webstore/detail/diccionario-rae-en-un-cli/gejdeepcjkfbepfkcfdgiodgoglakiii) - Dictionary Extension
-* [GermanDeutsch](https://t.me/GermanDeutsch) - Learn German
-* [Bliscop](https://www.bliscop.com/) - Online Payment Software
 * [El Museo de los 8 bits](http://www.museo8bits.es/) / [2](https://museo8bits.com/) - History of Computing
 * [TrustScam](https://trustscam.es/) - Website Security Analysis
 * [Steamcito](https://emilianog94.github.io/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos/landing/index.html) - Converts Steam Prices to Argentine Pesos
@@ -1716,7 +1712,6 @@
 * [MegaComicsTV3](https://megacomicstv3.blogspot.com/) - Comics
 * [MangasEnPdf](https://t.me/MangasEnPdf) - Manga / Telegram
 * [tupropiaaventura_bot](https://t.me/tupropiaaventura_bot) - Books / Telegram
-* [Recetas Vegetarianas](https://recetasvegetarianas.netlify.app/) -  Vegan Recipes
 
 ***
 
