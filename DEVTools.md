@@ -23,7 +23,7 @@
 * ⭐ **[Free Courses by Xemu](https://github.com/nbats/FMHYedit/blob/main/base64.md#free-courses-by-xemu)** - Programming Course Drives
 * ⭐ **[Programming Book Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_sites)** - Read / Download Programming Books
 * ⭐ **[StackOverflow](https://stackoverflow.com/)** / [Frontend](https://code.whatever.social/), [DecodingDevOps](https://www.decodingdevops.com/) or [Stack Roboflow](https://stackroboflow.com/) - Developer Q&A
-* [WDTCD?](https://whatdoesthiscodedo.com/), [CollectivAI](https://chat.collectivai.com/) or [Denigma](https://denigma.app/#demo) - AI Code Explanations
+* [WDTCD?](https://whatdoesthiscodedo.com/), [Blackbox](https://www.blackbox.chat/), [CollectivAI](https://chat.collectivai.com/) or [Denigma](https://denigma.app/#demo) - AI Code Explanations
 * [DZone](https://dzone.com/) - Developer Tutorials
 * [RedHat](https://developers.redhat.com/) - Development Tutorials
 * [Dev.tube](https://dev.tube/) - Developer Talks
@@ -1333,7 +1333,7 @@
 * [Beeceptor](https://beeceptor.com/) - Mock REST APIs
 * [Insomnia](https://insomnia.rest/) - API Client
 * [Strapi](https://strapi.io/) or [Postman](https://www.postman.com/) - API Builders
-* [API Together](https://api.together.xyz/playground) - AI App API
+* [API Together](https://api.together.xyz/playground) - AI App APIs
 * [Siesta](https://github.com/bustoutsolutions/siesta) - Write REST API Clients for iOS / macOS
 * [Poll2Hook](https://poll2hook.com/) - REST API to Webhooks
 * [WebAuthn](https://webauthn.io/) - Data Security Authentication API
