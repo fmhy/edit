@@ -1079,7 +1079,6 @@
 * [K1n013f0ur's Pastebin](https://github.com/nbats/FMHYedit/blob/main/base64.md#k1n013f0urs-pastebin) - Audiobooks
 * [doci.pl](https://doci.pl/) - Documents
 * [docer.pl](https://docer.pl/) - Documents
-* [wolnelektury](https://wolnelektury.pl/) - Educational
 * [Academica](https://academica.edu.pl/) - Online Library
 
 ***
