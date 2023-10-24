@@ -11,7 +11,6 @@
 
 # ► Documentaries
 
-* ⭐ **[Ihavenotv](https://ihavenotv.com/)**
 * ⭐ **[DocumentaryArea](https://www.documentaryarea.tv/)**
 * ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)**
 * [LearnOutLoud](https://www.learnoutloud.com/)
@@ -83,7 +82,7 @@
 * [Study is wonderful](https://github.com/xioacd99/study-is-wonderful) - Courses
 * [Open HPI](https://open.hpi.de/) - Courses
 * [Free MOOCs](https://freemoocs.com/) - Courses
-* [FindAndSolve](https://www.findandsolve.com/) or [CourseBuffet](https://www.coursebuffet.com/) - Search Engine
+* [CourseBuffet](https://www.coursebuffet.com/) - Search Engine
 * [LearnOutLoud](https://www.learnoutloud.com/) - Documentaries / Courses
 * [Class Central](https://www.classcentral.com/) - Search for Courses
 * [cs1000](https://cs1000.vercel.app/) - Educational Video
@@ -92,7 +91,6 @@
 * [iTunes U](https://wiki.archiveteam.org/index.php/ITunes_U) - Lectures
 * [Video Lectures](http://videolectures.net/) - Lectures
 * [Ted Talks](https://www.ted.com/) - Inspiring and Educational Talks
-* [Curated Conversations](https://conversations.aawadia.dev/) - Educational Podcasts / Interviews
 * [WatchKnowLearn](http://www.watchknowlearn.org/) - Educational Videos
 * [FreeMedTube](https://freemedtube.net/) - Medical Courses
 * [Mathispower4u](https://www.mathispower4u.com/), [SchoolYourself](https://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/), [mathonline](http://mathonline.wikidot.com/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
@@ -182,7 +180,6 @@
 * [Moneiac Course](https://t.me/moneiac_course) - Courses / Telegram
 * [learningDL](https://learningdl.net/) - Courses / Leech required
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - Courses / Tutorials
-* [FreetutsDownload.com](https://freetutsdownload.com/) - Courses / GDrive Host
 * [iTunes U](https://github.com/nbats/FMHYedit/blob/main/base64.md#itunesu-lectures) - Lectures
 * [ScalerFullStack](https://t.me/scalerfullstack), [ScalerNerds](https://t.me/scalerds) or [scalerfullstackproductmanagement](https://t.me/scalerfullstackproductmanagement) - Scaler Courses
 * [BestWSODownload](https://www.bestwsodownload.com/) - WSO Courses
@@ -227,7 +224,6 @@
 * [FreeCourseSite](https://freecoursesite.com/) - Courses
 * [DownloadFreeCourse](https://downloadfreecourse.com/) - Courses
 * [GetFreeCourses](https://getfreecourses.co/) - Courses
-* [TutorialsPlanet](https://tutorialsplanet.net/) - Courses
 * [FreeCoursesOnline](https://freecoursesonline.me/) - Courses
 * [Docspedia](https://docspedia.world/) - Courses / Signup Required
 * [Paid Courses for Free](https://paidcoursesforfree.com/) - Udemy Courses
@@ -281,7 +277,7 @@
 * [Listenable](https://apps.apple.com/us/app/listenable-learn-with-audio/id1492810539) - 5-Minute Audio Lessons / iOS
 * [WTF Fun Fact](https://wtffunfact.com/) - Daily Facts
 * [Fact Check](https://toolbox.google.com/factcheck/) - Quick Fact Check
-* [AWAD Challenge](http://awadchallenge.com/) or [Word Smith](https://wordsmith.org/) - Learn New Words Daily
+* [Word Smith](https://wordsmith.org/) - Learn New Words Daily
 * [LabXchange](https://www.labxchange.org/) or [EduMedia](https://www.edumedia-sciences.com/en/) - Interactive Science Simulations
 * [Answers.com](https://www.answers.com/) or [Quora](https://www.quora.com/) / [Bypass](https://redd.it/ywml2b) / [Frontend](https://github.com/zyachel/quetre) - Q&A Communities
 * [Plickers](https://get.plickers.com/) - Q&A Results App
@@ -781,7 +777,7 @@
 
 * 🌐 **[GaijinRyman's Resources](https://github.com/GaijinRyman/JapaneseResources)**, [Nihongo](https://nihongo-e-na.com/eng/), [Best Japanese Websites](https://sites.uni.edu/becker/japanese222.html), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/), [AnimeCards](https://animecards.site/) or [Gakuu](https://web.archive.org/web/20201113022338/http://gakuu.com/resources/) - Japanese Learning Resources
 * 🌐 **[Japanese Pitch Accent Resources](https://github.com/olety/japanese-pitch-accent-resources)** - Japanese Accent Resources
-* ⭐ **[TheMoeWay](https://learnjapanese.moe/)** / [Discord](https://discord.gg/nhqjydaR8j), [Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/), [IMABI](https://imabi.net/), [NativShark](https://www.nativshark.com/), [Donkuri](https://donkuri.github.io/learn-japanese/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese
+* ⭐ **[TheMoeWay](https://learnjapanese.moe/)** / [Discord](https://discord.gg/nhqjydaR8j), [Kakugo](https://github.com/blastrock/kakugo), [Marshall's Site](https://marshallyin.com/), [HeyJapan](https://heyjapan.net/), [GuideToJapanese](https://guidetojapanese.org/), [jpdb](https://jpdb.io/), [NativShark](https://www.nativshark.com/), [Donkuri](https://donkuri.github.io/learn-japanese/) or [Tofugu](https://www.tofugu.com/) - Learn Japanese
 * ⭐ **[AnimeLon](https://animelon.com/)** - Streaming / Anime / Learn Japanese
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [JapaneseTab](https://github.com/Anupya/JapaneseTab) - Japanese Learning Extension
@@ -993,7 +989,7 @@
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / Stem Career Study Guides
 * [HamExam](https://hamexam.org/), [AA9PW](https://www.aa9pw.com/) or [HamStudy](https://hamstudy.org/) - Ham Radio Practice Exams
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
-* [PowerInBooks](https://powerinbooks.xyz/temp/) or [LitSolutions](https://www.litsolutions.org/) - Textbook Solutions
+* [LitSolutions](https://www.litsolutions.org/) - Textbook Solutions
 * [School Cheats](https://schoolcheats.net/) - School Platform Answers
 * [Quizizz Cheat](https://github.com/gbaranski/quizizz-cheat) - Quizizz Answers Tool
 * [PXTrez](https://pxtrez.com/) - Kahoot Answers Tool
