@@ -698,7 +698,6 @@
 * [PremierProduct](https://www.premierproducts-uk.co.uk/) - Vehicle Manuals
 * [David Kleinfeld Laboratory](https://neurophysics.ucsd.edu/Manuals/) - Lab Manuals
 * [replacementdocs](http://www.replacementdocs.com/) - Game Manuals
-* [Retrevo](http://www.retrevo.com/) - Product Manuals
 * [Building Instructions](https://www.lego.com/en-us/service/buildinginstructions) - Lego Instructions
 
 ***
@@ -879,16 +878,13 @@
 * [MangaOwl](https://mangaowl.to/)
 * [MangaReader](https://mangareader.mobi/)
 * [ReadMangaFree](https://readmangafree.net/)
-* [Manga Miso](https://mangamiso.net/)
 * [Colored Manga](https://coloredmanga.com/) - [Discord](https://discord.com/invite/j66bPX4z8M)
 * [Mangarolls](https://mangarolls.net/)
 * [Mangabtt](https://mangabtt.com/)
 * [Murimscan](https://murimscan.run/)
 * [Tenmanga](https://www.tenmanga.com/)
-* [Tenkoreader](https://tenkoreader.com/)
 * [OniManga](https://onimanga.com)
 * [MangaInn](https://mangainn.net/)
-* [KumaScans](https://kumascans.com/)
 * [Mangago](https://www.mangago.me/)
 * [MangaBat](https://m.mangabat.com/)
 * [ReadOPM](https://ww3.readopm.com/read-manga/)
@@ -900,7 +896,6 @@
 * [Manhwafull](https://manhwafull.com/)
 * [DeathTollScans](https://www.deathtollscans.net/)
 * [Tritinia](https://tritinia.com/)
-* [AsuraScans](https://asura.gg/) - [Discord](https://discord.com/invite/asurascans1)
 * [MangaJar](https://mangajar.pro/)
 * [LilyManga](https://lilymanga.com/)
 * [NineManga](https://www.ninemanga.com)
