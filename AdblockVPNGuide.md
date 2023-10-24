@@ -265,6 +265,38 @@
 
 ***
 
+## ▷ Privacy Front-ends
+
+* ⭐ **[Alternative Frontends](https://github.com/mendel5/alternative-front-ends)** - Index of alternative front-ends / clients
+* [Invidious](https://github.com/iv-org/invidious), [Piped](https://github.com/TeamPiped/Piped) or [PokeTube](https://github.com/ashley0143/poketube) - Youtube front-ends
+* [Beatbump](https://github.com/snuffyDev/Beatbump) or [Hyperpipe](https://codeberg.org/Hyperpipe/Hyperpipe) - YouTube Music front-ends
+* [Nitter](https://github.com/zedeus/nitter) - X(Twitter) front-end
+* [Libreddit](https://github.com/spikecodes/libreddit) or [Teddit](https://codeberg.org/teddit/teddit) - Reddit front-ends
+* [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) - Instagram front-end
+* [Proxitok](https://github.com/pablouser1/ProxiTok) - Tiktok front-end
+* [MikuInvidious](https://0xacab.org/johnxina/mikuinvidious) - BiliBili front-end
+* [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch) or [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch front-end
+* [Whoogle](https://benbusby.com/projects/whoogle-search/) - Google Search front-end
+* [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) - Google Translate front-end
+* [Wikiless](https://wikiless.org/) - Wikipedia front-end
+* [Scribe](https://sr.ht/~edwardloveall/Scribe/) or [LibMedium](https://github.com/realaravinth/libmedium) - Medium front-end
+* [Quetre](https://github.com/zyachel/quetre) - Quora front-end
+* [Rimgo](https://codeberg.org/rimgo/rimgo) - Imgur front-end 
+* [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest front-end
+* [Pixivfe](https://codeberg.org/VnPower/pixivfe) - Pixiv front-end
+* [Gothub](https://codeberg.org/gothub/gothub) - Github front-end
+* [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - StackOverflow front-end
+* [BreezeWiki](https://breezewiki.com/) - Fandom front-end
+* [Tent](https://codeberg.org/sun/Tent) - Bandcamp front-end
+* [Suds](https://git.vern.cc/cobra/Suds) - Snopes front-end
+* [Dumb](https://codeberg.org/rramiachraf/dumb) - Genius front-end
+* [Rural Dictionary](https://codeberg.org/zortazert/rural-dictionary) - Urban Dictionary front-end
+* [BiblioReads](https://codeberg.org/nesaku/BiblioReads) - Goodreads front-end
+* [LibreMDb](https://github.com/zyachel/libremdb) - IMDb front-end
+* [Neuters](https://github.com/HookedBehemoth/neuters) - Reuters front-end
+  
+***
+
 ## ▷ Privacy Extensions
 
 * ⭐ **[LibreDirect](https://libredirect.github.io/)** / [2](https://github.com/libredirect/libredirect) or [Proxy Redirect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect) - Frontend Redirect
