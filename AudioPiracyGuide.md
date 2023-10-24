@@ -294,7 +294,6 @@
 * [New Album Releases](https://newalbumreleases.net/) - MP3
 * [mp3db](https://mp3db.pro/) - MP3
 * [ShareMania](http://sharemania.us/) - MP3
-* [NetNaija](https://www.thenetnaija.net/music) - MP3
 * [RockDownload](https://www.rockdownload.org/) - MP3
 * [Uloz](https://ulozto.net/) - MP3
 * [DeadPulpit](https://www.deadpulpit.com/) - MP3
@@ -388,10 +387,8 @@
 * [GoldHipHop](https://goldhiphop.pro/) - Hip Hop / MP3 / FLAC
 * [Rapload](https://rapload.org/) - Hip Hop / MP3
 * [HipHopa](https://hiphopa.net/) - Hip Hop / MP3
-* [FlexyOkay](https://www15.flexyokay.com/) - Hip Hop / MP3
 * [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 /FLAC
 * [KPopMusicDownload](https://kpopdownloadscmm.blogspot.com/) - K-Pop / MP3
-* [KPopTap](https://kpoptap.com/) - K-Pop / MP3
 * [MikuDB](http://mikudb.moe/) - Vocaloid / MP3
 * [El Rincón del Kitsune](https://elrincondelkitsune.blogspot.com/) - Vocaloid / MP3
 * [Guitars101](https://www.guitars101.com/) - Live Audio / Video
