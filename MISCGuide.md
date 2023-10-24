@@ -28,7 +28,7 @@
 * ⭐ **[FMHY Guides](https://rentry.co/fmhy-guides)** - Automated Rentry Guide List / [Script](https://gist.github.com/Rust1667/e21e92ae385e71f0d87e869bed90fff2) / [Download](https://gist.github.com/Rust1667/efc055debaf4876e4de39cc0d32f18c1)
 * ⭐ **[FMHY Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/105xraz/howto_search_fmhy/)** - Search the Wiki
 * ⭐ **[/r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
-* [WebOas.is](https://weboasis.app/), [2](https://ndsamuelson.github.io/weboas-is/), [3](https://weboasis.mon5termatt.com/) - Startpage / Site Index / [Source Code](https://pastebin.com/CczqreS4) / [Archive](https://rentry.co/e9y6b) / [FAQ](https://bin.disroot.org/?6a50fab15330b762#7VwnxM9Jsvp8wWmW6eFmmxyXppWVjErn4CMgd8wii9pC)
+* [WebOas.is](https://weboasis.app/), [2](https://ndsamuelson.github.io/weboas-is/) - Startpage / Site Index / [Source Code](https://pastebin.com/CczqreS4) / [Archive](https://rentry.co/e9y6b) / [FAQ](https://bin.disroot.org/?6a50fab15330b762#7VwnxM9Jsvp8wWmW6eFmmxyXppWVjErn4CMgd8wii9pC)
 * [lists](https://github.com/jnv/lists) - List Index
 * [Curlie](https://curlie.org/) - Topic Directory
 * [ooh.directory](https://ooh.directory/) - Blog Directory
@@ -180,7 +180,6 @@
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
 * [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
 * [LiveScore](https://www.livescores.com/) - Live Sports Scores
-* [Scribe](https://scribe.bus-hit.me/) - Medium Frontend
 * [Read Something Interesting](https://readsomethinginteresting.com/) or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
 * [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/) or [HonestyMeter](https://www.honestymeter.com/) - Media Bias Check
 
@@ -322,7 +321,6 @@
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
 * [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Habit / Mood Trackers
 * [BreakFree](https://breakfree-2c089.web.app/) - Break Smoking Habits
-* [ZeroPercent](https://zeropercent.club/) - Break Drinking Habits
 * [Sobriety](https://github.com/KiARC/Sobriety) - Sobriety Tracker
 * [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-based Research
 * [The Nutrition Source](https://www.hsph.harvard.edu/nutritionsource/) - Harvard University Health Website
@@ -874,7 +872,6 @@
 * [Remarkable](https://github.com/samueldobbie/remarkable-extension) - Remove Dead Bookmarks / Refresh Icons
 * [Mercury Reader](https://reader.postlight.com/) - Clear Clutter From Articles / [GitHub](https://github.com/postlight/parser)
 * [OpenDyslexic](https://chrome.google.com/webstore/detail/opendyslexic-for-chrome/cdnapgfjopgaggbmfgbiinmmbdcglnam) - Increase Page Readability
-* [Read Progress](https://chrome.google.com/webstore/detail/website-read-progress/cpmfchlofecflfioofchboebmocaelip) - Display Read Progress on WebPage
 * [Amino](https://aminoeditor.com/) - Customize Webpage CSS
 * [NFT to Silly JPEG](https://github.com/k-wong/nft-to-silly-jpeg) - Replace NFT Images
 * [DownAlbum](https://chrome.google.com/webstore/detail/downalbum/cgjnhhjpfcdhbhlcmmjppicjmgfkppok?hl=en) - Image / Video Album Downloader / [Script](https://openuserjs.org/scripts/indream/DownAlbum) 
@@ -925,7 +922,6 @@
 * ⭐ **[Greasy Fork](https://greasyfork.org/en)**, [OpenUserJS](https://openuserjs.org/) or [Userscripts](https://userscripts-mirror.org/) or  - Install Userscripts / [Git Install](https://greasyfork.org/en/scripts/6456)
 * ⭐ **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/431584) / [Helper](https://greasyfork.org/en/scripts/393396) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Cleanup Script](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336) / [Dark Theme](https://greasyfork.org/en/scripts/404443)
 * ⭐ **[Userscripts Guide](https://rentry.co/userscript-guide)**
-* [darkmode.js](https://gist.github.com/ILikePython256/53fc6130ad93da39db1a0232da3a187c) - Dark Mode Script
 * [SB.js](https://github.com/mchangrh/sb.js) - SponsorBlock Userscript
 * [2ch-captcha-solver](https://gitgud.io/IeatMonkeysLOL/2ch-captcha-solver-plugin/-/tree/master/) - 2CH Captcha Solver
 * [Solved Media Plus](https://greasyfork.org/en/scripts/422074-solved-media-plus) - Image Captcha Solver
@@ -1012,13 +1008,13 @@
 * [Shucks](https://shucks.top/) - External Drive Price Tracker
 * [FindBoard](https://www.findboard.cn) - Compare Computer Boards
 * [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Laptop Deals](https://laptopsdeals.net/our-gaming-laptops-guide-list/), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - Laptop Suggestions / [Discord](https://discord.gg/pes68JM)
-* [Laptop Knowledge Database](https://laptops.miraheze.org/wiki/Main_Page) or [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Databases
+* [Laptop Wiki](https://laptopwiki.eu/) - Laptop Info Database
 * [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [/r/MouseReview Wiki](https://www.reddit.com/r/MouseReview/wiki/index/) - Mouse Buying Guides
 * [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - Mouse Click Latency Chart
 * [Scarbir](https://www.scarbir.com/) or [Crinacle](https://crinacle.com/) - Headset & Earphone Comparisons
 * [MechGroupBuys](https://www.mechgroupbuys.com/) - Group Mechanical Keyboard Buying / [Discord](https://discord.com/invite/mechgroupbuys) / [Reddit](https://www.reddit.com/r/MechGroupBuys/)
 * [PSU Tier List](https://cultists.network/140/psu-tier-list/) - PSU Buying Guide
-* [PC Monitors](https://pcmonitors.info/), [FrogAI](https://frogai.onrender.com/), [Monitor Hunter](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo/), [Monitor Spreadsheet](https://pastebin.com/tkmakRNW) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
+* [PC Monitors](https://pcmonitors.info/), [FrogAI](https://frogai.onrender.com/), [Monitor Hunter](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo/), [DisplaySpecifications](https://www.displayspecifications.com/), [Monitor Spreadsheet](https://pastebin.com/tkmakRNW) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
 * [DisplayWars](http://www.displaywars.com/), [sven dpi](https://www.sven.de/dpi/) or [Screen Sizes](https://screensiz.es/) - Screen Size Comparisons
 * [Erin's Audio Corner](https://www.erinsaudiocorner.com/), [Speakerzilla](https://speakerzilla.com/) or [Equipboard](https://equipboard.com/) - Audio Equipment Comparisons
 * [InStockAlert_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)
