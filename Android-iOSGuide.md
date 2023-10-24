@@ -212,7 +212,6 @@
 * [Play Integrity API Checker](https://play.google.com/store/apps/details?id=gr.nikolasspyr.integritycheck) - Device Integrity Checker
 * [Albastuz3d](https://albastuz3d.net/) - Stock Phone ROMs
 * [NokiaFIimwareGP](https://t.me/nokiafirmwaregp) or [NokiaOldFirmware](https://t.me/nokiaoldfirmware) - Nokia Firmware
-* [How to Install a Custom ROM](https://www.xda-developers.com/how-to-install-custom-rom-android/) - Custom ROM Installation Guide
 * [Legacy Portable Computing Wiki](https://lpcwiki.miraheze.org/) - Legacy Portable Computer Wiki
 * [Odin](https://www.odindownload.com/) or [IVTheme](https://www.ivtheme.com/) - ROM Flashing Tools
 * [UniPatcher](https://github.com/btimofeev/UniPatcher) - ROM Patcher
@@ -270,7 +269,7 @@
 * [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - Auto Clicker
 * [DoForMe](https://play.google.com/store/apps/details?id=com.aj.dfm) - Location Based Automation
 * [CleverType](https://www.clevertype.co/) - Keyboard with GPT Integration
-* [Pluma](https://plumareader.com/), [Feeder](https://gitlab.com/spacecowboy/Feeder), [FeedMe](https://github.com/seazon/FeedMe), [news](https://github.com/bubelov/news) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers
+* [Pluma](https://plumareader.com/), [Feeder](https://gitlab.com/spacecowboy/Feeder), [Twine](https://github.com/msasikanth/twine), [FeedMe](https://github.com/seazon/FeedMe), [news](https://github.com/bubelov/news) or [ReadYou](https://github.com/Ashinch/ReadYou) - RSS Readers
 * [UnicodePad](https://github.com/Ryosuke839/UnicodePad) or [Kaomoji](https://play.google.com/store/apps/details?id=ru.kaomoji.kaomojiapp) - Emoji / Unicode Manager
 * [emojimix](https://play.google.com/store/apps/details?id=net.tikolu.emojimix) - Combine Emojis
 * [Clipboarded](https://github.com/TrianguloY/SimpleClipboardEditor), [Memory Guardian](https://github.com/hashemi-hossein/memory-guardian), [Clipboard CopyPaste](http://www.evvasoft.com/ccp.html) or [Clipboard History](https://play.google.com/store/apps/details?id=com.rubbishcollector.clipboardhistory) - Clipboard Managers
