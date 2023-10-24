@@ -481,7 +481,6 @@
 * [FIQFUQ](https://fiqfuq.com/) - NSFW Reddit Posts
 * [Reddxxx](https://reddxxx.com/) - NSFW Reddit Posts
 * [Reddit Gone Wild](https://gonewildbrowser.com/) - NSFW Reddit Posts
-* [cakeslip](https://www.cakeslip.com/) - NSFW Reddit Posts
 * [ViralPorn](https://viralporn.com/) - NSFW Reddit Posts
 * [nsfw.xxx](https://nsfw.xxx/) - NSFW Reddit Images
 * [Scroller](https://scrolller.com/) - NSFW Reddit Images
