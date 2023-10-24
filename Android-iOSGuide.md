@@ -108,13 +108,10 @@
 
 * ⭐ **[Modded Central](https://t.me/+MYR2XRdK3_pmZDRl)** / [Backup](https://t.me/moddedcentralbackup)
 * [DroidApks](https://t.me/DroidApks)
-* [pcandroidsoftware](https://t.me/pcandroidsoftware/)
 * [Glype](https://t.me/Glype)
 * [alexstranniklite](https://t.me/alexstranniklite)
 * [AMRTSOFFICIAL](https://t.me/AMRTSOFFICIAL)
 * [ANiK555_Mods](https://t.me/ANiK555_Mods)
-* [TharakMods](https://t.me/TharakMods)
-* [marioworlds4u](https://t.me/marioworlds4u)
 * [EasyAPK](https://t.me/EasyAPK)
 * [Tech Day](https://t.me/s/tech_d4y)
 * [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re)
@@ -132,7 +129,6 @@
 ## ▷ Android Device
 
 * 🌐 **[Root Essentials](https://sites.google.com/view/superthomaslab/root-essentials)** - Multiple Root Tools
-* 🌐 **[Will My Phone Work?](https://willmyphonework.net/)** - Phone Carrier Support Index
 * ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)**
 * ↪️ **[Custom Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_operating_systems)**
 * ↪️ **[App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers)**
