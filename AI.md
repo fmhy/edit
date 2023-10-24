@@ -139,7 +139,7 @@
 * [SnackPrompt](https://snackprompt.com/) - Prompt Directory
 * [GPTea](https://gptea.io/) - Trending Prompts
 * [SD Dynamic Prompts](https://github.com/adieyal/sd-dynamic-prompts) or [PromptBot](https://www.messengerx.io/promptbot) - Prompt Generators
-* [PromptPerfect](https://promptperfect.jina.ai/) - Prompt Optimizer
+* [PromptPerfect](https://promptperfect.jina.ai/) or [GeniePT](https://www.geniept.com/ ) - Prompt Optimization
 * [promptfoo](https://github.com/typpo/promptfoo) or [PromptKnit](https://promptknit.com/) - Prompt Playgrounds
 * [botprompts](https://botprompts.net/) - Fun Prompts
 * [ChatGPT-History](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Prompt Management Extensions
@@ -214,7 +214,6 @@
 * [Image2Paragraph](https://github.com/showlab/Image2Paragraph) - Image to Descriptive Paragraph
 * [RoastMe](https://roastme.aleem.tv/) - Outfit Roasting AI
 * [Auto Text Expander](https://pastebin.com/TFPRieVN) - Shortcuts to Expand & Replace Text as you Type
-* [HideGPT](https://hidegpt.app/) - Mask AI Written Text
 
 ***
 
@@ -288,7 +287,6 @@
 * ⭐ **[Mage](https://www.mage.space/)** / [Discord](https://discord.com/invite/GT9bPgxyFP) / Unlimited
 * [Prodia](https://app.prodia.com/) / [Discord](https://discord.com/invite/495hz6vrFN) / Unlimited
 * [GetIMG.ai](https://getimg.ai/) / [Discord](https://discord.com/invite/5KsUXSzVwS) / 100 Images Monthly
-* [Patience.ai](https://www.patience.ai/) / [Discord](https://discord.com/invite/ppM5yzYX4P) / Unlimited
 * [OpenArt](https://openart.ai/home) / [Discord](https://discord.com/invite/yTMNvk5z97) / Unlimited
 * [SD 2.1 Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited
 * [Leonardo.ai](https://app.leonardo.ai/) / 30 Images Daily
