@@ -435,10 +435,13 @@
 * [MrGamingStreams](https://mrgamingstreams.com/) - TV / Sports
 * [XUMO](https://www.xumo.tv/channels) - TV
 * [Sportsurge.club](https://sportsurge.club/) - Sports
+* [1Stream](https://1stream.eu/) - Sports
+* [TheSports1](https://thesports1.me/) - Sports
 * [s365](https://www.s365.live/) - Sports
 * [First Row Sports](https://firstsrowsports.tv/) - Sports
 * [VIP League](https://vipleague.im/), [2](https://www.vipleague.st/) - Sports
 * [WeakStream](https://weakstream.org/) - Sports
+* [StreamEast](https://streameast.app/) - Sports
 * [AESports](https://aesport.tv/) - Sports
 * [720pStream](http://hdtv.720pstream.me/) - Sports
 * [CrackStreams](https://crackstreams.io/), [2](https://the.crackstreams.me/) - Sports
@@ -577,7 +580,6 @@
 * [ShareSpark](https://ww1.sharespark.cfd/) - Movies / TV / 1080p
 * [Full4Movies](https://www.full4movies.mobi/) - Movies / TV / 1080p / [Telegram](https://t.me/+esNoIP2HG30yMjlk)
 * [Free Movies](https://free-movies.to/) - Movies / TV / 1080p
-* [MovieExplit](https://moviexplit.pw/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/moviexplit)
 * [SomosMovies](https://somosmovies.com/) - Movies / 1080p
 * [Best HD Movies](https://besthdmovies.beauty/) - Movies / 1080p
 * [MovieSeriesTV](https://www.movieseriestv.net/) - Movies / TV / 1080p
@@ -660,7 +662,6 @@
 * ⭐ **[Anime Senpai4U](https://www.animesenpai4u.com/)** - Sub / Dub
 * ⭐ **[Kayoanime](https://kayoanime.com/)** - Sub / Dub / [Telegram](https://t.me/AnimeKayo)
 * ⭐ **[Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)**
-* [itonaku](https://itonaku.xyz/) - Sub / [Discord](https://discord.gg/4mtcZhftYt)
 * [Anime-Sharing](http://www.anime-sharing.com/forum/) - Sub / Dub / Anime / Manga Download Forum
 * [AniMK](https://animk.info/xdcc-list/) - Sub / Dub / XDCC
 * [Anime2Enjoy](https://www.anime2enjoy.com/) - Sub / [Discord](https://discord.gg/PxSmumS)
@@ -671,7 +672,6 @@
 * [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - Sub
 * [Mix Bag of Anime](https://github.com/nbats/FMHYedit/blob/main/base64.md#mix-bag-of-anime) - Sub / Dub
 * [Chiby](https://www.animechiby.com/) - Sub / [Discord](https://discord.com/invite/WagHbBz)
-* [Anime Flix](https://animeflix.net.in/) - Sub / Dub
 * [anime7.download](http://anime7.download/) - Sub
 * [176.36.86.211](https://github.com/nbats/FMHYedit/blob/main/base64.md#1763686211) - Sub / Dub
 * [166.84.7.155](https://github.com/nbats/FMHYedit/blob/main/base64.md#166847155) - Sub / Dub
@@ -850,7 +850,6 @@
 * [Match-a-Movie](https://match-a-movie.com/) - Pick Movies w/ Friends
 * [Random Movies / Series Bookmark Script](https://pastebin.com/PDsm2SSC) - Find Random Movies / Shows
 * [spin.moe](https://spin.moe/) - Find Random Anime
-* [Series Rating Chart](https://www.neetcoder.com/app/) - Compare TV Shows by Ratings
 * [MRQE](https://www.mrqe.com/) - Movie Review Search Engine
 * [TV Chart](https://tvchart.benmiz.com/) or [WhatToWatchOn.tv](https://whattowatchon.tv/) - TV Episode Rating Graphs
 * [DigitalDreamDoor](https://digitaldreamdoor.com/) - Greatest 100 Lists
@@ -973,7 +972,6 @@
 * [Media Stack DIY](http://tennojim.xyz/article/media_stack_diy) - High Quality Streaming Guide
 * [/r/SceneReleases](https://www.reddit.com/r/SceneReleases/) - Untouched Scene Release Tracker
 * [WatchVideoByLink](https://github.com/MohamedBakoush/WatchVideoByLink) - Web Video Viewer / Manager
-* [PseudoTVLive](http://pseudotvlive.com/) - Create TV Channels from Local Media
 * [HowDoesTheMovieEnd](http://www.howdoesthemovieend.com/), [MoviePooper](https://moviepooper.com/), [themoviespoiler](https://themoviespoiler.com/) or [DoesTheDogDie](https://www.doesthedogdie.com/) - Movie Spoilers
 * [WheresTheJump?](https://wheresthejump.com/) - Find Movie Jump Scares
 * [DMT](https://dmtalkies.com/) - Movies / TV Ending Explanations and Recaps
