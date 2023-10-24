@@ -536,7 +536,7 @@
 * [MissingToofff](https://missingtoofff.com/) - OnlyFans Leak Site List
 * [ProThots](https://prothots.com/) - OnlyFans / Patreon
 * [InternetChicks](https://internetchicks.com/) - OnlyFans / Patreon
-* [Coomer.Party](https://coomer.party/artists) - OnlyFans
+* [Coomer.Party](https://coomer.su/) - OnlyFans
 * [ViralPorn](https://viralpornhub.com/) - OnlyFans
 * [InfluencersGoneWild](https://influencersgonewild.com/) - OnlyFans / Patreon
 * [DirtyShip](https://dirtyship.com/) - OnlyFans / Patreon
