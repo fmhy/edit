@@ -444,7 +444,7 @@
 * [ViennaRSS](https://www.vienna-rss.com/) - RSS Feed Reader
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
 * [Aiko](https://sindresorhus.com/aiko) - Audio Transcriber
-* [Drafts](https://getdrafts.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Kyun](https://github.com/file-acomplaint/kyun) or [Voodoopad](http://www.voodoopad.com/) - Text Editors / Notes
+* [Drafts](https://getdrafts.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Kyun](https://github.com/file-acomplaint/kyun), [FSNotes](https://fsnot.es/) or [Voodoopad](http://www.voodoopad.com/) - Text Editors / Notes
 * [Taskpaper](https://www.taskpaper.com/) - To-Do Apps
 * [Stroke](https://stroke.lllllllllllllllll.com/) - Text (You Can't Delete) Editor
 * [BibDesk](https://bibdesk.sourceforge.io/) - Bibliography Manager
