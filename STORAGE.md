@@ -216,7 +216,7 @@
 * ⭐ **[PLUGG SUPPLY](https://t.me/pluggsupply)** - [VK](https://vk.com/pluggsupply)
 * ⭐ **[Plugin Clouds](https://t.me/joinchat/eBPFLPGucTU5YjQ9)** - [Archive](https://t.me/plugincloudsarchive)
 
-[VST Torrents](https://vsttorrentz.net/), [Producer Plug Sheet](https://github.com/nbats/FMHYedit/blob/main/base64.md##producer-plug-sheet), [Open-Source Audio Plugins & Apps](https://github.com/webprofusion/OpenAudio), [/u/BitterApple69 Plugins](https://github.com/nbats/FMHYedit/blob/main/base64.md##ubitterapple69-plugins), [FREE VST PLUGINS](https://freevstplugins.net/), [KVR Audio](https://www.kvraudio.com/plugins/the-newest-plugins/free), [PLUGINS4FREE](https://plugins4free.com/), [DSK Music](https://www.dskmusic.com/), [LANDR](https://blog.landr.com/best-free-vst-plugins/), [Native Instruments](https://www.native-instruments.com/en/specials/free-vst-plugins/), [SPARTA](https://leomccormack.github.io/sparta-site/), [IEM Plug-in Suite](https://plugins.iem.at/), [Plugintorrent](https://plugintorrent.com/), [/r/PluggnB](https://www.reddit.com/r/PluggnB/), [Free DAW plugins](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8##gid=0), [Plugin Pastebin](https://pastebin.com/9scA1AgA)
+[VST Torrents](https://vsttorrentz.net/), [Producer Plug Sheet](https://github.com/nbats/FMHYedit/blob/main/base64.md##producer-plug-sheet), [Open-Source Audio Plugins & Apps](https://github.com/webprofusion/OpenAudio), [/u/BitterApple69 Plugins](https://github.com/nbats/FMHYedit/blob/main/base64.md##ubitterapple69-plugins), [FREE VST PLUGINS](https://freevstplugins.net/), [KVR Audio](https://www.kvraudio.com/plugins/the-newest-plugins/free), [PLUGINS4FREE](https://plugins4free.com/), [DSK Music](https://www.dskmusic.com/), [LANDR](https://blog.landr.com/best-free-vst-plugins/), [Native Instruments](https://www.native-instruments.com/en/specials/free-vst-plugins/), [SPARTA](https://leomccormack.github.io/sparta-site/), [IEM Plug-in Suite](https://plugins.iem.at/), [Plugintorrent](https://plugintorrent.com/), [/r/PluggnB](https://www.reddit.com/r/PluggnB/), [Free DAW plugins](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8##gid=0), [Plugin Pastebin](https://pastebin.com/9scA1AgA), [Audioz](https://audioz.download/)
 
 ***
 
@@ -2853,7 +2853,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * https://t.me/AudiobooksArchive
 * https://t.me/Audiobooks_Collection
 * https://t.me/TheBestAudible
-* https://t.me/audiobookjunkie
 * https://t.me/audiobooks_English
 * https://t.me/Ebooks_AudioBooks
 
