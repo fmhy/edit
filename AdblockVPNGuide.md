@@ -472,7 +472,6 @@
 * [Free VPN Online](http://freevpnonline.com/) - Free VPN
 * [VpnHood](https://github.com/vpnhood/VpnHood) - Free VPN
 * [HideMe](https://hide.me/) - Free VPN
-* [Calyx VPN](https://calyx.net/) - Free VPN
 * [Leap VPN](https://leap.se/) - Free VPN
 * [Clash](https://github.com/Fndroid/clash_for_windows_pkg) - Free VPN / [Profiles](https://rentry.co/2q3rn)
 * [Portals](https://www.portalsvpn.com/) - dVPN
