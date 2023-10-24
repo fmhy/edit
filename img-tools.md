@@ -373,6 +373,7 @@
 * ↪️ **[3D Model sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_3d_models)**
 * ⭐ **[Thingiverse](https://www.thingiverse.com/)**, [Yeggi](https://www.yeggi.com/) or [YouImagine](https://www.youmagine.com/) - 3D Printer Models
 * ⭐ **[Shap-e](https://github.com/openai/shap-e)** - 3D Model Generator
+* [ModelViewer](https://modelviewer.dev/) or [F3D](https://f3d.app/) - 3D Model Viewers
 * [Anaglyph Maker](https://www.stereoeye.jp/software/index_e.html) - Make 3D Images
 * [Vectary](https://www.vectary.com/) - Online 3D Image Editor
 * [3DConvert](https://3d-convert.com/en/) - Online 3D Image Converter
@@ -392,7 +393,6 @@
 * [Figurosity](https://figurosity.com/) - Human 3D Models
 * [Armorpaint](https://armorpaint.org/) - 3D Painting
 * [SculptGL](https://stephaneginier.com/sculptgl/) - 3D Sculpting
-* [ModelViewer](https://modelviewer.dev/) - 3D Model Viewer
 * [Perspective Grid](https://www.reubenlara.com/perspectivegrid/) - 3D Perspective Tool
 * [Skybox](https://skybox.blockadelabs.com/) - AI Generated 3D Environments 
 * [Assemblr](https://www.assemblrworld.com/) - Augmented Reality Image Creator
