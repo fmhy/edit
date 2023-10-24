@@ -633,7 +633,6 @@
 * [Bolly4u](https://bolly4u.center/) - Movies / [Telegram](https://t.me/bolly4uofficial1)
 * [9xflix](https://9xflix.monster/) - Movies / NSFW / [Telegram](https://t.me/ninexflix)
 * [HDVogo](https://www.hdvogo.click/) - Movies
-* [moviesfd](https://moviesfd.cfd) - Movies / [Telegram](https://t.me/+q9CFdd5YILBjYzM8)
 * [Moviehunt](https://moviehunt.us) - Movies / TV
 * [Isaimini](https://ww1.isaimini.store/) - Movies / Music
 * [EdithSeedbox](https://t.me/EdithSeedBox) - Movies / TV / [Login](https://pastebin.com/bQkQpee4)
@@ -759,7 +758,6 @@
 
 ## ▷ Torrenting
 
-* [ilCorSaRoNeRo](https://ilcorsaronero.link/) - Video / Audio  
 * [icv-crew](https://www.icv-crew.com/) - Video / Audio  
 * [MIRCrew](https://mircrew-releases.org/) - Movies / TV / Anime
 
@@ -769,9 +767,7 @@
 * [Streaming Improved](https://rentry.co/ItalianStreamingImproved), [2](https://rentry.co/t29tz) - Streaming Sites List
 * [Altaefinizione](https://altadefinizione01.boo/) - Movies / TV / Anime
 * [ilgeniodellostreaming](https://ilgeniodellostreaming.lat/) - Movies / TV / Anime
-* [cinemalibero](https://cinemalibero.cafe/) - Movies / TV / Anime
 * [casacinema](https://casacinema.media/) - Movies / TV / Anime
-* [cinemalibero](https://cinemalibero.cafe/) - Movies / TV
 * [filmsenzalimiti](https://hds.filmsenzalimiti.me/) - Movies / TV
 * [filmsenzalimiti](https://filmsenzalimiti.name/) - Movies / TV
 * [Arcoiris TV](https://www.arcoiris.tv/) - TV
@@ -807,7 +803,6 @@
 * [JPFILES](https://jpfiles.eu/) - Video / Audio / Books / NSFW
 * [jpddl](https://jpddl.com/) - Manga / Anime / Music / Drama
 * [JPLearner](http://www.jplearner.to/) - Video / Manga / Magazines
-* [JapanEncodings](https://japanencodings.blogspot.com/) - Movies
 * [arearaw](http://arearaw.com/) - Anime / Use Tor
 * [Sukidesuost](https://sukidesuost.info/) - Music / MP3 / FLAC
 * [Hikarinoakariost](https://hikarinoakari.com/) - Music / MP3
@@ -1124,7 +1119,6 @@
 * [Séries Empire](https://seriesempire.com) - TV
 * [KSensei](https://karinsensei.com) - Anime
 * [Anipakku](https://anipakku.blogspot.com) - Anime / [Discord](https://discord.com/invite/Whu6RV9Gad)
-* [Baixar SOM Gospel](https://www.baixarsomgospel.org) - Gospel Music
 * [Baixar Vídeo](https://baixarvideo.com.br) - Portuguese Video Downloader
 * [Online Cursos Gratuitos](https://onlinecursosgratuitos.com) - Courses
 * [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
@@ -1622,7 +1616,6 @@
 * [Tlnovelas](https://tlnovelas.net/) - TV / Drama
 * [asialiveaction](https://asialiveaction.com/) - Asian Drama
 * [doramasyt](https://www.doramasyt.com/) - Asian Drama
-* [DoramasMp4](https://doramasmp4.io/) - Asian Drama
 * [Vix](https://www.vix.com/tv/) - TV / Latino
 * [AtresPlayer](https://www.atresplayer.com/) - Movies / TV / Live TV / Castilian
 * [Cine Libre Online](https://www.cinelibreonline.com/) - YouTube Movies
@@ -1703,7 +1696,6 @@
 * [daprob](https://daprob.com/) - Manga
 * [scambertraslator](https://scambertraslator.com/) - Manga
 * [mangatigre](https://www.mangatigre.net/) - Manga
-* [olympusscan](https://olympusscan.top/) - Manga
 * [Leer Manga](https://r2.leermanga.xyz/) - Manga
 * [MangaCrab](https://manga-crab.com/) - Manga
 * [Nova](https://novelasligeras.net/) - Manga / Light Novels
@@ -1875,7 +1867,6 @@
 * [HDVietnam](https://www.hdvietnam.xyz/) - Video / Audio
 * [TinMp3](https://tinmp3.com/) - Music
 * [NhacHay360](https://nhachayvn.net/) - Music
-* [NhacRemix](https://nhacremixs.com/) - Music
 
 ## ▷ Torrenting
 
@@ -1928,7 +1919,6 @@
 * [NhaSach](https://nhasachmienphi.com/) - Books
 * [TaiSach](https://taisachmienphi.com/) - Books
 * [DocSach24](https://docsach24.co/) - Books
-* [GacSach](https://gacsach.online/) - Books
 * [SachHay](https://www.sachhayonline.com/) - Books
 * [KhoSach](https://khosachonline.com/) - Books
 * [VNDoc](https://vndoc.com/) - Educational Books / Documents
