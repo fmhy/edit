@@ -163,7 +163,7 @@
 * [Heidoc](https://www.heidoc.net/joomla/)
 * [RetroSystemRevival](https://retrosystemsrevival.blogspot.com/)
 * [SamLab](https://samlab.ws/) - Use [translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
-* irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ
+* [ZOMBIE-WAREZ](https://pastebin.com/Mv32ibns)
 * [Libreware](https://t.me/Libreware) - Telegram
 * [Computer Softwares](https://t.me/Computer_Softwares_Games_Windows) - Telegram
 * [PC Cracked Software](https://t.me/pc_cracked_softwares) - Telegram
