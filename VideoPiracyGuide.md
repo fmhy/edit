@@ -422,6 +422,7 @@
 * ⭐ **[Time4TV](http://time4tv.stream/)** - TV / Sports
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html)** - TV / Sports
 * ⭐ **[FreeSports](https://freesports.to/)** or [TheHomeSports](https://thehomesport.net/) - Sports
+* ⭐ **[FSL](https://fsl-stream.lu/)** - Sports
 * ⭐ **[IPTV Web](https://dev-iptv.web.app/)** - TV / Sports
 * ⭐ **[RBTV](https://www.rbtv77.com/)**, [2](https://www.rbtv77.digital/), [3](https://www.rbtv77.guru/) - Sports / [Telegram](https://t.me/+_xlFBUO08tQwZGJl)
 * ⭐ **[OlympicStreams](https://olympicstreams.me/)** - Sports
@@ -439,7 +440,6 @@
 * [VIP League](https://vipleague.im/), [2](https://www.vipleague.st/) - Sports
 * [WeakStream](https://weakstream.org/) - Sports
 * [AESports](https://aesport.tv/) - Sports
-* [FreeStreams-Live](https://freestreams-live1.se/) - Sports
 * [720pStream](http://hdtv.720pstream.me/) - Sports
 * [CrackStreams](https://crackstreams.io/), [2](https://the.crackstreams.me/) - Sports
 * [BuffStream](https://buffstream.io/) - Sports
