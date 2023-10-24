@@ -1071,7 +1071,6 @@
 * [Zerknij](https://zerknij.tv/) - Movies / TV
 * [Kinomoc](https://kinomoc.com/) - Movies / TV
 * [Filser](https://filser.cc/) - Movies / TV
-* [Bajeczki](https://bajeczki.org/) - Movies / TV / Cartoons
 * [iiTV](https://iitv.info/) - TV / Cartoons
 * [OpenClip](http://openclip.info/) - Movies / TV / Anime
 * [Shinden](https://shinden.pl/) - Anime / [Discord](https://discord.gg/xyH5uS6)
