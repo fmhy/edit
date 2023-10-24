@@ -425,9 +425,11 @@
 * [Anime-Ultime](http://www.anime-ultime.net/), [2](https://v5.anime-ultime.net/) - Anime
 * [universanime](https://www.universanime.co/) - Anime
 * [mavanimes](https://mavanimes.cc/) - Anime
+* [FRAnime](https://franime.fr/) - Anime
 * [French Anime](https://french-anime.com/) - Anime
 * [VoirAnime](https://voiranime.com/) - Anime
 * [Animevost.fr](https://animevost.fr/) - Anime
+* [Neko-sama](https://www.neko-sama.fr/) - Anime
 * [Animeo TV](https://animeovf.fr) - Anime
 * [sekai](https://sekai.one/) - Anime
 * [senpai](https://senpai.cc/) - Anime
@@ -457,6 +459,7 @@
 * [scan-fr](https://www.scan-fr.org/) - Manga
 * [mangascan](https://manga-scan.co/), [2](https://scansmangas.me/), [3](https://scanmanga-vf.ws/) - Manga
 * [mangadraft](https://www.mangadraft.com/) - Manga
+* [Bento Manga](https://www.bentomanga.com/) - Manga
 * [raijinscans](https://raijinscans.com/) - Manga
 * [mangacollec](https://www.mangacollec.com/) - Manga Manager
 
