@@ -8,7 +8,7 @@ branding:
 favicon: /static/favicon.ico
 
 links: # Top bar. Icons from FontAwesome 6.4.2.
-  - text: Chat
+  - text: Discord
     link: https://redd.it/17f8msf
     icon: <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="m3,0C1.35,0,0,1.35,0,3v13.5c0,1.65,1.35,3,3,3h4.5v3.75c0,.29.16.54.41.67.25.13.56.1.79-.07l5.8-4.35h6.5c1.65,0,3-1.35,3-3V3c0-1.65-1.35-3-3-3H3Z"/></svg>
   - text: Search
