@@ -891,7 +891,6 @@
 * [Project ECLISE & Grind Thousand](https://discord.gg/PtfwpAznUB) - Plants vs. Zombies 2 Rebalance Mods / [YouTube](https://www.youtube.com/c/goodpea2)
 * [Thunderstore](https://northstar.thunderstore.io/) - Northstar Mods
 * [Modding-OpenMW](https://modding-openmw.com/) - Morrowind Mods
-* [CT3Tweaks](https://ct3tweaks.stashy.dev/) - Crazy Taxi 3 Tweak Tool / [GitHub](https://github.com/stashymane/ct3tweaks)
 * [VRChat Modding Group](https://discord.gg/rCqKSvR) - VR Modding Discussion
 * [CheatEngine](https://cheatengine.org/) or [WeMod](https://wemod.com/) / [Pro](https://github.com/fmhy/FMHYedit/blob/main/base64.md#wemod-pro) / [Forum](https://mrantifun.net/) - Cheat Engine
 * [Cheat Table Archive](https://framedsc.github.io/cheattablearchive.htm) - Cheat Engine Table
