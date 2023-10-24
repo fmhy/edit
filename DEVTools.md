@@ -186,7 +186,7 @@
 * [Python AI](https://community.uuki.live/course/tdb3Vsl1/python-course/aitutor) - AI Python Tutor
 * [CodingBat](https://codingbat.com/) or [PyQuickie](https://chrome.google.com/webstore/detail/pyquickie/okpdnfgpbpifbncoleieajiblmebbkci) - Python / Java Practice
 * [AmigosCode](https://www.youtube.com/@amigoscode) - Java Tutorials
-* [Python4Everyone](https://py4e.com/), [A Byte of Python](https://python.swaroopch.com/), [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/), [Learn Python](https://www.learnpython.org/), [Learn-Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
+* [Python4Everyone](https://py4e.com/), [A Byte of Python](https://python.swaroopch.com/), [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/), [DataCamp](https://www.datacamp.com/), [Learn Python](https://www.learnpython.org/), [Learn-Python](https://github.com/trekhleb/learn-python) or [Magical Universe](https://github.com/zotroneneis/magical_universe) - Learn Python
 * [High Performance Python: The Code](https://github.com/mynameisfiber/high_performance_python) - Python Lessons
 * [Real Python](https://realpython.com/), [Reeborg](https://reeborg.ca/docs/en/) or [AskPython](https://www.askpython.com/) - Python Tutorials
 * [FutureCoder](https://futurecoder.io/), [CS50](https://cs50.harvard.edu/python/), [Python Full Course](https://youtu.be/XKHEtdqhLK8) or [A Practical Introduction to Python](https://www.brianheinold.net/python/python_book.html) - Python Course
