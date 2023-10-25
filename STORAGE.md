@@ -1346,7 +1346,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## IP / Network Tools
 
-[2ip.io](https://2ip.io/) / [2](https://2ip.me/) / [3](https://2ip.ru/), [IPVoid](https://www.ipvoid.com/), [Hacker Target](https://hackertarget.com/ip-tools/), [ipaddressguide](https://www.ipaddressguide.com/), [ipfingerprints](https://www.ipfingerprints.com/), [centralops](https://centralops.net/), [networkappers](https://networkappers.com/), [dnstools](http://www.dnstools.ch/), [networkappers](https://networkappers.com/), [ipinfo](https://ipinfo.info), [ViewDNS](https://viewdns.info/), [DNSChecker](https://dnschecker.org/all-tools.php), [Dotcom Tools](https://www.dotcom-tools.com/), [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/), [Network Tools](https://www.broadbandsearch.net/network-tools), [WebsiteScoop](https://websitescoop.com/), [zmap](https://zmap.io/)
+[2ip.io](https://2ip.io/) / [2](https://2ip.me/) / [3](https://2ip.ru/), [IPVoid](https://www.ipvoid.com/), [Hacker Target](https://hackertarget.com/ip-tools/), [ipaddressguide](https://www.ipaddressguide.com/), [ipfingerprints](https://www.ipfingerprints.com/), [centralops](https://centralops.net/), [networkappers](https://networkappers.com/), [dnstools](http://www.dnstools.ch/), [networkappers](https://networkappers.com/), [ipinfo](https://ipinfo.info), [ViewDNS](https://viewdns.info/), [DNSChecker](https://dnschecker.org/all-tools.php), [Dotcom Tools](https://www.dotcom-tools.com/), [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/), [Network Tools](https://www.broadbandsearch.net/network-tools), [WebsiteScoop](https://websitescoop.com/), [zmap](https://zmap.io/, [web-check](https://web-check.xyz/)
 
 ***
 
@@ -1618,7 +1618,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [Playit.gg](https://playit.gg/) - [Discord](https://discord.gg/AXAbujx)
 * [FreeMCServer](https://freemcserver.net/) - [uBO Filter](https://pastebin.com/C2aiXG8p)
 
-[MineFort](https://minefort.com/), [Minehut](https://minehut.com/), [PloudOS](https://ploudos.com/), [Aternos](https://aternos.org/), [Cuberite](https://cuberite.org/)
+[MineFort](https://minefort.com/), [Minehut](https://minehut.com/), [Aternos](https://aternos.org/), [Cuberite](https://cuberite.org/)
 
 ***
 
@@ -2269,7 +2269,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[mvsep](https://mvsep.com/)**
 
-[VocalRemover](https://vocalremover.org/) / [GUI](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [AIVocalRemover](https://aivocalremover.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb), [x-minus](https://x-minus.pro/ai), [online-vocal-remover](https://www.notta.ai/en/tools/online-vocal-remover), [Remove Vocals](https://www.remove-vocals.com/), [vocali](https://vocali.se/en), [voxremover](https://voxremover.com/), [mazmazika](https://www.mazmazika.com/), [demixor](https://demixor.com/), [karaoke-maker](http://humtools.com/karaoke-maker/)
+[VocalRemover](https://vocalremover.org/) / [GUI](https://github.com/Anjok07/ultimatevocalremovergui) / [2](https://github.com/Anjok07/ultimatevocalremovergui/tree/v5-beta-cml), [PhonicMind](https://phonicmind.com/), [AIVocalRemover](https://aivocalremover.com/), [Ultimate Vocal Remover](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb), [x-minus](https://x-minus.pro/ai), [online-vocal-remover](https://www.notta.ai/en/tools/online-vocal-remover), [Remove Vocals](https://www.remove-vocals.com/), [vocali](https://vocali.se/en), [voxremover](https://voxremover.com/), [mazmazika](https://www.mazmazika.com/), [demixor](https://demixor.com/), [karaoke-maker](http://humtools.com/karaoke-maker/), [MDX23](https://colab.research.google.com/github/jarredou/MVSEP-MDX23-Colab_v2/blob/v2.2/MVSep-MDX23-Colab.ipynb)
 
 ***
 
