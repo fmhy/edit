@@ -1125,6 +1125,7 @@
 * [Online Cursos Gratuitos](https://onlinecursosgratuitos.com) - Courses
 * [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
 * [Mundo Ubuntu](https://www.mundoubuntu.com.br) - Courses
+* [Banda Desenhada](https://bandadesenhada-pt.blogspot.com/) - Comics
 
 ## ▷ Torrenting
 
