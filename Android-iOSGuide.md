@@ -252,6 +252,7 @@
 * [AppBrain](https://www.appbrain.com/) - Analyze Android App Changes
 * [App Blocker](https://play.google.com/store/apps/details?id=com.mobteq.appblocker) - Block Apps
 * [openboard](https://github.com/openboard-team/openboard), [Simple Keyboard](https://github.com/rkkr/simple-keyboard), [Thumb-Key](https://github.com/dessalines/thumb-key) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
+* [Sayboard](https://github.com/ElishaAz/Sayboard) - AI Voice Keyboard
 * [Grammarly](https://github.com/nbats/FMHYedit/blob/main/base64.md#grammarly-keyboard-premium) - Grammarly Keyboard Premium
 * [ZeeArchiver-Android](https://github.com/mahmoudgalal/ZeeArchiver-Android) - Unzip / Compress Files
 * [icq](https://icq.com/) - Messaging App
