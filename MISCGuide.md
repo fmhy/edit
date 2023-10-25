@@ -175,6 +175,7 @@
 * [FinURLs](https://finurls.com/) - Finance & Business News
 * [Uriminzokkiri](http://www.uriminzokkiri.com/index.php?lang=eng) - Korean News
 * [EDIS](https://rsoe-edis.org/) - Emergency and Disaster Map 
+* [Citizen](https://citizen.com/explore) - Real Time Local News (US Only)
 * [PlaneCrashInfo](http://www.planecrashinfo.com/) - Plane Crash Reports
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
@@ -536,6 +537,7 @@
 * [Waqi.info](http://waqi.info/) - Air Pollution Map
 * [Light Pollution Map](https://lightpollutionmap.info/) - Light Pollution Map
 * [NightBlight](https://nightblight.cpre.org.uk/maps/) - England Light Pollution Map
+* [Freedom House](https://freedomhouse.org/explore-the-map) - Freedom / Internet Freedom Map
 * [PowerOutage](https://poweroutage.us/) - Power Outage Map
 * [ElectricityMap](https://app.electricitymap.org/) - Electricity CO₂ Emissions Map
 * [City Generator](https://probabletrain.itch.io/city-generator) or [CityGenerator](https://oskarstalberg.com/game/CityGenerator/) - City Map Generator
@@ -575,6 +577,7 @@
 * ↪️ **[Unicode Font Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_unicode_font_generators)**
 * ⭐ **[Font Download Guide](https://redd.it/8tqfg6)**
 * ⭐ **[Fontogen](https://github.com/SerCeMan/fontogen)** - Custom AI Font Generator
+* ⭐ **[TypeTrials](https://typetrials.com/)** - Variable Font Playground
 * ⭐ **[Nerd Fonts](https://www.nerdfonts.com/)** - Iconic Font Aggregator
 * ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www10.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](http://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators
 * ⭐ **[WhatTheFont](https://www.myfonts.com/WhatTheFont/)**, [Identifont](http://www.identifont.com/), [WhatFont](http://www.chengyinliu.com/whatfont.html), [Fonty.io](https://fonty.io/) or [What Font Is](https://www.whatfontis.com/) - Font Identification Tools
@@ -608,7 +611,7 @@
 * [Bitfontmaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitFont Creator
 * [FontJoy](https://fontjoy.com/) - Font Pairings Generator
 * [Typerip](http://badnoise.net/TypeRip/) - Adobe Font Ripper / [GitHub](https://github.com/CodeZombie/TypeRip)
-* [FontEdit](https://github.com/ayoy/fontedit), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/) or [Font Forge](https://fontforge.org/en-US/) - Font Editor 
+* [FontEdit](https://github.com/ayoy/fontedit), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/) or [Font Forge](https://fontforge.org/en-US/) - Font Editors
 * [Transfonter](https://transfonter.org/) - Font Converter
 * [FontBase](https://fontba.se/) or [Xiles](https://www.xiles.app/) - Font Manager
 * [ShapeCatcher](https://shapecatcher.com/) - Unicode Identification
