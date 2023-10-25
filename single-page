@@ -384,7 +384,7 @@
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
 * [Nitter](https://nitter.net/) - Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)
 * [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) - Instagram Frontend 
-* [Proxitok](https://github.com/pablouser1/ProxiTok) - Tiktok Frontend 
+* [Proxitok](https://github.com/pablouser1/ProxiTok) or [TikNot](https://tiknot.netlify.app/) - Tiktok Frontends 
 * [MikuInvidious](https://0xacab.org/johnxina/mikuinvidious) - BiliBili Frontend 
 * [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch) or [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch Frontends
 * [Whoogle](https://benbusby.com/projects/whoogle-search/) - Google Search Frontend 
@@ -1793,7 +1793,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[Alphacoders Avatars](https://avatars.alphacoders.com/)**
 * ⭐ **[Flaticon](https://www.flaticon.com/)** - SVG Premium Only
 
-[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources), [IconFinder](https://www.iconfinder.com/), [SimpleIcons](https://simpleicons.org/), [Noun Project](https://thenounproject.com/), [tablericons](https://tablericons.com/), [Gumroad](https://www.google.com/search?q=site%3Agumroad.com+%240+icons), [IconPacks](https://www.iconpacks.net/), [Streamline](https://www.streamlinehq.com/), [game-icons](https://game-icons.net/), [ikonate](https://ikonate.com/), [iconmonstr](https://iconmonstr.com/), [styled-icons](https://styled-icons.js.org/), [glitter-graphics](https://www.glitter-graphics.com/), [Icon Archive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [HeroIcons](https://heroicons.com/), [fontawesome](https://fontawesome.com/), [css.gg](https://css.gg/), [EvaIcons](https://akveo.github.io/eva-icons/), [publicicons](https://publicicons.lllllllllllllllll.com/), [getbootstrap](https://icons.getbootstrap.com/), [remixicon](https://remixicon.com/), [IconSets](http://www.iconsets.com/), [flexiple](https://flexiple.com/illustrations/), [uispace](https://uispace.net/free-icons), [freeicons](https://freeicons.io/), [Quick Feather Icons](https://quick-feather-icons.vercel.app/), [illlustrations](https://illlustrations.co/), [vector.toolxox](https://vector.toolxox.com/), [icon icons](https://icon-icons.com/), [fontawesome icons](https://fontawesome.com/v5.15/icons), [feathericons](https://feathericons.com/), [IconHub](https://iconhub.io/), [icons-for-free](https://icons-for-free.com/), [RealFaviconGenerator](https://realfavicongenerator.net/), [Material Icons](https://material.io/icons/), [TheForgeSmith](https://icons.theforgesmith.com/), [Basic Icons](https://basicons.xyz/), [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [entypo](http://www.entypo.com/), [mapsicon](https://github.com/djaiss/mapsicon), [materialui](https://materialui.co/icons/), [iconoir](https://iconoir.com/), [weather-icons](https://erikflowers.github.io/weather-icons/), [typicons](https://www.s-ings.com/typicons/), [topcoat](https://github.com/topcoat/icons), [standart](https://standart.io/), [stackicons](http://stackicons.com/), [pathlove](https://pathlove.com/icons/), [kudakurage](https://kudakurage.com/ligature_symbols/), [ionic](https://ionic.io/ionicons), [iconstore](https://iconstore.co/), [icomoon](https://icomoon.io/), [zurb](https://zurb.com/playground/foundation-icon-fonts-3), [fontello](https://fontello.com/), [devicons](https://vorillaz.github.io/devicons), [grommet](https://icons.grommet.io/), [ant.design](https://ant.design/components/icon/), [icons modulz](https://icons.radix-ui.com/), [tabler icons](https://tabler-icons.io/), [iconshock](https://www.iconshock.com/freeicons/), [eos-icons](https://eos-icons.com/), [1001freedownloads](https://www.1001freedownloads.com/), [iconsvg](https://iconsvg.xyz/), [polaris](https://polaris.shopify.com/icons), [ionicons](https://ionic.io/ionicons), [SuperTinyIcons](https://github.com/edent/SuperTinyIcons), [systemuicons](https://systemuicons.com/), [healthicons](https://healthicons.org/), [iconsplace](https://iconsplace.com/), [icofont](https://icofont.com/icons), [Phosphor Icons](https://phosphoricons.com/), [lineicons](https://lineicons.com/), [Icon Drives](https://github.com/nbats/FMHYedit/blob/main/base64.md##icon-drives), [streamlinehq](https://www.streamlinehq.com/icons), [iconify](https://iconify.design/), [heroicons](https://heroicons.dev/), [fluenticons](https://fluenticons.co/), [iconer](https://iconer.app/), [feather.netlify](https://feather.netlify.app/), [jam-icons](https://jam-icons.com/), [dryicons](https://dryicons.com/), [cleanicons](https://cleanicons.xyz/), [cappuccicons](https://cappuccicons.com/), [akaricons](https://akaricons.com/), [awsicons](https://awsicons.dev/), [boxicons](https://boxicons.com/), [lucide](https://lucide.dev/), [svgmix](https://svgmix.com/), [iconbuddy](https://iconbuddy.app/), [icones](https://icones.js.org/)
+[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources), [IconFinder](https://www.iconfinder.com/), [SimpleIcons](https://simpleicons.org/), [Noun Project](https://thenounproject.com/), [tablericons](https://tablericons.com/), [Gumroad](https://www.google.com/search?q=site%3Agumroad.com+%240+icons), [IconPacks](https://www.iconpacks.net/), [Streamline](https://www.streamlinehq.com/), [game-icons](https://game-icons.net/), [ikonate](https://ikonate.com/), [iconmonstr](https://iconmonstr.com/), [styled-icons](https://styled-icons.js.org/), [glitter-graphics](https://www.glitter-graphics.com/), [Icon Archive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [HeroIcons](https://heroicons.com/), [fontawesome](https://fontawesome.com/), [css.gg](https://css.gg/), [EvaIcons](https://akveo.github.io/eva-icons/), [publicicons](https://publicicons.lllllllllllllllll.com/), [getbootstrap](https://icons.getbootstrap.com/), [remixicon](https://remixicon.com/), [IconSets](http://www.iconsets.com/), [flexiple](https://flexiple.com/illustrations/), [uispace](https://uispace.net/free-icons), [freeicons](https://freeicons.io/), [Quick Feather Icons](https://quick-feather-icons.vercel.app/), [illlustrations](https://illlustrations.co/), [vector.toolxox](https://vector.toolxox.com/), [icon icons](https://icon-icons.com/), [fontawesome icons](https://fontawesome.com/v5.15/icons), [feathericons](https://feathericons.com/), [IconHub](https://iconhub.io/), [icons-for-free](https://icons-for-free.com/), [RealFaviconGenerator](https://realfavicongenerator.net/), [Material Icons](https://material.io/icons/), [TheForgeSmith](https://icons.theforgesmith.com/), [Basic Icons](https://basicons.xyz/), [CaptainIconWeb](https://mariodelvalle.github.io/CaptainIconWeb/), [entypo](http://www.entypo.com/), [mapsicon](https://github.com/djaiss/mapsicon), [materialui](https://materialui.co/icons/), [iconoir](https://iconoir.com/), [weather-icons](https://erikflowers.github.io/weather-icons/), [typicons](https://www.s-ings.com/typicons/), [topcoat](https://github.com/topcoat/icons), [standart](https://standart.io/), [stackicons](http://stackicons.com/), [pathlove](https://pathlove.com/icons/), [kudakurage](https://kudakurage.com/ligature_symbols/), [ionic](https://ionic.io/ionicons), [iconstore](https://iconstore.co/), [icomoon](https://icomoon.io/), [zurb](https://zurb.com/playground/foundation-icon-fonts-3), [fontello](https://fontello.com/), [devicons](https://vorillaz.github.io/devicons), [grommet](https://icons.grommet.io/), [ant.design](https://ant.design/components/icon/), [icons modulz](https://icons.radix-ui.com/), [tabler icons](https://tabler-icons.io/), [iconshock](https://www.iconshock.com/freeicons/), [eos-icons](https://eos-icons.com/), [1001freedownloads](https://www.1001freedownloads.com/), [iconsvg](https://iconsvg.xyz/), [polaris](https://polaris.shopify.com/icons), [ionicons](https://ionic.io/ionicons), [SuperTinyIcons](https://github.com/edent/SuperTinyIcons), [systemuicons](https://systemuicons.com/), [healthicons](https://healthicons.org/), [iconsplace](https://iconsplace.com/), [icofont](https://icofont.com/icons), [Phosphor Icons](https://phosphoricons.com/), [lineicons](https://lineicons.com/), [Icon Drives](https://github.com/nbats/FMHYedit/blob/main/base64.md##icon-drives), [streamlinehq](https://www.streamlinehq.com/icons), [iconify](https://iconify.design/), [heroicons](https://heroicons.dev/), [fluenticons](https://fluenticons.co/), [iconer](https://iconer.app/), [feather.netlify](https://feather.netlify.app/), [jam-icons](https://jam-icons.com/), [dryicons](https://dryicons.com/), [cleanicons](https://cleanicons.xyz/), [cappuccicons](https://cappuccicons.com/), [akaricons](https://akaricons.com/), [awsicons](https://awsicons.dev/), [boxicons](https://boxicons.com/), [lucide](https://lucide.dev/), [svgmix](https://svgmix.com/), [iconbuddy](https://iconbuddy.app/), [icones](https://icones.js.org/), [Devicon](https://devicon.dev/)
 
 ***
 
@@ -1866,7 +1866,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)**
 
-[Text Grab](https://github.com/TheJoeFin/Text-Grab), [TextShot](https://github.com/ianzhao05/textshot), [OnlineOCR](https://onlineocr.org/), [IMG2TXT](https://img2txt.com/), [NewOCR](https://www.newocr.com/), [OCR.SPACE](https://ocr.space/), [Project Naptha](https://projectnaptha.com/), [Extract text from image](https://brandfolder.com/workbench/extract-text-from-image), [2ocr](https://2ocr.com/), [i2ocr](https://www.i2ocr.com/), [ImageToText](https://www.imagetotext.info/), [OnlineOCR](https://www.onlineocr.net/), [pomodoro](https://pomodoro.semlab.io/), [ImageScanOCR](https://github.com/ttop32/ImageScanOCR)
+[Text Grab](https://github.com/TheJoeFin/Text-Grab), [TextShot](https://github.com/ianzhao05/textshot), [OnlineOCR](https://onlineocr.org/), [IMG2TXT](https://img2txt.com/), [NewOCR](https://www.newocr.com/), [OCR.SPACE](https://ocr.space/), [Project Naptha](https://projectnaptha.com/), [Extract text from image](https://brandfolder.com/workbench/extract-text-from-image), [2ocr](https://2ocr.com/), [i2ocr](https://www.i2ocr.com/), [ImageToText](https://www.imagetotext.info/), [OnlineOCR](https://www.onlineocr.net/), [pomodoro](https://pomodoro.semlab.io/), [ImageScanOCR](https://github.com/ttop32/ImageScanOCR), [iblogbox OCR](https://imagetotext.iblogbox.com/)
 
 ***
 
@@ -2360,7 +2360,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## Note Taking / To Do Apps
 
 * ⭐ **[NoteApps](https://noteapps.info/)** - Note App Index
-* ⭐ **[Obsidian](https://obsidian.md/)** / [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) / [Backup](https://github.com/denolehov/obsidian-git)
+* ⭐ **[Obsidian](https://obsidian.md/)** / [Resources](https://github.com/kmaasrud/awesome-obsidian) / [Share Notes](https://noteshare.space/) / [Live Sync](https://github.com/vrtmrz/obsidian-livesync) / [Backup](https://github.com/denolehov/obsidian-git)
 * ⭐ **[Magic ToDo](https://goblin.tools/)** - Automatic Task Breakdown
 * ⭐ **[AnyType](https://anytype.io/)**
 * ⭐ **[Notion](https://www.notion.so/)**
@@ -3166,7 +3166,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[Link Bypasser](https://github.com/TheCaduceus/Link-Bypasser)** / [TG Bot](https://t.me/drlinkbot) / [2](https://github.com/TheCaduceus/Link-Bypasser-Bot)
 * ⭐ **[bypass.vip](https://bypass.vip/)**
 
-[Bypass All Shortlinks](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks), [AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser), [skip-redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/) / [Chrome](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon), [krnl-and-linkvertise-bypasser](https://greasyfork.org/en/scripts/427869-krnl-and-linkvertise-bypasser), [TheBypasser](https://thebypasser.com/), [Bypass-Links](https://github.com/amitsingh-007/bypass-links), [Auto link bypasser](https://chrome.google.com/webstore/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh), [Bypasser](https://yuumari.com/bypass/), [UploadHEaven](https://greasyfork.org/en/scripts/442019), [Bypasser Online](https://bypasser.online/)
+[Bypass All Shortlinks](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks), [AdsBypasser](https://adsbypasser.github.io/) / [2](https://github.com/adsbypasser/adsbypasser), [skip-redirect](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/) / [Chrome](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon), [krnl-and-linkvertise-bypasser](https://greasyfork.org/en/scripts/427869-krnl-and-linkvertise-bypasser), [TheBypasser](https://thebypasser.com/), [Bypass-Links](https://github.com/amitsingh-007/bypass-links), [Auto link bypasser](https://chrome.google.com/webstore/detail/auto-link-bypasser/doiagnjlaingkmdjlbfalakpnphfmnoh), [Bypasser](https://yuumari.com/bypass/), [UploadHEaven](https://greasyfork.org/en/scripts/442019)
 
 ***
 
@@ -3804,7 +3804,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[Mastershot](https://mastershot.app/)**
 
-[Clideo](https://clideo.com/), [Kapwing](https://www.kapwing.com/), [InVideo](https://invideo.io/), [Panzoid](https://panzoid.com/), [KeepChangeIt](https://keepchangeit.com/), [veed.io](https://www.veed.io/tools/video-editor), [Convert2Video](https://convert2video.com/), [Video Cutter](https://video-cutter-js.com/), [FlexClip](https://www.flexclip.com/), [Vididoo](https://vididoo.vercel.app/), [VideoToolbox](https://www.videotoolbox.com/), [VideoCandy](https://videocandy.com/), [Animoto](https://animoto.com/), [Flixier](https://editor.flixier.com/), [descript](https://www.descript.com/), [vidmix](https://vidmix.app/), [mebm](https://bwasti.github.io/mebm/)
+[VideoInu](https://videoinu.com/), [Clideo](https://clideo.com/), [Kapwing](https://www.kapwing.com/), [InVideo](https://invideo.io/), [Panzoid](https://panzoid.com/), [KeepChangeIt](https://keepchangeit.com/), [veed.io](https://www.veed.io/tools/video-editor), [Convert2Video](https://convert2video.com/), [Video Cutter](https://video-cutter-js.com/), [FlexClip](https://www.flexclip.com/), [Vididoo](https://vididoo.vercel.app/), [VideoToolbox](https://www.videotoolbox.com/), [VideoCandy](https://videocandy.com/), [Animoto](https://animoto.com/), [Flixier](https://editor.flixier.com/), [descript](https://www.descript.com/), [vidmix](https://vidmix.app/), [mebm](https://bwasti.github.io/mebm/)
 
 ***
 
@@ -6053,6 +6053,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[FlixHQ](https://flixhq.click/)** - Movies / TV / Anime / 1080p
 * ⭐ **[Ask4Movies](https://ask4movie.nl/)** - Movies / TV / 1080p / Use Adbock / [Script](https://pastebin.com/uJUc5ah5)
 * ⭐ **[SFlix](https://sflix.to/)** - Movies / TV / Anime / 1080p / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sflix_clones)
+* ⭐ **[cinehub.wtf](https://cinehub.wtf)** - Movies / TV / 1080p / [Discord](https://discord.com/invite/wJhG4aEAbs)
 * ⭐ **[Seez](https://seez.su/)**, [2](https://flixerplus.com/) - Movies / TV / 1080p
 * ⭐ **[SmashyStream](https://embed.smashystream.com/)** - Movies / TV / Anime / 1080p / [Telegram](https://t.me/+vekZX4KtMPtiYmRl)
 * ⭐ **[PrimeWire](https://www.primewire.tf/)** - Movies / TV / Anime / 1080p
@@ -6064,6 +6065,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [Filmxy](https://www.filmxy.vip/) - Movies / TV / Anime / 1080p
 * [NetFilm](https://netfilm.app/) - Movies / TV / Anime / 1080p
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
+
 * [WatchMovie](https://watchmovie.ac/) - Movies / TV / Anime / 1080p
 * [PogoLinks](https://pogolinks.pics/) - Movies / TV / Anime / 1080p
 * [DailyFlix](https://main.dailyflix.stream/) - Movies / TV / Anime / 1080p / [Link Site](https://main.dailyflix.info/)
@@ -6116,7 +6118,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[Ling.online](https://ling-online.net/en/videos/films/)** - Movies / TV / 1080p
 * ⭐ **[UpMovies](https://upmovies.to/)** - Movies / TV / Anime / 1080p / Use Adblock
 * [C1NE](https://c1ne.co/) - Movies / TV / 1080p / [Discord](https://discord.gg/nXUP8TxNSR)
-* [YesMovies](https://yesmovies.ag/), [2](https://www2.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime / 1080p
+* [YesMovies](https://yesmovies.ag/), [2](https://ww4.solarmovie.to/), [3](https://ww5.0123movie.net/), [4](https://ww1.putlocker.vip/) - Movies / TV / Anime / 1080p
 * [UniqueStream](https://uniquestream.net/) - Movies / TV / 1080p
 * [English Movies](https://m.vk.com/english_movies) - Movies / 1080p
 * [aflaam](https://aflaam.com/) - Movies / TV / 1080p / [Use Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
@@ -6373,7 +6375,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [WatchCartoonsOnline](https://www1.watchcartoononline.bz/)
 * [KissCartoon.info](https://kisscartoon.info/) - Anime / Cartoons
 * [Kimcartoon.si](https://kimcartoon.si/) - Anime / Cartoons
-* [Anime World India](https://anime-world.in/) - Anime / Cartoons / [Discord](https://discord.com/invite/c3ete48q8H)
 * [Supercartoons](https://www.supercartoons.net/)
 * [FunnierMoments](https://www.funniermoments.net/)
 * [b98](https://www.b98.tv/)
@@ -6501,6 +6502,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [WatchKobe](http://watchkobe.info/) - Sports
 * [VIP Box Sports](https://www.viprow.nu/) - Sports
 * [VIP Box](https://www.vipbox.lc/) - Sports
+* [Pepper Live](https://pepperlive.info/) - Sports
+* [Rakettv](https://rakettv.trendingpie.com/) - Sports
+* [Tezgoal](https://tezgoal.com/) - Sports
 * [SportsHub](https://sportshub.stream/) - Sports
 * [SportHD](https://my.livesoccer.sx/) - Sports
 * [Cricfree](https://cricfree.pw/), [2](https://hd.cricfree.io/) - Sports
@@ -6512,6 +6516,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [SportsW](https://sportsw.me/) - Sports
 * [CricHD](https://mc2.crichd.com/) - Sports
 * [WorldStreams](https://worldstreams.net/) - Sports
+* [p2pstreams](https://p2pstreams.live/) - Sports
 * [StrikeOut](https://strikeout.im/) - Sports
 * [BestSolaris](https://bestsolaris.com/) - Sports
 * [Strumyk](https://strims.top/) - Sports
@@ -7687,6 +7692,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [NAP](https://nap.nationalacademies.org/) - Reports
 * [WikiLeaks](https://wikileaks.org/) - Leaked Documents
 * [Cryptome](https://cryptome.org/) - Leaked Documents
+* [snowden-archive](https://github.com/iamcryptoki/snowden-archive) - Leaked Snowden Documents
 * [CensorBib](https://censorbib.nymity.ch/) or [censoredplanet.org](https://censoredplanet.org/) - Internet Censorship Research Papers
 * [Constitute Project](https://www.constituteproject.org/) - World Constitutions Database
 * [ArmyPubs](https://armypubs.army.mil/) or [US Military Manual Collection](https://archive.org/details/military-manuals) - Military Documents / Manuals
@@ -8695,7 +8701,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [PresetShare](https://presetshare.com/) - DAWs / Samples / Presets
 * [Plugin Clouds Archive](https://t.me/plugincloudsarchive) - DAW Plugins
 * [FlsAudio](https://flsaudio.com/en/gb/) - FLStudio Samples / Presets / Plugins
-* [VeryLeaks](https://veryleaks.cz/), [DKL](https://discord.com/invite/69zpb6XH8f) or [Producerwav](https://producerwav.com/free/) - Drum Kits
+* [DKL](https://discord.com/invite/69zpb6XH8f) or [Producerwav](https://producerwav.com/free/) - Drum Kits
 * [MilkyTracker](https://milkytracker.org/) - .MOD & .XM Module Creator
 * [GoAudio](https://www.goaudio.cc/) / [2](https://goaudio.me/), [RKHive](https://rkhive.com/), [Sounds MP3](https://allsoundsaround.com/) or [SamplesTorrent](https://samplestorrent.com/) - Audio Samples
 * [AudioStellar](https://audiostellar.xyz/) - AI Powered Audio Sampling
@@ -9701,6 +9707,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [Disable Rounded Buttons](https://greasyfork.org/en/scripts/453802) - Disable Rounded YouTube Buttons
 * [YouTube WideScreen](https://greasyfork.org/en/scripts/409893) - Improved YouTube Cinema Mode
 * [YTUnblock](https://ytunblock.weebly.com/) - Bypass YouTube Geo-Restrictions
+* [No-Content-Warning](https://chrome.google.com/webstore/detail/no-content-warning-youtub/kbdngfhhepjodhilpfmnfbfiogachdkp) - Auto-Skip Content Warning
 * [PocketTube](https://pockettube.io/) or [Kadium](https://kadium.kasper.space/) - YouTube Subscription Manager / Organizer 
 * [FreshTube](https://porjo.github.io/freshtube/) - Display Latest Video from Subscriptions 
 * [Youtube_Subs_Bot](https://t.me/youtube_subs_bot) - Sub to Channels Without Account 
@@ -10907,7 +10914,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ↪️ **[Multiple IP / Network Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_network_tools)**
 * ↪️ **[Search Engine Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_seo_tools)**
 * ↪️ **[Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools)** 
-* [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
+* [Website Planet Tools](https://www.websiteplanet.com/webtools/), [Webdesign Assistant](https://webdesign-assistant.com/), [xWebTools](https://www.xwebtools.com/), [Tiny Helpers](https://tiny-helpers.dev/), [ToolCool](https://toolcool.org/) or [CSSAuthor](https://cssauthor.com/) - Site Development Tools
 * [Grav](https://getgrav.org/) - Flat-File CMS
 * [Flux](https://www.runonflux.io/) - Decentralized Cloud Infrastructure
 * [URLPages](https://github.com/jstrieb/urlpages) - Store Entire Pages in URLs
@@ -10925,7 +10932,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [Browser Default Styles](https://browserdefaultstyles.com/) - Default Browser Style Search
 * [Utom Design](https://utom.design/measure) - Sketch Measure
 * [WireFlow](https://wireflow.co/) - Flow Prototype Maker
-* [Geekflare Tools](https://domsignal.com/toolbox) - Site Testing Tools
+* [Frontend Dogma](https://frontenddogma.com/tools/check/) or [Geekflare Tools](https://domsignal.com/toolbox) - Site Benchmarking Tools
 * [LambDatest](https://www.lambdatest.com/) - Cross Browser Testing Cloud
 * [Lenis](https://lenis.studiofreight.com/) - Smooth Scroll Library
 * [UXTweak](https://www.uxtweak.com/) - Website Design Usability Improvement Tool
@@ -11211,6 +11218,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [FluentWPF](https://github.com/sourcechord/FluentWPF) - Fluent Design System for WPF
 * [Flatpak](https://flatpak.org/) - Create & Distribute Linux Applications
 * [WTFPL](http://www.wtfpl.net/) - Free Software Licenses
+* [tl;drLegal](https://www.tldrlegal.com/) - Software License Summaries
 * [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
 * [Advanced Catalyst Example](https://github.com/steventroughtonsmith/advancedcatalystexample) - Mac Catalyst App Example
 
@@ -11834,6 +11842,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [Color Blend](https://meyerweb.com/eric/tools/color-blend/) - CSS Color Blender
 * [FilterBlend](https://ilyashubin.github.io/FilterBlend/) - CSS Blend Modes
 * [Animista](https://animista.net/), [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate), [EasyEasings](https://easyeasings.com/) or [Woah.css](https://www.joerezendes.com/projects/Woah.css/) - CSS Animations
+* [transition.css](https://www.transition.style/) - CSS Transitions
 * [Glass UI](https://ui.glass/generator/) - Glassmorphism CSS Generator
 * [Tableconvert](https://tableconvert.com/) - Markdown / Code Converter
 * [Markdown Link Check](https://github.com/gaurav-nelson/github-action-markdown-link-check) - Check Markdown Files for Dead Links
@@ -15863,6 +15872,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## ▷ Android Live TV 
 
+* [Live Sports HD](https://forum.mobilism.org/search.php?keywords=Live+Sports+HD+TV&sr=topics&sf=titleonly) - Sports
 * [OLATV](https://github.com/nbats/FMHYedit/blob/main/base64.md#ola-tv)
 * [Live NetTV](https://www.livenettv.bz/)
 * [SonyLiv (Modded)](https://github.com/nbats/FMHYedit/blob/main/base64.md#sonyliv)
@@ -17205,6 +17215,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [FinURLs](https://finurls.com/) - Finance & Business News
 * [Uriminzokkiri](http://www.uriminzokkiri.com/index.php?lang=eng) - Korean News
 * [EDIS](https://rsoe-edis.org/) - Emergency and Disaster Map 
+* [Citizen](https://citizen.com/explore) - Real Time Local News (US Only)
 * [PlaneCrashInfo](http://www.planecrashinfo.com/) - Plane Crash Reports
 * [Dutchsinse](https://www.twitch.tv/dutchsinseofficial) - Live 24/7 Earthquake Updates / [YouTube](https://www.youtube.com/user/dutchsinse)
 * [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
@@ -17566,6 +17577,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Waqi.info](http://waqi.info/) - Air Pollution Map
 * [Light Pollution Map](https://lightpollutionmap.info/) - Light Pollution Map
 * [NightBlight](https://nightblight.cpre.org.uk/maps/) - England Light Pollution Map
+* [Freedom House](https://freedomhouse.org/explore-the-map) - Freedom / Internet Freedom Map
 * [PowerOutage](https://poweroutage.us/) - Power Outage Map
 * [ElectricityMap](https://app.electricitymap.org/) - Electricity CO₂ Emissions Map
 * [City Generator](https://probabletrain.itch.io/city-generator) or [CityGenerator](https://oskarstalberg.com/game/CityGenerator/) - City Map Generator
@@ -17605,6 +17617,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * ↪️ **[Unicode Font Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_unicode_font_generators)**
 * ⭐ **[Font Download Guide](https://redd.it/8tqfg6)**
 * ⭐ **[Fontogen](https://github.com/SerCeMan/fontogen)** - Custom AI Font Generator
+* ⭐ **[TypeTrials](https://typetrials.com/)** - Variable Font Playground
 * ⭐ **[Nerd Fonts](https://www.nerdfonts.com/)** - Iconic Font Aggregator
 * ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www10.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](http://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators
 * ⭐ **[WhatTheFont](https://www.myfonts.com/WhatTheFont/)**, [Identifont](http://www.identifont.com/), [WhatFont](http://www.chengyinliu.com/whatfont.html), [Fonty.io](https://fonty.io/) or [What Font Is](https://www.whatfontis.com/) - Font Identification Tools
@@ -17638,7 +17651,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [Bitfontmaker2](https://pentacom.jp/pentacom/bitfontmaker2/) - BitFont Creator
 * [FontJoy](https://fontjoy.com/) - Font Pairings Generator
 * [Typerip](http://badnoise.net/TypeRip/) - Adobe Font Ripper / [GitHub](https://github.com/CodeZombie/TypeRip)
-* [FontEdit](https://github.com/ayoy/fontedit), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/) or [Font Forge](https://fontforge.org/en-US/) - Font Editor 
+* [FontEdit](https://github.com/ayoy/fontedit), [Glyphr Studio](https://www.glyphrstudio.com/), [Bird Font](https://birdfont.org/) or [Font Forge](https://fontforge.org/en-US/) - Font Editors
 * [Transfonter](https://transfonter.org/) - Font Converter
 * [FontBase](https://fontba.se/) or [Xiles](https://www.xiles.app/) - Font Manager
 * [ShapeCatcher](https://shapecatcher.com/) - Unicode Identification
@@ -18712,7 +18725,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 * ⭐ **[Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** / [Fork](https://github.com/anapnoe/stable-diffusion-webui-ux) / [Collab](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl) / [Photoshop Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) / [Templates](https://github.com/ThereforeGames/unprompted)
 * ⭐ **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** / [Discord](https://discord.com/invite/ZmtBAhwWhy)
-* ⭐ **[Fooocus](https://github.com/lllyasviel/Fooocus)** / [Colab](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/colab/colab.ipynb)
+* ⭐ **[Fooocus](https://github.com/MoonRide303/Fooocus-MRE)**, [2](https://github.com/lllyasviel/Fooocus) / [Colab](https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb)
 * [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 * [StableStudio](https://github.com/Stability-AI/StableStudio)
 * [Easy Diffusion](https://stable-diffusion-ui.github.io/)
@@ -18728,7 +18741,6 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 ## ▷ Online Generators
 
 * ⭐ **[Zoo](https://zoo.replicate.dev/)** / Unlimited
-* ⭐ **[PromptJungle](https://discord.gg/fhxAGWTFKt)** / Unlimited
 * ⭐ **[PlaygroundAI](https://playgroundai.com/)** / 1K Images Daily
 * ⭐ **[Ideogram](https://ideogram.ai/)** / Unlimited
 * ⭐ **[Dezgo](https://dezgo.com/)** / [Discord](https://discord.com/invite/RQrGpUhPhx) / Unlimited
@@ -18737,6 +18749,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 * [GetIMG.ai](https://getimg.ai/) / [Discord](https://discord.com/invite/5KsUXSzVwS) / 100 Images Monthly
 * [OpenArt](https://openart.ai/home) / [Discord](https://discord.com/invite/yTMNvk5z97) / Unlimited
 * [SD 2.1 Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion) / Unlimited
+* [PromptJungle](https://discord.gg/fhxAGWTFKt) / Unlimited
 * [Leonardo.ai](https://app.leonardo.ai/) / 30 Images Daily
 * [Artsio](https://artsio.xyz/) / 20 Images Daily
 * [DreamLike](https://dreamlike.art) / [Discord](https://discord.com/invite/QyGR2FxsKU) / 12 Images Daily
