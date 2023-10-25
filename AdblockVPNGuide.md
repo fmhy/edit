@@ -384,7 +384,7 @@
 * [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
 * [Nitter](https://nitter.net/) - Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)
 * [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) - Instagram Frontend 
-* [Proxitok](https://github.com/pablouser1/ProxiTok) - Tiktok Frontend 
+* [Proxitok](https://github.com/pablouser1/ProxiTok) or [TikNot](https://tiknot.netlify.app/) - Tiktok Frontends 
 * [MikuInvidious](https://0xacab.org/johnxina/mikuinvidious) - BiliBili Frontend 
 * [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch) or [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch Frontends
 * [Whoogle](https://benbusby.com/projects/whoogle-search/) - Google Search Frontend 
