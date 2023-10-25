@@ -669,6 +669,7 @@
 * [NAP](https://nap.nationalacademies.org/) - Reports
 * [WikiLeaks](https://wikileaks.org/) - Leaked Documents
 * [Cryptome](https://cryptome.org/) - Leaked Documents
+* [snowden-archive](https://github.com/iamcryptoki/snowden-archive) - Leaked Snowden Documents
 * [CensorBib](https://censorbib.nymity.ch/) or [censoredplanet.org](https://censoredplanet.org/) - Internet Censorship Research Papers
 * [Constitute Project](https://www.constituteproject.org/) - World Constitutions Database
 * [ArmyPubs](https://armypubs.army.mil/) or [US Military Manual Collection](https://archive.org/details/military-manuals) - Military Documents / Manuals
