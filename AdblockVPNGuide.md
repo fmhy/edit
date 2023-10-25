@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/FndFxzS)** - For mobile users
+**[Table of Contents](https://ibb.co/89HP3RZ)** - For mobile users
 
 ***
 ***
@@ -13,7 +13,6 @@
 
 * ↪️ **[Adblock Filters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ublock_filters)** / [Test Filters](http://raymondhill.net/ublock/adbox.html) / [Merge Filters](https://realityripple.com/Tools/AdBlock++/)
 * ↪️ **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_spotify_tools)**
-* ↪️ **[Ad-Free YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends)**
 * ⭐ **[Can You Block It?](https://canyoublockit.com/)**, [AdBlock Tester](https://adblock-tester.com/), [AdBlocker Test](https://d3ward.github.io/toolz/adblock.html) or [AmIUnique](https://amiunique.org/) - Adblocking Tests
 * [YouT-ube](https://www.yout-ube.com/) - Ad-Free YouTube Web Player
 * [Simple Opt Out](https://simpleoptout.com/) - Turn off Targeted Ads
@@ -265,47 +264,13 @@
 
 ***
 
-## ▷ Privacy Front-ends
-
-* ⭐ **[Alternative Frontends](https://github.com/mendel5/alternative-front-ends)** - Index of alternative front-ends / clients
-* [Invidious](https://github.com/iv-org/invidious), [Piped](https://github.com/TeamPiped/Piped) or [PokeTube](https://github.com/ashley0143/poketube) - Youtube front-ends
-* [Beatbump](https://github.com/snuffyDev/Beatbump) or [Hyperpipe](https://codeberg.org/Hyperpipe/Hyperpipe) - YouTube Music front-ends
-* [Nitter](https://github.com/zedeus/nitter) - X(Twitter) front-end
-* [Libreddit](https://github.com/spikecodes/libreddit) or [Teddit](https://codeberg.org/teddit/teddit) - Reddit front-ends
-* [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) - Instagram front-end
-* [Proxitok](https://github.com/pablouser1/ProxiTok) - Tiktok front-end
-* [MikuInvidious](https://0xacab.org/johnxina/mikuinvidious) - BiliBili front-end
-* [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch) or [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch front-end
-* [Whoogle](https://benbusby.com/projects/whoogle-search/) - Google Search front-end
-* [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) - Google Translate front-end
-* [Wikiless](https://wikiless.org/) - Wikipedia front-end
-* [Scribe](https://sr.ht/~edwardloveall/Scribe/) or [LibMedium](https://github.com/realaravinth/libmedium) - Medium front-end
-* [Quetre](https://github.com/zyachel/quetre) - Quora front-end
-* [Rimgo](https://codeberg.org/rimgo/rimgo) - Imgur front-end 
-* [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest front-end
-* [Pixivfe](https://codeberg.org/VnPower/pixivfe) - Pixiv front-end
-* [Gothub](https://codeberg.org/gothub/gothub) - Github front-end
-* [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - StackOverflow front-end
-* [BreezeWiki](https://breezewiki.com/) - Fandom front-end
-* [Tent](https://codeberg.org/sun/Tent) - Bandcamp front-end
-* [Suds](https://git.vern.cc/cobra/Suds) - Snopes front-end
-* [Dumb](https://codeberg.org/rramiachraf/dumb) - Genius front-end
-* [Rural Dictionary](https://codeberg.org/zortazert/rural-dictionary) - Urban Dictionary front-end
-* [BiblioReads](https://codeberg.org/nesaku/BiblioReads) - Goodreads front-end
-* [LibreMDb](https://github.com/zyachel/libremdb) - IMDb front-end
-* [Neuters](https://github.com/HookedBehemoth/neuters) - Reuters front-end
-  
-***
-
 ## ▷ Privacy Extensions
 
-* ⭐ **[LibreDirect](https://libredirect.github.io/)** / [2](https://github.com/libredirect/libredirect) or [Proxy Redirect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect) - Frontend Redirect
 * ⭐ **[ClearURLs](https://github.com/ClearURLs/Addon/releases)** / [2](https://gitlab.com/ClearURLs/ClearUrls), [Link Cleaner](https://mybrowseraddon.com/link-cleaner.html), [dont-track-me-google](https://github.com/Rob--W/dont-track-me-google) or [Link Sanitizer](https://greasyfork.org/en/scripts/374699-link-sanitizer) - Remove Tracking Elements from URLs
 * ⭐ **[LocalCDN](https://www.localcdn.org/)**, [Decentraleyes](https://decentraleyes.org/), [OptMeowt](https://github.com/privacy-tech-lab/gpc-optmeowt) or [TrackMeNot](http://trackmenot.io/) - Tracking Protection
 * [CRXcavator](https://crxcavator.io/) - Check Browser Extension Security
 * [File Guard](https://mybrowseraddon.com/file-encryptor.html) - File Encryption / Decryption
 * [Site Bleacher](https://github.com/wooque/site-bleacher) - Auto Remove Cookies, Local Storages, etc.
-* [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
 * [Anti-Grabify](https://github.com/Konnor88/anti-grabify) - Block IP Grabbers
 * [CanvasBlocker](https://pastebin.com/2RgYzu6u) or [Canvas Defender](https://addons.mozilla.org/en-US/firefox/addon/no-canvas-fingerprinting/) - Prevent Canvas Fingerprinting
 * [GNU LibreJS](https://www.gnu.org/software/librejs/) - Block Trivial Javascript
@@ -351,13 +316,11 @@
 ## ▷ Browser Tools
 
 * 🌐 **[de-google](https://www.reddit.com/r/privacy/wiki/de-google)**, [De-google-ify](https://degooglisons-internet.org/en/), [Degoogle](https://github.com/tycrek/degoogle), [Google Alt List](https://www.techspot.com/news/80729-complete-list-alternatives-all-google-products.html), [/r/DeGoogle](https://www.reddit.com/r/degoogle) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives
-* 🌐 **[Alt Frontends](https://github.com/mendel5/alternative-front-ends)** / [2](https://rentry.co/8kqrrn), [Farside](https://farside.link/) or [alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - Frontend Indexes
 * 🌐 **[Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)** - Web Security Resources
 * 🌐 **[Awesome I2P](https://github.com/mikalv/awesome-i2p)** - I2P Resources
 * ↪️ **[Privacy Based Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_based_browsers)**
 * ↪️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encode_.2F_decode_urls)**
 * ↪️ **[IP / DNS Leak Tests](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ip_.2F_dns_leak_tests)**
-* ↪️ **[Reddit Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_frontends)**
 * ⭐ **[Vytal.io](https://vytal.io/)**, [FirstPartySimulator](https://firstpartysimulator.org/), [PersonalData](https://personaldata.info/) or [WEBKAY](https://webkay.robinlinus.com/) - Browser Tracking Tests
 * ⭐ **[CloakStream](https://proxy-download.cdxfedcxadsdcsdxz.workers.dev/)** - Encrypt Download URLs
 * ⭐ **[PrivacySpy](https://privacyspy.org/)** - Grades a Sites Privacy Policies 
@@ -394,10 +357,6 @@
 * [NoScriptFingerprint](https://noscriptfingerprint.com/) - Non-JavaScript Fingerprinting
 * [dataskydd](https://webbkoll.dataskydd.net/) or [Blacklight](https://themarkup.org/blacklight) - Check what data-protecting measures a site has taken
 * [uBO-Scope](https://github.com/gorhill/uBO-Scope) - Measure 3rd Party Exposure
-* [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirector
-* [SafeTwitch](https://codeberg.org/dragongoose/safetwitch) - Twitch Frontend
-* [Nitter](https://nitter.net/) - Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)
-* [ProxiTok](https://proxitok.pabloferreiro.es/) - TikTok Frontend / [GitHub](https://github.com/pablouser1/ProxiTok)
 * [Cusdis](https://cusdis.com/) - Privacy-Focused Comment System / [GitHub](https://github.com/djyde/cusdis)
 * [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Reddit / Twitter Auto Post Delete
 * [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Delete Twitter Likes / Favorites 
@@ -412,6 +371,40 @@
 * [Panopticlick](https://coveryourtracks.eff.org/) - Test if your Browser Blocks Tracking 
 * [Yggdrasil](https://yggdrasil-network.github.io/), [2](https://github.com/yggdrasil-network) - IPv6 Network / [yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go/)
 * [anoNet](http://www.anonet.org/) - Anonymous IP Network
+
+***
+
+## ▷ Frontends
+
+* 🌐 **[Alt Frontends](https://github.com/mendel5/alternative-front-ends)** / [2](https://rentry.co/8kqrrn), [Farside](https://farside.link/) or [alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - Frontend Indexes
+* ↪️ **[YouTube Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_frontends)**
+* ↪️ **[Reddit Frontends](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_frontends)**
+* ⭐ **[LibreDirect](https://libredirect.github.io/)** / [2](https://github.com/libredirect/libredirect) or [Proxy Redirect](https://openuserjs.org/scripts/sjehuda/Proxy_Redirect) - Frontend Redirect Extensions
+* [Numblr](https://github.com/heyLu/numblr) - Self-Hosted Frontend Redirect
+* [Invidious Redirect](https://addons.mozilla.org/en-US/firefox/addon/hooktube-redirect/?src=search) - YouTube Frontend Redirect
+* [Nitter](https://nitter.net/) - Twitter Frontend / [Manage Feeds](https://github.com/pluja/Feetter)
+* [Proxigram](https://codeberg.org/ThePenguinDev/Proxigram) - Instagram Frontend 
+* [Proxitok](https://github.com/pablouser1/ProxiTok) - Tiktok Frontend 
+* [MikuInvidious](https://0xacab.org/johnxina/mikuinvidious) - BiliBili Frontend 
+* [SafeTwitch](https://codeberg.org/SafeTwitch/safetwitch) or [Twineo](https://codeberg.org/CloudyyUw/twineo) - Twitch Frontends
+* [Whoogle](https://benbusby.com/projects/whoogle-search/) - Google Search Frontend 
+* [Lingva Translate](https://github.com/TheDavidDelta/lingva-translate) - Google Translate Frontend 
+* [Wikiless](https://wikiless.org/) - Wikipedia Frontend 
+* [Scribe](https://sr.ht/~edwardloveall/Scribe/) or [LibMedium](https://github.com/realaravinth/libmedium) - Medium Frontend 
+* [Quetre](https://github.com/zyachel/quetre) - Quora Frontend 
+* [Rimgo](https://codeberg.org/rimgo/rimgo) - Imgur Frontend 
+* [Binternet](https://github.com/Ahwxorg/Binternet) - Pinterest Frontend 
+* [Pixivfe](https://codeberg.org/VnPower/pixivfe) - Pixiv Frontend 
+* [Gothub](https://codeberg.org/gothub/gothub) - Github Frontend 
+* [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - StackOverflow Frontend 
+* [BreezeWiki](https://breezewiki.com/) - Fandom Frontend 
+* [Tent](https://codeberg.org/sun/Tent) - Bandcamp Frontend 
+* [Suds](https://git.vern.cc/cobra/Suds) - Snopes Frontend 
+* [Dumb](https://codeberg.org/rramiachraf/dumb) - Genius Frontend 
+* [Rural Dictionary](https://codeberg.org/zortazert/rural-dictionary) - Urban Dictionary Frontend 
+* [BiblioReads](https://codeberg.org/nesaku/BiblioReads) - Goodreads Frontend 
+* [LibreMDb](https://github.com/zyachel/libremdb) - IMDb Frontend 
+* [Neuters](https://github.com/HookedBehemoth/neuters) - Reuters Frontend
 
 ***
 
