@@ -6,6 +6,7 @@
     "docs:preview": "vitepress preview"
   },
   "dependencies": {
+    "unocss": "^0.57.1",
     "vitepress": "1.0.0-rc.24",
     "vue": "^3.3.7"
   },

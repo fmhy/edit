@@ -1,6 +1,7 @@
 import { defineConfig } from "vitepress";
+import UnoCSS from "unocss/vite";
+import { presetUno, presetAttributify, presetIcons } from "unocss";
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "FMHY",
   description: "site",
@@ -15,6 +16,13 @@ export default defineConfig({
     ["meta", { name: "og:type", content: "website" }],
     ["meta", { name: "og:locale", content: "en" }],
   ],
+  vite: {
+    plugins: [
+      UnoCSS({
+        presets: [presetUno, presetAttributify, presetIcons({ scale: 1.2 })],
+      }),
+    ],
+  },
   themeConfig: {
     search: {
       provider: "local",
@@ -25,6 +33,7 @@ export default defineConfig({
       { text: "Beginners Guide to Piracy", link: "/Beginners-Guide" },
       { text: "Adblocking / Privacy", link: "/AdblockVPNGuide" },
       { text: "Artificial Intelligence", link: "/AI" },
+      { text: "Android / iOS", link: "Android-iOSGuide" },
     ],
     socialLinks: [
       { icon: "github", link: "https://github.com/fmhy/FMHYEdit" },
