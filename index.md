@@ -1,5 +1,4 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
@@ -11,11 +10,11 @@ hero:
     alt: FMHY
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Beginners Guide
+      link: /Beginners-Guide
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Deez nuts
+      link: /AI
 
 features:
   - title: Feature A
@@ -25,4 +24,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
