@@ -1125,7 +1125,6 @@
 * [Online Cursos Gratuitos](https://onlinecursosgratuitos.com) - Courses
 * [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
 * [Mundo Ubuntu](https://www.mundoubuntu.com.br) - Courses
-* [Banda Desenhada](https://bandadesenhada-pt.blogspot.com/) - Comics
 
 ## ▷ Torrenting
 
@@ -1232,6 +1231,7 @@
 * [Toomics](https://global.toomics.com/br) - Comics
 * [Arte HQs](http://www.artehqs.com.br) - Comics
 * [Tropa BR](https://tropabrscans.blogspot.com) - Comics
+* [Banda Desenhada](https://bandadesenhada-pt.blogspot.com/) - Comics
 * [Mangás Chan](https://mangaschan.com) - Manga
 * [BR Mangás](https://www.brmangas.net) - Manga
 * [Kiniga](https://kiniga.com) - Light Novels
