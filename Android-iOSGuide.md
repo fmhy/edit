@@ -98,7 +98,6 @@
 * [Simple Mobile Tools](https://simplemobiletools.com/)
 * [We Love Codeberg](https://welove.codeberg.page/)
 * [OnyxBits](https://onyxbits.de/)
-* [PalmDB](https://palmdb.net/) - Palm OS Apps / [Discord](https://discord.gg/YddKPpR)
 * [OpenRepos](https://openrepos.net/) - Harmattan / Sailfish OS Apps
 * [Android Auto Apps Downloader](https://github.com/shmykelsa/aaad) - Android Vehicle Apps
 
