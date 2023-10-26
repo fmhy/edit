@@ -521,7 +521,7 @@
 
 ## ▷ Instagram Tools
 
-* 🌐 **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)** or [InstaFollowers](https://www.instafollowers.co/instagram-tools) - Multiple Tools
+* 🌐 **[Instagram Tools](https://www.aware-online.com/en/osint-tools/instagram-tools/)** - Multiple Tools
 * 🌐 **[Osintgram](https://github.com/Datalux/Osintgram)**, [Toutatis](https://github.com/megadose/toutatis) or [Sterraxcyl](https://github.com/novitae/sterraxcyl) - Instagram OSINT Tools
 * 🌐 **[Instagram Search Tools](https://www.aware-online.com/en/osint-tools/instagram-search-tool/)** - Search Tool
 * ⭐ **[Bypass Login](https://greasyfork.org/en/scripts/420604)** - Bypass Instagram Login Redirects
