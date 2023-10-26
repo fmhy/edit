@@ -715,6 +715,13 @@
 * [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Browser Games
 * [The Flash Emulation Repair Shop](https://github.com/nbats/FMHYedit/blob/main/base64.md#the-flash-emulation-repair-shop) - Flash Games Under Repair
 * [Arcade Prehacks](http://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
+* [Am I Right](https://amiright.com/)
+* [Baby Names](https://babynames.com/)
+* [Biteable](https://biteable.com/)
+* [Cafe Press](https://cafepress.com/)
+* [Domain to IP Converter](https://domaintoipconverter.com/)
+* [Intro Champ](https://introchamp.com/)
+* [Mad Music](https://madmusic.com/)
 
 ***
 
