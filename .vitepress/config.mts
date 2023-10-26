@@ -27,8 +27,10 @@ export default defineConfig({
     search: {
       provider: "local",
     },
-    // TODO: add navbar items
-    nav: [],
+    nav: [
+      { text: "Glossary", link: "https://rentry.org/The-Piracy-Glossary" },
+      { text: "Guides", link: "https://rentry.co/fmhy-guides" },
+    ],
     sidebar: [
       { text: "Beginners Guide to Piracy", link: "/Beginners-Guide" },
       { text: "Adblocking / Privacy", link: "/AdblockVPNGuide" },

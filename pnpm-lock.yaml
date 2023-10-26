@@ -16,6 +16,9 @@ dependencies:
     version: 3.3.7
 
 devDependencies:
+  '@iconify-json/simple-icons':
+    specifier: ^1.1.76
+    version: 1.1.76
   prettier:
     specifier: ^3.0.3
     version: 3.0.3
@@ -443,9 +446,14 @@ packages:
     dev: false
     optional: true
 
+  /@iconify-json/simple-icons@1.1.76:
+    resolution: {integrity: sha512-jZEMvkMfD5tTadFJIOIxKE4cTVXslrktWEiMJV6HaABi9qw02zS7bzrllR1YtGPxzniKkq2UVg/dKS6lliIxVA==}
+    dependencies:
+      '@iconify/types': 2.0.0
+    dev: true
+
   /@iconify/types@2.0.0:
     resolution: {integrity: sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg==}
-    dev: false
 
   /@iconify/utils@2.1.11:
     resolution: {integrity: sha512-M/w3PkN8zQYXi8N6qK/KhnYMfEbbb6Sk8RZVn8g+Pmmu5ybw177RpsaGwpziyHeUsu4etrexYSWq3rwnIqzYCg==}

@@ -3,7 +3,8 @@
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "docs:preview": "vitepress preview",
+    "format": "prettier -w ."
   },
   "dependencies": {
     "unocss": "^0.57.1",
@@ -11,6 +12,7 @@
     "vue": "^3.3.7"
   },
   "devDependencies": {
+    "@iconify-json/simple-icons": "^1.1.76",
     "prettier": "^3.0.3"
   }
 }

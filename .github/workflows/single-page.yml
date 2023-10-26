@@ -3,7 +3,7 @@ name: Update Single Page
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: "0 */2 * * *"
 
 jobs:
   update:
@@ -19,7 +19,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: "3.10"
 
       - name: Configure Git
         run: |

@@ -2,7 +2,7 @@ name: Update FMHY Retype
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 */2 * * *'
+    - cron: "0 */2 * * *"
 
 jobs:
   update:
@@ -14,16 +14,16 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-          
+
       - name: Move Files
         run: |
           cp -r .github/assets/* .
         shell: bash
-      
+
       - name: Install Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10' 
+          python-version: "3.10"
 
       - name: Prepare Files
         shell: bash
