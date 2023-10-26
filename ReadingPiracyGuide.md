@@ -311,7 +311,7 @@
 * [TopMystery](http://www.topmystery.com/onlinebooks) - Mystery
 * [HourWolf](https://www.hourwolf.com/sfbooks/) - Fantasy
 * [Children's Library](http://en.childrenslibrary.org/), [MagicKeys](http://www.magickeys.com/books/), [byGosh](https://bygosh.com), [StoryWhale](https://www.storywhale.com/), [Baldwin Library](https://ufdc.ufl.edu/juv) or [BookDash](https://github.com/bookdash/bookdash-android-app) - Children's
-* [BestArtbooks](https://t.me/BESTARTBOOKS) or [Artbooks.gala](https://artbooks.gala100.net/) - Artbooks
+* [BestArtbooks](https://t.me/BESTARTBOOKS) - Artbooks
 * [PimpMyMind](https://pimpmymind.net/) or [Deep-Blue-Sea](http://library.deep-blue-sea.net/) - Self-Help
 * [Optimize](https://www.heroic.us/optimize) - Self-Improvement Notes / Lessons
 * [The Eldritch Dark](http://www.eldritchdark.com/) - Clark Ashton Smith
@@ -1187,9 +1187,10 @@
 * ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - PDF Reader
 * ⭐ **[Calibre](https://calibre-ebook.com/)** - Ebook Reader / PC / Android / iOS
 * ⭐ **[Raven Reader](https://ravenreader.app/)** - Article Reader / Manager
+* ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - E-Ink Browser
 * [Librum](https://github.com/Librum-Reader/Librum) - Ebook Reader / PC / Android / iOS / Linux / Mac
 * [EBook Reader](https://epub-reader.online/) - Ebook Reader / PC / Android / iOS / Mac
-* [KoReader](http://koreader.rocks/) - Ebook Reader / PC / Android
+* [KoReader](http://koreader.rocks/) - Ebook Reader / PC / Android / [GitHub](https://github.com/koreader/koreader)
 * [FBReader](https://fbreader.org/) - Ebook Reader / PC / Android / iOS
 * [Thorium](https://www.edrlab.org/software/thorium-reader/) - Ebook Reader / PC / Mac / Linux
 * [CoolReader](https://github.com/buggins/coolreader) - Ebook Reader / PC / Linux
@@ -1213,7 +1214,6 @@
 * [All My Books](https://www.bolidesoft.com/allmybooks.html) - Book Catalog
 * [Open Media Library](https://openmedialibrary.com/) - Online Book Manager
 * [Cubari](https://cubari.moe/) - Image Proxy / Reader
-* [EinkBro](https://github.com/plateaukao/einkbro) - E-Ink Browser
 * [dotepub](https://dotepub.com/) - Convert Webpages to EBooks
 * [Kindle to PDF](https://redd.it/bm837l) - Kindle to PDF Conversion Guide
 * [Ebook Sender](https://telegram.me/to_kindle_bot), [SendEpubToKindle](https://www.sendepubtokindle.com/), [Kobo](https://send.djazz.se/) / [GitHub](https://github.com/daniel-j/send2ereader) or [ebook_to_kindle_bot](https://t.me/ebook_to_kindle_bot) - Send Ebooks to Kindle
@@ -1235,8 +1235,8 @@
 * ⭐ **[PlayText](https://playtext.app/)**, [AccelaReader](https://accelareader.com/), [Jiffy](https://www.jiffyreader.com/), [SwiftRead](https://swiftread.com/), [Notation](https://github.com/numanzamandipuu/Notation) or [SpeedRead](https://github.com/pasky/speedread) - Speed Reading Tools
 * ⭐ **[arch1ve](https://rentry.org/arch1ve)** or [Borrowing Picture Books](https://redd.it/fm1xpw) - Download Borrow Only Archive.org Books / [Script](https://redd.it/ofcqds)
 * ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - Multi Format Converter
+* ⭐ **[papeer](https://papeer.tech/)** or [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to EPUB Converter
 * [ebook-converter-bot](https://github.com/yshalsager/ebook-converter-bot) - Telegram Ebook Converter
-* [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - Webpage to Ebook Converter
 * [CrowBook](https://github.com/lise-henry/crowbook) - Markdown to EPUB Converter
 * [AudioBookConverter](https://github.com/yermak/AudioBookConverter), [Audible Tools](https://audible-tools.kamsker.at/) or [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter) - Audiobook Converters
 * [Libby](https://libbyapp.com/) - Library Search / [Downloader](https://github.com/bookbonobo/libby-download-extension)
