@@ -74,7 +74,7 @@
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - PostgreSQL Tutorial
 * [MySQL Tutorial](https://www.mysqltutorial.org/) - MySQL Tutorial
 * [Hasura](https://hasura.io/learn/) - GraphQL Courses
-* [systemd-by-example](https://systemd-by-example.com/) - Learn Systemd Interactively
+* [systemd-by-example](https://systemd-by-example.com/) - Systemd Learning
 * [Slip](https://www.slip.so/) - Build Programming Courses
 
 ***
