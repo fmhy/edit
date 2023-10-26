@@ -170,8 +170,6 @@
 * [Pixoff](https://play.google.com/store/apps/details?id=com.urysoft.pixelfilter) - Save Battery by Turning Off Pixels
 * [Compass QS Tile](https://github.com/WSTxda/Compass-QS-Tile) or [QuickTiles](https://gitlab.com/asdoi/quick-tiles) - Quick Setting Tiles
 * [auto-auto-rotate](https://gitlab.com/juanitobananas/auto-auto-rotate) - Per App Rotation Settings
-* [Open App Scheduler](https://play.google.com/store/apps/details?id=com.argonremote.openappscheduler) - Set Apps to Open Automatically
-* [Galaxy MaxHzPub](https://github.com/tribalfs/GalaxyMaxHzPub) - Samsung Refresh Rate Manager
 * [Gesture Suite](https://play.google.com/store/apps/details?id=com.gesture.suite) or [Fluid Gestures](https://play.google.com/store/apps/details?id=com.fb.fluid) - Android Gestures
 * [Smartspacer](https://github.com/KieronQuinn/Smartspacer) - Custom Android at a Glance Widget
 * [Tap Tap Double Tap](https://forum.xda-developers.com/t/app-beta-0-10-1-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) or [TapTap](https://github.com/KieronQuinn/TapTap) - Android Back Gesture Controls
@@ -186,7 +184,6 @@
 * [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro), [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw) or [SysLog](https://github.com/Tortel/SysLog) - View System Information
 * [GearJail](https://gearjail.neocities.org/) - Android Guides / Resources
 * [GSMHosting](https://forum.gsmhosting.com/vbb/) - GSM Discussion Forum
-* [Xiaomi European](https://xiaomi.eu) - Xiaomi Discussion Forum
 * [W10M Group](https://w10mgroup.github.io/) - Mobile Windows Tech Support
 * [Maemo](https://talk.maemo.org/) - Maemo OS Discussion / [Wiki](https://wiki.maemo.org/) / [Telegram](https://t.me/maemomeego), [2](https://t.me/meegoosinternational)
 * [SymbianOS](https://t.me/symbianos) - Symbian OS Discussion
@@ -239,14 +236,13 @@
 * ⭐ **[Android Docker](https://gist.github.com/FreddieOliveira/efe850df7ff3951cb62d74bd770dce27)** - Run Docker on Android
 * [Free Basics](https://play.google.com/store/apps/details?id=com.freebasics) - Use Apps via SMS
 * [ConnectYou](https://github.com/Bnyro/ConnectYou) - Contacts App
-* [AllMyContact](https://allmycontact.info/) - Contact Info QR Codes
 * [Loyalty Card Locker](https://github.com/brarcher/loyalty-card-locker) or [Catima](https://catima.app/) - Loyalty Card Managers
 * [Volta](https://github.com/x13a/Volta) - Remap Volume Keys
 * [Folder in Folder](https://play.google.com/store/apps/details?id=com.ss.folderinfolder) - Create Subfolders
 * [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker) - Create App Shortcuts
 * [Touch The Notch](https://play.google.com/store/apps/details?id=com.notch.touch) - Use Camera Notch as Button
 * [Shelter](https://gitea.angry.im/PeterCxy/Shelter) or [Insular](https://gitlab.com/secure-system/Insular) - Isolate / Clone Apps
-* [Uninstaller](https://play.google.com/store/apps/details?id=com.splendapps.shark), [Canta](https://github.com/samolego/Canta) or [Bulk Uninstall](https://play.google.com/store/apps/details?id=com.bulk.uninstall) - App Uninstallers
+* [Canta](https://github.com/samolego/Canta) - App Uninstallers
 * [AppBrain](https://www.appbrain.com/) - Analyze Android App Changes
 * [App Blocker](https://play.google.com/store/apps/details?id=com.mobteq.appblocker) - Block Apps
 * [openboard](https://github.com/openboard-team/openboard), [Simple Keyboard](https://github.com/rkkr/simple-keyboard), [Thumb-Key](https://github.com/dessalines/thumb-key) or [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard) - Keyboard Apps
@@ -290,7 +286,6 @@
 * [Raise To Answer](https://github.com/TheLastProject/RaiseToAnswer) - Answer Phone by Raising to Ear
 * [Breezy Weather](https://github.com/breezy-weather/breezy-weather), [Clima](https://codeberg.org/Lacerte/clima), [Rain](https://github.com/DarkMooNight/Rain), [KWeather](https://invent.kde.org/utilities/kweather), [Flux](https://play.google.com/store/apps/details?id=de.bendix.flux), [GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather), [Prognoza](https://github.com/davidtakac/prognoza) or [OMWeather](https://github.com/woheller69/omweather) - Weather Apps
 * [WeatherRadar](https://github.com/dh4/WeatherRadar) - Doppler Radar Weather Images
-* [Sunny Side / TiseRise](https://play.google.com/store/apps/details?id=com.tobianoapps.sunnyside) - UV Index / Minimal Hourglass
 * [Aftership](https://play.google.com/store/apps/details?id=com.aftership.AfterShip&hl=en&gl=US) - Package Tracker
 * [aiTTS](https://www.milmike.com/aitts-google-wavenet-voices-for-android-tts) - Text to Speech
 * [Microsoft Edge Read Aloud](https://redd.it/l1fdh9) - How to use Microsoft Read Aloud TTS on Android
@@ -301,7 +296,6 @@
 * [ShiftCal](https://gitlab.com/Nulide/ShiftCal) - Shift Calendar
 * [Birday](https://github.com/m-i-n-a-r/birday) - Birthday Reminders / Calendar
 * [Sectograph](https://play.google.com/store/apps/details?id=prox.lab.calclock) - Daily Planner
-* [Easy Time Zones](https://easytimezones.com/) - Time Zone Calculator
 * [SuntimesWidget](https://github.com/forrestguice/SuntimesWidget) - Sun / Moon Light Time App
 * [Listy](https://listy.is/) - Create Lists of Anything
 * [Libra](https://github.com/markusfisch/Libra) - Pros v Cons App
@@ -322,7 +316,6 @@
 * [FastLyrics](https://github.com/TecCheck/FastLyrics) - Find Lyrics for Playing Song
 * [LRC Editor](https://play.google.com/store/apps/details?id=com.cg.lrceditor) or [Audoir](https://audoir.com/) - Lyric Text Editor
 * [WOMBO](https://www.wombo.ai/) - AI Powered Lip Sync
-* [ChariFree](https://play.google.com/store/apps/details?id=com.charifree) - Donate by Watching Ads
 * [FindMyDevice](https://gitlab.com/Nulide/findmydevice), [phonetrack](https://gitlab.com/eneiluj/phonetrack-oc) / [2](https://gitlab.com/eneiluj/phonetrack-android) or [AutoWhatsAppTriggers](https://play.google.com/store/apps/details?id=om.roitman.autowhatsapptriggers) - Track Phones Location
 * [OwnTracks](https://owntracks.org/), [Hauk](https://github.com/bilde2910/Hauk), [Positional](https://play.google.com/store/apps/details?id=app.simple.positional.lite), [GPSCockpit](https://github.com/woheller69/gpscockpit) or [GnssLogger](https://play.google.com/store/apps/details?id=com.google.android.apps.location.gps.gnsslogger) - Track Own Location
 * [PhoneAccount Abuse Detector](https://play.google.com/store/apps/details?id=space.linuxct.phoneaccountdetector) - Android Emergency Calling Bug Check
@@ -343,7 +336,6 @@
 * [Aves](https://github.com/deckerst/aves) - Metadata Explorer
 * [FlutterMarkdownEditor](https://github.com/adityar224/FlutterMarkdownEditor) - Markdown Editor
 * [markdownr](https://github.com/sanzoghenzo/markdownr) - Webpage to Markdown Converter
-* [Katch](https://gokatch.com/) - AI Call Assistant
 * [Koler](https://github.com/Chooloo/koler) - Dialer App
 * [KONTXT](https://play.google.com/store/apps/details?id=com.realnetworks.kontxt.voice&hl=en&gl=US) - Preview Calls
 * [Get Unstuck](https://socratic.org/) - Homework Answers / Help

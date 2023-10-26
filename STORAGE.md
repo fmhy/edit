@@ -860,10 +860,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * https://www.freevpn.us/
 * https://www.sshocean.net/
 * https://www.cloudssh.us/
-* https://www.fullssh.com/
 * https://starssh.com/
-* https://www.skyssh.co/
-* https://www.sshdropbear.net/
 * https://www.portssh.com/
 * https://www.goodssh.com/
 * https://sshkit.com/
@@ -1744,7 +1741,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ### Foobar2000 Tools
 
-[Components](https://audio-file.org/foobar2000-list-of-components/), [2](https://www.foobar2000.org/components) / [VU Meter](https://audio-file.org/foobar2000-vu-meter-skins-gallery/), [Last.fm Scrobble](https://github.com/gix/foo_scrobble)
+[Components](https://audio-file.org/foobar2000-list-of-components/), [2](https://www.foobar2000.org/components) / [VU Meter](https://audio-file.org/foobar2000-vu-meter-skins-gallery/) / [Last.fm Scrobble](https://github.com/gix/foo_scrobble) / [Lyric Sync](https://rentry.co/FB2K-SyncedLyrics)
 
 ### Linux
 
