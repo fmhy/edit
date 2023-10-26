@@ -82,6 +82,7 @@
 * [LowTech Directory](https://emreed.net/LowTech_Directory.html) - Low Tech Site Index
 * [404PageFound](https://www.404pagefound.com/) - Old Site Indexes
 * [endoflife.date](https://endoflife.date/) - Tools & Technologies' End of life Index
+* [Museum of Failure](https://collection.museumoffailure.com/) - Failed Products Index
 * [KilledByGoogle](https://killedbygoogle.com/) - Dead Google Project Index
 * [KilledByMicrosoft](https://killedbymicrosoft.info/) - Dead Microsoft Project Index
 
