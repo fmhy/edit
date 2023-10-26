@@ -444,7 +444,6 @@
 * [BuiltWith](https://builtwith.com/) - Find Out What Sites are Built With
 * [Bug](https://auz.github.io/Bug/) - Add Crawling Bugs to Website
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - Mobile Friendly Page Test
-* [epub.js](https://github.com/futurepress/epub.js) - Render ePub Documents in Browser
 * [OneLinePlayer](https://onelineplayer.com/) - Vimeo / Dropbox Video Player
 * [SCM Music Player](https://www.scmplayer.net/) - Site Audio Players
 * [DriveProxy](http://driveproxy.net/) - GDrive Video iFrame Code Generator
@@ -1329,6 +1328,8 @@
 
 * 🌐 **[Awesome APIs](https://github.com/TonnyL/Awesome_APIs)**, [API List](https://apilist.fun/), [Public APIs](https://publicapis.dev/), [APIsList](https://apislist.com/), [API House](https://apihouse.vercel.app/), [APIs Guru](https://apis.guru/), [Public API Lists](https://github.com/public-api-lists/public-api-lists) or [Public APIs](https://github.com/public-apis/public-apis) - API Indexes
 * 🌐 **[List of Providers](https://docs.consumet.org/list-of-providers)** - Piracy Site APIs
+* ⭐ **[Shizuku](https://shizuku.rikka.app/)** - Connect Apps to APIs
+* [Pipedream](https://pipedream.com/) - Connect APIs / [Tutorial](https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b)
 * [Directus](https://directus.io/) - SQL to API Platform
 * [RapidAPI](https://rapidapi.com/) or [FastAPI](https://github.com/tiangolo/fastapi) - API Framework
 * [tRPC](https://trpc.io/) - Build Typesafe APIs 
@@ -1348,13 +1349,10 @@
 * [RandomAPI](https://randomapi.com/) - Generate Fake Data for Populating Mockups
 * [AIMG SRC](https://www.aimgsrc.com/) - Image Return API
 * [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator 
-* [Pipedream](https://pipedream.com/) - Connect APIs / [Tutorial](https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b)
-* [Shizuku](https://shizuku.rikka.app/) - Connect Apps to APIs
 * [NativeScript](https://github.com/NativeScript/NativeScript) - Access APIs from JavaScript
 * [Stein](https://steinhq.com/) - Turn Google Sheets into Database API / [GitHub](https://github.com/SteinHQ)
 * [Lanyard](https://github.com/Phineas/lanyard) - Export Discord Rich Presence to API Endpoint / Websocket
 * [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async & Concurrent Versions of Swift APIs
-* [Shizuku](https://github.com/RikkaApps/Shizuku) - Use System APIs Directly with ABD / Root 
 * [Algolia](https://www.algolia.com/), [TypeSense](https://typesense.org/), [StorkSearch](https://stork-search.net/), [Solr](https://solr.apache.org/), [MeiliSearch](https://meilisearch.com/), [Sphinx](http://sphinxsearch.com/) or [FusionBot](https://www.fusionbot.com/) - Search API
 * [Reacher](https://reacher.email/) - Email Verification API
 * [BotScout](https://botscout.com/) - Bot Check API
