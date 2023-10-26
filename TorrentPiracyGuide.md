@@ -42,7 +42,6 @@
 * [BitFord](https://github.com/astro/bitford) - Chrome
 * [Rats Search](https://github.com/DEgITx/rats-search) - Torrent Search Client / [Screenshot](https://github.com/DEgITx/rats-search#screenshots) 
 * [Download Torrents Through I2P](https://decentnet.github.io/blog/20200329-download-torrents-through-i2p.html)
-* [SpreadsheetUI](https://github.com/JohnDoee/spreadsheetui) - Speadsheet Torrent webUI 
 * [flood](https://flood.js.org/) - rTorrent, Transmission & qBittorrent WebUI / [GitHub](https://github.com/jesec/flood)
 * [Remote Torrent Adder](https://github.com/bogenpirat/remote-torrent-adder) - Easily Send Torrents to Client 
 * [SeedCross](https://github.com/ccf-2012/seedcross) - Cross-Seed Utility
