@@ -643,7 +643,6 @@
 * [iDoISO](https://idoiso.in/dex) - HD Movies / TV / ISO / [Divolt](https://isoneb.divolt.xyz/)
 * [Remux Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#17tb-mega-drive) - HD Movies
 * [4K Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#4k-movie-collection) - HD Movies
-* [Search OD Index](https://gitlab.com/Rust1667/search-od-index) - Movie / TV / Anime Open Directory Search
 * [r/MegaLinks Backup](https://megadb.tweakly.net/)
 * [Unbeatable Banzuke](https://github.com/nbats/FMHYedit/blob/main/base64.md#unbeatable-banzuke) - Unbeatable Banzuke
 * [Guide to finding fanedits](https://redd.it/nd8z20) - How-to Find Fan Edits
