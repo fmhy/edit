@@ -254,6 +254,7 @@
 * [AbsoluteReality](https://civitai.com/models/81458/absolutereality) - Realistic Images
 * [Realitic Vision](https://civitai.com/models/4201/realistic-vision-v51) - Realistic Images
 * [ReV Animated](https://civitai.com/models/7371/rev-animated) - Illustrations
+* [MonAI](https://monai.art/) - Artwork
 * [Counterfeit](https://civitai.com/models/4468/counterfeit-v30) - Anime Images
 * [MeinaMix](https://civitai.com/models/7240/meinamix) - Anime Girls / [Discord](https://discord.com/invite/meinaverse)
 * [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion-v1-4/) - Anime Girls
