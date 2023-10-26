@@ -1298,7 +1298,7 @@
 * [Tapology](https://www.tapology.com/) - Make MMA Fight Picks
 * [Michaelbach](https://michaelbach.de/ot/) - Optical Illusions
 * [Strobe Illusion](https://strobe.cool/) - Hallucination Illusion
-* [Fun Trivia](https://www.funtrivia.com/), [Factle](https://factle.app/), [BeanBeanBean](https://beanbeanbean.com/) or [Sporcle](https://www.sporcle.com/) - Trivia
+* [Fun Trivia](https://www.funtrivia.com/), [Factle](https://factle.app/), [TriviaPlaza](http://www.triviaplaza.com/), [BeanBeanBean](https://beanbeanbean.com/) or [Sporcle](https://www.sporcle.com/) - Trivia
 * [ARealMe](https://www.arealme.com/) - Quiz Collection
 * [Ridella](https://ridella.xyz/) - Daily Riddles
 * [Notpron](http://www.notpron.com/) - Worlds Hardest Internet Riddle
