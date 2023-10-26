@@ -656,6 +656,7 @@
 * [LiveKit](https://livekit.io/) - Build Video / Audio Applications
 * [Dotnet Content Creators](https://github.com/matthiasjost/dotnet-content-creators) - .NET Content Creators Index
 * [Dotnet Releaser](https://github.com/xoofx/dotnet-releaser) - Automate Release of .NET Applications
+* [new(releases)](https://newreleases.io/) - Software Release Notifications
 * [Cron AI](https://cron-ai.vercel.app/) or [Cron Cat](https://www.crontabcat.com/) - Convert Words to Cron Expressions
 * [Pencil](http://pencil.evolus.vn/) - Software Mockup Tool / [GitHub](https://github.com/evolus/pencil)
 * [GNUnet](https://gnunet.org/en/) - Software Framework
@@ -672,7 +673,7 @@
 * [7.css](https://khang-nd.github.io/7.css/) or [Botox Party](https://botoxparty.github.io/XP.css/) - Create Oldschool Style UI's
 * [Amplication](https://amplication.com/) - Create Node.js Apps
 * [Textualize](https://www.textualize.io/) - Create Text User Interfaces
-* [Ink](https://github.com/vadimdemedes/ink) - Create Interactive CLI Apps
+* [Ink](https://github.com/vadimdemedes/ink) or [cac](https://github.com/cacjs/cac) - Create Interactive CLI Apps
 * [smenu](https://github.com/p-gen/smenu) - Create CLI Menus
 * [Enquirer](https://github.com/enquirer/enquirer) or [Prompts](https://github.com/terkelg/prompts) - Create CLI Prompts
 * [blessed-contrib](https://github.com/yaronn/blessed-contrib) or [BubbleTea](https://github.com/charmbracelet/bubbletea) - Create Terminal Applications
@@ -1206,6 +1207,7 @@
 * [GoPlay](https://goplay.space/) or [Go Lang](https://play.go-lang.org/) - Go Playgrounds
 * [RoslynPad](https://roslynpad.net/) - C# Editor
 * [DotNetFiddle](https://dotnetfiddle.net/) - C# Compiler
+* [RoslynQuoter](https://roslynquoter.azurewebsites.net/) - C# Syntax Tree API Viewer
 * [Recaf](https://www.coley.software/Recaf/) - Java Bytecode Editor
 * [Rescript](https://rescript-lang.org/) - Javascript Editor / Language
 * [Apache NetBeans](https://netbeans.apache.org/) - Cross Platform IDE
@@ -1242,7 +1244,7 @@
 * [Anywidget](https://github.com/manzt/anywidget) - Create Jupyter Widgets
 * [CoCalc](https://cocalc.com/) - Virtual online workspace
 * [CodePen](https://codepen.io/), [Microsoft 365 E5](https://rentry.co/E5Register), [Web Maker](https://webmaker.app/) or [Liveweave](https://liveweave.com/) - Code Sandbox
-* [Platform.uno](https://platform.uno/) - App Framework
+* [Platform.uno](https://platform.uno/) or [Enact](https://enactjs.com/) - App Frameworks
 * [tio.run](https://tio.run/) - Programming Language Interpreters
 * [Online Python Compiler](https://www.onlinegdb.com/online_python_compiler) - Online Python Editor & Tester
 
