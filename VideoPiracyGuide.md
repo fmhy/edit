@@ -278,11 +278,11 @@
 * 🌐 **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index / [Discord](https://discord.gg/GuueaDgKdS)
 * 🌐 **[Awesome Piracy Anime](https://github.com/anshumanv/awesome-anime-sources)** - Japanese Piracy Index
-* ⭐ **[AniWatch](https://aniwatch.to/)**, [2](https://4anime.gg/), [3](https://kaido.to/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/RRaf5JkkKu) / [Auto-Focus](https://greasyfork.org/en/scripts/464019) / [Mirrors](https://zoroanime.net/)
 * ⭐ **[AniWave](https://aniwave.to/)** or [Anix](https://anix.to/), [2](https://animesuge.to/), [3](https://gogoanimex.to/home), [4](https://zorox.to/) - Sub / Dub / 1080p / [Lite](https://lite.aniwave.to) / [Mirrors](https://aniwave.tv/) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher) / [Ad Scripts](https://redd.it/c330dx)
-* ⭐ **[AllAnime](https://allanime.to/)** - Sub / Dub / 1080p
-* ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / 1080p / Mini Encoded Blu-Ray / [Downloader](https://github.com/KevCui/animepahe-dl)
 * ⭐ **[KickAssAnime](https://kickassanime.am/)** - Sub / Dub / 1080p / [Mirrors](https://kickassanimes.info/) / [Discord](https://discord.com/invite/kaa)
+* ⭐ **[AniWatch](https://aniwatch.to/)**, [2](https://4anime.gg/), [3](https://kaido.to/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/RRaf5JkkKu) / [Auto-Focus](https://greasyfork.org/en/scripts/464019) / [Mirrors](https://zoroanime.net/)
+* ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / 1080p / Mini Encoded Blu-Ray / [Downloader](https://github.com/KevCui/animepahe-dl)
+* ⭐ **[AllAnime](https://allanime.to/)** - Sub / Dub / 1080p
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
 * [GoGoAnime](https://gogoanimehd.io/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/gogo) / [Mirrors](https://gogotaku.info/) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [CLI](https://github.com/DemonKingSwarn/gogo-cli) / [Downloader](https://github.com/notmarek/GOgogoanime), [2](https://github.com/sdaqo/anipy-cli) / [Download Script](https://greasyfork.org/en/scripts/465970), [2](https://greasyfork.org/en/scripts/426661) / [DL Guide](https://rentry.org/gogodlscript)
@@ -388,11 +388,11 @@
 * ⭐ **[FullMatchTV](https://fullmatchtv.com/)** - Sports
 * ⭐ **[NBAHD](https://watchreplay.net/)** - Basketball
 * ⭐ **[NFL Replay](https://nflreplay.net/)** - Football
-* ⭐ **[SoccerCatch](https://soccercatch.com/)** - Soccer
 * ⭐ **[WatchWrestling24](https://watchwrestling24.net/)** - MMA / Wrestling
 * ⭐ **[WatchWrestlingUp](https://watchwrestlingup.live/)** - MMA / Wrestling
 * ⭐ **[Race Replay](https://racereplay.net/)** - Motorsports
 * [SportsReplay](https://discord.com/invite/2r4pj67gCv) - Sports
+* [FullReplays](https://www.fullreplays.com/) - Soccer
 * [FootballOrigin](https://www.footballorgin.com/) - Soccer
 * [Footballia](https://footballia.net/) - Soccer
 * [Footyfull](https://footyfull.com/) - Soccer
