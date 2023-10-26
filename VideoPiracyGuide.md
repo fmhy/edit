@@ -31,7 +31,6 @@
 * [Filmxy](https://www.filmxy.vip/) - Movies / TV / Anime / 1080p
 * [NetFilm](https://netfilm.app/) - Movies / TV / Anime / 1080p
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / 1080p
-
 * [WatchMovie](https://watchmovie.ac/) - Movies / TV / Anime / 1080p
 * [PogoLinks](https://pogolinks.pics/) - Movies / TV / Anime / 1080p
 * [DailyFlix](https://main.dailyflix.stream/) - Movies / TV / Anime / 1080p / [Link Site](https://main.dailyflix.info/)
