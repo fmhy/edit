@@ -846,7 +846,7 @@
 * [v9k9 Mags](https://redd.it/ouuakm) - Japanese Magazines
 * https://pdfmagazines.club/adult
 * https://pdfmagazines.club/for-men 
-* https://pdfmagazines.club/japan/page
+* https://pdfmagazines.club/japan/
 
 ***
 
