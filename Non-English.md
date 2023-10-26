@@ -1125,6 +1125,7 @@
 * [Online Cursos Gratuitos](https://onlinecursosgratuitos.com) - Courses
 * [Escola Educação](https://escolaeducacao.com.br/estude-gratis) - Courses
 * [Mundo Ubuntu](https://www.mundoubuntu.com.br) - Courses
+* [Banda Desenhada](https://bandadesenhada-pt.blogspot.com/) - Comics
 
 ## ▷ Torrenting
 
@@ -1155,7 +1156,7 @@
 * [Quero Filmes HD](https://querofilmeshd.top) - Movies / TV
 * [TopFlix](https://topflix.tv) - Movies / TV
 * [GoFilmes](https://gofilmes.me/m/) - Movies / TV
-* [Os Teus Filmes Tuga](https://osteusfilmestuga.fun) - Movies / TV / Anime / Cartoons
+* [Os Teus Filmes Tuga](https://osteusfilmestuga.online) - Movies / TV / Anime / Cartoons
 * [tugaflix](https://tugaflix.best) Movies / TV / Use Adblock
 * [Filmes Online HD](https://www.filmesonlinehdgratis.com.br) - Movies / TV
 * [NetMovies](https://www.netmovies.com.br) - Movies / TV / Requires Login
