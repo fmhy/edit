@@ -83,7 +83,7 @@
 * [LostMyspace](http://lostmyspace.com/) - Lost Myspace Songs
 * [Mideastunes](https://mideastunes.com/) - Underground Music
 * [/r/PluggnB](https://www.reddit.com/r/PluggnB/) - User-Made PluggnB Songs
-* [Musico](https://www.musi-co.com/listen/streams) - AI Generated Songs
+* [Musico](https://www.musi-co.com/listen/) - AI Generated Songs
 * [BitMidi](https://bitmidi.com/) - Stream / Download MIDI Files
 * [keygenmusic.tk](https://keygenmusic.tk/) - Keygen Music
 * [Tasso Music](https://www.tassomusic.org/) - Early Modern Music
