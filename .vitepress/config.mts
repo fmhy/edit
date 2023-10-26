@@ -22,15 +22,13 @@ export default defineConfig({
     // TODO: add navbar items
     nav: [],
     sidebar: [
-      {
-        text: "Examples",
-        items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
-        ],
-      },
+      { text: "Beginners Guide to Piracy", link: "/Beginners-Guide" },
+      { text: "Adblocking / Privacy", link: "/AdblockVPNGuide" },
+      { text: "Artificial Intelligence", link: "/AI" },
     ],
-    // TODO: add socials
-    socialLinks: [],
+    socialLinks: [
+      { icon: "github", link: "https://github.com/fmhy/FMHYEdit" },
+      { icon: "discord", link: "https://discord.gg/Stz6y6NgNg" },
+    ],
   },
 });
