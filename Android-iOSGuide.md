@@ -938,7 +938,6 @@
 * [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios-release-notes/) - Office Suite 
 * [Drafts](https://getdrafts.com/) or [Bear](https://apps.apple.com/us/app/bear/id1016366447) - Note Taking App
 * [Serenity Notes](https://www.serenity.re/en/notes) - Collaborative Notes
-* [Papertag](https://www.papertag.app/) - Attach Digital Content on Paper
 * [Decisions](https://github.com/markusfisch/Libra) - Decision Making App
 * [iSH Shell](https://ish.app/) - Linux-like Shell
 * [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - Text Based Shell
@@ -955,13 +954,13 @@
 * [Scriptable](https://apps.apple.com/us/app/scriptable/id1405459188) - Automation Script Tool
 * [MAPS.ME](https://maps.me/) - Offline Maps / [GitHub](https://github.com/mapsme/omim)
 * [Cowabunga](https://github.com/leminlimez/Cowabunga) - iOS Customization Tool
-* [iSkin](https://iskin.tooliphone.net/), [Anemone](https://www.ios-repo-updates.com/repository/odyssey-repo/package/com.anemonetheming.anemone3/), [/r/iOSsetups](https://www.reddit.com/r/iOSsetups/ ), [/r/iOSthemes](https://www.reddit.com/r/iOSthemes/), [Moloko](https://apps.apple.com/us/app/moloko-themes-icons/id1534741213) or [SnowBoard](https://repo.dynastic.co/package/snowboard) - iOS Themes 
+* [iSkin](https://iskin.tooliphone.net/), [Anemone](https://www.ios-repo-updates.com/repository/odyssey-repo/package/com.anemonetheming.anemone3/), [/r/iOSsetups](https://www.reddit.com/r/iOSsetups/) or [/r/iOSthemes](https://www.reddit.com/r/iOSthemes/) - iOS Themes 
 * [Themify](https://apps.apple.com/us/app/themify-icon-themes-widgets/id1534126062) - Icon Themes & Widgets
 * [iCustom](https://icustom.tooliphone.net/) - Make Custom Icons Without Shortcuts
 * [ShortcutsGallery](https://shortcutsgallery.com/) or [RoutineHub](https://routinehub.co/) - Siri Shortcuts
 * [Color Widgets](https://apps.apple.com/us/app/color-widgets/id1531594277), [WidgetSmith](https://apps.apple.com/us/app/widgetsmith/id1523682319) or [widgetopia](https://apps.apple.com/us/app/widgetopia-widgets-weather/id1536432615) - iOS Widgets
 * [Video Saver Pro](https://apps.apple.com/us/app/video-saver-pro-cloud-drive/id1297144302) - Video Downloader
-* [DownTube](https://github.com/MrAdamBoyd/DownTube), [YT-DLP](https://mcgaritydotme.notion.site/Using-yt-dlp-to-download-YouTube-content-on-an-iPad-16d0f4bcaf524d41a92a0d714d4bd100) or [YouDown](https://apps.apple.com/sa/app/youdown/id1487658334) - YouTube Downloaders
+* [YT-DLP](https://mcgaritydotme.notion.site/Using-yt-dlp-to-download-YouTube-content-on-an-iPad-16d0f4bcaf524d41a92a0d714d4bd100) or [YouDown](https://apps.apple.com/sa/app/youdown/id1487658334) - YouTube Downloaders
 * [Keynote](https://apps.apple.com/us/app/keynote/id361285480) - Make Presentations
 * [Noctis12](https://repo.packix.com/package/com.laughingquoll.noctis12/) or [Dune](https://github.com/Skittyblock/Dune) - iOS Dark Mode
 * [GlobeConvert](https://apps.apple.com/us/app/globeconvert-currency-units/id334851202) - Currency / Unit Converter
@@ -995,8 +994,6 @@
 * [Walkie-Talkie](https://walkie-talkie.io/) - Walkie-Talkie App
 * [Smart Fax](https://play.google.com/store/apps/details?id=com.hypereact.faxappgp) - Send Fax via Phone
 * [ZX81](https://apps.apple.com/us/app/zx81/id1180117434) - Sinclair ZX81 Emulator
-* [My6809](https://apps.apple.com/us/app/my6809/id1233655601) - Motorola 6809 Emulator
-* [Guardic](https://apps.apple.com/us/app/guardic-msx/id905921949) or [ZanacMSX](https://apps.apple.com/us/app/zanac-msx/id834098690) - MSX Emulator
 * [iMessage Exporter](https://github.com/ReagentX/imessage-exporter) - Export iMessage Chats
 * [Nicegram](https://nicegram.app/) - Telegram App
 * [TheChan](https://github.com/TheChanDev/TheChan) - 4Chan App
@@ -1007,7 +1004,6 @@
 * [AppLibraryEnabler](https://github.com/tomaszpoliszuk/AppLibraryEnabler) - Enable App Library on iPad
 * [GeekBench](https://apps.apple.com/us/app/geekbench-6/id1565728895) - iOS Benchmark Tests
 * [GoodLinks](https://goodlinks.app/) or [DoMarks](https://www.domarks.app/) - Bookmark Manager
-* [Flarify](http://www.flairify.com/) - Touchscreen Typing Practice 
 * [Selvy PenScript](https://apps.apple.com/us/app/selvy-penscript/id1027637212) - Handwriting to Text Keyboard
 * [VoxRec](https://apps.apple.com/us/app/voxrec-voice-to-text-dictation/id1366603987) - Voice to Text
 * [Audoir](https://audoir.com/) - Lyric Text Editor
@@ -1089,7 +1085,6 @@
 * [odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) - Checkra1n / Odysseyra1n Installation Distro / [GUI](https://github.com/23Aaron/Betelguese)
 * [sh0wer](https://github.com/beerpiss/sh0wer) - Alt Linux Distro for checkn1x
 * [3uTools](http://www.3u.com/) - Device Manager / Jailbreak Tool
-* [ReProvision](https://github.com/Matchstic/ReProvision) - On-Device Digning Utility
 * [isecureos](https://isecureos.idevicecentral.com/repo/) - Jailbreak Antivirus Tweak
 * [iOS-OTA-Downgrader](https://github.com/LukeZGD/Legacy-iOS-Kit) - OTA Downgrade iOS
 * [Procursus](https://github.com/ProcursusTeam/Procursus) - OS Bootstrap
@@ -1107,9 +1102,7 @@
 * [KF Panda-Player](https://apps.apple.com/us/app/kfpanda-player/id1460792262) - Turn any site into a App, without the Ads 
 * [1Blocker](https://1blocker.com/) - Ablocker
 * [Ka-Block!](http://kablock.com/) - Adblocker
-* [Sanitize](https://apps.apple.com/ca/app/sanitize-ad-blocker/id1048309542) - Adblocker 
 * [BlockParty](https://github.com/krishkumar/BlockParty) - Adblocker 
-* [Swab](http://swabthe.com/) - Adblocker 
 * [DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351), [Naka AdBlocker](https://apps.apple.com/ca/app/naka-adblocker/id1525185489), [NextDNS](https://apps.apple.com/ca/app/nextdns/id1463342498) or [TrustDNS](https://surfshark.com/trust-dns) - DNS Adblockers
 * [Video Lite](https://apps.apple.com/sa/app/video-lite-no-ads/id1598997500) - Video Browser w/Adblock
 * [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) - Skip YouTube Sponsorships 
@@ -1124,10 +1117,10 @@
 * 🌐 **[Julioverne](https://julio.hackyouriphone.org/)** - Privacy Tools 
 * [iOS-Privacy-Guide](https://github.com/paulaime/iOS-Privacy-Guide) - iOS Privacy Guide
 * [Raivo OTP](https://raivo-otp.com), [OTP Auth](https://apps.apple.com/ca/app/otp-auth/id659877384), [Sentinel](https://getsentinel.io) or [Tofu](https://www.tofuauth.com/) - Two-factor Authentication  
-* [SecretPhotoAlbum++](https://apps.apple.com/us/app/secret-photo-album/id1459036428), [Private Photo Vault](https://apps.apple.com/us/app/private-photo-vault-pic-safe/id417571834) or [No See You](https://noseeyou.com/) - Private Photo Album
+* [Private Photo Vault](https://apps.apple.com/us/app/private-photo-vault-pic-safe/id417571834) or [No See You](https://noseeyou.com/) - Private Photo Album
 * [Onion Browser](https://onionbrowser.com/) - Onion Browser for iOS 
 * [Firefox Focus](https://apps.apple.com/us/app/firefox-focus-privacy-browser/id1055677337) or [DuckDuckGo Privacy Browser](https://duckduckgo.com/app) - Privacy Based Browser 
-* [Lockdown iOS](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) or [MobiWall](https://apps.apple.com/gb/app/mobiwall/id1486297414) - iOS Firewall / [GitHub](https://github.com/confirmedcode/Lockdown-iOS)
+* [Lockdown iOS](https://apps.apple.com/dk/app/lockdown-apps/id1469783711) - iOS Firewall / [GitHub](https://github.com/confirmedcode/Lockdown-iOS)
 * [PhantomVPN](https://github.com/nbats/FMHYedit/blob/main/base64.md#phantomvpn), [Vpnify](https://vpnifyapp.com/) or [Ultrasurf](https://apps.apple.com/us/app/ultrasurf-vpn/id1563051300) - Free VPN
 * [Potatso Lite](https://apps.apple.com/us/app/potatso-lite/id1239860606) - Proxy App
 * [Anti-Social](https://apps.apple.com/us/app/faceblock-block-facebook/id1516200820) - Block Social Media Trackers 
@@ -1167,7 +1160,6 @@
 * [AppSync Unified](https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified) - IPA Installation Tweak
 * [iosninja](https://iosninja.io/ipa-library) or [Jailbreaks.app](https://jailbreaks.app/) - App Sideload Files
 * [TestFlight](https://testflight.apple.com/) - Test Beta Apps / [Links](https://docs.google.com/spreadsheets/d/1Uej3AQPxRcLRXnmthUXR-7oGkNV_GsMFgCoNnuPtSwI/)
-* [bfdecrypt](https://github.com/BishopFox/bfdecrypt) - Decrypt App Store Apps
 * [ExportIPA](https://gist.github.com/rileytestut/5b3ede1cfeaba47cea9e6c1c8c114e4e) - Export Running Apps as IPAs
 * [AppleCensorship](https://applecensorship.com/) - Censored App Store Apps
 
@@ -1181,7 +1173,7 @@
 * ⭐ **[YT Tweaked](https://github.com/nbats/FMHYedit/blob/main/base64.md#yt-tweaked-ipas)**, [YTMusilife](https://github.com/nbats/FMHYedit/blob/main/base64.md#ytmusilife) / [2](https://repo.hackyouriphone.org/ytmusilife) or [YTMusicUltimate](https://github.com/ginsudev/YTMusicUltimate) - Streaming
 * [DeezeLife](https://github.com/nbats/FMHYedit/blob/main/base64.md#deezelife) / [2](https://repo.hackyouriphone.org/deezelife) or [Deezer](https://apps.apple.com/app/deezer/id292738169) - Streaming
 * [Trebel](https://home.trebel.io/) - Streaming
-* [SCloudlife](https://repo.hackyouriphone.org/scloudlife) or [Soundcloud](https://apps.apple.com/us/app/soundcloud/id336353151) - Streaming
+* [Soundcloud](https://apps.apple.com/us/app/soundcloud/id336353151) - Streaming
 * [Musi](https://apps.apple.com/us/app/musi-simple-music-streaming/id591560124) - Streaming / [Music Videos](https://apps.apple.com/us/app/musi-offline-music-videos/id1566988849)
 * [eSound](https://apps.apple.com/ca/app/esound-music-player-app-mp3/id1224933860) - Streaming
 * [Pandolife](https://repo.hackyouriphone.org/pandolife) - Streaming / Modded Pandora
@@ -1192,11 +1184,11 @@
 * [SongShift](https://songshift.com/) - Playlist Sync
 * [Qello](https://apps.apple.com/us/app/qello-concerts-live-music/id491069819) - Concerts & Live Music Streaming
 * [‎TuneStalgia](https://apps.apple.com/us/app/tunestalgia/id1561719773) - Music Nostalgia App
-* [MP3 Converter](https://apps.apple.com/us/app/mp3-converter-audio-extractor/id1305099161) or [MyMP3](https://apps.apple.com/us/app/mymp3-convert-videos-to-mp3-and-best-music-player/id834818663) - Video to MP3 Converter
+* [MP3 Converter](https://apps.apple.com/us/app/mp3-converter-audio-extractor/id1305099161) - Video to MP3 Converter
 * [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar) - Spotify Release Tracker / Metrics
 * [Boom](https://apps.apple.com/us/app/boom-bass-booster-equalizer/id1065511007) - Audio Equalizer
 * [VOX](https://apps.apple.com/us/app/vox-mp3-flac-music-player/id916215494) or [Melodista](https://apps.apple.com/us/app/melodista-music-offline-player/id1293175325) - Audio Player
-* [iRetro](https://apps.apple.com/us/app/iretro/id1557178995) or [ClassicPlayer](https://github.com/guillermo-moran/ClassicPlayer) / [2](https://cydia.saurik.com/package/org.thebigboss.classicplayer/)- iPod Classic Audio Player
+* [iRetro](https://apps.apple.com/us/app/iretro/id1557178995) - iPod Classic Audio Player
 * [wInd3x](https://github.com/freemyipod/wInd3x) - iPod Classic / Nano Bootrom Exploit
 * [Denim](https://apps.apple.com/us/app/denim-playlist-cover-maker/id1532250420) - Playlist Cover Maker
 * [GarageBand](https://apps.apple.com/us/app/garageband/id408709785) - Audio Editor / Creator
@@ -1219,8 +1211,6 @@
 ## ▷ iOS Relaxation
 
 * ⭐ **[Calm](https://repo.danielpitra.cz/depiction.php?id=com.strejda603.calmpremium)** (Premium) - Relaxation, Sleep & Meditation
-* [Rainy Mood](https://apps.apple.com/us/app/rainy-mood/id566752651) - Rain Sounds
-* [Raining.fm](https://apps.apple.com/ua/app/rainingfm/id648243241) - Ambient Rain Sounds / Relaxation 
 * [Noizio](https://apps.apple.com/us/app/noizio-focus-relax-sleep/id960716999) - Nature Sounds / Relaxation 
 * [A Soft Murmur](https://apps.apple.com/app/apple-store/id1175522255) - Mix ambient sounds
 * [Tide.fm](https://apps.apple.com/cn/app/tide/id1077776989) - Meditation / Sleep Sounds 
@@ -1234,12 +1224,10 @@
 * ⭐ **[Trakt](https://apps.apple.com/app/id1514873602?at=10l4Ht)** - Movies / TV Tracker
 * [Stremio](https://pastebin.com/Gy5xZny2) - Movies / TV / Anime / Use VPN / [Alt Method](https://i.imgur.com/0U3HIcN.mp4)
 * [Video Lite](https://apps.apple.com/sa/app/video-lite-no-ads/id1598997500) - Video Browser w/ Adblock
-* [MovieByImage](https://apps.apple.com/us/app/movie-finder-movie-by-image/id1560301878) - Movies / Code: 777
 * [Tubi](https://apps.apple.com/us/app/tubi-watch-movies-tv-shows/id886445756) - Movies / TV
 * [Blackbox](https://apps.apple.com/ca/app/black-box-movie-listing/id958957112) - Movies 
 * [Streamer](https://github.com/StreamerApp/Streamer) - Movies / TV
 * [Zivcy](https://www.downloader.world/) - Movies / TV
-* [Movie Finder](https://apps.apple.com/de/app/movie-finder-movie-by-image/id1560301878) - Movies / TV
 * [The CW](https://apps.apple.com/us/app/the-cw/id491730359) - Free CW Shows
 * [Viki](https://apps.apple.com/us/app/viki-asian-tv-dramas-movies/id445553058) - Asian Drama
 * [EncoreTVD](https://apps.apple.com/us/app/encoretvb-english/id1191642382) - Chinese Drama
@@ -1277,7 +1265,7 @@
 
 ***
 
-* [iTransmission](https://iosninja.io/ipa-library/download-itransmission-ipa-ios), [iTorrent](https://github.com/XITRIX/iTorrent), [SwiftyTorrent](https://github.com/danylokos/SwiftyTorrent), [iOS-Torrent-Client](https://github.com/nneonneo/iOS-Torrent-Client) or [Torrentula](http://cydia.saurik.com/package/com.ichanti.torrentula/) - Torrent Client
+* [iTorrent](https://github.com/XITRIX/iTorrent), [SwiftyTorrent](https://github.com/danylokos/SwiftyTorrent), [iOS-Torrent-Client](https://github.com/nneonneo/iOS-Torrent-Client) or [Torrentula](http://cydia.saurik.com/package/com.ichanti.torrentula/) - Torrent Client
 * [BarMagnet](https://github.com/Qata/BarMagnet) - Remote Torrent Interface for Legacy Devices
 
 ***
