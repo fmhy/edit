@@ -28,6 +28,8 @@ export default defineConfig({
     search: {
       provider: "local",
     },
+    outline: "deep",
+    logo: "/fmhy.ico",
     nav: [
       { text: "Glossary", link: "https://rentry.org/The-Piracy-Glossary" },
       { text: "Guides", link: "https://rentry.co/fmhy-guides" },
