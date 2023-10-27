@@ -10,7 +10,8 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
   appearance: "dark",
-  srcExclude: ["README.md", "single-page"],
+  srcExclude: ["README.md", "single-page", "DEVTools.md"],
+  ignoreDeadLinks: true,
   head: [
     ["meta", { name: "theme-color", content: "#7bc5e4" }],
     ["meta", { name: "og:type", content: "website" }],

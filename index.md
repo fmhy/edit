@@ -3,18 +3,18 @@ layout: home
 
 hero:
   name: "FMHY"
-  text: "site"
-  tagline: My great project tagline
+  text: "/r/freemediaheckyeah"
+  tagline: The Largest Collection Of Free Stuff On The Internet!
   image:
     src: /test.png
-    alt: FMHY
+    alt: FMHY Icon
   actions:
     - theme: brand
-      text: Beginners Guide
+      text: Get Started
       link: /Beginners-Guide
     - theme: alt
-      text: Deez nuts
-      link: /AI
+      text: Discord
+      link: https://discord.gg/Stz6y6NgNg
 
 features:
   - title: Feature A
