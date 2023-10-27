@@ -13,6 +13,7 @@
   },
   "devDependencies": {
     "@iconify-json/simple-icons": "^1.1.76",
+    "@iconify-json/twemoji": "^1.1.12",
     "prettier": "^3.0.3"
   }
 }

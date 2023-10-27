@@ -19,6 +19,9 @@ devDependencies:
   '@iconify-json/simple-icons':
     specifier: ^1.1.76
     version: 1.1.76
+  '@iconify-json/twemoji':
+    specifier: ^1.1.12
+    version: 1.1.12
   prettier:
     specifier: ^3.0.3
     version: 3.0.3
@@ -448,6 +451,12 @@ packages:
 
   /@iconify-json/simple-icons@1.1.76:
     resolution: {integrity: sha512-jZEMvkMfD5tTadFJIOIxKE4cTVXslrktWEiMJV6HaABi9qw02zS7bzrllR1YtGPxzniKkq2UVg/dKS6lliIxVA==}
+    dependencies:
+      '@iconify/types': 2.0.0
+    dev: true
+
+  /@iconify-json/twemoji@1.1.12:
+    resolution: {integrity: sha512-8F3z+0+NYO/qeCiyjeWJ9ozkBvPmXsK+4pkQynUuILyXDIi8ddBHb1DJ6O2Qp5M23LzaA/Gkg8/8CQwgGslGmQ==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: true

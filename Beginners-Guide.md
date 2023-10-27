@@ -6,6 +6,7 @@
 
 ***
 ### FAQ
+<div class='i-twemoji-pirate-flag'></div>
 
 > How do I tell if a site or download is safe? Any tips? 
 Check out [Booty Guard](https://rentry.org/bootyguard) our basic safety guide. 
