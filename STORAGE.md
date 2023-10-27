@@ -596,7 +596,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## Developer Tools
 
 * ⭐ **[Free for Developers](https://free-for.dev/)**
-* ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)**
 * ⭐ **[JetBrains](https://jetbrains.com/)** - [Trial Script](https://gist.github.com/Gkhnzdmr/29fe3f1c4cf3d3984df4cf380e490074) / [License Server](https://github.com/crazy-max/docker-jetbrains-license-server)
 
 [Free-for-students](https://shalvah.me/Free-for-students/), [DevToys](https://devtoys.app/), [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse Foundation](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Developer Stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [Clean CSS](https://www.cleancss.com/), [Dev Resources](https://devresourc.es/), [Developer Tools and Resources](https://github.com/IliasHad/Developer-Tools-and-Resources), [FreeFormatter.com](https://freeformatter.com/), [Utilities and Tools Online](https://utilities-online.info/), [Free Online Tools for Everyone](https://online-toolz.com/), [String Functions](https://string-functions.com/), [Online String Tools](https://onlinestringtools.com/), [Convert String](https://convertstring.com/), [Coders Tool](https://www.coderstool.com/), [Coder’s Toolbox](https://coderstoolbox.net/), [elmah.io](https://elmah.io/tools/), [Prototypr](https://prototypr.io/toolbox/page/1), [AppDevTools](https://appdevtools.com/), [IT Tools](https://it-tools.tech/), [Addy](https://toolkit.addy.codes/), [toolki](https://toolki.com/en), [Coding Tools](https://coding.tools/), [Omatsuri](https://omatsuri.app/)
@@ -680,7 +679,11 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Drive Formatting / File Deletion
 
-[Eraser](https://eraser.heidi.ie/), [File Shredder](https://fileshredder.org/), [SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete), [Lethe](https://github.com/rafael-santiago/lethe), [ATS File Shredder](https://www.atomtechsoft.com/file-shredder-tool.html), [WIPERAPP](https://wiperapp.com/), [O&O FileErase](https://www.oo-software.com/en/products/oofileerase), [Permanent Delete](http://www.puransoftware.com/Permanent-Delete.html), [UltraShredder](https://www.majorgeeks.com/files/details/ultrashredder.html), [Easy File Shredder](https://patoghu.com/gonagon/usefull_tool/17305-easy-file-shredder.html), [HDShredder](https://www.miray-software.com/products/applications/hdshredder.html#), [SSuite File Shredder and Burner](https://www.ssuiteoffice.com/software/ssuitefileshredder.htm), [Low Level Format](https://www.lowlevelformat.info/), [Zer0](http://kcsoftwares.com/index.php?zero), [Alternate File Shredder](http://www.alternate-tools.com/pages/c_fileshredder.php?lang=ENG), [Permadelete](https://developerstree.github.io/permadelete/), [nwipe](https://github.com/martijnvanbrummelen/nwipe), [ShredOS](https://github.com/PartialVolume/shredos.x86_64)
+* **Note** - These just delete files, if you're looking for security and to leave no file traces, its best to encypt the whole disk instead.
+
+* ⭐ **[SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete)**
+
+[Eraser](https://eraser.heidi.ie/), [File Shredder](https://fileshredder.org/), [Lethe](https://github.com/rafael-santiago/lethe), [ATS File Shredder](https://www.atomtechsoft.com/file-shredder-tool.html), [WIPERAPP](https://wiperapp.com/), [O&O FileErase](https://www.oo-software.com/en/products/oofileerase), [Easy File Shredder](https://patoghu.com/gonagon/usefull_tool/17305-easy-file-shredder.html), [HDShredder](https://www.miray-software.com/products/applications/hdshredder.html#), [SSuite File Shredder and Burner](https://www.ssuiteoffice.com/software/ssuitefileshredder.htm), [Low Level Format](https://www.lowlevelformat.info/), [Zer0](http://kcsoftwares.com/index.php?zero), [Alternate File Shredder](http://www.alternate-tools.com/pages/c_fileshredder.php?lang=ENG), [Permadelete](https://developerstree.github.io/permadelete/), [nwipe](https://github.com/martijnvanbrummelen/nwipe), [ShredOS](https://github.com/PartialVolume/shredos.x86_64)
 
 ***
 
@@ -688,7 +691,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[Thunderbird](https://www.thunderbird.net/en-US/)** - [Tray Icon](https://github.com/Ximi1970/systray-x)
 * ⭐ **[Mailspring](https://getmailspring.com/)** - [Themes](https://github.com/topics/mailspring-theme)
-* ⭐ **[Outlook](https://outlook.live.com/owa/)** - [Tools](https://github.com/eksperience/KnockOutlook)
+* [Outlook](https://outlook.live.com/owa/) - [Tools](https://github.com/eksperience/KnockOutlook)
 
 [Betterbird](https://www.betterbird.eu/), [ElectronMail](https://github.com/vladimiry/ElectronMail), [Claws Mail](https://www.claws-mail.org/), [eM Client](https://www.emclient.com/), [RainLoop](https://www.rainloop.net/), [Roundcube](https://roundcube.net/), [Spike](https://www.spikenow.com/), [Canary](https://canarymail.io/), [Twobird](https://www.twobird.com/), [Kanmail](https://kanmail.io/), [Gmail Desktop](https://github.com/timche/gmail-desktop)
 
@@ -700,13 +703,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[addy.io](https://addy.io/)**
 * ⭐ **[DuckDuckGo Email Protection](https://duckduckgo.com/email/)**
 
-[Forward Email](https://forwardemail.net/), [Firefox Relay](https://relay.firefox.com/), [spamgourmet](https://www.spamgourmet.com/index.pl), [Burner Mail](https://burnermail.io/), [scr.im](http://scr.im/), [Mailsac](https://mailsac.com/), , [altmails](https://altmails.com/), [Mail.cx](https://mail.cx/), [YOPmail](https://yopmail.com/en/), [Mailgw](https://mailgw.com/), [erine.email](https://erine.email/), [33mail](https://33mail.com/)
+[Forward Email](https://forwardemail.net/), [Firefox Relay](https://relay.firefox.com/), [spamgourmet](https://www.spamgourmet.com/index.pl), [Burner Mail](https://burnermail.io/), [scr.im](http://scr.im/), [Mailsac](https://mailsac.com/), [altmails](https://altmails.com/), [Mail.cx](https://mail.cx/), [YOPmail](https://yopmail.com/en/), [Mailgw](https://mailgw.com/), [erine.email](https://erine.email/), [33mail](https://33mail.com/)
 
 * [Mailvelope](https://mailvelope.com/) - Extension
-
-### Telegram Bots
-
-[Fake Mail](https://t.me/FakemailBot), [DropMail.me](https://t.me/DropmailBot)
 
 ***
 
@@ -727,6 +726,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## Encode / Decode URLs
 
 * ⭐ **[Universal Encoding Tool](https://unenc.com/)**
+* ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)**
 * ⭐ **[Ciphey](https://github.com/Ciphey/Ciphey)** - Universal Text Decryption
 * ⭐ **[Base64 Decode](https://www.base64decode.org/) - [Encode](https://www.base64encode.org/)**
 * ⭐ **Base64 Extensions** - [Chrome](https://chrome.google.com/webstore/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [2](https://chrome.google.com/webstore/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf), [3](https://chrome.google.com/webstore/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) / [Opera](https://addons.opera.com/en/extensions/details/base64-encode-and-decode/)
@@ -739,8 +739,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## Encrypted Android Messengers
 
 * ⭐ **[Signal](https://signal.org/#signal)**
+* ⭐ **[Briar](https://briarproject.org/)**
 
-[Status](https://status.im/), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [ChatSecure](https://ballinger.io/apps/chatsecure/), [Snikket](https://github.com/snikket-im/snikket-android), [RetroShare](https://retroshare.cc/), [BiP](https://bip.com/en/), [Olvid](https://olvid.io/en/), [Berty](https://berty.tech/), [OpenKeychain](https://www.openkeychain.org/), [Dust](https://www.usedust.com/), [NewNode](https://newnode.com/), [Kontalk](https://www.kontalk.org/), [Wire](https://wire.com/en/download/), [Briar](https://briarproject.org/), [Anonymous Messenger](https://anonymousmessenger.ly/)
+[Status](https://status.im/), [Confide](https://play.google.com/store/apps/details?id=cm.confide.android), [ChatSecure](https://ballinger.io/apps/chatsecure/), [Snikket](https://github.com/snikket-im/snikket-android), [RetroShare](https://retroshare.cc/), [BiP](https://bip.com/en/), [Olvid](https://olvid.io/en/), [Berty](https://berty.tech/), [OpenKeychain](https://www.openkeychain.org/), [Dust](https://www.usedust.com/), [NewNode](https://newnode.com/), [Kontalk](https://www.kontalk.org/), [Wire](https://wire.com/en/download/), [Anonymous Messenger](https://anonymousmessenger.ly/)
 
 ***
 
@@ -1328,12 +1329,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## IP Checkers
-
-[My IP Address](https://myipaddress.ru/), [WhatIsMyIPAdress](https://whatismyipaddress.com/), [IPInfoDB](https://ipinfodb.com/), [IP Burger](https://www.ipburger.com/ip/), [NSUpdate](https://www.nsupdate.info/), [IfConfig](https://ifconfig.me/), [elahmad](http://www.elahmad.com/api/), [myip](https://myip.ms/), [WhatIsMyIPLookup](https://whatismyiplookup.com/), [ipturtle](https://ipturtle.com/), [iphorse](https://www.iphorse.com/), [ippig](http://ippig.net/), [ipchicken](https://ipchicken.com/), [who.is](https://who.is/), [ip2location](https://www.ip2location.com/), [infobyip](https://www.infobyip.com/), [ip.me](https://ip.me/), [whatsmyip](https://whatsmyip.com/)
-
-***
-
 ## IP / DNS Leak Tests
 
 ### IP Leak Tests
@@ -1379,13 +1374,10 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Jigsaw Puzzles
 
-[jigidi](https://www.jigidi.com/), [jigsawonline](https://jigsawonline.net/), [jigsawplanet](https://www.jigsawplanet.com/), [puzzlefactory](https://puzzlefactory.pl/en), [epuzzle](https://www.epuzzle.info/en), [dkmgames](https://dkmgames.com/Jigsaw/), [jigzone](http://www.jigzone.com/), [jigcardgallery](https://www.jigcardgallery.com/), [justjigsawpuzzles](https://justjigsawpuzzles.com/), [Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw), [Jigsaw Explorer](https://www.jigsawexplorer.com/), [jiggie](https://jiggie.fun/)
+* ⭐ **[jiggie](https://jiggie.fun/)** - Custom Puzzles + Multiplayer
+* ⭐ **[Puzzle Party](https://artsandculture.google.com/experiment/puzzle-party/EwGBPZlIzv0KRw)** - Multiplayer
 
-***
-
-## Keyboard Testers
-
-[Key Test](https://en.key-test.ru/), [KeyboardTester](https://www.keyboardtester.com/) / [2](https://keyboardtester.co/), [keyboard-tester](https://keyboard-tester.com/), [keytest](https://keytest.ru/en/) / [2](https://keytest.vn/), [keyboard-test](https://keyboard-test.space/), [keyboardtestt](https://keyboardtestt.com/), [keyboardchecker](https://keyboardchecker.com/), [keyboardtest](https://www.keyboardtest.org/)
+[PuzzleGarage](https://puzzlegarage.com/), [jigidi](https://www.jigidi.com/), [jigsawplanet](https://www.jigsawplanet.com/), [puzzlefactory](https://puzzlefactory.pl/en), [jigzone](http://www.jigzone.com/), [justjigsawpuzzles](https://justjigsawpuzzles.com/), [Jigsaw Explorer](https://www.jigsawexplorer.com/)
 
 ***
 
@@ -1976,92 +1968,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ## Portable Apps
 
 [PortableApps.com](https://portableapps.com/), [Portapps](https://portapps.io/), [Windows Portable Apps](https://windowsportableapps.blogspot.com/), [PortableAppZ](https://portableappz.blogspot.com/)
-
-***
-
-## Portuguese Browser Games
-
-* https://www.clickjogos.com.br/
-* https://www.jogos360.com.br/
-* https://www.netjogos.com/
-* https://www.papajogos.com.br/
-* https://www.1001jogos.pt/
-* https://www.brincar.pt/
-* https://www.jogos360.com.br/2_jogadores/
-* https://www.tucajogos.com.br/
-* https://lagged.com.br/
-* https://www.jogosonlinewx.com.br/
-
-***
-
-## Portuguese Bibles
-
-* https://www.bibliaon.com/
-* https://bo.net.br/
-* https://www.bibliacatolica.com.br/
-* https://bibliaestudos.com/
-* https://novabiblia.com.br/
-* https://claret.org.br/biblia
-* https://www.bibliaonline.com.br/
-* http://www.receitas-portuguesas.com/
-* https://www.jw.org/pt/biblioteca/biblia/biblia-de-estudo/livros/
-* https://www.dicionariodenomesproprios.com.br/
-* https://www.oracaoefe.com.br/biblia-online/
-* [bibliasagradamulher](https://play.google.com/store/apps/details?id=br.com.tunglabs.bibliasagrada.mulher&hl=pt_BR&gl=US) - Bible App
-
-***
-
-## Portuguese Dictionaries / Thesaurus
-
-* https://dicionario.priberam.org/
-* https://www.infopedia.pt/
-* https://aulete.com.br/
-* https://www.lexico.pt/
-* https://dicionario.acad-ciencias.pt/
-* https://www.dicio.com.br/
-* https://dicionariocriativo.com.br/
-* https://www.significados.com.br/
-* https://www.significadosesinonimos.com.br/
-* https://www.sonhos.com.br/
-* https://sonhar.info/
-* https://www.significadodesonhos.net/
-* https://conceito.de/
-* https://www.dicionariodesimbolos.com.br/
-* https://www.dicio.com.br/
-* https://www.simbolos.com.br/
-* https://www.significadodascores.com.br/
-* https://www.dicionario-sinonimo.com/
-* https://sinonimos-online.com/
-* https://www.sol.eti.br/index.html
-* https://www.dicionarioinformal.com.br/ (Slang)
-* https://www.politize.com.br/dicionario/ (Political)
-* http://dicionariomineires.com.br/ (Mining)
-* https://www.dicionariofinanceiro.com/ (Financial)
-* https://dicionarioindigena.blogspot.com/ (Indigenous)
-* https://www.antonimos.com.br/ (Antonyms)
-* https://www.sinonimos.com.br/ (Thesaurus)
-* https://sinonimos.woxikon.pt/ (Thesaurus)
-* https://www.dicionarioetimologico.com.br/ (Etymologies)
-* https://www.conjugacao.com.br/ (Verb Conjugations)
-
-***
-
-## Portuguese Grammar Tips & Lessons
-
-* https://portuguesaletra.com/
-* https://gramaticaonline.com.br/
-* http://www.blogdogramaticando.com/
-* https://showdegramatica.blogspot.com/
-* https://www.portugues.com.br/
-* https://www.soportugues.com.br/
-* https://www.gramatica.net.br/
-* https://grammarnet.com/
-
-***
-
-## Portuguese Recipes
-
-[amandocozinhar](https://www.amandocozinhar.com/2016/01/12-livros-de-culinaria-para-baixar.html), [Uniao](https://uniao.com.br/), [varandadobolo](https://varandadobolo.com.br/), [receitasnotadez](https://receitasnotadez.com.br/), [saborintenso](https://www.saborintenso.com/), [cozinhadonabenta](https://www.cozinhadonabenta.com.br/receitas-dona-benta/), [anamariabraga](https://anamariabraga.globo.com/), [vovopalmirinha](https://vovopalmirinha.com.br/), [gastronomias](http://www.gastronomias.com/receitas/), [tecnonoticias](https://tecnonoticias.com.br/downloads-de-receitas/), [tudoreceitas](https://www.tudoreceitas.com/), [tudogostoso](https://www.tudogostoso.com.br/), [receitasnestle](https://www.receitasnestle.com.br/), [panelinha](https://www.panelinha.com.br/), [receitasdecomida](https://www.receitasdecomida.com.br/), [cybercook](https://cybercook.com.br/), [culinaria](https://culinaria.terra.com.br/), [receitaseduguedes](https://www.receitas.eduguedes.com.br/), [teleculinaria](https://www.teleculinaria.pt/), [dietaereceitas](https://dietaereceitas.com.br/), [receitasdecomidas](https://www.receitasdecomidas.com.br/), [receiteria](https://www.receiteria.com.br/), [comidasimples](https://comidasimples.com.br/), [receitasagora](https://www.receitasagora.com.br/), [cantinhovegetariano](http://www.cantinhovegetariano.com.br/), [Emagrecer](https://emagrecercerto.com/)
 
 ***
 
