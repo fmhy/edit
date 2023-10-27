@@ -713,26 +713,27 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[Emojipedia](https://emojipedia.org/)**
 
-[EmojiBatch](https://www.emojibatch.com/), [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/), [Words2Emoji](https://www.words2emoji.com/), [PicMo](https://picmojs.com/), [Emoji Engine](https://www.emojiengine.com/), [GetEmoji](https://getemoji.com/)
-
-* [Emotes Everywhere](https://kellphy.com/projects/kee.html), [GenieEmoji](https://github.com/virejdasani/Geniemoji), [winMoji](https://www.winmoji.com/), [Geniemoji](https://virejdasani.github.io/Geniemoji/) - Emoji Managers
+* [Words2Emoji](https://www.words2emoji.com/) - Find Emojis by Text via GPT3
+* [Emoji Engine](https://www.emojiengine.com/) - Multilingual Emoji Search
+* [winMoji](https://www.winmoji.com/), [Geniemoji](https://virejdasani.github.io/Geniemoji/) - Emoji Managers
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party Parrot Emojis
 * [Pepe Server Archive](https://github.com/Overimagine1/pepe-server-archive) - Pepe Emojis
-* [MySmiles](http://mysmilies.com/) or [MazeGuy](https://www.mazeguy.net/smilies.html) - Oldschool Smiley's
+* [MySmiles](http://mysmilies.com/) or [MazeGuy](https://www.mazeguy.net/smilies.html) - Oldschool Emojis
 
 ***
 
 ## Encode / Decode URLs
 
-* ⭐ **[Universal Encoding Tool](https://unenc.com/)**
-* ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)**
-* ⭐ **[Ciphey](https://github.com/Ciphey/Ciphey)** - Universal Text Decryption
-* ⭐ **[Base64 Decode](https://www.base64decode.org/) - [Encode](https://www.base64encode.org/)**
-* ⭐ **Base64 Extensions** - [Chrome](https://chrome.google.com/webstore/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [2](https://chrome.google.com/webstore/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf), [3](https://chrome.google.com/webstore/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) / [Opera](https://addons.opera.com/en/extensions/details/base64-encode-and-decode/)
-* [Txtmoji](https://txtmoji.com/) - Text to Emoji Encryption
+* ⭐ **[Ciphey](https://github.com/Ciphey/Ciphey)** - Automated Decryption Tool
+* ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text
+* ⭐ **[Universal Encoding Tool](https://unenc.com/)** - Encode / Convert Text
+* ⭐ **[Base64 Decode](https://www.base64decode.org/) / [Encode](https://www.base64encode.org/)**, [2](https://base64.guru/) / [Dynamic](https://apps.maximelafarie.com/base64/) / [Chrome](https://chrome.google.com/webstore/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [2](https://chrome.google.com/webstore/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf), [3](https://chrome.google.com/webstore/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) / [Opera](https://addons.opera.com/en/extensions/details/base64-encode-and-decode/)
 
-[Online Tools](https://emn178.github.io/online-tools/index.html), [DenCode](https://dencode.com/), [Online UTF8 Tools](https://onlineutf8tools.com/), [age online](https://age-online.com/), [Universal Cyrillic decoder](https://2cyr.com/decode/?lang=en), [cryptii](https://cryptii.com/), [Enigma machine](https://observablehq.com/@tmcw/enigma-machine), [Base64 E/D](https://apps.maximelafarie.com/base64/), [Encode/Decode](https://toolbox.googleapps.com/apps/encode_decode/), [Base64.Guru](https://base64.guru/), [URL Decode Online](https://url-decode.com/), [URL Encode/Decode](https://www.url-encode-decode.com/), [Base64 encoder & decoder](https://www.64baser.com/), [Motobit](https://www.motobit.com/util/base64-decoder-encoder.asp)
+* [Txtmoji](https://txtmoji.com/) - Text to Emoji Encryption / Decryption
+* [cryptii](https://cryptii.com/) - Text / URL Encoding
+* [Online Tools](https://emn178.github.io/online-tools/index.html) - Text / URL Encoding and Decoding
+* [URL Decode](https://url-decode.com/) / [Encode](https://url-decode.com/tool/url-encode) - URL Encoding / Decoding
 
 ***
 
