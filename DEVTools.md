@@ -59,12 +59,8 @@
 * [Official Go Tutorial](https://go.dev/doc/tutorial/getting-started) or [Tutorial Edge Go](https://github.com/TutorialEdge/Go) - Go Programming Tutorials
 * [HowIStart Go](https://howistart.org/posts/go/1/) - Go Setup Guide
 * [Rust Learning](https://github.com/ctjhoa/rust-learning) - Rust Learning Resources
-* [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) - Rust Programming Guidebook
-* [Rustlings](https://rustlings.cool/) - Rust Learning Exercises
-* [min-sized-rust](https://github.com/johnthagen/min-sized-rust) - How-to Reduce Rust Binary Size
 * [Simple Regex](https://simple-regex.com/), [learn-regex](https://github.com/ziishaned/learn-regex), [ReFrF](https://refrf.dev/), [Regex.info](http://regex.info/), [ReGexOne](https://regexone.com/), [RegExr](https://regexr.com/) or [RegexLearn](https://regexlearn.com/) - Learn Regex
 * [ReGeX](https://github.com/phikal/ReGeX) - ReGeX Learning Game / Android
-* [Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering) - Reverse Engineering Course 
 * [High Assurance Rust](https://highassurance.rs/) - Software Development Guide
 * [LearnOpenGL](https://learnopengl.com/) - Learn OpenGL
 * [Devops Exercises](https://github.com/bregman-arie/devops-exercises) - DevOps Exercises
@@ -301,38 +297,27 @@
 * [Read the Docs](https://about.readthedocs.com/), [MkDocs](https://www.mkdocs.org/), [Mintlify](https://mintlify.com/) or [mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - Documentation Creators / [Theme](https://github.com/squidfunk/mkdocs-material)
 * [Changie](https://changie.dev/) - Automated Changelog / [GitHub](https://github.com/miniscruff/changie)
 * [ChooseALicense](https://choosealicense.com/) - List of Open Source License's & Help Choosing Them 
-* [MKLicense](https://github.com/cezaraugusto/mklicense) - License Generation CLI
 * [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/) or [PrivacyLabel](https://www.privacylabel.org/) - Generate Privacy Policies
 * [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform
-* [Mysterium Network](https://www.mysterium.network/) - Open Web Protocols
-* [Webhook.site](https://webhook.site/) or [HookDeck](https://hookdeck.com/) - Webhook Tools
-* [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Draw Sequence Diagrams 
-* [ASCII Flow](https://asciiflow.com/) or [Tree](https://tree.nathanfriend.io/) - Create ASCII Diagrams
+* [Webhook.site](https://webhook.site/) - Webhook Tools
+* [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Draw Sequence Diagrams
 * [Egui Node Graph](https://github.com/setzer22/egui_node_graph) or [litegraph.js](https://github.com/jagenjo/litegraph.js) - Build Node Graphs
-* [Gorse](https://github.com/gorse-io/gorse) - Universal Recommendation System
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
 * [Deps.dev](https://deps.dev/) - Open Source Package Search
 * [pnpm](https://pnpm.io/) - Node.js Package Manager
 * [WebInstall](https://webinstall.dev/) - Easily Install Dev Packages
-* [Balena](https://www.balena.io/) - Build / Manage  IoT Groups
-* [Authorizer](https://github.com/authorizerdev/authorizer) or [DefGuard](https://defguard.net/) - Developer Authentication Apps
+* [Authorizer](https://github.com/authorizerdev/authorizer) - Developer Authentication Apps
 * [Infisical](https://infisical.com/) - Encrypted Secret Management Platform
 * [Earthly](https://earthly.dev/) - CD/CD Framework Pipeline
-* [Kubescape](https://github.com/kubescape/kubescape) - Kubernetes Tool
 * [Kubespray](https://github.com/kubernetes-sigs/kubespray) - Kubernetes Cluster
 * [Devtron](https://devtron.ai/) - Kubernetes Tool Integration
 * [Hajimari](https://hajimari.io/) - Kubernetes Startpage
 * [CFDocs](https://cfdocs.org/) - CFML Documentation Reference
 * [Input Delay Test](https://input-delay.glitch.me/) - Input Delay Experiment
 * [Asynchronous Messaging](https://github.com/clemensv/messaging) - Asynchronous Messaging Resources
-* [CoreFTP](http://www.coreftp.com/) - FTP Client
 * [Discord Devs: Community Resources](https://discord.com/developers/docs/topics/community-resources) - Integrate Services with Discord
-* [CodeBlockLang](https://hastebin.com/usofubagoh.ts) - Discord Code Blocks
-* [discord.py](https://github.com/Rapptz/discord.py), [Kord](https://github.com/kordlib/kord) or [Discord4J](https://discord4j.com/) - Discord API Wrapper
 * [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - Community Libraries for Discord API
-* [Javacord](https://javacord.org/) - Discord Bot Creation Library
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
-* [Sleepy Discord](https://github.com/yourWaifu/sleepy-discord) - C++ Library for Discord
 * [rss-to-activitypub](https://portal.0svc.com/convert/) - RSS to ActivityPub Converter
 * [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
 * [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulator
@@ -348,7 +333,7 @@
 * ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
 * ⭐ **[QuickRef.me](https://quickref.me/)**, [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
 * ⭐ **[30 Seconds of Code](https://www.30secondsofcode.org/)** or [HTML-Dom](https://phuoc.ng/collection/html-dom/) - Find Code Snippets
-* [Lepton](https://hackjutsu.com/Lepton/) - Code Snippet Manager / [GitHub](https://github.com/hackjutsu/Lepton)
+* [Lepton](https://hackjutsu.com/Lepton/) or [Pieces](https://pieces.app/) - Code Snippet Managers
 * [Google Cloud Developer's Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/) - Google Cloud Developer Cheat Sheet / [GitHub](https://github.com/priyankavergadia/google-cloud-4-words)
 * [Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - Code Algorithm Cheat Sheets
 * [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) or [SpeedSheet](https://speedsheet.io/) - Python Cheat Sheet
@@ -399,6 +384,7 @@
 * [Frontend Dogma](https://frontenddogma.com/tools/check/) or [Geekflare Tools](https://domsignal.com/toolbox) - Site Benchmarking Tools
 * [LambDatest](https://www.lambdatest.com/) - Cross Browser Testing Cloud
 * [Lenis](https://lenis.studiofreight.com/) - Smooth Scroll Library
+* [Open Source Guides](https://opensource.guide/) - Open Source Software Tips / [GitHub](https://github.com/github/opensource.guide)
 * [UXTweak](https://www.uxtweak.com/) - Website Design Usability Improvement Tool
 * [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [MagentaA11y](https://www.magentaa11y.com/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [A11ygator](https://a11ygator.chialab.io/) - Accessibility Evaluation Tools
 * [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
@@ -419,7 +405,6 @@
 * [WebUI](https://webui.me/) - Embed WebUI Libaries in Project
 * [Dagu](https://github.com/dagu-dev/dagu) - WebUI Job Manager
 * [httpbin](https://httpbin.org/) or [Requestbin](https://pipedream.com/requestbin) - HTTP Request & Response Service
-* [Illegal Analytics Scanner](https://illegal.analyticsscanner.com/) - Check if your Analytics Break Laws
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
 * [Easegress](https://github.com/megaease/easegress) - Traffic Orchestration System
 * [HITS](https://hits.seeyoufarm.com/) - Website Traffic Badges
@@ -446,7 +431,6 @@
 * [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - Mobile Friendly Page Test
 * [OneLinePlayer](https://onelineplayer.com/) - Vimeo / Dropbox Video Player
 * [SCM Music Player](https://www.scmplayer.net/) - Site Audio Players
-* [DriveProxy](http://driveproxy.net/) - GDrive Video iFrame Code Generator
 * [Stream Defence](https://www.streamdefence.com/) - Website Video Backup System
 * [MapBox](https://www.mapbox.com/) or [leafletjs](https://leafletjs.com/) - Live Maps, Location Search & More
 * [Maps-Core](https://openmobilemaps.io/) - Mobile Map SDK
@@ -455,7 +439,7 @@
 * [Medusa](https://github.com/medusajs/medusa) - Digital Commerce Development Tool
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
 * [Appwrite](https://appwrite.io/) or [Shuttle](https://www.shuttle.rs/) - Open-Source Backend Platforms
-* [squid](http://www.squid-cache.org/) - Caching Proxy / [MSI Installer](https://squid.diladele.com/) / [Site Blocking](http://www.thedumbterminal.co.uk/posts/2005/10/blocking_access_to_sites_when_using_squid.html) 
+* [squid](http://www.squid-cache.org/) - Caching Proxy / [MSI Installer](https://squid.diladele.com/)
 * [Check for Cloudflare](https://checkforcloudflare.selesti.com/) - Check Sites for Cloudflare
 * [CFScanner](https://github.com/MortezaBashsiz/CFScanner/), [scanner](https://ircfspace.github.io/scanner/) or [cf-ip-scanner-py](https://github.com/vfarid/cf-ip-scanner-py) - Cloudflare IP Scanners
 * [cloudflare-ip-tester-app](https://github.com/xianshenglu/cloudflare-ip-tester-app/) - Cloudflare IP Tester
@@ -484,7 +468,6 @@
 * [Amazon S3](https://aws.amazon.com/s3) - Cloud Object Storage Amazon Simple Service Storage / [Desktop](https://s3browser.com/)
 * [howtheyaws](https://github.com/upgundecha/howtheyaws) - List of How Organizations Use AWS
 * [QuickEmailVerification](https://quickemailverification.com/), [Email Marker](https://www.emailmarker.com/) or [ZeroBounce](https://www.zerobounce.net/) - Email Verification Service
-* [Block Temporary Email](https://block-temporary-email.com/) - Block Temp Mail Addresses
 * [Improvemx](https://improvmx.com/) - Domain Email Forwarding
 * [Microlink SDK](https://microlink.io/sdk) / [GitHub](https://github.com/microlinkhq/sdk), [React Tiny Link](https://winhtaikaung.github.io/react-tiny-link/) / [GitHub](https://github.com/winhtaikaung/react-tiny-link) or [Link Preview JS](https://github.com/ospfranco/link-preview-js) - Create Link Previews
 * [IP Intelligence](http://getipintel.com/) - Proxy / VPN / Bad IP Detection
@@ -894,7 +877,6 @@
 * [OctoLinker](https://octolinker.vercel.app/) - Make GitHub Code References Clickable
 * [Ugit](https://github.com/Bhupesh-V/ugit) - Undo Git Commands
 * [Octotree](https://www.octotree.io/) - GitHub Repo File Tree View
-* [GitHub File Acceleration](https://gh.api.99988866.xyz/)
 * [Onefetch](https://github.com/o2sh/onefetch) - Git Repo Summary in Terminal
 * [Nightly.link](https://nightly.link/) - GitHub Sharable Nightly Links
 * [Sourcegraph](https://about.sourcegraph.com/) - GitHub Repository Sourcegraph Editor 
