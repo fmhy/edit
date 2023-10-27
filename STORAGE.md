@@ -2482,7 +2482,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Skip Redirect
 
-* ⭐ **[Bypass All Shortlinks](https://greasyfork.org/en/scripts/431691)**
+* ⭐ **[Bypass All Shortlinks](https://greasyfork.org/en/scripts/431691)** / [Additional](https://greasyfork.org/en/scripts/443888)
 * ⭐ **[FastForward](https://fastforward.team/)** / [Discord](https://discord.gg/RSAf7b5njt)
 * ⭐ **[bypass.city](https://bypass.city/)** / [Discord](https://discord.com/invite/uMEtrpRvAf)
 * ⭐ **[bypass.vip](https://bypass.vip/)**
