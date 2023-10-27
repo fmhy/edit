@@ -551,6 +551,7 @@
 * [MediaTracker](https://github.com/bonukai/MediaTracker) - Self-Hosted Media Tracker
 * [Maloja](https://github.com/krateng/maloja) - Self-Hosted Audio Scrobbling
 * [libib](https://www.libib.com/) - Desktop Media Catalog
+* [AME](https://notabug.org/SuperSaltyGamer/ame) - Music Site Enhancement Userscripts
 
 ***
 
