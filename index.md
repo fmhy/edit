@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "FMHY"
-  text: "/r/freemediaheckyeah"
+  text: "freemediaheckyeah"
   tagline: The Largest Collection Of Free Stuff On The Internet!
   image:
     src: /test.png
