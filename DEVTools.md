@@ -9,6 +9,32 @@
 ***
 *** 
 
+# ► Cheat Sheets
+
+* 🌐 **[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)**, [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
+* ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
+* ⭐ **[QuickRef.me](https://quickref.me/)**, [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
+* ⭐ **[30 Seconds of Code](https://www.30secondsofcode.org/)** or [HTML-Dom](https://phuoc.ng/collection/html-dom/) - Find Code Snippets
+* [Lepton](https://hackjutsu.com/Lepton/) or [Pieces](https://pieces.app/) - Code Snippet Managers
+* [Google Cloud Developer's Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/) - Google Cloud Developer Cheat Sheet / [GitHub](https://github.com/priyankavergadia/google-cloud-4-words)
+* [Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - Code Algorithm Cheat Sheets
+* [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) or [SpeedSheet](https://speedsheet.io/) - Python Cheat Sheet
+* [cppreference](https://en.cppreference.com/w/) - C++ Cheat Sheets
+* [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app) - React Typescript Cheat Sheets
+* [Regex Hub](https://projects.lukehaas.me/regexhub/) or [IHateRegex](https://ihateregex.io/) - Regex Cheat Sheets
+* [SQL Cheat Sheet](https://i.ibb.co/Ctr0Tn8/e289a15e2246.jpg) - SQL Cheat Sheet
+* [CSS Cheat Sheet](https://docs.emmet.io/cheat-sheet/) or [CSS Tricks](https://css-tricks.com/snippets/) - CSS Cheat Sheet
+* [Easings](https://easings.net/) - CSS Animation Cheat Sheet
+* [BEM Cheat Sheet](https://bem-cheat-sheet.9elements.com/) - BEM Cheet Sheet 
+* [Vim Cheatsheet](https://i.ibb.co/FbdMMHN/460e75dd8543.png) or [rTorr](https://vim.rtorr.com/) - Vim Editor Cheat Sheets
+* [VimTip](https://vim.fandom.com/wiki/Category:VimTip) - Vim Editor Tips
+* [Underdash](https://surma.github.io/underdash/) - JS Snippets
+* [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
+* [HTML.com](https://html.com/) - HTML Guide / Cheat Sheet
+* [SEO Cheet Sheet](https://seo-cheat-sheet.9elements.com/) - SEO Cheet Sheet
+
+***
+
 # ► Courses / Tutorials
 
 * 🌐 **[ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources)** or [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)  - Programming Learning Resources
@@ -266,94 +292,7 @@
 
 ***
 
-# ► Developer Tools
-
-* 🌐 **[Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin)** - System Admin Resources
-* 🌐 **[Awesome Microservices](https://github.com/mfornos/awesome-microservices)** - Microservice Architecture Resources
-* 🌐 **[Awesome Subreddits](https://github.com/iCHAIT/awesome-subreddits)** - Programming Subreddits
-* 🌐 **[Awesome Bots](https://github.com/DopplerHQ/awesome-bots)** - Developer Bot Index
-* 🌐 **[Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)** - Design Pattern Resources
-* 🌐 **[Awesome DataScience](https://github.com/academic/awesome-datascience)** or [Best Data Science Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources) - Data Science Resources
-* 🌐 **[Awesome Bug Bounty Builder](https://github.com/0xJin/awesome-bugbounty-builder)** or [Bug Bounty](https://github.com/sehno/Bug-bounty) - Bug Bounty Resources
-* ↪️ **[Developer Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_developer_tools)**
-* ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists
-* [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - Open Source Development Software
-* [DevToys](https://github.com/ObuchiYuki/DevToysMac) or [DevUtils](https://devutils.com/) - Mac Dev Tools
-* [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
-* [Mage](https://www.mage.ai/) - Data Science Pipelines
-* [Libera Chat](https://libera.chat/) - IRC Network for Project Collaboration
-* [DevDeals](https://www.devdeals.org/) - Free Tools / Promotions for Developers
-* [CodeProject](https://www.codeproject.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/)  - Developer Forum
-* [Tech-Blogs](https://tech-blogs.dev/) - Blogs for Developers
-* [The Devs Network](https://thedevs.network/) - Developer Chat
-* [StackShare](https://stackshare.io/) - Tech Stack Collaboration
-* [Codever](https://www.codever.dev/) - Bookmarks Manager for Developers
-* [sli.dev](https://sli.dev/) - Markdown to Slideshow
-* [Volume](https://www.volumestories.com/) - Create Immersive Reading Experiences
-* [daily.dev](https://daily.dev/) - Replace New Tab Page with Developer Articles
-* [Hunspell](https://github.com/hunspell/hunspell) - Spellchecking Library
-* [Media Chrome](https://www.media-chrome.org/) - Media Player Elements / [GitHub](https://github.com/muxinc/media-chrome)
-* [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - README Template 
-* [Read the Docs](https://about.readthedocs.com/), [MkDocs](https://www.mkdocs.org/), [Mintlify](https://mintlify.com/) or [mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - Documentation Creators / [Theme](https://github.com/squidfunk/mkdocs-material)
-* [Changie](https://changie.dev/) - Automated Changelog / [GitHub](https://github.com/miniscruff/changie)
-* [ChooseALicense](https://choosealicense.com/) - List of Open Source License's & Help Choosing Them 
-* [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/) or [PrivacyLabel](https://www.privacylabel.org/) - Generate Privacy Policies
-* [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform
-* [Webhook.site](https://webhook.site/) - Webhook Tools
-* [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Draw Sequence Diagrams
-* [Egui Node Graph](https://github.com/setzer22/egui_node_graph) or [litegraph.js](https://github.com/jagenjo/litegraph.js) - Build Node Graphs
-* [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
-* [Deps.dev](https://deps.dev/) - Open Source Package Search
-* [pnpm](https://pnpm.io/) - Node.js Package Manager
-* [WebInstall](https://webinstall.dev/) - Easily Install Dev Packages
-* [Authorizer](https://github.com/authorizerdev/authorizer) - Developer Authentication Apps
-* [Infisical](https://infisical.com/) - Encrypted Secret Management Platform
-* [Earthly](https://earthly.dev/) - CD/CD Framework Pipeline
-* [Kubespray](https://github.com/kubernetes-sigs/kubespray) - Kubernetes Cluster
-* [Devtron](https://devtron.ai/) - Kubernetes Tool Integration
-* [Hajimari](https://hajimari.io/) - Kubernetes Startpage
-* [CFDocs](https://cfdocs.org/) - CFML Documentation Reference
-* [Input Delay Test](https://input-delay.glitch.me/) - Input Delay Experiment
-* [Asynchronous Messaging](https://github.com/clemensv/messaging) - Asynchronous Messaging Resources
-* [Discord Devs: Community Resources](https://discord.com/developers/docs/topics/community-resources) - Integrate Services with Discord
-* [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - Community Libraries for Discord API
-* [botwiki](https://botwiki.org/) - Learn How to Make Bots
-* [rss-to-activitypub](https://portal.0svc.com/convert/) - RSS to ActivityPub Converter
-* [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
-* [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulator
-* [Tesseract](https://tesseract-ocr.github.io/) - Open Source OCR Engine / [GitHub](https://github.com/tesseract-ocr/tesseract)
-* [CLIP-as-service](https://github.com/jina-ai/clip-as-service) - Embed Images / Sentences via CLIP Models
-* [devSwag](https://devswag.io/) - Developer Giveaways
-
-***
-
-## ▷ Cheat Sheets
-
-* 🌐 **[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)**, [HowDoI](https://github.com/gleitz/howdoi), [OverApi](https://overapi.com/) or [Cheat Sheets](http://www.cheat-sheets.org/) - Programming Cheat Sheets
-* ↪️ **[CLI Cheat Sheets](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_cli_cheat_sheets)**
-* ⭐ **[QuickRef.me](https://quickref.me/)**, [Dark Hamster](https://www.dark-hamster.com/) or [Devhints](https://devhints.io/) - Developer Cheat Sheets
-* ⭐ **[30 Seconds of Code](https://www.30secondsofcode.org/)** or [HTML-Dom](https://phuoc.ng/collection/html-dom/) - Find Code Snippets
-* [Lepton](https://hackjutsu.com/Lepton/) or [Pieces](https://pieces.app/) - Code Snippet Managers
-* [Google Cloud Developer's Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/) - Google Cloud Developer Cheat Sheet / [GitHub](https://github.com/priyankavergadia/google-cloud-4-words)
-* [Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - Code Algorithm Cheat Sheets
-* [Python Cheatsheet](https://github.com/gto76/python-cheatsheet) or [SpeedSheet](https://speedsheet.io/) - Python Cheat Sheet
-* [cppreference](https://en.cppreference.com/w/) - C++ Cheat Sheets
-* [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app) - React Typescript Cheat Sheets
-* [Regex Hub](https://projects.lukehaas.me/regexhub/) or [IHateRegex](https://ihateregex.io/) - Regex Cheat Sheets
-* [SQL Cheat Sheet](https://i.ibb.co/Ctr0Tn8/e289a15e2246.jpg) - SQL Cheat Sheet
-* [CSS Cheat Sheet](https://docs.emmet.io/cheat-sheet/) or [CSS Tricks](https://css-tricks.com/snippets/) - CSS Cheat Sheet
-* [Easings](https://easings.net/) - CSS Animation Cheat Sheet
-* [BEM Cheat Sheet](https://bem-cheat-sheet.9elements.com/) - BEM Cheet Sheet 
-* [Vim Cheatsheet](https://i.ibb.co/FbdMMHN/460e75dd8543.png) or [rTorr](https://vim.rtorr.com/) - Vim Editor Cheat Sheets
-* [VimTip](https://vim.fandom.com/wiki/Category:VimTip) - Vim Editor Tips
-* [Underdash](https://surma.github.io/underdash/) - JS Snippets
-* [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
-* [HTML.com](https://html.com/) - HTML Guide / Cheat Sheet
-* [SEO Cheet Sheet](https://seo-cheat-sheet.9elements.com/) - SEO Cheet Sheet
-
-***
-
-## ▷ Web Dev Tools
+# ► Web Dev Tools
 
 * 🌐 **[Awesome Static Generators](https://github.com/myles/awesome-static-generators)** - Static Site Resources
 * 🌐 **[Awesome PHP](https://github.com/ziadoz/awesome-php)** - PHP Resources
@@ -381,22 +320,9 @@
 * [Browser Default Styles](https://browserdefaultstyles.com/) - Default Browser Style Search
 * [Utom Design](https://utom.design/measure) - Sketch Measure
 * [WireFlow](https://wireflow.co/) - Flow Prototype Maker
-* [Frontend Dogma](https://frontenddogma.com/tools/check/) or [Geekflare Tools](https://domsignal.com/toolbox) - Site Benchmarking Tools
-* [LambDatest](https://www.lambdatest.com/) - Cross Browser Testing Cloud
 * [Lenis](https://lenis.studiofreight.com/) - Smooth Scroll Library
 * [Open Source Guides](https://opensource.guide/) - Open Source Software Tips / [GitHub](https://github.com/github/opensource.guide)
-* [UXTweak](https://www.uxtweak.com/) - Website Design Usability Improvement Tool
-* [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [MagentaA11y](https://www.magentaa11y.com/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [A11ygator](https://a11ygator.chialab.io/) - Accessibility Evaluation Tools
-* [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
-* [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) - Site Accessibility Guidelines
-* [CookieMetrix](https://www.cookiemetrix.com/) - EU Cookie Violation Test
-* [Violating GDPR](https://www.violating-gdpr.com/) - GDPR Violation Test
 * [SSLMate CAA](https://sslmate.com/caa/) - CAA Record Helper
-* [Color Oracle](https://colororacle.org/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Test
-* [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests
-* [Visual Mind AI](https://myraah.io/index.php/visualmind) - Site Visual Score
-* [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
-* [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
 * [free-website-translation](http://free-website-translation.com/), [transdict](http://transdict.com/meta/website.html) or [conveythis](https://www.conveythis.com/) - Website Translators
 * [Statically](https://statically.io/) - Load Websites Faster
 * [comepress](https://github.com/NayamAmarshe/comepress) - Optimize Sites Image Files
@@ -408,12 +334,6 @@
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
 * [Easegress](https://github.com/megaease/easegress) - Traffic Orchestration System
 * [HITS](https://hits.seeyoufarm.com/) - Website Traffic Badges
-* [Site Inspector](https://www.getsiteinspector.com/) - Check Site for Spelling / Grammatical Errors
-* [UX Check](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) - Site Heuristic Evaluation
-* [Responsive Viewer](https://responsiveviewer.org/) - Test Site on Multiple Screen Types / [Chrome](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en)
-* [Testmail](https://testmail.app/) - Site Signup Test
-* [Responsivize](https://virejdasani.github.io/Responsivize/) - Website Responsiveness Test
-* [PageSpeed](https://pagespeed.web.dev/), [SpeedVitals](https://speedvitals.com/), [PageSpeed Compare](https://pagespeed.compare/), [GTmetrix](https://gtmetrix.com/) or [Websu](https://websu.io/) - Test Webpage Speed
 * [Partytown](https://github.com/BuilderIO/partytown) - Relocate Scripts to Web Worker
 * [Tempesta FW](https://github.com/tempesta-tech/tempesta) - DDoS / Web Attack Protection
 * [Shisho](https://shisho.dev/) - Infrastructure Code Security Patcher
@@ -428,7 +348,6 @@
 * [Brython](https://brython.info/) - Python 3 Web Scripting Language
 * [BuiltWith](https://builtwith.com/) - Find Out What Sites are Built With
 * [Bug](https://auz.github.io/Bug/) - Add Crawling Bugs to Website
-* [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - Mobile Friendly Page Test
 * [OneLinePlayer](https://onelineplayer.com/) - Vimeo / Dropbox Video Player
 * [SCM Music Player](https://www.scmplayer.net/) - Site Audio Players
 * [Stream Defence](https://www.streamdefence.com/) - Website Video Backup System
@@ -456,8 +375,6 @@
 * [SuperTokens](https://supertokens.com/) or [Lucia](https://lucia-auth.com/) - User Authentication
 * [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO
 * [Discuzz](https://github.com/discuzz-app/discuzz) or [Remarkbox](https://www.remarkbox.com/) - Open Source Comment Systems
-* [DaButtonFactory](https://www.clickminded.com/button-generator/) or [ButtonOptimizer](https://buttonoptimizer.com/) - Button Generator
-* [GetButton](https://getbutton.io/) - Get free 'Message Us' Button for your Site
 * [Automated Incident Response](https://github.com/awslabs/aws-automated-incident-response-and-forensics) - Automated Incident Response and Forensics Framework
 * [CBox](https://www.cbox.ws/), [Typebot](https://typebot.io/), [Fonoster](https://fonoster.com/) or [Tawk](https://www.tawk.to/) - Embedded Chat App
 * [StackWhats](https://stackwhats.com/) - Add Whatsapp Chat to Your Site
@@ -480,7 +397,6 @@
 * [OffBase](https://offbase.org/) - Offline Web App Creator
 * [Laravel](https://laravel.com/) or [Lona](https://lona-web.org/1.x/) - Web App Framework
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
-* [LightHouse](https://github.com/GoogleChrome/lighthouse) - Web App Performance Test
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
 * [w3af](http://w3af.org/) or [ZAP](https://www.zaproxy.org/) - Web App Security Testing
 * [PWA Screenshot Generator](https://progressier.com/pwa-screenshots-generator) - Generate PWA Screenshots
@@ -507,6 +423,30 @@
 * [Timber](https://upstatement.com/timber/) - WordPress Theme Creator / [GitHub](https://github.com/timber/timber)
 * [KokoAnalytics](https://www.kokoanalytics.com/) - Wordpress Analytics
 * [UUID Tools](https://www.uuidtools.com/) - UUID Generator
+
+***
+
+## ▷ Color Schemes
+
+* 🌐 **[Colorful](https://github.com/Siddharth11/Colorful)** - Color Scheme Resources 
+* ↪️ **[Color Palette Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_palette_generators)**
+* ↪️ **[Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers)**
+* ⭐ **[ColorHexa](https://www.colorhexa.com/)** - Color Hex Encyclopedia  
+* ⭐ **[Realtime Colors](https://realtimecolors.com/)** - Preview Color Palettes
+* ⭐ **[SpyColor](https://www.spycolor.com/)** or [Colouris](https://colouris.surge.sh/) - Color Model Conversions
+* [ColorsAndFonts](https://www.colorsandfonts.com/) - Quickly Copy Colors & Typography Combinations 
+* [Paletton](https://paletton.com/) - Color Scheme Designer
+* [Duo](https://duo.alexpate.uk/) - Color Combinations
+* [Palettte](https://palettte.app/) - Color Palette Editor
+* [PaletteGenerator](https://palettegenerator.com/) or [Alwane](https://alwane.io/) - Color Palette Extractor
+* [Colorable](https://colorable.jxnblk.com/) / [GitHub](https://github.com/jxnblk/colorable), [accessible-color-matrix](https://toolness.github.io/accessible-color-matrix/) or [Accessible Brand Colors](https://abc.useallfive.com/) - Accessible Color Pallette Builders
+* [Simpler Color](https://github.com/arnelenero/simpler-color) - Create Web Color System
+* [ColorZilla](https://www.colorzilla.com/) - Color Picker, Gradient Generator & more
+* [Webgradients](https://webgradients.com/) - Gradients
+* [uiGradients](https://uigradients.com/) - Hex Gradients
+* [ShaderToy](https://www.shadertoy.com/browse) - User-Made Shaders
+* [Alphredo](https://alphredo.app/) - Create Translucent Colors
+* [Contrast Checker](https://contrast-checker.glitch.me/) or [contrastchecker](https://webaim.org/resources/contrastchecker/) - Background / Text Contrast Checker
 
 ***
 
@@ -616,6 +556,92 @@
 * [Media Wiki](https://www.mediawiki.org/), [xWiki](http://www.xwiki.org/xwiki/bin/view/Main/), [tWiki ](https://twiki.org/), [DokuWiki](https://www.dokuwiki.org/dokuwiki), [Miraheze](https://miraheze.org/) or [Fandom](https://www.fandom.com/) - Host Free Wiki
 * [HumHub](https://www.humhub.com) or [scuttlebutt](https://scuttlebutt.nz/) - Self-Hosted Social Network
 * [UNIT3D Community Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - Private Tracker Hosting
+
+***
+
+## ▷ Benchmark / Testing Tools
+
+* [Frontend Dogma](https://frontenddogma.com/tools/check/) or [Geekflare Tools](https://domsignal.com/toolbox) - Site Benchmarking Tools
+* [LambDatest](https://www.lambdatest.com/) - Cross Browser Testing Cloud
+* [Pa11y](https://pa11y.org/), [Wave](https://wave.webaim.org/), [MagentaA11y](https://www.magentaa11y.com/), [Andi](https://www.ssa.gov/accessibility/andi/help/install.html) or [A11ygator](https://a11ygator.chialab.io/) - Accessibility Evaluation Tools
+* [Accessibility Insights](https://accessibilityinsights.io/) - Fix Accessibility Issues
+* [Accessibility Cheatsheet](https://moritzgiessmann.de/accessibility-cheatsheet/) - Site Accessibility Guidelines
+* [CookieMetrix](https://www.cookiemetrix.com/) - EU Cookie Violation Test
+* [Violating GDPR](https://www.violating-gdpr.com/) - GDPR Violation Test
+* [Color Oracle](https://colororacle.org/) or [Toptal](https://www.toptal.com/designers/colorfilter) - Color Blindness Simulator / Test
+* [Web Vitals Leaderboard](https://vitals-leaderboard.pazguille.me/) or [Lighthouse Metrics](https://lighthouse-metrics.com/) - Website Performance Tests
+* [Visual Mind AI](https://myraah.io/index.php/visualmind) - Site Visual Score
+* [Prometheus](https://prometheus.io/) - Site Metrics / [Setup](https://thanos.io/)
+* [Carbon Calculator](https://www.websitecarbon.com/) - Estimate Sites Carbon Footprint
+* [Site Inspector](https://www.getsiteinspector.com/) - Check Site for Spelling / Grammatical Errors
+* [UX Check](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) - Site Heuristic Evaluation
+* [Responsive Viewer](https://responsiveviewer.org/) - Test Site on Multiple Screen Types / [Chrome](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en)
+* [Testmail](https://testmail.app/) - Site Signup Test
+* [Responsivize](https://virejdasani.github.io/Responsivize/) - Website Responsiveness Test
+* [PageSpeed](https://pagespeed.web.dev/), [SpeedVitals](https://speedvitals.com/), [PageSpeed Compare](https://pagespeed.compare/), [GTmetrix](https://gtmetrix.com/) or [Websu](https://websu.io/) - Test Webpage Speed
+* [Mobile-Friendly](https://search.google.com/test/mobile-friendly) - Mobile Friendly Page Test
+* [LightHouse](https://github.com/GoogleChrome/lighthouse) - Web App Performance Test
+
+***
+
+# ► Developer Tools
+
+* 🌐 **[Awesome Sys Admin](https://github.com/awesome-foss/awesome-sysadmin)** - System Admin Resources
+* 🌐 **[Awesome Microservices](https://github.com/mfornos/awesome-microservices)** - Microservice Architecture Resources
+* 🌐 **[Awesome Subreddits](https://github.com/iCHAIT/awesome-subreddits)** - Programming Subreddits
+* 🌐 **[Awesome Bots](https://github.com/DopplerHQ/awesome-bots)** - Developer Bot Index
+* 🌐 **[Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)** - Design Pattern Resources
+* 🌐 **[Awesome DataScience](https://github.com/academic/awesome-datascience)** or [Best Data Science Resources](https://github.com/Mohitkr95/Best-Data-Science-Resources) - Data Science Resources
+* 🌐 **[Awesome Bug Bounty Builder](https://github.com/0xJin/awesome-bugbounty-builder)** or [Bug Bounty](https://github.com/sehno/Bug-bounty) - Bug Bounty Resources
+* ↪️ **[Developer Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_developer_tools)**
+* ⭐ **[List.community](https://list.community/)** - Programming / Development GitHub Lists
+* [Open Source Alternatives](https://www.btw.so/open-source-alternatives) - Open Source Development Software
+* [DevToys](https://github.com/ObuchiYuki/DevToysMac) or [DevUtils](https://devutils.com/) - Mac Dev Tools
+* [Student Developer Pack](https://education.github.com/pack) - Free Developer Tools for Students
+* [Mage](https://www.mage.ai/) - Data Science Pipelines
+* [Libera Chat](https://libera.chat/) - IRC Network for Project Collaboration
+* [DevDeals](https://www.devdeals.org/) - Free Tools / Promotions for Developers
+* [CodeProject](https://www.codeproject.com/), [DEV Community](https://dev.to/) or [Blind](https://www.teamblind.com/)  - Developer Forum
+* [Tech-Blogs](https://tech-blogs.dev/) - Blogs for Developers
+* [The Devs Network](https://thedevs.network/) - Developer Chat
+* [StackShare](https://stackshare.io/) - Tech Stack Collaboration
+* [Codever](https://www.codever.dev/) - Bookmarks Manager for Developers
+* [sli.dev](https://sli.dev/) - Markdown to Slideshow
+* [Volume](https://www.volumestories.com/) - Create Immersive Reading Experiences
+* [daily.dev](https://daily.dev/) - Replace New Tab Page with Developer Articles
+* [Hunspell](https://github.com/hunspell/hunspell) - Spellchecking Library
+* [Media Chrome](https://www.media-chrome.org/) - Media Player Elements / [GitHub](https://github.com/muxinc/media-chrome)
+* [ReadMeTemplate](https://github.com/roshanlam/ReadMeTemplate) - README Template 
+* [Read the Docs](https://about.readthedocs.com/), [MkDocs](https://www.mkdocs.org/), [Mintlify](https://mintlify.com/) or [mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - Documentation Creators / [Theme](https://github.com/squidfunk/mkdocs-material)
+* [Changie](https://changie.dev/) - Automated Changelog / [GitHub](https://github.com/miniscruff/changie)
+* [ChooseALicense](https://choosealicense.com/) - List of Open Source License's & Help Choosing Them 
+* [PrivacyPolicyTemplate](https://www.privacypolicytemplate.net/) or [PrivacyLabel](https://www.privacylabel.org/) - Generate Privacy Policies
+* [Penpot](https://penpot.app/) - Cross Domain Design & Prototyping Platform
+* [Webhook.site](https://webhook.site/) - Webhook Tools
+* [WebSequenceDiagrams](https://www.websequencediagrams.com/) - Draw Sequence Diagrams
+* [Egui Node Graph](https://github.com/setzer22/egui_node_graph) or [litegraph.js](https://github.com/jagenjo/litegraph.js) - Build Node Graphs
+* [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
+* [Deps.dev](https://deps.dev/) - Open Source Package Search
+* [pnpm](https://pnpm.io/) - Node.js Package Manager
+* [WebInstall](https://webinstall.dev/) - Easily Install Dev Packages
+* [Authorizer](https://github.com/authorizerdev/authorizer) - Developer Authentication Apps
+* [Infisical](https://infisical.com/) - Encrypted Secret Management Platform
+* [Earthly](https://earthly.dev/) - CD/CD Framework Pipeline
+* [Kubespray](https://github.com/kubernetes-sigs/kubespray) - Kubernetes Cluster
+* [Devtron](https://devtron.ai/) - Kubernetes Tool Integration
+* [Hajimari](https://hajimari.io/) - Kubernetes Startpage
+* [CFDocs](https://cfdocs.org/) - CFML Documentation Reference
+* [Input Delay Test](https://input-delay.glitch.me/) - Input Delay Experiment
+* [Asynchronous Messaging](https://github.com/clemensv/messaging) - Asynchronous Messaging Resources
+* [Discord Devs: Community Resources](https://discord.com/developers/docs/topics/community-resources) - Integrate Services with Discord
+* [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - Community Libraries for Discord API
+* [botwiki](https://botwiki.org/) - Learn How to Make Bots
+* [rss-to-activitypub](https://portal.0svc.com/convert/) - RSS to ActivityPub Converter
+* [reddit-moderator-toolbox](https://github.com/toolbox-team/reddit-moderator-toolbox) - Toolbox for Reddit Extension Development
+* [Wokwi](https://wokwi.com/) - Arduino / ESP32 Board Simulator
+* [Tesseract](https://tesseract-ocr.github.io/) - Open Source OCR Engine / [GitHub](https://github.com/tesseract-ocr/tesseract)
+* [CLIP-as-service](https://github.com/jina-ai/clip-as-service) - Embed Images / Sentences via CLIP Models
+* [devSwag](https://devswag.io/) - Developer Giveaways
 
 ***
 
@@ -818,6 +844,64 @@
 
 ***
 
+## ▷ Cybersecurity Tools
+
+* 🌐 **[Awesome-Cyber-Security](https://github.com/fabionoth/awesome-cyber-security)**, [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/), [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources), [Infosec Resources](https://github.com/stong/infosec-resources) or [Anon Security](https://t.me/anon_server) - Cybersecurity Resources
+* 🌐 **[Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security)** - CI/CD Security Resources
+* ↪️ **[Security / Hacking News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_security_.2F_hacking_news)**
+* [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
+* [Advisory Database](https://github.com/github/advisory-database) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
+* [SSuite](https://spidersuite.github.io/SSuite/) - Web Security App
+* [osquery](https://github.com/osquery/osquery) - Security Monitor
+* [Nuclei](https://github.com/projectdiscovery/nuclei) or [NVD](https://nvd.nist.gov/) - Vulnerability Tracking / Scanning
+* [Crowdsec](https://crowdsec.net/) - Crowd-Sourced Intrusion Detection / Prevention / [GitHub](https://github.com/crowdsecurity/crowdsec)
+* [X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Security Threat Intelligence Platform
+* [ThreatMap](https://threatmap.checkpoint.com/) or [CyberMap](https://cybermap.kaspersky.com/) - Live Malware Distribution Maps
+* [VirusShare](https://virusshare.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malware Search
+* [The Void](https://www.thevoid.community/) - Software Incident Reports
+* [Fail2Ban](https://github.com/fail2ban/fail2ban) - Protect Servers from Brute Force Attacks
+* [Pentest Contracts](https://github.com/cure53/Contracts) - Security Contract Templates
+* [OpenSCA-CLI](https://github.com/XmirrorSecurity/OpenSCA-cli) - Composition Analysis for Third Party Components
+* [Unblob](https://unblob.org/) - Extraction Suite
+* [Security Onion Solutions](https://securityonionsolutions.com/), [Wazuh](https://wazuh.com/) or [Snyk](https://snyk.io/) / [GitHub](https://github.com/snyk/cli) - Site Security Monitor
+* [securitytxt](https://securitytxt.org/) - Create security.txt Files
+* [Greenbone](https://github.com/greenbone) - Vulnerability Management
+* [Teler](https://github.com/kitabisa/teler) - HTTP Intrusion Detection
+* [HTTPToolkit](https://httptoolkit.com/) - Debug, Test & Build with HTTP(S)
+* [IP Intelligence](http://getipintel.net/) - Malicious Web Traffic Protection
+* [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTP Sites Leak Information
+* [Cryptography](https://github.com/dint-dev/cryptography) - Dart and Flutter Cryptography Library
+* [Kali NetHunter](https://store.nethunter.com/en/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
+* [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
+* [MSTG](https://github.com/OWASP/owasp-mastg) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
+* [YASNAC](https://github.com/RikkaW/YASNAC) - SafetyNet Attestation Checker
+* [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App
+
+***
+
+## ▷ Database Tools
+
+* 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Resources
+* 🌐 **[Awesome Big Data](https://github.com/newTendermint/awesome-bigdata)** - Big Data Resources
+* [Grafana](https://grafana.com/), [Tigris Data](https://www.tigrisdata.com/) or [MongoDB](https://www.mongodb.com/) - Dev Data Dashboards
+* [DBeaver](https://dbeaver.io/) - Universal Database Tool
+* [HeidiSQL](https://www.heidisql.com/) - SQL Manager
+* [QueryStorm](https://querystorm.com/) - SQL and .NET programming in Excel
+* [Adminer](https://www.adminer.org/) - Database Manager
+* [RemoteMySQL](https://www.remotemysql.com/) - Remote MySQL Database
+* [DoIt](https://github.com/dolthub/dolt) - SQL Database
+* [DB4Free](https://db4free.net/), [sqlime](https://sqlime.org/) or [SQLFIddle](http://sqlfiddle.com/) - SQL Testing
+* [AI2SQL](https://app.ai2sql.io/) or [BlazeSQL](https://www.blazesql.com/) - SQL Generators
+* [franchise](https://franchise.cloud/) - SQL Notebook
+* [OceanBase](https://open.oceanbase.com/) - Relational Database / [GitHub](https://github.com/oceanbase/oceanbase)
+* [NocoDB](https://www.nocodb.com/) - Turn Database into Smart Spreadsheet / [GitHub](https://github.com/nocodb/nocodb)
+* [PooShock](http://pooshock.ru/) - Apache 2 Test Page
+* [GalleryProject](https://galleryrevival.com/) - Manage / Host Photos on Website
+* Generate Fake Data - [Ruby](https://github.com/faker-ruby/faker) / [Swift](https://github.com/vadymmarkov/Fakery)
+* [Redis](https://redis.io/) - Key-Value Database
+
+***
+
 ## ▷ Git Tools
 
 * 🌐 **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [grep.app](https://grep.app/), [awesome-lis](https://github.com/topics/awesome-list), [Console](https://console.substack.com/) or [awesome-github](https://github.com/fffaraz/awesome-github) - Git Project Indexes
@@ -929,88 +1013,6 @@
 * [yoctocolors](https://github.com/sindresorhus/yoctocolors) - Command Line Coloring Package
 * [open](https://github.com/sindresorhus/open) - Open URLs, Files, Executables in CLI or Scripts
 * [Hopa](https://github.com/krasimir/hopa) - Zero config CLI for running JavaScript / TypeScript
-
-***
-
-## ▷ Color Schemes
-
-* 🌐 **[Colorful](https://github.com/Siddharth11/Colorful)** - Color Scheme Resources 
-* ↪️ **[Color Palette Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_palette_generators)**
-* ↪️ **[Color Pickers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_color_pickers)**
-* ⭐ **[ColorHexa](https://www.colorhexa.com/)** - Color Hex Encyclopedia  
-* ⭐ **[Realtime Colors](https://realtimecolors.com/)** - Preview Color Palettes
-* ⭐ **[SpyColor](https://www.spycolor.com/)** or [Colouris](https://colouris.surge.sh/) - Color Model Conversions
-* [ColorsAndFonts](https://www.colorsandfonts.com/) - Quickly Copy Colors & Typography Combinations 
-* [Paletton](https://paletton.com/) - Color Scheme Designer
-* [Duo](https://duo.alexpate.uk/) - Color Combinations
-* [Palettte](https://palettte.app/) - Color Palette Editor
-* [PaletteGenerator](https://palettegenerator.com/) or [Alwane](https://alwane.io/) - Color Palette Extractor
-* [Colorable](https://colorable.jxnblk.com/) / [GitHub](https://github.com/jxnblk/colorable), [accessible-color-matrix](https://toolness.github.io/accessible-color-matrix/) or [Accessible Brand Colors](https://abc.useallfive.com/) - Accessible Color Pallette Builders
-* [Simpler Color](https://github.com/arnelenero/simpler-color) - Create Web Color System
-* [ColorZilla](https://www.colorzilla.com/) - Color Picker, Gradient Generator & more
-* [Webgradients](https://webgradients.com/) - Gradients
-* [uiGradients](https://uigradients.com/) - Hex Gradients
-* [ShaderToy](https://www.shadertoy.com/browse) - User-Made Shaders
-* [Alphredo](https://alphredo.app/) - Create Translucent Colors
-* [Contrast Checker](https://contrast-checker.glitch.me/) or [contrastchecker](https://webaim.org/resources/contrastchecker/) - Background / Text Contrast Checker
-
-***
-
-# ► Cybersecurity Tools
-
-* 🌐 **[Awesome-Cyber-Security](https://github.com/fabionoth/awesome-cyber-security)**, [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/), [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources), [Infosec Resources](https://github.com/stong/infosec-resources) or [Anon Security](https://t.me/anon_server) - Cybersecurity Resources
-* 🌐 **[Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security)** - CI/CD Security Resources
-* ↪️ **[Security / Hacking News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_security_.2F_hacking_news)**
-* [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
-* [Advisory Database](https://github.com/github/advisory-database) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
-* [SSuite](https://spidersuite.github.io/SSuite/) - Web Security App
-* [osquery](https://github.com/osquery/osquery) - Security Monitor
-* [Nuclei](https://github.com/projectdiscovery/nuclei) or [NVD](https://nvd.nist.gov/) - Vulnerability Tracking / Scanning
-* [Crowdsec](https://crowdsec.net/) - Crowd-Sourced Intrusion Detection / Prevention / [GitHub](https://github.com/crowdsecurity/crowdsec)
-* [X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Security Threat Intelligence Platform
-* [ThreatMap](https://threatmap.checkpoint.com/) or [CyberMap](https://cybermap.kaspersky.com/) - Live Malware Distribution Maps
-* [VirusShare](https://virusshare.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malware Search
-* [The Void](https://www.thevoid.community/) - Software Incident Reports
-* [Fail2Ban](https://github.com/fail2ban/fail2ban) - Protect Servers from Brute Force Attacks
-* [Pentest Contracts](https://github.com/cure53/Contracts) - Security Contract Templates
-* [OpenSCA-CLI](https://github.com/XmirrorSecurity/OpenSCA-cli) - Composition Analysis for Third Party Components
-* [Unblob](https://unblob.org/) - Extraction Suite
-* [Security Onion Solutions](https://securityonionsolutions.com/), [Wazuh](https://wazuh.com/) or [Snyk](https://snyk.io/) / [GitHub](https://github.com/snyk/cli) - Site Security Monitor
-* [securitytxt](https://securitytxt.org/) - Create security.txt Files
-* [Greenbone](https://github.com/greenbone) - Vulnerability Management
-* [Teler](https://github.com/kitabisa/teler) - HTTP Intrusion Detection
-* [HTTPToolkit](https://httptoolkit.com/) - Debug, Test & Build with HTTP(S)
-* [IP Intelligence](http://getipintel.net/) - Malicious Web Traffic Protection
-* [HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTP Sites Leak Information
-* [Cryptography](https://github.com/dint-dev/cryptography) - Dart and Flutter Cryptography Library
-* [Kali NetHunter](https://store.nethunter.com/en/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
-* [MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - App Pentesting Cheatsheet
-* [MSTG](https://github.com/OWASP/owasp-mastg) or [DVIA-v2](https://github.com/prateek147/DVIA-v2) - App Security Testing / Reverse Engineering
-* [YASNAC](https://github.com/RikkaW/YASNAC) - SafetyNet Attestation Checker
-* [AllSafe](https://github.com/t0thkr1s/allsafe) - Intentionally Vulnerable Android App
-
-***
-
-# ► Database Tools
-
-* 🌐 **[Awesome Opensource Data Engineering](https://github.com/gunnarmorling/awesome-opensource-data-engineering)** - Data Engineering Resources
-* 🌐 **[Awesome Big Data](https://github.com/newTendermint/awesome-bigdata)** - Big Data Resources
-* [Grafana](https://grafana.com/), [Tigris Data](https://www.tigrisdata.com/) or [MongoDB](https://www.mongodb.com/) - Dev Data Dashboards
-* [DBeaver](https://dbeaver.io/) - Universal Database Tool
-* [HeidiSQL](https://www.heidisql.com/) - SQL Manager
-* [QueryStorm](https://querystorm.com/) - SQL and .NET programming in Excel
-* [Adminer](https://www.adminer.org/) - Database Manager
-* [RemoteMySQL](https://www.remotemysql.com/) - Remote MySQL Database
-* [DoIt](https://github.com/dolthub/dolt) - SQL Database
-* [DB4Free](https://db4free.net/), [sqlime](https://sqlime.org/) or [SQLFIddle](http://sqlfiddle.com/) - SQL Testing
-* [AI2SQL](https://app.ai2sql.io/) or [BlazeSQL](https://www.blazesql.com/) - SQL Generators
-* [franchise](https://franchise.cloud/) - SQL Notebook
-* [OceanBase](https://open.oceanbase.com/) - Relational Database / [GitHub](https://github.com/oceanbase/oceanbase)
-* [NocoDB](https://www.nocodb.com/) - Turn Database into Smart Spreadsheet / [GitHub](https://github.com/nocodb/nocodb)
-* [PooShock](http://pooshock.ru/) - Apache 2 Test Page
-* [GalleryProject](https://galleryrevival.com/) - Manage / Host Photos on Website
-* Generate Fake Data - [Ruby](https://github.com/faker-ruby/faker) / [Swift](https://github.com/vadymmarkov/Fakery)
-* [Redis](https://redis.io/) - Key-Value Database
 
 ***
 
