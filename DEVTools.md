@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/Yykszjp)** - For mobile users
+**[Table of Contents](https://ibb.co/K6YsvRr)** - For mobile users
 
 ***
 *** 
@@ -559,7 +559,7 @@
 
 ***
 
-## ▷ Benchmark / Testing Tools
+## ▷ Benchmark Tools
 
 * [Frontend Dogma](https://frontenddogma.com/tools/check/) or [Geekflare Tools](https://domsignal.com/toolbox) - Site Benchmarking Tools
 * [LambDatest](https://www.lambdatest.com/) - Cross Browser Testing Cloud
