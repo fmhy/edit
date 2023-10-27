@@ -117,7 +117,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)** - Linux Privacy Guide
 **[File Encryption Tools](https://fmhy.pages.dev/storage/#file-encryption-tools)** - File Encryption Apps / Tools
 
-!!!note Note that a VPN is not needed outside of torrenting. You can avoid the need for one altogether by sticking to  direct download and streaming sites.
+!!!note Note that a VPN is not needed outside of torrenting. You can avoid the need for one altogether by sticking to direct download and streaming sites.
 
 ***
 
