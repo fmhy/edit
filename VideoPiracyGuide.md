@@ -388,7 +388,7 @@
 * ⭐ **[NBAHD](https://watchreplay.net/)** - Basketball
 * ⭐ **[NFL Replay](https://nflreplay.net/)** - Football
 * ⭐ **[WatchWrestling24](https://watchwrestling24.net/)** - MMA / Wrestling
-* ⭐ **[WatchWrestlingUp](https://watchwrestlingup.live/)** - MMA / Wrestling
+* ⭐ **[WatchWrestlingUp](https://watchwrestlingup.org/)** - MMA / Wrestling
 * ⭐ **[Race Replay](https://racereplay.net/)** - Motorsports
 * [SportsReplay](https://discord.com/invite/2r4pj67gCv) - Sports
 * [FullReplays](https://www.fullreplays.com/) - Soccer
@@ -400,7 +400,6 @@
 * [WatchWrestling.wtf](https://watchwrestling.wtf/) - MMA / Wrestling
 * [WatchWrestlingOnline](https://watchwrestlingonline.net/) - MMA / Wrestling
 * [FullFights](https://fullfights.net/) - MMA / Wrestling
-* [Full Fights](https://fullfights.net/) - MMA
 * [MMA High Kick](https://www.mmahighkick.com/) - MMA / Boxing
 * [Hula8](https://www.hula8.net/) - MMA
 * [Bellator](https://www.bellator.com/video) - MMA
@@ -492,15 +491,11 @@
 * [TotalSportek](https://totalsportek.pro/), [2](https://www.totalsportek.to/) - Sports
 * [NodelayTV](http://nodelaytv.pw/) - Sports
 * [Rojadirecta](https://www.rojadirecta.direct/) - Sports
-* [MyP2P](https://myp2p.at/) - Sports
 * [BoxingStreams100](https://boxings.boxingstreams100.com/) - Boxing
 * [NBA Streams](https://nbabox.tv/) - NBA
 * [NFL Streams](https://nflstreams.me/) - NFL
 * [MLB66](https://mlb66.ir/) - MLB
-* [LiveSoccer TV](https://www.livesoccertv.com/) - Soccer
-* [FootEM](https://www.footem.site/) - Soccer
 * [LaCasadelTikiTaka](https://www.lacasadeltikitaka.net/) - Soccer / MMA
-* [Cyfo Streams](http://www.cyfostreams.com/) - Soccer / Cycling
 * [Aceztrims](https://aceztrims.pages.dev/) - Motorsports
 * [DD12](https://dd12streams.com/) - Nascar
 * [NHLstream](https://nhlstream.net/) - NHL

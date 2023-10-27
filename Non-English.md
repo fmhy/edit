@@ -1101,7 +1101,6 @@
 * [Universia](https://www.universia.net) - Portuguese University Search
 * [Flutterando](https://github.com/Flutterando/roadmap) - Flutter Guides
 * [Escola Kids](https://escolakids.uol.com.br) - Kids Learning
-* [Portuguese Browser Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_browser_games)
 * [Atari2600](https://www.atari2600.com.br) - Browser Emulator
 * [Racha Cuca](https://rachacuca.com.br) - Puzzles / Trivia
 * [Plagiarisma](https://plagiarisma.net/pt/) - Plagiarism Checker
@@ -1265,14 +1264,10 @@
 * [Catraca Livre](https://catracalivre.com.br/criatividade/285-livros-de-comunicacao-para-download) - Communication / Culture Books
 * [Recanto das Letras](https://www.recantodasletras.com.br) - Text Archive
 * [RetroArquivo](https://retroarquivo.wordpress.com) - Portuguese Game Magazines
-* [Portuguese Dictionaries / Thesaurus' / Symbols](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_dictionaries_.2F_thesaurus)
-* [Portuguese Grammar Tips & Lessons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_grammar_tips_.26amp.3B_lessons)
-* [Portuguese Bibles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_bibles)
 * [Nomes Bíblicos](https://www.nomesbiblicos.com) - Biblical Name History
 * [Estudos Bíblicos](https://estudos-biblicos.net), [2](https://estudos-biblicos.blogspot.com) - Bible Studies
 * [Apologeta](https://www.apologeta.com.br) - Bible Commentary
 * [biblia.com.br](https://biblia.com.br) or [iGuga](https://www.iguga.org) - Biblical Dictionary
-* [Portuguese Recipe Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_portuguese_recipes)
 
 ***
 
@@ -1880,12 +1875,12 @@
 
 * [BiluTV](https://bilutv.link/) - Movies / TV / Anime
 * [MotChill](https://motchill.tv/) - Movies / TV
-* [PhimChill](https://phimmoichillb.net/) - Movies / TV
+* [PhimMoi](https://phimmoiyyy.net/) - Movies / TV
 * [XemPhim](https://xemphim.app/) - Movies / TV
 * [XemPhimPlus](https://xemphim.fun/) - Movies / TV
 * [LokLok](https://loklok.com/vi) - Movies / TV / Anime
 * [LuotPhim](https://luotphimtv1.com/) - Movies / TV
-* [NguonPhim](http://nguonphimday.com/)
+* [NguonPhim](http://nguonphim.live/)
 * [Phim1080](https://xem1080.com/) - Movies / TV
 * [HoatHinhTQ](https://hoathinhtrungquoc.top/) - Chinese Animation
 * [HHPanda](https://hhpanda.net/) - Chinese Animation
@@ -1930,16 +1925,16 @@
 * [DocTaiLieu](https://doctailieu.com/) - Educational Books / Documents
 * [Fecomic](https://fecomic.com/) - Manga / Manhwa / Manhua
 * [OCuMeo](https://www.ocumoe.com/) - Manga / Manhwa / Manhua
-* [HanulTruyen](https://hanultruyen.net/) - Manga / Manhwa / Manhua
-* [TruyenQQ](https://truyenqqq.vn/) - Manga / Manhwa / Manhua
-* [DichTruyen](https://dichtruyenpro03.com/), [2](https://dichtruyenhot.com/), [3](https://dichtruyenpro.com/) - Manga / Manhwa / Manhua
+* [HanulTruyen](https://hanultruyen.com/) - Manga / Manhwa / Manhua
+* [TruyenQQ](https://truyenqqvn.com/) - Manga / Manhwa / Manhua
+* [DichTruyen](https://dichtruyenpro05.com/) - Manga / Manhwa / Manhua / [Facebook](https://www.facebook.com/dichtruyenteam/)
 * [cuutruyen](https://cuutruyen.net/) - Manga
 * [teamlanhlung](https://teamlanhlung.com/) - Manga
 * [truyenvn](https://truyenvnhot.tv/) - Manga
 * [truyengihay](https://truyengihotne.com/) - Manga
 * [NetTruyen](http://www.nettruyengo.com/), [2](http://www.nettruyenmoi.com/), [3](https://www.nettruyento.com/) - Manga / Manhwa / Manhua
 * [TruyenFull](https://truyenfull.vn/) - Manga / Light Novels
-* [Hako](https://docln.net/), [2](https://novelvn.net/) - Light Novels
+* [Hako](https://docln.net/), [2](https://novelvn.net/) - Light Novels / [Facebook](https://www.facebook.com/groups/hako.group)
 * [ValvrareTeam](http://valvrareteam.com/) - Light Novels
 * [Babla](https://www.babla.vn/) - Dictionary
 * [VDict](https://vdict.com/) - Dictionary
