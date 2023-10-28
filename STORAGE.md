@@ -541,11 +541,11 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[7-Zip](https://www.7-zip.org/)**  - [Colab](https://github.com/dropcreations/7zip-in-Google-Colab) / [Dark Mode](https://github.com/huanrenfeng/7zipDarkmode) / [Benchmarks](https://s1.hoffart.de/7zip-bench/)
 * ⭐ **[NanaZip](https://github.com/M2Team/NanaZip)**
 * ⭐ **[PeaZip](https://peazip.github.io/)**
-* [WinRAR](https://www.win-rar.com/) - [Licenses](https://github.com/nbats/FMHYedit/blob/main/base64.md##winrar-licenses) / [Remove Pop-up](http://cooltricksb.blogspot.com/2015/03/how-to-remove-40-days-trial-period.html?m=1)
+* [WinRAR](https://www.win-rar.com/) - [Licenses](https://github.com/nbats/FMHYedit/blob/main/base64.md##winrar-licenses)
 * [TurboBench](https://github.com/powturbo/TurboBench) - Compression Benchmark
 * [Conversion Tutorial Index](https://fileforums.com/showthread.php?t=96782)
 
-[SuperCompression](https://supercompression.ru/), [Hamster ZIP Archiver](https://hamstersoft.com/), [unzip-online](https://unzip-online.com/en), [pigz](https://zlib.net/pigz/), [GNU Gzip](http://www.gnu.org/software/gzip/), [ezyZip](https://www.ezyzip.com/), [FreeArc](https://sourceforge.net/projects/freearc/), [UltraARC](https://www.fileforums.com/showpost.php?p=476660&postcount=1135), [p7zip-zstd](https://github.com/jinfeihan57/p7zip), [RazorX 2](https://fileforums.com/showthread.php?t=103577&highlight=Razorx), [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer), [bzip2](http://sourceware.org/bzip2/), [Bandizip](http://www.bandisoft.com/bandizip/), [TUGZip](http://www.tugzip.com/), [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd), [Unrar.online](https://unrar.online/), [IZArc](https://www.izarc.org/), [ZIP Extractor](https://zipextractor.app/), [Zipware](https://www.zipware.org/), [Efficient Compression Tool](https://github.com/fhanau/Efficient-Compression-Tool), [Minuimus](https://birds-are-nice.me/software/minuimus.html)
+[SuperCompression](https://supercompression.ru/), [Hamster ZIP Archiver](https://hamstersoft.com/), [unzip-online](https://unzip-online.com/en), [pigz](https://zlib.net/pigz/), [GNU Gzip](http://www.gnu.org/software/gzip/), [ezyZip](https://www.ezyzip.com/), [FreeArc](https://sourceforge.net/projects/freearc/), [UltraARC](https://www.fileforums.com/showpost.php?p=476660&postcount=1135), [p7zip-zstd](https://github.com/jinfeihan57/p7zip), [RazorX 2](https://fileforums.com/showthread.php?t=103577&highlight=Razorx), [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer), [bzip2](http://sourceware.org/bzip2/), [Bandizip](http://www.bandisoft.com/bandizip/), [TUGZip](http://www.tugzip.com/), [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd), [Unrar.online](https://unrar.online/), [IZArc](https://www.izarc.org/), [ZIP Extractor](https://zipextractor.app/), [Efficient Compression Tool](https://github.com/fhanau/Efficient-Compression-Tool), [Minuimus](https://birds-are-nice.me/software/minuimus.html)
 
 ***
 
@@ -711,24 +711,24 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Emoji Indexes
 
-* ⭐ **[Emojipedia](https://emojipedia.org/)**, [EmojiBatch](https://www.emojibatch.com/), [Emoji Engine](https://www.emojiengine.com/)
-* [Emotes Everywhere](https://kellphy.com/projects/kee.html), [GenieEmoji](https://github.com/virejdasani/Geniemoji), [winMoji](https://www.winmoji.com/), [Geniemoji](https://virejdasani.github.io/Geniemoji/) - Emoji Managers
+* ⭐ **[Emojipedia](https://emojipedia.org/)**, [2](https://www.emojibatch.com/)
+* [Emoji Engine](https://www.emojiengine.com/) - Multilingual Emoji Search
+* [Geniemoji](https://github.com/virejdasani/Geniemoji), [winMoji](https://www.winmoji.com/) - Emoji Managers
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party Parrot Emojis
 * [Pepe Server Archive](https://github.com/Overimagine1/pepe-server-archive) - Pepe Emojis
-* [MySmiles](http://mysmilies.com/) or [MazeGuy](https://www.mazeguy.net/smilies.html) - Oldschool Smiley's
+* [MySmiles](http://mysmilies.com/) or [MazeGuy](https://www.mazeguy.net/smilies.html) - Oldschool Emojis
 
 ***
 
 ## Encode / Decode URLs
 
-* ⭐ **[Universal Encoding Tool](https://unenc.com/)**
-* ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)**
-* ⭐ **[Ciphey](https://github.com/Ciphey/Ciphey)** - Universal Text Decryption
-* ⭐ **[Base64 Decode](https://www.base64decode.org/)** / [Encode](https://www.base64encode.org/) / [Chrome](https://chrome.google.com/webstore/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [2](https://chrome.google.com/webstore/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf), [3](https://chrome.google.com/webstore/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) / [Opera](https://addons.opera.com/en/extensions/details/base64-encode-and-decode/)
-* [Txtmoji](https://txtmoji.com/) - Text to Emoji Encryption
-* [cryptii](https://cryptii.com/) - Text / URL Encoding
-* [DenCode](https://dencode.com/) - Text / URL Encoding
+* ⭐ **[Ciphey](https://github.com/Ciphey/Ciphey)** - Automated Decryption Tool
+* ⭐ **[CyberChef](https://gchq.github.io/CyberChef/)** - Encode / Decode Text
+* ⭐ **[Universal Encoding Tool](https://unenc.com/)** - Encode / Convert Text
+* ⭐ **[Base64 Decode](https://www.base64decode.org/) / [Encode](https://www.base64encode.org/)** / [Dynamic](https://apps.maximelafarie.com/base64/) / [Chrome](https://chrome.google.com/webstore/detail/base64-encoderdecoder/afdannbjainhcddbjjlhamdgnojibeoi), [2](https://chrome.google.com/webstore/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf), [3](https://chrome.google.com/webstore/detail/clip64-base64-decoder/hdneaoibdfdmifgfjjlkbkceanhjmgch) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) / [Opera](https://addons.opera.com/en/extensions/details/base64-encode-and-decode/)
+* [Txtmoji](https://txtmoji.com/) - Text to Emoji Encryption / Decryption
+* [cryptii](https://cryptii.com/), [DenCode](https://dencode.com/) - Text / URL Encoding
 * [Online Tools](https://emn178.github.io/online-tools/index.html) - Text / URL Encoding and Decoding
 * [URL Decode](https://url-decode.com/) / [Encode](https://url-decode.com/tool/url-encode) - URL Encoding / Decoding
 
@@ -1198,7 +1198,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[SVG Repo](https://www.svgrepo.com/)** - SVG Vectors / Icons
 * ⭐ **[icons8](https://icons8.com/icons)**, **[Flaticon](https://www.flaticon.com/)**, **[Devicon](https://devicon.dev/)** or **[Glyphs](https://glyphs.fyi/)** - Customizable Dev Icons
 * ⭐ **[Alphacoders Avatars](https://avatars.alphacoders.com/)** - PFP Icons / GIFs
-
 * [IconPacks](https://www.iconpacks.net/), [ant.design](https://ant.design/components/icon/), [iconify](https://iconify.design/), [svgmix](https://svgmix.com/), [Iconbuddy](https://iconbuddy.app/) - Customizable SVG / PNG Icons
 * [IconArchive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [icon icons](https://icon-icons.com/), [icons-for-free](https://icons-for-free.com/), [Streamline](https://www.streamlinehq.com/), [dryicons](https://dryicons.com/), [icones](https://icones.js.org/) - Icon Packs
 * [flexiple](https://flexiple.com/illustrations/), [illlustrations](https://illlustrations.co/) - Vector Illustrations
@@ -2482,7 +2481,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Skip Redirect
 
-* ⭐ **[Bypass All Shortlinks](https://greasyfork.org/en/scripts/431691)**
+* ⭐ **[Bypass All Shortlinks](https://greasyfork.org/en/scripts/431691)** / [Additional](https://greasyfork.org/en/scripts/443888)
 * ⭐ **[FastForward](https://fastforward.team/)** / [Discord](https://discord.gg/RSAf7b5njt)
 * ⭐ **[bypass.city](https://bypass.city/)** / [Discord](https://discord.com/invite/uMEtrpRvAf)
 * ⭐ **[bypass.vip](https://bypass.vip/)**
@@ -3362,7 +3361,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ### Untouched ISOs
 
 * ⭐ **[MAS Index](https://massgrave.dev/genuine-installation-media.html)** / [ISO Request](https://discord.gg/Eq2dsgBkUJ) / [MSDL](https://massgrave.dev/msdl/)
-* ⭐ **[Bob Pony](https://bobpony.com/downloads/)**
 * [OS.click](https://os.click/) - [Discord](https://discord.com/invite/ZXaa3ADxXf)
 * [GezoeSloog](https://opendirectory.luzea.de/GezoeSloog/OS/)
 * [Microsoft](https://www.microsoft.com/en-us/software-download/)

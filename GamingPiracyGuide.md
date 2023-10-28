@@ -15,7 +15,9 @@
 
 # ► Download Games
 
-* 🌐 **[/r/PiratedGames Mega](https://rentry.org/pgames)** / [Discord](https://discord.gg/dZWwhUy), [privateersclub](https://megathread.pages.dev/) or [CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461) - Game Piracy Megas
+* 🌐 **[/r/PiratedGames Mega](https://rentry.org/pgames)** / [Discord](https://discord.gg/dZWwhUy) - Game Piracy Megathread
+* 🌐 **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** - Game Piracy Megathread
+* 🌐 **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Megathread
 * 🌐 **[Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games)** or [LibreGameWiki](https://libregamewiki.org/List_of_games) - Open-Source Games
 * 🌐 **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)** or [Game Clones](https://osgameclones.com/) - Open-Source Remakes
 * 🌐 **[Awesome Terminal Games](https://ligurio.github.io/awesome-ttygames/)** - ASCII Terminal Games
@@ -25,7 +27,6 @@
 * ⭐ **[CS.RIN.RU](https://cs.rin.ru/)** - Download / Forum / [Status](https://csrinstaff.writeas.com/) / [Enhancement Mod](https://github.com/SubZeroPL/cs-rin-ru-enhanced-mod)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Download
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Torrent / [Discord](https://discord.gg/hj8dU5BFHE) / pw: 1234
-* ⭐ **[CrackHub](https://crackhub.site/)** - Download / [Divolt](https://divolt.xyz/invite/82nEH5Sp) / [RSS](https://scene.crackhub.site/category/iso/feed/)
 * ⭐ **[GOG Games](https://gog-games.to/)** - Download / Torrent / [.onion](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
 * ⭐ **[Ova Games](http://www.ovagames.com/)** - Download / Use Adblocker
 * ⭐ **[VRPirates](https://t.me/vrpirates)** / [Wiki](https://wiki.vrpirates.club/), [ARMGDDN](https://t.me/ARMGDDNGames), [VRCarena](https://www.vrcarena.com/) or [SidequestVR](https://sidequestvr.com/) - VR Games / Guides
