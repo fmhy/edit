@@ -1,4 +1,5 @@
 import { defineLoader } from "vitepress";
+import { writeFile, readFile } from "fs/promises";
 
 interface Data {
   title?: string;
@@ -36,8 +37,10 @@ export default defineLoader({
         guides.add({ title, url });
       }
     }
-    return Object.fromEntries(
+    const obj = Object.fromEntries(
       [...guides.entries()].map((entry, index) => [index.toString(), entry]),
     );
+    await writeFile("./guides.json",JSON.stringify(obj, null, 4), "")
+    return await readFile("./guides.json", { encoding: "utf-8"})
   },
 });
