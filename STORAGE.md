@@ -3362,7 +3362,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 ### Untouched ISOs
 
 * ⭐ **[MAS Index](https://massgrave.dev/genuine-installation-media.html)** / [ISO Request](https://discord.gg/Eq2dsgBkUJ) / [MSDL](https://massgrave.dev/msdl/)
-* ⭐ **[Bob Pony](https://bobpony.com/downloads/)**
 * [OS.click](https://os.click/) - [Discord](https://discord.com/invite/ZXaa3ADxXf)
 * [GezoeSloog](https://opendirectory.luzea.de/GezoeSloog/OS/)
 * [Microsoft](https://www.microsoft.com/en-us/software-download/)
