@@ -1513,7 +1513,7 @@
 * [Guns's Cave](https://lacuevadeguns.com/forum/index.php?action=forum) - Video / Audio / Reading / Castilian
 * [Cultura Para Todos](https://culturaparatodos.eu/) - Video / Audio / Reading  
 * [Flipax2](https://flipax2.me/) - Video / Audio / Reading / Castilian
-* [Fiuxy2](https://fiuxy2.co/) - Video / Audio / Reading / NSFW / [Bypasser script](https://greasyfork.org/en/scripts/477591-adclicker-io-bypass)
+* [Fiuxy2](https://fiuxy2.co/) - Video / Audio / Reading / NSFW / [Bypasser script](https://greasyfork.org/en/scripts/477591)
 * [SeriesTV](https://www.seriestv.in/) - Video / Audio / Reading / NSFW
 * [La Taberna Del Cangrejo](http://www.latabernadelcangrejo.eu/) - Video / Audio
 * [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / Latino / Castilian
@@ -1524,9 +1524,9 @@
 * [mirandopeliculas](https://mirandopeliculas.com/) - Movies / TV / Latino
 * [TodoPelisHD](https://todopelishd.com/) - Movies / Latino
 * [Hackstore.me](https://www.hackstore.me/) - Movies / TV / Anime
-* [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino
+* [ProgramasVirtualesPC](https://www.programasvirtualespc.net/category/peliculas/) - Movies / TV / Latino / [Bypasser script](https://greasyfork.org/en/scripts/462492)
 * [MegaPeliculasRip](https://www.megapeliculasrip.net/) - Movies / Classics / TV / Animation
-* [SeiresHD](https://serieslandia.com/), [2](https://seireshd.com/) - Movies / TV / Animation / Latino / [Bypasser script](https://greasyfork.org/en/scripts/477591-bypass-seireshd-com-serieslandia-com-short-link-ad-paywall)
+* [SeiresHD](https://serieslandia.com/), [2](https://seireshd.com/) - Movies / TV / Animation / Latino / [Bypasser script](https://greasyfork.org/en/scripts/477591)
 * [Peliculas 480p](https://t.me/cinema480p) - Movies / Telegram / Latino
 * [DramasEmisiones](https://t.me/dramasemisiones), [2](https://t.me/Imundodoramas) - Asian Drama / Telegram
 * [RetroCanal](https://retrocanal.net/) - Classical Movies / TV
