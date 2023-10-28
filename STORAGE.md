@@ -1198,7 +1198,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[SVG Repo](https://www.svgrepo.com/)** - SVG Vectors / Icons
 * ⭐ **[icons8](https://icons8.com/icons)**, **[Flaticon](https://www.flaticon.com/)**, **[Devicon](https://devicon.dev/)** or **[Glyphs](https://glyphs.fyi/)** - Customizable Dev Icons
 * ⭐ **[Alphacoders Avatars](https://avatars.alphacoders.com/)** - PFP Icons / GIFs
-
 * [IconPacks](https://www.iconpacks.net/), [ant.design](https://ant.design/components/icon/), [iconify](https://iconify.design/), [svgmix](https://svgmix.com/), [Iconbuddy](https://iconbuddy.app/) - Customizable SVG / PNG Icons
 * [IconArchive](https://iconarchive.com/), [IconDuck](https://iconduck.com/), [icon icons](https://icon-icons.com/), [icons-for-free](https://icons-for-free.com/), [Streamline](https://www.streamlinehq.com/), [dryicons](https://dryicons.com/), [icones](https://icones.js.org/) - Icon Packs
 * [flexiple](https://flexiple.com/illustrations/), [illlustrations](https://illlustrations.co/) - Vector Illustrations
