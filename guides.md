@@ -9,8 +9,5 @@ import { data } from "./.vitepress/loaders/guides.data";
   <h2>Guides</h2>
   <br />
   <ul>
-    <li v-for"link in data">
-        <a :href="link.url">{{ link.title }}</a>
-    </li>
   </ul>
 </template>
