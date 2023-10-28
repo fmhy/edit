@@ -1,5 +1,6 @@
 {
   "name": "fmhy",
+  "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
