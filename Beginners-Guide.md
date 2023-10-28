@@ -45,24 +45,21 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
  You can use [this](https://downloader.la/) if this doesn't work you can find similar stock image downloaders [here](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_stock_photo_sites).
 ***
 
-### Pirate Windows
+### Windows Piracy 
 
 **[Windows Piracy Guide](https://github.com/nbats/FMHYedit/blob/main/base64.md#windows-piracy-guides)** - Pirate windows
 **[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - Download Windows
 **[Windows Activation](https://massgrave.dev/#Method_1_-_PowerShell)** - Activate Windows 
 
-***
+#### Linux Piracy
 
-### Linux / MacOS Piracy
-
-#### Linux
 **[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_distros)** - Download Linux Distros 
 **[Linux Piracy](https://rentry.co/LinuxPiracy) / [Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** - Piracy Guide for Linux 
 **[Torrminatorr](https://forum.torrminatorr.com/) / [Kapital Sin](https://kapitalsin.com/)** - Download Linux Games
 **[TorrFlix](https://github.com/infinity-plus/TorrFlix)** - Torrent Streaming CLI
 **[ani-cli](https://github.com/pystardust/ani-cli)** - Anime Streaming Terminal
 
-#### MacOS
+#### MacOS Piracy
 
 **[AppsTorrent](https://appstorrent.ru/)** - Download MacOS Software
 **[Torrminatorr](https://forum.torrminatorr.com/)** - Download MacOS Games
