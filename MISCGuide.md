@@ -15,13 +15,13 @@
 * 🌐 **[BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR)** - Site / Tool Index
 * 🌐 **[Champagne Wiki](https://champagne.pages.dev/)** - Piracy Index / [Discord](https://discord.gg/cH3ZkVc3Gd) / [Guides](https://rentry.org/champagne_guides/)
 * 🌐 **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.ripped.guide/)
+* 🌐 **[Esoterica Avenue](https://ori5000.github.io/)** - Piracy Index / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * 🌐 **[/r/PiratedGames Mega](https://rentry.org/pgames)** / [Discord](https://discord.gg/dZWwhUy) - Game Piracy Megathread
 * 🌐 **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** - Game Piracy Megathread
 * 🌐 **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Megathread
 * 🌐 **[Wotaku](https://wotaku.moe/)** - Japanese Piracy Index / [Discord](https://discord.wotaku.moe/) - Japanese Piracy Index
 * 🌐 **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index
-* 🌐 **[Esoterica Avenue](https://ori5000.github.io/)** - Piracy Index / [Site List](https://rentry.org/EsotericaSiteList) / [Discord](https://discord.gg/enMG8bXUbn)
 * ↪️ **[Awesome List Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_awesome_lists)**
 * ↪️ **[Similar Site Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_similar_site_indexes)**
 * ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
