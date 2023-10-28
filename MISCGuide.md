@@ -708,8 +708,8 @@
 * [Text Link](https://piro.sakura.ne.jp/xul/textlink/index.html.en) - Make Non-Hyperlinked URL's Clickable 
 * [Link Alert](https://www.cwesson.net/projects/LinkAlert/) - Link Type Indicator 
 * [Mitaka](https://github.com/ninoseki/mitaka) - Domain Info Lookup Tool
-* [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete), [Consentomatic](https://consentomatic.au.dk/) or [I Don't Care About Cookies](https://github.com/Darthagnon/idontcareaboutcookies-backup) (Pre-Avast) - Auto Delete Cookies
-* [Cookie Quick Manager](https://github.com/ysard/cookie-quick-manager), [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - Cookies Manager
+* [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies), [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) or [Consentomatic](https://consentomatic.au.dk/) - Auto Delete Cookies
+* [Cookie Quick Manager](https://github.com/ysard/cookie-quick-manager), [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - Cookies Managers
 * [Get-cookies.txt](https://github.com/kairi003/Get-cookies.txt-LOCALLY) or [ExportCookies](https://github.com/rotemdan/ExportCookies) - Cookies Exporter
 * [Google Unblocked](https://github.com/Ibit-to/google-unlocked) - Uncensored Google Search
 * [Google search link fix](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_search_link_fix) - Prevent Search Pages from Modifying Result Links 
@@ -797,7 +797,7 @@
 * [hide-scrollbars](https://github.com/quinton-ashley/firefox-hide-scrollbars) - Hide Browser Scrollbar
 * [AutoPagerize Advanced](https://addons.mozilla.org/en-US/firefox/addon/autopagerizeadvanced/) - Merge Multiple Pages
 * [Profile Switcher](https://github.com/null-dev/firefox-profile-switcher) - Profile Manager
-* [I still don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) or [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Non-Avast Fork / Block Cookie Consent Popups
+* [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Non-Avast Fork / Block Cookie Consent Popups
 * [User-Agent Switcher](https://gitlab.com/ntninja/user-agent-switcher) - Easily Switch User-Agent
 * [SoundFixer](https://github.com/valpackett/soundfixer) - Fixes Audio Playing in 1 Channel
 * [Volume Control Tabs](https://github.com/vzze/volume-control) - Control Individual Tab Volume
