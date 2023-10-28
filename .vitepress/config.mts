@@ -42,6 +42,7 @@ export default defineConfig({
     outline: "deep",
     logo: "/fmhy.ico",
     nav: [
+      { text: "Beginners Guide", link: "/Beginners-Guide"},
       { text: "Glossary", link: "https://rentry.org/The-Piracy-Glossary" },
       { text: "Guides", link: "https://rentry.co/fmhy-guides" },
       { text: "Backups", link: "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/backups" },
