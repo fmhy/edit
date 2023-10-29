@@ -6,12 +6,12 @@ def replaces_for_beginners_guide(text):
     text = re.sub('\[TOC\]\n', '', text, flags=re.MULTILINE)
     text = re.sub('\*\*Table of Contents\*\*\n\[TOC2\]\n', '', text, flags=re.MULTILINE)
     text = re.sub('# -> \*\*\*Beginners Guide to Piracy\*\*\* <-\n', '', text, flags=re.MULTILINE)
-    text = re.sub(r"!!!note\s(.+?)\n", r"!!!\n\1\n!!!\n", text, flags=re.MULTILINE)
-    text = re.sub(r"!!!info\s(.+?)\n", r"!!!\n\1\n!!!\n", text, flags=re.MULTILINE)
-    text = re.sub(r"!!!warning\s(.+?)\n", r"!!!warning\n\1\n!!!\n", text, flags=re.MULTILINE)
+    text = re.sub(r"!!!note\s(.+?)\n", r":::tip\n\1\n:::\n", text, flags=re.MULTILINE)
+    text = re.sub(r"!!!info\s(.+?)\n", r":::info\n\1\n:::\n", text, flags=re.MULTILINE)
+    text = re.sub(r"!!!warning\s(.+?)\n", r":::warning\n\1\n:::\n", text, flags=re.MULTILINE)
     text = re.sub(r">\s(.+?)\n", r"> \1\n\n", text, flags=re.MULTILINE)
     text = re.sub('\*\*\[\^ Back to Top\]\(#beginners-guide-to-piracy\)\*\*', '', text, flags=re.MULTILINE)
-    text = re.sub("!!!\n!!!\n", "!!!\n", text, flags=re.MULTILINE)
+    text = re.sub(r"!!!\s(.+?)\n", r":::info\n\1\n:::\n", text, flags=re.MULTILINE)
     text = re.sub("\n\*\*\[", "\n* **[", text, flags=re.MULTILINE)
     return text
 
@@ -34,10 +34,10 @@ def change_some_general_formatting(text):
     text = re.sub('## ▷', '###', text)
     text = re.sub('####', '###', text)
 
-    text = re.sub(r'^\*\*Note\*\* - (.+)$', r'!!!\n\1\n!!!', text, flags=re.MULTILINE)
-    text = re.sub(r'^\* \*\*Note\*\* - (.+)$', r'!!!\n\1\n!!!', text, flags=re.MULTILINE)
-    text = re.sub(r'^Note - (.+)$', r'!!!\n\1\n!!!', text, flags=re.MULTILINE)
-    text = re.sub(r'^\*\*Warning\*\* - (.+)$', r'!!!warning\n\1\n!!!', text, flags=re.MULTILINE)
+    text = re.sub(r'^\*\*Note\*\* - (.+)$', r':::tip\n\1\n:::', text, flags=re.MULTILINE)
+    text = re.sub(r'^\* \*\*Note\*\* - (.+)$', r':::tip\n\1\n:::', text, flags=re.MULTILINE)
+    text = re.sub(r'^Note - (.+)$', r':::tip\n\1\n:::', text, flags=re.MULTILINE)
+    text = re.sub(r'^\*\*Warning\*\* - (.+)$', r':::warning\n\1\n:::', text, flags=re.MULTILINE)
 
     return text
 
