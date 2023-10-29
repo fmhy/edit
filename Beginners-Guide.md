@@ -52,7 +52,9 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[Windows ISOs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - Download Windows
 **[Windows Activation](https://massgrave.dev/#Method_1_-_PowerShell)** - Activate Windows 
 
-#### Linux Piracy
+***
+
+### Linux Piracy
 
 **[Linux Distros](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_linux_distros)** - Download Linux Distros 
 **[Linux Piracy](https://rentry.co/LinuxPiracy) / [Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** - Piracy Guide for Linux 
@@ -60,7 +62,9 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 **[TorrFlix](https://github.com/infinity-plus/TorrFlix)** - Torrent Streaming CLI
 **[ani-cli](https://github.com/pystardust/ani-cli)** - Anime Streaming Terminal
 
-#### MacOS Piracy
+***
+
+### MacOS Piracy
 
 **[AppsTorrent](https://appstorrent.ru/)** - Download MacOS Software
 **[Torrminatorr](https://forum.torrminatorr.com/)** - Download MacOS Games
