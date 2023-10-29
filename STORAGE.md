@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/923vx0b)** - For mobile users
+**[Table of Contents](https://ibb.co/xDxSsXq)** - For mobile users
 
 ***
 ***
@@ -380,20 +380,13 @@
 ## Calibre Libraries
 
 * ⭐ **[Calishot](https://eng.calishot.xyz/index-eng/summary)** - [Non-English](https://noneng.calishot.xyz/index-not-eng/summary)
+* [opencalibre](https://reddit.com/r/opencalibre) - [Search](https://www.shodan.io/search?query=server%3A+calibre) / [Web App](https://github.com/janeczku/calibre-web)
 
 http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8088/, http://207.237.122.161:8080/
 
-***
+### Calibre Tools
 
-## Calibre Tools
-
-* [Libraries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calibre_libraries), [2](https://reddit.com/r/opencalibre) - [Search](https://www.shodan.io/search?query=server%3A+calibre) / [Web App](https://github.com/janeczku/calibre-web)
-
-***
-
-## ChatGPT Discord Bots
-
-[Turing](https://github.com/TuringAI-Team/chatgpt-discord-bot), [Erin](https://erin.ac/), [SallyBot](https://github.com/DeSinc/SallyBot/)
+[ACSM Plugin](https://github.com/Leseratte10/acsm-calibre-plugin) / [Libre Plugin](https://github.com/poochinski9/libgen-calibre-store-plugin) / [Scraper](https://github.com/gnur/demeter)
 
 ***
 
@@ -429,33 +422,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)**
 
 [ArsClip](http://www.joejoesoft.com/vcms/97/), [ClipboardMemo](https://gitlab.com/fabrom/clipboardmemo), [CopyQ](https://hluk.github.io/CopyQ/), [Free Clipboard Viewer](https://freeclipboardviewer.com/), [ClipAngel](https://sourceforge.net/projects/clip-angel/), [XClipper](https://github.com/KaustubhPatange/XClipper), [MultiClipBoardSlots](https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots), [Clipboard Canvas](https://github.com/d2dyno1/ClipboardCanvas), [Xtra Clipboard](https://xtra-clipboard.com/), [Control V](https://ctrl.vi/), [Clipper](https://github.com/AkashRajpurohit/clipper)
-
-***
-
-## Clocks / Timers
-
-### World Clocks
-
-[NST](https://time.gov/), [Qlock](http://www.qlock.com/), [WorldTimeBuddy](https://www.worldtimebuddy.com/), [TheClockApp](https://theclockapp.vercel.app/), [TimeAndDate](https://www.timeanddate.com/), [EveryTime Zone](https://everytimezone.com/)
-
-### Fullscreen Clocks
-
-[FlipClockWeb](https://flipclock.tk/), [TheColourClock](http://thecolourclock.com/), [HexClock](https://www.jacopocolo.com/hexclock/)
-
-### Timers
-
-[e.gg Timer](https://e.ggtimer.com/), [Pomolectron](https://github.com/amitmerchant1990/pomolectron), [Pomodoro Kitty](https://pomodorokitty.com/), [Pomodor](https://pomodor.app/timer), [Hourglass](https://chris.dziemborowicz.com/apps/hourglass/), [Aesthetic Pomodoro](https://studywithme.io/aesthetic-pomodoro-timer/), [Juicy Timer](https://juicytimer.com/)
-
-### Date Calculators
-
-[How Many Days Since](http://howmanydayssince.net/), [DateTimeCalculator](https://datetimecalculator.net/calculators), [CalcuDater](https://calcudater.com/), [HowLongAgoGo](https://howlongagogo.com/), [Days.to](https://days.to/), [How Many Days Until](https://howmanydaysuntil.co/)
-
-### Alarm Clocks
-
-[SetAlarmClock](https://setalarmclock.net/), [OnlineClock](https://free-onlineclock.com/), [AlarmDJ](https://alarmdj.com/)
-
-* [StageTimer](https://stagetimer.io/) - Event Timer
-* [Countdowns](https://www.countdowns.live/) - Create Custom Countdowns
 
 ***
 
@@ -498,7 +464,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[supercolorpalette](https://supercolorpalette.com/)**
 
-[Colormind](http://colormind.io/), [SchemeColor](https://www.schemecolor.com/), [ColorSpace](https://mycolor.space/), [Material Palette](https://www.materialpalette.com/), [Adobe Color](https://color.adobe.com/), [0to255](https://0to255.com/), [Bootflat](https://bootflat.github.io/color-picker.html), [BrandColors](https://brandcolors.net/), [colorful gradients](https://colorfulgradients.tumblr.com/), [COLOURlovers](https://www.colourlovers.com/), [CoolHue](https://webkul.github.io/coolhue/), [Flat UI Colors 2](https://flatuicolors.com/), [Material UI](https://materialui.co/colors/), [Color Hunt](https://colorhunt.co/), [ColorsWall](https://colorswall.com/), [Pigment](https://pigment.shapefactory.co/), [Image to Color Palette Generator](http://www.patorjk.com/color-palette-generator/), [ColourCode](https://www.toptal.com/designers/colourcode/), [Colorscales](http://www.colorscales.com/), [colors.lol](https://colors.lol/), [Color Palette Generator](https://www.degraeve.com/color-palette), [ColorBox](https://colorbox.io/), [Eva Design System](https://colors.eva.design/), [Scale](https://hihayk.github.io/scale/), [calcolor.co](https://calcolor.co/), [Color Lisa](https://colorlisa.com/), [Cohesive Colors](https://javier.xyz/cohesive-colors/), [Color Leap](https://colorleap.app/), [ColorHuddle](https://colorhuddle.co/), [Coolors](https://coolors.co/), [UI Colors](https://uicolors.app/create), [Randoma11y](https://randoma11y.com/), [Pywal](https://github.com/dylanaraps/pywal), [ColorKit](https://colorkit.co/color-palette-generator/), [Huemint](https://huemint.com/), [accessiblepalette](https://accessiblepalette.com/), [colorcolor](https://colorcolor.in/), [copypalette](https://copypalette.app/), [couleur.io](https://couleur.io/), [poolors](https://poolors.com/), [easycolour](https://easycolour.app/), [goodpalette](https://goodpalette.io/), [hue.tools](https://hue.tools/), [huey](https://huey.design/), [Schemist](https://schemist.fglt.fr/)
+[SchemeColor](https://www.schemecolor.com/), [ColorSpace](https://mycolor.space/), [Adobe Color](https://color.adobe.com/), [0to255](https://0to255.com/), [Bootflat](https://bootflat.github.io/color-picker.html), [BrandColors](https://brandcolors.net/), [colorful gradients](https://colorfulgradients.tumblr.com/), [COLOURlovers](https://www.colourlovers.com/), [CoolHue](https://webkul.github.io/coolhue/), [Flat UI Colors 2](https://flatuicolors.com/), [Material UI](https://materialui.co/colors/), [Color Hunt](https://colorhunt.co/), [ColorsWall](https://colorswall.com/), [Pigment](https://pigment.shapefactory.co/), [Image to Color Palette Generator](http://www.patorjk.com/color-palette-generator/), [ColourCode](https://www.toptal.com/designers/colourcode/), [Colorscales](http://www.colorscales.com/), [colors.lol](https://colors.lol/), [Color Palette Generator](https://www.degraeve.com/color-palette), [ColorBox](https://colorbox.io/), [Eva Design System](https://colors.eva.design/), [Scale](https://hihayk.github.io/scale/), [calcolor.co](https://calcolor.co/), [Color Lisa](https://colorlisa.com/), [Cohesive Colors](https://javier.xyz/cohesive-colors/), [Color Leap](https://colorleap.app/), [ColorHuddle](https://colorhuddle.co/), [Coolors](https://coolors.co/), [UI Colors](https://uicolors.app/create), [Randoma11y](https://randoma11y.com/), [Pywal](https://github.com/dylanaraps/pywal), [ColorKit](https://colorkit.co/color-palette-generator/), [Huemint](https://huemint.com/), [accessiblepalette](https://accessiblepalette.com/), [colorcolor](https://colorcolor.in/), [copypalette](https://copypalette.app/), [couleur.io](https://couleur.io/), [poolors](https://poolors.com/), [easycolour](https://easycolour.app/), [goodpalette](https://goodpalette.io/), [hue.tools](https://hue.tools/), [huey](https://huey.design/), [Schemist](https://schemist.fglt.fr/)
 
 ***
 
@@ -593,29 +559,12 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Developer Tools
-
-* ⭐ **[Free for Developers](https://free-for.dev/)**
-* ⭐ **[JetBrains](https://jetbrains.com/)** - [Trial Script](https://gist.github.com/Gkhnzdmr/29fe3f1c4cf3d3984df4cf380e490074) / [License Server](https://github.com/crazy-max/docker-jetbrains-license-server)
-
-[Free-for-students](https://shalvah.me/Free-for-students/), [DevToys](https://devtoys.app/), [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse Foundation](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Developer Stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [Clean CSS](https://www.cleancss.com/), [Dev Resources](https://devresourc.es/), [Developer Tools and Resources](https://github.com/IliasHad/Developer-Tools-and-Resources), [FreeFormatter.com](https://freeformatter.com/), [Utilities and Tools Online](https://utilities-online.info/), [Free Online Tools for Everyone](https://online-toolz.com/), [String Functions](https://string-functions.com/), [Online String Tools](https://onlinestringtools.com/), [Convert String](https://convertstring.com/), [Coders Tool](https://www.coderstool.com/), [Coder’s Toolbox](https://coderstoolbox.net/), [elmah.io](https://elmah.io/tools/), [Prototypr](https://prototypr.io/toolbox/page/1), [AppDevTools](https://appdevtools.com/), [IT Tools](https://it-tools.tech/), [Addy](https://toolkit.addy.codes/), [toolki](https://toolki.com/en), [Coding Tools](https://coding.tools/), [Omatsuri](https://omatsuri.app/)
-
-***
-
 ## Dev YouTube Channels
 
 * ⭐ **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)**
 * ⭐ **[Frontend Developers](https://github.com/andrew--r/channels)** - JavaScript Development
 
 [Awesome-Youtube-Channels](https://github.com/epoyraz/Awesome-Youtube-Channels), [Web Dev / Programming YouTube Channels](https://rentry.co/cozqr), [Bro Code](https://www.youtube.com/@BroCodez), [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom), [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS)
-
-***
-
-## Discord Embed Generators
-
-* ⭐ **[Discohook](https://discohook.org/)** - [Discohook Utils](https://dutils.shay.cat/)
-
-[PSDiscord](https://github.com/EvotecIT/PSDiscord), [Embed Generator](https://message.style/)
 
 ***
 
@@ -635,7 +584,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 * ⭐ **[WizTree](https://www.diskanalyzer.com/)**
 
-[WinDirStat](https://windirstat.net/), [HDSentinel](https://www.hdsentinel.com/), [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/), [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html), [Gdu](https://github.com/dundee/gdu), [dua](https://github.com/Byron/dua-cli), [SpaceRadar](https://github.com/zz85/space-radar), [Diskovery](https://diskovery.io/), [DiskInfo](https://github.com/DiskTools/DiskInfo), [Erdtree](https://github.com/solidiquis/erdtree)
+[WinDirStat](https://windirstat.net/), [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/), [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html), [Gdu](https://github.com/dundee/gdu), [dua](https://github.com/Byron/dua-cli), [Diskovery](https://diskovery.io/), [DiskInfo](https://github.com/DiskTools/DiskInfo), [Erdtree](https://github.com/solidiquis/erdtree)
 
 ***
 
@@ -1316,14 +1265,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 [LibreSpeed](https://librespeed.org/), [Xfinity Speed Test](https://speedtest.xfinity.com/), [DLS Reports](http://www.dslreports.com/tools), [Bandwidth Place](https://www.bandwidthplace.com/), [Speedtest](https://www.speedtest.net/), [wifiman](http://wifiman.com/), [Net Speed Meter](https://www.microsoft.com/en-gb/p/app/9nmbx01pxz4l), [PeerFast](https://diegorbaquero.github.io/PeerFast/) (P2P), [Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker), [GoogleFiber](http://speedtest.googlefiber.net/), [speedtestcustom](https://pcmag.speedtestcustom.com/), [SpeedOf.Me](https://speedof.me/), [BroadbandSpeedChecker](https://broadbandspeedchecker.co.uk/), [speed.io](https://speed.io/), [att](https://www.att.com/support/speedtest/), [speedcheck](https://www.speedcheck.org/), [testmyspeed](https://testmyspeed.onl/), [testmy](https://testmy.net/), [Meter](https://www.meter.net/), [CIRA](https://performance.cira.ca/), [Speedsmart](https://speedsmart.net/), [OpenSpeedTest](https://openspeedtest.com/)
 
-### Android Apps
-
-[FAST](https://play.google.com/store/apps/details?id=com.netflix.Speedtest), [Meteor](https://play.google.com/store/apps/details?id=meteor.test.and.grade.internet.connection.speed), [FCC Speed Test](https://play.google.com/store/apps/details?id=com.samknows.fcc&hl=en_US&gl=US), [Simple Speed](https://play.google.com/store/apps/details?id=com.veeapps.simplespeed), [Speed Test Android](https://play.google.com/store/apps/details?id=pl.speedtest.android), [WiFi Meter](https://play.google.com/store/apps/details?id=com.internet.speedtest.check.wifi.meter)
-
-### iOS Apps
-
-[FCC Speed Test](https://apps.apple.com/us/app/fcc-speed-test/id794322383), [Iperf 3](https://apps.apple.com/us/app/iperf-3-wifi-speed-test/id1462260546), [Speedsmart](https://apps.apple.com/app/speed-test-speedsmart-wifi/id366593092), [SpeedSpeed](https://apps.apple.com/us/app/v-speed-speed-test/id930377055), [Speed Test Master](https://apps.apple.com/app/apple-store/id994788581), [Meteor](https://apps.apple.com/us/app/speed-test-by-meteor-wifi-4g/id1292709222)
-
 ***
 
 ## IP / DNS Leak Tests
@@ -1691,6 +1632,17 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[Download Helper](https://www.downloadhelper.net/)**
 
 [Video Downloader](https://provd.net/), [AddonCrop](https://addoncrop.com/v25/), [Cococut](https://cococut.net/), [skyload](http://skyload.io/), [SVD](https://chrome.google.com/webstore/detail/svd-video-downloader/jbialncfijnjojchcmhfmjgjggbbdghb/related?hl=en), [Video Downloader Professional](https://chrome.google.com/webstore/detail/video-downloader-professi/dlpiaeofjhnjeckpjcbhmnifdejoikpa), [Easy Video Downloader](https://add0n.com/easy-video-downloader.html), [y2monkey](https://github.com/jijirae/y2monkey), [FetchV](https://fetchv.net/), [MPMux](https://mpmux.com/)
+
+
+***
+
+## Multi Dev Tool Sites
+
+* ⭐ **[Free for Developers](https://free-for.dev/)**
+* ⭐ **[JetBrains](https://jetbrains.com/)** - [Trial Script](https://gist.github.com/Gkhnzdmr/29fe3f1c4cf3d3984df4cf380e490074) / [License Server](https://github.com/crazy-max/docker-jetbrains-license-server)
+
+[Free-for-students](https://shalvah.me/Free-for-students/), [DevToys](https://devtoys.app/), [SmallDev.tools](https://smalldev.tools/), [WebdevHome](https://webdevhome.github.io/), [Eclipse Foundation](https://www.eclipse.org/), [DevBox](https://intab.io/resources/), [Free Developer Stuff](https://freestuff.dev/), [Tiny Tools](https://tinytools.directory/), [Clean CSS](https://www.cleancss.com/), [Dev Resources](https://devresourc.es/), [FreeFormatter.com](https://freeformatter.com/), [Utilities and Tools Online](https://utilities-online.info/), [Free Online Tools for Everyone](https://online-toolz.com/), [Online String Tools](https://onlinestringtools.com/), [Coders Tool](https://www.coderstool.com/), [Prototypr](https://prototypr.io/toolbox/page/1), [AppDevTools](https://appdevtools.com/), [IT Tools](https://it-tools.tech/), [Addy](https://toolkit.addy.codes/), [Omatsuri](https://omatsuri.app/)
+
 
 ***
 
@@ -2549,7 +2501,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## Spotify Tools
 
-[Lyrics](https://versefy.app/) / [Spotify Companion](https://spotifytools.romanello.xyz/) / [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) / [Playlist Manager](https://skiley.net/) / [Playlist Converter](https://www.spotlistr.com/) / [Apple Music Playlist Converter](https://playlistor.io/) / [Playlist Words](https://spotifycloud.zamar-roura.com/) / [Dedup](https://spotify-dedup.com/) / [Backup](http://www.spotmybackup.com/), [2](https://github.com/watsonbox/exportify) / [Library Size](https://opslagify.deruever.nl/) / [Listening Stats](https://www.statsforspotify.com/), [2](https://volt.fm/), [3](https://spotistats.app/), [4](https://github.com/Yooooomi/your_spotify) / [Tier Lists](https://davitg.com/projects/tierify/) / [Song Country Search](https://kira.vercel.app/) / [Account Gen](https://github.com/HamzaAnis/go-spotify-account-generator), [2](https://github.com/davide-acanfora/spotify-account-generator), [3](https://github.com/ALIILAPRO/spotify-account-creator) / [Sync Accounts](https://github.com/yaronzz/SpotifySync) / [Canvas Downloader](https://canvastify.delitefully.com/) / [Export Tracks as Deezer Playlists](https://github.com/XDGFX/spotr) / [GitHub Display](https://github.com/kittinan/spotify-github-profile)
+[Lyrics](https://versefy.app/) / [Spotify Companion](https://spotifytools.romanello.xyz/) / [Playlist Randomizer](https://stevenaleong.com/tools/spotifyplaylistrandomizer) / [Playlist Manager](https://skiley.net/) / [Playlist Converter](https://www.spotlistr.com/) / [Apple Music Playlist Converter](https://playlistor.io/) / [Playlist Words](https://spotifycloud.zamar-roura.com/) / [Dedup](https://spotify-dedup.com/) / [Backup](http://www.spotmybackup.com/), [2](https://github.com/watsonbox/exportify) / [Library Size](https://opslagify.deruever.nl/) / [Listening Stats](https://www.statsforspotify.com/), [2](https://volt.fm/), [3](https://spotistats.app/), [4](https://github.com/Yooooomi/your_spotify) / [Tier Lists](https://davitg.com/projects/tierify/) / [Song Country Search](https://kira.vercel.app/) / [Account Gen](https://github.com/HamzaAnis/go-spotify-account-generator), [2](https://github.com/davide-acanfora/spotify-account-generator), [3](https://github.com/ALIILAPRO/spotify-account-creator) / [Sync Accounts](https://github.com/yaronzz/SpotifySync) / [Export Tracks as Deezer Playlists](https://github.com/XDGFX/spotr) / [GitHub Display](https://github.com/kittinan/spotify-github-profile)
 
 ### Spotify Adblockers
 
@@ -3411,7 +3363,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ### ReVanced App Builders
 
-[ReVanced Creator](https://github.com/XDream8/revanced-creator), [ReVanced Builder](https://mega.nz/file/Omxn2T6L##PAJJ5V_ricfBt78CSqg21rL6rt-hP9RIUWbSyspEqQk), [revanced-build-template](https://github.com/n0k0m3/revanced-build-template), [Docker-Py-ReVanced](https://github.com/nikhilbadyal/docker-py-revanced), [YT-AT](https://github.com/kakathic/YT-AT)
+[ReVanced Creator](https://github.com/XDream8/revanced-creator), [Docker-Py-ReVanced](https://github.com/nikhilbadyal/docker-py-revanced), [YT-AT](https://github.com/kakathic/YT-AT)
 
 ***
 
