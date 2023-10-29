@@ -37,22 +37,17 @@
 * [No-Signup Tools](https://www.nosignup.tools/) - No-Signup Tool Index
 * [Neverland](http://web.archive.org/web/20221116192138/http://www.neverland.ws/index.html) - Piracy Index
 * [StatsCrop](https://www.statscrop.com/websites/top-sites/), [DirtyWarez](https://dirtywarez.org/), [HypeStat](https://hypestat.com/alexa-rank), [TopMillion](http://www.topmillion.net/) or [CuteStat](https://www.cutestat.com/) - Site Rankings & Stats
-* [10 Words](https://discover.10words.io/) - App / Tool Discovery
-* [blooem](https://blooem.pages.dev/) / [2](https://blooem.its.moe) or [Pirate Haven](https://pirate-haven.github.io/) - Piracy Guides
+* [blooem](https://blooem.pages.dev/) / [2](https://blooem.its.moe) - Piracy Guides
 * [pilssken](https://pilssken.neocities.org/warez/) - Piracy Index
 * [The Pirate List](https://thepiratelist.com/) - Piracy Index
-* [DuckLink](https://ducklink.pages.dev/) - Piracy Index / [Mirror](https://rentry.org/ducklink)
-* [The Goods](https://discord.gg/zapJ4w3XBN) - Piracy Index
 * [Prospector](https://www.prospector.cz/) - Site / Tool Index 
 * [The More You Know](https://marckoxx.github.io/) - Site / Tool Index
 * [Size of Cat](https://sizeof.cat/links/) - Site / Tool Index
 * [5000 Best](http://5000best.com/websites/) - Site / [Tool](http://5000best.com/tools/) Index
 * [Peelopaalu](https://peelopaalu.neocities.org/) - Site / Tool Index
 * [RefDesk](https://www.refdesk.com/facts.html) - Site / Tool Index
-* [Cool Stuff I Found](https://rentry.org/cool-stuff-i-found-on-the-internet) - Site / Tool Index
 * [Cool Websites](https://rentry.co/cool_websites) - Site / Tool Index
 * [Product Hunt](https://www.producthunt.com/) - Site / Tool Index
-* [Mostly Free](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) - Site / Tool Index
 * [bajins](https://www.bajins.com/) - Chinese Site / Tool Index
 * [pomfcrawl](https://pomfcrawl.pythonanywhere.com/) - Site / Tool Index
 * [itch.io Tools](https://itch.io/tools/free) - Site / Tool Index
@@ -81,12 +76,6 @@
 * [PiracyBank](https://piracybank.org/websites) - List of sites tagged for copyright, mostly dead 
 * [Creamy's Homemade List](https://docs.google.com/document/d/1t10VI-sccy1CfAeMZHwmCS_7agIHFo_B5ipMjzsMtTg/edit) / [2](https://web.archive.org/web/20191130224152/https://pastebin.com/3e2RddP5), [ImageBoards](https://imageboards.net/), [Chan List](https://archive.is/Npzwl) or [imageboards.json](https://github.com/ccd0/imageboards.json/blob/gh-pages/imageboards.json) - Imageboard Index
 * [10kb Club](https://10kbclub.com/), [250kb Club](https://250kb.club/), [512kb Club](https://512kb.club/), [1MB Club](https://1mb.club/) - Websites that don't exceed a certain size
-* [LowTech Directory](https://emreed.net/LowTech_Directory.html) - Low Tech Site Index
-* [404PageFound](https://www.404pagefound.com/) - Old Site Indexes
-* [endoflife.date](https://endoflife.date/) - Tools & Technologies' End of life Index
-* [Museum of Failure](https://collection.museumoffailure.com/) - Failed Products Index
-* [KilledByGoogle](https://killedbygoogle.com/) - Dead Google Project Index
-* [KilledByMicrosoft](https://killedbymicrosoft.info/) - Dead Microsoft Project Index
 
 ***
 
@@ -98,8 +87,8 @@
 * ⭐ **[Unlimited Trials](https://rentry.co/unlimited-trials)** - Unlimited Free Trials Guide
 * ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/#/filter:&price/0/0)** - Games
 * [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-Claim Free Epic, Amazon, and GOG Games
-* [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) or [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Auto-Claim Free Epic Games
-* [Steam F2P](https://store.steampowered.com/genre/Free%20to%20Play/), [SteamGifts](https://www.steamgifts.com/) / [Auto Join](https://chrome.google.com/webstore/detail/autojoin-for-steamgifts/bchhlccjhoedhhegglilngpbnldfcidc?hl=en), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - Steam Games
+* [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Auto-Claim Free Epic Games
+* [SteamGifts](https://www.steamgifts.com/) / [Auto Join](https://chrome.google.com/webstore/detail/autojoin-for-steamgifts/bchhlccjhoedhhegglilngpbnldfcidc?hl=en), [/r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/)  - Steam Games
 * [FreeGames.codes](https://freegames.codes/) - Games / [Android](http://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes)
 * [IndieGala](https://freebies.indiegala.com/) - Games
 * [/r/freegames](https://www.reddit.com/r/freegames/) - Games
@@ -1328,6 +1317,12 @@
 * [Where's George?](https://www.wheresgeorge.com/) or [TrackDollar](http://trackdollar.com/) - Dollar Tracking
 * [WordCount](https://www.vidarholen.net/contents/wordcount/) - Most Common Linux kernal source code Words
 * [DeletedCity](http://deletedcity.net/) - Geocities Visualizer 
+* [LowTech Directory](https://emreed.net/LowTech_Directory.html) - Low Tech Site Index
+* [404PageFound](https://www.404pagefound.com/) - Old Site Indexes
+* [endoflife.date](https://endoflife.date/) - Tools & Technologies' End of life Index
+* [Museum of Failure](https://collection.museumoffailure.com/) - Failed Products Index
+* [KilledByGoogle](https://killedbygoogle.com/) - Dead Google Project Index
+* [KilledByMicrosoft](https://killedbymicrosoft.info/) - Dead Microsoft Project Index
 * [info.cern](http://info.cern.ch/) - First Website on the Internet
 
 ***
@@ -1420,6 +1415,7 @@
 * [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) - Terminal Color Scripts
 * [Bad Licenses](https://github.com/ErikMcClure/bad-licenses) - Funny Open Source Licenses Index
 * [Vim Cubed](https://github.com/oakes/vim_cubed) - Generate Cube Vim Text Editor
+* [Typewaiter](https://oisinmoran.com/typewaiter) - Endlessly Moving Typewriter
 * [Fontbutts](https://fontbutts.netlify.app/) - Create Butts with Different Fonts
 * [Do not open the door](http://mexicans.eu/) - Don't you dare...
 * [Dial Up Sound](https://www.dialupsound.com/) - Dial Up Sounds
