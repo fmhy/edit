@@ -247,18 +247,25 @@
 
 ***
 
-## ▷ SD Based Models
+## ▷ SD Models / Prompts
 
 * 🌐 **[CivitAI](https://civitai.com/)** or [Stable Diffusion Models](https://cyberes.github.io/stable-diffusion-models/) - SD Models Index
-* [Deliberate](https://civitai.com/models/4823/deliberate) - General Purpose
-* [DreamShaper](https://civitai.com/models/4384/dreamshaper) - Oil-Painting like Images
-* [AbsoluteReality](https://civitai.com/models/81458/absolutereality) - Realistic Images
-* [Realitic Vision](https://civitai.com/models/4201/realistic-vision-v51) - Realistic Images
-* [ReV Animated](https://civitai.com/models/7371/rev-animated) - Illustrations
-* [MonAI](https://monai.art/) - Artwork
-* [Counterfeit](https://civitai.com/models/4468/counterfeit-v30) - Anime Images
-* [MeinaMix](https://civitai.com/models/7240/meinamix) - Anime Girls / [Discord](https://discord.com/invite/meinaverse)
-* [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion-v1-4/) - Anime Girls
+* 🌐 **[PromptMania](https://promptomania.com/)**
+* ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** / [2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Determine Likely Used Image Prompts
+* ⭐ **[Lexica](https://lexica.art/)**
+* [PublicPrompts](https://publicprompts.art/) / [Discord](https://discord.com/invite/jvQJFFFx26)
+* [PicFinder](https://picfinder.ai/)
+* [SeaArt](https://www.seaart.ai/)
+* [PixAI](https://pixai.art/)
+* [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images)
+* [One More AI](https://onemoreai.flutterflow.app/)
+* [Maze.guru](https://maze.guru/gallery)
+* [ArtHub.ai](https://arthub.ai/)
+* [Vitalentum](https://vitalentum.net/)
+* [POKEIT](https://pokeit.ai/)
+* [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz)
+* [Prompt Book](https://openart.ai/discovery) / [Discord](https://discord.com/invite/yTMNvk5z97)
+* [PTSearch](https://www.ptsearch.info/tags/list/)
 
 ***
 
@@ -305,28 +312,7 @@
 * [MemeCam](https://www.memecam.io/) - AI Meme Generator
 * [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [ThreeStudio](https://github.com/threestudio-project/threestudio) - 3D Image Generators
 * [Interiorai](https://interiorai.com/) - AI Interior Design Tool
-* [Glaze](https://glaze.cs.uchicago.edu/index.html) - Protect Digital Art from AI Copies
-  
-***
-
-## ▷ Prompts / Galleries
-
-* 🌐 **[PromptMania](https://promptomania.com/)**
-* ⭐ **[CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)** / [2](https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2) - Determine Likely Used Image Prompts
-* ⭐ **[Lexica](https://lexica.art/)**
-* [PublicPrompts](https://publicprompts.art/) / [Discord](https://discord.com/invite/jvQJFFFx26)
-* [PicFinder](https://picfinder.ai/)
-* [SeaArt](https://www.seaart.ai/)
-* [PixAI](https://pixai.art/)
-* [Laion](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images)
-* [One More AI](https://onemoreai.flutterflow.app/)
-* [Maze.guru](https://maze.guru/gallery)
-* [ArtHub.ai](https://arthub.ai/)
-* [Vitalentum](https://vitalentum.net/)
-* [POKEIT](https://pokeit.ai/)
-* [Krea](https://search.krea.ai/) / [Discord](https://discord.gg/rJurUAR8Kz)
-* [Prompt Book](https://openart.ai/discovery) / [Discord](https://discord.com/invite/yTMNvk5z97)
-* [PTSearch](https://www.ptsearch.info/tags/list/)
+* [Glaze](https://glaze.cs.uchicago.edu/index.html) - Protect Digital Art from AI Copies 
 
 ***
 
