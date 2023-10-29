@@ -276,7 +276,7 @@
 ## ▷ Indexers
 
 * 🌐 **[Indexer List](https://www.reddit.com/r/usenet/wiki/indexers#wiki_free_membership_sites)** - Indexer List
-* [NZBHydra2](https://github.com/theotherp/nzbhydra2) / [2](https://github.com/theotherp/nzbhydra) - NZB Meta search
+* [NZBHydra2](https://github.com/theotherp/nzbhydra2) - NZB Meta search
 * [nzbplanet](https://nzbplanet.net/)
 * [orionoid](https://orionoid.com/)
 * [binsearch](http://binsearch.info/)
@@ -297,7 +297,6 @@
 * [althub](https://althub.co.za) - Unlimited Free Trials
 * [nZEDb](https://github.com/nZEDb/nZEDb) - Self-Hosted
 * [Spotweb](https://github.com/spotweb/spotweb) - Spotnet Client
-* [TeleHack](https://telehack.com/) - File Explorer / [Wiki](https://en.wikipedia.org/wiki/Telehack)
 * [/r/usenet](https://reddit.com/r/usenet)
 * [/r/UsenetInvites](https://reddit.com/r/UsenetInvites)
 
@@ -309,7 +308,6 @@
 * [xsusenet](https://xsusenet.com/)
 * [usenet.farm](https://usenet.farm/#trial)
 * [Free Trials](https://www.ngprovider.com/free-usenet-trials.php)
-
 
 ## ▷ Downloaders
 

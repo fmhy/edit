@@ -15,7 +15,6 @@
 * ↪️ **[Calculators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)**
 * ↪️ **[Weather Reports](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_weather_reports)**
 * ↪️ **[Calendars / Scheduling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calendars)**
-* ↪️ **[Clocks / Timers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_clocks_.2F_timers)**
 * ↪️ **[Productivity Trackers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_productivity_trackers)**
 * ↪️ **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)**
 * ↪️ **[Collaboration Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms)**
@@ -48,6 +47,8 @@
 * [tuxi](https://github.com/Bugswriter/tuxi) - Question & Answer CLI
 * [Carbon Independent](https://www.carbonindependent.org/) - Carbon Footprint Calculator
 * [KittySplit](https://www.kittysplit.com/en/) - Group Expense Splitting Calculator
+* [StageTimer](https://stagetimer.io/) - Event Timer
+* [Countdowns](https://www.countdowns.live/) - Create Custom Countdowns
 * [SleepyTime](https://sleepytime.cc/) - Bedtime Calculator
 * [A Bra That Fits](https://www.abrathatfits.org/calculator.php) - Bra Size Calculator
 * [The Sustainabilitist](https://sustainabilitist.com/) - Sustainability Resource Hub
@@ -118,6 +119,7 @@
 * ↪️ **[AI Text Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_text_generators)** 
 * ↪️ **[Image to Text](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_to_text)**
 * ↪️ **[Emoji Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_emoji_indexes)**
+* ↪️ **[Font Downloads](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA__fonts)**
 * ↪️ **[Unicode Characters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_unicode_characters)** / [Fonts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_unicode_font_generators)
 * ↪️ **[ASCII Art Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ascii_art_creators)**
 * ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Gemlog](https://gemlog.blue/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps
@@ -144,15 +146,7 @@
 * [SubjectiveSort](https://wiesenthal.github.io/SubjectiveSort/) - Create Ranked List from CSV
 * [VisiData](https://github.com/saulpw/visidata) - Spreadsheet CLI Editor
 * [TadViewer](https://www.tadviewer.com/) - View and Analyze Tabular Data
-* [Read File Online](http://www.readfileonline.com/) - Online Large Text File Viewer
-* [PublicNote](https://publicnote.com/) - View / Edit Public Texts
-* [Office Search](https://www.enselsoftware.com/product/OfficeSearch.html) - Multi-File Text Search
-* [PDF Keywords Extractor](https://github.com/bendersej/pdf-keywords-extractor) - PDF File Text Search
-* [ConvertText](https://converttext.io/) - Text Converter
-* [Text File Splitter](https://textfilesplitter.com/) - Text File Splitter
-* [phraseup](https://www.phraseup.com/) - Autocomplete Common Phrases
-* [Text Generator](https://deepai.org/machine-learning-model/text-generator) - Generate Text from Prompt
-* [Random Poem](https://random-poem.com/) - Poem Generator
+* [Office Search](https://sourceforge.net/projects/office-search/) - Multi-File Text Search
 * [Twinery](https://twinery.org/) - Interactive Non-Linear Story Creator
 * [Infinite Story](https://infinite-story.com/), [Storylocks](https://www.storylocks.com/) or [WriteAlong](https://www.writealong.io/) - Collaborative Story Writing
 * [Blackout Poetry](https://blackoutpoetry.glitch.me/) - Blackout Poetry Creator
@@ -164,26 +158,18 @@
 * [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Fantasy Name Generators
 * [PolyGlot](https://draquet.github.io/PolyGlot/) or [VulgarLang](https://www.vulgarlang.com/) - Spoken Language Construction Tools
 * [Awkwords](http://akana.conlang.org/tools/awkwords/) or [IdeaGenerator](https://ideagenerator.creativitygames.net/) - Word Generators
-* [Lorem Ipsum Generator](https://apps.maximelafarie.com/lig/), [DevLorem](https://github.com/Kovah/DevLorem) or [Lorem Ipsum](https://www.lipsum.com/) - Generate Placeholder Text
+* [DevLorem](https://github.com/Kovah/DevLorem) - Generate Placeholder Text
 * [JeffSumm](https://jeffsum.com/) - Generate Jeff Goldblum Placeholder Text
-* [text-regenerator](https://github.com/jddunn/text-regenerator) - Replace Words with Synonyms
-* [Typoer](https://github.com/georgetian3/typoer) - Types Text with Typos / Corrections
-* [Typewaiter](https://oisinmoran.com/typewaiter) - Endlessly Moving Typewriter
 * [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - Annotation Tools / Resources
 * [Label Buddy](https://github.com/jeromedockes/labelbuddy) - Annotation Tool
-* [Lonliness Translate](https://loneliness.one/translate) - Re-translate Phrases
-* [InternetSlangTranslator](https://lingojam.com/InternetSlangTranslator2-0) - Translate Text to Slang
 * [The Pirate Translator](https://pirate.monkeyness.com/translate) - Translate Text to Pirate
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
-* [uwu]( https://github.com/Daniel-Liu-c0deb0t/uwu) - Text uwuifier
 * [typ3r](https://typ3r.aavi.me/) - tRaNSlAtE tEXT lik3 THiS
 * [Gematrinator](https://gematrinator.com/calculator) or [Gematrix](https://www.gematrix.org/) - Gematria Calculators
 * [SoftMyList](https://sortmylist.com/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
-* [FixSpell](https://www.fixspell.com/) - Convert US Spellings to International English
 * [Delim](https://delim.co/) - Comma Separating Tool
 * [Align Toolkit](http://phraseotext.univ-grenoble-alpes.fr/webAlignToolkit/index.php) - Create Parallel Text Web
-* [TextRepeater](https://textrepeater.com/) - Repeat Text
-* [Count Duplicates](https://www.somacon.com/p568.php), [DuplicateWord](https://duplicateword.com/) or [MyNikko](https://www.mynikko.com/tools/tool_duplicateremover.html) - Count / Remove Duplicates in a List
+* [Count Duplicates](https://www.somacon.com/p568.php) or [DuplicateWord](https://duplicateword.com/) - Count / Remove Duplicates in a List
 * [diffr](https://loilo.github.io/diffr/), [TextCompare](https://www.textcompare.org/), [Text-Compare](https://text-compare.com/) or [DiffNow](https://www.diffnow.com/) - Compare Text
 * [Count Wordsworth](https://countwordsworth.com/) - Count Words in a List
 * [OfficeDocs](https://www.offidocs.com/) - Runs Desktop / Mobile Apps Online
@@ -1197,11 +1183,11 @@
 * 🌐 **[DiscordTools](https://discordtools.io/)** or [awesome-discord](https://github.com/jacc/awesome-discord) - Discord Tool Indexes
 * 🌐 **[Discord3rdParties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)** - Discord Client Index
 * ↪️ **[Discord Server / Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists)**
-* ↪️ **[Discord ChatGPT Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chatgpt_discord_bots)**
-* ↪️ **[Discord Embed Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_embed_generators)**
+* ↪️ **[Discord ChatGPT Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_chatgpt_tools)**
 * ⭐ **[BetterDiscord](https://betterdiscord.app/)** - Modifiable Discord Client / [GitHub](https://github.com/BetterDiscord/BetterDiscord) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools)
 * ⭐ **[Vencord](https://vencord.dev/)** - Modded Discord Client / [Github](https://github.com/Vendicated/Vencord)
-* ⭐ **[CustomRP](https://www.customrp.xyz/)** - Customize Discord Rich Presence 
+* ⭐ **[Discohook](https://discohook.org/)** / [Discohook Utils](https://dutils.shay.cat/), [PSDiscord](https://github.com/EvotecIT/PSDiscord) or [Embed Generator](https://message.style/) - Embed Generators
+* ⭐ **[CustomRP](https://www.customrp.xyz/)** - Customize Discord Rich Presence
 * ⭐ **[Revolt](https://revolt.chat/)** or [Guilded](https://www.guilded.gg/) / [Mod](https://github.com/ReGuilded/ReGuilded/) - Discord Alternatives
 * ⭐ **Revolt Tools** - [Bots](https://rvlt.gg/discover/bots) / [Resources](https://github.com/insertish/awesome-revolt) / [Divolt Resources](https://github.com/ggtylerr/awesome-divolt)
 * [Velocity](https://velocity-discord.netlify.app/) - Discord Client Mod
@@ -1466,7 +1452,6 @@
 * [YouTube Upload Time](https://chrome.google.com/webstore/detail/youtube-upload-time/nenoecmaibjcahoahnmeinahlapheblg) - Check YouTube Upload Date
 * [YTStamps](https://ytstamps.netlify.app/) - Create Custom Start / End Times
 * [Video Speed Controller](https://github.com/codebicycle/videospeed), [YouTube Speed Control](https://github.com/avi12/youtube-speed-control) or [TimerHooker](https://timer.palerock.cn/en/) - Control Speed of YouTube Videos
-* [Watch Frame by Frame](http://www.watchframebyframe.com/) - Watch Videos Frame by Frame
 * [Anilyzer](https://anilyzer.com/) - Watch YouTube Videos in Slow Motion / Frame by Frame
 * [Playlist Creator for YouTube](https://chrome.google.com/webstore/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) or [Playlists at YouTube](https://playlists.at/youtube/) - Easily Create Playlists
 * [ytcc](https://github.com/woefe/ytcc) - Playlist Manager
@@ -1499,7 +1484,6 @@
 * [YouBit](https://github.com/MeViMo/youbit) - Use YouTube as File Host
 * [Filmot Title Restorer](https://greasyfork.org/en/scripts/430202-filmot-title-restorer) - Restore Deleted YouTube Video Titles in Playlists
 * [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YTI](https://youtubethumbnailimage.com/), [thumbnailsave](https://thumbnailsave.com/), [thumbnail-download](https://thumbnail-download.com/) or [Get YT Thumbnail](https://www.get-youtube-thumbnail.com/) - Download YouTube Thumbnails
-* YouTube Screenshot Extensions - [Firefox](https://addons.mozilla.org/en-US/firefox/search/?q=youtube%20screenshot) / [Chrome](https://chrome.google.com/webstore/search/youtube%20screenshot)
 
 ***
 
