@@ -440,7 +440,7 @@
 * [Adobe Packager](https://github.com/Drovosek01/adobe-packager) - Adobe Portable Installer Script
 * [ss64 OSX](https://ss64.com/osx/) - MacOS Bash Commands
 * [Browserosaurus](https://browserosaurus.com/) - Browser Prompter
-* [Orion](https://browser.kagi.com/) - Webkit Browser with Chrome & Firefox extensions / [Discord](https://discord.gg/E9EKaPZR)
+* [Orion](https://browser.kagi.com/) - Lightweight Browser w/ Chrome & Firefox Extensions / [Discord](https://discord.gg/E9EKaPZR)
 * [Strongbox](https://strongboxsafe.com/) - Password Manager
 * [Maccy](https://maccy.app/) or [TRex](https://trex.ameba.co/) - Clipboard Managers
 * [Left on Read](https://leftonread.me/) - iMessage Client / [Github](https://github.com/Left-on-Read/leftonread)
@@ -541,8 +541,8 @@
 * [MacOS Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Mac Privacy & Security Guides
 * [Sentinel](https://getsentinel.io/) - Two-Factor Authentication
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Block Ads via Host Files
-* [Incoggo](https://incoggo.com/) - Adblocker
-* [Adguard DNS](https://1fichier.com/?ef26ks4abjzct7o1k8os) - Adblocking Profile
+* [Adguard DNS](https://1fichier.com/?ef26ks4abjzct7o1k8os) - DNS Adlocker
+* [1Blocker](https://1blocker.com/) - DNS Adlocker
 * [Lockdown Privacy](https://lockdownprivacy.com/) - Block Trackers / Ads
 * [Stronghold](https://github.com/alichtman/stronghold) - Mac Security Settings Terminal
 * [LuLu](https://objective-see.org/products/lulu.html) - Mac Firewall
