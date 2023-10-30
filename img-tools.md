@@ -536,6 +536,7 @@
 * [Weynstag](https://www.google.com/amp/s/weynstag.com/amp.php/) - Video Downloader
 * [Resizegram](https://resizegram.com/) - Resize Videos
 * [PyInstaLive](https://github.com/dvingerh/PyInstaLive) - Download Instagram Livestreams / Replays 
+* [Instagram Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button) - Add DL Links to Instagram
 * [otzberg](https://www.otzberg.net/iguserid/index.php) or [Find-User-ID](https://codeofaninja.com/tools/find-instagram-user-id/) - ID Finder
 * [Image Counter](https://openuserjs.org/scripts/darkred/Instagram_-_visible_images_counter) - Count Page Images
 * [InstaAddict](https://github.com/Androz2091/instaddict) - Instagram Addiction Test
