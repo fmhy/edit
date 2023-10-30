@@ -14,7 +14,7 @@ export default withPwa(
     lastUpdated: true,
     cleanUrls: true,
     appearance: "dark",
-    srcExclude: ["readme.md", "single-page", "devtools.md"],
+    srcExclude: ["readme.md", "single-page"],
     ignoreDeadLinks: true,
     sitemap: {
       hostname: meta.hostname,
