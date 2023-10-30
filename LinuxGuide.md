@@ -347,7 +347,12 @@
 
 * 🌐 **[Awesome-ttygames](https://github.com/ligurio/awesome-ttygames)** - Unix ASCII Games
 * ⭐ **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** / [2](https://web.archive.org/web/20221022121735/https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?context=3) - Linux Gaming Guides
-* ⭐ **[protondb](https://www.protondb.com/)**, **[Lutris](https://lutris.net/)** or [Proton](https://github.com/ValveSoftware/Proton) - Play Windows games on Linux
+* ⭐ **[protondb](https://www.protondb.com/)** - Crowdsourced data describing the compatibility of a given title with Proton 
+* ⭐ **[Lutris](https://lutris.net/)** - Games manager
+* ⭐ **[proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** With **[Lutris](https://lutris.net/)** - Play Windows games on Linux, (Guide)[https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in/]
+* ⭐ **[ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/)** - Install and manage Proton-GE for Steam and Wine-GE for Lutris with graphical user interface
+* ⭐ **[Batocera.linux](https://batocera.org/)** - Retro Gaming Distro
+* ⭐ **[Nobaraproject](https://nobaraproject.org/)** - Linux Gaming Distro
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
 * ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
 * ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games / [Support](https://github.com/jc141x/portal)
@@ -356,9 +361,8 @@
 * [winesapOS](https://github.com/LukeShortCloud/winesapOS) - Play Games on Storage Devices 
 * [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/) - Wiki for Linux Gaming / [Sub Wiki](https://linux-gaming.kwindu.eu/)
 * [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)
-* [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) or [proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Install & Manage Proton-GE for Steam / Wine
 * [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
-* [Batocera.linux](https://batocera.org/) or [Lakka](https://lakka.tv/) - Retro Gaming Distro
+* [Lakka](https://lakka.tv/) - Retro Gaming Distro
 * [steam-tui](https://github.com/dmadisetti/steam-tui) - Rust TUI for Steam
 * [steam-cli](https://github.com/berenm/steam-cli) - CLI for Steam
 * [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
