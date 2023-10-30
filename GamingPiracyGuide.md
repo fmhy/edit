@@ -1165,6 +1165,7 @@
 * [Charm](https://svenhjol.github.io/Charm/), [Essential](https://essential.gg/), [Quark](https://quarkmod.net/) or [Vanillatweaks](https://www.vanillatweaks.net/) - Mincraft Quality of Life Mods
 * [MCPEDL](https://mcpedl.com/) - Minecraft PE/Bedrock Mods, Maps & Resources
 * [modsman](https://github.com/sargunv/modsman), [Pax](https://github.com/froehlichA/pax) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
+* [r/feedthebeast](https://reddit.com/r/feedthebeast/) - Minecraft Mod Discussion Subreddit
 * [Minecraft Command Science](https://minecraftcommand.science/) - Minecraft Command Generator
 * [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - Minecraft Utility Mod
 * [Minecraft Performance Flags](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks) - Java Minecraft Benchmarks
