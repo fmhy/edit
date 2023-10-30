@@ -864,7 +864,6 @@
 
 ## ▷ Other Languages
 
-* 🌐 **[LexCity](http://lexicity.com/)** - Ancient Language Learning Tools & Resources
 * 🌐 **[ASL Resources](https://t.me/ASLresources)** - American Sign Language Resources
 * [ASL Dictionary](https://www.signasl.org/), [SignSpaces](https://signspaces.com/) or [HandSpeak](https://www.handspeak.com/) - Learn American Sign Language
 * [Learn BSL in SignWriting](https://ankiweb.net/shared/info/1502698119)
