@@ -339,7 +339,6 @@
 * [NolfRevival](http://nolfrevival.tk/) - NOLF, NOLF 2 & Contract Jack
 * [DFWorkshop](https://www.dfworkshop.net/) - Daggerfall Unity Engine Port
 * [OpenMW](https://openmw.org/en/) - Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/TES3MP)
-* [WannabeThesis](https://lerppu.net/wannabethesis/) - Retro Game Ports
 * [NBlood](https://github.com/nukeykt/NBlood) - Reverse-Engineered Ports of Build Games
 * [Classic DOOM](https://classicdoom.com/) - Classic Doom Downloads 
 * [DoomWorld](https://www.doomworld.com/) - Doom Downloads / Wads / Mods / Editing 
@@ -602,7 +601,6 @@
 * [Chess Base](https://chessbase.in/) / [2](https://en.chessbase.com/) - Indian Chess News
 * [ChessProgramming](https://www.chessprogramming.org/) - Chess Programming Wiki
 * [/r/Checkers](https://www.reddit.com/r/checkers/) - Checkers Subreddit
-* [USA Checkers](https://www.usacheckers.com/) - Checkers Forum
 * [Fly or Die](https://www.flyordie.com/checkers/) or [Lidraughts](https://lidraughts.org/) - Multiplayer Checkers
 * [Bloob](https://bloob.io/checkers) - 4 Player Checkers
 * [Checkers AI](https://checkers.ai-games.app/) - Play Checkers vs AI
@@ -916,7 +914,6 @@
 * [Backloggd](https://www.backloggd.com/) - Game Database
 * [LaunchBox Games Database](https://gamesdb.launchbox-app.com/) - Game Database 
 * [IGDB](https://www.igdb.com/) - Game Database
-* [We The Players](https://wetheplayers.com/) - Game Database
 * [Steam Games](https://steam-games.org/) - Game Database
 * [Rawg](https://rawg.io/) - Game Database
 * [Moby Games](https://www.mobygames.com/) - Game Database 
@@ -1058,7 +1055,7 @@
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/), [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) or [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - Gaming Optimization Guides
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/), [MoreFPS](https://morefps.net/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) or [HoneCtrl](https://github.com/auraside/HoneCtrl) - Latency Reduction / FPS Fixes
-* [Fraps Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#fraps) / [2](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
+* [Fraps](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
 * [Ping Enhancer](https://www.wowinterface.com/downloads/info16336-PingEnhancer.html), [ExitLag](https://github.com/Borisizdabezt/exitlag-hwid-spoofer) / [Guide](https://youtu.be/Ga0z5xwZyUA) or [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) - Decrease Ping
 * [Overclock](https://www.overclock.net/) - Overclocking Forum
 * [Ryzen Master Utility](https://www.amd.com/en/technologies/ryzen-master) - Overclocking Control for Ryzen Desktop CPU
