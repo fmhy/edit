@@ -1263,7 +1263,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[fast](https://fast.com/)** / [CLI](https://github.com/sindresorhus/fast-cli)
 * ⭐ **[Cloudflare Speed Test](https://speed.cloudflare.com/)**
 
-[LibreSpeed](https://librespeed.org/), [Xfinity Speed Test](https://speedtest.xfinity.com/), [DLS Reports](http://www.dslreports.com/tools), [Bandwidth Place](https://www.bandwidthplace.com/), [Speedtest](https://www.speedtest.net/), [wifiman](http://wifiman.com/), [Net Speed Meter](https://www.microsoft.com/en-gb/p/app/9nmbx01pxz4l), [PeerFast](https://diegorbaquero.github.io/PeerFast/) (P2P), [Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker), [GoogleFiber](http://speedtest.googlefiber.net/), [speedtestcustom](https://pcmag.speedtestcustom.com/), [SpeedOf.Me](https://speedof.me/), [BroadbandSpeedChecker](https://broadbandspeedchecker.co.uk/), [speed.io](https://speed.io/), [att](https://www.att.com/support/speedtest/), [speedcheck](https://www.speedcheck.org/), [testmyspeed](https://testmyspeed.onl/), [testmy](https://testmy.net/), [Meter](https://www.meter.net/), [CIRA](https://performance.cira.ca/), [Speedsmart](https://speedsmart.net/), [OpenSpeedTest](https://openspeedtest.com/)
+[LibreSpeed](https://librespeed.org/), [Bandwidth Place](https://www.bandwidthplace.com/), [Speedtest](https://www.speedtest.net/), [speedcheck](https://www.speedcheck.org/), [Meter](https://www.meter.net/), [Speedsmart](https://speedsmart.net/)
 
 ***
 
@@ -1271,7 +1271,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ### IP Leak Tests
 
-[BrowserLeaks](https://browserleaks.com/), [Astrill](https://rentry.co/astrill), [Comparitech](https://www.comparitech.com/privacy-security-tools/dns-leak-test/), [Netease](https://nstool.netease.com/), [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/), [IPLeak](https://ipleak.org/) / [2](https://ipleak.com/) / [3](https://ipleak.net)
+[BrowserLeaks](https://browserleaks.com/), [Astrill](https://rentry.co/astrill), [Comparitech](https://www.comparitech.com/privacy-security-tools/dns-leak-test/), [Do I leak?](https://www.top10vpn.com/tools/do-i-leak/), [IPLeak](https://ipleak.org/) / [2](https://ipleak.com/) / [3](https://ipleak.net)
 
 ### DNS Leak Tests
 
@@ -1285,7 +1285,9 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ## IP / Network Tools
 
-[2ip.io](https://2ip.io/) / [2](https://2ip.me/) / [3](https://2ip.ru/), [IPVoid](https://www.ipvoid.com/), [Hacker Target](https://hackertarget.com/ip-tools/), [ipaddressguide](https://www.ipaddressguide.com/), [ipfingerprints](https://www.ipfingerprints.com/), [centralops](https://centralops.net/), [networkappers](https://networkappers.com/), [dnstools](http://www.dnstools.ch/), [networkappers](https://networkappers.com/), [ipinfo](https://ipinfo.info), [ViewDNS](https://viewdns.info/), [DNSChecker](https://dnschecker.org/all-tools.php), [Dotcom Tools](https://www.dotcom-tools.com/), [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/), [Network Tools](https://www.broadbandsearch.net/network-tools), [WebsiteScoop](https://websitescoop.com/), [zmap](https://zmap.io/, [web-check](https://web-check.xyz/)
+** ⭐ **[Web Check](https://web-check.xyz/)**
+
+[2ip.io](https://2ip.io/) / [2](https://2ip.me/), [IPVoid](https://www.ipvoid.com/), [Hacker Target](https://hackertarget.com/ip-tools/), [ipaddressguide](https://www.ipaddressguide.com/), [ipfingerprints](https://www.ipfingerprints.com/), [centralops](https://centralops.net/), [networkappers](https://networkappers.com/), [networkappers](https://networkappers.com/), [ipinfo](https://ipinfo.info), [ViewDNS](https://viewdns.info/), [DNSChecker](https://dnschecker.org/all-tools.php), [Dotcom Tools](https://www.dotcom-tools.com/), [Resolve.rs Tools](https://resolve.rs/tools.html), [Webrate](https://webrate.org/), [Website.informer](https://website.informer.com/), [Network Tools](https://www.broadbandsearch.net/network-tools), [WebsiteScoop](https://websitescoop.com/), [zmap](https://zmap.io/)
 
 ***
 
