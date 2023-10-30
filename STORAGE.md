@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/Tq2KV2M)** - For mobile users
+**[Table of Contents](https://ibb.co/SmF5wjZ)** - For mobile users
 
 ***
 ***
@@ -98,7 +98,7 @@
 
 * ⭐ **[MiXplorer](https://mixplorer.com/)**, [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) - [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
 
-[rcx](https://x0b.github.io/), [Amaze File Manager](https://teamamaze.xyz/), [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager), [Ghost Commander](https://sourceforge.net/projects/ghostcommander/), [Solid Explorer](https://github.com/nbats/FMHYedit/blob/main/base64.md##solid-explorer), [Material Files](https://github.com/zhanghai/MaterialFiles), [ES File Explorer](https://archive.org/details/es-file-explorergood-version), [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), [IrkFM](https://github.com/lfuelling/lrkFM), [SD Maid SE](https://github.com/d4rken-org/sdmaid-se), [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch)
+[rcx](https://x0b.github.io/), [Amaze File Manager](https://teamamaze.xyz/), [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager), [Ghost Commander](https://sourceforge.net/projects/ghostcommander/), [Material Files](https://github.com/zhanghai/MaterialFiles), [ES File Explorer](https://archive.org/details/es-file-explorergood-version), [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), [IrkFM](https://github.com/lfuelling/lrkFM), [SD Maid SE](https://github.com/d4rken-org/sdmaid-se), [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch)
 
 ***
 
@@ -1808,12 +1808,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Password Generators
-
-[HawkPass](https://kalpetros.github.io/hawkpass/), [StrongPasswordGenerator](https://privacycanada.net/strong-password-generator/), [PassSnip](https://passnip.com/), [ExpressVPN PW Generator](https://www.expressvpn.com/password-generator), [MOAC](https://sr.ht/~seirdy/MOAC/), [Clover](https://cloverleaf.app), [passwrd](https://passwrd.in/#/), [RepasswordGenerator](https://www.repasswordgenerator.com/), [silverhammermba](https://silverhammermba.github.io/password/), [PasswordsGenerator](https://passwordsgenerator.net/), [DiceWare](https://diceware.rempe.us/), [Bitwarden PW Generator](https://bitwarden.com/password-generator/), [Passphrase Generator](https://www.fourmilab.ch/javascrypt/pass_phrase.html)
-
-***
-
 ## Password Managers
 
 * ⭐ **[KeePass XC](https://keepassxc.org/)**, [2](https://keepass.info/) - [Ports](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only Functionality](https://subdavis.com/Tusk/) / [CLI](https://github.com/rebkwok/kpcli)
@@ -1844,7 +1838,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[katb](https://katb.in/)**
 * [Snips.sh](https://snips.sh/) - Self-Hosted
 
-[TextBin](https://textbin.xyz/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [pst.moe](https://pst.moe/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [bin.idrix](https://bin.idrix.fr/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/) / [2](https://dpaste.org/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [paaster](https://paaster.io/), [pastery](https://www.pastery.net/), [privatebin](https://privatebin.net/), [pastebin.pl](https://pastebin.pl/), [bpa](https://bpa.st/), [bin](https://bin.gy/), [paste.fo](https://paste.fo/), [nekobin](https://nekobin.com/), [hasbin](https://hashb.in), [Defuse](https://defuse.ca/pastebin.htm), [gocatgo](https://github.com/vaaleyard/gocatgo), [zerobin](https://zerobin.net/), [paste.vaa.red](https://paste.vaa.red/), [Hasty Paste](https://github.com/enchant97/hasty-paste), [bucketex](https://bucketex.com/), [hardbin](https://hardbin.com/), [hatebin](https://hatebin.com/), [pastemytxt](https://pastemytxt.com/), [txtpaste](https://txtpaste.com/), [pastecode](https://pastecode.io/), [pastehere](https://pastehere.xyz/), [txtnotes](https://txtnotes.co/), [paste.debian](https://paste.debian.net/), [ivpaste](https://ivpaste.com/), [centos](https://paste.centos.org/), [rwtxt](https://rwtxt.com/), [blankslate](https://blankslate.io/), [paste.tc](https://paste.tc/), [blazebin](https://blazebin.io/)
+[TextBin](https://textbin.xyz/), [paste](https://paste.ee/), [pst.moe](https://pst.moe/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [bin.idrix](https://bin.idrix.fr/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/) / [2](https://dpaste.org/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [paaster](https://paaster.io/), [pastery](https://www.pastery.net/), [privatebin](https://privatebin.net/), [pastebin.pl](https://pastebin.pl/), [bpa](https://bpa.st/), [bin](https://bin.gy/), [paste.fo](https://paste.fo/), [nekobin](https://nekobin.com/), [hasbin](https://hashb.in), [Defuse](https://defuse.ca/pastebin.htm), [gocatgo](https://github.com/vaaleyard/gocatgo), [zerobin](https://zerobin.net/), [paste.vaa.red](https://paste.vaa.red/), [Hasty Paste](https://github.com/enchant97/hasty-paste), [bucketex](https://bucketex.com/), [hardbin](https://hardbin.com/), [hatebin](https://hatebin.com/), [pastemytxt](https://pastemytxt.com/), [txtpaste](https://txtpaste.com/), [pastehere](https://pastehere.xyz/), [txtnotes](https://txtnotes.co/), [paste.debian](https://paste.debian.net/), [ivpaste](https://ivpaste.com/), [centos](https://paste.centos.org/), [rwtxt](https://rwtxt.com/), [blankslate](https://blankslate.io/), [paste.tc](https://paste.tc/), [blazebin](https://blazebin.io/)
 
 ***
 
@@ -3193,6 +3187,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) - Auto Switch Light / Dark Mode Wallpapers
 * [Dynamic Wallpaper](https://play.google.com/store/apps/details?id=rk.android.app.dynamic.wallpaper) - Wallpapers that Change Based on Battery
 * [koncius](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Android Video to Wallpaper
+* [Canvas-Downlaoder](https://www.canvasdownloader.com/) - Spotify Canvas Wallpapers 
 * [WallClaimer](https://www.wallclaimer.com/) - Snag Friends Wallpapers
 * [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - iOS Wallpaper App
 
