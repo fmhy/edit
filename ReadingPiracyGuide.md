@@ -73,7 +73,6 @@
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - Books
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines
 * [ebook3000.co](https://www.ebook3000.co/) - Books / Magazines / NSFW
-* [just a digital library](https://github.com/nbats/FMHYedit/blob/main/base64.md#just-a-digital-library) - Books
 * [openlibrary](https://openlibrary.org/) - Books
 * [standardebooks](https://standardebooks.org) - Books
 * [Manybooks](https://manybooks.net/)  - Books
@@ -103,8 +102,6 @@
 * [ibookscafe](https://bookscafe.net/) - Books / NSFW
 * [FullBooks](http://www.fullbooks.com/) - Books
 * [e-Book Mecca](https://ebook-mecca.com/) - Books
-* [eBook4Expert](https://ebook4expert.net/) - Books
-* [TheFreeOnlineNovel](https://thefreeonlinenovel.com/) - Books
 * [ReadOnlineFreeBook](https://readonlinefreebook.com/) - Books
 * [All Books Hub](https://allbookshub.com/) - Books
 * [ebooksz](https://ebooksz.net/) - Books
@@ -460,7 +457,6 @@
 * [Open Educational Resources](https://cdn-infographic.pressidium.com/wp-content/uploads/How-to-Search-for-Open-Educational-Resources-Infographic.jpg) - How to search for Open Educational Resources
 * [HowStuffWorks](https://www.howstuffworks.com/) - Learn How Things Work
 * [masterWiki](https://masterwiki.how/) - MasterClass Classes Republished as wikiHow Articles
-* [Critical Thinking](https://github.com/nbats/FMHYedit/blob/main/base64.md#critical-thinking) - Books / Guides / Pictures
 * [/r/textbook_piracy](https://reddit.com/r/textbook_piracy)
 * [/r/textbookrequest](https://reddit.com/r/textbookrequest)
 * [/r/mathbooks](https://reddit.com/r/mathbooks)
@@ -503,7 +499,6 @@
 * [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive
 * [The Morgan Library Museum](https://www.themorgan.org/music) or [DIAMM](https://www.diamm.ac.uk/) - Musical Manuscripts
 * [HornTip](https://www.horntip.com/) - Military Songbooks
-* [Lee B. Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#lee-b-drive) - Black History Books
 * [NASA History](https://history.nasa.gov/series95.html) - NASA History Books
 * [De Re Militari](https://deremilitari.org/articles/) - Medieval Military History
 * [ByzantineMilitary](https://byzantinemilitary.blogspot.com/) - Byzantine Military History
