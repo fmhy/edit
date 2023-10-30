@@ -10,7 +10,8 @@
   "dependencies": {
     "unocss": "^0.57.1",
     "vitepress": "1.0.0-rc.24",
-    "vue": "^3.3.7"
+    "vue": "^3.3.7",
+    "workbox-window": "^7.0.0"
   },
   "devDependencies": {
     "@iconify-json/carbon": "^1.1.21",
