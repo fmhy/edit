@@ -56,39 +56,9 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ***
 
-#### 176.36.86.211
-
-`aHR0cDovLzE3Ni4zNi44Ni4yMTEvdmlkZW8vYW5pbWUv`
-
-***
-
-#### 166.84.7.155
-
-`aHR0cHM6Ly8xNjYuODQuNy4xNTUvYW5pbWUv`
-
-***
-
-#### ns3309227
-
-`aHR0cDovL25zMzMwOTIyNy5pcC0xNzgtMzItMjIyLmV1Lw==`
-
-***
-
 #### belia
 
 `aHR0cHM6Ly9iZWxpYS5mci9ldmcv`
-
-***
-
-#### Anime Time Drive
-
-`aHR0cHM6Ly9hdGRyaXZlLmFuaW1ldGltZXNlcnZlci53b3JrZXJzLmRldi8wOi8K`
-
-***
-
-#### geedryve
-
-`aHR0cHM6Ly9qYWNvYnNtLmNvbS9nZWVkcnl2ZS9yZWNvcmRzL21wM3Mv`
 
 ***
 
@@ -116,12 +86,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ***
 
-#### BurntScarr
-
-`aHR0cDovL3d3dy5idXJudHNjYXJyLmNvbS9idXJudHNjYXJyL1NURU1TLw==`
-
-***
-
 #### Setlists
 
 `aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvMTNCODIzdWt4ZFZNb2Nvd28xczVYblQzdHpjaU9mcnVoVVZlUEVOS2MwMW8v`
@@ -135,16 +99,9 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ***
 
-#### Sundby
-
-`aHR0cHM6Ly9hcmNoaXZlLnN1bmRieS5jb20vcmV0cm8v`
-
-***
-
 #### No-Intro
 
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL25vLWludHJvX3JvbXNldHMKaHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL05vLUludHJvLUNvbGxlY3Rpb25fMjAxNi0wMS0wM19GaXhlZApodHRwczovL2FyY2hpdmUub3JnL2RldGFpbHMvTm8tSW50cm8tQ29sbGVjdGlvbl8yMDE2LTA5LTA2`
-
+`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL25vLWludHJvX3JvbXNldHM=`
 
 ***
 
@@ -156,7 +113,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 #### RomCenter
 
-`aHR0cHM6Ly9yZW50cnkuY28vMjR1ZngKaHR0cHM6Ly9wYXN0ZWxpbmsubmV0LzI2bmxqCmh0dHBzOi8vcmVudHJ5LmNvL3Zpbjd4`
+`aHR0cHM6Ly9yZW50cnkuY28vMjR1ZngKaHR0cHM6Ly9wYXN0ZWxpbmsubmV0LzI2bmxq`
 
 ***
 
@@ -178,24 +135,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ***
 
-#### Everdrive
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL2xhdGVzdC1ldmVyZHJpdmUtcGFjay0yMDIwLTA0LTE2`
-
-***
-
-#### Many Dumped Games
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL0BtYW55ZHVtcGVkZ2FtZXM=`
-
-***
-
-#### nwifiresticks
-
-`aHR0cDovL253aWZpcmVzdGlja3MuY29tL3JvbXMv`
-
-***
-
 #### TOSEC
 
 `aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL1RPU0VDX1YyMDE3LTA0LTIzCmh0dHBzOi8vYXJjaGl2ZS5vcmcvZGV0YWlscy90b3NlYw==`
@@ -208,43 +147,9 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ***
 
-#### Powerslave EX
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xVkZ2T1lLeWp5RndINXNxU0w1bXpfamwzU2RJVWNBT1kvdmlldz91c3A9c2hhcmluZw==`
-
-***
-
 #### Software Library: Flash
 
 `aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL3NvZnR3YXJlbGlicmFyeV9mbGFzaA==`
-
-
-***
-
-#### Rek's Flash Game Collection
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXBfa0RkOXVKejcyUzNtOW83a2ExMzZmeENXUEVCS0VHP3VzcD1zaGFyaW5n`
-
-***
-
-#### ClassicGames.rar
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xeWxIazQ2dmRWMWRaY2ZVVVNOREFUN0YyUlZvaThGRlMv`
-
-pass: paluch
-
-
-***
-
-#### The Flash Emulation Repair Shop
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL2ZsYXNoX3JlcGFpcl9zaG9w`
-
-***
-
-#### just a digital library
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWlRTWRxNXlLMEVCcWExZmdrbVFUZlc3RVdTZUpXWXZU`
 
 ***
 
@@ -381,18 +286,6 @@ pass: paluch
 
 *** 
 
-#### Lee B. Drive
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL3UvMC9tb2JpbGUvZm9sZGVycy8xODN0ZjhQbVFid2dWQzdIcnhPWjVXUVB1bFZkLVVvbWk=`
-
-*** 
-
-#### Critical Thinking
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9aTWx4aFlMQSNzRy1vcHVBRGRrTml1OS1JZGVKTzRR`
-
-*** 
-
 #### Historical Audiobooks Collection
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci91dGNoeUFBSyNHVFZsMWZJTnBla0VjaDk1eGo4Rm1n`
@@ -443,7 +336,7 @@ pass: paluch
 
 #### Open Directory Indexes
 
-`aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9zZWFyY2g/cT1zaXRlOnJlZGRpdC5jb20vci9vcGVuZGlyZWN0b3JpZXMrb2RzaG90K2FmdGVyOjIwMTgKaHR0cHM6Ly9yZWRkLml0L2x2ZHdsbQpodHRwczovL2dpdGh1Yi5jb20vc3RyYXdoYXQtcGlyYXRlcy9ub3Rlcy9ibG9iL21hc3Rlci9vcGVuZGlyZWN0b3JpZXMudHh0Cmh0dHBzOi8vYmluLmRpc3Jvb3Qub3JnLz8zMDgyZjA0MjA1YmU3YWY2I0JFNEFoc1B3V1lYZExVam1tRExSeVFOanZHNnZhSG5Ra1FBa3lDVENVcTM0Cmh0dHBzOi8vZ2lzdC5naXRodWIuY29tL0NoYXBoYXNpbG9yLzcxOGUxM2MxZjY1NGI3YjBlNDliM2I0MWU0ODU1ZjUwCmh0dHBzOi8vcmVkZC5pdC9vd2R2dzc=`
+`aHR0cHM6Ly9naXRodWIuY29tL3N0cmF3aGF0LXBpcmF0ZXMvbm90ZXMvYmxvYi9tYXN0ZXIvb3BlbmRpcmVjdG9yaWVzLnR4dApodHRwczovL2Jpbi5kaXNyb290Lm9yZy8/MzA4MmYwNDIwNWJlN2FmNiNCRTRBaHNQd1dZWGRMVWptbURMUnlRTmp2RzZ2YUhuUWtRQWt5Q1RDVXEzNApodHRwczovL2dpc3QuZ2l0aHViLmNvbS9DaGFwaGFzaWxvci83MThlMTNjMWY2NTRiN2IwZTQ5YjNiNDFlNDg1NWY1MApodHRwczovL3JlZGQuaXQvb3dkdnc3`
 
 *** 
 
@@ -461,13 +354,7 @@ pass: paluch
 
 #### Course Megadrives
 
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9lbEVsa0tUSSNhQ1FidFRRNzl0dTV5RV9ZRkI2X3N3Cmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvcEFsMHdSS0sjRklaemJZamtUXzA5cVJUNUJTMkdYUSAKaHR0cHM6Ly9tZWdhLm56L2ZvbGRlci80dDRoaENUYSN6SWlNWkJSVkFpYkFUdEh4d1EyYl93IApodHRwczovL21lZ2EubnovZm9sZGVyL2lJc0VrYjRCIzR0ZE5IVVlUS1RKRGVJeEkyRlpFM0EgCmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvc2hwejBBQ1EjdGR5YVFpOUhjVk0tb0tIOU54VmV3QSAKaHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9sbTVsZ1F4VCNRaDUyWXFFMC1rd1BfLWVXb2hNQmJ3IApodHRwczovL21lZ2EubnovZm9sZGVyL3l1NFMzQkpRI2JodEEtT0llUTJibnVNMmJQY1Uyd1EvZm9sZGVyL0hyNEdYVDRM`
-
-*** 
-
-#### iTunesU Lectures
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL0BreW5kaWdz`
+`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9wQWwwd1JLSyNGSVp6Yllqa1RfMDlxUlQ1QlMyR1hRCmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvaUlzRWtiNEIjNHRkTkhVWVRLVEpEZUl4STJGWkUzQQpodHRwczovL21lZ2EubnovZm9sZGVyL3NocHowQUNRI3RkeWFRaTlIY1ZNLW9LSDlOeFZld0EKaHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9sbTVsZ1F4VCNRaDUyWXFFMC1rd1BfLWVXb2hNQmJ3Cg==`
 
 *** 
 
@@ -501,33 +388,9 @@ pass: paluch
 
 *** 
 
-#### AQA GCSE 2019
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXhJYXhmUVllUGxUVDJYeFJYWU1PalhkdXZaemFZeVA3P3VzcD1zaGFyaW5n`
-
-*** 
-
-#### Safari Windows
-
-`aHR0cHM6Ly9tZWdhLm56L2ZpbGUvenFvRVdaYVEjcU5BTjhKblZfNzlnSUk0b2ZNczRad01BY3lkWkFRdzZHZG5nX1FFeU5Edw==`
-
-*** 
-
-#### Win11 Sounds
-
-`aHR0cHM6Ly9tZWdhLm56L2ZpbGUvQ3BSa3dUckQjOU5paGVmaUZEQmlyaHd0WHFTdmpXQWhyRnpVUGNKdmVDZWVQZldoMWxtbw==`
-
-*** 
-
-#### WinXP Service Pack 4
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVVoMFZZanExaGNkNG9ZX3pOekVxQWFyMW00Tk8ydVRDP3VzcD1zaGFyaW5nKQ==`
-
-*** 
-
 #### Windows Piracy Guides
 
-`aHR0cHM6Ly9yZW50cnkub3JnL3dpbmRvd3NfcGlyYWN5Cmh0dHBzOi8vcmVudHJ5LmNvL3dpbmRvd3NfZm9yX3JldGFyZHMKaHR0cHM6Ly9yZW50cnkub3JnL2luc3RhbGx3aW5kb3dz`
+`aHR0cHM6Ly9yZW50cnkub3JnL3dpbmRvd3NfcGlyYWN5Cmh0dHBzOi8vcmVudHJ5Lm9yZy9pbnN0YWxsd2luZG93cw==`
 
 *** 
 
@@ -549,18 +412,6 @@ pass: paluch
 
 *** 
 
-#### PonyDroid
-
-`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1wb255ZHJvaWQmc3I9dG9waWNzJnNmPXRpdGxlb25seQ==`
-
-*** 
-
-#### Solid Explorer
-
-`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1zb2xpZCtleHBsb3JlciZ0ZXJtcz1hbGwmYXV0aG9yPSZzYz0xJnNmPXRpdGxlb25seSZzcj10b3BpY3Mmc2s9dCZzZD1kJnN0PTAmY2g9MzAwJnQ9MCZzdWJtaXQ9U2VhcmNo`
-
-*** 
-
 #### PhotoMath
 
 `aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1waG90b21hdGgmdGVybXM9YWxsJmF1dGhvcj0mc2M9MSZzZj10aXRsZW9ubHkmc3I9dG9waWNzJnNrPXQmc2Q9ZCZzdD0wJmNoPTMwMCZ0PTAmc3VibWl0PVNlYXJjaA==`
@@ -573,27 +424,9 @@ pass: paluch
 
 ***
 
-#### E-books_432
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL0UtYm9va3NfNDMy`
-
-***
-
-#### Large Collection of Useful Mega DL's
-
-`aHR0cHM6Ly9wYXN0ZWJpbi5jb20vWk10WmEySlY=`
-
-***
-
 #### SWAP
 
 `aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1zd2FwK25vK3Jvb3QmdGVybXM9YWxsJmF1dGhvcj0mc2M9MSZzZj10aXRsZW9ubHkmc3I9dG9waWNzJnNrPXQmc2Q9ZCZzdD0wJmNoPTMwMCZ0PTAmc3VibWl0PVNlYXJjaA==`
-
-***
-
-#### ADrama Addons
-
-`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1hZHJhbWEmc3I9dG9waWNzJnNmPXRpdGxlb25seQ==`
 
 ***
 
@@ -606,12 +439,6 @@ pass: paluch
 #### Crunchyroll Mod
 
 `aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1jcnVuY2h5cm9sbCZzcj10b3BpY3Mmc2Y9dGl0bGVvbmx5`
-
-***
-
-#### OLA TV
-
-`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1vbGErdHYmYW1wO3NyPXRvcGljcyZhbXA7c2Y9dGl0bGVvbmx5`
 
 ***
 
@@ -708,12 +535,6 @@ pass: paluch
 #### IsIDore
 
 `aHR0cHM6Ly9pc2lkb3JlLmNvL0NhbGlicmVMaWJyYXJ5Lw==`
-
-***
-
-#### Fraps
-
-`aHR0cHM6Ly9yZW50cnkuY28vZnJhcHNmdWxsZnJlZQ==`
 
 ***
 

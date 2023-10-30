@@ -91,6 +91,7 @@
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
 * [Puyo Puyo VS](https://puyovs.com/) - Puyo Puyo Clone
 * [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://github.com/nbats/FMHYedit/blob/main/base64.md#setlists), [2](https://customsongscentral.com/) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing)
+* [YARC-Official](https://github.com/YARC-Official) - Rock Band Clone
 * [StepMania](https://www.stepmania.com/), [Project OutFox](https://projectoutfox.com/) or [NotITG](https://www.noti.tg/) - DDR Clones
 * [PumpSanity](https://pumpsanity.net/) - Pump It Up Clone
 * [Malody](https://m.mugzone.net/) - Rhythm Game
@@ -144,6 +145,7 @@
 * [UniversalDynamicInput]( https://github.com/Venomalia/UniversalDynamicInput) - Custom Dolphin Button Pack
 * [RPCS3 Setup Guide](https://docs.google.com/document/d/1gdjNab-CtVS97jH2diPPP5tCrpBeof9-qPIRRB9-BrU/edit) - RPCS3 Emulator Setup Guide
 * [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PSCX Development Emulator
+* [RetroAchievements](https://retroachievements.org/) - Achievements for Emulators
 
 ***
 
@@ -174,9 +176,6 @@
 * [Rom GDrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#rom-gdrive) - ROMs
 * [Arquivista ROMs](https://github.com/nbats/FMHYedit/blob/main/base64.md#arquivista) - ROMs
 * [FinalBurn Neo](https://github.com/nbats/FMHYedit/blob/main/base64.md#finalburn-neo) - ROMs / Zip 
-* [Everdrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#everdrive) - ROMs / Zip
-* [Many Dumped Games](https://github.com/nbats/FMHYedit/blob/main/base64.md#many-dumped-games) - ROMs
-* [nwifiresticks](https://github.com/nbats/FMHYedit/blob/main/base64.md#nwifiresticks) - ROMs
 * [Retrostic](https://www.retrostic.com/) - Emulators / ROMs
 * [ROMsie](https://romzie.com/) - Emulators / ROMs
 * [Romsever](https://romsever.com) - Emulators / ROMs
@@ -195,7 +194,6 @@
 * [ROMs DL](https://romsdl.com/) - Emulators / ROMs
 * [HappyROMs](https://happyroms.com/) - Emulators / ROMs
 * [RPGOnly](https://rpgonly.com) - ROMs
-* [Sundby](https://github.com/nbats/FMHYedit/blob/main/base64.md#sundby) - ROMs
 * [GLoad](https://gload.to/) - ROMs
 * [AllMyROMs](https://www.allmyroms.net/) - ROMs
 * [ROMsFun](https://ROMsfun.com/) - ROMs
@@ -339,7 +337,6 @@
 * [NolfRevival](http://nolfrevival.tk/) - NOLF, NOLF 2 & Contract Jack
 * [DFWorkshop](https://www.dfworkshop.net/) - Daggerfall Unity Engine Port
 * [OpenMW](https://openmw.org/en/) - Morrowind Remake / [GitHub](https://github.com/OpenMW/openmw) / [Multiplayer](https://github.com/TES3MP/TES3MP)
-* [WannabeThesis](https://lerppu.net/wannabethesis/) - Retro Game Ports
 * [NBlood](https://github.com/nukeykt/NBlood) - Reverse-Engineered Ports of Build Games
 * [Classic DOOM](https://classicdoom.com/) - Classic Doom Downloads 
 * [DoomWorld](https://www.doomworld.com/) - Doom Downloads / Wads / Mods / Editing 
@@ -360,7 +357,6 @@
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
 * [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [GitHub](https://github.com/ioquake/ioq3)
 * [Aleph One](https://alephone.lhowon.org/) - Open-Source Marathon Continuation 
-* [Powerslave EX](https://github.com/nbats/FMHYedit/blob/main/base64.md#powerslave-ex) - Powerslave PC Port 
 * [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) - Driver 2 PC Port
 * [Megaman 2.5D](http://petersjostrand.com/) - Multiplayer Mega Man
 * [Streets of Rage Remake](https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info) - Streets of Rage Remake
@@ -417,6 +413,7 @@
 * [Mexican Train](https://mexicantrain.online/) - Domino Train Game
 * [Gridland](http://gridland.doublespeakgames.com/) - Grid Matching RPG
 * [Backpack Hero](https://thejaspel.itch.io/backpack-hero) - Turn-Based RPG
+* [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
 * [Hacker Wars](https://hackerwars.io/) or [SlaveHack2](http://slavehack2.com/) - Hacking Game
 * [2020 Game](https://2020game.io/) - Play through 2020
 * [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
@@ -602,7 +599,6 @@
 * [Chess Base](https://chessbase.in/) / [2](https://en.chessbase.com/) - Indian Chess News
 * [ChessProgramming](https://www.chessprogramming.org/) - Chess Programming Wiki
 * [/r/Checkers](https://www.reddit.com/r/checkers/) - Checkers Subreddit
-* [USA Checkers](https://www.usacheckers.com/) - Checkers Forum
 * [Fly or Die](https://www.flyordie.com/checkers/) or [Lidraughts](https://lidraughts.org/) - Multiplayer Checkers
 * [Bloob](https://bloob.io/checkers) - 4 Player Checkers
 * [Checkers AI](https://checkers.ai-games.app/) - Play Checkers vs AI
@@ -707,14 +703,13 @@
 
 ## ▷ Flash Games
 
-* 🌐 **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8), [Flash Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#software-library-flash), [Rek's Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#reks-flash-game-collection) or [ClassicGames.rar](https://github.com/nbats/FMHYedit/blob/main/base64.md#classicgamesrar) (pw:paluch) - Flash Game Archives 
+* 🌐 **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8) or [Flash Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#software-library-flash) - Flash Game Archives 
 * ↪️ **[Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools)**
 * ⭐ **[How-to Play Flash Games](https://rentry.co/oc4wc)** - Browser Flash Game Tutorial
 * [Flash by Night](http://flashbynight.com/) - Browser Games
 * [FlashGamesArchive](http://www.flashgamearchive.com/playable/) - Browser Games
 * [Flash Arch](https://flasharch.com/en) - Browser Games
 * [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Browser Games
-* [The Flash Emulation Repair Shop](https://github.com/nbats/FMHYedit/blob/main/base64.md#the-flash-emulation-repair-shop) - Flash Games Under Repair
 * [Arcade Prehacks](http://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
 
 ***
@@ -903,6 +898,7 @@
 
 * ⭐ **[Grouvee](https://www.grouvee.com/)** - Game Tracker
 * ⭐ **[Glitchwave](https://glitchwave.com/)** - Game Tracker
+* ⭐ **[Backloggd](https://www.backloggd.com/)** - Game Tracker
 * ⭐ **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database
 * ⭐ **[TasteDive](https://tastedive.com/)** - Game Recommendations
 * [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
@@ -913,10 +909,8 @@
 * [GameFAQs](https://gamefaqs.gamespot.com/) - Game Database
 * [GG App](https://ggapp.io/) - Game Tracker
 * [Gamelib](https://gamelib.app/explore) - Game Tracker
-* [Backloggd](https://www.backloggd.com/) - Game Database
 * [LaunchBox Games Database](https://gamesdb.launchbox-app.com/) - Game Database 
 * [IGDB](https://www.igdb.com/) - Game Database
-* [We The Players](https://wetheplayers.com/) - Game Database
 * [Steam Games](https://steam-games.org/) - Game Database
 * [Rawg](https://rawg.io/) - Game Database
 * [Moby Games](https://www.mobygames.com/) - Game Database 
@@ -1058,7 +1052,7 @@
 * [RagnoTech Optimization Catalog](https://ragnos1997.com/optimization-catalog/), [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) or [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - Gaming Optimization Guides
 * [Calypto’s Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/), [MoreFPS](https://morefps.net/), [cancerogenoslab](https://sites.google.com/view/cancerogenoslab/) or [MikeMartin](https://www.mikemartin.co/) - FPS / Latency Guides
 * [LatencyFleX](https://github.com/ishitatsuyuki/LatencyFleX) or [HoneCtrl](https://github.com/auraside/HoneCtrl) - Latency Reduction / FPS Fixes
-* [Fraps Pro](https://github.com/nbats/FMHYedit/blob/main/base64.md#fraps) / [2](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
+* [Fraps](https://fraps.com/), [OCAT](https://gpuopen.com/ocat/) / [GitHub](https://github.com/GPUOpen-Tools/ocat), [Rivatuner Statistics Server](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html), [CapFrameX](https://www.capframex.com/) or [Xbox Game Bar](https://rentry.co/WindowsFPS) - FPS Benchmarking
 * [Ping Enhancer](https://www.wowinterface.com/downloads/info16336-PingEnhancer.html), [ExitLag](https://github.com/Borisizdabezt/exitlag-hwid-spoofer) / [Guide](https://youtu.be/Ga0z5xwZyUA) or [SSTap](https://github.com/FQrabbit/SSTap-Rule/releases/tag/SSTap常用版本及去广告) - Decrease Ping
 * [Overclock](https://www.overclock.net/) - Overclocking Forum
 * [Ryzen Master Utility](https://www.amd.com/en/technologies/ryzen-master) - Overclocking Control for Ryzen Desktop CPU
@@ -1171,6 +1165,7 @@
 * [Charm](https://svenhjol.github.io/Charm/), [Essential](https://essential.gg/), [Quark](https://quarkmod.net/) or [Vanillatweaks](https://www.vanillatweaks.net/) - Mincraft Quality of Life Mods
 * [MCPEDL](https://mcpedl.com/) - Minecraft PE/Bedrock Mods, Maps & Resources
 * [modsman](https://github.com/sargunv/modsman), [Pax](https://github.com/froehlichA/pax) or [Mod Manager](https://github.com/kaniol-lck/modmanager) - Minecraft Mod Managers
+* [r/feedthebeast](https://reddit.com/r/feedthebeast/) - Minecraft Mod Discussion Subreddit
 * [Minecraft Command Science](https://minecraftcommand.science/) - Minecraft Command Generator
 * [Aristois](https://aristois.net/) or [Meteor Client](https://meteorclient.com/) - Minecraft Utility Mod
 * [Minecraft Performance Flags](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks) - Java Minecraft Benchmarks

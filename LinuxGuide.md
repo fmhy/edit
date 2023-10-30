@@ -4,9 +4,181 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/tmmBpQ2)** - For mobile users
+**[Table of Contents](https://ibb.co/RQ12b8N)** - For mobile users
 
 ***
+***
+
+# ► Linux Apps
+
+* 🌐 **[Linux File Backup](https://github.com/restic/others)** - File Backup App List
+* ↪️ **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
+* ⭐ **[mpv](https://mpv.io/)** - Video Player / [Frontend](https://github.com/celluloid-player/celluloid)
+* ⭐ **[WineHQ](https://appdb.winehq.org/)** - Wine Compatibility Database
+* ⭐ **[Q4Wine](https://sourceforge.net/projects/q4wine/)** - Wine GUI
+* [winetricks](https://github.com/Winetricks/winetricks) - Wine Fixes
+* [winapps](https://github.com/Fmstrat/winapps), [Cassowary](https://github.com/casualsnek/cassowary), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - Run Windows Apps on Linux
+* [wslu](https://github.com/wslutilities/wslu) - Utilities for Windows 10 Linux Subsystem
+* [Darling](https://www.darlinghq.org/) - Run MacOS Apps on Linux
+* [Ulauncher](https://ulauncher.io/) - Application Launcher
+* [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - App Image Launcher
+* [DeskCut](https://github.com/NayamAmarshe/DeskCut) - Desktop Shortcuts App
+* [nativefier_tauri](https://github.com/hamza72x/web2app) - Turn Webpages into Desktop Apps
+* [Obscure Unix](https://kkovacs.eu/cool-but-obscure-unix-tools/) - Unix Tools
+* [Autokey](https://github.com/autokey/autokey) - Linux Automation Utility
+* [Crontab Guru](https://crontab.guru/) - Crontab Editor / Job Scheduler
+* [Crontab Generator](https://crontab-generator.org/) - Generate Crontab Syntax
+* [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
+* [Enlightment](https://www.enlightenment.org/), [worm](https://github.com/codic12/worm), [qpwm](https://github.com/ssleert/qpwm) or [dwm](https://dwm.suckless.org/) - Window Manager
+* [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Tiling Windows Manager / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
+* [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
+* [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
+* [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [CatCLI](https://github.com/deadc0de6/catcli), [xplr](https://xplr.dev/) / [GitHub](https://github.com/sayanarijit/xplr) / [Discord](https://discord.com/invite/JmasSPCcz3), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
+* [Dolphin](https://userbase.kde.org/Dolphin), [SpaceFM](https://ignorantguru.github.io/spacefm/) or [ranger](https://github.com/ranger/ranger) - File Managers
+* [p7zip](https://p7zip.sourceforge.net/) - File Archiver / Unzipper
+* [Curlew](https://curlew.sourceforge.io/) - File Converter
+* [Boxxy](https://github.com/queer/boxxy) - Contain Files / Directories 
+* [Junction](https://github.com/sonnyp/Junction) - Change File Associations
+* [Krename](https://apps.kde.org/en-gb/krename/) - Bulk File Renamer
+* [FSLint](http://www.pixelbeat.org/fslint/) or [fclones](https://github.com/pkolaczk/fclones) - Duplicate File Finder
+* [rcm](https://github.com/thoughtbot/rcm) - Manage Dotfiles
+* [Zathura](https://git.pwmt.org/pwmt) - Document Viewer
+* [PDF Mix](https://scarpetta.eu/pdfmixtool/) - PDF Editor
+* [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](http://remarkableapp.github.io/) - Markdown Editor
+* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://github.com/dail8859/NotepadNext), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - Text Editor
+* [Whatever](https://github.com/sbrshk/whatever) - Evernote Client
+* [TextPieces](https://github.com/liferooter/textpieces) - Quick Text Transformations
+* [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI
+* [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
+* [VirtScreen](https://github.com/kbumsik/VirtScreen) - Use Mobile Device as Monitor
+* [Weylus](https://github.com/H-M-H/Weylus) - Use Mobile Device as Trackpad
+* [nyrna](https://github.com/Merrit/nyrna) - Suspend Apps / Games
+* [bluetuith](https://github.com/darkhz/bluetuith) - Bluetooth Manager
+* [QR Scan](https://github.com/sayanarijit/qrscan) - QR Code Scanner
+* [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - Communicate with iOS Devices
+* [Redroid](https://github.com/remote-android/redroid-doc) - Android Emulator
+* [Meteo](https://gitlab.com/bitseater/meteo) - Weather App
+* [Client Evolution](https://help.gnome.org/users/evolution/stable/) - Calendar
+* [todo](https://github.com/sioodmy/todo/) or [pls-cli](https://github.com/guedesfelipe/pls-cli) - To-Do Apps
+* [SafeEyes](http://slgobinath.github.io/SafeEyes/) - Break Reminders
+* [Dijo](https://github.com/NerdyPepper/dijo) - Activity Tracker
+* [dunst](https://dunst-project.org/) - Customizable Notification Daemon / [GitHub](https://github.com/dunst-project/dunst)
+* [Breathing](https://github.com/SeaDve/Breathing) - Relaxation / Breathing Tool
+* [Got](https://github.com/fedeztk/got) or [tl](https://github.com/rilysh/tl) - Translators
+* [DidYouMean](https://github.com/hisbaan/didyoumean) - Grammar Check
+* [KTouch](https://apps.kde.org/ktouch/), [typer](https://github.com/maaslalani/typer) or [Toipe](https://github.com/Samyak2/toipe) - Typing Practice
+* [fmedia](https://github.com/stsaz/fmedia) - Media Player and Converter
+* [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal
+* [Trackma](https://github.com/z411/trackma/) - Anime Tracking App
+* [spotify-qt](https://github.com/kraxarn/spotify-qt), [Spot](https://github.com/xou816/spot) or [SpotifyD](https://github.com/Spotifyd/spotifyd) - Spotify Clients
+* [Librespot-Python](https://github.com/kokarare1212/librespot-python) - Spotify TUI
+* [Monophony](https://gitlab.com/Vistaus/monophony) - YouTube Music Client
+* [Deezer Linux](https://github.com/aunetx/deezer-linux) - Deezer Client
+* [Myuzi](https://gitlab.com/albanobattistella/myuzi) or [Harmony Music](https://github.com/ZingyTomato/Harmony-Music) - Music Streaming Apps
+* [HeadsetControl](https://github.com/Sapd/HeadsetControl) - Headset Settings Manager
+* [SongRec](https://github.com/marin-m/SongRec) - Song Identifier
+* [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
+* [Qtractor](https://qtractor.org/) - Audio Editor
+* [Ecasound](http://nosignal.fi/ecasound/), [Viper4Linux](https://github.com/Audio4Linux/Viper4Linux) / [GUI](https://github.com/Audio4Linux/Viper4Linux-GUI) or [JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - Audio Processors 
+* [Parlatype](https://www.parlatype.org/) - Audio Transcription
+* [cava](https://github.com/karlstav/cava) - Console Audio Visualizer
+* [CasterSoundboard](https://github.com/JupiterBroadcasting/CasterSoundboard) - Soundboard
+* [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
+* [V4L2Loopback](https://github.com/umlaeute/v4l2loopback) - Create Virtual Cameras
+* [Xara Xtreme](http://www.xaraxtreme.org/) - Image Editor
+* [Drawing](https://github.com/maoschanz/drawing) - Drawing App
+* [TextSnatcher](https://github.com/RajSolai/TextSnatcher) or [Frog](https://tenderowl.com/work/frog/) - Image to Text
+* [Feh](https://feh.finalrewind.org/) or [NSXIV](https://github.com/nsxiv/nsxiv) - Image Viewer
+* [lsix](https://github.com/hackerb9/lsix) - View Images in Terminal
+* [Upscaler](https://gitlab.com/TheEvilSkeleton/Upscaler) - Image Upscaler
+* [Trimage](https://trimage.org/) - Image Compressor
+* [MkPosters](https://github.com/patrick-kidger/mkposters) - Turn Markdown Files into Posters
+* [Rapid](https://damonlynch.net/rapid/) - Quick Linux Photo Importer
+* [Sharenix](https://github.com/Francesco149/sharenix) or [MagicCap](https://magiccap.me/) - Screenshot Tool
+* [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
+* [Plumber](https://github.com/keshavbhatt/plumber) - Screen Recorder / Clipping
+* [AV Linux](http://www.bandshed.net/avlinux/) - Video / Audio Editor
+* [Flowblade](https://github.com/jliljebl/flowblade) - Video Editor
+* [Peek](https://github.com/phw/peek) - Simple Video / GIF recorder
+* [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
+
+***
+
+## ▷ Software Sites
+
+* 🌐 **[Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/)**, [Awesome-Linux-Software](https://github.com/crackerica/Awesome-Linux-Software) or [Awesome KDE](https://github.com/francoism90/awesome-kde) - FOSS Software / [Image](https://i.ibb.co/KyTkKHz/ae00a5177857.png)
+* ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* ⭐ **[RuTracker](https://rutracker.org/forum/viewforum.php?f=1381)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
+* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+* [Ultimate Cheatsheet](https://gist.github.com/bgoonz/be5c5be77169ef333b431bc37d331176)
+* [ArchWiki List of Applications](https://wiki.archlinux.org/title/list_of_applications)
+* [LinuxAlt](https://www.linuxalt.com/)
+* [Plan9Port](https://github.com/9fans/plan9port)
+* [tlanyan](https://itlanyan.com/)
+* [Flathub](https://flathub.org/) - Flatpak Repository
+* [SnapCraft](https://snapcraft.io/store) - Snap Repository
+* [NixOS](https://nixos.org/) / [Manager](https://github.com/nix-community/home-manager) or [Homebrew](https://brew.sh/) - Package Managers
+* [AppImageHub](https://www.appimagehub.com/), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download AppImages
+* [AppImagePool](https://github.com/prateekmedia/appimagepool), [Zap](https://github.com/srevinsaju/zap) or [AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) - Appimage Package Managers
+* [yay](https://github.com/Jguer/yay), [paru](https://github.com/morganamilo/paru) or [aura](https://github.com/fosskers/aura) - Arch User Repository Helpers
+* [Apps for GNOME](https://apps.gnome.org/) - GNOME Apps
+* [KDE Applications](https://apps.kde.org/) - KDE Apps
+* [IzzySoft Apt Repositories](https://apt.izzysoft.de/)
+* [Repology](https://repology.org/) - Package Repository Tracker
+* [Pling](https://www.pling.com/) / [2](https://www.linux-apps.com/) - Linux Apps and Themes
+* [Pacstall](https://pacstall.dev/) - AUR-Inspired Package Manager for Ubuntu
+
+***
+
+# ► Linux Gaming
+
+* 🌐 **[Awesome-ttygames](https://github.com/ligurio/awesome-ttygames)** - Unix ASCII Games
+* ⭐ **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** / [2](https://web.archive.org/web/20221022121735/https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?context=3) - Linux Gaming Guides
+* ⭐ **[protondb](https://www.protondb.com/)** - Proton Compatibility Descriptions
+* ⭐ **[Lutris](https://lutris.net/)** - Games Manager
+* ⭐ **[proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** - Play Windows Games on Linux / [Guide](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in/)
+* ⭐ **[ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/)** - Install / Manage Proton-GE for Steam and Wine-GE for Lutris
+* ⭐ **[Batocera.linux](https://batocera.org/)** - Retro Gaming Distro
+* ⭐ **[Nobaraproject](https://nobaraproject.org/)** - Linux Gaming Distro
+* ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
+* ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games / [Support](https://github.com/jc141x/portal)
+* [GameHub](https://tkashkin.github.io/projects/gamehub/), [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) or [Steal](https://github.com/AbdelrhmanNile/steal) - Game Managers
+* [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* [winesapOS](https://github.com/LukeShortCloud/winesapOS) - Play Games on Storage Devices 
+* [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/) - Wiki for Linux Gaming / [Sub Wiki](https://linux-gaming.kwindu.eu/)
+* [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)
+* [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
+* [Lakka](https://lakka.tv/) - Retro Gaming Distro
+* [steam-tui](https://github.com/dmadisetti/steam-tui) - Rust TUI for Steam
+* [steam-cli](https://github.com/berenm/steam-cli) - CLI for Steam
+* [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
+* [GameScope](https://github.com/ValveSoftware/gamescope) - Steam Session Compositing Window Manager
+* [SamRewritten](https://github.com/PaulCombal/SamRewritten) - Steam Achievement Manager
+* [Steam for Linux](https://github.com/ValveSoftware/steam-for-linux) - Steam Linux Beta Issue Tracker
+* [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Epic Games Launcher
+* [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - GOG Client
+* [proton-gog-install](https://github.com/myyc/proton-gog-install) - Windows to Linux GOG Game Installer
+* [CWordle](https://github.com/velorek1/cwordle) - Wordle in Unix Terminal 
+* [NVBurner](https://github.com/iloveichigo/NVBurner) or [CoreCTRL](https://gitlab.com/corectrl/corectrl) - Overclocking Tool
+* [dxvk](https://github.com/doitsujin/dxvk) - D3D9, D3D10 and D3D11 for Linux / Wine
+* [VKBasAlt](https://github.com/DadSchoorse/vkBasalt) - Game Post Processing Layer
+* [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - Linux Gaming Kernels
+* [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System Optimizer
+* [Ananicy](https://github.com/Nefelim4ag/Ananicy) - Fix Program Priority / Lag / [C++](https://gitlab.com/ananicy-cpp/ananicy-cpp)
+* [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
+* [yuzu-ea-updater-for-linux](https://github.com/lem6ns/yuzu-ea-updater-for-linux) - Linux Yuzu Updater
+* [mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Minecraft Android Bedrock Edition Launcher for Linux
+* [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - Roblox Manager
+* [Bloxstrap](https://discord.com/invite/nKjV3mGq6R) - Roblox Launcher
+* [Paimon Launcher](https://notabug.org/loentar/paimon-launcher) - Run Genshin Impact
+* [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in your Terminal (Recreation)
+* [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Gameboy Emulator
+* [Gambit](https://github.com/maaslalani/gambit) - Terminal Chess
+* [Sssnake](https://github.com/AngelJumbo/sssnake) - Terminal Snake
+* [Defuse Division](https://github.com/lelandbatey/defuse_division) - Multiplayer Terminal Minesweeper
+
 ***
 
 # ► Linux Tools
@@ -91,102 +263,6 @@
 * [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Hardcoded Tray Icon Fix
 * [open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux Open GPU Kernel Module
 * [nosystemd](https://nosystemd.org/) - Alternatives to Systemd
-
-***
-
-## ▷ Linux Apps
-
-* 🌐 **[Linux File Backup](https://github.com/restic/others)** - File Backup App List
-* ↪️ **[Music Libraries / Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
-* ⭐ **[mpv](https://mpv.io/)** - Video Player / [Frontend](https://github.com/celluloid-player/celluloid)
-* ⭐ **[WineHQ](https://appdb.winehq.org/)** - Wine Compatibility Database
-* ⭐ **[Q4Wine](https://sourceforge.net/projects/q4wine/)** - Wine GUI
-* [winetricks](https://github.com/Winetricks/winetricks) - Wine Fixes
-* [winapps](https://github.com/Fmstrat/winapps), [Cassowary](https://github.com/casualsnek/cassowary), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - Run Windows Apps on Linux
-* [wslu](https://github.com/wslutilities/wslu) - Utilities for Windows 10 Linux Subsystem
-* [Darling](https://www.darlinghq.org/) - Run MacOS Apps on Linux
-* [FlameGApps](https://github.com/flamegapps/flamegapps) - Google Apps Installer
-* [Ulauncher](https://ulauncher.io/) - Application Launcher
-* [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - App Image Launcher
-* [DeskCut](https://github.com/NayamAmarshe/DeskCut) - Desktop Shortcuts App
-* [nativefier_tauri](https://github.com/hamza72x/web2app) - Turn Webpages into Desktop Apps
-* [Obscure Unix](https://kkovacs.eu/cool-but-obscure-unix-tools/) - Unix Tools
-* [Autokey](https://github.com/autokey/autokey) - Linux Automation Utility
-* [Crontab Guru](https://crontab.guru/) - Crontab Editor / Job Scheduler
-* [Crontab Generator](https://crontab-generator.org/) - Generate Crontab Syntax
-* [Touchégg](https://github.com/JoseExposito/touchegg) - Multi-Touch Gesture Recognizer
-* [Enlightment](https://www.enlightenment.org/), [worm](https://github.com/codic12/worm), [qpwm](https://github.com/ssleert/qpwm) or [dwm](https://dwm.suckless.org/) - Window Manager
-* [zentile](https://github.com/blrsn/zentile) or [bspwm](https://github.com/baskerville/bspwm) - Tiling Windows Manager / [Sub](https://www.reddit.com/r/bspwm/) / [Binds](https://github.com/baskerville/sxhkd)
-* [Material Shell](https://material-shell.com/) or [Forge](https://github.com/forge-ext/forge) - GNOME Tiling Extension
-* [Bismuth](https://bismuth-forge.github.io/bismuth/) - KDE Tiling Extension / [GitHub](https://github.com/Bismuth-Forge/bismuth)
-* [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch), [CatCLI](https://github.com/deadc0de6/catcli), [xplr](https://xplr.dev/) / [GitHub](https://github.com/sayanarijit/xplr) / [Discord](https://discord.com/invite/JmasSPCcz3), [logo-ls](https://github.com/Yash-Handa/logo-ls), [ugrep](https://github.com/Genivia/ugrep) or [Achoz](https://github.com/kcubeterm/achoz) - File Explorers
-* [Dolphin](https://userbase.kde.org/Dolphin), [SpaceFM](https://ignorantguru.github.io/spacefm/) or [ranger](https://github.com/ranger/ranger) - File Managers
-* [p7zip](https://p7zip.sourceforge.net/) - File Archiver / Unzipper
-* [Curlew](https://curlew.sourceforge.io/) - File Converter
-* [Boxxy](https://github.com/queer/boxxy) - Contain Files / Directories 
-* [Junction](https://github.com/sonnyp/Junction) - Change File Associations
-* [Krename](https://apps.kde.org/en-gb/krename/) - Bulk File Renamer
-* [FSLint](http://www.pixelbeat.org/fslint/) or [fclones](https://github.com/pkolaczk/fclones) - Duplicate File Finder
-* [rcm](https://github.com/thoughtbot/rcm) - Manage Dotfiles
-* [Zathura](https://git.pwmt.org/pwmt) - Document Viewer
-* [PDF Mix](https://scarpetta.eu/pdfmixtool/) - PDF Editor
-* [Ghostwriter](https://ghostwriter.kde.org/) or [Remarkable](http://remarkableapp.github.io/) - Markdown Editor
-* [Gedit](https://wiki.gnome.org/Apps/Gedit), [Geany](https://www.geany.org/), [Leafpad](http://tarot.freeshell.org/leafpad/), [NotepadNext](https://github.com/dail8859/NotepadNext), [Featherpad](https://github.com/tsujan/FeatherPad), [Mousepad](https://github.com/codebrainz/mousepad) or [Notepadqq](https://notepadqq.com/) - Text Editor
-* [Whatever](https://github.com/sbrshk/whatever) - Evernote Client
-* [TextPieces](https://github.com/liferooter/textpieces) - Quick Text Transformations
-* [ly](https://github.com/fairyglade/ly) - Display Manager with Console UI
-* [GammaStep](https://gitlab.com/chinstrap/gammastep) - Adjust Screen Temperature
-* [VirtScreen](https://github.com/kbumsik/VirtScreen) - Use Mobile Device as Monitor
-* [Weylus](https://github.com/H-M-H/Weylus) - Use Mobile Device as Trackpad
-* [nyrna](https://github.com/Merrit/nyrna) - Suspend Apps / Games
-* [bluetuith](https://github.com/darkhz/bluetuith) - Bluetooth Manager
-* [QR Scan](https://github.com/sayanarijit/qrscan) - QR Code Scanner
-* [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - Communicate with iOS Devices
-* [Redroid](https://github.com/remote-android/redroid-doc) - Android Emulator
-* [Meteo](https://gitlab.com/bitseater/meteo) - Weather App
-* [Client Evolution](https://help.gnome.org/users/evolution/stable/) - Calendar
-* [todo](https://github.com/sioodmy/todo/) or [pls-cli](https://github.com/guedesfelipe/pls-cli) - To-Do Apps
-* [SafeEyes](http://slgobinath.github.io/SafeEyes/) - Break Reminders
-* [Dijo](https://github.com/NerdyPepper/dijo) - Activity Tracker
-* [dunst](https://dunst-project.org/) - Customizable Notification Daemon / [GitHub](https://github.com/dunst-project/dunst)
-* [Breathing](https://github.com/SeaDve/Breathing) - Relaxation / Breathing Tool
-* [Got](https://github.com/fedeztk/got) or [tl](https://github.com/rilysh/tl) - Translators
-* [DidYouMean](https://github.com/hisbaan/didyoumean) - Grammar Check
-* [KTouch](https://apps.kde.org/ktouch/), [typer](https://github.com/maaslalani/typer) or [Toipe](https://github.com/Samyak2/toipe) - Typing Practice
-* [fmedia](https://github.com/stsaz/fmedia) - Media Player and Converter
-* [ani-cli](https://github.com/pystardust/ani-cli) - Anime Streaming Terminal
-* [Trackma](https://github.com/z411/trackma/) - Anime Tracking App
-* [spotify-qt](https://github.com/kraxarn/spotify-qt), [Spot](https://github.com/xou816/spot) or [SpotifyD](https://github.com/Spotifyd/spotifyd) - Spotify Clients
-* [Librespot-Python](https://github.com/kokarare1212/librespot-python) - Spotify TUI
-* [Monophony](https://gitlab.com/Vistaus/monophony) - YouTube Music Client
-* [Deezer Linux](https://github.com/aunetx/deezer-linux) - Deezer Client
-* [Myuzi](https://gitlab.com/albanobattistella/myuzi) or [Harmony Music](https://github.com/ZingyTomato/Harmony-Music) - Music Streaming Apps
-* [HeadsetControl](https://github.com/Sapd/HeadsetControl) - Headset Settings Manager
-* [SongRec](https://github.com/marin-m/SongRec) - Song Identifier
-* [Pipewire](https://wiki.archlinux.org/title/PipeWire#Noise_suppression_for_voice) or [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Noise Suppression Software
-* [Qtractor](https://qtractor.org/) - Audio Editor
-* [Ecasound](http://nosignal.fi/ecasound/), [Viper4Linux](https://github.com/Audio4Linux/Viper4Linux) / [GUI](https://github.com/Audio4Linux/Viper4Linux-GUI) or [JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux) - Audio Processors 
-* [Parlatype](https://www.parlatype.org/) - Audio Transcription
-* [cava](https://github.com/karlstav/cava) - Console Audio Visualizer
-* [CasterSoundboard](https://github.com/JupiterBroadcasting/CasterSoundboard) - Soundboard
-* [photoshopCClinux](https://github.com/Gictorbit/photoshopCClinux) - Linux Photoshop Installer
-* [V4L2Loopback](https://github.com/umlaeute/v4l2loopback) - Create Virtual Cameras
-* [Xara Xtreme](http://www.xaraxtreme.org/) - Image Editor
-* [Drawing](https://github.com/maoschanz/drawing) - Drawing App
-* [TextSnatcher](https://github.com/RajSolai/TextSnatcher) or [Frog](https://tenderowl.com/work/frog/) - Image to Text
-* [Feh](https://feh.finalrewind.org/) or [NSXIV](https://github.com/nsxiv/nsxiv) - Image Viewer
-* [lsix](https://github.com/hackerb9/lsix) - View Images in Terminal
-* [Upscaler](https://gitlab.com/TheEvilSkeleton/Upscaler) - Image Upscaler
-* [Trimage](https://trimage.org/) - Image Compressor
-* [MkPosters](https://github.com/patrick-kidger/mkposters) - Turn Markdown Files into Posters
-* [Rapid](https://damonlynch.net/rapid/) - Quick Linux Photo Importer
-* [Sharenix](https://github.com/Francesco149/sharenix) or [MagicCap](https://magiccap.me/) - Screenshot Tool
-* [Gromit MPX](https://github.com/bk138/gromit-mpx) - Screen Annotation
-* [Plumber](https://github.com/keshavbhatt/plumber) - Screen Recorder / Clipping
-* [AV Linux](http://www.bandshed.net/avlinux/) - Video / Audio Editor
-* [Flowblade](https://github.com/jliljebl/flowblade) - Video Editor
-* [Peek](https://github.com/phw/peek) - Simple Video / GIF recorder
-* [Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam/) - Fake Webcam Background
 
 ***
 
@@ -316,80 +392,7 @@
 
 ***
 
-# ► Linux Software
-
-* 🌐 **[Awesome Linux](https://luong-komorebi.github.io/Awesome-Linux-Software/)**, [Awesome-Linux-Software](https://github.com/crackerica/Awesome-Linux-Software) or [Awesome KDE](https://github.com/francoism90/awesome-kde) - FOSS Software / [Image](https://i.ibb.co/KyTkKHz/ae00a5177857.png)
-* ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
-* ⭐ **[RuTracker](https://rutracker.org/forum/viewforum.php?f=1381)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
-* ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - Multi-Site Software Search
-* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-* [Ultimate Cheatsheet](https://gist.github.com/bgoonz/be5c5be77169ef333b431bc37d331176)
-* [ArchWiki List of Applications](https://wiki.archlinux.org/title/list_of_applications)
-* [LinuxAlt](https://www.linuxalt.com/)
-* [Plan9Port](https://github.com/9fans/plan9port)
-* [tlanyan](https://itlanyan.com/)
-* [Flathub](https://flathub.org/) - Flatpak Repository
-* [SnapCraft](https://snapcraft.io/store) - Snap Repository
-* [NixOS](https://nixos.org/) / [Manager](https://github.com/nix-community/home-manager) or [Homebrew](https://brew.sh/) - Package Managers
-* [AppImageHub](https://www.appimagehub.com/), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download AppImages
-* [AppImagePool](https://github.com/prateekmedia/appimagepool), [Zap](https://github.com/srevinsaju/zap) or [AM-Application-Manager](https://github.com/ivan-hc/AM-Application-Manager) - Appimage Package Managers
-* [yay](https://github.com/Jguer/yay), [paru](https://github.com/morganamilo/paru) or [aura](https://github.com/fosskers/aura) - Arch User Repository Helpers
-* [Apps for GNOME](https://apps.gnome.org/) - GNOME Apps
-* [KDE Applications](https://apps.kde.org/) - KDE Apps
-* [IzzySoft Apt Repositories](https://apt.izzysoft.de/)
-* [Repology](https://repology.org/) - Package Repository Tracker
-* [Pling](https://www.pling.com/) / [2](https://www.linux-apps.com/) - Linux Apps and Themes
-* [Pacstall](https://pacstall.dev/) - AUR-Inspired Package Manager for Ubuntu
-
-***
-
-# ► Linux Gaming
-
-* 🌐 **[Awesome-ttygames](https://github.com/ligurio/awesome-ttygames)** - Unix ASCII Games
-* ⭐ **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** / [2](https://web.archive.org/web/20221022121735/https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?context=3) - Linux Gaming Guides
-* ⭐ **[protondb](https://www.protondb.com/)**, **[Lutris](https://lutris.net/)** or [Proton](https://github.com/ValveSoftware/Proton) - Play Windows games on Linux
-* ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
-* ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux Games
-* ⭐ **[johncena141](https://1337x.to/user/johncena141/)** - Linux Games / [Support](https://github.com/jc141x/portal)
-* [GameHub](https://tkashkin.github.io/projects/gamehub/), [UnderTaker141](https://github.com/AbdelrhmanNile/UnderTaker141) or [Steal](https://github.com/AbdelrhmanNile/steal) - Game Managers
-* [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
-* [winesapOS](https://github.com/LukeShortCloud/winesapOS) - Play Games on Storage Devices 
-* [Gaming-on-Linux Wiki](https://www.gamingonlinux.com/) - Wiki for Linux Gaming / [Sub Wiki](https://linux-gaming.kwindu.eu/)
-* [Gamebuntu](https://discourse.ubuntu.com/t/gamebuntu/25544/13) - Setup Gaming Environment on Ubuntu / [GitLab](https://gitlab.com/rswat09/gamebuntu)
-* [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/) or [proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Install & Manage Proton-GE for Steam / Wine
-* [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
-* [Batocera.linux](https://batocera.org/) or [Lakka](https://lakka.tv/) - Retro Gaming Distro
-* [steam-tui](https://github.com/dmadisetti/steam-tui) - Rust TUI for Steam
-* [steam-cli](https://github.com/berenm/steam-cli) - CLI for Steam
-* [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) or [Boxtron](https://github.com/dreamer/boxtron) - Run Steam Games on Linux
-* [GameScope](https://github.com/ValveSoftware/gamescope) - Steam Session Compositing Window Manager
-* [SamRewritten](https://github.com/PaulCombal/SamRewritten) - Steam Achievement Manager
-* [Steam for Linux](https://github.com/ValveSoftware/steam-for-linux) - Steam Linux Beta Issue Tracker
-* [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Epic Games Launcher
-* [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - GOG Client
-* [proton-gog-install](https://github.com/myyc/proton-gog-install) - Windows to Linux GOG Game Installer
-* [CWordle](https://github.com/velorek1/cwordle) - Wordle in Unix Terminal 
-* [NVBurner](https://github.com/iloveichigo/NVBurner) or [CoreCTRL](https://gitlab.com/corectrl/corectrl) - Overclocking Tool
-* [dxvk](https://github.com/doitsujin/dxvk) - D3D9, D3D10 and D3D11 for Linux / Wine
-* [VKBasAlt](https://github.com/DadSchoorse/vkBasalt) - Game Post Processing Layer
-* [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - Linux Gaming Kernels
-* [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System Optimizer
-* [Ananicy](https://github.com/Nefelim4ag/Ananicy) - Fix Program Priority / Lag / [C++](https://gitlab.com/ananicy-cpp/ananicy-cpp)
-* [LibreGaming](https://github.com/Ahmed-Al-Balochi/LibreGaming) - Linux Game Package Downloader
-* [yuzu-ea-updater-for-linux](https://github.com/lem6ns/yuzu-ea-updater-for-linux) - Linux Yuzu Updater
-* [mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Minecraft Android Bedrock Edition Launcher for Linux
-* [Grapejuice](https://gitlab.com/brinkervii/grapejuice) - Roblox Manager
-* [Bloxstrap](https://discord.com/invite/nKjV3mGq6R) - Roblox Launcher
-* [Paimon Launcher](https://notabug.org/loentar/paimon-launcher) - Run Genshin Impact
-* [among-sus](https://git.sr.ht/~martijnbraam/among-sus) - Play Among Us in your Terminal (Recreation)
-* [Gameboy.live](https://github.com/HFO4/gameboy.live) - Terminal Gameboy Emulator
-* [Gambit](https://github.com/maaslalani/gambit) - Terminal Chess
-* [Sssnake](https://github.com/AngelJumbo/sssnake) - Terminal Snake
-* [Defuse Division](https://github.com/lelandbatey/defuse_division) - Multiplayer Terminal Minesweeper
-
-***
-
-# ► Mac Tools / Apps
+# ► Mac Apps
 
 * ↪️ **[Mac Audio Players](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_music_libraries_.2F_players)**
 * ⭐ **[gibMacOS](https://github.com/corpnewt/gibMacOS)** or [OldSchoolOS](https://www.oldschoolos.com/) - Download MacOS
@@ -532,7 +535,40 @@
 
 ***
 
-## ▷ Adblock / Privacy
+## ▷ Software Sites
+
+* 🌐 **[Awesome MacOS](https://github.com/iCHAIT/awesome-macOS)**, [OpenSourceApple](https://opensource.apple.com/), [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) or [Awesome OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - FOSS App Indexes
+* 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Index
+* ⭐ **[AppsTorrent](https://appstorrent.ru/)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
+* ⭐ **[Homebrew](https://brew.sh/)** or [AppLite](https://aerolite.dev/applite/index.html) - Package Managers
+* [Macintosh Garden](http://macintoshgarden.org/)
+* [nMac](https://nmac.to/)
+* [MacBed](https://www.macbed.com/)
+* [Pure Mac](https://www.pure-mac.com/)
+* [Macupdate](https://www.macupdate.com/)
+* [Cmacked](https://cmacked.com/)
+* [Mac Torrents](https://www.torrentmac.net/)
+* [AllMacWorlds](https://allmacworlds.com/)
+* [InsMac](https://insmac.org/)
+* [MacX](https://macx.ws/)
+* [WebCatalog](https://webcatalog.io/)
+
+***
+
+# ► Mac Gaming
+
+* ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** - Mac Game Fixes / Compatibility
+* ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)**
+* [SCNLOG](https://scnlog.me/)
+* [nMac](https://nmac.to/)
+* [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Epic Games Launcher
+* [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - Gamecube iso.dec to ISO Converter
+* [rbxfpsunlocker-osx](https://github.com/lanylow/rbxfpsunlocker-osx) - Roblox FPS Unlocker
+* [cemu.emiyl](https://cemu.emiyl.com/) - CEMU Compatibility List
+
+***
+
+# ► Adblock / Privacy
 
 * 🌐 **[Awesome OSX Security](https://github.com/ashishb/osx-and-ios-security-awesome)** - Mac Security Resources
 * ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**, [BlockBlock](https://objective-see.org/products/blockblock.html) or [KnockKnock](https://objective-see.org/products/knockknock.html) - Antivirus
@@ -564,36 +600,3 @@
 * [V2rayU](https://github.com/yanue/V2rayU) - DIY Privacy Network
 * [MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/) - Privacy-Based Email Client
 * [Damus](https://damus.io/) - Encrypted Messaging App
-
-***
-
-# ► Mac Software
-
-* 🌐 **[Awesome MacOS](https://github.com/iCHAIT/awesome-macOS)**, [OpenSourceApple](https://opensource.apple.com/), [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) or [Awesome OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - FOSS App Indexes
-* 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Index
-* ⭐ **[AppsTorrent](https://appstorrent.ru/)** / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
-* ⭐ **[Homebrew](https://brew.sh/)** or [AppLite](https://aerolite.dev/applite/index.html) - Package Managers
-* [Macintosh Garden](http://macintoshgarden.org/)
-* [nMac](https://nmac.to/)
-* [MacBed](https://www.macbed.com/)
-* [Pure Mac](https://www.pure-mac.com/)
-* [Macupdate](https://www.macupdate.com/)
-* [Cmacked](https://cmacked.com/)
-* [Mac Torrents](https://www.torrentmac.net/)
-* [AllMacWorlds](https://allmacworlds.com/)
-* [InsMac](https://insmac.org/)
-* [MacX](https://macx.ws/)
-* [WebCatalog](https://webcatalog.io/)
-
-***
-
-# ► Mac Gaming
-
-* ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** - Mac Game Fixes / Compatibility
-* ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)**
-* [SCNLOG](https://scnlog.me/)
-* [nMac](https://nmac.to/)
-* [HeroicGamesLauncher](https://heroicgameslauncher.com/) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Epic Games Launcher
-* [NASOS](https://archive.org/download/nNASOS1.8/nNASOS1.8.zip) - Gamecube iso.dec to ISO Converter
-* [rbxfpsunlocker-osx](https://github.com/lanylow/rbxfpsunlocker-osx) - Roblox FPS Unlocker
-* [cemu.emiyl](https://cemu.emiyl.com/) - CEMU Compatibility List

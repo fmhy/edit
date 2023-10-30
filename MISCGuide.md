@@ -19,7 +19,7 @@
 * 🌐 **[/r/PiratedGames Mega](https://rentry.org/pgames)** / [Discord](https://discord.gg/dZWwhUy) - Game Piracy Index
 * 🌐 **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** - Game Piracy Index
 * 🌐 **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Index
-* 🌐 **[Wotaku](https://wotaku.moe/)** - Japanese Piracy Index / [Discord](https://discord.wotaku.moe/) - Japanese Piracy Index
+* 🌐 **[Wotaku](https://wotaku.moe/)** - Japanese Piracy Index
 * 🌐 **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
 * 🌐 **[EverythingMoe](https://everythingmoe.com/)** - Japanese Piracy Index
 * ↪️ **[Awesome List Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_awesome_lists)**
@@ -67,7 +67,6 @@
 * [Pointless Sites](https://www.pointlesssites.com/) - Pointless Site Index
 * [Websites From Hell](https://websitesfromhell.net/) - Shitty Website Index
 * [National Archives](http://www.nationalarchives.gov.uk/webarchive/) - UK Government Site Archive
-* [UKWA](https://www.webarchive.org.uk/ukwa/) - UK Site Archive
 * [The Hive Index](https://thehiveindex.com/) - Online Communities Index
 * [NetSplit](https://netsplit.de/) - IRC Channel Index
 * [Cyberlife](https://cyberpunk-life.neocities.org/) - Cyberpunk-Related Content / Sites Index
@@ -102,9 +101,6 @@
 * [/r/googleplaydeals](https://reddit.com/r/googleplaydeals) - APKs
 * [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - APKs
 * [App Sales](https://www.app-sales.net/) - APKs
-* [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - APKs
-* [AppsFree](https://play.google.com/store/apps/details?id=com.appsfree.android) - APKs
-* [PlayDeals](https://play.google.com/store/apps/details?id=me.sujanpoudel.playdeals) - APKs
 * [InstlApp](https://apps.apple.com/us/app/instlapp/id1502777382) - iOS Apps
 * [AppSumo Freebies](https://appsumo.com/tools/freebies/) - iOS Apps
 * [FreemiumBox](https://t.me/freemiumbox) - Giveaways and Freebies
@@ -129,7 +125,7 @@
 * ↪️ **[Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspaper_sites)**
 * ↪️ **[Worldwide News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_worldwide_news_sites_index)**
 * ↪️ **[Tech News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tech_news)**
-* ↪️ **[Security News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_security_.2F_hacking_news)**
+* ↪️ **[Security / Hacking News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_security_.2F_hacking_news)**
 * ↪️ **[Health News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_health_news)**
 * ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_read_paywalled_articles)**
 * ↪️ **[Article Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_text_rephrashing)**
@@ -476,7 +472,6 @@
 * [Snap Map](https://map.snapchat.com/) - Snap Chat Map
 * [Flickr Map](https://www.flickr.com/map/) - Flickr Map
 * [U Meet Me Here!](https://www.umeetmehere.com/) or [WhatIsHalfway](https://www.whatshalfway.com/) - Find Closest Point Between Two Locations
-* [Where Is This](https://www.where-is-this.com/) - Find Location of Place by Image
 * [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
 * [Maps We Love](https://www.esri.com/en-us/maps-we-love/gallery), [CoolMaps](https://coolmaps.esri.com/#0), [SoGeografia](https://www.sogeografia.com.br/Mapas/) or [/r/MapPorn](https://reddit.com/r/MapPorn) - Multiple Maps 
 * [Mappin](https://app.mappin.pro/) - Printable Maps
@@ -591,7 +586,7 @@
 * [Cava's Pixel Resources](https://caveras.net/) - Pixel Fonts
 * [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - Oldschool PC Fonts
 * [Textanim](https://textanim.com/) or [Space Type Generator](https://spacetypegenerator.com/) - Animated Text Generator 
-* [3DText2GIF](https://3dtext2gif.com/), [3DTextMaker](https://www.3dtextmaker.com/) or [TextsStudio](https://textstudio.co/) - Animated 3D Text Generator
+* [3DText2GIF](https://3dtext2gif.com/) or [TextsStudio](https://textstudio.co/) - Animated 3D Text Generator
 * [Batname](https://batname.vercel.app/) - Batman (2022) Font Generator
 * [Codeface](https://github.com/chrissimpkins/codeface) - Fonts for Coding
 * [Metropolis](https://github.com/dw5/Metropolis) - Modern Typeface
