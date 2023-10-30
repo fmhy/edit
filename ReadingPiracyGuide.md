@@ -989,6 +989,7 @@
 * [wuxiaworld](https://www.wuxiaworld.com/)
 * [Henkan Epubs](https://henkanepubs.wordpress.com/)
 * [LNWNCentral](https://lnwncentral.wordpress.com/)
+* [WebNovel.com](https://www.webnovel.com/)
 * [Octiopii](https://octopii.co/)
 * [AsianHobbyist](https://www.asianhobbyist.com/)
 * [Read Light Novel](https://www.readlightnovel.me/)
