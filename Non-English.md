@@ -42,13 +42,10 @@
 * [Shooflive](https://r.shooflive.co/) - Movies / TV / Anime
 * [Shafilm](https://shafilm.vip/) - Movies / TV / Anime / Cartoons
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons
-* [ArabLionz](https://arablionz.watch/) - Movies / TV
 * [cima-club](https://cima-club.vip/) - TV / Anime
 * [eshiq](https://e3sk.com/) - Turkish TV
-* [asia2tv](https://asia2tv.cn/) - Asian Drama
 * [animebdk](https://animebdk.blogspot.com/) - Anime
 * [jotorrent](https://www.jotorrent.com/) - Anime / Open-Signups Each Month
-* [gateanime](https://e.gateanime.com/) - Anime
 * [AnimeFlick](https://animeflick.net/) - Anime
 * [AnimeTak](https://animetak.org/) - Anime
 * [shahiid](https://shahiid-anime.net/) - Anime
@@ -222,7 +219,6 @@
 * [beyondHD ](https://t.me/beyondHD) - Movies / Subs
 * [Watch HK Movies Online](https://vinspirezhk.blogspot.com/) - Rare Chinese Movies / English Subs
 * [Movie Forest](https://549.tv/) or [klyingshi](https://klyingshi.com/) - Chinese Streaming Site Indexes
-* [PangzITV](https://pangzitv.com/) - Movies / TV / Anime
 * [tangrenjie](https://www.tangrenjie.tv/) - Movies / TV / Anime
 * [ddrk](https://ddys.pro/) - Movies / TV / Anime
 * [Tencent Video](https://v.qq.com/) - Movies / TV / Anime / [Downloader](https://weibomiaopai.com/online-video-downloader/tencent)
@@ -1507,7 +1503,6 @@
 * [Descargandoxmega](https://www.descargandoxmega.com/) - Movies / TV / Animation / Latino / Castilian
 * [SomosMovies](https://somosmovies.com/) - Movies / TV
 * [Mega1080](https://www.mega1080.com/) - Movies / Documentaries
-* [DLShared](https://dlshareds.blogspot.com/?m=1) - Movies / Music
 * [CompucaliTV](https://www.compucalitv.com/) - Movies / TV / Latino
 * [mirandopeliculas](https://mirandopeliculas.com/) - Movies / TV / Latino
 * [TodoPelisHD](https://todopelishd.com/) - Movies / Latino
@@ -1554,7 +1549,6 @@
 * [Tlandia](https://torrentlandia.site/) - Movies / Latino
 * [DiXvA](https://www.dixva.com/), [2](https://www.sinsitio.site/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
 * [Zonatorrent](https://zonatorrent.in/) - Movies / TV / Castilian / [Bypasser script](https://greasyfork.org/en/scripts/462510-spanish-torrent-sites-short-link-bypasser)
-* [Frozen-Layer](https://www.frozen-layer.com/) - Anime
 * [unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Akiba-kei](http://akiba-team.org/) - Anime
 * [Animextremist](http://animextremist.com/) - Anime / Manga
