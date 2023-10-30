@@ -501,7 +501,7 @@
 * [Splitter](https://www.splitter.ai/), [AudioChum](https://audiochum.com/), [splitmysong](https://www.splitmysong.com/), [free-music-demixer](https://freemusicdemixer.com/), [ezstems](https://ezstems.com/) or [melody ml](https://melody.ml/) - Separate Voice from Instrumentals
 * [Acapella-Extractor](https://www.acapella-extractor.com/) - Remove Background Tracks from Songs
 * [Krisp](https://krisp.ai/) or [noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) / [CLI](https://github.com/IniasP/rnnoise-cli) - Noise Suppression Tools
-* [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10)or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixer
+* [Wave Link](https://help.elgato.com/hc/en-us/articles/360044566172-Wave-Link-First-Time-Setup-for-Windows-10) or [VoiceMeeter](https://vb-audio.com/Voicemeeter/index.htm) / [Banana](https://vb-audio.com/Voicemeeter/banana.htm) - Audio Mixers / Multi-Device Playback
 * [Sound Branch](https://soundbran.ch/) or [ZenCastr](https://zencastr.com/) - Podcast Creators
 * [Spotify Podcasters](https://podcasters.spotify.com/) - Podcaster Dashboard
 * [Luplayer](https://luplayer.org/) - Podcast Sound Effects
@@ -840,7 +840,6 @@
 * [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Chrome without Google / [Launcher](https://github.com/henrypp/chrlauncher)
 * [Carbonyl](https://github.com/fathyb/carbonyl) - Chromium in Terminal
 * [Chrome Theme Studio](https://chrometheme.studio/) - Create Chrome Theme
-* [Safari Windows](https://github.com/nbats/FMHYedit/blob/main/base64.md#safari-windows) - Safari for Windows
 * [Firemin](https://www.rizonesoft.com/downloads/firemin/) or `about:memory` - Reduce Firefox Memory Usage
 * [Firefox Tweaker](https://rejzor.wordpress.com/firefox-tweaker/) or [Hidden Settings](https://gitlab.com/Madis0/hidden-settings/) - Firefox Hidden Settings
 * [Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - Firefox UI Enhancements
@@ -1671,7 +1670,6 @@
 * [How-To Crack Windows Passwords](https://samsclass.info/123/proj14/123p12winhash.htm) 
 * [hashcat](https://hashcat.net/hashcat/) or [BIOS-PW](https://bios-pw.org/) - System Password Recovery Tools
 * [Wu10Man](https://github.com/WereDev/Wu10Man), [stopupdates10](https://greatis.com/stopupdates10/), [InControl](https://www.grc.com/incontrol.htm) or [windows-update-blocker](https://www.sordum.org/9470/windows-update-blocker-v1-7/) - Enable / Disable Windows 10 Updates
-* [WinXP Service Pack 4](https://www.majorgeeks.com/files/details/windows_xp_service_pack_4_unofficial.html) - Windows XP Unofficial Service Pack 4 / [Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#winxp-service-pack-4)
 * [ChangeWindows](https://www.changewindows.org/timeline) - Latest Windows Update Info
 * [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) or [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - Extended Windows 7 Updates
 * [LegacyUpdate](https://github.com/kirb/LegacyUpdate) - Fix Windows Updates for Legacy Editions
@@ -1842,7 +1840,6 @@
 * [Cursors 4U](https://www.cursors-4u.com/), [Cursor Mania Archive](https://archive.org/details/cursormania), [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor), [Cursors Pastebin](https://pastebin.com/BrAbMy4n) or [rw-designer](http://rw-designer.com/cursor-library) - Cursors
 * [macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - MacOS Cursors for Windows
 * [AngryWindows](https://github.com/ch3rn0byl/AngryWindows) - Custom Blue Screen of Death
-* [Win11 Sounds](https://github.com/nbats/FMHYedit/blob/main/base64.md#win11-sounds) - Windows Sound Schemes
 * [Win7BootUpdater](https://mega.nz/file/T5ZDmIaK#jdiomK79q1CYzwFcbzkzJ1ceLsWlnAHLvofsjHIq39g) - Customize Windows 7 Boot Animation / [Guide](https://youtu.be/IdwcWIKuVG8)
 * [ElectricSheep](https://electricsheep.org/) - Collaborative Usergenerated Screensaver
 * [After Dark CSS](https://www.bryanbraun.com/after-dark-css/) - Browser Screensavers
@@ -2252,6 +2249,7 @@
 * [APKVision](https://apkvision.org/)
 * [TeamOS](https://www.teamos.xyz/)
 * [APK Home](https://apkhome.io/)
+* [RockMods](https://www.rockmods.net/) - [Telegram](https://t.me/RBMods)
 * [DL King](http://dl.king2net.com/soft%20android/)
 * [Modding United](https://moddingunited.xyz/)
 * [AKMods](https://www.akmods.in/)
@@ -2283,7 +2281,6 @@
 * [apk.cafe](https://apk.cafe/)
 * [Material-You-app-list](https://github.com/nyas1/Material-You-app-list)
 * [Mitch](https://sr.ht/~gardenapple/mitch/) - .io Games Storefront
-* [Fine Lock](https://finelock.app/) or [Good Lock](https://apps.samsung.com/appquery/appDetail.as?appId=com.samsung.android.goodlock) - Samsung Galaxy Apps
 * [Shelf](https://play.google.com/store/apps/details?id=com.shelf.app) - App Recommendations
 * [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - App Giveaway Sites
 
@@ -2317,7 +2314,6 @@
 * [ANiK555_Mods](https://t.me/ANiK555_Mods)
 * [EasyAPK](https://t.me/EasyAPK)
 * [Tech Day](https://t.me/s/tech_d4y)
-* [GalaxyAPKs](https://t.me/galaxy_apks)
 * [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re)
 * [faloojein](https://t.me/faloojein)
 * [IC_Mods](https://t.me/IC_Mods)
@@ -2333,6 +2329,7 @@
 ## ▷ Android Device
 
 * 🌐 **[Root Essentials](https://sites.google.com/view/superthomaslab/root-essentials)** - Multiple Root Tools
+* 🌐 **[Manufacturer Specific](https://rentry.org/ekrw4)** - Manufacturer Specific Mobile Tools
 * ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)**
 * ↪️ **[Custom Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_operating_systems)**
 * ↪️ **[App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers)**
@@ -2355,11 +2352,11 @@
 * [QuickSwitch](https://github.com/skittles9823/QuickSwitch) - Enable Quickstep in Launchers 
 * [Activity Launcher](https://github.com/butzist/ActivityLauncher) - Activity Launch Shortcuts
 * [Android Debloat Guide](https://rentry.co/debloatandroid), [debloat-android](https://christitus.com/debloat-android/) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
-* [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/0x192/universal-android-debloater), [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) or [Debloat Samsung Android](https://github.com/khlam/debloat-samsung-android) - Android Debloaters
+* [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/0x192/universal-android-debloater) or [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) - Android Debloaters
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Make Your Phone Less Distracting
 * [Hail](https://github.com/aistra0528/Hail) - Auto-Deactivate Unused Apps
 * [Blocker](https://github.com/lihenggui/blocker) - Component Controller
-* [Ponydroid](https://github.com/nbats/FMHYedit/blob/main/base64.md#ponydroid), [Jdownloader](https://my.jdownloader.org/), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager), [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager.adm.lite), [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) or [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Download File Managers
+* [Jdownloader](https://my.jdownloader.org/), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager), [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager.adm.lite), [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) or [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Download File Managers
 * [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
 * [Aethersx2](https://www.aethersx2.com/archive/) - File Directory Lister
 * [DeDuplicate](https://deduplicate.app/) - Duplicate File Remover
@@ -2398,12 +2395,9 @@
 * [Android Tool](https://github.com/fast-geek/Android-Tool) or [ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) - ABD / Fastboot Programs
 * [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot&hl=en_IN) - Logcat / Dmesg Boot Animation
 * [LogFox](https://github.com/F0x1d/LogFox) - LogCat Reader
-* [PotatoNV](https://github.com/mashed-potatoes/PotatoNV) - Huawei Device Bootloader
 * [Amazing Temp Root](https://forum.xda-developers.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - MediaTek Temp Root
 * [TWRP Root](https://twrp.me/) /  [Telegram](https://t.me/samsung_twrp_root/78379) or [UnofficialTWRP](https://unofficialtwrp.com/) - TWRP Root
 * [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451), [SkyHawk](https://skyhawkrecovery.github.io/) / [GitHub](https://github.com/SHRP), [PitchBlack](https://pitchblackrecovery.com/) or [OrangeFox](https://wiki.orangefox.tech/en/home) / [GitHub](https://gitlab.com/OrangeFox/misc/appdev/app) - Custom Recovery Firmware
-* [SamFirm A.I.O​](https://forum.xda-developers.com/t/tool-samfirm-a-i-o-tools-firmware-downloader-mtp-bypass-frp.4210103/), [samsung-frp-bypass-project](https://github.com/pubuduprasad/samsung-frp-bypass-project-) or [Firmwareland](https://firmwareland.com/) - Firmware / FRP Bypass
-* [Eureka](https://eurekadevelopment.github.io/) - Samsung Exynos Modding Community
 * [Frida-Mobile-Scripts](https://github.com/m0bilesecurity/Frida-Mobile-Scripts) - FRIDA Mobile Scripts
 * [SmartPack-Kernel-Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager) - Kernel Manager
 * [Swappa](https://swappa.com/imei) or [SickW](https://www.sickw.com/) - IMEI, MEID, ESN Checker
@@ -2411,7 +2405,6 @@
 * [Smali Patcher](https://forum.xda-developers.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
 * [Play Integrity API Checker](https://play.google.com/store/apps/details?id=gr.nikolasspyr.integritycheck) - Device Integrity Checker
 * [Albastuz3d](https://albastuz3d.net/) - Stock Phone ROMs
-* [NokiaFIimwareGP](https://t.me/nokiafirmwaregp) or [NokiaOldFirmware](https://t.me/nokiaoldfirmware) - Nokia Firmware
 * [Legacy Portable Computing Wiki](https://lpcwiki.miraheze.org/) - Legacy Portable Computer Wiki
 * [Odin](https://www.odindownload.com/) or [IVTheme](https://www.ivtheme.com/) - ROM Flashing Tools
 * [UniPatcher](https://github.com/btimofeev/UniPatcher) - ROM Patcher
@@ -2975,7 +2968,6 @@
 * [Up Tempo](https://play.google.com/store/apps/details?id=com.stonekick.tempo&hl=en&gl=US) - Audio Tempo Editor
 * [ViPER4Android](https://github.com/programminghoch10/ViPER4AndroidRepackaged) - Audio Modifier / Equalizer
 * [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) - Headphone Audio Equalizer
-* [GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient) - Galaxy Buds Manager
 * [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer), [RootlessJamesDSP](https://github.com/ThePBone/RootlessJamesDSP) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizer
 * [Voleq](https://play.google.com/store/apps/details?id=com.veryclevernamecompany.voleq) - Volume Equalizer
 * [audio-analyzer](https://github.com/woheller69/audio-analyzer-for-android) or [Spectroid](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum) - Audio Spectrum Analyzers
@@ -3061,7 +3053,7 @@
 * [LokLok](https://loklok.com/download) - Movies / TV
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - YTS Torrents 
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - Chinese Drama 
-* [aDrama](https://adrama.app/) - Asian Drama / [Addons](https://github.com/nbats/FMHYedit/blob/main/base64.md#adrama-addons)
+* [aDrama](https://adrama.app/) - Asian Drama
 * [Amnis](https://play.google.com/store/apps/details?id=com.amnis) - Stream Videos from Torrents
 * [RSS Player](https://play.google.com/store/apps/details?id=pis.android.rss.rssplayer&amp;hl=en_US) - KDrama / [Feed](http://allrss.se/dramas)
 * [Drive Stream](https://github.com/itsZECHS/DriveStream) or [Thunder](https://github.com/anujd64/Thunder/) - GDrive Video Player
@@ -3101,7 +3093,6 @@
 ## ▷ Android Live TV 
 
 * [Live Sports HD](https://forum.mobilism.org/search.php?keywords=Live+Sports+HD+TV&sr=topics&sf=titleonly) - Sports
-* [OLATV](https://github.com/nbats/FMHYedit/blob/main/base64.md#ola-tv)
 * [Live NetTV](https://www.livenettv.bz/)
 * [SonyLiv (Modded)](https://github.com/nbats/FMHYedit/blob/main/base64.md#sonyliv)
 * [OTTRun](https://www.ottrun.com/), [Tiwee](https://github.com/neffex97/Tiwee) or [Xstream Player](https://play.google.com/store/apps/details?id=com.devcoder.iptvxtreamplayer) - IPTV Players
@@ -3603,7 +3594,7 @@
 
 ***
 
-* ↪️ **[Course Megadrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#course-megadrives)** or [Large Collection of Useful Mega DL's](https://github.com/nbats/FMHYedit/blob/main/base64.md#large-collection-of-useful-mega-dls)
+* ↪️ **[Course Megadrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#course-megadrives)**
 * ⭐ **[TutFlix](https://tutflix.org/)** - Courses / Drives
 * ⭐ **[OneHack](https://onehack.us/)** - Courses
 * ⭐ **[HackNation](https://hacksnation.com/)** - Courses
@@ -3644,7 +3635,6 @@
 * [Moneiac Course](https://t.me/moneiac_course) - Courses / Telegram
 * [learningDL](https://learningdl.net/) - Courses / Leech required
 * [FreeTutsDownload.net](https://freetutsdownload.net/) - Courses / Tutorials
-* [iTunes U](https://github.com/nbats/FMHYedit/blob/main/base64.md#itunesu-lectures) - Lectures
 * [ScalerFullStack](https://t.me/scalerfullstack), [ScalerNerds](https://t.me/scalerds) or [scalerfullstackproductmanagement](https://t.me/scalerfullstackproductmanagement) - Scaler Courses
 * [BestWSODownload](https://www.bestwsodownload.com/) - WSO Courses
 * [Udemy Course Megadrives](https://github.com/nbats/FMHYedit/blob/main/base64.md#udemy-course-drives)
@@ -4209,7 +4199,6 @@
 
 * 🌐 **[Many Things](http://www.manythings.org/)** - ESL Resources
 * 🌐 **[ESOL](https://www.esolcourses.com/)** - English Learning Resources
-* ↪️ **[Vocab / Pronunciation Books](https://github.com/nbats/FMHYedit/blob/main/base64.md#e-books_432)**
 * [The Internet TESL Journal](http://iteslj.org/) - Resources for EFL and ESL Teachers
 * [Learn English Online](https://www.learn-english-online.org/)
 * [EnglishCentral](https://www.englishcentral.com/)
@@ -4434,7 +4423,7 @@
 * [/r/ApStudents Resources](https://github.com/nbats/FMHYedit/blob/main/base64.md#rapstudents-resources) - Former AP Exams
 * [/r/APStudents Course Survey](https://docs.google.com/spreadsheets/u/6/d/1s-YM81RvD11h9UOTba_XsBKEy-NW8PEXim2UxSLwdRE/edit#gid=1924688511) - AP Exam Comparison Spreadsheet
 * [/r/CATpreparation](https://www.reddit.com/r/CATpreparation/) - CAT Test Prep / [Discord](https://discord.gg/CAvHUZY6rH)
-* [AQA GCSE 2019](https://github.com/nbats/FMHYedit/blob/main/base64.md#aqa-gcse-2019) or [Revisely](https://www.revisely.co.uk/) - GCSE Exams
+* [Revisely](https://www.revisely.co.uk/) - GCSE Exams
 * [Future Vision BIE](https://hemanthrajhemu.github.io/) - VTU Study Material
 * [CrackJee](https://www.crackjee.xyz/) - JEE & NEET Study Material + Answers
 * [JEEBOOKS](https://www.jeebooks.in/) - JEE, NEET, KVPY & CBSE Study Material
@@ -4670,9 +4659,6 @@
 * [Rom GDrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#rom-gdrive) - ROMs
 * [Arquivista ROMs](https://github.com/nbats/FMHYedit/blob/main/base64.md#arquivista) - ROMs
 * [FinalBurn Neo](https://github.com/nbats/FMHYedit/blob/main/base64.md#finalburn-neo) - ROMs / Zip 
-* [Everdrive](https://github.com/nbats/FMHYedit/blob/main/base64.md#everdrive) - ROMs / Zip
-* [Many Dumped Games](https://github.com/nbats/FMHYedit/blob/main/base64.md#many-dumped-games) - ROMs
-* [nwifiresticks](https://github.com/nbats/FMHYedit/blob/main/base64.md#nwifiresticks) - ROMs
 * [Retrostic](https://www.retrostic.com/) - Emulators / ROMs
 * [ROMsie](https://romzie.com/) - Emulators / ROMs
 * [Romsever](https://romsever.com) - Emulators / ROMs
@@ -4691,7 +4677,6 @@
 * [ROMs DL](https://romsdl.com/) - Emulators / ROMs
 * [HappyROMs](https://happyroms.com/) - Emulators / ROMs
 * [RPGOnly](https://rpgonly.com) - ROMs
-* [Sundby](https://github.com/nbats/FMHYedit/blob/main/base64.md#sundby) - ROMs
 * [GLoad](https://gload.to/) - ROMs
 * [AllMyROMs](https://www.allmyroms.net/) - ROMs
 * [ROMsFun](https://ROMsfun.com/) - ROMs
@@ -4855,7 +4840,6 @@
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
 * [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [GitHub](https://github.com/ioquake/ioq3)
 * [Aleph One](https://alephone.lhowon.org/) - Open-Source Marathon Continuation 
-* [Powerslave EX](https://github.com/nbats/FMHYedit/blob/main/base64.md#powerslave-ex) - Powerslave PC Port 
 * [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) - Driver 2 PC Port
 * [Megaman 2.5D](http://petersjostrand.com/) - Multiplayer Mega Man
 * [Streets of Rage Remake](https://sorr.forumotion.net/t838-new-streets-of-rage-remake-v5-2-download-and-info) - Streets of Rage Remake
@@ -5201,14 +5185,13 @@
 
 ## ▷ Flash Games
 
-* 🌐 **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8), [Flash Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#software-library-flash), [Rek's Collection](https://github.com/nbats/FMHYedit/blob/main/base64.md#reks-flash-game-collection) or [ClassicGames.rar](https://github.com/nbats/FMHYedit/blob/main/base64.md#classicgamesrar) (pw:paluch) - Flash Game Archives 
+* 🌐 **[Flashpoint](https://flashpointarchive.org/)** / [Discord](https://discord.gg/Z4gGtJvvn8) or [Flash Library](https://github.com/nbats/FMHYedit/blob/main/base64.md#software-library-flash) - Flash Game Archives 
 * ↪️ **[Flash Player Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_flash_player_tools)**
 * ⭐ **[How-to Play Flash Games](https://rentry.co/oc4wc)** - Browser Flash Game Tutorial
 * [Flash by Night](http://flashbynight.com/) - Browser Games
 * [FlashGamesArchive](http://www.flashgamearchive.com/playable/) - Browser Games
 * [Flash Arch](https://flasharch.com/en) - Browser Games
 * [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Browser Games
-* [The Flash Emulation Repair Shop](https://github.com/nbats/FMHYedit/blob/main/base64.md#the-flash-emulation-repair-shop) - Flash Games Under Repair
 * [Arcade Prehacks](http://www.arcadeprehacks.com/), [SamsHackedGames](https://www.samshackedgames.com/) or [KongHack](https://konghack.com/) - Flash Game Hacks
 
 ***
@@ -5397,6 +5380,7 @@
 
 * ⭐ **[Grouvee](https://www.grouvee.com/)** - Game Tracker
 * ⭐ **[Glitchwave](https://glitchwave.com/)** - Game Tracker
+* ⭐ **[Backloggd](https://www.backloggd.com/)** - Game Tracker
 * ⭐ **[GiantBomb](https://www.giantbomb.com/games/)** - Game Database
 * ⭐ **[TasteDive](https://tastedive.com/)** - Game Recommendations
 * [/r/ifyoulikeblank](https://www.reddit.com/r/ifyoulikeblank/) - Game Recommendations
@@ -5407,7 +5391,6 @@
 * [GameFAQs](https://gamefaqs.gamespot.com/) - Game Database
 * [GG App](https://ggapp.io/) - Game Tracker
 * [Gamelib](https://gamelib.app/explore) - Game Tracker
-* [Backloggd](https://www.backloggd.com/) - Game Database
 * [LaunchBox Games Database](https://gamesdb.launchbox-app.com/) - Game Database 
 * [IGDB](https://www.igdb.com/) - Game Database
 * [Steam Games](https://steam-games.org/) - Game Database
@@ -6230,7 +6213,6 @@
 * ↪️ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_file_encryption_tools)**
 * ↪️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_drive_formatting_.2F_file_deletion)**
 * ↪️ **[Windows 10 Antispy Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_antispy_tools)**
-* ↪️ **[Password Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_password_generators)**
 * ↪️ **[Privacy / Safety Guides](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_privacy_guides)**
 * ↪️ **[Encrypted XMPP Servers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_encrypted_xmpp_servers)**
 * ↪️ **[Name & Identity Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_name_.26amp.3B_identity_generators)**
@@ -7727,39 +7709,9 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ***
 
-#### 176.36.86.211
-
-`aHR0cDovLzE3Ni4zNi44Ni4yMTEvdmlkZW8vYW5pbWUv`
-
-***
-
-#### 166.84.7.155
-
-`aHR0cHM6Ly8xNjYuODQuNy4xNTUvYW5pbWUv`
-
-***
-
-#### ns3309227
-
-`aHR0cDovL25zMzMwOTIyNy5pcC0xNzgtMzItMjIyLmV1Lw==`
-
-***
-
 #### belia
 
 `aHR0cHM6Ly9iZWxpYS5mci9ldmcv`
-
-***
-
-#### Anime Time Drive
-
-`aHR0cHM6Ly9hdGRyaXZlLmFuaW1ldGltZXNlcnZlci53b3JrZXJzLmRldi8wOi8K`
-
-***
-
-#### geedryve
-
-`aHR0cHM6Ly9qYWNvYnNtLmNvbS9nZWVkcnl2ZS9yZWNvcmRzL21wM3Mv`
 
 ***
 
@@ -7787,12 +7739,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ***
 
-#### BurntScarr
-
-`aHR0cDovL3d3dy5idXJudHNjYXJyLmNvbS9idXJudHNjYXJyL1NURU1TLw==`
-
-***
-
 #### Setlists
 
 `aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvMTNCODIzdWt4ZFZNb2Nvd28xczVYblQzdHpjaU9mcnVoVVZlUEVOS2MwMW8v`
@@ -7806,16 +7752,9 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ***
 
-#### Sundby
-
-`aHR0cHM6Ly9hcmNoaXZlLnN1bmRieS5jb20vcmV0cm8v`
-
-***
-
 #### No-Intro
 
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL25vLWludHJvX3JvbXNldHMKaHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL05vLUludHJvLUNvbGxlY3Rpb25fMjAxNi0wMS0wM19GaXhlZApodHRwczovL2FyY2hpdmUub3JnL2RldGFpbHMvTm8tSW50cm8tQ29sbGVjdGlvbl8yMDE2LTA5LTA2`
-
+`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL25vLWludHJvX3JvbXNldHM=`
 
 ***
 
@@ -7827,7 +7766,7 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 #### RomCenter
 
-`aHR0cHM6Ly9yZW50cnkuY28vMjR1ZngKaHR0cHM6Ly9wYXN0ZWxpbmsubmV0LzI2bmxqCmh0dHBzOi8vcmVudHJ5LmNvL3Zpbjd4`
+`aHR0cHM6Ly9yZW50cnkuY28vMjR1ZngKaHR0cHM6Ly9wYXN0ZWxpbmsubmV0LzI2bmxq`
 
 ***
 
@@ -7849,24 +7788,6 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ***
 
-#### Everdrive
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL2xhdGVzdC1ldmVyZHJpdmUtcGFjay0yMDIwLTA0LTE2`
-
-***
-
-#### Many Dumped Games
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL0BtYW55ZHVtcGVkZ2FtZXM=`
-
-***
-
-#### nwifiresticks
-
-`aHR0cDovL253aWZpcmVzdGlja3MuY29tL3JvbXMv`
-
-***
-
 #### TOSEC
 
 `aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL1RPU0VDX1YyMDE3LTA0LTIzCmh0dHBzOi8vYXJjaGl2ZS5vcmcvZGV0YWlscy90b3NlYw==`
@@ -7879,43 +7800,9 @@ Use any **[Base64 Decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/stor
 
 ***
 
-#### Powerslave EX
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xVkZ2T1lLeWp5RndINXNxU0w1bXpfamwzU2RJVWNBT1kvdmlldz91c3A9c2hhcmluZw==`
-
-***
-
 #### Software Library: Flash
 
 `aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL3NvZnR3YXJlbGlicmFyeV9mbGFzaA==`
-
-
-***
-
-#### Rek's Flash Game Collection
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXBfa0RkOXVKejcyUzNtOW83a2ExMzZmeENXUEVCS0VHP3VzcD1zaGFyaW5n`
-
-***
-
-#### ClassicGames.rar
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xeWxIazQ2dmRWMWRaY2ZVVVNOREFUN0YyUlZvaThGRlMv`
-
-pass: paluch
-
-
-***
-
-#### The Flash Emulation Repair Shop
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL2ZsYXNoX3JlcGFpcl9zaG9w`
-
-***
-
-#### just a digital library
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWlRTWRxNXlLMEVCcWExZmdrbVFUZlc3RVdTZUpXWXZU`
 
 ***
 
@@ -8052,18 +7939,6 @@ pass: paluch
 
 *** 
 
-#### Lee B. Drive
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL3UvMC9tb2JpbGUvZm9sZGVycy8xODN0ZjhQbVFid2dWQzdIcnhPWjVXUVB1bFZkLVVvbWk=`
-
-*** 
-
-#### Critical Thinking
-
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9aTWx4aFlMQSNzRy1vcHVBRGRrTml1OS1JZGVKTzRR`
-
-*** 
-
 #### Historical Audiobooks Collection
 
 `aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci91dGNoeUFBSyNHVFZsMWZJTnBla0VjaDk1eGo4Rm1n`
@@ -8114,7 +7989,7 @@ pass: paluch
 
 #### Open Directory Indexes
 
-`aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9zZWFyY2g/cT1zaXRlOnJlZGRpdC5jb20vci9vcGVuZGlyZWN0b3JpZXMrb2RzaG90K2FmdGVyOjIwMTgKaHR0cHM6Ly9yZWRkLml0L2x2ZHdsbQpodHRwczovL2dpdGh1Yi5jb20vc3RyYXdoYXQtcGlyYXRlcy9ub3Rlcy9ibG9iL21hc3Rlci9vcGVuZGlyZWN0b3JpZXMudHh0Cmh0dHBzOi8vYmluLmRpc3Jvb3Qub3JnLz8zMDgyZjA0MjA1YmU3YWY2I0JFNEFoc1B3V1lYZExVam1tRExSeVFOanZHNnZhSG5Ra1FBa3lDVENVcTM0Cmh0dHBzOi8vZ2lzdC5naXRodWIuY29tL0NoYXBoYXNpbG9yLzcxOGUxM2MxZjY1NGI3YjBlNDliM2I0MWU0ODU1ZjUwCmh0dHBzOi8vcmVkZC5pdC9vd2R2dzc=`
+`aHR0cHM6Ly9naXRodWIuY29tL3N0cmF3aGF0LXBpcmF0ZXMvbm90ZXMvYmxvYi9tYXN0ZXIvb3BlbmRpcmVjdG9yaWVzLnR4dApodHRwczovL2Jpbi5kaXNyb290Lm9yZy8/MzA4MmYwNDIwNWJlN2FmNiNCRTRBaHNQd1dZWGRMVWptbURMUnlRTmp2RzZ2YUhuUWtRQWt5Q1RDVXEzNApodHRwczovL2dpc3QuZ2l0aHViLmNvbS9DaGFwaGFzaWxvci83MThlMTNjMWY2NTRiN2IwZTQ5YjNiNDFlNDg1NWY1MApodHRwczovL3JlZGQuaXQvb3dkdnc3`
 
 *** 
 
@@ -8132,13 +8007,7 @@ pass: paluch
 
 #### Course Megadrives
 
-`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9lbEVsa0tUSSNhQ1FidFRRNzl0dTV5RV9ZRkI2X3N3Cmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvcEFsMHdSS0sjRklaemJZamtUXzA5cVJUNUJTMkdYUSAKaHR0cHM6Ly9tZWdhLm56L2ZvbGRlci80dDRoaENUYSN6SWlNWkJSVkFpYkFUdEh4d1EyYl93IApodHRwczovL21lZ2EubnovZm9sZGVyL2lJc0VrYjRCIzR0ZE5IVVlUS1RKRGVJeEkyRlpFM0EgCmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvc2hwejBBQ1EjdGR5YVFpOUhjVk0tb0tIOU54VmV3QSAKaHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9sbTVsZ1F4VCNRaDUyWXFFMC1rd1BfLWVXb2hNQmJ3IApodHRwczovL21lZ2EubnovZm9sZGVyL3l1NFMzQkpRI2JodEEtT0llUTJibnVNMmJQY1Uyd1EvZm9sZGVyL0hyNEdYVDRM`
-
-*** 
-
-#### iTunesU Lectures
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL0BreW5kaWdz`
+`aHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9wQWwwd1JLSyNGSVp6Yllqa1RfMDlxUlQ1QlMyR1hRCmh0dHBzOi8vbWVnYS5uei9mb2xkZXIvaUlzRWtiNEIjNHRkTkhVWVRLVEpEZUl4STJGWkUzQQpodHRwczovL21lZ2EubnovZm9sZGVyL3NocHowQUNRI3RkeWFRaTlIY1ZNLW9LSDlOeFZld0EKaHR0cHM6Ly9tZWdhLm56L2ZvbGRlci9sbTVsZ1F4VCNRaDUyWXFFMC1rd1BfLWVXb2hNQmJ3Cg==`
 
 *** 
 
@@ -8172,33 +8041,9 @@ pass: paluch
 
 *** 
 
-#### AQA GCSE 2019
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXhJYXhmUVllUGxUVDJYeFJYWU1PalhkdXZaemFZeVA3P3VzcD1zaGFyaW5n`
-
-*** 
-
-#### Safari Windows
-
-`aHR0cHM6Ly9tZWdhLm56L2ZpbGUvenFvRVdaYVEjcU5BTjhKblZfNzlnSUk0b2ZNczRad01BY3lkWkFRdzZHZG5nX1FFeU5Edw==`
-
-*** 
-
-#### Win11 Sounds
-
-`aHR0cHM6Ly9tZWdhLm56L2ZpbGUvQ3BSa3dUckQjOU5paGVmaUZEQmlyaHd0WHFTdmpXQWhyRnpVUGNKdmVDZWVQZldoMWxtbw==`
-
-*** 
-
-#### WinXP Service Pack 4
-
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVVoMFZZanExaGNkNG9ZX3pOekVxQWFyMW00Tk8ydVRDP3VzcD1zaGFyaW5nKQ==`
-
-*** 
-
 #### Windows Piracy Guides
 
-`aHR0cHM6Ly9yZW50cnkub3JnL3dpbmRvd3NfcGlyYWN5Cmh0dHBzOi8vcmVudHJ5LmNvL3dpbmRvd3NfZm9yX3JldGFyZHMKaHR0cHM6Ly9yZW50cnkub3JnL2luc3RhbGx3aW5kb3dz`
+`aHR0cHM6Ly9yZW50cnkub3JnL3dpbmRvd3NfcGlyYWN5Cmh0dHBzOi8vcmVudHJ5Lm9yZy9pbnN0YWxsd2luZG93cw==`
 
 *** 
 
@@ -8220,18 +8065,6 @@ pass: paluch
 
 *** 
 
-#### PonyDroid
-
-`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1wb255ZHJvaWQmc3I9dG9waWNzJnNmPXRpdGxlb25seQ==`
-
-*** 
-
-#### Solid Explorer
-
-`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1zb2xpZCtleHBsb3JlciZ0ZXJtcz1hbGwmYXV0aG9yPSZzYz0xJnNmPXRpdGxlb25seSZzcj10b3BpY3Mmc2s9dCZzZD1kJnN0PTAmY2g9MzAwJnQ9MCZzdWJtaXQ9U2VhcmNo`
-
-*** 
-
 #### PhotoMath
 
 `aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1waG90b21hdGgmdGVybXM9YWxsJmF1dGhvcj0mc2M9MSZzZj10aXRsZW9ubHkmc3I9dG9waWNzJnNrPXQmc2Q9ZCZzdD0wJmNoPTMwMCZ0PTAmc3VibWl0PVNlYXJjaA==`
@@ -8244,27 +8077,9 @@ pass: paluch
 
 ***
 
-#### E-books_432
-
-`aHR0cHM6Ly9hcmNoaXZlLm9yZy9kZXRhaWxzL0UtYm9va3NfNDMy`
-
-***
-
-#### Large Collection of Useful Mega DL's
-
-`aHR0cHM6Ly9wYXN0ZWJpbi5jb20vWk10WmEySlY=`
-
-***
-
 #### SWAP
 
 `aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1zd2FwK25vK3Jvb3QmdGVybXM9YWxsJmF1dGhvcj0mc2M9MSZzZj10aXRsZW9ubHkmc3I9dG9waWNzJnNrPXQmc2Q9ZCZzdD0wJmNoPTMwMCZ0PTAmc3VibWl0PVNlYXJjaA==`
-
-***
-
-#### ADrama Addons
-
-`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1hZHJhbWEmc3I9dG9waWNzJnNmPXRpdGxlb25seQ==`
 
 ***
 
@@ -8277,12 +8092,6 @@ pass: paluch
 #### Crunchyroll Mod
 
 `aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1jcnVuY2h5cm9sbCZzcj10b3BpY3Mmc2Y9dGl0bGVvbmx5`
-
-***
-
-#### OLA TV
-
-`aHR0cHM6Ly9mb3J1bS5tb2JpbGlzbS5vcmcvc2VhcmNoLnBocD9rZXl3b3Jkcz1vbGErdHYmYW1wO3NyPXRvcGljcyZhbXA7c2Y9dGl0bGVvbmx5`
 
 ***
 
@@ -14169,12 +13978,8 @@ pass: paluch
 * [Mix Bag of Anime](https://github.com/nbats/FMHYedit/blob/main/base64.md#mix-bag-of-anime) - Sub / Dub
 * [Chiby](https://www.animechiby.com/) - Sub / [Discord](https://discord.com/invite/WagHbBz)
 * [anime7.download](http://anime7.download/) - Sub
-* [176.36.86.211](https://github.com/nbats/FMHYedit/blob/main/base64.md#1763686211) - Sub / Dub
-* [166.84.7.155](https://github.com/nbats/FMHYedit/blob/main/base64.md#166847155) - Sub / Dub
-* [ns3309227](https://github.com/nbats/FMHYedit/blob/main/base64.md#ns3309227) - Sub / Dub
 * [belia](https://github.com/nbats/FMHYedit/blob/main/base64.md#belia) - Sub / Dub
 * [CartoonsArea](https://www.cartoonsarea.xyz/) - Sub / Dub
-* [Anime Time Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#anime-time-drive) - Sub / Dub 
 * [nibl](https://nibl.co.uk/) - Sub / Dub / XDCC / [Discord](https://discord.com/invite/bUESsAg)
 * [Bubble' Upscale Project](https://discord.gg/7kqqtJ7ArW) - Upscaled Anime / Requests
 * [Anime DL](https://archive.org/details/animedl4.0_202004) - Stream & Download Anime in VLC
@@ -15155,7 +14960,6 @@ pass: paluch
 * [BookSee](https://en.booksee.org/), [2](https://bookree.org/) - Books
 * [Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines
 * [ebook3000.co](https://www.ebook3000.co/) - Books / Magazines / NSFW
-* [just a digital library](https://github.com/nbats/FMHYedit/blob/main/base64.md#just-a-digital-library) - Books
 * [openlibrary](https://openlibrary.org/) - Books
 * [standardebooks](https://standardebooks.org) - Books
 * [Manybooks](https://manybooks.net/)  - Books
@@ -15185,8 +14989,6 @@ pass: paluch
 * [ibookscafe](https://bookscafe.net/) - Books / NSFW
 * [FullBooks](http://www.fullbooks.com/) - Books
 * [e-Book Mecca](https://ebook-mecca.com/) - Books
-* [eBook4Expert](https://ebook4expert.net/) - Books
-* [TheFreeOnlineNovel](https://thefreeonlinenovel.com/) - Books
 * [ReadOnlineFreeBook](https://readonlinefreebook.com/) - Books
 * [All Books Hub](https://allbookshub.com/) - Books
 * [ebooksz](https://ebooksz.net/) - Books
@@ -15542,7 +15344,6 @@ pass: paluch
 * [Open Educational Resources](https://cdn-infographic.pressidium.com/wp-content/uploads/How-to-Search-for-Open-Educational-Resources-Infographic.jpg) - How to search for Open Educational Resources
 * [HowStuffWorks](https://www.howstuffworks.com/) - Learn How Things Work
 * [masterWiki](https://masterwiki.how/) - MasterClass Classes Republished as wikiHow Articles
-* [Critical Thinking](https://github.com/nbats/FMHYedit/blob/main/base64.md#critical-thinking) - Books / Guides / Pictures
 * [/r/textbook_piracy](https://reddit.com/r/textbook_piracy)
 * [/r/textbookrequest](https://reddit.com/r/textbookrequest)
 * [/r/mathbooks](https://reddit.com/r/mathbooks)
@@ -15585,7 +15386,6 @@ pass: paluch
 * [WorldRadioHistory](https://worldradiohistory.com/) - Radio History Archive
 * [The Morgan Library Museum](https://www.themorgan.org/music) or [DIAMM](https://www.diamm.ac.uk/) - Musical Manuscripts
 * [HornTip](https://www.horntip.com/) - Military Songbooks
-* [Lee B. Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#lee-b-drive) - Black History Books
 * [NASA History](https://history.nasa.gov/series95.html) - NASA History Books
 * [De Re Militari](https://deremilitari.org/articles/) - Medieval Military History
 * [ByzantineMilitary](https://byzantinemilitary.blogspot.com/) - Byzantine Military History
@@ -16654,7 +16454,6 @@ pass: paluch
 * [MartinRadio](https://www.martinradio.com/) - MP3
 * [Mixupload](https://mixupload.com/) - MP3
 * [Slider](https://slider.kz/) - MP3
-* [geedryve](https://github.com/nbats/FMHYedit/blob/main/base64.md#geedryve) - MP3 
 * [Rhapsody](https://github.com/nbats/FMHYedit/blob/main/base64.md#rhapsody) - MP3
 * [Tyler](https://github.com/nbats/FMHYedit/blob/main/base64.md#tyler) - MP3
 * [24naijamuzic](https://www11.24naijamuzic.com/album/) - MP3
@@ -16746,7 +16545,7 @@ pass: paluch
 * [KDramaOST](https://kdramaost.com/en) - Asian Drama Soundtracks
 * [Doujin Cafe](https://discord.com/invite/doujincafe) or [DoujinStyle](https://discord.com/invite/z2QDFdA) - Doujin Music
 * [BitMidi](https://bitmidi.com/), [Geocities Midi's](https://archive.org/details/archiveteam-geocities-midi-collection-2009) / [2](https://www.midicities.com/GeoCities), [Tricotism](https://www.tricotism.com/), [ArtScene](http://artscene.textfiles.com/music/midi/) or [VGMusic](http://www.vgmusic.com/) - MIDI Files
-* [BurntScarr](https://github.com/nbats/FMHYedit/blob/main/base64.md#burntscarr) or [/r/MusicStems](https://www.reddit.com/r/MusicStems/) - STEMS
+* [/r/MusicStems](https://www.reddit.com/r/MusicStems/) - STEMS
 * [Tabletop Audio](https://tabletopaudio.com/) - Ambient Audio for Tabletop Games 
 * [Free Music Archive](https://www.freemusicarchive.org/), [Unminus](https://www.unminus.com/), [BenSound](https://www.bensound.com/), [HookSounds](https://www.hooksounds.com/), [UppBeat](https://uppbeat.io/), [Soundimage](https://soundimage.org/), [free stock music](https://www.free-stock-music.com/) or [Fugue](https://icons8.com/music) - Royalty Free Music
 * [Music Hoarders](https://discord.gg/d4hgc7GCAj) - Music Hoarding Community
@@ -17573,7 +17372,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 ***
 ***
 
-**[Table of Contents](https://ibb.co/Tq2KV2M)** - For mobile users
+**[Table of Contents](https://ibb.co/SmF5wjZ)** - For mobile users
 
 ***
 ***
@@ -17667,7 +17466,7 @@ Use [this](https://bitbucket.org/magnolia1234/bypass-paywalls-firefox-clean/src/
 
 * ⭐ **[MiXplorer](https://mixplorer.com/)**, [2](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) - [Themes](https://play.google.com/store/apps/details?id=de.dertyp7214.mixplorerthemecreator)
 
-[rcx](https://x0b.github.io/), [Amaze File Manager](https://teamamaze.xyz/), [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager), [Ghost Commander](https://sourceforge.net/projects/ghostcommander/), [Solid Explorer](https://github.com/nbats/FMHYedit/blob/main/base64.md##solid-explorer), [Material Files](https://github.com/zhanghai/MaterialFiles), [ES File Explorer](https://archive.org/details/es-file-explorergood-version), [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), [IrkFM](https://github.com/lfuelling/lrkFM), [SD Maid SE](https://github.com/d4rken-org/sdmaid-se), [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch)
+[rcx](https://x0b.github.io/), [Amaze File Manager](https://teamamaze.xyz/), [Simple File Manager](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager), [Ghost Commander](https://sourceforge.net/projects/ghostcommander/), [Material Files](https://github.com/zhanghai/MaterialFiles), [ES File Explorer](https://archive.org/details/es-file-explorergood-version), [Cx File Explorer](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer), [IrkFM](https://github.com/lfuelling/lrkFM), [SD Maid SE](https://github.com/d4rken-org/sdmaid-se), [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch)
 
 ***
 
@@ -19377,12 +19176,6 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 
 ***
 
-## Password Generators
-
-[HawkPass](https://kalpetros.github.io/hawkpass/), [StrongPasswordGenerator](https://privacycanada.net/strong-password-generator/), [PassSnip](https://passnip.com/), [ExpressVPN PW Generator](https://www.expressvpn.com/password-generator), [MOAC](https://sr.ht/~seirdy/MOAC/), [Clover](https://cloverleaf.app), [passwrd](https://passwrd.in/#/), [RepasswordGenerator](https://www.repasswordgenerator.com/), [silverhammermba](https://silverhammermba.github.io/password/), [PasswordsGenerator](https://passwordsgenerator.net/), [DiceWare](https://diceware.rempe.us/), [Bitwarden PW Generator](https://bitwarden.com/password-generator/), [Passphrase Generator](https://www.fourmilab.ch/javascrypt/pass_phrase.html)
-
-***
-
 ## Password Managers
 
 * ⭐ **[KeePass XC](https://keepassxc.org/)**, [2](https://keepass.info/) - [Ports](https://keepass.info/download.html) / [Plugins](https://keepass.info/plugins.html) / [Read-Only Functionality](https://subdavis.com/Tusk/) / [CLI](https://github.com/rebkwok/kpcli)
@@ -19413,7 +19206,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * ⭐ **[katb](https://katb.in/)**
 * [Snips.sh](https://snips.sh/) - Self-Hosted
 
-[TextBin](https://textbin.xyz/), [paste](https://paste.ee/), [JustPaste.it](https://justpaste.it/), [pst.moe](https://pst.moe/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [bin.idrix](https://bin.idrix.fr/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/) / [2](https://dpaste.org/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [paaster](https://paaster.io/), [pastery](https://www.pastery.net/), [privatebin](https://privatebin.net/), [pastebin.pl](https://pastebin.pl/), [bpa](https://bpa.st/), [bin](https://bin.gy/), [paste.fo](https://paste.fo/), [nekobin](https://nekobin.com/), [hasbin](https://hashb.in), [Defuse](https://defuse.ca/pastebin.htm), [gocatgo](https://github.com/vaaleyard/gocatgo), [zerobin](https://zerobin.net/), [paste.vaa.red](https://paste.vaa.red/), [Hasty Paste](https://github.com/enchant97/hasty-paste), [bucketex](https://bucketex.com/), [hardbin](https://hardbin.com/), [hatebin](https://hatebin.com/), [pastemytxt](https://pastemytxt.com/), [txtpaste](https://txtpaste.com/), [pastecode](https://pastecode.io/), [pastehere](https://pastehere.xyz/), [txtnotes](https://txtnotes.co/), [paste.debian](https://paste.debian.net/), [ivpaste](https://ivpaste.com/), [centos](https://paste.centos.org/), [rwtxt](https://rwtxt.com/), [blankslate](https://blankslate.io/), [paste.tc](https://paste.tc/), [blazebin](https://blazebin.io/)
+[TextBin](https://textbin.xyz/), [paste](https://paste.ee/), [pst.moe](https://pst.moe/), [paste2](https://paste2.org/), [pastelinks](https://pastelink.net/), [bin.idrix](https://bin.idrix.fr/), [p.ip.fi](https://p.ip.fi/), [paste.mozilla](https://paste.mozilla.org/), [paste.ubuntu](https://paste.ubuntu.com/), [pastebin](https://pastebin.com/), [telegra.ph](https://telegra.ph/), [blackhost](https://blackhost.xyz/?id=pst), [protectedtext](https://www.protectedtext.com/), [Cl1p](https://cl1p.net/), [shortbin](http://bin.shortbin.eu:8080/), [sicp](https://sicp.me/), [throwbin](https://throwbin.in/), [dpaste](https://dpaste.com/) / [2](https://dpaste.org/), [copydock](https://copydock.vercel.app/paste), [riseup pad](https://pad.riseup.net/), [tempaste](https://tempaste.com/), [zPaste](https://zpaste.net/), [bitbin](https://bitbin.it/), [pastes.io](https://pastes.io/), [txt](https://txt.fyi/), [peeplink](https://peeplink.in/), [controlc](https://controlc.com/), [paaster](https://paaster.io/), [pastery](https://www.pastery.net/), [privatebin](https://privatebin.net/), [pastebin.pl](https://pastebin.pl/), [bpa](https://bpa.st/), [bin](https://bin.gy/), [paste.fo](https://paste.fo/), [nekobin](https://nekobin.com/), [hasbin](https://hashb.in), [Defuse](https://defuse.ca/pastebin.htm), [gocatgo](https://github.com/vaaleyard/gocatgo), [zerobin](https://zerobin.net/), [paste.vaa.red](https://paste.vaa.red/), [Hasty Paste](https://github.com/enchant97/hasty-paste), [bucketex](https://bucketex.com/), [hardbin](https://hardbin.com/), [hatebin](https://hatebin.com/), [pastemytxt](https://pastemytxt.com/), [txtpaste](https://txtpaste.com/), [pastehere](https://pastehere.xyz/), [txtnotes](https://txtnotes.co/), [paste.debian](https://paste.debian.net/), [ivpaste](https://ivpaste.com/), [centos](https://paste.centos.org/), [rwtxt](https://rwtxt.com/), [blankslate](https://blankslate.io/), [paste.tc](https://paste.tc/), [blazebin](https://blazebin.io/)
 
 ***
 
@@ -20762,6 +20555,7 @@ http://24.13.229.188:8090/, http://104.131.175.196:8080/, http://70.88.180.169:8
 * [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) - Auto Switch Light / Dark Mode Wallpapers
 * [Dynamic Wallpaper](https://play.google.com/store/apps/details?id=rk.android.app.dynamic.wallpaper) - Wallpapers that Change Based on Battery
 * [koncius](https://play.google.com/store/apps/details?id=com.koncius.video.wallpaper) - Android Video to Wallpaper
+* [Canvas-Downlaoder](https://www.canvasdownloader.com/) - Spotify Canvas Wallpapers 
 * [WallClaimer](https://www.wallclaimer.com/) - Snag Friends Wallpapers
 * [Das Image](https://apps.apple.com/ca/app/das-image-search-and-explore/id1464079804) - iOS Wallpaper App
 
