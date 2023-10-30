@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Browse Collection
-      link: /Beginners-Guide
+      link: /adblockvpnguide
     - theme: alt
       text: Discord
       link: https://discord.gg/Stz6y6NgNg
