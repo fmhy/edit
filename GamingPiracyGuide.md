@@ -91,6 +91,7 @@
 * [Visual Pinball](https://github.com/vpinball/vpinball) - Pinball Table Editor / Simulator / [Tables](https://www.vpforums.org/)
 * [Puyo Puyo VS](https://puyovs.com/) - Puyo Puyo Clone
 * [Clone Hero](https://clonehero.net/) - Guitar Hero Clone / [Setlists](https://github.com/nbats/FMHYedit/blob/main/base64.md#setlists), [2](https://customsongscentral.com/) / [Wii Controller Support](https://github.com/Meowmaritus/WiitarThing)
+* [YARC-Official](https://github.com/YARC-Official) - Rock Band Clone
 * [StepMania](https://www.stepmania.com/), [Project OutFox](https://projectoutfox.com/) or [NotITG](https://www.noti.tg/) - DDR Clones
 * [PumpSanity](https://pumpsanity.net/) - Pump It Up Clone
 * [Malody](https://m.mugzone.net/) - Rhythm Game
@@ -144,6 +145,7 @@
 * [UniversalDynamicInput]( https://github.com/Venomalia/UniversalDynamicInput) - Custom Dolphin Button Pack
 * [RPCS3 Setup Guide](https://docs.google.com/document/d/1gdjNab-CtVS97jH2diPPP5tCrpBeof9-qPIRRB9-BrU/edit) - RPCS3 Emulator Setup Guide
 * [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) - PSCX Development Emulator
+* [RetroAchievements](https://retroachievements.org/) - Achievements for Emulators
 
 ***
 
@@ -411,6 +413,7 @@
 * [Mexican Train](https://mexicantrain.online/) - Domino Train Game
 * [Gridland](http://gridland.doublespeakgames.com/) - Grid Matching RPG
 * [Backpack Hero](https://thejaspel.itch.io/backpack-hero) - Turn-Based RPG
+* [Sans Fight](https://jcw87.github.io/c2-sans-fight/) - Undertale Fight Simulator
 * [Hacker Wars](https://hackerwars.io/) or [SlaveHack2](http://slavehack2.com/) - Hacking Game
 * [2020 Game](https://2020game.io/) - Play through 2020
 * [Flappy Bird](https://flappybird.io/) - HTML5 Flappy Bird
