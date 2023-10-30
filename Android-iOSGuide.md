@@ -46,6 +46,7 @@
 * [APKVision](https://apkvision.org/)
 * [TeamOS](https://www.teamos.xyz/)
 * [APK Home](https://apkhome.io/)
+* [RockMods](https://www.rockmods.net/) - [Telegram](https://t.me/RBMods)
 * [DL King](http://dl.king2net.com/soft%20android/)
 * [Modding United](https://moddingunited.xyz/)
 * [AKMods](https://www.akmods.in/)
@@ -77,7 +78,6 @@
 * [apk.cafe](https://apk.cafe/)
 * [Material-You-app-list](https://github.com/nyas1/Material-You-app-list)
 * [Mitch](https://sr.ht/~gardenapple/mitch/) - .io Games Storefront
-* [Fine Lock](https://finelock.app/) or [Good Lock](https://apps.samsung.com/appquery/appDetail.as?appId=com.samsung.android.goodlock) - Samsung Galaxy Apps
 * [Shelf](https://play.google.com/store/apps/details?id=com.shelf.app) - App Recommendations
 * [Free App Giveaways](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_free_stuff) - App Giveaway Sites
 
@@ -111,7 +111,6 @@
 * [ANiK555_Mods](https://t.me/ANiK555_Mods)
 * [EasyAPK](https://t.me/EasyAPK)
 * [Tech Day](https://t.me/s/tech_d4y)
-* [GalaxyAPKs](https://t.me/galaxy_apks)
 * [GoldenBoot_Mods_Re](https://t.me/GoldenBoot_Mods_Re)
 * [faloojein](https://t.me/faloojein)
 * [IC_Mods](https://t.me/IC_Mods)
@@ -127,6 +126,7 @@
 ## ▷ Android Device
 
 * 🌐 **[Root Essentials](https://sites.google.com/view/superthomaslab/root-essentials)** - Multiple Root Tools
+* 🌐 **[Manufacturer Specific](https://rentry.org/ekrw4)** - Manufacturer Specific Mobile Tools
 * ↪️ **[Device Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_shopping)**
 * ↪️ **[Custom Operating Systems](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_android_operating_systems)**
 * ↪️ **[App Launchers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_app_launchers)**
@@ -149,11 +149,11 @@
 * [QuickSwitch](https://github.com/skittles9823/QuickSwitch) - Enable Quickstep in Launchers 
 * [Activity Launcher](https://github.com/butzist/ActivityLauncher) - Activity Launch Shortcuts
 * [Android Debloat Guide](https://rentry.co/debloatandroid), [debloat-android](https://christitus.com/debloat-android/) or [Uninstall Bloatware](https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/) - Android Debloating Guides
-* [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/0x192/universal-android-debloater), [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) or [Debloat Samsung Android](https://github.com/khlam/debloat-samsung-android) - Android Debloaters
+* [Universal Android Debloater](https://forum.xda-developers.com/t/script-2020-10-04-v2-7-universal-android-debloater.4069209/) / [GUI](https://github.com/0x192/universal-android-debloater) or [De-Bloater](https://sunilpaulmathew.github.io/De-Bloater/) - Android Debloaters
 * [DetoxDroid](https://github.com/flxapps/DetoxDroid) - Make Your Phone Less Distracting
 * [Hail](https://github.com/aistra0528/Hail) - Auto-Deactivate Unused Apps
 * [Blocker](https://github.com/lihenggui/blocker) - Component Controller
-* [Ponydroid](https://github.com/nbats/FMHYedit/blob/main/base64.md#ponydroid), [Jdownloader](https://my.jdownloader.org/), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager), [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager.adm.lite), [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) or [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Download File Managers
+* [Jdownloader](https://my.jdownloader.org/), [MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager), [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager.adm.lite), [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm) or [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Download File Managers
 * [Marc Files](https://play.google.com/store/apps/details?id=com.marc.files) - File Manager Shortcut
 * [Aethersx2](https://www.aethersx2.com/archive/) - File Directory Lister
 * [DeDuplicate](https://deduplicate.app/) - Duplicate File Remover
@@ -192,12 +192,9 @@
 * [Android Tool](https://github.com/fast-geek/Android-Tool) or [ADB-and-FastbootPlusPlus](https://github.com/K3V1991/ADB-and-FastbootPlusPlus) - ABD / Fastboot Programs
 * [LiveBoot](https://play.google.com/store/apps/details?id=eu.chainfire.liveboot&hl=en_IN) - Logcat / Dmesg Boot Animation
 * [LogFox](https://github.com/F0x1d/LogFox) - LogCat Reader
-* [PotatoNV](https://github.com/mashed-potatoes/PotatoNV) - Huawei Device Bootloader
 * [Amazing Temp Root](https://forum.xda-developers.com/t/amazing-temp-root-for-mediatek-armv8-2020-08-24.3922213/) - MediaTek Temp Root
 * [TWRP Root](https://twrp.me/) /  [Telegram](https://t.me/samsung_twrp_root/78379) or [UnofficialTWRP](https://unofficialtwrp.com/) - TWRP Root
 * [Odin3](https://forum.xda-developers.com/showthread.php?t=2711451), [SkyHawk](https://skyhawkrecovery.github.io/) / [GitHub](https://github.com/SHRP), [PitchBlack](https://pitchblackrecovery.com/) or [OrangeFox](https://wiki.orangefox.tech/en/home) / [GitHub](https://gitlab.com/OrangeFox/misc/appdev/app) - Custom Recovery Firmware
-* [SamFirm A.I.O​](https://forum.xda-developers.com/t/tool-samfirm-a-i-o-tools-firmware-downloader-mtp-bypass-frp.4210103/), [samsung-frp-bypass-project](https://github.com/pubuduprasad/samsung-frp-bypass-project-) or [Firmwareland](https://firmwareland.com/) - Firmware / FRP Bypass
-* [Eureka](https://eurekadevelopment.github.io/) - Samsung Exynos Modding Community
 * [Frida-Mobile-Scripts](https://github.com/m0bilesecurity/Frida-Mobile-Scripts) - FRIDA Mobile Scripts
 * [SmartPack-Kernel-Manager](https://github.com/SmartPack/SmartPack-Kernel-Manager) - Kernel Manager
 * [Swappa](https://swappa.com/imei) or [SickW](https://www.sickw.com/) - IMEI, MEID, ESN Checker
@@ -205,7 +202,6 @@
 * [Smali Patcher](https://forum.xda-developers.com/t/module-smali-patcher-7-4.3680053/) - Android System Patcher
 * [Play Integrity API Checker](https://play.google.com/store/apps/details?id=gr.nikolasspyr.integritycheck) - Device Integrity Checker
 * [Albastuz3d](https://albastuz3d.net/) - Stock Phone ROMs
-* [NokiaFIimwareGP](https://t.me/nokiafirmwaregp) or [NokiaOldFirmware](https://t.me/nokiaoldfirmware) - Nokia Firmware
 * [Legacy Portable Computing Wiki](https://lpcwiki.miraheze.org/) - Legacy Portable Computer Wiki
 * [Odin](https://www.odindownload.com/) or [IVTheme](https://www.ivtheme.com/) - ROM Flashing Tools
 * [UniPatcher](https://github.com/btimofeev/UniPatcher) - ROM Patcher
@@ -769,7 +765,6 @@
 * [Up Tempo](https://play.google.com/store/apps/details?id=com.stonekick.tempo&hl=en&gl=US) - Audio Tempo Editor
 * [ViPER4Android](https://github.com/programminghoch10/ViPER4AndroidRepackaged) - Audio Modifier / Equalizer
 * [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet) - Headphone Audio Equalizer
-* [GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient) - Galaxy Buds Manager
 * [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer), [RootlessJamesDSP](https://github.com/ThePBone/RootlessJamesDSP) or [Flat Equalizer](https://play.google.com/store/apps/details?id=com.jazibkhan.equalizer) - Audio Equalizer
 * [Voleq](https://play.google.com/store/apps/details?id=com.veryclevernamecompany.voleq) - Volume Equalizer
 * [audio-analyzer](https://github.com/woheller69/audio-analyzer-for-android) or [Spectroid](https://play.google.com/store/apps/details?id=org.intoorbit.spectrum) - Audio Spectrum Analyzers
@@ -855,7 +850,7 @@
 * [LokLok](https://loklok.com/download) - Movies / TV
 * [Moviesy](https://github.com/KaustubhPatange/Moviesy) - YTS Torrents 
 * [EncoreTVB](https://play.google.com/store/apps/details?id=com.tvbusa.english&amp;hl=en_US) - Chinese Drama 
-* [aDrama](https://adrama.app/) - Asian Drama / [Addons](https://github.com/nbats/FMHYedit/blob/main/base64.md#adrama-addons)
+* [aDrama](https://adrama.app/) - Asian Drama
 * [Amnis](https://play.google.com/store/apps/details?id=com.amnis) - Stream Videos from Torrents
 * [RSS Player](https://play.google.com/store/apps/details?id=pis.android.rss.rssplayer&amp;hl=en_US) - KDrama / [Feed](http://allrss.se/dramas)
 * [Drive Stream](https://github.com/itsZECHS/DriveStream) or [Thunder](https://github.com/anujd64/Thunder/) - GDrive Video Player
@@ -895,7 +890,6 @@
 ## ▷ Android Live TV 
 
 * [Live Sports HD](https://forum.mobilism.org/search.php?keywords=Live+Sports+HD+TV&sr=topics&sf=titleonly) - Sports
-* [OLATV](https://github.com/nbats/FMHYedit/blob/main/base64.md#ola-tv)
 * [Live NetTV](https://www.livenettv.bz/)
 * [SonyLiv (Modded)](https://github.com/nbats/FMHYedit/blob/main/base64.md#sonyliv)
 * [OTTRun](https://www.ottrun.com/), [Tiwee](https://github.com/neffex97/Tiwee) or [Xstream Player](https://play.google.com/store/apps/details?id=com.devcoder.iptvxtreamplayer) - IPTV Players
