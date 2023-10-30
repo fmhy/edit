@@ -105,7 +105,6 @@
 * [winapps](https://github.com/Fmstrat/winapps), [Cassowary](https://github.com/casualsnek/cassowary), [CrossOver](https://www.codeweavers.com/crossover) or [Bottles](https://usebottles.com/) - Run Windows Apps on Linux
 * [wslu](https://github.com/wslutilities/wslu) - Utilities for Windows 10 Linux Subsystem
 * [Darling](https://www.darlinghq.org/) - Run MacOS Apps on Linux
-* [FlameGApps](https://github.com/flamegapps/flamegapps) - Google Apps Installer
 * [Ulauncher](https://ulauncher.io/) - Application Launcher
 * [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - App Image Launcher
 * [DeskCut](https://github.com/NayamAmarshe/DeskCut) - Desktop Shortcuts App
