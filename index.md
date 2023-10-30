@@ -11,7 +11,7 @@ hero:
     alt: FMHY Icon
   actions:
     - theme: brand
-      text: Get Started
+      text: Browse Collection
       link: /Beginners-Guide
     - theme: alt
       text: Discord
