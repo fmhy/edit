@@ -669,12 +669,8 @@
 * [Mix Bag of Anime](https://github.com/nbats/FMHYedit/blob/main/base64.md#mix-bag-of-anime) - Sub / Dub
 * [Chiby](https://www.animechiby.com/) - Sub / [Discord](https://discord.com/invite/WagHbBz)
 * [anime7.download](http://anime7.download/) - Sub
-* [176.36.86.211](https://github.com/nbats/FMHYedit/blob/main/base64.md#1763686211) - Sub / Dub
-* [166.84.7.155](https://github.com/nbats/FMHYedit/blob/main/base64.md#166847155) - Sub / Dub
-* [ns3309227](https://github.com/nbats/FMHYedit/blob/main/base64.md#ns3309227) - Sub / Dub
 * [belia](https://github.com/nbats/FMHYedit/blob/main/base64.md#belia) - Sub / Dub
 * [CartoonsArea](https://www.cartoonsarea.xyz/) - Sub / Dub
-* [Anime Time Drive](https://github.com/nbats/FMHYedit/blob/main/base64.md#anime-time-drive) - Sub / Dub 
 * [nibl](https://nibl.co.uk/) - Sub / Dub / XDCC / [Discord](https://discord.com/invite/bUESsAg)
 * [Bubble' Upscale Project](https://discord.gg/7kqqtJ7ArW) - Upscaled Anime / Requests
 * [Anime DL](https://archive.org/details/animedl4.0_202004) - Stream & Download Anime in VLC
