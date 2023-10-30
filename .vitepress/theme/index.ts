@@ -1,8 +1,12 @@
 import { h } from "vue";
-import "uno.css";
-import type { Theme } from "vitepress";
+import  {type Theme, inBrowser } from "vitepress";
 import DefaultTheme from "vitepress/theme";
 import "./style.css";
+import "uno.css";
+
+if (inBrowser)
+  import('./pwa')
+
 
 export default {
   Layout: () => {
