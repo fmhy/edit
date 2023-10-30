@@ -1,10 +1,16 @@
 import type { PwaOptions } from "@vite-pwa/vitepress";
 import { meta } from "./constants";
+import { resolve } from "pathe";
+import fg from "fast-glob";
 
 export const pwa = {
   outDir: ".vitepress/dist",
   registerType: "autoUpdate",
   includeManifestIcons: false,
+  includeAssets: fg.sync("**/*.{png,webp,svg,gif,ico,txt}", {
+    cwd: resolve(__dirname, "../public"),
+  }),
+
   manifest: {
     id: "/",
     name: meta.name,
@@ -18,19 +24,20 @@ export const pwa = {
     display: "standalone",
     display_override: ["window-controls-overlay"],
     categories: meta.keywords,
+    // TODO: replace with actual icons
     icons: [
       {
-        src: "pwa-64x64.png",
+        src: "test.png",
         sizes: "64x64",
         type: "image/png",
       },
       {
-        src: "pwa-192x192.png",
+        src: "test.png",
         sizes: "192x192",
         type: "image/png",
       },
       {
-        src: "pwa-512x512.png",
+        src: "test.png",
         sizes: "512x512",
         type: "image/png",
         purpose: "any",
@@ -55,6 +62,9 @@ export const pwa = {
   },
   workbox: {
     globPatterns: ["**/*.{css,js,html,svg,png,ico,txt,woff2,json}"],
+    globIgnores: ["**/404.html"],
+    navigateFallback: null,
+
     runtimeCaching: [
       {
         urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,
@@ -85,5 +95,9 @@ export const pwa = {
         },
       },
     ],
+  },
+  devOptions: {
+    enabled: true,
+    suppressWarnings: false,
   },
 } satisfies PwaOptions;

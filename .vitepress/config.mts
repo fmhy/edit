@@ -4,6 +4,7 @@ import UnoCSS from "unocss/vite";
 import { presetUno, presetAttributify, presetIcons } from "unocss";
 import { meta } from "./constants";
 import { pwa } from "./pwa";
+import { generateMeta } from "./hooks/meta";
 
 export default withPwa(
   defineConfig({
@@ -20,27 +21,27 @@ export default withPwa(
       hostname: meta.hostname,
     },
     head: [
+
       ["meta", { name: "theme-color", content: "#7bc5e4" }],
       ["meta", { name: "og:type", content: "website" }],
       ["meta", { name: "og:locale", content: "en" }],
       ["meta", { property: "og:type", content: "website" }],
       ["meta", { property: "og:title", content: meta.name }],
-      // ["meta", { property: "og:image", content: ogImage }],
-      ["meta", { property: "og:description", content: meta.description }],
-      // ["meta", { property: "og:url", content: ogUrl }],
-      ["link", { rel: "icon", href: "/favicon.ico", sizes: "any" }],
-      ["link", { rel: "icon", href: "/logo.svg", type: "image/svg+xml" }],
-      ["link", { rel: "apple-touch-icon", href: "/apple-touch-icon.png" }],
+      ["link", { rel: "icon", href: "/fmhy.ico", sizes: "any" }],
+      ["link", { rel: "icon", href: "/test.png", type: "image/svg+xml" }],
+      ["link", { rel: "mask-icon", href: "/test.png", color: "#7bc5e4" }],
+      // pwa
+      ["link", { rel: "alternate icon", href: "/test.png" }],
+      ["link", { rel: "apple-touch-icon", href: "/fmhy.png", sizes: "192x192" }],
       ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black-translucent" }],
-      ["meta", { name: "author", content: "Joaquín Sánchez" }],
       ["meta", { name: "keywords", content: meta.keywords.join(" ") }],
       ["meta", { name: "twitter:description", content: meta.description }],
       ["meta", { name: "twitter:title", content: meta.name }],
       ["meta", { name: "twitter:card", content: "summary_large_image" }],
-      // ["meta", { name: "twitter:image", content: ogImage }],
       ["meta", { name: "twitter:site", content: meta.hostname }],
-      // ["meta", { name: "twitter:url", content: ogUrl }],
     ],
+   transformHead: async (context) => generateMeta(context, meta.hostname),
+
     vite: {
       plugins: [
         UnoCSS({
@@ -72,7 +73,6 @@ export default withPwa(
         { text: "Updates", link: "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/updates/" },
       ],
       sidebar: [
-        { text: "🏴‍☠️ Beginners Guide to Piracy", link: "/Beginners-Guide" },
         { text: "📛 Adblocking / Privacy", link: "/AdblockVPNGuide" },
         { text: "🤖 Artificial Intelligence", link: "/AI" },
         { text: "📺 Movies / TV / Anime", link: "/VideoPiracyGuide" },
