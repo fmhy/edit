@@ -4,7 +4,7 @@
 ***
 ***
 
-**[Table of Contents](https://ibb.co/K6YsvRr)** - For mobile users
+**[Table of Contents](https://ibb.co/CH6ywzR)** - For mobile users
 
 ***
 *** 
@@ -547,6 +547,8 @@
 * [Let's Encrypt](https://letsencrypt.org/) - Free TLS Certificates
 * [SSL for Free](https://www.sslforfree.com/) or [ZeroSSL](https://zerossl.com/) - Free SSL Certificates
 * [mkcert](https://github.com/FiloSottile/mkcert) - Locally Trusted Development Certificates
+* [TrainCertPoster](https://aka.ms/TrainCertPoster) - Microsoft Certifications Roadmap
+* [AWS Certifications](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf) - AWS Certifications Roadmap
 * [OpenSSL](https://www.openssl.org/) - SSL / TLS Toolkit
 * [SSL Config Generator](https://ssl-config.mozilla.org/) - Generate SSL Configurations
 * [Sandstorm](https://sandstorm.io/), [Cosmos](https://cosmos-cloud.io/) or [CloudRon](https://www.cloudron.io/) - Web App Hosts
@@ -903,84 +905,95 @@
 
 ## ▷ Git Tools
 
-* 🌐 **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [grep.app](https://grep.app/), [awesome-lis](https://github.com/topics/awesome-list), [Console](https://console.substack.com/) or [awesome-github](https://github.com/fffaraz/awesome-github) - Git Project Indexes
-* 🌐 **[Awesome First PR Oppotunities](https://github.com/MunGell/awesome-for-beginners)** - Beginner FOSS Project Index
+* 🌐 **[Console](https://console.substack.com/)** - Search projects on OpenSourceHub.io
 * 🌐 **[Awesome README](https://github.com/matiassingers/awesome-readme)** - GitHub Readme Resources
-* 🌐 **[Awesome Actions](https://github.com/sdras/awesome-actions)** - Github Action Resources
-* 🌐 **[Awesome Browser Extensions](https://stefanbuck.com/awesome-browser-extensions-for-github)** - GitHub Browser Extensions
-* 🌐 **[Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)** - GitHub Badge Resources
-* 🌐 **[GitHub-Userscripts](https://github.com/Mottie/GitHub-userscripts)** - GitHub Userscripts
 * 🌐 **[Forge Comparison](https://git.sdf.org/humanacollaborator/humanacollabora/src/branch/master/forge_comparison.md)** - Git Colab Tool Comparison
 * ↪️ **[Git Project Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_git_projects)**
-* ⭐ **[GitHub Desktop](https://desktop.github.com/)** / [Linux](https://github.com/shiftkey/desktop) or [Git-Fork](https://git-fork.com/) - Desktop Clients
-* ⭐ **[GotHub](https://codeberg.org/gothub/gothub)** - GitHub Frontend
-* ⭐ **[GitHub.Dev](https://github.dev/)** - GitHub Web App
+* ⭐ **[Git-Fork](https://git-fork.com/)** - Git Desktop Client (Windows and MacOS only, freemium)
 * ⭐ **[GitLab](https://about.gitlab.com/)**, [FSFE](https://git.fsfe.org/) or [NotABug](https://notabug.org/) - GitHub Alternatives
 * ⭐ **[Git Explorer](https://gitexplorer.com/)**, [Git Cheatsheet](http://www.ndpsoftware.com/git-cheatsheet.html), [git-cheatsheet](https://hackprogramming.com/notes/git-cheatsheet) or [Git Commands](https://gabrieldejesus.github.io/git-commands/) / [2](https://github.com/gabrieldejesus/git-commands) - Git Command Lists
-* [GitHubStatus](https://www.githubstatus.com/) - GitHub Outage Status
-* [Githut](https://githut.info/) - GitHub Programming Language Stats
 * [posh-git](https://github.com/dahlbyk/posh-git) - Git Powershell Environment
-* [refined-github](https://github.com/refined-github/refined-github) or [Ungit](https://github.com/FredrikNoren/ungit) - Improved GitHub Interface
-* [Imgbot](https://github.com/imgbot/Imgbot) - GitHub Image Compression
 * [up-for-grabs](https://up-for-grabs.net/) - Curated List of Tasks for New Contributes
-* [ActionServerless](https://github.com/gitx-io/ActionServerless) - Create Serverless Service
-* [Rahularity](https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3) - Use Multiple Git Accounts at Once
 * [GitKraken](https://www.gitkraken.com/) or [Sourcetree](https://www.sourcetreeapp.com/) - Git GUI
-* [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - Git TUI
+* [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/Extrawurst/gitui) - Git UI
 * [Gut](https://gut-cli.dev/) - Git CLI
-* [GitHub Web IDE](https://github.com/zvizvi/GitHub-Web-IDE) - Web IDE
 * [Codeberg](https://codeberg.org/), [git.sr.ht](https://git.sr.ht/) or [GitGud](https://gitgud.io/) - Git Hosting
 * [Git / Github Guide](https://fateen45.notion.site/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833)
 * [SparkleShare](https://github.com/hbons/SparkleShare) - Git Collab Tool
 * [GitBook](https://www.gitbook.com/) - Document Collaboration
-* [dotfiles](https://dotfiles.github.io/) - GitHub Dotfiles
-* [Refined GitHub](https://github.com/refined-github/refined-github) - Simplifies GitHub Interface & Adds Features 
-* [Octobox](https://octobox.io/), [Gitify](https://www.gitify.io/), [advanced-github-notifier](https://github.com/freaktechnik/advanced-github-notifier), [PR Monitor](https://github.com/fwouts/prmonitor), [CatLight](https://catlight.io/) or [Ghostly](https://ghostlyapp.net/) / [GitHub](https://github.com/patriksvensson/ghostly) - GitHub Notifications
-* [Gidget](https://github.com/GDGVIT/gidget) - GitHub Notifications / Android
 * [Git-notify](https://github.com/jevakallio/git-notify) - Embed Announcements into Git Commit Messages
 * [Allstar](https://github.com/ossf/allstar) - Git Repository Security App
 * [git-bug](https://github.com/MichaelMure/git-bug) - Git Embedded Bug Tracker
-* [github1s](https://github1s.com/) - GitHub Code Viewer / GUI: do `gitk` in Repo Folder
-* [KeyManager](https://github.com/Yash-Garg/KeyManager) - GitHub SSH / GPG Key Manager
 * [Tara](https://tara.ai/) - Git Project Manager
-* [Serctl](https://d.serctl.com/) - Backup GitHub Projects
 * [GitList](https://gitlist.org/) - Elegant Git Repository Viewer / [GitHub](https://github.com/klaussilveira/gitlist)
 * [Gittyup](https://murmele.github.io/Gittyup/) - Git Source Code History
-* [Pew Pew](https://adrianmato.com/pewpew) - Cleanup Unused Repos
-* [No Secrets](https://github.com/sourcegraph-community/no-secrets) - Cleanup Sensitive Files in Repos
 * [git](https://git-scm.com/) - Version Control System
 * [multi-gitter](https://github.com/lindell/multi-gitter) - Bulk Repository Updater
 * [Git Extensions](https://gitextensions.github.io/), [Railway](https://railway.app/) or [Thermal](https://thermal.codecarrot.net/) - Git Repository Managers
+* [Ugit](https://github.com/Bhupesh-V/ugit) - Undo Git Commands
+* [Onefetch](https://github.com/o2sh/onefetch) - Git Repo Summary in Terminal
+* [Sourcegraph](https://about.sourcegraph.com/) - Git Repository Sourcegraph Editor 
+* [onefetch](https://github.com/o2sh/onefetch) - Git Information Terminal
+* [Conventional Commits](https://www.conventionalcommits.org/) - Commit Message Specification
+* [AICommits](https://github.com/Nutlope/aicommits) - Auto Commit Messages
+* [lastversion](https://github.com/dvershinin/lastversion) or [ghrel](https://github.com/jreisinger/ghrel) - Download / View Latest Stable Repos
+* [Git Cliff](https://github.com/orhun/git-cliff) - Changelog Generator
+* [readme.so](https://readme.so/) - Readme Markdown Editor
+* [GIT Quick Stats](https://git-quick-stats.sh/) - View Git Statistics / [GitHub](https://github.com/arzzen/git-quick-stats)
+* [Langits](https://langits.davejudd.dev/) - See Most Used Programming Languages User
+* [gitignore.io](https://gitignore.io) - Gitignore Templates / [GitHub](https://github.com/github/gitignore)
+* [MGit](https://github.com/maks/MGit) - Git client for Android
+* [GitNex](https://codeberg.org/gitnex/GitNex/) - Forgejo and Gitea client for Android
+* [Gitea](https://about.gitea.com/) / [2](https://gittea.dev/) or [Drift](https://drift.lol/) - Self-Hosted Git Services
+
+***
+
+## ▷ GitHub Tools
+
+* 🌐 **[GitHub Awesome](https://app.polymersearch.com/discover/github-awesome)**, [grep.app](https://grep.app/), [awesome-lis](https://github.com/topics/awesome-list), or [awesome-github](https://github.com/fffaraz/awesome-github) - GitHub Project Indexes
+* 🌐 **[Awesome First PR Oppotunities](https://github.com/MunGell/awesome-for-beginners)** - Beginner FOSS Project Index
+* 🌐 **[Awesome Actions](https://github.com/sdras/awesome-actions)** - Github Action Resources
+* 🌐 **[Awesome Browser Extensions](https://stefanbuck.com/awesome-browser-extensions-for-github)** - GitHub Browser Extensions
+* 🌐 **[Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk)** - GitHub Badge Resources
+* 🌐 **[GitHub-Userscripts](https://github.com/Mottie/GitHub-userscripts)** - GitHub Userscripts
+* ⭐ **[GitHub Desktop](https://desktop.github.com/)** / [Linux](https://github.com/shiftkey/desktop) - GitHub Desktop Client
+* ⭐ **[GotHub](https://codeberg.org/gothub/gothub)** - GitHub Frontend
+* ⭐ **[GitHub.Dev](https://github.dev/)** - GitHub Web App
+* [GitHubStatus](https://www.githubstatus.com/) - GitHub Outage Status
+* [Githut](https://githut.info/) - GitHub Programming Language Stats
+* [refined-github](https://github.com/refined-github/refined-github) or [Ungit](https://github.com/FredrikNoren/ungit) - Improved GitHub Interface
+* [Imgbot](https://github.com/imgbot/Imgbot) - GitHub Image Compression
+* [ActionServerless](https://github.com/gitx-io/ActionServerless) - Create Serverless Service
+* [Rahularity](https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3) - Use Multiple Git Accounts at Once
+* [dotfiles](https://dotfiles.github.io/) - GitHub Dotfiles
+* [Refined GitHub](https://github.com/refined-github/refined-github) - Simplifies GitHub Interface & Adds Features 
+* [Gidget](https://github.com/GDGVIT/gidget) - GitHub Notifications / Android
+* [GitHub Web IDE](https://github.com/zvizvi/GitHub-Web-IDE) - Web IDE
+* [Octobox](https://octobox.io/), [Gitify](https://www.gitify.io/), [advanced-github-notifier](https://github.com/freaktechnik/advanced-github-notifier), [PR Monitor](https://github.com/fwouts/prmonitor), [CatLight](https://catlight.io/) or [Ghostly](https://ghostlyapp.net/) / [GitHub](https://github.com/patriksvensson/ghostly) - GitHub Notifications
+* [github1s](https://github1s.com/) - GitHub Code Viewer / GUI: do `gitk` in Repo Folder
+* [KeyManager](https://github.com/Yash-Garg/KeyManager) - GitHub SSH / GPG Key Manager
+* [Serctl](https://d.serctl.com/) - Backup GitHub Projects
+* [Pew Pew](https://adrianmato.com/pewpew) - Cleanup Unused Repos
+* [No Secrets](https://github.com/sourcegraph-community/no-secrets) - Cleanup Sensitive Files in Repos
 * [DownGit](https://minhaskamal.github.io/DownGit) - Download GitHub Repository Sub-Folders / Files
 * [Install from GitHub](https://github.com/MaxGyver83/install-from-github) or [Eget](https://github.com/zyedidia/eget) - Install Packages / Binaries Directly from GitHub 
-* [GitHub Wiki Search](https://github.com/linyows/github-wiki-search) - Search GitHub Repository Wikis
 * [useful-forks](https://useful-forks.github.io/) or [GitPop3](https://andremiras.github.io/gitpop3/) - GitHub Fork Search 
+* [GitHub Wiki Search](https://github.com/linyows/github-wiki-search) - Search GitHub Repository Wikis
 * [Active-Forks](https://techgaun.github.io/active-forks/index.html) - Find Active GitHub Forks / [GitHub](https://github.com/techgaun/active-forks)
 * [StarGrab](https://github.com/zekroTJA/stargrab) - Mirror GitHub Repositories
 * [OctoLinker](https://octolinker.vercel.app/) - Make GitHub Code References Clickable
-* [Ugit](https://github.com/Bhupesh-V/ugit) - Undo Git Commands
 * [Octotree](https://www.octotree.io/) - GitHub Repo File Tree View
-* [Onefetch](https://github.com/o2sh/onefetch) - Git Repo Summary in Terminal
 * [Nightly.link](https://nightly.link/) - GitHub Sharable Nightly Links
-* [Sourcegraph](https://about.sourcegraph.com/) - GitHub Repository Sourcegraph Editor 
-* [onefetch](https://github.com/o2sh/onefetch) - Git Information Terminal
 * [ActionFlow](https://actionsflow.github.io/) - Workflow Automation
 * [shot-scraper-template](https://github.com/simonw/shot-scraper-template) - Take Automated Screenshots of Web Pages
 * [Star History](https://star-history.com/) - Repository Star History Graph
 * [Gitstar Ranking](https://gitstar-ranking.com/) - Git Repo Star Rankings
 * [Whats New GitHub](https://github.com/flawyte/whats-new-github) or [GithubReleasesBot](https://telegram.me/GithubReleasesBot) - Repository Change Feeds 
-* [Conventional Commits](https://www.conventionalcommits.org/) - Commit Message Specification
-* [AICommits](https://github.com/Nutlope/aicommits) - Auto Commit Messages
-* [lastversion](https://github.com/dvershinin/lastversion) or [ghrel](https://github.com/jreisinger/ghrel) - Download / View Latest Stable Repos
-* [Git Cliff](https://github.com/orhun/git-cliff) - Changelog Generator
 * [GitHub Markdown Preview](https://aviaryan.github.io/javascripts/github.md/) - Preview Markdown
 * [ReadmeGallery](http://felixhayashi.github.io/ReadmeGalleryCreatorForGitHub/) - GitHub Remdme Gallery Creator
-* [readme.so](https://readme.so/) - Readme Markdown Editor
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically Generated GitHub Readme Stats 
 * [GitHub Contribution Graph](https://github.com/ez4o/github-contribution-graph) - Add GitHub ReadMe Contribution / Commit Graph
 * [Github Readme Quotes](https://github.com/shravan20/github-readme-quotes) - GitHub Readme Quote Generator
-* [GIT Quick Stats](https://git-quick-stats.sh/) - View Git Statistics / [GitHub](https://github.com/arzzen/git-quick-stats)
-* [Langits](https://langits.davejudd.dev/) - See Most Used Programming Languages User
 * [GitHub Release Downloads](https://github.com/addshore/browser-github-release-downloads) - GitHub Release Download Counter
 * [Shields.io](https://shields.io/) - Metadata badges for GitHub Readmes
 * [SkillIcons](https://skillicons.dev/) - Skill Badges for GitHub Readmes / Resumes
@@ -992,11 +1005,10 @@
 * [Github vscode icons](https://github.com/dderevjanik/github-vscode-icons) - VSCode Icons
 * [github-material-icons-extension](https://github.com/Claudiohbsantos/github-material-icons-extension) - Material Icons
 * [gist.io](https://gist.io/) - Git Blog Platform
-* [gitignore.io](https://gitignore.io) - Gitignore Templates / [GitHub](https://github.com/github/gitignore)
-* [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub), [diohub](https://github.com/NamanShergill/diohub), [Fasthub-Libre](https://github.com/thermatk/FastHub-Libre), [FastHub-RE](https://github.com/LightDestory/FastHub-RE), [MGit](https://github.com/maks/MGit), [GitNex](https://codeberg.org/gitnex/GitNex/) or [OctoDroid](https://github.com/slapperwan/gh4a) - Android GitHub Clients
+* [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub), [diohub](https://github.com/NamanShergill/diohub), [Fasthub-Libre](https://github.com/thermatk/FastHub-Libre), [FastHub-RE](https://github.com/LightDestory/FastHub-RE), or [OctoDroid](https://github.com/slapperwan/gh4a) - Android GitHub Clients
 * [GithubVisualizer](https://github.com/DheerajKotwani/GithubVisualizer) - Track Github User Activity on Android
-* [Gitea](https://about.gitea.com/) / [2](https://gittea.dev/) or [Drift](https://drift.lol/) - Self-Hosted Git Services
 
+***
 ***
 
 ## ▷ CLI Tools
@@ -1099,7 +1111,7 @@
 * [The Algorithms](https://the-algorithms.com/) - Algorithms Index
 * [Clang](https://clang.llvm.org/) - C Language Family Frontend
 * [SharpSystemTriggers](https://github.com/cube0x0/SharpSystemTriggers) - C# Remote Authentication Triggers
-* [GCC](https://gcc.gnu.org/) - GNU Compiler Frontends
+* [GCC](https://gcc.gnu.org/) or [MinGW](https://www.mingw-w64.org/) - GNU Compiler Frontends
 * [sed.js](https://sed.js.org/) - GNU sed Live Editor
 * [asdf](https://asdf-vm.com/) - Multi-Runtime Management CLI
 * [The SHA-256 Project](https://github.com/oconnor663/sha256_project) - Develop SHA-256 from Scratch
