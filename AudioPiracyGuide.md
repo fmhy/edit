@@ -172,8 +172,7 @@
 
 ## ▷ Ambient / Relaxation 
 
-* ↪️ **[Ambient Rain Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ambient_rain_sounds)**
-* ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_relaxation) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_relaxation)** - Ambient Mobile Apps 
+* ⭐ **[Rainy Mood](https://www.rainymood.com/)** - Ambient Rain
 * ⭐ **[Chillhop](https://chillhop.com/)** - Lofi Radio
 * ⭐ **[lofi.cafe](https://www.lofi.cafe/)** - Lofi Radio
 * ⭐ **[CityHop](https://www.cityhop.cafe/)** or [Japan Walkaround](https://thatguyedd.github.io/) - Lofi Radio / City Walks
@@ -209,6 +208,11 @@
 * [EcoSounds](http://en.ecosounds.net/) - Ambient
 * [CanvasCycle](http://www.effectgames.com/demos/canvascycle/) - Ambient
 * [RelaxFrens](https://www.relaxfrens.com/) - Ambient
+* [Rainbow Hunt](https://rainbowhunt.com/) - Ambient Rain
+* [Pluvior](https://pluvior.com/) - Ambient Rain
+* [rainfor.me](https://rainfor.me/) - Ambient Rain
+* [Raining.fm](https://raining.fm/) - Ambient Rain
+* [Rainyscope](https://rainyscope.com/) - Ambient Rain
 * [Sounds of Maine](https://soundsofmaine.life/) - Ambient Maine Sounds
 * [lofi](https://lofi.co/) - Ambient / Lofi
 * [Ambient Mixer](https://www.ambient-mixer.com/) - Ambient / Lofi
