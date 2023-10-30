@@ -82,7 +82,7 @@
 
 ***
 
-## ▷ [Mac Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25BA_mac_adblock_.2F_privacy)
+## ▷ [Mac Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_adblock_.2F_privacy2)
 
 ***
 
@@ -374,7 +374,6 @@
 * [AnonymousOverflow](https://github.com/httpjamesm/AnonymousOverflow) - StackOverflow Frontend 
 * [BreezeWiki](https://breezewiki.com/) - Fandom Frontend 
 * [Tent](https://codeberg.org/sun/Tent) - Bandcamp Frontend 
-* [Suds](https://git.vern.cc/cobra/Suds) - Snopes Frontend 
 * [Dumb](https://codeberg.org/rramiachraf/dumb) - Genius Frontend 
 * [Rural Dictionary](https://codeberg.org/zortazert/rural-dictionary) - Urban Dictionary Frontend 
 * [BiblioReads](https://codeberg.org/nesaku/BiblioReads) - Goodreads Frontend 
