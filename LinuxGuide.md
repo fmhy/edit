@@ -346,10 +346,10 @@
 
 * 🌐 **[Awesome-ttygames](https://github.com/ligurio/awesome-ttygames)** - Unix ASCII Games
 * ⭐ **[Linux Gaming Guide](https://www.reddit.com/r/LinuxCrackSupport/wiki/index)** / [2](https://web.archive.org/web/20221022121735/https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?context=3) - Linux Gaming Guides
-* ⭐ **[protondb](https://www.protondb.com/)** - Crowdsourced data describing the compatibility of a given title with Proton 
-* ⭐ **[Lutris](https://lutris.net/)** - Games manager
-* ⭐ **[proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** With **[Lutris](https://lutris.net/)** - Play Windows games on Linux, (Guide)[https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in/]
-* ⭐ **[ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/)** - Install and manage Proton-GE for Steam and Wine-GE for Lutris with graphical user interface
+* ⭐ **[protondb](https://www.protondb.com/)** - Proton Compatibility Descriptions
+* ⭐ **[Lutris](https://lutris.net/)** - Games Manager
+* ⭐ **[proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** With **[Lutris](https://lutris.net/)** - Play Windows Games on Linux / [Guide](https://www.reddit.com/r/LinuxCrackSupport/comments/yqfirv/how_to_install_fitgirl_or_dodi_windows_repacks_in/)
+* ⭐ **[ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt/)** - Install / Manage Proton-GE for Steam and Wine-GE for Lutris
 * ⭐ **[Batocera.linux](https://batocera.org/)** - Retro Gaming Distro
 * ⭐ **[Nobaraproject](https://nobaraproject.org/)** - Linux Gaming Distro
 * ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux Games / Use [Translator](https://github.com/FilipePS/Traduzir-paginas-web#install)
