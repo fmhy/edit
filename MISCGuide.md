@@ -102,9 +102,6 @@
 * [/r/googleplaydeals](https://reddit.com/r/googleplaydeals) - APKs
 * [/r/AppHookup](https://www.reddit.com/r/AppHookup/) - APKs
 * [App Sales](https://www.app-sales.net/) - APKs
-* [AppSales](https://play.google.com/store/apps/details?id=net.tsapps.appsales) - APKs
-* [AppsFree](https://play.google.com/store/apps/details?id=com.appsfree.android) - APKs
-* [PlayDeals](https://play.google.com/store/apps/details?id=me.sujanpoudel.playdeals) - APKs
 * [InstlApp](https://apps.apple.com/us/app/instlapp/id1502777382) - iOS Apps
 * [AppSumo Freebies](https://appsumo.com/tools/freebies/) - iOS Apps
 * [FreemiumBox](https://t.me/freemiumbox) - Giveaways and Freebies
