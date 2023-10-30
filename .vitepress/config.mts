@@ -2,13 +2,13 @@ import { defineConfig } from "vitepress";
 import { withPwa } from "@vite-pwa/vitepress";
 import UnoCSS from "unocss/vite";
 import { presetUno, presetAttributify, presetIcons } from "unocss";
-import { info } from "./constants";
+import { meta } from "./constants";
 import { pwa } from "./pwa";
 
 export default withPwa(
   defineConfig({
     title: "FMHY",
-    description: info.description,
+    description: meta.description,
     titleTemplate: ":title | FreeMediaHeckYeah",
     lang: "en-US",
     lastUpdated: true,
@@ -17,28 +17,28 @@ export default withPwa(
     srcExclude: ["README.md", "single-page", "DEVTools.md"],
     ignoreDeadLinks: true,
     sitemap: {
-      hostname: info.hostname,
+      hostname: meta.hostname,
     },
     head: [
       ["meta", { name: "theme-color", content: "#7bc5e4" }],
       ["meta", { name: "og:type", content: "website" }],
       ["meta", { name: "og:locale", content: "en" }],
       ["meta", { property: "og:type", content: "website" }],
-      ["meta", { property: "og:title", content: info.name }],
+      ["meta", { property: "og:title", content: meta.name }],
       // ["meta", { property: "og:image", content: ogImage }],
-      ["meta", { property: "og:description", content: info.description }],
+      ["meta", { property: "og:description", content: meta.description }],
       // ["meta", { property: "og:url", content: ogUrl }],
       ["link", { rel: "icon", href: "/favicon.ico", sizes: "any" }],
       ["link", { rel: "icon", href: "/logo.svg", type: "image/svg+xml" }],
       ["link", { rel: "apple-touch-icon", href: "/apple-touch-icon.png" }],
       ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black-translucent" }],
       ["meta", { name: "author", content: "Joaquín Sánchez" }],
-      ["meta", { name: "keywords", content: info.keywords.join(" ") }],
-      ["meta", { name: "twitter:description", content: info.description }],
-      ["meta", { name: "twitter:title", content: info.name }],
+      ["meta", { name: "keywords", content: meta.keywords.join(" ") }],
+      ["meta", { name: "twitter:description", content: meta.description }],
+      ["meta", { name: "twitter:title", content: meta.name }],
       ["meta", { name: "twitter:card", content: "summary_large_image" }],
       // ["meta", { name: "twitter:image", content: ogImage }],
-      ["meta", { name: "twitter:site", content: info.hostname }],
+      ["meta", { name: "twitter:site", content: meta.hostname }],
       // ["meta", { name: "twitter:url", content: ogUrl }],
     ],
     vite: {

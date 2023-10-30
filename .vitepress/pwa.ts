@@ -1,5 +1,5 @@
 import type { PwaOptions } from "@vite-pwa/vitepress";
-import { info } from "./constants";
+import { meta } from "./constants";
 
 export const pwa = {
   outDir: ".vitepress/dist",
@@ -7,9 +7,9 @@ export const pwa = {
   includeManifestIcons: false,
   manifest: {
     id: "/",
-    name: info.name,
-    short_name: info.name,
-    description: info.description,
+    name: meta.name,
+    short_name: meta.name,
+    description: meta.description,
     theme_color: "#ffffff",
     start_url: "/",
     lang: "en-US",
@@ -17,7 +17,7 @@ export const pwa = {
     orientation: "natural",
     display: "standalone",
     display_override: ["window-controls-overlay"],
-    categories: info.keywords,
+    categories: meta.keywords,
     icons: [
       {
         src: "pwa-64x64.png",
